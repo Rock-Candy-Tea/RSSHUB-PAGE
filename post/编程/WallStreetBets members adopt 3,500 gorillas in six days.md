@@ -1,0 +1,16 @@
+
+---
+title: WallStreetBets members adopt 3,500 gorillas in six days
+categories: 
+    - 编程
+    - Hacker News - 分类
+author: Hacker News - 分类
+comments: false
+date: 2021-03-21 16:40:54
+thumbnail: 
+---
+
+<div>   
+Link: <a href="https://www.bbc.co.uk/news/business-56416954"> WallStreetBets members adopt 3,500 gorillas in six days </a>  
+</div>
+            

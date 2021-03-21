@@ -1,0 +1,16 @@
+
+---
+title: VALORANT RETAKE
+categories: 
+    - 设计
+    - Blur Studio - Works
+author: Blur Studio - Works
+comments: false
+date: 2021-03-21 16:45:33
+thumbnail: http://blur.com/media/pages/projects/valorant2/1693072870-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00955.jpg
+---
+
+<div>   
+Client:RIOT GAMES<br>Check out the next VALORANT trailer. "Retake" is set in a secret Kingdom Facility overtaken by the Arctic, a far cry from the sun-kissed streets of Venice portrayed in "Duelists." Here we meet Yoru, the latest addition to this character-based tactical shooter continuing to grow in popularity around the world. Riot keeps adding content, but the Agent relationships remain... heated.     <iframe width="640" height="360" src="https://player.vimeo.com/video/hhlgphVf-1g" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/1693072870-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00955.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/2826016097-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_01183.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/2049941860-1610322111/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_02358.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/932966528-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00910.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/4221643488-1610325557/valorantvenice960.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/2771824888-1610325718/valorant_03_960.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/4020368823-1610322130/valorant_06_960.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="http://blur.com/media/pages/projects/valorant2/3593259378-1610322130/valorant_05_960.jpg" referrerpolicy="no-referrer"><br><iframe width="640" height="360" src="https://youtube.com/embed/e_E9W2vsRbQ" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>  
+</div>
+            

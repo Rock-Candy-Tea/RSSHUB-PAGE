@@ -1,0 +1,16 @@
+
+---
+title: Another breakthrough in AI translation quality
+categories: 
+    - 新媒体
+    - DeepL - Blog
+author: DeepL - Blog
+comments: false
+date: Thu, 06 Feb 2020 00:00:00 GMT
+thumbnail: https://www.deepl.com/img/blog/quality2020_en.png
+---
+
+<div>   
+<p>     We are pleased to inform you that, today, we have launched a completely new translation system that represents another quantum leap in translation quality. The neural networks we use are far superior to previous technologies and you can now test and use them free of charge at <a href="https://www.deepl.com/translator">www.DeepL.com</a>.     </p>     <p>     We already made some headlines in 2017 when we released DeepL Translator, which was superior in quality to translation systems of even large high-tech companies and was able to translate even longer passages without errors. Our services quickly became popular: they are now used by more than half a billion people.     </p>     <p>     Now our AI researchers have succeeded in achieving another breakthrough in translation quality. All the criteria that make for a good translation have been improved by the new system. The new neural networks are able to represent the meaning of the translated sentences in the target language much more precisely and, at the same time, are often able to find more professional formulations.     </p>     <p>     This has prompted us to conduct new blind tests. We translated 119 lengthy passages from a wide variety of subjects using DeepL Translator and some competing systems. We then asked professional translators to evaluate these translations and choose the best translation - without being informed which system produced which translation. The translators selected the translations from DeepL four times more often than those from any other system:     </p>     <figure>         <img src="https://www.deepl.com/img/blog/quality2020_en.png" referrerpolicy="no-referrer">         <figcaption><stringref id="quality/quality2020.diagramCaption"></stringref></figcaption>     </figure>     <p>     We assume that companies such as Google or Microsoft also have very good data for training neural translation networks. On the other hand, we have achieved many innovations in the mathematics and methodology of neural networks, with the help of which we can extend our lead. It is a special moment for our entire team that these improvements can now be used by billions of people.     </p>     <p>     At DeepL, our vision is to break down language barriers worldwide and bring cultures closer together. To achieve this, we are planning to add many more languages and, in the coming months and years, we want to integrate translation technology wherever people communicate with each other, read texts, write or do business with each other. This vision also motivates many AI researchers and developers to join DeepL. If you too would like to help us bring the world closer together, please feel free to apply!     </p>  
+</div>
+            

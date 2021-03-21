@@ -1,0 +1,17 @@
+
+---
+title: CDA-FDC S3：热血战魂一步不退，新星涅槃反败为胜！Aster 2-0战胜iG
+categories: 
+    - 游戏
+    - Maxjia News - Dota 2
+author: Maxjia News - Dota 2
+comments: false
+date: Thu, 18 Mar 2021 10:54:29 GMT
+thumbnail: http://bbsimg.maxjia.com/heybox/dailynews/img/26214bfc5dd961f2d8fd1c6a29de0aba.jpg?imageMogr2/thumbnail/!80p/format/jpg
+---
+
+<div>   
+<p>CDA-FDC职业锦标赛第三赛季，败者组第二轮，本场比赛由Aster对阵IG。第一局Aster影魔对线把女王压制的很惨，中期双方有来有回，后期Aster双刀撒旦的巨魔，在团战中吃下所有技能屹立不倒，最终击杀对方三核，IG打出GG。第二局IG前期小优，但是中期的一波肉山团，Aster在猴子没来的情况下四打五打出一波零换六，这波过后IG丧失了场上的主动权，最终打出GG。</p><p><b>第一局</b></p><p><img data-h="337" data-w="828" src="http://bbsimg.maxjia.com/heybox/dailynews/img/26214bfc5dd961f2d8fd1c6a29de0aba.jpg?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer"></p><p>IG天辉，选择骷髅王女王潮汐三核，帕克和亚巴顿辅助。Aster夜魇，选择巨魔影魔玛尔斯三核，海民和飞机辅助。</p><p>开局Aster开雾前往IG远古野赏金符点，帕克一头撞雾吓了一跳幻象法球想传走，但是操作太快没等幻象法球传下高坡就传送，飞机拿下帕克一血。</p><p>对线期影魔把女王压制的很惨，5分钟经济领先女王500块，6分钟女王帕克潮汐想要击杀海民，但是输出有限，海民不但没死，回头一个冰片框住两人，影魔走过来影压带走帕克。对线期结束，Aster三核经济领先且影魔巨魔经济领先一大截。</p><p><img data-h="518" data-w="1051" src="http://bbsimg.maxjia.com/heybox/dailynews/img/2c207c352957465e9f0edcec528bff4f.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer">16分钟双方团战，潮汐一脚大招加女王大招只死一个海民，潮汐亚巴顿被影魔和玛尔斯击杀，随后帕克赶来大招框柱影魔和飞机，配合上女王的输出，最终IG潮汐亚巴顿换掉Aster影魔海民飞机。</p><p>17分钟Aster开雾偷肉山，巨魔电锤BKB带上不朽盾。19分半Aster巨魔潮汐海民抓到骷髅王，骷髅王阵亡后，潮汐直接跳大三人，但女王大招CD，打不出致死伤害，Aster巨魔开启BKB大招，最终骷髅王潮汐亚巴顿全部阵亡。Aster团队经济一下子领先了5K。</p><p>29分钟Aster秒掉骷髅王第一条命后，准备杀第二条命，然而IG帕克大招三个，潮汐开大，女王开大，Aster巨魔没有开出大招就直接阵亡，飞机海民直接被融化。随后IG打掉肉山，女王带盾。</p><p><img data-h="508" data-w="1056" src="http://bbsimg.maxjia.com/heybox/dailynews/img/5c7f62b76da3360332c5e0e3fa03f644.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer">33分钟IG上高，帕克大招打出先手，然而玛尔斯直接开BKB跳到潮汐脸上，打断潮汐跳刀，巨魔也开BKB输出潮汐，潮汐面对脸上两个BKB十分尴尬，捏着大招阵亡。随后骷髅王亚巴顿帕克也全部阵亡，Aster反推通IG中路高地。</p><p>38分钟双方酝酿许久的一波团战开打，骷髅王和巨魔两大哥谁也不服谁，互相对撸一步不退，两边的队友们赶来帮忙，所有技能一时间全部甩了出来，而身处暴风眼中心的两人皇城PK，最终双刀撒旦加身的巨魔开BKB大招配合队友打死了IG三核，IG打出GG。</p><p><img data-h="518" data-w="1043" src="http://bbsimg.maxjia.com/heybox/dailynews/img/9bc9f72d0ede6d32a5e5c5ded5f38379.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer"></p><p><b>第二局</b></p><p><img data-h="328" data-w="828" src="http://bbsimg.maxjia.com/heybox/dailynews/img/c5f4b03cb3eb2ffe99ec1bcf76f48096.jpg?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer"></p><p>IG天辉，选择小狗蓝猫DP三核，海民和神谕辅助。Aster夜魇，选择猴子圣堂玛尔斯三核，凤凰和亚巴顿辅助。</p><p>2分钟，海民冰片摔角行家，配合DP的输出拿下亚巴顿一血。5分钟猴子神行百变用过之后被海民冰片留住，DP一个波收下猴子人头，与此同时中路神谕支援蓝猫帮助蓝猫击杀圣堂。6分钟双方辅助都来到中路，海民雪球滚圣堂，圣堂退无可退只能和蓝猫对拼，蓝猫虽然也阵亡但是圣堂TP死。对线期过，Aster众人的经济都有点差。</p><p><img data-h="510" data-w="1053" src="http://bbsimg.maxjia.com/heybox/dailynews/img/c2007e0a043d230646465a208139a106.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer"></p><p>12分钟IG抱团推中路一塔，蓝猫直接飞塔后想先手守塔的人，IG其他人随后跟上，但是凤凰开启大招IG掉头就撤退，但是Aster不给机会撤走一路留人，最终IG海民神谕DP三人阵亡，随后Aster反推掉IG中路一塔。</p><p>15分半IG打肉山，Aster除猴子外的四人赶来，凤凰在肉山坑外变蛋，蓝猫飞出肉山坑打凤凰蛋，没想到圣堂跳刀隐匿两刀直接秒掉了自己，如此一来凤凰蛋得以落地,IG所有人都被晕在原地，之后IG团灭，DP带盾连死两次。Aster在猴子没来的情况下四打五打出一波零换六。团队经济瞬间领先7K。</p><p><img data-h="514" data-w="1062" src="http://bbsimg.maxjia.com/heybox/dailynews/img/a3fdd691ba35309c5e8af03c8f4fdfea.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer">24分钟双方团战，凤凰玛尔斯双双开大，IG的阵容又难打出致死伤害，最终小狗DP海民三人阵亡，Aster推通中路高地，团队经济领先2W。</p><p>27分钟Aster打肉山，IG赶来，Aster控下盾后玛尔斯先手击杀了神谕，之后蓝猫DP相继阵亡，IG打出GG。</p><p><img data-h="508" data-w="1049" src="http://bbsimg.maxjia.com/heybox/dailynews/img/cae4fdc489247c0478a123d9736df8f8.png?imageMogr2/thumbnail/!80p/format/jpg" referrerpolicy="no-referrer"></p>
+  
+</div>
+            

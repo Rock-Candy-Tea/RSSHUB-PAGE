@@ -1,0 +1,17 @@
+
+---
+title: 默沙东Keytruda治疗尿路上皮癌遭英国NICE拒绝
+categories: 
+    - 新媒体
+    - 生物谷 - 最新资讯
+author: 生物谷 - 最新资讯
+comments: false
+date: Sun, 21 Mar 2021 10:26:00 GMT
+thumbnail: http://cache3.bioon.com/webeditor/uploadfile/202103/20210321182641245.jpg
+---
+
+<div>   
+<div style="text-align: center;"><img src="http://cache3.bioon.com/webeditor/uploadfile/202103/20210321182641245.jpg" referrerpolicy="no-referrer"><br></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><div style="text-align: justify;">英国国家健康与护理卓越研究所（NICE）发布了第二份最终评估文件，拒绝了默沙东的可瑞达Keytruda用于晚期膀胱癌的治疗。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">评估文件显示，默沙东可在该指示下为Keytruda收集进一步的有效证据，然后由NICE对其进行审查，作为其最终决定的一部分。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">事实上，NICE于2020年3月开始决定不向这一患者群体发布Keytruda的永久推荐，这基于一项随机、关键性III临床期研究KEYNOTE-045，这项研究中在542例既往接受含铂类化疗后病情进展或复发的转移性或局部晚期、不可切除性尿路上皮癌患者中开展。在这项研究中，542例患者被随机分组，接受PD-1 抗体Pembrolizumab治疗（每三周200mg），或接受研究者选择的紫杉醇、多西他赛或长春氟宁化疗。主要终点是总生存（OS）和无进展生存（PFS）。次要终点包括总缓解率（ORR）、缓解持续时间（DoR）、安全性。采用<a class="channel_keylink" href="http://xy.bioon.com/course_video/chang-fei-bian-ma-RNA-yu-zhong-liu959063.html">肿瘤</a>细胞和浸润性免疫细胞的联合阳性评分（CPS）定量化PD-L1表达。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">最终KEYNOTE-045研究结果显示，在二线治疗中，Keytruda对OS有好处，但对PFS没有好处。在今天发表的一份声明中，NICE表示，尽管有证据表明Keytruda符合其“延长生命治疗”的标准，但是免疫治疗的成本和效果估计是不确定的。这（不确定性）是因为尚不清楚哪种治疗转换调整或总体生存模式最合适，目前还不清楚pembrolizumab的治疗效果能持续多久。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">在这一拒绝之后，尽管NICE坚持其先前的指导，不建议Keytruda作为晚期膀胱癌患者的二线治疗，但默沙东对这一决定提出了上诉。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">默沙东方面，Keytruda的临床开发项目包括400多个临床研究，涉及超过30种肿瘤类型，其中至少一半的临床研究是调查Keytruda与其他药物的组合疗法。膀胱癌方面，该公司正在推进该领域最大规模的<a class="channel_keylink" href="http://xy.bioon.com/course_video/chang-fei-bian-ma-RNA-yu-zhong-liu959063.html">肿瘤</a>免疫临床开发项目，涉及27个临床研究，调查Keytruda单药疗法及组合疗法治疗膀胱癌的潜力。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">据悉，Keytruda是第一个被批准用于接受一线治疗后的复发或难治性cHL成人患者的抗PD-L1疗法。2020年10月美国<a class="channel_keylink" href="http://news.bioon.com/fda/" target="_blank">FDA</a>批准Keytruda作为一种单药疗法，用于二线治疗复发或难治性经典霍奇金淋巴瘤（r/r cHL）成人患者。就在前几日，欧盟委员会（EC）批准Keytruda首个儿科适应症，宣布PD-1疗法可瑞达Keytruda作为一种单药疗法，用于治疗年龄≥3岁、接受自体<a class="channel_keylink" href="http://xy.bioon.com/course_video/gan-xi-bao-zhi-liao-ji-qi-gui-fan-hua678956.html"></a><a class="channel_keylink" href="http://news.bioon.com/tags/%E5%B9%B2%E7%BB%86%E8%83%9E/">干细胞</a>移植（ASCT）治疗失败、或在ASCT不适合作为一种治疗选择的情况下至少接受过2种先前疗法的复发或难治性经典霍奇金淋巴瘤（r/r cHL）成人和儿科患者。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">默沙东去年全年营收480亿美元，同比增长2%，其中制药业务收入430亿美元，动物保健收入47.03亿美元。而Keytruda作为默沙东重磅产品，2020年销售额144亿美元，同比增长30%，贡献制药业务33%业绩。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">值得一提的是，2018年NICE批准Keytruda用于既往接受含铂类化疗后病情进展的局部晚期或转移性尿路上皮癌（UC）患者的治疗，使Keytruda成为进入英国国家服务系统（NHS）治疗UC的首个也是唯一一个<a class="channel_keylink" href="http://xy.bioon.com/course_video/chang-fei-bian-ma-RNA-yu-zhong-liu959063.html">肿瘤</a>免疫疗法。</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">此外，NICE在自己的声明中表示，推荐罗氏的抗PD-L1药物Tecentriq（atezolizumab）用于现阶段该治疗路径的膀胱癌患者。(<a class="channel_keylink" href="http://news.bioon.com/" target="_blank">生物谷</a>Bioon.com）</div></div>
+  
+</div>
+            
