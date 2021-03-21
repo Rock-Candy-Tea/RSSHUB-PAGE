@@ -120,7 +120,8 @@ def get_post(source, result, categories):
             title = re.sub(r'[:/\\?*“”<>|\[\]]', '_', title)
 
         try:
-            with open('post/'+ categories +'/'+title.replace('\n','').replace('#','').replace('.','')+ '.md', mode='w', encoding='utf-8') as f:
+            with open('post/' + categories +'/'+ title.replace('\n', '').replace('#', '').replace('.', '') + '.md', mode='w',
+                      encoding='utf-8') as f:
                 md_content = '''
 ---
 title: {title}
