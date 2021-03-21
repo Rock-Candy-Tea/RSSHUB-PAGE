@@ -207,8 +207,8 @@ class Crawl(threading.Thread):
             self.data_list.put([url,response])  # 向数据队列里追加
 
 def main():
-    concurrent = 4
-    conparse = 4
+    concurrent = 10
+    conparse = 10
 
     # 获取rss列表
     link_list = build_md()
