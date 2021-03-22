@@ -1,0 +1,17 @@
+
+---
+title: """""""""'Dora Factory Balancer LBP参与教程 - USER-GzmKrsG1xF'"""""""""
+categories: 
+    - 新媒体
+    - Matataki - 标签关联作品
+author: Matataki - 标签关联作品
+comments: false
+date: 2021-03-19T15:16:32.000Z
+thumbnail: ''
+---
+
+<div>   
+本次首发活动时间初步定在 2021年3月22日GMT+8 时间 20:00 开始，持续 46.5 小时，并在 2021年3月24日GMT+8 时间 18:30 结束（新加坡/香港时间为 2021年3月22日 20:00 – 2021年3月24日20:00）。 参与拍卖的 DORA 通证起拍价格为 25 USDC，交易对为 DORA/USDC，初始权重设置为 96:4，结束权重设置为 45:55。
+参与本次 LBP 活动，请参照如下步骤： (1)、准备一个 Balancer 支持的钱包，目前 Balancer 支持如下钱包：  (2)、钱包中准备好一定数量的 ETH 作为 Gas 费用，以及 U  
+</div>
+            

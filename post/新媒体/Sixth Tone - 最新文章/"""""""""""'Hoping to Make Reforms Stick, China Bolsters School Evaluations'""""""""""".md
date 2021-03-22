@@ -1,0 +1,39 @@
+
+---
+title: """""""""""'Hoping to Make Reforms Stick, China Bolsters School Evaluations'"""""""""""
+categories: 
+    - 新媒体
+    - Sixth Tone - 最新文章
+author: Sixth Tone - 最新文章
+comments: false
+date: Fri, 19 Mar 2021 00:00:00 GMT
+thumbnail: ''
+---
+
+<div>   
+<p>To make it harder for schools and local governments to ignore reforms aimed at making education less competitive and curricula more well-rounded, China’s central government on Thursday made public new evaluation standards.</p><p></p><p>At a <a href="http://www.moe.gov.cn/fbh/live/2021/53013/mtbd/202103/t20210319_520952.html" target="_blank">press conference</a>, the education ministry and five other government agencies introduced the “compulsory education quality evaluation guidebook,” which was <a href="http://www.moe.gov.cn/srcsite/A06/s3321/202103/t20210317_520238.html" target="_blank">dated March 4</a> and applies to elementary and middle schools, teacher and students, and county-level governments.</p><p></p><p>It includes new and existing rules to foster more equality between students, less focus on academic performance, and less competition.</p><p>China’s education system is <a href="https://www.sixthtone.com/news/1006733/from-the-trenches-of-chinas-school-admission-wars%2C-a-bestseller" target="_blank">notoriously cutthroat</a>, with students competing for high scores on standardized tests to gain access to limited placements at top schools. Parents, hoping to set their children up for a good future, enroll them in as many after-school classes they can afford. Previous attempts by the central government to decrease competition have not always been effective.</p><p>“This change will fundamentally address the difficulties in effectively implementing reform policies aimed at realizing education for all-round development,” Dong Qi, a director from the Ministry of Education, said during the press conference.</p><p>Zhu Dongbin, a senior official from the Department of Basic Education at the Ministry of Education, said the new guidebook collects rules from different documents and regulations and makes them more systematic.</p><p>“Such rules existed, but they were executed in a more flexible way,” Zhu said Thursday. “This time, we’ve turned them into rigid standards — we’re hoping to make full use of the role that the evaluation system can positively play in education.”</p><p>A new measure is including county-level governments in the education evaluation system. According to the guidebook, county-level governments can no longer set middle schools targets for how many of their students ought to test into top high schools. They also cannot evaluate schools, principals, or teachers solely on their students’ academic performances; set up so-called key schools for top students; or publicly announce how a school’s students performed in standardized tests, such as the <em><a href="https://www.sixthtone.com/news/1003007/one-test-labels-30-million-chinese-kids-failures.-that-must-end" target="_blank">zhongkao</a></em> at the end of middle school that determines which high school a student can attend.</p><p>Other stipulations in the guidebook seek to make schools and their classes more equal, banning schools from enrolling students based on exam results and those from outside their district. Instead, they should accept all students living in their area. Likewise, schools should not group the best pupils of a particular year into one class, or force poorly performing children to transfer to another school.</p><p>The new guidebook comes just days after Shanghai <a href="https://www.thepaper.cn/newsDetail_forward_11731308" target="_blank">announced</a> its own <em>zhongkao</em> reform plan to ensure all middle schools are given a few slots at the city’s best high schools, thereby avoiding competition among parents to get their child into the best middle school.</p><p>Huang Menghao, the father of a seventh grade student in Shanghai told Sixth Tone this gives parents confidence that attending an average middle school will still give their child a shot at success at later stages of their schooling. “This is comforting for parents,” he said.</p><p><em>Contributions: Zhang Chaoyan; editor: Kevin Schoenmakers.</em></p><p><em>(Header image: Students at a primary school in Haikou, Hainan province, Jan. 24, 2017. People Visual)</em></p><ul class="list-unstyled topic-list-1">
+                        <li class="175 first"><a href="https://www.sixthtone.com/topics/10138/education" class="btn btn-primary">education</a></li>
+                            <!--
+                          <li class="175 first"><a href="/topics/literature" class="btn btn-primary">literature</a></li>
+                         <li class="146"><a href="/topics/gender" class="btn btn-primary">gender</a></li>
+                         <li class="144 last"><a href="/topics/family" class="btn btn-primary">family</a></li>
+                         -->
+                    </ul>
+                    <div class="sharing sharing-news visible-xs visible-sm">
+                <ul class="list-unstyled social-links" data-share-desc="New guidebook forbids schools and governments from making education too competitive.">
+                            <li class="fbBtn" onclick="addCounts('http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations',1)">
+                                <a href="https://www.facebook.com/dialog/share?app_id=774535149382673&display=popup&href=http%3a%2f%2fwww.sixthtone.com%2fnews%2F1007011%2Fhoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations&redirect_uri=http%3a%2f%2fwww.sixthtone.com%2fnews%2F1007011%2Fhoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations" title="facebook"><span><span aria-hidden="true" class="noodle-icon-facebook 123 addShareContMobileCounts"></span></span></a></li>
+                            <li class="twBtn" onclick="addCounts('http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations',2)">
+                                <a href="https://www.sixthtone.com/news/1007011/" title="twitter" class="jiathis_button_twitter"><span aria-hidden="true" class="noodle-icon-twitter"></span></a></li>
+                            <li class="gpBtn" onclick="addCounts('http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations',3)">
+                                <a href="https://plus.google.com/share?url=http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations" title="GooglePlus" class="jiathis_button_googleplus"><span aria-hidden="true" class="noodle-icon-google"></span></a></li>
+                            <li class="lkInBtn" onclick="addCounts('http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations',4)">
+                                <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations&title=Hoping%20to%20Make%20Reforms%20Stick,%20China%20Bolsters%20School%20Evaluations" title="linkedin" class="jiathis_button_linkedin"><span aria-hidden="true" class="noodle-icon-linked"></span></a></li>
+                            <li class="wecBtn" onclick="addCounts('http://www.sixthtone.com/news/1007011/hoping-to-make-reforms-stick%2C-china-bolsters-school-evaluations',5)">
+                                <a href="javascript:;" title="Wechat" class="jiathis_button_weixin"><span aria-hidden="true" class="noodle-icon-wechat"></span></a></li>
+                        </ul>
+                    </div>
+                    
+                  
+</div>
+            

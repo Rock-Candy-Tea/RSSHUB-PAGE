@@ -1,0 +1,39 @@
+
+---
+title: """""""""'A World Transformed'"""""""""
+categories: 
+    - 新媒体
+    - 国际教育研究所 - Blog
+author: 国际教育研究所 - Blog
+comments: false
+date: Wed, 14 Oct 2020 00:00:00 GMT
+thumbnail: 'https://www.iie.org/-/media/Images/Corporate/Why-IIE/Blog-Photos/World_on_tablet_IntlEd.ashx?h=428&w=750&la=en&hash=94646C3592636B4AD37A43F8C088A5A6DE07B561'
+---
+
+<div>   
+<h4><em><strong>When the Covid-19 Pandemic of 2020-2021 is over, international education as we know it will have been transformed.  But not as most forecasters currently project.
+</strong></em></h4>
+<h4>
+<strong>
+By Dr. Allan Goodman, President and CEO, IIE
+</strong>
+</h4>
+<h4><strong>October 14, 2020</strong></h4>
+<p><img alt="Hand holding digital tablet with global network connection" src="https://www.iie.org/-/media/Images/Corporate/Why-IIE/Blog-Photos/World_on_tablet_IntlEd.ashx?h=428&w=750&la=en&hash=94646C3592636B4AD37A43F8C088A5A6DE07B561" width="750" height="428" referrerpolicy="no-referrer"></p>
+<p>According to analysts at The Economist, Parthenon Consulting, the Times of London, and McKinsey, the aftermath will be marked by a sharp and pronged decline in academic mobility (from 5 million international students in 2019 to perhaps half that number through at least 2025), faculty along with most corporate executives will find that most of their professional travel for conferencing is inefficient and unnecessary in the age of Zoom, students and their parents will find new ways and opportunities to learn closer to home, and the top world universities will extend their reach to the global best and brightest by competing with hybrid degree programs and more courses taught by outstanding lecturers that can be accessed virtually anywhere.  Prestigious international scholarship and fellowship programs that require prolonged periods of residence in another country will be drastically shortened and their leadership development and cultural enrichment components delivered online.</p>
+<p>What is alarming about this picture is that we are already experimenting with and perfecting all the elements of it that could make it work.  And we are finding that, in a pinch, they do.  When you do a Zoom seminar with today's virtual internationalists, they sound like global citizens and committed internationalists even as their countries and societies are becoming more insular and politically resistant to immigration and other policies that would keep their doors open to trade, ideas, and population growth.</p>
+<p>At IIE, we already see signs that the future may not look this way at all.</p>
+<p>Covid-19 is the twelfth pandemic in IIE's history.  After each, international education and exchanges are among the first global activities to resume.  And despite the risks of travel and the rising cost of tuition, international student enrollments have each time increased substantially. The basic reasons for this are the search for educational opportunities are not readily available at home and the pent-up demand for international education when there is a hiatus (for whatever cause) lasting several years.  These dynamics are not fundamentally changing.</p>
+<p>Unlike most other pandemics, the outbreak of Covid-19 in terms of the academic calendar and its truly global nature affected every major sending and destination country's higher education population at the same time.  This meant that hundreds of thousands of international students had to remain where they were over the Spring and Summer but could also resume their studies this Fall where they were even before the pandemic was over.</p>
+<p>Today, consequently, interest in nearly every program that the Institute administers is up and applications for programs currently on pause or being temporarily conducted virtually, are up substantially.  Attendance at outreach and information sessions that are now being held online is far greater than when these events were held in-person and this is true for IIE's advising network around the world.  And based on interviews conducted over this past summer with senior internationalization officers in the US and around the world most are indicating that they have had more time and attention from their presidents and chancellors in the past three months than the preceding three years.  Campus leaders and local communities everywhere developed a new awareness of and appreciation for their international students.  Visa issues related to online coursework that needed to be clarified in virtually all the major destination countries were.</p>
+<p>When it will be safe again to travel, in short, international students will have more destinations and choices than at any time in history.</p>
+<p>So far, the 21st Century has seen substantial growth in international education.  This is due to the promotion of Trans-National Education (TNE) by English-speaking countries, the opening of overseas campuses by leading US universities, the growth (as yet uncounted) in private, for-profit institutions offering a broad array of professional and technical degrees, and the availability of well-regarded online education and degree programs.  There is also a growing global trend toward seeking international students as part of national education plans and economic growth strategies.  By the end of last year, more than a dozen countries had declared policy goals to double international enrollments by 2025.  And of the 100 top-ranked world universities, nearly two thirds were not based in the US; a decade ago only 47 of the top 100 were non-US institutions.  The international student of the post-Covid-19 Pandemic world will have an unprecedented range of choices about not only how to study but where.</p>
+<p>Additional good news is that there will be more than enough students to fill this increase in capacity.  We estimate that by 2025, in fact, there could be as many as 7.5 million.</p>
+<p>Given what we are still learning about how to teach, attend classes, interact, and cope with being at home and trying to work, the contours of "the new normal" are still far from clear.  But the longer the pandemic lasts, the more acclimated we are all becoming to multiple ways of doing our jobs and sustaining and growing exchanges and partnerships.  We may take fewer trips but when we do we should lengthen the time we spend abroad, as well as urge our students to study abroad for a longer duration.  For those of us in the field of international education, our jobs in fact may not actually change very much as opposed to how we do them, from where, and what we are recommending.</p>
+<p>But this is also not a reason for complacency by any institution anywhere.  The pre-pandemic competition for the best and brightest is still quite intense and education is becoming a much more prominent part of diplomacy and foreign policy.  Being closer to home in an uncertain and unsafe world with world class universities within region and closer at hand will increasingly appeal.  While such universities already have their own foreign policy as part of a strategic plan driven by their governments, American colleges and universities have been surprisingly hesitant about internationalization, even as their research and instructional budgets increasingly depend on it.  In the wake of this pandemic it might be a good time for presidents and chancellors to consider how often they seek and get the counsel of a senior international officer.  Twenty years ago, this type of position was rare and usually performed part time, as a new research report from the Institute will document.  We all now know that this is a full-time job we will actually need at universities so they can effectively face the challenges and complexities of a world transformed.</p>
+                
+
+
+              
+</div>
+            

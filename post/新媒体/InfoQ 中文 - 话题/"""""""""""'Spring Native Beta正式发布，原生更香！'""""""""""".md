@@ -1,0 +1,33 @@
+
+---
+title: """""""""""'Spring Native Beta正式发布，原生更香！'"""""""""""
+categories: 
+    - 新媒体
+    - InfoQ 中文 - 话题
+author: InfoQ 中文 - 话题
+comments: false
+date: Sun, 21 Mar 2021 04:14:47 GMT
+thumbnail: 'https://static001.geekbang.org/infoq/2c/2c77a14f27da18f7e01951255b50ee3a.png'
+---
+
+<div>   
+<p>本文最初发表于<a href="https://spring.io/blog/2021/03/11/announcing-spring-native-beta">Spring博客网站</a>"，由InfoQ中文站翻译分享。</p><p></p><p>最近，Spring发布了<a href="https://github.com/spring-projects-experimental/spring-native">Spring Native</a>"的beta版本，该功能已经在<a href="https://start.spring.io/">start.spring.io</a>"上可用了。</p><p></p><p>这意味着，除了Spring诞生以来就支持的Java虚拟机，官方添加了使用<a href="https://www.graalvm.org/">GraalVM</a>"将Spring应用编译成<a href="https://www.graalvm.org/reference-manual/native-image/">原生镜像</a>"的beta支持，这样的话，就能提供一种新的方式来部署Spring应用。Spring Native支持Java和Kotlin。</p><p></p><p>这些原生的Spring应用可以作为一个独立的可执行文件进行部署（不需要安装JVM），并且还能提供有趣的特征，包括几乎瞬时的启动（一般会小于100毫秒）、瞬时的峰值性能以及更低的资源消耗，其代价是比JVM更长的构建时间和更少的运行时优化。</p><p></p><p><img src="https://static001.geekbang.org/infoq/2c/2c77a14f27da18f7e01951255b50ee3a.png" referrerpolicy="no-referrer"></p><p></p><p>通过简单的mvn spring-boot:build-image或gradle bootBuildImage命令，就能生成一个优化的容器镜像，它包含了一个最小的操作系统层和一个小的原生可执行文件，该文件只包含了必需的东西即JDK、Spring以及应用中所使用的依赖。</p><p></p><p>请看下面这个最小的容器镜像，它是一个50MB的可执行文件，包含了Spring Boot、Spring MVC、Jackson、Tomcat、JDK和应用本身。</p><p></p><p><img src="https://static001.geekbang.org/infoq/35/356b16b40e9722d40b6ad743ceb76f68.png" referrerpolicy="no-referrer"></p><p></p><p>这种原生方式，在很多场景下都会对Spring应用产生价值：</p><p></p><p>使用Spring Cloud Function的Serverless应用更廉价、更可持续地托管Spring微服务与<a href="https://tanzu.vmware.com/">VMware Tanzu</a>"这样的Kubernetes平台有很好的契合性想要最优的容器镜像，以打包Spring应用和服务</p><p></p><p>在使用场景上，比如Piotr Mińkowski提供了一个<a href="https://piotrminkowski.com/2021/03/05/microservices-on-knative-with-spring-boot-and-graalvm/">非常棒的指南</a>"，介绍了如何在<a href="https://knative.dev/">Knative</a>"上使用Spring Boot和GraalVM构建原生微服务。</p><p></p><h2>团队协作</h2><p></p><p></p><p>Spring Native beta是整个Spring团队及其家族项目广泛合作的结果：Spring Framework、Spring Boot还包括Spring Data、Spring Security、Spring Cloud和Spring Initializr。</p><p></p><p>据悉，原生功能的工作范围比Spring更广，因为原生涉及到更广泛的JVM生态系统，所以官方一直在与GraalVM团队合作，以改善原生镜像的兼容性和资源消耗。</p><p></p><p>以下是来自GraalVM团队的Vojin Jovanovic的一段话。</p><p></p><p></p><blockquote>“与Spring团队协作打造原生JVM生态系统是一件非常愉快的事情：他们深厚的技术知识，再加上对社区的敏感触觉，总是能带来最好的解决方案。最新的Spring Native版本，以及它在JVM生态系统中的众多用法，为原生编译的广泛采用铺平了道路。”</blockquote><p></p><p></p><h2>支持的范围</h2><p></p><p></p><p>现在，Spring Native已经从alpha版本毕业成为beta，那么很重要的一点就是明确它所支持的功能范围。</p><p></p><p>Alpha版本是第一步，实验了很多东西，并且基于一组样例改善了Spring Native（之前叫做Spring GraalVM Native）的架构、兼容性和资源消耗，其中有很多破坏性的变更。官方还报告了<a href="https://github.com/oracle/graal/labels/spring">很多问题</a>"，这些问题GraalVM团队已经解决，从而减少JVM和Spring应用的原生镜像之间的差距。</p><p></p><p>虽然它依然被认为是实验性的，但beta版意味着Spring现在在Spring生态系统的一个子集上提供了对原生的支持。如果你的应用正在使用业已支持的依赖，那么你可以试用它，在出现问题时可以提bug或贡献pull request。在最新的Spring Boot 2.x小版本的每个补丁发布时，都会有一个新的Spring Native版本。Spring Native 0.9.0支持Spring Boot 2.4.3，Spring Native 0.9.1将支持Spring Boot 2.4.4等。</p><p></p><h2>start.spring.io</h2><p></p><p></p><p>Stéphane Nicoll在对<a href="https://start.spring.io/">start.spring.io</a>"和相关IDE的集成中，引入了对Spring Native的支持，所以现在这是探索如何使用Spring构建原生应用最简单的方式。</p><p></p><p><img src="https://static001.geekbang.org/infoq/06/06295683cc0a2449970897438dc0c991.png" referrerpolicy="no-referrer"></p><p></p><p>添加Spring Native依赖后将会使用所需的依赖和插件自动配置Maven或Gradle项目，以便于支持原生。应用代码本身没有变化。</p><p></p><p>请检查自动生成的HELP.md文件，该文件包含了有用的链接和文档，同时它还能标记出来你是否选择了一些在原生环境下不支持的依赖。</p><p></p><h2>预先转换</h2><p></p><p></p><p>原生与JVM有所不同：类路径在构建时是固定的，反射或资源需要进行配置，这里没有类的懒加载（可执行文件中包含的所有内容在启动的时候都会加载进来）并且有些代码可以在构建期调用。</p><p></p><p>为了充分拥抱这些特性，并且能让Spring应用以最大的兼容性和最小的资源消耗运行在原生环境中，Brian Clozel在这个版本中引入了Spring预先（ahead-of-time，AOT）转换的Maven和Gradle插件，这个插件会对Spring应用执行预先转换。</p><p></p><p>第一种转换的目的是生成GraalVM原生配置（反射、资源、代理、原生镜像选项），这是通过由Andy Clement设计和实现的一个特别棒的推断引擎做到的，该引擎能够理解Spring编程模型和基础设施。例如，每个带有@Controller注解的类，都会在生成的reflect-config.json文件中添加一个条目。</p><p></p><p>有些原生配置是无法推断的，对于这些情况，Spring Native引入了<a href="https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#native-hints">原生线索</a>"（native hint）注解（参见Javadoc以了解详情），这些注解允许Spring Native支持原生配置，这种方式比常规的基于JSON的原生镜像配置更加可维护、类型安全和灵活。例如，Spring Native对MySQL驱动支持就提供了线索注解，它们会在原生镜像配置reflect-config.json、resource-config.json和native-image.properties中生成正确的条目，如下所示：</p><p></p><p><code lang="text">@NativeHint(
+    trigger = Driver.class,
+    options = "--enable-all-security-services",
+    types = @TypeHint(types = &#123;
+       FailoverConnectionUrl.class,
+       FailoverDnsSrvConnectionUrl.class,
+       // ...
+    &#125;), resources = &#123;
+    @ResourceHint(patterns = "com/mysql/cj/TlsSettings.properties"),
+    @ResourceHint(patterns = "com.mysql.cj.LocalizedErrorMessages",
+                      isBundle = true)
+&#125;)
+public class MySqlHints implements NativeConfiguration &#123;&#125;</code></p><p></p><p>NativeConfiguration和其他的<a href="https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#how-to-contribute-dynamic-native-configuration">动态配置机制</a>"允许实现更加强大和动态化的配置生成，但是需要注意它们的API在未来的版本中可能会有很大变化。</p><p></p><p>Spring开发人员也可以直接在@Configuration或@SpringBootApplication类上添加应用特定的原生线索注解，例如，对于使用RestTemplate或WebClient这样的编程API序列化一个Book类为JSON：</p><p></p><p><code lang="text">@TypeHint(types = Book.class)
+@SpringBootApplication
+public class WebClientApplication &#123;
+    // ...
+&#125;
+</code></p><p></p><p>在使用预先转换系统时，最后一个，可能也是最强大的一个机制就是根据Spring Boot部署模型和GraalVM原生镜像特征所引入的封闭世界（closed-world）假设，它能够自动生成针对原生环境进行优化的代码。这里的目标就是限制所需的外部原生配置的数量，从而提高兼容性，这是通过原生镜像编译器对代码结构的分析实现的，同时还能通过减少反射、资源或代理所需的配置，降低资源占用。一个具体的例子就是对各种spring.factory（Spring Boot背后的扩展机制）的预先转换，从而实现一个优化过的程序版本，该版本不需要反射并且会过滤掉应用上下文中不必要的条目。</p><p></p><p>对Spring AOT来说，这只是一个开始，我们计划添加更加强大的转换，比如将@Configuration替换为函数式配置，从而通过预先分析替换运行时反射，能够自动生成使用像lambda表达式和方法引用这种程序构造的配置类。这样的话，就能允许GraalVM原生镜像编译器立即理解Spring配置，无需任何的反射配置或*.class资源。</p><p></p><p>需要记住的一个关键点是，在使用Spring Native时，这个AOT生成的代码在JVM上也会默认使用，这样的话能够通过JVM允许的短反馈循环（short feedback loop），用调试器和所有常规工具实现“原生友好的代码路径”。</p><p></p><p>尽管Spring AOT转换目前主要是由原生场景需求驱动，但是有很多转换并不是特定于原生场景的，有一些可能为JVM上运行的Spring Boot应用提供优化。和往常一样，对于这种主题，重要的是要以数据为驱动，所以我们会衡量效率和性能来驱动我们的决策。</p><p></p><p>我们很可能会完善IDE集成，目前请务必阅读<a href="https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#_intellij_idea">相关文档</a>"，了解潜在的手动配置步骤，以便在IDE中运行应用程序之前更新生成的源码。</p><p></p><h2>结论</h2><p></p><p>在支持原生方面，Spring有两个支柱性的策略。第一个是在不需要对现有的数百万个Spring Boot应用进行重大改动的情况下，对Spring基础架构进行调整以适应原生。这包括在Spring顶层项目中为实现原生友好而做出的改变，像@NativeHint这样的基础架构，以及在Spring Native中逐渐成熟的Spring AOT构建插件。</p><p></p><p>第二个支柱比Spring本身的范围更广，原生是一个与JVM特性有所差异的平台，但Java生态系统需要尽可能地保持一致，以避免出现两种截然不同的Java风格，如果这样的话，将会是维护上的一个挑战。</p><p></p><p>原文链接：</p><p></p><p>https://spring.io/blog/2021/03/11/announcing-spring-native-beta</p>  
+</div>
+            
