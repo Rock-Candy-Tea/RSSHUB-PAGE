@@ -126,13 +126,17 @@ def get_post(source, result, categories):
             if pubdate == '' and (child.name == 'lastbuilddate'):
                 pubdate = child.string
             title = re.sub(r'[:/\\?*“”<>|\[\]]', '_', title)
+            if "'" in title:
+                title = '"' + title +'"'
+            else:
+                title = "'" + title +"'"
 
         try:
             with open('post/' + categories +'/'+ author +'/'+ title.replace('\n', '').replace('#', '').replace('.', '') + '.md', mode='w',
                       encoding='utf-8') as f:
                 md_content = '''
 ---
-title: '{title}'
+title: {title}
 categories: 
     - {categories}
     - {author}
