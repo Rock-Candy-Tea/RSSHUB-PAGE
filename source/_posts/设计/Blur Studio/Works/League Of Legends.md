@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 18:00:52
+date: 2021-03-22 18:13:06
 thumbnail: 'http://blur.com/media/pages/projects/league-of-legends/1963597354-1578531070/2020-01-08_14h35_37.jpg'
 ---
 

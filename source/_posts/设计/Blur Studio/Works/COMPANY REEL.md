@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 18:00:52
+date: 2021-03-22 18:13:06
 thumbnail: 'http://blur.com/media/pages/projects/new-reel-2020/3736167888-1586569284/blank.png'
 ---
 
