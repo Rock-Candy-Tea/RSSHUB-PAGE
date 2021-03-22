@@ -4,6 +4,7 @@ chardet==4.0.0
 htmlmin==0.1.12
 idna==2.10
 lxml==4.6.2
+PyYAML==5.4.1
 requests==2.25.1
 soupsieve==2.2.1
 tomd==0.1.3
