@@ -68,12 +68,12 @@ jobs:
 
     - name: Hexo Generate
       run: |
+        node --max_old_space_size=8000
         hexo g
 
     - name: Deploy
       run: |
         git config --global user.name "Zfour"
         git config --global user.email "499984532@qq.com"
-        node --max_old_space_size=8000
         hexo deploy
 
