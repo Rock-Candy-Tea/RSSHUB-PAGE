@@ -6,6 +6,13 @@ import time
 import re
 import json
 import os
+import yaml
+
+def load_config():
+    f = open('config.yml', 'r', encoding='utf-8')
+    ystr = f.read()
+    ymllist = yaml.load(ystr, Loader=yaml.FullLoader)
+    return ymllist
 
 def listdir(path, list_name):  # 传入存储的list
     for file in os.listdir(path):
@@ -78,9 +85,14 @@ def build_md():
                                 }
                         source_list.append(item)
 
-    print(source_list)
-    print(len(source_list))
-    return source_list
+    list_slect =[]
+    config_list = load_config()
+    for item in source_list:
+    if item['link'] in config_list['slect']:
+        list_slect.append(item)
+    print(list_slect)
+    print(len(list_slect))
+    return list_slect
 
 
 def get_data(link):
