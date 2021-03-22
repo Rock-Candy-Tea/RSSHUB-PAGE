@@ -4,12 +4,6 @@ name: update-RSSHub
 on: 
   release:
     types: [published]
-  push:
-    tags:
-    - 'v*'
-  #  branches: 
-  #    - master
-  issues:
   repository_dispatch:
   watch:
     types: [started]
@@ -28,7 +22,10 @@ jobs:
     - name: Install requirements #安装requests
       run: |
         pip install -r requirements.txt
-    - name: Update links #更新
+    - name: Delete Post Dir  #删除post目录
+      run: | 
+        rm -rf post
+    - name: Update RSS #更新
       run: | 
         python muti_work.py
         echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
