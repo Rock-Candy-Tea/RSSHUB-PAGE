@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 18:13:06
+date: 2021-03-22 18:16:40
 thumbnail: 'http://blur.com/media/pages/projects/sod/566168590-1596050269/sod_mastercolor_srgb_0307.jpg'
 ---
 
