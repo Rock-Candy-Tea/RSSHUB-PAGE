@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 17:49:20
+date: 2021-03-22 18:00:52
 thumbnail: 'http://blur.com/media/pages/projects/love-death-and-robots/1999261798-1571942215/sed_highres_0019.jpg'
 ---
 

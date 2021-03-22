@@ -8,7 +8,7 @@ categories:
 
 author: Paul Graham 博客
 comments: false
-date: 2021-03-22 17:49:08
+date: 2021-03-22 18:00:40
 thumbnail: ''
 ---
 

@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 17:49:20
+date: 2021-03-22 18:00:52
 thumbnail: 'http://blur.com/media/pages/projects/call-of-duty/2753542686-1571942215/sc060_safehouseintro_v00000001818.jpg'
 ---
 

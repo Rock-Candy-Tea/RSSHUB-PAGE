@@ -8,7 +8,7 @@ categories:
 
 author: 世界经济论坛
 comments: false
-date: 2021-03-22 17:49:34
+date: 2021-03-22 18:01:09
 thumbnail: 'https://assets.weforum.org/editor/FUmLywAEtRhFMwLeS1CqlwFHh1HRiuuj4fEuS0RwXYo.png'
 ---
 
