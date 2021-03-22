@@ -1,0 +1,185 @@
+<aside id="sidebar" class="mdui-drawer mdui-drawer-full-height">
+  <div class="mdui-grid-tile">
+    <% if (theme.banner) { %><img src="<%- url_for(theme.banner) %>" style="height: 160px;"><% } %>
+    <% if (theme.avatar) { %><img src="<%- url_for(theme.avatar) %>" class="avatar-animation" style="position: absolute; top: 10%; left: 24px; width: 64px; height: 64px; border: 2px solid #fff; border-radius: 50%;"><% } %>
+    <div class="mdui-grid-tile-actions">
+      <div class="mdui-grid-tile-text">
+        <div class="mdui-grid-tile-title"><%= config.author %></div>
+        <div class="mdui-grid-tile-subtitle"><i class="mdui-icon material-icons">art_track</i><%= config.subtitle %></div>
+      </div>
+      <% if (theme.email) { %>
+        <div class="mdui-grid-tile-buttons">
+          <a href="mailto:<%= theme.email %>" class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '<%= theme.email %>'}"><i class="mdui-icon material-icons">email</i></a>
+        </div>
+      <% } %>
+    </div>
+  </div>
+    <div class=" mdui-panel mdui-panel-gapless" mdui-panel="{accordion: true}">
+
+        <div class=" mdui-panel-item">
+            <a  class="link_active" style='text-decoration:none;' href="<%- url_for() %>" >
+                <div class="mdui-ripple mdui-panel-item-header">
+                    <%= __('home') %></div>
+            </a>
+        </div>
+        <% var categories_list = site.categories.sort('name') %>
+        <% var list = [] %>
+        <% categories_list.each(function(item){
+            if(!item.parent) {
+                list_item={}
+                list_item['name']=item['name']
+                list_item['lenth']=item['length']
+                list_item['path']=item['path']
+                list_item['child']=[]
+                categories_list.each(function(item1){
+                    if(item1['parent'] === item['_id']){
+                        list_item1={}
+                        list_item1['name']=item1['name']
+                        list_item1['lenth']=item1['length']
+                        list_item1['path']=item1['path']
+                        list_item1['child']=[]
+                        categories_list.each(function(item2){
+                            if(item2['parent'] === item1['_id']){
+                                list_item2={}
+                                list_item2['name']=item2['name']
+                                list_item2['lenth']=item2['length']
+                                list_item2['path']=item2['path']
+                                list_item1['child'].push(list_item2)
+                            }
+                        })
+                        list_item['child'].push(list_item1)
+                    }
+                })
+                list.push(list_item)
+            }
+        })%>
+        <% for(i of list){%>
+            <div class="mdui-panel-item ">
+                <div class="mdui-ripple mdui-panel-item-header">
+                        <%= i['name'] %>
+                    <i class="mdui-panel-item-arrow mdui-icon material-icons">keyboard_arrow_down</i></div>
+                <div class="mdui-panel-item-body">
+                    <% for(j of i['child']){ %>
+
+                        <div class="mdui-panel " mdui-panel="{accordion: true}">
+                            <div class="mdui-panel-item">
+
+
+                                    <% if(j['child'].length>1){ %> <div class="mdui-panel-item-header mdui-ripple">
+                                        <p ><%= j['name'] %></p><i class="mdui-panel-item-arrow mdui-icon material-icons">keyboard_arrow_down</i></div>
+                                        <%}else{ %>
+                                      <a  class="link_active" style='text-decoration:none;' href="<%- url_for(j['path']) %>" >
+                                    <div class="mdui-panel-item-header mdui-ripple">
+                                        <p><%= j['name'] %></p>
+                                    </div></a>
+                                        <% } %>
+
+                                <% if(j['child'].length>1){ %>
+                                <div class="mdui-panel-item-body">
+                                    <% for(k of j['child']){%>
+                                    <a  class="link_active" style='text-decoration:none;' href="<%- url_for(k['path']) %>" >
+                                        <p><%= k['name'] %></p>
+                                    </a>
+                                    <%}%>
+                                </div> <%}%>
+
+                            </div>
+                        </div>
+                    <%}%>
+                </div>
+            </div>
+        <%}%>
+
+
+            <div class=" mdui-panel-item">
+                <a  class="link_active" style='text-decoration:none;' href="https://github.com/DIYgod/RSSHub" >
+                    <div class="mdui-ripple mdui-panel-item-header">
+                       RSSHub</div>
+                </a>
+            </div>
+        <div class=" mdui-panel-item">
+            <a  class="link_active" style='text-decoration:none;' href="https://zfe.space" >
+                <div class="mdui-ripple mdui-panel-item-header">
+                    小冰博客</div>
+            </a>
+        </div>
+                <div class=" mdui-panel-item">
+                    <a  class="link_active" style='text-decoration:none;' href="<%- url_for('/about') %>" >
+                        <div class="mdui-ripple mdui-panel-item-header">
+                            <%= __('about') %></div>
+                    </a>
+                </div>
+    </div>
+    <!--<div class="mdui-list" mdui-collapse="{accordion: true}">
+    <div class="mdui-collapse-item">
+      <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
+        <i class="mdui-list-item-icon mdui-icon material-icons mdui-text-color-deep-orange">inbox</i>
+        <div class="mdui-list-item-content"><%= __('archive') %></div>
+        <i class="mdui-collapse-item-arrow mdui-icon material-icons">keyboard_arrow_down</i>
+      </div>
+      <div class="mdui-collapse-item-body mdui-list mdui-list-dense">
+        <% var archives = list_archives({style: 'none', separator: '', class: 'mdui-ripple sidebar_archives'}) %>
+        <%- archives %>
+        <% if (!archives) { %>
+          <a href="javascript:;" class="mdui-list-item mdui-ripple mdui-p-l-2 mdui-text-color-theme" style="justify-content: center;"><%= __('no_archive') %></a>
+        <% } %>
+      </div>
+    </div>-->
+
+    <!--<div class="mdui-collapse-item ">
+      <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
+        <i class="mdui-list-item-icon mdui-icon material-icons mdui-text-color-green">chrome_reader_mode</i>
+        <div class="mdui-list-item-content">频道列表</div>
+        <i class="mdui-collapse-item-arrow mdui-icon material-icons">keyboard_arrow_down</i>
+      </div>
+      <div class="mdui-collapse-item-body mdui-list mdui-list-dense">
+        <% var categories = list_categories({ separator: '', class: 'mdui-ripple sidebar_archives'}) %>
+        <%- categories %>
+        <% if (!categories) { %>
+          <a href="javascript:;" class="mdui-list-item mdui-ripple mdui-p-l-2 mdui-text-color-theme" style="justify-content: center;"><%= __('no_category') %></a>
+        <% } %>
+      </div>
+    </div>
+
+    <div class="mdui-collapse-item">
+      <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
+        <i class="mdui-list-item-icon mdui-icon material-icons mdui-text-color-brown">bookmark</i>
+        <div class="mdui-list-item-content"><%= __('tag') %></div>
+        <i class="mdui-collapse-item-arrow mdui-icon material-icons">keyboard_arrow_down</i>
+      </div>
+      <div class="mdui-collapse-item-body mdui-list mdui-list-dense">
+        <% var tags = list_tags({style: 'none', separator: '', class: 'mdui-ripple sidebar_archives'}) %>
+        <%- tags %>
+        <% if (!tags) { %>
+          <a href="javascript:;" class="mdui-list-item mdui-ripple mdui-p-l-2 mdui-text-color-theme" style="justify-content: center;"><%= __('no_tag') %></a>
+        <% } %>
+      </div>
+    </div>
+    <a href="<%- url_for('/about') %>" class="mdui-list-item mdui-ripple">
+      <i class="mdui-list-item-icon mdui-icon material-icons mdui-text-color-purple">person</i>
+      <div class="mdui-list-item-content"><%= __('about') %></div>
+    </a>
+  </div>
+
+  <div class="mdui-divider"></div>
+
+  <div class="mdui-list" mdui-collapse="{accordion: true}">
+    <% for (var i in theme.pages) { %>
+      <a href="<%- url_for(theme.pages[i].link) %>" class="mdui-list-item mdui-ripple"><%= theme.pages[i].name %></a>
+    <% } %>
+    <div class="mdui-collapse-item">
+      <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
+        <div class="mdui-list-item-content"><%= __('links') %></div>
+        <i class="mdui-list-item-icon mdui-icon material-icons">link</i>
+      </div>
+      <div class="mdui-collapse-item-body mdui-list mdui-list-dense">
+        <% for (var i in theme.links) { %>
+          <a href="<%- theme.links[i].link %>" target="_blank" class="mdui-list-item mdui-ripple mdui-p-l-2 mdui-text-color-theme-accent" style="justify-content: center;"><%= theme.links[i].name %></a>
+        <% } %>
+        <% if (!theme.links || !theme.links.length) { %>
+          <a href="javascript:;" class="mdui-list-item mdui-ripple mdui-p-l-2 mdui-text-color-theme" style="justify-content: center;"><%= __('no_links') %></a>
+        <% } %>
+      </div>
+    </div>
+  </div>-->
+</aside>
