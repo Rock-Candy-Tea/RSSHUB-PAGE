@@ -43,6 +43,10 @@ def build_md():
                 if line[0:3].count('#') == 1:
                     print(line.replace('#', '').strip())
                     categories = line.replace('#', '').strip()
+                    try:
+                        os.makedirs('post/'+categories)
+                    except Exception as e:
+                        print('已存在目录',categories)
                     sorce_base = ''
                     sorce_all = ''
                 if line[0:3].count('#') == 2:
@@ -51,6 +55,10 @@ def build_md():
                 if line[0:3].count('#') == 3:
                     print(line.replace('#', '').strip())
                     sorce_all = sorce_base + ' - ' + line.replace('#', '').strip()
+                    try:
+                        os.makedirs('post/'+categories+'/'+sorce_all)
+                    except Exception as e:
+                        print('已存在目录',sorce_all)
                 if '<Route ' in line:
                     try:
                         text = BeautifulSoup(line, 'html.parser')
@@ -120,7 +128,7 @@ def get_post(source, result, categories):
             title = re.sub(r'[:/\\?*“”<>|\[\]]', '_', title)
 
         try:
-            with open('post/' + categories +'/'+ title.replace('\n', '').replace('#', '').replace('.', '') + '.md', mode='w',
+            with open('post/' + categories +'/'+ author +'/'+ title.replace('\n', '').replace('#', '').replace('.', '') + '.md', mode='w',
                       encoding='utf-8') as f:
                 md_content = '''
 ---
@@ -131,15 +139,16 @@ categories:
 author: {author}
 comments: false
 date: {date}
-thumbnail: {img}
+thumbnail: '{img}'
 ---
 
 <div>   
 {text}  
 </div>
             '''
-                md_content = md_content.format(title=title, categories=categories, author=author, date=pubdate,
-                                               text=text, img=img)
+                md_content = md_content.format(title=title, categories=categories, author=author, date=pubdate,text=text, img=img)
+                md_content = md_content.replace('{','&#123;')
+                md_content = md_content.replace('}','&#125;')
                 print('发布时间：', pubdate)
                 print('标题：', title)
                 print('描述：', '已获取内容')
@@ -209,7 +218,10 @@ class Crawl(threading.Thread):
 def main():
     concurrent = 10
     conparse = 10
-
+    try:
+        os.makedirs('post')
+    except Exception as e:
+        print('已存在post目录')
     # 获取rss列表
     link_list = build_md()
 
