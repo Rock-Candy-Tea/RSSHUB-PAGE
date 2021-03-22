@@ -88,8 +88,8 @@ def build_md():
     list_slect =[]
     config_list = load_config()
     for item in source_list:
-    if item['link'] in config_list['slect']:
-        list_slect.append(item)
+        if item['link'] in config_list['slect']:
+            list_slect.append(item)
     print(list_slect)
     print(len(list_slect))
     return list_slect
