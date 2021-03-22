@@ -132,7 +132,7 @@ def get_post(source, result, categories):
                       encoding='utf-8') as f:
                 md_content = '''
 ---
-title: {title}
+title: '{title}'
 categories: 
     - {categories}
     - {author}
