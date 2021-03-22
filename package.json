@@ -3,11 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo generate && node --max_old_space_size=8000",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
-    "serve" : "node --max_old_space_size=4096"
+    "server": "hexo server"
   },
   "hexo": {
     "version": "5.4.0"
