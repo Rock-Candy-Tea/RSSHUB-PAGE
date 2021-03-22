@@ -8,7 +8,7 @@ categories:
 
 author: Blur Studio
 comments: false
-date: 2021-03-22 18:16:41
+date: 2021-03-22 18:34:58
 thumbnail: 'http://blur.com/media/pages/projects/terminator-dark-fate/1160171486-1576794711/terminator_06.jpg'
 ---
 

@@ -8,7 +8,7 @@ categories:
 
 author: 少数派 sspai
 comments: false
-date: 2021-03-22 18:16:31
+date: 2021-03-22 18:34:39
 thumbnail: 'https://cdn.sspai.com/article/f2af63e5-2b8f-ac85-5c8d-c14b763a0898.jpg'
 ---
 

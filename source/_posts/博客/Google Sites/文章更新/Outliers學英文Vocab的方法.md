@@ -8,7 +8,7 @@ categories:
 
 author: Google Sites
 comments: false
-date: Mon, 22 Mar 2021 17:07:49 GMT
+date: Mon, 22 Mar 2021 17:29:47 GMT
 thumbnail: 'https://sites.google.com/site/outlierseconomics/_/rsrc/1468857024760/outliersvocab/look_eng.PNG?height=263&width=400'
 ---
 
