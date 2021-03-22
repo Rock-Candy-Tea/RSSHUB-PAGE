@@ -1,0 +1,18 @@
+
+---
+title: '《本周精选投稿》Vol.10：拖更可耻，真的有用'
+categories: 
+    - 游戏
+    - 小黑盒
+    - 游戏新闻
+
+author: 小黑盒
+comments: false
+date: Mon, 22 Mar 2021 12:29:02 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/d95d122e108ee982a38248f66987d525.png'
+---
+
+<div>   
+<p>由于一些不可坑力原因，上周的“每周精选投稿”拖到了今天，因为不想让之前没有刷到这些文章的盒友再次错过这些精致的文章，所以盒子妹即便冒着被骂拖更的风险也要把这篇发出来。本期我们迎来了几位新朋友，希望阅读完他们的文章你们能对“游戏”这一媒介有个新的认识。</p><p>另外悄悄透漏给大家一个好消息，以后的“每周精选投稿”会神秘升级，期待我们的新消息吧！</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55589785" target="_blank">所谓的奶排真的是你所认为的那样吗？</a></p><p><img class="lazy" data-height="717" src="https://cdn.max-c.com/heybox/dailynews/img/d95d122e108ee982a38248f66987d525.png" data-width="1279" style="width: 100%; height: 56.0594%;" referrerpolicy="no-referrer"></p><p>看标题秒进系列，这会是你近期阅读最流畅的一篇文章。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55256084" target="_blank">如果游戏角色是名人：这位和CJ互怼的神盾局局长，到底是什么来头？</a></p><p><img class="lazy" data-height="540" src="https://cdn.max-c.com/heybox/dailynews/img/974f65d51f4392be0843fec239974404.jpg" data-width="1125" style="width: 100%; height: 48%;" referrerpolicy="no-referrer"></p><p>深度挖掘了塞缪尔·杰克逊在电影/游戏两个行业的经历，作者用诙谐的口吻讲述了这个“嘴臭局长”丰富多彩的演绎生涯。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55354211" target="_blank">世界游戏历史：史前游戏与古代游戏（二）</a></p><p><img class="lazy" data-height="383" src="https://cdn.max-c.com/heybox/dailynews/img/edbb5de9c707ea821cd9ab0986b8d234.png" data-width="595" style="width: 100%; height: 64.3697%;" referrerpolicy="no-referrer"></p><p>稽古用心，考据到位。纵向拓宽了玩家们对古代游戏发展历史的知识面，对古时游戏设计思路有了全新的认识与理解。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55385857" target="_blank">鲜血淋漓、柜子藏尸，《生化危机》最恐怖的“一作”</a></p><p><img class="lazy" data-height="501" src="https://cdn.max-c.com/heybox/dailynews/img/8efcf984065c7d94f6c49cd651322b2f.png" data-width="1029" style="width: 100%; height: 48.688%;" referrerpolicy="no-referrer"></p><p>《生化危机7》Demo，有别于正片的良心之作，无比期待5月的新作《生化危机：村庄》。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55288257" target="_blank">去月球和寻找天堂 从我执到执我</a></p><p><img class="lazy" data-height="514" src="https://cdn.max-c.com/heybox/dailynews/img/af1311591d8be00226679f06eaa99a4e.png" data-width="556" style="width: 100%; height: 92.446%;" referrerpolicy="no-referrer"></p><p>“倘若事情正是因为自己主观原因导致，那么至少这份记忆还可以作为借鉴来警惕将来。但更悲惨的事，很多无可挽回的事情全系于阴差阳错的巧合 ，倘若承认“命运”便意味着接受所执之物将来还是会不讲道理的离开，那么可能便无力再寄情于外物。如果不接受“事实”便会走入偏执，永远被认知和现实的宏差所折磨。”</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55511363" target="_blank">虽然终会沉寂，但烟火选择绚烂</a></p><p><img class="lazy" data-height="899" src="https://cdn.max-c.com/heybox/dailynews/img/477445d52c811ef09d405cbfe3b3c95b.png" data-width="1603" style="width: 100%; height: 56.0823%;" referrerpolicy="no-referrer"></p><p>如果想要伤害得更深，那就要爱得更深。悲剧之所以是悲剧，是因为前面的美好放得足够多。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55324822" target="_blank">【MHW】同人漫画-无名苍星狩猎日志 第6章</a></p><p><img class="lazy" data-height="454" src="https://cdn.max-c.com/heybox/dailynews/img/d181fe427d7ce01b167f4b5b3c9792c9.png" data-width="499" style="width: 100%; height: 90.982%;" referrerpolicy="no-referrer"></p><p>人物细节刻画细腻用心，剧情创意从游戏出发又结合了时下流行的桥段。对怪物们的娘化是这个同人漫画的一大“亮点”。</p><p><a href="https://www.xiaoheihe.cn/community/23563/list/55217206" target="_blank">用一颗玩家之心赢得市场——从管理学角度研究任天堂发展40年的轨迹（三）</a></p><p><img class="lazy" data-height="227" src="https://cdn.max-c.com/heybox/dailynews/img/9014a7ad3b651e83af5305c3e337d558.jpg" data-width="740" style="width: 100%; height: 30.6757%;" referrerpolicy="no-referrer"></p><p>通过管理学的角度重新带领玩家梳理了一遍岩田聪时代任天堂通过“蓝海战略”带领任天堂走出困境，走向不朽的发展历程。</p>  
+</div>
+            
