@@ -148,9 +148,9 @@ thumbnail: '{img}'
 </div>
             '''
                 if "'" in title:
-                title = '"' + title +'"'
+                    title = '"' + title +'"'
                 else:
-                title = "'" + title +"'"
+                    title = "'" + title +"'"
                 md_content = md_content.format(title=title, categories=categories, author=author, date=pubdate,text=text, img=img)
                 md_content = md_content.replace('{','&#123;')
                 md_content = md_content.replace('}','&#125;')
