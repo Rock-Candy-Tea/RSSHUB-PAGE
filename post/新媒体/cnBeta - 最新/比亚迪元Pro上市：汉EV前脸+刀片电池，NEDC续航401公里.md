@@ -1,0 +1,17 @@
+
+---
+title: '比亚迪元Pro上市：汉EV前脸+刀片电池，NEDC续航401公里'
+categories: 
+    - 新媒体
+    - cnBeta - 最新
+author: cnBeta - 最新
+comments: false
+date: Mon, 22 Mar 2021 07:09:04 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0322/1cbcfa04e9688df.jpg'
+---
+
+<div>   
+3月21日，新款比亚迪元Pro正式上市。新车综合补贴后售价区间为12.13-13.14万元，分为“要爱一生版”和“一生一世版”两个版本，全系均为纯电驱动，并搭载比亚迪磷酸铁锂刀片电池，NEDC续航里程为401公里。<br>
+ <p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0322/1cbcfa04e9688df.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0322/1cbcfa04e9688df.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0322/1cbcfa04e9688df.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">与此前公布的新车预告图一样，新款比亚迪元Pro采用了全新的比亚迪家族式设计语言，更换了封闭式中网，前脸看上去就像是一辆“拉高加厚”的比亚迪汉EV，在贯穿前脸的银色镀铬饰条上镶嵌着篆体“元”字，延续了比亚迪车型一贯的外观风格。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0322/4a38c1116559936.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0322/4a38c1116559936.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0322/4a38c1116559936.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">比亚迪元Pro长宽高为4375/1785/1680毫米，轴距为2535毫米。新车采用了悬浮式车顶，并换装了全新样式的轮辋。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0322/11c663e78226feb.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0322/11c663e78226feb.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0322/11c663e78226feb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">内饰方面，比亚迪元Pro延续了元EV的造型设计，同时新增了灰色调，让车内氛围更加沉稳简洁。中控台依然搭载了一款10.1英寸的可旋转显示屏，并内置比亚迪DiLink 3.0智能网联系统，集成了语音识别、语音提醒、蓝牙免提通话、蓝牙<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>音乐、车载数字<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>等功能。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0322/c20b390dd7de4bc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0322/c20b390dd7de4bc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0322/c20b390dd7de4bc.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">动力方面，比亚迪元Pro搭载单驱动电机，最大功率为136马力，峰值扭矩210牛·米。电池采用的是50.1千瓦时磷酸铁锂刀片电池，NEDC续航里程为401公里</p><p style="text-align: left;">同时，新车全系配备了LED大灯、手机蓝牙/NFC钥匙、前排双安全气囊、倒车影像、后倒车雷达、自动<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C870%26ev%3D1554_584894%26JL%3D3_%25E7%25A9%25BA%25E8%25B0%2583%25E7%25B1%25BB%25E5%2588%25AB_%25E7%25AB%258B%25E6%259F%259C%25E5%25BC%258F%25E7%25A9%25BA%25E8%25B0%2583%23J_crumbsBar" target="_blank">空调</a>、远程寻车等配置。高配车型上，配备了前排侧气囊、前后排侧气帘、360度全景影像、全景天窗、全息透明影像、行车记录仪、千里眼等配置。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0322/f39a589ec084cc3.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0322/f39a589ec084cc3.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0322/f39a589ec084cc3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">根据比亚迪官方的销售政策，购买新车的用户可享受：终身免费OTA、最高2年免费车机流量/云服务、首任车主三电终身质保/6年或15万公里整车质保、首任车主赠送充电桩、最低15%首付/60期按揭贷款、老车主推荐新客户各享10000迪粉汇积分等后期优惠政策。</p>   
+</div>
+            

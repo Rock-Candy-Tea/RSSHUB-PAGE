@@ -6,7 +6,7 @@ categories:
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 05:02:52
+date: 2021-03-22 08:21:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/83/3f272bdc92377caf0bf41015d41buqz5.JPG?v=1616387606762'
 ---
 
@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/83/3f272bdc92377caf0bf41015d41buqz5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　Spry Fox 近日宣布，生活模擬遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Cozy+Grove" target="_blank">Cozy Grove</a>》預計將於 2021 年 4 月 9 日登陸 PC（Steam、Epic Games Store），4 月 8 日登上 PlayStation 4、PlayStation 5 平台。至於 Xbox One、Switch 以及 Apple Arcade 平台也預計將推出。</div>
+　　Spry Fox 近日宣布，生活模擬遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Cozy+Grove" target="_blank">Cozy Grove</a>》目前已在 Apple Arcade 平台推出，預計將於 2021 年 4 月 8 日登陸 PlayStation 4、PlayStation 5 平台，4 月 9 日登上 PC（Steam、Epic Games Store）平台，至於 Xbox One、Switch 也預計推出。</div>
 <div>
  </div>
 <div>

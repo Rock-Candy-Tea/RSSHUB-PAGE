@@ -6,7 +6,7 @@ categories:
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 05:02:52
+date: 2021-03-22 08:21:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/a70b099b6380a3c37a707cd4951bufl5.PNG?v=1616142561451'
 ---
 

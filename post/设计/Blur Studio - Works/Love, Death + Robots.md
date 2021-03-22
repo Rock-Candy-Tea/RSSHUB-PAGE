@@ -6,7 +6,7 @@ categories:
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 05:03:35
+date: 2021-03-22 08:21:49
 thumbnail: 'http://blur.com/media/pages/projects/love-death-and-robots/1999261798-1571942215/sed_highres_0019.jpg'
 ---
 

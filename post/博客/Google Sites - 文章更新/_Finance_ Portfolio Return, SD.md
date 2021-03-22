@@ -6,12 +6,12 @@ categories:
     - Google Sites - 文章更新
 author: Google Sites - 文章更新
 comments: false
-date: Mon, 22 Mar 2021 03:54:28 GMT
+date: Mon, 22 Mar 2021 07:13:37 GMT
 thumbnail: ''
 ---
 
 <div>   
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">功能：計算Portoflio Return, SD<div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Portfolio Return, SD</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz5UICGm28rjea13FJvIcaVothyOOR-6XQkrl1VsrTIZ_KAAvA/exec?mid=ACjPJvGp0bTXIfA5Wx6csT7t_LbtbBoDXSRDdnaoxhlaAZklRWkBRJB2azICzbSAZMxbqe5MrQa-AqECdeiDY-7iCMJo7ptm5advNvlFH2LwMAqU9tDzW0OIAm71qHf3OhJ_QXS56fxtdC7FDTps2_riEKviSwAlO4Z9Xw&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Portfolio Return, SD" width="100%" height="400" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_1713383180"></iframe></div></div></div></div><br></div></div></td></tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">功能：計算Portoflio Return, SD<div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Portfolio Return, SD</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz5UICGm28rjea13FJvIcaVothyOOR-6XQkrl1VsrTIZ_KAAvA/exec?mid=ACjPJvHi2POIQ1o5idOn8H7r1d5Cu1spX0thE0xcu0PFIXLestlSHTFkrb0pY3XeGdlrUHkuk8Cks6ssyc6NTLSBA2yjs6sgAB5c_9izY0-6-ySDzEeL38VagDYXN25zGD3jPin8HTswiKPJrnOIqqW1eTnx535lCHqqSw&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Portfolio Return, SD" width="100%" height="400" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_632771581"></iframe></div></div></div></div><br></div></div></td></tr></tbody></table>
   
 </div>
             

@@ -86,7 +86,7 @@ thumbnail: 'http://jian-ning.com/images/i/201803221_1.jpg'
     <div style="border: 1px #008BE8 dashed;">
     <table border="0">
 <form name="addCustomerReview" method="POST" action="/s/go"></form>
-<input type="hidden" name="hidden_security_key" value="7ba0323b74b460c0afa99b119cc41005">
+<input type="hidden" name="hidden_security_key" value="0da25d9dffeb2ff76ded6d2ed1ea5579">
 <input type="hidden" name="Title" value="美国房贷中的Escrow Account">
 <input type="hidden" name="Article_ID" value="201803221">
 
@@ -117,7 +117,7 @@ thumbnail: 'http://jian-ning.com/images/i/201803221_1.jpg'
   <td colspan="2">
   <br>
   <b>输入验证码</b> : 
-       <img src="http://jian-ning.com/images/letters/M.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/N.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/D.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/R.jpg" width="25" referrerpolicy="no-referrer">
+       <img src="http://jian-ning.com/images/letters/P.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/G.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/B.jpg" width="25" referrerpolicy="no-referrer"><img src="http://jian-ning.com/images/letters/K.jpg" width="25" referrerpolicy="no-referrer">
 <input type="text" name="security_key" size="6"> <span style="FONT-SIZE:10px;color:blue">* 必需</span> 
   </td>
 </tr>
