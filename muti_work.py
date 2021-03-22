@@ -129,7 +129,7 @@ def get_post(source, result, categories):
     soup = BeautifulSoup(result, 'html.parser')
     author_name = source['source_parent']
     author_child = source['source_child']
-    for i in soup.find_all('item')[0:20]:
+    for i in soup.find_all('item')[0:15]:
         title = ''
         text = ''
         pubdate = ''
