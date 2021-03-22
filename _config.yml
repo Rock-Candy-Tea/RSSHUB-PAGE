@@ -104,7 +104,7 @@ theme: materialized
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Zfour/news-zfe.git
+  repo: git@github.com:Zfour/news.zfe.space.git
 
 card_flex:
   enable: true
