@@ -1,6 +1,6 @@
 
 ---
-title: LILY × SMILEY 联名系列点亮微笑时刻
+title: 'LILY × SMILEY 联名系列点亮微笑时刻'
 categories: 
     - 新媒体
     - SocialBeta - 首页

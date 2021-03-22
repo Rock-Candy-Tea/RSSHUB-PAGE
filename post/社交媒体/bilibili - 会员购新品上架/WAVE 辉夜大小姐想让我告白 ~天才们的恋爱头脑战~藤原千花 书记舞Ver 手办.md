@@ -1,12 +1,12 @@
 
 ---
-title: WAVE 辉夜大小姐想让我告白 ~天才们的恋爱头脑战~藤原千花 书记舞Ver 手办
+title: 'WAVE 辉夜大小姐想让我告白 ~天才们的恋爱头脑战~藤原千花 书记舞Ver 手办'
 categories: 
     - 社交媒体
     - bilibili - 会员购新品上架
 author: bilibili - 会员购新品上架
 comments: false
-date: 2021-03-22 03:17:26
+date: 2021-03-22 03:45:07
 thumbnail: 'https://i0.hdslb.com/bfs/mall/mall/97/6d/976d41f0c90127783cf74b1eb0ffb9be.png'
 ---
 

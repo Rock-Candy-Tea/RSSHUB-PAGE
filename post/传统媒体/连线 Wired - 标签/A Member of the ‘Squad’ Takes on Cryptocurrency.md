@@ -1,12 +1,12 @@
 
 ---
-title: A Member of the ‘Squad’ Takes on Cryptocurrency
+title: 'A Member of the ‘Squad’ Takes on Cryptocurrency'
 categories: 
     - 传统媒体
     - 连线 Wired - 标签
 author: 连线 Wired - 标签
 comments: false
-date: 2021-03-22 03:20:19
+date: 2021-03-22 03:46:55
 thumbnail: 'https://media.wired.com/photos/5fc7ecd38a7caca6d23c3574/16:9/w_2400,c_limit/Business-Rashida-Tlaib-1177800173.jpg'
 ---
 

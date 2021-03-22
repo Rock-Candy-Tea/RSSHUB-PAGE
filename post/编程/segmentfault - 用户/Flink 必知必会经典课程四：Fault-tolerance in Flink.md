@@ -1,12 +1,12 @@
 
 ---
-title: Flink 必知必会经典课程四：Fault-tolerance in Flink
+title: 'Flink 必知必会经典课程四：Fault-tolerance in Flink'
 categories: 
     - 编程
     - segmentfault - 用户
 author: segmentfault - 用户
 comments: false
-date: 2021-03-22 03:14:56
+date: 2021-03-22 03:42:53
 thumbnail: 'https://segmentfault.com/img/remote/1460000039674658'
 ---
 

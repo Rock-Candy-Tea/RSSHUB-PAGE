@@ -1,6 +1,6 @@
 
 ---
-title: Detection of two interstellar polycyclic aromatic hydrocarbons via spectral matched filtering
+title: 'Detection of two interstellar polycyclic aromatic hydrocarbons via spectral matched filtering'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

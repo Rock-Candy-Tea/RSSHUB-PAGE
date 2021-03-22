@@ -1,6 +1,6 @@
 
 ---
-title: Chinese Film, Asian Actors and Directors Get Historic Oscar Nods
+title: 'Chinese Film, Asian Actors and Directors Get Historic Oscar Nods'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

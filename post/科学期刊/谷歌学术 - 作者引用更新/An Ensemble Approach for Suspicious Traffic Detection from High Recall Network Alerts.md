@@ -1,12 +1,12 @@
 
 ---
-title: An Ensemble Approach for Suspicious Traffic Detection from High Recall Network Alerts
+title: 'An Ensemble Approach for Suspicious Traffic Detection from High Recall Network Alerts'
 categories: 
     - 科学期刊
     - 谷歌学术 - 作者引用更新
 author: 谷歌学术 - 作者引用更新
 comments: false
-date: 2021-03-22 03:19:16
+date: 2021-03-22 03:46:04
 thumbnail: ''
 ---
 

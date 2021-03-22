@@ -1,6 +1,6 @@
 
 ---
-title: 华丽且更具内涵 BMW 发布全新一代 iDrive 系统
+title: '华丽且更具内涵 BMW 发布全新一代 iDrive 系统'
 categories: 
     - 新媒体
     - 鲸跃汽车 - 首页

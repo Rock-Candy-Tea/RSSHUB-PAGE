@@ -1,6 +1,6 @@
 
 ---
-title: Version 3
+title: 'Version 3'
 categories: 
     - 新媒体
     - Day One - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: PS4《地平線》等9款免費玩，索尼公開3~4月「Play At Home」陣容
+title: 'PS4《地平線》等9款免費玩，索尼公開3~4月「Play At Home」陣容'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

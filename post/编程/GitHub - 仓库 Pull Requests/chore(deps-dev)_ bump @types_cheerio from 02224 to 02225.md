@@ -1,6 +1,6 @@
 
 ---
-title: chore(deps-dev)_ bump @types_cheerio from 0.22.24 to 0.22.25
+title: 'chore(deps-dev)_ bump @types_cheerio from 0.22.24 to 0.22.25'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

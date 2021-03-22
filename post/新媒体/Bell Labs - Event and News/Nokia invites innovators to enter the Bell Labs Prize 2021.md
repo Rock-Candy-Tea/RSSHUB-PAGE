@@ -1,6 +1,6 @@
 
 ---
-title: Nokia invites innovators to enter the Bell Labs Prize 2021
+title: 'Nokia invites innovators to enter the Bell Labs Prize 2021'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

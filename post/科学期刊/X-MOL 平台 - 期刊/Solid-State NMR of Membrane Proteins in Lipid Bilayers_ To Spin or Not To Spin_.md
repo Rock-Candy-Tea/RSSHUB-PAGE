@@ -1,6 +1,6 @@
 
 ---
-title: Solid-State NMR of Membrane Proteins in Lipid Bilayers_ To Spin or Not To Spin_
+title: 'Solid-State NMR of Membrane Proteins in Lipid Bilayers_ To Spin or Not To Spin_'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

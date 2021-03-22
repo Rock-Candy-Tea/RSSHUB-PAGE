@@ -1,6 +1,6 @@
 
 ---
-title: 模玩老厂海洋堂主题公园开张 哥斯拉EVA纷纷登场
+title: '模玩老厂海洋堂主题公园开张 哥斯拉EVA纷纷登场'
 categories: 
     - 游戏
     - 3DMGame - 新闻中心

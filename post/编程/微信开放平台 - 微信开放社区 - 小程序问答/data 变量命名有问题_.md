@@ -1,6 +1,6 @@
 
 ---
-title: data 变量命名有问题_
+title: 'data 变量命名有问题_'
 categories: 
     - 编程
     - 微信开放平台 - 微信开放社区 - 小程序问答

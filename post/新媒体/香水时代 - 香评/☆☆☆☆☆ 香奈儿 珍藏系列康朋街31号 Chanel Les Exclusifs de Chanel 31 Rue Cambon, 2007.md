@@ -1,6 +1,6 @@
 
 ---
-title: ☆☆☆☆☆ 香奈儿 珍藏系列康朋街31号 Chanel Les Exclusifs de Chanel 31 Rue Cambon, 2007
+title: '☆☆☆☆☆ 香奈儿 珍藏系列康朋街31号 Chanel Les Exclusifs de Chanel 31 Rue Cambon, 2007'
 categories: 
     - 新媒体
     - 香水时代 - 香评

@@ -1,6 +1,6 @@
 
 ---
-title: A New Twist Reveals Superconductivity’s Secrets
+title: 'A New Twist Reveals Superconductivity’s Secrets'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -64,7 +64,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/Graphene-Skyrm
 <p>Unlike standard electron pairings, skyrmion couples bind tightly for highly efficient superconductivity. The composite objects are also large and crammed close together.</p>
 <p>And in standard metals, if you put the electrons into a state where they can choose from many possible activities, you usually get the strongest superconductivity. But when researchers gave electrons in the trilayer system this freedom, superconductivity died. Perhaps, said Khalaf, it’s because the increased freedom lets the skyrmions fall apart.</p>
 <p>“I don’t think it’s definitive that it’s not a conventional superconductor,” said <a href="https://www.deanlab.com/">Cory Dean</a>, a condensed matter physicist at Columbia University. But he said that the unusual response to increased freedom “is certainly a data point pointing in the other direction.”</p>
-<div id="component-60580bdfc1a58" class="related-list"></div>
+<div id="component-605812688598c" class="related-list"></div>
 <p>If the rotational symmetry Vishwanath and his colleagues identified truly is crucial to multilayer graphene’s superconductivity, materials scientists could someday use that fact to guide them through a field of many billions of possible substances toward a lattice that can keep its electrons together on a warm day.</p>
 <p>The charges in twisted graphene are spread far too thin across the giant moiré cells to superconduct at high temperatures, but the bond holding them together — whether it’s skyrmions or something else — seems strong. Further scrutiny of twisted graphene and the theories that explain its odd properties could, researchers hope, distill the essence of its robust superconductivity and point the way toward a lattice that can take more heat.</p>
 <p>“If you get the same skyrmion physics on the [atomic] scale,” Sachdev said, “then you could really use this.”</p>

@@ -1,6 +1,6 @@
 
 ---
-title: 分布式任务 + 消息队列框架 go-queue
+title: '分布式任务 + 消息队列框架 go-queue'
 categories: 
     - 新媒体
     - InfoQ 中文 - 话题

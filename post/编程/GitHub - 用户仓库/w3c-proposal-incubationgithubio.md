@@ -1,6 +1,6 @@
 
 ---
-title: w3c-proposal-incubation.github.io
+title: 'w3c-proposal-incubation.github.io'
 categories: 
     - 编程
     - GitHub - 用户仓库

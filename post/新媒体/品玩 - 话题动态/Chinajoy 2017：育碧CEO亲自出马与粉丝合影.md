@@ -1,6 +1,6 @@
 
 ---
-title: Chinajoy 2017：育碧CEO亲自出马与粉丝合影
+title: 'Chinajoy 2017：育碧CEO亲自出马与粉丝合影'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

@@ -1,12 +1,12 @@
 
 ---
-title: 精读《设计模式 - Template Method 模版模式》
+title: '精读《设计模式 - Template Method 模版模式》'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:53
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/remote/1460000039683667'
 ---
 

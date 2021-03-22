@@ -1,6 +1,6 @@
 
 ---
-title: Amazon's Supplier Factory Foxconn Recruits Illegally_ Interns Forced to Work Overtime  (Aug 8, 2019)
+title: 'Amazon's Supplier Factory Foxconn Recruits Illegally_ Interns Forced to Work Overtime  (Aug 8, 2019)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

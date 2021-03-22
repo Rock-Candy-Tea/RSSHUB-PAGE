@@ -1,6 +1,6 @@
 
 ---
-title: Patches Proposed So Microsoft Debuggers Can Deal With GCC-Built MinGW Executables
+title: 'Patches Proposed So Microsoft Debuggers Can Deal With GCC-Built MinGW Executables'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

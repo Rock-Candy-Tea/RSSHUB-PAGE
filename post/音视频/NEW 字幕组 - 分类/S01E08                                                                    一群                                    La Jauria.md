@@ -1,8 +1,8 @@
 
 ---
-title: S01E08                                
+title: 'S01E08                                
                                     一群
-                                    La Jauria
+                                    La Jauria'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

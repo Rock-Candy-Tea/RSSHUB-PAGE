@@ -1,6 +1,6 @@
 
 ---
-title: 112 _ Go 编程模式：Go Generation
+title: '112 _ Go 编程模式：Go Generation'
 categories: 
     - 编程
     - 极客时间 - 专栏文章

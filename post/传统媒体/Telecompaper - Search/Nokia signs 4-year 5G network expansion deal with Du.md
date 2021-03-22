@@ -1,6 +1,6 @@
 
 ---
-title: Nokia signs 4-year 5G network expansion deal with Du
+title: 'Nokia signs 4-year 5G network expansion deal with Du'
 categories: 
     - 传统媒体
     - Telecompaper - Search

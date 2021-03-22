@@ -1,12 +1,12 @@
 
 ---
-title: 給社區的一封信：Matters 與 LikeCoin宣佈合作 ^_^
+title: '給社區的一封信：Matters 與 LikeCoin宣佈合作 ^_^'
 categories: 
     - 新媒体
     - Matters - 作者
 author: Matters - 作者
 comments: false
-date: 2021-03-22 03:15:43
+date: 2021-03-22 03:43:31
 thumbnail: 'https://assets.matters.news/embed/038df1ee-368f-43e3-9c58-8c8a80f4f40e/like-coin-a-d68-media2-like-matters.png'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: 真的到1000了。2000还会远吗？推荐关注。___≧❆_&#123;"name"_"马想","uid"_"BYG0QP4NEAgz8kV5EbMV7yDaJeZqwn"&#125;__≦❆_：推荐全中国最爱和年轻CEO交朋友的刘思毅老师...
+title: '真的到1000了。2000还会远吗？推荐关注。___≧❆_&#123;"name"_"马想","uid"_"BYG0QP4NEAgz8kV5EbMV7yDaJeZqwn"&#125;__≦❆_：推荐全中国最爱和年轻CEO交朋友的刘思毅老师...'
 categories: 
     - 新媒体
     - 得到 - 知识城邦

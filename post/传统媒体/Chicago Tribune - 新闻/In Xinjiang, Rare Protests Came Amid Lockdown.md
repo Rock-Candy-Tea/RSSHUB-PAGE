@@ -1,6 +1,6 @@
 
 ---
-title: In Xinjiang, Rare Protests Came Amid Lockdown
+title: 'In Xinjiang, Rare Protests Came Amid Lockdown'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

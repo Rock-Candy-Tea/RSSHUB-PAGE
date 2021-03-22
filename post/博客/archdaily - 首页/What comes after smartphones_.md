@@ -1,6 +1,6 @@
 
 ---
-title: What comes after smartphones_
+title: 'What comes after smartphones_'
 categories: 
     - 博客
     - archdaily - 首页

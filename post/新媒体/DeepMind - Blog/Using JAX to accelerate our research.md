@@ -1,6 +1,6 @@
 
 ---
-title: Using JAX to accelerate our research
+title: 'Using JAX to accelerate our research'
 categories: 
     - 新媒体
     - DeepMind - Blog

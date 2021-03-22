@@ -1,6 +1,6 @@
 
 ---
-title: Seeing the CCP Clearly
+title: 'Seeing the CCP Clearly'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

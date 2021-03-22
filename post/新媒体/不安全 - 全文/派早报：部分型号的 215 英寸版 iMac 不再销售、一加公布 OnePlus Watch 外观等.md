@@ -1,6 +1,6 @@
 
 ---
-title: 派早报：部分型号的 21.5 英寸版 iMac 不再销售、一加公布 OnePlus Watch 外观等
+title: '派早报：部分型号的 21.5 英寸版 iMac 不再销售、一加公布 OnePlus Watch 外观等'
 categories: 
     - 新媒体
     - 不安全 - 全文

@@ -1,6 +1,6 @@
 
 ---
-title: Scala 3 - A community powered release
+title: 'Scala 3 - A community powered release'
 categories: 
     - 编程
     - Scala - Scala Blog

@@ -1,6 +1,6 @@
 
 ---
-title: Ex-officials expect China and U.S. to cooperate in multiple areas
+title: 'Ex-officials expect China and U.S. to cooperate in multiple areas'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

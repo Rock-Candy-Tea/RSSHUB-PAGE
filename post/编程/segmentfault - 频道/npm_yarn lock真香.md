@@ -1,12 +1,12 @@
 
 ---
-title: npm_yarn lock真香
+title: 'npm_yarn lock真香'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:53
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/bVcQFQS'
 ---
 

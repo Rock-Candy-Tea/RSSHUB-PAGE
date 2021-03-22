@@ -1,6 +1,6 @@
 
 ---
-title: Evolutionarily stable strategies in stable and periodically fluctuating populations_ The Rosenzweig–MacArthur predator–prey modelToward ecoevolution...
+title: 'Evolutionarily stable strategies in stable and periodically fluctuating populations_ The Rosenzweig–MacArthur predator–prey modelToward ecoevolution...'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

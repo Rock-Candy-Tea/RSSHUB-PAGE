@@ -1,6 +1,6 @@
 
 ---
-title: Impact of Electron-Electron Cusp on Configuration Interaction Energies
+title: 'Impact of Electron-Electron Cusp on Configuration Interaction Energies'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

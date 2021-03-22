@@ -1,6 +1,6 @@
 
 ---
-title: OCTO 2.0：美团基于Service Mesh的服务治理系统详解
+title: 'OCTO 2.0：美团基于Service Mesh的服务治理系统详解'
 categories: 
     - 博客
     - 美团技术团队 - 最近更新

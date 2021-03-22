@@ -1,6 +1,6 @@
 
 ---
-title: Chipmakers Are Ramping Up Production to Address Semiconductor Shortage. Here’s Why that Takes Time
+title: 'Chipmakers Are Ramping Up Production to Address Semiconductor Shortage. Here’s Why that Takes Time'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

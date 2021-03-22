@@ -1,6 +1,6 @@
 
 ---
-title: Oh No, Townscaper Is Coming To Switch And Mobile
+title: 'Oh No, Townscaper Is Coming To Switch And Mobile'
 categories: 
     - 新媒体
     - Kotaku - Story

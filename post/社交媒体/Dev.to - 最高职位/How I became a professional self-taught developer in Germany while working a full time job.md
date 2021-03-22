@@ -1,6 +1,6 @@
 
 ---
-title: How I became a professional self-taught developer in Germany while working a full time job
+title: 'How I became a professional self-taught developer in Germany while working a full time job'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

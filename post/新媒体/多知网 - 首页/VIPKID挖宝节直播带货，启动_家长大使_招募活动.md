@@ -1,6 +1,6 @@
 
 ---
-title: VIPKID挖宝节直播带货，启动_家长大使_招募活动
+title: 'VIPKID挖宝节直播带货，启动_家长大使_招募活动'
 categories: 
     - 新媒体
     - 多知网 - 首页

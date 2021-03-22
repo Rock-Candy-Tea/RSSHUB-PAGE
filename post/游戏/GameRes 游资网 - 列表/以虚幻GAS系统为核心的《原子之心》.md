@@ -1,6 +1,6 @@
 
 ---
-title: 以虚幻GAS系统为核心的《原子之心》
+title: '以虚幻GAS系统为核心的《原子之心》'
 categories: 
     - 游戏
     - GameRes 游资网 - 列表

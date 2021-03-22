@@ -1,6 +1,6 @@
 
 ---
-title: GDC演讲翻译——看门狗2的载具同步
+title: 'GDC演讲翻译——看门狗2的载具同步'
 categories: 
     - 游戏
     - GameRes 游资网 - 列表

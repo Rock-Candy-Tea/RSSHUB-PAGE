@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 新粉丝 伐咯饭特嘻
+title: 'DIYgod 新粉丝 伐咯饭特嘻'
 categories: 
     - 社交媒体
     - bilibili - UP 主粉丝

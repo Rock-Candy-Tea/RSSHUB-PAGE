@@ -1,6 +1,6 @@
 
 ---
-title: 为什么小程序成了BAT的_宠儿_？
+title: '为什么小程序成了BAT的_宠儿_？'
 categories: 
     - 金融
     - DT 财经 - 数据侠专栏

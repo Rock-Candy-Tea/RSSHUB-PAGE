@@ -1,6 +1,6 @@
 
 ---
-title: 漫画 Go 语言 纯手绘版
+title: '漫画 Go 语言 纯手绘版'
 categories: 
     - 编程
     - 掘金 - 小册

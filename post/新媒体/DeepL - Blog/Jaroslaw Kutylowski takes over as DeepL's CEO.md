@@ -1,6 +1,6 @@
 
 ---
-title: Jaroslaw Kutylowski takes over as DeepL's CEO
+title: 'Jaroslaw Kutylowski takes over as DeepL's CEO'
 categories: 
     - 新媒体
     - DeepL - Blog

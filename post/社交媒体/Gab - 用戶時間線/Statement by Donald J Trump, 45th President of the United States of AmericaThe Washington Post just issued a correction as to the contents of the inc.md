@@ -1,6 +1,6 @@
 
 ---
-title: Statement by Donald J. Trump, 45th President of the United States of AmericaThe Washington Post just issued a correction as to the contents of the inc...
+title: 'Statement by Donald J. Trump, 45th President of the United States of AmericaThe Washington Post just issued a correction as to the contents of the inc...'
 categories: 
     - 社交媒体
     - Gab - 用戶時間線

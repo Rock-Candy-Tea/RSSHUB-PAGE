@@ -1,6 +1,6 @@
 
 ---
-title: 免费给 Win10 加上右键菜单文件哈希校验功能 - 计算文件 Hash 工具 MD5 _ SHA1 等
+title: '免费给 Win10 加上右键菜单文件哈希校验功能 - 计算文件 Hash 工具 MD5 _ SHA1 等'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

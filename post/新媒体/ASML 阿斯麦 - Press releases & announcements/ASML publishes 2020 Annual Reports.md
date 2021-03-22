@@ -1,6 +1,6 @@
 
 ---
-title: ASML publishes 2020 Annual Reports
+title: 'ASML publishes 2020 Annual Reports'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

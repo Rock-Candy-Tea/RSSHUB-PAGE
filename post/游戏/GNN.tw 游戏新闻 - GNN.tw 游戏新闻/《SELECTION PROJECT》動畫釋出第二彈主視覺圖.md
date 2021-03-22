@@ -1,6 +1,6 @@
 
 ---
-title: 《SELECTION PROJECT》動畫釋出第二彈主視覺圖
+title: '《SELECTION PROJECT》動畫釋出第二彈主視覺圖'
 categories: 
     - 游戏
     - GNN.tw 游戏新闻 - GNN.tw 游戏新闻

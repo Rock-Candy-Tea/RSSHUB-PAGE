@@ -1,6 +1,6 @@
 
 ---
-title: Stretch-activated ion channels identified in the touch-sensitive structures of carnivorous Droseraceae plants
+title: 'Stretch-activated ion channels identified in the touch-sensitive structures of carnivorous Droseraceae plants'
 categories: 
     - 科学期刊
     - elife - 最新成果

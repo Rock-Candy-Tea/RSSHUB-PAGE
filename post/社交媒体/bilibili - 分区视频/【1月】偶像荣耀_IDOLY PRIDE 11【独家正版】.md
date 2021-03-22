@@ -1,6 +1,6 @@
 
 ---
-title: 【1月】偶像荣耀_IDOLY PRIDE 11【独家正版】
+title: '【1月】偶像荣耀_IDOLY PRIDE 11【独家正版】'
 categories: 
     - 社交媒体
     - bilibili - 分区视频

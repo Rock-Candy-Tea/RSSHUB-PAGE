@@ -1,6 +1,6 @@
 
 ---
-title: DS liteなきがする！
+title: 'DS liteなきがする！'
 categories: 
     - 社交媒体
     - 755 - 用户时间线

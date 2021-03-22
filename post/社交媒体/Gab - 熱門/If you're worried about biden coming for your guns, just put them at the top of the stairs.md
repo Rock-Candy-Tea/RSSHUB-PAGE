@@ -1,6 +1,6 @@
 
 ---
-title: If you're worried about biden coming for your guns, just put them at the top of the stairs.
+title: 'If you're worried about biden coming for your guns, just put them at the top of the stairs.'
 categories: 
     - 社交媒体
     - Gab - 熱門

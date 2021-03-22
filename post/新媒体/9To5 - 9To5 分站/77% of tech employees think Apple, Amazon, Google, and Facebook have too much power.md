@@ -1,6 +1,6 @@
 
 ---
-title: 77% of tech employees think Apple, Amazon, Google, and Facebook have too much power
+title: '77% of tech employees think Apple, Amazon, Google, and Facebook have too much power'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

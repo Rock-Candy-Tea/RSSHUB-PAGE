@@ -1,6 +1,6 @@
 
 ---
-title: Matataki Quest —— 基于Fan票的任务悬赏平台  - 林可
+title: 'Matataki Quest —— 基于Fan票的任务悬赏平台  - 林可'
 categories: 
     - 新媒体
     - Matataki - 作者创作

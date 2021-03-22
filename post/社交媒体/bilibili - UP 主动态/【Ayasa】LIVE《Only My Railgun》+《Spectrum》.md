@@ -1,6 +1,6 @@
 
 ---
-title: 【Ayasa】LIVE《Only My Railgun》+《Spectrum》
+title: '【Ayasa】LIVE《Only My Railgun》+《Spectrum》'
 categories: 
     - 社交媒体
     - bilibili - UP 主动态

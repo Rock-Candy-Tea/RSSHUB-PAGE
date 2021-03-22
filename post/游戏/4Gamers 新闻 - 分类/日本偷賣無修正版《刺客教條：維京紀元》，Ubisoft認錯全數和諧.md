@@ -1,6 +1,6 @@
 
 ---
-title: 日本偷賣無修正版《刺客教條：維京紀元》，Ubisoft認錯全數和諧
+title: '日本偷賣無修正版《刺客教條：維京紀元》，Ubisoft認錯全數和諧'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

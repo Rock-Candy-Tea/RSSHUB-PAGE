@@ -1,6 +1,6 @@
 
 ---
-title: Initial Support For The Rust Language Lands In Linux-Next
+title: 'Initial Support For The Rust Language Lands In Linux-Next'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

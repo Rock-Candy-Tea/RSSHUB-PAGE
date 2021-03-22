@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Package Control_ Arbitrary File Write on packagecontrol.io
+title: '_Fixed_ Package Control_ Arbitrary File Write on packagecontrol.io'
 categories: 
     - 编程
     - project-zero issues - issues

@@ -1,6 +1,6 @@
 
 ---
-title: Sony Buys Evo
+title: 'Sony Buys Evo'
 categories: 
     - 新媒体
     - Kotaku - Story

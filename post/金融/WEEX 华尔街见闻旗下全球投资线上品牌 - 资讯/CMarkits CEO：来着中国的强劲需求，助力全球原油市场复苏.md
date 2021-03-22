@@ -1,6 +1,6 @@
 
 ---
-title: CMarkits CEO：来着中国的强劲需求，助力全球原油市场复苏
+title: 'CMarkits CEO：来着中国的强劲需求，助力全球原油市场复苏'
 categories: 
     - 金融
     - WEEX 华尔街见闻旗下全球投资线上品牌 - 资讯

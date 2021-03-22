@@ -1,6 +1,6 @@
 
 ---
-title: 聖誕節犒賞自己的好選擇，「鹿島 購物mode」可愛又精美
+title: '聖誕節犒賞自己的好選擇，「鹿島 購物mode」可愛又精美'
 categories: 
     - 二次元
     - Animen 动漫平台 - news

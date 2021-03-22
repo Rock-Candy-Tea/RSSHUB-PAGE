@@ -1,6 +1,6 @@
 
 ---
-title: Tyris：并不是本剧不够优秀，黑的人只是不对口味罢了
+title: 'Tyris：并不是本剧不够优秀，黑的人只是不对口味罢了'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

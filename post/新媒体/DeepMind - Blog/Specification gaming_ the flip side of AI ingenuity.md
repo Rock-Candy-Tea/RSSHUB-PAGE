@@ -1,6 +1,6 @@
 
 ---
-title: Specification gaming_ the flip side of AI ingenuity
+title: 'Specification gaming_ the flip side of AI ingenuity'
 categories: 
     - 新媒体
     - DeepMind - Blog

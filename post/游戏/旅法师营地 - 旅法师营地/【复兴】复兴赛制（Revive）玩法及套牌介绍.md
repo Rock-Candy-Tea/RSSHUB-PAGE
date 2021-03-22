@@ -1,6 +1,6 @@
 
 ---
-title: 【复兴】复兴赛制（Revive）玩法及套牌介绍
+title: '【复兴】复兴赛制（Revive）玩法及套牌介绍'
 categories: 
     - 游戏
     - 旅法师营地 - 旅法师营地

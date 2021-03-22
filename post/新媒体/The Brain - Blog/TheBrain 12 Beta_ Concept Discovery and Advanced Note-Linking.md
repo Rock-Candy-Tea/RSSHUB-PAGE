@@ -1,6 +1,6 @@
 
 ---
-title: TheBrain 12 Beta_ Concept Discovery and Advanced Note-Linking
+title: 'TheBrain 12 Beta_ Concept Discovery and Advanced Note-Linking'
 categories: 
     - 新媒体
     - The Brain - Blog

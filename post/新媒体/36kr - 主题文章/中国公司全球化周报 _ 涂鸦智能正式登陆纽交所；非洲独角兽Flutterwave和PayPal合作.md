@@ -1,6 +1,6 @@
 
 ---
-title: 中国公司全球化周报 _ 涂鸦智能正式登陆纽交所；非洲独角兽Flutterwave和PayPal合作
+title: '中国公司全球化周报 _ 涂鸦智能正式登陆纽交所；非洲独角兽Flutterwave和PayPal合作'
 categories: 
     - 新媒体
     - 36kr - 主题文章

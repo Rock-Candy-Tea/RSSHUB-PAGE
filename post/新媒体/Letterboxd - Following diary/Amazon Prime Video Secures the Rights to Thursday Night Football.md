@@ -1,6 +1,6 @@
 
 ---
-title: Amazon Prime Video Secures the Rights to Thursday Night Football
+title: 'Amazon Prime Video Secures the Rights to Thursday Night Football'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

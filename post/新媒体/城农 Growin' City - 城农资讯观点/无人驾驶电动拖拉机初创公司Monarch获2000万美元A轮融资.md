@@ -1,6 +1,6 @@
 
 ---
-title: 无人驾驶电动拖拉机初创公司Monarch获2000万美元A轮融资
+title: '无人驾驶电动拖拉机初创公司Monarch获2000万美元A轮融资'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

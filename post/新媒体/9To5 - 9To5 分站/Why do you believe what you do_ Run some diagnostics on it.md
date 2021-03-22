@@ -1,6 +1,6 @@
 
 ---
-title: Why do you believe what you do_ Run some diagnostics on it
+title: 'Why do you believe what you do_ Run some diagnostics on it'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

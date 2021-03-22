@@ -1,6 +1,6 @@
 
 ---
-title: Fate_Grand Orderお助けTIPS集(3_18 13_00掲載)
+title: 'Fate_Grand Orderお助けTIPS集(3_18 13_00掲載)'
 categories: 
     - 游戏
     - Fate Grand Order - News

@@ -1,6 +1,6 @@
 
 ---
-title: @大道无形我有型 关注了股票 Desktop Metal Inc.
+title: '@大道无形我有型 关注了股票 Desktop Metal Inc.'
 categories: 
     - 金融
     - 雪球 - 用户自选动态

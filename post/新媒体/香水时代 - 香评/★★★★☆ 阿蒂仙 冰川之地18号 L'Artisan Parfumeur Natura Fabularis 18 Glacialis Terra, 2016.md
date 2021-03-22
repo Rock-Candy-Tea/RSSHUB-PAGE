@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ 阿蒂仙 冰川之地18号 L'Artisan Parfumeur Natura Fabularis 18 Glacialis Terra, 2016
+title: '★★★★☆ 阿蒂仙 冰川之地18号 L'Artisan Parfumeur Natura Fabularis 18 Glacialis Terra, 2016'
 categories: 
     - 新媒体
     - 香水时代 - 香评

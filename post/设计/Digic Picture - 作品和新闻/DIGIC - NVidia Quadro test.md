@@ -1,12 +1,12 @@
 
 ---
-title: DIGIC - NVidia Quadro test
+title: 'DIGIC - NVidia Quadro test'
 categories: 
     - 设计
     - Digic Picture - 作品和新闻
 author: Digic Picture - 作品和新闻
 comments: false
-date: 2021-03-22 03:20:42
+date: 2021-03-22 03:47:17
 thumbnail: 'https://digicpictures.com///images/upload/nvidia3.jpg'
 ---
 

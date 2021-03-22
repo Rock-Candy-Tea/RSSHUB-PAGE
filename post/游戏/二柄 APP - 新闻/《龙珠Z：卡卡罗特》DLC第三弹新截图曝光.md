@@ -1,12 +1,12 @@
 
 ---
-title: 《龙珠Z：卡卡罗特》DLC第三弹新截图曝光
+title: '《龙珠Z：卡卡罗特》DLC第三弹新截图曝光'
 categories: 
     - 游戏
     - 二柄 APP - 新闻
 author: 二柄 APP - 新闻
 comments: false
-date: 2021-03-22 03:19:43
+date: 2021-03-22 03:46:24
 thumbnail: 'https://erbingeditor.diershoubing.com/202103211546414866html_img.jpg'
 ---
 

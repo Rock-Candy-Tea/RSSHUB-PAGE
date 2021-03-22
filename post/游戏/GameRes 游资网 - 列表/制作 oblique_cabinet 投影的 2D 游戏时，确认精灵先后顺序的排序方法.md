@@ -1,6 +1,6 @@
 
 ---
-title: 制作 oblique_cabinet 投影的 2D 游戏时，确认精灵先后顺序的排序方法
+title: '制作 oblique_cabinet 投影的 2D 游戏时，确认精灵先后顺序的排序方法'
 categories: 
     - 游戏
     - GameRes 游资网 - 列表

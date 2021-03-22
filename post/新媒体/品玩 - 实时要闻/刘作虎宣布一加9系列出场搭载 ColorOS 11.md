@@ -1,6 +1,6 @@
 
 ---
-title: 刘作虎宣布一加9系列出场搭载 ColorOS 11
+title: '刘作虎宣布一加9系列出场搭载 ColorOS 11'
 categories: 
     - 新媒体
     - 品玩 - 实时要闻

@@ -1,6 +1,6 @@
 
 ---
-title: Keep your projects up-to-date with Scala Steward
+title: 'Keep your projects up-to-date with Scala Steward'
 categories: 
     - 编程
     - Scala - Scala Blog

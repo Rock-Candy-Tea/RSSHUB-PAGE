@@ -1,6 +1,6 @@
 
 ---
-title: Bittersweet AI Memory
+title: 'Bittersweet AI Memory'
 categories: 
     - 游戏
     - マギアレコード（Magia Record, 魔法纪录） - 游戏横幅

@@ -1,12 +1,12 @@
 
 ---
-title: 微交互  EMMO：如何设计一个让人玩得停不下来的登录界面？
+title: '微交互  EMMO：如何设计一个让人玩得停不下来的登录界面？'
 categories: 
     - 设计
     - 优设网 - 细节猎人
 author: 优设网 - 细节猎人
 comments: false
-date: Wed, 17 Mar 2021 03:20:49 GMT
+date: Wed, 17 Mar 2021 03:47:21 GMT
 thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/03/xb-emmo-login2.gif'
 ---
 

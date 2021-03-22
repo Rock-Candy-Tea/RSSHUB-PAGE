@@ -1,6 +1,6 @@
 
 ---
-title: 出海活动预告 _ LET'S CHUHAI CLUB沙龙-深圳站向您发出邀请！
+title: '出海活动预告 _ LET'S CHUHAI CLUB沙龙-深圳站向您发出邀请！'
 categories: 
     - 新媒体
     - 36kr - 主题文章

@@ -1,6 +1,6 @@
 
 ---
-title: Women's History Month Profiles_ Joannie McDuffey
+title: 'Women's History Month Profiles_ Joannie McDuffey'
 categories: 
     - 新媒体
     - 美国劳工联合会 - 产业工会联合会 - 博客

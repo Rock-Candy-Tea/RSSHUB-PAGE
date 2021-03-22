@@ -1,12 +1,12 @@
 
 ---
-title: League Of Legends
+title: 'League Of Legends'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/league-of-legends/1963597354-1578531070/2020-01-08_14h35_37.jpg'
 ---
 

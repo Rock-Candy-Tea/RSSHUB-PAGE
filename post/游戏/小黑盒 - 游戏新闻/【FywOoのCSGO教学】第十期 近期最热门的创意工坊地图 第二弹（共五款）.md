@@ -1,12 +1,12 @@
 
 ---
-title: 【FywOoのCSGO教学】第十期 近期最热门的创意工坊地图 第二弹（共五款）
+title: '【FywOoのCSGO教学】第十期 近期最热门的创意工坊地图 第二弹（共五款）'
 categories: 
     - 游戏
     - 小黑盒 - 游戏新闻
 author: 小黑盒 - 游戏新闻
 comments: false
-date: 2021-03-22 03:19:49
+date: 2021-03-22 03:46:30
 thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/8915e61cd7987a64a23c9dfc6f748c3a.jpg'
 ---
 

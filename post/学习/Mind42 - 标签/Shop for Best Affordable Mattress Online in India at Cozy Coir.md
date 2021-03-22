@@ -1,12 +1,12 @@
 
 ---
-title: Shop for Best Affordable Mattress Online in India at Cozy Coir
+title: 'Shop for Best Affordable Mattress Online in India at Cozy Coir'
 categories: 
     - 学习
     - Mind42 - 标签
 author: Mind42 - 标签
 comments: false
-date: 2021-03-22 03:18:33
+date: 2021-03-22 03:45:44
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e0045a63-982f-4ea4-a6ac-581e79ea8741&size=gallery'
 ---
 

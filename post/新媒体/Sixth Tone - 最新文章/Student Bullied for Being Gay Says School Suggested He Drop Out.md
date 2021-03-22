@@ -1,6 +1,6 @@
 
 ---
-title: Student Bullied for Being Gay Says School Suggested He Drop Out
+title: 'Student Bullied for Being Gay Says School Suggested He Drop Out'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

@@ -1,12 +1,12 @@
 
 ---
-title: Magic_ The Gathering - Zendikar Rising
+title: 'Magic_ The Gathering - Zendikar Rising'
 categories: 
     - 设计
     - Axis Studios - Work type
 author: Axis Studios - Work type
 comments: false
-date: 2021-03-22 03:20:40
+date: 2021-03-22 03:47:14
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14067/axisstudios_zendikarising_1.-full.png'
 ---
 

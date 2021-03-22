@@ -1,6 +1,6 @@
 
 ---
-title: SNK《NEOGEO POCKET COLOR SELECTION Vol.1》Switch版發售中
+title: 'SNK《NEOGEO POCKET COLOR SELECTION Vol.1》Switch版發售中'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

@@ -1,6 +1,6 @@
 
 ---
-title: Men of the People_ Policeman devotes life to combat drug trafficking
+title: 'Men of the People_ Policeman devotes life to combat drug trafficking'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

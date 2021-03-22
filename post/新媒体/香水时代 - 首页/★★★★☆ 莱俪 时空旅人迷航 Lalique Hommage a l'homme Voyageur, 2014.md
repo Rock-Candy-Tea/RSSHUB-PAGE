@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ 莱俪 时空旅人迷航 Lalique Hommage a l'homme Voyageur, 2014
+title: '★★★★☆ 莱俪 时空旅人迷航 Lalique Hommage a l'homme Voyageur, 2014'
 categories: 
     - 新媒体
     - 香水时代 - 首页

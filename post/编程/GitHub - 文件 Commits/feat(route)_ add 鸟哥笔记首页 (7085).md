@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ add 鸟哥笔记首页 (#7085)
+title: 'feat(route)_ add 鸟哥笔记首页 (#7085)'
 categories: 
     - 编程
     - GitHub - 文件 Commits

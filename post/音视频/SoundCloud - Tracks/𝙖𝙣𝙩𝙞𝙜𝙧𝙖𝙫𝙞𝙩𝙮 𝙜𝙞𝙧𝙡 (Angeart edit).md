@@ -1,6 +1,6 @@
 
 ---
-title: 𝙖𝙣𝙩𝙞𝙜𝙧𝙖𝙫𝙞𝙩𝙮 𝙜𝙞𝙧𝙡 (Angeart edit)
+title: '𝙖𝙣𝙩𝙞𝙜𝙧𝙖𝙫𝙞𝙩𝙮 𝙜𝙞𝙧𝙡 (Angeart edit)'
 categories: 
     - 音视频
     - SoundCloud - Tracks

@@ -1,6 +1,6 @@
 
 ---
-title: Coded Caching with Device Computing for Content Computation in Mobile Systems
+title: 'Coded Caching with Device Computing for Content Computation in Mobile Systems'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

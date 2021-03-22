@@ -1,6 +1,6 @@
 
 ---
-title: Applying for technical roles
+title: 'Applying for technical roles'
 categories: 
     - 新媒体
     - DeepMind - Blog

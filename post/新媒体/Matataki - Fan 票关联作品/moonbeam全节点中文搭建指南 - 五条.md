@@ -1,6 +1,6 @@
 
 ---
-title: moonbeam全节点中文搭建指南 - 五条
+title: 'moonbeam全节点中文搭建指南 - 五条'
 categories: 
     - 新媒体
     - Matataki - Fan 票关联作品

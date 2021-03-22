@@ -1,6 +1,6 @@
 
 ---
-title: Completing a Ph.D. Program While Working and Parenting_ Here's Exactly What It Took
+title: 'Completing a Ph.D. Program While Working and Parenting_ Here's Exactly What It Took'
 categories: 
     - 新媒体
     - 美国大学和雇主协会 - 博客

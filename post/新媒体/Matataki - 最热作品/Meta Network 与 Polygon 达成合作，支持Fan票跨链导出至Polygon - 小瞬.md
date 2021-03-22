@@ -1,6 +1,6 @@
 
 ---
-title: Meta Network 与 Polygon 达成合作，支持Fan票跨链导出至Polygon - 小瞬
+title: 'Meta Network 与 Polygon 达成合作，支持Fan票跨链导出至Polygon - 小瞬'
 categories: 
     - 新媒体
     - Matataki - 最热作品

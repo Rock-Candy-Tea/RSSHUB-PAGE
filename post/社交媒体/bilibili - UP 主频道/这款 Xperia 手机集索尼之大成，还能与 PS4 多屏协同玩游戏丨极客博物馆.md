@@ -1,6 +1,6 @@
 
 ---
-title: 这款 Xperia 手机集索尼之大成，还能与 PS4 多屏协同玩游戏丨极客博物馆
+title: '这款 Xperia 手机集索尼之大成，还能与 PS4 多屏协同玩游戏丨极客博物馆'
 categories: 
     - 社交媒体
     - bilibili - UP 主频道

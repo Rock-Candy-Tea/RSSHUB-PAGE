@@ -1,6 +1,6 @@
 
 ---
-title: feat_ add bioone journal
+title: 'feat_ add bioone journal'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

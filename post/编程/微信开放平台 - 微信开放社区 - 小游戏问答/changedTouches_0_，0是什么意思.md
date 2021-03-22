@@ -1,6 +1,6 @@
 
 ---
-title: changedTouches_0_，0是什么意思
+title: 'changedTouches_0_，0是什么意思'
 categories: 
     - 编程
     - 微信开放平台 - 微信开放社区 - 小游戏问答

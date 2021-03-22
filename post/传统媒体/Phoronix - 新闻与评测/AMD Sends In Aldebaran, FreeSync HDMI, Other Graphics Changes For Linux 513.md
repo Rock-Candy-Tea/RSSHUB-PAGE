@@ -1,6 +1,6 @@
 
 ---
-title: AMD Sends In Aldebaran, FreeSync HDMI, Other Graphics Changes For Linux 5.13
+title: 'AMD Sends In Aldebaran, FreeSync HDMI, Other Graphics Changes For Linux 5.13'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

@@ -1,6 +1,6 @@
 
 ---
-title: Art in and of a Crisis at Science Gallery Detroit
+title: 'Art in and of a Crisis at Science Gallery Detroit'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

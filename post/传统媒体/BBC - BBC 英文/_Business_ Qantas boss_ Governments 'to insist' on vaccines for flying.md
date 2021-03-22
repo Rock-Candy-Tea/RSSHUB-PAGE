@@ -1,6 +1,6 @@
 
 ---
-title: _Business_ Qantas boss_ Governments 'to insist' on vaccines for flying
+title: '_Business_ Qantas boss_ Governments 'to insist' on vaccines for flying'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

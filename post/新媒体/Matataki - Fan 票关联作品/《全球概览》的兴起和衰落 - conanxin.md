@@ -1,6 +1,6 @@
 
 ---
-title: 《全球概览》的兴起和衰落 - conanxin
+title: '《全球概览》的兴起和衰落 - conanxin'
 categories: 
     - 新媒体
     - Matataki - Fan 票关联作品

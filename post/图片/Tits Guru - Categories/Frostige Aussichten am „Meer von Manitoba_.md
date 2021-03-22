@@ -1,6 +1,6 @@
 
 ---
-title: Frostige Aussichten am „Meer von Manitoba_
+title: 'Frostige Aussichten am „Meer von Manitoba_'
 categories: 
     - 图片
     - Tits Guru - Categories

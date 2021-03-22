@@ -1,6 +1,6 @@
 
 ---
-title: Nokia appoints new chief corporate affairs officer
+title: 'Nokia appoints new chief corporate affairs officer'
 categories: 
     - 传统媒体
     - Telecompaper - Search

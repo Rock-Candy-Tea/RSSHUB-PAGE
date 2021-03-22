@@ -1,6 +1,6 @@
 
 ---
-title: 小游戏什么时候可以支持macmini_
+title: '小游戏什么时候可以支持macmini_'
 categories: 
     - 编程
     - 微信开放平台 - 微信开放社区 - 小游戏问答

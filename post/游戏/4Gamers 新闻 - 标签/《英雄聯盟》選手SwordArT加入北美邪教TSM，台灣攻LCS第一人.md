@@ -1,6 +1,6 @@
 
 ---
-title: 《英雄聯盟》選手SwordArT加入北美邪教TSM，台灣攻LCS第一人
+title: '《英雄聯盟》選手SwordArT加入北美邪教TSM，台灣攻LCS第一人'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

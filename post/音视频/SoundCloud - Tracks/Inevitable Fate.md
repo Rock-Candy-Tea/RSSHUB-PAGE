@@ -1,6 +1,6 @@
 
 ---
-title: Inevitable Fate
+title: 'Inevitable Fate'
 categories: 
     - 音视频
     - SoundCloud - Tracks

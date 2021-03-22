@@ -1,6 +1,6 @@
 
 ---
-title: 印尼OTA平台Traveloka往事 ：探索、渡劫与新生
+title: '印尼OTA平台Traveloka往事 ：探索、渡劫与新生'
 categories: 
     - 新媒体
     - 36kr - 主题文章

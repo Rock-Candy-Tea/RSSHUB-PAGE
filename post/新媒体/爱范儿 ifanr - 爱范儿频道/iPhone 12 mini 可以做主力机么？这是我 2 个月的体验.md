@@ -1,6 +1,6 @@
 
 ---
-title: iPhone 12 mini 可以做主力机么？这是我 2 个月的体验
+title: 'iPhone 12 mini 可以做主力机么？这是我 2 个月的体验'
 categories: 
     - 新媒体
     - 爱范儿 ifanr - 爱范儿频道

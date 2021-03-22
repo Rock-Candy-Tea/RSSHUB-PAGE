@@ -1,12 +1,12 @@
 
 ---
-title: 新·福音战士剧场版_│▌ 惣流·明日香·兰格雷 RE 哥特式洛丽塔Ver.
+title: '新·福音战士剧场版_│▌ 惣流·明日香·兰格雷 RE 哥特式洛丽塔Ver.'
 categories: 
     - 二次元
     - Hpoi 手办维基 - 用户动态
 author: Hpoi 手办维基 - 用户动态
 comments: false
-date: 2021-03-22 03:22:28
+date: 2021-03-22 03:48:47
 thumbnail: 'http://res.hpoi.net.cn/gk/cover/n/2019/11/6b7a2668cd4445a49e6d826d272a390f.jpg?date=1607584788813'
 ---
 

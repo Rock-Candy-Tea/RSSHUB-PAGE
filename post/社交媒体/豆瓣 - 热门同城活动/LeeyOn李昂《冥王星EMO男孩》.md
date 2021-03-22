@@ -1,12 +1,12 @@
 
 ---
-title: LeeyOn李昂《冥王星EMO男孩》
+title: 'LeeyOn李昂《冥王星EMO男孩》'
 categories: 
     - 社交媒体
     - 豆瓣 - 热门同城活动
 author: 豆瓣 - 热门同城活动
 comments: false
-date: 2021-03-22 03:18:05
+date: 2021-03-22 03:45:27
 thumbnail: 'https://img9.doubanio.com/pview/event_poster/plarge/public/187b67d68f1277c.jpg'
 ---
 

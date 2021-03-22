@@ -1,6 +1,6 @@
 
 ---
-title: MuZero_ Mastering Go, chess, shogi and Atari without rules
+title: 'MuZero_ Mastering Go, chess, shogi and Atari without rules'
 categories: 
     - 新媒体
     - DeepMind - Blog

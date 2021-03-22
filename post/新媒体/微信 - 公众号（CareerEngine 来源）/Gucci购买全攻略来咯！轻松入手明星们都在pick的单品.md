@@ -1,6 +1,6 @@
 
 ---
-title: Gucci购买全攻略来咯！轻松入手明星们都在pick的单品
+title: 'Gucci购买全攻略来咯！轻松入手明星们都在pick的单品'
 categories: 
     - 新媒体
     - 微信 - 公众号（CareerEngine 来源）

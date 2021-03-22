@@ -1,6 +1,6 @@
 
 ---
-title: Femtosecond X-ray Liquidography Visualizes Wavepacket Trajectories in Multidimensional Nuclear Coordinates for a Bimolecular Reaction
+title: 'Femtosecond X-ray Liquidography Visualizes Wavepacket Trajectories in Multidimensional Nuclear Coordinates for a Bimolecular Reaction'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

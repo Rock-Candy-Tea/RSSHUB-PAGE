@@ -1,6 +1,6 @@
 
 ---
-title: #Exploration - Typography and Layout - Pitch Deck
+title: '#Exploration - Typography and Layout - Pitch Deck'
 categories: 
     - 设计
     - Dribbble - 流行

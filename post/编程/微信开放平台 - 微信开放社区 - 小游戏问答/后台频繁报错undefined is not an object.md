@@ -1,6 +1,6 @@
 
 ---
-title: 后台频繁报错undefined is not an object
+title: '后台频繁报错undefined is not an object'
 categories: 
     - 编程
     - 微信开放平台 - 微信开放社区 - 小游戏问答

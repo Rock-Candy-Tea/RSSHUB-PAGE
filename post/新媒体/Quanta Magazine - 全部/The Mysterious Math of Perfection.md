@@ -1,6 +1,6 @@
 
 ---
-title: The Mysterious Math of Perfection
+title: 'The Mysterious Math of Perfection'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部

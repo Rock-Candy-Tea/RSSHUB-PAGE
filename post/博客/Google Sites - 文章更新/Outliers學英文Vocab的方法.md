@@ -1,12 +1,12 @@
 
 ---
-title: Outliers學英文Vocab的方法
+title: 'Outliers學英文Vocab的方法'
 categories: 
     - 博客
     - Google Sites - 文章更新
 author: Google Sites - 文章更新
 comments: false
-date: Mon, 22 Mar 2021 02:14:17 GMT
+date: Mon, 22 Mar 2021 02:41:05 GMT
 thumbnail: 'https://sites.google.com/site/outlierseconomics/_/rsrc/1468857024760/outliersvocab/look_eng.PNG?height=263&width=400'
 ---
 

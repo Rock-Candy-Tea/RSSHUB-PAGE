@@ -1,6 +1,6 @@
 
 ---
-title: 谷歌正准备发布 Fuchsia OS 首个开发者预览版
+title: '谷歌正准备发布 Fuchsia OS 首个开发者预览版'
 categories: 
     - 新媒体
     - 品玩 - 实时要闻

@@ -1,6 +1,6 @@
 
 ---
-title: Delivering Effective Career Services to Student Veterans
+title: 'Delivering Effective Career Services to Student Veterans'
 categories: 
     - 新媒体
     - 美国大学和雇主协会 - 博客

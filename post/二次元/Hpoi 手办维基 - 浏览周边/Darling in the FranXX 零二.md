@@ -1,12 +1,12 @@
 
 ---
-title: Darling in the FranXX 零二
+title: 'Darling in the FranXX 零二'
 categories: 
     - 二次元
     - Hpoi 手办维基 - 浏览周边
 author: Hpoi 手办维基 - 浏览周边
 comments: false
-date: 2021-03-22 03:22:27
+date: 2021-03-22 03:48:47
 thumbnail: 'http://res.hpoi.net.cn/gk/cover/s/2018/06/49429764ccea4a9488f3280af3dc9b33.jpg?date=1541900242000'
 ---
 

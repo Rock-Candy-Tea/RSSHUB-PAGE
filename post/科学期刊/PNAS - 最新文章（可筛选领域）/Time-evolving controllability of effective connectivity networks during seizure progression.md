@@ -1,6 +1,6 @@
 
 ---
-title: Time-evolving controllability of effective connectivity networks during seizure progression
+title: 'Time-evolving controllability of effective connectivity networks during seizure progression'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

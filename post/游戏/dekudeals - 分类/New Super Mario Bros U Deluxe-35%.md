@@ -1,13 +1,13 @@
 
 ---
-title: New Super Mario Bros. U Deluxe
--35%
+title: 'New Super Mario Bros. U Deluxe
+-35%'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/a43f4a939d38de5b5e9a095c32382b9d8df262c0/w500.jpg'
 ---
 

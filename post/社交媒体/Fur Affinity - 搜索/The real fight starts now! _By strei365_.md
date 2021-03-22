@@ -1,6 +1,6 @@
 
 ---
-title: The real fight starts now...! _By strei365_
+title: 'The real fight starts now...! _By strei365_'
 categories: 
     - 社交媒体
     - Fur Affinity - 搜索

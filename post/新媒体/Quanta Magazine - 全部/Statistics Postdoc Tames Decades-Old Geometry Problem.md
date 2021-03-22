@@ -1,6 +1,6 @@
 
 ---
-title: Statistics Postdoc Tames Decades-Old Geometry Problem
+title: 'Statistics Postdoc Tames Decades-Old Geometry Problem'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -60,7 +60,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/Convex-Slices_
 <p>Through what Chen called “some little tricks” but Vempala called an “elegant and important new insight,” Chen figured out how to make Lee and Vempala’s bootstrapping method work. This method takes a recursive approach to lowering the KLS bound, by showing that if you can make the bound fairly small, then there’s a way to make it even smaller. Applied repeatedly, this bootstrapping approach achieves the approximately constant bound for the KLS conjecture, and also for the Bourgain slicing problem.</p>
 <p>When Chen posted his work online, “I immediately basically stopped everything I was doing and checked this paper,” Klartag said. Researchers were wary, given the previous incorrect proof and the fact that most of them had never heard of Chen. But his contribution turned out to be easy to verify. “This paper is 100% correct,” Klartag said. “There’s no question about it.”</p>
 <p>Chen’s result means that the best 50-50 cut of a convex shape isn’t that much smaller than the best flat cut — in other words, high-dimensional convex shapes don’t contain hidden dumbbells with very narrow bridges. From a pure math perspective, “it is a big deal, because it was such a gaping hole in our understanding,” Bubeck said.</p>
-<div id="component-60580bdf356a9" class="related-list"></div>
+<div id="component-605812689b3bc" class="related-list"></div>
 <p>And from a practical standpoint, it means that a random walk is guaranteed to mix through a convex shape much faster than researchers could previously prove. Among other things, this understanding will help computer scientists to prioritize among different random sampling techniques — to figure out when the most basic random walk is best, and when a more sophisticated but computationally expensive algorithm will perform better.</p>
 <p>In the end, considering how many people tried and failed to prove the <em>d</em><sup>0</sup> bound, the proof was surprisingly simple, Vempala said. Bourgain, he speculated, would probably have thought, “How did I miss that?”</p>
 <p>Bourgain would have been thrilled by this development, mathematicians agree. Just a few months before his death in 2018, he contacted Milman, inquiring if there had been any progress. “He wanted to know the answer before he would leave,” Milman wrote.</p>

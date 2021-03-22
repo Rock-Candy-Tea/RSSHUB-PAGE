@@ -1,6 +1,6 @@
 
 ---
-title: 【漏洞预警】Gitlab markdown 远程代码执行漏洞
+title: '【漏洞预警】Gitlab markdown 远程代码执行漏洞'
 categories: 
     - 编程
     - 阿里云 - 公告

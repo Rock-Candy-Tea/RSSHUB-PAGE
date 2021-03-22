@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：送给每一位想在 iPad 上画画的人：Procreate 快速入门指南
+title: 'DIYgod喜欢了文章：送给每一位想在 iPad 上画画的人：Procreate 快速入门指南'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

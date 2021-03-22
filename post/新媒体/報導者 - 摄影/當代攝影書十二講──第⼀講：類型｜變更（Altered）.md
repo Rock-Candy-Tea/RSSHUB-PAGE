@@ -1,6 +1,6 @@
 
 ---
-title: 當代攝影書十二講──第⼀講：類型｜變更（Altered）
+title: '當代攝影書十二講──第⼀講：類型｜變更（Altered）'
 categories: 
     - 新媒体
     - 報導者 - 摄影

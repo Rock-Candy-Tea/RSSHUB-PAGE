@@ -1,6 +1,6 @@
 
 ---
-title: 温泉疗愈 - Nioh Trophy Guide
+title: '温泉疗愈 - Nioh Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

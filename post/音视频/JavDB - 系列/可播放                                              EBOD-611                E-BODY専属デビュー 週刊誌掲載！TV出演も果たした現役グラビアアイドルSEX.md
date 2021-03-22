@@ -1,10 +1,10 @@
 
 ---
-title: 可播放
+title: '可播放
                 
               
                 EBOD-611
-                E-BODY専属デビュー 週刊誌掲載！TV出演も果たした現役グラビアアイドルSEX...
+                E-BODY専属デビュー 週刊誌掲載！TV出演も果たした現役グラビアアイドルSEX...'
 categories: 
     - 音视频
     - JavDB - 系列
@@ -16,7 +16,7 @@ thumbnail: 'https://jdbimgs.com/covers/2a/2aKXN.jpg'
 
 <div>   
 <div class="column column-video-cover">
-        <a rel="nofollow" class="cover-container" target="_blank" href="https://javdb.com/v/2aKXN/play?pst=0d74ff06db6292cfdf8f21180f0735aa.MTYxNjM4MzI5OC5hOHNxYjM2cnU4">
+        <a rel="nofollow" class="cover-container" target="_blank" href="https://javdb.com/v/2aKXN/play?pst=4a87acc19214d87ea424ea6acfdfef7d.MTYxNjM4NDg4MS5hOHNxYjM2cnU4">
           <img src="https://jdbimgs.com/covers/2a/2aKXN.jpg" class="video-cover" referrerpolicy="no-referrer">
           <div class="play-button">
             <span class="icon"><img src="https://javdb.com/packs/media/images/btn-play-b414746c.svg" referrerpolicy="no-referrer"></span>

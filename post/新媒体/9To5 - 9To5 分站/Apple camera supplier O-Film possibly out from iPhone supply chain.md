@@ -1,6 +1,6 @@
 
 ---
-title: Apple camera supplier O-Film possibly out from iPhone supply chain
+title: 'Apple camera supplier O-Film possibly out from iPhone supply chain'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

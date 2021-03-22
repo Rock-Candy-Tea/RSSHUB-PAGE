@@ -1,6 +1,6 @@
 
 ---
-title: The art of smearing
+title: 'The art of smearing'
 categories: 
     - 新媒体
     - CGTN - Opinions

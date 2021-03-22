@@ -1,12 +1,12 @@
 
 ---
-title: K_DA_ More
+title: 'K_DA_ More'
 categories: 
     - 设计
     - Axis Studios - Work type
 author: Axis Studios - Work type
 comments: false
-date: 2021-03-22 03:20:40
+date: 2021-03-22 03:47:14
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14108/axisstudios_kda_more_013.-full.jpg'
 ---
 

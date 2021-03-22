@@ -1,6 +1,6 @@
 
 ---
-title: _Invalid_ Placeholder for release of Windows Memory Trap Example Code
+title: '_Invalid_ Placeholder for release of Windows Memory Trap Example Code'
 categories: 
     - 编程
     - project-zero issues - issues

@@ -1,12 +1,12 @@
 
 ---
-title: 工作流底层的表达式求值引擎 Aviator 的简单实践
+title: '工作流底层的表达式求值引擎 Aviator 的简单实践'
 categories: 
     - 编程
     - GitChat - 最新文章
 author: GitChat - 最新文章
 comments: false
-date: Mon, 22 Mar 2021 03:14:46 GMT
+date: Mon, 22 Mar 2021 03:42:40 GMT
 thumbnail: ''
 ---
 

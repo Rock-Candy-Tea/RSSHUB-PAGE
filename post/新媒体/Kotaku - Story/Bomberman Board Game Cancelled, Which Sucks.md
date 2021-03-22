@@ -1,6 +1,6 @@
 
 ---
-title: Bomberman Board Game Cancelled, Which Sucks
+title: 'Bomberman Board Game Cancelled, Which Sucks'
 categories: 
     - 新媒体
     - Kotaku - Story

@@ -1,6 +1,6 @@
 
 ---
-title: Where to Support my Work
+title: 'Where to Support my Work'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

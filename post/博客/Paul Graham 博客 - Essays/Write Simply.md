@@ -1,12 +1,12 @@
 
 ---
-title: Write Simply
+title: 'Write Simply'
 categories: 
     - 博客
     - Paul Graham 博客 - Essays
 author: Paul Graham 博客 - Essays
 comments: false
-date: 2021-03-22 03:19:21
+date: 2021-03-22 03:46:07
 thumbnail: ''
 ---
 

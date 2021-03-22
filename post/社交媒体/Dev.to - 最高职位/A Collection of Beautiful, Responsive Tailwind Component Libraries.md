@@ -1,6 +1,6 @@
 
 ---
-title: A Collection of Beautiful, Responsive Tailwind Component Libraries
+title: 'A Collection of Beautiful, Responsive Tailwind Component Libraries'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

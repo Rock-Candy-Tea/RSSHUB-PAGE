@@ -1,6 +1,6 @@
 
 ---
-title: Intact synapse structure and function after combined knockout of PTPδ, PTPσ, and LAR
+title: 'Intact synapse structure and function after combined knockout of PTPδ, PTPσ, and LAR'
 categories: 
     - 科学期刊
     - elife - 最新成果

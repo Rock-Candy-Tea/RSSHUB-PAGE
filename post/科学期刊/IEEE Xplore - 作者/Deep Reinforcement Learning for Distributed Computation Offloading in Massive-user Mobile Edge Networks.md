@@ -1,6 +1,6 @@
 
 ---
-title: Deep Reinforcement Learning for Distributed Computation Offloading in Massive-user Mobile Edge Networks
+title: 'Deep Reinforcement Learning for Distributed Computation Offloading in Massive-user Mobile Edge Networks'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

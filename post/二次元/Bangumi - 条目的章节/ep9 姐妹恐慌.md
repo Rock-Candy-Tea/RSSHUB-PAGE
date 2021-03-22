@@ -1,6 +1,6 @@
 
 ---
-title: ep.9 姐妹恐慌
+title: 'ep.9 姐妹恐慌'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

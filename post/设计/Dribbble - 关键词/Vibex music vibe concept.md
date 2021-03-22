@@ -1,6 +1,6 @@
 
 ---
-title: Vibex music vibe concept
+title: 'Vibex music vibe concept'
 categories: 
     - 设计
     - Dribbble - 关键词

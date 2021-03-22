@@ -1,6 +1,6 @@
 
 ---
-title: Carl Gustav Jung《心理類型》中的分類方式
+title: 'Carl Gustav Jung《心理類型》中的分類方式'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

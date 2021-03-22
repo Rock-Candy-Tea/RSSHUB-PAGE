@@ -1,6 +1,6 @@
 
 ---
-title: The Day One Podcast
+title: 'The Day One Podcast'
 categories: 
     - 新媒体
     - Day One - Blog

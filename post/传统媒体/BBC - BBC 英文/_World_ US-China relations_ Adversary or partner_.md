@@ -1,6 +1,6 @@
 
 ---
-title: _World_ US-China relations_ Adversary or partner_
+title: '_World_ US-China relations_ Adversary or partner_'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

@@ -1,6 +1,6 @@
 
 ---
-title: When I met Objective-C__我的程序猿生涯（续）
+title: 'When I met Objective-C__我的程序猿生涯（续）'
 categories: 
     - 二次元
     - Bangumi - 用户日志

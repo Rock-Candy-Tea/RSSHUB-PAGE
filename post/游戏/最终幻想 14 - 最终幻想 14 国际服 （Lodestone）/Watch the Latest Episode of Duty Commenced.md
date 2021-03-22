@@ -1,6 +1,6 @@
 
 ---
-title: Watch the Latest Episode of Duty Commenced
+title: 'Watch the Latest Episode of Duty Commenced'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

@@ -1,6 +1,6 @@
 
 ---
-title: MetaGame：超越游戏的游戏丨奶牛精选 Vol.16
+title: 'MetaGame：超越游戏的游戏丨奶牛精选 Vol.16'
 categories: 
     - 游戏
     - 奶牛关 - 元素文章

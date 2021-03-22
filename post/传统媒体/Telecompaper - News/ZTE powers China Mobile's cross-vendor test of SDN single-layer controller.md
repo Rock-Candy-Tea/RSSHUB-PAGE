@@ -1,6 +1,6 @@
 
 ---
-title: ZTE powers China Mobile's cross-vendor test of SDN single-layer controller
+title: 'ZTE powers China Mobile's cross-vendor test of SDN single-layer controller'
 categories: 
     - 传统媒体
     - Telecompaper - News

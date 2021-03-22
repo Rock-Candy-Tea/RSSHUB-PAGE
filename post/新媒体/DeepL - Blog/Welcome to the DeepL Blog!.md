@@ -1,6 +1,6 @@
 
 ---
-title: Welcome to the DeepL Blog!
+title: 'Welcome to the DeepL Blog!'
 categories: 
     - 新媒体
     - DeepL - Blog

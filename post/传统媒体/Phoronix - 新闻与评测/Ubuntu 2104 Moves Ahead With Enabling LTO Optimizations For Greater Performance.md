@@ -1,6 +1,6 @@
 
 ---
-title: Ubuntu 21.04 Moves Ahead With Enabling LTO Optimizations For Greater Performance
+title: 'Ubuntu 21.04 Moves Ahead With Enabling LTO Optimizations For Greater Performance'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

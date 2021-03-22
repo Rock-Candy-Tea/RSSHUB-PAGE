@@ -1,6 +1,6 @@
 
 ---
-title: SIA Applauds Sen. Schumer Announcement on Promoting U.S. Competitiveness
+title: 'SIA Applauds Sen. Schumer Announcement on Promoting U.S. Competitiveness'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: 德国 BioNTech 创始人获勋章
+title: '德国 BioNTech 创始人获勋章'
 categories: 
     - 新媒体
     - iDaily 每日环球视野 - 今日 Timeline

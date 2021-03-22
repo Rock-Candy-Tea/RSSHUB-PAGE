@@ -1,6 +1,6 @@
 
 ---
-title: The Brief, Mystical Reign of the Wax Cadaver
+title: 'The Brief, Mystical Reign of the Wax Cadaver'
 categories: 
     - 新媒体
     - Nautilus - 话题

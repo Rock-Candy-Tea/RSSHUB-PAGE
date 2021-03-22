@@ -1,6 +1,6 @@
 
 ---
-title: Cyberpunk 2077 — Night City Wire_ Episode 4
+title: 'Cyberpunk 2077 — Night City Wire_ Episode 4'
 categories: 
     - 游戏
     - Steam - Steam news

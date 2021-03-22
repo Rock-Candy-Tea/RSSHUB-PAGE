@@ -1,6 +1,6 @@
 
 ---
-title: 是「for the people」，也是「for people」——讀《不離地藝評》有感
+title: '是「for the people」，也是「for people」——讀《不離地藝評》有感'
 categories: 
     - 阅读
     - 虛詞 - 版块

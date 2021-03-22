@@ -1,12 +1,12 @@
 
 ---
-title: Tales of Runeterra_ Targon - 'The Vaulted Road'
+title: 'Tales of Runeterra_ Targon - 'The Vaulted Road''
 categories: 
     - 设计
     - Axis Studios - Work type
 author: Axis Studios - Work type
 comments: false
-date: 2021-03-22 03:20:40
+date: 2021-03-22 03:47:14
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14083/phse2_ep08_promo_stills_1058.-full.png'
 ---
 

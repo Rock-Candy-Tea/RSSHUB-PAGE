@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：给流氓应用一个「沙箱」，让你的 Android 存储空间整洁如新
+title: 'DIYgod喜欢了文章：给流氓应用一个「沙箱」，让你的 Android 存储空间整洁如新'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

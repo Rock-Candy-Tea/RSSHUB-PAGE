@@ -1,6 +1,6 @@
 
 ---
-title: Nokia targets 10-13% operating margin in FY 2023 in new 3-stage strategy
+title: 'Nokia targets 10-13% operating margin in FY 2023 in new 3-stage strategy'
 categories: 
     - 传统媒体
     - Telecompaper - Search

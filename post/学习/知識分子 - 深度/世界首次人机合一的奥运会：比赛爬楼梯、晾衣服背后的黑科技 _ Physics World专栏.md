@@ -1,6 +1,6 @@
 
 ---
-title: 世界首次人机合一的奥运会：比赛爬楼梯、晾衣服背后的黑科技 _ Physics World专栏
+title: '世界首次人机合一的奥运会：比赛爬楼梯、晾衣服背后的黑科技 _ Physics World专栏'
 categories: 
     - 学习
     - 知識分子 - 深度

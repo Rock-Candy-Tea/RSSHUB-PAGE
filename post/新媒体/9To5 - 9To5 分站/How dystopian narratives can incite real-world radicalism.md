@@ -1,6 +1,6 @@
 
 ---
-title: How dystopian narratives can incite real-world radicalism
+title: 'How dystopian narratives can incite real-world radicalism'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

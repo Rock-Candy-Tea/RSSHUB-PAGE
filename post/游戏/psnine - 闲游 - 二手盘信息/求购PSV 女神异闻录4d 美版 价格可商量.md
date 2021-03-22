@@ -1,6 +1,6 @@
 
 ---
-title: 求购PSV 女神异闻录4d 美版 价格可商量
+title: '求购PSV 女神异闻录4d 美版 价格可商量'
 categories: 
     - 游戏
     - psnine - 闲游 - 二手盘信息

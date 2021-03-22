@@ -1,6 +1,6 @@
 
 ---
-title: How design and creativity can help meet this moment.
+title: 'How design and creativity can help meet this moment.'
 categories: 
     - 设计
     - Monotype - Featured Article

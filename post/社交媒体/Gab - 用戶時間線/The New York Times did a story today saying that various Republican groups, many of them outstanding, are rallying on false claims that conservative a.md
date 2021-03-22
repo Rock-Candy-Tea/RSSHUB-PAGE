@@ -1,6 +1,6 @@
 
 ---
-title: The New York Times did a story today saying that various Republican groups, many of them outstanding, are rallying on false claims that conservative a...
+title: 'The New York Times did a story today saying that various Republican groups, many of them outstanding, are rallying on false claims that conservative a...'
 categories: 
     - 社交媒体
     - Gab - 用戶時間線

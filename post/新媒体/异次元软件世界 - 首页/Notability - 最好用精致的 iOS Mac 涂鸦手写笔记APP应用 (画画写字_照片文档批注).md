@@ -1,6 +1,6 @@
 
 ---
-title: Notability - 最好用精致的 iOS Mac 涂鸦手写笔记APP应用 (画画写字_照片文档批注)
+title: 'Notability - 最好用精致的 iOS Mac 涂鸦手写笔记APP应用 (画画写字_照片文档批注)'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

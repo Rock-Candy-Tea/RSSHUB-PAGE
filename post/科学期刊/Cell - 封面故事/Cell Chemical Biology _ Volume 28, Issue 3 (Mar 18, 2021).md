@@ -1,6 +1,6 @@
 
 ---
-title: Cell Chemical Biology _ Volume 28, Issue 3 (Mar 18, 2021)
+title: 'Cell Chemical Biology _ Volume 28, Issue 3 (Mar 18, 2021)'
 categories: 
     - 科学期刊
     - Cell - 封面故事

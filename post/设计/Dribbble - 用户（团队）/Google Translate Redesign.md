@@ -1,6 +1,6 @@
 
 ---
-title: Google Translate Redesign
+title: 'Google Translate Redesign'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

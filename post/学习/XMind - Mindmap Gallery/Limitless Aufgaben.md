@@ -1,6 +1,6 @@
 
 ---
-title: Limitless Aufgaben
+title: 'Limitless Aufgaben'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

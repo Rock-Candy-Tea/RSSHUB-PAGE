@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★★ 保罗史密斯 玫瑰之约 Paul Smith Rose, 2007
+title: '★★★★★ 保罗史密斯 玫瑰之约 Paul Smith Rose, 2007'
 categories: 
     - 新媒体
     - 香水时代 - 首页

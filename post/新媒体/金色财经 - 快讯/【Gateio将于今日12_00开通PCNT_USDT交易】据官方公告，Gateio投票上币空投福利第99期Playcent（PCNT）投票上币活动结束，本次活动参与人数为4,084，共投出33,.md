@@ -1,6 +1,6 @@
 
 ---
-title: 【Gate.io将于今日12_00开通PCNT_USDT交易】据官方公告，Gate.io投票上币空投福利第99期Playcent（PCNT）投票上币活动结束，本次活动参与人数为4,084，共投出33,...
+title: '【Gate.io将于今日12_00开通PCNT_USDT交易】据官方公告，Gate.io投票上币空投福利第99期Playcent（PCNT）投票上币活动结束，本次活动参与人数为4,084，共投出33,...'
 categories: 
     - 新媒体
     - 金色财经 - 快讯

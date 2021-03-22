@@ -1,6 +1,6 @@
 
 ---
-title: Nokia to lead the EU's 6G project Hexa-X
+title: 'Nokia to lead the EU's 6G project Hexa-X'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

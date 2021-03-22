@@ -1,6 +1,6 @@
 
 ---
-title: Big Idea Ventures蛋白质替代品科技加速器开放申请
+title: 'Big Idea Ventures蛋白质替代品科技加速器开放申请'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

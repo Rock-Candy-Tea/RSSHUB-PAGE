@@ -1,6 +1,6 @@
 
 ---
-title: China’s Sex Ed Classes Need to Teach More Than Fear
+title: 'China’s Sex Ed Classes Need to Teach More Than Fear'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

@@ -1,6 +1,6 @@
 
 ---
-title: fix(route)_ latest of Matters & redirect hot to it (#7116)
+title: 'fix(route)_ latest of Matters & redirect hot to it (#7116)'
 categories: 
     - 编程
     - GitHub - 文件 Commits

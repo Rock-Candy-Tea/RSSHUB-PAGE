@@ -1,6 +1,6 @@
 
 ---
-title: Michel Foucault〈馬內的繪畫：一種目光〉
+title: 'Michel Foucault〈馬內的繪畫：一種目光〉'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

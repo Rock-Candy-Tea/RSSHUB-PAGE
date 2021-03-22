@@ -1,6 +1,6 @@
 
 ---
-title: Tim Cook pens WSJ op-ed on COVID-19 and the ‘urgency of racial justice’
+title: 'Tim Cook pens WSJ op-ed on COVID-19 and the ‘urgency of racial justice’'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

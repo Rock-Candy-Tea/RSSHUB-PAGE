@@ -1,12 +1,12 @@
 
 ---
-title: _UXUI_ 일상을 로그하다, 로깅
+title: '_UXUI_ 일상을 로그하다, 로깅'
 categories: 
     - 设计
     - Notefolio - Works
 author: Notefolio - Works
 comments: false
-date: 2021-03-22 03:20:46
+date: 2021-03-22 03:47:18
 thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/15/cd/15cdb145c027557ec0dfbe92cda45aa4a3f360331a21cc915d1df467b5c12338_v1.jpg'
 ---
 

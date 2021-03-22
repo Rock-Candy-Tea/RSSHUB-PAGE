@@ -1,6 +1,6 @@
 
 ---
-title: OPPO Find X3系列全球发布会
+title: 'OPPO Find X3系列全球发布会'
 categories: 
     - 新媒体
     - 差评 - 资讯

@@ -1,6 +1,6 @@
 
 ---
-title: Tina Sosna Photography
+title: 'Tina Sosna Photography'
 categories: 
     - 图片
     - CNU 视觉联盟 - 每日精选

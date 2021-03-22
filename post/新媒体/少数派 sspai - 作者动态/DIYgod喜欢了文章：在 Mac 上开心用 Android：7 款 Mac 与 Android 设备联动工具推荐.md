@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：在 Mac 上开心用 Android：7 款 Mac 与 Android 设备联动工具推荐
+title: 'DIYgod喜欢了文章：在 Mac 上开心用 Android：7 款 Mac 与 Android 设备联动工具推荐'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

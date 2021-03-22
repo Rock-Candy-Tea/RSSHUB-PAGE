@@ -1,6 +1,6 @@
 
 ---
-title: Zack Snyder's Justice League
+title: 'Zack Snyder's Justice League'
 categories: 
     - 新媒体
     - Letterboxd - User diary

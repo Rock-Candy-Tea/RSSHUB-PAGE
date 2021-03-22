@@ -1,6 +1,6 @@
 
 ---
-title: IIE Supports Global Outreach for World’s First Artificial Intelligence Focused University
+title: 'IIE Supports Global Outreach for World’s First Artificial Intelligence Focused University'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

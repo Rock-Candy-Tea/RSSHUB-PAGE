@@ -1,6 +1,6 @@
 
 ---
-title: Zarząd Fundacji - Marcin Sawicki i Ola Sawicka
+title: 'Zarząd Fundacji - Marcin Sawicki i Ola Sawicka'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

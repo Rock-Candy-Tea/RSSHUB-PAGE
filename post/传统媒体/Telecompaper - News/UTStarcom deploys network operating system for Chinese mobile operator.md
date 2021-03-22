@@ -1,6 +1,6 @@
 
 ---
-title: UTStarcom deploys network operating system for Chinese mobile operator
+title: 'UTStarcom deploys network operating system for Chinese mobile operator'
 categories: 
     - 传统媒体
     - Telecompaper - News

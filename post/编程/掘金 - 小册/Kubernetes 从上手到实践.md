@@ -1,6 +1,6 @@
 
 ---
-title: Kubernetes 从上手到实践
+title: 'Kubernetes 从上手到实践'
 categories: 
     - 编程
     - 掘金 - 小册

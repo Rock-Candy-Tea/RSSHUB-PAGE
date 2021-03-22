@@ -1,6 +1,6 @@
 
 ---
-title: Spending Category
+title: 'Spending Category'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

@@ -1,6 +1,6 @@
 
 ---
-title: Shall We Talk (Tre Lune MMXIX) - 陈奕迅
+title: 'Shall We Talk (Tre Lune MMXIX) - 陈奕迅'
 categories: 
     - 音视频
     - 网易云音乐 - 歌手专辑

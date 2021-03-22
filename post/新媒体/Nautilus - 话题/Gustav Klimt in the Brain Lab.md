@@ -1,6 +1,6 @@
 
 ---
-title: Gustav Klimt in the Brain Lab
+title: 'Gustav Klimt in the Brain Lab'
 categories: 
     - 新媒体
     - Nautilus - 话题

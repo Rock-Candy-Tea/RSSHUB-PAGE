@@ -1,6 +1,6 @@
 
 ---
-title: 蔡依林和百大 DJ 为《和平精英》首创推广曲
+title: '蔡依林和百大 DJ 为《和平精英》首创推广曲'
 categories: 
     - 新媒体
     - SocialBeta - 首页

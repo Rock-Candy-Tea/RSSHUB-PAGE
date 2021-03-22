@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 新粉丝 无聊的一匹啊
+title: 'DIYgod 新粉丝 无聊的一匹啊'
 categories: 
     - 社交媒体
     - bilibili - UP 主粉丝

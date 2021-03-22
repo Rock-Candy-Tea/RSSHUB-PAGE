@@ -1,6 +1,6 @@
 
 ---
-title: Xi hails China-Colombia friendship as Sinovac vaccines land in Bogota
+title: 'Xi hails China-Colombia friendship as Sinovac vaccines land in Bogota'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

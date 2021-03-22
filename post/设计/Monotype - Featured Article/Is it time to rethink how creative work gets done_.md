@@ -1,6 +1,6 @@
 
 ---
-title: Is it time to rethink how creative work gets done_
+title: 'Is it time to rethink how creative work gets done_'
 categories: 
     - 设计
     - Monotype - Featured Article

@@ -1,6 +1,6 @@
 
 ---
-title: 用VPN翻墙真的安全吗？
+title: '用VPN翻墙真的安全吗？'
 categories: 
     - 新媒体
     - DeepMind - Blog

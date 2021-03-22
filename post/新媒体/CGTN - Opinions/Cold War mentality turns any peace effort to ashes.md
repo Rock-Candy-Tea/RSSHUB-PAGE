@@ -1,6 +1,6 @@
 
 ---
-title: Cold War mentality turns any peace effort to ashes
+title: 'Cold War mentality turns any peace effort to ashes'
 categories: 
     - 新媒体
     - CGTN - Opinions

@@ -1,6 +1,6 @@
 
 ---
-title: 在孤独艰辛的旅途中，短暂同行-Anitama新声
+title: '在孤独艰辛的旅途中，短暂同行-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

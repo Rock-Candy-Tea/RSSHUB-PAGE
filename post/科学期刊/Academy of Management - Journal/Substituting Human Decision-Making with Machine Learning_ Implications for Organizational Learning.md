@@ -1,6 +1,6 @@
 
 ---
-title: Substituting Human Decision-Making with Machine Learning_ Implications for Organizational Learning
+title: 'Substituting Human Decision-Making with Machine Learning_ Implications for Organizational Learning'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

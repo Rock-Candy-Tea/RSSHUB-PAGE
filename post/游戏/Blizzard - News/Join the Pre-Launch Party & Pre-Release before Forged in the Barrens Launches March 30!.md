@@ -1,6 +1,6 @@
 
 ---
-title: Join the Pre-Launch Party & Pre-Release before Forged in the Barrens Launches March 30!
+title: 'Join the Pre-Launch Party & Pre-Release before Forged in the Barrens Launches March 30!'
 categories: 
     - 游戏
     - Blizzard - News

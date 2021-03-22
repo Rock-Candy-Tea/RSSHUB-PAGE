@@ -1,6 +1,6 @@
 
 ---
-title: 【注目遊戲】SQUARE ENIX網上發布會 新作定名FORSPOKEN
+title: '【注目遊戲】SQUARE ENIX網上發布會 新作定名FORSPOKEN'
 categories: 
     - 新媒体
     - ezone.hk - 分类

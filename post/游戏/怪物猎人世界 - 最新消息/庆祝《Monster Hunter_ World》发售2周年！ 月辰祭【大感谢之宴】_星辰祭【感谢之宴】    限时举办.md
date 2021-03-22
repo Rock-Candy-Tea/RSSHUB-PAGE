@@ -1,13 +1,13 @@
 
 ---
-title: 庆祝《Monster Hunter_ World》发售2周年！ 月辰祭【大感谢之宴】_星辰祭【感谢之宴】
-    限时举办
+title: '庆祝《Monster Hunter_ World》发售2周年！ 月辰祭【大感谢之宴】_星辰祭【感谢之宴】
+    限时举办'
 categories: 
     - 游戏
     - 怪物猎人世界 - 最新消息
 author: 怪物猎人世界 - 最新消息
 comments: false
-date: 2021-03-22 03:19:44
+date: 2021-03-22 03:46:25
 thumbnail: 'https://www.monsterhunter.com/world-iceborne/topics/2nd-anniversary/images/img01.jpg'
 ---
 

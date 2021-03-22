@@ -1,6 +1,6 @@
 
 ---
-title: Self Learn
+title: 'Self Learn'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

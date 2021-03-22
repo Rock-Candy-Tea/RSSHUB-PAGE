@@ -1,6 +1,6 @@
 
 ---
-title: 关于PlayStation 4系统软件6.71版本升级
+title: '关于PlayStation 4系统软件6.71版本升级'
 categories: 
     - 游戏
     - PlayStation - PlayStation 4 系统更新纪录

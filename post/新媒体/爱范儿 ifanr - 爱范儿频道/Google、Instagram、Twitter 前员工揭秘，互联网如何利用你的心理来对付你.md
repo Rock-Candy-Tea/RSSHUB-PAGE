@@ -1,6 +1,6 @@
 
 ---
-title: Google、Instagram、Twitter 前员工揭秘，互联网如何利用你的心理来对付你
+title: 'Google、Instagram、Twitter 前员工揭秘，互联网如何利用你的心理来对付你'
 categories: 
     - 新媒体
     - 爱范儿 ifanr - 爱范儿频道

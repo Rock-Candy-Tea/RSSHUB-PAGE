@@ -1,6 +1,6 @@
 
 ---
-title: 今天就到这 (Bye Bye That's All)-Bad Sweetheart_摇滚_2021-03-05
+title: '今天就到这 (Bye Bye That's All)-Bad Sweetheart_摇滚_2021-03-05'
 categories: 
     - 社交媒体
     - 豆瓣 - 最新增加的音乐
@@ -12,7 +12,7 @@ thumbnail: 'https://img9.doubanio.com/view/subject/m/public/s33846271.jpg'
 
 <div>   
 <img src="https://img9.doubanio.com/view/subject/m/public/s33846271.jpg" referrerpolicy="no-referrer"><br>
-                    6.5/10  刚开始听感觉还行 怎么会越听越无聊的呢 —— 你的月亮被回收的短评<br>
+                    还挺有趣的kkk —— Metaphor的短评<br>
                     <strong>评分:</strong> 6.8
                   
 </div>

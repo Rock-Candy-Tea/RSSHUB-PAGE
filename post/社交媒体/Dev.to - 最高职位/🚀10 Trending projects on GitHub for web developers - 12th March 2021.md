@@ -1,6 +1,6 @@
 
 ---
-title: 🚀10 Trending projects on GitHub for web developers - 12th March 2021
+title: '🚀10 Trending projects on GitHub for web developers - 12th March 2021'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

@@ -1,7 +1,7 @@
 
 ---
-title: 《初音未來 Logic Paint S》Switch 版現已推出 與人氣虛擬偶像一起挑戰繪圖方塊
- 16 個人說推！
+title: '《初音未來 Logic Paint S》Switch 版現已推出 與人氣虛擬偶像一起挑戰繪圖方塊
+ 16 個人說推！'
 categories: 
     - 游戏
     - GNN.tw 游戏新闻 - GNN.tw 游戏新闻

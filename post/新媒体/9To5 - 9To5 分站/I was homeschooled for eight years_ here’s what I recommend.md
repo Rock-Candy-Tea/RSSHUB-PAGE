@@ -1,6 +1,6 @@
 
 ---
-title: I was homeschooled for eight years_ here’s what I recommend
+title: 'I was homeschooled for eight years_ here’s what I recommend'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

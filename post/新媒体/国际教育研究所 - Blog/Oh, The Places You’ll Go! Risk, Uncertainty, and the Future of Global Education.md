@@ -1,6 +1,6 @@
 
 ---
-title: Oh, The Places You’ll Go! Risk, Uncertainty, and the Future of Global Education
+title: 'Oh, The Places You’ll Go! Risk, Uncertainty, and the Future of Global Education'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

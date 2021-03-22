@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：写到世界充满爱：专访 RSSHub 作者 DIYgod _ Linux 中国
+title: 'DIYgod喜欢了文章：写到世界充满爱：专访 RSSHub 作者 DIYgod _ Linux 中国'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

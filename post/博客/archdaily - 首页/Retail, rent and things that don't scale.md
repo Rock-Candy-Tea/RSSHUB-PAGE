@@ -1,6 +1,6 @@
 
 ---
-title: Retail, rent and things that don't scale
+title: 'Retail, rent and things that don't scale'
 categories: 
     - 博客
     - archdaily - 首页

@@ -1,6 +1,6 @@
 
 ---
-title: A proposed Boston city ordinance seeks to make remote participation in public meetings permanent
+title: 'A proposed Boston city ordinance seeks to make remote participation in public meetings permanent'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

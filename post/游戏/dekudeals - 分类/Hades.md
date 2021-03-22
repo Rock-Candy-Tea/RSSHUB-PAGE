@@ -1,12 +1,12 @@
 
 ---
-title: Hades
+title: 'Hades'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/f36b773eddb483a30c39549ee7aa6a964a2a5546/w500.png'
 ---
 

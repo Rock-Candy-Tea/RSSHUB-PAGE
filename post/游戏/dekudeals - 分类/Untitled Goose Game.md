@@ -1,12 +1,12 @@
 
 ---
-title: Untitled Goose Game
+title: 'Untitled Goose Game'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/9221617025790fab3da76acb6fd8d9819c03ac2f/w500.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Reimagining Druggability Using Chemoproteomic Platforms
+title: 'Reimagining Druggability Using Chemoproteomic Platforms'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

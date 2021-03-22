@@ -1,6 +1,6 @@
 
 ---
-title: Trump Supporters who were arrested for trespassing into the Capitol Building on January 6th are being held WITHOUT bail, in solitary confinement, and ...
+title: 'Trump Supporters who were arrested for trespassing into the Capitol Building on January 6th are being held WITHOUT bail, in solitary confinement, and ...'
 categories: 
     - 社交媒体
     - Gab - 熱門

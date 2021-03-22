@@ -1,6 +1,6 @@
 
 ---
-title: Visually Understanding the Data on Foreign NGO Representative Offices and Temporary Activities
+title: 'Visually Understanding the Data on Foreign NGO Representative Offices and Temporary Activities'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

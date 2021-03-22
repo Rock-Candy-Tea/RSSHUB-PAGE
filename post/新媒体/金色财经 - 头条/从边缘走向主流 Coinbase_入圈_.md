@@ -1,6 +1,6 @@
 
 ---
-title: 从边缘走向主流 Coinbase_入圈_
+title: '从边缘走向主流 Coinbase_入圈_'
 categories: 
     - 新媒体
     - 金色财经 - 头条

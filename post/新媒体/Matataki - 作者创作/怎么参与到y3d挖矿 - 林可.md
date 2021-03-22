@@ -1,6 +1,6 @@
 
 ---
-title: 怎么参与到y3d挖矿 - 林可
+title: '怎么参与到y3d挖矿 - 林可'
 categories: 
     - 新媒体
     - Matataki - 作者创作

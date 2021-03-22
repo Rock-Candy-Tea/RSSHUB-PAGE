@@ -1,6 +1,6 @@
 
 ---
-title: JVM 字节码从入门到精通
+title: 'JVM 字节码从入门到精通'
 categories: 
     - 编程
     - 掘金 - 小册

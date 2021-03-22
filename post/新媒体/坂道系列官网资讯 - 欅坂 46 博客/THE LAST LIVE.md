@@ -1,6 +1,6 @@
 
 ---
-title: THE LAST LIVE
+title: 'THE LAST LIVE'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 博客

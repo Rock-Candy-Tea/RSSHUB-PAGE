@@ -1,6 +1,6 @@
 
 ---
-title: Hartmut Rosa《新異化的誕生：社會加速批判理論大綱》書摘
+title: 'Hartmut Rosa《新異化的誕生：社會加速批判理論大綱》書摘'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

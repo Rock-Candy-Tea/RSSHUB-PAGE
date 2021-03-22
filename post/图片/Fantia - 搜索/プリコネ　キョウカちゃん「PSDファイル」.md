@@ -1,6 +1,6 @@
 
 ---
-title: プリコネ　キョウカちゃん「PSDファイル」
+title: 'プリコネ　キョウカちゃん「PSDファイル」'
 categories: 
     - 图片
     - Fantia - 搜索

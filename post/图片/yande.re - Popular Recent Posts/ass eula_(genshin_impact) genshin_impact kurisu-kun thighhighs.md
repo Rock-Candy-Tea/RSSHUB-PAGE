@@ -1,6 +1,6 @@
 
 ---
-title: ass eula_(genshin_impact) genshin_impact kurisu-kun thighhighs
+title: 'ass eula_(genshin_impact) genshin_impact kurisu-kun thighhighs'
 categories: 
     - 图片
     - yande.re - Popular Recent Posts

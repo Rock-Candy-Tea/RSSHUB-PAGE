@@ -1,6 +1,6 @@
 
 ---
-title: Nokia partners with Microsoft on private wireless cloud platforms
+title: 'Nokia partners with Microsoft on private wireless cloud platforms'
 categories: 
     - 传统媒体
     - Telecompaper - Search

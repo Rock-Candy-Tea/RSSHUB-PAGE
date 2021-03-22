@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 新粉丝 小蔡CAIJI
+title: 'DIYgod 新粉丝 小蔡CAIJI'
 categories: 
     - 社交媒体
     - bilibili - UP 主粉丝

@@ -1,6 +1,6 @@
 
 ---
-title: Vue Testing Crash Course
+title: 'Vue Testing Crash Course'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

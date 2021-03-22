@@ -1,6 +1,6 @@
 
 ---
-title: Mac 视觉史：从系统界面了解 Mac 电脑历史
+title: 'Mac 视觉史：从系统界面了解 Mac 电脑历史'
 categories: 
     - 新媒体
     - 少数派 sspai - 专题

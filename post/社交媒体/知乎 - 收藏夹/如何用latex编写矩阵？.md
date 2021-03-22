@@ -1,6 +1,6 @@
 
 ---
-title: 如何用latex编写矩阵？
+title: '如何用latex编写矩阵？'
 categories: 
     - 社交媒体
     - 知乎 - 收藏夹

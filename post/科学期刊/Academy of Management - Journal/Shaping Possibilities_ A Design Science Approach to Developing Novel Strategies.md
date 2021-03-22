@@ -1,6 +1,6 @@
 
 ---
-title: Shaping Possibilities_ A Design Science Approach to Developing Novel Strategies
+title: 'Shaping Possibilities_ A Design Science Approach to Developing Novel Strategies'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

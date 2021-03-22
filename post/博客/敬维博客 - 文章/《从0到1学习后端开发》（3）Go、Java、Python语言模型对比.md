@@ -1,12 +1,12 @@
 
 ---
-title: 《从0到1学习后端开发》（3）Go、Java、Python语言模型对比
+title: '《从0到1学习后端开发》（3）Go、Java、Python语言模型对比'
 categories: 
     - 博客
     - 敬维博客 - 文章
 author: 敬维博客 - 文章
 comments: false
-date: 2021-03-22 03:19:23
+date: 2021-03-22 03:46:08
 thumbnail: ''
 ---
 

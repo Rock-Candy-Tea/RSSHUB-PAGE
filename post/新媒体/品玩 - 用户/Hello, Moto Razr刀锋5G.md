@@ -1,6 +1,6 @@
 
 ---
-title: Hello, Moto Razr刀锋5G
+title: 'Hello, Moto Razr刀锋5G'
 categories: 
     - 新媒体
     - 品玩 - 用户

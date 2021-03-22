@@ -1,6 +1,6 @@
 
 ---
-title: Computation Opens New Doors for Science
+title: 'Computation Opens New Doors for Science'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

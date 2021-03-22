@@ -1,6 +1,6 @@
 
 ---
-title: Let's build a responsive navbar and hamburger menu using HTML, CSS, and Javascript.
+title: 'Let's build a responsive navbar and hamburger menu using HTML, CSS, and Javascript.'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

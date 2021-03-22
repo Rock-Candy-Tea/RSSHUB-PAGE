@@ -1,12 +1,12 @@
 
 ---
-title: 《最终幻想7 重制版Intergrade》公开加长版预告片，展示PS5增强效果
+title: '《最终幻想7 重制版Intergrade》公开加长版预告片，展示PS5增强效果'
 categories: 
     - 游戏
     - 二柄 APP - 新闻
 author: 二柄 APP - 新闻
 comments: false
-date: 2021-03-22 03:19:43
+date: 2021-03-22 03:46:24
 thumbnail: 'https://erbingeditor.diershoubing.com/2021032123.jpg'
 ---
 

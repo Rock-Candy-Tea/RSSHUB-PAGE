@@ -1,12 +1,12 @@
 
 ---
-title: 极米（XGIMI）NEW Z8X 家用投影机
+title: '极米（XGIMI）NEW Z8X 家用投影机'
 categories: 
     - 新媒体
     - 探物 - 产品
 author: 探物 - 产品
 comments: false
-date: 2021-03-22 03:16:47
+date: 2021-03-22 03:44:44
 thumbnail: 'https://resource.tanwuapp.com/Fhb3ItGnsJXg9OhRy3ggTEWWri19'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Joint User Scheduling and Resource Allocation for Federated Learning over Wireless Networks
+title: 'Joint User Scheduling and Resource Allocation for Federated Learning over Wireless Networks'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

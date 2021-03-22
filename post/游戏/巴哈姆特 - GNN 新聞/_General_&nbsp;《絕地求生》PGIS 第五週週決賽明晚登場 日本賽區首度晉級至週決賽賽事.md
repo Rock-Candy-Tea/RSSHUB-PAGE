@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;《絕地求生》PGI.S 第五週週決賽明晚登場 日本賽區首度晉級至週決賽賽事
+title: '_General_&nbsp;《絕地求生》PGI.S 第五週週決賽明晚登場 日本賽區首度晉級至週決賽賽事'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/37/ffe8a3d5d73dcea12cfd15d98a1bu915.JPG?v=1616134115692'
 ---
 

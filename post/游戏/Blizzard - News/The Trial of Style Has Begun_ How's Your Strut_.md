@@ -1,6 +1,6 @@
 
 ---
-title: The Trial of Style Has Begun_ How's Your Strut_
+title: 'The Trial of Style Has Begun_ How's Your Strut_'
 categories: 
     - 游戏
     - Blizzard - News

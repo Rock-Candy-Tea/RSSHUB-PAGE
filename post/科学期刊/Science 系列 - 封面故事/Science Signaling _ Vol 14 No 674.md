@@ -1,6 +1,6 @@
 
 ---
-title: Science Signaling _ Vol. 14 No. 674
+title: 'Science Signaling _ Vol. 14 No. 674'
 categories: 
     - 科学期刊
     - Science 系列 - 封面故事

@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想读这本书_ 《非暴力沟通》
+title: 'DIYgod 想读这本书_ 《非暴力沟通》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

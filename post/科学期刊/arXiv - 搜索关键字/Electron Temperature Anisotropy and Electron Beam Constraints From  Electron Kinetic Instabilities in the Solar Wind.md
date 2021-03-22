@@ -1,7 +1,7 @@
 
 ---
-title: Electron Temperature Anisotropy and Electron Beam Constraints From
-  Electron Kinetic Instabilities in the Solar Wind
+title: 'Electron Temperature Anisotropy and Electron Beam Constraints From
+  Electron Kinetic Instabilities in the Solar Wind'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

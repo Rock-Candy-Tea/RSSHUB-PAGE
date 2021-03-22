@@ -1,6 +1,6 @@
 
 ---
-title: Linux Kernel 仍然在更新软盘驱动
+title: 'Linux Kernel 仍然在更新软盘驱动'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

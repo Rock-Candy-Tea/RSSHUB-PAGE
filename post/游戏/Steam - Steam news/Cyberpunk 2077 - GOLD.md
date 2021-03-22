@@ -1,6 +1,6 @@
 
 ---
-title: Cyberpunk 2077 - GOLD
+title: 'Cyberpunk 2077 - GOLD'
 categories: 
     - 游戏
     - Steam - Steam news

@@ -1,12 +1,12 @@
 
 ---
-title: Red Dead Redemption 2
+title: 'Red Dead Redemption 2'
 categories: 
     - 游戏
     - 游戏打折情报 - 游戏折扣
 author: 游戏打折情报 - 游戏折扣
 comments: false
-date: 2021-03-22 03:19:50
+date: 2021-03-22 03:46:29
 thumbnail: 'https://media.st.dl.pinyuncloud.com/steam/apps/1174180/capsule_184x69.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Real Eroge Situation! 2 The Animation Episode 1
+title: 'Real Eroge Situation! 2 The Animation Episode 1'
 categories: 
     - 音视频
     - Hentaimama - 近期更新

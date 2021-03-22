@@ -1,6 +1,6 @@
 
 ---
-title: 任天堂明星大乱斗把（bei）群友吊起来打第二弹 带语音 fit.Cph、汤圆、小金金
+title: '任天堂明星大乱斗把（bei）群友吊起来打第二弹 带语音 fit.Cph、汤圆、小金金'
 categories: 
     - 社交媒体
     - bilibili - UP 主默认收藏夹

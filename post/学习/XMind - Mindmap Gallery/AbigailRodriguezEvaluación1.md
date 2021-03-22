@@ -1,6 +1,6 @@
 
 ---
-title: AbigailRodriguezEvaluación1
+title: 'AbigailRodriguezEvaluación1'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

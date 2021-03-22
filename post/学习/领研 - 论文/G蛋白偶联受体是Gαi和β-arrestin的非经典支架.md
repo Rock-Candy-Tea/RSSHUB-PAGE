@@ -1,6 +1,6 @@
 
 ---
-title: G蛋白偶联受体是Gαi和β-arrestin的非经典支架
+title: 'G蛋白偶联受体是Gαi和β-arrestin的非经典支架'
 categories: 
     - 学习
     - 领研 - 论文

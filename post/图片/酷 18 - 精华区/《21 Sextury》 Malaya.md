@@ -1,6 +1,6 @@
 
 ---
-title: 《21 Sextury》 Malaya
+title: '《21 Sextury》 Malaya'
 categories: 
     - 图片
     - 酷 18 - 精华区

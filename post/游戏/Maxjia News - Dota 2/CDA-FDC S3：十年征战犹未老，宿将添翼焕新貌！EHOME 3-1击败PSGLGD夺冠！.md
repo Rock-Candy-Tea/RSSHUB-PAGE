@@ -1,6 +1,6 @@
 
 ---
-title: CDA-FDC S3：十年征战犹未老，宿将添翼焕新貌！EHOME 3-1击败PSG.LGD夺冠！
+title: 'CDA-FDC S3：十年征战犹未老，宿将添翼焕新貌！EHOME 3-1击败PSG.LGD夺冠！'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

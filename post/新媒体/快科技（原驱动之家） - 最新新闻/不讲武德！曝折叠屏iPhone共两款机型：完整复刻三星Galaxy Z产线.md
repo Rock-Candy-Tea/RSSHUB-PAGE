@@ -1,6 +1,6 @@
 
 ---
-title: 不讲武德！曝折叠屏iPhone共两款机型：完整复刻三星Galaxy Z产线
+title: '不讲武德！曝折叠屏iPhone共两款机型：完整复刻三星Galaxy Z产线'
 categories: 
     - 新媒体
     - 快科技（原驱动之家） - 最新新闻

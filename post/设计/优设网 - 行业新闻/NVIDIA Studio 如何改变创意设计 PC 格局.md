@@ -1,6 +1,6 @@
 
 ---
-title: NVIDIA Studio 如何改变创意设计 PC 格局
+title: 'NVIDIA Studio 如何改变创意设计 PC 格局'
 categories: 
     - 设计
     - 优设网 - 行业新闻

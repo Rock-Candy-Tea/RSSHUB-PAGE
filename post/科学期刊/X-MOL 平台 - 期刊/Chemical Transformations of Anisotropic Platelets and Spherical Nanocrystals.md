@@ -1,6 +1,6 @@
 
 ---
-title: Chemical Transformations of Anisotropic Platelets and Spherical Nanocrystals
+title: 'Chemical Transformations of Anisotropic Platelets and Spherical Nanocrystals'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

@@ -1,6 +1,6 @@
 
 ---
-title: 微軟計畫在Win10上為千款PC遊戲導入自動HDR功能
+title: '微軟計畫在Win10上為千款PC遊戲導入自動HDR功能'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

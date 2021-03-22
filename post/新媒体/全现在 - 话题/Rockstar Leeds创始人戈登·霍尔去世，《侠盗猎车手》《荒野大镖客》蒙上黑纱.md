@@ -1,6 +1,6 @@
 
 ---
-title: Rockstar Leeds创始人戈登·霍尔去世，《侠盗猎车手》《荒野大镖客》蒙上黑纱
+title: 'Rockstar Leeds创始人戈登·霍尔去世，《侠盗猎车手》《荒野大镖客》蒙上黑纱'
 categories: 
     - 新媒体
     - 全现在 - 话题

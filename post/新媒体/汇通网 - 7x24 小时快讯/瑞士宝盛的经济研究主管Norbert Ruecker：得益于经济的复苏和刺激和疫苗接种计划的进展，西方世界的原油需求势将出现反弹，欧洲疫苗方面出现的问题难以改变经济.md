@@ -1,12 +1,12 @@
 
 ---
-title: 瑞士宝盛的经济研究主管Norbert Ruecker：得益于经济的复苏和刺激和疫苗接种计划的进展，西方世界的原油需求势将出现反弹，欧洲疫苗方面出现的问题难以改变经济...
+title: '瑞士宝盛的经济研究主管Norbert Ruecker：得益于经济的复苏和刺激和疫苗接种计划的进展，西方世界的原油需求势将出现反弹，欧洲疫苗方面出现的问题难以改变经济...'
 categories: 
     - 新媒体
     - 汇通网 - 7x24 小时快讯
 author: 汇通网 - 7x24 小时快讯
 comments: false
-date: Mon, 22 Mar 2021 03:16:15 GMT
+date: Mon, 22 Mar 2021 03:44:15 GMT
 thumbnail: ''
 ---
 

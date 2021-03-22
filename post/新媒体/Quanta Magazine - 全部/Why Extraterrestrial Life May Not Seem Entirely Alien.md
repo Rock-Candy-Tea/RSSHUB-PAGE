@@ -1,6 +1,6 @@
 
 ---
-title: Why Extraterrestrial Life May Not Seem Entirely Alien
+title: 'Why Extraterrestrial Life May Not Seem Entirely Alien'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -59,7 +59,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/Arik-Kershenba
 <p>Let’s consider humans and octopuses. Their common ancestor lived around 800 million years ago. It was a little slime ball. And the descendants of all of those little slime balls are just about every single animal on Earth, with the exception of corals and jellyfish and things like that. The common ancestry of humans and octopuses is shared by almost every creature on the planet. Why are only a few of them intelligent, if they all share that common ancestry?</p>
 <p>The answer is that these things developed independently. Intelligence is not inherited from that common ancestor. Birds and bats share a common ancestor, sure. But not all of the descendants of their common ancestor fly. Hardly any of them do. They didn’t have wings. Wings evolved independently. The idea that the traits we have now are dependent on our common ancestors, just because we have a common ancestor, is not correct.</p>
 <h3>As you know, SETI is beginning to be recognized as a mainstream branch of astronomy, and here in our own solar system we’re using robotic spacecraft to search for signs of past life on Mars, and we may soon be exploring Enceladus and other moons. What are some of the key takeaways from your research, for those who are actively trying to find life — either simple life or intelligent life — beyond Earth?</h3>
-<div id="component-60580bdf5f804" class="related-list"></div>
+<div id="component-60581268b214d" class="related-list"></div>
 <p>I think that up until now, that effort hasn’t been very relevant. All of a sudden, it’s become unbelievably relevant. That’s because we’re now just about approaching the stage where we’re going to have to start to think about what the biology and ecology of alien life is like. And the moment we do that, we have to think about their evolutionary trajectories.</p>
 <p>I’ll give you an example. You’ll remember the recent fuss about the signal of <a href="https://doi.org/10.1038/d41586-021-00249-y">phosphine on Venus</a>. Let’s say it’s real, and that it’s indicative of life. The next question is: How did that life evolve? Let’s assume we have these floating microscopic organisms in the temperate region of the atmosphere. How did they get there? How did they evolve that complexity? We’re coming to the point where we have sufficiently sensitive technology to <a href="https://www.quantamagazine.org/scientists-debate-signatures-of-alien-life-20160202/">detect life on other planets</a>. But that doesn’t tell us how they got there. It doesn’t tell us anything about their ecology, how they interact with the other organisms on the planet, with the abiotic environment. But most importantly, it doesn’t tell us how they evolved. And that’s the question that astrobiologists have to start thinking about.</p>
 </div></div></div></section></div><div class="pv2" data-reactid="429"></div>  

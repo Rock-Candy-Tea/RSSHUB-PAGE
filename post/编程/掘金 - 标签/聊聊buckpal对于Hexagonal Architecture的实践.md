@@ -1,6 +1,6 @@
 
 ---
-title: 聊聊buckpal对于Hexagonal Architecture的实践
+title: '聊聊buckpal对于Hexagonal Architecture的实践'
 categories: 
     - 编程
     - 掘金 - 标签

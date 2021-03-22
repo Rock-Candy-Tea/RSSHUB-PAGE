@@ -1,12 +1,12 @@
 
 ---
-title: ELDER SCROLLS
+title: 'ELDER SCROLLS'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/elder-scrolls/1861598136-1571942215/wren_02.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: _Lootboy_ Codes for coins_diamonds
+title: '_Lootboy_ Codes for coins_diamonds'
 categories: 
     - 游戏
     - SteamGifts - Discussions

@@ -1,6 +1,6 @@
 
 ---
-title: Unknown X的直播和例大祭的车厢内广告、「永琳」登上推特热搜、Touhou World Cup2021的发表等，本周的东方新闻总结
+title: 'Unknown X的直播和例大祭的车厢内广告、「永琳」登上推特热搜、Touhou World Cup2021的发表等，本周的东方新闻总结'
 categories: 
     - 二次元
     - 东方我乐多丛志 - 文章

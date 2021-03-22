@@ -1,6 +1,6 @@
 
 ---
-title: GM 与 SANKUANZ 探索人类意识形态
+title: 'GM 与 SANKUANZ 探索人类意识形态'
 categories: 
     - 新媒体
     - SocialBeta - 首页

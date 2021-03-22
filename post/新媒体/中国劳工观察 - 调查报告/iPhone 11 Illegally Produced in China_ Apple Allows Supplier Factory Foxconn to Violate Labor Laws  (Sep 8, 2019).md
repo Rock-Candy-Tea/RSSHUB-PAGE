@@ -1,6 +1,6 @@
 
 ---
-title: iPhone 11 Illegally Produced in China_ Apple Allows Supplier Factory Foxconn to Violate Labor Laws  (Sep 8, 2019)
+title: 'iPhone 11 Illegally Produced in China_ Apple Allows Supplier Factory Foxconn to Violate Labor Laws  (Sep 8, 2019)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

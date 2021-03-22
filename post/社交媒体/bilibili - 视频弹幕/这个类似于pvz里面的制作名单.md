@@ -1,6 +1,6 @@
 
 ---
-title: 这个...类似于pvz里面的制作名单
+title: '这个...类似于pvz里面的制作名单'
 categories: 
     - 社交媒体
     - bilibili - 视频弹幕

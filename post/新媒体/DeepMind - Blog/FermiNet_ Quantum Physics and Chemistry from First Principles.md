@@ -1,6 +1,6 @@
 
 ---
-title: FermiNet_ Quantum Physics and Chemistry from First Principles
+title: 'FermiNet_ Quantum Physics and Chemistry from First Principles'
 categories: 
     - 新媒体
     - DeepMind - Blog

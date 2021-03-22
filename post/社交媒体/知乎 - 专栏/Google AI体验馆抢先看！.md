@@ -1,6 +1,6 @@
 
 ---
-title: Google AI体验馆抢先看！
+title: 'Google AI体验馆抢先看！'
 categories: 
     - 社交媒体
     - 知乎 - 专栏

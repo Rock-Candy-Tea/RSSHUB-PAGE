@@ -1,6 +1,6 @@
 
 ---
-title: The Smaller the Theater, the Faster the Music
+title: 'The Smaller the Theater, the Faster the Music'
 categories: 
     - 新媒体
     - Nautilus - 话题

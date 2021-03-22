@@ -1,14 +1,14 @@
 
 ---
-title: 11_04
+title: '11_04
                     
-                  XMEX开展LINK_USDT合约交易赛，奖金超100,000 USDT
+                  XMEX开展LINK_USDT合约交易赛，奖金超100,000 USDT'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

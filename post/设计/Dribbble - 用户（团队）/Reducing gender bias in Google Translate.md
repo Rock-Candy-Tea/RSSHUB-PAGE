@@ -1,6 +1,6 @@
 
 ---
-title: Reducing gender bias in Google Translate
+title: 'Reducing gender bias in Google Translate'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

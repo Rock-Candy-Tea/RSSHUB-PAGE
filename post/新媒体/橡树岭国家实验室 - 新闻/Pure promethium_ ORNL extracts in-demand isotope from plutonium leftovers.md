@@ -1,6 +1,6 @@
 
 ---
-title: Pure promethium_ ORNL extracts in-demand isotope from plutonium leftovers
+title: 'Pure promethium_ ORNL extracts in-demand isotope from plutonium leftovers'
 categories: 
     - 新媒体
     - 橡树岭国家实验室 - 新闻

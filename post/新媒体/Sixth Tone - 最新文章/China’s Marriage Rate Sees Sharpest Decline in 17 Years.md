@@ -1,6 +1,6 @@
 
 ---
-title: China’s Marriage Rate Sees Sharpest Decline in 17 Years
+title: 'China’s Marriage Rate Sees Sharpest Decline in 17 Years'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

@@ -1,12 +1,12 @@
 
 ---
-title: Mondo电影海报艺术典藏
+title: 'Mondo电影海报艺术典藏'
 categories: 
     - 社交媒体
     - 豆瓣 - 豆瓣书店
 author: 豆瓣 - 豆瓣书店
 comments: false
-date: 2021-03-22 03:18:07
+date: 2021-03-22 03:45:27
 thumbnail: 'https://img9.doubanio.com/view/freyr_page_photo/raw/public/5219.jpg'
 ---
 

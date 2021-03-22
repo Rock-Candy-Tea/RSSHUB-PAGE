@@ -1,6 +1,6 @@
 
 ---
-title: 7-Zip 开发者释出了首个官方 Linux 版本
+title: '7-Zip 开发者释出了首个官方 Linux 版本'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

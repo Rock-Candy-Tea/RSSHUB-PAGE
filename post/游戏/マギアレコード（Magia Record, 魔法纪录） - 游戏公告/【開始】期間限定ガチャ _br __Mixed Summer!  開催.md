@@ -1,6 +1,6 @@
 
 ---
-title: 【開始】期間限定ガチャ _br __Mixed Summer!  開催
+title: '【開始】期間限定ガチャ _br __Mixed Summer!  開催'
 categories: 
     - 游戏
     - マギアレコード（Magia Record, 魔法纪录） - 游戏公告

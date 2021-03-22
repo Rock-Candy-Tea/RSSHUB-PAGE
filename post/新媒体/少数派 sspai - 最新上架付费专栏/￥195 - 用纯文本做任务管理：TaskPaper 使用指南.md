@@ -1,12 +1,12 @@
 
 ---
-title: ￥19.5 - 用纯文本做任务管理：TaskPaper 使用指南
+title: '￥19.5 - 用纯文本做任务管理：TaskPaper 使用指南'
 categories: 
     - 新媒体
     - 少数派 sspai - 最新上架付费专栏
 author: 少数派 sspai - 最新上架付费专栏
 comments: false
-date: 2021-03-22 03:16:38
+date: 2021-03-22 03:44:35
 thumbnail: 'https://cdn.sspai.com/article/2963ba84-46be-7227-0e1b-b2699e599b35.jpg'
 ---
 

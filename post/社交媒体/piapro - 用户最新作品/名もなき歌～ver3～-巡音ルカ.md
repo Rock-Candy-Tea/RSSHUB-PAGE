@@ -1,6 +1,6 @@
 
 ---
-title: 名もなき歌～ver.3～-巡音ルカ
+title: '名もなき歌～ver.3～-巡音ルカ'
 categories: 
     - 社交媒体
     - piapro - 用户最新作品

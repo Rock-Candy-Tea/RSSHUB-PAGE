@@ -1,6 +1,6 @@
 
 ---
-title: Share Analysis
+title: 'Share Analysis'
 categories: 
     - 社交媒体
     - 知乎 - 用户文章

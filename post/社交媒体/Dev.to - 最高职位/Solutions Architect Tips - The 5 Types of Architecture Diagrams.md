@@ -1,6 +1,6 @@
 
 ---
-title: Solutions Architect Tips - The 5 Types of Architecture Diagrams
+title: 'Solutions Architect Tips - The 5 Types of Architecture Diagrams'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

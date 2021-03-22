@@ -1,6 +1,6 @@
 
 ---
-title: LaTeX 原创激励计划
+title: 'LaTeX 原创激励计划'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

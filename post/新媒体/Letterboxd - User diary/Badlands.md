@@ -1,6 +1,6 @@
 
 ---
-title: Badlands
+title: 'Badlands'
 categories: 
     - 新媒体
     - Letterboxd - User diary

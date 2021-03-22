@@ -1,6 +1,6 @@
 
 ---
-title: The same ppl who are mad at me for saying Trump is wrong to try and start his own social network are the same ones who absolutely will not get Trump's...
+title: 'The same ppl who are mad at me for saying Trump is wrong to try and start his own social network are the same ones who absolutely will not get Trump's...'
 categories: 
     - 社交媒体
     - Gab - 熱門

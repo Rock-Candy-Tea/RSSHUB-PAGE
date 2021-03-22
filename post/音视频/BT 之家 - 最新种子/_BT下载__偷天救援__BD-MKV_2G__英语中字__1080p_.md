@@ -1,0 +1,50 @@
+
+---
+title: '_BT下载__偷天救援__BD-MKV_2G__英语中字__1080p_'
+categories: 
+    - 音视频
+    - BT 之家 - 最新种子
+author: BT 之家 - 最新种子
+comments: false
+date: Mon, 22 Mar 2021 11:37:37 GMT
+thumbnail: 'https://www.88btbtt.com/upload/attach/005/282/f32967600c85cd61932f5e388641c1df.jpg'
+---
+
+<div>   
+torrent下载链接:<br><br>https://www.88btbtt.com/attach-download-fid-951-aid-5282821.htm<br><br>内容简介:<br>
+
+
+
+<h2 id="subject_4577597">
+
+
+<a href="https://www.88btbtt.com/forum-index-fid-951-typeid4-1238897.htm" target="_blank" rel="nofollow">[2019]</a><a href="https://www.88btbtt.com/forum-index-fid-951-typeid3-10086.htm" target="_blank" rel="nofollow">[欧美]</a><a href="https://www.88btbtt.com/forum-index-fid-951-typeid2-82.htm" target="_blank" rel="nofollow">[动作]</a><a href="https://www.88btbtt.com/forum-index-fid-951-typeid1-2.htm" target="_blank" rel="nofollow">[有水印]</a>
+[BT下载][偷天救援][BD-MKV/2G][英语中字][1080p]
+
+</h2>
+
+
+
+
+<div id="message_32344866" class="message">
+
+<div class="width border">
+<!-- 广告位：875*120 -->
+
+</div>
+<!--
+<div style="width: 250px; height: 50px; float: right; /* filter:alpha(Opacity=80);-moz-opacity:0.8;opacity: 0.8;*/">
+
+<!-- 广告位：250X250(BT之家) -->
+
+
+</div>
+-->
+<!-- #第一楼右侧广告 -->
+<div style="width: 250px; height: 250px; float: right">
+
+
+</div>
+<p><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">[03.22][美国][动作][偷天救援][BluRay.1080p-MKV/2G][中字][2019超刺激]</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/f32967600c85cd61932f5e388641c1df.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:red; line-height:14px; font-family:none; font-size:13px;"><span style="line-height:14px; font-weight:700;">影片截图:</span></span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/8c6e81cd0d55a779c3650ba7c5f9890e.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/a836f4746adb299ed98507ea504538f2.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/3f031d2da3c61509b42fe7f6c88f9838.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/61e23ef2a0fce064b77a4b9bc48e9053.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><img src="https://www.88btbtt.com/upload/attach/005/282/4e465feb30d250c77d9e418695c3478e.jpg" border="0" alt style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;" referrerpolicy="no-referrer"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎译　　名　偷天救援</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎片　　名　Hard Night Falling</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎年　　代　2019</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎国　　家　美国/意大利</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎类　　别　动作</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎语　　言　英语</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎字　　幕　中文字幕</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎文件格式　X264 + AC3</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎视频尺寸　1920 x 800</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎文件大小　1 DVD</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎片　　长　85 Mins</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎导　　演　乔治·塞拉菲尼 Giorgio Serafini</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Giorgio Bruno</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎主　　演　杜夫·龙格尔 Dolph Lundgren</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　娜塔莉·伯恩 Natalie Burn</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　安德烈娅卡杜齐奥 Andrea Scarduzio</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　山内春彦 Hal Yamanouchi</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Mario Opinato</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Brice Martinet</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Sinne Mutsaers</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Ralph Palka</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Ruben Rigillo</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　　　　　Gioia Vicari</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">◎简　　介</span><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><br style="line-height:14px; color:rgb(0, 0, 0); font-family:none; font-size:13px;"><span style="color:rgb(0, 0, 0); font-family:none; font-size:13px; background-color:rgb(255, 255, 255);">　　Goro, a criminal mastermind, plot to steal a massive cache of gold from the Rossini family. Unbeknownst to Goro and his soldiers of fortune, one of Rossini's guest is a highly m.ysgou.cc trained foreign operative who fights to not only save the hostages and the gold, but his imperiled family.</span></p>  
+</div>
+            

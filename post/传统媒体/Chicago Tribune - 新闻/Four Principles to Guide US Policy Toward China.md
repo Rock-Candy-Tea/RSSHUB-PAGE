@@ -1,6 +1,6 @@
 
 ---
-title: Four Principles to Guide U.S. Policy Toward China
+title: 'Four Principles to Guide U.S. Policy Toward China'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: Cyberpunk 2077 — Official Gameplay Trailer
+title: 'Cyberpunk 2077 — Official Gameplay Trailer'
 categories: 
     - 游戏
     - Steam - Steam news

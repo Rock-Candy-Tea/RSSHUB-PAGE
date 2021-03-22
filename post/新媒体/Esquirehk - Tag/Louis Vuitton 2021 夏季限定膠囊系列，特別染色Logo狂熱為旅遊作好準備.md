@@ -1,6 +1,6 @@
 
 ---
-title: Louis Vuitton 2021 夏季限定膠囊系列，特別染色Logo狂熱為旅遊作好準備
+title: 'Louis Vuitton 2021 夏季限定膠囊系列，特別染色Logo狂熱為旅遊作好準備'
 categories: 
     - 新媒体
     - Esquirehk - Tag

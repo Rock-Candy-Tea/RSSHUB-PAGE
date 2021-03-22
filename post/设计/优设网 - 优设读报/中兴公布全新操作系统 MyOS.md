@@ -1,6 +1,6 @@
 
 ---
-title: 中兴公布全新操作系统 MyOS
+title: '中兴公布全新操作系统 MyOS'
 categories: 
     - 设计
     - 优设网 - 优设读报

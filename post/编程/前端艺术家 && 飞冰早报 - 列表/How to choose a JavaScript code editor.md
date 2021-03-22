@@ -1,6 +1,6 @@
 
 ---
-title: How to choose a JavaScript code editor
+title: 'How to choose a JavaScript code editor'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

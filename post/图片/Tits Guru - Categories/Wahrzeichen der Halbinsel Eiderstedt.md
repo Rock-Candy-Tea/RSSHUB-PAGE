@@ -1,6 +1,6 @@
 
 ---
-title: Wahrzeichen der Halbinsel Eiderstedt
+title: 'Wahrzeichen der Halbinsel Eiderstedt'
 categories: 
     - 图片
     - Tits Guru - Categories

@@ -1,6 +1,6 @@
 
 ---
-title: COVID-19 data from John Hopkins University
+title: 'COVID-19 data from John Hopkins University'
 categories: 
     - 编程
     - Kaggle - User Discussion

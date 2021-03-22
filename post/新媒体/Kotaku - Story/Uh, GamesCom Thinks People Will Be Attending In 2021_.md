@@ -1,6 +1,6 @@
 
 ---
-title: Uh, GamesCom Thinks People Will Be Attending In 2021_
+title: 'Uh, GamesCom Thinks People Will Be Attending In 2021_'
 categories: 
     - 新媒体
     - Kotaku - Story

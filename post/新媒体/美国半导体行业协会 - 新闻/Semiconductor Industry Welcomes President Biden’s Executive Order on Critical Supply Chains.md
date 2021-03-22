@@ -1,6 +1,6 @@
 
 ---
-title: Semiconductor Industry Welcomes President Biden’s Executive Order on Critical Supply Chains
+title: 'Semiconductor Industry Welcomes President Biden’s Executive Order on Critical Supply Chains'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

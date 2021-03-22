@@ -1,6 +1,6 @@
 
 ---
-title: VolgaCTF 2021 Qualifier
+title: 'VolgaCTF 2021 Qualifier'
 categories: 
     - 学习
     - CTFHub Calendar - 查询近期赛事

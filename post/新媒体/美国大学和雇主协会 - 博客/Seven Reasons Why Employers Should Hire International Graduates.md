@@ -1,6 +1,6 @@
 
 ---
-title: Seven Reasons Why Employers Should Hire International Graduates
+title: 'Seven Reasons Why Employers Should Hire International Graduates'
 categories: 
     - 新媒体
     - 美国大学和雇主协会 - 博客

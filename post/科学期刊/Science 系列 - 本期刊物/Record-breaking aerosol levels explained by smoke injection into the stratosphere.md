@@ -1,6 +1,6 @@
 
 ---
-title: Record-breaking aerosol levels explained by smoke injection into the stratosphere
+title: 'Record-breaking aerosol levels explained by smoke injection into the stratosphere'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

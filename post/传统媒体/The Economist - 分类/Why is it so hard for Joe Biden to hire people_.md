@@ -1,6 +1,6 @@
 
 ---
-title: Why is it so hard for Joe Biden to hire people_
+title: 'Why is it so hard for Joe Biden to hire people_'
 categories: 
     - 传统媒体
     - The Economist - 分类

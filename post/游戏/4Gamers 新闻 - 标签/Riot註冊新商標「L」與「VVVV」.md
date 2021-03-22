@@ -1,6 +1,6 @@
 
 ---
-title: Riot註冊新商標「L」與「VVVV」
+title: 'Riot註冊新商標「L」與「VVVV」'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

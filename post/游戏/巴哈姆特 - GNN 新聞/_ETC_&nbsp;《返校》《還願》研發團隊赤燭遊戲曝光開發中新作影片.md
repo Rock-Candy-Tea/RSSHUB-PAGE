@@ -1,12 +1,12 @@
 
 ---
-title: _ETC_&nbsp;《返校》《還願》研發團隊赤燭遊戲曝光開發中新作影片
+title: '_ETC_&nbsp;《返校》《還願》研發團隊赤燭遊戲曝光開發中新作影片'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/df99ea1f04a6518cbb882483e01buhb5.JPG?v=1616146743070'
 ---
 

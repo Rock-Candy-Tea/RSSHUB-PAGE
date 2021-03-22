@@ -1,12 +1,12 @@
 
 ---
-title: Slack CEO Stewart Butterfield on redesign and Microsoft - Protocol
+title: 'Slack CEO Stewart Butterfield on redesign and Microsoft - Protocol'
 categories: 
     - 编程
     - wolley - user post
 author: wolley - user post
 comments: false
-date: 2021-03-22 03:14:54
+date: 2021-03-22 03:42:50
 thumbnail: ''
 ---
 

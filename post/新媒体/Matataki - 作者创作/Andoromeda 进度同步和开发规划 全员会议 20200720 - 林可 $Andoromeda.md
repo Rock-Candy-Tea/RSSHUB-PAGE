@@ -1,6 +1,6 @@
 
 ---
-title: Andoromeda 进度同步和开发规划 全员会议 20200720 - 林可 $Andoromeda
+title: 'Andoromeda 进度同步和开发规划 全员会议 20200720 - 林可 $Andoromeda'
 categories: 
     - 新媒体
     - Matataki - 作者创作

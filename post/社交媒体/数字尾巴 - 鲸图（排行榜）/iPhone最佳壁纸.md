@@ -1,6 +1,6 @@
 
 ---
-title: iPhone最佳壁纸
+title: 'iPhone最佳壁纸'
 categories: 
     - 社交媒体
     - 数字尾巴 - 鲸图（排行榜）

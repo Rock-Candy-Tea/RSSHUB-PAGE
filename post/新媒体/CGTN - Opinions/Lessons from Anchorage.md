@@ -1,6 +1,6 @@
 
 ---
-title: Lessons from Anchorage
+title: 'Lessons from Anchorage'
 categories: 
     - 新媒体
     - CGTN - Opinions

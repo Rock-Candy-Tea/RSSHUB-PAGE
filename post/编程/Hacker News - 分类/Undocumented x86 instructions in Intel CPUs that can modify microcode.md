@@ -1,12 +1,12 @@
 
 ---
-title: Undocumented x86 instructions in Intel CPUs that can modify microcode
+title: 'Undocumented x86 instructions in Intel CPUs that can modify microcode'
 categories: 
     - 编程
     - Hacker News - 分类
 author: Hacker News - 分类
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:46
 thumbnail: ''
 ---
 

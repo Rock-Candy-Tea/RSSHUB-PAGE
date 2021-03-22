@@ -1,6 +1,6 @@
 
 ---
-title: China Faces Long March to Herd Immunity
+title: 'China Faces Long March to Herd Immunity'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

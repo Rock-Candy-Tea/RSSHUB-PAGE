@@ -1,6 +1,6 @@
 
 ---
-title: Music Landing Page
+title: 'Music Landing Page'
 categories: 
     - 设计
     - Dribbble - 关键词

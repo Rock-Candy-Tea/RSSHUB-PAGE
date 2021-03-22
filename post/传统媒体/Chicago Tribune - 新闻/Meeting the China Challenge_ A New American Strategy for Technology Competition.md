@@ -1,6 +1,6 @@
 
 ---
-title: Meeting the China Challenge_ A New American Strategy for Technology Competition
+title: 'Meeting the China Challenge_ A New American Strategy for Technology Competition'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

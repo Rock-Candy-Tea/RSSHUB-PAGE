@@ -1,6 +1,6 @@
 
 ---
-title: No vacancy—Joe Biden’s muddle on immigration
+title: 'No vacancy—Joe Biden’s muddle on immigration'
 categories: 
     - 传统媒体
     - The Economist - 分类

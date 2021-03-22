@@ -1,8 +1,8 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 I am pleased to announce that I now own the Tomb Raider DVD game (
-https___www.wikiraider.com_index.php_Lara_Croft_Tomb_Raider__The_Action_A...
+https___www.wikiraider.com_index.php_Lara_Croft_Tomb_Raider__The_Action_A...'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

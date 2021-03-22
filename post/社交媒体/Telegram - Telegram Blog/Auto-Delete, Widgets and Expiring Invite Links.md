@@ -1,6 +1,6 @@
 
 ---
-title: Auto-Delete, Widgets and Expiring Invite Links
+title: 'Auto-Delete, Widgets and Expiring Invite Links'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

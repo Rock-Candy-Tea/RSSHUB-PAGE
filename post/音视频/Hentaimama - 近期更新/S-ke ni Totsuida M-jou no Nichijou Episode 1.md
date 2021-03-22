@@ -1,6 +1,6 @@
 
 ---
-title: S-ke ni Totsuida M-jou no Nichijou Episode 1
+title: 'S-ke ni Totsuida M-jou no Nichijou Episode 1'
 categories: 
     - 音视频
     - Hentaimama - 近期更新

@@ -1,6 +1,6 @@
 
 ---
-title: Instagram 下载版本三
+title: 'Instagram 下载版本三'
 categories: 
     - 新媒体
     - 少数派 sspai - Shortcuts Gallery

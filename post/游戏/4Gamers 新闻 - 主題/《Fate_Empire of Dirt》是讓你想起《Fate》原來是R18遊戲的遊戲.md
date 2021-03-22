@@ -1,6 +1,6 @@
 
 ---
-title: 《Fate_Empire of Dirt》是讓你想起《Fate》原來是R18遊戲的遊戲
+title: '《Fate_Empire of Dirt》是讓你想起《Fate》原來是R18遊戲的遊戲'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 主題

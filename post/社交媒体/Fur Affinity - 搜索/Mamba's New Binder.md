@@ -1,6 +1,6 @@
 
 ---
-title: Mamba's New Binder
+title: 'Mamba's New Binder'
 categories: 
     - 社交媒体
     - Fur Affinity - 搜索

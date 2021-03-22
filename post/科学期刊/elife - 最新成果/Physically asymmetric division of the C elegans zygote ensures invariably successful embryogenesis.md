@@ -1,6 +1,6 @@
 
 ---
-title: Physically asymmetric division of the C. elegans zygote ensures invariably successful embryogenesis
+title: 'Physically asymmetric division of the C. elegans zygote ensures invariably successful embryogenesis'
 categories: 
     - 科学期刊
     - elife - 最新成果

@@ -1,6 +1,6 @@
 
 ---
-title: 一加7T_Pro系列解密data，兼容第三方TWRP教程
+title: '一加7T_Pro系列解密data，兼容第三方TWRP教程'
 categories: 
     - 博客
     - 大侠阿木 - 首页

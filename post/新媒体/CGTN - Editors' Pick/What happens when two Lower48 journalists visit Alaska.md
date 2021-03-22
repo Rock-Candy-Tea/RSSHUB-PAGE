@@ -1,6 +1,6 @@
 
 ---
-title: What happens when two Lower48 journalists visit Alaska
+title: 'What happens when two Lower48 journalists visit Alaska'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

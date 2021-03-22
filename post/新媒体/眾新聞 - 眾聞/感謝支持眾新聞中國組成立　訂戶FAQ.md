@@ -1,6 +1,6 @@
 
 ---
-title: 感謝支持眾新聞中國組成立　訂戶FAQ
+title: '感謝支持眾新聞中國組成立　訂戶FAQ'
 categories: 
     - 新媒体
     - 眾新聞 - 眾聞
@@ -28,7 +28,7 @@ thumbnail: 'https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2021/01/%
 <p><span style="color: #000000;"><strong>Q︰可否用PayPal選擇月費支付？</strong></span><br>》可以的。如果用PayPal選擇月費支付，PayPal會每月同一天自動從你的帳戶轉帳一百元給我們，直至你通知PayPal停止。</p>
 <p><span style="color: #000000;"><strong>Q︰訂閱需要哪些個人資料？</strong></span><br>》我們只登記訂戶的電郵，不用登記地址的。訂戶每周日會收到我們的「時局分析」電郵通訊。年費訂戶若選擇以郵寄方式領取回饋禮物，我們才需要你提供郵寄地址。</p>
 <p><span style="color: #000000;"><strong>Q︰訂閱後如何領取回饋禮物？</strong></span><br>》在收到訂閱費後，負責訂戶服務的同事，會寄出確認收到訂費的通知和領取回饋禮物的安排給你。你可以選擇到我們公司領取或郵寄（郵費自付）。由於人手有限，未必能即時發出電郵通知，我們會盡快處理的。</p>
-<p><span style="color: #000000;"><strong>Q︰付款訂閱很久仍未收到確認電郵和每周通訊？</strong></span><br>》很抱歉，有可能我們在處理過程中遺漏了，請你寄電郵到<a href="https://www.hkcnews.com/cdn-cgi/l/email-protection#d1a2a4b3a2b2a3b8b3b491b9bab2bfb4a6a2ffb2bebc" target="_blank"><span class="__cf_email__" data-cfemail="f28187908191809b9097b29a99919c978581dc919d9f">[email protected]</span></a> 聯絡我們，若方便，請在電郵中留一個聯絡電話。如果你是使用Hotmail的話，可先檢查一下垃圾郵件匣，我們遇到很多訂戶反映，我們寄出的電郵被丟進垃圾郵件匣內。若出現這種情況，請whitelist我們。</p>
+<p><span style="color: #000000;"><strong>Q︰付款訂閱很久仍未收到確認電郵和每周通訊？</strong></span><br>》很抱歉，有可能我們在處理過程中遺漏了，請你寄電郵到<a href="https://www.hkcnews.com/cdn-cgi/l/email-protection#a9dadccbdacadbc0cbcce9c1c2cac7ccdeda87cac6c4" target="_blank"><span class="__cf_email__" data-cfemail="532026312030213a3136133b38303d3624207d303c3e">[email protected]</span></a> 聯絡我們，若方便，請在電郵中留一個聯絡電話。如果你是使用Hotmail的話，可先檢查一下垃圾郵件匣，我們遇到很多訂戶反映，我們寄出的電郵被丟進垃圾郵件匣內。若出現這種情況，請whitelist我們。</p>
 <p>【立即訂閱眾新聞・支持中國組】<a href="https://bit.ly/%E8%A8%82%E9%96%B2%E6%88%91%E5%80%91">訂閲我們</a></p>
   
 </div>

@@ -1,6 +1,6 @@
 
 ---
-title: Import Suggestions in Scala 3
+title: 'Import Suggestions in Scala 3'
 categories: 
     - 编程
     - Scala - Scala Blog

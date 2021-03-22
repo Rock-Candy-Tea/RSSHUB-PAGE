@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;《奇異人生》系列公開最新作《奇異人生：本色》 將不分章節、一次推出完整內容來呈現
+title: '_General_&nbsp;《奇異人生》系列公開最新作《奇異人生：本色》 將不分章節、一次推出完整內容來呈現'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/02/e94ba2ce67206c42fc52c5f3441btzq5.JPG?v=1616122508652'
 ---
 

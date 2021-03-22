@@ -1,6 +1,6 @@
 
 ---
-title: fix_ adapt to new sjtu-jwc webpage
+title: 'fix_ adapt to new sjtu-jwc webpage'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

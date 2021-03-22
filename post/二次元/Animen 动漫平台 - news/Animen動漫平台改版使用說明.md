@@ -1,6 +1,6 @@
 
 ---
-title: Animen動漫平台改版使用說明
+title: 'Animen動漫平台改版使用說明'
 categories: 
     - 二次元
     - Animen 动漫平台 - news

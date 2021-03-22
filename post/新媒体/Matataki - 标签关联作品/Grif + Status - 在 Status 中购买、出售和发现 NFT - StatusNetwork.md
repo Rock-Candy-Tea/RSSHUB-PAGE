@@ -1,6 +1,6 @@
 
 ---
-title: Grif + Status - 在 Status 中购买、出售和发现 NFT - StatusNetwork
+title: 'Grif + Status - 在 Status 中购买、出售和发现 NFT - StatusNetwork'
 categories: 
     - 新媒体
     - Matataki - 标签关联作品

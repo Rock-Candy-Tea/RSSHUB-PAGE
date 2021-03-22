@@ -1,6 +1,6 @@
 
 ---
-title: Discovery of Macrolide Antibiotics Effective against Multi-Drug Resistant Gram-Negative Pathogens
+title: 'Discovery of Macrolide Antibiotics Effective against Multi-Drug Resistant Gram-Negative Pathogens'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

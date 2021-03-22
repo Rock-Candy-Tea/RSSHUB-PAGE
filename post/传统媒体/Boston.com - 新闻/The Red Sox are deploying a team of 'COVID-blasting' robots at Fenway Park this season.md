@@ -1,6 +1,6 @@
 
 ---
-title: The Red Sox are deploying a team of 'COVID-blasting' robots at Fenway Park this season
+title: 'The Red Sox are deploying a team of 'COVID-blasting' robots at Fenway Park this season'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

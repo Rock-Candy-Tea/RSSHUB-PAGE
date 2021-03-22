@@ -1,6 +1,6 @@
 
 ---
-title: 天猫推出 IP 授权交易平台 IPmart
+title: '天猫推出 IP 授权交易平台 IPmart'
 categories: 
     - 设计
     - 优设网 - 优设读报

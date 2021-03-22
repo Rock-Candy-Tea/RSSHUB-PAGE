@@ -1,6 +1,6 @@
 
 ---
-title: _Free_ _GOG_ Deadlight_ Director's Cut (Deep Silver Games owners)
+title: '_Free_ _GOG_ Deadlight_ Director's Cut (Deep Silver Games owners)'
 categories: 
     - 游戏
     - SteamGifts - Discussions

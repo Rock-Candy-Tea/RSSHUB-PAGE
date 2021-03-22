@@ -1,6 +1,6 @@
 
 ---
-title: Trying to Establish a New Routine_ Try Habit Stacking.
+title: 'Trying to Establish a New Routine_ Try Habit Stacking.'
 categories: 
     - 新媒体
     - Day One - Blog

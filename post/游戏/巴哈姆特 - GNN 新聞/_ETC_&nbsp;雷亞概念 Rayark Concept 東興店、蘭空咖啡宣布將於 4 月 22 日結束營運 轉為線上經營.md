@@ -1,12 +1,12 @@
 
 ---
-title: _ETC_&nbsp;雷亞概念 Rayark Concept 東興店、蘭空咖啡宣布將於 4 月 22 日結束營運 轉為線上經營
+title: '_ETC_&nbsp;雷亞概念 Rayark Concept 東興店、蘭空咖啡宣布將於 4 月 22 日結束營運 轉為線上經營'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/f38dda232caf8d5633d3396c061bui85.PNG?v=1616149691191'
 ---
 

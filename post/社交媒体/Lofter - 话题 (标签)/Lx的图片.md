@@ -1,6 +1,6 @@
 
 ---
-title: Lx的图片
+title: 'Lx的图片'
 categories: 
     - 社交媒体
     - Lofter - 话题 (标签)

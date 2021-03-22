@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Apple CoreText libType1Scaler.dylib heap out-of-bounds write due to integer overflow in STOREWV othersubr
+title: '_Fixed_ Apple CoreText libType1Scaler.dylib heap out-of-bounds write due to integer overflow in STOREWV othersubr'
 categories: 
     - 编程
     - project-zero issues - issues

@@ -1,6 +1,6 @@
 
 ---
-title: Linus Torvalds 警告不要用 Linux 5.12-rc1
+title: 'Linus Torvalds 警告不要用 Linux 5.12-rc1'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

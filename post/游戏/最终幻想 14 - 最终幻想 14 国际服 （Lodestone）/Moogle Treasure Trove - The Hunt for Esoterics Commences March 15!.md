@@ -1,6 +1,6 @@
 
 ---
-title: Moogle Treasure Trove - The Hunt for Esoterics Commences March 15!
+title: 'Moogle Treasure Trove - The Hunt for Esoterics Commences March 15!'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

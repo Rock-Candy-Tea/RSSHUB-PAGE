@@ -1,6 +1,6 @@
 
 ---
-title: DoraFactory Bounce IDO 白名单申请条件和指南 - USER-GzmKrsG1xF
+title: 'DoraFactory Bounce IDO 白名单申请条件和指南 - USER-GzmKrsG1xF'
 categories: 
     - 新媒体
     - Matataki - 标签关联作品

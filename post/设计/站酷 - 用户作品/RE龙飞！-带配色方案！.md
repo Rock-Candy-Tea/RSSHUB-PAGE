@@ -1,6 +1,6 @@
 
 ---
-title: RE龙飞！-带配色方案！
+title: 'RE龙飞！-带配色方案！'
 categories: 
     - 设计
     - 站酷 - 用户作品

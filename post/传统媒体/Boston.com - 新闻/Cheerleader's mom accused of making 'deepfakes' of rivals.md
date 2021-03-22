@@ -1,6 +1,6 @@
 
 ---
-title: Cheerleader's mom accused of making 'deepfakes' of rivals
+title: 'Cheerleader's mom accused of making 'deepfakes' of rivals'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

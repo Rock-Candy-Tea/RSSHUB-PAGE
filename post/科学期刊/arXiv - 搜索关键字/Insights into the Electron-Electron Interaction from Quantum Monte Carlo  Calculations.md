@@ -1,7 +1,7 @@
 
 ---
-title: Insights into the Electron-Electron Interaction from Quantum Monte Carlo
-  Calculations
+title: 'Insights into the Electron-Electron Interaction from Quantum Monte Carlo
+  Calculations'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

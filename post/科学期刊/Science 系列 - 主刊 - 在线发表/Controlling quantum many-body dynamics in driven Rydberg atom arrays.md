@@ -1,6 +1,6 @@
 
 ---
-title: Controlling quantum many-body dynamics in driven Rydberg atom arrays
+title: 'Controlling quantum many-body dynamics in driven Rydberg atom arrays'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

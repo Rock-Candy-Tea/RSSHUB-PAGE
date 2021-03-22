@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Pro - now available in Japan!
+title: 'DeepL Pro - now available in Japan!'
 categories: 
     - 新媒体
     - DeepL - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: 【カルデア広報局より】「AnimeJapan 2021」出展情報について
+title: '【カルデア広報局より】「AnimeJapan 2021」出展情報について'
 categories: 
     - 游戏
     - Fate Grand Order - News

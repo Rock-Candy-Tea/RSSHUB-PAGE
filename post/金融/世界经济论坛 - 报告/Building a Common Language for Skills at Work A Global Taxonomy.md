@@ -1,12 +1,12 @@
 
 ---
-title: Building a Common Language for Skills at Work A Global Taxonomy
+title: 'Building a Common Language for Skills at Work A Global Taxonomy'
 categories: 
     - 金融
     - 世界经济论坛 - 报告
 author: 世界经济论坛 - 报告
 comments: false
-date: 2021-03-22 03:21:01
+date: 2021-03-22 03:47:30
 thumbnail: ''
 ---
 

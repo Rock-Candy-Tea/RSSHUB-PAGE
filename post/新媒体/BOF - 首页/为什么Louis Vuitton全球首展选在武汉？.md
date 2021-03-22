@@ -1,6 +1,6 @@
 
 ---
-title: 为什么Louis Vuitton全球首展选在武汉？
+title: '为什么Louis Vuitton全球首展选在武汉？'
 categories: 
     - 新媒体
     - BOF - 首页

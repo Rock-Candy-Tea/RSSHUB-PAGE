@@ -1,6 +1,6 @@
 
 ---
-title: Tenet coming to HBO Max — which director Nolan called the _worst streaming service_ —on May 1st
+title: 'Tenet coming to HBO Max — which director Nolan called the _worst streaming service_ —on May 1st'
 categories: 
     - 新媒体
     - The Verge - The Verge

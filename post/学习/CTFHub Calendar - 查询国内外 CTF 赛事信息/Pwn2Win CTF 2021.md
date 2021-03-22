@@ -1,6 +1,6 @@
 
 ---
-title: Pwn2Win CTF 2021
+title: 'Pwn2Win CTF 2021'
 categories: 
     - 学习
     - CTFHub Calendar - 查询国内外 CTF 赛事信息

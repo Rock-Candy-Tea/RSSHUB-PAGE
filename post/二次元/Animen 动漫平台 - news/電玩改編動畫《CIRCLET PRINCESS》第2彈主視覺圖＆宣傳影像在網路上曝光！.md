@@ -1,6 +1,6 @@
 
 ---
-title: 電玩改編動畫《CIRCLET PRINCESS》第2彈主視覺圖＆宣傳影像在網路上曝光！
+title: '電玩改編動畫《CIRCLET PRINCESS》第2彈主視覺圖＆宣傳影像在網路上曝光！'
 categories: 
     - 二次元
     - Animen 动漫平台 - news

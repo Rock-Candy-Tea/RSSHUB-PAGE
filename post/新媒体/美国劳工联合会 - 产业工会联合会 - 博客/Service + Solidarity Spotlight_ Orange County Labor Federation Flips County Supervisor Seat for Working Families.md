@@ -1,6 +1,6 @@
 
 ---
-title: Service + Solidarity Spotlight_ Orange County Labor Federation Flips County Supervisor Seat for Working Families
+title: 'Service + Solidarity Spotlight_ Orange County Labor Federation Flips County Supervisor Seat for Working Families'
 categories: 
     - 新媒体
     - 美国劳工联合会 - 产业工会联合会 - 博客

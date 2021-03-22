@@ -1,6 +1,6 @@
 
 ---
-title: A Hero Never Dies
+title: 'A Hero Never Dies'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

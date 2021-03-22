@@ -1,6 +1,6 @@
 
 ---
-title: Preventing Version Conflicts with versionScheme
+title: 'Preventing Version Conflicts with versionScheme'
 categories: 
     - 编程
     - Scala - Scala Blog

@@ -1,6 +1,6 @@
 
 ---
-title: _GSG_ Psycho-Pass Sinners of the System (Rus)
+title: '_GSG_ Psycho-Pass Sinners of the System (Rus)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

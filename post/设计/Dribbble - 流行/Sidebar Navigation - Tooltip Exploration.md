@@ -1,6 +1,6 @@
 
 ---
-title: Sidebar Navigation - Tooltip Exploration
+title: 'Sidebar Navigation - Tooltip Exploration'
 categories: 
     - 设计
     - Dribbble - 流行

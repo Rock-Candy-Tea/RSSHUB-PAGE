@@ -1,6 +1,6 @@
 
 ---
-title: Cytoid
+title: 'Cytoid'
 categories: 
     - 游戏
     - 游戏时光 - 游戏时光游戏发售表

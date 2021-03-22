@@ -1,6 +1,6 @@
 
 ---
-title: China Telecom mobile customer base increases in November, China Mobile, Unicom lose subs
+title: 'China Telecom mobile customer base increases in November, China Mobile, Unicom lose subs'
 categories: 
     - 传统媒体
     - Telecompaper - News

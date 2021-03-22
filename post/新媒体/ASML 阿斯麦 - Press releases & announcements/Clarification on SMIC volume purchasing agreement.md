@@ -1,6 +1,6 @@
 
 ---
-title: Clarification on SMIC volume purchasing agreement
+title: 'Clarification on SMIC volume purchasing agreement'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

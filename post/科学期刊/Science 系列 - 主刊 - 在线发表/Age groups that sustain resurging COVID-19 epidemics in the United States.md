@@ -1,6 +1,6 @@
 
 ---
-title: Age groups that sustain resurging COVID-19 epidemics in the United States
+title: 'Age groups that sustain resurging COVID-19 epidemics in the United States'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

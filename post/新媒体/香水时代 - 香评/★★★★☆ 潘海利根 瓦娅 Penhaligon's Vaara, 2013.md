@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ 潘海利根 瓦娅 Penhaligon's Vaara, 2013
+title: '★★★★☆ 潘海利根 瓦娅 Penhaligon's Vaara, 2013'
 categories: 
     - 新媒体
     - 香水时代 - 香评

@@ -1,6 +1,6 @@
 
 ---
-title: 嗯，遭到了PPOS(
+title: '嗯，遭到了PPOS('
 categories: 
     - 编程
     - 洛谷 - 用户动态

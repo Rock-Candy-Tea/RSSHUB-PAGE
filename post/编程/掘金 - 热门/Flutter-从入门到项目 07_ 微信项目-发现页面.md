@@ -1,6 +1,6 @@
 
 ---
-title: Flutter-从入门到项目 07_ 微信项目-发现页面
+title: 'Flutter-从入门到项目 07_ 微信项目-发现页面'
 categories: 
     - 编程
     - 掘金 - 热门

@@ -1,6 +1,6 @@
 
 ---
-title: This Is the First Image Taken by NASA’s Perseverance Mars Rover. Now the Hunt for Life Begins, MIT Technology Review
+title: 'This Is the First Image Taken by NASA’s Perseverance Mars Rover. Now the Hunt for Life Begins, MIT Technology Review'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

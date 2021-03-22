@@ -1,6 +1,6 @@
 
 ---
-title: Photo-induced receptor confinement drives ligand-independent GPCR signaling
+title: 'Photo-induced receptor confinement drives ligand-independent GPCR signaling'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

@@ -1,6 +1,6 @@
 
 ---
-title: 【Lorre说】惊爆内幕：洛基没有死！他伪装的绿巨人！第二季加强版
+title: '【Lorre说】惊爆内幕：洛基没有死！他伪装的绿巨人！第二季加强版'
 categories: 
     - 社交媒体
     - bilibili - UP 主非默认收藏夹

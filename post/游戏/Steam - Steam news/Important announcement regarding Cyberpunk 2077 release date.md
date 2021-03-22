@@ -1,6 +1,6 @@
 
 ---
-title: Important announcement regarding Cyberpunk 2077 release date
+title: 'Important announcement regarding Cyberpunk 2077 release date'
 categories: 
     - 游戏
     - Steam - Steam news

@@ -1,6 +1,6 @@
 
 ---
-title: 如何评价Justin Bieber新专辑《Justice》_
+title: '如何评价Justin Bieber新专辑《Justice》_'
 categories: 
     - 社交媒体
     - 知乎 - 知乎分类热榜

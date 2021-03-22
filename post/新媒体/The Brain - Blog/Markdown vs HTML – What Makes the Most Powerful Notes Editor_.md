@@ -1,6 +1,6 @@
 
 ---
-title: Markdown vs. HTML – What Makes the Most Powerful Notes Editor_
+title: 'Markdown vs. HTML – What Makes the Most Powerful Notes Editor_'
 categories: 
     - 新媒体
     - The Brain - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: 只用 Apple Watch 计步数看通知？这些快捷指令，让你的手表更智能
+title: '只用 Apple Watch 计步数看通知？这些快捷指令，让你的手表更智能'
 categories: 
     - 新媒体
     - 爱范儿 ifanr - 爱范儿频道

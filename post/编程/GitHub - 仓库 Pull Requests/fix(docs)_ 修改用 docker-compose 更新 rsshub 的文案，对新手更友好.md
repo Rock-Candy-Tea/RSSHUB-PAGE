@@ -1,6 +1,6 @@
 
 ---
-title: fix(docs)_ 修改用 docker-compose 更新 rsshub 的文案，对新手更友好
+title: 'fix(docs)_ 修改用 docker-compose 更新 rsshub 的文案，对新手更友好'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

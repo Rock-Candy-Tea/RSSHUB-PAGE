@@ -1,6 +1,6 @@
 
 ---
-title: Cho Gi Seok Photography
+title: 'Cho Gi Seok Photography'
 categories: 
     - 图片
     - CNU 视觉联盟 - 每日精选

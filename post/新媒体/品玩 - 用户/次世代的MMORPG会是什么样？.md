@@ -1,6 +1,6 @@
 
 ---
-title: 次世代的MMORPG会是什么样？
+title: '次世代的MMORPG会是什么样？'
 categories: 
     - 新媒体
     - 品玩 - 用户

@@ -1,6 +1,6 @@
 
 ---
-title: JavaScript️可视化：事件循环
+title: 'JavaScript️可视化：事件循环'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

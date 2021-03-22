@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】JB出了远程IDE工具、7-Zip出了Linux版 _ 吴晟成首位中国人ASF董事
+title: '【一周】JB出了远程IDE工具、7-Zip出了Linux版 _ 吴晟成首位中国人ASF董事'
 categories: 
     - 编程
     - 开源中国 - 问答主题

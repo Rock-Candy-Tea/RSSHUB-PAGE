@@ -1,6 +1,6 @@
 
 ---
-title: 如何将Obsidian与Anki同步_
+title: '如何将Obsidian与Anki同步_'
 categories: 
     - 社交媒体
     - 知乎 - 收藏夹

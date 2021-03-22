@@ -1,6 +1,6 @@
 
 ---
-title: React Component to Smooth Scroll to the Top
+title: 'React Component to Smooth Scroll to the Top'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

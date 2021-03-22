@@ -1,6 +1,6 @@
 
 ---
-title: Electron pairing_ from metastable electron pair to bipolaron
+title: 'Electron pairing_ from metastable electron pair to bipolaron'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

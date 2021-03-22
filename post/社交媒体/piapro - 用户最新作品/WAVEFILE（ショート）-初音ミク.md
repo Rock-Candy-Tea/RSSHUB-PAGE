@@ -1,6 +1,6 @@
 
 ---
-title: WAVEFILE（ショート）-初音ミク
+title: 'WAVEFILE（ショート）-初音ミク'
 categories: 
     - 社交媒体
     - piapro - 用户最新作品

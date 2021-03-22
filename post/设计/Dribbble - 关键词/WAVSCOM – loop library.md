@@ -1,6 +1,6 @@
 
 ---
-title: WAVS.COM – loop library
+title: 'WAVS.COM – loop library'
 categories: 
     - 设计
     - Dribbble - 关键词

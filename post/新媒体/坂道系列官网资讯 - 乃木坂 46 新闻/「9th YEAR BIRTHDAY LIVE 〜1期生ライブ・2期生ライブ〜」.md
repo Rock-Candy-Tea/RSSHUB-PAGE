@@ -1,6 +1,6 @@
 
 ---
-title: 「9th YEAR BIRTHDAY LIVE 〜1期生ライブ・2期生ライブ〜」...
+title: '「9th YEAR BIRTHDAY LIVE 〜1期生ライブ・2期生ライブ〜」...'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 乃木坂 46 新闻

@@ -1,12 +1,12 @@
 
 ---
-title: Bethesda_ Quake Champions_ E3 Reveal Trailer
+title: 'Bethesda_ Quake Champions_ E3 Reveal Trailer'
 categories: 
     - 设计
     - Method Studios - 菜单
 author: Method Studios - 菜单
 comments: false
-date: 2021-03-22 03:20:45
+date: 2021-03-22 03:47:18
 thumbnail: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/50/2f/502fee1a-cc90-4d00-8e91-7e972425990d/quakers_champions_111.jpg'
 ---
 

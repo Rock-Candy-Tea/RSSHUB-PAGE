@@ -1,6 +1,6 @@
 
 ---
-title: 一个好看又好用的MongoDB GUI
+title: '一个好看又好用的MongoDB GUI'
 categories: 
     - 编程
     - wolley - posts

@@ -1,6 +1,6 @@
 
 ---
-title: WATCH_ With a straight face, Biden's DHS chief says the border is 'secure' and 'closed' and the crossings surge is Trump's fault - https___breaking911...
+title: 'WATCH_ With a straight face, Biden's DHS chief says the border is 'secure' and 'closed' and the crossings surge is Trump's fault - https___breaking911...'
 categories: 
     - 社交媒体
     - Gab - 熱門

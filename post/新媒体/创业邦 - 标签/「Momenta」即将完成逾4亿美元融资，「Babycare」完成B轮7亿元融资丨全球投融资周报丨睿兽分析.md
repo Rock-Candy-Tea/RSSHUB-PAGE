@@ -1,6 +1,6 @@
 
 ---
-title: 「Momenta」即将完成逾4亿美元融资，「Babycare」完成B轮7亿元融资丨全球投融资周报丨睿兽分析
+title: '「Momenta」即将完成逾4亿美元融资，「Babycare」完成B轮7亿元融资丨全球投融资周报丨睿兽分析'
 categories: 
     - 新媒体
     - 创业邦 - 标签

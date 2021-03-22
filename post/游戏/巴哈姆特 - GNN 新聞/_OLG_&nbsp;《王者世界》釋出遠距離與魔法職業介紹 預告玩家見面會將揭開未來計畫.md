@@ -1,12 +1,12 @@
 
 ---
-title: _OLG_&nbsp;《王者世界》釋出遠距離與魔法職業介紹 預告玩家見面會將揭開未來計畫
+title: '_OLG_&nbsp;《王者世界》釋出遠距離與魔法職業介紹 預告玩家見面會將揭開未來計畫'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/675c81ebfe285e3504c504be3e1bu985.JPG?v=1616134335302'
 ---
 

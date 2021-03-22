@@ -1,6 +1,6 @@
 
 ---
-title: A Border Town’s Second Gamble
+title: 'A Border Town’s Second Gamble'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

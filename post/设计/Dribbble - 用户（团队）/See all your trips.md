@@ -1,6 +1,6 @@
 
 ---
-title: See all your trips
+title: 'See all your trips'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

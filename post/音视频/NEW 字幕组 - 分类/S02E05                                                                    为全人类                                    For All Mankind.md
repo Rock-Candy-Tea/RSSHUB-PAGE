@@ -1,8 +1,8 @@
 
 ---
-title: S02E05                                
+title: 'S02E05                                
                                     为全人类
-                                    For All Mankind
+                                    For All Mankind'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

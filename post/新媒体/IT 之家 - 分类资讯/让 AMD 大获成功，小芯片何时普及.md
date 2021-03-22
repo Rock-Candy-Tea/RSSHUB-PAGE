@@ -1,6 +1,6 @@
 
 ---
-title: 让 AMD 大获成功，小芯片何时普及
+title: '让 AMD 大获成功，小芯片何时普及'
 categories: 
     - 新媒体
     - IT 之家 - 分类资讯

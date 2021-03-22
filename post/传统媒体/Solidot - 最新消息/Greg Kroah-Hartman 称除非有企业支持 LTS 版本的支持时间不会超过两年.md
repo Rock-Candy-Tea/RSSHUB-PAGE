@@ -1,6 +1,6 @@
 
 ---
-title: Greg Kroah-Hartman 称除非有企业支持 LTS 版本的支持时间不会超过两年
+title: 'Greg Kroah-Hartman 称除非有企业支持 LTS 版本的支持时间不会超过两年'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

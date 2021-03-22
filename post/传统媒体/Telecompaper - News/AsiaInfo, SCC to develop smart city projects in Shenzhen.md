@@ -1,6 +1,6 @@
 
 ---
-title: AsiaInfo, SCC to develop smart city projects in Shenzhen
+title: 'AsiaInfo, SCC to develop smart city projects in Shenzhen'
 categories: 
     - 传统媒体
     - Telecompaper - News

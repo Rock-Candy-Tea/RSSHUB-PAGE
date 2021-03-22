@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;第十三屆巴哈姆特遊戲動漫大賞得獎名單出爐《鬼滅之刃》《咒術迴戰》奪多項大獎
+title: '_General_&nbsp;第十三屆巴哈姆特遊戲動漫大賞得獎名單出爐《鬼滅之刃》《咒術迴戰》奪多項大獎'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/69/81cdb05a54ef9b134caf9633801bu1l5.JPG?v=1616124721889'
 ---
 

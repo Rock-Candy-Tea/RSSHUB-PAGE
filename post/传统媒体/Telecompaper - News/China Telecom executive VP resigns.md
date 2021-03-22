@@ -1,6 +1,6 @@
 
 ---
-title: China Telecom executive VP resigns
+title: 'China Telecom executive VP resigns'
 categories: 
     - 传统媒体
     - Telecompaper - News

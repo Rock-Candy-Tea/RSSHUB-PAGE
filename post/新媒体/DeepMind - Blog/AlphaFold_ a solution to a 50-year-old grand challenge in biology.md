@@ -1,6 +1,6 @@
 
 ---
-title: AlphaFold_ a solution to a 50-year-old grand challenge in biology
+title: 'AlphaFold_ a solution to a 50-year-old grand challenge in biology'
 categories: 
     - 新媒体
     - DeepMind - Blog

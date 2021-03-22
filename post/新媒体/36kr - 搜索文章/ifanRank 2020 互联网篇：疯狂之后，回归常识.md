@@ -1,6 +1,6 @@
 
 ---
-title: ifanRank 2020 互联网篇：疯狂之后，回归常识
+title: 'ifanRank 2020 互联网篇：疯狂之后，回归常识'
 categories: 
     - 新媒体
     - 36kr - 搜索文章

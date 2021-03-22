@@ -1,12 +1,12 @@
 
 ---
-title: 用户体验 淘宝的「送给TA」值得尝试吗？
+title: '用户体验 淘宝的「送给TA」值得尝试吗？'
 categories: 
     - 设计
     - 优设网 - 细节猎人
 author: 优设网 - 细节猎人
 comments: false
-date: Thu, 18 Mar 2021 03:20:50 GMT
+date: Thu, 18 Mar 2021 03:47:21 GMT
 thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/03/xb-taobao-sgt2.png'
 ---
 

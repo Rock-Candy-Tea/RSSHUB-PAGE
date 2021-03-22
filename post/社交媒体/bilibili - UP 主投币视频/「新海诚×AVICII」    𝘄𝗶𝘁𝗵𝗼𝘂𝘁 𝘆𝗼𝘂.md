@@ -1,6 +1,6 @@
 
 ---
-title: 「新海诚×AVICII」    𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝘆𝗼𝘂
+title: '「新海诚×AVICII」    𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝘆𝗼𝘂'
 categories: 
     - 社交媒体
     - bilibili - UP 主投币视频

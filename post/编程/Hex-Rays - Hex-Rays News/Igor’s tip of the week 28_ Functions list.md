@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #28_ Functions list
+title: 'Igor’s tip of the week #28_ Functions list'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

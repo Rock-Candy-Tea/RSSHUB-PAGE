@@ -1,6 +1,6 @@
 
 ---
-title: 5 tips for building a better font licensing strategy.
+title: '5 tips for building a better font licensing strategy.'
 categories: 
     - 设计
     - Monotype - Featured Article

@@ -1,6 +1,6 @@
 
 ---
-title: cnpmjs.org实战
+title: 'cnpmjs.org实战'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

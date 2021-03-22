@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ 古特尔 宁法花园 Goutal Ninfeo Mio, 2010
+title: '★★★★☆ 古特尔 宁法花园 Goutal Ninfeo Mio, 2010'
 categories: 
     - 新媒体
     - 香水时代 - 香评

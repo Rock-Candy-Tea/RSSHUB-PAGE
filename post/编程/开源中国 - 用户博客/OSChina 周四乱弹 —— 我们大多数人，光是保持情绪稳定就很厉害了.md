@@ -1,12 +1,12 @@
 
 ---
-title: OSChina 周四乱弹 —— 我们大多数人，光是保持情绪稳定就很厉害了
+title: 'OSChina 周四乱弹 —— 我们大多数人，光是保持情绪稳定就很厉害了'
 categories: 
     - 编程
     - 开源中国 - 用户博客
 author: 开源中国 - 用户博客
 comments: false
-date: 2021-03-22 03:15:06
+date: 2021-03-22 03:43:03
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-f1cb37ae2a6ade68ce0823eeaa60eb13ac6.JPEG'
 ---
 

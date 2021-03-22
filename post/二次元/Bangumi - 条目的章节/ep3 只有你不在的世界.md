@@ -1,6 +1,6 @@
 
 ---
-title: ep.3 只有你不在的世界
+title: 'ep.3 只有你不在的世界'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

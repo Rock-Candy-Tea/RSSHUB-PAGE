@@ -1,6 +1,6 @@
 
 ---
-title: Eden Green Technology为其垂直农业与温室的特别组合融资1200万美元
+title: 'Eden Green Technology为其垂直农业与温室的特别组合融资1200万美元'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

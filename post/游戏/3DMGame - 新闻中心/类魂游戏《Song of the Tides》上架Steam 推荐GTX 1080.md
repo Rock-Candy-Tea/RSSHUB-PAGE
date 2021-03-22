@@ -1,6 +1,6 @@
 
 ---
-title: 类魂游戏《Song of the Tides》上架Steam 推荐GTX 1080
+title: '类魂游戏《Song of the Tides》上架Steam 推荐GTX 1080'
 categories: 
     - 游戏
     - 3DMGame - 新闻中心

@@ -1,6 +1,6 @@
 
 ---
-title: 关于PlayStation 4系统软件7.00版本升级
+title: '关于PlayStation 4系统软件7.00版本升级'
 categories: 
     - 游戏
     - PlayStation - PlayStation 4 系统更新纪录

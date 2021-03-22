@@ -1,6 +1,6 @@
 
 ---
-title: _全24话_革命机Valvrave
+title: '_全24话_革命机Valvrave'
 categories: 
     - 社交媒体
     - bilibili - 用户追番列表

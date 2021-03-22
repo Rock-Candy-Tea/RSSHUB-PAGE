@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：送码 _ 兼顾新老用户的全面记账工具，Moze 3 使用详解
+title: 'DIYgod喜欢了文章：送码 _ 兼顾新老用户的全面记账工具，Moze 3 使用详解'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

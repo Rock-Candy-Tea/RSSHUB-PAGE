@@ -1,6 +1,6 @@
 
 ---
-title: SP蝉冰雪女降临！阴阳师主播招募开启！
+title: 'SP蝉冰雪女降临！阴阳师主播招募开启！'
 categories: 
     - 社交媒体
     - bilibili - link 公告

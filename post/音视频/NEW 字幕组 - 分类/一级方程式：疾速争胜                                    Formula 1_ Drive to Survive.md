@@ -1,7 +1,7 @@
 
 ---
-title: 一级方程式：疾速争胜
-                                    Formula 1_ Drive to Survive
+title: '一级方程式：疾速争胜
+                                    Formula 1_ Drive to Survive'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

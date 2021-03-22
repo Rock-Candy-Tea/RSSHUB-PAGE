@@ -1,6 +1,6 @@
 
 ---
-title: 【DOV】皇家虹 阿尔贝尔黑化
+title: '【DOV】皇家虹 阿尔贝尔黑化'
 categories: 
     - 游戏
     - 旅法师营地 - 旅法师营地

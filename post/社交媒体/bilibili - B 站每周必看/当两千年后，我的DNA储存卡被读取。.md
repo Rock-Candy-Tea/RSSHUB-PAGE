@@ -1,12 +1,12 @@
 
 ---
-title: 当两千年后，我的DNA储存卡被读取。
+title: '当两千年后，我的DNA储存卡被读取。'
 categories: 
     - 社交媒体
     - bilibili - B 站每周必看
 author: bilibili - B 站每周必看
 comments: false
-date: 2021-03-22 03:17:22
+date: 2021-03-22 03:45:09
 thumbnail: 'http://i0.hdslb.com/bfs/archive/d6c7698133fd830995a9b8047ed87690022a457c.jpg'
 ---
 

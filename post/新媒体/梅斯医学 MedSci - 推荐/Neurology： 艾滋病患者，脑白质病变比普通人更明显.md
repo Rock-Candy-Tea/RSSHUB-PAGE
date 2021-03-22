@@ -1,6 +1,6 @@
 
 ---
-title: Neurology： 艾滋病患者，脑白质病变比普通人更明显
+title: 'Neurology： 艾滋病患者，脑白质病变比普通人更明显'
 categories: 
     - 新媒体
     - 梅斯医学 MedSci - 推荐

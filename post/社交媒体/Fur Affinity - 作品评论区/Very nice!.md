@@ -1,6 +1,6 @@
 
 ---
-title: Very nice!
+title: 'Very nice!'
 categories: 
     - 社交媒体
     - Fur Affinity - 作品评论区

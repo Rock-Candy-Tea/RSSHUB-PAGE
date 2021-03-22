@@ -1,6 +1,6 @@
 
 ---
-title: EOS：工业级增材制造–现状与展望（附PDF）
+title: 'EOS：工业级增材制造–现状与展望（附PDF）'
 categories: 
     - 新媒体
     - 东西智库 - 标签
@@ -25,13 +25,13 @@ thumbnail: 'http://www.dx2025.com/wp-content/uploads/2020/01/6-gong-ye-ji-zeng-c
 <label>请选择会员类型</label>
      <ul class="xh-vip clearfix">
                    <li>
-                  <a href="javascript:void(0);" class="wshop-membership-0b115e541bab1e7412316eff83b20f472 active" data-id="12088">
+                  <a href="javascript:void(0);" class="wshop-membership-4f1c71ebe56616bbe4a08a4c07fab69e2 active" data-id="12088">
                                               <span class="price">¥28</span> 
                         <span class="title">VIP-月卡</span>
                                         </a> 
               </li>
                             <li>
-                  <a href="javascript:void(0);" class="wshop-membership-0b115e541bab1e7412316eff83b20f472 " data-id="85247">
+                  <a href="javascript:void(0);" class="wshop-membership-4f1c71ebe56616bbe4a08a4c07fab69e2 " data-id="85247">
                                               <span class="price">¥10</span> 
                         <span class="title">VIP-日卡</span>
                                         </a> 
@@ -42,21 +42,21 @@ thumbnail: 'http://www.dx2025.com/wp-content/uploads/2020/01/6-gong-ye-ji-zeng-c
         <div class="block20"></div>  
                         
         <div class="paymentbar clearfix">
-            <a href="https://www.dx2025.com/archives/39193.html#section-payment-0b115e541bab1e7412316eff83b20f472" class="wshop-sections-0b115e541bab1e7412316eff83b20f472 active" data-id="pay">在线支付</a>
-            <a href="https://www.dx2025.com/archives/39193.html#section-code-0b115e541bab1e7412316eff83b20f472" class="wshop-sections-0b115e541bab1e7412316eff83b20f472" data-id="code">激活码</a>
+            <a href="https://www.dx2025.com/archives/39193.html#section-payment-4f1c71ebe56616bbe4a08a4c07fab69e2" class="wshop-sections-4f1c71ebe56616bbe4a08a4c07fab69e2 active" data-id="pay">在线支付</a>
+            <a href="https://www.dx2025.com/archives/39193.html#section-code-4f1c71ebe56616bbe4a08a4c07fab69e2" class="wshop-sections-4f1c71ebe56616bbe4a08a4c07fab69e2" data-id="code">激活码</a>
         </div>
-        <div class="box" id="section-payment-0b115e541bab1e7412316eff83b20f472">
+        <div class="box" id="section-payment-4f1c71ebe56616bbe4a08a4c07fab69e2">
         
         <p class="clearfix paylist">
-        <label><input type="radio" checked name="payment_method-0b115e541bab1e7412316eff83b20f472" value="wechat" class="payment-method-0b115e541bab1e7412316eff83b20f472"><img src="https://www.dx2025.com/wp-content/plugins/wechat-shop/assets/image/wechat-l.png" style="vertical-align:middle;" alt="微信支付" referrerpolicy="no-referrer"></label>                
+        <label><input type="radio" checked name="payment_method-4f1c71ebe56616bbe4a08a4c07fab69e2" value="wechat" class="payment-method-4f1c71ebe56616bbe4a08a4c07fab69e2"><img src="https://www.dx2025.com/wp-content/plugins/wechat-shop/assets/image/wechat-l.png" style="vertical-align:middle;" alt="微信支付" referrerpolicy="no-referrer"></label>                
             </p>
         </div>
         
-        <div class="box" style="display: none;" id="section-code-0b115e541bab1e7412316eff83b20f472">
+        <div class="box" style="display: none;" id="section-code-4f1c71ebe56616bbe4a08a4c07fab69e2">
             
             <div class="xh-form-group">
             <label>输入激活码:</label>
-                <input type="text" class="form-control" id="wshop-code-0b115e541bab1e7412316eff83b20f472" value>
+                <input type="text" class="form-control" id="wshop-code-4f1c71ebe56616bbe4a08a4c07fab69e2" value>
             </div>
             
         </div>  
@@ -74,9 +74,9 @@ thumbnail: 'http://www.dx2025.com/wp-content/uploads/2020/01/6-gong-ye-ji-zeng-c
     <!--<div class="xunhu-text-center xunhu-font font-16 text-download">-->
     升级网站VIP或加入本站知识星球下载完整报告<span class="text-warning"><span class="xunhu-text-lg"></span></span>    <!--</div>-->
     <div class="xunhu-text-center xunhu-mt10">
-                                <!--<a href="javascript:void(0);" class="xunhu-btn xunhu-btn-green" id="xh_now_pay_model_show_5c0171ea58720bf4ae5399c19cee3f4d1">立即购买</a>-->
+                                <!--<a href="javascript:void(0);" class="xunhu-btn xunhu-btn-green" id="xh_now_pay_model_show_0a2d82936d8560559c66919a0e5ee9c51">立即购买</a>-->
                         
-                                    <a href="javascript:void(0);" class="xunhu-btn xunhu-btn-warning" id="xh_buy_membership_model_show_5c0171ea58720bf4ae5399c19cee3f4d1">升级VIP</a>
+                                    <a href="javascript:void(0);" class="xunhu-btn xunhu-btn-warning" id="xh_buy_membership_model_show_0a2d82936d8560559c66919a0e5ee9c51">升级VIP</a>
             
             </div>
     <img src="https://www.dx2025.com/wp-content/plugins/wechat-shop/assets/image/v2/lock.png" class="xunhu-pa xunhu-downlockicon" referrerpolicy="no-referrer">
@@ -164,9 +164,9 @@ thumbnail: 'http://www.dx2025.com/wp-content/uploads/2020/01/6-gong-ye-ji-zeng-c
                                     </div>
             </div>
             <div id="code_mode_container" class="xunhu-text-center xunhu-mt20 xunhu-font" style="display: none;">
-                <input id="buy_membership_code_5c0171ea58720bf4ae5399c19cee3f4d1" type="text" placeholder="请输入激活码" class="xunhu-input xh-w50">
+                <input id="buy_membership_code_0a2d82936d8560559c66919a0e5ee9c51" type="text" placeholder="请输入激活码" class="xunhu-input xh-w50">
             </div>
-            <div class="xunhu-text-center xunhu-mt20"><a href="javascript:void(0);" class="xunhu-btn xunhu-btn-green" id="xh_buy_membership_5c0171ea58720bf4ae5399c19cee3f4d1">立即支付</a></div>
+            <div class="xunhu-text-center xunhu-mt20"><a href="javascript:void(0);" class="xunhu-btn xunhu-btn-green" id="xh_buy_membership_0a2d82936d8560559c66919a0e5ee9c51">立即支付</a></div>
             
 
         </div>

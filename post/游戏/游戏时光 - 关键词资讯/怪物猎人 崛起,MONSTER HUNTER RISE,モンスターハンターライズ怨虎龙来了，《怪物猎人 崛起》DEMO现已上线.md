@@ -1,6 +1,6 @@
 
 ---
-title: 怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ怨虎龙来了，《怪物猎人 崛起》DEMO现已上线
+title: '怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ怨虎龙来了，《怪物猎人 崛起》DEMO现已上线'
 categories: 
     - 游戏
     - 游戏时光 - 关键词资讯

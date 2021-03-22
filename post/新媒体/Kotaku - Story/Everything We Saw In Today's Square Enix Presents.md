@@ -1,6 +1,6 @@
 
 ---
-title: Everything We Saw In Today's Square Enix Presents
+title: 'Everything We Saw In Today's Square Enix Presents'
 categories: 
     - 新媒体
     - Kotaku - Story

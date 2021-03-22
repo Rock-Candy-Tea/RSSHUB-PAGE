@@ -1,6 +1,6 @@
 
 ---
-title: SPD-Fraktionsgeschäftsführer_ Erst andere Optionen ausschöpfen
+title: 'SPD-Fraktionsgeschäftsführer_ Erst andere Optionen ausschöpfen'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

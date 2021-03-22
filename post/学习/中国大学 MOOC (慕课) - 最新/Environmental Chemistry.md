@@ -1,12 +1,12 @@
 
 ---
-title: Environmental Chemistry
+title: 'Environmental Chemistry'
 categories: 
     - 学习
     - 中国大学 MOOC (慕课) - 最新
 author: 中国大学 MOOC (慕课) - 最新
 comments: false
-date: 2021-03-22 03:19:07
+date: 2021-03-22 03:45:58
 thumbnail: 'http://edu-image.nosdn.127.net/4DF224F3E73A81872E6B038188B97FC5.jpg?imageView&thumbnail=510y288&quality=100'
 ---
 

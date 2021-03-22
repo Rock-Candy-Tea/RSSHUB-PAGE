@@ -1,6 +1,6 @@
 
 ---
-title: 健康问题接二连三，Neon因一号位身体不适将启用替补参加Major
+title: '健康问题接二连三，Neon因一号位身体不适将启用替补参加Major'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

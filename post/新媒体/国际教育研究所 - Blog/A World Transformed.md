@@ -1,6 +1,6 @@
 
 ---
-title: A World Transformed
+title: 'A World Transformed'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

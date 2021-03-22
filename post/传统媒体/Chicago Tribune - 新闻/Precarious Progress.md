@@ -1,6 +1,6 @@
 
 ---
-title: Precarious Progress
+title: 'Precarious Progress'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

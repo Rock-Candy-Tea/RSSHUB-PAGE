@@ -1,6 +1,6 @@
 
 ---
-title: Andoromeda weekly sync 20201012 - 林可 $Andoromeda
+title: 'Andoromeda weekly sync 20201012 - 林可 $Andoromeda'
 categories: 
     - 新媒体
     - Matataki - 作者创作

@@ -1,6 +1,6 @@
 
 ---
-title: 7-Tage-Inzidenz steigt im Norden auf 59,9
+title: '7-Tage-Inzidenz steigt im Norden auf 59,9'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

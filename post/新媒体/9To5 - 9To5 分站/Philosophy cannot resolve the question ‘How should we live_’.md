@@ -1,6 +1,6 @@
 
 ---
-title: Philosophy cannot resolve the question ‘How should we live_’
+title: 'Philosophy cannot resolve the question ‘How should we live_’'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

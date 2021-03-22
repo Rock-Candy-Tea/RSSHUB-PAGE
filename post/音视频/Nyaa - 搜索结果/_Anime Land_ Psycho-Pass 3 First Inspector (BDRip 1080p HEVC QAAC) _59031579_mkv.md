@@ -1,6 +1,6 @@
 
 ---
-title: _Anime Land_ Psycho-Pass 3 First Inspector (BDRip 1080p HEVC QAAC) _59031579_.mkv
+title: '_Anime Land_ Psycho-Pass 3 First Inspector (BDRip 1080p HEVC QAAC) _59031579_.mkv'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

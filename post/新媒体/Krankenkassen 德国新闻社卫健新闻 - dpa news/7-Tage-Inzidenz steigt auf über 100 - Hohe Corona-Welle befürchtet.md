@@ -1,6 +1,6 @@
 
 ---
-title: 7-Tage-Inzidenz steigt auf über 100 - Hohe Corona-Welle befürchtet
+title: '7-Tage-Inzidenz steigt auf über 100 - Hohe Corona-Welle befürchtet'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

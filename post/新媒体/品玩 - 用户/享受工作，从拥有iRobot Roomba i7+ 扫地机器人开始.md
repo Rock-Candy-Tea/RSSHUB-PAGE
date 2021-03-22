@@ -1,6 +1,6 @@
 
 ---
-title: 享受工作，从拥有iRobot Roomba i7+ 扫地机器人开始
+title: '享受工作，从拥有iRobot Roomba i7+ 扫地机器人开始'
 categories: 
     - 新媒体
     - 品玩 - 用户

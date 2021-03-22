@@ -1,6 +1,6 @@
 
 ---
-title: 收PSV DJMAX technika tune和PSV superbeat xonic，最好能今天或者明天在石家庄面交的，收不到就去淘宝了，...
+title: '收PSV DJMAX technika tune和PSV superbeat xonic，最好能今天或者明天在石家庄面交的，收不到就去淘宝了，...'
 categories: 
     - 游戏
     - psnine - 闲游 - 二手盘信息

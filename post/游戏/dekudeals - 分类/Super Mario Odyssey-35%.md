@@ -1,13 +1,13 @@
 
 ---
-title: Super Mario Odyssey
--35%
+title: 'Super Mario Odyssey
+-35%'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/8835097caa2a5bcd6cafa8e6580b50f85278d9c9/w500.jpg'
 ---
 

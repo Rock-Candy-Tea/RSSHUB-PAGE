@@ -1,6 +1,6 @@
 
 ---
-title: Large Canvas Prints
+title: 'Large Canvas Prints'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

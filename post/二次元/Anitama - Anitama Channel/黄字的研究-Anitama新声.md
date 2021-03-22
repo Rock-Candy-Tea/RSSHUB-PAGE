@@ -1,6 +1,6 @@
 
 ---
-title: 黄字的研究-Anitama新声
+title: '黄字的研究-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

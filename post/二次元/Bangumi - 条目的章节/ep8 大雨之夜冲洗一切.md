@@ -1,6 +1,6 @@
 
 ---
-title: ep.8 大雨之夜冲洗一切
+title: 'ep.8 大雨之夜冲洗一切'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

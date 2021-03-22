@@ -1,6 +1,6 @@
 
 ---
-title: Alexander McQueen 捐贈布料支持時裝及紡織系學生
+title: 'Alexander McQueen 捐贈布料支持時裝及紡織系學生'
 categories: 
     - 新媒体
     - Esquirehk - Tag

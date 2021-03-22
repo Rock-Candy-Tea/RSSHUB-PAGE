@@ -1,6 +1,6 @@
 
 ---
-title: Time alone (chosen or not) can be a chance to hit the reset button
+title: 'Time alone (chosen or not) can be a chance to hit the reset button'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

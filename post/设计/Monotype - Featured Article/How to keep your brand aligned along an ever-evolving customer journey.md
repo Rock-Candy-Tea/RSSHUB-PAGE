@@ -1,6 +1,6 @@
 
 ---
-title: How to keep your brand aligned along an ever-evolving customer journey.
+title: 'How to keep your brand aligned along an ever-evolving customer journey.'
 categories: 
     - 设计
     - Monotype - Featured Article

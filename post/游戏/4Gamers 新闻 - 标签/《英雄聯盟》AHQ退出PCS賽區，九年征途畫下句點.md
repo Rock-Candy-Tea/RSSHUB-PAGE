@@ -1,6 +1,6 @@
 
 ---
-title: 《英雄聯盟》AHQ退出PCS賽區，九年征途畫下句點
+title: '《英雄聯盟》AHQ退出PCS賽區，九年征途畫下句點'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

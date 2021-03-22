@@ -1,6 +1,6 @@
 
 ---
-title: LOLITA棚拍-娜塔莎
+title: 'LOLITA棚拍-娜塔莎'
 categories: 
     - 设计
     - 站酷 - 用户作品

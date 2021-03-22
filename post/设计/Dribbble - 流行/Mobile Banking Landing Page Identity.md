@@ -1,6 +1,6 @@
 
 ---
-title: Mobile Banking Landing Page Identity
+title: 'Mobile Banking Landing Page Identity'
 categories: 
     - 设计
     - Dribbble - 流行

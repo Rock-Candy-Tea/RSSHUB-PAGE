@@ -1,6 +1,6 @@
 
 ---
-title: Inherent Vice
+title: 'Inherent Vice'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

@@ -1,6 +1,6 @@
 
 ---
-title: 每日速报｜LVMH蒂芙尼交易降价、Coach母公司利润大增、伦敦时装周将融合男女装
+title: '每日速报｜LVMH蒂芙尼交易降价、Coach母公司利润大增、伦敦时装周将融合男女装'
 categories: 
     - 新媒体
     - BOF - 首页

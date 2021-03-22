@@ -1,6 +1,6 @@
 
 ---
-title: Version 4_ Video and Day One, Together at Last
+title: 'Version 4_ Video and Day One, Together at Last'
 categories: 
     - 新媒体
     - Day One - Blog

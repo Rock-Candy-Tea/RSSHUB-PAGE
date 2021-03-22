@@ -1,6 +1,6 @@
 
 ---
-title: 运行 Linux 的 150 美元 RISC-V 电脑
+title: '运行 Linux 的 150 美元 RISC-V 电脑'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

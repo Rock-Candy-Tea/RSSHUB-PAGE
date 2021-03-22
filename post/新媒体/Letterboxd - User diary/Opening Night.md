@@ -1,6 +1,6 @@
 
 ---
-title: Opening Night
+title: 'Opening Night'
 categories: 
     - 新媒体
     - Letterboxd - User diary

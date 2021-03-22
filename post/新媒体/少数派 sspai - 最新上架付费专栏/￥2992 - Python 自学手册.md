@@ -1,12 +1,12 @@
 
 ---
-title: ￥29.92 - Python 自学手册
+title: '￥29.92 - Python 自学手册'
 categories: 
     - 新媒体
     - 少数派 sspai - 最新上架付费专栏
 author: 少数派 sspai - 最新上架付费专栏
 comments: false
-date: 2021-03-22 03:16:38
+date: 2021-03-22 03:44:35
 thumbnail: 'https://cdn.sspai.com/article/4d09c283-3af1-2161-aea7-79f37fabf69d.jpg'
 ---
 

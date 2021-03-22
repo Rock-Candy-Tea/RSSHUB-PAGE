@@ -1,6 +1,6 @@
 
 ---
-title: The Development of Reaction Cascades to Synthesize Dimeric Coccinellid Alkaloids
+title: 'The Development of Reaction Cascades to Synthesize Dimeric Coccinellid Alkaloids'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

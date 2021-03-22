@@ -1,6 +1,6 @@
 
 ---
-title: _DDD_ PSYCHO-PASS サイコパス S1·2·3 TV + Movie _BDrip 720p HEVC AAC__10bits_
+title: '_DDD_ PSYCHO-PASS サイコパス S1·2·3 TV + Movie _BDrip 720p HEVC AAC__10bits_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

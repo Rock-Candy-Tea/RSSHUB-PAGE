@@ -1,6 +1,6 @@
 
 ---
-title: Eternity Shin`ya no Nurekoi Channel DX Episode 2
+title: 'Eternity Shin`ya no Nurekoi Channel DX Episode 2'
 categories: 
     - 音视频
     - Hentaimama - 近期更新

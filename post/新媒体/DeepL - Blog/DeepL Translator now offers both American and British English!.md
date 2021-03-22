@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Translator now offers both American and British English!
+title: 'DeepL Translator now offers both American and British English!'
 categories: 
     - 新媒体
     - DeepL - Blog

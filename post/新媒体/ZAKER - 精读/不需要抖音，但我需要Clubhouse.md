@@ -1,12 +1,12 @@
 
 ---
-title: 不需要抖音，但我需要Clubhouse
+title: '不需要抖音，但我需要Clubhouse'
 categories: 
     - 新媒体
     - ZAKER - 精读
 author: ZAKER - 精读
 comments: false
-date: Invalid Date
+date: Thu, 18 Mar 2021 16:00:00 GMT
 thumbnail: 'http://zkres2.myzaker.com/202103/605417f98e9f095ac97f67e8_1024.jpg'
 ---
 

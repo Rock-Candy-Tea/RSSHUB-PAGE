@@ -1,6 +1,6 @@
 
 ---
-title: FreeBSD_ Sway Compositor Can Run While KDE Plasma On Wayland Is Still A Work-In-Progress
+title: 'FreeBSD_ Sway Compositor Can Run While KDE Plasma On Wayland Is Still A Work-In-Progress'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

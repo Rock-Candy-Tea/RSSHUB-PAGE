@@ -1,6 +1,6 @@
 
 ---
-title: 记录一次基于vue、typescript、pwa的项目由开发到部署
+title: '记录一次基于vue、typescript、pwa的项目由开发到部署'
 categories: 
     - 编程
     - 掘金 - 收藏集

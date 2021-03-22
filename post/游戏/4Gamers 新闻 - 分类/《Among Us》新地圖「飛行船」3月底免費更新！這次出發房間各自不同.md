@@ -1,6 +1,6 @@
 
 ---
-title: 《Among Us》新地圖「飛行船」3月底免費更新！這次出發房間各自不同
+title: '《Among Us》新地圖「飛行船」3月底免費更新！這次出發房間各自不同'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

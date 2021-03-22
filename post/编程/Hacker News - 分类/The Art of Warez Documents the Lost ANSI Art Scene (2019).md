@@ -1,12 +1,12 @@
 
 ---
-title: The Art of Warez Documents the Lost ANSI Art Scene (2019)
+title: 'The Art of Warez Documents the Lost ANSI Art Scene (2019)'
 categories: 
     - 编程
     - Hacker News - 分类
 author: Hacker News - 分类
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:46
 thumbnail: ''
 ---
 

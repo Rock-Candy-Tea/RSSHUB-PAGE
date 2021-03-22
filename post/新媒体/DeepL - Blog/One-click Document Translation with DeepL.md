@@ -1,6 +1,6 @@
 
 ---
-title: One-click Document Translation with DeepL
+title: 'One-click Document Translation with DeepL'
 categories: 
     - 新媒体
     - DeepL - Blog

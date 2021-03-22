@@ -1,6 +1,6 @@
 
 ---
-title: Structure and dynamics of the CGRP receptor in apo and peptide-bound forms
+title: 'Structure and dynamics of the CGRP receptor in apo and peptide-bound forms'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

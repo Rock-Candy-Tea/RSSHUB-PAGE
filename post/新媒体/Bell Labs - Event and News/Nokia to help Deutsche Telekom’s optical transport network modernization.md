@@ -1,6 +1,6 @@
 
 ---
-title: Nokia to help Deutsche Telekom’s optical transport network modernization
+title: 'Nokia to help Deutsche Telekom’s optical transport network modernization'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

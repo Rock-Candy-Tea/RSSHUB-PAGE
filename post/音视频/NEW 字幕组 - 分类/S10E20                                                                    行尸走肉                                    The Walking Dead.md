@@ -1,8 +1,8 @@
 
 ---
-title: S10E20                                
+title: 'S10E20                                
                                     行尸走肉
-                                    The Walking Dead
+                                    The Walking Dead'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

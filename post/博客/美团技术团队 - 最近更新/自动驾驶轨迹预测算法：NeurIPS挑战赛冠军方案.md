@@ -1,6 +1,6 @@
 
 ---
-title: 自动驾驶轨迹预测算法：NeurIPS挑战赛冠军方案
+title: '自动驾驶轨迹预测算法：NeurIPS挑战赛冠军方案'
 categories: 
     - 博客
     - 美团技术团队 - 最近更新

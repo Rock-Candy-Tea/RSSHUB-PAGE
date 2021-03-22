@@ -1,7 +1,7 @@
 
 ---
-title: Re_ _PATCH 21_27_ treewide_ surround file paths in Kconfig files
- with double quotes
+title: 'Re_ _PATCH 21_27_ treewide_ surround file paths in Kconfig files
+ with double quotes'
 categories: 
     - 编程
     - Linux Patchwork - Patch Comments

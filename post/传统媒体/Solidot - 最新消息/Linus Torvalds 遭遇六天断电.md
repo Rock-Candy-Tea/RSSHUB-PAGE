@@ -1,6 +1,6 @@
 
 ---
-title: Linus Torvalds 遭遇六天断电
+title: 'Linus Torvalds 遭遇六天断电'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

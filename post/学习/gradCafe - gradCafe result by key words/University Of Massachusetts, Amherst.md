@@ -1,6 +1,6 @@
 
 ---
-title: University Of Massachusetts, Amherst
+title: 'University Of Massachusetts, Amherst'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

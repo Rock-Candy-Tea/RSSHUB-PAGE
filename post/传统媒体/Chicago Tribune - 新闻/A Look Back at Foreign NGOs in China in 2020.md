@@ -1,6 +1,6 @@
 
 ---
-title: A Look Back at Foreign NGOs in China in 2020
+title: 'A Look Back at Foreign NGOs in China in 2020'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

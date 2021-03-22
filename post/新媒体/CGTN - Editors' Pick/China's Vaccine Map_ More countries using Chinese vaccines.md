@@ -1,6 +1,6 @@
 
 ---
-title: China's Vaccine Map_ More countries using Chinese vaccines
+title: 'China's Vaccine Map_ More countries using Chinese vaccines'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

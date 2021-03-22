@@ -1,6 +1,6 @@
 
 ---
-title: The Scala Center stands with Black Lives Matter
+title: 'The Scala Center stands with Black Lives Matter'
 categories: 
     - 编程
     - Scala - Scala Blog

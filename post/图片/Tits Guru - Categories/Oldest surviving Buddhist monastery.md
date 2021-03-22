@@ -1,6 +1,6 @@
 
 ---
-title: Oldest surviving Buddhist monastery
+title: 'Oldest surviving Buddhist monastery'
 categories: 
     - 图片
     - Tits Guru - Categories

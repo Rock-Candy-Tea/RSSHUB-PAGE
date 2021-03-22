@@ -1,6 +1,6 @@
 
 ---
-title: 深入 Platformer 丨奶牛精选 Vol.17
+title: '深入 Platformer 丨奶牛精选 Vol.17'
 categories: 
     - 游戏
     - 奶牛关 - 元素文章

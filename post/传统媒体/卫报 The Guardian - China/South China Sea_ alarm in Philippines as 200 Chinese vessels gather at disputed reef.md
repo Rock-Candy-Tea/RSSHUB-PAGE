@@ -1,6 +1,6 @@
 
 ---
-title: South China Sea_ alarm in Philippines as 200 Chinese vessels gather at disputed reef
+title: 'South China Sea_ alarm in Philippines as 200 Chinese vessels gather at disputed reef'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - China

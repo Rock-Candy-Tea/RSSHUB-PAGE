@@ -1,14 +1,14 @@
 
 ---
-title: Animal Crossing_ New Horizons
+title: 'Animal Crossing_ New Horizons
 -17%
-Matches previous low
+Matches previous low'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/fa57ec0a83ae7ad06ad7be18d810eec4f6497e9f/w500.jpg'
 ---
 

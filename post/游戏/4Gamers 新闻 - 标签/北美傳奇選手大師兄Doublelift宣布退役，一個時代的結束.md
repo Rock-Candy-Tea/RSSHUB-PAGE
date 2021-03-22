@@ -1,6 +1,6 @@
 
 ---
-title: 北美傳奇選手大師兄Doublelift宣布退役，一個時代的結束
+title: '北美傳奇選手大師兄Doublelift宣布退役，一個時代的結束'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

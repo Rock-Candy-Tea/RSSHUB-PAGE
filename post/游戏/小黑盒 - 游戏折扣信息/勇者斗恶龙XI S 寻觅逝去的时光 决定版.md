@@ -1,12 +1,12 @@
 
 ---
-title: 勇者斗恶龙XI S 寻觅逝去的时光 决定版
+title: '勇者斗恶龙XI S 寻觅逝去的时光 决定版'
 categories: 
     - 游戏
     - 小黑盒 - 游戏折扣信息
 author: 小黑盒 - 游戏折扣信息
 comments: false
-date: 2021-03-22 03:19:49
+date: 2021-03-22 03:46:28
 thumbnail: 'https://cdn.max-c.com/heybox/game/header/1295510_EN2jG.jpg'
 ---
 

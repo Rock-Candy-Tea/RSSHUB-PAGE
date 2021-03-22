@@ -1,6 +1,6 @@
 
 ---
-title: Maison Margiela 海港城新店開幕，荷蘭建築師展現了創意總監 John Galliano的豐富視覺
+title: 'Maison Margiela 海港城新店開幕，荷蘭建築師展現了創意總監 John Galliano的豐富視覺'
 categories: 
     - 新媒体
     - Esquirehk - Tag

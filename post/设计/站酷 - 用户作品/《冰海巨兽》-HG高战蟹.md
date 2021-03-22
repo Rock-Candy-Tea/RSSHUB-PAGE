@@ -1,6 +1,6 @@
 
 ---
-title: 《冰海巨兽》-HG高战蟹
+title: '《冰海巨兽》-HG高战蟹'
 categories: 
     - 设计
     - 站酷 - 用户作品

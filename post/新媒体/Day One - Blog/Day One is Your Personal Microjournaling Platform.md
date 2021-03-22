@@ -1,6 +1,6 @@
 
 ---
-title: Day One is Your Personal Microjournaling Platform
+title: 'Day One is Your Personal Microjournaling Platform'
 categories: 
     - 新媒体
     - Day One - Blog

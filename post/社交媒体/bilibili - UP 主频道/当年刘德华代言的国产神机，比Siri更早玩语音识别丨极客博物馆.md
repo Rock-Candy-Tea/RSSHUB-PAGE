@@ -1,6 +1,6 @@
 
 ---
-title: 当年刘德华代言的国产神机，比Siri更早玩语音识别丨极客博物馆
+title: '当年刘德华代言的国产神机，比Siri更早玩语音识别丨极客博物馆'
 categories: 
     - 社交媒体
     - bilibili - UP 主频道

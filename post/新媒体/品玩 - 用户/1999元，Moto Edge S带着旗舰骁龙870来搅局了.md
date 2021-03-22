@@ -1,6 +1,6 @@
 
 ---
-title: 1999元，Moto Edge S带着旗舰骁龙870来搅局了
+title: '1999元，Moto Edge S带着旗舰骁龙870来搅局了'
 categories: 
     - 新媒体
     - 品玩 - 用户

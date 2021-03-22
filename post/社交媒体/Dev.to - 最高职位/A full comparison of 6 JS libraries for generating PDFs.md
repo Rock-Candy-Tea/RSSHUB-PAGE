@@ -1,6 +1,6 @@
 
 ---
-title: A full comparison of 6 JS libraries for generating PDFs
+title: 'A full comparison of 6 JS libraries for generating PDFs'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

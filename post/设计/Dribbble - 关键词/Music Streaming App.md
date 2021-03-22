@@ -1,6 +1,6 @@
 
 ---
-title: Music Streaming App
+title: 'Music Streaming App'
 categories: 
     - 设计
     - Dribbble - 关键词

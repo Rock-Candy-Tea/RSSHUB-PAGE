@@ -1,6 +1,6 @@
 
 ---
-title: Xiaomi launches Mi 11 flagship in China
+title: 'Xiaomi launches Mi 11 flagship in China'
 categories: 
     - 传统媒体
     - Telecompaper - News

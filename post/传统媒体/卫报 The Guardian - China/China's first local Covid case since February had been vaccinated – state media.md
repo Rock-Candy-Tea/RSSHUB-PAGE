@@ -1,6 +1,6 @@
 
 ---
-title: China's first local Covid case since February had been vaccinated – state media
+title: 'China's first local Covid case since February had been vaccinated – state media'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - China

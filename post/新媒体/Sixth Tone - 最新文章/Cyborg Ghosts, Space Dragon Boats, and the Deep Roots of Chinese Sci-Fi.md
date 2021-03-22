@@ -1,6 +1,6 @@
 
 ---
-title: Cyborg Ghosts, Space Dragon Boats, and the Deep Roots of Chinese Sci-Fi
+title: 'Cyborg Ghosts, Space Dragon Boats, and the Deep Roots of Chinese Sci-Fi'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

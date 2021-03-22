@@ -1,6 +1,6 @@
 
 ---
-title: Indication peroxynitrite fluctuations in rat epilepsy model
+title: 'Indication peroxynitrite fluctuations in rat epilepsy model'
 categories: 
     - 新媒体
     - 中国科学院青年创新促进会 - 最新博文

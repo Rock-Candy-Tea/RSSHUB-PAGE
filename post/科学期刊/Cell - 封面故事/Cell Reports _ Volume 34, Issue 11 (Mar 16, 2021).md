@@ -1,6 +1,6 @@
 
 ---
-title: Cell Reports _ Volume 34, Issue 11 (Mar 16, 2021)
+title: 'Cell Reports _ Volume 34, Issue 11 (Mar 16, 2021)'
 categories: 
     - 科学期刊
     - Cell - 封面故事

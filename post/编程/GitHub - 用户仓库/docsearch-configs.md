@@ -1,6 +1,6 @@
 
 ---
-title: docsearch-configs
+title: 'docsearch-configs'
 categories: 
     - 编程
     - GitHub - 用户仓库

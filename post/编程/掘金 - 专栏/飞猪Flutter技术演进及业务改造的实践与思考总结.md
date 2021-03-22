@@ -1,6 +1,6 @@
 
 ---
-title: 飞猪Flutter技术演进及业务改造的实践与思考总结
+title: '飞猪Flutter技术演进及业务改造的实践与思考总结'
 categories: 
     - 编程
     - 掘金 - 专栏

@@ -1,6 +1,6 @@
 
 ---
-title: 尝试利用Cython将Python项目转化为单个.so
+title: '尝试利用Cython将Python项目转化为单个.so'
 categories: 
     - 编程
     - 平安银河实验室 - posts

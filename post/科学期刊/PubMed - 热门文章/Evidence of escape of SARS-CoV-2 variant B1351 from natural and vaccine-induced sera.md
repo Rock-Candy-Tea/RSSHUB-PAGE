@@ -1,6 +1,6 @@
 
 ---
-title: Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine-induced sera.
+title: 'Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine-induced sera.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

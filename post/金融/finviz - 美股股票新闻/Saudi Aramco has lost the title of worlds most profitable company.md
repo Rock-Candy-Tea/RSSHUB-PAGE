@@ -1,6 +1,6 @@
 
 ---
-title: Saudi Aramco has lost the title of worlds most profitable company
+title: 'Saudi Aramco has lost the title of worlds most profitable company'
 categories: 
     - 金融
     - finviz - 美股股票新闻

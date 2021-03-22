@@ -1,6 +1,6 @@
 
 ---
-title: Azulene-Based π-Functional Materials_ Design, Synthesis, and Applications
+title: 'Azulene-Based π-Functional Materials_ Design, Synthesis, and Applications'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

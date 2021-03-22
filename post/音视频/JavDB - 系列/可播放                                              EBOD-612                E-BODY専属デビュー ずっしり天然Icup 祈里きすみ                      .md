@@ -1,12 +1,12 @@
 
 ---
-title: 可播放
+title: '可播放
                 
               
                 EBOD-612
                 E-BODY専属デビュー ずっしり天然Icup 祈里きすみ
               
-        ...
+        ...'
 categories: 
     - 音视频
     - JavDB - 系列
@@ -18,7 +18,7 @@ thumbnail: 'https://jdbimgs.com/covers/ba/bAmO0.jpg'
 
 <div>   
 <div class="column column-video-cover">
-        <a rel="nofollow" class="cover-container" target="_blank" href="https://javdb.com/v/bAmO0/play?pst=ed05c33ceef0443b6fee8833cdc8ddd4.MTYxNjM4MzI5OC5hOHNxYjM2cnU4">
+        <a rel="nofollow" class="cover-container" target="_blank" href="https://javdb.com/v/bAmO0/play?pst=db4e353c4493b53fb47523d2dafb96f2.MTYxNjM4NDg4MS5hOHNxYjM2cnU4">
           <img src="https://jdbimgs.com/covers/ba/bAmO0.jpg" class="video-cover" referrerpolicy="no-referrer">
           <div class="play-button">
             <span class="icon"><img src="https://javdb.com/packs/media/images/btn-play-b414746c.svg" referrerpolicy="no-referrer"></span>

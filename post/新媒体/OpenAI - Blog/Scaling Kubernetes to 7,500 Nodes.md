@@ -1,6 +1,6 @@
 
 ---
-title: Scaling Kubernetes to 7,500 Nodes
+title: 'Scaling Kubernetes to 7,500 Nodes'
 categories: 
     - 新媒体
     - OpenAI - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: Total Synthesis of Natural Products Containing Enamine or Enol Ether Derivatives
+title: 'Total Synthesis of Natural Products Containing Enamine or Enol Ether Derivatives'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

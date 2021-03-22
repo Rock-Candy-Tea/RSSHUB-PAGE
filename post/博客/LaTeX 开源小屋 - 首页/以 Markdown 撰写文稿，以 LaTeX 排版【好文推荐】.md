@@ -1,6 +1,6 @@
 
 ---
-title: 以 Markdown 撰写文稿，以 LaTeX 排版【好文推荐】
+title: '以 Markdown 撰写文稿，以 LaTeX 排版【好文推荐】'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

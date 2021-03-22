@@ -1,6 +1,6 @@
 
 ---
-title: Visualizing Unprecedented Times for Insight and Action
+title: 'Visualizing Unprecedented Times for Insight and Action'
 categories: 
     - 新媒体
     - The Brain - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: Sea Star Explosion in Qingdao Baffles Farmers, Affects Businesses
+title: 'Sea Star Explosion in Qingdao Baffles Farmers, Affects Businesses'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

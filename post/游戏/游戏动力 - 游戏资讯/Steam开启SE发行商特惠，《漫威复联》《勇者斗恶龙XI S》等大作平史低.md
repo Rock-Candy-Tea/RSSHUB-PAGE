@@ -1,6 +1,6 @@
 
 ---
-title: Steam开启SE发行商特惠，《漫威复联》《勇者斗恶龙XI S》等大作平史低
+title: 'Steam开启SE发行商特惠，《漫威复联》《勇者斗恶龙XI S》等大作平史低'
 categories: 
     - 游戏
     - 游戏动力 - 游戏资讯

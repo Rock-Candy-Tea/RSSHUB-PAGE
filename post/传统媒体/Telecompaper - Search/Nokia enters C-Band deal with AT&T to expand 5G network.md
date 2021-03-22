@@ -1,6 +1,6 @@
 
 ---
-title: Nokia enters C-Band deal with AT&T to expand 5G network
+title: 'Nokia enters C-Band deal with AT&T to expand 5G network'
 categories: 
     - 传统媒体
     - Telecompaper - Search

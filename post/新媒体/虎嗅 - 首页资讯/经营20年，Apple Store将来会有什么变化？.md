@@ -1,6 +1,6 @@
 
 ---
-title: 经营20年，Apple Store将来会有什么变化？
+title: '经营20年，Apple Store将来会有什么变化？'
 categories: 
     - 新媒体
     - 虎嗅 - 首页资讯

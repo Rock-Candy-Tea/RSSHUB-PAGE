@@ -1,6 +1,6 @@
 
 ---
-title: 全世界最强的算法平台codeforces究竟有什么魅力？
+title: '全世界最强的算法平台codeforces究竟有什么魅力？'
 categories: 
     - 社交媒体
     - 知乎 - 收藏夹

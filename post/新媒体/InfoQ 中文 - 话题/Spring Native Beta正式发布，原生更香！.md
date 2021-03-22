@@ -1,6 +1,6 @@
 
 ---
-title: Spring Native Beta正式发布，原生更香！
+title: 'Spring Native Beta正式发布，原生更香！'
 categories: 
     - 新媒体
     - InfoQ 中文 - 话题

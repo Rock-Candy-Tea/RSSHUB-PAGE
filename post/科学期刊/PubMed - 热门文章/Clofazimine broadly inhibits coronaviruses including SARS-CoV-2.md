@@ -1,6 +1,6 @@
 
 ---
-title: Clofazimine broadly inhibits coronaviruses including SARS-CoV-2.
+title: 'Clofazimine broadly inhibits coronaviruses including SARS-CoV-2.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

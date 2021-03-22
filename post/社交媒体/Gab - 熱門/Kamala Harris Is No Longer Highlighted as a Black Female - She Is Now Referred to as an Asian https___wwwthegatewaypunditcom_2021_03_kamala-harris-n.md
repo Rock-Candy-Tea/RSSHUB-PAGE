@@ -1,6 +1,6 @@
 
 ---
-title: Kamala Harris Is No Longer Highlighted as a Black Female - She Is Now Referred to as an Asian https___www.thegatewaypundit.com_2021_03_kamala-harris-n...
+title: 'Kamala Harris Is No Longer Highlighted as a Black Female - She Is Now Referred to as an Asian https___www.thegatewaypundit.com_2021_03_kamala-harris-n...'
 categories: 
     - 社交媒体
     - Gab - 熱門

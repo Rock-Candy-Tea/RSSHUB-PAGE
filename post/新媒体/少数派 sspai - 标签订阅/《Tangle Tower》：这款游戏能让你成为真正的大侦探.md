@@ -1,6 +1,6 @@
 
 ---
-title: 《Tangle Tower》：这款游戏能让你成为真正的大侦探
+title: '《Tangle Tower》：这款游戏能让你成为真正的大侦探'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

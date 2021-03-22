@@ -1,6 +1,6 @@
 
 ---
-title: 進擊的巨人 The Final Season
+title: '進擊的巨人 The Final Season'
 categories: 
     - 二次元
     - 動畫瘋 - 最後更新

@@ -1,6 +1,6 @@
 
 ---
-title: Bank App
+title: 'Bank App'
 categories: 
     - 设计
     - Dribbble - 流行

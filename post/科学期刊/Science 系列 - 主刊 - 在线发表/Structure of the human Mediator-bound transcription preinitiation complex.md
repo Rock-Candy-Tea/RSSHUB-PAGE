@@ -1,6 +1,6 @@
 
 ---
-title: Structure of the human Mediator-bound transcription preinitiation complex
+title: 'Structure of the human Mediator-bound transcription preinitiation complex'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

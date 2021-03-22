@@ -1,6 +1,6 @@
 
 ---
-title: New Algorithm Breaks Speed Limit for Solving Linear Equations
+title: 'New Algorithm Breaks Speed Limit for Solving Linear Equations'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -70,7 +70,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/Forest-Matrice
 <p>The algorithm keeps track of its random guesses as entries in a matrix. Finding the solution among the entries in the matrix becomes a question of matrix multiplication, which of course is the roadblock they’d set out to circumvent. But here again they take advantage of the randomness that they used to seed the entries in the matrix.</p>
 <p>Because the entries in the matrix are random, and coordination happens between them, the matrix itself ends up with certain symmetries. Those symmetries enable computational shortcuts. Just like with any highly symmetric object, you only need to know what one part of it looks like in order to deduce the whole.</p>
 <p>As a result, Peng and Vempala’s algorithm can find the solution within the matrix faster than it could in a matrix with the same number of entries, but none of the useful symmetries. The symmetries of the matrix convey another important benefit as well: They help ensure that the guesses never grow so big that they become unwieldy from the perspective of algorithmic efficiency.</p>
-<div id="component-60580bdfc13b7" class="related-list"></div>
+<div id="component-60581268320a1" class="related-list"></div>
 <p>“We had to control how big a number shows up as we do this guessing and coordination,” said Peng.</p>
 <p>Peng and Vempala prove that their algorithm can solve any sparse linear system in <em>n</em><sup>2.332</sup> steps. This beats the exponent for the best algorithm for matrix multiplication (<em>n</em><sup>2.37286</sup>) by about four-hundredths. Edging out matrix multiplication won’t matter for practical applications anytime soon, but as a proof of concept, this slight improvement is a chasm: It shows there’s an entirely better way of solving linear systems.</p>
 <p>“Philosophically we didn’t know before if you can go faster than matrix multiplication,” said Vempala.</p>

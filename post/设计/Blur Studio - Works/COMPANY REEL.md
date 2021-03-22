@@ -1,12 +1,12 @@
 
 ---
-title: COMPANY REEL
+title: 'COMPANY REEL'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/new-reel-2020/3736167888-1586569284/blank.png'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Among Us Gets Airship Map And New Update Later This Month
+title: 'Among Us Gets Airship Map And New Update Later This Month'
 categories: 
     - 新媒体
     - Kotaku - Story

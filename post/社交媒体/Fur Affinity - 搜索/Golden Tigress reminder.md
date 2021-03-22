@@ -1,6 +1,6 @@
 
 ---
-title: Golden Tigress reminder
+title: 'Golden Tigress reminder'
 categories: 
     - 社交媒体
     - Fur Affinity - 搜索

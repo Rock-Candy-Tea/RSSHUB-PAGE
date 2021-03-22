@@ -1,6 +1,6 @@
 
 ---
-title: UMassCTF 2021
+title: 'UMassCTF 2021'
 categories: 
     - 学习
     - CTFHub Calendar - 查询近期赛事

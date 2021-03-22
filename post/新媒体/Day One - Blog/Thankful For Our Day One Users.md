@@ -1,6 +1,6 @@
 
 ---
-title: Thankful For Our Day One Users
+title: 'Thankful For Our Day One Users'
 categories: 
     - 新媒体
     - Day One - Blog

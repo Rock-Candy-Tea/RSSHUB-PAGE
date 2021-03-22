@@ -1,6 +1,6 @@
 
 ---
-title: Design and Syntheses of New Antibiotics Inspired by Nature’s Quest for Iron in an Oxidative Climate
+title: 'Design and Syntheses of New Antibiotics Inspired by Nature’s Quest for Iron in an Oxidative Climate'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

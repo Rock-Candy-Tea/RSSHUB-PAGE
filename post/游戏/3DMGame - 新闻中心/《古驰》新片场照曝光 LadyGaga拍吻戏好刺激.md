@@ -1,6 +1,6 @@
 
 ---
-title: 《古驰》新片场照曝光 LadyGaga拍吻戏好刺激
+title: '《古驰》新片场照曝光 LadyGaga拍吻戏好刺激'
 categories: 
     - 游戏
     - 3DMGame - 新闻中心

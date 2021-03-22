@@ -1,6 +1,6 @@
 
 ---
-title: Europe's restoration of AstraZeneca comes at a critical time
+title: 'Europe's restoration of AstraZeneca comes at a critical time'
 categories: 
     - 新媒体
     - CGTN - Opinions

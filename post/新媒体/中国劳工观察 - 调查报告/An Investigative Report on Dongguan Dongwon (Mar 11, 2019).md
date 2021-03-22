@@ -1,6 +1,6 @@
 
 ---
-title: An Investigative Report on Dongguan Dongwon (Mar 11, 2019)
+title: 'An Investigative Report on Dongguan Dongwon (Mar 11, 2019)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

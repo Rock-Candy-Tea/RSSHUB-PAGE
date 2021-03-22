@@ -1,6 +1,6 @@
 
 ---
-title: Nintendo Switch+《马力欧卡丁车8 豪华版》特别套装将于2020年10月21日正式开售
+title: 'Nintendo Switch+《马力欧卡丁车8 豪华版》特别套装将于2020年10月21日正式开售'
 categories: 
     - 游戏
     - Nintendo - 首页资讯（中国）

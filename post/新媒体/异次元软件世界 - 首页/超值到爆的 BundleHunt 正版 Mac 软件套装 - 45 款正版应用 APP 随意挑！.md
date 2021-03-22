@@ -1,6 +1,6 @@
 
 ---
-title: 超值到爆的 BundleHunt 正版 Mac 软件套装 - 45 款正版应用 APP 随意挑！
+title: '超值到爆的 BundleHunt 正版 Mac 软件套装 - 45 款正版应用 APP 随意挑！'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

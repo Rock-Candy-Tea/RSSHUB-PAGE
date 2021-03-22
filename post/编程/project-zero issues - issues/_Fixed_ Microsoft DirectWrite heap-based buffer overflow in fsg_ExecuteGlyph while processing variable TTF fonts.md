@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Microsoft DirectWrite heap-based buffer overflow in fsg_ExecuteGlyph while processing variable TTF fonts
+title: '_Fixed_ Microsoft DirectWrite heap-based buffer overflow in fsg_ExecuteGlyph while processing variable TTF fonts'
 categories: 
     - 编程
     - project-zero issues - issues

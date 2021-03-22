@@ -1,6 +1,6 @@
 
 ---
-title: Nokia appoints Cardoso to head technology area in Latin America
+title: 'Nokia appoints Cardoso to head technology area in Latin America'
 categories: 
     - 传统媒体
     - Telecompaper - Search

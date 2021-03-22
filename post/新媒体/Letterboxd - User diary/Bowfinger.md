@@ -1,6 +1,6 @@
 
 ---
-title: Bowfinger
+title: 'Bowfinger'
 categories: 
     - 新媒体
     - Letterboxd - User diary

@@ -1,6 +1,6 @@
 
 ---
-title: 小米手机官宣 _明早 10 点发布 BIG NEWS_，有望为小米 11 Pro 系列
+title: '小米手机官宣 _明早 10 点发布 BIG NEWS_，有望为小米 11 Pro 系列'
 categories: 
     - 新媒体
     - IT 之家 - 热榜

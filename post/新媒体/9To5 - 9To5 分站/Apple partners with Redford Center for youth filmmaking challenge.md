@@ -1,6 +1,6 @@
 
 ---
-title: Apple partners with Redford Center for youth filmmaking challenge
+title: 'Apple partners with Redford Center for youth filmmaking challenge'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

@@ -1,6 +1,6 @@
 
 ---
-title: Stranger Than Fiction
+title: 'Stranger Than Fiction'
 categories: 
     - 新媒体
     - Letterboxd - User diary

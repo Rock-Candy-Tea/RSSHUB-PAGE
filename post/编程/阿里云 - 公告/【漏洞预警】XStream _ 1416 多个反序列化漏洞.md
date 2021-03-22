@@ -1,6 +1,6 @@
 
 ---
-title: 【漏洞预警】XStream _ 1.4.16 多个反序列化漏洞
+title: '【漏洞预警】XStream _ 1.4.16 多个反序列化漏洞'
 categories: 
     - 编程
     - 阿里云 - 公告

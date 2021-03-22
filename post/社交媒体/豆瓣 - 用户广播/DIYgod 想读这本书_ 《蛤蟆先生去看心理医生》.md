@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想读这本书_ 《蛤蟆先生去看心理医生》
+title: 'DIYgod 想读这本书_ 《蛤蟆先生去看心理医生》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

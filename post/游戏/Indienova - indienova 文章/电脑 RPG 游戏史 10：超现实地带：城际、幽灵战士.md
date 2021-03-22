@@ -1,12 +1,12 @@
 
 ---
-title: 电脑 RPG 游戏史 #10：超现实地带：城际、幽灵战士
+title: '电脑 RPG 游戏史 #10：超现实地带：城际、幽灵战士'
 categories: 
     - 游戏
     - Indienova - indienova 文章
 author: Indienova - indienova 文章
 comments: false
-date: 2021-03-22 03:19:34
+date: 2021-03-22 03:46:17
 thumbnail: 'https://hive.indienova.com/ranch/crpg/2021/03/crpg-69429-9yTn.png'
 ---
 

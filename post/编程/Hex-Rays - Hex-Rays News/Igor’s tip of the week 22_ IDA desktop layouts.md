@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #22_ IDA desktop layouts
+title: 'Igor’s tip of the week #22_ IDA desktop layouts'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

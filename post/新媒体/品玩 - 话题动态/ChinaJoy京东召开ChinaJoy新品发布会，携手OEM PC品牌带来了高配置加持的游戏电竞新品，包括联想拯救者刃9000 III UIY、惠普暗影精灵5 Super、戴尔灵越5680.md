@@ -1,10 +1,10 @@
 
 ---
-title: ChinaJoy
+title: 'ChinaJoy
 
 
 
-京东召开ChinaJoy新品发布会，携手OEM PC品牌带来了高配置加持的游戏电竞新品，包括联想拯救者刃9000 III UIY、惠普暗影精灵5 Super、戴尔灵越5680...
+京东召开ChinaJoy新品发布会，携手OEM PC品牌带来了高配置加持的游戏电竞新品，包括联想拯救者刃9000 III UIY、惠普暗影精灵5 Super、戴尔灵越5680...'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

@@ -1,6 +1,6 @@
 
 ---
-title: 温柔的生活影像 _ Niall McDiarmid
+title: '温柔的生活影像 _ Niall McDiarmid'
 categories: 
     - 图片
     - CNU 视觉联盟 - 每日精选

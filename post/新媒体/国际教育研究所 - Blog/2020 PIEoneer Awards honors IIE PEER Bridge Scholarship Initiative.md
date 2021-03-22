@@ -1,6 +1,6 @@
 
 ---
-title: 2020 PIEoneer Awards honors IIE PEER Bridge Scholarship Initiative
+title: '2020 PIEoneer Awards honors IIE PEER Bridge Scholarship Initiative'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

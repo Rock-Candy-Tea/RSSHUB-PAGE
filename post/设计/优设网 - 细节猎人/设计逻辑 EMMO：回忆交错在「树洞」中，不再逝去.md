@@ -1,12 +1,12 @@
 
 ---
-title: 设计逻辑 EMMO：回忆交错在「树洞」中，不再逝去
+title: '设计逻辑 EMMO：回忆交错在「树洞」中，不再逝去'
 categories: 
     - 设计
     - 优设网 - 细节猎人
 author: 优设网 - 细节猎人
 comments: false
-date: Thu, 18 Mar 2021 03:20:49 GMT
+date: Thu, 18 Mar 2021 03:47:22 GMT
 thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/03/xb-emmo-sd2.png'
 ---
 

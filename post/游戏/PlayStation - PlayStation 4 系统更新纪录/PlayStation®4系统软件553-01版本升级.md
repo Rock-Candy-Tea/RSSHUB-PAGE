@@ -1,6 +1,6 @@
 
 ---
-title: PlayStation®4系统软件5.53-01版本升级
+title: 'PlayStation®4系统软件5.53-01版本升级'
 categories: 
     - 游戏
     - PlayStation - PlayStation 4 系统更新纪录

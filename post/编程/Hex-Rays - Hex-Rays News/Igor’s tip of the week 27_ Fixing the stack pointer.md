@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #27_ Fixing the stack pointer
+title: 'Igor’s tip of the week #27_ Fixing the stack pointer'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

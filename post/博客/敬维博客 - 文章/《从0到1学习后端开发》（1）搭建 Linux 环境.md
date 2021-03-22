@@ -1,12 +1,12 @@
 
 ---
-title: 《从0到1学习后端开发》（1）搭建 Linux 环境
+title: '《从0到1学习后端开发》（1）搭建 Linux 环境'
 categories: 
     - 博客
     - 敬维博客 - 文章
 author: 敬维博客 - 文章
 comments: false
-date: 2021-03-22 03:19:23
+date: 2021-03-22 03:46:08
 thumbnail: ''
 ---
 

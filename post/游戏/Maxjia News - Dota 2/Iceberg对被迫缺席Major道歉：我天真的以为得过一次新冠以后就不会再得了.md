@@ -1,6 +1,6 @@
 
 ---
-title: Iceberg对被迫缺席Major道歉：我天真的以为得过一次新冠以后就不会再得了
+title: 'Iceberg对被迫缺席Major道歉：我天真的以为得过一次新冠以后就不会再得了'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

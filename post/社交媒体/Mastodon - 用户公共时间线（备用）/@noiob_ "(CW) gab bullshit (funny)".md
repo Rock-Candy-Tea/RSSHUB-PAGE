@@ -1,6 +1,6 @@
 
 ---
-title: @noiob_ "(CW) gab bullshit (funny)"
+title: '@noiob_ "(CW) gab bullshit (funny)"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

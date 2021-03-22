@@ -1,6 +1,6 @@
 
 ---
-title: 爆料：魅族有望接入华为 HMS Core 服务能力
+title: '爆料：魅族有望接入华为 HMS Core 服务能力'
 categories: 
     - 新媒体
     - IT 之家 - 热榜

@@ -1,12 +1,12 @@
 
 ---
-title: OSChina 周二乱弹 —— 关于我的替身能力是社畜这件事，大家来讨论一下
+title: 'OSChina 周二乱弹 —— 关于我的替身能力是社畜这件事，大家来讨论一下'
 categories: 
     - 编程
     - 开源中国 - 用户博客
 author: 开源中国 - 用户博客
 comments: false
-date: 2021-03-22 03:15:06
+date: 2021-03-22 03:43:03
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-12821e8a9e8f6a25001d49d49c7c332c0fa.JPEG'
 ---
 

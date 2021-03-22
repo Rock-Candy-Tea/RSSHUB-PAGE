@@ -1,6 +1,6 @@
 
 ---
-title: Trade in Transition_ The Importance of Re-Establishing U.S. Trade Leadership
+title: 'Trade in Transition_ The Importance of Re-Establishing U.S. Trade Leadership'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

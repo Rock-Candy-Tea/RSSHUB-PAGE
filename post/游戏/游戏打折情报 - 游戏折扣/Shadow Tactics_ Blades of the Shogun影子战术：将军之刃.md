@@ -1,12 +1,12 @@
 
 ---
-title: Shadow Tactics_ Blades of the Shogun影子战术：将军之刃
+title: 'Shadow Tactics_ Blades of the Shogun影子战术：将军之刃'
 categories: 
     - 游戏
     - 游戏打折情报 - 游戏折扣
 author: 游戏打折情报 - 游戏折扣
 comments: false
-date: 2021-03-22 03:19:50
+date: 2021-03-22 03:46:29
 thumbnail: 'https://media.st.dl.pinyuncloud.com/steam/apps/418240/capsule_184x69.jpg'
 ---
 

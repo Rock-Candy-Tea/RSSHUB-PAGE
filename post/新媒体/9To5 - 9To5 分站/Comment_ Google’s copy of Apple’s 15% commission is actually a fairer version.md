@@ -1,6 +1,6 @@
 
 ---
-title: Comment_ Google’s copy of Apple’s 15% commission is actually a fairer version
+title: 'Comment_ Google’s copy of Apple’s 15% commission is actually a fairer version'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

@@ -1,6 +1,6 @@
 
 ---
-title: Robert Darnton〈工人暴動：聖塞佛倫街的貓大屠殺〉
+title: 'Robert Darnton〈工人暴動：聖塞佛倫街的貓大屠殺〉'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

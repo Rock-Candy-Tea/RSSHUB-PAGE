@@ -1,6 +1,6 @@
 
 ---
-title: The Latest Wrinkle in Crumple Theory, The New York Times
+title: 'The Latest Wrinkle in Crumple Theory, The New York Times'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

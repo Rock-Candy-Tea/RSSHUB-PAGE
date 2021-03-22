@@ -1,6 +1,6 @@
 
 ---
-title: The Way I Journal_ Gilles Vautier
+title: 'The Way I Journal_ Gilles Vautier'
 categories: 
     - 新媒体
     - Day One - Blog

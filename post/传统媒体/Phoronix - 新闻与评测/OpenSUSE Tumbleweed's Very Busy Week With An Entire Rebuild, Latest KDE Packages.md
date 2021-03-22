@@ -1,6 +1,6 @@
 
 ---
-title: OpenSUSE Tumbleweed's Very Busy Week With An Entire Rebuild, Latest KDE Packages
+title: 'OpenSUSE Tumbleweed's Very Busy Week With An Entire Rebuild, Latest KDE Packages'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

@@ -1,6 +1,6 @@
 
 ---
-title: LOLM直播开播规范
+title: 'LOLM直播开播规范'
 categories: 
     - 社交媒体
     - bilibili - link 公告

@@ -1,6 +1,6 @@
 
 ---
-title: One dead, 12 injured in separate Texas nightclub shootings
+title: 'One dead, 12 injured in separate Texas nightclub shootings'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

@@ -1,6 +1,6 @@
 
 ---
-title: The Observer view on bringing Assad to justice after a decade of war in Syria _ Observer editorial
+title: 'The Observer view on bringing Assad to justice after a decade of war in Syria _ Observer editorial'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - Editorial

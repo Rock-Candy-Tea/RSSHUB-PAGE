@@ -1,6 +1,6 @@
 
 ---
-title: 科学的 Web 调试代理实践
+title: '科学的 Web 调试代理实践'
 categories: 
     - 博客
     - Hexo - Next 主题博客

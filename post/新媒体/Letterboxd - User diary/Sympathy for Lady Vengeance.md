@@ -1,6 +1,6 @@
 
 ---
-title: Sympathy for Lady Vengeance
+title: 'Sympathy for Lady Vengeance'
 categories: 
     - 新媒体
     - Letterboxd - User diary

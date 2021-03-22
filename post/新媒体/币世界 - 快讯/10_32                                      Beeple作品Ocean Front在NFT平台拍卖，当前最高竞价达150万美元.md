@@ -1,14 +1,14 @@
 
 ---
-title: 10_32
+title: '10_32
                     
-                  Beeple作品Ocean Front在NFT平台拍卖，当前最高竞价达150万美元
+                  Beeple作品Ocean Front在NFT平台拍卖，当前最高竞价达150万美元'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

@@ -1,12 +1,12 @@
 
 ---
-title: QUIC_ next generation multiplexed transport over UDP
+title: 'QUIC_ next generation multiplexed transport over UDP'
 categories: 
     - 编程
     - wolley - host
 author: wolley - host
 comments: false
-date: 2021-03-22 03:14:55
+date: 2021-03-22 03:42:50
 thumbnail: ''
 ---
 

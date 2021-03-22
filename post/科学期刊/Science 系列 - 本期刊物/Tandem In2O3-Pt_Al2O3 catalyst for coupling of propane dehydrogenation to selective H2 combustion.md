@@ -1,6 +1,6 @@
 
 ---
-title: Tandem In2O3-Pt_Al2O3 catalyst for coupling of propane dehydrogenation to selective H2 combustion
+title: 'Tandem In2O3-Pt_Al2O3 catalyst for coupling of propane dehydrogenation to selective H2 combustion'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

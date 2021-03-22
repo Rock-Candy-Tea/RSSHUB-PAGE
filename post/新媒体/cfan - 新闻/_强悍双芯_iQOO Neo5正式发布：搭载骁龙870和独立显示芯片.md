@@ -1,6 +1,6 @@
 
 ---
-title: _强悍双芯_iQOO Neo5正式发布：搭载骁龙870和独立显示芯片
+title: '_强悍双芯_iQOO Neo5正式发布：搭载骁龙870和独立显示芯片'
 categories: 
     - 新媒体
     - cfan - 新闻

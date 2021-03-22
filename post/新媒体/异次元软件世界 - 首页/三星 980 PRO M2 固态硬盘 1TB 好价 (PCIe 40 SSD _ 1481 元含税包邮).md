@@ -1,6 +1,6 @@
 
 ---
-title: 三星 980 PRO M2 固态硬盘 1TB 好价 (PCIe 4.0 SSD _ 1481 元含税包邮)
+title: '三星 980 PRO M2 固态硬盘 1TB 好价 (PCIe 4.0 SSD _ 1481 元含税包邮)'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

@@ -1,13 +1,13 @@
 
 ---
-title: Donkey Kong Country_ Tropical Freeze
--25%
+title: 'Donkey Kong Country_ Tropical Freeze
+-25%'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/66ea30dd34616cfdf9cc4287749d5e151edc17c6/w500.jpg'
 ---
 

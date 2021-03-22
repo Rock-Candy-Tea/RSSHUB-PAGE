@@ -1,6 +1,6 @@
 
 ---
-title: Praeter 之傷
+title: 'Praeter 之傷'
 categories: 
     - 二次元
     - 動畫瘋 - 最後更新

@@ -1,6 +1,6 @@
 
 ---
-title: RISC-V XIP Support Queued Ahead Of Linux 5.13 To "eXecute In Place"
+title: 'RISC-V XIP Support Queued Ahead Of Linux 5.13 To "eXecute In Place"'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

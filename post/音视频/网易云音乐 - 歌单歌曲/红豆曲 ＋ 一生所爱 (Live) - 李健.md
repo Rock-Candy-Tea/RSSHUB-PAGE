@@ -1,6 +1,6 @@
 
 ---
-title: 红豆曲 ＋ 一生所爱 (Live) - 李健
+title: '红豆曲 ＋ 一生所爱 (Live) - 李健'
 categories: 
     - 音视频
     - 网易云音乐 - 歌单歌曲

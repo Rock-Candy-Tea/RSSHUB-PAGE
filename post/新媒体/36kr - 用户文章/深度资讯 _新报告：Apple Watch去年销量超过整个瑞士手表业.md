@@ -1,6 +1,6 @@
 
 ---
-title: 深度资讯 _新报告：Apple Watch去年销量超过整个瑞士手表业
+title: '深度资讯 _新报告：Apple Watch去年销量超过整个瑞士手表业'
 categories: 
     - 新媒体
     - 36kr - 用户文章

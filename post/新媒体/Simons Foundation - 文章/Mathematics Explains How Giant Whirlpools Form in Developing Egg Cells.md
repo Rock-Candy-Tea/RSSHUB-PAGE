@@ -1,6 +1,6 @@
 
 ---
-title: Mathematics Explains How Giant Whirlpools Form in Developing Egg Cells
+title: 'Mathematics Explains How Giant Whirlpools Form in Developing Egg Cells'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

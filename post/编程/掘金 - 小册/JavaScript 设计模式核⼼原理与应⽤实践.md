@@ -1,6 +1,6 @@
 
 ---
-title: JavaScript 设计模式核⼼原理与应⽤实践
+title: 'JavaScript 设计模式核⼼原理与应⽤实践'
 categories: 
     - 编程
     - 掘金 - 小册

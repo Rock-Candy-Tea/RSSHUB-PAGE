@@ -1,6 +1,6 @@
 
 ---
-title: Tech workers in China fear ageism in the industry
+title: 'Tech workers in China fear ageism in the industry'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

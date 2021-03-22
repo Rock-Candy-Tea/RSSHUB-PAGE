@@ -1,6 +1,6 @@
 
 ---
-title: A Thousand Times Good Night
+title: 'A Thousand Times Good Night'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

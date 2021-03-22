@@ -1,6 +1,6 @@
 
 ---
-title: _0v3r_ Psycho-Pass - Kanshikan Tsunemori Akane v01-06 (complete)
+title: '_0v3r_ Psycho-Pass - Kanshikan Tsunemori Akane v01-06 (complete)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

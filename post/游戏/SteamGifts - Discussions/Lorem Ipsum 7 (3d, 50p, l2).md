@@ -1,6 +1,6 @@
 
 ---
-title: Lorem Ipsum 7 (3d, 50p, l2)
+title: 'Lorem Ipsum 7 (3d, 50p, l2)'
 categories: 
     - 游戏
     - SteamGifts - Discussions

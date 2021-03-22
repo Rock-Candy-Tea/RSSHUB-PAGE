@@ -1,6 +1,6 @@
 
 ---
-title: 115 _ Go 编程模式：Kubernetes Visitor模式
+title: '115 _ Go 编程模式：Kubernetes Visitor模式'
 categories: 
     - 编程
     - 极客时间 - 专栏文章

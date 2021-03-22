@@ -1,6 +1,6 @@
 
 ---
-title: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis.
+title: 'The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

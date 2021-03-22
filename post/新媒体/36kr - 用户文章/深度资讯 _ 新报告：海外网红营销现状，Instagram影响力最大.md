@@ -1,6 +1,6 @@
 
 ---
-title: 深度资讯 _ 新报告：海外网红营销现状，Instagram影响力最大
+title: '深度资讯 _ 新报告：海外网红营销现状，Instagram影响力最大'
 categories: 
     - 新媒体
     - 36kr - 用户文章

@@ -1,6 +1,6 @@
 
 ---
-title: PLACER O SIMBOLISMO
+title: 'PLACER O SIMBOLISMO'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

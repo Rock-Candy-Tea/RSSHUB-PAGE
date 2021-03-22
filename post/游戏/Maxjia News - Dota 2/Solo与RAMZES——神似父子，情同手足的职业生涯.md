@@ -1,6 +1,6 @@
 
 ---
-title: Solo与RAMZES——神似父子，情同手足的职业生涯
+title: 'Solo与RAMZES——神似父子，情同手足的职业生涯'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

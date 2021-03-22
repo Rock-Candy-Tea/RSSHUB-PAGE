@@ -1,12 +1,12 @@
 
 ---
-title: 【LGR-(-11)】洛谷愚人节月赛
+title: '【LGR-(-11)】洛谷愚人节月赛'
 categories: 
     - 编程
     - 洛谷 - 近期比赛
 author: 洛谷 - 近期比赛
 comments: false
-date: 2021-03-22 03:15:04
+date: 2021-03-22 03:43:02
 thumbnail: ''
 ---
 
@@ -20,7 +20,7 @@ thumbnail: ''
                                     <span class="am-badge am-radius lg-bg-red">官方比赛</span><br>
                                     <span class="am-badge am-radius lg-bg-purple">ACM</span>                                </span>
                             <span class="lg-small lg-inline-up">
-                                    <strong class="lg-fg-green">未开始</strong>                                13天6时45分后                                <br>
+                                    <strong class="lg-fg-green">未开始</strong>                                13天6时17分后                                <br>
                                                                 </span>
                             <span class="lg-small lg-inline-up lg-right lg-md-hide">
                                     04-04 18:00<br>

@@ -1,6 +1,6 @@
 
 ---
-title: ChinaJoy 2019：小米手机首次参展
+title: 'ChinaJoy 2019：小米手机首次参展'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

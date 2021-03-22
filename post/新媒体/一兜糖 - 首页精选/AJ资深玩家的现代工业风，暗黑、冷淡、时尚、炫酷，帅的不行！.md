@@ -1,12 +1,12 @@
 
 ---
-title: AJ资深玩家的现代工业风，暗黑、冷淡、时尚、炫酷，帅的不行！
+title: 'AJ资深玩家的现代工业风，暗黑、冷淡、时尚、炫酷，帅的不行！'
 categories: 
     - 新媒体
     - 一兜糖 - 首页精选
 author: 一兜糖 - 首页精选
 comments: false
-date: 2021-03-22 03:17:07
+date: 2021-03-22 03:44:57
 thumbnail: 'https://aimg.yidoutang.com/upload/match/normal/202103/10/60482ea23e29e482.jpeg!home320'
 ---
 

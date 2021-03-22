@@ -1,12 +1,12 @@
 
 ---
-title: 这首 BGM 洗了我们所有人的脑
+title: '这首 BGM 洗了我们所有人的脑'
 categories: 
     - 社交媒体
     - bilibili - B 站每周必看
 author: bilibili - B 站每周必看
 comments: false
-date: 2021-03-22 03:17:22
+date: 2021-03-22 03:45:09
 thumbnail: 'http://i1.hdslb.com/bfs/archive/c8cd13f78f6a285ae8c8ea45dda6db22d2193fcf.jpg'
 ---
 

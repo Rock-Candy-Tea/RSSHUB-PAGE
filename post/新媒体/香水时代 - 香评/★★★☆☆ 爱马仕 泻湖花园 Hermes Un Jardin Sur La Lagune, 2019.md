@@ -1,6 +1,6 @@
 
 ---
-title: ★★★☆☆ 爱马仕 泻湖花园 Hermes Un Jardin Sur La Lagune, 2019
+title: '★★★☆☆ 爱马仕 泻湖花园 Hermes Un Jardin Sur La Lagune, 2019'
 categories: 
     - 新媒体
     - 香水时代 - 香评

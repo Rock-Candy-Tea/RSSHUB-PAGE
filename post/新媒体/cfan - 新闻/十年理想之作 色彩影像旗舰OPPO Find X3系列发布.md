@@ -1,6 +1,6 @@
 
 ---
-title: 十年理想之作 色彩影像旗舰OPPO Find X3系列发布
+title: '十年理想之作 色彩影像旗舰OPPO Find X3系列发布'
 categories: 
     - 新媒体
     - cfan - 新闻

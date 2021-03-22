@@ -1,8 +1,8 @@
 
 ---
-title: 【Little Nii - Padoboo Padoboo Chwistmas Weeaboo! Expert】Rigid 8_22_2020, 6_03_38 AM 
+title: '【Little Nii - Padoboo Padoboo Chwistmas Weeaboo! Expert】Rigid 8_22_2020, 6_03_38 AM 
 #1,759
- PP_0.00(0.00pp) - accuracy_ 64.17%...
+ PP_0.00(0.00pp) - accuracy_ 64.17%...'
 categories: 
     - 游戏
     - ScoreSaber - 用户动态

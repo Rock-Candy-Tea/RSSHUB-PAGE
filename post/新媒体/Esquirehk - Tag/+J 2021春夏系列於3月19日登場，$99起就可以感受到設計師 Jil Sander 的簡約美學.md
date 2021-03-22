@@ -1,6 +1,6 @@
 
 ---
-title: +J 2021春夏系列於3月19日登場，$99起就可以感受到設計師 Jil Sander 的簡約美學
+title: '+J 2021春夏系列於3月19日登場，$99起就可以感受到設計師 Jil Sander 的簡約美學'
 categories: 
     - 新媒体
     - Esquirehk - Tag

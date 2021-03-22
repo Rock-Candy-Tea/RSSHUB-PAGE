@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Pro - now available in the United States and Canada!
+title: 'DeepL Pro - now available in the United States and Canada!'
 categories: 
     - 新媒体
     - DeepL - Blog

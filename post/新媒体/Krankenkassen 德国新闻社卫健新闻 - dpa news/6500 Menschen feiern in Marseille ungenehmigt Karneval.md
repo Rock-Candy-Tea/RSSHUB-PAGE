@@ -1,6 +1,6 @@
 
 ---
-title: 6500 Menschen feiern in Marseille ungenehmigt Karneval
+title: '6500 Menschen feiern in Marseille ungenehmigt Karneval'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

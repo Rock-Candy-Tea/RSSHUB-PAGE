@@ -1,6 +1,6 @@
 
 ---
-title: 别跟我提_少女漫画的范畴_-Anitama新声
+title: '别跟我提_少女漫画的范畴_-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

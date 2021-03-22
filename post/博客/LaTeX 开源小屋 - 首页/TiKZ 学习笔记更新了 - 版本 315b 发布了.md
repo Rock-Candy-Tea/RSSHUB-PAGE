@@ -1,6 +1,6 @@
 
 ---
-title: TiKZ 学习笔记更新了 - 版本 3.1.5b 发布了
+title: 'TiKZ 学习笔记更新了 - 版本 3.1.5b 发布了'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

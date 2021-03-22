@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Chrome_ Heap-buffer-overflow in ClipboardWin__WriteBitmap
+title: '_Fixed_ Chrome_ Heap-buffer-overflow in ClipboardWin__WriteBitmap'
 categories: 
     - 编程
     - project-zero issues - issues

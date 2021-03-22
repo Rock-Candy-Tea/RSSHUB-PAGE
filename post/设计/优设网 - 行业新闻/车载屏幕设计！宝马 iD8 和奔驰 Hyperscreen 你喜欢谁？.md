@@ -1,6 +1,6 @@
 
 ---
-title: 车载屏幕设计！宝马 iD8 和奔驰 Hyperscreen 你喜欢谁？
+title: '车载屏幕设计！宝马 iD8 和奔驰 Hyperscreen 你喜欢谁？'
 categories: 
     - 设计
     - 优设网 - 行业新闻

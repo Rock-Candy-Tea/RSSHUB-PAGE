@@ -1,6 +1,6 @@
 
 ---
-title: Isolating Russia undermines European stability
+title: 'Isolating Russia undermines European stability'
 categories: 
     - 新媒体
     - CGTN - Opinions

@@ -1,6 +1,6 @@
 
 ---
-title: 【貓耳Cosplay募集】 Bad ∞ End ∞ Night／初音ミク
+title: '【貓耳Cosplay募集】 Bad ∞ End ∞ Night／初音ミク'
 categories: 
     - 社交媒体
     - 巴哈姆特 - 创作大厅

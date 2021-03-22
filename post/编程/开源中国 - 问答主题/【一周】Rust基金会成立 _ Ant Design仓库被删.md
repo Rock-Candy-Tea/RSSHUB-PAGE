@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】Rust基金会成立 _ Ant Design仓库被删
+title: '【一周】Rust基金会成立 _ Ant Design仓库被删'
 categories: 
     - 编程
     - 开源中国 - 问答主题

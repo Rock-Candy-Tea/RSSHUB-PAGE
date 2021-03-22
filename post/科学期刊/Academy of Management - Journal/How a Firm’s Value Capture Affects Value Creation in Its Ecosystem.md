@@ -1,6 +1,6 @@
 
 ---
-title: How a Firm’s Value Capture Affects Value Creation in Its Ecosystem
+title: 'How a Firm’s Value Capture Affects Value Creation in Its Ecosystem'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

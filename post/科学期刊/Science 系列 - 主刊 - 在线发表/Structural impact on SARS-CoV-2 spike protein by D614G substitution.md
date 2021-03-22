@@ -1,6 +1,6 @@
 
 ---
-title: Structural impact on SARS-CoV-2 spike protein by D614G substitution
+title: 'Structural impact on SARS-CoV-2 spike protein by D614G substitution'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

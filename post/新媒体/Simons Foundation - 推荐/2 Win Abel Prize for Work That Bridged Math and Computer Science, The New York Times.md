@@ -1,6 +1,6 @@
 
 ---
-title: 2 Win Abel Prize for Work That Bridged Math and Computer Science, The New York Times
+title: '2 Win Abel Prize for Work That Bridged Math and Computer Science, The New York Times'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

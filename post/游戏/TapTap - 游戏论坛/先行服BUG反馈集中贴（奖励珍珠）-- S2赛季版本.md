@@ -1,6 +1,6 @@
 
 ---
-title: 先行服BUG反馈集中贴（奖励珍珠）-- S2赛季版本
+title: '先行服BUG反馈集中贴（奖励珍珠）-- S2赛季版本'
 categories: 
     - 游戏
     - TapTap - 游戏论坛

@@ -1,6 +1,6 @@
 
 ---
-title: Gitea 1.12.6 is released
+title: 'Gitea 1.12.6 is released'
 categories: 
     - 编程
     - Gitea - 博客

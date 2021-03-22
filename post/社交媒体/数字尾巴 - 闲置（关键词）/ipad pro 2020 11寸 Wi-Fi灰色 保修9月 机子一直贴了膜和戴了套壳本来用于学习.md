@@ -1,9 +1,9 @@
 
 ---
-title: ipad pro 2020 11寸 Wi-Fi灰色 
+title: 'ipad pro 2020 11寸 Wi-Fi灰色 
 保修9月 
 机子一直贴了膜和戴了套壳
-本来用于学习...
+本来用于学习...'
 categories: 
     - 社交媒体
     - 数字尾巴 - 闲置（关键词）

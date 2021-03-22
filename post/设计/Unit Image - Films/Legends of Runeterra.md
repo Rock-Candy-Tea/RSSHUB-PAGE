@@ -1,6 +1,6 @@
 
 ---
-title: Legends of Runeterra
+title: 'Legends of Runeterra'
 categories: 
     - 设计
     - Unit Image - Films

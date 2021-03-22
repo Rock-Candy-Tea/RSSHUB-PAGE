@@ -1,6 +1,6 @@
 
 ---
-title: How will Binyamin Netanyahu fare in Israel’s election_
+title: 'How will Binyamin Netanyahu fare in Israel’s election_'
 categories: 
     - 传统媒体
     - The Economist - 分类

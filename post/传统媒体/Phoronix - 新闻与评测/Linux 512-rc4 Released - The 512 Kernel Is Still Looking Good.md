@@ -1,6 +1,6 @@
 
 ---
-title: Linux 5.12-rc4 Released - The 5.12 Kernel Is Still Looking Good
+title: 'Linux 5.12-rc4 Released - The 5.12 Kernel Is Still Looking Good'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

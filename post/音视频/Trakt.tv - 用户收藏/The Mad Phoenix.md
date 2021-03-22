@@ -1,6 +1,6 @@
 
 ---
-title: The Mad Phoenix
+title: 'The Mad Phoenix'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

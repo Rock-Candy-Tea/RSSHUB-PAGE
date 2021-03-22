@@ -1,12 +1,12 @@
 
 ---
-title: _Kaya Huang_ Ishtar
+title: '_Kaya Huang_ Ishtar'
 categories: 
     - 二次元
     - 紳士漫畫 - 最新
 author: 紳士漫畫 - 最新
 comments: false
-date: 2021-03-22 03:22:31
+date: 2021-03-22 03:48:50
 thumbnail: 'https://t3.wnacg.org/data/t/1162/44/16163418553756.jpg'
 ---
 

@@ -1,12 +1,12 @@
 
 ---
-title: 基于 Flowable 实现灵活可配置的中国式流程设计
+title: '基于 Flowable 实现灵活可配置的中国式流程设计'
 categories: 
     - 编程
     - GitChat - 最新文章
 author: GitChat - 最新文章
 comments: false
-date: Mon, 22 Mar 2021 03:14:46 GMT
+date: Mon, 22 Mar 2021 03:42:40 GMT
 thumbnail: ''
 ---
 

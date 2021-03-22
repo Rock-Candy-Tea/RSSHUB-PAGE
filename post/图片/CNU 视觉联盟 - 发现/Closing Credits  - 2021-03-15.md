@@ -1,6 +1,6 @@
 
 ---
-title: Closing Credits  - 2021-03-15
+title: 'Closing Credits  - 2021-03-15'
 categories: 
     - 图片
     - CNU 视觉联盟 - 发现

@@ -1,6 +1,6 @@
 
 ---
-title: LIVE DVD & Blu-ray『THE LAST LIVE』発売記念スペシャル生配信番組決定!
+title: 'LIVE DVD & Blu-ray『THE LAST LIVE』発売記念スペシャル生配信番組決定!'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 新闻

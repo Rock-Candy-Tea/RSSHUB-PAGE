@@ -1,6 +1,6 @@
 
 ---
-title: Cisco pulls out of in-person MWC Barcelona
+title: 'Cisco pulls out of in-person MWC Barcelona'
 categories: 
     - 传统媒体
     - Telecompaper - Search

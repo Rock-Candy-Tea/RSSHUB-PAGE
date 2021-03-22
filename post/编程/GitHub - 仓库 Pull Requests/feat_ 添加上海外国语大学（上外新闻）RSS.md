@@ -1,6 +1,6 @@
 
 ---
-title: feat_ 添加上海外国语大学（上外新闻）RSS
+title: 'feat_ 添加上海外国语大学（上外新闻）RSS'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

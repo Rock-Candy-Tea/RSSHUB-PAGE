@@ -1,7 +1,7 @@
 
 ---
-title: 如何看待"CCF关于恢复举办NOI2020冬令营(NOIWC2020)的通知"_ - kkksc03的回答 - 知乎
-https___www.zhihu.com_question_404258901_answer_1311141420
+title: '如何看待"CCF关于恢复举办NOI2020冬令营(NOIWC2020)的通知"_ - kkksc03的回答 - 知乎
+https___www.zhihu.com_question_404258901_answer_1311141420'
 categories: 
     - 编程
     - 洛谷 - 用户动态

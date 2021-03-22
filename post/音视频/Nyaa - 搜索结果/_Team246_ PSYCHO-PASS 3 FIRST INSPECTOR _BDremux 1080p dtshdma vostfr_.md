@@ -1,6 +1,6 @@
 
 ---
-title: _Team246_ PSYCHO-PASS 3 FIRST INSPECTOR _BDremux 1080p dtshdma vostfr_
+title: '_Team246_ PSYCHO-PASS 3 FIRST INSPECTOR _BDremux 1080p dtshdma vostfr_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

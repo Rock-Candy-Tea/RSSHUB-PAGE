@@ -1,6 +1,6 @@
 
 ---
-title: 「干货」彩虹六号Finka折磨教学
+title: '「干货」彩虹六号Finka折磨教学'
 categories: 
     - 游戏
     - 小黑盒 - 游戏新闻

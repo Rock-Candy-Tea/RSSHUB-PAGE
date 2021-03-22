@@ -1,12 +1,12 @@
 
 ---
-title: ￥48.3 - macOS 文件管理指南
+title: '￥48.3 - macOS 文件管理指南'
 categories: 
     - 新媒体
     - 少数派 sspai - 最新上架付费专栏
 author: 少数派 sspai - 最新上架付费专栏
 comments: false
-date: 2021-03-22 03:16:38
+date: 2021-03-22 03:44:35
 thumbnail: 'https://cdn.sspai.com/article/27d0ebb1-bb97-1a1e-6d15-da064b8f5011.jpg'
 ---
 

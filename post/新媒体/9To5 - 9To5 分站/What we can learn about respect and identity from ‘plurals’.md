@@ -1,6 +1,6 @@
 
 ---
-title: What we can learn about respect and identity from ‘plurals’
+title: 'What we can learn about respect and identity from ‘plurals’'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

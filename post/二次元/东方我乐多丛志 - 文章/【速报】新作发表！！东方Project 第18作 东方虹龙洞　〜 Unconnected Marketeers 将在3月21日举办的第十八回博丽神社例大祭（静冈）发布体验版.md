@@ -1,6 +1,6 @@
 
 ---
-title: 【速报】新作发表！！东方Project 第18作 东方虹龙洞　〜 Unconnected Marketeers. 将在3月21日举办的第十八回博丽神社例大祭（静冈）发布体验版
+title: '【速报】新作发表！！东方Project 第18作 东方虹龙洞　〜 Unconnected Marketeers. 将在3月21日举办的第十八回博丽神社例大祭（静冈）发布体验版'
 categories: 
     - 二次元
     - 东方我乐多丛志 - 文章

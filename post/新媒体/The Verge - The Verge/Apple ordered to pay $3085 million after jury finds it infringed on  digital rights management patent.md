@@ -1,6 +1,6 @@
 
 ---
-title: Apple ordered to pay $308.5 million after jury finds it infringed on  digital rights management patent
+title: 'Apple ordered to pay $308.5 million after jury finds it infringed on  digital rights management patent'
 categories: 
     - 新媒体
     - The Verge - The Verge

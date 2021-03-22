@@ -1,6 +1,6 @@
 
 ---
-title: 谁发明了AI？
+title: '谁发明了AI？'
 categories: 
     - 金融
     - DT 财经 - 数据侠专栏

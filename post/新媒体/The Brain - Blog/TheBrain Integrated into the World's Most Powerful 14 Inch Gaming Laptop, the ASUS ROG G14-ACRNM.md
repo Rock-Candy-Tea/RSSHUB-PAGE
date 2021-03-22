@@ -1,6 +1,6 @@
 
 ---
-title: TheBrain Integrated into the World's Most Powerful 14 Inch Gaming Laptop, the ASUS ROG G14-ACRNM
+title: 'TheBrain Integrated into the World's Most Powerful 14 Inch Gaming Laptop, the ASUS ROG G14-ACRNM'
 categories: 
     - 新媒体
     - The Brain - Blog

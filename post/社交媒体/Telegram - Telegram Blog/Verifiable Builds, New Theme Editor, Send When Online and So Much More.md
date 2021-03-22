@@ -1,6 +1,6 @@
 
 ---
-title: Verifiable Builds, New Theme Editor, Send When Online and So Much More
+title: 'Verifiable Builds, New Theme Editor, Send When Online and So Much More'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

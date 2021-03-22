@@ -1,6 +1,6 @@
 
 ---
-title: ☆☆☆☆☆ 娇兰 艺术沙龙 - 土耳其玫瑰（野蛮玫瑰） Guerlain Rose Barbare, 2005
+title: '☆☆☆☆☆ 娇兰 艺术沙龙 - 土耳其玫瑰（野蛮玫瑰） Guerlain Rose Barbare, 2005'
 categories: 
     - 新媒体
     - 香水时代 - 香评

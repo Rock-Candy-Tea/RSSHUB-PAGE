@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;《漫威復仇者聯盟》公布新資料片「為瓦干達而戰」 非洲超級英雄「黑豹」登場
+title: '_General_&nbsp;《漫威復仇者聯盟》公布新資料片「為瓦干達而戰」 非洲超級英雄「黑豹」登場'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/8eea8d47e6d8f5d11aae7f99ff1bu205.JPG?v=1616125240631'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Set for Life
+title: 'Set for Life'
 categories: 
     - 音视频
     - 柠檬 私房歌 (ningmeng.name) - 私房歌

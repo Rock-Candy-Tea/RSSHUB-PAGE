@@ -1,6 +1,6 @@
 
 ---
-title: _Anime Land_ Psycho-Pass 3 First Inspector (BDRip 720p Hi10P QAAC) _2B83F2A8_.mkv
+title: '_Anime Land_ Psycho-Pass 3 First Inspector (BDRip 720p Hi10P QAAC) _2B83F2A8_.mkv'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

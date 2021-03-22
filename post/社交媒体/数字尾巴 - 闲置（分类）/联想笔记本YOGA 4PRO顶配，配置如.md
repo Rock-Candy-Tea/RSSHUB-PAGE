@@ -1,6 +1,6 @@
 
 ---
-title: 联想笔记本YOGA 4PRO顶配，配置如
+title: '联想笔记本YOGA 4PRO顶配，配置如'
 categories: 
     - 社交媒体
     - 数字尾巴 - 闲置（分类）

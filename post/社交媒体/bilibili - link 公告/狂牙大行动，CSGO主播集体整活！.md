@@ -1,6 +1,6 @@
 
 ---
-title: 狂牙大行动，CSGO主播集体整活！
+title: '狂牙大行动，CSGO主播集体整活！'
 categories: 
     - 社交媒体
     - bilibili - link 公告

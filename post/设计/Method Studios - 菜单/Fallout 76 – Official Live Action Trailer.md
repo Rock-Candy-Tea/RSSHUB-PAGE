@@ -1,12 +1,12 @@
 
 ---
-title: Fallout 76 – Official Live Action Trailer
+title: 'Fallout 76 – Official Live Action Trailer'
 categories: 
     - 设计
     - Method Studios - 菜单
 author: Method Studios - 菜单
 comments: false
-date: 2021-03-22 03:20:45
+date: 2021-03-22 03:47:18
 thumbnail: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/79/f3/79f314d3-854c-44d1-b588-5cd86096ac4f/fallout_2.jpg'
 ---
 

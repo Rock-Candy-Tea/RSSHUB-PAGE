@@ -1,6 +1,6 @@
 
 ---
-title: Ministers from around the world join Global Commission on People-Centred Clean Energy Transitions
+title: 'Ministers from around the world join Global Commission on People-Centred Clean Energy Transitions'
 categories: 
     - 新媒体
     - 国际能源署 - 新闻及活动

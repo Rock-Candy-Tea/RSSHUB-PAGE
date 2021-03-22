@@ -1,6 +1,6 @@
 
 ---
-title: 流浪者之谷 - Shadow of the Colossus Trophy Guide
+title: '流浪者之谷 - Shadow of the Colossus Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

@@ -1,6 +1,6 @@
 
 ---
-title: 【two hands】显卡又涨价？
+title: '【two hands】显卡又涨价？'
 categories: 
     - 新媒体
     - 网易号 - 更新

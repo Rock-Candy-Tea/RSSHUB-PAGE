@@ -1,6 +1,6 @@
 
 ---
-title: 林可币（LINK）周期性增发报告 - 林可
+title: '林可币（LINK）周期性增发报告 - 林可'
 categories: 
     - 新媒体
     - Matataki - 作者创作

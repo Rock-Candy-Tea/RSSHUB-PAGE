@@ -1,6 +1,6 @@
 
 ---
-title: Platforms, bundling and kill zones
+title: 'Platforms, bundling and kill zones'
 categories: 
     - 博客
     - archdaily - 首页

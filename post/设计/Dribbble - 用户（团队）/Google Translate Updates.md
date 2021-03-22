@@ -1,6 +1,6 @@
 
 ---
-title: Google Translate Updates
+title: 'Google Translate Updates'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

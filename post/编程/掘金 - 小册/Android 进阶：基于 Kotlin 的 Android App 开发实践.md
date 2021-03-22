@@ -1,6 +1,6 @@
 
 ---
-title: Android 进阶：基于 Kotlin 的 Android App 开发实践
+title: 'Android 进阶：基于 Kotlin 的 Android App 开发实践'
 categories: 
     - 编程
     - 掘金 - 小册

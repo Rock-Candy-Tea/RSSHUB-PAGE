@@ -1,6 +1,6 @@
 
 ---
-title: Understanding Discrete Growth in Semiconductor Nanocrystals_ Nanoplatelets and Magic-Sized Clusters
+title: 'Understanding Discrete Growth in Semiconductor Nanocrystals_ Nanoplatelets and Magic-Sized Clusters'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

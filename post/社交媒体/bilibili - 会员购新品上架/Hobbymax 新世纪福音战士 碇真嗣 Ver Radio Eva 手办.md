@@ -1,12 +1,12 @@
 
 ---
-title: Hobbymax 新世纪福音战士 碇真嗣 Ver. Radio Eva 手办
+title: 'Hobbymax 新世纪福音战士 碇真嗣 Ver. Radio Eva 手办'
 categories: 
     - 社交媒体
     - bilibili - 会员购新品上架
 author: bilibili - 会员购新品上架
 comments: false
-date: 2021-03-22 03:17:26
+date: 2021-03-22 03:45:07
 thumbnail: 'https://i0.hdslb.com/bfs/mall/mall/fb/36/fb3622019240984bed36f59460a3d73e.png'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Region Restricted Gifts
+title: 'Region Restricted Gifts'
 categories: 
     - 游戏
     - SteamGifts - Discussions

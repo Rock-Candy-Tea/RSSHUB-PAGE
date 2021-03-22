@@ -1,6 +1,6 @@
 
 ---
-title: Trudeau condemns closed-door espionage trial of Canadian in China
+title: 'Trudeau condemns closed-door espionage trial of Canadian in China'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - China

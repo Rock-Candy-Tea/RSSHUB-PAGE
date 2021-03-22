@@ -1,6 +1,6 @@
 
 ---
-title: Nokia commercializes next-generation 5G Cloud RAN
+title: 'Nokia commercializes next-generation 5G Cloud RAN'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

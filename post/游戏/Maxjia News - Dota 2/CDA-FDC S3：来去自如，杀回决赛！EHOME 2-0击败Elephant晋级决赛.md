@@ -1,6 +1,6 @@
 
 ---
-title: CDA-FDC S3：来去自如，杀回决赛！EHOME 2-0击败Elephant晋级决赛
+title: 'CDA-FDC S3：来去自如，杀回决赛！EHOME 2-0击败Elephant晋级决赛'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

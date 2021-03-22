@@ -1,6 +1,6 @@
 
 ---
-title: _BDMV_-_PSYCHO-PASS 2_-_サイコパス 2_
+title: '_BDMV_-_PSYCHO-PASS 2_-_サイコパス 2_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

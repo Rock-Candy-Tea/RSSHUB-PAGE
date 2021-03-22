@@ -1,12 +1,12 @@
 
 ---
-title: 新加入和繼續加入的顧客皆可受惠！現正舉行「Nintendo Switch Online 黃金點數活動」
+title: '新加入和繼續加入的顧客皆可受惠！現正舉行「Nintendo Switch Online 黃金點數活動」'
 categories: 
     - 游戏
     - Nintendo - 首页资讯（香港）
 author: Nintendo - 首页资讯（香港）
 comments: false
-date: 2021-03-22 03:19:51
+date: 2021-03-22 03:46:18
 thumbnail: 'https://www.nintendo.com.hk/topics/article/article_img/a_210316_01/top.png'
 ---
 

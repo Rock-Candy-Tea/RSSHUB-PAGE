@@ -1,6 +1,6 @@
 
 ---
-title: Auric Network：锚定黄金的算法币 - 插兜小哪吒
+title: 'Auric Network：锚定黄金的算法币 - 插兜小哪吒'
 categories: 
     - 新媒体
     - Matataki - 最热作品

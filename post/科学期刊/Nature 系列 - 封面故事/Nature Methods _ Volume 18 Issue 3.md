@@ -1,12 +1,12 @@
 
 ---
-title: Nature Methods _ Volume 18 Issue 3
+title: 'Nature Methods _ Volume 18 Issue 3'
 categories: 
     - 科学期刊
     - Nature 系列 - 封面故事
 author: Nature 系列 - 封面故事
 comments: false
-date: Mon, 22 Mar 2021 03:19:10 GMT
+date: Mon, 22 Mar 2021 03:46:06 GMT
 thumbnail: 'https://media.springernature.com/w600/springer-static/cover-hires/journal/41592/18/3?as=webp'
 ---
 

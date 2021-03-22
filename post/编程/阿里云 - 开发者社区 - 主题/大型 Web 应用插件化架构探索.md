@@ -1,12 +1,12 @@
 
 ---
-title: 大型 Web 应用插件化架构探索
+title: '大型 Web 应用插件化架构探索'
 categories: 
     - 编程
     - 阿里云 - 开发者社区 - 主题
 author: 阿里云 - 开发者社区 - 主题
 comments: false
-date: 2021-03-22 03:14:54
+date: 2021-03-22 03:42:57
 thumbnail: ''
 ---
 

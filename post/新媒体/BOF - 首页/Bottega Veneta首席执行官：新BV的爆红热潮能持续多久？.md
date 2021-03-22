@@ -1,6 +1,6 @@
 
 ---
-title: Bottega Veneta首席执行官：新BV的爆红热潮能持续多久？
+title: 'Bottega Veneta首席执行官：新BV的爆红热潮能持续多久？'
 categories: 
     - 新媒体
     - BOF - 首页

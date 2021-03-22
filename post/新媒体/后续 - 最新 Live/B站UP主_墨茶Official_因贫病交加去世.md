@@ -1,6 +1,6 @@
 
 ---
-title: B站UP主_墨茶Official_因贫病交加去世
+title: 'B站UP主_墨茶Official_因贫病交加去世'
 categories: 
     - 新媒体
     - 后续 - 最新 Live

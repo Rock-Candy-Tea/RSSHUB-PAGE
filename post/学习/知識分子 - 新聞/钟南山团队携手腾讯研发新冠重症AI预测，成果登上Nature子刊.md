@@ -1,6 +1,6 @@
 
 ---
-title: 钟南山团队携手腾讯研发新冠重症AI预测，成果登上Nature子刊
+title: '钟南山团队携手腾讯研发新冠重症AI预测，成果登上Nature子刊'
 categories: 
     - 学习
     - 知識分子 - 新聞

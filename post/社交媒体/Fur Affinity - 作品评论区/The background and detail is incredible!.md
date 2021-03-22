@@ -1,6 +1,6 @@
 
 ---
-title: The background and detail is incredible!
+title: 'The background and detail is incredible!'
 categories: 
     - 社交媒体
     - Fur Affinity - 作品评论区

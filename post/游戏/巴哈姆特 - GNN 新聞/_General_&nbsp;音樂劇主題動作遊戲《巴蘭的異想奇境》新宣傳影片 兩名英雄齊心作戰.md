@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;音樂劇主題動作遊戲《巴蘭的異想奇境》新宣傳影片 兩名英雄齊心作戰
+title: '_General_&nbsp;音樂劇主題動作遊戲《巴蘭的異想奇境》新宣傳影片 兩名英雄齊心作戰'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: ''
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: _TSDM自購__201111_PSYCHO-PASS サイコパス 3 Original Soundtrack／音楽：菅野祐悟_Hi-Res→320K_
+title: '_TSDM自購__201111_PSYCHO-PASS サイコパス 3 Original Soundtrack／音楽：菅野祐悟_Hi-Res→320K_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

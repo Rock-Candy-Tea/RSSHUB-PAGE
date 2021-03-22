@@ -1,6 +1,6 @@
 
 ---
-title: roamresearch与图谱与三种结构
+title: 'roamresearch与图谱与三种结构'
 categories: 
     - 新媒体
     - Matataki - 收藏夹

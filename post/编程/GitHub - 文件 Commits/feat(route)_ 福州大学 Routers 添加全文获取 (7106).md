@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ 福州大学 Routers 添加全文获取 (#7106)
+title: 'feat(route)_ 福州大学 Routers 添加全文获取 (#7106)'
 categories: 
     - 编程
     - GitHub - 文件 Commits

@@ -1,6 +1,6 @@
 
 ---
-title: Open theorizing in management and organization studies
+title: 'Open theorizing in management and organization studies'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

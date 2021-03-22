@@ -1,6 +1,6 @@
 
 ---
-title: SIA Statement on Meeting with U.S. Secretary of Commerce Gina Raimondo
+title: 'SIA Statement on Meeting with U.S. Secretary of Commerce Gina Raimondo'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

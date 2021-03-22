@@ -1,6 +1,6 @@
 
 ---
-title: play icon  for sales
+title: 'play icon  for sales'
 categories: 
     - 设计
     - Dribbble - 关键词

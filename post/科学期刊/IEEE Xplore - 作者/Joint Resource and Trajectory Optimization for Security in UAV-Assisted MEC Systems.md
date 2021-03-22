@@ -1,6 +1,6 @@
 
 ---
-title: Joint Resource and Trajectory Optimization for Security in UAV-Assisted MEC Systems
+title: 'Joint Resource and Trajectory Optimization for Security in UAV-Assisted MEC Systems'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

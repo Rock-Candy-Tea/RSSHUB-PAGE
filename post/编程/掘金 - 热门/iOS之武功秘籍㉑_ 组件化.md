@@ -1,6 +1,6 @@
 
 ---
-title: iOS之武功秘籍㉑_ 组件化
+title: 'iOS之武功秘籍㉑_ 组件化'
 categories: 
     - 编程
     - 掘金 - 热门

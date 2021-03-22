@@ -1,6 +1,6 @@
 
 ---
-title: Science Translational Medicine _ Vol. 13 No. 585
+title: 'Science Translational Medicine _ Vol. 13 No. 585'
 categories: 
     - 科学期刊
     - Science 系列 - 封面故事

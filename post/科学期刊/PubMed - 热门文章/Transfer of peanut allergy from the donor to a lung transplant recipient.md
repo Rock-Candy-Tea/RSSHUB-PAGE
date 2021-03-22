@@ -1,6 +1,6 @@
 
 ---
-title: Transfer of peanut allergy from the donor to a lung transplant recipient.
+title: 'Transfer of peanut allergy from the donor to a lung transplant recipient.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

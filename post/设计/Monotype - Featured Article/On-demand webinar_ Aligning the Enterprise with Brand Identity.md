@@ -1,6 +1,6 @@
 
 ---
-title: On-demand webinar_ Aligning the Enterprise with Brand Identity
+title: 'On-demand webinar_ Aligning the Enterprise with Brand Identity'
 categories: 
     - 设计
     - Monotype - Featured Article

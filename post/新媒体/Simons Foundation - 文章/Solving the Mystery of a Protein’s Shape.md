@@ -1,6 +1,6 @@
 
 ---
-title: Solving the Mystery of a Protein’s Shape
+title: 'Solving the Mystery of a Protein’s Shape'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

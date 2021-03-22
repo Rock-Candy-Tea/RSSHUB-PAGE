@@ -1,6 +1,6 @@
 
 ---
-title: How a Company Can Help a City
+title: 'How a Company Can Help a City'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

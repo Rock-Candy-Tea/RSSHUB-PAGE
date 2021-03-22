@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 读过这本书_ 《美丽新世界》★★★★★
+title: 'DIYgod 读过这本书_ 《美丽新世界》★★★★★'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

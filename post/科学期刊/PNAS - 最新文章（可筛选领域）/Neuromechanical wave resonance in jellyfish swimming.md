@@ -1,6 +1,6 @@
 
 ---
-title: Neuromechanical wave resonance in jellyfish swimming
+title: 'Neuromechanical wave resonance in jellyfish swimming'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

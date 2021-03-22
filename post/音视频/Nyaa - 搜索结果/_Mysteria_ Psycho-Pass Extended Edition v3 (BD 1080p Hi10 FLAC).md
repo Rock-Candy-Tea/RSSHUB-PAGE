@@ -1,6 +1,6 @@
 
 ---
-title: _Mysteria_ Psycho-Pass Extended Edition v3 (BD 1080p Hi10 FLAC)
+title: '_Mysteria_ Psycho-Pass Extended Edition v3 (BD 1080p Hi10 FLAC)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

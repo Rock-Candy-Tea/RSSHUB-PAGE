@@ -1,6 +1,6 @@
 
 ---
-title: Ghost in the Machine_ On Organizational Theory in the Age of Machine Learning
+title: 'Ghost in the Machine_ On Organizational Theory in the Age of Machine Learning'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

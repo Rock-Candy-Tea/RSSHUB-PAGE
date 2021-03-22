@@ -1,6 +1,6 @@
 
 ---
-title: 【安全通报】Apache Solr stream.url SSRF与任意文件读取漏...
+title: '【安全通报】Apache Solr stream.url SSRF与任意文件读取漏...'
 categories: 
     - 编程
     - NOSEC.org - Posts

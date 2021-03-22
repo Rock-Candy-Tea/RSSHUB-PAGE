@@ -1,6 +1,6 @@
 
 ---
-title: 武士的起点 - Nioh Trophy Guide
+title: '武士的起点 - Nioh Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

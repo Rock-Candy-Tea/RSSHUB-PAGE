@@ -1,6 +1,6 @@
 
 ---
-title: 怪物猎人 世界：冰原世纪,Monster Hunter World_ Iceborne,怪猎冰原,MHWI,怪物猎人 世界 冰原《怪物猎人 世界：冰原世纪》将于8月28日公布最后一弹更新详情
+title: '怪物猎人 世界：冰原世纪,Monster Hunter World_ Iceborne,怪猎冰原,MHWI,怪物猎人 世界 冰原《怪物猎人 世界：冰原世纪》将于8月28日公布最后一弹更新详情'
 categories: 
     - 游戏
     - 游戏时光 - 关键词资讯

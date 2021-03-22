@@ -1,12 +1,12 @@
 
 ---
-title: State Of Decay 3
+title: 'State Of Decay 3'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/sod/566168590-1596050269/sod_mastercolor_srgb_0307.jpg'
 ---
 

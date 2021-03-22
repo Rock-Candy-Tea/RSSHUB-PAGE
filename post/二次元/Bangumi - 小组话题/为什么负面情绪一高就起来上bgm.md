@@ -1,6 +1,6 @@
 
 ---
-title: 为什么负面情绪一高就起来上bgm.......
+title: '为什么负面情绪一高就起来上bgm.......'
 categories: 
     - 二次元
     - Bangumi - 小组话题

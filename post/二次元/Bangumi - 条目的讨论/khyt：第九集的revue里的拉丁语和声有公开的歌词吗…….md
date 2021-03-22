@@ -1,6 +1,6 @@
 
 ---
-title: khyt：第九集的revue里的拉丁语和声有公开的歌词吗……
+title: 'khyt：第九集的revue里的拉丁语和声有公开的歌词吗……'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

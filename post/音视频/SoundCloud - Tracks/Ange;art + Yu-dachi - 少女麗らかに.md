@@ -1,6 +1,6 @@
 
 ---
-title: Ange;art + Yu-dachi - 少女麗らかに
+title: 'Ange;art + Yu-dachi - 少女麗らかに'
 categories: 
     - 音视频
     - SoundCloud - Tracks

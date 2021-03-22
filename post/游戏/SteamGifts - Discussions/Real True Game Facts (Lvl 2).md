@@ -1,6 +1,6 @@
 
 ---
-title: Real True Game Facts (Lvl 2)
+title: 'Real True Game Facts (Lvl 2)'
 categories: 
     - 游戏
     - SteamGifts - Discussions

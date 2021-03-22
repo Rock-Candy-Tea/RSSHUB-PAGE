@@ -1,6 +1,6 @@
 
 ---
-title: 【追記・更新】【カルデア広報局より】「Fate_Grand Order ウィンターキャラバン オンライン 2021」Vol.3で発表の新情報について
+title: '【追記・更新】【カルデア広報局より】「Fate_Grand Order ウィンターキャラバン オンライン 2021」Vol.3で発表の新情報について'
 categories: 
     - 游戏
     - Fate Grand Order - News

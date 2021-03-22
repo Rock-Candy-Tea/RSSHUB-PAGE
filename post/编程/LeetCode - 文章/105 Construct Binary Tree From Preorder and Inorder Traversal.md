@@ -1,6 +1,6 @@
 
 ---
-title: 105. Construct Binary Tree From Preorder and Inorder Traversal
+title: '105. Construct Binary Tree From Preorder and Inorder Traversal'
 categories: 
     - 编程
     - LeetCode - 文章

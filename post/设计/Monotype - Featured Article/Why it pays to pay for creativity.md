@@ -1,6 +1,6 @@
 
 ---
-title: Why it pays to pay for creativity.
+title: 'Why it pays to pay for creativity.'
 categories: 
     - 设计
     - Monotype - Featured Article

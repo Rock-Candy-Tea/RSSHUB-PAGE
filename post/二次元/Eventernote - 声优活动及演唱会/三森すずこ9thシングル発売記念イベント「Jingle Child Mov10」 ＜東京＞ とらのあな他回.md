@@ -1,12 +1,12 @@
 
 ---
-title: 三森すずこ9thシングル発売記念イベント「Jingle Child Mov.10」 ＜東京＞ とらのあな他回
+title: '三森すずこ9thシングル発売記念イベント「Jingle Child Mov.10」 ＜東京＞ とらのあな他回'
 categories: 
     - 二次元
     - Eventernote - 声优活动及演唱会
 author: Eventernote - 声优活动及演唱会
 comments: false
-date: 2021-03-22 03:22:27
+date: 2021-03-22 03:48:47
 thumbnail: ''
 ---
 

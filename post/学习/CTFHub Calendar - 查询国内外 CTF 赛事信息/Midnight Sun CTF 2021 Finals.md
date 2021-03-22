@@ -1,6 +1,6 @@
 
 ---
-title: Midnight Sun CTF 2021 Finals
+title: 'Midnight Sun CTF 2021 Finals'
 categories: 
     - 学习
     - CTFHub Calendar - 查询国内外 CTF 赛事信息

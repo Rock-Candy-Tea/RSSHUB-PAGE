@@ -1,6 +1,6 @@
 
 ---
-title: Star Wars_ The Rise of Skywalker
+title: 'Star Wars_ The Rise of Skywalker'
 categories: 
     - 新媒体
     - Letterboxd - User diary

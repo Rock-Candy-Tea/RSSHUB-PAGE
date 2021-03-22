@@ -1,6 +1,6 @@
 
 ---
-title: MEDIA ADVISORY45th President Donald J. Trump will be interviewed tonight at 7pm EDT on "Fox News Primetime" with host Maria Bartiromo.Enjoy!
+title: 'MEDIA ADVISORY45th President Donald J. Trump will be interviewed tonight at 7pm EDT on "Fox News Primetime" with host Maria Bartiromo.Enjoy!'
 categories: 
     - 社交媒体
     - Gab - 用戶時間線

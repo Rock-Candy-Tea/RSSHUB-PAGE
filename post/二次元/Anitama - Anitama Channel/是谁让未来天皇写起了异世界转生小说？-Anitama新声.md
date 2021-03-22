@@ -1,6 +1,6 @@
 
 ---
-title: 是谁让未来天皇写起了异世界转生小说？-Anitama新声
+title: '是谁让未来天皇写起了异世界转生小说？-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

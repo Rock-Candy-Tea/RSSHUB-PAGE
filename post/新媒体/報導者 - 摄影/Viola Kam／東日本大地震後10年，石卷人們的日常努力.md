@@ -1,6 +1,6 @@
 
 ---
-title: Viola Kam／東日本大地震後10年，石卷人們的日常努力
+title: 'Viola Kam／東日本大地震後10年，石卷人們的日常努力'
 categories: 
     - 新媒体
     - 報導者 - 摄影

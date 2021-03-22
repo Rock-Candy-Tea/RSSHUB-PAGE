@@ -1,6 +1,6 @@
 
 ---
-title: ★☆☆☆☆ 纳茜素 她的同名女士淡香水 Narciso Rodriguez For Her EDT, 2003
+title: '★☆☆☆☆ 纳茜素 她的同名女士淡香水 Narciso Rodriguez For Her EDT, 2003'
 categories: 
     - 新媒体
     - 香水时代 - 香评

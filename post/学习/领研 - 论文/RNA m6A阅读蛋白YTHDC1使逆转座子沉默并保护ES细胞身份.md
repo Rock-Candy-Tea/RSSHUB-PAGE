@@ -1,6 +1,6 @@
 
 ---
-title: RNA m6A阅读蛋白YTHDC1使逆转座子沉默并保护ES细胞身份
+title: 'RNA m6A阅读蛋白YTHDC1使逆转座子沉默并保护ES细胞身份'
 categories: 
     - 学习
     - 领研 - 论文

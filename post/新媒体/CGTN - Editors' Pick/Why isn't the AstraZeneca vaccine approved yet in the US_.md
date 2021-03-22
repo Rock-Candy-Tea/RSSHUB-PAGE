@@ -1,6 +1,6 @@
 
 ---
-title: Why isn't the AstraZeneca vaccine approved yet in the U.S._
+title: 'Why isn't the AstraZeneca vaccine approved yet in the U.S._'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

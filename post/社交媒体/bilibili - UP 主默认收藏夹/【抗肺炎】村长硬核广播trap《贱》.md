@@ -1,6 +1,6 @@
 
 ---
-title: 【抗肺炎】村长硬核广播trap《贱》
+title: '【抗肺炎】村长硬核广播trap《贱》'
 categories: 
     - 社交媒体
     - bilibili - UP 主默认收藏夹

@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想玩这个游戏_ 《极乐迪斯科 Disco Elysium》
+title: 'DIYgod 想玩这个游戏_ 《极乐迪斯科 Disco Elysium》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

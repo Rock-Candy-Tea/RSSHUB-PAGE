@@ -1,12 +1,12 @@
 
 ---
-title: 映画ヒーリングっど♥プリキュア ゆめのまちでキュン！っとGoGo！大変身！！ 完成披露上映会
+title: '映画ヒーリングっど♥プリキュア ゆめのまちでキュン！っとGoGo！大変身！！ 完成披露上映会'
 categories: 
     - 二次元
     - Eventernote - 声优活动及演唱会
 author: Eventernote - 声优活动及演唱会
 comments: false
-date: 2021-03-22 03:22:27
+date: 2021-03-22 03:48:47
 thumbnail: ''
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: OpenAI Licenses GPT-3 Technology to Microsoft
+title: 'OpenAI Licenses GPT-3 Technology to Microsoft'
 categories: 
     - 新媒体
     - OpenAI - Blog

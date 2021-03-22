@@ -1,6 +1,6 @@
 
 ---
-title: Assassin's Creed Valhalla's Post-Launch Woes Continue
+title: 'Assassin's Creed Valhalla's Post-Launch Woes Continue'
 categories: 
     - 新媒体
     - Kotaku - Story

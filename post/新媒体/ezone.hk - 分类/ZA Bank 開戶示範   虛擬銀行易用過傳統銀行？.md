@@ -1,6 +1,6 @@
 
 ---
-title: ZA Bank 開戶示範   虛擬銀行易用過傳統銀行？
+title: 'ZA Bank 開戶示範   虛擬銀行易用過傳統銀行？'
 categories: 
     - 新媒体
     - ezone.hk - 分类

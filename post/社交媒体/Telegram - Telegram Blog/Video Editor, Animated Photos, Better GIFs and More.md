@@ -1,6 +1,6 @@
 
 ---
-title: Video Editor, Animated Photos, Better GIFs and More
+title: 'Video Editor, Animated Photos, Better GIFs and More'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

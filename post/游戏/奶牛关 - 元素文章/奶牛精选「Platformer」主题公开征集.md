@@ -1,6 +1,6 @@
 
 ---
-title: 奶牛精选「Platformer」主题公开征集
+title: '奶牛精选「Platformer」主题公开征集'
 categories: 
     - 游戏
     - 奶牛关 - 元素文章

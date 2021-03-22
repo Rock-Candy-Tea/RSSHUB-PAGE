@@ -1,6 +1,6 @@
 
 ---
-title: 金色早报 _ Naver和Visa或有意收购韩国主流加密货币交易所Bithumb
+title: '金色早报 _ Naver和Visa或有意收购韩国主流加密货币交易所Bithumb'
 categories: 
     - 新媒体
     - 金色财经 - 头条

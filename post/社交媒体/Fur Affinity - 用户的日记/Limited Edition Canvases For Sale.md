@@ -1,6 +1,6 @@
 
 ---
-title: Limited Edition Canvases For Sale
+title: 'Limited Edition Canvases For Sale'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

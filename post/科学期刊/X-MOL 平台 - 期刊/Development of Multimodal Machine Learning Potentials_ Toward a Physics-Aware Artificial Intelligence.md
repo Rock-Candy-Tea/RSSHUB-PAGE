@@ -1,6 +1,6 @@
 
 ---
-title: Development of Multimodal Machine Learning Potentials_ Toward a Physics-Aware Artificial Intelligence
+title: 'Development of Multimodal Machine Learning Potentials_ Toward a Physics-Aware Artificial Intelligence'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

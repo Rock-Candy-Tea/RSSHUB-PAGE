@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ add Global Disinformation Index
+title: 'feat(route)_ add Global Disinformation Index'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

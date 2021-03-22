@@ -1,6 +1,6 @@
 
 ---
-title: Merging Strategy, Improvisation, and Conversation to Solve Problems in Target Synthesis
+title: 'Merging Strategy, Improvisation, and Conversation to Solve Problems in Target Synthesis'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

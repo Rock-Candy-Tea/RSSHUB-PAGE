@@ -1,6 +1,6 @@
 
 ---
-title: Inside Native America, during the pandemic
+title: 'Inside Native America, during the pandemic'
 categories: 
     - 新媒体
     - CGTN - Editors' Pick

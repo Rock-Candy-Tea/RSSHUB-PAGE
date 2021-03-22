@@ -1,6 +1,6 @@
 
 ---
-title: Starry Light.潜行                   第七章 新晋小弟
+title: 'Starry Light.潜行                   第七章 新晋小弟'
 categories: 
     - 社交媒体
     - 简书 - 专题

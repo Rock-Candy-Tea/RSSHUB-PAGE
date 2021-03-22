@@ -1,6 +1,6 @@
 
 ---
-title: Nokia to cut staff by up to 10,000 in latest cost savings plan
+title: 'Nokia to cut staff by up to 10,000 in latest cost savings plan'
 categories: 
     - 传统媒体
     - Telecompaper - Search

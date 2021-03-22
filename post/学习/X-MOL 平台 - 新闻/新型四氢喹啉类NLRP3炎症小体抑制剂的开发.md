@@ -1,6 +1,6 @@
 
 ---
-title: 新型四氢喹啉类NLRP3炎症小体抑制剂的开发
+title: '新型四氢喹啉类NLRP3炎症小体抑制剂的开发'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

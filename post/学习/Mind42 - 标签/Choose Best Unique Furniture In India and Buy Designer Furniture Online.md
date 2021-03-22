@@ -1,12 +1,12 @@
 
 ---
-title: Choose Best Unique Furniture In India and Buy Designer Furniture Online
+title: 'Choose Best Unique Furniture In India and Buy Designer Furniture Online'
 categories: 
     - 学习
     - Mind42 - 标签
 author: Mind42 - 标签
 comments: false
-date: 2021-03-22 03:18:33
+date: 2021-03-22 03:45:44
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=d1dafc24-b0ca-4ef8-8e50-12d87473ecae&size=gallery'
 ---
 

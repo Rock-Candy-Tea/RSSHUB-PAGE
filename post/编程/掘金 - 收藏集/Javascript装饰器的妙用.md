@@ -1,6 +1,6 @@
 
 ---
-title: Javascript装饰器的妙用
+title: 'Javascript装饰器的妙用'
 categories: 
     - 编程
     - 掘金 - 收藏集

@@ -1,6 +1,6 @@
 
 ---
-title: Selfridges大牌美妆半价！人气王YSL、阿玛尼都在
+title: 'Selfridges大牌美妆半价！人气王YSL、阿玛尼都在'
 categories: 
     - 新媒体
     - 微信 - 公众号（CareerEngine 来源）

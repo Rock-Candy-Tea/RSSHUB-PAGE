@@ -1,12 +1,12 @@
 
 ---
-title: 图解Git原理与日常实用指南
+title: '图解Git原理与日常实用指南'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210318/56164b55297e0462c51d09ff0019c2af.png'
 ---
 

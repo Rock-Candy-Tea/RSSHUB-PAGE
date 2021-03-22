@@ -1,6 +1,6 @@
 
 ---
-title: Linux Mint 呼吁用户更新软件
+title: 'Linux Mint 呼吁用户更新软件'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

@@ -1,6 +1,6 @@
 
 ---
-title: How Clumps of Misshapen Proteins Gum Up Aging Brains
+title: 'How Clumps of Misshapen Proteins Gum Up Aging Brains'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

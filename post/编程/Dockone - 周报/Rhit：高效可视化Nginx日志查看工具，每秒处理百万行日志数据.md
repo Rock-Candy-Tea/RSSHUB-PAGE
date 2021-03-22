@@ -1,12 +1,12 @@
 
 ---
-title: Rhit：高效可视化Nginx日志查看工具，每秒处理百万行日志数据
+title: 'Rhit：高效可视化Nginx日志查看工具，每秒处理百万行日志数据'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210320/7a0b1c6eb35e019b87fb36687014eb7e.png'
 ---
 

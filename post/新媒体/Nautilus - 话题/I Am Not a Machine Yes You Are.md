@@ -1,6 +1,6 @@
 
 ---
-title: I Am Not a Machine. Yes You Are.
+title: 'I Am Not a Machine. Yes You Are.'
 categories: 
     - 新媒体
     - Nautilus - 话题

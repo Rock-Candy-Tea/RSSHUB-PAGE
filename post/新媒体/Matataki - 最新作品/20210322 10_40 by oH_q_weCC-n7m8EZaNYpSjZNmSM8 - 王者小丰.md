@@ -1,6 +1,6 @@
 
 ---
-title: 2021.03.22 10_40 by oH_q_weCC-n7m8EZaNYpSjZNmSM8 - 王者小丰
+title: '2021.03.22 10_40 by oH_q_weCC-n7m8EZaNYpSjZNmSM8 - 王者小丰'
 categories: 
     - 新媒体
     - Matataki - 最新作品

@@ -1,6 +1,6 @@
 
 ---
-title: 粉紅騎士 第 02 卷 _KIVO_
+title: '粉紅騎士 第 02 卷 _KIVO_'
 categories: 
     - 二次元
     - Vol.moe - vol

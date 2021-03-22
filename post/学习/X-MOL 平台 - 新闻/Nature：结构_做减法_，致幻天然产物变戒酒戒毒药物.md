@@ -1,6 +1,6 @@
 
 ---
-title: Nature：结构_做减法_，致幻天然产物变戒酒戒毒药物
+title: 'Nature：结构_做减法_，致幻天然产物变戒酒戒毒药物'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

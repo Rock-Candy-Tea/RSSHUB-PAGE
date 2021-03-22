@@ -1,6 +1,6 @@
 
 ---
-title: Commercializing the Practice of Voyeurism_ How Organizations Leverage Authenticity and Transgression to Create Value
+title: 'Commercializing the Practice of Voyeurism_ How Organizations Leverage Authenticity and Transgression to Create Value'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

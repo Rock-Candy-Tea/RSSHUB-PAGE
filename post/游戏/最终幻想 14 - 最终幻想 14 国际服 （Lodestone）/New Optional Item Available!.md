@@ -1,6 +1,6 @@
 
 ---
-title: New Optional Item Available!
+title: 'New Optional Item Available!'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

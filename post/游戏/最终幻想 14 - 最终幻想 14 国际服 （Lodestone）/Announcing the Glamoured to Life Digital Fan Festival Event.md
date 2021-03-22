@@ -1,6 +1,6 @@
 
 ---
-title: Announcing the Glamoured to Life Digital Fan Festival Event
+title: 'Announcing the Glamoured to Life Digital Fan Festival Event'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

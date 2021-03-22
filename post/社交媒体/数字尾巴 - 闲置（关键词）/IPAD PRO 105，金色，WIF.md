@@ -1,6 +1,6 @@
 
 ---
-title: IPAD PRO 10.5，金色，WIF
+title: 'IPAD PRO 10.5，金色，WIF'
 categories: 
     - 社交媒体
     - 数字尾巴 - 闲置（关键词）

@@ -1,6 +1,6 @@
 
 ---
-title: Paying for news
+title: 'Paying for news'
 categories: 
     - 博客
     - archdaily - 首页

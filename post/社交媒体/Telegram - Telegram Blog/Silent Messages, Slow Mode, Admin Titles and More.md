@@ -1,6 +1,6 @@
 
 ---
-title: Silent Messages, Slow Mode, Admin Titles and More
+title: 'Silent Messages, Slow Mode, Admin Titles and More'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

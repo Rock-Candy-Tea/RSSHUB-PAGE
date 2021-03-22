@@ -1,6 +1,6 @@
 
 ---
-title: Qt 6.1 Beta 2 Released, Qt-Project.org Called For Revival
+title: 'Qt 6.1 Beta 2 Released, Qt-Project.org Called For Revival'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

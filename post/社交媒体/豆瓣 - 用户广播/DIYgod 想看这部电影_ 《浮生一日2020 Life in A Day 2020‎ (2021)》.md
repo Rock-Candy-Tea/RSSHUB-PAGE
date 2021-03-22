@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想看这部电影_ 《浮生一日2020 Life in A Day 2020‎ (2021)》
+title: 'DIYgod 想看这部电影_ 《浮生一日2020 Life in A Day 2020‎ (2021)》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

@@ -1,6 +1,6 @@
 
 ---
-title: 让App热更多个RN项目的解决方案
+title: '让App热更多个RN项目的解决方案'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

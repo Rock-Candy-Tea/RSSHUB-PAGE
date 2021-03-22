@@ -1,6 +1,6 @@
 
 ---
-title: University Of Ottawa
+title: 'University Of Ottawa'
 categories: 
     - 学习
     - gradCafe - gradCafe result

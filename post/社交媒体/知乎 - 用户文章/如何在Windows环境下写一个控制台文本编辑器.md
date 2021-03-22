@@ -1,6 +1,6 @@
 
 ---
-title: 如何在Windows环境下写一个控制台文本编辑器
+title: '如何在Windows环境下写一个控制台文本编辑器'
 categories: 
     - 社交媒体
     - 知乎 - 用户文章

@@ -1,6 +1,6 @@
 
 ---
-title: Digital Fan Festival 2021 Art Contest Submissions Close March 17
+title: 'Digital Fan Festival 2021 Art Contest Submissions Close March 17'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

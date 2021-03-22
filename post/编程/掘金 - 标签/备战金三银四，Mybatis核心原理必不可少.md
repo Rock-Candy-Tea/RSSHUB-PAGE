@@ -1,6 +1,6 @@
 
 ---
-title: 备战金三银四，Mybatis核心原理必不可少
+title: '备战金三银四，Mybatis核心原理必不可少'
 categories: 
     - 编程
     - 掘金 - 标签

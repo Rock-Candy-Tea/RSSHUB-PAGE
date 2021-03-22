@@ -1,6 +1,6 @@
 
 ---
-title: 艺术家打造首个 NFT 房子设计
+title: '艺术家打造首个 NFT 房子设计'
 categories: 
     - 设计
     - 优设网 - 优设读报

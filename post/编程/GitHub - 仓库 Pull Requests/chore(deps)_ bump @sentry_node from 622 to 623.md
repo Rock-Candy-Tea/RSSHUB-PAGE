@@ -1,6 +1,6 @@
 
 ---
-title: chore(deps)_ bump @sentry_node from 6.2.2 to 6.2.3
+title: 'chore(deps)_ bump @sentry_node from 6.2.2 to 6.2.3'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

@@ -1,12 +1,12 @@
 
 ---
-title: Serverless 可观测性的过去、现在与未来
+title: 'Serverless 可观测性的过去、现在与未来'
 categories: 
     - 编程
     - segmentfault - 用户
 author: segmentfault - 用户
 comments: false
-date: 2021-03-22 03:14:56
+date: 2021-03-22 03:42:54
 thumbnail: 'https://segmentfault.com/img/remote/1460000039664509'
 ---
 

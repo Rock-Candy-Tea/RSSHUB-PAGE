@@ -1,6 +1,6 @@
 
 ---
-title: Chrome85已经支持AVIF格式的图片，压缩率比webp还要好。
+title: 'Chrome85已经支持AVIF格式的图片，压缩率比webp还要好。'
 categories: 
     - 编程
     - wolley - posts

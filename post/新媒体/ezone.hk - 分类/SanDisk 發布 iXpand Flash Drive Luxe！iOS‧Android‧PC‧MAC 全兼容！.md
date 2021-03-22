@@ -1,6 +1,6 @@
 
 ---
-title: SanDisk 發布 iXpand Flash Drive Luxe！iOS‧Android‧PC‧MAC 全兼容！
+title: 'SanDisk 發布 iXpand Flash Drive Luxe！iOS‧Android‧PC‧MAC 全兼容！'
 categories: 
     - 新媒体
     - ezone.hk - 分类

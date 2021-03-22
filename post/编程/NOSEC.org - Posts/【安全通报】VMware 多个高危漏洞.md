@@ -1,6 +1,6 @@
 
 ---
-title: 【安全通报】VMware 多个高危漏洞
+title: '【安全通报】VMware 多个高危漏洞'
 categories: 
     - 编程
     - NOSEC.org - Posts

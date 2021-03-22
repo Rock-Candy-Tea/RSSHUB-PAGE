@@ -1,6 +1,6 @@
 
 ---
-title: China Hopes More Day Care Will Reduce Cost of Having Kids
+title: 'China Hopes More Day Care Will Reduce Cost of Having Kids'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

@@ -1,12 +1,12 @@
 
 ---
-title: 关于从入门three.js到做出3d地球这件事(第二篇_ 开发必备的辅助技能)
+title: '关于从入门three.js到做出3d地球这件事(第二篇_ 开发必备的辅助技能)'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:53
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/bVcQzEW'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: The Observer Effect – Marc Andreessen
+title: 'The Observer Effect – Marc Andreessen'
 categories: 
     - 编程
     - wolley - posts

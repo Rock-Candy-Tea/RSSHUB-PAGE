@@ -1,6 +1,6 @@
 
 ---
-title: Rare Cosmic Neutrino Traced to Star-Swallowing Black Hole, Science
+title: 'Rare Cosmic Neutrino Traced to Star-Swallowing Black Hole, Science'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

@@ -1,6 +1,6 @@
 
 ---
-title: Solution-Based Group 14 Zintl Anions_ New Frontiers and Discoveries
+title: 'Solution-Based Group 14 Zintl Anions_ New Frontiers and Discoveries'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

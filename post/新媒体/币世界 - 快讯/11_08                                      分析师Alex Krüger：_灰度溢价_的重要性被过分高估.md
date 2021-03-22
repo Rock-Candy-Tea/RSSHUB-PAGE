@@ -1,14 +1,14 @@
 
 ---
-title: 11_08
+title: '11_08
                     
-                  分析师Alex Krüger：_灰度溢价_的重要性被过分高估
+                  分析师Alex Krüger：_灰度溢价_的重要性被过分高估'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

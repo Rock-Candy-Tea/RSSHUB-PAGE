@@ -1,6 +1,6 @@
 
 ---
-title: 全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能
+title: '全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能'
 categories: 
     - 设计
     - 优设网 - 行业新闻

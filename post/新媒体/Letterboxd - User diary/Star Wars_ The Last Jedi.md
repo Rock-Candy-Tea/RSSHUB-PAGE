@@ -1,6 +1,6 @@
 
 ---
-title: Star Wars_ The Last Jedi
+title: 'Star Wars_ The Last Jedi'
 categories: 
     - 新媒体
     - Letterboxd - User diary

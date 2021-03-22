@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 新粉丝 z_lamb
+title: 'DIYgod 新粉丝 z_lamb'
 categories: 
     - 社交媒体
     - bilibili - UP 主粉丝

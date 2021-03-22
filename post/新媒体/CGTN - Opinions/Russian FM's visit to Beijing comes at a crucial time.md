@@ -1,6 +1,6 @@
 
 ---
-title: Russian FM's visit to Beijing comes at a crucial time
+title: 'Russian FM's visit to Beijing comes at a crucial time'
 categories: 
     - 新媒体
     - CGTN - Opinions

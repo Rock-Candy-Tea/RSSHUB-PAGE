@@ -1,6 +1,6 @@
 
 ---
-title: Airbnb被指幕后操纵_独立房东团体_：避免更严格监管
+title: 'Airbnb被指幕后操纵_独立房东团体_：避免更严格监管'
 categories: 
     - 新媒体
     - cnBeta - 最新

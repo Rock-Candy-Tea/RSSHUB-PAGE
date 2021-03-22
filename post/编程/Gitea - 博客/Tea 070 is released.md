@@ -1,6 +1,6 @@
 
 ---
-title: Tea 0.7.0 is released
+title: 'Tea 0.7.0 is released'
 categories: 
     - 编程
     - Gitea - 博客

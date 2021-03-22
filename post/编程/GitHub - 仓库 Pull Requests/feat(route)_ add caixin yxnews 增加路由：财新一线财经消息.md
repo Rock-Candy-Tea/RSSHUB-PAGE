@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ add caixin yxnews 增加路由：财新一线财经消息
+title: 'feat(route)_ add caixin yxnews 增加路由：财新一线财经消息'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

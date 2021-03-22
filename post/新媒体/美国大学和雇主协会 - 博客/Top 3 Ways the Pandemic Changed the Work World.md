@@ -1,6 +1,6 @@
 
 ---
-title: Top 3 Ways the Pandemic Changed the Work World
+title: 'Top 3 Ways the Pandemic Changed the Work World'
 categories: 
     - 新媒体
     - 美国大学和雇主协会 - 博客

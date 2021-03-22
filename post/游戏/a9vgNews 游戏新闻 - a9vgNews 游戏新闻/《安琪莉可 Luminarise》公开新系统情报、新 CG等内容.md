@@ -1,6 +1,6 @@
 
 ---
-title: 《安琪莉可 Luminarise》公开新系统情报、新 CG等内容
+title: '《安琪莉可 Luminarise》公开新系统情报、新 CG等内容'
 categories: 
     - 游戏
     - a9vgNews 游戏新闻 - a9vgNews 游戏新闻

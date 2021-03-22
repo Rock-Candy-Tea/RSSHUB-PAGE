@@ -1,6 +1,6 @@
 
 ---
-title: Brazilian Portuguese now available on DeepL Translator!
+title: 'Brazilian Portuguese now available on DeepL Translator!'
 categories: 
     - 新媒体
     - DeepL - Blog

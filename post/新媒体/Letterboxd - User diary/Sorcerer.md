@@ -1,6 +1,6 @@
 
 ---
-title: Sorcerer
+title: 'Sorcerer'
 categories: 
     - 新媒体
     - Letterboxd - User diary

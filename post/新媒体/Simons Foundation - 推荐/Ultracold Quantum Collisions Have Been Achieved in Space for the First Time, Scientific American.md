@@ -1,6 +1,6 @@
 
 ---
-title: Ultracold Quantum Collisions Have Been Achieved in Space for the First Time, Scientific American
+title: 'Ultracold Quantum Collisions Have Been Achieved in Space for the First Time, Scientific American'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

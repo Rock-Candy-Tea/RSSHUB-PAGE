@@ -1,6 +1,6 @@
 
 ---
-title: EssenceGlobal：广告业2030
+title: 'EssenceGlobal：广告业2030'
 categories: 
     - 新媒体
     - 199IT - 首页更新

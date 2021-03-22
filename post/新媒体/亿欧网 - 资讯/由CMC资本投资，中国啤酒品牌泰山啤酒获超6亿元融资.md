@@ -1,12 +1,12 @@
 
 ---
-title: 由CMC资本投资，中国啤酒品牌泰山啤酒获超6亿元融资
+title: '由CMC资本投资，中国啤酒品牌泰山啤酒获超6亿元融资'
 categories: 
     - 新媒体
     - 亿欧网 - 资讯
 author: 亿欧网 - 资讯
 comments: false
-date: Mon, 22 Mar 2021 01:17:19 GMT
+date: Mon, 22 Mar 2021 01:44:59 GMT
 thumbnail: ''
 ---
 

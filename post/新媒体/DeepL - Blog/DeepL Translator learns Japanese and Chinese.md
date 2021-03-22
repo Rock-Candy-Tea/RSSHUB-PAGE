@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Translator learns Japanese and Chinese
+title: 'DeepL Translator learns Japanese and Chinese'
 categories: 
     - 新媒体
     - DeepL - Blog

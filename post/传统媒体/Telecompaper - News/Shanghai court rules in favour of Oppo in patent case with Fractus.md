@@ -1,6 +1,6 @@
 
 ---
-title: Shanghai court rules in favour of Oppo in patent case with Fractus
+title: 'Shanghai court rules in favour of Oppo in patent case with Fractus'
 categories: 
     - 传统媒体
     - Telecompaper - News

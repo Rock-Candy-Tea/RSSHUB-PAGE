@@ -1,6 +1,6 @@
 
 ---
-title: Version 3.4_ Drawing, Fonts, and Photo Layout
+title: 'Version 3.4_ Drawing, Fonts, and Photo Layout'
 categories: 
     - 新媒体
     - Day One - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: China’s Clampdown on Hong Kong
+title: 'China’s Clampdown on Hong Kong'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

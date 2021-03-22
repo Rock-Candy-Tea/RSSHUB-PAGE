@@ -1,6 +1,6 @@
 
 ---
-title: From C4 to C7_ Innovative Strategies for Site-Selective Functionalization of Indole C–H Bonds
+title: 'From C4 to C7_ Innovative Strategies for Site-Selective Functionalization of Indole C–H Bonds'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

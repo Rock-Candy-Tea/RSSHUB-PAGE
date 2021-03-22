@@ -1,12 +1,12 @@
 
 ---
-title: Buy Modern Daybed Sofa Set Online – Cool Sofas
+title: 'Buy Modern Daybed Sofa Set Online – Cool Sofas'
 categories: 
     - 学习
     - Mind42 - 标签
 author: Mind42 - 标签
 comments: false
-date: 2021-03-22 03:18:33
+date: 2021-03-22 03:45:44
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ab04ac3-bd6a-4cf3-9730-9c38f4c49d9d&size=gallery'
 ---
 

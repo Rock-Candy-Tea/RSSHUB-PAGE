@@ -1,6 +1,6 @@
 
 ---
-title: Intranasal fusion inhibitory lipopeptide prevents direct-contact SARS-CoV-2 transmission in ferrets
+title: 'Intranasal fusion inhibitory lipopeptide prevents direct-contact SARS-CoV-2 transmission in ferrets'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

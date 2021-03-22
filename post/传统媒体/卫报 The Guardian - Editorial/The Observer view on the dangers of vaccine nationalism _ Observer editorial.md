@@ -1,6 +1,6 @@
 
 ---
-title: The Observer view on the dangers of vaccine nationalism _ Observer editorial
+title: 'The Observer view on the dangers of vaccine nationalism _ Observer editorial'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - Editorial

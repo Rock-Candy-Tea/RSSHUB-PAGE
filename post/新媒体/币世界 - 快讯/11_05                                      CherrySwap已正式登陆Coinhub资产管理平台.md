@@ -1,14 +1,14 @@
 
 ---
-title: 11_05
+title: '11_05
                     
-                  CherrySwap已正式登陆Coinhub资产管理平台
+                  CherrySwap已正式登陆Coinhub资产管理平台'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

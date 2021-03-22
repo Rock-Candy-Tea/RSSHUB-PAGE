@@ -1,6 +1,6 @@
 
 ---
-title: NetEaseCloudMusic2RSS
+title: 'NetEaseCloudMusic2RSS'
 categories: 
     - 编程
     - GitHub - 用户仓库

@@ -1,6 +1,6 @@
 
 ---
-title: ueditor之一波多折
+title: 'ueditor之一波多折'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

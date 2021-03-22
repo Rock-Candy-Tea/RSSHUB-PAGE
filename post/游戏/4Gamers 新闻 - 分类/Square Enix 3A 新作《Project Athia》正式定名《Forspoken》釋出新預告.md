@@ -1,6 +1,6 @@
 
 ---
-title: Square Enix 3A 新作《Project Athia》正式定名《Forspoken》釋出新預告
+title: 'Square Enix 3A 新作《Project Athia》正式定名《Forspoken》釋出新預告'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

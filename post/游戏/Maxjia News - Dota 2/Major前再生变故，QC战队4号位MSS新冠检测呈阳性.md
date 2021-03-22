@@ -1,6 +1,6 @@
 
 ---
-title: Major前再生变故，QC战队4号位MSS新冠检测呈阳性
+title: 'Major前再生变故，QC战队4号位MSS新冠检测呈阳性'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

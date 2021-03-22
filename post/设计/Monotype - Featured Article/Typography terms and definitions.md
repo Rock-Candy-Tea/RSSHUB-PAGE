@@ -1,6 +1,6 @@
 
 ---
-title: Typography terms and definitions.
+title: 'Typography terms and definitions.'
 categories: 
     - 设计
     - Monotype - Featured Article

@@ -1,6 +1,6 @@
 
 ---
-title: Soft serve digital and the importance of nostalgia during a crisis
+title: 'Soft serve digital and the importance of nostalgia during a crisis'
 categories: 
     - 设计
     - Monotype - Featured Article

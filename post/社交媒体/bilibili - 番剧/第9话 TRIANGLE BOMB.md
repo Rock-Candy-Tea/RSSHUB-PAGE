@@ -1,12 +1,12 @@
 
 ---
-title: 第9话 TRIANGLE BOMB
+title: '第9话 TRIANGLE BOMB'
 categories: 
     - 社交媒体
     - bilibili - 番剧
 author: bilibili - 番剧
 comments: false
-date: 2021-03-22 03:17:15
+date: 2021-03-22 03:45:05
 thumbnail: 'http://i0.hdslb.com/bfs/archive/be631d908185ff294f84c4c32980750354e05520.jpg'
 ---
 

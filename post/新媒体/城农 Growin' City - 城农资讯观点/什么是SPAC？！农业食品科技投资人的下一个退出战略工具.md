@@ -1,6 +1,6 @@
 
 ---
-title: 什么是SPAC？！农业食品科技投资人的下一个退出战略工具
+title: '什么是SPAC？！农业食品科技投资人的下一个退出战略工具'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

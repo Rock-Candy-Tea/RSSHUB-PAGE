@@ -1,6 +1,6 @@
 
 ---
-title: 支付宝APP默认页配色、设计、slogan分解剖析以及海外产品UI对比
+title: '支付宝APP默认页配色、设计、slogan分解剖析以及海外产品UI对比'
 categories: 
     - 新媒体
     - 人人都是产品经理 - 热门文章

@@ -1,6 +1,6 @@
 
 ---
-title: Introducing TheBrain 12 Beta
+title: 'Introducing TheBrain 12 Beta'
 categories: 
     - 新媒体
     - The Brain - Blog

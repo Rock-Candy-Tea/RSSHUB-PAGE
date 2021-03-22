@@ -1,6 +1,6 @@
 
 ---
-title: Absolutely gorgeous! The environment is amazing.
+title: 'Absolutely gorgeous! The environment is amazing.'
 categories: 
     - 社交媒体
     - Fur Affinity - 作品评论区

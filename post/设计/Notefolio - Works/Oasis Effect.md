@@ -1,12 +1,12 @@
 
 ---
-title: Oasis Effect
+title: 'Oasis Effect'
 categories: 
     - 设计
     - Notefolio - Works
 author: Notefolio - Works
 comments: false
-date: 2021-03-22 03:20:46
+date: 2021-03-22 03:47:18
 thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/5b/3f/5b3f05c22c156dcca4cb024961584dc1ddf856c3e164fb9a1f75348829626b8f_v1.jpg'
 ---
 

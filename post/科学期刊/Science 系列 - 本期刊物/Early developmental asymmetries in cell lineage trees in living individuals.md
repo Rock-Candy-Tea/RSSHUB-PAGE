@@ -1,6 +1,6 @@
 
 ---
-title: Early developmental asymmetries in cell lineage trees in living individuals
+title: 'Early developmental asymmetries in cell lineage trees in living individuals'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

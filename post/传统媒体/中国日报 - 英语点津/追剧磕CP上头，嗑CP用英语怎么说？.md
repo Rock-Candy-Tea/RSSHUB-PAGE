@@ -1,12 +1,12 @@
 
 ---
-title: 追剧磕CP上头，嗑CP用英语怎么说？
+title: '追剧磕CP上头，嗑CP用英语怎么说？'
 categories: 
     - 传统媒体
     - 中国日报 - 英语点津
 author: 中国日报 - 英语点津
 comments: false
-date: 2021-03-22 03:20:34
+date: 2021-03-22 03:47:09
 thumbnail: 'https://img2.chinadaily.com.cn/images/202103/19/60541ec9a31024adbdbc5b14.jpeg'
 ---
 

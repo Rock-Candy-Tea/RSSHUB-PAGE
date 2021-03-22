@@ -1,6 +1,6 @@
 
 ---
-title: 图表制作可以很简单 - 图表魔方 ChartCube
+title: '图表制作可以很简单 - 图表魔方 ChartCube'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

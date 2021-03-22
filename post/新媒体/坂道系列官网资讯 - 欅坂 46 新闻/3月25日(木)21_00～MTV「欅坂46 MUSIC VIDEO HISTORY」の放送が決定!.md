@@ -1,6 +1,6 @@
 
 ---
-title: 3月25日(木)21_00～MTV「欅坂46 MUSIC VIDEO HISTORY」の放送が決定!
+title: '3月25日(木)21_00～MTV「欅坂46 MUSIC VIDEO HISTORY」の放送が決定!'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 新闻

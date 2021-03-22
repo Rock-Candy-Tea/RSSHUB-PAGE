@@ -1,6 +1,6 @@
 
 ---
-title: FreeBSD 13.0-RC3 Released With The WireGuard Driver Removed
+title: 'FreeBSD 13.0-RC3 Released With The WireGuard Driver Removed'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

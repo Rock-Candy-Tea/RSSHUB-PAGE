@@ -1,12 +1,12 @@
 
 ---
-title: 幻想图书馆-寺山修司 (Terayama Shuzi)_民主与建设出版社_2021-2-1
+title: '幻想图书馆-寺山修司 (Terayama Shuzi)_民主与建设出版社_2021-2-1'
 categories: 
     - 社交媒体
     - 豆瓣 - 热门图书排行
 author: 豆瓣 - 热门图书排行
 comments: false
-date: 2021-03-22 03:18:06
+date: 2021-03-22 03:45:28
 thumbnail: 'https://img9.doubanio.com/view/subject/l/public/s33778651.jpg'
 ---
 

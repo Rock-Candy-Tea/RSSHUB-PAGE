@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ K 混合魔术 暴风雨 Kemi Blending Magic Tempest, 2014
+title: '★★★★☆ K 混合魔术 暴风雨 Kemi Blending Magic Tempest, 2014'
 categories: 
     - 新媒体
     - 香水时代 - 首页

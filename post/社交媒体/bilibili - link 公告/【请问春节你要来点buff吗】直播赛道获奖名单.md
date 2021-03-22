@@ -1,6 +1,6 @@
 
 ---
-title: 【请问春节你要来点buff吗】直播赛道获奖名单
+title: '【请问春节你要来点buff吗】直播赛道获奖名单'
 categories: 
     - 社交媒体
     - bilibili - link 公告

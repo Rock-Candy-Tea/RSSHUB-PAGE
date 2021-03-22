@@ -1,6 +1,6 @@
 
 ---
-title: 【全体公開】「KING」画像集！
+title: '【全体公開】「KING」画像集！'
 categories: 
     - 社交媒体
     - pixiv - 关注的新作品

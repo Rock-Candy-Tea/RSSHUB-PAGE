@@ -1,6 +1,6 @@
 
 ---
-title: Manufacturing – Multimaterials’ dual approach
+title: 'Manufacturing – Multimaterials’ dual approach'
 categories: 
     - 新媒体
     - 橡树岭国家实验室 - 新闻

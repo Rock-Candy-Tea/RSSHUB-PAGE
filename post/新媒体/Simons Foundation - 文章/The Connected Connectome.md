@@ -1,6 +1,6 @@
 
 ---
-title: The Connected Connectome
+title: 'The Connected Connectome'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

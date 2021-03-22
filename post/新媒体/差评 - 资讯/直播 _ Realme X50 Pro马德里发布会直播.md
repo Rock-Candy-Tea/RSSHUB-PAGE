@@ -1,6 +1,6 @@
 
 ---
-title: 直播 _ Realme X50 Pro马德里发布会直播
+title: '直播 _ Realme X50 Pro马德里发布会直播'
 categories: 
     - 新媒体
     - 差评 - 资讯

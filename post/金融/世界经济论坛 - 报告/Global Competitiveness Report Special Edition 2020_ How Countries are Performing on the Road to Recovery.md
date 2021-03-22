@@ -1,12 +1,12 @@
 
 ---
-title: Global Competitiveness Report Special Edition 2020_ How Countries are Performing on the Road to Recovery
+title: 'Global Competitiveness Report Special Edition 2020_ How Countries are Performing on the Road to Recovery'
 categories: 
     - 金融
     - 世界经济论坛 - 报告
 author: 世界经济论坛 - 报告
 comments: false
-date: 2021-03-22 03:21:01
+date: 2021-03-22 03:47:30
 thumbnail: ''
 ---
 

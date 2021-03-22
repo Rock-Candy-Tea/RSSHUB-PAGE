@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】Go泛型要来了 _ iPhone上刷Ubuntu _ Linus把if改为while _ 黑客把贞操锁锁了
+title: '【一周】Go泛型要来了 _ iPhone上刷Ubuntu _ Linus把if改为while _ 黑客把贞操锁锁了'
 categories: 
     - 编程
     - 开源中国 - 问答主题

@@ -1,6 +1,6 @@
 
 ---
-title: _There hasn't been wide acknowledgement of the discrimination Asian-Americans face_—murder in Atlanta
+title: '_There hasn't been wide acknowledgement of the discrimination Asian-Americans face_—murder in Atlanta'
 categories: 
     - 传统媒体
     - The Economist - 分类

@@ -1,6 +1,6 @@
 
 ---
-title: Scala Native 0.4.0 is here!
+title: 'Scala Native 0.4.0 is here!'
 categories: 
     - 编程
     - Scala - Scala Blog

@@ -1,6 +1,6 @@
 
 ---
-title: The Fool - Cyberpunk 2077 Trophy Guide
+title: 'The Fool - Cyberpunk 2077 Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

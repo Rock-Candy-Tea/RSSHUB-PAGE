@@ -1,6 +1,6 @@
 
 ---
-title: University Of Florida
+title: 'University Of Florida'
 categories: 
     - 学习
     - gradCafe - gradCafe result

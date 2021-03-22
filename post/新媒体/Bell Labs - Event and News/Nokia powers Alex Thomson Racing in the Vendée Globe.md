@@ -1,6 +1,6 @@
 
 ---
-title: Nokia powers Alex Thomson Racing in the Vendée Globe
+title: 'Nokia powers Alex Thomson Racing in the Vendée Globe'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

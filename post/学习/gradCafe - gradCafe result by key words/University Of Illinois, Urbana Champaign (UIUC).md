@@ -1,6 +1,6 @@
 
 ---
-title: University Of Illinois, Urbana Champaign (UIUC)
+title: 'University Of Illinois, Urbana Champaign (UIUC)'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

@@ -1,6 +1,6 @@
 
 ---
-title: Unreasoned, Non-Deliberative, or Temporally Uncertain_ Elaborating Time-Calibrated Entrepreneurial Action
+title: 'Unreasoned, Non-Deliberative, or Temporally Uncertain_ Elaborating Time-Calibrated Entrepreneurial Action'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

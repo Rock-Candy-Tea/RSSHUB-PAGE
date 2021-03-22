@@ -1,6 +1,6 @@
 
 ---
-title: 新垣结衣出演《集合啦！动物森友会》TVCM_我的设计_篇
+title: '新垣结衣出演《集合啦！动物森友会》TVCM_我的设计_篇'
 categories: 
     - 游戏
     - a9vgNews 游戏新闻 - a9vgNews 游戏新闻

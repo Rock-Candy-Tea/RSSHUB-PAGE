@@ -1,6 +1,6 @@
 
 ---
-title: Biden Abandons Normalcy
+title: 'Biden Abandons Normalcy'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: 从ES6复习javascript继承
+title: '从ES6复习javascript继承'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

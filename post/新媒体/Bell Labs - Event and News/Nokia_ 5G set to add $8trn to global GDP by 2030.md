@@ -1,6 +1,6 @@
 
 ---
-title: Nokia_ 5G set to add $8trn to global GDP by 2030
+title: 'Nokia_ 5G set to add $8trn to global GDP by 2030'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

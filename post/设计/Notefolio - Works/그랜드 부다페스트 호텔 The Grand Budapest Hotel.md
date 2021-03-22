@@ -1,12 +1,12 @@
 
 ---
-title: 그랜드 부다페스트 호텔 The Grand Budapest Hotel
+title: '그랜드 부다페스트 호텔 The Grand Budapest Hotel'
 categories: 
     - 设计
     - Notefolio - Works
 author: Notefolio - Works
 comments: false
-date: 2021-03-22 03:20:46
+date: 2021-03-22 03:47:18
 thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/ec/ba/ecba613e466a0beaae9bb11dd6f5ea3c51441996777d7c56c5880b8038f6550d_v1.jpg'
 ---
 

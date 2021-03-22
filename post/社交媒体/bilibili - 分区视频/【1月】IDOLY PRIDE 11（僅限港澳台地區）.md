@@ -1,6 +1,6 @@
 
 ---
-title: 【1月】IDOLY PRIDE 11（僅限港澳台地區）
+title: '【1月】IDOLY PRIDE 11（僅限港澳台地區）'
 categories: 
     - 社交媒体
     - bilibili - 分区视频

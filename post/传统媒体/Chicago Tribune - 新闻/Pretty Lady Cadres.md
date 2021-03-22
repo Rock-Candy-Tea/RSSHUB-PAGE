@@ -1,6 +1,6 @@
 
 ---
-title: Pretty Lady Cadres
+title: 'Pretty Lady Cadres'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

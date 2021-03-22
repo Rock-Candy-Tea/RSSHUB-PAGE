@@ -1,7 +1,7 @@
 
 ---
-title: @noiob_ "
-replaced my Pebble 2's chassis and screen (because they're glued, the screen was fine) so now I have factory new buttons again! I also repla...
+title: '@noiob_ "
+replaced my Pebble 2's chassis and screen (because they're glued, the screen was fine) so now I have factory new buttons again! I also repla...'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

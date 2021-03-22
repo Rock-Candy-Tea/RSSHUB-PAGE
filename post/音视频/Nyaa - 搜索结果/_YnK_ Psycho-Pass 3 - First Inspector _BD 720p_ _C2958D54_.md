@@ -1,6 +1,6 @@
 
 ---
-title: _YnK_ Psycho-Pass 3 - First Inspector _BD 720p_ _C2958D54_
+title: '_YnK_ Psycho-Pass 3 - First Inspector _BD 720p_ _C2958D54_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

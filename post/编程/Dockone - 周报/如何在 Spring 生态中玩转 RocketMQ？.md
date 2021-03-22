@@ -1,12 +1,12 @@
 
 ---
-title: 如何在 Spring 生态中玩转 RocketMQ？
+title: '如何在 Spring 生态中玩转 RocketMQ？'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210319/9e59ca0cce457e073fe617a5327d8602.png'
 ---
 

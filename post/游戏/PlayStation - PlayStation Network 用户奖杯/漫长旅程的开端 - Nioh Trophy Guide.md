@@ -1,6 +1,6 @@
 
 ---
-title: 漫长旅程的开端 - Nioh Trophy Guide
+title: '漫长旅程的开端 - Nioh Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

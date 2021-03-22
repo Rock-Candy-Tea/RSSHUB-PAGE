@@ -1,6 +1,6 @@
 
 ---
-title: Evolutionary dynamics at the tumor edge reveal metabolic imaging biomarkers
+title: 'Evolutionary dynamics at the tumor edge reveal metabolic imaging biomarkers'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

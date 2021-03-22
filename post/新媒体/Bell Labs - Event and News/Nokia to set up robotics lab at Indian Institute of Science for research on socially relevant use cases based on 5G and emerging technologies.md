@@ -1,6 +1,6 @@
 
 ---
-title: Nokia to set up robotics lab at Indian Institute of Science for research on socially relevant use cases based on 5G and emerging technologies
+title: 'Nokia to set up robotics lab at Indian Institute of Science for research on socially relevant use cases based on 5G and emerging technologies'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

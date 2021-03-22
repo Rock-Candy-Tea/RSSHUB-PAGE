@@ -1,6 +1,6 @@
 
 ---
-title: Robust identification of investor beliefs
+title: 'Robust identification of investor beliefs'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

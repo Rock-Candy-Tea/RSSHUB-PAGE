@@ -1,6 +1,6 @@
 
 ---
-title: ChinaJoy历史回顾，英特尔包馆_成瘾_
+title: 'ChinaJoy历史回顾，英特尔包馆_成瘾_'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

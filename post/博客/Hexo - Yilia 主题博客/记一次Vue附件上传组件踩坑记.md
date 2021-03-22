@@ -1,6 +1,6 @@
 
 ---
-title: 记一次Vue附件上传组件踩坑记
+title: '记一次Vue附件上传组件踩坑记'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

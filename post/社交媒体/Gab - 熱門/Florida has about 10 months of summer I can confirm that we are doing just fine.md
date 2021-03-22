@@ -1,6 +1,6 @@
 
 ---
-title: Florida has about 10 months of summer. I can confirm that we are doing just fine.
+title: 'Florida has about 10 months of summer. I can confirm that we are doing just fine.'
 categories: 
     - 社交媒体
     - Gab - 熱門

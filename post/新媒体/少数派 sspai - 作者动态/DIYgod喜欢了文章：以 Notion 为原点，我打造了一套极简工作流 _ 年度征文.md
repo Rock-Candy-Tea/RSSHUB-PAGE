@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：以 Notion 为原点，我打造了一套极简工作流 _ 年度征文
+title: 'DIYgod喜欢了文章：以 Notion 为原点，我打造了一套极简工作流 _ 年度征文'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

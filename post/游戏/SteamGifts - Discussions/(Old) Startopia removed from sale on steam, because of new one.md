@@ -1,6 +1,6 @@
 
 ---
-title: (Old) Startopia removed from sale on steam, because of new one.
+title: '(Old) Startopia removed from sale on steam, because of new one.'
 categories: 
     - 游戏
     - SteamGifts - Discussions

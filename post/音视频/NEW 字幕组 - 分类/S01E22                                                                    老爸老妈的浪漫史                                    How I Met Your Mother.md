@@ -1,8 +1,8 @@
 
 ---
-title: S01E22                                
+title: 'S01E22                                
                                     老爸老妈的浪漫史
-                                    How I Met Your Mother
+                                    How I Met Your Mother'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

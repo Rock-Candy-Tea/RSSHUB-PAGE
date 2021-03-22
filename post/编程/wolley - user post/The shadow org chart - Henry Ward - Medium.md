@@ -1,12 +1,12 @@
 
 ---
-title: The shadow org chart - Henry Ward - Medium
+title: 'The shadow org chart - Henry Ward - Medium'
 categories: 
     - 编程
     - wolley - user post
 author: wolley - user post
 comments: false
-date: 2021-03-22 03:14:54
+date: 2021-03-22 03:42:50
 thumbnail: ''
 ---
 

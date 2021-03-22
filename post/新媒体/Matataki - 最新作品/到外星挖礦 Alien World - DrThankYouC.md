@@ -1,6 +1,6 @@
 
 ---
-title: 到外星挖礦 Alien World - DrThankYouC
+title: '到外星挖礦 Alien World - DrThankYouC'
 categories: 
     - 新媒体
     - Matataki - 最新作品

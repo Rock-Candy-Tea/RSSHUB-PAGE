@@ -1,6 +1,6 @@
 
 ---
-title: Capitalism and the Border Crisis
+title: 'Capitalism and the Border Crisis'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

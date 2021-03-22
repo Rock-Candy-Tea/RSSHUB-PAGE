@@ -1,6 +1,6 @@
 
 ---
-title: Google for Entrepreneurs改名为Google for Startups！
+title: 'Google for Entrepreneurs改名为Google for Startups！'
 categories: 
     - 社交媒体
     - 知乎 - 专栏

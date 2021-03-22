@@ -1,6 +1,6 @@
 
 ---
-title: Schulschließung in Hotspots im Gespräch - Inzidenz über 100 im Land
+title: 'Schulschließung in Hotspots im Gespräch - Inzidenz über 100 im Land'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

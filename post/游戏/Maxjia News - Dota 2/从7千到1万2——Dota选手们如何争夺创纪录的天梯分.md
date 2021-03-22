@@ -1,6 +1,6 @@
 
 ---
-title: 从7千到1万2——Dota选手们如何争夺创纪录的天梯分
+title: '从7千到1万2——Dota选手们如何争夺创纪录的天梯分'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

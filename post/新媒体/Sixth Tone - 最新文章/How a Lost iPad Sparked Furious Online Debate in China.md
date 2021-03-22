@@ -1,6 +1,6 @@
 
 ---
-title: How a Lost iPad Sparked Furious Online Debate in China
+title: 'How a Lost iPad Sparked Furious Online Debate in China'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

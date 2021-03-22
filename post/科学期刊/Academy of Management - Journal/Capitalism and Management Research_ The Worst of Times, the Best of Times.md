@@ -1,6 +1,6 @@
 
 ---
-title: Capitalism and Management Research_ The Worst of Times, the Best of Times
+title: 'Capitalism and Management Research_ The Worst of Times, the Best of Times'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

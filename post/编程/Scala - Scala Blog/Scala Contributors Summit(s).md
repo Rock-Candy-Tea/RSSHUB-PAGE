@@ -1,6 +1,6 @@
 
 ---
-title: Scala Contributors Summit(s)
+title: 'Scala Contributors Summit(s)'
 categories: 
     - 编程
     - Scala - Scala Blog

@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;《戰鎚 40 K》衍生第一人稱射擊遊戲新作《奈克羅蒙達：槍手》曝光
+title: '_General_&nbsp;《戰鎚 40 K》衍生第一人稱射擊遊戲新作《奈克羅蒙達：槍手》曝光'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/5d8bb2e2fadb1cb03ac77a44311buix5.JPG?v=1616153462970'
 ---
 

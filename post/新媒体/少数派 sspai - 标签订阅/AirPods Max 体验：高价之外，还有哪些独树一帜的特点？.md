@@ -1,6 +1,6 @@
 
 ---
-title: AirPods Max 体验：高价之外，还有哪些独树一帜的特点？
+title: 'AirPods Max 体验：高价之外，还有哪些独树一帜的特点？'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

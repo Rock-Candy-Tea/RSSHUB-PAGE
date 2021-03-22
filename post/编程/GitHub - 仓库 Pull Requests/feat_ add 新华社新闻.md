@@ -1,6 +1,6 @@
 
 ---
-title: feat_ add 新华社新闻
+title: 'feat_ add 新华社新闻'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

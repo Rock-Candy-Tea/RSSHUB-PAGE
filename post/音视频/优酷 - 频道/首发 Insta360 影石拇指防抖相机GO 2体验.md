@@ -1,12 +1,12 @@
 
 ---
-title: 首发 Insta360 影石拇指防抖相机GO 2体验
+title: '首发 Insta360 影石拇指防抖相机GO 2体验'
 categories: 
     - 音视频
     - 优酷 - 频道
 author: 优酷 - 频道
 comments: false
-date: 2021-03-22 03:21:59
+date: 2021-03-22 03:48:23
 thumbnail: 'https://m.ykimg.com/05410101604AAC1507937EAB7B913521'
 ---
 

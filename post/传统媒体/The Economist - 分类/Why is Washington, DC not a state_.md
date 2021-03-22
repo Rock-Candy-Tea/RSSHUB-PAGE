@@ -1,6 +1,6 @@
 
 ---
-title: Why is Washington, DC not a state_
+title: 'Why is Washington, DC not a state_'
 categories: 
     - 传统媒体
     - The Economist - 分类

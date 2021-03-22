@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #25_ Disassembly options
+title: 'Igor’s tip of the week #25_ Disassembly options'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

@@ -1,6 +1,6 @@
 
 ---
-title: Fast reinforcement learning through the composition of behaviours
+title: 'Fast reinforcement learning through the composition of behaviours'
 categories: 
     - 新媒体
     - DeepMind - Blog

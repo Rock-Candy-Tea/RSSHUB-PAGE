@@ -1,6 +1,6 @@
 
 ---
-title: 希莉Instagram始めました👶🏻
+title: '希莉Instagram始めました👶🏻'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 日向坂 46 博客

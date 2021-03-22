@@ -1,6 +1,6 @@
 
 ---
-title: 《新封神·哪吒重生》官宣暑期档，《FGO》剧场版可能引进
+title: '《新封神·哪吒重生》官宣暑期档，《FGO》剧场版可能引进'
 categories: 
     - 社交媒体
     - bilibili - UP 主专栏

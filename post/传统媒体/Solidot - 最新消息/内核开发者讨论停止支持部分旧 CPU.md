@@ -1,6 +1,6 @@
 
 ---
-title: 内核开发者讨论停止支持部分旧 CPU
+title: '内核开发者讨论停止支持部分旧 CPU'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

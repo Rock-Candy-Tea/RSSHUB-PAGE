@@ -1,6 +1,6 @@
 
 ---
-title: Awesome-TTRSS
+title: 'Awesome-TTRSS'
 categories: 
     - 编程
     - GitHub - 用户仓库

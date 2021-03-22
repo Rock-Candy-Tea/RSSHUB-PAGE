@@ -1,6 +1,6 @@
 
 ---
-title: DeepL wins first-ever Honorary German AI Award
+title: 'DeepL wins first-ever Honorary German AI Award'
 categories: 
     - 新媒体
     - DeepL - Blog

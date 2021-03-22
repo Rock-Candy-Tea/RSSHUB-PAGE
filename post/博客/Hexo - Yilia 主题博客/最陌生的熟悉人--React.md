@@ -1,6 +1,6 @@
 
 ---
-title: 最陌生的熟悉人--React
+title: '最陌生的熟悉人--React'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

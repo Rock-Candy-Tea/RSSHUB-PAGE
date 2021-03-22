@@ -1,6 +1,6 @@
 
 ---
-title: OPINION_ A _Trumper_ Social Media Platform Is a Bad Idea. Trump Should Sign Up For Gab Insteadhttps___bigleaguepolitics.com_opinion-a-trumper-social...
+title: 'OPINION_ A _Trumper_ Social Media Platform Is a Bad Idea. Trump Should Sign Up For Gab Insteadhttps___bigleaguepolitics.com_opinion-a-trumper-social...'
 categories: 
     - 社交媒体
     - Gab - 熱門

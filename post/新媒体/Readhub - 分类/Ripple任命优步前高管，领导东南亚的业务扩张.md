@@ -1,6 +1,6 @@
 
 ---
-title: Ripple任命优步前高管，领导东南亚的业务扩张
+title: 'Ripple任命优步前高管，领导东南亚的业务扩张'
 categories: 
     - 新媒体
     - Readhub - 分类

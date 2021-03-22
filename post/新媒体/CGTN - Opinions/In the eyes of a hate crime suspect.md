@@ -1,6 +1,6 @@
 
 ---
-title: In the eyes of a hate crime suspect...
+title: 'In the eyes of a hate crime suspect...'
 categories: 
     - 新媒体
     - CGTN - Opinions

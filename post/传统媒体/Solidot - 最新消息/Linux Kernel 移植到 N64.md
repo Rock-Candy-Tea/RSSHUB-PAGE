@@ -1,6 +1,6 @@
 
 ---
-title: Linux Kernel 移植到 N64
+title: 'Linux Kernel 移植到 N64'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

@@ -1,6 +1,6 @@
 
 ---
-title: Welcome to the new age of dark design! 🖤
+title: 'Welcome to the new age of dark design! 🖤'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

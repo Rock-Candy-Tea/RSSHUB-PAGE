@@ -1,12 +1,12 @@
 
 ---
-title: VALORANT RETAKE
+title: 'VALORANT RETAKE'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/valorant2/1693072870-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00955.jpg'
 ---
 

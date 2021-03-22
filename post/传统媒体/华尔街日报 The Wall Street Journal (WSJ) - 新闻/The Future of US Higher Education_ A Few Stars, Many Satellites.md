@@ -1,6 +1,6 @@
 
 ---
-title: The Future of U.S. Higher Education_ A Few Stars, Many Satellites
+title: 'The Future of U.S. Higher Education_ A Few Stars, Many Satellites'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: AD for communion of visually impaired and normally sighted persons
+title: 'AD for communion of visually impaired and normally sighted persons'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

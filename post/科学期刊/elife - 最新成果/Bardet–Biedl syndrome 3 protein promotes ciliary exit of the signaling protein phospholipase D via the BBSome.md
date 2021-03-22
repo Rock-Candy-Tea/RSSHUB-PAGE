@@ -1,6 +1,6 @@
 
 ---
-title: Bardet–Biedl syndrome 3 protein promotes ciliary exit of the signaling protein phospholipase D via the BBSome
+title: 'Bardet–Biedl syndrome 3 protein promotes ciliary exit of the signaling protein phospholipase D via the BBSome'
 categories: 
     - 科学期刊
     - elife - 最新成果

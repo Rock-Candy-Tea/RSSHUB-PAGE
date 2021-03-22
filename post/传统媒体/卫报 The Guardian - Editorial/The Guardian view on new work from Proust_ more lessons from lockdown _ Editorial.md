@@ -1,6 +1,6 @@
 
 ---
-title: The Guardian view on new work from Proust_ more lessons from lockdown _ Editorial
+title: 'The Guardian view on new work from Proust_ more lessons from lockdown _ Editorial'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - Editorial

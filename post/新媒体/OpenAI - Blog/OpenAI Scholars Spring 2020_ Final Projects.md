@@ -1,6 +1,6 @@
 
 ---
-title: OpenAI Scholars Spring 2020_ Final Projects
+title: 'OpenAI Scholars Spring 2020_ Final Projects'
 categories: 
     - 新媒体
     - OpenAI - Blog

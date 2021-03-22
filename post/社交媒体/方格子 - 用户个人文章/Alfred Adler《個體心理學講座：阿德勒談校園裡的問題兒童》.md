@@ -1,6 +1,6 @@
 
 ---
-title: Alfred Adler《個體心理學講座：阿德勒談校園裡的問題兒童》
+title: 'Alfred Adler《個體心理學講座：阿德勒談校園裡的問題兒童》'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

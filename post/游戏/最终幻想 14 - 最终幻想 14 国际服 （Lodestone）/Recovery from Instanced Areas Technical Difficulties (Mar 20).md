@@ -1,6 +1,6 @@
 
 ---
-title: Recovery from Instanced Areas Technical Difficulties (Mar. 20)
+title: 'Recovery from Instanced Areas Technical Difficulties (Mar. 20)'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

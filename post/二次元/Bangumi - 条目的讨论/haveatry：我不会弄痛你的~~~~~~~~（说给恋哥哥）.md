@@ -1,6 +1,6 @@
 
 ---
-title: haveatry：我不会弄痛你的~~~~~~~~（说给恋哥哥）
+title: 'haveatry：我不会弄痛你的~~~~~~~~（说给恋哥哥）'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

@@ -1,6 +1,6 @@
 
 ---
-title: あなたに口づけ試験をするなら？-初音ミク PianoEdition
+title: 'あなたに口づけ試験をするなら？-初音ミク PianoEdition'
 categories: 
     - 社交媒体
     - piapro - 用户最新作品

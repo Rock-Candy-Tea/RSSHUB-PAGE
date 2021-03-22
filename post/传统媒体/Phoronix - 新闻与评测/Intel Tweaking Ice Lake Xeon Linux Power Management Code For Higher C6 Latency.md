@@ -1,6 +1,6 @@
 
 ---
-title: Intel Tweaking Ice Lake Xeon Linux Power Management Code For Higher C6 Latency
+title: 'Intel Tweaking Ice Lake Xeon Linux Power Management Code For Higher C6 Latency'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

@@ -1,7 +1,7 @@
 
 ---
-title: Electron-Electron Bremsstrahlung Emission and the Inference of Electron
-  Flux Spectra in Solar Flares
+title: 'Electron-Electron Bremsstrahlung Emission and the Inference of Electron
+  Flux Spectra in Solar Flares'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

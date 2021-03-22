@@ -1,6 +1,6 @@
 
 ---
-title: Spusu builds 5G network with Nokia
+title: 'Spusu builds 5G network with Nokia'
 categories: 
     - 传统媒体
     - Telecompaper - Search

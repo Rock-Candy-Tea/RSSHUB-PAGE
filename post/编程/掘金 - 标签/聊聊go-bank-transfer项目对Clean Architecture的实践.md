@@ -1,6 +1,6 @@
 
 ---
-title: 聊聊go-bank-transfer项目对Clean Architecture的实践
+title: '聊聊go-bank-transfer项目对Clean Architecture的实践'
 categories: 
     - 编程
     - 掘金 - 标签

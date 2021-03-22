@@ -1,6 +1,6 @@
 
 ---
-title: Event-specific interventions to minimize COVID-19 transmission
+title: 'Event-specific interventions to minimize COVID-19 transmission'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

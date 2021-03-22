@@ -1,6 +1,6 @@
 
 ---
-title: Better Days
+title: 'Better Days'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

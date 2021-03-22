@@ -1,6 +1,6 @@
 
 ---
-title: Improve your JS skills with theses tips
+title: 'Improve your JS skills with theses tips'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

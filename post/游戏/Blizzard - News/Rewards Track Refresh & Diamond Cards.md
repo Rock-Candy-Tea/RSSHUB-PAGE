@@ -1,6 +1,6 @@
 
 ---
-title: Rewards Track Refresh & Diamond Cards
+title: 'Rewards Track Refresh & Diamond Cards'
 categories: 
     - 游戏
     - Blizzard - News

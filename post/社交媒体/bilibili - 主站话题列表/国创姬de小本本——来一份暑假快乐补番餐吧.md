@@ -1,6 +1,6 @@
 
 ---
-title: 国创姬de小本本——来一份暑假快乐补番餐吧
+title: '国创姬de小本本——来一份暑假快乐补番餐吧'
 categories: 
     - 社交媒体
     - bilibili - 主站话题列表

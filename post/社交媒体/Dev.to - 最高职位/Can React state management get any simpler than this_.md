@@ -1,6 +1,6 @@
 
 ---
-title: Can React state management get any simpler than this_
+title: 'Can React state management get any simpler than this_'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

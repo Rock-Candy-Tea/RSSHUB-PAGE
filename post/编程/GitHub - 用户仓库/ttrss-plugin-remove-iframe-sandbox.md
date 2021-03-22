@@ -1,6 +1,6 @@
 
 ---
-title: ttrss-plugin-remove-iframe-sandbox
+title: 'ttrss-plugin-remove-iframe-sandbox'
 categories: 
     - 编程
     - GitHub - 用户仓库

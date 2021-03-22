@@ -1,12 +1,12 @@
 
 ---
-title: B站的视频社区能否撑起想象力？
+title: 'B站的视频社区能否撑起想象力？'
 categories: 
     - 新媒体
     - ZAKER - 精读
 author: ZAKER - 精读
 comments: false
-date: Invalid Date
+date: Thu, 18 Mar 2021 16:00:00 GMT
 thumbnail: 'http://zkres2.myzaker.com/202103/60541893b15ec0282e14ffba_1024.jpg'
 ---
 

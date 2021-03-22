@@ -1,6 +1,6 @@
 
 ---
-title: Chip shortage could indirectly hit iPhone production as Samsung plant offline
+title: 'Chip shortage could indirectly hit iPhone production as Samsung plant offline'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

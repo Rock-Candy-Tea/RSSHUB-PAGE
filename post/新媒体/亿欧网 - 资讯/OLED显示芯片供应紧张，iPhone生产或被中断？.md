@@ -1,6 +1,6 @@
 
 ---
-title: OLED显示芯片供应紧张，iPhone生产或被中断？
+title: 'OLED显示芯片供应紧张，iPhone生产或被中断？'
 categories: 
     - 新媒体
     - 亿欧网 - 资讯

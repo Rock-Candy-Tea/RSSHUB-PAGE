@@ -1,12 +1,12 @@
 
 ---
-title: © Joxe Inazio Kuesta Garmendia
+title: '© Joxe Inazio Kuesta Garmendia'
 categories: 
     - 图片
     - 1X - Photos
 author: 1X - Photos
 comments: false
-date: 2021-03-22 03:22:00
+date: 2021-03-22 03:48:23
 thumbnail: 'https://1x.com/images/user/386457c2fabf6831777d278b51d15580-ld.jpg'
 ---
 

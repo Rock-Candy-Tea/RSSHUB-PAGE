@@ -1,6 +1,6 @@
 
 ---
-title: blue_archive loli naked nipples pussy shi0n_krbn uncensored wet
+title: 'blue_archive loli naked nipples pussy shi0n_krbn uncensored wet'
 categories: 
     - 图片
     - yande.re - Popular Recent Posts

@@ -1,6 +1,6 @@
 
 ---
-title: A nuclear-based quality control pathway for non-imported mitochondrial proteins
+title: 'A nuclear-based quality control pathway for non-imported mitochondrial proteins'
 categories: 
     - 科学期刊
     - elife - 最新成果

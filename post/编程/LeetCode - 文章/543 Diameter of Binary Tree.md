@@ -1,6 +1,6 @@
 
 ---
-title: 543. Diameter of Binary Tree
+title: '543. Diameter of Binary Tree'
 categories: 
     - 编程
     - LeetCode - 文章

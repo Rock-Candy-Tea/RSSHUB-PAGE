@@ -1,6 +1,6 @@
 
 ---
-title: asuna_(blue_archive) blue_archive maid no_bra stockings thighhighs yukiaka
+title: 'asuna_(blue_archive) blue_archive maid no_bra stockings thighhighs yukiaka'
 categories: 
     - 图片
     - yande.re - Popular Recent Posts

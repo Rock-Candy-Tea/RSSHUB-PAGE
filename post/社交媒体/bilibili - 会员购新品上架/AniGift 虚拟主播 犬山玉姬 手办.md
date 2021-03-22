@@ -1,12 +1,12 @@
 
 ---
-title: AniGift 虚拟主播 犬山玉姬 手办
+title: 'AniGift 虚拟主播 犬山玉姬 手办'
 categories: 
     - 社交媒体
     - bilibili - 会员购新品上架
 author: bilibili - 会员购新品上架
 comments: false
-date: 2021-03-22 03:17:26
+date: 2021-03-22 03:45:07
 thumbnail: 'https://i0.hdslb.com/bfs/mall/mall/8f/9b/8f9b23552e68f413bf2f9fcb7fbf6a3c.png'
 ---
 

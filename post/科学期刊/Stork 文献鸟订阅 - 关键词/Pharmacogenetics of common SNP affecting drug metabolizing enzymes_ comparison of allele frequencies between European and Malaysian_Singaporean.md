@@ -1,12 +1,12 @@
 
 ---
-title: Pharmacogenetics of common SNP affecting drug metabolizing enzymes_ comparison of allele frequencies between European and Malaysian_Singaporean.
+title: 'Pharmacogenetics of common SNP affecting drug metabolizing enzymes_ comparison of allele frequencies between European and Malaysian_Singaporean.'
 categories: 
     - 科学期刊
     - Stork 文献鸟订阅 - 关键词
 author: Stork 文献鸟订阅 - 关键词
 comments: false
-date: 2021-03-22 03:19:22
+date: 2021-03-22 03:46:08
 thumbnail: ''
 ---
 

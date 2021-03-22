@@ -1,6 +1,6 @@
 
 ---
-title: Canonical Continues To Talk Up Google's Flutter UI Toolkit
+title: 'Canonical Continues To Talk Up Google's Flutter UI Toolkit'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

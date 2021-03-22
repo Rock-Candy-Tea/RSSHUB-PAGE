@@ -1,6 +1,6 @@
 
 ---
-title: fix(route)_ Fix pubDate and show full title w_ link in description (verfghbw)
+title: 'fix(route)_ Fix pubDate and show full title w_ link in description (verfghbw)'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

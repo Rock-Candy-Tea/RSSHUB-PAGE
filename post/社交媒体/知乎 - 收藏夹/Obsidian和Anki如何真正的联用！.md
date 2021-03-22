@@ -1,6 +1,6 @@
 
 ---
-title: Obsidian和Anki如何真正的联用！
+title: 'Obsidian和Anki如何真正的联用！'
 categories: 
     - 社交媒体
     - 知乎 - 收藏夹

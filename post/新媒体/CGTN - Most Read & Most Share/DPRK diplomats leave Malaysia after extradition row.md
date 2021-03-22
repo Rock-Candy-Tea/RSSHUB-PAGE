@@ -1,6 +1,6 @@
 
 ---
-title: DPRK diplomats leave Malaysia after extradition row
+title: 'DPRK diplomats leave Malaysia after extradition row'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

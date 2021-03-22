@@ -1,6 +1,6 @@
 
 ---
-title: visual identity_ landing page
+title: 'visual identity_ landing page'
 categories: 
     - 设计
     - Dribbble - 流行

@@ -1,6 +1,6 @@
 
 ---
-title: _World_ The former fighters embracing peace in the Philippines Mindanao region
+title: '_World_ The former fighters embracing peace in the Philippines Mindanao region'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

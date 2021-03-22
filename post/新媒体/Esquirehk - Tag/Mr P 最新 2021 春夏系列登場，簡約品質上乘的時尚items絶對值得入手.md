@@ -1,6 +1,6 @@
 
 ---
-title: Mr P. 最新 2021 春夏系列登場，簡約品質上乘的時尚items絶對值得入手
+title: 'Mr P. 最新 2021 春夏系列登場，簡約品質上乘的時尚items絶對值得入手'
 categories: 
     - 新媒体
     - Esquirehk - Tag

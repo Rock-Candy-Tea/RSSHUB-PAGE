@@ -1,6 +1,6 @@
 
 ---
-title: Debian 11 'bullseye' 开发开始冻结
+title: 'Debian 11 'bullseye' 开发开始冻结'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

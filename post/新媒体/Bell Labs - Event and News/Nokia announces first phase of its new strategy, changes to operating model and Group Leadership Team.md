@@ -1,6 +1,6 @@
 
 ---
-title: Nokia announces first phase of its new strategy, changes to operating model and Group Leadership Team
+title: 'Nokia announces first phase of its new strategy, changes to operating model and Group Leadership Team'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

@@ -1,6 +1,6 @@
 
 ---
-title: SUSE 准备 IPO
+title: 'SUSE 准备 IPO'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

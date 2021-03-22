@@ -1,6 +1,6 @@
 
 ---
-title: Customize DeepL Translator with the Glossary
+title: 'Customize DeepL Translator with the Glossary'
 categories: 
     - 新媒体
     - DeepL - Blog

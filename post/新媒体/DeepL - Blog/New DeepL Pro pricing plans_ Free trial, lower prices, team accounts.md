@@ -1,6 +1,6 @@
 
 ---
-title: New DeepL Pro pricing plans_ Free trial, lower prices, team accounts
+title: 'New DeepL Pro pricing plans_ Free trial, lower prices, team accounts'
 categories: 
     - 新媒体
     - DeepL - Blog

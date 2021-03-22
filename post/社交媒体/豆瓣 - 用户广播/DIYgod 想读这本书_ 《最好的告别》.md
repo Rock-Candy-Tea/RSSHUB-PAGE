@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想读这本书_ 《最好的告别》
+title: 'DIYgod 想读这本书_ 《最好的告别》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

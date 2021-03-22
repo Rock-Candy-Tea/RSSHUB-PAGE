@@ -1,6 +1,6 @@
 
 ---
-title: Leveraging Marine Natural Products as a Platform to Tackle Bacterial Resistance and Persistence
+title: 'Leveraging Marine Natural Products as a Platform to Tackle Bacterial Resistance and Persistence'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

@@ -1,6 +1,6 @@
 
 ---
-title: Psycho-Pass 3 BDR 720p 2xRUS_AC3, 1xJPN_AAC
+title: 'Psycho-Pass 3 BDR 720p 2xRUS_AC3, 1xJPN_AAC'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

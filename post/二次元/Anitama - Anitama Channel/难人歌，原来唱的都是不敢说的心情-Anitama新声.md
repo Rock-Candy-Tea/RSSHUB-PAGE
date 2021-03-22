@@ -1,6 +1,6 @@
 
 ---
-title: 难人歌，原来唱的都是不敢说的心情-Anitama新声
+title: '难人歌，原来唱的都是不敢说的心情-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

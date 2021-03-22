@@ -1,6 +1,6 @@
 
 ---
-title: Ubuntu 21.04 将尝试默认使用 Wayland
+title: 'Ubuntu 21.04 将尝试默认使用 Wayland'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

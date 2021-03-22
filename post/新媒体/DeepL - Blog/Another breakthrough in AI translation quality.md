@@ -1,6 +1,6 @@
 
 ---
-title: Another breakthrough in AI translation quality
+title: 'Another breakthrough in AI translation quality'
 categories: 
     - 新媒体
     - DeepL - Blog

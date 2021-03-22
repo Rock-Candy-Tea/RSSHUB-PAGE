@@ -1,6 +1,6 @@
 
 ---
-title: C__cp77_hardware_requirements.info
+title: 'C__cp77_hardware_requirements.info'
 categories: 
     - 游戏
     - Steam - Steam news

@@ -1,6 +1,6 @@
 
 ---
-title: @noiob_ "(CW) "
+title: '@noiob_ "(CW) "'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

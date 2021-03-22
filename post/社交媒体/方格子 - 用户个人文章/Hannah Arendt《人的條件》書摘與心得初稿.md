@@ -1,6 +1,6 @@
 
 ---
-title: Hannah Arendt《人的條件》書摘與心得初稿
+title: 'Hannah Arendt《人的條件》書摘與心得初稿'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

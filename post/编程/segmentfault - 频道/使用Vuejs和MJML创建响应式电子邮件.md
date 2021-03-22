@@ -1,12 +1,12 @@
 
 ---
-title: 使用Vue.js和MJML创建响应式电子邮件
+title: '使用Vue.js和MJML创建响应式电子邮件'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:54
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/remote/1460000039683059'
 ---
 

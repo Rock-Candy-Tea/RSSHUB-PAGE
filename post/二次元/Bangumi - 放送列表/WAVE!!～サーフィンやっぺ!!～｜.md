@@ -1,6 +1,6 @@
 
 ---
-title: WAVE!!～サーフィンやっぺ!!～｜
+title: 'WAVE!!～サーフィンやっぺ!!～｜'
 categories: 
     - 二次元
     - Bangumi - 放送列表

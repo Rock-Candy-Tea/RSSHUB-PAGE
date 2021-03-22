@@ -1,6 +1,6 @@
 
 ---
-title: WiFi 二维码
+title: 'WiFi 二维码'
 categories: 
     - 新媒体
     - 少数派 sspai - Shortcuts Gallery

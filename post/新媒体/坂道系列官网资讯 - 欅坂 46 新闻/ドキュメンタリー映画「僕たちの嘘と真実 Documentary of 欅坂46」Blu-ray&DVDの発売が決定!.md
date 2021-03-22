@@ -1,6 +1,6 @@
 
 ---
-title: ドキュメンタリー映画「僕たちの嘘と真実 Documentary of 欅坂46」Blu-ray&DVDの発売が決定!
+title: 'ドキュメンタリー映画「僕たちの嘘と真実 Documentary of 欅坂46」Blu-ray&DVDの発売が決定!'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 新闻

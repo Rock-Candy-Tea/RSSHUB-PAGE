@@ -1,6 +1,6 @@
 
 ---
-title: Nonlinear convergence boosts information coding in circuits with parallel outputs
+title: 'Nonlinear convergence boosts information coding in circuits with parallel outputs'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

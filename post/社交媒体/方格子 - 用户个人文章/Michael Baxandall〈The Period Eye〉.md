@@ -1,6 +1,6 @@
 
 ---
-title: Michael Baxandall〈The Period Eye〉
+title: 'Michael Baxandall〈The Period Eye〉'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

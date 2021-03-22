@@ -1,7 +1,7 @@
 
 ---
-title: 扎克·施奈德版正义联盟
-                                    Zack Snyder's Justice League
+title: '扎克·施奈德版正义联盟
+                                    Zack Snyder's Justice League'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

@@ -1,6 +1,6 @@
 
 ---
-title: anthropomorphism black_hair cura dualscreen hachiroku japanese_clothes loli long_hair maitetsu paper red_eyes socks waifu2x
+title: 'anthropomorphism black_hair cura dualscreen hachiroku japanese_clothes loli long_hair maitetsu paper red_eyes socks waifu2x'
 categories: 
     - 图片
     - Konachan Anime Wallpapers - Popular Recent Posts

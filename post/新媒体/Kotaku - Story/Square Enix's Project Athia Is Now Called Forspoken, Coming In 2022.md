@@ -1,6 +1,6 @@
 
 ---
-title: Square Enix's Project Athia Is Now Called Forspoken, Coming In 2022
+title: 'Square Enix's Project Athia Is Now Called Forspoken, Coming In 2022'
 categories: 
     - 新媒体
     - Kotaku - Story

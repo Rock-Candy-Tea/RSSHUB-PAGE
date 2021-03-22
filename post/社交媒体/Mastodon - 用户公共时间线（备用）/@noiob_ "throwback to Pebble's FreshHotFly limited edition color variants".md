@@ -1,8 +1,8 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 throwback to Pebble's FreshHotFly limited edition color variants
-"
+"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

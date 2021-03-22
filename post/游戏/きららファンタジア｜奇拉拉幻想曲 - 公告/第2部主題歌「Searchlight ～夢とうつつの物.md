@@ -1,6 +1,6 @@
 
 ---
-title: 第2部主題歌「Searchlight ～夢とうつつの物...
+title: '第2部主題歌「Searchlight ～夢とうつつの物...'
 categories: 
     - 游戏
     - きららファンタジア｜奇拉拉幻想曲 - 公告

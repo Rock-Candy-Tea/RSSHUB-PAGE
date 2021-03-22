@@ -1,6 +1,6 @@
 
 ---
-title: Thinking About Buying Stock In Xpeng, GE, Tesla Or Apple_
+title: 'Thinking About Buying Stock In Xpeng, GE, Tesla Or Apple_'
 categories: 
     - 金融
     - finviz - 美股股票新闻

@@ -1,6 +1,6 @@
 
 ---
-title: How to Install Netflix on Your TV
+title: 'How to Install Netflix on Your TV'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

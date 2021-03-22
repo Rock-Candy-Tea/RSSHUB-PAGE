@@ -1,13 +1,13 @@
 
 ---
-title: DRAGON QUEST XI S_ Echoes of an Elusive Age – Definitive Edition
--10%
+title: 'DRAGON QUEST XI S_ Echoes of an Elusive Age – Definitive Edition
+-10%'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/ee99c57b006a32030dd4da3dd65ffd5c910d2df8/w500.jpg'
 ---
 

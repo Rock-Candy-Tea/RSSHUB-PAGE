@@ -1,6 +1,6 @@
 
 ---
-title: SpongeBob
+title: 'SpongeBob'
 categories: 
     - 设计
     - Dribbble - 流行

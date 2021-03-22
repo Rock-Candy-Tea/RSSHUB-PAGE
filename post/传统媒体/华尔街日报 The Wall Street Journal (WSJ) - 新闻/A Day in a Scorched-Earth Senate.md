@@ -1,6 +1,6 @@
 
 ---
-title: A Day in a Scorched-Earth Senate
+title: 'A Day in a Scorched-Earth Senate'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

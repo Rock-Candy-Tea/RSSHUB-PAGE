@@ -1,6 +1,6 @@
 
 ---
-title: AI Commission Calls for Federal Investments in Semiconductor Manufacturing and Research
+title: 'AI Commission Calls for Federal Investments in Semiconductor Manufacturing and Research'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: CKE——YFO持有者的专属空投福利 - 猎鹿人666
+title: 'CKE——YFO持有者的专属空投福利 - 猎鹿人666'
 categories: 
     - 新媒体
     - Matataki - 最新作品

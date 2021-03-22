@@ -1,6 +1,6 @@
 
 ---
-title: ★☆☆☆☆ 阿莎罗 通缉令 Azzaro Wanted, 2016
+title: '★☆☆☆☆ 阿莎罗 通缉令 Azzaro Wanted, 2016'
 categories: 
     - 新媒体
     - 香水时代 - 香评

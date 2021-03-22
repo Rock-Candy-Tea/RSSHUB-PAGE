@@ -1,6 +1,6 @@
 
 ---
-title: 【Jaxlee专栏】音乐、汗水、碰撞和迷茫的聚会
+title: '【Jaxlee专栏】音乐、汗水、碰撞和迷茫的聚会'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

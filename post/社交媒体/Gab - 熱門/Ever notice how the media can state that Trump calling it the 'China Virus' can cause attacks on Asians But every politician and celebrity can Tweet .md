@@ -1,6 +1,6 @@
 
 ---
-title: Ever notice how the media can state that Trump calling it the 'China Virus' can cause attacks on Asians. But every politician and celebrity can Tweet ...
+title: 'Ever notice how the media can state that Trump calling it the 'China Virus' can cause attacks on Asians. But every politician and celebrity can Tweet ...'
 categories: 
     - 社交媒体
     - Gab - 熱門

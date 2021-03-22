@@ -1,6 +1,6 @@
 
 ---
-title: Animated Stickers Done Right
+title: 'Animated Stickers Done Right'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

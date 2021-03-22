@@ -1,6 +1,6 @@
 
 ---
-title: 央行公布新一期LPR 均与上期持平
+title: '央行公布新一期LPR 均与上期持平'
 categories: 
     - 金融
     - 中证网 - 资讯

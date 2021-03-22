@@ -1,6 +1,6 @@
 
 ---
-title: Oxplyr Logo (O + Player)
+title: 'Oxplyr Logo (O + Player)'
 categories: 
     - 设计
     - Dribbble - 关键词

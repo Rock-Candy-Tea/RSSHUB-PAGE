@@ -1,6 +1,6 @@
 
 ---
-title: Here’s to the crazy ones.
+title: 'Here’s to the crazy ones.'
 categories: 
     - 博客
     - Phrack Magazine - 文章

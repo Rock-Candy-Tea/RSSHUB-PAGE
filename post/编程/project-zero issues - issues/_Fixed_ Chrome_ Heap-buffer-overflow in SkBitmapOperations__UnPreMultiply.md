@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Chrome_ Heap-buffer-overflow in SkBitmapOperations__UnPreMultiply
+title: '_Fixed_ Chrome_ Heap-buffer-overflow in SkBitmapOperations__UnPreMultiply'
 categories: 
     - 编程
     - project-zero issues - issues

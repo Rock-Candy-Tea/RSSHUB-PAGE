@@ -1,6 +1,6 @@
 
 ---
-title: 年化一万的土矿值得挖吗？USDC市值超越USDT（EOS链） - 币乎先圣
+title: '年化一万的土矿值得挖吗？USDC市值超越USDT（EOS链） - 币乎先圣'
 categories: 
     - 新媒体
     - Matataki - 最热作品

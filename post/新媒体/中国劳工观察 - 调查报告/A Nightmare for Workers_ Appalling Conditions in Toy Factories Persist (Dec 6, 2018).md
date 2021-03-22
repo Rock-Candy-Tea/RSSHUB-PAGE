@@ -1,6 +1,6 @@
 
 ---
-title: A Nightmare for Workers_ Appalling Conditions in Toy Factories Persist (Dec 6, 2018)
+title: 'A Nightmare for Workers_ Appalling Conditions in Toy Factories Persist (Dec 6, 2018)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

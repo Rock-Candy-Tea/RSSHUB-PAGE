@@ -1,6 +1,6 @@
 
 ---
-title: This Too Shall Pass... And We Can Prepare
+title: 'This Too Shall Pass... And We Can Prepare'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

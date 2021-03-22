@@ -1,6 +1,6 @@
 
 ---
-title: 译文｜深度解读 Apple ProRAW 功能
+title: '译文｜深度解读 Apple ProRAW 功能'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

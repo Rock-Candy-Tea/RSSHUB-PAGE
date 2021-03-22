@@ -1,6 +1,6 @@
 
 ---
-title: LIVE DVD&Blu-ray『THE LAST LIVE -DAY1 & DAY2-』(完全生産限定盤) CDショップチェーン別先着特典決定!
+title: 'LIVE DVD&Blu-ray『THE LAST LIVE -DAY1 & DAY2-』(完全生産限定盤) CDショップチェーン別先着特典決定!'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 新闻

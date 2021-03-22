@@ -1,6 +1,6 @@
 
 ---
-title: Semiconductor Industry Leaders Urge President Biden to Prioritize Funding for Semiconductor Manufacturing, Research
+title: 'Semiconductor Industry Leaders Urge President Biden to Prioritize Funding for Semiconductor Manufacturing, Research'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: COVID-19 Open Research Dataset Challenge (CORD-19)
+title: 'COVID-19 Open Research Dataset Challenge (CORD-19)'
 categories: 
     - 编程
     - Kaggle - User Discussion

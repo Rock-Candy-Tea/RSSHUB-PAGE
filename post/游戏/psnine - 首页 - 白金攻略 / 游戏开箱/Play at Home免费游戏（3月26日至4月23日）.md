@@ -1,6 +1,6 @@
 
 ---
-title: Play at Home免费游戏（3月26日至4月23日）
+title: 'Play at Home免费游戏（3月26日至4月23日）'
 categories: 
     - 游戏
     - psnine - 首页 - 白金攻略 / 游戏开箱

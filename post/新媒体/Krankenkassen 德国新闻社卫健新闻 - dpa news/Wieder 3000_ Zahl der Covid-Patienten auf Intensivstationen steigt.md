@@ -1,6 +1,6 @@
 
 ---
-title: Wieder 3000_ Zahl der Covid-Patienten auf Intensivstationen steigt
+title: 'Wieder 3000_ Zahl der Covid-Patienten auf Intensivstationen steigt'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

@@ -1,6 +1,6 @@
 
 ---
-title: 为什么现在的新品牌没有slogan了？
+title: '为什么现在的新品牌没有slogan了？'
 categories: 
     - 新媒体
     - 广告门 - 板块

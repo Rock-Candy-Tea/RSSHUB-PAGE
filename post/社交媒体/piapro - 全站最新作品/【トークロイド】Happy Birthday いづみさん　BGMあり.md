@@ -1,6 +1,6 @@
 
 ---
-title: 【トークロイド】Happy Birthday いづみさん　BGMあり
+title: '【トークロイド】Happy Birthday いづみさん　BGMあり'
 categories: 
     - 社交媒体
     - piapro - 全站最新作品

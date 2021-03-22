@@ -1,6 +1,6 @@
 
 ---
-title: _邮件传输不能超过500英里_的故事在Hacker News上被分享了超30次
+title: '_邮件传输不能超过500英里_的故事在Hacker News上被分享了超30次'
 categories: 
     - 编程
     - wolley - posts

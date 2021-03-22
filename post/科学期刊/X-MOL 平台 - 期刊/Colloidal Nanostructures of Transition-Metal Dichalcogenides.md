@@ -1,6 +1,6 @@
 
 ---
-title: Colloidal Nanostructures of Transition-Metal Dichalcogenides
+title: 'Colloidal Nanostructures of Transition-Metal Dichalcogenides'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

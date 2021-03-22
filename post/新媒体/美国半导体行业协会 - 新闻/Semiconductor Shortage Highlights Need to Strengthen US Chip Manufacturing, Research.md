@@ -1,6 +1,6 @@
 
 ---
-title: Semiconductor Shortage Highlights Need to Strengthen U.S. Chip Manufacturing, Research
+title: 'Semiconductor Shortage Highlights Need to Strengthen U.S. Chip Manufacturing, Research'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

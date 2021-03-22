@@ -1,6 +1,6 @@
 
 ---
-title: The Guardian view on a UK Covid inquiry_ now is the time
+title: 'The Guardian view on a UK Covid inquiry_ now is the time'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - Editorial

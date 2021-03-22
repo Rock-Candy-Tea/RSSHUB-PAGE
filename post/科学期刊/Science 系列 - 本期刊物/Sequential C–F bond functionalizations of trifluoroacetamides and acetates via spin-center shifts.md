@@ -1,6 +1,6 @@
 
 ---
-title: Sequential C–F bond functionalizations of trifluoroacetamides and acetates via spin-center shifts
+title: 'Sequential C–F bond functionalizations of trifluoroacetamides and acetates via spin-center shifts'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

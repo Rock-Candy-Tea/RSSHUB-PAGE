@@ -1,6 +1,6 @@
 
 ---
-title: ★☆☆☆☆ 纪梵希 都会绅士 Givenchy Gentlemen Only, 2013
+title: '★☆☆☆☆ 纪梵希 都会绅士 Givenchy Gentlemen Only, 2013'
 categories: 
     - 新媒体
     - 香水时代 - 香评

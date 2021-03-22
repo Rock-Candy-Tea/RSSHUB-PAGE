@@ -1,6 +1,6 @@
 
 ---
-title: ZTE, China Mobile complete SPN emulation pilot on existing network
+title: 'ZTE, China Mobile complete SPN emulation pilot on existing network'
 categories: 
     - 传统媒体
     - Telecompaper - News

@@ -1,12 +1,12 @@
 
 ---
-title: 如何在Spring生态中玩转RocketMQ？
+title: '如何在Spring生态中玩转RocketMQ？'
 categories: 
     - 编程
     - segmentfault - 用户
 author: segmentfault - 用户
 comments: false
-date: 2021-03-22 03:14:56
+date: 2021-03-22 03:42:53
 thumbnail: 'https://segmentfault.com/img/remote/1460000039674593'
 ---
 

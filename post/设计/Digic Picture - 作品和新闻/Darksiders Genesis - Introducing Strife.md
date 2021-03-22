@@ -1,6 +1,6 @@
 
 ---
-title: Darksiders Genesis - Introducing Strife
+title: 'Darksiders Genesis - Introducing Strife'
 categories: 
     - 设计
     - Digic Picture - 作品和新闻

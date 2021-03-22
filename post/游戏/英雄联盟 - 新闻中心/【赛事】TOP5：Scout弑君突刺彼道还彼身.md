@@ -1,6 +1,6 @@
 
 ---
-title: 【赛事】TOP5：Scout弑君突刺彼道还彼身
+title: '【赛事】TOP5：Scout弑君突刺彼道还彼身'
 categories: 
     - 游戏
     - 英雄联盟 - 新闻中心

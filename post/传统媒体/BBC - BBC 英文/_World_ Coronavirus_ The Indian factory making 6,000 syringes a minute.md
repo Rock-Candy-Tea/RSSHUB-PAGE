@@ -1,6 +1,6 @@
 
 ---
-title: _World_ Coronavirus_ The Indian factory making 6,000 syringes a minute
+title: '_World_ Coronavirus_ The Indian factory making 6,000 syringes a minute'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

@@ -1,6 +1,6 @@
 
 ---
-title: Flutter2.0快速体验写一个macos应用
+title: 'Flutter2.0快速体验写一个macos应用'
 categories: 
     - 编程
     - 掘金 - 热门

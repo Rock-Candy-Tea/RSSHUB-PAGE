@@ -1,6 +1,6 @@
 
 ---
-title: 怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ【特别收录】《怪物猎人 崛起》炎火村一日游
+title: '怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ【特别收录】《怪物猎人 崛起》炎火村一日游'
 categories: 
     - 游戏
     - 游戏时光 - 关键词资讯

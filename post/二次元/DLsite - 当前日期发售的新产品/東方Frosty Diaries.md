@@ -1,6 +1,6 @@
 
 ---
-title: 東方Frosty Diaries
+title: '東方Frosty Diaries'
 categories: 
     - 二次元
     - DLsite - 当前日期发售的新产品

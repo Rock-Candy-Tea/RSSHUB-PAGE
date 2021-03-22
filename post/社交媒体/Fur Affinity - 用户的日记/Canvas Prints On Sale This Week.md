@@ -1,6 +1,6 @@
 
 ---
-title: Canvas Prints On Sale This Week
+title: 'Canvas Prints On Sale This Week'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

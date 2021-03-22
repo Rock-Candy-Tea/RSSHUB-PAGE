@@ -1,6 +1,6 @@
 
 ---
-title: JavaScript的强语言之路—另类的JSON序列化与反序列化
+title: 'JavaScript的强语言之路—另类的JSON序列化与反序列化'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

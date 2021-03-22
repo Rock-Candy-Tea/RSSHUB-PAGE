@@ -1,6 +1,6 @@
 
 ---
-title: 发布了_ 今天是周五 #TGIF
+title: '发布了_ 今天是周五 #TGIF'
 categories: 
     - 社交媒体
     - 即刻 - 用户动态

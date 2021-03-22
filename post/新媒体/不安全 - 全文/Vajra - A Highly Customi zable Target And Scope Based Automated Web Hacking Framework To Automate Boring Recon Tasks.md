@@ -1,6 +1,6 @@
 
 ---
-title: Vajra - A Highly Customi zable Target And Scope Based Automated Web Hacking Framework To Automate Boring Recon Tasks
+title: 'Vajra - A Highly Customi zable Target And Scope Based Automated Web Hacking Framework To Automate Boring Recon Tasks'
 categories: 
     - 新媒体
     - 不安全 - 全文

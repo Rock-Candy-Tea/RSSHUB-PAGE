@@ -1,6 +1,6 @@
 
 ---
-title: 《七龙珠Z 卡卡洛特》DLC_特兰克斯 希望的战士_新截图公开
+title: '《七龙珠Z 卡卡洛特》DLC_特兰克斯 希望的战士_新截图公开'
 categories: 
     - 游戏
     - a9vgNews 游戏新闻 - a9vgNews 游戏新闻

@@ -1,6 +1,6 @@
 
 ---
-title: chroe_ Docker build 缩小 image size 更新github action
+title: 'chroe_ Docker build 缩小 image size 更新github action'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

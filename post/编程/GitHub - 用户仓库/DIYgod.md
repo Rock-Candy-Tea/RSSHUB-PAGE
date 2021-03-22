@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod
+title: 'DIYgod'
 categories: 
     - 编程
     - GitHub - 用户仓库

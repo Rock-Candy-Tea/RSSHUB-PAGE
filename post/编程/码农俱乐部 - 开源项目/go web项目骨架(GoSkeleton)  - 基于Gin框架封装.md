@@ -1,12 +1,12 @@
 
 ---
-title: go web项目骨架(GoSkeleton)  - 基于Gin框架封装
+title: 'go web项目骨架(GoSkeleton)  - 基于Gin框架封装'
 categories: 
     - 编程
     - 码农俱乐部 - 开源项目
 author: 码农俱乐部 - 开源项目
 comments: false
-date: 2021-03-22 03:15:05
+date: 2021-03-22 03:43:02
 thumbnail: ''
 ---
 

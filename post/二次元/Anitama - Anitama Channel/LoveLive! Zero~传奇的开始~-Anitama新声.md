@@ -1,6 +1,6 @@
 
 ---
-title: LoveLive! Zero~传奇的开始~-Anitama新声
+title: 'LoveLive! Zero~传奇的开始~-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

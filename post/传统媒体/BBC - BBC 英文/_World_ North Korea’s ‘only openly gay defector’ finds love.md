@@ -1,6 +1,6 @@
 
 ---
-title: _World_ North Korea’s ‘only openly gay defector’ finds love
+title: '_World_ North Korea’s ‘only openly gay defector’ finds love'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

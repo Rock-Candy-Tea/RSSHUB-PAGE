@@ -1,6 +1,6 @@
 
 ---
-title: React源码分析 - 事件机制
+title: 'React源码分析 - 事件机制'
 categories: 
     - 编程
     - 掘金 - 收藏集

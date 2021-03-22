@@ -1,12 +1,12 @@
 
 ---
-title: The Global Risks Report 2021
+title: 'The Global Risks Report 2021'
 categories: 
     - 金融
     - 世界经济论坛 - 报告
 author: 世界经济论坛 - 报告
 comments: false
-date: 2021-03-22 03:21:01
+date: 2021-03-22 03:47:30
 thumbnail: 'https://assets.weforum.org/editor/rQqVHccraJubjZdOPqijyxoBxG-XWpOmj1KwDJuGGnM.png'
 ---
 

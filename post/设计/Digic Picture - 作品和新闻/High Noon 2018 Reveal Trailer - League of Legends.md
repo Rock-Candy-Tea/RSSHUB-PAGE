@@ -1,6 +1,6 @@
 
 ---
-title: High Noon 2018 Reveal Trailer - League of Legends
+title: 'High Noon 2018 Reveal Trailer - League of Legends'
 categories: 
     - 设计
     - Digic Picture - 作品和新闻

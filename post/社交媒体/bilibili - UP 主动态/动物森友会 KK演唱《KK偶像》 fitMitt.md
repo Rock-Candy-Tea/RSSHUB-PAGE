@@ -1,6 +1,6 @@
 
 ---
-title: 动物森友会 K.K.演唱《K.K.偶像》 fit.Mitt
+title: '动物森友会 K.K.演唱《K.K.偶像》 fit.Mitt'
 categories: 
     - 社交媒体
     - bilibili - UP 主动态

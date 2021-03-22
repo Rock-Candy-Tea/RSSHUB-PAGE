@@ -1,6 +1,6 @@
 
 ---
-title: qq.getSystemInfo 返回的数据 res.wifiEnabled返回undefined？
+title: 'qq.getSystemInfo 返回的数据 res.wifiEnabled返回undefined？'
 categories: 
     - 编程
     - 微信开放平台 - 微信开放社区 - 小游戏问答

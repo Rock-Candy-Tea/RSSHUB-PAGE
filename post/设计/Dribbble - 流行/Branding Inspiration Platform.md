@@ -1,6 +1,6 @@
 
 ---
-title: Branding Inspiration Platform
+title: 'Branding Inspiration Platform'
 categories: 
     - 设计
     - Dribbble - 流行

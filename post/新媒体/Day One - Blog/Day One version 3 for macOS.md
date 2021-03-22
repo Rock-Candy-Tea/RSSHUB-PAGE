@@ -1,6 +1,6 @@
 
 ---
-title: Day One version 3 for macOS
+title: 'Day One version 3 for macOS'
 categories: 
     - 新媒体
     - Day One - Blog

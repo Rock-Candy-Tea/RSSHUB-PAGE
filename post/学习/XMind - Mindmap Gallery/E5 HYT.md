@@ -1,6 +1,6 @@
 
 ---
-title: E5 HYT
+title: 'E5 HYT'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

@@ -1,6 +1,6 @@
 
 ---
-title: We need highly formal rituals in order to make life more democratic
+title: 'We need highly formal rituals in order to make life more democratic'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

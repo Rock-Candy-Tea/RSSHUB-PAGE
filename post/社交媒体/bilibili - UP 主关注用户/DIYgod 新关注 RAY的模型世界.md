@@ -1,12 +1,12 @@
 
 ---
-title: DIYgod 新关注 RAY的模型世界
+title: 'DIYgod 新关注 RAY的模型世界'
 categories: 
     - 社交媒体
     - bilibili - UP 主关注用户
 author: bilibili - UP 主关注用户
 comments: false
-date: Sat, 06 Feb 2021 13:03:38 GMT
+date: Sat, 06 Feb 2021 13:03:40 GMT
 thumbnail: ''
 ---
 

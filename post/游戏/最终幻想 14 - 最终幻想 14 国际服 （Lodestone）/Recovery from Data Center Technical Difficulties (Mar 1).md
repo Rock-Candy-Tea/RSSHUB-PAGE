@@ -1,6 +1,6 @@
 
 ---
-title: Recovery from Data Center Technical Difficulties (Mar. 1)
+title: 'Recovery from Data Center Technical Difficulties (Mar. 1)'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

@@ -1,6 +1,6 @@
 
 ---
-title: _YnK_ Psycho-Pass 3 _BD 720p_
+title: '_YnK_ Psycho-Pass 3 _BD 720p_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

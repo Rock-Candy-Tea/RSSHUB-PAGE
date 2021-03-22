@@ -1,6 +1,6 @@
 
 ---
-title: Kristi Noem rejects signing transgender sports billhttps___thehill.com_homenews_state-watch_544241-kristi-noem-rejects-signing-transgender-sports-bill
+title: 'Kristi Noem rejects signing transgender sports billhttps___thehill.com_homenews_state-watch_544241-kristi-noem-rejects-signing-transgender-sports-bill'
 categories: 
     - 社交媒体
     - Gab - 熱門

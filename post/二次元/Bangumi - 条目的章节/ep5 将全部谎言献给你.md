@@ -1,6 +1,6 @@
 
 ---
-title: ep.5 将全部谎言献给你
+title: 'ep.5 将全部谎言献给你'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

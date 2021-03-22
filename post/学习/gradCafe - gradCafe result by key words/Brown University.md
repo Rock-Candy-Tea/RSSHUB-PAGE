@@ -1,6 +1,6 @@
 
 ---
-title: Brown University
+title: 'Brown University'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

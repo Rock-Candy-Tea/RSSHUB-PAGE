@@ -1,6 +1,6 @@
 
 ---
-title: The Guardian view on the Northern Ireland protocol_ honour the treaty _ Editorial
+title: 'The Guardian view on the Northern Ireland protocol_ honour the treaty _ Editorial'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - Editorial

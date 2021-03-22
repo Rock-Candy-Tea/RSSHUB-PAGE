@@ -1,6 +1,6 @@
 
 ---
-title: Welcome to Day One
+title: 'Welcome to Day One'
 categories: 
     - 新媒体
     - Day One - Blog

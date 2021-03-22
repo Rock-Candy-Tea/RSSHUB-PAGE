@@ -1,12 +1,12 @@
 
 ---
-title: Monster Boy and the Cursed Kingdom
+title: 'Monster Boy and the Cursed Kingdom'
 categories: 
     - 游戏
     - Steam - Steam search
 author: Steam - Steam search
 comments: false
-date: 2021-03-22 03:19:39
+date: 2021-03-22 03:46:20
 thumbnail: ''
 ---
 

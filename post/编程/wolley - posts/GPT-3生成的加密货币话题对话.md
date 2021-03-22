@@ -1,6 +1,6 @@
 
 ---
-title: GPT-3生成的加密货币话题对话
+title: 'GPT-3生成的加密货币话题对话'
 categories: 
     - 编程
     - wolley - posts

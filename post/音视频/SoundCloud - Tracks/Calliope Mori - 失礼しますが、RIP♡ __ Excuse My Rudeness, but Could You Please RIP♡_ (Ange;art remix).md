@@ -1,6 +1,6 @@
 
 ---
-title: Calliope Mori - 失礼しますが、RIP♡ __ Excuse My Rudeness, but Could You Please RIP♡_ (Ange;art remix)
+title: 'Calliope Mori - 失礼しますが、RIP♡ __ Excuse My Rudeness, but Could You Please RIP♡_ (Ange;art remix)'
 categories: 
     - 音视频
     - SoundCloud - Tracks

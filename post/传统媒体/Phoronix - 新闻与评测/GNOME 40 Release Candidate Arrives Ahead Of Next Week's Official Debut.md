@@ -1,6 +1,6 @@
 
 ---
-title: GNOME 40 Release Candidate Arrives Ahead Of Next Week's Official Debut
+title: 'GNOME 40 Release Candidate Arrives Ahead Of Next Week's Official Debut'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

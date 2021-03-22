@@ -1,6 +1,6 @@
 
 ---
-title: Android 组件化，从入门到不可自拔
+title: 'Android 组件化，从入门到不可自拔'
 categories: 
     - 编程
     - 掘金 - 标签

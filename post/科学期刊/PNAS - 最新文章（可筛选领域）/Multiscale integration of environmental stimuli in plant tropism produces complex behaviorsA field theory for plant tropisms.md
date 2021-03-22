@@ -1,6 +1,6 @@
 
 ---
-title: Multiscale integration of environmental stimuli in plant tropism produces complex behaviorsA field theory for plant tropisms
+title: 'Multiscale integration of environmental stimuli in plant tropism produces complex behaviorsA field theory for plant tropisms'
 categories: 
     - 科学期刊
     - PNAS - 最新文章（可筛选领域）

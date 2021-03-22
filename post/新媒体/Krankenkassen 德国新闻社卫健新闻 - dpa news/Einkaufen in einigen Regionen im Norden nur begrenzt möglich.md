@@ -1,6 +1,6 @@
 
 ---
-title: Einkaufen in einigen Regionen im Norden nur begrenzt möglich
+title: 'Einkaufen in einigen Regionen im Norden nur begrenzt möglich'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

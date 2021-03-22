@@ -1,6 +1,6 @@
 
 ---
-title: We’re all in this together_ The importance of building a brand from the inside out.
+title: 'We’re all in this together_ The importance of building a brand from the inside out.'
 categories: 
     - 设计
     - Monotype - Featured Article

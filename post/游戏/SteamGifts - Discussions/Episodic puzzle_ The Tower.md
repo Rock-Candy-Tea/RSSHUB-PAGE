@@ -1,6 +1,6 @@
 
 ---
-title: Episodic puzzle_ The Tower
+title: 'Episodic puzzle_ The Tower'
 categories: 
     - 游戏
     - SteamGifts - Discussions

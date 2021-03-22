@@ -1,12 +1,12 @@
 
 ---
-title: BPF 可移植性和 CO-RE（一次编译，到处运行）
+title: 'BPF 可移植性和 CO-RE（一次编译，到处运行）'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: ''
 ---
 

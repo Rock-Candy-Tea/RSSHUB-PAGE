@@ -1,6 +1,6 @@
 
 ---
-title: BSP Support in sbt 1.4
+title: 'BSP Support in sbt 1.4'
 categories: 
     - 编程
     - Scala - Scala Blog

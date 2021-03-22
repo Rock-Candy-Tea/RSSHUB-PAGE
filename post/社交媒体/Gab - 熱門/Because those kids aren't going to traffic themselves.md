@@ -1,6 +1,6 @@
 
 ---
-title: Because those kids aren't going to traffic themselves.
+title: 'Because those kids aren't going to traffic themselves.'
 categories: 
     - 社交媒体
     - Gab - 熱門

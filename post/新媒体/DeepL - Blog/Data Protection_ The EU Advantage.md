@@ -1,6 +1,6 @@
 
 ---
-title: Data Protection_ The EU Advantage
+title: 'Data Protection_ The EU Advantage'
 categories: 
     - 新媒体
     - DeepL - Blog

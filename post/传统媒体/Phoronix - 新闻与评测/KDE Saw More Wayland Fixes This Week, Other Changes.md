@@ -1,6 +1,6 @@
 
 ---
-title: KDE Saw More Wayland Fixes This Week, Other Changes
+title: 'KDE Saw More Wayland Fixes This Week, Other Changes'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

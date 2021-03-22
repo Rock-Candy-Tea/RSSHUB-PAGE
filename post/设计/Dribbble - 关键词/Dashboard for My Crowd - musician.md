@@ -1,6 +1,6 @@
 
 ---
-title: Dashboard for My Crowd - musician
+title: 'Dashboard for My Crowd - musician'
 categories: 
     - 设计
     - Dribbble - 关键词

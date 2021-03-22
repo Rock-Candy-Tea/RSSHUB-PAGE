@@ -1,6 +1,6 @@
 
 ---
-title: Raya and the Last Dragon
+title: 'Raya and the Last Dragon'
 categories: 
     - 新媒体
     - Letterboxd - User diary

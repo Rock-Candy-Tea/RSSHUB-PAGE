@@ -1,6 +1,6 @@
 
 ---
-title: Linux 5.11 释出
+title: 'Linux 5.11 释出'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

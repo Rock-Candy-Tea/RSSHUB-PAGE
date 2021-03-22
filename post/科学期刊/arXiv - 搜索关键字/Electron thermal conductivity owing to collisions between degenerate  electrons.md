@@ -1,7 +1,7 @@
 
 ---
-title: Electron thermal conductivity owing to collisions between degenerate
-  electrons
+title: 'Electron thermal conductivity owing to collisions between degenerate
+  electrons'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

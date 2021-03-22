@@ -1,12 +1,12 @@
 
 ---
-title: 难忍新冠后遗症 美国知名连锁餐厅CEO自杀身亡
+title: '难忍新冠后遗症 美国知名连锁餐厅CEO自杀身亡'
 categories: 
     - 新媒体
     - 快媒体 - 首页更新
 author: 快媒体 - 首页更新
 comments: false
-date: 2021-03-22 03:16:22
+date: 2021-03-22 03:44:20
 thumbnail: 'https://www.kuai.media/news/2021/03/22/static/image/kuai/external-link.gif'
 ---
 

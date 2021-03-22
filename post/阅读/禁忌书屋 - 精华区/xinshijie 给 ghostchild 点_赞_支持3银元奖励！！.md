@@ -1,6 +1,6 @@
 
 ---
-title: xinshijie 给 ghostchild 点_赞_支持3银元奖励！！
+title: 'xinshijie 给 ghostchild 点_赞_支持3银元奖励！！'
 categories: 
     - 阅读
     - 禁忌书屋 - 精华区

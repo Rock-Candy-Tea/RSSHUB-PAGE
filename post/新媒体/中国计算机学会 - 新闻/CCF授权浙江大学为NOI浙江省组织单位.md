@@ -1,6 +1,6 @@
 
 ---
-title: CCF授权浙江大学为NOI浙江省组织单位
+title: 'CCF授权浙江大学为NOI浙江省组织单位'
 categories: 
     - 新媒体
     - 中国计算机学会 - 新闻

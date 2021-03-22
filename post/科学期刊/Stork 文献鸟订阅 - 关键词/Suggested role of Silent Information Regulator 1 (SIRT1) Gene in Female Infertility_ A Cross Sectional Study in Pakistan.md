@@ -1,12 +1,12 @@
 
 ---
-title: Suggested role of Silent Information Regulator 1 (SIRT1) Gene in Female Infertility_ A Cross Sectional Study in Pakistan.
+title: 'Suggested role of Silent Information Regulator 1 (SIRT1) Gene in Female Infertility_ A Cross Sectional Study in Pakistan.'
 categories: 
     - 科学期刊
     - Stork 文献鸟订阅 - 关键词
 author: Stork 文献鸟订阅 - 关键词
 comments: false
-date: 2021-03-22 03:19:22
+date: 2021-03-22 03:46:08
 thumbnail: ''
 ---
 

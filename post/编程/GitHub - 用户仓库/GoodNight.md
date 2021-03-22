@@ -1,6 +1,6 @@
 
 ---
-title: GoodNight
+title: 'GoodNight'
 categories: 
     - 编程
     - GitHub - 用户仓库

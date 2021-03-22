@@ -1,6 +1,6 @@
 
 ---
-title: Chem. Rev.：步文博团队发表肿瘤化学动力学疗法系列重要进展
+title: 'Chem. Rev.：步文博团队发表肿瘤化学动力学疗法系列重要进展'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

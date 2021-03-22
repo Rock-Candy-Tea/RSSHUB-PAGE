@@ -1,6 +1,6 @@
 
 ---
-title: The Rhythm of Sculpture
+title: 'The Rhythm of Sculpture'
 categories: 
     - 新媒体
     - Nautilus - 话题

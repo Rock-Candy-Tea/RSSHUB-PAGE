@@ -1,6 +1,6 @@
 
 ---
-title: September #PhotoADay Challenge
+title: 'September #PhotoADay Challenge'
 categories: 
     - 新媒体
     - Day One - Blog

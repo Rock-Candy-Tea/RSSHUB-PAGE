@@ -1,6 +1,6 @@
 
 ---
-title: Chip shortage ‘affecting everybody except Apple,’ Android flagships could be delayed
+title: 'Chip shortage ‘affecting everybody except Apple,’ Android flagships could be delayed'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

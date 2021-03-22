@@ -1,6 +1,6 @@
 
 ---
-title: Music streaming platform concept
+title: 'Music streaming platform concept'
 categories: 
     - 设计
     - Dribbble - 关键词

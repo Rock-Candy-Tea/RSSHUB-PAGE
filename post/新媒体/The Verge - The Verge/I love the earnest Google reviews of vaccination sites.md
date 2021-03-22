@@ -1,6 +1,6 @@
 
 ---
-title: I love the earnest Google reviews of vaccination sites
+title: 'I love the earnest Google reviews of vaccination sites'
 categories: 
     - 新媒体
     - The Verge - The Verge

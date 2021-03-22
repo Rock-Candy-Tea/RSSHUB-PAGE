@@ -1,6 +1,6 @@
 
 ---
-title: 直播_OPPO Find X2发布会
+title: '直播_OPPO Find X2发布会'
 categories: 
     - 新媒体
     - 差评 - 资讯

@@ -1,6 +1,6 @@
 
 ---
-title: New Profiles, Fast Media Viewer and People Nearby 2.0
+title: 'New Profiles, Fast Media Viewer and People Nearby 2.0'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

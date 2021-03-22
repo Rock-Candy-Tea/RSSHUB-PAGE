@@ -1,6 +1,6 @@
 
 ---
-title: 【独家】上坂堇 东方Project摄影Cos访谈
+title: '【独家】上坂堇 东方Project摄影Cos访谈'
 categories: 
     - 二次元
     - 东方我乐多丛志 - 文章

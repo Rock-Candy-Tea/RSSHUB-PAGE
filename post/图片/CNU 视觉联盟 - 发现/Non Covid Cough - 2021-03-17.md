@@ -1,6 +1,6 @@
 
 ---
-title: Non Covid Cough - 2021-03-17
+title: 'Non Covid Cough - 2021-03-17'
 categories: 
     - 图片
     - CNU 视觉联盟 - 发现

@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;SE 社新作《雅西亞計畫》定名《魔咒之地 Forspoken》PS5 _ PC 同步開發中
+title: '_General_&nbsp;SE 社新作《雅西亞計畫》定名《魔咒之地 Forspoken》PS5 _ PC 同步開發中'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/c55e12c996ae3182c747096f651bu415.JPG?v=1616126109915'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: PINKCLUE _ 好有磁性_惊喜_
+title: 'PINKCLUE _ 好有磁性_惊喜_'
 categories: 
     - 社交媒体
     - bilibili - 视频评论

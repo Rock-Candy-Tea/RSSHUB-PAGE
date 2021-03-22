@@ -1,6 +1,6 @@
 
 ---
-title: 动漫周资讯丨《紫罗兰》国内定档，《EVA》明年6月上映
+title: '动漫周资讯丨《紫罗兰》国内定档，《EVA》明年6月上映'
 categories: 
     - 社交媒体
     - bilibili - UP 主专栏

@@ -1,6 +1,6 @@
 
 ---
-title: Cyberpunk 2077 — Night City Wire_ Episode 3
+title: 'Cyberpunk 2077 — Night City Wire_ Episode 3'
 categories: 
     - 游戏
     - Steam - Steam news

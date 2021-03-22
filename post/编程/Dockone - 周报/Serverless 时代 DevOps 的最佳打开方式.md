@@ -1,12 +1,12 @@
 
 ---
-title: Serverless 时代 DevOps 的最佳打开方式
+title: 'Serverless 时代 DevOps 的最佳打开方式'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210318/ba539ddbefef3cb1c0b32b47550ec3b1.jpg'
 ---
 

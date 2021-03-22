@@ -1,12 +1,12 @@
 
 ---
-title: 美國音樂現代化法案（MMA）專題：給音樂人、法律人、舞者、影像工作者通用的音樂相關著作權天才班｜吳沛恆 PETERWU
+title: '美國音樂現代化法案（MMA）專題：給音樂人、法律人、舞者、影像工作者通用的音樂相關著作權天才班｜吳沛恆 PETERWU'
 categories: 
     - 新媒体
     - 法律白話文運動 - 最新文章
 author: 法律白話文運動 - 最新文章
 comments: false
-date: 2021-03-22 03:16:06
+date: 2021-03-22 03:44:05
 thumbnail: 'https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1'
 ---
 

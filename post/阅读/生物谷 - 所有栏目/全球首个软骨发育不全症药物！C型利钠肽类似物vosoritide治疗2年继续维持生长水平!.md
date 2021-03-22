@@ -1,12 +1,12 @@
 
 ---
-title: 全球首个软骨发育不全症药物！C型利钠肽类似物vosoritide治疗2年继续维持生长水平!
+title: '全球首个软骨发育不全症药物！C型利钠肽类似物vosoritide治疗2年继续维持生长水平!'
 categories: 
     - 阅读
     - 生物谷 - 所有栏目
 author: 生物谷 - 所有栏目
 comments: false
-date: 2021-03-22 03:21:28
+date: 2021-03-22 03:47:53
 thumbnail: 'http://cache3.bioon.com/webeditor/uploadfile/202103/20210322015126694.png'
 ---
 

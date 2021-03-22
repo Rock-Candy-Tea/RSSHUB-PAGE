@@ -1,6 +1,6 @@
 
 ---
-title: Giving Thanks All Month Long
+title: 'Giving Thanks All Month Long'
 categories: 
     - 新媒体
     - Day One - Blog

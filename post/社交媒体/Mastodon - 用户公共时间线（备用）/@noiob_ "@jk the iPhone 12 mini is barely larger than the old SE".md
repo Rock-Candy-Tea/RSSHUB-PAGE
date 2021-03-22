@@ -1,10 +1,10 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 
 @jk
  the iPhone 12 mini is barely larger than the old SE
-"
+"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

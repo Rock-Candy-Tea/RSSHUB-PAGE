@@ -1,6 +1,6 @@
 
 ---
-title: Kohakuiro no Hunter Episode 1
+title: 'Kohakuiro no Hunter Episode 1'
 categories: 
     - 音视频
     - Hentaimama - 近期更新

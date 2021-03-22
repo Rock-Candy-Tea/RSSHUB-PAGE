@@ -1,6 +1,6 @@
 
 ---
-title: ★★☆☆☆ 卡夏尔 伊甸园 Cacharel Eden, 1994
+title: '★★☆☆☆ 卡夏尔 伊甸园 Cacharel Eden, 1994'
 categories: 
     - 新媒体
     - 香水时代 - 香评

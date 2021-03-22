@@ -1,6 +1,6 @@
 
 ---
-title: 《The Fall》免费领，《最终幻想》史低，还有多款 iOS 应用游戏促销中
+title: '《The Fall》免费领，《最终幻想》史低，还有多款 iOS 应用游戏促销中'
 categories: 
     - 新媒体
     - 爱范儿 ifanr - 爱范儿频道

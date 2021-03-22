@@ -1,6 +1,6 @@
 
 ---
-title: 招聘一周 _ TBWA、MT蒙彤传播、大中华区艾菲奖、ZEALER 等 10 家优质公司招聘汇总
+title: '招聘一周 _ TBWA、MT蒙彤传播、大中华区艾菲奖、ZEALER 等 10 家优质公司招聘汇总'
 categories: 
     - 新媒体
     - SocialBeta - 首页

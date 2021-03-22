@@ -1,14 +1,14 @@
 
 ---
-title: 10_39
+title: '10_39
                     
-                  Boring Society宣布成立，并获得BoringDAO Grant支持
+                  Boring Society宣布成立，并获得BoringDAO Grant支持'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

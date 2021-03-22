@@ -1,6 +1,6 @@
 
 ---
-title: SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model
+title: 'SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

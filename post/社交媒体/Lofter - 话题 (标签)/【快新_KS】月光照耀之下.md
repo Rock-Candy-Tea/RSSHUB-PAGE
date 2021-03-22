@@ -1,6 +1,6 @@
 
 ---
-title: 【快新_K.S】月光照耀之下
+title: '【快新_K.S】月光照耀之下'
 categories: 
     - 社交媒体
     - Lofter - 话题 (标签)

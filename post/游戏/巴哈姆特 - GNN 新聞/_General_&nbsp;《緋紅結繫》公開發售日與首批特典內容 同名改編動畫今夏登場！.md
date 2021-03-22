@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;《緋紅結繫》公開發售日與首批特典內容 同名改編動畫今夏登場！
+title: '_General_&nbsp;《緋紅結繫》公開發售日與首批特典內容 同名改編動畫今夏登場！'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/28ba194d14c3a26dfe98fe92fb1bu665.JPG?v=1616129092336'
 ---
 

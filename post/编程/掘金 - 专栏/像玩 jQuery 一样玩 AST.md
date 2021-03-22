@@ -1,6 +1,6 @@
 
 ---
-title: 像玩 jQuery 一样玩 AST
+title: '像玩 jQuery 一样玩 AST'
 categories: 
     - 编程
     - 掘金 - 专栏

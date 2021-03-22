@@ -1,10 +1,10 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 
 @onfy
  that's the actual text of the Garfield comic
-"
+"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

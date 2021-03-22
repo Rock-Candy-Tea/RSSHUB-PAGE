@@ -1,6 +1,6 @@
 
 ---
-title: 【トークロイド】Happy birthday to you,dear lino!【初音ミク】
+title: '【トークロイド】Happy birthday to you,dear lino!【初音ミク】'
 categories: 
     - 社交媒体
     - piapro - 全站最新作品

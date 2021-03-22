@@ -1,6 +1,6 @@
 
 ---
-title: SUNNY AFTERNOON-雲端司機_2021-03-12
+title: 'SUNNY AFTERNOON-雲端司機_2021-03-12'
 categories: 
     - 社交媒体
     - 豆瓣 - 最新增加的音乐
@@ -12,7 +12,7 @@ thumbnail: 'https://img9.doubanio.com/view/subject/m/public/s33847038.jpg'
 
 <div>   
 <img src="https://img9.doubanio.com/view/subject/m/public/s33847038.jpg" referrerpolicy="no-referrer"><br>
-                    挺能糊弄的，專輯簡介也一言難盡 —— 派的短评<br>
+                    19-21 為什麼我看見了未來  —— 像的短评<br>
                     <strong>评分:</strong> 7.3
                   
 </div>

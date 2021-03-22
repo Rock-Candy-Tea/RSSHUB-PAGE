@@ -1,6 +1,6 @@
 
 ---
-title: Optimizing concepts_ Conceptual engineering in the field of management. The case of routines research
+title: 'Optimizing concepts_ Conceptual engineering in the field of management. The case of routines research'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

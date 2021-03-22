@@ -1,6 +1,6 @@
 
 ---
-title: 川水：ova2天堂真矢说
+title: '川水：ova2天堂真矢说'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

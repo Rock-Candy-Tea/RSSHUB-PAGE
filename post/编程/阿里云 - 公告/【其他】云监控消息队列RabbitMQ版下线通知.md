@@ -1,6 +1,6 @@
 
 ---
-title: 【其他】云监控消息队列RabbitMQ版下线通知
+title: '【其他】云监控消息队列RabbitMQ版下线通知'
 categories: 
     - 编程
     - 阿里云 - 公告

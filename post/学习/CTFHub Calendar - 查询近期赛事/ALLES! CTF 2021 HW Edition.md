@@ -1,6 +1,6 @@
 
 ---
-title: ALLES! CTF 2021 HW Edition
+title: 'ALLES! CTF 2021 HW Edition'
 categories: 
     - 学习
     - CTFHub Calendar - 查询近期赛事

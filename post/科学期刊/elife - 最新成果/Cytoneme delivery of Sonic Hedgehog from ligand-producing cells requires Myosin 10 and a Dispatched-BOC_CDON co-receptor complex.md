@@ -1,6 +1,6 @@
 
 ---
-title: Cytoneme delivery of Sonic Hedgehog from ligand-producing cells requires Myosin 10 and a Dispatched-BOC_CDON co-receptor complex
+title: 'Cytoneme delivery of Sonic Hedgehog from ligand-producing cells requires Myosin 10 and a Dispatched-BOC_CDON co-receptor complex'
 categories: 
     - 科学期刊
     - elife - 最新成果

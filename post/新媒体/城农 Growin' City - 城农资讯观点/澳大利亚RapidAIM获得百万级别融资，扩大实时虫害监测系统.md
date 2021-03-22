@@ -1,6 +1,6 @@
 
 ---
-title: 澳大利亚RapidAIM获得百万级别融资，扩大实时虫害监测系统
+title: '澳大利亚RapidAIM获得百万级别融资，扩大实时虫害监测系统'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

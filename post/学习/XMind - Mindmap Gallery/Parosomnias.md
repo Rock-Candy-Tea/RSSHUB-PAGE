@@ -1,6 +1,6 @@
 
 ---
-title: Parosomnias
+title: 'Parosomnias'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

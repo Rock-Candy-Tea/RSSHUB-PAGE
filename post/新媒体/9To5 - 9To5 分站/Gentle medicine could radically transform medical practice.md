@@ -1,6 +1,6 @@
 
 ---
-title: Gentle medicine could radically transform medical practice
+title: 'Gentle medicine could radically transform medical practice'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

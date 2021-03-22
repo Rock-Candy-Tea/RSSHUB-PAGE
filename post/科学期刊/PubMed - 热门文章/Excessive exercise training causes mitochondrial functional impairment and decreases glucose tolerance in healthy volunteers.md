@@ -1,6 +1,6 @@
 
 ---
-title: Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance in healthy volunteers.
+title: 'Excessive exercise training causes mitochondrial functional impairment and decreases glucose tolerance in healthy volunteers.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

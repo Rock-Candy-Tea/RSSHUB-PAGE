@@ -1,6 +1,6 @@
 
 ---
-title: Turn Your Journal Into a Personal Highlight Reel
+title: 'Turn Your Journal Into a Personal Highlight Reel'
 categories: 
     - 新媒体
     - Day One - Blog

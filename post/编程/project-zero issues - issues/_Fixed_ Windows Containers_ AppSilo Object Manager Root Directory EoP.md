@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Windows Containers_ AppSilo Object Manager Root Directory EoP
+title: '_Fixed_ Windows Containers_ AppSilo Object Manager Root Directory EoP'
 categories: 
     - 编程
     - project-zero issues - issues

@@ -1,6 +1,6 @@
 
 ---
-title: Imperfect Foods承诺，到2030年将成为净零排放公司
+title: 'Imperfect Foods承诺，到2030年将成为净零排放公司'
 categories: 
     - 新媒体
     - 城农 Growin' City - 城农资讯观点

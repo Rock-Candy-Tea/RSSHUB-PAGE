@@ -1,6 +1,6 @@
 
 ---
-title: It’s Time For Templates
+title: 'It’s Time For Templates'
 categories: 
     - 新媒体
     - Day One - Blog

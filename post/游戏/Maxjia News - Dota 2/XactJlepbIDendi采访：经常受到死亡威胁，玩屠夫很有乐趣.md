@@ -1,6 +1,6 @@
 
 ---
-title: XactJlepbI.Dendi采访：经常受到死亡威胁，玩屠夫很有乐趣
+title: 'XactJlepbI.Dendi采访：经常受到死亡威胁，玩屠夫很有乐趣'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

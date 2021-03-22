@@ -1,6 +1,6 @@
 
 ---
-title: LCD高刷屏加持！iQOO Z3跑分曝光：搭载骁龙768G
+title: 'LCD高刷屏加持！iQOO Z3跑分曝光：搭载骁龙768G'
 categories: 
     - 新媒体
     - 快科技（原驱动之家） - 最新新闻

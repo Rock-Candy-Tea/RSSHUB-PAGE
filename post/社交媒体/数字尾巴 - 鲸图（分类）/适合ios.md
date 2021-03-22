@@ -1,6 +1,6 @@
 
 ---
-title: 适合ios
+title: '适合ios'
 categories: 
     - 社交媒体
     - 数字尾巴 - 鲸图（分类）

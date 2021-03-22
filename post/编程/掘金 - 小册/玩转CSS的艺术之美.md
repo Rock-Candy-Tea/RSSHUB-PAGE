@@ -1,6 +1,6 @@
 
 ---
-title: 玩转CSS的艺术之美
+title: '玩转CSS的艺术之美'
 categories: 
     - 编程
     - 掘金 - 小册

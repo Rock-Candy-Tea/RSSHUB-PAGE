@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Linux_ Broken locking in TIOCSPGRP leads to corrupted tty-_pgrp refcount
+title: '_Fixed_ Linux_ Broken locking in TIOCSPGRP leads to corrupted tty-_pgrp refcount'
 categories: 
     - 编程
     - project-zero issues - issues

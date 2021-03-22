@@ -1,6 +1,6 @@
 
 ---
-title: Your love story is a narrative that gets written in tandem
+title: 'Your love story is a narrative that gets written in tandem'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

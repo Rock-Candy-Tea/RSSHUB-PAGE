@@ -1,6 +1,6 @@
 
 ---
-title: Crypto Art Landing Page
+title: 'Crypto Art Landing Page'
 categories: 
     - 设计
     - Dribbble - 流行

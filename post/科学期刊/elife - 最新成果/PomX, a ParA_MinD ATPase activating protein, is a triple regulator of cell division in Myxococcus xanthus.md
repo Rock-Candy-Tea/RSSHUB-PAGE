@@ -1,6 +1,6 @@
 
 ---
-title: PomX, a ParA_MinD ATPase activating protein, is a triple regulator of cell division in Myxococcus xanthus
+title: 'PomX, a ParA_MinD ATPase activating protein, is a triple regulator of cell division in Myxococcus xanthus'
 categories: 
     - 科学期刊
     - elife - 最新成果

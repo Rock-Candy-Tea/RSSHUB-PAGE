@@ -1,6 +1,6 @@
 
 ---
-title: ASML reports €14.0 billion net sales and €3.6 billion net income in 2020
+title: 'ASML reports €14.0 billion net sales and €3.6 billion net income in 2020'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

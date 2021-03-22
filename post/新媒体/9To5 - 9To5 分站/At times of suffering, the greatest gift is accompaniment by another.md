@@ -1,6 +1,6 @@
 
 ---
-title: At times of suffering, the greatest gift is accompaniment by another
+title: 'At times of suffering, the greatest gift is accompaniment by another'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

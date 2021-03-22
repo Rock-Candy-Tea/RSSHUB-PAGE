@@ -1,6 +1,6 @@
 
 ---
-title: Pakistan Telecommunication Company Limited deploys Nokia software products to enhance customer experience and service
+title: 'Pakistan Telecommunication Company Limited deploys Nokia software products to enhance customer experience and service'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

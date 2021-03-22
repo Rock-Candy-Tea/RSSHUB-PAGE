@@ -1,6 +1,6 @@
 
 ---
-title: Male & Female Menagerie Previous Years Now Available!
+title: 'Male & Female Menagerie Previous Years Now Available!'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

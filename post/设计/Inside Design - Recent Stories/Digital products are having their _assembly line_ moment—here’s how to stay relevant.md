@@ -1,12 +1,12 @@
 
 ---
-title: Digital products are having their _assembly line_ moment—here’s how to stay relevant
+title: 'Digital products are having their _assembly line_ moment—here’s how to stay relevant'
 categories: 
     - 设计
     - Inside Design - Recent Stories
 author: Inside Design - Recent Stories
 comments: false
-date: 2021-03-22 03:20:43
+date: 2021-03-22 03:47:15
 thumbnail: 'https://www.invisionapp.com/inside-design/design-systems-revolution-how-to-adapt/'
 ---
 

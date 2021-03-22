@@ -1,6 +1,6 @@
 
 ---
-title: Introducing an Official Helm Chart for Gitea
+title: 'Introducing an Official Helm Chart for Gitea'
 categories: 
     - 编程
     - Gitea - 博客

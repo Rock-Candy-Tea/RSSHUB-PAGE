@@ -1,6 +1,6 @@
 
 ---
-title: Triple jeopardy_ disabled people and the COVID-19 pandemic.
+title: 'Triple jeopardy_ disabled people and the COVID-19 pandemic.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

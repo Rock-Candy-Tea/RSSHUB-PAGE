@@ -1,12 +1,12 @@
 
 ---
-title: XGP列表的PC版《恶灵附身》在功能上进行了多方面加强
+title: 'XGP列表的PC版《恶灵附身》在功能上进行了多方面加强'
 categories: 
     - 游戏
     - 二柄 APP - 新闻
 author: 二柄 APP - 新闻
 comments: false
-date: 2021-03-22 03:19:43
+date: 2021-03-22 03:46:24
 thumbnail: 'https://erbingeditor.diershoubing.com/202103211844101243html_img.jpg'
 ---
 

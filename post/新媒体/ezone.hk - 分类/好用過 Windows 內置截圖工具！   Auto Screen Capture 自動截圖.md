@@ -1,6 +1,6 @@
 
 ---
-title: 好用過 Windows 內置截圖工具！   Auto Screen Capture 自動截圖
+title: '好用過 Windows 內置截圖工具！   Auto Screen Capture 自動截圖'
 categories: 
     - 新媒体
     - ezone.hk - 分类

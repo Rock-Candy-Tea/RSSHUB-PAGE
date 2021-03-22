@@ -1,12 +1,12 @@
 
 ---
-title: 《MONSTER HUNTER STORIES 2_ 破滅之翼》預定於2021年7月9日發售！
+title: '《MONSTER HUNTER STORIES 2_ 破滅之翼》預定於2021年7月9日發售！'
 categories: 
     - 游戏
     - Nintendo - 首页资讯（香港）
 author: Nintendo - 首页资讯（香港）
 comments: false
-date: 2021-03-22 03:19:51
+date: 2021-03-22 03:46:18
 thumbnail: 'https://www.nintendo.com.hk/topics/article/article_img/a_210309_02/1.jpg'
 ---
 

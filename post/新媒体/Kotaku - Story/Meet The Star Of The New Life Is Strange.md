@@ -1,6 +1,6 @@
 
 ---
-title: Meet The Star Of The New Life Is Strange
+title: 'Meet The Star Of The New Life Is Strange'
 categories: 
     - 新媒体
     - Kotaku - Story

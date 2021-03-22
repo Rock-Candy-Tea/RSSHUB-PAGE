@@ -1,6 +1,6 @@
 
 ---
-title: How Reddit Makes Money
+title: 'How Reddit Makes Money'
 categories: 
     - 金融
     - finviz - 美股股票新闻

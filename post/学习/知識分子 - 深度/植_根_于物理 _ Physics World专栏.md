@@ -1,6 +1,6 @@
 
 ---
-title: 植_根_于物理 _ Physics World专栏
+title: '植_根_于物理 _ Physics World专栏'
 categories: 
     - 学习
     - 知識分子 - 深度

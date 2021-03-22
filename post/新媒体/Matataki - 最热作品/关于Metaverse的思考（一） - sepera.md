@@ -1,6 +1,6 @@
 
 ---
-title: 关于Metaverse的思考（一） - sepera
+title: '关于Metaverse的思考（一） - sepera'
 categories: 
     - 新媒体
     - Matataki - 最热作品

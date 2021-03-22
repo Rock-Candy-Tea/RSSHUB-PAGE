@@ -1,6 +1,6 @@
 
 ---
-title: Hoping to Make Reforms Stick, China Bolsters School Evaluations
+title: 'Hoping to Make Reforms Stick, China Bolsters School Evaluations'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

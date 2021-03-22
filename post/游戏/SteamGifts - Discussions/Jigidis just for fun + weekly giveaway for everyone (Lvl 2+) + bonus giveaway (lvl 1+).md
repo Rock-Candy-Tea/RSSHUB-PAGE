@@ -1,6 +1,6 @@
 
 ---
-title: Jigidis just for fun + weekly giveaway for everyone (Lvl 2+) + bonus giveaway (lvl 1+)
+title: 'Jigidis just for fun + weekly giveaway for everyone (Lvl 2+) + bonus giveaway (lvl 1+)'
 categories: 
     - 游戏
     - SteamGifts - Discussions

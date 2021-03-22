@@ -1,6 +1,6 @@
 
 ---
-title: 一步一步，统一项目中的编码规范（vue, vscode, vetur, prettier, eslint）
+title: '一步一步，统一项目中的编码规范（vue, vscode, vetur, prettier, eslint）'
 categories: 
     - 编程
     - 掘金 - 收藏集

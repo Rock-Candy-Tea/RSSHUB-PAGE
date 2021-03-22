@@ -1,6 +1,6 @@
 
 ---
-title: 政策放宽，菲律宾队伍有希望在参加Major之后归国
+title: '政策放宽，菲律宾队伍有希望在参加Major之后归国'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

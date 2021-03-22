@@ -1,6 +1,6 @@
 
 ---
-title: Join us for Duty Commenced on March 5!
+title: 'Join us for Duty Commenced on March 5!'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

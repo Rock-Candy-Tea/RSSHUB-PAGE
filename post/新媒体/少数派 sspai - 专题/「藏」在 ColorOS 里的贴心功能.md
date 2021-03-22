@@ -1,6 +1,6 @@
 
 ---
-title: 「藏」在 ColorOS 里的贴心功能
+title: '「藏」在 ColorOS 里的贴心功能'
 categories: 
     - 新媒体
     - 少数派 sspai - 专题

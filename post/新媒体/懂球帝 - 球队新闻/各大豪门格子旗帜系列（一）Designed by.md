@@ -1,6 +1,6 @@
 
 ---
-title: 各大豪门格子旗帜系列（一）Designed by...
+title: '各大豪门格子旗帜系列（一）Designed by...'
 categories: 
     - 新媒体
     - 懂球帝 - 球队新闻

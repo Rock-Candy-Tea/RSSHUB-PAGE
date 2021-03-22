@@ -1,12 +1,12 @@
 
 ---
-title: 产品冷知识 藏在b站页面路径里的小浪漫
+title: '产品冷知识 藏在b站页面路径里的小浪漫'
 categories: 
     - 设计
     - 优设网 - 细节猎人
 author: 优设网 - 细节猎人
 comments: false
-date: Wed, 17 Mar 2021 03:20:50 GMT
+date: Wed, 17 Mar 2021 03:47:21 GMT
 thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/03/xb-bilibili-sddz2.png'
 ---
 

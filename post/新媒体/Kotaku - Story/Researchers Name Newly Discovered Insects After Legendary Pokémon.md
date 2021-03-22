@@ -1,6 +1,6 @@
 
 ---
-title: Researchers Name Newly Discovered Insects After Legendary Pokémon
+title: 'Researchers Name Newly Discovered Insects After Legendary Pokémon'
 categories: 
     - 新媒体
     - Kotaku - Story

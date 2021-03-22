@@ -1,6 +1,6 @@
 
 ---
-title: Shenzhen Shutters Sex Doll Hotels Frequented by Migrant Workers
+title: 'Shenzhen Shutters Sex Doll Hotels Frequented by Migrant Workers'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

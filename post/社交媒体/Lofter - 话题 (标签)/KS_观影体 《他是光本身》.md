@@ -1,6 +1,6 @@
 
 ---
-title: K.S_观影体 《他是光本身》
+title: 'K.S_观影体 《他是光本身》'
 categories: 
     - 社交媒体
     - Lofter - 话题 (标签)

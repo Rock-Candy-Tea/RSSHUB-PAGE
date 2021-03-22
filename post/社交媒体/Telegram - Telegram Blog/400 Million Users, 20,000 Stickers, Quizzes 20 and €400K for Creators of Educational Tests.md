@@ -1,6 +1,6 @@
 
 ---
-title: 400 Million Users, 20,000 Stickers, Quizzes 2.0 and €400K for Creators of Educational Tests
+title: '400 Million Users, 20,000 Stickers, Quizzes 2.0 and €400K for Creators of Educational Tests'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

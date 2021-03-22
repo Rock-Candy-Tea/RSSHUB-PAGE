@@ -1,6 +1,6 @@
 
 ---
-title: ADL线下活动全面启动
+title: 'ADL线下活动全面启动'
 categories: 
     - 新媒体
     - 中国计算机学会 - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: BREAK AT NOON
+title: 'BREAK AT NOON'
 categories: 
     - 图片
     - CNU 视觉联盟 - 发现

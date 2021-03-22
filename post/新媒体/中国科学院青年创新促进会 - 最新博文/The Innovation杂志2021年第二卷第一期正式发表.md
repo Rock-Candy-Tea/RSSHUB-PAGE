@@ -1,6 +1,6 @@
 
 ---
-title: The Innovation杂志2021年第二卷第一期正式发表
+title: 'The Innovation杂志2021年第二卷第一期正式发表'
 categories: 
     - 新媒体
     - 中国科学院青年创新促进会 - 最新博文

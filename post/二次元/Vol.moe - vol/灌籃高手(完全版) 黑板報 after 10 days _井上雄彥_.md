@@ -1,6 +1,6 @@
 
 ---
-title: 灌籃高手(完全版) 黑板報 after 10 days _井上雄彥_
+title: '灌籃高手(完全版) 黑板報 after 10 days _井上雄彥_'
 categories: 
     - 二次元
     - Vol.moe - vol

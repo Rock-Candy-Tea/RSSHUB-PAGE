@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想看这部电影_ 《波斯语课 Persischstunden‎ (2020)》
+title: 'DIYgod 想看这部电影_ 《波斯语课 Persischstunden‎ (2020)》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

@@ -1,14 +1,14 @@
 
 ---
-title: 10_32
+title: '10_32
                     
-                  DeFi信用合作社Xend Finance将于今日23时通过Balancer LBP开启公募
+                  DeFi信用合作社Xend Finance将于今日23时通过Balancer LBP开启公募'
 categories: 
     - 新媒体
     - 币世界 - 快讯
 author: 币世界 - 快讯
 comments: false
-date: 2021-03-22 03:15:52
+date: 2021-03-22 03:43:48
 thumbnail: ''
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: NFT空投待领取┃ ONFT RARI NFTs - Vera
+title: 'NFT空投待领取┃ ONFT RARI NFTs - Vera'
 categories: 
     - 新媒体
     - Matataki - 最热作品

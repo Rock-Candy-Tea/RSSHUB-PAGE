@@ -1,6 +1,6 @@
 
 ---
-title: 动物森友会 K.K.演唱《蓝色饭团》
+title: '动物森友会 K.K.演唱《蓝色饭团》'
 categories: 
     - 社交媒体
     - bilibili - UP 主投稿

@@ -1,6 +1,6 @@
 
 ---
-title: Where's the Science Behind CDC's 6-Foot Social-Distance Decree_
+title: 'Where's the Science Behind CDC's 6-Foot Social-Distance Decree_'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

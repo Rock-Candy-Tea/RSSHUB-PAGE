@@ -1,6 +1,6 @@
 
 ---
-title: American Innovation and Jobs Act Would Advance U.S. Leadership in Semiconductor Research
+title: 'American Innovation and Jobs Act Would Advance U.S. Leadership in Semiconductor Research'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

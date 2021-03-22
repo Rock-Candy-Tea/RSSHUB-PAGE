@@ -1,6 +1,6 @@
 
 ---
-title: _Group Reqruitment_ We The Winners
+title: '_Group Reqruitment_ We The Winners'
 categories: 
     - 游戏
     - SteamGifts - Discussions

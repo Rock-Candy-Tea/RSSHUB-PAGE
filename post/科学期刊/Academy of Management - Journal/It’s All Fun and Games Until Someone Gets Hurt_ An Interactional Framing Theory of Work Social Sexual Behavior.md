@@ -1,6 +1,6 @@
 
 ---
-title: It’s All Fun and Games Until Someone Gets Hurt_ An Interactional Framing Theory of Work Social Sexual Behavior
+title: 'It’s All Fun and Games Until Someone Gets Hurt_ An Interactional Framing Theory of Work Social Sexual Behavior'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

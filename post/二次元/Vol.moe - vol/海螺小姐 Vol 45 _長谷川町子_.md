@@ -1,6 +1,6 @@
 
 ---
-title: 海螺小姐 Vol. 45 _長谷川町子_
+title: '海螺小姐 Vol. 45 _長谷川町子_'
 categories: 
     - 二次元
     - Vol.moe - vol

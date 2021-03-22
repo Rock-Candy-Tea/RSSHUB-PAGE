@@ -1,6 +1,6 @@
 
 ---
-title: Ceremony of Eternal Bonding Reservation Restrictions
+title: 'Ceremony of Eternal Bonding Reservation Restrictions'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

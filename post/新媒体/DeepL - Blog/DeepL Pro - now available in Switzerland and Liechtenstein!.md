@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Pro - now available in Switzerland and Liechtenstein!
+title: 'DeepL Pro - now available in Switzerland and Liechtenstein!'
 categories: 
     - 新媒体
     - DeepL - Blog

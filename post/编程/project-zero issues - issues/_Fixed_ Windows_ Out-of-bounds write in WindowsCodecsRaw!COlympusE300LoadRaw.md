@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Windows_ Out-of-bounds write in WindowsCodecsRaw!COlympusE300LoadRaw
+title: '_Fixed_ Windows_ Out-of-bounds write in WindowsCodecsRaw!COlympusE300LoadRaw'
 categories: 
     - 编程
     - project-zero issues - issues

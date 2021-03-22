@@ -1,6 +1,6 @@
 
 ---
-title: Give the Gift of Day One
+title: 'Give the Gift of Day One'
 categories: 
     - 新媒体
     - Day One - Blog

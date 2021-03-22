@@ -1,6 +1,6 @@
 
 ---
-title: Cancer Cell _ Volume 39, Issue 3 (Mar 08, 2021)
+title: 'Cancer Cell _ Volume 39, Issue 3 (Mar 08, 2021)'
 categories: 
     - 科学期刊
     - Cell - 封面故事

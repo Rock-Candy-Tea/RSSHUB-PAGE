@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Adobe Reader CoolType arbitrary stack manipulation in Type 1_Multiple Master othersubrs 14-18
+title: '_Fixed_ Adobe Reader CoolType arbitrary stack manipulation in Type 1_Multiple Master othersubrs 14-18'
 categories: 
     - 编程
     - project-zero issues - issues

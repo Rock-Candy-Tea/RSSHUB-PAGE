@@ -1,6 +1,6 @@
 
 ---
-title: Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes
+title: 'Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

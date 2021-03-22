@@ -1,6 +1,6 @@
 
 ---
-title: How to Transfer Your Pictures From Apple Photos and iCloud to Google Photos
+title: 'How to Transfer Your Pictures From Apple Photos and iCloud to Google Photos'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

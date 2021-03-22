@@ -1,6 +1,6 @@
 
 ---
-title: Nonprofit Organizations as Multi-Sided Platforms
+title: 'Nonprofit Organizations as Multi-Sided Platforms'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

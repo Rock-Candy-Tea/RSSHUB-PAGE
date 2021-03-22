@@ -1,6 +1,6 @@
 
 ---
-title: 重磅！DinTer買下ahq《英雄聯盟》戰隊與PCS席次，更名「Beyond Gaming」重新出發
+title: '重磅！DinTer買下ahq《英雄聯盟》戰隊與PCS席次，更名「Beyond Gaming」重新出發'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

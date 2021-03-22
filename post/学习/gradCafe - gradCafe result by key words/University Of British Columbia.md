@@ -1,6 +1,6 @@
 
 ---
-title: University Of British Columbia
+title: 'University Of British Columbia'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

@@ -1,6 +1,6 @@
 
 ---
-title: For Claude Monet, familiarity bred respect
+title: 'For Claude Monet, familiarity bred respect'
 categories: 
     - 传统媒体
     - The Economist - 分类

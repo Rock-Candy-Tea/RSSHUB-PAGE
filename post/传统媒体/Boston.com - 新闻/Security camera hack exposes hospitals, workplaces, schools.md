@@ -1,6 +1,6 @@
 
 ---
-title: Security camera hack exposes hospitals, workplaces, schools
+title: 'Security camera hack exposes hospitals, workplaces, schools'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

@@ -1,6 +1,6 @@
 
 ---
-title: 庞然大物 - Shadow of the Colossus Trophy Guide
+title: '庞然大物 - Shadow of the Colossus Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

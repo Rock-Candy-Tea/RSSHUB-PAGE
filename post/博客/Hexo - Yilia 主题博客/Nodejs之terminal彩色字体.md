@@ -1,6 +1,6 @@
 
 ---
-title: Node.js之terminal彩色字体
+title: 'Node.js之terminal彩色字体'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

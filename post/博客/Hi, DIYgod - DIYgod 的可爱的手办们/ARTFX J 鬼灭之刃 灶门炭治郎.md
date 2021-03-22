@@ -1,12 +1,12 @@
 
 ---
-title: ARTFX J 鬼灭之刃 灶门炭治郎
+title: 'ARTFX J 鬼灭之刃 灶门炭治郎'
 categories: 
     - 博客
     - Hi, DIYgod - DIYgod 的可爱的手办们
 author: Hi, DIYgod - DIYgod 的可爱的手办们
 comments: false
-date: 2021-03-22 03:19:20
+date: 2021-03-22 03:46:07
 thumbnail: 'https://diygod.me/images/gk/tzl-1.png'
 ---
 

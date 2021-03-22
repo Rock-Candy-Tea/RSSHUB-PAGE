@@ -1,6 +1,6 @@
 
 ---
-title: Gotham Knights Delayed Until 2022
+title: 'Gotham Knights Delayed Until 2022'
 categories: 
     - 新媒体
     - Kotaku - Story

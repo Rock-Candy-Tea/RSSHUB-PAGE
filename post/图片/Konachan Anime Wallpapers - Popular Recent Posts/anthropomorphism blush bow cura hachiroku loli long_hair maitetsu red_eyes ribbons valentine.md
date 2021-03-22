@@ -1,6 +1,6 @@
 
 ---
-title: anthropomorphism blush bow cura hachiroku loli long_hair maitetsu red_eyes ribbons valentine
+title: 'anthropomorphism blush bow cura hachiroku loli long_hair maitetsu red_eyes ribbons valentine'
 categories: 
     - 图片
     - Konachan Anime Wallpapers - Popular Recent Posts

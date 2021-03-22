@@ -1,6 +1,6 @@
 
 ---
-title: 做毕业答辩PPT有这篇就够了!.note
+title: '做毕业答辩PPT有这篇就够了!.note'
 categories: 
     - 学习
     - 有道云笔记 - 学霸感悟

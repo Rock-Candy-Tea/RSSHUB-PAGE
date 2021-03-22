@@ -1,12 +1,12 @@
 
 ---
-title: Best Tips for Buying a Affordable Mattress Online as Well as Quality
+title: 'Best Tips for Buying a Affordable Mattress Online as Well as Quality'
 categories: 
     - 学习
     - Mind42 - 标签
 author: Mind42 - 标签
 comments: false
-date: 2021-03-22 03:18:33
+date: 2021-03-22 03:45:44
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=2916b64a-7beb-4b5c-8b54-8f451efc09ee&size=gallery'
 ---
 

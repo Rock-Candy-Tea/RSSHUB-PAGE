@@ -1,6 +1,6 @@
 
 ---
-title: 【読書レビュー】読んだ本を紹介！part.1
+title: '【読書レビュー】読んだ本を紹介！part.1'
 categories: 
     - 社交媒体
     - pixiv - 关注的新作品

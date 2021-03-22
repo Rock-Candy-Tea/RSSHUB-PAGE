@@ -1,6 +1,6 @@
 
 ---
-title: OneMiao的吐槽
+title: 'OneMiao的吐槽'
 categories: 
     - 二次元
     - Bangumi - 条目的吐槽箱

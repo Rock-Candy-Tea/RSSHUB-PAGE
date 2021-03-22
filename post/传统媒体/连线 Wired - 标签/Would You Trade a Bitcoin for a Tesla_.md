@@ -1,12 +1,12 @@
 
 ---
-title: Would You Trade a Bitcoin for a Tesla_
+title: 'Would You Trade a Bitcoin for a Tesla_'
 categories: 
     - 传统媒体
     - 连线 Wired - 标签
 author: 连线 Wired - 标签
 comments: false
-date: 2021-03-22 03:20:19
+date: 2021-03-22 03:46:55
 thumbnail: 'https://media.wired.com/photos/6021da4ff1bf194f33695dc3/16:9/w_2400,c_limit/business_tesla-bitcoin_1229893729.jpg'
 ---
 

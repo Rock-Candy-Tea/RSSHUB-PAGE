@@ -1,6 +1,6 @@
 
 ---
-title: Life Is Strange, Before The Storm Getting Remastered Collection
+title: 'Life Is Strange, Before The Storm Getting Remastered Collection'
 categories: 
     - 新媒体
     - Kotaku - Story

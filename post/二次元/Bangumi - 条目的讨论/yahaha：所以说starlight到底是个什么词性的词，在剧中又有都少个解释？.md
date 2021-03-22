@@ -1,6 +1,6 @@
 
 ---
-title: yahaha：所以说starlight到底是个什么词性的词，在剧中又有都少个解释？
+title: 'yahaha：所以说starlight到底是个什么词性的词，在剧中又有都少个解释？'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

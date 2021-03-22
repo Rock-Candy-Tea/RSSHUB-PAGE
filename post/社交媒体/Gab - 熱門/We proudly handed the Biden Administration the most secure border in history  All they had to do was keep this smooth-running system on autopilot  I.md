@@ -1,6 +1,6 @@
 
 ---
-title: We proudly handed the Biden Administration the most secure border in history.  All they had to do was keep this smooth-running system on autopilot.  I...
+title: 'We proudly handed the Biden Administration the most secure border in history.  All they had to do was keep this smooth-running system on autopilot.  I...'
 categories: 
     - 社交媒体
     - Gab - 熱門

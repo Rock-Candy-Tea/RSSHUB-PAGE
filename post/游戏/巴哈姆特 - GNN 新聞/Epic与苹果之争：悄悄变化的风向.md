@@ -1,6 +1,6 @@
 
 ---
-title: Epic与苹果之争：悄悄变化的风向
+title: 'Epic与苹果之争：悄悄变化的风向'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞

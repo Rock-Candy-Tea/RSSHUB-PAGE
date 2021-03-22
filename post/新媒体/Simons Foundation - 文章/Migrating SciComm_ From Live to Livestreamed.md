@@ -1,6 +1,6 @@
 
 ---
-title: Migrating SciComm_ From Live to Livestreamed
+title: 'Migrating SciComm_ From Live to Livestreamed'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

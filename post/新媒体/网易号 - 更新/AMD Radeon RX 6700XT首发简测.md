@@ -1,6 +1,6 @@
 
 ---
-title: AMD Radeon RX 6700XT首发简测
+title: 'AMD Radeon RX 6700XT首发简测'
 categories: 
     - 新媒体
     - 网易号 - 更新

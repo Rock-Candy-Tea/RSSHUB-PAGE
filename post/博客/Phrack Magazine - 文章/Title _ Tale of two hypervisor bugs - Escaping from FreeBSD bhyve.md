@@ -1,12 +1,12 @@
 
 ---
-title: Title _ Tale of two hypervisor bugs - Escaping from FreeBSD bhyve
+title: 'Title _ Tale of two hypervisor bugs - Escaping from FreeBSD bhyve'
 categories: 
     - 博客
     - Phrack Magazine - 文章
 author: Phrack Magazine - 文章
 comments: false
-date: 2021-03-22 03:19:21
+date: 2021-03-22 03:46:08
 thumbnail: ''
 ---
 

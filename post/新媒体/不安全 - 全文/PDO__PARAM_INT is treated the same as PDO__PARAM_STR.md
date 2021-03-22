@@ -1,6 +1,6 @@
 
 ---
-title: PDO__PARAM_INT is treated the same as PDO__PARAM_STR
+title: 'PDO__PARAM_INT is treated the same as PDO__PARAM_STR'
 categories: 
     - 新媒体
     - 不安全 - 全文

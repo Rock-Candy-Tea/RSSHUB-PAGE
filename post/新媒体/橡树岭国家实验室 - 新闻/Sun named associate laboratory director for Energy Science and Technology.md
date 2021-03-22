@@ -1,6 +1,6 @@
 
 ---
-title: Sun named associate laboratory director for Energy Science and Technology
+title: 'Sun named associate laboratory director for Energy Science and Technology'
 categories: 
     - 新媒体
     - 橡树岭国家实验室 - 新闻

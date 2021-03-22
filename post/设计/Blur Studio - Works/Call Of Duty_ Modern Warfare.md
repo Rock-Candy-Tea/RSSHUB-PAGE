@@ -1,12 +1,12 @@
 
 ---
-title: Call Of Duty_ Modern Warfare
+title: 'Call Of Duty_ Modern Warfare'
 categories: 
     - 设计
     - Blur Studio - Works
 author: Blur Studio - Works
 comments: false
-date: 2021-03-22 03:20:39
+date: 2021-03-22 03:47:14
 thumbnail: 'http://blur.com/media/pages/projects/call-of-duty/2753542686-1571942215/sc060_safehouseintro_v00000001818.jpg'
 ---
 

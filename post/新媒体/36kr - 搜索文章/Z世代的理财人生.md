@@ -1,6 +1,6 @@
 
 ---
-title: Z世代的理财人生
+title: 'Z世代的理财人生'
 categories: 
     - 新媒体
     - 36kr - 搜索文章

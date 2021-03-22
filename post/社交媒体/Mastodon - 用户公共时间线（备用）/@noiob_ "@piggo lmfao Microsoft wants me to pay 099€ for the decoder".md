@@ -1,10 +1,10 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 
 @piggo
  lmfao Microsoft wants me to pay 0.99€ for the decoder
-"
+"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

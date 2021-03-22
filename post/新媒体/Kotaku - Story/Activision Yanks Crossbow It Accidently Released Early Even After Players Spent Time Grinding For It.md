@@ -1,6 +1,6 @@
 
 ---
-title: Activision Yanks Crossbow It Accidently Released Early Even After Players Spent Time Grinding For It
+title: 'Activision Yanks Crossbow It Accidently Released Early Even After Players Spent Time Grinding For It'
 categories: 
     - 新媒体
     - Kotaku - Story

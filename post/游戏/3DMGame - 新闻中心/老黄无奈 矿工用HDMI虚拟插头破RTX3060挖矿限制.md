@@ -1,6 +1,6 @@
 
 ---
-title: 老黄无奈 矿工用HDMI虚拟插头破RTX3060挖矿限制
+title: '老黄无奈 矿工用HDMI虚拟插头破RTX3060挖矿限制'
 categories: 
     - 游戏
     - 3DMGame - 新闻中心

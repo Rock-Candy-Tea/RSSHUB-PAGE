@@ -1,6 +1,6 @@
 
 ---
-title: A Prophet
+title: 'A Prophet'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

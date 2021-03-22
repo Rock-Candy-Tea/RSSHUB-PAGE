@@ -1,6 +1,6 @@
 
 ---
-title: Timing the SARS-CoV-2 index case in Hubei province
+title: 'Timing the SARS-CoV-2 index case in Hubei province'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

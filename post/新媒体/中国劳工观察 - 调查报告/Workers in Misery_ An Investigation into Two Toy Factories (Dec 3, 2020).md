@@ -1,6 +1,6 @@
 
 ---
-title: Workers in Misery_ An Investigation into Two Toy Factories (Dec 3, 2020)
+title: 'Workers in Misery_ An Investigation into Two Toy Factories (Dec 3, 2020)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

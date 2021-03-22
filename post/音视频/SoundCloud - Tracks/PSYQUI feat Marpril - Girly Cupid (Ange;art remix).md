@@ -1,6 +1,6 @@
 
 ---
-title: PSYQUI feat. Marpril - Girly Cupid (Ange;art remix)
+title: 'PSYQUI feat. Marpril - Girly Cupid (Ange;art remix)'
 categories: 
     - 音视频
     - SoundCloud - Tracks

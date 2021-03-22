@@ -1,12 +1,12 @@
 
 ---
-title: GSC POP UP PARADE 斩服少女 满舰饰真子 手办
+title: 'GSC POP UP PARADE 斩服少女 满舰饰真子 手办'
 categories: 
     - 社交媒体
     - bilibili - 会员购新品上架
 author: bilibili - 会员购新品上架
 comments: false
-date: 2021-03-22 03:17:26
+date: 2021-03-22 03:45:07
 thumbnail: 'https://i0.hdslb.com/bfs/mall/mall/a1/58/a15886320acbf60b00eb64711603ab18.png'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: Psycho-Pass Sinners of the System 720 (Rus)
+title: 'Psycho-Pass Sinners of the System 720 (Rus)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

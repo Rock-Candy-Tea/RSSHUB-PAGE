@@ -1,6 +1,6 @@
 
 ---
-title: 111 _ Go 编程模式：Map-Reduce
+title: '111 _ Go 编程模式：Map-Reduce'
 categories: 
     - 编程
     - 极客时间 - 专栏文章

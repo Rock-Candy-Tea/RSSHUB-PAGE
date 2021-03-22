@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Windows_ Server Silo Registry Key Symbolic Link EoP
+title: '_Fixed_ Windows_ Server Silo Registry Key Symbolic Link EoP'
 categories: 
     - 编程
     - project-zero issues - issues

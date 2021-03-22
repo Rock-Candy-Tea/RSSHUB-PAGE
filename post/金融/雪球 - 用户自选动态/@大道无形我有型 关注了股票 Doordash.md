@@ -1,6 +1,6 @@
 
 ---
-title: @大道无形我有型 关注了股票 Doordash
+title: '@大道无形我有型 关注了股票 Doordash'
 categories: 
     - 金融
     - 雪球 - 用户自选动态

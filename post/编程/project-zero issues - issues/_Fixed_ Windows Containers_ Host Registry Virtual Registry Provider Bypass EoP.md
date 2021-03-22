@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Windows Containers_ Host Registry Virtual Registry Provider Bypass EoP
+title: '_Fixed_ Windows Containers_ Host Registry Virtual Registry Provider Bypass EoP'
 categories: 
     - 编程
     - project-zero issues - issues

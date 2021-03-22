@@ -1,7 +1,7 @@
 
 ---
-title: Electron-electron interactions in a weakly screened two-dimensional
-  electron system
+title: 'Electron-electron interactions in a weakly screened two-dimensional
+  electron system'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

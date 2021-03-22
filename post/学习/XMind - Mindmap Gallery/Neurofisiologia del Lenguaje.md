@@ -1,6 +1,6 @@
 
 ---
-title: Neurofisiologia del Lenguaje
+title: 'Neurofisiologia del Lenguaje'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

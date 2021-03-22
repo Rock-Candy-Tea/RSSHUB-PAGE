@@ -1,6 +1,6 @@
 
 ---
-title: Game Preservation Group Releases Over 700 PS2 Prototypes And Unreleased Demos
+title: 'Game Preservation Group Releases Over 700 PS2 Prototypes And Unreleased Demos'
 categories: 
     - 新媒体
     - Kotaku - Story

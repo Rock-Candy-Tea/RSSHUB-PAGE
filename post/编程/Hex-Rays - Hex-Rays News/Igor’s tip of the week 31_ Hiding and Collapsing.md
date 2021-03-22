@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #31_ Hiding and Collapsing
+title: 'Igor’s tip of the week #31_ Hiding and Collapsing'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

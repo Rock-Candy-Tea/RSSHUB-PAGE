@@ -1,6 +1,6 @@
 
 ---
-title: 多维度解析稳定币赛道新秀：Float、Fei 与 Reflexer
+title: '多维度解析稳定币赛道新秀：Float、Fei 与 Reflexer'
 categories: 
     - 新媒体
     - 金色财经 - 头条

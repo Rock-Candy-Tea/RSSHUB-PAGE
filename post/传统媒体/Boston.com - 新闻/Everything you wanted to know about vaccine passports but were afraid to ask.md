@@ -1,6 +1,6 @@
 
 ---
-title: Everything you wanted to know about vaccine passports but were afraid to ask
+title: 'Everything you wanted to know about vaccine passports but were afraid to ask'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

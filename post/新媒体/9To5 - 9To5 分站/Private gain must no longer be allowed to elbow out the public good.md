@@ -1,6 +1,6 @@
 
 ---
-title: Private gain must no longer be allowed to elbow out the public good
+title: 'Private gain must no longer be allowed to elbow out the public good'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

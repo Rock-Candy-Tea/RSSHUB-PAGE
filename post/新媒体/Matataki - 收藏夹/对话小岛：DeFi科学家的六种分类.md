@@ -1,6 +1,6 @@
 
 ---
-title: 对话小岛：DeFi科学家的六种分类
+title: '对话小岛：DeFi科学家的六种分类'
 categories: 
     - 新媒体
     - Matataki - 收藏夹

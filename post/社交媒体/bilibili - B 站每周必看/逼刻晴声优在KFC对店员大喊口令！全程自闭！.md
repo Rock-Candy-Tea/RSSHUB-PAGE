@@ -1,12 +1,12 @@
 
 ---
-title: 逼刻晴声优在KFC对店员大喊口令！全程自闭！
+title: '逼刻晴声优在KFC对店员大喊口令！全程自闭！'
 categories: 
     - 社交媒体
     - bilibili - B 站每周必看
 author: bilibili - B 站每周必看
 comments: false
-date: 2021-03-22 03:17:22
+date: 2021-03-22 03:45:09
 thumbnail: 'http://i0.hdslb.com/bfs/archive/1bf8ec171ba7894fdcb882b17c5e1f7c653d953e.jpg'
 ---
 

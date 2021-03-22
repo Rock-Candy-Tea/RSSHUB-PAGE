@@ -1,6 +1,6 @@
 
 ---
-title: 生存主义（生存狂-edc-psk）
+title: '生存主义（生存狂-edc-psk）'
 categories: 
     - 新媒体
     - 報導者 - 分类

@@ -1,6 +1,6 @@
 
 ---
-title: RHEL 将对小企业免费
+title: 'RHEL 将对小企业免费'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

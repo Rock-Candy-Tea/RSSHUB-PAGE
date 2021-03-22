@@ -1,6 +1,6 @@
 
 ---
-title: National Novel Writing Month and Day One
+title: 'National Novel Writing Month and Day One'
 categories: 
     - 新媒体
     - Day One - Blog

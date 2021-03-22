@@ -1,6 +1,6 @@
 
 ---
-title: Psycho-Pass 3 First Inspector(BD 1080p x265 AAC)
+title: 'Psycho-Pass 3 First Inspector(BD 1080p x265 AAC)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

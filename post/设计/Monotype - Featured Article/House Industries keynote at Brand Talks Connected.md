@@ -1,6 +1,6 @@
 
 ---
-title: House Industries keynote at Brand Talks Connected.
+title: 'House Industries keynote at Brand Talks Connected.'
 categories: 
     - 设计
     - Monotype - Featured Article

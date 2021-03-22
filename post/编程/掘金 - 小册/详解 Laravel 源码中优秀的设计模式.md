@@ -1,6 +1,6 @@
 
 ---
-title: 详解 Laravel 源码中优秀的设计模式
+title: '详解 Laravel 源码中优秀的设计模式'
 categories: 
     - 编程
     - 掘金 - 小册

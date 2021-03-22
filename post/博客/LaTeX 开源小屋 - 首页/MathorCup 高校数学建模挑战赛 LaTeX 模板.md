@@ -1,6 +1,6 @@
 
 ---
-title: MathorCup 高校数学建模挑战赛 LaTeX 模板
+title: 'MathorCup 高校数学建模挑战赛 LaTeX 模板'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

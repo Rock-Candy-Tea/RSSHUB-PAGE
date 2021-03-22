@@ -1,8 +1,8 @@
 
 ---
-title: 【TEMPURA KIDZ & Moe Shop - Tapi Tapi Hard】KikaeAeon 8_21_2020, 1_49_11 PM 
+title: '【TEMPURA KIDZ & Moe Shop - Tapi Tapi Hard】KikaeAeon 8_21_2020, 1_49_11 PM 
 #47
- PP_0.00(0.00pp) - score_ 324,519.00
+ PP_0.00(0.00pp) - score_ 324,519.00'
 categories: 
     - 游戏
     - ScoreSaber - 用户动态

@@ -1,6 +1,6 @@
 
 ---
-title: 戯言の雑音_OFFvo
+title: '戯言の雑音_OFFvo'
 categories: 
     - 社交媒体
     - piapro - 全站最新作品

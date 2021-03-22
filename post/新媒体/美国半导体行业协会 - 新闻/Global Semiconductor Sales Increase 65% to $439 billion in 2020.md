@@ -1,6 +1,6 @@
 
 ---
-title: Global Semiconductor Sales Increase 6.5% to $439 billion in 2020
+title: 'Global Semiconductor Sales Increase 6.5% to $439 billion in 2020'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

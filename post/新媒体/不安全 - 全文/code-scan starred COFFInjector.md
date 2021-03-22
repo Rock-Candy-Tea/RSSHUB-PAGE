@@ -1,6 +1,6 @@
 
 ---
-title: code-scan starred COFFInjector
+title: 'code-scan starred COFFInjector'
 categories: 
     - 新媒体
     - 不安全 - 全文

@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 想读这本书_ 《机器学习》
+title: 'DIYgod 想读这本书_ 《机器学习》'
 categories: 
     - 社交媒体
     - 豆瓣 - 用户广播

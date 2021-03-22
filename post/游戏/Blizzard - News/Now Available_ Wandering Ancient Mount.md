@@ -1,6 +1,6 @@
 
 ---
-title: Now Available_ Wandering Ancient Mount
+title: 'Now Available_ Wandering Ancient Mount'
 categories: 
     - 游戏
     - Blizzard - News

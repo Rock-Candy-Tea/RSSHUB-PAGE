@@ -1,12 +1,12 @@
 
 ---
-title: Buy Indian Textiles Online_ Shopping for Handwoven Textiles
+title: 'Buy Indian Textiles Online_ Shopping for Handwoven Textiles'
 categories: 
     - 学习
     - Mind42 - 标签
 author: Mind42 - 标签
 comments: false
-date: 2021-03-22 03:18:33
+date: 2021-03-22 03:45:44
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=049ab286-c1c2-4394-93fd-6b8ef8836e86&size=gallery'
 ---
 

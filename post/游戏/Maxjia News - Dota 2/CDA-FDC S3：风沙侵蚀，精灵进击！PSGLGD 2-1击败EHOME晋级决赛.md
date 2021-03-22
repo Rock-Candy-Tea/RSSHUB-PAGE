@@ -1,6 +1,6 @@
 
 ---
-title: CDA-FDC S3：风沙侵蚀，精灵进击！PSG.LGD 2-1击败EHOME晋级决赛
+title: 'CDA-FDC S3：风沙侵蚀，精灵进击！PSG.LGD 2-1击败EHOME晋级决赛'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

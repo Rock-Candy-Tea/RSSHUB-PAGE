@@ -1,6 +1,6 @@
 
 ---
-title: Broad Coalition of Tech, Medical, Auto, Other Business Leaders Urge President Biden to Fund Domestic Semiconductor Manufacturing, Research in Infrastr...
+title: 'Broad Coalition of Tech, Medical, Auto, Other Business Leaders Urge President Biden to Fund Domestic Semiconductor Manufacturing, Research in Infrastr...'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

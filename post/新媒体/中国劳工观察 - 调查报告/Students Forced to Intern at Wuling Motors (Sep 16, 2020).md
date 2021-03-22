@@ -1,6 +1,6 @@
 
 ---
-title: Students Forced to Intern at Wuling Motors (Sep 16, 2020)
+title: 'Students Forced to Intern at Wuling Motors (Sep 16, 2020)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

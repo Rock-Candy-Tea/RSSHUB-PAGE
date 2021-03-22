@@ -1,6 +1,6 @@
 
 ---
-title: New trailers_ In the Heights, the WeWork documentary, Concrete Cowboy and more
+title: 'New trailers_ In the Heights, the WeWork documentary, Concrete Cowboy and more'
 categories: 
     - 新媒体
     - The Verge - The Verge

@@ -1,6 +1,6 @@
 
 ---
-title: Nokia, Smart Mobile Labs deliver 5G SA private wireless networking for Technical University Kaiserslautern research
+title: 'Nokia, Smart Mobile Labs deliver 5G SA private wireless networking for Technical University Kaiserslautern research'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

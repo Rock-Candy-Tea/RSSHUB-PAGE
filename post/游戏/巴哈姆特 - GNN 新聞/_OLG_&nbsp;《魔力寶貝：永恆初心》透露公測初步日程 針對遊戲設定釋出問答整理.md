@@ -1,12 +1,12 @@
 
 ---
-title: _OLG_&nbsp;《魔力寶貝：永恆初心》透露公測初步日程 針對遊戲設定釋出問答整理
+title: '_OLG_&nbsp;《魔力寶貝：永恆初心》透露公測初步日程 針對遊戲設定釋出問答整理'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/7f20601f80e1888bcb062b12541bucz5.JPG?v=1616139565843'
 ---
 

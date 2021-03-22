@@ -1,6 +1,6 @@
 
 ---
-title: Info
+title: 'Info'
 categories: 
     - 图片
     - Tits Guru - Categories

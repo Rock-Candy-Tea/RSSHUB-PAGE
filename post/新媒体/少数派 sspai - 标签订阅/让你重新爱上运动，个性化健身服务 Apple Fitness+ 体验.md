@@ -1,6 +1,6 @@
 
 ---
-title: 让你重新爱上运动，个性化健身服务 Apple Fitness+ 体验
+title: '让你重新爱上运动，个性化健身服务 Apple Fitness+ 体验'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

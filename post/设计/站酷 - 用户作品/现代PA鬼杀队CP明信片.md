@@ -1,6 +1,6 @@
 
 ---
-title: 现代PA鬼杀队CP明信片
+title: '现代PA鬼杀队CP明信片'
 categories: 
     - 设计
     - 站酷 - 用户作品

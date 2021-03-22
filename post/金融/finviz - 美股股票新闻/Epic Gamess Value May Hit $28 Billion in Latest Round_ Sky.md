@@ -1,6 +1,6 @@
 
 ---
-title: Epic Gamess Value May Hit $28 Billion in Latest Round_ Sky
+title: 'Epic Gamess Value May Hit $28 Billion in Latest Round_ Sky'
 categories: 
     - 金融
     - finviz - 美股股票新闻

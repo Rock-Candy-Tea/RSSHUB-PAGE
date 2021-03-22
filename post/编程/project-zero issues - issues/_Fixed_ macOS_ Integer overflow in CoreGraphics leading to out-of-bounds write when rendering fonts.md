@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ macOS_ Integer overflow in CoreGraphics leading to out-of-bounds write when rendering fonts
+title: '_Fixed_ macOS_ Integer overflow in CoreGraphics leading to out-of-bounds write when rendering fonts'
 categories: 
     - 编程
     - project-zero issues - issues

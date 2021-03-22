@@ -1,12 +1,12 @@
 
 ---
-title: ANIPLEX 剧场版 命运之夜_天之杯_ Ⅱ 迷失之蝶 Saber Alter 18000円+税 延期至2021年5月出荷
+title: 'ANIPLEX 剧场版 命运之夜_天之杯_ Ⅱ 迷失之蝶 Saber Alter 18000円+税 延期至2021年5月出荷'
 categories: 
     - 二次元
     - Hpoi 手办维基 - 情报
 author: Hpoi 手办维基 - 情报
 comments: false
-date: Sat, 20 Mar 2021 03:22:26 GMT
+date: Sat, 20 Mar 2021 03:48:46 GMT
 thumbnail: 'http://res.hpoi.net.cn/gk/cover/n/2019/12/5f7db55593014702bcb1419b1bacf249.jpg?data=1614736527826'
 ---
 

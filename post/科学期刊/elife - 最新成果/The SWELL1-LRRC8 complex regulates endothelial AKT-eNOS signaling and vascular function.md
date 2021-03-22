@@ -1,6 +1,6 @@
 
 ---
-title: The SWELL1-LRRC8 complex regulates endothelial AKT-eNOS signaling and vascular function
+title: 'The SWELL1-LRRC8 complex regulates endothelial AKT-eNOS signaling and vascular function'
 categories: 
     - 科学期刊
     - elife - 最新成果

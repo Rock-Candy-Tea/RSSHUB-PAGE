@@ -1,6 +1,6 @@
 
 ---
-title: How the CCP Took over the Most Sacred of Uighur Rituals
+title: 'How the CCP Took over the Most Sacred of Uighur Rituals'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

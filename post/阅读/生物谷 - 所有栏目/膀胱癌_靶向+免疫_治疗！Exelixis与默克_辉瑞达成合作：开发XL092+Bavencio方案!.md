@@ -1,12 +1,12 @@
 
 ---
-title: 膀胱癌_靶向+免疫_治疗！Exelixis与默克_辉瑞达成合作：开发XL092+Bavencio方案!
+title: '膀胱癌_靶向+免疫_治疗！Exelixis与默克_辉瑞达成合作：开发XL092+Bavencio方案!'
 categories: 
     - 阅读
     - 生物谷 - 所有栏目
 author: 生物谷 - 所有栏目
 comments: false
-date: 2021-03-22 03:21:28
+date: 2021-03-22 03:47:53
 thumbnail: 'http://cache3.bioon.com/webeditor/uploadfile/202103/20210322012237469.png'
 ---
 

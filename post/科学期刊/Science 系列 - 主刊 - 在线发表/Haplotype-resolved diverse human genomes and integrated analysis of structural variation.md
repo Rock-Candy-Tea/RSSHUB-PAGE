@@ -1,6 +1,6 @@
 
 ---
-title: Haplotype-resolved diverse human genomes and integrated analysis of structural variation
+title: 'Haplotype-resolved diverse human genomes and integrated analysis of structural variation'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

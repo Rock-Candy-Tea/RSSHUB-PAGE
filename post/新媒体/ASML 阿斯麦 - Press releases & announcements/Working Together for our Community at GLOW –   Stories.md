@@ -1,6 +1,6 @@
 
 ---
-title: Working Together for our Community at GLOW –   Stories
+title: 'Working Together for our Community at GLOW –   Stories'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

@@ -1,6 +1,6 @@
 
 ---
-title: L.O.V.E. - 陈奕迅_eason and the duo band
+title: 'L.O.V.E. - 陈奕迅_eason and the duo band'
 categories: 
     - 音视频
     - 网易云音乐 - 歌手专辑

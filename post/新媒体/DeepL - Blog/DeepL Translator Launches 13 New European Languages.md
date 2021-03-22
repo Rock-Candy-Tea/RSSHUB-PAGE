@@ -1,6 +1,6 @@
 
 ---
-title: DeepL Translator Launches 13 New European Languages
+title: 'DeepL Translator Launches 13 New European Languages'
 categories: 
     - 新媒体
     - DeepL - Blog

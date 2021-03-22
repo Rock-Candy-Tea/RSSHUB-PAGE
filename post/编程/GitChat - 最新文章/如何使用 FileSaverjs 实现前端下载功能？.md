@@ -1,12 +1,12 @@
 
 ---
-title: 如何使用 FileSaver.js 实现前端下载功能？
+title: '如何使用 FileSaver.js 实现前端下载功能？'
 categories: 
     - 编程
     - GitChat - 最新文章
 author: GitChat - 最新文章
 comments: false
-date: Mon, 22 Mar 2021 03:14:46 GMT
+date: Mon, 22 Mar 2021 03:42:40 GMT
 thumbnail: ''
 ---
 

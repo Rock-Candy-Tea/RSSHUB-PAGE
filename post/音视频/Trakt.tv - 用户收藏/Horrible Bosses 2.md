@@ -1,6 +1,6 @@
 
 ---
-title: Horrible Bosses 2
+title: 'Horrible Bosses 2'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

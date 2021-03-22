@@ -1,6 +1,6 @@
 
 ---
-title: 東奧「OLYMPIG」風暴：日本廣告鬼才為何失手成女...
+title: '東奧「OLYMPIG」風暴：日本廣告鬼才為何失手成女...'
 categories: 
     - 传统媒体
     - UDN - 轉角國際

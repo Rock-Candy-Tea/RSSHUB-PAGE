@@ -1,6 +1,6 @@
 
 ---
-title: Zh3r0 CTF V2
+title: 'Zh3r0 CTF V2'
 categories: 
     - 学习
     - CTFHub Calendar - 查询国内外 CTF 赛事信息

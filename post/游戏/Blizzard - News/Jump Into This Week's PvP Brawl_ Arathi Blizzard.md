@@ -1,6 +1,6 @@
 
 ---
-title: Jump Into This Week's PvP Brawl_ Arathi Blizzard
+title: 'Jump Into This Week's PvP Brawl_ Arathi Blizzard'
 categories: 
     - 游戏
     - Blizzard - News

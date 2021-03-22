@@ -1,12 +1,12 @@
 
 ---
-title: 惊艳！奇诡艺术短片「SIMULACRA」
+title: '惊艳！奇诡艺术短片「SIMULACRA」'
 categories: 
     - 音视频
     - 场库 - 今日精选
 author: 场库 - 今日精选
 comments: false
-date: 2021-03-22 03:21:46
+date: 2021-03-22 03:48:08
 thumbnail: 'https://cs.vmovier.com/Uploads/cover/2021-03-20/6055e0b192f7c_cut.jpeg'
 ---
 

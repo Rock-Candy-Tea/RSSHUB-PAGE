@@ -1,6 +1,6 @@
 
 ---
-title: 小山百代以艺术家的身份参与了作品《BLUE ANTHEM》
+title: '小山百代以艺术家的身份参与了作品《BLUE ANTHEM》'
 categories: 
     - 二次元
     - Bangumi - 现实人物的新作品

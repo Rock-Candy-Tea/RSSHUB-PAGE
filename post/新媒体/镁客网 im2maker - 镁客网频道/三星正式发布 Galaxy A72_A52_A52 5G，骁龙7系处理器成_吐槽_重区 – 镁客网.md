@@ -1,12 +1,12 @@
 
 ---
-title: 三星正式发布 Galaxy A72_A52_A52 5G，骁龙7系处理器成_吐槽_重区 – 镁客网
+title: '三星正式发布 Galaxy A72_A52_A52 5G，骁龙7系处理器成_吐槽_重区 – 镁客网'
 categories: 
     - 新媒体
     - 镁客网 im2maker - 镁客网频道
 author: 镁客网 im2maker - 镁客网频道
 comments: false
-date: 2021-03-22 03:16:27
+date: 2021-03-22 03:44:24
 thumbnail: 'https://oss-im2maker.oss-cn-hangzhou.aliyuncs.com/uploadfile/2021/03/20210318015736682.jpg'
 ---
 

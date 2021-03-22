@@ -1,6 +1,6 @@
 
 ---
-title: Gate-controlled BCS-BEC crossover in a two-dimensional superconductor
+title: 'Gate-controlled BCS-BEC crossover in a two-dimensional superconductor'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

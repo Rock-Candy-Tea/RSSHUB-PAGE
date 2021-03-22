@@ -1,6 +1,6 @@
 
 ---
-title: Five Bahamian Students from Savannah State University Hope to Inspire Future Generations
+title: 'Five Bahamian Students from Savannah State University Hope to Inspire Future Generations'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

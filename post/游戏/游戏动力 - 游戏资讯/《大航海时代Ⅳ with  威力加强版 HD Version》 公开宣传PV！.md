@@ -1,6 +1,6 @@
 
 ---
-title: 《大航海时代Ⅳ with  威力加强版 HD Version》 公开宣传PV！
+title: '《大航海时代Ⅳ with  威力加强版 HD Version》 公开宣传PV！'
 categories: 
     - 游戏
     - 游戏动力 - 游戏资讯

@@ -1,6 +1,6 @@
 
 ---
-title: Der Osterbaum in Wulkau_ 1950 Eier für ein Lächeln
+title: 'Der Osterbaum in Wulkau_ 1950 Eier für ein Lächeln'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

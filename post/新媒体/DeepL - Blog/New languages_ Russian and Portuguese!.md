@@ -1,6 +1,6 @@
 
 ---
-title: New languages_ Russian and Portuguese!
+title: 'New languages_ Russian and Portuguese!'
 categories: 
     - 新媒体
     - DeepL - Blog

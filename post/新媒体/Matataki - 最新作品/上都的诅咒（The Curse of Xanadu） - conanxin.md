@@ -1,6 +1,6 @@
 
 ---
-title: 上都的诅咒（The Curse of Xanadu） - conanxin
+title: '上都的诅咒（The Curse of Xanadu） - conanxin'
 categories: 
     - 新媒体
     - Matataki - 最新作品

@@ -1,6 +1,6 @@
 
 ---
-title: Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant.
+title: 'Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

@@ -1,6 +1,6 @@
 
 ---
-title: 經典名作《多羅羅》釋出第3彈宣傳影像，片尾曲確定邀請到「amazarashi」演唱！
+title: '經典名作《多羅羅》釋出第3彈宣傳影像，片尾曲確定邀請到「amazarashi」演唱！'
 categories: 
     - 二次元
     - Animen 动漫平台 - news

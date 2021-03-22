@@ -1,13 +1,13 @@
 
 ---
-title: 在即將迎來狩獵解禁的《MONSTER HUNTER RISE》的最新影片中，
-「雷狼龍」和「迅龍」登場！防衛村莊的新任務「百龍夜行」的詳情亦終於公開！
+title: '在即將迎來狩獵解禁的《MONSTER HUNTER RISE》的最新影片中，
+「雷狼龍」和「迅龍」登場！防衛村莊的新任務「百龍夜行」的詳情亦終於公開！'
 categories: 
     - 游戏
     - Nintendo - 首页资讯（香港）
 author: Nintendo - 首页资讯（香港）
 comments: false
-date: 2021-03-22 03:19:51
+date: 2021-03-22 03:46:18
 thumbnail: 'https://www.nintendo.com.hk/topics/article/article_img/a_210309_01/1.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: ep.6 你选择的这个世界
+title: 'ep.6 你选择的这个世界'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

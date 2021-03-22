@@ -1,6 +1,6 @@
 
 ---
-title: Recovery from Anima World Technical Difficulties (Mar. 3)
+title: 'Recovery from Anima World Technical Difficulties (Mar. 3)'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

@@ -1,6 +1,6 @@
 
 ---
-title: 艺术家 Beeple 一张数字海报作品拍出 4.5 亿价格
+title: '艺术家 Beeple 一张数字海报作品拍出 4.5 亿价格'
 categories: 
     - 设计
     - 优设网 - 优设读报

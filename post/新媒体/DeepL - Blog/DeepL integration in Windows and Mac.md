@@ -1,6 +1,6 @@
 
 ---
-title: DeepL integration in Windows and Mac
+title: 'DeepL integration in Windows and Mac'
 categories: 
     - 新媒体
     - DeepL - Blog

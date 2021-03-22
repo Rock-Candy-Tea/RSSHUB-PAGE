@@ -1,6 +1,6 @@
 
 ---
-title: The Unbearable Likeness of Being_ The Story of ‘Little Jack Ma’
+title: 'The Unbearable Likeness of Being_ The Story of ‘Little Jack Ma’'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

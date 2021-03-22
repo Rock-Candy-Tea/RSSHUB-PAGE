@@ -1,6 +1,6 @@
 
 ---
-title: Follow-up Investigative Report on Early Light (Aug 21, 2018)
+title: 'Follow-up Investigative Report on Early Light (Aug 21, 2018)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

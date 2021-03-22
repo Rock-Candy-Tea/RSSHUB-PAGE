@@ -1,6 +1,6 @@
 
 ---
-title: Xiamen Man Sentenced to 3 Years for Relentlessly Slandering Hospital
+title: 'Xiamen Man Sentenced to 3 Years for Relentlessly Slandering Hospital'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

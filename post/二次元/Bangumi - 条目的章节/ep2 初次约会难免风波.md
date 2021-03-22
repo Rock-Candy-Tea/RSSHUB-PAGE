@@ -1,6 +1,6 @@
 
 ---
-title: ep.2 初次约会难免风波
+title: 'ep.2 初次约会难免风波'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

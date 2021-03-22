@@ -1,6 +1,6 @@
 
 ---
-title: 余尛繁 _ rua！
+title: '余尛繁 _ rua！'
 categories: 
     - 社交媒体
     - bilibili - 视频评论

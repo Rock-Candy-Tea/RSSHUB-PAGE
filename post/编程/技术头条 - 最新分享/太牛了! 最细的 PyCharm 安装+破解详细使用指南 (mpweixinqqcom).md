@@ -1,12 +1,12 @@
 
 ---
-title: 太牛了! 最细的 PyCharm 安装+破解详细使用指南 (mp.weixin.qq.com)
+title: '太牛了! 最细的 PyCharm 安装+破解详细使用指南 (mp.weixin.qq.com)'
 categories: 
     - 编程
     - 技术头条 - 最新分享
 author: 技术头条 - 最新分享
 comments: false
-date: 2021-03-22 03:14:59
+date: 2021-03-22 03:42:54
 thumbnail: ''
 ---
 

@@ -1,12 +1,12 @@
 
 ---
-title: QQ红包 _ 趣味新玩法是怎么设计的
+title: 'QQ红包 _ 趣味新玩法是怎么设计的'
 categories: 
     - 设计
     - UI 中国 - 个人作品
 author: UI 中国 - 个人作品
 comments: false
-date: 2021-03-22 03:20:47
+date: 2021-03-22 03:47:18
 thumbnail: 'https://img.ui.cn/data/file/0/8/7/2790780.png'
 ---
 

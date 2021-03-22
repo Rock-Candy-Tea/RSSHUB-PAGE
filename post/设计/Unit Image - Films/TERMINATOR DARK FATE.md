@@ -1,6 +1,6 @@
 
 ---
-title: TERMINATOR DARK FATE
+title: 'TERMINATOR DARK FATE'
 categories: 
     - 设计
     - Unit Image - Films

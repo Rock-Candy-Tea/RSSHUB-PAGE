@@ -1,6 +1,6 @@
 
 ---
-title: CIS元气大伤！Na’Vi中单及五号位感染新冠，RAMZES及教练紧急替补
+title: 'CIS元气大伤！Na’Vi中单及五号位感染新冠，RAMZES及教练紧急替补'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

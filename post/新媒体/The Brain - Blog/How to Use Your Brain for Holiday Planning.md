@@ -1,6 +1,6 @@
 
 ---
-title: How to Use Your Brain for Holiday Planning
+title: 'How to Use Your Brain for Holiday Planning'
 categories: 
     - 新媒体
     - The Brain - Blog

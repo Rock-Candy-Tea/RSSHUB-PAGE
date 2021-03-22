@@ -1,6 +1,6 @@
 
 ---
-title: Wondering What to Write_ There’s a Prompt For That.
+title: 'Wondering What to Write_ There’s a Prompt For That.'
 categories: 
     - 新媒体
     - Day One - Blog

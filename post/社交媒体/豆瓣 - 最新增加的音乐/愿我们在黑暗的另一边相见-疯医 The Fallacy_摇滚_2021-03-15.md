@@ -1,6 +1,6 @@
 
 ---
-title: 愿我们在黑暗的另一边相见-疯医 The Fallacy_摇滚_2021-03-15
+title: '愿我们在黑暗的另一边相见-疯医 The Fallacy_摇滚_2021-03-15'
 categories: 
     - 社交媒体
     - 豆瓣 - 最新增加的音乐
@@ -12,7 +12,7 @@ thumbnail: 'https://img9.doubanio.com/view/subject/m/public/s33852009.jpg'
 
 <div>   
 <img src="https://img9.doubanio.com/view/subject/m/public/s33852009.jpg" referrerpolicy="no-referrer"><br>
-                    定国湖/回声之丘/瞳醉/愿我们在黑暗的另一边相见/沸报 —— 西北化为乌有的短评<br>
+                    6.5/10 —— Osvaldo的短评<br>
                     <strong>评分:</strong> 7.6
                   
 </div>

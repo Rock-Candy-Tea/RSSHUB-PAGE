@@ -1,6 +1,6 @@
 
 ---
-title: Months After Being Deprecated, Linux Ready To Say Goodbye To WiMAX
+title: 'Months After Being Deprecated, Linux Ready To Say Goodbye To WiMAX'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

@@ -1,6 +1,6 @@
 
 ---
-title: VueJS 组件编码规范
+title: 'VueJS 组件编码规范'
 categories: 
     - 编程
     - 掘金 - 收藏集

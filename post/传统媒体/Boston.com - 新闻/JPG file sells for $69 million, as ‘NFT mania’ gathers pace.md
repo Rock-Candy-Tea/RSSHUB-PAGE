@@ -1,6 +1,6 @@
 
 ---
-title: JPG file sells for $69 million, as ‘NFT mania’ gathers pace
+title: 'JPG file sells for $69 million, as ‘NFT mania’ gathers pace'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

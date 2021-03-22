@@ -1,6 +1,6 @@
 
 ---
-title: RC 时间挑战赛：柏树公寓
+title: 'RC 时间挑战赛：柏树公寓'
 categories: 
     - 游戏
     - Rockstar Games Social Club - 在线活动

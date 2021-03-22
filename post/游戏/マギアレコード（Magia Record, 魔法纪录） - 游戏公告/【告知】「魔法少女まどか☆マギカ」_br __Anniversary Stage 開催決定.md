@@ -1,6 +1,6 @@
 
 ---
-title: 【告知】「魔法少女まどか☆マギカ」_br __Anniversary Stage 開催決定
+title: '【告知】「魔法少女まどか☆マギカ」_br __Anniversary Stage 開催決定'
 categories: 
     - 游戏
     - マギアレコード（Magia Record, 魔法纪录） - 游戏公告

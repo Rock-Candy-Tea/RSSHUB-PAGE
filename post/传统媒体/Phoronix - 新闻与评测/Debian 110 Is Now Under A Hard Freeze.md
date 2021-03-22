@@ -1,6 +1,6 @@
 
 ---
-title: Debian 11.0 Is Now Under A Hard Freeze
+title: 'Debian 11.0 Is Now Under A Hard Freeze'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

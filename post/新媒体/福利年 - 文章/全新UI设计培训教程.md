@@ -1,6 +1,6 @@
 
 ---
-title: 全新UI设计培训教程
+title: '全新UI设计培训教程'
 categories: 
     - 新媒体
     - 福利年 - 文章

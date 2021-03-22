@@ -1,6 +1,6 @@
 
 ---
-title: NVIDIA Studio驱动发布12月新版本：包括7大更新要点
+title: 'NVIDIA Studio驱动发布12月新版本：包括7大更新要点'
 categories: 
     - 设计
     - 优设网 - 行业新闻

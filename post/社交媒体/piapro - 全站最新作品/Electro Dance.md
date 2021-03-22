@@ -1,6 +1,6 @@
 
 ---
-title: Electro Dance
+title: 'Electro Dance'
 categories: 
     - 社交媒体
     - piapro - 全站最新作品

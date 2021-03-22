@@ -1,6 +1,6 @@
 
 ---
-title: 千亿美金电商黑马Shopify，凭什么挑战亚马逊？
+title: '千亿美金电商黑马Shopify，凭什么挑战亚马逊？'
 categories: 
     - 新媒体
     - 36kr - 资讯

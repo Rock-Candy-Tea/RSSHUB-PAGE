@@ -1,6 +1,6 @@
 
 ---
-title: 用什么扫？tape有扫码键嘛
+title: '用什么扫？tape有扫码键嘛'
 categories: 
     - 社交媒体
     - Tape 小纸条 - 提问箱新回答

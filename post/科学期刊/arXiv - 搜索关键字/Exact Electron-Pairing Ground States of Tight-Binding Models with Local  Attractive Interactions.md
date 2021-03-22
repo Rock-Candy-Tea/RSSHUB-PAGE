@@ -1,7 +1,7 @@
 
 ---
-title: Exact Electron-Pairing Ground States of Tight-Binding Models with Local
-  Attractive Interactions
+title: 'Exact Electron-Pairing Ground States of Tight-Binding Models with Local
+  Attractive Interactions'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

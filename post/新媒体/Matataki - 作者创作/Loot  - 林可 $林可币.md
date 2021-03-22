@@ -1,6 +1,6 @@
 
 ---
-title: Loot  - 林可 $林可币
+title: 'Loot  - 林可 $林可币'
 categories: 
     - 新媒体
     - Matataki - 作者创作

@@ -1,6 +1,6 @@
 
 ---
-title: 5 Mistakes I Wish I Didn't Make As A Self-Taught Developer
+title: '5 Mistakes I Wish I Didn't Make As A Self-Taught Developer'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

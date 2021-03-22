@@ -1,6 +1,6 @@
 
 ---
-title: 紳士用基因演算法創作「馬賽克色圖」，成功獲GoogleAdSense認證違規🔞
+title: '紳士用基因演算法創作「馬賽克色圖」，成功獲GoogleAdSense認證違規🔞'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 主題

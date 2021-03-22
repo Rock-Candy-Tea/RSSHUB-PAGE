@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：刚转入 Android 阵营的你，一定要试试这些 App
+title: 'DIYgod喜欢了文章：刚转入 Android 阵营的你，一定要试试这些 App'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

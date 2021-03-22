@@ -1,6 +1,6 @@
 
 ---
-title: The regulator's puzzle
+title: 'The regulator's puzzle'
 categories: 
     - 博客
     - archdaily - 首页

@@ -1,6 +1,6 @@
 
 ---
-title: Google 推出 iOS 版「观妙中国」App，在线欣赏文化艺术品
+title: 'Google 推出 iOS 版「观妙中国」App，在线欣赏文化艺术品'
 categories: 
     - 设计
     - 优设网 - 优设读报

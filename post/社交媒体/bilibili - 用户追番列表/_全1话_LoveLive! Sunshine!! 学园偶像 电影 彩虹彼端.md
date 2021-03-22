@@ -1,6 +1,6 @@
 
 ---
-title: _全1话_LoveLive! Sunshine!! 学园偶像 电影 彩虹彼端
+title: '_全1话_LoveLive! Sunshine!! 学园偶像 电影 彩虹彼端'
 categories: 
     - 社交媒体
     - bilibili - 用户追番列表

@@ -1,6 +1,6 @@
 
 ---
-title: 苹果公布 App Store 小型企业计划，分成比例下调至 15%
+title: '苹果公布 App Store 小型企业计划，分成比例下调至 15%'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

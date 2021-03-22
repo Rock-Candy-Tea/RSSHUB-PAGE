@@ -1,7 +1,7 @@
 
 ---
-title: 重現經典《大航海時代 4 with 威力加強 HD 版》Steam _ Switch 版 5 月推出
- 21 個人說推！
+title: '重現經典《大航海時代 4 with 威力加強 HD 版》Steam _ Switch 版 5 月推出
+ 21 個人說推！'
 categories: 
     - 游戏
     - GNN.tw 游戏新闻 - GNN.tw 游戏新闻

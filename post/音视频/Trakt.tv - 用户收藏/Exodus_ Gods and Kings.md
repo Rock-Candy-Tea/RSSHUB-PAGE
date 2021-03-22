@@ -1,6 +1,6 @@
 
 ---
-title: Exodus_ Gods and Kings
+title: 'Exodus_ Gods and Kings'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

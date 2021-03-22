@@ -1,6 +1,6 @@
 
 ---
-title: Miami Vice
+title: 'Miami Vice'
 categories: 
     - 新媒体
     - Letterboxd - User diary

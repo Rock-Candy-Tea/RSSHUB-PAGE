@@ -1,6 +1,6 @@
 
 ---
-title: Barbarella
+title: 'Barbarella'
 categories: 
     - 新媒体
     - Letterboxd - User diary

@@ -1,6 +1,6 @@
 
 ---
-title: When My Hometown Went Into Lockdown, It Changed Me
+title: 'When My Hometown Went Into Lockdown, It Changed Me'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

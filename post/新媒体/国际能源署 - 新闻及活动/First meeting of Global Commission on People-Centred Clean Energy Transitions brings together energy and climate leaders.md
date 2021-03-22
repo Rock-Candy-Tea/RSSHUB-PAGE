@@ -1,6 +1,6 @@
 
 ---
-title: First meeting of Global Commission on People-Centred Clean Energy Transitions brings together energy and climate leaders
+title: 'First meeting of Global Commission on People-Centred Clean Energy Transitions brings together energy and climate leaders'
 categories: 
     - 新媒体
     - 国际能源署 - 新闻及活动

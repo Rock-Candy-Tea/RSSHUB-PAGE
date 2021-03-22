@@ -1,7 +1,7 @@
 
 ---
-title: 《龍族拼圖》x 劇場版《FSN _Heaven's Feel_ Ⅲ. 春櫻之歌》第三彈合作復刻登場
- 1 個人說推！
+title: '《龍族拼圖》x 劇場版《FSN _Heaven's Feel_ Ⅲ. 春櫻之歌》第三彈合作復刻登場
+ 1 個人說推！'
 categories: 
     - 游戏
     - GNN.tw 游戏新闻 - GNN.tw 游戏新闻

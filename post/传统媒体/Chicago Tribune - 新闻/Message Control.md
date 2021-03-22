@@ -1,6 +1,6 @@
 
 ---
-title: Message Control
+title: 'Message Control'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

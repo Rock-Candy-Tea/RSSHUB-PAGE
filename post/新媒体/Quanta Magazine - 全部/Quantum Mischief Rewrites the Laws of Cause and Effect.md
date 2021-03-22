@@ -1,6 +1,6 @@
 
 ---
-title: Quantum Mischief Rewrites the Laws of Cause and Effect
+title: 'Quantum Mischief Rewrites the Laws of Cause and Effect'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -66,7 +66,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/Causal-Order_2
 <p>It’s not yet clear how these researchers’ operational approach to quantum gravity intersects efforts like string theory and loop quantum gravity, which more directly aim to quantize gravity into discrete units (invisibly small “strings” or “loops” in those two cases). Brukner notes that these latter approaches “do not have immediate operational implications.” Like Hardy, he prefers to “try to clarify concepts involved and try to connect them to things that we can, in principle, observe.”</p>
 <p>But ultimately quantum gravity must be specific — answering not just the question “What can we observe?” but also “What exists?” That is, what are the quantum building blocks of gravity, space and time?</p>
 <p>According to Zych, research on indefinite causal structures is helping with the search for the full theory of quantum gravity in two ways: by providing a mathematical framework, and by informing the development of specific theories, since the reasoning should hold in any approach to the quantization of gravity. She said, “We are building intuition about the phenomena associated with quantum features of temporal and causal order, which will help to get our heads around these issues within a complete quantum gravity theory.”</p>
-<div id="component-60580bdf455bb" class="related-list"></div>
+<div id="component-60581268ab461" class="related-list"></div>
 <p>Hardy is currently participating in a large research collaboration called QISS aimed at cross-fertilizing communities of researchers like him, with backgrounds in quantum foundations and quantum information, with other communities of quantum gravity researchers. Carlo Rovelli, a well-known loop quantum gravity theorist at Aix-Marseille University in France who leads QISS, called Hardy “an accurate thinker” who approaches issues “from a different perspective and with a different language” that Rovelli finds useful.</p>
 <p>Hardy thinks his causaloid framework might be compatible with loops or strings, potentially suggesting how to formulate those theories in a way that doesn’t envision objects evolving against a fixed background time. “We’re trying to find different routes up the mountain,” he said. He suspects that the surest route to quantum gravity is the one that “has at its heart this idea of indefinite causal structure.”</p>
 </div></div></div></section></div><div class="pv2" data-reactid="412"></div>  

@@ -1,6 +1,6 @@
 
 ---
-title: YFXC.YFNM - 付大
+title: 'YFXC.YFNM - 付大'
 categories: 
     - 新媒体
     - Matataki - 标签关联作品

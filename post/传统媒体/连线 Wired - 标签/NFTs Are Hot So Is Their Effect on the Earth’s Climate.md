@@ -1,12 +1,12 @@
 
 ---
-title: NFTs Are Hot. So Is Their Effect on the Earth’s Climate
+title: 'NFTs Are Hot. So Is Their Effect on the Earth’s Climate'
 categories: 
     - 传统媒体
     - 连线 Wired - 标签
 author: 连线 Wired - 标签
 comments: false
-date: 2021-03-22 03:20:19
+date: 2021-03-22 03:46:55
 thumbnail: 'https://media.wired.com/photos/604267f23033a63758ebd9cf/16:9/w_800,c_limit/business_nft_climate.jpg'
 ---
 

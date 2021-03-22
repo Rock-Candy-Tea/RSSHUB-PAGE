@@ -1,6 +1,6 @@
 
 ---
-title: Alter 奥丁领域 Velvet w_ Cornelius
+title: 'Alter 奥丁领域 Velvet w_ Cornelius'
 categories: 
     - 二次元
     - Bangumi - 用户日志

@@ -1,6 +1,6 @@
 
 ---
-title: New NFL media rights deal is worth more than $110 billion
+title: 'New NFL media rights deal is worth more than $110 billion'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

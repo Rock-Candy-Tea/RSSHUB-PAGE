@@ -1,6 +1,6 @@
 
 ---
-title: 期間限定ガチャ Bittersweet AI Memory
+title: '期間限定ガチャ Bittersweet AI Memory'
 categories: 
     - 游戏
     - マギアレコード（Magia Record, 魔法纪录） - 游戏横幅

@@ -1,6 +1,6 @@
 
 ---
-title: EU launches European Green Digital Coalition, targets net-zero emissions by 2040
+title: 'EU launches European Green Digital Coalition, targets net-zero emissions by 2040'
 categories: 
     - 传统媒体
     - Telecompaper - Search

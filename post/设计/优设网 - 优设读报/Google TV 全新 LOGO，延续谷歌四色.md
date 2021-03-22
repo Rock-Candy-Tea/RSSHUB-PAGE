@@ -1,6 +1,6 @@
 
 ---
-title: Google TV 全新 LOGO，延续谷歌四色
+title: 'Google TV 全新 LOGO，延续谷歌四色'
 categories: 
     - 设计
     - 优设网 - 优设读报

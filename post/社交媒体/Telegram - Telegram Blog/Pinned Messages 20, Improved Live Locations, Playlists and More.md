@@ -1,6 +1,6 @@
 
 ---
-title: Pinned Messages 2.0, Improved Live Locations, Playlists and More
+title: 'Pinned Messages 2.0, Improved Live Locations, Playlists and More'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

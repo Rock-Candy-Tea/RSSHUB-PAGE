@@ -1,12 +1,12 @@
 
 ---
-title: Kohakuiro no Hunter 2
+title: 'Kohakuiro no Hunter 2'
 categories: 
     - 二次元
     - Hanime.tv - 最近更新
 author: Hanime.tv - 最近更新
 comments: false
-date: 2021-03-22 03:22:25
+date: 2021-03-22 03:48:45
 thumbnail: 'https://i1.wp.com/static-assets.droidbuzz.top/images/covers/kohakuiro-no-hunter-2-cv1.png'
 ---
 

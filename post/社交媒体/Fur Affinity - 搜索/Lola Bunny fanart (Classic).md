@@ -1,6 +1,6 @@
 
 ---
-title: Lola Bunny fanart (Classic)
+title: 'Lola Bunny fanart (Classic)'
 categories: 
     - 社交媒体
     - Fur Affinity - 搜索

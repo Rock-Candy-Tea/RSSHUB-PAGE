@@ -1,6 +1,6 @@
 
 ---
-title: Power Efficient Finite-Blocklength Transmission over Parallel Fading Channels with Statistical QoS Guarantee
+title: 'Power Efficient Finite-Blocklength Transmission over Parallel Fading Channels with Statistical QoS Guarantee'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

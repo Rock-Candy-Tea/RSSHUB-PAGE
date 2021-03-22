@@ -1,6 +1,6 @@
 
 ---
-title: Cerebro-SNC
+title: 'Cerebro-SNC'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

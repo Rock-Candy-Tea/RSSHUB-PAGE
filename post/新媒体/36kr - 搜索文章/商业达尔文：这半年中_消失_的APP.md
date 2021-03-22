@@ -1,6 +1,6 @@
 
 ---
-title: 商业达尔文：这半年中_消失_的APP
+title: '商业达尔文：这半年中_消失_的APP'
 categories: 
     - 新媒体
     - 36kr - 搜索文章

@@ -1,8 +1,8 @@
 
 ---
-title: 【BJJ - Get Down Hard】Nut3z 8_22_2020, 2_21_16 AM 
+title: '【BJJ - Get Down Hard】Nut3z 8_22_2020, 2_21_16 AM 
 #257
- PP_23.94(20.04pp) - accuracy_ 70.91%
+ PP_23.94(20.04pp) - accuracy_ 70.91%'
 categories: 
     - 游戏
     - ScoreSaber - 用户动态

@@ -1,6 +1,6 @@
 
 ---
-title: 智商掉了一地 _ 从韩剧tv看到前端大佬的blog
+title: '智商掉了一地 _ 从韩剧tv看到前端大佬的blog'
 categories: 
     - 社交媒体
     - bilibili - 视频评论

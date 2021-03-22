@@ -1,6 +1,6 @@
 
 ---
-title: Support Doctors Without Borders_Médecins Sans Frontières (MSF) During the WoW Charity Pet Program
+title: 'Support Doctors Without Borders_Médecins Sans Frontières (MSF) During the WoW Charity Pet Program'
 categories: 
     - 游戏
     - Blizzard - News

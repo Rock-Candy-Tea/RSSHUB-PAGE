@@ -1,6 +1,6 @@
 
 ---
-title: China Bans Microlenders From Targeting College Students
+title: 'China Bans Microlenders From Targeting College Students'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

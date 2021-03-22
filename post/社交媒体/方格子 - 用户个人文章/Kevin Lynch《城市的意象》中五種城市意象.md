@@ -1,6 +1,6 @@
 
 ---
-title: Kevin Lynch《城市的意象》中五種城市意象
+title: 'Kevin Lynch《城市的意象》中五種城市意象'
 categories: 
     - 社交媒体
     - 方格子 - 用户个人文章

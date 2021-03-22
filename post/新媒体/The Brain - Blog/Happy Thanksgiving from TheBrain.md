@@ -1,6 +1,6 @@
 
 ---
-title: Happy Thanksgiving from TheBrain
+title: 'Happy Thanksgiving from TheBrain'
 categories: 
     - 新媒体
     - The Brain - Blog

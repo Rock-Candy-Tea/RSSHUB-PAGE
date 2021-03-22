@@ -1,6 +1,6 @@
 
 ---
-title: LaTeX 招聘了
+title: 'LaTeX 招聘了'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

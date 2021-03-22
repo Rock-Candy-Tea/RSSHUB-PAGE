@@ -1,6 +1,6 @@
 
 ---
-title: 《BanG Dream！2nd Season》最新廣告影像&主視覺圖曝光，即將在1月9日全面開播！
+title: '《BanG Dream！2nd Season》最新廣告影像&主視覺圖曝光，即將在1月9日全面開播！'
 categories: 
     - 二次元
     - Animen 动漫平台 - news

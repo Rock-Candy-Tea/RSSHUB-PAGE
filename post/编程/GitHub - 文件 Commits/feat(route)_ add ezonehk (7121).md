@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ add ezone.hk (#7121)
+title: 'feat(route)_ add ezone.hk (#7121)'
 categories: 
     - 编程
     - GitHub - 文件 Commits

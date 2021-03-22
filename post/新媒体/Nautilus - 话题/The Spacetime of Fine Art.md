@@ -1,6 +1,6 @@
 
 ---
-title: The Spacetime of Fine Art
+title: 'The Spacetime of Fine Art'
 categories: 
     - 新媒体
     - Nautilus - 话题

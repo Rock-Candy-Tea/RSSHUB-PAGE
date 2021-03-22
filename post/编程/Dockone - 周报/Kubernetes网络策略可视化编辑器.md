@@ -1,12 +1,12 @@
 
 ---
-title: Kubernetes网络策略可视化编辑器
+title: 'Kubernetes网络策略可视化编辑器'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210320/a44e61fb0a3ca6923a259e7ea62e3985.png'
 ---
 

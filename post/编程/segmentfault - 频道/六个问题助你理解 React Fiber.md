@@ -1,12 +1,12 @@
 
 ---
-title: 六个问题助你理解 React Fiber
+title: '六个问题助你理解 React Fiber'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:53
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/remote/1460000039682753'
 ---
 

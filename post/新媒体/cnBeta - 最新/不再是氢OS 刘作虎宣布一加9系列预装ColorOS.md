@@ -1,6 +1,6 @@
 
 ---
-title: 不再是氢OS 刘作虎宣布一加9系列预装ColorOS
+title: '不再是氢OS 刘作虎宣布一加9系列预装ColorOS'
 categories: 
     - 新媒体
     - cnBeta - 最新

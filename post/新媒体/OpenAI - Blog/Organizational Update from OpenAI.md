@@ -1,6 +1,6 @@
 
 ---
-title: Organizational Update from OpenAI
+title: 'Organizational Update from OpenAI'
 categories: 
     - 新媒体
     - OpenAI - Blog

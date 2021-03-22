@@ -1,6 +1,6 @@
 
 ---
-title: CDA-FDC S3：魔化利刃如战神，极限魂断逆乾坤！Elephant 2-1击败Aster
+title: 'CDA-FDC S3：魔化利刃如战神，极限魂断逆乾坤！Elephant 2-1击败Aster'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

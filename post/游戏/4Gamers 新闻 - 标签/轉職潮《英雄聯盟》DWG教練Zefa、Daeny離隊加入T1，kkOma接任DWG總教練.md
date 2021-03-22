@@ -1,6 +1,6 @@
 
 ---
-title: 轉職潮《英雄聯盟》DWG教練Zefa、Daeny離隊加入T1，kkOma接任DWG總教練
+title: '轉職潮《英雄聯盟》DWG教練Zefa、Daeny離隊加入T1，kkOma接任DWG總教練'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

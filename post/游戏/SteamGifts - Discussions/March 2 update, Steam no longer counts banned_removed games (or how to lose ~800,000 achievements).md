@@ -1,6 +1,6 @@
 
 ---
-title: March 2 update, Steam no longer counts banned_removed games (or how to lose ~800,000 achievements)
+title: 'March 2 update, Steam no longer counts banned_removed games (or how to lose ~800,000 achievements)'
 categories: 
     - 游戏
     - SteamGifts - Discussions

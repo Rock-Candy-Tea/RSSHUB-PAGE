@@ -1,6 +1,6 @@
 
 ---
-title: 【購物】TOKYU HANDS 池袋店決定關店將結束37年歷史原因是殘舊 (片)
+title: '【購物】TOKYU HANDS 池袋店決定關店將結束37年歷史原因是殘舊 (片)'
 categories: 
     - 博客
     - 劍心．回憶 - 分类

@@ -1,6 +1,6 @@
 
 ---
-title: Data Security Takes Center Stage at Consumer Rights Gala
+title: 'Data Security Takes Center Stage at Consumer Rights Gala'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

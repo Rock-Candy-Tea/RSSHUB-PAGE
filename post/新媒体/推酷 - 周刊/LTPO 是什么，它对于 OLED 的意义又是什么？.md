@@ -1,6 +1,6 @@
 
 ---
-title: LTPO 是什么，它对于 OLED 的意义又是什么？
+title: 'LTPO 是什么，它对于 OLED 的意义又是什么？'
 categories: 
     - 新媒体
     - 推酷 - 周刊

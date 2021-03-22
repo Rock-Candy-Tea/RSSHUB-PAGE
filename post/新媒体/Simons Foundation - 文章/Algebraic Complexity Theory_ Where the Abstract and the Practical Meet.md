@@ -1,6 +1,6 @@
 
 ---
-title: Algebraic Complexity Theory_ Where the Abstract and the Practical Meet
+title: 'Algebraic Complexity Theory_ Where the Abstract and the Practical Meet'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

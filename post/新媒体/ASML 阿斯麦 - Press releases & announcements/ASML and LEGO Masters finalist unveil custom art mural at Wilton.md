@@ -1,6 +1,6 @@
 
 ---
-title: ASML and LEGO Masters finalist unveil custom art mural at Wilton
+title: 'ASML and LEGO Masters finalist unveil custom art mural at Wilton'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

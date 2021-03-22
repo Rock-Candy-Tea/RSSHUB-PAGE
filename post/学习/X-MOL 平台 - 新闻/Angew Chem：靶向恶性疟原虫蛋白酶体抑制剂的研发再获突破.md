@@ -1,6 +1,6 @@
 
 ---
-title: Angew. Chem.：靶向恶性疟原虫蛋白酶体抑制剂的研发再获突破
+title: 'Angew. Chem.：靶向恶性疟原虫蛋白酶体抑制剂的研发再获突破'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

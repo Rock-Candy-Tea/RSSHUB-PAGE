@@ -1,6 +1,6 @@
 
 ---
-title: Jump新四天王打架？！学不来，学不来
+title: 'Jump新四天王打架？！学不来，学不来'
 categories: 
     - 社交媒体
     - bilibili - UP 主专栏

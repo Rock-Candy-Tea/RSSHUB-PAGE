@@ -1,6 +1,6 @@
 
 ---
-title: TWIST1 and chromatin regulatory proteins interact to guide neural crest cell differentiation
+title: 'TWIST1 and chromatin regulatory proteins interact to guide neural crest cell differentiation'
 categories: 
     - 科学期刊
     - elife - 最新成果

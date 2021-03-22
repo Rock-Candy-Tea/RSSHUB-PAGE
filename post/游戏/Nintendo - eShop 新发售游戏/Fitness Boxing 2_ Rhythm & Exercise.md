@@ -1,12 +1,12 @@
 
 ---
-title: Fitness Boxing 2_ Rhythm & Exercise
+title: 'Fitness Boxing 2_ Rhythm & Exercise'
 categories: 
     - 游戏
     - Nintendo - eShop 新发售游戏
 author: Nintendo - eShop 新发售游戏
 comments: false
-date: 2021-03-22 03:19:38
+date: 2021-03-22 03:46:21
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/fitness_boxing_2.jpg'
 ---
 

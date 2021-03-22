@@ -1,6 +1,6 @@
 
 ---
-title: Once Upon a Time on Mars, The New York Times
+title: 'Once Upon a Time on Mars, The New York Times'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

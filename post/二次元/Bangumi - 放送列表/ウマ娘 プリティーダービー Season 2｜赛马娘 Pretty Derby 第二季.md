@@ -1,6 +1,6 @@
 
 ---
-title: ウマ娘 プリティーダービー Season 2｜赛马娘 Pretty Derby 第二季
+title: 'ウマ娘 プリティーダービー Season 2｜赛马娘 Pretty Derby 第二季'
 categories: 
     - 二次元
     - Bangumi - 放送列表

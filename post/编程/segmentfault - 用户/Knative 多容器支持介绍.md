@@ -1,12 +1,12 @@
 
 ---
-title: Knative 多容器支持介绍
+title: 'Knative 多容器支持介绍'
 categories: 
     - 编程
     - segmentfault - 用户
 author: segmentfault - 用户
 comments: false
-date: 2021-03-22 03:14:56
+date: 2021-03-22 03:42:53
 thumbnail: 'https://segmentfault.com/img/remote/1460000039674778'
 ---
 

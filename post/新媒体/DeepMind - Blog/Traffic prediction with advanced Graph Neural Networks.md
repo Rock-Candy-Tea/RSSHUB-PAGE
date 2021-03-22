@@ -1,6 +1,6 @@
 
 ---
-title: Traffic prediction with advanced Graph Neural Networks
+title: 'Traffic prediction with advanced Graph Neural Networks'
 categories: 
     - 新媒体
     - DeepMind - Blog

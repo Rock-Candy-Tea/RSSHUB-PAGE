@@ -1,6 +1,6 @@
 
 ---
-title: J Med Chem：用于治疗非肿瘤疾病的小分子激酶抑制剂
+title: 'J Med Chem：用于治疗非肿瘤疾病的小分子激酶抑制剂'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

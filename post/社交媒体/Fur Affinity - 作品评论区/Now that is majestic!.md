@@ -1,6 +1,6 @@
 
 ---
-title: Now that is majestic!
+title: 'Now that is majestic!'
 categories: 
     - 社交媒体
     - Fur Affinity - 作品评论区

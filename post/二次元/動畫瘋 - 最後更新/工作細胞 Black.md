@@ -1,6 +1,6 @@
 
 ---
-title: 工作細胞 Black
+title: '工作細胞 Black'
 categories: 
     - 二次元
     - 動畫瘋 - 最後更新

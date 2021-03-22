@@ -1,6 +1,6 @@
 
 ---
-title: SARS-CoV-2 501Y.V2 variants lack higher infectivity but do have immune escape.
+title: 'SARS-CoV-2 501Y.V2 variants lack higher infectivity but do have immune escape.'
 categories: 
     - 科学期刊
     - PubMed - 热门文章

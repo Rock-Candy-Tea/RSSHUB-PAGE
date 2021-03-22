@@ -1,6 +1,6 @@
 
 ---
-title: _败_ Dota Pro Circuit 2021_ S1 - China Upper Division
+title: '_败_ Dota Pro Circuit 2021_ S1 - China Upper Division'
 categories: 
     - 游戏
     - Liquipedia - Dota2 战队最近比赛结果

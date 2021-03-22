@@ -1,6 +1,6 @@
 
 ---
-title: ep.4 猪头少年没有明天
+title: 'ep.4 猪头少年没有明天'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

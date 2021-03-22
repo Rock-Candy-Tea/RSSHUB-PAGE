@@ -1,6 +1,6 @@
 
 ---
-title: Prime Gaming
+title: 'Prime Gaming'
 categories: 
     - 游戏
     - Rockstar Games Social Club - 在线活动

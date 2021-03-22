@@ -1,6 +1,6 @@
 
 ---
-title: New Kind of Space Explosion Reveals the Birth of a Black Hole
+title: 'New Kind of Space Explosion Reveals the Birth of a Black Hole'
 categories: 
     - 新媒体
     - Quanta Magazine - 全部
@@ -20,7 +20,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/New_Supernova_
 <p>“It’s really exciting,” said <a href="https://ciera.northwestern.edu/directory/deanne-coppejans/">Deanne Coppejans</a>, an astrophysicist at Northwestern University. “The discovery of a new transient like AT2018cow shows that it’s not a complete oddball. This is a new type of transient that we’re looking at.”</p>
 <p>The Cow was a complete surprise, and astronomers weren’t really sure what they were looking at when it appeared. The Camel, in contrast, was like a burglar tripping the new alarm system. “We were able to realize what it was within a few days of it going off,” said <a href="https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/daniel-perley">Daniel Perley</a>, an astrophysicist at Liverpool John Moores University who led the new study. “And we got lots of follow-up data.”</p>
 <p>Four days later, the team used telescopes in the Canary Islands and Hawaii to obtain vital data on its properties. They later <a href="http://www.astronomerstelegram.org/?read=14105">put out an alert</a> to other astronomers on a service called the Astronomer’s Telegram.</p>
-<div id="component-60580be11025d" class></div>
+<div id="component-605812682e7ad" class></div>
 <p>The event was given two designations. One, AT2020xnd, came from a global catalog of all transients, and the other, ZTF20acigmel, came from the Zwicky Transient Facility, the telescope where it was discovered. The team twisted the latter into its “Camel” nickname. “Xnd didn’t quite have the same ring to it,” said Perley.</p>
 <p>Like its predecessor, the Camel became very bright in a short time, reaching its peak in two or three days. It grew about 100 times brighter than any normal type of supernova. Then it rapidly dimmed in a process that lasted just days, rather than weeks. “It fades very fast, and while it’s fading it stays hot,” Perley said.</p>
 <p>Prior to this discovery, astronomers had sifted through historical data to find two additional Cow-like events, <a href="https://www.sciencenews.org/article/weird-cosmic-flare-called-cow-now-has-company-koala">the “Koala” and CSS161010</a>, but the Camel is the first to be seen in real time and thus studied in detail since the Cow.</p>
@@ -31,7 +31,7 @@ thumbnail: 'https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/03/New_Supernova_
 <p>As the black hole eats the star’s outer layers, it begins to spin rapidly, producing powerful jets that fire out from the poles. We’re seeing the explosion of light caused by the jets as they burst through the outer layers.</p>
 <p>Other ideas have also been proposed, such as an event where a <a href="https://www.quantamagazine.org/astronomers-debate-how-forbidden-black-holes-grow-20201103/">black hole of intermediate mass</a> rips material from an orbiting star, but that idea isn’t widely accepted. “That was an exotic idea,” said <a href="http://www.columbia.edu/~bdm2129/">Brian Metzger</a>, a theoretical astrophysicist at Columbia University. “I’m less inclined to believe more exotic things.”</p>
 <p>The exciting thing about the Camel is that astronomers were able to rapidly collect more data, including radio and X-ray data. That could prove very useful in working out what causes these events, said <a href="https://star.pst.qub.ac.uk/~sjs/">Stephen Smartt</a>, an astronomer at Queen’s University Belfast who was the first to spot the Cow back in 2018.</p>
-<div id="component-60580be111e0c" class="related-list"></div>
+<div id="component-60581268328f9" class="related-list"></div>
 <p>“The data we have [from the Camel] almost mimics the object in 2018,” he said. “It gives us some confidence that we could pick out [more of] these objects and work out what they might be.”</p>
 <p>Ho said that this should now be possible, thanks to improvements in observational techniques that make these events easier to spot. “Initially we were just looking for events that brightened very quickly,” she said. “Since then, we’ve learned that Cow-like objects not only brighten very quickly, they also fade very quickly.”</p>
 <p>The hope now is that more of these objects will spring up, so they can be studied in greater detail. “It’s an example of how, when we observe the sky, we find things that are utterly unexpected,” said Ho.</p>

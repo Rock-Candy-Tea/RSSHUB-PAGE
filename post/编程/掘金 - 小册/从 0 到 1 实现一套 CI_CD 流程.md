@@ -1,6 +1,6 @@
 
 ---
-title: 从 0 到 1 实现一套 CI_CD 流程
+title: '从 0 到 1 实现一套 CI_CD 流程'
 categories: 
     - 编程
     - 掘金 - 小册

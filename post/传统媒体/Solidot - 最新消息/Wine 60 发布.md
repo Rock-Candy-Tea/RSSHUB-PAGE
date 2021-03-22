@@ -1,6 +1,6 @@
 
 ---
-title: Wine 6.0 发布
+title: 'Wine 6.0 发布'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

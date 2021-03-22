@@ -1,8 +1,8 @@
 
 ---
-title: macbook
+title: 'macbook
 不出机器，只聊商家，吧务轻删。
-不知道你们有没发现，尾巴里卖mbp...
+不知道你们有没发现，尾巴里卖mbp...'
 categories: 
     - 社交媒体
     - 数字尾巴 - 闲置（分类）

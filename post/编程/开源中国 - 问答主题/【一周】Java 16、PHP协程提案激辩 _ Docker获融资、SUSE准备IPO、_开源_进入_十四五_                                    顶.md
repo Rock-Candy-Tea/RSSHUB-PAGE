@@ -1,7 +1,7 @@
 
 ---
-title: 【一周】Java 16、PHP协程提案激辩 _ Docker获融资、SUSE准备IPO、_开源_进入_十四五_
-                                    顶
+title: '【一周】Java 16、PHP协程提案激辩 _ Docker获融资、SUSE准备IPO、_开源_进入_十四五_
+                                    顶'
 categories: 
     - 编程
     - 开源中国 - 问答主题

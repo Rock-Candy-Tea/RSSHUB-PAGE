@@ -1,6 +1,6 @@
 
 ---
-title: ER-Telecom to build 5G FWA network
+title: 'ER-Telecom to build 5G FWA network'
 categories: 
     - 传统媒体
     - Telecompaper - Search

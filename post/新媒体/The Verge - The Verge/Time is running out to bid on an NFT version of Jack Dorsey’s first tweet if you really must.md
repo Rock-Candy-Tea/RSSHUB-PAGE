@@ -1,6 +1,6 @@
 
 ---
-title: Time is running out to bid on an NFT version of Jack Dorsey’s first tweet if you really must
+title: 'Time is running out to bid on an NFT version of Jack Dorsey’s first tweet if you really must'
 categories: 
     - 新媒体
     - The Verge - The Verge

@@ -1,6 +1,6 @@
 
 ---
-title: 大战预热，新加坡出现Major主题巴士广告
+title: '大战预热，新加坡出现Major主题巴士广告'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

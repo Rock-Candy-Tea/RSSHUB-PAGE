@@ -1,6 +1,6 @@
 
 ---
-title: Shin Megami Tensei III Nocturne HD Remaster Finally Heads West On May 25
+title: 'Shin Megami Tensei III Nocturne HD Remaster Finally Heads West On May 25'
 categories: 
     - 新媒体
     - Kotaku - Story

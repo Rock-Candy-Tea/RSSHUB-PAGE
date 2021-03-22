@@ -1,6 +1,6 @@
 
 ---
-title: Sooner or later we all face death. Will a sense of meaning help us_
+title: 'Sooner or later we all face death. Will a sense of meaning help us_'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

@@ -1,6 +1,6 @@
 
 ---
-title: zan-proxy
+title: 'zan-proxy'
 categories: 
     - 编程
     - GitHub - 用户仓库

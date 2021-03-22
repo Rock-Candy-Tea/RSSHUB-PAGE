@@ -1,6 +1,6 @@
 
 ---
-title: Because Of The Pandemic - 2021-03-20
+title: 'Because Of The Pandemic - 2021-03-20'
 categories: 
     - 图片
     - CNU 视觉联盟 - 发现

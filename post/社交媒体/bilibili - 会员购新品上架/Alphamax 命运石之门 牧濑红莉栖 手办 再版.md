@@ -1,12 +1,12 @@
 
 ---
-title: Alphamax 命运石之门 牧濑红莉栖 手办 再版
+title: 'Alphamax 命运石之门 牧濑红莉栖 手办 再版'
 categories: 
     - 社交媒体
     - bilibili - 会员购新品上架
 author: bilibili - 会员购新品上架
 comments: false
-date: 2021-03-22 03:17:26
+date: 2021-03-22 03:45:07
 thumbnail: 'https://i0.hdslb.com/bfs/mall/mall/07/79/07792a93f0fba16edce1e94fb382141f.png'
 ---
 

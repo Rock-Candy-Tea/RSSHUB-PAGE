@@ -1,6 +1,6 @@
 
 ---
-title: Coronavirus News and Verified Channels
+title: 'Coronavirus News and Verified Channels'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

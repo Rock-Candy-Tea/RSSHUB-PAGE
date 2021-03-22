@@ -1,6 +1,6 @@
 
 ---
-title: Vue 商城项目开发实战
+title: 'Vue 商城项目开发实战'
 categories: 
     - 编程
     - 掘金 - 小册

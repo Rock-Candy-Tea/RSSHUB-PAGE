@@ -1,6 +1,6 @@
 
 ---
-title: _VCB-Studio_ PSYCHO-PASS 3 _ サイコパス3 10-bit 1080p HEVC BDRip _TV + MOVIE Fin_
+title: '_VCB-Studio_ PSYCHO-PASS 3 _ サイコパス3 10-bit 1080p HEVC BDRip _TV + MOVIE Fin_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

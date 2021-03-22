@@ -1,6 +1,6 @@
 
 ---
-title: Fifty Shades of Grey
+title: 'Fifty Shades of Grey'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

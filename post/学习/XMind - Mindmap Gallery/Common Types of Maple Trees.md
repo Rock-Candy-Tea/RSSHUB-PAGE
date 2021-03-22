@@ -1,6 +1,6 @@
 
 ---
-title: Common Types of Maple Trees
+title: 'Common Types of Maple Trees'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

@@ -1,6 +1,6 @@
 
 ---
-title: Gumroad Image Packs Available
+title: 'Gumroad Image Packs Available'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

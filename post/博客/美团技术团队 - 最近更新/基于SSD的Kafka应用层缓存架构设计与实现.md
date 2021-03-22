@@ -1,6 +1,6 @@
 
 ---
-title: 基于SSD的Kafka应用层缓存架构设计与实现
+title: '基于SSD的Kafka应用层缓存架构设计与实现'
 categories: 
     - 博客
     - 美团技术团队 - 最近更新

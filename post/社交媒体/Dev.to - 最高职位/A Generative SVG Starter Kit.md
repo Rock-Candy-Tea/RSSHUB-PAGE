@@ -1,6 +1,6 @@
 
 ---
-title: A Generative SVG Starter Kit
+title: 'A Generative SVG Starter Kit'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

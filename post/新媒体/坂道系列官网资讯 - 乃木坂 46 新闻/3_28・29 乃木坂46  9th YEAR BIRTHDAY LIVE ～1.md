@@ -1,6 +1,6 @@
 
 ---
-title: 3_28・29 乃木坂46  9th YEAR BIRTHDAY LIVE ～1...
+title: '3_28・29 乃木坂46  9th YEAR BIRTHDAY LIVE ～1...'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 乃木坂 46 新闻

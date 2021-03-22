@@ -1,6 +1,6 @@
 
 ---
-title: fix (path)_ Bangumi & feat(radar)_ add Bangumi Radar rules
+title: 'fix (path)_ Bangumi & feat(radar)_ add Bangumi Radar rules'
 categories: 
     - 编程
     - GitHub - 仓库 Pull Requests

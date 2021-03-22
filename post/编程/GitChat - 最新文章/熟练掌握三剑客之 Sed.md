@@ -1,12 +1,12 @@
 
 ---
-title: 熟练掌握三剑客之 Sed
+title: '熟练掌握三剑客之 Sed'
 categories: 
     - 编程
     - GitChat - 最新文章
 author: GitChat - 最新文章
 comments: false
-date: Mon, 22 Mar 2021 03:14:46 GMT
+date: Mon, 22 Mar 2021 03:42:40 GMT
 thumbnail: ''
 ---
 

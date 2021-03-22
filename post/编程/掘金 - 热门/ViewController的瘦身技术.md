@@ -1,6 +1,6 @@
 
 ---
-title: ViewController的瘦身技术
+title: 'ViewController的瘦身技术'
 categories: 
     - 编程
     - 掘金 - 热门

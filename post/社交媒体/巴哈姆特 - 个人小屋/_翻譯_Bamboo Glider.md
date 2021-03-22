@@ -1,6 +1,6 @@
 
 ---
-title: _翻譯_Bamboo Glider
+title: '_翻譯_Bamboo Glider'
 categories: 
     - 社交媒体
     - 巴哈姆特 - 个人小屋

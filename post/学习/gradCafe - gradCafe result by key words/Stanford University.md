@@ -1,6 +1,6 @@
 
 ---
-title: Stanford University
+title: 'Stanford University'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

@@ -1,6 +1,6 @@
 
 ---
-title: After Long Shutdown, Giant Radio Telescope Array Set to Resume Observations, Science
+title: 'After Long Shutdown, Giant Radio Telescope Array Set to Resume Observations, Science'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

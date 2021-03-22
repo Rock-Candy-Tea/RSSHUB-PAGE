@@ -1,6 +1,6 @@
 
 ---
-title: 耿楠老师 Beamer 制作的《C++面向对象程序设计》课件
+title: '耿楠老师 Beamer 制作的《C++面向对象程序设计》课件'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

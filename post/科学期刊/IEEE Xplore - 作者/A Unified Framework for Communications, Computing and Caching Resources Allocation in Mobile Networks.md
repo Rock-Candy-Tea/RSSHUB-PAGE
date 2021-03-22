@@ -1,6 +1,6 @@
 
 ---
-title: A Unified Framework for Communications, Computing and Caching Resources Allocation in Mobile Networks
+title: 'A Unified Framework for Communications, Computing and Caching Resources Allocation in Mobile Networks'
 categories: 
     - 科学期刊
     - IEEE Xplore - 作者

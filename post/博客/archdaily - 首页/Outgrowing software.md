@@ -1,6 +1,6 @@
 
 ---
-title: Outgrowing software
+title: 'Outgrowing software'
 categories: 
     - 博客
     - archdaily - 首页

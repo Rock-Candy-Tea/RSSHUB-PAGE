@@ -1,6 +1,6 @@
 
 ---
-title: AMDVLK 2021.Q1.6 Released With Radeon RX 6700 XT Support
+title: 'AMDVLK 2021.Q1.6 Released With Radeon RX 6700 XT Support'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

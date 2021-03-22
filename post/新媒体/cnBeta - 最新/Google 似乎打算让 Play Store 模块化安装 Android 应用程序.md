@@ -1,6 +1,6 @@
 
 ---
-title: Google 似乎打算让 Play Store 模块化安装 Android 应用程序
+title: 'Google 似乎打算让 Play Store 模块化安装 Android 应用程序'
 categories: 
     - 新媒体
     - cnBeta - 最新

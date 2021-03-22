@@ -1,6 +1,6 @@
 
 ---
-title: @大道无形我有型 关注了股票 Snowflake
+title: '@大道无形我有型 关注了股票 Snowflake'
 categories: 
     - 金融
     - 雪球 - 用户自选动态

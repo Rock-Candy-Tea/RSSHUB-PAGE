@@ -1,6 +1,6 @@
 
 ---
-title: 从 0 开始深入学习 Spring
+title: '从 0 开始深入学习 Spring'
 categories: 
     - 编程
     - 掘金 - 小册

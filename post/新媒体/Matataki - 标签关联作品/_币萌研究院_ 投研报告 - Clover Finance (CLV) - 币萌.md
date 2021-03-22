@@ -1,6 +1,6 @@
 
 ---
-title: _币萌研究院_ 投研报告 - Clover Finance (CLV) - 币萌
+title: '_币萌研究院_ 投研报告 - Clover Finance (CLV) - 币萌'
 categories: 
     - 新媒体
     - Matataki - 标签关联作品

@@ -1,6 +1,6 @@
 
 ---
-title: Sometimes the most powerful act of resistance is to do nothing
+title: 'Sometimes the most powerful act of resistance is to do nothing'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

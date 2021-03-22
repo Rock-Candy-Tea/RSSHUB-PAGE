@@ -1,6 +1,6 @@
 
 ---
-title: AirPods and Apple Watch continue to dominate wearables market, new IDC data shows
+title: 'AirPods and Apple Watch continue to dominate wearables market, new IDC data shows'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

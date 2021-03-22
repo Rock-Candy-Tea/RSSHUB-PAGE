@@ -1,6 +1,6 @@
 
 ---
-title: M1 芯片版 Mac 出现重装系统 Bug，教你如何「正确」重装 macOS
+title: 'M1 芯片版 Mac 出现重装系统 Bug，教你如何「正确」重装 macOS'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

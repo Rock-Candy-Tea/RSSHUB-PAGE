@@ -1,6 +1,6 @@
 
 ---
-title: Apparently Trump is developing his own social media platform. In before it outlaws "racism and anti-Semitism" and just becomes a pro-Trump version of ...
+title: 'Apparently Trump is developing his own social media platform. In before it outlaws "racism and anti-Semitism" and just becomes a pro-Trump version of ...'
 categories: 
     - 社交媒体
     - Gab - 熱門

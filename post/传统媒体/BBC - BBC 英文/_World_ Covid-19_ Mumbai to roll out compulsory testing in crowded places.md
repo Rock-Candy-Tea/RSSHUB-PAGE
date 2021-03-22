@@ -1,6 +1,6 @@
 
 ---
-title: _World_ Covid-19_ Mumbai to roll out compulsory testing in crowded places
+title: '_World_ Covid-19_ Mumbai to roll out compulsory testing in crowded places'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

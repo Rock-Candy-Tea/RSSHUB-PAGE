@@ -1,12 +1,12 @@
 
 ---
-title: Xbox云游戏服务或在不久登陆iOS和PC
+title: 'Xbox云游戏服务或在不久登陆iOS和PC'
 categories: 
     - 游戏
     - 二柄 APP - 新闻
 author: 二柄 APP - 新闻
 comments: false
-date: 2021-03-22 03:19:43
+date: 2021-03-22 03:46:24
 thumbnail: 'https://erbingeditor.diershoubing.com/202103211151503109html_img.jpg'
 ---
 

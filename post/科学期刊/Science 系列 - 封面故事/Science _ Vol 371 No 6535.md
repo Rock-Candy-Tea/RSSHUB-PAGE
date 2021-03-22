@@ -1,6 +1,6 @@
 
 ---
-title: Science _ Vol. 371 No. 6535
+title: 'Science _ Vol. 371 No. 6535'
 categories: 
     - 科学期刊
     - Science 系列 - 封面故事

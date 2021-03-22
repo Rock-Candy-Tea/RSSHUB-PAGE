@@ -1,6 +1,6 @@
 
 ---
-title: UPDATE 1-Apple, Epic Games CEOs on list of witnesses in Fortnite case
+title: 'UPDATE 1-Apple, Epic Games CEOs on list of witnesses in Fortnite case'
 categories: 
     - 金融
     - finviz - 美股股票新闻

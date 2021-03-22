@@ -1,6 +1,6 @@
 
 ---
-title: SG Karaoke contest IX
+title: 'SG Karaoke contest IX'
 categories: 
     - 游戏
     - SteamGifts - Discussions

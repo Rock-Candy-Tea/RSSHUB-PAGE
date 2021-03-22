@@ -1,6 +1,6 @@
 
 ---
-title: 即刻 APP 回归了
+title: '即刻 APP 回归了'
 categories: 
     - 编程
     - wolley - posts

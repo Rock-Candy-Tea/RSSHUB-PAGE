@@ -1,6 +1,6 @@
 
 ---
-title: Amazon’s Free News App Now Offers More Than 120 Channels in 88 US Cities
+title: 'Amazon’s Free News App Now Offers More Than 120 Channels in 88 US Cities'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

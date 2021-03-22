@@ -1,6 +1,6 @@
 
 ---
-title: Things are pretty bad already
+title: 'Things are pretty bad already'
 categories: 
     - 社交媒体
     - Gab - 熱門

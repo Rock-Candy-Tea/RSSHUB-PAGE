@@ -1,6 +1,6 @@
 
 ---
-title: OpenRazer 3.0 Released For Supporting Many More Razer Peripherals Under Linux
+title: 'OpenRazer 3.0 Released For Supporting Many More Razer Peripherals Under Linux'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

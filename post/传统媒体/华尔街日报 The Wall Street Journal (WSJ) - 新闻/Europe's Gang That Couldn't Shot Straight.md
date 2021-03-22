@@ -1,6 +1,6 @@
 
 ---
-title: Europe's Gang That Couldn't Shot Straight
+title: 'Europe's Gang That Couldn't Shot Straight'
 categories: 
     - 传统媒体
     - 华尔街日报 The Wall Street Journal (WSJ) - 新闻

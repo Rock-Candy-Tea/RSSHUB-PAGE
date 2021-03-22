@@ -1,6 +1,6 @@
 
 ---
-title: Does India really want to be a part of U.S. anti-China agenda_
+title: 'Does India really want to be a part of U.S. anti-China agenda_'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

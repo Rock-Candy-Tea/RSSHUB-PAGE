@@ -1,6 +1,6 @@
 
 ---
-title: Sea在美股一骑绝尘之后，Grab也加快了赴美上市的脚步
+title: 'Sea在美股一骑绝尘之后，Grab也加快了赴美上市的脚步'
 categories: 
     - 新媒体
     - 36kr - 主题文章

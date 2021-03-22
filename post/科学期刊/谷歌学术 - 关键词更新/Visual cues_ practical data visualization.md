@@ -1,12 +1,12 @@
 
 ---
-title: Visual cues_ practical data visualization
+title: 'Visual cues_ practical data visualization'
 categories: 
     - 科学期刊
     - 谷歌学术 - 关键词更新
 author: 谷歌学术 - 关键词更新
 comments: false
-date: 2021-03-22 03:19:16
+date: 2021-03-22 03:46:04
 thumbnail: ''
 ---
 

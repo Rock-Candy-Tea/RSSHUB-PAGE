@@ -1,6 +1,6 @@
 
 ---
-title: 谁埋葬多愁善感的你，谁给你做的寿衣-Anitama新声
+title: '谁埋葬多愁善感的你，谁给你做的寿衣-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

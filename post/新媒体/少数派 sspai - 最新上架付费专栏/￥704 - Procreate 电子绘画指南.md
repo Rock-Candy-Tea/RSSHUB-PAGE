@@ -1,12 +1,12 @@
 
 ---
-title: ￥70.4 - Procreate 电子绘画指南
+title: '￥70.4 - Procreate 电子绘画指南'
 categories: 
     - 新媒体
     - 少数派 sspai - 最新上架付费专栏
 author: 少数派 sspai - 最新上架付费专栏
 comments: false
-date: 2021-03-22 03:16:38
+date: 2021-03-22 03:44:35
 thumbnail: 'https://cdn.sspai.com/article/f2af63e5-2b8f-ac85-5c8d-c14b763a0898.jpg'
 ---
 

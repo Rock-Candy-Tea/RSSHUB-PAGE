@@ -1,6 +1,6 @@
 
 ---
-title: Qualcomm wins Snapdragon Ride Platform contract from China's Great Wall Motor
+title: 'Qualcomm wins Snapdragon Ride Platform contract from China's Great Wall Motor'
 categories: 
     - 传统媒体
     - Telecompaper - News

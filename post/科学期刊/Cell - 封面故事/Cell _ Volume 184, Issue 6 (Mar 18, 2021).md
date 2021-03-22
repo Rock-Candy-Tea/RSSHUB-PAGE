@@ -1,6 +1,6 @@
 
 ---
-title: Cell _ Volume 184, Issue 6 (Mar 18, 2021)
+title: 'Cell _ Volume 184, Issue 6 (Mar 18, 2021)'
 categories: 
     - 科学期刊
     - Cell - 封面故事

@@ -1,6 +1,6 @@
 
 ---
-title: 2018 Social Insurance Rates in China (Feb 27, 2019)
+title: '2018 Social Insurance Rates in China (Feb 27, 2019)'
 categories: 
     - 新媒体
     - 中国劳工观察 - 调查报告

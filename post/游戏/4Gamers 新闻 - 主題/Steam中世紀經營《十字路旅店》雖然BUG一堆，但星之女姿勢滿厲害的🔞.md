@@ -1,6 +1,6 @@
 
 ---
-title: Steam中世紀經營《十字路旅店》雖然BUG一堆，但星之女姿勢滿厲害的🔞
+title: 'Steam中世紀經營《十字路旅店》雖然BUG一堆，但星之女姿勢滿厲害的🔞'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 主題

@@ -1,6 +1,6 @@
 
 ---
-title: 【canvas】动画原理の万有引力定律
+title: '【canvas】动画原理の万有引力定律'
 categories: 
     - 编程
     - 前端艺术家 && 飞冰早报 - 列表

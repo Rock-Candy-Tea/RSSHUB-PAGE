@@ -1,12 +1,12 @@
 
 ---
-title: 【惊艳面试官】面试总被问最喜欢的app是什么，有什么小而美、有趣、怪诞的app推荐吗？
+title: '【惊艳面试官】面试总被问最喜欢的app是什么，有什么小而美、有趣、怪诞的app推荐吗？'
 categories: 
     - 新媒体
     - 人人都是产品经理 - 天天问
 author: 人人都是产品经理 - 天天问
 comments: false
-date: Mon, 22 Mar 2021 03:16:40 GMT
+date: Mon, 22 Mar 2021 03:44:33 GMT
 thumbnail: 'https://wen.woshipm.com/assets/js/plugin/ueditor1.4.3/dialogs/emotion/images/tsj/t_0003.gif'
 ---
 

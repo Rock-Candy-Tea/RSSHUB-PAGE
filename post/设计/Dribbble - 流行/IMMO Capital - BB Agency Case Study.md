@@ -1,6 +1,6 @@
 
 ---
-title: IMMO Capital - BB Agency Case Study
+title: 'IMMO Capital - BB Agency Case Study'
 categories: 
     - 设计
     - Dribbble - 流行

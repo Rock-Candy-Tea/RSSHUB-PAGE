@@ -1,12 +1,12 @@
 
 ---
-title: 10 Things I’ve Learned _ Jason Fried at BIG Omaha - YouTube
+title: '10 Things I’ve Learned _ Jason Fried at BIG Omaha - YouTube'
 categories: 
     - 编程
     - wolley - host
 author: wolley - host
 comments: false
-date: 2021-03-22 03:14:55
+date: 2021-03-22 03:42:50
 thumbnail: ''
 ---
 

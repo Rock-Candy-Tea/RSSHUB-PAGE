@@ -1,6 +1,6 @@
 
 ---
-title: Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England
+title: 'Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England'
 categories: 
     - 科学期刊
     - Science 系列 - 主刊 - 在线发表

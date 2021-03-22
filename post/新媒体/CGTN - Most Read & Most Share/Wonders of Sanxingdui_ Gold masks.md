@@ -1,6 +1,6 @@
 
 ---
-title: Wonders of Sanxingdui_ Gold masks
+title: 'Wonders of Sanxingdui_ Gold masks'
 categories: 
     - 新媒体
     - CGTN - Most Read & Most Share

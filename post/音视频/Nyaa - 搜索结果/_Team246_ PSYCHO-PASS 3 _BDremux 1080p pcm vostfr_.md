@@ -1,6 +1,6 @@
 
 ---
-title: _Team246_ PSYCHO-PASS 3 _BDremux 1080p pcm vostfr_
+title: '_Team246_ PSYCHO-PASS 3 _BDremux 1080p pcm vostfr_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

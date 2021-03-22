@@ -1,12 +1,12 @@
 
 ---
-title: _ETC_&nbsp;USJ「超級任天堂世界」實地體驗報導 活動全身跳進瑪利歐世界
+title: '_ETC_&nbsp;USJ「超級任天堂世界」實地體驗報導 活動全身跳進瑪利歐世界'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/918515105b9a693375b0c5b2481btsx5.JPG?v=1616057614521'
 ---
 

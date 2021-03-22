@@ -1,6 +1,6 @@
 
 ---
-title: Fibocom's 5G modules power Mynxg industrial IoT devices
+title: 'Fibocom's 5G modules power Mynxg industrial IoT devices'
 categories: 
     - 传统媒体
     - Telecompaper - News

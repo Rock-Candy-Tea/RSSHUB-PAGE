@@ -1,6 +1,6 @@
 
 ---
-title: Verband befürchtet wegen Corona Aus für Urlaub mit Pferden
+title: 'Verband befürchtet wegen Corona Aus für Urlaub mit Pferden'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

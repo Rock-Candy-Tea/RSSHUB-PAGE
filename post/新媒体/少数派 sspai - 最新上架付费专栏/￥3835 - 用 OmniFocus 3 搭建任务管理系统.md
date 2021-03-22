@@ -1,12 +1,12 @@
 
 ---
-title: ￥38.35 - 用 OmniFocus 3 搭建任务管理系统
+title: '￥38.35 - 用 OmniFocus 3 搭建任务管理系统'
 categories: 
     - 新媒体
     - 少数派 sspai - 最新上架付费专栏
 author: 少数派 sspai - 最新上架付费专栏
 comments: false
-date: 2021-03-22 03:16:38
+date: 2021-03-22 03:44:35
 thumbnail: 'https://cdn.sspai.com/article/3b83b233-945a-4e0a-ca7a-8385abb1fd75.jpg'
 ---
 

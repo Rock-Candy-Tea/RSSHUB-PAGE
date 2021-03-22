@@ -1,6 +1,6 @@
 
 ---
-title: Concordia University (Canada)
+title: 'Concordia University (Canada)'
 categories: 
     - 学习
     - gradCafe - gradCafe result by key words

@@ -1,6 +1,6 @@
 
 ---
-title: Executive Director and US Secretary of Energy Jennifer Granholm meet to discuss cooperation on energy and climate goals
+title: 'Executive Director and US Secretary of Energy Jennifer Granholm meet to discuss cooperation on energy and climate goals'
 categories: 
     - 新媒体
     - 国际能源署 - 新闻及活动

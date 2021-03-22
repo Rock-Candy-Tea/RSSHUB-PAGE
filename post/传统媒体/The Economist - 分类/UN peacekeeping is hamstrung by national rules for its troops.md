@@ -1,6 +1,6 @@
 
 ---
-title: UN peacekeeping is hamstrung by national rules for its troops
+title: 'UN peacekeeping is hamstrung by national rules for its troops'
 categories: 
     - 传统媒体
     - The Economist - 分类

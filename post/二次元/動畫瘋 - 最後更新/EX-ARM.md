@@ -1,6 +1,6 @@
 
 ---
-title: EX-ARM
+title: 'EX-ARM'
 categories: 
     - 二次元
     - 動畫瘋 - 最後更新

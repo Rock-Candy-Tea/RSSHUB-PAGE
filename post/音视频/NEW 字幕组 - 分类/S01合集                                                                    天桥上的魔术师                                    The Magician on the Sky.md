@@ -1,8 +1,8 @@
 
 ---
-title: S01合集                                
+title: 'S01合集                                
                                     天桥上的魔术师
-                                    The Magician on the Sky...
+                                    The Magician on the Sky...'
 categories: 
     - 音视频
     - NEW 字幕组 - 分类

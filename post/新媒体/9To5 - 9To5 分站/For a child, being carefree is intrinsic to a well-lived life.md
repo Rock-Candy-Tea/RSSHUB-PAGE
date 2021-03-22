@@ -1,6 +1,6 @@
 
 ---
-title: For a child, being carefree is intrinsic to a well-lived life
+title: 'For a child, being carefree is intrinsic to a well-lived life'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

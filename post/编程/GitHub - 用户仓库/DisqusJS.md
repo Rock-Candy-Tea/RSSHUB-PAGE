@@ -1,6 +1,6 @@
 
 ---
-title: DisqusJS
+title: 'DisqusJS'
 categories: 
     - 编程
     - GitHub - 用户仓库

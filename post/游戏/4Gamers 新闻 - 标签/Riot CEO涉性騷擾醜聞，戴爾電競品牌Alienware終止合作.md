@@ -1,6 +1,6 @@
 
 ---
-title: Riot CEO涉性騷擾醜聞，戴爾電競品牌Alienware終止合作
+title: 'Riot CEO涉性騷擾醜聞，戴爾電競品牌Alienware終止合作'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

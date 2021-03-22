@@ -1,6 +1,6 @@
 
 ---
-title: Will China Be a Global Vaccine Leader_
+title: 'Will China Be a Global Vaccine Leader_'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

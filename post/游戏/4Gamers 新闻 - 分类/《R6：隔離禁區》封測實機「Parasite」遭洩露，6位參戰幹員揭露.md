@@ -1,6 +1,6 @@
 
 ---
-title: 《R6：隔離禁區》封測實機「Parasite」遭洩露，6位參戰幹員揭露
+title: '《R6：隔離禁區》封測實機「Parasite」遭洩露，6位參戰幹員揭露'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

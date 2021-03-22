@@ -1,6 +1,6 @@
 
 ---
-title: Apple Arcade 一周年盘点，12 款你不可错过的好游戏
+title: 'Apple Arcade 一周年盘点，12 款你不可错过的好游戏'
 categories: 
     - 新媒体
     - 少数派 sspai - 标签订阅

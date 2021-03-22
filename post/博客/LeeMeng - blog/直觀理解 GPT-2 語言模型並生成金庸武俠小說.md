@@ -1,12 +1,12 @@
 
 ---
-title: 直觀理解 GPT-2 語言模型並生成金庸武俠小說
+title: '直觀理解 GPT-2 語言模型並生成金庸武俠小說'
 categories: 
     - 博客
     - LeeMeng - blog
 author: LeeMeng - blog
 comments: false
-date: 2021-03-22 03:19:20
+date: 2021-03-22 03:46:07
 thumbnail: ''
 ---
 

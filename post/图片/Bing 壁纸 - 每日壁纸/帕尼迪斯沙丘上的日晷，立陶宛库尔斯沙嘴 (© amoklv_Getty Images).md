@@ -1,12 +1,12 @@
 
 ---
-title: 帕尼迪斯沙丘上的日晷，立陶宛库尔斯沙嘴 (© amoklv_Getty Images)
+title: '帕尼迪斯沙丘上的日晷，立陶宛库尔斯沙嘴 (© amoklv_Getty Images)'
 categories: 
     - 图片
     - Bing 壁纸 - 每日壁纸
 author: Bing 壁纸 - 每日壁纸
 comments: false
-date: 2021-03-22 03:22:02
+date: 2021-03-22 03:48:24
 thumbnail: 'https://cn.bing.com/th?id=OHR.ParnidisSundial_ZH-CN9575177836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
 ---
 

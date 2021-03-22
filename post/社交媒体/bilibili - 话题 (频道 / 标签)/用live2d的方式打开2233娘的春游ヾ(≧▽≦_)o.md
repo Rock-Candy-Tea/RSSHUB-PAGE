@@ -1,6 +1,6 @@
 
 ---
-title: 用live2d的方式打开2233娘的春游ヾ(≧▽≦_)o
+title: '用live2d的方式打开2233娘的春游ヾ(≧▽≦_)o'
 categories: 
     - 社交媒体
     - bilibili - 话题 (频道 / 标签)

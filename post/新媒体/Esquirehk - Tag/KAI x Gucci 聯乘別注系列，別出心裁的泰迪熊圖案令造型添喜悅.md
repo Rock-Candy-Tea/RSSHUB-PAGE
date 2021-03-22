@@ -1,6 +1,6 @@
 
 ---
-title: KAI x Gucci 聯乘別注系列，別出心裁的泰迪熊圖案令造型添喜悅
+title: 'KAI x Gucci 聯乘別注系列，別出心裁的泰迪熊圖案令造型添喜悅'
 categories: 
     - 新媒体
     - Esquirehk - Tag

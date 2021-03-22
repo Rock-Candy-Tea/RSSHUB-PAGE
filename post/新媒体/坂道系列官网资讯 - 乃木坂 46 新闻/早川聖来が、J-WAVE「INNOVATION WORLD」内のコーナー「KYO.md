@@ -1,6 +1,6 @@
 
 ---
-title: 早川聖来が、J-WAVE「INNOVATION WORLD」内のコーナー「KYO...
+title: '早川聖来が、J-WAVE「INNOVATION WORLD」内のコーナー「KYO...'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 乃木坂 46 新闻

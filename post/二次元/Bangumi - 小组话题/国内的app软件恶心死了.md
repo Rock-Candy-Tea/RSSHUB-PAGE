@@ -1,6 +1,6 @@
 
 ---
-title: 国内的app软件恶心死了
+title: '国内的app软件恶心死了'
 categories: 
     - 二次元
     - Bangumi - 小组话题

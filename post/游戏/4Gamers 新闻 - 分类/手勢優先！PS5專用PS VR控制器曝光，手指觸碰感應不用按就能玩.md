@@ -1,6 +1,6 @@
 
 ---
-title: 手勢優先！PS5專用PS VR控制器曝光，手指觸碰感應不用按就能玩
+title: '手勢優先！PS5專用PS VR控制器曝光，手指觸碰感應不用按就能玩'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 分类

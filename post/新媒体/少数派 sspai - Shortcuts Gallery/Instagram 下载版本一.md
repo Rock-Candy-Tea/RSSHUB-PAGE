@@ -1,6 +1,6 @@
 
 ---
-title: Instagram 下载版本一
+title: 'Instagram 下载版本一'
 categories: 
     - 新媒体
     - 少数派 sspai - Shortcuts Gallery

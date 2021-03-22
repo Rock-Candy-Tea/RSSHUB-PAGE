@@ -1,6 +1,6 @@
 
 ---
-title: 【Fan票商品】一次和林可线下见面的机会 - 林可
+title: '【Fan票商品】一次和林可线下见面的机会 - 林可'
 categories: 
     - 新媒体
     - Matataki - 作者创作

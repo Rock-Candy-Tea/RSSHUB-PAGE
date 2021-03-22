@@ -1,6 +1,6 @@
 
 ---
-title: HMD Global launches Nokia 2.4 smartphone in Brazil
+title: 'HMD Global launches Nokia 2.4 smartphone in Brazil'
 categories: 
     - 传统媒体
     - Telecompaper - Search

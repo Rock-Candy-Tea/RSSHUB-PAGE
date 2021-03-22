@@ -1,6 +1,6 @@
 
 ---
-title: 音乐随心选，浏览器能用插件…… 这 4 款 Android App，让你的手机更好用
+title: '音乐随心选，浏览器能用插件…… 这 4 款 Android App，让你的手机更好用'
 categories: 
     - 新媒体
     - 爱范儿 ifanr - 爱范儿频道

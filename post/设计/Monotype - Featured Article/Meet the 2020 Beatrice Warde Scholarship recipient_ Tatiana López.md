@@ -1,6 +1,6 @@
 
 ---
-title: Meet the 2020 Beatrice Warde Scholarship recipient_ Tatiana López.
+title: 'Meet the 2020 Beatrice Warde Scholarship recipient_ Tatiana López.'
 categories: 
     - 设计
     - Monotype - Featured Article

@@ -1,7 +1,7 @@
 
 ---
-title: Hamiltonian of a many-electron system with single-electron and
-  electron-pair states in a two-dimensional periodic potential
+title: 'Hamiltonian of a many-electron system with single-electron and
+  electron-pair states in a two-dimensional periodic potential'
 categories: 
     - 科学期刊
     - arXiv - 搜索关键字

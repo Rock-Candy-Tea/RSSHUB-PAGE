@@ -1,6 +1,6 @@
 
 ---
-title: 唤醒骑士 - Shadow of the Colossus Trophy Guide
+title: '唤醒骑士 - Shadow of the Colossus Trophy Guide'
 categories: 
     - 游戏
     - PlayStation - PlayStation Network 用户奖杯

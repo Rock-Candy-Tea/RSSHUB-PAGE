@@ -1,12 +1,12 @@
 
 ---
-title: 手工刺绣DIY  苗族蜡染绘画DIY 企业团建 暧场活动
+title: '手工刺绣DIY  苗族蜡染绘画DIY 企业团建 暧场活动'
 categories: 
     - 新媒体
     - 互动吧 - 活动
 author: 互动吧 - 活动
 comments: false
-date: 2021-03-22 03:16:12
+date: 2021-03-22 03:44:10
 thumbnail: ''
 ---
 

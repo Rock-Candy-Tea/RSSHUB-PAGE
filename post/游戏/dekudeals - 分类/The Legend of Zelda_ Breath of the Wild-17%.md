@@ -1,13 +1,13 @@
 
 ---
-title: The Legend of Zelda_ Breath of the Wild
--17%
+title: 'The Legend of Zelda_ Breath of the Wild
+-17%'
 categories: 
     - 游戏
     - dekudeals - 分类
 author: dekudeals - 分类
 comments: false
-date: 2021-03-22 03:19:31
+date: 2021-03-22 03:46:15
 thumbnail: 'https://cdn.dekudeals.com/images/3e58a5c3279b672ca119e446af2b528b053499f2/w500.jpg'
 ---
 

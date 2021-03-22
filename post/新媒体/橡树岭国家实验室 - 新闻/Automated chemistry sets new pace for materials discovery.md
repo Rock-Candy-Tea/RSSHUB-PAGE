@@ -1,6 +1,6 @@
 
 ---
-title: Automated chemistry sets new pace for materials discovery
+title: 'Automated chemistry sets new pace for materials discovery'
 categories: 
     - 新媒体
     - 橡树岭国家实验室 - 新闻

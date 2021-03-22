@@ -1,6 +1,6 @@
 
 ---
-title: 搅局的新兴势力，值得关注的五位Major新人
+title: '搅局的新兴势力，值得关注的五位Major新人'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

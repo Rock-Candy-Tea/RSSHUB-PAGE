@@ -1,12 +1,12 @@
 
 ---
-title: 【干货】灯光布局&选购tips，装修小白需要知道的那些事
+title: '【干货】灯光布局&选购tips，装修小白需要知道的那些事'
 categories: 
     - 新媒体
     - 一兜糖 - 首页精选
 author: 一兜糖 - 首页精选
 comments: false
-date: 2021-03-22 03:17:07
+date: 2021-03-22 03:44:57
 thumbnail: 'https://aimg.yidoutang.com/prod/content/202103/14/a8e498/d6ff42955f872b99f98250e1f6c8329d.jpeg!home320'
 ---
 

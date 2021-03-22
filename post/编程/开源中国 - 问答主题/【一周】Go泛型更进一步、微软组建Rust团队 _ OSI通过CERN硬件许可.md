@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】Go泛型更进一步、微软组建Rust团队 _ OSI通过CERN硬件许可
+title: '【一周】Go泛型更进一步、微软组建Rust团队 _ OSI通过CERN硬件许可'
 categories: 
     - 编程
     - 开源中国 - 问答主题

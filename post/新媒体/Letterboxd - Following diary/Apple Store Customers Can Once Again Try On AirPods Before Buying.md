@@ -1,6 +1,6 @@
 
 ---
-title: Apple Store Customers Can Once Again Try On AirPods Before Buying
+title: 'Apple Store Customers Can Once Again Try On AirPods Before Buying'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

@@ -1,6 +1,6 @@
 
 ---
-title: 秋之回憶6 秋之回憶6～T-wave～ _久松柚野美_
+title: '秋之回憶6 秋之回憶6～T-wave～ _久松柚野美_'
 categories: 
     - 二次元
     - Vol.moe - vol

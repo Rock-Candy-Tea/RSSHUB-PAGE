@@ -1,6 +1,6 @@
 
 ---
-title: _SAD_ Psycho-Pass Extended Edition _BD 1080p HEVC10 FLAC2.0_
+title: '_SAD_ Psycho-Pass Extended Edition _BD 1080p HEVC10 FLAC2.0_'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

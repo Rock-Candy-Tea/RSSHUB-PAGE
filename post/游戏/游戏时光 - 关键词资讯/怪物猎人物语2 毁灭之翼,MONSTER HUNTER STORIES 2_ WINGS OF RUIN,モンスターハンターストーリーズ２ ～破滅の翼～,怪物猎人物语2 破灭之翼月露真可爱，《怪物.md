@@ -1,6 +1,6 @@
 
 ---
-title: 怪物猎人物语2 毁灭之翼,MONSTER HUNTER STORIES 2_ WINGS OF RUIN,モンスターハンターストーリーズ２ ～破滅の翼～,怪物猎人物语2 破灭之翼月露真可爱，《怪物...
+title: '怪物猎人物语2 毁灭之翼,MONSTER HUNTER STORIES 2_ WINGS OF RUIN,モンスターハンターストーリーズ２ ～破滅の翼～,怪物猎人物语2 破灭之翼月露真可爱，《怪物...'
 categories: 
     - 游戏
     - 游戏时光 - 关键词资讯

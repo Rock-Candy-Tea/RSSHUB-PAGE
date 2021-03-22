@@ -1,12 +1,12 @@
 
 ---
-title: 第11代英特尔® vPro® 平台稳定可靠易管理，助力企业在数字化洪流中扬帆远航 – 镁客网
+title: '第11代英特尔® vPro® 平台稳定可靠易管理，助力企业在数字化洪流中扬帆远航 – 镁客网'
 categories: 
     - 新媒体
     - 镁客网 im2maker - 镁客网频道
 author: 镁客网 im2maker - 镁客网频道
 comments: false
-date: 2021-03-22 03:16:26
+date: 2021-03-22 03:44:24
 thumbnail: 'https://oss-im2maker.oss-cn-hangzhou.aliyuncs.com/uploadfile/2021/03/20210318122020160.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: LibreSSL 难以取代 OpenSSL 用于 Linux 发行版
+title: 'LibreSSL 难以取代 OpenSSL 用于 Linux 发行版'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

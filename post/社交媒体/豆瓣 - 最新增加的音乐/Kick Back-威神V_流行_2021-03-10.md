@@ -1,6 +1,6 @@
 
 ---
-title: Kick Back-威神V_流行_2021-03-10
+title: 'Kick Back-威神V_流行_2021-03-10'
 categories: 
     - 社交媒体
     - 豆瓣 - 最新增加的音乐
@@ -12,7 +12,8 @@ thumbnail: 'https://img9.doubanio.com/view/subject/m/public/s33847028.jpg'
 
 <div>   
 <img src="https://img9.doubanio.com/view/subject/m/public/s33847028.jpg" referrerpolicy="no-referrer"><br>
-                    3.5分2.Action Figure4.梦尽 (All For Love) —— 紫色麻团的短评<br>
+                    我说主打曲真的不抓耳，除了李永钦的那段过渡杀到我之外，真的没一点抓耳感，导入就失败了。
+反而Action Figure和梦尽还可以。 —— 白炙的短评<br>
                     <strong>评分:</strong> 7.4
                   
 </div>

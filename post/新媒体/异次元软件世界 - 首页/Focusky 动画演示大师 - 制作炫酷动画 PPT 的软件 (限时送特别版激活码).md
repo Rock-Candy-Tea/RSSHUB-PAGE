@@ -1,6 +1,6 @@
 
 ---
-title: Focusky 动画演示大师 - 制作炫酷动画 PPT 的软件 (限时送特别版激活码)
+title: 'Focusky 动画演示大师 - 制作炫酷动画 PPT 的软件 (限时送特别版激活码)'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

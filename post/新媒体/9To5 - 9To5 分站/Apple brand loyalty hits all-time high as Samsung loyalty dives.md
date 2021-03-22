@@ -1,6 +1,6 @@
 
 ---
-title: Apple brand loyalty hits all-time high as Samsung loyalty dives
+title: 'Apple brand loyalty hits all-time high as Samsung loyalty dives'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

@@ -1,6 +1,6 @@
 
 ---
-title: Epic Games founder hits at Apple for promoting Fortnite competitor PUBG
+title: 'Epic Games founder hits at Apple for promoting Fortnite competitor PUBG'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

@@ -1,6 +1,6 @@
 
 ---
-title: Fraunhofer’s new H.266 codec promises to cut the cost of streaming 4K video in half
+title: 'Fraunhofer’s new H.266 codec promises to cut the cost of streaming 4K video in half'
 categories: 
     - 编程
     - wolley - posts

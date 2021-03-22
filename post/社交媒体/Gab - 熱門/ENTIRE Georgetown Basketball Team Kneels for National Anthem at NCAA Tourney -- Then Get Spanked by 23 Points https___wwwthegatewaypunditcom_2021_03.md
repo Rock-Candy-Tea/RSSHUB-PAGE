@@ -1,6 +1,6 @@
 
 ---
-title: ENTIRE Georgetown Basketball Team Kneels for National Anthem at NCAA Tourney -- Then Get Spanked by 23 Points https___www.thegatewaypundit.com_2021_03...
+title: 'ENTIRE Georgetown Basketball Team Kneels for National Anthem at NCAA Tourney -- Then Get Spanked by 23 Points https___www.thegatewaypundit.com_2021_03...'
 categories: 
     - 社交媒体
     - Gab - 熱門

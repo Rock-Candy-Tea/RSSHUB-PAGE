@@ -1,6 +1,6 @@
 
 ---
-title: Netflix knows you share your password. It's testing a way to stop you.
+title: 'Netflix knows you share your password. It's testing a way to stop you.'
 categories: 
     - 传统媒体
     - Boston.com - 新闻

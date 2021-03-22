@@ -1,6 +1,6 @@
 
 ---
-title: 出海日报｜网易在海外市场推出语音社交APP；非洲支付独角兽Flutterwave牵手PayPal
+title: '出海日报｜网易在海外市场推出语音社交APP；非洲支付独角兽Flutterwave牵手PayPal'
 categories: 
     - 新媒体
     - 36kr - 主题文章

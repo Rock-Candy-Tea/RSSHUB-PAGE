@@ -1,6 +1,6 @@
 
 ---
-title: Lauterbach_ Ausgangssperre ist letztes Mittel - Linder dagegen
+title: 'Lauterbach_ Ausgangssperre ist letztes Mittel - Linder dagegen'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

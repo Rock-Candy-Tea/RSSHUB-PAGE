@@ -1,6 +1,6 @@
 
 ---
-title: ‘Because There Were Cameras, I Didn’t Ask Any Questions’
+title: '‘Because There Were Cameras, I Didn’t Ask Any Questions’'
 categories: 
     - 传统媒体
     - Chicago Tribune - 新闻

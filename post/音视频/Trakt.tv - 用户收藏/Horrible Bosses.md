@@ -1,6 +1,6 @@
 
 ---
-title: Horrible Bosses
+title: 'Horrible Bosses'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

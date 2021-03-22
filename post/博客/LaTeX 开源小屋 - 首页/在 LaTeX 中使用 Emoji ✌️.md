@@ -1,6 +1,6 @@
 
 ---
-title: 在 LaTeX 中使用 Emoji ✌️
+title: '在 LaTeX 中使用 Emoji ✌️'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

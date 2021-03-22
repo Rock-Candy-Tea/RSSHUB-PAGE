@@ -1,6 +1,6 @@
 
 ---
-title: Pulling Bits From ROM Silicon Die Images_ Unknown Architecture
+title: 'Pulling Bits From ROM Silicon Die Images_ Unknown Architecture'
 categories: 
     - 新媒体
     - 不安全 - 全文

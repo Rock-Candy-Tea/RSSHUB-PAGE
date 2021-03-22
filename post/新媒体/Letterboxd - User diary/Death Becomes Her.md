@@ -1,6 +1,6 @@
 
 ---
-title: Death Becomes Her
+title: 'Death Becomes Her'
 categories: 
     - 新媒体
     - Letterboxd - User diary

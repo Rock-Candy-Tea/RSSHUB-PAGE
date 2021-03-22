@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ gpg_ heap buffer overflow in libgcrypt
+title: '_Fixed_ gpg_ heap buffer overflow in libgcrypt'
 categories: 
     - 编程
     - project-zero issues - issues

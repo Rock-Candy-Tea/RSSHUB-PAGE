@@ -1,6 +1,6 @@
 
 ---
-title: PearPlayer.js
+title: 'PearPlayer.js'
 categories: 
     - 编程
     - GitHub - 用户仓库

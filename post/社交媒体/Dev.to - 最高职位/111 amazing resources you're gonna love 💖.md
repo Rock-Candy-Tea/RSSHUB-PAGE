@@ -1,6 +1,6 @@
 
 ---
-title: 111 amazing resources you're gonna love 💖
+title: '111 amazing resources you're gonna love 💖'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

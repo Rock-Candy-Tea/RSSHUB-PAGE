@@ -1,6 +1,6 @@
 
 ---
-title: COVID19 Global Forecasting (Week 4)
+title: 'COVID19 Global Forecasting (Week 4)'
 categories: 
     - 编程
     - Kaggle - User Discussion

@@ -1,6 +1,6 @@
 
 ---
-title: James Sommerville keynote at Brand Talks Connected.
+title: 'James Sommerville keynote at Brand Talks Connected.'
 categories: 
     - 设计
     - Monotype - Featured Article

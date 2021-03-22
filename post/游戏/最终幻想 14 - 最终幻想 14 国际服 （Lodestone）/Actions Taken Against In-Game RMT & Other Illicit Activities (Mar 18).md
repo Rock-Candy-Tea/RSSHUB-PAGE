@@ -1,6 +1,6 @@
 
 ---
-title: Actions Taken Against In-Game RMT & Other Illicit Activities (Mar. 18)
+title: 'Actions Taken Against In-Game RMT & Other Illicit Activities (Mar. 18)'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

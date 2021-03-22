@@ -1,6 +1,6 @@
 
 ---
-title: ★★★★☆ 宾利 黑色尊爵 Bentley For Men Absolute, 2014
+title: '★★★★☆ 宾利 黑色尊爵 Bentley For Men Absolute, 2014'
 categories: 
     - 新媒体
     - 香水时代 - 首页

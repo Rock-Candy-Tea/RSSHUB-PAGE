@@ -1,12 +1,12 @@
 
 ---
-title: 更新档Ver.11.50概要（PlayStation4_ Update 11.50）
+title: '更新档Ver.11.50概要（PlayStation4_ Update 11.50）'
 categories: 
     - 游戏
     - 怪物猎人世界 - 更新情报
 author: 怪物猎人世界 - 更新情报
 comments: false
-date: 2021-03-22 03:19:45
+date: 2021-03-22 03:46:26
 thumbnail: ''
 ---
 

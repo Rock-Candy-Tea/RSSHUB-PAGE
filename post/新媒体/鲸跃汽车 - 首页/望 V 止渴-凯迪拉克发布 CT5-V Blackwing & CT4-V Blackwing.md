@@ -1,6 +1,6 @@
 
 ---
-title: 望 V 止渴-凯迪拉克发布 CT5-V Blackwing & CT4-V Blackwing
+title: '望 V 止渴-凯迪拉克发布 CT5-V Blackwing & CT4-V Blackwing'
 categories: 
     - 新媒体
     - 鲸跃汽车 - 首页

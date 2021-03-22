@@ -1,6 +1,6 @@
 
 ---
-title: Energy and climate leaders from US, China, EU, India and other key economies to boost clean energy momentum at IEA-COP26 Net Zero Summit
+title: 'Energy and climate leaders from US, China, EU, India and other key economies to boost clean energy momentum at IEA-COP26 Net Zero Summit'
 categories: 
     - 新媒体
     - 国际能源署 - 新闻及活动

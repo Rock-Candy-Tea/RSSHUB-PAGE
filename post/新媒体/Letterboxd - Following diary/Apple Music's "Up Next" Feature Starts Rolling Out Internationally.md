@@ -1,6 +1,6 @@
 
 ---
-title: Apple Music's "Up Next" Feature Starts Rolling Out Internationally
+title: 'Apple Music's "Up Next" Feature Starts Rolling Out Internationally'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

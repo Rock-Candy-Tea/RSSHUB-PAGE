@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】Chrome OS比macOS还火 _ Rust IDE推荐 _ Go报告
+title: '【一周】Chrome OS比macOS还火 _ Rust IDE推荐 _ Go报告'
 categories: 
     - 编程
     - 开源中国 - 问答主题

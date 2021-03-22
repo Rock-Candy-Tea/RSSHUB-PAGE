@@ -1,8 +1,8 @@
 
 ---
-title: 【Kygo - Sunrise Hard】Zoyer 8_21_2020, 1_54_33 PM 
+title: '【Kygo - Sunrise Hard】Zoyer 8_21_2020, 1_54_33 PM 
 #323
- PP_0.00(0.00pp) - score_ 409,003.00
+ PP_0.00(0.00pp) - score_ 409,003.00'
 categories: 
     - 游戏
     - ScoreSaber - 用户动态

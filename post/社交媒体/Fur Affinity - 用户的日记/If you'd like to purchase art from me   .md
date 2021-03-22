@@ -1,6 +1,6 @@
 
 ---
-title: If you'd like to purchase art from me. . . .
+title: 'If you'd like to purchase art from me. . . .'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

@@ -1,6 +1,6 @@
 
 ---
-title: 燃烧 _ Beoning
+title: '燃烧 _ Beoning'
 categories: 
     - 图片
     - CNU 视觉联盟 - 发现

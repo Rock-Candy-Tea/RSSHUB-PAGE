@@ -1,6 +1,6 @@
 
 ---
-title: Forward Compatibility for the Scala 3 Transition
+title: 'Forward Compatibility for the Scala 3 Transition'
 categories: 
     - 编程
     - Scala - Scala Blog

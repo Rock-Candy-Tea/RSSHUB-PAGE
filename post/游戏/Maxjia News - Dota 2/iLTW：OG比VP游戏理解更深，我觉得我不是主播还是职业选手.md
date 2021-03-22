@@ -1,6 +1,6 @@
 
 ---
-title: iLTW：OG比VP游戏理解更深，我觉得我不是主播还是职业选手
+title: 'iLTW：OG比VP游戏理解更深，我觉得我不是主播还是职业选手'
 categories: 
     - 游戏
     - Maxjia News - Dota 2

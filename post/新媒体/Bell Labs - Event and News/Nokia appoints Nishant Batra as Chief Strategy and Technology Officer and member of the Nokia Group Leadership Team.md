@@ -1,6 +1,6 @@
 
 ---
-title: Nokia appoints Nishant Batra as Chief Strategy and Technology Officer and member of the Nokia Group Leadership Team
+title: 'Nokia appoints Nishant Batra as Chief Strategy and Technology Officer and member of the Nokia Group Leadership Team'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

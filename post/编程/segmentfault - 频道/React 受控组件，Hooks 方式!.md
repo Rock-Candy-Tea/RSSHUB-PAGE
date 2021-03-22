@@ -1,12 +1,12 @@
 
 ---
-title: React 受控组件，Hooks 方式!
+title: 'React 受控组件，Hooks 方式!'
 categories: 
     - 编程
     - segmentfault - 频道
 author: segmentfault - 频道
 comments: false
-date: 2021-03-22 03:14:53
+date: 2021-03-22 03:42:50
 thumbnail: 'https://segmentfault.com/img/bVcPcc9'
 ---
 

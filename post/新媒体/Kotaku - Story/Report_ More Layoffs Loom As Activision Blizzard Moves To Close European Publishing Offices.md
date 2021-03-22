@@ -1,6 +1,6 @@
 
 ---
-title: Report_ More Layoffs Loom As Activision Blizzard Moves To Close European Publishing Offices
+title: 'Report_ More Layoffs Loom As Activision Blizzard Moves To Close European Publishing Offices'
 categories: 
     - 新媒体
     - Kotaku - Story

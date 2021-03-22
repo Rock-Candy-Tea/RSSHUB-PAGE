@@ -1,8 +1,8 @@
 
 ---
-title: 【Durarara!! Opening 1 - Uragiri no Yuuyake Hard】KikaeAeon 8_22_2020, 6_06_28 AM 
+title: '【Durarara!! Opening 1 - Uragiri no Yuuyake Hard】KikaeAeon 8_22_2020, 6_06_28 AM 
 #931
- PP_0.00(0.00pp) - score_ 94,252.00
+ PP_0.00(0.00pp) - score_ 94,252.00'
 categories: 
     - 游戏
     - ScoreSaber - 用户动态

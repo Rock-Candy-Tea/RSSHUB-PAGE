@@ -1,6 +1,6 @@
 
 ---
-title: git log --follow奇遇记
+title: 'git log --follow奇遇记'
 categories: 
     - 博客
     - Hexo - Yilia 主题博客

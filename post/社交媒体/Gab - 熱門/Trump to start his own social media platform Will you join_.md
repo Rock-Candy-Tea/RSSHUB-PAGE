@@ -1,6 +1,6 @@
 
 ---
-title: Trump to start his own social media platform. Will you join_
+title: 'Trump to start his own social media platform. Will you join_'
 categories: 
     - 社交媒体
     - Gab - 熱門

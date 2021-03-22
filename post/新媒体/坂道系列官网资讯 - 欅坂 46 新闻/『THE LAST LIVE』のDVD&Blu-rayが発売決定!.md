@@ -1,6 +1,6 @@
 
 ---
-title: 『THE LAST LIVE』のDVD&Blu-rayが発売決定!
+title: '『THE LAST LIVE』のDVD&Blu-rayが発売決定!'
 categories: 
     - 新媒体
     - 坂道系列官网资讯 - 欅坂 46 新闻

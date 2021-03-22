@@ -1,12 +1,12 @@
 
 ---
-title: 가평 백 한과, branding identity 2017
+title: '가평 백 한과, branding identity 2017'
 categories: 
     - 设计
     - Notefolio - Works
 author: Notefolio - Works
 comments: false
-date: 2021-03-22 03:20:46
+date: 2021-03-22 03:47:18
 thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/2c/fc/2cfc231e0ee6d2dc6279231a1933563b4fc8e982093aaa74ff4b138912141cbf_v1.jpg'
 ---
 

@@ -1,6 +1,6 @@
 
 ---
-title: How dancing helps me think, and thinking helps me dance
+title: 'How dancing helps me think, and thinking helps me dance'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

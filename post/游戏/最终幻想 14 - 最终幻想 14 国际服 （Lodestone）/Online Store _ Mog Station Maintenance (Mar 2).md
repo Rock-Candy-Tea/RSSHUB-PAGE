@@ -1,6 +1,6 @@
 
 ---
-title: Online Store _ Mog Station Maintenance (Mar. 2)
+title: 'Online Store _ Mog Station Maintenance (Mar. 2)'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

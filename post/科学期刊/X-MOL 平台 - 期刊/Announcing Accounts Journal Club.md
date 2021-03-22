@@ -1,6 +1,6 @@
 
 ---
-title: Announcing Accounts Journal Club
+title: 'Announcing Accounts Journal Club'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

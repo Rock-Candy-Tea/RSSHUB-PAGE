@@ -1,6 +1,6 @@
 
 ---
-title: 怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ《怪物猎人 崛起》新PV_新要素篇_与_世界观篇_公布
+title: '怪物猎人 崛起,MONSTER HUNTER RISE,モンスターハンターライズ《怪物猎人 崛起》新PV_新要素篇_与_世界观篇_公布'
 categories: 
     - 游戏
     - 游戏时光 - 关键词资讯

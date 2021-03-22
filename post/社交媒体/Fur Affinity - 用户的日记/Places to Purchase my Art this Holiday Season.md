@@ -1,6 +1,6 @@
 
 ---
-title: Places to Purchase my Art this Holiday Season
+title: 'Places to Purchase my Art this Holiday Season'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

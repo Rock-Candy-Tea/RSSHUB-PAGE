@@ -1,6 +1,6 @@
 
 ---
-title: Awakening(Angeart edit)
+title: 'Awakening(Angeart edit)'
 categories: 
     - 音视频
     - SoundCloud - Tracks

@@ -1,6 +1,6 @@
 
 ---
-title: Black-Box Optimization for Automated Discovery
+title: 'Black-Box Optimization for Automated Discovery'
 categories: 
     - 科学期刊
     - X-MOL 平台 - 期刊

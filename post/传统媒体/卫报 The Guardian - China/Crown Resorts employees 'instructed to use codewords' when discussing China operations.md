@@ -1,6 +1,6 @@
 
 ---
-title: Crown Resorts employees 'instructed to use codewords' when discussing China operations
+title: 'Crown Resorts employees 'instructed to use codewords' when discussing China operations'
 categories: 
     - 传统媒体
     - 卫报 The Guardian - China

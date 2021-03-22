@@ -1,6 +1,6 @@
 
 ---
-title: anthropomorphism azur_lane blue_hair blush car cropped dress long_hair no_bra nopan ponytail red_eyes st._louis_(azur_lane) wsman
+title: 'anthropomorphism azur_lane blue_hair blush car cropped dress long_hair no_bra nopan ponytail red_eyes st._louis_(azur_lane) wsman'
 categories: 
     - 图片
     - Konachan Anime Wallpapers - Popular Recent Posts

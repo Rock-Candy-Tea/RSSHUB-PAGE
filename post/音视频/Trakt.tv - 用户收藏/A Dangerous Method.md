@@ -1,6 +1,6 @@
 
 ---
-title: A Dangerous Method
+title: 'A Dangerous Method'
 categories: 
     - 音视频
     - Trakt.tv - 用户收藏

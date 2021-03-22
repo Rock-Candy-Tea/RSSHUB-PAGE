@@ -1,6 +1,6 @@
 
 ---
-title: Global Semiconductor Sales Increase 13.2% year-to-year in January
+title: 'Global Semiconductor Sales Increase 13.2% year-to-year in January'
 categories: 
     - 新媒体
     - 美国半导体行业协会 - 新闻

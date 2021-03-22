@@ -1,6 +1,6 @@
 
 ---
-title: Online Store_Mog Station Maintenance (Mar. 2)_ Early Completion Time
+title: 'Online Store_Mog Station Maintenance (Mar. 2)_ Early Completion Time'
 categories: 
     - 游戏
     - 最终幻想 14 - 最终幻想 14 国际服 （Lodestone）

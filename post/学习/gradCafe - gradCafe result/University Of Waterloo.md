@@ -1,6 +1,6 @@
 
 ---
-title: University Of Waterloo
+title: 'University Of Waterloo'
 categories: 
     - 学习
     - gradCafe - gradCafe result

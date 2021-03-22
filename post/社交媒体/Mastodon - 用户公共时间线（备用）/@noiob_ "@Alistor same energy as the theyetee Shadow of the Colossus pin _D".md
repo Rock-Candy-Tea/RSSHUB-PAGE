@@ -1,10 +1,10 @@
 
 ---
-title: @noiob_ "
+title: '@noiob_ "
 
 @Alistor
  same energy as the theyetee Shadow of the Colossus pin _D
-"
+"'
 categories: 
     - 社交媒体
     - Mastodon - 用户公共时间线（备用）

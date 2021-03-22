@@ -1,6 +1,6 @@
 
 ---
-title: The ‘Necessity’ to Retain Basic Needs as the Boundary Condition of Necessity Entrepreneurship
+title: 'The ‘Necessity’ to Retain Basic Needs as the Boundary Condition of Necessity Entrepreneurship'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

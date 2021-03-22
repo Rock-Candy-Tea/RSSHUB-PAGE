@@ -1,6 +1,6 @@
 
 ---
-title: A Tiny Gold Ball is the Smallest Object to Have Its Gravity Measured, Science NewsPhysics Undergraduate Proposes Solution to Quantum Field Theory Prob...
+title: 'A Tiny Gold Ball is the Smallest Object to Have Its Gravity Measured, Science NewsPhysics Undergraduate Proposes Solution to Quantum Field Theory Prob...'
 categories: 
     - 新媒体
     - Simons Foundation - 推荐

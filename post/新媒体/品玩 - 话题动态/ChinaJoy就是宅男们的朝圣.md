@@ -1,6 +1,6 @@
 
 ---
-title: ChinaJoy就是宅男们的朝圣
+title: 'ChinaJoy就是宅男们的朝圣'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

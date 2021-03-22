@@ -1,6 +1,6 @@
 
 ---
-title: SEMICON CHINA观察_晶圆厂加快扩产同时亦在考虑时机
+title: 'SEMICON CHINA观察_晶圆厂加快扩产同时亦在考虑时机'
 categories: 
     - 金融
     - 财联社 - 深度

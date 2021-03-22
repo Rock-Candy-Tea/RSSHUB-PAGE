@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod喜欢了文章：避免不必要的折腾，我选定 DEVONthink + Notion 来搭建知识库｜年度征文
+title: 'DIYgod喜欢了文章：避免不必要的折腾，我选定 DEVONthink + Notion 来搭建知识库｜年度征文'
 categories: 
     - 新媒体
     - 少数派 sspai - 作者动态

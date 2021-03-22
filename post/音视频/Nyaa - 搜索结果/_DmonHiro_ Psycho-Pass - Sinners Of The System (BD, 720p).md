@@ -1,6 +1,6 @@
 
 ---
-title: _DmonHiro_ Psycho-Pass - Sinners Of The System (BD, 720p)
+title: '_DmonHiro_ Psycho-Pass - Sinners Of The System (BD, 720p)'
 categories: 
     - 音视频
     - Nyaa - 搜索结果

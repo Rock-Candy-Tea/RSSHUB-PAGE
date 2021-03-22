@@ -1,6 +1,6 @@
 
 ---
-title: Pandemic-Friendly Speed Dating for Neuroscientists
+title: 'Pandemic-Friendly Speed Dating for Neuroscientists'
 categories: 
     - 新媒体
     - Simons Foundation - 文章

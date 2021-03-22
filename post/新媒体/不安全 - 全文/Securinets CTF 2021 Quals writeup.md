@@ -1,6 +1,6 @@
 
 ---
-title: Securinets CTF 2021 Quals writeup
+title: 'Securinets CTF 2021 Quals writeup'
 categories: 
     - 新媒体
     - 不安全 - 全文

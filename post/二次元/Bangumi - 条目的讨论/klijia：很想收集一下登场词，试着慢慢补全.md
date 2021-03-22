@@ -1,6 +1,6 @@
 
 ---
-title: klijia：很想收集一下登场词，试着慢慢补全
+title: 'klijia：很想收集一下登场词，试着慢慢补全'
 categories: 
     - 二次元
     - Bangumi - 条目的讨论

@@ -1,6 +1,6 @@
 
 ---
-title: The Buddha attained enlightenment here!
+title: 'The Buddha attained enlightenment here!'
 categories: 
     - 图片
     - Tits Guru - Categories

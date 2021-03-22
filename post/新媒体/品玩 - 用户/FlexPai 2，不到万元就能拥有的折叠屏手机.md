@@ -1,6 +1,6 @@
 
 ---
-title: FlexPai 2，不到万元就能拥有的折叠屏手机
+title: 'FlexPai 2，不到万元就能拥有的折叠屏手机'
 categories: 
     - 新媒体
     - 品玩 - 用户

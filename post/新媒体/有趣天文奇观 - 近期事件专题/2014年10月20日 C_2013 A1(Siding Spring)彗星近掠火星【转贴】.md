@@ -1,12 +1,12 @@
 
 ---
-title: 2014年10月20日 C_2013 A1(Siding Spring)彗星近掠火星【转贴】
+title: '2014年10月20日 C_2013 A1(Siding Spring)彗星近掠火星【转贴】'
 categories: 
     - 新媒体
     - 有趣天文奇观 - 近期事件专题
 author: 有趣天文奇观 - 近期事件专题
 comments: false
-date: 2021-03-22 03:17:17
+date: 2021-03-22 03:45:07
 thumbnail: ''
 ---
 

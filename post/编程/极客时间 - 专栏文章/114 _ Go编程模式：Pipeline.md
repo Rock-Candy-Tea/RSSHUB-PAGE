@@ -1,6 +1,6 @@
 
 ---
-title: 114 _ Go编程模式：Pipeline
+title: '114 _ Go编程模式：Pipeline'
 categories: 
     - 编程
     - 极客时间 - 专栏文章

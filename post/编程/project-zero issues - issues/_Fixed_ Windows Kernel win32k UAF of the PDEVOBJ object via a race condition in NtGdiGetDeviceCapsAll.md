@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Windows Kernel win32k UAF of the PDEVOBJ object via a race condition in NtGdiGetDeviceCapsAll
+title: '_Fixed_ Windows Kernel win32k UAF of the PDEVOBJ object via a race condition in NtGdiGetDeviceCapsAll'
 categories: 
     - 编程
     - project-zero issues - issues

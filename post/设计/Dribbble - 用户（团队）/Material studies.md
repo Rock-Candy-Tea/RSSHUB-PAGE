@@ -1,6 +1,6 @@
 
 ---
-title: Material studies
+title: 'Material studies'
 categories: 
     - 设计
     - Dribbble - 用户（团队）

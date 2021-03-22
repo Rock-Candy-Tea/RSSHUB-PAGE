@@ -1,6 +1,6 @@
 
 ---
-title: Lockdown takes ecommerce to 40%
+title: 'Lockdown takes ecommerce to 40%'
 categories: 
     - 博客
     - archdaily - 首页

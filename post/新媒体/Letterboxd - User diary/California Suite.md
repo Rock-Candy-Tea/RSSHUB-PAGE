@@ -1,6 +1,6 @@
 
 ---
-title: California Suite
+title: 'California Suite'
 categories: 
     - 新媒体
     - Letterboxd - User diary

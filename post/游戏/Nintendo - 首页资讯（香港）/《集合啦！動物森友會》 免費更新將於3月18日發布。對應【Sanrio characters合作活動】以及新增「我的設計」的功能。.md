@@ -1,12 +1,12 @@
 
 ---
-title: 《集合啦！動物森友會》 免費更新將於3月18日發布。對應【Sanrio characters合作活動】以及新增「我的設計」的功能。
+title: '《集合啦！動物森友會》 免費更新將於3月18日發布。對應【Sanrio characters合作活動】以及新增「我的設計」的功能。'
 categories: 
     - 游戏
     - Nintendo - 首页资讯（香港）
 author: Nintendo - 首页资讯（香港）
 comments: false
-date: 2021-03-22 03:19:51
+date: 2021-03-22 03:46:18
 thumbnail: 'https://www.nintendo.com.hk/topics/article/article_img/a_210317_01/top_tc.jpg'
 ---
 

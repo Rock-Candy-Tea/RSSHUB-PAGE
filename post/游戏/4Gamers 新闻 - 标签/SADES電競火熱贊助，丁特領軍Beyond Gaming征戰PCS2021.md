@@ -1,6 +1,6 @@
 
 ---
-title: SADES電競火熱贊助，丁特領軍Beyond Gaming征戰PCS2021
+title: 'SADES電競火熱贊助，丁特領軍Beyond Gaming征戰PCS2021'
 categories: 
     - 游戏
     - 4Gamers 新闻 - 标签

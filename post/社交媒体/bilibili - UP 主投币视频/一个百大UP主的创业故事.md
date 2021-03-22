@@ -1,6 +1,6 @@
 
 ---
-title: 一个百大UP主的创业故事
+title: '一个百大UP主的创业故事'
 categories: 
     - 社交媒体
     - bilibili - UP 主投币视频

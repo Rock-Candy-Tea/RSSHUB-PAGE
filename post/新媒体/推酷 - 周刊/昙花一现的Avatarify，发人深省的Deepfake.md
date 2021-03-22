@@ -1,6 +1,6 @@
 
 ---
-title: 昙花一现的Avatarify，发人深省的Deepfake
+title: '昙花一现的Avatarify，发人深省的Deepfake'
 categories: 
     - 新媒体
     - 推酷 - 周刊

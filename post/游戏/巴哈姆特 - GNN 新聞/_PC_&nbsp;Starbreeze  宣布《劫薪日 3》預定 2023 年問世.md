@@ -1,12 +1,12 @@
 
 ---
-title: _PC_&nbsp;Starbreeze  宣布《劫薪日 3》預定 2023 年問世
+title: '_PC_&nbsp;Starbreeze  宣布《劫薪日 3》預定 2023 年問世'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/70/f5f76de850387e6d55796b6f941buia5.JPG?v=1616149928077'
 ---
 

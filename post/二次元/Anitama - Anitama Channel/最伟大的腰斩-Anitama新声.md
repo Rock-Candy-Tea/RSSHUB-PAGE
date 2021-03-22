@@ -1,6 +1,6 @@
 
 ---
-title: 最伟大的腰斩-Anitama新声
+title: '最伟大的腰斩-Anitama新声'
 categories: 
     - 二次元
     - Anitama - Anitama Channel

@@ -1,6 +1,6 @@
 
 ---
-title: Synergy in Mergers and Acquisitions_ Typology, Lifecycles, and Value
+title: 'Synergy in Mergers and Acquisitions_ Typology, Lifecycles, and Value'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

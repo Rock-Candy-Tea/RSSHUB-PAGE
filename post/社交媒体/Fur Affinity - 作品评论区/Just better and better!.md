@@ -1,6 +1,6 @@
 
 ---
-title: Just better and better!
+title: 'Just better and better!'
 categories: 
     - 社交媒体
     - Fur Affinity - 作品评论区

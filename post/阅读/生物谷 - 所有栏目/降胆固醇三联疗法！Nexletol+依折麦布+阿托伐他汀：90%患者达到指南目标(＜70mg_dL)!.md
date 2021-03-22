@@ -1,12 +1,12 @@
 
 ---
-title: 降胆固醇三联疗法！Nexletol+依折麦布+阿托伐他汀：90%患者达到指南目标(＜70mg_dL)!
+title: '降胆固醇三联疗法！Nexletol+依折麦布+阿托伐他汀：90%患者达到指南目标(＜70mg_dL)!'
 categories: 
     - 阅读
     - 生物谷 - 所有栏目
 author: 生物谷 - 所有栏目
 comments: false
-date: 2021-03-22 03:21:28
+date: 2021-03-22 03:47:53
 thumbnail: 'http://cache3.bioon.com/webeditor/uploadfile/202103/20210321220122901.png'
 ---
 

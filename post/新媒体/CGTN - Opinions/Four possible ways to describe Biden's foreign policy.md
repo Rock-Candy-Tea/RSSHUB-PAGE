@@ -1,6 +1,6 @@
 
 ---
-title: Four possible ways to describe Biden's foreign policy
+title: 'Four possible ways to describe Biden's foreign policy'
 categories: 
     - 新媒体
     - CGTN - Opinions

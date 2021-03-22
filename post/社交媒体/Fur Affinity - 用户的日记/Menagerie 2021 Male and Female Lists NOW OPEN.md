@@ -1,6 +1,6 @@
 
 ---
-title: Menagerie 2021 Male and Female Lists NOW OPEN
+title: 'Menagerie 2021 Male and Female Lists NOW OPEN'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

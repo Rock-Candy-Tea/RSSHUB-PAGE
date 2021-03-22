@@ -1,6 +1,6 @@
 
 ---
-title: _胜_ FMWH Dota2 Championship Season 3
+title: '_胜_ FMWH Dota2 Championship Season 3'
 categories: 
     - 游戏
     - Liquipedia - Dota2 战队最近比赛结果

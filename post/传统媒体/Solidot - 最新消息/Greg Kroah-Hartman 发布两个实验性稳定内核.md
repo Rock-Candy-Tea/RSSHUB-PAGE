@@ -1,6 +1,6 @@
 
 ---
-title: Greg Kroah-Hartman 发布两个实验性稳定内核
+title: 'Greg Kroah-Hartman 发布两个实验性稳定内核'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

@@ -1,6 +1,6 @@
 
 ---
-title: _Fixed_ Chrome_ OOB-read in network DataElement struct traits.
+title: '_Fixed_ Chrome_ OOB-read in network DataElement struct traits.'
 categories: 
     - 编程
     - project-zero issues - issues

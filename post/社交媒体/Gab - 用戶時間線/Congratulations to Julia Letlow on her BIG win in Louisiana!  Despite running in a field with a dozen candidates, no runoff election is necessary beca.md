@@ -1,6 +1,6 @@
 
 ---
-title: Congratulations to Julia Letlow on her BIG win in Louisiana!  Despite running in a field with a dozen candidates, no runoff election is necessary beca...
+title: 'Congratulations to Julia Letlow on her BIG win in Louisiana!  Despite running in a field with a dozen candidates, no runoff election is necessary beca...'
 categories: 
     - 社交媒体
     - Gab - 用戶時間線

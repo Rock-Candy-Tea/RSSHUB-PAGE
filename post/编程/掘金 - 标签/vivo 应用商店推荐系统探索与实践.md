@@ -1,6 +1,6 @@
 
 ---
-title: vivo 应用商店推荐系统探索与实践
+title: 'vivo 应用商店推荐系统探索与实践'
 categories: 
     - 编程
     - 掘金 - 标签

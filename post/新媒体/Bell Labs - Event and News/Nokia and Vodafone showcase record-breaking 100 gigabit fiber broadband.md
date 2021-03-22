@@ -1,6 +1,6 @@
 
 ---
-title: Nokia and Vodafone showcase record-breaking 100 gigabit fiber broadband
+title: 'Nokia and Vodafone showcase record-breaking 100 gigabit fiber broadband'
 categories: 
     - 新媒体
     - Bell Labs - Event and News

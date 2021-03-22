@@ -1,6 +1,6 @@
 
 ---
-title: The 8th Anniversary
+title: 'The 8th Anniversary'
 categories: 
     - 二次元
     - Bangumi - 用户日志

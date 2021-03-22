@@ -1,6 +1,6 @@
 
 ---
-title: Meanwhile In Warhammer 40K_ Squeeze This Rat To Send Commands To Your Cyborg Dog
+title: 'Meanwhile In Warhammer 40K_ Squeeze This Rat To Send Commands To Your Cyborg Dog'
 categories: 
     - 新媒体
     - Kotaku - Story

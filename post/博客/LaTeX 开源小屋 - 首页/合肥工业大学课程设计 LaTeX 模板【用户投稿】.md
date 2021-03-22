@@ -1,6 +1,6 @@
 
 ---
-title: 合肥工业大学课程设计 LaTeX 模板【用户投稿】
+title: '合肥工业大学课程设计 LaTeX 模板【用户投稿】'
 categories: 
     - 博客
     - LaTeX 开源小屋 - 首页

@@ -1,6 +1,6 @@
 
 ---
-title: iPhone X 套壳截图
+title: 'iPhone X 套壳截图'
 categories: 
     - 新媒体
     - 少数派 sspai - Shortcuts Gallery

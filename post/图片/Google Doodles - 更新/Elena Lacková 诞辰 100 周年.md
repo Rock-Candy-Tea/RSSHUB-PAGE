@@ -1,6 +1,6 @@
 
 ---
-title: Elena Lacková 诞辰 100 周年
+title: 'Elena Lacková 诞辰 100 周年'
 categories: 
     - 图片
     - Google Doodles - 更新

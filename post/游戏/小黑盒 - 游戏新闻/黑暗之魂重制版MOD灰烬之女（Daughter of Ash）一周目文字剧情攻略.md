@@ -1,6 +1,6 @@
 
 ---
-title: 黑暗之魂重制版MOD灰烬之女（Daughter of Ash）一周目文字剧情攻略
+title: '黑暗之魂重制版MOD灰烬之女（Daughter of Ash）一周目文字剧情攻略'
 categories: 
     - 游戏
     - 小黑盒 - 游戏新闻

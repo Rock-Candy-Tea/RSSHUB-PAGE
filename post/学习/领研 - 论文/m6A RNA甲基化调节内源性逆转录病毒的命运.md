@@ -1,6 +1,6 @@
 
 ---
-title: m6A RNA甲基化调节内源性逆转录病毒的命运
+title: 'm6A RNA甲基化调节内源性逆转录病毒的命运'
 categories: 
     - 学习
     - 领研 - 论文

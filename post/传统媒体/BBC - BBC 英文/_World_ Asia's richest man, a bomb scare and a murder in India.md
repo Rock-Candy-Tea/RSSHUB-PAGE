@@ -1,6 +1,6 @@
 
 ---
-title: _World_ Asia's richest man, a bomb scare and a murder in India
+title: '_World_ Asia's richest man, a bomb scare and a murder in India'
 categories: 
     - 传统媒体
     - BBC - BBC 英文

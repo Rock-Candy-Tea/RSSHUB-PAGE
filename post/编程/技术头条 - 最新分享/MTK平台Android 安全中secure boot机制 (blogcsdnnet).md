@@ -1,12 +1,12 @@
 
 ---
-title: MTK平台Android 安全中secure boot机制 (blog.csdn.net)
+title: 'MTK平台Android 安全中secure boot机制 (blog.csdn.net)'
 categories: 
     - 编程
     - 技术头条 - 最新分享
 author: 技术头条 - 最新分享
 comments: false
-date: 2021-03-22 03:14:59
+date: 2021-03-22 03:42:54
 thumbnail: ''
 ---
 

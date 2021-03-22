@@ -1,6 +1,6 @@
 
 ---
-title: Passengers who travel aboard #RoyalCaribbean and its subsidiary, Celebrity Cruises, will have to be vaccinated for #COVID19 when cruises resume in Jun...
+title: 'Passengers who travel aboard #RoyalCaribbean and its subsidiary, Celebrity Cruises, will have to be vaccinated for #COVID19 when cruises resume in Jun...'
 categories: 
     - 社交媒体
     - Gab - 熱門

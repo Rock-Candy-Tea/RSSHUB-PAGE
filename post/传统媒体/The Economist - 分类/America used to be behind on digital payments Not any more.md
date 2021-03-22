@@ -1,6 +1,6 @@
 
 ---
-title: America used to be behind on digital payments. Not any more
+title: 'America used to be behind on digital payments. Not any more'
 categories: 
     - 传统媒体
     - The Economist - 分类

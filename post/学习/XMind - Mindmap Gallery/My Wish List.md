@@ -1,6 +1,6 @@
 
 ---
-title: My Wish List
+title: 'My Wish List'
 categories: 
     - 学习
     - XMind - Mindmap Gallery

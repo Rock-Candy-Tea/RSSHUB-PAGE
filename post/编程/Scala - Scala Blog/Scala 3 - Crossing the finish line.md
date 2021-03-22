@@ -1,6 +1,6 @@
 
 ---
-title: Scala 3 - Crossing the finish line
+title: 'Scala 3 - Crossing the finish line'
 categories: 
     - 编程
     - Scala - Scala Blog

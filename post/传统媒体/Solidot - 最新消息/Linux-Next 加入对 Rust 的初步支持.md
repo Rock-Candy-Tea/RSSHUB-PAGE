@@ -1,6 +1,6 @@
 
 ---
-title: Linux-Next 加入对 Rust 的初步支持
+title: 'Linux-Next 加入对 Rust 的初步支持'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

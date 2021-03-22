@@ -1,6 +1,6 @@
 
 ---
-title: Sobaka Studio如何实现《少林九武猴》爽快的战斗系统
+title: 'Sobaka Studio如何实现《少林九武猴》爽快的战斗系统'
 categories: 
     - 游戏
     - GameRes 游资网 - 列表

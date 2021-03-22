@@ -1,12 +1,12 @@
 
 ---
-title: 移动+DevOps，普元迎来小程序2.0时代
+title: '移动+DevOps，普元迎来小程序2.0时代'
 categories: 
     - 编程
     - 开源中国 - 数字型账号用户博客
 author: 开源中国 - 数字型账号用户博客
 comments: false
-date: 2021-03-22 03:15:07
+date: 2021-03-22 03:43:03
 thumbnail: 'https://www.oschina.net/img/hot3.png'
 ---
 

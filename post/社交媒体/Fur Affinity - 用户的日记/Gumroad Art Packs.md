@@ -1,6 +1,6 @@
 
 ---
-title: Gumroad Art Packs
+title: 'Gumroad Art Packs'
 categories: 
     - 社交媒体
     - Fur Affinity - 用户的日记

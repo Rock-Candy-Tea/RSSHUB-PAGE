@@ -1,12 +1,12 @@
 
 ---
-title: 降噪耳机推荐｜ Bose 700无线消噪耳机体验
+title: '降噪耳机推荐｜ Bose 700无线消噪耳机体验'
 categories: 
     - 音视频
     - 优酷 - 频道
 author: 优酷 - 频道
 comments: false
-date: 2021-03-22 03:21:59
+date: 2021-03-22 03:48:23
 thumbnail: 'https://m.ykimg.com/05410101601794060785FDACABC8717B'
 ---
 

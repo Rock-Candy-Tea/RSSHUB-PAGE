@@ -1,6 +1,6 @@
 
 ---
-title: 【转载】YFII 流动性挖矿合约安全性研究 - 林可
+title: '【转载】YFII 流动性挖矿合约安全性研究 - 林可'
 categories: 
     - 新媒体
     - Matataki - 作者创作

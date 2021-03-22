@@ -1,6 +1,6 @@
 
 ---
-title: WhatsApp更新停止支援多款手機　即Check受影響iOS／Android型號
+title: 'WhatsApp更新停止支援多款手機　即Check受影響iOS／Android型號'
 categories: 
     - 传统媒体
     - 香港 01 - 标签

@@ -1,6 +1,6 @@
 
 ---
-title: Growing anti-Asian violence in the U.S._ A painful reflection
+title: 'Growing anti-Asian violence in the U.S._ A painful reflection'
 categories: 
     - 新媒体
     - CGTN - Opinions

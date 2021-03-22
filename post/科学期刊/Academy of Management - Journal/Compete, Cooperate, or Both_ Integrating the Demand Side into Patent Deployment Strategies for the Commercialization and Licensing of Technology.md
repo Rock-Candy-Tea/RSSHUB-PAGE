@@ -1,6 +1,6 @@
 
 ---
-title: Compete, Cooperate, or Both_ Integrating the Demand Side into Patent Deployment Strategies for the Commercialization and Licensing of Technology
+title: 'Compete, Cooperate, or Both_ Integrating the Demand Side into Patent Deployment Strategies for the Commercialization and Licensing of Technology'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

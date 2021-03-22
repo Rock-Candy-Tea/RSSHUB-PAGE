@@ -1,6 +1,6 @@
 
 ---
-title: 【一周】Flutter 2发布 _ 个人搞开源怎么赚钱
+title: '【一周】Flutter 2发布 _ 个人搞开源怎么赚钱'
 categories: 
     - 编程
     - 开源中国 - 问答主题

@@ -1,6 +1,6 @@
 
 ---
-title: Polls 2.0_ Visible Votes, Multiple Answers, and Quiz Mode
+title: 'Polls 2.0_ Visible Votes, Multiple Answers, and Quiz Mode'
 categories: 
     - 社交媒体
     - Telegram - Telegram Blog

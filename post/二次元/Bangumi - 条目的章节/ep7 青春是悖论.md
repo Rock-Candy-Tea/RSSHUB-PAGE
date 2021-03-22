@@ -1,6 +1,6 @@
 
 ---
-title: ep.7 青春是悖论
+title: 'ep.7 青春是悖论'
 categories: 
     - 二次元
     - Bangumi - 条目的章节

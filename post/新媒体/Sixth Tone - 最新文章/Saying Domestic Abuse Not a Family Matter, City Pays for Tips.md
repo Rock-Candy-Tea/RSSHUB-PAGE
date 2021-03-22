@@ -1,6 +1,6 @@
 
 ---
-title: Saying Domestic Abuse Not a Family Matter, City Pays for Tips
+title: 'Saying Domestic Abuse Not a Family Matter, City Pays for Tips'
 categories: 
     - 新媒体
     - Sixth Tone - 最新文章

@@ -1,6 +1,6 @@
 
 ---
-title: 24-Year-Old Neo Geo 64 Prototype Latest Game To Be Found In A Field
+title: '24-Year-Old Neo Geo 64 Prototype Latest Game To Be Found In A Field'
 categories: 
     - 新媒体
     - Kotaku - Story

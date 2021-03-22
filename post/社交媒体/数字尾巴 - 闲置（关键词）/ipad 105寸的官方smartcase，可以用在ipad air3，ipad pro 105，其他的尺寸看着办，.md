@@ -1,6 +1,6 @@
 
 ---
-title: ipad 10.5寸的官方smartcase，可以用在ipad air3，ipad pro 10.5，其他的尺寸看着办，...
+title: 'ipad 10.5寸的官方smartcase，可以用在ipad air3，ipad pro 10.5，其他的尺寸看着办，...'
 categories: 
     - 社交媒体
     - 数字尾巴 - 闲置（关键词）

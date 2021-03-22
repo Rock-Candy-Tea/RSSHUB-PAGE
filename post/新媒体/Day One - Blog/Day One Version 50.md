@@ -1,6 +1,6 @@
 
 ---
-title: Day One Version 5.0
+title: 'Day One Version 5.0'
 categories: 
     - 新媒体
     - Day One - Blog

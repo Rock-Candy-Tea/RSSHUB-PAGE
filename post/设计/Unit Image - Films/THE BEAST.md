@@ -1,6 +1,6 @@
 
 ---
-title: THE BEAST
+title: 'THE BEAST'
 categories: 
     - 设计
     - Unit Image - Films

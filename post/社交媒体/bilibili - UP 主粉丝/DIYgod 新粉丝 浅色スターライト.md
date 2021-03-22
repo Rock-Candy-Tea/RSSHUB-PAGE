@@ -1,6 +1,6 @@
 
 ---
-title: DIYgod 新粉丝 浅色スターライト
+title: 'DIYgod 新粉丝 浅色スターライト'
 categories: 
     - 社交媒体
     - bilibili - UP 主粉丝

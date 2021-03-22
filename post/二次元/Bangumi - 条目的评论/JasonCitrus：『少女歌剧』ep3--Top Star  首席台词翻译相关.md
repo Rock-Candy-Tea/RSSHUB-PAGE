@@ -1,6 +1,6 @@
 
 ---
-title: JasonCitrus：『少女歌剧』ep.3--Top Star  首席台词翻译相关
+title: 'JasonCitrus：『少女歌剧』ep.3--Top Star  首席台词翻译相关'
 categories: 
     - 二次元
     - Bangumi - 条目的评论

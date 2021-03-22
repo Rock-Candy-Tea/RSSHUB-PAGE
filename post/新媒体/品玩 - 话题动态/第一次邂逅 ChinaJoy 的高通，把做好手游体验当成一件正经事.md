@@ -1,6 +1,6 @@
 
 ---
-title: 第一次邂逅 ChinaJoy 的高通，把做好手游体验当成一件正经事
+title: '第一次邂逅 ChinaJoy 的高通，把做好手游体验当成一件正经事'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

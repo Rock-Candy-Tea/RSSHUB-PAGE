@@ -1,6 +1,6 @@
 
 ---
-title: 睡前发帖，有无班友买过cospa的衣服，质量如何
+title: '睡前发帖，有无班友买过cospa的衣服，质量如何'
 categories: 
     - 二次元
     - Bangumi - 小组话题

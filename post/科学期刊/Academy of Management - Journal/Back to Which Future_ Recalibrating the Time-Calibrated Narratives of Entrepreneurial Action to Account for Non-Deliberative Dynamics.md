@@ -1,6 +1,6 @@
 
 ---
-title: Back to Which Future_ Recalibrating the Time-Calibrated Narratives of Entrepreneurial Action to Account for Non-Deliberative Dynamics
+title: 'Back to Which Future_ Recalibrating the Time-Calibrated Narratives of Entrepreneurial Action to Account for Non-Deliberative Dynamics'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

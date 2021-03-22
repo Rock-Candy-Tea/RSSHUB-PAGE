@@ -1,6 +1,6 @@
 
 ---
-title: Seeing the forest and the trees_ Data provide picture of Earth’s plants and their carbon storage potential
+title: 'Seeing the forest and the trees_ Data provide picture of Earth’s plants and their carbon storage potential'
 categories: 
     - 新媒体
     - 橡树岭国家实验室 - 新闻

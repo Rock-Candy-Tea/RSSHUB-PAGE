@@ -1,6 +1,6 @@
 
 ---
-title: iOS包依赖管理工具（二）：CocoaPods原理和知识
+title: 'iOS包依赖管理工具（二）：CocoaPods原理和知识'
 categories: 
     - 编程
     - 掘金 - 热门

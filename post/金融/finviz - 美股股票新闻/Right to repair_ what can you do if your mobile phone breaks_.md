@@ -1,6 +1,6 @@
 
 ---
-title: Right to repair_ what can you do if your mobile phone breaks_
+title: 'Right to repair_ what can you do if your mobile phone breaks_'
 categories: 
     - 金融
     - finviz - 美股股票新闻

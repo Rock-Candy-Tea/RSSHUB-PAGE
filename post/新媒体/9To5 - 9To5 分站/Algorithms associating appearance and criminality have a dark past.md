@@ -1,6 +1,6 @@
 
 ---
-title: Algorithms associating appearance and criminality have a dark past
+title: 'Algorithms associating appearance and criminality have a dark past'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

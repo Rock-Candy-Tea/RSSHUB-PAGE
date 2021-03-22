@@ -1,6 +1,6 @@
 
 ---
-title: FDA批准杨森多发性硬化症新药Ponvory上市
+title: 'FDA批准杨森多发性硬化症新药Ponvory上市'
 categories: 
     - 新媒体
     - 亿欧网 - 资讯

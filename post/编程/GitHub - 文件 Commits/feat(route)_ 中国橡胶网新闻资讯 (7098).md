@@ -1,6 +1,6 @@
 
 ---
-title: feat(route)_ 中国橡胶网新闻资讯 (#7098)
+title: 'feat(route)_ 中国橡胶网新闻资讯 (#7098)'
 categories: 
     - 编程
     - GitHub - 文件 Commits

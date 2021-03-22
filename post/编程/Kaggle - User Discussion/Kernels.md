@@ -1,6 +1,6 @@
 
 ---
-title: Kernels
+title: 'Kernels'
 categories: 
     - 编程
     - Kaggle - User Discussion

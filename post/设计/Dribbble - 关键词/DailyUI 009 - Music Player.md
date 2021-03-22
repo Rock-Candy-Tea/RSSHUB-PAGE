@@ -1,6 +1,6 @@
 
 ---
-title: DailyUI 009 - Music Player
+title: 'DailyUI 009 - Music Player'
 categories: 
     - 设计
     - Dribbble - 关键词

@@ -1,6 +1,6 @@
 
 ---
-title: _MSI季中冠军赛_5月20日 RNG vs KZ
+title: '_MSI季中冠军赛_5月20日 RNG vs KZ'
 categories: 
     - 社交媒体
     - bilibili - UP 主非默认收藏夹

@@ -1,6 +1,6 @@
 
 ---
-title: CentOS 联合创始人成立公司赞助 Rocky Linux 开发
+title: 'CentOS 联合创始人成立公司赞助 Rocky Linux 开发'
 categories: 
     - 传统媒体
     - Solidot - 最新消息

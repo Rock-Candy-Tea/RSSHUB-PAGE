@@ -1,6 +1,6 @@
 
 ---
-title: BitDock - 让 Windows 桌面瞬间变成 Mac 的美化工具 (仿苹果 Dock 图标栏)
+title: 'BitDock - 让 Windows 桌面瞬间变成 Mac 的美化工具 (仿苹果 Dock 图标栏)'
 categories: 
     - 新媒体
     - 异次元软件世界 - 首页

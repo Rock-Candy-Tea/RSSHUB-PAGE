@@ -1,6 +1,6 @@
 
 ---
-title: Oxplyr Logo and Branding
+title: 'Oxplyr Logo and Branding'
 categories: 
     - 设计
     - Dribbble - 关键词

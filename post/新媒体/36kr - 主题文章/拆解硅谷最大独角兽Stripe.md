@@ -1,6 +1,6 @@
 
 ---
-title: 拆解硅谷最大独角兽Stripe
+title: '拆解硅谷最大独角兽Stripe'
 categories: 
     - 新媒体
     - 36kr - 主题文章

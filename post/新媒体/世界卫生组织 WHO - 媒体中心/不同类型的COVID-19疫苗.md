@@ -1,6 +1,6 @@
 
 ---
-title: 不同类型的COVID-19疫苗
+title: '不同类型的COVID-19疫苗'
 categories: 
     - 新媒体
     - 世界卫生组织 WHO - 媒体中心

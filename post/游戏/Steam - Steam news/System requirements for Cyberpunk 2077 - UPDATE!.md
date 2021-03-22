@@ -1,6 +1,6 @@
 
 ---
-title: System requirements for Cyberpunk 2077 - UPDATE!
+title: 'System requirements for Cyberpunk 2077 - UPDATE!'
 categories: 
     - 游戏
     - Steam - Steam news

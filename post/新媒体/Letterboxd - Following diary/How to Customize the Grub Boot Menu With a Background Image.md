@@ -1,6 +1,6 @@
 
 ---
-title: How to Customize the Grub Boot Menu With a Background Image
+title: 'How to Customize the Grub Boot Menu With a Background Image'
 categories: 
     - 新媒体
     - Letterboxd - Following diary

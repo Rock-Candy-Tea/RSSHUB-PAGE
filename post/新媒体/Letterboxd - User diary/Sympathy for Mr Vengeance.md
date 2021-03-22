@@ -1,6 +1,6 @@
 
 ---
-title: Sympathy for Mr. Vengeance
+title: 'Sympathy for Mr. Vengeance'
 categories: 
     - 新媒体
     - Letterboxd - User diary

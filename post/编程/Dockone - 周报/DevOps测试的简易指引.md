@@ -1,12 +1,12 @@
 
 ---
-title: DevOps测试的简易指引
+title: 'DevOps测试的简易指引'
 categories: 
     - 编程
     - Dockone - 周报
 author: Dockone - 周报
 comments: false
-date: 2021-03-22 03:14:48
+date: 2021-03-22 03:42:44
 thumbnail: 'http://dockone.io/uploads/article/20210322/3c04ba03dc5fe6edf64c8e3a02bc48dc.png'
 ---
 

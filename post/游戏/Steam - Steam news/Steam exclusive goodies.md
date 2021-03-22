@@ -1,6 +1,6 @@
 
 ---
-title: Steam exclusive goodies
+title: 'Steam exclusive goodies'
 categories: 
     - 游戏
     - Steam - Steam news

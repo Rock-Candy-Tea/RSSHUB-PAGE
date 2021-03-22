@@ -1,6 +1,6 @@
 
 ---
-title: 再见，Flash
+title: '再见，Flash'
 categories: 
     - 游戏
     - GameRes 游资网 - 列表

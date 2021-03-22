@@ -1,6 +1,6 @@
 
 ---
-title: 纯 C 写个 iOS App(误)
+title: '纯 C 写个 iOS App(误)'
 categories: 
     - 编程
     - 掘金 - 热门

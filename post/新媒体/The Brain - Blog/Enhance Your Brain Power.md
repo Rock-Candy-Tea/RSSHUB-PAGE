@@ -1,6 +1,6 @@
 
 ---
-title: Enhance Your Brain Power
+title: 'Enhance Your Brain Power'
 categories: 
     - 新媒体
     - The Brain - Blog

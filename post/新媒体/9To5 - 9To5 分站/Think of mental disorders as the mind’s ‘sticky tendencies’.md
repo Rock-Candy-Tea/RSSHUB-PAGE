@@ -1,6 +1,6 @@
 
 ---
-title: Think of mental disorders as the mind’s ‘sticky tendencies’
+title: 'Think of mental disorders as the mind’s ‘sticky tendencies’'
 categories: 
     - 新媒体
     - 9To5 - 9To5 分站

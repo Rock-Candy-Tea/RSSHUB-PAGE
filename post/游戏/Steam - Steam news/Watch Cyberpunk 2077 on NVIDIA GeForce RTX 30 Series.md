@@ -1,6 +1,6 @@
 
 ---
-title: Watch Cyberpunk 2077 on NVIDIA GeForce RTX 30 Series
+title: 'Watch Cyberpunk 2077 on NVIDIA GeForce RTX 30 Series'
 categories: 
     - 游戏
     - Steam - Steam news

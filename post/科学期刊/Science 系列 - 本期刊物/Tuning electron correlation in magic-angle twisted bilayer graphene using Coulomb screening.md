@@ -1,6 +1,6 @@
 
 ---
-title: Tuning electron correlation in magic-angle twisted bilayer graphene using Coulomb screening
+title: 'Tuning electron correlation in magic-angle twisted bilayer graphene using Coulomb screening'
 categories: 
     - 科学期刊
     - Science 系列 - 本期刊物

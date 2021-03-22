@@ -1,6 +1,6 @@
 
 ---
-title: 【茶茶】等等党的胜利？AMD RX 6700XT测试报告
+title: '【茶茶】等等党的胜利？AMD RX 6700XT测试报告'
 categories: 
     - 新媒体
     - 网易号 - 更新

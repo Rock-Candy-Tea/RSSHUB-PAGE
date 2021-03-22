@@ -1,6 +1,6 @@
 
 ---
-title: Frits van Hout, Chief Strategy Officer, to retire in April 2021
+title: 'Frits van Hout, Chief Strategy Officer, to retire in April 2021'
 categories: 
     - 新媒体
     - ASML 阿斯麦 - Press releases & announcements

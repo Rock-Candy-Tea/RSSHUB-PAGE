@@ -1,12 +1,12 @@
 
 ---
-title: EPL S13：Cloud9 2-1战胜Team One迎首胜，FURIA 2-0轻取MIBR豪取三连胜
+title: 'EPL S13：Cloud9 2-1战胜Team One迎首胜，FURIA 2-0轻取MIBR豪取三连胜'
 categories: 
     - 游戏
     - 小黑盒 - 游戏新闻
 author: 小黑盒 - 游戏新闻
 comments: false
-date: 2021-03-22 03:19:49
+date: 2021-03-22 03:46:30
 thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/e9809179b5921d65a6d272167ecb884a.png'
 ---
 

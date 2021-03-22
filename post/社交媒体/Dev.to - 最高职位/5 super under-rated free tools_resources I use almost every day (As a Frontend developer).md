@@ -1,6 +1,6 @@
 
 ---
-title: 5 super under-rated free tools_resources I use almost every day. (As a Frontend developer)
+title: '5 super under-rated free tools_resources I use almost every day. (As a Frontend developer)'
 categories: 
     - 社交媒体
     - Dev.to - 最高职位

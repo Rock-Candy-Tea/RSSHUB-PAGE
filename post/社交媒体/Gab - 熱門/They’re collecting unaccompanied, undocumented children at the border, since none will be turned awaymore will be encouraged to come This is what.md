@@ -1,6 +1,6 @@
 
 ---
-title: They’re collecting unaccompanied, undocumented children at the border, since none will be turned away...more will be encouraged to come. This is what...
+title: 'They’re collecting unaccompanied, undocumented children at the border, since none will be turned away...more will be encouraged to come. This is what...'
 categories: 
     - 社交媒体
     - Gab - 熱門

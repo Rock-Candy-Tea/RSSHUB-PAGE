@@ -1,6 +1,6 @@
 
 ---
-title: 使用Ghidra P-Code进行辅助逆向分析
+title: '使用Ghidra P-Code进行辅助逆向分析'
 categories: 
     - 编程
     - 平安银河实验室 - posts

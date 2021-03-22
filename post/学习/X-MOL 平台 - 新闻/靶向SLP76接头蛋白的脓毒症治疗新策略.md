@@ -1,6 +1,6 @@
 
 ---
-title: 靶向SLP76接头蛋白的脓毒症治疗新策略
+title: '靶向SLP76接头蛋白的脓毒症治疗新策略'
 categories: 
     - 学习
     - X-MOL 平台 - 新闻

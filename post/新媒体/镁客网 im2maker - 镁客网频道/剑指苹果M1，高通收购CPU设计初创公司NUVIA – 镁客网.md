@@ -1,12 +1,12 @@
 
 ---
-title: 剑指苹果M1，高通收购CPU设计初创公司NUVIA – 镁客网
+title: '剑指苹果M1，高通收购CPU设计初创公司NUVIA – 镁客网'
 categories: 
     - 新媒体
     - 镁客网 im2maker - 镁客网频道
 author: 镁客网 im2maker - 镁客网频道
 comments: false
-date: 2021-03-22 03:16:27
+date: 2021-03-22 03:44:24
 thumbnail: 'https://oss-im2maker.oss-cn-hangzhou.aliyuncs.com/uploadfile/2021/03/20210317164932085.jpeg'
 ---
 

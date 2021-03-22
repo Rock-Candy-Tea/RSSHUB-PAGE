@@ -1,6 +1,6 @@
 
 ---
-title: Linux Looks To Finally Remove Its Legacy IDE Driver Support
+title: 'Linux Looks To Finally Remove Its Legacy IDE Driver Support'
 categories: 
     - 传统媒体
     - Phoronix - 新闻与评测

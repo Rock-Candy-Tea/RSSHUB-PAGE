@@ -1,12 +1,12 @@
 
 ---
-title: _General_&nbsp;SIE 與新電競公司 RTS 宣布聯手收購全球最大規模格鬥遊戲賽事 EVO
+title: '_General_&nbsp;SIE 與新電競公司 RTS 宣布聯手收購全球最大規模格鬥遊戲賽事 EVO'
 categories: 
     - 游戏
     - 巴哈姆特 - GNN 新聞
 author: 巴哈姆特 - GNN 新聞
 comments: false
-date: 2021-03-22 03:19:46
+date: 2021-03-22 03:46:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/489a59b08da02b490e809a276e1buag5.JPG?v=1616136012084'
 ---
 

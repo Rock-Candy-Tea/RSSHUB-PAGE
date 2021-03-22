@@ -1,6 +1,6 @@
 
 ---
-title: 双倍 GTA 游戏币、竞技场积分及经验值尽在所有竞技场之战模式
+title: '双倍 GTA 游戏币、竞技场积分及经验值尽在所有竞技场之战模式'
 categories: 
     - 游戏
     - Rockstar Games Social Club - 在线活动

@@ -1,6 +1,6 @@
 
 ---
-title: FDP warnt vor härterem Coronakurs
+title: 'FDP warnt vor härterem Coronakurs'
 categories: 
     - 新媒体
     - Krankenkassen 德国新闻社卫健新闻 - dpa news

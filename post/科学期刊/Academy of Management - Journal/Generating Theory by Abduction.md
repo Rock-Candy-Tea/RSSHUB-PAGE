@@ -1,6 +1,6 @@
 
 ---
-title: Generating Theory by Abduction
+title: 'Generating Theory by Abduction'
 categories: 
     - 科学期刊
     - Academy of Management - Journal

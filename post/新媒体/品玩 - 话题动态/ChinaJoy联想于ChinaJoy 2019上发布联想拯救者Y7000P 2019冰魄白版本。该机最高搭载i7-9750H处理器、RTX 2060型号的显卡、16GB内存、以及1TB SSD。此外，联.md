@@ -1,11 +1,11 @@
 
 ---
-title: ChinaJoy
+title: 'ChinaJoy
 
 
 
 联想于ChinaJoy 2019上发布联想拯救者Y7000P 2019冰魄白版本。该机最高搭载i7-9750H处理器、RTX 2060型号的显卡、16GB内存、以及1TB SSD。
-此外，联...
+此外，联...'
 categories: 
     - 新媒体
     - 品玩 - 话题动态

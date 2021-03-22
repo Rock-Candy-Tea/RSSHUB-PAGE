@@ -1,6 +1,6 @@
 
 ---
-title: Introducing the DeepL API
+title: 'Introducing the DeepL API'
 categories: 
     - 新媒体
     - DeepL - Blog

@@ -1,6 +1,6 @@
 
 ---
-title: 反抗压迫的米too运动
+title: '反抗压迫的米too运动'
 categories: 
     - 新媒体
     - 无产者评论 - 标签

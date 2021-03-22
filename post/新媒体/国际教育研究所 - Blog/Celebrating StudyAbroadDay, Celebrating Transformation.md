@@ -1,6 +1,6 @@
 
 ---
-title: Celebrating #StudyAbroadDay, Celebrating Transformation
+title: 'Celebrating #StudyAbroadDay, Celebrating Transformation'
 categories: 
     - 新媒体
     - 国际教育研究所 - Blog

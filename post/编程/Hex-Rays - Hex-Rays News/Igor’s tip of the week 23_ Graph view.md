@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #23_ Graph view
+title: 'Igor’s tip of the week #23_ Graph view'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

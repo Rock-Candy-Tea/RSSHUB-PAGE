@@ -1,6 +1,6 @@
 
 ---
-title: Igor’s tip of the week #29_ Color up your IDA
+title: 'Igor’s tip of the week #29_ Color up your IDA'
 categories: 
     - 编程
     - Hex-Rays - Hex-Rays News

@@ -1,6 +1,6 @@
 
 ---
-title: Gab's Statement On President Trump Building His Own Social Networkhttps___news.gab.com_2021_03_21_gab-com-statement-on-trump-building-his-own-social-n...
+title: 'Gab's Statement On President Trump Building His Own Social Networkhttps___news.gab.com_2021_03_21_gab-com-statement-on-trump-building-his-own-social-n...'
 categories: 
     - 社交媒体
     - Gab - 熱門

@@ -1,6 +1,6 @@
 
 ---
-title: Neurology：血管周围空间可有效反映帕金森的运动障碍
+title: 'Neurology：血管周围空间可有效反映帕金森的运动障碍'
 categories: 
     - 新媒体
     - 梅斯医学 MedSci - 推荐
