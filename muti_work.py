@@ -255,6 +255,10 @@ def main():
     concurrent = 10
     conparse = 10
     try:
+        os.makedirs('sourc')
+    except Exception as e:
+        print('已存在post目录')
+    try:
         os.makedirs('source/_posts')
     except Exception as e:
         print('已存在post目录')
