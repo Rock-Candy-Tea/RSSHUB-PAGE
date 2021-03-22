@@ -1,0 +1,16 @@
+
+---
+title: 進擊的 BERT：NLP 界的巨人之力與遷移學習
+categories: 
+    - 博客
+    - LeeMeng - blog
+author: LeeMeng - blog
+comments: false
+date: 2021-03-22 03:19:20
+thumbnail: ''
+---
+
+<div>   
+進擊的 BERT：NLP 界的巨人之力與遷移學習  
+</div>
+            

@@ -1,0 +1,16 @@
+
+---
+title: Imaging Anatomy of the Human Brain by Neil M. Borden (.ePUB)NightKingNightKing
+categories: 
+    - 阅读
+    - Mobilism - eBook Releases
+author: Mobilism - eBook Releases
+comments: false
+date: 2021-03-22 03:21:08
+thumbnail: 'https://images.mobilism.org/?dm=H9JSL0T0'
+---
+
+<div>   
+<span style="font-weight: bold">Imaging Anatomy of the Human Brain: A Comprehensive Atlas Including Adjacent Structures by Neil M. Borden, Cristian Stefan, Scott E. Forseen</span><br><span style="text-decoration: underline">Requirements:</span> .ePUB reader, 133 MB<br><span style="text-decoration: underline">Overview:</span> An Atlas for the 21st Century<br>The most precise, cutting-edge images of normal cerebral anatomy available today are the centerpiece of this spectacular atlas for clinicians, trainees, and students in the neurologically-based medical and non-medical specialties. Truly an "atlas for the 21st century," this comprehensive visual reference presents a detailed overview of cerebral anatomy acquired through the use of multiple imaging modalities including advanced techniques that allow visualization of structures not possible with conventional MRI or CT. Beautiful color illustrations using 3-D modeling techniques based upon 3D MR volume data sets further enhances understanding of cerebral anatomy and spatial relationships. The anatomy in these color illustrations mirror the black and white anatomic MR images presented in this atlas.<br><br>Written by two neuroradiologists and an anatomist who are also prominent educators, along with more than a dozen contributors, the atlas begins with a brief introduction to the development, organization, and function of the human brain. What follows is more than 1,000 meticulously presented and labelled images acquired with the full complement of standard and advanced modalities currently used to visualize the human brain and adjacent structures, including MRI, CT, diffusion tensor imaging (DTI) with tractography, functional MRI, CTA, CTV, MRA, MRV, conventional 2-D catheter angiography, 3-D rotational catheter angiography, MR spectroscopy, and ultrasound of the neonatal brain. The vast array of data that these modes of imaging provide offers a wider window into the brain and allows the reader a unique way to integrate the complex anatomy presented. Ultimately the improved understanding you can acquire using this atlas can enhance clinical understanding and have a positive impact on patient care. Additionally, various anatomic structures can be viewed from modality to modality and from multiple planes.<br><span style="font-weight: bold">Genre:</span> Non-Fiction > Health, Fitness & Self-help <br><br><img src="https://images.mobilism.org/?dm=H9JSL0T0" alt="Image" referrerpolicy="no-referrer"><br><br><span style="text-decoration: underline">Download Instructions:</span><br><a class="postlink" href="https://userupload.net/zygn8f6v8anf">https://userupload.net/zygn8f6v8anf</a><br><a class="postlink" href="https://dropgalaxy.in/uegggb73zfzs">https://dropgalaxy.in/uegggb73zfzs</a><br><br>Trouble downloading? Read <a href="https://forum.mobilism.org/viewtopic.php?f=19&t=649944" class="postlink"><span style="font-weight: bold">This</span></a>.  
+</div>
+            
