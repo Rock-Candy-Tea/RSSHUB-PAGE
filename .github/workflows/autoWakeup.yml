@@ -40,11 +40,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: 安装 Node
-        uses: actions/setup-node@v1
-        with:
+      uses: actions/setup-node@v1
+      with:
           node-version: "12.x"
     - name: Install Hexo
-        run: |
+      run: |
           export TZ='Asia/Shanghai'
           npm install hexo-cli gulp-cli -g
     - name: Set SSH Key
