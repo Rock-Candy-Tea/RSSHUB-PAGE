@@ -8,7 +8,7 @@ categories:
 
 author: Hacker News
 comments: false
-date: 2021-03-22 18:33:53
+date: 2021-03-22 18:40:16
 thumbnail: ''
 ---
 

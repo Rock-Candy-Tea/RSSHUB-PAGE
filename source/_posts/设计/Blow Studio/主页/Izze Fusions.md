@@ -8,7 +8,7 @@ categories:
 
 author: Blow Studio
 comments: false
-date: 2021-03-22 18:34:59
+date: 2021-03-22 18:41:23
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2018/07/izze-01.jpg'
 ---
 

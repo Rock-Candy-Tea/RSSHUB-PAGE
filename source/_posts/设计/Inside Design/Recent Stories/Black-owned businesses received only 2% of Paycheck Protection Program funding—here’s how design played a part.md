@@ -8,7 +8,7 @@ categories:
 
 author: Inside Design
 comments: false
-date: 2021-03-22 18:35:00
+date: 2021-03-22 18:41:25
 thumbnail: 'https://www.invisionapp.com/inside-design/paycheck-protection-program-black-history-month-design/'
 ---
 

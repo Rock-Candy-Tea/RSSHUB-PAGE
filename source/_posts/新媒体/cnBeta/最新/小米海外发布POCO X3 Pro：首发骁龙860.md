@@ -1,0 +1,19 @@
+
+---
+title: '小米海外发布POCO X3 Pro：首发骁龙860'
+categories: 
+    - 新媒体
+    - cnBeta
+    - 最新
+
+author: cnBeta
+comments: false
+date: Mon, 22 Mar 2021 17:20:35 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0323/44c4bc5f6996f39.jpg'
+---
+
+<div>   
+小米海外品牌POCO刚刚发布了两款新机。其中，<strong>POCO F3就是国内的Redmi K40，POCO X3 Pro则全球首发了高通骁龙860。</strong>在此之前，POCO X3曾首发骁龙732G。<br>
+ <p><a href="https://img1.mydrivers.com/img/20210323/cc72d12d7c8e4926bb09986382e1e9e1.jpg" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0323/44c4bc5f6996f39.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0323/44c4bc5f6996f39.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0323/44c4bc5f6996f39.jpg" referrerpolicy="no-referrer"></a></p><p>骁龙860其实就是<strong>骁龙855 Plus的改良升级版</strong>，7nm制造工艺，集成八个Kryo 485 CPU核心，<strong>频率最高2.96GHz</strong>，同时集成Adreno 640 GPU，号称对比骁龙732G CPU性能领先71％，GPU性能领先145％，AI性能领先192％，安兔兔跑分高出45％。</p><p>POCO X3 Pro还为其配备了<strong>液冷散热1.0 Plus</strong>，搭配多层石墨烯、D5纯铜热管，<strong>可将温度降低最多6℃。</strong></p><p>当然，它仅支持4G。</p><p><a href="https://img1.mydrivers.com/img/20210323/855011083378471cb12bda1663072425.png" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0323/6f49652684ece30.png"><img data-original="https://static.cnbetacdn.com/article/2021/0323/6f49652684ece30.png" src="https://static.cnbetacdn.com/thumb/article/2021/0323/6f49652684ece30.png" referrerpolicy="no-referrer"></a></p><p>该机正面是居中挖孔全面屏，背部横向三段式纹理设计，黑、银、蓝三色，厚度9.4mm，重量215g，侧面指纹识别。</p><p><strong>6.67英寸屏幕， 分辨率2400×1080，刷新率120Hz(可动态切换50/60/60Hz)，触控采样率240Hz</strong>，典型亮度450nits，覆盖康宁大猩猩玻璃6。</p><p><a href="https://img1.mydrivers.com/img/20210323/bd488e43e7a94a3e8d8872c1abe25c14.png" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0323/118a8e326d45a80.png"><img data-original="https://static.cnbetacdn.com/article/2021/0323/118a8e326d45a80.png" src="https://static.cnbetacdn.com/thumb/article/2021/0323/118a8e326d45a80.png" referrerpolicy="no-referrer"></a></p><p>后置四摄，一是<strong>4800万像素主摄</strong>，1/2英寸传感器，支持四合一像素，光圈F1.9；二是<strong>800万像素超广角镜头</strong>，角度119度，光圈F2.2；三是<strong>200万像素微距镜头</strong>，光圈F2.4，微距4厘米；四是<strong>200万像素景深镜头</strong>，光圈F2.4。支持<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>30fps视频录制。</p><p>自拍镜头则是2000万像素，光圈F2.2，支持四合一像素。</p><p><a href="https://img1.mydrivers.com/img/20210323/873cfc11ef8b409080c01a04c3b482d8.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0323/5c918fd3e21c9cb.png"><img data-original="https://static.cnbetacdn.com/article/2021/0323/5c918fd3e21c9cb.png" src="https://static.cnbetacdn.com/thumb/article/2021/0323/5c918fd3e21c9cb.png" referrerpolicy="no-referrer"></a></p><p>独特条形电池，容量达<strong>5160mAh</strong>，USB-C接口，<strong>支持MMT方案、33W快充</strong>，附送充电头，30分钟可充入59％，59分钟可充满。</p><p>其他还有6/8GB LPDDR4X内存、128/256GB UFS 3.1存储(可扩展)、全功能NFC、双频Wi-Fi 5、蓝牙5.0、GPS/北斗等导航、双扬声器、3.5mm耳机孔、IP53防水、红外遥控、Z轴线性马达。</p><p>价格方面，<strong>6GB+128GB 249欧元(约合人民币1930元)，8GB+256GB 299欧元(约合人民币2320元)。</strong></p><p><a href="https://img1.mydrivers.com/img/20210323/cc6617dec864496dac63862eb37158ce.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0323/3c08fa551a0597a.png"><img data-original="https://static.cnbetacdn.com/article/2021/0323/3c08fa551a0597a.png" src="https://static.cnbetacdn.com/thumb/article/2021/0323/3c08fa551a0597a.png" referrerpolicy="no-referrer"></a></p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1105007.htm" target="_blank">高通骁龙860正式发布 可被看做超频版骁龙855</a></p></div>   
+</div>
+            
