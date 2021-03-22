@@ -1,0 +1,5 @@
+diy:
+  - source_child: '自定义测试'
+    source_parent: '自定义测试'
+    link: '/one'
+    categories: '自定义测试'

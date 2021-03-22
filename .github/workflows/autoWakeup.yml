@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
     - name: Delete Post Dir  #删除post目录
       run: | 
-        rm -rf post
+        rm -rf /source/_posts
     - name: Update RSS #更新
       run: | 
         python muti_work.py
@@ -39,3 +39,40 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: 安装 Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+    - name: Install Hexo
+        run: |
+          export TZ='Asia/Shanghai'
+          npm install hexo-cli gulp-cli -g
+    - name: Set SSH Key
+      env:
+        HEXO_DEPLOY_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_PRIVATE_KEY }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$HEXO_DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+    - name: Cache Hexo
+      uses: actions/cache@v1
+      id: cache
+      with:
+        path: node_modules
+        key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+    - name: Install Npm Requirements
+      if: steps.cache.outputs.cache-hit != 'true'
+      run: |
+        npm install --save
+
+    - name: Hexo Generate
+      run: |
+        hexo g
+
+    - name: Deploy
+      run: |
+        git config --global user.name "Zfour"
+        git config --global user.email "499984532@qq.com"
+        hexo deploy
+

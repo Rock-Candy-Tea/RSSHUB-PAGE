@@ -8,8 +8,8 @@ import os
 import yaml
 
 
-def load_config():
-    f = open('config.yml', 'r', encoding='utf-8')
+def load_config(path):
+    f = open(path, 'r', encoding='utf-8')
     ystr = f.read()
     ymllist = yaml.load(ystr, Loader=yaml.FullLoader)
     return ymllist
@@ -54,7 +54,7 @@ def build_md():
                     print(line.replace('#', '').strip())
                     categories = line.replace('#', '').strip()
                     try:
-                        os.makedirs('post/' + categories)
+                        os.makedirs('/source/_posts/' + categories)
                     except Exception as e:
                         print('已存在目录', categories)
                     sorce_parent = ''
@@ -63,14 +63,14 @@ def build_md():
                     print(line.replace('#', '').strip())
                     sorce_parent = line.replace('#', '').strip()
                     try:
-                        os.makedirs('post/' + categories + '/' + sorce_parent)
+                        os.makedirs('/source/_posts/' + categories + '/' + sorce_parent)
                     except Exception as e:
                         print('已存在目录', sorce_parent)
                 if line[0:3].count('#') == 3:
                     print(line.replace('#', '').strip())
                     sorce_child = line.replace('#', '').strip()
                     try:
-                        os.makedirs('post/' + categories + '/' + sorce_parent + '/' + sorce_child)
+                        os.makedirs('/source/_posts/' + categories + '/' + sorce_parent + '/' + sorce_child)
                     except Exception as e:
                         print('已存在目录', sorce_child)
                 if '<Route ' in line:
@@ -95,10 +95,14 @@ def build_md():
                         source_list.append(item)
 
     list_slect = []
-    config_list = load_config()
+    config_list = load_config('temple/temple_config.yml')
     for item in source_list:
         if item['link'] in config_list['slect']:
             list_slect.append(item)
+    user_config_list = load_config('user_config.yml')
+    for item in user_config_list['diy']:
+        list_slect.append(item)
+
     print(list_slect)
     print(len(list_slect))
     return list_slect
@@ -251,7 +255,7 @@ def main():
     concurrent = 10
     conparse = 10
     try:
-        os.makedirs('post')
+        os.makedirs('/source/_posts')
     except Exception as e:
         print('已存在post目录')
     # 获取rss列表
