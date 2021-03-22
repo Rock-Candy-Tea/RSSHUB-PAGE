@@ -6,7 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "serve" : "node --max_old_space_size=4096"
   },
   "hexo": {
     "version": "5.4.0"
