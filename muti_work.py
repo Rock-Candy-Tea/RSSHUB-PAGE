@@ -4,15 +4,16 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import re
-import json
 import os
 import yaml
+
 
 def load_config():
     f = open('config.yml', 'r', encoding='utf-8')
     ystr = f.read()
     ymllist = yaml.load(ystr, Loader=yaml.FullLoader)
     return ymllist
+
 
 def listdir(path, list_name):  # 传入存储的list
     for file in os.listdir(path):
@@ -21,6 +22,7 @@ def listdir(path, list_name):  # 传入存储的list
             listdir(file_path, list_name)
         else:
             list_name.append(file_path)
+
 
 def get_data(link):
     try:
@@ -35,6 +37,7 @@ def get_data(link):
         result = ''
     return result
 
+
 def build_md():
     source_list = []
     list_name = []
@@ -43,49 +46,55 @@ def build_md():
     print(list_name)
     for i in list_name:
         with open(i, mode='r', encoding='utf-8') as f:
-            sorce_base = ''
-            sorce_all = ''
+            sorce_parent = ''
+            sorce_child = ''
             categories = ''
             for line in f.readlines():
                 if line[0:3].count('#') == 1:
                     print(line.replace('#', '').strip())
                     categories = line.replace('#', '').strip()
                     try:
-                        os.makedirs('post/'+categories)
+                        os.makedirs('post/' + categories)
                     except Exception as e:
-                        print('已存在目录',categories)
-                    sorce_base = ''
-                    sorce_all = ''
+                        print('已存在目录', categories)
+                    sorce_parent = ''
+                    sorce_child = ''
                 if line[0:3].count('#') == 2:
                     print(line.replace('#', '').strip())
-                    sorce_base = line.replace('#', '').strip()
+                    sorce_parent = line.replace('#', '').strip()
+                    try:
+                        os.makedirs('post/' + categories + '/' + sorce_parent)
+                    except Exception as e:
+                        print('已存在目录', sorce_parent)
                 if line[0:3].count('#') == 3:
                     print(line.replace('#', '').strip())
-                    sorce_all = sorce_base + ' - ' + line.replace('#', '').strip()
+                    sorce_child = line.replace('#', '').strip()
                     try:
-                        os.makedirs('post/'+categories+'/'+sorce_all)
+                        os.makedirs('post/' + categories + '/' + sorce_parent + '/' + sorce_child)
                     except Exception as e:
-                        print('已存在目录',sorce_all)
+                        print('已存在目录', sorce_child)
                 if '<Route ' in line:
                     try:
                         text = BeautifulSoup(line, 'html.parser')
                         print(text.route['example'])
-                        item = {"source": sorce_all,
-                            "link": text.route['example'],
-                            "categories": categories,
-                            }
+                        item = {"source_child": sorce_child,
+                                "source_parent": sorce_parent,
+                                "link": text.route['example'],
+                                "categories": categories,
+                                }
                         source_list.append(item)
                     except:
                         line = line + '>'
                         text = BeautifulSoup(line, 'html.parser')
                         print(text.route['example'])
-                        item = {"source": sorce_all,
+                        item = {"source_child": sorce_child,
+                                "source_parent": sorce_parent,
                                 "link": text.route['example'],
                                 "categories": categories,
                                 }
                         source_list.append(item)
 
-    list_slect =[]
+    list_slect = []
     config_list = load_config()
     for item in source_list:
         if item['link'] in config_list['slect']:
@@ -111,9 +120,11 @@ def get_data(link):
         result = ''
     return result
 
+
 def get_post(source, result, categories):
     soup = BeautifulSoup(result, 'html.parser')
-    author = source
+    author_name = source['source_parent']
+    author_child = source['source_child']
     for i in soup.find_all('item')[0:20]:
         title = ''
         text = ''
@@ -138,18 +149,21 @@ def get_post(source, result, categories):
             if pubdate == '' and (child.name == 'lastbuilddate'):
                 pubdate = child.string
             title = re.sub(r'[:/\\?*“”<>|\[\]]', '_', title)
-           
 
         try:
-            with open('post/' + categories +'/'+ author +'/'+ title.replace('\n', '').replace('#', '').replace('.', '') + '.md', mode='w',
+            with open('post/' + categories + '/' + author_name + '/' + author_child + '/' + title.replace('\n', '').replace('#', '').replace('.',
+                                                                                                                   '') + '.md',
+                      mode='w',
                       encoding='utf-8') as f:
                 md_content = '''
 ---
 title: {title}
 categories: 
     - {categories}
-    - {author}
-author: {author}
+    - {author_name}
+    - {author_child}
+
+author: {author_name}
 comments: false
 date: {date}
 thumbnail: '{img}'
@@ -160,12 +174,13 @@ thumbnail: '{img}'
 </div>
             '''
                 if "'" in title:
-                    title = '"' + title +'"'
+                    title = '"' + title + '"'
                 else:
-                    title = "'" + title +"'"
-                md_content = md_content.format(title=title, categories=categories, author=author, date=pubdate,text=text, img=img)
-                md_content = md_content.replace('{','&#123;')
-                md_content = md_content.replace('}','&#125;')
+                    title = "'" + title + "'"
+                md_content = md_content.format(title=title, categories=categories, author_child=author_child,author_name=author_name, date=pubdate,
+                                               text=text, img=img)
+                md_content = md_content.replace('{', '&#123;')
+                md_content = md_content.replace('}', '&#125;')
                 print('发布时间：', pubdate)
                 print('标题：', title)
                 print('描述：', '已获取内容')
@@ -210,7 +225,8 @@ class Parse(threading.Thread):
 
     # 页面解析函数
     def parse(self, data):
-        get_post(data[0]['source'], data[1], data[0]['categories'])
+        get_post(data[0], data[1], data[0]['categories'])
+
 
 # 采集线程类
 class Crawl(threading.Thread):
@@ -220,17 +236,16 @@ class Crawl(threading.Thread):
         self.req_list = req_list
         self.data_list = data_list
 
-
-
     def run(self):
         print('启动采集线程%d号' % self.number)
         while self.req_list.qsize() > 0:
             url = self.req_list.get()
-            requests_url = 'https://rsshub.zfe.space'+url['link']
+            requests_url = 'https://rsshub.zfe.space' + url['link']
             print('%d号线程采集：%s' % (self.number, url))
             # time.sleep(random.randint(1, 3))
             response = get_data(requests_url)
-            self.data_list.put([url,response])  # 向数据队列里追加
+            self.data_list.put([url, response])  # 向数据队列里追加
+
 
 def main():
     concurrent = 10
@@ -254,7 +269,6 @@ def main():
     for item in link_list:
         req_list.put(item)
 
-
     # 生成N个采集线程
     req_thread = []
     for i in range(concurrent):
@@ -273,6 +287,7 @@ def main():
         t.join()
     for t in parse_thread:
         t.join()
+
 
 if __name__ == '__main__':
     main()
