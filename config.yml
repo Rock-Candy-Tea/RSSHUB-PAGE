@@ -1,0 +1,3579 @@
+slect:
+#二次元
+#--------------------
+
+##005.tv
+###二次元资讯
+# - /005tv/zx/latest
+
+##1draw 深夜の真剣お絵描き 60 分一本勝負
+###投稿一览
+# - /1draw/
+
+##AcFun
+###番剧
+ - /acfun/bangumi/5022158
+###用户投稿
+# - /acfun/user/video/14450522
+
+##AGE 动漫
+###番剧详情
+# - /agefans/detail/20200035
+
+##Anime1
+###動畫
+# - /anime1/anime/2018年秋季/哥布林殺手
+###搜尋
+# - /anime1/search/兔女郎學姊
+
+##Animen 动漫平台
+###news
+ - /animen/news/zx
+
+##Anitama
+###Anitama Channel
+# - /anitama
+
+##Bangumi
+###放送列表
+ - /bangumi/calendar/today
+###条目的章节
+# - /bangumi/subject/240038
+###条目的吐槽箱
+# - /bangumi/subject/214265/comments?minLength=100
+###条目的评论
+# - /bangumi/subject/214265/blogs
+###条目的讨论
+# - /bangumi/subject/214265/topics
+###现实人物的新作品
+# - /bangumi/person/32943
+###小组话题的新回复
+# - /bangumi/topic/24657
+###小组话题
+# - /bangumi/group/boring
+###用户日志
+# - /bangumi/user/blog/sai
+
+##bilibili
+
+##DLsite
+###当前日期发售的新产品
+# - /dlsite/new/home
+###产品打折信息
+# - /dlsite/campaign/home
+
+##ebb.io
+###ebb
+# - /ebb
+
+##Eventernote
+###声优活动及演唱会
+ - /eventernote/actors/三森すずこ/2634
+
+##Hanime.tv
+###最近更新
+# - /hanime/video
+
+##Hpoi 手办维基
+###情报
+ - /hpoi/info/all
+###浏览周边
+# - /hpoi/charactar/1246512
+###用户动态
+# - /hpoi/user/116297/buy
+
+##say 花火
+###文章
+# - /sayhuahuo
+
+##Vol.moe
+###vol
+# - /vol/finish
+
+##Webtoons
+###漫画更新
+# - /webtoons/zh-hant/drama/gongzhuweimian/894
+###[Naver](https://comic.naver.com)
+# - /webtoons/naver/651673
+
+##嘀哩嘀哩 - dilidili
+###嘀哩嘀哩番剧更新
+# - /dilidili/fanju/onepunchman2
+
+##電撃オンライン
+###最新記事
+# - /dengekionline/dps
+
+##东方我乐多丛志
+###文章
+ - /touhougarakuta/cn/index
+
+##動畫瘋
+###最後更新
+# - /anigamer/new_anime
+###動畫
+# - /anigamer/anime/90003
+
+##咚漫
+###漫画更新
+# - /dongmanmanhua/COMEDY/xin-xinlingdeshengyin/381
+
+##動漫狂
+###漫画更新
+# - /cartoonmad/comic/5827
+
+##风之动漫
+###风之动漫
+# - /fzdm/manhua/39/2
+
+##海猫吧
+###漫画更新
+# - /haimaoba/4026
+
+##看漫画
+###漫画更新
+# - /manhuagui/comic/22942
+
+##漫画 DB
+###漫画 DB
+# - /manhuadb/comics/1711
+
+##漫画堆
+###漫画
+# - /manhuadui/manhua/yiquanchaoren/1
+
+##漫小肆
+###漫画更新
+# - /manxiaosi/book/90
+
+##三界异次元
+###三界异次元
+ - /3ycy/home
+
+##紳士漫畫
+###最新
+# - /ssmh
+###分类更新
+# - /ssmh/category/6
+
+##鼠绘漫画
+###鼠绘漫画
+# - /shuhui/comics/1
+
+##忧郁的 loli
+###文章
+# - /hhgal
+
+##终点分享
+###最新汉化
+# - /zdfx
+#博客
+#--------------------
+
+##archdaily
+###首页
+# - /archdaily
+
+##Benedict Evans
+# - /benedictevans
+
+##Google Sites
+###文章更新
+ - /google/sites/outlierseconomics
+
+##Gwern Branwen
+# - /gwern/newest
+
+##Hedwig.pub
+# - /blogs/hedwig/zmd
+
+##Hexo
+###Next 主题博客
+ - /hexo/next/diygod.me
+###Yilia 主题博客
+ - /hexo/yilia/cloudstone.xin
+
+##Hi, DIYgod
+###DIYgod 的动森日记
+ - /blogs/diygod/animal-crossing
+###DIYgod 的可爱的手办们
+ - /blogs/diygod/gk
+
+##JustRun
+###JustRun
+# - /justrun
+
+##LaTeX 开源小屋
+###首页
+ - /latexstudio/home
+
+##LeeMeng
+###blog
+ - /leemeng
+
+##Paul Graham 博客
+###Essays
+ - /blogs/paulgraham
+
+##Phrack Magazine
+###文章
+# - /phrack
+
+##WordPress
+# - /blogs/wordpress/lawrence.code.blog
+
+##阿里云系统组技术博客
+###首页
+ - /aliyun-kernel/index
+
+##财新博客
+###用户博客
+ - /caixin/blog/zhangwuchang
+
+##大侠阿木
+###首页
+ - /daxiaamu/home
+
+##建宁闲谈
+###文章
+ - /blogs/jianning
+
+##劍心．回憶
+###分类
+ - /kenshin
+
+##敬维博客
+###文章
+ - /blogs/jingwei.link
+
+##每日安全
+###推送
+ - /security/pulses
+
+##美团技术团队
+###最近更新
+ - /meituan/tech/home
+
+##王五四文集
+###文章
+# - /blogs/wang54
+
+##王垠博客
+###文章
+# - /blogs/wangyin
+#设计
+#--------------------
+
+##Axis Studios
+###Work type
+ - /axis-studios/work/full-service-cg-production
+
+##Behance
+###User Works
+# - /behance/mishapetrick
+
+##Blow Studio
+###主页
+ - /blow-studio
+
+##Blur Studio
+###Works
+ - /blur-studio
+
+##Digic Picture
+###作品和新闻
+ - /digic-pictures/works/real-time-engine
+
+##Dribbble
+###流行
+ - /dribbble/popular/week
+###用户（团队）
+ - /dribbble/user/google
+###关键词
+ - /dribbble/keyword/player
+
+##Inside Design
+###Recent Stories
+ - /invisionapp/inside-design
+
+##Method Studios
+###菜单
+ - /method-studios/games
+
+##Monotype
+###Featured Article
+ - /monotype/article
+
+##Notefolio
+###Works
+ - /notefolio
+
+##UI 中国
+###推荐文章
+ - /ui-cn/article
+###个人作品
+ - /ui-cn/user/85974
+
+##Unit Image
+###Films
+ - /unit-image/films/vfx
+
+##优设网
+###设计专题
+ - /uisdc/zt/design-history
+###细节猎人
+ - /uisdc/topic/all
+###设计话题
+ - /uisdc/talk
+###行业新闻
+ - /uisdc/hangye
+###优设读报
+ - /uisdc/news
+
+##站酷
+###推荐
+ - /zcool/recommend/all
+###作品总榜单
+ - /zcool/top/design
+###用户作品
+ - /zcool/user/baiyong
+###发现
+ - /zcool/discovery
+#金融
+#--------------------
+
+##CFD
+###每周股指派息调整 (GBP)
+ - /cfd/div_gbp
+
+##DT 财经
+###数据侠专栏
+ - /dtcj/datahero
+
+##finviz
+###美股股票新闻
+ - /finviz/news/AAPL
+
+##WEEX 华尔街见闻旗下全球投资线上品牌
+###资讯
+ - /weexcn/news/1
+
+##财联社
+###电报
+ - /cls/telegraph
+###深度
+ - /cls/depth/1000
+
+##富途牛牛
+###要闻
+ - /futunn/highlights
+
+##格隆汇
+###用户文章
+ - /gelonghui/user/5273
+###主题文章
+ - /gelonghui/subject/4
+###搜索关键字
+ - /gelonghui/keyword/早报
+
+##金十数据
+ - /jinshi/index
+
+##麦肯锡中国
+ - /mckinsey/autos
+
+##每经网
+###分类
+ - /nbd
+###重磅原创
+ - /nbd/daily
+
+##上海证券交易所
+###本所业务规则
+ - /sse/sserules
+
+##世界经济论坛
+###报告
+ - /weforum/report
+
+##淘股吧股票论坛
+###论坛总版
+ - /taoguba/index
+###用户博客
+ - /taoguba/user/252069
+
+##天天基金
+###用户动态
+ - /eastmoney/user/6551094298949188
+
+##新浪财经
+###新浪财经－国內
+ - /sina/finance
+
+##雪球
+###用户动态
+ - /xueqiu/user/8152922548
+###用户收藏动态
+ - /xueqiu/favorite/8152922548
+###用户自选动态
+ - /xueqiu/user_stock/1247347556
+###基金净值更新
+ - /xueqiu/fund/040008
+###组合最新调仓信息
+ - /xueqiu/p/ZH1288184
+###股票信息
+ - /xueqiu/stock_info/SZ000002
+
+##证券时报网
+###要闻
+ - /stcn/news
+###数据
+ - /stcn/data
+###快讯
+ - /stcn/kuaixun
+
+##中国人民银行
+###沟通交流
+ - /pbc/goutongjiaoliu
+###货币政策司公开市场交易公告
+ - /pbc/tradeAnnouncement
+
+##中证网
+###资讯
+ - /cs/news/zzkx
+#游戏
+#--------------------
+
+##3DMGame
+###新闻中心
+ - /3dm/news
+###游戏资讯
+ - /3dm/detroitbecomehuman/news
+
+##4Gamers 新闻
+###分类
+ - /4gamers/category/352
+###标签
+ - /4gamers/tag/英雄聯盟
+###主題
+ - /4gamers/topic/gentlemen-topic
+
+##a9vgNews 游戏新闻
+###a9vgNews 游戏新闻
+ - /a9vg/a9vg
+
+##Blizzard
+###News
+# - /blizzard/news
+
+##dekudeals
+###分类
+# - /dekudeals/most-wanted
+
+##Epic Games Store
+###免费游戏
+ - /epicgames/freegames
+
+##Fate Grand Order
+###News
+# - /fgo/news
+
+##GameRes 游资网
+###热点推荐
+ - /gameres/hot
+###列表
+ - /gameres/list/26
+
+##GNN.tw 游戏新闻
+###GNN.tw 游戏新闻
+ - /gnn/gnn
+
+##Indienova
+###indienova 文章
+ - /indienova/article
+
+##Konami
+###PES Mobile 公告
+# - /konami/pesmobile/zh-cn/ios
+
+##Liquipedia
+###Dota2 战队最近比赛结果
+# - /liquipedia/dota2/matches/Team_Aster
+
+##Maxjia News
+###Dota 2
+# - /maxnews/dota2
+
+##Metacritic
+###新游发行
+ - /metacritic/release/switch/coming
+
+##Minecraft
+###Java 版游戏更新
+# - /minecraft/version
+###CurseForge Mod 更新
+# - /curseforge/files/jei
+###Feed The Beast (FTB) 模组包更新
+# - /feed-the-beast/modpack/ftb_presents_direwolf20_1_16
+
+##Nintendo
+###eShop 新发售游戏
+ - /nintendo/eshop/hk
+###首页资讯（香港）
+# - /nintendo/news
+###首页资讯（中国）
+# - /nintendo/news/china
+###直面会
+# - /nintendo/direct
+###Switch 本体更新情报（日本）
+# - /nintendo/system-update
+
+##PlayStation
+###PlayStation Store 游戏列表
+# - /ps/list/STORE-MSF86012-PLUS_FTT_CONTENT
+###PlayStation Store 游戏折扣 | 价格
+# - /ps/product/UP9000-CUSA00552_00-THELASTOFUS00000
+###PlayStation Network 用户奖杯
+# - /ps/trophy/DIYgod_
+###PlayStation 4 系统更新纪录
+# - /ps/ps4updates/
+
+##psnine
+###首页 - 白金攻略 / 游戏开箱
+ - /psnine/index
+###节点
+# - /psnine/node/news
+###数折 - 折扣信息推送
+ - /psnine/shuzhe
+###闲游 - 二手盘信息
+# - /psnine/trade
+###游戏 - 新游戏奖杯信息
+# - /psnine/game
+
+##Rockstar Games Social Club
+###在线活动
+# - /socialclub/events/GTAV
+
+##ScoreSaber
+###用户动态
+# - /scoresaber/user/76561198400378578
+
+##Steam
+###Steam search
+# - /steam/search/specials=1&term=atelier
+###Steam news
+# - /steam/news/1091500/schinese
+
+##SteamGifts
+###Discussions
+# - /steamgifts/discussions
+
+##TapTap
+###游戏论坛
+ - /taptap/topic/142793/official
+###游戏更新
+# - /taptap/changelog/142793
+###游戏评价
+# - /taptap/review/142793/hot
+
+##巴哈姆特
+###GNN 新聞
+ - /gamer/gnn/1
+
+##触乐
+ - /chuapp/index/daily
+
+##二柄 APP
+###新闻
+ - /erbingapp/news
+
+##公主链接
+###日服公告
+# - /pcr/news
+###台服公告
+# - /pcr/news-tw
+###国服公告
+# - /pcr/news-cn
+
+##怪物猎人世界
+###更新情报
+# - /mhw/update
+###最新消息
+# - /mhw/news
+
+##剑网 3
+###新闻资讯
+# - /jx3
+
+##旅法师营地
+###旅法师营地
+# - /lfsyd/1
+
+##米哈游
+###崩坏 2 - 游戏公告
+# - /mihoyo/bh2/gach
+###崩坏 3 - 游戏公告
+# - /mihoyo/bh3/latest
+
+##明日方舟
+###游戏公告与新闻
+# - /arknights/news
+
+##奶牛关
+###元素文章
+ - /cowlevel/element/1370
+
+##少女前线
+###新闻
+# - /gf-cn/news
+
+##网易大神
+###用户发帖
+# - /netease/ds/63dfbaf4117741daaf73404601165843
+
+##王者荣耀
+###新闻中心
+# - /tencent/pvp/newsindex/all
+
+##小黑盒
+###用户动态
+ - /xiaoheihe/user/7775687
+###游戏新闻
+ - /xiaoheihe/news
+###游戏折扣信息
+ - /xiaoheihe/discount/pc
+
+##英雄联盟
+###新闻中心
+# - /lol/newsindex/all
+
+##游民星空
+###游民星空今日推荐
+ - /gamersky/news
+###游民娱乐
+ - /gamersky/ent/ymfl
+
+##游戏打折情报
+###游戏折扣
+ - /yxdzqb/hot_chinese
+
+##游戏动力
+###游戏资讯
+ - /vgn
+
+##游戏时光
+###游戏时光新闻
+ - /vgtime/news
+###游戏时光游戏发售表
+ - /vgtime/release
+###关键词资讯
+# - /vgtime/keyword/怪物猎人
+
+##游讯网
+###精彩推荐
+ - /yxdown/recommend
+
+##游研社
+###游研社 - 分类文章
+ - /yystv/category/recommend
+###游研社 - 全部文章
+ - /yystv/docs
+
+##原神
+###新闻
+# - /yuanshen
+
+##掌上英雄联盟
+###推荐
+# - /lolapp/recommend
+
+##最终幻想 14
+###最终幻想 14 国服
+# - /ff14/ff14_zh/news
+###最终幻想 14 国际服 （Lodestone）
+# - /ff14/ff14_global/na/all
+
+##きららファンタジア｜奇拉拉幻想曲
+###公告
+# - /kirara/news
+
+##マギアレコード（Magia Record, 魔法纪录）
+###游戏公告
+# - /magireco/announcements
+###游戏横幅
+# - /magireco/event_banner
+#科学期刊
+#--------------------
+
+##Academy of Management
+###Journal
+# - /aom/journal/amr
+
+##arXiv
+###搜索关键字
+# - /arxiv/search_query=all:electron&start=0&max_results=10
+
+##BioOne
+###Featured articles
+# - /bioone/featured
+
+##Cell
+###主刊
+# - /cell/cell/current
+###封面故事
+# - /cell/cover
+
+##Deloitte
+# - /deloitte/industries/consumer
+
+##elife
+###最新成果
+# - /elife/cell-biology
+
+##IEEE Xplore
+###作者
+# - /ieee/author/37283006000/newest/10
+
+##Nature 系列
+###最新成果
+# - /nature/research/ng
+###新闻及评论
+# - /nature/news-and-comment/ng
+###封面故事
+# - /nature/cover
+###主刊 - 新闻动态
+# - /nature/news
+###主刊 - 精彩研究
+# - /nature/highlight
+
+##PNAS
+###最新文章（可筛选领域）
+# - /pnas/Applied Mathematics
+
+##PubMed
+###热门文章
+# - /pubmed/trending
+
+##Science 系列
+###本期刊物
+# - /sciencemag/current/science
+###封面故事
+# - /sciencemag/cover
+###主刊 - 在线发表
+# - /sciencemag/early/science
+
+##Stork 文献鸟订阅
+###关键词
+# - /stork/keyword/409159/R4j3Hbn5ia
+
+##X-MOL 平台
+###期刊
+# - /x-mol/paper/0/9
+
+##谷歌学术
+###关键词更新
+# - /google/scholar/data+visualization
+###作者引用更新
+# - /google/citations/mlmE4JMAAAAJ
+#音视频
+#--------------------
+
+##141JAV
+###141JAV BT
+# - /141jav/popular/30
+
+##141PPV
+###141PPV BT
+# - /141ppv/popular/30
+
+##2048 核基地
+###论坛更新
+# - /2048/bbs/16
+
+##60-Second Science - Scientific American
+# - /60s-science
+
+##99% Invisible
+###Transcript
+# - /99percentinvisible/transcript
+
+##AcFun
+
+##AGE 动漫
+
+##AV01（av01.tv）
+###演员
+# - /av01/actor/七沢みあ
+###分类
+# - /av01/tag/中出し
+
+##Avgle
+###视频列表
+# - /avgle/videos
+###视频搜索
+# - /avgle/search/橋本ありな
+
+##bilibili
+
+##BT 之家
+###最新种子
+# - /btzj/base
+
+##CNTV 栏目
+# - /cntv/TOPC1451528971114112
+
+##EZTV
+###Lookup Torrents by IMDB ID
+# - /eztv/torrents/6048596
+
+##Hentaimama
+###近期更新
+# - /hentaimama/videos
+
+##JavBus
+###首页
+# - /javbus/home
+###分类
+# - /javbus/genre/7g
+###演员
+# - /javbus/star/2jv
+###系列
+# - /javbus/series/44q
+###首页 / 步兵
+# - /javbus/uncensored/home
+###分类 / 步兵
+# - /javbus/uncensored/genre/1bc
+###演员 / 步兵
+# - /javbus/uncensored/star/b5b
+###系列 / 步兵
+# - /javbus/uncensored/series/1ft
+###首页 / 欧陆风云
+# - /javbus/western/home
+###分类 / 欧陆风云
+# - /javbus/western/genre/86
+###演员 / 欧陆风云
+# - /javbus/western/star/4hv
+###系列 / 欧陆风云
+# - /javbus/western/series/20
+
+##JavDB
+###主页
+# - /javdb/home
+###分類
+# - /javdb/tags/c2=5&c10=1
+###排行榜
+# - /javdb/rankings
+###搜索
+# - /javdb/search/巨乳
+###演員
+# - /javdb/actors/R2Vg
+###系列
+# - /javdb/series/1NW
+###片商
+# - /javdb/makers/7R
+
+##JavLibrary
+###影片
+# - /javlibrary/videos/bestrated
+###影星
+# - /javlibrary/stars/afisw
+###用户
+# - /javlibrary/users/mangudai/userposts
+###最佳评论
+# - /javlibrary/bestreviews
+
+##Last.fm
+###用户播放记录
+# - /lastfm/recent/yeFoenix
+###用户 Love 记录
+# - /lastfm/loved/yeFoenix
+###站内 Top 榜单
+# - /lastfm/top/spain
+
+##Mp4Ba
+###影视分类
+# - /mp4ba/6
+###影视搜索
+# - /mp4ba/复仇者联盟
+
+##MQube
+###全站最近更新
+# - /mqube/latest
+###全站每日排行
+# - /mqube/top
+###个人最近更新
+# - /mqube/user/mukamui_v_p
+###标签最近更新
+# - /mqube/tag/UTAU
+
+##NEW 字幕组
+###分类
+# - /newzmz
+###指定剧集
+# - /newzmz/view/qEzRyY3v
+
+##Nyaa
+###搜索结果
+# - /nyaa/search/psycho-pass
+
+##OneJAV
+###OneJAV BT
+# - /onejav/popular/30
+
+##PornHub
+###分类
+# - /pornhub/category/popular-with-women
+###搜索
+# - /pornhub/search/stepsister
+###用户
+# - /pornhub/users/pornhubmodels
+###素人（Verified amateur / Model）
+# - /pornhub/model/stacy-starando
+###色情明星（Verified model / Pornstar）
+# - /pornhub/pornstar/june-liu
+###视频列表
+# - /pornhub/category_url/video%3Fc%3D15%26o%3Dmv%26t%3Dw%26cc%3Djp
+
+##Prestige 蚊香社
+###系列作品
+# - /prestige-av/series/847
+
+##rs05 人生 05 电影
+###rs05 电影列表
+# - /rs05/rs05
+
+##Sankaku Complex
+###Post
+# - /sankakucomplex/post
+
+##sexinsex
+###分区帖子
+# - /sexinsex/230/634
+
+##SoundCloud
+###Tracks
+# - /soundcloud/tracks/angeart
+
+##subHD.tv - 最新字幕
+# - /subhd/newest
+
+##Trakt.tv
+###用户收藏
+# - /trakt/collection/tomyangsh/movies
+
+##Yahoo! テレビ
+###番組検索
+# - /yahoo-jp-tv/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C
+
+##YouTube
+
+##爱奇艺
+###用户视频
+# - /iqiyi/user/video/2289191062
+###动漫
+# - /iqiyi/dongman/a_19rrh1sifx
+
+##哔嘀影视
+###首页
+# - /bde4
+###资源分类
+###影视类型
+###制片地区
+###影视排序
+
+##播客 IBC 岩手放送｜ IBC ラジオ　イヤーマイッタマイッタ
+###IBC 岩手放送｜ IBC ラジオ　イヤーマイッタマイッタ
+# - /maitta
+
+##草榴社区
+###分区帖子
+# - /t66y/20/2
+###帖子跟踪
+# - /t66y/post/3286088
+
+##场库
+###今日精选
+ - /changku
+###分类
+ - /changku/cate/12
+
+##低端影视
+###影视剧集更新
+# - /ddrk/update/silicon-valley/6
+###首页
+ - /ddrk/index
+###分类
+# - /ddrk/category/jp-drama
+###标签
+# - /ddrk/tag/石原里美
+
+##电影首发站
+###电影
+ - /dysfz
+
+##电影天堂
+###新片精品
+# - /dytt
+
+##高清电台
+###最新电影
+# - /gaoqing/latest
+
+##故事 FM
+###首页
+ - /storyfm/index
+
+##开眼
+###每日精选
+ - /kaiyan/index
+
+##荔枝 FM
+###电台更新
+ - /lizhi/user/27151442948222380
+
+##猫耳 FM
+###广播剧 / 有声漫画
+ - /missevan/drama/28499
+###最新广播剧
+ - /missevan/drama/latest
+
+##猫眼电影
+###正在热映
+ - /maoyan/hot
+###即将上映
+ - /maoyan/upcoming
+
+##奈菲影视
+###分区
+# - /nfmovies/0
+
+##柠檬 私房歌 (ningmeng.name)
+###私房歌
+# - /ningmeng/song
+
+##片源网
+###最新资源
+# - /pianyuan
+
+##飘花电影网
+###今日热门
+# - /piaohua/hot
+
+##蜻蜓 FM
+###专辑
+ - /qingting/channel/293411
+
+##人人影视
+###评测推荐
+# - /rrys/review
+###今日更新
+# - /yyets/todayfilelist
+
+##色花堂中文论坛
+###分区帖子
+# - /dsndsht23/36/368
+
+##深影译站
+###首页
+ - /shinybbs
+###剧集类型
+# - /shinybbs/page/62
+###最新作品
+# - /shinybbs/latest
+###指定剧集
+# - /shinybbs/p/1790
+
+##腾讯视频
+###播放列表
+# - /tencentvideo/playlist/jx7g4sm320sqm7i
+
+##网易云音乐
+###歌单歌曲
+# - /ncm/playlist/35798529
+###用户歌单
+# - /ncm/user/playlist/45441555
+###歌手专辑
+# - /ncm/artist/2116
+###电台节目
+# - /ncm/djradio/347317067
+
+##西瓜视频
+###用户视频投稿
+# - /ixigua/user/video/4234740937
+
+##喜马拉雅
+###专辑（不输出 ShowNote）
+ - /ximalaya/album/299146
+###专辑（输出 ShowNote）
+# - /ximalaya/album/39488639/0/shownote
+
+##小宇宙
+###发现
+# - /xiaoyuzhou
+
+##优酷
+###频道
+# - /youku/channel/UNTg3MTM3OTcy
+
+##中国高清网
+###电影
+# - /gaoqingla
+
+##中国广播
+###电台节目
+# - /radio/2/520767
+
+##追新番日剧站
+###更新列表
+# - /zhuixinfan/list
+
+##字幕库
+###字幕列表
+# - /zimuku/mv
+
+##字幕组（ZiMuZu.tv）
+###影视
+# - /zimuzu/resource/37031
+###排行榜
+# - /zimuzu/top/week/movie
+#新媒体
+#--------------------
+
+##199IT
+###首页更新
+ - /199it
+###分类
+# - /199it/category/199itdata
+###标签
+# - /199it/tag/数据早报
+
+##36kr
+###资讯
+ - /36kr/news/latest
+###快讯
+ - /36kr/newsflashes
+###用户文章
+# - /36kr/user/747305693
+###主题文章
+# - /36kr/motif/452
+###搜索文章
+# - /36kr/search/article/ofo
+
+##9To5
+###9To5 分站
+ - /9to5/mac/aapl
+
+##AEON
+# - /aeon/ideas
+
+##Aljazeera 半岛网
+###新闻
+ - /aljazeera/news
+
+##ASML 阿斯麦
+###Press releases & announcements
+# - /asml/press-releases
+
+##Bell Labs
+###Event and News
+# - /bell-labs/events-news
+
+##BOF
+###首页
+ - /bof/home
+
+##cfan
+###新闻
+ - /cfan/news
+
+##CGTN
+###Opinions
+# - /cgtn/opinions
+###Most Read & Most Share
+# - /cgtn/most/read/day
+###Top News
+# - /cgtn/top
+###Editors' Pick
+# - /cgtn/pick
+
+##cnBeta
+###最新
+ - /cnbeta
+
+##Day One
+###Blog
+# - /dayone/blog
+
+##DeepL
+###Blog
+# - /deepl/blog
+
+##DeepMind
+###Blog
+ - /deepmind/blog
+
+##Deutsche Welle 德国之声
+# - /dw/zh
+
+##DoNews
+###栏目
+# - /donews
+
+##Engadget 瘾科技
+###中文全文
+# - /engadget-cn
+###多語言
+# - /engadget/chinese
+
+##Esquirehk
+###Tag
+# - /esquirehk/tag/Fashion
+
+##ezone.hk
+###分类
+# - /ezone
+
+##GQ
+###GQ 台湾
+# - /gq/tw/fashion
+
+##Grub Street
+###Posts
+# - /grubstreet
+
+##iDaily 每日环球视野
+###今日 Timeline
+ - /idaily/today
+
+##iDownloadBlog
+###blog
+# - /iDownloadBlog
+
+##InfoQ 中文
+###推荐
+# - /infoq/recommend
+###话题
+# - /infoq/topic/1
+
+##IT 之家
+###分类资讯
+ - /ithome/it
+###热榜
+ - /ithome/ranking/24h
+
+##IT 桔子
+###投融资事件
+ - /itjuzi/invest
+###并购事件
+ - /itjuzi/merge
+
+##Kotaku
+###Story
+# - /kotaku/story/news
+
+##Krankenkassen 德国新闻社卫健新闻
+###dpa news
+# - /krankenkassen
+
+##Letterboxd
+###User diary
+# - /letterboxd/user/diary/demiadejuyigbe
+###Following diary
+# - /letterboxd/user/followingdiary/demiadejuyigbe
+
+##MakeUseOf
+# - /makeuseof
+
+##Matataki
+###最热作品
+# - /matataki/posts/hot
+###最新作品
+# - /matataki/posts/latest/ipfs
+###作者创作
+# - /matataki/users/9/posts
+###Fan 票关联作品
+# - /matataki/tokens/22/posts/3
+###标签关联作品
+# - /matataki/tags/150/区块链/posts
+###收藏夹
+# - /matataki/users/3017/favorites/155/posts
+
+##Matters
+###最新、熱議、精華
+ - /matters/latest/heat
+###标签
+# - /matters/tags/VGFnOjk3Mg
+###作者
+# - /matters/author/az
+
+##MIT 科技评论
+###首页
+ - /mittrchina/hot
+
+##Nautilus
+###话题
+# - /nautilus/topic/Art
+
+##OpenAI
+###Blog
+# - /openai/blog
+
+##PMCAFF
+###今日推荐 / 精选
+ - /pmcaff/list/2
+###社区
+ - /pmcaff/feed/1
+###用户文章
+ - /pmcaff/user/Oak7mqnEQJ
+
+##Polar
+###Blog
+# - /polar/blog
+
+##Quanta Magazine
+###全部
+# - /quantamagazine/archive
+
+##Readhub
+###分类
+# - /readhub/category/topic
+
+##Simons Foundation
+###文章
+# - /simonsfoundation/articles
+###推荐
+# - /simonsfoundation/recommend
+
+##Sixth Tone
+###最新文章
+# - /sixthtone/news
+
+##SocialBeta
+###首页
+ - /socialbeta/home
+###案例
+# - /socialbeta/hunt
+
+##Soomal
+###话题
+# - /soomal/topics/最新文章
+
+##The Brain
+###Blog
+# - /thebrain/blog
+
+##The Verge
+###The Verge
+# - /verge
+
+##Thrillist
+# - /thrillist/food-and-drink
+
+##TOPYS
+###分类
+# - /topys/7
+
+##VOA News
+###Day in Photos
+# - /voa/day-photos
+
+##Vulture
+# - /vulture/movies
+
+##ZAKER
+###source
+ - /zaker/source/12291
+###channel
+ - /zaker/channel/13
+###精读
+ - /zaker/focusread
+
+##爱范儿 ifanr
+###爱范儿频道
+# - /ifanr/app
+
+##巴比特
+###作者专栏
+# - /8btc/45703
+###快讯
+# - /8btc/news/flash
+
+##八阕
+###广角新闻
+# - /popyard
+
+##百度知道日报
+###精选
+# - /baidu/daily
+
+##白鲸出海
+###首页最新帖子
+# - /baijing
+
+##坂道系列官网资讯
+###乃木坂 46 新闻
+# - /nogizaka46/news
+###欅坂 46 新闻
+# - /keyakizaka46/news
+###欅坂 46 博客
+# - /keyakizaka46/blog
+###櫻坂 46 博客
+# - /sakurazaka46/blog
+###日向坂 46 新闻
+# - /hinatazaka46/news
+###日向坂 46 博客
+# - /hinatazaka46/blog
+
+##半月谈
+###时事大事库
+# - /banyuetan/byt
+
+##報導者
+###最新
+# - /twreporter/newest
+###摄影
+# - /twreporter/photography
+###分类
+# - /twreporter/category/reviews
+
+##北屋
+ - /northhouse
+
+##本地宝
+###焦点资讯
+# - /bendibao/news/bj
+
+##币世界
+###快讯
+# - /bishijie/kuaixun
+
+##不安全
+###全文
+ - /buaq
+
+##差评
+###图片墙
+# - /chaping/banner
+###资讯
+ - /chaping/news/15
+
+##城农 Growin' City
+###城农资讯观点
+# - /growincity/news
+
+##抽屉新热榜
+###最新
+# - /chouti/hot
+###最热榜 TOP10
+# - /chouti/top/24
+
+##创业邦
+###作者
+# - /cyzone/author/1225562
+###标签
+# - /cyzone/label/创业邦周报
+
+##得到
+###首页
+ - /dedao/list/年度日更
+###新闻
+ - /dedao/news
+###人物故事
+# - /dedao/figure
+###视频
+# - /dedao/video
+###知识城邦
+# - /dedao/knowledge
+
+##电商报
+###分区
+# - /dsb/area/lingshou
+
+##电商在线
+###电商在线
+# - /imaijia/category/xls
+
+##丁香园
+###新冠疫苗实时动态
+ - /dxy/vaccine/北京
+
+##懂球帝
+###新闻
+# - /dongqiudi/top_news/1
+###专题
+# - /dongqiudi/special/41
+###早报
+# - /dongqiudi/daily
+###足球赛果
+# - /dongqiudi/result/50001755
+###球队新闻
+# - /dongqiudi/team_news/50001755
+###球员新闻
+# - /dongqiudi/player_news/50000339
+
+##东西智库
+###分类
+# - /dx2025
+###标签
+# - /dx2025/tag/3d_printing
+
+##多知网
+###首页
+# - /duozhi
+
+##法律白話文運動
+###最新文章
+# - /plainlaw/archives
+
+##飞雪娱乐网
+# - /feixuew/rj
+
+##凤凰网
+###大风号
+ - /ifeng/feng/2583/doc
+
+##福利年
+###文章
+# - /fulinian
+
+##高科技行业门户
+###新闻
+ - /ofweek/news
+
+##谷歌新闻
+###新闻
+# - /google/news/要闻/hl=zh-CN&gl=CN&ceid=CN:zh-Hans
+
+##观察者网
+###头条
+ - /guancha/headline
+###首页
+ - /guancha
+###观学院
+# - /guancha/member/recommend
+###风闻话题
+# - /guancha/topic/110/1
+###个人主页文章
+# - /guancha/personalpage/243983
+
+##广告门
+###板块
+# - /adquan/info
+
+##国际教育研究所
+###Blog
+# - /iie/blog
+
+##国际能源署
+###新闻及活动
+# - /iea/news-and-events
+
+##国际数学联合会
+###菲尔兹奖
+# - /mathunion/fields-medal
+
+##果壳网
+###科学人
+ - /guokr/scientific
+###果壳网专栏
+ - /guokr/calendar
+
+##好奇心日报
+###标签，栏目，分类
+ - /qdaily/column/59
+
+##后续
+###Live
+ - /houxu/live/5
+###最新 Live
+ - /houxu/lives/new
+###最新专栏
+ - /houxu/events
+
+##互动吧
+###活动
+# - /hudongba/beijing/98-0-2-0-1-1
+
+##虎嗅
+###首页资讯
+ - /huxiu/article
+###标签
+ - /huxiu/tag/291
+###搜索
+ - /huxiu/search/%E8%99%8E%E5%97%85%E6%97%A9%E6%8A%A5
+###作者
+ - /huxiu/author/29318
+###文集
+ - /huxiu/collection/212
+
+##汇通网
+###7x24 小时快讯
+# - /fx678/kx
+
+##机核网
+###分类
+ - /gcores/category/news
+
+##贾真的电商 108 将
+###「108 将」实战分享
+# - /jiazhen108
+
+##今日热榜
+###榜单
+ - /tophub/Om4ejxvxEN
+
+##今日头条
+###关键词
+ - /jinritoutiao/keyword/AI
+
+##金色财经
+###快讯
+ - /jinse/lives
+###头条
+ - /jinse/timeline
+###分类
+ - /jinse/catalogue/zhengce
+
+##鲸跃汽车
+###首页
+# - /whalegogo/home
+###其他栏目
+# - /whalegogo/portal/2
+
+##九三学社
+###分类
+ - /93/lxzn-yzjy
+
+##巨潮资讯
+# - /cninfo/announcement/szse/000002/gssz0000002/category_ndbg_szsh
+
+##决胜网
+###最新资讯
+# - /juesheng
+
+##看点快报
+###首页
+ - /kuaibao
+
+##科技島讀
+###分類
+ - /daodu
+
+##科学网
+###博客
+ - /sciencenet/blog
+
+##快科技（原驱动之家）
+###最新新闻
+ - /kkj/news
+
+##快媒体
+###首页更新
+ - /kuai
+###具体栏目更新
+ - /kuai/1
+
+##快知
+###话题
+ - /kzfeed/topic/KklZRd9a04OgA
+
+##老司机
+###首页
+# - /laosiji/feed
+###24 小时热门
+# - /laosiji/hot
+###节目
+# - /laosiji/hotshow/128
+
+##留园网
+###分站
+# - /6park
+###精华区
+# - /6park/chan1/gold
+###搜索关键字
+# - /6park/chan1/keywords/都市
+
+##妈咪帮
+# - /mamibuy
+
+##美国半导体行业协会
+###新闻
+# - /semiconductors/latest-news
+
+##美国大学和雇主协会
+###博客
+# - /nace/blog
+
+##美国劳工联合会 - 产业工会联合会
+###博客
+# - /aflcio/blog
+
+##梅花网
+###作品
+# - /meihua/shots/latest
+###文章
+# - /meihua/article/latest
+
+##镁客网 im2maker
+###镁客网频道
+# - /im2maker/
+
+##梅斯医学 MedSci
+###推荐
+# - /medsci/recommend
+
+##摩根大通研究所
+###新闻
+# - /jpmorganchase
+
+##鸟哥笔记
+###首页
+ - /ngbj
+###今日事
+ - /ngbj/today
+###分类目录
+ - /ngbj/cat/103
+
+##派代
+###首页
+ - /paidai
+###论坛
+ - /paidai/bbs
+###商道
+ - /paidai/news
+
+##品途商业评论
+###文章
+# - /pintu360/0
+
+##品玩
+###实时要闻
+ - /pingwest/status
+###话题动态
+ - /pingwest/tag/ChinaJoy/1
+###用户
+ - /pingwest/user/7781550877/article
+
+##求是网
+###分类
+# - /qstheory
+
+##趣头条
+###分类
+ - /qutoutiao/category/1
+
+##全球化智库
+###分类
+# - /ccg
+
+##全现在
+###专栏
+# - /allnow/column/199
+###话题
+# - /allnow/tag/678
+###用户
+# - /allnow/user/1891141
+
+##人人都是产品经理
+###热门文章
+ - /woshipm/popular
+###天天问
+ - /woshipm/wen
+###用户收藏
+ - /woshipm/bookmarks/324696
+###用户文章
+ - /woshipm/user_article/324696
+###最新文章
+ - /woshipm/latest
+
+##少数派 sspai
+###最新上架付费专栏
+ - /sspai/series
+###Shortcuts Gallery
+ - /sspai/shortcuts
+###Matrix
+ - /sspai/matrix
+###专栏
+ - /sspai/column/104
+###作者
+ - /sspai/author/796518
+###作者动态
+ - /sspai/activity/d0u947vr
+###专题
+ - /sspai/topics
+###专题内文章更新
+ - /sspai/topic/250
+###标签订阅
+ - /sspai/tag/apple
+
+##深圳新闻网
+###排行榜
+# - /sznews/ranking
+
+##生命时报
+###栏目
+# - /lifetimes
+
+##生物谷
+###最新资讯
+# - /bioon/latest
+
+##世界卫生组织 WHO
+###媒体中心
+# - /who/news-room/feature-stories
+
+##数英网
+###数英网最新文章
+# - /digitaling/index
+###数英网文章专题
+# - /digitaling/articles/latest
+###数英网项目专题
+# - /digitaling/projects/all
+
+##搜狐号
+###更新
+# - /sohu/mp/119097
+
+##探物
+###产品
+ - /tanwu/products
+
+##腾讯 NBA
+###头条新闻
+# - /nba/app_news
+
+##腾讯谷雨
+###栏目
+ - /tencent/guyu/channel/lab
+
+##腾讯企鹅号
+###更新
+ - /tencent/news/author/5933889
+
+##通識・現代中國
+###議題熱話
+# - /chiculture/topic
+
+##推酷
+###周刊
+ - /tuicool/mags/tech
+
+##外接大脑
+###文章
+# - /waijiedanao/article/all
+
+##歪脑 wainao.me
+###所有文章
+# - /wainao-reads/all-articles
+
+##晚点 LatePost
+# - /latepost
+
+##万联网
+###资讯
+# - /10000link/news/My01
+
+##網路天文館
+###天象預報
+# - /tam/forecast
+
+##网易号
+###更新
+# - /netease/dy/W4983108759592548559
+
+##网易号（通用）
+# - /netease/dy2/T1555591616739
+
+##网易新闻
+###排行榜
+# - /netease/news/rank/whole/click/day
+###专栏
+# - /netease/news/special/1
+
+##维基百科
+###中国大陆新闻动态
+# - /wikipedia/mainland
+
+##未名新闻
+###分类
+ - /mitbbs
+
+##微信
+###公众号（ wemp.app 来源）
+# - /wechat/wemp/36836fbe-bdec-4758-8967-7cc82722952d
+###公众号（传送门来源）
+# - /wechat/csm/huxiu_com
+###公众号（CareerEngine 来源）
+# - /wechat/ce/595a5b14d7164e53908f1606
+###公众号（Telegram 频道来源）
+# - /wechat/tgchannel/lifeweek
+###公众号 (优读来源)
+# - /wechat/uread/shensing
+###公众号 (二十次幂来源)
+# - /wechat/ershicimi/813oxJOl
+###公众号 (外接大脑来源)
+# - /wechat/wjdn/5d5e683c82339df472988f59
+###公众号 (wxnmh.com 来源)
+# - /wechat/wxnmh/51798
+###公众号栏目 (非推送 & 历史消息)
+# - /wechat/mp/homepage/MzA3MDM3NjE5NQ==/16
+###公众号文章话题 Tag
+# - /wechat/mp/msgalbum/MzA3MDM3NjE5NQ==/1375870284640911361
+###公众平台系统公告栏目
+# - /wechat/announce
+###小程序插件
+# - /wechat/miniprogram/plugins
+
+##无产者评论
+###分类
+# - /proletar
+###标签
+# - /proletar
+
+##西祠胡同
+###频道
+# - /xici
+
+##橡树岭国家实验室
+###新闻
+# - /ornl/news
+
+##香水时代
+###首页
+ - /nosetime/home
+###香评
+# - /nosetime/59247733/discuss/new
+
+##小刀娱乐网
+# - /x6d/34
+
+##新浪专栏
+###创事记
+# - /sina/csj
+
+##选股宝
+###主题
+ - /xuangubao/subject/41
+
+##妖火网
+# - /yaohuo/new
+
+##异次元软件世界
+###首页
+ - /iplay/home
+
+##移动支付网
+###新闻
+# - /mpaypass/news
+###分类
+
+##一兜糖
+###首页精选
+ - /yidoutang/index
+###文章
+ - /yidoutang/guide
+###众测
+ - /yidoutang/mtest
+###全屋记
+ - /yidoutang/case/hot
+
+##亿欧网
+###资讯
+# - /iyiou
+
+##有趣天文奇观
+###首页
+# - /interesting-sky
+###年度天象（天文年历）
+# - /interesting-sky/astronomical_events
+###近期事件专题
+# - /interesting-sky/recent-interesting
+
+##游戏葡萄
+###文章
+ - /gamegrape/13
+
+##鱼塘热榜
+# - /mofish/2
+
+##遠見
+# - /gvm/index/health
+
+##中国计算机学会
+###新闻
+# - /ccf/news
+
+##中国机械工程学会
+###学会新闻
+# - /cmes/news
+
+##中国科学院青年创新促进会
+###最新博文
+# - /yicas/blog
+
+##中国劳工观察
+###调查报告
+# - /chinalaborwatch/reports
+
+##中国劳工通讯
+###评论与特写
+# - /clb/commentary
+
+##中国橡胶网
+###新闻资讯
+# - /cria/news/1
+
+##眾新聞
+###眾聞
+# - /hkcnews/news
+
+##装备前线
+###首页最新帖子
+ - /zfrontier/postlist/:byReplyTime
+###子板块帖子
+ - /zfrontier/board/56
+
+##紫竹张先生
+###全文
+# - /zzz
+#图片
+#--------------------
+
+##1X
+###Photos
+ - /1x/latest/all
+
+##8KCosplay
+###最新
+ - /8kcos/
+###分类
+# - /8kcos/cat/8kasianidol
+
+##BabeHub
+###分类
+# - /babehub
+###搜索关键字
+# - /babehub/search/babe
+
+##Bing 壁纸
+###每日壁纸
+ - /bing
+
+##CNU 视觉联盟
+###每日精选
+ - /cnu/selected
+###发现
+ - /cnu/discovery/hot/自然
+
+##DailyArt 每日艺术
+# - /dailyart/zh
+
+##Dilbert Comic Strip
+# - /dilbert/strip
+
+##Elite Babes
+###Home
+# - /elitebabes
+###Videos
+# - /elitebabes/videos
+###Search
+# - /elitebabes/search/pose
+
+##Fantia
+###搜索
+# - /fantia/search/posts/all/daily
+###用户投稿
+# - /fantia/user/3498
+
+##GirlImg
+###album
+# - /girlimg/album
+
+##Google Doodles
+###更新
+# - /google/doodles/zh-CN
+
+##Google 相册
+###公开影集
+# - /google/album/msFFnAzKmQmWj76EA
+
+##Hentai Cosplay
+###最新图片
+# - /hentai-cosplays/tag/swimsuit
+
+##Konachan Anime Wallpapers
+###Popular Recent Posts
+# - /konachan/post/popular_recent
+
+##LoveHeaven
+###漫画更新
+# - /loveheaven/update/kimetsu-no-yaiba
+
+##MM 范
+###分类
+# - /95mm/tab/热门
+###标签
+# - /95mm/tag/黑丝
+###集合
+ - /95mm/category/1
+
+##NASA 每日天文图片
+###NASA
+# - /nasa/apod
+###台湾成功大学镜像
+# - /nasa/apod-ncku
+###NASA 中文
+# - /nasa/apod-cn
+
+##nHentai
+###分类筛选
+# - /nhentai/language/chinese
+###高级搜索
+# - /nhentai/search/language%3Ajapanese+-scat+-yaoi+-guro+-%22mosaic+censorship%22
+
+##Porn Image XXX
+###最新图片
+# - /porn-images-xxx/tag/jk
+
+##Tits Guru
+###Home
+# - /tits-guru/home
+###Daily Best
+# - /tits-guru/daily
+###Models
+# - /tits-guru/model/mila-azul
+###Categories
+# - /tits-guru/category/bikini
+
+##Wallpaperhub
+# - /wallpaperhub
+
+##yande.re
+###Popular Recent Posts
+# - /yande.re/post/popular_recent
+
+##百度趣画
+###更新
+# - /baidu/doodles
+
+##北京天文馆
+###每日一图
+ - /bjp/apod
+
+##不羞涩
+###分类
+ - /dbmv
+
+##国家地理
+###每日一图
+# - /natgeo/dailyphoto
+
+##煎蛋
+###无聊图
+# - /jandan/pic
+###首页
+ - /jandan/article
+
+##绝对领域
+###图集文章
+# - /jdlingyu/tuji
+
+##酷 18
+###分站
+# - /cool18
+###精华区
+# - /cool18/bbs/gold
+###搜索关键字
+# - /cool18/bbs/keywords/都市
+###妹子图
+# - /jandan/ooxx
+
+##妹子图
+###首页（最新）
+# - /mzitu/home
+###分类
+# - /mzitu/category/xinggan
+###所有专题
+# - /mzitu/tags
+###专题详情
+# - /mzitu/tag/shishen
+###详情
+# - /mzitu/post/129452
+
+##喷嚏
+###图卦
+# - /dapenti/tugua
+###主题
+# - /dapenti/subject/184
+
+##涂鸦王国
+###用户上传作品和用户喜欢作品
+# - /gracg/user11968EIcqS3
+
+##致美化
+###最新主题
+# - /zhutix/latest
+#编程
+#--------------------
+
+##ACM
+###图灵奖获得者
+ - /acm/amturingaward
+
+##AI 研习社
+###首页
+ - /aiyanxishe/109/hot
+
+##AlgoCasts
+###视频更新
+# - /algocasts
+
+##cve.mitre.org
+###搜索结果
+# - /cve/search/PostgreSQL
+
+##deeplearning.ai
+###TheBatch 周报
+# - /deeplearningai/thebatch
+
+##Dockone
+###周报
+ - /dockone/weekly
+
+##GitChat
+###最新文章
+ - /gitchat/newest
+
+##Gitea
+###博客
+# - /gitea/blog
+
+##GitHub
+###用户仓库
+# - /github/repos/DIYgod
+###Trending
+# - /github/trending/daily/javascript
+###Topics
+# - /github/topics/framework
+###仓库 Issues
+# - /github/issue/DIYgod/RSSHub/open/RSS%20wanted
+###仓库 Pull Requests
+# - /github/pull/DIYgod/RSSHub
+###用户 Followers
+# - /github/user/followers/HenryQW
+###仓库 Stars
+# - /github/stars/DIYgod/RSSHub
+###仓库 Branches
+# - /github/branches/DIYgod/RSSHub
+###文件 Commits
+# - /github/file/DIYgod/RSSHub/master/lib/router.js
+###搜索结果
+# - /github/search/RSSHub/bestmatch/desc
+###用户 Star 的仓库
+# - /github/starred_repos/DIYgod
+###仓库 Contirbutors
+# - /github/contributors/DIYgod/RSSHub
+
+##GitLab
+###Explore
+# - /gitlab/explore/trending
+
+##Go 语言中文网
+###周刊
+ - /go-weekly
+
+##Hacker News
+###分类
+ - /hackernews/best/comments
+
+##Hex-Rays
+###Hex-Rays News
+ - /hex-rays/news
+
+##ITSlide
+###最新
+# - /itslide/new
+
+##Kaggle
+###Discussion
+# - /kaggle/discussion/387811/active
+###Competitions
+ - /kaggle/competitions
+###User Discussion
+# - /kaggle/user/antgoldbloom
+
+##LeetCode
+###文章
+ - /leetcode/articles
+###打卡
+# - /leetcode/submission/us/nathandai
+
+##LinkedKeeper
+###博文
+# - /linkedkeeper/sub/1
+
+##Linux Patchwork
+###Patch Comments
+# - /patchwork.kernel.org/comments/10723629
+
+##LWN.net
+###Security alerts
+# - /lwn/alerts/CentOS
+
+##NOSEC.org
+###Posts
+# - /nosec/hole
+
+##project-zero issues
+###issues
+# - /project-zero-issues
+
+##react
+###react-native
+ - /react/react-native-weekly
+
+##Scala
+###Scala Blog
+# - /scala/blog/posts
+
+##segmentfault
+###频道
+ - /segmentfault/channel/frontend
+###用户
+ - /segmentfault/user/yunqishequ_5aa899aad5395
+
+##TesterHome
+###最新发布
+# - /testerhome/newest
+
+##Visual Studio Code Marketplace
+###Visual Studio Code 插件
+# - /vscode/marketplace
+
+##wolley
+###posts
+ - /wolley
+###user post
+ - /wolley/user/kyth
+###host
+ - /wolley/host/www.youtube.com
+
+##阿里云
+###数据库内核月报
+# - /aliyun/database_month
+###公告
+# - /aliyun/notice
+###开发者社区 - 主题
+ - /aliyun/developer/group/alitech
+
+##安全客
+###最新漏洞列表
+ - /aqk/vul
+###分类订阅
+ - /aqk/week
+
+##饿了么开放平台
+###商家开放平台公告
+# - /eleme/open/announce
+###饿百零售开放平台公告
+# - /eleme/open-be/announce
+
+##极客时间
+###专栏文章
+ - /geektime/column/48
+###极客新闻
+ - /geektime/news
+
+##技术头条
+###最新分享
+ - /blogread/newest
+
+##掘金
+###分类
+ - /juejin/category/frontend
+###标签
+ - /juejin/tag/架构
+###热门
+ - /juejin/trending/ios/monthly
+###小册
+ - /juejin/books
+###沸点
+ - /juejin/pins/6824710202487472141
+###专栏
+ - /juejin/posts/3051900006845944
+###收藏集
+ - /juejin/collections/1697301682482439
+###单个收藏夹
+ - /juejin/collection/6845243180586123271
+###分享
+ - /juejin/shares/56852b2460b2a099cdc1d133
+
+##开发者头条
+###今天头条
+ - /toutiao/today
+###独家号
+ - /toutiao/user/140544
+
+##开源中国
+###资讯
+ - /oschina/news/project
+###用户博客
+ - /oschina/user/xxiaobian
+###数字型账号用户博客
+ - /oschina/u/3920392
+###问答主题
+ - /oschina/topic/weekly-news
+
+##拉勾网
+###职位招聘
+# - /lagou/jobs/JavaScript/上海
+
+##洛谷
+###日报
+# - /luogu/daily
+###近期比赛
+# - /luogu/contest
+###用户动态
+# - /luogu/user/feed/1
+
+##码农俱乐部
+###话题
+ - /mlog-club/topics/newest
+###开源项目
+ - /mlog-club/projects
+
+##码农网
+###最新
+ - /codeceo/home
+###分类
+# - /codeceo/category/java
+###标签
+# - /codeceo/tag/node.js
+
+##码农周刊
+###issues
+ - /manong-weekly
+
+##美团开放平台
+###美团开放平台公告
+# - /meituan/open/announce
+
+##平安银河实验室
+###posts
+# - /galaxylab
+
+##前端艺术家 && 飞冰早报
+###列表
+ - /jskou/0
+
+##日报 | D2 资源库
+###日报 | D2 资源库
+ - /d2/daily
+
+##顺丰
+###顺丰丰桥开放平台公告
+ - /sf/sffq-announce
+
+##腾讯大数据
+ - /tencent/bigdata
+
+##腾讯游戏开发者社区
+###分类
+ - /gameinstitute/community/hot
+
+##微信开放平台
+###微信开放社区 - 小程序公告
+# - /wechat-open/community/xcx-announce
+###微信开放社区 - 小游戏公告
+# - /wechat-open/community/xyx-announce
+###微信开放社区 - 微信支付公告
+# - /wechat-open/community/pay-announce
+###微信开放社区 - 小游戏问答
+# - /wechat-open/community/xyx-question/0
+###微信开放社区 - 小程序问答
+# - /wechat-open/community/xcx-question/new
+###微信支付 - 商户平台公告
+# - /wechat-open/pay/announce
+
+##微信小程序
+###基础库更新日志
+# - /weixin/miniprogram/framework
+###开发者工具更新日志
+# - /weixin/miniprogram/devtools
+###云开发更新日志
+# - /weixin/miniprogram/wxcloud/cloud-sdk
+
+##印记中文周刊
+###最新一期
+ - /docschina/jsweekly
+
+##知晓程序
+###文章
+ - /miniapp/article/cloud
+###小程序商店 - 最新
+# - /miniapp/store/newest
+
+##众成翻译
+###首页
+# - /zcfy
+###热门
+# - /zcfy/hot
+#阅读
+#--------------------
+
+##All Poetry
+###Poems
+# - /allpoetry/newest
+
+##Kindle Unlimited
+###会员限时免费读书单
+# - /amazon/ku/this
+
+##Mobilism
+###eBook Releases
+# - /mobilism/release
+
+##SoBooks
+###首页
+ - /sobooks
+###标签
+# - /sobooks/tag/小说
+
+##UU 看书
+###小说更新
+# - /novel/uukanshu/49621
+
+##爱思想
+###栏目
+# - /aisixiang/column/722
+###排行榜
+# - /aisixiang/ranking/1/7
+###思想库（专栏）
+# - /aisixiang/thinktank/WuQine/lunw
+
+##爱下电子书
+###最新章节
+# - /axdzs/191/191976
+
+##笔趣阁
+###biquge5200.com
+# - /novel/biquge/52_52542
+###biquge.info
+# - /novel/biqugeinfo/81_81797
+
+##博客来
+###新书出版
+ - /bookscomtw/newbooks/books_nbtopm_15
+
+##吹牛部落
+###栏目
+# - /chuiniu/column/0b1c4cf6e7f24e8da11e37882de73704
+###专栏列表
+# - /chuiniu/column_list
+
+##刺猬猫
+###章节
+# - /ciweimao/chapter/100045750
+
+##单向空间
+###单读
+ - /owspace/read/0
+
+##稻草人书屋
+###章节更新
+# - /dcrsw/zhongjidouluo/2
+
+##第一版主
+###小说
+# - /novel/d1bz/2/2608_6
+
+##飞地
+###分类
+# - /enclavebooks/category/1
+###用户创作
+# - /enclavebooks/user/103702
+###用户收藏
+# - /enclavebooks/collection/103702
+
+##归档
+# - /sobooks/date/2020-11
+
+##禁忌书屋
+###首页
+# - /cool18/bbs4
+###精华区
+# - /cool18/bbs4/gold
+###栏目分类
+# - /cool18/bbs4/type/都市
+###搜索关键字
+# - /cool18/bbs4/keywords/都市
+
+##孔夫子旧书网
+###用户动态
+# - /kongfz/people/5032170
+###店铺上架
+# - /kongfz/shop/238901/1
+
+##快眼看书
+###小说更新
+# - /novel/booksky/98619
+
+##飘天文学
+###章节
+# - /novel/ptwxz/10/10272
+
+##起点
+###章节
+# - /qidian/chapter/1010400217
+###讨论区
+# - /qidian/forum/1010400217
+###限时免费
+# - /qidian/free
+###限时免费下期预告
+# - /qidian/free-next
+
+##青空文庫
+###青空文庫新着リスト
+# - /aozora/newbook/10
+
+##轻小说文库
+###章节
+# - /wenku8/chapter/74
+
+##生物帮
+###所有栏目
+# - /biobio/nature/cell-reports
+
+##生物谷
+###所有栏目
+# - /shengwugu/biology
+
+##书趣阁
+###小说更新
+# - /novel/shuquge/8659
+
+##文学迷
+###小说更新
+# - /novel/wenxuemi/6/6144
+
+##虛詞
+###版块
+# - /p-articles/section/critics-art
+###作者
+# - /p-articles/contributors/朗天
+
+##斋书苑
+###最新章节
+# - /novel/zhaishuyuan/17858
+
+##纵横
+###章节
+# - /zongheng/chapter/672340
+
+##左岸读书
+###主页
+ - /zreading
+#社交媒体
+#--------------------
+
+##755
+###用户时间线
+# - /755/user/akimoto-manatsu
+
+##bilibili
+###番剧
+ - /bilibili/bangumi/media/9192
+###用户追番列表
+# - /bilibili/user/bangumi/208259
+###UP 主投稿
+# - /bilibili/user/video/2267573
+###UP 主专栏
+# - /bilibili/user/article/334958638
+###UP 主动态
+# - /bilibili/user/dynamic/2267573
+###UP 主频道
+# - /bilibili/user/channel/142821407/49017
+###UP 主默认收藏夹
+# - /bilibili/user/fav/2267573
+###UP 主非默认收藏夹
+# - /bilibili/fav/756508/50948568
+###UP 主投币视频
+# - /bilibili/user/coin/208259
+###UP 主粉丝
+# - /bilibili/user/followers/2267573
+###UP 主关注用户
+# - /bilibili/user/followings/2267573
+###分区视频
+# - /bilibili/partion/33
+###分区视频排行榜
+# - /bilibili/partion/ranking/171/3
+###视频选集列表
+# - /bilibili/video/page/BV1i7411M7N9
+###视频评论
+# - /bilibili/video/reply/BV1vA411b7ip
+###视频弹幕
+# - /bilibili/video/danmaku/BV1vA411b7ip/1
+###link 公告
+# - /bilibili/link/news/live
+###视频搜索
+# - /bilibili/vsearch/藤原千花
+###用户关注动态
+# - /bilibili/followings/dynamic/109937383
+###用户关注视频动态
+# - /bilibili/followings/video/2267573
+###用户关注专栏
+# - /bilibili/followings/article/99800931
+###直播开播
+###直播搜索
+###直播分区
+###主站话题列表
+# - /bilibili/blackboard
+###会员购新品上架
+# - /bilibili/mall/new/1
+###会员购作品
+# - /bilibili/mall/ip/0_3000294
+###排行榜
+# - /bilibili/ranking/0/3/1
+###话题 (频道 / 标签)
+# - /bilibili/topic/2233
+###歌单
+# - /bilibili/audio/10624
+###专栏文集
+# - /bilibili/readlist/25611
+###B 站每周必看
+ - /bilibili/weekly
+###漫画更新
+# - /bilibili/manga/update/26009
+
+##Dev.to
+###最高职位
+# - /dev.to/top/month
+
+##Disqus
+###评论
+# - /disqus/posts/diygod-me
+
+##Facebook
+###粉絲專頁
+# - /facebook/page/SonetPCR
+
+##Fur Affinity
+###主页
+# - /furaffinity/home
+###浏览
+# - /furaffinity/browse
+###站点状态
+# - /furaffinity/status
+###搜索
+# - /furaffinity/search/tiger
+###用户主页简介
+# - /furaffinity/user/tiger-jungle
+###用户关注列表
+# - /furaffinity/watching/okami9312
+###用户被关注列表
+# - /furaffinity/watchers/malikshadowclaw
+###用户接受委托信息
+# - /furaffinity/commissions/flashlioness
+###用户的 Shouts 留言
+# - /furaffinity/shouts/redodgft
+###用户的日记
+# - /furaffinity/journals/rukis
+###用户的创作画廊
+# - /furaffinity/gallery/flashlioness
+###用户的零碎 (非正式) 作品
+# - /furaffinity/scraps/flashlioness
+###用户的喜爱列表
+# - /furaffinity/favorites/tiger-jungle
+###作品评论区
+# - /furaffinity/submission_comments/34909983
+###日记评论区
+# - /furaffinity/journal_comments/9750669
+
+##Gab
+###用戶時間線
+# - /gab/user/realdonaldtrump
+###熱門
+ - /gab/popular/hot
+
+##iCity
+###用户动态
+# - /icity/sai
+
+##Instagram
+###用户
+# - /instagram/user/stefaniejoosten
+
+##Keep
+###运动日记
+# - /keep/user/556b02c1ab59390afea671ea
+
+##Lofter
+###用户
+# - /lofter/user/tingtingtingtingzhi
+###话题 (标签)
+# - /lofter/tag/名侦探柯南/date
+
+##Mastodon
+###用户公共时间线
+# - /mastodon/acct/CatWhitney@mastodon.social/statuses
+###实例公共时间线（本站）
+ - /mastodon/timeline/pawoo.net/true
+###实例公共时间线（跨站）
+# - /mastodon/remote/pawoo.net/true
+###用户公共时间线（备用）
+# - /mastodon/account_id/mastodon.social/23634/statuses/only_media
+
+##piapro
+###用户最新作品
+# - /piapro/user/shine_longer
+###全站最新作品
+# - /piapro/public/music/miku/2
+
+##Picuki
+###用户
+# - /picuki/profile/stefaniejoosten
+
+##pixiv
+###用户收藏
+# - /pixiv/user/bookmarks/15288095
+###用户动态
+# - /pixiv/user/11
+###排行榜
+# - /pixiv/ranking/week
+###关键词
+# - /pixiv/search/麻衣/popular/2
+###关注的新作品
+# - /pixiv/user/illustfollows
+
+##pixiv-fanbox
+# - /fanbox/otomeoto
+
+##Popi 提问箱
+###提问箱新回答
+# - /popiask/popi6666
+
+##Soul
+###瞬间更新
+# - /soul/Y2w2aTNWQVBLOU09
+###热门瞬间
+# - /soul/posts/hot
+
+##Tape 小纸条
+###提问箱新回答
+# - /tapechat/questionbox/TOAH7BBH
+
+##Telegram
+###频道
+# - /telegram/channel/awesomeDIYgod/%23DIYgod的豆瓣动态
+###贴纸包
+# - /telegram/stickerpack/DIYgod
+###Telegram Blog
+# - /telegram/blog
+
+##Twitter
+###用户时间线
+# - /twitter/user/DIYgod
+###用户关注时间线
+# - /twitter/followings/DIYgod
+###列表时间线
+# - /twitter/list/ladyleet/javascript
+###用户喜欢列表
+# - /twitter/likes/DIYgod
+###关键词
+# - /twitter/keyword/RSSHub
+###Trends
+# - /twitter/trends/23424856
+
+##VueVlog
+###用户
+# - /vuevideo/971924215514
+
+##YouTube
+###用户
+# - /youtube/user/JFlaMusic/
+###频道
+# - /youtube/channel/UCDwDMPOZfxVV0x_dz0eQ8KQ
+###播放列表
+# - /youtube/playlist/PLqQ1RwlxOgeLTJ1f3fNMSwhjVgaWKo_9Z
+
+##巴哈姆特
+###个人小屋
+# - /bahamut/creation/tpesamguo/338592
+###创作大厅
+# - /bahamut/creation_index/4/0/2
+
+##币乎
+###用户动态
+# - /bihu/activaties/1478342200
+
+##唱吧
+###用户
+# - /changba/34108440
+
+##大众点评
+###用户
+# - /dianping/user/35185271
+
+##豆瓣
+###正在上映的电影
+ - /douban/movie/playing
+###正在上映的高分电影
+# - /douban/movie/playing/7.5
+###即将上映的电影
+# - /douban/movie/later
+###北美票房榜
+# - /douban/movie/ustop
+###一周口碑榜
+# - /douban/movie/weekly
+###豆瓣电影分类
+# - /douban/movie/classification/R/7.5/Netflix,剧情,2020
+###豆瓣电影人
+# - /douban/celebrity/1274261
+###豆瓣小组
+# - /douban/group/camera
+###浏览发现
+# - /douban/explore
+###浏览发现分栏目
+# - /douban/explore/column/2
+###新书速递
+# - /douban/book/latest
+###最新增加的音乐
+# - /douban/music/latest/chinese
+###热门同城活动
+# - /douban/event/hot/118172
+###商务印书馆新书速递
+# - /douban/commercialpress/latest
+###豆瓣书店
+# - /douban/bookstore
+###热门图书排行
+# - /douban/book/rank/fiction
+###豆列
+# - /douban/doulist/37716774
+###用户广播
+# - /douban/people/62759792/status
+###日记最新回应
+# - /douban/replies/xiaoyaxiaoya
+###最新回应过的日记
+# - /douban/replied/xiaoyaxiaoya
+###话题
+# - /douban/topic/48823
+###频道专题
+# - /douban/channel/30168934/hot
+###频道书影音
+# - /douban/channel/30168934/subject/0
+###用户想看
+# - /douban/people/exherb/wish/torrentProvider=1337x
+
+##饭否
+###用户动态
+# - /fanfou/user_timeline/wangxing
+###当前登录用户的时间线
+# - /fanfou/home_timeline
+###用户收藏
+# - /fanfou/favorites/wangxing
+###热门话题
+# - /fanfou/trends
+###饭否搜索
+# - /fanfou/public_timeline/冬天
+
+##方格子
+###出版專題
+# - /vocus/publication/bass
+###用户个人文章
+# - /vocus/user/tsetyan
+
+##即刻
+###用户动态
+# - /jike/user/3EE02BC9-C5B3-4209-8750-4ED1EE0F67BB
+###圈子
+ - /jike/topic/556688fae4b00c57d9dd46ee
+###圈子 - 纯文字
+# - /jike/topic/text/553870e8e4b0cafb0a1bef68
+
+##简书
+###首页
+ - /jianshu/home
+###热门
+ - /jianshu/trending/weekly
+###专题
+# - /jianshu/collection/xYuZYD
+###作者
+# - /jianshu/user/yZq3ZV
+
+##美拍
+###用户动态
+# - /meipai/user/56537299
+
+##数字尾巴
+###首页
+# - /dgtle
+###闲置（分类）
+# - /dgtle/trade/111
+###闲置（关键词）
+# - /dgtle/trade/search/ipad
+###鲸图（分类）
+# - /dgtle/whale/category/0
+###鲸图（排行榜）
+# - /dgtle/whale/rank/download/day
+
+##刷屏
+###最新
+ - /weseepro/newest
+###最新（无中间页）
+# - /weseepro/newest-direct
+###朋友圈
+# - /weseepro/circle
+
+##微博
+###博主
+# - /weibo/user/1195230310
+###关键词
+# - /weibo/keyword/DIYgod
+###热搜榜
+# - /weibo/search/hot
+###超话
+# - /weibo/super_index/1008084989d223732bf6f02f75ea30efad58a9
+###个人时间线
+# - /weibo/timeline/3306934123
+
+##微博绿洲
+###用户
+# - /weibo/oasis/user/1990895721
+###热帖
+# - /xueqiu/hots
+
+##悟空问答
+###用户动态
+# - /wukong/user/5826687196
+
+##小红书
+###用户笔记和专辑
+# - /xiaohongshu/user/593032945e87e77791e03696/notes
+###用户专辑
+# - /xiaohongshu/user/593032945e87e77791e03696/album
+###专辑
+# - /xiaohongshu/board/5db6f79200000000020032df
+
+##新榜
+###微信公众号
+# - /newrank/wechat/chijiread
+###抖音短视频
+# - /newrank/douyin/110266463747
+
+##知乎
+###收藏夹
+# - /zhihu/collection/26444956
+###用户动态
+# - /zhihu/people/activities/diygod
+###用户回答
+# - /zhihu/people/answers/diygod
+###用户文章
+# - /zhihu/posts/people/frederchen
+###专栏
+# - /zhihu/zhuanlan/googledevelopers
+###知乎日报
+ - /zhihu/daily
+###知乎日报 - 合集
+# - /zhihu/daily/section/2
+###知乎热榜
+ - /zhihu/hotlist
+###知乎分类热榜
+# - /zhihu/hot
+###知乎想法热榜
+# - /zhihu/pin/hotlist
+###问题
+# - /zhihu/question/59895982
+###话题
+ - /zhihu/topic/19828946
+###用户想法
+# - /zhihu/people/pins/kan-dan-45
+###知乎书店 - 新书
+# - /zhihu/bookstore/newest
+###知乎想法 - 24 小时新闻汇总
+# - /zhihu/pin/daily
+###知乎书店 - 知乎周刊
+# - /zhihu/weekly
+###用户关注时间线
+# - /zhihu/timeline
+#学习
+#--------------------
+
+##51VOA 美国之音
+###频道
+# - /51voa/address
+
+##CTFHub Calendar
+###查询国内外 CTF 赛事信息
+###查询近期赛事
+
+##gradCafe
+###gradCafe result
+# - /gradcafe/result
+###gradCafe result by key words
+# - /gradcafe/result/computer
+
+##MarginNote
+###标签
+# - /marginnote/tag/经验分享
+
+##Mind42
+###分类
+ - /mind42
+###标签
+# - /mind42/tag/online
+###搜索
+# - /mind42/search/online
+
+##NEEA 中国教育考试网
+###国家教育考试
+# - /neea/gaokao
+###社会证书考试
+# - /neea/cet
+
+##ProcessOn
+###推荐
+ - /processon/popular
+
+##X-MOL 平台
+###新闻
+# - /x-mol/news/3
+
+##XMind
+###Mindmap Gallery
+# - /xmind/mindmap
+
+##zhimap 思维导图社区
+# - /zhimap/820156a42e9a490796c7fd56916aa95b/1
+
+##杭州市国家普通话测试网报信息
+###考试信息
+# - /putonghua
+
+##唧唧堂
+###论文
+# - /jijitang/publication
+###文档
+# - /jijitang/article/latest
+
+##金山词霸
+###每日一句
+# - /iciba/7/poster
+
+##领研
+###论文
+# - /linkresearcher/category=theses&subject=生物
+
+##码农周刊
+###issues
+# - /manong-weekly
+
+##幕布精选
+# - /mubu/explore/16/读书笔记
+
+##扇贝
+###用户打卡
+# - /shanbay/checkin/ddwej
+###精选文章
+# - /shanbay/footprints
+
+##思维导图社区
+###热门导图
+# - /edrawsoft/mindmap/1/PV/DESC/CN/1
+
+##搜韵网
+###诗词日历
+# - /souyun/today
+
+##网易公开课
+###精品课程
+# - /open163/vip
+###最新课程
+# - /open163/latest
+
+##下厨房
+###用户作品
+# - /xiachufang/user/cooked/103309404
+###用户菜谱
+# - /xiachufang/user/created/103309404
+###作品动态
+# - /xiachufang/popular/hot
+
+##学堂在线
+###课程信息
+# - /xuetangx/course/course-v1:TsinghuaX+20240103X+2019_T1/status
+###课程列表
+# - /xuetangx/course/list/0/1/0
+
+##阳光高考
+###教育部阳光高考信息公开平台招生政策规定
+# - /chsi/zszcgd
+
+##印象识堂
+###印象剪藏
+# - /yinxiang/note
+###卡片清单
+# - /yinxiang/card/32
+###用户公开笔记
+# - /yinxiang/personal/ZUhuRTmW5SKE7vvHPqI7cg
+###笔记分类
+# - /yinxiang/category/28
+###笔记标签
+# - /yinxiang/tag/人生算法
+
+##英中协会
+###奖学金
+# - /gbcc/trust
+
+##有道云笔记
+###学霸感悟
+# - /youdao/xueba
+###笔记最新动态
+# - /youdao/latest
+
+##语雀
+###知识库
+# - /yuque/doc/75258
+
+##知識分子
+###新聞
+ - /zhishifenzi/news/ai
+###深度
+ - /zhishifenzi/depth
+###创新
+ - /zhishifenzi/innovation/company
+
+##中国大学 MOOC (慕课)
+###最新
+# - /icourse163/newest
+
+##中国人事考试网
+###通知公告
+# - /cpta/notice
+#传统媒体
+#--------------------
+
+##21 财经
+###频道
+# - /21caijing/channel/readnumber
+
+##ABC News
+###子站
+# - /abc/chinese
+
+##AP News
+###话题
+# - /apnews/topics2/ap-top-news
+
+##BBC
+###BBC 英文
+# - /bbc/world-asia
+###BBC 中文网
+# - /bbc/chinese/business
+
+##Boston.com
+###新闻
+# - /boston/technology
+
+##CBC
+# - /cbc/topics
+
+##Chicago Tribune
+###新闻
+# - /chicagotribune/nation-world
+
+##ChinaFile
+# - /chinafile/all
+
+##e 公司
+###快讯
+# - /egsea/flash
+
+##Financial Times
+###FT 中文网
+# - /ft/chinese/hotstoryby7day
+###myFT 个人 RSS
+# - /ft/myft/rss-key
+
+##i-CABLE 有線新聞
+# - /icable/all
+
+##NHK
+###News Web Easy
+# - /nhk/news_web_easy
+
+##Phoronix
+###新闻与评测
+# - /phoronix/news_topic/Intel
+
+##RTHK 傳媒透視
+# - /mediadigest/latest
+
+##Solidot
+###最新消息
+# - /solidot/linux
+
+##Telecompaper
+###News
+# - /telecompaper/news/mobile/2020/China/News
+###Search
+# - /telecompaper/search/Nokia
+
+##The Economist
+###分类
+# - /the-economist/latest
+###GRE Vocabulary
+# - /the-economist/gre-vocabulary
+###下载
+# - /the-economist/download
+
+##UDN
+###轉角國際
+# - /udn/global/鏡頭背後
+
+##Voice of America (VOA)
+# - /voa/cantonese/zprtie-ttp
+
+##Yahoo
+###新聞
+# - /yahoo-news/hk/world
+
+##Yahoo! by Author
+###新聞
+# - /yahoo-author/hannah-keyser
+
+##半月谈
+###板块
+# - /banyuetan/jicengzhili
+
+##北极星电力网
+###北极星环保
+# - /bjx/huanbao
+
+##财新网
+###新闻分类
+# - /caixin/finance/regulation
+###首页新闻
+# - /caixin/article
+###最新文章
+# - /caixin/latest
+
+##第一财经
+###直播区
+# - /yicai/brief
+
+##东方网
+###上海新闻
+# - /eastday/sh
+
+##読売新聞
+###新聞
+# - /yomiuri/news
+
+##端传媒
+###专题・栏目
+# - /initium/latest/zh-hans
+###话题・标签
+# - /theinitium/tags/2019_10/zh-hans
+###作者
+# - /theinitium/author/ninghuilulu/zh-hans
+###个人订阅追踪动态
+# - /theinitium/follow/articles/zh-hans
+
+##多维新闻网
+###要闻
+# - /dwnews/yaowen/global
+###24 小时新闻排行榜
+# - /dwnews/rank
+
+##华尔街见闻
+###华尔街见闻
+# - /wallstreetcn/news/global
+###实时快讯
+# - /wallstreetcn/live
+
+##华尔街日报 The Wall Street Journal (WSJ)
+###新闻
+# - /wsj/en-us/opinion
+
+##极客公园
+###全球快讯
+# - /geekpark/breakingnews
+
+##界面新闻
+###栏目
+# - /jiemian/list/79
+
+##经济观察网
+###分类资讯
+# - /eeo/15
+
+##靠谱新闻
+###新闻聚合
+# - /kaopunews/all
+
+##联合早报
+###即时新闻
+# - /zaobao/realtime/china
+###新闻
+# - /zaobao/znews/china
+###其他栏目
+# - /zaobao/wencui/politic
+
+##连线 Wired
+###标签
+# - /wired/tag/bitcoin
+
+##路透社
+###实时资讯
+# - /reuters/theWire
+###频道
+# - /reuters/channel/cn/analyses
+
+##南方周末
+###新闻分类
+# - /infzm/2
+
+##南华早报 SCMP
+###新闻
+# - /scmp/3
+
+##纽约时报
+###新闻
+# - /nytimes/dual
+###每日简报
+# - /nytimes/morning_post
+
+##澎湃新闻
+###首页头条
+# - /thepaper/featured
+###频道
+# - /thepaper/channel/27224
+###列表
+# - /thepaper/list/25457
+###澎湃美数组作品集
+# - /thepaper/839studio/2
+
+##齐鲁晚报
+###新闻
+# - /qlwb/news
+###今日城市
+# - /qlwb/city/:city
+
+##人民日报
+###观点
+# - /people/opinion/223228
+###环保频道
+# - /people/env/74877
+###习近平系列重要讲话
+# - /people/xjpjh
+###中国共产党新闻网 24 小时滚动新闻
+# - /people/cpc/24h
+
+##人民日报社 国际金融报
+###栏目
+# - /ifnews/48
+
+##日本経済新聞
+###ホームページ
+# - /nikkei/index
+###新聞
+# - /nikkei/news
+
+##台湾中央通讯社
+###分类
+# - /cna/aall
+
+##卫报 The Guardian
+###Editorial
+# - /guardian/editorial
+###China
+# - /guardian/china
+
+##文汇报
+###分类
+# - /whb/bihui
+
+##香港 01
+###热门
+# - /hk01/hot
+###栏目
+# - /hk01/zone/11
+###子栏目
+# - /hk01/channel/391
+###专题
+# - /hk01/issue/649
+###标签
+# - /hk01/tag/2787
+
+##香港電台
+###新聞
+# - /rthk-news/hk/international
+
+##香港商报
+###PDF 版
+# - /hkcd/pdf
+
+##新京报
+###栏目
+# - /bjnews/realtime
+###电子报
+# - /bjnews/epaper/A
+
+##新浪科技
+###科学探索
+# - /sina/discovery/zx
+###滚动新闻
+# - /sina/rollnews
+
+##新浪体育
+###综合
+# - /sina/sports/volley
+
+##央视新闻
+###新闻联播
+# - /cctv/xwlb
+###新闻专题
+# - /cctv-special/315
+###专题
+# - /cctv/world
+###新闻联播文字版
+# - /xinwenlianbo/index
+###新闻联播文字版全文
+# - /xwlb
+###央视网图片《镜象》
+# - /cctv/photo/jx
+
+##朝日新聞中文網（繁體中文版）
+###新聞分類
+# - /asahichinese-f/society
+
+##朝日新聞中文网（简体中文版）
+###新闻分类
+# - /asahichinese-j/society
+
+##中国日报
+###英语点津
+# - /chinadaily/english/thelatest
+
+##中山网
+###中山网新闻
+# - /zsnews/index/35
+
+##中時電子報
+###新聞
+# - /chinatimes/realtimenews
+
+##中外对话
+###主题
+# - /chinadialogue/topics/cities
+###栏目
+# - /chinadialogue/article
+###福建新闻
+# - /fjnews/fj/30
+###福州新闻
+# - /fjnews/fz/30
+###九江新闻
+# - /fjnews/jjnews
+
+##自由亚洲电台
+# - /rfa/mandarin
