@@ -4,15 +4,7 @@ name: delete
 on: 
   release:
     types: [published]
-  push:
-    tags:
-    - 'v*'
-  #  branches: 
-  #    - master
-  issues:
-  repository_dispatch:
-  watch:
-    types: [started]
+
    
 jobs:
   build:
