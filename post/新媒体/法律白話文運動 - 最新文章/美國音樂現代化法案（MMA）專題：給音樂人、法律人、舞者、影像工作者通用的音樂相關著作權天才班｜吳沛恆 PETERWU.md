@@ -1,0 +1,16 @@
+
+---
+title: '美國音樂現代化法案（MMA）專題：給音樂人、法律人、舞者、影像工作者通用的音樂相關著作權天才班｜吳沛恆 PETERWU'
+categories: 
+    - 新媒体
+    - 法律白話文運動 - 最新文章
+author: 法律白話文運動 - 最新文章
+comments: false
+date: 2021-03-22 05:00:23
+thumbnail: 'https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1'
+---
+
+<div>   
+<img width="2560" height="1707" src="https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1" class="flipboard-image wp-post-image" alt srcset="https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?w=2560&ssl=1 2560w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=450%2C300&ssl=1 450w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=1024%2C683&ssl=1 1024w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=770%2C513&ssl=1 770w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=1536%2C1024&ssl=1 1536w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=2048%2C1365&ssl=1 2048w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=370%2C247&ssl=1 370w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=1155%2C770&ssl=1 1155w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=293%2C195&ssl=1 293w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=1400%2C933&ssl=1 1400w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?resize=500%2C333&ssl=1 500w, https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?w=2400&ssl=1 2400w" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="63717" data-permalink="https://plainlaw.me/2021/02/27/%e7%be%8e%e5%9c%8b%e9%9f%b3%e6%a8%82%e7%8f%be%e4%bb%a3%e5%8c%96%e6%b3%95%e6%a1%88%ef%bc%88mma%ef%bc%89%e5%b0%88%e9%a1%8c%ef%bc%9a%e7%b5%a6%e9%9f%b3%e6%a8%82%e4%ba%ba%e3%80%81%e6%b3%95%e5%be%8b/alexander-popov-jhynl-bip18-unsplash/" data-orig-file="https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="alexander-popov-JhYnL-BiP18-unsplash" data-image-description data-medium-file="https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=450%2C300&ssl=1" data-large-file="https://i2.wp.com/plainlaw.me/wp-content/uploads/2021/02/alexander-popov-JhYnL-BiP18-unsplash-scaled.jpg?fit=1024%2C683&ssl=1" referrerpolicy="no-referrer">null  
+</div>
+            

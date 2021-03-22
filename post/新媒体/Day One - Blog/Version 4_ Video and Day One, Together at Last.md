@@ -1,0 +1,16 @@
+
+---
+title: 'Version 4_ Video and Day One, Together at Last'
+categories: 
+    - 新媒体
+    - Day One - Blog
+author: Day One - Blog
+comments: false
+date: Tue, 23 Jul 2019 00:00:00 GMT
+thumbnail: 'https://media.graphcms.com/t8JW3OUASryLmgthBP6z'
+---
+
+<div>   
+<img alt="Version 4: Video and Day One, Together at Last" width="500" height="375" src="https://media.graphcms.com/t8JW3OUASryLmgthBP6z" referrerpolicy="no-referrer"><p>It was 1888 when French inventor Louis Le Prince created Roundhay Garden Scene, the first motion picture ever created. To say that motion pictures have completely changed the world is an understatement.</p><p>Now days, video is everywhere on every screen size. We watch them on giant screens in theaters, small screens on our wrists, and every screen in between. And thanks to the smartphone, we not only watch videos, but shoot our own with ease. Gone are the days where you had to embarrassingly load up the camcorder with a tape and with red light flashing, press it to your face to capture a moment. Now it’s as simple as pulling a phone out of your pocket and hitting record. Taking video is not only normal, it’s expected. At concerts or restaurants, on hikes or bikes, we hit the little red record button to preserve a small sliver of our lives.</p><p><img alt="dayone-video-devices.gif" src="https://media.graphcms.com/AJu8KSDQoO2MfMtrEnEt" referrerpolicy="no-referrer"></p><p>Many of these moments are silly and fun, while others are incredibly endearing. A cake smash, a child’s first steps, awkward dancing, or a surprise marriage proposal. Regardless of their lighthearted or heartfelt nature, they are moments that don’t deserve to be lost in the clutter of our smartphone camera rolls. These videos, like words, photos, and audio recordings, deserve to be properly preserved forever.</p><p>Which is why after months of hard work and determination, we’re thrilled to launch Day One 4.0. The update has been approved by Apple and is being rolled out in a phased release starting today. By the end of the week, all Day One users should be able to update to version 4.0.</p><p>At launch, video in Day One is limited to 3 minute long clips at 1080p resolution. We know there are users who have longer videos they’d love to upload to their journals, but we made these decisions deliberately to ensure we deliver a premium product that has the same performance and reliability our users have come to expect from Day One. We’ve actually found that the majority of videos people shoot on their phones are less than 3 minutes (sorry person who recorded the entire Taylor Swift concert!).</p><p>Videos (square, horizontal, or vertical) can be added from the media picker inside the app or from Apple’s photo app using the share extension. Unlike photos, video cannot be recorded within the app in Version 4.</p><p>We’re excited to bring this feature to Premium users across the world, allowing all types of memories to be securely stored and backed up in Day One. If you aren’t currently a Premium member, now is as good a time as any to start a free 7 day trial and start saving your favorite videos to Day One.</p>  
+</div>
+            

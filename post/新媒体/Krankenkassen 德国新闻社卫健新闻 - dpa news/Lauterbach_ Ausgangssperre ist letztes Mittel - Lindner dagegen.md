@@ -1,0 +1,16 @@
+
+---
+title: 'Lauterbach_ Ausgangssperre ist letztes Mittel - Lindner dagegen'
+categories: 
+    - 新媒体
+    - Krankenkassen 德国新闻社卫健新闻 - dpa news
+author: Krankenkassen 德国新闻社卫健新闻 - dpa news
+comments: false
+date: Invalid Date
+thumbnail: ''
+---
+
+<div>   
+Berlin (dpa) - SPD-Gesundheitsexperte Karl Lauterbach hält einenächtliche Ausgangssperre zur Eindämmung der Corona-Pandemie nochnicht für zwingend notwendig. Bei weiterhin rasant steigendenFallzahlen dürfte sie aber kaum zu vermeiden sein, warnte derstudierte Epidemiologe am Sonntagabend bei «Bild live». Grund dafürsei, dass die sich ausbreitende Corona-Mutation B.1.1.7 auf einenMonat betrachtet «vier- bis achtmal so ansteckend» sei wie dasbisherige Virus.«Bisher ist es keinem Land gelungen, die viel schnellere Pandemie mitdieser Mutation in den Griff zu bekommen, ohne dass esAusgangsbeschränkungen im Lockdown gegeben hätte», sagte Lauterbach.Gleichwohl müsse klar sein: «Ausgangsbeschränkungen sind die UltimaRatio, man muss versuchen, das zu verhindern.» Die einzige Chancedazu biete ein «sehr strenges Testkonzept» mit zwei Tests pro Wochein allen Schulen und Betrieben. Die Kapazitäten hierfür würden«gerade fieberhaft aufgebaut».FDP-Chef Christian Lindner lehnt Ausgangssperren zur Eindämmung derPandemie hingegen grundsätzlich ab. Er sagte bei «Bild live»: «Ichhalte Ausgangsbeschränkungen immer für unverhältnismäßig, für eine zuscharfe Freiheitseinschränkung.» Außerdem seien sie selbst ausGründen des Infektionsschutzes nicht unbedingt sinnvoll: «Wenn sichAngehörige eines Haushalts draußen an der frischen Luft bewegen, seheich keinen Grund, ihnen das zu untersagen.»Bund und Länder beraten am Montag (14.00 Uhr) über das weitereVorgehen in der Pandemie, es könnte auf schärfereCorona-Beschränkungen bis in die Osterzeit hinauslaufen. EinBeschlussentwurf aus dem Kanzleramt mit Stand 21. März, 17.30 Uhr,enthält auch eine besonders strittige Passage, die wegen desexponentiellen Fallzahlenwachstums weitere Verschärfungen fürLandkreise mit einer Sieben-Tages-Inzidenz von mehr als 100 vorsieht.Unter anderem ist dort die Rede von einer nächtlichenAusgangsbeschränkung bis 05.00 Uhr, «sofern dem nicht gewichtigeGründe entgegenstehen». Die Anfangsuhrzeit ist hier offen gelassen -auch sie müsste verhandelt werden.Die laut dem der Deutschen Presse-Agentur vorliegenden Entwurfgeplante Verlängerung des Lockdowns bis zum 18. April ist nachÜberzeugung Lauterbachs «ohne Wenn und Aber nötig». Ansonsten würdensich die Sterbezahlen verdoppeln. «Wir haben zu Beginn der drittenWelle mehr Patienten auf den Intensivstationen mit Covid-19 als zumEnde der ersten Welle. Wir sind also mehr oder weniger schon voll,bevor es losgeht.» Niederschlagen dürfte sich das auch bei denTodeszahlen: «Jeder Zweite stirbt, der beatmet werden muss, auch beiden Jüngeren.»© Copyright 2021 Deutsche Presse Agentur GmbH, Hamburg. Alle Rechte vorbehalten.Inhalte dienen der perönlichen Information. Jede weitergehende Verwendung, Speicherung in Datenbank, Veröffentlichung, Vervielfältigung nur mit Zustimmung der Deutschen Presse Agentur GmbH, Hamburg.  
+</div>
+            

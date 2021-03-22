@@ -1,0 +1,16 @@
+
+---
+title: 'Genomic Insights Into the Pathogenicity of a Novel Biofilm-Forming Enterococcus sp. Bacteria (Enterococcus lacertideformus) Identified in Reptiles.'
+categories: 
+    - 科学期刊
+    - Stork 文献鸟订阅 - 关键词
+author: Stork 文献鸟订阅 - 关键词
+comments: false
+date: 2021-03-22 05:02:33
+thumbnail: ''
+---
+
+<div>   
+Whole genome analysis of a novel species of enterococci, Enterococcus lacertideformus, causing multi-systemic and invariably fatal disease in critically endangered Christmas Island reptiles was undertaken to determine the genetic elements and potential mechanisms conferring its pathogenic nature, biofilm-forming capabilities, immune recognition avoidance, and inability to grow in vitro. Comparative genomic analyses with related and clinically significant enterococci were further undertaken to infer the evolutionary history of the bacterium and identify genes both novel and absent. The genome had a G + C content of 35.1%, consisted of a circular chromosome, no plasmids, and was 2,419,934 bp in length (2,321 genes, 47 tRNAs, and 13 rRNAs). Multi-locus sequence typing (MLST), and single nucleotide polymorphism (SNP) analysis of multiple E. lacertideformus samples revealed they were effectively indistinguishable from one another and highly clonal. E. lacertideformus was found to be located within the Enterococcus faecium species clade and was closely related to Enterococcus villorum F1129D based on 16S rDNA and MLST house-keeping gene analysis. Antimicrobial resistance (DfreE, EfrB, tetM, bcrRABD, and sat4) and virulence genes (Fss3 and ClpP), and genes conferring tolerance to metals and biocides (n = 9) were identified. The detection of relatively few genes encoding antimicrobial resistance and virulence indicates that this bacterium may have had no exposure to recently developed and clinically significant antibiotics. Genes potentially imparting beneficial functional properties were identified, including prophages, insertion elements, integrative conjugative elements, and genomic islands. Functional CRISPR-Cas arrays, and a defective prophage region were identified in the genome. The study also revealed many genomic loci unique to E. lacertideformus which contained genes enriched in cell wall/membrane/envelop biogenesis, and carbohydrate metabolism and transport functionality. This finding and the detection of putative enterococcal biofilm determinants (EfaAfs, srtC, and scm) may underpin the novel biofilm phenotype observed for this bacterium. Comparative analysis of E. lacertideformus with phylogenetically related and clinically significant enterococci (E. villorum F1129D, Enterococcus hirae R17, E. faecium AUS0085, and Enterococcus faecalis OG1RF) revealed an absence of genes (n = 54) in E. lacertideformus, that encode metabolic functionality, which potentially hinders nutrient acquisition and/or utilization by the bacterium and precludes growth in vitro. These data provide genetic insights into the previously determined phenotype and pathogenic nature of the bacterium.                 Copyright © 2021 Agius, Phalen, Rose and Eden.  
+</div>
+            
