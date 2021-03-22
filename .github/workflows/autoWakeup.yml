@@ -27,7 +27,7 @@ jobs:
         rm -rf post
     - name: Update RSS #更新
       run: | 
-        
+        python muti_work.py
         echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
     - name: Commit #更新日志到GitHub仓库
       run: |
