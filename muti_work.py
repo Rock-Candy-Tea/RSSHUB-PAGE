@@ -181,7 +181,7 @@ thumbnail: '{img}'
                     title = '"' + title + '"'
                 else:
                     title = "'" + title + "'"
-                author_child = ' - '+ author_child
+                author_child = '| '+ author_child
                 md_content = md_content.format(title=title, categories=categories, author_child=author_child,author_name=author_name, date=pubdate,
                                                text=text, img=img)
                 md_content = md_content.replace('{', '&#123;')
