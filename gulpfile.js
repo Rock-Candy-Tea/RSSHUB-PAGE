@@ -9,7 +9,7 @@
 var gulp = require('gulp');
 var minifycss = require('gulp-clean-css');
 var uglify = require('gulp-uglify-es').default;
-var htmlmin = require('gulp-htmlmin');
+var htmlmin = require('gulp-minify-html');
 var htmlclean = require('gulp-htmlclean');
 var imagemin = require('gulp-imagemin');
 var del = require('del');
@@ -60,12 +60,7 @@ gulp.task('minify-css', function () {
 gulp.task('minify-html', function () {
     return gulp.src('./public/**/*.html')
         .pipe(htmlclean())
-        .pipe(htmlmin({
-            removeComments: true,
-            minifyJS: true,
-            minifyCSS: true,
-            minifyURLs: true,
-        }))
+        .pipe(htmlmin())
         .pipe(gulp.dest('./public'))
 });
 
