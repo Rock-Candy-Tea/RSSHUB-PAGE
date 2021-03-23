@@ -1,0 +1,81 @@
+<% if (site.categories.length){ %>
+  <%- partial('_pre') %>
+  <section class="widget <%- item.class %> <%- page.widget_style %> <%- page.widget_platform %>">
+
+        <% var categories_list = site.categories.sort('name') %>
+        <% var list = [] %>
+        <% categories_list.each(function(item){
+          if(!item.parent) {
+            list_item={}
+            list_item['name']=item['name']
+            list_item['lenth']=item['length']
+            list_item['path']=item['path']
+            list_item['child']=[]
+            categories_list.each(function(item1){
+              if(item1['parent'] === item['_id']){
+                list_item1={}
+                list_item1['name']=item1['name']
+                list_item1['lenth']=item1['length']
+                list_item1['path']=item1['path']
+                list_item1['child']=[]
+
+                categories_list.each(function(item2){
+                  if(item2['parent'] === item1['_id']){
+                    list_item2={}
+                    list_item2['name']=item2['name']
+                    list_item2['lenth']=item2['length']
+                    list_item2['path']=item2['path']
+                    list_item1['child'].push(list_item2)
+                  }
+                })
+                list_item['child'].push(list_item1)
+              }
+            })
+            list.push(list_item)
+          }
+        })%>
+    <% var page_cata = page.path.split('/')[0] +'/'+page.path.split('/')[1]+'/'%>
+        <%if(is_category()){%>
+        <% for(i of list){%>
+          <% var list_cata = i['path'].split('/')[0] +'/'+i['path'].split('/')[1]+'/'%>
+          <% if(page_cata === list_cata){ %>
+          <header>
+
+            <a href="<%- url_for(page_cata) %>" data-pjax-state=""><i class="fas fa-folder-open fa-fw" aria-hidden="true"></i><span class="name"><%- i['name'] %></span></a>
+
+          </header>
+    <div class='content'>
+      <ul class="entry navigation">
+            <% for(j of i['child']){  console.log(j)%>
+
+            <li><a class="flat-box" title="<%- url_for(j['path']) %>" href="<%- url_for(j['path']) %>"
+                   id="<%= url_for(j['path']).replace(/\/|%|\./g, "")?url_for(j['path']).replace(/\/|%|\./g, ""):"home" %>"
+              ><div class='name'><%= j['name']%></div><div class='badge'>(<%= j['lenth']%>)</div></a></li>
+
+            <% if(j['child'].length>1){ %>
+                <% for(k of j['child']){%>
+                <li><a class="flat-box child" title="<%- url_for(k['path']) %>" href="<%- url_for(k['path']) %>"
+                       id="<%= url_for(k['path']).replace(/\/|%|\./g, "")?url_for(k['path']).replace(/\/|%|\./g, ""):"home" %>"
+                  ><div class='name'><%= k['name']%></div><div class='badge'>(<%= k['lenth']%>)</div></a></li>
+                <%}%>
+            <%}%>
+
+            <%}%>
+
+          <%}else{%>
+        <%}%>
+        <%}%>
+        <% } else{%>
+          <%- partial('header', {item: item}) %>
+        <div class='content'>
+          <ul class="entry navigation">
+        <% for(i of list){%>
+            <li><a class="flat-box" title="<%- url_for(i['path']) %>" href="<%- url_for(i['path']) %>"
+                   id="<%= url_for(i['path']).replace(/\/|%|\./g, "")?url_for(i['path']).replace(/\/|%|\./g, ""):"home" %>"
+              ><div class='name'><%= i['name']%></div><div class='badge'>(<%= i['lenth']%>)</div></a></li>
+          <% } %>
+        <% } %>
+      </ul>
+    </div>
+  </section>
+<% } %>

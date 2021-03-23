@@ -63,7 +63,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 50
+  per_page: 32
   order_by: -date
 
 # Category & Tag
@@ -86,7 +86,7 @@ updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 50
+per_page: 32
 pagination_dir: page
 
 # Include / Exclude file(s)
@@ -122,3 +122,23 @@ abbrlink:
 import:
   meta:
     - <meta name="referrer" content="no-referrer" />
+  link:
+    - <link rel="stylesheet" href="/css/diy.css">
+
+magnet:
+  enable: false
+  priority: 1
+  enable_page: all
+  type: categories
+  devide: 1
+  color_setting:
+    text_color: black
+    text_hover_color: white
+    background_color: '#f2f2f2'
+    background_hover_color: '#b30070'
+  layout:
+    type: class
+    name: l_side
+    index: 0
+  temple_html: '<section class="widget list group shadow desktop mobile"><header><i class="fa fa-book fa-fw" aria-hidden="true"></i> <span class="name">导航</span></header><div class="content">${temple_html_item}</div></section>'
+  plus_style: ""

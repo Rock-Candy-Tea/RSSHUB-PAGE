@@ -18,30 +18,63 @@ info:
 ############################### Navigation Bar ############################### > start
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
 navbar:
-  visiable: auto # always, auto
+  visiable: always # always, auto
   logo: # choose [img] or [icon + title]
     img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
     title:
   menu:
-    - name: 博客
-      icon: fas fa-rss
+    - name: 主页
+      icon: fas fa-home fa-fw
       url: /
-    - name: 分类
-      icon: fas fa-folder-open
-      url: categories/
-    - name: 标签
-      icon: fas fa-tags
-      url: tags/
-    - name: 归档
-      icon: fas fa-archive
-      url: archives/
-    - name: 友链
-      icon: fas fa-link
-      url: friends/
-    - name: 关于
-      icon: fas fa-info-circle
-      url: about/
+    - name: 博客订阅
+      icon: fas fa-rss
+      url: /categories/博客/
+    - name: 新媒体
+      icon: fas fa-podcast fa-fw
+      url: /categories/新媒体/
+    - name: 二次元
+      icon: fas fa-heart fa-fw
+      url: /categories/二次元/
+    - name: 游戏
+      icon: fa fa-gamepad fa-fw
+      url: /categories/游戏/
+    - name: 图片
+      icon: fas fa-puzzle-piece fa-fw
+      url: /categories/图片/
+    - name: 设计
+      icon: fas fa-magic fa-fw
+      url: /categories/设计/
+    - name: 编程
+      icon: fas fa-code fa-fw
+      url: /categories/编程/
+    - name: 金融
+      icon: fas fa-key fa-fw
+      url: /categories/金融/
+    - name: 社交媒体
+      icon: fas fa-users  fa-fw
+      url: /categories/社交媒体/
+    - name: 阅读
+      icon: fas fa-book fa-fw
+      url: /categories/阅读/
+    - name: 学习
+      icon: fas fa-graduation-cap fa-fw
+      url: /categories/学习/
+#    - name: 分类
+#      icon: fas fa-folder-open
+#      url: categories/
+#    - name: 标签
+#      icon: fas fa-tags
+#      url: tags/
+#    - name: 归档
+#      icon: fas fa-archive
+#      url: archives/
+#    - name: 友链
+#      icon: fas fa-link
+#      url: friends/
+#    - name: 关于
+#      icon: fas fa-info-circle
+#      url: about/
   search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -51,8 +84,8 @@ cover:
   height_scheme: full # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
-    home: true
-    archive: true
+    home: false
+    archive: false
     others: false # can be written in front-matter 'cover: true'
   background: https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
@@ -325,9 +358,12 @@ sidebar:
   widget_library:
     # ---------------------------------------
     # blogger info widget
+    # ---------------------------------------
+    # ---------------------------------------
+    # blogger info widget
     blogger:
       class: blogger
-      display: [desktop, mobile] # [desktop, mobile]
+      display: [] # [desktop, mobile]
       avatar: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
       shape: rectangle # circle, rectangle
       url: /about/
@@ -358,7 +394,7 @@ sidebar:
     # category widget
     category:
       class: category
-      display: [desktop] # [desktop, mobile]
+      display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fas fa-folder-open
         title: 文章分类
@@ -367,7 +403,7 @@ sidebar:
     # tagcloud widget
     tagcloud:
       class: tagcloud
-      display: [desktop, mobile] # [desktop, mobile]
+      display: [] # [desktop, mobile]
       header:
         icon: fas fa-tags
         title: 热门标签
@@ -491,11 +527,11 @@ plugins:
   # 图片懒加载
   # https://www.npmjs.com/package/vanilla-lazyload
   lazyload:
-    enable: false
+    enable: true
     js: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.1.0/dist/lazyload.min.js
     onlypost: false
     loadingImg: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@3/img/placeholder/c617bfd2497fcea598e621413e315c368f8d8e.svg
-    blurIn: false # 模糊加载效果 （loadingImg为空时有效）
+    blurIn: true # 模糊加载效果 （loadingImg为空时有效）
 
   ######## Plugins to optimize the experience:
 
@@ -835,7 +871,7 @@ custom_css:
     zoom-in: https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/zoom-in.png
     grab: https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/openhand.png
   font_smoothing: true # font-smoothing for webkit
-  max_width: 1080px # Sum of body width and sidebar width (This limit will be exceeded when the device width is greater than 2000px, reaching 75% of the total width)
+  max_width: 1600px # Sum of body width and sidebar width (This limit will be exceeded when the device width is greater than 2000px, reaching 75% of the total width)
   scrollbar:
     size: 4px
     border: 2px
@@ -871,7 +907,7 @@ custom_css:
   fontsize:
     root: 16px
     h1: 1.5rem # 不推荐用在文章中
-    h2: 1.5rem
+    h2: 1.25rem
     h3: 1.25rem
     h4: 1.125rem
     h5: 1rem
