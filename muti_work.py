@@ -6,21 +6,7 @@ import time
 import re
 import os
 import yaml
-
-def get_image(link,name):
-    try:
-        proxies = {'https': 'https://cors.zfour.workers.dev/?'}
-        r = requests.get(link,proxies=proxies)
-        if r.status_code == 200:
-            open('source/images/'+name+'.png', 'wb').write(r.content)  # 将内容写入图片
-            print("done")
-        del r
-
-    except Exception as e:
-        error_line = e.__traceback__.tb_lineno
-        error_info = '第{error_line}行发生error为: {e}'.format(error_line=error_line, e=str(e))
-        print(error_info)
-     
+    
 def load_config(path):
     f = open(path, 'r', encoding='utf-8')
     ystr = f.read()
@@ -157,10 +143,9 @@ def get_post(source, result, categories):
                 if soup_item.find('img'):
                     img = soup_item.find('img')['src']
                     if 'https://' not in img:
-                        img_list = soup_item.find_all('img')
-                        for item in img_list:
-                            img_index +=1
-                            get_image(item['src'],str(img_index))
+                        text.replace('src="http://','src="https://cors.zfour.workers.dev/?http://')
+                        img = soup_item.find('img')['src']
+                        print('已挂载cf代理,封面图为:',img)
                     
                     img = soup_item.find('img')['src']
                 else:
