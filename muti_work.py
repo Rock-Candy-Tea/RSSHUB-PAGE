@@ -143,7 +143,7 @@ def get_post(source, result, categories):
                 if soup_item.find('img'):
                     img = soup_item.find('img')['src']
                     if 'https://' not in img:
-                        text.replace('src="http://','src="https://cors.zfour.workers.dev/?http://')
+                        text = text.replace('src="http://','src="https://cors.zfour.workers.dev/?http://')
                         soup_item2 = BeautifulSoup(text, 'html.parser')
                         img = soup_item2.find('img')['src']
                         print('已挂载cf代理,封面图为:',img)
