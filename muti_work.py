@@ -146,8 +146,6 @@ def get_post(source, result, categories):
                         text.replace('src="http://','src="https://cors.zfour.workers.dev/?http://')
                         img = soup_item.find('img')['src']
                         print('已挂载cf代理,封面图为:',img)
-                    
-                    img = soup_item.find('img')['src']
                 else:
                     img = ''
             if (child.name == 'guid'):
