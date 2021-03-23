@@ -195,9 +195,9 @@ slect:
 
 ##Hi, DIYgod
 ###DIYgod 的动森日记
- - /blogs/diygod/animal-crossing
+# - /blogs/diygod/animal-crossing
 ###DIYgod 的可爱的手办们
- - /blogs/diygod/gk
+# - /blogs/diygod/gk
 
 ##JustRun
 ###JustRun
@@ -1041,7 +1041,7 @@ slect:
 ###正在热映
  - /maoyan/hot
 ###即将上映
- - /maoyan/upcoming
+# - /maoyan/upcoming
 
 ##奈菲影视
 ###分区
@@ -3236,11 +3236,11 @@ slect:
 
 ##知識分子
 ###新聞
- - /zhishifenzi/news/ai
+# - /zhishifenzi/news/ai
 ###深度
- - /zhishifenzi/depth
+# - /zhishifenzi/depth
 ###创新
- - /zhishifenzi/innovation/company
+# - /zhishifenzi/innovation/company
 
 ##中国大学 MOOC (慕课)
 ###最新
