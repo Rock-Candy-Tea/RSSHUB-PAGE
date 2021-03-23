@@ -1,0 +1,19 @@
+
+---
+title: '_Finance_ Portfolio Return, SD'
+categories: 
+    - 博客
+    - Google Sites
+    - 文章更新
+
+author: Google Sites
+comments: false
+date: Tue, 23 Mar 2021 04:29:27 GMT
+thumbnail: ''
+---
+
+<div>   
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">功能：計算Portoflio Return, SD<div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Portfolio Return, SD</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz5UICGm28rjea13FJvIcaVothyOOR-6XQkrl1VsrTIZ_KAAvA/exec?mid=ACjPJvHCN0NBOBH3gVCIw0i25iOXpuOeM-MV00st10c2nTVEtM7BcjEypL6HcgJICU5qvGzNQWuVnE7-EJr_j0zWIQ0Nz49j9k6s8M2yudbl2O5KgHdYztMOb3cPCY_rmqkvWdBMuumuZbC365Hg0Fw54bRX99lzYYwDAw&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Portfolio Return, SD" width="100%" height="400" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_904126605"></iframe></div></div></div></div><br></div></div></td></tr></tbody></table>
+  
+</div>
+            
