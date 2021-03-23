@@ -1,0 +1,32 @@
+
+---
+title: 'Oxplyr Logo (O + Player)'
+categories: 
+    - 设计
+    - Dribbble
+    - 关键词
+
+author: Dribbble
+comments: false
+date: Invalid Date
+thumbnail: 'https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=400x300'
+---
+
+<div>   
+<div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="Oxplyr Logo (O + Player) logo collection logo folio 2021 logo trends 2021 video player monogram design o letter logos logo maker logo mark monogram logo logo design colorful logo abstract logo gradient logo logo designer lettermark logo and branding brand identity modern logo branding agency" width="768" height="579" data-id="7078428" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/cb2e8a1122e209f7be8fd99de7a80b48.jpg?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+
+  <div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="Oxplyr Logo (O + Player) logo collection logo folio 2021 logo trends 2021 video player monogram design o letter logos logo maker logo mark monogram logo logo design colorful logo abstract logo gradient logo logo designer lettermark logo and branding brand identity modern logo branding agency" width="768" height="579" data-id="7078429" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/7ab8e6758d2684f8e247e62747bdd4b6.jpg?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+
+  <div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="Oxplyr Logo (O + Player) logo collection logo folio 2021 logo trends 2021 video player monogram design o letter logos logo maker logo mark monogram logo logo design colorful logo abstract logo gradient logo logo designer lettermark logo and branding brand identity modern logo branding agency" width="768" height="579" data-id="7078430" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/5123069/screenshots/15320831/media/a3c00b667b439702426bae39e59140cf.png?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+<br>
+                        <br>
+                        0 likes<br>
+                        0 saves  
+</div>
+            
