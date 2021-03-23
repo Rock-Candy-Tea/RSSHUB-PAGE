@@ -118,3 +118,7 @@ search:
 abbrlink:
   alg: crc16 #support crc16(default) and crc32
   rep: hex    #support dec(default) and hex
+  
+import:
+  meta:
+    - <meta name="referrer" content="no-referrer" />
