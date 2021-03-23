@@ -5,6 +5,8 @@ on:
   release:
     types: [published]
   repository_dispatch:
+  schedule:
+    - cron: "0 0-15/4 * * *"
   watch:
     types: [started]
    
