@@ -170,7 +170,7 @@ title: {title}
 categories: 
  - {categories}
  - {author_name}
- - — {author_child}
+ - {author_child}
 headimg: '{img}'
 author: {author_name}
 comments: false
