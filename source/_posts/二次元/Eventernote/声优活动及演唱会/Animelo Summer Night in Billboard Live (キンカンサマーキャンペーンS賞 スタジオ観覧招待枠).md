@@ -1,0 +1,23 @@
+
+---
+title: 'Animelo Summer Night in Billboard Live (キンカンサマーキャンペーンS賞 スタジオ観覧招待枠)'
+categories: 
+ - 二次元
+ - Eventernote
+ - — 声优活动及演唱会
+headimg: ''
+author: Eventernote
+comments: false
+date: 2021-03-23 13:35:04
+thumbnail: ''
+---
+
+<div>   
+イベント Animelo Summer Night in Billboard Live (キンカンサマーキャンペーンS賞 スタジオ観覧招待枠)
+開催場所 ビルボードライブ横浜 (Billboard Live YOKOHAMA)
+開場 2020-08-30 18:30
+開演 2020-08-30 19:00
+終演 2020-08-30 22:22
+  
+</div>
+            

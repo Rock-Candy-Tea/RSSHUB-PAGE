@@ -1,0 +1,63 @@
+
+---
+title: 'DevOps测试的简易指引'
+categories: 
+ - 编程
+ - Dockone
+ - — 周报
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210322/3c04ba03dc5fe6edf64c8e3a02bc48dc.png'
+author: Dockone
+comments: false
+date: 2021-03-23 13:32:51
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210322/3c04ba03dc5fe6edf64c8e3a02bc48dc.png'
+---
+
+<div>   
+<br>【编者的话】DevOps中测试的目的是在反馈环、开发工具、QA团队和Ops团队之间取得平衡。我们将讨论DevOps中测试策略和最佳实践。<br>
+<h3>DevOps中测试的定义</h3>DevOps如同其单词来源，是鼓励开发和IT运营团队之间合作关系的一种实践，以满足软件持续集成、持续部署（CI/CD）和现代软件交付的愿景。然而，开发和IT运营团队的融合协同只是完成了目标的一半，意图获得DevOps的全部受益，测试在持续交付链中的作用是不可或缺的。<br>
+<br>那么，DevOps中测试是什么概念呢?本质上说，DevOps中的测试是在目标、反馈环、开发工具、QA和运营团队之间的技能叠加方面取到恰当的平衡，既促进了开发、测试、运营三个团队的协作，同时也实现了软件交付和基础设施变更的过程自动化。<br>
+<h4>如何做好DevOps中的测试？</h4>在DevOps中所进行的测试将不再是独立执行的，而是与开发并行开展，从而催生出更快的反馈环，以便让每个团队都能知道他们的工作将如何影响交付流程中的其它部分。因此，我们可以发现在整个DevOps循环中，都非常重视产品质量。<br>
+<br>通过敏捷声明将敏捷方法论融入到团队中，DevOps测试团队制定了称之为“DevTestOps”声明，全面规定了大规模软件测试的指导原则。包括：<br>
+<ul><li>持续测试优于最终测试； </li><li>采纳所有的测试行为优于一切自动化； </li><li>基于客户使用情况，测试有价值的内容优于过度测试所有内容；</li><li>全员参与测试优于独立的测试部门测试； 产品覆盖率优于代码覆盖率。</li></ul><br>
+<br>遵循和采用上述DevTestOps实践，可以实现在软件开发过程中，具备更好的可见性，帮助团队实现预期的产品质量，从而确保常规部署在较少被中断的情况下顺利进行。在接下来的章节中，我们将看到如何在DevOps中集成测试，规划出良好的DevOps测试策略、最佳实践和工具。值得借鉴的案例就是NETFLIX通过消除了开发、测试和运营之间的部门阻碍，实现每天在生产环境中更新部署代码达到1000次或以上。<br>
+<h3>自动化测试：DevOps的驱动者</h3>DZone的<a href="http://cdn.agilitycms.com/sauce-labs/white-papers/dzone-automated-testing-guide-2017.pdf">自动化测试研究报告</a>表明：在拥有专门DevOps团队的机构中工作的受访者中，有49%的人认为DevOps团队的目标之一是在整个SDLC中引入自动化。<br>
+<ul><li>DevOps需要自动化测试的原因主要包括：按部署的速度，要求完成持续测试代码和代码修复几乎是不可能的；</li><li>必须在软件持续交付链中，能够跟踪QA团队； 不恰当的测试行为和临时的QA团队会削弱了所构建软件的质量；</li><li>更长的反馈周期迫使开发和QA将代码部署生产环境中，以达到预期的速度。</li></ul><br>
+<br>整合自动化测试是将QA有效集成到DevOps工作流中的可靠方法。缺少了恰当的自动化测试，我们对构建跨CI/CD管道，实现有效DevOps流程化的追求将会是一个遥不可及的梦想。从这个意义上说，自动化测试扮演的就是DevOps的驱动者。<br>
+<h3>开启测试自动化</h3>正如我们前面所讨论的，自动化测试是整个DevTestOps背后的一个关键因素。每晚或周末手动运行大量的夜间测试套件只会阻碍实现DevOps的目标。让我们深入了解一下测试自动化的开启方式。<br>
+<br>由于测试自动化的技术复杂性，测试自动化技能很难掌握。对于那些还没有在交付链中采用自动化测试或处于早期技术摸索阶段的公司来说，DevOps还将是一个遥远的目标。<br>
+<br>对于成功实现DevTestOps的公司，一个测试自动化工程师需要具备对软件功能、继承的技术细节、自动化和CI / CD工具的选择，脚本语言，自动化框架设计、报表需求等具有非常好的理解力，具备配置持续测试需求的能力，能够在软件开发的同时完成测试脚本的开发。<br>
+<br>设想你正在为自己公司启动测试自动化的工程，可以考虑采用以下4项建议：<br>
+<ol><li>在公司内部或外部咨询公司寻找一位了解工程目标并具有目标实现计划的专家。</li><li>选择一位具有测试自动化方面经验，且再软件开发方面具备更广泛经验的人。</li><li>精通工程的专家具有清晰的愿景，能够从多种渠道获取技术经验，并实施正确的技术方法、过程和指导方针，从而显著地提高软件质量。</li><li>在手动和自动测试之间取得最佳平衡实际上可以获得超预期的成果回报。</li></ol><br>
+<br>在典型的DevTestOps文化中，所有的团队都将一起工作，以简化流程，促进软件产品质量与文化的内在一致。<br>
+<h3>使用DevOps开展QA工作</h3>如果你试图在你的组织中使用DevOps开展QA工作，但不知道如何测量以下3个指标，可参见下表：<br>
+<div class="aw-upload-img-list active">
+<a href="http://dockone.io/uploads/article/20210322/3c04ba03dc5fe6edf64c8e3a02bc48dc.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210322/3c04ba03dc5fe6edf64c8e3a02bc48dc.png" class="img-polaroid" title="图片_1.png" alt="图片_1.png" referrerpolicy="no-referrer"></a>
+</div>
+<br>
+<div class="aw-upload-img-list active">
+<a href="http://dockone.io/uploads/article/20210322/265097e37b30757febdbd0749abc49c7.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210322/265097e37b30757febdbd0749abc49c7.png" class="img-polaroid" title="图片_2.png" alt="图片_2.png" referrerpolicy="no-referrer"></a>
+</div>
+<br>
+备注：为持续集成、持续测试、持续反馈流程所配置的所有活动，都将帮助团队更快更好地构建软件，并使DevOps之旅更有价值。<br>
+<h3>DevOps测试策略</h3>生成一套最佳的DevOps测试策略需要对软件进行详细的评估，并综合其他因素来规划一个精简的测试架构。如下为一套成功DevOps测试策略的重点区域。<br>
+<h4>自动化的是用户行为，而非测试</h4>我们期望通过自动化测试的帮助，防止在生产过程中出现的软件缺陷。实现这个目的并能够更早控制缺陷的一种方法是部署自动化框架，并将其与测试驱动开发（TDD）/行为驱动开发（BDD）相结合，后者更加聚焦于用户行为的自动化，而不是测试自动化。遵守这一点可以确保更大的可测试性，最大限度的代码覆盖率，以及团队之间的积极协作。<br>
+<h4>优化测试环境</h4>除了编写正确的自动化测试脚本，我们还应该考虑优化测试环境，该环境包括用户条件、相关测试数据，以及应对多种高峰时段、不同产品需求等挑战的能力，以适应整个DevOps策略。这将有助于在更早的流程阶段中缓解软件质量问题。<br>
+<h4>分析关键测试数据</h4>随着大量测试套件的运行，将产生巨量的测试数据。非常有必要检查和分析这其中的关键测试数据，以获得软件质量状态的可见性，发现CI管道的运行状况，并识别有助于稳定持续测试、帮助软件发布周期的测试异常。<br>
+<h4>持续测量KPI</h4>为了理解我们在DevOps成熟度中所处的位置，我们应该持续测量对软件质量有贡献的KPI指标，主要包括：<br>
+<ul><li>按阶段、步骤、原因、功能和趋势识别缺陷；</li><li>流转到生产环境中缺陷的百分率占比；</li><li>精确定位手工测试与自动测试的缺陷；</li><li>追踪Flaky测试的趋势等。</li></ul><br>
+<br><h3>DevOps测试最佳实践</h3>如下是一些在DevOps架构中实现有效测试过程的通用最佳实践。<br>
+<h4>智能自动化</h4>我们已经详细讨论了DevOps中自动化的重要性，然而这并不意味着自动化测试在任何情况下都能起到帮助作用。成功应用自动化的关键是首先找到可自动化的测试。例如可用性测试、部署后测试等少数测试，采用手动测试的效果反而会更好。<br>
+<h4>敏捷迭代</h4>在每个团队中聚焦快速迭代和敏捷迭代会带领我们实现持续交付的目标。一系列更小、更敏捷的开发使团队能够进行彻底的测试，从而推动更快的部署。同时，这些迭代可以洞察变更，并能够确保更频繁、更早地进行部署。<br>
+<h4>DevOps指标和文档</h4>顾名思义，DevOps就是团队之间的协作。当我们开始使用它时，需要有清晰的认识，并制定度量指标和文档。它提供了所在系统中正在发生的进程和变更的信息。此外，它增强了透明度，如果没有恰当的文档，就很难检查和理解DevOps架构中的有效和失效组件。同时，恰当的文档也为未来的决策提供了基础。<br>
+<h3>DevOps测试工具</h3>由于DevOps测试是建立在专注于常规软件测试生命周期之上的敏捷实现，而不是一个完全开箱即用的测试，用于常规测试过程的工具也可以用于DevOps中的测试。以下是一些常用的测试工具：<br>
+<ul><li>Selenium </li><li>Jenkins </li><li>Appium </li><li>Cucumber </li><li>TestNG </li><li>Maven </li><li>Appium </li><li>Bamboo</li></ul><br>
+<br><h3>最后的想法</h3>尽管有大量可用的资源来指导您在DevOps中进行测试，但是成功部署并获得DevOps的全部受益取决于组织的测试成熟度，它的外部咨询/测试合作伙伴等因素，并没有一种放之四海而皆准的模式。<br>
+<br><strong>原文链接：<a href="https://dzone.com/articles/a-brief-guide-to-testing-in-devops">A Brief Guide to Testing in DevOps</a>（翻译：易理林）</strong>
+                                                                <div class="aw-upload-img-list">
+                                                                                                                                                                                                </div>
+                                
+                                                                <ul class="aw-upload-file-list">
+                                                                                                                                                                                                                    </ul>
+                                                              
+</div>
+            
