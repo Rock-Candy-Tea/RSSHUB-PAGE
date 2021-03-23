@@ -1,0 +1,19 @@
+
+---
+title: '小米 11 Pro_Ultra 官宣：挑战 _安卓机皇_称号'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/3/20210323_100507_562.jpg'
+author: IT 之家
+comments: false
+date: Tue, 23 Mar 2021 02:11:01 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/3/20210323_100507_562.jpg'
+---
+
+<div>   
+<p>IT之家 3 月 23 日消息 小米官方昨天宣布，小米春季新品发布会将于 3 月 29 日 19 点 30 分举行，主题是 “生生不息”，外界普遍猜测这次小米有望发布小米 11 Pro 系列旗舰手机，今天官方正式确认了这一消息。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/3/20210323_100507_562.jpg" w="690" h="920" title="小米 11 Pro/Ultra 官宣：挑战 “安卓机皇”称号" width="690" height="920" referrerpolicy="no-referrer"></p><p>小米手机官微刚刚发微博称，“超大杯来了，还有一个超大份野心：<span class="accentTextColor">小米 11 Pro & Ultra 正式挑战「安卓机皇」称号</span>！这一挑战，为千千万万追求极致的发烧友而战。这一挑战，为你而战，为所有米粉而战！”</p><p>在如今强手如林的智能手机市场，想要挑战「安卓机皇」显然不容易，这就需在设计、性能、拍照、续航、系统等全方面都有非常强悍的表现。根据此前爆料，小米 11 Pro 将会配备双主摄镜头 + 潜望式长焦镜头的三摄组合，最高支持 120 倍变焦，其中主摄是三星 SOCELL GN2 5000 万像素镜头，1/1.12 英寸传感器。同时，小米 11 Pro 背部还会有一个小尺寸副屏，可显示主屏内容。其他方面，小米 11 Pro 据称还会有四曲面挖孔屏设计、2K + 分辨率 / 120Hz 刷新率 / 480Hz 触控采样率屏幕、骁龙 888 处理器、LPDDR5 内存、UFS 3.1 闪存、67W 有线快充、67W 氮化镓充电器等。</p><p>IT之家了解到，“轻薄大作”小米笔记本 Pro 15 也已经确认亮相 3 月 29 日发布会，不妨期待一下。</p>
+          
+</div>
+            
