@@ -69,7 +69,9 @@ jobs:
     - name: Hexo Generate
       run: |
         node --max_old_space_size=8000
+        hexo clean
         hexo g -c 1
+        gulp
 
     - name: Deploy
       run: |
