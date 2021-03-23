@@ -148,7 +148,7 @@ def get_post(source, result, categories):
                         img = soup_item2.find('img')['src']
                         print('已挂载cf代理,封面图为:',img)
                 else:
-                    img = ''
+                    img = '/images/404.gif'
             if (child.name == 'guid'):
                 pass
             if (pubdate == ''):
