@@ -1,0 +1,19 @@
+
+---
+title: '《不可名状的地牢》开发日志 1：克苏鲁 + 战旗 + DBG'
+categories: 
+ - 游戏
+ - Indienova
+ - indienova 文章
+headimg: 'https://hive.indienova.com/farm/blog/2021/03/u-3807516124857Rtm.png'
+author: Indienova
+comments: false
+date: 2021-03-24 08:15:59
+thumbnail: 'https://hive.indienova.com/farm/blog/2021/03/u-3807516124857Rtm.png'
+---
+
+<div>   
+<h4>一、这是一个什么题材的游戏？</h4><p>《不可名状的地牢》是一款以克苏鲁的呼唤也就是 COC 跑团为背景题材的游戏。选择这个题材，是因为本人自身是一名 COC 跑团玩家。游戏的剧情为作为一名跑团玩家的你，不知因为什么原因陷入到一个神奇的地牢中，然后你以前车的角色卡莫名其妙的复活了过来的故事。所以游戏中的角色除了生命值这个属性，还有个是 San 值，一些强力卡牌需要支付 San 值来发动。当 San 归 0 时，角色就会死亡，同时会招来污秽生物。</p><h4>二、这款游戏是什么样的玩法？</h4><p>《不可名状的地牢》是一款  战旗+卡牌 DBG+roguelike  游戏</p><p>随着杀戮尖塔等 DBG 游戏的大火，相信知道 DBG 的玩家已经不在少数。而传统 DBG 战斗模式大部分是 1v1 或者 1vN，讲究单个角色的卡牌构筑玩法。</p><p>而战旗游戏是 NvN，玩家一般会拥有多个棋子，不同的棋子担任的任务不同，通过棋子之间的搭配策略完成战斗的胜利。</p><p>将这两种模式进行融合，是因为我想尝试创造一种新鲜的体验，一种新的 DBG 体验。</p><p>因为战旗模式本身就具有其复杂性，此处我进行了简化，所以在我的设定中，只能选择 2 个棋子参战。</p><p><br></p><p>从众多棋子中选择 2 枚组队探险</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516124857Rtm.png" referrerpolicy="no-referrer"></p><p>所以不同的棋子各自的牌组，战斗方式也就不尽相同，然后在游戏过程不断进行卡组构筑，实现变强的一个过程。</p><h4>三、战旗与卡牌的融合</h4><p>卡牌游戏讲究大部分的操作是由卡牌打出的，所以这里我将战旗中的移动做成了卡。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516124897Mez.png" referrerpolicy="no-referrer"></p><p>选择卡牌时，可以看到其可移动范围。</p><p>当然既然做成了卡，那么肯定会有与其对应的套路玩法。</p><p>下面我来介绍下，剑道的瞬步流（卡图美术资源未完成，请见谅）。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516124917qsf.png" width="356" referrerpolicy="no-referrer"></p><p>关键卡牌：</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125004hQb.jpg" width="535" referrerpolicy="no-referrer"></p><p>使用“步伐技巧”可生成瞬步，配合“身轻如燕”抽卡压缩牌组，再配合游戏中其他获得行动点的卡，精简牌组的情况，可抽大量牌，最后打出剁脚，造成巨额伤害！</p><p>当然游戏中还有其他有趣的流派：剑气流，哑弹流，距离流等。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125036SUC.png" referrerpolicy="no-referrer"></p><p>DBG 游戏中，如果要将卡组发挥出最大能力，一个非常强力的构筑方向为永动，当然构筑出永动是比较有难度的，有可能暴毙，能获得费卡，抽卡能力都是强力的卡，抽牌就是对卡组进行压缩，让卡组的强卡尽量循环出来，当然大部分卡组在实现永动的过程中，其实就已经非常强力了。</p><h4>四、不同的策略思路</h4><p>游戏中可以看到敌人的手牌，这些卡牌就是他下回合将要打出的，可以根据他的手牌来进行不同的操作。</p><p><img class="fr-fin fr-dib" alt="调查员对阵奈亚" src="https://hive.indienova.com/farm/blog/2021/03/u-38075161250750V5.png" title="调查员对阵奈亚" referrerpolicy="no-referrer"></p><p>同时也可以针对其来进行操作。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125110TPr.png" referrerpolicy="no-referrer"></p><div class="text-center image-caption"><small>康掉 1 张手牌</small></div><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125132HmJ.png" referrerpolicy="no-referrer"></p><div class="text-center image-caption"><small>让其重新抽卡，避开对方的强力卡</small></div><p style="text-align: center;"><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125147NM8.png" referrerpolicy="no-referrer"></p><div class="text-center image-caption"><small>稀有卡，直接夺取对方卡组的卡</small></div><p style="text-align: center;">（灵感来源：来自游戏王的 DIY 卡，抢夺，本人也是一名多年的游戏王玩家）</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-38075161251803xJ.png" referrerpolicy="no-referrer"></p><p>“抢夺”虽然此卡 1 场战斗只能用 1 次，但是可以衍生出拿敌人的卡来进行 Build，遇强则强！</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-38075161252192Zo.png" referrerpolicy="no-referrer"></p><p>此卡也是一次性卡，可以移除敌人卡组中令人棘手的卡。</p><p>但是也可以对队友使用，那么他的效果就是移除队友卡组的废卡，让队友的卡组变得精简。</p><h4>五、欢迎交流</h4><p>目前游戏在群里已经提供测试版，但是游戏目前还未完成，存在着不足，欢迎大家来下载试玩，提出意见，完善游戏，我需要你们的帮助。（顺便一提，正在寻找美术合作，长期短期都可，如果有感兴趣的美术可联系我 QQ: <code>2234550345</code> 合作方式可谈）</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/03/u-3807516125243Tun.png" referrerpolicy="no-referrer"></p><p style="text-align: center;"><code>371531785</code></p>
+              
+</div>
+            

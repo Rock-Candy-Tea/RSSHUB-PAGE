@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/80/a6da1ffb0d727e4033cbdffce41bvo85.JPG?v=1616553853048'
 author: 巴哈姆特
 comments: false
-date: 2021-03-24 05:20:31
+date: 2021-03-24 08:16:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/a6da1ffb0d727e4033cbdffce41bvo85.JPG?v=1616553853048'
 ---
 
@@ -105,10 +105,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/a6da1ffb0d727e4033cbdffce41bvo85.
 </div>
 <p class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%A0%82+2+M" target="_blank">天堂 2 M</a>》金城武電視廣告完整版</p>
-<div>
-　　官方表示，除了邀請到國際級藝人作為代言人外，NCSOFT 也與台北 101 合作，在 24 日以及 28 日兩天，晚上 18 點 30 分至 22 點進行點燈，向台灣英雄致敬，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%A0%82+2+M" target="_blank">天堂 2 M</a>》與台北 101 共同見證台灣的驕傲。</div>
-<div>
- </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%A0%82+2+M" target="_blank">天堂 2 M</a>》正式在台上市，官方也特別為此推出了許多活動。</div>
 <div>
