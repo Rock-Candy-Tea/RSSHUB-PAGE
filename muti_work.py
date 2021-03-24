@@ -6,6 +6,7 @@ import time
 import re
 import os
 import yaml
+import random
     
 def load_config(path):
     f = open(path, 'r', encoding='utf-8')
@@ -148,7 +149,7 @@ def get_post(source, result, categories):
                         img = soup_item2.find('img')['src']
                         print('已挂载cf代理,封面图为:',img)
                 else:
-                    img = '/images/404.gif'
+                    img = 'https://picsum.photos/200/300?random='+ str(random.randint(0,10000))
             if (child.name == 'guid'):
                 pass
             if (pubdate == ''):
