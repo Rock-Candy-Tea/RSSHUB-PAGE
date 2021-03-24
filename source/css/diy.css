@@ -7,7 +7,18 @@
     max-width: calc(25% - 1.8rem);
     flex-basis: calc(25% - 1.8rem);
     margin: 0 0.8rem;}
-
+@media screen and (max-width: 1350px) {
+    .l_main .post-wrapper {
+    max-width: calc(50% - 1.8rem);
+    flex-basis: calc(50% - 1.8rem);
+    margin: 0 0.8rem;}
+  }
+  @media screen and (max-width: 500px) {
+   .l_main .post-wrapper {
+    max-width: calc(100%);
+    flex-basis: calc(100%);
+    margin: 0 0.8rem;}
+  }
 .headimg-div .headimg-a {
     display: block;
     overflow: hidden;
