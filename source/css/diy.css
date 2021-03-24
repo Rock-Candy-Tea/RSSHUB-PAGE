@@ -4,6 +4,7 @@
     column-gap: 0px!important;
 }
 .l_main .post-wrapper {
+    max-width: calc(25% - 1.8rem);
     flex-basis: calc(25% - 1.8rem);
     margin: 0 0.8rem;}
 
