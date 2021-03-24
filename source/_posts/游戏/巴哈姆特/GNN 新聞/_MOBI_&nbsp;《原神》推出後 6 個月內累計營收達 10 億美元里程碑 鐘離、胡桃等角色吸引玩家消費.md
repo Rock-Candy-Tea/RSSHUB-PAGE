@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/20/482e68b8368d583182bc6a54171bvs45.JPG?v=1616568871959'
 author: 巴哈姆特
 comments: false
-date: 2021-03-24 08:16:05
+date: 2021-03-24 12:17:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/482e68b8368d583182bc6a54171bvs45.JPG?v=1616568871959'
 ---
 
@@ -67,7 +67,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/482e68b8368d583182bc6a54171bvs45.
 </ul>
 </div>
 <div>
-　　以地區來看，中國是《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》手機版營收最大市場，迄今為止僅 iOS 便累積超過 3.02 億美元的營收，佔全球玩家支出的 29.5%（Sensor Tower 所調查之數據並未追蹤第三方 Android 商店）。日本則以 2.783 億美元排名第 2，佔 27.2%。美國則以 1.89 億美元 排名第 3 ，佔 18.5%。</div>
+　　以地區來看，中國是《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》手機版營收最大市場，迄今為止僅 iOS 便累積超過 3.02 億美元的營收，佔全球玩家支出的 29.5%<span style="font-size:13px;">（※Sensor Tower 所調查之數據並未追蹤第三方 Android 商店）</span>。日本則以 2.783 億美元排名第 2，佔 27.2%。美國則以 1.89 億美元 排名第 3 ，佔 18.5%。</div>
 <div>
  </div>
 <div>
