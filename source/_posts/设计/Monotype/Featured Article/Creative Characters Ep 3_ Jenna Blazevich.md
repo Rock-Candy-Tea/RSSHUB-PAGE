@@ -492,6 +492,22 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
 
   </div>
 
+<div data-block-plugin-id="block_content:2bc823b1-15e6-40c0-9da6-8aa3c3130b3d" class="block block-block-content block-block-content2bc823b1-15e6-40c0-9da6-8aa3c3130b3d">
+  
+  
+      <div class="marketo-wrapper" id>
+              
+  <h2 class="marketo-main-title">
+    Check out the episode.
+  </h2>
+                              <div class="marketo-embed-code">
+            <iframe src="https://open.spotify.com/embed-podcast/episode/4qB8zTkAaZkp4qMabC9w45" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+          </div>
+                  </div>
+    
+  </div>
+
+
             
 </div>
             

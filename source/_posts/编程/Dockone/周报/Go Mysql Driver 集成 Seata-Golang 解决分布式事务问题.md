@@ -5,20 +5,19 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/1e903557140d42f1a532b439b0e39910.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png'
 author: Dockone
 comments: false
-date: 2021-03-25 08:09:41
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/1e903557140d42f1a532b439b0e39910.png'
+date: 2021-03-25 12:53:43
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/1e903557140d42f1a532b439b0e39910.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 刘晓敏  GitHub ID：dk-lockdown<br>
 来源 | <a href="https://mp.weixin.qq.com/s/CB6BCai1k2tCJBOWJ9o1_g">阿里巴巴云原生公众号</a><br>
 <br><h1>背景</h1>2020 年 4 月，我们开始尝试实现 go 语言的分布式事务框架 <a href="https://github.com/opentrx/seata-golang">Seata-Golang</a>。众所周知，Seata AT 模式以无业务代码侵入的特点，被广大开发者推崇。Java 版 Seata AT 模式通过对 DataSource 数据源进行代理，在 sql 语句执行时，对 sql 拦截解析，获取数据库对应数据在 sql 语句执行前后的副本，序列化后保存起来，在 TC 协调回滚时用来回滚对应数据。实现 go 版本 client 的 AT 模式时，怎样对业务开发者更友好，入侵更少，成了首要考虑的目标。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210325/3c851f463993a7b05eadeaf1807ca393.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>使用 go 操作数据库时，我们会使用到 go 语言的官方库 <code class="prettyprint">database/sql</code>，通过 <code class="prettyprint">sql.Open(&quot;mysql&quot;, $&#123;dsn&#125;)</code> 获取一个数据源操作对象 db。开启事务时，使用 <code class="prettyprint">db.Begin()</code> 或 <code class="prettyprint">db.BeginTx(ctx, &amp;sql.TxOptions&#123;&#125;)</code> 获得事务操作对象 tx，执行 sql 查询使用 <code class="prettyprint">tx.Query</code>；执行 sql 新增、修改、删除，使用 <code class="prettyprint">tx.Exec</code>；最后使用 <code class="prettyprint">tx.Commit()</code> 提交或使用 <code class="prettyprint">tx.Rollback()</code> 回滚。<br>
@@ -31,7 +30,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/1e903557140d42f1a532b43
 &#125;</code><br>
 <br><h1>转折</h1>Seata-Golang  开源后，逐渐被一些开发者了解和接触，社区也对 Seata-Golang 发出了一些反馈的声音，不少开发者并不习惯写原生 sql，他们希望将 Seata-Golang 集成到 ORM 框架，因为当时的设计没有完全兼容 <code class="prettyprint">database/sql</code> 导致集成上遇到一些困难。随着社区的热切呼唤，且得益于前期对 driver 的一些研究，念念不忘必有回响，今年 3 月突然灵感迸发：为什么参数一定要通过 DSN 传递？Seata-Golang Client 初始化后，在需要时通过 Client 端的 API <code class="prettyprint">config.GetATConfig()</code> 直接获取使用不就可以了。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210325/58b31614bd45c151eb93c1c6d9a3912f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210325/58b31614bd45c151eb93c1c6d9a3912f.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210325/58b31614bd45c151eb93c1c6d9a3912f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210325/58b31614bd45c151eb93c1c6d9a3912f.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>于是工作之余，历时 2 周开发，第一个集成 Seata-Golang 的完全兼容 <code class="prettyprint">database/sql</code> 的 mysql driver 被开发出来，项目开源在 <a href="https://github.com/opentrx/mysql" rel="nofollow" target="_blank">https://github.com/opentrx/mysql</a>，现处于 beta 状态，希望社区开发者使用后能有一些反馈，可通过例子：<a href="https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247502784&idx=1&sn=6d2a90ba50b3bb025bf0f4f4fea7a848&chksm=fae6c00fcd91491924525f152ab388bf94a01c5e945292063ab218eec9419eff7443cfd0dde5&token=1233080785&lang=zh_CN"></a><a href="https://github.com/opentrx/seata-go-samples" rel="nofollow" target="_blank">https://github.com/opentrx/seata-go-samples</a>，查看使用方式并进行测试。<br>

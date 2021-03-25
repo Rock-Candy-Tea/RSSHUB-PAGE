@@ -1,0 +1,18 @@
+
+---
+title: '如何看待小米预热 MIX 新机搭载液态镜头，什么是液态镜头，原理如何实现？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-4938173813b43c18472229a25a96a0f0_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 25 Mar 2021 11:56:35 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-4938173813b43c18472229a25a96a0f0_1440w.jpg'
+---
+
+<div>   
+李明殊的回答<br><br><p>五张图带你理解液态镜头变焦原理。</p><p><br></p><p>1.</p><p>我们把一堆水滴到一片很薄塑料上，塑料下边是一片金属基板。</p><p>由于塑料（或者其他涂油，凃蜡的方式）是疏水性的，那么大概就是这个形状。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4938173813b43c18472229a25a96a0f0_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="844" data-default-watermark-src="https://pic2.zhimg.com/v2-dd10f721ec23bd1c109cf1e2391f74af_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4938173813b43c18472229a25a96a0f0_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p>2.</p><p>然后我们在两端加上一个电极。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d34b06c4938da7cce9cc2821536cca28_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="844" data-default-watermark-src="https://pic4.zhimg.com/v2-e3f2a11918d5b5c12212d25f19645949_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d34b06c4938da7cce9cc2821536cca28_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p>3.</p><p>但是问题来了，水是不导电的，很简单，撒点盐，或者其他什么电解质就行。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6390be161c8f0bf8fae8278c870e98b6_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="844" data-default-watermark-src="https://pic4.zhimg.com/v2-54b71f53577fd966d5dd4568aa10428c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6390be161c8f0bf8fae8278c870e98b6_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p>4.</p><p>通电后，水是极性分子，会被吸引到基板的方向，变成这个形状。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-db699f0546b4f211df71c8d0c99a0498_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="844" data-default-watermark-src="https://pic4.zhimg.com/v2-244a3e64b1b1f2ff7baebed19f4d881c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-db699f0546b4f211df71c8d0c99a0498_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>于是，<b>水滴形状改变，焦距就这样变化了。</b></p><p><br></p><p>你也可以自己做个试验，找个塑料梳子在干毛巾上使劲摩擦，然后靠近流水，会发现水被吸引过去。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-8912633909b31cf8f54506d5e255b1d6_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="692" data-default-watermark-src="https://pic2.zhimg.com/v2-8a50de0308aa20fa0bd370fd47660203_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-8912633909b31cf8f54506d5e255b1d6_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p><br></p><p>5.</p><p>但是直接把水暴露在空气中并不靠谱，不一会就干了。</p><p>即使是换成不易蒸发的材料，还有一个问题，<b>就是如果方向改变，水滴会受到重力的影响导致形状发生变化。</b></p><p><br></p><p>找一个跟水密度相同的油把这个水滴包裹起来，这样即使方向发生变化，水滴的形状也会保持不变。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-91bd169782bdb7269d93ee86e7021a7d_1440w.jpg" data-caption data-size="normal" data-rawwidth="1500" data-rawheight="844" data-default-watermark-src="https://pic2.zhimg.com/v2-c4b4d89617074c74eeea9688ba86211e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-91bd169782bdb7269d93ee86e7021a7d_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><b>这就是电湿润的原理。</b></p><p><br></p><p><b>其它原理的图也正在画了，敬请期待……</b></p><p><br></p><p>注：提到的材料和结构只为简单的说明原理，实际使用中材料和结构都会详细设计。</p><p></p><p></p><p></p>  
+</div>
+            
