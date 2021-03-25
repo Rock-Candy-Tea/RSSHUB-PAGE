@@ -35,15 +35,15 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac807b8490c4c11a9
 <h2 data-id="heading-2">3. 组件生命周期有哪些不同阶段？</h2>
 <p>组件生命周期具有三个不同的生命周期阶段。</p>
 <ol>
-<li>**Mounting：**组件已准备好安装在浏览器DOM中。这个阶段涵盖了生命周期方法 <code>constructor()</code>、<code>getDerivedStateFromProps()</code>、 <code>render()</code> 和 <code>componentDidMount()</code> 的初始化。</li>
-<li>**Updating：**在此阶段，组件以两种方式进行更新，即发送新 <code>props</code> 和从 <code>setState()</code> 或 <code>forceUpdate()</code> 更新状态。此阶段涵盖了<code>getDerivedStateFromProps()</code>，<code>shouldComponentUpdate()</code>，<code>render()</code> 、<code>getSnapshotBeforeUpdate()</code> 和 <code>componentDidUpdate()</code> 生命周期方法。</li>
-<li>**Unmounting：**在最后一个阶段，不再需要该组件并从浏览器DOM上卸载该组件。 这个阶段包括 <code>componentWillUnmount()</code> 生命周期方法。</li>
+<li><strong>Mounting：</strong> 组件已准备好安装在浏览器 DOM 中。这个阶段涵盖了生命周期方法 <code>constructor()</code>、<code>getDerivedStateFromProps()</code>、 <code>render()</code> 和 <code>componentDidMount()</code> 的初始化。</li>
+<li><strong>Updating：</strong> 在此阶段，组件以两种方式进行更新，即发送新 <code>props</code> 和从 <code>setState()</code> 或 <code>forceUpdate()</code> 更新状态。此阶段涵盖了<code>getDerivedStateFromProps()</code>，<code>shouldComponentUpdate()</code>，<code>render()</code> 、<code>getSnapshotBeforeUpdate()</code> 和 <code>componentDidUpdate()</code> 生命周期方法。</li>
+<li><strong>Unmounting：</strong> 在最后一个阶段，不再需要该组件并从浏览器DOM上卸载该组件。 这个阶段包括 <code>componentWillUnmount()</code> 生命周期方法。</li>
 </ol>
 <p>值得一提的是，在将更改应用于 DOM 时，React 内部具有阶段性概念。 它们分开如下</p>
 <ol>
 <li><strong>Render：</strong> 该组件将渲染而没有任何副作用。这适用于 Pure 组件，在此阶段，React 可以暂停、中止或重新启动渲染。</li>
 <li><strong>Pre-commit：</strong> 在组件将更改实际应用于 DOM 之前，有一段时间可以让 React 通过 <code>getSnapshotBeforeUpdate()</code> 从 DOM 中读取内容。</li>
-<li><strong>Commit</strong> React 与 DOM 一起工作并分别执行最终的生命周期：<code>componentDidMount()</code> 用于安装，<code>componentDidUpdate()</code> 用于更新，以及 <code>componentWillUnmount()</code> 用于卸载。</li>
+<li><strong>Commit：</strong> React 与 DOM 一起工作并分别执行最终的生命周期：<code>componentDidMount()</code> 用于安装，<code>componentDidUpdate()</code> 用于更新，以及 <code>componentWillUnmount()</code> 用于卸载。</li>
 </ol>
 <p>React 16.3+ (或者 <a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/" target="_blank" rel="nofollow noopener noreferrer">在线交互版本</a>)</p>
 <p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac807b8490c4c11a9630a9f29e467d3~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
@@ -52,17 +52,17 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac807b8490c4c11a9
 <h2 data-id="heading-3">4. React 生命周期有哪些？</h2>
 <p>React 16.3 以前的版本：</p>
 <ul>
-<li>** componentWillMount：**在渲染之前执行，用于根组件中的应用程序级别配置。</li>
-<li>** componentDidMount：**在首次渲染之后执行，所有 AJAX 请求，DOM 或状态更新以及设置事件侦听器都应在此执行。</li>
-<li>** componentWillReceiveProps：**在特定属性更新以触发状态转换时执行。</li>
-<li>** shouldComponentUpdate：**确定是否要更新组件。默认情况下，它返回 <code>true</code>。如果你确定在状态或属性更新后不需要渲染组件，则可以返回 <code>false</code> 值。这是提高性能的好地方，因为如果组件收到新的 <code>props</code>，它可以防止重新渲染。</li>
-<li>** componentWillUpdate：**当有属性或状态改变被<code>shouldComponentUpdate()</code> 确认并返回 <code>true</code> 时，在重新渲染组件之前执行。</li>
-<li>** componentDidUpdate：**通常，它用于响应属性或状态更改来更新 DOM。</li>
-<li>** componentWillUnmount：**它将用于取消任何传出的网络请求，或删除与该组件关联的所有事件侦听器。</li>
+<li><strong>componentWillMount：</strong> 在渲染之前执行，用于根组件中的应用程序级别配置。</li>
+<li><strong>componentDidMount：</strong> 在首次渲染之后执行，所有 AJAX 请求，DOM 或状态更新以及设置事件侦听器都应在此执行。</li>
+<li><strong>componentWillReceiveProps：</strong> 在特定属性更新以触发状态转换时执行。</li>
+<li><strong>shouldComponentUpdate：</strong> 确定是否要更新组件。默认情况下，它返回 <code>true</code>。如果你确定在状态或属性更新后不需要渲染组件，则可以返回 <code>false</code> 值。这是提高性能的好地方，因为如果组件收到新的 <code>props</code>，它可以防止重新渲染。</li>
+<li><strong>componentWillUpdate：</strong> 当有属性或状态改变被<code>shouldComponentUpdate()</code> 确认并返回 <code>true</code> 时，在重新渲染组件之前执行。</li>
+<li><strong>componentDidUpdate：</strong> 通常，它用于响应属性或状态更改来更新 DOM。</li>
+<li><strong>componentWillUnmount：</strong> 它将用于取消任何传出的网络请求，或删除与该组件关联的所有事件侦听器。</li>
 </ul>
 <p>React 16.3+ 版本</p>
 <ul>
-<li>**getDerivedStateFromProps：**在调用 <code>render()</code> 之前被调用，并且在每次渲染中都会被调用。对于需要派生状态的罕见用例，这是存在的。<a href="https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html" target="_blank" rel="nofollow noopener noreferrer">如果您需要派生状态</a> 值得一读。</li>
+<li><strong>getDerivedStateFromProps：</strong> 在调用 <code>render()</code> 之前被调用，并且在每次渲染中都会被调用。对于需要派生状态的罕见用例，这是存在的。<a href="https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html" target="_blank" rel="nofollow noopener noreferrer">如果您需要派生状态</a> 值得一读。</li>
 <li><strong>componentDidMount：</strong> 在首次渲染之后执行，并且所有 AJAX 请求、DOM 或状态更新以及设置事件侦听器都应在此发生。</li>
 <li><strong>shouldComponentUpdate：</strong> 确定是否将更新组件。默认情况下，它返回 <code>true</code>。如果你确定在状态或属性更新后不需要渲染组件，则可以返回 <code>false</code>值。这是提高性能的好地方，因为如果组件接收到新的属性，它可以防止重新渲染。</li>
 <li><strong>getSnapshotBeforeUpdate：</strong> 在将呈现的输出提交给 DOM 之前立即执行。此方法返回的任何值都将传递到 <code>componentDidUpdate()</code> 中。 这对于从 DOM（即滚动位置）捕获信息很有用。</li>
@@ -70,16 +70,16 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac807b8490c4c11a9
 <li><strong>componentWillUnmount：</strong> 它将用于取消任何传出的网络请求，或删除与该组件关联的所有事件侦听器。</li>
 </ul>
 <h2 data-id="heading-4">5. 高阶组件是什么</h2>
-<p>A <em>higher-order component</em> (<em>HOC</em>) is a function that takes a component and returns a new component. Basically, it's a pattern that is derived from React's compositional nature.</p>
-<p>We call them <strong>pure components</strong> because they can accept any dynamically provided child component but they won't modify or copy any behavior from their input components.</p>
+<p>高阶组件（HOC）是接收组件并返回新组件的函数。基本上，这是从 React 的组成性质衍生出来的一种模式。</p>
+<p>我们称它们为纯组件，因为它们可以接受任何动态提供的子组件，但是它们不会修改或复制其输入组件中的任何行为。</p>
 <pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-keyword">const</span> EnhancedComponent = higherOrderComponent(WrappedComponent)
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p>HOC can be used for many use cases:</p>
+<p>HOC 可以用到很多场景中：</p>
 <ol>
-<li>Code reuse, logic and bootstrap abstraction.</li>
-<li>Render hijacking.</li>
-<li>State abstraction and manipulation.</li>
-<li>Props manipulation.</li>
+<li>代码重用，逻辑和引导程序抽象。</li>
+<li>渲染劫持。</li>
+<li>状态抽象和操纵。</li>
+<li>props操作。</li>
 </ol>
 <h2 data-id="heading-5">6. 如何为 HOC 组件 创建 props 代理？</h2>
 <p>您可以使用属性代理模式添加或编辑传递给组件的属性，如下所示：</p>
@@ -151,7 +151,7 @@ ReactDOM.render(
   &#125;
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p><strong>Not passing props:</strong></p>
+<p><strong>不传递 props：</strong></p>
 <pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">MyComponent</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">React</span>.<span class="hljs-title">Component</span> </span>&#123;
   <span class="hljs-function"><span class="hljs-title">constructor</span>(<span class="hljs-params">props</span>)</span> &#123;
     <span class="hljs-built_in">super</span>()

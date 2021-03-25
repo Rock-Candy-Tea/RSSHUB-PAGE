@@ -32,13 +32,14 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/pro
 <p>Whether it is challenging governments, educating the public, or training journalists, we have a long history of helping bring online freedom to more people around the world.</p>
 </blockquote>
 <p>App Store <a href="https://developer.apple.com/app-store/review/guidelines/">guideline 5.4</a> includes the requirement that VPN apps must not violate local laws.</p>
+<p>Proton’s pushback is that the description had been the same for months with previous updates being approved.</p>
 <p>Yen goes on to say that Apple is holding back a “lifeline” for the people in Myanmar “who are being massacred” and that the company is bing hypocritical:</p>
 <blockquote class="wp-block-quote">
 <p>Apple’s actions are also hypocritical. Apple has no problem challenging governments when it is in its own financial self-interest (e.g., avoiding EU taxes or evading antitrust charges). However, when Proton does it for human rights reasons, it’s suddenly against Apple’s policies.</p>
 </blockquote>
 <p>Apple has a tricky balancing act when it comes to issues like these where on the one hand it aims to comply with local laws and continue operating but also hold human rights as a core value.</p>
 <p>Notably, a recent example was Hong Kong in 2019, Apple <a href="https://9to5mac.com/2019/10/03/hong-kong-protest-app/">removed a protest-related app</a> called HKmap Live and then later reinstated it after a lot of criticism.</p>
-<p>While it sounds like changing the description of the app to remove “challenging governments” would get the update approved by Apple, Yen doesn’t want to do that:</p>
+<p>In the end, Proton feels it was unjustly forced to remove “challenging governments” from the description to get the update approved by Apple on March 21.</p>
 <blockquote class="wp-block-quote">
 <p>What is also troubling is that Apple requested the removal of this language in ALL countries where our app is available. By doing so, Apple is helping spread authoritarian laws globally, even in countries where freedom of speech is protected.</p>
 </blockquote>
