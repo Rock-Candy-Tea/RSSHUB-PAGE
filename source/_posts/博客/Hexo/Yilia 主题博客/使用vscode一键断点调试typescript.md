@@ -5,11 +5,11 @@ categories:
  - 博客
  - Hexo
  - Yilia 主题博客
-headimg: 'https://picsum.photos/400/300?random=1076'
+headimg: 'https://picsum.photos/400/300?random=2171'
 author: Hexo
 comments: false
 date: Sun, 22 Oct 2017 15:04:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1076'
+thumbnail: 'https://picsum.photos/400/300?random=2171'
 ---
 
 <div>   

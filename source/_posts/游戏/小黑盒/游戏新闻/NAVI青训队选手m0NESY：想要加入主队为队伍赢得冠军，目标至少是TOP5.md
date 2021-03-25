@@ -1,0 +1,18 @@
+
+---
+title: 'NAVI青训队选手m0NESY：想要加入主队为队伍赢得冠军，目标至少是TOP5'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/edf278d2fa9d2815dabccc948d418cf2.jpg'
+author: 小黑盒
+comments: false
+date: 2021-03-25 04:15:25
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/edf278d2fa9d2815dabccc948d418cf2.jpg'
+---
+
+<div>   
+<blockquote><p>近日NaVi Junior的官方频道对这位15岁的大明星做了一次采访</p></blockquote><p>m0NESY：大家好，我是Ilya Osipov，今年15岁。游戏ID是m0NESY，现在为NaVi Junior效力。</p><p><b>Q：你各平台的社交账号都有多少关注？</b><b></b></p><p>m0NESY：Instagram有5.8万，快到6万了。推特有7600多关注，Twitch差一万多就到30万了。</p><p><b>Q：这其中有哪些职业选手或者名人关注你吗？</b><b></b></p><p>m0NESY：G2的huNter，Boombl4、flamie，还有其他很多的职业选手。明星的话有戈洛温和科科林，还有一些冰球的运动员。</p><p><b>Q：最受欢迎的一条Instagram动态是？</b><b></b></p><p>m0NESY：是一张和B1t的合照。那天我们一起出去玩拍了照就随手上传了，现在有1.8万的赞。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/edf278d2fa9d2815dabccc948d418cf2.jpg" data-width="1080" style="width: 100%; height: 100%;" referrerpolicy="no-referrer"></p><p><b>Q：直播间观众最多的时候是？</b><b></b></p><p>m0NESY：是在2020年，我被邀请进FPL之后，直播间有一万多观众。</p><p><b>Q：你出镜的视频里，播放量最高的是哪一个？</b><b></b></p><p>m0NESY：在SHOKE频道的一个采访，有150万播放量。</p><p><b>Q：一年后的目标？</b><b></b></p><p>m0NESY：为NaVI主队效力。</p><p><b>Q：今年内的目标？</b><b></b></p><p>m0NESY：我想让自己的英语更加流利，这一点在电竞行业必不可少。我想要用英语接受采访、在FPL里与英语选手交流、在TS里更得心应手地聊天。除此之外，我还想在今年赢得一些比赛，让队伍进入TOP30。</p><p><img class="lazy" data-height="1079" src="https://cdn.max-c.com/heybox/dailynews/img/44ce302a76e555e6f7a08201814699cf.jpg" data-width="1080" style="width: 100%; height: 99.9074%;" referrerpolicy="no-referrer"></p><p><b>Q：过去一年里最大的成就？</b><b></b></p><p>m0NESY：和NaVi签约。</p><p><b>Q：想对一年后的自己说什么？</b><b></b></p><p>m0NESY：我希望未来的我能有不屈不挠的精神，要一直努力永不放弃。</p><p><b>Q：人生中到现在经历的最大挑战？</b><b></b></p><p>m0NESY：平衡学业和电竞事业，因为学校里不是每个人都了解CS。另外就是保持打CS的动力。</p><p><b>Q：有什么担心的事情吗？</b><b></b></p><p>m0NESY：比较担心自己的稳定性，虽然我现在打的很好，但总有一些局我KD不好发挥很差，所以我还需努力。除此之外，没什么担心的了。</p><p><b>Q：谁对你的帮助最多？</b><b></b></p><p>m0NESY：教练ami帮我最多。不论是在游戏内还是游戏外，他都知无不言有问必答。还有我哥也帮了我很多，帮我运营社交账号。</p><p><b>Q：今天听了什么歌？</b><b></b></p><p>m0NESY：《Nav - Champion Feat. Travis Scott》</p><p><b>Q：最近看了什么不错的电影/电视剧，推荐一下。</b><b></b></p><p>m0NESY：推荐《看不见的客人》，那是一部关于犯罪的电影，如果我的记忆正确的话。故事情节展开的很快，可能直到结局才能理解发生了什么。电视剧的话推荐《曼达洛人》</p><p><img class="lazy" data-height="480" src="https://cdn.max-c.com/heybox/dailynews/img/281c245dbfec304a72d858811fa8e9ff.jpg" data-width="640" style="width: 100%; height: 75%;" referrerpolicy="no-referrer"></p><p><b>Q：CS圈子急需改变的地方。</b><b></b></p><p>m0NESY：在游戏外就是不要让情绪冲昏了头。你得冷静、积极、百折不挠，情绪控制对年轻选手来说真的很重要。游戏内的话，我想看到图池的变化，我想移除Mirage。枪械武器反面倒没什么想说的。</p><p><b>Q：你最喜欢哪张图？</b><b></b></p><p>m0NESY：我最喜欢Vertigo。这张图我接触不过18个月。一张新图出来的时候，人们都在研究新道具、双架位，这些新东西真的很令我兴奋。</p><p><b>Q：你最敬佩哪位职业选手？为什么？</b><b></b></p><p>m0NESY：我最敬佩的是现在就在基地里的fear，他太自律太专业了。他总是能激励你又让你不会骄傲自满。在现实生活中也是，他每天早起去健身。在游戏内外都显得很自律。</p><p><img class="lazy" data-height="1350" src="https://cdn.max-c.com/heybox/dailynews/img/2318f99d346fd89b0343d52820a806de.jpg" data-width="1080" style="width: 100%; height: 125%;" referrerpolicy="no-referrer"></p><p><b>Q：职业生涯中最想得到的成就？</b><b></b></p><p>m0NESY：成为NaVi主队的一员。成为HLTV TOP1，至少也得是TOP5。为队伍取得冠军奖杯。我还想一直待在基地里，而不是只能待2-4周。</p><p><b>Q：你对电竞行业，特别是CS职业圈的看法？</b><b></b></p><p>m0NESY：电竞行业现在在往正确的方向发展，我看到很多大学已经有了电竞项目。而我也在经纪人的推荐下加入了其中一个项目。电竞发展的很快。至于CS职业赛场，我不太喜欢关于六人阵容的规定：Valve规定RMR赛事里使用替补要扣分。我不支持这条规定，我想CS能有六人或者七人阵容。就像足球一样，有足够的替补可以随时上场。那样的话就太棒了，我认为这是利于电竞发展的。</p><p><b>Q：走在街上有被认出来过吗？</b><b></b></p><p>m0NESY：是有的，但不是每个认出我的人都会和我接触，尤其是在我的家乡。有的会过来想要合个影，但更多的是指着我和朋友交谈。</p><p><b>Q：你觉得自己付出的努力得到了满意的结果吗？</b><b></b></p><p>m0NESY：我认为是的。现在我在基辅的基地里训练，未来和队伍一起打出好成绩、实现我的目标、并在未来设立更高的目标。</p><p class="news-source">本文由小黑盒作者：最后的木盖大战 原创<br>未经授权禁止转载或摘编</p><p></p>  
+</div>
+            

@@ -5,19 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 数字型账号用户博客
-headimg: 'https://www.oschina.net/img/hot3.png'
+headimg: 'https://oscimg.oschina.net/oscnet/up-db5f4776508947156a5918d863187e0df83.JPEG'
 author: 开源中国
 comments: false
-date: 2021-03-25 00:37:07
-thumbnail: 'https://www.oschina.net/img/hot3.png'
+date: 2021-03-25 04:16:02
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-db5f4776508947156a5918d863187e0df83.JPEG'
 ---
 
 <div>   
 <div class="content">
-                                                                                                                    <div class="ad-wrap" style="margin-bottom: 8px;">
-            <a data-traceid="blog_detail_above_text_link_1" data-tracepid="blog_detail_above_text_link" style="color:#A00; font-weight:bold;" href="https://e.cn.miaozhen.com/r/k=2226845&p=7qZiO&dx=__IPDX__&rt=2&pro=s&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&o=https://ascend.huawei.com/zh/#/ecosystem/all-wisdom?utm_campaign=%252004MHQHQ210KA01N&utm_medium=pm-display&utm_source=OSCHINA&source=pc_blog&utm_object=ai_NA&utm_content=ascend_wisdom_ad" target="_blank">昇腾众智计划火热上线！140个算子/模型等你来挑战！>>><img src="https://www.oschina.net/img/hot3.png" align="absmiddle" style="max-height: 32px;max-width: 32px;margin-top: -4px;" referrerpolicy="no-referrer"></a>
-            </div>
-                                                                                                    <p style="text-align:center"><img alt height="359" src="https://oscimg.oschina.net/oscnet/up-db5f4776508947156a5918d863187e0df83.JPEG" width="640" referrerpolicy="no-referrer"></p> 
+                                                                                                                                                                                        <p style="text-align:center"><img alt height="359" src="https://oscimg.oschina.net/oscnet/up-db5f4776508947156a5918d863187e0df83.JPEG" width="640" referrerpolicy="no-referrer"></p> 
 <p><span><strong><span style="color:#888888">​转载本文需注明出处：微信公众号EAWorld，违者必究。</span></strong></span></p> 
 <p>随着网络架构的不断升级和业务的复杂化，对产品多环境支持的要求越来越高。产品支持的数据库、应用服务器、中间件、操作系统等的多样化，使测试环境的组合越来越多，导致测试环境的部署难度不断增加。</p> 
 <p>如何选择一个合适的工具，实现多样化环境部署的同时保证部署操作的易用性。下面分享一下我们基于Ansible和Devops实现的一键式测试环境部署的过程。</p> 

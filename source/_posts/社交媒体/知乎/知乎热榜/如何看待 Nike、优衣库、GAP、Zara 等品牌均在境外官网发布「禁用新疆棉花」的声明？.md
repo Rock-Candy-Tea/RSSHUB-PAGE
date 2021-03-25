@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-c7f464dcd915496bb17d3a0b098f1cf1_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=4571'
 author: 知乎
 comments: false
-date: Wed, 24 Mar 2021 16:30:01 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-c7f464dcd915496bb17d3a0b098f1cf1_1440w.jpg'
+date: Wed, 24 Mar 2021 17:50:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4571'
 ---
 
 <div>   
-PHATKIX的回答<br><br><p>又当又立的典型代表就是耐克。</p><p>一面被本国人怼交代不过去，所以发声明。</p><p>一面又觉得人民币香，于是US官网禁止中国IP访问。</p><p>真的Shame on you Nike.</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-c7f464dcd915496bb17d3a0b098f1cf1_1440w.jpg" data-rawwidth="1080" data-rawheight="2340" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-3efa0329706afe702be9a7268d22ceb9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-c7f464dcd915496bb17d3a0b098f1cf1_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ce65cd578429dfefe3d6dfa66558ec71_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-522db8f1ce82e2f666de6f678b60b365_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ce65cd578429dfefe3d6dfa66558ec71_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d8d44bdde7426c6ed0b4d621be774aca_1440w.jpg" data-rawwidth="1125" data-rawheight="2436" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-25c2ea79f1db6bdf2e8002040201ed58_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d8d44bdde7426c6ed0b4d621be774aca_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-83973c56ad79affb35ccb196a58e7fb0_1440w.jpg" data-rawwidth="1125" data-rawheight="2436" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-1ed384d715119634286d0a802f05b657_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-83973c56ad79affb35ccb196a58e7fb0_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-cf6a68c59bd9823a4630c97ac1625945_1440w.jpg" data-rawwidth="1125" data-rawheight="2436" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-2b2c349bf405e2e28e3e0ad62c2c5f2c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-cf6a68c59bd9823a4630c97ac1625945_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+天星舰水手的回答<br><br><p>芯片卡脖子能忍。</p><p>这帮搞服装鞋帽等终端产品的企业，居然也想卡脖子。</p><p>是可忍，孰不可忍。</p><p>能按法规处罚罚款的就按法规处罚罚款。</p><p>实在找不到的，就赶紧制定颁布，跟处理火星企业一样。</p><p>这帮企业简直坏透了，赚着你的钱，还想要骑在你头上拉屎。</p><p>到了今天这个地步，必须国家重拳出击了。</p><p>靠普通人买卖抵制行为已经不现实，也起不到什么作用。</p><p>国产品牌也应该借着这股东风乘机崛起。</p><p>安踏已经发生明退出BCI组织了。</p><p></p><p></p>  
 </div>
             
