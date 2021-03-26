@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://picsum.photos/400/300?random=3239'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/49/21cf67a5132af9dd81982605511bx6x5.JPG?v=1616732735177'
 author: 巴哈姆特
 comments: false
-date: 2021-03-26 04:18:12
-thumbnail: 'https://picsum.photos/400/300?random=3239'
+date: 2021-03-26 08:08:47
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/49/21cf67a5132af9dd81982605511bx6x5.JPG?v=1616732735177'
 ---
 
 <div>   
@@ -19,6 +19,14 @@ thumbnail: 'https://picsum.photos/400/300?random=3239'
 <div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8B%A2%E5%8A%9B" target="_blank">惡靈勢力</a>（Left 4 Dead）》開發團隊 Turtle Rock 今日清晨在由 GamesRadar+ 主辦的數位遊戲發表會「Future Games Show（未來遊戲展,FGS）」春季版中，曝光了開發中多人合作射擊新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%96%8B%E8%A1%80%E5%BE%A9%E4%BB%87" target="_blank">喋血復仇</a>（原名：Back 4 Blood）》最新遊戲影片，介紹全新的「Rogue-lite」卡牌系統；官方也宣布，遊戲將延期至美國時間 10 月 12 日（台灣時間 10 月 13 日）上市，但會在今年夏季展開公開測試。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 52.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/21cf67a5132af9dd81982605511bx6x5.JPG?v=1616732735177" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/21cf67a5132af9dd81982605511bx6x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/49/21cf67a5132af9dd81982605511bx6x5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <div>
@@ -49,6 +57,12 @@ thumbnail: 'https://picsum.photos/400/300?random=3239'
 　　另外，遊戲發行商華納兄弟宣布，原本《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%96%8B%E8%A1%80%E5%BE%A9%E4%BB%87" target="_blank">喋血復仇</a>》於 6 月上市，但他們決定將把遊戲發行日期延至今年 10 月 12 日（台灣時間 10 月 13 日），而今年夏季仍將計畫舉辦遊戲公開測試。</div>
 <div>
  </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 64.77%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/4dc3765109b92ef9a8be504a611bx6w5.JPG?v=1616732729065" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/4dc3765109b92ef9a8be504a611bx6w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/4dc3765109b92ef9a8be504a611bx6w5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 </div>
 <div>
  </div>
