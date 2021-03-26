@@ -1,0 +1,138 @@
+
+---
+title: 'Facebook抄完YouTube抄，TikTok请站稳了'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/9D6TVhJecbcd3UZrJZ1g.jpg'
+author: 人人都是产品经理
+comments: false
+date: Fri, 26 Mar 2021 00:00:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/9D6TVhJecbcd3UZrJZ1g.jpg'
+---
+
+<div>   
+<blockquote><p>编辑导语：如今很多国内APP开始做出海业务，特别是短视频应用在海外获得良好表现，在全球市场掀起热潮，比如“TikTok”已成功出海，并且受到一众好评；本文作者分享了关于海外几大社交平台以及TikTok之间的关系，我们一起来了解一下。</p></blockquote>
+<p><img data-action="zoom" class="aligncenter size-full wp-image-4427797" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/9D6TVhJecbcd3UZrJZ1g.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p>对于坐拥8亿用户的TikTok而言，无论是Reels还是YouTube推出的新功能，都是“克隆”。</p>
+<p>疫情就如短视频催化剂，使其市场迅速下沉。在美国，现在不仅是青少年一代热衷于刷短视频，越来越多的中老年人也开始沉迷其中。</p>
+<p>只要感到空虚乏闷，刷一遍短视频就好了。如果还感到空虚，就多刷几遍。</p>
+<p>随着体内多巴胺的分泌，刷短视频会让人感到心情愉悦。某种程度上，开心搞笑的视频能治愈焦虑和空虚。</p>
+<p>由此短视频硬核赛道上竞争激烈异常。北美强劲新人<strong>Youtube Shorts</strong>准备粉墨登场了。</p>
+<p>Youtube Shorts是一款类TikTok的短视频应用，支持创作短视频，目前已经在印度市场测试了半年，今天已经正式登陆美国市场。</p>
+<h2 id="toc-1">一、Shorts = Copycat，灵感来自于TikTok</h2>
+<p>美国时间2月27日，Shorts beta测试版在手机版Youtube APP上悄然上线，位于主页推荐广告下方的置顶位置。</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/ttGOfzlnDchCjiKU0iCD.jpeg" alt="Facebook抄完YouTube抄，TikTok请站稳了" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Youtube</p>
+<p>目前来看，网友的眼睛都是雪亮的：</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/SM07bUVcaEsKiadUy333.jpeg" alt="Facebook抄完YouTube抄，TikTok请站稳了" width="422" height="237" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/v6OzKXPJZdm1XmCedfkm.jpeg" alt="Facebook抄完YouTube抄，TikTok请站稳了" width="401" height="294" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/Zkyn1zsvl3v2q8v5jjZa.jpeg" alt="Facebook抄完YouTube抄，TikTok请站稳了" width="405" height="338" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Twitter</p>
+<p>去年Youtube在印度市场上线Shorts功能时，就对外毫不掩饰的说，“Shorts”的灵感来自TikTok，该功能会成为 YouTube 娱乐区中的一个子分类，并不会剥离出来成为单独的应用程序。”</p>
+<p>美媒The Information上一篇文章将YouTube这一举动描述为<strong>“硅谷科技公司迄今为止为打击TikTok崛起所作出的最认真的努力。”</strong></p>
+<p>但在用户看来，这不仅是灵感的来源，Youtube Shorts就是“山寨版的TikTok”。</p>
+<p>美国《综艺》杂志网站在一篇相关报道中指出，就在YouTube Shorts进军短视频领域之前，Facebook的Instagram也于上个月发布了名为Reels的产品，其视频创作工具和TikTok也很相似。</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/YY69kxMz6FYLzdJdk2Mg.png" alt="Facebook抄完YouTube抄，TikTok请站稳了" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Variety</p>
+<p>《每日邮报》的报道则指出，对于坐拥8亿用户的TikTok而言，无论是Reels还是YouTube推出的新功能，都属于“克隆”。</p>
+<p>在当今科技领域，通过复制某一应用的热门功能来争夺它的用户，并最终将对方赶出大众市场的做法已经司空见惯，全球火爆的TikTok被抄也是时间早晚的问题。</p>
+<p><strong>Youtube对Shorts这个产品的描述是：</strong></p>
+<ul>
+<li>Shorts是种新型短视频产品，适合使用手机来拍摄简短且吸引人的短视频的创作者和艺术家。</li>
+<li>用户可以使用该服务录制适合移动设备的短视频，并添加特效和配乐。</li>
+</ul>
+<p><strong>Shorts目前提供的功能有：</strong></p>
+<ol>
+<li>创建和上传15秒或更短的视频（TikTok最长视频可达1分钟）；</li>
+<li>使用多种创意工具及特效编辑视频；</li>
+<li>将短片与多段相机照片或视频衔接在一起；</li>
+<li>有YouTube库中的免费精选歌曲音乐可以插入添加到视频中；</li>
+<li>可以选择快速还是慢速录制的速度控制；</li>
+<li>设置倒计时实现免手持录制，以及设置停止点自动停止录制。</li>
+</ol>
+<p>发布短视频后，它会出现在YouTube专门为短视频设计的主页中轮播。用户可以一边查看轮播中的内容，一边垂直滑动，从而从一个视频跳到另一个视频。</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/17SYHVLpkJ73JzjoSuZH.png" alt="Facebook抄完YouTube抄，TikTok请站稳了" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Youtube</p>
+<p>YouTube首席执行官苏珊沃西基就在最近对外表示，Shorts在印度的早期试运行期间，获得了很高的人气，每日的浏览量达到了35亿次；其中每月有20亿登录用户访问，人们每天在该服务上观看10亿小时的视频。</p>
+<h2 id="toc-2">二、印度短视频市场上的混战</h2>
+<p>去年9月，YouTube短视频应用选择发布的地点——印度，也正是TikTok即将被禁止的地区。</p>
+<p>据《印度时报》和路透社等媒体1月26日消息，印度电子和信息技术部发布通知，<strong>将在今年6月永久禁止59款中国手机应用程序</strong>，包括TikTok（抖音海外版）、百度、Wechat（微信）和UC浏览器等。</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/z8ryd4sb8AtCN1q2IPYr.png" alt="Facebook抄完YouTube抄，TikTok请站稳了" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Reuters</p>
+<p>不同于美国各种针对中国企业的禁令，印度这次采用了<strong>“永久封禁”</strong>而不是给予一定的谈判空间来达到自身的利益诉求，这种不留后路的声明方式耐人寻味。</p>
+<p>印度市场针对中国应用程序的禁令，早在去年6月就开始了。那时印度就曾以“威胁国家安全”为由，宣布临时封禁包括Tiktok和wechat(微信海外版）在内的59款中国手机App。</p>
+<p>去年9月，印度宣布禁用百度搜索等118款中国手机应用程序；去年11月，印度电子和信息技术部再次公告，宣布禁用全球速卖通、钉钉等43款中国背景手机应用程序。</p>
+<p>而到今年1月，这次将临时禁令变成永久禁令，让许多拥有印度市场的中国企业措手不及，毕竟在去年的临时禁令之后，许多企业都在按照印度的指令整改，以期重回印度市场。</p>
+<h3>1. 印度市场“更香”吗？</h3>
+<p>App分析公司Sensor Tower的数据，2019年印度排名前10的移动应用当中，来自中国的手机应用占据一半；同时在2019年，印度市场是全球最大的App下载市场，共计完成200亿次下载，含全球应用下载量的10%。</p>
+<p>2019年，TikTok在印度的下载量就已超过了Facebook，达到6.1亿次。</p>
+<p>到2020年印度政府以威胁国家安全为由禁止包括TikTok在内的数百款中国应用之前，TikTok是印度市场下载量最大的手机应用，在印度有超过2.8亿的用户。</p>
+<p>同时，印度市场也是TikTok占据其1/3的海外市场份额，并且是其最大的海外市场。2020年上半年，TikTok在印度的下载量也有1.6亿次，约为该时期全球安装量的26.4%。</p>
+<h3>2. TikTok印度市场的铩羽而归</h3>
+<p>因为印度政府的永久封禁，今年1月，字节跳动宣布关闭印度业务，并裁员2000多名员工，并就出售其TikTok在印度的业务展开了初步谈判。</p>
+<p>尽管媒体报道称，TikTok的印度市场业务估值超过30亿美元，字节跳动选择出售印度业务，从中也可看出中国互联网科技公司是以用户利益为重。</p>
+<p><strong>一个出色的产品，用好的技术打造了上佳的用户体验，这是用户信赖和支持的关键，让它一直存在并在市场中发挥应有的价值，总并无故消失掉要好。</strong></p>
+<p>最新的进展是，字节跳动正在与印度移动内容提供商Glance讨论一项潜在交易，后者是TikTok竞争对手Roposo的开发商。</p>
+<p>软银集团作为同时拥有字节跳动和Glance母公司InMobi股份的股东，撮合了本次谈判。印度当局在批准任何交易之前，可能会坚持要求将用户数据保留在该国。</p>
+<p>截至今年2月<strong>，</strong>Roposo在印度的总用户数现已超过1.3亿，而TikTok在最初关闭时拥有2.8亿用户。</p>
+<h3>3. 中国APP禁令后的短视频市场</h3>
+<p>去年在禁令实施后的一周时间里，短视频市场上出现了一个巨大的缺口。印度的其他短视频分享类应用如Roposo、Chingari、Trell、Mitron、TikTik、Moj的下载量迅速攀升，发展势头迅猛。</p>
+<p>Sensor Tower的数据显示，Roposo在这七天之内获得了670万次的下载量，成为一周内谷歌游戏商店下载次数最多的短视频应用；紧随其后的是Chingari，累计下载量412万次；而广受关注的应用Mitron Tv下载量则达到了310万次。</p>
+<p>同时，与TikTok名字类似的诸如TikTik India和TiK Kik等一些应用在Play Store上的下载量也达到了210万至270万次。</p>
+<p>禁令后，Twitter支持的社交媒体平台 ShareChat也跟风推出了一个短视频分享应用Moj，一个月内下载量超过了2500万次。</p>
+<p>Instagram也跟风宣布在印度市场测试视频编辑应用Reels，这项应用工具复制了TikTok的部分功能。Reels是Facebook在印度短视频领域的第二次尝试，第一次是克隆TikTok的短视频产品推出的Lasso，仅上线了一年半时间，由于一直处于不温不火的状态被关闭。</p>
+<p>TikTok在印度被禁，印度市场上各大短视频应用都开始一拥而上，争抢TikTok上的网红，斩获新用户，都希望成为下一个TikTok。</p>
+<h3>4. 印度短视频Moj准备进军国际市场</h3>
+<p>2月22日，据媒体报道，Twitter近日一直就收购成立5年的印度社交媒体初创公司ShareChat进行谈判。作为ShareChat的投资方之一，Twitter曾提出以11亿美元价格收购ShareChat，并承诺追加9亿美元投资。目前，ShareChat总共已筹集到约2.6亿美元资金。</p>
+<p>专业人士分析，本次收购意图是，将ShareChat旗下短视频应用Moj推向国际市场，定位为TikTok的全球竞争对手。</p>
+<p>去年印度封禁TikTok后，ShareChat顺势推出短视频应用Moj。半年时间，Moj月活用户就超过8000万。Moj支持印度多种区域语言，也支持英语。</p>
+<p>登陆Moj应用，从App界面设计、到视频录制道具、相机滤镜、贴纸，与TikTok如出一辙。</p>
+<p>随着全球疫情常态化，线上娱乐又成为巨头们投资的新标的，Moj不仅是大公司们进入印度社交市场的“入场券”，也是市场国际化的必经之路。</p>
+<h2 id="toc-3">三、TikTok面对新手老手，能否见招拆招？</h2>
+<p>如果说印度市场是短视频公司的新兵练习场，那北美市场就是实战重要阵地了。</p>
+<p>尽管TikTok在印度深陷禁令，但其依然是印度市场上的赢家，目前TikTok仍排名前五，历史下载量6.6亿，月活用户1.2亿，占全球20亿下载量33%。</p>
+<p>在美国市场，去年一波三折的命运众所周知，随着美国大选尘埃落定后，终于迎来了转机。</p>
+<h3>1. 美国大选后的TikTok</h3>
+<p>拜登政府在2月10日晚间推迟了一项对TikTok法院禁止令的上诉，并在法庭文件中表示，已经开始对相关机构的行动进行评估，以确定特朗普政府所说的国家安全威胁是否能继续为禁令提供依据。</p>
+<p>这也意味着，<strong>TikTok被要求出售美国业务的交易被华盛顿无限期搁置了。</strong></p>
+<p>与特朗普时期对华鹰派与TikTok“死磕”相比，拜登政府的态度截然不同。</p>
+<p>白宫国安会国际经济与竞争办公室主任哈雷尔（Peter Harrell）曾发推文说，<strong>美国处理TikTok的最佳方法是让它成为透明度和用户隐私的领导者，而不是禁止。</strong></p>
+<h3>2. Tiktok的新业务拓展</h3>
+<p>在美国，有51%的受众通过社交媒体观看短视频获取信息，短视频是社交媒体平台视频新闻消费的主要形态；同时美国在线流媒体音乐产业的发展进程中，短视频也发挥了重要作用。</p>
+<p>可以说，北美市场上短视频属于资金密集型业务，音乐版权、内容运营等需要大量资金，是一个竞争激烈的市场。</p>
+<p>根据Sensor Tower的最新数据，<strong>TikTok目前仍然是全球下载量和收入最高的应用程序。</strong>TikTok在下载量和收入方面均名列苹果应用商店之首，TikTok收入的86%来自其在中国的用户，其次是美国用户的8%收入，土耳其用户的2%。</p>
+<p><img data-action="zoom" class=" aligncenter" title="Facebook抄完YouTube抄，TikTok请站稳了" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/03/XjUXGDo0NiGwjgEAkx4R.jpeg" alt="Facebook抄完YouTube抄，TikTok请站稳了" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：Sensortower</p>
+<p>TikTok的最大优势在于<strong>AI系统下的核心算法、视频展示技术，以及一体化的金融支付功能，这既是 Tiktok的秘密武器，也是其出海成功的根本原因。</strong></p>
+<p>面对众多“山寨版”TikTok，有专业分析师称，“短视频在产品、技术层面上有一些专利认证，但在知识产权侵权方面认定，有很多难以明确界定和清晰的东西。”</p>
+<p>显然，包括Youtube Shorts、Moj 在内的短视频应用捕捉到了市场机遇和漏洞，但能否真正颠覆 TikTok，还要看产品能否真正触及到TikTok的核心优势。</p>
+<p>最近，TikTok在招商上已经向广告商介绍了在2021年推出的几大新功能。其中包括：</p>
+<ul>
+<li>允许最受欢迎的用户直接分享产品连结并自动赚取佣金，</li>
+<li>允许品牌平台上展示商品目录，以及推出手机端的直播带货服务，</li>
+<li>致力于提高其广告投放工具，比如用户追踪方面的能力。</li>
+</ul>
+<p>从去年开始，TikTok就已经开始在许多国家与线下连锁品牌和电商尝试合作。今年，TikTok会将这一模式扩展至更多商家。</p>
+<p>同时，近日TiKTok后台悄然上线“<strong>TikTok Shop Seller University</strong>”项目的消息也备受各方关注。据知情人士表示，TiKTok目前正在印度尼西亚率先开展出口电商业务方面的测试，这也是正在进行的商业相关测试的延伸。</p>
+<p>目前TikTok本身拥有着大量用户基础，以及第三方平台所渴望稳定流量。尤其是TikTok病毒式传播方式更是大大的增加了用户触及率，与商店功能的融合很大程度上降低了用户流失的风险，能更有效的促进流量转化。</p>
+<h2 id="toc-4">四、最后</h2>
+<p>在Facebook、Instagram和Youtube等社交媒体巨头相继推出与TikTok类似的短视频服务之余，想与tiktok PK还需要更多的时间积攒力量；诸多相仿APP新功能或是尚未成熟，或是不及TikTok那种流畅的用户消费体验，这也意味着TikTok暂且还处于领先状态。</p>
+<p>Instagram推出的Reels短视频，现阶段还没正式建立广告盈利模式，而是集中于内容建设来为消费者和内容制造者提供更好的平台体验；Youtube Shorts在北美市场也是如此。</p>
+<p>在目前的市场地位下，TikTok如果有能力提供完整、便捷的购物服务，并利用社交媒体这一能够模糊推销性质的平台，也许会比美国本土的同类别APP能更容易打开市场。</p>
+<p>TikTok目前无疑是中国最成功的出海应用之一，海外用户量极大。</p>
+<p>在未来，TikTok能否和短视频市场上各类新老对手共存并一直保持领先，值得我们持续关注。</p>
+<p>参考链接：</p>
+<p>YouTube Shorts: Five things to know about Google’s short-form video service. (Business-standard)</p>
+<p>What Is YouTube Shorts? A Beta Version Of The TikTok Rival Is Launching So Soon. (Elite Daily)</p>
+<p>Short video platform Moj has 100 mn downloads. (Telecomlead)</p>
+<p>Top Apps Worldwide for January 2021 by Downloads. (Sensortower)</p>
+<p> </p>
+<p>作者：Amelie；编辑：Juni；公众号：硅兔赛跑</p>
+<p>原文地址：https://mp.weixin.qq.com/s/PUoYhPyhZaMDNrlrT54Y7w</p>
+<p>本文由 @硅兔赛跑 授权发布于人人都是产品经理，未经许可，禁止转载</p>
+<p>题图来自 unsplash，基于 CC0 协议</p>
+                      
+</div>
+            

@@ -1,0 +1,99 @@
+
+---
+title: '重磅官宣：Nacos 2.0 发布，性能提升 10 倍'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://oscimg.oschina.net/oscnet/up-04b5d6c093fb0b91391e31e05cd821067c0.JPEG'
+author: 开源中国
+comments: false
+date: Fri, 26 Mar 2021 16:45:00 GMT
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-04b5d6c093fb0b91391e31e05cd821067c0.JPEG'
+---
+
+<div>   
+<div class="content">
+                                                                                            <p>作者：席翁</p> 
+<p>继 Nacos 1.0 发布以来，Nacos 迅速被成千上万家企业采用，并构建起强大的生态。 但是随着用户深入使用，逐渐暴露一些性能问题，因此我们启动了 Nacos 2.0 的隔代产品设计，时隔半年我们终于将其全部实现，实测性能提升10倍，相信能满足所有用户的性能需求。下面由我代表社区为大家介绍一下这款跨代产品。</p> 
+<h2>Nacos 简介</h2> 
+<p>Nacos 是一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。它 孵化于 阿里巴巴，成长于十年双十一的洪峰考验，沉淀了简单易用、稳定可靠、性能卓越的核心竞争力。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-04b5d6c093fb0b91391e31e05cd821067c0.JPEG" referrerpolicy="no-referrer"></p> 
+<h2>Nacos 2.0 架构</h2> 
+<p>全新2.0 架构不仅将性能大幅提升10倍，而且内核进行了分层抽象，并且实现插件扩展机制。</p> 
+<p>Nacos 2.0 架构层次如下图，它相比Nacos1.X的最主要变化是：</p> 
+<ul> 
+ <li>通信层统一到gRPC协议，同时完善了客户端和服务端的流量控制和负载均衡能力，提升的整体吞吐。</li> 
+ <li>将存储和一致性模型做了充分抽象分层，架构更简单清晰，代码更加健壮，性能更加强悍。</li> 
+ <li>设计了可拓展的接口，提升了集成能力，如让用户扩展实现各自的安全机制。</li> 
+</ul> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-047381734522a4a453752ca38887286acd6.JPEG" referrerpolicy="no-referrer"></p> 
+<h3>Nacos2.0 服务发现升级一致性模型</h3> 
+<p>Nacos2架构下的服务发现，客户端通过Grpc，发起注册服务或订阅服务的请求。服务端使用Client对象来记录该客户端使用Grpc连接发布了哪些服务，又订阅了哪些服务，并将该Client进行服务间同步。由于实际的使用习惯是服务到客户端的映射，即服务下有哪些客户端实例；因此2.0的服务端会通过构建索引和元数据，快速生成类似1.X中的Service信息，并将Service的数据通过Grpc Stream进行推送。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-35e94132ed318d1b9a097e8db0d8f97af32.JPEG" referrerpolicy="no-referrer"></p> 
+<h3>Nacos2.0 配置管理升级通信机制</h3> 
+<p>配置管理之前用Http1.1的Keep Alive模式30s发一个心跳模拟长链接，协议难以理解，内存消耗大，推送性能弱，因此2.0通过gRPC彻底解决这些问题，内存消耗大量降低。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-790ff3c9cf702535ac244fd763e5a21c3d1.JPEG" referrerpolicy="no-referrer"></p> 
+<h3>Nacos2.0 架构优势</h3> 
+<p>Nacos2.0大幅降低了资源消耗，提升吞吐性能，优化客户端和服务端交互，对用户更加友好；虽然可观测性略微下降，但是整体性价比非常高。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-ffa51c6b272bcf3f56663756e44813c9c13.JPEG" referrerpolicy="no-referrer"></p> 
+<h2>Nacos2.0 性能提升</h2> 
+<p>由于Nacos由服务发现和配置管理两大模块构成，业务模型略有差异，因此我们下面分别介绍一下具体压测指标。</p> 
+<h3>Nacos2.0 服务发现的性能提升</h3> 
+<p>服务发现场景我们主要关注客户端数，服务数实例数，及服务订阅者数在大规模场景下，服务端在推送及稳定状态时的性能表现。同时还关注在有大量服务在进行上下线时，系统的性能表现。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-3fc459befa09343729ce78ec2f61fb0512e.JPEG" referrerpolicy="no-referrer"></p> 
+<h4>容量及稳定状态测试</h4> 
+<p>该场景主要关注随着服务规模和客户端实例规模上涨，系统性能表现。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-0d9f53a30bbb8e42a82219324777820fa73.JPEG" referrerpolicy="no-referrer"></p> 
+<p>可以看到2.0.0版本在10W级客户端规模下，能够稳定的支撑，在达到稳定状态后，CPU的损耗非常低。虽然在最初的大量注册阶段，由于存在瞬时的大量注册和推送，因此有一定的推送超时，但是会在重试后推送成功，不会影响数据一致性。</p> 
+<p>反观1.X版本，在10W、5W级客户端下，服务端完全处于Full GC状态，推送完全失败，集群不可用；在2W客户端规模下，虽然服务端运行状态正常，但由于心跳处理不及时，大量服务在摘除和注册阶段反复进行，因此达不到稳定状态，CPU一直很高。1.2W客户端规模下，可以稳定运行，但稳态时CPU消耗是更大规模下2.0的3倍以上。</p> 
+<h4>频繁变更测试</h4> 
+<p>该场景主要关注业务大规模发布，服务频繁推送条件下，不同版本的吞吐和失败率。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-48fb7d8144e8e6c3809ed3567df81f89255.JPEG" referrerpolicy="no-referrer"></p> 
+<p>频繁变更时，2.0和1.X在达到稳定状态后，均能稳定支撑，其中2.0由于不再有瞬时的推送风暴，因此推送失败率归0，而1.X的UDP推送的不稳定性导致了有极小部分推送出现了超时，需要重试推送。</p> 
+<h3>Nacos2.0 配置管理的性能提升</h3> 
+<p>由于配置是少写多读场景，所以瓶颈主要在单台监听的客户端数量以及配置的推送获取上，因此配置管理的压测性能主要集中于单台服务端的连接数量以及大量推送的比较。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-a5ec8549f452d1c61c875324d56ad118152.JPEG" referrerpolicy="no-referrer"></p> 
+<h4>Nacos2.0 连接容量测试</h4> 
+<p>该场景主要关注不同客户端规模下的系统压力。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-aa67f0c2fccb21bdb197517fdb32cdbced6.JPEG" referrerpolicy="no-referrer"></p> 
+<p>Nacos2.0 最高单机能够支撑4.2w个配置客户端连接，在连接建立的阶段，有大量订阅请求需要处理，因此CPU消耗较高，但达到稳态后，CPU的消耗会变得很低。几乎没有消耗。</p> 
+<p>反观Nacos1.X， 在客户端6000时，稳定状态的CPU一直很高，且GC频繁，主要原因是长轮训是通过hold请求来保持连接，每30s需要回一次 Response并且重新发起连接和请求。需要做大量的上下文切换，同时还需要持有所有Request 和 Response。当规模达到1.2w客户端时，已经无法达到稳态，所以无法支撑这个量级的客户端数。</p> 
+<h4>Nacos2.0 频繁推送测试</h4> 
+<p>该场景关注不同推送规模下的系统表现。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-a04f3041ea2b23a68f41840d854489356a2.JPEG" referrerpolicy="no-referrer"></p> 
+<p>在频繁变更的场景，两个版本都处于6000个客户端连接中。明显可以发现2.0版本的性能损耗要远低于1.X版本。 在3000tps的推送场景下，优化程度约优化了3倍。</p> 
+<h3>Nacos2.0 性能结论</h3> 
+<p><strong><span style="color:#f5222d">针对服务发现场景，Nacos2.0能够在10W级规模下，稳定运行；相比Nacos1.X版本的1.2W规模，提升约10倍。</span></strong></p> 
+<p><strong><span style="color:#f5222d">针对配置管理场景，Nacos2.0单机最高能够支撑4.2W个客户端连接；相比Nacos1.X，提升了7倍。且推送时的性能明显好于1.X。</span></strong></p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-74003a795eff711250fefcb59ce918249fb.JPEG" referrerpolicy="no-referrer"></p> 
+<h2>Nacos生态及2.X后续规划</h2> 
+<p>随着Nacos三年的发展，几乎支持了所有开源的RPC框架和微服务生态，并且引领云原生微服务生态发展。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-16cecd9b423401fad277d209ee29c7b4fef.JPEG" referrerpolicy="no-referrer"></p> 
+<p>Nacos在整个微服务生态中非常核心的组件，它可以无缝和K8s服务发现体系互通，通过MCP/XDS协议与Istio通信将Nacos服务下发Sidecar；同样也可以和CoreDNS联合，将Nacos服务通过域名模式暴露给下游调用。</p> 
+<p>Nacos目前已经和各类微服务RPC框架融合，进行服务发现；另外可以协助高可用框架Sentinel进行各类管理规则的控制和下发。</p> 
+<p>如果只使用RPC框架，有时候并不足够简单，因为部分RPC框架比如Grpc和Thrift，还需要自行启动Server并告知client该调用哪个IP。 这时候就需要和应用框架进行融合，比如SCA、Dapr等；当然也可以通过Envoy Sidecar来进行流量控制，应用层的RPC就不需要知道服务的ip列表了。</p> 
+<p>最后，Nacos还可以和各类微服务网关打通，实现接入层的分发和微服务调用。</p> 
+<h3>Nacos 生态在阿里的实践</h3> 
+<p>目前Nacos已经完成了自研、开源、商业化三位一体的建设，阿里内部的钉钉、考拉、饿了么、优酷等业务域已经全部采用云产品MSE中的Nacos服务，并且将阿里和云原生的技术栈无缝整合。 下面我们以钉钉为例简单做一下介绍。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-757cff2dcf0caec3cbb5660fae86e45ffd7.JPEG" referrerpolicy="no-referrer"></p> 
+<p>Nacos运行在 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcn.aliyun.com%2Fproduct%2Faliware%2Fmse%3Fspm%3Dnacos-website.topbar.0.0.0" target="_blank">微服务引擎MSE</a>（<span style="color:#111f2c">全托管的Nacos集群</span>） 上，进行维护和多集群管理；业务的各类Dubbo3或HSF服务在启动时通过Dubbo3自身注册到Nacos集群中；然后Nacos通过MCP协议将服务信息同步到Istio和Ingress-Envoy网关。</p> 
+<p>用户流量从北向进入集团的VPC网络中，先通过一个统一接入Ingress-Tengine网关，他可以将域名解析并路由到不同的机房，单元等。本周我们也同步更新了 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Falibaba%2Ftengine%2Freleases%2Ftag%2F2.3.3" target="_blank">Tengine 2.3.3</a> 版本，内核升级到N<span style="color:#111f2c">ginx Core 1.18.0</span><span style="color:#111f2c"> ，支持Dubbo协议 </span><span style="color:#111f2c">，</span><span style="color:#111f2c">支持DTLSv1和DTLSv1.2</span><span style="color:#111f2c">，支持Prometheus格式，从而提升阿里云微服务生态完整性、安全性、可观测性。</span></p> 
+<p>通过统一接入层网关后，用户请求会通过Ingress-Envoy微服务网关，转发到对应的微服务中，并进行调用。如果需要调用到其他网络域的服务，会通过Ingress-Envoy微服务网关将流量导入到对应的VPC网络中，从而打通不同安全域、网络域和业务域的服务。</p> 
+<p>微服务之间的相互调用，会通过Envoy Sidecar或传统的微服务自订阅的方式进行。最终，用户请求在各个微服务的互相调用中，完成并返回给用户。</p> 
+<h3>Nacos 2.X的规划</h3> 
+<p>Nacos2.X将在2.0解决性能问题的基础上，通过插件化实现新的功能并改造大量旧功能，使得Nacos能够更方便，更易于拓展。</p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-29292c92a3581fd21d87007f7b8c890bc4a.JPEG" referrerpolicy="no-referrer"></p> 
+<h2>总结</h2> 
+<p>Nacos2.0作为一个跨代版本，彻底解决了Nacos1.X的性能问题，将性能提升了10倍。并且通过抽象和分层让架构更加简单，通过插件化更好的扩展，让Nacos能够支持更多场景，融合更广生态。相信Nacos2.X在后续版本迭代后，会更加易用，解决更多微服务问题，并向着Mesh化进行更深入地探索。</p> 
+<h2>加入我们</h2> 
+<p>欢迎在 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Falibaba%2Fnacos" target="_blank">Nacos github</a>  上提交 Issue 与 PR 进行讨论和贡献，或加入Nacos社区群参与社区讨论。也趁此机会感谢参与 Nacos 贡献的 200+小伙伴！ 感谢你们对中国开源事业的推动 ！</p> 
+<p>除了参与开源，我们也欢迎更多有能力及有意愿的同学加入阿里云共建云原生，详情请点击<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fjob.alibaba.com%2Fzhaopin%2Fposition_detail.htm%3Ftrace%3Dqrcode_share%26positionCode%3DGP708029" target="_blank">职位链接</a>。</p> 
+<p><strong>Nacos 企业版<span style="color:#e74c3c">1元包</span>活动限时推广中…<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.aliyun.com%2Factivity%2Fmiddleware%2Fcloudnativechannel" target="_blank">【点击查看】</a></strong></p> 
+<div> 
+ <hr>
+</div>
+                                        </div>
+                                      
+</div>
+            

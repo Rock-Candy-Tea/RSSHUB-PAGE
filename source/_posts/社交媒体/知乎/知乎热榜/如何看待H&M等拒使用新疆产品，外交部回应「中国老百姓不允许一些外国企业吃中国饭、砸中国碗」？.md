@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-2a0946c38101338b54ab9ffd7e9c4c6d_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=1333'
 author: 知乎
 comments: false
-date: Fri, 26 Mar 2021 07:35:48 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-2a0946c38101338b54ab9ffd7e9c4c6d_1440w.jpg'
+date: Fri, 26 Mar 2021 10:10:14 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1333'
 ---
 
 <div>   
-希刺克厉夫的回答<br><br><p>支持！我们首先是中国人，其次才是消费者！我泱泱大国岂能让几个外国企业肆意污蔑！让它们都gun！中国市场虽大，但不欢迎任何恶意中伤者！</p><a href="https://www.zhihu.com/zvideo/1358801740289224704" data-draft-node="block" data-draft-type="link-card"><p>它们算什么东西？一群见风使舵的宵小之徒，赚我们的钱还侵犯我国主权，毫无道德和底线，我们需要立刻“自卫”，这是境外政治势力集体在制裁中国，这只是一个莫须有的开始，它们急了！</p><p>22日，欧盟、英国、加拿大分别以所谓新疆人权问题为借口，宣布对有关个人及实体实施单边制裁，24日，HM就开始跳了出来，之后耐克、优衣库还有一众乱七八糟从不知道的品牌都跟着跳出来，这些商家跟随政治的步伐捕风捉影，一起禁用新疆棉花。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2a0946c38101338b54ab9ffd7e9c4c6d_1440w.jpg" data-rawwidth="1537" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-56be5b15b944145cb9df72cef36d64d3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-2a0946c38101338b54ab9ffd7e9c4c6d_r.jpg" referrerpolicy="no-referrer"></figure><p>这算什么？指责衣食父母的“家事”，吃我们的喝我们的，还骂我们不好，关键是作为商家，这是你们该插手的事吗？你们也配？小丑！</p><p><b>丢掉幻想，准备战斗吧。</b></p></a><a href="https://www.zhihu.com/zvideo/1358737776003977216" data-draft-node="block" data-draft-type="link-card"></a>  
+谢君楼的回答<br><br><p>新疆存在「强迫劳动」的事实吗？</p><p>不存在！</p><p>这些公司有相关的证据证明吗？</p><p>没有，也不可能有。不存在的东西哪来的证据？</p><p>可为什么H&M、耐克等等这些公司依旧造谣污蔑和诋毁，时间还如此的一致呢？</p><p>首先，要调动如此多个国家如此多的大公司，能量得有多大。</p><p>其次，之前中美战略对话大家都知道的，进展并不是那么的顺利。</p><p>今天，又报道出拜登「任内不允许中国超过美国」。</p><p>幕后黑手不言而喻。</p><p>所以这并不是什么简单的诋毁造谣的突然性事件，而是有组织有预谋，策划许久的。</p><p>早在去年的时候就有个别类似的声明，为什么今天才集体联合？</p><p>因为阴谋者找不到证据，也不可能找到证据。</p><p>可找不到证据又必须有怎么办？</p><p>那就无中生有呗！</p><p>三人成虎的道路大家都懂，谣言被说的多了，就可能被当作事实。</p><p>而有时候对他们来说，真相并不是那么重要，重要的是他们愿意相信什么。</p><p>众口铄金，积毁销骨，危害不可谓不重。</p><p>距离超越美国的GDP时间点越来越近，可以预想的针对中国的手段会越来越卑劣。</p><p>不过我确信，中国实现中国梦的步伐无可阻挡。</p><p>因为，这是时代的步伐！</p>  
 </div>
             
