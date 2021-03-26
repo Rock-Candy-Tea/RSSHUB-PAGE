@@ -21,6 +21,10 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/pro
 <blockquote class="wp-block-quote">
 <p>All apps made by Proton, including ProtonVPN, have remained available for download in Myanmar. We approved the most recent version of ProtonVPN on March 19. Following this approval, Proton chose to time the release of their update, making it available on March 21st, while subsequently publishing their blog post on March 23rd.</p>
 </blockquote>
+<p><strong><em>Update 3/25 6:20 am PT:</em></strong> Proton has shared a response to Apple’s statement:</p>
+<blockquote class="wp-block-quote">
+<p>Apple has systematically blocked updates that outline that ProtonVPN can be used to overcome internet blocks used by regimes engaging in human rights abuses. We were forced to censor our app description to get approval from Apple to update our app. We believe that Apple’s policy of rejecting apps which are “challenging governments” is simply wrong. It is telling that Apple’s response does not address this policy at all.</p>
+</blockquote>
 
 
 
