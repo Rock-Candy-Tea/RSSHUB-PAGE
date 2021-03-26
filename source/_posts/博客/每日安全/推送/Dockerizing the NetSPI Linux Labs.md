@@ -1,0 +1,26 @@
+
+---
+title: 'Dockerizing the NetSPI Linux Labs'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=7613'
+author: 每日安全
+comments: false
+date: 2021-03-26 04:17:59
+thumbnail: 'https://picsum.photos/400/300?random=7613'
+---
+
+<div>   
+<q>NetSPI 将之前的 Linux 渗透测试学习环境整合成了一个 Docker</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 19 minutes ago</small></span>
+</cite>
+  
+</div>
+            
