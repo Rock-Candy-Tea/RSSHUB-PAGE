@@ -1,0 +1,18 @@
+
+---
+title: '《骑马与砍杀2：霸主》因大地图联机Mod发布或将迎来第二春'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/261550_yaeIC.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 26 Mar 2021 21:00:07 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/261550_yaeIC.jpg'
+---
+
+<div>   
+<p>《骑马与砍杀2：霸主》自去年发售EA抢先版后，经过漫长的等待终于更新到1.5.9Beta版本，虽然更新内容多如兵种平衡、BUG修复、UI优化以及经济系统调整但对游戏产生巨大影响性的玩法却少之又少。</p><p><img class="lazy" data-gameid="261550" data-height="152" src="https://cdn.max-c.com/heybox/game/header/261550_yaeIC.jpg" data-width="100%" style="width: 100%;" referrerpolicy="no-referrer"></p><p></p><p>再加上T社迟迟未开放创意工坊，导致很多非骑砍核心玩家认为《骑马与砍杀2：霸主》的吸引力不足玩家流失严重。</p><p><img class="lazy" data-height="319" src="https://cdn.max-c.com/heybox/dailynews/img/777cb0c40a6dd0e79bd96b237b87bbe8.jpg" data-width="1024" style="width: 100%; height: 31.1523%;" referrerpolicy="no-referrer"></p><p>于3月15日《骑马与砍杀2 Online》由民间制作人Storm以mod形式发布，其不同于官方纯PVP对抗的在线模式，该Mod提供联机模式，更能够<b>以游戏内卡拉迪亚大陆为载体，进行沙盒游戏自主体验</b>。紧接着在3月26日骑马与砍杀中文站与Storm紧密联系后由骑砍中文站自费架设了中国国服，终于中国玩家可以享受到低延迟且非常稳定的服务器，这必须向骑砍中文站官方的高效率致敬！</p><p><img class="lazy" data-height="581" src="https://cdn.max-c.com/heybox/dailynews/img/e434e2dea4651d1f9e902599c3d5e481.png" data-width="938" style="width: 100%; height: 61.9403%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">右上角就是我的游戏内ID</h4><h2>翼骑简单介绍一下这个重大Mod的基本情况：</h2><p>Mod基于游戏1.5.8版本运行，如果采用1.5.9beta版本需要退版本操作，需要单独使用邮箱密码建立账号。进入游戏首先需要在设置-选择显卡-选择自己最优配置的显卡（再重启游戏），服务器列表里第一个CN服务器就是国服（不需要任何辅助软件裸连没问题的）。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/0b81ebf4f3893f7eb55b52f87d7ff8d2.png" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p>游戏无法调节游戏速度，采用实时动态实时保存，不存在手动存档情况，除此之外游戏具体玩法和单机模式一样，现在Mod和游戏开发尚在早期游戏内任务可能略显不足（竞技场、跑商之类的还是继承了下来），鉴于国服骑友人均友善的情况，先开荒的一定会很乐意带后开荒的玩家护航拓荒发育的。</p><p><b>根据中文站官方显示后续会更新家族系统、PVE攻城和PVP野战，游戏的功能性一定会高速丰富。</b></p><p><img class="lazy" data-height="750" src="https://cdn.max-c.com/heybox/dailynews/img/728022eebf4cdc02458af71e36fc3a9d.png" data-width="1406" style="width: 100%; height: 53.3428%;" referrerpolicy="no-referrer"></p><p>OL模式的体验中，前期获得资金来源速度较单机版来得慢得多（毕竟单机模式一开始有本金，OL一开始就一个裤衩），大家在村庄辛劳种田种小麦卖给村长，出门跑商被匪徒打劫还有其他好心玩家前来营助。</p><p>几乎可以肯定得说OL版本可以点燃许多退坑一段时间但依然喜爱骑砍题材玩家的热情，翼骑大胆预测在OL游玩时间寿命一定远超于单机版本。</p><p><img class="lazy" data-height="576" src="https://cdn.max-c.com/heybox/dailynews/img/8de7f54b58d09cadcca83070910b1fb3.jpg" data-width="1024" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><h2>作为这样独特性玩法的在线mod，这难免让人产生担忧</h2><p>比如会不会以某时间段为赛季？玩家的数据会不会定期清档？不清档老玩家掌控游戏资源过多是否会导致新玩家毫无游戏体验？清档是否对老玩家成果不够尊重？</p><p>如果后续PVE攻城开放老玩家早已打下城镇而新玩家为了跑商辛苦跑路，新玩家是否会担惊受怕？作为民间服务器的反作弊手段怎么样？未来有无可能性开放自建房间支持四五个的服务器？</p><p>这些诸般事务自Mod上线以来翼骑就十分关注，就目前游玩体验来看OL版本的个人发育速度远慢于单机版，未来一段时间尚无需担心上诉问题，但是如果要做好OL版，骑砍中文站和Mod制作人storm一定需要有解决此问题的办法。</p><p><img class="lazy" data-height="576" src="https://cdn.max-c.com/heybox/dailynews/img/f21ca6be72a31fbafd9bcca0bbe6b678.jpg" data-width="1024" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p>如果只是依靠民间制作人storm的募捐和骑砍中文站的自费维持OL的运作一定非常吃力，因此翼骑对于《骑马与砍杀OL》最大最迫切的展望，莫过于是希望T社官方能够将其早日招安，将其一并合入官方的多人在线模式。</p><p><b>我是翼骑，一位忠实的骑砍玩家，感谢您的阅读与骑砍的支持。</b> <a href="heybox://open_subject" target="_blank">#骑马与砍杀OL#</a> </p><p><img class="lazy" data-height="377" src="https://cdn.max-c.com/heybox/dailynews/img/c978fe7f7237cea19ca22aa02353ddc3.gif" data-width="864" style="width: 100%; height: 43.6343%;" referrerpolicy="no-referrer"></p><p> </p><p class="news-source">本文由小黑盒作者：翼骑的正义 原创<br>未经授权禁止转载或摘编</p>  
+</div>
+            
