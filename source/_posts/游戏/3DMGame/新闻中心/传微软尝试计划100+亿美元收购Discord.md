@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210327/1616845523_9953
 根据彭博社消息，Xbox主管Phil Spencer正谈判收购游戏聊天服务Discord，价格将超过100亿美元，目前交易还没完全敲定，Discord也可能尝试上市。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210327/1616845523_995318.jpg" alt="传微软尝试计划100+亿美元收购Discord" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210327/1616845523_995318.jpg" alt="传微软尝试计划100+亿美元收购Discord" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 彭博社称Epic Games和Amazon也都曾谈过收购Discord。
