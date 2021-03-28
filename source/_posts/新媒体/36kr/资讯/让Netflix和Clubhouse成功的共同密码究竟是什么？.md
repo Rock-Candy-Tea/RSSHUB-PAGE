@@ -58,10 +58,14 @@ thumbnail: 'https://img.36krcdn.com/20210327/v2_2666d0d0f1574421ac9b377b506bef0a
 <p><strong>而在客观技术层面，过去二十年里技术的发展让企业和组织采用会员经济的成本越来越低，这种模式也正在帮助全世界各个领域的公司成长和发展。</strong>Baxter说若干年前她跟别人提到会员经济的概念的时候，对方都问：会有人想要成为这种会员吗？而现在当她再提及自己从事的领域的时候，别人会说“哦我加入了太多的会员了！”会员经济的时代已经到来并正飞速发展着，而身处这样的商业世界中怎样克敌制胜，建立属于自己的会员堡垒呢？<strong>转变思维模型，发现超级用户，缔造长期交易，赢得持久营业收入，《会员经济》会带给你一个前所未有的视角。</strong></p> 
 <p class="image-wrapper"><img data-img-size-val="800,800" src="https://img.36krcdn.com/20210327/v2_5e2739b784c54505a53104ef2e8431a1_img_png" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">书名：会员经济：发现超级用户，缔造长期交易，赢得持久营业收入</p> 
-<p class="img-desc">作者：罗比·凯尔曼·巴克斯特</p> 
-<p class="img-desc">译者：蒋宗强</p> 
-<p class="img-desc">出版社：中信出版集团</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>作者：罗比·凯尔曼·巴克斯特</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>译者：蒋宗强</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>出版社：中信出版集团</p> 
 <p><strong>作者简介：</strong></p> 
-<p>罗比·凯尔曼·巴克斯特，哈佛大学学士，斯坦福大学商学院企管硕士，半岛战略咨询公司（Peninsula Strategies LLC）创始人。2002年，巴克斯特开始与网飞合作，并开始研究其订阅模式。她曾担任20多个行业中约100个组织的增长战略顾问，并认为会员经济相当于一次现代工业革命。</p>  
+<p>罗比·凯尔曼·巴克斯特，哈佛大学学士，斯坦福大学商学院企管硕士，半岛战略咨询公司（Peninsula Strategies LLC）创始人。2002年，巴克斯特开始与网飞合作，并开始研究其订阅模式。她曾担任20多个行业中约100个组织的增长战略顾问，并认为会员经济相当于一次现代工业革命。</p> 
+<h3><strong>赠书互动</strong></h3> 
+<p>关于会员经济，你有哪些思考？</p> 
+<p>欢迎在评论区留言告诉我们。</p> 
+<p>我们将在4月2日精选出五条优质留言，各赠送一本《会员经济》哦！</p>  
 </div>
             
