@@ -1,0 +1,18 @@
+
+---
+title: '如何看待小米 11 Ultra 首发的全相变散热技术？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-e7be4b7108eb2c18924af3babe0fcad9_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 28 Mar 2021 03:51:02 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-e7be4b7108eb2c18924af3babe0fcad9_1440w.jpg'
+---
+
+<div>   
+王之葵托利的回答<br><br><p>看到一次散热，固液气三态变化。</p><p>想到的就是用了相变材料，融化吸热，实现了固液变化；然后再加上VC均热板，实现气液变化。</p><p>结合一下，就是一次散热，固液气三态变化了。</p><p>结果不出所料哈。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e7be4b7108eb2c18924af3babe0fcad9_1440w.jpg" data-caption data-size="normal" data-rawwidth="822" data-rawheight="507" data-default-watermark-src="https://pic1.zhimg.com/v2-9f0b02f040a3293c5181efd3a2a12fad_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e7be4b7108eb2c18924af3babe0fcad9_r.jpg" referrerpolicy="no-referrer"></figure><p>小米11Ultra上用的相变有机炔que材料配合上高导热陶瓷微颗粒，起到替代导热凝胶的作用。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1a5cb5443b73a8fddad0cd3a78f9b8aa_1440w.jpg" data-caption data-size="normal" data-rawwidth="624" data-rawheight="418" data-default-watermark-src="https://pic1.zhimg.com/v2-1c8208a3b4c0188f2c2e43f9d631197f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-1a5cb5443b73a8fddad0cd3a78f9b8aa_r.jpg" referrerpolicy="no-referrer"></figure><h2><b>划重点，导热性能提升了100%！！！</b></h2><p>也就是说相变有机炔+高导热陶瓷微颗粒的当量热导率（传热系数），是过去导热凝胶的2倍！</p><p>导热性能提升了，有助于将热量更快地从SoC导出来，能够避免SoC的温度过高，从而实现更加出色的性能释放。</p><p>然后导出来的热量，再通过VC均热板内的液体相变吸热，然后再均匀摊开。</p><p>之后再通过外壳、屏幕、中框等对外散热。</p><h2><b>虽然宣传上容易把人给晃倒，但是优化的方向，还是正确的。</b></h2><p>VC的性能，大家估计都差不太多了，其余的降低热阻，增强传热的地方，就在于SoC和VC之间的接触了。</p><p>无论是用更强的导热硅脂，或者用这种相变材料+高导热微颗粒，或者未来用上液态金属。</p><p>都是为了降低SoC和VC/热管等之间的热阻，从而将热量更快地导出来。</p><p><br></p><h2>技术终究还是为效果服务的！</h2><p><b>不服跑个分？不服跑个原神？</b></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f95095e6d66dc630cdf5cd1f2430b1bb_1440w.jpg" data-caption data-size="normal" data-rawwidth="532" data-rawheight="214" data-default-watermark-src="https://pic1.zhimg.com/v2-a8f39d9dc57a31e9019cc3e50c57d757_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f95095e6d66dc630cdf5cd1f2430b1bb_r.jpg" referrerpolicy="no-referrer"></figure><p>更加期待29号的发布会了~</p><p>2021年，小米春季新品发布会盘点：小米11Pro，小米11Ultra，小米MIX Fold，小米11青春版等15款新品袭来，你最期待哪一款？详细产品介绍发布会后补充~ - 王之葵托利的文章 - 知乎 </p><a href="https://zhuanlan.zhihu.com/p/360460476" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-ece92103f06b6ea2d225e736afe26d17_200x0.jpg" data-image-width="690" data-image-height="920" class="internal">王之葵托利：2021年，小米春季新品发布会盘点：小米11Pro，小米11Ultra，小米MIX Fold，小米11青春版等15款新品袭来，你最期待哪一款？详细产品介绍发布会后补充~</a><p>如何评价红米K40，红米K40，红米K40Pro，红米K40Pro+哪款才是真香？ - 王之葵托利的文章 - 知乎 </p><a href="https://zhuanlan.zhihu.com/p/352985352" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-e9dcc4bd7e6ff083e6a6af97b76bd005_720w.jpg" data-image-width="3200" data-image-height="2133" class="internal">王之葵托利：如何评价红米K40，红米K40，红米K40Pro，红米K40Pro+哪款才是真香？</a><p>2021年3月，有哪些小米手机/红米手机值得购买，内含优缺点分析，及选购建议~ - 王之葵托利的文章 - 知乎 </p><a href="https://zhuanlan.zhihu.com/p/173356144" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-8a9c45534e92e4e39b0e1e8ecacf692a_720w.jpg" data-image-width="497" data-image-height="351" class="internal">王之葵托利：2021年3月，有哪些小米手机/红米手机值得购买，内含优缺点分析，及选购建议~</a><p></p>  
+</div>
+            
