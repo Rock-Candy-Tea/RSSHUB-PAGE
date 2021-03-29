@@ -158,7 +158,6 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/03/ejjyMs8BMjGn7Ex4hV0r.png'
 <p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt" style="text-align: center">↓↓↓扫码↓↓↓</p>
 <p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt" style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/03/kqVtgnhNyRvvnNbXxK0R.png" alt width="800" height="555" referrerpolicy="no-referrer"></p>
 <p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt" style="text-align: center">↑↑↑若群限制，请回到01加顾问小哥哥，拉你入群</p>
-<p> </p>
 </div>
 </div>
 <p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt" style="text-align: center">近期好课：4月6日JY26期正式开课！</p>
@@ -169,13 +168,20 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/03/ejjyMs8BMjGn7Ex4hV0r.png'
 <p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-3pt pap-spacing-after-3pt" style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/03/T2pqyuE2Qs1gLashXV9p.jpg" alt width="1242" height="650" referrerpolicy="no-referrer"></p>
 </div>
 </div>
-<p> </p>
 <p style="text-align: center">最后1个福利</p>
 <p style="text-align: center">不知道自己适不适合转行做产品？</p>
 <p style="text-align: center">不如先做一个产品潜能测试！</p>
 <p style="text-align: center">20个免费名额，<strong><a href="http://3.woshipm.cn/F7ZbM3">测测你的产品了解程度</a></strong></p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/03/IubXkiUCa4L05l2iW5hb.png" alt width="260" height="260" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">扫码也可参加测试哦~</p>
+<p> </p>
+<p style="text-align: center">/////</p>
+<p> </p>
+<p style="text-align: center">如果对于转行产品还有疑虑，也可以来听听我们的公开课</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/03/eN0IcAGGDZjXfKmyWyIK.jpg" alt width="540" height="320" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/03/mTJCCX6KTLys2k6SEkbX.png" alt width="203" height="203" referrerpolicy="no-referrer"></p>
+<p style="text-align: center">扫码进群获取报名链接~</p>
+<p style="text-align: center">还有机会获得价值99元产品新人大礼包！</p>
                           
 </div>
             
