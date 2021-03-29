@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/6f22064364777b58f548e0d5a31bxsi5.PNG?v=1616919544118'
 author: 巴哈姆特
 comments: false
-date: 2021-03-29 00:26:37
+date: 2021-03-29 04:11:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/6f22064364777b58f548e0d5a31bxsi5.PNG?v=1616919544118'
 ---
 
@@ -29,8 +29,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/6f22064364777b58f548e0d5a31bxsi5.
 <div>
  </div>
 <div>
+ </div>
+<div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/c0u4DH4Jnxo?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/6HO63nrrnNk?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
@@ -48,6 +50,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/6f22064364777b58f548e0d5a31bxsi5.
  </div>
 <div>
 　　更多詳情尚待後續揭曉。</div>
+<p> </p>
+<div class="article_gamercard lazyload" data-fanspage-id="21559" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">Illustration:日田慶治 © コーエーテクモゲームス All rights reserved.</p>
 </div>
 <!-- 新聞內容結束 -->
