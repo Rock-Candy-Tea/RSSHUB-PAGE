@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-03-29 08:20:19
-thumbnail: 'https://pic2.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162'
+date: 2021-03-29 12:10:50
+thumbnail: 'https://pic4.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/v2-98ee7afe263b063b424cb0f124cbac68_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">塔塔君Minkun，</span><span class="bio">名作之壁吧视频组组长，一个爱看日本动画和电影的观众。</span>
 <a href="https://www.zhihu.com/question/302874502/answer/534669935" class="originUrl" hidden>查看知乎原文</a>
 </strong>

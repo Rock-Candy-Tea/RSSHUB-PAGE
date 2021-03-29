@@ -1,0 +1,18 @@
+
+---
+title: '会约worktile CEO，对于项目管理类产品，你有什么想问的么？'
+categories: 
+ - 新媒体
+ - PMCAFF
+ - 社区
+headimg: 'https://picsum.photos/400/300?random=4180'
+author: PMCAFF
+comments: false
+date: Mon, 29 Mar 2021 17:12:05 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4180'
+---
+
+<div>   
+会约worktile CEO，对于项目管理类产品，你有什么想问的么？  
+</div>
+            
