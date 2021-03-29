@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/doug-pray-matt-weaver-home-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-03-28 12:11:47
+date: 2021-03-29 00:27:55
 thumbnail: 'https://www.invisionapp.com/inside-design/doug-pray-matt-weaver-home-design-better-podcast/'
 ---
 
