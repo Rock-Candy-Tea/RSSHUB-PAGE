@@ -1,0 +1,19 @@
+
+---
+title: '程天科技获得数千万A轮融资，打造_康复即服务_新模式'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/vcbeat/2021-03-30/f141f5ffb52fb2084649129908793a8c.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 30 Mar 2021 03:59:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/vcbeat/2021-03-30/f141f5ffb52fb2084649129908793a8c.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">动脉网第一时间获悉，杭州程天科技发展有限公司（以下简称程天科技）近日宣布完成数千万元A轮融资，由蓝驰创投独家投资。本轮融资资金将用于“康复即服务”康复养老新模式的探索、市场推广、团队扩充及量产筹备等。此前，程天科技曾获<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>健康产业集团纳通科技领投的Pre－A轮融资。</p><p style="text-indent: 2em; text-align: left;">程天科技成立于2017年，是一家外骨骼<span class="hrefStyle"><a href="http://robot.ofweek.com/CATList-8321200-8300-robot.html" target="_blank" title="机器人技术">机器人技术</a></span>公司，创始团队涵盖机械、自动化、通信、计算机等全科专家，汇聚了多位院士、医学会主委、脑科学与神经学专家、仿生学专家及超过20位康复医学类专家，构建了有竞争优势的临床专家网络。</p><p style="text-indent: 2em; text-align: left;">目前，程天科技专注在养老及康复领域，为行动失能、弱能的病患、老年人及康复医疗机构提供智能康复器械、康复辅具产品和智能化康复解决方案。</p><p style="text-indent: 2em; text-align: left;"><strong>4．6亿人康复需求催生蓝海市场，外骨骼<span class="hrefStyle"><a href="http://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>提质增效迎曙光</strong></p><p style="text-indent: 2em; text-align: left;">随着我国居民的生活结构变化及老龄化程度加深，多种疾病的发病率与致残率呈持续上升趋势。然而，疾病的终点不是结束治疗，而是完成康复。</p><p style="text-indent: 2em; text-align: left;">目前，我国有2．5亿老年人，4000万失能半失能老年人。资料显示，“十四五”时期我国将进入中度老龄化阶段，65岁以上人口将超过14％；《柳叶刀》最新数据显示，中国有4．6亿人有康复需求。可以预见，我国康复产业具有较大的发展前景。</p><p style="text-indent: 2em; text-align: left;">但是也必须承认，面对巨大的养老和康复需求，我国康复资源较为稀缺，且传统的人工看护模式难以负担。相较于康复医学发达的国家，我国康复机构和人才都存在较大的缺口。资料显示，国内康复治疗师仅有11000人，而美国超过20万名；国内康复诊所屈指可数，而美国大约有3万－7万家。在照护人员方面，国内已产生高达700万人的护工缺口。</p><p style="text-indent: 2em; text-align: left;">康复行业作为服务业，突破难点在于如何提高服务效率与质量。基于此，康复外骨骼机器人应运而生。</p><p style="text-indent: 2em; text-align: left;">蓝驰创投认为：“在医保控费、带量采购等政策影响下，以药养医困局即将被解决，医疗服务的价值将真正释放。而商业健康险将作为新的支付方迅速发展，并成为高效率高质量医疗服务的新的支付方。因此，提高康复效率与康复质量的康复外骨骼机器人将迎来黄金发展期。”</p><p style="text-indent: 2em; text-align: left;"><strong>掌握核心科技，打造“康复即服务”新模式</strong></p><p style="text-indent: 2em; text-align: left;">作为一家技术型企业，程天科技掌握电机、<span class="hrefStyle"><a href="http://robot.ofweek.com/IND-8321218-jiansuji.html" target="_blank" title="减速机">减速机</a></span>器、关节模组、<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>等外骨骼机器人全链条核心技术，现已申请自主知识产权150余项。另外，程天科技研发的外骨骼机器人作为创新医疗器械获得了国内首个用于中枢神经病变的外骨骼机器人医疗器械注册证。</p><p style="text-indent: 2em; text-align: left;">依托自研技术，程天科技掌握了核心生产技术与工艺生产能力，并因此具备优异的成本控制能力。而在优异的成本控制能力加持下，程天科技探索出了与康复机构联合运营的“康复即服务”新模式。</p><p style="text-indent: 2em; text-align: left;">具体而言，程天科技结合我国三级康复体系（急性期在三级医院康复科，恢复期在二级康复专科医院，维持期的康复服务由社区或居家完成），将外骨骼机器人康复体系下沉到二级康复专科医院，维持期的康复服务由社区或居家完成，实现居家、社区、民营机构的联合运营方式。</p><p style="text-indent: 2em; text-align: left;">该新模式的核心在于解决二级康复专科医院与社区或居家康复的专业度问题，实现标准、一致、重复的康复治疗目标，为患者提供分阶段、全周期的康复服务。</p><p style="text-indent: 2em; text-align: left;">目前，程天科技的“康复即服务”新模式已通过三级康复体系覆盖多个城市超30家医院，且新用户试用外骨骼机器人康复训练超2万人次。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/vcbeat/2021-03-30/f141f5ffb52fb2084649129908793a8c.png" alt="image.png" width="392" height="293" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">（企业供图）</p><p style="text-indent: 2em; text-align: left;">程天科技COO张继宇表示：“未来，程天科技将以差异化的服务模式、广泛的核心专家网络资源等优势深耕康养领域，拓展更多数量更多层级的康养机构。随着技术进步及规模优势带来的成本进一步下降，程天科技的康养外骨骼产品将进入C端市场，并进一步拓展到工业、娱乐、安防、运输等领域外骨骼应用的研究与开发。”</p><p style="text-indent: 2em; text-align: left;">作者：张靖</p> 
+  
+</div>
+            

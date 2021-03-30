@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4226'
+headimg: 'https://picsum.photos/400/300?random=449'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:09:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4226'
+thumbnail: 'https://picsum.photos/400/300?random=449'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>GnuCash 4.5 现已发布，这是稳定版 4.x 系列的第五个版本。GnuCash 是一个适用于个人或小型企业的财务软件，采用 GPL 协议开源，支持 GNU / Linux、BSD、Solaris、Mac OS X 及 Microsoft Windows。GnuCash 易于使用，且功能强大，它可以追踪银行帐户、股票、收入与支出，也可以基于专业的会计原则确保帐目平衡并提供准确的报表。 </p> 
+                                                                    
+                                                        <p>GnuCash 4.5 现已发布，这是稳定版 4.x 系列的第五个版本。GnuCash 是一个适用于个人或小型企业的财务软件，采用 GPL 协议开源，支持 GNU / Linux、BSD、Solaris、Mac OS X 及 Microsoft Windows。GnuCash 易于使用，且功能强大，它可以追踪银行帐户、股票、收入与支出，也可以基于专业的会计原则确保帐目平衡并提供准确的报表。 </p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>修复多币种支付日期错误的问题</li> 

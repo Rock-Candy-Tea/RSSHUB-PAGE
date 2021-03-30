@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4700'
+headimg: 'https://picsum.photos/400/300?random=7527'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4700'
+thumbnail: 'https://picsum.photos/400/300?random=7527'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>StaxRip v2.3.0 现已发布。StaxRip 是一个开源的视频转换工具，可以将蓝光光盘或 DVD 中的视频转换成 PC 常用的视频格式，具有一系列解复用器，复用器，编码器和解码器。需要在 .NET Framework 和 DirectX<strong> </strong>的 Windows 环境下运行。 </p> 
+                                                                    
+                                                        <p>StaxRip v2.3.0 现已发布。StaxRip 是一个开源的视频转换工具，可以将蓝光光盘或 DVD 中的视频转换成 PC 常用的视频格式，具有一系列解复用器，复用器，编码器和解码器。需要在 .NET Framework 和 DirectX<strong> </strong>的 Windows 环境下运行。 </p> 
 <p>本次更新内容包括：</p> 
 <ul> 
  <li>可能会破坏先前版本的设置，因此建议从新设置开始</li> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8743'
+headimg: 'https://picsum.photos/400/300?random=6973'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8743'
+thumbnail: 'https://picsum.photos/400/300?random=6973'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Redmine 是一个网页界面的项目管理与缺陷跟踪管理系统的自由及开放源代码软件工具。它集成了项目管理所需的各项功能：日历、燃尽图和甘特图以协助可视化表现项目与时间限制，问题跟踪和版本控制。此外，Redmine也可以同时处理多个项目。</p> 
+                                                                    
+                                                        <p>Redmine 是一个网页界面的项目管理与缺陷跟踪管理系统的自由及开放源代码软件工具。它集成了项目管理所需的各项功能：日历、燃尽图和甘特图以协助可视化表现项目与时间限制，问题跟踪和版本控制。此外，Redmine也可以同时处理多个项目。</p> 
 <p>Redmine 是以 Ruby on Rails 撰写的架构，它横跨多个平台与数据库。此外，它也是Bitnami 应用库的一部分。</p> 
 <p>Redmine 4.2.0 正式发布，以下是本次更新中的亮点：</p> 
 <h3>认证/用户账户：</h3> 

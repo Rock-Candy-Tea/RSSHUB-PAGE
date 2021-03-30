@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-e130217be23624cf10829d6c6aff75b
 
 <div>   
 <div class="content">
-                                                                                            <p>VASSAL 3.5.4 发布了。VASSAL 是一个游戏引擎，用于在线构建棋盘游戏和纸牌游戏，构建的游戏可在 Internet 上或通过电子邮件实时运行。VASSAL Engine 可在所有平台上运行，并且是免费的开源软件.</p> 
+                                                                    
+                                                        <p>VASSAL 3.5.4 发布了。VASSAL 是一个游戏引擎，用于在线构建棋盘游戏和纸牌游戏，构建的游戏可在 Internet 上或通过电子邮件实时运行。VASSAL Engine 可在所有平台上运行，并且是免费的开源软件.</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-e130217be23624cf10829d6c6aff75bf58a.png" referrerpolicy="no-referrer"></p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 

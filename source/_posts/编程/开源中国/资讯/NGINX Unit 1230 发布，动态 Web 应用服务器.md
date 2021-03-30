@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8678'
+headimg: 'https://picsum.photos/400/300?random=287'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8678'
+thumbnail: 'https://picsum.photos/400/300?random=287'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>NGINX Unit 1.23.0 已发布，更新内容包括改进对 TLS 的支持、简化 TLS 配置以及修复错误等。</p> 
+                                                                    
+                                                        <p>NGINX Unit 1.23.0 已发布，更新内容包括改进对 TLS 的支持、简化 TLS 配置以及修复错误等。</p> 
 <p>举个例子，开发者只需要上传某个服务器名字下的证书链和密钥，然后就可以使用任意监听套接字来指定服务器名字，并将其配置为 HTTPS，这里例子的名字是"mycert"：</p> 
 <pre><code>  &#123;
       "listeners": &#123;

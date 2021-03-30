@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8358'
+headimg: 'https://picsum.photos/400/300?random=3330'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8358'
+thumbnail: 'https://picsum.photos/400/300?random=3330'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache ZooKeeper 是 Apache 软件基金会的一个软件项目，它为大型分布式计算提供开源的分布式配置服务、同步服务和命名注册。ZooKeeper 曾经是 Hadoop 的一个子项目，但现在是一个独立的顶级项目。</p> 
+                                                                    
+                                                        <p>Apache ZooKeeper 是 Apache 软件基金会的一个软件项目，它为大型分布式计算提供开源的分布式配置服务、同步服务和命名注册。ZooKeeper 曾经是 Hadoop 的一个子项目，但现在是一个独立的顶级项目。</p> 
 <p>ZooKeeper 的架构通过冗余服务实现高可用性。因此，如果第一次无应答，客户端就可以询问另一台 ZooKeeper 主机。ZooKeeper 节点将它们的数据存储于一个分层的命名空间，非常类似于一个文件系统或一个前缀树结构。客户端可以在节点读写，从而以这种方式拥有一个共享的配置服务。</p> 
 <p>Apache ZooKeeper 3.7.0 正式发布，本次部分更新内容如下：</p> 
 <h3><strong>新功能</strong></h3> 

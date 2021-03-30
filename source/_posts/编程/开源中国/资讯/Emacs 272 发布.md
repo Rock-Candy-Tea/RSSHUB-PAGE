@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8605'
+headimg: 'https://picsum.photos/400/300?random=1147'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8605'
+thumbnail: 'https://picsum.photos/400/300?random=1147'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Emacs 27.2 已发布。发布公告显示，这是一个 bug-fix 版本，没有带来任何基于 Emacs 27.1 之上的新功能。</p> 
+                                                                    
+                                                        <p>Emacs 27.2 已发布。发布公告显示，这是一个 bug-fix 版本，没有带来任何基于 Emacs 27.1 之上的新功能。</p> 
 <p>部分修复的错误：</p> 
 <ul> 
  <li>修复 non-GUI 构建中的'frame-inner-height'问题</li> 

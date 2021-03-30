@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2126'
+headimg: 'https://picsum.photos/400/300?random=4994'
 author: 开源中国
 comments: false
 date: Tue, 30 Mar 2021 07:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2126'
+thumbnail: 'https://picsum.photos/400/300?random=4994'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>PyTorch 1.8.1 现已发布，这是一个小的错误修复版本。具体更新内容如下：</p> 
+                                                                    
+                                                        <p>PyTorch 1.8.1 现已发布，这是一个小的错误修复版本。具体更新内容如下：</p> 
 <p><strong>New Features</strong></p> 
 <ul> 
  <li>改造 torch.profiler 中的 profiling tools。torch.profiler 子模块现在可用，它利用了新发布的 kineto 库进行性能分析。详情可查看<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fpytorch.org%2Fblog%2Fintroducing-pytorch-profiler-the-new-and-improved-performance-tool%2F" target="_blank">博客</a>。</li> 
