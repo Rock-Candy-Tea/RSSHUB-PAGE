@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 沸点
-headimg: 'https://picsum.photos/400/300?random=4690'
+headimg: 'https://picsum.photos/400/300?random=4040'
 author: 掘金
 comments: false
 date: Mon, 29 Mar 2021 03:09:03 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4690'
+thumbnail: 'https://picsum.photos/400/300?random=4040'
 ---
 
 <div>   

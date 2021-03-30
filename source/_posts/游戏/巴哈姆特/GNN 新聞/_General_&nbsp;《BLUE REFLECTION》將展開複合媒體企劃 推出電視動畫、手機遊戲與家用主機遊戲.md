@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/15/28a9456d383624dadcd0d369fe1by635.JPG?v=1617004680162'
 author: 巴哈姆特
 comments: false
-date: 2021-03-30 04:08:31
+date: 2021-03-30 08:09:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/28a9456d383624dadcd0d369fe1by635.JPG?v=1617004680162'
 ---
 
@@ -99,7 +99,7 @@ PlayStation 4 / Nintendo Switch / Steam</li>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 50.06%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG?v=1617014371171" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 50.06%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG?v=1617014371171" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/7ba001a98467818a59e1cbf5b91bydk5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
