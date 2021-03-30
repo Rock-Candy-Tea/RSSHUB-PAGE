@@ -1,0 +1,18 @@
+
+---
+title: '「回帖抽奖」 说出你的故事，免费抽取《全网公敌》游戏Key'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/68fc6a7b2ae5615fb328528084bdcdb2.jpg'
+author: 小黑盒
+comments: false
+date: Tue, 30 Mar 2021 19:08:02 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/68fc6a7b2ae5615fb328528084bdcdb2.jpg'
+---
+
+<div>   
+<p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/68fc6a7b2ae5615fb328528084bdcdb2.jpg" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p> 各位小黑盒的小伙伴们大家好！我们是《全网公敌》的制作组-来自山东青岛的独立游戏团队<b>Aluba Studio</b>。</p><p><img class="lazy" data-gameid="1216710" data-height="152" src="https://cdn.max-c.com/heybox/game/header/1216710_d5830.jpg" data-width="100%" style="width: 100%;" referrerpolicy="no-referrer"></p><p>《全网公敌》是一款剧情向的解谜游戏。游戏以网络安全、大数据、隐私泄露等作为主题，玩家需要扮演一位黑客，接受公司的一系列任务，找出目标人物和事件背后隐藏的秘密。</p><p>《全网公敌》最大的特点就是具有很强代入感和紧跟社会热点的话题性。游戏中的事件多是发生在我们身边、或者经常在新闻和热搜上看到的事。玩家们最多的反馈就是“代入感太强，我已经开始生气了！”，“害怕”，“气炸了”，“我靠，又反转了，感觉寒毛都竖起来了！”。在剧情上，会让玩家感受到很大的冲击力。</p><p>在《全网公敌》EA版本开发完成之后，我们参与了许多独立游戏大赛，获得了GWB创意游戏大赛PC游戏赛区金奖、中国独立游戏大赛最佳设计奖提名和最佳叙事互动奖提名，在今年2月份荣登STEAM最热新品榜和steam官方博客的推荐。   </p><p>我们也想在小黑盒这里，听听大家身边发生过哪些与网络暴力、隐私泄露等相关的事情，希望大家都能引以为鉴，保护好网络隐私安全。</p><p>活动时间：<b>2021年3月30日—4月5日（Steam折扣活动中）</b></p><p>活动方式：</p><p>1、在评论区说出你或你身边人经历过的网络安全故事</p><p>2、发帖并将链接发至评论区也可参与抽奖活动</p><p>3、为了保证活动的公平，与活动无关的回帖楼若被抽中将会重抽，在符合活动的回帖中我们将随机抽取10名小伙伴，在评论区进行公布。4月6日工作人员以私信的形式将Steam key发送给中奖的小伙伴，喜欢这款游戏的朋友也可以在此期间去Steam直接购买，<b>当前-21%折扣活动中</b>。</p><p>活动奖品：<b>《全网公敌》Steam Key*10</b></p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/76f5d62b18cfe164be71c11e0efe3c2a.jpg" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p><b>Steam商店页：</b><a href="https://store.steampowered.com/app/1216710/_/?channle=xhh" target="_blank">点击此处</a></p><p><b>宣传视频：</b></p><p><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="220" scrolling="no" src="https://player.bilibili.com/player.html?aid=668812788&bvid=BV1Za4y1h7cH&cid=210789097&page=1" width="100%"> </iframe></p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/09e95d834e97a1e0c66f1cbf43aeec52.jpg" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p><b>核心玩法</b></p><p>·<b>网络搜索</b></p><p>玩家通过浏览器搜索功能收集目标对象的基础信息。</p><p>·<b>数据库</b></p><p>利用已知信息输入到数据库中，通过筛选后或许目标对象的其他信息。</p><p>·<b>破解</b></p><p>通过获得的目标人物信息来生成密码，用于登陆各平台的账户（包括邮箱、社交平台、聊天软件等）。</p><p>·<b>伪装</b></p><p>获取目标对象的需求、社交圈等，根据信息选择伪装，通过和目标对象接触套取更多信息。</p><p>·<b>聊天套话</b></p><p>添加目标对象为好友后，进行聊天套话获取信息。</p><p>·<b>图片分析</b></p><p>从图片中获取有价值的信息内容及相关线索。</p><p>·<b>钓鱼</b></p><p>发送钓鱼链接侵入目标人物的硬件设备（电脑、手机），获取到隐私信息。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/e57e979570ca30a1bef74fa4c47669c3.jpg" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p><b>游戏特点</b></p><p><b>·</b><b>代入感强</b></p><p>在虚构的世界里，玩家扮演一名黑客，接受公司委托，完成一个个不同的社工事件，体验真实的黑客操作。</p><p><b>·</b><b>玩法多样</b></p><p>游戏内有多个系统，除了社工系统，还会有推理、追踪、解谜，破坏侵入等系统需要玩家们去一一攻破。</p><p><b>·</b><b>剧情复杂</b></p><p>游戏中你将面临大量的选择和谜题，而不同的选择可能将导致不同的结局。</p><p><b>·</b><b>人物众多</b></p><p>登场人物众多，每个人物都有自己的性格特点，而他们背后都有着不为人知的故事，需要作为黑客的你去一一发现事件的真相。<b> </b></p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/3599917a641f7b29258247e9d1834d31.jpg" data-width="1920" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p><b>写在最后</b></p><p>虽然这款游戏诞生的很坎坷，做独立游戏真的挺艰难，但我们希望，通过这款游戏让大家明白保护隐私数据的重要性；让玩家了解人肉搜索的危害性；让玩家了解网络暴力的破坏性……</p><p><b> </b><b>最重要的，我们希望大家喜欢这款游戏！</b></p>  
+</div>
+            

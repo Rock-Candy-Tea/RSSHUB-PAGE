@@ -1,0 +1,18 @@
+
+---
+title: '起底让Archegos_爆仓_的神秘金融产品'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/cover/202103/30/193757109272.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg'
+author: 虎嗅
+comments: false
+date: Tue, 30 Mar 2021 11:38:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/cover/202103/30/193757109272.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg'
+---
+
+<div>   
+<img src="https://img.huxiucdn.com/article/cover/202103/30/193757109272.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg" alt="起底让Archegos“爆仓”的神秘金融产品" data-v-408909ad referrerpolicy="no-referrer"><p><span class="text-remarks" label="备注">何为差价互换合约？为何Archegos已经做了风险对冲却依然爆仓了？谁接了高盛和大摩上周五近200亿元的大额抛单？本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/ck-zBKYdkjkSMso8FBs9BA" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">金融橙（ID：Me-Finance）</span></a><span class="text-remarks">，作者：郑一真，原文标题：《起底让对冲基金Archegos“爆仓”的神秘金融产品》，题图来自：视觉中国</span></p><p>美国对冲基金Archegos Capital Management爆仓事件余波未了。美国时间周一，金融股股价走低，当天收盘，在本次事件中受重创的野村控股和瑞士信贷分别下跌14%和12%，摩根士丹利和富国银行分别下跌2.63%和3.32%，高盛微跌0.5%。<br></p><p>据美国媒体报道，高盛告诉股东，公司采取了主动风险管控，伤害微乎其微。瑞信表示其第一季度盈利将大受冲击，具体亏损金额仍在估算中。但美国媒体披露亏损金额或高达30-40亿美元。野村证券初步预计亏损可能高达20亿美元。富国银行和摩根士丹利周一卖出了包括百度和唯品会等总计26.4亿美元的股票。</p><p>这个创下“人类史上最大单日亏损”的爆仓事件令市场瞠目，但仍有诸多疑点待解。了解交易情况的人士向媒体透露，比尔·黄<span class="text-remarks" label="备注">（Bill Hwang）</span>旗下的Archegos使用的杠杆很大程度上是由野村控股和瑞士信贷集团等银行通过互换或所谓的差价合约<span class="text-remarks" label="备注">(Contract For Difference，简称CFD)</span> 提供的。</p><p><strong>何为差价互换合约？为何Archegos已经做了风险对冲却依然爆仓了？谁接了高盛和大摩上周五近200亿元的大额抛单？</strong></p><p>据记者了解，差价合约就相当于股票资产连接票据<span class="text-remarks" label="备注">（notes）</span>的一个结构化产品。通常情况下，投资者持有一家美国上市公司超过5%的股票，就必须披露持仓情况。但是，Archegos使用这种的衍生品建立起的仓位却不受此限制。差价合约模式意味着，Archegos可以在不实际购买这些公司股票的情况，而是通过国际投行的股票资产连接票据下建立大量头寸。</p><p label="正文" class="text-normal">亚厚投资合伙人云志杰3月30日对经济观察报表示，比尔的自有资金150亿元，加了4倍杠杆，买入投行的资产连接票据<span class="text-remarks" label="备注">（notes）</span>下注了包括Viacom、Discovery、跟谁学、爱奇艺、唯品会、百度等一系列股票。这个资产连接票据相当于国内券商的资管计划，由国际投行发行，但管理人是对冲基金，最终的持仓信息显示在国际投行这边，而对冲基金则无需披露。同时，Archegos还买入了价值400亿美元的看跌指数金融衍生产品对冲股票头寸。</p><p>但这些对冲头寸为何没起到风险对冲的作用？</p><p>曾任兴业信托证券信托总部兼国际部总经理的云志杰有多年海外资产投资的经验。其表示，一般来说，海外加杠杆可以加得很大，股票融资加杠杆之后，就必须做一个对冲头寸，但对冲标的和买的股票并不是同一个东西，这样就导致对冲的效率很低，对冲并没有把风险全覆盖掉，一旦你买的股票出现问题，就会造成巨大的损失，这在美国市场也是经常出现的。早些年在国内一些做阿尔法的产品，也会产生很大的波动率，最主要也是因为是通过做空指数对冲，并没有和股票持仓有一个很好的风险对冲匹配。</p><p>爆仓之后，从外媒援引流传出来的高盛内部邮件显示，上周五高盛卖出105亿美元的股票，摩根士丹利卖出了80多亿美元的股票。高盛称损失微乎其微，而这些股票最终由谁了接了盘？</p><p>接盘百度的就有号称“女版巴菲特”华尔街传奇投资人Catherine Wood（俗称“木头姐”）的身影。木头姐旗下基金ARK每日通过电子邮件给散户分享投资思路并披露持仓和交易。从木头姐披露的信息可以看到，木头姐在3月26日买入1亿美元的百度股票。最早，木头姐通过特斯拉一战成名。</p><p>美国对冲基金天骄基金总裁郭亚夫对记者表示，作为国内自动驾驶的龙头企业，不少美国投资人开始看好百度。</p><p>“从跌幅来看的，肯定不是有人大举去接盘，跌幅太大了，可能有些相关方，包括上市公司、投资机构会去买一些，本身这个股票不错的话，跌到一定程度机构投资者也会买一点。”云志杰表示。</p><p>这些被抛售的股票包括中概股爱奇艺、唯品会、跟谁学和百度，上周上述个股股价暴跌37%、31%、55%、19%，还有美股Viacom和Discovery股价腰斩。</p><p>Archegos的资产连接票据出现风险以后，到了止损线，国际投行就会自动砍仓，导致股票价格大跌。2015年A股市场出现大幅波动的时候，一些结构性产品就按照跌停价去砍仓。美国股票没有跌停板，导致上述中概股跌幅巨大。</p><p>云志杰表示，现在的股市，不论是美国和A股，都出了一些比较大的调整。如果从去年一年的涨幅来说,这些调整就都正常的，去年涨幅太大了。流动性开始收缩，股票的估值也会进行重估。像这次的爆仓事件也是出现在市场风险是比较大的情况下，后续市场如果再跌的话，一些获利盘可能会跑得更快。另外，现在在整个资金成本不断上升的过程中，做左侧交易的时间成本可能比想的还要长，这个跟过去一年相比是有很大差异的。</p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/ck-zBKYdkjkSMso8FBs9BA" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">金融橙（ID：Me-Finance）</span></a><span class="text-remarks">，作者：郑一真</span></p>  
+</div>
+            

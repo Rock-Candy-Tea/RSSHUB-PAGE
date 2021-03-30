@@ -1,0 +1,18 @@
+
+---
+title: '腾讯想投资黑神话悟空，游戏科学CEO半玩笑，半解释公开回应'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/bba95afa9dde337ff0f101d6f11d3618.png'
+author: 小黑盒
+comments: false
+date: Tue, 30 Mar 2021 19:29:07 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/bba95afa9dde337ff0f101d6f11d3618.png'
+---
+
+<div>   
+<p><img class="lazy" data-height="336" src="https://cdn.max-c.com/heybox/dailynews/img/bba95afa9dde337ff0f101d6f11d3618.png" data-width="828" referrerpolicy="no-referrer"></p><p>鲸乐丨文</p><p>腾讯对《黑神话：悟空》开发商游戏科学工作室进行了投资，并且获得了少数股份。</p><p>游戏科学工作室创始人站出来在知乎中以半开玩笑的形式，对此事展开了回复。</p><p>称：确有此事，交流中对方很是诚意，而且作为自己的老东家，鹅厂与自己的关系也没有网传的那么恶劣，至少依然还在交流沟通中。</p><p>并表示，只是给予投资的态度，对工作室的正常运营和相关的产品决策都不会有任何干预，打着包票称绝对不会仗着投资方拿下《黑神话：悟空》或者游戏科学其他的产品运营权。</p><p>腾讯还表示，期待有更多的合作，包括以虚幻引擎为开发的游戏，不仅是腾讯内部，还有epic中国，都将不遗余力的给予技术支持和交流。</p><p><img class="lazy" data-height="889" src="https://cdn.max-c.com/heybox/dailynews/img/750788849b8e3c9da85a9708554b1f5d.png" data-width="857" referrerpolicy="no-referrer"></p><p>腾讯会出于什么样的立场来进行投资？</p><p>要么是看中了潜力，要么是对它有想法。</p><p>仅仅一天不到的时间黑神话：悟空的关注度就超越了1000万热度，打上国产3A之光头衔的黑神话悟空就像是一颗冉冉升起的新星，就像是大家公认的尚未爆料发售的赛博朋克一样，他就是神作！他绝对能火。</p><p>这份潜力够不够吸引腾讯的关注？</p><p>黑神话悟空的潜力绝对是值得投资的，为未来的国产3A推波助澜，顺势抬起国产3A的市场。</p><p>似乎也说得过去，毕竟作为中国游戏市场的霸主，3A游戏市场也是一大难点，如果这个“大哥”真的能为黑神话悟空助力几波，或许未来的国产3A真能崛起到新高度。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/9767242e90855af1c2e817982e1b5c40.png" data-width="1920" referrerpolicy="no-referrer"></p><p>不过，腾讯是利益集成体，不做没有稳定收入的游戏，当初斗战神被砍似乎也是因为KPI的原因。</p><p>因为KPI的原因导致游戏做到一半被砍了几刀，于是现在的游戏科学创始人们便毅然离职创业。</p><p>不过，当时与现在的身份又不一样，当初在腾讯内部是以开发组的身份存在的，自然要被KPI审核，后期直接预估收不回本，营收不理想，导致直接换组断流。</p><p>而现在的身份一定程度上是对等的，毕竟游戏科学不缺钱，技术上也不是很缺，这位老东家带着诚意来谈判，也不会有太多对工作室的限制。</p><p>我们的已知经验判断都是会像斗战神一样被坏事，但似乎现在还没有到那种程度，腾讯能影响到他们的也很少了，毕竟已经独立出来了。</p><p><img class="lazy" data-height="360" src="https://cdn.max-c.com/heybox/dailynews/img/a405064ff52318094f7b6d14e22f331b.png" data-width="640" referrerpolicy="no-referrer"></p><p>再说投资的手笔，当初斗战神不是没下大手笔，一个CG就上千万，而且腾讯还是天使投资人的身份，自然能给予黑神话悟空的帮助是不会少的。</p><p>肯定有许多真正喜欢黑神话悟空的玩家担心腾讯未来会对它有想法，或者尝试套娃加入3A市场，这个可以很直接地告诉大家，未来如果国产3A真的崛起了，腾讯必然是想要涉足的，这个是极有可能的。</p><p>只要有潜力，能涉足，他太可能会放弃香饽饽。</p><p>但腾讯的助力涉足不一定是坏事，现在的国产3A游戏市场也只有一个《黑神话：悟空》能拿得出手，真正有这个实力，有这个想法去沉浸数年制作3A游戏的国产公司又能有多少。</p><p><img class="lazy" data-height="434" src="https://cdn.max-c.com/heybox/dailynews/img/c95333dd8cbda0b805b4e8ad4d96b8d5.png" data-width="830" referrerpolicy="no-referrer"></p><p>我们真正迫切需要的是唤醒这个市场的活力，是真正能激发那些游戏人加入其中的动力。</p><p>就像是抛砖引玉，黑神话悟空只是一个引子，真正想让市场活跃起来，一部部国产3A游戏盛行崛起还需要不少的时间和努力。</p><p>它的加入，也意味着资本和市场的加入，也就意味着潜力，更意味着人力市场的资源倾入。</p><p>一味地盲目抵制关注黑点并不能让自己进步，未来是难以预料和共同进步的。</p><p>腾讯不一定就能影响到《黑神话：悟空》的制作发行，就像国产3A市场不会只因为一部《黑神话：悟空》而鼎沸。</p><p><img class="lazy" data-height="436" src="https://cdn.max-c.com/heybox/dailynews/img/6eba3cdc409e73c295c6a0428bee789b.png" data-width="830" referrerpolicy="no-referrer"></p><p>我们现在的游戏市场依然是网络游戏为主，小游戏为副的市场，没有这些大头的带头加入，试问又能有多少工作室原因自己创造制作一部吃力不讨好的国产3A游戏呢？</p><p>是好事，也不见得一定是好事，是坏事，也不一定肯定就是坏事，如果《黑神话：悟空》真的能抛砖引玉的引导资金和人力资源市场的倾入，未来国产3A市场的崛起才真的有希望。</p><p><img class="lazy" data-height="194" src="https://cdn.max-c.com/heybox/dailynews/img/dfef4d3e32df65dbec75837f341669d1.png" data-width="650" referrerpolicy="no-referrer"></p><p>如果不能灵活的周转引导游戏人的注意，得不到玩家的关注，进而失去了民心，或许黑神话也就离斗战神不远了。</p><p>最后还是祝《黑神话：悟空》未来大捷，开发顺利，未来可期，国产3A崛起的代表，加油！</p><p></p><p class="news-source">本文由小黑盒作者：鲸丨乐 原创<br>未经授权禁止转载或摘编</p>  
+</div>
+            

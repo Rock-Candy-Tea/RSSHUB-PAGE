@@ -1,0 +1,18 @@
+
+---
+title: 'SK-II 电影工作室 × 是枝裕和继续「改写命运」_ 片厂今日荐'
+categories: 
+ - 新媒体
+ - SocialBeta
+ - 首页
+headimg: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029568.png'
+author: SocialBeta
+comments: false
+date: Tue, 30 Mar 2021 09:00:00 GMT
+thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029568.png'
+---
+
+<div>   
+<p style="text-align: justify;">「女性议题引领者」 SK-II 来了，这次它带着电影工作室 SK-II STUDIO 大步走来。</p><p line="VVKY" style="text-align: justify;">SK-II 试着集结各个领域的电影制片人、动画师、音乐家、内容创作者，通过电影叙事探讨当下女性面临的社会压力和现实议题。</p><p line="Zvg0" style="text-align: justify;">今年 SK-II STUDIO 将揭幕八部原创电影。为 SK-II STUDIO 首个开业作品《中间泳道》剪彩的便是日本导演是枝裕和，他与 SK-II 将镜头对准了日本的游泳运动员池江璃花子，用平白写实的白描记录加以动画次元的破壁渲染，讲述了一个关于「改写命运」的故事。</p><p style="text-align: center;"><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=x3236plgd0f" allowfullscreen="true"></iframe></p><p line="CJQn" style="text-align: justify;">在介绍片子前，先简单介绍下片中的主角池江璃花子。</p><p line="o4Cr" style="text-align: justify;">池江璃花子曾是刷新多项记录的泳坛魔女，18 岁的她曾在雅加达亚运会上凭一己之力压垮中国游泳女队，一举夺得 6 个项目冠军，成为首位在一届亚运会上摘得 6 金的游泳选手，然而却在巅峰时的她被诊断出患有白血病，本是天之骄子却意外地被疾病拉下神坛，迅速陨落。</p><p style="text-align: justify;">之后的几年她便与病魔日日顽强抗争，终于她靠着自身的努力，重返赛场。</p><p style="text-align: justify;">《中间泳道》延续是枝裕和一贯清淡含蓄的镜头，池江璃花子的故事在交错而缓慢的片段中游开，绵长而坚定的情感埋藏在她周围的各个角落。片中关于池江璃花子对抗疾病惨烈而煽情的片段少之又少，开头便是她重返回泳池的心境。</p><p line="ceQY" style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029568.png" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></p><p line="HNN6" style="text-align: justify;">影片把重心放在了池江璃花子如何改写命运，对池江璃花子来说，她有两个身份，正如影片所呈现的一真一虚。</p><p line="HNN6" style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029665.png" width="640" height border="0" vspace="0" title alt style="text-align: center; white-space: normal;" referrerpolicy="no-referrer"></p><p>一个是运动员，她是从前总站在赢家中间泳道、享受天赋带来优越感的池江璃花子；另一个是白血病幸存者，她是现在只能在最旁边的泳道，无法游过任何人，一切得从头开始的池江璃花子。</p><p>两个她同时入水，现在的她被过去的她所超过，然而池江璃花子却能够给到自己坚定的答案，即使不再中间泳道，也要奋起直追，埋头、摆臂、换气、向前........ 片中的水墨的动画也以委婉形式呈现了她与病魔的纠缠、挣脱、释放。</p><p line="P3NK" style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029563.png" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></p><p line="P3NK" style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/24325-1617029574.png" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></p><p>池江璃花子或许无法再追赶过去的自己，只能毫无保留把一切留给当下，命运的反馈是无常的偶然，真确的赛道把握在自己每次摆臂的呼吸中。池江璃花子用自己的行动验证了品牌想要传递的观点「改写命运并非偶然，而是选择使然」。</p><p>这也是 SK-II STUDIO 和是枝裕和，想用电影和故事的力量，将池江璃花子改写命运的信念传递给每位女性的。忠于内心选择，直面挑战与困境，才能带来「改写命运」的无限可能。</p><p>「改写命运」是 SK-II 自 2015 年就发起的品牌活动，最初他们邀请芭蕾舞蹈家仓永美沙等人拍摄了一系列短片，通过多个公众人物的讲述，旨在赋予女性力量，鼓励她们主宰自己的命运。</p><p>16 年，他们将注意力缩小到女性面临的婚姻和情感压力，发布了《她最后去了相亲角》的视频，引发刷屏，之中直言不讳「剩女」的境况，的确让每个人都陷入了反思。17 年，借《人生不设限》的概念，SK-II 仍然专注于女性话题，讨论了 30 岁的意义......</p><p style="text-align: center;"><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=a0327ysi84d" allowfullscreen="true"></iframe></p><p style="text-align: center;"><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=c05161ynat9" allowfullscreen="true"></iframe><br></p><p>直到今年，SK-II 以创办电影工作室的形式迎来「改写命运」的新篇章，除了是枝裕和的这部作品，SK-II STUDIO 还将和《权力的游戏》、《爱死亡和机器人》、《火影忍者》等影片的幕后团队合作，呈现更多「改写命运」的故事。</p><p>从「命运」、「婚姻」到「年龄」关于「两代矛盾」，SK-II 用很长很长的时间一个个击破令单身女性尴尬的场景，给她们凿出了小出口。</p><p>而这次 SK-II 全球高级品牌总监 YoeGin Chang 表示希望能够借着电影工作室的建立去阐明当今妇女所面临的各种社会压力，以触发对话的形式去激励女性阐述思考，让女性去考虑她们所做的选择。</p><p>命运不是偶然，全靠选择使然，选择才是使生命栩栩如生的根本。</p>  
+</div>
+            
