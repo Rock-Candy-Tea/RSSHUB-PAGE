@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/66784387a31391f1ac5706bbf91bxtt5.JPG?v=1616986094660'
 author: 巴哈姆特
 comments: false
-date: 2021-03-31 00:20:51
+date: 2021-03-31 04:09:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/66784387a31391f1ac5706bbf91bxtt5.JPG?v=1616986094660'
 ---
 
@@ -281,7 +281,7 @@ NPC 委託從「客戶委託」改為「職務」<br>
 <li class="bh-grids-img-box" style="width: 99.87%;">
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/31616635104d847a7ec121eb171bxuj5.JPG?v=1616986359508" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/31616635104d847a7ec121eb171bxuj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/31616635104d847a7ec121eb171bxuj5.JPG 2x" style="max-width: unset;" title="在正式推出時，會有測試無法使用的長槍（パルチザン）與線控長槍（ワイヤードランス）等六種武器登場（出自官方直播「PSO2 NEW GENESIS Prologue 2」）" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-在正式推出時，會有測試無法使用的長槍（パルチザン）與線控長槍（ワイヤードランス）等六種武器登場<br>
+在正式推出時，會有測試無法使用的長槍（パルチザン）與自在槍（ワイヤードランス）等六種武器登場<br>
 （出自官方直播「PSO2 NEW GENESIS Prologue 2」）</figure>
 </li>
 </ul>

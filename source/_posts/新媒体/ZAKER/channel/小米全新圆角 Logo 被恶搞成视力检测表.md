@@ -1,0 +1,18 @@
+
+---
+title: '小米全新圆角 Logo 被恶搞成视力检测表'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/60631dbb8e9f09069d41ee6a_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 30 Mar 2021 19:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/60631dbb8e9f09069d41ee6a_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 3 月 30 日消息 在小米春季新品发布会上，小米创办人，董事长兼 CEO 雷军宣布，小米正式启用全新 Logo。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202103/60631dbb8e9f09069d41ee6a_1024.jpg" data-height="433" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/60631dbb8e9f09069d41ee6a_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，雷军表示，估计不少人会说，就这呀？还改了 3 年？但是，这个设计师告诉我，它不只是一个简单的、形态的变化，而是一种内在的，精神气质的升级。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d43d_1024.jpg" data-height="462" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d43d_1024.jpg" referrerpolicy="no-referrer"></div></div>据介绍，小米全新 LOGO 由国际著名设计师原研哉提出全新的设计理念，为小米品牌视觉融入东方哲学的思考。<p></p><p>小米表示，在 "Alive" 设计理念之下，具备 " 超椭圆 " 数学之美的小米新 LOGO，不再局限于画面的一角，仿佛有了生命。同时，小米新增字母 LOGO，用于 xiaomi 系列产品，" 代表小米高品质的科技探索 "。</p><p>在小米新 Logo 公布后，不少网友表示，雷军上当了，建议当场报警。一些网友还认为除了圆角，真的变化不明显，这不是一个主题的事情吗？还有网友将其恶搞 PS 成视力检测表。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d43e_1024.jpg" data-height="1118" data-width="810" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d43e_1024.jpg" referrerpolicy="no-referrer"></div></div>有网友发现在三星 One UI 系统上，小米商城就是最新的小米 Logo 了。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202103/6063e1e68e9f0933bc02d43f_1024.jpg" data-height="438" data-width="742" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202103/6063e1e68e9f0933bc02d43f_1024.jpg" referrerpolicy="no-referrer"></div></div>还有网友表示，小米新 Logo 风格不是诺基亚 MeeGo 系统图标吗？<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202103/6063e1e68e9f0933bc02d440_1024.jpg" data-height="954" data-width="719" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202103/6063e1e68e9f0933bc02d440_1024.jpg" referrerpolicy="no-referrer"></div></div>也有用户表示，在微博头像方面，小米新 Logo 改了个寂寞。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d441_1024.jpg" data-height="863" data-width="803" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202103/6063e1e68e9f0933bc02d441_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

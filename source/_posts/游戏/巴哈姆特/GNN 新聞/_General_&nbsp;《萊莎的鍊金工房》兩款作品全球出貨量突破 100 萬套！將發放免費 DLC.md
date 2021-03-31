@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/42/dc4e0e80feebb0a17ca74bf4071byf65.JPG?v=1617072414125'
 author: 巴哈姆特
 comments: false
-date: 2021-03-31 00:20:51
+date: 2021-03-31 04:09:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/dc4e0e80feebb0a17ca74bf4071byf65.JPG?v=1617072414125'
 ---
 
@@ -63,11 +63,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/dc4e0e80feebb0a17ca74bf4071byf65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG?v=1617077596251" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG?v=1617077596251" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/a56df95488a6be3ff35465ddbc1byfb5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG?v=1617077596252" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG?v=1617077596252" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/cdeea69876eb4ed845a9cbdf161byfa5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG?v=1617077596252" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG?v=1617077596252" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/cd210fe254476662d566feedd21byf75.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -125,9 +125,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/dc4e0e80feebb0a17ca74bf4071byf65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?v=1617077414564" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「夏日冒險！」" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?v=1617077414564" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/495f2a60b2015c18e89d540db81byfd5.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「夏日冒險！」" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?v=1617077414564" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「夏日冒險！」" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?v=1617077414564" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/91969dc84c5ded98e203ec73fc1byfc5.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「夏日冒險！」" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 萊莎專用服裝「夏日冒險！」</figure>
@@ -139,9 +139,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/dc4e0e80feebb0a17ca74bf4071byf65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?v=1617077574298" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「迪薇兒的擁抱」" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?v=1617077574298" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/45/dd7561dde97e80cb5202eb9db91byf95.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「迪薇兒的擁抱」" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?v=1617077574298" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「迪薇兒的擁抱」" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?v=1617077574298" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/44/091ffc7f528f68ba58977e1a361byf85.JPG 4x" style="max-width: unset;" title="萊莎專用服裝「迪薇兒的擁抱」" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 萊莎專用服裝「迪薇兒的擁抱」</figure>
