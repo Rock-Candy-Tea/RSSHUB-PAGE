@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202103/23/8764da/95bf8da77ea5cde0.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-03-31 08:10:18
+date: 2021-03-31 12:11:31
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202103/23/8764da/95bf8da77ea5cde0.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.04.01                        <br>【COLMO】家用智能13套洗碗机CDFB212<br>                            数量 ：3<br>                            实际价格 ：7399元<br>                            活动申请中<br>                            653人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202103/23/8764da/95bf8da77ea5cde0.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.04.01                        <br>【COLMO】家用智能13套洗碗机CDFB212<br>                            数量 ：3<br>                            实际价格 ：7399元<br>                            活动申请中<br>                            673人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202103/23/8764da/95bf8da77ea5cde0.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
