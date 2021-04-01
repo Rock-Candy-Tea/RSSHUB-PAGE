@@ -1,0 +1,18 @@
+
+---
+title: '活动官网_把台湾列为国家_引起抵制后，外媒发现NASA悄悄修改页面'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202104/606577bf6227687fe0000140_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 31 Mar 2021 23:43:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202104/606577bf6227687fe0000140_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202104/606577bf6227687fe0000140_1024.jpg" data-height="390" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202104/606577bf6227687fe0000140_1024.jpg" referrerpolicy="no-referrer"></div></div>美国国家航空航天局（NASA）日前在网上发起 " 火星船票 " 活动，其官网将 " 台湾 " 单列为 " 国家 "，引起大陆网友抵制。据 " 今日俄罗斯（RT）"4 月 1 日消息，NASA 活动官网已经更新，此前页面上 " 国家（Country）" 的选项改为了 " 地点（Location）"。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202104/606577bf6227687fe0000141_1024.jpg" data-height="327" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606577bf6227687fe0000141_1024.jpg" referrerpolicy="no-referrer"></div></div>RT 称，NASA 活动官网页面显然已经悄悄更新，页面现在要求输入 " 地点（Location）"，而不是 " 国家（Country）"。报道还提到，NASA 尚未发布任何针对这一问题的公开声明。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202104/606577bf6227687fe0000142_1024.jpg" data-height="196" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606577bf6227687fe0000142_1024.jpg" referrerpolicy="no-referrer"></div></div>RT 报道截图<p></p><p>"NASA 火星船票 " 活动此前引爆网络，教程铺天盖地。但有网友发现， NASA 活动官网将 " 台湾 " 单列为 " 国家 "。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202104/606577bf6227687fe0000143_1024.jpg" data-height="212" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606577bf6227687fe0000143_1024.jpg" referrerpolicy="no-referrer"></div></div>记者查询 " 国家 " 一栏，发现 "Taiwan" 赫然出现在列表中。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202104/606577bf6227687fe0000144_1024.jpg" data-height="378" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202104/606577bf6227687fe0000144_1024.jpg" referrerpolicy="no-referrer"></div></div>NASA 的这一做法在微博上引起网友抵制，其中还包括 NASA 超话主持人在内的博主。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202104/606577bf6227687fe0000145_1024.jpg" data-height="743" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606577bf6227687fe0000145_1024.jpg" referrerpolicy="no-referrer"></div></div>在 3 月 31 日的国台办例行新闻发布会上，发言人朱凤莲对此表示，相信很多网友都在关注这个事情，我们的态度很清楚，台湾是中国领土不可分割的一部分。美国国家航空航天局的有关做法违背一个中国原则和中美三个联合公报规定，违背国际社会普遍共识，也伤害了中国人民的感情。希望 NASA 作为美联邦政府的机构，尊重中国主权和领土完整，恪守一个中国原则和中美三个联合公报规定，尽快改正相关错误。朱凤莲说，我们也相信海内外的中华儿女对这件事都会有正确的认识。<p></p><p>栏目主编：顾万全 本文作者：环球网 文字编辑：宋彦霖 题图来源：新华社 图片编辑：朱瓅</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

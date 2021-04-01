@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/remote-work-second-year-problems-solutions/'
 author: Inside Design
 comments: false
-date: 2021-04-01 04:09:52
+date: 2021-04-01 08:10:35
 thumbnail: 'https://www.invisionapp.com/inside-design/remote-work-second-year-problems-solutions/'
 ---
 

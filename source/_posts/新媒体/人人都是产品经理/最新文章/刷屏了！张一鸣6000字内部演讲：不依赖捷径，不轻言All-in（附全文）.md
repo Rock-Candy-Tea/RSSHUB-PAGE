@@ -120,7 +120,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>文章转自公众号：新财富（ID：newfortune）</p>
 <p>原文链接：https://mp.weixin.qq.com/s/eV6BBhm1r2NOwx7dxFO32w</p>
 <p>本文由 @新财富 授权发布于人人都是产品经理，未经作者许可，禁止转载。</p>
-<p>题图来自Unsplash，基于CC0协议</p>
+<p>题图来自 字节跳动官网</p>
                       
 </div>
             

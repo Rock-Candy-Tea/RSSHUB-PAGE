@@ -24,7 +24,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202101/26/134832immgbm8amkmm
 <br>
 这两款游戏中的这种饱和感和战斗的“嚼头”都是通过内部开发的连招攻击实现的。所以就来深入了解一下，我们是如何使用虚幻引擎做到这一点的。<br>
 <br>
-<div align="center"><span id="swf_OM9"></span></div><br>
+<div align="center"><span id="swf_W7u"></span></div><br>
 <strong><font color="#de5650">连招攻击组件配置</font></strong><br>
 <br>
 一开始，“连招攻击”组件只是播放一个攻击/命中动画，但是在动画开始播放时，还有许多附加的条件、事件和触发器。这就是我们为了把战斗做得有嚼头而需要实现的各个部分。我们在这方面的开发已经进行了很长时间，现在它已经发展成一套很大的系统，而且由无数项附加设置决定。现在，我们只须调整一两个选项，就能把普通的动画播放变为一套复杂的动作序列。<br>

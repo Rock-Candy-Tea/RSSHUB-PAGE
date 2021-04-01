@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/92/838ac847d92a13098981d510821bzb45.JPG?v=1617248528009'
 author: 巴哈姆特
 comments: false
-date: 2021-04-01 04:08:33
+date: 2021-04-01 08:09:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/838ac847d92a13098981d510821bzb45.JPG?v=1617248528009'
 ---
 
@@ -57,19 +57,21 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/838ac847d92a13098981d510821bzb45.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B2%93%E9%83%8E%E6%A8%82%E5%9C%92-Catboys+Paraside" target="_blank">貓郎樂園-Catboys Paraside</a>》其實是 NEKO WORKs 於 2019 年 4 月 1 日宣布的愚人節企劃，結果玩家反應熱烈，而他們決定將其實際製作，而當時為了愚人節推出的官方網站也予以保留。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B2%93%E9%83%8E%E6%A8%82%E5%9C%92-Catboys+Paraside" target="_blank">貓郎樂園-Catboys Paraside</a>》其實是 NEKO WORKs 於 2019 年 4 月 1 日宣布的愚人節企劃，結果玩家反應熱烈，而他們決定將其實際製作，而當時為了愚人節推出的官方網站也予以保留。以下為 2 年前愚人節的相關報導：<a href="https://gnn.gamer.com.tw/detail.php?sn=177481" target="_blank">《貓娘樂園》團隊新作《貓男樂園》亮相 與 4 隻美男貓咪一起經營咖啡廳吧！</a>供有興趣的玩家參考。</div>
+<div>
+ </div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 24.87%;">
-<figcaption style="padding-bottom: 153.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 153.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/20/b8a13980b6672ff3320907bb4c1bzbw5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 24.87%;">
-<figcaption style="padding-bottom: 153.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 153.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/94/6f6b3c627f6c11978ac0be6a401bzb65.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 24.87%;">
-<figcaption style="padding-bottom: 153.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 153.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/95/4b0eb75227d05fca3ce2e39b761bzb75.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 24.87%;">
-<figcaption style="padding-bottom: 153.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 153.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?v=1617249146333" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/96/b2ff3b36fdbf6db24cbaceda391bzb85.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
