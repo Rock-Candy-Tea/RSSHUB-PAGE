@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Product1486952491326'
 author: 探物
 comments: false
-date: 2021-03-31 12:11:32
+date: 2021-04-01 00:27:46
 thumbnail: 'https://resource.tanwuapp.com/Product1486952491326'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Product1486952491326" referrerpolicy="no-referrer"><br>
           <strong>Switch主机配1卡带套装</strong><br><br>
-          价格: ￥6.53 / 日<br>
+          价格: ￥6.60 / 日<br>
           评分: 4.9
           
 </div>
