@@ -1,0 +1,18 @@
+
+---
+title: '「愿望单抽奖」硬核《超级复古战机》，重拾街机STG快感！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1574750_juGqb.jpg'
+author: 小黑盒
+comments: false
+date: 2021-04-01 12:11:19
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1574750_juGqb.jpg'
+---
+
+<div>   
+<p><img class="lazy" data-gameid="1574750" data-height="152" src="https://cdn.max-c.com/heybox/game/header/1574750_juGqb.jpg" data-width="100%" style="width: 100%;" referrerpolicy="no-referrer"></p><p>《超级复古战机》是一款由Cat God Studio开发的复古风STG游戏，快节奏的电子音+复古风的高精度像素画面，既让人回味起小时打《雷电》《怒首领蜂》的快感，又带给你更加刺激的游戏体验。 </p><p><img class="lazy" data-height="465" src="https://cdn.max-c.com/heybox/dailynews/img/8f24e96e9d29943c31f674bf0b98bc98.png" data-width="2121" style="width: 100%; height: 21.9236%;" referrerpolicy="no-referrer"></p><p>《超级复古战机》目前只有街机模式，你可以邀请朋友到你的家里和你一起战斗，就像从前一样，两个人坐在屏幕前，一起攻破难关。当然，这并不会影响你决定一个人去战斗（但那会更难）。</p><p><b>Steam商店页：</b><a href="https://store.steampowered.com/app/1574750/_/" target="_blank">点击此处</a></p><p><b>宣传视频：</b></p><p><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="220" scrolling="no" src="https://player.bilibili.com/player.html?aid=672431418&bvid=BV1CU4y1871k&cid=317765983&page=1" width="100%"> </iframe></p><p><b>游戏特性：</b></p><p>多种个性十足的战机供你选择！</p><p>【X-0708】</p><p>偏重于范围伤害的输出，可以快速歼灭大量敌机。</p><p><img class="lazy" data-height="254" src="https://cdn.max-c.com/heybox/dailynews/img/8f558fd2d53da96d0740714543385959.gif" data-width="454" style="width: 100%; height: 55.9471%;" referrerpolicy="no-referrer"></p><p>【J-0823】</p><p>擅长打击重型单位，装配了多种重型火炮和电磁武器。</p><p><img class="lazy" data-height="254" src="https://cdn.max-c.com/heybox/dailynews/img/6d5526d8c440dcd49a3427074264af68.gif" data-width="454" style="width: 100%; height: 55.9471%;" referrerpolicy="no-referrer"></p><p>【G-0612】</p><p>能应对多种类型的单位，配备脉冲炮，辐射激光炮等武器。</p><p><img class="lazy" data-height="254" src="https://cdn.max-c.com/heybox/dailynews/img/4124125dfbdfc925ba5878d1a5da63d2.gif" data-width="454" style="width: 100%; height: 55.9471%;" referrerpolicy="no-referrer"></p><p><b>双色能量爆燃双重能量武器</b></p><p>使用不同类型的武器会积攒不同的能量（两者此消彼长），当能量条爆满，你可以为使用更具针对性的能量武器。红色能量偏重攻击，蓝色能量偏重防御。每个机体的双重能量都会为你带来不同的能力。</p><p><b>战斗外可获得永久性提升</b></p><p>每场战斗获得的分数都会转化为强化武器的资源，你可以在战斗之外永久性的升级你的武器，这可以提升机体的输出伤害，扩大攻击范围。你（和他/她）在战斗中的表现越好，就会更快的使机体变得强大，比比看谁的贡献更大。</p><p><img class="lazy" data-height="1063" src="https://cdn.max-c.com/heybox/dailynews/img/4dca101c5a5a4c1debb19e57e6cdfcb6.png" data-width="1905" style="width: 100%; height: 55.8005%;" referrerpolicy="no-referrer"></p><p><b>每个BOSS都会带来令人抓狂的体验</b></p><p>警告：它们强到令人发指，可能会让你砸掉手柄或者键盘！也许鼠标也可以砸掉。当然本游戏并不需要鼠标操作！</p><p><img class="lazy" data-height="254" src="https://cdn.max-c.com/heybox/dailynews/img/ebad83d9a111ed3bdb7ea33166d422e1.gif" data-width="454" style="width: 100%; height: 55.9471%;" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="254" src="https://cdn.max-c.com/heybox/dailynews/img/e559007add4544c286a020b385c90b52.gif" data-width="454" style="width: 100%; height: 55.9471%;" referrerpolicy="no-referrer"></p><p>再次提醒，尽量使用手柄！否则真的很难！</p><p><b>活动时间：</b></p><p>2021年3月31日-4月8日</p><p><b>活动奖品：</b></p><p>《超级复古战机》Steam激活码*15</p><p><b>参与方式：</b></p><p>将《超级复古战机》添加至Steam愿望单，并将截图回复至评论区</p><p>Steam商店页：<a href="https://store.steampowered.com/app/1574750/_/" target="_blank">点击此处</a></p><p><b>须知：</b></p><p>回复内容、截图必须为本人原创，搬运、复制他人内容将被取消中奖资格。</p><p class="news-source">本文由小黑盒作者：Gamer蔡 原创<br>转载请注明作者及出处</p>  
+</div>
+            

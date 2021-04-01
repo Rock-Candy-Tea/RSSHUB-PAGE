@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210401/1617260464_3220
 
 <div>   
 <p style="text-indent:2em;">
-今日（4月1日），是一年一度的愚人节，《约会大作战》官推也开始整活，今天公布了“性转新企划”，干脆多个角色变成男性，而且CV都是岛崎信长。官方还特别公告了一段新企划介绍影像，详细展示了这些角色的形象。
+今日（4月1日），是一年一度的愚人节，《约会大作战》官推也开始整活，今天公布了“性转新企划”《约会大作战 Girl's Side》，干脆将多个精灵角色变成男性，而且CV都是岛崎信长。官方还特别公告了一段新企划介绍影像，详细展示了这些角色的形象。
 </p>
 <p style="text-indent:2em;">
 <strong>《约会大作战》愚人节整活：</strong> 
@@ -45,7 +45,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210401/1617260464_3220
 <img src="https://img.3dmgame.com/uploads/images/news/20210401/1617260464_322085.jpg" alt="愚人节整活：《约会大作战》角色性转 CV全是岛崎信长" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-不得不说，此次《约会大作战》官方整活还挺细心的，每个角色都算是用心设计了，而且还保留了原角色的风格，就是不知道五河士道心里会怎么想。
+不得不说，此次《约会大作战》官方整活还挺细心的，每个角色都算是用心设计了，而且还保留了原角色的风格。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210401/1617260478_215799.png" alt="愚人节整活：《约会大作战》角色性转 CV全是岛崎信长" referrerpolicy="no-referrer"> 
@@ -61,6 +61,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210401/1617260464_3220
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210401/1617260500_408377.png" alt="愚人节整活：《约会大作战》角色性转 CV全是岛崎信长" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20210401/1617264674_599848.jpg" alt="愚人节整活：《约会大作战》角色性转 CV全是岛崎信长" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

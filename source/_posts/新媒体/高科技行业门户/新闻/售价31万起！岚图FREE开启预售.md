@@ -1,0 +1,19 @@
+
+---
+title: '售价31万起！岚图FREE开启预售'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-04/01/qinwen/1617274163814073256.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 01 Apr 2021 10:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-04/01/qinwen/1617274163814073256.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">3月31日，岚图汽车首款电动车岚图FREE正式开启预售。新车定位于5座中大型智能电动SUV，将提供纯电动及增程式混动2种动力车型。其中，增程版预售价格为31.36万元，纯电版预售价格为33.36万元，预计在第3季度交付。</p><p style="text-indent: 2em; text-align: left;">据悉，预售期间预订的用户可享受5大权益，其中首任车主还可叠加享受3项终身免费权益，包括终身三电质保、终身免费充电，以及赠送充电桩及安装服务。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-04/01/qinwen/1617274163814073256.png" title="1617274163814073256.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">车身尺寸方面，岚图FREE整车长宽高分别为4905/1950/1690mm，轴距为2960mm。共提供杜若白、玄英黑、青云灰、星海蓝、云清蓝、流光金6种可选颜色，且岚图还发布了星海蓝和云清蓝首发纪念版，共2021辆。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-04/01/qinwen/1617274175356063769.png" title="1617274175356063769.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">内饰方面，岚图FREE搭载全球首创一体式可升降三联屏，采用“温暖科技”理念，打造4种智能座舱模式。且全系标配L2+级高级智能驾驶辅助系统，并具备整车OTA升级能力。</p><p style="text-indent: 2em; text-align: left;">此外，还配备了智能可调光全景天幕，十级明暗度可调，同时隔绝99% 紫外线，内饰颜色共有深色、米棕色两种可供选择。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-04/01/qinwen/1617274184684091653.png" title="1617274184684091653.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">动力方面，岚图FREE增程版搭载1.5T四缸发动机，动力强劲，运行平稳，匹配最高功率80kW的发电机，前后双电机最高功率510kW、峰值扭矩1040N·m，百公里加速为4.5秒，NEDC综合续航里程达860公里。而纯电车型百公里加速为4.7秒，NEDC续航里程大于500公里。</p><p style="text-indent: 2em; text-align: left;">值得一提的是，此前岚图FREE的三元锂电池包通过了中国汽车动力中心的安全检测。经检测，该电池在热失控触发并发出热事件报警信号后，无冒烟、无起火、无爆炸现象，岚图FREE纯电版将首发搭载。</p><p style="text-indent: 2em; text-align: left;">另外，近日媒体报道岚图汽车或将在今年第四季度推出第二款新车，该车定位6座或7座布局的车型。</p><p style="text-indent: 2em; text-align: left;"><strong>注：以上图片来源于岚图汽车</strong></p><p style="text-indent: 2em; text-align: left;"></p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; list-style-type: none; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; vertical-align: baseline; font-family: PingFangSC-Regular; white-space: normal;"><strong style="padding: 0px; margin: 0px; letter-spacing: 0px; font-family: PingFangSC-Semibold; color: rgb(53, 59, 66); line-height: 30px;">相关阅读：</strong></p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; list-style-type: none; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; vertical-align: baseline; font-family: PingFangSC-Regular; white-space: normal;"><a href="https://nev.ofweek.com/2021-03/ART-71011-8120-30491188.html" target="_blank" style="padding: 0px; margin: 0px; text-decoration: underline; color: rgb(0, 176, 240);"><span style="color: rgb(0, 176, 240);">小米确定造车自研芯片！雷军准备了100亿美金！辟谣与长城汽车合作</span></a><br></p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; list-style-type: none; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; vertical-align: baseline; font-family: PingFangSC-Regular; white-space: normal;"><span style="padding: 0px; margin: 0px; text-decoration: underline; color: rgb(0, 176, 240);"><a href="https://nev.ofweek.com/2021-03/ART-71011-8120-30491438.html" target="_blank" style="padding: 0px; margin: 0px; text-decoration: underline; color: rgb(0, 176, 240);">全球汽车缺芯危机爆发，丰田蔚来大众等车企停产，宁德时代等电池企业影响几何？</a></span></p> 
+  
+</div>
+            
