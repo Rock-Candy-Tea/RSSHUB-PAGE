@@ -5,11 +5,11 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=4674'
+headimg: 'https://picsum.photos/400/300?random=885'
 author: 每日安全
 comments: false
-date: 2021-04-01 12:11:38
-thumbnail: 'https://picsum.photos/400/300?random=4674'
+date: 2021-04-02 00:35:40
+thumbnail: 'https://picsum.photos/400/300?random=885'
 ---
 
 <div>   
@@ -19,7 +19,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4674'
 <a class="text-muted" href="https://sec.today/user/d65ce77d-caeb-4f62-b5f5-4cf4800b1cd1/pushes/">
 autobots
 </a>
-<span class="text-muted"><small>• 8 hours ago</small></span>
+<span class="text-muted"><small>• 20 hours ago</small></span>
 </cite>
   
 </div>

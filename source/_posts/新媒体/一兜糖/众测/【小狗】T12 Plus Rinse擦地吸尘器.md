@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202103/15/8764da/9c76a38151f6a80d.png!home320'
 author: 一兜糖
 comments: false
-date: 2021-04-01 12:12:18
+date: 2021-04-02 00:36:27
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202103/15/8764da/9c76a38151f6a80d.png!home320'
 ---
 
 <div>   
-申请结束时间：2021.03.20                        <br>【小狗】T12 Plus Rinse擦地吸尘器<br>                            数量 ：10<br>                            实际价格 ：3399元<br>                            活动体验中<br>                            619人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202103/15/8764da/9c76a38151f6a80d.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.03.20                        <br>【小狗】T12 Plus Rinse擦地吸尘器<br>                            数量 ：10<br>                            实际价格 ：3399元<br>                            活动已结束<br>                            619人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202103/15/8764da/9c76a38151f6a80d.png!home320" referrerpolicy="no-referrer">  
 </div>
             

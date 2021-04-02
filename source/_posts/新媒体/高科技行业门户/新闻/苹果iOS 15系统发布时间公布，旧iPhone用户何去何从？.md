@@ -1,0 +1,19 @@
+
+---
+title: '苹果iOS 15系统发布时间公布，旧iPhone用户何去何从？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/01182644485991.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 01 Apr 2021 13:13:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/01182644485991.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文|明美无限</p><p style="text-indent: 2em; text-align: left;">相信有一直关注明美无限至今的果粉们应该都清楚了,就在3月30日,苹果公司正式官宣了本年度的全球开发者大会(WWDC)将于2021年6月7-11日(北京时间6月8日-12日)正式召开。由于新冠疫情的持续影响,今年也和去年一样,为线上发布会,任何人都可免费观看与参与。</p><p style="text-indent: 2em; text-align: left;">从官方给出的海报可以看到,虚拟人物戴着眼镜,并且镜面中反射出部分应用的logo,其中最明显的是日历logo,仍然在强调WWDC21的时间。有趣的是,人物头像对着一台半开启的笔记本,难道这次会重点讲讲M1平台的系统生态?据外媒推测,今年的 WWDC 可能会带来新硬件,更多可能是针对开发者的搭载了 Apple Silicon 的 Mac,甚至有人表示会在大会上带来传闻多时的AR智能眼镜。</p><p style="text-indent: 2em; text-align: left;">苹果的AR眼镜毫无疑问会包含更多技术,但按照苹果的尿性,也许499-599美元是可能性较大的价格范畴。</p><p style="text-indent: 2em; text-align: left;">这个价格你们能接受吗?</p><p style="text-indent: 2em; text-align: left;">还有这是一款非常具有科幻感的产品,苹果的首款AR眼镜或将拥有独立运算能力,内部或将配备一块索尼的Micro-OLED显示屏,以及多个光学模块,以此来达到透视AR体验。</p><p style="text-indent: 2em; text-align: left;">AR眼镜确实很值得期待,但对iPhone用户来说,最值得关注的还是iOS 15。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/01182644485991.jpg" alt="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" title="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这不根据苹果公司的公告,本次WWDC大会将会发布iOS 15、macOS12、watchOS 8等操作系统。其中最让人期待的无疑就是iOS 15了。IOS系统作为全球智能手机两大操作系统之一,其系统流畅,反应迅速,一直深受众多用户的喜爱,每一次的系统更新也受到众多用户的关注与期待,而今,iOS 15即将发布,下面,就让我们一起来看一看它有哪些改进吧。</p><p style="text-indent: 2em; text-align: left;">在给大家盘点之前需要说明的是,由于iOS 14的更新较大,因此iOS 15所做的更改可能更少,大部分都是基于iOS 14进行改良的,给予的惊喜可能就没有那么大。</p><p style="text-indent: 2em; text-align: left;">首先在设计上,据传iOS 15 将会重新设计控制中心,圆角矩形框变得透明,将常用的小工具放置在顶部,将开启/关闭的设置放置在最下方,这样做得目的是希望用户仅凭单手就开启/关闭重要的设置。除此之外,控制中心还会显示更多内容,比如更多应用的运行状态,还可直接通过控制中心进行操作。</p><p style="text-indent: 2em; text-align: left;">再有在iOS 15中,或许会带来来息屏显示功能,被苹果称之为Always-On模式,这一模式下手机即使在锁屏状态下,一些重要信息如时间、点亮以及天气等将在手机屏幕中始终保持显示,就是不知道息屏显示会不会只是针对于 OLED 屏幕的 iPhone。</p><p style="text-indent: 2em; text-align: left;">另外在功能方面,目前暂时没有更多报道。但是明美无限个人一直期待iOS 15能够新增NFC的更多应用、来电显示与骚扰拦截、通话录音等比较实用的功能。</p><p style="text-indent: 2em; text-align: left;">当然,以上 iOS 15 概率功能是大家比较希望看到的新变化,至于 iOS 15 即将带来什么新功能,需要等到 WWDC2021 发布会苹果公布为准。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/01182644304229.png" alt="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" title="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外,技术网站爆料,iOS 15将会允许更改更多默认应用程序。还预测,iOS 15 将使小部件具有交互性,就像它们在 Android 上的方式一样,这使你可以执行诸如更改音量或打开和关闭事物的操作。</p><p style="text-indent: 2em; text-align: left;">由于 iOS 14 系统是一个比较大的更新,iOS 15所做的更改可能不多,因此 iOS 15 系统或将基于 iOS 14 系统上的功能进行优化。</p><p style="text-indent: 2em; text-align: left;">除此之外呢,今天明美无限还要值得一提的是,之前曾有媒体曝光了iOS 15支持升级机型的名单,iOS 15将无法安装在iPhone 6s、iPhone 6s Plus以及2016 年的iPhone SE上,这三款手机都采用了A9芯片,已经推出5年。</p><p style="text-indent: 2em; text-align: left;">在iPad方面,iPadOS 15可能会放弃对 iPad mini 4(2015 年)、iPad Air 2(2014 年)和 iPad 5(2017 年)的支持,这些设备分别搭载A8、A8X 和 A9芯片。</p><p style="text-indent: 2em; text-align: left;">顺便一提的是,iPhone 6s自2015年9月9日正式发布后,时至今日,已过去了6年的时间,目前还是有不少用户在使用这款手机,是最著名的钉子户手机。现如今iOS 15正式确定将不再支持iPhone 6s,曾经的一代神机也走到了生命的尽头,让人不禁唏嘘感慨。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/01182645275972.png" alt="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" title="iOS 15发布时间正式被官宣，旧iPhone用户何去何从？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最后对此,你有什么看法呢?欢迎在下方评论区留言讨论。</p><p style="text-indent: 2em; text-align: left;">以上就是本期所有内容,关注明美无限,为你带来更多的科技新信息。</p> 
+  
+</div>
+            

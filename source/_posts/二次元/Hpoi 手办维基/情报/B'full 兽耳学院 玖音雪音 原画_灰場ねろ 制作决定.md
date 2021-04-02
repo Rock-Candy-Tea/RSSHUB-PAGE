@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/1532294d6a064dbe8fdf7b3e538559d5.jpeg?date=1617270018246'
+headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/?date=1617270018246'
 author: Hpoi 手办维基
 comments: false
-date: Thu, 01 Apr 2021 10:10:41 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/1532294d6a064dbe8fdf7b3e538559d5.jpeg?date=1617270018246'
+date: Thu, 01 Apr 2021 10:34:54 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/?date=1617270018246'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/20
                     
                 
                     
-                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/1532294d6a064dbe8fdf7b3e538559d5.jpeg?date=1617270018246" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/?date=1617270018246" referrerpolicy="no-referrer">  
 </div>
             

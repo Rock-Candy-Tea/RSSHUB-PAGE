@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f90874592037be97d35.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png'
 author: Dockone
 comments: false
-date: 2021-04-01 12:10:45
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f90874592037be97d35.png'
+date: 2021-04-02 00:34:57
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f90874592037be97d35.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 悟鹏<br>
 来源 | <a href="https://mp.weixin.qq.com/s/G2UoyOFHOQbvq39hkrVFDg">阿里巴巴云原生公众号</a><br>
 <br>《Kubernetes 稳定性保障手册》系列文章：<br>
@@ -27,7 +26,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f908745920
 <br>简单表述为，可观测性是一种方法，通过系统的外部输出推导出系统内部的状态。<br>
 <br>下图简化了系统的组成和系统间的交互：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/b6bdd7d8105bc2e968d9c999c0a7de2a.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>从上述交互图可了解到，系统的交互行为有如下几种形态：<br>
@@ -38,7 +37,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f908745920
 <ul><li>组件闭环的信息</li><li>组件间或系统间流动的信息</li></ul><br>
 <br><h2>可观测性的问题域是什么？</h2>可观测性的核心在于 <strong>通过观测数据、满足不同人群、对于系统状态的理解需求</strong>，这里先抽象观测数据的生命周期，有如下图示：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/60947196cbcfc0aea58f9f55b058031f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/60947196cbcfc0aea58f9f55b058031f.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/60947196cbcfc0aea58f9f55b058031f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/60947196cbcfc0aea58f9f55b058031f.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>观测数据通过 App 生成，经过中间处理环节后进行存储，然后提供查询服务。<br>
@@ -51,41 +50,41 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f908745920
 <ul><li>观测数据的消费</li></ul></li></ul><br>
 <br><h2>软件开发生命周期中，可观测性的服务目标是什么？</h2>从项目整体视角来看软件开发的生命周期，有如下的流程：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/80c5541a60fb1c71d0b95b2a4cdbe1e7.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/80c5541a60fb1c71d0b95b2a4cdbe1e7.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/80c5541a60fb1c71d0b95b2a4cdbe1e7.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/80c5541a60fb1c71d0b95b2a4cdbe1e7.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>细化下来：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/cad142b4a90ee70ffd5ddc78d379805c.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/cad142b4a90ee70ffd5ddc78d379805c.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/cad142b4a90ee70ffd5ddc78d379805c.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/cad142b4a90ee70ffd5ddc78d379805c.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>在软件开发生命周期中，有 4 类角色。面对 4 类角色，可观测性的服务目标会有差异：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/3c90dd6828ee0ad9826d40f6ce9151c1.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/3c90dd6828ee0ad9826d40f6ce9151c1.jpg" class="img-polaroid" title="4-1.jpg" alt="4-1.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/3c90dd6828ee0ad9826d40f6ce9151c1.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/3c90dd6828ee0ad9826d40f6ce9151c1.jpg" class="img-polaroid" title="4-1.jpg" alt="4-1.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>Note:<br>
 <ul><li><strong>可靠</strong> 与 <strong>稳定</strong> 不是等同的关系，<strong>可靠</strong> 包含了 <strong>稳定+及时满足功能需求</strong> 特征</li></ul><br>
 <br><h2>SRE 可以投入的方向</h2>基础服务：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/5f128d18e8e5f1cdd613dfd2ddb815f0.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/5f128d18e8e5f1cdd613dfd2ddb815f0.jpg" class="img-polaroid" title="4-2.jpg" alt="4-2.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/5f128d18e8e5f1cdd613dfd2ddb815f0.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/5f128d18e8e5f1cdd613dfd2ddb815f0.jpg" class="img-polaroid" title="4-2.jpg" alt="4-2.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>可以将 <a href="https://opentelemetry.io/">OpenTelemetry</a> 作为基础落地上述事项，参见：<a href="https://mp.weixin.qq.com/s/n4eVf2KZRIp2yKACk88qJA">《OpenTelemetry 简析》</a>。<br>
 <br>与此同时，可以探索可视化的稳定性保障服务，从全局视角加快问题发现、定位、解决，一张图把握集群中「组件自身」和「组件之间交互」的健康状态 ，形如下图：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/2df7516644eb86b1037d1d411c7e1cbf.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/2df7516644eb86b1037d1d411c7e1cbf.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/2df7516644eb86b1037d1d411c7e1cbf.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/2df7516644eb86b1037d1d411c7e1cbf.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>以此为入口，从整体把握集群状态，关联异常信息，处理问题时有的放矢。<br>
 <br><h2>Serverless 场景下可观测性</h2>Serverless 是目前很有前景的云上计算形态，阿里云提供了比较完整的 Serverless 计算产品，如下：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/68a0df732cee4e4153d03800a638e163.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/68a0df732cee4e4153d03800a638e163.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/68a0df732cee4e4153d03800a638e163.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/68a0df732cee4e4153d03800a638e163.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>不同 Serverless 计算环境的一个主要差异点在于运行环境的持续时间，以此为出发点，可以抽象出 Serverless 计算环境中可观测性的核心，然后分解出相应的解决方案：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/764e489e5ea0f460b22b1e8e9c6f4462.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/764e489e5ea0f460b22b1e8e9c6f4462.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/764e489e5ea0f460b22b1e8e9c6f4462.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/764e489e5ea0f460b22b1e8e9c6f4462.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>根据运行环境持续时长的不同，可粗略划分为 3 类：<br>
@@ -99,17 +98,17 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/54003f32344a4f908745920
 <br>对于 FaaS 场景，<a href="https://www.thundra.io/">THUNDRA 公司</a> 的 <a href="https://demo.thundra.io/functions">demo</a> 提供了比较好的示例以供参考 (截取 3 个示例)：<br>
 <ul><li>函数</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/883f50ab9efd53cdfd9ec6efe9b78619.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/883f50ab9efd53cdfd9ec6efe9b78619.png" class="img-polaroid" title="8.png" alt="8.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/883f50ab9efd53cdfd9ec6efe9b78619.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/883f50ab9efd53cdfd9ec6efe9b78619.png" class="img-polaroid" title="8.png" alt="8.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li>应用</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/31eae6bfb6f8520cae5b3ee7094e329f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/31eae6bfb6f8520cae5b3ee7094e329f.png" class="img-polaroid" title="9.png" alt="9.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/31eae6bfb6f8520cae5b3ee7094e329f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/31eae6bfb6f8520cae5b3ee7094e329f.png" class="img-polaroid" title="9.png" alt="9.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li>架构</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210401/9ab7d0be5f23deb0b1f5b39a2d97eb1a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210401/9ab7d0be5f23deb0b1f5b39a2d97eb1a.png" class="img-polaroid" title="10.png" alt="10.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210401/9ab7d0be5f23deb0b1f5b39a2d97eb1a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210401/9ab7d0be5f23deb0b1f5b39a2d97eb1a.png" class="img-polaroid" title="10.png" alt="10.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h2>小结</h2>通过对可观测性概念、问题域、不同层级需求等形成深入理解，可以形成对可观测性的理解大图，然后在此基础上与业务结合，增强业务在可观测性方面的竞争力，同时迭代理解，技术与业务相互促进。<br>

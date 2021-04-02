@@ -8,7 +8,7 @@ categories:
 headimg: 'https://assets.weforum.org/editor/FUmLywAEtRhFMwLeS1CqlwFHh1HRiuuj4fEuS0RwXYo.png'
 author: 世界经济论坛
 comments: false
-date: 2021-04-01 12:11:28
+date: 2021-04-02 00:35:35
 thumbnail: 'https://assets.weforum.org/editor/FUmLywAEtRhFMwLeS1CqlwFHh1HRiuuj4fEuS0RwXYo.png'
 ---
 
