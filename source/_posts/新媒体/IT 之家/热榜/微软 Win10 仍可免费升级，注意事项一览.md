@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win10 仍可免费升级，注意事项一览'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/4/f433ab87-f5c1-44d9-9a95-11f294d0015e.jpg'
+author: IT 之家
+comments: false
+date: Fri, 02 Apr 2021 22:57:20 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/4/f433ab87-f5c1-44d9-9a95-11f294d0015e.jpg'
+---
+
+<div>   
+<p>我们知道，Win10 在推出之时，推出过为期一年的免费升级活动。只要你使用的是 Win7、Win8 和 Win8.1 系统并且已经激活，那么就可以免费升级到 Win10，且系统自动激活。对于很多用户来说，这就相当于是免费赠送“正版”Win10。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/4/f433ab87-f5c1-44d9-9a95-11f294d0015e.jpg" w="700" h="436" title="微软 Win10 仍可免费升级，注意事项一览" width="700" height="436" referrerpolicy="no-referrer"></p><p><span class="imgtxt"><strong>▲ </strong></span>激活过的 Win7，现在仍可免费升级 Win10</p><p>这个活动的期限是一年，按理来说，到了现在，该活动早已经结束。然而人们发现，实际上 Win10 仍可按照这个方法免费升级！那么问题来了，在 Win7 结束了生命周期、越来越少硬件支持的现今，Win10 的免费升级“正版”需要注意啥？一起来谈谈吧。</p><h2>免费升级 Win10 真的是正版吗？</h2><p>首先需要明确一个概念，通过这样的方法来免费升级 Win10，是否能够将盗版的老系统“洗白”，获得 Win10 的正版？这里面恐怕存在一些误解。</p><p>激活过的盗版系统升级 Win10 后，Win10 默认也处于激活状态，且不需要原先的激活手段。从技术上来说，这和正版几乎相差无几，这也是很多朋友认为可以将盗版系统变正版 Win10 的依据。</p><p>但是，判断系统是否属于正版，依据并不是技术细节，而是法律授权。通过盗版系统免费升级而来的 Win10，尽管和正版一样同属于激活状态，但从法理的角度来说，依然属于盗版。</p><p>因此，免费升级 Win10 只是从技术上“洗白”，<span class="accentTextColor">从授权的角度来看，它仍不属于正版</span>。</p><h2>从老系统免费升级 Win10 有何好处？</h2><p>尽管免费升级 Win10，并不意味着获得了真正的正版，但其实这么做还是有不少好处的。</p><p>盗版的 Win7 等系统，往往是通过 KMS 等手段来激活的，这相当于模拟了一个系统激活服务机制，定时验证系统令它保持激活状态。在一些场景下，这类激活手段会失效，例如重装系统，或者微软铁心想要验证你是否属于盗版，这时候已激活的系统会重新回到未激活状态。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/4/bf29bb12-2e97-4c02-bf3e-056b8e466f78.jpg" w="700" h="525" title="微软 Win10 仍可免费升级，注意事项一览" width="700" height="525" referrerpolicy="no-referrer"></p><p>▲ 盗版 Win7 使用 KMS 激活，可以看到序列号带有 OEM 字样</p><p>而这类系统免费升级到 Win10 后，激活不再需要通过 KMS 等手段。系统的激活信息和主板序列号绑定，即使你重装系统，只要没有更换过主板这样的主要部件，那么只需重新登录微软账号，系统就可以自动联网激活，相较之前方便得多。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/4/86b5506a-2f23-4c58-b59f-258d91eee501.jpg" w="700" h="525" title="微软 Win10 仍可免费升级，注意事项一览" width="700" height="525" referrerpolicy="no-referrer"></p><p>▲ 升级 Win10 后，序列号发生了改变，和主板进行绑定</p><p>也就是说，即使你为新 DIY 的电脑安装盗版系统，使用从老系统用免费升级的方法，来获得自动激活的 Win10，体验也要优于直接安装 Win10 后激活。当然这里需要强调，笔者<span class="accentTextColor">并不提倡使用盗版系统，这只是单纯从体验出发得出的结论</span>，老系统免费升级而来的 Win10，其体验非常接近于正版 Win10。</p><h2>现在免费升级 Win10 需要注意什么？</h2><p>目前从旧版系统免费升级 Win10 的操作，依然和最初类似。无论你用的是正版还是盗版的旧系统，通过微软官方提供了 Windows Media Create Tool，即可进行升级操作，该工具可以在微软官网下载。</p><p>Windows Media Create Tool：https://www.microsoft.com/zh-cn/software-download/windows10</p><p>不过，和 Win10 发布伊始相比，现在的软硬件环境已经发生了变化。如果你仍打算组装电脑后、使用旧系统升级到 Win10，那么需要注意以下方面。</p><p>・Win7 不再适合用作安装 Win10 的跳板。目前较新的硬件对 Win7 的支持都相当差。当前，新的硬件平台已经普及 UEFI 机制，而 Win7 是无法通过纯 UEFI 环境启动的，只能使用兼容模式。但一来某些主板并不提供 UEFI 兼容模式，二来即便使用兼容模式，现在的不少芯片组并没有提供兼容 Win7 的 USB 等接口驱动，因此无法检测到 USB 鼠标键盘，Win7 系统不能启动，从 Win7 升级到 Win10 也无从谈起了。</p><p>・Win8.1 更适合用作升级 Win10 的跳板。和 Win7 相比，Win8.1 支持 UEFI 启动环境，且兼容当前主流芯片组的 USB 驱动，可以正常安装启动。尽管 Win8.1 可能会缺乏最新的显卡驱动，但运行起来是没问题的，虽然市场使用体验并不好，但用作升级 Win10 的跳板绰绰有余。</p><p>如果你需要 Win8.1 的镜像，可以通过下面这款开源小工具下载并制作安装盘。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/4/3c5c994f-de73-479f-a45f-16d76d6ef172.png" w="700" h="294" title="微软 Win10 仍可免费升级，注意事项一览" width="700" height="294" referrerpolicy="no-referrer"></p><p>Fido 可以非常方便地从官方渠道，下载 Win8.1 的镜像，更适合现在的 PC 安装</p><p>Fido：https://github.com/pbatard/Fido</p><p>Fido 教程：//www.pconline.com.cn/win10/1402/14024345.html</p><h2>总结</h2><p>总的来说，Win10 时至今日仍可免费升级，的确显得相当良心。虽然微软没有官方回应、确认过这件事，但显而易见这是微软有意而为的。Netmarketshare 的数据显示，在 2018 年末，Win10 终于在市场份额上反超 Win7，免费升级 Win10 的策略显然起到了至关重要的作用。Win10 将会在今年推出 UI 全面革新的 21H2 版本，希望它能带来更大的惊喜吧。</p>
+          
+</div>
+            

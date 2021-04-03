@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://i-4.yxdown.com/2021/3/30/KDYw
 ---
 
 <div>   
-<p>   今日，世嘉旗下RPG游戏《梦幻之星OL2：新起源（Phantasy Star Online 2: New Genesis）》的官方社区发布了游戏的武器怪物等射击原图。从图中我们可以看到，这些怪物兼具了狂野和科技感，非常酷炫。本作预计将于2021年登陆XSX/Xbox One/PC平台。</p>
+<p>   今日，世嘉旗下RPG游戏《梦幻之星OL2：新起源（Phantasy Star Online 2: New Genesis）》的官方社区发布了游戏的武器怪物等设计原图。从图中我们可以看到，这些怪物兼具了狂野和科技感，非常酷炫。本作预计将于2021年登陆XSX/Xbox One/PC平台。</p>
 
 <p style="text-align: center;"><a href="http://i-4.yxdown.com/2021/3/30/4046c66a-0c2f-4d31-863a-3e3ea66c3399.jpg" style="text-align: center;" target="_blank"><img alt="游迅网www.yxdown.com" src="https://cors.zfour.workers.dev/?http://i-4.yxdown.com/2021/3/30/KDYwMHgp/4046c66a-0c2f-4d31-863a-3e3ea66c3399.jpg" style="opacity: 0.9;" title referrerpolicy="no-referrer"></a></p>
 
