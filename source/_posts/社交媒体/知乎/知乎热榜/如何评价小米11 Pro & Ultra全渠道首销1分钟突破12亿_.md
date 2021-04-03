@@ -1,0 +1,18 @@
+
+---
+title: '如何评价小米11 Pro & Ultra全渠道首销1分钟突破12亿_'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic4.zhimg.com/v2-ed44c0a22d55ca8cf8710bab0f26ec92_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 02 Apr 2021 14:40:47 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-ed44c0a22d55ca8cf8710bab0f26ec92_1440w.jpg'
+---
+
+<div>   
+晚风吖的回答<br><br><p>题主的意思是想把这个销量和高端关联起来，并且我猜测也是与我一样是米粉。 </p><p>我们都迫切希望小米能够称为一个非常优秀的品牌，甚至还希望拿着小米手机能够有拿友商手机的那种自豪感。</p><p>但一个高端品牌的树立需要时间的沉淀，更需要对产品更多的深入钻研，从小米10至尊版开始，大家就在问“小米冲击高端成功了吗？”……之类的，小米最近两年的产品确实更加优秀了，但是还需要时间去检验。</p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-ed44c0a22d55ca8cf8710bab0f26ec92_1440w.jpg" data-rawwidth="720" data-rawheight="960" data-size="small" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-aa2aea998ccee4be618137f3cad0b7d1_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ed44c0a22d55ca8cf8710bab0f26ec92_r.jpg" referrerpolicy="no-referrer"></figure><p>小米11Ultra and 小米11Pro首销1分钟突破12亿，用12G+256G版本的6499元来计算，共销售了18万多台，但是这个应该加发布那一晚的预售的，但是就今天（2021年4月2日）来看，后续应该可以正常购买，并且有正常的销量的。</p><p>第一波的销售是集中了所有有购买意愿的用户，这个销量会是一个最高峰。</p><p>不过就现在看来，12亿的成绩也是非常好的，这说明有更多的人在接受小米，不管是价格的影响，还是真的被小米产品吸引，小米是有了一个小成功！</p><p>希望小米能够走得更远，也希望大家能够接纳小米产品。</p><hr><p>小米11Pro今天也现货了。也是一部比较综合的水桶机。</p><p><b>在性能上，骁龙888</b>能够保证性能。双存配置<b>LPDDR5+UFS3.1</b>，算是旗舰机的标配。骁龙888的性能也就那样了，所以大家都去升级散热了，小米11Pro和小米11Ultra也不例外，<b>固热相变导热垫+VC液冷均热板散热系统</b>。</p><p>屏幕使用的是<b>2K+120Hz刷新率、480Hz高素质三星AMOLED屏幕，四边曲面（看个人爱好），支持DC调光。</b></p><p>续航上，配备有<b>5000mAh</b>的大电池，支持<b>67W快充、67W无线充、10W反向</b>。这么大的电池还能控制到208g，8.5mm的厚度，还得归功于对于手机电池的新技术。当然续航也是目前最强。</p><p>相比于标准版，11Pro主摄使用的是GN2超大底主摄，综合能力更强。增加了一颗长焦镜头，支持5倍光学变焦。</p><p>11Ultra 后置的颜值确实我个人来说不是特别的喜欢，但是他配置强啊。</p><p>在拍照模组上率先使用三主摄，镜头配置：</p><table data-draft-node="block" data-draft-type="table" data-size="normal"><tbody><tr><th>50MP GN2 1/1.12 f/1.95 光学防抖 激光对焦</th><th>48MP IMX586 超广角</th><th>48MP IMX586 5倍光学变焦 光学防抖</th></tr></tbody></table><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c497edb92bf14800b93c124a892c66f4_1440w.jpg" data-rawwidth="441" data-rawheight="337" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-0d9c357708a93ead7e629e79908d9c81_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c497edb92bf14800b93c124a892c66f4_r.jpg" referrerpolicy="no-referrer"></figure><p>小米11Ultra DXOMARK评分143，目前最高，这也是很多人选择的原因，还有一部分人就是单纯的想试试这个强悍的后置。</p><p>后壳材料为陶瓷，再加上各种猛堆料，重量高达234g，超大的后置镜头模组，大家一定要给贴膜啊。</p><p>我是 <a class="member_mention" href="http://www.zhihu.com/people/9c925ac076ed61d110235b237b0d9615" data-hash="9c925ac076ed61d110235b237b0d9615" data-hovercard="p$b$9c925ac076ed61d110235b237b0d9615">@晚风吖</a> ，更多手机的基础知识请看这篇文章：</p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/348008259" data-size="normal" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/34</span><span class="invisible">8008259</span><span class="ellipsis"></span></a><p>相关链接：</p><p><a href="https://www.zhihu.com/question/451928248/answer/1812380003" class="internal">小米11、小米11Pro和小米11Ultra买哪个?</a> </p><p><a href="https://www.zhihu.com/question/62116760/answer/1804616665" class="internal">小米手机，用几年会卡吗？</a> </p><p><a href="https://www.zhihu.com/question/448317174/answer/1774690698" class="internal">小米10s 跟 红米k40 pro 哪个性价比更高？</a> </p>  
+</div>
+            
