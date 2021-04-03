@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8043'
+headimg: 'https://picsum.photos/400/300?random=3660'
 author: 开源中国
 comments: false
 date: Fri, 02 Apr 2021 22:23:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8043'
+thumbnail: 'https://picsum.photos/400/300?random=3660'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Martian，一个JavaWeb开发框架，自2019年开始写下第一行代码，至今已有2年1个月，在各种 小框架的 围攻竞争下，艰难的生存着。 因为定位是一个 极简的框架，这跟很多框架产生了冲突，尤其是刚刚问世的时候，经常收到 一些吐槽，例如：没有新意。</p> 
+                                                                                            <p>Martian，一个JavaWeb开发框架，自2019年开始写下第一行代码，至今已有2年1个月，在各种 小框架的 围攻竞争下，艰难的生存着。 因为定位是一个 极简的框架，这跟很多框架产生了冲突，尤其是刚刚问世的时候，经常收到 一些吐槽，例如：没有新意。</p> 
 <p>但这并不影响我对这件事的热爱，我一直都在不断地做着维护，从一开始的一个微型项目，渐渐的发展成今天这样，期间集成过netty，tomcat，httpServer，但最终都因为 跟我一直坚持的 最小化原则 相违背 而放弃了。 最终选择了基于NIO自己实现http服务。</p> 
 <p>后来，因为NIO是 同步的，为了使其不被业务阻塞，故而加入了线程池，但是效果不是很理想。经过了再三的考虑，最终选择了AIO。也就是今天发布的这个版本。</p> 
 <h3>本次的更新点如下</h3> 

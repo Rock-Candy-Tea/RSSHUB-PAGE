@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2807'
+headimg: 'https://picsum.photos/400/300?random=4784'
 author: 开源中国
 comments: false
 date: Sat, 03 Apr 2021 06:57:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2807'
+thumbnail: 'https://picsum.photos/400/300?random=4784'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Helidon 2.2.2 现已发布，这是一个 bug 修复版本。除了修复各种错误之外，它还包含了一个安全修复；详情可见 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Foracle%2Fhelidon%2Fissues%2F2903" target="_blank">2903</a>。Helidon 是 Oracle 开源的一个用于编写微服务的 Java 框架，这些微服务运行在由 Netty 提供支持的快速 Web 内核上。该项目的特性包括轻量、快速、支持 Microprofile、函数式编程模型与可观察性、弹性。</p> 
+                                                                                            <p>Helidon 2.2.2 现已发布，这是一个 bug 修复版本。除了修复各种错误之外，它还包含了一个安全修复；详情可见 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Foracle%2Fhelidon%2Fissues%2F2903" target="_blank">2903</a>。Helidon 是 Oracle 开源的一个用于编写微服务的 Java 框架，这些微服务运行在由 Netty 提供支持的快速 Web 内核上。该项目的特性包括轻量、快速、支持 Microprofile、函数式编程模型与可观察性、弹性。</p> 
 <p>官方建议所有 Helidon 2 用户升级至此版本。新版本具体更新内容如下：</p> 
 <p><strong>兼容性</strong></p> 
 <ul> 

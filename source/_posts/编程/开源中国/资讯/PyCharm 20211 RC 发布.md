@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4543'
+headimg: 'https://picsum.photos/400/300?random=5048'
 author: 开源中国
 comments: false
-date: Fri, 02 Apr 2021 23:58:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4543'
+date: Sat, 03 Apr 2021 07:58:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5048'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>PyCharm 2021.1.1 RC 已经发布。这是 2021.1.1 的第一个候选者版本。</p> 
+                                                                                            <p>PyCharm 2021.1.1 RC 已经发布。这是 2021.1.1 的第一个候选者版本。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>现在调用 Django 模型依赖关系图时会显示该图</li> 

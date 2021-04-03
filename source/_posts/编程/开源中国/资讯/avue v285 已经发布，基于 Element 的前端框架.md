@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8649'
+headimg: 'https://picsum.photos/400/300?random=6465'
 author: 开源中国
 comments: false
 date: Fri, 02 Apr 2021 15:18:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8649'
+thumbnail: 'https://picsum.photos/400/300?random=6465'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>avue v2.8.5 已经发布，这是一个基于 Element 的前端框架。</p> 
+                                                                                            <p>avue v2.8.5 已经发布，这是一个基于 Element 的前端框架。</p> 
 <p>此版本更新内容包括：</p> 
 <h2>v2.8.5</h2> 
 <p><code>2021-04-02</code></p> 

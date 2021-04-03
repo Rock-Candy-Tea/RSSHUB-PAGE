@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/lixiaojing/easy-domain/raw/master/easy-domainevent
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>EasyDomain v1.2 已经发布，这是一个领域驱动开发实用库。</p> 
+                                                                                            <p>EasyDomain v1.2 已经发布，这是一个领域驱动开发实用库。</p> 
 <p>此版本更新内容包括：</p> 
 <h1>基于RocketMQ实现的领域事件发布订阅能力</h1> 
 <h2>功能介绍</h2> 

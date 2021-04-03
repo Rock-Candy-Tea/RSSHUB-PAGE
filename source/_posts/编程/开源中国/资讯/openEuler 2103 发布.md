@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6984'
+headimg: 'https://picsum.photos/400/300?random=7772'
 author: 开源中国
 comments: false
-date: Fri, 02 Apr 2021 23:48:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6984'
+date: Sat, 03 Apr 2021 07:48:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7772'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>2021年3月31日， openEuler 21.03 创新版正式发布。此发行版是 openEuler 的第二个创新版，围绕 openEuler 内核发布众多创新特性，openEuler 21.03 使用的内核是 Linux Kernel 5.10 版本。</p> 
+                                                                                            <p>2021年3月31日， openEuler 21.03 创新版正式发布。此发行版是 openEuler 的第二个创新版，围绕 openEuler 内核发布众多创新特性，openEuler 21.03 使用的内核是 Linux Kernel 5.10 版本。</p> 
 <p>下载地址：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Frepo.openeuler.org%2FopenEuler-21.03%2F" target="_blank">https://repo.openeuler.org/openEuler-21.03/</a></p> 
 <p>据介绍，openEuler 21.03 主要更新内容是内核创新，其中包括内存分层扩展和内核热升级；增加桌面环境 DDE 和 Xfce；增强云原生能力。</p> 
 <p>以下内容摘录自<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F38QabJmiKqNnBZtmw4uKjg" target="_blank">发布公告</a>。</p> 

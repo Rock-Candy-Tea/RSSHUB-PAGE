@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-whiteboard-faster-updates/'
 author: Inside Design
 comments: false
-date: 2021-04-03 00:25:12
+date: 2021-04-03 04:09:10
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-whiteboard-faster-updates/'
 ---
 

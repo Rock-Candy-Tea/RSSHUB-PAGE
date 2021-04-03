@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-e68f4720f661417aabee0b7f6e99523d24c.png'
 author: 开源中国
 comments: false
-date: Fri, 02 Apr 2021 23:57:00 GMT
+date: Sat, 03 Apr 2021 07:57:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-e68f4720f661417aabee0b7f6e99523d24c.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CKEditor 5 v27.0.0 已经发布，包含拖放功能、语言功能扩展、待办事项功能优化等内容。</p> 
+                                                                                            <p>CKEditor 5 v27.0.0 已经发布，包含拖放功能、语言功能扩展、待办事项功能优化等内容。</p> 
 <p><img alt height="349" src="https://oscimg.oschina.net/oscnet/up-e68f4720f661417aabee0b7f6e99523d24c.png" width="620" referrerpolicy="no-referrer"></p> 
 <h4>安全问题修复</h4> 
 <p>在内部审查中，CKEditor 5 发现了一个正则表达式拒绝服务（ReDoS）漏洞（CVE-2021-21391）。该漏洞允许滥用特定的正则表达式。这可能会导致性能显著下降，导致浏览器标签页冻结。该问题已在本版本中修复，尽管这是一个影响较小的问题，只影响受害者的浏览器性能，没有数据泄露的风险，但仍强烈建议升级。</p> 

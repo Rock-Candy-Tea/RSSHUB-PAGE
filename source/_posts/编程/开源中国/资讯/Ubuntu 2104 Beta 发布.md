@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2021/0403/075757_RRIO_2720166.png'
 author: 开源中国
 comments: false
-date: Fri, 02 Apr 2021 23:32:00 GMT
+date: Sat, 03 Apr 2021 07:32:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2021/0403/075757_RRIO_2720166.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Ubuntu 21.04 Beta 已发布，包括桌面、服务器和云版本，以及 Kubuntu, Lubuntu, Ubuntu Budgie, Ubuntu Kylin, Ubuntu MATE, Ubuntu Studio 和 Xubuntu 这些不同桌面环境的风味版本。</p> 
+                                                                                            <p>Ubuntu 21.04 Beta 已发布，包括桌面、服务器和云版本，以及 Kubuntu, Lubuntu, Ubuntu Budgie, Ubuntu Kylin, Ubuntu MATE, Ubuntu Studio 和 Xubuntu 这些不同桌面环境的风味版本。</p> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Flists.ubuntu.com%2Farchives%2Fubuntu-announce%2F2021-April%2F000267.html" target="_blank">点此查看发布公告和镜像下载地址</a>。</p> 
 <p><img src="https://static.oschina.net/uploads/space/2021/0403/075757_RRIO_2720166.png" referrerpolicy="no-referrer"></p> 
 <p>Ubuntu 21.04 代号 "Hirsute Hippo"，部分新变化：</p> 
