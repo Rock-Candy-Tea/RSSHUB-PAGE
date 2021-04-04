@@ -65,7 +65,7 @@ thumbnail: 'https://leetcode.com/articles/Figures/45/45-Page-1.png'
   <p>As you may notice, we are using a greedy approach: always jump to the place that will take us the farthest. Greedy algorithms always make locally optimal decisions, which may or may not lead to the globally optimal solution. Therefore, we must test our greedy algorithm to see if we can prove that it leads to the globally optimal solution.</p>
 </blockquote>
 <p>We will use proof by contradiction to verify that the greedy algorithm is correct. Our statement is <em>if at any step, we make a different choice than what our greedy algorithm would make, we can find a better solution to the problem</em>.</p>
-<p><img src="https://leetcode.com/articles/Figures/45/45-Page-3.png" alt="Proof of correctness of our greedy approach." referrerpolicy="no-referrer">
+<p><img src="https://leetcode.com/articles/Figures/45/45-Page-3-new.png" alt="Proof of correctness of our greedy approach." referrerpolicy="no-referrer">
 &#123;:align="center"&#125;</p>
 <p><em>Figure 3. Proof of correctness for our greedy approach.</em>
 &#123;:align="center"&#125;</p>
@@ -79,7 +79,7 @@ thumbnail: 'https://leetcode.com/articles/Figures/45/45-Page-1.png'
 <li>If we reach <code>currentJumpEnd</code>, it means we finished the current jump, and can begin checking the next jump by setting <code>currentJumpEnd = farthest</code>.</li>
 <li>Return <code>jumps</code>.</li>
 </ul>
-<iframe src="https://leetcode.com/playground/nouVn7Se/shared" frameborder="0" width="100%" height="327" name="nouVn7Se"></iframe>
+<iframe src="https://leetcode.com/playground/SQ4WPsZT/shared" frameborder="0" width="100%" height="327" name="SQ4WPsZT"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <ul>
 <li><p>Time Complexity: $$O(N)$$ because there are $$N$$ elements in the array and we visit each element in the array only once.</p></li>

@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=8746'
+headimg: 'https://picsum.photos/400/300?random=9387'
 author: 掘金
 comments: false
 date: Sat, 03 Apr 2021 00:59:18 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8746'
+thumbnail: 'https://picsum.photos/400/300?random=9387'
 ---
 
 <div>   
@@ -59,7 +59,7 @@ fn = <span class="hljs-function"><span class="hljs-keyword">function</span> (<sp
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>这里<code>fn()</code>对<code>undefined</code>值进行函数调用导致非法操作，因此抛出<code>TypeError</code>错误。</p>
 </li>
-</ol>
+<li>
 <p>函数声明和变量声明，都会<code>hoisting</code>，需要注意的是，函数会优先<code>hoisting</code>：</p>
 <pre><code class="hljs language-js copyable" lang="js"><span class="hljs-built_in">console</span>.log(fn);
 <span class="hljs-keyword">var</span> fn;
@@ -70,6 +70,8 @@ fn = <span class="hljs-function"><span class="hljs-keyword">function</span> (<sp
 <span class="hljs-keyword">var</span> fn; <span class="hljs-comment">// 重复声明，会被忽略</span>
 <span class="hljs-built_in">console</span>.log(fn);
 <span class="copy-code-btn">复制代码</span></code></pre>
+</li>
+</ol>
 <p>对于有参数的函数：</p>
 <pre><code class="hljs language-js copyable" lang="js">fn(<span class="hljs-number">2016</span>);
 
@@ -162,6 +164,7 @@ c = foo(a, b);
     outer: <null>, 
     ThisBinding: <Global Object>
   &#125;
+&#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>当遇到函数<code>foo(a, b)</code>的调用时，新的<code>FunctionExectionContext</code>被创建并执行函数中的代码。在创建阶段像这样：</p>
 <pre><code class="hljs language-js copyable" lang="js">FunctionExectionContext = &#123;
