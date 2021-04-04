@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210404/1617470893_126784.jpg'
 author: 3DMGame
 comments: false
-date: Sat, 03 Apr 2021 17:28:00 GMT
+date: Sun, 04 Apr 2021 00:00:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210404/1617470893_126784.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210404/1617470893_1267
 据VGChartz估计，任天堂Switch的累计销量已经超过其前辈Game Boy Advance(GBA)。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210404/1617470893_126784.jpg" alt="任天堂Switch销量已超过其前辈GBA" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210404/1617470893_126784.jpg" alt="任天堂Switch销量已超过其前辈GBA" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在截至2021年3月20日的一周内，Switch的销量为474488部，使其累计销量达到8169万部。相比之下，GBA的销量为8151万部。这里Switch的销量包括原版型号和Switch Lite。
