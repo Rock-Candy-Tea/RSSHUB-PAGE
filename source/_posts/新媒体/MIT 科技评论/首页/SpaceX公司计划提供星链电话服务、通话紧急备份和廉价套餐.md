@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - MIT 科技评论
  - 首页
-headimg: 'https://picsum.photos/400/300?random=2042'
+headimg: 'https://picsum.photos/400/300?random=7885'
 author: MIT 科技评论
 comments: false
 date: Wed, 10 Feb 2021 09:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2042'
+thumbnail: 'https://picsum.photos/400/300?random=7885'
 ---
 
 <div>   

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-98222d4d9d2c119ee01b913ade71284a_1440w.jpg'
+headimg: 'https://pic2.zhimg.com/v2-999a69e56b563af432952890aa6eac07_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 03 Apr 2021 20:04:00 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-98222d4d9d2c119ee01b913ade71284a_1440w.jpg'
+date: Sun, 04 Apr 2021 05:44:08 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-999a69e56b563af432952890aa6eac07_1440w.jpg'
 ---
 
 <div>   
-赤瞳-刀语的回答<br><br><p>很喜欢这款皮肤，给人很清爽的感觉。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-98222d4d9d2c119ee01b913ade71284a_1440w.jpg" data-rawwidth="1080" data-rawheight="2244" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-f478a71dd3de108516caafa410c1555a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-98222d4d9d2c119ee01b913ade71284a_r.jpg" referrerpolicy="no-referrer"></figure><p>有一说一，这能联想到fpx皮肤差，然后喷拳头和韩国是不可取的。因为fpx是从拳头给的三个备用方案里，自己选的观感最糟糕的一款，自作自受怪不了别人。至于韩国，确实有少数文化借用的行为大大挫伤了我国的民意，应当进行抗争。但是这种文化借用和皮肤这种事情八竿子打不着，这能上纲上线是真的离谱。</p><p>我相信知乎还是有不少除了打游戏，也认真研究游戏和关注游戏动态的理性高级玩家。如果你是这些高级玩家，请大家支持我的回答。不胜荣幸！</p>  
+Arno的回答<br><br><p>BERYL：我就一s赛冠军而已，没什么牵挂，身上还有az,但你拳头不一样，钱已经赚得很够了，现在我人就在徐汇区，已经备好了2桶汽油，用啤酒瓶自己做了两箱燃烧弹，刚好手头有一个欠钱没还的抵账来的一辆五菱我在这里说了，你拳头如果五天之内不把原画改好，并且发布道歉声明，我在4月5日中午就点火冲进你公司大楼，说到做到这个操作已经看到一个月了，网友们也纷纷退游冲官方，我一直在等官方的动作，但是官方只会装死，这次跟之前的都不一样，让那些美好的角色画的这么丑我真的受不了我能说的就这些，中午的时候员工们应该都在睡觉吧，我开车撞进你公司大门]至少能撞死一两个前台，他们本来有好的生活，但是马上要结束了，如果不信大可等到4月5日那天，等着前台死吧</p><p>咲恋，我的咲恋 </p><p>咲恋，我的咲恋</p><p>咲恋，我的咲恋</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-999a69e56b563af432952890aa6eac07_1440w.jpg" data-rawwidth="1080" data-rawheight="788" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-d99a60d47fb7d2d2205bcec66f048c37_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-999a69e56b563af432952890aa6eac07_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b1c3b9b501e957245e7c9b29bba22030_720w.jpg" data-rawwidth="343" data-rawheight="700" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-8662a792fc7e8c59e36d1aee85a4f6c7_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a01921b6ad1c9d0802ec9cfc79f805be_1440w.jpg" data-rawwidth="836" data-rawheight="962" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-4ad97218b1547ac12dd9612223337efc_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a01921b6ad1c9d0802ec9cfc79f805be_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
