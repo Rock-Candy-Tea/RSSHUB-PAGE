@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/6
 ---
 
 <div>   
-<blockquote><p>好吧，至少是真的博士</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/6996592916ddac2e86ab24d739ed3376.jpg!custom" referrerpolicy="no-referrer"><p>好风凭借力，送我上青天。借着疫情和美国大选的风口，自称为“Email之父” 的Ayyadurai博士在过去一年里名声暴涨。</p>
+<blockquote><p>好吧，至少是真的博士</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/6996592916ddac2e86ab24d739ed3376.jpg!custom" referrerpolicy="no-referrer"><p>好风凭借力，送我上青云。借着疫情和美国大选的风口，自称为“Email之父” 的Ayyadurai博士在过去一年里名声暴涨。</p>
 <p>按Wiki上的说法，V. A. Shiva Ayyadurai是印度裔美国的工程师、政治学者、企业家，也是阴谋论、伪科学和毫无根据的医学主张的推动者。他宣称是自己发明了Email。</p>
 <p>时间宝贵，就容我直言不讳：Ayyadurai是一个骗子。</p>
 <p>2016年3月5日，编写了史上首个邮件程序的Ray Tomlinson离开了这个世界，享年74岁。Tomlinson是公认的电子邮件的发明者。</p>
