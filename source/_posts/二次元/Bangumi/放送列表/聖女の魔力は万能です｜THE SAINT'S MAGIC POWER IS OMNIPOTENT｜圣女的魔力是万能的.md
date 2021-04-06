@@ -13,6 +13,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/36/cc
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/36/cc/314518_J4tW4.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/314518">番组计划</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/36/cc/314518_J4tW4.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/314518">番组计划</a></li><li><a href="https://ch.nicovideo.jp/seijyonomaryoku">Niconico</a></li></ul>  
 </div>
             

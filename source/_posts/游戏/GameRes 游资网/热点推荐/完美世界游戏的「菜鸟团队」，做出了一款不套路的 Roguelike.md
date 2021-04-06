@@ -1,0 +1,139 @@
+
+---
+title: '完美世界游戏的「菜鸟团队」，做出了一款不套路的 Roguelike'
+categories: 
+ - 游戏
+ - GameRes 游资网
+ - 热点推荐
+headimg: 'https://di.gameres.com/attachment/forum/202104/01/110329ag0pn4gg46j043cp.jpg'
+author: GameRes 游资网
+comments: false
+date: Thu, 01 Apr 2021 00:00:00 GMT
+thumbnail: 'https://di.gameres.com/attachment/forum/202104/01/110329ag0pn4gg46j043cp.jpg'
+---
+
+<div>   
+<table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2491187">
+<div class="quote"><blockquote>身为初心者，他们却瞄准了差异化的「肉鸽」。</blockquote></div><br>
+3月31日，完美世界游戏首款自研 Roguelike手游《旧日传说》上线了。本作是移动端上少见的重度、横版回合制「肉鸽」手游，在本文截稿前，游戏已在 iOS 免费榜的 Top 5 稳住脚跟，并在 TapTap 热门榜中一度登顶。<br>
+<br>
+可鲜有人知的是，游戏的研发团队此前没有太多的 Roguelike开发经验，他们以「菜鸟团队」自居，前后投入了3年多时间。但就是这样一支团队，却做出了别有风味的 Roguelike手游。<br>
+<br>
+<div align="center">
+<img id="aimg_969703" aid="969703" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110329ag0pn4gg46j043cp.jpg" data-original="https://di.gameres.com/attachment/forum/202104/01/110329ag0pn4gg46j043cp.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110329ag0pn4gg46j043cp.jpg" referrerpolicy="no-referrer">
+</div><br>
+Roguelike近年受到游戏厂商关注不假，也有不少手握爆款产品的大厂认为 Roguelike 是游戏开发者弯道超车的机会之一。但《旧日传说》的团队为何会选择一条并不熟悉的细分赛道？他们又是怎样实现了从零到一，并拿出了受玩家认可的成品？<br>
+<br>
+最近，葡萄君和制作团队聊了聊《旧日传说》的开发历程。<br>
+<br>
+<strong><font color="#de5650">项目出发点：                                               </font></strong><br>
+<strong><font color="#de5650">探索小众领域，做一款更重度的「肉鸽」</font></strong><br>
+<br>
+《旧日传说》于2018年立项。严格来说，它是完美世界游戏首个自研 Roguelike 手游。这款产品是完美世界游戏入局细分领域赛道的信号，也是积累 Roguelike 类产品经验的新机会。<br>
+<br>
+入局归入局，但挑战这个被贴上「小众」、「硬核」标签的Roguelike品类，对没有过太多开发经验的团队来说，显然会有较大的风险。<br>
+<br>
+在项目还未确立的阶段，《旧日传说》的定位就有过很多的思考。如果做成 Steam 独立游戏，那么它应该是很纯粹的 Roguelike，但要在手机上呈现给更广泛的用户，就要想办法让大多数人都能接受玩法。而游戏能否真正的进入开发环节，也取决于这个问题是否能想通。<br>
+<br>
+<div align="center">
+<img id="aimg_969704" aid="969704" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110330otbbzchhz2x9g9xd.gif" data-original="https://di.gameres.com/attachment/forum/202104/01/110330otbbzchhz2x9g9xd.gif" width="300" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110330otbbzchhz2x9g9xd.gif" referrerpolicy="no-referrer">
+</div><br>
+在当时，市场上已经有像《不思议迷宫》这样的产品证明了 Roguelike 的大众化潜力。但在完美世界游戏看来，重度的 RPG 化 Roguelike 也许是冲刺赛道的新机会。于是做一个比《不思议迷宫》还要重度的 Roguelike，成了《旧日传说》最原初的点。这同时也是项目能够顺利通过审核的一个关键。<br>
+<br>
+《旧日传说》的类型定位，是 Roguelike +卡牌RPG，Roguelike在手游领域里是新潮玩法；而在RPG这块，研发团队能够借助完美世界游戏积累的经验和技术，来完成相对成熟和完整的设计框架。<br>
+<br>
+<strong><font color="#de5650">做差异化题材，               </font></strong><br>
+<strong><font color="#de5650">也要抓住「肉鸽」的核心</font></strong><br>
+<br>
+既然要做重度的「肉鸽」RPG，世界观也得够味儿。<br>
+<br>
+《旧日传说》以奇异重彩的克苏鲁和北欧神话题材来作为体验背景，用反转的手法讲述传说中的诸神，受到无名之雾的影响，陷入混沌局面的故事。玩家在游戏中需要组建自己的探求者队伍，进入各个章节去探索、解密并解决诸神带来的影响。<br>
+<br>
+<div align="center">
+<img id="aimg_969705" aid="969705" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110331htxl2mygpgyx20d5.gif" data-original="https://di.gameres.com/attachment/forum/202104/01/110331htxl2mygpgyx20d5.gif" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110331htxl2mygpgyx20d5.gif" referrerpolicy="no-referrer">
+</div><br>
+另类的世界观随即导向了风格化的美术表达。这款游戏在视觉层面上，着重营造幻想、神秘的感觉与气氛。游戏内的场景与角色的形象设计，正是这种风格的载体。<br>
+<br>
+文案层面，一百多万字的剧情文本来加强玩家沉浸感，剧情的展现也并非传统的平铺直叙，而是以碎片的方式，然后埋藏在冒险笔记、物品介绍、角色的回忆等部分，让玩家在冒险中一点点拼凑出全貌。<br>
+<br>
+感官与叙事让《旧日传说》有「那味儿」了，但在最核心的 Roguelike设定上，还得到位。<br>
+<br>
+「除了不同数量角色自由上阵、探索迷宫式关卡、回合制战斗这些主流设定外，刚开始我对Roguelike的核心创意玩法还有些苦恼，只能去分析别的游戏然后找到某种模式的诞生逻辑，来作为自己开发中的参照。」来自开发团队的一名成员说道。<br>
+<br>
+Steam 上一些有着不错口碑的 Roguelike 游戏给《旧日传说》带来了一定启发，尤其是在场景最大程度利用上，《旧日传说》尝试了地图节点探索机制，还引入图文抉择事件来丰富游戏的策略性。<br>
+<br>
+<div align="center">
+<img id="aimg_969706" aid="969706" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110332h117iwr2uiuz2k81.gif" data-original="https://di.gameres.com/attachment/forum/202104/01/110332h117iwr2uiuz2k81.gif" width="300" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110332h117iwr2uiuz2k81.gif" referrerpolicy="no-referrer">
+</div><br>
+基于此，Roguelike 的特性算是呈现出来了。但，研发团队觉得还不够有特点，依然有一些棘手的设计问题需要解决，比如「该如何做出兼具个性和受大众喜欢的Roguelike？」好在，经过诸多尝试后，他们最终找到了方向。<br>
+<br>
+「Build就是我们的核心！」研发团队表示。<br>
+<br>
+Build 之于 RPG 游戏，是指涵盖职业、阵容、装备属性、天赋、技能等一系列配置的选择与搭配。Build 对于《旧日传说》而言，便是玩家在游玩中，需要根据职业定位和特性的不同，围绕一种 Build 思路（比如高伤害、高暴击）进行构筑。<br>
+<br>
+<strong><font color="#de5650">不同可能性的Build构建，</font></strong><br>
+<strong><font color="#de5650">是最终确立的设计方向</font></strong><br>
+<br>
+在研发团队表示看来，Roguelike 最核心的乐趣就应该是 Build，它能够允许玩家超出设计者的想象。<br>
+<br>
+「这就如同积木。研发团队只负责设计出积木的零件与搭建规则，但玩家在搭建积木的时候，他们会要超出你的控制，组建出各种各样的积木。」<br>
+<br>
+《旧日传说》首测，有玩家在交流群里晒出了一套输出爆炸的 Build，伤害破亿。<br>
+<br>
+「在 Roguelike 里，这种爆表的数值没有任何破坏游戏整体规则的问题。玩家单局体验结束后，Build 清零重置，他再玩一局，构筑是随机的，体验又不一样了。」<br>
+<br>
+有了这些的认知后，《旧日传说》在Roguelike为核心的基础上，围绕 Build 构筑调整和新增了若干系统。<br>
+<br>
+<div align="center">
+<img id="aimg_969707" aid="969707" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110333cna7p5jjl5mpji33.gif" data-original="https://di.gameres.com/attachment/forum/202104/01/110333cna7p5jjl5mpji33.gif" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110333cna7p5jjl5mpji33.gif" referrerpolicy="no-referrer">
+</div><br>
+首先是角色阵容系统。游戏将角色拆分为四个派系，且各自拥有不同的技能、天赋，如群体击退等。玩家可以根据角色以及派系的特点，按照一定的策略编排队伍。<br>
+<br>
+<div align="center">
+<img id="aimg_969708" aid="969708" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110334qosll63m86ssg1lv.gif" data-original="https://di.gameres.com/attachment/forum/202104/01/110334qosll63m86ssg1lv.gif" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110334qosll63m86ssg1lv.gif" referrerpolicy="no-referrer">
+</div><br>
+其次是结晶装配系统。每个角色可以镶嵌一枚迷失结晶，补充角色的逻辑特性，比如拥有范围伤害技能的角色装配催眠、眩晕等控制结晶辅助控场，有位移技能的角色装配前进/后退结晶调整站位等。<br>
+<br>
+<div align="center">
+<img id="aimg_969709" aid="969709" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110334zsfjrq9jeqte50r7.jpg" data-original="https://di.gameres.com/attachment/forum/202104/01/110334zsfjrq9jeqte50r7.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110334zsfjrq9jeqte50r7.jpg" referrerpolicy="no-referrer">
+</div><br>
+此外，游戏在关卡中，还增加了角色天赋系统，玩家可以依据阵容和关卡环境选择不同的天赋走向。<br>
+<br>
+<div align="center">
+<img id="aimg_969710" aid="969710" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110335x3a1376lt65b7wux.png" data-original="https://di.gameres.com/attachment/forum/202104/01/110335x3a1376lt65b7wux.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110335x3a1376lt65b7wux.png" referrerpolicy="no-referrer">
+</div><br>
+而《旧日传说》最核心的改动，是在关卡内的装备系统上：装备随机掉落，而每一件装备的属性词条与逻辑词条又是随机组合；与此同时，系统又给予玩家手动重置的功能，而通过重置装备上的属性词条和逻辑词条，玩家可以不断迭代角色的 Build 特征。<br>
+<br>
+<div align="center">
+<img id="aimg_969711" aid="969711" zoomfile="https://di.gameres.com/attachment/forum/202104/01/110336ui6o661s7ko6i5oz.png" data-original="https://di.gameres.com/attachment/forum/202104/01/110336ui6o661s7ko6i5oz.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/01/110336ui6o661s7ko6i5oz.png" referrerpolicy="no-referrer">
+</div><br>
+如上所述，阵容+天赋+ Dungeon 天赋+装备，是游戏内的 Build 构筑公式。这些随机性带来的组合，千变万化，让玩家可以反复游玩体验游戏。如果说，仅有一项内容是随机的，「玩家会觉得你这只是一个赌骰子的游戏，没有一点控制力。」<br>
+<br>
+《旧日传说》还有不少设计细节，包括关卡推进 Buff，事件抉择的策略机制，类似于跑团的掷骰机制等等。不过，在针对 Build 玩法的调整与打磨后，游戏最终做出了有自己风味的 Roguelike 。<br>
+<br>
+<strong><font color="#de5650">身为初心者，             </font></strong><br>
+<strong><font color="#de5650">却瞄准了差异化体验</font></strong><br>
+<br>
+以 Build 为机制的重度Roguelike，再加上走出传统故事设定的克苏鲁氛围，如今的《旧日传说》已有了自己的特色。<br>
+<br>
+一个从未涉足 Roguelike 领域的团队，本身就像进入了一场迷宫，过程就是在反复试错与探索中，艰难成长。这一点，让人很难质疑开发团队的执拗和坚持。<br>
+<br>
+但我挺好奇一点：过往有着显著商业表现的 Roguelike 手游，多以轻度为主；可刚刚涉足新领域的《旧日传说》团队，为什么认准了中重度的方向？<br>
+<br>
+「的确。如果要学习成熟的 Roguelike 手游，我应该轻度化游戏的美术风格，再深度化它的养成玩法。这样的话，用户盘子应该会更大一些。」研发团队说道。<br>
+<br>
+也许还有另一种可能：如果完全按着相同思路照做，或许就与市场机会失之交臂。他们始终觉得体验大于类型。做差异化的体验，往往能比人们选择做热门品类，吸引来更多的用户。<br>
+<br>
+相比追求成熟，由「初心者」打造的《旧日传说》，或许能为我们提供另一种做 Roguelike 的思路。<br>
+<br>
+<font size="2"><font color="#708090">作者：灰信鸽</font></font><br>
+<font size="2"><font color="#708090">来源：游戏葡萄</font></font><br>
+<font size="2"><font color="#708090">地址：https://mp.weixin.qq.com/s/DFIg3jTTqQwpYJxV_FibMw</font></font><br>
+<br>
+</td></tr></tbody></table>
+
+
+
+  
+</div>
+            
