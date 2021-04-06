@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/remote-retrospective-tips/'
 author: Inside Design
 comments: false
-date: 2021-04-05 12:10:17
+date: 2021-04-06 00:26:48
 thumbnail: 'https://www.invisionapp.com/inside-design/remote-retrospective-tips/'
 ---
 
