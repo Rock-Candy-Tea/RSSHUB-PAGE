@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone SE3最新爆料，今年会来吗？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/06184443421608.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 06 Apr 2021 12:08:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/06184443421608.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文｜明美无限</p><p style="text-indent: 2em; text-align: left;">相信有一直关注明美无限至今的果粉们应该都了解了，由于iPhone数字旗舰系列过于锋芒，导致其“弟弟”SE系列容易被人遗忘。事实上，iPhone SE系列定位小屏旗舰，价格相对较低，也有不少的忠实粉丝。在iPhone SE系列发布一年后，关于第三代iPhone SE的消息不断传出。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/06184443421608.jpg" alt="iPhone SE3最新曝光，今年还会来吗？" title="iPhone SE3最新曝光，今年还会来吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">关于iPhone SE的更新换代，其实消息有非常多，涉及屏幕尺寸，核心配置，外观设计等多个方面，不过苹果的保密信息一向做得不错，很难提前获得比较详细的信息，但是根据爆料来猜测的话，也能够得到一些比较相关的小道消息。</p><p style="text-indent: 2em; text-align: left;">这不按照之前的套路来走的话，iPhone SE3应该使用iPhone 11的外观，搭载A15处理器。但是iPhone SE系列向来不按套路出牌，最近国外爆料大神Ross Young透露，明年发布的iPhone SE将会采用与iPhone 8一致的设计，而且还是4．7英寸的屏幕。</p><p style="text-indent: 2em; text-align: left;">不过下一款iPhone SE肯定会支持<span class="hrefStyle"><a href="https://tele.ofweek.com/tag-5G.HTM" target="_blank" title="5G网络">5G网络</a></span>，是搭载A14处理器还是A15处理器，暂时不好说。它只会支持低于6GHz的5G网络，不支持mmWave。毕竟定位在那放着，也不可能用太高的配置。</p><p style="text-indent: 2em; text-align: left;">另外2022年的iPhone SE或许没什么亮点可言，到是2023年的iPhone SE在外观上有了新的设计。因为iPhone SE无需面部识别，所以就可以把刘海的尺寸做得非常小。消息称2023年的iPhone SE将会采用与安卓手机一致的打孔屏。</p><p style="text-indent: 2em; text-align: left;">顺便一提的是，2019 年末，分析师郭明錤表示，苹果正在研发一款 5．5 英寸或 6．1 英寸屏的「iPhone SE Plus」。尽管最初计划在 2021 年发布，但郭后来表示，预计最早要到 2022 年才会推出新的 iPhone SE 机型。</p><p style="text-indent: 2em; text-align: left;">还有传闻iPhone 14 Pro已经准备采用打孔屏设计，显然iPhone SE在没有Face ID的情况下，采用打孔屏会更容易一些。此外，它还将会采用6．1英寸的屏幕，使用侧边指纹解锁。</p><p style="text-indent: 2em; text-align: left;">此外据悉，打孔屏方案可以帮助用户获得更大的屏幕可操作面积，也可以提供一个比较不错的正面视野表现。但苹果一直以来都在为旗舰系列配备面容ID的识别组件，一旦应用打孔屏设计，相关组件如何安置也令人关注。</p><p style="text-indent: 2em; text-align: left;">当然，在了解了目前的大部分传言后，外界对新iPhone系列是否会应用屏下指纹技术也有着一定的期待。不过，在产品正式发布前，苹果基本不会给出确切的回应。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/06184443513192.jpg" alt="iPhone SE3最新曝光，今年还会来吗？" title="iPhone SE3最新曝光，今年还会来吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">除此之外呢，看到这里不少果粉们可能又会发出吐槽：苹果都是玩安卓玩剩的。实则不然，目前iPhone依旧采用经典刘海屏，销量和认可度不也是行业前列的吗？其实iPhone一直有自己的风格，一直都致力于真全面屏探索。前魅族科技李楠也说过，未来的iPhone将会为我们呈现真正的四边等宽无刘海无挖孔的真全面屏。</p><p style="text-indent: 2em; text-align: left;">我们再来说一下iPhone SE 2，外观设计和iPhone 8几乎完全一样，但在芯片上采用了A13，性能几乎是满血的。Omdia统计的数据显示，新款iPhone SE在去年卖出了2420万部，销量仅次于iPhone 11的6480万部。在iPhone全面销量榜单中占据第二的位置。在全面屏横行的年代，这款三段式屏幕的手机也算是缔造了销量神话。在价格和性能等方面优势上，iPhone SE 2也吸引了一众的小屏爱好者。</p><p style="text-indent: 2em; text-align: left;">纵观安卓市场，用户对于小屏幕手机褒贬不一，三星和华为的旗舰机型今年来还是保留小尺寸机型，今年魅族18也是主打小屏旗舰，其手感和轻薄吸引了众多用户回归。</p><p style="text-indent: 2em; text-align: left;">而目前iPhone SE主要的优势，除了小尺寸之外，最重要的是价格相对便宜。统计数据显示，持有小屏iPhone的用户依然占据着全美市场的30％。这也是iPhone SE持续推出最主要的动力。</p><p style="text-indent: 2em; text-align: left;">最后，iPhone SE3换上更快大屏幕，更快的处理器及支持5G后，有传定价可能会上涨，不过约4，000的定价，大家会觉得性价比如何呢？</p><p style="text-indent: 2em; text-align: left;">以上就是iPhone SE系列的两个新消息，iPhone SE3明年发布，外观无变化、还是套模iPhone8。Plus版本还要等到后年，且售价暴涨，起售价在4000元左右，性价比并不是很高，果粉又要失望了。</p><p style="text-indent: 2em; text-align: left;">当然，现在距离iPhone SE3系列的发布时间还有很长一段时间，关于iPhone SE3系列的爆料信息并不一定准确，所以现在我们看看就好，不必太过较真。</p><p style="text-indent: 2em; text-align: left;">对此iPhone SE3，你有什么看法呢？欢迎在下方评论区留言。</p><p style="text-indent: 2em; text-align: left;">以上就是本期所有内容，关注明美无限，为你带来更多的科技新信息。</p> 
+  
+</div>
+            

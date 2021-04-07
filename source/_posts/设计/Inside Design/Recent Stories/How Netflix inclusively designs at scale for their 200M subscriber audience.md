@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/steve-johnson-rochelle-king-netflix-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-04-06 12:08:40
+date: 2021-04-07 00:26:06
 thumbnail: 'https://www.invisionapp.com/inside-design/steve-johnson-rochelle-king-netflix-design-better-podcast/'
 ---
 

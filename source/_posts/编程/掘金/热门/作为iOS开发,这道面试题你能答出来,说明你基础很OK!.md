@@ -50,7 +50,7 @@ thumbnail: 'https://juejin.cn/post/undefined'
 <p>再请看下面的代码:</p>
 <p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1b680c20c81541c0890ef55eb4514f53~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"><img alt title="点击并拖拽以移动" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">​</p>
 <p>person指向GDPerson的实例变量,而GDPerson的实例变量是包括isa和成员变量等等,这个也很清楚.而isa是指向GDPerson的类对象,所以请看下面的图:</p>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af5c02a22e144d8b98c39ea44511a671~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"><img alt title="点击并拖拽以移动" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">​</p>
+<p>​<img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4aa49df8228448aa5b352efd2e1caeb~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"><img alt title="点击并拖拽以移动" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">​​<img alt title="点击并拖拽以移动" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">​</p>
 <p>我们根据之前的源码分析知道,isa和_name是存在一个结构体,而对于结构体来说,第一个成员变量的地址值就是这个结构体的地址.所以person就是指向isa.</p>
 <p>好了,这两个图我们分析清楚了以后,你看这两个图是不是很类似,几乎是一样的,我们再看下面的一个图:</p>
 <p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8878cde70e284ef58301c03c530101d0~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"><img alt title="点击并拖拽以移动" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">​</p>
