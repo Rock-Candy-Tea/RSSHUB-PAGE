@@ -1,0 +1,20 @@
+
+---
+title: '_多图_Realme Buds Air 2 Neo亮相：价格更低 同样带主动降噪'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0407/5a41f11bfd570c1.jpg'
+author: cnBeta
+comments: false
+date: Wed, 07 Apr 2021 11:45:23 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0407/5a41f11bfd570c1.jpg'
+---
+
+<div>   
+<strong>正如预期的那样，Realme Buds Air 2 Neo推出的时间比原来的Buds Air 2晚了一个半月左右。</strong>Buds Air 2
+Neo的外壳有不同的设计，在价格更为实惠的同时最重要的降噪功能也依然存在，这使得它成为市面上性价比最高的TWS+ANC无线蓝牙耳机产品之一。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/0407/5a41f11bfd570c1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/5a41f11bfd570c1.jpg" title alt="gsmarena_007.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/71aad1fdc52afb5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/71aad1fdc52afb5.jpg" title alt="gsmarena_006.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/6e0134a92aaad32.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/6e0134a92aaad32.jpg" title alt="gsmarena_005.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/a4529cecbf49833.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/a4529cecbf49833.jpg" title alt="gsmarena_004.jpg" referrerpolicy="no-referrer"></a></p><p>Buds Air 2 Neo的降噪效果可以与价格较高的兄弟姐妹相媲美（由相同的定制Relame R2芯片驱动）。如果你需要带着耳塞与人当面聊天，该机型还有一个透明模式，如果需要与人远程通话，则有双麦克风进行通话降噪。</p><p><a href="https://static.cnbetacdn.com/article/2021/0407/a248b562289eb9d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/a248b562289eb9d.jpg" title alt="gsmarena_002.jpg" referrerpolicy="no-referrer"></a></p><p>当启用ANC时，电池可以持续工作20小时（前作22.5小时），在ANC关闭时持续的时间更长一些（28 vs. 25小时）。但从好的方面来看，充电速度更快（充电10分钟可以工作3小时）。</p><p>Realme Buds Air 2 Neo拥有10毫米的驱动器，采用液晶聚合物涂层。两个耳塞分别通过独立的蓝牙5.2链接到<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>，这确保了稳定和低延迟的连接。在游戏模式下，延迟可以低至88毫秒。</p><p><a href="https://static.cnbetacdn.com/article/2021/0407/b8a4e35de04e71d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/b8a4e35de04e71d.jpg" title alt="gsmarena_011.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/e779eddf2987c0a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/e779eddf2987c0a.jpg" title alt="gsmarena_010.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/ba2496822ccaa31.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/ba2496822ccaa31.jpg" title alt="gsmarena_008.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/b9ffbd7fb5dafd5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/b9ffbd7fb5dafd5.jpg" title alt="gsmarena_009.jpg" referrerpolicy="no-referrer"></a></p><p>不过Buds Air 2 Neo编解码支持相当有限，只能在基本的SBC基础上获得AAC HD。其他的Buds Air 2型号也是如此。应用方面可以使用Realme Link应用（仅限Android）来设置降噪级别，调整均衡器，开启游戏模式等等。其中有些功能可以通过触摸控制来触发。</p><p><a href="https://static.cnbetacdn.com/article/2021/0407/db61f2b6f7eeea4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/db61f2b6f7eeea4.jpg" title alt="gsmarena_003.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0407/0317db49f05060c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0407/0317db49f05060c.jpg" title alt="gsmarena_001.jpg" referrerpolicy="no-referrer"></a></p><p>Buds Air 2 Neo的机身具有IPX5防水等级，使其具有抗汗水和雨水的能力。该机型将首先在巴基斯坦上市，价格为8000巴基斯坦卢比，折合53美元/44欧元。可以选择两种颜色--活性黑和冷静灰。</p>   
+</div>
+            

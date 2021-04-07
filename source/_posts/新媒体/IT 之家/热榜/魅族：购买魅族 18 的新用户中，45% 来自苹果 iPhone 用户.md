@@ -1,0 +1,19 @@
+
+---
+title: '魅族：购买魅族 18 的新用户中，45% 来自苹果 iPhone 用户'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/4/20210407_102708_581.jpg'
+author: IT 之家
+comments: false
+date: Wed, 07 Apr 2021 02:28:50 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/4/20210407_102708_581.jpg'
+---
+
+<div>   
+<p>IT之家 4 月 7 日消息 据魅族官方消息称，购买魅族 18 的新用户中，45% 来自苹果 iPhone 用户。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/4/20210407_102708_581.jpg" w="690" h="1380" title="魅族：购买魅族 18 的新用户中，45% 来自苹果 iPhone 用户" width="690" height="1380" referrerpolicy="no-referrer"></p><p><span class="accentTextColor">魅族 18 号称小屏满血旗舰</span>，采用跟魅族 18 Pro 相同的 5nm 骁龙 888 处理器，屏幕为 6.2 寸三星原厂的 Super AMOLED 面板，支持 120Hz 高刷和 2K 分辨率，采用满血版 LPDDR5 内存、UFS 3.1 闪存，重量只有 162g，与苹果 iPhone 12 相同，其厚度也仅有 8.1 毫米，搭载 4000mAh 的大电池。后置摄像头组为三摄设计，6400 万像素的主摄镜头来自索尼（IMX 682），还有 1600 万像素广角 / 微距镜头和 800 万像素长焦镜头。</p><p>值得一提的是，魅族 18 系列号称 “三零手机”，出厂自带应用 0 广告、0 预装第三方应用、0 运营推送。IT之家了解到，魅族官方称，从魅族 18 系列开始，将彻底放弃互联网广告营收，为用户提供真正纯粹、私密、不被打扰的个人设备。</p><dir><a href="https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlWE1%2FN20mSgV3TAVSA3JgFUZUSCF2Yh4LZR5bEAQSD1ATXCUBEABXHV8QARU3Nnw1S0UWTAleI1cyEgZlTTUVAxMGVBpbHQYRN1UYXBEAFw9UE1MlAhUHUx1cFgcVDl0TWSUCGgBlRxlHQ1A3ZStYJTIiB2UYa0tsE1cFSV4RAEVpD0RcUQMVBhV1XBcBEQRRHF8lABMGVxk%3D" target="_blank" data-wapurl="https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlB1RmL2cGE3V3YxEYDRZBV3Q1TCRDch4LZR5aEQMXN1YZXBcEFgJWHGt2ZXxZEh8QSUdqRWUZWhADEw9lTTUVAxMGVBpbHQYRN1UfXhALEwddHF0lAhUHUx1cFgcVD1QeUyUCGgBlRxlHQ1A3ZStYJTIiB2UYa0tsE1RVSF0cAhppD0RcUQMVBAV1XBcBGwZdGFolABMGVxk%3D" data-iosurl="https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlQE9yT2AwUQBwTx1gBxVbEH4sEiVsYh4LZR5bFAMQB1IfWRMyEQVSGV0RBxEAZXg8e1xVAx5HHm1AIgVUGFoUACJROxtaFAMTBlUTXxYyEQZXG1oUAxcOUitbEgIUAVIYXhIKEw9SK1sdBSJbF0kaVzIiN1YrayUCIgRlRTUUURIHXBtYR2xIWFJfWhIASWlSGVkQBBIDUitZFAMQBQ%3D%3D" data-androidurl="https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlZhNEC2sGfnZyfFJ8LHVebndPewQLch4LZRhcHAsVN1YZXBcEFgJWHGt2ZXxZEh8QSUdqRWUZWhADEw9lTTUVAxMGVBpbHQYRN1UYXBEAFw9VG18lAhUHUx1cFgcVD1UeWCUCGgBlRxlHQ1A3ZStYJTIiB2UYa0tsE1RWElkVURNpD0RcUQMVAhF1XBcHFA5SGF8lABMGVxk%3D" data-uwpurl="https://union-click.jd.com/jdc?e=&p=AyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlRhZaK2UuHGRwdBEZP3J1E3kHUClOch4LZRlaFQcbB1QTUiUBEABXHV8QARU3Nnw1S0UWTAleI1cyEgZlTTUVAxMGVBpbHQYRN1UYXBEAEwJTHV8lAhUHUx1cFgcVD1USXCUCGgBlRxlHQ1A3ZStYJTIiB2UYa0tsE1RVEgkQVUZpD0RcUQMVAFB1XBcGEwZcEl0lABMGVxk%3D" data-wxmpurl="ithome://openmp?appid=wx91d27dbf599dff74&path=/pages/union/proxy/proxy?spreadUrl=https%3a%2f%2funion-click.jd.com%2fjdc%3fe%3d%26p%3dAyIGZRprFQMTBlUSXR0BFwFcKx9KWkxYZUIeUENQDEsFA1BWThgOTkRHXE4ZVRpaFAIbAV0YXhMLDV4QRwYlcGtnIltYVHVwWzNcE3VDQEQ8YyFgch4LZRlaFQcbB1QTUiUBEABXHV8QARU3Nnw1S0UWTAleI1cyEgZlTTUVAxMGVBpbHQYRN1UYWhcEEgBVE1MlAhUHUx1cFgcVD1YcWSUCGgBlRxlHQ1A3ZStYJTIiB2UYa0tsE1RVGF8XBEVpD0RcUQMVAQB1XBcAEQ5XG1wlABMGVxk%253D&EA_PTAG=17078.27.380" data-jdid="100018792478"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/163404/21/8581/67166/603cc501Ec6bd560e/de71af82eeab9ed8.jpg" title="魅族：购买魅族 18 的新用户中，45% 来自苹果 iPhone 用户" referrerpolicy="no-referrer"></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">魅族 18 8GB+256GB 踏雪</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price">4699元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+          
+</div>
+            
