@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/23/f0282afba2512f921bca216f7e1b9sj5.JPG?v=1617708878306'
 author: 巴哈姆特
 comments: false
-date: 2021-04-07 04:11:56
+date: 2021-04-07 08:09:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/f0282afba2512f921bca216f7e1b9sj5.JPG?v=1617708878306'
 ---
 
@@ -40,6 +40,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/f0282afba2512f921bca216f7e1b9sj5.
  </div>
 <div>
 　　《惡靈古堡：逆轉》先前曾於 1 月 25～28 日舉辦過事先報名抽選制的封閉測試，如今則是確定將於 4 月 8～11 日舉辦開放所有玩家參與的公開測試，只要持有遊戲對應的主機並申請 CAPCOM ID 即可參加。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/cBr-i0t2vIU?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>

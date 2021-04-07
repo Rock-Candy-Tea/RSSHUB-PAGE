@@ -13,6 +13,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/6c/16
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/6c/16/321407_YN7l2.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/321407">番组计划</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/6c/16/321407_YN7l2.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/321407">番组计划</a></li><li><a href="https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html">优酷</a></li></ul>  
 </div>
             
