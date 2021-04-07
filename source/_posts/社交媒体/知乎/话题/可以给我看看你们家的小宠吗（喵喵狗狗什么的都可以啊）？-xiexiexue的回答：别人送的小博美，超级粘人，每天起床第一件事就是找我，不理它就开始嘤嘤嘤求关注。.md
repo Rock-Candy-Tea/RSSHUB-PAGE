@@ -1,0 +1,18 @@
+
+---
+title: '可以给我看看你们家的小宠吗（喵喵狗狗什么的都可以啊）？-xiexiexue的回答：别人送的小博美，超级粘人，每天起床第一件事就是找我，不理它就开始嘤嘤嘤求关注。...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-69fb2cacfb4b3a07035c9e6c0ad290f6_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 07 Apr 2021 03:51:55 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-69fb2cacfb4b3a07035c9e6c0ad290f6_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>可以给我看看你们家的小宠吗（喵喵狗狗什么的都可以啊）？</strong><br>xiexiexue的回答<br><p>别人送的小博美，超级粘人，每天起床第一件事就是找我，不理它就开始嘤嘤嘤求关注。喜欢和小朋友一起玩，但是小朋友基本不敢太靠近它，久而久之就对小朋友失去了兴趣哈哈哈。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-69fb2cacfb4b3a07035c9e6c0ad290f6_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-dd1e9a276ed909ac360ec26847110ad0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-69fb2cacfb4b3a07035c9e6c0ad290f6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-69fb2cacfb4b3a07035c9e6c0ad290f6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-30226d7e510c0907f552f9569d90f1eb_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-8ef0af439ab0db7948b538f00962df21_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-30226d7e510c0907f552f9569d90f1eb_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-30226d7e510c0907f552f9569d90f1eb_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-685d93faca19e4b85c64a210ef05bd72_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f11b77bf8cc9318250d97d0f44b0b96c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-685d93faca19e4b85c64a210ef05bd72_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-685d93faca19e4b85c64a210ef05bd72_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-8e9a069070a29429ff585cb6a3bf71d1_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-bdc539c25e7d07f7e8a886db294ffc07_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-8e9a069070a29429ff585cb6a3bf71d1_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-8e9a069070a29429ff585cb6a3bf71d1_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-5dfafb35d9653a911ef1c44589a9c1fd_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-874f5b15aa132b4f96f36c9445a43b27_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-5dfafb35d9653a911ef1c44589a9c1fd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-5dfafb35d9653a911ef1c44589a9c1fd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/women-design-history/'
 author: Inside Design
 comments: false
-date: 2021-04-07 00:26:06
+date: 2021-04-07 04:11:11
 thumbnail: 'https://www.invisionapp.com/inside-design/women-design-history/'
 ---
 

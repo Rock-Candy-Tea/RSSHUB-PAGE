@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://static.oschina.net/uploads/space/2021/0407/074549_Dsdl_4252687.png'
+headimg: 'https://static.oschina.net/uploads/space/2021/0302/055043_aJSn_2720166.png'
 author: 开源中国
 comments: false
-date: Tue, 06 Apr 2021 23:47:00 GMT
-thumbnail: 'https://static.oschina.net/uploads/space/2021/0407/074549_Dsdl_4252687.png'
+date: Wed, 07 Apr 2021 07:46:00 GMT
+thumbnail: 'https://static.oschina.net/uploads/space/2021/0302/055043_aJSn_2720166.png'
 ---
 
 <div>   
@@ -18,15 +18,15 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/0407/074549_Dsdl_42526
                                                         <p>Linux Lite 5.4 稳定版已发布，主要变化包括：更新帮助手册、更新 Papirus 图标主题、添加新壁纸，以及许多其他的 bugfix 和功能增强。</p> 
 <p>Linux Lite 是一个对新手友好的 Linux 发行版，它基于 Ubuntu LTS，并以 Xfce 桌面为特色。Linux Lite 主要针对 Windows 用户而设计，其目标是提供一整套应用以帮助用户完成他们的日常电脑活动，包括完整的办公套件、媒体播放器和其它必要的日常软件。</p> 
 <p>Linux Lite 的桌面布局与 Windows 中的布局相同，左侧提供了“开始”菜单，右侧包含“音量”、“网络”和“日历”选项的托盘，此外还提供了熟悉的“桌面”图标，可帮助使用者迅速准确地返回系统桌面。</p> 
-<p><img alt height="521" src="https://static.oschina.net/uploads/space/2021/0407/074549_Dsdl_4252687.png" width="700" referrerpolicy="no-referrer"></p> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0302/055043_aJSn_2720166.png" referrerpolicy="no-referrer"></p> 
 <p>5.4 版本主要变更：</p> 
 <p><strong>帮助手册新增'Installing Software - From a Terminal using APT'章节</strong></p> 
 <p>Linux Lite 的帮助手册提供了在终端使用 APT 安装软件的教程。</p> 
-<p><img alt height="523" src="https://static.oschina.net/uploads/space/2021/0407/074605_q3nm_4252687.png" width="700" referrerpolicy="no-referrer"></p> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0302/055426_ksey_2720166.png" referrerpolicy="no-referrer"></p> 
 <p><strong>更新 Papirus 图标主题</strong></p> 
-<p><img alt height="523" src="https://static.oschina.net/uploads/space/2021/0407/074617_ecyl_4252687.png" width="700" referrerpolicy="no-referrer"></p> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0302/055603_zRFo_2720166.png" referrerpolicy="no-referrer"></p> 
 <p><strong>添加 10 张新壁纸</strong></p> 
-<p><img alt height="523" src="https://static.oschina.net/uploads/space/2021/0407/074631_Gek9_4252687.png" width="700" referrerpolicy="no-referrer"></p> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0302/055713_NLGA_2720166.png" referrerpolicy="no-referrer"></p> 
 <p><strong>软件包升级</strong></p> 
 <ul> 
  <li>Kernel: 5.4.0-70</li> 
