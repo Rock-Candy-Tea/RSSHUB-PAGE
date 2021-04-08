@@ -8,7 +8,7 @@ categories:
 headimg: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/6d/70/6d706d811af2e2931bb918bc60dcc904449af1295ee67d197f6668c5b3878be0_v1.jpg'
 author: Notefolio
 comments: false
-date: 2021-04-08 08:08:28
+date: 2021-04-08 12:10:32
 thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/6d/70/6d706d811af2e2931bb918bc60dcc904449af1295ee67d197f6668c5b3878be0_v1.jpg'
 ---
 
@@ -17,6 +17,7 @@ thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/6d/70/6d706d811af2e29
     <p style="text-align: center;"><strong></strong></p>
 <p style="text-align: center;"><strong></strong></p>
 <p style="text-align: center;"><strong></strong></p>
+<p style="text-align: center;"><span><strong></strong></span></p>
 <p style="text-align: center;"><span><strong>민트썸머 : '반짝이는 순간들  - The Sparkling Moments'展</strong></span></p>
 <p style="text-align: center;"><span></span></p>
 <p style="text-align: center;"><span>전시기간</span> : 2021<span>년</span> 4<span>월</span> 2<span>일</span>(<span>금</span>) - 2021<span>년</span> 4<span>월</span> 8<span>일</span>(<span>목</span>)</p>
@@ -34,6 +35,9 @@ thumbnail: 'https://pgnqdrjultom1827145.cdn.ntruss.com/img/6d/70/6d706d811af2e29
 <p style="text-align: center;"><strong>[작업 의뢰] mintsummer6@gmail.com</strong></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><a href="http://instagram.com/mintsummer_6">http://instagram.com/mintsummer_6</a><span><br> <a href="http://mintsummer.com/">http://mintsummer.com</a></span></p>
-<p><br> </p></li></ul>  
+<p style="text-align: center;"><span></span></p>
+<p style="text-align: center;"><span></span></p>
+<p style="text-align: center;"><span></span></p>
+<br></li></ul>  
 </div>
             

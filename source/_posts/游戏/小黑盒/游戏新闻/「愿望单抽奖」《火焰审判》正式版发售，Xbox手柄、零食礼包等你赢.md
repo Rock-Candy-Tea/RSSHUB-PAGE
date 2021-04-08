@@ -1,0 +1,18 @@
+
+---
+title: '「愿望单抽奖」《火焰审判》正式版发售，Xbox手柄、零食礼包等你赢'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1038370_e69yi.jpg'
+author: 小黑盒
+comments: false
+date: 2021-04-08 12:11:17
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1038370_e69yi.jpg'
+---
+
+<div>   
+<p><img class="lazy" data-gameid="1038370" data-height="152" src="https://cdn.max-c.com/heybox/game/header/1038370_e69yi.jpg" data-width="100%" referrerpolicy="no-referrer"></p><p></p><p>各位小伙伴，《火焰审判》这款战棋卡牌策略游戏从19年5月发售以来，在经历了近两年的更新后，终于将于4月9日在Steam上脱离EA，迎来正式版，让各位小伙伴们久等了呢！</p><p><img class="lazy" data-height="322" src="https://cdn.max-c.com/heybox/dailynews/img/c4092661e0b8eea2f66c53ebb26a5cda/thumb.png" data-width="780" referrerpolicy="no-referrer"></p><h4 class="img-desc">4月9日正式发售</h4><p>这款由Whatboy Games开发的独立游戏，融合了DBG（牌库构筑）、策略战棋、RPG养成、roguelike、开放世界和自由探索等诸多要素，巧妙的结合给玩家带来了独特体验和颇有深度的游戏性。作为《蝙蝠侠：阿卡姆》的2位原核心开发者，《火焰审判》是他们第一款独立游戏，有着浓厚的个人味道，他们给玩家呈现了一个等待探索的沙盒世界，玩家将会面对诸多需要权衡道德与利弊的选择，装备影响牌库的设计也相当独特。在这个世界里每场战斗都需要“计划”，但每个“下一回合”也都充满了变数与挑战！ </p><p>同大多数卡牌游戏一样，“打牌”是《火焰审判》的核心。玩家在战斗过程中从牌库里抽取卡牌，来控制英雄移动，防御，攻击，技能等等，但其最独特的地方在于牌库构筑的方式：玩家需要通过探索、战斗、交易等方式，才能随机获得比出门装备更好的装备，此时装备携带的对应卡牌也会加入到英雄牌库里供之后取用。这为游戏带来了Roguelike式的牌库构筑玩法，保证每轮游戏都有意料之外的变化，即使是同一段剧情玩家的不同选择，带来的体验也完全不同。</p><p><img class="lazy" data-height="570" src="https://cdn.max-c.com/heybox/dailynews/img/62defcbedfd11d3775f1b5022e3f1251/thumb.png" data-width="1014" referrerpolicy="no-referrer"></p><h4 class="img-desc">游戏战斗画面</h4><p><img class="lazy" data-height="570" src="https://cdn.max-c.com/heybox/dailynews/img/98a2b31757cdfcdbaa21062590d79155/thumb.png" data-width="1014" referrerpolicy="no-referrer"></p><h4 class="img-desc">游戏战斗画面</h4><p><b>为了庆祝4月9日正式版的更新上线</b>，<b>将自4月9日起特别开启一周的9折优惠，折后仅需48 RMB！打折结束后，价格会永久调整到70RMB。</b><b></b></p><p></p><p>我们也为各位吧友家带来一波活动，参与就有机会赢得Xbox无线控制器2020款、零食大礼包（来伊份/三只松鼠）等礼品哟！</p><p> </p><p><b>活动时间：</b><b></b></p><p><b>4月6日~4月12日18：00</b></p><p></p><p><b>活动方式：</b><b></b></p><p>现在在Steam添加《火焰审判》愿望单，并上传截图到本贴下留言即可参与！</p><p>我们将从所有发布愿望单的小伙伴中，用随机数生成器随机抽取小伙伴送出得Xbox手柄，各种零食、Steam充值卡或者游戏！</p><p><b>                                                    ↓↓↓↓↓猛戳下方地址，加入愿望单吧↓↓↓↓↓</b><b></b></p><p><b>《火焰审判》STEAM地址：</b><a href="https://store.steampowered.com/app/1038370/_Trials_of_Fire/" target="_blank">https://store.steampowered.com/app/1038370/_Trials_of_Fire/</a> </p><p></p><p>愿望单参考示例图：</p><p><img class="lazy" data-height="560" src="https://cdn.max-c.com/heybox/dailynews/img/f7338613ef112e3208abedee55f683e4/thumb.png" data-width="808" referrerpolicy="no-referrer"></p><h4 class="img-desc">愿望单示例</h4><p><b></b></p><p><b>我们准备的礼物：</b><b></b></p><p>1个Xbox 无线控制器 2020款</p><p>2份零食大礼包（来伊份/三只松鼠）或肥宅快乐水（3选一）</p><p>4张50元Steam充值卡</p><p>《火焰审判》游戏激活码5个</p><p><img class="lazy" data-height="382" src="https://cdn.max-c.com/heybox/dailynews/img/5d8b80dc300a2ad09a45c21102d42ec7/thumb.png" data-width="312" referrerpolicy="no-referrer"></p><h4 class="img-desc">活动奖品示例</h4><p><b>如果喜欢我们的游戏，可以关注一下，感谢各位小伙伴的支持！有兴趣加入我们《IndieArk应援吹水团》的小伙伴可以私信我哦，欢迎大家一起来讨论你喜欢的独立游戏、交流游戏心得、留下你对游戏的意见和看法！</b></p><p>  </p><p><b>注意：</b></p><p>1、在回复中附带有效愿望单截图，若截图无效则无法参与到抽奖活动哦~</p><p>2、不得发布任何违规、非法内容，不得盗用他人内容，如有将会直接取消资格。</p><p>3、每个ID只能回复1次（一楼），刷楼、删楼等回复将会被取消获奖资格。<b></b></p><p>4、活动时间结束后，我们将会尽快在1~2个工作日内发放，@以及私信中奖用户，中奖用户提需要在期限时间内提供相应的快递地址和个人信息，如未回复则视为用户放弃中奖资格。</p><p>5、本活动最终解释权归主办方所有。</p><p> <a href="heybox://open_subject" target="_blank">#单机游戏#</a>  <a href="heybox://open_subject" target="_blank">#愿望单活动#</a>  <a href="heybox://open_subject" target="_blank">#游戏推荐#</a>  </p><p></p>  
+</div>
+            
