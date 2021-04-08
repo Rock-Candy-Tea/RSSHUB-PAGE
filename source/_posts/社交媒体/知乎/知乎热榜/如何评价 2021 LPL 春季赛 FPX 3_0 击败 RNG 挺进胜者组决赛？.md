@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1992'
+headimg: 'https://pic3.zhimg.com/v2-89a04a9b96e45bbc32bdc35b2f332daf_1440w.jpg'
 author: 知乎
 comments: false
-date: Wed, 07 Apr 2021 11:48:57 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1992'
+date: Wed, 07 Apr 2021 12:47:13 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-89a04a9b96e45bbc32bdc35b2f332daf_1440w.jpg'
 ---
 
 <div>   
-海瑟薇的床边故事的回答<br><br><p>恭喜FPX！</p><p>我只从战术说一点，RNG从第一盘开始就怂了，<b>他们不觉得小虎能打穿FPX的上路，其实走的战术和打JDG是一条路。</b></p><p>按照季后赛排名的规矩，实际上<b>RNG是有优先选边权的，在我看来他们应该选右边可以有counter位</b>，但他们却选了左边。</p><p>左边就意味着拿一个版本OP英雄，但<b>中上一条路很容易就会被对面counter。</b></p><p>而且一个很真实的情况，是<b>FPX第一轮没有空间也不去ban小虎的杰斯和卢锡安，换句话说RNG对阵FPX的纳尔是有的打的。</b></p><p><b>但小虎选择了三楼直接抢下纳尔</b>，自己怂了，让给对面FPX一个杰斯的counter。</p><p>说白了，<b>RNG觉得小虎应该稳住对线，然后打团产生作用，不认为打牛宝能打出线优然后辐射到镀层和其他路。</b></p><p>这个从比赛中也非常明显，<b>Wei第一盘如同打JDG一样，针对的是中路以及下路，上路的侧重点一点都不高。</b></p><p>同样，第三盘终于有机会counter了，队伍选择了保下的打法，拿了一个奥恩。</p><p><b>说白了就是RNG今天就没准备打常规赛擅长的上路打法。</b></p><p>当然我说这些，并不代表着RNG其他人没有问题。</p><p><b>我觉得今天RNG全员五个人就没有状态比FPX好的，不管是谁都有辣眼睛的操作。</b></p><p>不过唯一的好消息是今年真的有复活赛……</p><p>不知道他们能不能调整过来但我觉得应该坚持打上的战术，<b>因为你短时间也没得改变了。</b></p><p>具体比赛的内容我晚上再补充一些吧，恭喜FPX！</p>  
+今夕何夕的回答<br><br><p>做了张虾仁猪心的图。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-89a04a9b96e45bbc32bdc35b2f332daf_1440w.jpg" data-rawwidth="922" data-rawheight="1235" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-6bd0c05ba70c05e5e2e668aa8676bd52_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-89a04a9b96e45bbc32bdc35b2f332daf_r.jpg" referrerpolicy="no-referrer"></figure><p>低情商：RNG被FPX血虐。</p><p>高情商：好耶！我们还有复活赛。</p><p>御三家起起伏伏这么多年。</p><p>好不容易今年春季赛都打的不错。</p><p>一个常规赛第一（rng），一个第二（edg），一个第六（we）。</p><p>还幻想着出个春季赛冠军。</p><p>我这边已经想好御剑起飞的姿势了，起码烧胎起步。</p><p>那边已经想好世界赛皮肤是选寡妇的了。</p><p>结果就这？</p><p>虽然知道夺冠是个幻想。</p><p>心底知道不一定打的过fpx。</p><p>但也不至于被零封吧。</p><p>加上we的。</p><p>两个零封，可真御不起来了。（edg:别御了，真不熟。）</p><p>这个bo5看得是真的心累。</p><p>fpx的野区联动做的太好了，尤其是野辅和上野。</p><p>小天也太猛了，即使在第二把，前期doinb没声音的情况下，也要配合刘青松进野区抢资源。</p><p>压制力拉满。</p><p>拿到了资源就去辐射别的路，打团又打不过。</p><p>lwx像个战神，二阵ad嘎啦被打的没脾气。</p><p>最后一把每个人的心态都出了问题，操作变形。</p><p>输了也是不足为奇。</p><p>也没办法，只能期待复活赛了。</p><p>还别说，今年还真有复活赛。</p>  
 </div>
             
