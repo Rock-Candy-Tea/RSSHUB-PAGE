@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=4740'
+headimg: 'https://picsum.photos/400/300?random=2830'
 author: 香水时代
 comments: false
 date: Tue, 28 Feb 2017 18:34:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4740'
+thumbnail: 'https://picsum.photos/400/300?random=2830'
 ---
 
 <div>   
@@ -27,6 +27,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4740'
 
 像坐在皮沙发上刚用花香皂洗净身子的可人儿。。。
 
-龙涎香分量不算大，但对敏感的人或许还是会招来咸腥体液味的不适感。。。  
+龙涎香分量不算大，但对敏感的人或许还是会招来咸腥体液味的不适感。。。
+
+PS：精彩之处是在最后的淡淡的皂感花香木质。。。  
 </div>
             
