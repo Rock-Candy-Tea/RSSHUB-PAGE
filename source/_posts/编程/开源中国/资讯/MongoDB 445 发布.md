@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9918'
+headimg: 'https://picsum.photos/400/300?random=7336'
 author: 开源中国
 comments: false
 date: Thu, 08 Apr 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9918'
+thumbnail: 'https://picsum.photos/400/300?random=7336'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>MongoDB 是一种面向文档的数据库管理系统，用 C++ 等语言撰写而成，以解决应用程序开发社区中的大量现实问题。MongoDB 由 MongoDB Inc. 于 2007 年 10 月开发，2009 年 2 月首度推出，现以服务器端公共许可（SSPL）分发。</p> 
+                                                                                            <p>MongoDB 是一种面向文档的数据库管理系统，用 C++ 等语言撰写而成，以解决应用程序开发社区中的大量现实问题。MongoDB 由 MongoDB Inc. 于 2007 年 10 月开发，2009 年 2 月首度推出，现以服务器端公共许可（SSPL）分发。</p> 
 <p>MongoDB 4.4.5 正式发布，本次更新内容如下：</p> 
 <h3>修复：</h3> 
 <ul> 

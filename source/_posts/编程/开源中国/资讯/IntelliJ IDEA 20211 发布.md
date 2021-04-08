@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-8c6d8753f4057785c31a338b34890b391cf.png'
 author: 开源中国
 comments: false
-date: Thu, 08 Apr 2021 00:07:00 GMT
+date: Thu, 08 Apr 2021 08:06:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-8c6d8753f4057785c31a338b34890b391cf.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>IntelliJ IDEA 2021.1 现已发布。该版本解决了一些麻烦的问题，并引入了许多新功能。现在，用户可以在 WSL 2 中与其 Java 项目一起工作、使用集成的 Space、直接从 IDE 安排视频通话以使用 Code With Me 进行协作开发，并在 SSH 主机和 Docker 容器中运行代码。同时，该版本还增加了对 Java 16 的基本支持、一些有用的新检查，以及 IDE 内部的 HTML 预览窗口。</p> 
+                                                                                            <p>IntelliJ IDEA 2021.1 现已发布。该版本解决了一些麻烦的问题，并引入了许多新功能。现在，用户可以在 WSL 2 中与其 Java 项目一起工作、使用集成的 Space、直接从 IDE 安排视频通话以使用 Code With Me 进行协作开发，并在 SSH 主机和 Docker 容器中运行代码。同时，该版本还增加了对 Java 16 的基本支持、一些有用的新检查，以及 IDE 内部的 HTML 预览窗口。</p> 
 <p><img alt height="350" src="https://oscimg.oschina.net/oscnet/up-8c6d8753f4057785c31a338b34890b391cf.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>具体更新内容如下：</p> 
 <h4><strong>关键更新</strong></h4> 

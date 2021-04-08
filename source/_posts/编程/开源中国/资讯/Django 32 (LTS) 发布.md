@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2021/0408/081220_yc5X_2720166.png'
 author: 开源中国
 comments: false
-date: Thu, 08 Apr 2021 00:13:00 GMT
+date: Thu, 08 Apr 2021 08:12:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2021/0408/081220_yc5X_2720166.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Django 3.2 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.djangoproject.com%2Fweblog%2F2021%2Fapr%2F06%2Fdjango-32-released%2F" target="_blank">已发布</a>，这是一个长期支持版本 (LTS)，官方承诺会提供至少三年的技术支持。在未来8个月内（直到2021年12月），它还将收到有关崩溃错误、新引入特性中的主要功能错误以及旧版本 Django 的回归问题的修复。</p> 
+                                                                                            <p>Django 3.2 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.djangoproject.com%2Fweblog%2F2021%2Fapr%2F06%2Fdjango-32-released%2F" target="_blank">已发布</a>，这是一个长期支持版本 (LTS)，官方承诺会提供至少三年的技术支持。在未来8个月内（直到2021年12月），它还将收到有关崩溃错误、新引入特性中的主要功能错误以及旧版本 Django 的回归问题的修复。</p> 
 <p><img src="https://static.oschina.net/uploads/space/2021/0408/081220_yc5X_2720166.png" referrerpolicy="no-referrer"></p> 
 <p>更新亮点：</p> 
 <ul> 

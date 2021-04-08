@@ -1,0 +1,18 @@
+
+---
+title: '【随机悬赏】如果外卖App上线外卖盲盒，可行吗？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=7566'
+author: 人人都是产品经理
+comments: false
+date: Thu, 08 Apr 2021 04:12:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7566'
+---
+
+<div>   
+<p>每次到了中午打开外卖App，划了10分钟也不知道吃什么，最后点来点去依旧是熟悉的几家店、几个菜。<br><br>如果外卖App提供外卖盲盒，由用户简单选择价位、口味、忌口，帮助用户解决点餐困难症，可行吗？作为用户的你，是否会选择外卖盲盒呢？为什么？</p>  
+</div>
+            

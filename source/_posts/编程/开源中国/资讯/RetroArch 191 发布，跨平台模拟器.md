@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2397'
+headimg: 'https://picsum.photos/400/300?random=7361'
 author: 开源中国
 comments: false
-date: Wed, 07 Apr 2021 23:46:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2397'
+date: Thu, 08 Apr 2021 07:45:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7361'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>RetroArch 1.9.1 现已发布。RetroArch 是款功能强大的跨平台模拟器，不但能够模拟许多不同的游戏主机，还能在 Windows、MacOS、Linux、Android、iOS 以及多种游戏主机上执行。</p> 
+                                                                                            <p>RetroArch 1.9.1 现已发布。RetroArch 是款功能强大的跨平台模拟器，不但能够模拟许多不同的游戏主机，还能在 Windows、MacOS、Linux、Android、iOS 以及多种游戏主机上执行。</p> 
 <p>主要更新内容如下：</p> 
 <ul> 
  <li>3DS：图形小部件支持</li> 

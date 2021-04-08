@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4127'
+headimg: 'https://picsum.photos/400/300?random=8675'
 author: 开源中国
 comments: false
 date: Thu, 08 Apr 2021 07:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4127'
+thumbnail: 'https://picsum.photos/400/300?random=8675'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CMake 3.19.8 已经发布，CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
+                                                                                            <p>CMake 3.19.8 已经发布，CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
 <p>CMake 3.19.8 中的一些重要变更有：</p> 
 <ul> 
  <li>FindPkgConfig：恢复对 PATH 中第一个 pkg-config 的偏好</li> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9015'
+headimg: 'https://picsum.photos/400/300?random=5678'
 author: 开源中国
 comments: false
-date: Wed, 07 Apr 2021 23:30:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9015'
+date: Thu, 08 Apr 2021 07:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5678'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>上月底，Google 发布了 Android 12 DP 2.1，解决了 WebView 崩溃的大问题。目前，开发者预览版 2.2 已经向运行 Android 12 的 Pixel 手机正式推出。</p> 
+                                                                                            <p>上月底，Google 发布了 Android 12 DP 2.1，解决了 WebView 崩溃的大问题。目前，开发者预览版 2.2 已经向运行 Android 12 的 Pixel 手机正式推出。</p> 
 <ul> 
  <li>修正了当用户试图访问蓝牙设置时，有时会导致设置应用程序崩溃的问题；</li> 
  <li>修正了用户安装 OTA 更新后，导致小部件从主屏幕上删除的问题；</li> 

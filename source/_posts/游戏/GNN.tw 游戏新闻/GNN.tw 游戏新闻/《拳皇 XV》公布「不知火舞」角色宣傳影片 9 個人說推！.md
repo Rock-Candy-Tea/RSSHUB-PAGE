@@ -1,0 +1,21 @@
+
+---
+title: '《拳皇 XV》公布「不知火舞」角色宣傳影片
+ 9 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/30/8031e6081b08adf120605077821c19m5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/30/8031e6081b08adf120605077821c19m5.JPG'
+---
+
+<div>   
+SNK 預定 2021 年推出的老牌對戰格鬥遊戲《拳皇》系列最新作《拳皇 XV（THE KING OF FIGHTERS XV）》（平台未定），今（8）日公布了登場角色「不知火舞（Mai Shiranui）」的角色宣傳影片。 &n...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/30/8031e6081b08adf120605077821c19m5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
