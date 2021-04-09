@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/62dfa8cda4a0a562da9144bc03e91190.png'
+headimg: 'https://cdn.itjuzi.com/images/c4acea915d1bb26d4635add12da6f5b8.png'
 author: IT 桔子
 comments: false
 date: Fri, 09 Apr 2021 00:00:00 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/62dfa8cda4a0a562da9144bc03e91190.png'
+thumbnail: 'https://cdn.itjuzi.com/images/c4acea915d1bb26d4635add12da6f5b8.png'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/62dfa8cda4a0a562da9144bc03e91190.png" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/c4acea915d1bb26d4635add12da6f5b8.png" referrerpolicy="no-referrer"><br><br>
         <strong>禹创半导体</strong><br>
         集成电路设计生产商<br>
         A+轮 / 数千万人民币 / 2021-04-09<br>

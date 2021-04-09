@@ -8,7 +8,7 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Fr7CWylTwJUnl1O96TLYxVSalCpa'
 author: 探物
 comments: false
-date: 2021-04-09 04:09:55
+date: 2021-04-09 08:10:39
 thumbnail: 'https://resource.tanwuapp.com/Fr7CWylTwJUnl1O96TLYxVSalCpa'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://resource.tanwuapp.com/Fr7CWylTwJUnl1O96TLYxVSalCpa'
 <img src="https://resource.tanwuapp.com/Fr7CWylTwJUnl1O96TLYxVSalCpa" referrerpolicy="no-referrer"><br>
           <strong>Switch国行续航主机（内置百余款游戏可选）</strong><br><br>
           价格: ￥7.80 / 日<br>
-          评分: 5.0
+          评分: 4.9
           
 </div>
             
