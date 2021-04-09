@@ -1,0 +1,18 @@
+
+---
+title: 'A股收评：三大指数微涨，钢铁股表现活跃，医美、有色板块崛起'
+categories: 
+ - 金融
+ - 格隆汇
+ - 主题文章
+headimg: 'https://img3.gelonghui.com/e67d2-47c995a7-9b8e-4264-bd5d-2ae793f1e1f6.png'
+author: 格隆汇
+comments: false
+date: Thu, 08 Apr 2021 00:00:00 GMT
+thumbnail: 'https://img3.gelonghui.com/e67d2-47c995a7-9b8e-4264-bd5d-2ae793f1e1f6.png'
+---
+
+<div>   
+<p><span style="font-weight: 400;">今日，三大指数微涨，早盘指数低开后震荡拉升，沪指盘中逼近3500点，创业板指一度涨逾1%。截止收盘，沪指微涨0.08%、创业板指涨0.7%。两市个股多数下跌，成交量略有回升，北上资金全天净卖出17.03亿元，为连续3日净卖出。</span></p><p><img src="https://img3.gelonghui.com/e67d2-47c995a7-9b8e-4264-bd5d-2ae793f1e1f6.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>盘面上，资金主要流向券商板块，早盘大涨的钢铁板块午后回落，酿酒、部分氢能源、医美概念、有色、食品饮料、医药等板块涨幅靠前，行业龙头普遍上涨。碳中和概念遭资金抛售，华银电力、深圳能源等一批强势股大跌；电力、环保、航运、光伏等概念明显回落。</p><p>具体来看</p><p><span style="font-weight: 400;">钢铁板块走势强势，截止收盘，凌钢股份、安阳钢铁、本钢板材均涨停，重庆钢铁、西宁特钢</span><span style="font-weight: 400;">此前封板，八一钢铁等多股跟涨。消息面上，国泰君安指出，压减粗钢产量政策大概率严格执行，行业或迎来供需缺口。上周5大品种钢材周产量1051.35万吨，环比上周降2.2万吨。另外，全球复苏背景下，美国钢价大幅上涨，国内钢材需求良好，钢铁行业将出现供需缺口。</span></p><p><img src="https://img3.gelonghui.com/66900-4fdc6ae0-4a00-4442-9c15-cef4c4cd6c9d.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>医美概念涨幅靠前，鲁商发展、览海医疗均触及涨停，爱美客涨超10%，华熙生物等个股跟涨。</p><p><img src="https://img3.gelonghui.com/c8253-8a713341-d866-4f87-b491-f6d31a2969c9.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>受有色金属行业发布减碳方案意见稿消息影响，有色冶炼加工板块走高，章源钨业、华锋股份、金田铜业均涨停，易成新能涨超12%，江西铜业等个股跟涨。根据国家有关部门《有色金属行业碳达峰实施方案》指出，到2025有色金属行业力争率先实现碳达峰，2040年力争实现减碳40%。这一计划比全国的碳达峰时间要至少提前五年。</p><p><img src="https://img3.gelonghui.com/b9e01-15657bbd-1ece-45da-bfc0-8872321590b3.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>部分氢能源概念股再度走强，京城股份、新天绿能、动力源、雪人股份均强势封板，滨化股份等多股跟涨。消息面上，北京市经济和信息化局4月7日发布《北京市氢能产业发展实施方案（2021-2025年）》（征求意见稿）。提出在2023年实现氢能产业链产业规模突破500亿元。到2025年京津冀区域累计实现氢能产业链产业规模1000亿元以上的具体目标。此外，光伏巨头隆基股份日前宣布入局氢能。</p><p><img src="https://img3.gelonghui.com/73a69-79d767aa-140f-4bd8-bb25-ea1a13246018.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>白酒板块拉升，酒鬼酒涨近7%，山西汾酒涨超5%，五粮液、泸州老窖等多股跟涨。4月7日，第104届全国糖酒商品交易会开幕。从参展数量、面积、品类等方面看，远超葡萄酒与国际烈酒，且更受客商欢迎。另外，近日酒鬼酒公布了其“十四五”发展目标，将构建中国白酒香型产区新格局，将“酒鬼酒”打造成中国文化白酒第一品牌。</p><p><img src="https://img3.gelonghui.com/29184-6c8fecec-9965-43dc-a14c-d25e1044b338.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p><span style="font-weight: 400;">碳中和概念股大幅走低，电力板块遭重挫。天富能源、江苏新能跌停，豫能控股、湖北能源跌超9%、银星能源、华银电力等跟跌。惟长源电力触及涨停，近一年该股涨停13次。长源电力昨日晚间公布，公司第一季度发电量同比增长44.29%。发电量上涨原因主要是湖北省去年同期受疫情影响，全省用电规模、火电发电量出现大幅下降，本期全省发用电已恢复正常。</span></p><p><img src="https://img3.gelonghui.com/0d914-ba8962ac-b196-4143-850e-2e0abe0053f9.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>环保股跌幅靠前，雪迪龙、菲达环保均触及跌停，中材节能、建工修复均跌超9%，先河环保等多股跟跌，巴安水务盘中一度跌逾11%，。巴安水务昨日发布业绩报告，2020年度由盈转亏，净亏损4.7亿元。菲达环保昨日发布年度报告， 公司2020年度净利润降42.28%。</p><p><img src="https://img3.gelonghui.com/69d02-7f6262df-38c0-49a7-a004-30beb5c5b7e9.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>北上资金全天净卖出17.03亿元，其中沪股通净卖出13.15亿元，深股通净卖出3.88亿元。</p><p><img src="https://img3.gelonghui.com/12d42-67d7ee0d-d306-4bbe-89df-06e6cd7d4f11.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"><span style="font-weight: 400;">山西证券指出，结合近期走势和成交量来看，市场短期将继续呈震荡走势，出现连续放量上涨的概率不大，不建议投资者盲目追涨操作。四月之后，减税红利进入密集落地期，在此背景下，宏观经济将维持较高活力，宏观数据将维持高景气度。未来在周期行业维持高景气，消费服务等行业持续复苏的背景下，A股中期将有横盘震荡向上走势。</span></p><p>操作策略上，华龙证券提到，不要着急加重仓位，可继续持股，逢低关注高景气的半导体产业链，景气度或延长的面板龙头，密切关注业绩优秀的蓝筹核心资产能否资金回流，以及年报和季报炒作的业绩大增相关标的。</p>  
+</div>
+            

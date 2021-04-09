@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 13缺点被指出，多项升级前所未有！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/08191828907339.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 08 Apr 2021 12:23:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202104/08191828907339.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文｜明美无限</p><p style="text-indent: 2em; text-align: left;">随着4月份的到来，苹果iPhone 13的发布也越来越近，相信大多数果粉们应该都清楚，苹果在中国市场拥有庞大的用户群体，而且对于华为和小米等手机厂商都是无法轻易忽视的对手。</p><p style="text-indent: 2em; text-align: left;">如今的苹果依旧有能力为消费者提供出色的旗舰产品，特别是在iPhone 11面临清仓，iPhone 12人气逐步下滑的情况下，它的下一款高端机会有什么样的表现，让人颇感期待，iPhone 13就是一个很好的例子。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/08191828907339.jpg" alt="iPhone 13唯一缺点被指出，其他升级前所未有！" title="iPhone 13唯一缺点被指出，其他升级前所未有！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这不据此前消息透露，iPhone 13系列除了配置上的升级之外，还将在外观上再次迎来改变，其被用户吐槽多年的刘海屏将有所改变，而且iPhone 13的发布时间已被确定，发布时间将会和往常差不多，9月份中旬正式发布。</p><p style="text-indent: 2em; text-align: left;">就拿近日知名苹果产品分析师郭明錤的预测报告来说，iPhone 13迎技术升级，这次“果粉”没有白等。虽然郭明錤的预测不一定会成真，但是他每年关于iPhone手机的爆料还是比较靠谱的，今年的iPhone 13也不例外。</p><p style="text-indent: 2em; text-align: left;">首先，郭明錤表示，iPhone 13将会迎来技术升级，在很多方面相较于iPhone 12都有明显的提升。例如iPhone 13会采用全新的电池设计方式，为的就是进一步提升续航水平，解决用户的电量困扰问题。</p><p style="text-indent: 2em; text-align: left;">再比如说iPhone 13的刘海面积也会明显缩小，这是因为苹果将在iPhone 13上首次采用景深镜头技术，让Face ID识别组件和前置摄像头整合到一起。这意味着iPhone 13将会是这么多年来前置刘海唯一发生变化的苹果手机，值得广大果粉期待。</p><p style="text-indent: 2em; text-align: left;">今天明美无限要值得一提的是，最近，日本网站给出了iPhone 13的首个机模上手视频。同时还给出了刘海参数，其中刘海宽度从5．3mm上升到了5．35mm，长度从34．83mm缩减到了26．8mm。长度的缩减还是很明显的。</p><p style="text-indent: 2em; text-align: left;">视频中还给出了与iPhone 12的对比，可以明显地看出刘海的长度确实缩小了不少，但是它的高度却有一定的增长。扬声器被放在了机身顶部边框的位置，红外摄像头和光线拍摄照明器则是向中间进行移动。整体造型与之前曝光的玻璃面板一致。</p><p style="text-indent: 2em; text-align: left;">当然，考虑到这家媒体爆料的准确率只有68％，此次机模照片也仅供大家参考。不过当前不少消息都称iPhone 13的听筒移到了顶部位置，现在来看还是很有可能的。</p><p style="text-indent: 2em; text-align: left;">顺便一提的是，自从iPhone X发布以来，有关新iPhone刘海变小的传闻一直都在。iPhone X首次引入了刘海设计，加入了原深感镜头，以实现面容ID解锁、支付。由于听筒位置的变化，以及前置摄像头位置更新，苹果公司有望将刘海做的更小。</p><p style="text-indent: 2em; text-align: left;">所以，如果对外观造型有需求的，想要看到一个全新设计的iPhone出现，恐怕果粉要失望了。而iPhone 12的用户，则能够获得长的使用时间。</p><p style="text-indent: 2em; text-align: left;">其次，iPhone 13还会搭载全新材料的显示屏幕，并且支持120Hz的高刷新率。这是iPhone 12被人吐槽的缺陷，苹果自然不会重蹈覆辙，iPhone 13有望全部补齐。</p><p style="text-indent: 2em; text-align: left;">另外方面是信号提升，iPhone 13全系都会使用高通X60 5G基带，这种基带有一个好处就是提升性能、降低延迟、增加速率，简单来说就是手机信号将会得到提升，除非是信号特别差，否则玩游戏的时候基本不会有卡顿的情况，这对于喜欢玩游戏的用户来说是个好消息。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/08191828439301.jpg" alt="iPhone 13唯一缺点被指出，其他升级前所未有！" title="iPhone 13唯一缺点被指出，其他升级前所未有！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">再有影像部分。天风国际分析师郭明錤今天发布最新报告称，根据其最新的产业调查，相信舜宇光学有望通过 iPhone 13 的 7P 广角镜头品质验证并取得订单，iPhone 13拥有一颗 f1．6 7P 广角镜头 。从目前的爆料来看，iPhone 13还是1200万像素主摄和1200像素超广角镜头的方案，主要还是通过强劲的内核驱动还有算法调教，苹果擅长通过算法调教进行照片解析力提升，在相机上也是一直“挤牙膏”的。</p><p style="text-indent: 2em; text-align: left;">此外呢，iPhone 13全系都有最大1TB的内部存储空间，并全部加上了LIDAR激光镭射镜头，并且据说电池容量也有望冲击4000毫安。如此看来虽然iPhone 13的外观没大变化，但配置上的提升能让其使用体验达到一个全新的高度。价格嘛肯定是要涨得，但明美无限希望价格不要涨得太离谱就好。</p><p style="text-indent: 2em; text-align: left;">除此之外呢，目前，iPhone 13系列的发布时间还未知，预计将于苹果秋季发布会亮相。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202104/08191828911787.jpg" alt="iPhone 13唯一缺点被指出，其他升级前所未有！" title="iPhone 13唯一缺点被指出，其他升级前所未有！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最后，明美无限还想说的就是：可以这么说，如今的苹果确实有能力为消费者提供各方面更加到位的产品， iPhone 13也必定被外界赋予厚望，如果它能够做到颜值性能、还有影像都兼顾的话，最终定一个合理的价格，那应该又是一款不错的旗舰机。</p><p style="text-indent: 2em; text-align: left;">那么，如果你们对于苹果公司的iPhone 13最新曝光还有什么想要说的，欢迎在评论区留言给明美无限参与一起讨论吧！</p> 
+  
+</div>
+            
