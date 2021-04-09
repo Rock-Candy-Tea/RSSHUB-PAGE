@@ -1,0 +1,18 @@
+
+---
+title: 'HMD 精简诺基亚产品线， 发布 X_G_C 系列多款新机'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606f42dcb15ec0311761258e_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 08 Apr 2021 18:09:31 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606f42dcb15ec0311761258e_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 9 日消息 在 4 月 8 日举行的发布会上，诺基亚发布多款入门级手机新品。诺基亚品牌所有者 HMD 表示，将在未来取消数字系列，精简产品线，仅保留 X/G/C 系列。三个系列多款新机在发布会上公布，此外还有一款真无线耳机。</p><p>诺基亚 X20、X10</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202104/606f42dcb15ec0311761258e_1024.jpg" data-height="810" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606f42dcb15ec0311761258e_1024.jpg" referrerpolicy="no-referrer"></div></div>这两款手机外观类似，均搭载最新的高通骁龙 480 处理器。这款芯片采用 8nm 工艺制造，支持双模 5G 信号、WiFi6 协议，采用 2 6 核心结构，大核频率 2.0GHz。手机搭载 6.7 英寸 LCD 挖孔全面屏，分辨率 1080 x 2400，具备 4470mAh 电池，支持 18W 快充，均支持 microSD 扩展。<p></p><p><strong>参数如下：</strong></p><p>存储：X20 为 6GB、8GB 内存可选，128GB ROM；X10 有 4GB 128GB 或 6GB 64GB/128GB 可选。</p><p>相机：X20 搭载 64MP 主摄 5MP 超广角镜头、200 万像素景深镜头、200 万像素微距镜头。X10 搭载 48MP 主摄，其它摄像头相同。</p><p>两款手机均采用侧边指纹识别方式，具备 3.5mm 耳机孔。</p><p>官方表示，诺基亚 X 系列提供 3 年的系统更新支持，X10 手机售价 250 欧元起，X20 售价 300 欧元起。</p><p>诺基亚 G20、G10</p><p>这两款手机搭载 6.52 英寸 720P LCO 屏幕，采用水滴屏设计。G20 搭载联发科 Helio G35 处理器，大核频率 2.3GHz；G10 搭载 Helio G25 处理器，大核频率 2.0GHz。手机电池容量为 5050mAh，支持 10W 充电</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202104/606f42dcb15ec0311761258f_1024.jpg" data-height="810" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202104/606f42dcb15ec0311761258f_1024.jpg" referrerpolicy="no-referrer"></div></div>存储：G20 为 4GB 内存 64/128GB 存储，G10 可选配 3GB/4GB 内存，提供 32 或 64GB 存储空间。两款手机均支持 microSD 扩展卡。<p></p><p>相机：G20 主摄 48MP，还具备 500 万像素超广角镜头、200 万像素景深镜头、200 万像素微距镜头。G10 具备 1300 万像素主摄，200 万像素景深镜头、200 万像素微距镜头。两款手机前摄均为 800 万像素。</p><p>这两款手机均配备指纹识别功能，具有独立的谷歌语音助手按钮。该系列产品提供 3 年的安全更新，2 年系统功能更新，售价仅为 110 欧元起。</p><p>诺基亚 C20、C10</p><p>这两款手机配备 6.52 英寸 LCD 水滴屏，分辨率同样仅为 720P。C20 搭载 Unisoc SC9863a 八核处理器，C10 搭载 Unisoc SC7331e 四核处理器，主频仅为 1.3GHz。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202104/606f42dcb15ec03117612590_1024.jpg" data-height="810" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606f42dcb15ec03117612590_1024.jpg" referrerpolicy="no-referrer"></div></div>存储方面，C20 仅提供 1GB/2GB 内存选项，16GB/32GB 存储空间。而 C10 型号仅提供 1GB 存储，16GB/32GB ROM。尽管手机支持 microSD 卡扩展，但不清楚 HMD 推出该系列手机的意义。<p></p><p>其它方面，手机配备 500 万像素前、后摄像头，具备 3000mAh 可拆卸电池，支持 5W 充电。手机配备安卓 Go 系统，支持 FM 收音机，重量 191g。C20 型号 1GB 16GB 版本售价 79 欧元，约合 615 元人民币，与国内二手市场小米 6 的售价相近。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202104/606f42dcb15ec03117612591_1024.jpg" data-height="810" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202104/606f42dcb15ec03117612591_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，诺基亚还推出了 Nokia Lite Earbuds ( BH-105 ) 真无线耳机，搭载 6mm 动圈单元，支持蓝牙 5，续航 6 小时，搭载充电盒续航 30 小时。这款产品售价为 30 欧元，约合 233 元人民币。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

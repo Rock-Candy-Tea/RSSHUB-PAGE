@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FtYuPaOLL1scVXo7LBhy5QBGDIjG'
 author: 探物
 comments: false
-date: 2021-04-09 00:27:26
+date: 2021-04-09 04:09:55
 thumbnail: 'https://resource.tanwuapp.com/FtYuPaOLL1scVXo7LBhy5QBGDIjG'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FtYuPaOLL1scVXo7LBhy5QBGDIjG" referrerpolicy="no-referrer"><br>
           <strong>大疆 FPV 航拍无人机 飞行眼镜穿越摇杆套装</strong><br><br>
-          价格: ￥49.00 / 日<br>
+          价格: ￥48.51 / 日<br>
           评分: 0.0
           
 </div>

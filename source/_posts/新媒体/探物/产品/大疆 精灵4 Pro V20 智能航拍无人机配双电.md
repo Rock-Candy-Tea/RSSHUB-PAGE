@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FvZn3TZtIVn3JbcxlNbn-UMUfMyP'
 author: 探物
 comments: false
-date: 2021-04-09 00:27:26
+date: 2021-04-09 04:09:55
 thumbnail: 'https://resource.tanwuapp.com/FvZn3TZtIVn3JbcxlNbn-UMUfMyP'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FvZn3TZtIVn3JbcxlNbn-UMUfMyP" referrerpolicy="no-referrer"><br>
           <strong>大疆 精灵4 Pro V2.0 智能航拍无人机配双电</strong><br><br>
-          价格: ￥48.00 / 日<br>
+          价格: ￥47.52 / 日<br>
           评分: 0.0
           
 </div>
