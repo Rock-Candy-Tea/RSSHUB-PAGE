@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.JPG?v=1617964215617'
 author: 巴哈姆特
 comments: false
-date: 2021-04-09 12:10:54
+date: 2021-04-10 00:27:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.JPG?v=1617964215617'
 ---
 
@@ -66,7 +66,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.
 <div>
  </div>
 <div>
-　　遊戲的故事背景設定在距今千餘年後的地球，當時的人類歷經重大浩劫導致文明衰退回中古世界的程度。</div>
+　　遊戲的故事背景設定在距今千餘年後的地球，當時的人類歷經重大浩劫導致文明衰退回中古世紀的程度。</div>
 <div>
 玩家將扮演一位住在邊境村莊的善良少年「尼爾」，為了拯救罹患不治之症「黑文病」的妹妹「悠娜」，而與會說人話的神秘書本「白書」一起踏上旅程，找尋治療妹妹的最後一線希望──「被封印的話語」。</div>
 <div>

@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=1266'
+headimg: 'https://picsum.photos/400/300?random=1410'
 author: Monotype
 comments: false
 date: Wed, 03 Feb 2021 10:52:05 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1266'
+thumbnail: 'https://picsum.photos/400/300?random=1410'
 ---
 
 <div>   
@@ -41,6 +41,9 @@ thumbnail: 'https://picsum.photos/400/300?random=1266'
             </div>
                   <div class="field__item">
         <a href="https://www.monotype.com/resources/tags/brand" hreflang="en">Brand fonts</a>
+            </div>
+                  <div class="field__item">
+        <a href="https://www.monotype.com/trends" hreflang="en">Type trends.</a>
             </div>
           </div>
 
