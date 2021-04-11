@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://picsum.photos/400/300?random=3582'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2cbd24fbc85a4c0~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Mon, 05 Apr 2021 00:14:29 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3582'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2cbd24fbc85a4c0~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -346,6 +346,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3582'
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-8">4.1 数据流组织</h3>
 <p>正向数据流组织及反向数据流处理是 View Model 的核心逻辑。组织正向数据流的代码如下，通过代码可以非常直观地阅读出以下关键信息，从而生成非常清晰的正向数据流拓扑：</p>
+<p><img alt="data-stream-topology.jpg" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2cbd24fbc85a4c0~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
 <ul>
 <li><code>usernameValid</code>依赖于<code>username</code>和<code>passwordValid</code>的值；</li>
 <li><code>passwordValid</code>依赖于<code>password</code>和<code>usernameValid</code>的值；</li>
@@ -501,7 +502,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3582'
 </ul>
 <p>总之，本文的轻量级 MVVM 框架方案可以用来体验 iOS 客户端开发中的 MVVM 架构模式的应用，或者理解 MVVM 架构的原理。本方案优点和缺点同等明显，由于目前缺乏完备的测试，以及对复杂业务场景的实践案例支撑，<strong>暂时不打算直接应用到开发项目中</strong>。</p>
 <h2 data-id="heading-11">附录</h2>
-<p>ObservableCombiner 实现代码如下。</p>
+<h3 data-id="heading-12">附录一：Combiner实现</h3>
 <pre><code class="hljs language-objc copyable" lang="objc"><span class="hljs-comment">// ObservableCombiner.m</span>
 
 <span class="hljs-class"><span class="hljs-keyword">@interface</span> <span class="hljs-title">ObservableCombiner</span> ()</span>
@@ -616,6 +617,8 @@ thumbnail: 'https://picsum.photos/400/300?random=3582'
 &#125;
 
 <span class="hljs-keyword">@end</span>
-<span class="copy-code-btn">复制代码</span></code></pre></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<span class="copy-code-btn">复制代码</span></code></pre>
+<h3 data-id="heading-13">附录二：源码</h3>
+<p>[1] <a href="https://github.com/Luminixus/DataDrivenMVVM.git" target="_blank" rel="nofollow noopener noreferrer">源码及Demo地址</a></p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
 </div>
             
