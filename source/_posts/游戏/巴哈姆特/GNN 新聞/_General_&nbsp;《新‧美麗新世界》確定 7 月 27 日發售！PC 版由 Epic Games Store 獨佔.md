@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/50/de49a6876999507a11303fefe41c27i5.JPG?v=1618195010900'
 author: 巴哈姆特
 comments: false
-date: 2021-04-12 08:09:34
+date: 2021-04-12 12:11:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/de49a6876999507a11303fefe41c27i5.JPG?v=1618195010900'
 ---
 
@@ -178,7 +178,7 @@ PC 版 2021 年夏季於 Epic Games Store 發售</h2>
 <div>
  </div>
 <div>
-<span style="color:#008000;"><b>南元（ミナミモト）</b></span></div>
+<span style="color:#008000;"><b>南師（ミナミモト）</b></span></div>
 <div>
 <span style="color:#008000;"><b>聲優：藤本隆行</b></span></div>
 <div>

@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=9804'
+headimg: 'https://picsum.photos/400/300?random=1585'
 author: PMCAFF
 comments: false
 date: Mon, 12 Apr 2021 14:55:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9804'
+thumbnail: 'https://picsum.photos/400/300?random=1585'
 ---
 
 <div>   
-请问在什么情况下要用到A/B Test，用A/B Test优缺点是什么呢？  
+请问在什么情况下要用到A/B Test，用A/B Test优缺点是什么呢？如何判定在什么时候要用A/B Test?先感谢各位回答  
 </div>
             

@@ -1,0 +1,19 @@
+
+---
+title: 'Pickering Interfaces公司将在Electronica China慕尼黑上海电子展上 重点展出PXI自动测试模块'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-4/12/Sunny/20210412173547_161822014763711325.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 12 Apr 2021 09:34:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-4/12/Sunny/20210412173547_161822014763711325.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">2021年4月14 – 16日，上海新国际博览中心，N4大厅4386号展台</p><p style="text-indent: 2em; text-align: left;">Pickering Interfaces公司作为生产用于电子测试及验证的信号开关与仿真解决方案的领导厂商，将参加于4月14 – 16日在上海新国际博览中心举办的Electronica China慕尼黑上海电子展，届时将重点展出五款开关和仿真新产品。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-4/12/Sunny/20210412173547_161822014763711325.png" width="555" referrerpolicy="no-referrer"></p><p style="text-align: center;">（企业供图）</p><p style="text-indent: 2em; text-align: left;">·PXI带有状态监测功能的多路复用模块（40－619系列）与一般的单刀2A 60W多路复用模块具有一致的性能，但采用了第二组继电器来确定多路复用通道的状态。每个多路复用通道上都带有一个额外的监测开关，这使得用户在施加测试信号之前可以通过外部测量设备来检查多路复用通道是否确实为 “断开” 的状态。该系列中的9款从16：1到128：1不同规格的产品均具有这个新功能，增强了测试系统设计的灵活性。该系列产品采用高品质的电磁继电器（EMR），可切换在250VAC／DC下最高2A的负载。此外，其紧凑的尺寸设计仅占用一个槽位，在提供通道监测的功能的同时最大程度地节省了机箱空间。</p><p style="text-indent: 2em; text-align: left;">·8槽（42－924系列）和18槽（42－925系列）的第三代PXI Express（PXIe）机箱，用于高性能的台面或机架安装的应用。两款机箱均具有智能机箱管理系统，该系统可监控电源电压、内部温度和冷却风扇的速度。42－924 8槽机箱提供7个混合插槽，增加了应用灵活性。42－925 18槽机箱提供一个PXIe系统槽、一个PXIe时序槽和16个混合槽，具有很强的通用性。任何3U的兼容PXI、PXIe或cPCI的模块都可以安装于这两款机箱的模块槽内。</p><p style="text-indent: 2em; text-align: left;">·PXI模拟输出模块（41－765系列）设计用于模拟采用4－20mA电流环的工业用变送器。41－765系列可以通过编程设置压摆率，以便有效地模拟不同的传感器。该系列模块具有多种不同的输出模式，包括4–20mA、0–24mA、＋／－24mA、0－5V、＋／－5V和＋／－12mV，功能多样并且有助于提高仿真的准确度。41－765系列模块是同类型的仿真模块种密度最高的，且仅占用一个PXI槽位，能提供16个通道，为PXI或LXI／USB机箱节省了插槽空间以便用于其他仪器。</p><p style="text-indent: 2em; text-align: left;">·PXI LVDT／RVDT／Resolver仿真模块（41－670系列）用于模拟LVDT、RVTD（线性／旋转可变差动变压器）或Resolver（旋转变压器）这类传感器。这款新模块仅占用一个PXI或LXI／USB机箱槽位，强大的可编程特点使得用户只需要极少数量的硬件就可以进行仿真。另外，由于这款模块需要安装在PXI机箱并配合用户的其他仪器一起使用，因此不需要额外的控制协议／接口，简化了操作。每个通道上自带一个<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2811-DigitalSignalProcessing.html" target="_blank" title="数字信号处理">数字信号处理</a></span>器（DSP），因此无需额外的仪器就可以进行测量。41－670模块提供5／6线4通道的配置用于LVDT／RVDT或Resolver仿真，或4线8通道配置用于LVDT／RVDT仿真。可选择独立的激励输入或共享激励输入对每个通道进行同步或异步测试。</p><p style="text-indent: 2em; text-align: left;">Pickering提供种类丰富齐全的开关和仿真解决方案，除了上述新品，他们还将展出PXI故障注入开关、射频和微波开关、高密度矩阵、程控<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%94%B5%E9%98%BB.HTM" target="_blank" title="电阻">电阻</a></span>以及可以安装Pickering大部分的PXI开关和仿真模块的模块化LXI／USB机箱。除此以外，Pickering还会展出他们的eBIRST开关系统检测工具和Switch Path Manager信号路由软件。</p><p style="text-indent: 2em; text-align: left;">Pickering Interfaces公司将与他们专业生产舌簧继电器的姐妹公司Pickering Electronics一起参展，共享N4．4386号展台。</p><p style="text-indent: 2em; text-align: left;"><strong>关于Pickering Interfaces公司</strong></p><p style="text-indent: 2em; text-align: left;">Pickering Interfaces设计并生产模块化信号开关和用于电子测试和验证的仿真产品。我们提供业内种类最全面的用于PXI、LXI和PCI应用的开关和仿真产品。同时我们也为这些产品提供配套的电缆连接线和<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2836-Componentconnector.html" target="_blank" title="连接器">连接器</a></span>配件、诊断测试工具以及由我们的内部软件团队创建的相关软件驱动。</p><p style="text-indent: 2em; text-align: left;">Pickering的产品专门用于全世界范围内的各种测试系统，并以杰出的可靠性和质量享誉全球。Pickering Interfaces在全世界多地如美国、英国、德国、瑞典、法国、捷克共和国以及中国都设有直接的办事处，并在美洲、欧洲以及亚洲多个国家拥有代理商。目前，我们的业务范围涵盖各种电子行业，如汽车、航空航天和国防、能源、工业、通信、医疗以及<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>。</p> 
+  
+</div>
+            
