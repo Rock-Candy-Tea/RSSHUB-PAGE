@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.JPG?v=1617964215617'
 author: 巴哈姆特
 comments: false
-date: 2021-04-12 00:28:44
+date: 2021-04-12 04:11:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.JPG?v=1617964215617'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/3da674ae754d160de0867550b11c23a5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　SQUARE ENIX 製作，即將於 2021 年 4 月 22 日（四）推出的動作角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%BC%E7%88%BE%EF%BC%9A%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD+ver.1.22474487139..." target="_blank">尼爾：人工生命 ver.1.22474487139...</a>（NieR <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Replica" target="_blank">Replica</a>nt ver.1.22474487139…）》（ PS4 / Xbox One / PC），巴哈姆特 GNN 日前搶先獲得官方提供的媒體預覽版，以下將透過試玩報導帶大家一窺這款經典強化移植版的初步內容。</div>
+　　SQUARE ENIX 製作，即將於 2021 年 4 月 22 日（四）推出的動作角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%BC%E7%88%BE%EF%BC%9A%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD+ver.1.22474487139..." target="_blank">尼爾：人工生命 ver.1.22474487139...</a>（NieR <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Replica" target="_blank">Replica</a>nt ver.1.22474487139…）》（PS4 / Xbox One / PC），巴哈姆特 GNN 日前搶先獲得官方提供的媒體預覽版，以下將透過試玩報導帶大家一窺這款經典強化移植版的初步內容。</div>
 <div>
  </div>
 <div>
