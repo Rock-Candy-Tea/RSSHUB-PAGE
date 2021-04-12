@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/4cbd5865-a593-4969-bbc0-a311b7215a49.jpg'
 author: 机核网
 comments: false
-date: 2021-04-11 12:10:59
+date: 2021-04-12 00:29:10
 thumbnail: 'https://image.gcores.com/4cbd5865-a593-4969-bbc0-a311b7215a49.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/4cbd5865-a593-4969-bbc0-a311b7215a49.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-c39i3" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="c39i3" data-offset-key="5a8ns-0-0"><div data-offset-key="5a8ns-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5a8ns-0-0"><span data-text="true">WayForward 宣布，曾于2002年在 GBC 上发售的横版动作冒险游戏《香缇》将于今年4月22日正式登陆 Nintendo Switch 平台。本次在 NS 上推出的初代游戏，还包括了 GBC 原版模式与 GBA 上的效果增强版模式。</span></span></div></div>
+<img src="https://image.gcores.com/4cbd5865-a593-4969-bbc0-a311b7215a49.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-4k3u3" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="4k3u3" data-offset-key="5a8ns-0-0"><div data-offset-key="5a8ns-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5a8ns-0-0"><span data-text="true">WayForward 宣布，曾于2002年在 GBC 上发售的横版动作冒险游戏《香缇》将于今年4月22日正式登陆 Nintendo Switch 平台。本次在 NS 上推出的初代游戏，还包括了 GBC 原版模式与 GBA 上的效果增强版模式。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/30c400c4-caf3-45e9-8153-27a7e7cff083.jpg" alt referrerpolicy="no-referrer">
 
@@ -41,6 +41,6 @@ thumbnail: 'https://image.gcores.com/4cbd5865-a593-4969-bbc0-a311b7215a49.jpg'
 <figure>
 <img src="https://image.gcores.com/b3aeb7e4-34ca-4f7f-bbae-989b303cc8ce.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="c39i3" data-offset-key="2u7j1-0-0"><div data-offset-key="2u7j1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2u7j1-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="4k3u3" data-offset-key="2u7j1-0-0"><div data-offset-key="2u7j1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2u7j1-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
