@@ -1,0 +1,78 @@
+
+---
+title: '今日正式EA上线《异界之上》一起来闯荡异世界吧！'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20210412/1618214279_805031.jpg'
+author: 3DMGame
+comments: false
+date: Mon, 12 Apr 2021 07:59:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210412/1618214279_805031.jpg'
+---
+
+<div>   
+<p style="text-indent:2em;">
+高自由度动作地牢冒险游戏《异界之上》EA版本今日13时正式上线，游戏将同时登陆Steam与WeGame平台。届时玩家将能够深入这座异世界城堡中开启冒险，与更多的魔物娘邂逅，获得她们的祝福能力，体验更加丰富多变的异世界冒险。今天游戏的宣传视频CG同步发布，下面就让我们一起来看看吧。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214279_805031.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<iframe src="//player.bilibili.com/player.html?aid=502565733&bvid=BV1aK411F761&cid=323070586&page=1" width="100%" height="458" frameborder="no" allowfullscreen="true">
+</iframe>
+</p>
+<p style="text-indent:2em;">
+<strong>在魔物娘的陪伴下勇闯异世界</strong>
+</p>
+<p style="text-indent:2em;">
+《异界之上》上线之后，玩家将进入异世界开启全新的冒险，在这里你能够邂逅到来自异世界的各色魔物娘，呆萌的章鱼娘、古灵精怪的猫娘，不同的种族也造就了形态各异魔物娘。她们拥有着与众不同的魔法能力，能够以祝福的方式强化玩家的武器，以丰富多样战斗方式去挑战城堡中的敌人。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214276_820676.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+魔物娘不仅会将她们的能力赋予玩家，同时也会化身魔物跟随在玩家左右，使用她们的能力协助玩家共同战斗。而魔物娘的必杀技更能够在战斗中为玩家提供强而有力的支援，选择不同的魔物娘，让她们成为你冒险路上的强大助力。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214292_955466.gif" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>开启新世界的大门</strong>
+</p>
+<p style="text-indent:2em;">
+在异世界的城堡之中，总是潜藏着重重危机。花园里的生物、厨房中的食材甚至墓地里的亡灵都会对你发起袭击。你手中的武器以及伴随身旁的魔物娘，就是过关的最佳保障。组合利用来自魔物娘的能力，应对来自魔物BOSS的每一场挑战。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214283_284147.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+面对凶险无比的异世界城堡，你可以从每一次的冒险中收获魔晶石，通过蛋黄酱的神奇坩埚提升你的天赋能力，随着冒险次数的逐步增加，你的战斗能力也将成倍提升，在不断的战斗中变强直至抵达这座异世界城堡的最深处，揭开城堡中深埋的真相。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214288_419906.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>WeGame特惠折扣券发放中</strong>
+</p>
+<p style="text-indent:2em;">
+现在《异界之上》在WeGame平台的特惠折扣券仍在发放中，并且新老玩家都能够享受到游戏的特惠折扣，玩家只需要前往WeGame预售活动页面即可领取特惠折扣券。此外，在本次活动中，《异界之上》还为所有曾经参与过游戏测试的玩家发放了专属优惠券，所有曾经参与过游戏测试的玩家都可以在WeGame平台上领取专属优惠折扣购买游戏。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214301_931396.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>B站主播招募活动火热进行中</strong>
+</p>
+<p style="text-indent:2em;">
+随着游戏的正式上线，《异界之上》的B站主播招募活动也已开放，即刻开播、投稿视频，就有海量好礼等你拿!想要参与活动的话可以前往直播平台，搜索“异界之上”游戏分区根据活动提示报名参加。并且，B站主播抽风Crazy及C酱です将作为首发主播在今晚开启游戏直播，有兴趣的玩家记得锁定主播直播间，还有机会抽取由主播发放的游戏KEY。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210412/1618214297_742256.jpg" alt="今日正式EA上线《异界之上》一起来闯荡异世界吧！" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+《异界之上》今日下午13时正式上线，届时玩家便可以穿越异世界，与魔物娘邂逅开启一场非同寻常的异世界冒险。现在前往Steam及WeGame平台，搜索“异界之上”购买游戏，还可享受限时折扣优惠哦!
+</p>          
+</div>
+            

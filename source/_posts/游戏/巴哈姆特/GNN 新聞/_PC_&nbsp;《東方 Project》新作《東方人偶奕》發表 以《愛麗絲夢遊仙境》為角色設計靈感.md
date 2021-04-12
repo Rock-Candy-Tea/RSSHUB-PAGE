@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/e1bc9cfbe22c82c0ecec6d4b151c2bh5.JPG?v=1618198707122'
 author: 巴哈姆特
 comments: false
-date: 2021-04-12 04:11:54
+date: 2021-04-12 08:09:34
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/e1bc9cfbe22c82c0ecec6d4b151c2bh5.JPG?v=1618198707122'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/e1bc9cfbe22c82c0ecec6d4b151c2bh5.
 <div>
 <div>
 <div>
-　　遊戲開發商 Why so serious? 近日將在直播節目「東方 Station」中公開《東方 Project》系列遊戲的新作情報，同時透露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》夏季更新資訊。</div>
+　　遊戲開發商暨發行商 Why so serious? 近日將在直播節目「東方 Station」中公開《東方 Project》系列遊戲的新作情報，同時透露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》夏季更新資訊。</div>
 <div>
  </div>
 <h2>
@@ -27,7 +27,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/e1bc9cfbe22c82c0ecec6d4b151c2bh5.
  </div>
 <div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%81%B6%E5%A5%95" target="_blank">東方人偶奕</a>》是一款以《東方 Project》角色製作的人偶做對奕、在上線競爭並組建團隊的遊戲，本作支援線上四人對戰。官方指出，如果玩家收集齊全相對應的種族角色，或者具有特殊情感的角色組成同一團隊，那便能強化玩家手中的棋子。</div>
+　　由 milliondoubts 研發、Why so serious? 發行的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%81%B6%E5%A5%95" target="_blank">東方人偶奕</a>》是一款以《東方 Project》角色製作的人偶做對奕、在上線競爭並組建團隊的遊戲，本作支援線上四人對戰。官方指出，如果玩家收集齊全相對應的種族角色，或者具有特殊情感的角色組成同一團隊，那便能強化玩家手中的棋子。</div>
 <div>
  </div>
 <div>
@@ -104,7 +104,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/e1bc9cfbe22c82c0ecec6d4b151c2bh5.
 <div>
  </div>
 <div>
-　　除了新作發表外，開發團隊還公開了已上市《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》後續更新消息，並宣布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9D%B1%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C" target="_blank">東方月神夜</a>》累積銷量超過 25 萬份，而《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》銷量則突破 10 萬套。</div>
+　　除了新作發表外，開發團隊 Why so serious? 還公開了旗下已推出遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》後續更新消息，並宣布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9D%B1%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C" target="_blank">東方月神夜</a>》累積銷量超過 25 萬份，而《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E9%84%89%E8%90%83%E5%A4%9C%E7%A5%AD" target="_blank">幻想鄉萃夜祭</a>》銷量則突破 10 萬套。</div>
 <div>
  </div>
 <h2>
