@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/ea75a4a49a43459fa1e967692c1ce0f5.jpeg?date=1618194969484'
+headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/4356b29103e24cd19ba71b37062498b8.jpg?date=1618284831766'
 author: Hpoi 手办维基
 comments: false
-date: Mon, 12 Apr 2021 08:28:25 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/ea75a4a49a43459fa1e967692c1ce0f5.jpeg?date=1618194969484'
+date: Mon, 12 Apr 2021 09:11:24 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/4356b29103e24cd19ba71b37062498b8.jpg?date=1618284831766'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/20
                     
                 
                     
-                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/ea75a4a49a43459fa1e967692c1ce0f5.jpeg?date=1618194969484" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/4356b29103e24cd19ba71b37062498b8.jpg?date=1618284831766" referrerpolicy="no-referrer">  
 </div>
             

@@ -40,6 +40,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/mic
 <li><a href="https://9to5mac.com/2019/08/26/apple-health-records-partnership-allscripts/">Apple strikes deal for its Health Records to work with Allscripts’ large electronic health record platform</a></li>
 </ul>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://apple.co/2QgqkKf"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/Vectornator-Native-Banner-Ad.jpg?quality=82&strip=all" alt class="wp-image-711811" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
