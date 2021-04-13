@@ -14,7 +14,8 @@ thumbnail: 'https://pic2.zhimg.com/80/v2-913954e86b40c23505060774be8056c1_720w.j
 
 <div>   
 <div class="content">
-                                                                                            <blockquote>
+                                                                    
+                                                        <blockquote>
  <strong>摘要：</strong>MindSpore很多新特性与大家见面了，无论是在效率提升、易用性，还是创新方面，都是干货满满。
 </blockquote> 
 <p>本文分享自华为云社区《<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fbbs.huaweicloud.com%2Fblogs%2F255597%3Futm_source%3Doschina%26utm_medium%3Dbbs-ex%26utm_campaign%3Dei%26utm_content%3Dcontent" target="_blank">MindSpore开源一年的新特性介绍</a>》，原文作者：简单坚持。</p> 

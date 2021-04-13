@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561'
 author: 巴哈姆特
 comments: false
-date: 2021-04-13 08:09:33
+date: 2021-04-13 12:11:17
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.59%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -37,7 +37,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.
 <div>
  </div>
 <div style="text-align: center;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG?v=1618288256447" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG 2x" alt="image" referrerpolicy="no-referrer"></div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG?v=1618288256447" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/64bc77683c5c1143e7fb2702d01c2vv5.JPG 2x" referrerpolicy="no-referrer"></div>
 <div>
  </div>
 <div>

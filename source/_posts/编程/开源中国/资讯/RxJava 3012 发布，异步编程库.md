@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2632'
+headimg: 'https://picsum.photos/400/300?random=9098'
 author: 开源中国
 comments: false
 date: Tue, 13 Apr 2021 07:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2632'
+thumbnail: 'https://picsum.photos/400/300?random=9098'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>RxJava 是一个在 Java VM 上使用可观测的序列来组成异步的、基于事件的程序的库。它扩展了 observer pattern 以支持数据/事件序列，并添加了运算符，使您可以声明性地将序列组合在一起，同时抽象化了对低级线程、同步、线程安全和并发数据结构等问题的关注。</p> 
+                                                                    
+                                                        <p>RxJava 是一个在 Java VM 上使用可观测的序列来组成异步的、基于事件的程序的库。它扩展了 observer pattern 以支持数据/事件序列，并添加了运算符，使您可以声明性地将序列组合在一起，同时抽象化了对低级线程、同步、线程安全和并发数据结构等问题的关注。</p> 
 <p>RxJava 3.0.12 正式发布，此次更新内容如下：</p> 
 <p>Bug 修复：</p> 
 <ul> 

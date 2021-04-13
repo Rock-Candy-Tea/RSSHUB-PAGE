@@ -14,7 +14,8 @@ thumbnail: 'https://gitee.com/erupt/erupt/raw/master/readme/login2.png'
 
 <div>   
 <div class="content">
-                                                                                            <h1 style="text-align:left"><span style="color:#1abc9c">本次更新内容</span></h1> 
+                                                                    
+                                                        <h1 style="text-align:left"><span style="color:#1abc9c">本次更新内容</span></h1> 
 <ul> 
  <li>🐞 修复CHOICE组件如果修饰类型非string时，模糊查询报错的bug</li> 
  <li>🐞 修复代码生成器，下载后文件存在 &gt; &lt; 特殊符号的问题</li> 

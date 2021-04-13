@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6990'
+headimg: 'https://picsum.photos/400/300?random=3884'
 author: 开源中国
 comments: false
 date: Tue, 13 Apr 2021 09:33:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6990'
+thumbnail: 'https://picsum.photos/400/300?random=3884'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Changelog:</p> 
+                                                                    
+                                                        <p>Changelog:</p> 
 <p>修复固定值被引用值覆盖的问题<br> 修复在更新路由时路由与appid的关系丢失的问题<br> 更新管理后台的bladex依赖到v2.7.2</p> 
 <p>Fixed the issue where fixed values were overwritten by reference values when expecting merge in path mapping<br> Fixed the issue where the relationship between route and appid was lost when updating the route<br> Update the version of core of fizz-manager to v2.7.2</p> 
 <p> </p> 

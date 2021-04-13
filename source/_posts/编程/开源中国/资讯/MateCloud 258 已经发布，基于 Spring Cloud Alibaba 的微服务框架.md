@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1775'
+headimg: 'https://picsum.photos/400/300?random=7324'
 author: 开源中国
 comments: false
 date: Tue, 13 Apr 2021 09:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1775'
+thumbnail: 'https://picsum.photos/400/300?random=7324'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>MateCloud 2.5.8 已经发布，基于 Spring Cloud Alibaba 的微服务框架</p> 
+                                                                    
+                                                        <p>MateCloud 2.5.8 已经发布，基于 Spring Cloud Alibaba 的微服务框架</p> 
 <p>此版本更新内容包括：</p> 
 <h2>功能升级</h2> 
 <ul> 

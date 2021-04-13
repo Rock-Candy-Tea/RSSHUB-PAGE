@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-6cfe90e064500c1c0a72b04659656a6
 
 <div>   
 <div class="content">
-                                                                                            <p><span style="background-color:#ffffff; color:#333333">聚惠星商城 DTS-SHOP，基于 微信小程序 + springboot + vue 技术构建</span> ，目前发布2.0版本，升级功能点如下：</p> 
+                                                                    
+                                                        <p><span style="background-color:#ffffff; color:#333333">聚惠星商城 DTS-SHOP，基于 微信小程序 + springboot + vue 技术构建</span> ，目前发布2.0版本，升级功能点如下：</p> 
 <ul> 
  <li> <p>重构后台代码，调整项目模块，增加商户UI前端以及商户后台模块</p> </li> 
  <li> <p>分布式支持，引入redis。调整用户登录及缓存信息的存储</p> </li> 

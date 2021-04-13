@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=691'
+headimg: 'https://picsum.photos/400/300?random=4421'
 author: 开源中国
 comments: false
 date: Tue, 13 Apr 2021 07:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=691'
+thumbnail: 'https://picsum.photos/400/300?random=4421'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Ruby 发布了四个版本更新，分别是 3.0.1, 2.7.3, 2.6.7 和 2.5.9，更新内容主要是修复安全问题。</p> 
+                                                                    
+                                                        <p>Ruby 发布了四个版本更新，分别是 3.0.1, 2.7.3, 2.6.7 和 2.5.9，更新内容主要是修复安全问题。</p> 
 <h3>Ruby 3.0.1</h3> 
 <p>此版本包括以下安全修复：</p> 
 <ul> 
