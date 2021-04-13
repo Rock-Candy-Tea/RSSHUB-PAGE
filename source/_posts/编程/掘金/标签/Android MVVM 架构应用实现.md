@@ -107,9 +107,11 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70c29c2af5474da6a6
 <span class="copy-code-btn">复制代码</span></code></pre>
 </li>
 </ul>
-<ol start="4">
+</li>
 <li>
 <p>Fragment类实现：</p>
+</li>
+</ol>
 <p>实现HomeFragment类作为视图层，其中分为两步：</p>
 <ul>
 <li>
@@ -140,10 +142,6 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70c29c2af5474da6a6
 <span class="copy-code-btn">复制代码</span></code></pre>
 </li>
 </ul>
-</li>
-</ol>
-</li>
-</ol>
 <p>自此，一个MVVM架构的应用搭建完成，第一次独立的搭建MVVM架构之后，对于MVVM架构的理解加深了不少，对于JetPack库中的组件和其它开源库也有了新的认识，此外MVVM架构还经常和Retrofit、RxJava等开源库配合使用，希望以后有机会可以再进行实践操作！！</p>
 <p>本项目源代码<a href="https://github.com/CheatGZ/android_all_star_app" target="_blank" rel="nofollow noopener noreferrer">android_all_star_app</a></p>
 <p>本项目使用开源组件库：koin、timber、permissionx、BaseRecyclerViewAdapterHelper</p>

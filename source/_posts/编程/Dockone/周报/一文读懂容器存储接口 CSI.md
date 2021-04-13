@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c152865bdfaa97.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg'
 author: Dockone
 comments: false
-date: 2021-04-12 12:10:35
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c152865bdfaa97.png'
+date: 2021-04-13 00:28:27
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c152865bdfaa97.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 惠志<br>
 来源 | <a href="https://mp.weixin.qq.com/s/A9xWKMmrxPyOEiCs_sicYQ">阿里巴巴云原生公众号</a><br>
 <br><blockquote><br><strong>导读：</strong>在<a href="https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247490043&idx=1&sn=c09ad4a9bc790f4b742abd8ca1301ffb&scene=21#wechat_redirect">《一文读懂 K8s 持久化存储流程》</a>一文我们重点介绍了 K8s 内部的存储流程，以及 PV、PVC、StorageClass、Kubelet 等之间的调用关系。接下来本文将将重点放在 CSI（Container Storage Interface）容器存储接口上，探究什么是 CSI 及其内部工作原理。</blockquote><h1>背景</h1>K8s 原生支持一些存储类型的 PV，如 iSCSI、NFS、CephFS 等等（详见<a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#types-of-persistent-volumes">链接</a>），这些 in-tree 类型的存储代码放在 Kubernetes 代码仓库中。这里带来的问题是 K8s 代码与三方存储厂商的代码<strong>强耦合</strong>：<br>
@@ -21,17 +20,17 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c1528
 <br>CSI 容器存储接口标准的出现解决了上述问题，将三方存储代码与 K8s 代码解耦，使得三方存储厂商研发人员只需实现 CSI 接口（无需关注容器平台是 K8s 还是 Swarm 等）。<br>
 <br><h1>CSI 核心流程介绍</h1>在详细介绍 CSI 组件及其接口之前，我们先对 K8s 中 CSI 存储流程进行一个介绍。《一文读懂 K8s 持久化存储流程》一文介绍了 K8s 中的 Pod 在挂载存储卷时需经历三个的阶段：Provision/Delete（创盘/删盘）、Attach/Detach（挂接/摘除）和 Mount/Unmount（挂载/卸载），下面以图文的方式讲解 K8s 在这三个阶段使用 CSI 的流程。<br>
 <br><h2>1. Provisioning Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg" class="img-polaroid" title="1.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/116bec4216f3b7817c27e4b29adb170e.jpg" class="img-polaroid" title="1.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>集群管理员</strong>创建 StorageClass 资源，该 StorageClass 中包含 CSI 插件名称（provisioner:pangu.csi.alibabacloud.com）以及存储类必须的参数（parameters: type=cloud_ssd）。sc.yaml 文件如下：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/c4f55094de55489e54cf8841d11cde73.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/c4f55094de55489e54cf8841d11cde73.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/c4f55094de55489e54cf8841d11cde73.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/c4f55094de55489e54cf8841d11cde73.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>2.<strong>用户</strong>创建 PersistentVolumeClaim 资源，PVC 指定存储大小及 StorageClass（如上）。pvc.yaml 文件如下：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/c3ec1cc153d46ad29d48f4e3cc11ccae.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/c3ec1cc153d46ad29d48f4e3cc11ccae.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/c3ec1cc153d46ad29d48f4e3cc11ccae.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/c3ec1cc153d46ad29d48f4e3cc11ccae.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>3.<strong>卷控制器（PersistentVolumeController）</strong>观察到集群中新创建的 PVC 没有与之匹配的 PV，且其使用的存储类型为 out-of-tree，于是为 PVC 打 annotation：volume.beta.kubernetes.io/storage-provisioner=[out-of-tree CSI 插件名称]（本例中即为 provisioner:pangu.csi.alibabacloud.com）。<br>
@@ -40,41 +39,41 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c1528
 <br>5.<strong>外部 CSI 插件</strong>返回成功后表示盘创建完成，此时<strong>External Provisioner 组件</strong>会在集群创建一个 PersistentVolume 资源。<br>
 <br>6.<strong>卷控制器</strong>会将 PV 与 PVC 进行绑定。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/1852521a16f49a4f71cda16bc66eba5a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/1852521a16f49a4f71cda16bc66eba5a.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/1852521a16f49a4f71cda16bc66eba5a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/1852521a16f49a4f71cda16bc66eba5a.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h2>2. Attaching Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/dafe17ceaaf1b5ab6bb21b14c33b7724.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/dafe17ceaaf1b5ab6bb21b14c33b7724.jpg" class="img-polaroid" title="5.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/dafe17ceaaf1b5ab6bb21b14c33b7724.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/dafe17ceaaf1b5ab6bb21b14c33b7724.jpg" class="img-polaroid" title="5.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>AD 控制器（AttachDetachController）</strong>观察到使用 CSI 类型 PV 的 Pod 被调度到某一节点，此时<strong>AD 控制器</strong>会调用<strong>内部 in-tree CSI 插件（csiAttacher）</strong>的 Attach 函数。<br>
 <br>2.<strong>内部 in-tree CSI 插件（csiAttacher）</strong>会创建一个 VolumeAttachment 对象到集群中。<br>
 <br>3.<strong>External Attacher </strong>观察到该 VolumeAttachment 对象，并调用<strong>外部 CSI插件</strong>的<strong>ControllerPublish 函数</strong>以将卷挂接到对应节点上。<strong>外部 CSI 插件</strong>挂载成功后，<strong>External Attacher</strong>会更新相关 VolumeAttachment 对象的 .Status.Attached 为 true。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/60a0e2a42ac5164490e9a0f8acb0aef6.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/60a0e2a42ac5164490e9a0f8acb0aef6.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/60a0e2a42ac5164490e9a0f8acb0aef6.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/60a0e2a42ac5164490e9a0f8acb0aef6.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>4.<strong>AD 控制器内部 in-tree CSI 插件（csiAttacher）</strong>观察到 VolumeAttachment 对象的 .Status.Attached 设置为 true，于是更新<strong>AD 控制器</strong>内部状态（ActualStateOfWorld），该状态会显示在 Node 资源的 .Status.VolumesAttached 上。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/9af1c6f738018ff185c3a42866d7767f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/9af1c6f738018ff185c3a42866d7767f.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/9af1c6f738018ff185c3a42866d7767f.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/9af1c6f738018ff185c3a42866d7767f.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h2>3. Mounting Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/e1d471302d8c707dc55f1f1b37ca0ec2.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/e1d471302d8c707dc55f1f1b37ca0ec2.jpg" class="img-polaroid" title="8.jpg" alt="8.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/e1d471302d8c707dc55f1f1b37ca0ec2.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/e1d471302d8c707dc55f1f1b37ca0ec2.jpg" class="img-polaroid" title="8.jpg" alt="8.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>Volume Manager（Kubelet 组件）</strong>观察到有新的使用 CSI 类型 PV 的 Pod 调度到本节点上，于是调用<strong>内部 in-tree CSI 插件（csiAttacher）</strong>的 WaitForAttach 函数。<br>
 <br>2.<strong>内部 in-tree CSI 插件（csiAttacher）</strong>等待集群中 VolumeAttachment 对象状态 .Status.Attached 变为 true。<br>
 <br>3.<strong>in-tree CSI 插件（csiAttacher）</strong>调用 MountDevice 函数，该函数内部通过 unix domain socket 调用<strong>外部 CSI 插件</strong>的<strong>NodeStageVolume 函数</strong>；之后<strong>插件（csiAttacher）</strong>调用<strong>内部 in-tree CSI 插件（csiMountMgr）</strong>的 SetUp 函数，该函数内部会通过 unix domain socket 调用<strong>外部 CSI 插件</strong>的<strong>NodePublishVolume 函数</strong>。<br>
 <br><h2>4. Unmounting Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/a682506b8bdec0b8957434d9d46a8151.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/a682506b8bdec0b8957434d9d46a8151.jpg" class="img-polaroid" title="9.jpg" alt="9.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/a682506b8bdec0b8957434d9d46a8151.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/a682506b8bdec0b8957434d9d46a8151.jpg" class="img-polaroid" title="9.jpg" alt="9.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>用户</strong>删除相关 Pod。<br>
 <br>2.<strong>Volume Manager（Kubelet 组件）</strong>观察到包含 CSI 存储卷的 Pod 被删除，于是调用<strong>内部 in-tree CSI 插件（csiMountMgr）</strong>的 TearDown 函数，该函数内部会通过 unix domain socket 调用<strong>外部 CSI 插件</strong>的 <strong>NodeUnpublishVolume 函数</strong>。<br>
 <br>3.<strong>Volume Manager（Kubelet 组件）</strong>调用<strong>内部 in-tree CSI 插件（csiAttacher）</strong>的 UnmountDevice 函数，该函数内部会通过 unix domain socket 调用<strong>外部 CSI 插件</strong>的 <strong>NodeUnpublishVolume 函数</strong>。<br>
 <br><h2>5. Detaching Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/8d59e88122679ab42bb755b8765eb67b.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/8d59e88122679ab42bb755b8765eb67b.jpg" class="img-polaroid" title="10.jpg" alt="10.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/8d59e88122679ab42bb755b8765eb67b.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/8d59e88122679ab42bb755b8765eb67b.jpg" class="img-polaroid" title="10.jpg" alt="10.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>AD 控制器</strong>观察到包含 CSI 存储卷的 Pod 被删除，此时该控制器会调用<strong>内部 in-tree CSI 插件（csiAttacher）</strong>的 Detach 函数。<br>
@@ -82,7 +81,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c1528
 <br>3.<strong>External Attacher</strong>观察到集群中 VolumeAttachment 对象的 DeletionTimestamp 非空，于是调用<strong>外部 CSI 插件</strong>的<strong>ControllerUnpublish 函数</strong>以将卷从对应节点上摘除。<strong>外部 CSI 插件</strong>摘除成功后，<strong>External Attacher</strong>会移除相关 VolumeAttachment 对象的 finalizer 字段，此时 VolumeAttachment 对象被彻底删除。<br>
 <br>4.<strong>AD 控制器</strong>中<strong>内部 in-tree CSI 插件（csiAttacher）</strong>观察到 VolumeAttachment 对象已删除，于是更新<strong>AD 控制器</strong>中的内部状态；同时<strong>AD 控制器</strong>更新 Node 资源，此时 Node 资源的 .Status.VolumesAttached 上已没有相关挂接信息。<br>
 <br><h2>6. Deleting Volumes</h2><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/ce4a43c41c6e0a1fed7682994baa3fc3.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/ce4a43c41c6e0a1fed7682994baa3fc3.jpg" class="img-polaroid" title="11.jpg" alt="11.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/ce4a43c41c6e0a1fed7682994baa3fc3.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/ce4a43c41c6e0a1fed7682994baa3fc3.jpg" class="img-polaroid" title="11.jpg" alt="11.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>1.<strong>用户</strong>删除相关 PVC。<br>
@@ -93,7 +92,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/e4f9702599c4417184c1528
 <br><h3><strong>2）原理</strong></h3><strong>Node-Driver-Registrar 组件</strong>通过Kubelet 外部插件注册机制实现注册，注册成功后：<br>
 <ul><li><br><strong>Kubelet</strong>为本节点 Node 资源打 annotation：<strong>Kubelet</strong>调用<strong>外部 CSI 插件</strong>的<strong>NodeGetInfo 函数</strong>，其返回值 [nodeID]、[driverName] 将作为值用于 "csi.volume.kubernetes.io/nodeid" 键。</li><li><br><strong>Kubelet</strong>更新 Node Label：将<strong>NodeGetInfo 函数</strong>返回的 [AccessibleTopology] 值用于节点的 Label。</li><li><br><strong>Kubelet</strong>更新 Node Status：将<strong>NodeGetInfo 函数</strong>返回的 maxAttachLimit（节点最大可挂载卷数量）更新到 Node 资源的 Status.Allocatable：attachable-volumes-csi-[driverName]=[maxAttachLimit]。</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210412/b6a313269bf62862a64f6cffa2f9acdf.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210412/b6a313269bf62862a64f6cffa2f9acdf.png" class="img-polaroid" title="12.png" alt="12.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210412/b6a313269bf62862a64f6cffa2f9acdf.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210412/b6a313269bf62862a64f6cffa2f9acdf.png" class="img-polaroid" title="12.png" alt="12.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li><strong>Kubelet</strong>更新 CSINode 资源（没有则创建）：将 [driverName]、[nodeID]、[maxAttachLimit]、[AccessibleTopology] 更新到 Spec 中（拓扑仅保留 Key 值）。</li></ul><br>
