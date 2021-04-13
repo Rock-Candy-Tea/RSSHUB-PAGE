@@ -91,7 +91,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/04/zTCO3wpqJ2UUQFbL7YnP.png" alt width="1350" height="844" referrerpolicy="no-referrer"></p>
 <p>在产品规划设计中，C端产品需要不断为用户提供价值，用腾讯的话来说，“一切以用户价值为归依”。假设你的产品终极价值是要帮助用户更快到达某地，那在MVP版本设计时，你需要做的就是交付更小成本、更快到达某地的工具。从产品功能层面来讲，你需要确保交付产品每个版本的完整性、可用性。就如上图所示，要给个滑板而不是车轱辘。</p>
 <p>而B端SaaS产品MVP阶段，如下图所示：（ps请忽略我画的只有4个版本的汽车..）</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/04/RoP4uLRbE8PQ3Rh1gxXO.png" alt width="1350" height="844" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/04/metr8qat84eayfD1X12b.png" alt width="1990" height="1050" referrerpolicy="no-referrer"></p>
 <p>在用户价值层面和C端是一致的，也是需要帮助用户更快的到达某地。</p>
 <p>但需要注意的是，在产品功能设计层面，如果产品终极价值是要给帮助用户更快的到达某地，而现阶段受限于技术实现，最快的交通工具只能是汽车时，那你就必须造车。而不是一开始交付滑板，然后是自行车。如果你这么干了，那后续每次版本迭代都是一场“重构”灾难。</p>
 <h2 id="toc-2">二、判断</h2>
@@ -206,6 +206,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>本文由 @82年的老花生 原创发布于人人都是产品经理，未经许可，禁止转载</p>
 <p>题图来自 Unsplash，基于 CC0 协议</p>
 <div class="support-author"><div class="support-title">给作者打赏，鼓励TA抓紧创作！</div><button class="button--pay" data-post-id="4460306" data-author="203826" data-avatar="http://image.woshipm.com/wp-files/2021/04/n21s79h5frqsnNo3TOJ7.jpeg"><svg width="13" height="16" class="svgIcon--use" viewBox="0 0 13 16"><path d="M9.113,4.571 C9.951,3.771 10.895,2.742 10.685,2.057 C10.475,1.485 10.056,0.799 9.427,0.571 C8.903,0.342 8.379,0.456 7.750,0.799 C7.540,0.342 7.016,0.114 6.596,-0.001 C5.863,-0.001 5.234,0.228 4.814,0.914 C4.080,0.571 3.451,0.685 2.927,1.028 C2.613,1.256 2.298,1.713 2.298,2.628 C2.298,3.542 3.137,4.228 3.766,4.685 C2.508,5.599 -0.218,7.885 -0.008,12.228 C-0.218,15.656 2.613,15.999 2.613,15.999 L10.371,15.999 C11.314,15.885 12.991,14.971 12.991,12.571 L12.991,12.228 C13.201,7.771 10.371,5.371 9.113,4.571 L9.113,4.571 ZM8.932,11.835 L6.940,11.835 L6.940,13.207 C6.940,13.435 6.731,13.549 6.521,13.549 C6.311,13.549 6.102,13.435 6.102,13.207 L6.102,11.835 L4.110,11.835 C3.900,11.835 3.795,11.606 3.795,11.378 C3.795,11.149 3.900,10.921 4.110,10.921 L6.102,10.921 L6.102,10.121 L4.949,10.121 C4.739,10.121 4.634,9.892 4.634,9.664 C4.634,9.435 4.739,9.206 4.949,9.206 L5.892,9.206 L4.739,7.950 C4.634,7.835 4.739,7.606 4.949,7.492 C5.158,7.378 5.368,7.264 5.473,7.378 L6.521,8.635 L7.674,7.264 C7.779,7.149 7.989,7.264 8.198,7.378 C8.408,7.492 8.408,7.721 8.408,7.835 L7.150,9.321 L8.094,9.321 C8.303,9.321 8.408,9.549 8.408,9.778 C8.408,10.007 8.303,10.235 8.094,10.235 L6.940,10.235 L6.940,11.035 L8.932,11.035 C9.142,11.035 9.247,11.264 9.247,11.493 C9.247,11.606 9.037,11.835 8.932,11.835 L8.932,11.835 Z"/></svg>
-赞赏</button></div>                      
+赞赏</button><div class="pay-num">1人打赏</div><div class="donation-list"><div class="donation-item"><img class="avatar" src="https://static.woshipm.com/TTW_USER_R_201706_20170602174803_4361.jpg?imageView2/1/w/80" height="32" width="32" referrerpolicy="no-referrer"></div></div></div>                      
 </div>
             
