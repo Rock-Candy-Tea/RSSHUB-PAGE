@@ -1,0 +1,99 @@
+
+---
+title: 'Fluid给数据弹性一双隐形的翅膀 （1） -- 自定义弹性伸缩'
+categories: 
+ - 编程
+ - segmentfault
+ - 用户
+headimg: 'https://segmentfault.com/img/bVcRe8x'
+author: segmentfault
+comments: false
+date: 2021-04-14 08:08:45
+thumbnail: 'https://segmentfault.com/img/bVcRe8x'
+---
+
+<div>   
+<p>简介：弹性伸缩作为Kubernetes的核心能力之一，但它一直是围绕这无状态的应用负载展开。而Fluid提供了分布式缓存的弹性伸缩能力，可以灵活扩充和收缩数据缓存。 它基于Runtime提供了缓存空间、现有缓存比例等性能指标, 结合自身对于Runtime资源的扩缩容能力，提供数据缓存按需伸缩能力。<br>作者| 车漾 Fluid社区Commiter<br>作者| 谢远东 Fluid社区Commiter<br>背景<br>随着越来越多的大数据和AI等数据密集应用开始部署和运行在Kubernetes环境下，数据密集型应用计算框架的设计理念和云原生灵活的应用编排的分歧，导致了数据访问和计算瓶颈。云原生数据编排引擎Fluid通过数据集的抽象，利用分布式缓存技术，结合调度器，为应用提供了数据访问加速的能力。<br><span class="img-wrap"><img class="lazy" src="https://segmentfault.com/img/bVcRe8x" alt="image.png" title="image.png" referrerpolicy="no-referrer"></span></p><p>弹性伸缩作为Kubernetes的核心能力之一，但它一直是围绕这无状态的应用负载展开。而Fluid提供了分布式缓存的弹性伸缩能力，可以灵活扩充和收缩数据缓存。 它基于Runtime提供了缓存空间、现有缓存比例等性能指标, 结合自身对于Runtime资源的扩缩容能力，提供数据缓存按需伸缩能力。<br>这个能力对于互联网场景下大数据应用非常重要，由于多数的大数据应用都是通过端到端流水线来实现的。而这个流水线包含以下几个步骤：</p><ol><li>数据提取，利用Spark，MapReduce等大数据技术对于原始数据进行预处理</li><li>模型训练，利用第一阶段生成特征数据进行机器学习模型训练，并且生成相应的模型</li><li>模型评估，通过测试集或者验证集对于第二阶段生成模型进行评估和测试</li><li>模型推理，第三阶段验证后的模型最终推送到线上为业务提供推理服务<br>可以看到端到端的流水线会包含多种不同类型的计算任务，针对每一个计算任务，实践中会有合适的专业系统来处理（TensorFlow，PyTorch，Spark， Presto）；但是这些系统彼此独立，通常要借助外部文件系统来实现把数据从一个阶段传递到下一个阶段。但是频繁的使用文件系统实现数据交换，会带来大量的 I/O 开销，经常会成为整个工作流的瓶颈。<br><span class="img-wrap"><img class="lazy" src="https://segmentfault.com/img/bVcRe8z" alt="image.png" title="image.png" referrerpolicy="no-referrer"></span></li></ol><p>而Fluid对于这个场景非常适合，用户可以创建一个Dataset对象，这个对象有能力将数据分散缓存到Kubernetes计算节点中，作为数据交换的介质，这样避免了数据的远程写入和读取，提升了数据使用的效率。但是这里的问题是临时数据缓存的资源预估和预留。由于在数据生产消费之前，精确的数据量预估是比较难满足，过高的预估会导致资源预留浪费，过低的预估会导致数据写入失败可能性增高。还是按需扩缩容对于使用者更加友好。我们希望能够达成类似page cache的使用效果，对于最终用户来说这一层是透明的但是它带来的缓存加速效果是实实在在的。<br>我们通过自定义HPA机制，通过Fluid引入了缓存弹性伸缩能力。弹性伸缩的条件是当已有缓存数据量达到一定比例时，就会触发弹性扩容，扩容缓存空间。例如将触发条件设置为缓存空间占比超过75%，此时总的缓存空间为10G，当数据已经占满到8G缓存空间的时候，就会触发扩容机制。<br>下面我们通过一个例子帮助您体验Fluid的自动扩缩容能力。<br>前提条件<br>推荐使用Kubernetes 1.18以上，因为在1.18之前，HPA是无法自定义扩缩容策略的，都是通过硬编码实现的。而在1.18后，用户可以自定义扩缩容策略的，比如可以定义一次扩容后的冷却时间。<br>具体步骤<br>1.安装jq工具方便解析json，在本例子中我们使用操作系统是centos，可以通过yum安装jq<br>yum install -y jq<br>2.下载、安装Fluid最新版<br>git clone <a href="https://github.com/fluid-cloudnative/fluid.git" rel="nofollow">https://github.com/fluid-clou...</a><br>cd fluid/charts<br>kubectl create ns fluid-system<br>helm install fluid fluid<br>3.部署或配置 Prometheus<br>这里通过Prometheus对于AlluxioRuntime的缓存引擎暴露的 Metrics 进行收集，如果集群内无 prometheus:<br>$ cd fluid<br>$ kubectl apply -f integration/prometheus/prometheus.yaml<br>如集群内有 prometheus,可将以下配置写到 prometheus 配置文件中:<br>scrape_configs:</p><ul><li><p>job_name: 'alluxio runtime'<br>  metrics_path: /metrics/prometheus<br>  kubernetes_sd_configs:</p><pre><code>- role: endpoints</code></pre><p>relabel_configs:</p><ul><li>source_labels: [__meta_kubernetes_service_label_monitor]<br>  regex: alluxio_runtime_metrics<br>  action: keep</li><li>source_labels: [__meta_kubernetes_endpoint_port_name]<br>  regex: web<br>  action: keep</li><li>source_labels: [__meta_kubernetes_namespace]<br>  target_label: namespace<br>  replacement: $1<br>  action: replace</li><li>source_labels: [__meta_kubernetes_service_label_release]<br>  target_label: fluid_runtime<br>  replacement: $1<br>  action: replace</li><li>source_labels: [__meta_kubernetes_endpoint_address_target_name]<br>  target_label: pod<br>  replacement: $1<br>  action: replace</li></ul></li></ul><p>4.验证 Prometheus 安装成功<br>$ kubectl get ep -n kube-system  prometheus-svc<br>NAME             ENDPOINTS        AGE<br>prometheus-svc   10.76.0.2:9090   6m49s<br>$ kubectl get svc -n kube-system prometheus-svc<br>NAME             TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)          AGE<br>prometheus-svc   NodePort   172.16.135.24   <none>        9090:32114/TCP   2m7s<br>如果希望可视化监控指标，您可以安装Grafana验证监控数据，具体操作可以参考文档<br><span class="img-wrap"><img class="lazy" src="https://segmentfault.com/img/bVcRe8C" alt="image.png" title="image.png" referrerpolicy="no-referrer"></span></p><p>5.部署 metrics server<br>检查该集群是否包括metrics-server, 执行kubectl top node有正确输出可以显示内存和CPU，则该集群metrics server配置正确<br>kubectl top node<br>NAME                       CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%<br>192.168.1.204   93m          2%     1455Mi          10%<br>192.168.1.205   125m         3%     1925Mi          13%<br>192.168.1.206   96m          2%     1689Mi          11%<br>否则手动执行以下命令<br>kubectl create -f integration/metrics-server<br>6.部署 custom-metrics-api 组件<br>为了基于自定义指标进行扩展，你需要拥有两个组件。第一个组件是从应用程序收集指标并将其存储到Prometheus时间序列数据库。第二个组件使用收集的度量指标来扩展Kubernetes自定义metrics API，即 k8s-prometheus-adapter。第一个组件在第三步部署完成，下面部署第二个组件：<br>如果已经配置了custom-metrics-api，在adapter的configmap配置中增加与dataset相关的配置<br>apiVersion: v1<br>kind: ConfigMap<br>metadata:<br>  name: adapter-config<br>  namespace: monitoring<br>data:<br>  config.yaml: |</p><pre><code>rules:
+- seriesQuery: '&#123;__name__=~"Cluster_(CapacityTotal|CapacityUsed)",fluid_runtime!="",instance!="",job="alluxio runtime",namespace!="",pod!=""&#125;'
+  seriesFilters:
+  - is: ^Cluster_(CapacityTotal|CapacityUsed)$
+  resources:
+    overrides:
+      namespace:
+        resource: namespace
+      pod:
+        resource: pods
+      fluid_runtime:
+        resource: datasets
+  name:
+    matches: "^(.*)"
+    as: "capacity_used_rate"
+  metricsQuery: ceil(Cluster_CapacityUsed&#123;<<.LabelMatchers>>&#125;*100/(Cluster_CapacityTotal&#123;<<.LabelMatchers>>&#125;))</code></pre><p>否则手动执行以下命令<br>kubectl create -f integration/custom-metrics-api/namespace.yaml<br>kubectl create -f integration/custom-metrics-api<br>注意：因为custom-metrics-api对接集群中的Prometheous的访问地址，请替换prometheous url为你真正使用的Prometheous地址。<br>检查自定义指标<br>$ kubectl get --raw "/apis/custom.metrics.k8s.io/v1beta1" | jq<br>&#123;<br>  "kind": "APIResourceList",<br>  "apiVersion": "v1",<br>  "groupVersion": "custom.metrics.k8s.io/v1beta1",<br>  "resources": [</p><pre><code>&#123;
+  "name": "pods/capacity_used_rate",
+  "singularName": "",
+  "namespaced": true,
+  "kind": "MetricValueList",
+  "verbs": [
+    "get"
+  ]
+&#125;,
+&#123;
+  "name": "datasets.data.fluid.io/capacity_used_rate",
+  "singularName": "",
+  "namespaced": true,
+  "kind": "MetricValueList",
+  "verbs": [
+    "get"
+  ]
+&#125;,
+&#123;
+  "name": "namespaces/capacity_used_rate",
+  "singularName": "",
+  "namespaced": false,
+  "kind": "MetricValueList",
+  "verbs": [
+    "get"
+  ]
+&#125;</code></pre><p>]<br>&#125;<br>7.提交测试使用的Dataset<br>$ cat<<EOF >dataset.yaml<br>apiVersion: data.fluid.io/v1alpha1<br>kind: Dataset<br>metadata:<br>  name: spark<br>spec:<br>  mounts:</p><pre><code>- mountPoint: https://mirrors.bit.edu.cn/apache/spark/
+  name: spark</code></pre><hr><p>apiVersion: data.fluid.io/v1alpha1<br>kind: AlluxioRuntime<br>metadata:<br>  name: spark<br>spec:<br>  replicas: 1<br>  tieredstore:</p><pre><code>levels:
+  - mediumtype: MEM
+    path: /dev/shm
+    quota: 1Gi
+    high: "0.99"
+    low: "0.7"</code></pre><p>properties:</p><pre><code>alluxio.user.streaming.data.timeout: 300sec</code></pre><p>EOF<br>$ kubectl create -f dataset.yaml<br>dataset.data.fluid.io/spark created<br>alluxioruntime.data.fluid.io/spark created<br>8.查看这个Dataset是否处于可用状态, 可以看到该数据集的数据总量为2.71GiB， 目前Fluid提供的缓存节点数为1，可以提供的最大缓存能力为1GiB。此时数据量是无法满足全量数据缓存的需求。<br>$ kubectl get dataset<br>NAME    UFS TOTAL SIZE   CACHED   CACHE CAPACITY   CACHED PERCENTAGE   PHASE   AGE<br>spark   2.71GiB          0.00B    1.00GiB          0.0%                Bound   7m38s<br>9.当该Dataset处于可用状态后，查看是否已经可以从custom-metrics-api获得监控指标<br>kubectl get --raw "/apis/custom.metrics.k8s.io/v1beta1/namespaces/default/datasets.data.fluid.io/*/capacity_used_rate" | jq<br>&#123;<br>  "kind": "MetricValueList",<br>  "apiVersion": "custom.metrics.k8s.io/v1beta1",<br>  "metadata": &#123;</p><pre><code>"selfLink": "/apis/custom.metrics.k8s.io/v1beta1/namespaces/default/datasets.data.fluid.io/%2A/capacity_used_rate"</code></pre><p>&#125;,<br>  "items": [</p><pre><code>&#123;
+  "describedObject": &#123;
+    "kind": "Dataset",
+    "namespace": "default",
+    "name": "spark",
+    "apiVersion": "data.fluid.io/v1alpha1"
+  &#125;,
+  "metricName": "capacity_used_rate",
+  "timestamp": "2021-04-04T07:24:52Z",
+  "value": "0"
+&#125;</code></pre><p>]<br>&#125;<br>10.创建 HPA任务<br>$ cat<<EOF > hpa.yaml<br>apiVersion: autoscaling/v2beta2<br>kind: HorizontalPodAutoscaler<br>metadata:<br>  name: spark<br>spec:<br>  scaleTargetRef:</p><pre><code>apiVersion: data.fluid.io/v1alpha1
+kind: AlluxioRuntime
+name: spark</code></pre><p>minReplicas: 1<br>  maxReplicas: 4<br>  metrics:</p><ul><li><p>type: Object<br>  object:</p><pre><code>metric:
+  name: capacity_used_rate
+describedObject:
+  apiVersion: data.fluid.io/v1alpha1
+  kind: Dataset
+  name: spark
+target:
+  type: Value
+  value: "90"</code></pre><p>behavior:<br>  scaleUp:</p><pre><code>policies:
+- type: Pods
+  value: 2
+  periodSeconds: 600</code></pre><p>scaleDown:</p><pre><code>selectPolicy: Disabled</code></pre></li></ul><p>EOF<br>首先，我们解读一下从样例配置，这里主要有两部分一个是扩缩容的规则，另一个是扩缩容的灵敏度：<br>• 规则：触发扩容行为的条件为Dataset对象的缓存数据量占总缓存能力的90%; 扩容对象为AlluxioRuntime, 最小副本数为1，最大副本数为4; 而Dataset和AlluxioRuntime的对象需要在同一个namespace<br>• 策略： 可以K8s 1.18以上的版本，可以分别针对扩容和缩容场景设置稳定时间和一次扩缩容步长比例。比如在本例子, 一次扩容周期为10分钟(periodSeconds),扩容时新增2个副本数，当然这也不可以超过 maxReplicas 的限制；而完成一次扩容后, 冷却时间(stabilizationWindowSeconds)为20分钟; 而缩容策略可以选择直接关闭。<br>11.查看HPA配置， 当前缓存空间的数据占比为0。远远低于触发扩容的条件<br>$ kubectl get hpa<br>NAME    REFERENCE              TARGETS   MINPODS   MAXPODS   REPLICAS   AGE<br>spark   AlluxioRuntime/spark   0/90      1         4         1          33s<br>$ kubectl describe hpa<br>Name:                                                    spark<br>Namespace:                                               default<br>Labels:                                                  <none><br>Annotations:                                             <none><br>CreationTimestamp:                                       Wed, 07 Apr 2021 17:36:39 +0800<br>Reference:                                               AlluxioRuntime/spark<br>Metrics:                                                 ( current / target )<br>  "capacity_used_rate" on Dataset/spark (target value):  0 / 90<br>Min replicas:                                            1<br>Max replicas:                                            4<br>Behavior:<br>  Scale Up:</p><pre><code>Stabilization Window: 0 seconds
+Select Policy: Max
+Policies:
+  - Type: Pods  Value: 2  Period: 600 seconds</code></pre><p>Scale Down:</p><pre><code>Select Policy: Disabled
+Policies:
+  - Type: Percent  Value: 100  Period: 15 seconds</code></pre><p>AlluxioRuntime pods:   1 current / 1 desired<br>Conditions:<br>  Type            Status  Reason               Message<br>  ----            ------  ------               -------<br>  AbleToScale     True    ScaleDownStabilized  recent recommendations were higher than current one, applying the highest recent recommendation<br>  ScalingActive   True    ValidMetricFound     the HPA was able to successfully calculate a replica count from Dataset metric capacity_used_rate<br>  ScalingLimited  False   DesiredWithinRange   the desired count is within the acceptable range<br>Events:           <none><br>12.创建数据预热任务<br>$ cat<<EOF > dataload.yaml<br>apiVersion: data.fluid.io/v1alpha1<br>kind: DataLoad<br>metadata:<br>  name: spark<br>spec:<br>  dataset:</p><pre><code>name: spark
+namespace: default</code></pre><p>EOF<br>$ kubectl create -f dataload.yaml<br>$ kubectl get dataload<br>NAME    DATASET   PHASE       AGE   DURATION<br>spark   spark     Executing   15s   Unfinished<br>13.此时可以发现缓存的数据量接近了Fluid可以提供的缓存能力（1GiB）同时触发了弹性伸缩的条件<br>$  kubectl  get dataset<br>NAME    UFS TOTAL SIZE   CACHED       CACHE CAPACITY   CACHED PERCENTAGE   PHASE   AGE<br>spark   2.71GiB          1020.92MiB   1.00GiB          36.8%               Bound   5m15s<br>从HPA的监控，可以看到Alluxio Runtime的扩容已经开始, 可以发现扩容的步长为2<br>$ kubectl get hpa<br>NAME    REFERENCE              TARGETS   MINPODS   MAXPODS   REPLICAS   AGE<br>spark   AlluxioRuntime/spark   100/90    1         4         2          4m20s<br>$ kubectl describe hpa<br>Name:                                                    spark<br>Namespace:                                               default<br>Labels:                                                  <none><br>Annotations:                                             <none><br>CreationTimestamp:                                       Wed, 07 Apr 2021 17:56:31 +0800<br>Reference:                                               AlluxioRuntime/spark<br>Metrics:                                                 ( current / target )<br>  "capacity_used_rate" on Dataset/spark (target value):  100 / 90<br>Min replicas:                                            1<br>Max replicas:                                            4<br>Behavior:<br>  Scale Up:</p><pre><code>Stabilization Window: 0 seconds
+Select Policy: Max
+Policies:
+  - Type: Pods  Value: 2  Period: 600 seconds</code></pre><p>Scale Down:</p><pre><code>Select Policy: Disabled
+Policies:
+  - Type: Percent  Value: 100  Period: 15 seconds</code></pre><p>AlluxioRuntime pods:   2 current / 3 desired<br>Conditions:<br>  Type            Status  Reason              Message<br>  ----            ------  ------              -------<br>  AbleToScale     True    SucceededRescale    the HPA controller was able to update the target scale to 3<br>  ScalingActive   True    ValidMetricFound    the HPA was able to successfully calculate a replica count from Dataset metric capacity_used_rate<br>  ScalingLimited  False   DesiredWithinRange  the desired count is within the acceptable range<br>Events:<br>  Type     Reason                        Age                    From                       Message<br>  ----     ------                        ----                   ----                       -------<br>  Normal   SuccessfulRescale             21s                    horizontal-pod-autoscaler  New size: 2; reason: Dataset metric capacity_used_rate above target<br>  Normal   SuccessfulRescale             6s                     horizontal-pod-autoscaler  New size: 3; reason: Dataset metric capacity_used_rate above target<br>14.在等待一段时间之后发现数据集的缓存空间由1GiB提升到了3GiB，数据缓存已经接近完成<br>$ kubectl  get dataset<br>NAME    UFS TOTAL SIZE   CACHED    CACHE CAPACITY   CACHED PERCENTAGE   PHASE   AGE<br>spark   2.71GiB          2.59GiB   3.00GiB          95.6%               Bound   12m<br>同时观察HPA的状态，可以发现此时Dataset对应的runtime的replicas数量为3， 已经使用的缓存空间比例capacity_used_rate为85%，已经不会触发缓存扩容。<br>$ kubectl get hpa<br>NAME    REFERENCE              TARGETS   MINPODS   MAXPODS   REPLICAS   AGE<br>spark   AlluxioRuntime/spark   85/90     1         4         3          11m<br>16.清理环境<br>kubectl delete hpa spark<br>kubectl delete dataset spark<br>总结<br>Fluid提供了结合Prometheous，Kubernetes HPA和Custom Metrics能力，根据占用缓存空间的比例触发自动弹性伸缩的能力，实现缓存能力的按需使用。这样能够帮助用户更加灵活的使用通过分布式缓存提升数据访问加速能力，后续我们会提供定时扩缩的能力，为扩缩容提供更强的确定性。<br><a href="https://developer.aliyun.com/article/783448?utm_content=g_1000262599" rel="nofollow">原文链接</a><br>本文为阿里云原创内容，未经允许不得转载。</p>  
+</div>
+            

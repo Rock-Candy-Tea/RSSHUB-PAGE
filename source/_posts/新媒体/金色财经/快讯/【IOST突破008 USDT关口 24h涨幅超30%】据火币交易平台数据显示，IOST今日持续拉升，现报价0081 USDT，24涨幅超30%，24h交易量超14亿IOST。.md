@@ -1,0 +1,18 @@
+
+---
+title: '【IOST突破0.08 USDT关口 24h涨幅超30%】据火币交易平台数据显示，IOST今日持续拉升，现报价0.081 USDT，24涨幅超30%，24h交易量超14亿IOST。'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=6293'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=6293'
+---
+
+<div>   
+【IOST突破0.08 USDT关口 24h涨幅超30%】据火币交易平台数据显示，IOST今日持续拉升，现报价0.081 USDT，24涨幅超30%，24h交易量超14亿IOST。  
+</div>
+            
