@@ -5,19 +5,19 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618311213444'
+headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618363780852'
 author: Hpoi 手办维基
 comments: false
-date: Tue, 13 Apr 2021 11:24:34 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618311213444'
+date: Tue, 13 Apr 2021 11:08:12 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618363780852'
 ---
 
 <div>   
 类型:
                     
                         
-                            手办
                         
+                            动漫模型
                         
                         
                         
@@ -37,6 +37,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/20
                     
                 
                     
-                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618311213444" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/04/09010ddaf5bc4ec381676476d20a0ec2.jpg?date=1618363780852" referrerpolicy="no-referrer">  
 </div>
             
