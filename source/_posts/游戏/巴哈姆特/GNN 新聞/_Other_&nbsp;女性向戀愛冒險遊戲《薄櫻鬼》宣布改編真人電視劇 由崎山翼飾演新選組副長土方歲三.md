@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561'
 author: 巴哈姆特
 comments: false
-date: 2021-04-13 12:11:17
+date: 2021-04-14 00:25:13
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.JPG?v=1618288247561'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/267ab3fd573d44c10d965c20941c2vw5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%96%84%E6%AB%BB%E9%AC%BC" target="_blank">薄櫻鬼</a>》是由 Idea Factory 開發、2008 年 9 月問世的女性向戀愛冒險遊戲，以日本幕府末年為背景，敘述江戶蘭學醫（西醫）之女雪村千鶴為了尋找失蹤父親而來到京都，遇見土方歲三所率領、因<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%BE%85%E5%89%8E" target="_blank">羅剎</a>化而失控的新選組隊士，展開一場與形形色色新選組志士邂逅互動的戀曲，探究父親行蹤與自己身世在內的真相。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%96%84%E6%AB%BB%E9%AC%BC" target="_blank">薄櫻鬼</a>》是由 Idea Factory 開發、2008 年 9 月問世的女性向戀愛冒險遊戲，以日本幕府末年為背景，敘述江戶蘭學醫（西醫）之女雪村千鶴為了尋找失蹤父親而來到京都，遇見土方歲三所率領、因羅剎化而失控的新選組隊士，展開一場與形形色色新選組志士邂逅互動的戀曲，探究父親行蹤與自己身世在內的真相。</div>
 <div>
  </div>
 <div>
