@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1f18cb27a1.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg'
 author: Dockone
 comments: false
-date: 2021-04-14 08:08:43
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1f18cb27a1.png'
+date: 2021-04-14 12:10:13
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1f18cb27a1.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 陈星宇（宇慕）<br>
 来源 | <a href="https://mp.weixin.qq.com/s/i-sqZ7HbogdxinxhZrt7tw">阿里巴巴云原生公众号</a><br>
 <br><h1>背景</h1>Kubernetes 采用 etcd 存储其内部核心元数据信息。经过这些年的发展，尤其是伴随着这两年云原生的快速发展，Kubernetes被人们广泛认同并大规模被使用。伴随阿里内部容器平台 ASI 及公有云 ACK 集群数飞速增长，底层存储 etcd 集群获得井喷式地增长，etcd 集群数从原来的十几个发展到了目前达到几千个，它们分布在世界各地，为上层 Kubernetes 集群以及其他产品服务，服务用户超万个。<br>
@@ -22,14 +21,14 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1
 <ul><li>etcd 集群成本优化，利用率提升</li><li>etcd 管控运维效率提升</li><li>etcd 内核架构升级</li></ul><br>
 <br><h1>etcd 集群运行成本优化、利用率提升</h1>近些年，etcd 集群数井喷式增长。它的运行形态经历了从 1.0 到 2.0 到 3.0 的变化，具体如下图：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg" class="img-polaroid" title="1.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/4f480742347a152606ff00465acdf072.jpg" class="img-polaroid" title="1.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h2>1.0 物理机时代</h2>在一开始，我们管控的 etcd 集群数比较少，我们在宿主机上使用 docker 直接运行 etcd 容器。即图中的 1.0 模式。<br>
 <br><h2>2.0 云上时代</h2>1.0 模式运行 etcd 非常简单，但也存在使用物理机运行软件低效等常见问题，随着阿里巴巴全面上云的步伐，etcd 也全面将运行环境切到了云上 ecs，存储也换成了云盘 ssd 或 essd。<br>
 <br>全面上云优势明显，利用阿里云底层 Iaas 的 ecs 弹性和存储云盘，etcd 集群可快速完成垂直水平伸缩，故障迁移也比 1.0 时容易的多。以集群升配操作为例，整个升级时间从最初的半小时降低到现在的 10 分钟，可以兼顾业务使用峰值和日常普通压力，稳定承载阿里内部双十一业务高峰以及外部多个公有云客户春节大促活动。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210414/538784f54c7155be367d1ea8c004b413.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210414/538784f54c7155be367d1ea8c004b413.jpg" class="img-polaroid" title="2.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210414/538784f54c7155be367d1ea8c004b413.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/538784f54c7155be367d1ea8c004b413.jpg" class="img-polaroid" title="2.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h2>3.0 大规模云上时代</h2>随着 etcd 集群数大量增长，运行这些集群需要的 ecs 与云盘成本越来越高，etcd 已成为容器服务花费资金最多的部分之一，etcd 运行的成本成为我们必须面对并解决优化的问题。<br>
@@ -38,12 +37,12 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1
 <br><h1>管控运维效率提升</h1>早期我们运维管理 etcd 集群的方式比较简单，采用 shell 脚本基本可以涵盖 etcd 集群生命周期全过程，例如集群创建、删除，迁移都利用脚本完成。以前的这种小作坊模式随着集群数的井喷式增长越来越不适用，我们遇到 etcd 集群生产速度慢，适配底层 IaaS 变化难度大等问题，运行时集群管理效率也很低。<br>
 <br>针对这些运维管控效率低的问题，我们拥抱云原生生态，用 Kubernetes 作为运行 etcd 的底座，并基于开源的 etcd-operator，经过几年的研发，适配阿里云底层 IaaS，修改了很多开源的 bug, 将 etcd 管控运维动作标准化，功能覆盖 etcd 管控全生命周期，推出了新的 etcd 运维管控后台 alpha, 我们利用 alpha 统一了阿里巴巴内部的 etcd 集群及公有云 ACK 上的 etcd 集群管控，极大地提高了我们管控运维 etcd 集群的效率。目前我们投入 0.5 人力就可以管理近万集群，人效比显著。下图展示了他的控制界面。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210414/e78f2da314b38e686a73f39b07284fa5.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210414/e78f2da314b38e686a73f39b07284fa5.jpg" class="img-polaroid" title="3.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210414/e78f2da314b38e686a73f39b07284fa5.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/e78f2da314b38e686a73f39b07284fa5.jpg" class="img-polaroid" title="3.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>下面我们详细介绍一下 alpha 的具体功能，首先我们看一下下面这幅图，它描绘了一个 etcd 集群从创建-》运行-》故障-》再运行-》停止-》销毁的典型生命周期大图。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210414/e5c667850b7b4d68f689f03b0da726ef.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210414/e5c667850b7b4d68f689f03b0da726ef.jpg" class="img-polaroid" title="4.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210414/e5c667850b7b4d68f689f03b0da726ef.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210414/e5c667850b7b4d68f689f03b0da726ef.jpg" class="img-polaroid" title="4.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>alpha 做的事情就是覆盖图上的方方面面，具体分为以下两部分：<br>
@@ -65,11 +64,10 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/d177dddd51ab42f6ba352d1
 <br><h1>总结</h1>阿里云采用 etcd 服务化做容器服务的核心数据存储系统已经有了将近 4 年的历史，我们积累了大量的运维管控 etcd 的经验和使用 etcd 的最佳实践，这篇文章分享了我们在降本提效，内核优化方面的一些实践。<br>
 <br>近年来随着云原生的浪潮，etcd 也获得前所未有地急速发展，etcd 去年已从 cncf 正式毕业。阿里云为 etcd 社区贡献了重要的 feature 和 bug fix，积极参与社区，汲取社区营养，反哺贡献社区，可以预见未来 etcd 集群还会继续保持高速的增长，我们将继续在降本增效，保证稳定性和可靠性上持续投入努力。我们非常欢迎有兴趣的同学加入我们，联系 <a href="mailto:xingyu.chenxingyu@alibaba-inc.com">xingyu.chenxingyu@alibaba-inc.com</a>。
                                                                 <div class="aw-upload-img-list">
-                                                                                                                                                                                                                                                                                                                                                                    <a href="http://dockone.io/uploads/article/20210414/7f43f12b3877e4c1c56ba46930b7ce7e.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210414/7f43f12b3877e4c1c56ba46930b7ce7e.png" class="img-polaroid" alt="头图.png" referrerpolicy="no-referrer"></a>
-                                                                                                </div>
+                                                                                                                                                                                                                                                                                                                                </div>
                                 
                                                                 <ul class="aw-upload-file-list">
-                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                                                                                                                                                                                                                                                                                                                                                    </ul>
                                                               
 </div>
             
