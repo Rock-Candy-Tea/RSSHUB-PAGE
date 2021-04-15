@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/81973081-316e-43c9-bcc8-1a56f038157d.jpeg'
 author: 机核网
 comments: false
-date: 2021-04-14 12:11:28
+date: 2021-04-15 00:27:22
 thumbnail: 'https://image.gcores.com/81973081-316e-43c9-bcc8-1a56f038157d.jpeg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/81973081-316e-43c9-bcc8-1a56f038157d.jpeg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-f0aae" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="f0aae" data-offset-key="3oj6i-0-0"><div data-offset-key="3oj6i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3oj6i-0-0"><span data-text="true">《集合啦！动物森友会》将推出游戏的 BGM 合集，4CD 共173首歌，其中除了囊括主题曲外，还有各种设施场所中的音乐。售价4950日元。而KK的音乐专辑中共有 3CD，共95首歌，售价4400日元。此外还有一个合辑限定版，除了包括两个专辑外，还附赠 KK 主题的耳机收纳包以及艺术设定集，售价11000日元。以上专辑都将在6月9日发售，感兴趣的朋友可以</span></span><a class="md-link" href="https://columbia.jp/plist.php?event=query&sc[kw]=%A1%DA%BD%B8%BF%B9%A1%DB" rel="noopener noreferrer" target="_blank" aria-label="https://columbia.jp/plist.php?event=query&sc[kw]=%A1%DA%BD%B8%BF%B9%A1%DB"><span data-offset-key="3oj6i-1-0"><span data-text="true">去官网看下</span></span></a><span data-offset-key="3oj6i-2-0"><span data-text="true">。</span></span></div></div>
+<img src="https://image.gcores.com/81973081-316e-43c9-bcc8-1a56f038157d.jpeg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-f0jqs" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="f0jqs" data-offset-key="3oj6i-0-0"><div data-offset-key="3oj6i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3oj6i-0-0"><span data-text="true">《集合啦！动物森友会》将推出游戏的 BGM 合集，4CD 共173首歌，其中除了囊括主题曲外，还有各种设施场所中的音乐。售价4950日元。而KK的音乐专辑中共有 3CD，共95首歌，售价4400日元。此外还有一个合辑限定版，除了包括两个专辑外，还附赠 KK 主题的耳机收纳包以及艺术设定集，售价11000日元。以上专辑都将在6月9日发售，感兴趣的朋友可以</span></span><a class="md-link" href="https://columbia.jp/plist.php?event=query&sc[kw]=%A1%DA%BD%B8%BF%B9%A1%DB" rel="noopener noreferrer" target="_blank" aria-label="https://columbia.jp/plist.php?event=query&sc[kw]=%A1%DA%BD%B8%BF%B9%A1%DB"><span data-offset-key="3oj6i-1-0"><span data-text="true">去官网看下</span></span></a><span data-offset-key="3oj6i-2-0"><span data-text="true">。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/55ed48cd-871c-4137-a209-244383a68427.jpeg" alt referrerpolicy="no-referrer">
 
@@ -25,6 +25,6 @@ thumbnail: 'https://image.gcores.com/81973081-316e-43c9-bcc8-1a56f038157d.jpeg'
 <figure>
 <img src="https://image.gcores.com/7724a615-9cb7-40da-89b4-295530af5706.jpeg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="f0aae" data-offset-key="4t7cq-0-0"><div data-offset-key="4t7cq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4t7cq-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="f0jqs" data-offset-key="4t7cq-0-0"><div data-offset-key="4t7cq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4t7cq-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

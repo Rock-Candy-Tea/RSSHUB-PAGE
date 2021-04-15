@@ -1,0 +1,19 @@
+
+---
+title: '虚假交友、刷单、购物等诈骗App层出不穷 谁在给电信诈骗做帮凶？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/spider2021415/227/w653h374/20210415/c958-knvsnuf1373238.jpg'
+author: cnBeta
+comments: false
+date: Thu, 15 Apr 2021 00:03:36 GMT
+thumbnail: 'https://n.sinaimg.cn/spider2021415/227/w653h374/20210415/c958-knvsnuf1373238.jpg'
+---
+
+<div>   
+要保护国家安全，也要保护公民安全。在电信网络诈骗中，犯罪分子通过“杀猪盘”、贷款、刷单等诈骗。这里通常有一个关键点，就是需要把被骗者引到一个虚假的软件里，从而通过后台把钱骗走。而在诈骗分子背后，有这样一帮人正是提供着这样的服务，他们甚至量身定制出专门的虚假交易软件。<br>
+<p style="text-align: left;">原标题：虚假交友、刷单、购物等诈骗App层出不穷 谁在给电信诈骗做帮凶？ 来源：央视新闻客户端</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=251057781&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">上海警方近日就捣毁了这样一个制售诈骗App团伙。</p><p style="text-align: left;">上海一制售诈骗App团伙被捣毁</p><p style="text-align:center"><img id="0" src="https://n.sinaimg.cn/spider2021415/227/w653h374/20210415/c958-knvsnuf1373238.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">上海警方近日成功捣毁了一个为电信网络诈骗团伙提供技术服务的犯罪团伙。这也是近年来上海抓获人数最多、架构最全的专业制售诈骗App犯罪团伙。去年9月，上海长宁警方接报，有市民在一款名为"新春之舞"的投资App 被骗走11.5万元。警方梳理信息后，锁定了一个利用虚假外汇交易平台，招揽"代理"实施诈骗的犯罪网络。进一步分析后台数据后，警方又发现了一个重要线索。</p><p style="text-align:center"><img id="1" src="https://n.sinaimg.cn/spider2021415/217/w644h373/20210415/156a-knvsnuf1373236.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">上海长宁公安分局刑侦支队反诈专班民警 谭斯维：我们看到有大量24小时不间断的登录，其中是集中在我们上海本市的一个IP地址。</p><p style="text-align:center"><img id="2" src="https://n.sinaimg.cn/spider2021415/234/w659h375/20210415/0947-knvsnuf1373259.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">警方通过逆向追踪，最后锁定了一家信息技术公司。经查，这家公司制作了包括"新春之舞"在内的50多个涉诈App，安装设备超过1.2万部，涉案金额过亿元。警方随后在上海、广东、安徽等地进行收网，抓获了110多名犯罪嫌疑人。今年3月，70名犯罪嫌疑人被依法移送检察机关起诉。</p><p style="text-align:center"><img id="3" src="https://n.sinaimg.cn/spider2021415/200/w643h357/20210415/3e42-knvsnuf1373258.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">上海长宁公安分局刑侦支队副支队长 钱俊：所有App的内核都是一个投资交易平台，根据诈骗分子需求，表面上可以分别引用外汇、期货、股市、贵金属等正常市场数据，但在交易环节则被该公司赋予诈骗团伙随时修改数据的权限，以达到诈骗的目的。</p><p style="text-align: left;">诈骗分子利用多种社交平台传播涉诈App</p><p style="text-align:center"><img id="4" src="https://n.sinaimg.cn/spider2021415/207/w641h366/20210415/edcb-knvsnuf1373285.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">警方介绍，目前，各类虚假交友、刷单、购物等诈骗App已经成为电信网络诈骗犯罪链中不可或缺的环节，尤其是可以随意更改数据的外汇交易等诈骗App，更是成为支撑投资理财诈骗的重要帮凶。犯罪分子会处心积虑让受害人下载这些App。</p><p style="text-align:center"><img id="5" src="https://n.sinaimg.cn/spider2021415/185/w618h367/20210415/c991-knvsnuf1373286.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">上海市公安局新闻发言人办公室警官 庄莉强：这些涉诈App一般通过短链接、二维码等方式在论坛、聊天工具、短信中传播。</p><p style="text-align: left;">国家反诈中心：1—3月超六成网络诈骗涉及诈骗App</p><p style="text-align: left;">国家反诈中心介绍，1—3月份，全国发生电信网络诈骗案件22万多起，损失达到185亿多，其中利用App来实施诈骗的超过了60%。</p><p style="text-align:center"><img id="6" src="https://n.sinaimg.cn/spider2021415/183/w629h354/20210415/5d97-knvsnuf1373304.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">国家反诈中心 陈敏杰：这种作案的App一般不在正规的App市场上上架的，功能比较简单，制作比较粗糙，从目前打击情况看，很多犯罪团伙，从一个涉案网站很容易就把它打包成一个App，费用很低。所以说我们以后下载App的时候，尽量从正规的网站去下载。</p><p style="text-align: left;">明知犯罪团伙利用App来作案，却还提供技术支撑，这些制假售假App团伙已经触犯刑法。</p><p style="text-align:center"><img id="7" src="https://n.sinaimg.cn/spider2021415/199/w642h357/20210415/404d-knvsnuf1373305.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">国家反诈中心 陈敏杰：App下载只要一个链接就能下载安装了。下一步我们公安机关会联合工信、网信部门进一步加大对App的整治力度。</p><p style="text-align: left;">防诈兼反诈 国家反诈中心App上线</p><p style="text-align:center"><img id="8" src="https://n.sinaimg.cn/spider2021415/203/w631h372/20210415/cec4-knvsnuf1373326.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">此外，由公安部刑事侦查局组织开发的国家反诈中心App近期也在全国上线，后期还将进一步优化。下载安装App后，当收到可疑人员的来电或短信，或可疑短信内容包含的网址或安装可疑App应用时，它可以智能识别骗子身份并提前预警，还可以随时向平台举报各种诈骗信息，大大降低用户受骗的可能性。</p>   
+</div>
+            

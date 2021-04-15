@@ -40,6 +40,13 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdB
 <p>This year, Apple’s spring event will take place on April 20 at 10 a.m. PT/1 p.m. ET. Due to the ongoing COVID-19 pandemic, this event will be completely virtual and streamed directly from Apple Park. </p>
 <p>Apple is teasing the April event with the tagline “Spring Loaded.” The invite is colorful but doesn’t provide many hints at what Apple could announce during the event.</p>
 <p>We expect the event to be a beautifully filmed, pre-recorded video featuring Apple CEO Tim Cook and other Apple executives. You’ll be able to stream the event through Apple’s website, on YouTube, and through the Apple TV application on iPhone, iPad, and Mac.</p>
+<h2>Video walkthrough</h2>
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1000" height="563" src="https://www.youtube.com/embed/fFmo7tYauno?version=3&rel=0&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div>
+</figure>
+<p class="has-text-align-center"><a href="https://www.youtube.com/c/9to5mac?sub_confirmation=1"><em>Subscribe to 9to5mac on YouTube for more videos</em></a></p>
 <h2 id="h-ipad-pro">iPad Pro </h2>
 <p>One of the leading rumors is that Apple will release a new iPad Pro with mini-LED display technology during the first half of 2021. The expectation is that the mini-LED backlighting will <a href="https://9to5mac.com/2020/12/28/2021-ipad-pro-mini-led/">come to the 12.9-inch iPad Pro first</a>, followed eventually by the 11-inch iPad Pro</p>
 <p><a href="https://9to5mac.com/2019/12/02/what-is-mini-led-tech-ipad-macbook/">mini-LED is a new form of backlighting</a> that is used for LCD screens. It includes many of the same benefits as OLED but oftentimes can offer increased brightness, improved power efficiency, and a lower risk of burn-in. This is why Apple plans to use it in its larger-screened devices, rather than OLED. Mini-LED is also expected to come to the MacBook Pro lineup later this year. </p>
