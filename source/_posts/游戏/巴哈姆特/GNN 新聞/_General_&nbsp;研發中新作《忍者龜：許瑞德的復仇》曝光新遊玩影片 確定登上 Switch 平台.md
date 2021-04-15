@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?v=1618458575372'
 author: 巴哈姆特
 comments: false
-date: 2021-04-15 04:09:13
+date: 2021-04-15 08:09:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?v=1618458575372'
 ---
 
@@ -28,7 +28,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.72%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?v=1618458575372" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.72%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?v=1618458575372" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -87,13 +87,17 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/17f38deb7efe72ef1e9062301f1bqsz5.
  </div>
 <div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/GemOAwU-9fo?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/YQLPBX0dxuM?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
 <div>
+　　今日，官方釋出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E9%BE%9C%EF%BC%9A%E8%A8%B1%E7%91%9E%E5%BE%B7%E7%9A%84%E5%BE%A9%E4%BB%87" target="_blank">忍者龜：許瑞德的復仇</a>》新遊玩展示影片，除了更多遊戲關卡戰鬥畫面外，更展現了每隻角色的戰鬥特色與技能風格。同時，官方也宣布了遊戲將登上 Nintendo Switch 平台。</div>
+<div>
+ </div>
+<div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/YQLPBX0dxuM?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/GemOAwU-9fo?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>

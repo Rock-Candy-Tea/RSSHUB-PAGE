@@ -1,0 +1,18 @@
+
+---
+title: 'NaVi回答社区提问：NaVi有在改善便秘进攻了，职业喷子不配得到尊重'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/9d4da8a5e22d431c065d9efc920d4216/thumb'
+author: 小黑盒
+comments: false
+date: 2021-04-15 08:09:10
+thumbnail: 'https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/9d4da8a5e22d431c065d9efc920d4216/thumb'
+---
+
+<div>   
+<blockquote><p>近期，NaVi官方邀请到Prefecto、B1T和Boombl4三位选手回答社区NaVi粉提出的问题，包括Boombl4的半神半鬼之谜、NaVi便秘进攻的评价以及对所谓“赢球粉”的看法。以下为本期提问精选部分。</p></blockquote><p><b>Q：我关注你很久了，Boombl4！有时候你就是个胖吕布，神挡杀神佛挡杀佛，谁也打不过；但大部分时刻你都在拉胯，谁也打不过。想必你自己也意识到了这一点，你怎么点评你的半神半鬼？</b></p><p><img class="lazy" data-height="462" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/9d4da8a5e22d431c065d9efc920d4216/thumb" data-width="864" style="width: 100%; height: 53.4722%;" referrerpolicy="no-referrer"></p><p>Boombl4：好吧，这个问题其实很简单。要始终保持稳定性去打比赛本身就是一件很不容易的事情。尽管很多人都在极力保持稳定，但事实就是如此，有很多因素都会影响到稳定性——训练方式、睡眠时间、作息规律等等；这绝非一日之功。现实里从未有过绝对稳定、经久不衰的王朝，线上赛之前的A队王朝现如今已经日薄西山，群雄并起的乱世已经到来——不同的队伍赢得不同的赛事。<br></p><p><b>Q：近期的CS世界可谓是独联体的狂欢，能说一下这其中谁给你们最多的激励吗？他们的最大优点又是什么？</b></p><p>Prefero：Gambit，我认为他们强在执行力，意思是他们做的事情很多犯的错误却很少——做事多的人赢得比赛，犯错少的人赢得总冠军。观察他们在卡托维兹的比赛就能知道，除了他们个人状态爆炸之外，更关键的是他们打得非常聪明非常整体，我认为这就是他们崛起的主要原因。</p><p><img class="lazy" data-height="486" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/5b046fcb3468500e71da914798d616f7/thumb" data-width="864" style="width: 100%; height: 56.25%;" referrerpolicy="no-referrer"></p><p><b>Q：（EPL小组赛）输给FURIA和Gambit主要源自你们便秘的进攻，所以你们有做什么打算来改善这一点吗？这已然成为NaVi取得成功的唯一的阿格硫斯之踵！</b><br></p><p>Boombl4：我们曾在EPL上让electronic接手了以Mirage为首的部分指挥权，但效果并不理想，这不是他一个人的问题，所有人都有责任。我们赛前做好了计划，但执行起来总会出现这样那样的小毛病、小插曲，我们的细节一坨稀烂，从而影响到了最终的进攻节奏。这是electronic第一次的指挥经历，我们有在尝试一些新点子，以改善数张地图里保守诟病的T方进攻，只有傻子才会忽略这么明显的问题。作为T1队伍，大家的目标一贯是赢得比赛，成为最强的战队。</p><p><b>Q：Vitality放弃了六人阵容，Astralis不再使用六人阵容；你们对六人阵容有什么想法？保留还是放弃？</b></p><p>B1T：至少在接下来的RMR赛事里，我们会放弃六人阵容。因为根据最新的规则，队伍会因为适应替补而损失积分，这让六人阵容变得没有意义。</p><p>Prefecto：是的，我想说我们想跟B1T一起打下去。这次不用六人阵容只是因为RMR规则所限，至于是否放弃六人阵容就是个仁者见仁的事情了，有的人觉得打得舒服而有的人觉得不行。<br></p><p><img class="lazy" data-height="485" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/c840184e05b72cb09b4df22631f9be2b/thumb" data-width="864" style="width: 100%; height: 56.1343%;" referrerpolicy="no-referrer"></p><p>Boombl4：这不过只是一次小试验罢了，搞不懂为什么有些队这么反感六人阵容，Vitality最终选择放弃的个中缘由也可能只有他们自己明白了。我相信他们应该也有必须这么坚持的苦衷吧。<br></p><p><b>Q：你最反感的武器是？</b><br></p><p>B1T：是野牛吧，我猜想是的。</p><p>Prefecto：明明就是5K的连狙，想想野牛，仅需1400元就能买到一个拥有超高容弹量的火力盒子，还要啥自行车呢？</p><p>B1T：用这个火力盒子给人刮痧是吧（笑）。</p><p>Prefecto：但你用这玩意来刷eco不是一刷一个爽，长枪局配道具也还行，存在皆合理这个真理不会不懂吧，小兄弟。</p><p><img class="lazy" data-height="503" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/d9af1e1060ae76c30a497b5e8e5fd62f/thumb" data-width="864" style="width: 100%; height: 58.2176%;" referrerpolicy="no-referrer"></p><p><b>Q：对你而言最为棘手的敌人是？</b><br></p><p>Prefecto：Astralis，因为每次跟他们打，他们总能整出新活，搞我们一个措手不及。我们之间大部分的比赛都情势焦灼，当然也有一些例外，不过总体来说，这种除了枪法更要头脑的对抗让我乐在其中。</p><p>Boombl4：我个人观点是最近的Liqiud，FalleN的到来彻底点燃了这群野兽，奔流正在重回正轨，所有人都在大显身手，各种新点子新玩意层出不穷，极具个人能力的碰撞让人防不胜防。此外，B1ad3也经常提到一点，Liqiud的残局能力非常强，经常打赢少打多的惊天残局。要我说，他们全都回来了，最近一跟他们交手，我就浑身难受。</p><p><b>Q：你们怎么看待你们的那些赢了吹上天，输了踩到死的粉丝？</b></p><p>Prefecto：老实说我从未把他们当成真正的NaVi粉，因为真粉丝在母队困难的时候是仍然支持它的。正如前面那个说法，电子竞技没有常胜将军，我想真粉都知晓这一点，不管何时都会支持他们所喜爱的队伍。当我们赢了的时候，所有人皆大欢喜固然好；但当我们数了以后，那些在网上怀着恶毒目的随地喷口水的职业喷子是不配得到尊重的。</p><p>Boombl4：不必理会那些恶意诋毁，无视即可。</p><p><img class="lazy" data-height="503" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/04/15/eefb869ee643ad220b21cce5d774c09b/thumb" data-width="864" style="width: 100%; height: 58.2176%;" referrerpolicy="no-referrer"></p><p>B1T：两位大哥言之有理，俺也一样。<br></p>  
+</div>
+            
