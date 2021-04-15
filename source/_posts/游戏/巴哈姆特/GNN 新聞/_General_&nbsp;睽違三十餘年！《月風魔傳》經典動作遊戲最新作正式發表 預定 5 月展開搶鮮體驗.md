@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/68/5fe6e527a613c4262ae04bf4731c3m05.JPG?v=1618425801975'
 author: 巴哈姆特
 comments: false
-date: 2021-04-15 00:26:48
+date: 2021-04-15 04:09:13
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/5fe6e527a613c4262ae04bf4731c3m05.JPG?v=1618425801975'
 ---
 
@@ -30,6 +30,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/5fe6e527a613c4262ae04bf4731c3m05.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9C%88%E9%A2%A8%E9%AD%94%E5%82%B3" target="_blank">月風魔傳</a>》是 KONAMI 於 1987 年 7 月在任天堂紅白機上推出的動作角色扮演遊戲，採用古代日本風格的虛構世界為背景，敘述在地獄魔王「龍骨鬼」侵略下倖存的主角「月風魔」，為了復仇而踏上奪回家傳寶劍「波動劍」擊敗龍骨鬼的冒險故事。以獨特的世界觀、美術、音樂，以及多樣化的玩法廣受玩家好評。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/uGU4NJrCDWo?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
