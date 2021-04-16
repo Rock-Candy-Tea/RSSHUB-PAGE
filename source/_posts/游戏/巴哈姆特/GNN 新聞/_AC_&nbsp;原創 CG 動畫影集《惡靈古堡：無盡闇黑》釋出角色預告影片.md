@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.PNG?v=1618543595268'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/01/9d2089611849efa55d8e6309881c4bx5.PNG?v=1618547452455'
 author: 巴哈姆特
 comments: false
-date: 2021-04-16 04:11:23
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.PNG?v=1618543595268'
+date: 2021-04-16 08:09:15
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9d2089611849efa55d8e6309881c4bx5.PNG?v=1618547452455'
 ---
 
 <div>   
@@ -22,8 +22,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.
  </div>
 <div>
 <ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.PNG?v=1618543595268" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/7521ddaa8203eae4f8b5308e561c4815.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 99.74%;">
+<figcaption style="padding-bottom: 70.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/9d2089611849efa55d8e6309881c4bx5.PNG?v=1618547452455" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/9d2089611849efa55d8e6309881c4bx5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/9d2089611849efa55d8e6309881c4bx5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
