@@ -1,0 +1,19 @@
+
+---
+title: '_图_Edge 90稳定版发布：引入儿童模式 优化下载体验'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0416/1eb1a84b879dbc9.jpg'
+author: cnBeta
+comments: false
+date: Fri, 16 Apr 2021 00:14:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0416/1eb1a84b879dbc9.jpg'
+---
+
+<div>   
+基于 Chromium 的 Edge Stable 频道今天推出了 90 版本更新，引入了诸多新功能和改进。在 90 版本更新中比较值得关注的就是儿童模式，能够让儿童网页浏览体验更加安全。微软表示，儿童模式是针对针对 5-8 岁和 9-12 岁年龄段的儿童设计的。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0416/1eb1a84b879dbc9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0416/1eb1a84b879dbc9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0416/030a50320177078.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0416/030a50320177078.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在启用儿童模式之后，Edge 浏览器就会自动切换到 Bing SafeSearch，以确保搜索结果中只出现友好内容。同样，追踪预防也被设置为“trick”，用户还可以使用专门为儿童定制的浏览器主题。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0416/146b94492ba9290.jpg" alt="QQ截图20210416081044.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">在安全方面，Edge 现在可以防止令牌窃取攻击，并确保Cookie不能从另一个人那里重复使用。对于企业客户来说，有一个新的功能，将允许管理员识别来自 App Guard 的流量，并在组织内应用特定的策略。</p><p style="text-align: left;"><strong>● 下载菜单</strong></p><p style="text-align: left;">在 Edge 90 稳定版更新中，用户管理你的下载将变得更加容易，这主要归功于一个新的飞出菜单的加入。微软Edge v90为大家带来了新的下载飞出菜单，它将允许你在一个地方管理所有的活动下载。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0416/87f0d2ec851443f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0416/87f0d2ec851443f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>● PDF 和打印</strong></p><p style="text-align: left;">在 90 版本中，微软还启用了对新功能的支持，允许你打印 PDF 文档的当前页。要打印当前页，在Edge 中打开一个 PDF，然后点击 "打印"按钮，在打印对话框中进入 "当前页 "选项。</p><p style="text-align: left;">除了 "当前页 "选项外，微软还引入了新的选项--"适合页面"、"纸张大小 "和 "实际大小"，以改善打印体验。这些选项将允许用户在打印网站和PDF文档时改变缩放比例。如果选择第三个选项'实际大小'，Edge将确保打印的文档内容大小没有变化。</p><p style="text-align: left;"><strong>● 密码管理器</strong></p><p style="text-align: left;">微软Edge在浏览器的设置页面中自带了一个免费的密码管理工具，它基本上可以让你追踪密码和在线支付方式，以防止潜在的安全漏洞。更新后，你现在可以一键删除多个保存的密码。</p><p style="text-align: left;"><strong>● 字体渲染</strong></p><p style="text-align: left;">新版 Edge 优化了字体渲染系统，减少一些网站的模糊感，提供更好的清晰度。</p><p style="text-align: left;"><strong>● 自动填充建议</strong></p><p style="text-align: left;">在微软Edge中，自动填写建议是自动生成的，当你在填写表格时就会弹出。在某些情况下，Microsoft Edge无法在不支持自动填写的表格中获取数据，但90版本中的一项新功能将允许你搜索你的信息并轻松填写。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0416/cb6c1dbdcae476e.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0416/cb6c1dbdcae476e.gif" width="100%/" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0416/5ce9bb317345af6.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0416/5ce9bb317345af6.gif" width="100%/" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/7b5ac8e97a779e5.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/7b5ac8e97a779e5.gif" width="100%/" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/04/7259257a1fac371.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/7259257a1fac371.gif" width="100%/" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

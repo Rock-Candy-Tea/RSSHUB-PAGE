@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=9789'
+headimg: 'https://picsum.photos/400/300?random=9934'
 author: Paul Graham 博客
 comments: false
-date: 2021-04-15 12:11:17
-thumbnail: 'https://picsum.photos/400/300?random=9789'
+date: 2021-04-16 00:25:44
+thumbnail: 'https://picsum.photos/400/300?random=9934'
 ---
 
 <div>   
@@ -195,7 +195,7 @@ deterred people from starting their own companies. Starting one's
 own company is risky, and when risk isn't rewarded, people opt for
 <a href="http://www.paulgraham.com/inequality.html"><u>safety</u></a> instead.<br><br>But it wasn't simply cause and effect. The oligopolies and high tax
 rates of the mid 20th century were all of a piece. Lower taxes are
-not simply a cause of entrepreneurship, but an effect as well: the
+not just a cause of entrepreneurship, but an effect as well: the
 people getting rich in the mid 20th century from real estate and
 oil exploration lobbied for and got huge tax loopholes that made
 their effective tax rate much lower, and presumably if it had been
@@ -229,7 +229,7 @@ happy that labor has finally prevailed. But none of them seem to
 be. You can almost hear them saying "No, no, not <i>that</i> way."<br><br>[<a name="f9n" href="http://www.paulgraham.com/undefined"><font color="#000000">9</font></a>]
 IBM was created in 1911 by merging three companies, the most
 important of which was Herman Hollerith's Tabulating Machine Company,
-founded in 1896. In 1941 its revenues were $60 million.<br><br>Hewlett-Packard's revenues in 1964 were $125 million.<br><br>Microsoft's revenues in 1988 were $590 million.<br><br><br><br><b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Robert Morris, 
-Russ Roberts, and Alex Tabarrok for reading drafts of this.<br><br>  
+founded in 1896. In 1941 its revenues were $60 million.<br><br>Hewlett-Packard's revenues in 1964 were $125 million.<br><br>Microsoft's revenues in 1988 were $590 million.<br><br><br><br><b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Bob Lesko, Robert Morris, 
+Russ Roberts, and Alex Tabarrok for reading drafts of this, and to Jon Erlichman for growth data.<br><br>  
 </div>
             

@@ -8,18 +8,18 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png'
 author: Dockone
 comments: false
-date: 2021-04-15 12:10:32
+date: 2021-04-16 00:25:02
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png'
 ---
 
 <div>   
-<br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
-</div>
-<br>
 <br>来源 | <a href="https://mp.weixin.qq.com/s/CEsJUZA0KepD1YqNWL9m-w">阿里巴巴云原生公众号</a><br>
 <br>3 月 20 日，Nacos 2.0 正式发布。Nacos 是阿里巴巴在 2018 年开源的一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台，也可以理解为微服务的注册中心 + 配置中心。<br>
 <br>Nacos 目前在获取用户和开源社区运维上都取得了不错的成绩。据 Nacos 联合创始人李艳林介绍，在一次 2245 人样本的开发者调研中显示，用户在注册中心的选择上，选择 Nacos 的开发者已经达到了 49%。Nacos 在同领域中已经是国内开发者的首选。<br>
+<div class="aw-upload-img-list active">
+<a href="http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210415/0a3ca5293e05f63adf8216109a8d6435.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
+</div>
+<br>
 <br>此外 Nacos 开源社区的贡献者有 80% 以上来自阿里之外，贡献了 Nacos 的 20% 左右的代码，尤其 Nacos 多语言部分，全部由外部开发者贡献，并且保持着不错的迭代速度。<br>
 <br>而此次大升级，相较 1.x 版本，Nacos 2.0 性能提升了 10 倍，内核进行了分层抽象，并且实现插件扩展机制。未来 Nacos 计划通过集成主流 Sidecar 技术完成对 Nacos 多语言生态和云原生生态的整合。<br>
 <br>为进一步了解 Nacos 是如何完成 2.0 架构大升级，实现 10 倍性能提升的，以及 Nacos 社区运营经验和未来规划。OSCHINA 邀请 Nacos 联合创始人为我们做了深入解读。<br>
