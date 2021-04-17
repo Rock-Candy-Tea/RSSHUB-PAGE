@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7943'
+headimg: 'https://picsum.photos/400/300?random=8384'
 author: 开源中国
 comments: false
 date: Sat, 17 Apr 2021 07:25:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7943'
+thumbnail: 'https://picsum.photos/400/300?random=8384'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>SQLAlchemy 是 Python SQL 工具箱和对象关系映射器，它为应用程序开发人员提供了 SQL 的全部功能和灵活性。它提供了一整套知名的企业级持久性模式，旨在高效、高性能地访问数据库，并被适配为一种简单的 Pythonic 域语言。</p> 
+                                                                                            <p>SQLAlchemy 是 Python SQL 工具箱和对象关系映射器，它为应用程序开发人员提供了 SQL 的全部功能和灵活性。它提供了一整套知名的企业级持久性模式，旨在高效、高性能地访问数据库，并被适配为一种简单的 Pythonic 域语言。</p> 
 <p>SQLAlchemy 1.4.8 版本的更新内容如下：</p> 
 <h3>orm：</h3> 
 <ul> 

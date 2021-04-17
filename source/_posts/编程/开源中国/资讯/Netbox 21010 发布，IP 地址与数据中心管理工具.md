@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8037'
+headimg: 'https://picsum.photos/400/300?random=6722'
 author: 开源中国
 comments: false
 date: Sat, 17 Apr 2021 07:22:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8037'
+thumbnail: 'https://picsum.photos/400/300?random=6722'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>NetBox 是一个 IP 地址管理（IP address management，IPAM）和数据中心基础设施管理（data center infrastructure management，DCIM）工具。   </p> 
+                                                                                            <p>NetBox 是一个 IP 地址管理（IP address management，IPAM）和数据中心基础设施管理（data center infrastructure management，DCIM）工具。   </p> 
 <p>Netbox 2.10.10 现已完成发布，具体更新内容如下：</p> 
 <p><strong>Enhancements</strong></p> 
 <ul> 

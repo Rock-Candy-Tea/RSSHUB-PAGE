@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-4cf37e9036f7d3beb6e84add66429115d61.png'
 author: 开源中国
 comments: false
-date: Fri, 16 Apr 2021 23:26:00 GMT
+date: Sat, 17 Apr 2021 07:26:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-4cf37e9036f7d3beb6e84add66429115d61.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Windows Terminal Preview 1.8 已发布，按照其发布计划，只要新版本进入 Preview 阶段，上一个版本的所有预览功能就会进入稳定阶段，因此 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fterminal%2Freleases%2Ftag%2Fv1.7.1033.0" target="_blank">Windows Terminal v1.7</a> 稳定版也已同步推出。</p> 
+                                                                                            <p>Windows Terminal Preview 1.8 已发布，按照其发布计划，只要新版本进入 Preview 阶段，上一个版本的所有预览功能就会进入稳定阶段，因此 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fterminal%2Freleases%2Ftag%2Fv1.7.1033.0" target="_blank">Windows Terminal v1.7</a> 稳定版也已同步推出。</p> 
 <p>Windows Terminal Preview 1.8 更新亮点：</p> 
 <ul> 
  <li> <p><strong>Settings UI is default in stable</strong></p> </li> 

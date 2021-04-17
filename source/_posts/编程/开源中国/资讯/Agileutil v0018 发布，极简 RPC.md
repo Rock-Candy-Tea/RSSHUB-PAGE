@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/lycclsltt/agileutil/raw/master/docs/pic1.jpeg'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h2 style="text-align:left">简介</h2> 
+                                                                                            <h2 style="text-align:left">简介</h2> 
 <p style="text-align:left">Agileutil是一个Python3 RPC框架，client和server既可以直连，也可以通过Consul做服务注册发现。</p> 
 <h2 style="text-align:left">特性</h2> 
 <ul> 

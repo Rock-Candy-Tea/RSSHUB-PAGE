@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3958'
+headimg: 'https://picsum.photos/400/300?random=2552'
 author: 开源中国
 comments: false
 date: Fri, 16 Apr 2021 16:11:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3958'
+thumbnail: 'https://picsum.photos/400/300?random=2552'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h4 style="text-align:start"><span style="background-color:#ffffff; color:#333333">Bootstrap Blazor 是一款基于 Bootstrap 的 企业级 Blazor UI 组件库，目前内置近 80 个组件，欢迎大家尝试使用。</span></h4> 
+                                                                                            <h4 style="text-align:start"><span style="background-color:#ffffff; color:#333333">Bootstrap Blazor 是一款基于 Bootstrap 的 企业级 Blazor UI 组件库，目前内置近 80 个组件，欢迎大家尝试使用。</span></h4> 
 <h4 style="text-align:start">增加功能</h4> 
 <ul> 
  <li> <p>!1313 feat(#I3IQKI): <code>Collapse</code> 组件增加 <code>TitleColor</code> 参数 <a href="https://gitee.com/LongbowEnterprise/BootstrapBlazor/pulls/1313">#I3IQKI</a></p> </li> 

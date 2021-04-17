@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8544'
+headimg: 'https://picsum.photos/400/300?random=473'
 author: 开源中国
 comments: false
 date: Sat, 17 Apr 2021 06:58:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8544'
+thumbnail: 'https://picsum.photos/400/300?random=473'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>PhpStorm 2021.1.1 已经发布，这是一个错误修复版本。</p> 
+                                                                                            <p>PhpStorm 2021.1.1 已经发布，这是一个错误修复版本。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>修复了在文件中查找未发现的引用的问题</li> 
