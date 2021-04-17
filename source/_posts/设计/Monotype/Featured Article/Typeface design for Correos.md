@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=2196'
+headimg: 'https://picsum.photos/400/300?random=3712'
 author: Monotype
 comments: false
 date: Mon, 15 Mar 2021 18:15:46 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2196'
+thumbnail: 'https://picsum.photos/400/300?random=3712'
 ---
 
 <div>   
@@ -103,14 +103,14 @@ thumbnail: 'https://picsum.photos/400/300?random=2196'
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/videos/typeface-design-correos&title=Typeface%20design%20for%20Correos." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/videos/highlights-correos-brand-talks-connected&title=HIghlights%20of%20Correos%20at%20Brand%20Talks%20Connected." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook"/>
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Typeface%20design%20for%20Correos.+https://www.monotype.com/resources/videos/typeface-design-correos" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=HIghlights%20of%20Correos%20at%20Brand%20Talks%20Connected.+https://www.monotype.com/resources/videos/highlights-correos-brand-talks-connected" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter"/>
             </svg>
@@ -123,7 +123,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2196'
     <!-- Pinterest share button -->
     
     <!-- Linkedin share button -->
-            <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.monotype.com/resources/videos/typeface-design-correos&title=Typeface%20design%20for%20Correos.&source=https://www.monotype.com" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.monotype.com/resources/videos/highlights-correos-brand-talks-connected&title=HIghlights%20of%20Correos%20at%20Brand%20Talks%20Connected.&source=https://www.monotype.com" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#linkedin"/>
             </svg>
