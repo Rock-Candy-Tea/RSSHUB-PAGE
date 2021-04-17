@@ -13,13 +13,12 @@ thumbnail: 'https://img.36krcdn.com/20210416/v2_7afcc1e40107497393703cd52309c0a6
 ---
 
 <div>   
-编者按：本文来自36氪「 
-<a href="https://auto-time.36kr.com/p/1184570152010241">未来汽车日报</a>」，（微信公众号ID：auto-time），作者：秦章勇。 
+<p>编者按：本文来自36氪「 <a target="_blank" rel="noopener noreferrer" href="https://auto-time.36kr.com/p/1184570152010241">未来汽车日报</a>」，（<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号ID：auto-time），作者：秦章勇。 </p> 
 <p class="image-wrapper"><img data-img-size-val="4961,2834" src="https://img.36krcdn.com/20210416/v2_7afcc1e40107497393703cd52309c0a6_img_jpeg" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">来源：梅赛德斯-奔驰</p> 
 <p>作者｜秦章勇</p> 
 <p>编辑｜周游</p> 
-<p>全新一代奔驰S级别推出六个月后，S级纯电动旗舰轿车也来了。</p> 
+<p>全新一代奔驰S级别推出数月后，S级纯电动旗舰轿车也来了。</p> 
 <p>北京时间4月16日，梅赛德斯-奔驰旗下梅赛德斯-EQ子品牌的首款纯电动轿车EQS完成首秀，该车是奔驰EVA平台下的首款车型，同时还首次搭载了奔驰MBUX Hyperscreen系统。戴姆勒内部人员告诉未来汽车日报，该款车型会在年内上市，未来采用进口的方式进入国内。</p> 
 <p>“这是梅赛德斯-奔驰135年的发展历程中，少见的在如此短的时间内连续发布两款以S级命名的新车型。”4月15日，在EQS发布前夕，戴姆勒股份有限公司负责研发的董事会成员、梅赛德斯-奔驰股份公司董事会成员及首席运营官马库斯·谢弗（Mr. Markus Schäfer）告诉未来汽车日报，“此次发布全新EQS，对梅赛德斯-奔驰来说是一个重要的里程碑。”</p> 
 <p class="image-wrapper"><img data-img-size-val="1292,768" src="https://img.36krcdn.com/20210416/v2_7c5323e9c80c4ad79c78cc4aef70d7d6_img_000" referrerpolicy="no-referrer"></p> 
