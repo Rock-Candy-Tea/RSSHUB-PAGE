@@ -5,20 +5,20 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=539'
+headimg: 'https://picsum.photos/400/300?random=588'
 author: 掘金
 comments: false
 date: Sat, 17 Apr 2021 00:19:45 GMT
-thumbnail: 'https://picsum.photos/400/300?random=539'
+thumbnail: 'https://picsum.photos/400/300?random=588'
 ---
 
 <div>   
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h1 data-id="heading-0">一、作用域与闭包</h1>
 <h2 data-id="heading-1">1. 作用域</h2>
 <h3 data-id="heading-2">1.1 全局作用域</h3>
-<p>(1) 全局作用域在页面打开时被创建,页面关闭时被销毁
-(2) 写在 script 标签中的变量和函数,作用域为全局，在页面的任意位置都可以访问到
-(3) 在全局作用域中有全局对象 window,代表一个浏览器窗口,由浏览器创建,可以直接调用
+<p>(1) 全局作用域在页面打开时被创建,页面关闭时被销毁<br>
+(2) 写在 script 标签中的变量和函数,作用域为全局，在页面的任意位置都可以访问到<br>
+(3) 在全局作用域中有全局对象 window,代表一个浏览器窗口,由浏览器创建,可以直接调用<br>
 (4) 全局作用域中声明的变量和函数会作为 window 对象的属性和方法保存</p>
 <pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-comment">// 1. 全局作用域,默认的,不可删除</span>
 ver name = <span class="hljs-string">'php中文网'</span>;
@@ -28,12 +28,12 @@ ver name = <span class="hljs-string">'php中文网'</span>;
 <span class="hljs-built_in">console</span>.log(<span class="hljs-built_in">window</span>.name);
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-3">1.2 函数作用域</h3>
-<p>(1) 调用函数时,函数作用域被创建,函数执行完毕,函数作用域被销毁
-(2) 每调用一次函数就会创建一个新的函数作用域,他们之间是相互独立的
-(3) 在函数作用域中可以访问到全局作用域的变量,在函数外无法访问到函数作用域内的变量
-(4) 在函数作用域中访问变量、函数时,会先在自身作用域中寻找,若没有找到,则会到函数的上一级作用域中寻找,一直到全局作用域
-(5) 在函数作用域中也有声明提前的特性,对于变量和函数都起作用,此时函数作用域相当于一个小的全局作用域
-(6) 在函数作用域中,不使用变量关键字声明的变量,在赋值时会往上一级作用域寻找已经声明的同名变量,直到全局作用域时还没找到,则会成为 window 的属性
+<p>(1) 调用函数时,函数作用域被创建,函数执行完毕,函数作用域被销毁<br>
+(2) 每调用一次函数就会创建一个新的函数作用域,他们之间是相互独立的<br>
+(3) 在函数作用域中可以访问到全局作用域的变量,在函数外无法访问到函数作用域内的变量<br>
+(4) 在函数作用域中访问变量、函数时,会先在自身作用域中寻找,若没有找到,则会到函数的上一级作用域中寻找,一直到全局作用域<br>
+(5) 在函数作用域中也有声明提前的特性,对于变量和函数都起作用,此时函数作用域相当于一个小的全局作用域<br>
+(6) 在函数作用域中,不使用变量关键字声明的变量,在赋值时会往上一级作用域寻找已经声明的同名变量,直到全局作用域时还没找到,则会成为 window 的属性<br>
 (7) 在函数中定义形参,等同于声明变量</p>
 <pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-keyword">let</span> site = <span class="hljs-string">'php中文网'</span>;
 <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">getSite</span>(<span class="hljs-params"></span>) </span>&#123;
