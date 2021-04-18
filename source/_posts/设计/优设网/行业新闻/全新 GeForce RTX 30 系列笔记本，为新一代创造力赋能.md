@@ -14,10 +14,10 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gp
 
 <div>   
 <p>华硕、技嘉、微星和雷蛇发布的全新NVIDIA Studio笔记本电脑让艺术家以创纪录时间完成他们的创作。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407766" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-1.jpg" width="500" height="265" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407766" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-1.jpg" width="500" height="265" referrerpolicy="no-referrer"></span></p>
 <p>最新的NVIDIA Studio设计本采用了全新的NVIDIA GeForce RTX 30系列笔记本电脑GPU，为新一代创造力赋能。此次GeForce RTX 30系列笔记本电脑GPU带来一系列更新，改变了创作者的工作方式。</p>
 <p>新机型配备了高达16GB显存，有1440p和4K分辨率的高像素显示屏可供用户选择，以及用于光线追踪、AI和视频编码的GPU加速，使艺术家能够在创纪录时间进行创作。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407767" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-2.jpg" width="481" height="316" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407767" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-2.jpg" width="481" height="316" referrerpolicy="no-referrer"></span></p>
 <p>NVIDIA Studio设计本配备全新的RTX 30系列笔记本电脑GPU，带来性能提升</p>
 <h4>为随时随地创作而生</h4>
 <p>GeForce RTX 30系列笔记本电脑GPU配有高达2倍的渲染性能提升，并引进第三代Max-Q技术。</p>
@@ -29,16 +29,16 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gp
 <h4>全新30系列Studio设计本</h4>
 <p>本月底将推出新款Studio设计本，搭载GeForce RTX 3060、3070和3080笔记本电脑GPU，首批发布的机型包括：</p>
 <p>● 华硕ZenBook Pro Duo UX582——搭载GeForce RTX 3070。借助下一代性能和令人惊叹的双显示屏，艺术家可以运用笔记本电脑的全新使用方法，创造出最好的作品。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407768" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-3.jpg" width="313" height="200" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407768" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-3.jpg" width="313" height="200" referrerpolicy="no-referrer"></span></p>
 <p>△ASUS ZenBook Pro Duo</p>
 <p>● 微星Creator 15——有GeForce RTX 3060、3070和3080可供选择。Creator 15是微星专为创作者打造的笔记本电脑，它色调沉稳，支持Dynamic Boost2.0和WhisperMode 2.0技术，带来超强性能。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407769" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-4.jpg" width="292" height="199" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407769" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-4.jpg" width="292" height="199" referrerpolicy="no-referrer"></span></p>
 <p>△MSI Creator 15</p>
 <p>● 技嘉Aero 15和Aero 17——有多种屏幕尺寸可供选择，可配置GeForce RTX 3060、3070或3080。Aero 15支持Dynamic Boost 2.0、WhisperMode 2.0和Advanced Optimus(仅限1080p显示屏版本)，为移动办公带来最强性能。大尺寸的Aero 17同样支持Dynamic Boost 2.0。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407770" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-5.jpg" width="320" height="209" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407770" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-5.jpg" width="320" height="209" referrerpolicy="no-referrer"></span></p>
 <p>△Gigabyte Aero 15</p>
 <p>● 雷蛇Blade 15和Blade Pro 17——外观高贵优雅、机身做工精良，有令人惊叹的1440p和4K显示屏可供选择。Blade 15 Base机型可配置GeForce RTX 3070和1440p显示屏；雷蛇 Blade Advanced机型可配置GeForce RTX 3070或3080和1440p或4K显示屏；Blade Pro 17可配置GeForce RTX 3080和4K 120Hz显示屏。</p>
-<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" class="alignnone size-full wp-image-407771" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-6.jpg" width="326" height="214" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="全新 GeForce RTX 30 系列笔记本，为新一代创造力赋能" loading="lazy" class="alignnone size-full wp-image-407771" src="https://image.uisdc.com/wp-content/uploads/2021/02/geforce-rtx-30-gpu-20210203-6.jpg" width="326" height="214" referrerpolicy="no-referrer"></span></p>
 <p>△Razer Blade Pro 17</p>
 <h4>加速创意</h4>
 <p>GeForce RTX 30系列Studio设计本可以随时随地编辑高达8K的HDR RAW素材，使用AI简化工作流程，并借助NVIDIA编码器将编码时间缩短75%。当外接到G-SYNC显示器时（一项可使显示器同步显示所有内容的NVIDIA技术），编辑可以在准确的帧率预览、导出和回放内容。</p>

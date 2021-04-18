@@ -14,9 +14,9 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/04/nvidia-studio-202
 
 <div>   
 <p>近期，随着在 GTC 2021 大会上的发布，NVIDIA Studio 生态系统正在将全新的 GPU、应用和软件改进提供给所有创作者。而现在这一切都由最新的 NVIDIA Studio Driver 所驱动。</p>
-<p><span class="img-zoom"><img alt="最新 NVIDIA Studio 驱动为创作者提供 GPU、应用和软件全新改进" class="alignnone size-full wp-image-416008" src="https://image.uisdc.com/wp-content/uploads/2021/04/nvidia-studio-20210416-1.jpg" width="600" height="318" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="最新 NVIDIA Studio 驱动为创作者提供 GPU、应用和软件全新改进" loading="lazy" class="alignnone size-full wp-image-416008" src="https://image.uisdc.com/wp-content/uploads/2021/04/nvidia-studio-20210416-1.jpg" width="600" height="318" referrerpolicy="no-referrer"></span></p>
 <p>同时，今天 NVIDIA 还在 GeForce Experience 中加入了一项新功能，可以让用户不再猜测在创意应用中启用哪些设置才可以得到最大化性能。目前已有超过 30 个应用支持该项功能，其中包括 Adobe Illustrator、Lightroom、Substance Designer、Autodesk AutoCAD 和 DaVinci Resolve。</p>
-<p><span class="img-zoom"><img alt="最新 NVIDIA Studio 驱动为创作者提供 GPU、应用和软件全新改进" class="alignnone size-full wp-image-416009" src="https://image.uisdc.com/wp-content/uploads/2021/04/nvidia-studio-20210416-2.jpg" width="600" height="410" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="最新 NVIDIA Studio 驱动为创作者提供 GPU、应用和软件全新改进" loading="lazy" class="alignnone size-full wp-image-416009" src="https://image.uisdc.com/wp-content/uploads/2021/04/nvidia-studio-20210416-2.jpg" width="600" height="410" referrerpolicy="no-referrer"></span></p>
 <p>上图显示的是一个使用了 DaVinci Resolve 的案例：通过配置「GPU处理模式」、「使用GPU进行Blackmagic RAW解码」和「使用GPU进行R3D 」来自动优化设置。通过使用优化设置，创作者可以确保他们充分利用 Studio 产品并提供最佳性能。</p>
 <p>请在 NVIDIA 博客上阅读更多关于 NVIDA Studio 激动人心的消息，包括以下 GTC 亮点。</p>
 <h4>NVIDIA Studio @ GTC 21 亮点</h4>
