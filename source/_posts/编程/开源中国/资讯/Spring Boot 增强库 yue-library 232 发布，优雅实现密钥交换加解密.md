@@ -14,7 +14,8 @@ thumbnail: 'https://gitee.com/yl-yue/yue-library/raw/master/docs/_images/logo.pn
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left"><img alt="logo" src="https://gitee.com/yl-yue/yue-library/raw/master/docs/_images/logo.png" referrerpolicy="no-referrer"></p> 
+                                                                    
+                                                        <p style="text-align:left"><img alt="logo" src="https://gitee.com/yl-yue/yue-library/raw/master/docs/_images/logo.png" referrerpolicy="no-referrer"></p> 
 <h2 style="text-align:left">yue-library简介</h2> 
 <blockquote> 
  <p>yue-library是一个基于SpringBoot封装的增强库</p> 

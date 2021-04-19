@@ -376,7 +376,7 @@ Widget buildTransitions(
     &#125;
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p>官方为我们提供了默认的<strong>pop</strong>和<strong>push</strong>动画，它们就在混入的<code>MaterialRouteTransitionMixin</code>中实现的。<code>MaterialRouteTransitionMixin</code>会根据不同的平台有不同的实现，iOS是左后的动画，Android是上下的动画，web也是左右动画。</p>
+<p>官方为我们提供了默认的<strong>pop</strong>和<strong>push</strong>动画，它们就在混入的<code>MaterialRouteTransitionMixin</code>中实现的。<code>MaterialRouteTransitionMixin</code>会根据不同的平台有不同的实现，iOS是左右的动画，Android是上下的动画，web也是左右动画。</p>
 <p>我们以iOS为例，其最后使用的是<code>CupertinoPageTransition</code>这个类的方法：</p>
 <pre><code class="copyable">SlideTransition(
     position: _secondaryPositionAnimation,
@@ -717,7 +717,7 @@ final BackButtonDispatcher? backButtonDispatcher;
 <p><img alt="最后总结" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ca589292cbf641d59154ee8aac3660bc~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-22">总结</h2>
 <p><strong>Navigator 2.0</strong>的功能更加强大了，使用方式也变得更加<strong>Flutter</strong>了。但是变得更复杂了，这样对学习和使用成本造成了很大的困扰，这方面也是很多人认为<strong>Navigator 2.0</strong>是一个失败的改造的原因。</p>
-<p>本文主要从源码角度分析了<strong>Navigator 2.0</strong>的实现逻辑，原理清楚后些代码应该还是很简单的。</p>
+<p>本文主要从源码角度分析了<strong>Navigator 2.0</strong>的实现逻辑，原理清楚后写代码应该还是很简单的。</p>
 <p>如果你需要Demo，可以参阅下面两篇文章的代码，特别是第一篇文章的代码非常具有参考价值：</p>
 <p><a href="https://www.raywenderlich.com/19457817-flutter-navigator-2-0-and-deep-links#toc-anchor-001" target="_blank" rel="nofollow noopener noreferrer">Flutter Navigator 2.0 and Deep Links</a></p>
 <p><a href="https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade" target="_blank" rel="nofollow noopener noreferrer">Learning Flutter’s new navigation and routing system</a></p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  

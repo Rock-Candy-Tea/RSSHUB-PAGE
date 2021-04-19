@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-9100f66b1868579215e599e8bc9f464
 
 <div>   
 <div class="content">
-                                                                                            <p>1.再这之前的版本，直播采用的实现方式是通过<span style="background-color:#ffffff; color:#333333">node的peerjs服务器webrtc</span>实现的。</p> 
+                                                                    
+                                                        <p>1.再这之前的版本，直播采用的实现方式是通过<span style="background-color:#ffffff; color:#333333">node的peerjs服务器webrtc</span>实现的。</p> 
 <p>2.在2.3和之前的版本视频聊天也是采用的peerjs实现的，</p> 
 <p>  在2.4开始视频聊天采用了数据转发的方式。</p> 
 <p>  在2.5这个版本直播也采用数据转发的方式实现。</p> 

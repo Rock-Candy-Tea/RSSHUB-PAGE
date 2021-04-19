@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2020/0507/060547_aVKx_27201
 
 <div>   
 <div class="content">
-                                                                                            <p>LXQt 0.17 已发布，LXQt 是资源开支相对较低的开源桌面环境，由 LXDE 和 Razor-qt 项目合并而成。</p> 
+                                                                    
+                                                        <p>LXQt 0.17 已发布，LXQt 是资源开支相对较低的开源桌面环境，由 LXDE 和 Razor-qt 项目合并而成。</p> 
 <p><img src="https://static.oschina.net/uploads/space/2020/0507/060547_aVKx_2720166.jpeg" referrerpolicy="no-referrer"></p> 
 <p>▲使用 LXQt 作为桌面环境的 LUbuntu 发行版</p> 
 <p>LXQt 0.17 是 LXQt 今年的首个更新版本，有以下值得关注的亮点：</p> 

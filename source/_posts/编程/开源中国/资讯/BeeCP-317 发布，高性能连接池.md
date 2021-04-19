@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9096'
+headimg: 'https://picsum.photos/400/300?random=3691'
 author: 开源中国
 comments: false
 date: Sun, 18 Apr 2021 16:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9096'
+thumbnail: 'https://picsum.photos/400/300?random=3691'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left"><strong>1：版本下载(java7)</strong></p> 
+                                                                    
+                                                        <p style="text-align:left"><strong>1：版本下载(java7)</strong></p> 
 <pre style="text-align:left"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">dependency</span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span>
    <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span>com.github.chris2018998<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span>
    <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span>beecp<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span>
