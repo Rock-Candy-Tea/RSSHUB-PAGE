@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 少数派 sspai
  - 作者动态
-headimg: 'https://picsum.photos/400/300?random=5436'
+headimg: 'https://picsum.photos/400/300?random=5441'
 author: 少数派 sspai
 comments: false
 date: Sat, 16 Nov 2019 18:40:46 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5436'
+thumbnail: 'https://picsum.photos/400/300?random=5441'
 ---
 
 <div>   
