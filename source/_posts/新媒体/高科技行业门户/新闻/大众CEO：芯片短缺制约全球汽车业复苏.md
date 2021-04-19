@@ -1,0 +1,19 @@
+
+---
+title: '大众CEO：芯片短缺制约全球汽车业复苏'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=8294'
+author: 高科技行业门户
+comments: false
+date: Mon, 19 Apr 2021 03:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8294'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">本周，国内外汽车行业有哪些大事件发生？</p><p style="text-indent: 2em; text-align: left;"><strong>大众CEO：芯片短缺制约全球汽车业复苏</strong></p><p style="text-indent: 2em; text-align: left;">据外媒报道，大众集团首席执行官赫伯特·迪斯(Herbert Diess) 4月15日表示，关键半导体的持续短缺是影响全球汽车业从新冠病毒危机中复苏的唯一因素。</p><p style="text-indent: 2em; text-align: left;">迪斯在汉诺威工业博览会（Hannover Messe ）上表示，美国、巴西和中国的汽车需求正在回升，并补充称，该公司也在努力应对欧洲地区的高订单量。迪斯认为，目前唯一限制和放缓全球汽车业复苏的是各类半导体供应的严峻形势。</p><p style="text-indent: 2em; text-align: left;">盖世点评：芯片短缺问题成为“后疫情时代”影响全球汽车产业生产的最大因素，且严峻程度仍在不断加深。</p><p style="text-indent: 2em; text-align: left;"><strong>LG-麦格纳合资公司即将赢得苹果电动车项目</strong></p><p style="text-indent: 2em; text-align: left;">4月13日，一位知情人士向《韩国时报》透露，“LG麦格纳电动动力系统即将与苹果签署合同，将负责苹果电动汽车的初步批量生产。合同的细节目前仍在讨论中。”</p><p style="text-indent: 2em; text-align: left;">据消息人士透露，LG与麦格纳的合资企业负责的产量将不会那么大，因为苹果主要打算通过其第一代电动汽车以评估其市场价值。“LG集团的子公司包括LG显示器、LG化学、LG能源解决方案和LG Innotek等，而这些公司已经包含在苹果的零部件供应链中，因此苹果不需要担心任何供应链问题。这些LG子公司有能力保证生产产量和苹果电动汽车所需零部件的更快交付。”</p><p style="text-indent: 2em; text-align: left;">LG方面拒绝就此事置评。</p><p style="text-indent: 2em; text-align: left;">盖世点评：关于苹果汽车相关信息络绎不绝，真真假假不断，不知此次消息会否再次被辟谣。</p><p style="text-indent: 2em; text-align: left;"><strong>广汽埃安投入约5亿扩建工厂，预计明年产能扩充至20万辆</strong></p><p style="text-indent: 2em; text-align: left;">4月15日，广汽埃安宣布其智能生态工厂（以下简称广汽埃安工厂）将扩建，预计投入约5亿元，计划于2022年初实现产能翻倍，年产能将在原有10万辆的基础上，扩充至20万辆。</p><p style="text-indent: 2em; text-align: left;">广汽埃安工厂于2019年4月投产，具有钢铝车身柔性生产、数字化自主决策、互动式定制、能源综合利用等特点，能够实现从传统批量化生产向大规模互动式定制的转变。</p><p style="text-indent: 2em; text-align: left;">广汽埃安方面称，工厂扩建的主要原因是销量的迅速增长以及全新车型AION Y推出将带来销量规模的进一步扩大，在此背景下，广汽埃安工厂需要全面进化。</p><p style="text-indent: 2em; text-align: left;">盖世点评：中国汽车产业全面电驱动化加速到来，不只是广汽埃安，<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>产业链上下纷纷扩产应对。</p><p style="text-indent: 2em; text-align: left;"><strong>现代·起亚发布全新中国战略，2030年在华新能源产品将达21款</strong></p><p style="text-indent: 2em; text-align: left;">4月15日，现代·起亚“再飞跃 更中国”战略发布会成功举办。面对即将到来的移动出行时代，现代·起亚针对中国这个全球最大的汽车市场，提出了推动未来发展的四大核心战略：</p><p style="text-indent: 2em; text-align: left;">第一，进一步加强本土化研发，推出为中国消费者打造的专属高品质产品和服务；</p><p style="text-indent: 2em; text-align: left;">第二，为了迎接电动化时代的到来，向中国市场导入备受全球市场认可的专属电动汽车产品；</p><p style="text-indent: 2em; text-align: left;">第三，充分利用集团全球领先的<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180824-qingdianchi.html" target="_blank" title="氢燃料电池">氢燃料电池</a></span>技术，助力中国向<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/" target="_blank" title="氢能">氢能</a></span>社会转型；</p><p style="text-indent: 2em; text-align: left;">第四，推动合资品牌转型升级，成为备受中国消费者青睐的品牌。</p><p style="text-indent: 2em; text-align: left;">盖世点评：新一轮市场竞争随“十四五”规划提速，各企业进入加速转型期。</p><p style="text-indent: 2em; text-align: left;"><strong>中国石化“牵手”奥动、蔚来布局换电，到2025年建成5000座充换电站</strong></p><p style="text-indent: 2em; text-align: left;">4月15日，中国石化分别与奥动新能源、蔚来签署战略合作协议，意与合作方在全国范围内，围绕换电站建设运营、补能技术升级及商业模式创新，开展全方位深度合作。</p><p style="text-indent: 2em; text-align: left;">中国石化董事长、党组书记张玉卓表示，中国石化正加快从传统油品销售向“油气氢电非”综合能源服务商转型，注重发展换电站和大功率直流快充等新业务，“十四五”期间，中国石化将在全国规划布局5000座充换电站。</p><p style="text-indent: 2em; text-align: left;">盖世点评：未来一段时间，充换电企业与油企的联合或将渐成趋势，加电与加油同样方便的时代在加速到来。</p><!--<p class="statement"><span>*</span>版权声明：本文为盖世汽车原创文章，如欲转载请遵守 转载说明相关规定。违反转载说明者，盖世汽车将依法追究其法律责任!</p><p class="notice">本文地址：http://auto.gasgoo.com/News/2019/05/300656465646I70107904C601.shtml</p>--><p>        *版权声明：本文为盖世汽车原创文章，如欲转载请遵守 转载说明 相关规定。违反转载说明者，盖世汽车将依法追究其法律责任!</p><p>        来源：盖世汽车<br></p> 
+  
+</div>
+            
