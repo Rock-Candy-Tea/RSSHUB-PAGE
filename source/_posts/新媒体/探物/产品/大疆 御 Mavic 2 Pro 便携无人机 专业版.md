@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FrfLjH34X6NPe5oy77Myb_oZf0wZ'
 author: 探物
 comments: false
-date: 2021-04-20 00:27:49
+date: 2021-04-20 04:11:10
 thumbnail: 'https://resource.tanwuapp.com/FrfLjH34X6NPe5oy77Myb_oZf0wZ'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FrfLjH34X6NPe5oy77Myb_oZf0wZ" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 Mavic 2 Pro 便携无人机 专业版</strong><br><br>
-          价格: ￥58.41 / 日<br>
+          价格: ￥59.00 / 日<br>
           评分: 5.0
           
 </div>
