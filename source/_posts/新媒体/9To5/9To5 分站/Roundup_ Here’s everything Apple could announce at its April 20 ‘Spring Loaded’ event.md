@@ -8,7 +8,7 @@ categories:
 headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdBYVNuky1M-HD.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
-date: Tue, 13 Apr 2021 19:58:07 GMT
+date: Mon, 19 Apr 2021 19:25:00 GMT
 thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdBYVNuky1M-HD.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
@@ -21,16 +21,23 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdB
 <div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents">
 <h2>Table of contents</h2>
 <ul>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-apple-spring-event-history" data-level="2">Apple spring event history </a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-apple-2021-april-event-details" data-level="2">Apple 2021 April Event details </a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-ipad-pro" data-level="2">iPad Pro </a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-ipad-mini" data-level="2">iPad mini</a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-airtags" data-level="2">AirTags</a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-apple-tv" data-level="2">Apple TV</a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-new-macs" data-level="2">New Macs?</a></li>
-<li><a href="https://9to5mac.com/2021/04/13/apple-april-event-roundup/#h-apple-april-event-wrap-up" data-level="2">Apple April Event wrap up</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-last-minute-rumors" data-level="2">Last-minute rumors</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-spring-event-history" data-level="2">Apple spring event history </a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-2021-april-event-details" data-level="2">Apple 2021 April Event details </a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-ipad-pro" data-level="2">iPad Pro </a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-ipad-mini" data-level="2">iPad mini</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-airtags" data-level="2">AirTags</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-tv" data-level="2">Apple TV</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-new-macs" data-level="2">New Macs?</a></li>
+<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-april-event-wrap-up" data-level="2">Apple April Event wrap up</a></li>
 </ul>
 </div>
+<h2 id="h-last-minute-rumors">Last-minute rumors</h2>
+<p><strong><span style="text-decoration: underline;">Update: April 19, 2021</span></strong></p>
+<p>We’re officially less than 24 hours away from Apple’s “Spring Loaded” special event, and a few last-minute rumors have emerged about what could be announced. </p>
+<p>Over the weekend, the <a href="https://9to5mac.com/2021/04/17/imac-apple-silicon-colors-spring-loaded-event/">reliable Twitter source L0vetodream cryptically</a> hinted that Apple could unveil its long-awaited redesigned iMac during Tuesday’s event. In addition to an all-new design and Apple Silicon inside, the new iMac are also rumored to come in a new array of colors similar to the iPad Air.</p>
+<p>Another <a href="https://9to5mac.com/2021/04/19/report-premium-podcasts-subscription-service-to-be-announced-at-the-apple-event/">last-minute report from <em>Vox Media</em></a> indicated that Apple could unveil a new Podcasts+ subscription service on Tuesday. This has been rumored for a while now, but Apple has only dabbled with a small collection of original podcasts so far. It now looks like Tuesday could be when it takes things to the next level. </p>
+<p>Finally, analysts at Wedbush also now <a href="https://9to5mac.com/2021/04/19/wedbush-analysts-predict-entry-level-ipad-mini-spring-loaded-event/">expect Apple to introduce</a> new versions of the entry-level iPad as well as the iPad mini alongside the iPad Pro. The analysts also predicted that the new iPad Pro models will see a <a href="https://9to5mac.com/2021/04/19/iphone-13-sales/">“modest” price increase</a> compared to their predecessors. </p>
 <h2 id="h-apple-spring-event-history">Apple spring event history </h2>
 <p>Some Apple events are almost guaranteed to take place every year, including WWDC in June and the annual iPhone event in the fall. Most years, it’s also reasonable to expect a second fall event focused on the Mac. Last year, for example, we had three Apple events in three months: iPad and Apple Watch in September, iPhone 12 in October, and Apple Silicon Mac in November.</p>
 <p>Spring events are harder to predict. Apple did not hold a spring event in 2020 due to the onset of the COVID-19 pandemic, but it did <a href="https://9to5mac.com/2020/03/18/apple-unveils-new-ipad-pro-with-magic-keyboard-case-available-to-order-today/">announce</a> a new iPad Pro, Magic Keyboard, and <a href="https://9to5mac.com/2020/03/18/apple-announces-new-macbook-air-with-scissor-switch-keyboard-999-price-point/">MacBook Air</a> via press releases in March, followed by the second-generation <a href="https://9to5mac.com/2020/04/15/iphone-se-2020/">iPhone SE via a press release</a> in April.</p>
@@ -89,7 +96,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdB
 <p>But Apple has shown that it doesn’t need to pack its virtual events full. Last September, for instance, Apple held a virtual event focused on the Apple Watch and updates to the iPad Air and entry-level iPad. It could be that Apple feels a new iPad Pro and one other product is enough for the April 20 event. </p>
 <p>Apple is also likely to announce the iOS 14.5 release date during the event, and it could spend stage time focused on highlighting the new features — particularly in regards to privacy and App Tracking Transparency.</p>
 <p>What do you think Apple has planned for its April 20 event? What are you most excited to see? Let us know down in the comments, and be sure to stay tuned to <em>9to5Mac</em> for more coverage of Apple’s April announcement. </p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://apple.co/2QgqkKf"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/Vectornator-Native-Banner-Ad.jpg?quality=82&strip=all" alt class="wp-image-711811" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

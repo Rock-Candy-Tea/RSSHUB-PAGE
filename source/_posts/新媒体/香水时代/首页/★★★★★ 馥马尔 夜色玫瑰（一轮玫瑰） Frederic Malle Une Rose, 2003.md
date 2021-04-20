@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=136'
+headimg: 'https://picsum.photos/400/300?random=3634'
 author: 香水时代
 comments: false
-date: Thu, 29 Aug 2019 15:31:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=136'
+date: Sun, 08 Dec 2019 20:31:39 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3634'
 ---
 
 <div>   
-最喜欢的一款，很高贵又纯粹的玫瑰，不是那种加了绿叶感的清新的玫瑰，无论什么时候喷出来都是最惊艳的味道(闻起来就好贵），留香也很久，睡前喷第二天还会有淡淡的玫瑰香环绕，真的好爱呜呜  
+在这个软件入手的小样，最近沉迷馥马尔不可自拔，这个牌子的香水都是刚接触时没有太大感觉，后来体味过后深爱着，这款香水让我想起了《唐人街探案》中的lvy  
 </div>
             
