@@ -1,0 +1,19 @@
+
+---
+title: '奥迪发布A6 E-Tron概念车：LED投影让驾驶更安全'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0420/a94532d8536a319.png'
+author: cnBeta
+comments: false
+date: Tue, 20 Apr 2021 07:36:03 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0420/a94532d8536a319.png'
+---
+
+<div>   
+据外媒报道，奥迪日前发布了A6 E-Tron概念车作为其在2021年上海车展展示的一部分。A6 E-Tron概念车采用多种大众集团的PPE平台，其外观严肃，效率也相当高--阻力系数为0.22，这在一定程度上要归功于小摄像头对侧边后视镜的取代。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0420/a94532d8536a319.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0420/a94532d8536a319.png" alt="a01.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">LED并不局限于前大灯和尾灯。汽车的每一侧都有三个内置的小投影仪，它们可以向乘客发送信息或不同的灯光信号，如果车门即将打开，这些投影仪还可以向前来的自行车骑手发出警告。额外增加的LED投影仪隐藏在每个角落进而为转弯信号创建投影。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/975c0aea86512d3.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/975c0aea86512d3.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/c5064864c704b33.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/c5064864c704b33.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/3f471842c9e78f4.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/3f471842c9e78f4.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/30ba1e3df60700a.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/30ba1e3df60700a.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/f07c9368f9226a1.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/f07c9368f9226a1.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/7fb62d018542c68.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/7fb62d018542c68.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/2c5363a22c202a2.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/2c5363a22c202a2.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/8ef2339281c4ac1.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/8ef2339281c4ac1.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/b9925d169a01f2a.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/b9925d169a01f2a.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/5874fd2e4bbd800.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/5874fd2e4bbd800.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/75b2a0c61046a00.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/75b2a0c61046a00.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/04/18d4ae78bb21ff9.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/04/18d4ae78bb21ff9.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据悉，大众汽车集团的PPE可扩展电动汽车平台在这款车的储能约可达100kWh。<br style="text-align: left;"></p>   
+</div>
+            
