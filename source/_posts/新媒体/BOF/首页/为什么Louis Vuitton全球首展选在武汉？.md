@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - BOF
  - 首页
-headimg: 'https://picsum.photos/400/300?random=5129'
+headimg: 'https://picsum.photos/400/300?random=2556'
 author: BOF
 comments: false
 date: Thu, 29 Oct 2020 16:55:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5129'
+thumbnail: 'https://picsum.photos/400/300?random=2556'
 ---
 
 <div>   

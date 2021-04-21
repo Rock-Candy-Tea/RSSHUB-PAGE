@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/80a561d3a1551385d88c70e13d1c3wf5.JPG?v=1618973355531'
 author: 巴哈姆特
 comments: false
-date: 2021-04-21 04:11:30
+date: 2021-04-21 12:11:09
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/80a561d3a1551385d88c70e13d1c3wf5.JPG?v=1618973355531'
 ---
 
@@ -69,7 +69,7 @@ Liquid Retina XDR 顯示器</h3>
 <div>
  </div>
 <div>
-　　Liquid Retina XDR 顯示器採用全新的 mini-LED 設計，在整個顯示器背面使用了超過一萬個 LED，全螢幕亮度高達 1,000 尼特、峰值亮度達 1,600 尼特，而對比度則是驚人的 1 百萬：1，可以大幅強化創意工作流程。驚人的視覺體驗可以反映真實世界所見，即使在最暗的圖像中也能捕捉到最亮的亮點和最細微的細節。現在，包括攝影師和電影製片人在內的專業創意工作者，都可以在大型顯示器上觀看和編輯逼真的 HDR 內容，並攜帶到任何地方。在 11 吋的 iPad Pro 上，也配備新 Liquid Retina XDR 顯示器及其他先進技術，包括 ProMotion、原彩顯示和 P3 廣色域支援，為 HDR 和「杜比視界」內容創造行動影廳觀看體驗。</div>
+　　Liquid Retina XDR 顯示器採用全新的頂尖 mini-LED 設計，在整個顯示器背面使用了超過一萬個 LED，全螢幕亮度高達 1,000 尼特、峰值亮度達 1,600 尼特，而對比度則是驚人的 1 百萬：1，可以大幅強化創意工作流程。驚人的視覺體驗可以反映真實世界所見，即使在最暗的圖像中也能捕捉到最亮的亮點和最細微的細節。現在，包括攝影師和電影製片人在內的專業創意工作者，都可以在大型顯示器上觀看和編輯逼真的 HDR 內容，並攜帶到任何地方。全新的 Liquid Retina XDR 顯示器也具備 11 吋的 iPad Pro 上的其他先進技術，包括 ProMotion、原彩顯示和 P3 廣色域支援，為 HDR 和「杜比視界」內容創造無與倫比的行動影廳觀看體驗。</div>
 <div>
  </div>
 <div>
@@ -115,7 +115,7 @@ Liquid Retina XDR 顯示器</h3>
 <div>
  </div>
 <div>
-　　Apple 今天宣佈推出新一代 Apple TV 4K，支援高幀率 HDR 和「杜比視界」，讓顧客能用最高的規格觀賞最喜歡的影視內容。新的 Apple TV 4K 以 A12 仿生晶片為核心，讓圖像表現、視訊解碼和音訊處理都大幅提升。此外，全新設計的 Siri Remote 擁有直覺的導覽控制，讓使用 Apple TV 觀看影劇變得更簡單。結合最強大的 TV 作業系統 tvOS，Apple TV 4K 能與 Apple 裝置和服務無縫接軌，以全家大小都喜歡的方式讓客廳華麗變身。</div>
+　　Apple 宣布推出新一代 Apple TV 4K，支援高幀率 HDR 和「杜比視界」，讓顧客能用最高的規格觀賞最喜歡的影視內容。新的 Apple TV 4K 以 A12 仿生晶片為核心，讓圖像表現、視訊解碼和音訊處理都大幅提升。此外，全新設計的 Siri Remote 擁有直覺的導覽控制，讓使用 Apple TV 觀看影劇變得更簡單。結合 TV 作業系統 tvOS，Apple TV 4K 能與 Apple 裝置和服務無縫接軌，以全家大小都喜歡的方式讓客廳華麗變身。</div>
 <div>
  </div>
 <div>
@@ -145,9 +145,9 @@ AirTag</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 28.22%;">
-<figcaption style="padding-bottom: 142.92%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?v=1618975478724" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 142.92%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?v=1618975478724" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/85/f116203583a7b3900336697df31c5s95.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 71.65%;">
-<figcaption style="padding-bottom: 56.29%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG?v=1618975478724" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.29%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG?v=1618975478724" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/0f723581b246b2708c28f8adb81c5s85.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -159,9 +159,9 @@ AirTag</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 34.15%;">
-<figcaption style="padding-bottom: 107.92%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?v=1618975507035" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 107.92%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?v=1618975507035" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/83/3468db0a94400541cf78c0daa61c5s75.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 65.46%;">
-<figcaption style="padding-bottom: 56.30%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG?v=1618975507035" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.30%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG?v=1618975507035" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/ac6534d27cd84c1eb9564f7f141c5s65.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

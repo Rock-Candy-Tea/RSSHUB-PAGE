@@ -5,11 +5,11 @@ categories:
  - 博客
  - 建宁闲谈
  - 文章
-headimg: 'https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/H.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/V.jpg'
 author: 建宁闲谈
 comments: false
 date: Wed, 08 May 2019 00:00:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/H.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/V.jpg'
 ---
 
 <div>   
@@ -96,7 +96,7 @@ unadjusted basis  = 20 – 4 + 1 =15万
     <div style="border: 1px #008BE8 dashed;">
     <table border="0">
 <form name="addCustomerReview" method="POST" action="/s/go"></form>
-<input type="hidden" name="hidden_security_key" value="a04d5374358cc06229d10d66f37b1faa">
+<input type="hidden" name="hidden_security_key" value="eaed4cb5100a5139f27482b1b4f59a62">
 <input type="hidden" name="Title" value="美国投资房费用报税的三个Safe Harbors">
 <input type="hidden" name="Article_ID" value="201905081">
 
@@ -127,7 +127,7 @@ unadjusted basis  = 20 – 4 + 1 =15万
   <td colspan="2">
   <br>
   <b>输入验证码</b> : 
-       <img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/H.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/F.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/M.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/G.jpg" width="25" referrerpolicy="no-referrer">
+       <img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/V.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/D.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/J.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/Q.jpg" width="25" referrerpolicy="no-referrer">
 <input type="text" name="security_key" size="6"> <span style="FONT-SIZE:10px;color:blue">* 必需</span> 
   </td>
 </tr>
