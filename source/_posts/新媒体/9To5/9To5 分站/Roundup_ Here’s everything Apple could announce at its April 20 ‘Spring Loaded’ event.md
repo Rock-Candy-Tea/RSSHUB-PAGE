@@ -8,28 +8,28 @@ categories:
 headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdBYVNuky1M-HD.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
-date: Mon, 19 Apr 2021 19:25:00 GMT
+date: Tue, 20 Apr 2021 10:00:00 GMT
 thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdBYVNuky1M-HD.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
 <img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdBYVNuky1M-HD.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Apple today <a href="https://9to5mac.com/2021/04/13/apple-april-event-ipad-confirmed/">officially confirmed its long-anticipated</a> spring 2021 event. This year, Apple is holding a virtual event on April 20, and it’s teasing it with the tagline “Spring Loaded.” The event could include a new iPad Pro, AirTags, and more. </p>
+<p>Apple has <a href="https://9to5mac.com/2021/04/13/apple-april-event-ipad-confirmed/">officially confirmed its long-anticipated</a> spring 2021 event. This year, Apple is holding a virtual event on April 20, and it’s teasing it with the tagline “Spring Loaded.” The event could include a new iPad Pro, AirTags, and more. </p>
 <p>Read on as we round up everything that Apple could announce during its April 20 special event. </p>
 <p><span id="more-712260"></span>
 </p>
 <div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents">
 <h2>Table of contents</h2>
 <ul>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-last-minute-rumors" data-level="2">Last-minute rumors</a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-spring-event-history" data-level="2">Apple spring event history </a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-2021-april-event-details" data-level="2">Apple 2021 April Event details </a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-ipad-pro" data-level="2">iPad Pro </a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-ipad-mini" data-level="2">iPad mini</a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-airtags" data-level="2">AirTags</a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-tv" data-level="2">Apple TV</a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-new-macs" data-level="2">New Macs?</a></li>
-<li><a href="https://9to5mac.com/2021/04/19/apple-april-event-roundup/#h-apple-april-event-wrap-up" data-level="2">Apple April Event wrap up</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-last-minute-rumors" data-level="2">Last-minute rumors</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-apple-spring-event-history" data-level="2">Apple spring event history </a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-apple-2021-april-event-details" data-level="2">Apple 2021 April Event details </a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-ipad-pro" data-level="2">iPad Pro </a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-ipad-mini" data-level="2">iPad mini</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-airtags" data-level="2">AirTags</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-apple-tv" data-level="2">Apple TV</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-new-macs" data-level="2">New Macs?</a></li>
+<li><a href="https://9to5mac.com/2021/04/20/apple-april-event-roundup/#h-apple-april-event-wrap-up" data-level="2">Apple April Event wrap up</a></li>
 </ul>
 </div>
 <h2 id="h-last-minute-rumors">Last-minute rumors</h2>
@@ -43,7 +43,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdB
 <p>Spring events are harder to predict. Apple did not hold a spring event in 2020 due to the onset of the COVID-19 pandemic, but it did <a href="https://9to5mac.com/2020/03/18/apple-unveils-new-ipad-pro-with-magic-keyboard-case-available-to-order-today/">announce</a> a new iPad Pro, Magic Keyboard, and <a href="https://9to5mac.com/2020/03/18/apple-announces-new-macbook-air-with-scissor-switch-keyboard-999-price-point/">MacBook Air</a> via press releases in March, followed by the second-generation <a href="https://9to5mac.com/2020/04/15/iphone-se-2020/">iPhone SE via a press release</a> in April.</p>
 <p>In 2019, Apple held a Spring Event purely <a href="https://9to5mac.com/2019/03/29/apple-news-card-arcade-and-tv-event-thoughts/">dedicated to its Services segment</a>, with details on Apple News+, Apple Card, Apple TV+, and Apple Arcade. In March 2018, Apple invited everyone to Chicago, <a href="https://9to5mac.com/2018/03/27/apple-education-event-announced-roundup/">where it announced</a> a new education-focused iPad.</p>
 <h2 id="h-apple-2021-april-event-details">Apple 2021 April Event details </h2>
-<figure class="wp-block-image alignwide size-large"><img data-attachment-id="712253" data-permalink="https://9to5mac.com/2021/04/13/how-to-watch-apples-april-event/how-to-watch-apples-april-event-2/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all" data-orig-size="9000,4500" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="how-to-watch-apples-april-event" data-image-description data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=655" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=1000" title="Roundup: Here's everything Apple could announce at its April 20 'Spring Loaded' event" loading="lazy" width="9000" height="4500" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=1000" alt="How to watch Apple's April event" class="wp-image-712253" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg 9000w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=155,78 155w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=655,328 655w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=768,384 768w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1024,512 1024w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1536,768 1536w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=2048,1024 2048w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=350,175 350w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1600,800 1600w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=290,145 290w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=150,75 150w" sizes="(max-width: 9000px) 100vw, 9000px" referrerpolicy="no-referrer"></figure>
+<figure class="wp-block-image alignwide size-large"><img data-attachment-id="712253" data-permalink="https://9to5mac.com/2021/04/20/how-to-watch-apples-april-event/how-to-watch-apples-april-event-2/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all" data-orig-size="9000,4500" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="how-to-watch-apples-april-event" data-image-description data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=655" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=1000" title="Roundup: Here's everything Apple could announce at its April 20 'Spring Loaded' event" loading="lazy" width="9000" height="4500" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?quality=82&strip=all&w=1000" alt="How to watch Apple's April event" class="wp-image-712253" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg 9000w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=155,78 155w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=655,328 655w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=768,384 768w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1024,512 1024w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1536,768 1536w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=2048,1024 2048w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=350,175 350w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=1600,800 1600w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=290,145 290w, https://9to5mac.com/wp-content/uploads/sites/6/2021/04/how-to-watch-apples-april-event.jpg?resize=150,75 150w" sizes="(max-width: 9000px) 100vw, 9000px" referrerpolicy="no-referrer"></figure>
 <p>This year, Apple’s spring event will take place on April 20 at 10 a.m. PT/1 p.m. ET. Due to the ongoing COVID-19 pandemic, this event will be completely virtual and streamed directly from Apple Park. </p>
 <p>Apple is teasing the April event with the tagline “Spring Loaded.” The invite is colorful but doesn’t provide many hints at what Apple could announce during the event.</p>
 <p>We expect the event to be a beautifully filmed, pre-recorded video featuring Apple CEO Tim Cook and other Apple executives. You’ll be able to stream the event through Apple’s website, on YouTube, and through the Apple TV application on iPhone, iPad, and Mac.</p>
@@ -96,7 +96,19 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/JdB
 <p>But Apple has shown that it doesn’t need to pack its virtual events full. Last September, for instance, Apple held a virtual event focused on the Apple Watch and updates to the iPad Air and entry-level iPad. It could be that Apple feels a new iPad Pro and one other product is enough for the April 20 event. </p>
 <p>Apple is also likely to announce the iOS 14.5 release date during the event, and it could spend stage time focused on highlighting the new features — particularly in regards to privacy and App Tracking Transparency.</p>
 <p>What do you think Apple has planned for its April 20 event? What are you most excited to see? Let us know down in the comments, and be sure to stay tuned to <em>9to5Mac</em> for more coverage of Apple’s April announcement. </p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="wp-block-group has-light-gray-background-color has-background">
+<div class="wp-block-group__inner-container">
+<h2><span class="has-inline-color has-black-color">Top trade-in values for Apple gear</span> <a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/">this month</a>:</h2>
+<ul>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#iphone">Check latest iPhone trade-in values</a></li>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#iphone">Check latest iPad trade-in values</a></li>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#macbook">Check latest MacBook trade-in values</a></li>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#apple-watch">Check latest Apple Watch trade-in values</a></li>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#airpods">Check latest AirPods trade-in values</a></li>
+</ul>
+</div>
+</div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/2QhdcVq"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/ZUGU-Native-Banner2-.png" alt class="wp-image-714098" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

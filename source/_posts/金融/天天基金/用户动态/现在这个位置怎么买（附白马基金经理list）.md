@@ -5,11 +5,11 @@ categories:
  - 金融
  - 天天基金
  - 用户动态
-headimg: 'https://picsum.photos/400/300?random=6894'
+headimg: 'https://picsum.photos/400/300?random=8223'
 author: 天天基金
 comments: false
 date: Fri, 19 Jun 2020 09:59:27 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6894'
+thumbnail: 'https://picsum.photos/400/300?random=8223'
 ---
 
 <div>   

@@ -38,7 +38,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/The
 <p>The company remains heavily invested in China, and that likely won’t change in the near term. However, by gradually diversifying product assembly into other countries, Apple ends up showing the world that its supply chain contains much more optionality than critics imagined. The battle between the world’s top economic powers for Apple’s business will be a key theme to watch in the 2020s.</p>
 </blockquote>
 <p><a href="https://9to5mac.com/guides/china/" target="_blank" rel="noreferrer noopener">Our China guide</a> outlines the reasons so much of Apple’s manufacturing is based in the same region of China, and the reasons the company is working hard to change this.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/2QhdcVq"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/04/ZUGU-Native-Banner2-.png" alt class="wp-image-714098" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

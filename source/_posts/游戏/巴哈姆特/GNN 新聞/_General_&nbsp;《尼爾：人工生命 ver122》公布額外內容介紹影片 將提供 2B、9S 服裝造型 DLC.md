@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/75/50b3a5a65bcb901b5952a58fbe1c5mf5.JPG?v=1618914785986'
 author: 巴哈姆特
 comments: false
-date: 2021-04-20 12:11:17
+date: 2021-04-21 00:26:43
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/50b3a5a65bcb901b5952a58fbe1c5mf5.JPG?v=1618914785986'
 ---
 
@@ -18,6 +18,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/50b3a5a65bcb901b5952a58fbe1c5mf5.
 <div>
 <div>
 　　SQUARE ENIX 製作，即將於本週四（4 月 22 日）推出的動作角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%BC%E7%88%BE%EF%BC%9A%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD+ver.1.22474487139..." target="_blank">尼爾：人工生命 ver.1.22474487139...</a>》（PS4 / Xbox One / PC），近日釋出額外內容介紹宣傳影片，供玩家參考。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/02PJzAAR8M0?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
@@ -102,6 +108,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/50b3a5a65bcb901b5952a58fbe1c5mf5.
 </div>
 <div>
 　　</div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/fOWtrspTQkw?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
 <h2>
 商品資訊</h2>
 <ul>

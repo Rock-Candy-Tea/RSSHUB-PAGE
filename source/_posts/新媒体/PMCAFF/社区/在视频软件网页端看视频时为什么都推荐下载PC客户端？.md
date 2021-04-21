@@ -1,0 +1,18 @@
+
+---
+title: '在视频软件网页端看视频时为什么都推荐下载PC客户端？'
+categories: 
+ - 新媒体
+ - PMCAFF
+ - 社区
+headimg: 'https://picsum.photos/400/300?random=7895'
+author: PMCAFF
+comments: false
+date: Mon, 19 Apr 2021 15:38:09 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7895'
+---
+
+<div>   
+在视频软件网页端看视频时为什么都推荐下载PC客户端？那么网页端存在的意义是什么？  
+</div>
+            
