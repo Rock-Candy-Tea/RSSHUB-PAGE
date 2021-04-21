@@ -1,0 +1,26 @@
+
+---
+title: 'Thread and Process State Change'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=6715'
+author: 每日安全
+comments: false
+date: 2021-04-21 04:11:47
+thumbnail: 'https://picsum.photos/400/300?random=6715'
+---
+
+<div>   
+<q>通过未公开的 API 挂起和恢复进程和线程绕过 EDR Hook 。</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/dc071663-2f31-4d9f-928e-150b2cafeef3/pushes/">
+potato
+</a>
+<span class="text-muted"><small>• 10 minutes ago</small></span>
+</cite>
+  
+</div>
+            
