@@ -1,0 +1,19 @@
+
+---
+title: '新款iPad Pro到底值不值买？我们一起来比比看'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/transform/116/w630h286/20210422/d57b-kpamyii2491791.png'
+author: cnBeta
+comments: false
+date: Thu, 22 Apr 2021 08:05:46 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/transform/116/w630h286/20210422/d57b-kpamyii2491791.png'
+---
+
+<div>   
+4月22号下午消息，在2020年iPad Pro上市仅一年后，苹果公司就在春季发布会推出了新款iPad Pro。相比于2020款iPad Pro，搭载了苹果自研芯片M1芯片的11英寸和12.9英寸的新款iPad Pro带来了许多的硬件更新和功能。<br>
+ <p style="text-align: left;">尽管2021款Pad Pro系列进行了一些显着的改进，但它是否真的值得购买呢，我们一起来比较一下两款<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a> pro上的差异。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/116/w630h286/20210422/d57b-kpamyii2491791.png" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>2021款iPad Pro硬件全面改善</strong></p><p style="text-align: left;">2021款iPad Pro全面改善了硬件。但问题大家是否需要iPad所具备的这些功能，不过现在看来新的iPad Pro还是很强大的。<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>表示，与2020款iPad Pro中的A12Z相比，采用M1芯片的新款iPad Pro的CPU性能提高了50%，GPU性能提高了40%。存储速度提高了2倍，最高容量现在达到了2TB，M1芯片上的统一内存为8GB或16GB（对于1 / 2TB存储型号则为后者）。2021款iPad Pro现已包含雷电接口，对于带宽需求大的高级用户和配备雷电接口显示器的高级用户而言，这点是很有吸引力的。另外，新款iPad Pro首次支持5G蜂窝网络。当然新的2021款iPad Pro机型也能与第二代Apple Pencil，妙控键盘和其他iPad Pro<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>一起使用。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/118/w630h288/20210422/cdbd-kpamyii2540957.png" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>12.9英寸iPad Pro带有mini-LED技术</strong></p><p style="text-align: left;">其实如果将今年发布的11英寸iPad Pro与2020款进行比较它们的显示内容是相同的，但是，12.9英寸iPad Pro还额外增加了全新的mini-LED技术的Liquid视网膜XDR屏幕，平均亮度为1000尼特，峰值亮度高达1600尼特。能达到这样的显示效果，就要归功于新的Liquid 视网膜 XDR屏幕上的10000个mini-LED提供超过2500个局部调光区。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/178/w630h348/20210422/40a5-kpamyii2545988.png" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>2021 iPad Pro前置镜头配备超广角，自带人物居中</strong></p><p style="text-align: left;">新款iPad Pro依旧通过面容ID解锁iPad、原深感摄像头还变成了超广角，摄像头上的主要新功能就是人物居中，在视频通话的时候，即使人物左右移动，也可以保持人物一直处于中间位置，并且第三方 App 也将会支持该功能。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/241/w630h411/20210422/d9a3-kpamyii2551205.png" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>新款12.9英寸iPad重量会重一些</strong></p><p style="text-align: left;">新款11英寸iPad相比较于2020款iPad Pro尺寸，重量，和电池寿命上都没有太大的区别。但是由于搭载了Liquid视网膜HDR屏，新的12.9英寸iPad Pro会更重，更厚一些。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/142/w630h312/20210422/6e06-kpamyii2555800.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/184/w630h354/20210422/0763-kpamyii2496759.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">在售价上新的11英寸WiFi型号售价为6199元起，WIiFi加5G型号7399元起。而12.9英寸WiFi型号售价为8499元起，WiFi加5G型号售价为9699元起。而2020款iPad Pro 11英寸显示屏售价6229元起，12.9 英寸显示屏售价7899元起。相比较来说新的iPad Pro12.9英寸的价格高了一些。价格上还有其他一些调整，例如，使用M1 iPad Pro升级到1TB存储会更贵一些。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/106/w630h276/20210422/74fa-kpamyii2503043.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">不知道新的iPad Pro的更新是否会对大家在工作上生活上带来更有利的便捷。虽然新款iPad Pro的带来了重大更新，M1配备了雷电接口，新的XDR显示屏以及更多功能，但其实iPadOS局限了这些新功能的发挥。不过，如果是最看重功能性并且热衷于使用iPad，或者有足够高的预算，那么2021 iPad Pro可以说是一台令人印象深刻的产品。但是，如果你主要将iPad用于完成日常任务或者娱乐，那么你手里的iPad是没必要换的，或者选择价格更实惠的Air或者2020款iPad Pro。</p>   
+</div>
+            

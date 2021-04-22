@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?v=1619022307306'
 author: 巴哈姆特
 comments: false
-date: 2021-04-22 04:10:33
+date: 2021-04-22 08:09:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?v=1619022307306'
 ---
 
@@ -17,14 +17,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.
 <!-- 新聞內容 -->
 <div>
 <div>
-<div>
 　　CAPCOM 今（22）日宣布，將曾在 3DS / iOS / Android 平台上推出的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A7%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4+%EF%BC%8D%E6%88%90%E6%AD%A5%E5%A0%82%E9%BE%8D%E4%B9%8B%E4%BB%8B%E7%9A%84%E5%86%92%E9%9A%AA%EF%BC%8D" target="_blank">大逆轉裁判 －成步堂龍之介的冒險－</a>》以及《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A7%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4+2+%EF%BC%8D%E6%88%90%E6%AD%A5%E5%A0%82%E9%BE%8D%E4%B9%8B%E4%BB%8B%E7%9A%84%E8%A6%BA%E6%82%9F%EF%BC%8D" target="_blank">大逆轉裁判 2 －成步堂龍之介的覺悟－</a>》HD 化並收錄於一款遊戲中的合輯作品《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A7%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4+1%EF%BC%862+%EF%BC%8D%E6%88%90%E6%AD%A5%E5%A0%82%E9%BE%8D%E4%B9%8B%E4%BB%8B%E7%9A%84%E5%86%92%E9%9A%AA%E8%88%87%E8%A6%BA%E6%82%9F%EF%BC%8D" target="_blank">大逆轉裁判 1＆2 －成步堂龍之介的冒險與覺悟－</a>（大逆転裁判 1&2 － 成歩堂龍ノ介の冒險と覺悟－）》預計 7 月 29 日在 Nintendo Switch / PS4 / PC（Steam）平台全球同步發售。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?v=1619022307306" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?v=1619022307306" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -60,7 +59,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG?v=1619022318313" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG?v=1619022318313" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/8ef005518008ae7f7b0343d39d1c68k5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -76,7 +75,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG?v=1619022332751" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG?v=1619022332751" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/3260a7e9b40783ad9cda4862dc1c68i5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -88,17 +87,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/ab75ab766fc3ca0bad19886c871c68j5.
 <div>
 <ul class="bh-grids-img" style="width:70%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 100.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG?v=1619022265636" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG 2x" style="max-width: unset;" title="官方還將推出《大逆轉裁判 1＆2 －成步堂龍之介的冒險與覺悟－》以及《逆轉裁判 123 成步堂精選集》的合集版，詳情可參考官方網站" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 100.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG?v=1619022265636" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/6e70d521f5fc5cd56e57e9ca551c68f5.JPG 2x" style="max-width: unset;" title="官方還將推出《大逆轉裁判 1＆2 －成步堂龍之介的冒險與覺悟－》以及《逆轉裁判 123 成步堂精選集》的合集版，詳情可參考官方網站" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 官方還將推出《大逆轉裁判 1＆2 －成步堂龍之介的冒險與覺悟－》<br>
 以及《逆轉裁判 123 成步堂精選集》的合集版，詳情可參考官方網站</figure>
 </li>
 </ul>
-</div>
-</div>
-<div>
- </div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="21851" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">©CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.</p>
 </div>
