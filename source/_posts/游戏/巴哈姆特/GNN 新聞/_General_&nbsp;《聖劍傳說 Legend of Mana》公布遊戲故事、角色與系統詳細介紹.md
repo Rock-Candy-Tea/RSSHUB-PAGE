@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/11/ef9cb312c244cc27370c7224f41bi6z5.JPG?v=1618988596508'
 author: 巴哈姆特
 comments: false
-date: 2021-04-21 12:11:09
+date: 2021-04-22 00:27:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/11/ef9cb312c244cc27370c7224f41bi6z5.JPG?v=1618988596508'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/11/ef9cb312c244cc27370c7224f41bi6z5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　SQUARE ENIX 製作，預定 6 月 24 日推出的 PlayStation 經典動作遊戲 HD Remaster 版《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E5%8A%8D%E5%82%B3%E8%AA%AA%20Legend%20of%20Mana" target="_blank">聖劍傳說 Legend of Mana</a>》（Nintendo Switch / PS4 / Steam），現公布遊戲故事、角色與系統的詳細介紹，供玩家參考。</div>
+　　SQUARE ENIX 製作，預定 6 月 24 日推出的 PlayStation 經典動作遊戲 HD Remaster 版《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E5%8A%8D%E5%82%B3%E8%AA%AA%20Legend%20of%20Mana" target="_blank">聖劍傳說 Legend of Mana</a>》（Nintendo Switch / PS4 / Steam），現公布遊戲故事、角色與系統的詳細介紹。</div>
 <div>
  </div>
 <h2 style="background-color: rgb(255, 255, 255);">
