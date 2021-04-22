@@ -100,7 +100,7 @@ The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above)
 <li>Set <code>triangle[row][col]</code> to be itself plus <code>smallestAbove</code>.
 Return the minimum value in <code>triangle[n - 1]</code>.</li></ul></li>
 </ul>
-<iframe src="https://leetcode.com/playground/2UnLorRx/shared" frameborder="0" width="100%" height="361" name="2UnLorRx"></iframe>
+<iframe src="https://leetcode.com/playground/HPoGaA3j/shared" frameborder="0" width="100%" height="361" name="HPoGaA3j"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$n$$ be the number of rows in the triangle.</p>
 <ul>
@@ -118,7 +118,7 @@ Return the minimum value in <code>triangle[n - 1]</code>.</li></ul></li>
 <p>Observe that as we worked our way down the rows of the triangle, we only ever needed to look at the row immediately above. This means that we only need to maintain the current row and the previous row. Because a row contains at most $$n$$ cells, this will meet the $$O(n)$$ space requirement.</p>
 <p><strong>Algorithm</strong></p>
 <p>This approach is almost the same as Approach 1. The only difference is that we need to write the new values for the current row into an extra list (or array), and then keep track of the previous one of these lists.</p>
-<iframe src="https://leetcode.com/playground/nucqbMLe/shared" frameborder="0" width="100%" height="395" name="nucqbMLe"></iframe>
+<iframe src="https://leetcode.com/playground/MoMAako8/shared" frameborder="0" width="100%" height="395" name="MoMAako8"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <ul>
 <li><p>Time Complexity: $$O(n^&#123;2&#125;)$$.</p>
@@ -154,9 +154,9 @@ Return the minimum value in <code>triangle[n - 1]</code>.</li></ul></li>
 <li>Return <code>triangle[0][0]</code></li>
 </ul>
 <p>Here is the in-place implementation. When this algorithm has finished running, each cell, <code>(row, col)</code> of the input triangle will be overwritten with the minimal path sum from <code>(row, col)</code> to any cell on the bottom <code>row</code>.</p>
-<iframe src="https://leetcode.com/playground/LrDKuCX8/shared" frameborder="0" width="100%" height="276" name="LrDKuCX8"></iframe>
+<iframe src="https://leetcode.com/playground/XmRYaUUT/shared" frameborder="0" width="100%" height="276" name="XmRYaUUT"></iframe>
 <p>And here is the auxiliary space implementation.</p>
-<iframe src="https://leetcode.com/playground/kD9dyx8h/shared" frameborder="0" width="100%" height="293" name="kD9dyx8h"></iframe>
+<iframe src="https://leetcode.com/playground/VhKv5w9f/shared" frameborder="0" width="100%" height="293" name="VhKv5w9f"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>The time and space complexity for Approach 3 depends on which implementation you're looking at. The in-place implementation has the same complexity analysis as Approach 1, whereas the auxiliary space implementation has the same complexity analysis as Approach 2.</p>
 <p><br></p>
@@ -171,7 +171,7 @@ Return the minimum value in <code>triangle[n - 1]</code>.</li></ul></li>
 <p>The base case is where there are no more rows below. In this case, we should simply return the current cell's value:</p>
 <p><code>return triangle[row][col]</code></p>
 <p>To avoid re-calculating the same results over and over again, we can use a <code>memoization</code> table.</p>
-<iframe src="https://leetcode.com/playground/EffVgPN9/shared" frameborder="0" width="100%" height="480" name="EffVgPN9"></iframe>
+<iframe src="https://leetcode.com/playground/hoD5bS2S/shared" frameborder="0" width="100%" height="480" name="hoD5bS2S"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$n$$ be the number of rows in the triangle.</p>
 <ul>

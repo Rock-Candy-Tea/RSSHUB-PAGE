@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/63/18409c0ba26be97ad21a217c871c65j5.JPG?v=1619001101941'
 author: 巴哈姆特
 comments: false
-date: 2021-04-22 00:27:54
+date: 2021-04-22 04:10:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/18409c0ba26be97ad21a217c871c65j5.JPG?v=1619001101941'
 ---
 
@@ -300,7 +300,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/18409c0ba26be97ad21a217c871c65j5.
  </div>
 <div>
 <div>
-　　業火與煙塵繚繞之國「奧布斯‧卡拉葛利亞」。充滿岩石與<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%A0%82%E7%A4%AB" target="_blank">砂礫</a>的不毛之地，火焰四處噴發，所產生的煙霧籠罩著陽光。天空中有精煉燃料的巨大機器緩慢地運作著，其動力大部分都來自人類。</div>
+　　業火與煙塵繚繞之國「奧布斯‧卡拉葛利亞」。充滿岩石與砂礫的不毛之地，火焰四處噴發，所產生的煙霧籠罩著陽光。天空中有精煉燃料的巨大機器緩慢地運作著，其動力大部分都來自人類。</div>
 <div>
  </div>
 </div>
@@ -437,7 +437,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/18409c0ba26be97ad21a217c871c65j5.
 <li>
 明信片 5 張 </li>
 <li>
-伏露露玩偶配件 10 種 下載代碼</li>
+伏露露玩偶配件 6 種 下載代碼</li>
 </ol>
 <div>
  </div>
