@@ -79,7 +79,7 @@ We can optimize this solution by using a <strong>dynamic programming</strong> ap
 <p>In all the above three cases we will be left with a subarray (in the end, in the beginning, or somewhere in the middle) after our selection. This can be better understood in the following illustration where we are selecting 3 cards from an array of 8 cards.</p>
 <p><img src="https://leetcode.com/articles/Figures/1423/1423_Maximum_Points_You_Can_Obtain_from_Cards_Overview_Image.png" alt="fig" referrerpolicy="no-referrer">
 &#123;:align="center"&#125;</p>
-<p><em>Figure 1. An example demonstrating some of the possible positions of the subarrays possible from selecting <code>k = 3</code> cards from the array.</em>
+<p><em>Figure 1. An example demonstrating some of the positions of the subarrays possible from selecting <code>k = 3</code> cards from the array.</em>
 &#123;:align="center"&#125;</p>
 <p>In addition to the dynamic programming approach, we can also take a <strong>sliding window</strong> approach. A sliding window is a standard programming pattern used in many problems, including those related to finding the sum or the product of a subarray. In case you are not familiar with sliding windows, you can go through this article written by one of our LeetCode users: <a href="https://leetcode.com/discuss/study-guide/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions">Sliding Window Problems for Beginners</a>.
 In this article, we'll start by looking at the dynamic programming approach and discuss how to optimize its space complexity. After that, we will finish with the sliding window approach.</p>
@@ -90,17 +90,17 @@ In this article, we'll start by looking at the dynamic programming approach and 
 <p>As we determined above, the <code>k</code> cards that we choose will form two contiguous subarrays: one at the start, and one at the end of the input array. If we choose <code>i</code> cards from the start (where <code>i <= k</code>) then we must choose <code>k - i</code> cards from the end. There are <code>k</code> <em>different</em> lengths the first array could be. </p>
 <p>Since these <code>k</code> arrays are <em>overlapping</em>, we can calculate the <strong>prefix sum</strong> for each of the first <code>k</code> values, and then for each of the last <code>k</code> values (working from the end of the array, and going inwards). We will store these values in two arrays of size <code>k</code>.</p>
 <p>We can then use these to efficiently check each possible way of selecting <code>i</code> cards from the start and <code>k - i</code> cards from the end.</p>
-<p>!?!../Documents/1423<em>Maximum</em>Points<em>You</em>Can<em>Obtain</em>from_Cards.json:960,540!?!
-<br></p>
+<p>!?!../Documents/1423<em>Maximum</em>Points<em>You</em>Can<em>Obtain</em>from_Cards.json:960,540!?!</p>
+<p><br></p>
 <p><strong>Algorithm</strong></p>
 <ol>
-<li>Initialize two arrays of size <code>k + 1</code>, namely <code>frontSetOfCards</code> and <code>rearSetOfCards</code> to store the score (prefix sums) obtained by selecting the first <code>i</code> cards and the last <code>i</code> cards in the array.</li>
-<li>We calculate the prefix sum (sum of <code>0 <= i <= k</code> cards) for the first <code>k</code> cards <code>frontSetOfCards[i + 1] = frontSetOfCards[i] + cardPoints[i]</code> and the last <code>k</code> cards <code>rearSetOfCards[i + 1] = cardPoints[n - i - 1] + rearSetOfCards[i]</code>.</li>
-<li>Initialize <code>maxScore</code> to 0.</li>
-<li>Iterate from <code>i = 0 -> k</code>. At each iteration, we determine the possible score by selecting <code>i</code> cards from the beginning of the array and <code>k - i</code> cards from the end (<code>currentScore</code>). If this score is greater than the <code>maxScore</code> then we update it.</li>
+<li><p>Initialize two arrays of size <code>k + 1</code>, namely <code>frontSetOfCards</code> and <code>rearSetOfCards</code> to store the score (prefix sums) obtained by selecting the first <code>i</code> cards and the last <code>i</code> cards in the array.</p></li>
+<li><p>We calculate the prefix sum (sum of <code>0 <= i <= k</code> cards) for the first <code>k</code> cards <code>frontSetOfCards[i + 1] = frontSetOfCards[i] + cardPoints[i]</code> and the last <code>k</code> cards <code>rearSetOfCards[i + 1] = cardPoints[n - i - 1] + rearSetOfCards[i]</code>.</p></li>
+<li><p>Initialize <code>maxScore</code> to 0.</p></li>
+<li><p>Iterate from <code>i = 0 -> k</code>. At each iteration, we determine the possible score by selecting <code>i</code> cards from the beginning of the array and <code>k - i</code> cards from the end (<code>currentScore</code>). If this score is greater than the <code>maxScore</code> then we update it.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/ME4sLMmp/shared" frameborder="0" width="100%" height="500" name="ME4sLMmp"></iframe>
+<iframe src="https://leetcode.com/playground/AZ37sVqF/shared" frameborder="0" width="100%" height="500" name="AZ37sVqF"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$k$$ be the number of cards we need to select.</p>
 <ul>
@@ -115,13 +115,13 @@ In this article, we'll start by looking at the dynamic programming approach and 
 <p>Instead of pre-computing the arrays, we can calculate the total score while iterating over the array and store the total score in two variables (in place of the two arrays).</p>
 <p><strong>Algorithm</strong></p>
 <ol>
-<li>Initialize two variables, namely <code>frontScore</code> and <code>rearScore</code> to store the score obtained by selecting the first <code>i</code> cards and the last <code>k - i</code> cards in the array.</li>
-<li><code>frontScore</code> is initialized to the sum of the first <code>k</code> cards in the array, and <code>rearScore</code> is initialized to <code>0</code>.</li>
-<li>Initialize <code>maxScore</code> to  <code>frontScore</code>.</li>
-<li>Iterate backwards from <code>i = k - 1 -> 0</code>. At each iteration, we calculate the score by selecting <code>i</code> cards from the beginning of the array and <code>k - i</code> cards from the end (<code>currentScore</code>). If this score is greater than <code>maxScore</code>, we update it.</li>
+<li><p>Initialize two variables, namely <code>frontScore</code> and <code>rearScore</code> to store the score obtained by selecting the first <code>i</code> cards and the last <code>k - i</code> cards in the array.</p></li>
+<li><p><code>frontScore</code> is initialized to the sum of the first <code>k</code> cards in the array, and <code>rearScore</code> is initialized to <code>0</code>.</p></li>
+<li><p>Initialize <code>maxScore</code> to  <code>frontScore</code>.</p></li>
+<li><p>Iterate backwards from <code>i = k - 1 -> 0</code>. At each iteration, we calculate the score by selecting <code>i</code> cards from the beginning of the array and <code>k - i</code> cards from the end (<code>currentScore</code>). If this score is greater than <code>maxScore</code>, we update it.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/NcK2soJg/shared" frameborder="0" width="100%" height="497" name="NcK2soJg"></iframe>
+<iframe src="https://leetcode.com/playground/ifWWPQjZ/shared" frameborder="0" width="100%" height="497" name="ifWWPQjZ"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$k$$ be the number of cards we need to select.</p>
 <ul>
@@ -137,21 +137,23 @@ In this article, we'll start by looking at the dynamic programming approach and 
 <p>We can use a sliding window to find the subarray of size <code>cardPoints.length - k</code> that has the minimal sum. Subtracting this value from the total sum of all the cards will give us our answer. This is because no matter where the minimum subarray is located (in the beginning, the middle, or the end) the remaining cards must be selected under the given rule: <em>in one step, you can take one card from the beginning or the end of the array</em>.  </p>
 <p><strong>Algorithm</strong></p>
 <ol>
-<li>Find the sum of all cards in the array and store it in a variable <code>totalScore</code>.</li>
-<li>If <code>k</code> is equal to <code>cardPoints.length</code>, then <code>return totalScore</code>.</li>
-<li>Initialize <code>requiredSubarrayLength</code> to <code>cardPoints.length - k</code>.</li>
-<li>Initialize two variables: <code>presentSubarrayScore</code> and <code>startingIndex</code> to <code>0</code>. This <code>startingIndex</code> marks the starting point of the subarray presently under consideration. Thus it keeps track of the length of the present subarray. </li>
-<li>Initialize a variable <code>minSubarrayScore</code> to <code>totalScore</code>. When the algorithm completes, this variable will hold the smallest possible subarray score in the input array.</li>
-<li>Iterate over the array.<ul>
+<li><p>Find the sum of all cards in the array and store it in a variable <code>totalScore</code>.</p></li>
+<li><p>If <code>k</code> is equal to <code>cardPoints.length</code>, then <code>return totalScore</code>.</p></li>
+<li><p>Initialize <code>requiredSubarrayLength</code> to <code>cardPoints.length - k</code>.</p></li>
+<li><p>Initialize two variables: <code>presentSubarrayScore</code> and <code>startingIndex</code> to <code>0</code>. This <code>startingIndex</code> marks the starting point of the subarray presently under consideration. Thus it keeps track of the length of the present subarray. </p></li>
+<li><p>Initialize a variable <code>minSubarrayScore</code> to <code>totalScore</code>. When the algorithm completes, this variable will hold the smallest possible subarray score in the input array.</p></li>
+<li><p>Iterate over the array.</p>
+<ul>
 <li>At each iteration add the current card to <code>presentSubarrayScore</code>.</li></ul></li>
-<li>If the size of the subarray under consideration <code>presentSubarrayLength</code> is equal to the <code>requiredSubarrayLength</code> :<ul>
+<li><p>If the size of the subarray under consideration <code>presentSubarrayLength</code> is equal to the <code>requiredSubarrayLength</code>:</p>
+<ul>
 <li>Compare the score of the subarray <code>presentSubarrayScore</code> with the <code>minSubarrayScore</code> and modify the <code>minSubarrayScore</code> so that it stores the minimum possible subarray sum. </li>
 <li>Subtract the current card from the <code>presentSubarrayScore</code>.</li>
 <li>Increment the <code>startingIndex</code>.</li></ul></li>
-<li>Subtract the <code>minSubarrayScore</code> from the <code>totalScore</code> to get the maximum total score that can be obtained by picking <code>k</code> cards from the beginning or the end of the array. Return this value.</li>
+<li><p>Subtract the <code>minSubarrayScore</code> from the <code>totalScore</code> to get the maximum total score that can be obtained by picking <code>k</code> cards from the beginning or the end of the array. Return this value.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/FtwdYVRk/shared" frameborder="0" width="100%" height="500" name="FtwdYVRk"></iframe>
+<iframe src="https://leetcode.com/playground/VyiiNqzW/shared" frameborder="0" width="100%" height="500" name="VyiiNqzW"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$n$$ be the number of cards we need to select.</p>
 <ul>

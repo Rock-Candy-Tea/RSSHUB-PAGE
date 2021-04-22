@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/61/96acf1f11439ba64ffd0bd00331c6dt5.JPG?v=1619067385477'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/00/2280cb9236c900f812259e9af61c69c5.JPG?v=1619087311663'
 author: 巴哈姆特
 comments: false
-date: 2021-04-22 08:09:35
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/96acf1f11439ba64ffd0bd00331c6dt5.JPG?v=1619067385477'
+date: 2021-04-22 12:11:24
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/2280cb9236c900f812259e9af61c69c5.JPG?v=1619087311663'
 ---
 
 <div>   
@@ -17,7 +17,21 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/96acf1f11439ba64ffd0bd00331c6dt5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　由米哈遊研發、品玩邦代理發行的開放世界動作 RPG 遊戲《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》今日公開「煙緋：百法通明」角色展示影片，並預告 4 月 28 日登陸 PlayStation 5 平台。</div>
+　　由米哈遊研發、品玩邦代理發行的開放世界動作 RPG 遊戲《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》今日公開「煙緋：百法通明」角色展示影片及全新研發訪談影片，後者揭露了該遊戲在 PlayStation 5 的表現。 《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》PlayStation 5 原生版本將於 2021 年 4 月 28 日正式推出，可望提供更流暢的冒險體驗，並以此為基礎藉，在原生 4K 解析度和高畫質貼圖環境下執行。</div>
+<div>
+ </div>
+<div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/2280cb9236c900f812259e9af61c69c5.JPG?v=1619087311663" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/2280cb9236c900f812259e9af61c69c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/2280cb9236c900f812259e9af61c69c5.JPG 2x" referrerpolicy="no-referrer"></div>
+<div>
+ </div>
+<div>
+<div>
+　　作為一款免費遊玩遊戲，《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》將玩家踏入景色令人歎為觀止的提瓦特大陸，在這片大陸上七位元素之神統治著不同的人們。玩家將扮演一位神秘的「旅行者」，踏上屬於自己的旅程，找回失散多年的至親，並最終揭開隱藏在世界之下的奧秘。玩家們將能夠探索提瓦特大陸七大主要城邦中的蒙德和璃月城。每個城市都有獨特的文化氣息，故事，廣闊的景觀，到處都是多樣的生物、敵人，謎團和隱藏的寶藏。更多城市、劇情故事、角色和季節性活動將陸續推出。</div>
+<div>
+ </div>
+<div>
+　　官方表示，最新影片中展示了《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》採用次世代思路，從各個方面升級其開放世界體驗：透過高畫質貼圖以及完全從頭打造的圖形庫，加入更豐富清晰的細節，從而更生動、深入地展示提瓦特世界；藉由為 PS5 強大的 SSD 量身定製的文件載入系統，遊戲的載入速度獲得提昇，讓玩家穿梭於廣袤多變的遊戲環境進行冒險時的體驗更加流暢。璃月最受歡迎的地點之一 —— 慶雲頂也翻新改良，遊玩 PlayStation 5 原生版本的玩家將能獨享這一美景。</div>
+</div>
 <div>
  </div>
 <h3>
@@ -91,7 +105,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/96acf1f11439ba64ffd0bd00331c6dt5.
 <div>
  </div>
 <div>
-　　官方表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》將於 2021 年 4 月 28 日正式登陸 PlayStation 5 平台，與全世界的玩家，一同體驗更加逼真，流暢的冒險旅程。在正式體驗這段冒險旅程之前，米哈遊是做出了哪些努力，將「宏大卻細膩」的提瓦特大陸帶到 PlayStation 5 平台的呢？在提升和改善《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》的運行效能方面，又凝聚著開發團隊們怎樣的巧思呢？若玩家想知道這些問題的答案，那就隨著影片，一起瞭解《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》背後的開發故事吧。</div>
+　　米哈遊還確認計劃為 PlayStation 5 版本開發更多的功能，包括進一步支援 DualSense Controller。 「為了能在長期的開發過程中充分利用次世代主機，我們的團隊著手開發了許多新功能」米哈遊技術總監弋振中表示。 「在未來的更新中，我們還將進一步嘗試提升視覺品質和遊戲性能。目前我們仍在不斷探索中。」</div>
 <div>
  </div>
 <div>
@@ -100,6 +114,16 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/96acf1f11439ba64ffd0bd00331c6dt5.
 </div>
 <div>
  </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/54ae212c57f92194d634269d4b1c69d5.JPG?v=1619087551121" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/54ae212c57f92194d634269d4b1c69d5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/01/54ae212c57f92194d634269d4b1c69d5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/01/54ae212c57f92194d634269d4b1c69d5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/01/54ae212c57f92194d634269d4b1c69d5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+　　《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》將於 2021 年 4 月 28 日與其 1.5 版本更新同時正式登陸 PlayStation 5。 《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》PlayStation 4 的老玩家都可以直接在 PlayStation 5 上繼續自己的旅程，享受次世代的升級體驗。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="15297" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">Copyright © miHoYo All Rights Reserved
