@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 少数派 sspai
  - 标签订阅
-headimg: 'https://picsum.photos/400/300?random=7166'
+headimg: 'https://picsum.photos/400/300?random=3336'
 author: 少数派 sspai
 comments: false
 date: Tue, 20 Apr 2021 20:32:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7166'
+thumbnail: 'https://picsum.photos/400/300?random=3336'
 ---
 
 <div>   
