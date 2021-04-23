@@ -15,12 +15,12 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/2/26/161cdbf9593d78f9?imageView2/
 <div>   
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p>React的事件机制还是很好玩的，其中模拟事件传递和利用document委托大部分事件的想法比较有意思。</p>
 <h3 data-id="heading-0">事件机制流程图</h3>
-<p></p><figure><img alt="event-react" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf9593d78f9?imageView2/0/w/1280/h/960/ignore-error/1" data-width="825" data-height="1280" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="event-react" src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf9593d78f9?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h3 data-id="heading-1">代码分析</h3>
 <p>（代码仅包含涉及事件参数的部分）</p>
 <p>_updateDOMProperties是事件参数处理的入口，只要注意enqueuePutListener这个方法就好了，这是注册事件的入口函数。registrationNameModules变量保存事件类型和对应的方法的映射的一个对象，如图：</p>
 <p align="center">
-<img alt="registrationnamemodules" width="539" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a27460e?imageView2/0/w/1280/h/960/ignore-error/1" data-width="1078" data-height="888" referrerpolicy="no-referrer">
+<img src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a27460e?imageView2/0/w/1280/h/960/ignore-error/1" alt="registrationnamemodules" width="539" loading="lazy" referrerpolicy="no-referrer">
 </p>
 <p>这些映射的初始化的地方在《React源码分析 - 组件初次渲染》解释过了。</p>
 <pre><code lang="javascript" class="copyable">_updateDOMProperties: <span><span>function</span> (<span>lastProps, nextProps, transaction</span>) </span>&#123;
@@ -175,7 +175,7 @@ trapCapturedEvent: <span><span>function</span> (<span>topLevelType, handlerBaseN
 <span class="copy-code-btn">复制代码</span></code></pre><p>plugin的extractEvents方法中的有意思的地方在于 <strong>EventPropagators.accumulateTwoPhaseDispatches(event)</strong> 。</p>
 <p>EventPropagators.accumulateTwoPhaseDispatches中模拟了事件传递的过程即：capture -> target -> bubble 的过程，将这个路径上的所有的符合事件类型的回调函数以及对应的元素按照事件传递的顺序返回。</p>
 <p align="center">
-<img width="400" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a3f8121?imageView2/0/w/1280/h/960/ignore-error/1" data-width="1004" data-height="1024" referrerpolicy="no-referrer">
+<img src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a3f8121?imageView2/0/w/1280/h/960/ignore-error/1" width="400" loading="lazy" referrerpolicy="no-referrer">
 </p>
 <p>（图片来自<a target="_blank" href="https://www.w3.org/TR/DOM-Level-3-Events/#event-flow">Event dispatch and DOM event flow</a>）</p>
 <pre><code lang="javascript" class="copyable"><span><span>function</span> <span>traverseTwoPhase</span>(<span>inst, fn, arg</span>) </span>&#123;
@@ -204,7 +204,7 @@ trapCapturedEvent: <span><span>function</span> (<span>topLevelType, handlerBaseN
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>查询listener和对应的inst使用的是事件的类型以及_rootNodeID，listenerBank中保存了对应一个类型下元素的回调函数：</p>
 <p align="center">
-<img alt="listenerBank" width="200" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a22ace2?imageView2/0/w/1280/h/960/ignore-error/1" data-width="402" data-height="268" referrerpolicy="no-referrer">
+<img src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a22ace2?imageView2/0/w/1280/h/960/ignore-error/1" alt="listenerBank" width="200" loading="lazy" referrerpolicy="no-referrer">
 </p>
 <pre><code lang="javascript" class="copyable"><span><span>function</span> <span>listenerAtPhase</span>(<span>inst, event, propagationPhase</span>) </span>&#123;
   <span>var</span> registrationName = event.dispatchConfig.phasedRegistrationNames[propagationPhase];
@@ -282,6 +282,6 @@ getListener: <span><span>function</span> (<span>inst, registrationName</span>) <
 <li><a target="_blank" href="https://www.w3.org/TR/DOM-Level-3-Events/#ui-events-intro">UI Events</a></li>
 <li><a target="_blank" href="https://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html#Events-EventTarget">Document Object Model Events</a></li>
 </ul>
-</div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</div>  
 </div>
             

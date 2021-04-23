@@ -19,7 +19,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f
 <h2 data-id="heading-1">APP首屏渲染时间定义</h2>
 <p>启动的定义在不同产品中有不同的标准，对于哈啰出行来说，首页启动加载完成的定义为：</p>
 <p><strong>从用户感知侧，我们希望优化用户真正点击APP icon到首页首屏渲染加载完成的时间。</strong></p>
-<p><img alt="截屏2021-04-08 下午7.07.54.png" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f8e499f66bc2a90~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f8e499f66bc2a90~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-04-08 下午7.07.54.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-2">优化阶段</h2>
 <p>产品快速迭代在解决快速业务发展的同时也带来了大量的技术债堆积，如果没有良好的规范和监控流程会使项目在稳定和体验上存在较多的隐患和挑战。正如启动阶段的启动项和业务逻辑堆积。
 目前影响用户感知到的首页加载速度主要分以下三个阶段分析定位：</p>
@@ -29,7 +29,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f
 <li>业务模块加载性能</li>
 </ul>
 <h3 data-id="heading-3">优化路径</h3>
-<p><img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f2954281525b4098b05d5ab4455ad576~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f2954281525b4098b05d5ab4455ad576~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ol>
 <li>数据收集：收集启动阶段、首页加载、各业务模块加载性能数据</li>
 <li>问题分析：确认并定位分析目前各阶段加载存在或依赖的问题</li>
@@ -40,7 +40,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f
 <p>数据收集目前主要关注启动加载全链路的各阶段耗时，包括首页的页面加载时间、模块加载时间。</p>
 <h3 data-id="heading-5">1、 APP启动渲染全链路数据收集</h3>
 <p>从用户感知侧，我们希望收集到用户真正点APP Icon到首页首屏渲染加载的时间，以此来优化首页用户真实场景的体验。计划收集以下节点阶段数据分析：</p>
-<p><img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a019a72206504c6e8557d7a2a997bc61~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a019a72206504c6e8557d7a2a997bc61~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>初始化耗时：DidFinishLaunching - App Process Init</li>
 <li>前置任务耗时：DidFinishLaunching - Homepage Init</li>
@@ -77,13 +77,13 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f
 <li>AppLaunchedAfter ：App启动之后（App启动完成，UI已展示）。</li>
 </ul>
 <h4 data-id="heading-8">任务加载时序图：</h4>
-<p><img alt="image.png" class="lazyload" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f7fdd8e8e684e4f8811e0a8054f0666~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f7fdd8e8e684e4f8811e0a8054f0666~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-9">3、模块加载时间收集</h3>
 <p>目前首页模块加载数据收集分为两个阶段：加载数据阶段和UI渲染阶段。</p>
 <p>*<em>Adapter为首页模块化的抽象实体对象</em>
-<img alt="image.png" class="lazyload" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1bd955922e9443f98dfdf85cb9b8ea5~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1bd955922e9443f98dfdf85cb9b8ea5~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-10">二、问题分析</h2>
-<p><img alt="image.png" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/75f1ed2e4eb04e548c6cef4a77e0185f~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/75f1ed2e4eb04e548c6cef4a77e0185f~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-11">1、App整体性能分析：Instrument</h3>
 <h5 data-id="heading-12">使用 Instrument Time Profiler 性能工具分析</h5>
 <blockquote>
@@ -91,15 +91,15 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/28dee41f51d24e9b9f
 但Time Profiler 其实只适合粗粒度的分析，我们来看下它的实现原理：
 默认 Time Profiler 会 1ms 采样一次，只采集在运行线程的调用栈，最后以统计学的方式汇总。比如下图中的 5 次采样中，method3 都没有采样到，所以最后聚合到的栈里就看不到 method3。所以 Time Profiler 中的看到的时间，并不是代码实际执行的时间，而是栈在采样统计中出现的时间。对于我们分析头部耗时问题的任务会有一定的帮助。</p>
 </blockquote>
-<p><img alt="image.png" class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f943a6d8a4be44dc858bde349f5445d0~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f943a6d8a4be44dc858bde349f5445d0~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 Time Profiler 支持一些额外的配置，如果统计出来的时间和实际的时间相差比较多，可以尝试开启：</p>
 <ul>
 <li>High Frequency，降低采样的时间间隔</li>
 <li>Record Kernel Callstacks，记录内核的调用栈</li>
 <li>Record Waiting Thread，记录被 block 的线程</li>
 </ul>
-<p><img alt="image.png" class="lazyload" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4974b2798e248a6bb229a7100a784d8~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
-<p><img alt="image.png" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8049242e607c4271be2b4c5582495715~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4974b2798e248a6bb229a7100a784d8~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8049242e607c4271be2b4c5582495715~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 环境：Xcode11 ， iOS 13，iPhone双核测试机。</p>
 <h5 data-id="heading-13">结论：</h5>
 <p>仅从截取部分的图中可以看到启动到首页加载阶段CPU都处于满负荷的状态，特别是在启动项加载和首页加载的阶段有异常的波峰。不完全统计启动项高达69+个(三方SDK、二方SDK、业务线Task)，线程数30+，同时工具分析出来的业务前置耗时代码逻辑也大量存在。</p>
@@ -111,7 +111,7 @@ Time Profiler 支持一些额外的配置，如果统计出来的时间和实际
 <h3 data-id="heading-14">2、首页阶段性能分析：排除法-错峰加载首页分析启动依赖影响</h3>
 <p>首页作为项目中第一个页面，在运行加载环境上强耦合启动阶段的SDK启动项、业务前置Task。所以明确各阶段本身的问题痛点更有助于我们解决问题。
 以下是我们分场景采样多次，进行场景排除法来缩小问题范围，下图是各场景采样后分别求平局数和中位数：</p>
-<p><img alt="image.png" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e8b47c81f41d4ff6b00e7d499f28e4db~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e8b47c81f41d4ff6b00e7d499f28e4db~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 <em>错峰加载：指将首页初始化加载延后，避开APP启动任务加载CPU使用高峰。</em></p>
 <p>样本设备信息：系统：iOS 12.4.1，型号：iPhone 6
 结论：</p>
@@ -129,7 +129,7 @@ Time Profiler 支持一些额外的配置，如果统计出来的时间和实际
 <h6 data-id="heading-16">结论:</h6>
 <p>通过收集数据中定义的模块加载的两个阶段。各模块加载和UI渲染的耗时数据，存在大量的主线程耗时逻辑和复杂UI绘制的情况。</p>
 <h2 data-id="heading-17">三、解决方案</h2>
-<p><img alt="image.png" class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2f3711c42cd04fe191d2f81b74d668bb~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2f3711c42cd04fe191d2f81b74d668bb~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-18">1、启动项优化</h3>
 <p>目前项目存在的现状，优化点主在于业务侧。主要问题在于前置阶段启动项/业务逻辑堆积，无规范和流程管控。</p>
 <ul>
@@ -177,7 +177,7 @@ Lottie的特点：</p>
 <li>包大小：相比动辄上百K的帧动画，Json文件包大小较小。有图片资源的情况下，同一张图片也可以被多个图层复用，而且运行时内存中只有一个UIImage对象（iOS）。</li>
 </ul>
 </blockquote>
-<p><img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/38d99318a5b344cdaa969932adbced1c~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/38d99318a5b344cdaa969932adbced1c~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 在项目中我们多处使用了Lottie的动画解决方案。但同时因为Lottie官方已不再维护Object-C版本，在实际使用和维护中我们也遇到了一些问题：</p>
 <ul>
 <li><strong>设计师在AE上出图时多加了很多无用图层忘记删掉，导出后这些无用图层在解析时缺少了LayerId，在iOS框架层解析异常导致崩溃</strong>。</li>
@@ -185,7 +185,7 @@ Lottie的特点：</p>
 </ul>
 <p>内存缓存可以快速的支持渲染和多次的动画执行效率。但缺少磁盘缓存，当资源相对较大、网络环境较差/网络抖动错误时每次重新加载的等待是一个非常糟糕的体验。</p>
 <p>所以支持磁盘缓存，减少资源下载、减少等待快速加载展示是我们要解决的问题。参考SDWebImage的设计方式，我们在Lottie上扩展了对应的二级缓存：
-<img alt="image.png" class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36824d1d59c94cbaa85ee4965a428e65~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36824d1d59c94cbaa85ee4965a428e65~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>
 <p><strong>Lottie框架在同步处理转码时会根据关键帧图片的大小有不同的性能问题</strong>。</p>
@@ -221,9 +221,9 @@ Lottie的特点：</p>
 </ol>
 <h4 data-id="heading-23">图片资源加载渲染</h4>
 <p>首页加载渲染时会有较多的图片资源加载，目前的图片资源加载方案，为了快速读取资源解码位图并渲染到屏幕，都会有二级缓存策略如下时序图(SDWebImage框架对于图片资源加载流程)。
-<img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7de0c08474342bf9f6d24247ad320f4~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7de0c08474342bf9f6d24247ad320f4~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 在通常图片资源有缓存的情况下。首页冷启动时，内存中都没有对应的图片资源，需要进行async读取磁盘中的缓存图片进行解码渲染。当启动阶段CPU处理任务过多近乎满载的状态下，图片资源读取到渲染出来会被延到下一个runloop中，通常会看到宫格会有灰色占位图加载再到图片完全渲染出来的情况(如图)，体验较差。
-<img alt="宫格加载对比.gif" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7bbbc1c9912c4bfdb1ce1cf3ac206823~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7bbbc1c9912c4bfdb1ce1cf3ac206823~tplv-k3u1fbpfcp-watermark.image" alt="宫格加载对比.gif" loading="lazy" referrerpolicy="no-referrer">
 在通过对宫格模块的图片预加载同步解码，将图片预先从磁盘中读取到内存中解码，渲染时同步加载内存中解码后的图片直接渲染，和刷新机制的优化使宫格框架和图片可以在同一个runloop中渲染出来(如图)。提升了加载体验效果。</p>
 <h4 data-id="heading-24">Runtime Hook Method</h4>
 <blockquote>
@@ -239,7 +239,7 @@ Lottie的特点：</p>
 <h4 data-id="heading-25">First Frame Render</h4>
 <p>一般会用 Root Controller 的 viewDidApper 作为渲染的终点，我们目前收集数据的策略也是以首页的viewDidApper为首屏的渲染节点。</p>
 <p>Apple 在 MetricsKit 里对启动终点定义是第一个CA::Transaction::commit()。什么是 CATransaction 呢？我们先来看一下渲染的大致流程：</p>
-<p><img alt="image.png" class="lazyload" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b1bc7dd1f374fac813c8ad2d3ba181e~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b1bc7dd1f374fac813c8ad2d3ba181e~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 iOS 的渲染是在一个单独的进程 RenderServer 做的，App 会把 Render Tree 编码打包给 RenderServer，RenderServer 再调用渲染框架(Metal/OpenGL ES)来生成 bitmap，放到帧缓冲区里，硬件根据时钟信号读取帧缓冲区内容，完成屏幕刷新。CATransaction 就是把一组 UI 上的修改，合并成一个事务，通过 commit 提交。
 渲染可以分为四个步骤：</p>
 <ul>
@@ -251,7 +251,7 @@ iOS 的渲染是在一个单独的进程 RenderServer 做的，App 会把 Render
 <blockquote>
 <p>XPC — XPC 是 OS X 下的一种 IPC (进程间通信) 技术, 它实现了权限隔离, 使得 App Sandbox 更加完备。</p>
 </blockquote>
-<p><img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8fbb0baa99cb454d9d25155f0bba5ccc~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8fbb0baa99cb454d9d25155f0bba5ccc~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 由于首页是粗粒度模块的容器化页面开发，各业务的特性功能由对应的业务团队同学实现，在处理各自数据和UI渲染逻辑时会存在一些问题，影响首屏的加载：</p>
 <ul>
 <li>Layout阶段：部分业务模块层级过于复杂，复杂的嵌套和不同状态的Layout更新对AutoLayout的性能有较大的影响。特别是在iOS 12以下Apple未对AutoLayout算法进行优化。可以评估 ROI 决定要不要改成 frame。</li>
@@ -259,13 +259,13 @@ iOS 的渲染是在一个单独的进程 RenderServer 做的，App 会把 Render
 </ul>
 <h1 data-id="heading-26">优化成果</h1>
 <h2 data-id="heading-27">优化前后效果对比</h2>
-<p><img alt="首页优化前后对比.gif" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97f2ed17571946adaa02d9decc51f6d7~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97f2ed17571946adaa02d9decc51f6d7~tplv-k3u1fbpfcp-watermark.image" alt="首页优化前后对比.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-28">优化数据对比</h2>
 <p>线上采集数据情况：</p>
 <p>优化前：首屏渲染时间都大于1秒。</p>
 <p>优化后：90%的用户首屏渲染时间在1秒内，其中大部分用户在0.5秒内。
 整体对比，首屏渲染性能提升40%。极大的提升了用户打开使用App的体验，同时也支撑了用户快速触达业务的响应。</p>
 <h1 data-id="heading-29">规划和展望</h1>
-<p>不积跬步，无以至千里；不积小流，无以成江海，持续提升用户体验是我们孜孜不倦的追求，未来我们会针对首页架构建设全链路监控和云端一体化容器，提升监控能力和动态化能力。我们同样也在期待志同道合的小伙伴加入，欢迎投递我们：<a href="mailto:liuhuan05877@hellobike.com">liuhuan05877@hellobike.com</a>， 优秀且富有抱负的你，还在等什么呢？</p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>不积跬步，无以至千里；不积小流，无以成江海，持续提升用户体验是我们孜孜不倦的追求，未来我们会针对首页架构建设全链路监控和云端一体化容器，提升监控能力和动态化能力。我们同样也在期待志同道合的小伙伴加入，欢迎投递我们：<a href="mailto:liuhuan05877@hellobike.com">liuhuan05877@hellobike.com</a>， 优秀且富有抱负的你，还在等什么呢？</p></div>  
 </div>
             

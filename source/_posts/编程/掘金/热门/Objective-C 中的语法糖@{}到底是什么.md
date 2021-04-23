@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://picsum.photos/400/300?random=2596'
+headimg: 'https://picsum.photos/400/300?random=9567'
 author: 掘金
 comments: false
 date: Wed, 14 Apr 2021 02:12:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2596'
+thumbnail: 'https://picsum.photos/400/300?random=9567'
 ---
 
 <div>   
@@ -138,6 +138,6 @@ thumbnail: 'https://picsum.photos/400/300?random=2596'
 <p>在 hook 字典本身的<code>dictionaryWithObjects:forKeys:count:</code> 时，我们需要谨慎断点的时间，包括当不限于系统的状态栏等信息最终都会存进一个字典中，其存入的时机就是项目运行的时候，最好在<code>NSDictionary *dic = @&#123;@"a":@1, @"a":@2&#125;;</code>之前挂上断点，然后在放开<code>dictionaryWithObjects:forKeys:count:</code>  断点。</p>
 <hr>
 <p>如果你有任何问题、评论或反馈，请随时联系。如果你愿意，可以通过分享这篇文章来让更多的人发现它。</p>
-<p>感谢你阅读本文！ 🚀</p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>感谢你阅读本文！ 🚀</p></div>  
 </div>
             

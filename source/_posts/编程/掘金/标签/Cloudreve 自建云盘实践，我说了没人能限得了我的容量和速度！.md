@@ -26,9 +26,9 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2
 <p><strong>所以</strong>，也并不一定市面的网盘不香了，只是因为我有需要自建网盘。在这条路上我尝试过自建、kodexplorer、Owncloud等，恰巧最近发现了 Cloudreve 尝试体验后感觉更香，支持的功能更多。所以准备给小伙伴分享下关于 Cloudreve 的安装、配置和使用，也让有需要的小伙伴可以尝尝鲜。</p>
 <h2 data-id="heading-1">二、Cloudreve 介绍</h2>
 <p><strong>Cloudreve</strong>，帮助您以最低的成本快速搭建公私兼备的网盘系统。</p>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2f23d23bb6db78b~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2f23d23bb6db78b~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-2">🔉 功能</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba0f9e64c5604460a1a711370e0cb5f4~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba0f9e64c5604460a1a711370e0cb5f4~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-3">✨ 特性</h3>
 <ul>
 <li>☁️ 支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端</li>
@@ -53,7 +53,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2
 <li>演示：<a href="https://demo.cloudreve.org/" target="_blank" rel="nofollow noopener noreferrer">demo.cloudreve.org</a></li>
 </ol>
 <h2 data-id="heading-5">三、环境准备</h2>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ffbf76d0ada49ef8d058a7ef87f54d6~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ffbf76d0ada49ef8d058a7ef87f54d6~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ol>
 <li>云服务器资源或本地服务器，推荐腾讯云轻量服务器，内含宝塔组件，算是是几个云服务里最简单的：<a href="https://console.cloud.tencent.com/lighthouse/instance/index" target="_blank" rel="nofollow noopener noreferrer">console.cloud.tencent.com/lighthouse/…</a></li>
 <li>已备案过的域名，如果不需要域名访问，可以直接使用云服务提供的公网IP</li>
@@ -63,7 +63,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2
 <h2 data-id="heading-6">四、宝塔配置</h2>
 <p>宝塔是一个简单好用的Linux/Windows服务器运维管理面板，在宝塔后台页面上可以非常方便的安全软件和配置环境。一般可以在云服务器上安装宝塔，有一些厂商也把宝塔集成到自己的云服务器上了。</p>
 <h3 data-id="heading-7">1. 获取用户名和密码</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/13307c173dd3477daa385dd2ad59a7a8~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/13307c173dd3477daa385dd2ad59a7a8~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>地址：<a href="https://console.cloud.tencent.com/lighthouse/instance/detail?rid=8&id=lhins-90pixwzq&tab=application" target="_blank" rel="nofollow noopener noreferrer">console.cloud.tencent.com/lighthouse/…</a></li>
 <li>进入服务的应用管理会看到<code>应用内软件信息：宝塔</code>，在这里点击<strong>登录</strong>按钮后，会获取到宝塔的登录地址、用户名和密码信息「<em>这些信息可以后期在宝塔后台修改</em>」。
@@ -86,7 +86,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2
 </li>
 </ul>
 <h3 data-id="heading-8">2. 8888 端口授权</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/52c205c0ad7442ea9ecd27acb0242d0b~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/52c205c0ad7442ea9ecd27acb0242d0b~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>在获取到面板的用户名和密码后，还不能直接访问，因为你的端口还没有授权开通。</li>
 <li>这时可以在云服务平台上，点击<code>防火墙</code>这个配置，添加 8888 端口。</li>
@@ -95,7 +95,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70ab3125d9f24f70a2
 <p>地址：<a href="http://80.71.255.122:8888/cloudtencent" target="_blank" rel="nofollow noopener noreferrer">http://80.71.255.122:8888/cloudtencent</a> - <code>你需要更换为自己的地址</code>
 说明：在初次进入宝塔时会有一些提示和软件安装，选择自己需要的安装即可。
 页面：</p>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba595a1a7a764333ad7d27a99ef34feb~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba595a1a7a764333ad7d27a99ef34feb~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-10">五、服务安装</h2>
 <p>在宝塔面板的左侧菜单栏有一个终端菜单，点击进入是一个黑窗口，接下来我们就在这里安装整个服务。</p>
 <h3 data-id="heading-11">1. 在宝塔终端查看服务内核</h3>
@@ -111,7 +111,7 @@ x86_64
 <li>aarch64：代表 arm64</li>
 </ul>
 <h3 data-id="heading-12">2. 下载和安装</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5853e46e7f61472db95b0afda7825d3e~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5853e46e7f61472db95b0afda7825d3e~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>确定好我们的云服务架构后，选择对应的 Cloudreve 版本，复制地址。我的是：<a href="https://github.com/cloudreve/Cloudreve/releases/download/3.3.1/cloudreve_3.3.1_linux_amd64.tar.gz" target="_blank" rel="nofollow noopener noreferrer">github.com/cloudreve/C…</a></p>
 <p><strong>安装命令</strong></p>
 <pre><code class="hljs language-java copyable" lang="java">mkdir /www/wwwroot/cloudreve    # 创建一个新文件夹存放程序
@@ -140,15 +140,15 @@ chmod +x ./cloudreve                           # 赋予执行权限
 <h3 data-id="heading-13">3. 开放端口 5212</h3>
 <ul>
 <li>Cloudreve 安装完成以后，访问地址为你的服务IP:5212，但此时5212并不能直接访问还需要授权。
-<img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/05728953f6ff44d0b549dfd0e9d69fb6~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></li>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/05728953f6ff44d0b549dfd0e9d69fb6~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></li>
 <li>仅在宝塔后台授权还不够，还需要在云服务平台的防火墙进行授权，如下：
-<img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1537ace8ef0045c99709aa50e21276f1~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></li>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1537ace8ef0045c99709aa50e21276f1~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></li>
 </ul>
 <h3 data-id="heading-14">4. 登录服务</h3>
 <ul>
 <li>地址：<a href="http://80.71.255.122:5212/" target="_blank" rel="nofollow noopener noreferrer">http://80.71.255.122:5212</a></li>
 </ul>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e9dc46c8c2b45c2aeb0ef3340071d32~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e9dc46c8c2b45c2aeb0ef3340071d32~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>如果一切顺利现在你就可以使用自己的网盘了，但有一点要知道如果你还需要设置域名，那么这个时候先不要使用，先去设置域名，否则一些图片在IP下上传和在域名下上传，分享是有问题的。</li>
 </ul>
@@ -156,7 +156,7 @@ chmod +x ./cloudreve                           # 赋予执行权限
 <p>其实在服务安装完成后就已经可以正常使用了，但我们很难保证宝塔面板不被重启或者出现异常时也难免要我们自己再启动云盘服务。那么，就需要一个守护进程来自动重启服务。</p>
 <p>在宝塔面板的软件商店中，找到 <code>Supervisor</code> 安装。Supervisor是用Python开发的一套通用的进程管理程序，能将一个普通的命令行进程变为后台daemon，并监控进程状态，异常退出时能自动重启。</p>
 <h3 data-id="heading-16">1. Supervisor 配置</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fa15af94d9d146b1866762344939d9ed~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fa15af94d9d146b1866762344939d9ed~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>名称：Cloudreve</li>
 <li>启动用户：root <em>默认的</em></li>
@@ -164,19 +164,19 @@ chmod +x ./cloudreve                           # 赋予执行权限
 <li>启动命令：/www/wwwroot/cloudreve/cloudreve</li>
 </ul>
 <h3 data-id="heading-17">2. Supervisor 启动</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e78a1bfc7e34a6186af125ea9189f86~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e78a1bfc7e34a6186af125ea9189f86~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>配置守护进程后，点开宝塔面板右上角的重启，进入后<code>重启服务</code></li>
 <li>重启后再进入到宝塔面板就会看到守护进程已经在启动了，现在启动这个事就交给了 Supervisor 管理</li>
 </ul>
 <h2 data-id="heading-18">七、配置域名</h2>
 <h3 data-id="heading-19">1. 解析域名</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b5adccf52c44c5bab11bdd84396fd8b~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b5adccf52c44c5bab11bdd84396fd8b~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>在配置域名之前，需要在你已经准备好的域名下配置一个A记录解析，这样后面才能配置反向代理。</li>
 </ul>
 <h3 data-id="heading-20">2. 反向代理</h3>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56aea748dfcc4262ba1f61c110f56d3f~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56aea748dfcc4262ba1f61c110f56d3f~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>点击宝塔面板左侧菜单中的<code>网站</code>按钮，添加一个站点。站点里的域名就是配置解析域名时的信息，我的是<code>pan.itedus.cn</code></li>
 <li>配置完站点后就需要给这个站点设置一个反向代理，点击它的设置即可进入。在反向代理中添加并设置目标URL：127.0.0.1:5212</li>
@@ -184,7 +184,7 @@ chmod +x ./cloudreve                           # 赋予执行权限
 </ul>
 <h2 data-id="heading-21">八、数据库切换</h2>
 <p>系统默认的数据库是自带的 SQLite，你可改为 Mysql，如下：</p>
-<p><img alt class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af4561b8f8374326998d37889185569d~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af4561b8f8374326998d37889185569d~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <ol>
 <li>数据库类型，目前支持 sqlite | mysql</li>
 </ol>
@@ -216,6 +216,6 @@ TablePrefix = cd_</p>
 <li><a href="https://bugstack.cn/itstack-code-life/2020/10/11/%E4%B8%BA%E4%BA%86%E7%9C%81%E9%92%B1-%E6%88%91%E7%94%A81%E5%A4%A9%E6%97%B6%E9%97%B4%E6%8A%8APHP%E5%AD%A6%E4%BA%86.html" target="_blank" rel="nofollow noopener noreferrer">为了省钱，我用1天时间把PHP学了！</a></li>
 <li><a href="https://bugstack.cn/itstack-code-life/2020/03/28/GithubAndMyBlogAttacked.html" target="_blank" rel="nofollow noopener noreferrer">Github被攻击。我的GitPage博客也挂了，紧急修复之路，也教会你搭建 Jekyll 博客！</a></li>
 <li><a href="https://bugstack.cn/itstack-demo-netty-3/2020/03/04/Netty+JavaFx%E5%AE%9E%E6%88%98-%E4%BB%BF%E6%A1%8C%E9%9D%A2%E7%89%88%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9.html" target="_blank" rel="nofollow noopener noreferrer">Netty+JavaFx实战：仿桌面版微信聊天</a></li>
-</ul></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</ul></div>  
 </div>
             

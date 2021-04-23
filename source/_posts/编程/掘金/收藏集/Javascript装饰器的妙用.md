@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://picsum.photos/400/300?random=5105'
+headimg: 'https://picsum.photos/400/300?random=4652'
 author: 掘金
 comments: false
 date: Sun, 08 Jul 2018 17:28:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5105'
+thumbnail: 'https://picsum.photos/400/300?random=4652'
 ---
 
 <div>   
@@ -728,6 +728,6 @@ Node方向8.x版本+koa 新项目会以TS为主<br>
 有兴趣的小伙伴可以联系我详谈：<br>
 email: jiashunming@blued.com<br>
 wechat: github_jiasm</p>
-</div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</div>  
 </div>
             

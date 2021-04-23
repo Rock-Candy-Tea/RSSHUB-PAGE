@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?v=1619148552483'
 author: 巴哈姆特
 comments: false
-date: 2021-04-23 04:10:57
+date: 2021-04-23 08:09:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?v=1619148552483'
 ---
 
@@ -23,13 +23,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?v=1619148552483" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?v=1619148552483" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/3f2f0c311396d3e3408d6d55e21c6sc5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　這首印象歌曲是以吉幾三於 1984 年發行的知名饒舌風日語歌曲「我要去東京（俺ら東京さ行ぐだ）」為基礎所改編。將原曲歌詞中描述嫌棄落伍的鄉下、想存錢去繁華東京的心情，改成了嫌棄危機四伏的惡靈古堡村莊，想存錢去東京買《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》來玩的心情，相當逗趣。最後吉幾三本人還出現了令人驚悚的變化...</div>
+　　這首印象歌曲是以吉幾三於 1984 年發行的知名饒舌風日語歌曲「我要去東京（俺ら東京さ行ぐだ）」為基礎所改編。將原曲歌詞中描述嫌棄落伍的鄉下、想存錢去繁華東京的心情，改成了嫌棄危機四伏的惡靈古堡村莊、想存錢去東京買《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》來玩的心情，相當逗趣。最後吉幾三本人還出現了令人驚悚的變化...</div>
 <div>
  </div>
 <div>

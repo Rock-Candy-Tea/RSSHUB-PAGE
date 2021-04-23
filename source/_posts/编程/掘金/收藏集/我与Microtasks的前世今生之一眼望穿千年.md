@@ -19,7 +19,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2
 <p>本文有标题党之嫌，内含大量Microtaks相关总结性信息，请谨慎服用。</p>
 <h2 data-id="heading-0">Google Developer Day China 2018 by Jake Archibald</h2>
 <p>2018年9月21日，虽然没有参加该场GDD，但是也有幸拜读了百度@小蘑菇小哥总结的文章<a target="_blank" href="https://zhuanlan.zhihu.com/p/45111890">深入浏览器的事件循环(GDD@2018)</a>,配注的说明插图形象生动，文终的click代码也很有意思，推荐大家阅读。这里就先恬不知耻的将该文的精华以及一些自己的总结陈列如下:</p>
-<p></p><figure><img class="lazyload" src="https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1" data-width="720" data-height="429" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img src="https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <table>
 <thead>
 <tr>
@@ -185,6 +185,6 @@ promise2.then(
 <p><a target="_blank" href="http://imweb.io/topic/57a0760393d9938132cc8da9">打开Promise的正确姿势</a></p>
 <p><a target="_blank" href="https://promisesaplus.com/">Promise/A+</a></p>
 <p><a target="_blank" href="https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly">Tasks，microtasks，queues and schedules</a></p>
-</div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</div>  
 </div>
             

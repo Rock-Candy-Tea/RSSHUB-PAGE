@@ -346,7 +346,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-8">4.1 数据流组织</h3>
 <p>正向数据流组织及反向数据流处理是 View Model 的核心逻辑。组织正向数据流的代码如下，通过代码可以非常直观地阅读出以下关键信息，从而生成非常清晰的正向数据流拓扑：</p>
-<p><img alt="data-stream-topology.jpg" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2cbd24fbc85a4c0~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2cbd24fbc85a4c0~tplv-k3u1fbpfcp-watermark.image" alt="data-stream-topology.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li><code>usernameValid</code>依赖于<code>username</code>和<code>passwordValid</code>的值；</li>
 <li><code>passwordValid</code>依赖于<code>password</code>和<code>usernameValid</code>的值；</li>
@@ -619,6 +619,6 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74408362b5d04ec8b2
 <span class="hljs-keyword">@end</span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-13">附录二：源码</h3>
-<p>[1] <a href="https://github.com/Luminixus/DataDrivenMVVM.git" target="_blank" rel="nofollow noopener noreferrer">源码及Demo地址</a></p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>[1] <a href="https://github.com/Luminixus/DataDrivenMVVM.git" target="_blank" rel="nofollow noopener noreferrer">源码及Demo地址</a></p></div>  
 </div>
             

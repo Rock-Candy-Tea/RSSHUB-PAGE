@@ -16,9 +16,9 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h2 data-id="heading-0">前言</h2>
 <p>最近秋招之余空出时间来按自己的兴趣动手做了一个项目，一个基于<code>vue，typescript，pwa</code>的实验浏览移动端webapp，现在趁热打铁，将这个项目从开发到部署整个过程记录下来，并将从这个项目中学习到的东西分享出来，如果大家有什么意见或补充也可以在评论区提出。先介绍一下这个项目</p>
 <h2 data-id="heading-1">项目介绍</h2>
-<p></p><figure><img alt="browseexp" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/0/w/1280/h/960/ignore-error/1" data-width="714" data-height="292" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="browseexp" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>基于vue，typescript，pwa的一个移动端webapp，取名叫browseExp，主要功能是浏览学校心理学院部分实验信息。（上图是添加到桌面的一级入口）。这个项目已经部署到了服务器上，我们看一下项目最终在客户端运行的样子</p>
-<p></p><figure><img alt="show" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3b79206?imageslim" data-width="300" data-height="519" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="show" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3b79206?imageslim" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>可以看到我通过桌面上的一级入口，进入了我们的webapp，并且在断网的条件下进行。这就是pwa的作用，下面开始分享这次的开发到部署的过程。</p>
 <h2 data-id="heading-2">为什么要做这个项目呢？</h2>
 <ol>
@@ -60,8 +60,8 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/
 <span class="copy-code-btn">复制代码</span></code></pre><p>另外，在vue-cli3.0提供的脚手架下，可以在<code>shims-tsx.d.ts</code>文件下添加全局接口或变量等，在<code>shims-vue.d.ts</code>定义第三方包的类型声明。</p>
 <h3 data-id="heading-5">骨架屏的简单运用</h3>
 <p>骨架屏（skeleton screen）已经不是什么新奇的概念，他的主要作用就是用来过渡页面的空白状态，提升用户体验，比如页面跳转等待，数据加载等待等，传统的骨架平实现方案有 服务端渲染和预渲染等，而这个项目中引入骨架屏主要是想过渡数据加载时页面的局部空白状态，所以就直接采用编写一个骨架屏组件<a target="_blank" href="https://github.com/HolyZheng/BrowseExp/blob/master/src/components/Skeleton/SkeletonExp.vue">SkeletonExp.vue</a>的方式来过渡。</p>
-<p></p><figure><img alt="skeletonOne" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f70c294f?imageView2/0/w/1280/h/960/ignore-error/1" data-width="305" data-height="441" referrerpolicy="no-referrer"><figcaption></figcaption></figure>
-<figure><img alt="skeletonOne" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec506e60b45?imageView2/0/w/1280/h/960/ignore-error/1" data-width="308" data-height="539" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="skeletonOne" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f70c294f?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure>
+<figure><img alt="skeletonOne" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec506e60b45?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>如果你对骨架屏有更大的需求，可以在网上搜到更多的教程，这里就不列举了。</p>
 <h3 data-id="heading-6">首屏加载速度和seo的优化</h3>
 <p>单页应用（single page web application，SPA）一个缺点就是首次加载需要加载较多的内容，所以首屏加载时间就会比较长。另外，单页应用因为数据前置到了前端，不利于搜索引擎的抓取。所以我们需要对自己的单页应用进行一些优化。这里我们使用了<code>prerender-spa-plugin</code>这个webpack插件，他的作用就是将我们指定的路由进行预渲染到html，进而解决首次加载白屏时间长问题，以及一定程度上解决seo问题。在vue-cli3.0中，我们的相关配置是被隐藏起来的，我们可以通过vue.config.js来将我们的配置合并到默认配置中。</p>
@@ -86,7 +86,7 @@ module.exports = &#123;
   &#125;,
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>效果：
-</p><figure><img alt="prerender" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f70c055a?imageslim" data-width="331" data-height="556" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+</p><figure><img alt="prerender" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f70c055a?imageslim" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>上图是该app在网络环境为<code>slow 3G</code>下首次打开时的效果，可以看到整个过程，先由谷歌页面跳至browseExp，首先引入眼帘的是我们的预渲染页面，它代替我网址跳转后应用加载的白屏时间，（前面的小段白屏是页面跳转的白屏，不是应用加载的白屏）然后加载完毕后就会去请求我们的数据，这时候骨架屏就出现了，过渡这段页面局部白屏的时间，最后为真实的页面。
 <strong>预渲染也有它的缺点</strong>：那就是预渲染的页面内容可能与真实内容由一定出入，而且还无法交互。所以如果应用的内容具有很强的实时性和交互性的话，可以考虑采用骨架屏的方式来进行首屏加载的白屏过渡，但是这样就无法优化seo了，所以按自己的实际场景来做选择。</p>
 <p><strong>另外</strong>对于首屏加载速度还可以通过<strong>组件懒加载</strong>的方式，对组件进行懒加载，只有当需要默写组件的时候才去加载他们，也可以减少首屏加载需要加载的文件大小，提高首屏加载速度，也有利于service worker对app shell进行颗粒度更小的缓存。结合Vue的异步组件和webpack的代码分割功能，轻松实现路由组件的懒加载，例如</p>
@@ -110,7 +110,7 @@ Vue.use(Router);
 <h2 data-id="heading-7">将项目升级为 pwa</h2>
 <p>在我们的项目基本成型之后，可以考虑将其升级为pwa了。关于pwa是什么，我相信大家都知道，这玩意在国外已经火了几百年了，但国内除了几家大公司，貌似没多少人去尝试它，不过在上一年开始，pwa在国内还是热了一下的。pwa是我们在追求webapp便捷和原生应用良好体验结合的过程中的产物，目前兼容性是最大障碍，但相信它在国内的前景还是明朗的。pwa的特性有可离线、添加到桌面（一级入口）、后台同步、服务端推送等等，这个项目的话实现了可离线和添加到桌面这两个功能。起初听闻pwa时以为会很复杂，实践后发现很简单。</p>
 <p>ps: 开发过程在控制台的Application中可调试对应内容</p>
-<p></p><figure><img class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f7179c2c?imageView2/0/w/1280/h/960/ignore-error/1" data-width="688" data-height="403" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f7179c2c?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h3 data-id="heading-8">workbox</h3>
 <p><a target="_blank" href="https://developers.google.com/web/tools/workbox/">workbox</a> 是pwa的一个工具集合，围绕它的还有一些列工具，如 workbox-cli、gulp-workbox、workbox-webpack-plagin 等等，workbox本身相当于<a target="_blank" href="https://developers.google.com/web/fundamentals/primers/service-workers/">service worker</a>的一个框架，封装了各种api，和缓存策略，可以让我们更加便捷的使用service worker。vue-cli3.0集成的是workbox-webpack-plagin，我们可以通过vue.config.js的pwa配置项进行配置
 首先，在vue.config.js文件中的进行配置，更详细的<a target="_blank" href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa">配置项</a></p>
@@ -196,8 +196,8 @@ workbox.routing.registerRoute(
 </ul>
 <h4 data-id="heading-15">Web Server for Chrome</h4>
 <p>点击<code>choose foloer</code>选择我们的dist文件夹，勾选<code>Automatically show index.html</code>开启服务，我们就可以通过下面的链接访问应用了，通过勾选<code>Accessible on local network</code>还可以生成另一个地址，可以让我们在手机端访问应用。
-</p><figure><img alt="webserver1" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5691f72fb?imageView2/0/w/1280/h/960/ignore-error/1" data-width="214" data-height="207" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
-<p></p><figure><img alt="webserver2" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec583c890fa?imageView2/0/w/1280/h/960/ignore-error/1" data-width="284" data-height="565" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+</p><figure><img alt="webserver1" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5691f72fb?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="webserver2" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec583c890fa?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h3 data-id="heading-16">manifest.json 网络应用清单</h3>
 <p>manifest.json 提供了将webapp 添加到设备主屏幕的功能，更详细的<a target="_blank" href="https://developers.google.com/web/fundamentals/web-app-manifest/">配置内容</a>在此查看。我们可以通过它给我们的应用设置图标，启动动画，背景颜色等等。它在我们项目的public下：</p>
 <pre><code lang="JSON" class="copyable">// public/manifest.json
@@ -308,11 +308,11 @@ server &#123;
 &#125;
 
 <span class="copy-code-btn">复制代码</span></code></pre><p>这样我们就可以通过对于域名来访问了来访问该项目了。这里给出对应二维码，可以进行访问查看：</p>
-<p></p><figure><img alt="qrcore" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5c5b7377c?imageView2/0/w/1280/h/960/ignore-error/1" data-width="260" data-height="260" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="qrcore" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5c5b7377c?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>下面是在安卓端UC浏览器访问的结果（UC对pwa的支持十分好），在几次访问我们的应用后就弹出了相关的提示，点击“好的”就可以添加到主屏幕了。</p>
-<p></p><figure><img alt="pwademo1" class="lazyload" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5c3d79026?imageView2/0/w/1280/h/960/ignore-error/1" data-width="297" data-height="524" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="pwademo1" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5c3d79026?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h2 data-id="heading-23">结语</h2>
 <p>我非常享受尝试新事物（自己没做过）的这个过程，这次记录下来并分享给大家，希望对大家有帮助，如果大家看后有什么补充或意见的话，欢迎评论区提出。项目地址：<a target="_blank" href="https://github.com/HolyZheng/BrowseExp">browse-Exp</a></p>
-</div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</div>  
 </div>
             

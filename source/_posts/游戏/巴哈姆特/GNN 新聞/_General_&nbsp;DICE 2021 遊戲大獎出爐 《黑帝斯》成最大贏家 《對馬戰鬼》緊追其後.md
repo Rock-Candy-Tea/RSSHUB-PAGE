@@ -1,0 +1,18 @@
+
+---
+title: '_General_&nbsp;D.I.C.E. 2021 遊戲大獎出爐 《黑帝斯》成最大贏家 《對馬戰鬼》緊追其後'
+categories: 
+ - 游戏
+ - 巴哈姆特
+ - GNN 新聞
+headimg: 'https://picsum.photos/400/300?random=7980'
+author: 巴哈姆特
+comments: false
+date: 2021-04-23 08:09:27
+thumbnail: 'https://picsum.photos/400/300?random=7980'
+---
+
+<div>   
+<div><font size="2">D.I.C.E. Awards是由遊戲界具有影響力的人物組成的互動藝術與科學學院都( Academy of Interactive Arts & Sciences ，簡稱AIAS)，每一年都會由組織裏頭的會員來提名前一年表現優秀的遊戲，並舉行投票及頒發獎項。</font></div><div><font size="2"><br></font></div><div><font size="2">就在昨日，D.I.C.E. Awards公開了本屆的得獎者，《黑帝斯》抱回五項大獎最為風光，其次是《對馬戰鬼》的四項。</font></div><div><font size="2"><br></font></div><div><font size="2">而《最後生還者 第二部》雖然風光入圍多項大獎，但最後僅拿回兩項。完整得獎名單，參考如下。</font></div><div><font size="2"><br></font></div><div><font size="2">  •年度遊戲</font></div><div><font size="2">  黑帝斯</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出遊戲方向</font></div><div><font size="2">  黑帝斯</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出遊戲設計</font></div><div><font size="2">  黑帝斯</font></div><div><font size="2"><br></font></div><div><font size="2">  •年度手機遊戲</font></div><div><font size="2">  符文大地傳說</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出獨立遊戲</font></div><div><font size="2">  黑帝斯</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳虛擬實境遊戲</font></div><div><font size="2">  戰慄時空：艾莉克絲</font></div><div><font size="2"><br></font></div><div><font size="2">  •虛擬實境技術成就</font></div><div><font size="2">  戰慄時空：艾莉克絲</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳線上遊戲</font></div><div><font size="2">  Fall Guys：終極淘汰賽</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳戰略/模擬遊戲</font></div><div><font size="2">  微軟飛行模擬器</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳運動遊戲</font></div><div><font size="2">  Tony Hawk’s 滑板高手1 + 2</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳RPG</font></div><div><font size="2">  Final Fantasy VII 重製版</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳競速遊戲</font></div><div><font size="2">  瑪利歐賽車實況 家庭賽車場</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳格鬥遊戲</font></div><div><font size="2">  真人快打11 終極版</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳家庭遊戲</font></div><div><font size="2">  集合啦！動物森友會</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳冒險遊戲</font></div><div><font size="2">  對馬戰鬼</font></div><div><font size="2"><br></font></div><div><font size="2">  •最佳動作遊戲</font></div><div><font size="2">  黑帝斯</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出技術</font></div><div><font size="2">  夢想大創造</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出敘事</font></div><div><font size="2">  最後生還者 第二部</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出音效設計</font></div><div><font size="2">  對馬戰鬼</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出原創音樂</font></div><div><font size="2">  對馬戰鬼</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出藝術方向</font></div><div><font size="2">  對馬戰鬼</font></div><div><font size="2"><br></font></div><div><font size="2">  •傑出動畫</font></div><div><font size="2">  最後生還者 第二部</font></div><div><font size="2"><br></font></div><div><font size="2"><a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.interactive.org%2Fnews%2F24th_annual_dice_awards_winners_revealed.asp" target="_blank">得獎榜單</a></font></div>  
+</div>
+            

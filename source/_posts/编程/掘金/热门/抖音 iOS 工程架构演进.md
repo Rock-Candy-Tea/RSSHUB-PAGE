@@ -20,7 +20,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <p>架构演进的本质是为了提高研发效率，提高代码稳定性和保证代码质量。架构要解决的问题是如何组织代码。</p>
 <p>合理的架构设计可以解决大型项目跨团队协作分工和多业务线并行开发的效率问题。抖音工程代码从一开始就采用了组件化思路，依赖管理工具是定制版的 Cocoapods。</p>
 <p>以下动画介绍了抖音工程架构经历的四个阶段的演进过程：</p>
-<p><img alt="623eb9ec-8827-44ff-a6a9-544edda4c2f9.gif" class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a38c7fc1a4f5e591~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a38c7fc1a4f5e591~tplv-k3u1fbpfcp-watermark.image" alt="623eb9ec-8827-44ff-a6a9-544edda4c2f9.gif" loading="lazy" referrerpolicy="no-referrer">
 图1：抖音项目工程架构演进</p>
 <h3 data-id="heading-2">组件化</h3>
 <p>在大型项目快速发展的过程中，要保证敏捷开发迭代的最大障碍就是快速膨胀的代码体积导致的编译效率问题，依赖关系复杂化问题，以及业务线代码冲突问题。</p>
@@ -30,33 +30,33 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <h3 data-id="heading-3">流水线式迭代开发</h3>
 <p>流水线（pipeline）技术是指在程序执行时多条指令重叠进行操作的一种准并行实现技术，该技术可以充分提高资源的利用率，同时缩短产品的研发周期。
 对于客户端项目，流水线技术能很大程度满足敏捷开发迭代的节奏。</p>
-<p><img alt="图2：抖音流水线式迭代发版" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/83827de797164c629eae98a3b46a0efd~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/83827de797164c629eae98a3b46a0efd~tplv-k3u1fbpfcp-zoom-1.image" alt="图2：抖音流水线式迭代发版" loading="lazy" referrerpolicy="no-referrer">
 图2：抖音流水线式迭代发版</p>
 <h1 data-id="heading-4">抖音工程架构演进</h1>
 <h2 data-id="heading-5">阶段一：抖音原始工程架构（Original architecture of project）</h2>
-<p><img alt="图3：抖音项目原始工程架构图" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8754745a0f354003a4023f1b4edfe26d~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8754745a0f354003a4023f1b4edfe26d~tplv-k3u1fbpfcp-zoom-1.image" alt="图3：抖音项目原始工程架构图" loading="lazy" referrerpolicy="no-referrer">
 图3：抖音项目原始工程架构图</p>
 <p>抖音项目一开始是单体架构+Cocoapods，业务代码、工程配置、资源文件全部放在一个大业务仓库。由 Podfile 文件描述第三方仓库的依赖版本。</p>
-<p><img alt="图4：抖音项目原始工程架目录结构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/152506deb3c34ca58c7c6ef2aa631304~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/152506deb3c34ca58c7c6ef2aa631304~tplv-k3u1fbpfcp-zoom-1.image" alt="图4：抖音项目原始工程架目录结构" loading="lazy" referrerpolicy="no-referrer">
 图4：抖音项目原始工程架目录结构</p>
 <h2 data-id="heading-6">阶段二：分离壳工程后的工程架构（After splitting of host shell pod）</h2>
-<p><img alt="图5：拆分壳工程后的工程架构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ea434183158412d81eeca7fa62ad3b8~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ea434183158412d81eeca7fa62ad3b8~tplv-k3u1fbpfcp-zoom-1.image" alt="图5：拆分壳工程后的工程架构" loading="lazy" referrerpolicy="no-referrer">
 图5：拆分壳工程后的工程架构</p>
 <p>分离壳工程后，工程配置、部分系统资源、工程主入口被拆分到主宿主壳工程。</p>
 <p>Podfile 拆分出版本依赖管理文件 Podfile.seer，由依赖管理平台进行各个版本的容器化管理，业务仓跟随宿主集成发版，打平依赖，解决版本依赖决议耗时问题。</p>
 <p>大业务仓中的代码和资源被拆分到各个业务线的仓库下，由 podspec 文件描述内外依赖。业务线仓库增加 ModuleInterface subspec，存放对外接口，采用依赖注入方式实现接口隔离，初步建立接口层。</p>
 <p>业务仓库之间规定只能依赖其他业务仓库的 ModuleInterface subspec，通过 lint 进行编译检查。</p>
 <p>部分基础能力代码被拆分成基础仓库，跟第三方仓库一样独立发版。本地研发工具支持单仓开发和多仓开发，不参与代码修改的仓库通过二进制的方式进行链接。同时 CI 流程上也支持通过二进制打测试包，提高打包效率。</p>
-<p><img alt="图6：抖音项目拆分壳工程后目录结构
-" class="lazyload" data-src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2574724baada499691156a6c4f0b17be~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2574724baada499691156a6c4f0b17be~tplv-k3u1fbpfcp-zoom-1.image" alt="图6：抖音项目拆分壳工程后目录结构
+" loading="lazy" referrerpolicy="no-referrer">
 图6：抖音项目拆分壳工程后目录结构</p>
 <h3 data-id="heading-7">壳工程</h3>
-<p><img alt="图7：壳工程抽象" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/77e6acfdf6a647bab1e77af60ec63759~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/77e6acfdf6a647bab1e77af60ec63759~tplv-k3u1fbpfcp-zoom-1.image" alt="图7：壳工程抽象" loading="lazy" referrerpolicy="no-referrer">
 图7：壳工程抽象</p>
 <p>为了满足一个工程同时支持多个项目、部分业务线功能复用、部分业务线中台化发展的需求，我们把所有业务线抽象成独立的 Pod，所有业务 Pod 必须通过宿主的壳工程进行集成发版。</p>
 <p>壳工程包含了项目依赖的 Pod 信息描述，同时还包括工程的配置、部分系统级别的资源文件、工程主入口代码。基于多份宿主壳工程，一份代码可以打包出抖音、抖音极速版等项目。</p>
 <p>同时，基于宿主壳工程，一些业务线可以通过自动化同步生成自己的子壳工程，实现业务线自己的 Example 工程，进行独立开发，比如有语音通话的 Example 工程，有工具的 Example 工程，有直播的 Example 工程等等。</p>
-<p><img alt="图8：子壳工程配置同步同步" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c3df0aadea340c5b2f6815959a6515a~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c3df0aadea340c5b2f6815959a6515a~tplv-k3u1fbpfcp-zoom-1.image" alt="图8：子壳工程配置同步同步" loading="lazy" referrerpolicy="no-referrer">
 图8：子壳工程配置同步同步</p>
 <h3 data-id="heading-8">接口层</h3>
 <p>接口层顾名思义，只提供依赖的抽象接口，所有接口都是 protocol 协议声明。</p>
@@ -85,18 +85,18 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <p>Podfile.lock 参与依赖版本决议流程比较复杂，会出现不符合预期的情况。</p>
 </li>
 </ul>
-<p><img alt="图9：把版本管理和仓库源信息迁移到 Podfile.seer 文件
-" class="lazyload" data-src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6941fc6cd2c74f0786e618f50d8ce38d~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" src="https://juejin.cn/post/undefined" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6941fc6cd2c74f0786e618f50d8ce38d~tplv-k3u1fbpfcp-zoom-1.image" alt="图9：把版本管理和仓库源信息迁移到 Podfile.seer 文件
+" loading="lazy" referrerpolicy="no-referrer">
 图9：把版本管理和仓库源信息迁移到 Podfile.seer 文件</p>
 <ul>
 <li>hook 掉 Cocoapods 采用 podfile.lock 进行版本决议的逻辑，采用 Podfile.seer 文件直接描述所有组件的版本信息，打平依赖。</li>
 </ul>
 <h2 data-id="heading-10">阶段三：单仓多组件工程架构（Multicomponents in single repo）</h2>
-<p><img alt="图10：拆分单仓多组件后的工程架构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c833b585c24408caf173ec04557f3bc~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c833b585c24408caf173ec04557f3bc~tplv-k3u1fbpfcp-zoom-1.image" alt="图10：拆分单仓多组件后的工程架构" loading="lazy" referrerpolicy="no-referrer">
 图10：拆分单仓多组件后的工程架构</p>
 <p>采用单仓多组件后，每个业务线仓库支持添加 podspec 增加组件，实现更小粒度的二进制依赖。业务线仓库内划分业务实现层、业务接口层、服务层和基础层，都是通过集成方式发版。</p>
 <p>新增的服务层主要存放公共的业务逻辑和通用服务，限制 UI，一是满足业务逻辑复用，二是满足子壳工程最小化二进制依赖。同时服务层的服务接口也达到隔离依赖传递的目的，在不同的宿主上，支持通过改变服务层实现替换后台能力或者底层能力。建立分层间的依赖准入规则，完善 lint 编译链接检查。</p>
-<p><img alt="图11：单仓多组件目录结构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0f5a0e192c74490d9d293f0a23fbed66~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0f5a0e192c74490d9d293f0a23fbed66~tplv-k3u1fbpfcp-zoom-1.image" alt="图11：单仓多组件目录结构" loading="lazy" referrerpolicy="no-referrer">
 图11：单仓多组件目录结构</p>
 <h3 data-id="heading-11">编译链接完备性校验</h3>
 <ul>
@@ -112,18 +112,18 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <li>服务层去"UI"</li>
 </ul>
 <p>以下动画展示了业务实现层和服务实现允许依赖的分层：</p>
-<p><img alt="2021412-164953.gif" class="lazyload" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f66324d91934b7ca1abd15fab47cd52~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f66324d91934b7ca1abd15fab47cd52~tplv-k3u1fbpfcp-watermark.image" alt="2021412-164953.gif" loading="lazy" referrerpolicy="no-referrer">
 图12：组件依赖关系示意图动画</p>
 <h2 data-id="heading-13">阶段四：Example 子壳工程架构（Subshell for bizcomponent in example project）</h2>
-<p><img alt="图13:子壳工程架构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74aa9d8a59c4490789ded6b2845cd2d4~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74aa9d8a59c4490789ded6b2845cd2d4~tplv-k3u1fbpfcp-zoom-1.image" alt="图13:子壳工程架构" loading="lazy" referrerpolicy="no-referrer">
 图13:子壳工程架构</p>
 <p>每个业务仓从宿主同步工程配置构建子壳工程。增加 AWELaunchKit 为子壳工程提供运行时的基础能力。通过服务层提供业务间运行时共享的服务能力，满足代码复用和更小二进制依赖。</p>
-<p><img alt="图14：子壳工程目录结构" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6cafab20cd834e72abda071578b1f936~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6cafab20cd834e72abda071578b1f936~tplv-k3u1fbpfcp-zoom-1.image" alt="图14：子壳工程目录结构" loading="lazy" referrerpolicy="no-referrer">
 图14：子壳工程目录结构</p>
 <h3 data-id="heading-14">AWELaunchKit</h3>
 <p>AWELaunchKit 框架为宿主和其他子壳工程提供了基础服务的依赖和初始化配置。同时提供了一套启动加载的 BootTasks 管理框架，部分业务涉及启动相关的逻辑可以在业务仓对应的服务层中实现，并通过 BootTasks 管理框架注册到启动加载器里面。</p>
 <p>同时框架还提供了一套宿主 UI 入口和自定义入口框架。为了方便测试和调试，也整合了整套测试调试框架。</p>
-<p><img alt="图15：子壳工程依赖关系" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b50d5dc3f22450b9818d7ababe1806c~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b50d5dc3f22450b9818d7ababe1806c~tplv-k3u1fbpfcp-zoom-1.image" alt="图15：子壳工程依赖关系" loading="lazy" referrerpolicy="no-referrer">
 图15：子壳工程依赖关系</p>
 <h3 data-id="heading-15">组件化探索过程中遇到的一些问题：</h3>
 <h4 data-id="heading-16">二进制污染</h4>
@@ -136,7 +136,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <h4 data-id="heading-19">业务层的依赖耦合问题</h4>
 <p>大型项目动则千万行的代码，代码间的依赖关系是复杂的网状关系。需要基于代码的语法树模型，从语义中去分析不合理的依赖，并输出治理的方案。</p>
 <p>我们内部自研了源码依赖关系分析平台用于依赖关系分析监控和代码治理，长期监控组件间的依赖度。同时，需要建立依赖健康度模型，从长期演进的角度去监控防止代码的劣化。</p>
-<p><img alt="图16：spider 组件依赖分析平台" class="lazyload" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ba45bac33214f4a93ee3f60ba129f80~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer">
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ba45bac33214f4a93ee3f60ba129f80~tplv-k3u1fbpfcp-zoom-1.image" alt="图16：spider 组件依赖分析平台" loading="lazy" referrerpolicy="no-referrer">
 图16：spider 组件依赖分析平台</p>
 <h1 data-id="heading-20">总结</h1>
 <p>大型项目的组件化工作是一个系统性工程。涉及工程架构的改造、CI/CD 研发工具链的支撑、本地研发工具链的支撑，业务架构的设计优化，需要从各个方面综合考虑成本和收益。</p>
@@ -149,6 +149,6 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b12787cca0a64d45a3
 <p>如果你对技术充满热情，欢迎加入抖音基础技术团队，让我们共建亿级全球化 App。目前我们在深圳、上海、北京、杭州、均有招聘需求，内推可以联系邮箱：<strong><a href="mailto:tech@bytedance.com">tech@bytedance.com</a></strong>，邮件标题： <strong>姓名-工作年限-抖音-基础技术-iOS/Android</strong>。或直接点击<a href="https://jobs.bytedance.com/experienced/position?keywords=iOS%20%E6%9E%B6%E6%9E%84&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10" target="_blank" rel="nofollow noopener noreferrer">链接</a>查看部门所需岗位！</p>
 <hr>
 <p>欢迎关注「字节跳动技术团队」</p>
-<p>投递简历请联系邮箱：<a href="mailto:tech@bytedance.com">tech@bytedance.com</a></p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>投递简历请联系邮箱：<a href="mailto:tech@bytedance.com">tech@bytedance.com</a></p></div>  
 </div>
             

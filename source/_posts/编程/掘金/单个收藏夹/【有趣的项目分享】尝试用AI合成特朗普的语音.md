@@ -32,7 +32,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae
 <h3 data-id="heading-3">下载预训练的模型</h3>
 <p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Pretrained-models" target="_blank" rel="nofollow noopener noreferrer">github.com/CorentinJ/R…</a></p>
 <p>这里有三个模型（encoder,synthesizer,vocoder）的参数，把save_models文件夹分别放入到对应的文件夹即可。
-<img alt class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-4">准备音频数据</h2>
 <p>这里为了模仿特朗普的声音，我从youtube上面找了一个特朗普的演讲，并截取了一小段，保存成一个文件。</p>
 <h2 data-id="heading-5">生成语音</h2>
@@ -62,7 +62,7 @@ vocoder.load_model(vocoder_weights)
   original_wav, sampling_rate = librosa.load(in_fpath)
   preprocessed_wav = encoder.preprocess_wav(original_wav, sampling_rate)
   embed = encoder.embed_utterance(preprocessed_wav)
-  print(<span class="hljs-string">"Synthesizing new audio..."</span>)
+  <span class="hljs-built_in">print</span>(<span class="hljs-string">"Synthesizing new audio..."</span>)
   <span class="hljs-keyword">with</span> io.capture_output() <span class="hljs-keyword">as</span> captured:
     specs = synthesizer.synthesize_spectrograms([text], [embed])
   generated_wav = vocoder.infer_waveform(specs[<span class="hljs-number">0</span>])
@@ -75,6 +75,6 @@ synth(<span class="hljs-string">"Chinese government is so powerful, and I love t
 <p>最后的生成效果如下：<a href="http://nladuo.github.io/trump_voice_generated.wav" target="_blank" rel="nofollow noopener noreferrer">nladuo.github.io/trump_voice…</a></p>
 <p>完整的代码：链接:<a href="https://pan.baidu.com/s/1NFtU26GW1O0koF-pHrxALA" target="_blank" rel="nofollow noopener noreferrer">pan.baidu.com/s/1NFtU26GW…</a>  密码:ezl8</p>
 <p>本文代码可查看<code>demo_trump_voice_sythesis.ipynb</code>
-<img alt class="lazyload" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/27d479f1539d4fb28d8eceee5fcbb63c~tplv-k3u1fbpfcp-zoom-1.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/27d479f1539d4fb28d8eceee5fcbb63c~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p></div>  
 </div>
             

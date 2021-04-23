@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://picsum.photos/400/300?random=9184'
+headimg: 'https://picsum.photos/400/300?random=8687'
 author: 掘金
 comments: false
 date: Tue, 06 Apr 2021 18:41:48 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9184'
+thumbnail: 'https://picsum.photos/400/300?random=8687'
 ---
 
 <div>   
@@ -180,6 +180,6 @@ eval_gemfile(plugins_path) if File.exist?(plugins_path)
 <li>
 <p>sudo操作，如果遇到不明原因的错误，可能是权限问题，使用chmod 777 路径 尝试解决</p>
 </li>
-</ul></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+</ul></div>  
 </div>
             

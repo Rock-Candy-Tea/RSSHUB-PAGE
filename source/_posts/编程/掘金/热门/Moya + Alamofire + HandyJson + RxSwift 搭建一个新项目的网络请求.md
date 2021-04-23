@@ -49,7 +49,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c4053518b57648f79c
 <p><a href="https://github.com/Moya/Moya" target="_blank" rel="nofollow noopener noreferrer">Moya</a> 是对 <code>Alamofire</code> 的再封装，如果只是使用的话，关心 <code>Moya</code> 的使用方法即可。</p>
 <p>Moya 分别提供了<a href="https://github.com/Moya/Moya/tree/master/docs" target="_blank" rel="nofollow noopener noreferrer">Moya英文文档</a> 和 <a href="https://github.com/Moya/Moya/tree/master/docs_CN" target="_blank" rel="nofollow noopener noreferrer">Moya中文文档</a>。（英文文档更全面）</p>
 <h4 data-id="heading-7">1、熟悉 Moya</h4>
-<p><img alt="image.png" class="lazyload" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c4053518b57648f79cacf7e565df21be~tplv-k3u1fbpfcp-watermark.image" data-width="800" data-height="600" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c4053518b57648f79cacf7e565df21be~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>下载官方的 Demo 后，先熟悉一下 <code>Moya</code> 的用法。</p>
 <ul>
 <li><a href="https://github.com/Moya/Moya/blob/master/docs/Examples/Basic.md" target="_blank" rel="nofollow noopener noreferrer">Moya使用方式官方英文文档</a></li>
@@ -572,6 +572,6 @@ let parsedArray = [UserModel].deserialize(from: AnyObject)
 <h3 data-id="heading-26">5、RxSwift</h3>
 <p>关于 <code>RxSwift</code> 的使用方式看 <a href="https://juejin.cn/post/6844903912542044173" target="_blank">Cooci 的博客 RxSwift 用法</a>。</p>
 <h3 data-id="heading-27">6、总结</h3>
-<p>有了这些，你就可以快速搭建新项目的网络请求了，如果感觉帮助了你些许，能给个赞最好了，感谢各位。</p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>有了这些，你就可以快速搭建新项目的网络请求了，如果感觉帮助了你些许，能给个赞最好了，感谢各位。</p></div>  
 </div>
             

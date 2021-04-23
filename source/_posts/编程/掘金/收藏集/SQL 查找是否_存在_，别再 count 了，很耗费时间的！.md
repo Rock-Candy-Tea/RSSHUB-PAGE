@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://picsum.photos/400/300?random=7611'
+headimg: 'https://picsum.photos/400/300?random=1217'
 author: 掘金
 comments: false
 date: Fri, 26 Feb 2021 00:08:20 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7611'
+thumbnail: 'https://picsum.photos/400/300?random=1217'
 ---
 
 <div>   
@@ -51,6 +51,6 @@ if ( exist != NULL ) &#123;
 <p>SQL不再使用count，而是改用LIMIT 1，让数据库查询时遇到一条就返回，不要再继续查找还有多少条了
 业务代码中直接判断是否非空即可</p>
 <h4 data-id="heading-4">总结</h4>
-<p>根据查询条件查出来的条数越多，性能提升的越明显，在某些情况下，还可以减少联合索引的创建。</p></div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>根据查询条件查出来的条数越多，性能提升的越明显，在某些情况下，还可以减少联合索引的创建。</p></div>  
 </div>
             

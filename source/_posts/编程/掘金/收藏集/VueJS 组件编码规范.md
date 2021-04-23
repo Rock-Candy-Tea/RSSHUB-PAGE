@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://picsum.photos/400/300?random=8023'
+headimg: 'https://picsum.photos/400/300?random=3117'
 author: 掘金
 comments: false
 date: Wed, 08 Mar 2017 19:19:39 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8023'
+thumbnail: 'https://picsum.photos/400/300?random=3117'
 ---
 
 <div>   
@@ -443,6 +443,6 @@ export default &#123;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>运行 JSHint</p><br> <pre><code class="copyable">jshint --config modules/.jshintrc --extra-ext=html --extract=auto modules/
 <span class="copy-code-btn">复制代码</span></code></pre><br>
-<p>注：JSHint 不接受 vue 扩展名的文件，只支持 html。</p> </div> <div class="image-viewer-box" data-v-78c9b824><!----></div>  
+<p>注：JSHint 不接受 vue 扩展名的文件，只支持 html。</p> </div>  
 </div>
             
