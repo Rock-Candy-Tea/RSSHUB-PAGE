@@ -1,0 +1,18 @@
+
+---
+title: '我那形同虚设的婚姻 古月三刀_风萧萧兮（更新至 ed《森林青草》）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202104/22/1b0d871c7d522057fb3782aeeecdc569191944.jpg'
+author: 猫耳 FM
+comments: false
+date: Thu, 22 Apr 2021 11:22:26 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202104/22/1b0d871c7d522057fb3782aeeecdc569191944.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202104/22/1b0d871c7d522057fb3782aeeecdc569191944.jpg" referrerpolicy="no-referrer"><br><p>原曲《앞으로》--김민승 (金敏胜)</p><p>《森林青草》——（广播剧《我那形同虚设的婚姻》ED）</p><br><p>原作：一蟹不如一蟹</p><p>策划：由良子</p><p>填词：雪影无华【昆仑班】</p><p>监制/歌手：布纳纳【大音希声】</p><p>美工：南岸</p><p>后期：语宁</p><br><br><p>一见钟情怦然地心跳</p><p>爱情它 悄悄来到</p><p>一定是 上帝听见 我的祷告</p><br><p>爱情让人冲昏了头脑</p><p>深爱着 故作傲娇</p><p>冷着脸一转身变成哭包</p><p>圈在原地无处可逃</p><p>终于明白你有多重要</p><br><p>你就像青草</p><p>伴着阳光围绕</p><p>我们的爱情</p><p>就像充满阳光的森林 枝繁叶茂</p><p>你的好 只有我最知道</p><p>摩天轮之上是我们紧紧相拥着 触碰唇角</p><br><p>小心藏着秘密的钱包</p><p>那是我心动讯号</p><p>你是我捧在掌心的珍宝</p><p>我是你坚强的依靠</p><p>信息素都没有你重要</p><br><p>你就像青草</p><p>伴着阳光围绕</p><p>我们的爱情</p><p>就像充满阳光的森林 枝繁叶茂</p><p>你的好只有我最知道</p><p>摩天轮之上是我们紧紧相拥着 触碰唇角</p><br><p>森林和青草</p><p>相生相伴到老</p><p>我爱你让世界都知道</p><br><p>一定是上帝</p><p>听见我的祷告</p><p>落进我怀抱</p><p>笨拙傲娇撒娇抱紧你 无处可逃</p><p>你是我掌心里的珍宝</p><p>是你带给我这世界所有的温柔 明亮美好</p><br><p>你就像青草</p><p>伴着阳光围绕</p><p>我们的爱情</p><p>就像充满阳光的森林 枝繁叶茂</p><p>你的好只有我最知道</p><p>摩天轮之上是我们紧紧相拥着 触碰唇角</p><br>  
+</div>
+            
