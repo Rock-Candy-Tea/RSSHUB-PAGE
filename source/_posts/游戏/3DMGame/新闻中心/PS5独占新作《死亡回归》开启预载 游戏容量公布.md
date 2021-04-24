@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210424/1619233178_3340
 《死亡回归》似乎是索尼最近针对关于他们太过于依赖《战神》和《最后的生还者》这些大作的批评的一种反驳。本作由Housemarque开发，是一款roguelike射击游戏，身穿宇航服的玩家在神秘的外星球坠落之后陷入了诡异的时间循环。玩家将会在与怪物的战斗中一次又一次的死亡，最终解开这个星球的秘密。主角每次死亡之后都会回到她坠毁的飞船，每次获得新生之后，星球的环境也会发生变化。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210424/1619233178_334010.jpg" alt="PS5独占新作《死亡回归》开启预载 游戏容量公布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210424/1619233178_334010.jpg" alt="PS5独占新作《死亡回归》开启预载 游戏容量公布" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 虽然已经临近发售，但《<a target="_blank" href="https://www.3dmgame.com/games/returnal/">Returnal</a>》的剧情和玩法还有一些谜题待解，只知道与当前市面上的游戏有些不一样。想要第一时间玩到这款游戏的玩家可以从今天开始预载，游戏容量56.101 

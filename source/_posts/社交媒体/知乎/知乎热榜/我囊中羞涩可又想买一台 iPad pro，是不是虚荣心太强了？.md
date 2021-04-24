@@ -1,0 +1,18 @@
+
+---
+title: '我囊中羞涩可又想买一台 iPad pro，是不是虚荣心太强了？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic4.zhimg.com/v2-f9ee4ea7c946fb2699a76066041952fb_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 24 Apr 2021 07:11:56 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-f9ee4ea7c946fb2699a76066041952fb_1440w.jpg'
+---
+
+<div>   
+Puddle的回答<br><br><p>如果题主不打算减少打游戏的时间，我不建议题主买，因为如果继续按这个时间玩下去，就算配好了iPad+Pencil大全套，题主大概率也不会用它来学习。</p><p><b>真想学习的话，设备不重要，毅力和坚持才重要。</b></p><hr><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f9ee4ea7c946fb2699a76066041952fb_1440w.jpg" data-caption data-size="normal" data-rawwidth="720" data-rawheight="337" data-default-watermark-src="https://pic3.zhimg.com/v2-ca7056c36f454dfe52988490c86730e0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f9ee4ea7c946fb2699a76066041952fb_r.jpg" referrerpolicy="no-referrer"></figure><p>题主在知乎一共提了两个问题：</p><p>第一个问题是：王者处CP？（上图即出自该问题描述）</p><p>第二个问题就是目前的这个：我可不可以买一个iPad Pro？</p><p><b>所以，题主买来iPad真的会拿来画画和学习吗？</b></p><p><br></p><p>题主自述是大二，而这张截图的时间应该也与第一个问题相一致，即2020年的6月份，换言之，在上大学的323天的时间里，题主一共打了2645场王者荣耀。</p><p><b>计算下来，平均每天的游戏场数是8.2场。</b></p><p><img src="https://www.zhihu.com/equation?tex=2645%5Cdiv323%5Capprox8.2" alt="2645\div323\approx8.2" eeimg="1" referrerpolicy="no-referrer"> </p><p>就按每局游戏半小时来算，平均每天，仅仅是打王者的时间就已经是4~5个小时左右。</p><p>告诉我，再刨除吃饭、上课还有睡觉以及在路上的时间，<b>每天你还剩多少时间是真正拿来学习和画画的？</b></p><p><b>如果你连学习的时间都没有，那买iPad有什么意义呢？</b></p><p><br></p><p>再退一万步，2000的生活费不算低，咱们不算零花钱，就只按一年十个月拿生活费来算，题主一年的可支配收入也是两万元起步。</p><p>要知道，2020年全国人均可支配收入的中位数也不过才2.7W元。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-135fd760aa80b6140866733d8a6c71a9_1440w.jpg" data-caption data-size="normal" data-rawwidth="481" data-rawheight="288" data-default-watermark-src="https://pic1.zhimg.com/v2-3b15a20077642eb02085c4ead70b4381_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-135fd760aa80b6140866733d8a6c71a9_r.jpg" referrerpolicy="no-referrer"></figure><p>另外，根据网上的一份记账App的数据统计，全国各地的大学生活费平均值如下：（数据可能会偏低一些，但是能大体反应整体情况）</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-94f38359fcacc25fa6aabe6e4ebfd01e_1440w.jpg" data-caption data-size="normal" data-rawwidth="1347" data-rawheight="827" data-default-watermark-src="https://pic4.zhimg.com/v2-3376324cd48fa64b82abb4fc419cf80c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-94f38359fcacc25fa6aabe6e4ebfd01e_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>题主的生活水平，不说吊打绝大多数学生，但是至少是领先平均水平。</p><p>不说兼职，稍微节省一点，少逛点街、少买点皮肤，平时多去图书馆的话，<b>一年都能省出来五千块吧？</b></p><p><br></p><p>咱们再退一步，假如题主平时需要买大量的颜料，2000块的生活费也刚刚只够生活。（可能性不大，毕竟真要是用那么多颜料，并且还生活艰难的话，也就没有那么多时间打王者、买皮肤了）</p><p>那你赚钱的方式依然有很多：奖学金、校内兼职等等，哪怕你上知乎，多输出点东西，多参加一下活动，都有不少的钱拿。</p><p><b>根本不需寒暑假打工，甚至问父母要钱的地步。更何况，还是为了买iPad这种非必需品。</b></p><p><br></p><p>题主要是真想画画，9.9能买一大包。</p><p><br></p><p>Ps：题主在题目里说想要被点醒，出于这个目的，所以我这个答案的语气有些重，如果说我说的话哪里不小心伤害到了题主，请<b>允许我先说一声抱歉</b>。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b80461f8cda05cb39aa671e29d46eda5_1440w.jpg" data-caption data-size="normal" data-rawwidth="1357" data-rawheight="307" data-default-watermark-src="https://pic4.zhimg.com/v2-13ae1ab036f946c1187cfe4175d2249e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b80461f8cda05cb39aa671e29d46eda5_r.jpg" referrerpolicy="no-referrer"></figure><p>但是，我的结论依然不会改变，如果题主持续这样下去，买来iPad也只会变成打游戏的工具，这样做意义不大。</p><p>不要试图给自己的浪费时间、贪图享受的行为找理由，有时间还是好好学习吧。</p><p>祝题主学业顺利。</p><hr><p>以上，我是 <a class="member_mention" href="http://www.zhihu.com/people/844f5a5e3c37e603af147a8f8b84ce51" data-hash="844f5a5e3c37e603af147a8f8b84ce51" data-hovercard="p$b$844f5a5e3c37e603af147a8f8b84ce51">@Puddle</a> ，我们都有美好的未来。</p>  
+</div>
+            
