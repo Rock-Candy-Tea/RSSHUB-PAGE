@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/81/dbc73ecbe302ac8f6aab8985831c78x5.JPG?v=1619176560093'
 author: 巴哈姆特
 comments: false
-date: 2021-04-24 00:27:53
+date: 2021-04-24 04:10:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/81/dbc73ecbe302ac8f6aab8985831c78x5.JPG?v=1619176560093'
 ---
 
@@ -130,6 +130,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/81/dbc73ecbe302ac8f6aab8985831c78x5.
 <div>
  </div>
 <div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/N-3Iil7cZ8c?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
+<div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》新地圖「熱帶樂園」上線的同時，第二幕第三章戰鬥通行證也將同步推出，內含槍枝造型、輻能點數、槍枝吊飾、玩家卡面、塗鴉和稱號；同時還有鎏金帝王的黑暗面、墮落、細緻、穢敗之美為主題的新造型「棄王遺思」。</div>
 <div>
  </div>
@@ -156,8 +162,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/81/dbc73ecbe302ac8f6aab8985831c78x5.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》新地圖「熱帶樂園」等多項內容預定於 4 月 27 日推出。</div>
-</div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="17580" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

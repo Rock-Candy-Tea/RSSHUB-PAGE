@@ -1,0 +1,18 @@
+
+---
+title: '想知道宠物店猫的进货价在多少_-PURE的回答：这得问专业开宠物店的业内人士的进货渠道，这有些资料可参考。'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-15a48cac9eb83705f6a3fdd6288519e4_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sat, 24 Apr 2021 03:54:00 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-15a48cac9eb83705f6a3fdd6288519e4_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>想知道宠物店猫的进货价在多少?</strong><br>PURE的回答<br><p>这得问专业开宠物店的业内人士的进货渠道，这有些资料可参考。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-15a48cac9eb83705f6a3fdd6288519e4_720w.jpg?source=54b3c3a5" data-rawwidth="1064" data-rawheight="1838" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-eeac8a64760dd15d10b67dcca146bdfc_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-15a48cac9eb83705f6a3fdd6288519e4_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-15a48cac9eb83705f6a3fdd6288519e4_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-aee3519ac53a5499747217aace0837b0_720w.jpg?source=54b3c3a5" data-rawwidth="1024" data-rawheight="1870" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f7da3df000d463f9aada7b9ccd8c2e81_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-aee3519ac53a5499747217aace0837b0_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-aee3519ac53a5499747217aace0837b0_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-f57973fd754c862e7910f13b48572240_720w.jpg?source=54b3c3a5" data-rawwidth="891" data-rawheight="1947" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-d878f34406ceb749a5030162b8ce558c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-f57973fd754c862e7910f13b48572240_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-f57973fd754c862e7910f13b48572240_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-d8a4590f70b482069c344493c81335f9_720w.jpg?source=54b3c3a5" data-rawwidth="970" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-4a0e6a0529a65b96ef582a300081c738_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-d8a4590f70b482069c344493c81335f9_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-d8a4590f70b482069c344493c81335f9_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-ccdf5b4efb13e754d3295955cc4111ba_720w.jpg?source=54b3c3a5" data-rawwidth="962" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-601538832b8c41fe7369def92a745d9b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-ccdf5b4efb13e754d3295955cc4111ba_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-ccdf5b4efb13e754d3295955cc4111ba_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
