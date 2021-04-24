@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-04-24 08:08:43
-thumbnail: 'https://pic2.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162'
+date: 2021-04-24 12:10:42
+thumbnail: 'https://pic4.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/v2-47437fcec3ee19476c616abaa70ebd49_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">风语叔，</span><span class="bio">任天堂Switch | 摄影</span>
 <a href="https://www.zhihu.com/question/454703059/answer/1845983734" class="originUrl" hidden>查看知乎原文</a>
 </strong>

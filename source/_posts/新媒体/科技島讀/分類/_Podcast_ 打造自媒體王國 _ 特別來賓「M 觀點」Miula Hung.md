@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 科技島讀
  - 分類
-headimg: 'https://picsum.photos/400/300?random=9949'
+headimg: 'https://picsum.photos/400/300?random=1422'
 author: 科技島讀
 comments: false
 date: Sun, 28 Mar 2021 22:20:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9949'
+thumbnail: 'https://picsum.photos/400/300?random=1422'
 ---
 
 <div>   
