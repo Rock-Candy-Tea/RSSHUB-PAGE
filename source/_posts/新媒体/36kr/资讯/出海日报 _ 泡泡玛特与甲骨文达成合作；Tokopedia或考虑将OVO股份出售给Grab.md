@@ -26,7 +26,6 @@ thumbnail: 'https://img.36krcdn.com/20210412/v2_dad660594c6b4461bfe115d818946f6e
 <h3><strong>欧美</strong></h3> 
 <p><strong>微软持股流媒体平台 Confluent 在美秘密递交上市申请。</strong>据彭博社报道，由<a class="project-link" data-id="3967413" data-name="微软" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3967413" target="_blank">微软</a>持股的 Confluent Inc.周四披露，公司已秘密递交 IPO 申请，目前暂未披露更多细节。据悉，微软于2016年通过收购 LinkedIn 从而拥有 Confluent 数十亿美元的股份。该公司的其他A级投资者包括 Altimeter Capital、Coatue Management、Franklin Templeton、Index Ventures 和 Sequoia Capital。</p> 
 <p><strong>Snap 第一季度营收7.696亿美元 日活用户达2.80亿人。</strong>据彭博社报道，Snap 发布2021财年第一季度财报显示，其第一季度营收7.696亿美元，同比增长66%；净亏损为2.869亿美元，相比去年亏损收窄6%。运营数据方面，Snap 第一季度每日活跃用户人数为2.80亿人，同比增加5100万人。</p> 
-<p><strong>亚马逊或将推出大型无人商超。</strong>彭博社消息，亚马逊自动收银技术即将在其旗下大型生鲜商超 Fresh 内投入使用，此前亚马逊在旗下 Amazon Go 曾运用了类似的“即买即走”技术。据悉，大型商超自动结账功能面临着巨大的技术挑战，如果亚马逊攻克这一难题，将会大大缩减人工成本，在很大程度上领先于其竞争对手。该商超将于何时开业，目前并无确切消息。</p> 
 <h3>拉美</h3> 
 <p><strong>巴西数字房地产平台 Loft 宣布，获4.25亿美元 D 轮融资。</strong>据 Techcrunch 报道，巴西房地产平台 Loft 宣布完成4.25亿美元 D 轮融资，本轮融资由 D1 Capital Partners 领投，DST、Tiger Global、Andreessen Horowitz、Fifth Wall 和 QED 等跟投。目前，Loft 估值为22亿美元，2020年1月估值还未到10亿，这是巴西初创公司有史以来规模最大的一轮融资。</p> 
 <h3>其他</h3> 

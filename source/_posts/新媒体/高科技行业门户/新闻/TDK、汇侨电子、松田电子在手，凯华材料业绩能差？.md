@@ -1,0 +1,19 @@
+
+---
+title: 'TDK、汇侨电子、松田电子在手，凯华材料业绩能差？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__9902ec8c3def0e01941367c361c9b40e.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 23 Apr 2021 10:29:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__9902ec8c3def0e01941367c361c9b40e.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">天津凯华绝缘材料股份有限公司始建于1997年，是国内较早生产电子封装材料的专业企业之一，主要致力于电子封装材料环氧粉末包封料和塑封料、粉末涂料的开发、研制、生产及销售。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__9902ec8c3def0e01941367c361c9b40e.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">公司两大类产品：包封料和塑封料。</p><p style="text-indent: 2em; text-align: left;">塑封料，又称环氧塑封料（EMC，Epoxy Molding Compound）以其较高的可靠性、低成本、生产工艺简单、适合大规模生产等特点，占据了整个微电子封装材料 90％以上的市场。现在，环氧塑封料已经广泛地应用于各种 LED 光电产品、半导体器件、集成电路、二极管、三极管、钽电容的封装及其他电子元件的模塑封装。相关产品封装后广泛地应用于消费电子、汽车、军事、航空等各个领域。</p><p style="text-indent: 2em; text-align: left;">具体可用于 DIP、SOP、QFP、QFN 等半导体的封装工艺；DO、TO、高压硅堆等直插式分立器件；片式钽电容、氧化铌电容、铝电解电容的封装；TO－220F、TO－247F、TO－3PF 等更高导热产品的封装等。</p><p style="text-indent: 2em; text-align: left;">环氧粉末包封料是一种基于环氧树脂的高分子复合材料，环氧粉末包封料是在电子电气方面最重要的绝缘材料之一。具有力学性能高，内聚力强、分子结构致密；粘接性能优异；固化收缩率小（产品尺寸稳定、内应力小、不易开裂）；绝缘性能好；防腐性好；稳定性好；耐热性好（可达 200℃或更高）的特点，用于压敏电阻、陶瓷电容、薄膜电容等电子元器件的外包封复合材料，起到绝缘保护的作用。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__a79a1bcc66a92b880d9710905b830a92.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">具体的应用领域有：</p><p style="text-indent: 2em; text-align: left;">?压敏电阻及陶瓷电容器</p><p style="text-indent: 2em; text-align: left;">公司的 EF－150 以及 EF－150（K）型环氧粉末包封料产品主要应用于压敏电阻与陶瓷电容器的绝缘保护。常规固化条件的 EF－150 型环氧粉末包封料产品，综合性能优异，与同行业产品比较有着突出的绝缘耐湿性、出色的耐高低温冲击性、优异的阻燃性及良好的涂装工艺性。快速固化的 EF－150（K）型产品，在原有综合性能优异的基础上，缩短了固化时间，使得客户可以在原有生产线的基础上，将原有的分段独立工序融为一体连线生产，极大地提高了生产效率、节省了大量的能源及人力。</p><p style="text-indent: 2em; text-align: left;">目前国际顶级的压敏电阻及陶瓷电容制造商，均采用公司的产品，例如厦门TDK 有限公司、舜全电气器材（东莞）有限公司、广州汇侨电子有限公司等业内知名制造商。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__1cc05262aec402cf23b78ac5ecd5a9c0.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">TDK、汇侨电子、松田电子均为公司前五大客户，因此可以推断，公司的环氧粉末包封料主要用于压敏电阻及陶瓷电容器。</p><p style="text-indent: 2em; text-align: left;">?薄膜电容器</p><p style="text-indent: 2em; text-align: left;">公司的环氧粉末包封料 EF－150（B）型产品主要应用于薄膜电容器方面，该种规格产品涂装及固化温度低，工艺性能优良，耐溶剂侵蚀性优异，固化物 Tg 温度高，耐热性优良。目前，该种产品主要供应于日本松下电器产业株式会社、厦门法拉电子股份有限公司等薄膜电子厂商，在行业内有着较强的影响力与认可度。</p><p style="text-indent: 2em; text-align: left;">?独石电容及自恢复保险丝</p><p style="text-indent: 2em; text-align: left;">公司环氧粉末包封料的 EF－150（F）型产品，主要应用于独石电容及自恢复保 险丝等方面。该种型号产品容易涂装，作业性优异，固化物外观光泽度高，有着良好的耐湿性与绝缘性，因为包粉料具有较大的塑性，所以涂装后的产品耐电流冲击性非常优异。目前该种产品在台湾富致科技股份有限公司及上海长园维安电子线路保护有限公司等客户中有所应用。</p><p style="text-indent: 2em; text-align: left;">?热敏电阻及传感器</p><p style="text-indent: 2em; text-align: left;">公司环氧粉末包封料的 NT－100、NT－100、NT－200 环氧、酚醛及有机硅树脂液体封装材料产品具有较高的耐热性、较好的导热性及绝缘性，主要应用于热敏电阻及传感器等敏感元器件的表面绝缘封装</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__f08c2fc5cc0eeba4d085122918fb1406.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">电容器是在两极金属导电物质间以绝缘介质隔离，并以静电形式储存和释放电能的无源电子元器件，在电子电路中可起到储能、调谐、滤波、耦合、整流、隔直流电压、旁路、耦合等作用，广泛用于各种高低频电容，是电子线路中不可缺少的基础电子元件。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member139/202104/wx_article__3aaae7585afc677486ad1bd41202aeda.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">按照绝缘介质不同，电容器可分为∶陶瓷电容器、铝电解电容器、钮电解电容器、薄膜电容<span style="text-indent: 2em;">器。其中，陶瓷电容器占据约40％市场份额。</span></p> 
+  
+</div>
+            

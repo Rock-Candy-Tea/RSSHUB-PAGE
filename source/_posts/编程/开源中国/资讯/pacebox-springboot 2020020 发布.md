@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2675'
+headimg: 'https://picsum.photos/400/300?random=8303'
 author: 开源中国
 comments: false
 date: Fri, 23 Apr 2021 17:26:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2675'
+thumbnail: 'https://picsum.photos/400/300?random=8303'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="text-align:left">pacebox-springboot 融合封装已发布，旨在提供快速开发脚手架、打造更好的开源生态环境。</p> 
+                                                                                            <p style="text-align:left">pacebox-springboot 融合封装已发布，旨在提供快速开发脚手架、打造更好的开源生态环境。</p> 
 <p style="text-align:left">希望有志同道合的朋友一起维护该软件、打造一款快速应用开发级生态框架。</p> 
 <pre style="text-align:left">此版本对应<span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49">spring</span></span></span></span> <span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49">cloud</span></span></span></span> 2020<span style="color:#6f42c1"><span style="color:#6f42c1"><span style="color:#6f42c1"><span style="color:#6f42c1">.0</span></span></span></span><span style="color:#6f42c1"><span style="color:#6f42c1"><span style="color:#6f42c1"><span style="color:#6f42c1">.0</span></span></span></span>版本,命名与<span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49">spring</span></span></span></span> <span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49"><span style="color:#d73a49">cloud</span></span></span></span>对应最后位为当时做的集成版</pre> 
 <ul> 
