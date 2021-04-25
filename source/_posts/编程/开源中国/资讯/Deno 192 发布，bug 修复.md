@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3081'
+headimg: 'https://picsum.photos/400/300?random=2225'
 author: 开源中国
 comments: false
 date: Sun, 25 Apr 2021 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3081'
+thumbnail: 'https://picsum.photos/400/300?random=2225'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Deno 1.9.2 现已发布，此版本包含了一些错误修复，具体更新内容如下：</p> 
+                                                                    
+                                                        <p>Deno 1.9.2 现已发布，此版本包含了一些错误修复，具体更新内容如下：</p> 
 <ul> 
  <li>修复：正确解析 websocket 消息（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fdenoland%2Fdeno%2Fpull%2F10318" target="_blank">＃10318</a>）</li> 
  <li>修复：M1 上的 standalone bin 损坏（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fdenoland%2Fdeno%2Fpull%2F10311" target="_blank">＃10311</a>）</li> 

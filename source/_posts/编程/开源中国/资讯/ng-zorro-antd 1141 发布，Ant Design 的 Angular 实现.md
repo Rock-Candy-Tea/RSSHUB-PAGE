@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9031'
+headimg: 'https://picsum.photos/400/300?random=6618'
 author: 开源中国
 comments: false
 date: Sun, 25 Apr 2021 07:21:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9031'
+thumbnail: 'https://picsum.photos/400/300?random=6618'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>ng-zorro-antd 11.4.1 现已发布。NG-ZORRO 是 Ant Design 的 Angular 实现，用于开发和服务于企业级后台产品。 </p> 
+                                                                    
+                                                        <p>ng-zorro-antd 11.4.1 现已发布。NG-ZORRO 是 Ant Design 的 Angular 实现，用于开发和服务于企业级后台产品。 </p> 
 <p>此版本具体更新内容如下：</p> 
 <h4><strong>Bug Fixes</strong></h4> 
 <ul> 

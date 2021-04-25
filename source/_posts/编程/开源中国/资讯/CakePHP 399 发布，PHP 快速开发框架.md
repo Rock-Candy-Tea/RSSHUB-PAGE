@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=643'
+headimg: 'https://picsum.photos/400/300?random=773'
 author: 开源中国
 comments: false
-date: Sat, 24 Apr 2021 23:41:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=643'
+date: Sun, 25 Apr 2021 07:41:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=773'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>CakePHP 3.9.9 已经发布，这是一个 3.9 分支的维护版本，修复了一些社区报告的问题。CakePHP 是一个运用了诸如 ActiveRecord、Association Data Mapping、Front Controller 和 MVC（model–view–controller） 等著名设计模式的开源 Web 框架。CakePHP 用 PHP 编写，以 Ruby on Rails 的概念为模型，并在 MIT 许可下进行分发。</p> 
+                                                                    
+                                                        <p>CakePHP 3.9.9 已经发布，这是一个 3.9 分支的维护版本，修复了一些社区报告的问题。CakePHP 是一个运用了诸如 ActiveRecord、Association Data Mapping、Front Controller 和 MVC（model–view–controller） 等著名设计模式的开源 Web 框架。CakePHP 用 PHP 编写，以 Ruby on Rails 的概念为模型，并在 MIT 许可下进行分发。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>assertMailSentFrom() 方法现在可以比较数组电子邮件。</li> 

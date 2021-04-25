@@ -8,13 +8,14 @@ categories:
 headimg: 'https://s3.ax1x.com/2020/12/27/r5400A.png'
 author: 开源中国
 comments: false
-date: Sun, 25 Apr 2021 00:04:00 GMT
+date: Sun, 25 Apr 2021 08:03:00 GMT
 thumbnail: 'https://s3.ax1x.com/2020/12/27/r5400A.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left">novel-plus v3.5.2发布了，主要改进包括：</p> 
+                                                                    
+                                                        <p style="text-align:left">novel-plus v3.5.2发布了，主要改进包括：</p> 
 <ul> 
  <li style="text-align:justify"><span style="color:#444444">[更新]作家后台新增作品封面图片快捷修改功能</span></li> 
  <li style="text-align:justify">[优化]首页修改周推小说数量</li> 

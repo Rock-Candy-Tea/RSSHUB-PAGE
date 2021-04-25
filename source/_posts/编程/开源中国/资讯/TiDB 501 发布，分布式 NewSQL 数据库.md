@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=195'
+headimg: 'https://picsum.photos/400/300?random=132'
 author: 开源中国
 comments: false
-date: Sat, 24 Apr 2021 23:53:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=195'
+date: Sun, 25 Apr 2021 07:52:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=132'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>TiDB 5.0.1 现已发布，该版本具体更新内容如下：</p> 
+                                                                    
+                                                        <p>TiDB 5.0.1 现已发布，该版本具体更新内容如下：</p> 
 <p><strong>改进提升</strong></p> 
 <ul> 
  <li> <p>TiKV</p> 

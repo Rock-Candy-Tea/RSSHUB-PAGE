@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3274'
+headimg: 'https://picsum.photos/400/300?random=2071'
 author: 开源中国
 comments: false
-date: Sat, 24 Apr 2021 23:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3274'
+date: Sun, 25 Apr 2021 07:35:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2071'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Cphalcon 是一个开源的 Web 框架，作为 PHP 语言 C 扩展，它提供了更高的性能与更低的资源消耗。Cphalcon 4.1.1 正式发布，该版本更新内容如下：</p> 
+                                                                    
+                                                        <p>Cphalcon 是一个开源的 Web 框架，作为 PHP 语言 C 扩展，它提供了更高的性能与更低的资源消耗。Cphalcon 4.1.1 正式发布，该版本更新内容如下：</p> 
 <p>变化：</p> 
 <ul> 
  <li>纠正了 PECL 的最大 PHP 版本；</li> 
