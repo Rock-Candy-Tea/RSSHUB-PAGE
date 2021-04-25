@@ -8,13 +8,13 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image009_S.jpg'
 author: 游民星空
 comments: false
-date: Fri, 23 Apr 2021 00:16:00 GMT
+date: Sat, 24 Apr 2021 16:13:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image009_S.jpg'
 ---
 
 <div>   
-<p>随着《尼尔：伪装者》的发售，玩家们再次感受到了人工生命世界的魅力，而本作的女主角凯妮也会到了大众的视野。早在《尼尔：机械纪元》的DLC中，2B就曾身穿这件套装亮相，这次我们感受到了本尊的魅力。虽然是扶她，但是并不影响性感。</p>
-<p>本次分享的就是来自瑞典的COSER：Hanna的凯妮COS，不仅服装精致还原，还十分用心的加入了艾米尔联动，可以说相当用心了。种族天赋的美貌让这位凯妮也具有异国风情，本次摄影师为：lovijphoto。</p>
+<p>随着《尼尔：伪装者》的发售，玩家们再次感受到了人工生命世界的魅力，而本作的主要角色之一凯妮也回到了大众的视野。早在《尼尔：机械纪元》的DLC中，2B就曾身穿这件套装亮相，这次我们感受到了本尊的魅力。虽然角色是扶她，但性感程度似乎没有影响。</p>
+<p>本次分享的就是来自瑞典COSER小姐姐：Hanna的凯妮COS，不仅服装精致还原，还十分用心的加入了艾米尔联动。种族天赋的美貌让这位凯妮也有一些异国风情，本次摄影师为：lovijphoto。</p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image009.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image009_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image001.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image001_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image005.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image005_S.jpg" referrerpolicy="no-referrer"></a></p>
@@ -68,7 +68,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/0
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image036.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image036_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image037.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image037_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image038.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image038_S.jpg" referrerpolicy="no-referrer"></a></p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image040.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210423_zy_red_164_1/image040_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center">
       
                     
