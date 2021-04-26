@@ -1,0 +1,18 @@
+
+---
+title: '短周期爽快的steam游戏推荐'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/62472ae96c9290292ee5e6994bb06c6d/thumb.png'
+author: 小黑盒
+comments: false
+date: Mon, 26 Apr 2021 14:27:35 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/62472ae96c9290292ee5e6994bb06c6d/thumb.png'
+---
+
+<div>   
+<p>当我们长时间做一件事情时总会觉得有点烦躁，然而也没多出那么多时间可以沉浸式体验游戏，那么玩不了3A大作，还能能玩点啥呢。下面我给大家介绍一些我平时空闲的时候都在玩点啥，专门解决我做作业烦的时候的放松需求。</p><p><b>注：本文仅代表个人观点，不喜勿喷，如有趣事，尽兴讨论</b></p><h2>一、雀魂麻將(MahjongSoul)（单场游戏时长：1-50分钟不等，正常游戏平均时长约：15分钟）</h2><p>    </p><p><img class="lazy" data-height="223" src="https://cdn.max-c.com/heybox/dailynews/img/62472ae96c9290292ee5e6994bb06c6d/thumb.png" data-width="1023" referrerpolicy="no-referrer"></p><h4 class="img-desc">雀魂麻将联动狂赌之渊</h4><p>    雀魂麻将想必大家都比较熟悉，传统日麻，简单易懂，教程清楚，角色讨喜，表情包可爱，配音好听，而且雀魂麻将你可以进网页打（易断线），手机下app打，电脑steam下载打，那就意味着，你可以在床上，在蹲坑，在摸鱼，在等人的时候都可以来一把，而且近日雀魂麻将与狂赌之渊联动，出了图中的四个角色以及对应的四款皮肤，做完活动全部换成抽卡可以有4抽及以上，活动场赤羽之战以及宝牌狂热，速度提升了不少，也增加了刺激感，敬请体验哦！</p><p><img data-gameid="1329410" src="https://cdn.max-c.com/heybox/game/header/1329410_996e5.jpg" referrerpolicy="no-referrer"></p><h2><br></h2><hr><h2>二、Hades（哈迪斯）（单场游戏时长：10-30分钟不等，正常通关游戏平均时长约：22分钟）</h2><p>  </p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/7b3665866e1955578e39934db1d5ab31/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">Hades</h4><p> 也许雀魂麻将并不能给你带来多少快乐，因为你总是被胡，二择大失败很难不变得更烦，所以我推荐你去玩玩哈迪斯，哈迪斯以古希腊神话为背景，介绍冥王哈迪斯的儿子扎格列欧斯，如何逃出地狱（误），以及解开身世真相的故事，哈迪斯不同于其他类型的肉鸽游戏，他有6把初始武器，以及每把武器有三种升级形态，这大大增加了初始选择的可玩性，当然一开始你只有一把小单刀，勇闯地狱，随后你用长枪，机炮，拳套，盾牌等等再搭配你一堆贵圈真乱的神仙亲戚给的饰品玩起来简直随心所欲。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/468f0cb494d51a51fe4202fea6b46327/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">哈迪斯武器，饰品选择页面</h4><p>而且随着胜利次数的不断增加，主线也会随之推进。而且游戏是砍杀类的，一路突突突也能过一两关，但想要轻松过完所有关卡则需要对祝福进行一定的选择和搭配，上头了之后很解压，很投入，也很快能打完一把。如果真的不想动脑子，可以选择神力模式，真无脑砍杀，爽就完事。而且游戏搭配热度挑战模式，基本可以说是可以一直挑战，常玩常新的游戏。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/4f7167a5f9ce02c22f0c8b5c3d0f3ca2/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">开启神力模式</h4><p> 史低64 原价80 购买还送csgo的Hades音乐盒  <a href="heybox://open_subject" target="_blank">#csgo#</a><a href="heybox://open_subject" target="_blank">#hades#</a><a href="heybox://open_subject" target="_blank">#哈迪斯#</a></p><p><img data-gameid="1145360" src="https://cdn.max-c.com/heybox/game/header/1145360_tdTDK.jpg" referrerpolicy="no-referrer"></p><h2><br></h2><hr><h2>三、The Binding of Isaac: Rebirth（以撒的结合：重生）（单场游戏时长：5分钟-套圈无上限，普通通关游戏平均时长约：20分钟）</h2><p><br></p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/6f04c38e08b64aa6b320e3a3dfa0f942/thumb.jpg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">以撒的结合：重生</h4><p>   以撒的结合重生，游戏背景偏黑暗，里面的角色以及建模可能大部分人不喜欢，甚至觉得恶心，但是以撒的游戏性还是非常不错的，虽说这游戏越丑越强，但不妨碍我无双乱杀，我们以眼泪为武器，冲向自由。游戏总计500+道具并且近期更新了dlc，steam好评如潮，闲来打开电脑开启以撒打一把算一把，600+的成就让人爽到不行，成就完成越多道具解锁越多，机制解锁越多，真是high到停不下来。过多的就不展开了，无聊的时候建议玩这个角色，很轻松。</p><p><img class="lazy" data-height="544" src="https://cdn.max-c.com/heybox/dailynews/img/e5406c5f37aa673d0a09055df2f253c2/thumb.png" data-width="945" referrerpolicy="no-referrer"></p><h4 class="img-desc">以撒中较为简单的角色</h4><p><br></p><p> 原价48 dlc建议购入到胎衣+，这样才能打mod，否则创意工坊中的mod无法成功装载。<a href="heybox://open_subject" target="_blank">#以撒的结合：重生#</a><br></p><p><img data-gameid="250900" src="https://cdn.max-c.com/heybox/game/header/250900_atrxH.jpg" referrerpolicy="no-referrer"></p>  
+</div>
+            
