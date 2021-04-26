@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfc22a8459c4481199377fec9d550c5c~tplv-k3u1fbpfcp-watermark.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ffd17f0a11a428fbe14d13832dc3bef~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Wed, 21 Apr 2021 23:36:40 GMT
-thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfc22a8459c4481199377fec9d550c5c~tplv-k3u1fbpfcp-watermark.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ffd17f0a11a428fbe14d13832dc3bef~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -24,228 +24,8 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfc22a8459c4481199
     return [UIDevice currentDevice].identifierForVendor.UUIDString;;
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h2 data-id="heading-1">2. MAC 地址</h2>
-<p>MAC地址，用来表示互联网上每一个站点的标示符，是一个六个字节（48位）的十六进制序列。前三个字节是由 IEEE 的注册管理机构 RA 负责给不同厂家分配的”编制上唯一的标示符，后三个字节由各厂家自行指派给生产的适配器接口。</p>
-<p>MAC 地址在网络上用来区分设备的唯一性，接入网络的设备都有一个MAC地址，他们肯定都是唯一的。一部 iPhone 上可能有多个 MAC 地址，包括 WIFI 的、SIM 的等，但是 iTouch 和 iPad 上就有一个 WIFI 的，因此只需获取 WIFI 的 MAC 地址就好了。一般会采取 MD5（MAC 地址 + bundleID）获取唯一标识。</p>
-<p>但是 MAC 地址和 UDID 一样，存在隐私问题， iOS 7 之后，所有设备请求 MAC 地址会返回一个固定值，这个方法也不攻自破了。</p>
-<p>获取MAC在github找到一个挺好的方法：</p>
-<h3 data-id="heading-2">2.1  首先导入下面几个库：</h3>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfc22a8459c4481199377fec9d550c5c~tplv-k3u1fbpfcp-watermark.image" alt="1619074874524.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
-<h3 data-id="heading-3">2.2 新建一个文件，继承NSObject,在.m文件导入头文件，以及定义一些宏</h3>
-<pre><code class="hljs language-oc copyable" lang="oc">#import "XWGetMAC.h"
-#import <ifaddrs.h>
-#import <resolv.h>
-#import <arpa/inet.h>
-#import <net/if.h>
-#import <netdb.h>
-#import <netinet/ip.h>
-#import <net/ethernet.h>
-#import <net/if_dl.h>
-
-#define MDNS_PORT       5353
-#define QUERY_NAME      "_apple-mobdev2._tcp.local"
-#define DUMMY_MAC_ADDR  @"02:00:00:00:00:00"
-#define IOS_CELLULAR    @"pdp_ip0"
-#define IOS_WIFI        @"en0"
-#define IOS_VPN         @"utun0"
-#define IP_ADDR_IPv4    @"ipv4"
-#define IP_ADDR_IPv6    @"ipv6"
-<span class="copy-code-btn">复制代码</span></code></pre>
-<pre><code class="hljs language-oc copyable" lang="oc">+ (NSString *)getMAC:(BOOL)preferIPv4 &#123;
-    
-    return [[XWGetMAC alloc] getIPAddress:preferIPv4];
-&#125;
-
-/*
- * 获取设备当前网络IP地址
- */
-- (NSString *)getIPAddress:(BOOL)preferIPv4
-&#123;
-    NSArray *searchArray = preferIPv4 ?
-    @[ IOS_VPN @"/" IP_ADDR_IPv4, IOS_VPN @"/" IP_ADDR_IPv6, IOS_WIFI @"/" IP_ADDR_IPv4, IOS_WIFI @"/" IP_ADDR_IPv6, IOS_CELLULAR @"/" IP_ADDR_IPv4, IOS_CELLULAR @"/" IP_ADDR_IPv6 ] :
-    @[ IOS_VPN @"/" IP_ADDR_IPv6, IOS_VPN @"/" IP_ADDR_IPv4, IOS_WIFI @"/" IP_ADDR_IPv6, IOS_WIFI @"/" IP_ADDR_IPv4, IOS_CELLULAR @"/" IP_ADDR_IPv6, IOS_CELLULAR @"/" IP_ADDR_IPv4 ] ;
-    
-    NSDictionary *addresses = [self getIPAddr];
-    
-    __block NSString *address;
-    [searchArray enumerateObjectsUsingBlock:^(NSString *key, NSUInteger idx, BOOL * _Nonnull stop) &#123;
-        address = addresses[key];
-        //筛选出IP地址格式
-        if([self isValidatIP:address]) *stop = YES;
-    &#125;];
-    return address ? address : @"0.0.0.0";
-&#125;
-
-- (BOOL)isValidatIP:(NSString *)ipAddress &#123;
-    if (ipAddress.length == 0) &#123;
-        return NO;
-    &#125;
-    NSString *urlRegEx = @"^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\."
-    "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\."
-    "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\."
-    "([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
-    
-    NSError *error;
-    NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:urlRegEx options:0 error:&error];
-    
-    if (regex != nil) &#123;
-        NSTextCheckingResult *firstMatch=[regex firstMatchInString:ipAddress options:0 range:NSMakeRange(0, [ipAddress length])];
-        return firstMatch;
-    &#125;
-    return NO;
-&#125;
-
-- (NSDictionary *)getIPAddr
-&#123;
-    NSMutableDictionary *addresses = [NSMutableDictionary dictionaryWithCapacity:8];
-    
-    // retrieve the current interfaces - returns 0 on success
-    struct ifaddrs *interfaces;
-    if(!getifaddrs(&interfaces)) &#123;
-        // Loop through linked list of interfaces
-        struct ifaddrs *interface;
-        for(interface=interfaces; interface; interface=interface->ifa_next) &#123;
-            if(!(interface->ifa_flags & IFF_UP) /* || (interface->ifa_flags & IFF_LOOPBACK) */ ) &#123;
-                continue; // deeply nested code harder to read
-            &#125;
-            const struct sockaddr_in *addr = (const struct sockaddr_in*)interface->ifa_addr;
-            char addrBuf[ MAX(INET_ADDRSTRLEN, INET6_ADDRSTRLEN) ];
-            if(addr && (addr->sin_family==AF_INET || addr->sin_family==AF_INET6)) &#123;
-                NSString *name = [NSString stringWithUTF8String:interface->ifa_name];
-                NSString *type;
-                if(addr->sin_family == AF_INET) &#123;
-                    if(inet_ntop(AF_INET, &addr->sin_addr, addrBuf, INET_ADDRSTRLEN)) &#123;
-                        type = IP_ADDR_IPv4;
-                    &#125;
-                &#125; else &#123;
-                    const struct sockaddr_in6 *addr6 = (const struct sockaddr_in6*)interface->ifa_addr;
-                    if(inet_ntop(AF_INET6, &addr6->sin6_addr, addrBuf, INET6_ADDRSTRLEN)) &#123;
-                        type = IP_ADDR_IPv6;
-                    &#125;
-                &#125;
-                if(type) &#123;
-                    NSString *key = [NSString stringWithFormat:@"%@/%@", name, type];
-                    addresses[key] = [NSString stringWithUTF8String:addrBuf];
-                &#125;
-            &#125;
-        &#125;
-        // Free memory
-        freeifaddrs(interfaces);
-    &#125;
-    return [addresses count] ? addresses : nil;
-&#125;
-<span class="copy-code-btn">复制代码</span></code></pre>
-<pre><code class="hljs language-oc copyable" lang="oc">/*
- * 获取设备物理地址
- */
-- (nullable NSString *)getMacAddress &#123;
-    res_9_init();
-    int len;
-    //get currnet ip address
-    NSString *ip = [self currentIPAddressOf:IOS_WIFI];
-    if(ip == nil) &#123;
-        fprintf(stderr, "could not get current IP address of en0\n");
-        return DUMMY_MAC_ADDR;
-    &#125;//end if
-    
-    //set port and destination
-    _res.nsaddr_list[0].sin_family = AF_INET;
-    _res.nsaddr_list[0].sin_port = htons(MDNS_PORT);
-    _res.nsaddr_list[0].sin_addr.s_addr = [self IPv4Pton:ip];
-    _res.nscount = 1;
-    
-    unsigned char response[NS_PACKETSZ];
-    
-    
-    //send mdns query
-    if((len = res_9_query(QUERY_NAME, ns_c_in, ns_t_ptr, response, sizeof(response))) < 0) &#123;
-        
-        fprintf(stderr, "res_search(): %s\n", hstrerror(h_errno));
-        return DUMMY_MAC_ADDR;
-    &#125;//end if
-    
-    //parse mdns message
-    ns_msg handle;
-    if(ns_initparse(response, len, &handle) < 0) &#123;
-        fprintf(stderr, "ns_initparse(): %s\n", hstrerror(h_errno));
-        return DUMMY_MAC_ADDR;
-    &#125;//end if
-    
-    //get answer length
-    len = ns_msg_count(handle, ns_s_an);
-    if(len < 0) &#123;
-        fprintf(stderr, "ns_msg_count return zero\n");
-        return DUMMY_MAC_ADDR;
-    &#125;//end if
-    
-    //try to get mac address from data
-    NSString *macAddress = nil;
-    for(int i = 0 ; i < len ; i++) &#123;
-        ns_rr rr;
-        ns_parserr(&handle, ns_s_an, 0, &rr);
-        
-        if(ns_rr_class(rr) == ns_c_in &&
-           ns_rr_type(rr) == ns_t_ptr &&
-           !strcmp(ns_rr_name(rr), QUERY_NAME)) &#123;
-            char *ptr = (char *)(ns_rr_rdata(rr) + 1);
-            int l = (int)strcspn(ptr, "@");
-            
-            char *tmp = calloc(l + 1, sizeof(char));
-            if(!tmp) &#123;
-                perror("calloc()");
-                continue;
-            &#125;//end if
-            memcpy(tmp, ptr, l);
-            macAddress = [NSString stringWithUTF8String:tmp];
-            free(tmp);
-        &#125;//end if
-    &#125;//end for each
-    macAddress = macAddress ? macAddress : DUMMY_MAC_ADDR;
-    return macAddress;
-&#125;//end getMacAddressFromMDNS
-
-- (nonnull NSString *)currentIPAddressOf: (nonnull NSString *)device &#123;
-    struct ifaddrs *addrs;
-    NSString *ipAddress = nil;
-    
-    if(getifaddrs(&addrs) != 0) &#123;
-        return nil;
-    &#125;//end if
-    
-    //get ipv4 address
-    for(struct ifaddrs *addr = addrs ; addr ; addr = addr->ifa_next) &#123;
-        if(!strcmp(addr->ifa_name, [device UTF8String])) &#123;
-            if(addr->ifa_addr) &#123;
-                struct sockaddr_in *in_addr = (struct sockaddr_in *)addr->ifa_addr;
-                if(in_addr->sin_family == AF_INET) &#123;
-                    ipAddress = [self IPv4Ntop:in_addr->sin_addr.s_addr];
-                    break;
-                &#125;//end if
-            &#125;//end if
-        &#125;//end if
-    &#125;//end for
-    
-    freeifaddrs(addrs);
-    return ipAddress;
-&#125;//end currentIPAddressOf:
-
-- (nullable NSString *)IPv4Ntop: (in_addr_t)addr &#123;
-    char buffer[INET_ADDRSTRLEN] = &#123;0&#125;;
-    return inet_ntop(AF_INET, &addr, buffer, sizeof(buffer)) ?
-    [NSString stringWithUTF8String:buffer] : nil;
-&#125;//end IPv4Ntop:
-
-- (in_addr_t)IPv4Pton: (nonnull NSString *)IPAddr &#123;
-    in_addr_t network = INADDR_NONE;
-    return inet_pton(AF_INET, [IPAddr UTF8String], &network) == 1 ?
-    network : INADDR_NONE;
-&#125;//end IPv4Pton:
-<span class="copy-code-btn">复制代码</span></code></pre>
-<blockquote>
-<p>如果出现 “_res_9_ninit", referenced from:”这种报错，是因为没有添加步骤1的几个库</p>
-</blockquote>
-<h2 data-id="heading-4">3.UUID+自己存储</h2>
-<h3 data-id="heading-5">3.1 获取UUID的两个方法</h3>
+<h2 data-id="heading-1">2.UUID+自己存储</h2>
+<h3 data-id="heading-2">2.1 获取UUID的两个方法</h3>
 <pre><code class="hljs language-oc copyable" lang="oc">/**  卸载应用重新安装后会不一致*/
 + (NSString *)getUUID&#123;
     CFUUIDRef uuid = CFUUIDCreate(NULL);
@@ -260,11 +40,33 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfc22a8459c4481199
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>很明显UUID已经不足以支持设备的唯一性了，目前很多App都有新用户的优惠，但是又要保证每台设备绑定一个账户，如果单纯使用UUID的话已经满足不了这个需求，所以，这里需要用keychain保存，这样即使卸载app在安装，获取到的UUID也是唯一性的。</p>
-<h3 data-id="heading-6">3.2 首先在项目中添加 KeyChain Sharing</h3>
+<h3 data-id="heading-3">2.2 首先在项目中添加 KeyChain Sharing</h3>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7ffd17f0a11a428fbe14d13832dc3bef~tplv-k3u1fbpfcp-watermark.image" alt="WX20210422-152351.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<h3 data-id="heading-7">3.3 导入第三方库 Security.framework</h3>
+<h3 data-id="heading-4">2.3 导入第三方库 Security.framework</h3>
 <p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4369b8a8a07247c3a4d5a33f96fe0f89~tplv-k3u1fbpfcp-watermark.image" alt="1619076442209.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
-<h3 data-id="heading-8">3.4 核心代码（代码有点多）</h3>
+<h3 data-id="heading-5">2.4 创建新类，引用 SSKeychain 封装</h3>
+<pre><code class="hljs language-oc copyable" lang="oc">#import "GetKeychain.h"
+#import "SSKeychain.h"
+
+@implementation GetKeychain
+
++ (NSString *)getDeviceUUID &#123;
+    NSString *currentDeviceUUIDStr = [SSKeychain passwordForService:@"项目boudle id" account:@"uuid"];
+    if (currentDeviceUUIDStr == nil || [currentDeviceUUIDStr isEqualToString:@""])
+    &#123;
+        NSUUID *currentDeviceUUID  = [UIDevice currentDevice].identifierForVendor;
+        currentDeviceUUIDStr = currentDeviceUUID.UUIDString;
+        currentDeviceUUIDStr = [currentDeviceUUIDStr stringByReplacingOccurrencesOfString:@"-" withString:@""];
+        currentDeviceUUIDStr = [currentDeviceUUIDStr lowercaseString];
+        [SSKeychain setPassword: currentDeviceUUIDStr forService:@"项目boudle id" account:@"uuid"];
+    &#125;
+    
+    return currentDeviceUUIDStr;
+&#125;
+
+@end
+<span class="copy-code-btn">复制代码</span></code></pre>
+<h3 data-id="heading-6">2.5 核心代码（代码有点多）</h3>
 <blockquote>
 <p>在github搜索SSKeychain可以找到，只要 SSKeychain.h 和 SSKeychain.m 文件即可</p>
 </blockquote>
@@ -874,28 +676,6 @@ SSKeychainAccessibilityType = accessibilityType;
 
 @end
 
-<span class="copy-code-btn">复制代码</span></code></pre>
-<h3 data-id="heading-9">3.4 创建新类，引用 SSKeychain 封装</h3>
-<pre><code class="hljs language-oc copyable" lang="oc">#import "GetKeychain.h"
-#import "SSKeychain.h"
-
-@implementation GetKeychain
-
-+ (NSString *)getDeviceUUID &#123;
-    NSString *currentDeviceUUIDStr = [SSKeychain passwordForService:@"项目boudle id" account:@"uuid"];
-    if (currentDeviceUUIDStr == nil || [currentDeviceUUIDStr isEqualToString:@""])
-    &#123;
-        NSUUID *currentDeviceUUID  = [UIDevice currentDevice].identifierForVendor;
-        currentDeviceUUIDStr = currentDeviceUUID.UUIDString;
-        currentDeviceUUIDStr = [currentDeviceUUIDStr stringByReplacingOccurrencesOfString:@"-" withString:@""];
-        currentDeviceUUIDStr = [currentDeviceUUIDStr lowercaseString];
-        [SSKeychain setPassword: currentDeviceUUIDStr forService:@"项目boudle id" account:@"uuid"];
-    &#125;
-    
-    return currentDeviceUUIDStr;
-&#125;
-
-@end
 <span class="copy-code-btn">复制代码</span></code></pre></div>  
 </div>
             

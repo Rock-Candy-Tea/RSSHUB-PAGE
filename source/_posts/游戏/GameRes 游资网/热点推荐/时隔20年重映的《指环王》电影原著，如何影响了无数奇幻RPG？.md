@@ -1,0 +1,182 @@
+
+---
+title: '时隔20年重映的《指环王》电影原著，如何影响了无数奇幻RPG？'
+categories: 
+ - 游戏
+ - GameRes 游资网
+ - 热点推荐
+headimg: 'https://di.gameres.com/attachment/forum/202104/25/114223n7a7vwcbvs5jvr9p.jpg'
+author: GameRes 游资网
+comments: false
+date: Sun, 25 Apr 2021 00:00:00 GMT
+thumbnail: 'https://di.gameres.com/attachment/forum/202104/25/114223n7a7vwcbvs5jvr9p.jpg'
+---
+
+<div>   
+<table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2494464">
+近期，奇幻史诗电影《指环王》系列三部曲陆续在国内重映，其中，定档于4月16日的《指环王：护戒使者》首映时间还是2001年。<br>
+<br>
+<div align="center">
+<img id="aimg_974504" aid="974504" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114223n7a7vwcbvs5jvr9p.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114223n7a7vwcbvs5jvr9p.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114223n7a7vwcbvs5jvr9p.jpg" referrerpolicy="no-referrer">
+</div><br>
+20年过去，彼得·杰克逊导演的《指环王》系列业已成为公认的影史经典，这些年间除与其同世界观的《霍比特人》三部曲，也再鲜有这样大制作的奇幻史诗电影。<br>
+<br>
+而《指环王》《霍比特人》电影所依托的原著，由英国作家、语言学家约翰·罗纳德·托尔金（J.R.R.Tolkien）创作的奇幻作品集，更被认为是当代奇幻文学的滥觞，其影响亦发散至包括影视、游戏在内的各个文化领域。<br>
+<br>
+<div align="center">
+<img id="aimg_974505" aid="974505" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114223l6bajkltdi8vt6sg.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114223l6bajkltdi8vt6sg.jpg" width="485" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114223l6bajkltdi8vt6sg.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">约翰·罗纳德·托尔金</font></font></div><br>
+然而，如今这部电影的重映似乎并未能迎合新一代观众，豆瓣由于老观众居多暂且不论，截至目前，它在猫眼电影的评分只有8.9（熟悉猫眼的朋友都清楚这算不上高分），打一星的占比6.6%。<br>
+<br>
+其中，低分差评大多指向电影时间太长，或者“没有结局”。<br>
+<br>
+<div align="center">
+<img id="aimg_974506" aid="974506" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114224og2xmv2p6rz0iojv.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114224og2xmv2p6rz0iojv.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114224og2xmv2p6rz0iojv.jpg" referrerpolicy="no-referrer">
+</div><br>
+虽然属于托尔金奇幻的黄金时代早已过去，但误会三部曲的第一部没有结局这种事情，某种意义上也让重提经典的必要性变得突出起来。为免所涉繁冗，我们在此只对原著作一概况介绍，并主要关注它们对后世奇幻类角色扮演游戏（RPG）的影响。<br>
+<br>
+<strong><font color="#de5650">经典</font></strong><br>
+<br>
+生于1892年的托尔金是英国牛津大学的一位语言学教授，一个参加过第一次世界大战的老兵，同时也是一个虔诚的基督徒和一个完美主义者。<br>
+<br>
+对语言与神秘事物的迷恋，使他年轻时期就开始构思、写作体系化的英语神话，而追求完美的性格则使得这个目标终其一生都不曾真正完成。<br>
+<br>
+在经历数次碰壁以后，托尔金于1937年出版了《霍比特人》。本书的定位是儿童文学，这与托尔金当时更为严肃的总体构思还是有些出入，但其意想不到的成功让他大受鼓舞。<br>
+<br>
+他旋即着手创作《指环王》（又作《魔戒》），几经修改于1954年正式出版。当时正值“二战”后纸张短缺，出版商又希望压低首部书的定价，《指环王》遂分三部出版，也就是我们今天看到的《护戒使者》《双塔奇兵》和《王者归来》。<br>
+<br>
+<div align="center">
+<img id="aimg_974507" aid="974507" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114224gughslp6u5ahs55s.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114224gughslp6u5ahs55s.jpg" width="465" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114224gughslp6u5ahs55s.jpg" referrerpolicy="no-referrer">
+</div><br>
+《霍比特人》与《指环王》的流行，让“中土世界”（Middle-earth，又作中洲）这个拥有惊人历史地理细节的虚拟大陆逐渐广为人知。但在托尔金的体系中，巴金斯、弗罗多一行人的故事，仅是中土世界的冰山一角。<br>
+<br>
+1973年托尔金去世，他的儿子克里斯托弗·托尔金（ChristopherTolkien）整理了大量未出版的遗稿，内容多是对中土世界历史、地理、角色、故事的背景性质的补充。个别语焉不详、情节缺失处，由小托尔金执笔补完。<br>
+<br>
+如此一来，中洲的完整面貌才逐渐浮出水面，《精灵宝钻》《未完的传说》《胡林的子女》《贝伦与露西恩》《刚铎林陷落》《中洲历史》等书在后来几十年间一一出版。<br>
+<br>
+<div align="center">
+<img id="aimg_974508" aid="974508" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114224xk7tj7rqktza556z.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114224xk7tj7rqktza556z.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114224xk7tj7rqktza556z.jpg" referrerpolicy="no-referrer">
+</div><br>
+现在回望，奇幻题材在当代文学中早已蔚然成风，许多“主流文学”作家同时也是奇幻文学作家（如石黑一雄）。<br>
+<br>
+诚然，说这种情形是由托尔金一人造就未免言过其实，各民族的神话和民间传说向来就是世人共享的想象力源泉，但如果要追溯最初是谁将以如此厚重、严肃的方式书写奇幻，使之到达相当的文学、艺术和学术高度，那一定非托尔金莫属。<br>
+<br>
+上世纪六七十年代，托尔金奇幻的影响可谓盛极，并一度成为反主流文化的代表，冲击的领域涵盖文学、绘画、音乐、影视——当然，还有游戏。恰好那个时候，也正是当代游戏竞相勃发的阶段。<br>
+<br>
+<strong><font color="#de5650">要素</font></strong><br>
+<br>
+托尔金的作品深刻塑造了包括桌面游戏与电子游戏在内的奇幻RPG，而最重要同时也最显见的论据，在于它们对托氏奇幻特定要素的袭用与改造，尽管这种联系并非都是直接的。<br>
+<br>
+种族、生命与角色设定就是这些要素的核心。中土世界连同其所处的“阿尔达”（Arda，可以理解为地球）除了人类之外，有着诸神、精灵、霍比特人（或半身人）、兽人、树人、巨魔、古龙等形形色色的种族和生物，其中很多自古至今就存在于不同民族文化之中。关键不在于概念本身，而是它们在何种方式上被使用、被理解，托尔金的影响集中于后一方面。<br>
+<br>
+<div align="center">
+<img id="aimg_974509" aid="974509" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114224n13q9c6jj2ptqcp2.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114224n13q9c6jj2ptqcp2.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114224n13q9c6jj2ptqcp2.jpg" referrerpolicy="no-referrer">
+</div><br>
+1974年问世的《龙与地下城》（Dungeons and Dragons，简称DnD）是一款奇幻RPG桌游，它被认为是桌面角色扮演游戏（TRPG）和电脑角色扮演游戏（CPRG）、乃至整个RPG游戏家族的起源。这个重要的作品本身，就借鉴了不少托氏奇幻的要素。<br>
+<br>
+<div align="center">
+<img id="aimg_974510" aid="974510" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114225tci41ncoq4lwlrdn.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114225tci41ncoq4lwlrdn.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114225tci41ncoq4lwlrdn.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">桌面游戏《龙与地下城》</font></font></div><br>
+尽管DnD创始人之一加里·吉盖克斯（Gary Gygax）一向宣称他并未受到托尔金的影响，还认为《指环王》三部曲有些无趣，但是彼此之间的联系几乎就是肉眼可见的。<br>
+<br>
+当初，托尔金遗产管理机构——托尔金基金会甚至明确要求DnD将一些种族的命名如“ent”改为“treant”（树人），“balrog”改为“baldor demons”（炎魔），“hobbits”改为“halfings”（霍比特人，半身人）。<br>
+<br>
+<div align="center">
+<img id="aimg_974511" aid="974511" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114225z0g2g08n0f8m81tk.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114225z0g2g08n0f8m81tk.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114225z0g2g08n0f8m81tk.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">树人</font></font></div><br>
+<div align="center"><font size="2"><font color="#808080">
+<img id="aimg_974512" aid="974512" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114227qb2oyvvvv2zfg2bf.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114227qb2oyvvvv2zfg2bf.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114227qb2oyvvvv2zfg2bf.jpg" referrerpolicy="no-referrer">
+</font></font></div><div align="center"><font size="2"><font color="#808080">炎魔</font></font></div><br>
+1977年发行于雅达利2600平台的《巨洞探险》（Colossal Cave Adventure），是电子游戏中最早RPG之一，它借用了《龙与地下城》的诸多要素，因而也间接受到了托尔金奇幻的影响。在DnD规则的启发下，《博德之门》《异域镇魂曲》等一批CRPG随之兴起，从而将中土世界的要素带到了更多的电子游戏中，这一直延续到曾风靡全世界的MMORPG《魔兽世界》。<br>
+<br>
+《魔兽世界》中的精灵睿智、美丽而永生不朽，这与各种民族神话和民间传说中的描述无异。但如果细究就会发现，他们与托氏作品有着更深一层的联系：<br>
+<br>
+《魔兽世界》中的精灵被划分为若干不同的种族，比如暗夜精灵、高等精灵和血精灵等，而这种族群分化以及彼此之间的复杂关系，与《精灵宝钻》中诺多、凡雅、泰勒瑞等族的分化不无对应关系。<br>
+<br>
+甚至，《魔兽世界》中血精灵的萨拉斯语（Thalasian）叫法“辛多雷”（Sin-dorei）根本就是《精灵宝钻》中“辛达林”（Sindarin）的变体（此为早期泰勒瑞族分裂后在中洲形成的一支），高等精灵称谓奎尔多雷（Quel-dorei）则近似昆雅（Quenya），凡此种种。<br>
+<br>
+<div align="center">
+<img id="aimg_974513" aid="974513" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114232x22ew2xrwxw0b29e.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114232x22ew2xrwxw0b29e.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114232x22ew2xrwxw0b29e.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">《魔兽世界》中的血精灵</font></font></div><br>
+<div align="center">
+<img id="aimg_974514" aid="974514" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114233kppnqivdtssqnnil.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114233kppnqivdtssqnnil.jpg" width="598" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114233kppnqivdtssqnnil.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">《指环王》电影中的精灵</font></font></div><br>
+1987年的初代《最终幻想》，不仅设定上有人类、矮人、兽人和龙等种族，主线故事的四位光之战士踏上漫漫征途摧毁黑暗水晶，也与《指环王》中弗罗多一行人摧毁至尊魔戒在结构上近似一致。只是后来，随着《最终幻想》系列自身的成熟，才渐渐摆脱了《指环王》的影响。<br>
+<br>
+<div align="center"><font size="2"><font color="#808080">
+<img id="aimg_974515" aid="974515" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114233v51ol21hep1rxrrb.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114233v51ol21hep1rxrrb.jpg" width="480" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114233v51ol21hep1rxrrb.jpg" referrerpolicy="no-referrer">
+</font></font></div><div align="center"><font size="2"><font color="#808080">《最终幻想I》</font></font></div><br>
+此外，迈雅甘道夫白袍尖帽的法师装扮、游侠阿拉贡的弓箭手特征、堕入黑暗的强大人类戒灵…….无论善恶，在如今的奇幻游戏中或多或少都能找到与其对应的形象。<br>
+<br>
+<strong><font color="#de5650">语言</font></strong><br>
+<br>
+语言是托尔金奇幻中值得单独提出来的一个维度，托尔金在这方面的工作，完全可与在中土历史、地理、角色、故事方面的工作等量齐观。而且由于他本人身为语言学教授，他为中土世界专门创造的语言门类也有着独特的学术价值。<br>
+<br>
+精灵、兽人、树人、矮人、霍比特人等种族是有自己的语言的，但只是在托尔金以后。<br>
+<br>
+托尔金在青年时期就已经开始自创语言，随着时间的流逝，这件事对于通晓35门语言的教授来说越来越不成问题。他本人对学习语言有着极大的热情，且不分古今语种，从西欧的古盎格鲁-撒克逊语，到北欧的芬兰语、古挪威语，再到东欧的立陶宛语一概了然于心，他有时为了学术工作加以研习，有时又只是以为闲趣。<br>
+<br>
+在托尔金为中土世界创造的语言中，精灵语是最完善的，其中又以昆雅语（Quenya）和辛达语（Sindarin）为最，昆雅语仅方言就有超过15种变化。<br>
+<br>
+<div align="center"><font size="2"><font color="#808080">
+<img id="aimg_974516" aid="974516" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114233g9yka50kudf4kk2h.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114233g9yka50kudf4kk2h.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114233g9yka50kudf4kk2h.jpg" referrerpolicy="no-referrer">
+</font></font></div><div align="center"><font size="2"><font color="#808080">昆雅语-英语词典</font></font></div><br>
+托尔金不仅在书稿中零散地使用这些异世界语言，还系统性地制定了语法规则、常用词汇表，如今网上可以很方便地搜索到精灵语词典。<br>
+<br>
+更难得的是，他在设计这些语言的时候还相当细致地兼顾了世界观，比如居住于地下、擅长于锻造的矮人就拥有一种特殊的符号语言而非口语，因为他们工作的时候周围环境极为嘈杂。<br>
+<br>
+托尔金对语言的重视，让整个中土世界真正像是有了生命一般，尽管这些人工语言都是基于现实印欧语系的变体，但当它们与奇幻世界观结合，就富有一种神秘的意味。<br>
+<br>
+后来凡是追求完美、要求世界观感染力强的作品，都注意到了语言的重要性，《阿凡达》的异星语言纳美语、《权力的游戏》的多斯拉克语就均聘请了语言学专家来设计。<br>
+<br>
+游戏这方面的例子也不少。《上古卷轴：天际》中铿锵有力的龙语，至今仍为各位抓根宝们津津乐道。<br>
+<br>
+<div align="center">
+<img id="aimg_974517" aid="974517" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114234fj3yk1jm2s13i1ms.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114234fj3yk1jm2s13i1ms.jpg" width="385" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114234fj3yk1jm2s13i1ms.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">《上古卷轴：天际》中的第一个龙吼“Fus Ro Dah”</font></font></div><br>
+而在《黑暗之魂》系列中，则明显存在多处对托尔金的致敬。如“黑魂”中的王城亚诺尔隆德（Anor Londo），Anor在精灵语（昆雅语系）中意为“太阳”，Londo则有“港口”的含义。《指环王》中宏伟的米那斯提力斯城（Minas Tirith），依山而建的的刚铎王都，原名即为米纳斯阿诺尔（Minas Anor）。<br>
+<br>
+<div align="center">
+<img id="aimg_974518" aid="974518" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114234ufzc7e7eec6njb21.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114234ufzc7e7eec6njb21.jpg" width="579" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114234ufzc7e7eec6njb21.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">“黑魂”系列王城亚诺尔隆德</font></font></div><br>
+<div align="center">
+<img id="aimg_974519" aid="974519" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114234eqrxj7ixrurx757t.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114234eqrxj7ixrurx757t.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114234eqrxj7ixrurx757t.jpg" referrerpolicy="no-referrer">
+</div><div align="center"><font size="2"><font color="#808080">《指环王》电影中的米纳斯提力斯</font></font></div><br>
+还有洛斯里克（Lothric）王子和他的哥哥洛里安（Lorian）王子，两人的名字合起来非常接近一个专有名词Lothlórien，这正是中洲一个精灵国度的地名。类似地，黑魂中不少地名、人名均与精灵语有着千丝万缕的联系。<br>
+<br>
+哲学家维特根斯坦说，“语言的边界决定世界的外延。”奇幻语言的边界，于是也决定了想象的边界，这大概就是为何托尔金作品能具备如此史诗感的原因之一。<br>
+<br>
+<strong><font color="#de5650">理念</font></strong><br>
+<br>
+在托尔金以前，奇幻文学大多以人物角色为针，以故事情节为线，目的只在于塑造一个主角、讲好一个故事，并不注重世界观背景的构建。换句话说，人们曾经认为奇幻文学犯不着花费那么多的心血，去设定上下五千年、东西十万里的情形，那无疑是荒谬的。<br>
+<br>
+<div align="center"><font size="2"><font color="#808080">
+<img id="aimg_974520" aid="974520" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114235jtokvtfyt98tzvqk.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114235jtokvtfyt98tzvqk.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114235jtokvtfyt98tzvqk.jpg" referrerpolicy="no-referrer">
+</font></font></div><div align="center"><font size="2"><font color="#808080">中洲地图</font></font></div><br>
+这种观点的背后，仍是主流文学的“霸权地位”在起暗示作用。<br>
+<br>
+但托尔金认为，“幻想文学对满足特定的人类基本愿望具有不可替代的作用，这些愿望是由许多成分构成的综合体，其中最基本的愿望包括去探究宇宙空间和时间的深度、广度的愿望，与其它生物进行交流和沟通的愿望，探寻奇怪的语言和古老的生活方式的愿望。”<br>
+<br>
+<div align="center">
+<img id="aimg_974521" aid="974521" zoomfile="https://di.gameres.com/attachment/forum/202104/25/114235hhexl3ixxizgnquw.jpg" data-original="https://di.gameres.com/attachment/forum/202104/25/114235hhexl3ixxizgnquw.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202104/25/114235hhexl3ixxizgnquw.jpg" referrerpolicy="no-referrer">
+</div><br>
+他以贯穿毕生为一个“不存在的”中土世界写作的态度，在行动上试图扭转这一成见——尽管要完全打破它还需要后来更多人的努力。<br>
+<br>
+人们透过《霍比特人》《指环王》看到，一个奇幻故事原来可以不仅仅只是一个故事，而是不妨将其置于宏大而详实的历史地理背景和神话谱系之中。<br>
+<br>
+有关于此，当托尔金本人被问及他如何看待《指环王》的流行时，他是这样回答的：<br>
+<br>
+“我想，《指环王》的一部分魅力，在于读者们仅能窥见而不能全视其背后的大历史……此外，许多古老的传说都是纯粹的‘神话’，且几乎所有都是残酷的悲剧：一场场灾难将古代世界的美好摧毁殆尽。”<br>
+<br>
+在这个意义上，《黑暗之魂》的碎片叙事，以及初火将熄、世界腐坏的悲剧氛围，又与《指环王》何其相似——这不是说它直接借用了什么，而是两者在理念上奇妙地相通。<br>
+<font size="2"><font color="#808080"></font></font><br>
+<font size="2"><font color="#808080">来源：游戏动力</font></font><br>
+<font size="2"><font color="#808080">原文：https://mp.weixin.qq.com/s/DBNOLbR9TWgq_aOAlnQjSA</font></font><br>
+<br>
+</td></tr></tbody></table>
+
+
+
+  
+</div>
+            
