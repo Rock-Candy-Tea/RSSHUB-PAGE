@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?v=1619436152437'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/91/2f506af9e936e362ce7aa379b71c7sn5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2021-04-27 04:09:46
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?v=1619436152437'
+date: 2021-04-27 08:09:50
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/2f506af9e936e362ce7aa379b71c7sn5.JPG'
 ---
 
 <div>   
@@ -23,16 +23,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.
  </div>
 <div>
 　　官方指出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%91%BD%E5%A5%87%E5%BE%A1%E4%BA%8C" target="_blank">天命奇御二</a>》遊戲描寫不羈少年諸葛羽成長的故事。諸葛羽自小雙親早逝，長大後得知雙親對抗權臣亡故的事蹟後，便早早立下志向要讓陷害雙親之人負起應得之罪，並繼承雙親剷除貪官、奸臣的遺志。</div>
-<div>
- </div>
-<div>
-<ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 158.40%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?v=1619436152437" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
-<li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 158.40%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/2d72bbc5629f26b51184b2f62e1c7sp5.JPG?v=1619436152437" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/2d72bbc5629f26b51184b2f62e1c7sp5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/93/2d72bbc5629f26b51184b2f62e1c7sp5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/93/2d72bbc5629f26b51184b2f62e1c7sp5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/93/2d72bbc5629f26b51184b2f62e1c7sp5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
-</ul>
-</div>
 <div>
  </div>
 <div>
@@ -96,6 +86,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/fbb7bfefc8cfa5e2c8ac8f18021c7so5.
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%91%BD%E5%A5%87%E5%BE%A1%E4%BA%8C" target="_blank">天命奇御二</a>》預定今年下半年問世。</div>
 </div>
+<div>
+ </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="15974" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
