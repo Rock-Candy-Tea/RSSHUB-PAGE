@@ -5,22 +5,21 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/58dd6abbd4e54ab799e6e409a5049a74.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png'
 author: Dockone
 comments: false
-date: 2021-04-26 12:11:01
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/58dd6abbd4e54ab799e6e409a5049a74.png'
+date: 2021-04-27 00:26:00
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/58dd6abbd4e54ab799e6e409a5049a74.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 朱晋君<br>
 来源 |<a href="https://mp.weixin.qq.com/s/Rp8paKc2bQhERBGDKtpMcA"> 阿里巴巴云原生公众号</a><br>
 <br>XA 协议是由 X/Open 组织提出的分布式事务处理规范，主要定义了事务管理器 TM 和局部资源管理器 RM 之间的接口。目前主流的数据库，比如 oracle、DB2 都是支持 XA 协议的。<br>
 <br>mysql 从 5.0 版本开始，innoDB 存储引擎已经支持 XA 协议，今天的源码介绍实验环境使用的是 mysql 数据库。<br>
 <br><h1>两阶段提交</h1>分布式事务的两阶段提交是把整个事务提交分为 prepare 和 commit 两个阶段。以电商系统为例，分布式系统中有订单、账户和库存三个服务，如下图：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/5b549b99586dcfae979d311479e89055.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>第一阶段，事务协调者向事务参与者发送 prepare 请求，事务参与者收到请求后，如果可以提交事务，回复 yes，否则回复 no。<br>
@@ -31,7 +30,7 @@ thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/58dd6abbd4e54ab799e6e40
 <ul><li>在协调节点和事务参与者都引入了超时机制。</li><li>第一阶段的 prepare 阶段分成了两步，canCommi 和 preCommit。</li></ul><br>
 <br>如下图：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/9c7a4da33f1e61f51c04018be467c8ef.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/9c7a4da33f1e61f51c04018be467c8ef.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/9c7a4da33f1e61f51c04018be467c8ef.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/9c7a4da33f1e61f51c04018be467c8ef.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>引入 preCommit 阶段后，协调节点会在 commit 之前再次检查各个事务参与者的状态，保证它们的状态是一致的。但是也存在问题，那就是如果第三阶段发出 rollback 请求，有的节点没有收到，那没有收到的节点会在超时之后进行提交，造成数据不一致。<br>
@@ -50,14 +49,14 @@ XA ROLLBACK xid</code><br>
 <br><h1>seata XA 简介</h1>seata 是阿里推出的一款开源分布式事务解决方案，目前有 AT、TCC、SAGA、XA 四种模式。<br>
 <br>seata 的 XA 模式是利用分支事务中数据库对 XA 协议的支持来实现的。我们看一下 seata 官网的介绍：[1]<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/6e4974b0547ce412f47288b33ae56ef4.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/6e4974b0547ce412f47288b33ae56ef4.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/6e4974b0547ce412f47288b33ae56ef4.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/6e4974b0547ce412f47288b33ae56ef4.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>从上面的图可以看到，seata XA 模式的流程跟其他模式一样：<br>
 <ol><li>TM 开启全局事务</li><li>RM 向 TC 注册分支事务</li><li>RM 向 TC 报告分支事务状态</li><li>TC 向 RM 发送 commit/rollback 请求</li><li>TM 结束全局事务</li></ol><br>
 <br>这里介绍一下 RM 客户端初始化关联的 UML 类图：[2]<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/10dee4f5176bf941090d34b652ef2db3.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/10dee4f5176bf941090d34b652ef2db3.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/10dee4f5176bf941090d34b652ef2db3.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/10dee4f5176bf941090d34b652ef2db3.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>这个图中有一个类是 AbstractNettyRemotingClient，这个类的内部类 ClientHandler 来处理 TC 发来的请求并委托给父类 AbstractNettyRemoting 的 processMessage 方法来处理。processMessage 方法调用 RmBranchCommitProcessor 类的 process 方法。<br>
@@ -115,7 +114,7 @@ public DataSource dataSource(DruidDataSource druidDataSource) &#123;<br>
 <br>到这里我们就可以看到，seata 把 xa 协议的前两个阶段合成了一个阶段。<br>
 <br><h2>2. XA commit</h2>这里的调用关系用一个时序图来表示：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/c68fae4461646520f47024d37e36b875.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/c68fae4461646520f47024d37e36b875.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/c68fae4461646520f47024d37e36b875.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/c68fae4461646520f47024d37e36b875.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>看一下 RmBranchCommitProcessor 类的 process 方法，代码如下：<br>
@@ -131,7 +130,7 @@ public void process(ChannelHandlerContext ctx, RpcMessage rpcMessage) throws Exc
 <br>从调用关系时序图可以看出，上面的 handleBranchCommit 方法最终调用了 AbstractRMHandler 的 handle 方法，最后通过 branchCommit 方法调用了 ResourceManagerXA 类的 finishBranch 方法。<br>
 ResourceManagerXA 类是 XA 模式的资源管理器，看下面这个类图，也就是 seata 中资源管理器（RM）的 UML 类图：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210426/c85543be438a93c9d8332b6d5a5ed049.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210426/c85543be438a93c9d8332b6d5a5ed049.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210426/c85543be438a93c9d8332b6d5a5ed049.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210426/c85543be438a93c9d8332b6d5a5ed049.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>上面的 finishBranch 方法调用了 connectionProxyXA.xaCommit 方法，我们最后看一下 xaCommit 方法：<br>

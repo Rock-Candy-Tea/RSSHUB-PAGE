@@ -13,6 +13,6 @@ thumbnail: 'https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EG
 ---
 
 <div>   
-Alien: Isolation<br><img src="https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg" referrerpolicy="no-referrer">  
+Alien: Isolation & Last Survivor DLC<br><img src="https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg" referrerpolicy="no-referrer">  
 </div>
             

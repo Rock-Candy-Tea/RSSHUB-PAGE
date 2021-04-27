@@ -1,0 +1,19 @@
+
+---
+title: 'Podróże'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e0813668-3be8-4ff1-8ef6-97faa65197ca&size=gallery'
+author: Mind42
+comments: false
+date: 2021-04-27 00:26:49
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e0813668-3be8-4ff1-8ef6-97faa65197ca&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e0813668-3be8-4ff1-8ef6-97faa65197ca&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            

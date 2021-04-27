@@ -1,0 +1,19 @@
+
+---
+title: 'Erophone'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏折扣信息
+headimg: 'https://cdn.max-c.com/heybox/game/header/1506280_ypm64.jpg'
+author: 小黑盒
+comments: false
+date: 2021-04-27 00:26:30
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1506280_ypm64.jpg'
+---
+
+<div>   
+<img src="https://cdn.max-c.com/heybox/game/header/1506280_ypm64.jpg" referrerpolicy="no-referrer"> <br>
+            平台: PC<br>折扣力度: 5.9折<br>当前价格: 19[史低]  原价: 32<br><br>  
+</div>
+            

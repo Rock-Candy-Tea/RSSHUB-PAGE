@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/96c07c5cffa0857bfb30478b071c7k45.JPG?v=1619435039730'
 author: 巴哈姆特
 comments: false
-date: 2021-04-26 12:11:36
+date: 2021-04-27 00:26:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/96c07c5cffa0857bfb30478b071c7k45.JPG?v=1619435039730'
 ---
 
@@ -38,13 +38,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/96c07c5cffa0857bfb30478b071c7k45.
 <div>
  </div>
 <div>
-　　官方指出，在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A" target="_blank">少女與戰車</a>》動漫作品系列中，Panzer IV 是最具代表性的車輛之一，也是大洗女子學院「鮟鱇隊」的代表車輛之一，由西住美穗（Miho Nishizumi）指揮。在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E8%BB%8A%E4%B8%96%E7%95%8C" target="_blank">戰車世界</a>》中，Pz.Kpfw. IV Ausf. H Ankou 則是一輛德國 V 階加值中型戰車。</div>
+　　官方指出，在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A" target="_blank">少女與戰車</a>》動漫作品系列中，Panzer IV 是最具代表性的車輛之一，也是大洗女子學院「鮟鱇隊」的代表車輛之一，由西住美穗（<span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px;">Nishizumi Miho</span>）指揮。在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E8%BB%8A%E4%B8%96%E7%95%8C" target="_blank">戰車世界</a>》中，Pz.Kpfw. IV Ausf. H Ankou 則是一輛德國 V 階加值中型戰車。</div>
 <div>
  </div>
 <div>
-　　戰遊網表示，史上第一次、大洗女子學院「鮟鱇隊」成員將化身成帶有原始日本配音的最萌乘員，包括西泉美穗（Miho Nishizumi）、花五十鈴（Hana Isuzu）、千葉真子（Mako Reizei）、竹井沙織（Saori Takebe）與秋山由香里（Yukari Akiyama），讓玩家能一口氣完成收藏。</div>
-<div>
- </div>
+　　戰遊網表示，史上第一次、大洗女子學院「鮟鱇隊」成員將化身成帶有原始日本配音的最萌乘員，包括西住美穗（<span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px;">Nishizumi Miho</span>）、五十鈴華（Isuzu Hana）、秋山優花里（<span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 15.008px;">Akiyama Yukari</span>）、冷泉麻子（Reizei Mako）與武部沙織（Takebe Saori），讓玩家能一口氣完成收藏。</div>
 <div>
  </div>
 <div>
