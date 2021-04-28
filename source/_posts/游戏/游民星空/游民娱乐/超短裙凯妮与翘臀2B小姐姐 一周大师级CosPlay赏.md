@@ -110,11 +110,7 @@ Lylian (Ghost Blade) by LIKA</p>
                     
             <p></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image004.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" width="550" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image004.jpg" referrerpolicy="no-referrer"></a><br>
-Mandalorian by YuzuPyonCosplay
-</p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image005.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" width="550" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image005.jpg" referrerpolicy="no-referrer"></a><br>
-remiliascarlet by @michi_kyunn
-</p>
+Mandalorian by YuzuPyonCosplay</p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image007.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" width="550" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/04/20210426_zy_red_164_2/image007.jpg" referrerpolicy="no-referrer"></a><br>
 Tank Girl x Bunny Bulma by BukkitBrown
 </p>
