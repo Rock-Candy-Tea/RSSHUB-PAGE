@@ -8,12 +8,12 @@ categories:
 headimg: 'https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/nierreplicant-review-blogroll-1619045187837.jpg'
 author: 巴哈姆特
 comments: false
-date: 2021-04-29 04:02:53
+date: 2021-04-29 08:03:04
 thumbnail: 'https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/nierreplicant-review-blogroll-1619045187837.jpg'
 ---
 
 <div>   
-<div>　　廣受好評的2010年PS3遊戲《尼爾：人工生命》升級版登上本周英國實體銷售排行榜。<br><br>　　《尼爾：人工生命 ver.1.22474487139》，將《FIFA 21》擠到亞軍，本作和2017年3月發行的《尼爾：自動人形》相比，銷量少了50%。其中89%的銷售來自在PS4，11%來自Xbox One。數位銷售不包括在内。<br><br><img src="https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/nierreplicant-review-blogroll-1619045187837.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div><br></div><div>　　追根究柢，本周的實體市場表現平淡。上周僅售出13.7萬套實體遊戲，甚至讓一款PC遊戲上榜。主要銷量來自於數位版的《足球經理 2021》本周銷量成長66%來到本周第6名，這都歸功於英國零售商「Currys」的20英鎊特價促銷。</div><div><br></div><div>　　本周新上市的還有《MotoGP 21》，排名第19。这款里程碑式的遊戲在PS5上賣得最好，占了37%，而PS4占31%。</div><div><br></div><div>　　其他方面，《超級瑪利歐3D世界+狂怒世界》儘管銷量下滑24%，仍保持在季軍，《集合啦！動物森友會》下滑30%來到第4，《瑪利歐賽車8 豪華版》減少21%排在第5位。</div><div><br></div><div>　　《魔物獵人 崛起》結束了他在榜單前十5周的旅程，這周來到11名（銷量下滑28%）。</div><div><br></div><div>　　下集預告，PS5獨佔遊戲《Returnal》和Switch獨佔遊戲《New 寶可夢隨樂拍》即將發售。<br><br>　　榜單由UKIE/GfK提供，這是截至4月24日（16 周）的排名：</div><div><br></div><div><div class="cbox-table-holder"><table width="98%" border="1" cellspacing="1" cellpadding="1">
+<div>　　廣受好評的2010年PS3遊戲《尼爾：人工生命》升級版登上本周英國實體銷售排行榜。<br><br>　　《尼爾：人工生命 ver.1.22474487139》，將《FIFA 21》擠到亞軍，本作和2017年3月發行的《尼爾：自動人形》相比，銷量少了50%。其中89%的銷售來自在PS4，11%來自Xbox One。數位銷售不包括在内。<br><br><img src="https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/nierreplicant-review-blogroll-1619045187837.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div><br></div><div>　　追根究柢，本周的實體市場表現平淡。上周僅售出13.7萬套實體遊戲，這甚至讓一款PC遊戲上榜。主要銷量來自數位版的《足球經理 2021》本周銷量成長66%來到本周第6名，這都歸功於英國零售商「Currys」的20英鎊特價促銷。</div><div><br></div><div>　　本周新上市的還有《MotoGP 21》，排名第19。這款里程碑式的遊戲在PS5上賣得最好，占了37%，而PS4占31%。</div><div><br></div><div>　　其他方面，《超級瑪利歐3D世界+狂怒世界》儘管銷量下滑24%，仍保持在季軍，《集合啦！動物森友會》下滑30%來到第4，《瑪利歐賽車8 豪華版》減少21%排在第5位。</div><div><br></div><div>　　《魔物獵人 崛起》結束了他在榜單前十5周的旅程，本周來到第11名（銷量下滑28%）。</div><div><br></div><div>　　下集預告，PS5獨佔遊戲《Returnal》和Switch獨佔遊戲《New 寶可夢隨樂拍》即將發售。<br><br>　　榜單由UKIE/GfK提供，這是截至4月24日（16 周）的排名：</div><div><br></div><div><div class="cbox-table-holder"><table width="98%" border="1" cellspacing="1" cellpadding="1">
 <tbody><tr>
 <td>上週名次</td>
 <td>本週名次</td>
@@ -219,6 +219,6 @@ thumbnail: 'https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/nier
 <td>40</td>
 <td>真人快打11 終極版</td>
 </tr>
-</tbody></table></div></div><div><br></div><div>　　來源：Dring, Christopher. <a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.gamesindustry.biz%2Farticles%2F2021-04-26-nier-replicant-ver-1-22474487139-is-no-1-in-the-uk-uk-boxed-charts" target="_blank">Nier Replicant ver.1.22474487139 is No.1 in the UK | UK Boxed Charts</a>. GamesIndustry.biz </div><div><br></div><div>　　完整榜單：Hebblethwaite, Luke. <a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fmain.ukie-website-prod.etchplay.com%2Fnews%2Fnier-replicant-ver-1-22474487139-tops-charts" target="_blank">NieR Replicant Ver.1.22474487139... tops charts</a>. UKIE<br><br>　　延伸閱讀：<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fhome.gamer.com.tw%2FcreationDetail.php%3Fsn%3D4758763" target="_blank">2020年同期的英國的排行榜</a></div>  
+</tbody></table></div></div><div><br></div><div>　　來源：Dring, Christopher. <a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.gamesindustry.biz%2Farticles%2F2021-04-26-nier-replicant-ver-1-22474487139-is-no-1-in-the-uk-uk-boxed-charts" target="_blank">Nier Replicant ver.1.22474487139 is No.1 in the UK | UK Boxed Charts</a>. GamesIndustry.biz </div><div><br></div><div>　　完整榜單：Hebblethwaite, Luke. <a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fmain.ukie-website-prod.etchplay.com%2Fnews%2Fnier-replicant-ver-1-22474487139-tops-charts" target="_blank">NieR Replicant Ver.1.22474487139... tops charts</a>. UKIE<br><br>　　延伸閱讀：<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fhome.gamer.com.tw%2FcreationDetail.php%3Fsn%3D4758763" target="_blank">2020年同期的英國的排行榜</a></div><br>  
 </div>
             

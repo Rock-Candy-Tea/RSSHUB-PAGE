@@ -5,11 +5,11 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://picsum.photos/400/300?random=9545'
+headimg: 'https://picsum.photos/400/300?random=7727'
 author: Dockone
 comments: false
-date: 2021-04-29 04:02:14
-thumbnail: 'https://picsum.photos/400/300?random=9545'
+date: 2021-04-29 08:02:30
+thumbnail: 'https://picsum.photos/400/300?random=7727'
 ---
 
 <div>   
@@ -92,7 +92,20 @@ lowerdir="/tmp/A-953bc:/tmp/B-953bc:..." \<br>
 <br>直接把每个模块当做一个 layer 既可 —— 如果 <a href="http://d.so/">D.so</a> 因为我们修改了 D.cpp 被重新编译，那么只重新传输 <a href="http://d.so/">D.so</a> 既可，而不需要去传输一个 layer 其中包括 D.so。<br>
 <br>于是，在 Google 和 Facebook 里，受益于 monolithic repository 和统一的 build 工具，我们把上述四个步骤省略成了两个：<br>
 <ol><li>编译：把源码编译成可执行的形式。</li><li>传输：如果某个模块被重新编译，则传输这个模块。</li></ol><br>
-<br>原文链接：<a href="https://zhuanlan.zhihu.com/p/368676698" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/368676698</a>，作者：<a href="https://www.zhihu.com/people/wang-yi-21">王益</a>
+<br><h3>Google 和 Facebook 没在用 Docker</h3>上一节说了 monolithic repo 可以让 Google 和 Facebook 不需要 Docker image。现实是 Google 和 Facebook 没有在使用 Docker。这两个概念有区别。<br>
+<br>我们先说“没在用”。历史上，Google 和 Facebook 使用超大规模集群先于 Docker 和 Kubernetes 的出现。当时为了打包方便，连 tarball 都没有。对于 C/C++ 程序，直接全静态链接，根本没有 *.so。于是一个 executable binary file 就是“包”了。直到今天，大家用开源的 Bazel 和 Buck 的时候，仍然可以看到默认链接方式就是全静态链接。<br>
+<br>Java 语言虽然是一种“全动态链接”的语言，不过其诞生和演进扣准了互联网历史机遇，其开发者发明 jar 文件格式，从而支持了全静态链接。<br>
+<br>Python 语言本身没有 jar 包，所以 Blaze 和 Bazel 发明了 PAR 文件格式（英语叫 subpar），相当于为 Python 设计了一个 jar。开源实现在<a href="https://github.com/google/subpar">这里</a>。类似的，Buck 发明了 XAR 格式，也就是我上文所说的 squashfs image 前面加了一个 header。其开源实现在<a href="https://github.com/facebookincubator/xar">这里</a>。<br>
+<br>Go 语言默认就是全静态链接的。在 Rob Pike 早期的一些总结里提到，Go 的设计，包括全静态链接，基本就是绕坑而行 —— 绕开 Google C/C++ 实践中遇到过的各种坑。熟悉 Google C++ style guide 的朋友们应该感觉到了 Go 语法覆盖了 guide 说的“应该用的 C++ 语法”，而不支持 guide 说的 “不应该用的 C++ 的部分”。<br>
+<br>简单的说，历史上 Google 和 Facebook 没有在用 Docker image，很重要的一个原因是，其 build system 对各种常见语言的程序都可以全静态链接，所以可执行文件就是“包”。<br>
+<br>但这并不是最好的解法 —— 毕竟这样就没有分层了。哪怕我只是修改了 main 函数里的一行代码，重新编译和发布，都需要很长时间 —— 十分钟甚至数十分钟 —— 要知道全静态链接得到的可执行文件往往大小以 GB 计。<br>
+<br>所以<strong>全静态链接虽然是 Google 和 Facebook 没有在用 Docker 的原因之一，但是并不是一个好选择。</strong>所以也没被其他公司效仿。大家还是更愿意用支持分层 cache 的 Docker image。<br>
+<h3>完美解法的技术挑战</h3>完美的解法应该支持分层 cache（或者更精确的说是分块 cache）。所以还是应该用上文介绍的 monolithic repo 和统一 build system 的特点。<br>
+<br>但是这里有一个技术挑战 —— build system 描述的模块，而模块通常比“项目”细粒度太多了。以 C/C++ 语言为例，如果每个模块生成一个 .so 文件，当做一个“层”或者“块“以便作为 cache 的单元，那么一个应用程序可能需要的 .so 数量就太多了。启动应用的时候，恐怕要花几十分钟来 resolve symbols 并且完成链接。<br>
+<br>所以呢，虽然 monolithic repo 有很多好处，它也有一个缺点，不像开源世界里，大家人力的把代码分解成“项目”，每个项目通常是一个 GitHub repo，其中可以有很多模块，但是每个项目里所有模块 build 成一个 *.so 作为一个 cache 的单元。因为一个应用程序依赖的项目数量总不会太多，从而控制了 layer 的总数。<br>
+<br>好在这个问题并非无解。既然一个应用程序对各个模块的依赖关系是一个 DAG，那么我们总可以想办法做一个 graph partitioning，把这个 DAG 分解成不那么多的几个子图。仍然以 C/C++ 程序为例，我们可以把每个子图里的每个模块编译成一个 .a，而每个子图里的所有 .a 链接成一个 *.so，作为一个 cache 的单元。<br>
+<br><strong>于是，如何设计这个 graph partitioning 算法就成了眼前最重要的问题了。</strong><br>
+<br>原文链接：<a href="https://zhuanlan.zhihu.com/p/368676698" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/368676698</a>，作者：<a href="https://www.linkedin.com/in/yidewang/">王益</a>
                                 
                                                               
 </div>

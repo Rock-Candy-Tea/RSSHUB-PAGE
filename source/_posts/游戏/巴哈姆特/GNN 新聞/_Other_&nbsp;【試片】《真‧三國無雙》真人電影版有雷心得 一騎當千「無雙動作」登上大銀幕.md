@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?v=1619668696792'
 author: 巴哈姆特
 comments: false
-date: 2021-04-29 04:02:53
+date: 2021-04-29 08:03:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?v=1619668696792'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 142.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?v=1619668696792" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG 2x" style="max-width: unset;" title="其實曹操比較像主角，但是海報上沒有曹操" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 142.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?v=1619668696792" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.JPG 2x" style="max-width: unset;" title="其實曹操比較像主角，但是海報上沒有曹操" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 其實曹操比較像主角，但是海報上沒有曹操（？）</figure>
 </li>
@@ -95,7 +95,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 150.19%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG?v=1619667436013" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG 2x" style="max-width: unset;" title="虎牢關大戰呂布" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 150.19%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG?v=1619667436013" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/58f48d7bbd3c53f4fa5d0aa5901c8r95.JPG 2x" style="max-width: unset;" title="虎牢關大戰呂布" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 虎牢關大戰呂布</figure>
 </li>
@@ -104,13 +104,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
  </div>
 <div>
-　　而在劇情的部分，前半文戲較多，而且出乎意料地曹操的戲份非常吃重。相較於滿口「大義」的劉備、滿口「大哥」的關張二人，強調「奸雄」一面的曹操反而顯得真性情許多。不過，在角色性格的部分，老實說大部分跟《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》遊戲中的人物設定是不太相像的，不分年齡多有「中二感」，是為可惜之處。</div>
+　　而在劇情的部分，前半文戲較多，而且出乎意料地曹操的戲份非常吃重。相較於滿口「大漢」的劉備、滿口「大哥」的關張二人，強調「奸雄」一面的曹操反而顯得真性情許多。不過，在角色性格的部分，老實說大部分跟《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》遊戲中的人物設定是不太相像的，不分年齡多有中二感，是為可惜之處。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG?v=1619667249074" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG 2x" style="max-width: unset;" title="王凱飾演曹操" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG?v=1619667249074" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/8be8d9d68712fc93a6631325aa1c54y5.JPG 2x" style="max-width: unset;" title="王凱飾演曹操" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 王凱飾演曹操</figure>
 </li>
@@ -119,7 +119,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG?v=1619668521613" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG 2x" style="max-width: unset;" title="楊祐寧飾演劉備" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG?v=1619668521613" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/e809e8e1382caaa01bf9d2941e1c1gv5.JPG 2x" style="max-width: unset;" title="楊祐寧飾演劉備" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 楊祐寧飾演劉備</figure>
 </li>
@@ -128,7 +128,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG?v=1619667279937" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG 2x" style="max-width: unset;" title="韓庚飾演關羽" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG?v=1619667279937" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/f5226ed436cd9747f8e2c8c2c21c5525.JPG 2x" style="max-width: unset;" title="韓庚飾演關羽" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 韓庚飾演關羽</figure>
 </li>
@@ -143,7 +143,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG?v=1619667664348" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG 2x" style="max-width: unset;" title="古力娜札飾演貂蟬" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG?v=1619667664348" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/183bad8d17ea0a11ef096e9f0c1c1gt5.JPG 2x" style="max-width: unset;" title="古力娜札飾演貂蟬" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 古力娜札飾演貂蟬</figure>
 </li>
@@ -152,7 +152,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG?v=1619667352001" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG 2x" style="max-width: unset;" title="古天樂飾演呂布" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG?v=1619667352001" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/ba51bc842e5730d67c79f441471c54z5.JPG 2x" style="max-width: unset;" title="古天樂飾演呂布" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 古天樂飾演呂布</figure>
 </li>
@@ -161,13 +161,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
  </div>
 <div>
-　　完全的電影原創角色 —— 劉嘉玲飾演的鑄劍堡主則是為了交代片中關於「無雙武器」的設定而存在的神仙教母，她會將用特殊礦石「飲血石」打造而成的武器贈送給無雙英雄，飲血石武器殺人越多就越強，巧妙呼應了遊戲原作中「千人斬」的設定。</div>
+　　完全的電影原創角色 —— 劉嘉玲飾演的鑄劍堡主則是為了交代片中關於「無雙武器」的設定而存在的神仙教母型角色，她會將用特殊礦石「飲血石」打造而成的武器贈送給無雙英雄，飲血石武器殺人越多就越強，巧妙呼應了遊戲原作中「千人斬」的設定。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG?v=1619667369430" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG 2x" style="max-width: unset;" title="劉嘉玲飾演鑄劍堡主" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG?v=1619667369430" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/2930e7af03bb1abed7fa370b2f1c5505.JPG 2x" style="max-width: unset;" title="劉嘉玲飾演鑄劍堡主" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 劉嘉玲飾演鑄劍堡主</figure>
 </li>
@@ -180,24 +180,26 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/24/a363b9c311077fa416b1ea96c21c9205.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》電影於紐西蘭實地取景，在當地動用超過千位群眾演員及馬匹拍攝大型戰爭場面以及多場動作戲，雖然看起來不太像中國山水，但遠景空拍呈現在畫面上還是頗有氣勢。特別推薦一看的部分還有片中<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%91%82%E5%B8%83%E8%88%87%E8%B2%82%E8%9F%AC" target="_blank">呂布與貂蟬</a>「英雄會美人」的場景，在<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0" target="_blank">冰天雪地</a>的紐西蘭美景之中，俊男美女站在水中一往情深，講出的台詞卻讓全場觀眾爆笑出聲，有機會觀看的話一定不能錯過。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》電影於紐西蘭實地取景，在當地動用超過千位群眾演員及馬匹拍攝大型戰爭場面以及多場動作戲，雖然看起來不太像中國山水，但遠景空拍呈現在畫面上還是頗有氣勢。特別推薦一看的部分還有片中<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%91%82%E5%B8%83%E8%88%87%E8%B2%82%E8%9F%AC" target="_blank">呂布與貂蟬</a>「英雄會美人」的場景，在冰天雪地的紐西蘭美景之中，俊男美女站在水中一往情深，講出的台詞卻讓全場觀眾爆笑出聲，有機會觀看的話一定不能錯過。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG?v=1619668586168" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG?v=1619668586168" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/fd013ac489c68d667dd76196961c67q5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG?v=1619668586168" data-srcset="https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG?v=1619668586168" data-srcset="https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/39/ddd9ae51d984ca8ff45c17cf5c1c67n5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　整體而言，筆者個人認為本片堪稱一部「吐槽神片」，如果是想看正統的三國電影一定會氣到吐血，但是相信大家進場看《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》應該不是在期待什麼嚴謹的劇情，片中真人演出的尷尬感跟不合理之處反而成為讓人笑到岔氣的娛樂效果。本片作為《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》20 週年紀念作品，同時也是首度改編登上大銀幕，在心態正確的前提下頗有一看的價值，也期待能夠推出續集讓更多這次沒露臉的無雙武將大展身手。</div>
+　　整體而言，筆者個人認為本片堪稱一部「吐槽神片」，如果是想看正統的三國電影一定會氣到吐血，但是相信大家進場看《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》應該不是期待什麼嚴謹的劇情，片中真人演出的尷尬感跟不合理之處反而成為讓人笑到岔氣的娛樂效果。本片作為《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9C%9F%E2%80%A7%E4%B8%89%E5%9C%8B%E7%84%A1%E9%9B%99" target="_blank">真‧三國無雙</a>》20 週年紀念作品，同時也是首度改編登上大銀幕，在心態正確的前提下頗有一看的價值，也期待能夠推出續集讓更多這次沒露臉的無雙武將大展身手。</div>
 </div>
 <div>
  </div>
+<div>
+<span style="color:#b22222;">※ 文中劇照由双喜電影提供。</span></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
