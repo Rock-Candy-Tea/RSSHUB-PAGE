@@ -5,29 +5,28 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/9c5c4b05b4204ed4be1bf22688ad3731.png'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png'
 author: Dockone
 comments: false
-date: 2021-04-28 12:10:54
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/9c5c4b05b4204ed4be1bf22688ad3731.png'
+date: 2021-04-29 00:26:08
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/9c5c4b05b4204ed4be1bf22688ad3731.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | 洛夜<br>
 来源 | <a href="https://mp.weixin.qq.com/s/D_rTQO0hiLduPvqO3T9THA">阿里巴巴云原生公众号</a><br>
 <br><strong>Spring Cloud Stream</strong>在 Spring Cloud 体系内用于构建高度可扩展的基于事件驱动的微服务，其目的是为了简化消息在 Spring Cloud 应用程序中的开发。<br>
 <br>Spring Cloud Stream (后面以 SCS 代替 Spring Cloud Stream) 本身内容很多，而且它还有很多外部的依赖，想要熟悉 SCS，必须要先了解 Spring Messaging 和 Spring Integration 这两个项目，接下来，文章将围绕以下三点进行展开：<br>
 <ul><li>什么是 Spring Messaging</li><li>什么是 Spring Integration</li><li>什么是 SCS 体系及其原理</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/ae062a3cef02de353eee36519b78b341.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>本文配套可交互教程已登录阿里云知行动手实验室，PC 端登录 <a href="https://start.aliyun.com/">_start.aliyun.com_</a>_ _在浏览器中立即体验。<br>
 <br><h1>Spring Messaging</h1>Spring Messaging 是 Spring Framework 中的一个模块，其作用就是统一消息的编程模型。<br>
 <ul><li>比如消息 Messaging 对应的模型就包括一个消息体 Payload 和消息头 Header：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/42e39bf17c86e16cdd1678eaeb5ed0c4.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/42e39bf17c86e16cdd1678eaeb5ed0c4.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/42e39bf17c86e16cdd1678eaeb5ed0c4.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/42e39bf17c86e16cdd1678eaeb5ed0c4.png" class="img-polaroid" title="2.png" alt="2.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><code class="prettyprint">package org.springframework.messaging;<br>
@@ -37,7 +36,7 @@ public interface Message&lt;T> &#123;<br>
 &#125;</code><br>
 <ul><li>消息通道 MessageChannel 用于接收消息，调用send方法可以将消息发送至该消息通道中：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/51adf61ea01ebbcf1be883640d608f58.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/51adf61ea01ebbcf1be883640d608f58.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/51adf61ea01ebbcf1be883640d608f58.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/51adf61ea01ebbcf1be883640d608f58.png" class="img-polaroid" title="3.png" alt="3.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>```<br>
@@ -65,22 +64,22 @@ public interface MessageHandler &#123;<br>
 <br>它提出了不少新的概念，包括消息路由MessageRoute、消息分发MessageDispatcher、消息过滤Filter、消息转换Transformer、消息聚合Aggregator、消息分割Splitter等等。同时还提供了MessageChannel和MessageHandler的实现，分别包括 DirectChannel、ExecutorChannel、PublishSubscribeChannel和MessageFilter、ServiceActivatingHandler、MethodInvokingSplitter 等内容。<br>
 <br><h4>这里为大家介绍几种消息的处理方式：</h4><ul><li>消息的分割：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/7159d7dbaa6084dfeaf7b3a4cb837209.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/7159d7dbaa6084dfeaf7b3a4cb837209.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/7159d7dbaa6084dfeaf7b3a4cb837209.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/7159d7dbaa6084dfeaf7b3a4cb837209.png" class="img-polaroid" title="4.png" alt="4.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li>消息的聚合：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/08fce38074d9a211dd961456b0c638c5.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/08fce38074d9a211dd961456b0c638c5.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/08fce38074d9a211dd961456b0c638c5.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/08fce38074d9a211dd961456b0c638c5.png" class="img-polaroid" title="5.png" alt="5.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li>消息的过滤：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/13ed55be433160b678ca6eca9f2bc01c.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/13ed55be433160b678ca6eca9f2bc01c.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/13ed55be433160b678ca6eca9f2bc01c.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/13ed55be433160b678ca6eca9f2bc01c.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <ul><li>消息的分发：</li></ul><br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/2fc1b02152591185cd0fcac315d7444d.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/2fc1b02152591185cd0fcac315d7444d.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/2fc1b02152591185cd0fcac315d7444d.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/2fc1b02152591185cd0fcac315d7444d.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h4>接下来，我们以一个最简单的例子来尝试一下 Spring Integration。</h4>这段代码解释为：<br>
@@ -123,7 +122,7 @@ messageChannel.send(MessageBuilder.withPayload("msg from alibaba").build());<br>
 <br><h1>Spring Cloud Stream</h1><h4>SCS 与各模块之间的关系是：</h4><ul><li>SCS 在 Spring Integration 的基础上进行了封装，提出了Binder, Binding, @EnableBinding, @StreamListener等概念。</li><li>SCS 与 Spring Boot Actuator 整合，提供了/bindings, /channelsendpoint。</li><li>SCS 与 Spring Boot Externalized Configuration 整合，提供了BindingProperties, BinderProperties等外部化配置类。</li><li>SCS 增强了消息发送失败的和消费失败情况下的处理逻辑等功能。</li><li>SCS 是 Spring Integration 的加强，同时与 Spring Boot 体系进行了融合，也是 Spring Cloud Bus 的基础。它屏蔽了底层消息中间件的实现细节，希望以统一的一套 API 来进行消息的发送/消费，底层消息中间件的实现细节由各消息中间件的 Binder 完成。</li></ul><br>
 <br>Binder是提供与外部消息中间件集成的组件，为构造Binding提供了 2 个方法，分别是bindConsumer和bindProducer，它们分别用于构造生产者和消费者。目前官方的实现有 Rabbit Binder 和 Kafka Binder， Spring Cloud Alibaba 内部已经实现了 RocketMQ Binder。<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/bb470e9aa908f9fb5c2ae9cf55de9382.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/bb470e9aa908f9fb5c2ae9cf55de9382.png" class="img-polaroid" title="8.png" alt="8.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/bb470e9aa908f9fb5c2ae9cf55de9382.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/bb470e9aa908f9fb5c2ae9cf55de9382.png" class="img-polaroid" title="8.png" alt="8.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>从图中可以看出，Binding是连接应用程序跟消息中间件的桥梁，用于消息的消费和生产。我们来看一个最简单的使用 RocketMQ Binder 的例子，然后分析一下它的底层处理原理：<br>
@@ -189,7 +188,7 @@ spring.cloud.stream.bindings.input.group=test-group1<br>
 <ul><li>不同的消息中间件对应的AbstractMessageChannelBinder#createConsumerEndpoint方法会使用 Consumer 订阅消息，订阅到消息后内部会把中间件对应的 Message 模型转换成 Spring Message。</li><li>消息转换之后会把 Spring Message 发送至 name 为 input 的消息通道中。</li><li>@StreamListener对应的StreamListenerMessageHandler订阅了 name 为 input 的消息通道，进行了消息的消费。</li></ul></li></ol><br>
 <br>这个过程文字描述有点啰嗦，用一张图总结一下(黄色部分涉及到各消息中间件的 Binder 实现以及 MQ 基本的订阅发布功能)：<br>
 <br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/3b7ef5b22b1072e30c73cbe23f81af1d.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/3b7ef5b22b1072e30c73cbe23f81af1d.png" class="img-polaroid" title="9.png" alt="9.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/3b7ef5b22b1072e30c73cbe23f81af1d.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/3b7ef5b22b1072e30c73cbe23f81af1d.png" class="img-polaroid" title="9.png" alt="9.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br><h4>SCS 章节的最后，我们来看一段 SCS 关于消息的处理方式的一段代码：</h4>```<br>
@@ -214,7 +213,7 @@ public void receiveHeaderAndMsg(@Header("index") String index, Message msg) &#12
 <br>Spring Messaging 中对于参数和返回值的处理类之前也提到过，分别是org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolver、org.springframework.messaging.handler.invocation.HandlerMethodReturnValueHandler。<br>
 <br>它们的类名一模一样，甚至内部的方法名也一样。<br>
 <br><h1>总结</h1><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20210428/ddf3c21d6f3daff19b940f8306317e9a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="http://dockone.io/uploads/article/20210428/ddf3c21d6f3daff19b940f8306317e9a.png" class="img-polaroid" title="10.png" alt="10.png" referrerpolicy="no-referrer"></a>
+<a href="http://dockone.io/uploads/article/20210428/ddf3c21d6f3daff19b940f8306317e9a.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210428/ddf3c21d6f3daff19b940f8306317e9a.png" class="img-polaroid" title="10.png" alt="10.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
 <br>上图是 SCS 体系相关类说明的总结，关于 SCS 以及 RocketMQ Binder 更多相关的示例，可以参考 <a href="https://github.com/fangjian0423/rocketmq-binder-demo">RocketMQ Binder Demos</a>，包含了消息的聚合、分割、过滤；消息异常处理；消息标签、SQL 过滤；同步、异步消费等等。
