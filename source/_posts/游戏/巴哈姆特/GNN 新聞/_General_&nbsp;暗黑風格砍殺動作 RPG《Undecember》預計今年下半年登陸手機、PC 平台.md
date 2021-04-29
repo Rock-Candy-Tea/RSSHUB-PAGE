@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/06/358c4f3324a4fb21b7609386f31c99u5.JPG?v=1619681594766'
 author: 巴哈姆特
 comments: false
-date: 2021-04-29 08:03:04
+date: 2021-04-29 12:05:34
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/358c4f3324a4fb21b7609386f31c99u5.JPG?v=1619681594766'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/358c4f3324a4fb21b7609386f31c99u5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　LINE Games 於今日舉辦的產品發表會「LINE-Games-Play-Game 2021（LPG 2021）」中公開了由Needs Games 所打造的砍殺動作類型 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Undecember" target="_blank">Undecember</a>》，預計 2021 下半年在智慧型手機與 PC 平台推出。</div>
+　　LINE Games 於今日舉辦的產品發表會「LINE-Games-Play-Game 2021（LPG 2021）」中揭露了由Needs Games 所打造的砍殺動作類型 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Undecember" target="_blank">Undecember</a>》，預計 2021 下半年在智慧型手機與 PC 平台推出。</div>
 <div>
  </div>
 <div>
