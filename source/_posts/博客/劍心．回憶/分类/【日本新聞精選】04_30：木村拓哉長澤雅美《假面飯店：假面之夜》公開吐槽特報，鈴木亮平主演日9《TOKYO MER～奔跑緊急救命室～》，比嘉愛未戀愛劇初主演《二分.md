@@ -1,0 +1,138 @@
+
+---
+title: '【日本新聞精選】04_30：木村拓哉長澤雅美《假面飯店：假面之夜》公開吐槽特報，鈴木亮平主演日9《TOKYO MER～奔跑緊急救命室～》，比嘉愛未戀愛劇初主演《二分...'
+categories: 
+ - 博客
+ - 劍心．回憶
+ - 分类
+headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/20210430-0.jpg'
+author: 劍心．回憶
+comments: false
+date: Fri, 30 Apr 2021 17:57:24 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/20210430-0.jpg'
+---
+
+<div>   
+<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/20210430-0.jpg" referrerpolicy="no-referrer"></p>
+<p>【日影】木村拓哉長澤雅美《假面飯店：假面之夜》公開特報齊吐槽「又來了」 (片)<br>
+【日劇】鈴木亮平主演日9《TOKYO MER～奔跑緊急救命室～》超級醫生趕赴災場救人<br>
+【日劇】比嘉愛未戀愛劇初主演《二分之一夫婦》溫柔妻子懷疑丈夫出軌<br>
+【日藝】內田理央事隔5年推出新寫真集以最強女友形象作20代最後性感<br>
+【寫真】Enako伊織萌篠崎心三大Cosplay女神豪華共演展示夢幻性感 (42P,片)<br>
+【社會】中國外交部公然以日本文化諷刺日本 外務省抗議要求刪文 (片) </p>
+<p>【日藝】56歲近藤真彥在不倫醜聞自肅中離開傑尼斯結束44年合作關係<br>
+【日劇】觀月亞里莎參演《戀愛漫畫家》當吉岡里帆的古怪寡婦姊姊<br>
+【日劇】大政絢主演《一個人也能喝》桐山漣大友花戀谷村美月參演<br>
+【日影】芳根京子《Arc》公開正式預告不老不死帶來社會分裂及無盡苦惱 (片)<br>
+【日影】《孤狼之血 LEVEL2》網絡限定新影像松坂桃李心狠手辣對抗黑道 (片)<br>
+【日劇】青木崇高主演《邪神的天秤 公安分析班》當公安挑戰獵奇殺人事件<br>
+【寫真】十味進軍偶像界當寫真女優偶像團CENTER帶來性感與音樂組合 (42P,片)<br>
+【收視】《深深地戀愛》《櫻之塔》繼續沉下去《戀愛漫畫家》從地獄反彈<br>
+【CM】深田恭子率領各有特色5美華麗登場何謂美麗在賣什麼你想不到 (片)<br>
+【CM】竹野內豐作出冰淇淋的人生決斷太投入讓便利店門外美女見笑 (片)</p>
+<p>【趣聞】兇狠柴犬咬樹枝咬手指卻被主人的秘密武器瞬間凍結 (片)<br>
+【社會】一風堂疫情中送暖！派餐車到東京社區為孩子帶來拉麵及笑容 (片)<br>
+【交通】黃金週假期首天新幹線再次冷清月台只有零星旅客乘車率低至5% (片)<br>
+【景點】京都新綠風景夢幻登場在渡月橋附近的「嵐山祐齋亭」 (片)<br>
+【景點】北海道松前櫻花祭典現場250種約1萬棵在3星期間逐步盛放 (片)</p>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e6%9c%a8%e6%9d%91%e6%8b%93%e5%93%89%e9%95%b7%e6%be%a4%e9%9b%85%e7%be%8e%e3%80%8a%e5%81%87%e9%9d%a2%e9%a3%af%e5%ba%97%ef%bc%9a%e5%81%87%e9%9d%a2%e4%b9%8b%e5%a4%9c/" title="【日影】木村拓哉長澤雅美《假面飯店：假面之夜》公開特報齊吐槽「又來了」 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-5.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日影】木村拓哉長澤雅美《假面飯店：假面之夜》公開特報齊吐槽「又來了」 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e6%9c%a8%e6%9d%91%e6%8b%93%e5%93%89%e9%95%b7%e6%be%a4%e9%9b%85%e7%be%8e%e3%80%8a%e5%81%87%e9%9d%a2%e9%a3%af%e5%ba%97%ef%bc%9a%e5%81%87%e9%9d%a2%e4%b9%8b%e5%a4%9c/" title="【日影】木村拓哉長澤雅美《假面飯店：假面之夜》公開特報齊吐槽「又來了」 (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e9%88%b4%e6%9c%a8%e4%ba%ae%e5%b9%b3%e4%b8%bb%e6%bc%94%e6%97%a59%e3%80%8atokyo-mer%ef%bd%9e%e5%a5%94%e8%b7%91%e7%b7%8a%e6%80%a5%e6%95%91%e5%91%bd%e5%ae%a4%ef%bd%9e/" title="【日劇】鈴木亮平主演日9《TOKYO MER～奔跑緊急救命室～》超級醫生趕赴災場救人" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-1.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日劇】鈴木亮平主演日9《TOKYO MER～奔跑緊急救命室～》超級醫生趕赴災場救人</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e9%88%b4%e6%9c%a8%e4%ba%ae%e5%b9%b3%e4%b8%bb%e6%bc%94%e6%97%a59%e3%80%8atokyo-mer%ef%bd%9e%e5%a5%94%e8%b7%91%e7%b7%8a%e6%80%a5%e6%95%91%e5%91%bd%e5%ae%a4%ef%bd%9e/" title="【日劇】鈴木亮平主演日9《TOKYO MER～奔跑緊急救命室～》超級醫生趕赴災場救人" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e6%af%94%e5%98%89%e6%84%9b%e6%9c%aa%e6%88%80%e6%84%9b%e5%8a%87%e5%88%9d%e4%b8%bb%e6%bc%94%e3%80%8a%e4%ba%8c%e5%88%86%e4%b9%8b%e4%b8%80%e5%a4%ab%e5%a9%a6%e3%80%8b/" title="【日劇】比嘉愛未戀愛劇初主演《二分之一夫婦》溫柔妻子懷疑丈夫出軌" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-7.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日劇】比嘉愛未戀愛劇初主演《二分之一夫婦》溫柔妻子懷疑丈夫出軌</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e6%af%94%e5%98%89%e6%84%9b%e6%9c%aa%e6%88%80%e6%84%9b%e5%8a%87%e5%88%9d%e4%b8%bb%e6%bc%94%e3%80%8a%e4%ba%8c%e5%88%86%e4%b9%8b%e4%b8%80%e5%a4%ab%e5%a9%a6%e3%80%8b/" title="【日劇】比嘉愛未戀愛劇初主演《二分之一夫婦》溫柔妻子懷疑丈夫出軌" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%91%e5%85%a7%e7%94%b0%e7%90%86%e5%a4%ae%e4%ba%8b%e9%9a%945%e5%b9%b4%e6%8e%a8%e5%87%ba%e6%96%b0%e5%af%ab%e7%9c%9f%e9%9b%86%e4%bb%a5%e6%9c%80%e5%bc%b7%e5%a5%b3%e5%8f%8b/" title="【日藝】內田理央事隔5年推出新寫真集以最強女友形象作20代最後性感" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-9.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日藝】內田理央事隔5年推出新寫真集以最強女友形象作20代最後性感</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%91%e5%85%a7%e7%94%b0%e7%90%86%e5%a4%ae%e4%ba%8b%e9%9a%945%e5%b9%b4%e6%8e%a8%e5%87%ba%e6%96%b0%e5%af%ab%e7%9c%9f%e9%9b%86%e4%bb%a5%e6%9c%80%e5%bc%b7%e5%a5%b3%e5%8f%8b/" title="【日藝】內田理央事隔5年推出新寫真集以最強女友形象作20代最後性感" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e5%af%ab%e7%9c%9f%e3%80%91enako%e4%bc%8a%e7%b9%94%e8%90%8c%e7%af%a0%e5%b4%8e%e5%bf%83%e4%b8%89%e5%a4%a7cosplay%e5%a5%b3%e7%a5%9e%e8%b1%aa%e8%8f%af%e5%85%b1%e6%bc%94%e5%b1%95%e7%a4%ba/" title="【寫真】Enako伊織萌篠崎心三大Cosplay女神豪華共演展示夢幻性感 (42P,片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/enako/s-enako.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【寫真】Enako伊織萌篠崎心三大Cosplay女神豪華共演展示夢幻性感 (42P,片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e5%af%ab%e7%9c%9f%e3%80%91enako%e4%bc%8a%e7%b9%94%e8%90%8c%e7%af%a0%e5%b4%8e%e5%bf%83%e4%b8%89%e5%a4%a7cosplay%e5%a5%b3%e7%a5%9e%e8%b1%aa%e8%8f%af%e5%85%b1%e6%bc%94%e5%b1%95%e7%a4%ba/" title="【寫真】Enako伊織萌篠崎心三大Cosplay女神豪華共演展示夢幻性感 (42P,片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e5%af%ab%e7%9c%9f%e3%80%91%e5%8d%81%e5%91%b3%e9%80%b2%e8%bb%8d%e5%81%b6%e5%83%8f%e7%95%8c%e7%95%b6%e5%af%ab%e7%9c%9f%e5%a5%b3%e5%84%aa%e5%81%b6%e5%83%8f%e5%9c%98center%e5%b8%b6%e4%be%86/" title="【寫真】十味進軍偶像界當寫真女優偶像團CENTER帶來性感與音樂組合 (42P,片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/toumi/s-toumi.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【寫真】十味進軍偶像界當寫真女優偶像團CENTER帶來性感與音樂組合 (42P,片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e5%af%ab%e7%9c%9f%e3%80%91%e5%8d%81%e5%91%b3%e9%80%b2%e8%bb%8d%e5%81%b6%e5%83%8f%e7%95%8c%e7%95%b6%e5%af%ab%e7%9c%9f%e5%a5%b3%e5%84%aa%e5%81%b6%e5%83%8f%e5%9c%98center%e5%b8%b6%e4%be%86/" title="【寫真】十味進軍偶像界當寫真女優偶像團CENTER帶來性感與音樂組合 (42P,片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e4%b8%ad%e5%9c%8b%e5%a4%96%e4%ba%a4%e9%83%a8%e5%85%ac%e7%84%b6%e4%bb%a5%e6%97%a5%e6%9c%ac%e6%96%87%e5%8c%96%e8%ab%b7%e5%88%ba%e6%97%a5%e6%9c%ac-%e5%a4%96%e5%8b%99/" title="【社會】中國外交部公然以日本文化諷刺日本 外務省抗議要求刪文 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t1.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【社會】中國外交部公然以日本文化諷刺日本 外務省抗議要求刪文 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e4%b8%ad%e5%9c%8b%e5%a4%96%e4%ba%a4%e9%83%a8%e5%85%ac%e7%84%b6%e4%bb%a5%e6%97%a5%e6%9c%ac%e6%96%87%e5%8c%96%e8%ab%b7%e5%88%ba%e6%97%a5%e6%9c%ac-%e5%a4%96%e5%8b%99/" title="【社會】中國外交部公然以日本文化諷刺日本 外務省抗議要求刪文 (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%9156%e6%ad%b2%e8%bf%91%e8%97%a4%e7%9c%9f%e5%bd%a5%e5%9c%a8%e4%b8%8d%e5%80%ab%e9%86%9c%e8%81%9e%e8%87%aa%e8%82%85%e4%b8%ad%e9%9b%a2%e9%96%8b%e5%82%91%e5%b0%bc%e6%96%af/" title="【日藝】56歲近藤真彥在不倫醜聞自肅中離開傑尼斯結束44年合作關係" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-10.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日藝】56歲近藤真彥在不倫醜聞自肅中離開傑尼斯結束44年合作關係</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%9156%e6%ad%b2%e8%bf%91%e8%97%a4%e7%9c%9f%e5%bd%a5%e5%9c%a8%e4%b8%8d%e5%80%ab%e9%86%9c%e8%81%9e%e8%87%aa%e8%82%85%e4%b8%ad%e9%9b%a2%e9%96%8b%e5%82%91%e5%b0%bc%e6%96%af/" title="【日藝】56歲近藤真彥在不倫醜聞自肅中離開傑尼斯結束44年合作關係" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e8%a7%80%e6%9c%88%e4%ba%9e%e9%87%8c%e8%8e%8e%e5%8f%83%e6%bc%94%e3%80%8a%e6%88%80%e6%84%9b%e6%bc%ab%e7%95%ab%e5%ae%b6%e3%80%8b%e7%95%b6%e5%90%89%e5%b2%a1%e9%87%8c/" title="【日劇】觀月亞里莎參演《戀愛漫畫家》當吉岡里帆的古怪寡婦姊姊" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-8.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日劇】觀月亞里莎參演《戀愛漫畫家》當吉岡里帆的古怪寡婦姊姊</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e8%a7%80%e6%9c%88%e4%ba%9e%e9%87%8c%e8%8e%8e%e5%8f%83%e6%bc%94%e3%80%8a%e6%88%80%e6%84%9b%e6%bc%ab%e7%95%ab%e5%ae%b6%e3%80%8b%e7%95%b6%e5%90%89%e5%b2%a1%e9%87%8c/" title="【日劇】觀月亞里莎參演《戀愛漫畫家》當吉岡里帆的古怪寡婦姊姊" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e5%a4%a7%e6%94%bf%e7%b5%a2%e4%b8%bb%e6%bc%94%e3%80%8a%e4%b8%80%e5%80%8b%e4%ba%ba%e4%b9%9f%e8%83%bd%e5%96%9d%e3%80%8b%e6%a1%90%e5%b1%b1%e6%bc%a3%e5%a4%a7%e5%8f%8b/" title="【日劇】大政絢主演《一個人也能喝》桐山漣大友花戀谷村美月參演" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-6.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日劇】大政絢主演《一個人也能喝》桐山漣大友花戀谷村美月參演</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e5%a4%a7%e6%94%bf%e7%b5%a2%e4%b8%bb%e6%bc%94%e3%80%8a%e4%b8%80%e5%80%8b%e4%ba%ba%e4%b9%9f%e8%83%bd%e5%96%9d%e3%80%8b%e6%a1%90%e5%b1%b1%e6%bc%a3%e5%a4%a7%e5%8f%8b/" title="【日劇】大政絢主演《一個人也能喝》桐山漣大友花戀谷村美月參演" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e8%8a%b3%e6%a0%b9%e4%ba%ac%e5%ad%90%e3%80%8aarc%e3%80%8b%e5%85%ac%e9%96%8b%e6%ad%a3%e5%bc%8f%e9%a0%90%e5%91%8a%e4%b8%8d%e8%80%81%e4%b8%8d%e6%ad%bb%e5%b8%b6/" title="【日影】芳根京子《Arc》公開正式預告不老不死帶來社會分裂及無盡苦惱 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-4.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日影】芳根京子《Arc》公開正式預告不老不死帶來社會分裂及無盡苦惱 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e8%8a%b3%e6%a0%b9%e4%ba%ac%e5%ad%90%e3%80%8aarc%e3%80%8b%e5%85%ac%e9%96%8b%e6%ad%a3%e5%bc%8f%e9%a0%90%e5%91%8a%e4%b8%8d%e8%80%81%e4%b8%8d%e6%ad%bb%e5%b8%b6/" title="【日影】芳根京子《Arc》公開正式預告不老不死帶來社會分裂及無盡苦惱 (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e3%80%8a%e5%ad%a4%e7%8b%bc%e4%b9%8b%e8%a1%80-level2%e3%80%8b%e7%b6%b2%e7%b5%a1%e9%99%90%e5%ae%9a%e6%96%b0%e5%bd%b1%e5%83%8f%e6%9d%be%e5%9d%82%e6%a1%83%e6%9d%8e/" title="【日影】《孤狼之血 LEVEL2》網絡限定新影像松坂桃李心狠手辣對抗黑道 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-3.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日影】《孤狼之血 LEVEL2》網絡限定新影像松坂桃李心狠手辣對抗黑道 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%bd%b1%e3%80%91%e3%80%8a%e5%ad%a4%e7%8b%bc%e4%b9%8b%e8%a1%80-level2%e3%80%8b%e7%b6%b2%e7%b5%a1%e9%99%90%e5%ae%9a%e6%96%b0%e5%bd%b1%e5%83%8f%e6%9d%be%e5%9d%82%e6%a1%83%e6%9d%8e/" title="【日影】《孤狼之血 LEVEL2》網絡限定新影像松坂桃李心狠手辣對抗黑道 (片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e9%9d%92%e6%9c%a8%e5%b4%87%e9%ab%98%e4%b8%bb%e6%bc%94%e3%80%8a%e9%82%aa%e7%a5%9e%e7%9a%84%e5%a4%a9%e7%a7%a4-%e5%85%ac%e5%ae%89%e5%88%86%e6%9e%90%e7%8f%ad%e3%80%8b/" title="【日劇】青木崇高主演《邪神的天秤 公安分析班》當公安挑戰獵奇殺人事件" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-2.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【日劇】青木崇高主演《邪神的天秤 公安分析班》當公安挑戰獵奇殺人事件</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%97%a5%e5%8a%87%e3%80%91%e9%9d%92%e6%9c%a8%e5%b4%87%e9%ab%98%e4%b8%bb%e6%bc%94%e3%80%8a%e9%82%aa%e7%a5%9e%e7%9a%84%e5%a4%a9%e7%a7%a4-%e5%85%ac%e5%ae%89%e5%88%86%e6%9e%90%e7%8f%ad%e3%80%8b/" title="【日劇】青木崇高主演《邪神的天秤 公安分析班》當公安挑戰獵奇殺人事件" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%94%b6%e8%a6%96%e3%80%91%e3%80%8a%e6%b7%b1%e6%b7%b1%e5%9c%b0%e6%88%80%e6%84%9b%e3%80%8b%e3%80%8a%e6%ab%bb%e4%b9%8b%e5%a1%94%e3%80%8b%e7%b9%bc%e7%ba%8c%e6%b2%89%e4%b8%8b%e5%8e%bb%e3%80%8a/" title="【收視】《深深地戀愛》《櫻之塔》繼續沉下去《戀愛漫畫家》從地獄反彈" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-deep.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【收視】《深深地戀愛》《櫻之塔》繼續沉下去《戀愛漫畫家》從地獄反彈</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e6%94%b6%e8%a6%96%e3%80%91%e3%80%8a%e6%b7%b1%e6%b7%b1%e5%9c%b0%e6%88%80%e6%84%9b%e3%80%8b%e3%80%8a%e6%ab%bb%e4%b9%8b%e5%a1%94%e3%80%8b%e7%b9%bc%e7%ba%8c%e6%b2%89%e4%b8%8b%e5%8e%bb%e3%80%8a/" title="【收視】《深深地戀愛》《櫻之塔》繼續沉下去《戀愛漫畫家》從地獄反彈" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90cm%e3%80%91%e6%b7%b1%e7%94%b0%e6%81%ad%e5%ad%90%e7%8e%87%e9%a0%98%e5%90%84%e6%9c%89%e7%89%b9%e8%89%b25%e7%be%8e%e8%8f%af%e9%ba%97%e7%99%bb%e5%a0%b4%e4%bd%95%e8%ac%82%e7%be%8e%e9%ba%97/" title="【CM】深田恭子率領各有特色5美華麗登場何謂美麗在賣什麼你想不到 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210429-cm.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【CM】深田恭子率領各有特色5美華麗登場何謂美麗在賣什麼你想不到 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90cm%e3%80%91%e6%b7%b1%e7%94%b0%e6%81%ad%e5%ad%90%e7%8e%87%e9%a0%98%e5%90%84%e6%9c%89%e7%89%b9%e8%89%b25%e7%be%8e%e8%8f%af%e9%ba%97%e7%99%bb%e5%a0%b4%e4%bd%95%e8%ac%82%e7%be%8e%e9%ba%97/" title="【CM】深田恭子率領各有特色5美華麗登場何謂美麗在賣什麼你想不到 (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/29/%e3%80%90cm%e3%80%91%e7%ab%b9%e9%87%8e%e5%85%a7%e8%b1%90%e4%bd%9c%e5%87%ba%e5%86%b0%e6%b7%87%e6%b7%8b%e7%9a%84%e4%ba%ba%e7%94%9f%e6%b1%ba%e6%96%b7%e5%a4%aa%e6%8a%95%e5%85%a5%e8%ae%93%e4%be%bf%e5%88%a9/" title="【CM】竹野內豐作出冰淇淋的人生決斷太投入讓便利店門外美女見笑 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210428-cm.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【CM】竹野內豐作出冰淇淋的人生決斷太投入讓便利店門外美女見笑 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/29/%e3%80%90cm%e3%80%91%e7%ab%b9%e9%87%8e%e5%85%a7%e8%b1%90%e4%bd%9c%e5%87%ba%e5%86%b0%e6%b7%87%e6%b7%8b%e7%9a%84%e4%ba%ba%e7%94%9f%e6%b1%ba%e6%96%b7%e5%a4%aa%e6%8a%95%e5%85%a5%e8%ae%93%e4%be%bf%e5%88%a9/" title="【CM】竹野內豐作出冰淇淋的人生決斷太投入讓便利店門外美女見笑 (片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e8%b6%a3%e8%81%9e%e3%80%91%e5%85%87%e7%8b%a0%e6%9f%b4%e7%8a%ac%e5%92%ac%e6%a8%b9%e6%9e%9d%e5%92%ac%e6%89%8b%e6%8c%87%e5%8d%bb%e8%a2%ab%e4%b8%bb%e4%ba%ba%e7%9a%84%e7%a7%98%e5%af%86%e6%ad%a6/" title="【趣聞】兇狠柴犬咬樹枝咬手指卻被主人的秘密武器瞬間凍結 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t3.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【趣聞】兇狠柴犬咬樹枝咬手指卻被主人的秘密武器瞬間凍結 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e8%b6%a3%e8%81%9e%e3%80%91%e5%85%87%e7%8b%a0%e6%9f%b4%e7%8a%ac%e5%92%ac%e6%a8%b9%e6%9e%9d%e5%92%ac%e6%89%8b%e6%8c%87%e5%8d%bb%e8%a2%ab%e4%b8%bb%e4%ba%ba%e7%9a%84%e7%a7%98%e5%af%86%e6%ad%a6/" title="【趣聞】兇狠柴犬咬樹枝咬手指卻被主人的秘密武器瞬間凍結 (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e4%b8%80%e9%a2%a8%e5%a0%82%e7%96%ab%e6%83%85%e4%b8%ad%e9%80%81%e6%9a%96%ef%bc%81%e6%b4%be%e9%a4%90%e8%bb%8a%e5%88%b0%e6%9d%b1%e4%ba%ac%e7%a4%be%e5%8d%80%e7%82%ba/" title="【社會】一風堂疫情中送暖！派餐車到東京社區為孩子帶來拉麵及笑容 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t2.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【社會】一風堂疫情中送暖！派餐車到東京社區為孩子帶來拉麵及笑容 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e4%b8%80%e9%a2%a8%e5%a0%82%e7%96%ab%e6%83%85%e4%b8%ad%e9%80%81%e6%9a%96%ef%bc%81%e6%b4%be%e9%a4%90%e8%bb%8a%e5%88%b0%e6%9d%b1%e4%ba%ac%e7%a4%be%e5%8d%80%e7%82%ba/" title="【社會】一風堂疫情中送暖！派餐車到東京社區為孩子帶來拉麵及笑容 (片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e4%ba%a4%e9%80%9a%e3%80%91%e9%bb%83%e9%87%91%e9%80%b1%e5%81%87%e6%9c%9f%e9%a6%96%e5%a4%a9%e6%96%b0%e5%b9%b9%e7%b7%9a%e5%86%8d%e6%ac%a1%e5%86%b7%e6%b8%85%e6%9c%88%e5%8f%b0%e5%8f%aa%e6%9c%89/" title="【交通】黃金週假期首天新幹線再次冷清月台只有零星旅客乘車率低至5% (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t1.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【交通】黃金週假期首天新幹線再次冷清月台只有零星旅客乘車率低至5% (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/30/%e3%80%90%e4%ba%a4%e9%80%9a%e3%80%91%e9%bb%83%e9%87%91%e9%80%b1%e5%81%87%e6%9c%9f%e9%a6%96%e5%a4%a9%e6%96%b0%e5%b9%b9%e7%b7%9a%e5%86%8d%e6%ac%a1%e5%86%b7%e6%b8%85%e6%9c%88%e5%8f%b0%e5%8f%aa%e6%9c%89/" title="【交通】黃金週假期首天新幹線再次冷清月台只有零星旅客乘車率低至5% (片)" target="_blank"></a>
+</p></div>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e6%99%af%e9%bb%9e%e3%80%91%e4%ba%ac%e9%83%bd%e6%96%b0%e7%b6%a0%e9%a2%a8%e6%99%af%e5%a4%a2%e5%b9%bb%e7%99%bb%e5%a0%b4%e5%9c%a8%e6%b8%a1%e6%9c%88%e6%a9%8b%e9%99%84%e8%bf%91%e7%9a%84%e3%80%8c/" title="【景點】京都新綠風景夢幻登場在渡月橋附近的「嵐山祐齋亭」 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t3.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【景點】京都新綠風景夢幻登場在渡月橋附近的「嵐山祐齋亭」 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e6%99%af%e9%bb%9e%e3%80%91%e4%ba%ac%e9%83%bd%e6%96%b0%e7%b6%a0%e9%a2%a8%e6%99%af%e5%a4%a2%e5%b9%bb%e7%99%bb%e5%a0%b4%e5%9c%a8%e6%b8%a1%e6%9c%88%e6%a9%8b%e9%99%84%e8%bf%91%e7%9a%84%e3%80%8c/" title="【景點】京都新綠風景夢幻登場在渡月橋附近的「嵐山祐齋亭」 (片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+<div class="news-2column-card"><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e6%99%af%e9%bb%9e%e3%80%91%e5%8c%97%e6%b5%b7%e9%81%93%e6%9d%be%e5%89%8d%e6%ab%bb%e8%8a%b1%e7%a5%ad%e5%85%b8%e7%8f%be%e5%a0%b4250%e7%a8%ae%e7%b4%841%e8%90%ac%e6%a3%b5%e5%9c%a83%e6%98%9f/" title="【景點】北海道松前櫻花祭典現場250種約1萬棵在3星期間逐步盛放 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202104/s-20210430-t2.jpg" width="100%" referrerpolicy="no-referrer">
+<div class="news-list-title">【景點】北海道松前櫻花祭典現場250種約1萬棵在3星期間逐步盛放 (片)</div>
+</a><p><a href="http://kenshin.hk/2021/04/29/%e3%80%90%e6%99%af%e9%bb%9e%e3%80%91%e5%8c%97%e6%b5%b7%e9%81%93%e6%9d%be%e5%89%8d%e6%ab%bb%e8%8a%b1%e7%a5%ad%e5%85%b8%e7%8f%be%e5%a0%b4250%e7%a8%ae%e7%b4%841%e8%90%ac%e6%a3%b5%e5%9c%a83%e6%98%9f/" title="【景點】北海道松前櫻花祭典現場250種約1萬棵在3星期間逐步盛放 (片)" target="_blank"></a>
+</p></div>
+<p class="news-half-break"> </p>
+
+
+   
+</div>
+            

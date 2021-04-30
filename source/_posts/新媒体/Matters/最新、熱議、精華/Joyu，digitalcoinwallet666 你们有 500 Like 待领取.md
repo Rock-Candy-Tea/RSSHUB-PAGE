@@ -1,0 +1,18 @@
+
+---
+title: 'Joyu，digitalcoinwallet666 你们有 500 Like 待领取'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/d1334bd2-f6f9-4c2c-8dc7-2472533ceefd.png'
+author: Matters
+comments: false
+date: Fri, 30 Apr 2021 10:22:22 GMT
+thumbnail: 'https://assets.matters.news/embed/d1334bd2-f6f9-4c2c-8dc7-2472533ceefd.png'
+---
+
+<div>   
+<p><a class="mention" href="https://matters.news/@joyulin2010" target="_blank" data-display-name="Joyu" data-user-name="joyulin2010" data-id="VXNlcjo0NjEzNg">﻿<span>@Joyu</span>﻿</a> @digitalcoinwallet666 首先的首先要向两位说声抱歉，在没有征求你们同意的情况下，擅自拉你们参加了活动。<br class="smart">非常感谢你们给我的文章按赞，这 1000 Like 将由我个人送出，请联系我。</p><p>是的，现在你可以用在 LikeCoin 生态中的所有链接（url）来发起一次活动和抽奖了，</p><p>比如上面这次抽奖是给</p><p><a href="https://matters.news/@guanyun/%E8%BF%88%E5%90%91%E8%B5%9E%E8%B5%8F%E5%85%AC%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD-like-coin-%E7%AA%81%E7%A0%B4-all-time-high-%E7%BB%86%E6%95%B0%E6%9C%80%E8%BF%91%E6%BF%80%E5%8A%A8%E4%BA%BA%E5%BF%83%E7%9A%84%E8%BF%9B%E5%B1%95-bafyreief7b23u52shfd3dh5fizbccilfzv5zj5gtws723gqjtmhjxfijiu" target="_blank">『迈向赞赏公民共和国』LikeCoin 突破 All time high，细数最近激动人心的进展</a></p><p>这篇文章拍手的所有人中抽出，公示链接在<a href="https://www.superliked.live/lotteryDetail?id=jKRG5nbzSBHW4vOiN74W" target="_blank">这儿</a>。</p><hr><h2>如何发起一次抽奖呢？</h2><ul><li>请点击进入 <a href="https://www.superliked.live/" target="_blank">SuperLiked.live</a> 这个网站，然后点击登录</li></ul><p><br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/d1334bd2-f6f9-4c2c-8dc7-2472533ceefd.png" data-asset-id="d1334bd2-f6f9-4c2c-8dc7-2472533ceefd" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><ul><li><strong>之后再点击 Sign in with LikerID，会跳转到 Like.co 让你授予登录权限，点击允许即可。（superliked 只获取了用户最少量的权限，请放心）</strong></li></ul><figure class="image"><img src="https://assets.matters.news/embed/33506f40-86ad-4b33-bd51-5a28d591f9eb.png" data-asset-id="33506f40-86ad-4b33-bd51-5a28d591f9eb" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><ul><li><strong>然后点击底部的 + 号，就能进入发起活动的界面了。</strong></li></ul><figure class="image"><img src="https://assets.matters.news/embed/f6913e6a-49aa-4059-9650-6bc6511c440d.png" data-asset-id="f6913e6a-49aa-4059-9650-6bc6511c440d" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><ul><li>发起人不需要填写</li><li>标题请填写你想要的活动标题哦。</li><li>发起 URL 请填写你的文章链接，任何加了 likebutton（拍手按键） 的文章都可以发起哦。</li><li>奖品：请填写你要发出去的奖品，可以是一本书《区块链社会学》，也可以是 1000 Like，或者任何你想发出去的奖品。</li><li><strong>倒计时：试运行期间，只支持即时开奖，所以你如果想发起活动，可以先写文章告诉其他人你要发起一个活动，然后在特定的时刻来创建活动即可。定时开奖在做了：）</strong></li><li>开奖规则：这部分完全发起人自己定义，可以是第一名全得，也可以是最后一名全得。但是发起人在开奖之前只知道规则，对于开奖结果是完全不知道的。</li><li>联系信息：请填写得奖人如何联系到你的信息。</li><li><strong>最后，点击发起抽奖，就能看到自己创建的活动了。</strong></li></ul><figure class="image"><img src="https://assets.matters.news/embed/f6a79f02-fca6-4001-91c2-fcf8ab2820c8.png" data-asset-id="f6a79f02-fca6-4001-91c2-fcf8ab2820c8" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><ul><li>点击进去还能看到活动详情</li></ul><figure class="image"><img src="https://assets.matters.news/embed/bb847640-8f1d-4300-a116-72138569ba7b.png" data-asset-id="bb847640-8f1d-4300-a116-72138569ba7b" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2>抽奖规则是什么？</h2><p><strong>很简单，谁给你按了赞，谁就<u>自动进入了抽奖名单</u>，你只需要在活动结束时来创建一个活动，并且将它公示出去即可。</strong></p><h2><s>废话</s></h2><p>试运行期间，偶遇系统不稳定或者其他问题，请联系我，我会竭尽所能帮助你解决问题。</p><h2><strong><u>福利</u></strong></h2><p>本文章自发出之日起，将举行<strong> LikeCoin 六合彩</strong>活动，你为这篇文章按赞，默认自动参加了此活动。</p><p>奖品为本文章所获得所有 Like，规则为赢者全得（第一名拿走所有 Like）。截止日期在东八区时间 5月4日 18：00。</p><p><strong><s>所以请别吝啬你的按赞吧。</s></strong></p>  
+</div>
+            
