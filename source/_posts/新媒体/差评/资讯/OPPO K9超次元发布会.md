@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 差评
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2040'
+headimg: 'https://picsum.photos/400/300?random=9626'
 author: 差评
 comments: false
-date: Tue, 27 Apr 2021 10:21:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2040'
+date: Fri, 30 Apr 2021 02:09:44 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9626'
 ---
 
 <div>   
-https://live.chaping.tv/22edge/22edge.m3u8  
+https://live.chaping.tv/oppo0506/oppo0506.m3u8  
 </div>
             

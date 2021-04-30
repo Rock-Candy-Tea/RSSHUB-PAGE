@@ -133,7 +133,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/04/QCn62wLxWwroR8TCImdT.png'
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/sKgWE9X1VxJpgBQRvNFE.png" alt width="792" height="646" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"> 添加求职顾问 抢最新优惠名额</p>
 <p style="text-align: center">↓↓↓</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/CzArJH40xSczH3FuR9G4.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/R2dXEwvxACZ1mG1x8uDm.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
 <h3>>>实战项目与作品集——属于你的求职利器</h3>
 <p>学习与实战兼顾，7次大作业帮你零基础打造属于你自己的产品实战项目。课程学习过程中所输出的各项作业产物，都会经过资深导师的精细批改和指导，整理成作品集就可以成为你产品求职中的就业利器！</p>
 <p>全流程打磨市场分析报告、竞品分析文档、开展用户调查研究、建立需求池+FeatureList、规划产品功能架构、绘制流程图、设计交互原型、PRD产品需求文档，产品管理等等，入职即可快速上手，高效完成工作。</p>
@@ -150,7 +150,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/04/QCn62wLxWwroR8TCImdT.png'
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/CjUsO8Y47qmuvnGPytXI.jpg" alt width="828" height="1243" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">添加求职顾问 解锁起点专属内推福利</p>
 <p style="text-align: center">↓↓↓</p>
-<p style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/ZZDz0G9NpWA9Yr8GDrbi.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
+<p style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/tE4byHNvneBwXVNn6b0D.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
 <h2 id="toc-4">特训营如何帮你达成？</h2>
 <p>20+知名导师全程6v1指导学习。特训营配备主讲导师、作业导师、就业导师、行业专家、班主任、助教等多角色对学员进行多对一辅导，保障你的“教·练·做”。</p>
 <p>导师团均来自一线互联网大厂，他们久经打磨，专业知识过硬，同时洞察行业与市场，能带领你跟上行业趋势，学到的知识不过时。</p>
@@ -160,7 +160,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/04/QCn62wLxWwroR8TCImdT.png'
 <p style="text-align: center">想了解自己适不适合产品经理？</p>
 <p style="text-align: center">想尽快入行产品经理 ？</p>
 <p style="text-align: center">↓↓↓马上扫码咨询↓↓</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/7WRyrYuDayuVHpQEDtA7.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/qpoAZLA7Iuw9kXgB7slV.jpg" alt width="800" height="289" referrerpolicy="no-referrer"></p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/04/2eDtYRnZjmaYJUUP9LnY.gif" alt width="86" height="46" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">最后一个惊喜福利！</p>
 <p style="text-align: center">专业的“产品潜能测评”，限时10名</p>

@@ -20,9 +20,9 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5061b7e63504e72b0
 </blockquote>
 <p><a href="https://danielebaroncelli.medium.com/the-future-of-apps-declarative-uis-with-kotlin-multiplatform-d-kmp-part-1-3-c0e1530a5343" target="_blank" rel="nofollow noopener noreferrer">原文链接</a></p>
 <p>基于声明式UI，Kotlin跨平台和MVI模式，分三篇文章来讲述新的D-KMP架构。</p>
-<p><strong>第一篇：D-KMP架构和声明式UI</strong>
-第二篇：Kotlin跨平台和MVI模式
-第三篇：D-KMP的分层和团队组织</p>
+<p><strong>第一篇：D-KMP架构和声明式UI</strong></p>
+<p><a href="https://juejin.cn/post/6956511926457696293" target="_blank">第二篇：Kotlin跨平台和MVI模式</a></p>
+<p>第三篇：D-KMP的分层和团队组织</p>
 <p><code>最近更新：2021年4月8日</code></p>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5061b7e63504e72b067c86cb097d48b~tplv-k3u1fbpfcp-watermark.image" alt="1_MIRW_odYriJChVdQbqjd2Q.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99dba4d926154d28aaaf1e8d1140408d~tplv-k3u1fbpfcp-watermark.image" alt="1_YXeYR0SiDXOYtHbY70j-hA.png" loading="lazy" referrerpolicy="no-referrer"></p>
