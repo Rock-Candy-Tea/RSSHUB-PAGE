@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202104/19/8764da/b26cf7e3bdd7a69c.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-04-30 04:05:27
+date: 2021-04-30 08:04:10
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202104/19/8764da/b26cf7e3bdd7a69c.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.04.29                        <br>【Arda】T13欧洲原装进口洗碗机<br>                            数量 ：3<br>                            实际价格 ：5599元<br>                            名单确认中<br>                            837人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202104/19/8764da/b26cf7e3bdd7a69c.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.04.29                        <br>【Arda】T13欧洲原装进口洗碗机<br>                            数量 ：3<br>                            实际价格 ：5599元<br>                            活动体验中<br>                            837人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202104/19/8764da/b26cf7e3bdd7a69c.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
