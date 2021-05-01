@@ -5,14 +5,14 @@ categories:
  - 编程
  - GitChat
  - 最新文章
-headimg: 'https://picsum.photos/400/300?random=2581'
+headimg: 'https://picsum.photos/400/300?random=7700'
 author: GitChat
 comments: false
-date: Fri, 30 Apr 2021 12:04:20 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2581'
+date: Sat, 01 May 2021 00:15:28 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7700'
 ---
 
 <div>   
-<p>领域驱动设计（Domain Driven Design - DDD）起源于2004年Eric Evans出版《领域驱动设计》，相比于在国外IT圈享有盛誉且行之有效不同，国内IT圈了解DDD的人很少，落地实践的少之又少。最近几年随着微服...</p>  
+<p>领域驱动设计（Domain Driven Design - DDD）起源于 2004 年 Eric Evans 出版《领域驱动设计》，相比于在国外 IT 圈享有盛誉且行之有效不同，国内IT圈了解 DDD 的人很少，落地实践的少之又少。...</p>  
 </div>
             
