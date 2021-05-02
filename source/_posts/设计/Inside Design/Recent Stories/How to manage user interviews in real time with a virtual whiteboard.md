@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/user-interviews-virtual-whiteboard/'
 author: Inside Design
 comments: false
-date: 2021-05-01 12:03:05
+date: 2021-05-02 00:18:12
 thumbnail: 'https://www.invisionapp.com/inside-design/user-interviews-virtual-whiteboard/'
 ---
 

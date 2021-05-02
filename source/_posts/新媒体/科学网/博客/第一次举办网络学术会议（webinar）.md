@@ -1,0 +1,22 @@
+
+---
+title: '第一次举办网络学术会议（webinar）'
+categories: 
+ - 新媒体
+ - 科学网
+ - 博客
+headimg: 'https://picsum.photos/400/300?random=7938'
+author: 科学网
+comments: false
+date: Sat, 01 May 2021 18:02:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7938'
+---
+
+<div>   
+<p style="margin-top: 0px; margin-bottom: 2px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">背景。疫情以来，诸多学术会议从线下搬到线上，<strong>从</strong>seminar变成webinar，从物理接触到隔着屏幕。一方面，网络学术会议免除了车马劳顿，克服了地理上的距离，让我们可以听到很多以前需要交注册费才能享用的大牛报告。另一方面，隔着屏幕互动性差，报告人好似喃喃自语般心中无趣，听众在屏幕前难以聚精会神，久坐之后腰酸腿痛。我们期待着大解封后，旅行到真实的会场，与同行面对面的沟通。毕竟参加学术会议不单是听报告做报告，还要与人社交，功夫都在会场外。但可以预见的是，webinar模式已经深入身心，将来依旧会十分流行。就我自己来说，经常参加的有美国电化学学会ECS、前UL同事组织的大都是电化学相关的Scanlon Group Webinar、南京大学龙老师打头的Nanopore weekly webinar、瑞典Karolinska Institutet 组织的 传感器相关的Crossing Borders、我们DTU物理系电催化相关的CatTheory 、辛辛那提大学AC/DC Virtual Series、Gamry仪器公司等定期的webinar。此外，我们过去一年包括现在已经开了很多次网上的课题组组会，网络会议让我们得以邀请了在世界各地的前课题组成员给我们作内部的学术报告</p><p style="margin-top: 0px; margin-bottom: 2px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue"; min-height: 18px;"><br></p><p style="margin-top: 0px; margin-bottom: 2px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">初衷。在享受了各种webinar的好处之后，我们决定自己也搞一个webinar。初衷是扩大一下课题组的学术影响力，再就是给我们的荣休教授Jens Ulstrup一个授课的平台。老爷爷算是“好为人师”，喜欢授课，退休前在DTU开了几门博士课程，包括《The Chemistry of Metals in Biological Systems》（是化学系的第一个全程录像的视频课程）和《Chemistry at the Nanoscale》。退休后系里就不再让老爷爷独立开课了，每年只能帮忙带点课，满足不了他的授课欲望。为此，去年年初我们给他在系里组织了个电子转移基础理论的讲座，打算做成个系列。疫情来袭，做了一次讲座后便作罢。去年夏天，老爷爷做了他79年人生来中的第一次webinar报告（<a href="https://catalysts-2.sciforum.net/#webinar_content" target="_blank"><span style="color: #dca10d">https://catalysts-2.sciforum.net/#webinar_content</span></a>），有140余人参加，他算是第一次领略了webinar的魅力。于是，我们今年打算在某Z字开头视频会议软件帮助下自己组织一次，是为电子转移理论系列报告的第二场。</p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue"; min-height: 18px;"><br></p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">宣传。确定下主题后，找学院的美工做出宣传海报。用Z字软件生成预注册链接，可以追踪注册人的基本信息。宣传途径主要有二：一是通过邮件群发到熟人圈，主要是认可度高，熟人圈的熟人圈也会形成二次传播；二是通过社交媒体，这里主要用的是俺的私人推特，幸运的是得到了一些大V（活跃在推特上的学术大牛，拥趸颇多）的点赞和转发，比如ACS Energy Lett的转发让我们收获了很多非熟人的注册。粗略看一下注册者的分布，印度、波兰的注册很多，侧面印证这两个国家的科研人数正在逐年增加，中国的注册者主要来自于熟人圈。最终我们得到了二百出头的注册数，让我们老爷爷大吃一惊，因为普通的学术会议除非是大会报告外，分会场的听众也就几十来个，在DTU的博士课程上课人数也极少超过20人。</p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue"; min-height: 18px;"><br></p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">会议过程。Z字软件有meeting和webinar两种：meeting的模式互动更好，与会者和报告人可以互相看到，但可能管理会乱（比如有参加者忘记静音造成噪音，更有甚者故意利用批注功能在PPT上恶作剧）；webinar模式的互动差（与会者只能单向的看到报告人），但不会遇到幺蛾子，不过需要高级的付费功能。综上，我们选用了meeting模式。会议过程中，要有额外的一两个co-host帮忙把人从waiting room里准入，帮忙静音。再就是组织问题环节，尽量组织得有序。实际参加人数不到一百，这让我们意识到有必要在前一天发一个提醒。</p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "Helvetica Neue"; min-height: 18px;"><br></p><p style="margin-top: 0px; margin-bottom: 0px; font-stretch: normal; line-height: normal; font-family: "PingFang SC";">总结。举办一次网络学术会议远比想象中的复杂，何况我们的仅是时长一个多小时的一场报告，难以想象调度一场若干小时的<span style="font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">webinar</span>的难度。作为主持，我当时突然也紧张了，提前准备尤为必要。还发现<span style="font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">Z</span>软件的预注册功能并不完美，无法一键统计注册者的所有信息。有些主办方使用谷歌表格等工具来采集信息，十分有效。接下来的六月份，我们还要组织一场两个多小时的<span style="font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">webinar</span>，给<span style="font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">Jens</span>老教授庆祝<span style="font-stretch: normal; line-height: normal; font-family: "Helvetica Neue";">80</span>大寿。经测试，微软表格是很有用的预注册工具，各国都能访问，期待能做一个注册者的统计信息。</p>                    <br><br>
+                                        <label style="font-size:13px; color:#850f0f">转载本文请联系原作者获取授权，同时请注明本文来自肖鑫鑫科学网博客。<br>链接地址：</label><a href="http://blog.sciencenet.cn/blog-533831-1284666.html" target="_blank" style="font-size:13px; color:#850f0f">http://blog.sciencenet.cn/blog-533831-1284666.html </a>
+  <br><br>上一篇：<a href="http://blog.sciencenet.cn/blog-533831-1280309.html" target="_black">纪念张敬东教授特刊上线</a><br>                    <!--大赛结束-->
+                                        
+  
+</div>
+            
