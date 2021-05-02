@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/gsk-remote-design-sprint/'
 author: Inside Design
 comments: false
-date: 2021-05-02 00:18:12
+date: 2021-05-02 04:08:05
 thumbnail: 'https://www.invisionapp.com/inside-design/gsk-remote-design-sprint/'
 ---
 

@@ -1,0 +1,156 @@
+
+---
+title: '老虎基金的VC打法：你们太没想象力！'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20210502/v2_60e8a7a3cb804f5cbd685d7cb8bf5abd_img_000'
+author: 36kr
+comments: false
+date: Sun, 02 May 2021 00:58:36 GMT
+thumbnail: 'https://img.36krcdn.com/20210502/v2_60e8a7a3cb804f5cbd685d7cb8bf5abd_img_000'
+---
+
+<div>   
+<p>编者按：本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/s/UlX51Jvw53C2GP_X_RGJAg">“溯元育新”（ID:EnvolveGroup）</a>，作者：溯元育新团队，36氪经授权发布。</p> 
+<p><strong> Envolve Group </strong></p> 
+<p>前天中午，我在走去吃饭的路上，Alex突然打来一个电话，说：“我要聊聊老虎基金。”我问为什么，Alex说，他们有20把瑞士军刀（一样的投资经理），管着650亿美金，最近几个月一直在整活儿，美国VC圈早都炸锅了。</p> 
+<p>Alex继续说，如果你有10亿美金，你可以在5年投资期里把它花完，让你获得最终3倍的DPI，也可以在1年之内完全花掉，然后翻番，你会怎么做？</p> 
+<p>我说如果是我自己的钱，当然是1年花完，20亿拿回来了再投别的。</p> 
+<p>Alex又问了，那为什么花别人的钱，就要少赚钱？</p> 
+<p><strong>我瞬间悟了。</strong></p> 
+<p>很多对于「投资原则」的限制性信念，并不是真实存在的。我们看看老虎是怎么做，让创始人和LP都感受到，投资完全可以做得<strong>更好，更快，更便宜（B.F.C）。</strong></p> 
+<p>溯元育新创始人。对审美、结构与细节高度敏感，坚信我们处在精神变革的时代开端，值得更好的时代精神。致力于梳理与阐述商业文明与人类心智的代际变迁。</p> 
+<p>2018年就完成了亚洲首个在纽交所的SPAC上市，并收购了中国最大民营医疗集团「和睦家」。从百亿规模的交易中转身，寻找下一个大机会。“你看不懂的公司，我看得懂。你看不懂的资产类别，我看得懂。”</p> 
+<p>本文共<strong>9131</strong>字</p> 
+<p>推荐阅读时间<strong>20</strong>分钟</p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_60e8a7a3cb804f5cbd685d7cb8bf5abd_img_000" referrerpolicy="no-referrer"></p> 
+<p>此时此刻，硅谷的某个角落正在发生这样的对话：</p> 
+<p>「Tiger Global的那帮人怎么样了？」</p> 
+<p>「说起这个厉害了，我听说他们24小时内做了某某deal，只尽调了盈亏表，还出了比创始人报价还高25%的价格。」</p> 
+<p>「这帮人强度不是一般高啊，据说每两天就做个新deal。」</p> 
+<p>「怕了怕了，这就是对冲基金的大哥们吗？幸好我们自己心里有数，坚持只赚认知内的钱。」</p> 
+<p>如果你是搞VC投资的，大概率过去的12个月里有过以上这种对话。就算没有，肯定也在推特上看过VC调侃对冲基金打入VC圈的各种讨论（meme），我自己就是这帮「推特键盘侠」之一 。</p> 
+<p>如图 @EverettRandle：</p> 
+<p>一个平平无奇，产品市场契合度一般的创业公司创始人，在B轮遇到了「<a class="project-link" data-id="81289" data-name="煤老板" data-logo="https://img.36krcdn.com/20200729/v2_df8b984995194d8790b0313963fa3ac8_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/81289" target="_blank">煤老板</a>」Tiger Global基金。</p> 
+<p class="image-wrapper"><img data-img-size-val="480,480" src="https://img.36krcdn.com/20210502/v2_25f096ccf44c423bbb07dea6d5d80a12_img_000" referrerpolicy="no-referrer"></p> 
+<p>最常出现在市场风口浪尖的对冲基金就是<strong>老虎基金（Tiger Global）</strong>——他们专门做科技行业跨越一二级市场的投资（crossover investing）。由于其破纪录的交易速度和激进的投资风格，它在过去的12个月里一直霸占着各大媒体的头条和VC的八卦圈。今天我就来和你们唠唠老虎基金的投资策略，大致是这样的：</p> 
+<p><strong>先发制人投资好的科技公司 （慢就错亿）</strong></p> 
+<p><strong>快速搞定尽职调查和投资意向书（爷不在乎）</strong></p> 
+<p><strong>开比历史参考值和竞争对手更高的价（有钱任性）</strong></p> 
+<p><strong>只在投后管理花很少的精力（投后是啥）</strong></p> 
+<p><strong>三个字——投，投，投！</strong></p> 
+<p>其实Tiger Global并不是唯一一个采用这种策略的基金。Addition（老大是前Tiger Global合伙人Lee Fixel），Coatue（也是「小虎队」的一员，跟Tiger Global一样）和其他几家基金都在不同程度上展示了这些策略，也在不同程度上引起了更多「传统」VC的挫败。</p> 
+<p>如果你找10位VC，问问他们对Tiger Global的看法，大多数VC的反应都是不满和鄙视。他们会说，以老虎为代表的跨界（crossover）投资机构被市场严重高估了，实际上他们的尽调完全没做到位，或者说他们打破了VC的明文行规和心照不宣的行业「潜规则」，明摆着是来砸场子的。</p> 
+<p>所以呢？老虎和它代表的新型跨界VC就是万恶之源了吗？这帮人是蠢，还是靠吃十多年的互联网牛市红利活下来的？当然不是——恰恰相反，我们看到早期/成长期基金中，<strong>出现了一种以「投资速度」为核心的新策略，这种策略从根本上改变了VC的募资方式，从慢慢投，几年一募，到疯狂投，循环募资。</strong>老虎创造了一种飞轮效应，它打破了很多存在许久，但早就过时（long-held but outdated）的早期/成长期投资规则，<strong>不仅能为创业公司提供更好/更快/更便宜的资金，还能获得比其他VC更高的回报。老虎正在颠覆整个VC行业。</strong>听我唠唠，你就明白为什么了。</p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_65706401510b4ec6b272e103305cceb5_img_000" referrerpolicy="no-referrer"></p> 
+<p>过去的几个月，许多老牌VC的合伙人看到老虎基金就忍不住吐槽——<strong>「老虎基金这也叫做投资？投得这么快，这点时间我们连尽调都做不完……我们输给老虎的唯一原因就是他们出的价更高，能用钱解决的问题都不是问题！」</strong></p> 
+<p>然而老虎从来不和菜鸡互啄，总是默默努力，然后惊艳所有人。老虎刚刚完成了史上第二大VC基金的募集，<strong>顺便在最近的一封给投资者的信中，高调炫耀了他们私募高达26%的内部净收益率（Net IRR）。</strong>非常不幸，资本市场的竞争极其残酷——如果大家玩的游戏叫<strong>「如何做一个优雅的VC」</strong>，而不是<strong>「活下来，就是胜利」</strong>。这就引出了一个问题，<strong>如果我们把早期/成长期投资看成一种游戏，玩家得遵循什么样的规则（如果有的话）？</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_2245c59cce454737bd107cc65844d55f_img_000" referrerpolicy="no-referrer"></p> 
+<p>早期/成长期基金要对三个利益相关人负责：LP，企业和自己基金的GP。</p> 
+<p>LP：把我的钱好好投出去，赚到不错的回报（不能比我的底线还低，当然越高越好），让我开心了，后面再投好商量。</p> 
+<p>创始人：好多基金都想投我们，你得告诉我你比其他基金强在哪儿，这样我才可能拿我的股份换你们的钱，而不选其他VC。</p> 
+<p>GP：好好投项目，认真做退出，创造最大的回报，拿最高的carry！</p> 
+<p><strong>如果我们把早期/成长期投资看作一个游戏，VC们对LP和创始人的责任就是两个不变的游戏规则，两条规则都认真遵守才有得玩。</strong>如果你输了/出局了，要么就是因为募不到资，要么就是因为<a class="project-link" data-id="110408" data-name="钱到" data-logo="https://img.36krcdn.com/20200729/v2_c52ede8ea5a7420d93c0a2db4a19d7a0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/110408" target="_blank">钱到</a>手了也花不好。但<strong>除了这俩规则，为了最大化carry，你爱怎么整活儿都随意（当然别违法）。其他的任何规则都是VC们给自己的头脑设的限制，其实完全没必要。</strong></p> 
+<p>一旦说明白了这个框架，我们就很容易得出一个结论——<strong>这个游戏的操作空间很大，而且随着时间的推移，赢得比赛的最佳策略会不断演进，发生巨大的变化。</strong>在VC行业兼容各种骚操作的范式下，输得最惨的VC往往都有这些限制性信念：</p> 
+<p><strong>除了上面两条亘古不变的规则外，我还要遵守其他的游戏规则（其实没什么规则要遵守）；</strong></p> 
+<p><strong>我总是「对」的，而我的竞争者们总是「错」的（然而两条黄金原则之外，并无对错）；</strong></p> 
+<p><strong>这是个静态游戏，它不会随宏观环境、其他玩家的行为等因素发生变化（其实变化总在进行时）。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="939,712" src="https://img.36krcdn.com/20210502/v2_1bb4913633a54ebdbbc0870c91826b22_img_000" referrerpolicy="no-referrer"></p> 
+<p>我们再从另外一个角度来看看这事儿，<strong>对于野心大、适应性强的「猫科动物（老虎基金）」玩家来说，这个场子足够大，能玩的太多了。</strong>老虎就展示了一种全新的玩家风格，<strong>以「投资速度」为核心，利用竞争对手墨守成规的漏洞，颠覆VC市场，成为新范式的引领者。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_00b4d72b87ce47e189612a506a541a6a_img_000" referrerpolicy="no-referrer"></p> 
+<p>过去两年，Tiger Global通过两个独特的投资策略——<strong>「用最快的速度把钱投出去」和「为创始人提供更好/更快/更便宜的资本」</strong>——把自己打造成了一家独树一帜的投资机构。这两个策略很好地代表了自成长期基金出现以来，VC打法最显著的变化和发展。想要更好理解这种变化，最好是让这两种新策略和它们正在颠覆的传统VC策略battle一下。</p> 
+<p><strong>1.用最快的速度把钱投出去</strong></p> 
+<p><strong>普通基金：</strong>我要把融到的这笔钱分3年慢慢花掉。<strong>为什么？因为基金就该这么花钱，而且我也和LP们说了，我会这么干的。未来3年，我会努力加油，谈最好的deal，整最高的投资回报倍数</strong>（Multiple of Money Invested，相当于投资回报倍数）<strong>或IRR</strong>（Internal Rate of Return，内部收益率）。</p> 
+<p><strong>Tiger Global：</strong>LP们对这笔投资的最低回报预期是18% IRR，<strong>那我就会把我拿到的所有钱都尽快配置出去。</strong>大部分基金都有一个资本配置时间表（deployment schedules），他们会用这个来决定自己的投资速度，<strong>也就是认真思考「刚融到手的这笔钱，我要分多久花完？」——答案通常是2-4年，而且基金管理人会尽最大努力按这个节奏去投资。</strong>时间表定下来以后，VC们就会转而思考如何获得最高的单笔投资回报。</p> 
+<p><strong>「资本配置速度」和「回报」共同决定了一支基金在任何投资年份能获得多少总利润：</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="950,600" src="https://img.36krcdn.com/20210502/v2_8264cbabb41147fca8dcde5ea03050c4_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>假设你融了10亿美金，每年投出去1/3（也就是准备3年把钱花完），回报预期是3倍，下面这个等式拆解了你每年的资本利得：</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="953,530" src="https://img.36krcdn.com/20210502/v2_1abd9ffdd0dc43c4b97a8fee2f9dc24d_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>看起来不错！一年接近7亿美金的净收益确实不少。</strong></p> 
+<p><strong>但换个角度想想，如果这笔钱你不是分3年花完，而是火速花完（即使三年下来的平均收益率会低点儿 ），你每年的资本利得就会长这样：</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="953,542" src="https://img.36krcdn.com/20210502/v2_bfe26b4ffd65491cbb08f18f958124a6_img_000" referrerpolicy="no-referrer"></p> 
+<p>哇唔！先别管投资组合整体的Multiple of Money Invested回报从3倍降到了2倍，<strong>你每年可都赚了1.5倍，惊不惊喜！这意味着和每年配置1/3的投资方法相比，每年LP的银行账户余额都会乘以1.5倍，GP也能拿到1.5倍的carry，</strong>去棕榈滩（美国佛罗里达州东南部的超级富人区，美国豪宅价格最高的地区之一）买个更大的豪斯。只要LP对现在你创造的回报还算满意，他们就会继续把钱给你，而不是给那些每年只能创造可怜兮兮2%回报的地方债券管理人，然后你就可以用<strong>「资本高速配置策略（higher velocity strategy）」</strong>，帮他们赚更多钱。</p> 
+<p><strong>这是老虎颠覆传统VC的第一重杠杆——其他基金还活在资本配置时间表里，但他们早就把这个表抛诸脑后，直接把投资速度干到11档（车速表盘的最大值也只有10档）。</strong></p> 
+<p>敲黑板，这一点非常重要。因为<strong>对一个基金来说，从传统VC打法过渡到「以最快的速度把钱投出去」的打法是极其困难的，想要实现后者，你需要：</strong></p> 
+<p><strong>（1）LP买你的账：</strong>「投得更快」意味着，在其他条件相同的情况下，<strong>放松对投资标的的筛选标准，或者只需要遵守更少的投资纪律。</strong>而且很少有LP会认可一个，不论在哪种市场条件下，IRR和MoM都更低的投资策略。LP需要对你极其信任，才能同意你这样花钱。</p> 
+<p>Tiger Global有两个重要的优势：<strong>一是他们在过去15年的良好业绩，二是老虎的全体员工就是他们最大的LP。</strong>这就把GP利益和LP利益深度绑定了，和大部分VC的基金结构相去甚远，他们的合伙人/管理人一般只占1-2%的基金份额。在这样的基金结构之下，Tiger Global的GP既可享受到26%的净IRR，也可以在遭遇市场波动的时候给LP吃一剂定心丸，就像在告诉他们「嘿伙计，咱们是<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>船上的，我自己的大半身家可都在这个基金里呢！」。</p> 
+<p><strong>（2）基金运营能够跟上投资速度的脚步：</strong>完成一笔投资可不仅是写张支票那么简单。一个典型的VC<a class="project-link" data-id="80576" data-name="项目通" data-logo="https://img.36krcdn.com/20200729/v2_48bd2d457f554a7799e1bdef20a4a47d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/80576" target="_blank">项目通</a>常包括签投资意向书前的尽调过程（pre-term sheet diligence process）、一个或多个基金管理人持续参与被投公司董事会、以及其他各种形式的投后管理……<strong>人们总是直觉上认为，一个合伙人只能参加那么几个董事会，一个投资团队只能搞定那么多工作。</strong></p> 
+<p>人们总说，VC没法规模化发展（ventures don't scale）。的确，许多基金的「基因」就决定了他们没法实践资本高速配置策略。Tiger Global看起来也不像能搞定这种投资策略，因为团队总共没几个人，一级和二级加起来只有20个人左右（a16z 1/3的团队规模），只有3个能拍板的合伙人（Chase Co<a class="project-link" data-id="542543" data-name="LEM" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/542543" target="_blank">lem</a>an, Scott Schleifer, John Curtius）。<strong>这么小的团队，想要达到那么快的投资速度，就必须打造一个比大多数VC打法都更能规模化发展的VC「产品」——接下来我们就来唠唠老虎第二个独特的优势。</strong></p> 
+<p><strong>2.更好/更快/更便宜的资本</strong></p> 
+<p><strong>普通基金：</strong>我投资企业的时候总想加入它们的董事会，这样我就可以给创始人一些企业经营和管理的建议，同时确保我们在董事会上有发言权，再顺便给我的LinkedIn吸吸粉 :-) 我们每年只做几个大案子，所以我需要对这些投资机会做深入的尽调——创始人不应该介意这个（有点繁琐和漫长的）流程，毕竟这是个5年以上的合作关系。</p> 
+<p><strong>Tiger Global：</strong>说实话，很少有VC能在企业的初创期帮上忙（说的就好像他们曾经帮上过忙一样），所以<strong>我们能给创始人提供的最好「服务」就是高估值（也就是更便宜、更少稀释的资本）、一个快速且最不消耗创始人的融资流程，并且除了出现在他们的cap table中，不做任何多余的投后管理，去阻止企业成长。</strong>这种方法让我们这支短小精干的团队，能以很快的速度进行投资。</p> 
+<p>就像一个创业公司需要打造产品，并且把它卖给消费者一样，早期/成长期基金也需要打造自己的「产品」，并且在创始人们融资的时候「卖」给他们。基金之所以也需要卖货，是因为说到底，他们提供给市场的也是一种商品，也就是钱。他们需要一些钱以外的理由，让创业者选择他们，而非选择其他基金。那话怎么说来着——<strong>我们做的是卖钱的生意（we’re in the business of selling money）。</strong></p> 
+<p><strong>一个基金的「产品」包含了投前、投中、投后，基金能为创始人和企业提供的一切东西。现在，一个典型的早期/成长期基金产品大概长这样：</strong></p> 
+<p>2-4周的尽调流程，包括与高管和各部门负责人的多次通话、3-5次介绍潜在客户、反反复复查看业务数据，等等；</p> 
+<p>一个估值模型，用来证明这个deal可以为基金提供强劲的基本收益，而且有机会获得本垒打级别的超额收益；</p> 
+<p>基金名气给被投企业带来的的广告和品牌效应；</p> 
+<p>一个董事会成员（或者好多个）；</p> 
+<p>投资人带来的各种「增值服务」，包括基金的人脉网络、招聘支持、内部运营/咨询团队，等等；</p> 
+<p>乍一看，这似乎不赖！除非这家待投资的企业缺乏市场/品牌认知（其实大部分企业都是这样）、基金的增值服务并不存在（事实通常如此），或者董事会成员持中立态度，甚至对整个董事会乃至企业造成负面影响（这种情况虽然不应该出现，但是出现的还挺多）。<strong>于是这里又出现了第二个老虎可以颠覆的陈旧（而且错误的）行业准则/叙事——大多数早期/成长期基金的「产品」都围绕着他们能够提供的各种「增值」服务大做文章，但实际上基金为企业提供的实际价值微乎其微。</strong>老实说，我觉得在很多创始人眼中，典型的VC产品就长这样：</p> 
+<p class="image-wrapper"><img data-img-size-val="753,768" src="https://img.36krcdn.com/20210502/v2_ec643e957822475fac392a07a780541c_img_000" referrerpolicy="no-referrer"></p> 
+<p>和这种方法正好相反，<strong>老虎为创始人们提供了一种新「产品」，这个产品在许多功能上都采取了和传统VC完全相反的立场。我把老虎的VC「产品」称为更好/更快/更便宜的资本 （Better/Faster/Cheaper Capital，简称B.F.C.资本），</strong>它是这样的：</p> 
+<p><strong>极其简单的尽调过程，</strong>有时候甚至只是花一天时间开个会、看看损益表或者任何现成的财务数据；</p> 
+<p><strong>（通常）最高的估值都是由任何一家大型投资机构提供的——对创始人而言，这是「最便宜的融资」，</strong>因为Ta可以在稀释相同股份的情况下，融更多钱，或者融相同的钱，但稀释更少的股份；</p> 
+<p><strong>老虎团队不会参与董事会，或者几乎不会和创始团队有接触；</strong></p> 
+<p><strong>如果你希望贝恩（Bain）提供帮助，随时联系他们的咨询顾问（老虎请了贝恩咨询公司去帮着梳理梳理业务）；</strong></p> 
+<p>B.F.C.资本为什么「更快」，为什么「更便宜」，相信不用我再解释。但我认为<strong>对许多创始人而言，上面的几点证明了拿B.F.C.资本比拿传统VC的钱「更好」，因为这就避免了某个投资人虽然特爱帮忙、但总帮倒忙的下行风险，更糟糕的是最终拖累董事会和整个企业。</strong></p> 
+<p>B.F.C.会是每个轮次或每个创始人的最佳选择吗？当然不会。但<strong>如果你是一个创始人，已经有了心仪的董事会成员和投资人（他们都会出现在你的cap table里），不再需要更多的「增值」服务，而且对股权稀释很敏感，难道B.F.C.不是一个超级有吸引力的融资途径吗？</strong>那必须是啊！</p> 
+<p>B.F.C.对老虎来说也同样有益！我们前面已经讲明白了，老虎需要打造一个更能够规模化发展的「产品」，这样它精干的投资团队才能执行「资本高速配置策略」。而<strong>B.F.C.资本正好让老虎实现了这个目标——它抛弃了耗时的尽调流程、不断膨胀的董事会职责、以及试图给企业「增值」的各种无效努力。</strong>B.F.C.资本是「资本高速配置策略」的最大推动力，反之亦然，<strong>二者共同造就了Tiger Global基金真正的财富密码——飞轮效应。</strong></p> 
+<p><strong>3.总结一下：什么是「老虎飞轮」？</strong></p> 
+<p><strong>最快的资本配置速度和B.F.C.资本非常牛逼，因为它们俩双剑合璧时，会产生一种史无前例、闻所未闻、大规模赋能VC策略的飞轮效应。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="942,712" src="https://img.36krcdn.com/20210502/v2_0376329ffe3044318067d75d1ec8615d_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>除了上面的大飞轮，投资速度和B.F.C. 资本也分别有两个和「资本高速配置策略」所创造的回报相关的小飞轮。</strong>我尽力给大家画一下这几个飞轮：</p> 
+<p class="image-wrapper"><img data-img-size-val="953,706" src="https://img.36krcdn.com/20210502/v2_e47d3d3731a14d3182ed8389faedc217_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><img data-img-size-val="942,768" src="https://img.36krcdn.com/20210502/v2_89a10d3523f24410ae08c6d4dae49312_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><img data-img-size-val="942,768" src="https://img.36krcdn.com/20210502/v2_8b999f862b57406d8df44954f00c0596_img_000" referrerpolicy="no-referrer"></p> 
+<p>这不是亚马逊的飞轮，但有这么个飞轮很重要，因为除了那几家大牌基金（真的没几家），<strong>早期/成长期基金的业务往往没有飞轮效应，没有可持续的竞争优势或护城河。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="961,701" src="https://img.36krcdn.com/20210502/v2_a6c17f594fad408f8215e29cd776117a_img_000" referrerpolicy="no-referrer"></p> 
+<p>当飞轮彻底转起来时，相比竞争对手，老虎就可以给创始人提供更高的估值，投更多项目，从而创造更可观的收益。<strong>老虎已经建立起VC行业第一个不由品牌驱动的结构性竞争优势，打造了第一个可以规模化发展的业务飞轮。</strong></p> 
+<p>老虎是怎么建立起这种竞争优势，以及打造飞轮的呢？<strong>它们扔掉了那些老掉牙的、无中生有的、关于「早期/成长期基金该怎么做」的规则，最终建立起了一个牛逼的系统，让他们在自己的地盘上干翻其他VC。现在你看懂为什么老虎会颠覆整个VC行业了吗？</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_3228ec6de76d4fdf925669e29b24d167_img_000" referrerpolicy="no-referrer"></p> 
+<p>尽管我这篇文章唠了不少老虎的牛逼之处，<strong>但他们不会马上接手整个早期/成长期基金资产类别。在创业初期，一群很强的董事会成员和核心基金的投资依然很有用，能极大提升初创企业大获全胜的几率。</strong></p> 
+<p>我还是觉得，<strong>用自己的品牌价值给初创公司打打广告，是投资人和基金能为创业公司提供的最大价值。</strong>如果能拿到Founders Fund、红杉、 a16z这类顶级基金的钱，<strong>不管在哪轮，都强过仅仅把股份卖个好价格，快速拿钱。</strong></p> 
+<p><strong>最终，我们会逐渐看到过去十年发生在零售业的中层挤压（middle squeeze）现象，在早期/成长期投资行业重演一遍。大部分不受被挤压的基金会逐渐往两个方向演化：</strong></p> 
+<p><strong>变成像苹果、丝芙兰、蒂芙尼一样的奢侈品商：</strong>依赖行业内的<strong>长期品牌效应</strong>（Founders Fund、红杉、a16z都是这个路子），或者专注并占领某个<strong>垂直领域</strong>（就像金融科技领域的Ribbit Capital）；</p> 
+<p><strong>变成沃尔玛、Dollar General这样物美价廉的零售商</strong>：像老虎、Addition和Coatue这群猛干的GP一样，通过很高的规模化程度和超快的投资速度取得优势。</p> 
+<p>卡在中间的那些拉胯基金是最脆弱的，它们同时也面临着最大的风险。拉融资时，创始人们可能会想要亚马逊Prime会员一天内送达的基本款T恤，只要12美金；也可能想买1500美金的Gucci开衫，<strong>但没人会想要22美金的J.C. Penney（美国的一家连锁百货公司，已申请破产保护）帽衫。你真的不会想做VC界的J.C. Penney。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val="947,768" src="https://img.36krcdn.com/20210502/v2_5e74560155f645f0b3e129a894cb0f58_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>虽然很多基金不承认，但他们的确很像J.C. Penney。除了我在第二部分「早期基金的玩法」提到的内容，VC界的J.C. Penney是这样的：</strong></p> 
+<p><strong>没有顶级的基金品牌价值，只能在老虎的地盘和老虎竞争；</strong></p> 
+<p><strong>不会根据竞争格局和宏观环境的变化，持续迭代投资策略；</strong></p> 
+<p><strong>坚持认为他们的传统打法是VC的必备技能，而其他方法都注定失败。</strong></p> 
+<p>这些基金会逐渐发现，竞争越来越激烈。它们的回报会下降，甚至很多会被迫关门。</p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_914f1e52ca284c489179a9a170f4a708_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>做早期/成长期基金的很多人都喜欢嘲笑老虎，但和很多其他被嘲笑的事情一样，人们嘲笑老虎主要是因为看不懂他们。他们更应该做的是好好理解老虎的行为、动机及其思考它们的存在会对VC行业产生怎样的影响。</strong>我们再来复习一下老虎的投资策略：</p> 
+<p><strong>1.老虎在玩一种全新的游戏</strong></p> 
+<p>老虎看到了早期/成长期投资行业里许多老掉牙的规则、规范和共识，<strong>意识到大家的墨守成规恰恰是自己的机会，于是火速开辟新战场，重新制定游戏规则，设计了一种利用竞对弱点、能够规模化实施的策略。</strong></p> 
+<p>现有行规：基金应该按照定好的资金配置时间表来投资，努力创造最大的MoM。</p> 
+<p>现实：「资本高速配置策略」完全不管所谓的资金配置时间表，如果执行到位，GP和LP都更有可能赚到更大的回报（不过代价是没法创造最大的MoM）。</p> 
+<p>现有行规：VC们通常会通过投后服务为公司增加价值，这也是VC向创始人pitch的一个核心卖点。</p> 
+<p>现实：VC除了提供投后服务，拖后腿的能力一样不小。除了能在企业的最早期阶段帮上点忙，他们很少能做出什么实质性贡献。所以，佛系投资人（a hands-off investor）往往对创始人更有吸引力，如果佛系投资人还能给企业高估值/低融资成本，那简直完美。</p> 
+<p>现有行规：如果不做深入的尽职调查，就算是投成长期的公司，风险也太大，最后不会有什么好果子吃。</p> 
+<p>现实：SaaS这种行业的尽职调查从未像现在这么标准化。而且通过加快投资速度，基金能投更多的项目，投资组合的分散程度更高，这么一来，某个创始人欺诈或者单笔投资垮掉带来的下行风险也被分散了。</p> 
+<p><strong>2.老虎还会继续扩大规模，因为它有一个牛逼的策略</strong></p> 
+<p>老虎创造的飞轮是真实存在的，它还将继续为创始人们提供有吸引力的VC「产品」。除非发生互联网泡沫（dot-com bubble）这种级别的危机，正常情况下，老虎将继续转动飞轮，持续产出可观的现金回报，并且逐渐在整个私募早期/成长期投资市场中占据更大的份额。</p> 
+<p><strong>3.早期/成长期投资行业，马上也将出现中层挤压的现象</strong></p> 
+<p><strong>随着老虎变大变强，最终遭殃的会是那些像J.C. Penney一样卡中间的拉胯基金</strong>——许多基金既没有那些大牌基金的品牌效应，也没有老虎的投资速度和低成本资金。这些基金之所以能在过去的十年间创造不错的回报，是因为当时的早期/成长期投资市场没啥竞争。</p> 
+<p><strong>他们严重依赖这种缺乏竞争的市场环境，而且现有的组织形式也没法适应新的竞争形势——除非大刀阔斧地对基金投资策略、内部流程和组织架构进行改革，否则他们注定衰落，最终彻底失败。</strong></p> 
+<p>不过，不要太担心像J.C. Penney一样基金的合伙人——这种变化会慢慢发生，当老虎和其他猛兽彻底颠覆VC市场以前，他们仍然能投到不错的项目，赚很多钱。除了<a class="project-link" data-id="258858" data-name="米尔" data-logo="https://img.36krcdn.com/20201106/v2_964226c3dc2a40f39bc2619da1b0d54c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/258858" target="_blank">米尔</a>谷（Mill Valley，距离旧金山30分钟车程，是百万富翁、电影和音乐大亨的聚集地）的大豪斯，他们还能在塔霍（Tahoe）买一间漂亮的小木屋，但估计他们只能买在特拉基（Truckee），买不起湖景房了。</p> 
+<p>但如果你是某个拉胯基金的投资经理，该咋办呢？能跑多快跑多快，因为战斗已然打响。战斗结束时，黑水镇的Bronn（代表像老虎一样猛的GP）会把战利品拿回家。</p> 
+<p class="image-wrapper"><img data-img-size-val="1024,575" src="https://img.36krcdn.com/20210502/v2_ac51b06e932d457f972aa3ca36b11455_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_484236e903924fae820695249f9b46d0_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>资本市场的打法的太多了，我只是重点描述了老虎最有破坏性、最能体现其策略的要点，是这些东西造就了老虎强势的竞争力。当然了，还有其它不容忽视的内外部因素，我都写在下面了：</strong></p> 
+<p><strong>1.难懂的生意更好懂了</strong></p> 
+<p>在过去的5年中，<strong>因为理解了科技公司的增长方式和估值模型，投资界对它们（比如SaaS）的商业模式有了更深的理解。随着预测难度的降低，LP不再需要很高的「安全边际」。</strong>VC投资回报本身波动比较大，而且很难预测，所以LP并没有坚持要求GP创造5倍的MoM，也增加了对收益更低的基金的信心。在评估基金时，LP有时还会关注一些收益更低、最低回报预期更低（用IRR衡量）的GP。</p> 
+<p><strong>2.钱！太！多！了！</strong></p> 
+<p>根据最近的估计，Tiger Global管了大概650亿美元的资产，最近一期季报显示，<strong>它持有大约50亿美元的京东股票——仅此一项就比大多数VC的整体AUM还大。</strong>这么庞大的资金规模有天然的优势。比如，<strong>一笔1500-3000万美元的B轮融资对一个管5亿美元的VC来说，可能是一笔巨款，但对于老虎来说，这就是一个四舍五入的零头数。</strong></p> 
+<p>所以<strong>和那种5亿美元的基金比起来，Tiger Global在投资前要干的活儿更少，而且可以给创始人更高的估值。</strong>毕竟相对来说，单笔投资款不会关乎老虎整支基金的死活。<strong>不过，这样做仍然对Tiger Global是值得的，因为能够在下一轮（甚至是IPO之后大举买入）认购更多股份的期权价值更高（提前看牌成本极低）。</strong></p> 
+<p><strong>3.比996还996的工作节奏</strong></p> 
+<p>大部分搞对冲基金的人工作节奏都太快了，简直反人类，跟西海岸大部分chill的VC比起来，一个天上，一个地下。VC这种慢节奏，很难和每天工作16个小时，每周工作6-7天的老虎竞争。</p> 
+<p class="image-wrapper"><img data-img-size-val="1080,460" src="https://img.36krcdn.com/20210502/v2_b4a244f0fd5d4be2aa32956c89095c5d_img_000" referrerpolicy="no-referrer"></p> 
+<p>今天这篇文章里，我既没有从整体的角度讨论早期/成长期投资的回报率，也没有提及市场未来的发展方向。一个对本文简单的反驳可以是「市场已经被老虎炒得太热了，危机到来的时候，老虎肯定是那个跌得最惨的。」当然！毫无疑问，如果真有这么一场大危机，老虎肯定会亏得很惨。但是当初你们大部分都认为，那场大危机会发生在2020年3月20日。然而在那之后一年内，纳斯达克指数几乎翻了一倍。我相信，对未来的市场收益进行大范围的预测是一件很蠢的事，关注资本市场中的实时竞争反而比较有趣。</p> 
+<p><strong>相对而言，在任何市场环境下，和大多数基金比起来，老虎都有更明显的优势。如果重大危机真发生了，市场里的每个玩家都没法全身而退，那时候甭管你是不是Tiger Global，LP们可能都不会买账。</strong></p>  
+</div>
+            

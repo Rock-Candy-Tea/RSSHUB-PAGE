@@ -1,0 +1,18 @@
+
+---
+title: '华为为折叠手机申请类似Surface Book的铰链组件专利'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce70_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 01 May 2021 19:09:18 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce70_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 2 日消息 折叠智能手机的发展势头很猛，但仍有许多工程问题需要解决，使其与普通手机一样可靠。</p><p>在最近公布的一项专利中，华为对折叠式智能手机由于铰链的体积而无法平放在桌子上的问题提出了自己的解决方案。他们的解决方案是在铰链组件中叠加 " 叶片 "，这有点类似于 Surface Book（下图）的设计。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_0" data-original="http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce70_1024.jpg" data-gif-url="http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce70_raw.gif" data-height="278" data-width="595" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce70_1024.jpg" referrerpolicy="no-referrer"></div></div>专利写道：" 铰链组件包括一排相互连接和相邻的铰链叶片和至少一个线性致动器，当铰链组件处于展开位置时，铰链叶片在一个共同的平面内对齐，当铰链组件移动到折叠端位置时，每个铰链叶片相对相邻的铰链叶片围绕铰链组件旋转轴旋转，线性致动器包括一个旋转轴和一个线性驱动装置，线性驱动装置的第一端与旋转轴相互连接，线性驱动装置的第二、相对端与至少一个铰链叶片连接。推进器轴线在第一和第二端之间延伸，并垂直于铰链组件的旋转轴线，其中，沿推进器轴线启动线性推进器，使得每个铰链叶片围绕铰链组件的旋转轴线相对于相邻的铰链叶片旋转，线性推进器进一步包括锁定装置，用于将铰链组件锁定在展开位置和折叠端位置中的至少一个，锁定装置包括一个凸轮元件，与位于旋转轴上的凸轮部分相互锁定。"<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce71_1024.jpg" data-height="843" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce71_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce72_1024.jpg" data-height="2037" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce72_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce73_1024.jpg" data-height="2037" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608dfb6cb15ec04a2949ce73_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce74_1024.jpg" data-height="2037" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce74_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce75_1024.jpg" data-height="763" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/608dfb6cb15ec04a2949ce75_1024.jpg" referrerpolicy="no-referrer"></div></div>华为指出，该组件的优点是，铰链可以不费吹灰之力轻松转动，同时仍能安全地锁定在所需位置之一，即展开位置或折叠端位置。此外，由于只有一种锁定布置，因此没有个别制造公差的堆积，在展开位置提供了更好的平整度，同时避免了为了提供足够的锁定力而必须在几个枢轴点之间同步运动。<p></p><p>IT 之家了解到，该专利于 2019 年 10 月 22 日申请，2021 年 4 月 29 日公布。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
