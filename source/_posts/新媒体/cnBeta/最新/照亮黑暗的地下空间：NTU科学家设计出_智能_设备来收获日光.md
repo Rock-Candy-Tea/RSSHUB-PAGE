@@ -1,0 +1,19 @@
+
+---
+title: '照亮黑暗的地下空间：NTU科学家设计出_智能_设备来收获日光'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0503/469e35fdd53fdd9.jpg'
+author: cnBeta
+comments: false
+date: Mon, 03 May 2021 04:03:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0503/469e35fdd53fdd9.jpg'
+---
+
+<div>   
+据外媒报道，<strong>来自新加坡南洋理工大学(NTU Singapore)的一个研究小组设计出了一种“智能”设备，它可以收集日光并将其传送到地下空间进而减少对传统照明能源的依赖。</strong>在新加坡，有关部门正在研究向地下更深挖掘以为基础设施、存储和公用事业创造新空间的可行性。因此，预计未来对地下照明的需求将会增加。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0503/469e35fdd53fdd9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0503/469e35fdd53fdd9.jpg" alt="01.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">为了开发一种能够持续满足这一需求的日光收集装置，NTU团队从放大镜中获得了灵感，他们打造的这种放大镜可以用来将阳光聚焦到一点。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0503/b1ce9118affa42e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0503/b1ce9118affa42e.jpg" alt="02.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据悉，他们使用了现成的丙烯酸球、一根塑料光纤（一种可以将光束从一端传送到另一端的电缆）和计算机芯片辅助电机。</p><p style="text-align: left;">该设备部署在地面，它就像放大镜的透镜一样.其中，丙烯酸球充当太阳能聚光器，使阳光的平行光线在其对面形成一个尖锐的焦点。聚焦的阳光随后被收集到光纤电缆的一端并沿着电缆传输到部署在地下的一端。然后光通过光纤电缆的末端直接发射出去。</p><p style="text-align: left;">与此同时，在计算机芯片的辅助下，小型马达可以自动调整纤维的收集端位置以优化太阳在天空中移动时能够接收和传输的阳光量。</p><p style="text-align: center;"><iframe src="//player.youku.com/embed/XNTE0ODIxMTkyNA==" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">这项发明是由电子电气工程学院助理教授Yoo Seongwoo和NTU光子学研究所首席研究员Charu Goel博士开发，本月初在同行评审的科学期刊《Solar Energy》上发表。</p><p style="text-align: left;">据了解，该装置克服了目前太阳能收集技术的几个限制。在传统的太阳能聚光器中，大型<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_92263%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D3_%25E7%2594%25B5%25E8%25A7%2586%25E7%25B1%25BB%25E5%259E%258B_%25E6%259B%25B2%25E9%259D%25A2%23J_crumbsBar" target="_blank">曲面</a>镜子由重型马达移动来让反射镜对准太阳。另外，这些系统中的组件还暴露在湿度等环境因素下，这无疑增加了维护要求。然而NTU的装置却采用了圆形的压克力球，其摆脱了重型马达使其变得更为紧凑。</p><p style="text-align: left;">研究人员设计的原型重10公斤、总高度50厘米。为了保护丙烯酸球不受环境条件如紫外线、灰尘等的影响，研究人员还使用了聚碳酸酯建造了一个3mm厚的透明圆顶罩。</p><p style="text-align: left;">该研究的论文主要作者、助理教授Yoo指出：“我们的创新包括商业上可用的现成材料，这使得大规模制造可能非常容易。在人口密集的城市，由于空间的限制，我们特意将日光收集系统设计得轻巧紧凑。这将使我们的设备方便地融入城市环境的现有基础设施中。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0503/3dff06915b8e96e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0503/3dff06915b8e96e.jpg" alt="03.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">NTU的研究小组认为，这种装置非常适合作为传统的地面灯柱安装。这将使这项创新有两种用途：一种可以在白天收集阳光，照亮地下空间，另一种可以在夜晚用电照亮地面。</p><p style="text-align: left;">随着太阳在天空中移动，聚焦的阳光在丙烯酸球内的位置也会变化。为了确保全天最大限度地收集阳光并通过光纤传输，该系统使用了一个基于计算机芯片的机制来跟踪阳光。</p><p style="text-align: left;">设备位置的全球定位系统(GPS)坐标被预先加载到系统中，使其能够确定在任何给定时间最大的阳光聚焦点。然后再使用两个小型电机自动调整纤维的位置从而以每隔一分钟从聚焦点捕捉和传输阳光。</p><p style="text-align: left;">为了保证设备的自动定位能力，研究人员还在光纤的阳光收集端周围还放置了一对测量光亮度的传感器。当传感器检测到光测量不一致时，小型电机就会自动启动以调整电缆的位置，直到传感器上的值相同。这表明纤维尽可能地吸收最多的阳光。</p><p style="text-align: left;">在下雨或阴天这种没有足够的阳光被收集和输送到地下的时候，安装在光纤发射端旁边的LED灯泡就会自动点亮。这确保了该设备可以全天不间断地照亮地下空间。</p><p style="text-align: left;">NTU研究人员在一个漆黑的模拟地下环境中进行的实验中发现该设备的发光效率（即光源使用1瓦的电能产生可见光的效率）达到了 230流明/瓦。这远远超过了市面上的LED灯泡，后者的典型输出功率为90流明/瓦。NTU智能设备的光输出质量甚至还可以跟目前商业上使用的更昂贵的日光采集系统相媲美。</p><p style="text-align: left;">新加坡照明设计机构Technolite--同时还是本次研究的行业合作伙伴--的董事总经理Michael Chia表示：“能够跟NTU一起踏上这一创新之旅是我们的荣幸。虽然我们拥有商业和应用知识，但NTU从技术角度的深入知识已经将项目的执行提升到一个超出我们预期的水平。”</p><p style="text-align: left;">未来，这家照明公司将探索把智能设备或其相关概念纳入其工业项目的方法从而达到提高效率和可持续性的目的。</p>   
+</div>
+            
