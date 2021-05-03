@@ -1,0 +1,18 @@
+
+---
+title: '高通AI研究院提出通过量子场论，可将深度神经网络映射到量子计算机'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b31_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 03 May 2021 03:09:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b31_1024.jpg'
+---
+
+<div>   
+<p>来自高通 AI 研究院的学者提出，通过量子场论将深度神经网络直接映射到光学量子计算机上，这一研究发现，为未来开发新型量子神经网络架构铺平了道路。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b31_1024.jpg" data-height="555" data-width="740" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b31_1024.jpg" referrerpolicy="no-referrer"></div></div>日益复杂和强大的体系架构的发展让深度学习（DL）已经扩展到了大型、异构、复杂和多类问题。伴随而来的是，用于计算的 DL 训练算法变得非常昂贵。随着摩尔定律接近极限，AI 领域正在寻求新的解决方案来解决此问题。<p></p><p>量子计算设备的出现，或许可以打破经典计算和热力学限制，但借助量子计算进行 DL 的研究仍处于起步阶段。此外，目前尚不清楚如何将神经网络映射到量子计算机。</p><p>针对上述问题，<strong>来自高通 AI 研究院的两位学者提出了深度学习量子场理论形式化</strong>，其中输入信号在高斯态中进行编码。他们展示了将线性和非线性层表征为单一量子门，并将量子模型的本征激发解释为粒子，这种粒子被称为「Hintons」。</p><p>除了为研究神经网络打开新视角、提供新技术之外，这种量子公式化非常适合光学量子计算，并提供了可以在光学量子计算设备上高效运行的神经网络量子变形。最后，研究者探讨了适合经典模拟的量子变形模型的半经典极限。</p><p>有意思的是，论文中出现的「Hintons」是对 Geoffrey Hinton 的致敬。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202105/608fbdbb8e9f094415588b32_1024.jpg" data-height="206" data-width="994" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/608fbdbb8e9f094415588b32_1024.jpg" referrerpolicy="no-referrer"></div></div>论文地址：https://arxiv.org/pdf/2103.04913.pdf<p></p><p><strong>研究主要贡献</strong></p><p>本文的主要贡献可以概括为以下四点：</p><p>展示了如何使用高斯态进行贝叶斯推理；</p><p>设计实现标准非线性的幺正算符；</p><p>提出量子网络的当前可控极限；</p><p>讨论如何在量子计算机上实现所提出的模型。</p><p>首先，研究人员回顾了概率数值神经网络的框架，该算法对有缺失数据的输入信号进行分类，使用高斯过程 ( GP ) 对信号进行插值，并使用 GP 表示定义神经网络。</p><p>然后，该研究引入了一系列量子操作，泛化了概率数字神经网络的经典层。首先，研究人员展示了如何对高斯态进行贝叶斯推理，从而使量子纠缠能够表示智能体对离散化错误的不确定性。在下一步中，将展示如何实现作用于量子场的线性层的量子等效，就像经典线性层作用于经典场一样。</p><p>最后，研究人员解释了如何在量子模型中嵌入经典神经网络。他们将由此产生的模型解释为量子模型的半经典极限。具体而言，该模型使用量子力学的元素（协方差的不确定性关系）和经典力学的非线性元素（类似于经典非线性，量子非线性作用于量子场）。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b33_1024.jpg" data-height="237" data-width="757" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b33_1024.jpg" referrerpolicy="no-referrer"></div></div>神经网络的层次结构。<p></p><p><strong>性能测试</strong></p><p><strong></strong></p><p>为了测试半经典神经网络的性能，研究人员在一台光学量子计算机上实现了它，实验表明结果符合预期。</p><p>下图中，该研究提出的模型在量子光学硬件中实现的高层级描述。输入信号为 X_1、 X_3，对应观测值为 y_1、y_3，中间值 X_2 处的信息丢失了。然后研究人员为所有位置 X_1、X_2、X_3 准备激光束，并使用量子 GP（QGP）推断来创建后验状态。然后，该研究应用一系列线性和非线性层，直到检测器测量到一个可观测值，得到分类输入信号的 C 类。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b34_1024.jpg" data-height="238" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/608fbdbb8e9f094415588b34_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，研究人员还提出了该领域令人兴奋的未来发展方向，例如研究更接近完整量子模型的近似解，找到在量子硬件上进行量子 GP 推理的有效方法，以及进一步发展量子非线性和经典模型的量子形式。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
