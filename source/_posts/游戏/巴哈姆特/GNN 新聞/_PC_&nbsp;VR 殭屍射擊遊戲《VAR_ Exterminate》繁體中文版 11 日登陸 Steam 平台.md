@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?v=1620041671104'
 author: 巴哈姆特
 comments: false
-date: 2021-05-04 00:11:00
+date: 2021-05-04 04:02:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?v=1620041671104'
 ---
 
@@ -24,13 +24,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?v=1620041671104" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?v=1620041671104" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/e34c1286f1d5ee5f7ae5a7c9231ca2q5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　官方表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=VAR%3A+Exterminate" target="_blank">VAR: Exterminate</a>》遊戲設定在殭屍橫行的世界末日城市，玩家在每波開始前將隨機抽取一張能力卡，形成個人的能力樹，玩家在面對一波波殭屍攻擊的同時，要想辦法蒐集殭屍身上的金錢與晶片，來生及個人的武器與裝備。</div>
+　　官方表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=VAR%3A+Exterminate" target="_blank">VAR: Exterminate</a>》遊戲設定在殭屍橫行的世界末日城市，玩家在每波開始前將隨機抽取一張能力卡，形成個人的能力樹，玩家在面對一波波殭屍攻擊的同時，要想辦法蒐集殭屍身上的金錢與晶片，來升級個人的武器與裝備。</div>
 <div>
  </div>
 <div>
