@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/rapid-testing-framework-maze/'
 author: Inside Design
 comments: false
-date: 2021-05-03 12:03:14
+date: 2021-05-04 00:10:14
 thumbnail: 'https://www.invisionapp.com/inside-design/rapid-testing-framework-maze/'
 ---
 
