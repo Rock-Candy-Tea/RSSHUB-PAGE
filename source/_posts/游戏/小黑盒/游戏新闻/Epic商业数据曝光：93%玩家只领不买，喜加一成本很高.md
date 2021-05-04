@@ -1,0 +1,18 @@
+
+---
+title: 'Epic商业数据曝光：93%玩家只领不买，喜加一成本很高'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2021/05/04/7fe87ca4e02147b6bdab5f8baeb18e431620099917.png'
+author: 小黑盒
+comments: false
+date: 2021-05-04 08:02:22
+thumbnail: 'https://i1.max-c.com/imgx/2021/05/04/7fe87ca4e02147b6bdab5f8baeb18e431620099917.png'
+---
+
+<div>   
+<p>在今日的苹果 vs Epic诉讼案上，一份Epic平台商业数据报告曝光了，其中有大量内部消息。据悉Epic平台<b>在2019年9月之前</b>，“喜加一”送游戏的成本超过1160万美元；而Epic“喜加一”虽然吸引了很多新用户，但绝大部分人都是“只领不买”。</p><p><img class="lazy" data-height="306" src="https://i1.max-c.com/imgx/2021/05/04/7fe87ca4e02147b6bdab5f8baeb18e431620099917.png" data-width="584" id="img3_1" style="width: 100%; height: 52.3973%;" referrerpolicy="no-referrer"></p><p>下面这张图片揭示了Epic在2019年9月之前“喜加一”游戏的交易费用、领取次数、新用户数量、新用户获取（UA）成本等数据，其中，《蝙蝠侠阿卡姆》系列的交易费用是150万美元（Epic需支付WB这么多钱才能让这些游戏“喜加一”），是最贵的一笔交易，其次是《深海迷航》（140万美元）、《突变元年：伊甸之路》（100万美元）。</p><p><img class="lazy" data-height="578" src="https://i1.max-c.com/imgx/2021/05/04/335d8307b28a44d8b2ee319fcd7d471f1620099917.jpg" data-width="584" id="img0_1" style="width: 100%; height: 98.9726%;" referrerpolicy="no-referrer"></p><p>而从UA成本来看，Epic平台免费送独立游戏更利于获得新用户，虽然大作“喜加一”也能吸引新用户，但需要付出的成本也很高；而独立游戏“喜加一”的交易额不高，花同样的钱、送多个独立游戏，累计获取的新用户人数更多。</p><p>不过，<b>尽管“喜加一”游戏能吸引很多新玩家注册Epic账号，他们大多都是“只领不买”</b>。文件中显示，Epic“喜加一”用户中大约只有7%会去花钱买游戏，剩下<b>93%（约1850万用户）都是“白嫖党”</b>。</p><p><img class="lazy" data-height="327" src="https://i1.max-c.com/imgx/2021/05/04/a29a63a1364e415db2e6be307d9f3e5c1620099918.jpg" data-width="584" id="img1_1" style="width: 100%; height: 55.9932%;" referrerpolicy="no-referrer"></p><p>需要注意的是<b>这份文件仅包含2019年9月之前的数据</b>，2020年至今Epic平台用户情况是否有改变，我们不得而知。</p><h2>此外一些其它曝光的数据（全部截止2019年9月）</h2><p><img class="lazy" data-height="333" src="https://i1.max-c.com/imgx/2021/05/04/9b9ff40cb5b648979e8c0d53be5667ba1620099919.jpg" data-width="584" id="img2_1" style="width: 100%; height: 57.0205%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">Epic平台日活用户数据，独占大作发售、喜加一等出现峰值 </h4><br><p><img class="lazy" data-height="338" src="https://i1.max-c.com/imgx/2021/05/04/1b1604532e6540548c23bf311cfaa2681620099919.jpg" data-width="584" id="img3_1" style="width: 100%; height: 57.8767%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">Epic每日新用户数，喜加一拉新能力最强 </h4><br><p><img class="lazy" data-height="340" src="https://i1.max-c.com/imgx/2021/05/04/31377e36e2654c31b82d2c9ba232ceb01620099921.jpg" data-width="584" id="img4_1" style="width: 100%; height: 58.2192%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">Epic每日营收额，《无主3》首发热度很高</h4><br><p><img class="lazy" data-height="327" src="https://i1.max-c.com/imgx/2021/05/04/d7f520ecf33b4c0eb34bf60d158f871b1620099922.jpg" data-width="584" id="img5_1" style="width: 100%; height: 55.9932%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">Epic商城、《堡垒之夜》、Epic启动器的月活用户变化 </h4><br><p><img class="lazy" data-height="333" src="https://i1.max-c.com/imgx/2021/05/04/744d6578320b479a9a4ebd19cdb93de81620099922.jpg" data-width="584" id="img6_1" style="width: 100%; height: 57.0205%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">付费用户来源：49%新用户，45%《堡垒之夜》流失玩家，6%《堡垒之夜》活跃玩家</h4><br><p><img class="lazy" data-height="327" src="https://i1.max-c.com/imgx/2021/05/04/b845bcffbec947f78e3b490873692b471620099923.jpg" data-width="584" id="img7_1" style="width: 100%; height: 55.9932%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">免费用户来源：30%新用户，53%《堡垒之夜》流失玩家，17%《堡垒之夜》活跃玩家</h4><br><p><img class="lazy" data-height="334" src="https://i1.max-c.com/imgx/2021/05/04/25d6df05e14c410caa165b8e9693e2be1620099923.jpg" data-width="584" id="img8_1" style="width: 100%; height: 57.1918%;" referrerpolicy="no-referrer"></p><h4 class="img-desc">Epic对于未来的规划，有2种模型：激进型和收敛型</h4>  
+</div>
+            
