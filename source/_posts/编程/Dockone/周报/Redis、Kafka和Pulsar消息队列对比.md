@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210504/f814bff72a13d287641832a815dd5785.png'
 author: Dockone
 comments: false
-date: 2021-05-05 00:02:36
+date: 2021-05-05 04:01:44
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210504/f814bff72a13d287641832a815dd5785.png'
 ---
 
@@ -206,7 +206,8 @@ Pulsar利用bookeeper作为存储服务，剩下的是计算层。这其实是�
 <br>在20年前，由于普通计算机硬件设备的局限性，对大量数据的存储是通过NAS（Network Attached Storage）这样的“云端”集中式存储来完成。但这种方式的局限性也很多，不仅需要专用硬件设备，而且最大的问题就是难以扩容来适应海量数据的存储。<br>
 <br>数据库方面也主要是以Oracle小型机为主的方案。然而随着互联网的发展，数据量越来越大，Google后来又推出了以普通计算机为主的分布式存储方案，任意一台计算机都能作为一个存储节点，然后通过让这些节点协同工作组成一个更大的存储系统，这就是HDFS。<br>
 <br>然而移动互联网使得数据量进一步增大，并且4G、5G的普及让用户对延迟也非常敏感，既要可靠，又要快，又要可扩容的存储逐渐变成了一种企业的刚需。而且随着时间的推移，互联网应用的流量集中度会越来越高，大企业的这种刚需诉求也越来越强烈。<br>
-<br>因此，可靠的分布式存储作为一种基础设施也在不断地完善。它们都有一个共同的目标，就是让你像使用filesystem一样使用它们，并且具有高性能高可靠自动错误恢复等多种功能。然而我们需要面对的一个问题就是CAP理论的限制，线性一致性（C），可用性（A），分区容错性（P），三者只能同时满足两者。因此不可能存在完美的存储系统，总有那么一些“不足”。我们需要做的其实就是根据不同的业务场景，选用合适的存储设施，来构建上层的应用。这就是Pulsar的逻辑，也是TiDB等NewSQL的逻辑，也是未来大型分布式系统的基本逻辑，所谓的“云原生”。
+<br>因此，可靠的分布式存储作为一种基础设施也在不断地完善。它们都有一个共同的目标，就是让你像使用filesystem一样使用它们，并且具有高性能高可靠自动错误恢复等多种功能。然而我们需要面对的一个问题就是CAP理论的限制，线性一致性（C），可用性（A），分区容错性（P），三者只能同时满足两者。因此不可能存在完美的存储系统，总有那么一些“不足”。我们需要做的其实就是根据不同的业务场景，选用合适的存储设施，来构建上层的应用。这就是Pulsar的逻辑，也是TiDB等NewSQL的逻辑，也是未来大型分布式系统的基本逻辑，所谓的“云原生”。<br>
+<br>原文链接：<a href="https://mp.weixin.qq.com/s/2NoRkIKG0IFcoI-nZienAQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/2NoRkIKG0IFcoI-nZienAQ</a>
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>
                                 
