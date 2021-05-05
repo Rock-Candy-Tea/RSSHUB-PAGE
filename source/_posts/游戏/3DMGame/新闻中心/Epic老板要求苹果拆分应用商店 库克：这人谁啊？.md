@@ -36,7 +36,7 @@ Schiller和Eddy Cue，询问道：
 “这人是来参加我们排练的吗?”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210505/1620200004_713735.jpg" alt="Epic老板要求苹果拆分应用商店 库克：这人谁啊？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210505/1620200004_713735.jpg" alt="Epic老板要求苹果拆分应用商店 库克：这人谁啊？" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

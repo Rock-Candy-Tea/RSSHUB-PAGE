@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/05/05/210505090706468_u524.
 
                 
                 
-                    <div class="topicContent front_content sort_content">根据外媒报道，谷歌Stadi的副总裁兼产品主管John Justice现已离职，这一消息随后得到了谷歌方面的确认。Justice于2019年加入谷歌并参与Stadia项目，主要负责消费者体验方面的内容。在今年2月，谷歌宣布不再投资Stadia第一方游戏开发工作室，但也表示2021年会有超过百款游戏登陆Stadia。</div>
+                    <div class="topicContent front_content sort_content">根据外媒报道，谷歌Stadia的副总裁兼产品主管John Justice现已离职，这一消息随后得到了谷歌方面的确认。Justice于2019年加入谷歌并参与Stadia项目，主要负责消费者体验方面的内容。在今年2月，谷歌宣布不再投资Stadia第一方游戏开发工作室，但也表示2021年会有超过百款游戏登陆Stadia。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/05/05/210505090706468_u524.jpg" src="https://img01.vgtime.com/game/cover/2021/05/05/210505090706468_u524.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
