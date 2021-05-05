@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/88/282fcdb3aa26033c4d72a2b1cb1cakk5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2021-05-05 04:02:20
+date: 2021-05-05 08:02:07
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/282fcdb3aa26033c4d72a2b1cb1cakk5.JPG'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/282fcdb3aa26033c4d72a2b1cb1cakk5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　以多元活動為取向的「亞洲動漫創作展 Petit Fancy 34」（簡稱 PF）活動，於上週末（5 月 1、2 日）在花博爭豔館舉辦，活動會場外也聚集了許多 Cosplay 同好交流，以下將為大家帶來兩日活動現場的 Cosplay 照片。 </div>
+　　以多元活動為取向的「亞洲動漫創作展 Petit Fancy 34」（簡稱 PF）活動，於上週末（5 月 1、2 日）在花博爭豔館舉辦，會場外也聚集了許多 Cosplay 同好交流，以下為大家帶來兩日活動現場的 Cosplay 照片。 </div>
 <div>
  </div>
 <div>
@@ -302,8 +302,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/282fcdb3aa26033c4d72a2b1cb1cakk5.
 </div>
 
 </div>
-<div>
- </div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
