@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14206/axisstudios_wildrift_8.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2021-05-05 12:01:21
+date: 2021-05-06 00:03:01
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14206/axisstudios_wildrift_8.-full.jpg'
 ---
 
@@ -75,7 +75,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14206/axisstudios_wil
                             <a class="toggle collapsed" data-toggle="collapse" href="https://axisstudiosgroup.com/work/tales-of-runeterra-dont-mess-with-yordles-league-of-legends-wild-rift/#fullCreditDetails" role="button" aria-expanded="false" aria-controls="fullCreditDetails">Full credits </a>
                         </h3>
                         
-                            Abigail Barr, Adrien Douay, Agatha Vermeil, Ahmed Ghazy, Alan MacEachern, Alberto Garcia, Ananda Aran, Anastasia Shiyankova, Andrey Sviridenko, Anil Onlem, Bader Badruddin, Baptiste Groazil, Benoit Filippin, Carlo Kasongo, Chloe Paton, Chris Ostrowski, Coline Siega, Craig Herbertson, Daniel Morante Ortiz, Daniel R'Kaloo, Duncan Formosa, Eilidh Brown, Ekaterina Pushkarova, Emma Townsend, Femke Schaars, Francesco Quarta, Jayden Paterson, Jens Wisser, Joffrey Ferrandes, John Wilde, Jose Domato, Joseph Nickson, Julia Pishtar, Katha Nabadalung, Kevin Poveda, Laura MacMahon, Laura McMaster, Lee Croudy, Liam Corrie, Lucas Tebib, Lukas Gecas, Michelle Chen, Nicole Rothermel, Olivier Montero, Paween Sarachan, Piotr Hurny, Raphael Cancellier, Rebecca Margey, Rob Foote, Roberto Gatto, Rosealee Higgins, Roxanne Nathan, Rudy Bourgoin, Sara Vineis, Sebastien Bergamaschi, Sergio Grana, Sjors de Laat, Sofia Hansson, Stephen Cunningham, Steven Barbour, Sunrise Ishimwe, Tamas Sarffi, Veronika Epsteina, Viktor Saghy
+                            Abigail Barr, Adrien Douay, Agatha Vermeil, Ahmed Ghazy, Alan MacEachern, Alberto Garcia, Ananda Aran, Anastasia Shiyankova, Andrey Sviridenko, Anil Onlem, Bader Badruddin, Baptiste Groazil, Benoit Filippin, Carlo Kasongo, Chloe Paton, Chris Ostrowski, Coline Siega, Craig Herbertson, Daniel Morante Ortiz, Daniel R'Kaloo, Duncan Formosa, Eilidh Brown, Ekaterina Pushkarova, Emma Townsend, Femke Schaars, Francesco Quarta, Jayden Paterson, Jens Wisser, Joffrey Ferrandes, John Wilde, Jose Domato, Joseph Nickson, Julia Pishtar, Katha Nabadalung, Kevin Poveda, Laura MacMahon, Laura McMaster, Lee Croudy, Liam Corrie, Lucas Tebib, Lukas Gecas, Michelle Chen, Nicole Rothermel, Olivier Montero, Paween Sarachan, Piotr Hurny, Raphael Cancellier, Rebecca Margey, Rob Foote, Roberto Gatto, Rosealee Higgins, Roxanne Nathan, Rudy Bourgoin, Sara Vineis, Sebastien Bergamaschi, Sergio Grana, Sjors de Laat, Sofia Hansson, Stephen Cunningham, Steven Barbour, Sunrise Ishimwe, Tamas Sarffi, Thomas Poole, Veronika Epsteina, Viktor Saghy
                         
                     
                 
