@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-1d8956bdbb3077c9db9559643c329332_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=572'
 author: 知乎
 comments: false
-date: Thu, 06 May 2021 06:35:38 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-1d8956bdbb3077c9db9559643c329332_1440w.jpg'
+date: Thu, 06 May 2021 08:45:52 GMT
+thumbnail: 'https://picsum.photos/400/300?random=572'
 ---
 
 <div>   
-人生海海的回答<br><br><p>我也算混数码圈的，参数啥也比较了解吧</p><p>但我也喜欢Reno5Pro+ 颜值手感真的棒</p><p>买手机平时最讨厌的就是爹味儿说教（雾）</p><p>感觉题主这心理有点像我花一样的钱买了更高的性能我值了.....没啥意思</p><p>你要劝她买什么小米还不如劝换个平台她减点钱买Reno5Pro+（逃）</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1d8956bdbb3077c9db9559643c329332_1440w.jpg" data-rawwidth="1280" data-rawheight="2844" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-0fd5ba5594c5abe0f429bb118aa92097_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-1d8956bdbb3077c9db9559643c329332_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+Rallers的回答<br><br><p>我知道你是好心，但如果是花的她自己挣得钱，就随她吧，865又不是不能用，实际使用和888能体验出哪些差别呢？</p><p>买东西图个开心，辛辛苦苦赚钱想买个东西了，你又一顿说，谁心情都不会好。喜欢颜值有什么错呢？我也想手里拿的手机好看啊。</p><p>放宽心，不要拿着平常你看手机的态度去看他人看手机的方式。</p><p>如果你实在糟心，那么价钱给她换个888的手机吧 ，也要同时兼顾好看哦，你不能把自己喜欢的点强加给别人，又把别人关注的点弃置不顾。</p><p>别为了没有必要争吵的事情而争吵。</p>  
 </div>
             

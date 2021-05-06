@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/terminator-dark-fate/1160171486-1576794711/terminator_06.jpg'
 author: Blur Studio
 comments: false
-date: 2021-05-06 08:01:28
+date: 2021-05-06 12:02:12
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/terminator-dark-fate/1160171486-1576794711/terminator_06.jpg'
 ---
 
