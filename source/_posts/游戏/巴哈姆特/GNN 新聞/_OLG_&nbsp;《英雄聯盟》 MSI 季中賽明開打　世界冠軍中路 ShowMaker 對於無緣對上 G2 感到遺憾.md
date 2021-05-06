@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/278302bc253d4d2aaef48bae0b1cau25.JPG?v=1620228284677'
 author: 巴哈姆特
 comments: false
-date: 2021-05-06 00:03:39
+date: 2021-05-06 04:02:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/278302bc253d4d2aaef48bae0b1cau25.JPG?v=1620228284677'
 ---
 
@@ -43,7 +43,7 @@ ShowMaker（右，圖片來源 Riot）</figure>
 <div>
  </div>
 <div>
-　　談到今年代表 LCE 參加季中邀請賽的 MAD，ShowMaker 指出，在他記憶中 LEC 比賽總是 Fnatic 與 G2 獲勝，如今 MAD 能來到這個舞台，意味著他們是很厲害的團隊，而 Humanoid 可以說是該隊伍的王牌，他很期待與他們交手。</div>
+　　談到今年代表 LEC 參加季中邀請賽的 MAD，ShowMaker 指出，在他記憶中 LEC 比賽總是 Fnatic 與 G2 獲勝，如今 MAD 能來到這個舞台，意味著他們是很厲害的團隊，而 Humanoid 可以說是該隊伍的王牌，他很期待與他們交手。</div>
 <div>
  </div>
 <div>

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/39/bb017a46220d1a470d3dd6ef8e1caub5.PNG?v=1620231623014'
 author: 巴哈姆特
 comments: false
-date: 2021-05-06 00:03:39
+date: 2021-05-06 04:02:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/39/bb017a46220d1a470d3dd6ef8e1caub5.PNG?v=1620231623014'
 ---
 
@@ -56,7 +56,7 @@ Icon Series 經典系列賽</figure>
 </ul>
 </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%EF%BC%9A%E6%BF%80%E9%AC%A5%E5%B3%BD%E8%B0%B7" target="_blank">英雄聯盟：激鬥峽谷</a>》全球電競負責人 Leo Faria 表示，在東南亞，包括前《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》知名電競戰隊閃電狼（Flash Wolves）、還有像是 The Alliance、RRQ 等都已經投入打造《激鬥峽谷》隊伍成員，雖然他們持續推廣，他們期盼將可以看到更多知名電競戰隊公開《激鬥峽谷》成員名單。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%EF%BC%9A%E6%BF%80%E9%AC%A5%E5%B3%BD%E8%B0%B7" target="_blank">英雄聯盟：激鬥峽谷</a>》全球電競負責人 Leo Faria 表示，在東南亞，包括前《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》知名電競戰隊閃電狼（Flash Wolves）、還有像是 The Alliance、RRQ 等都已經投入打造《激鬥峽谷》隊伍成員，隨著他們持續推廣，他們期盼將可以看到更多知名電競戰隊公開《激鬥峽谷》成員名單。</div>
 <div>
  </div>
 <div>

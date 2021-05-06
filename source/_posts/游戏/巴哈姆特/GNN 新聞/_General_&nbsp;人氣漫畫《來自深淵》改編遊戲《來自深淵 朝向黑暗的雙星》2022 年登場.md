@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?v=1620186683960'
 author: 巴哈姆特
 comments: false
-date: 2021-05-06 00:03:39
+date: 2021-05-06 04:02:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?v=1620186683960'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?v=1620186683960" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?v=1620186683960" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG?v=1620186628&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/31/69475c1be1633b2ce12805d3ff1caiz5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

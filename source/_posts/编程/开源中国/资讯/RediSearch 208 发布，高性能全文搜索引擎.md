@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3730'
+headimg: 'https://picsum.photos/400/300?random=9710'
 author: 开源中国
 comments: false
-date: Wed, 05 May 2021 23:45:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3730'
+date: Thu, 06 May 2021 07:45:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9710'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>RediSearch 2.0.8 现已发布，这是 2.0 版的维护版本，更新紧急程度为高。具体更新内容如下：</p> 
+                                                                    
+                                                        <p>RediSearch 2.0.8 现已发布，这是 2.0 版的维护版本，更新紧急程度为高。具体更新内容如下：</p> 
 <p><strong>Details</strong></p> 
 <ul> 
  <li> <p>Bug fixes：</p> 
