@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/design-leadership-forum-salary-report-2021/'
 author: Inside Design
 comments: false
-date: 2021-05-06 04:01:43
+date: 2021-05-06 08:01:28
 thumbnail: 'https://www.invisionapp.com/inside-design/design-leadership-forum-salary-report-2021/'
 ---
 
