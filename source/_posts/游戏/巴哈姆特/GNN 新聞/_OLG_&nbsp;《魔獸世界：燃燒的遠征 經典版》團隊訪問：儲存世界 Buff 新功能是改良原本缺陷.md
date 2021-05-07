@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/b1eaadeef366638f0b25d30f9f1cb6y5.JPG?v=1620290456738'
 author: 巴哈姆特
 comments: false
-date: 2021-05-07 00:04:01
+date: 2021-05-07 04:07:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/b1eaadeef366638f0b25d30f9f1cb6y5.JPG?v=1620290456738'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/b1eaadeef366638f0b25d30f9f1cb6y5.
 <div>
 <div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E7%87%83%E7%87%92%E7%9A%84%E9%81%A0%E5%BE%81+%E7%B6%93%E5%85%B8%E7%89%88" target="_blank">魔獸世界：燃燒的遠征 經典版</a>》遊戲團隊日前透過線上視訊會議接受巴哈姆特 GNN 等數間台灣媒體訪問，分享遊戲內容設定上的變化，以及加入新機制的考量等。同時，首席製作人正式宣布了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E7%87%83%E7%87%92%E7%9A%84%E9%81%A0%E5%BE%81+%E7%B6%93%E5%85%B8%E7%89%88" target="_blank">魔獸世界：燃燒的遠征 經典版</a>》將於美國時間 6 月 1 日全球同步上線（台灣時間 6 月 2 日），並公開 5 月 18 日（台灣時間 5 月 20 日）搶先開放版本前夕內容等。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E7%87%83%E7%87%92%E7%9A%84%E9%81%A0%E5%BE%81+%E7%B6%93%E5%85%B8%E7%89%88" target="_blank">魔獸世界：燃燒的遠征 經典版</a>》遊戲團隊日前透過線上視訊會議接受巴哈姆特 GNN 等數間台灣媒體訪問，分享遊戲內容設定上的變化，以及加入新機制的考量等。同時，首席製作人正式宣布了<a href="https://gnn.gamer.com.tw/detail.php?sn=214624" target="_blank">《魔獸世界：燃燒的遠征 經典版》將於美國時間 6 月 1 日全球同步上線（台灣時間 6 月 2 日）</a>，並公開 5 月 18 日（台灣時間 5 月 20 日）搶先開放版本前夕內容等。</div>
 <div>
  </div>
 <div>
