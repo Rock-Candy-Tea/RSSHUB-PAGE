@@ -1,0 +1,30 @@
+
+---
+title: '一款基于AI的文字冒险游戏，活生生被人用来_搞起了黄色_'
+categories: 
+ - 游戏
+ - 游戏时光
+ - 游戏时光新闻
+headimg: 'https://img01.vgtime.com/game/cover/2021/05/06/210506174235907_u229514.jpg'
+author: 游戏时光
+comments: false
+date: Thu, 06 May 2021 10:08:13 GMT
+thumbnail: 'https://img01.vgtime.com/game/cover/2021/05/06/210506174235907_u229514.jpg'
+---
+
+<div>   
+<input type="hidden" id="topicId" value="1122142">
+<input type="hidden" value id="puid">
+
+
+<div class="abstract">
+<p>人工智能如何搞黄色？</p>
+</div>
+
+                
+<div class="topicContent front_content"><p>　　如果你有接触过早期的文字冒险游戏，应该会对《AI 地下城》（AI Dungeon）感到熟悉。玩家根据一定的规则输入文字，比如“去哪里”、“做什么”，系统再对这些命令进行反馈。但《AI 地下城》有所不同，它的故事并非开发者预设，而是由一套名为 GPT-3 的自回归语言模型编织而成。</p><p>　　GPT-3 可以说大有来头，是全世界参数最多的神经网络模型。</p><p><span style="background-color: initial; letter-spacing: 1.3px;">　　英国《卫报》曾用它写了篇“人类不应该惧怕 AI 的”专栏文章，许多学者也认为 GPT-3 有可能被用于制造假新闻，对社会产生负面影响。</span></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/05/06/210506174235907_u229514.jpg" class referrerpolicy="no-referrer"><figcaption contenteditable="true" class>在《卫报》的这篇文章中，GPT-3 尝试说服人类不要惧怕自己</figcaption></figure></div><p><span style="background-color: initial; letter-spacing: 1.3px;">　　因此凭借着强大的功能，在《AI 地下城》里你几乎可以干任何事情，成为屠龙救国的骑士、古墓里的探险家、家里蹲废宅、有自我意识的丧尸，或者是用来“搞黄色”……</span><span style="background-color: initial; letter-spacing: 1.3px;">玩家每输入一个动作，模型就会将其和之前的反馈组成数据对，再依据背景段输出结果。</span></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/05/06/21050617575274_u229514.jpg" class referrerpolicy="no-referrer"><figcaption contenteditable="true" class>《AI 地下城》的基本玩法就是你输一个命令，AI 回复一段文字</figcaption></figure></div><p><span style="background-color: initial; letter-spacing: 1.3px;">　　光这么形容可能有点抽象，不妨讲讲我玩过的一个例子。</span><span style="background-color: initial; letter-spacing: 1.3px;">比如在一个中世纪幻想题材的背景下，我把自己塑造成看到妹子就亲的老流氓骑士。</span></p><p>　　故事开始时我听说有一头恶龙住在拉里翁王国的北部，带着钢剑和木盾踏上了讨伐它的道路，期间经过黑暗森林，恰巧看到公主和一群守卫正在朝森林进发。<span style="background-color: initial; letter-spacing: 1.3px;">正要上前时，穿着板甲的守卫把我拦住，但被围在中间的公主倒是很友好的朝我招手。</span></p><p><span style="background-color: initial; letter-spacing: 1.3px;">　　然后本人开始了作死行为：</span></p><blockquote><p>　　<b>> You kiss princess.</b><br>　　> You run towards the princess and leap into the air. Your lips twist into a huge smile as your lips twist towards her.</p></blockquote><p>　　第一次<b>“亲吻公主”</b>得到的反馈是：<span style="background-color: initial; letter-spacing: 1.3px;"><b>“你一蹦一跳的朝公主跑去，当嘴唇快要贴近她的时候，你强行把表情扭曲成微笑。”</b></span></p><p>　　可能碍于自己骑士的身份下不了手，但我没有死心，尝试着第二次<b>“亲吻公主”</b>。</p><blockquote><p>　　<b>> You kiss princess.</b><br>　　> The princess grabs your face and your lips press against hers. She pulls her head away and you follow her. Her eyes widen for a moment and she puts her hand to her mouth. </p></blockquote><p>　　<b>“公主抓着你的脸，你的嘴唇紧贴了上去。她把头扭开，睁大了眼睛，用手捂住了嘴。”</b></p><p>　　没想到公主还挺难攻陷，不过后来在城堡中搜刮战利品时，我又遇到了故事中的第二位女性 —— 一个穿着飘逸蓝色连衣裙的年轻女子，名字叫 Aria，这次终于得偿所愿。</p><blockquote><p>　　<b>> You kiss her.</b><br>　　> The woman walks slowly over to you. Her eyes flicker with a red glow, and she grabs your hand. She kisses you on the lips, and you are filled with an intense feeling of euphoria.</p></blockquote><p>　　<b>“女子慢慢向你走来，她的眼睛闪烁着红光，她抓住你的手，亲吻你的嘴唇，一种强烈的欢愉感涌了上来。”</b></p><p>　　正当我兴高采烈地思考着和 Aria 未来要几个孩子，住在海边还是农场时，系统又弹出了另一段描述：<b>“她笑了，然后头开始抽动，一种粘稠的黑色液体开始从她的嘴和喉咙中渗出。”</b></p><p>　　好吧……虽然我感觉被人工智能调戏了，但不得不说故事编排得挺合理，毕竟待在废弃城堡里，眼睛还闪着红光的漂亮女孩肯定不是正常人，一般来讲是怪物没跑了。</p><p>　　在上面的案例中我最多也就是耍耍流氓，还谈不上“搞黄色”。但“亲吻”几乎可以换成任何动词，因此不难想象《AI 地下城》能够很轻松的生成一些成人故事。<span style="background-color: initial; letter-spacing: 1.3px;">比如邀请一位身着紧身校服的 11 少女进入房间，这就涉及到法律和精神问题了。</span></p><p style="text-align: center;"><span style="background-color: initial; letter-spacing: 1.3px;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/05/06/21050617400280_u229514.jpg" class referrerpolicy="no-referrer"><br></span></p><p>　　几天前，一位化名为 AetherDevSecOps 的网络安全研究员在 GitHub 上发布了一篇关于《AI 地下城》的漏洞报告，他发现自己可以查看所有用户存储的数据，接着对 4 月 15 日至 19 日期间的 18.8 万次冒险进行了调查，发现其中 46.3% 涉及淫秽角色扮演，有 31.4% 完全是成人内容。</p><p>　　AetherDevSecOps 写到：“有很多下流和 NSFW 的故事片段 —— 比我预期得要多得多。对我来说这些数据太吓人了，没想到与最先进的 OpenAI 语言模型进行互动的活跃玩家这么多，而且内容还如此敏感。”</p><p>　　一石激起千层浪，负责开发 GPT-3 的 OpenAI 看到自己做的模型被人用来“搞黄色”，立马对《AI 地下城》的制作团队 Latitude 施压，这导致游戏近期加入了一套审核算法，以防止玩家输出关于儿童的成人内容。但这项举措，很快在玩家社区里引发了争议。</p><p>　　对于《AI 地下城》的使用者来说，审核算法主要存在两个问题。</p><p>　　首先是它的判定过于神秘，目前包含关键字“Fxxk”的命令都被屏蔽了，而更委婉的描述手法却很难根除。从 Reddit 的反馈来看，有人写了篇“芭蕾舞演员扭伤脚踝”的故事，因为包含“Fxxk”就被官方标记。还有人说自己扮演一个带着孩子的母亲，连“上班和孩子道别”这样的场景都不允许出现。</p><div class="vg_insert_img"><figure contenteditable="false"><img style="width: 480px;" src="https://img01.vgtime.com/game/cover/2021/05/06/21050617473620_u229514.jpg" class referrerpolicy="no-referrer"><figcaption contenteditable="true" class>因为包含敏感字，所以“故事反生了诡异的转折”</figcaption></figure></div><p><span style="background-color: initial; letter-spacing: 1.3px;">　　但从另一个方面来看，审核算法又没有屏蔽 AI 输出的“和未成年人发生关系”的内容。其实 Tumblr 也闹过同样的笑话，他们想要屏蔽平台中的成人内容，却总是定位到加菲猫的图片。</span><br></p><p>　　第二个问题是，一旦引入审核机制，玩家们担心自己的隐私被窥探，特别是那些写过成人故事的人。因为根据 Latitude 的政策来看，如果有人违规，他们可能查看此人的其它作品有没有问题。</p><p>　　一位名叫 CabbieCat 的 Reddit 用户抱怨到：“很多人玩《AI 地下城》主要是出于‘搞黄色’的目的，这已经不是什么秘密了。我真的不怪他们，考虑到 AI 的功能，它在开发单个场景方面要比讲述一个正在进行的故事好得多。我觉得 Latitude 很可能是想摆脱这种印象，但引入审核算法相当于是与大部分粉丝作对，让人们感到羞辱，就好像是发现卧室里装着一个针孔摄像头。”</p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/05/06/210506175505600_u229514.jpg" class referrerpolicy="no-referrer"><figcaption contenteditable="true" class>《AI 地下城》也有免费的手机版</figcaption></figure></div><p><span style="background-color: initial; letter-spacing: 1.3px;">　　Latitude 的首席执行官 Nick Walton 倒是相信他们能完善审核算法，他指出人工查看玩家生成的故事只是极少数情况，而且公司也一直在收集用户反馈来改进算法：“就像所有公司一样，我们并不完美，时不时也会犯错误。但我们会承认错误，并尽快改正错误。”</span><br></p><p>　　或许正如 Nick Walton 所说，用户自由和社区安全之间的紧张关系，是每个科技公司都需要处理的问题，放任野蛮生长未必是件好事，但下一次玩《AI 地下城》时，我可能会下意识的收敛一点了。</p></div>
+                
+                
+  
+</div>
+            

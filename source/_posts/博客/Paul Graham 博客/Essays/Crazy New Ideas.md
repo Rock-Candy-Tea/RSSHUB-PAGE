@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=4722'
+headimg: 'https://picsum.photos/400/300?random=6451'
 author: Paul Graham 博客
 comments: false
-date: 2021-05-06 12:01:59
-thumbnail: 'https://picsum.photos/400/300?random=4722'
+date: 2021-05-07 00:02:50
+thumbnail: 'https://picsum.photos/400/300?random=6451'
 ---
 
 <div>   
@@ -60,7 +60,7 @@ will increase proportionally. Some people would be envious if that
 happened, and this potential envy propagates back into a conviction
 that you must be wrong.<br><br>Another reason people dismiss new ideas is that it's an easy way
 to seem sophisticated. When a new idea first emerges, it usually
-seems pretty feeble. It's a mere hatchling. Received wisdom is
+seems pretty feeble. It's a mere hatchling. Received wisdom is a
 full-grown eagle by comparison. So it's easy to launch a devastating
 attack on a new idea, and anyone who does will seem clever to those
 who don't understand this asymmetry.<br><br>This phenonemon is exacerbated by the difference between how those
