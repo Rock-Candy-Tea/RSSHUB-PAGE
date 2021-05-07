@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/68/88cf83cc7d73d7465626edd9e91cbbs5.JPG?v=1620299778428'
 author: 巴哈姆特
 comments: false
-date: 2021-05-07 04:07:35
+date: 2021-05-07 08:03:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/88cf83cc7d73d7465626edd9e91cbbs5.JPG?v=1620299778428'
 ---
 
@@ -117,7 +117,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/88cf83cc7d73d7465626edd9e91cbbs5.
 </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E7%87%83%E7%87%92%E7%9A%84%E9%81%A0%E5%BE%81+%E7%B6%93%E5%85%B8%E7%89%88" target="_blank">魔獸世界：燃燒的遠征 經典版</a>》將於 6 月 2 日全球同步上線，前夕改版預定於 5 月 20 日在台上線。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="14640" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

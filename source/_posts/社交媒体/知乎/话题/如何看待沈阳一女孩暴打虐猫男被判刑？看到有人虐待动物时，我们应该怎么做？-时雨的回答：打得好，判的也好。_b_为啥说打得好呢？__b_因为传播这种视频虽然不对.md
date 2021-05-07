@@ -1,0 +1,18 @@
+
+---
+title: '如何看待沈阳一女孩暴打虐猫男被判刑？看到有人虐待动物时，我们应该怎么做？-时雨的回答：打得好，判的也好。_b_为啥说打得好呢？__b_因为传播这种视频虽然不对...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-d1348008aff1ccc2b882bedcc7cf5787_720w.gif?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 07 May 2021 07:55:50 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-d1348008aff1ccc2b882bedcc7cf5787_720w.gif?source=54b3c3a5'
+---
+
+<div>   
+<strong>如何看待沈阳一女孩暴打虐猫男被判刑？看到有人虐待动物时，我们应该怎么做？</strong><br>时雨的回答<br><p>打得好，判的也好。</p><h2><b>为啥说打得好呢？</b></h2><p>因为传播这种视频虽然不对，大多数情况下都无法可依啊。</p><p>就算有相关条例禁止传播血腥暴力视频。</p><p>但是大多数情况下传播、制作、录制这种东西依旧没有得到应有的惩处。</p><p>那有人对我造成精神污染了怎么办？忍着。</p><p>这不，有人忍不了了，彻底怒了，越线了，犯法了。</p><p>就像之前公交车上有个踹人手的熊孩子，被那个暴躁的成年人揍了一样。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-d1348008aff1ccc2b882bedcc7cf5787_720w.gif?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="208" data-rawheight="201" data-thumbnail="https://pic2.zhimg.com/50/v2-d1348008aff1ccc2b882bedcc7cf5787_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic4.zhimg.com/50/v2-d1348008aff1ccc2b882bedcc7cf5787_720w.gif?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-6f055f5396b31bef84f5e1d5149e32c8_720w.gif?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="208" data-rawheight="201" data-thumbnail="https://pic1.zhimg.com/50/v2-6f055f5396b31bef84f5e1d5149e32c8_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic2.zhimg.com/50/v2-6f055f5396b31bef84f5e1d5149e32c8_720w.gif?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>当初好多人看完这个新闻第一反应就是：</p><p>“你自己的孩子不教育，早晚有一天会被其他人’教育‘”。</p><p>这不，虐猫视频制作者被“教育”了？</p><p>录制、传播这种血腥暴力的视频，就是会对大多数人造成精神污染。</p><p>如果一个行为会对大多数人造成伤害，又不会得到应有的惩处的时候，矛盾就激化了。</p><p>就像为什么有那么多人去毒杀宠物狗呢？</p><p>还不是有一伙低素质养犬人，不栓绳、不捡屎，对大多数人造成了麻烦。</p><p>打人也好，毒杀宠物犬也好，固然不对。</p><p>但是管理的缺失，是造成这类惨剧的根源。</p><h2><b>为啥说判得好呢？</b></h2><p>因为法律就是庄严的。</p><p>以暴制暴就是不对的。</p><p>更何况这位女当事人还挺狠。</p><p>如果说你当面看到有人做这样的事情，奋起制止，制止的途中打了人，多多少少还可以理解。</p><p>你只是在网上看到这类视频，就带着朋友跑去打人，未免也太。。。</p><p>更何况你看这打人的过程：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-5a846c116a05375e7859337616d54b05_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1328" data-rawheight="766" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ceeb88714d45f4398daa8903712d96f1_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-5a846c116a05375e7859337616d54b05_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-5a846c116a05375e7859337616d54b05_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这也忒狠了点，整个就一黑社会啊。</p><p>虽然我觉得，虐待动物者早晚会受到应有的惩罚。</p><p>但是还轮不到你来做审判者吧。</p><p>你可以道义上谴责他，向公安机关举报他。</p><p>甚至坏一点，你可以四处说这个事，把他的名声搞臭，让他社会性死亡。</p><p>但是你这直接打人，就触犯了法律。</p><p>最简单的道理：“杀人犯就算罪大恶极，你杀杀人犯，你也算杀人。”</p><p>法官的判决没有任何毛病。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-a759f931233aff130666b3bc6e21fa0f_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="700" data-rawheight="709" data-default-watermark-src="https://pic1.zhimg.com/50/v2-6791ea3b46a8fa7424544e52b275659b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-a759f931233aff130666b3bc6e21fa0f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-a759f931233aff130666b3bc6e21fa0f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p><p></p><p></p>  
+</div>
+            
