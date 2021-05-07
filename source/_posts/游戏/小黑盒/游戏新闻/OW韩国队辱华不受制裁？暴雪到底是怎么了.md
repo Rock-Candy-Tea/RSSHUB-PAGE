@@ -1,0 +1,18 @@
+
+---
+title: 'OW韩国队辱华不受制裁？暴雪到底是怎么了'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/871805100443892034d7ca7e2f13382c/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 07 May 2021 19:57:02 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/871805100443892034d7ca7e2f13382c/thumb.png'
+---
+
+<div>   
+<p><img class="lazy" data-height="399" src="https://cdn.max-c.com/heybox/dailynews/img/871805100443892034d7ca7e2f13382c/thumb.png" data-width="399" referrerpolicy="no-referrer"></p><p>鲸乐丨文</p><blockquote><p>在OWL联赛直播中几乎所有的弹幕都在说“首尔王朝队滚出去”，“取关”，“拿出点骨气来”。</p></blockquote><p>类似这些话语，而这些事的起因是OWL职业解说木子，就之前首尔队一位队员辱华事件做出抵制被禁言。</p><p>这也让观看直播的玩家们再也坐不住，纷纷在弹幕上留下力挺木子和抵制首尔队的言论。</p><p>不仅如此玩家还发现这一切的背后是暴雪对这件事情的不重视，才导致这位首尔队员如此膨胀。</p><p><img class="lazy" data-height="227" src="https://cdn.max-c.com/heybox/dailynews/img/bb64b19d24a100e37c22cdd3289fd5df/thumb.png" data-width="1080" referrerpolicy="no-referrer"></p><p>这也是导致玩家如此愤怒的原因，而昨天木子被禁言也变成了压垮这件事的最后一根稻草。</p><p>在一个月前首尔队输出选手cbob在Twitch与粉丝们聊天时，说到自己在斗鱼直播时的一些感受。</p><p>他表示在斗鱼直播感觉很不舒服，而且在随后还公然谈论起关于我国领土问题的个人意见。</p><p>例如最常见的香港和台湾问题，不仅如此还公然发表对中国领土分裂的言论，还在话题最后说了一句“想要赚中国人的钱，就要做一条狗去讨好他们”的言论。</p><p>这些话语一出引起了不小的国内玩家的注意，并引起了不小的舆论。</p><p><img class="lazy" data-height="311" src="https://cdn.max-c.com/heybox/dailynews/img/091fe5c1d48491432361566c05d14fa2/thumb.png" data-width="554" referrerpolicy="no-referrer"></p><p>但很快，首尔王朝队在第一时间找到了这名选手，这位选手也很快在ins上面发表了一篇关于对这件事情的道歉其中还附上了一份手写的道歉信，也表示不会参加后续的联赛。</p><p>玩家们表示这就完了吗?</p><p><img class="lazy" data-height="1250" src="https://cdn.max-c.com/heybox/dailynews/img/8688df75ed7305d49644e5b36d1d4b65/thumb.png" data-width="828" referrerpolicy="no-referrer"></p><p>那暴雪对这件事的看法和惩罚呢？</p><p>甚至到现在暴雪都没有对这件事有任何回应，这也让玩家对暴雪的态度特别不满。</p><p>暴雪一直是这样的吗？不是的，至少以往不是。</p><p>其实早在这次之前暴雪公司的另一款游戏炉石传说比赛中，一位中国香港选手曾公然发表过港独言论 ，同时造成了极其严重的后果，那时暴雪对其的行为更是严查严打第一时间对这名选手进行了永久封禁。</p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/b92148fb841a531db1c7040f28695253/thumb.png" data-width="1080" referrerpolicy="no-referrer"></p><p>在此之后尽管在国外还是有一些小人对中国和暴雪进行偏激的抨击，但暴雪的也没有动摇自己的立场，这也让暴雪获得了国内玩家的一致好评。</p><p>可是相较于之前暴雪的行为为什么放在现在就做不到了呢？</p><p>玩家表示可能是在近几年守望先锋这款游戏在韩国比其他国家的收入更高，一度成为守望先锋的主要收入来源从而改变了暴雪的看法。</p><p><img class="lazy" data-height="741" src="https://cdn.max-c.com/heybox/dailynews/img/31ef77573277f45e5d1f1d0b125d1ff6/thumb.png" data-width="828" referrerpolicy="no-referrer"></p><p>毋庸置疑，暴雪公司对守望先锋的一系列迷人的操作让这款游戏在国内市场远不如之前的热度，这也使得暴雪对国内玩家越来越忽视。</p><p><img class="lazy" data-height="799" src="https://cdn.max-c.com/heybox/dailynews/img/a36f44e545692b2e59f756016d32bfc3/thumb.png" data-width="799" referrerpolicy="no-referrer"></p><p>但其主要原因更多的还是近两年来暴雪公司的内部人事调动以及公司对企业形象的改变，像玩家知道的OW游戏制作人jeff的离职就是其中之一，玩家们也表示如果jeff仍在任的话对于这件事一定会给出一个让大家都满意的结果。</p><p>可惜时过境迁物是人非，暴雪这两年的改变让这家公司的初心也进而发生了一些微妙的变化，也会因为利益而去做决定。</p><p><img class="lazy" data-height="240" src="https://cdn.max-c.com/heybox/dailynews/img/0d6a454896b64594aa67c1fcc95dbd30/thumb.png" data-width="1080" referrerpolicy="no-referrer"></p><p>国内玩家在抵制的同时也希望暴雪能尽快给出玩家们想要的答案而不是一直沉默，沉默只会失去自己在玩家心中的地位。</p><p>在那次事件发生后国内四家OW战队也是齐心抵制首尔王朝队，其态度十分明确已经达到了有你没我的地步，拒绝与首尔战队一同参加关于OW的任何活动。</p><p>玩家们也看到了他们愤愤不平的心情表示将不会观看OWL联赛直播一同抵制受到的不公平对待。</p><p>值得庆幸的是在上周成都猎人队以3:1的大优势战胜了首尔王朝队，可谓是大快人心，让首尔队看到国内玩家也不是好欺负的。</p><p><img class="lazy" data-height="959" src="https://cdn.max-c.com/heybox/dailynews/img/e95e9d79926aae66ae226cdb343007ea/thumb.png" data-width="1080" referrerpolicy="no-referrer"></p><p>这件事的发生让玩家和国人都感受到生气，直至目前国外仍存在很多不明事理的玩家支持着cbob的言论，完全没有认识到事情的严重性。</p><p>所以玩家才会齐心协力共同反对不公平的声音，也希望暴雪能对这件事做出一些回应，将这件事彻查到底，也希望暴雪能像以前一样一如既往的保持着尊重中国和国内玩家。</p>  
+</div>
+            

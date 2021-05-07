@@ -1,0 +1,20 @@
+
+---
+title: '@mirakurun94_ "
+パフェーよりもラーメン食え
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/035/852/878/original/ab3a58e1dee65c90.jpeg'
+author: Mastodon
+comments: false
+date: Fri, 07 May 2021 11:54:38 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/035/852/878/original/ab3a58e1dee65c90.jpeg'
+---
+
+<div>   
+<hr><p>パフェーよりもラーメン食え</p><br><img src="https://img.pawoo.net/media_attachments/files/035/852/878/original/ab3a58e1dee65c90.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
