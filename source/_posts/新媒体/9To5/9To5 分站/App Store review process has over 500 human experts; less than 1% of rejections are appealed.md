@@ -1,0 +1,56 @@
+
+---
+title: 'App Store review process has over 500 human experts; less than 1% of rejections are appealed'
+categories: 
+ - 新媒体
+ - 9To5
+ - 9To5 分站
+headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app-store-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+author: 9To5
+comments: false
+date: Fri, 07 May 2021 17:30:12 GMT
+thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app-store-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+---
+
+<div>   
+<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app-store-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<p>As the <em>Epic Games v. Apple</em> court case goes forward, we have been learning more details about internal discussions within each company about their business models and more. With the testimony of Trystan Kosmynka, one of the heads of the App Store, more information about the App Store review process has been revealed.</p>
+<p><span id="more-719303"></span>
+</p>
+<p>In a new document filed with the trial, Kosmynka detailed that about 5 million apps are submitted to the App Store every year and that the app rejection rate is less than 40%. In 2019, 4,808,685 apps were submitted for the App Store review process, and 36% of them — or 1,747,278 — were rejected.</p>
+<p>According to Kosmynka, of these rejected apps, about 215,000 infringed Apple’s privacy guidelines in some way. Each app submitted to the App Store first goes through static and dynamic analysis to detect whether the app violates any App Store rules or uses private APIs. There’s also a step in the process to check if the app is similar to another one available in the App Store in order to avoid scams or copycats.</p>
+<p>Then there’s the human review process, which has over 500 people working to review about 100,000 apps every week. As shown in the images below, they have access to multiple Apple devices to test the apps.</p>
+<figure class="wp-block-gallery alignwide columns-2 is-cropped">
+<ul data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/05\/07\/app-store-review-process-has-over-500-human-experts-less-than-1-of-rejections-are-appealed\/"&#125;" class="blocks-gallery-grid">
+<li class="blocks-gallery-item">
+<figure><a href="https://9to5mac.com/?attachment_id=719313"><img data-attachment-id="719313" data-permalink="https://9to5mac.com/2021/05/07/app-store-review-process-has-over-500-human-experts-less-than-1-of-rejections-are-appealed/app-store-review-process-1/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?quality=82&strip=all" data-orig-size="2146,1658" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="App-Store-review-process-1" data-image-description data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?quality=82&strip=all&w=655" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?quality=82&strip=all&w=1000" title="App Store review process has over 500 human experts; less than 1% of rejections are appealed" loading="lazy" width="2146" height="1658" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?quality=82&strip=all" alt data-id="719313" data-full-url="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?quality=82&strip=all" data-link="https://9to5mac.com/?attachment_id=719313" class="wp-image-719313" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg 2146w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=155,120 155w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=655,506 655w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=768,593 768w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=1024,791 1024w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=1536,1187 1536w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=2048,1582 2048w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=350,270 350w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=1294,1000 1294w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-1.jpg?resize=150,116 150w" sizes="(max-width: 2146px) 100vw, 2146px" referrerpolicy="no-referrer"></a></figure>
+</li>
+<li class="blocks-gallery-item">
+<figure><a href="https://9to5mac.com/?attachment_id=719314"><img data-attachment-id="719314" data-permalink="https://9to5mac.com/2021/05/07/app-store-review-process-has-over-500-human-experts-less-than-1-of-rejections-are-appealed/app-store-review-process-2/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?quality=82&strip=all" data-orig-size="2146,1654" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="App-Store-review-process-2" data-image-description data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?quality=82&strip=all&w=655" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?quality=82&strip=all&w=1000" title="App Store review process has over 500 human experts; less than 1% of rejections are appealed" loading="lazy" width="2146" height="1654" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?quality=82&strip=all&w=1000" alt data-id="719314" data-full-url="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?quality=82&strip=all" data-link="https://9to5mac.com/?attachment_id=719314" class="wp-image-719314" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg 2146w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=155,119 155w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=655,505 655w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=768,592 768w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=1024,789 1024w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=1536,1184 1536w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=2048,1578 2048w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=350,270 350w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=1297,1000 1297w, https://9to5mac.com/wp-content/uploads/sites/6/2021/05/App-Store-review-process-2.jpg?resize=150,116 150w" sizes="(max-width: 2146px) 100vw, 2146px" referrerpolicy="no-referrer"></a></figure>
+</li>
+</ul>
+</figure>
+<p>If an app is rejected, Apple notifies the developer about the reasons why the app was not approved for the App Store. The developer can either resubmit the app after addressing the errors pointed out by Apple or contact the company to request an appeal of the rejection. However, Kosmynka says that less than 1% of developers appeal a rejection.</p>
+<p>Apple has been widely criticized for how it handles third-party apps on iOS, as the company is accused of using its power with the App Store to its own advantage, hurting potential competitors. While Apple says that it is concerned about privacy and security, one of Epic’s arguments is that the company fails to review every app submitted to the store, as there are scam apps available there.</p>
+<p>Emails made public during the testimony of App Store VP Matt Fischer revealed that Apple offers access to special APIs to some major developers and companies, including Hulu. At the same time, Epic is having a hard time trying to prove in court that the App Store’s in-app purchases system is an abuse of monopolistic power, as described by a recent analysis of the case.</p>
+<figure class="wp-block-embed alignwide is-type-rich is-provider-twitter wp-block-embed-twitter">
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/05\/07\/app-store-review-process-has-over-500-human-experts-less-than-1-of-rejections-are-appealed\/"&#125;" class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-dnt="true">
+<p lang="en" dir="ltr">The internals of App Review’s testing — quite fascinating! It seems like they create a trust score of your app based on a list of binary & metadata criteria, and then review what’s changed between versions <a href="https://t.co/l8hNZ8X0Do">pic.twitter.com/l8hNZ8X0Do</a></p>
+<p>— Steve Troughton-Smith (@stroughtonsmith) <a href="https://twitter.com/stroughtonsmith/status/1390768352944136196?ref_src=twsrc%5Etfw">May 7, 2021</a></p></blockquote>
+<p>
+</p></div>
+</figure>
+<h2 id="h-read-also">Read also:</h2>
+<ul>
+<li><a href="https://9to5mac.com/2021/05/07/epic-games-case/">Apple likely to win Epic Games case, but could still make concessions to developers</a></li>
+<li><a href="https://9to5mac.com/2021/05/06/app-store-vp-testifies-in-epic-trial-as-emails-reveal-special-api-access-for-hulu-and-other-devs/">App Store VP testifies in Epic trial as emails reveal special API access for Hulu and other devs</a></li>
+<li><a href="https://9to5mac.com/2021/05/05/apple-banned-shadow-app-after-microsoft-used-it-as-an-example-to-get-xcloud-for-ios-approved/">Apple banned Shadow app after Microsoft used it as an example to get xCloud for iOS approved</a></li>
+<li><a href="https://9to5mac.com/2021/05/05/netflix-apple-in-app-purchase/">Emails reveal Apple’s attempts to stop Netflix from dropping App Store In-App Purchase support</a></li>
+<li><a href="https://9to5mac.com/2021/05/04/epic-ceo-apple-offer-testimony/">Epic CEO says he would have taken a special App Store deal if Apple had offered</a></li>
+</ul>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3xFW3Wh"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/02/Kandji-Native-Banner-750x150.-@2.png?w=1000" alt class="wp-image-695039" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
+  
+</div>
+            
