@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202104/23/8764da/75f04204caff7174.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-05-08 04:03:38
+date: 2021-05-08 08:02:26
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202104/23/8764da/75f04204caff7174.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.05.08                        <br>【hagaday】欧式白色婴儿床<br>                            数量 ：5<br>                            实际价格 ：859元<br>                            活动申请中<br>                            381人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202104/23/8764da/75f04204caff7174.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.05.08                        <br>【hagaday】欧式白色婴儿床<br>                            数量 ：5<br>                            实际价格 ：859元<br>                            名单确认中<br>                            400人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202104/23/8764da/75f04204caff7174.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             

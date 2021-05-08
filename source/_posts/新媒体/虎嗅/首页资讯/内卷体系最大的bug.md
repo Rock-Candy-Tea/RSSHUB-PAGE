@@ -1,0 +1,18 @@
+
+---
+title: '内卷体系最大的bug'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/cover/202105/08/151056583474.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg'
+author: 虎嗅
+comments: false
+date: Sat, 08 May 2021 07:43:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/cover/202105/08/151056583474.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg'
+---
+
+<div>   
+<img src="https://img.huxiucdn.com/article/cover/202105/08/151056583474.jpg?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/jpg" alt="内卷体系最大的bug" data-v-30cd1b88 referrerpolicy="no-referrer"><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/O7EIlT3UU_CkQbsDhnJU6g" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">人间三角（ID：dongyazixun01）</span></a><span class="text-remarks">，作者：西坡，头图来自：视觉中国</span></p><p>“真的卷不动了”“这样卷下去，什么时候是头”……类似的声音出现频率越来越高。</p><p><strong>天下苦内卷久矣。</strong>以至于腾讯公关总监张军青年节说了一句“青年们正在睡觉 ”，就被连着骂了好几天。</p><p>与此同时，七普数据迟迟未能出笼，引发坊间关于“中国人口下降”的忧虑。同样出于对人口下降的担心，这两年各路专家学者建言“放开三胎”“鼓励生育”。</p><p>难道就没人意识到，解决这两个问题的方式是互相冲突的吗？</p><p><strong>中国社会之所以内卷，归根结底是因为人的价格相对于资本的价格太低，“你不干有的是人干”。</strong></p><p>人口下降，不正是釜底抽薪的解决方案吗？将来人少房多，房价自然降下来，工资自然升上去。</p><p>这是有历史经验的，无论中国古代的王朝初期还是西方的黑死病过后，都会有一个工资上涨的过程。</p><p>我是不可知论者，但读史的时候常常有种感觉，仿佛历史深处有一股力量，它在引导着人类朝一个目的地进发。</p><p>在某个历史阶段看似无解的问题，闯过某个关口，就柳暗花明了。回头来看，原来那个体系早就摇摇欲坠了。<strong>可是身在庐山之中的时候，大家都觉得系统仿佛停滞了。</strong></p><p>比如说，在改革开放之前，绝大多数中国人都想不到中国会走上市场经济。市场经济这条路不是谁规划出来的，而是系统经过反复的试错选择出来的。大家过后一看，当年搞粮票、布票那一套简直太傻了。</p><p>再比如说，苏联解体之前，美国人已经接受它作为“千年帝国”一样的长期战略竞争对手了。没人想到它说崩就崩了。但是历史学家回头一研究，发现苏联早就病入膏肓了。</p><p>喜欢读历史的人，都不会焦虑，因为他们知道，历史从不会终结。</p><p><strong>系统比你想象的更强大，也比你想象的更聪明。系统一直在进化。</strong></p><p>与互联网公司的系统相比，人类社会是更广阔无边的大系统。</p><p>打个比方，外卖小哥要在美团这个系统里竞争生存，美团要在中国互联网产业这个更大的系统里竞争生存，互联网产业则要在中国社会这个超级系统里竞争生存。</p><p><strong>层层嵌套，层层制约。大系统在淘汰僵化的、过时的小系统。</strong></p><p>近日，一组疫情期间的就业数据引发热议。某平台公布数据，疫情期间两个月内新增骑手58万人，其中40%来自制造业工人。</p><p>有人又开始杞人忧天：“中国的制造业怎么办？”这是何不食肉糜的发问方式。正确的问法是：为什么中国工厂留不住人？工资到位吗？管理人性吗？有上升空间吗？</p><p>如果中国工厂能解决这些问题，劳动者是会反向流动的。事实上，外卖网约车这些平台都在吃“血汗工厂”的红利，因为太多工厂不把工人当作长期的人力资源来培养与维护，所以平台才会拥有源源不断的劳动力供给。</p><p><strong>外卖网约车平台不是有多好，而是相对更不坏。</strong></p><p><strong>但是“源源不断的劳动力”是一个幻觉。</strong>原来的农村公社有这个幻觉，后来的沿海制造业工厂有这个幻觉，现在互联网公司有这个幻觉。随着中国社会趋于老龄化、少子化，很快所有公司就不会再有这个幻觉。</p><p>雇主敢对求职者说“你不干有人干”的时间窗口不会太长了，劳动市场会进入一个更加平等的阶段。但这是对有能力的求职者说的，摸鱼的人等不到春天。</p><p>用王兴的话讲，商业文明是一场无限战争。</p><p>王兴是个聪明人，是因为他一直在以系统的、进化的视角看到商业竞争，从来没有“终局之战”的幻觉。</p><p>前几年的阿里是有“历史终结”幻觉的，现在是幻觉破灭之后的清醒时刻。</p><p><strong>事实上，不光阿里要清醒，整个互联网产业都该清醒了。</strong></p><p>“强化反垄断和防止资本无序扩张”。去年底这句话的出笼，意味着中国互联网正式进入“反垄断时代”。对中国经济来说，互联网不再是一支新兴力量，而成了一支常规力量。</p><p>互联网不能再像小孩一样，卖个萌就能要糖吃。而是必须像个成年人一样，负起责任了。不光是对消费者负责任，也要对社会负起更大的责任。比如996工作制的恶性带头作用，比如算法的不透明、不对称。</p><p>我认为这不是一个零和博弈，而是历史在曲折中前进。内卷体系是不可持续的，它每天都在制造自己的敌人。</p><p>逼得年轻人不敢结婚生孩子，可以说是东亚内卷体系最大的bug了。有人为人口减少忧心忡忡，我却认为，这是系统在想办法帮助我们所有人。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202105/08/145120438026.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" data-w="1000" data-h="667" src="https://img.huxiucdn.com/article/content/202105/08/145120438026.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" referrerpolicy="no-referrer"></p><p label="图片备注" class="text-img-note">图｜杨曦</p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/O7EIlT3UU_CkQbsDhnJU6g" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">人间三角（ID：dongyazixun01）</span></a><span class="text-remarks">，作者：西坡</span></p>  
+</div>
+            
