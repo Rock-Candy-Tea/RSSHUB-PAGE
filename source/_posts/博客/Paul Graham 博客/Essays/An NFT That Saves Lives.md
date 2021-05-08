@@ -5,39 +5,54 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=9848'
+headimg: 'https://sep.yimg.com/ca/I/paulgraham_2271_3232'
 author: Paul Graham 博客
 comments: false
-date: 2021-05-08 08:01:38
-thumbnail: 'https://picsum.photos/400/300?random=9848'
+date: 2021-05-08 12:01:47
+thumbnail: 'https://sep.yimg.com/ca/I/paulgraham_2271_3232'
 ---
 
 <div>   
-<a href="https://www.noorahealth.org/">Noora Health</a>, a nonprofit I've 
-supported for years, just launched
-a new NFT. It has a dramatic name, <a href="http://bit.ly/NooraNFT"><u>Save Thousands of Lives</u></a>,
-because that's what the proceeds will do.<br><br>Noora has been saving lives for 7 years. They run programs in
-hospitals in South Asia to teach new mothers how to take care of
-their babies once they get home. They're in 165 hospitals now. And
-because they know the numbers before and after they start at a new
-hospital, they can measure the impact they have. It is massive.
-For every 1000 live births, they save 9 babies.<br><br>This number comes from a <a href="http://bit.ly/NFT-research"><u>study</u></a>
-of 133,733 families at 28 different
-hospitals that Noora conducted in collaboration with the Better
-Birth team at Ariadne Labs, a joint center for health systems
-innovation at Brigham and Women�s Hospital and Harvard T.H. Chan
-School of Public Health.<br><br>Noora is so effective that even if you measure their costs in the
-most conservative way, by dividing their entire budget by the number
-of lives saved, the cost of saving a life is the lowest I've seen.
-$1,235.<br><br>For this NFT, they're going to issue a public report tracking how
-this specific tranche of money is spent, and estimating the number
-of lives saved as a result.<br><br>NFTs are a new territory, and this way of using them is especially
-new, but I'm excited about its potential. And I'm excited to see
-what happens with this particular auction, because unlike an NFT
-representing something that has already happened,
-this NFT gets better as the price gets higher.<br><br>The reserve price was about $2.5 million, because that's what it
-takes for the name to be accurate: that's what it costs to save
-2000 lives. But the higher the price of this NFT goes, the more
-lives will be saved. What a sentence to be able to write.<br><br>  
+<img src="https://sep.yimg.com/ca/I/paulgraham_2271_3232" width="410" height="45" border="0" hspace="0" vspace="0" referrerpolicy="no-referrer"><br><br><img src="https://sep.yimg.com/ay/paulgraham/index-1.gif" width="410" height="308" border="0" hspace="0" vspace="0" referrerpolicy="no-referrer"><br><br><table border="0" cellspacing="0" cellpadding="0" width="435"><tbody><tr><td><font size="2" face="verdana"><table width="410" cellspacing="0">
+<tbody><tr><td bgcolor="#ffcc33"><img src="http://www.virtumundo.com/images/spacer.gif" height="15" width="1" referrerpolicy="no-referrer"><font size="2">
+<b>New:</b> 
+<a href="http://www.paulgraham.com/newideas.html">Crazy New Ideas</a> | 
+<a href="http://www.paulgraham.com/nft.html">Save Lives</a>
+</font>
+<br><img src="http://www.virtumundo.com/images/spacer.gif" height="5" width="1" referrerpolicy="no-referrer"></td></tr>
+</tbody></table>
+<table width="410" cellspacing="0">
+<tbody><tr><td bgcolor="#ff9922"><img src="http://www.virtumundo.com/images/spacer.gif" height="15" width="1" referrerpolicy="no-referrer"><font size="2">
+<b>Want to start a startup?</b> Get funded by <a href="http://ycombinator.com/apply.html">Y Combinator</a>.
+</font>
+<br><img src="http://www.virtumundo.com/images/spacer.gif" height="5" width="1" referrerpolicy="no-referrer"></td></tr>
+</tbody></table>
+<!--
+<table width=410 cellpadding=0 cellspacing=0>
+<tr><td bgcolor=#ffcc33><img src="http://ycombinator.com/images/s.gif"
+height=15 width=1><font size=2>
+<b><center><a href="http://arclanguage.org/install">New Arc Out</a><b></center>
+</font>
+<br><img src="http://ycombinator.com/images/s.gif" height=5 width=1></td
+></tr>
+-->
+<!-- "Paul Graham, like nobody else, tells us what it means to be a hacker."  - Matthias Felleisen--><br><br>
+<!-- ffdd00 a7e4e2 ffcc33 ff9922, dcd7c8,ffcc70,ff7070, ccdd70, cad4dd, cad4ef, efea99, aaddcc, eeee88 eeee99 ccdcef
+ffeebb,  fffbcc, ffac74, d9e4ff ccccff, ffcc50, wufoo bc3c1f, acd8b4, eebb50-->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/2002/feeds/pgessays.rss"></font></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="435"><tbody><tr><td><font size="2" face="verdana"><br>
+<font size="1">
+<font color="#cccccc">
+© mmxxi pg</font> <!--
+<font color=#777777><a href="http://snipshot.com">
+<font color=#7777dd>photos edited with snipshot</font></a>.
+</font></font> -->
+<!--
+<img src="https://sep.yimg.com/ty/cdn/paulgraham/obama.jpg?t=1620302557&" height=30 width=90>
+-->
+<!--
+<a href="http://www.xobni.com/?friend=3D2061" target="_blank"><img src="http://www.xobni.com/images/banners/formyinbox_ffffff.gif" alt="Xobni outlook add-in for your inbox" border=0/></a>
+-->
+<!--
+<a href="http://technorati.com/claim/h9c4r84rfd" rel="me"><font color=#ffffff>Technorati Profile</font></a> --></font></font></td></tr></tbody></table><br>  
 </div>
             

@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=6736'
+headimg: 'https://picsum.photos/400/300?random=6415'
 author: Paul Graham 博客
 comments: false
-date: 2021-05-08 08:01:38
-thumbnail: 'https://picsum.photos/400/300?random=6736'
+date: 2021-05-08 12:01:47
+thumbnail: 'https://picsum.photos/400/300?random=6415'
 ---
 
 <div>   
@@ -24,7 +24,8 @@ dismissed. But not when they're proposed by reasonable domain
 experts. If the person proposing the idea is reasonable, then they
 know how implausible it sounds. And yet they're proposing it anyway.
 That suggests they know something you don't. And if they have deep
-domain expertise, that's probably the source of it.<br><br>Such ideas are not merely unsafe to dismiss, but disproportionately
+domain expertise, that's probably the source of it.
+<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f1n"><font color="#dddddd">1</font></a>]</font><br><br>Such ideas are not merely unsafe to dismiss, but disproportionately
 likely to be interesting. When the average person proposes an
 implausible-sounding idea, its implausibility is evidence of their
 incompetence. But when a reasonable domain expert does it, the
@@ -34,7 +35,7 @@ have the biggest effect. So if you can eliminate the theory that
 the person proposing an implausible-sounding idea is incompetent,
 its implausibility switches from evidence that it's boring to
 evidence that it's exciting.
-<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f1n"><font color="#dddddd">1</font></a>]</font><br><br>Such ideas are not guaranteed to work. But they don't have to be.
+<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f2n"><font color="#dddddd">2</font></a>]</font><br><br>Such ideas are not guaranteed to work. But they don't have to be.
 They just have to be sufficiently good bets — to have sufficiently
 high expected value. And I think on average they do. I think if you
 bet on the entire set of implausible-sounding ideas proposed by
@@ -44,7 +45,7 @@ too much in the grip of the current paradigm. Even the people who
 have the new ideas undervalue them initially. Which means that
 before they reach the stage of proposing them publicly, they've
 already subjected them to an excessively strict filter.
-<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f2n"><font color="#dddddd">2</font></a>]</font><br><br>The wise response to such an idea is not to make statements, but
+<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f3n"><font color="#dddddd">3</font></a>]</font><br><br>The wise response to such an idea is not to make statements, but
 to ask questions, because there's a real mystery here. Why has this
 smart and reasonable person proposed an idea that seems so wrong?
 Are they mistaken, or are you? One of you has to be. If you're the
@@ -63,7 +64,7 @@ to seem sophisticated. When a new idea first emerges, it usually
 seems pretty feeble. It's a mere hatchling. Received wisdom is a
 full-grown eagle by comparison. So it's easy to launch a devastating
 attack on a new idea, and anyone who does will seem clever to those
-who don't understand this asymmetry.<br><br>This phenonemon is exacerbated by the difference between how those
+who don't understand this asymmetry.<br><br>This phenomenon is exacerbated by the difference between how those
 working on new ideas and those attacking them are rewarded. The
 rewards for working on new ideas are weighted by the value of the
 outcome. So it's worth working on something that only has a 10%
@@ -83,7 +84,7 @@ Popping out of the current paradigm is something only a few people
 can do. And even they usually have to suppress their intuitions at
 first, like a pilot flying through cloud who has to trust his
 instruments over his sense of balance.
-<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f3n"><font color="#dddddd">3</font></a>]</font><br><br>Paradigms don't just define our present thinking. They also vacuum
+<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f4n"><font color="#dddddd">4</font></a>]</font><br><br>Paradigms don't just define our present thinking. They also vacuum
 up the trail of crumbs that led to them, making our standards for
 new ideas impossibly high. The current paradigm seems so perfect
 to us, its offspring, that we imagine it must have been accepted
@@ -93,7 +94,7 @@ soon as Copernicus proposed it. Far, in fact, from it. Copernicus
 published the heliocentric model in 1532, but it wasn't till the
 mid seventeenth century that the balance of scientific opinion
 shifted in its favor.
-<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f4n"><font color="#dddddd">4</font></a>]</font><br><br>Few understand how feeble new ideas look when they first appear.
+<font color="#dddddd">[<a href="http://www.paulgraham.com/newideas.html#f5n"><font color="#dddddd">5</font></a>]</font><br><br>Few understand how feeble new ideas look when they first appear.
 So if you want to have new ideas yourself, one of the most valuable
 things you can do is to learn what they look like when they're born.
 Read about how new ideas happened, and try to get yourself into the
@@ -106,6 +107,8 @@ such people, but encourage them. Having new ideas is a lonely
 business. Only those who've tried it know how lonely. These people
 need your help. And if you help them, you'll probably learn something
 in the process.<br><br><br><br><br><br><br><br><br><br><b>Notes</b><br><br>[<a name="f1n" href="http://www.paulgraham.com/undefined"><font color="#000000">1</font></a>]
+This domain expertise could be in another field. Indeed,
+such crossovers tend to be particularly promising.<br><br>[<a name="f2n" href="http://www.paulgraham.com/undefined"><font color="#000000">2</font></a>]
 I'm not claiming this principle extends much beyond math,
 engineering, and the hard sciences. In politics, for example,
 crazy-sounding ideas generally are as bad as they sound. Though
@@ -113,16 +116,16 @@ arguably this is not an exception, because the people who propose
 them are not in fact domain experts; politicians are domain experts
 in political tactics, like how to get elected and how to get
 legislation passed, but not in the world that policy acts upon.
-Perhaps no one could be.<br><br>[<a name="f2n" href="http://www.paulgraham.com/undefined"><font color="#000000">2</font></a>]
+Perhaps no one could be.<br><br>[<a name="f3n" href="http://www.paulgraham.com/undefined"><font color="#000000">3</font></a>]
 This sense of "paradigm" was defined by Thomas Kuhn in his
 <i>Structure of Scientific Revolutions</i>, but I also recommend his
 <i>Copernican Revolution</i>, where you can see him at work developing the
-idea.<br><br>[<a name="f3n" href="http://www.paulgraham.com/undefined"><font color="#000000">3</font></a>]
+idea.<br><br>[<a name="f4n" href="http://www.paulgraham.com/undefined"><font color="#000000">4</font></a>]
 This is one reason people with a touch of Asperger's may have
 an advantage in discovering new ideas. They're always flying on
-instruments.<br><br>[<a name="f4n" href="http://www.paulgraham.com/undefined"><font color="#000000">4</font></a>]
+instruments.<br><br>[<a name="f5n" href="http://www.paulgraham.com/undefined"><font color="#000000">5</font></a>]
 Hall, Rupert. <i>From Galileo to Newton.</i> Collins, 1963. This
 book is particularly good at getting into contemporaries' heads.<br><br><br><br><b>Thanks</b> to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel
-Gackle, and Jessica Livingston for reading drafts of this.<br><br>  
+Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.<br><br>  
 </div>
             
