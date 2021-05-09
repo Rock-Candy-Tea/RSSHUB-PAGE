@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=7756'
+headimg: 'https://picsum.photos/400/300?random=9729'
 author: 掘金
 comments: false
 date: Sat, 08 May 2021 03:00:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7756'
+thumbnail: 'https://picsum.photos/400/300?random=9729'
 ---
 
 <div>   
