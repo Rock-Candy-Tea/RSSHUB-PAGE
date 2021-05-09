@@ -1,0 +1,81 @@
+
+---
+title: '对比 iOS 14.5 最强更新功能，Android 系统做得怎么样？'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20210509/v2_4d4c6f1033fc4e5499ff87a5c673fb57_img_000'
+author: 36kr
+comments: false
+date: Sun, 09 May 2021 07:30:11 GMT
+thumbnail: 'https://img.36krcdn.com/20210509/v2_4d4c6f1033fc4e5499ff87a5c673fb57_img_000'
+---
+
+<div>   
+<p>编者按：本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/s/i0jUIEtopnSUCDDtkNREFA">“爱范儿”（ID:ifanr）</a>，作者：杜沅傧，36氪经授权发布。</p> 
+<p>谈及 iOS 和 Android 系统如何处理「个人数据」，也就是数据隐私之前，我们先看看一个数据和一个趋势。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,602" src="https://img.36krcdn.com/20210509/v2_4d4c6f1033fc4e5499ff87a5c673fb57_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">iOS 14 开始，保护「隐私」成为一个大功能提升。图片来自：YouTube </p> 
+<p>苹果在四月底推送的 iOS 14.5，它带有更严格的应用广告跟踪透明度功能（App Tracking Transparency，简称 ATT），可让用户可以关闭广告追踪，从而做到一定程度的个人隐私数据保护。 </p> 
+<p>美国一家分析公司 Flurry 跟踪了 iOS 14.5 推送之后，允许跟踪和「要求不跟踪」的 iPhone 用户数量，根据 250 万的每日移动活跃用户抽样分析，在美国大约只有 4% 的用户允许应用获取 IDFA（广告标识符）并允许跟踪。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,655" src="https://img.36krcdn.com/20210509/v2_1ac8d4bc0b734e5bac9af3bb8c431838_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">Flurry 统计的美国拒绝广告跟踪比例。图片来自：Flurry </p> 
+<p>当把这个范围扩展到全球，在 530 万用户的样本中，这个比例上升到了 12%，但依旧有 88% 的用户禁用了 App 跟踪，差距依然巨大。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1024,568" src="https://img.36krcdn.com/20210509/v2_9fc4dc9da65141d8b19a1ccc0bb540b0_img_000" referrerpolicy="no-referrer"></p> 
+<p>在获取互联网发展带来的便利之外，我们也愈发关注隐私数据滥用的问题。此前，这些隐私数据「默认状态」下是与一些大公司共享，它们会通过这些收集来的数据进行获利，我们只能「拱手相让」。 </p> 
+<p>iOS 14.5 ATT 的出现，是给了一个隐私数据开关，也是在隐私问题上，给了用户一个主动权。接近 90% 的用户选择不追踪也算是对大公司们长期隐私数据压榨的一个反击。 </p> 
+<h3><strong>Google：我 Android 跟了 </strong></h3> 
+<p>在 Flurry 公布这个数据的同时，Google 也在开发者 Blog 中表示将会跟随 iOS 14.5 的 ATT 功能，为 Android 系统推出「隐私标签」的功能，不过这个功能正式上线最快也要到 2022 年第二季度。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,568" src="https://img.36krcdn.com/20210509/v2_35de3e0de6a84a5c81ba9e1b2c4e13d8_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">Google 公布的 Android 隐私增强时间轴。图片来自：Android Developers Blog </p> 
+<p>与苹果 iOS 14.5 类似，Google 打算在 Play Store 上推出「隐私安全区」，以帮助用户了解应用收集了哪些个人数据，是否加密，是否会侵犯隐私，并要求开发者解释收集这些数据是用于哪项功能等等，进一步增加透明度。至于不遵循 Google「隐私」政策的那些应用，Google 会要求开发者解决，「屡教不改」也有直接下架的可能。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,540" src="https://img.36krcdn.com/20210509/v2_581df45f80e440ecadfd5d56e2050e65_img_000" referrerpolicy="no-referrer"></p> 
+<p>Google 的这项针对隐私应用新政将会在今年第三季度上线测试，正式上线的时间预计在 2022 年第二季度，Google 留给了开发者大概一年的时间去准备。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1024,529" src="https://img.36krcdn.com/20210509/v2_3b4bcb669ebc4e26b5dabdbcf88278b9_img_000" referrerpolicy="no-referrer"></p> 
+<p>其实对于隐私权，Google 早在 Android 10 上就已着手。一是限制了非系统应用访问用户不可更改的 ID，包括 IMEI 和序列号等。而 WiFi Mac 地址默认随机生成，不再是固定不变，防止隐私被追踪。 </p> 
+<p>无论是 iOS 还是将来的 Android，都在牵头去改善「隐私数据」滥用的问题，这是对用户的利好，而对于那些以精确数字广告为主营业务的公司可能就是「致命一击」了。 </p> 
+<h3><strong>MIUI、Flyme、ColorOS 们早已开始关注「隐私」了 </strong></h3> 
+<p>其实不光是苹果和 Google，近年来国产厂商们也开始重视「保护隐私」，而「隐私」也渐渐成为国产定制系统们必不可少的特性。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1024,576" src="https://img.36krcdn.com/20210509/v2_c3d9bc62f13448a2b8076bdc21b7ccc7_img_000" referrerpolicy="no-referrer"></p> 
+<p>作为定制系统之光，<a class="project-link" data-id="121888" data-name="小米" data-logo="https://img.36krcdn.com/20200729/v2_7ad3d765f1d844018b8f4e75c4c8050d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/121888" target="_blank">小米</a>在去年 4 月份上的 MIUI 12 就着重强调了几项在保护「隐私」上做出努力。既有面向 App 权限管理和滥用的「照明弹」和「拦截网」，也有面向整个系统层面的「隐私面具」。 </p> 
+<p>「隐私面具」其实是一个虚拟 ID，准确的说法是 OAID（匿名设备标识符）。在互联网中，以 OAID 来代替此前的 IMEI 码，以防止广告商把我们的隐私数据跟设备进行绑定，从而能够准确的为我们打标签，更精准的推送广告。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,1058" src="https://img.36krcdn.com/20210509/v2_f30520da82a14937a4242eb0324e51a3_img_000" referrerpolicy="no-referrer"></p> 
+<p>而「小而美」的 Flyme 9，在发布会上也着重强调了保护「隐私」的新措施。同样是分为面向 App 和整个系统层面的两大部分。 </p> 
+<p>「守护权杖」、「全视鹰眼」、「隐形妙靴」这三大方面面向的是单独的 App，对它们进行更严密的权限授予和监控。「私密斗篷」就有些系统层面的意思了，可以授予应用空白信息读取权限，且对于剪切板、存储、图库、文件等等都有了相应的限制。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,711" src="https://img.36krcdn.com/20210509/v2_e4c4d8e934364c0ca6f6f5dcea43b048_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">从左至右：MIUI 12.5 的虚拟身份，Flyme 9 和 ColorOS 的限制广告追踪开关。 </p> 
+<p>而国产其他的定制系统，诸如 ColorOS、OriginOS、EMUI 等等，虽然它们没有在发布会上花时间去强调「隐私」功能，但在实际中，它们对于 App 的权限都有着较为完备的授权和监视体系，并且也涉及到了「广告追踪」和「设备标识符」方面。 </p> 
+<p>即使在以简约著称的氢 OS 中，也有可重置的广告 ID 开关，用户可以「选择停用广告个性化功能」，而这个功能实则是 Google 平衡广告个性化和用户隐私数据。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,617" src="https://img.36krcdn.com/20210509/v2_a100263098994579bf412d017e250677_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">预装 Google Play 服务的手机都可在设置中停止和重置广告 ID. 图片来自：Google </p> 
+<p>在 Play 管理中心帮助页面上，Google 也强调广告服务商只能跟踪这种可重置的广告 ID，并没有权限访问设备的永久、唯一标识符（也就是诸如 IMEI 码等），如若违规，广告商将会获得「电子邮件警告」。 </p> 
+<p>从这里来看，似乎国产 Android 定制系统们和原生 Android 都为了「隐私」做了很多的努力和授权限制。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,711" src="https://img.36krcdn.com/20210509/v2_6dbe9cabb0c54fcca321b03fd775498b_img_000" referrerpolicy="no-referrer"></p> 
+<p>从左至右 App Store、小米商店、Google Play，虽然都有标注权限获取情况，但 App Store 一目了然，其他则「太长不看」。 </p> 
+<p>但无论是 Android 还是 MIUI、Flyme 们，在限制广告追踪设置选项上，默认对跟踪都是许可，且菜单的设计较为繁复，普通用户很难去发现并自主选择许可还是阻止。另外，在 App 试图追踪和获取设备 ID 时，很多也没有给到一个明确的弹窗提示，而在这两点上 iOS 14.5 的体验要更好一些。 </p> 
+<p>而菜单设计、主动弹窗提醒等等一系列问题，很有可能会随着将来 Android 系统的「隐私标签」功能一同改进。至于 MIUI、Flyme 们，相信今年就会有相应的动作了。 </p> 
+<h3><strong>「限制广告跟踪」仅仅是「隐私战」的开始 </strong></h3> 
+<p>MIUI 12 的「隐私面具」，iOS 14.5 的应用广告跟踪透明度功能，阻挡了 App 们和数字广告投放商将我们活动产生的数据与我们的设备进行串联，但并不能完全阻止「隐私数据」的获取和收集。 </p> 
+<p class="image-wrapper"><img data-img-size-val="744,372" src="https://img.36krcdn.com/20210509/v2_d8b8e3669510448ebf8df7777519800e_img_000" referrerpolicy="no-referrer"></p> 
+<p>这一政策减少了广告的「个性化」，而非广告数量。也就是说，在关闭追踪功能后，仍然可能会收到广告，但从此前的「精确打击」变成了「广撒网」。数字广告商所追踪的 Google 广告 ID、苹果的 IDFA，其实对于<a class="project-link" data-id="43827" data-name="刻画" data-logo="https://img.36krcdn.com/20200729/v2_8657d8a0c60746029fc910b5473dc4af_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/43827" target="_blank">刻画</a>用户画像来说只是「冰山一角」。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,714" src="https://img.36krcdn.com/20210509/v2_df9772db59b440438a2d252ebbf400dd_img_000" referrerpolicy="no-referrer"></p> 
+<p>现实世界中，我们所获取的互联网服务，比如个性化歌单、短视频推荐、电商推荐等等，大部分 App 都有「个性化推荐」，它们所收集的「播放记录」、「购买记录」、「购买地址」，甚至也有可能记录使用的 WiFi SSID 这些关联隐私数据，再与我们的注册 ID 和电话号码去串联，很容易去完成某一领域用户画像的刻画。 </p> 
+<p>iOS 14.5 或者 MIUI 12 们能够阻止数字广告商去追踪我们的 ID，但很难去涉及到 App 内部对个人数据的收集，从而进行个性化的内容推荐。无论是对于 iOS 这类封闭生态，还是 Android 的开放生态，似乎有点无解。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1024,676" src="https://img.36krcdn.com/20210509/v2_b2102b76aac849249bae36b06f7e9449_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">Facebook 们抨击苹果「垄断」生态广告服务。图片来自：cnet </p> 
+<p>另外，苹果、Google 如此的去限制数字广告商收集数据，牵头去强调「隐私」，但它们本身也有着个性化广告推送的业务，有着很多质疑的声音，在 iOS 14.5 的 ATT 功能上线后，有分析师认为此举会利好苹果自己的广告业务，而这也是 Facebook 一直攻击苹果的大方向。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,991" src="https://img.36krcdn.com/20210509/v2_1e7a68e5ae384d7bbef01432c22dabee_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">Facebook 与 Instagram 弹窗恳求用户授予权限</p> 
+<p>不过，从现在来说，iOS 14.5 的 ATT 功能的确是保障了我们的一些「隐私数据」，而 Facebook 也妥协，并且「恳求」用户给予追踪的权限。甚至还暗示，将来不排除会收费的可能，有种「此地无银」的味道了。 </p> 
+<p>苹果、Google 们只能从生态上去限制 App 们对用户隐私数据的收集和获取，而苹果对生态有着更强势的「话语权」，更易实施推进，而 Google 的 Android 就需要很多厂商一同去完善。至于 App 内部的个人数据收集，用户画像刻画，就难以去做到监管了。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1024,663" src="https://img.36krcdn.com/20210509/v2_f4fc5031cea84bd38fba34d718873ada_img_000" referrerpolicy="no-referrer"></p> 
+<p>对于广义上的个人数据的监控和监管，仍然需要第三方的权力机构介入，必要的时候去设置法律法规，去规范提供服务的大公司对用户的信息、数据的收集和利用。去年工信部就开始着手启动 App 侵害用户权益专项整治工作，对一些违规的 App 进行「点名批评」责令其整改。 </p> 
+<p>至于开始涉及到用户数据的保护和防止滥用，以及更严厉的手段去惩罚问题 App 和公司，相信在不久的将来就会实现吧。 </p> 
+<p class="image-wrapper"><img data-img-size-val="1080,708" src="https://img.36krcdn.com/20210509/v2_bc89f43383b3444e830817e05e3715ea_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">图片来自：Pexels </p> 
+<p>对于「隐私数据」的保护以及所有权界定，可能还有很长一段路要走，就如同库克所说，「隐私是本世纪最重要的问题之一」，如何判定 App、数字公司侵权和滥用「数据」，会一直伴随着互联网发展，会是一项待解的难题。 </p> 
+<p>「个人隐私数据」涉及的范围十分广泛，仅仅靠一个苹果、一个 Google 很难面面俱到，虽然它们已经陆续在设备端、生态端逐步收紧权限，做到「透明化」，但对于 iOS、Android 乃至整个互联网来说还远远不够，还需要更多提供服务公司参与进来，一同去关注、重视以及保护「个人数据」的私密和安全。另外，还需要一些法律法规的约束和设置底线。 </p> 
+<p>在互联网时代保护个人隐私并非易事，好在我们已经在路上了。 </p>  
+</div>
+            
