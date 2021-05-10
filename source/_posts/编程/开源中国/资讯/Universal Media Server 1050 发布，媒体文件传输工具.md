@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3409'
+headimg: 'https://picsum.photos/400/300?random=2731'
 author: 开源中国
 comments: false
-date: Sun, 09 May 2021 23:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3409'
+date: Mon, 10 May 2021 07:13:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2731'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Universal Media Server 是一个兼容 DLNA，UPnP 和 HTTP/S 的媒体服务器，支持所有主要操作系统，包括 Windows，Linux 和 macOS 版本，几乎不需要配置就可以流式传输或转码许多不同的媒体格式。</p> 
+                                                                    
+                                                        <p>Universal Media Server 是一个兼容 DLNA，UPnP 和 HTTP/S 的媒体服务器，支持所有主要操作系统，包括 Windows，Linux 和 macOS 版本，几乎不需要配置就可以流式传输或转码许多不同的媒体格式。</p> 
 <p>Universal Media Server 10.5.0 发布，该版本更新内容如下：</p> 
 <p>通用：</p> 
 <ul> 

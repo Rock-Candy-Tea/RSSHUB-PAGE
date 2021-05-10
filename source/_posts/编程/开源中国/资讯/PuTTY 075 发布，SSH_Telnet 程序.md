@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7612'
+headimg: 'https://picsum.photos/400/300?random=5632'
 author: 开源中国
 comments: false
-date: Sun, 09 May 2021 23:21:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7612'
+date: Mon, 10 May 2021 07:21:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5632'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.chiark.greenend.org.uk%2F%7Esgtatham%2Fputty%2F" target="_blank">PuTTY 0.75 现已发布</a>。PuTTY 是一款集成虚拟终端、系统控制台和网络文件传输为一体的自由开源程序。它支持多种网络协议，包括 SCP，SSH，Telnet，rlogin 和原始的套接字连接，它也可以连接到串行端口。其软件名字“PuTTY”并没有特殊含义。</p> 
+                                                                    
+                                                        <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.chiark.greenend.org.uk%2F%7Esgtatham%2Fputty%2F" target="_blank">PuTTY 0.75 现已发布</a>。PuTTY 是一款集成虚拟终端、系统控制台和网络文件传输为一体的自由开源程序。它支持多种网络协议，包括 SCP，SSH，Telnet，rlogin 和原始的套接字连接，它也可以连接到串行端口。其软件名字“PuTTY”并没有特殊含义。</p> 
 <p>PuTTY 0.75 中包含的一些主要新功能有：Pageant 中的延迟密钥解密、更安全的 SSH 密钥指纹和 SSH 私钥文件，以及一些用于特殊目的的新网络协议。此外，该版本还包括了对 Windows 终端模拟器中的 DoS 漏洞的修复，该漏洞允许恶意的服务器锁定所有在客户端运行的 GUI Windows 应用程序。</p> 
 <p>具体更新内容如下：</p> 
 <ul> 

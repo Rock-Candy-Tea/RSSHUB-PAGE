@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9817'
+headimg: 'https://picsum.photos/400/300?random=6967'
 author: 开源中国
 comments: false
-date: Sun, 09 May 2021 23:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9817'
+date: Mon, 10 May 2021 07:37:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6967'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Druid 1.2.6 版本现已发布，这又是一个 bug 修复版本，主要是修复连接池在特定场景的一些异常问题，还有 SQL Parser 的增强。</p> 
+                                                                    
+                                                        <p>Druid 1.2.6 版本现已发布，这又是一个 bug 修复版本，主要是修复连接池在特定场景的一些异常问题，还有 SQL Parser 的增强。</p> 
 <p><strong>Issues</strong></p> 
 <ol> 
  <li> <p>修复连接池LogFilter JDK 8日期类型LocalDateTime/LocalDate在日志输出时格式不对的问题 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Falibaba%2Fdruid%2Fpull%2F4174" target="_blank">#4174</a></p> </li> 
