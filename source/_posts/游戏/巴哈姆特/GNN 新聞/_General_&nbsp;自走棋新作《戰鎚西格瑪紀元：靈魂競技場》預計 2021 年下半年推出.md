@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/27/514729d4836b2d0b2bdef7ccee1cc7z5.PNG?v=1620632043549'
 author: 巴哈姆特
 comments: false
-date: 2021-05-10 08:03:09
+date: 2021-05-10 12:03:11
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/514729d4836b2d0b2bdef7ccee1cc7z5.PNG?v=1620632043549'
 ---
 
@@ -39,7 +39,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/514729d4836b2d0b2bdef7ccee1cc7z5.
 <div>
  </div>
 <div>
-　　與大部分的自走棋遊戲相同，玩家能融合同樣的戰鬥單位進行升級，也能組合相同勢力、階級的單位獲得加成較果。</div>
+　　在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E9%8E%9A%E8%A5%BF%E6%A0%BC%E7%91%AA%E7%B4%80%E5%85%83%EF%BC%9A%E9%9D%88%E9%AD%82%E7%AB%B6%E6%8A%80%E5%A0%B4" target="_blank">戰鎚西格瑪紀元：靈魂競技場</a>》中，玩家能融合同樣的戰鬥單位進行升級，也能組合相同勢力、階級的單位獲得加成較果。</div>
 <div>
  </div>
 <div>
