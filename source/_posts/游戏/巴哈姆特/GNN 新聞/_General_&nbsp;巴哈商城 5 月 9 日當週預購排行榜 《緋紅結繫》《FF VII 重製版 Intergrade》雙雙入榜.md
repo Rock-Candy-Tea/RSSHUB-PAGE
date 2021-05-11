@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?v=1620645738279'
 author: 巴哈姆特
 comments: false
-date: 2021-05-11 04:06:02
+date: 2021-05-11 08:02:57
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?v=1620645738279'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?v=1620645738279" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG 2x" style="max-width: unset;" title="《緋紅結繫》PlayStation 5 版本次正式登上排行榜" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?v=1620645738279" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.JPG 2x" style="max-width: unset;" title="《緋紅結繫》PlayStation 5 版本次正式登上排行榜" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 萬代南夢宮的開發中新作《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B7%8B%E7%B4%85%E7%B5%90%E7%B9%AB" target="_blank">緋紅結繫</a>》PlayStation 5 版正式登上排行榜</figure>
 </li>
@@ -52,7 +52,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.
 <div>
  </div>
 <div>
-　　由於原本排行第 7、第 8 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》（PlayStation 4 / PlayStation 5）已經發售，本期有兩款新作入榜，分別是第 9 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B7%8B%E7%B4%85%E7%B5%90%E7%B9%AB" target="_blank">緋紅結繫</a>》（PlayStation 5）以及第 10 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=FINAL+FANTASY+VII+%E9%87%8D%E8%A3%BD%E7%89%88+INTERGRADE" target="_blank">FINAL FANTASY VII 重製版 INTERGRADE</a>》（PlayStation 5）。</div>
+　　由於原本排行第 7、第 8 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》（PlayStation 4 / PlayStation 5）已經發售，因此《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%8B%E7%84%A1%E9%9B%99+5" target="_blank">戰國無雙 5</a>》（Nintendo Switch）和《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3%EF%BC%9A%E5%A4%A7%E5%B8%AB%E5%90%88%E8%BC%AF" target="_blank">忍者外傳：大師合輯</a>》（PlayStation 4）皆提升兩個名次；也使得本期有兩款新作入榜，分別是第 9 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B7%8B%E7%B4%85%E7%B5%90%E7%B9%AB" target="_blank">緋紅結繫</a>》（PlayStation 5）以及第 10 名的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=FINAL+FANTASY+VII+%E9%87%8D%E8%A3%BD%E7%89%88+INTERGRADE" target="_blank">FINAL FANTASY VII 重製版 INTERGRADE</a>》（PlayStation 5）。</div>
 <div>
  </div>
 <div>
@@ -62,7 +62,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG?v=1620645269636" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG?v=1620645269636" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/0bf5525ca45e4f3b61e9d949441bu8c5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -82,7 +82,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/793e9e9f44d47e1252b64703b21bu815.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG?v=1620645665024" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG?v=1620645665024" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/8a3558953c742bf20545b884881cbk35.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -112,13 +112,13 @@ SQUARE ENIX 前幾天也公開了《<a class="acglink" href="https://acg.gamer.c
 </tr>
 <tr class="single-row" data-kind="1020_155_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" referrerpolicy="no-referrer">
 <p>
 1</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=155&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=155&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/d55b32bef2262389d7d946d6a61bnyo5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -141,13 +141,13 @@ SQUARE ENIX 前幾天也公開了《<a class="acglink" href="https://acg.gamer.c
 </tr>
 <tr class="single-row" data-kind="3103_45_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" referrerpolicy="no-referrer">
 <p>
 2</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=3103&dc_c2=45&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=3103&dc_c2=45&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/6725e73dae930107f03e36d5cd1c1zr5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -170,13 +170,13 @@ SQUARE ENIX 前幾天也公開了《<a class="acglink" href="https://acg.gamer.c
 </tr>
 <tr class="single-row" data-kind="1020_154_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" referrerpolicy="no-referrer">
 <p>
 3</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=154&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=154&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/f34777e346fb94bca0702e45541bnyi5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
