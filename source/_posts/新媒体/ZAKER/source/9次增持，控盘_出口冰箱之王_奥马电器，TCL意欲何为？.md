@@ -1,0 +1,18 @@
+
+---
+title: '9次增持，控盘_出口冰箱之王_奥马电器，TCL意欲何为？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/609a5366b15ec02c37580494_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 11 May 2021 03:02:17 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/609a5366b15ec02c37580494_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/609a5366b15ec02c37580494_1024.jpg" data-height="2304" data-width="3456" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/609a5366b15ec02c37580494_1024.jpg" referrerpolicy="no-referrer"></div></div>TCL 终于将奥马电器的控股权攥到了手里。<p></p><p>5 月 10 日晚间，奥马电器公告称，TCL 家电集团近日收到国家市场监督管理总局下发的《经营者集中反垄断审查不实施进一步审查决定书》，决定对 TCL 家电集团收购奥马电器股权案不实施进一步审查。经过审慎判断，奥马电器董事会认为，自公告日起，公司控股股东变更为 TCL 家电集团，公司实控人变更为李东生。</p><p>资本市场对奥马电器易主 TCL 反应强烈。今日早盘，奥马电器股价迅速拉升，涨停封板，目前总市值为 63.31 亿元。</p><p>事实上，从 2021 年 1 月 8 日起，通过集中竞价、大宗交易、法庭拍卖等手段，TCL 家电及其一致行动人九次增持奥马电器股份，至今斥资已超过 10 亿元，成为奥马电器第一大股东。</p><p>与此同时，奥马电器的董事会已开始 " 辞旧迎新 "。根据奥马电器 4 月 9 日公告消息，TCL 科技家电集团推选的两名非独立董事徐荦荦、胡殿谦顺利当选，拿下奥马电器两名董事会席位。此后，TCL 实业 CEO 王成，以及 TCL 家电集团董事总经理张荣升也进入董事会。目前，奥马电器 9 人董事会中直接来自 TCL 的高管就有 4 人，董事长、总经理、财务总监也由 TCL 人员出任。</p><p>可以说，奥马电器已经彻底改换门庭，纳入 TCL 麾下。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202105/609a5366b15ec02c37580495_1024.jpg" data-height="318" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/609a5366b15ec02c37580495_1024.jpg" referrerpolicy="no-referrer"></div></div>国内用户或许对奥马电器了解甚少，它主要生产冰箱，而且当之无愧的 " 出口冰箱之王 "。根据公开报道，奥马冰箱 2009-2019 年连续 11 年蝉联中国冰箱出口冠军，连续 12 年稳居冰箱出口欧洲第一。<p></p><p>从冰箱外销之王沦落到 " 嫁作他人妇 "，奥马电器经历了什么？</p><p>2015 年，前京东集团副总裁赵国栋以近乎 " 空手套白狼 " 的手段成为奥马电器第一大股东和实际控制人。掌权奥马电器 9 天后，赵国栋主导奥马电器用 6.12 亿现金收购中融金 51% 的股权，随后还出资设立了多家金融公司。2018 年，网贷行业集中性风险爆发，众多平台相继爆雷，奥马电器也亏损 19.03 亿元，巨额亏损主要来自互金板块，大量账款无法收回。</p><p>此后奥马电器遭遇了两年的债务危机，其股价也整体下行，这才给了 TCL 可乘之机。而 TCL 之所以步步紧逼、" 抢亲 " 奥马， TCL 创始人李东生的话可以解释 " 在智能终端业务上，冰箱是公司要大力发展的业务，举牌奥马电器也是希望能够扩大在冰箱业务上的竞争力。"</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202105/609a5366b15ec02c37580496_1024.jpg" data-height="379" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/609a5366b15ec02c37580496_1024.jpg" referrerpolicy="no-referrer"></div></div>众所周知，电视是 TCL 传统强势业务。其实，近年来，TCL 也不断在白电业务上发力。TCL 实业发布的 2020 年年报显示，其冰箱、洗衣机在中国均排名第六，空调业务排名第四。此次，TCL 如愿以偿将奥马电器收入囊中，一方面可以显著的提升 TCL 在冰箱方面的出货量，增加 TCL 在国外市场的占有率，另一方面理顺了 TCL 的 AIoT 战略，实现更大的野心。<p></p><p>随着 TCL 的入主，奥马电器未来会如何发展？</p><p>奥马电器表示，公司未来将聚焦冰箱主业发展，尽快完成金融科技业务板块相关资产业务的剥离工作，授权董事会成立金融科技业务板块终止经营及资产处置工作小组尽快组织制定并推进交易方案、落实相关具体工作。换句话说，TCL 入主后一方面要着手处理赵国栋留下的互联网金融业务 " 烂摊子 "；另一方面，要聚焦冰箱主业发展，持续保持奥马冰箱独特的业务模式和行业地位。TCL 家电集团还承诺未来将给予资金和战略支持。</p><p>而从长期来看，TCL 家电借壳奥马电器上市或许才是真正的目的。目前 TCL 的空调、冰箱、洗衣机等白色家电业务没有独立上市。有业内人士表示，从目前来看，TCL 举牌奥马电器成为第一大股东，只是第一步。从长期来看，TCL 还可能继续增持奥马电器，直至把白电业务都注入奥马电器，TCL 持股比例会大幅提升。TCL 家电或将在未来 3 年内实现借壳上市，奥马电器也将改名为 TCL 家电。</p><p>不过，目前这仅停留在猜测，TCL 将如何 " 装扮 " 奥马电器，一起拭目以待。</p><p>文 / 佳华</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
