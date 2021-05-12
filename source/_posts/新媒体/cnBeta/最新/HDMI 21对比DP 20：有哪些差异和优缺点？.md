@@ -1,0 +1,20 @@
+
+---
+title: 'HDMI 2.1对比DP 2.0：有哪些差异和优缺点？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/crawl/49/w550h299/20210512/672a-kpzzqmz3839575.png'
+author: cnBeta
+comments: false
+date: Tue, 11 May 2021 23:49:55 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/crawl/49/w550h299/20210512/672a-kpzzqmz3839575.png'
+---
+
+<div>   
+上回我们说到，HDMI 2.1拥有一系列升级的特性，对于高刷新率、高帧率、高动态范围的HDR内容一样更好的支持，并且在未来的几年内，HDMI
+2.1或许会成为众多设备上所主要使用的影像传输接口，不过HDMI在这方面也有强劲的对手，接下来我们看看HDMI和对手的差异。<br>
+<p><img src="https://n.sinaimg.cn/tech/crawl/49/w550h299/20210512/672a-kpzzqmz3839575.png" referrerpolicy="no-referrer"></p><p>在现阶段，HDMI最大的对手就是VESA 协会所推出的DisplayPort（DP）标准了，DisplayPort的诞生和正式的开始使用比起HDMI来得晚了一些，所以在整个市场的占有上相比较于HDMI少了一些，但是由于其诞生较晚的后发优势，所以一些标准会相比较于HDMI有着更好的支持。</p><p><img src="https://n.sinaimg.cn/tech/crawl/208/w550h458/20210512/a725-kpzzqmz3839613.png" alt="DisplayPort" referrerpolicy="no-referrer"><br></p><p>DisplayPort</p><p>例如在对可变刷新率（VRR）的支持上，HDMI要到HDMI2.1此加入了对于VRR的支持，而在DisplayPort（DP）标准上，早在DP 1.2、DP1.4版本时就实现了对于VRR的支持。</p><p><img src="https://n.sinaimg.cn/tech/crawl/129/w550h379/20210512/8434-kpzzqmz3839648.jpg" alt="VRR" referrerpolicy="no-referrer"><br></p><p>VRR</p><p>在分辨率上，在DP1.4b的时候，就可以支持到采用DSC 压缩的<a href="https://www.cnbeta.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2e16656e1f1c1e6654">[email protected]</a>输出，相比较于同一时期正在采用的HDMI标准，多出了不少的输出能力。</p><p><img src="https://n.sinaimg.cn/tech/crawl/704/w550h154/20210512/2d8c-kpzzqmz3839674.jpg" referrerpolicy="no-referrer"></p><p>我们以HDMI2.1和DP2.0来进行对比，HDMI 2.1正式的发布时间是在2017年，而DP2.0正式的发布时间则是在2019年，两个标准的时间差有两年。HDMI 2.1可以支持到最高的48Gbps传输速度，而根据VESA 所制定的规范，DP 2.0可以支持到最高80Gbps的传输速度。</p><p><img src="https://n.sinaimg.cn/tech/crawl/283/w550h533/20210512/403a-kpzzqmz3839704.jpg" referrerpolicy="no-referrer"></p><p>在同样链接到单一显示设备的情况下，DP 2.0能够原生输出未压缩的10K（10240x4320）分辨率、60Hz刷新率影像；若使用 DSC 压缩，可以将输出的画面分辨率提升到 16K（15360×8460），并且在高分辨率的同时还可以提供60帧刷新率的HDR内容输出。这点相比较于HDMI 2.1的8K分辨率原生60帧可谓好上不少。</p><p><img src="https://n.sinaimg.cn/tech/crawl/637/w550h87/20210512/4753-kpzzqmz3839741.png" referrerpolicy="no-referrer"></p><p>而在接口上，HDMI拥有标准的HDMI接口会有mini HDMI接口，这两个接口都是具有一定的对称性。而DP标准接口是一个不对称的接口，并且也发展了mini DP接口，不过在VESA协会的考虑下，未来的DP接口会和USB-C接口进行兼容，将专用的DP接口孤独到更加通用的USB-C接口上，且将对USB和Thunderbolt 进行整合兼容，未来的USB-C接口直接输出DP2.0标准的内容。反观HDMI，HDMI虽然有在推进对其他接口转换的进程，但是截止目前，还是没有做到非常好的转换兼容。</p><p><img src="https://n.sinaimg.cn/tech/crawl/147/w550h397/20210512/986b-kpzzqmz3839776.jpg" referrerpolicy="no-referrer"></p><p>从HDMI 2.1和DP2.0的对比中我们可以看出，在很多特性上，HDMI2.1的支持远不如DP 2.0出色。但是在现阶段的市场上，HDMI 2.1已经有众多的设备推出支持，但DP2.0还未有产品上市，现阶段采用DP标准的基本上还是DP 1.4A。</p><p>那么现阶段市面上的HMDI于DP标准存在多少的差距？在这里有一个表格，可以通过表格对比这几个标准所支持的分辨率差异。</p><p>而需要注意的是，加注了**的部分，意味着这一个支持并非原生输出支持，而是需要采用DSC压缩算法，通过对特定色彩、信息的压缩才可以达到这一个分辨率的支持。但是在实际上使用上，到了如此高的分辨率，一般肉眼也无法看出很大的差距。</p><p><img src="https://n.sinaimg.cn/tech/crawl/229/w550h479/20210512/0867-kpzzqmz3839854.png" referrerpolicy="no-referrer"></p><p>而除了分辨率之外，两个标准的所支持的特性差异也进行了对比。，我们可以发现，在最新的HDMI 2.1和DP 2.0上都对这部分特性有了一定的优化，而在此前的HDMI 2.0上，相比较于DP 1.4则少了不少的特性支持。</p><p><strong>总结：</strong></p><p>HDMI2.1在现阶段已经有众多的产品进入市场，并且取得了不错的成绩。在众多特性的支持上，HDMI 2.1可以很好的满足到未来几年间的需求，并且还能再持续一段时间内和后发的DP 2.0标准对半分市场。但是HDMI 2.1也有着其缺点，HDMI 2.1需要采用到认证的线缆才可以实现完整的特性支持，也没有对USB-C进行很好的支持。并且HMDI 是一个需要授权付费的接口，这也意味着在相关产品的推出上，会有一定的成本增加。</p><p>DP 2.0在现阶段还没有产品的推出，预计将在1-2年内才会有新的产品搭载，其后续和USB-C兼容的特性，使得更多的设备、特别是轻薄设备上会进一对DP标准进行支持，对于用户来说，增加了更多的便利。</p><p><img src="https://n.sinaimg.cn/tech/crawl/782/w550h232/20210512/df1b-kpzzqmz3839933.png" referrerpolicy="no-referrer"></p><p>在现阶段使用上，我们可以发现，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>、投影仪、次世代主机大部分采用了HDMI接口，例如在全新的<a data-link="1" href="https://microsoft.pvxt.net/e4yLO" target="_blank">Xbox</a> SERIES X和PlaySation 5都是采用了全新的HDMI 2.1标准。而在笔记本、显卡方面，大部分设备间除了HDMI的支持外，还拥有对于DP的支持，而对于DP2.0的支持，预计将在新一代显卡的推出后进行更新。总体来说，在近段时间内，HDMI 2.1会是比起DP 1.4更好的选择。</p>   
+</div>
+            
