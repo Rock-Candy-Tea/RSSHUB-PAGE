@@ -22,6 +22,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/3
 <p>Latitude官方发言人说，其过滤系统和可接受内容的政策都在不断完善。工作人员以前曾把利用AI Dungeon制造以儿童为主角的色情内容的玩家拉入黑名单。但在OpenAI最近的警告之后，该公司正在进行 "必要的改变"。Latitude上周在一篇博客文章中承诺，AI Dungeon将 "继续支持其他NSFW内容，包括双方同意的成人、暴力和亵渎向内容"。</p>
 <p>阻止人工智能系统创建某些类型的性或成人内容，同时允许其他内容，将是困难的。如同OpenAI的技术可以生成许多不同风格的文本，因为它是使用机器学习算法建立的，这些算法已经消化了从网络上搜刮来的数十亿文字的语言统计模式，包括未成年人的部分。该软件能够完成惊人的模仿，但并不像人类那样理解社会、法律或流派。再加上智人(Homo internetus)疯狂的创造力，输出的结果可能是奇怪的，美丽的，或者有毒的。</p>
 <p>OpenAI在2019年底将其文本生成AI作为开源技术发布，但在去年升级到GPT-3后，变成了商业付费业务。</p>
-<p>参考 https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/</p>  
+<p>参考 https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/</p>
+<p>游戏网址：<a href="https://play.aidungeon.io/">https://play.aidungeon.io/</a></p>  
 </div>
             

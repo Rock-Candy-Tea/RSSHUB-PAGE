@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/25c316ade1f189a0ab5d26c82c1cci55.JPG?v=1620733914959'
 author: 巴哈姆特
 comments: false
-date: 2021-05-12 00:05:07
+date: 2021-05-12 04:10:30
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/25c316ade1f189a0ab5d26c82c1cci55.JPG?v=1620733914959'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ns"><a href="https://acg.gamer.com.tw/news.php?p=ns" target="_blank">Switch</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
+<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/25c316ade1f189a0ab5d26c82c1cci55.
 <div>
  </div>
 <div>
-　　根據資料，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》的首發成績比起前面幾部作品還要更優秀，顯示出青出於藍的氣勢。而根據 CAPCOM 表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+7%EF%BC%9A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F" target="_blank">惡靈古堡 7：生化危機</a>》截至 2020 年 13 月 31 日，全球銷量達到 850 萬套。</div>
+　　根據資料，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》的首發成績比起前面幾部作品還要更優秀，顯示出青出於藍的氣勢。而根據 CAPCOM 表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+7%EF%BC%9A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F" target="_blank">惡靈古堡 7：生化危機</a>》截至 2020 年 12 月 31 日，全球銷量達到 850 萬套。</div>
 <div>
  </div>
 <div>
