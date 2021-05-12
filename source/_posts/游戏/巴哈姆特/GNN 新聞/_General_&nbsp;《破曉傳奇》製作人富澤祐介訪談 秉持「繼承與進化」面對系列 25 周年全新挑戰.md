@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/17/c6a93d384b54c19d93c7b0ade01ccah5.JPG?v=1620640120974'
 author: 巴哈姆特
 comments: false
-date: 2021-05-12 08:03:17
+date: 2021-05-12 12:04:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/c6a93d384b54c19d93c7b0ade01ccah5.JPG?v=1620640120974'
 ---
 
@@ -86,7 +86,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/c6a93d384b54c19d93c7b0ade01ccah5.
 <div>
  </div>
 <div>
-　　對於這個情況，團隊在開發時很明確地訂立了本作的主題是「繼承與進化」，針對「應該從系列作繼承的東西」以及「應該朝向新世代而革新進化的東西」這兩點詳細分析並進行開發。尤其是本次公開情報介紹的「大氣著色氣（Atmos Shaders）」以及進化的動作戰鬥，都是與本作的概念「繼承與進化」保持一致。</div>
+　　對於這個情況，團隊在開發時很明確地訂立了本作的主題是「繼承與進化」，針對「應該從系列作繼承的東西」以及「應該朝向新世代而革新進化的東西」這兩點詳細分析並進行開發。尤其是本次公開情報介紹的「大氣著色器（Atmos Shaders）」以及進化的動作戰鬥，都是與本作的概念「繼承與進化」保持一致。</div>
 <div>
  </div>
 <div>
