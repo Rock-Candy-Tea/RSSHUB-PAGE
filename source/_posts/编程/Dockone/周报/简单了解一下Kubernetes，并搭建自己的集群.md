@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210511/4886e4f0f53e84f55571deac169ad15b.jpeg'
 author: Dockone
 comments: false
-date: 2021-05-12 12:03:41
+date: 2021-05-13 00:14:48
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210511/4886e4f0f53e84f55571deac169ad15b.jpeg'
 ---
 
@@ -146,7 +146,7 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config<br>
 </div>
 <br>
 <h3>感谢阅读</h3>关于Kubernetes就简单的介绍到这里，由于篇幅和时间的原因，很多概念都没有介绍，例如Deployment、Volume、ConfigMap等等。仅仅只介绍了较为核心的Pod和Service，以及相关的东西。毕竟，如果想要把Kubernetes的核心理念介绍完，一篇博客的篇幅是肯定不够的，后面我再单独详细的介绍吧。<br>
-<br>原文链接：<a href="https://zhuanlan.zhihu.com/p/97605697" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/97605697</a>，作者：SH的全栈笔记
+<br>原文链接：<a href="https://mp.weixin.qq.com/s/m9Vuzey7frP7f9p_0er1xw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/m9Vuzey7frP7f9p_0er1xw</a>，作者：SH的全栈笔记
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>
                                 

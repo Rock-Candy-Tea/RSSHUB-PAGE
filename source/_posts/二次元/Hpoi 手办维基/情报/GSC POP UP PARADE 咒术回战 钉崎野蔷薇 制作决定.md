@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/?date=1620806466372'
 author: Hpoi 手办维基
 comments: false
-date: Wed, 12 May 2021 09:04:15 GMT
+date: Wed, 12 May 2021 08:15:19 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/?date=1620806466372'
 ---
 
