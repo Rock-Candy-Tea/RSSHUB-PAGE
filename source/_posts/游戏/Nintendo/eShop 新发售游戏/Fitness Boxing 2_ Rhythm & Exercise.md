@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/fitness_boxing_2.jpg'
 author: Nintendo
 comments: false
-date: 2021-05-13 08:03:46
+date: 2021-05-13 12:04:45
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/fitness_boxing_2.jpg'
 ---
 
