@@ -1,0 +1,18 @@
+
+---
+title: '创建NFT所需的知识：为什么创建？选什么平台？'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 头条
+headimg: 'https://picsum.photos/400/300?random=2447'
+author: 金色财经
+comments: false
+date: Thu, 13 May 2021 07:13:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2447'
+---
+
+<div>   
+NFT是加密技术的趋势，在NFT浪潮下您是否正在考虑要发行一个？  
+</div>
+            
