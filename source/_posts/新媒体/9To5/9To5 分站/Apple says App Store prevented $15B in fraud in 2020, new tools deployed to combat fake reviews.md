@@ -49,7 +49,6 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/bes
 </blockquote>
 <p>Whether or not these changes help to curb the number of scam and rip-off apps on the App Store remains to be seen, but this press release from Apple is a clear response to concerns in the community. You can read the full press release on the <a href="https://www.apple.com/newsroom/2021/05/app-store-stopped-over-1-5-billion-in-suspect-transactions-in-2020/">Apple Newsroom website right here</a>.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/2Suqy1d"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/750-150-2.jpg?quality=82&strip=all&w=750" alt class="wp-image-719701" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
