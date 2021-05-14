@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/82499ddf-dd76-4830-ab25-082d587f62db.jpg'
 author: 机核网
 comments: false
-date: 2021-05-14 08:03:31
+date: 2021-05-14 12:03:51
 thumbnail: 'https://image.gcores.com/82499ddf-dd76-4830-ab25-082d587f62db.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/82499ddf-dd76-4830-ab25-082d587f62db.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-cpi6m" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="cpi6m" data-offset-key="3ub41-0-0"><div data-offset-key="3ub41-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3ub41-0-0"><span data-text="true">索尼正式公布全新 DualSense 无线控制器“午夜黑”与“星尘红”配色，两款手柄将于6月10日正式发售。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="cpi6m" data-offset-key="3hi7n-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=uz4hubqSrulPVHWPiiKxJ9Vbb5MnTAU3qxoO~Q__"></iframe></div></div></div></figure>
+<img src="https://image.gcores.com/82499ddf-dd76-4830-ab25-082d587f62db.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-59qsq" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="59qsq" data-offset-key="3ub41-0-0"><div data-offset-key="3ub41-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3ub41-0-0"><span data-text="true">索尼正式公布全新 DualSense 无线控制器“午夜黑”与“星尘红”配色，两款手柄将于6月10日正式发售。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="59qsq" data-offset-key="3hi7n-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=uz4hubqSrulPVHWPiiKxJ9Vbb5MnTAU3qxoO~Q__"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/ec5409e1-2e9e-45e5-b8ac-35fe421f607c.jpg" alt referrerpolicy="no-referrer">
 
@@ -25,6 +25,6 @@ thumbnail: 'https://image.gcores.com/82499ddf-dd76-4830-ab25-082d587f62db.jpg'
 <figure>
 <img src="https://image.gcores.com/4122deff-7fdb-47e8-a200-c39318922d26.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="cpi6m" data-offset-key="2ubbc-0-0"><div data-offset-key="2ubbc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2ubbc-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="59qsq" data-offset-key="2ubbc-0-0"><div data-offset-key="2ubbc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2ubbc-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
