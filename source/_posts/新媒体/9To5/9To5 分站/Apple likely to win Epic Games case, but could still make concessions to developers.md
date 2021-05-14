@@ -39,6 +39,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Epi
 <p>I’m already on record as saying <a href="https://9to5mac.com/2021/03/17/comment-googles-copy-of-apples-15-commission-is-actually-a-fairer-version/" target="_blank" rel="noreferrer noopener">Apple should match Google’s terms</a> for the 15% commission, and the two other changes Gurman suggests seem to me to be pragmatic ones. The iPhone maker would do well to take his advice once the Epic Games case comes to a close.</p>
 <p><em>Photo: <a href="https://pxhere.com/en/photo/801066" target="_blank" rel="noreferrer noopener">Pxhere</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3xFW3Wh"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/02/Kandji-Native-Banner-750x150.-@2.png?w=1000" alt class="wp-image-695039" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

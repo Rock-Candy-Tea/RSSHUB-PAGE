@@ -50,6 +50,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app
 <li><a href="https://9to5mac.com/2021/05/04/epic-ceo-apple-offer-testimony/">Epic CEO says he would have taken a special App Store deal if Apple had offered</a></li>
 </ul>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3xFW3Wh"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/02/Kandji-Native-Banner-750x150.-@2.png?w=1000" alt class="wp-image-695039" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

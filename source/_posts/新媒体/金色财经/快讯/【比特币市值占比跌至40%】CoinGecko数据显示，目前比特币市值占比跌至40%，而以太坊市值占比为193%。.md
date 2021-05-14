@@ -1,0 +1,18 @@
+
+---
+title: '【比特币市值占比跌至40%】CoinGecko数据显示，目前比特币市值占比跌至40%，而以太坊市值占比为19.3%。'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=8598'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=8598'
+---
+
+<div>   
+【比特币市值占比跌至40%】CoinGecko数据显示，目前比特币市值占比跌至40%，而以太坊市值占比为19.3%。  
+</div>
+            

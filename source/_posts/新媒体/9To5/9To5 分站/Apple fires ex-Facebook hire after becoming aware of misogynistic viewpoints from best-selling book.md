@@ -29,6 +29,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Ant
 </blockquote>
 <p>Garcia Martinez worked at Facebook from 2011 to 2013, and since then he was considered an entrepreneur for having multiple projects of his own. While he was already being integrated into Apple, the company chose to follow its principles and fire the executive. It’s unclear, however, why Apple did not investigate his conduct prior to hiring him.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/2Suqy1d"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/750-150-2.jpg?quality=82&strip=all&w=750" alt class="wp-image-719701" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

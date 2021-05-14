@@ -37,6 +37,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/New
 <p>Claims of forced labor in Apple’s supply chain surface regularly, with the company investigating and generally choosing to <a href="https://9to5mac.com/2021/03/16/apple-camera-supplier-o-film-out-from-iphone-supply-chain/" target="_blank" rel="noreferrer noopener">quietly sever ties</a> rather than issue statements.</p>
 <p>The <a href="https://www.theinformation.com/articles/seven-apple-suppliers-accused-of-using-forced-labor-from-xinjiang?utm_content=article-5633&utm_campaign=article_email&utm_source=sg&utm_medium=email" target="_blank" rel="noreferrer noopener">full (paywalled) report</a> goes into a great deal more detail on the allegations and the basis for them.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/2Suqy1d"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/750-150-2.jpg?quality=82&strip=all&w=750" alt class="wp-image-719701" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
