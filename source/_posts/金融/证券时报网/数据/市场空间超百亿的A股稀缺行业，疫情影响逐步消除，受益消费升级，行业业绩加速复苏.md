@@ -1,0 +1,19 @@
+
+---
+title: '市场空间超百亿的A股稀缺行业，疫情影响逐步消除，受益消费升级，行业业绩加速复苏'
+categories: 
+ - 金融
+ - 证券时报网
+ - 数据
+headimg: 'https://data.stcn.com/djsj/202105/W020210512832967869610.png'
+author: 证券时报网
+comments: false
+date: Wed, 12 May 2021 22:54:00 GMT
+thumbnail: 'https://data.stcn.com/djsj/202105/W020210512832967869610.png'
+---
+
+<div>   
+<p id="activity-name" helvetica pingfang hiragino sans microsoft yahei letter-spacing: white-space: background-color:>去年底，卖潮流玩具的泡泡玛特在港股上市，一度高达千亿市值，让市场惊艳。顺应创新性娱乐时代发展且具有特色的文娱产业方向，被认为是有望受益于中国消费市场升级的新兴赛道，如A股老牌的文玩具类公司纷纷发力潮玩。在文娱产业，IP的开发+运营+变现能力逐渐成为行业的核心壁垒。</p><p class="rich_media_title" id="activity-name" style="margin: 0px 0px 14px; padding: 0px; font-weight: 400; font-size: 22px; line-height: 1.4; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, " helvetica pingfang hiragino sans microsoft yahei letter-spacing: white-space: background-color:><strong style="font-size: 16px;">受益消费升级 产业市场空间超百亿</strong></p><p>我国游戏游艺设备行业在国内发展发展时间较晚，随着国民经济的持续增长，居民收入水平及消费能力保持较快增加，对休闲娱乐、教育等精神层面的消费需求不断增加，为游戏游艺行业的快速发展提供有力的消费基础，近年来游戏游艺行业发展迅速。</p><p>不过总体看，游戏游艺行业区域集中较为明显，产业集中度相对偏低。根据《2019广东省游戏产业年度发展报告》的数据，2019年广东省游戏游艺设备营收总额为142.50亿元，占全国游戏游艺机市场98.90%的份额，且大多为中小企业，产业集中度较低，大部分缺乏研发能力，主要定位于中低端市场。</p><p><strong>卖奥特曼卡片的游戏游艺设备龙头IPO注册生效</strong></p><p>5月12日晚，5家公司的创业板IPO注册申请获证监会同意，相关公司及其承销商将分别与深圳证券交易所协商确定发行日程，并陆续刊登招股文件。</p><p><img src="https://data.stcn.com/djsj/202105/W020210512832967869610.png" title="图片1.png" alt="图片1.png" width="550" oldsrc="W020210512832967869610.png" referrerpolicy="no-referrer"></p><p>游戏游艺设备龙头华立科技备受市场关注，其奥特曼形象卡片2020年销售额高达4168.02万元。公司旗下的游戏游艺设备包括《雷动G》、《马力欧卡丁车》、《变形金刚》，动漫IP衍生产品主要包括《奥特曼融合激战》、《龙珠》、《宝可梦》等IP卡片比较知名。公司是由新三板转至拟创业板上市的公司，公司本次发行的募集资金将投向终端业务拓展项目、研发及信息化建设项目、营销及售后服务体系建设项目以及补充流动资金等与主营业务相关的项目。</p><p><img src="https://data.stcn.com/djsj/202105/W020210512832967895737.jpg" title="微信图片_20210512181451.jpg" alt="微信图片_20210512181451.jpg" width="550" oldsrc="W020210512832967895737.jpg" referrerpolicy="no-referrer"></p><p><strong>游戏游艺设备公司A股较为稀缺</strong></p><p>游戏游艺设备公司以中小企业为主，细分领域上市企业较为稀缺。数据宝统计显示，游戏游艺公司以证监会行业划分应属于文教、工美、体育和娱乐用品制造业，目前这一大类划分中，所属概念公司不足20家，细分领域中，属于游戏游艺设备行业，甚至更细分的商用室内游戏游艺设备行业中，华立科技或为A股首家。</p><p>华立科技为游戏游艺行业的龙头企业之一。作为起草单位参与制定了室内游乐设备产品行业的国家、行业标准。</p><p>目前A股上市公司中，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SZ300756" code="300756">金马游乐</a>主营业务为游乐设施相关业务，其主导产品室外大型游乐设施，与华立科技主导产品商用游戏游艺机存在较大区别，不过同属于《国民经济行业分类》中的游艺器材及娱乐用品制造这一细分领域。<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SZ300756" code="300756">金马游乐</a>最新收盘价为30.6元，最新总市值31亿元。</p><p>由于产业集中度偏低，游戏游艺设备公司或借助于资本市场能更快速壮大，行业内领先的公司世宇科技去年曾提交了招股书，计划在创业板上市，今年1月因公司方面撤回上市申请，深交所决定终止对世宇科技的上市审核。</p><p>对比显示，华立科技、世宇科技的整体经营规模较为接近，但各自在业务结构、国内外市场布局等方面存在一定差异。公开数据显示，2019年世宇科技营业收入为4.53亿元，净利润5021万元，华立科技营业收入4.98亿元，净利润6013万元，两公司的差异化还在于华立科技主要产品及运营主要面向国内市场，行业内较早创新尝试合作运营业务、打开动漫IP衍生产品市场以及切入自营游乐场运营业务。</p><p><strong>疫情影响逐步消除</strong></p><p><strong>行业业绩加速复苏</strong></p><p>文娱相关产业去年一度受疫情影响较大，不少公司生产经营受到较大的影响，随着国内疫情防控稳中向好，游戏游艺行业业绩逐步复苏。</p><p>A股公司<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SZ300756" code="300756">金马游乐</a>一季度也扭亏为盈，公司在一季报中表示，随着全球疫情防控形势逐渐好转，游乐行业整体呈恢复性增长。</p><p>华立科技今年一季度营业收入为9225.83 万元，同比增长178.10%；公司预计上半年营收2.51亿元，同比增长136%，预计扣除非经常性损益后净利润2431万元，同比增长153%，盈利加速恢复。（数据宝 余莉）</p><p>声明：数据宝所有资讯内容不构成投资建议，股市有风险，投资需谨慎。</p><p class="rich_media_title" id="activity-name" style="margin: 0px 0px 14px; padding: 0px; font-weight: 400; font-size: 22px; line-height: 1.4; color: rgb(51, 51, 51);" helvetica pingfang hiragino sans microsoft yahei letter-spacing: white-space: background-color:><br></p> 
+  
+</div>
+            

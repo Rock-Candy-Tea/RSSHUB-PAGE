@@ -1,0 +1,19 @@
+
+---
+title: '中国重大成功，NASA：恭喜'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0515/402c789770cba32.png'
+author: cnBeta
+comments: false
+date: Sat, 15 May 2021 06:33:50 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0515/402c789770cba32.png'
+---
+
+<div>   
+“天问一号”探测器在火星成功着陆后，北京时间5月15日上午9点，美国国家航空航天局在官方推特转发其科学任务局副局长托马斯·祖布钦推文。推文写道：<strong>“中国首个火星探测器‘祝融号’登陆火星，恭喜中国国家航天局‘天问一号’团队！和全球的科学界一起，我期待中国本次火星任务，对人类了解这颗红色星球作出重要贡献。”</strong><br>
+<p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0515/402c789770cba32.png"><img data-original="https://static.cnbetacdn.com/article/2021/0515/402c789770cba32.png" src="https://static.cnbetacdn.com/thumb/article/2021/0515/402c789770cba32.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>番外</strong></p><p style="text-align: left;"><strong>天问一号成功着陆火星，国际媒体发出惊叹：巨大飞跃、重要里程碑、超越众多同行</strong></p><p style="text-align: left;">据国家航天局消息，科研团队根据“祝融号”火星车发回遥测信号确认，5月15日，天问一号着陆巡视器成功着陆于火星乌托邦平原南部预选着陆区，我国首次火星探测任务着陆火星取得圆满成功。</p><p style="text-align: left;">国际社会也在第一时间见证火星上首次留下中国印迹的时刻，<strong>不少外媒更感叹于中国星际探测征程在短时间内实现的巨大飞跃。</strong></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0515/ffaa82094c03569.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">早在天问一号着陆巡视器成功降落于火星之前，英国《自然》杂志14日就发表评论文章说，<strong>“祝融号”火星车的着陆是对中国新生深空探测能力的最大考验。↓</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0515/08bbd12cf296fcd.png"><img data-original="https://static.cnbetacdn.com/article/2021/0515/08bbd12cf296fcd.png" src="https://static.cnbetacdn.com/thumb/article/2021/0515/08bbd12cf296fcd.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">《自然》：中国准备将其第一辆火星探测器着陆火星并提出新的地质学见解</p><p style="text-align: left;">报道援引意大利博洛尼亚射电天文研究所的行星科学家罗伯特•奥罗塞（Roberto Orosei）说，这项任务“对中国来说是一个巨大的飞跃，因为他们一次就完成了美国国家航空航天局(NASA)花了数十年才完成的任务。”</p><p style="text-align: left;">英国广播公司（BBC）也表示，<strong>这是一项艰巨的挑战，但中国在最近有关（探索）太空的努力中展现出了巨大能力。↓</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0515/df7bf8cf4ec1083.png"><img data-original="https://static.cnbetacdn.com/article/2021/0515/df7bf8cf4ec1083.png" src="https://static.cnbetacdn.com/thumb/article/2021/0515/df7bf8cf4ec1083.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">BBC：中国“祝融号”在火星着陆</p><p style="text-align: left;">“此次着陆使得中国成为历史上第二个在火星表面（成功）着陆探测器的国家。”美国《国家地理》杂志网站评价说，在火星表面成功着陆是一项非凡的挑战。今日之前，只有美国国家航空航天局(NASA)在火星表面安全着陆并操作航天器。1971年，苏联“火星3号”探测器着陆舱仅工作了22秒钟便与地球失去联系。报道继续说，<strong>通过在火星上着陆和漫游，中国在太空领域超越了许多同行。↓</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0515/45823fd61160572.png"><img data-original="https://static.cnbetacdn.com/article/2021/0515/45823fd61160572.png" src="https://static.cnbetacdn.com/thumb/article/2021/0515/45823fd61160572.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">美国《国家地理》：中国火星探测器在红色星球上着陆</p><p style="text-align: left;">美国全国广播公司（NBC）发表一篇名为“中国成为历史上第二个（成功）在火星上着陆探测器的国家”评论文章，表示“祝融号”火星车着陆是中国国家航天局的一个重要里程碑，中国国家航天局在短短几十年内取得了快速发展。↓</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0515/f66a9ef68ed956b.png"><img data-original="https://static.cnbetacdn.com/article/2021/0515/f66a9ef68ed956b.png" src="https://static.cnbetacdn.com/thumb/article/2021/0515/f66a9ef68ed956b.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">美国全国广播公司（NBC）：中国成为历史上第二个（成功）在火星上着陆探测器的国家</p><p style="text-align: left;">法新社评论称，这是北京日益自信的太空雄心的胜利，中国在火星上首次留下印迹。</p><p style="text-align: left;">在经历了众所周知的“恐怖7分钟”后，中国天问一号探测器在火星乌托邦平原预选着陆区成功着陆。“在赶超美国和俄罗斯的竞赛中，中国取得了长足的进步，”法新社最新的一篇报道梳理了天问一号的着陆过程，并这样评价说。</p>   
+</div>
+            
