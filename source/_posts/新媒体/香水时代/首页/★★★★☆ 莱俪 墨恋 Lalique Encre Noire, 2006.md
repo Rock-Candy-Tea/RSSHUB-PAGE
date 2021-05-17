@@ -5,14 +5,15 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=1960'
+headimg: 'https://picsum.photos/400/300?random=8497'
 author: 香水时代
 comments: false
-date: Tue, 04 Aug 2020 06:22:53 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1960'
+date: Thu, 21 Jan 2021 14:50:37 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8497'
 ---
 
 <div>   
-不是很喜欢这个，但是味道其实很独特，就像雨后的小树林，一股潮湿的泥土味，或者是尘封好久的档案室的味道，无法驾驭  
+中调的柚子味好浓，是那种只酸不甜的柚子皮。记得室友曾经把柚子皮放在窗台上，新鲜的柚子皮裹挟着热风，依然带着柚子的酸意，这股气息在空气中弥漫，使燥热沉闷的空气逐渐活泼湿润起来。
+当然柚子味是当做陪衬的，有时候很明显有时候又根本闻不到，取决于鼻子的状态吧。  
 </div>
             

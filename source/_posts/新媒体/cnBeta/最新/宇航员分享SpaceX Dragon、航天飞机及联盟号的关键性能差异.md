@@ -1,0 +1,19 @@
+
+---
+title: '宇航员分享SpaceX Dragon、航天飞机及联盟号的关键性能差异'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0517/b11c6c304e243af.jpeg'
+author: cnBeta
+comments: false
+date: Sun, 16 May 2021 23:46:09 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0517/b11c6c304e243af.jpeg'
+---
+
+<div>   
+据外媒报道，<strong>美国宇航员（NASA）前往国际空间站的SpaceX Crew-2任务的成员Shane Kimbrough和Megan McArthur上周五向媒体成员介绍了他们在SpaceX Crew Dragon太空舱上的旅程以及在空间站的日常生活。</strong> Kimbrough和McArthur是四名宇航员中的一员，是轨道空间实验室第第65号远征队的一部分。采访提供了更多关于SpaceX Dragon旅行对其乘客的感觉的细节。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0517/b11c6c304e243af.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0517/b11c6c304e243af.jpeg" alt="SPACEX-DRAGON-RESILIENCE-ISS-DOCKING-740x493.jpeg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">他们的采访是由KFMB<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>台和Spaceflight Now进行的，所问的问题包括宇航员在 SpaceX Crew Dragon 上的经验以及在国际空间站的工作和生活。</p><p style="text-align: left;">KFMB电视台的Heather Myer's在向宇航员询问他们在Crew Dragon上的旅程时拉开了讨论的序幕。</p><p style="text-align: left;">作为回应，Kimbrough回答说：</p><blockquote style="text-align: left;"><p style="text-align: left;">这是一次奇妙的旅程，我想我们所有人都在发射台上坐了几个小时，准备出发，在精神上和身体上都有一些准备。然后，当发动机点燃时，我们所有人的脸上都露出了灿烂的笑容，因为我们感觉到这种力量将我们从地球提升到太空。在助推器被点燃的前八分半至九分钟里，这是一次不可思议的旅程。还有大量的G力，我们的身体经历了很多不同的感觉。然后在九分钟后，我们在太空中漂浮。所以这是非常酷的体验。</p></blockquote><p style="text-align: left;">Spaceflight Now 的Stephen Clark随后继续提问，他的问题比 Myer's的更尖锐。他首先问Kimbrough，他在猎鹰9号、航天飞机和俄罗斯联盟号上的经历有什么不同。</p><p style="text-align: left;">对此，宇航员解释说，就旅程的平稳性而言，Crew Dragon处于航天飞机和联盟号的中间位置。</p><p style="text-align: left;">他解释说：</p><blockquote style="text-align: left;"><p style="text-align: left;">有几个人问过我这个问题。这是个好问题。我想这是介于两者之间的问题。航天飞机对我来说是......在你周围摇晃和滚动得更厉害。联盟号是超级平稳的，而Crew Dragon是介于两者之间的一种。因此，它是一个平稳的上坡旅程，但沿途有一些隆隆声和颠簸。我们感受到了一些巨大的G力。所以我把它放在联盟号和航天飞机的两种乘坐方式之间。</p></blockquote><p style="text-align: left;">Clark接着问宇航员猎鹰9号的梅林真空引擎与航天飞机相比如何。这个引擎存在于火箭的第二级，负责在火箭第一级分离后将有效载荷和宇航员推进到太空。</p><p style="text-align: left;">据Kimbrough称：</p><blockquote style="text-align: left;"><p style="text-align: left;">是的，那是相当棒的。因此，在第一级发动机关闭后，我们有几秒钟的失重，然后MVac（梅林真空引擎）启动，可以说这是一个非常好的出乎意料的过程。 我们被吸回到座位上，在接下来的六分钟左右的时间里，我们感受到了那种巨大的加速度。</p></blockquote><p style="text-align: left;">记者随后问及 Crew Dragon、航天飞机和联盟号之间的可居住性差异。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0517/12478b3d35d02ea.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0517/12478b3d35d02ea.jpeg" alt="NASA-ASTRONAUT-SHANE-KIMBROUGH-ISS-2021-1030x687.jpeg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Kimbrough在回答时强调，长时间呆在太空舱内是很困难的。</p><p style="text-align: left;">他对这个问题的完整回答是：</p><blockquote style="text-align: left;"><p style="text-align: left;">这是个棘手的问题。我的意思是，我们花了一天左右的时间来到这里，这很奢侈。对我们来说只是一天左右的时间。我想他们会努力把这个时间缩短到不到一天。但可以肯定的是，Inspiration4将在里面生活两到五天，我想这是目前的计划。我个人不希望和一群人在里面住超过几天。当它连接到空间站的时候，我得到了住在里面的特权，因为我们没有睡眠站。但我认为，在里面绕行四次，你知道，人在里面两到三天可能是我个人的极限了。</p></blockquote><p style="text-align: left;">NASA宇航员Shannon Walker之前也讨论过 Crew Dragon比联盟号宽敞的问题。她去年作为航天局首次运行的载人飞行的一部分飞往国际空间站，在12月被SpaceX公司总裁Gwynne Shotwell 问及乘坐Crew Dragon和联盟号飞船的区别时，她回答说：</p><blockquote style="text-align: left;"><p style="text-align: left;">. ...它比联盟号更宽敞一点。我乘坐联盟号到空间站的时间是两天，所以只用了一天多一点就好多了。但是你有更多的空间在Crew Dragon上活动。</p></blockquote><p style="text-align: left;">Inspiration4是SpaceX公司为Crew Dragon执行的首次私人载人任务，它将在地球轨道上执行首个平民载人航天任务。它将于9月升空，使用去年在NASA的SpaceX Crew-1任务中为宇航员Michael Hopkins、 Victor Glover、Shannon Walker 和日本宇宙航空研究开发机构（JAXA）宇航员Soichi Noguchi飞往国际空间站的舱。</p>   
+</div>
+            
