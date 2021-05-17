@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/isamu-noguchi-camp-in-between/'
 author: Inside Design
 comments: false
-date: 2021-05-17 04:12:18
+date: 2021-05-17 08:02:13
 thumbnail: 'https://www.invisionapp.com/inside-design/isamu-noguchi-camp-in-between/'
 ---
 

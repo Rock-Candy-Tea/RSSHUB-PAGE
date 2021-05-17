@@ -1,0 +1,23 @@
+
+---
+title: 'BOONBOON植物油 _ 天使轮 _ 数百万人民币'
+categories: 
+ - 新媒体
+ - IT 桔子
+ - 投融资事件
+headimg: 'https://cdn.itjuzi.com/images/26fbf84b2afe9303d14330ab0c72754d.png'
+author: IT 桔子
+comments: false
+date: Mon, 17 May 2021 00:00:00 GMT
+thumbnail: 'https://cdn.itjuzi.com/images/26fbf84b2afe9303d14330ab0c72754d.png'
+---
+
+<div>   
+<img src="https://cdn.itjuzi.com/images/26fbf84b2afe9303d14330ab0c72754d.png" referrerpolicy="no-referrer"><br><br>
+        <strong>BOONBOON植物油</strong><br>
+        以椰子油为切入点的植物油品牌<br>
+        天使轮 / 数百万人民币 / 2021-05-17<br>
+        投资方: 新进创投
+        
+</div>
+            

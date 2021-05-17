@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202105/08/8764da/75cf3abf65fdc07a.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-05-17 04:12:53
+date: 2021-05-17 08:02:52
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202105/08/8764da/75cf3abf65fdc07a.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.05.15                        <br>【德国CIH】绿钻M95塔扇<br>                            数量 ：5<br>                            实际价格 ：1049元<br>                            名单确认中<br>                            660人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/08/8764da/75cf3abf65fdc07a.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.05.15                        <br>【德国CIH】绿钻M95塔扇<br>                            数量 ：5<br>                            实际价格 ：1049元<br>                            活动体验中<br>                            660人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/08/8764da/75cf3abf65fdc07a.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
