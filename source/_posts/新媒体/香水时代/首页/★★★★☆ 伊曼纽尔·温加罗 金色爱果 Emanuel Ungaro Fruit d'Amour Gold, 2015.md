@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=7425'
+headimg: 'https://picsum.photos/400/300?random=6522'
 author: 香水时代
 comments: false
 date: Sun, 14 Jun 2020 03:01:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7425'
+thumbnail: 'https://picsum.photos/400/300?random=6522'
 ---
 
 <div>   
-Violet, iris and vanilla. Light, sweet, soft, powdery. It smells so lovely. If you love to smell lipsticks and powders you will need to have this fragrance.  
+Violet, iris and vanilla. Light, sweet, soft, powdery. It smells so lovely. If you love smelling lipsticks and powders you will need to have this fragrance.  
 </div>
             
