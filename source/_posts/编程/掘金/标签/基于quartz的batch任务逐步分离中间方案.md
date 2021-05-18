@@ -37,6 +37,8 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18a85d41d03d46aa8f
 <h2 data-id="heading-6">结果（Result）</h2>
 <p>　　最后项目运行正常，没有和原程序的batch相互干扰。这也是我第一次用多数据源，感觉还是很简单的。</p>
 <h2 data-id="heading-7">总结（Summarize）</h2>
-<p>　　使用@Primary注解让Mybatis默认使用我们自定义的DynamicDataSource，在生成DynamicDataSource对象时，我们把多个的数据源都以map的形式保存到了DynamicDataSource对象中。后面切换数据源主要是通过改变DataSourceContextHolder类中的contextHolder成员保存的key，而在需要进行数据库连接时，Mybatis在DynamicDataSource中索取数据源，DynamicDataSource通过determineTargetDataSource()方法从map中获取具体的数据源。而key是通过重写的determineCurrentLookupKey()方法在DataSourceContextHolder类中的contextHolder成员那里拿到的。这样就达到了数据源切换的效果了。总之就是有些东西用了就知道很简单。</p></div>  
+<p>　　使用@Primary注解让Mybatis默认使用我们自定义的DynamicDataSource，在生成DynamicDataSource对象时，我们把多个的数据源都以map的形式保存到了DynamicDataSource对象中。后面切换数据源主要是通过改变DataSourceContextHolder类中的contextHolder成员保存的key，而在需要进行数据库连接时，Mybatis在DynamicDataSource中索取数据源，DynamicDataSource通过determineTargetDataSource()方法从map中获取具体的数据源。而key是通过重写的determineCurrentLookupKey()方法在DataSourceContextHolder类中的contextHolder成员那里拿到的。这样就达到了数据源切换的效果了。总之就是有些东西用了就知道很简单。</p>
+<h2 data-id="heading-8">更优方案</h2>
+<p>　　在看了quartz配置参数后发现还有一个更好的方案：<a href="https://zhuanlan.zhihu.com/p/338917390" target="_blank" rel="nofollow noopener noreferrer">修改数据库表的前缀</a>，通过表名前缀也可以达到batch隔离的效果。</p></div>  
 </div>
             

@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/9305d2f9e2e6b416ef9805c9231d52cc.png'
         <strong>帕特诺尔</strong><br>
         专业宠物用品公司<br>
         A+轮 / 数亿人民币 / 2021-05-18<br>
-        投资方: 
+        投资方: 挑战者资本、金鼎资本
         
 </div>
             

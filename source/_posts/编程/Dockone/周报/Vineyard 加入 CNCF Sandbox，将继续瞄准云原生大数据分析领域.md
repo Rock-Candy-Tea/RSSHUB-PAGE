@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/c31b71c92ae54f6982595f1978a48039.png'
+headimg: 'https://ucc.alicdn.com/pic/developer-ecology/bacc1278793b4d7a9be7b1c44cb93a2e.jpg'
 author: Dockone
 comments: false
-date: 2021-05-18 08:03:18
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/c31b71c92ae54f6982595f1978a48039.png'
+date: 2021-05-18 12:04:22
+thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/bacc1278793b4d7a9be7b1c44cb93a2e.jpg'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/c31b71c92ae54f6982595f1978a48039.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>作者 | Vineyard 团队<br>
 来源 | <a href="https://mp.weixin.qq.com/s/IbVVJJngLKJJOD2FISmPmA">阿里巴巴云原生公众号</a><br>
 ​<br>
