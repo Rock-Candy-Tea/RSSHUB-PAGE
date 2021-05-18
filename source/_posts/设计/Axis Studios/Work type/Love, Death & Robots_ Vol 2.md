@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14366/ldr_2_axisstudios_002.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2021-05-17 12:03:35
+date: 2021-05-18 00:16:09
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/ldr_2_axisstudios_002.-full.jpg'
 ---
 
@@ -68,6 +68,14 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/ldr_2_axisstudi
                             </span>
                     
 
+                    
+                        <h3 class="mb-0">
+                            <a class="toggle collapsed" data-toggle="collapse" href="https://axisstudiosgroup.com/work/love-death-robots-vol-2/#fullCreditDetails" role="button" aria-expanded="false" aria-controls="fullCreditDetails">Full credits </a>
+                        </h3>
+                        
+                            Adam Lindsey, Ahmed Nasri, Alberto Garcia, Alejandro Delgado Rubianes, Alejandro More, Alex Stratulat, Altug Yilmazer, Alvaro Zabala de Lope, Amy Ash, Amz Rattan, Andrew Clunes, Angus Dunn, Baptiste Jaquemet, Bartlomiej Gawel, Bojin Shi, Bram Sels, Brenainn Jordan, Camille Fourniols, Chloe Campbell, Chris Livesey, Cyriel Verkuijlen, Darren Paul, David Lewander, Didac Ruiz, Didac Ruiz, Dmitry Kremiansky, Duncan Formosa, Emanuel Strixner, Eric Paquet, Fraser Littlejohn, Georg-Sebastian Dressler, Hamish Mitchell, Hudson Martins Ribeiro, Huy Ho, Jakub Javora, James Hodgart, James W Cain, Javier Sanz, John Barclay, Jonas Bergholm Larsson, Josan Grimaldo Gómez, Jose Vicente de Maria Martinez, Joseph Nickson, Justin Dolan, Katarzyna Olszewska, Lara Cores, Laura MacMahon, Liam Corrie, Louise McGregor, Lucie Parola, Luke Smith, Maeve Eydmann, Mariam Hamed, Mario Aquaro, Markus Hadinger, Meghan Hamilton, Mike McCain, Nicolas Cevrero, Nicole Stockley, Pablo Conca Bosch, Peter Driscoll, Peter Mullan, Philipp Buschauer, Richard Wright, Rishab Chitroda, Ruaraidh Gillies, Ryan Federman, Scott Yorke, Sergey Kolesov, Sofia Guix, Stephen King, Stephen Mulholland, Steven Buntin, Tamas Sarffi, Thomas Katsikoudis, Tom Nelson, Veronika Vajdova, Victoria Durand, William Liu, Yannic Kawan
+                        
+                    
                 
             
             

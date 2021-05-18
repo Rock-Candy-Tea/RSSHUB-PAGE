@@ -1,0 +1,18 @@
+
+---
+title: '当你觉得steam主流游戏没有适合自己的怎么办？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/292030_6x1Ub.jpg'
+author: 小黑盒
+comments: false
+date: Tue, 18 May 2021 05:46:48 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/292030_6x1Ub.jpg'
+---
+
+<div>   
+<p>作为一个20岁的有为青年，我打过上万吧的dota和王者，经历过各种RPG地图以及cf赛尔号之类的老游戏</p><p>在我高中毕业那年我买到了自己的第一台电脑，开始入坑steam。</p><p>我随波逐流的买过很多游戏，可是我觉得他们9+的评分和90+的好评率并不能让我满意。</p><p>最先我入坑的是巫师3，文明6</p><p><img data-gameid="292030" src="https://cdn.max-c.com/heybox/game/header/292030_6x1Ub.jpg" referrerpolicy="no-referrer"></p><p><br></p><p><img data-gameid="289070" src="https://cdn.max-c.com/heybox/game/header/289070_Ahm2s.jpg" referrerpolicy="no-referrer"></p><p>作为RPG和战旗类的代表作之一，我并没有从这些游戏中感到一些惊喜（除了巫师中的昆特牌），相反，巫师3满地图的问号让我感到无所适从，文明6庞大的信息量让我十几个小时都没结束我的新手教程，懵懂的在第一把里面徘徊。</p><p>后来我又入手了很多成名的RPG大作，gta5，赛博朋克2077，大表哥等。他们打着开放世界的名号，但是自身的故事却是线性的，难以让我产生代入感，自然也玩不下去（这些游戏每个至少20h以上，别杠，不喜欢就是不喜欢）如赛博朋克之类的满屏问号让我反感，而大表哥和gta这样的游戏没有明确的目标又让我无所适从，很是尴尬。</p><p><img class="lazy" data-height="2640" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/05/17/b147c3db1b130cff160ed5e9ba5e65a3/thumb" data-width="1200" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="2640" src="https://bbsimg.maxjia.com//heybox/bbs/imgs/2021/05/17/6af54a2b6f08ea418dc36cce1d5cb6ce/thumb" data-width="1200" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#游戏推荐#</a>   <a href="heybox://open_subject" target="_blank">#游戏推荐#</a>  <a href="heybox://open_subject" target="_blank">#游戏推荐#</a> <br></p><p>后来我又开始了其他尝试，记忆犹新的是这个</p><p><img data-gameid="632360" src="https://cdn.max-c.com/heybox/game/header/632360_XOG4e.jpg" referrerpolicy="no-referrer"></p><p>我当时觉得这个游戏不好玩给了一星差评，被十几个人来来回回喷了几个星期，但是这类肉鸽游戏我确实不感兴趣，完全没有小时候玩魔兽RPG地图的那种快乐。在我这里确实只能给个一星，不好玩，无脑刷。</p><p>总而言之林林总总的，加上和我朋友共享的游戏，我总共玩过上百款游戏，如果你有和我相同的困惑，你或许可以去尝试下他们。</p><p>1双人成行</p><p><img data-gameid="1426210" src="https://cdn.max-c.com/heybox/game/header/1426210_kaoXI.jpg" referrerpolicy="no-referrer"></p><p>这是我体验了如此之多的游戏第一款通关的，唯美的画风，虽是线性剧情却充满了奇思妙想和新奇的设计，每一关都不同的玩法，让人沉浸其中。强烈推荐。</p><p>2深入</p><p><img data-gameid="304430" src="https://cdn.max-c.com/heybox/game/header/304430_zyyVk.jpg" referrerpolicy="no-referrer"></p><p>这是我第二款通关的游戏，在小男孩逃亡的过程中，雨水和阳光都让我感到震撼，不错的关卡设计，不长的流程，让我一下午通关了他。不错的小游戏。</p><p>3武装突袭3</p><p><img data-gameid="107410" src="https://cdn.max-c.com/heybox/game/header/107410_wrxPm.jpg" referrerpolicy="no-referrer"></p><p>极其硬核的军事模拟器，很好玩，只是没有队友和我一起玩，所以略显无趣，但如果有朋友陪你一起的话不妨试试，在我看来比一些肉鸽游戏有趣多了</p><p>4scp秘密实验室</p><p><img data-gameid="700330" src="https://cdn.max-c.com/heybox/game/header/700330_28F7S.jpg" referrerpolicy="no-referrer"></p><p>可能是我习惯了对抗，这是steam上第一个能让我敢大晚上玩的恐怖游戏，我被逃生2和安抚吓得至今不敢打开那些游戏，不过这款游戏乐趣在于和沙雕网友一起开语音搞怪，虽然游戏寿命一般，不过几个月以内不会腻。</p><p>4全面战争模拟器</p><p><img data-gameid="508440" src="https://cdn.max-c.com/heybox/game/header/508440_fMGB9.jpg" referrerpolicy="no-referrer"></p><p>我是煞笔，70元原价买的想玩两个小时退款，一不小心沉浸其中玩了十个小时，排兵布阵，或者操控其中一人，战场千变万化，但沙雕常伴身边，冲就完事了。</p><p>另外附上几款游玩时间不长但是不会让你觉得亏的游戏</p><p>1鬼谷八荒</p><p><img data-gameid="1468810" src="https://cdn.max-c.com/heybox/dailynews/img/3d2c0defbe8983e40805da136e8c5ba5.jpg" referrerpolicy="no-referrer"></p><p>刚玩极其上头，直接通宵肝材料，可惜游玩寿命短，游戏重复度太高，后面就不想打开了。</p><p>2小兵步枪</p><p><img data-gameid="270150" src="https://cdn.max-c.com/heybox/game/header/270150_1RJj0.jpg" referrerpolicy="no-referrer"></p><p>看似简单其实玩起来也挺上头，炮灰模拟，可惜的是军衔不能保存，不过偶尔拿来玩玩调剂也不错。</p><p>3泰坦陨落2</p><p><img data-gameid="1237970" src="https://cdn.max-c.com/heybox/game/header/1237970_bKETW.jpg" referrerpolicy="no-referrer"></p><p>台湾配音极其魔性，不过游戏还挺好玩的，但是线上PVP容易被虐，缩短了游戏寿命，熟悉以后重复度也较高，只能说还不错的游戏。</p><p>最后若觉得以上游戏都不好玩的话，可能就真的怀旧情绪使然，去开几把LOL或者cf，也是不错的选择，当然也欢迎大家提供好玩的游戏一起分享。</p>  
+</div>
+            

@@ -5,15 +5,15 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=1528'
+headimg: 'https://picsum.photos/400/300?random=6519'
 author: Paul Graham 博客
 comments: false
-date: 2021-05-17 12:03:27
-thumbnail: 'https://picsum.photos/400/300?random=1528'
+date: 2021-05-18 00:15:58
+thumbnail: 'https://picsum.photos/400/300?random=6519'
 ---
 
 <div>   
-<a href="https://www.noorahealth.org/">Noora Health</a>, a nonprofit I've 
+May 2021<br><br><a href="https://www.noorahealth.org/">Noora Health</a>, a nonprofit I've 
 supported for years, just launched
 a new NFT. It has a dramatic name, <a href="http://bit.ly/NooraNFT"><u>Save Thousands of Lives</u></a>,
 because that's what the proceeds will do.<br><br>Noora has been saving lives for 7 years. They run programs in
