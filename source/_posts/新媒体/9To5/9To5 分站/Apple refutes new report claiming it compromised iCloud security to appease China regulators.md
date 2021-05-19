@@ -39,7 +39,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/10/App
 <p>Apple said that it sequestered the Chinese data centers because they are, in effect, owned by the Chinese government, and Apple keeps all third parties disconnected from its internal network.</p>
 </blockquote>
 <p>The full report from <a href="https://www.nytimes.com/2017/07/12/business/apple-china-data-center-cybersecurity.html">the<em> New York Times</em></a> is worth a read and can be found here. It includes additional reporting on the App Store in China.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3fsOAlj"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/ZUGU-NB-03.png?w=1000" alt class="wp-image-721163" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3fwqB4m"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/ZUGU-NB-03.png?w=1000" alt class="wp-image-721163" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

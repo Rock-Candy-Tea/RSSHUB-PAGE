@@ -1,0 +1,18 @@
+
+---
+title: 'Android 12来了：强调个性化和安全设计'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f261_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 18 May 2021 15:15:04 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f261_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f261_1024.jpg" data-height="385" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f261_1024.jpg" referrerpolicy="no-referrer"></div></div>新浪科技讯 5 月 19 日凌晨消息，Google I/O 2021 开发者大会（后文简称谷歌 I/O）今日开幕，去年因疫情因新冠疫情而被取消之后，2021 年谷歌 I/O 大会重新回归，并采用全程线上的形式，对所有人免费开放。谷歌宣布 Android 12 正式到来，测试版现在即可供下载，包括 Google Pixel、小米等特定设备。<p></p><p></p><div class="zaker_div"><div id="zkvideo16213797471482" class="zk_upvideo" data-zkinfo="%7B%22status%22%3A%22finished%22%2C%22imgUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2F2021%2F05%2F19%2F1621379742934_W1280H720S.jpeg%22%2C%22videoUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2Farticle_video%2F2021%2F05%2F19%2F16213797425716.mp4%22%2C%22name%22%3A%2216213797425716.mp4%22%2C%22width%22%3A1280%2C%22height%22%3A720%7D"></div><div class="edi_oper"></div></div><p></p><p>Android 12 也是 Android 历史上最大的设计变化，通过引入全新的设计语言 Material You，用户将能够通过自定义调色板和重新设计的小工具来完全个性化自己的手机。利用颜色提取，用户可以选择自己的壁纸，系统会自动确定哪些颜色是主要的，哪些是互补的，哪些只是看起来很好。然后，可以将这些颜色应用于整个操作系统，包括通知栏、锁屏、音量控制、新的小工具以及更多。</p><p>Material You 将在 今年秋天首先出现在 Google Pixel 上，未来它将进入 Google 的从网络应用到硬件的所有产品，包括智能手机、平板电脑、可穿戴设备、智能显示器、物联网项目、智能家居设备等。</p><p>Android 12 还简化了互动，并重新设计了整个底层系统，提升了系统的流畅性和效率 ——Android 设备会变得更流畅，反应更快，电源效率更高。谷歌声称，这是通过一些底层改进实现的，包括将核心系统服务所需的 CPU 时间减少 22%，并将系统服务器对大核心的使用减少 15%。</p><p>此外，通知栏会变得更加直观、有趣，用户可以一目了然地看到应用通知、包括目前正在收听或观看的任何内容。还支持快速设置，让用户通过滑动和点击来控制几乎所有的操作系统。快速设置空间不仅仅是外观和感觉上的不同，包括 Google 支付和家庭控制在内都已经被重新设计，同时仍然允许定制。</p><p>在快捷键设置上，Android 12 也有了变化，用户可以长按电源按钮来调用助理来拨打电话，打开应用程序，提出问题或大声朗读包含大量文字的文章。</p><p>Android 12 的安全性和隐私性进一步提升，保证用户对哪些应用程序正在访问自己的数据有更多的了解和更多的限制。最新的隐私仪表板提供了一个单一的视角，可以看到你的权限设置，以及哪些数据正在被访问，访问的频率和访问了哪些应用程序。用户还可以在仪表板上轻松撤销应用程序的权限。</p><p>谷歌在状态栏的右上方增加了一个新的指示器，用户可以知道应用程序何时访问设备麦克风或摄像头。如果用户想在整个系统中取消应用程序对这些传感器的访问，可以在快速设置中找到两个新的切换键。</p><p>此外，用户还增强了对共享信息数量的控制。通过新的近似位置权限，应用程序可以被限制只看到用户的近似位置，而不是精确位置。例如，天气应用程序不需要精确位置来提供准确的预测。</p><p>在 Android 12 中，谷歌引入了 Android 私有计算核心，增强保护用户个人信息的安全性、私密性。私有计算核心实现了实时字幕、现在播放和智能回复等功能。所有的音频和语言处理都发生在设备上，与网络隔离，以保护你的隐私。与 Android 系统的其他部分一样，私有计算核心的保护措施是开源的，完全可以由安全社区检查和验证。</p><p>有意思的是，通过 Android 12，用户可以控制自己的汽车。谷歌表示，当前正在与汽车制造商合作在 Android 12 中开发一个新的数字汽车钥匙，通过这个功能，用户能够从自己的手机上锁定、解锁，甚至启动汽车。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f262_1024.jpg" data-height="354" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a44aabb15ec06b5f13f262_1024.jpg" referrerpolicy="no-referrer"></div></div>支持 Android 12 Beta 首发测试的厂商包括华硕、Pixel、一加、OPPO、realme、夏普、传音、TCL、vivo、小米、中兴。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
