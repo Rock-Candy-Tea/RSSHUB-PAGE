@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.zhihu.com/equation?tex=%5Cmathbb%7BR%7D%2C%5Cmathbb%7BC%7D'
 author: 知乎
 comments: false
-date: Tue, 18 May 2021 18:02:58 GMT
+date: Wed, 19 May 2021 04:54:36 GMT
 thumbnail: 'https://www.zhihu.com/equation?tex=%5Cmathbb%7BR%7D%2C%5Cmathbb%7BC%7D'
 ---
 
@@ -27,7 +27,7 @@ lilyyyyz的回答<br><br><p>5.19 竟然有好多人看，那我就来补充点�
 \usepackage&#123;mathtools&#125;
 \usepackage&#123;enumitem&#125;
 \usepackage&#123;amsthm&#125;
-</span></code></pre></div><ul><li>这条算是第三条的一个补充，比较适用于写paper记笔记啥的，我看到蛮多textbooks也喜欢把definition或者theorem的内容斜体什么的（效果见下图），但是重复弄可能比较没有效率，所以也可以提前定义一下什么的。</li></ul><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-95f83e2f5da61bb367766fa7df25cc7b_1440w.jpg" data-size="normal" data-rawwidth="832" data-rawheight="568" data-default-watermark-src="https://pic1.zhimg.com/v2-430d5a6475112d08442fc2b2f8bba27f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-95f83e2f5da61bb367766fa7df25cc7b_r.jpg" referrerpolicy="no-referrer"><figcaption>从我大一spring的一门课的final project里面截的，请忽略内容。。。</figcaption></figure><p>code如下</p><div class="highlight"><pre><code class="language-text"><span>\newtheorem&#123;thm&#125;[equation]&#123;Theorem&#125;
+</span></code></pre></div><ul><li>这条算是第三条的一个补充，比较适用于写paper记笔记啥的，我看到蛮多textbooks也喜欢把definition或者theorem的内容斜体什么的（效果见下图），但是重复弄可能比较没有效率，所以也可以提前定义一下什么的。</li></ul><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-95f83e2f5da61bb367766fa7df25cc7b_1440w.jpg" data-rawwidth="832" data-rawheight="568" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-430d5a6475112d08442fc2b2f8bba27f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-95f83e2f5da61bb367766fa7df25cc7b_r.jpg" referrerpolicy="no-referrer"><figcaption>从我大一spring的一门课的final project里面截的，请忽略内容。。。</figcaption></figure><p>code如下</p><div class="highlight"><pre><code class="language-text"><span>\newtheorem&#123;thm&#125;[equation]&#123;Theorem&#125;
 \newtheorem&#123;cor&#125;[equation]&#123;Corollary&#125;
 \newtheorem&#123;lemma&#125;[equation]&#123;Lemma&#125;
 \newtheorem&#123;prop&#125;[equation]&#123;Proposition&#125;
@@ -35,6 +35,6 @@ lilyyyyz的回答<br><br><p>5.19 竟然有好多人看，那我就来补充点�
 \newtheorem&#123;definition&#125;[equation]&#123;Definition&#125;
 \newtheorem&#123;remark&#125;[equation]&#123;Remark&#125;
 \newtheorem&#123;example&#125;[equation]&#123;Example&#125;
-</span></code></pre></div><ul><li>还有一些就是提高读者阅读质量的一些小心机，比如说给自己写的notes加点色彩什么的，效果请移步至我的文章，<a href="https://zhuanlan.zhihu.com/p/366956718" class="internal">大一实分析学习笔记｜（2）2019.9.4~2019.9.18</a>，当然我很难原创出这么好看的排版，很多想法是从大佬evan的笔记那里偷的。具体code我先挖个坑，到时候再补上。</li></ul><p>目前先写这么多！如果有想到的我会持续更新！</p><hr><p>我从高一刚接触latex的时候，打一篇两页的problem set 大概要整整一天，还是在非常专心的状态下。主要时间浪费在不熟悉math notation，不知道怎么enumerate，排版混乱，有时候不小心点到中文输入法（逗号，减号等等）搞的自己也不知道哪里错了。而且我那时候用的是最原始的编译器，所以debug速度很慢，经常乱码。</p><p>我觉得如果是入门的话，不妨用overleaf上面的模版，网上找一篇数学论文，你不用去理解它，照打，就像练打字一样，熟能生巧刚开始入门的问题就不会再犯了。也可以琢磨一些大佬的模版，尤其推荐Evan Chen的，可以在他的个人主页找到，是非常好的学习资料。</p><p>我刚开始上课用latex记笔记的时候，刚开始会存在跟不上教授讲课速度的问题。但不妨就先记上normal text，然后到课后再整理。熟练了以后上课跟记完全是没有什么问题的。我们平时的作业基本都要typeset，再加上一直在做很花里胡哨的指甲，完全不想写字，越用越习惯，比手写效率高多了。</p><p>ps：我目前大学的所有数学课教授的讲义确实是latex打的，都超好看，从中学了很多</p>  
+</span></code></pre></div><ul><li>还有一些就是提高读者阅读质量的一些小心机，比如说给自己写的notes加点色彩什么的，效果请移步至我的文章，<a href="https://zhuanlan.zhihu.com/p/366956718" class="internal">大一实分析学习笔记｜（2）2019.9.4~2019.9.18</a>，当然我很难原创出这么好看的排版，很多想法是从大佬evan的笔记那里偷的。具体code我先挖个坑，到时候再补上。</li></ul><p>目前先写这么多！如果有想到的我会持续更新！如果有兴趣的可以点个追更！</p><hr><p>我从高一刚接触latex的时候，打一篇两页的problem set 大概要整整一天，还是在非常专心的状态下。主要时间浪费在不熟悉math notation，不知道怎么enumerate，排版混乱，有时候不小心点到中文输入法（逗号，减号等等）搞的自己也不知道哪里错了。而且我那时候用的是最原始的编译器，所以debug速度很慢，经常乱码。</p><p>我觉得如果是入门的话，不妨用overleaf上面的模版，网上找一篇数学论文，你不用去理解它，照打，就像练打字一样，熟能生巧刚开始入门的问题就不会再犯了。也可以琢磨一些大佬的模版，尤其推荐Evan Chen的，可以在他的个人主页找到，是非常好的学习资料。</p><p>我刚开始上课用latex记笔记的时候，刚开始会存在跟不上教授讲课速度的问题。但不妨就先记上normal text，然后到课后再整理。熟练了以后上课跟记完全是没有什么问题的。我们平时的作业基本都要typeset，再加上一直在做很花里胡哨的指甲，完全不想写字，越用越习惯，比手写效率高多了。</p><p>ps：我目前大学的所有数学课教授的讲义确实是latex打的，都超好看，从中学了很多</p>  
 </div>
             
