@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游戏动力
  - 游戏资讯
-headimg: 'https://picsum.photos/400/300?random=2252'
+headimg: 'https://picsum.photos/400/300?random=4966'
 author: 游戏动力
 comments: false
 date: Mon, 17 May 2021 06:28:10 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2252'
+thumbnail: 'https://picsum.photos/400/300?random=4966'
 ---
 
 <div>   
