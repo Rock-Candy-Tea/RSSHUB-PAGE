@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/f38cea34b6214cc19b4edc99b77e8e14.png'
+headimg: 'https://picsum.photos/400/300?random=9577'
 author: Dockone
 comments: false
-date: 2021-05-19 08:03:42
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/f38cea34b6214cc19b4edc99b77e8e14.png'
+date: 2021-05-19 12:03:58
+thumbnail: 'https://picsum.photos/400/300?random=9577'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/f38cea34b6214cc19b4edc99b77e8e14.png" alt="头图.png" referrerpolicy="no-referrer"><br>
 <br>头图来源：<a href="https://opensource.guide/" rel="nofollow" target="_blank">https://opensource.guide/</a><br>
 来源 | <a href="https://mp.weixin.qq.com/s/k92V4O6vJnaun2J3qY9RRg">阿里巴巴云原生公众号</a><br>
 ​<br>

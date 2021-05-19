@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210519/39bfb2a281a3c463ede0782bd90b3d16.png'
 author: Dockone
 comments: false
-date: 2021-05-19 08:03:42
+date: 2021-05-19 12:03:58
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210519/39bfb2a281a3c463ede0782bd90b3d16.png'
 ---
 
@@ -40,7 +40,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <br>如果您也有反馈及建议，请通过  <a href="https://github.com/istio/istio.io">istio.io repo</a>向我们提交问题。<br>
 <h3>全面开放设计文档</h3>自2021年5月20日起，Istio的设计与规划文档将全面向每一位互联网用户开放，且无需提前登录。以往，查看这些文档要求您提供Google登录名及组成员身份。此次变更将让技术文档的共享变得更轻松、更开放。文件的URL继续保持不变，但Community Drive及其中的文件夹位置将发生变化。本周之内，我们将就具体细节向各位贡献者及Drive成员发布通告。<br>
 <h3>弃用功能</h3>1.10版本弃用了以下两项功能：<br>
-<ul><li>第一方JWT支持（<code class="prettyprint">values.global.jwtPolicy=first-party-jwt</code>）将被移除；其安全性较差，仅用于同早期Kubernetes版本保持向后兼容。</li><li>由Kubernetes config当中的Affinity设置取代<code class="prettyprint">values.global.arch</code>选项。</li></ul><br>
+<ul><li>Kubernetes第一方JWT支持（<code class="prettyprint">values.global.jwtPolicy=first-party-jwt</code>）将被移除；其安全性较差，仅用于同早期Kubernetes版本保持向后兼容。</li><li>由Kubernetes config当中的Affinity设置取代<code class="prettyprint">values.global.arch</code>选项。</li></ul><br>
 <br>关于功能弃用的更多详细说明，请参阅1.10版本<a href="https://istio.io/latest/news/releases/1.10.x/announcing-1.10/change-notes/">变更通知</a>。<br>
 <br><strong>原文链接：<a href="https://istio.io/latest/news/releases/1.10.x/announcing-1.10/">Announcing Istio 1.10</a></strong>
                                                                 <div class="aw-upload-img-list">

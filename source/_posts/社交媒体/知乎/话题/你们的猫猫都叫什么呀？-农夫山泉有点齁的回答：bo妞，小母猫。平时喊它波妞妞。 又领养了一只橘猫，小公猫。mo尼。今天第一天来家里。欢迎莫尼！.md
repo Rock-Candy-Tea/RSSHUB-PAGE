@@ -1,0 +1,18 @@
+
+---
+title: '你们的猫猫都叫什么呀？-农夫山泉有点齁的回答：bo妞，小母猫。平时喊它波妞妞。 又领养了一只橘猫，小公猫。mo尼。今天第一天来家里。欢迎莫尼！'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-33845ad769d35551a73cdd84ab661808_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 19 May 2021 12:01:28 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-33845ad769d35551a73cdd84ab661808_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>你们的猫猫都叫什么呀？</strong><br>农夫山泉有点齁的回答<br><p>bo妞，小母猫。平时喊它波妞妞。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-33845ad769d35551a73cdd84ab661808_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d91a4fdd5bee3a010dab1b195d174f1c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-33845ad769d35551a73cdd84ab661808_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-33845ad769d35551a73cdd84ab661808_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-2249629a50731bda5c657c4caad5bdbd_720w.jpg?source=54b3c3a5" data-rawwidth="1664" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-2bbc6c777f99cefd7dbcbf4987c5b11a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-2249629a50731bda5c657c4caad5bdbd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-2249629a50731bda5c657c4caad5bdbd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-7f26245f728b008264f2590f8422f14a_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5d55fbc57cc111ce77a3653e8e44dcdb_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-7f26245f728b008264f2590f8422f14a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-7f26245f728b008264f2590f8422f14a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-72aebb8f768c0cd48192170948b95a9a_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4d23c768472a34cb36e91519d884520f_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-72aebb8f768c0cd48192170948b95a9a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-72aebb8f768c0cd48192170948b95a9a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>又领养了一只橘猫，小公猫。mo尼。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e80c53f3279a10b166f1e367bcbf558e_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-a7d6026114690b003df801187fcf07ae_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-e80c53f3279a10b166f1e367bcbf558e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e80c53f3279a10b166f1e367bcbf558e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>今天第一天来家里。欢迎莫尼！</p>  
+</div>
+            
