@@ -1,0 +1,18 @@
+
+---
+title: 'SRG：2020年UCaaS用户数量增长41%'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=4764'
+author: 199IT
+comments: false
+date: Wed, 19 May 2021 18:15:02 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4764'
+---
+
+<div>   
+SRG：2020年UCaaS用户数量增长41%  
+</div>
+            

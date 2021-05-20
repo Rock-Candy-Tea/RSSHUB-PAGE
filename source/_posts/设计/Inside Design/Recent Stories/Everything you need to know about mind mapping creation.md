@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/mind-mapping-creation/'
 author: Inside Design
 comments: false
-date: 2021-05-19 12:03:18
+date: 2021-05-20 00:15:13
 thumbnail: 'https://www.invisionapp.com/inside-design/mind-mapping-creation/'
 ---
 

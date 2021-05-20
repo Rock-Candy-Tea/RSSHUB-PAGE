@@ -1,0 +1,19 @@
+
+---
+title: '阿里平头哥发布RISC-V架构新处理器，能帮助国产摆脱「卡脖子」吗？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/19/gui/1621421867178095226.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 19 May 2021 10:57:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/19/gui/1621421867178095226.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">5月18日消息，<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.HTM" target="_blank" title="阿里巴巴">阿里巴巴</a></span>旗下平头哥半导体有限公司发布了其玄铁系列新款处理器——玄铁907。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/19/gui/1621421867178095226.jpg" title="阿里平头哥发布RISC-V架构新处理器，能帮助国产摆脱「卡脖子」吗？" alt="阿里平头哥发布RISC-V架构新处理器，能帮助国产摆脱「卡脖子」吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图片来自平头哥官网</p><p style="text-indent: 2em; text-align: left;">据悉，玄铁907基于开源的RISC－V架构，并对这一架构作了优化设计，兼顾了高性能和低功耗的特点，可应用于MPU（微处理器）、导航定位、智能语音、存储控制等领域。据称，玄铁907处理器已向多家企业授权。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/19/gui/1621421907881068393.jpg" title="阿里平头哥发布RISC-V架构新处理器，能帮助国产摆脱「卡脖子」吗？" alt="阿里平头哥发布RISC-V架构新处理器，能帮助国产摆脱「卡脖子」吗？" width="800" height="460" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">平头哥玄铁907处理器架构图，来自阿里平头哥</p><p style="text-indent: 2em; text-align: left;">具体而言，玄铁907据称基于开源RISC－V架构作了扩展增强，采用了「5级流水线设计」，最高工作频率超过了1GHz，单位性能可达到3．8 Coremark／MHz。此外，玄铁907处理器据称还首次实现了RISC－V架构最新的DSP指令标准，可适用于诸如存储、工业控制等对算力性能要求较高的实时计算场景。</p><p style="text-indent: 2em; text-align: left;"><strong>平头哥深耕RISC－V架构</strong></p><p style="text-indent: 2em; text-align: left;">公开信息显示，在此之前，阿里平头哥已推出过基于RISC－V架构的多款玄铁系列产品，包括玄铁902、906及910等。</p><p style="text-indent: 2em; text-align: left;">其中，2019年7月发布的玄铁910，号称是当时业界性能最强的一款RISC－V处理器，支持16核，单核性能达到7．1 Coremark／MHz，主频达到2．<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-5G.HTM" target="_blank" title="5G">5G</a></span>Hz，比目前业界最好的RISC－V处理器性能高40％以上可用于设计制造高性能端上芯片，应用于5G、<span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="人工智能">人工智能</a></span>，以及自动驾驶等场景领域。</p><p style="text-indent: 2em; text-align: left;">据悉，平头哥旗下玄铁系列处理器出货量已超过20亿，涉及企业包括全志科技、卓胜微电子、中科蓝汛等重点合作在内的共计200多家企业。</p><p style="text-indent: 2em; text-align: left;"><strong>移植Android至RISC－V</strong></p><p style="text-indent: 2em; text-align: left;">鉴于RISC－V架构的开源优势，早在今年1月下旬，阿里平头哥就在RISC－V方面传出过大动作——成功移植Android 10系统至自家RISC－V系统。</p><p style="text-indent: 2em; text-align: left;">据了解，Android本身其实就是支持不同指令集架构的，x86、ARM都支持，但RISC－V架构却长期没被覆盖到。</p><p style="text-indent: 2em; text-align: left;">阿里当时的移植目标RISC－V系统据称拥有3个64 bit RISC－V玄铁910核心，各自有1．2GHz时脉，其中一个支持128bit向量指令。</p><p style="text-indent: 2em; text-align: left;">据平头哥方面介绍，这种移植可成功使用Android的基本体验，包括图形界面、触控屏控制等。不过，当时，平头哥的这种移植还只是概念展示阶段，但也展现出未来使用RISC－V系统运行Android的可能性。待技术成熟后，有潜力帮助中国企业摆脱对x86和ARM架构这些基于欧美技术架构的依赖。</p><p style="text-indent: 2em; text-align: left;"><strong>RISC－V能帮助中国企业摆脱「卡脖子」问题吗？</strong></p><p style="text-indent: 2em; text-align: left;">2020年9月，英伟达宣布将斥资400亿美元收购ARM，在中美贸易摩擦（特别是科技领域的严重冲突）的大背景下，也引发了中国舆论场的大量辩论。</p><p style="text-indent: 2em; text-align: left;">不少评论都指出，作为美国企业的英伟达收购ARM，或将给中国企业基于ARM开发芯片IP的工作带来一定程度的风险。这种风险从华为受到美国「实体清单」制裁后，ARM不得不对其「断供」的情况就可以一斑。而为了应对这种风险，中国工程院院士倪光南甚至建议呼吁中国相关的市场监管部门阻止英伟达对ARM的这桩收购案。</p><p style="text-indent: 2em; text-align: left;">而行业观察人士也表示，RISC－V架构的生态系统发展总体而言非常顺利。NVIDIA并购ARM的事件给业界带来的风险担忧，也进一步给RISC－V带来了难得的、历史性的发展机遇。</p><p style="text-indent: 2em; text-align: left;">若RISC－V生态能得到长足发展，作为不受特定政府、企业控制的开源架构，它也确实可以为中国企业在解决「卡脖子」问题方面带来一线曙光……</p> 
+  
+</div>
+            
