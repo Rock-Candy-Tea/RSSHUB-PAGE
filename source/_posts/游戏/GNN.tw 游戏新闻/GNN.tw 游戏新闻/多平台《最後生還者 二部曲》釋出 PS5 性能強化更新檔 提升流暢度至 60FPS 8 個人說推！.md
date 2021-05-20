@@ -1,0 +1,22 @@
+
+---
+title: '多平台
+《最後生還者 二部曲》釋出 PS5 性能強化更新檔 提升流暢度至 60FPS
+ 8 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/21/e045fd8f30e2aea0739b6317771cf5d5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/21/e045fd8f30e2aea0739b6317771cf5d5.JPG'
+---
+
+<div>   
+索尼互動娛樂（SIE）今日宣布，獲得全世界超過 300 個年度遊戲獎項的 PS4 動作冒險遊戲《最後生還者 二部曲（The Last of Us Part II）》現已釋出針對 PS5 的性能更新檔，將流暢度從 30FPS 提升至 60FP...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/21/e045fd8f30e2aea0739b6317771cf5d5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
