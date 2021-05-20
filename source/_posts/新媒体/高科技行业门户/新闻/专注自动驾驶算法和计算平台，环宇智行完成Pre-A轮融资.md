@@ -1,0 +1,19 @@
+
+---
+title: '专注自动驾驶算法和计算平台，环宇智行完成Pre-A轮融资'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=5171'
+author: 高科技行业门户
+comments: false
+date: Thu, 20 May 2021 10:22:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5171'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">5月20日报道（文／盛佳莹）</p><p style="text-indent: 2em; text-align: left;">近期，环宇智行宣布完成5500万的Pre－A轮融资，猎云网采访到环宇智行创始人李明博士，他表示，本轮融资将用于大范围测试，提高产品可靠性方面。</p><p style="text-indent: 2em; text-align: left;">此前，环宇智行曾于2018年1月完成1500万天使轮融资。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">专注于<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CAT-70109-automaticdriving.html" target="_blank" title="自动驾驶">自动驾驶</a></span>的算法和计算平台</span></strong></p><p style="text-indent: 2em; text-align: left;">环宇智行是一家专注于自动驾驶的算法和计算平台的给主机厂提供软硬件的公司，产品是高可靠性的自动驾驶域控制器和自动驾驶软件，满足从L2．5和L4自动驾驶的需求。</p><p style="text-indent: 2em; text-align: left;">目前，环宇智行有两大核心业务：</p><p style="text-indent: 2em; text-align: left;">一是L2．5自动驾驶订单，产品交付PALLAS域控制器或者L2．5功能给新的车型，目前环宇智行已经拿到多个高端车型的L2＋量产车型功能开发订单，将于2022年底SOP量产。</p><p style="text-indent: 2em; text-align: left;">二是限定场景L4自动驾驶订单，产品需要交付TITAN域控制器硬件和Athena自动驾驶软件，主要专注同城范围内与生活息息相关的场景，如外卖配送、快递送货以及最后一公里出行服务等，目前产品经过多年迭代已经批量用于十多款自动驾驶车型，包括东风Sharing－VAN、Sharing－Box、EV350、AX7、A60系列、上汽MARVEL X、金旅星辰等。</p><p style="text-indent: 2em; text-align: left;">目前，环宇智行核心产品为自动驾驶计算平台，包括TITAN和PALLAS系列域控制器和Ares系列SOC模块，以及开放可靠的自动驾驶算法和软件。</p><p style="text-indent: 2em; text-align: left;">李明向猎云网介绍到，目前环宇智行的旗舰产品可支持各种接口，性能强劲，突出客户体验感，而针对芯片卡脖子问题，环宇智行产品从采用国外芯片也改为采用国内芯片，并与合作伙伴共同研发自主芯片，支持客户持续迭代升级。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">“自动驾驶正在迎来千载难逢的产业机会”</span></strong></p><p style="text-indent: 2em; text-align: left;">2008年，环宇智行团队开始研发自动驾驶，2010年，环宇智行在<span class="hrefStyle"><a href="https://www.ofweek.com/auto/tag-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6.HTM" target="_blank" title="无人驾驶">无人驾驶</a></span>未来挑战赛拿到了综合测试第一名。此后，环宇智行开始与车厂东风合作，通过与车厂的合作，李明发现，车厂将引入自动驾驶功能作为未来发展方向，这让李明嗅到了商机。“从过去的科研突破到实现每家每户都能用到自动驾驶功能，这让我无比兴奋。”</p><p style="text-indent: 2em; text-align: left;">2014年，李明正式成立公司，并开始将核心技术工程化和市场转化。</p><p style="text-indent: 2em; text-align: left;">从2008年开始研发自动驾驶技术到如今，李明亲身经历了自动驾驶的两波热潮。</p><p style="text-indent: 2em; text-align: left;">“第一波热潮发生在2016年～2018年，当时阿尔法狗的出现，让人们对自动驾驶的期望定位在自动驾驶要超越人的驾驶能力。很遗憾，从算法角度，至今还没完全实现，毕竟驾驶比下棋的变化更纷繁复杂。”</p><p style="text-indent: 2em; text-align: left;">而第二波热潮从2020年开始蔚来、理想、小鹏等造车新势力崛起，特斯拉则在2020年市值上涨近8倍，2021年，马斯克更是因为特斯拉，登顶世界首富。智能电动车成为<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="汽车">汽车</a></span>未来发展的明确方向，“这一波热潮，人们更看重自动驾驶的可靠性。”</p><p style="text-indent: 2em; text-align: left;">从数据来看，彭博社《<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>展望》曾指出，就新车销售总额而言，电动车市场份额将从2020年的2．7％，增加到2025年的10％，2030年28％，2040年58％。</p><p style="text-indent: 2em; text-align: left;">巨大的市场空间，让资本市场对智能电动汽车情绪高涨。据不完全统计，2021 年 1 月，全球电动汽车的融资金额超过 120 亿美元，创下了汽车行业有史以来的单月融资纪录。</p><p style="text-indent: 2em; text-align: left;">据麦肯锡研究预测，智能网联汽车产业生态链在2025年的经济规模可达到1．9万亿美元。</p><p style="text-indent: 2em; text-align: left;">李明表示，这一波造车热潮，不管是智能化还是软件、应用层中国优势积累时间长，且自主部分多，是千载难逢的产业机会。</p><p style="text-indent: 2em; text-align: left;">目前，环宇智行团队共有一百余人，在武汉和德国汉堡设有研发中心，在苏州、杭州设有技术支持和运营团队。创始人李明，武汉大学计算机学院副教授，武汉大学博士，德国KIT访问学者，期间参与奥迪自动驾驶项目，激光雷达SLAM，机器人路径决策规划领域专家。</p><p style="text-indent: 2em; text-align: left;">谈到近期计划，李明向猎云网透露，近期将和车厂一起加快推出量产车型，并储备自主芯片和核心算法。未来，李明希望用5G＋AI重塑汽车智能，让<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="智能汽车">智能汽车</a></span>更便宜更可靠赋能出行和物流，成为智能网联自动驾驶技术佼佼者和主要供应商。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">来源：猎云网</span><br></p> 
+  
+</div>
+            
