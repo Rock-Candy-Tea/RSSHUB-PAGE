@@ -1,0 +1,18 @@
+
+---
+title: '【S.I战报】浴血奋战，NiP 2_0 FaZe 进入胜者组决赛'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/dailynews/img/bb5b53ea25751f65e1462bd1999cff74/thumb.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 21 May 2021 08:01:01 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/dailynews/img/bb5b53ea25751f65e1462bd1999cff74/thumb.jpg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#2021邀请赛#</a></p><p><img class="lazy" data-height="1080" src="https://cdn.max-c.com/heybox/dailynews/img/bb5b53ea25751f65e1462bd1999cff74/thumb.jpg" data-width="1920" referrerpolicy="no-referrer"></p><h2>（初稿，估计早上再补图）</h2><h2>咖啡馆进攻教科书，NiP 7:5 FaZe守住自选图咖啡馆</h2><p>NiP出人意料的选择了之前Faze表现顽强的咖啡馆，很明显这次NiP是有备而来。在干员禁用阶段，NiP封杀了昨日Faze功能性极强的Capitao，Faze按部就班按掉Maverick。</p><p>NiP在比赛之初就上演了教科书般的咖啡馆进攻方教学。在第一回合，FaZe选择一楼厨房，平面龟缩，NiP教科书一般的展现了如何进攻一楼——二楼三楼协同进入控制楼上，利用垂直施压点内进攻方，逼迫进攻方产生站位失误被进攻方架枪击杀，NiP轻松拿下。第二回合，FaZe试图打野拖延时间，又被NiP经典的教科书绞杀点外所有打野，只留下一个M870 Bandit点内凌乱。第三回合，NiP再接再厉，拿下了FaZe的三楼防守，在防守强图咖啡馆打出3:0的领先。</p><p>第四回合，FaZe再试三楼，NiP出现配合失误，EMP暂时停用ADS之后没有及时炸毁盾牌，ADS再次启用，NiP不得不额外消耗时间和道具拆除盾牌。FaZe利用NiP失误，重整旗鼓，最终NiP由于时间原因急于进攻，FaZe勉强拿下一分。第五回合，FaZe防守二楼阅览室，在FaZe再一次出现站位问题，最终丢失楼上控制身处2v4不利局面，Astro站了出来三杀挽救局势。然而你FaZe依然无法在厨房点拿出有效的防守战术，又一次被NiP碾压，上半场结束，NiP 4:2 领先FaZe。</p><p>下半场FaZe既昨日Kali战术之后又出奇招，使用4烟+Glaz战术强力推进掩护下包进攻NiP选择的三楼，颇具成效。第八回合，NiP再次防守三楼，FaZe也使用同样阵容，只不过Glaz较早阵亡，不过依然取得成效，FaZe追平比分。</p><p>被追至4:4的NiP不得不在第九回合改变思路，他们选择一楼厨房并且使用电盾来应对FaZe的正面推进。由于时间原因，FaZe无力重新控制地图，只能正面硬怼，被NiP电盾轻松化解，成功拿下一分。</p><p>第十回合，NiP准备在二楼阅览室来逼迫FaZe清理三楼，而FaZe苦于之前大盾的正面拖延，选择用Kali加以应对。FaZe在回合中期试图放弃清理三楼，直接攻打二楼，没想到NiP节奏更快，Psycho男鬼率先动手直接夺回了三楼红楼梯控制权，配合二楼队友围剿FaZe，NiP 6:4率先来到地图决胜点。</p><p>第十一回合，NiP迫不得已选择之前被打得千疮百孔的三楼吧台。FaZe巧妙地声东击西，形成两面包夹之势（两面包夹芝士会饿的），救回一个决胜点。第十二回合，NiP回到厨房这个让FaZe无可奈何的点位，最终稳稳地拿下地图决胜点。</p><p><img class="lazy" data-height="828" src="https://cdn.max-c.com/heybox/dailynews/img/ef519ccc60977f53134e80b3b788c4e3/thumb.jpg" data-width="1484" referrerpolicy="no-referrer"></p><h2>真男人1V1大战，NiP 8:7 浴血奋战拿下庄园进入胜者组决赛</h2><p>作为一张防守方优势地图，拥有挑边权的NiP理所应当的选择先行防守。第一回合，FaZe就用一个惊喜的cyber英喷大锤配合手雷完成三杀先行拿下一分。第二回合， FaZe罕见出现包点判断错误。由于雕像室和游戏间-桌球室两处包点都有强化墙防御，因此FaZe无法明确判断包点，错失进攻防守稀薄的游戏间-游戏间的机会，反倒是被两面包夹芝士。</p><p>第三回合，NiP选择雕像室-奖杯室，整活的FaZe试图用Lion配合Amaru快速清掉滞留在桌球室的NiP防守方，反倒是从点内增援而来的NiP再次形成两面包夹芝士。</p><p>第四回合，NiP防守一楼厨房成功进行反绕，用啄木鸟战术成功逼迫FaZe打点，FaZe又被两面包夹。</p><p>第五回合，心态失衡的FaZe试图用一场场轰轰烈烈的Rush来证明自己，结果很轻轻松松的被Pino的C4震飞自己。Astro无力挽回1V3残局。</p><p>第六回合，FaZe进攻雕像-奖杯室，运气这次站在了FaZe这边，soulz1在被击杀之前成功下包，Astro和老对手Psycho皇城PK，最终Astro笑到最后，上半场结束NiP 4:2 FaZe领先。</p><p>下半场反倒是FaZe的经典保留项目。第七回合，FaZe不出意料的在飞行员-桌球率先丢分。</p><p>第八回合，FaZe选择雕像-奖杯，而NiP拿出大盾试图强行下包，更为激进的FaZe直接选择放空点内，与NiP在点外拼杀，进行激烈的人数交换。Astro此时又一次发挥了他擅长殴打巴西人的特性，</p><p>第九回合，FaZe选择回到飞行员-游戏间，可惜这次运气并没有站到FaZe一方。NiP两人在大残的情况下，依靠掩护下包成功架枪，率先来到地图决胜点和赛点。</p><p>第十回合，看似有些自暴自弃的cameram4n拿出吉祥物女鬼，没想到吉祥物女鬼这次反而极大幅度的鼓舞了FaZe的士气。放手一搏的FaZe众人放下包袱，和NiP进入了无限的1V1真男人大战，反倒是在第十回合取得完胜，成功守住了之前无力防守的飞行员-游戏间。</p><p>第十一回合，吉祥物cameram4n投掷出了命运之蛊——在准备阶段随意扔出一个蛊放在更衣室窗下，而后开局便轰轰烈烈赴死。而这只蛊是cameram4n留下的最后波纹，配合队友成功击杀了拔蛊的大盾。</p><p>第十二回合，气势如虹的FaZe极度轻松的拿下了厨房的防守，将比赛拖入加时。</p><p>加时阶段，拥有赛前拥有加时挑边权的FaZe当仁不让的选择防守开始第十三回合，又一次在雕像室打出了统治级别的防守。NiP在加时的防守回合，选择了之前FaZe相当头疼的飞行员-游戏间。打出气势的FaZe在早期打出了人数优势，并且极大程度的消耗了NiP选手的血量和道具。不过运气又一次的站到了NiP这边，两名残血的干员就是不死，反倒是Kamikaze在1V2阶段不慌不忙，从容应对，将比赛拖入了最后的加时。</p><p>第十五回合，不讲武德的Pino直接冲点偷袭，换掉一人。被上个回合打乱阵脚的FaZe难以维持之前追分时候的恐怖表现，点外纷纷失守。然而就在此时，soulz1挺身而出，面对1V3的局面，soulz1操作一气呵成，连人带包一起留下，局面又一次形成真男人1V1大战。</p><p>不过这次，Muzi笑道了最后。</p><p><br></p><p><img class="lazy" data-height="828" src="https://cdn.max-c.com/heybox/dailynews/img/da1b36ea37824dc5e1fdd7a1228b1731/thumb.png" data-width="1476" referrerpolicy="no-referrer"></p><p>NiP进军胜者组决赛，等待OXG和MIBR之间的胜者。<br></p><p>FaZe掉入败者组，他们至少要等待三场比赛的结果。</p><p>，</p>  
+</div>
+            
