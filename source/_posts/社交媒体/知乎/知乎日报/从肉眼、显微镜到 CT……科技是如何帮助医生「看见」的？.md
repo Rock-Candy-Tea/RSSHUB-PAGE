@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-05-21 08:03:06
-thumbnail: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
+date: 2021-05-21 12:03:42
+thumbnail: 'https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">菲利普医生，</span><span class="bio">野生外科医生/美短饲养者</span>
 <a href="https://www.zhihu.com/question/459947188/answer/1895018416" class="originUrl" hidden>查看知乎原文</a>
 </strong>
@@ -102,6 +102,24 @@ thumbnail: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?sou
 
 
 <div class="view-more"><a href="https://www.zhihu.com/question/459947188">查看知乎讨论<span class="js-question-holder"></span></a></div>
+
+</div>
+
+
+
+
+
+<div class="question">
+
+
+<div class="answer">
+
+<div class="content">
+<p>此问答来自知乎「吾辈问答」行动，欢迎点击下方专题，查看更多科技发展相关内容：</p>
+<p><strong>《<a class="Link ztext-link" href="https://www.zhihu.com/special/1375860039618605056" target="_blank">科技自立，还有多长的路</a>》</strong></p>
+</div>
+</div>
+
 
 </div>
 
