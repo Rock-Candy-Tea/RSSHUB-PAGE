@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-05-21 00:15:16
-thumbnail: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
+date: 2021-05-21 04:12:27
+thumbnail: 'https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/v2-a062314aec80bdeef998a974211a0e8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">菲利普医生，</span><span class="bio">野生外科医生/美短饲养者</span>
 <a href="https://www.zhihu.com/question/459947188/answer/1895018416" class="originUrl" hidden>查看知乎原文</a>
 </strong>
