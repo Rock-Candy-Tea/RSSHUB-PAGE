@@ -1,0 +1,21 @@
+
+---
+title: '_对决_Epic占下风 苹果若输了意味着什么？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0520/d4d57d91b79b469.jpg'
+author: cnBeta
+comments: false
+date: Sat, 22 May 2021 07:46:43 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0520/d4d57d91b79b469.jpg'
+---
+
+<div>   
+<strong>苹果首席执行官蒂姆·库克周五在Epic Games诉苹果案的庭审中，面临法官Yvonne Gonzalez
+Rogers关于苹果应用商店业务模式的尖锐质疑。</strong>该质疑主要针对是否允许用户在iPhone上安装替代应用商店并避免App
+Store的应用内购扣除30%的“苹果税”。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/0520/d4d57d91b79b469.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0520/d4d57d91b79b469.jpg" referrerpolicy="no-referrer"></a></p><p>苹果和Epic Games之争是苹果公司对应用程序商店和ios软件生态系统控制争夺。这是一场高风险的游戏，输了可能导致<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>和<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a>上应用程序的购买和使用方式以及苹果的收入发生重大变化。</p><p><strong>激烈对决</strong></p><p>在法庭上，Rogers与库克展开了激烈对决。</p><p>Rogers质问库克，如何允许iPhone用户选择较低的费用（特别是游戏费用）。库克表示，用户可以在iPhone或Android设备之间进行选择。</p><p>Rogers接着质问了苹果是否存在通过网络浏览器向用户提供购买链接从而绕过了苹果30%的“苹果税”的现象，并建议苹果做出让步，让苹果允许像Epic Games这样的公司通过外部链接引导用户到网络浏览器进行交易，而不是强迫他们使用App Store的应用内购买机制。</p><p>此外，Rogers还对苹果的小企业计划表示怀疑，该计划将苹果开发商的应用商店交付的各项费用削减了一半。Rogers表示，这似乎是由于调查和诉讼而施加压力的结果。</p><p>而库克却反驳说，这真的是苹果因为疫情对小企业的担忧，才造成了这样的决定。</p><p>Rogers还表示，她曾进行过一项调查，其中有39%的苹果开发人员对App Store不满意。并表示苹果实际上没有任何压力或竞争来改变自身的种种问题。但库克并不同意这一说法。</p><p>目前，为期三周的审判将于周一结束，但Rogers警告说此案可能需要数周或数月的时间才能做出决定，Epic Games很可能会提起上诉。</p><p><strong>Epic希望苹果改变什么？</strong></p><p>首先，Epic希望能够为应用程序相关的购买提供替代支付系统。它希望能够让用户选择通过不同于苹果提供的支付服务提供商（比如自己的系统）来支付应用内购买的费用。</p><p>Epic还希望能够告诉消费者有其他的支付方式，而不一定是通过他们的设备。目前的苹果政策禁止此类活动的应用程序，比如告诉消费者可以从公司网站上获得更便宜的交易。</p><p>另外，苹果在应用内购买抽成也会受到影响。目前，年收入低于100万元的开发商支付15%，如果超过这个数字，费率为30%。订阅费各不相同，但起价为30%，如果用户连续一年使用某项服务，费率将降至15%。</p><p>最后，Epic希望用户无需通过Apple的App Store就可以下载软件。它希望用户能够访问第三方应用程序市场，该市场可以用来购买应用程序和其他项目，完全独立于应用程序商店和苹果的数字商店。</p><p>所有在每一个方面上，Epic都会从获得这样的让步中获得某种好处，这些让步从相对较小的变化扩展到iOS的基本特性的重大变化。有些可以简单地作为政策变化来实施，但另一些可能需要大量的工作来进行。</p><p><strong>以安全为理由</strong></p><p>此前，苹果公司辩称，苹果对App Store的强控制，并且让其成为消费者在iPhone上安装软件的唯一途径，这对于公司对用户的安全性和隐私承诺至关重要，也是在竞争激烈的智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>市场中区别于其他厂商的重要特征。</p><p>库克作证说，如果Epic Games获胜，我们将不再作出关于隐私，安全和保障的承诺。他还表示，如果苹果没有Epic正在法庭上抗辩的规则和政策，那么App Store将是“有毒且混乱”的。</p><p>但Epic Games认为，安全性是收取费用和控制软件开发商行为的借口，而且苹果公司可以安全地向竞争对手的应用商店开放其平台。</p><p>此外，库克还强调<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://vivo.jd.com/" target="_blank">vivo</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://oppo.jd.com/" target="_blank">OPPO</a>等竞争对手都使用谷歌的Android版本。</p><p>而此前，正是因为Epic Games的射击游戏Fortnite去年绕过苹果公司的App Store内购让用户付费，遭到了苹果公司的下架，才引发了一连串诉讼。</p><p><strong>苹果的软肋</strong></p><p>周五，库克的大部分证词都围绕着一份非公开的内部苹果文件展开，内容描述了苹果各个部门（包括App Store）的获利趋势。Epic的律师表示，这表明苹果的App Store非常有利可图，试图证明苹果利用其控制权来增加自己的利润的说法。</p><p>Epic Games聘请的一位会计师此前作证说，苹果在2019年的营业利润率为77.8%。</p><p>但库克表示，该文件并未全部记载苹果在App Store上花费的所有费用。</p><p>Epic Games的律师还向库克询问苹果是否与Google达成某种交易，让iPhone浏览器上的默认搜索设定为谷歌。华尔街的研究报告称，这笔交易中估计谷歌每年将向苹果支付100亿美元。库克说，他不记得谷歌要付多少钱。</p><p>此外，苹果律师还向库克询问了有关iMessage存在的问题，iMessage是内置于iPhone中的消息App，但仅供苹果用户使用。库克表示，他并不认为Android上缺少iMessage会阻止iPhone用户转向竞争对手。</p><p>而这些问题，或将成为苹果在该案件中的软肋和把柄，成为《反托拉斯法》所切中的诸多要害。</p><p><strong>输了会怎样？</strong></p><p>如果一切都按照Epic Games的方式进行，可能会让苹果损失数十亿美元。如果Epic胜诉，苹果可能被迫改变有关应用程序的政策，这可能会影响苹果未来的潜在收入。</p><p>当然，对于可能做出的任何改变，苹果公司都将蒙受失。</p><p>毕竟，输掉官司后，用户可以无视苹果的支付机制，转而选择网站或其他应用购买App，对苹果来说更糟糕，因为根本没有抽成在起作用。</p><p>值得注意的是，虽然苹果的一些收入注定减少，但苹果还是必须支付App Store的成本，以及承担实施变革所造成的其他损失。</p><p>毕竟App Store的运营成本非常高昂，因为它必须让App Store保持在线，维护应用程序和更新，支付其使用的带宽，并通过其审查过程维持App Store中App的质量。</p><p>如果苹果无法抽成，而App Store成为公司的成本而非利润，苹果可能不得不采取行动，以其他方式弥补亏损。</p><p>分析人士指出，苹果不太可能将App Store的成本直接转嫁给消费者，但如果苹果被迫以某种方式收回成本，其可能会以其他形式向开发者收取费用。毕竟，苹果有很多方法可以实现收支平衡。</p>   
+</div>
+            
