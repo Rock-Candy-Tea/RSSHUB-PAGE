@@ -1,0 +1,18 @@
+
+---
+title: '苹果发布第二个 iOS 14.6_iPadOS 14.6 RC 准正式版更新'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a849cc8e9f09590123608f_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 21 May 2021 16:02:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a849cc8e9f09590123608f_1024.jpg'
+---
+
+<div>   
+<p>5 月 22 日消息 今日苹果面向开发人员发布了第二个 OS 14.6/iPadOS 14.6 RC 准正式版更新，距离发布第一版只过去了四天。今天的 iOS 14.6 RC 2 的代号是 18F72，而第一个 RC 的代号是 18F71。iOS 14.6 和 iPadOS 14.6 的正式版将在下周向公众发布。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/60a849cc8e9f09590123608f_1024.jpg" data-height="225" data-width="400" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a849cc8e9f09590123608f_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，iOS 和 iPadOS 14.6 添加了对 Apple Music 新功能的支持，包括支持杜比全景声（Dolby Atmos）的空间音频（Spatial Audio）和无损音频（Lossless Audio）。Apple Music 将会有数千首曲目将支持空间音频，而超过 20,000 首歌曲将支持无损音频。到今年年底，将有 7500 万首歌曲支持无损音频。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202105/60a849cc8e9f095901236090_1024.jpg" data-height="225" data-width="400" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60a849cc8e9f095901236090_1024.jpg" referrerpolicy="no-referrer"></div></div>以下是苹果 iOS 14.6 的详细更新内容：<p></p><p><strong>Apple Card Family</strong></p><p>Apple Card 最多可与五个人共享，包括用户家庭分享组中 13 岁或以上的任何</p><p>Apple Card Family 支持家庭跟踪支出，通过可选的限额和控制管理支出共同建立信用</p><p><strong>播客</strong></p><p>频道和个人节目的订阅支持</p><p><strong>AirTag 和查找</strong></p><p>" 丢失模式 " 可为 AirTag 和查找 App 附件添加电子邮件地址而不是电话号码</p><p>在使用支持 NFC 的设备时，AirTag 会显示所有者被部分掩盖的电话号码</p><p><strong>辅助功能</strong></p><p>语音控制用户可以在重启 iPhone 后第一次解锁时使用语音</p><p><strong>此版本还修复了以下问题：</strong></p><p>在 Apple Watch 上使用锁定 iPhone 后，可能无法使用 Apple Watch 解锁</p><p>提醒可能显示为空白行</p><p>设置中可能未显示呼叫阻止扩展名</p><p>通话过程中蓝牙设备有时可能会断开连接或将音频发送到其他设备</p><p>iPhone 可能会在启动过程中降低性能</p><p>1、iOS 14/iPadOS 14 开发者预览测试版描述文件：<a href="http://iphone.myzaker.com/zaker/link.php?pk=60a849cc8e9f09590123608e&b=aHR0cHM6Ly9kb3duLnJ1YW5tZWkuY29tL2lPUy9wcm9maWxlL2Rldi9pT1NfaVBhZE9TXzE0X0JldGFfUHJvZmlsZS5tb2JpbGVjb25maWc=&bcode=463f7c82&target=_new" data-reader-unique-id="47" target="_blank">点此下载</a></p><p>2、iOS 14/iPadOS 14 公开测试版描述文件：<a href="http://iphone.myzaker.com/zaker/link.php?pk=60a849cc8e9f09590123608e&b=aHR0cHM6Ly9kb3duLnJ1YW5tZWkuY29tL2lPUy9wcm9maWxlL2JldGEvaU9TX2lQYWRPU18xNF9QdWJsaWNfUHJvZmlsZS5tb2JpbGVjb25maWc=&bcode=74612a0f&target=_new" data-reader-unique-id="49" target="_blank">点此下载</a></p><p>微信读者请注意：关注【IT 之家】官方微信公众号后，回复关键词 " 描述文件 " 或 " 苹果 "，即可最方便的获取当前最新版描述文件和攻略！</p><p>3、描述文件、iOS 固件下载必备之完全手册：</p><p>《<a href="http://iphone.myzaker.com/zaker/link.php?pk=60a849cc8e9f09590123608e&b=aHR0cHM6Ly93d3cuaXRob21lLmNvbS9odG1sL2lwaG9uZS8zNDI0MjUuaHRt&bcode=b44aebe3&target=_new" data-reader-unique-id="55" target="_blank">苹果 iOS 描述文件下载大全 & 完全使用攻略：玩测试版 / 限制升级 …… 必备</a>》</p><p>《<a href="http://iphone.myzaker.com/zaker/link.php?pk=60a849cc8e9f09590123608e&b=aHR0cHM6Ly93d3cuaXRob21lLmNvbS9odG1sL2lwaG9uZS8zMDU1MTQuaHRt&bcode=bed159f2&target=_new" data-reader-unique-id="57" target="_blank">IT 之家精华：苹果 iOS 系统发布 / 固件下载 / 升级更新大全表</a>》</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
