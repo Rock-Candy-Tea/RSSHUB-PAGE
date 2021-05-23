@@ -1,0 +1,19 @@
+
+---
+title: 'RTI发布RTI-Connext软件框架最新版本'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member4608/202105/wx_article__584f3d1c311186201adb1d9f8846a2a2.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 23 May 2021 03:16:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member4608/202105/wx_article__584f3d1c311186201adb1d9f8846a2a2.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">本文来源:智车科技</p><p style="text-indent: 2em; text-align: left;"><strong>/ 导读 /</strong></p><p style="text-indent: 2em; text-align: left;">可靠的互连性对于新一代汽车实现更高程度的自动驾驶至关重要。汽车越来越成为互连计算机的网络——其中一些是功能强大的CPU,而另一些则是低端微控制器,它们都参与处理数据、做出决定和/或争夺资源。当包括图像和激光雷达处理、传感器融合、驾驶控制和遥控操作时,互联数量会增加,因此系统的复杂性也会增加。随着车辆体系结构和相关处理需求的演进,面向服务的新型 ADAS 和具有关键时间限制的自动驾驶功能都需要具备安全、快速的互连性软件解决方案,同时还要考虑到可扩展性。</p><p style="text-indent: 2em; text-align: left;">解决这一日益增长的问题所需的技术必须能够实时共享数据并处理具有不同优先级、源和目的地的大量数据,创建一个更为可靠和稳健的解决方案。对于传统和非传统的汽车竞争对手来说,在安全关键的环境中构建软件具有一系列具有挑战性的要求,并非所有软件解决方案都能胜任这一任务。</p><p style="text-indent: 2em; text-align: left;">目前可供选择的四种连接方案:</p><p style="text-indent: 2em; text-align: left;">第一种选择是利用为大规模系统开发的云和企业技术,这些技术将适用于远程操作等解决方案。</p><p style="text-indent: 2em; text-align: left;">第二种选择是从头开始构建解决方案。</p><p style="text-indent: 2em; text-align: left;">第三种方法是选择一种新的汽车平台,例如AUTOSAR Adaptive、ROS 2、Apollo等,并围绕它们构建系统。</p><p style="text-indent: 2em; text-align: left;">第四种方法是使用基于标准的关键技术中已证明的基础技术。上面提到的几种汽车平台都使用Data Distribution Service?(DDS)标准作为其核心。DDS在航空航天,国防和医疗保健等不同市场的关键任务项目中已使用了数十年。</p><p style="text-indent: 2em; text-align: left;">该标准连接解决方案提供:</p><p style="text-indent: 2em; text-align: left;">· 实时性能</p><p style="text-indent: 2em; text-align: left;">· 细粒度的数据控制,包括实时的发布者端过滤</p><p style="text-indent: 2em; text-align: left;">· 服务质量(QoS),涵盖可靠性、持久性、期限和活跃性</p><p style="text-indent: 2em; text-align: left;">· 使用称为实时发布订阅(RTPS)的通用线路表示,供应商之间的安全性、多功能性和互操作性</p><p style="text-indent: 2em; text-align: left;">RTI(Real-Time Innovations)公司是全球最大的智能机器和现实系统互联软件框架提供商。具备世界领先的Connext技术产品实时共享信息软件框架,其可靠性、安全性、可扩展性已在最苛刻的工业系统中得到证明。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member4608/202105/wx_article__584f3d1c311186201adb1d9f8846a2a2.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">RTI汽车分层数据总线架构</p><p style="text-indent: 2em; text-align: left;">作为唯一基于标准的解决方案,RTI Connext Drive是一个基于开放式数据分发服务(DDS)标准的软件框架。是一套用于自动驾驶汽车的汽车级互连解决方案,也是一套经过验证的软件框架,能够满足业界严格的安全、安保和性能要求,能够支持自动驾驶车辆从研发到量产的全套流程。RTI公司Connext Drive解决方案作为框架的优势,它是对 AUTOSAR等成熟标准的有益补充,同时还促进了强大的汽车互联系统的发展。</p><p style="text-indent: 2em; text-align: left;">小鹏汽车是中国首个在自动驾驶辅助汽车上应用Connext DDS(Data Distribution Service)技术产品的企业;Aptiv公司将RTI公司互连中间件RTI Connext? DDS用于自动驾驶车辆安全车载通信,做为自动驾驶车辆内部安全数据传输工具;2020年7月RTI宣布加入百度阿波罗自动驾驶合作伙伴生态系统;2021年1月,恩智浦和RTI公司合作推进自动驾驶汽车开发。</p><p style="text-indent: 2em; text-align: left;">2021年5月11日,RTI(Real-Time Innovations)公司发布了其软件框架RTI-Connext的最新版本-Connext 6．1版,旨在解决构建远程操作、实时自动系统的公司所面临的开发和部署挑战。</p><p style="text-indent: 2em; text-align: left;">自动系统必须在无法访问、远程或危险环境中运行。自动系统的例子包括水下无人机、远程医疗设备、太空系统以及建筑和采矿机器人。对于许多这样的系统,人工智能目前在处理机器在许多不同类型的工况条件下的能力是有限的。因此,如果机器人卡住,有时需要远程操作员进行干预、启动或恢复操作。</p><p style="text-indent: 2em; text-align: left;">保证自动系统的分布式控制的连接性具有挑战性。在许多情况下,机器人在不适宜居住的环境中工作,这些环境的连接往往是不可靠和低带宽的。根据环境的不同,操作员可能无法接近设备。这会影响操作员和机器人之间的通信和连接速度。通信范围可以包括局域网、广域网、公用网和专用网。</p><p style="text-indent: 2em; text-align: left;">Connext 6．1引入了一些功能,可以在任何网络上轻松地进行实时远程操作。例如,如果网络连接随着系统的移动而改变,那么连接是无缝的而不需要重新连接、安全的而不需要重新协商、可靠的而不会丢失信息。因此,远程操作可以不间断地实时继续。Connext 6．1支持并优化高度可变局域网(LAN)和广域网(WAN)环境下的快速通信。此外,connext6．1不需要软件更改来支持不同的网络类型。它的应用程序编程接口(API)抽象(abstracts)了底层网络,允许开发人员以任何环境为目标。Connext 6．1提供了首个远程自动系统控制的实用设计。</p> 
+  
+</div>
+            

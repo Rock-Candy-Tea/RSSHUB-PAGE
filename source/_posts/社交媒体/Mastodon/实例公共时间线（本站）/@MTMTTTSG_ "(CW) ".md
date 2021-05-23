@@ -1,0 +1,18 @@
+
+---
+title: '@MTMTTTSG_ "(CW) "'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/036/235/038/original/eaac823ec8ad8830.png'
+author: Mastodon
+comments: false
+date: Sun, 23 May 2021 04:16:10 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/036/235/038/original/eaac823ec8ad8830.png'
+---
+
+<div>   
+<hr><p>腹抱えてワロタ</p><br><img src="https://img.pawoo.net/media_attachments/files/036/235/038/original/eaac823ec8ad8830.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
