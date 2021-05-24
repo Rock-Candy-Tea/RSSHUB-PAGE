@@ -1,0 +1,18 @@
+
+---
+title: '微软开始阻止用户继续使用IE浏览器：你还要坚持吗'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0cd_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 23 May 2021 14:16:44 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0cd_1024.jpg'
+---
+
+<div>   
+<p>在超过 25 年后，微软终于要在明年退役 IE 浏览器（Internet Explorer）。多年来，这款老化的网络浏览器基本上没有太多消费者使用，微软决定在 2022 年 6 月 15 日把最后一颗钉子钉在 IE 浏览器的棺材上，让这款历史悠久、影响深远且引发巨大争议的软件彻底退役，全线改用 Microsoft Edge。</p><p><strong>01</strong></p><p><strong>微软开始阻止用户继续使用 IE 浏览器</strong></p><p>微软不希望用户继续使用 IE 浏览器浏览热门网站，比如 YouTube、Instagram、Twitter 等。从本周开始，如果你在 IE 浏览器中打开这些网站，用户将被重定向到微软 Edge 87。此举有助于提高微软基于 Chromium 内核 Edge 浏览器市场份额。</p><p>微软认为，目前的 Edge 浏览器对这些网站具有更好的兼容性，而 Internet Explorer 的时代很快就要结束了。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0cd_1024.jpg" data-height="368" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0cd_1024.jpg" referrerpolicy="no-referrer"></div></div>微软已经编制了一份清单，内含超过一千家网站，Internet Explorer 浏览器将不再支持这些网站。当用户从 Internet Explorer 被重定向时，微软 Edge 会显示一个弹出式通知。如果用户想在新浏览器中访问传统网站，微软允许用户在 Edge 中启用 "Internet Explorer 模式 "，。<p></p><p>微软还发布了新的组策略来禁用强制重定向。另一种避免重定向的方法是不在系统中安装微软 Edge，但这种变通方法并非长期有效，因为 Edge 浏览器会随着未来的 Windows 更新再次添加到系统中。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0ce_1024.jpg" data-height="493" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60aa2ad1b15ec0730528b0ce_1024.jpg" referrerpolicy="no-referrer"></div></div>明年，微软将正式放弃对 Internet Explorer 和微软 Edge ( 传统版 ) 的支持，这意味着微软不会再为这 2 款该浏览器发布补丁。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202105/60aa2ad1b15ec0730528b0cf_1024.jpg" data-height="539" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/60aa2ad1b15ec0730528b0cf_1024.jpg" referrerpolicy="no-referrer"></div></div>如果你不使用 Internet Explorer，但由于某些原因安装或启用了它，你可以通过以下步骤将其关闭。打开设置，点击 " 应用程序 "，在 " 应用程序和功能 " 下，点击 " 可选功能 "，选择 Internet Explorer，点击 " 卸载 "。<p></p><p><strong>02</strong></p><p><strong>不少人还在使用 IE 浏览器</strong></p><p>微软放弃并不意味着世界已经为这一时刻做好了准备，因为统计数据显示大量电脑仍在使用 IE 浏览器（或基于 IE 浏览器内核的应用程序）。</p><p>StatCounter 数据显示，上个月 IE 浏览器的市场份额超过 0.70%，甚至超过了传统版本的微软 Edge，后者的份额在同一个月下降到 0.25%。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202105/60aa2ad1b15ec0730528b0d0_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/60aa2ad1b15ec0730528b0d0_1024.jpg" referrerpolicy="no-referrer"></div></div>Google 浏览器仍然是第一大浏览器，其次是 Safari（在 Mac 上）、Firefox 和 Chromium Edge，但至少可以说，仍然运行 IE 浏览器的人数依然相当多，中止对这款浏览器的支持可能令人担忧。<p></p><p>IE 浏览器除了安全补丁之外，已经很久没有收到其他升级了，所以很难理解为什么有些公司还在坚持使用这个古老的浏览器。兼容性是最主要原因，尽管正如微软自己解释的那样，新的 Microsoft Edge 带有一个内置的 IE 模式，有助于以更安全的方式处理业务。</p><p>桌面版 IE 浏览器将于 2022 年 6 月 15 日退役，但一些 Windows 10 版本仍将收到安全补丁，例如作为 TLSC 或 Server Internet Explorer 11 桌面应用程序的一部分。</p><p>小伙伴们，你们在用什么浏览器呢？</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

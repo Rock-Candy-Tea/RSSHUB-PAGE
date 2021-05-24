@@ -1,0 +1,66 @@
+
+---
+title: '免费内网穿透工具教程 - 利用树莓派和无公网 IP 宽带，实现低成本自建网站'
+categories: 
+ - 新媒体
+ - 异次元软件世界
+ - 首页
+headimg: 'https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/neiwangchuantou.jpg'
+author: 异次元软件世界
+comments: false
+date: Mon, 03 May 2021 16:15:53 GMT
+thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/neiwangchuantou.jpg'
+---
+
+<div>   
+<ul id="link1111"><li>关注优惠：<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/oculus-quest2">Oculus Quest2 无线 VR 历史低价</a>   |   <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>   |   <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyunsale">阿里云代金券</a></li></ul><p>很多人都想试试自己<strong>建站</strong>玩一玩 (比如<a href="https://www.iplaysoft.com/wordpress.html" target="_blank" rel="noopener">博客</a>、自建<a href="https://www.iplaysoft.com/tag/%E7%BD%91%E7%9B%98" target="_blank" rel="noopener">网盘</a>、<a href="https://www.iplaysoft.com/tag/%E8%BF%9C%E7%A8%8B" target="_blank" rel="noopener">远程</a>下载等)，但家里宽带<strong>没公网 IP</strong>，特意买台<a href="https://www.iplaysoft.com/go/vps" target="_blank" rel="noopener">服务器</a>又显得浪费。那么有没成本小、可玩性高、又能长期稳定使用的方案呢？</p><p>其实，免费的内网穿透工具 (如<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">网云穿</a>) + <a href="https://www.iplaysoft.com/raspberrypi.html" target="_blank" rel="noopener">树莓派</a>，即可利用家里宽带来搭建运行各种好玩的<a href="https://www.iplaysoft.com/tag/%E7%BD%91%E7%AB%99" target="_blank" rel="noopener">网站</a>程序，跑一些自用网络服务再适合不过了。树莓派价格便宜、功耗小、功能强大；而网云穿则能免费帮你实现内网穿透，让没有公网 IP 的树莓派也能在外网上直接访问……</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/wycsale"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>限时 1.2 折起终身隧道</a><br><span class="button-hint">不限流量，一次付费永久使用</span></p><h3>使用内网穿透工具解决宽带没公网 IP 的问题</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div style="float:left;width:336px;height:280px;margin-left:10px">  </div></div><div class="clear"></div><p>由于电信联通等大多数普通宽带都不提供公网 IP 地址，别人无法通过互联网直接访问到你家中内网的电脑、树莓派、NAS 或其他网络设备。因此想在家里或公司“低成本”建站，我们需要借助「<a href="https://www.iplaysoft.com/go/wyc" target="_blank" rel="noopener">网云穿</a>」这样的<strong>免费内网穿透工具</strong>，来快速地让内网设备能被外网公网访问。</p><p><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/neiwangchuantou.jpg" alt="树莓派 内网穿透 建站教程" width="680" height="425" referrerpolicy="no-referrer"></p><p>网云穿可以申请到免费的“内网穿透隧道”，通过它就能让所有人直接从外网访问到你树莓派中建立的网站，也能实现远程 SSH 进行维护管理。这样，我们只需一个<a href="https://www.iplaysoft.com/go/raspberrypi" target="_blank" rel="noopener">树莓派</a> 或一台闲置 PC 电脑 / NAS (<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">教程可参考这里</a>)，就能拥有一个完全属于自己的“高性价比的网站服务器”了。</p><p>相关阅读：<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">Windows PC 电脑 / 群晖 NAS 设置内网穿透教程</a></p><div style="border: 2px solid;border-radius:8px; padding: 0 12px; box-sizing: border-box;border-color:#ff7d60"><p>网云穿注册即可领取一条免费隧道，官网提供免费版、个人版、专业版、商业版；主要是应用场景不同，稳定性都很不错，不限制终端绑定；带宽越高速度越快，提供的隧道带宽，速度要高于标准带宽。此次活动，异次元为广大用户申请了特别福利：</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/wycsale"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>限时 1.2 折起特价终身隧道</a></p><p>1、网云穿官网放出 200 个【特价永久版 VIP 隧道】，限时 1.2 折起，永久使用、部分买一送一、不限制流量、赠送免费二级域名、可绑定已备案自有域名；</p><p>2、放出 100 个商业版活动名额：活动包含 3 条独立映射，每条映射独享带宽，限6 折起</p><p>活动截止日：名额售空，恢复原价。如果你有任何疑问，可以随时联系客服小姐姐咨询：</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wangyunchuan/kfqr_v2.png" alt="客服微信" width="215" height="215" referrerpolicy="no-referrer"></p></div><h3>建站前准备</h3><p><a href="https://www.iplaysoft.com/raspberrypi.html" target="_blank" rel="noopener">树莓派 (Raspberry Pi)</a> 是价格低廉的微型电脑，体积小巧，拥有不俗的性能，运行 Linux 系统，资源丰富且稳定，加上功耗极小，适合长期运行，特别适合用来做我们的“建站服务器”。</p><p>以树莓派 4 的配置，跑几个博客、PHP 程序或静态网站绝对是绰绰有余的。毕竟<a href="https://www.iplaysoft.com/go/qcloud" target="_blank" rel="noopener">腾讯云</a>、<a href="https://www.iplaysoft.com/go/aliyun" target="_blank" rel="noopener">阿里云</a>那些便宜的 <a href="https://www.iplaysoft.com/go/vps" target="_blank" rel="noopener">VPS</a> 也就1核1G，性能上并没强多少，但每年的价格并不算便宜。当然，如果你有闲置的 PC 或笔记本，安装个 <a href="https://www.iplaysoft.com/p/debian" target="_blank" rel="noopener">Debian</a>、<a href="https://www.iplaysoft.com/centos.html" target="_blank" rel="noopener">CentOS</a>、<a href="https://www.iplaysoft.com/ubuntu.html" target="_blank" rel="noopener">Ubuntu</a> 等系统也完全可以。</p><p>而内网穿透工具的选择，<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">异次元曾介绍过「网云穿」</a>，它速度比较稳定，既有免费的隧道可以零成本使用，也有付费方案适合有一定要求的高级用户；部署的方法也简单，是款不错的工具。再加上网云穿可以绑定域名，不需要备案，别人访问时，和真正的云服务器基本没有区别。</p><h3>树莓派内网穿透+建站教程：</h3><p>树莓派官方的「Raspberry Pi OS」系统是基于 Debian 修改而来的发行版，用法上和一台 <a href="https://www.iplaysoft.com/ubuntu.html" target="_blank" rel="noopener">Ubuntu</a>、<a href="https://www.iplaysoft.com/debian.html" target="_blank" rel="noopener">Debian</a> 等 Linux 系统的机器没有什么区别，大家可参考 <a href="https://www.iplaysoft.com/linux-probe-book.html" target="_blank" rel="noopener">Linux 就该这么学</a>、<a href="https://www.iplaysoft.com/linux-vbird.html" target="_blank" rel="noopener">鸟哥的 Linux 私房菜</a>等教程进行学习。</p><p>网上的“<strong>树莓派建站教程</strong>”有很多，随便一搜就能找到不少。不过，根据 WEB 程序的不同，所需要安装的组件也有区别 (比如有些是 PHP，有些 Python 或 Node.js 程序)，大家要参考程序具体的部署说明。这里主要介绍最常见的 <strong>LNMP</strong> 环境安装 (Linux + Nginx + MySQL + PHP) 作为建站示范，可运行最常见的 <a href="https://www.iplaysoft.com/wordpress.html" target="_blank" rel="noopener">WordPress</a>，并且还会详细介绍怎样进行“内网穿透”的设置步骤。</p><h4>安装 NGINX 和 PHP 7.3：</h4><p>我们先通过 SSH 连接到局域网的树莓派，然后下面我们就开始以最常用的「<strong>安装 Nginx + PHP</strong>」作为网站 WEB 服务器软件作为例子吧。</p><link rel="stylesheet" type="text/css" href="https://cdn.iplaysoft.com/common/lib/highlight/styles/atom-one-dark.css"> <pre class="language-bash"><code>#更新系统软件包
+sudo apt-get update
+
+#安装 NGINX 和 PHP 7.3
+sudo apt-get install nginx
+sudo apt-get install php7.3-fpm php7.3-cli php7.3-curl php7.3-gd php7.3-cgi
+
+#启动 NGINX 和 PHP 服务
+sudo service nginx start
+sudo service php7.3-fpm restart</code></pre><p>如果安装成功，在浏览器中通过 <code>http://树莓派局域网IP</code> 即可访问到 Nginx 的测试页面了，如下图。如显示正常，则表示 WEB 服务器已经正常提供服务了。默认情况下，Nginx 的网站根目录位于 <code>/var/www/html</code>。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/nginx_test_page.png" alt="NGINX 测试页面" width="680" height="237" referrerpolicy="no-referrer"></p><h4>让 Nginx 支持运行 PHP</h4><pre class="language-bash"><code>#修改网站配置文件，新手可能需要学习一下 VIM 命令的使用方法
+sudo vim /etc/nginx/sites-available/default</code></pre><p>原来的配置文件内容：</p><pre class="language-nginx"><code>location / &#123;
+# First attempt to serve request as file, then
+# as directory, then fall back to displaying a 404.
+try_files $uri $uri/ =404;
+&#125;</code></pre><p>替换为：<br></p><pre class="language-nginx"><code>location / &#123;
+index  index.html index.htm index.php;
+&#125;
+ 
+location ~\.php$ &#123;
+fastcgi_pass unix:/run/php/php7.3-fpm.sock;
+#fastcgi_pass 127.0.0.1:9000;
+fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+include fastcgi_params;
+&#125;</code></pre><p>重启 NGINX 服务让 PHP 生效：</p><pre class="language-bash"><code>#重启 NGINX 服务
+sudo service nginx restart</code></pre><h4>安装 MYSQL (MariaDB) 数据库</h4><p>MariaDB 是 MYSQL 被甲骨文收购后的开源复刻版，完全免费，且使用上基本一致，基本可以兼容全部的 MYSQL 程序。</p><pre class="language-bash"><code># 安装软件包
+sudo apt-get install mariadb-server-10.0</code></pre><p>修改 MYSQL 数据库的密码：</p><pre class="language-bash"><code># 执行 mysql 程序
+mysql</code></pre><p>顺序输入下面的 mysql 命令来修改数据库 root 用户的密码：</p><pre class="language-sql"><code>use mysql;
+update user set plugin='mysql_native_password' where user='root';
+UPDATE user SET password=PASSWORD('你想要设定的密码') WHERE user='root';
+flush privileges;
+exit;</code></pre><pre class="language-bash"><code># 重启 MYSQL 服务
+service mysql restart</code></pre><p>至此，LNMP 环境 (Nginx + MariaDB + PHP) 已经安装完成了！有了 LNMP 环境，你就可以上传比如 <a href="https://www.iplaysoft.com/wordpress.html" target="_blank" rel="noopener">WordPress</a> 或各种各样的 PHP 网站程序到树莓派中完成建站了。</p><h3>配置树莓派的内网穿透教程</h3><p>假如你已架设好了网站，那么接下来就是“<strong>配置内网穿透教程</strong>”让你的树莓派能被外网访问。</p><h4>1、领取免费的内网穿透隧道，并配置隧道</h4><p>前往「<a href="https://www.iplaysoft.com/go/wyc" target="_blank" rel="noopener">网云穿官网</a>」注册账号 → 领取免费隧道，然后跳转控制台点击隧道管理、配置隧道信息；穿透协议设置为 <code>Http(s)</code>。内网端口就是你安装的 nginx 的端口号，默认是 <code>80</code>，此端口号在配置文件上进行修改。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/http_sui_dao.png" alt="HTTP 内网穿透隧道" width="680" height="387" referrerpolicy="no-referrer"></p><h4>2、获取隧道的“令牌”</h4><p>确定之后，控制台会生成一个「令牌」，相当于内网穿透时的通讯密码，后面需要用到，你可以复制下来暂时保存。</p><h4>3、安装网云穿客户端</h4><p>异次元之前曾介绍过<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">网云穿可以安装在 Windows、Linux、Mac 甚至是群晖 NAS</a> 上，同样，在树莓派上也能直接安装。树莓派使用的是 ARM 架构处理器，所以下载 Linux ARM 版本即可。如果你用的是 PC 电脑，那么就该更换成对应架构的 x64 版客户端。</p><p>在树莓派上执行：</p><pre class="language-bash"><code># 使用 wget 命令下载网云穿客户端
+wget -O /home/pi/ http://xiaomy.net/download/linux/wyc_linux_arm
+# 设置可执行权限
+sudo chmod a+rwx /home/pi/wyc_linux_arm
+
+# 启动网云穿客户端
+# 其中 XXXX 是你刚才获取到的“令牌”
+/home/pi/wyc_linux_arm -token XXXX</code></pre><p>如果令牌没有错的话，网云穿客户端就会进行登录和连接，成功后输出以下的信息：</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/wyc_run.png" alt="运行内网穿透客户端" width="680" height="190" referrerpolicy="no-referrer"></p><p>这时你就能获取到公网访问的网址了，你在浏览器访问这个网址，即可直接打开树莓派里的 Nginx 配置的默认网站。</p><h4>4、树莓派设置网云穿客户端开机启动</h4><p>如果你需要树莓派重启之后能再次自动启动“网云穿”的内网穿透功能，那么还得配置程序自启动。我们首先向 rc.local 文件添加启动代码：</p><pre class="language-bash"><code># 编辑 rc.local 文件
+sudo vim /etc/rc.local</code></pre><p>在 rc.local 文件中找到“exit 0”这一句，<strong>在它前面添加</strong>以下的命令代码：</p><pre class="language-bash"><code>nohup /home/pi/wyc_linux_arm -token=你的令牌 &
+# 这一句必须在 exit 0 的前面，注意别漏掉“令牌”后面的空格和 & 符号</code></pre><p>这样配置之后，每当在树莓派重启之后，你的内网穿透功能都会自动启动的。而且在树莓派上部署的网站都能被外网直接访问得到了。</p><h3>配置内网穿透，实现 SSH 远程连接树莓派</h3><p>除了网站可以访问之外，如果日后你还需要在外网通过 SSH 来远程管理树莓派 (比如升级更新、安装程序、执行 Linux 命令、维护网站等等)，那么还可以为 SSH 增加一个内网穿透隧道。</p><p>同样，还是先开通一个隧道，操作方法和之前一样，不过这次配置穿透协议要改成 <code>tcp</code>，内网端口为树莓派的 <code>sshd</code> 的端口，默认是 <code>22</code>，端口号可通过配置文件修改，保持一致就行。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/ssh_sui_dao.png" alt="树莓派 SSH 内网穿透设置" width="680" height="381" referrerpolicy="no-referrer"></p><p>确定之后，会生成如图的信息，记录下外网端口、域名和令牌：</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2021/shu-mei-pai-chuan-tou/ssh_sui_dao_xin_xi.png" alt="SSH 内网穿透隧道" width="680" height="165" referrerpolicy="no-referrer"></p><p>如同之前一样，在树莓派上使用这句命令来启动网云穿客户端。使用刚刚记录的口令，这次会生成一个带有端口的外网地址。</p><pre class="language-bash"><code>/home/pi/wyc_linux_arm -token 你的SSH隧道令牌</code></pre><p>从上面命令的输出信息可以看到网云穿客户端是否成功连接。没有问题的话，那么就修改 rc.local 文件，如下，就能实现开机启动两个隧道了。</p><pre class="language-bash"><code># 启动多个网云穿客户端实例，一行一个令牌
+# 网站穿透：
+nohup /home/pi/wyc_linux_arm -token=你的网站隧道令牌 &
+
+# ssh 穿透：
+nohup /home/pi/wyc_linux_arm -token=你的SSH隧道令牌 &
+# 注意必须在 exit 0 的前面</code></pre><p>之后，在互联网的其他电脑上，使用 <a href="https://www.iplaysoft.com/p/putty" target="_blank" rel="noopener">Putty</a> 或任何终端应用，通过下面的命令即可连接到你内网的树莓派了：</p><pre class="language-bash"><code>ssh -p 外网端口 pi@域名</code></pre><p>这样，通过网云穿开通的两条隧道，既实现了外网访问网站，也实现了树莓派的 SSH 远程管理。换而言之，现在你在任何地方上网，都能轻松直接访问到家里的树莓派了。</p><h3>总结：</h3><p>无论你是打算随便建个<a href="https://www.iplaysoft.com/tag/%E7%BD%91%E7%AB%99" target="_blank" rel="noopener">网站</a>玩一玩，还是用于学习 <a href="https://www.iplaysoft.com/os/linux-platform" target="_blank" rel="noopener">Linux</a>，或者是搭建真正有用的私人网络服务，借助<a href="https://www.iplaysoft.com/raspberrypi.html" target="_blank" rel="noopener">树莓派</a>/闲置电脑 + 网云穿内网穿透工具的免费隧道都能“低成本”完成！</p><p>利用内网穿透和家庭普通宽带搭建自己的服务器，可玩性和灵活性都极高，长期运行其实也很稳定，能解决很多场景的问题。至少建个 <a href="https://www.iplaysoft.com/wordpress.html" target="_blank" rel="noopener">WordPress</a> 博客或私人网盘对大多数人都是很有用的，感兴趣的同学不妨试试看。</p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/wycsale"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>限时：网云穿 1.2 折起终身隧道</a></p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wangyunchuan/kfqr_v2.png" alt="客服微信" width="215" height="215" referrerpolicy="no-referrer"></p><div id="post_download" class="entry-dl-area"><h3 class="entry-dl-area-head"><span class="h3_icon ipsicon ipsicon-download ipsicon-rspace"></span>相关文件下载地址</h3><p>官方网站：<a href="https://www.iplaysoft.com/go/wyc" target="_blank" rel="noopener">访问</a><br>
+软件性质：免费+付费<br>
+相关阅读：<a href="https://www.iplaysoft.com/wangyunchuan.html" target="_blank" rel="noopener">Windows 电脑 / 群晖 NAS 设置内网穿透教程</a></p><p><a href="https://www.iplaysoft.com/go/wyc" target="_blank" rel="noopener">下载网云穿客户端 (Win/Mac/Linux)</a>  |  <a href="https://www.iplaysoft.com/microsoft-remote-desktop.html" target="_blank" rel="noopener">Win远程桌面客户端</a>  |  <a href="https://www.iplaysoft.com/tag/%E7%BD%91%E7%BB%9C" target="_blank" rel="noopener">更多网络应用</a></p></div>  
+</div>
+            

@@ -76,7 +76,6 @@ command + 0              // 显示当前待提交代码，用于提交前 diff
 command + 9              // 显示当前历史所有的提交记录
 command + 7              // 显示当前文件的结构，特别是看 Class 时候很方便
 command + 上箭头         // 跳转到导航栏
-command + 点击           // 跳到代码调用位置
 <span class="hljs-meta">
 #</span><span class="bash"><span class="hljs-comment"># 代码操作</span></span>
 command + option + l     // 格式化代码(常用)
@@ -84,7 +83,7 @@ shift + f6               // 使文件、标签、变量名重命名
 f2, shift + f2           // 切换到上\下一个突出错误的位置
 shift + 回车             // 无论在什么位置，自动跳到下一行
 option + 回车            // 警告代码快速给出自动修正
-command + 回车           // 跳到当前调用文件
+command + 点击           // 跳到代码调用位置
 command + delete         // 删除当前行，command + x也可以
 command + d              // 复制新增一行一样的代码
 command + w              // 关闭当前文件选项卡
