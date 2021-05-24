@@ -1,0 +1,18 @@
+
+---
+title: '《鬼灭之刃 火之神血风谭》中文版将由世嘉发行 首弹PV公开'
+categories: 
+ - 游戏
+ - a9vgNews 游戏新闻
+ - a9vgNews 游戏新闻
+headimg: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0524/20210524141134-7695-35123.jpg'
+author: a9vgNews 游戏新闻
+comments: false
+date: Mon, 24 May 2021 14:17:00 GMT
+thumbnail: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0524/20210524141134-7695-35123.jpg'
+---
+
+<div>   
+世嘉股份有限公司决定，以TV动画《鬼灭之刃》为原作制作的家用机游戏《鬼灭之刃 火之神血风谭》，将在台湾、香港、韩国、东南亚等地区于PlayStation®4、PlayStation®5、Xbox One、Xbox Series X|S、Steam平台发售!<img src="https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0524/20210524141134-7695-35123.jpg" referrerpolicy="no-referrer">  
+</div>
+            

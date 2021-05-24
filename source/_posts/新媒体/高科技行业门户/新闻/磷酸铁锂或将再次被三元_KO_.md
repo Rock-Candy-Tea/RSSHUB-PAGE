@@ -1,0 +1,19 @@
+
+---
+title: '磷酸铁锂或将再次被三元_KO_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=6169'
+author: 高科技行业门户
+comments: false
+date: Mon, 24 May 2021 07:40:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6169'
+---
+
+<div>   
+<p style="text-align: left; text-indent: 2em;">凭借价格上的优势,近一两年磷酸铁锂正在向三元发起反攻。特斯拉model3、比亚迪汉EV、小鹏P7、五菱宏光mini、长城欧拉等明星电动车型都纷纷上马磷酸铁锂<span class="hrefStyle"><a href="https://dianyuan.ofweek.com/IND-8321046-dianchi.html" target="_blank" title="电池">电池</a></span>。然而,在高镍的猛烈技术进攻下,未来磷酸铁锂的成本优势或将渐渐失势。</p><p style="text-align: left; text-indent: 2em;">成本的“护城河”一旦被撕开缺口,磷酸铁锂再次被三元“KO”,将是大概率事件。</p><p style="text-align: left; text-indent: 2em;"><strong>高镍三元成本将比铁锂更低</strong></p><p style="text-align: left; text-indent: 2em;">当前,磷酸铁锂电池市场价格已低于700元/kWh,较三元电池性价比优势明显;这也是不少畅销车型选装磷酸铁锂电池的主要出发点。但从长期来看,不少业内人士认为,通过能量密度的进一步提升,高镍三元有望从系统级成本上接近或低于铁锂。</p><p style="text-align: left; text-indent: 2em;">根据华经产业研究数据,随着后续高镍工艺成熟,且CTP等技术开始商业化应用,高镍三元成本下降曲线更陡,预计2023-2024年高镍三元成本将低于5/6系三元,2027-2028年成本将低于磷酸铁锂电池,最终理论成本比磷酸铁锂电池低10-15%。</p><p style="text-align: left; text-indent: 2em;">“高镍材料大规模的生产,它的制造成本会降低,同时一些目前运用于铁锂的模组技术也会最终运用于三元,再往下到2030年的时候,随着对于三元电池有价金属的回收,预计它的全生命周期成本相比铁锂会更有竞争力。”业内人士分析道。</p><p style="text-align: left; text-indent: 2em;">中金公司预计,至2025年高镍三元与磷酸铁锂的价格可分别下降至650元/kWh与530元/kWh,价格差将由目前的近30%,缩小至20%左右。同时,预计至2025年,乘用车领域高镍三元与铁锂的系统能量密度可达到220Wh/kg与160Wh/kg。其中高镍三元若使用CTP技术,则能量密度有进一步提升的空间,而铁锂提升的空间则较有限。</p><p style="text-align: left; text-indent: 2em;">“从车企的角度而言,不能僵化地只看单kWh成本。而需要从整体上综合待装车成本。”中金公司研究人员指出。除了电池的单kWh成本,能量密度对整车能耗的影响,也是车企要考虑的成本影响因素。因此综合来看,到2025年能量密度带来的能耗优势,将驱动高镍三元在单kWh价格依旧高于磷酸铁锂的情景下,实现综合系统成本接近铁锂,并在长里程上低于铁锂。</p><p style="text-align: left; text-indent: 2em;"><strong>电池龙头必争之地</strong></p><p style="text-align: left; text-indent: 2em;">高镍三元是驱动新能源车里程普遍提升至600km以上的重要技术路径,因此也是电池企业抢占高端市场的必争之地。目前,全球电动汽车市场销量最高的特斯拉,很大一部分采用了松下NCA和LG新能源的NCM811电池,大部分欧洲一线车企也更青睐811电池;全球各大主流电池厂也都在加快高镍低钴电池的开发量产进程。</p><p style="text-align: left; text-indent: 2em;">5月中旬,宁德时代董事长曾毓群在业绩说明会上称,811电池目前已经占该公司<span class="hrefStyle"><a href="https://nev.ofweek.com/KW-donglidianchi.html" target="_blank" title="动力电池">动力电池</a></span>总出货量的20%以上,并且已在海外市场实现大规模交付。据悉,其装载811电池的海外客户主要包括戴姆勒、宝马等车企。由此可见,宁德时代对811电池的研发不仅没有懈怠,反而是快马加鞭。</p><p style="text-align: left; text-indent: 2em;">据电池中国了解,2020年宁德时代动力电池系统销量为44．45 GWh。那么,按照曾毓群20%的比例计算,宁德时代811电池出货量已达8．9GWh;这一数据已经超过了全球绝大部分电池厂商所有的电池出货量。</p><p style="text-align: left; text-indent: 2em;">值得注意的是,LG新能源计划于今年正式量产全球首款超高镍NCMA电池,并在下半年开始向特斯拉供应电池。该电池镍含量高达90%的同时,钴含量降至5%。电池预计将用于特斯拉的紧凑型SUV model Y等。而特斯拉CEO马斯克一直表示特斯拉将自己造电池,并将使用100%镍的高镍电池。</p><p style="text-align: left; text-indent: 2em;">实际上,就连一直大张旗鼓宣传刀片电池,甚至让外界怀疑可能已经放弃三元路线的比亚迪,也在积极加码高镍电池。今年4月,国产福特Mustang Mach-E正式上市,采用的就是比亚迪的NCM811电池。由此可见,比亚迪对未来高镍三元电池的技术发展趋势,还是心知肚明的。</p><p style="text-align: left; text-indent: 2em;"><strong>高镍三元材料市场渗透率不断提升</strong></p><p style="text-align: left; text-indent: 2em;">从渗透率来看,行业数据显示,今年3月国内高镍三元材料产量超过9000吨,环比增长35．1%。伴随着高镍三元材料的放量,3月份国内高镍三元材料的市占率已经达到33．7%,其中8系三元材料市占率达到31．9%,市场占有率首次突破3成。</p><p style="text-align: left; text-indent: 2em;">据了解,容百科技在高镍三元正极材料市场占比已达到50%,当升科技NCM811等产品早已实现大批量供货。国内多家券商机构认为,2021年当升科技高镍产品占比有望持续提升;而容百科技未来两年出货则有望连续翻倍。</p><p style="text-align: left; text-indent: 2em;">民生证券研报认为,2021年国内外上市重磅新车中三元高镍占比较高,包括特斯拉Model Y/Cybertrunk、大众ID．4/ID．6、日产Ariya等热门车型,有望带动高镍在三元材料中的渗透率进一步上升。业内预计,到2025年高镍三元材料的渗透率将会达到60%-70%以上。</p><p style="text-align: left; text-indent: 2em;">面对高镍化的大趋势,不少企业都在加紧布局。近期,亿纬锂能拟与贝特瑞、SKI设立高镍三元正极材料合资公司,将建设年产5万吨高镍材料项目。韩国正极材料公司与格林美签订大单,三年内计划采购17．6万吨高镍前驱体。据悉,容百科技计划2025年将高镍材料产能提升至30万吨,到2030年提升至100万吨。</p><p style="text-align: left; text-indent: 2em;">根据业内的预计,到2022年全球高镍三元材料的产量将超过60万吨,实现翻倍增长。而到2030年全球整个行业高镍材料的产出将接近350万吨。</p><p style="text-indent: 2em; text-align: left;">来源:电池中国网</p> 
+  
+</div>
+            
