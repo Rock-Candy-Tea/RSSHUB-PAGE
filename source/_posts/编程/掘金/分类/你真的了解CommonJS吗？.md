@@ -14,14 +14,14 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ad25d9e1801049ed88
 
 <div>   
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p>这篇文章主要从历史角度介绍一下Commonjs模块机制</p>
-<h1 data-id="heading-0">1. Comminjs规范</h1>
-<h2 data-id="heading-1">1.1 Comminjs出发点</h2>
+<h1 data-id="heading-0">1. Commonjs规范</h1>
+<h2 data-id="heading-1">1.1 Commonjs出发点</h2>
 <p>在js发展前期，它主要是在浏览器环境发光发热，由于ES规范规范化的时间比较早，所以涵盖的范畴比较小，但是在实际应用中，js的表现取决于宿主环境对ES规范的支持程度，随着web2.0的推进，HTML5崭露头角，它将web从网页时代带进了应用时代，并且在ES标准中出现了更多、更强大的api，在浏览器中也出现了更多、更强大的api供js调用，这需要感谢各大浏览器厂商对规范的大力支持，然而，浏览器的更新迭代和api的升级只出现在前端，后端的js规范却远远落后，对于js自身而言，它的规范依然是十分薄弱的，还存在一些严重的缺陷，比如：没有模块标准。</p>
 <p>Commonjs规范的提出，主要是为了弥补当初js没有模块标准的缺点，以达到像其它语言（例如Java、Python）那样具备开发大型应用的基础能力，而不是停留在脚本程序的阶段。他们期望用commonjs规范写出的应用具备跨宿主环境（浏览器环境）执行的能力，这样不仅可以利用js编写web程序，而且也可以编写服务器、命令行工具、甚至桌面应用程序。</p>
 <p>理论和实践总是相互影响和促进的，Node能以一种比较成熟的姿态出现，离不开Commonjs规范的影响，同样，在服务端，Commonjs能以一种寻常的姿态写进各个公司的项目中，也离不开Node优异的表现，下图是Node与W3C、还有浏览器，Commonjs组件、ES规范之间的关系：</p>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ad25d9e1801049ed88bc343f3767c98e~tplv-k3u1fbpfcp-watermark.image" alt="1234.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>Node借鉴了Commonjs的模块化规范实现了一套非常易用的模块。</p>
-<h2 data-id="heading-2">1.2 Comminjs模块规范</h2>
+<h2 data-id="heading-2">1.2 Commonjs模块规范</h2>
 <p>commonjs对模块的定义十分简单，主要分为<code>模块引用</code>、<code>模块定义</code>、<code>模块标识</code>三个部分。</p>
 <h3 data-id="heading-3">1.2.1 模块引用</h3>
 <p>模块引用的示例代码：</p>
@@ -110,6 +110,33 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ad25d9e1801049ed88
 <li>
 <p>如果在目录分析的过程中没有定位成功任何文件，则自定义模块进入下一个模块路径进行查找。如果模块路径数组都被遍历完毕，依然没有查找到目标文件，则会抛出查找失败的异常。</p>
 </li>
-</ul></div>  
+</ul>
+<h2 data-id="heading-16">2.3 模块编译</h2>
+<p>在Node中，每个文件模块都是一个对象，它的定义如下:</p>
+<pre><code class="hljs language-js copyable" lang="js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">Module</span>(<span class="hljs-params">id, parent</span>) </span>&#123;
+    <span class="hljs-built_in">this</span>.id = id;
+    <span class="hljs-built_in">this</span>.exports = &#123;&#125;;
+    <span class="hljs-built_in">this</span>.parent = parent;
+    <span class="hljs-keyword">if</span> (parent && parent.children) &#123;
+        parent.children.push(<span class="hljs-built_in">this</span>);
+    &#125;
+    <span class="hljs-built_in">this</span>.filename = <span class="hljs-literal">null</span>;
+    <span class="hljs-built_in">this</span>.loaded = <span class="hljs-literal">false</span>;
+    <span class="hljs-built_in">this</span>.children = [];
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>编译和执行是引入文件模块的最后一个阶段。定位到具体的文件后，Node会新建一个对象，然后根据路径载入并编译。对于不同的文件扩展名,其载入方法也有所不同，具体如下所示。</p>
+<ul>
+<li>.js文件。通过fs模块同步读取文件后编译执行。</li>
+<li>.node文件。这是用C/C++编写的扩展文件，通过dlopen()方法加载，最后编译生成的文件。</li>
+<li>.json文件。通过fs模块同步读取文件后，用JSON.parse()解析返回结果。</li>
+<li>其余扩展名文件。它们都被当做.js文件载入。</li>
+</ul>
+<p>每一个编译成功的模块都会将其文件路径作为索引缓存在Nodule.cache对象上，以提高二次引入的性能。根据不同的文件扩展名，Node会调用不同的读取方式。通过在代码中访问require.extensions可以知道系统中已有的扩展加载方式。编写如下代码测试一下：</p>
+<pre><code class="hljs language-js copyable" lang="js"><span class="hljs-built_in">console</span>.log(<span class="hljs-built_in">require</span>.extensions);
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>得到的执行结果如下：</p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0a6c434f519b47289a3cddaed4bcf2a2~tplv-k3u1fbpfcp-watermark.image" alt="QQ图片20210524215254.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p>上面三个函数，就分别是Node在模块编译时分别对.js文件、.json文件、.node文件的编译方式。</p></div>  
 </div>
             

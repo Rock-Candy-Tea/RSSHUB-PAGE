@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202105/17/8764da/cd8fca30af38e30d.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-05-24 12:05:09
+date: 2021-05-25 00:17:39
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202105/17/8764da/cd8fca30af38e30d.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.05.24                        <br>【小吉】壁挂洗烘一体机V3-XLY<br>                            数量 ：3<br>                            实际价格 ：3899元<br>                            活动申请中<br>                            751人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/17/8764da/cd8fca30af38e30d.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.05.24                        <br>【小吉】壁挂洗烘一体机V3-XLY<br>                            数量 ：3<br>                            实际价格 ：3899元<br>                            名单确认中<br>                            754人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/17/8764da/cd8fca30af38e30d.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             

@@ -1,0 +1,19 @@
+
+---
+title: '_图_2021年Google涂鸦大赛决赛选手揭晓'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0525/3ea8ef268e3b44f.gif'
+author: cnBeta
+comments: false
+date: Tue, 25 May 2021 00:02:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0525/3ea8ef268e3b44f.gif'
+---
+
+<div>   
+据外媒CNET报道，<strong>五位年轻的艺术家离他们的涂鸦作品在Google主页上展示一天的目标又近了一步。</strong>或许是为了反映人们都不得不克服的困难的一年，在其第13届年度Google涂鸦大赛中，Google选择了这个主题： "我很坚强，因为......" （I am strong because...）。从幼儿园到12年级的学生被邀请使用任何材料或媒介，只要它可以被拍照或以二维格式显示。他们还被要求写下他们如何创造涂鸦的过程以及如何代表他们的内在力量。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0525/3ea8ef268e3b44f.gif" alt="ezgif-4-e868a31ad87c.gif" referrerpolicy="no-referrer"></p><p style="text-align: left;">周一，Google宣布了该赛事的全美决赛选手，从五个年龄组中各选一个人。幼儿园至三年级，四至五年级，六至七年级，八至九年级和10-12岁。以下是五位决赛选手的作品，以及用他们自己的话对主题的描述。</p><p style="text-align: left;">幼儿园至三年级</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0525/c6f69b990508381.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0525/c6f69b990508381.png" alt="QZR&#125;]36)[E9PC&#123;$OHK)VF1P.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">来自亚利桑那州的Sadra Rajaee创作了这幅称为《想象力照亮未来》的涂鸦作品，她表示："我很坚强，因为我有想象力。凭借我的想象力，我让我的父母开怀大笑，帮助他们度过难关。"</p><p style="text-align: left;">四至五年级</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0525/83a8749d414cda2.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0525/83a8749d414cda2.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">来自俄勒冈州的Elise Then创作了称为《大自然的坚强》的作品，她解释说："在这个涂鸦中，我选择用折纸来表现大自然中的力量。例如，蜂鸟是世界上最小的鸟，它可以在眨眼之间拍打翅膀40次！大自然是一份礼物，我从它那里获得了力量。我必须欣赏和爱护它。"</p><p style="text-align: left;">六至七年级</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0525/e90ba6e98fa1043.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0525/e90ba6e98fa1043.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">来自罗德岛的Marketa Douglas创作了《连接与善良》，她说："我的涂鸦展示了我的祖母和我，通过这个时候唯一的沟通方式之一连接起来。它的意思是代表尽自己最大的努力，为他人保持坚强，不同的符号显示了我每天看到这种力量的其他地方。"</p><p style="text-align: left;">八至九年级</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0525/af3688a4de4eba7.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0525/af3688a4de4eba7.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">来自波多黎各的Kiara Susana Ponce Virella创作了《希望之水》，她解释说："我很坚强，因为我成功接受了脊柱侧弯手术。那是装饰我背部的疤痕。我画的所有画布都表明我变得更加强大。现在我正在接受我是谁，并看清了我的缺陷。我可能看起来并不强大，但我是强大的。以我自己的特殊方式，就像其他人一样"。</p><p style="text-align: left;">10-12年级</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0525/171aefa4331f3eb.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0525/171aefa4331f3eb.png" alt="5.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">肯塔基州的Milo Golding创作了《寻找希望》，他写道："我很坚强，因为我有希望。我曾经问过我父亲，他是如何克服障碍，成为他想成为的人的。他回答说：‘希望，希望让我坚强。在我13岁时他因心脏病发作意外去世之后，它帮助我克服了悲伤，并支持其他失去亲人的孩子’。"</p><p style="text-align: left;">五名决赛选手每人将获得5000美元的大学奖学金、本学年的Google硬件和一些Google的小礼品。</p><p style="text-align: left;">全美比赛的获胜者将在6月中旬宣布，他们的作品将在Google的主页上展示一天，这是该公司经常使用的许多Google涂鸦之一。除了曝光之外，获奖者还将获得3万美元的大学奖学金和5万美元的技术奖，供其学校使用。</p><p style="text-align: left;">今年的评委嘉宾包括畅销书作家、《Dog Man》和《Captain Underpants 》的插画师Dav Pilkey，格莱美奖获奖制片人和艺术家Peter CottonTale以及2020年全国年度教师Tabatha Rosproy。</p><p style="text-align: left;">Google还创建了一个画廊，展示来自美国、关岛、波多黎各和美属维尔京群岛的所有州获奖学生的艺术作品。</p>   
+</div>
+            

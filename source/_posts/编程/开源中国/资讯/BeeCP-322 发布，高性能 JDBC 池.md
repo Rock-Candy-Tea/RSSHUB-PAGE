@@ -1,0 +1,50 @@
+
+---
+title: 'BeeCP-3.2.2 发布，高性能 JDBC 池'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://oscimg.oschina.net/oscnet/up-396a4f68af179d196ad49ceaafbc5758030.png'
+author: 开源中国
+comments: false
+date: Tue, 25 May 2021 00:09:00 GMT
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-396a4f68af179d196ad49ceaafbc5758030.png'
+---
+
+<div>   
+<div class="content">
+                                                                    
+                                                        <p>BeeCP：小蜜蜂连接池，一款高性能的JDBC连接池。</p> 
+<p><strong>1：与其他连接池性能对比</strong></p> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-396a4f68af179d196ad49ceaafbc5758030.png" referrerpolicy="no-referrer"></p> 
+<p><span style="background-color:#ffffff; color:#333333">CPU：I5-4460，OS：Win7_64  内存：8G</span> ， <span style="background-color:#ffffff; color:#333333">跑分源码出处：</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fbrettwooldridge%2FHikariCP-benchmark" target="_blank">https://github.com/brettwooldridge/HikariCP-benchmark</a></p> 
+<p><strong>2：数据库崩溃时连接池反应测试</strong></p> 
+<p>光连接池（Java最著名的连接池）曾发布一个关于数据库崩溃后，连接池的5秒反应测试</p> 
+<p>下图为光连接池与BeeCP的反应测试截图</p> 
+<p>‘ <img src="https://oscimg.oschina.net/oscnet/up-aa038de846ffef1e9e9934d7b2cfa3c2a09.png" referrerpolicy="no-referrer"></p> 
+<p>测试源码：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FChris2018998%2FBeeCP%2Fblob%2Fmaster%2Fdoc%2Fperformance%2FdbDownTest%2FDbDownTest.java" target="_blank">https://github.com/Chris2018998/BeeCP/blob/master/doc/performance/dbDownTest/DbDownTest.java</a></p> 
+<p>测试结论：</p> 
+<p><strong>A: </strong>光连接池的反应时间是由最大等待时间来决定的，比如设置5秒，那么数据库崩溃后5秒才会有反应，若设置为20秒那么20秒后才有反应，很显然，设置多大的等待时间，多久才反应过来，这个很显然。。。。。。。 有兴趣的朋友可以验证一下。</p> 
+<p><strong>B: </strong>BeeCP的反应表现比较敏捷，反应时间几乎等同Socket级别的超时时间。</p> 
+<p><strong>3：</strong> <strong>版本下载(Java7或更高版本)</strong></p> 
+<pre><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">dependency</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+   <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>com.github.chris2018998<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+   <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>beecp<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+   <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">version</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>3.2.2<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">version</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span></span><span style="color:var(--color-prettylights-syntax-entity-tag)"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">dependency</span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span></pre> 
+<p><strong>4： 更新内容</strong></p> 
+<ul> 
+ <li>调整池名生成位置</li> 
+ <li>优化连接池对象设置默认值</li> 
+</ul> 
+<p><strong>5：项目地址</strong></p> 
+<ul> 
+ <li>国内地址： <a href="https://gitee.com/mirrors/BeeCP">https://gitee.com/mirrors/BeeCP</a></li> 
+ <li>国外地址： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FChris2018998%2FBeeCP" target="_blank">https://github.com/Chris2018998/BeeCP</a></li> 
+</ul> 
+<p>将高质量的开源作品推荐给更多的人使用，体现对我们对用户的责任心 ，回馈社会的决心，同时也希望得到社区与广大朋友们的支持，谢谢！</p>
+                                        </div>
+                                      
+</div>
+            
