@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=1092'
+headimg: 'https://picsum.photos/400/300?random=6302'
 author: 金色财经
 comments: false
-date: Tue, 25 May 2021 06:30:34 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1092'
+date: Tue, 25 May 2021 10:17:02 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6302'
 ---
 
 <div>   
-最近，以太坊layer1挑战者、layer2的 DeFi的兴起，玩家们对频频使用的“跨链桥”肯定不陌生，当我们使用CEX把加密资产中转一下，其实也是在使用“桥”。  
+最近，以太坊layer1挑战者、layer2的 DeFi的兴起，玩家们对频频使用的“跨链桥”肯定不陌生  
 </div>
             
