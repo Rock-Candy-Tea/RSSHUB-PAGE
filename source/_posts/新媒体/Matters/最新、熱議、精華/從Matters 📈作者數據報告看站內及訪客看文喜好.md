@@ -1,0 +1,18 @@
+
+---
+title: '從Matters 📈作者數據報告看站內及訪客看文喜好'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=7341'
+author: Matters
+comments: false
+date: Tue, 25 May 2021 02:05:38 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7341'
+---
+
+<div>   
+<p>昨天晚上收到了Matters 📈作者數據報告，原本以為只有文章的相關數據分析，沒想到詳細到連作者本人的活動數據都詳實紀載了，才發現原來我拍了那麼多手，掛網閱讀時間比想像中得長，是很貼心的數據資料。</p><p><br></p><p>另外還有<strong>近90天，閱讀你的文章最長時間的10名讀者</strong>（冒昧標記，請見諒）<br class="smart"><a class="mention" href="https://matters.news/@ch847009" target="_blank" data-display-name="志工爺爺" data-user-name="ch847009" data-id="VXNlcjo0NjY3Ng">﻿<span>@志工爺爺</span>﻿</a> <a class="mention" href="https://matters.news/@ruby" target="_blank" data-display-name="蔡艷秋" data-user-name="ruby" data-id="VXNlcjo0NjIxMg">﻿<span>@蔡艷秋</span>﻿</a> <a class="mention" href="https://matters.news/@sabaahprin" target="_blank" data-display-name="雞毛的小事" data-user-name="sabaahprin" data-id="VXNlcjo1MzIyNw">﻿<span>@雞毛的小事</span>﻿</a> <a class="mention" href="https://matters.news/@yhhsu1007" target="_blank" data-display-name="歲月靜好小燕子" data-user-name="yhhsu1007" data-id="VXNlcjo0NTc1Ng">﻿<span>@歲月靜好小燕子</span>﻿</a> <a class="mention" href="https://matters.news/@chen0708" target="_blank" data-display-name="si薰" data-user-name="chen0708" data-id="VXNlcjo0NzI4Mw">﻿<span>@si薰</span>﻿</a> <a class="mention" href="https://matters.news/@0828" target="_blank" data-display-name="一隻會彈琴的貓" data-user-name="0828" data-id="VXNlcjozOTUyOA">﻿<span>@一隻會彈琴的貓</span>﻿</a> <a class="mention" href="https://matters.news/@vincent797" target="_blank" data-display-name="雲遜83" data-user-name="vincent797" data-id="VXNlcjo1NjM3NA">﻿<span>@雲遜83</span>﻿</a> <a class="mention" href="https://matters.news/@philipmak_hk" target="_blank" data-display-name="PhilipMak" data-user-name="philipmak_hk" data-id="VXNlcjo0NDE2Nw">﻿<span>@PhilipMak</span>﻿</a> <a class="mention" href="https://matters.news/@joyulin2010" target="_blank" data-display-name="Joyu" data-user-name="joyulin2010" data-id="VXNlcjo0NjEzNg">﻿<span>@Joyu</span>﻿</a> <a class="mention" href="https://matters.news/@crossch999" target="_blank" data-display-name="爆栗鹹鹹姊" data-user-name="crossch999" data-id="VXNlcjo1NTQyOA">﻿<span>@爆栗鹹鹹姊</span>﻿</a></p><p>在此請收下亜希<strong>感謝的膝蓋</strong>及<strong>感動的眼淚</strong>。</p><p><br></p><hr><p><br></p><p>言歸正傳，依照數據報告顯示，</p><p><strong>馬特市市民觀看次數最多</strong>的文章是 <a href="https://matters.news/@akiju1909/%E4%BA%94%E5%80%8B%E7%94%A8%E4%BA%94%E5%8D%81%E5%AD%97%E5%AF%AB%E7%9A%84%E6%95%85%E4%BA%8B-bafyreihjr6o4hzt33mr5hlzivtbin47yjykk6vhk2jp4uze4hnazere26q" target="_blank">五個用五十字寫的故事</a><strong><br class="smart">馬特市市民</strong>觀看次數為<strong>86</strong>，而<strong>站外訪客</strong>觀看次數只有<strong>4</strong></p><p>次高則是<a href="https://matters.news/@akiju1909/%E9%A6%AC%E7%89%B9%E5%B8%82%E9%AD%94%E6%B3%95%E7%89%A9%E8%AA%9E-%E8%AE%93%E6%84%9B%E7%99%BC%E9%9B%BB-bafyreieqje452c76ubahmay3ymrdffbxcgc7vs4qnf3chzhs24nijwqz6a" target="_blank">馬特市魔法物語｜讓愛發電</a><strong><br class="smart">馬特市市民</strong>觀看次數為<strong>78</strong>，而<strong>站外訪客</strong>觀看次數只有<strong>4</strong></p><p><br></p><p><strong>站外訪客觀看次數最多</strong>的文章是 <a href="https://matters.news/@akiju1909/2020%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%89%93%E5%B7%A5%E5%BA%A6%E5%81%87-%E5%9C%A8%E5%8F%B0%E7%94%B3%E8%AB%8B%E6%88%90%E5%8A%9F%E9%80%80%E7%A8%85%E7%B4%80%E9%8C%84%E5%8F%8A%E5%88%86%E4%BA%AB-bafyreicdtymlrvkhxkfvpmpe5lrtnubzydspo46ayuwdlmdp2uajbwtqoi" target="_blank">2020年日本打工度假 在台申請成功退稅紀錄及分享</a></p><p>令我驚訝的是，<strong>站外訪客</strong>觀看次數約<strong>420</strong>，但此篇文章<strong>站內</strong>閱讀次數卻只有<strong>8</strong>次，<br class="smart">由此可明顯看出馬特市市民與訪客的看文喜好差異。</p><p><br></p><p>另外，很好奇被列入有效閱讀次數，要在文章頁面停留多久時間才會被記入呢？</p><p><br class="smart"></p>  
+</div>
+            
