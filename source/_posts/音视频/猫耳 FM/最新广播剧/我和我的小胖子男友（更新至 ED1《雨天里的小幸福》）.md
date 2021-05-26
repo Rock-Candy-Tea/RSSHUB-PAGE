@@ -1,0 +1,18 @@
+
+---
+title: '我和我的小胖子男友（更新至 ED1《雨天里的小幸福》）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202105/26/3cdafc6bcb8da40a2e7a025a355d468c104941.jpg'
+author: 猫耳 FM
+comments: false
+date: Wed, 26 May 2021 03:11:37 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202105/26/3cdafc6bcb8da40a2e7a025a355d468c104941.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202105/26/3cdafc6bcb8da40a2e7a025a355d468c104941.jpg" referrerpolicy="no-referrer"><br><p>贺小言：月下翔（优声由色）</p><p>沈白羊：kkjou</p><br><p>STAFF：</p><p>编剧：夏烟11</p><p>美工：废柴夫斯基</p><p>导演：浮云</p><p>后期：彰显其缘</p>  
+</div>
+            
