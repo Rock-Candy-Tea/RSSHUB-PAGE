@@ -29,9 +29,11 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/05/eAaVCZXRZ8kkq6eG1xdn.png'
 <li>产品经理通过系统地规划产品的这个过程，能够锻炼人看待问题更本质、判断问题更透彻、解决问题更系统的能力，能够磨出符合互联网思维的做事方法论，退一万步，即使以后不做互联网了，那也受益一生。</li>
 <li>谁都有有朝一日创造属于自己产品事业的野心，而产品经理这个全才式的要求的，俗称小CEO的岗位，相比其他岗位，最有可能开创一番互联网事业；</li>
 </ol>
-<blockquote><p><strong>☺CEO的学前班</strong></p>
+<blockquote>
+<p><strong>☺CEO的学前班</strong></p>
 <p>比如猫眼CEO是之前腾讯QQ空间的产品经理，有赞CEO是之前在百度和阿里做过产品设计师，新能源新贵小鹏汽车CEO原来是UC的产品经理，再有名宿微信之父张小龙，贴吧之父俞军更是江湖传说！</p>
-<p>可见，在互联网愈发渗透各行各业的这个时代，产品思维的重要性。</p></blockquote>
+<p>可见，在互联网愈发渗透各行各业的这个时代，产品思维的重要性。</p>
+</blockquote>
 <h2 id="toc-2">02 如何应对“0基础开始学习”这个坎？</h2>
 <p>那怎么入行产品经理呢？直接投简历吗？</p>
 <p>想起之前看到的段子：</p>
@@ -124,6 +126,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/05/eAaVCZXRZ8kkq6eG1xdn.png'
 <p>对于新人来说，短期的自学难以将零碎的知识体系化，看得越多，越容易蒙圈，也就是大家说的“看了好多干货，依旧当不了产品经理”。</p>
 <p>想更快地拿到产品offer，还是需要产品老司机带一带的。给大家推荐我之前参加的<strong>产品经理就业特训营课程</strong>，在10周的学习时间里，伴随产品老师的辅导和小伙伴的鼓励，帮助我在实践中少走了很多弯路，顺利完成产品小白到产品经理的蜕变。</p>
 <p>新一期特训营早鸟特惠，目前还有福利活动，如果你还在焦虑自己能否走上产品之路，可以戳下方链接提交报名申请，免费参与产品潜能测评</p>
+<p> </p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/05/cdC3KEoLXOesnKoJuvgx.jpg" alt width="800" height="555" referrerpolicy="no-referrer"></p>
+<p> </p>
 <p style="text-align: center"><strong><a href="http://996.pm/75rpx" target="_blank" rel="noopener">>>戳提交报名申请，免费参与产品潜能测评<<</a></strong></p>
 <p style="text-align: center">或扫描下方二维码领个优惠券+咨询课程详情，期待你的蜕变~</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/05/agsuC1whurLYFVWs1pMf.jpg" alt width="800" height="400" referrerpolicy="no-referrer"></p>
