@@ -97,6 +97,9 @@ set(GFLAGS_LIB_RELEASE xxx/vcpkg/packages/gflags_x64-windows/lib/gflags.lib)
 <p>如果出现下列错误，则是因为没有安装<code>cygwin</code>，下载地址：<a href="https://www.cygwin.com/" target="_blank" rel="nofollow noopener noreferrer">www.cygwin.com/</a> ：</p>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d424d68e27ad4db0b19f9ad040494773~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然而。。。安装了<code>cygwin</code>后，问题更艰难了。。。</p>
-<p>我们下期见。</p></div>  
+<p>。。。</p>
+<h2 data-id="heading-11">过程很凄惨、结局很光明</h2>
+<p>好吧，最后我放弃了。在Windows上调试<code>Clickhouse</code>恐怕难度不小。我转Linux了。安装了<code>VirtualBox</code>虚拟机，并启动了一个<code>Ubuntu</code>系统，然后按照官网教程，很快就在跑<code>ninja clickhouse</code>命令了，而且基本没有出现什么问题。就是这个命令执行时间有点长，已经跑了1个多小时了。。。</p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a4f93d42e32241b991c6ca70ac7eb16f~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p></div>  
 </div>
             
