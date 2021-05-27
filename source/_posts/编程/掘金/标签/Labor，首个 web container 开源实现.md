@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://picsum.photos/400/300?random=6572'
+headimg: 'https://picsum.photos/400/300?random=1225'
 author: 掘金
 comments: false
 date: Tue, 25 May 2021 08:16:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6572'
+thumbnail: 'https://picsum.photos/400/300?random=1225'
 ---
 
 <div>   
@@ -67,7 +67,8 @@ thumbnail: 'https://picsum.photos/400/300?random=6572'
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>一直报错，气死我了，所以为了抹平，我们只能重新重新实现一个 http client 了</p>
-<p>基本原理是借助 net 的其他包，实现一个虚拟的 http 协议栈</p>
+<p>基本原理是借助 net 的其他包，polyfill 不支持的包</p>
+<p>比如 <code>net/http</code> 的 http.Get() 方法不支持，我们就用 <code>net/http/httputil</code> 包模拟</p>
 <p>这块内容比较多，等我有时间了</p>
 <p><strong>web container 的场景</strong></p>
 <ol>
