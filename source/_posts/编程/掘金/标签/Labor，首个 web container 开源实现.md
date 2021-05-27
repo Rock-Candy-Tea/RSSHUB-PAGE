@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://picsum.photos/400/300?random=2931'
+headimg: 'https://picsum.photos/400/300?random=6572'
 author: 掘金
 comments: false
 date: Tue, 25 May 2021 08:16:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2931'
+thumbnail: 'https://picsum.photos/400/300?random=6572'
 ---
 
 <div>   
@@ -41,7 +41,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2931'
 &#125;))
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>大功告成！基本原理就是这么简单的啦</p>
-<p><strong>事前准备</strong></p>
+<p><strong>文件系统</strong></p>
 <p>根据 stackblitz 的 demo 可以看到，他们是可以读文件系统的</p>
 <pre><code class="hljs language-js copyable" lang="js"><span class="hljs-keyword">const</span> a = readFileSync(<span class="hljs-string">'./a.js'</span>)
 <span class="copy-code-btn">复制代码</span></code></pre>
@@ -55,8 +55,20 @@ thumbnail: 'https://picsum.photos/400/300?random=2931'
 ])
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>在我们初始化的时候，就是要生成一张这样的图，这是我们实现文件系统的关键</p>
+<p><strong>http client</strong></p>
 <p>除了文件系统，另一个重点就是 http</p>
-<p>好消息是 go 的 <code>net/http</code> 包对 WASI 的支持程度非常好，出乎意料</p>
+<p>好消息是 go 的 <code>net/http</code> 包对 WASI 的支持程度还不错，但有很多东西还是没办法用</p>
+<pre><code class="hljs language-go copyable" lang="go"><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">Download</span><span class="hljs-params">(url <span class="hljs-keyword">string</span>)</span> <span class="hljs-title">interface</span></span>&#123;&#125; &#123;
+    res, _ := http.Get(url)
+    buffer, _ := ioutil.ReadAll(res.Body)
+    body := js.Global().Get(<span class="hljs-string">"Uint8Array"</span>).New(<span class="hljs-built_in">len</span>(b))
+    js.CopyBytesToJS(body, b)
+    <span class="hljs-keyword">return</span> body
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>一直报错，气死我了，所以为了抹平，我们只能重新重新实现一个 http client 了</p>
+<p>基本原理是借助 net 的其他包，实现一个虚拟的 http 协议栈</p>
+<p>这块内容比较多，等我有时间了</p>
 <p><strong>web container 的场景</strong></p>
 <ol>
 <li>webIDE</li>

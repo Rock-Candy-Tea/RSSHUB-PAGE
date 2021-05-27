@@ -84,8 +84,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><b><span style="color: #d24519;">minusT：</span><br>
 </b><span style="font-weight: 400;">　在制作前我考虑了很多种设计，最后又将这些设计以「该如何表现原作地灵殿的支援系统」整合在一起而诞生的。</span></p>
 <p><img class="alignnone size-full wp-image-16550" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190740/21525_4.png" alt width="1426" height="614" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190740/21525_4.png 1426w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190740/21525_4-512x220.png 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190740/21525_4-1024x441.png 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190740/21525_4-768x331.png 768w" sizes="(max-width: 1426px) 100vw, 1426px" referrerpolicy="no-referrer"></p>
-<p><span style="font-weight: 400;">　我想在视频中同时表现出爱丽丝、帕秋莉和荷取的支援，而说到荷取的话不就想到她是制作机械的嘛。以及空在原作中使用符卡的时候会出现「Caution！」的警告，如果将其以机械的形式表现的话，就挺不错吧。</span></p>
-<p><span style="font-weight: 400;">　空的角色构成要素之一就是核融合，因此我利用这些扩展创作中的科幻要素，并反映在了视频里。</span></p>
+<p><span style="font-weight: 400;">　我想在视频中同时表现出爱丽丝、帕秋莉和荷取的支援，而说到荷取的话不就想到她是制作机械的嘛。以及阿空在原作中使用符卡的时候会出现「Caution！」的警告，如果将其以机械的形式表现的话，就挺不错吧。</span></p>
+<p><span style="font-weight: 400;">　阿空的角色构成要素之一就是核融合，因此我利用这些扩展创作中的科幻要素，并反映在了视频里。</span></p>
 <p> </p>
 <h2 style="text-align: center;">以看到3D的弹幕能明白这是原作的什么弹幕为印象而创作</h2><p><b>――<strong>在「Subterranean Stars」里最能明显感觉到的，您能巧妙地将原作平面上表现的2D弹幕转换为3D。这一将2D转换为3D的过程中，您下了什么苦工</strong>。</b></p>
 <p><b><span style="color: #d24519;">minusT：</span><br>
@@ -94,11 +94,11 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><img class="alignnone size-full wp-image-16551" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190747/210525_5.png" alt width="1425" height="611" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190747/210525_5.png 1425w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190747/210525_5-512x220.png 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190747/210525_5-1024x439.png 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/05/25190747/210525_5-768x329.png 768w" sizes="(max-width: 1425px) 100vw, 1425px" referrerpolicy="no-referrer"></p>
 <p><b>――<strong>这可是能让其他也在制作类似视频的人得到参考的回答。您在角色建模上花了多少时间？</strong></b></p>
 <p><b><span style="color: #d24519;">minusT：</span><br>
-</b><span style="font-weight: 400;">　以「Subterranean Stars」为例，第一个开始建模的角色是空，花了1~2个月的时间弄出了初版模型。在那之后又在其他角色身上下功夫之间改造初版模型而做成现在的模型，这一步快一点，大概花了一个月左右的时间。为了制作新的视频又开始进一步学习Blender，使用新的机能，制作更好的模型。因此，每次制作新作品的时候都会不满足于先前的模型，每次都会翻新原有的模型。</span></p>
+</b><span style="font-weight: 400;">　以「Subterranean Stars」为例，第一个开始建模的角色是阿空，花了1~2个月的时间弄出了初版模型。在那之后又在其他角色身上下功夫之间改造初版模型而做成现在的模型，这一步快一点，大概花了一个月左右的时间。为了制作新的视频又开始进一步学习Blender，使用新的机能，制作更好的模型。因此，每次制作新作品的时候都会不满足于先前的模型，每次都会翻新原有的模型。</span></p>
 <p><b>――<strong>这个问题可能有点偏题，您是从什么时候开始画画的？您之前是说在制作视频之前</strong>。</b></p>
 <p><b><span style="color: #d24519;">minusT：</span><br>
 </b><span style="font-weight: 400;">　我从小就喜爱画自己喜欢的游戏角色，不过在知道东方之后画得比以前多多了。买入数位笔开始电脑作画也是自知道东方之后。</span></p>
-<p><span style="font-weight: 400;">　后来又推出同人志，去参加例大祭。初我第一次参加例大祭时被例大祭的规模震惊到了！虽然早有耳闻，但是能聚集到如此之多的东方粉丝还是让我非常震惊。</span></p>
+<p><span style="font-weight: 400;">　后来又推出同人志，去参加例大祭。我第一次参加例大祭时被例大祭的规模震惊到了！虽然早有耳闻，但是能聚集到如此之多的东方粉丝还是让我非常震惊。</span></p>
 <p><b>――<strong>在参加例大祭中有什么让您印象鲜明的场景吗？</strong></b></p>
 <p><b><span style="color: #d24519;">minusT：</span><br>
 </b><span style="font-weight: 400;">　非常感谢许多人对我说「看过您的视频」。有趣的是还有些来自中国，美国的……来自日本国外的参加者们也在说日语。</span></p>
