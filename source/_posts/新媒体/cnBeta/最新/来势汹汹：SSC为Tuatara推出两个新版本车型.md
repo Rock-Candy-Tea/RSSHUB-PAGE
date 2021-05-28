@@ -1,0 +1,19 @@
+
+---
+title: '来势汹汹：SSC为Tuatara推出两个新版本车型'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/05/b3c859cd7032f23.jpg'
+author: cnBeta
+comments: false
+date: Fri, 28 May 2021 04:51:30 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/05/b3c859cd7032f23.jpg'
+---
+
+<div>   
+据外媒报道，SSC Tuatara曾是世界上最快的汽车，然后它失去了这个称号，现在它又来了--但差距很小。眼下，SSC正在充满尖叫的直道上休息一下，它将再次试图证明自己是世界上最快的汽车。<strong>不过现在，它推出了两个新的版本，它们专为曲折和转弯的赛道设计。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/b3c859cd7032f23.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/b3c859cd7032f23.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Striker和Aggressor为Tuatara的双涡轮V8发动机增加了强大的空气动力学并提高了下压力和赛道处理能力。</p><p style="text-align: left;">SSC称这些新车型为“横向扩展”，因此它们的设计目的不是成为世界上最快赛车的旗舰级，而是为了创造圈数纪录而精心打磨的赛道变体。受多用途战斗飞机的启发，Tuatara Striker被设计成一款无论是在道路还是在赛道同等舒适的超跑。它跟Tuatara的基础车型共用了1750马力的双涡轮V8引擎和自动化7速手动变速箱，但下压力增加了两倍，能以160英里/时（257公里/时）的速度行驶，车身重量达1100磅（500公斤）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/8e5301f81b759ea.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/8e5301f81b759ea.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">从后视图来看，Striker失去了Tuatara的标志性小翼，取而代之的是高下压力的固定翼。下<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C752%2C899" target="_blank">面包</a>括一个主动尾翼、垂直稳定器和巨大的后部扩压器。、Striker前面的航空工具包则包括定向叶片侧摇杆、正面潜水飞机和一个前分配器。前后增加的部件可以平衡下压力，其中45.4%的下压力作用于前桥、54.6%的下压力作用于后桥，这改善了汽车的整体平衡、稳定性和操控性。</p><p style="text-align: left;">设计师Jason Castriota介绍称：“将Tuatara纯粹、滑溜的速度形式转化为终极赛道武器是一个梦想任务。每一个美学上的变化和空气动力学元素都有一个独特的目的，即在创造下压力的同时，将阻力减到最小并赋予汽车一个令人难以置信的进取性和目的性的美学。”</p><p style="text-align: left;">在内部，Striker买家可以定制的外观及以赛道为重点的选配如阿尔坎塔拉装饰和曝光在外面的碳仪表盘。驾驶员可以通过数字HMI来调整性能和操控特性。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/0e26cf10306e6c6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/0e26cf10306e6c6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Aggressor也从天空中汲取灵感、进入纯轨道领域以模仿侵略者飞机中队的纯粹竞争性。该车还得到了所有Striker的空气动力学升级和全面赛道攻击支持可选的2200马力升级包另加上量身定制的排气系统。内部则有一个防滚架支撑并包含有定制的赛车座椅跟五点背带。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/8eef8e19cb799d7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/8eef8e19cb799d7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">SSC将在其位于华盛顿里奇兰的总部只制造10辆Tuatara Aggressor、100辆Tuatara和Tuatara Striker。遗憾的是，今日的信息并未公布价格。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/11a73c69feefe74.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/11a73c69feefe74.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/b6a01983abfd59c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/b6a01983abfd59c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/e244821809a9214.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/e244821809a9214.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/05/0cbe069d7ebdd32.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/0cbe069d7ebdd32.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/05/e71189bd7abc7de.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/05/e71189bd7abc7de.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

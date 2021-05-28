@@ -1,0 +1,18 @@
+
+---
+title: 'CNN挖坑_病毒武汉泄露_，哈佛教授：扯淡！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f4_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 27 May 2021 20:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f4_1024.jpg'
+---
+
+<div>   
+<p>【文 / 观察者网 鞠峰】</p><p>最近一批美国政客炒起了新冠病毒溯源的 " 冷饭 "，拜登也下令 " 加大一倍力度 " 病毒起源。美传染病专家安东尼 · 福奇在联邦议会上遭反复 " 拷问 "，被逼得 " 左右找补 "。美国有线电视新闻网（CNN）也拉来另一位美国哈佛大学传染病教授，设计提问想要引导他为一些阴谋论来背书，却被这名教授吐槽 " 扯淡 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f4_1024.jpg" data-height="435" data-width="776" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f4_1024.jpg" referrerpolicy="no-referrer"></div></div>李普斯奇（右）接受 CNN 采访 （视频截图）<p></p><p>CNN27 日采访哈佛大学公共卫生学院传染病学教授李普斯奇（Marc Lipsitch）。主持人称，" 我们听说是汤姆 · 科顿提出一系列（病毒源头的）可能性的，他不是医生，也不像你一样是传染病学专家，他是政府官员。但美国疾控中心（CDC）前主任同样提出，至少值得调查是否是实验室泄露。"</p><p>接着，CNN 主持人播放了前 CDC 主任罗伯特 · 雷德菲尔德此前接受采访的视频。他造谣称，" 如果我猜的话，这种病毒是（去年）9 月、10 月在武汉某地开始传播的。"</p><p>雷德菲尔德是特朗普时期领导疾控中心的病毒学家。他还宣称，他认为病毒起源于中国的一个实验室，并从（实验室）" 逸出 "。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202105/60b065d48e9f094a8d3a23f5_1024.jpg" data-height="433" data-width="776" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/60b065d48e9f094a8d3a23f5_1024.jpg" referrerpolicy="no-referrer"></div></div>CNN 播放特朗普时期 CDC 主任雷德菲尔德的造谣采访<p></p><p>雷德菲尔德一脸自信地说，" 别人不相信没事，科学最终会弄明白的。我不相信这个病毒突然从蝙蝠传人，然后突然变成地球上传染性最强的病毒。一般来说，这种（动物宿主）情况下，病毒传染性是逐渐变强的，要经过一段时间。自然传播在我这从生物学角度讲不通。"</p><p>播放完采访片段，CNN 向李普斯奇询问意见。</p><p>" 并不想冒犯，但恕我直言，他在扯淡。SARS 病毒就是那样的。流感病毒有时也会如此，通过其他的动物宿主。所以我实在搞不懂他的逻辑。"</p><p>值得补充的是，即使是 CNN，3 月报道前 CDC 主任雷德菲尔德 " 武汉所起源 " 阴谋论时，也特意在标题注明他的话 " 没有任何证据 "。为什么时隔两个月，CNN 又把这段视频拿出来 " 炒冷饭 "，不得而知。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f6_1024.jpg" data-height="676" data-width="990" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/60b065d48e9f094a8d3a23f6_1024.jpg" referrerpolicy="no-referrer"></div></div>CNN3 月报道截图<p></p><p>中国日报欧盟分社社长陈卫华猜测，这名女主持 " 明显希望他（哈佛教授）同意 " 视频片段的阴谋论，却惨遭打脸。如果真是这样，CNN 无疑是在 " 为黑而黑 "，恶意炒作病毒起源中国的阴谋论。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202105/60b065d48e9f094a8d3a23f7_1024.jpg" data-height="481" data-width="598" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202105/60b065d48e9f094a8d3a23f7_1024.jpg" referrerpolicy="no-referrer"></div></div>陈卫华推特截图<p></p><p>实际上，本次接受采访的哈佛教授本人也持着 " 希望继续调查病毒起源 " 的观点。本月，李普斯奇在内的 18 名美国权威科学家，在《科学》杂志上发表联名信，呼吁调查新冠病毒起源。</p><p>虽然世卫组织经过溯源研究已经得出结论，中国实验室泄漏病毒 " 极不可能 "，这是权威的、写进世卫报告中正式的、科学的结论。但如美国科学家所说，新冠起源仍有疑窦。相关的研究，可以继续下去，但不应像美国那样，" 绑架 " 国内的科学家，强迫他们站队、背书，在议会散播阴谋论，让科学问题沦为政治问题。</p><p>外交部发言人赵立坚 5 月 27 日说，美国新冠肺炎确诊和死亡病例数位居全球首位。美国不深刻反思，反而企图甩锅中国，他们居心何在，良心何安？</p><p>美国德特里克堡疑云重重，200 多个生物实验室散布全球，这里面究竟隐藏着什么秘密？2019 年 7 月，弗吉尼亚州北部出现不明原因呼吸系统疾病，威斯康星州大规模暴发 " 电子烟疾病 "，这又有什么隐情？</p><p>" 美方何时向国际社会公布相关病例的详细数据和信息？美方欠国际社会一个交代。" 赵立坚说，美方口口声声要中国参与全面、透明、以证据为基础的国际调查，那就请美方也能像中国一样，本着科学的态度，立即同世卫组织开展溯源研究合作，对美国进行全面、透明、以证据为基础的国际调查，充分回应国际社会的关切。</p><p><strong>本文系观察者网独家稿件，未经授权，不得转载。</strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
