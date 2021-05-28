@@ -1,0 +1,18 @@
+
+---
+title: '狗子不允许我碰其他狗，难道说狗也会像人一样吃醋吗？-友善用户川丹丹的回答：会啊，这个问题是有文章的。《犬的嫉妒》（Jealousy in Dogs），12年的研究，作者C...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-56850b507b53ec0b19a18a62d4e4b4de_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 28 May 2021 12:16:33 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-56850b507b53ec0b19a18a62d4e4b4de_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>狗子不允许我碰其他狗，难道说狗也会像人一样吃醋吗？</strong><br>友善用户川丹丹的回答<br><p>会啊，这个问题是有文章的。</p><p>《犬的嫉妒》（Jealousy in Dogs），12年的研究，作者Christine R. Harris和Caroline Prouvost。我觉得很有趣，粗略介绍下。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-56850b507b53ec0b19a18a62d4e4b4de_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1043" data-rawheight="646" data-default-watermark-src="https://pic1.zhimg.com/50/v2-859131101c85c72a324e869ee6b6f101_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-56850b507b53ec0b19a18a62d4e4b4de_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-56850b507b53ec0b19a18a62d4e4b4de_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>其实这项研究的方向还是属于人类心理学而不是动物行为学，最终目标是探寻“嫉妒”的起源。</p><p>实验对象是36只狗与它们的主人，狗的种类有十几种，包括吉娃娃，波士顿梗，马尔济斯、约克夏梗等，当然，还有十四只串串。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-d77dcb1db8ce3622f56635affe9ef85d_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1038" data-rawheight="527" data-default-watermark-src="https://pic1.zhimg.com/50/v2-d401bf8f484e82a4cd72696bcf27befd_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d77dcb1db8ce3622f56635affe9ef85d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-d77dcb1db8ce3622f56635affe9ef85d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>实验1</b>，主人当着宠物的面与一只会汪汪叫，摇尾巴的机器玩具狗玩耍。</p><p><b>实验2</b>，主人当着宠物的面，假装南瓜灯是一只真狗，并与其嬉戏。</p><p><b>实验3</b>，主人大声朗读儿童读物，像对小孩念故事一样。</p><p>当主人跟玩具狗玩时，效果很明显，约80%狗会推或碰触主人。</p><p>当主人和南瓜灯玩耍或大声朗读儿童读物时，狗类似行为的比例则分别是42%与22 %。</p><p>有30%狗，会试图介入主人和玩具狗之间。</p><p>当玩具狗汪汪叫或摇尾巴时，因为实在欺人太甚，约25%狗会咬它，甚至有一只狗咬了南瓜灯和儿童读物。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-2e598005a585934add877b562cfe153e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="600" data-rawheight="348" data-default-watermark-src="https://pic1.zhimg.com/50/v2-3ff28ca4df09707478508d818b7ab128_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-2e598005a585934add877b562cfe153e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-2e598005a585934add877b562cfe153e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>文章的摘要是这么写的：</p><blockquote>人们普遍认为嫉妒是人类所特有的，部分原因是这种情感中往往包含着复杂的认知。然而，从功能的角度来看，人们可能会认为在其他社会物种中，特别是像狗这样认知复杂的物种，可能进化出了一种感情来保护社会纽带不受闯入者侵害。<br>本实验采用了人类婴儿研究中的一种模式来研究家犬的嫉妒心理。<b>我们发现，与非社交对象相比，当主人对另一只狗表现出深情的行为时，狗表现出明显更多的嫉妒行为</b>（例如，咬牙切齿、在主人和物体之间走动、推/碰物体/主人）。<br>这些结果支持了一个假设，<b>即嫉妒具有某种“原始”形式，存在于人类婴儿和除人类以外的至少一个其他社会性动物中</b>。<br><br></blockquote><p>其他分析也十分有意思，有时间的话翻译全文吧。</p><p></p><p></p>  
+</div>
+            
