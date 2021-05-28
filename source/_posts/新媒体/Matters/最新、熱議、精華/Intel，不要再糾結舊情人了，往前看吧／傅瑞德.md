@@ -1,0 +1,18 @@
+
+---
+title: 'Intel，不要再糾結舊情人了，往前看吧／傅瑞德'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/3afef66a-616d-4d42-93c4-1d33568e6109.jpeg'
+author: Matters
+comments: false
+date: Thu, 27 May 2021 17:32:19 GMT
+thumbnail: 'https://assets.matters.news/embed/3afef66a-616d-4d42-93c4-1d33568e6109.jpeg'
+---
+
+<div>   
+<h4><strong>Intel打Apple是「張飛打岳飛」嗎？</strong></h4><p>Intel不是不能打Apple、也不是不能打含恨分手的前客戶（還是Apple）；但是以Intel作為處理器廠商的地位，去打電腦成品的form factor（造型／型態）是完全沒有意義的行為。</p><figure class="image"><img src="https://assets.matters.news/embed/3afef66a-616d-4d42-93c4-1d33568e6109.jpeg" data-asset-id="3afef66a-616d-4d42-93c4-1d33568e6109" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>全世界（包含Intel的所有客戶）的筆記型電腦產品之中，有平板模式、而且賣得很好的機種並沒有很多，總量或許也只佔Intel處理器出貨量的一小部分。你去挑戰「Mac有沒有平板模式」，除了微軟（有Surface系列產品）和Lenove等幾家有這類產品的廠商之外，還真不知道還可以幫到誰。</p><p>如果同樣是Intel陣營的客戶、又沒有兩用平板的產品，是不是就被「順便」打了一巴掌？</p><p>順帶一提：根據<a href="https://www.idc.com/promo/pcdforecast" target="_blank">IDC的資料</a>，2020年全球平板／筆電兩用機（detachable tablet）類別的出貨量，估計大約是PC出貨總數的15%。</p><figure class="image"><img src="https://assets.matters.news/embed/6bb9833f-9567-460a-a9d6-cea21177182d.png" data-asset-id="6bb9833f-9567-460a-a9d6-cea21177182d" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>所以，同樣的廣告如果是微軟來做，可能還稍微有點道理；從行銷的角度來說，Intel來做其實有點「多管閒事」。</p><p>不過，Intel這個系列的廣告多少還是引起了一些注意；如果大家有興趣的話，可以看看Intel在Twitter上的貼文獲得了怎麼樣的回應（簡單的說，就是引起了討論，但應該沒有達到預期的轉換效果）。</p><h5><a href="https://twitter.com/intel/status/1356633480776531968" target="_blank"><strong>英文版類似推文</strong></a>（<a href="https://twitter.com/intel/status/1389118228874493952" target="_blank">中文版</a>）<strong>：</strong></h5><figure class="image"><img src="https://assets.matters.news/embed/1f75d1f7-139c-435e-9670-c4e0058f6186.png" data-asset-id="1f75d1f7-139c-435e-9670-c4e0058f6186" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h4><strong>問題1：無效行銷</strong></h4><p>我的想法是，設計這系列「打Apple」廣告的人，並不熟悉市場現況與平板電腦的發展史，只是滿足客戶「逞一時之快」的需求而已。</p><p>過去許多平板或兩用電腦，都是因為Intel處理器太耗電而賣不起來。另外一個原因，則是微軟的行動版作業系統一直不成熟（我自己在2000年前後參與過微軟Windows XP Teblet Edition的行銷內容工作）；直到實用性較高、價格也可接受的Surface系列問世之後，才比較有所起色。</p><p>而且，至少Apple至少還有iPad這種「有筆電模式的平板」（而不是Intel所謂的「有平板模式的筆電」），所以並不能說完全沒有這類產品。雖然我也覺得iPad作為「兩用電腦」還不夠理想，但也只是說法上的不同而已。</p><p>所以，行銷活動打擊對手、挖對手的缺點（至少是廣告主認為的缺點）雖然並不罕見，但是最重要的是：</p><ol><li>打的確實是對方的關鍵七寸，而不是你一廂情願的弱點；</li><li>打了之後對你自己、或對客戶產品的銷售轉換率確實有幫助；</li><li>看清楚古往今來的產品與市場消長情勢，不要在某個意想不到的時候自打嘴巴。</li></ol><p>至於Intel這種兩點都幾乎不符合、只是逞口舌之快的玩法，雖然可以引發一些熱議，但轉換率不高、也很容易燒到自己，我覺得還是免了，把力氣拿去跟AMD對槓比較實在。</p><h4><strong>問題2：人算不如天算</strong></h4><p>何況，以後包括微軟在內的多家PC廠商，基於省電、效能、以及成本的因素，很可能都會（至少在平板電腦上）改用ARM系列處理器，甚至引發PC產業其他公司紛紛跟進。</p><ul><li><strong>〈</strong><a href="https://tuna.mba/p/210503" target="_blank"><strong>顛覆PC產業的下一個挑戰：「Wintel」組合的崩解</strong></a><strong>〉</strong></li><li><strong>〈</strong><a href="https://tuna.mba/p/191011" target="_blank"><strong>不按牌理出牌，其實有跡可循：微軟跨上雲端的一大步</strong></a><strong>〉</strong></li></ul><p>過去十多年之中，Intel已經因為錯過了以ARM處理器為主流的手機市場發展；而Apple離棄x86之後的M1處理器成功上市，也為其他PC廠商打了一劑強（信）心針。</p><p>如果Intel還不做出轉型或跳越世代的決斷，在未來的行動市場上不僅可能落在Apple之後，也會落在<a href="https://tuna.mba/p/210324" target="_blank">併購了NUVIA</a>的高通（Qualcomm）之後。</p><p>所以，Intel最近因為這個問題，也受到很大的壓力；根據外界的猜測，說不定也會取得授權製造ARM架構的處理器，以便繼續維持市場競爭能量。</p><p>至於純PC市場來自AMD的競爭，就又是另一個故事了。</p><p>在這個人算不如天算、盟友可能變心、新一代競爭者四面環伺的環境下，Intel再去糾結「Mac沒有平板模式」、或是碎念「前女友的缺點」，還有什麼意義嗎？</p><blockquote><strong>有誰家的平板電腦還在用Intel x86處理器？</strong></blockquote><p>如果以後的問題變成這樣，那事情才真的是難看。</p>  
+</div>
+            
