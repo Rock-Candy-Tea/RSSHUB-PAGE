@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210528/96ec4230c4002c2d40f92b84175c5ac2.png'
 author: Dockone
 comments: false
-date: 2021-05-28 12:27:04
+date: 2021-05-29 00:34:52
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210528/96ec4230c4002c2d40f92b84175c5ac2.png'
 ---
 
 <div>   
-<br>【把电话】Redis 大家用的不少，但是我们大多数人可能都只是关注业务本身，对于底层的细节则经常忽略，久而久之，对个人的成长帮助甚少。本文为大家总结了关于 Redis 常见用法的进阶指南，希望帮助大家加深对这门技术的理解。<br>
+<br>【编者的话】Redis 大家用的不少，但是我们大多数人可能都只是关注业务本身，对于底层的细节则经常忽略，久而久之，对个人的成长帮助甚少。本文为大家总结了关于 Redis 常见用法的进阶指南，希望帮助大家加深对这门技术的理解。<br>
 <h3>Redis 基础数据结构</h3><h4>String</h4>Redis 里的字符串是动态字符串，会根据实际情况动态调整。类似于 Go 里面的切片-slice，如果长度不够则自动扩容。至于如何扩容，方法大致如下：当 length 小于 1M 的时候，扩容规则将目前的字符串翻倍；如果 length  大于 1M 的话，则每次只会扩容 1M，直到达到 512M。<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20210528/96ec4230c4002c2d40f92b84175c5ac2.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210528/96ec4230c4002c2d40f92b84175c5ac2.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
