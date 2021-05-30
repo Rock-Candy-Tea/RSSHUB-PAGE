@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - SocialBeta
  - 首页
-headimg: 'https://picsum.photos/400/300?random=8179'
+headimg: 'https://picsum.photos/400/300?random=1307'
 author: SocialBeta
 comments: false
 date: Fri, 28 May 2021 08:30:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8179'
+thumbnail: 'https://picsum.photos/400/300?random=1307'
 ---
 
 <div>   
