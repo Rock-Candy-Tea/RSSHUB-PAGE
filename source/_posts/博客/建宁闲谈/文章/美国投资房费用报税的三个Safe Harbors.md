@@ -96,7 +96,7 @@ unadjusted basis  = 20 – 4 + 1 =15万
     <div style="border: 1px #008BE8 dashed;">
     <table border="0">
 <form name="addCustomerReview" method="POST" action="/s/go"></form>
-<input type="hidden" name="hidden_security_key" value="ccd00848f34fb439318175258a6c6eeb">
+<input type="hidden" name="hidden_security_key" value="0425836b9e27a22b246b6ecd900151e5">
 <input type="hidden" name="Title" value="美国投资房费用报税的三个Safe Harbors">
 <input type="hidden" name="Article_ID" value="201905081">
 
@@ -127,7 +127,7 @@ unadjusted basis  = 20 – 4 + 1 =15万
   <td colspan="2">
   <br>
   <b>输入验证码</b> : 
-       <img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/L.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/P.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/Z.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/H.jpg" width="25" referrerpolicy="no-referrer">
+       <img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/L.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/B.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/Q.jpg" width="25" referrerpolicy="no-referrer"><img src="https://cors.zfour.workers.dev/?http://jian-ning.com/images/letters/M.jpg" width="25" referrerpolicy="no-referrer">
 <input type="text" name="security_key" size="6"> <span style="FONT-SIZE:10px;color:blue">* 必需</span> 
   </td>
 </tr>
