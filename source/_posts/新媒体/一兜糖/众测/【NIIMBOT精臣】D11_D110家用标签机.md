@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202105/17/8764da/48c28509c6e1860c.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-05-29 12:25:11
+date: 2021-05-30 00:39:07
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202105/17/8764da/48c28509c6e1860c.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.05.29                        <br>【NIIMBOT精臣】D11/D110家用标签机<br>                            数量 ：5<br>                            实际价格 ：129元<br>                            活动申请中<br>                            310人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/17/8764da/48c28509c6e1860c.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.05.29                        <br>【NIIMBOT精臣】D11/D110家用标签机<br>                            数量 ：5<br>                            实际价格 ：129元<br>                            名单确认中<br>                            314人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202105/17/8764da/48c28509c6e1860c.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             

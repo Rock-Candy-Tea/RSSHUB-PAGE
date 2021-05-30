@@ -5,15 +5,15 @@ categories:
  - 博客
  - Google Sites
  - 文章更新
-headimg: 'https://picsum.photos/400/300?random=7894'
+headimg: 'https://picsum.photos/400/300?random=1762'
 author: Google Sites
 comments: false
-date: Sat, 29 May 2021 11:15:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7894'
+date: Sat, 29 May 2021 23:29:20 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1762'
 ---
 
 <div>   
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><span style="background-color:transparent;font-size:13.3333px">功能：</span><span style="background-color:transparent;font-size:13.3333px">輸出第 n 個</span><span style="background-color:transparent;color:rgb(84,84,84);font-family:arial,sans-serif;font-size:small">費波那契數</span><span style="background-color:transparent;font-size:13.3333px"> (Fibonacci Number)。</span></div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Showing the nth Fibonacci Number</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycby3ja9S9i9aPpJ_NLXw80kdoqDNS8hF7adfPU-nRhdgJyJZoPtW/exec?mid=ACjPJvHm7DSbCZnEWBNH-Nr9FCt9MT6-1rP4gY76yipMwM98hpGuG2p0DfWl2DItLbDo8ZF6JsPiozz_KN2sxlqij73JdeNuKgO0rPGEDuL_zfWl36hhNwoAv0ovzI9lzDZK0imaBtMBRq7OnRrQ1Q&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Showing the nth Fibonacci Number" width="100%" height="200" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_794686639"></iframe></div></div></div></div><br><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div></div></td></tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><span style="background-color:transparent;font-size:13.3333px">功能：</span><span style="background-color:transparent;font-size:13.3333px">輸出第 n 個</span><span style="background-color:transparent;color:rgb(84,84,84);font-family:arial,sans-serif;font-size:small">費波那契數</span><span style="background-color:transparent;font-size:13.3333px"> (Fibonacci Number)。</span></div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Showing the nth Fibonacci Number</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycby3ja9S9i9aPpJ_NLXw80kdoqDNS8hF7adfPU-nRhdgJyJZoPtW/exec?mid=ACjPJvF1vJEVaMv_Zzt8r34Bt_RpfnTQBnEZ6-Qio5xQJxDteRyx2DMjNacmEkptliC9w7kLhyfgoBJsy02COoOgW2cRBnKCgXPzklrDmSRI9fxFWbXvzwUxbmD_g_b2_vAvLkowsL_vhsOFwohTPw&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Showing the nth Fibonacci Number" width="100%" height="200" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_597184817"></iframe></div></div></div></div><br><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div></div></td></tr></tbody></table>
   
 </div>
             
