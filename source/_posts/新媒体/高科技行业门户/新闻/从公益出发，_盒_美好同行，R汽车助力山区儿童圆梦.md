@@ -1,0 +1,19 @@
+
+---
+title: '从公益出发，_盒_美好同行，R汽车助力山区儿童圆梦'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450429043042262.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 31 May 2021 08:39:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450429043042262.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">五月的大凉山上已是一片绿意盎然，洋溢着勃勃生机，一行由MARVEL R组成的公益车队正在蜿蜒盘桓的山路前行，它们将前往大凉山当地小学，为山区的孩子们送上一份特殊的礼物——“美好盒子”。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450429043042262.png" title="1622450429043042262.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">早在一个月前，“美好盒子”在城市的各个社区落地开花。这是一项由R汽车和饿了么联合发起的公益活动，旨在以“美好盒子”的形式传递爱心。如今，已经满载“美好”的盒子走出城市，送到偏远山区孩子们的手中。进山之路再遥远、再崎岖，也难挡满怀赤忱公益心的MARVEL R。在R汽车的赋能之下，“美好盒子”公益辐射范围再升级，让爱心跨越山河，让美好奔赴四川大凉山。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450437073040023.png" title="1622450437073040023.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">山里的孩子难得走出大山，但对这个世界，他们依然保持着强烈的好奇心。当手里捧着装满无限可能的“美好盒子”的时候，孩子们毫不掩饰兴奋之情，彼此间分享着各自的礼物，焕发出了天真、活泼、乐观的孩童天性。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450446189088569.png" title="1622450446189088569.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>● 情系凉山 R公益再出发 ●</strong></p><p style="text-indent: 2em; text-align: left;">在经过实地走访学校后得知，如今山区学校的各类硬件设施正得以不断改善，但山区儿童仍少有接触外面世界的机会，有限的教育资源和环境束缚了他们视野、思维的发展，这才是他们所面临的最大短板。所以，R汽车此行选择了“美好盒子”的形式，让公益变得别出心裁。这份“美好盒子”让孩子们感受到了来自外面世界的关怀，也激发了他们探索外面世界，勇于实现梦想的热情。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450455727099398.png" title="1622450455727099398.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">“美好盒子”让R汽车与大凉山二度结缘。作为上汽集团旗下的高端智能纯电汽车品牌，R汽车在发力研究<span class="hrefStyle"><a href="https://nev.ofweek.com/KW-donglidianchi.html" target="_blank" title="动力电池">动力电池</a></span>回收问题的同时，也关注到了山区校园的用电难问题。2020年，R汽车为山区小学引入先进的新能源技术，将废旧电池改装成太阳能充电设施，解决了山区学校断电频繁、供电不稳等问题，为当地师生带来了持续光明的学习和生活环境。R汽车的公益行动并没有局限于物资捐赠等“短平快”的公益形式，而是通过自身专业和优势赋能公益，走上一条与时俱进的公益之路。</p><p style="text-indent: 2em; text-align: left;"><strong>● 为爱而聚 R用户携手同行 ●</strong></p><p style="text-indent: 2em; text-align: left;">如果说公益1．0时代是“授人以鱼”，关注的是救贫济危的责任与担当；公益2．0时代是“授人以渔”，关注的是救贫济危的方式和方法；那么，公益3．0时代关注的就是如何让更多的人愿意投身公益，将公益变成生活中的一部分。因此，R汽车的公益之路不仅着眼于公益内容的不断创新，更是在用户群体中不断延伸公益理念，以R汽车为平台，积极带动R汽车用户投身公益事业，推动公益事业的可持续发展。此次“美好盒子”公益活动得到了R汽车用户的积极响应，大家纷纷贡献出自己的一份力量，为山区儿童带来力所能及的关心和帮助。更有一位热心车主加入到了志愿者的行列，亲自奔赴大凉山，将“美好盒子”送达孩子们的手中。大山里淳朴的孩子对这些来自遥远城市的“插班生们”表达出了最热情的欢迎，也让用户感受到了R汽车的品牌温度。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450465533009364.png" title="1622450465533009364.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-05/31/xihong/1622450473484069445.png" title="1622450473484069445.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">习近平总书记指出，“扶贫必扶智”。提高贫困地区的教育质量、促进优秀人才培养才是扶贫的根本，而在跨越了硬件设施的鸿沟之后，面对贫困山区学校的资助和帮扶更应聚焦在师资和启蒙。R汽车始终坚持“科技兑现想象”，通过这份小小的“美好盒子”，R汽车希望能为山区孩子们带来外面世界的美好，激发他们认知世界、探索世界的热情和勇气，唤醒孩子们对美好未来的想象力。未来，“美好盒子”活动还将号召更多群体一起加入，让城市进一步了解大山里的孩子，帮助孩子们解放思想、放飞梦想，助力他们“兑现想象”。</p> 
+  
+</div>
+            
