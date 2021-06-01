@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/6dd594f7280498e9608f472ba65853c6.png'
         <strong>易兆微电子</strong><br>
         短距离无线通讯芯片设计商<br>
         Pre-IPO / 1亿人民币 / 2021-06-01<br>
-        投资方: 长江产业基金、考拉基金
+        投资方: 小米集团、考拉基金
         
 </div>
             

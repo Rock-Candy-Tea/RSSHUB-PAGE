@@ -1,0 +1,18 @@
+
+---
+title: '为什么有的人喜欢养宠物_-猫崽崽敲nicew的回答：因为很治愈，而且会给我的生活带来一丝美丽的阳光，以前我不想做任何事，自从养了宠物，每天也算是有酸也有甜。...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-4653515a8551664017f8bdc98999829d_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 01 Jun 2021 12:37:10 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-4653515a8551664017f8bdc98999829d_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>为什么有的人喜欢养宠物?</strong><br>猫崽崽敲nicew的回答<br><p>因为很治愈，而且会给我的生活带来一丝美丽的阳光，以前我不想做任何事，自从养了宠物，每天也算是有酸也有甜。因为本身内向，朋友没有，但如果一个小生命每天期盼你和他玩，心里总会有些温暖</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-4653515a8551664017f8bdc98999829d_720w.jpg?source=54b3c3a5" data-rawwidth="1280" data-rawheight="2728" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-0933eed4c9c76c74e83766c216c98b5c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-4653515a8551664017f8bdc98999829d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-4653515a8551664017f8bdc98999829d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-9df7268fadb956ac947d29da266896da_720w.jpg?source=54b3c3a5" data-rawwidth="2728" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-162d53b765d99bf9d2d903e57c8e46a6_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-9df7268fadb956ac947d29da266896da_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-9df7268fadb956ac947d29da266896da_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-706b6171e56df20d2193d091b08cf16a_720w.jpg?source=54b3c3a5" data-rawwidth="2728" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-c0b977d353ae993cb68d5bd46c26ab03_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-706b6171e56df20d2193d091b08cf16a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-706b6171e56df20d2193d091b08cf16a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-8da9ebcab6af19db2dbb62dc9a269f4e_720w.jpg?source=54b3c3a5" data-rawwidth="1280" data-rawheight="2728" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-28dc3574ab3e547f0c31694288d8930d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-8da9ebcab6af19db2dbb62dc9a269f4e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-8da9ebcab6af19db2dbb62dc9a269f4e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-24e4519f981ef4f3b89b2eb88e5e50b5_720w.jpg?source=54b3c3a5" data-rawwidth="2731" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-9301ab1502f184881f88d23f24c06939_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-24e4519f981ef4f3b89b2eb88e5e50b5_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-24e4519f981ef4f3b89b2eb88e5e50b5_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
