@@ -56,8 +56,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/0216/081917_NgL7_27201
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdbeaver.io%2F2021%2F05%2F31%2Fdbeaver-21-1%2F" target="_blank">详情查看 release notes</a>。</p> 
 <p>下载地址：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdbeaver.io%2Fdownload%2F" target="_blank">https://dbeaver.io/download/</a></p> 
 <p>DBeaver 是一款自由开源的多平台通用数据库工具，支持所有流行数据库，如 MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix 和 Presto 等。</p> 
-<p><img height="268" src="https://static.oschina.net/uploads/space/2021/0216/081917_NgL7_2720166.png" width="500" referrerpolicy="no-referrer"></p> 
-<p><img height="268" src="https://static.oschina.net/uploads/space/2021/0216/081934_DBLh_2720166.png" width="500" referrerpolicy="no-referrer"></p>
+<p><img src="https://static.oschina.net/uploads/space/2021/0216/081917_NgL7_2720166.png" referrerpolicy="no-referrer"></p> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0216/081934_DBLh_2720166.png" referrerpolicy="no-referrer"></p>
                                         </div>
                                       
 </div>

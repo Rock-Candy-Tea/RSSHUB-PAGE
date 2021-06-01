@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.4gamers.com.tw/news-image/a34cc97d-7290-45d4-a545-e7acee9dd865.jpg'
 author: 4Gamers 新闻
 comments: false
-date: Mon, 31 May 2021 16:38:54 GMT
+date: Tue, 01 Jun 2021 01:03:38 GMT
 thumbnail: 'https://img.4gamers.com.tw/news-image/a34cc97d-7290-45d4-a545-e7acee9dd865.jpg'
 ---
 
