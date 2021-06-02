@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 后续
  - 最新 Live
-headimg: 'https://picsum.photos/400/300?random=9667'
+headimg: 'https://picsum.photos/400/300?random=5967'
 author: 后续
 comments: false
 date: Mon, 03 May 2021 04:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9667'
+thumbnail: 'https://picsum.photos/400/300?random=5967'
 ---
 
 <div>   

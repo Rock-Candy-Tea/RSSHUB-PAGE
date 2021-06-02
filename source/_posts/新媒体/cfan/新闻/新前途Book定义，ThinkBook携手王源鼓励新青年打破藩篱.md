@@ -13,7 +13,7 @@ thumbnail: 'https://upload.cfan.com.cn/2021/0601/1622541275565.jpg'
 ---
 
 <div>   
-<p>6月1日，ThinkBook夏季新品发布会在北京正式举办。联想ThinkBook首席产品官周秋昊、联想ThinkBook首席市场官周宝瑄、ThinkBook代言人王源在现场共同探讨“新前途，Book定义”话题，并携手推出ThinkBook 13x、ThinkBook 14p、ThinkBook 16p、ThinkBook Plus 2等多款ThinkBook家族重磅新品。</p>
+<p><span style="text-indent: 2em;">6月1日，ThinkBook夏季新品发布会在北京正式举办。联想ThinkBook首席产品官周秋昊、联想ThinkBook首席市场官周宝瑄、ThinkBook代言人王源在现场共同探讨“新前途，Book定义”话题，并携手推出ThinkBook 13x、ThinkBook 14p、ThinkBook 16p、ThinkBook Plus 2等多款ThinkBook家族重磅新品。</span></p>
 <p><strong>对话王源：拒绝被定义，创造新前途</strong></p>
 <p>不愿被外界左右，不愿被他人定义，是当代新青年生活态度。作为新青年的代表人物王源，在谈到“新前途 Book定义”时说：“我常想，我们人生的路是否不应该被别人设下的藩篱所束缚，而是更应该去倾听自己内心真实的声音。当我们全力奔向自己创造的新前途的时候，我真的能感受到自己心中有火。”从外界眼中的“偶像”，到联合国儿童基金会大使，再到唱作歌手，王源始终拒绝被定义，不断突破自我。</p>
 <p style="text-align: center; text-indent: 0;"><img src="https://upload.cfan.com.cn/2021/0601/1622541275565.jpg" border="0" alt title align style="/*width: 113.5mm; height: 63.9mm*/;" referrerpolicy="no-referrer"></p>
@@ -44,7 +44,7 @@ thumbnail: 'https://upload.cfan.com.cn/2021/0601/1622541275565.jpg'
 <p style="text-align: center;"><strong><span style="font-size: 12px;">ThinkBook 16p起售价¥8499</span></strong></p>
 <p style="text-align: center; text-indent: 0;"><img src="https://upload.cfan.com.cn/2021/0601/1622541275811.png" border="0" alt title align style="display: block; margin-left: auto; margin-right: auto;" referrerpolicy="no-referrer"></p>
 <p style="text-align: center;"><span style="font-size: 12px;"><strong>ThinkBook Plus 2起售价¥8999   无线充电版¥10999</strong></span></p>
-<p style="text-align: center;"><span style="font-size: 12px;"><strong>ThinkBook 13x起售价¥8499</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 12px;"><strong>ThinkBook 13x起售价¥6499</strong></span></p>
 <p>此次推出的ThinkBook Family家族新品现已登陆联想官网、京东、天猫等电商平台。ThinkBook坚持打破常规，不断用极致的创新产品支持新青年勇敢追梦，无惧未知，无畏阻险，冲破赛道，驰骋出全新前途，以思考重构世界。</p>　  
 </div>
             

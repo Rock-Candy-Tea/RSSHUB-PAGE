@@ -5,11 +5,11 @@ categories:
  - 编程
  - Hacker News
  - 分类
-headimg: 'https://picsum.photos/400/300?random=5895'
+headimg: 'https://picsum.photos/400/300?random=9031'
 author: Hacker News
 comments: false
-date: 2021-06-02 01:01:21
-thumbnail: 'https://picsum.photos/400/300?random=5895'
+date: 2021-06-02 05:57:05
+thumbnail: 'https://picsum.photos/400/300?random=9031'
 ---
 
 <div>   

@@ -5,17 +5,27 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2367'
+headimg: 'https://oscimg.oschina.net/oscnet/up-ed922f61e32f960bdcdfdb074444732f277.png'
 author: 开源中国
 comments: false
 date: Wed, 02 Jun 2021 07:21:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2367'
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-ed922f61e32f960bdcdfdb074444732f277.png'
 ---
 
 <div>   
 <div class="content">
                                                                     
-                                                        <p>OpenHarmony 2.0 Canary 现已发布，当前版本在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下：</p> 
+                                                        <p>6月1日，开放原子开源基金会（OpenAtom Foundation，以下简称“基金会”）正式发布 OpenAtom OpenHarmony（以下简称"OpenHarmony"） 2.0 Canary。</p> 
+<p>全球开发者可通过 Gitee 下载完整代码：<a href="https://gitee.com/openharmony" target="_blank">https://gitee.com/openharmony</a></p> 
+<p>OpenHarmony是由基金会孵化及运营的开源项目，由基金会的OpenHarmony项目群工作委员会负责运作，遵循Apache 2.0等开源协议，目标是面向全场景、全连接、全智能时代，基于开源的方式，搭建一个智能终端设备操作系统的框架和平台。</p> 
+<p><img alt src="https://oscimg.oschina.net/oscnet/up-ed922f61e32f960bdcdfdb074444732f277.png" referrerpolicy="no-referrer"></p> 
+<p>OpenHarmony 2.0 Canary 的<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg3q7IwTrM3Rm7y5-t-yxew" target="_blank">发布公告</a>写道：</p> 
+<blockquote> 
+ <p><strong>OpenHarmony 2.0 自主研发，不兼容安卓。</strong>OpenHarmony 用户应用程序是一种基于服务原子化概念定义的新型应用。与传统终端用户应用程序不同，OpenHarmony 用户应用程序支持在 OpenHarmony 设备间跨端迁移、多端协同，一次开发多端部署，实现可分可合可流转。</p> 
+ <p>OpenHarmony 用户应用程序基于全新设计的 OpenHarmony API/SDK 开发，可以运行在基于全新 OpenHarmony 开源项目开发的系统上，并可以在多终端之间无缝流转。</p> 
+ <p>OpenHarmony 程序框架仅支持全新的 OpenHarmony 用户应用程序运行，不支持基于安卓系统的 API/SDK 开发的用户应用程序运行。</p> 
+</blockquote> 
+<p>OpenHarmony 2.0 Canary 在 OpenHarmony 1.1.0 的基础上，增加标准系统版本，具备的主要功能如下：</p> 
 <ul> 
  <li>新增22个子系统，支持全面的OS能力，支持内存大于128M的带屏设备开发等。</li> 
  <li>提供系统三大应用：桌面、设置和SystemUI。</li> 
@@ -24,7 +34,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2367'
  <li>提供媒体框架，支持音视频功能开发。</li> 
  <li>提供图形框架能力，支持窗口管理和合成，支持GPU能力。</li> 
 </ul> 
-<h4>配套关系</h4> 
+<h3>配套关系</h3> 
 <p><strong>表 1</strong> 版本软件和工具配套关系</p> 
 <table cellspacing="0"> 
  <thead> 
@@ -52,7 +62,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2367'
   </tr> 
  </tbody> 
 </table> 
-<h4>更新说明</h4> 
+<h3>更新说明</h3> 
 <p>本版本完全继承了OpenHarmony 1.1.0的所有特性，并在OpenHarmony 1.1.0版本的基础上，新增标准系统版本形态，详情请参考下表 。</p> 
 <p><strong>表 2</strong> 版本新增特性表</p> 
 <table cellspacing="0"> 
@@ -247,8 +257,21 @@ thumbnail: 'https://picsum.photos/400/300?random=2367'
   </tr> 
  </tbody> 
 </table> 
-<p>详情可见：<a href="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-2-0-Canary.md">https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-2-0-Canary.md</a></p> 
-<p> </p>
+<p><a href="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-2-0-Canary.md" target="_blank">详情点此查看</a>。</p> 
+<hr> 
+<h1>OpenHarmony 大事记</h1> 
+<h2><strong>2020年9月</strong></h2> 
+<p>2020年9月开放原子开源基金会（OpenAtom Foundation，以下简称“基金会”）获捐OpenHarmony开源项目后宣布开源，随后组织各方力量对项目开展共建，于2020年12月联合七家志愿共建单位成立了OpenHarmony项目群工作委员会，七家单位分别是（排名按单位简称首字母排序）：博泰、华为、京东、润和、亿咖通、中科院软件所、中软国际。</p> 
+<p>OpenHarmony开源项目重大事项由工作委员会各成员单位代表用投票方式共同决定，投票权利均等，一家单位一票，遵循公开明确的OpenHarmony项目群管理制度规则。按照约定的规则与流程，贡献者随时可以在OpenHarmony开源项目gitee社区贡献代码，开放原子开源基金定期组织版本发布。</p> 
+<h2><strong>2020年9月10日</strong></h2> 
+<p>2020年9月10日，OpenHarmony 1.0 版本正式上线，支持内存为128K到128M的终端设备。</p> 
+<h2><strong>截至2021年5月</strong></h2> 
+<p>截至2021年5月，信通院泰尔实验室、好叭科技、华秋电子、软通动力、思必拓科技等单位陆续协商加入项目群，正在完成协议签署和捐款流程。</p> 
+<h2><strong>2021年6月1日</strong></h2> 
+<p>2021年6月1日，OpenHarmony 2.0 Canary版本宣布上线，支持内存128M以上的各种智能终端设备。</p> 
+<p>OpenHarmony 2.0 自主研发，不兼容安卓。众多开发合作伙伴将以开源社区为中心，分阶段快速迭代，不断完善系统能力，逐步构建起面向万物互联时代的OpenHarmony生态。在全球范围内有兴趣、有需要的组织和个人都可以基于开源项目的章程参与OpenHarmony开源项目，实现共商、共建、共享、共赢。截至2021年5月31日，已有240多个共建企业、共建机构与个人贡献者参与项目。</p> 
+<p>OpenHarmony在开放原子开源基金会的组织下、在OpenHarmony项目群工作委员会的治理下，以工作组、特别兴趣小组、子项目形式等方式组织（特别兴趣小组简称SIG，英文全称Special Interest Group，具体运作及参与共建方式见：<a href="https://gitee.com/openharmony/community/tree/master/sig" target="_blank">https://gitee.com/openharmony/community/tree/master/sig</a>）。</p> 
+<p>【开放原子开源基金会】开放原子开源基金会是致力于推动全球开源产业发展的非营利机构，于2020年6月正式获得民政部批准在北京成立，由阿里巴巴、百度、华为、浪潮、360、腾讯、招商银行等十家龙头科技企业联合发起，由工信部作为业务指导单位。开放原子开源基金会拟通过共建、共治、共享的方式，系统性打造信息产业和工业开源开放框架，搭建国际开源社区，提升行业协作效率，赋能千行百业。目前开放原子开源基金会业务范围主要包括为各类开源软件、开源硬件、开源芯片、开源内容提供中立的知识产权托管、战略咨询、法务咨询、项目运营、品牌营销和教育培训等服务。</p>
                                         </div>
                                       
 </div>
