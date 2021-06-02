@@ -1,0 +1,19 @@
+
+---
+title: '广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624962740097798.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 02 Jun 2021 09:08:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624962740097798.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">日前，广东省科技创新大会在广州隆重举行，颁发2020年度广东省科学技术奖。TCL空调“全工况节能舒适柔风空调关键技术研究及产业化”项目，从众多参选项目突围而出，荣获2020年度省科技进步二等奖。目前，该项目成果已全面运用于TCL智慧柔风空调、TCL智慧新风空调等系列产品上，为用户提供舒适家居体验。</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624962740097798.jpg" alt="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" width="600" height="399" title="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">广东省科技创新大会颁奖现场</p><p style="text-indent: 2em; text-align: left;"><strong>三大核心技术“国际领先”，品牌竞争力领跑全球</strong></p><p style="text-indent: 2em; text-align: left;">据悉，TCL空调该项成果已获授权发明专利25项，实用新型专利26项，发表学术论文4篇，成功应用到多个挂机和柜机平台。2018年6月－2020年7月，应用该项目核心技术成果的产品已生产销售74万套，销售收入22．6亿元，为国家增加利税5000万元，同时提高了我国家电产品在国际市场的竞争力和可持续发展。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624963365045442.jpg" alt="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" width="600" height="782" title="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">TCL空调获2020年度广东省科技进步二等奖</p><p style="text-indent: 2em; text-align: left;">一直以来，TCL空调坚信“创新能够为行业带来高质量发展”和秉持“创新是第一驱动力”的理念，并将其充分融入到产品研发当中。每一件新品的问世，都证明着TCL空调拥有极强创新能力。截止目前，TCL空调共获授权专利2385项，其中发明专利261项，实用新型专利1536项，发表在制冷学报、家电科技等行业知名期刊论文共75篇。</p><p style="text-indent: 2em; text-align: left;">早在2019年中国轻工业联合会组织召开的技术成果鉴定会上，TCL空调自主研发的 “高经济性舒适柔风空调技术 ”、 “变频空调器全工况运行节能智能控制技术”、“负压强制通风散热模块关键技术”三项技术成果就已被鉴定为“国际领先”。</p><p style="text-indent: 2em; text-align: left;">目前，TCL空调已在广东中山、广东惠州、湖北武汉、江西九江、印尼、巴西等地拥有全球十大生产基地，年生产能力突破1000万套。同时，TCL空调营销网络覆盖全球，产品销往160多个国家和地区。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624965255017384.jpg" alt="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" width="600" height="327" title="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">TCL卧室新风空调正掀起一股“新风潮”</p><p style="text-indent: 2em; text-align: left;"><strong>省级科技进步奖加持，TCL卧室新风空调引领行业新变革</strong></p><p style="text-indent: 2em; text-align: left;">TCL空调该项成果采用微孔层流柔风技术、全新附壁引流技术、自旋式导风板技术和气流组织控制等技术，解决了空调送风单一、电能波动、极限工况下的空调散热不良等行业普遍性问题，实现出风柔和、速度波动小、噪音低的凉感柔风模式。</p><p style="text-indent: 2em; text-align: left;">该项目核心技术除了全面应用于智慧柔风空调系列外，“升起小蓝翼 深睡新风里”的专业新风空调——TCL卧室新风空调亦有搭载，并再次升级智慧柔风2．0，全新出风方式更柔和、更舒适。</p><p style="text-indent: 2em; text-align: left;">TCL卧室新风空调通过14 片可开合柔风叶片， 854个柔风微孔组成柔风系统，将生硬冷风通过微孔打散，吹出柔和、舒适的软风；智慧柔风2．0技术，一键切换实现柔风、淋浴风、地毯风、环抱风四种舒适送风方式，满足一年四季全家人的需求。环抱风，让新风全方位环抱用户；淋浴风，适合夏天更加清凉；地毯风，避免冬天“寒从脚下生”。配合360°运动导风板，让送风范围更广，温度分布更均匀。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-06/02/liuxu/1622624965730099644.jpg" alt="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" width="600" height="591" title="广东省科技进步奖加持，TCL智慧新风空调超强竞争力领跑行业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">TCL卧室新风空调智慧柔风2．0技术，一键切换实现四种送风方式</p><p style="text-indent: 2em; text-align: left;">此外，对于普通新风空调忽冷忽热的弊病，TCL卧室新风空调通过搭载领先的恒温新风技术加以解决，对进入室内的新风进行温度补偿，让每一缕空气都恒定在适宜睡眠的26℃。</p><p style="text-indent: 2em; text-align: left;">历经20多年不断积累，在技术上不断突破，TCL空调重新确立自身定位，致力于做“懂你的健康空气专家”，以满足消费者日益提升的智能、健康、舒适的新风需求。如今， TCL空调承接集团AI x IoT智慧基因升级品牌定位，正以庞大的布局占位睡眠场景新赛道，全新推出的TCL卧室新风空调也正掀起一股“新风潮”。</p> 
+  
+</div>
+            

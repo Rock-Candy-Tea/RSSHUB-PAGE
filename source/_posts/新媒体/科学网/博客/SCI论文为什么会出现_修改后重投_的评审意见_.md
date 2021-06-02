@@ -1,0 +1,22 @@
+
+---
+title: 'SCI论文为什么会出现_修改后重投_的评审意见_'
+categories: 
+ - 新媒体
+ - 科学网
+ - 博客
+headimg: 'https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202106/02/110342t5edfpyrzbdzpddt.jpg'
+author: 科学网
+comments: false
+date: Wed, 02 Jun 2021 11:15:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202106/02/110342t5edfpyrzbdzpddt.jpg'
+---
+
+<div>   
+<p>在上周的文章：<a href="http://blog.sciencenet.cn/home.php?mod=space&uid=3201402&do=blog&id=1288144" target="_blank" style="font-size: 18px; text-decoration: underline;"><strong><span style="font-size: 18px;">重要！科研人必须知道的拒稿相关问题</span></strong></a>中，我们的编辑简要回答了“修改后重投”的决定意味着什么。本文将为大家详细解答“修改后重投”的背后含义，原因以及如何处理这样的审稿意见。 </p><p><strong>经统计，同行评审审稿人给出“修改后重投”的意见，是大多数学术论文投稿后最常见的结果。</strong></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202106/02/110342t5edfpyrzbdzpddt.jpg" title alt="修改后重投.jpg" referrerpolicy="no-referrer"><br></p><p style="text-align: center;"><span style="font-size: 20px;"><strong>修改后重投的含义</strong> </span></p><p>同行评审审稿人的意见如下：<strong><span style="color: #0070C0;">论文尚有价值，但需要通篇整体修改，才有可能接收</span></strong>。 </p><blockquote><ul class=" list-paddingleft-2" style="list-style-type: square;"><li><p>“修改后重投”：是“第二次机会”，但您无法确定修改后的论文是否最终能被接收。 </p></li><li><p>“修改后重投”≠“接收”，甚至不如“大修后接收”  </p></li></ul></blockquote><p style="text-align: center;"><span style="font-size: 20px;"><strong>原因</strong> </span></p><blockquote><p><span style="color: #0070C0;"><strong>  1. 一位审稿人建议接收（小修或大修后），但另一位建议拒稿。 </strong></span></p><p><span style="color: #0070C0;"><strong>  2. 两位（或多位审稿人）都建议论文“修改后重投”。 </strong></span></p></blockquote><p style="text-align: center;"><span style="font-size: 20px;"><strong>如何应对 </strong></span></p><p>回复审稿人意见可以参考以前的文章：<a href="http://blog.sciencenet.cn/blog-3201402-1283088.html" target="_blank" style="font-size: 18px; text-decoration: underline;"><span style="font-size: 18px;"><strong>这样处理审稿人意见更高效 </strong></span></a></p><blockquote><ol class=" list-paddingleft-2" style="list-style-type: decimal;"><li><p>与其他类型的审稿意见相比，处理“修改后重投”的审稿意见要更加小心：</p></li></ol><ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>根据审稿意见彻底修改论文</p></li><li><p>尽可能完整地回复每条审稿意见 </p></li></ul></blockquote><blockquote><p>  2. 撰写回复信时，<span style="color: #0070C0;"><strong>必须回复审稿人的所有意见</strong></span>： </p><ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>必须以信件的形式回复审稿意见——回复信</p></li><li><p><strong><span style="color: #0070C0;">回复信是写给期刊编辑的</span></strong>，而非同行评审审稿人 </p></li></ul></blockquote><blockquote><p>  3. 回复时应明确受众是谁： </p><ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p><span style="color: #0070C0;"><strong>您彻底修改论文重投之后，一般会再发给作出“修改并重新投稿”审稿意见的审稿人</strong></span></p></li><li><p><strong><span style="color: #0070C0;">您的回复信——对审稿人意见的回复——发给期刊编辑</span></strong></p></li></ul></blockquote><p>注意，应在规定时间内用心回复，语气尽量礼貌 </p><p>最后，一定要注意<span style="color: #0070C0;">截止日期</span>。</p><hr><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202106/02/111222gfyy0g0e7smyy7ey.jpg" title alt="113658obo3kvsuais24qkd.jpg" referrerpolicy="no-referrer"><br></p><p style="text-align: center;"><a href="https://www.cwauthors.com.cn/prices/?utm_source=sciencenetblog&utm_medium=blog&utm_campaign=snprice" target="_blank"><span style="font-size: 18px;"><strong>论文润色</strong></span></a><span style="font-size: 18px;"><strong> | <a href="https://www.cwauthors.com.cn/_Translationservices/?utm_source=sciencenetblog&utm_medium=blog&utm_campaign=sntranslation" target="_blank">学术翻译 </a>| <a href="https://www.cwauthors.com.cn/Servicesv2/?utm_source=sciencenetblog&utm_medium=blog&utm_campaign=snotherservice" target="_blank">其他发表支持服务</a> | <a href="https://www.cwauthors.com.cn/CharlesworthEditors/?utm_source=sciencenetblog&utm_medium=blog&utm_campaign=sneditor" target="_blank">英国编辑团队介绍</a></strong></span></p>                    <br><br>
+                                        <label style="font-size:13px; color:#850f0f">转载本文请联系原作者获取授权，同时请注明本文来自Charlesworth论文科学网博客。<br>链接地址：</label><a href="http://blog.sciencenet.cn/blog-3201402-1289334.html" target="_blank" style="font-size:13px; color:#850f0f">http://blog.sciencenet.cn/blog-3201402-1289334.html </a>
+  <br><br>上一篇：<a href="http://blog.sciencenet.cn/blog-3201402-1288990.html" target="_black">博士生如何提升学术写作水平？</a><br>                    <!--大赛结束-->
+                                        
+  
+</div>
+            
