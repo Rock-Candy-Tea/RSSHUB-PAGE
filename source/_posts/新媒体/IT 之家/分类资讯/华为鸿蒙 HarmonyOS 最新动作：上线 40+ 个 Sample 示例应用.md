@@ -1,0 +1,19 @@
+
+---
+title: '华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/629bfe08-4e03-4fcf-a45a-b70d128fcfa0.jpg'
+author: IT 之家
+comments: false
+date: Wed, 02 Jun 2021 10:16:08 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/629bfe08-4e03-4fcf-a45a-b70d128fcfa0.jpg'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 2 日消息 据 HarmonyOS 官方表示，目前，HarmonyOS 提供的 API 已超过 16000 个，满足了大多数应用的开发需求。</p><p>然而不管是刚开始接触 HarmonyOS 的小白，还是已经了解并开始研发 HarmonyOS 应用的开发者，相信都会碰到这些问题：对 HarmonyOS 某些 API 功能一知半解，不知道这些 API 具体应该用在哪里，每次开发都耗费太多时间查找相关 API......IT之家获悉，华为表示，为了解决这些问题，6 月 2 日，我们将推出 HarmonyOS Sample。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/629bfe08-4e03-4fcf-a45a-b70d128fcfa0.jpg" w="627" h="423" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="627" height="423" referrerpolicy="no-referrer"></p><h2>HarmonyOS Sample</h2><p>那么到底什么是 HarmonyOS Sample？其实就是 HarmonyOS 的示例应用程序。开发者们可以通过 Sample 来了解如何使用不同的 API 构建应用程序，围绕这些 Sample 了解如何轻松创建 HarmonyOS 项目，编译它们，并在自己的项目中使用它们，从而实现快速学习 HarmonyOS 的目标，帮助开发者提升开发效率。</p><p>比如，在开发应用时：</p><p>● 想使用 HarmonyOS 的相机能力，可以参考 Media-> Camera 这个 Sample；</p><p>●想获取分布式设备的能力，可以参考：Network->DistributedDevices 这个 Sample；</p><p>●想使用分布式调度能力，可以参考：Ability->DistributedScheduler 这个 Sample；</p><p>第一批 HarmonyOS Sample 涵盖了 HarmonyOS 的八大子能力（Ability、Thread、UI、Media、Security、Network、Device、Common），共 40 + 个 Samples，后续也会持续新增，欢迎大家体验使用。</p><h2>Sample 列表一览</h2><p>以下是当前已经提供的 Samples 列表：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/afc1488e-88a9-461a-8da0-0bf9c8eca877.png" w="1080" h="3402" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="2583" referrerpolicy="no-referrer"></p><p>介绍完 HarmonyOS Sample，下面我们一起来看看如何查看使用这些 Sample。</p><h2>Sample 使用指南</h2><p>我们通过 HUAWEI DevEco Studio 开发工具来查看使用这些 Sample。</p><p>● DevEco Studio 下载链接</p><p><a href="https://developer.harmonyos.com/cn/develop/deveco-studio#download" target="_blank">https://developer.harmonyos.com/cn/develop/deveco-studio#download</a></p><p><strong>01</strong></p><p><strong>打开 Sample 的导入界面</strong></p><p>目前 DevEco Studio 提供两种导入 Sample 的方式：</p><p>1） 通过启动页面中的 Import HarmonyOS Sample 导入：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/37bb29ff-3f2d-437f-a08b-6ce1dc4bc122.png" w="1080" h="749" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="569" referrerpolicy="no-referrer"></p><p>2） 通过菜单栏的 File->New->Import HarmonyOS Sample 按钮导入：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/86d9454f-428f-4c48-9f36-1c224664be20.png" w="1080" h="701" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="532" referrerpolicy="no-referrer"></p><p>进入导入页面后，将弹出 Sample 选择框界面，左侧将呈现 Sample 的分类，当用户选择具体的 Sample 时，在右侧将呈现该 Sample 的介绍，包括简要描述、开源地址和示例预览。开发者选择将要导入的 Sample，点击 Next。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/16b11d3b-5f28-477f-8899-e8d5e01b5fb1.png" w="1080" h="703" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="534" referrerpolicy="no-referrer"></p><p><strong>02</strong></p><p><strong>填写配置信息，导入 Sample 工程</strong></p><p>填写导入 Sample 工程的配置信息，并点击 Finish 按钮：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/b40d8c70-add4-47b6-89b6-35d1c7e8c42f.png" w="1080" h="707" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="537" referrerpolicy="no-referrer"></p><p>点击 Finish 按钮后，工程将自动导入到 DevEco Studio 里，并完成编译。至此，开发者就可以查看 Sample 工程的代码了。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/36bf8642-80d9-410a-9ba9-439554a79fd2.png" w="1080" h="686" title="华为鸿蒙 HarmonyOS 最新动作：上线 40+ 个 Sample 示例应用" width="1080" height="521" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

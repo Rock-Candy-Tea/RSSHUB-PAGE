@@ -1,0 +1,19 @@
+
+---
+title: '华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/16d54338-2204-4d28-9745-d5d77811bf52.jpg@s_2,w_820,h_461'
+author: IT 之家
+comments: false
+date: Wed, 02 Jun 2021 12:16:12 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/16d54338-2204-4d28-9745-d5d77811bf52.jpg@s_2,w_820,h_461'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 2 日消息 今日晚间，华为正式发布了 HarmonyOS 2 操作系统。这也意味着“搭载 HarmonyOS（鸿蒙）的手机”已经变成面向市场的正式产品。</p><p>同时，华为公布了 HarmonyOS 操作系统的 slogan—— 一生万物，万物归一。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/16d54338-2204-4d28-9745-d5d77811bf52.jpg@s_2,w_820,h_461" w="1024" h="576" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" srcset="https://img.ithome.com/newsuploadfiles/2021/6/16d54338-2204-4d28-9745-d5d77811bf52.jpg 2x" width="1024" height="461" referrerpolicy="no-referrer"></p><p>据介绍，HarmonyOS 2 全场景智慧生活解决方案，一站式解决智能家居、智慧办公、智慧出行、运动健康、影音娱乐 5 大生活场景。</p><p>IT之家了解到，华为表示，无论设备大小，只需一个系统就可以覆盖内存小到 128K，大到 4GB 以上等大大小小的智能终端设备。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/eb65ff82-0822-44c9-ae2a-df107c07dae7.jpg@s_2,w_820,h_460" w="1440" h="808" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" srcset="https://img.ithome.com/newsuploadfiles/2021/6/eb65ff82-0822-44c9-ae2a-df107c07dae7.jpg 2x" width="1440" height="460" referrerpolicy="no-referrer"></p><p>HarmonyOS 采用分布式技术，可以让用户自由组合组合硬件，将多终端融为一体，让消费者像使用一台设备一样简单。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/aefc1f67-e8fd-4bc5-8d27-3c72b0a9fca1.jpg@s_2,w_820,h_460" w="1440" h="807" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" srcset="https://img.ithome.com/newsuploadfiles/2021/6/aefc1f67-e8fd-4bc5-8d27-3c72b0a9fca1.jpg 2x" width="1440" height="460" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/e0cf9da2-9e6a-4ce6-87fa-34b5e6029141.jpg@s_2,w_820,h_460" w="1440" h="808" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" srcset="https://img.ithome.com/newsuploadfiles/2021/6/e0cf9da2-9e6a-4ce6-87fa-34b5e6029141.jpg 2x" width="1440" height="460" referrerpolicy="no-referrer"></p><p>全新的 HarmonyOS 2 控制中心也告别繁琐。让用户在控制多设备时，像控制单设备一样简单。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/fbfa9d91-d414-4f93-9114-5bedafc01967.gif" w="640" h="672" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="672" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/22f0f9ee-1365-47c8-b39c-8a5eb9df3b06.gif" w="640" h="672" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="672" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/cd45592b-fc70-4261-8c07-310df734889b.gif" w="640" h="672" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="672" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/cc1f0bad-2ed2-42a3-9565-8a72466bec06.gif" w="640" h="672" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="672" referrerpolicy="no-referrer"></p><p>HarmonyOS 2 支持多机位模式，多设备组合摄影，可一镜拍出多角度画面。HarmonyOS Connect 可轻松唤醒设备的智能，一碰配网，万能卡片，极简交互。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/8a8458d6-eae0-44ac-89ed-819d94305a49.gif" w="640" h="360" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="360" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/26a812a0-f7ea-4b08-a6ad-78466dc2e4bd.gif" w="640" h="360" title="华为鸿蒙 HarmonyOS 2 操作系统正式发布：一生万物，万物归一" width="640" height="360" referrerpolicy="no-referrer"></p><p>（持续更新中……）</p>
+          
+</div>
+            
