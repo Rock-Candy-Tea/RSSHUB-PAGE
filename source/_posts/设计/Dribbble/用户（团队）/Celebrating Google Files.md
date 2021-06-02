@@ -14,7 +14,7 @@ thumbnail: 'https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6
 
 <div>   
 <div class="media-content">
-      <img class="med-8x6" alt="Celebrating Google Files mascot characterdesign character files google animation motion design" width="768" height="579" data-id="23155" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 300w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 400w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 600w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 800w" src="https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif" sizes="auto" referrerpolicy="no-referrer">
+      <img class="med-8x6" alt="Celebrating Google Files mascot characterdesign character files google animation motion design" width="768" height="579" data-id="23155" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 300w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 400w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 600w, https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif 800w" src="https://cdn.dribbble.com/users/56838/screenshots/7023204/media/f7ba6ec7c784a52e55dbf4aae0807ecc.gif" sizes referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>

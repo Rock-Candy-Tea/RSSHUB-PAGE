@@ -14,7 +14,7 @@ thumbnail: 'https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e
 
 <div>   
 <div class="media-content">
-      <img class="med-8x6" alt="Material motion system transitions flutter google motion material design" width="768" height="579" data-id="2143123" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 300w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 400w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 600w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 800w" src="https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif" sizes="auto" referrerpolicy="no-referrer">
+      <img class="med-8x6" alt="Material motion system transitions flutter google motion material design" width="768" height="579" data-id="2143123" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 300w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 400w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 600w, https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif 800w" src="https://cdn.dribbble.com/users/515528/screenshots/10247974/media/21e3671d8dee730d1abf3b407b68b236.gif" sizes referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>
