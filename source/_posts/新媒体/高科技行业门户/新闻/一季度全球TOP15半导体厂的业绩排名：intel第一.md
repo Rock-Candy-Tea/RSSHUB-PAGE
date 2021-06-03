@@ -1,0 +1,19 @@
+
+---
+title: '一季度全球TOP15半导体厂的业绩排名：intel第一'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202106/wx_article__8069f8829c473e87d265d69be2e4c9ef.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 03 Jun 2021 03:44:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202106/wx_article__8069f8829c473e87d265d69be2e4c9ef.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日,知名<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>调研机构IC Insights发布了最新2021年一季度全球TOP15半导体厂的业绩与排名。</p><p style="text-indent: 2em; text-align: left;">按照数据显示,虽然intel的营收这一季下滑了4%,但依然以186．76亿美元的营收,排名全球第一,然后再是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>、SK海力士、美光,前五名的排名与去年相比没变化。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/wx_article__8069f8829c473e87d265d69be2e4c9ef.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外,前15强中,还有<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>、博通、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E4%BC%9F%E8%BE%BE.HTM" target="_blank" title="英伟达">英伟达</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%BE%B7%E5%B7%9E%E4%BB%AA%E5%99%A8.HTM" target="_blank" title="德州仪器">德州仪器</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%81%94%E5%8F%91%E7%A7%91.HTM" target="_blank" title="联发科">联发科</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-AMD.HTM" target="_blank" title="AMD">AMD</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E9%A3%9E%E5%87%8C.HTM" target="_blank" title="英飞凌">英飞凌</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%84%8F%E6%B3%95%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="意法半导体">意法半导体</a></span>、东芝。</p><p style="text-indent: 2em; text-align: left;">从地区来看,15强中有8家厂商是美国的,韩国、中国台湾及欧洲各有2家,日本则有1家,明显美国企业最强势。</p><p style="text-indent: 2em; text-align: left;">这15强中,8家是IDM类型的企业,自己能设计自己能生产,分别是intel、三星、SK海力士、美光、德州仪器(TI)、英飞凌、意法半导体(ST)、东芝铠侠(Kioxia)。有1家是纯代工企业,那就是台积电。有6家是纯设计企业,分别是高通、博通、英伟达、联发科、AMD、苹果。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/wx_article__37c8d038c6915fb013034e5a0b5caa8d.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">其中大陆最牛的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%B5%B7%E6%80%9D.HTM" target="_blank" title="海思">海思</a></span>没有进入前15名,原因大家都知道的,去年9月15日之后,麒麟芯片就成了绝唱,肯定上不了榜了。</p><p style="text-indent: 2em; text-align: left;">另外索尼这次也没上榜,原因大家也懂的,还不是因为华为手机下滑,导致索尼的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CMOS%E8%8A%AF%E7%89%87.HTM" target="_blank" title="CMOS芯片">CMOS芯片</a></span>出货量大幅度下滑,自然也就进不了前15名了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/wx_article__c697f9e9c69b631411ffbbe71d468342.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">另外从这个排名及营收来看,联发科、高通都因为华为手机下滑而成为了大赢家。毕竟麒麟的市场被高通、联发科抢走了。</p><p style="text-indent: 2em; text-align: left;">从数据来看,联发科增长了90%,从去年同期的16名,一跃进入前10名,上升6个名次。而高通从去年的第7名成为了第6名,营收增长了55%。</p><p style="text-indent: 2em; text-align: left;">另外AMD这次也增长了93%,是前15名中,增长率最高的企业,可见登上台积电的战车后,AMD从intel那,抢走太多市场了。</p> 
+  
+</div>
+            
