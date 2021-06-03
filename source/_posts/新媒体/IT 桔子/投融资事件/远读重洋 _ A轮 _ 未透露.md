@@ -1,0 +1,23 @@
+
+---
+title: '远读重洋 _ A轮 _ 未透露'
+categories: 
+ - 新媒体
+ - IT 桔子
+ - 投融资事件
+headimg: 'https://cdn.itjuzi.com/images/c47ad86e6ca69eb2ca30ffb666fab0e8.jpg'
+author: IT 桔子
+comments: false
+date: Thu, 03 Jun 2021 00:00:00 GMT
+thumbnail: 'https://cdn.itjuzi.com/images/c47ad86e6ca69eb2ca30ffb666fab0e8.jpg'
+---
+
+<div>   
+<img src="https://cdn.itjuzi.com/images/c47ad86e6ca69eb2ca30ffb666fab0e8.jpg" referrerpolicy="no-referrer"><br><br>
+        <strong>远读重洋</strong><br>
+        知识服务自媒体<br>
+        A轮 / 未透露 / 2021-06-03<br>
+        投资方: 字节跳动
+        
+</div>
+            

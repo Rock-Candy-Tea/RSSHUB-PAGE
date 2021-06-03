@@ -1,0 +1,19 @@
+
+---
+title: '华为鸿蒙 HarmonyOS 2.0 公测版 _ 内测版申请和下载体验攻略'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/348eea05-8be3-4a63-bdb5-09f304dd8036.png'
+author: IT 之家
+comments: false
+date: Thu, 03 Jun 2021 03:12:32 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/348eea05-8be3-4a63-bdb5-09f304dd8036.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 3 日消息 昨晚华为正式发布了大家期待已久的鸿蒙 HarmonyOS 2.0 操作系统，发布会上展示了 HarmonyOS 2 全新的系统架构、革命性的分布式技术、全新的原子化服务、全新的卡片设计、极致的系统性能。</p><p>发布会上还公布了 HarmonyOS“百”机焕新计划，将陆续向华为手机、平板、智慧屏等智能终端设备推送升级 HarmonyOS 2，到明年上半年计划实现近百款设备升级 HarmonyOS 2。</p><p>其中，6 月 2 日起，<span class="accentTextColor">首批启动公测升级 HarmonyOS 2 的设备包括：华为 Mate 40 系列、Mate 30 系列、P40 系列、Mate X2、MatePad Pro。</span></p><p>想要提早体验的用户，<span class="accentTextColor">可以在我的华为 App 申请尝鲜</span>，具体路径为“我的华为 App”（下划全局搜索“我的华为”即可）里的鸿蒙专栏进行申请，点击“立即尝鲜”-“升级尝鲜”-“公测尝鲜”，后选择自己的机型，然后下载安装完公测描述文件，后续即可收到 HarmonyOS 2.0 更新。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/348eea05-8be3-4a63-bdb5-09f304dd8036.png" w="487" h="252" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" width="487" height="252" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/0d483a52-6546-4d08-adab-b8f62a591d79.jpg@s_2,w_820,h_1691" w="1152" h="2376" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" srcset="https://img.ithome.com/newsuploadfiles/2021/6/0d483a52-6546-4d08-adab-b8f62a591d79.jpg 2x" width="1152" height="1691" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/707f8906-f19c-4c86-8326-a303e1d944e1.jpg@s_2,w_820,h_2378" w="1152" h="3341" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" srcset="https://img.ithome.com/newsuploadfiles/2021/6/707f8906-f19c-4c86-8326-a303e1d944e1.jpg 2x" width="1152" height="2378" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/a6df50ae-8f2e-41e7-ac5a-00497e3cce4a.jpg@s_2,w_820,h_1691" w="1152" h="2376" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" srcset="https://img.ithome.com/newsuploadfiles/2021/6/a6df50ae-8f2e-41e7-ac5a-00497e3cce4a.jpg 2x" width="1152" height="1691" referrerpolicy="no-referrer"></p><p>大家也可以观看下面这个IT之家微博视频更直观地了解更新方法：</p><p><a class="ithome_super_player" contenteditable="false" target="_blank" href="https://weibo.com/tv/show/1034:4644014423736369?from=old_pc_videoshow"></a></p><p>此外，<span class="accentTextColor">花粉俱乐部也已开始面向 nova6 系列、Mate20 系列、智慧屏 S 系列、畅享 20 Plus 5G、Mate Xs 等 28 款机型招募内测用户</span>。手机平板报名入口为：【花粉俱乐部】App - 首页–推荐–内测报名，仅支持手机 / 平板端，需将 App 更新至最新版本。智慧屏报名入口为：【花粉俱乐部】App–论坛–右上角–软件专区 - 升级尝鲜–华为智慧屏内测招募贴。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/6e1039fa-f6ee-4a0c-a75c-66a1b21ff66d.png" w="503" h="270" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" width="503" height="270" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/3fb86368-a9d7-472a-96cc-30224681a85c.jpg@s_2,w_820,h_1691" w="1152" h="2376" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" srcset="https://img.ithome.com/newsuploadfiles/2021/6/3fb86368-a9d7-472a-96cc-30224681a85c.jpg 2x" width="1152" height="1691" referrerpolicy="no-referrer"></p><p>具体公测、内测机型和方法可见下面长图：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/e81788aa-a48b-4fc7-a421-5576e7cb9945.jpg" w="1152" h="4558" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" width="1152" height="3244" referrerpolicy="no-referrer"></p><p>另附 HarmonyOS 2 百机升级计划完整升级名单：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/75efb39b-c6bc-428c-9b62-a909318e30a9.jpg" title="华为鸿蒙 HarmonyOS 2.0 公测版 / 内测版申请和下载体验攻略" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
