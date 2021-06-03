@@ -1,0 +1,19 @@
+
+---
+title: '鸿蒙_初辟_ 华为能否借此打破安卓和iOS系统的垄断局面？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0602/856be68de3d2605.png'
+author: cnBeta
+comments: false
+date: Thu, 03 Jun 2021 11:07:59 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0602/856be68de3d2605.png'
+---
+
+<div>   
+据报道，华为在周三晚间发布了其自主开发的操作系统—Harmony OS 2，该系统可以运行在包括智能手机在内的一系列设备上。华为此举是为了摆脱对美国技术的依赖，新系统可能将会与苹果和谷歌的操作系统形成竞争。<br>
+ <p><a href="https://static.cnbetacdn.com/thumb/article/2021/0602/856be68de3d2605.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0602/856be68de3d2605.png" referrerpolicy="no-referrer"></a></p><p>华为自2016年以来就一直在开发鸿蒙操作系统，并称它是一个多平台系统，可以在智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>和可穿戴设备等多种设备上运行。华为表示，开发人员可以轻松地创建在不同设备上运行的应用程序。</p><p><strong>让鸿蒙系统可以在多个平台上运行，是华为将鸿蒙与谷歌的安卓系统以及<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>的iOS系统进行区分的方式之一。</strong></p><p>CCS Insight首席分析师本·伍德（Ben Wood）表示：“鸿蒙系统旨在为华为所瞄准的越来越多的连接设备之间提供连接。华为希望自己可以效仿苹果的做法，通过建立一个向所有方向延伸的单一软件平台，为购买其产品生态系统的客户提供无缝的使用体验。”</p><p><strong>智能手机与智能手表系统</strong></p><p>2019年，华为将鸿蒙系统放在了一台<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">荣耀</a>公司生产的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>上。而在周三，华为又推出了升级文件，在其旗舰产品Mate 40智能手机和Mate X2可折叠手机上推出了鸿蒙系统。华为最新的Watch Series 3智能手表，以及MatePad Pro平板电脑在不久的未来也将可以使用上新系统。</p><p>华为还宣布，该公司此前推出的许多旧款手机也将可以通过软件升级使用上鸿蒙系统，升级将于周三开始，并逐步在明年之内完成。</p><p>为了提高营收，华为希望向软件转型，并专注于除了智能手机之外的其他消费电子产品，例如可穿戴设备和平板电脑等。开发鸿蒙系统，就是华为这一努力的一部分，同时也体现出了华为对云计算的关注。</p><p>该公司此前表述，今年将会有接近100种不同的华为产品支持鸿蒙。华为还曾表示，今年内运行鸿蒙系统的设备的数量将会达到3亿部。</p><p>在周三的线上活动上，华为消费业务集团软件总裁王成录展示了鸿蒙在不同设备上运行的样子。其中一个使用场景是，他在智能手机上打开了“控制面板”，选择了一个音乐播放应用，然后选择用哪个设备播放歌曲。</p><p><a href="https://static.cnbetacdn.com/thumb/article/2021/0602/56058eab5d1e09a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0602/56058eab5d1e09a.png" referrerpolicy="no-referrer"></a></p><p><strong>应用程序是关键</strong></p><p>当前全球的移动设备市场主要由两种操作系统所主导，分别是谷歌的安卓和苹果的iOS。此前，包括<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>在内的企业都曾尝试推出自己的系统，挑战安卓和iOS的地位，但是最终都以失败告终。</p><p><strong>这些企业失败的主要原因之一，就是未能吸引大量开发人员为其系统制作应用程序。而如果没有丰富的应用，用户也就不会想要使用该系统。</strong></p><p>但是华为显然吸取了前任的教训，他们已经将重点放在了应用上面，该公司巨大的规模，以及鸿蒙可以运行在大量的设备上这一事实，可能将有助于该系统吸引开发者为其制作应用。</p><p>Counterpoint Research合伙人尼尔·萨哈（Neil Shah）表示：“鸿蒙可以吸引开发者生态系统，并且快速提升装机量。越来越多的开发人员将会看到这些好处。因此它不存在鸡生蛋还是蛋生鸡的问题。”</p><p>华为有一个名为华为移动服务（HMS）的品牌，旗下拥有一个应用程序套装，其中包括地图和浏览器等应用。HMS类似于谷歌移动服务（GMS），为开发者提供工具包，可用于将位置服务等东西整合到应用程序中。HMS在全球有270万注册开发者。</p><p>此外华为还有自己的应用商店，它在全球范围内拥有5.4亿月活用户。萨哈表示：“华为一直以来都有着巨大的规模。”</p><p>与此同时，华为还将自己的操作系统开放给了第三方设备制造商，这让鸿蒙更加像是中国的安卓。萨哈表示，如果大型家电制造商或是设备制造商也决定接受鸿蒙系统，那么这个平台的成长速度还将变得更快。</p><p><strong>国际前景</strong></p><p>鸿蒙可以轻松地在中国本土市场上取得成功，但是它在国际市场上可能将面临挑战。</p><p>谷歌的安卓和苹果的iOS主导着全球移动操作系统市场。而在智能手表领域，苹果有自己的WatchOS，谷歌也在上个月刚刚推出了最新版的Wear操作系统。这两家美国科技巨头一直以来，还一直都非常专注于车内信息娱乐系统的开发。</p><p>两家公司都有着大量的开发人员为其制作应用，全球最受欢迎的应用都支持安卓和iOS系统。在这方面，华为可能会遇到挑战。萨哈表示：“鸿蒙系统唯一缺失的东西，就是大量来自西方的开发人员。”</p>   
+</div>
+            

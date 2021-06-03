@@ -26,7 +26,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/app
 <blockquote class="wp-block-quote">
 <p>“For now, let me simply say that I look forward to seeing your faces,” he said in closing. “I know I’m not alone in missing the hum of activity, the energy, creativity and collaboration of our in-person meetings and the sense of community we’ve all built.”</p>
 </blockquote>
-<p>As <em>The Verge</em> explains, this approach is more relaxed than Apple traditionally has been towards remote work. It still, however, is more stringent than other tech giants <a href="https://9to5google.com/2020/05/07/google-remote-work-2020/">such as Google and Facebook</a>, who will allow a larger percentage of employees to work remotely indefinitely.</p>
+<p>As <em>The Verge</em> explains, this approach is more relaxed than Apple traditionally has been toward remote work. It still, however, is more stringent than other tech giants <a href="https://9to5google.com/2020/05/07/google-remote-work-2020/">such as Google and Facebook</a>, who will allow a larger percentage of employees to work remotely indefinitely.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://bit.ly/3iayYWi"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/9to5mac-native-banner-yellow@2x-1.jpg?quality=82&strip=all" alt class="wp-image-726123" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
