@@ -39,7 +39,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Bri
 </blockquote>
 <p>Moyer thanked the court, and expressed his appreciation to Apple for its “unwavering support.”</p>
 <p><em>Photo: <a href="https://www.recoilweb.com/preview-second-amendment-shuffle-79609.html" target="_blank" rel="noreferrer noopener">Recoil</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3p4wdYd"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/9to5mac-native-banner-yellow@2x.jpg?quality=82&strip=all&w=1000" alt class="wp-image-725213" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://bit.ly/3iayYWi"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/9to5mac-native-banner-yellow@2x-1.jpg?quality=82&strip=all" alt class="wp-image-726123" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

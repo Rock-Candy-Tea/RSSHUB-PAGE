@@ -37,7 +37,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/CEO
 </blockquote>
 <p>When <a rel="noreferrer noopener" href="https://9to5mac.com/guides/steve-jobs/" target="_blank">Steve Jobs</a> returned to Apple, he famously took a salary of $1 per year as an expression of his faith in the future of the company, taking most of his compensation in the form of stock.</p>
 <p>It should be noted that there are different ways of ranking CEO compensation. Some rankings take into account the increase in share value for shares already held, and/or stock earned in previous years as it vests, both of which can show very different results.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3p4wdYd"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/9to5mac-native-banner-yellow@2x.jpg?quality=82&strip=all&w=1000" alt class="wp-image-725213" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://bit.ly/3iayYWi"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/05/9to5mac-native-banner-yellow@2x-1.jpg?quality=82&strip=all" alt class="wp-image-726123" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
