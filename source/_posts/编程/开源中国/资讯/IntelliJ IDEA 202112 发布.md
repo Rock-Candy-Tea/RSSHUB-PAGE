@@ -5,17 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7740'
+headimg: 'https://picsum.photos/400/300?random=7974'
 author: 开源中国
 comments: false
 date: Fri, 04 Jun 2021 07:41:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7740'
+thumbnail: 'https://picsum.photos/400/300?random=7974'
 ---
 
 <div>   
 <div class="content">
                                                                     
-                                                        <p>IntelliJ IDEA 2021.1.1 现已发布，这是第二个针对 IntelliJ IDEA 2021.1 的 Bug 修复版本。主要更新内容如下：</p> 
+                                                        <p>IntelliJ IDEA 2021.1.2 现已发布，这是第二个针对 IntelliJ IDEA 2021.1 的 Bug 修复版本。主要更新内容如下：</p> 
 <ul> 
  <li>修复了导致 color scheme 意外更改的问题。[ <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fyoutrack.jetbrains.com%2Fissue%2FIDEA-265169" target="_blank">IDEA-265169</a> ]</li> 
  <li>当 distributionSha256Sum 出现在 Gradle 项目中时，IDE 不再返回错误。[ <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fyoutrack.jetbrains.com%2Fissue%2FIDEA-266355" target="_blank">IDEA-266355</a> ]</li> 

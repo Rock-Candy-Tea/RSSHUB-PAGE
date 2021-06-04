@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://picsum.photos/400/300?random=1175'
+headimg: 'https://www.cyningsun.com/img/official-account-qrcode.jpg'
 author: 掘金
 comments: false
 date: Wed, 02 Jun 2021 20:06:44 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1175'
+thumbnail: 'https://www.cyningsun.com/img/official-account-qrcode.jpg'
 ---
 
 <div>   
@@ -107,6 +107,8 @@ thumbnail: 'https://picsum.photos/400/300?random=1175'
 <p><em>原文：</em> <a href="https://pl.atyp.us/content/tech/servers.html" target="_blank" rel="nofollow noopener noreferrer">High-Performance Server Architecture</a></p>
 <p><strong>本文作者</strong>：cyningsun<br>
 <strong>本文地址</strong>： <a href="https://www.cyningsun.com/06-02-2021/high-performance-server-architecture-cn.html" target="_blank" rel="nofollow noopener noreferrer">www.cyningsun.com/06-02-2021/…</a><br>
-<strong>版权声明</strong>：本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/" target="_blank" rel="nofollow noopener noreferrer">CC BY-NC-ND 3.0 CN</a> 许可协议。转载请注明出处！</p></div>  
+<strong>版权声明</strong>：本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/cn/" target="_blank" rel="nofollow noopener noreferrer">CC BY-NC-ND 3.0 CN</a> 许可协议。转载请注明出处！</p>
+<p><img src="https://www.cyningsun.com/img/official-account-qrcode.jpg" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p>关注公众号</p></div>  
 </div>
             
