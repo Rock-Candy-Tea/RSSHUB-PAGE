@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 少数派 sspai
  - Shortcuts Gallery
-headimg: 'https://picsum.photos/400/300?random=1599'
+headimg: 'https://picsum.photos/400/300?random=6533'
 author: 少数派 sspai
 comments: false
 date: Fri, 07 May 2021 13:24:25 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1599'
+thumbnail: 'https://picsum.photos/400/300?random=6533'
 ---
 
 <div>   
