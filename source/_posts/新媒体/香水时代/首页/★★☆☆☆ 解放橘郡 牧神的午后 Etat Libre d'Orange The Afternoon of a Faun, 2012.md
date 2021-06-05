@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=3401'
+headimg: 'https://picsum.photos/400/300?random=6573'
 author: 香水时代
 comments: false
 date: Fri, 25 Sep 2020 12:09:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3401'
+thumbnail: 'https://picsum.photos/400/300?random=6573'
 ---
 
 <div>   
@@ -18,7 +18,6 @@ thumbnail: 'https://picsum.photos/400/300?random=3401'
 
 整体第一印象还是化工感十足的干粉糕点。
 第一次试香不喜欢，过两天再试试看吧。
-
--6.了  
+-日期记录6.5  
 </div>
             
