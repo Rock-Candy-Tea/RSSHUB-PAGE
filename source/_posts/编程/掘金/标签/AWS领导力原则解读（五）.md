@@ -1,0 +1,90 @@
+
+---
+title: 'AWS领导力原则解读（五）'
+categories: 
+ - 编程
+ - 掘金
+ - 标签
+headimg: 'https://picsum.photos/400/300?random=6825'
+author: 掘金
+comments: false
+date: Fri, 04 Jun 2021 22:19:35 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6825'
+---
+
+<div>   
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h2 data-id="heading-0">好奇与求知</h2>
+<p>学无止境，在计算机行业尤其如此。好奇和求知可以使我们的专业技能在广度和深度两个维度得到扩展。举个例子，我们实现将数组元素拷贝到另外一个数组中，这里大家可能会选择自己写一个循环来实现，而在<code>java</code>里有个内置函数叫<code>System.arrayCopy()</code>，网上有不少实验证明了后者比前者要快。为什么会快呢？看一下源代码：</p>
+<pre><code class="copyable">    public static native void arraycopy(Object src,  int  srcPos,
+                                        Object dest, int destPos,
+                                        int length);
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>内部调用了本地方法，那调用本地方法就一定比自己写的循环快吗？我们看一下这个本地方法</p>
+<pre><code class="copyable">JVM_ENTRY(void, JVM_ArrayCopy(JNIEnv *env, jclass ignored, jobject src, jint src_pos,
+                               jobject dst, jint dst_pos, jint length))
+  JVMWrapper("JVM_ArrayCopy");
+  // Check if we have null pointers
+  if (src == NULL || dst == NULL) &#123;
+    THROW(vmSymbols::java_lang_NullPointerException());
+  &#125;
+  arrayOop s = arrayOop(JNIHandles::resolve_non_null(src));
+  arrayOop d = arrayOop(JNIHandles::resolve_non_null(dst));
+  assert(s->is_oop(), "JVM_ArrayCopy: src not an oop");
+  assert(d->is_oop(), "JVM_ArrayCopy: dst not an oop");
+  // Do copy
+  Klass::cast(s->klass())->copy_array(s, src_pos, d, dst_pos, length, thread);
+JVM_END
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>真正的拷贝动作在最后一行，它对应的代码</p>
+<pre><code class="copyable">void typeArrayKlass::copy_array(arrayOop s, int src_pos, arrayOop d, int dst_pos, int length, TRAPS) &#123;
+  assert(s->is_typeArray(), "must be type array");
+
+  // Check destination
+  if (!d->is_typeArray() || element_type() != typeArrayKlass::cast(d->klass())->element_type()) &#123;
+    THROW(vmSymbols::java_lang_ArrayStoreException());
+  &#125;
+
+  // Check is all offsets and lengths are non negative
+  if (src_pos < 0 || dst_pos < 0 || length < 0) &#123;
+    THROW(vmSymbols::java_lang_ArrayIndexOutOfBoundsException());
+  &#125;
+  // Check if the ranges are valid
+  if  ( (((unsigned int) length + (unsigned int) src_pos) > (unsigned int) s->length())
+     || (((unsigned int) length + (unsigned int) dst_pos) > (unsigned int) d->length()) ) &#123;
+    THROW(vmSymbols::java_lang_ArrayIndexOutOfBoundsException());
+  &#125;
+  // Check zero copy
+  if (length == 0)
+    return;
+
+  // This is an attempt to make the copy_array fast.
+  int l2es = log2_element_size();
+  int ihs = array_header_in_bytes() / wordSize;
+  char* src = (char*) ((oop*)s + ihs) + ((size_t)src_pos << l2es);
+  char* dst = (char*) ((oop*)d + ihs) + ((size_t)dst_pos << l2es);
+  Copy::conjoint_memory_atomic(src, dst, (size_t)length << l2es);//还是在这里处理copy
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>这个方法前面是各种判断，真正的拷贝动作也是在最后一行，然后再逐层往下找最后找到如下方法</p>
+<pre><code class="copyable">void _Copy_conjoint_jints_atomic(jint* from, jint* to, size_t count) &#123;
+    if (from > to) &#123;
+      jint *end = from + count;
+      while (from < end)
+        *(to++) = *(from++);
+    &#125;
+    else if (from < to) &#123;
+      jint *end = from;
+      from += count - 1;
+      to   += count - 1;
+      while (from >= end)
+        *(to--) = *(from--);
+    &#125;
+  &#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>在这里我看到它的输入参数包含两个数组的首地址，然后在此基础上逐项复制。详细中间过程的<code>C++</code>代码可以参考这个链接：<a href="https://www.cnblogs.com/yakovchang/p/java_system_arraycopy.html" target="_blank" rel="nofollow noopener noreferrer">www.cnblogs.com/yakovchang/…</a></p>
+<p>看到这里可能还是有点懵，这不依然是逐项拷贝吗？的确是，但是这里省去了每次循环时重新定位两个数组位置的问题（数组寻址），我们手写的循环每次都要重新定位两个数组的首地址，然后逐项拷贝，而上述方法已经把两个数组首地址传递了过来，不用每次寻址，直接内存拷贝即可。</p>
+<p>上面举的是一个技术相关的例子，但其实也可以扩展到其他方面，比如我们去用户现场实际观察了解一下，看看用户是如何使用的，很可能跟自己想象中的不太一样。像我现在的公司，内部有各种技术，业务以及其他形式的的知识分享，我们都可以选择自己感兴趣的去听，这就大大拓宽了我们的知识面。</p>
+<h3 data-id="heading-1">总结</h3>
+<p>不管是那个行业，都是向着专业化，多元化的方向发展，我们必须保持一个好奇和求知的心态才能不断扩展我们的知识广度和深度，从而适应行业的发展。</p></div>  
+</div>
+            

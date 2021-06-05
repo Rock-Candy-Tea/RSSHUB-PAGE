@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 199IT
  - 首页更新
-headimg: 'https://picsum.photos/400/300?random=6875'
+headimg: 'https://picsum.photos/400/300?random=1945'
 author: 199IT
 comments: false
 date: Fri, 04 Jun 2021 21:00:08 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6875'
+thumbnail: 'https://picsum.photos/400/300?random=1945'
 ---
 
 <div>   
