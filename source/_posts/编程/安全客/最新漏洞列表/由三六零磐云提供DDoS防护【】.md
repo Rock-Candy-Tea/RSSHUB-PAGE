@@ -5,11 +5,11 @@ categories:
  - 编程
  - 安全客
  - 最新漏洞列表
-headimg: 'https://picsum.photos/400/300?random=7847'
+headimg: 'https://picsum.photos/400/300?random=5717'
 author: 安全客
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=7847'
+thumbnail: 'https://picsum.photos/400/300?random=5717'
 ---
 
 <div>   
