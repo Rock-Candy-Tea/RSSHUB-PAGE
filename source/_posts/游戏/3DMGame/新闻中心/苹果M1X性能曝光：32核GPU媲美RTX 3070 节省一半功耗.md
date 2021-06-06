@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210606/1622951218_1725
 日前，Up主Dave2D分享了M1X处理器的情报，透露有望在WWDC上更新的MacBook Pro身上首发。CPU升级到10核，其中MacBook Pro 14集成16核GPU，MacBook Pro 16则集成32核GPU，功耗分别是20瓦和40瓦。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210606/1622951218_172509.jpg" alt="苹果M1X性能曝光：32核GPU媲美RTX 3070 节省一半功耗" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210606/1622951218_172509.jpg" alt="苹果M1X性能曝光：32核GPU媲美RTX 3070 节省一半功耗" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 基于GFXBench 5.0 Aztec @1440p场景的跑分，M1X（16核GPU）预计是110+ FPS、M1X（32核GPU）预计是170+ FPS。对比M1、GTX 1650、Radeon Pro 5500M、RTX 3070等可以发现，32核的图形表现媲美RTX 3070（笔记本）。
@@ -32,7 +32,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210606/1622951218_1725
 最终成绩到底会不会如此给力，我们拭目以待。按计划，苹果WWDC21将于北京时间6月8日凌晨开幕。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210606/1622951225_908910.jpg" alt="苹果M1X性能曝光：32核GPU媲美RTX 3070 节省一半功耗" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210606/1622951225_908910.jpg" alt="苹果M1X性能曝光：32核GPU媲美RTX 3070 节省一半功耗" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
