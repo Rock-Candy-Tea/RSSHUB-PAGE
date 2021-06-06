@@ -1,0 +1,18 @@
+
+---
+title: '联想早就是PC界的王者，但为什么杨元庆还不开抖音？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc2122b15ec074485c9b1b_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 05 Jun 2021 18:12:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc2122b15ec074485c9b1b_1024.jpg'
+---
+
+<div>   
+<p>虽然无数的科技评论家预言，PC 的时代过去了，但现实往往比单一的预期要复杂的多。与之相反的是，PC 的出货量在上升。作为全球最大的 PC 生产销售企业，联想就是借着这股浪潮逆势上升的。毫无疑问，联想已经是 PC 领域主要的市场份额所有者。</p><p>但相比于其他同行，<strong>联想在新的互联网世界里又显得过分木讷</strong>。比如，小米的雷军，格力的董明珠，这两位都在积极拥抱新媒体和短视频平台。雷军在抖音有接近一千万的被关注量，董明珠更是亲自上阵搞直播卖货。社交媒体上，从来都没缺过他们的声音。雷军更是通过一手抓小米产品的提升，一手抓个人 IP 的建设，从最早很多人对他的 " 耍猴 " 和 " 忽悠 " 中重建了自己的形象和认知——现在，雷军是敢想敢做的代名词，是顶流企业家精神的代言人。</p><p>在这方面，联想似乎没有表现出太多的让人了解自己的意愿。具体的一个小问题就是，<strong>杨元庆为什么还不开抖音号</strong>？</p><p><strong>01</strong></p><p><strong>新的媒体环境更需要</strong></p><p><strong>企业掌舵者和用户的交流</strong></p><p>现在提到新消费，大家说到最多的就是<strong>Z 世代</strong>。其实我们聚焦这个群体和代际，最核心的是我们要搞明白他们的心理。他们更<strong>需要的是真诚，是毫无保留的把有血有肉的自己展现给受众</strong>。联想作为一家根基在中国的企业，其实更应该思考这个问题。</p><p>相比于微博，<strong>短视频毫无疑问是更贴近年轻用户和潮流的媒介形式</strong>。在这个意义上，我们认为开抖音的公司，才是更加与时俱进的公司。反之，则可能是略显脱节的公司。敏锐的操盘手，都不会错过这种风口。以特斯拉的马斯克为例，虽然他自己没有直接开抖音号，但是他有个身为时尚超模的妈妈，巧妙的承担起了马斯克形象的推介和运营。梅耶 • 马斯克告诉用户 " 自己身上的自强不息和奋斗不息 "，而马斯克就是继承和遗传了这种强大的精神品质。这对于马斯克个人的品牌和形象的贡献，是不言而喻的。</p><p>作为联想这么大体量公司的核心操盘手，用户对了解杨元庆的渴望，肯定是存在的。而<strong>杨元庆拥抱短视频时代，对于用户了解联想全系产品肯定是有帮助的</strong>。</p><p>相比于雷军，杨元庆在业内的个人影响力并不逊色。但雷军目前在抖音拥有接近一千万粉丝。而<strong>杨元庆的缺席，就显得过分低调和内敛</strong>。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60bc2122b15ec074485c9b1b_1024.jpg" data-height="365" data-width="641" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc2122b15ec074485c9b1b_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△雷军抖音粉丝数</strong><p></p><p>尤其是在整个电子产品整体都进入微创新的阶段，企业和用户的对话就显得非常重要。尽管掌舵苹果的库克没有直接开通短视频平台账号，但是 Apple 选择 Z 世代集中的 B 站，让库克和何同学进行了一场对话。既以库克独有的谦逊和亲和力，给足了年轻人面子，而且在复杂的舆论场里，对冲了很多风险，也鲜明的表达了自己的态度和立场。</p><p><strong>02</strong></p><p><strong>短视频更合适打造</strong><strong>个人 IP</strong></p><p>快手和抖音开启的短视频时代，给企业和用户的沟通开创了新的可能。但基于平台内容的调性和氛围，毫无疑问，抖音肯定更适合联想这样的企业。具体而言，<strong>抖音更适合个人 IP 的打造</strong>，而不适合机构。因为短视频的平台的核心逻辑是人的逻辑，甚至以此为基础的直播带货也是单品逻辑。短视频平台更适合原生内容，人是不可或缺的要素。这也就能解释，为什么雷军个人的抖音号的粉丝量，远远高于小米的抖音官方账号。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60bc2122b15ec074485c9b1c_1024.jpg" data-height="2337" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc2122b15ec074485c9b1c_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△小米系抖音账号</strong><p></p><p>电子产品和大众的沟通范式的深刻改变，是由乔布斯肇始的。今天，当我谈及苹果，除了产品本身，还有乔布斯阐述商业思想和战略的各种视频。伴随着苹果生长的，除了产品本身之外，还有他们自己关于自己产品的意义体系。</p><p>而更多的电子消费品，虽然学习到了产品发布会的形式，但对于自己产品的意义体系的建设，还几乎没有触及到皮毛。<strong>发布会上，讲的最多的可能就是功能</strong><strong>，但这些内容更多的都演变成了小群体的狂欢，没有更加持久的</strong><strong>洞穿能力和延续能力</strong>。</p><p>前些年《设计的设计》、《设计的觉醒》这两本书很流行，其实深究这种文本出现的背后，核心还是因为工业生产的发展，催生出了与之匹配的设计语言的思考和建设。但整个文本本身，都是侧重于阐释。也就是说，<strong>产品的研发是一方面，而产品意义体系的建设又是一方面</strong>，这种两翼并行的状态，乔布斯称之为 " 站在科技与人文的十字路口 "。</p><p><strong>联想在已经占据绝对市场份额的情况下，需要补上人文的闭环</strong>。可能在这个时代，最能体现这种努力的，就是杨元庆开通了抖音账号。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
