@@ -1,0 +1,18 @@
+
+---
+title: '新版华为电脑管家体验：适配 Harmony OS 2，完美支持非华为电脑'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a4423419f_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 06 Jun 2021 01:27:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a4423419f_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 6 日消息 华为上周举办了鸿蒙操作系统及华为全场景新品发布会，华为消费者业务 CEO 余承东会上正式发布了 Harmony OS 2 系统。</p><p>官方为首批机型推送了 Harmony OS 2 更新，并公布了可 OTA 系统更新的机型名单，包括华为 Mate9 系列、nova5 系列、P10 系列、畅享 10、荣耀 8X、荣耀 Note10 等旧手机均支持升级。</p><p>华为电脑管家同样更新了 11.1.1.95 版本并适配了鸿蒙 Harmony OS 2 特性，动画风格也升级到鸿蒙 2.0。现有网友反馈最新版本的华为电脑管家已支持完美支持非华为电脑机型，</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202106/60bc74188e9f092a4423419f_1024.jpg" data-height="534" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a4423419f_1024.jpg" referrerpolicy="no-referrer"></div></div>感谢 IT 之家网友的投递，据其测试，华为分享速度可达理论最大值，例如下图所示，完美发挥千兆网的优势。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a0_1024.jpg" data-height="387" data-width="662" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a0_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a1_1024.jpg" data-height="500" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a1_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a2_1024.jpg" data-height="555" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a2_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a3_1024.jpg" data-height="296" data-width="719" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60bc74188e9f092a442341a3_1024.jpg" referrerpolicy="no-referrer"></div></div>华为电脑管家是华为为其笔记本电脑用户推出的一款软件，可提供系统检测、驱动管理、客户服务、手机连接、电源管理、故障问题排查等一站式功能，例如多屏协同、文件分享、数据同步等，使华为手机用户更加便利。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a4_1024.jpg" data-height="676" data-width="1330" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a4_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a5_1024.jpg" data-height="828" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60bc74188e9f092a442341a5_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
