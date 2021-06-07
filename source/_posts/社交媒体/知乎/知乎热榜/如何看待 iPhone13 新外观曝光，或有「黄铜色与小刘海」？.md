@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1115'
+headimg: 'https://pic3.zhimg.com/v2-1d200b955d2df199235959add9d8175b_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 07 Jun 2021 07:09:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1115'
+date: Mon, 07 Jun 2021 07:50:40 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-1d200b955d2df199235959add9d8175b_1440w.jpg'
 ---
 
 <div>   
-Digital Geek的回答<br><br><blockquote><b>  对于这个问题，我想说在新款手机正式发布前，一切都仅供参考，不一定真实。</b></blockquote><p>先来说一下这个小刘海的问题，我认为iPhone 13系列并不会缩小刘海，不信你可以百度一下，“iPhone 11缩小刘海”，“iPhone 12缩小刘海”，这个时候你会有新的认知。</p><p><br></p><p>  即使是当时可能性最大的iPhone 12 mini相比iPhone 11 Pro缩小刘海的这条消息，最终都没有实现，iPhone 12 mini和iPhone 11 Pro的刘海大小相同。</p><p><br></p><p>  再来说一下摄像头排布的问题，我认为iPhone 13的摄像头大概率也不会使用对角排布的方式。</p><p><br></p><p>  图片中给出的机型是iPhone 13的低阶机型，只有双摄，而iPhone 13 Pro的高阶机型大概率是三摄，如果低阶机型使用对角双摄的排布，高阶机型的第三颗长焦镜头没有地方安放。</p><p><br></p><p>  另外是iPhone 13的颜色，这次iPhone 13新增黄铜色有可能，根据往年惯例，每年的新款iPhone都将会新增一个新的配色。</p><p><br></p><p>但是根据惯例，还会砍掉一个旧的颜色，在今年iPhone 12系列中，低阶版本除了黑色、白色、红色外，高阶版本黑色、白色外都有可能被砍掉。</p><p>  那么你觉得哪个颜色会被砍掉呢？欢迎到评论区留言讨论。</p>  
+文刀半瞎的回答<br><br><p>苹果粉们，你们好吗！</p><p>A U OK，Apple fans！</p><p>万众瞩目的苹果十三近期在网上出现了谍照</p><p>ten thousand people  see iPhone 13 zai Internet chuxian diezhao </p><p>大家别高兴太早</p><p>don't happy to morning </p><p>发布会应该是9月中旬</p><p>fa bu hui  in nine moon zhongxun </p><p>现在曝光，十有八九都不值得相信。</p><p>new bao guang ， ten have eight nine no xin</p><p>按照国外的尿性，大概率也不会叫13</p><p>an zhao abroad is pee，can't call 13</p><p>这数字不吉利。</p><p>zhe number no ji li</p><p>让我们拭目以待</p><p>Give us wipe eyes wait</p><p>如果你们等不及了，可以先买一部苹果12</p><p>If yours wait bu ji 了 ，can by one iPhone12</p><p>记得领红包。</p><p>remember ling hong bao。</p><p>再见！</p><p>goodbye！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1d200b955d2df199235959add9d8175b_1440w.jpg" data-caption data-size="normal" data-rawwidth="1106" data-rawheight="775" data-default-watermark-src="https://pic3.zhimg.com/v2-24214e695d7d641873a2322c41917eb1_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1d200b955d2df199235959add9d8175b_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
