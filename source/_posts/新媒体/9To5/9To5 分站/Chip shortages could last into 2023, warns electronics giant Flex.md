@@ -32,7 +32,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Chi
 <p>For example, a report from Nikkei last month said that iPad assembly is being held up by a shortage of display components. Meanwhile, suppliers of MacBooks are said to be stuck at a key bottleneck: the mounting process of components onto circuit boards.</p>
 </blockquote>
 <p><em>Photo: <a href="https://www.techpowerup.com/238785/q4-2017-300-mm-silicon-wafer-pricing-to-increase-20-yoy-in-dram-like-squeeze" target="_blank" rel="noreferrer noopener">TechPowerUp</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full"><a href="https://bit.ly/3w0cVWB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/06/9to5mac_second_banner_02-2.png" alt class="wp-image-727416" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

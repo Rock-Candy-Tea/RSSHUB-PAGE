@@ -1,0 +1,19 @@
+
+---
+title: 'Novo Nordisk革命性减肥药获批 效果堪比手术'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0607/70d65bb3b93d55d.webp'
+author: cnBeta
+comments: false
+date: Mon, 07 Jun 2021 13:24:12 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0607/70d65bb3b93d55d.webp'
+---
+
+<div>   
+随着生活条件不断提高，肥胖已经成为世界上的主要健康问题之一，而针对减肥的方法也是层出不穷。据外媒报道，日前，美国食品药品监督管理局（FDA）批准了一种被研究人员誉为“游戏规则改变者”的减肥药，该药物作为近年来首次批准的减肥疗法，最多能够使肥胖者体重减重超20%。<br>
+ <p>据悉，<strong>该药物由诺和诺德制药公司（Novo Nordisk）生产，名为“Wegovy”的减肥疗法，这也是自2014年以来FDA首次批准的一种减肥药物。</strong></p><p>值得一提的是，Wegovy并非一种新型药物，其是由一种被称为司美鲁肽(semaglutide)治疗糖尿病的药物研发而来的。</p><p>在今年早些时候，有研究发现不同剂量的司美鲁肽还具有抑制食欲的效果，该研究涉及来自16个不同国家的近2000名肥胖成年人。</p><p>研究结果显示，<strong>长期服用这种药物的受试者，超过30%的人体重下降超过20%，而全体受试者的体重平均减重近15%。</strong></p><p>而在FDA在批准Wegovy制剂时，还考虑了四个单独的双盲、安慰剂对照临床试验的结果，这些试验持续了68周，共涉及约4500名患者，他们随机接受Wegovy或安慰剂治疗。</p><p>根据诺和诺德制药公司的说法，除了采用低热量饮食计划和增加体力活动外，服用Wegovy的肥胖者（以及没有2型糖尿病的人）在68周内平均体重减轻了17%到18%。</p><p>相比之下，安慰剂组的体重减轻幅度要小得多。在其中一项试验中，<strong>Wegovy组的平均体重减轻了14.9%，而安慰剂组在其他条件相同的情况下，体重近减轻了2.4%。</strong></p><p><strong><img src="https://static.cnbetacdn.com/article/2021/0607/70d65bb3b93d55d.webp" title alt="NovoNordisk.webp" referrerpolicy="no-referrer"></strong></p>   
+</div>
+            
