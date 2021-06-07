@@ -8,11 +8,11 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/d5/a0/315516_ODKBM.jpg'
 author: Bangumi
 comments: false
-date: Sun, 06 Jun 2021 16:35:00 GMT
+date: Mon, 07 Jun 2021 16:35:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/d5/a0/315516_ODKBM.jpg'
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/d5/a0/315516_ODKBM.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/315516">番组计划</a></li><li><a href="https://ch.nicovideo.jp/fruba_The_Final">Niconico</a></li><li><a href="https://www.bilibili.com/bangumi/media/md6005304/">哔哩哔哩</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/d5/a0/315516_ODKBM.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/315516">番组计划</a></li><li><a href="https://ch.nicovideo.jp/fruba_The_Final">Niconico</a></li><li><a href="https://www.bilibili.com/bangumi/media/md6005304/">哔哩哔哩</a></li><li><a href="https://acg.gamer.com.tw/acgDetail.php?s=113810">動畫瘋</a></li></ul>  
 </div>
             
