@@ -1,0 +1,18 @@
+
+---
+title: 'iOS版手机QQ 8.8.0来啦！带来这些新功能'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb0_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 07 Jun 2021 03:59:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb0_1024.jpg'
+---
+
+<div>   
+<p>iOS 版手机 QQ 这次更新到了 8.8.0 版本，除了常见的 " 优化了一些体验问题，提升了稳定性 " 外，还带来哪些新功能呢？一起来看看吧！</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb0_1024.jpg" data-height="1231" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb0_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>表情弹射大战，和朋友们一起玩起来</strong><p></p><p>前一阵子，微信 " 炸屎 " 登上热搜，iOS 版手机 QQ 更新也带给了用户一个好玩的新功能——表情弹射。用户可以发射一堆可以弹射的表情给好友，堪比表情炸弹。</p><p>打开 iOS 新版手机 QQ 的聊天对话框，在 QQ 经典表情分类中任选一个表情，长按表情并把它拖到表情弹射输出框等待，就可以看到屏幕中的数字不断增加，等增加到想要的数字后松手，就可发射相应数量的表情弹射给对方了（最高 999）。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_1" data-original="http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb1_1024.jpg" data-gif-url="http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb1_raw.gif" data-height="450" data-width="208" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb1_1024.jpg" referrerpolicy="no-referrer"></div></div>支持表情弹射效果的表情包括手机 QQ 自带的大部分内置表情，对方接收到表情弹射后，就会出现相应的表情弹射效果。<p></p><p><strong>新增图片编辑功能，使用更便捷</strong></p><p>iOS 新版手机 QQ 中还增加了 " 文件增强 " 功能，可以帮助修复被拍 " 坏 " 的文档照片。只需要在手机 QQ 中打开文本图片，然后进入编辑模式，就会看到一个文件增强按钮，点击即可进入文本增强编辑模式。进入文本增强编辑模式后，可以把拍歪的文本图片轻松摆正，并且可以对文字进行清晰化让你看的不那么累眼，也能让打印效果更好更清晰。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_2" data-original="http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb2_1024.jpg" data-gif-url="http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb2_raw.gif" data-height="450" data-width="208" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be0a3f8e9f0971b863bdb2_1024.jpg" referrerpolicy="no-referrer"></div></div>除了文件增强功能外，在图片编辑内还增加了智能滤镜功能，可以一键对图片进行智能调色。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_3" data-original="http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb3_1024.jpg" data-gif-url="http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb3_raw.gif" data-height="450" data-width="208" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb3_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>拍一拍、好友状态快速套用</strong><p></p><p>iOS 新版手机 QQ 还增加了好友状态快速套用的功能，跟好友聊天时，点击对方的在线状态，就会出现在线状态详情框，在这里可以快速调用该好友的在线状态，也可以拍一拍对方。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb4_1024.jpg" data-height="930" data-width="439" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60be0a3f8e9f0971b863bdb4_1024.jpg" referrerpolicy="no-referrer"></div></div>另外，新版手机 QQ 支持了 OPPO Push 推送服务，这意味着使用 ColorOS 的手机可以不需要将 QQ 挂在后台，也能收到 QQ 消息了。<p></p><p>新版手机 QQ 你更新了吗？不如和朋友们一起玩起来吧！</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
