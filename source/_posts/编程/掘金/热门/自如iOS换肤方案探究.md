@@ -191,7 +191,7 @@ SkinImage是处理images模块的，这个宏定义是pngResourceForSign:方法�
 <h2 data-id="heading-5">招聘信息</h2>
 <blockquote>
 <h4 data-id="heading-6">自如大前端研发中心招募新同学！</h4>
-<p>FE/IOS/Android工程师</p>
+<p>FE/iOS/Android工程师</p>
 <p>公司福利有：</p>
 <ul>
 <li>全额五险一金，并额外购买商业保险</li>
