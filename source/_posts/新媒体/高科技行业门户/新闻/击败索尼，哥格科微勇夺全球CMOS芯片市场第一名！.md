@@ -1,0 +1,19 @@
+
+---
+title: '击败索尼，哥格科微勇夺全球CMOS芯片市场第一名！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1/202106/08115235651313.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 08 Jun 2021 08:31:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1/202106/08115235651313.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由于华为的遭遇,国内消费者对于芯片的关注度保持极高的热度,其实一部手机上所采用的芯片有许多种类,而中国在诸多芯片行业均在发展,近日有媒体指出中国的CMOS芯片一哥格科微已在全球CMOS芯片市场击败索尼夺下第一名。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/08115235651313.jpg" width="100%" title="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" alt="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">据今年一季度的统计数据显示,按出货量计算,格科微在全球CMOS芯片市场占有34%的市场份额,领先于第二名的索尼,索尼占有20%的份额,三星则以17%的份额位居全球第三。</p><p style="text-indent: 2em; text-align: left;">格科微在CMOS芯片市场能取得领先优势,在于它依靠成本优势抢占市场,目前它的CMOS主要覆盖了200万-1300万像素的摄像头市场,与传音等手机企业合作抢占全球功能手机市场,传音是非洲第一大手机品牌。</p><p style="text-indent: 2em; text-align: left;">依靠在中低端市场立足,格科微近几年来也不断提升技术水平,拥有一定的技术优势之后已经与小米OV等国产智能手机企业达成合作关系,伴随中国手机企业在全球市场抢占市场,格科微在全球CMOS芯片市场份额不断上涨,今年一季度终于首次击败索尼夺下全球CMOS芯片市场份额第一名。</p><p style="text-indent: 2em; text-align: left;">不过由于格科微的CMOS芯片主要以中低端为主,所以在销售额方面与索尼等还存在较大差距。按收益份额计算,2020年索尼占有全球CMOS芯片市场接近五成的份额,三星位居第二名,格科微则位居前十名。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/08115236453799.jpg" width="100%" title="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" alt="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">格科微在芯片市场取得领先优势,为中国芯片行业提供了一条发展道路,那就是芯片种类繁多,中国的芯片企业除了可以在受到关注的芯片行业发展之外,还可以选择一些不太受人关注的行业,同样拥有巨大的发展机会。</p><p style="text-indent: 2em; text-align: left;">中国是全球最大的制造国,对芯片的需求多种多样,一部手机上就有数十种芯片;而中国除了手机行业在全球居于领先地位之外,空调、液晶面板、电视等产品也在全球居于行业前列,这些行业同样对芯片有巨大的需求。</p><p style="text-indent: 2em; text-align: left;">中国芯片行业也看到了这些机会,据统计数据显示2020年中国有4万多家芯片企业,覆盖了各个芯片行业,这些庞大数量的芯片企业覆盖各个芯片行业,它们正奋力为中国芯片的发展而努力。</p><p style="text-indent: 2em; text-align: left;">格科微的成功给中国芯片行业树立了典范,只要努力就有机会冲上全球芯片行业前列,外国芯片企业虽然拥有领先优势,但不代表中国芯片企业没有机会赶超,这将激励中国各个行业的芯片企业奋力前行。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/08115236417695.jpg" width="100%" title="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" alt="中国芯片百花齐放，又一家芯片企业赶超国外同行称霸全球" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">芯片被誉为制造业的粮食,对制造业的重要性毋庸多言,中国也认识到了这一点,2010年中国成为全球最大制造国开始重视芯片产业的发展,4年后的2014年推出了第一期集成电路产业基金,推动国内芯片产业的发展,此后又成立了第二期集成电路产业基金,在各方的共同努力下,相信中国将涌现更多类似格科微这样居于全球行业前列的中国芯片企业。</p> 
+  
+</div>
+            
