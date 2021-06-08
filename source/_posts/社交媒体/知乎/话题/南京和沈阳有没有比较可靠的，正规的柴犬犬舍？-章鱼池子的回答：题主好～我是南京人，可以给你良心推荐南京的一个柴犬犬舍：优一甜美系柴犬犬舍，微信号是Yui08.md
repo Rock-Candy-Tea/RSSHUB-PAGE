@@ -1,0 +1,18 @@
+
+---
+title: '南京和沈阳有没有比较可靠的，正规的柴犬犬舍？-章鱼池子的回答：题主好～我是南京人，可以给你良心推荐南京的一个柴犬犬舍：优一甜美系柴犬犬舍，微信号是Yui08...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-6ac6bc497e1a61d0091add35180ea64e_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 08 Jun 2021 13:10:17 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-6ac6bc497e1a61d0091add35180ea64e_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>南京和沈阳有没有比较可靠的，正规的柴犬犬舍？</strong><br>章鱼池子的回答<br><p>题主好～我是南京人，可以给你良心推荐南京的一个柴犬犬舍：优一甜美系柴犬犬舍，微信号是Yui081415</p><p>先上图～</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-6ac6bc497e1a61d0091add35180ea64e_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1628" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-b07a26af91d3b6172b94b395f04df39a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-6ac6bc497e1a61d0091add35180ea64e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-6ac6bc497e1a61d0091add35180ea64e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这是当家种公武藏，刚和刘雨昕一起上过直播～</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-e7d4679187103ce849cb30fb942a89bd_720w.jpg?source=54b3c3a5" data-rawwidth="1514" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-830811bb3ff5b37f1f090d3a9c78f110_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-e7d4679187103ce849cb30fb942a89bd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-e7d4679187103ce849cb30fb942a89bd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这是种母之一，也是比过赛的</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-ece8ff0de3246bd2ab6ae904bf72ab6b_720w.jpg?source=54b3c3a5" data-rawwidth="1350" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-97f156f4de8326ace941387b986570af_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-ece8ff0de3246bd2ab6ae904bf72ab6b_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-ece8ff0de3246bd2ab6ae904bf72ab6b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>小狗狗比赛全场最佳的照片↑</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-2c4f5d5b054e8af1e0087175ebafd0f7_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-6481c971267436e40006d8b2b762ca65_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-2c4f5d5b054e8af1e0087175ebafd0f7_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-2c4f5d5b054e8af1e0087175ebafd0f7_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>小黑柴～</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-d9f61e2744756f67cb8be18ef3fed973_720w.jpg?source=54b3c3a5" data-rawwidth="1079" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-8da9c16a7c4d341500a7c6da9469b347_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d9f61e2744756f67cb8be18ef3fed973_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-d9f61e2744756f67cb8be18ef3fed973_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这是他们家我最爱的小白柴！！！太甜了呜呜呜</p><p>还有好多好多照片你可以加了微信朋友圈看，真的良心犬舍，犬舍主人也很nice，回消息细致且耐心而且还有家长群可以交流讨论，售后也不用担心</p><p></p>  
+</div>
+            
