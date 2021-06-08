@@ -15,7 +15,7 @@ thumbnail: 'https://img.cls.cn/images/20210608/x6XdFlT04x.png'
 <div>   
 <div class="m-b-10"><p>财联社6月8日讯，今日白酒行情画风突变，板块指数在昨日大涨续创新高后今日突然向下反包，一举抹去昨天整日涨幅。截至午间收盘，板块整体跌5.5%，昨日该板块涨4.25%。</p>
 <p><img src="https://img.cls.cn/images/20210608/x6XdFlT04x.png" alt="image" referrerpolicy="no-referrer"></p>
-<p>从个股来看，水井坊、迎驾贡酒跌停，舍得酒业、老白干酒逼近跌停，金徽酒、大湖股份、碧海蓝天、金种子酒等个股均跌超9%。</p>
+<p>从个股来看，水井坊、迎驾贡酒跌停，舍得酒业、老白干酒逼近跌停，金徽酒、大湖股份、青海春天、金种子酒等个股均跌超9%。</p>
 <p><img src="https://img.cls.cn/images/20210608/XuTwcOTD6S.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>6月7日，是酿酒板块再度大涨的一天，截至当日收盘，白酒板块单日上涨4.25%，领跑全行业指数。</p>
 <p>白酒板块自从春节后剧烈调整以来，二季度确实有了明显回暖的趋势，板块整体股价一路高歌， 不仅填平了今年一季度的跌幅，且近期整个板块还有不断攀高的势头。<strong>自3月中低点至昨日高点，板块整体已涨逾55%。</strong></p>
