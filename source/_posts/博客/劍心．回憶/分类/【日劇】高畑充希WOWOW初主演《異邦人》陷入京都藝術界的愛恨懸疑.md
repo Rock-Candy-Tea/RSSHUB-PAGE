@@ -5,15 +5,15 @@ categories:
  - 博客
  - 劍心．回憶
  - 分类
-headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202105/20210608-1.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202106/20210608-1.jpg'
 author: 劍心．回憶
 comments: false
 date: Tue, 08 Jun 2021 15:55:29 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202105/20210608-1.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202106/20210608-1.jpg'
 ---
 
 <div>   
-<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202105/20210608-1.jpg" referrerpolicy="no-referrer"></p>
+<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202106/20210608-1.jpg" referrerpolicy="no-referrer"></p>
 <p>
 【日劇】06/08：高畑充希WOWOW初主演，《異邦人》（いりびと-異邦人-）由原田舞葉2015年出版同名藝術懸疑小說改編，故事講述主角篁菜穗（高畑充希）繼承了熱心收集藝術品並設立私人美術館的祖父，當上美術館的副館長，她遺傳了祖父的審美眼光，而她的丈夫也是銀座某畫廊的3代目。</p>
 <p>菜穗為了避開喧鬧的東京而長期留在京都，在那裡她遇上了一幅無名畫家的作品，並被其深深地吸引著。為了追查這張畫，她進入了由漂亮住人們慾望交錯的世界，深入京都的畫壇，發現夭折天才畫家死亡的真相，與有著重量級身份的人對峙，並發現會改變命運愛恨情仇。</p>
