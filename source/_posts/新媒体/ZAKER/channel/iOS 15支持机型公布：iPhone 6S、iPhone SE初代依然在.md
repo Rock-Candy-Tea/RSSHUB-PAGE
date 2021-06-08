@@ -1,0 +1,18 @@
+
+---
+title: 'iOS 15支持机型公布：iPhone 6S、iPhone SE初代依然在'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5575_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 07 Jun 2021 13:42:25 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5575_1024.jpg'
+---
+
+<div>   
+<p>一年一度的 WWDC 开发者大会如期上演，苹果的各大 OS 系统也再次升级，最闪亮的明星自然是 iOS 15，还有 iPadOS 15。现在，它们的支持兼容机型公布了，意外的是，<strong>iOS 15 依然没有抛弃近六年前的 iPhone 6S 系列、五年多前的 iPhone SE 初代，iOS 14 支持的它依然全都保留！</strong></p><p><strong></strong></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><strong><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5575_1024.jpg" data-height="233" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5575_1024.jpg" referrerpolicy="no-referrer"></strong></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><strong><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5576_1024.jpg" data-height="285" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5576_1024.jpg" referrerpolicy="no-referrer"></strong></div></div><strong>iOS 15 支持机型完整名单：</strong><p></p><p>iPhone 12</p><p>iPhone 12 mini</p><p>iPhone 12 Pro</p><p>iPhone 12 Pro Max</p><p>iPhone 11</p><p>iPhone 11 Pro</p><p>iPhone 11 Pro Max</p><p>iPhone XS</p><p>iPhone XS Max</p><p>iPhone XR</p><p>iPhone X</p><p>iPhone 8</p><p>iPhone 8 Plus</p><p>iPhone 7</p><p>iPhone 7 Plus</p><p>iPhone 6S</p><p>iPhone 6S Plus</p><p>iPhone SE ( 二代 ) </p><p>iPhone SE ( 一代 ) </p><p>iPod touch ( 七代 ) </p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202106/60be91658e9f092a2f5c5577_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60be91658e9f092a2f5c5577_1024.jpg" referrerpolicy="no-referrer"></div></div>iPadOS 15 的兼容名单也没有变，该支持的也是继续支持。<p></p><p><strong>iPadOS 15 支持机型完整名单：</strong></p><p>iPad Pro 12.9 寸 ( 五代 ) </p><p>iPad Pro 12.9 寸 ( 四代 ) </p><p>iPad Pro 12.9 寸 ( 三代 ) </p><p>iPad Pro 12.9 寸 ( 二代 ) </p><p>iPad Pro 12.9 寸 ( 一代 ) </p><p>iPad Pro 11 寸 ( 三代 ) </p><p>iPad Pro 11 寸 ( 二代 ) </p><p>iPad Pro 11 寸 ( 一代 ) </p><p>iPad Pro 10.5 寸</p><p>iPad pro 9.7 寸</p><p>iPad ( 八代 ) </p><p>iPad ( 七代 ) </p><p>iPad ( 六代 ) </p><p>iPad ( 五代 ) </p><p>iPad mini 5</p><p>iPad mini 4</p><p>iPad Air ( 四代 ) </p><p>iPad Air ( 三代 ) </p><p>iPad Air 2</p><p><strong>iOS 15、iPadOS 15 开发者测试版现已发放，公测版七月放出，正式版秋季推送。</strong></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5578_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60be91658e9f092a2f5c5578_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202106/60be91658e9f092a2f5c5579_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60be91658e9f092a2f5c5579_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
