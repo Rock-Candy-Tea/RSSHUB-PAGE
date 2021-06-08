@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5363'
+headimg: 'https://pic1.zhimg.com/v2-c1ef050c349d2f45a513a220261de255_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 08 Jun 2021 03:49:41 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5363'
+date: Tue, 08 Jun 2021 04:32:30 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-c1ef050c349d2f45a513a220261de255_1440w.jpg'
 ---
 
 <div>   
-匿名用户的回答<br><br><p>在不同的问题下回答，希望所有人看到，还其他考生一个公平。 我没有造谣，我只是相信正义，哪怕迟了这么久。我匿名只是不想被认出来。这些话确实很大胆，我相信国家会给大家一个答复，不会解决提出问题的人，我勇敢站出来指出问题，就是信任我爱的国家，哪怕有不完善，总会越来越好！</p><p>——————-</p><p>这个回答好像被大家看到了，那我来更新一下，希望大家不要怪监考老师，黄陂区是武汉面积数一数二的区，发展旅游，地方收入绝对不低，教师待遇全武汉市最低。不重视教育就这个后果</p><p>———————</p><p>确认了是真实的。当时一看到这个事我就和舍友说我们当年高考有多宽松（我是武汉黄陂考生）结果出了情况通报果然是武汉黄陂。我一边震惊这个个巧合一边觉得理所当然，终于爆出来了。</p><p>首先黄陂不属于武汉中心城区，很多熟人关系，地方小人情多，此为前提。</p><p>我高考第一天完了班级里成绩最差的同学就开始炫耀了，说抄到了，老师完全不管。我当时心里非常难受，凭什么我苦读十几年你们轻轻松松就抄到了。不是说高考作弊最严吗？闺蜜劝我“他们抄也就几十分，影响不到你的”但是那些会被他们影响到的成绩中游本科线徘徊的人呢？他们的大学梦被这些人毁了。</p><p>后来知道，理由是这样的：“监考老师抓了你会被报复”因为监考和考生都是黄陂本地的，很容易找到是谁。</p><p>“监考老师抓了你要写一大堆证明材料，和你没仇没怨，没必要。让你看看就行了”</p><p>还有曾经有监考老师监考到朋友的孩子，后来被举报在考场走动巡视影响他孩子。去找他大闹了一场.....真的很黑</p><p>后来知道，他们有各种各样的作弊方式，黄陂职高考场排着队上厕所，厕所门口一条长队....作弊考生在考场明目张胆到处看到处瞄。 还有很多我没听说的，有多少认认真真靠自己的考生被这些草包挤掉的啊……想想就替他们可惜。</p><p>只能说那个同学抄到之后沾沾自喜的样子让我至今难忘。</p><p>终于曝光了。希望以后武汉市高考可以监考老师跨区监考，不要自己区监考自己区吧。</p>  
+怀初衷的回答<br><br><p>我愿称之为三个大爹也救不回来的铁头娃</p><p>能把手机带进去</p><p>手机带上能连上网</p><p>连上网还能拍题目</p><p>最离谱的是这货拍题上传小猿搜题</p><p>还把自己名字露出来了</p><p>别人的考场牙套都戴不进去，这已经高考考场5g冲浪了</p><p>这一波我愿称之为强行送人头，顺带着拔出萝卜带出了泥泥泥泥泥。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c1ef050c349d2f45a513a220261de255_1440w.jpg" data-rawwidth="480" data-rawheight="4409" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-575b9ae8a65bf2b1109605ee9767a0ab_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c1ef050c349d2f45a513a220261de255_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-236b5f3e128452d4fc25eada6c2a681f_1440w.jpg" data-rawwidth="436" data-rawheight="295" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-a47cc67ff810bbefffa11197e8630dde_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-236b5f3e128452d4fc25eada6c2a681f_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a66ab26d38007777896c6b60b67d651b_1440w.jpg" data-rawwidth="720" data-rawheight="1069" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-b2cd8713b9dec4c77bcdab77602689c6_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a66ab26d38007777896c6b60b67d651b_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

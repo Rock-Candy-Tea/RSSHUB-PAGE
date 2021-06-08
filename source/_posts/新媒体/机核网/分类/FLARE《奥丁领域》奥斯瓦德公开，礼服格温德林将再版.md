@@ -8,16 +8,16 @@ categories:
 headimg: 'https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg'
 author: 机核网
 comments: false
-date: 2021-06-08 03:56:39
+date: 2021-06-08 04:42:36
 thumbnail: 'https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-7oqu3" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="7oqu3" data-offset-key="dpr5-0-0"><div data-offset-key="dpr5-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dpr5-0-0"><span data-text="true">FLARE官方正式公布《奥丁领域》系列全新模型奥斯瓦德的详细信息。奥斯瓦德是《奥丁领域》里《死亡与黑暗之剑》篇章的主角，原本隶属于反派阵营，漆黑的铠甲与魔剑颇具辨识度。这款模型的设计、色彩由吉泽光正负责，作品包括FLARE推出的绫波丽、明日香、真希波、2B、9S等。</span></span></div></div>
+<img src="https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-vabk" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="vabk" data-offset-key="dpr5-0-0"><div data-offset-key="dpr5-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dpr5-0-0"><span data-text="true">FLARE官方正式公布《奥丁领域》系列全新模型奥斯瓦德的详细信息。奥斯瓦德是《奥丁领域》里《死亡与黑暗之剑》篇章的主角，原本隶属于反派阵营，漆黑的铠甲与魔剑颇具辨识度。这款模型的设计、色彩由吉泽光正负责，作品包括FLARE推出的绫波丽、明日香、真希波、2B、9S等。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/772fcadb-b57c-49a4-b220-971076f2b995.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="7oqu3" data-offset-key="5d747-0-0"><div data-offset-key="5d747-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5d747-0-0"><span data-text="true">这款模型的卖点除造型外就是涂装了，无论是装甲的黑色亚光漆面，胸甲、裙甲金色的条纹，以及腿部装甲的银色涂装无不让模型显得更加高级。FLARE奥斯瓦德全高约25.5厘米，材质为PVC，并附带ABS底座，定价19580日元，将于2022年5月发售。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="vabk" data-offset-key="5d747-0-0"><div data-offset-key="5d747-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5d747-0-0"><span data-text="true">这款模型的卖点除造型外就是涂装了，无论是装甲的黑色亚光漆面，胸甲、裙甲金色的条纹，以及腿部装甲的银色涂装无不让模型显得更加高级。FLARE奥斯瓦德全高约25.5厘米，材质为PVC，并附带ABS底座，定价19580日元，将于2022年5月发售。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/0f11f05e-5fed-4f5f-9e98-602f89c9a1a9.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -117,7 +117,7 @@ thumbnail: 'https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg'
 <img src="https://image.gcores.com/d6671993-cff0-4992-ac8a-753cb1174cd1.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (10/10) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="7oqu3" data-offset-key="fh88p-0-0"><div data-offset-key="fh88p-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fh88p-0-0"><span data-text="true">或许是为了方便之前错过的玩家凑对，FLARE同时宣布礼服版格温德林将再版，全高约24.5厘米，官方定价17050日元，将于2022年4月发售。</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="vabk" data-offset-key="fh88p-0-0"><div data-offset-key="fh88p-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fh88p-0-0"><span data-text="true">或许是为了方便之前错过的玩家凑对，FLARE同时宣布礼服版格温德林将再版，全高约24.5厘米，官方定价17050日元，将于2022年4月发售。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/99bbdcb8-5436-4ee4-98d8-16f3e3a3ae19.jpg" alt referrerpolicy="no-referrer">
 
@@ -129,6 +129,6 @@ thumbnail: 'https://image.gcores.com/28031cdd-41d5-429e-97f4-7a26242d5030.jpg'
 <figure>
 <img src="https://image.gcores.com/5fd07082-b964-436b-b086-3d03b3b2f5da.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="7oqu3" data-offset-key="9qinc-0-0"><div data-offset-key="9qinc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9qinc-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="vabk" data-offset-key="9qinc-0-0"><div data-offset-key="9qinc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9qinc-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
