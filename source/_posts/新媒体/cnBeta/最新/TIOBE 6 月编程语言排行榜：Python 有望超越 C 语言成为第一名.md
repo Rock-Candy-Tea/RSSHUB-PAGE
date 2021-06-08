@@ -1,0 +1,19 @@
+
+---
+title: 'TIOBE 6 月编程语言排行榜：Python 有望超越 C 语言成为第一名'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0608/6909e7394bdeb09.jpg'
+author: cnBeta
+comments: false
+date: Tue, 08 Jun 2021 06:56:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0608/6909e7394bdeb09.jpg'
+---
+
+<div>   
+TIOBE 官方最新发布了 6 月的编程语言榜单，这个月榜单中又有怎样的发展趋势？在本月榜单中，位居第二名的 Python 与第一名 C 语言之间的差距正在逐渐缩小，从上个月的 1.51% 缩小到了本月的 0.7%。<br>
+ <p style="text-align: left;"><strong>Python 有望成为第一名</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0608/6909e7394bdeb09.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0608/6909e7394bdeb09.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">对此，TIOBE 官方预测，Python 即将接管 TIOBE 榜单榜首的位置。与此同时，TIOBE 索引榜单即将于下个月迎来 20 周年。在过往 20 年间，仅有两种语言达到过 TIOBE 榜单第一的位置，它们分别是 C 和 Java 语言。因此，在高速的发展趋势下，Python 在不久的将来或将超越 C 语言成为榜单的第一名，而届时势将会成为历史中重要的一个时刻。</p><p style="text-align: left;">另外，近几个月间，我们发现 Java 的市场份额在持续下降，市场份额比上个月少 0.2%，且其增长趋势为 -4.56%。除此之外，TOP 20 中还有一些值得关注的变化：</p><p style="text-align: left;">Perl 从上个月的第 19 位上升到了本月的第 15 名；</p><p style="text-align: left;">Swift 上升两个名次，成为第 16 名；</p><p style="text-align: left;">Go 语言有所下滑，从上个月的第 16 位跌至本月的第 20 位。</p><p style="text-align: left;"><strong>其他编程语言排名</strong></p><p style="text-align: left;">下面列出了完整的 21-50 名，因为是非官方发布的，所以可能存在遗漏：</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0608/c624d2baed9a82d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0608/c624d2baed9a82d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">第 51-100 名如下，由于它们之间的数值差异较小，仅以文本形式列出（按字母排序）：</p><p style="text-align: left;">ABC, ActionScript, AutoLISP, B4X, Bash, BBC BASIC, bc, Bourne shell, CFML, CIL, CL (OS/400), Clojure, CoffeeScript, Common Lisp, Elm, Emacs Lisp, Erlang, F#, Hack, Icon, Inform, Io, J, Korn shell, Lingo, LiveCode, Maple, Modula-2, MQL4, MS-DOS batch, MUMPS, NATURAL, NXT-G, OCaml, Occam, OpenCL, OpenEdge ABL, PL/I, PostScript, Pure Data, Q, REXX, Ring, RPG, Scheme, Snap!, Stata, Vala/Genie, Verilog, Xojo</p><p style="text-align: left;"><strong>Top 10 编程语言 TIOBE 指数走势（2002-2020）</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0608/1422e7b890847ec.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0608/1422e7b890847ec.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>历史排名（1986-2021）</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0608/ae8d821436ca365.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0608/ae8d821436ca365.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">注：以下排名位次取决于12个月的平均值。</p><p style="text-align: left;"><strong>编程语言“名人榜”（2003-2020）</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0608/6a938f6412a46e1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0608/6a938f6412a46e1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>【说明】：</strong></p><p style="text-align: left;">TIOBE 编程语言社区排行榜是编程语言流行趋势的一个指标，每月更新，这份排行榜排名基于全球技术工程师、课程和第三方供应商的数量，其中包括了流行的搜索引擎以及技术社区，如 Google、百度、维基百科、CSDN、必应、Hao 123 等等。具体的计算方式详见：https://www.tiobe.com/tiobe-index/programming-languages-definition/。请注意这个排行榜只是反映某个编程语言的热门程度，并不能说明一门编程语言好不好，或者一门语言所编写的代码数量多少。</p><p style="text-align: left;">这个排行榜可以用来考察你的编程技能是否与时俱进，也可以在开发新系统时作为一个语言选择依据。</p><p style="text-align: left;">详细榜单信息可参考 TIOBE 官网：https://www.tiobe.com/tiobe-index</p>   
+</div>
+            
