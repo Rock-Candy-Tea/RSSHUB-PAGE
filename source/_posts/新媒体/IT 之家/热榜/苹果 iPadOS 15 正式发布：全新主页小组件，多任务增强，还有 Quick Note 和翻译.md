@@ -1,0 +1,19 @@
+
+---
+title: '苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/cc57ad8d-4ab5-41f6-8034-69f5cdc5a7d2.png'
+author: IT 之家
+comments: false
+date: Mon, 07 Jun 2021 18:03:17 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/cc57ad8d-4ab5-41f6-8034-69f5cdc5a7d2.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 8 日消息 在推出其有史以来最强大的 iPad Pro 设备数周后，苹果在今天凌晨的举行的 WWDC21 上，宣布了最新版本的 iPadOS 15-- 而且明显侧重于使苹果的平板电脑成为更有能力的生产力机器。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/cc57ad8d-4ab5-41f6-8034-69f5cdc5a7d2.png" w="738" h="490" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" width="738" height="490" referrerpolicy="no-referrer"></p><p>正如传言，iPadOS 15 将使主屏幕更容易定制，并允许更灵活地放置小组件。你现在可以把它们贴在你喜欢的任何地方，这项功能去年已经出现在 iOS 14 中。但 iPadOS 14 没有提供同样的功能，尽管平板电脑的屏幕面积很大，但小组件只能放在“今日视图”侧边栏中。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/822a0361-5fcd-4a6b-9802-5ef0054993f5.jpg@s_2,w_820,h_461" w="1440" h="810" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" srcset="https://img.ithome.com/newsuploadfiles/2021/6/822a0361-5fcd-4a6b-9802-5ef0054993f5.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p>苹果还为 iPadOS 15 带来了 App 资源库。与 iPhone 一样，它将让你保持一个不那么杂乱的主屏幕，把你很少使用的应用程序归档到一个自动组织的文件夹部分。在 iPad 上，App 资源库位于 Dock 中。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/210bc0f4-6c47-4c69-b2f5-166b185a7113.jpg@s_2,w_820,h_695" w="1440" h="1221" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" srcset="https://img.ithome.com/newsuploadfiles/2021/6/210bc0f4-6c47-4c69-b2f5-166b185a7113.jpg 2x" width="1440" height="695" referrerpolicy="no-referrer"></p><p>多任务处理也得到了一些亟需的改进。新的图标将使进入分割视图模式变得更简单，苹果还提到了一个 "书架" 功能，使不同的任务更容易拼凑。这是对目前 iPadOS 上多任务处理方式的一个重大改变。</p><p>Quick Note 是一种新的便利，它可以让你把笔记附在网页和 iPadOS 的其他地方，使它们更容易被找回。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/29932edc-6cbe-4eb5-a109-f64e69bab66d.jpg@s_2,w_820,h_493" w="1290" h="775" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" srcset="https://img.ithome.com/newsuploadfiles/2021/6/29932edc-6cbe-4eb5-a109-f64e69bab66d.jpg 2x" width="1290" height="493" referrerpolicy="no-referrer"></p><p>最后，独立的 "翻译" 应用程序现在也将进入 iPadOS。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/2e31c277-0b6e-4e5d-b32c-5b6a14dbc70a.jpg@s_2,w_820,h_601" w="1440" h="1056" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" srcset="https://img.ithome.com/newsuploadfiles/2021/6/2e31c277-0b6e-4e5d-b32c-5b6a14dbc70a.jpg 2x" width="1440" height="601" referrerpolicy="no-referrer"></p><h2>与苹果 iPhone 手机上的 iOS 15 共享的新技巧</h2><p>iPadOS 15 也将分享 iOS 15 的许多新功能和体验。FaceTime 通话现在将支持空间音频，以获得更逼真、自然的声音。语音增强功能将让你的声音穿过背景噪音，而“宽频谱”选项将比以前接收更多的声音。人像模式也将出现在 FaceTime 中，从而产生一个模糊的背景，使焦点保持在你的脸上。</p><p>苹果正在为 FaceTime 引入一项新的 SharePlay 功能，允许人们在集体通话中分享媒体 -- 音乐、电影等。SharePlay 将利用 iOS 的功能，如画中画、iMessage 等，在多个设备上同时实现无缝体验。</p><p>新的 iPad 软件更新包括新的工具，旨在帮助你集中注意力，如改进后的通知，更容易识别，还有一个“通知摘要”部分，总结你不太重要的通知。你还可以自定义你在一天中的不同时间点会看到哪些通知，让你把工作和个人提醒分开。焦点偏好可在苹果设备间同步。</p><p>照片应用中的记忆现在可以与音乐曲目同步，并根据歌曲的氛围应用自动过滤和选择效果，Spotlight 搜索也有了一些更深入的搜索功能。</p><p>实况文本是一个使用设备智能的功能，让你从你拍摄的照片和相机胶卷中选择文本。它支持七种语言。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/78afd7bf-b22b-49c9-b501-486a01dd25b4.jpg@s_2,w_820,h_461" w="1440" h="810" title="苹果 iPadOS 15 正式发布：全新主页小组件，多任务增强，还有 Quick Note 和翻译" srcset="https://img.ithome.com/newsuploadfiles/2021/6/78afd7bf-b22b-49c9-b501-486a01dd25b4.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p>IT之家获悉，在纯粹的性能方面，搭载 M1 的 iPad Pro 与苹果最新的 iMac、MacBook Air、13 英寸 MacBook Pro 和 Mac mini 处于同等地位。它们的发布只是助长了要求苹果将 iPadOS 发展成一个平台的呼声，该平台可以为那些试图将 iPad 设备作为笔记本电脑替代品的人适当地利用所有这些能力。</p>
+          
+</div>
+            
