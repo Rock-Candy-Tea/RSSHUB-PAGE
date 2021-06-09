@@ -1,0 +1,18 @@
+
+---
+title: '金毛现在为什么没人要？-宠物知识营的回答：想在养狗不想以前，随着人生活提高，宠物生活也提高了，养宠的成本也随之增加。_b_不养金毛第一个原因：食量大__b_现...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-0e5017318fa7aa1bd38b58cc38863ad6_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 09 Jun 2021 06:09:02 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-0e5017318fa7aa1bd38b58cc38863ad6_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>金毛现在为什么没人要？</strong><br>宠物知识营的回答<br><p>想在养狗不想以前，随着人生活提高，宠物生活也提高了，养宠的成本也随之增加。</p><p><b>不养金毛第一个原因：食量大</b></p><p>现在的人，都特别喜欢养小型犬，因为小型犬吃的少，饮食方面的开销也更小一些。大型犬吃的太多了，饮食开销太大了，所以，饲养大型犬的人才会变少。而金毛，是大型犬当中，饭量数一数二的，饲养它的话，每个月，宠主都要拿出不小的一笔钱来为它购置狗粮！为了减少“不必要”的开销，现在的人才会拒绝饲养它！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-0e5017318fa7aa1bd38b58cc38863ad6_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="1000" data-rawheight="668" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9515816d8bc687119b6bcc63ef74ea43_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-0e5017318fa7aa1bd38b58cc38863ad6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-0e5017318fa7aa1bd38b58cc38863ad6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>图上一顿食量</figcaption></figure><p><b>不养金毛第二个原因：粘人爱吃醋</b></p><p>说起来，金毛真的是一种特别爱吃醋的狗狗。当它看到主人跟其它狗狗玩的时候，它就吃醋。它吃醋的话，就会好几天不理主人。当然了，这还只是小事。它吃醋特别厉害的时候，甚至会向这只狗发起猛烈的攻击，特别的凶，一点儿都没有“暖男”的样子了，甚至还会让人感到害怕。也正因为因为这一点，喜欢它的人少了很多很多！现在喜欢它的人，也还是在慢慢的减少当中！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-257de1d445a7efbb1f8ab34292482f10_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="1000" data-rawheight="633" data-default-watermark-src="https://pic1.zhimg.com/50/v2-c79f16433cd50bc79e5ef811ab16c8d8_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-257de1d445a7efbb1f8ab34292482f10_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-257de1d445a7efbb1f8ab34292482f10_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>我就是这么酷</figcaption></figure><p><b>不养金毛第三个原因：掉毛（很多狗狗也是一样的）</b></p><p>金毛每天都会掉毛，也就是说，你饲养它的话，每天都需要拿出时间来收拾狗毛才行！开始的时候，宠主还不会讨厌，但是新鲜感过去之后，宠主大都会觉得很烦，也就不会再去饲养它了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-231bbb8cbb9bc6f70751cccd5ee3f850_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1000" data-rawheight="667" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9053c83b96cd4d27e511026cd8acb16e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-231bbb8cbb9bc6f70751cccd5ee3f850_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-231bbb8cbb9bc6f70751cccd5ee3f850_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>不养金毛最后一个原因：拆家（拆家小能手不必二哈差）</b></p><p>大家以为，金毛一直都是一个很乖巧的样子吗？其实并不是，金毛小的时候，是特别调皮的，它也会拆家，而且，它小时候的拆家能力，丝毫不比二哈差多少！也正是因为这个原因，讨厌它的人变得越来越多！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-345439a1a673924b3649a07bfe911da7_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1000" data-rawheight="668" data-default-watermark-src="https://pic2.zhimg.com/50/v2-adb41385e3d79dcd7a62def33818ebab_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-345439a1a673924b3649a07bfe911da7_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-345439a1a673924b3649a07bfe911da7_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>养宠必备推荐：</b></p><p></p>  
+</div>
+            
