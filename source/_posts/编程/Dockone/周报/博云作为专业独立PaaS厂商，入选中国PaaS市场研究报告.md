@@ -5,17 +5,21 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://picsum.photos/400/300?random=4475'
+headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210609/2861ea30dc719383251ab1d72a5b11ec.png'
 author: Dockone
 comments: false
-date: 2021-06-09 03:31:11
-thumbnail: 'https://picsum.photos/400/300?random=4475'
+date: 2021-06-09 04:28:02
+thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210609/2861ea30dc719383251ab1d72a5b11ec.png'
 ---
 
 <div>   
 <br>近日，国内权威咨询机构赛迪顾问发布《2020－2021 年中国PaaS市场研究报告》（以下简称《报告》）。《报告》重点介绍了中国 PaaS 市场的规模与结构，并对中国 PaaS 市场竞争格局及细分市场现状进行了分析。<br>
  <br>
 BoCloud博云作为独立、专业的 PaaS 厂商，凭借突出的产品与技术能力，丰富的客户案例成功入选报告，紧跟阿里云、浪潮、用友等厂商，位居挑战者象限，在创新 PaaS 企业中脱颖而出。<br>
+<br><div class="aw-upload-img-list active">
+<a href="http://dockone.io/uploads/article/20210609/2861ea30dc719383251ab1d72a5b11ec.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210609/2861ea30dc719383251ab1d72a5b11ec.png" class="img-polaroid" title="11.png" alt="11.png" referrerpolicy="no-referrer"></a>
+</div>
+<br>
 <br><strong>中国 PaaS 市场持续高速增长独立 PaaS 厂商备受资本关注</strong><br>
  《报告》显示，受新冠肺炎疫情影响，2020 年全球 PaaS 市场销售额为 635.1 亿美元，增速为 24.3%，增长进一步放缓。然而，中国 PaaS 领域受市场关注度却进一步提高。<br>
 <br>数字经济时代，新一代企业级应用创新加快、大型复杂应用构建加快，企业对 PaaS 的依赖性和需求明显增加。企业亟需构建以面向云原生应用应用容器化、微服务化、开发运维一体化等为特征的新型 IT 架构。<br>
@@ -31,8 +35,13 @@ BoCloud博云作为独立、专业的 PaaS 厂商，凭借突出的产品与技�
 <br><strong>PaaS 市场大有可为“做深做厚”是关键</strong><br>
 《报告》预测，未来三年 PaaS 市场仍处于高速增长态势，到 2023 年中国 PaaS 市场销售额将达到388.2 亿元。 <br>
 <br>基于微服务、容器化、DevOps 的云原生架构设计理念逐渐成为应用开发、交付和运维的新模式，能够优化应用开发模式，推动 IT 架构逐渐走向轻量化、敏捷化，驱动应用在本地开发、部署、运行转变为直接在云端开发、部署及运行，这将为 PaaS 的创新发展带来新的机遇。 <br>
-<br>博云作为独立、专业的 PaaS 厂商代表，在数字经济时代，将持续专注 PaaS 领域，做深做厚 PaaS 平台，助力企业构建新一代 IT 架构，加速实现数字化转型。
+<br>博云作为独立、专业的 PaaS 厂商代表，在数字经济时代，将持续专注 PaaS 领域，做深做厚 PaaS 平台，助力企业构建新一代 IT 架构，加速实现数字化转型。<br>
+<br>点击<a href="http://bocloud.com.cn/home">BoCloud博云</a>了解更多解决方案
+                                                                <div class="aw-upload-img-list">
+                                                                                                                                </div>
                                 
+                                                                <ul class="aw-upload-file-list">
+                                                                                                                                            </ul>
                                                               
 </div>
             
