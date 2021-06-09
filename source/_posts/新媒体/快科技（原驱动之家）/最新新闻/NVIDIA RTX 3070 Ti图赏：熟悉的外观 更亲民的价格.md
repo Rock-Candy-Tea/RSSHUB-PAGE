@@ -17,7 +17,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210609/s_1b95c00da9a14891a3086cea49
 <p>距离RTX 30系列首发近一年之后，NVIDIA现在又给玩家们带来了RTX 3080Ti、RTX 3070Ti两款高端芯片，至此，RTX 30系列显卡产品线全部就位。</p>
 <p><strong>6月9日晚，NVIDIA正式解禁RTX 3070 Ti，国行售价4499元</strong>，比起8999元的3080 Ti，国行售价4499元，比起8999元的3080Ti，价格恰好是一半。</p>
 <p>我们快科技已经拿到了这款新卡，下面为大家带来图赏。</p>
-<p><strong>RTX 3070 Ti采用全新的GA104-400核心，内建48组CU，6144个CUDA，192个Tensor单元，加速频率1770MHz</strong>，匹配26bit 8GB GDDR6X显存，总带宽608GB/s，热设计功耗290瓦。</p>
+<p><strong>RTX 3070 Ti采用全新的GA104-400核心，内建48组CU，6144个CUDA，192个Tensor单元，加速频率1770MHz</strong>，匹配256bit 8GB GDDR6X显存，总带宽608GB/s，热设计功耗290瓦。</p>
 <p>外观方面，公版RTX 3070 Ti的外形设计与RTX 3070/3080几乎一模一样，两面各有一枚风扇，均支持智能启停。</p>
 <p>散热器与GPU接触的底座采用了大面积均热板设计，另外一边的风扇则有4条热管进行连接。</p>
 <p align="center"><a href="https://news.mydrivers.com/picture/762417/762417_1.html" target="_blank"><img alt="NVIDIA RTX 3070 Ti图赏：熟悉的外观 更亲民的价格" h="400" src="https://img1.mydrivers.com/img/20210609/s_1b95c00da9a14891a3086cea493ef21f.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
