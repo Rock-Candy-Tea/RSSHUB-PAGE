@@ -66,7 +66,7 @@ PATH="你的文件夹\Android SDK\platform-tools"
 <p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9434d86c985b4f08a34784989fce85e4~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"><br>
 <em>（sdk 的管理器）</em></p>
 <h3 data-id="heading-4">缺少 repositories.cfg</h3>
-<p>你需要找到 C:\Users\XXX.android\</p>
+<p>你需要找到 C:\Users\XXX\.android\</p>
 <p>然后<strong>创建一个名为 repositories.cfg 的文件</strong></p>
 <p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6e5ae6022d7044c79afce498f38fcc0f~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"><br>
 <em>（创建 repositories.cfg 文件）</em></p>
