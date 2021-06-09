@@ -1,0 +1,18 @@
+
+---
+title: '有哪些养猫适用的超平价好物？-奈奈miu的回答：养猫一时爽，一直养猫一直爽！然鹅养了猫之后，_b_你的钱不是大风刮来的，却像是大风刮走的。__b_养猫3年，每年在...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-8ac82dac7b2e211d2bf8a73b1d77ab31_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 09 Jun 2021 07:57:41 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-8ac82dac7b2e211d2bf8a73b1d77ab31_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>有哪些养猫适用的超平价好物？</strong><br>奈奈miu的回答<br><p>养猫一时爽，一直养猫一直爽！然鹅养了猫之后，<b>你的钱不是大风刮来的，却像是大风刮走的。</b></p><h2>养猫3年，每年在猫猫身上花的只有几百元！也就是少吃一顿火锅！</h2><p>养猫的超平价好物，奈奈最有发言权了！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-8ac82dac7b2e211d2bf8a73b1d77ab31_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="444" data-rawheight="579" data-default-watermark-src="https://pic3.zhimg.com/50/v2-34fd8074847a38c3917a8ef9762d1704_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-8ac82dac7b2e211d2bf8a73b1d77ab31_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-8ac82dac7b2e211d2bf8a73b1d77ab31_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>主子的照片</figcaption></figure><p><b>1、得酷猫抓板（7.95）</b></p><p>这是我家肉松最喜欢的一个窝，没事就躺一躺，质量真的很好！颜值也高！最重要的是，价格实惠！</p><p>多准备些猫抓板，避免猫咪乱抓家具！</p><p><b>2、双向宠物粘毛器（12.95）</b></p><p>猫咪掉毛一直是铲屎官最大的烦恼之一，地上是猫毛，空气中也飘着猫毛，梳妆台上也是猫毛，哪哪都是猫毛！</p><p>一直有个疑问：为啥小猫咪不会秃？</p><p>买过很多粘毛器，这个是目前性价比最高的！来来回回刮刮几下，猫毛就自动到槽里了！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-d2376dd32157e8de29f1eb6339f53da5_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="720" data-rawheight="936" data-default-watermark-src="https://pic4.zhimg.com/50/v2-2d554bd28ddb86d0bb6ae49b8a15ded3_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-d2376dd32157e8de29f1eb6339f53da5_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-d2376dd32157e8de29f1eb6339f53da5_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>一定要试试这个！家人们！</p><p><b>3、逗猫棒</b></p><p>逗猫棒一定少不了，我家肉松对逗猫棒毫无抵抗力！我一度认为它不是一只猫，它本质上是一只小老虎，喜欢吃肉，捕猎，玩耍！</p><p><b>4、碗</b></p><p>猫猫吃饭喝水用的<b>碗推荐使用不锈钢、陶瓷、玻璃材质的</b>，<b>不推荐塑料碗。</b>塑料碗容易滋生、藏匿细菌，可能会导致你的猫咪黑下巴哦。</p><p><b>5、宠物防丢吊牌</b></p><p>被其他铲屎官种草的一款防丢神器！颜值很高，价格便宜！</p><p>保护好肉松是麻麻的责任，不然惨案发生后悔莫及！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-a3f5a37b6cd7179ad9476e802fcc4e40_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="445" data-rawheight="429" data-default-watermark-src="https://pic2.zhimg.com/50/v2-283fa8f315e8a395b7e05380dd226846_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-a3f5a37b6cd7179ad9476e802fcc4e40_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-a3f5a37b6cd7179ad9476e802fcc4e40_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>用这款防丢神器后，还发现了一个大福利！再次感叹自己薅羊毛的能力！它绑定的撸宠app，<b>可以享受免费体检！！！</b>（还有免费疫苗免费护理什么的）</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-a25639412b0de05f3a0f47ee2023b5bd_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="664" data-rawheight="438" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ba09aabf24b114cd01f37e6b1029c895_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-a25639412b0de05f3a0f47ee2023b5bd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-a25639412b0de05f3a0f47ee2023b5bd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>真的是绝绝子！</p><p><b>6、宠物湿纸巾</b></p><p>给肉松擦pp，擦眼睛都很方便！价格也很便宜！已经回购无限次了！</p><p></p>  
+</div>
+            

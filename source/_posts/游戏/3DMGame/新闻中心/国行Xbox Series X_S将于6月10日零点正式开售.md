@@ -23,7 +23,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210609/1623222794_3614
 “无论您是熟悉 Xbox 的老朋友，还是刚刚加入 Xbox 大家庭的新伙伴，Xbox 团队对于广大中国玩家的支持表示诚挚的感谢！”微软游戏事业部副总裁菲尔 · 斯宾塞表示，“我们深知大家对于新世代 Xbox 游戏主机登陆中国期盼已久。随着 Xbox Series X 和 Xbox Series S 正式登陆中国，大家将在游戏中见证更多可能。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222794_361448.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222794_361448.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 游戏新世代登陆中国，明日可期
@@ -56,7 +56,7 @@ XboxSeries X|S 不仅拥有极快的加载速度，让玩家快速进入游戏�
 史上最快、最强的Xbox主机
 </h3>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222833_502143.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222833_502143.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 XboxSeries X 的推出为新世代主机的性能、速度和兼容性树立了新的标杆。Xbox Series X 以玩家为中心，为广大玩家提供了创新的技术和功能。凭借高达 12 teraflops 的图形处理能力和 4 倍于 Xbox One X 的 CPU 处理能力，Xbox Series X 能够为玩家提供 4K 高清逼真、沉浸式的游戏体验。另外，在 Xbox 快速架构的助力之下，Xbox Series X 1TB 的定制化 SSD 将带来 40 倍于 Xbox One 的 I/O 带宽。通过实现更高帧率的顶尖技术、更广阔复杂的游戏世界，Xbox Series X 将为玩家带来跨时代的图像处理及性能，以及更好的沉浸式游戏体验。
@@ -65,7 +65,7 @@ XboxSeries X 的推出为新世代主机的性能、速度和兼容性树立了�
 精巧机身，同样蕴含新世代性能
 </h3>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222859_223849.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222859_223849.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Xbox Series S 是一款全数字游戏主机，是有史以来最小巧、时尚的 Xbox 主机。在 Xbox Series X 以实惠的价格为广大玩家提供新世代游戏体验的同时，其所采用的精简设计以及冰雪白配色，可以自然地融入玩家的家庭环境和生活方式。
@@ -77,7 +77,7 @@ Xbox Series S 同样为玩家带来了定义新世代的游戏体验。借助与
 在主机上市首日，畅玩Xbox经典之作
 </h3>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222899_916539.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210609/1623222899_916539.jpg" alt="国行Xbox Series X/S将于6月10日零点正式开售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Xbox 是经典赛车游戏《极限竞速》系列的绝佳畅玩平台。6 月 10 日起，中国玩家可以体验精彩刺激的赛车游戏，与赛车手、街头车手和拉力赛车手们同场竞技，体验史诗般的飞驰快感。
