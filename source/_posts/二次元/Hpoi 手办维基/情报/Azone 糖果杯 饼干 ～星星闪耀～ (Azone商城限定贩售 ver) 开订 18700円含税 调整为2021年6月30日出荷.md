@@ -1,0 +1,42 @@
+
+---
+title: 'Azone 糖果杯 饼干 ～星星闪耀～ (Azone商城限定贩售 ver.) 开订 18700円含税 调整为2021年6月30日出荷'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://res.hpoi.net.cn/gk/cover/n/2021/05/7eac94a59feb47129394aa30f0bbba3b.jpg?date=1622181616283'
+author: Hpoi 手办维基
+comments: false
+date: Wed, 09 Jun 2021 01:54:00 GMT
+thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/05/7eac94a59feb47129394aa30f0bbba3b.jpg?date=1622181616283'
+---
+
+<div>   
+类型:
+                    
+                        
+                        
+                        
+                        
+                        
+                            Doll娃娃
+                        
+                        
+                    
+                <br>Azone 糖果杯 饼干 ～星星闪耀～ (Azone商城限定贩售 ver.) 开订 18700円含税 调整为2021年6月30日出荷<br>更新内容: 
+                
+                    
+                        预订时间
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://res.hpoi.net.cn/gk/cover/n/2021/05/7eac94a59feb47129394aa30f0bbba3b.jpg?date=1622181616283" referrerpolicy="no-referrer">  
+</div>
+            
