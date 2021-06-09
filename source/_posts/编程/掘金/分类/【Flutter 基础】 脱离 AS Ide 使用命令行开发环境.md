@@ -35,14 +35,14 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe65eafb94b543fd92
 <em>ASI 官网也有提供解压包下载</em></p>
 <h3 data-id="heading-1">所需包</h3>
 <ul>
-<li><a href="https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip" target="_blank" rel="nofollow noopener noreferrer">SDK toots</a></li>
+<li><a href="https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip" target="_blank" rel="nofollow noopener noreferrer">SDK tools</a></li>
 <li><a href="https://dl.google.com/android/repository/platform-tools_r29.0.1-windows.zip" target="_blank" rel="nofollow noopener noreferrer">platform-tools</a></li>
 </ul>
 <p>首先，将 SDK tools 解压至 你所指定的文件夹\Android SDK 下</p>
 <p>然后再将 platform-tools 解压至 你所指定的文件夹\Android SDK 下</p>
 <pre><code class="hljs language-text copyable" lang="text">你的文件夹\Android SDK
-├─ platform-tools
-└─ toots
+├─ tools
+└─ platform-tools
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-2">环境变量配置</h3>
 <p>然后就需要设置系统环境变量：</p>
