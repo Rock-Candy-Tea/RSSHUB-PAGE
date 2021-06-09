@@ -1,0 +1,18 @@
+
+---
+title: 'Filecoin网络目前总质押量约为8086万枚FIL'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 头条
+headimg: 'https://picsum.photos/400/300?random=9435'
+author: 金色财经
+comments: false
+date: Wed, 09 Jun 2021 07:06:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9435'
+---
+
+<div>   
+Filecoin网络目前总质押量约为8086万枚FIL  
+</div>
+            
