@@ -5,21 +5,21 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623232711022'
+headimg: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623288329524'
 author: Hpoi 手办维基
 comments: false
-date: Wed, 09 Jun 2021 10:23:15 GMT
-thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623232711022'
+date: Wed, 09 Jun 2021 10:09:27 GMT
+thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623288329524'
 ---
 
 <div>   
 类型:
                     
                         
-                            手办
                         
                         
                         
+                            毛绒布偶
                         
                         
                         
@@ -37,6 +37,6 @@ thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31
                     
                 
                     
-                <br><img src="https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623232711022" referrerpolicy="no-referrer">  
+                <br><img src="https://res.hpoi.net.cn/gk/cover/n/2021/06/b0027fcde91845309a3360d31dce3607.jpg?date=1623288329524" referrerpolicy="no-referrer">  
 </div>
             
