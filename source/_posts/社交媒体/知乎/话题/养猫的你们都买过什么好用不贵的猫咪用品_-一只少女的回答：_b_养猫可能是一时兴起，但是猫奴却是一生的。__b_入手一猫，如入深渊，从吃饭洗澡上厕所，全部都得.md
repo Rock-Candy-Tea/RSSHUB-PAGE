@@ -1,0 +1,18 @@
+
+---
+title: '养猫的你们都买过什么好用不贵的猫咪用品_-一只少女的回答：_b_养猫可能是一时兴起，但是猫奴却是一生的。__b_入手一猫，如入深渊，从吃饭洗澡上厕所，全部都得...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-280122afcf8d6f80ecc4f8063dd713fe_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 10 Jun 2021 08:58:30 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-280122afcf8d6f80ecc4f8063dd713fe_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>养猫的你们都买过什么好用不贵的猫咪用品?</strong><br>一只少女的回答<br><h2><b>养猫可能是一时兴起，但是猫奴却是一生的。</b></h2><p>入手一猫，如入深渊，从吃饭洗澡上厕所，全部都得铲屎官一手包办。<b>养猫绝对不会让猫多一分委屈少一分快乐的，而且一不小心就可以省好几百！</b></p><p>然而猫大人依然对自己还是不冷不热，铲屎官：我能怎么办呢，我也很绝望啊！哈哈，这是不是你内心的写照呢？如果是的话，不妨试试这些养猫神器，大大节省你的时间空间，有更多的时间可以做自己的事，空出时间撸猫才是王道啊！</p><p><b>给大家安利今年618发现的最新利器，天猫榜单。我之前为了选一款猫砂，至少翻了不下20篇攻略，买过不下10种。最近发现，选出来的猫砂就是天猫榜单的推荐猫砂，真香！</b></p><a href="https://xg.zhihu.com/plugin/fcc5e6b33bfee55e43605239517632e0?BIZ=ECOMMERCE" data-draft-node="block" data-draft-type="link-card" class="internal">知乎营销平台</a><p><b>宠物梳子</b></p><p><br></p><b><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-280122afcf8d6f80ecc4f8063dd713fe_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="750" data-rawheight="1000" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-280122afcf8d6f80ecc4f8063dd713fe_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-280122afcf8d6f80ecc4f8063dd713fe_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure></b><p><br></p><p>价格十几元左右吧，季节交替，猫咪也会开始掉毛，不少养猫的铲屎官看着漫天飞舞的毛发简直是狂躁有没有？！地板也是到处是毛，天天拖地板是不可能的，太累啦！褪毛梳子真的是换季神物，将猫身上的大部分要掉的毛撸干净，家里也不会它走到哪，哪就是一片茫茫毛发。这个神器对于长毛猫特别适用，夏天也不用去剃毛了，整个夏天都丑丑的，猫大人是会不开心的。</p><p><b>宠物洗澡盆</b></p><p>每次给家里猫大人洗澡都是一场血战，伤痕累累。猫小的时候还好清洗，大了之后洗浴盆完全装不下，但是买个大点的澡盆太占浴室空间，后来发现了能随身携带的洗澡盆，哈哈！做梦都会笑啊！蹲着洗猫往往腿都会被抓伤，所以建议装好水之后往高点的地方放，站着洗。</p><p><b>天猫榜单从消费者利益出发，不做任何商业化！不接受商家广告！更不会变成各个品牌的宣传媒体！上“天猫榜单”意味着是真正经得起数据检验，是放心可靠的优良产品。</b></p><a href="https://xg.zhihu.com/plugin/fcc5e6b33bfee55e43605239517632e0?BIZ=ECOMMERCE" data-draft-node="block" data-draft-type="link-card" class="internal">知乎营销平台</a><p><b>极简设计超高猫爬架</b></p><p>比传统猫爬架占地面积小，毕竟在房价高的城市这样的省地还是有用的，剑麻柱有替换装最重要的是中间的跳板都是木板清理及其方便，再也不用面对毛绒爬架了！</p><p><b>宠物专用消毒液</b></p><p><br></p><b><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-00e516dd3c04da8e5af2df24e51be0c3_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="750" data-rawheight="1000" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-00e516dd3c04da8e5af2df24e51be0c3_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-00e516dd3c04da8e5af2df24e51be0c3_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure></b><p><br></p><p>养猫家庭一定要做好定期的消毒工作，成分首选二氧化氢，分享一个小诀窍，可以把消毒液加到扫地机器人的水箱内（当然前提是有扫地机器人）哈哈。</p><p><b>宠物免洗波</b></p><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-dc845c5baeb412ca50ce577953456832_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="750" data-rawheight="1000" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-dc845c5baeb412ca50ce577953456832_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-dc845c5baeb412ca50ce577953456832_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>考虑到猫咪不爱洗澡，但偶尔会脏到，所以要备着，适合偶尔洗洗爪爪屁屁，干净又不费力。</p><p><b>5月24日，天猫榜单正式上线，官方作业等你来抄！</b></p><a href="https://xg.zhihu.com/plugin/fcc5e6b33bfee55e43605239517632e0?BIZ=ECOMMERCE" data-draft-node="block" data-draft-type="link-card" class="internal">知乎营销平台</a><p></p>  
+</div>
+            
