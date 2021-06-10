@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/invision-collaboration-updates-april-2021/'
 author: Inside Design
 comments: false
-date: 2021-06-10 02:10:24
+date: 2021-06-10 03:25:46
 thumbnail: 'https://www.invisionapp.com/inside-design/invision-collaboration-updates-april-2021/'
 ---
 
