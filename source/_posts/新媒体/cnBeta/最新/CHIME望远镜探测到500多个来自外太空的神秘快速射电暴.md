@@ -1,0 +1,19 @@
+
+---
+title: 'CHIME望远镜探测到500多个来自外太空的神秘快速射电暴'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0610/7c3e7098a8591e1.jpg'
+author: cnBeta
+comments: false
+date: Thu, 10 Jun 2021 03:01:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0610/7c3e7098a8591e1.jpg'
+---
+
+<div>   
+<strong>麻省理工学院的研究人员报告说，大型射电望远镜CHIME在其运行的第一年就探测到500多个神秘的快速射电暴。</strong>在其运行的第一年的观测结果使已知的射电暴数量翻了两番，并揭示了两种类型：一次性的和重复的。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0610/7c3e7098a8591e1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0610/7c3e7098a8591e1.jpg" alt="Canadian-Hydrogen-Intensity-Mapping-Experiment-777x518.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">快速射电暴(或称FRB)，是一种奇怪的明亮的闪光，在电磁波谱的无线电波段中登记，在消失之前会有几毫秒的闪光，没有任何痕迹。</p><p style="text-align: left;">这些短暂而神秘的射电天文现象已经在宇宙的不同和遥远的地方，以及我们自己的银河系中被发现。它们的起源是未知的，它们的出现也是不可预知的。自从2007年首次发现以来，射电天文学家在他们的望远镜中只看到了大约140个爆发。</p><p style="text-align: left;">现在，不列颠哥伦比亚省的一个大型固定式射电望远镜将迄今为止发现的快速射电暴的数量增加了近四倍。该望远镜被称为加拿大氢强度绘图实验望远镜（CHIME），在其运行的第一年，即2018年至2019年期间，已经探测到535个新的快速射电暴。</p><p style="text-align: left;">CHIME合作组织的科学家们，包括麻省理工学院的研究人员，已经将这些新信号汇集到望远镜的第一个FRB目录中，他们将在本周的美国天文学会会议上展示。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0610/9936b8177a2658c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0610/9936b8177a2658c.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">新的目录极大地扩展了目前已知的FRB库，并且已经产生了关于它们特性的线索。例如，新发现的快速射电暴似乎分为两个不同的类别：那些重复的和那些不重复的。科学家们确定了18个重复爆发的FRB源，而其余的似乎都是一次性的。重复的FRB看起来也不同，与来自单一的、不重复的FRB的爆发相比，每个爆发持续的时间略长，发射的无线电频率也更集中。</p><p style="text-align: left;">这些观察结果强烈地表明，中继器和一次性的产生于不同的机制和天体物理来源。随着更多的观察，天文学家们希望很快能确定这些奇怪的明亮信号的极端来源。</p><p style="text-align: left;">麻省理工学院物理系的研究生Kaitlyn Shin说：“在CHIME之前，总共发现了不到100个FRB；现在，经过一年的观测，我们又发现了数百个。有了所有这些来源，我们可以真正开始了解FRB的整体情况，什么天体物理学可能在驱动这些事件，以及它们如何被用来研究宇宙的未来。”</p><p style="text-align: left;">CHIME由四个巨大的圆柱形射电天线组成，位于加拿大不列颠哥伦比亚省的加拿大国家研究委员会运营的多米尼克射电天体物理观测站内。CHIME是一个固定的阵列，没有移动部件。该望远镜每天在地球自转时接收来自半边天的无线电信号。</p><p style="text-align: left;">大多数射电天文学是通过旋转一个大盘子来聚焦来自天空不同部分的光线，而CHIME则一动不动地盯着天空，并通过一个相关器聚焦传入的信号--一个强大的数字信号处理器，可以处理大量的数据，速度约为每秒7 terabit，相当于世界互联网流量的几分之一。</p><p style="text-align: left;">麻省理工学院物理学助理教授Kiyoshi Masui说：“数字信号处理是使CHIME能够同时在数千个方向进行重建和‘寻找’的原因，”他将领导该小组的会议发言。“这就是帮助我们检测FRB的原因，比传统的望远镜多出一千倍。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0610/e6308a4ff544368.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0610/e6308a4ff544368.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在运行的第一年，CHIME检测到535个新的快速射电暴。当科学家们绘制它们的位置图时，他们发现这些爆发均匀地分布在太空中，似乎来自天空的任何和所有地方。根据CHIME能够探测到的FRB，科学家们计算出明亮的快速射电暴在整个天空中以每天约800次的速度发生--这是迄今为止对FRB总体速度的最精确估计。</p><p style="text-align: left;">“这就是这个领域的美丽之处--FRB真的很难看到，但它们并不罕见，”Masui说，他是麻省理工学院Kavli天体物理学和空间研究学院的成员。"如果你的眼睛能够像你看到照相机的闪光那样看到无线电闪光，那么你只要抬头就能看到它们。"</p><p style="text-align: left;">绘制宇宙地图</p><p style="text-align: left;">当无线电波穿越太空时，沿途的任何星际气体或等离子体都会扭曲或分散波的特性和轨迹。无线电波被分散的程度可以提供线索，说明它通过了多少气体，以及可能从它的源头走了多远。</p><p style="text-align: left;">对于CHIME检测到的535个FRB，Masui和他的同事测量了它的分散程度，并发现大多数爆发可能来自于遥远的星系中的遥远的源头。这些爆发的亮度足以被CHIME探测到，这表明它们一定是由极高能量的源产生的。随着望远镜探测到更多的FRB，科学家们希望能准确地确定什么样的奇异现象能产生这种超亮、超快的信号。</p><p style="text-align: left;">科学家们还计划利用这些爆发和它们的散布估计，来绘制整个宇宙的气体分布图。</p><p style="text-align: left;">Shin说：“每个FRB都会给我们一些信息，说明它们传播了多远，以及它们传播了多少气体。有了大量的FRB，我们就有希望弄清楚气体和物质是如何在宇宙中以非常大的尺度分布的。因此，除了FRB本身的神秘性之外，FRB在未来作为强大的宇宙学探测器也有令人兴奋的潜力。”</p><p style="text-align: left;">这项研究得到了不同机构的支持，包括加拿大创新基金会、多伦多大学邓拉普天文学和天体物理学研究所、加拿大高等研究院（CIFAR）、麦吉尔大学和麦吉尔空间研究所（通过Trottier家庭基金会）以及不列颠哥伦比亚大学。</p>   
+</div>
+            
