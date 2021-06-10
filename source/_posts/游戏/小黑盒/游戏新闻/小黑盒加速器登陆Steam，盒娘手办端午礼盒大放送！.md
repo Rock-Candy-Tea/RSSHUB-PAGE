@@ -1,0 +1,18 @@
+
+---
+title: '小黑盒加速器登陆Steam，盒娘手办端午礼盒大放送！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/06/10/f192b86157ec9011f1c6cf28155e98a2/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: 2021-06-10 12:11:31
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/06/10/f192b86157ec9011f1c6cf28155e98a2/thumb.jpeg'
+---
+
+<div>   
+<p>居然有人在Steam上玩小黑盒加速器？<br></p><p>没错，小黑盒加速器已经登陆Steam啦！Steam版与正常版本功能一致、VIP通用，且能与其他Steam游戏同时运行。为了庆祝小黑盒加速器两周年以及登陆Steam，小黑妹为大家准备了多个活动，其中还有第一次面世的神秘盒娘本娘哦！</p><h3>添加Steam版小黑盒加速器，好评送限量端午礼盒</h3><p>本次的端午礼盒不仅有可以兑换星巴克粽子的端午礼品券，还有第一次出镜的盒娘开可乐手办，连小黑妹都是第一次拿到手！先放一张私房背影图：</p><p><img class="lazy" data-height="952" src="https://imgheybox.max-c.com/bbs/2021/06/10/f192b86157ec9011f1c6cf28155e98a2/thumb.jpeg" data-width="1269" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="952" src="https://imgheybox.max-c.com/bbs/2021/06/10/1a4711d40c07923f487cf78dc53748c8/thumb.jpeg" data-width="1269" referrerpolicy="no-referrer"></p><p>在Steam上搜索小黑盒加速器，用绑定小黑盒id的Steam帐号<b>在商店页留下评价</b>，将评价截图回复在本帖下。小黑妹将抽出10人送出端午礼盒一份！<br></p><p><b>开奖日期</b>：6月12日12:00</p><p><b>截图格式</b>：（截图中Steam请于小黑盒绑定Steam一致）</p><p><img class="lazy" data-height="446" src="https://imgheybox.max-c.com/bbs/2021/06/10/095b675059dc9ac269c2c0983d44d7c2/thumb.png" data-width="810" referrerpolicy="no-referrer"></p><h3>相聚6月11日20:00，启动小黑盒加速器参与超级抽奖机</h3><p><a href="https://api.xiaoheihe.cn/game/task_open_activity?act_id=60bdd2123ec13164e1853efc" target="_blank">抽奖机入口（6月11日20:00准时开启）</a></p><p>小黑盒加速器专属抽奖机上线！在活动时间开始后，将在活动页出现启动Steam版小黑盒加速器的任务：</p><p><img class="lazy" data-height="2226" src="https://imgheybox.max-c.com/bbs/2021/06/10/8c8c3d5ff2a8cc28d0308b1c7cae6f91/thumb.png" data-width="1284" referrerpolicy="no-referrer"></p><h4 class="img-desc">任务将在6月11日20时可见</h4><p>在保证电脑端启动的Steam与小黑盒绑定账号一致，且Steam状态为在线后，启动小黑盒加速器，点击去完成按钮，即可完成任务参与抽奖。<br></p><p><br></p><p><img class="lazy" data-height="1026" src="https://imgheybox.max-c.com/bbs/2021/06/10/34cabfa96e92e4380ab4d7ef7b4df8fe/thumb.png" data-width="1284" referrerpolicy="no-referrer"></p><h4 class="img-desc">当Steam状态为上图时就可以完成活动任务啦</h4><p>本轮抽奖机最高奖品为PS5-光驱版，另有GPW鼠标、多个热门游戏CDKEY、加速器时长卡等奖品，奖品总数有限，抽完时活动将下线。我们将在本月推出多轮抽奖机，请不要错过！</p><h3>两周年特惠，获得你的专属加速器折扣</h3><p>小黑盒加速器已经上线两年啦！根据盒友们的加速器亲密度（与初次试用时间和总加速时间有关），计算出了属于每个人的专属折扣。一直在使用免费加速项的白嫖盒友，也能获得超低折扣哦！</p><p>登陆小黑盒加速器PC端就可以查看自己的专属折扣券了：</p><p><img class="lazy" data-height="700" src="https://imgheybox.max-c.com/bbs/2021/06/10/0bda520f5262dc3118425408b8be84ab/thumb.png" data-width="1056" referrerpolicy="no-referrer"></p><h4 class="img-desc">特惠券-开屏</h4><p><img class="lazy" data-height="463" src="https://imgheybox.max-c.com/bbs/2021/06/10/09d6cc5a078e529c4eb65b46e7ddd618/thumb.png" data-width="635" referrerpolicy="no-referrer"></p><h4 class="img-desc">特惠券-会员中心</h4><p><img class="lazy" data-height="492" src="https://imgheybox.max-c.com/bbs/2021/06/10/bfb95ad6a799c29f357a3caa40bbe236/thumb.png" data-width="470" referrerpolicy="no-referrer"></p><h4 class="img-desc">充值时选择优惠券</h4><p><br></p><p>加速器新用户也将得到一张8.5折特惠券。本活动持续到6月21日00:00。</p><p><b>最后，祝所有盒友们端午快乐！</b><br></p><p>小黑盒加速器官网：acc.xiaoheihe.cn</p><p><img data-gameid="1447430" src="https://cdn.max-c.com/pc_game/head/4e660046d8c476d7c9a22ac28dd83b71.jpg" referrerpolicy="no-referrer"></p><p>小黑盒手游加速器，全区服游戏下载，免费加速！</p><p><img data-gameid="99928065" src="https://cdn.max-c.com/mobile/app/head/085278650e11958c9f3500c2907d6dc5.jpg" referrerpolicy="no-referrer"></p>  
+</div>
+            
