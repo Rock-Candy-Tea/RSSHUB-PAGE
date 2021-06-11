@@ -1,0 +1,18 @@
+
+---
+title: '两只赤柴能生出黑柴宝宝吗？？-Amuletchart的回答：哈哈可以！我们家就是两只赤柴生出一只黑柴（还有一只赤柴出生的时候就夭折了）晒一波图...母女俩 小黑柴颜值...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-0b30c8dff7868b3384e0c622794ad367_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 11 Jun 2021 11:48:42 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-0b30c8dff7868b3384e0c622794ad367_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>两只赤柴能生出黑柴宝宝吗？？</strong><br>Amuletchart的回答<br><p>哈哈可以！我们家就是两只赤柴生出一只黑柴（还有一只赤柴出生的时候就夭折了）</p><p>晒一波图...</p><p>母女俩</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-0b30c8dff7868b3384e0c622794ad367_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1624" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-6418858add6fcf241a59e85371bc0f01_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-0b30c8dff7868b3384e0c622794ad367_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-0b30c8dff7868b3384e0c622794ad367_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-83ae166398f35046435be9ccf38337d9_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1624" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-db69a14423c4f86aa3d8a08ed3eeafa8_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-83ae166398f35046435be9ccf38337d9_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-83ae166398f35046435be9ccf38337d9_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-ab02bf0521669a5c607b9cdc868ac3f5_720w.jpg?source=54b3c3a5" data-rawwidth="1624" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-90ba56d000c661214f22b04f69eea211_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-ab02bf0521669a5c607b9cdc868ac3f5_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-ab02bf0521669a5c607b9cdc868ac3f5_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-42f21cb45b20418627d581ca4440e5cc_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-546bccbbfa859235641ce67425705b63_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-42f21cb45b20418627d581ca4440e5cc_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-42f21cb45b20418627d581ca4440e5cc_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-15743dc9bba6b8ed40e08dae08a785ec_720w.jpg?source=54b3c3a5" data-rawwidth="1399" data-rawheight="1399" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-54b1421089794952ac6a50db59ac925a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-15743dc9bba6b8ed40e08dae08a785ec_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-15743dc9bba6b8ed40e08dae08a785ec_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>小黑柴颜值没麻麻高 </p>  
+</div>
+            
