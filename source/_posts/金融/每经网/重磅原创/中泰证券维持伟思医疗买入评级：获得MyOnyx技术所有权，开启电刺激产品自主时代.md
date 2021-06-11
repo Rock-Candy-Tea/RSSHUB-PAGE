@@ -5,11 +5,11 @@ categories:
  - 金融
  - 每经网
  - 重磅原创
-headimg: 'https://picsum.photos/400/300?random=9163'
+headimg: 'https://picsum.photos/400/300?random=45'
 author: 每经网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=9163'
+thumbnail: 'https://picsum.photos/400/300?random=45'
 ---
 
 <div>   
@@ -34,7 +34,7 @@ thumbnail: 'https://picsum.photos/400/300?random=9163'
 
               <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E6%B1%9F%E8%8B%8F%E7%9C%81" class="typeTag tagColor2">江苏省</a>
 
-              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=688580" data-stock-code="688580" class="typeTag tagColor1">伟思医疗 <abbr class="lows">-1.7%</abbr> </a>
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=688580" data-stock-code="688580" class="typeTag tagColor1">伟思医疗 <abbr class="lows">-2.2%</abbr> </a>
 
         </div>
         <!-- div class="typeTags">
