@@ -1,0 +1,18 @@
+
+---
+title: '如何看待某知名连锁宠物店歧视非品种狗（串串）呢？-QQB的回答：刚吃的瓜 大众点评 美团 微博 小红书 微信群 一条龙观光团 补点新图 这个店的老板怕是精神上有问...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-697c914896a9882cd0ac23a9ff42d457_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 11 Jun 2021 09:53:18 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-697c914896a9882cd0ac23a9ff42d457_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>如何看待某知名连锁宠物店歧视非品种狗（串串）呢？</strong><br>QQB的回答<br><p>刚吃的瓜 大众点评 美团 微博 小红书 微信群 一条龙观光团 补点新图 这个店的老板怕是精神上有问题 居然明怼 生意应该是黄了 还有人头铁敢去消费吗</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-697c914896a9882cd0ac23a9ff42d457_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1743" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c9969b517b510e2b6715016a15d5580d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-697c914896a9882cd0ac23a9ff42d457_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-697c914896a9882cd0ac23a9ff42d457_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e5d8298cbaeb83245b809cd8609348a0_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="882" data-rawheight="1893" data-default-watermark-src="https://pic3.zhimg.com/50/v2-b7e99c07b165842f2d9ddd55575bfd34_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-e5d8298cbaeb83245b809cd8609348a0_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e5d8298cbaeb83245b809cd8609348a0_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-a4494e8721c7fa99ce31c1d828bd6689_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="474" data-default-watermark-src="https://pic1.zhimg.com/50/v2-cb14fcac156b8f1bd384277f70eeb1e5_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-a4494e8721c7fa99ce31c1d828bd6689_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-a4494e8721c7fa99ce31c1d828bd6689_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-d453c71388f733c6391e993d250113fe_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="911" data-rawheight="2240" data-default-watermark-src="https://pic1.zhimg.com/50/v2-fd5b385158e1ed638d23df408e4fb94d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-d453c71388f733c6391e993d250113fe_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-d453c71388f733c6391e993d250113fe_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-857aa43de6e8c9e81fd549e7289e1f71_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1317" data-default-watermark-src="https://pic4.zhimg.com/50/v2-47ad741c1d994418d0cd8d908dccf400_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-857aa43de6e8c9e81fd549e7289e1f71_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-857aa43de6e8c9e81fd549e7289e1f71_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
