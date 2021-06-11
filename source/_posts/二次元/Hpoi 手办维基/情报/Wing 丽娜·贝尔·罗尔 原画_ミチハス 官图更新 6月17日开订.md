@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631'
+headimg: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631'
 author: Hpoi 手办维基
 comments: false
-date: Fri, 11 Jun 2021 06:01:00 GMT
-thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631'
+date: Fri, 11 Jun 2021 06:11:01 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec03
                     
                 
                     
-                <br><img src="https://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://res.hpoi.net.cn/gk/cover/n/2021/06/5b94529f99b7441ea5f40ec033b53c14.jpg?date=1623391185631" referrerpolicy="no-referrer">  
 </div>
             
