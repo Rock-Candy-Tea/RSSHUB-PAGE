@@ -33,7 +33,7 @@ thumbnail: 'https://img.36krcdn.com/20210412/v2_dad660594c6b4461bfe115d818946f6e
 <p><strong>LG 能源解决方案公司 IPO 估值有望达到100万亿韩元。</strong>据 TechWeb 报道，由 LG 化学电池业务剥离而来的 LG 能源解决方案公司，已向韩国交易所提出 IPO 申请，他们计划在年内完成上市。报道中预计，规模庞大的 LG 能源解决方案公司，IPO 估值有望达到100万亿韩元，折合约896.9亿美元，或成为韩国交易所史上规模最大的 IPO。</p> 
 <p>文｜袁浩延</p> 
 <p>图｜<a class="project-link" data-id="3967448" data-name="图虫" data-logo="https://img.36krcdn.com/20210602/v2_ba47bf0f5b3741e79d463b8d9f6eaa84_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4726601013" target="_blank">图虫</a></p> 
-<p class="image-wrapper"><img data-img-size-val="1201,251" src="https://img.36krcdn.com/20210412/v2_dad660594c6b4461bfe115d818946f6e_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><a href="https://letschuhai.com/?utm_source=36kr&utm_medium=sayhi&utm_campaign=link2" target="_blank"><img data-img-size-val="1201,251" src="https://img.36krcdn.com/20210412/v2_dad660594c6b4461bfe115d818946f6e_img_000" referrerpolicy="no-referrer"></a></p> 
 <p class="image-wrapper"><img data-img-size-val="631,72" src="https://img.36krcdn.com/20210601/v2_5d66a75a6fbb4154891f383fa5bd11d7_img_000" referrerpolicy="no-referrer"></p> 
 <p>寻求报道、与作者交流、商务合作、投稿转载，请扫描下方二维码关注公众号“36氪出海”，点击菜单栏-联系我们-合作需求，扫码填写表单，与我们联系。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,608" src="https://img.36krcdn.com/20210601/v2_85d1f6bf08634589becc5bb3641c3c62_img_000" referrerpolicy="no-referrer"></p>  
