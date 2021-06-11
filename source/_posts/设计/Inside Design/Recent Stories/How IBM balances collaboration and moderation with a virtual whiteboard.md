@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/ibm-collaboration-moderation-freehand/'
 author: Inside Design
 comments: false
-date: 2021-06-11 07:12:03
+date: 2021-06-11 08:08:26
 thumbnail: 'https://www.invisionapp.com/inside-design/ibm-collaboration-moderation-freehand/'
 ---
 

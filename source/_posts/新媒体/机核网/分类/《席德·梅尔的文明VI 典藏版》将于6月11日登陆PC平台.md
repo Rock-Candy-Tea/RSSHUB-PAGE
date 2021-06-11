@@ -1,0 +1,22 @@
+
+---
+title: '《席德·梅尔的文明VI 典藏版》将于6月11日登陆PC平台'
+categories: 
+ - 新媒体
+ - 机核网
+ - 分类
+headimg: 'https://image.gcores.com/94dc2530-c99f-4d21-af71-055c8fe51c34.jpg'
+author: 机核网
+comments: false
+date: 2021-06-11 08:08:11
+thumbnail: 'https://image.gcores.com/94dc2530-c99f-4d21-af71-055c8fe51c34.jpg'
+---
+
+<div>   
+<img src="https://image.gcores.com/94dc2530-c99f-4d21-af71-055c8fe51c34.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-cgloc" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="cgloc" data-offset-key="6me46-0-0"><div data-offset-key="6me46-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6me46-0-0"><span data-text="true">2K 今日宣布，《席德·梅爾的文明VI 典藏版》即日起在 Windows PC 平台推出。对于刚接触到这款史上最伟大战略游戏的玩家而言，《席德·梅尔的文明VI 典藏版》可以说是完美的入坑首选，此包内含：</span></span></div></div><ul class="public-DraftStyleDefault-ul" data-offset-key="a8c49-0-0"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="cgloc" data-offset-key="a8c49-0-0"><div data-offset-key="a8c49-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a8c49-0-0"><span data-text="true">《席德·梅尔的文明VI》 主游戏</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="cgloc" data-offset-key="dlu4m-0-0"><div data-offset-key="dlu4m-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dlu4m-0-0"><span data-text="true">《文明VI 迭起兴衰》资料片 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="cgloc" data-offset-key="52gbj-0-0"><div data-offset-key="52gbj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="52gbj-0-0"><span data-text="true">《文明VI 风云变幻》资料片</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="cgloc" data-offset-key="57ee3-0-0"><div data-offset-key="57ee3-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="57ee3-0-0"><span data-text="true">《文明VI》 - 新纪元季票</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="cgloc" data-offset-key="cqdnf-0-0"><div data-offset-key="cqdnf-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cqdnf-0-0"><span data-text="true">所有DLC*：《文明VI》 - 波兰文明和情景包、《文明VI》 - 维京人情景包、《文明VI》 - 澳大利亚文明和情景包、《文明VI》 - 波斯与马其顿文明和情景包、《文明VI》 - 努比亚文明和情景包、《文明VI》 - 高棉与印尼文明和情景包</span></span></div></li></ul>
+<figure>
+<img src="https://image.gcores.com/9f40b3a5-0af3-4238-af80-bf049955f71a.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="cgloc" data-offset-key="br0sm-0-0"><div data-offset-key="br0sm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="br0sm-0-0"><span data-text="true">《席德·梅尔的文明VI 典藏版》也将在今年稍晚于其他主机平台推出。</span></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="cgloc" data-offset-key="64rbh-0-0"><div data-offset-key="64rbh-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="64rbh-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</div>
+            
