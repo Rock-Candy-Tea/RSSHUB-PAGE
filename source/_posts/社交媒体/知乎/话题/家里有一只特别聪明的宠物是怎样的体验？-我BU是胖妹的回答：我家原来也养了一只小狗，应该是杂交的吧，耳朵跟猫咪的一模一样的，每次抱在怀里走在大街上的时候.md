@@ -1,0 +1,18 @@
+
+---
+title: '家里有一只特别聪明的宠物是怎样的体验？-我BU是胖妹的回答：我家原来也养了一只小狗，应该是杂交的吧，耳朵跟猫咪的一模一样的，每次抱在怀里走在大街上的时候...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/7c5b82bf2f8dc21f77b3bb1eefadcb99_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 11 Jun 2021 13:04:28 GMT
+thumbnail: 'https://pic4.zhimg.com/50/7c5b82bf2f8dc21f77b3bb1eefadcb99_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>家里有一只特别聪明的宠物是怎样的体验？</strong><br>我BU是胖妹的回答<br><p>我家原来也养了一只小狗，应该是杂交的吧，耳朵跟猫咪的一模一样的，每次抱在怀里走在大街上的时候，都有人说它是只猫</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/7c5b82bf2f8dc21f77b3bb1eefadcb99_720w.jpg?source=54b3c3a5" data-rawwidth="670" data-rawheight="503" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/7c5b82bf2f8dc21f77b3bb1eefadcb99_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/7c5b82bf2f8dc21f77b3bb1eefadcb99_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>   ，好像它是妈咪花30块钱，从宠物市场买回来的，那时我还在读初中，刚买回来小小的一只，没有牙齿，只能每顿给它喂点泡饭之类的，给它弄了一个小窝，暖暖的，刚进门，妈咪给它立了许多规矩，不许上沙发，不许上床，不能进卧室，不许到处乱拉，但是后来的这一切都木有啦！从小就知道拍马屁，知道我家谁是老大，从不鸟我，以我妈为马首是瞻，我妈在哪里它就在哪里。我妈咪每晚睡觉时，她都会送我妈咪到卧室，看着她上床躺好了，然后再自己跑会自己的小窝里，然后冬天太冷，我妈咪就不要它回窝了，直接上床了。   我妈咪带它出去打麻将，在旁边加把椅子，再把它放上去，把包包，放它身下，让它守着，不许别人拿，然后它就一直趴着不动，谁拿就咬谁，当然也包括我，最可气的是，如果我妈咪赢钱了，往皮包里放钱它没反应，但是输钱了，我妈咪给谁钱，它就咬谁 太会持家了。我妈咪每天都会遛狗，有一天不想去，就使唤我去，我们出门的时候都好好的，一片祥和，我也不知道脑袋抽了什么风，对着它说了一句，走，我把你卖了吧，它抬头看了我一眼，然后就像风一样，嗖的一下往回跑，从此以后都没跟我单独上过街了    我外婆眼睛看不见，怕她饿衣服口袋里碧长年都有些小零食，比如糖，饼干之类的。不知它什么时候发现了，每次我外婆坐在沙发上养神的时候，它就悄悄跳上沙发，用爪子小心翼翼的把吃的掏出来，然后跑到沙发另一边开吃，吃完了，就把包零食的纸塞到沙发缝里，被我抓住了好几次，给我妈告状也没用。它上街从不用牵引绳，都会紧紧跟在我妈身后，害怕自己跑掉了。看见其他狗也不会乱跑，它会用它的小眼神告诉我妈让它跟这个小狗玩一会，碰见金毛之类的大狗，它会马上站起来趴在我妈咪的腿上，要抱抱。等大狗走远了，再跳下来自己走。它喜欢吃火腿肠，妈咪都是去超市买美好那种一袋有10根的，然后放茶几上，没事的时候喂它一根。差不多三四天就买一袋吧，家里就它吃，它也就默认了这是它的，一次学校下了晚自习，回家肚子饿了，其实是想蹭点电视看，就给自己泡了包方便面，就顺便也泡了它一根火腿肠，然后，它看见我吃了它的东西，它3天都没理我，从此以后，只要茶几上有火腿肠，而我刚好也在客厅看电视，它就会不畏艰难险阻也要把它的火腿肠叼走，离我远远的  ……<br>不知不觉就写了这么多了，它还有许多聪明的地方，陪我们度过了08的大地震，确没等到我们搬进新家的那一天.现在我家又养了3天狗.一只朋友送的雪拉瑞，我捡的一只土狗，我妈捡的一只土狗   <br></p><p>   还有一只小仓鼠，但都没有那一只聪明，再放几张它的照片吧，抱歉那个时候的手机像素太烂</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/9547fe60c328b67acf04466045005076_720w.jpg?source=54b3c3a5" data-rawwidth="320" data-rawheight="240" data-size="normal" class="content_image lazy" data-actualsrc="https://pic1.zhimg.com/50/9547fe60c328b67acf04466045005076_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>这张是地震后拍的，那个是大家都无家可归，它也跟着我们流离失所，它脖子挂的黄色的牌子，是地震后，对有主人的狗发的，因为有太多流浪动物，地震后怕有疫情，没主人的都有被打死这也是地震后，大家都住在空地上，然后把床搬出来，弄上蚊帐，就这样睡了。我把它放在床上照的，那时候真有一种相依偎命的感觉</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/9d7f40d959751de4474f3e213b2201d5_720w.jpg?source=54b3c3a5" data-rawwidth="670" data-rawheight="503" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/9d7f40d959751de4474f3e213b2201d5_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/9d7f40d959751de4474f3e213b2201d5_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/c26075ba7710d88f3b1cce69ec8bec13_720w.jpg?source=54b3c3a5" data-rawwidth="670" data-rawheight="503" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/c26075ba7710d88f3b1cce69ec8bec13_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/c26075ba7710d88f3b1cce69ec8bec13_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>没人看，就当我自娱自乐吧，每次看这张照片，总觉得它的眼神跟其他的小狗不一样。特别想它，对了说了这么半天，还没说它的名字呢，它的猫是花的，就叫它花儿，地震住板房的时候收养了一条流浪狗，也是花的个子比它小，母的，然后就表成了大花和小花，等它老了，走不动了就变成老花儿了……，这里请用四川话读，花儿❤️❤️❤️ 花儿，姐姐想你了，虽然现在又喂了狗狗，但是你始终我唯一的花儿</p>  
+</div>
+            
