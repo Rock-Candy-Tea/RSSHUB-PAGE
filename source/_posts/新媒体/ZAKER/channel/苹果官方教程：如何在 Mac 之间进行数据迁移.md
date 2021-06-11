@@ -1,0 +1,18 @@
+
+---
+title: '苹果官方教程：如何在 Mac 之间进行数据迁移'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb68_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 10 Jun 2021 17:00:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb68_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 10 日消息 苹果官方表示，你在 Mac 里储存的大量文件资料、习惯使用的系统设置、帐户信息，都能通过 Mac 自带的迁移助理 app，事无巨细地转移到新 Mac 上。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb68_1024.jpg" data-height="523" data-width="804" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb68_1024.jpg" referrerpolicy="no-referrer"></div></div>需要准备什么？<p></p><p>将两台 Mac 更新至最新系统版本。</p><p>两台电脑靠近放置，并打开 Wi-Fi。</p><p>在原有 Mac 上打开，系统偏好设置，点击，共享，确保电脑名称栏中显示一个名称。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb69_1024.jpg" data-height="693" data-width="761" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb69_1024.jpg" referrerpolicy="no-referrer"></div></div>开始给 Mac" 搬家 "<p></p><p>1，在两台 Mac 上，同时打开应用程序，点击，实用工具，点击，迁移助理并点按继续。你也可以直接搜索 " 迁移助理 " 找到它。</p><p>2，在新 Mac 上选择从 Mac、时间机器备份或启动磁盘，并点按继续。当系统再次提示你选择时，选择另一台 Mac。在原有 Mac 的同一界面上，选择至另一台 Mac。</p><p>3，确保新 Mac 上显示的安全码与旧设备上的相同，并点按继续。</p><p>4，在新 Mac 上选择要传输的信息，并点按继续，开始传输。如果文件较大，传输可能需要几小时才能完成，请确保两台 Mac 都接入了电源，Wi-Fi 保持开启状态，并且位置不随意移动。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb6a_1024.jpg" data-height="727" data-width="736" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb6a_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb6b_1024.jpg" data-height="764" data-width="721" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c22cb58e9f09732a7acb6b_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb6c_1024.jpg" data-height="788" data-width="723" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb6c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb6d_1024.jpg" data-height="752" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c22cb58e9f09732a7acb6d_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，如果你选择传输的 macOS 用户帐户与新 Mac 上已有的帐户同名，系统会提示你重命名这个帐户或替换新 Mac 上的帐户。<p></p><p>如果你选择重命名，这个帐户会作为单独的用户出现在新 Mac 上，并拥有单独的登录名。</p><p>如果选择替换帐户，则这个旧帐户会删除，并替换新 Mac 上的帐户，包括相应个人文件夹中的所有内容。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

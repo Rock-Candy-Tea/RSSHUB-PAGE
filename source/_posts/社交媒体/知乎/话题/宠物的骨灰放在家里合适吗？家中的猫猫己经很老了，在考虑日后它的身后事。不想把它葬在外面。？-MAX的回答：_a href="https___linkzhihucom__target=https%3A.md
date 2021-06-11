@@ -1,0 +1,18 @@
+
+---
+title: '宠物的骨灰放在家里合适吗？家中的猫猫己经很老了，在考虑日后它的身后事。不想把它葬在外面。？-MAX的回答：_a href="https___link.zhihu.com__target=https%3A...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-bdf92c8368d8aa5da48bfb31ba23260d_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 11 Jun 2021 01:54:26 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-bdf92c8368d8aa5da48bfb31ba23260d_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>宠物的骨灰放在家里合适吗？家中的猫猫己经很老了，在考虑日后它的身后事。不想把它葬在外面。？</strong><br>MAX的回答<br><p><a href="https://link.zhihu.com/?target=https%3A//www.nianshiqing.com/News/cpgs/" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-9b020a6aac60f45436fd4bbcdddb5998_l.jpg?source=54b3c3a5" data-image-width="110" data-image-height="110" class=" wrap external" target="_blank" rel="nofollow noreferrer">产品故事 - 念世情|生命纪念钻|骨灰钻石</a></p><p>家里约克夏12岁，最后因为肺积水压迫心脏没能抢救过来，<br> 刚刚那几天自己也外出了，没办法见上最后一面，心真的碎了一地......<br>跟老公商量之后，狗狗去世后先放宠物服务中心保存，回去见上一面后才火化。<br> 但是骨灰对于我这种住小房子的人来说，放家里面好像没地方，放外面自己又舍不得，<br> 刚好注意到有骨灰钻石这个操作，了解之后真的觉得这个再合适不过了。<br> 骨灰/毛发钻石就是提取骨灰中的碳元素再提炼钻石。<br> 骨灰量会影响大小，骨灰量太少可以加毛发，价格根据钻石大小决定<br> （我狗狗超级小，骨灰量也不多，而且没保留毛发，所以只能做最小的0.09ct)<br>可以选择只要裸钻，也可以选择钻托做成项链或者戒指都可以，另外钻石上可以刻字作为留恋<br> 总耗时3个月，用过程信息可以跟踪到<br> 历时3个月回来也是很满意的，这样的生命钻石既有留恋价值也比较环保，还是很好的。<br><br><br><br><br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-bdf92c8368d8aa5da48bfb31ba23260d_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="578" data-rawheight="399" data-default-watermark-src="https://pic4.zhimg.com/50/v2-bd2123d0a81b3f6a795831dc7acefa0a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-bdf92c8368d8aa5da48bfb31ba23260d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-bdf92c8368d8aa5da48bfb31ba23260d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-838a28a9fd1a45d7c2db23e4b191c5ff_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="800" data-rawheight="600" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9b43b633d385d0838e9254eb055a5119_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-838a28a9fd1a45d7c2db23e4b191c5ff_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-838a28a9fd1a45d7c2db23e4b191c5ff_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-d31271531b7e0a67e63519cec1f6833c_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="718" data-rawheight="535" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b71eec2a1b500cfde94490d3e6e1f47d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d31271531b7e0a67e63519cec1f6833c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-d31271531b7e0a67e63519cec1f6833c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-849820016f9eed73b7adcdb49a6049a6_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1080" data-default-watermark-src="https://pic4.zhimg.com/50/v2-bc7f5ad1f72d0a7ad0af1f8a714485d1_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-849820016f9eed73b7adcdb49a6049a6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-849820016f9eed73b7adcdb49a6049a6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

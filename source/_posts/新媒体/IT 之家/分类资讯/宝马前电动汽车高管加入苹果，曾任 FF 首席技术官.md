@@ -1,0 +1,19 @@
+
+---
+title: '宝马前电动汽车高管加入苹果，曾任 FF 首席技术官'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/0a292c9e-d4bc-4b5f-b278-f64b4d718d48.jpg'
+author: IT 之家
+comments: false
+date: Thu, 10 Jun 2021 22:35:57 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/0a292c9e-d4bc-4b5f-b278-f64b4d718d48.jpg'
+---
+
+<div>   
+<p>6 月 11 日消息，当地时间周四苹果证实，已经将负责开发电动汽车的宝马前高管乌尔里希・克兰兹 (Ulrich Kranz) 招致麾下。</p><p>此次招聘是苹果认真制造电动汽车、与特斯拉等电动汽车制造商竞争的最新迹象。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/0a292c9e-d4bc-4b5f-b278-f64b4d718d48.jpg" w="660" h="372" title="宝马前电动汽车高管加入苹果，曾任 FF 首席技术官" width="660" height="372" referrerpolicy="no-referrer"></p><p>现代汽车今年早些时候曾表示，正在与苹果就合作生产电动汽车进行谈判。但后来现代收回说辞，并确认已不再在苹果的谈判之列。</p><p>苹果从未证实公司正在造车，但已经多次从汽车行业挖人，并在加州测试自动驾驶软件。2018 年，苹果从特斯拉挖来了曾参与特斯拉 Model 3 研发的道格・菲尔德 (Doug Field)。苹果在供应链、电池技术和用户体验方面均拥有优势，如果其推出一款汽车，势必成为现有汽车制造商的主要竞争对手。苹果的汽车项目已经进行了数次重组，最近一次是在 2019 年初。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/c20af17d-5c39-46a4-894a-231a8895770b.jpg" w="660" h="371" title="宝马前电动汽车高管加入苹果，曾任 FF 首席技术官" width="660" height="371" referrerpolicy="no-referrer"></p><p>苹果公司没有透露克兰兹是否会参与苹果的造车项目。据悉，苹果造车项目团队名为特殊项目小组（SPG）。但克兰兹在组建电动汽车团队方面拥有丰富的经验。</p><p>克兰兹在加入苹果公司之前是电动汽车初创企业 Canoo 的联合创始人。据报道，在宝马任职期间，克兰兹负责开发电动汽车，先后推出了宝马 i3 电动汽车和 i8 混动跑车。他也曾加入过法拉第未来 (Faraday Future) 担任首席技术官 (CTO)。</p>
+          
+</div>
+            
