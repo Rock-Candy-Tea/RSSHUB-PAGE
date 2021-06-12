@@ -1,0 +1,18 @@
+
+---
+title: 'csgo战绩面常用词科普'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/06/12/2e7e59ed5dfad0735b6123aff084029f/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sat, 12 Jun 2021 09:52:13 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/06/12/2e7e59ed5dfad0735b6123aff084029f/thumb.jpeg'
+---
+
+<div>   
+<p>三更半夜实在无聊，所以我来写写短小的科普<span data-emoji="cube_加油" class="hb-emoji"></span><span data-emoji="cube_加油" class="hb-emoji"></span><span data-emoji="cube_加油" class="hb-emoji"></span></p><ul><li><b>elo（Elo rating system）</b></li></ul><p>从各个平台常见的elo开始</p><p>elo：隐藏分，隐藏分是根据你平时的表现综合评估（长时间）而来。</p><blockquote><p>系统根据你gogo里的段位、胜场、胜率、mvp、对局情况等不同因素得出一个Elo值，也就是所谓的隐藏分。</p></blockquote><p>以完美的段位等级为例，假设我现在等级是C，而我的隐藏分是稳定在‌C＋范畴，那么我的升段速度就会变得很快；倘若我的隐藏分远低于C，那你就会开始获得一个叫'容易掉分'的debuff。</p><p>隐藏分的主要目的是引导你到适合你的段位，当然也可能存在无论在哪都会被炸鱼打爆的结果</p><blockquote><p>简称系统制裁/50胜率维持器</p></blockquote><p><img class="lazy" data-height="511" src="https://imgheybox.max-c.com/bbs/2021/06/12/2e7e59ed5dfad0735b6123aff084029f/thumb.jpeg" data-width="511" referrerpolicy="no-referrer"></p><ul><li><b>KAST（kill assist survive trade）（很重要）</b></li></ul><p>kast意思是kill assist survive trade 分别指 杀敌、助攻、存活、人数互换。他是你完成这四个目标中任意一个时的回合数与总回合数的比例。（所以kast的数值有%号）<b><br></b></p><blockquote><p>注：你用命给队友拉枪线，只要队友成功补了对面完成人数互换，你就算“人数互换”成功。</p></blockquote><p><br></p><ul><li><b>RWS（average Round Win Shares）：平均胜利贡献值</b></li></ul><p>表示每个队员对队伍胜利做出多少贡献的一项评分。一般用于表示你在队伍里面有没有划水。（giegie你坐床头啊，妹妹我岸上走……）</p><p>12以上说明你对胜利贡献很大<br></p><p>9以下就可能有躺的成分了<br></p><p>一般来说都是10左右吧</p><p>每局游戏产生<b>100RWS</b>值，根据胜利一方队伍中每个人造成的伤害来分配这100分，失败方得到0点。RWS值从0到100，越高越好。拆包或让炸弹爆炸者<b>直接先拿30分</b>，剩下70照伤害比例分配给5个人<br></p><p>最后把每局得分加总后除以总回合数就是RWS</p><p>‌太低了就只能说你缺乏团队合作（老六）了<b><br></b></p><p><img class="lazy" data-height="724" src="https://imgheybox.max-c.com/bbs/2021/06/12/4bae16144e2597b4d49df7d59aef1736/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><h4 class="img-desc">国服均值在10左右</h4><ul><li><b>rating（综合得分）</b></li></ul><p>HLTV上的计算公式：<b><br></b></p><p>Rating = (KillRating + 0.7*SurvivalRating + RoundsWithMultipleKillsRating)/2.7</p><p>分别对应 击杀得分 生存得分  回合多杀得分</p><p>如果你是老六/枪男，你的rating自然会比别人高许多，但是这是个团队游戏，依赖的是你与队友的磨合度与配合（rws kast）</p><p><img class="lazy" data-height="598" src="https://imgheybox.max-c.com/bbs/2021/06/12/79fd59c3b69e3c1f60ed552801639020/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>大清早把小科普补完了<span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span></p><p>补完了，但是没有完全补完<span data-emoji="cube_并不简单" class="hb-emoji"></span><a href="heybox://open_subject" target="_blank">#CSGO#</a>  <a href="heybox://open_subject" target="_blank">#csgo#</a> <br></p><p><a href="heybox://open_subject" target="_blank">#科普#</a> <br></p>  
+</div>
+            
