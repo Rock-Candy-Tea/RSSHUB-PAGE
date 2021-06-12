@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/036/702/267/original/bb5c82f3cfba3fb2.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/036/703/149/original/41079b17dfa8ef9e.jpeg'
 author: Mastodon
 comments: false
-date: Sat, 12 Jun 2021 07:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/036/702/267/original/bb5c82f3cfba3fb2.jpeg'
+date: Sat, 12 Jun 2021 08:00:02 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/036/703/149/original/41079b17dfa8ef9e.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】雌牛役として参加する教師と生徒 （銀の匙）<br>投稿日：2018.1.14<br>ホルスタイン部の手伝いとして、月に数度部員の欲求不満を取り除きに来ていた先生が、部員のリクエストから女生徒を連れてきた。<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E9%8A%80%E3%81%AE%E5%8C%99" class="mention hashtag" rel="tag">#銀の匙</a><br><a href="https://www.a-legend.net/wordpress/?p=8421" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=8421</a></p><br><img src="https://img.pawoo.net/media_attachments/files/036/702/267/original/bb5c82f3cfba3fb2.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[イラスト] 【R-18】世間知らずなムッツリお嬢様ヒーロー （僕のヒーローアカデミア）<br>投稿日：2020.1.26<br>世間知らずのお嬢様は、ため込んだ性知識を発揮して子孫を創造しようとしていた…<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2" class="mention hashtag" rel="tag">#僕のヒーローアカデミア</a><br><a href="https://pawoo.net/tags/%E5%85%AB%E7%99%BE%E4%B8%87%E7%99%BE" class="mention hashtag" rel="tag">#八百万百</a><br><a href="https://www.a-legend.net/wordpress/?p=10848" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=10848</a></p><br><img src="https://img.pawoo.net/media_attachments/files/036/703/149/original/41079b17dfa8ef9e.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
