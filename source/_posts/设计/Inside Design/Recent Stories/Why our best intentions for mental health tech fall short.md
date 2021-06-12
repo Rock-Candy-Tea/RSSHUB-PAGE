@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/mental-health-awareness-tech-equity/'
 author: Inside Design
 comments: false
-date: 2021-06-12 06:08:35
+date: 2021-06-12 07:10:50
 thumbnail: 'https://www.invisionapp.com/inside-design/mental-health-awareness-tech-equity/'
 ---
 
