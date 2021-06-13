@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic4.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-06-13 12:09:09
-thumbnail: 'https://pic4.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162'
+date: 2021-06-13 13:19:32
+thumbnail: 'https://pic2.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic4.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic4.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-5ec2a04d747dff9845713ffe0964954b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">胖博士，</span><span class="bio">懂你皮肤问题的清华胖师兄</span>
 <a href="https://www.zhihu.com/question/420481266/answer/1922621184" class="originUrl" hidden>查看知乎原文</a>
 </strong>

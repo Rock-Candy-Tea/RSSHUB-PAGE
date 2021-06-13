@@ -13,14 +13,14 @@ thumbnail: 'https://img.36krcdn.com/20210613/v2_b19ee0cad571440c88a8f04b18fba401
 ---
 
 <div>   
-<p>36氪获悉，近日，消费机器人公司「<a class="project-link" data-id="633449" data-name="乐森机器人" data-logo="https://img.36krcdn.com/20210325/v2_f0da9216d6f74b7b99a1cc6df886a171_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/633449" target="_blank">乐森机器人</a>」完成B轮融资，由红杉资本中国基金领投，日初资本、明裕资本、中银旗下渤海中盛、庚辛资本跟投，庚辛资本担任长期独家财务顾问。乐森曾于2019年获得招银国际投的1亿美元A轮融资。</p> 
+<p>36氪获悉，近日，消费机器人公司「<a class="project-link" data-id="633449" data-name="乐森机器人" data-logo="https://img.36krcdn.com/20210325/v2_f0da9216d6f74b7b99a1cc6df886a171_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/633449" target="_blank">乐森机器人</a>」完成B轮融资，由红杉资本中国基金领投，明裕创投、日初资本、中银旗下渤海中盛、至临资本、庚辛资本跟投，庚辛资本担任长期独家财务顾问。。乐森曾于2019年获得招银国际投的1亿元A轮融资。</p> 
 <p>乐森机器人（Robosen）前身是“森汉智能”，成立于2008年，为全球消费机器人厂商提供技术解决方案和ODM等业务。2019年初公司发布了新品牌“乐森（Robosen）”，开始发展玩具机器人道路，同全球各大顶级IP厂商合作，推出电动化、智能化的玩具机器人产品。</p> 
 <p>乐森不是第一个做动漫IP机器人、玩具机器人的公司，2018年美国消费品和玩具机器人公司「sphero」推出了球形机器人玩具；2019年人形机器人公司「<a class="project-link" data-id="31460" data-name="优必选" data-logo="https://img.36krcdn.com/20210223/v2_f88cd900a7954b10b121a141a57011b3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/31460" target="_blank">优必选</a>」与漫威合作推出钢铁侠 MARK50机器人。</p> 
 <p><strong>乐森选择从两个关键点切入做产品：变形、IP化</strong>。“变形”使得机器人在娱乐、功能属性上，与其他机器人形成了差异，并且有较高的技术门槛，目前市面上几乎看不到能够自动变形的机器人。“IP”是指借助机器人IP形象，如变形金刚、高达、漫威、迪士尼等，快速覆盖广泛的粉丝受众。</p> 
 <p>2021年4月，乐森<a class="project-link" data-id="187722" data-name="上线了" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/187722" target="_blank">上线了</a>首款具备人车变形能力的变形金刚，搭载讯飞AI语音技术，结合运动、语音、视觉，兼具语音交互、游戏娱乐和教育编程的功能。这款产品具备人车两种形态的自动变形和移动能力；在人形态下，机器人可以双足行走，在车辆形态下，机器人具备竞技功能；此外，其机器人产品具备可编程特点，具备一定教育功能，用户可以通过手机APP给每一个关节的模式进行编程自行设计动作，并通过共享平台互相分享其编程内容。</p> 
 <p class="image-wrapper"><img data-img-size-val="240,135" src="https://img.36krcdn.com/20210613/v2_b19ee0cad571440c88a8f04b18fba401_img_gif" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">变形金刚</p> 
-<p>乐森创始人、董事长陈小森告诉36氪，“产品上线一天后，首批数万台机器人就售罄了。而官方售价999美金的产品，目前在市面上已经炒到了6000美金。”</p> 
+<p>乐森创始人、董事长陈小森告诉36氪，“产品上线一天后，首批数万台机器人就售罄了。而预售价699美金的产品，目前在市面上已经炒到了6000美金。”</p> 
 <p>目前，除了与全球第一大玩具厂商孩之宝合作的变形金刚以外，乐森还有主要面向儿童市场自研IP产品星际特工T9和星级侦察兵K1；此外，乐森计划在近年内与全球各大顶级IP厂商展开合作，陆续推出各种智能玩具和手办，产品定价在200-1000美金不等。</p> 
 <p><strong>根据乐森机器人数据，公司机器人产品在发布一周后，预售收入达到2亿元人民币。目前，公司的订单要到2022年Q1才可交付。</strong></p> 
 <p>陈小森告诉36氪：“全球每年玩具市场达1000亿美金，IP类玩具占比较大，我们以新型的IP玩具入场，不仅可以打IP市场，也会激活不爱买玩具用户的购买热情。”</p> 
