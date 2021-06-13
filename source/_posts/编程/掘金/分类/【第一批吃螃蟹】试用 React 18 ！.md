@@ -195,8 +195,7 @@ startTransition(<span class="hljs-function">() =></span> &#123;
 </ul>
 <h2 data-id="heading-7">最后</h2>
 <p>文中如有错误，欢迎在评论区指正，如果这篇文章帮助到了你，欢迎点赞和关注。</p>
-<p>本文首发在我的个人公众号：【code秘密花园】：
-(【第一批吃螃蟹】试用 React 18 ！)[<a href="https://mp.weixin.qq.com/s/y8xcMa8ocvPooHVLTa_UAQ%5D%EF%BC%8C%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8%E3%80%82" target="_blank" rel="nofollow noopener noreferrer">mp.weixin.qq.com/s/y8xcMa8oc…</a></p>
+<p>本文首发在我的个人公众号：【code秘密花园】：<a href="https://mp.weixin.qq.com/s/y8xcMa8ocvPooHVLTa_UAQ" target="_blank" rel="nofollow noopener noreferrer">试用 React 18 ！</a> ，欢迎关注。</p>
 <p>抖音前端正急缺人才，如果你想加入我们，欢迎加我微信和我联系。另外如果你想加入前端、面试、理财等交流群，或者你有任何其他事情也可以添加我的个人微信 <code>ConardLi</code> 一起交流。</p></div>  
 </div>
             
