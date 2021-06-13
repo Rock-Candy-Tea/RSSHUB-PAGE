@@ -1,0 +1,18 @@
+
+---
+title: '中国特有的狸花猫有多强大？-收藏馆2的回答：狸花猫可是中国特有的品种，狸花猫也是唯一一个被世界认可为是我们中国的本地猫，毕竟我们从long long ago的北宋就...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-45958dbf5891ba0736432ba1bd72ad2a_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sun, 13 Jun 2021 01:37:59 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-45958dbf5891ba0736432ba1bd72ad2a_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>中国特有的狸花猫有多强大？</strong><br>收藏馆2的回答<br><p>狸花猫可是中国特有的品种，狸花猫也是唯一一个被世界认可为是我们中国的本地猫，毕竟我们从long long ago的北宋就出现“狸猫换太子”的故事了。狸花猫可谓是深得民心啊。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-45958dbf5891ba0736432ba1bd72ad2a_720w.jpg?source=54b3c3a5" data-rawwidth="571" data-rawheight="574" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ce48fa6a3e9f60589f68ae5b21ee7df5_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-45958dbf5891ba0736432ba1bd72ad2a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-45958dbf5891ba0736432ba1bd72ad2a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>狸花猫的生存能力特别强，不同于一些外国的品种猫，你把它扔出去外面一个星期，它都能靠自己的能力活下来，但是你把一个外国品种的猫放到外面那个不一定能活下来哦。最主要是狸花猫它不挑食，它什么都吃，剩饭剩菜也可以，外国的品种很多只吃猫粮和猫罐头，所以这一点可以看得出来狸花猫的生存能力更胜一筹，所以，我们如果养一只狸花猫，可以省心一点。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-214303f27690369bc3211f4fc26eaf1e_720w.jpg?source=54b3c3a5" data-rawwidth="414" data-rawheight="737" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-39076f24dd32f49761798d315bba7b62_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic2.zhimg.com/50/v2-214303f27690369bc3211f4fc26eaf1e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>狸花猫不容易生病，它的肠胃比一般的猫都要好得多，毕竟人家是可以吃剩饭剩菜长大的，而且身体素质也更强，因为它经常活动跑来跑去的，如果外国品种的猫别说吃一顿，吃一点点可能都会拉肚子。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-8aefc9b33949f099bf6b49c417ddc31b_720w.jpg?source=54b3c3a5" data-rawwidth="414" data-rawheight="387" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-7ab161ab897c675f3415915d627ab56e_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic3.zhimg.com/50/v2-8aefc9b33949f099bf6b49c417ddc31b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>但是狸花猫没有外国品种的猫那么温顺，它的性格有点暴躁，它不喜欢粘人，也不喜欢和人玩耍，幼年的狸花猫不认识不熟悉的时候，极可能会抓你咬你。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-2f590d29e313bcefb08dffd0dacec9b6_720w.jpg?source=54b3c3a5" data-rawwidth="828" data-rawheight="828" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-dc472901551f3f35586263a5e127f8ca_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-2f590d29e313bcefb08dffd0dacec9b6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-2f590d29e313bcefb08dffd0dacec9b6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>它很独立但同时它又很依赖主人，对主人很忠诚，只要家里有一只狸花猫，家里可能再也不会有老鼠了，狸花猫简直就是老鼠的天敌。在农村很多狸花猫都担任着重大的责任，抓老鼠保护庄稼，还有帮忙守家。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-70a2f0ba7b2ddba26317f8887cc7c801_720w.jpg?source=54b3c3a5" data-rawwidth="414" data-rawheight="578" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b850deaf429875c4a540e5c838c0a7eb_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic4.zhimg.com/50/v2-70a2f0ba7b2ddba26317f8887cc7c801_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

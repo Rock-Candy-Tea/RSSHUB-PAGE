@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3326'
+headimg: 'https://picsum.photos/400/300?random=8205'
 author: 开源中国
 comments: false
-date: Sun, 13 Jun 2021 00:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3326'
+date: Sun, 13 Jun 2021 08:15:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8205'
 ---
 
 <div>   
@@ -22,26 +22,25 @@ thumbnail: 'https://picsum.photos/400/300?random=3326'
 <p>类数组（如 NodeList）在 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selectAll" target="_blank">d3.selectAll</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selection_selectAll" target="_blank">selection .selectAll</a> 中会被转换为数组。</p> 
 <p>以上是 D3 v7 的一些破坏性变化，非破坏性变化如下：</p> 
 <ul> 
- <li>Add <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23mode" target="_blank">d3.mode</a>.</li> 
- <li>Add <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23flatGroup" target="_blank">d3.flatGroup</a> and <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23flatRollup" target="_blank">d3.flatRollup</a>.</li> 
- <li>Add <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-transition%2Fblob%2Fmain%2FREADME.md%23selectChild" target="_blank"><em>transition</em>.selectChild</a>.</li> 
- <li>Add <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-transition%2Fblob%2Fmain%2FREADME.md%23selectChildren" target="_blank"><em>transition</em>.selectChildren</a>.</li> 
- <li>Adopt <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmourner%2Frobust-predicates" target="_blank">robust predicates</a> for <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-delaunay" target="_blank">Delaunay triangulation</a>.</li> 
- <li>Fix <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-delaunay%2Fblob%2Fmain%2FREADME.md%23delaunay_voronoi" target="_blank"><em>delaunay</em>.voronoi</a>’s computed circumcenters for collinear points on the hull.</li> 
- <li>Allow <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_move" target="_blank"><em>brush</em>.move</a> and <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_clear" target="_blank"><em>brush</em>.clear</a> to take an optional event.</li> 
- <li>Allow <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selection_merge" target="_blank"><em>selection</em>.merge</a> to take a transition.</li> 
- <li>Allow <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selection_join" target="_blank"><em>selection</em>.join</a> to take transitions.</li> 
- <li>Apply linear binning for <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-contour%2Fblob%2Fmain%2FREADME.md%23contourDensity" target="_blank">d3.contourDensity</a>.</li> 
- <li>Generate <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-contour%2Fblob%2Fmain%2FREADME.md%23contours_thresholds" target="_blank"><em>contours</em>.thresholds</a> at nicer round tick values.</li> 
- <li>Fix <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-axis%2Fblob%2Fmain%2FREADME.md%23axis_tickArguments" target="_blank"><em>axis</em>.tickArguments</a> to accept an iterable.</li> 
- <li>Fix <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-axis%2Fblob%2Fmain%2FREADME.md%23axis_tickValues" target="_blank"><em>axis</em>.tickValues</a> to accept an iterable.</li> 
- <li>Fix undefined <em>event</em> during <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_move" target="_blank"><em>brush</em>.move</a>.</li> 
- <li>Fix <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-drag" target="_blank">drag event listeners</a> to be explicitly non-passive where necessary.</li> 
- <li>Fix <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-zoom" target="_blank">zoom event listeners</a> to be explicitly non-passive where necessary.</li> 
- <li>Fix variable initialization error in d3-zoom.</li> 
- <li>Expose <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-zoom%2Fblob%2Fmain%2FREADME.md%23zoom-transforms" target="_blank">d3.ZoomTransform</a> constructor.</li> 
- <li>Update dependencies.</li> 
- <li>Make build reproducible.</li> 
+ <li>新增 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23mode" target="_blank">d3.mode</a></li> 
+ <li>新增 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23flatGroup" target="_blank">d3.flatGroup</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-array%2Fblob%2Fmain%2FREADME.md%23flatRollup" target="_blank">d3.flatRollup</a></li> 
+ <li>新增 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-transition%2Fblob%2Fmain%2FREADME.md%23selectChild" target="_blank"><em>transition</em>.selectChild</a></li> 
+ <li>新增 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-transition%2Fblob%2Fmain%2FREADME.md%23selectChildren" target="_blank"><em>transition</em>.selectChildren</a></li> 
+ <li>为 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-delaunay" target="_blank">Delaunay triangulation</a> 采用 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmourner%2Frobust-predicates" target="_blank">robust predicates</a></li> 
+ <li>修复 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-delaunay%2Fblob%2Fmain%2FREADME.md%23delaunay_voronoi" target="_blank"><em>delaunay</em>.voronoi</a> 计算出的船体共线点的外心</li> 
+ <li>允许 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_move" target="_blank"><em>brush</em>.move</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_clear" target="_blank"><em>brush</em>.clear</a> 接受可选事件</li> 
+ <li>允许 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selection_merge" target="_blank"><em>selection</em>.merge</a> 进行转化</li> 
+ <li>允许 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-selection%2Fblob%2Fmain%2FREADME.md%23selection_join" target="_blank"><em>selection</em>.join</a> 进行转换</li> 
+ <li>为 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-contour%2Fblob%2Fmain%2FREADME.md%23contourDensity" target="_blank">d3.contourDensity</a> 应用 linear binning</li> 
+ <li>以更好的圆形刻度值生成 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-contour%2Fblob%2Fmain%2FREADME.md%23contours_thresholds" target="_blank"><em>contours</em>.thresholds</a></li> 
+ <li>修复 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-axis%2Fblob%2Fmain%2FREADME.md%23axis_tickArguments" target="_blank"><em>axis</em>.tickArguments</a> 以接受可迭代对象</li> 
+ <li>修复 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-axis%2Fblob%2Fmain%2FREADME.md%23axis_tickValues" target="_blank"><em>axis</em>.tickValues</a> 以接受可迭代对象</li> 
+ <li>在 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-brush%2Fblob%2Fmain%2FREADME.md%23brush_move" target="_blank"><em>brush</em>.move</a> 期间修复未定义事件</li> 
+ <li>在必要时，将<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-drag" target="_blank">拖动事件侦听器</a>修复为显式非被动</li> 
+ <li>在必要时，将<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-zoom" target="_blank">缩放事件侦听器</a>修复为显式非被动</li> 
+ <li>修复 d3-zoom 中的变量初始化错误</li> 
+ <li>暴露 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3-zoom%2Fblob%2Fmain%2FREADME.md%23zoom-transforms" target="_blank">d3.ZoomTransform</a> 构造函数</li> 
+ <li>更新依赖项</li> 
 </ul> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fd3%2Fd3%2Freleases%2Ftag%2Fv7.0.0" target="_blank">详情查看 release note</a>。</p> 
 <p>D3 是数据可视化领域重要的 JavaScript 可视化库，它将强大的可视化交互技术与数据驱动 DOM 方法结合起来, 让你可以充分使用现代浏览器的强大能力自由地对数据进行可视化，在学术界、专业团队中享有极大声誉。</p> 
