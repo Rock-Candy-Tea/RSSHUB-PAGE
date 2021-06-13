@@ -15,7 +15,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210613/1623573083_4133
 <div>   
 <p style="text-indent:2em;">
 近日任天堂美国发推称任天堂夏季大促销（Nintendo
-Switch Digital Deals）将于北京时间16日凌晨两点开始。也是紧接着E3结束便开始促销，任天堂一般很少提前宣布促销时间，所以有可能这次促销有比较优惠的折扣吧。不过遗憾的是除此之外任天堂没有放出其他关于促销以及eshop商店的相关消息。
+Switch Digital Deals）将于北京时间16日凌晨两点开始，也是紧接着E3结束便开始促销，任天堂一般很少提前宣布促销时间，所以有可能这次促销有比较优惠的折扣吧。不过遗憾的是除此之外任天堂没有放出其他关于促销以及eshop商店的相关消息。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210613/1623573083_413300.jpg" alt="看完就来买 任天堂Switch夏季大促6月16日开始" referrerpolicy="no-referrer"> 
