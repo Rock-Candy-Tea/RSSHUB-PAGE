@@ -1,0 +1,18 @@
+
+---
+title: '埃里克森倒地后仍直播抢救画面，BBC发声明道歉！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc11_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 12 Jun 2021 22:10:35 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc11_1024.jpg'
+---
+
+<div>   
+<p>【环球网报道】12 日在丹麦哥本哈根进行的一场欧洲杯小组赛中出现惊险一幕：丹麦中场埃里克森在比赛中突然倒地昏迷，并在现场接受心肺复苏急救。不过事发当时，英国广播公司（BBC）并未选择掐断直播或者将画面转回演播室，而是继续转播埃里克森急救的画面。此事迅速引发外界不满，BBC 目前已就此事道歉。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc11_1024.jpg" data-height="370" data-width="552" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc11_1024.jpg" referrerpolicy="no-referrer"></div></div>（比赛现场抢救期间画面。）<p></p><p>据英国《每日邮报》报道，当埃里克森的队友在他周围围成一圈，他似乎正在接受心肺复苏时，BBC 继续播放这一令人痛心的场景，以及埃里克森妻子在场边的画面。</p><p>此事迅速引发外界关注，不少网友对此愤怒不已。</p><p>一位网友写道：" 可怕的场景，为克里斯蒂安 · 埃里克森祈祷。那些为队友围成一堵墙的丹麦球员做得很好，BBC 一直在播出这一场景，可耻！"</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60c590c38e9f096cb918cc12_1024.jpg" data-height="100" data-width="558" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c590c38e9f096cb918cc12_1024.jpg" referrerpolicy="no-referrer"></div></div>还有网友提到，"BBC 没有控制球场上的摄像机，但他们本可以，也应该这么做，更快地将画面切入演播室。在他接受心肺复苏术时，所有负责将镜头推进，拍摄埃里克森的面部以及他崩溃的妻子的人都应该立即被解雇。"<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202106/60c590c38e9f096cb918cc13_1024.jpg" data-height="150" data-width="558" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c590c38e9f096cb918cc13_1024.jpg" referrerpolicy="no-referrer"></div></div>也有网友表示，" 在埃里克森一动不动地躺着的时候，（BBC 的人员）推进镜头拍摄他的面部，然而又切换到场边他崩溃的妻子身上，BBC 有些问题要回答。"<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc14_1024.jpg" data-height="95" data-width="557" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc14_1024.jpg" referrerpolicy="no-referrer"></div></div>《每日邮报》提到，一些体育界知名人士也对 BBC 的做法提出批评。英甲罗奇代尔队前锋斯蒂芬 · 汉弗莱斯称，" 他们（BBC）本不应该这么做，但不幸的是，（如今的）媒体没有下限。"<p></p><p>在批评声中下，BBC 终于也发布了道歉声明。根据其官网上的声明，BBC 的一位发言人说："BBC 的每个人都希望克里斯蒂安 · 埃里克森能完全康复。我们向任何因播出画面而感到不安的人道歉。" 但发言人随后又把锅甩给了欧足联，声称 " 体育场的转播是由作为东道主转播机构的欧足联控制的，比赛一暂停，我们就尽快停止了报道。"</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc15_1024.jpg" data-height="268" data-width="557" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c590c38e9f096cb918cc15_1024.jpg" referrerpolicy="no-referrer"></div></div>（BBC 官网截图）<p></p><p>据此前报道，12 日在丹麦哥本哈根进行的这场欧锦赛小组赛中，在上半场比赛接近尾声时，埃里克森接边线球后在没有任何身体对抗的情况下突然倒地昏迷，在现场心肺复苏急救约 15 分钟后，埃里克森被护送离场，欧足联随后宣布比赛暂停。埃里克森被紧急转移到当地医院接受治疗，目前情况稳定。本场比赛在暂停近两个小时后继续进行。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
