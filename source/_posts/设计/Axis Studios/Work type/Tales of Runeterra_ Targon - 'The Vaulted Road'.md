@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14083/phse2_ep08_promo_stills_1058.-full.png'
 author: Axis Studios
 comments: false
-date: 2021-06-12 15:07:49
+date: 2021-06-13 00:24:35
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14083/phse2_ep08_promo_stills_1058.-full.png'
 ---
 

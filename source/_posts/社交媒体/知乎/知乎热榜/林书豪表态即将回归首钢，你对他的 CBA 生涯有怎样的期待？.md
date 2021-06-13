@@ -1,0 +1,18 @@
+
+---
+title: '林书豪表态即将回归首钢，你对他的 CBA 生涯有怎样的期待？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-934193d7580fe8f842cc12e23254011f_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 12 Jun 2021 14:36:45 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-934193d7580fe8f842cc12e23254011f_1440w.jpg'
+---
+
+<div>   
+诚言SIR的回答<br><br><p>我第一时间联系到几个接近书豪的朋友，他们告诉我：</p><p><b>——书豪的回归，大概是在NBA临近季后赛时决定的。</b></p><p><b>——美国的追梦之旅，并不顺利，他挺失望又难过。</b></p><p><b>——北京队一直和林书豪保持联系，主要是几个球员和秦晓雯（俱乐部董事长），消息保密性高，很多工作人员也是今天才知道书豪要回CBA。</b></p><p>从一个球迷的角度看，我当然是高兴的，他的回归，让收视率低迷的CBA有了起色，更是让北京队有望再次回到两年前4强的水平。一个33岁球员的“再就业”，本身就让篮球故事结合着个人命运，变得无比曲折，又充满争议。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-934193d7580fe8f842cc12e23254011f_1440w.jpg" data-rawwidth="612" data-rawheight="743" data-size="normal" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-934193d7580fe8f842cc12e23254011f_r.jpg" referrerpolicy="no-referrer"></figure><p>书豪在33岁，再次回到大众的视野，我对他的篮球生涯充满了感慨。</p><p>一直围绕着他的，有两种声音——两种声音交错、矛盾，有时候让你很难分辨，到底哪个是真正的林书豪，他又在追求什么。</p><p>比如，我试着用两种方式来描述球员：</p><p><i>球员A，NBA生涯9年，巅峰时场均接近14.5分4板5助，常规赛生涯首发221场，拿过总冠军；也在CBA将球队带进过四强，差点将冠军广东队击败；后来在NBDL联赛打球时，高手如林，依旧得分榜第7。</i></p><p><i>球员B，生涯中有过重伤、有过赛季报销，如今已经告别NBA两个赛季；在CBA打球时，三分命中率不到34%，防守被针对；后来在NBDL打球时，得分榜前11个球员，唯独他没有进入NBA球探的选择范围。</i></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-8d99daa9696767ef5ca36c32a48e670a_1440w.jpg" data-rawwidth="1080" data-rawheight="711" data-size="normal" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8d99daa9696767ef5ca36c32a48e670a_r.jpg" referrerpolicy="no-referrer"></figure><p>当然，两个球员都是林书豪，<b>前者追梦，带队成绩和个人数据优异，舍弃大合同，只为再次登上NBA的舞台；后者坎坷，江河日下，似乎表现不再被重视。</b></p><p>这次回到CBA，大家又都怎么认知林书豪这个球员呢？</p><p>一种声音是——<b>他不应该回来。</b></p><p>从他在圣克鲁兹勇士队的表现来看，场均接近20分3板6.5助，三分达到42.6%，已经是“一个非常顶尖的篮球运动员”了，他依然有实力在世界上的任何联赛打球，他为什么要回来呢？</p><p>没有人会认为CBA的水平好于NBDL，他如果一直在美国打下去，说不定有机会再次进入NBA，他不应该回来，应该去追梦。</p><p><b>纵使他已经33岁，在NBDL得分榜前11位里面，年纪最大。</b></p><p>另一种声音是——<b>他应该回来。</b></p><p>我听到过一些说法“林书豪代表中国篮球的实力”“林书豪无球可打才回来”充斥在网络上，有争议，有祝福，也有谩骂。</p><p>从我所知道的信息来看，首先书豪确实是“美国国籍”，<b>但曾经也试图成为中国队的归化球员</b>（碍于一些因素没成行），他在CBA无法做到像大众认知的“小外援打法”，但有他在的北京队，你能明显感受到更上一个层次的化学反应。</p><p>所以，与其讨论”他应不应该回来“，我更想说的是，<b>期待他的下一个赛季。</b></p><p>是啊，33岁，如果一个在职场已经这个岁数的“中年人”，恐怕面临择业时不会像他这么纠结，哪里钱多就去哪里，为了工作，也为了生活。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a2eb63e75f5477b37a67e4ce12a3f113_1440w.jpg" data-rawwidth="497" data-rawheight="641" data-size="normal" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a2eb63e75f5477b37a67e4ce12a3f113_r.jpg" referrerpolicy="no-referrer"></figure><p>在NBA度过一个“角色重要程度不高”的赛季，来到CBA，又在CBA势头最好的时候，远赴NBDL，从新开始。</p><p><b>你仿佛能在他身上看到命运的拧巴</b>，<b>以及他坦言的“心理障碍”，</b>他热爱篮球，渴望保持在高水平的平台，但现实又是无奈的，刻板印象、偏见和行业内对年龄的天然抵触，让他在NBA无球可打。</p><p><b>他逐渐开始认命</b>，自己可能无法再打NBA。在NBDL，他尝试过，蛰伏过，结果跟他期望的差距很远，那个梦想终究只是梦，虽然他曾经梦想照进现实。</p><p><b>——认命，但还是相信自己。</b></p><p>回到CBA，你可以理解为林书豪“向现实妥协”，谁又不是呢，活到三十多岁，许多人已经看开，自己该怎么选择。相信自己还能为球队带来好的表现，相信自己还是最好的球员之一。</p><p>多一个CBA冠军，少一个CBA冠军，不影响林书豪在我心目中的评价，那个隐忍、倔强、不屈、拿起又放下的球员。</p><p>如果，林书豪最终在中国退役他的篮球生涯，我依然认为，他的篮球生涯足够圆满。</p><p><b>不需要向任何人证明，管他们怎么说。</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ec2752a11bff0f0a0e62849616ca12d7_1440w.jpg" data-rawwidth="1080" data-rawheight="1623" data-size="normal" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ec2752a11bff0f0a0e62849616ca12d7_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
