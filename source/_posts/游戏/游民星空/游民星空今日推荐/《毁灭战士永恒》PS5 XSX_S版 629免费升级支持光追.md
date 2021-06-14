@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游民星空
  - 游民星空今日推荐
-headimg: 'https://picsum.photos/400/300?random=3840'
+headimg: 'https://picsum.photos/400/300?random=828'
 author: 游民星空
 comments: false
 date: Mon, 14 Jun 2021 13:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3840'
+thumbnail: 'https://picsum.photos/400/300?random=828'
 ---
 
 <div>   
