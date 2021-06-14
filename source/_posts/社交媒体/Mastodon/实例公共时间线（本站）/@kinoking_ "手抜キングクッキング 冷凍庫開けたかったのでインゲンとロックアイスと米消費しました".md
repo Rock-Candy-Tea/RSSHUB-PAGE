@@ -1,0 +1,23 @@
+
+---
+title: '@kinoking_ "
+
+#手抜キングクッキング
+ 
+冷凍庫開けたかったのでインゲンとロックアイスと米消費しました
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/036/744/808/original/b82f9bc7458b7d9f.png'
+author: Mastodon
+comments: false
+date: Mon, 14 Jun 2021 02:53:39 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/036/744/808/original/b82f9bc7458b7d9f.png'
+---
+
+<div>   
+<hr><p><a href="https://pawoo.net/tags/%E6%89%8B%E6%8A%9C%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0" class="mention hashtag" rel="tag">#手抜キングクッキング</a> <br>冷凍庫開けたかったのでインゲンとロックアイスと米消費しました</p><br><img src="https://img.pawoo.net/media_attachments/files/036/744/808/original/b82f9bc7458b7d9f.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
