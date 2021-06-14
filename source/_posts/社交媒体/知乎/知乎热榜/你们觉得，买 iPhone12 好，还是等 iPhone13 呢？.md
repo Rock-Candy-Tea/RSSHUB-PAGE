@@ -1,0 +1,18 @@
+
+---
+title: '你们觉得，买 iPhone12 好，还是等 iPhone13 呢？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-c2b60201f3fb34722b31fff9692376cf_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 14 Jun 2021 03:19:19 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-c2b60201f3fb34722b31fff9692376cf_1440w.jpg'
+---
+
+<div>   
+飘来荡去的回答<br><br><h2>先说说我的看法：</h2><p>买iPhone12还是等iPhone13，无非是早买早享受还是晚买享……晚买也没折扣！我更建议的还是选择前者，如果还是犹豫，不妨看看iPhone12的实际体验和iPhone13的升级之处再做决定。</p><blockquote>618无门槛红包记得来一个：</blockquote><h2><b>iPhone12的实际体验：</b></h2><p>实际体验篇幅还蛮长的，就不在这里多说了，需要的朋友请移步：</p><p><a href="https://www.zhihu.com/question/427120473/answer/1540494498" class="internal">iPhone 12 真实消费者体验如何？是否值得购买？</a></p><h2>iPhone13的升级之处：</h2><p><b>产品线：</b></p><p>iPhone13仍然是<b>小杯、中杯、大杯、超大杯</b>的组合，屏幕尺寸与iPhone12系列保持一致，分别为<b>5.4寸、6.1寸、6.1寸、6.7寸</b>。</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-c2b60201f3fb34722b31fff9692376cf_1440w.jpg" data-rawwidth="1236" data-rawheight="853" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c2b60201f3fb34722b31fff9692376cf_r.jpg" referrerpolicy="no-referrer"><figcaption>网图，侵删</figcaption></figure><p><b>外观：</b></p><p>刘海缩小，宽度缩窄近<b>8mm</b>,高度缩减<b>0.05mm</b>。</p><p>机身厚度相比iPhone12增加了<b>0.26mm</b>左右,大概率是升级了电池容量。</p><p>两款低配机型将提供新配色：古铜色、淡粉色。</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-5c83b1c8965948b4ab225b92626fca65_1440w.jpg" data-rawwidth="1924" data-rawheight="979" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-5c83b1c8965948b4ab225b92626fca65_r.jpg" referrerpolicy="no-referrer"><figcaption>网图，侵删</figcaption></figure><p><b>屏幕</b>：</p><p>Pro系列将搭载最高支持<b>120hz</b>的LTPO屏幕。</p><p>而两款低配机型大概率仍然是<b>60hz。</b></p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-859d7e7ab1dbf7dd7af5384b932023b0_1440w.jpg" data-rawwidth="1476" data-rawheight="723" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-859d7e7ab1dbf7dd7af5384b932023b0_r.jpg" referrerpolicy="no-referrer"><figcaption>网图，侵删</figcaption></figure><p><b>摄像头：</b></p><p>后置镜头模组厚度有所增加，传感器尺寸大概率是更大了。</p><p>摄像头的排布有所改变，从垂直排列变成了对角线式排列，可能这一改动也与传感器尺寸增加有关。</p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-0d3c2f830d140b31a5e129b14f05fb93_1440w.jpg" data-rawwidth="1227" data-rawheight="825" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0d3c2f830d140b31a5e129b14f05fb93_r.jpg" referrerpolicy="no-referrer"><figcaption>网图，侵删</figcaption></figure><p><b>电池：</b></p><p>6.7寸iPhone13电池容量将升级至4352mah，对比超大杯iPhone12：3687mah。</p><p>6.1寸iPhone13电池容量将升级至3095mah，对比iPhone12Pro：2815mah，iPhone12：2775mah。</p><p>5.4寸iPhone13电池容量将升级至2406mah，对比iPhone12mini：2227mah。</p><p>爆料没说的是，充电功率的升级~</p><p>因为以超大杯iPhone13的电池容量，20W的充电功率只能非常勉强的实现30分钟充50%的宣传，个人猜测iPhone13的充电功率将会有所提升。</p><p><b>存储：</b></p><p>两款低配机型起步存储容量提升至128GB。</p><p>Pro系列最高将提供1TB存储版本。</p><p><b>价格：</b></p><p>如果不出意外，iPhone13系列的价格会与iPhone12系列的首发价基本持平~</p><p>至于是不是“十三香”？</p><p>难道大家没发现iPhone是“<b>隔半代香</b>”吗？</p><p>2020年618，iPhone12快发布的时候，iPhone11卖爆了。</p><p>2021年618，iPhone13快发布的时候，iPhone12卖爆了。</p><p>降价的诱惑还是很大滴。</p><p>而iPhone13的首发价与iPhone12不会拉开太大的差距，发布之后又将会：</p><blockquote>iPhone13性价比高吗？ iPhone13发布了，我是买iPhone12呢，还是买iPhone13呢？ iPhone13双十一大约会降到多少？</blockquote><p>如果觉得iPhone13的这个升级幅度值得自己用iPhone12的首发价购入，而且自己目前的手机还能凑合两三个月，那可以选择等一波iPhone13。</p><p>不过既然选择等，就要做好原价购入的准备，毕竟iPhone12和iPhone11在发布当年的双十一也是没有优惠的。</p><p>不然的话，趁着618活动期间，近期低价入手iPhone12可能更合适一些。</p>  
+</div>
+            
