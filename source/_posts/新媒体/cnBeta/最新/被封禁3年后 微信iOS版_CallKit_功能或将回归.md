@@ -1,0 +1,19 @@
+
+---
+title: '被封禁3年后 微信iOS版_CallKit_功能或将回归'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0614/53b330e7928a6df.png'
+author: cnBeta
+comments: false
+date: Mon, 14 Jun 2021 08:47:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0614/53b330e7928a6df.png'
+---
+
+<div>   
+近日，据部分 iOS 用户反馈，微信正在内测一些新功能，其中包括了一项三年前消失的“语音通话用系统电话接听”功能。目前，此项功能还处于灰度测试阶段，仅面向部分 iOS 版微信 8.0.6 或 8.0.7 以上用户开启。<br>
+ <p><strong>三年前就曾出现的“新”功能</strong></p><p>基于“语音通话用系统电话接听”功能，用户可以在锁屏界面接听微信语音通话，就像打电话一样直接接听。</p><p>另外，微信的通话也会被记录在语音通话记录中，点击记录可跳转到微信上进行回拨。</p><p>目前，这一功能仅面向部分用户开放测试，用户可进入“微信 > 我 > 设置 > 新消息通知”，查看菜单中是否出现“语音通话用系统电话接听”一项进行判断是否在测试范围内。</p><p>值得一提的是，除了“语音通话用系统电话接听”功能，近期微信还优化了转账功能，用户能够在群聊中向单个群友直接转账——点击聊天框上的“+”，点击转账一项后即可选择收款方，无需再次添加好友。</p><p>事实上，“语音通话用系统电话接听”功能早在微信 6.6.0 版本就曾出现过。当时，微信基于<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>在 iOS 10 上推出的 CallKit 进行适配，微信语音与运营商通话功能无异。</p><p>不仅如此，CallKit 支持蓝牙控制和 CarPlay，用户在开车时直接能够直接通过蓝牙耳机或 CarPlay 接听微信来电，无需跳转至微信应用内。</p><p>不过，这一功能在推出不久后，便遭到下架。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0614/53b330e7928a6df.png"><img data-original="https://static.cnbetacdn.com/article/2021/0614/53b330e7928a6df.png" src="https://static.cnbetacdn.com/thumb/article/2021/0614/53b330e7928a6df.png" referrerpolicy="no-referrer"></a></p><p>彼时，苹果发布声明表示，应中国工信部要求，CallKit 功能必须在中国区 App Store 的所有应用程序中关闭，如果开发者的应用程序目前包含有 CallKit 功能，则需要提交一个更新并删除该功能。</p><p>此后，CallKit 在中国地区便成为历史。</p><p>而此次微信正在内测“语音通话用系统电话接听”功能，或许也意味着苹果“CallKit”功能即将回归。</p><p>对此，有观点指出，如果“语音通话用系统电话接听”功能回归，则微信与运营商之间或将有一场“新”战事展开。</p><p>事实上，自微信推出以来，运营商和微信之间始终存在着一种微妙的关系。</p><p>微信推出初期，曾与<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-600733.html" target="_blank">中国移动</a>的飞信有过竞争，之后的结果也不难得知——微信逐渐成为国民级应用，而飞信则是节节败退。再往后，随着微信的不断壮大，三大运营商沦为“管道式”存在，帮助连接了微信与用户。</p><p>近年来，三大运营商不断走向联合，尤其在 5G 到来之时，运营商们开始共同部署“5G 消息”业务，这被外界视为“微信最大竞争者”。</p><p><strong>三大运营商反攻</strong></p><p>2020 年 4 月 8 日，三大运营商发布了《5G 消息白皮书》，推出“5G 消息”业务——这是运营商的一种基础电信服务，基于短信业务进行升级。</p><p>相对于传统短信，5G 消息的升级之处在于 RCS （Rich Communication Services & Suite，富媒体通信服务，简称 RCS）。RCS 是新一代消息服务国际标准，基于此打造的信息服务平台可以让“信息即平台、用户即客户、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>即应用”成为现实。</p><p>5G 消息的业务主要包含两大方面——一类是个人用户和个人用户之间交互的消息（包括点对点消息、群发消息和群聊消息）；另一类是行业客户与个人用户之间交互的消息。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0614/67bcd8a9b9b37ab.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0614/67bcd8a9b9b37ab.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0614/67bcd8a9b9b37ab.jpg" referrerpolicy="no-referrer"></a></p><p>分别来看：</p><p>对个人用户而言，5G 消息将打破传统短信对每条信息 140 字节文本的形式，内容方面也将突破文字局限，实现文字、图片、音频、视频、位置、文件传输等多种富媒体信息的融合。</p><p>对企业而言，5G 消息将为其提供与个人用户之间的信息交互接口，企业可以通过富媒体方式向用户输出个性化服务与咨询，例如机票酒店预订查询、物流查询、网购订单查询等。</p><p>另外，用户在消息窗口还可以实现搜索、交互、分享和支付等一站式业务体验。简而言之，当下用户在微信上能够操作的大部分功能，在 5G 消息中也能够实现。</p><p>值得一提的是，5G 消息自发布之时，包括中兴、<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=450&euid=&t=http%3A%2F%2Fwww.mi.com%2F" target="_blank">小米</a>、OV 在内的 11 家终端厂商也积极表态支持。</p><p>当时有舆论认为，5G 消息其实是三大运营商向微信发起的一次围攻，甚至有说法认为 5G 消息是运营商们的一次“复仇”，以夺回被抢去的语音和短信收入。</p><p>对此，中国联通独立董事吕廷杰曾在采访中指出，5G 消息并不能完全替代微信，但可以做一些差异化的功能，以解决微信解决不了的痛点，社交平台可能会更社交化，而具体的行业应用可能会运行到 5G 消息上去。</p><p>尽管舆论观点有些言过其实，但一定程度上，这也反应出微信与运营商之间的既竞争又合作的关系，而无论是微信重推“语音通话用系统电话接听”功能，还是三大运营商推出“5G 消息”，其实都是在彼此固守的领地上相互试探。</p><p>最终战事将如何展开，还将取决于双方进攻的姿态。</p>   
+</div>
+            
