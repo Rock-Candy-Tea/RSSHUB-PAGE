@@ -1,0 +1,18 @@
+
+---
+title: 'YouTube收益如何？和B站比哪個更高？'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/79e1aa54-eda5-40e2-baab-3a865125c371.png'
+author: Matters
+comments: false
+date: Sun, 13 Jun 2021 01:57:39 GMT
+thumbnail: 'https://assets.matters.news/embed/79e1aa54-eda5-40e2-baab-3a865125c371.png'
+---
+
+<div>   
+<p>去年年中開通了B站，年底開了YouTube，前者花了三個月才開通激勵計劃，後者只花了一個月就達到廣告分成門檻 - 1000粉絲＋4000小時的播放量，說實在，我並不清楚原因，但我有根據B站的播放次數經驗而調整了上傳視頻的順序，有些播放量特別低的視頻我也捨棄了。</p><p>要問哪個收入較高，單純以收益計算，誰都能回答你是YouTube比較高，但如果看的不是冰冷的數字，而是實際的體驗的話，那對不起，對我個人而言還是YouTube比較高，原因除了分成比例，依視頻長度可分的廣告次數外，還有幾個奇怪的現象，但這可能是因人而易，僅供參考。</p><p>如果要在這類平台上分錢，你首先要製造一個以上的爆款視頻，爆款視頻我看很多youtuber 都是從自己特殊的人生經歷或擅長的事物著手，否則可能沒等到分成那天你就撐不住放棄了，但是接下來兩個站的不同點和相同點，如果在製作視頻時不參考，也會影響你的整體收入。</p><p>首先有趣的是，我在B站和YouTube播放量最高的居然是同個視頻：</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/rabz-T-h6OA?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p>當然SEO也有很大的幫助，像我這個視頻拉來了很多搜索拉斯維加斯或從其他介紹拉斯維加斯頻道過來的viewer。</p><p>而其他視頻的受歡迎程度在兩個平台略有不同，在YouTube播放高的視頻在B站的播放量一定也高，在YouTube播放量低的視頻在B站也一定偏低，但在B站播放量很高的視頻到了YouTube 卻未必吃香，甚至播放量的差距極大，這個部份有可能是地域偏好的原因，所以建議不用同時開通，可以先打其中一個，有了經驗值後，另一個平台會更容易攻克第一道門檻。</p><p>再來是很重要的，也是我認為做YouTube 比較有盼頭的原因之一。</p><p>我在B站累績了七千多粉絲，YouTube 不到二千粉後，因為太忙而停更，沒想到這一停就是三個多月，直到昨天才上傳新視頻，這一段時間，一些「有趣」的情況發生了。</p><p>一，B站持續掉粉，之所以還能維持沒掉下七千是因為知乎的引流，偶爾的增粉補上去了一點。與此同時，YouTube卻是持續漲粉，每月漲粉約四百直到昨天subscribers達到了3680。</p><figure class="image"><img src="https://assets.matters.news/embed/79e1aa54-eda5-40e2-baab-3a865125c371.png" data-asset-id="79e1aa54-eda5-40e2-baab-3a865125c371" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>二，播放量也很不一樣，過了前二天B站基本上就不動了，偶爾有那麼一兩個視頻會再被翻牌，但出現個位數增長的播放量後仍一片死寂，YouTube卻很像知乎，我較受歡迎的視頻會隔三差五的體驗到播放量猛漲一輪，粉絲也跟著有所增加，我在知乎的回答也是如此，有時甚至能帶給我日漲三百多粉，為期好幾天的紅利期。</p><p>三，再來是內容影響贊數，兩個平台也不同，這點可以從底下的評論看出兩邊觀眾的好惡也有所不同。</p><p>以我最新發的視頻為例，這其實是二個月前就拍好的，但我們一直沒時間做後期，這次上傳時，在B站頭幾個小時的播放量就有一千多，考量到我已三個多月沒發視頻，這個成績並不壞，不過贊數的比例卻很低，連百贊都破不了，而YouTube的播放量只有B站的十分之一，贊數卻是B站的三分之一。</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/E9B46LkGOI4?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p>再看底下的評論，雖然我的稿件說了特斯拉是偉大的科學家之一，但B站還是有評論較真是不是最偉大的，或是不是科學家，也有的就是反特斯拉，不排除看到標題就點倒贊的人數比之前多，才會導至二千的播放量卻再也衝不上去的可能性，因為之前我有2、3次經驗是前一晚衝到幾百播放量而已，卻在隔天起床時看到播放量突然瘋漲至破萬。</p><p>YouTube 的話，上述皆不是問題，焦點完全放在視頻本身的好壞，不過YouTube 的互動不高，評論比例相對於B站要低很多。</p><p>四，另一個現象是，我在B站起來後（第一個破萬播放量視頻出現後），之後的每只視頻的播放量都有幾萬，卻在突然改變類型時急速下滑至一千多，當然也有可能是該視頻不夠吸引人，但之後的每個視頻都是一落千丈，反觀YouTube卻沒什麼區別，播放量甚至還呈現出倒吃甘蔗的現象。</p><p>若要問兩者收益的話，以我為例，目前在YouTube 每個月平均能分到100～130usd（需扣30％稅金），B站我總共拿到手應該不超過 1500人民幣，其中有一個6百多還是因為參加了什麼活動分到的獎金，但我上傳到B站的視頻卻比YouTube多很多。</p><p>另外接廣告的部份，我在B站很快就有廣告邀約，但都是醫美，我不接醫美廣告，談都沒談，所以也不知道能有多少錢，但YouTube也有廣告邀約，不過目前我還沒接到過，等有邀約了再補充這部份。</p><p>綜合上述，我覺得長遠來看，YouTube的投資報酬率還是比B站高很多，如果能把剛才的差異性都考量進去，稍做調整，那麼對播放量應該也有不小的幫助。</p><p>最後吐嘈一下知乎，我在知乎有105000粉絲，創作等級八級。視頻收益雖然是這半年才開啓的，但也低的離譜，累計收益（包括但不限於視頻收益）一百都不到。</p><figure class="image"><img src="https://assets.matters.news/embed/8fc1e829-7c7d-4a6c-834c-8b4967a1e0f1.png" data-asset-id="8fc1e829-7c7d-4a6c-834c-8b4967a1e0f1" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p><br></p>  
+</div>
+            
