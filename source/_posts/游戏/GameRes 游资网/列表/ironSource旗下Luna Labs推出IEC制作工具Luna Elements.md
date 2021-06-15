@@ -14,8 +14,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze06
 
 <div>   
 <table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2500471">
-互动落地页（IEC）模板让游戏开发者能以前所未有的速度制作互动广告；通过推出Luna Elements，ironSource继续帮助各种规模的游戏工作室简化和强化开发流程<br>
-<br>
+<div align="center"><strong>互动落地页（IEC）模板让游戏开发者能以前所未有的速度制作互动广告；通过推出Luna Elements，ironSource继续帮助各种规模的游戏工作室简化和强化开发流程</strong></div><br>
 英国伦敦，2021年6月10日——应用经济领域全球领先的商业平台ironSource宣布，旗下的广告创意素材管理解决方案Luna Labs推出了全新产品Luna Elements。Luna Elements让游戏工作室只需要几分钟的时间就能打造出可玩性高的互动体验，而不需要任何开发方面的专业知识或资源。这一产品扩展了Luna Labs拥有的广告创意素材管理产品，是Luna Playable的补充，后者已被众多工作室用于打造丰富的广告体验。Luna Elements还进一步支持ironSource产品套件，帮助开发者通过应用程序实现商业成功。<br>
 <br>
 Luna Labs拥有的技术让应用程序开发者们能以惊人的速度和规模制作、管理和优化试玩广告和视频广告。现在，Luna Labs从数以千计的有着最出色表现的广告创意素材中吸取了经验，并对这些素材进行精炼，打造了一个互动落地页(IEC)模板库，让游戏工作室无需处理代码就能立刻制作、轻松迭代和快速测试大量的高质量互动广告。Luna Elements可与每家工作室现有的试玩广告策略同时运作，使其能进一步地提升创意产出并最大限度地提高广告表现。<br>
