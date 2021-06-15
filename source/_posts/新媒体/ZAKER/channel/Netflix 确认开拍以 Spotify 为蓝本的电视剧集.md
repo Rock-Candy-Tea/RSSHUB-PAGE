@@ -1,0 +1,18 @@
+
+---
+title: 'Netflix 确认开拍以 Spotify 为蓝本的电视剧集'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c83bb1622768b333000000_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 14 Jun 2021 23:08:45 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c83bb1622768b333000000_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60c83bb1622768b333000000_1024.jpg" data-height="1108" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c83bb1622768b333000000_1024.jpg" referrerpolicy="no-referrer"></div></div>Spotify CEO Daniel Ek speaks during a press event in New York May 20, 2015. Spotify, which provides free on-demand music or ad-free tunes for paying customers, said it will now also provide video content and podcasts. REUTERS/Shannon Stapleton - GF10000101665<p></p><p>企业发迹史的戏剧性十足，不少剧本都以此为蓝本，像是《The Social Network》（社交网络）、《Succession》（继承之战），Apple TV+ 也著手准备以 <a class="link rapid-noclick-resp" href="http://iphone.myzaker.com/zaker/link.php?pk=60c83c127f780b241e000005&b=aHR0cHM6Ly93d3cuZW5nYWRnZXQuY29tL2FwcGxlLXR2LXBsdXMtd2VjcmFzaGVkLXNlcmllcy0xOTAxMzQ0NjguaHRtbA==&bcode=8abb72b3&target=_new" data-ylk="slk:WeWork" target="_blank">WeWork</a> 故事为背景的作品。对于原创剧本非常渴求的 Netflix，自然也会希望开拍一个，这串流影片平台<a class="link rapid-noclick-resp" href="http://iphone.myzaker.com/zaker/link.php?pk=60c83c127f780b241e000005&b=aHR0cHM6Ly9hYm91dC5uZXRmbGl4LmNvbS9lbi9uZXdzL2VkdmluLWVuZHJlLXVsZi1zdGVuYmVyZy1naXplbS1lcmRvZ2FuLWpvZWwtbHVldHpvdy1hbmQtY2hyaXN0aWFuLWhpbGxib3Jn&bcode=1d6a0d7a&target=_new" data-ylk="slk: 宣佈 " target="_blank">宣佈</a>，他们将会开拍一套以 Spotify 和其两名创办人 Daniel Ek 和 Martin Lorentzon 的故事为蓝本的「虚构」电视剧集，预计 2022 年就会上映。</p><p>来自瑞典的小企业如何摇身一变，成为全球领先的串流音乐平台，进以与 Apple 等的科技巨擘<a class="link rapid-noclick-resp" href="http://iphone.myzaker.com/zaker/link.php?pk=60c83c127f780b241e000005&b=aHR0cHM6Ly9jbi5lbmdhZGdldC5jb20vYXBwbGUtc3BvdGlmeS1hbnRpdHJ1c3Qtc3RhdGVtZW50LXdhdGNoLWV2ZW50LTA3MDAyMDc2My5odG1s&bcode=2757005b&target=_new" data-ylk="slk: 对抗 " target="_blank">对抗</a>，如此题材自然能吸引观众吧。选角方面已经敲定，全部都会起用瑞典演员：曾参与《维京》的 Edvin Endre 会饰演 Daniel Ek；环球唱片的瑞典总经理兼 Spotify 早期支持者 Per Sundin 就会是由 Ulf Stenberg 饰演；创建 Spotify 今天免费使用架构的 Petra Hansson 就是由 Gizem Erdogan 饰演；前 Spotify CTO Andreas Ehn 一角的演员就是 Joel Lützow；曾参演《最后的王国》（The Last Kingdom） Christian Hillborg 就会是饰演另一位 Spotify 创办人 Martin Lorentzon。</p><p>然而曾在讲述 Facebook 早前故事的电影《The Social Network》中，由 Justin Timberlake 出演的角色 Sean Parker 就似乎未有出现在角色名单上。会提及这名字是因为他是 Spotify 的其中一名早期投资者，对于故事发展都有相当的重要性。</p><p>Netflix 表示整套剧本是由《Spotify Untold》一书为蓝本，并形容两名作者 Sven Carlsson 和 Jonas Leijonhufvud 把 Spotify 的掘起、对抗 Apple 的故事都写得极具电影感，节奏紧张之外也不乏深刻的描述，当中一幕更是 Ek 与 Steve Jobs 通电话时感到威胁的场口。</p><p>对于 Spotify 故事的改编剧，Netflix 很小心地强调故事都是「虚构」而来，似乎是为了避免再发生《王冠 / The Crown》的情节被英国保守党<a class="link rapid-noclick-resp" href="http://iphone.myzaker.com/zaker/link.php?pk=60c83c127f780b241e000005&b=aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3R2LWFuZC1yYWRpby8yMDIwL2RlYy8wNi9uZXRmbGl4LWhhcy1uby1wbGFucy10by1hZGQtZGlzY2xhaW1lci10aGF0LXRoZS1jcm93bi1pcy13b3JrLW9mLWZpY3Rpb24=&bcode=c76e55b1&target=_new" data-ylk="slk: 指责 " target="_blank">指责</a>的事件。不过作为观众，大概都会明白在改编剧中，不少情节都有被修饰和夸大，应该会有著自己的判断吧。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
