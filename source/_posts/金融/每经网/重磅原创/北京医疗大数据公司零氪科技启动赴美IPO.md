@@ -1,0 +1,97 @@
+
+---
+title: '北京医疗大数据公司零氪科技启动赴美IPO'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024026/01.jpg'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024026/01.jpg'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          北京医疗大数据公司零氪科技启动赴美IPO：获阿里健康战略投资，2020年净亏损近5亿元
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-06-15 12:43:12
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+        <div class="g-article-abstract" style="color:black">
+          <div class="m-abstractUp"></div>
+          <div class="m-abstractDown"></div>
+          <p>零氪科技招股书中显示，零氪科技的绝大部分收入来自药品和保健产品的销售。药品和保健品销售收入分别占公司2019年和2020年总收入的75%和85.5%。2019年、2020年，零氪科技营收分别为4.99亿元和9.42亿元，净亏损为4.34亿元和4.89亿元。</p>
+        </div>
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+          <p style="color:#6d6d6d;font-size: 16px;">
+            每经记者 蔡鼎    每经编辑 吴永久    
+          </p>
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p>北京时间6月15日凌晨，中国医疗大数据公司零氪科技（LinkDoc Technology Limited）向美国证券交易委员会（SEC）递交了首份F-1招股书，公司拟在纳斯达克全球精选市场挂牌，交易代码“LDOC”，筹资1亿美元。零氪科技此次IPO承销商为摩根士丹利、美银证券以及中金公司。由于是首份F-1招股书，零氪科技尚未披露拟发行的美国存托股票（ADS）数量以及预计的发行价格区间。</p>
+<p>招股书显示，零氪科技拟将IPO募集资金：约45%用于加强研发能力及技术基础设施，并吸引更多肿瘤专家、数据科学家和其他经验丰富的专业人士加入；约15%用于扩大公司的患者护理中心网络和服务，以及其他资本支出；约25%资金用于进行潜在的策略性投资和收购；约15%将用于一般企业用途。</p>
+<h2>Q1药品和保健品销售占总营收超八成，2020年亏损扩大至近5亿元</h2>
+<p>招股书显示，零氪科技成立于2014年，总部位于中国北京，企业地址为北京市海淀区海淀大街8号，公司是一家肿瘤大数据解决方案提供商，今年3月曾获阿里健康战略投资，其他投资者包括中投公司和中金资本等。</p>
+<p>招股书援引Frost&Sullivan的数据称，在培育高质量医疗数据资产方面，零氪科技是一家领先的数据驱动和人工智能医疗技术公司，公司已经为精准医学建立了中国最大的数据驱动的数字基础设施，其中包括针对危重疾病患者的数字持续护理平台LinkCare，支持人工智能的纵向医疗数据管理系统LinkData，以及帮助生命科学公司加快临床研究和真实证据采用的数据驱动的精确生命科学解决方案平台LinkSolutions。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024026/01.jpg" alt data-imgscale="1.2179487179487178" data-imgwidth="475" data-imgheight="390" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：零氪科技招股书</p>
+<p>招股书中称，在护理平台LinkCare方面，零氪科技通过销售创新药物、辅助药物和营养药物，以及向患者提供输液或注射服务业和其他辅助业务来创造收入；LinkData则是零氪科技的核心技术平台和研发引擎，而非盈利渠道；LinkSolutions为一个由真实世界数据驱动的平台，在生命科学公司的临床和商业化阶段为其提供精确的生命科学解决方案。2021年一季度，零氪科技的生命科学公司客户数量为169家。截至2021年3月31日，零氪科技LinkSolutions服务支持了超过310名的主要研究人员，覆盖了2017年至2021年3月31日期间中国申请临床试验的获批新肿瘤学适应症总数的约57%。具体来看，零氪科技通过向综合临床研究服务收取服务费实现LinkSolutions的货币化。</p>
+<p>招股书中显示，零氪科技的绝大部分收入来自药品和保健产品的销售。药品和保健品销售收入分别占公司2019年和2020年总收入的75%和85.5%，占2021年第一季度总收入80.2%。</p>
+<p>招股书显示，自2015年4月以来，零氪科技已经累计为350多万名患者提供了护理，并为250多万名患者提供了纵向护理。据Frost&Sullivan，零氪科技已成为中国最大的以患者为中心的肿瘤持续护理平台。截至2021年3月31日，零氪科技在全国范围内建立了34个患者护理中心，范围覆盖全国28个省份。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024027/02.jpg" alt width="630" data-imgscale="2.7743055555555554" data-imgwidth="799" data-imgheight="288" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：零氪科技招股书</p>
+<p>招股书显示，2019年、2020年，零氪科技营收分别为4.99亿元和9.42亿元，净亏损为4.34亿元和4.89亿元，基本及摊薄每股亏损5.32元和6.59元。2021年一季度，公司营收同比增长41%至2.23亿元，净亏损1.38亿元，基本及摊薄每股亏损为1.76元。</p>
+<h2>今年3月获阿里健康战投，金额未披露</h2>
+<p>零氪科技在招股书中称，按2019年的数据计算，中国是全球第二大医疗市场，国民医疗支出为9440亿美元，比2015年增长9.7%。随着人们健康意识和个人可支配收入的提高，预计2030年中国医疗保健总支出将以9.4%的复合年均增长率增至25290亿美元。中国医疗大数据解决方案市场总规模正以43.9%的年复合增长率从2015年的10亿美元快速增长至2019年41亿美元，预计在2030年将达到2154亿美元，2019年到2030年的年复合增长率为43.3%。</p>
+<p>招股书还称，在中国所有的治疗领域中，肿瘤学在医疗支出方面的增长率最高，主要因为中国拥有全球最多的肿瘤患者。中国肿瘤大数据市场规模从2015年的5亿美元增长到2年的21亿美元，符合年均增长率为46.1%，预计到2030年将增长到1196亿美元，2019年~2030年的年均复合增长率为44.4%。</p>
+<p>招股书显示，截至2021年3月31日，零氪科技共有1250名全职员工，其中199人负责技术和研发、573人负责运营和质量保证、352人负责销售和营销、126人负责一般行政工作。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024028/03.jpg" alt data-imgscale="5.081081081081081" data-imgwidth="564" data-imgheight="111" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：零氪科技招股书</p>
+<p>招股书显示，IPO前，零氪科技CEO、董事张天泽持有公司6130万股，占比19.7%；零氪科技联合创始人、COO和CTO罗立刚持有900万股，占比2.9%；零氪科技联合创始人、执行副总裁李丽平持有1100万股，占比3.5%。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024029/04.jpg" alt width="630" data-imgscale="2.437869822485207" data-imgwidth="824" data-imgheight="338" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：零氪科技招股书</p>
+<p>启信宝信息显示，成立至今，零氪科技总共完成了六轮融资，2018年7月4日获中投公司10亿元D轮融资后，又在2020年9月7日获中金资本、优山资本和宽带资本CBC 7亿美元的融资。今年3月4日，零氪科技还获得阿里健康的战略投资，但融资金额未对外披露。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024030/05.jpg" alt width="630" data-imgscale="2.822950819672131" data-imgwidth="861" data-imgheight="305" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：启信宝</p>
+<p>《每日经济新闻》记者还注意到，启信宝对零氪科技的风险信息显示，公司曾分别在2019年5月15日和2020年11月23日因劳动争议和侵害作品信息网络传播权被起诉。其次，在2020年9月1日和12月1日，有两起针对零氪科技的知识产权权属侵权纠纷的民事案件裁判文书，文书显示，在两起纠纷案中，零氪科技均为被告。另外，张天泽、李丽平和罗立刚三人均有少量股份目前处于出质状态。</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1024031/06.jpg" alt width="630" data-imgscale="2.3213483146067415" data-imgwidth="1033" data-imgheight="445" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来源：启信宝</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+            <p style="color:#6d6d6d; font-size:small;">封面图片来源：摄图网</p>
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
