@@ -1,0 +1,19 @@
+
+---
+title: '惠普Omen 16笔记本上架百思买：搭载AMD Radeon RX 6600M独显'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0615/dd9ea4f704298cb.jpg'
+author: cnBeta
+comments: false
+date: Tue, 15 Jun 2021 03:21:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0615/dd9ea4f704298cb.jpg'
+---
+
+<div>   
+在 Radeon RX 6000M 系列游戏 GPU 发布会上，AMD 已经预告了首批搭载锐龙移动 CPU + Radeon 移动 GPU 的“Advantage”认证笔记本，其中包括了华硕 ROG Strix G15 和惠普 Omen 16 。<strong>最新消息是，知名连锁零售巨头百思买已经开售惠普 Omen 16 机型，价格为 1479.99 美元（约 9479 RMB）。</strong><br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0615/dd9ea4f704298cb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/dd9ea4f704298cb.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p>早些时候，WCCFTech 已经分享有关<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">华硕</a> ROG Strix G15（<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> Advantage）机型的详情，可知其相当适合于那些想要在旅途中尽享优质游戏体验的用户。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/0acc334ad0ebc0e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/0acc334ad0ebc0e.png" alt="0-2.png" referrerpolicy="no-referrer"></a></p><p>现在，作为另一款 AMD Advantage 认证笔记本，采用 AMD 锐龙 R7-5800H 移动处理器 + Radeon RX 6600M 移动 GPU 的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-1000000155.html" target="_blank">惠普</a> Omen 16 机型，或许也是一个相当不错的选择。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/ba238cfcda129d0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/ba238cfcda129d0.jpg" alt="1-1.jpg" referrerpolicy="no-referrer"></a></p><p>与非 AMD Advantage 机型相比，AMD 宣称认证机型可提供出色的游戏性能、优质的显示技术、以及更优的工作负载体验。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/9121d302fbaaf12.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/9121d302fbaaf12.jpg" alt="1-2.jpg" referrerpolicy="no-referrer"></a></p><p>除了快速的 NVMe <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a> 存储、以及增强的电池续航，你还可以在 AMD Advantage 认证笔记本上得到 Smartshift 和 Smart Access 等技术的加持。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/dbe8a1300811239.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/dbe8a1300811239.jpg" alt="1-3.jpg" referrerpolicy="no-referrer"></a></p><p>据悉，AMD Advantage 认证要求笔记本电脑厂商至少配备 1080p @ 144Hz 刷新率的屏幕，同时确保提供 100+ FPS 的畅快游戏体验。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/186247e79d1e337.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/186247e79d1e337.jpg" alt="2-1.jpg" referrerpolicy="no-referrer"></a></p><p>从百思买网页上公布的信息可知，惠普 Omen 16 配备了 8C / 16T 的锐龙 R7-5800H 处理器、16GB DDR4-3200 内存、1TB NVMe SSD、16.1 英寸 @ FHD 屏幕 / 超薄机身设计，满足了许多消费者对高端且轻便的游戏本的期待。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/683ad8e63707f49.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/683ad8e63707f49.jpg" alt="2-2.jpg" referrerpolicy="no-referrer"></a></p><p>至于 Navi 23 RDNA 2 GPU 本体，AMD 其实提供了面向消费级市场的 Radeon RX 6600M、以及面向移动工作站平台的 Radeon Pro W6600M 两个版本。</p><p>辅以 128-bit @ 8GB GDDR6 显存，32MB Infinity Cache 无限缓存，TGP 功耗为 100W 。不过早期看到的数据表明，其实际表现或略逊于竞争对手英伟达的 RTX 3060 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0615/14e96a22cf09882.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0615/14e96a22cf09882.jpg" alt="2-3.jpg" referrerpolicy="no-referrer"></a></p><p>最后，AMD 还宣布了另外三款搭载 RX 6000M 系列移动 GPU + 最高配备锐龙 R9-5900HX 高端移动 CPU 的笔记本电脑，有望向采用 Intel CPU + Nvidia GPU 的竞品发起更大的冲击。</p>   
+</div>
+            
