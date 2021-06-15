@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 author: 机核网
 comments: false
-date: 2021-06-15 00:22:49
+date: 2021-06-15 02:02:11
 thumbnail: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-6ff27" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="dtq5j-0-0"><div data-offset-key="dtq5j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dtq5j-0-0"><span data-text="true">在凌晨的 SE 线上发布会中，官方带来了《漫威银河护卫队》、《巴比伦陨落》、《奇异人生 本色》和《最终幻想 Origin：Stranger Of Paradise》等游戏的最新消息。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="6ff27" data-offset-key="3s5q1-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://www.taptap.com/video/1941100/embed?thumb=https%3A%2F%2Fimg2.tapimg.com%2Fbbcode%2Fimages%2F52c125d9fab2a10e0453a276edc9cb06.jpg"></iframe></div></div></div><div class="story_caption">全程发布会录像</div></figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="e27qk-0-0"><div data-offset-key="e27qk-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e27qk-0-0"><span data-text="true">《漫威银河护卫队》将于10月26日发售，登陆PS5、PS4、Xbox Series X/S、Xbox One、PC平台。宣传片BGM选用Bonnie Tyler演唱的《Holding Out For A Hero》。 ​​​​在游戏中我们还将面对小队成员互相拌嘴吵架或特殊的交互情况，我们可以选择来不同的话语或者行为来展开游戏。</span></span></div></div>
+<img src="https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-2tbsc" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="dtq5j-0-0"><div data-offset-key="dtq5j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dtq5j-0-0"><span data-text="true">在凌晨的 SE 线上发布会中，官方带来了《漫威银河护卫队》、《巴比伦陨落》、《奇异人生 本色》和《最终幻想 Origin：Stranger Of Paradise》等游戏的最新消息。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="2tbsc" data-offset-key="3s5q1-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://www.taptap.com/video/1941100/embed?thumb=https%3A%2F%2Fimg2.tapimg.com%2Fbbcode%2Fimages%2F52c125d9fab2a10e0453a276edc9cb06.jpg"></iframe></div></div></div><div class="story_caption">全程发布会录像</div></figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="e27qk-0-0"><div data-offset-key="e27qk-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e27qk-0-0"><span data-text="true">《漫威银河护卫队》将于10月26日发售，登陆PS5、PS4、Xbox Series X/S、Xbox One、PC平台。宣传片BGM选用Bonnie Tyler演唱的《Holding Out For A Hero》。 ​​​​在游戏中我们还将面对小队成员互相拌嘴吵架或特殊的交互情况，我们可以选择来不同的话语或者行为来展开游戏。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/35e7cd35-a9c8-47e6-9939-11db8f7423eb.jpg" alt referrerpolicy="no-referrer">
 
@@ -33,11 +33,11 @@ thumbnail: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 <figure>
 <img src="https://image.gcores.com/88b2b8e2-8741-4e60-bac8-6b1a4b5edb83.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="1ka1u-0-0"><div data-offset-key="1ka1u-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1ka1u-0-0"><span data-text="true">包含系列作品1~6的《最终幻想像素Remaster》将登陆Steam与移动端。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="1ka1u-0-0"><div data-offset-key="1ka1u-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1ka1u-0-0"><span data-text="true">包含系列作品1~6的《最终幻想像素Remaster》将登陆Steam与移动端。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/c62171b1-75ca-4896-ba8b-af4c72317b1d.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="ce6s7-0-0"><div data-offset-key="ce6s7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ce6s7-0-0"><span data-text="true">《巴比伦陨落》公布全新预告片，游戏宣布将登陆 PS5、PS4 与 PC 平台。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="ce6s7-0-0"><div data-offset-key="ce6s7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ce6s7-0-0"><span data-text="true">《巴比伦陨落》公布全新预告片，游戏宣布将登陆 PS5、PS4 与 PC 平台。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/083d62da-1e36-414b-8b82-2be61e8a8eb5.jpg" alt referrerpolicy="no-referrer">
 
@@ -53,11 +53,11 @@ thumbnail: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 <figure>
 <img src="https://image.gcores.com/b95eff3c-4a25-4710-acbf-096225bb6ebb.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="1hi9i-0-0"><div data-offset-key="1hi9i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1hi9i-0-0"><span data-text="true">《奇异人生 复刻版 合集》公布对比预告，游戏将于9月30日正式发售。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="1hi9i-0-0"><div data-offset-key="1hi9i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1hi9i-0-0"><span data-text="true">《奇异人生 复刻版 合集》公布对比预告，游戏将于9月30日正式发售。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/aa681062-ad77-401c-8f03-dd719f41b4b3.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="9r8is-0-0"><div data-offset-key="9r8is-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9r8is-0-0"><span data-text="true">《奇异人生 本色》公布最新预告片，游戏将于9月10日正式发售。主角Alex有能看见他人情感色彩的能力。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="9r8is-0-0"><div data-offset-key="9r8is-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9r8is-0-0"><span data-text="true">《奇异人生 本色》公布最新预告片，游戏将于9月10日正式发售。主角Alex有能看见他人情感色彩的能力。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/788b19b8-fb14-4766-9bbd-920e79df4f2c.jpg" alt referrerpolicy="no-referrer">
 
@@ -73,7 +73,7 @@ thumbnail: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 <figure>
 <img src="https://image.gcores.com/3bbe1e16-97a9-4844-8fc4-77e184e012d4.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="6ff27" data-offset-key="30gnh-0-0"><div data-offset-key="30gnh-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="30gnh-0-0"><span data-text="true">由 Team Ninja 与光荣特库摩联合开发的《最终幻想 Origin：Stranger Of Paradise》正式公布，游戏将于2022年登陆 Xbox Series X/S、Xbox One、PS5、PS4与PC。游戏试玩 Demo 现已登陆 PS5。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="2tbsc" data-offset-key="30gnh-0-0"><div data-offset-key="30gnh-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="30gnh-0-0"><span data-text="true">由 Team Ninja 与光荣特库摩联合开发的《最终幻想 Origin：Stranger Of Paradise》正式公布，游戏将于2022年登陆 Xbox Series X/S、Xbox One、PS5、PS4与PC。游戏试玩 Demo 现已登陆 PS5。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/e0879e79-262f-4c34-a4c7-338b802c6073.jpg" alt referrerpolicy="no-referrer">
 
@@ -97,6 +97,6 @@ thumbnail: 'https://image.gcores.com/9644f874-47de-4249-ab87-445009eb4597.jpg'
 <figure>
 <img src="https://image.gcores.com/dd51ec72-306f-4d8e-a8e1-b742bc71248e.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="6ff27" data-offset-key="vhjb-0-0"><div data-offset-key="vhjb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="vhjb-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="2tbsc" data-offset-key="vhjb-0-0"><div data-offset-key="vhjb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="vhjb-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
