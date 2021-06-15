@@ -5,17 +5,15 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/c46263bb220a4c8395e88ae6473e18f2.jpg'
+headimg: 'https://ucc.alicdn.com/pic/developer-ecology/a51b64859fb641aa8b682a49ee78d721.png'
 author: Dockone
 comments: false
-date: 2021-06-15 12:09:12
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/c46263bb220a4c8395e88ae6473e18f2.jpg'
+date: 2021-06-15 13:19:34
+thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/a51b64859fb641aa8b682a49ee78d721.png'
 ---
 
 <div>   
 <br>作者｜ 赵明山（立衡）<br>
-​<br>
-<img src="https://ucc.alicdn.com/pic/developer-ecology/c46263bb220a4c8395e88ae6473e18f2.jpg" alt="头图.jpg" referrerpolicy="no-referrer"><br>
 <br><h1>前言</h1>​<br>
 OpenKruise 是阿里云开源的云原生应用自动化管理套件，也是当前托管在 Cloud Native Computing Foundation ( CNCF ) 下的 Sandbox 项目。它来自阿里巴巴多年来容器化、云原生的技术沉淀，是阿里内部生产环境大规模应用的基于 Kubernetes 之上的标准扩展组件，也是紧贴上游社区标准、适应互联网规模化场景的技术理念与最佳实践。<br>
 ​<br>
@@ -146,9 +144,7 @@ if len(scms) > 0 &#123;<br>
 ​<br>
 - 热升级Migration Demo：_<a href="https://github.com/openkruise/samples_" rel="nofollow" target="_blank">https://github.com/openkruise/samples_</a><br>
 - Github：_<a href="https://github.com/openkruise/kruise_" rel="nofollow" target="_blank">https://github.com/openkruise/kruise_</a><br>
-- Official：_<a href="https://openkruise.io/_" rel="nofollow" target="_blank">https://openkruise.io/_</a><br>
-- 钉钉交流群：<br>
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/98e3fb67c6d74753aeae3ae6539fd7c1.png" alt="5-5.png" referrerpolicy="no-referrer">
+- Official：_<a href="https://openkruise.io/_" rel="nofollow" target="_blank">https://openkruise.io/_</a>
                                 
                                                               
 </div>
