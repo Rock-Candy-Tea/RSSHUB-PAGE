@@ -8,7 +8,7 @@ categories:
 headimg: 'https://sites.google.com/site/outlierseconomics/_/rsrc/1468857024760/outliersvocab/look_eng.PNG?height=263&width=400'
 author: Google Sites
 comments: false
-date: Tue, 15 Jun 2021 05:03:07 GMT
+date: Tue, 15 Jun 2021 06:06:46 GMT
 thumbnail: 'https://sites.google.com/site/outlierseconomics/_/rsrc/1468857024760/outliersvocab/look_eng.PNG?height=263&width=400'
 ---
 
