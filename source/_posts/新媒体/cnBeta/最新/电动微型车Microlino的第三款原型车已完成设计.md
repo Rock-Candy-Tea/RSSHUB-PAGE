@@ -1,0 +1,19 @@
+
+---
+title: '电动微型车Microlino的第三款原型车已完成设计'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/06/bb241455fffa5f0.jpg'
+author: cnBeta
+comments: false
+date: Tue, 15 Jun 2021 00:13:07 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/06/bb241455fffa5f0.jpg'
+---
+
+<div>   
+据外媒报道，<strong>Micro Mobility Systems AG的Microlino电动泡泡车的第三款原型车已经研发了5年多，原计划在2019年完全重新设计结束之前投产，现在已经完成。</strong>早在2月份，开发团队就分享了Microlino 2.0原型的测试视频并立即开始了第二个原型的开发工作。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/bb241455fffa5f0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/bb241455fffa5f0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">该项目于5月底完成，包括前置和后置LED灯条--后置灯条结合了制动、转向指示灯和位置灯，而横跨车辆前门的前置灯条则集成了位置照明和转向信号。聚光灯前照灯被安装在侧视镜的前面。</p><p style="text-align: left;">第三款原型车增加了一个完全重新设计的内部以及一个新的有趣添加物--折叠屋顶，这被认为是“非常接近系列版本的外观和内部设计。”</p><p style="text-align: left;">这款电动泡泡车的折叠式车顶基本上可以让它变成敞篷车，它将作为这款微型车的高级版标准车型或作为基础款车型的一个选择。它由Magna Car Top Systems开发，可让驾驶员和乘客在行驶时都能感受到微风。Microlino的开发人员表示，在汽车行驶时，它可以用一只手安全地操作。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/05cfa54b55f2e1c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/05cfa54b55f2e1c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Microlino没有外置门把手。车是用钥匙打开的，车灯下面有一个小按钮，按下它车门就会弹出。挡风玻璃下铝制杆上的一个按钮则从内部启动车门机制。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/d4ec31260a57416.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/d4ec31260a57416.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">现在车内配有两块显示屏，一个作为数字仪表组，其位于方向盘前面列的顶部，另一个则是一块小小的触摸显示器，其被安装在座位正前方的长条上，用来控制车辆功能如加热和出风等。智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>、蓝牙音箱和导航设备也可以安装在此处。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/68be659817567a2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/68be659817567a2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/ff87d53706920aa.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/ff87d53706920aa.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/86098a18d404d0b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/86098a18d404d0b.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在其他地方，还有双人座，侧窗向后一推可让一些空气进来。治愈性能规格外观方面则保持不变，这意味着将会有两个锂电池选项，其可汽车提供125公里或200公里的续航里程，11kW的马达最高可提供90km/h的速度，据报道，行李箱体积220升。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/da284e879e89275.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/da284e879e89275.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/f43ff9ed70d2655.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/f43ff9ed70d2655.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/06/1c70732b3104ccb.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/06/1c70732b3104ccb.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">随着第三款原型机的完成，该公司将进入前期开发阶段，最后两款原型机将在8月份获得欧盟类型的批准并在9月份正式投产。<br style="text-align: left;"></p><p style="text-align: left;">据悉，Micro Mobility Systems AG跟合作伙伴CECOMP成立了一家名为Microlino Italia的新公司，而汽车生产在意大利都灵La Loggia的工厂进行。</p>   
+</div>
+            

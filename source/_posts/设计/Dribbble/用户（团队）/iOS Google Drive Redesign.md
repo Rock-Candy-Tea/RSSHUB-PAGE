@@ -14,7 +14,7 @@ thumbnail: 'https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp
 
 <div>   
 <div class="media-content">
-      <img class="med-8x6" alt="iOS Google Drive Redesign" width="768" height="579" data-id="6220034" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 300w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 400w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 600w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 800w" src="https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" preload="true" referrerpolicy="no-referrer">
+      <img class="med-8x6" alt="iOS Google Drive Redesign" width="768" height="579" data-id="6220034" data-optimize-for-bots="true" skip_resize="true" srcset="https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 300w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 400w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 600w, https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif 800w" src="https://cdn.dribbble.com/users/185678/screenshots/6220034/final-comp_5.gif" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>
