@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/38972f785e47bfe317875e2f6a499e0d.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/8b8e139147b290eacc108240c906f866.jpg!custom'
 author: 煎蛋
 comments: false
 date: Tue, 15 Jun 2021 02:30:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/38972f785e47bfe317875e2f6a499e0d.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/8b8e139147b290eacc108240c906f866.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>“给SONY带货”不再只是玩梗。</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/38972f785e47bfe317875e2f6a499e0d.jpg!custom" referrerpolicy="no-referrer"><style type="text/css">
+<blockquote><p>“给SONY带货”不再只是玩梗。</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/8b8e139147b290eacc108240c906f866.jpg!custom" referrerpolicy="no-referrer"><style type="text/css">
 .goods &#123;float:left;padding:5px 3% 3px 3%;margin:0;text-align: left; width: 44%;height: auto;line-height:1.2em;&#125;
 .goods-pic img&#123;width: 100%;height: auto;&#125;
 .goods-title &#123;font-size: 14px; text-decoration: none;height:35px;overflow-y:hidden;font-weight:bold;&#125;
@@ -39,6 +39,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/3
 <p>一是有<strong>煎蛋专属券</strong>5000-200和19999-500，在本页面领取；<br>
 (另外京东PLUS会员可以叠加会员券)</p>
 <p>二是下单时咨询客服，<strong>发送“煎蛋”触发暗号，答对问题后有惊喜价</strong>。</p></blockquote>
+<p>(京东/索尼电视官方旗舰店)</p>
 <p>PC端点击链接领取：<span class="hongbao"><a target="_blank" href="http://coupon.m.jd.com/coupons/show.action?key=7c890d4deb734d52ad4bfedda4150341&roleId=53354252&to=mall.jd.com/index-10098249.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_2011605873_" rel="noopener noreferrer">5000-200券</a>   <a target="_blank" href="http://coupon.m.jd.com/coupons/show.action?key=b9075ca89def428f8dd297c8fa0a99de&roleId=53354711&to=mall.jd.com/index-10098249.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_2011605873_" rel="noopener noreferrer">19999-500券</a></span></p>
 <p>移动端点击下面图片<br>
 <a target="_blank" href="http://coupon.m.jd.com/coupons/show.action?key=7c890d4deb734d52ad4bfedda4150341&roleId=53354252&to=mall.jd.com/index-10098249.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_2011605873_" rel="noopener noreferrer"><span class="hongbao"><img src="https://cors.zfour.workers.dev/?http://ww1.sinaimg.cn/mw690/00745YaMgy1grdga1dngvj60v9088ab202.jpg" alt="今日带货：SONY电视专场" referrerpolicy="no-referrer"></span></a><a target="_blank" href="http://coupon.m.jd.com/coupons/show.action?key=b9075ca89def428f8dd297c8fa0a99de&roleId=53354711&to=mall.jd.com/index-10098249.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_2011605873_" rel="noopener noreferrer"><span class="hongbao"><img src="https://cors.zfour.workers.dev/?http://ww1.sinaimg.cn/mw690/00745YaMgy1grdga1dyrgj60v9088jsd02.jpg" alt="今日带货：SONY电视专场" referrerpolicy="no-referrer"></span></a></p>

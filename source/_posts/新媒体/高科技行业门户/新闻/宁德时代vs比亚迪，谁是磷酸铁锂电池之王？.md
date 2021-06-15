@@ -1,0 +1,19 @@
+
+---
+title: '宁德时代vs比亚迪，谁是磷酸铁锂电池之王？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=1363'
+author: 高科技行业门户
+comments: false
+date: Tue, 15 Jun 2021 10:52:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1363'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">导语:</p><p style="text-indent: 2em; text-align: left;">很多人只知道宁德时代是全球最大<span class="hrefStyle"><a href="https://nev.ofweek.com/KW-donglidianchi.html" target="_blank" title="动力电池">动力电池</a></span>供应商(蝉联4年),却不知道它也是全球最大的<span class="hrefStyle"><a href="http://libattery.ofweek.com/KW-linsuantielidianchi.html" target="_blank" title="磷酸铁锂电池">磷酸铁锂电池</a></span>供应商。</p><p style="text-indent: 2em; text-align: left;">记者:冯金刚</p><p style="text-indent: 2em; text-align: left;">中国汽车动力电池产业创新联盟近日发布的数据显示,前5个月,我国磷酸铁<span class="hrefStyle"><a href="https://libattery.ofweek.com/CAT-36001-lidianchi.html" target="_blank" title="锂电池">锂电池</a></span>产量累计达到29．9GWh,占总产量50．3%,这意味着截至今年目前,磷酸铁<span class="hrefStyle"><a href="https://libattery.ofweek.com/" target="_blank" title="锂电">锂电</a></span>池产量已经超过<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E4%B8%89%E5%85%83%E9%94%82%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="三元锂电池">三元锂电池</a></span>。</p><p style="text-indent: 2em; text-align: left;">对于这一变化,业内解读为一个“信号”——即磷酸铁锂电池王者归来。那这是不是一个所谓“信号”?还是值得商榷?</p><p style="text-indent: 2em; text-align: left;">其实,虽然2018年三元锂首次击败磷酸铁锂成为我国新能源市场主流的电池技术路线,但在近几年的某些月度上,两者的竞争并未呈现绝对一边倒的趋势。</p><p style="text-indent: 2em; text-align: left;">以最近的2020年1-2月为例,彼时磷酸铁锂电池累计产量占动力电池总产量的比重达到51．6%,并超过三元锂电池。而从2020年全年来看,动力电池总产量为83．4GWh,其中三元电池产量累计达到48．5GWh,占总产量58．1%,高于磷酸铁锂。</p><p style="text-indent: 2em; text-align: left;">不难看出,虽然磷酸铁锂电池产量在去年初一度超过三元锂,但从整年来看,三元锂电池仍豪取最后的王冠,成为我国动力电池的王者。</p><p style="text-indent: 2em; text-align: left;">所以,虽然今年1-5月磷酸铁锂电池产量已经超过三元锂(仅0．6个百分比),但今年累计产量前者是否会超过后者,仍然存疑。至少从近三年(2018-2020)来看,三元锂都成功笑到了最后。</p><p style="text-indent: 2em; text-align: left;">其实,相较产量,终端装机量数据更能反应新能源市场现状。数据显示,今年前5个月,磷酸铁锂电池装车量累计17．1GWh,占总装机量的比例仅41．3%,而三元锂电池装机量则高达58%。</p><p style="text-indent: 2em; text-align: left;">所以,对于磷酸铁锂电池王者归来,目前来说还为时尚早,且有混淆概念的嫌疑,至少在最能反应新能源车市的装机量数据上,磷酸铁锂电池占比依然不超过5成。</p><p style="text-indent: 2em; text-align: left;">有人不解,为何今年前5个月磷酸铁锂电池产量占比为50．3%,而装机量占比仅为41．3%。其实磷酸铁锂电池除了做车载动力系统,还有<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>系统,甚至包括一些两轮车市场,这也是为何磷酸铁锂电池始终不被各大电池厂抛弃的原因之一。</p><p style="text-indent: 2em; text-align: left;">再回到以上话题,尽管在新能源汽车市场,三元锂仍然是最主流的技术路线,但因为近来原材料价格上涨,同时磷酸铁锂电池被进一步改良,成本优势得到进一步释放,这是后者重新回暖的一个重要因素。</p><p style="text-indent: 2em; text-align: left;">反应到新能源车市上,在搭载宁德时代磷酸铁锂电池的<span class="hrefStyle"><a href="https://libattery.ofweek.com/KW-tesla.html" target="_blank" title="特斯拉">特斯拉</a></span>Model 3 取得空前成功后,小鹏、蔚来等厂商也在对磷酸铁锂电池跃跃欲试。从P7 5月份销量取得新纪录来看,磷酸铁锂版的净增量功不可没。受Model 3的成功鼓舞,7月,据传Model Y也将搭载宁德时代磷酸铁锂电池。</p><p style="text-indent: 2em; text-align: left;">所以,虽然三元锂仍然是新能源汽车主流动力电池技术路线,但磷酸铁锂电池对车市的渗透也应该引起重视。尤其是在充电条件愈加便利、消费者对续航里程需求不是太高、够用就行的行业细微变化下,磷酸铁锂电池更有发挥余地。</p><p style="text-indent: 2em; text-align: left;">那么,磷酸铁锂电池在新能源市场回暖,谁最利好?当然是磷酸铁锂电池王者,而这个王者是谁也并不难猜到。不管是上面的特斯拉Model 3/Model Y,亦或蔚来、小鹏、欧拉等热销新能源品牌、产品,其磷酸铁锂供应商都有宁德时代的身影。</p><p style="text-indent: 2em; text-align: left;">由于日韩电池企业主要发力三元锂,所以磷酸铁锂电池玩家主要集中在中国电池品牌,包括宁德时代、比亚迪、国轩高科等,其中宁德时代是当之无愧的王者。</p><p style="text-indent: 2em; text-align: left;">数据表明,2020年磷酸铁锂动力电池装机量23．2GWh,其中宁德时代以13．68GWh、市占比58．9%的绝对优势,拿下磷酸铁锂电池装机量冠军。</p><p style="text-indent: 2em; text-align: left;">尽管是磷酸铁锂电池之王,但这并不是宁德时代的全部,它还有三元锂电池、钠电池、固态电池等。是啊,对于一个连续4年蝉联全球动力电池冠军的品牌来说,本就是市场需要什么,它就拿什么,并做到最好,这才是冠军选手该有的底色。</p> 
+  
+</div>
+            
