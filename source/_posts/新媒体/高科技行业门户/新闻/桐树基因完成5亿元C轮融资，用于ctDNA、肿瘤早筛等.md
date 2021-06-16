@@ -1,0 +1,19 @@
+
+---
+title: '桐树基因完成5亿元C轮融资，用于ctDNA、肿瘤早筛等'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/lieyunwang/2021-06-16/15d0b7b1d25db9b2e4e4f7d058965efe.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 16 Jun 2021 09:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/lieyunwang/2021-06-16/15d0b7b1d25db9b2e4e4f7d058965efe.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><strong>6月16日报道</strong></p><p style="text-indent: 2em; text-align: left;">2021年6月15 日，常州桐树生物科技有限公司（以下简称桐树基因）宣布完成5亿元人民币C轮融资，由德福资本、博华资本和海松资本共同领投，金圆资本、海创母基金、银河源汇投资跟投，老股东朗玛峰创投、拓邦投资继续加注。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/lieyunwang/2021-06-16/15d0b7b1d25db9b2e4e4f7d058965efe.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此前，桐树基因于成立之初获得宁波博颐的天使轮投资，2018年获得复星健康科技（原“复星<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>”）A轮投资，2020年获得以元生作为领投方的B轮投资。</p><p style="text-indent: 2em; text-align: left;">据了解，<strong>本轮所募集的资金将用于ctDNA、肿瘤早筛等后续多款重磅IVD新产品临床开发，及打通超500家三甲医院的进院直销渠道。</strong></p><p style="text-indent: 2em; text-align: left;">桐树基因创始人兼首席执行官严令华表示，感谢新老投资人对桐树基因一如既往的支持，桐树基因通过4年的时间，坚持以医院为核心的“产品＋服务”布局，从临床需求端出发，开发出了一系列具有极高技术壁垒的IVD诊断技术，期待有更多创新产品能在不远的将来获得NMPA批准，造福患者，为推动肿瘤精准治疗的发展尽绵薄之力。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/lieyunwang/2021-06-16/bdb848669d13f8421f843d05245eb6ab.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">桐树基因成立于2016年11月，是一家同时具备LDT＋IVD双重能力的分子诊断企业。桐树基因专注于肿瘤分子诊断的研发、生产、销售一体化，依托“多平台布局”的策略，先后开发了肿瘤微卫星不稳定MSI、ctDNA等多款重磅IVD诊断试剂盒。以NGS微量建库技术为核心壁垒的基因检测服务、以肿瘤基因组学标本库为基础的大数据转化研究中心构筑了其在行业中的竞争优势，并致力于成为千亿级的精准医学肿瘤市场的领导者之一。桐树基因成立四年来实现跨越式发展，其研发的结直肠癌微卫星不稳定检测试剂盒于2021年1月获国内MSI检测首张三类医疗器械注册证，该款试剂盒有望成为肿瘤精准赛道中市场价值最大的IVD单品之一。</p><h3 style="text-indent: 2em; text-align: left;">LDT服务深度覆盖，为IVD产品打下渠道基础</h3><p style="text-indent: 2em; text-align: left;">LDT，即基因检测公司在医院建立实验室。基因检测公司通过正规竞标流程入院，提供系统的人员培训、技术配备，从而为整个医院的患者提供基因检测服务。桐树基因拥有完整的肿瘤LDT资质与病理科资质，全程采用有证试剂盒与试剂，依托优异的技术，稳定模式化的销售管理，专业高效地为企业提供稳定现金流。桐树基因LDT服务已在2020年实现盈利，是行业内首家实现盈利的肿瘤基因LDT服务商，且市场份额行业领先，发展势头一路向好。</p><h3 style="text-indent: 2em; text-align: left;">四大技术平台，形成IVD产品矩阵</h3><p style="text-indent: 2em; text-align: left;">桐树基因在IVD体外诊断领域产品开发领域，拥有全面完整的技术平台和全面、深度的技术覆盖。基于多平台创新的核心理念技术，在一代测序平台，二代测序平台，荧光定量PCR，CRISPR等领域都研发出了拥有具有核心技术优势的IVD产品。桐树基因获批全国首张MSI检测产品III类证，在胃癌、结直肠癌、乳腺癌等17种肿瘤检测领域具有唯一的先发优势。据统计，中国MSI－H肿瘤疾病负荷每年高达32．4万例，凭借中国第一张III类证，桐树基因在MSI检测领域内可以形成极高的产品壁垒和广阔的市场空间。此外，多款重点产品也已在NMPA审批流程中，其开发的分子诊断IVD产品可完整覆盖肿瘤诊疗的全流程。</p><h3 style="text-indent: 2em; text-align: left;">立足国内市场，奠定行业领跑者地位</h3><p style="text-indent: 2em; text-align: left;">桐树基因立足国内市场，通过积极地拓展销售渠道，已经布局全国30多个省／市／自治区，覆盖全国1000多家医院。桐树基因销售团队经过多年磨合历练，销售能力业内领先。公司成立四年来销售收入实现高速增长，现已稳居行业第一梯队。随着更多重磅产品逐一获证，未来有望在千亿级精准医学肿瘤市场成为领跑者。</p><h3 style="text-indent: 2em; text-align: left;">科研学术不断精进，技术合作捷报频传</h3><p style="text-indent: 2em; text-align: left;">桐树基因研发团队有着雄厚的技术背景和学术背景。公司CTO蔡微菁博士是肿瘤进化论国内顶级研究者，相关研究发表于JCO、ANO、JTO等国际顶级学术期刊。今年三月，桐树基因独有的ctDNA检测技术助力伏美替尼IIb期临床研究登顶影响因子高达25．094的《柳叶刀·呼吸医学》杂志。桐树基因与世界顶尖的高通量测序生物公司——赛默飞世尔（ThermoFisher）强强联手，目前已形成基于高通量<span class="hrefStyle"><a href="http://medical.ofweek.com/2016-04/ART-11104-8420-29086878_2.html" target="_blank" title="基因测序">基因测序</a></span>技术与生物信息分析的ctDNA精准检测体系，500多项分子病理检测项目，实现了对肿瘤无创、准确、动态的基因分析，为临床提供精准用药、疗效监测、术后复发监测、风险预测和早期检测等咨询服务。此外桐树基因还与因美纳Illumina达成战略合作，打造极致测序检测。</p><p style="text-indent: 2em; text-align: left;">来源：猎云网</p> 
+  
+</div>
+            

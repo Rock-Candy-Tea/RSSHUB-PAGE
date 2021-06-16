@@ -1,0 +1,18 @@
+
+---
+title: '猫头鹰 Noctua 超大被动散热器正式发布，售价约 700 元'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4ee_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 16 Jun 2021 01:08:07 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4ee_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 16 日消息 猫头鹰 Noctua 被动散热器 NH-P1 此前在新蛋网上曝光，近日，官方正式发布了该散热器，售价 109.9 美元（约 703.36 元人民币）。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4ee_1024.jpg" data-height="1200" data-width="1187" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4ee_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4ef_1024.jpg" data-height="1200" data-width="994" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4ef_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4f0_1024.jpg" data-height="1200" data-width="980" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4f0_1024.jpg" referrerpolicy="no-referrer"></div></div>NH-P1 散热器采用无风扇被动散热，拥有六热管，上方是巨大的鳍片。该散热器与大多数 ATX、microATX 主板的第一个 PCIe 扩展插槽兼容，且可搭配官方的 NF-A12x25 LS-PWM 120mm 风扇使用，以加强散热。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4f1_1024.jpg" data-height="1200" data-width="891" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c99a798e9f096c153aa4f1_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f2_1024.jpg" data-height="960" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f2_1024.jpg" referrerpolicy="no-referrer"></div></div>猫头鹰 Noctua 官方表示，这是该品牌首款被动散热器，它不仅仅是去掉了风扇，还进行了大量的无风扇散热设计，能够支持英特尔 i9-11900K 以 3.6GHz 的频率运行 Prime95，可压 125W 运行功率，同时没有声音。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f3_1024.jpg" data-height="1200" data-width="825" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f3_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，NH-P1 散热器已可在亚马逊购买，售价 109.9 美元（约 703.36 元人民币），可选配的 NF-A12x25 LS-PWM 120mm 风扇售价 29.9 美元（约 191.36 元人民币）。<p></p><p></p><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f4_1024.jpg" data-height="849" data-width="872" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c99a798e9f096c153aa4f4_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
