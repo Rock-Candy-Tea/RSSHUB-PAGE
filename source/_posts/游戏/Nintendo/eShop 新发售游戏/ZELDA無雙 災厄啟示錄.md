@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/zelda_musou.jpg'
 author: Nintendo
 comments: false
-date: 2021-06-16 08:08:54
+date: 2021-06-16 09:08:01
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/zelda_musou.jpg'
 ---
 
