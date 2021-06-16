@@ -1,0 +1,19 @@
+
+---
+title: '半固态电池VS固态电池，谁能抢占动力电池高地？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1/202106/16102935483659.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 16 Jun 2021 06:29:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1/202106/16102935483659.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由于蔚来等企业的推动，很多人认为，固态电池将要量产应用了。</p><p style="text-indent: 2em; text-align: left;">现实很骨感。6月12日，在第十三届中国汽车蓝皮书论坛上，几位<span class="hrefStyle"><a href="https://nev.ofweek.com/KW-donglidianchi.html" target="_blank" title="动力电池">动力电池</a></span>一线从业者，都对纯固态电池商用表示悲观，对于半固态电池，则存在分歧。</p><p style="text-indent: 2em; text-align: left;">论坛上，围绕“固态电池到来前后的电池路线”主题，在真锂研究首席分析师墨柯的主持下，孚能科技董事长王瑀，蜂巢能源科技有限公司董事长兼CEO杨红新，宁德时代21C创新实验室前瞻技术部部长郭永胜，安驰科技总经理、创始人徐小明，以及北汽集团副总经理廖振波等嘉宾展开了一场深度沟通。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/16102935483659.png" title="16102935483659.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">论坛现场</p><p style="text-indent: 2em; text-align: left;">除了固态电池、半固态电池，他们还论及磷酸铁锂和三元的技术路线、钠离子电池的前景，以及电池成本等议题。</p><p style="text-indent: 2em; text-align: left;"><strong>1</strong></p><p style="text-indent: 2em; text-align: left;"><strong>半固态发展有争议</strong></p><p style="text-indent: 2em; text-align: left;">车企和电池企业对半固态电池的应用前景存在分歧。</p><p style="text-indent: 2em; text-align: left;">作为整车企业代表，北汽集团副总经理廖振波和孚能科技董事长王瑀非常看好半固态电池的前景，安驰科技总经理、创始人徐小明也认为半固态电池可以提升电池的安全性；不过，蜂巢能源董事长杨红新则对半固态电池商业化价值存在疑虑；宁德时代21C创新实验室前瞻技术部部长郭永胜则认为半固态电池的能量密度不会有提升。</p><p style="text-indent: 2em; text-align: left;">（1）正方：半固态电池解决安全问题</p><p style="text-indent: 2em; text-align: left;">廖振波有着30多年的整车工作经验，并且曾任职比克电池总裁，对整车企业和电池企业都有很深刻的认识。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/16103008319495.png" title="16103008319495.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">北汽集团副总经理廖振波</p><p style="text-indent: 2em; text-align: left;">在廖振波看来，目前车企业亟需解决的问题是从原来追求的第一要素能量密度、成本，转变为现在追求的三要素排序为安全、成本，以及性能。</p><p style="text-indent: 2em; text-align: left;">廖振波认为，电池成本不仅仅是采购成本，还要考虑售后和召回的情况。</p><p style="text-indent: 2em; text-align: left;">每年到夏季的时候，<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>就会出现着火事故，汽车召回的比例越来越大。“按照中国的召回制度，万分之四的设计安全的质量事故就要召回，这样给整车企业的损失是非常大的，所以现在我们把成本的问题分开，一个是采购成本，再一个是后面的售后服务，包括刚才说的召回服务，所有成本加在一起。所以不单纯的说采购成本了，所以成本问题实际上在安全保障不了的情况下，成本是高的，所以整车企业最重要的是讲究安全。”</p><p style="text-indent: 2em; text-align: left;">廖振波认为，固混电池当5％－10％是液态的时候，应该是比较安全的，同时能量密度也满足汽车企业的要求。他强烈呼吁这些电池企业，赶快将固混电池产业化，给整车企业提供安全可靠的固混电池。</p><p style="text-indent: 2em; text-align: left;">廖振波认为，大家之所以不愿意突破到全固态，甚至半固态，很重要的一点，是因为生产固态电池，设备是要改造的。</p><p style="text-indent: 2em; text-align: left;">“因为即便是半固态，至少有10％－15％的工艺设备要改变，电池企业对设备的精度是存在担心的，一旦产线生产合格率不高的话，成本很高。”廖振波说。</p><p style="text-indent: 2em; text-align: left;">在安驰科技总经理、创始人徐小明看来，2030年之前，纯固态电池很难看到，即便看到真正的固态，至少前三年到五年，其主要应用在消费类电子端，要做到安全性可控，且用得起。</p><p style="text-indent: 2em; text-align: left;">不过，徐小明认为半固态电池是具备可行性的，可以解决安全性问题，然后再去提升能量密度。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202106/16103029469227.png" title="16103029469227.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">安驰科技总经理、创始人徐小明</p><p style="text-indent: 2em; text-align: left;">王瑀也认为，半固态肯定是发展方向。“谁也不愿意在生产电池过程当中有隐患，用了半固态电池，你的工厂再不会出现起火的问题。”终极目标还是要从材料本身去彻底解决这个问题，如果彻底解决不了这个问题，就用控制方法，从设计到生产到使用，然后到整车工况安全边界的监控，最后做到电池的安全。</p> 
+  
+</div>
+            
