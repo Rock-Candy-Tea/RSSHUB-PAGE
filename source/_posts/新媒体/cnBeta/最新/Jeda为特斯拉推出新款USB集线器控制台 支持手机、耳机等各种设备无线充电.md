@@ -1,0 +1,19 @@
+
+---
+title: 'Jeda为特斯拉推出新款USB集线器控制台 支持手机、耳机等各种设备无线充电'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0616/8bab36b3cd3febc.jpg'
+author: cnBeta
+comments: false
+date: Wed, 16 Jun 2021 03:13:55 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0616/8bab36b3cd3febc.jpg'
+---
+
+<div>   
+<strong>Jeda Products（官方网址为getjeda）是一家来自美国加州的设计及制造公司，这家公司十分擅长为特斯拉汽车制造科技配件。</strong>由于Jeda生产的配件十分接近原厂质感，这家公司也因此扬名。<br>
+ <p style="text-align: left;">原标题：Jeda为特斯拉推出新款USB集线器控制台 支持<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>、手表、耳机等各种设备无线充电</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0616/8bab36b3cd3febc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0616/8bab36b3cd3febc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0616/8bab36b3cd3febc.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">近日，Jeda推出了新款『Jeda USB集线器控制台』，这款产品适用于特斯拉Model 3与Model Y车型。在更早些时候，Jeda已经推出了USB集线器，之所以推出新款是为了更好的匹配特斯拉经过更新设计的中控台。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0616/38b162c01a4c085.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0616/38b162c01a4c085.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0616/38b162c01a4c085.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">『Jeda USB集线器控制台』集成了集线器、控制台管理器、智能手表充电器和无线耳机充电器，能让车主更方便的为各种设备充电，以提升整体用车体验。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0616/b02b4f41630637d.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0616/b02b4f41630637d.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0616/b02b4f41630637d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>产品详细功能：</strong></p><p style="text-align: left;">● 支持智能手表无线充电；</p><p style="text-align: left;">● 支持AirPods和Pixel Buds等无线耳机充电；</p><p style="text-align: left;">● 提供额外的 USB 端口用于供电/数据传输；</p><p style="text-align: left;">● 最大化空间：提供两层存储空间；</p><p style="text-align: left;">● 秘密储物格：安全存放物品以防被盗；</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0616/43cd0fb51dceb60.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0616/43cd0fb51dceb60.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0616/43cd0fb51dceb60.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">▲ 北美车主可加装的EDR数据套件</p><p style="text-align: left;">在美国，特斯拉车型可以选择品类丰富的套件，也包括价值1200美元的EDR数据套件。</p><p style="text-align: left;">EDR（Event Data Recorder）相当于汽车的黑匣子，通常在车辆状态发生剧烈变化时启动工作。所谓剧烈，美国标准定义为车辆在125毫秒内产生8公里/小时的时速变化。</p><p style="text-align: left;">在燃油车中，EDR除监测车速之外，还监测发动机转速、节气门开度等信息。而对于特斯拉旗下的纯电动车型来说，EDR主要负责时速、ABS状态、转向角度、制动状态等数据记录。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0616/5d61fd9589c97d7.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0616/5d61fd9589c97d7.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0616/5d61fd9589c97d7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在国内，特斯拉车主也可以通过网络选择到品类丰富的<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>，包括仪表屏、氛围灯、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C870%26ev%3D1554_584894%26JL%3D3_%25E7%25A9%25BA%25E8%25B0%2583%25E7%25B1%25BB%25E5%2588%25AB_%25E7%25AB%258B%25E6%259F%259C%25E5%25BC%258F%25E7%25A9%25BA%25E8%25B0%2583%23J_crumbsBar" target="_blank">空调</a>出风口防尘罩等等。期待在接下来，国内的“配件商”也能提供给大家USB集线器这样的便利性设备，不过像EDR数据套件这样的硬核设备就只能指望特斯拉官方提供了。</p>   
+</div>
+            
