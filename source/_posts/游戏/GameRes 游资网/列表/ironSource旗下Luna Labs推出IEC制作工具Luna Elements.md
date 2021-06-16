@@ -20,7 +20,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze06
 Luna Labs拥有的技术让应用程序开发者们能以惊人的速度和规模制作、管理和优化试玩广告和视频广告。现在，Luna Labs从数以千计的有着最出色表现的广告创意素材中吸取了经验，并对这些素材进行精炼，打造了一个互动落地页(IEC)模板库，让游戏工作室无需处理代码就能立刻制作、轻松迭代和快速测试大量的高质量互动广告。Luna Elements可与每家工作室现有的试玩广告策略同时运作，使其能进一步地提升创意产出并最大限度地提高广告表现。<br>
 <br>
 <div align="center">
-<img id="aimg_984925" aid="984925" zoomfile="https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze066r6b.png" data-original="https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze066r6b.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze066r6b.png" referrerpolicy="no-referrer">
+<img src="https://di.gameres.com/attachment/forum/202106/11/152046w30auepzze066r6b.png" alt="1623393769909807.png" title="1623393769909807.png" referrerpolicy="no-referrer">
 </div><br>
 <br>
 “试玩广告是开发者成功之路上不可或缺的一部分，但实施这一策略所需的时间和资源一直是许多人的障碍”，Luna Labs产品副总裁Adam Stevens表示，“随着我们推出Luna Elements，处理代码已不再是必需一步，这让团队中的任何人都能立刻制作出一个互动广告——更进一步地增强了游戏工作室找到吸引人的广告创意素材的能力。”<br>
