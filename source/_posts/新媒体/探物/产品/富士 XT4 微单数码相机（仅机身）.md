@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FjsYfIhOLpO3Wm9I1DTNoaWH4tfu'
 author: 探物
 comments: false
-date: 2021-06-17 09:07:11
+date: 2021-06-17 10:07:59
 thumbnail: 'https://resource.tanwuapp.com/FjsYfIhOLpO3Wm9I1DTNoaWH4tfu'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FjsYfIhOLpO3Wm9I1DTNoaWH4tfu" referrerpolicy="no-referrer"><br>
           <strong>富士 XT4 微单数码相机（仅机身）</strong><br><br>
-          价格: ￥28.00 / 日<br>
+          价格: ￥25.20 / 日<br>
           评分: 0.0
           
 </div>
