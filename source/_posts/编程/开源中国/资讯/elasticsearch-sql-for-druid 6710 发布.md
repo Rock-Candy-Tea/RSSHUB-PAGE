@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1821'
+headimg: 'https://picsum.photos/400/300?random=2155'
 author: 开源中国
 comments: false
 date: Wed, 16 Jun 2021 17:48:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1821'
+thumbnail: 'https://picsum.photos/400/300?random=2155'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h4 style="text-align:start">介绍</h4> 
+                                                                                            <h4 style="text-align:start">介绍</h4> 
 <p style="text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FNLPchina%2Felasticsearch-sql" target="_blank">elasticsearh-sql 6.7.1</a> 版本对新版本druid 1.2.5+版本支持,原始版本不支持新版本的druid,因后续版本的druid底层类库改动较大。</p> 
 <h4 style="text-align:start">软件架构</h4> 
 <p>问题记录</p> 

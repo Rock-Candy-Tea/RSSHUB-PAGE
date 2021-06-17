@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4554'
+headimg: 'https://picsum.photos/400/300?random=8693'
 author: 开源中国
 comments: false
 date: Thu, 17 Jun 2021 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4554'
+thumbnail: 'https://picsum.photos/400/300?random=8693'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CMake 3.20.4 已经发布，CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
+                                                                                            <p>CMake 3.20.4 已经发布，CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
 <p>CMake 3.20.4 中的一些重要变更有：</p> 
 <ul> 
  <li>ci：使用一致的 sccache 构建</li> 

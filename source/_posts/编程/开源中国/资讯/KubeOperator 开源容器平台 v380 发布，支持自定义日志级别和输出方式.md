@@ -14,8 +14,7 @@ thumbnail: 'https://pic4.zhimg.com/80/v2-acaa80872fa6e966a9e3537045762f52_1440w.
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <div style="text-align:left"> 
+                                                                                            <div style="text-align:left"> 
  <div>
   6月15日，开源容器平台KubeOperator正式发布v3.8.0版本。在这一版本中，KubeOperator支持Kubernetes的最新版本，即v1.20.6版本，同时支持自定义日志级别和输出方式。另外，该版本还提供了对GPU Operator的支持，并完成若干功能优化和Bug修复。
  </div> 

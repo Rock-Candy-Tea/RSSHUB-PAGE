@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1556'
+headimg: 'https://picsum.photos/400/300?random=172'
 author: 开源中国
 comments: false
 date: Thu, 17 Jun 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1556'
+thumbnail: 'https://picsum.photos/400/300?random=172'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Firefox 89.0.1 版本现已发布，具体更新内容如下：</p> 
+                                                                                            <p>Firefox 89.0.1 版本现已发布，具体更新内容如下：</p> 
 <p><strong>Fixed</strong></p> 
 <ul> 
  <li> <p>Windows：解决了导致某些 screen readers 无法再与 Firefox 正确交互的问题（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fbugzilla.mozilla.org%2Fshow_bug.cgi%3Fid%3D1714212" target="_blank">bug 1714212</a>）</p> </li> 

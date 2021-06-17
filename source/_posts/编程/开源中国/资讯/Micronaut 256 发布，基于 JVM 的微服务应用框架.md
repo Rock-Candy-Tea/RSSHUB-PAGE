@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7520'
+headimg: 'https://picsum.photos/400/300?random=4511'
 author: 开源中国
 comments: false
 date: Thu, 17 Jun 2021 07:19:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7520'
+thumbnail: 'https://picsum.photos/400/300?random=4511'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Micronaut 是 Grails 框架作者打造的开源项目，也是新一代基于 JVM 的全栈微服务框架，用于构建模块化的、易于测试的微服务应用。有关 Micronaut 的特性介绍<a href="https://www.oschina.net/news/96381/micronaut-open-sourced">点此查看</a>。</p> 
+                                                                                            <p>Micronaut 是 Grails 框架作者打造的开源项目，也是新一代基于 JVM 的全栈微服务框架，用于构建模块化的、易于测试的微服务应用。有关 Micronaut 的特性介绍<a href="https://www.oschina.net/news/96381/micronaut-open-sourced">点此查看</a>。</p> 
 <p>近日，Micronaut 2.5.6 正式发布，本次更新内容如下：</p> 
 <ul> 
  <li>从 3.x 版本中带回 stereotype 和 annotation 映射器的变化，为可重复性添加 stereotype 处理；</li> 

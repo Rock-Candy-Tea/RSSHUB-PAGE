@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3468'
+headimg: 'https://picsum.photos/400/300?random=3948'
 author: 开源中国
 comments: false
-date: Wed, 16 Jun 2021 23:30:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3468'
+date: Thu, 17 Jun 2021 07:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3948'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Node.js 是能够在服务器端运行 JavaScript 的开放源代码、跨平台 JavaScript 运行环境。Node.js 由Node.js Foundation（已与JS Foundation合并为OpenJS Foundation）持有和维护，亦为 Linux 基金会的项目。Node.js采用Google开发的V8运行代码，使用<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BA%258B%25E4%25BB%25B6%25E9%25A9%2585%25E5%258B%2595">事件驱动</a>、<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25E9%259D%259E%25E9%2598%25BB%25E5%25A1%259E%26action%3Dedit%26redlink%3D1">非阻塞</a>和<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%2582%25E6%25AD%25A5IO">异步输入输出</a>模型等技术来提高性能，可优化应用程序的传输量和规模。这些技术通常用于资料密集的即时应用程序。</p> 
+                                                                                            <p>Node.js 是能够在服务器端运行 JavaScript 的开放源代码、跨平台 JavaScript 运行环境。Node.js 由Node.js Foundation（已与JS Foundation合并为OpenJS Foundation）持有和维护，亦为 Linux 基金会的项目。Node.js采用Google开发的V8运行代码，使用<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25BA%258B%25E4%25BB%25B6%25E9%25A9%2585%25E5%258B%2595">事件驱动</a>、<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25E9%259D%259E%25E9%2598%25BB%25E5%25A1%259E%26action%3Dedit%26redlink%3D1">非阻塞</a>和<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25BC%2582%25E6%25AD%25A5IO">异步输入输出</a>模型等技术来提高性能，可优化应用程序的传输量和规模。这些技术通常用于资料密集的即时应用程序。</p> 
 <p>Node.js 14.17.1 LTS 正式发布，本次更新内容如下：</p> 
 <p>值得注意的变化：</p> 
 <ul> 

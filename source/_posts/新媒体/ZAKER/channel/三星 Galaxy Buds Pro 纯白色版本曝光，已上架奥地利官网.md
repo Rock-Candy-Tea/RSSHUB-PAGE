@@ -1,0 +1,18 @@
+
+---
+title: '三星 Galaxy Buds Pro 纯白色版本曝光，已上架奥地利官网'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/6097e1b68e9f09348042fc3f_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 16 Jun 2021 17:25:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/6097e1b68e9f09348042fc3f_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 17 日消息 三星 Galaxy Buds Pro 无线蓝牙耳机目前有紫色、黑色、银色三个版本，当然还有一些联名的特殊配色。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202105/6097e1b68e9f09348042fc3f_1024.jpg" data-height="578" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202105/6097e1b68e9f09348042fc3f_1024.jpg" referrerpolicy="no-referrer"></div></div>近日，三星奥地利官网出现了一个从未发布过的白色版本，官方称其为 " 幻影白（Phantom White）"。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f81_1024.jpg" data-height="865" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f81_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，是一款支持主动降噪的无线蓝牙耳机，售价 1299 元，目前降到了 999 元。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f82_1024.jpg" data-height="547" data-width="684" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f82_1024.jpg" referrerpolicy="no-referrer"></div></div>官方数据显示，Galaxy Buds Pro 的主动降噪功能可以过滤掉高达 99% 的背景噪音。语音检测功能在检测到用户的声音时，可立即从主动降噪模式切换到环境音模式。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f83_1024.jpg" data-height="547" data-width="684" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f83_1024.jpg" referrerpolicy="no-referrer"></div></div>续航方面，打开主动降噪功能，Galaxy Buds Pro 续航时间长达 5 小时，充电盒可额外提供 13 小时续航，总计续航 18 小时 。当关闭主动降噪功能后，耳机续航时间可长达 28 小时，含 8 小时耳机播放时长和充电盒额外提供的 20 小时续航时间。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f84_1024.jpg" data-height="547" data-width="684" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f84_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f85_1024.jpg" data-height="547" data-width="684" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60ca89c98e9f094bfe030f85_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f86_1024.jpg" data-height="547" data-width="684" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60ca89c98e9f094bfe030f86_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

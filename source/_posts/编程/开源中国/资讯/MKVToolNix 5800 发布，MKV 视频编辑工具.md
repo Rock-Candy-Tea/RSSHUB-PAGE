@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9608'
+headimg: 'https://picsum.photos/400/300?random=5192'
 author: 开源中国
 comments: false
-date: Wed, 16 Jun 2021 23:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9608'
+date: Thu, 17 Jun 2021 07:39:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5192'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>MKVToolNix 58.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
+                                                                                            <p>MKVToolNix 58.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
 <p>新功能和改进</p> 
 <ul> 
  <li>mkvmerge: MKVToolNix GUI 的多路复用器：对 "默认轨道" 标志的处理已经改变，以配合最近对 Matroska 规范的修改。新的语义是，如果它被设置，它应该向播放器发出信号，表明这个轨道有资格被默认播放；</li> 
