@@ -1,0 +1,18 @@
+
+---
+title: '微软 Win11 预览版仍保留有 29 年前的 Windows 3.1 元素'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c9641fb15ec018ab611381_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 16 Jun 2021 23:07:57 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c9641fb15ec018ab611381_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 17 日消息 微软将于美国东部 6 月 24 日上午 11 点向大家揭晓有关于 Win11 的全新内容。而在这之前，微软似乎由于疏忽已将其尚未发布的 Win11 预览版镜像泄露到了网上。</p><p>经过一天多的测试体验，相信大家已经发现了 Win11 的许多改进，也看到了 Win11 预览版中仍留存的部分未改完的 UI。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60c9641fb15ec018ab611381_1024.jpg" data-height="547" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60c9641fb15ec018ab611381_1024.jpg" referrerpolicy="no-referrer"></div></div>今日，国外网友 Sam Henri-Gold 发现了 Win11 预览版中的一个经典界面，该界面自 1992 年的 Windows 3.1 就已出现，而微软在 Win11 预览版中还进行了保留。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb86c_1024.jpg" data-height="691" data-width="728" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb86c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202106/60cacd02b15ec021872fb86d_1024.jpg" data-height="899" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cacd02b15ec021872fb86d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb86e_1024.jpg" data-height="388" data-width="743" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb86e_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，Windows 3.1 时代的图标也没有去除，经典永流传。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202106/60cacd02b15ec021872fb86f_1024.jpg" data-height="574" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cacd02b15ec021872fb86f_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，微软为了 Windows 的兼容性考虑，一直没有剔除以前系统中的内容，只是越堆越多。这样做的好处是 Windows 3.1 时代的软件依然能运行，但坏处就是 UI 的割裂与系统的臃肿。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb870_1024.jpg" data-height="1030" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cacd02b15ec021872fb870_1024.jpg" referrerpolicy="no-referrer"></div></div>不过，目前泄露的也只是 Win11 的预览版，很多新内容还没有完成。也许微软会在 6 月 24 日的发布会上带来一个崭新的 Win11 正式版，我们还是抱要有一点期待的。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
