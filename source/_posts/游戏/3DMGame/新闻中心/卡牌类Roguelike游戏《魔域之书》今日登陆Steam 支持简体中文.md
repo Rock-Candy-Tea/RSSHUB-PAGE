@@ -14,12 +14,12 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210617/1623907694_3708
 
 <div>   
 <p style="text-indent:2em;">
-《Faeria》开发团队Abrakam Entertainment SA和万智牌《Magic: The Gathering》主创Richard Garfield共同打造新游《魔域之书》于今日（6月17日）上架Steam，这是一款<a target="_blank" href="https://www.3dmgame.com/tag/kapai_1/">卡牌</a>式<a target="_blank" href="https://www.3dmgame.com/tag/roguelike_1/">Roguelike</a>冒险游戏，游戏陆续还会在PS4、PS5、Xbox One、Xbox Series X|S以及任天堂Switch平台上推出，支持简体中文，目前本体<span>国区售价80元，</span><span>感兴趣的玩家可以</span><a href="https://store.steampowered.com/app/1076200/_/" target="_blank">点击此处</a><span>进入商店页面。</span>
+《Faeria》开发团队Abrakam Entertainment SA和万智牌《Magic: The Gathering》主创Richard Garfield共同打造新游《魔域之书》于今日（6月17日）上架Steam，这是一款<a target="_blank" href="https://www.3dmgame.com/tag/kapai_1/">卡牌</a>式<a target="_blank" href="https://www.3dmgame.com/tag/roguelike_1/">Roguelike</a>冒险游戏，游戏陆续还会在PS4、PS5、Xbox One、Xbox Series X|S以及任天堂Switch平台上推出，支持简体中文，目前本体<span>国区售价80元，</span><span>感兴趣的玩家可以</span><a href="https://store.steampowered.com/app/1076200/_/" target="_blank">点击此处</a><span>进入商店页面。</span> 
 </p>
 <p style="text-indent:2em;">
 <b>宣传片：</b> 
 </p>
-<p align="center" style="text-indent:2em;">
+<p align="center">
 <iframe height="480" width="640" src="https://player.youku.com/embed/XNTE3MDM1NDg3Ng==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>

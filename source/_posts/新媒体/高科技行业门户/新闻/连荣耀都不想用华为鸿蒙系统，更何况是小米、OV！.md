@@ -1,0 +1,19 @@
+
+---
+title: '连荣耀都不想用华为鸿蒙系统，更何况是小米、OV！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202106/17143253119860.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 17 Jun 2021 06:49:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202106/17143253119860.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">昨天荣耀50系列正式发布，而面对媒体，CEO赵明也提到了<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>鸿蒙的问题，他说：“会关注鸿蒙生态未来的发展，未来将依据全球消费者的偏好来选择操作系统。”</p><p style="text-indent: 2em; text-align: left;">意思就是目前荣耀还是不会用鸿蒙，未来的事情未来再说，到时候看市场在哪里，用户在哪里，再来决定用不用。</p><p style="text-indent: 2em; text-align: left;">而我们知道荣耀可是给自己定了一个目标的，那就是未来要成为国内前2，全球前3的手机品牌，这么一结合，也就知道基本上很难了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/17143253119860.jpg" width="100%" title=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" alt=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">要知道荣耀还是从华为分离出来的手机企业，连荣耀都不想用华为鸿蒙系统，可想而知，像<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B0%8F%E7%B1%B3.HTM" target="_blank" title="小米">小米</a></span>、OV们这些友商就更加不想用了，之前魅族说要拥抱鸿蒙，最后大家发现魅族手机还是在用自己的flyme，不是鸿蒙，可见一斑。</p><p style="text-indent: 2em; text-align: left;">那么为何让友商们使用鸿蒙系统会这么难呢？其实是有多方面的原因的，大家不必一腔热血，去要求友商们一定要用。</p><p style="text-indent: 2em; text-align: left;">一方面是因为友商们能够使用的并不是华为自己的HarmonyOS，则是要自己下载OpenHarmony代码，再自己打包成自己的商业版操作系统。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/17143254517019.jpg" width="100%" title=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" alt=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">像小米、OV们这些厂商研究了<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>十多年，才有了今天的MIUI、ColorOS这些改版系统，现在放弃10多年的研究成果，重新从0开始研究鸿蒙，如果换作是你，你会怎么做？</p><p style="text-indent: 2em; text-align: left;">再说了华为是一家私营企业，捐赠鸿蒙系统的代码，严格来讲也是一家私人企业的一种商业性的开源行为，目的是为了吸引更多的人来参与，从而发展鸿蒙生态，最终还是为了利润，所以大家也不用上升到国家的高度，应该理性来待这个问题。</p><p style="text-indent: 2em; text-align: left;">同样的，小米、OV们也都是私营企业，小米、OV们也有自己的物联网系统或布局，有自己的手机，有自己的商业模式，和华为是对手，在华为遇到困难的时候，作为对手不来落井下石就不错了，难道还主动投入自己力量帮华为（对手）的鸿蒙系统发布壮大，估计小米、OV们也没这么高尚吧。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202106/17143254712061.jpg" width="100%" title=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" alt=" 荣耀再次婉拒华为鸿蒙？为何让友商使用鸿蒙，会这么难？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">再说了小米、OV、荣耀们都依赖<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>，依赖GMS，依赖众多的美国企业，在当前的外部形势之下，导致小米、OV、荣耀们也不敢上华为的车，毕竟这背后的意义是很明显的。</p><p style="text-indent: 2em; text-align: left;">此外基于Apache协议，安卓AOSP一直是开源的，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%B0%B7%E6%AD%8C.HTM" target="_blank" title="谷歌">谷歌</a></span>没有理由，也不存在闭源的可能，大家都能够使用安卓系统，不会断供。</p><p style="text-indent: 2em; text-align: left;">而如果使用华为鸿蒙，还得靠兼容安卓生态来获得自己的生态的，鸿蒙本身生态非常不完善，这相当于用鸿蒙系统的背后，其实也是安卓生态，让友商们用鸿蒙，相当于最终拐了两个弯，又回到安卓了？</p><p style="text-indent: 2em; text-align: left;">至于大家说的物联网互联，友商加入进去了，对友商自己可是一点好处都没有，真正的是为华为做嫁衣裳，所以友商们确实很难使用鸿蒙，除非安卓断供，但这明显不太可能。</p> 
+  
+</div>
+            
