@@ -1,0 +1,22 @@
+
+---
+title: '手機
+《WOTV FFBE》刻紀念聯動活動即日開跑 全新 UR 兵員「薩麗雅（甜心）」登場
+ 0 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/06/77ae33dbc002927f005c71faaa1cpxu5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/06/77ae33dbc002927f005c71faaa1cpxu5.JPG'
+---
+
+<div>   
+gumi Inc. 今日宣布，由發行商 SQUARE ENIX 以及其合作夥伴開發商 gumi Inc. 聯手推出的策略 RPG 手機遊戲《WAR OF THE VISIONS FINAL FANTASY BRAVE EXVIUS》國際版（...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/06/77ae33dbc002927f005c71faaa1cpxu5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
