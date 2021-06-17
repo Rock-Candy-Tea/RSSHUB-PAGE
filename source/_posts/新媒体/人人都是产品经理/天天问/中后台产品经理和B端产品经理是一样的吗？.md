@@ -1,0 +1,18 @@
+
+---
+title: '中后台产品经理和B端产品经理是一样的吗？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=4816'
+author: 人人都是产品经理
+comments: false
+date: Thu, 17 Jun 2021 13:20:44 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4816'
+---
+
+<div>   
+<p>中后台产品经理和B端产品经理是一样的吗？有什么具体的细分吗</p>  
+</div>
+            
