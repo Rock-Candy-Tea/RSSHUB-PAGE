@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6675'
+headimg: 'https://pic3.zhimg.com/v2-69ba4a00666c86dd049881e2323e32e4_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 17 Jun 2021 07:56:48 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6675'
+date: Thu, 17 Jun 2021 06:03:39 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-69ba4a00666c86dd049881e2323e32e4_1440w.jpg'
 ---
 
 <div>   
-庙祝大人的回答<br><br><p>这都是早晚的事情。</p><p>海思麒麟9000芯片，有人说华为库存了2000多万片，有人说库存了八九百万片，不管多少吧。想以有限的库存数量，来延续无限的手机业务，实在是一件很难做到的事。</p><p>今年华为出的新款平板华为Pad pro，采用的是高通870处理器。</p><p>我以为高通公司卖给华为高通芯片，让华为放在平板上面。同样的，华为手机业务也将使用高通芯片来延续手机业务。</p><p>这个消息传出，看来这已经是不太可能事了。</p><p>美帝就是实打实的让华为手机业务去死！</p><p>瞄了一眼京东，华为的高端手机只有这一台有货。</p><p>不过也只是一台4G手机。</p><p>至于说这是什么样的产品策略？也应该不是叫做什么产品策略，这只能说是华为最后的倔强！</p>  
+弹吉他的胖达的回答<br><br><h2>关键是最后一句话，具体措施包括低价给已售华为手机更换电池、后盖，甚至是屏幕、主板、摄像头等元器件</h2><p>按照之前的消息，<b>河南、广东、浙江三省的华为手机老用户们，可以选择官方升级内存了。</b><br>期待向全国更多省份更多机型开放这项增值服务！<br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-69ba4a00666c86dd049881e2323e32e4_1440w.jpg" data-caption data-size="normal" data-rawwidth="1021" data-rawheight="2192" data-default-watermark-src="https://pic2.zhimg.com/v2-42d9e0a2b5902b961068f1aa55f29fd7_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-69ba4a00666c86dd049881e2323e32e4_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7e9d4dda3c464f66b122db3fa8fe62b3_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="997" data-default-watermark-src="https://pic1.zhimg.com/v2-6625aeefd24d28324d852158828bd87b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7e9d4dda3c464f66b122db3fa8fe62b3_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-aede25e1bb6a249cb0d2a716d947401a_1440w.jpg" data-caption data-size="normal" data-rawwidth="720" data-rawheight="1774" data-default-watermark-src="https://pic1.zhimg.com/v2-e42de7dec8a93e5d10aa55fd27362666_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-aede25e1bb6a249cb0d2a716d947401a_r.jpg" referrerpolicy="no-referrer"></figure><p><br>下一步会开放什么？<br><br></p><p><br><br> <br><br></p>  
 </div>
             
