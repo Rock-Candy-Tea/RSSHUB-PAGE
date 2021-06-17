@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=9546'
+headimg: 'https://picsum.photos/400/300?random=1382'
 author: 品玩
 comments: false
 date: Thu, 17 Jun 2021 01:47:55 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9546'
+thumbnail: 'https://picsum.photos/400/300?random=1382'
 ---
 
 <div>   
-视窗操作系统
+硅星人
 
 
 “官方”神秘泄露，Win11 居然就这么来了？
