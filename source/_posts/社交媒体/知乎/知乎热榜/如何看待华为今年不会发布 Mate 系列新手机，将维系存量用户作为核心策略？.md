@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-723f22493314dbf557b3e75ac1b9e855_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=6675'
 author: 知乎
 comments: false
-date: Thu, 17 Jun 2021 07:54:12 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-723f22493314dbf557b3e75ac1b9e855_1440w.jpg'
+date: Thu, 17 Jun 2021 07:56:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6675'
 ---
 
 <div>   
-养猫的哈士奇的回答<br><br><p>只能说非常的可惜，不要说Mate系列新机，就是P50能不能发出来还不知道，因为美国的第四轮制裁华为已经连充电头都生产不了了，P50原定的发布会推迟到不知道什么时候了，原因也是一样的。</p><p>正常情况下应该是麒麟10000（随便起的名字）已经搞定过两个月发布，Mate50系列新机也敲定最终方案为量产做准备，搭载麒麟9000E的Nova8\荣耀50开始收割市场。现在一切都没了，不过海思团队还算稳定，不知未来会不会有什么转机。</p><p>有意思的是从华为独立出来的荣耀CEO照明说荣耀未来最主要竞争对手是苹果，个人不看好，没有麒麟处理器华为手机也不会有和苹果竞争的资本，从华为独立出来的荣耀不是另一个华为，至少短期内不是。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-723f22493314dbf557b3e75ac1b9e855_1440w.jpg" data-caption data-size="normal" data-rawwidth="1200" data-rawheight="1600" data-default-watermark-src="https://pic1.zhimg.com/v2-c7b95b2ab47b1c47c61c131383c41fa8_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-723f22493314dbf557b3e75ac1b9e855_r.jpg" referrerpolicy="no-referrer"></figure><p>没了终端设备，这两年华为的重点就是鸿蒙，尽可能的留住用户，拓展手机外的其它品类，从鸿蒙的升级计划就可以看出来，连5年前的Mate9都包括，就是为了让这些用户尽可能的留下了，等待转机。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-85824dc151528f06edf464bd72b6f783_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="3359" data-default-watermark-src="https://pic3.zhimg.com/v2-108b7f10cd5bb5e505d3b43b6a85d7ea_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-85824dc151528f06edf464bd72b6f783_r.jpg" referrerpolicy="no-referrer"></figure><p>未来怎么样很难说，希望有转机吧，期待有朝一日Mate系列再发新机。</p><p>如果说两年后华为手机能回来，这两年打磨的服务、软件再加上原有的硬件能力，更可怕的是这个打硬仗磨合出来的团队，那真将无敌了。</p>  
+庙祝大人的回答<br><br><p>这都是早晚的事情。</p><p>海思麒麟9000芯片，有人说华为库存了2000多万片，有人说库存了八九百万片，不管多少吧。想以有限的库存数量，来延续无限的手机业务，实在是一件很难做到的事。</p><p>今年华为出的新款平板华为Pad pro，采用的是高通870处理器。</p><p>我以为高通公司卖给华为高通芯片，让华为放在平板上面。同样的，华为手机业务也将使用高通芯片来延续手机业务。</p><p>这个消息传出，看来这已经是不太可能事了。</p><p>美帝就是实打实的让华为手机业务去死！</p><p>瞄了一眼京东，华为的高端手机只有这一台有货。</p><p>不过也只是一台4G手机。</p><p>至于说这是什么样的产品策略？也应该不是叫做什么产品策略，这只能说是华为最后的倔强！</p>  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: 'OPPO Find X 向部分用户推送 ColorOS 11'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9b_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 17 Jun 2021 02:35:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9b_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 6 月 17 日消息 据 IT 之家网友投稿，OPPO Find X 昨日开测 ColorOS 11，该系统基于 Android 11，大小为 3.47GB，版本号为 PAFM00PRE_11_H.05，面向部分用户推送。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9b_1024.jpg" data-height="1136" data-width="596" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9b_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，数码博主 @差评帝 也表示有网友收到更新，但自己的 OPPO Find X 还没有。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9c_1024.jpg" data-height="435" data-width="777" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9c_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，OPPO Find X 于 2018 年发布，搭载高通骁龙 845 处理器，预装 ColorOS 5.1 系统，采用当时独特的隐藏式前置摄像头。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9d_1024.jpg" data-height="802" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33caf9d_1024.jpg" referrerpolicy="no-referrer"></div></div>2020 年发布的 ColorOS 11 以「创造无边界」的理念，在个性化创造、无缝感体验和感官级畅快三方面做了提升，用创新的无限息屏、更具效率的闪达窗口以及超过 1000 项的体验优化为用户带来更加流畅、互融、高效与安全的全场景体验。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202106/60cae98d8e9f090af33caf9e_1024.jpg" data-height="333" data-width="548" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cae98d8e9f090af33caf9e_1024.jpg" referrerpolicy="no-referrer"></div></div>个性化创造方面，ColorOS 11 充分整合系统自定义能力，对用户开放系统 UI 和 UX 设置权利，使用户可以通过「个性化引擎」自定义系统息屏、壁纸、声音甚至字体和控件，让每个人的 ColorOS 11 都能独一无二，更符合自己的审美习惯。而可以由用户自主创造无限息屏与多级暗色模式，则充分体验出 ColorOS 对用户体验的关注，赋予科技更多人文与艺术关怀。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202106/60cae98d8e9f090af33caf9f_1024.jpg" data-height="462" data-width="794" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cae98d8e9f090af33caf9f_1024.jpg" referrerpolicy="no-referrer"></div></div>底层方面，ColorOS 充分利用硬件资源，从资源调度、资源挖掘、资源抗老化和异常优化四个方面入手推出「防卡顿引擎」，让系统资源利用率整体提高了 45%，系统响应速度提升 32%，帧率稳定性提高 17%。在上层的界面交互上，ColorOS 11 搭载升级后的「量子动画引擎 2.0」，使系统动画与交互更畅快自然。全方位的升级优化，让 ColorOS 11 拥有更加流畅顺滑的体验。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202106/60cae98d8e9f090af33cafa0_1024.jpg" data-height="570" data-width="817" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cae98d8e9f090af33cafa0_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

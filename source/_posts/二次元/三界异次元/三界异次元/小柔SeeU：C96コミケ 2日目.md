@@ -59,17 +59,6 @@ C96コミケ 2日目<br>
 <br>
 https://twitter.com/igarashi1980/status/1160205341490946049<br>
 <br>
-じゅん @Sonnar38<br>
-2019/08/10 夏コミ2日目<br>
-小柔SeeUさん（@seeu_cosplay ）<br>
-暑い中ありがとうございました！<br>
-#C96 #C96コスプレ<br>
-<br>
-<img src="https://cors.zfour.workers.dev/?http://www.3ycy.com/rs/stimg/1160w/cGJzLnR3aW1nLmNvbS9tZWRpYS9FQm10d1hnVXdBSVVMNHEuanBn0" id="contentImage13" alt="小柔SeeU：C96コミケ 2日目" title="小柔SeeU：C96コミケ 2日目" referrerpolicy="no-referrer"><br>
-<br>
-https://twitter.com/Sonnar38/status/1160149431028596736<br>
-<br>
-<br>
 <br>
 
     
