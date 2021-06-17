@@ -1,0 +1,18 @@
+
+---
+title: '供应链断裂，芯片价格翻倍！印度Jio与谷歌联手打造的低端手机要_凉_？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872df_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 16 Jun 2021 15:34:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872df_1024.jpg'
+---
+
+<div>   
+<p>智东西 6 月 16 日消息，据彭博社报道，印度信实集团（Reliance）旗下的 Jio Platforms 与美国谷歌公司联手开发的廉价智能手机 "Google-Jio" 遇到了供应链断裂的难题。</p><p>去年 7 月，信实集团 CEO 穆克什 · 安巴尼（Mukesh Ambani）宣布将与谷歌联手打造 "Google-Jio" 廉价智能手机。他在公司大会上表示，该款手机将由谷歌负责构建安卓操作系统，而信实集团将负责设计低成本的 4G 或 5G 智能手机。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872df_1024.jpg" data-height="533" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872df_1024.jpg" referrerpolicy="no-referrer"></div></div>▲来源于 CMR 数据机构<p></p><p>据 CMR 数据机构发布的市场报告显示，2021 年一季度季度的印度 4G 智能手机市场出货量同比增长 14%。其中，中国的小米、Vivo、realme、OPPO 共占据了 84% 的印度智能手机市场。</p><p>相关人士分析，"Google-Jio" 的入场可能会抢占中国手机厂商的印度市场份额。</p><p>一、本土化组装，信实试图用 "Google-Jio" 征服印度手机市场</p><p>据知情人士透露，印度电信巨头穆克什 · 安巴尼计划通过 "Google-Jio" 征服印度市场，该款手机将实现印度本土化组装，主打价格优势。</p><p>信实集团和谷歌在去年 7 月达成合作后，就开始研发 "Google-Jio" 手机。</p><p>这款由谷歌与信实集团联手打造的廉价智能手机可能将在 6 月 24 日的股东大会上发布，最早将在 8 月或 9 月正式亮相。</p><p>据悉，信实公司最初将该款廉价智能手机的初始销售额定为数亿美元，但现在降低了目标销售额。</p><p>值得一提的是，安巴尼表示，他已经从 Facebook、谷歌和高通公司等多家美国公司那里获得了 200 多亿美元的投资。除了推出智能手机之外，他还将在本月推进与高通和 Facebook 旗下的 WhatsApp 在 5G 和电子商务方面的合作。</p><p>二、低价高效的安卓系统，谷歌重启 " 安卓 One" 计划</p><p>迄今为止，参与 "Google-Jio" 项目的谷歌工程师们一直致力于用最低的价格提供优质的软件体验。</p><p>该团队试图让搭载低成本硬件的安卓系统也能处理系统崩溃问题，让系统恢复正常。</p><p>谷歌并不是第一次做这样的尝试。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872e0_1024.jpg" data-height="533" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60c9b8a88e9f0918293872e0_1024.jpg" referrerpolicy="no-referrer"></div></div>谷歌曾在全球发展中国家推出了廉价安卓手机计划 " 安卓 One"，与各国手机厂商合作推出 100 美元以下的廉价安卓手机。<p></p><p>2015 年 8 月，谷歌选择与中国手机品牌传音（Infinix）合作，推出的廉价智能手机 Hot2，定价低于 90 美元，主要在非洲地区销售。Hot2 采用了联发科四核处理器，内存 1GB，机身存储为 16GB，支持存储卡扩展以及双卡双待，手机屏幕为 5 英寸，配置了 2200 毫安时的电池。</p><p>但谷歌的 " 安卓 One" 计划在印度市场遭遇了失败。面对中国的廉价智能手机产品，" 安卓 One" 的相关产品在性价比上难以占据优势。</p><p>如今，谷歌再次试图用廉价智能手机打进印度市场。谷歌与信实集团的合作代表着谷歌试图重启 " 安卓 One" 计划，在印度市场展开新的尝试。</p><p>三、硬件短缺、零件价格翻倍、货运成本高，疫情下的印度手机制造困难重重</p><p>据悉，目前 "Google-Jio" 研发团队已经完成了手机硬件以及相应安卓系统的设计。但受疫情影响，电子产品市场需求激增，采购手机相关零件困难，"Google-Jio" 制造计划受到影响。</p><p>据相关人士透露，上周，信实集团和谷歌团队开会讨论手机硬件规格的最终结果，但似乎没有得出结论。显示器和芯片组（chipsets）等重要手机零部件供应不足，公司采购的时长变化，这些状况都会影响着研发团队最终的硬件选择。</p><p>由于目前全球芯片短缺的困境，制造商获得显示器和芯片组这类手机零件的时间从原来的 35 至 45 天，增加到现在 65 至 75 天左右，几乎延长一个月。</p><p>行业人士透露，像那些可以组装智能手机零部件的表面安装技术机器（surface mount technology machines），它们的交付时间已经从去年的 60 天，增加到现在的 6 个月。</p><p>不仅是手机零部件交付的时间翻倍，它们的价格也近乎翻倍。</p><p>据组装 "Google-Jio" 的员工称，安装在智能手机充电器里的微处理器（microprocessor），它的价格从几个月前的 5 美分涨到 9 美分，价格翻了一倍。而显示器的价格也涨了 40%。</p><p>此外，货物运输的成本也不断上涨。</p><p>印度相关人士表示，在疫情前，一个 20 英尺的货箱从中国运到印度只需花费 800 美元的费用，现在则需要花费 3600 美元的费用。</p><p>相关人士表示，产品供应链的中断以及相关手机零件的价格上涨，运输费用增加等因素将会导致 Google-Jio 的产量降低，甚至可能推迟发布计划。</p><p>结语：疫情之下，Google-Jio 能否成功抢夺印度手机市场</p><p>信实集团和谷歌团队联手打造的 Google-Jio 主要定位为廉价智能手机，将实现印度本土化组装。</p><p>据 Strategy Analytics 的最新研究指出，2021 年一季度印度智能手机出货量达到 3900 万部，同比飙升至 26%，印度智能手机市场前景广阔。</p><p>但由于疫情影响，印度尚在封锁时期，工厂难以按时交货，手机制造的成本不断上涨。</p><p>而这时主打 " 廉价 " 标签的智能手机是否能在定价与性价比上，与中国手机一较高下，给印度手机市场带来变数，我们拭目以待。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

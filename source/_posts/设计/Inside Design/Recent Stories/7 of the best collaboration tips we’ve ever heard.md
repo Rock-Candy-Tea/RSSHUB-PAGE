@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/collaboration-tips/'
 author: Inside Design
 comments: false
-date: 2021-06-16 15:08:18
+date: 2021-06-17 00:21:30
 thumbnail: 'https://www.invisionapp.com/inside-design/collaboration-tips/'
 ---
 
