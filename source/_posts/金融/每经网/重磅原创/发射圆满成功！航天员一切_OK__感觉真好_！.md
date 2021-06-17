@@ -1,0 +1,65 @@
+
+---
+title: '发射圆满成功！航天员一切_OK__感觉真好_！'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/4819374130467190784.gov_img/2021/6/17/1560852614952539136.png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/4819374130467190784.gov_img/2021/6/17/1560852614952539136.png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          发射圆满成功！航天员一切“OK”“感觉真好”！
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-06-17 10:22:11
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+          <p style="color:#6d6d6d;font-size: 16px;">
+            每经编辑 何小桃    
+          </p>
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p><span>刚刚，全国沸腾！</span></p>            <p><span>北京时间2021年6月17日9时22分，搭载神舟十二号载人飞船的长征二号F遥十二运载火箭，在酒泉卫星发射中心点火发射。 </span></p>                        <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/4819374130467190784.gov_img/2021/6/17/1560852614952539136.png" alt="1560852614952539136.png" referrerpolicy="no-referrer"></p>
+<p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/9120489594438291456.gov_img/2021/6/17/7820315396085900288.jpeg" alt="7820315396085900288.jpeg" referrerpolicy="no-referrer"></p>            <p><span>此后，神舟十二号载人飞船与火箭成功分离，进入预定轨道，</span><span>顺利将聂海胜、刘伯明、汤洪波3名航天员送入太空，飞行乘组状态良好，发射取得圆满成功。</span><span>这是我国载人航天工程立项实施以来的第19次飞行任务，也是空间站阶段的首次载人飞行任务。飞船入轨后，将按照预定程序，与天和核心舱进行自主快速交会对接。组合体飞行期间，航天员将进驻天和核心舱，完成为期3个月的在轨驻留，开展机械臂操作、太空出舱等活动，验证航天员长期在轨驻留、再生生保等一系列关键技术。目前，天和核心舱与天舟二号的组合体已进入对接轨道，状态良好，满足与神舟十二号交会对接的任务要求和航天员进驻条件。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8666231368412998656.gov_img/2021/6/17/5173469525689810944.png" alt="5173469525689810944.png" referrerpolicy="no-referrer"></p>            <p><span>根据直播画面，</span><span>3名航天员进入太空后状态良好，<span>汤洪波</span>做出“OK”的手势，<span>聂海胜</span>露出微笑，脱口而出“感觉真好”。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/1322201405048608768.gov_img/2021/6/17/4713399993327608832.png" alt="4713399993327608832.png" referrerpolicy="no-referrer"></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8864664027027545088.gov_img/2021/6/17/9082229445631725568.png" alt="9082229445631725568.png" referrerpolicy="no-referrer"></p>      <p><span><strong>可可爱爱！</strong></span></p>      <p><span><strong>三名航天员向摄像头挥手打招呼</strong></span></p>            <p><span>今天清晨，神舟十二号载人飞行任务航天员乘组出征仪式，在酒泉卫星发射中心问天阁广场举行。6时32分，中国载人航天工程总指挥、空间站阶段飞行任务总指挥部总指挥长李尚福下达命令，聂海胜、刘伯明、汤洪波3名航天员领命出征。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/3649941435440057344.gov_img/2021/6/17/2396508630999148544.gif" alt="2396508630999148544.gif" referrerpolicy="no-referrer"></p>            <p><span>出征仪式后，三位航天员由骑警驾驶摩托车护卫飞行乘组乘车前往发射塔架。到达发射塔架后，他们搭乘电梯上到塔架九层平台的神舟十二号飞船舱口的位置。</span></p>            <p><span>三名航天员到在第9层等待进舱时，</span><span>航天员刘伯明首先发现摄像头冲镜头打招呼，紧接着聂海胜、汤洪波也相继发现摄像头，三人同时冲镜头挥手，气氛相当活跃。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/2977978075690462208.gov_img/2021/6/17/782405146852131840.gif" alt="782405146852131840.gif" referrerpolicy="no-referrer"></p>            <p><span>视频↓↓↓</span></p>            <p><span>完成进舱准备后，航天员汤洪波首先从轨道舱进入到返回舱，坐在了左手边的座位上。随后航天员刘伯明进入返回舱，坐在了右手边的位置上。整个的入舱过程中，航天员非常小心，互相也有一些搀扶的动作，这一方面是要保证航天员的安全，另一方面也是要保护飞船内的设备。航天员聂海胜最后一个开始入舱，他在进入轨道舱后，并没有直接进入返回舱，而是开始对轨道舱进行检查。轨道舱检查完毕后，聂海胜进入返回舱，坐在了中间的指令长位置。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8864664027027545088.gov_img/2021/6/17/9082229445631725568.png" alt="9082229445631725568.png" referrerpolicy="no-referrer"></p>      <p><span><strong>解密！</strong></span></p>      <p><span><strong>出征的三位航天员将带啥“私人物品”？</strong></span></p>            <p><span>三名航天员出征太空，他们搭乘神舟十二号载人飞船，去往已经在太空中的中国空间站天和核心舱，并将在轨工作生活三个月。为了让航天员能够更好地度过这三个月的太空生活，飞行乘组被允许携带少量的私人物品。出发前，三名航天员在接受记者专访时，分别透露了自己计划带哪些私人物品陪伴自己度过太空之旅。</span></p>            <p><span><strong><span>汤洪波：</span></strong></span><span>我给我们家儿子录了很多平常生活的视频，我偷偷录的，我准备带上去。我们家儿子特别幽默、乐观，是我的骄傲，我很喜欢他。</span><span>所以说，这些家庭生活，包括我爱人一起生活的一些录像，我带上去平常看一看，也是工作之余的放松。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/853557537036394496.gov_img/2021/6/17/8276985398139376640.jpeg" alt="8276985398139376640.jpeg" referrerpolicy="no-referrer"></p>            <p><span><strong><span>刘伯明：</span></strong></span><span>我现在准备带一个全家福，带一个牛娃娃，牛气冲天嘛。还带了一小袋助我睡眠的。有的跟着天舟上的，有的跟着核心舱上的，还有随我们载人船一起上的。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8260423154256945152.gov_img/2021/6/17/293519517732973568.jpeg" alt="293519517732973568.jpeg" referrerpolicy="no-referrer"></p>            <p><span><strong><span>聂海胜：</span></strong></span><span>私人物品也都有，作纪念的、作吃的、作展示的都有。到时候展示的时候大家可能也会看到。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/1603765731377441792.gov_img/2021/6/17/2810132634537461760.jpeg" alt="2810132634537461760.jpeg" referrerpolicy="no-referrer"></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8864664027027545088.gov_img/2021/6/17/9082229445631725568.png" alt="9082229445631725568.png" referrerpolicy="no-referrer"></p>      <p><span><strong>A股相关个股或受益</strong></span></p>            <p><span>证券时报援引分析师意见称，我国“十四五”重大航天工程中的载人航天空间站工程建设大幕拉开，后续多个重大航天项目正在稳步推进中，而未来依靠该类航天重大项目订单驱动的航天装备产业链上的相关上市公司业绩也有望兑现。</span></p>            <p><span>相关公司方面，资料显示：</span></p>      <p><span>全信股份：公司为空间站配套了C55系列宇航用线缆、C55/LF系列低氟析出宇航用线缆以及1553B数据总线电缆等。其中天和核心舱使用的低氟电线电缆和1553B数据总线电缆全部来自公司。</span></p>                <p><span>雷科防务：子公司恒达微波有产品有应用于空间站建设领域。</span></p>                <p><span>华力创通：空问站部分设备的研制提供仿真测试服务。</span></p>                <p><span>奥普光电：给空间站核心舱提供光学设备，参与了与空间站共轨飞行的巡天光学舱的部分部件的研制。</span></p>                <p><span>天奥电子：产品主要应用于航空航天、卫星导航、军民用通信及国防装备等领域，参与我国空间站系统工程建设。</span></p>             <p><span>（文章内容、数据仅供参考，不构成投资建议。投资者据此操作，风险自担。）</span></p>            <p><span><strong>编辑|</strong>何小桃 杜恒峰</span></p>      <p><span><strong>校对|</strong>卢祥勇</span></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/4067530677293123584.gov_img/2021/6/17/7095395590580047872.png" alt="7095395590580047872.png" referrerpolicy="no-referrer"></p>      <p><span>每日经济新闻综合央视新闻等</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/8369022341170670592.gov_img/2021/6/17/9033537432997374976.png" alt="9033537432997374976.png" referrerpolicy="no-referrer"></p>       <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/6/17/2771544080653614080.gov_img/2021/6/17/253976898758686720.png" alt="253976898758686720.png" referrerpolicy="no-referrer"></p>            
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
