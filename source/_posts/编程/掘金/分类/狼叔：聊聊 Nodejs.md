@@ -1,0 +1,33 @@
+
+---
+title: '狼叔：聊聊 Node.js'
+categories: 
+ - 编程
+ - 掘金
+ - 分类
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03ce820efd4a4b9c8ca5f25bcb8ed7f5~tplv-k3u1fbpfcp-zoom-1.image'
+author: 掘金
+comments: false
+date: Fri, 18 Jun 2021 00:46:09 GMT
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03ce820efd4a4b9c8ca5f25bcb8ed7f5~tplv-k3u1fbpfcp-zoom-1.image'
+---
+
+<div>   
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03ce820efd4a4b9c8ca5f25bcb8ed7f5~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p>前阵子我在知乎上回答了《2021前端会有什么新的变化？》，单篇33.8万的阅读量，还是不错的，说明大家非常关心前端的变化趋势，这里再与大家分享一下我对 Node.js 相关内容的看法。</p>
+<h2 data-id="heading-0"><strong>Node.js 概况</strong></h2>
+<p>整体看，Node.js 社区还是非常健康且与时俱进的。Serverless 借着云原生这波基建升级，逐渐走入更多开发者的视野中。低运维，甚至是0运维，对前端来讲是致命诱惑的。Node.js 被吐槽最多的运维问题，在 Serverless 时代没有了，且Serverless 容器跑的最多的示例都是 Node.js 环境。以前的说法是“所有云厂商都爱 Node.js”，现在要改成了“所有 Serverless 厂商和开发者都爱 Node.js”了。</p>
+<p>如果是今年选 Node.js Web 框架，大概只有 Midway、Nest 和 next.js 了。从框架性价比角度上看，Midway 是很好的，你想要的 IoC 与 FaaS 集成等都是非常专业的，作者能力很强，可惜历史包袱+过度设计，击中开发者的点总觉得不那么准，不太理解搞那么多 gRPC 的集成有啥用，反而在常用db，缓存，脚手架等方面没有啥动作。Nest 作为最像 Java 全家桶的框架，其 IoC 写法从 Angular 而来，生态和规模都已经相当大，是一个不可忽视的存在，如果能接受写法和调试成本，是一个不错的选择。next.js 是一线开发者最佳视角的框架，将易用性做到了极致，从最初 ssr 定位到现在的 jamStack 架构下的全能型框架，相当于 Umi + Midway 的超集，其功能是非常强大的，未来的野心和商业版图是非常可观的。从工程角度看，next.js 第一，其次是 Nest 和 LoopBack4，LoopBack4 在配套做的相当优秀，可惜用的人不多。</p>
+<p>新的框架和具有创新点的框架也是有很多的。比如 blitzjs 和 redwoodjs ，目前还是比较新的框架，处于成熟期，从全栈或基于 Jamstack 角度看，未来还是有一定空间的。另外 Midway-hooks 和 Farrow，都有创新的。Midway-hooks 是 Midway-FaaS 基础上加入了 React hooks，由于 FaaS 之上有路由和参数信息，所以在前端的 Ajax 部分可以直接生成出来，再结合 React hooks 友好写法，这是很有创新和与时俱进想法的，在同构演进里也是具有里程碑意义的。另一个是 Farrow，它基于 TypeScript 4.1 发布的特性——Template Literal Types，实现了 Rocket 框架所实现的对 URL 中参数的校验并映射到了 TypeScript 的类型中，这点还算有些新意。</p>
+<h2 data-id="heading-1"><strong>狼叔是如何做的？</strong></h2>
+<p>狼叔目前淘系前端团队，也一直还在做和 Node.js 相关的事儿，简单分享一下目前在做的事儿。</p>
+<p>1、 2019年做 egg-react-ssr，还算比较成功的，大型 ssr 项目算的上是最佳实践了。2020年底开始做 ykfe/ssr，在 egg-react-ssr 基础上，做了插件化，支持了Vite，支持了 Vue2/Vue3/React 多种前端框架，支持 FaaS 和各种 Node.js Web 框架，说是地球上较好的 ssr 框架，也不算过分。在 ssr 世界里，不确定的是 React server component，我还没看明白，研究中。最有可能带来破坏性的是 React concurrent mode，目前这方面尝试还比较少，观望。</p>
+<p>早年做 ssr 做C端性能优化是被迫的，今天 ssr 几乎已经成了前端标配，除了唤端拉新效率上提升外，来自各个大厂的关注用户体验升级的背景下，更是催熟了ssr 的落地环境，作为 Node.js 落地重要应用场景之一，ssr 还是有很大上升空间的，相信 ykfe/ssr 也会越来越好。</p>
+<p>2、 iMove 面向开发者的逻辑编排工具。年初开源到现在已经超过 2.8k Star 了，可见大家对这种开发方式还是非常认可的。在 lowCode 和 noCode 背景下，iMove 也算是一个还不错的创新方式，通过流程图，双击编写代码，继而完成复杂逻辑处理，在 Code Review 过程里受到了 PD 和后端的极大认可。其实，iMove 更想解决的是编程模式上的创新，以前是按照需求直接写代码，而当可视化之后，先想想节点如何拆分，然后再去实现，这样才能更好的进行设计。iMove 接下来会侧重管理功能（系统设置：Runtime、私有源、节点模板），做好节点市场，并加入 API 模式（对 Node.js 支持会更好）。</p>
+<p>iMove 将逻辑进行结构化，和搭建天然是搭档。未来能否改变前端的开发方式，还是值得期待的。</p>
+<p>3、通过 ESM 改善开发者体验。在 iMove 开发过程中，我们探索了 ESM 在浏览器中直接运营的能力，无需本地安装 npm 模块。这是极其轻量的做法，结合Vite，以及很多CJS转 ESM 服务，可以看到当下很多研发模式都会被废弃，比如本地开发，WebIDE 等等。如果在浏览器直接可以运行，为啥还要做那些浪费时间且毫无意义的事儿呢？</p>
+<p>当然，在浏览器直接可以运行是改善开发者体验的一部分，配套设施要跟上，比如直接在浏览器修改代码并编译保存，是不是想想就很美好？如果再结合 Vercel（next.js 母公司）的做法，将 Serverless 和 CI/CD、Git hooks 进行集成，页面托管到 Serverless 平台，无需关心运维。是的，只要有一个浏览器，就可以满足前端的所有开发的时代，很快就可以实现。</p>
+<p>4、《狼书》卷三很快就要发布了。卷三主要是自己写 npm，写框架，测试，开源，微服务，性能调优，如何学习这些内容。在我看来，《狼书》三卷还是面向初级 Node.js 开发者，卷三写的是高级篇，除了一些实践外，又加入了开源和如何学，目的是为了授人以渔。</p>
+<p>既然是授人以渔，狼叔也在此送出狼书10本（卷一卷二随机送出），欢迎大家关注 Alibaba F2E 微信公众号，回复 送狼书 参与抽奖。</p></div>  
+</div>
+            

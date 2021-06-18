@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://ucc.alicdn.com/pic/developer-ecology/4f784062c6724dc687eecacba082e28a.png'
+headimg: 'https://ucc.alicdn.com/pic/developer-ecology/438994a432db4a289bb98a571eb3c22c.png'
 author: Dockone
 comments: false
-date: 2021-06-18 08:08:38
-thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/4f784062c6724dc687eecacba082e28a.png'
+date: 2021-06-18 09:07:02
+thumbnail: 'https://ucc.alicdn.com/pic/developer-ecology/438994a432db4a289bb98a571eb3c22c.png'
 ---
 
 <div>   
-<br><img src="https://ucc.alicdn.com/pic/developer-ecology/4f784062c6724dc687eecacba082e28a.png" alt="头图1111.png" referrerpolicy="no-referrer"><br>
 <br>作者：清弦<br>
 阿里云技术专家，主要负责 ACK 容器网络设计与研发，阿里云开源 CNI 项目 Terway  主要维护者，Cilium Alibaba IPAM 负责人<br>
 ​<br>
