@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210618/1623982522_1720
 
 <div>   
 <p style="text-indent:2em;">
-昨日（6月17日）一位4chan网友透露称FromSoftware正在开发一款PS5独占游戏，这款游戏是《血源诅咒》的精神续作，目前项目代号为Velvet Veil。此次泄密者之前在17年到18年期间还透露过《只狼》、《Deracine》、《黑魂重置版》以及《艾尔登之环》相关信息。
+昨日（6月17日）一位4chan网友透露称FromSoftware正在开发一款PS5独占游戏，这款游戏是《<a target="_blank" href="https://www.3dmgame.com/games/bloodborne/">血源诅咒</a>》的精神续作，目前项目代号为Velvet Veil。此次泄密者之前在17年到18年期间还透露过《只狼》、《Deracine》、《黑魂重置版》以及《艾尔登之环》相关信息。
 </p>
 <p style="text-indent:2em;">
 <strong>以下是泄密者的战绩：</strong> 

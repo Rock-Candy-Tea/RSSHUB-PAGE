@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/036/838/884/original/a23abd384e640b23.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/036/839/490/original/30c554682fa8b87c.png'
 author: Mastodon
 comments: false
-date: Fri, 18 Jun 2021 02:22:37 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/036/838/884/original/a23abd384e640b23.png'
+date: Fri, 18 Jun 2021 03:04:57 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/036/839/490/original/30c554682fa8b87c.png'
 ---
 
 <div>   
-<hr><p>Quiere...</p><br><img src="https://img.pawoo.net/media_attachments/files/036/838/884/original/a23abd384e640b23.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Suele pasar...</p><br><img src="https://img.pawoo.net/media_attachments/files/036/839/490/original/30c554682fa8b87c.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
