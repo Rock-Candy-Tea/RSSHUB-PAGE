@@ -15,7 +15,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/c7e05c54a3905fb784c95623d7f2317b.png'
 <div>   
 <img src="https://cdn.itjuzi.com/images/c7e05c54a3905fb784c95623d7f2317b.png" referrerpolicy="no-referrer"><br><br>
         <strong>智子跃迁</strong><br>
-        一家以智能机器人技术为核心的创新企业<br>
+        智能分拣机器人研发商<br>
         A轮 / 数千万人民币 / 2021-06-18<br>
         投资方: 愉悦资本、紫竹小苗基金
         
