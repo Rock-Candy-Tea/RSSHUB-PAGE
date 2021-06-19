@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3902'
+headimg: 'https://picsum.photos/400/300?random=3177'
 author: 开源中国
 comments: false
-date: Fri, 18 Jun 2021 23:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3902'
+date: Sat, 19 Jun 2021 07:33:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3177'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Taro 3.2.13 发布了。Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。此版本更新内容包括：</p> 
+                                                                    
+                                                        <p>Taro 3.2.13 发布了。Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。此版本更新内容包括：</p> 
 <h3>特性</h3> 
 <h4>小程序</h4> 
 <ul> 

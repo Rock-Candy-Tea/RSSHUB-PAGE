@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4636'
+headimg: 'https://picsum.photos/400/300?random=2517'
 author: 开源中国
 comments: false
 date: Sat, 19 Jun 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4636'
+thumbnail: 'https://picsum.photos/400/300?random=2517'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 开发团队很高兴地宣布 pgAdmin 4 5.4 版本正式发布。本次版本更新中值得注意的变化包括：</p> 
+                                                                    
+                                                        <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 开发团队很高兴地宣布 pgAdmin 4 5.4 版本正式发布。本次版本更新中值得注意的变化包括：</p> 
 <p><strong>新特性：</strong></p> 
 <ul> 
  <li>在首选项中增加了浏览按钮来选择二进制路径；</li> 

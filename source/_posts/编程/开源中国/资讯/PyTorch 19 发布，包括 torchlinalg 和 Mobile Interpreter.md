@@ -8,13 +8,14 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-2740c3bd7cdabb5da466d3af631de2ad937.png'
 author: 开源中国
 comments: false
-date: Fri, 18 Jun 2021 23:43:00 GMT
+date: Sat, 19 Jun 2021 07:42:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-2740c3bd7cdabb5da466d3af631de2ad937.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>PyTorch 1.9 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fpytorch.org%2Fblog%2Fpytorch-1.9-released%2F" target="_blank">发布</a>，该版本包含了自 1.8 以来的 3400 多个 commit ，有 398 位贡献者参与更新。主要亮点内容包括：</p> 
+                                                                    
+                                                        <p>PyTorch 1.9 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fpytorch.org%2Fblog%2Fpytorch-1.9-released%2F" target="_blank">发布</a>，该版本包含了自 1.8 以来的 3400 多个 commit ，有 398 位贡献者参与更新。主要亮点内容包括：</p> 
 <ul> 
  <li>支持科学计算方面的重大改进，现已支持 torch.linalg、torch.special 以及 Complex Autograd；</li> 
  <li>使用 Mobile Interpreter 对设备上的二进制大小进行重大改进；</li> 

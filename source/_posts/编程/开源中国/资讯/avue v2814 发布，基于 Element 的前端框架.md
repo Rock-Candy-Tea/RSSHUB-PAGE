@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3198'
+headimg: 'https://picsum.photos/400/300?random=2421'
 author: 开源中国
 comments: false
 date: Fri, 18 Jun 2021 16:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3198'
+thumbnail: 'https://picsum.photos/400/300?random=2421'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>avue v2.8.14 已经发布，这是一个基于 Element 的前端框架。</p> 
+                                                                    
+                                                        <p>avue v2.8.14 已经发布，这是一个基于 Element 的前端框架。</p> 
 <p>此版本更新内容包括：</p> 
 <h2>v2.8.14</h2> 
 <p><code>2021-06-18</code></p> 

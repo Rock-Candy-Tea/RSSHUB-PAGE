@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4290'
+headimg: 'https://picsum.photos/400/300?random=9809'
 author: 开源中国
 comments: false
-date: Fri, 18 Jun 2021 23:32:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4290'
+date: Sat, 19 Jun 2021 07:31:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9809'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。</p> 
+                                                                    
+                                                        <p>Wasmer 是支持 WASI 和 Emscripten 的 WebAssembly 运行时，提供基于 WebAssembly 的超轻量级容器，其可以在任何地方运行：从桌面端到云端、以及 IoT 设备，并且能嵌入在任何编程语言中。</p> 
 <p>Wasmer 2.0 的新内容：</p> 
 <p>SIMD</p> 
 <ul> 

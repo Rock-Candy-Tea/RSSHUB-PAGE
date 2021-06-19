@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-e6474f0d8724e5a7da68c912585dd92
 
 <div>   
 <div class="content">
-                                                                                            <p>DevEco Studio 2.1 发布已有一段时间，因为是正式版本，所以在此同步一下。</p> 
+                                                                    
+                                                        <p>DevEco Studio 2.1 发布已有一段时间，因为是正式版本，所以在此同步一下。</p> 
 <p>经过多个 Beta 测试版本的迭代，DevEco Studio 2.1 在6月2日发布了首个正式版本，下面是更新说明。</p> 
 <h1>新增特性</h1> 
 <h2>一、新增跨设备工程模板</h2> 

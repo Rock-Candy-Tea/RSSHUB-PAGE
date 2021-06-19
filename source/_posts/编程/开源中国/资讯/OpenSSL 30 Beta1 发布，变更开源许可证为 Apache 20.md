@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2429'
+headimg: 'https://picsum.photos/400/300?random=8393'
 author: 开源中国
 comments: false
-date: Fri, 18 Jun 2021 23:58:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2429'
+date: Sat, 19 Jun 2021 07:57:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8393'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>OpenSSL 3.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.openssl.org%2Fblog%2Fblog%2F2021%2F06%2F17%2FOpenSSL3.0ReleaseCandidate%2F" target="_blank">发布</a>了首个 Beta 版本，开发团队表示他们将其视作 RC 版本，因此鼓励所有 OpenSSL 用户针对这个测试版进行构建和测试，并提供反馈。</p> 
+                                                                    
+                                                        <p>OpenSSL 3.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.openssl.org%2Fblog%2Fblog%2F2021%2F06%2F17%2FOpenSSL3.0ReleaseCandidate%2F" target="_blank">发布</a>了首个 Beta 版本，开发团队表示他们将其视作 RC 版本，因此鼓励所有 OpenSSL 用户针对这个测试版进行构建和测试，并提供反馈。</p> 
 <p>据介绍，在过去的几个月里，开发团队为 OpenSSL 3.0 的最终发布做了许多工作。他们表示整个 OpenSSL 3.0 的开发工作量是巨大的，自从开始 3.0 以来，已经有 300 多个不同的贡献者提交了 7000 多个 commit。</p> 
 <p>下面介绍一下 OpenSSL 3.0 的主要新功能和变化。</p> 
 <ul> 

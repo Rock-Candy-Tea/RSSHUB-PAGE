@@ -21,7 +21,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210619/s_948c7537f8254b7da5de1759df
 <p>在前不久的鸿蒙发布会上，华为官方已经公布了P50系列的宣传视频，这也证明了华为已经准备好了这款全新旗舰。</p>
 <p>从官方公布的外观视频来看，华为P50系列的背部设计与此前多方爆料基本一致，后摄将采用双圆环的设计，其中根据规格将配备不同的摄像头模组。</p>
 <p>值得一提的是，消息称华为P50将全系标配索尼独家定制IMX800传感器，拥有接近1英寸的超大底，这也是索尼有史以来最大底的传感器，能带来更加强劲的成像效果。</p>
-<p align="center"><a href="https://img1.mydrivers.com/img/20210619/948c7537f8254b7da5de1759df4bf3b4.jpg" target="_blank"><img alt="不会停更！华为Mate 50最新消息曝光：P50之后登场" h="450" src="https://img1.mydrivers.com/img/20210619/s_948c7537f8254b7da5de1759df4bf3b4.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p align="center"><a href="https://news.mydrivers.com/picture/764392/764392_1.html" target="_blank"><img alt="不会停更！华为Mate 50最新消息曝光：P50之后登场" h="450" src="https://img1.mydrivers.com/img/20210619/s_948c7537f8254b7da5de1759df4bf3b4.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
            
