@@ -91,7 +91,7 @@ getCenter()获取地图中心经纬度坐标 lngLatToContainer() 地图经纬度
         this.centerPixel = pixel
     &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p>扎点图片需要相对定位自身高度top:-自身高度 left:-自身宽度/2，原因是：定位点是以盒子的左上角定位到中心的（虚线盒子），所以我们需要将（虚线盒子）移动到（实线盒子）位置，这样扎点的位置就准确了。请看下图：
+<p>扎点图片需要相对定位top:-自身高度 left:-自身宽度/2，原因是：定位点是以盒子的左上角定位到中心的（虚线盒子），所以我们需要将（虚线盒子）移动到（实线盒子）位置，这样扎点的位置就准确了。请看下图：
 <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9104264bcb954e8b838c537456935505~tplv-k3u1fbpfcp-watermark.image" width="180px" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-2">3. 开启定位</h3>
 <p>需要实现：</p>
