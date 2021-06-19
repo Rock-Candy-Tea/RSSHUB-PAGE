@@ -1,0 +1,19 @@
+
+---
+title: '_图_三星Galaxy Tab S7 FE_A7 Lite平板即将登陆印度市场'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0619/6d54916b16d61a4.jpg'
+author: cnBeta
+comments: false
+date: Sat, 19 Jun 2021 08:31:05 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0619/6d54916b16d61a4.jpg'
+---
+
+<div>   
+5 月下旬，三星发布了 12.4 英寸的 Galaxy Tab S7 FE 5G，以及更实惠的 Galaxy Tab A7 Lite（4G LTE / Wi-Fi）平板电脑新品。<a href="https://www.cnbeta.com/articles/tech/1139079.htm" target="_blank">6 月上旬国行版开启预售之后</a>，今天三星宣布这两款平板将于 6 月 23 日登陆印度市场。通过三星官网、三星 Exclusive Stores、以及其他线上线下合作伙伴进行销售。<br>
+ <p style="text-align: left;"><strong>● Galaxy Tab S7 FE</strong></p><p style="text-align: left;">Tab S7 FE 共有 Mystic Black, Mystic Silver, Mystic Green 和 Mystic Pink 四种颜色，有 4GB+64GB 和 6GB+128GB 两种存储组合，售价分别为 46999 卢比（约合 4090.54 元）和 50999 卢比（约合 4438.68 元）。两种组合均配备 4G LTE 蜂窝网络连接。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0619/6d54916b16d61a4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0619/6d54916b16d61a4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Tab S7 FE 5G 的定位，介于 Tab S7+（12.4 英寸 sAM<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a> @ 120Hz）和 Tab S7（11 英寸 LCD @ 120Hz）之间，60Hz LCD 屏的分辨率为 2560×1600（宽高比 16：10），且预装了基于 Android 11 定制的 One UI 3.1 软件。</p><p style="text-align: left;">Galaxy Tab S7 FE 5G 的包装内附带了一支 S Pen 手写笔，可将之用于笔记和绘图等应用，且用户能够通过 DeX 模式获得桌面般的使用体验。除了 Book Cover 键盘保护套，你也可以为它搭配任何兼容的蓝牙键鼠等外设。</p><p style="text-align: left;">处理器方面，该平板采用了高通骁龙 750G 中端 SoC，而不是 Tab S7 / S7+ 的骁龙 865 高端芯片组。存储方面，标准版为 4GB RAM + 64GB ROM、高配版为 6GB RAM + 128GB ROM 。但无论哪种，用户都可借助 microSD 插槽实现 1TB 存储扩展。</p><p style="text-align: left;">该平板内置了 10090 mAh 电池（与 Tab S7+ 一样），4G / Wi-Fi 连接下可达 12 小时续航。支持 45W 快充（只需 90 分钟即可充满电）、但包装内仅配备了 15W 的电源适配器。</p><p style="text-align: left;">连接方面，其支持 Wi-Fi 5、蓝牙 5.0、GPS、USB 3.2 Gen 1 Type-C，但没有 NFC 和 3.5mm 耳机插孔。不过该平板还是配备了支持杜比全景声（Dolby Atoms）的 AKG 立体声扬声器。</p><p style="text-align: left;">拍照方面，机身正面有个 5MP 定焦前摄，可在视频通话期间追踪面部，以确保用户始终处于画面中心。后摄为一枚 8MP 传感器（无超广角镜头），支持自动对焦和 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a> @ 30 fps 视频录制。</p><p style="text-align: left;"><strong>● Galaxy Tab S7 Lite</strong></p><p style="text-align: left;">Galaxy Tab S7 Lite 只有 3GB+32GB 这一种组合，不过提供了 WiFi-Only 和 LTE 两种型号。前者的售价为 11999 卢比，后者的售价为 14999 卢比，共有 Gray 和 Silver 两种颜色。Galaxy Tab A7 Lite 采用了 8.7 英寸 @ 1340×800 分辨率（宽高比 15：9）的 LCD 屏，后盖采用了金属材质，厚度 8.0 毫米，重量为 366 克（LTE 版本要略多几克）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0619/8b3cd9b75481615.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0619/8b3cd9b75481615.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">处理器为联发科 Helio P22T（即 MT8768T），拥有 8 个 Cortex-A53 内核 + PowerVR GE8320 GPU，辅以 3GB RAM + 32GB ROM / 4GB RAM + 64GB ROM（支持 1TB microSD 扩展）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0619/4cdb68eb154be59.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0619/4cdb68eb154be59.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">电池容量 5100 mAh，支持 15W USB-C 充电（需自备快充头）。由于端口速率仅限 USB 2.0，因而不支持 DeX 桌面扩展模式。连接方面，其支持 Wi-Fi 5 或 4G LTE（同样没有 NFC）。拍照方面，Tab A7 Lite 提供了前置 2MP 定焦视频通话摄像头 / 支持 1080p @ 30fps 的后置 8MP 自动变焦摄像头。音频方面，尽管缺少 AKG 品牌加成，但它还是支持杜比全景声。</p>   
+</div>
+            

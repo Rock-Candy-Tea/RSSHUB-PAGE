@@ -27,14 +27,14 @@ Giant工作室上色，而这次Dark Horse Direct的新模型则更换了一对�
 52联手打造，其形象是游戏中的另一名角色——艾比。艾比人偶以其标志性的马尾辫造型出现，装备有手枪和锤子。艾比在《最后的生还者2》里面是一个极具争议性的角色，其行动也对<a target="_blank" href="https://www.3dmgame.com/tag/juqing_1/">剧情</a>造成了显著的影响。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624073844_114925.jpg" alt="Dark Horse推出《最后的生还者2》艾比人偶模型" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624073844_114925.jpg" alt="Dark Horse推出《最后的生还者2》艾比人偶模型" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《最后的生还者2》艾比人偶模型现已<a href="https://direct.darkhorse.com/products/the-last-of-us-part-ii-abby-statue" target="_blank"><strong><span style="color:#E53333;">开放预购</span></strong></a>，售价199.99美元，但预购开放的时间比较短，Dark Horse 
 Direct的预购截止日期定于7月30日，玩家只有一个多月的时间预购这款限量版模型。该模型预计于2022年1-3月之间发货，也就是说玩家要等到明年才能拿到这款模型了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624073866_965681.png" alt="Dark Horse推出《最后的生还者2》艾比人偶模型" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624073866_965681.png" alt="Dark Horse推出《最后的生还者2》艾比人偶模型" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《最后的生还者2》现已登陆PS4和PS5平台。
