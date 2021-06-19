@@ -76,11 +76,10 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/05/BuW0TiKlEbRKd8toI3gr.png'
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/DiDw43ZjUvjg1MGVSdGk.jpg" alt width="1181" height="650" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">↑↑↑若群限制，请回到01加顾问小哥，拉你入群</p>
 <p style="text-align: center">/////</p>
-<p style="text-align: center">近期开课-6月21日</p>
-<p style="text-align: center">现在报名冲刺入学季</p>
-<p style="text-align: center">单人报名立减300元！</p>
-<p style="text-align: center">两人组团各减400元！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/sqoWymPbqJhkHgSv6H7K.jpg" alt width="800" height="400" referrerpolicy="no-referrer"></p>
+<p style="text-align: center">近期开课-7月26日</p>
+<p style="text-align: center">JY29期 早鸟特惠期</p>
+<p style="text-align: center">报名立减1000元</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/o0ot1KeL1tASXn4wo8Rh.jpg" alt width="703" height="1250" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">最后1个福利</p>
 <p style="text-align: center">20个免费“产品潜能测评”名额</p>
 <p style="text-align: center">测测你是否适合当产品经理</p>
