@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic4.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-06-19 01:59:40
-thumbnail: 'https://pic4.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162'
+date: 2021-06-19 02:39:02
+thumbnail: 'https://pic2.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic4.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic4.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-2d19ffa34f39b9b99fc4deb23b8b8fe1_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">畦哇硅，</span><span class="bio">清华数学零字班，加我看猫猫！</span>
 <a href="https://www.zhihu.com/question/463586860/answer/1937420904" class="originUrl" hidden>查看知乎原文</a>
 </strong>
