@@ -1,0 +1,19 @@
+
+---
+title: '《侏罗纪世界3》片段泄露 南方巨兽龙vs霸王龙'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0620/c8d8377495a5c16.jpg'
+author: cnBeta
+comments: false
+date: Sun, 20 Jun 2021 06:58:55 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0620/c8d8377495a5c16.jpg'
+---
+
+<div>   
+《侏罗纪世界3：统治》将在2022年6月10日美国上映，虽然距离上映还有一年的时间，但环球影业已经在封闭展映了电影的部分片段。现在这段视频就在网上泄露，展示了6500万年前白垩纪的恐龙生态场景。不过因为是屏摄画质，大家将就看看就好。<br>
+ <p>泄露片段：</p><p style="text-align: center;"><iframe src="//player.youku.com/embed/XNTE3MTUyMjUzMg==" width="640" height="480" frameborder="0"></iframe></p><p>泄露的片段中首先出现了三角龙等食草恐龙，之后便是体型巨大的风神翼龙和鸡贼的窃蛋龙登场。随后镜头一转，一只小龙正在给南方巨兽龙“剔牙”。不过安静的时刻没有持续太久，不速之客霸王龙的到来意味着一场争斗不可避免。</p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953193970.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/c8d8377495a5c16.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/c8d8377495a5c16.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/c8d8377495a5c16.jpg" referrerpolicy="no-referrer"></a></p><p>风神翼龙（翼展超过11米长，是人类已知最大的飞行动物）</p><p>片段中能看到南方巨兽龙与霸王龙体型相当，在打斗中甚至一度占据上风，而最后霸王龙竟然被摔下悬崖惨死。在霸王龙的新鲜尸体上，一只蚊子飞过来开始吸血，也许它就是侏罗纪系列的一切源头。</p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953203862.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/b83d6fcd2f6153c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/b83d6fcd2f6153c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/b83d6fcd2f6153c.jpg" referrerpolicy="no-referrer"></a></p><p>南方巨兽龙</p><p>视频画面：</p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953192952.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/6ee96f5969638ea.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/6ee96f5969638ea.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/6ee96f5969638ea.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953204385.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/45f9660d5554e4f.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/45f9660d5554e4f.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/45f9660d5554e4f.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953202057.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/7f1c327bc8a037b.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/7f1c327bc8a037b.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/7f1c327bc8a037b.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2021/06/20/origin_202106200953211596.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0620/556aa021638e0a5.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0620/556aa021638e0a5.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0620/556aa021638e0a5.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
