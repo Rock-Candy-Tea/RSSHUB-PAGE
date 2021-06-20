@@ -243,7 +243,7 @@ async function rmdir(dir) &#123;
 <ol>
 <li>文件目录本质：是树形结构数据</li>
 <li>文件目录的操作是对树形结构的数据的操作</li>
-<li>留个坑位 下次写树形结构的了解  <strong>待续。。。。。</strong></li>
+<li>留个坑位 下次写<a href="https://juejin.cn/post/6975861599777062926/" target="_blank"> 树形结构的了解</a></li>
 </ol>
 <p><code>最后如果觉得本文有帮助 记得点赞三连哦 十分感谢</code></p></div>  
 </div>
