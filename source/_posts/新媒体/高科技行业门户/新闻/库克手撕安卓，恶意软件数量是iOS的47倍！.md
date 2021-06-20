@@ -1,0 +1,19 @@
+
+---
+title: '库克手撕安卓，恶意软件数量是iOS的47倍！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171045431339.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 20 Jun 2021 03:04:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171045431339.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">媒体报道指出<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>CEO库克近日在接受媒体访问的时候指责<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>手机的恶意软件数量是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span>系统的47倍,认为安卓市场的APP严重侵犯了用户的隐私,危害用户的信息安全。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171045431339.jpg" width="100%" title="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" alt="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">对于库克的说法,有媒体指这份数据不知来自何方,不过在事实上安卓手机的安全性确实不如苹果的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span>,这主要是因为安卓的开放性造成的。</p><p style="text-indent: 2em; text-align: left;">在全球市场,苹果的App Store统一对上载的App进行严格审核,确保App的安全性,同时严格限制APP索取用户授权,在中国市场甚至有知名互联网公司的APP被App Store下架,在符合了苹果的隐私授权之后才能再度上线。</p><p style="text-indent: 2em; text-align: left;">相比之下,<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%B0%B7%E6%AD%8C.HTM" target="_blank" title="谷歌">谷歌</a></span>play对于APP的审核就没有苹果那么严格,这是因为谷歌从play的APP中获得的收入较为有限,它主要依靠广告等方式获得收入;在中国市场,谷歌更是几乎无法控制安卓手机安装应用,中国手机企业剪切掉谷歌的所有应用并建立自己的应用市场,同时安卓手机用户还可以通过网页下载apk文档自行安装。</p><p style="text-indent: 2em; text-align: left;">这就造成了安卓手机用户容易安卓木马等恶意软件,而且安卓手机的应用普遍索取过多授权,甚至近期工信部就指出多家手机品牌的应用市场存在恶意软件,而且普遍来说安卓手机用户经常被广告骚扰,甚至于他们日常浏览了任何商品,安卓手机也会迅速推送相关的产品广告。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171045775799.jpg" width="100%" title="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" alt="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">库克的此番说法虽然颇为符合事实,不过作为一个手机企业的CEO直接出面指责竞争对手的产品,却是比较罕见的,在以往苹果也很少评论竞争对手,而专注于自家的产品,这次如此做法或许在于苹果希望趁机夺取更多市场。</p><p style="text-indent: 2em; text-align: left;">实时今年一季度,苹果是全球手机市场的赢家之一,市调机构Canalys公布的数据显示,苹果的出货量同比猛增41%,位居全球智能手机市场第二名,这主要是因为它填补了<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>手机让出的空缺,在中国市场它更因为华为的出货量腰斩而取得94%的增长。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171046143560.png" width="100%" title="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" alt="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不过上述数据也可以看到,随着华为手机的衰退,位居第三的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B0%8F%E7%B1%B3.HTM" target="_blank" title="小米">小米</a></span>增长更加凶猛,小米手机的出货量同比增长62%,增速比苹果高五成,而且小米的销量只比苹果少340万或6．4%,按照这样的增速小米很可能在二季度超越苹果成为全球第二大手机品牌。</p><p style="text-indent: 2em; text-align: left;">面对小米这个来势汹汹的对手,苹果自然放在心上,然而小米手机主要依靠性价比优势竞争,苹果自然不可能进一步降价抢占市场,而指责安卓手机侵犯用户隐私就是一个合适的点,事实上中国高端用户在无法购买华为手机之后主要选择iPhone也是因为信息安全问题,这一点确实颇为有利于苹果。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202106/19171046181628.jpg" width="100%" title="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" alt="承受小米的竞争压力，苹果CEO库克亲自下场手撕安卓手机" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">柏铭科技认为库克的说法对于中国和欧洲的消费者来说应该有效,这些市场的消费者生活水平比较高,买得起iPhone这样的高价手机,但是对于小米占据优势的新兴市场,库克的说法就很难有效果了,例如小米占据优势的全球第二大手机市场印度的消费者大部分都选购1000多元人民币的手机,所以库克的吐槽应该无法阻止小米的前进。</p> 
+  
+</div>
+            
