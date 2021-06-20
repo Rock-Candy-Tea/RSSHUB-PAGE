@@ -1,0 +1,18 @@
+
+---
+title: 'CNN报道中国速度：10层大楼几乎在一天拔地而起，外国网友：慕了！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac36681d_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 20 Jun 2021 00:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac36681d_1024.jpg'
+---
+
+<div>   
+<p>【环球网报道】“ 10 层大楼几乎在一天拔地而起”美国有线电视新闻网（CNN）当地时间 6 月 19 日报道了中国长沙一家公司仅用一天左右时间就建出一栋 10 层高的公寓楼。不少外国网友留言表示羡慕。</p><p></p><div class="zaker_div"><div id="zkvideo16241773099697" class="zk_upvideo" data-zkinfo="%7B%22status%22%3A%22finished%22%2C%22imgUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2F2021%2F06%2F20%2F1624177304886_W1280H736S.jpeg%22%2C%22videoUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2Farticle_video%2F2021%2F06%2F20%2F16241773049961.mp4%22%2C%22name%22%3A%2216241773049961.mp4%22%2C%22width%22%3A1280%2C%22height%22%3A736%7D"></div></div><p></p><p><video></video></p><p>CNN 发布消息称，中国公司在长沙用了 28 小时 45 分钟就建了一栋公寓楼。这则消息很快吸引不少人关注，一些外国网友看到这一神速后纷纷点赞。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac36681d_1024.jpg" data-height="91" data-width="438" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac36681d_1024.jpg" referrerpolicy="no-referrer"></div></div>“未来已经到来。”<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202106/60cef37f8e9f0917ac36681e_1024.jpg" data-height="146" data-width="569" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60cef37f8e9f0917ac36681e_1024.jpg" referrerpolicy="no-referrer"></div></div>“这可能是房地产的未来，如果这些路段设计得很好，可以承受风和地震荷载（的话）…… 这还取决于下部结构与上部结构的连接方式，以及荷载能否安全地传递到地上。好主意。”<p></p><p>“神奇。”</p><p>“太棒了。”</p><p>“中国在科技方面的发展速度要快得多 .... 致敬。”</p><p><strong>还有网友对比起了自己国家的建造速度。</strong></p><p>“我们的大楼还需要至少一年的时间才能准备好。”</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366823_1024.jpg" data-height="90" data-width="614" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366823_1024.jpg" referrerpolicy="no-referrer"></div></div>“白俄罗斯（盖好房子）要一年，修个窗户还得再来三年。”<p></p><p>“在波兰，我们建造这些房子得用 5 年时间。”</p><p>“印度要几十年。”</p><p><strong>更有网友直接开始问价，并表示期望这也能在印度实现。</strong></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366826_1024.jpg" data-height="85" data-width="763" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366826_1024.jpg" referrerpolicy="no-referrer"></div></div>“非常棒的建筑，能在印度班加罗尔盖一栋吗？最低的建筑价格是多少？”<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366827_1024.jpg" data-height="107" data-width="785" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60cef37f8e9f0917ac366827_1024.jpg" referrerpolicy="no-referrer"></div></div>“哇，量产的时候到处都需要这个。特别是在人口密集的亚洲国家。干得好。我在印度等待这一切。”<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
