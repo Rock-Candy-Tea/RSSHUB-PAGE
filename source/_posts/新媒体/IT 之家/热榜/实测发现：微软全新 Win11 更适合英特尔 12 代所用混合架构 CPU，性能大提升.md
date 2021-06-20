@@ -1,0 +1,19 @@
+
+---
+title: '实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/c05c74fd-24e6-4c78-8780-f16f530510d3.jpg'
+author: IT 之家
+comments: false
+date: Sat, 19 Jun 2021 23:15:45 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/c05c74fd-24e6-4c78-8780-f16f530510d3.jpg'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 20 日消息 微软将于 6 月 24 日的发布全新一代 Windows 11 操作系统，从泄露版来看主要是 UI 界面有所改动，功能变化无几。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/c05c74fd-24e6-4c78-8780-f16f530510d3.jpg" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" referrerpolicy="no-referrer"></p><p>本周早些时候有外媒测试了 Win11 的性能，结果多少有点让人失望，无论是 AMD/Intel，其多核性能都降了 10%。</p><p>当时外媒 Hothardware 测试的是英特尔去年的 i7-1065G7 处理器和 AMD 去年的 Ryzen 7 4800U 处理器。</p><p>但IT之家认为，他们忽略了很重要的一件事 ——Wintel 联盟，他们完全没有考虑即将到来的英特尔 12 代酷睿处理器，而且新版本中融合的 Windows 10X 也是针对低功耗移动芯片进行了一定优化的。</p><p>此前知名爆料者 @Moore's Law is Dead 此前透露，英特尔第 12 代“Alder Lake”芯片将在今年 10 月与微软的下一代 Windows 一起到来。</p><p>此外，外媒 WindowsLatest 也发现微软为 Windows 11 配备了系统调度器，可以更好地处理多线程任务，提高平台的整体性能，但目前的系统调度器没有针对混合架构的 CPU 进行优化。</p><p>据称，即将推出的 Windows 11 将具有“大规模更新”的系统调度器，全面支持英特尔即将推出的 CPU 芯片。</p><p>所以，外媒也很快意识到了这个问题，但他们拿不到 12 代酷睿工程机，只好找了另一个采用大小核混合架构的 CPU 系列 Lakefield 酷睿 i5-L16G7（三星 Galaxy Book S），用泄露的 Win11 对比 Win10 21H1 版本。</p><h2>Windows 基准测试</h2><p>正如下图测试结果，Windows 11 似乎比 Windows 10 21H1 略快。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/1b83c4c5-5a8b-4be5-8c5d-bda6cef4b01e.jpg@s_2,w_820,h_452" alt="Windows 基准测试" w="925" h="510" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" srcset="https://img.ithome.com/newsuploadfiles/2021/6/1b83c4c5-5a8b-4be5-8c5d-bda6cef4b01e.jpg 2x" width="925" height="452" referrerpolicy="no-referrer"></p><p>在 GeekBench 5 测试中，Windows 11 在多线程测试中提供了 5.8% 的提升，在单核测试中提供了 2% 的提升。虽然性能略有提高，但这并不值得兴奋。不过考虑到这只是预览版，我们不妨期待一下年底优化更好的正式版。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/a64e5d6e-3735-477c-b151-69abb153e935.jpg" alt="基准网络测试" w="760" h="309" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" width="760" height="309" referrerpolicy="no-referrer"></p><p>在网页浏览方面，Windows 11 似乎也比 Windows 10 21H1 更快。</p><p>在 BrowserBench 测试中，泄露的 Win11 运行 Chrome v91 的速度比 21H1 同平台快约 10%，一举推翻之前的 Win10 比 Win11 快 10% 的结果。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/90956d09-aea6-4e90-948e-f53c357f22c2.jpg" alt="基准 3D 测试" w="760" h="414" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" width="760" height="414" referrerpolicy="no-referrer"></p><p>此外，他们还测试了 Cinebench R23 基准跑分，结果表明，在单线程测试中，泄漏的 Win11 的“real-world”构建速度较现版 Win10 快了近 8.2%。</p><p>此次测试基于三个不同的项目，并且在其测试的所有实验中，大小核混合 CPU 酷睿 i5-L16G7 处理器都在 Windows 11 有显著的性能提升。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/0e6f9943-70c9-44d3-919b-cbfe46b4b04d.png" alt="图表 pcmark Lakefield win11" w="708" h="386" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" width="708" height="386" referrerpolicy="no-referrer"></p><p>在 PCMark 10 测试中，泄露的 Windows 11 略超 Windows 10，但可视作误差。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/16db4805-2cf5-4f2c-9da0-0f90008ebf87.jpg" alt="基准测试四" w="760" h="310" title="实测发现：微软全新 Win11 更适合英特尔 12 代所用混合架构 CPU，性能大提升" width="760" height="310" referrerpolicy="no-referrer"></p><p>不过，最后的 3DMark 测试有所不同，这考虑到 3DMark 更依赖驱动更新这应该在合理误差范围内，预计优化之后的 Windows 11 正式版表现会更好。</p><h2>总结</h2><p>总体而言，Windows 11 在早期测试显著地要比 Windows 10 更快，情理之中，意料之内。</p><p>而且，虽然 AMD 目前性能已经不弱于英特尔处理器，但英特尔还有一层和微软的深厚情谊在此。而微软也显然正在为了英特尔努力优化 Windows 11 性能。</p><p>根据此前消息，英特尔已经确认其第 12 代 Alder Lake 处理器将采用 10nm 制程，<span class="accentTextColor">换为 LGA 1700 接口</span>，还将首次支持 DDR5 内存以及 PCIe 5.0 通道，同时还会推出全新的 600 系列芯片组。</p><p>从爆料来看，英特尔 12 代 Alder Lake 处理器预计将在 2021 年万圣节期间正式发布，也就是 10/11 月，并与<span class="accentTextColor">微软下一代 Windows 系统进行了深入合作</span>，带来大幅度的提升。</p><p>此外，英特尔 12 代处理器将采用 Big.Little 大小核混合设计，单线程性能提升可达 20%，多线程性能提升 100%，比现有的 Tiger Lake 处理器更加先进。</p>
+          
+</div>
+            
