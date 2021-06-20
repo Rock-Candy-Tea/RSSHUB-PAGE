@@ -5,11 +5,11 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=7538'
+headimg: 'https://picsum.photos/400/300?random=1776'
 author: 每日安全
 comments: false
-date: 2021-06-20 00:23:39
-thumbnail: 'https://picsum.photos/400/300?random=7538'
+date: 2021-06-20 02:02:10
+thumbnail: 'https://picsum.photos/400/300?random=1776'
 ---
 
 <div>   
@@ -19,7 +19,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7538'
 <a class="text-muted" href="https://sec.today/user/6aacb56f-3f9d-4f8f-a589-e59e2ffe008b/pushes/">
 Schwarrzz
 </a>
-<span class="text-muted"><small>• 4 days ago</small></span>
+<span class="text-muted"><small>• 5 days ago</small></span>
 </cite>
   
 </div>

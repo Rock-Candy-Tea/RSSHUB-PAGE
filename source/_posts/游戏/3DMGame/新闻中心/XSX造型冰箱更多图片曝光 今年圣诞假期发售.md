@@ -15,7 +15,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210619/1624105367_3013
 <div>   
 <p style="text-indent:2em;">
 在今年的E3 2021 Xbox发表会最后，微软宣布将推出Xbox Series 
-X造型迷你冰箱，将于2021年圣诞假期发售。<span>最近官方公布了这个迷你冰箱的更多图片。</span><span>冰箱大约有着可以放进10罐铝罐的容量，搭配绿色内装让其充满主机元素。</span>
+X造型迷你冰箱，将于2021年圣诞假期发售。<span>最近官方公布了这个迷你冰箱的更多图片。</span><span>冰箱大约有着可以放进10罐铝罐的容量，搭配绿色内装让其充满主机元素。</span> 
 </p>
 <p style="text-indent:2em;">
 由微软所推出的Xbox Series 
@@ -27,16 +27,16 @@ X冰箱并且交由他们开箱。
 Greenberg决定实现承诺，推出主机造型冰箱。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_301321.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_301321.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_419871.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_419871.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_867669.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_867669.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_885590.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210619/1624105367_885590.jpg" alt="XSX造型冰箱更多图片曝光 今年圣诞假期发售" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
