@@ -1,0 +1,18 @@
+
+---
+title: 'switch的配置这么差，为什么还有人去买呢？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-17d409451330780ffe7bc92fe0e104d8_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 20 Jun 2021 13:29:08 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-17d409451330780ffe7bc92fe0e104d8_1440w.jpg'
+---
+
+<div>   
+嘉美尤的回答<br><br><p>性能孱弱，硬件废物，官方外设分分钟比不上老番……</p><p>提到NS配置，基本上绕不开这些问题。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-17d409451330780ffe7bc92fe0e104d8_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-4c4fbd6c65b30296c355c20aa167ccc5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-17d409451330780ffe7bc92fe0e104d8_r.jpg" referrerpolicy="no-referrer"></figure><p><i>↑我个人第五对joycon，国行。得益于我买了各种各样的Pro手柄才没有被摧残。</i></p><p>就连顶配也是最高1080P60帧，最低甚至没有540P的NS，在现在动辄4K的时代，确实是低了点的。</p><p><b>但是NS强就强在游戏阵容。</b></p><p>不如说任天堂自从放弃硬件后就主要的卖点就是游戏阵容。</p><p>这里有电子游戏史最高的两座大山马里奥和塞尔达、有做得跟粪一样拿出来还能卖2100万份以上的世界第一IP宝可梦。</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1390057765772054528" target="_blank" data-video-id data-video-playable data-name="狂怒世界" data-poster="https://pic4.zhimg.com/v2-ab8081fb2fd47b35d6243d4117a9fb39.jpg" data-lens-id="1390057765772054528">              <img class="thumbnail" src="https://pic4.zhimg.com/v2-ab8081fb2fd47b35d6243d4117a9fb39.jpg" referrerpolicy="no-referrer">              <span class="content">                <span class="title">狂怒世界<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1390057765772054528</span>              </span>            </span></span></span></a>            <p>说点在国内小众点的，这里还有写给业界的情书大乱斗、SRPG天花板之一的火纹等等等等大量<b>任天堂第一方游戏</b>。</p><p>这些第一方游戏才是任天堂的卖点。</p><p>现在卡普空公布怪猎起飞的销量破了800万，看上去有目前唯一一个能突破NS游戏销量前十全是第一方游戏的封锁，<b>前提是他能单平台破一千万</b>。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a3178d2858d73d17f006d93940e20d12_1440w.jpg" data-rawwidth="4096" data-rawheight="2304" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-986b64563be23cb3549e8c4c3a028db5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a3178d2858d73d17f006d93940e20d12_r.jpg" referrerpolicy="no-referrer"></figure><p>由于大量第一方游戏都是NS独占，你要体验游戏就基本上只能购买NS或者开个模拟器。</p><p>在索尼宣布未来会有更多第一方游戏登陆PC后，任天堂在<b>独占</b>这路上简直就是一骑绝尘。比如马车8豪华版能卖3500万我真是想都不敢想，但他就是卖出去了。</p><p>另外，为了配合NS的特点，可拆卸手柄啊，即插拔啊，可触屏啊这些，任天堂还有很多奇奇怪怪的游戏，能充分展示NS特点。</p><p>其实2020年才算是任天堂在国内最火爆的一年，也是先靠疫情期间成了理财产品的健身环和一个在联机体验、好友交互上甚至有时候不如摩尔庄园的动森直接躺了一年。<b>动森去年一财年卖了3263万份。</b>坚韧，无敌，最强！</p><p>任天堂最出色的地方在于，他的游戏大多没有精致的画面、丰富的剧情和十分讨喜，引人眼球的角色（像隔壁家蒂法这类），他是通过网上最多人吐槽的“满屏的游戏性”，把玩家锁在了“好玩”这个层面上，让玩家更多会关注到他更优秀的设计。</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1390058314504531968" target="_blank" data-video-id data-video-playable data-name="（保存在手机里的，不是最近的）" data-poster="https://pic2.zhimg.com/v2-b77ba6eeff1adbb97e3f39a08dadbbf3.jpg" data-lens-id="1390058314504531968">              <img class="thumbnail" src="https://pic2.zhimg.com/v2-b77ba6eeff1adbb97e3f39a08dadbbf3.jpg" referrerpolicy="no-referrer">              <span class="content">                <span class="title">（保存在手机里的，不是最近的）<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1390058314504531968</span>              </span>            </span></span></span></a>            <p>野吹续作PV2都出来了，我这几天上网冲浪还能看到野吹的各种奇怪视频。</p>  
+</div>
+            
