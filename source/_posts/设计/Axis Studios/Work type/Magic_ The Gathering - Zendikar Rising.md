@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14067/axisstudios_zendikarising_1.-full.png'
 author: Axis Studios
 comments: false
-date: 2021-06-21 05:09:48
+date: 2021-06-21 06:07:56
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14067/axisstudios_zendikarising_1.-full.png'
 ---
 
