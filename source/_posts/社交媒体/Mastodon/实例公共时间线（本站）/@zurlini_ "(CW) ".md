@@ -1,0 +1,18 @@
+
+---
+title: '@zurlini_ "(CW) "'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/036/917/310/original/49c0928cd0212d05.jpeg'
+author: Mastodon
+comments: false
+date: Mon, 21 Jun 2021 08:00:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/036/917/310/original/49c0928cd0212d05.jpeg'
+---
+
+<div>   
+<hr><p>【過去記事】<br>[漫画] 鋼の錬金術師 第11巻（荒川弘）<br>投稿日：2018.6.25<br>作品名：鋼の錬金術師<br>巻数　：第11巻<br>作家名：荒川弘<br>出版社：スクウェア・エニックス (2005/7/22)<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%AA%E3%82%A3" class="mention hashtag" rel="tag">#ウィンリィ</a>・ロックベル<br><a href="https://pawoo.net/tags/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB" class="mention hashtag" rel="tag">#鋼の錬金術師</a><br><a href="https://www.a-legend.net/wordpress/?p=9217" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=9217</a></p><br><img src="https://img.pawoo.net/media_attachments/files/036/917/310/original/49c0928cd0212d05.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
