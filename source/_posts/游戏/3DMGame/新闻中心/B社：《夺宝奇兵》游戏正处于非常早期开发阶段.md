@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210621/1624233781_9459
 Games开发中。这是一个非常短暂的预告片，唯一告诉我们的就是它在开发中，所以我们什么时候才能看到这款游戏?
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210621/1624233781_945940.jpg" alt="B社：《夺宝奇兵》游戏正处于非常早期开发阶段" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210621/1624233781_945940.jpg" alt="B社：《夺宝奇兵》游戏正处于非常早期开发阶段" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 至少在近期内不会。在接受GameSpot采访时，B社全球营销兼公关部门高级副总裁Pete 
