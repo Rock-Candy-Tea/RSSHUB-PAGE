@@ -1,0 +1,18 @@
+
+---
+title: '★★★★☆ 蒂普提克 东京柑橘 Diptyque Oyedo, 2000'
+categories: 
+ - 新媒体
+ - 香水时代
+ - 首页
+headimg: 'https://picsum.photos/400/300?random=7991'
+author: 香水时代
+comments: false
+date: Mon, 14 Jun 2021 17:02:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7991'
+---
+
+<div>   
+南拳妈妈，橘子汽水，大大卷，初恋。有点朦胧，有些甜腻，刺激起大脑皮层深处已经沉寂很久的神经元，deja vu，让人追悔。闻多了就有点廉价，穿上会有点平庸，相见不如怀念。  
+</div>
+            

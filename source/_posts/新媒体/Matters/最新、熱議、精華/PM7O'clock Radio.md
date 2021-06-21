@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - Matters
  - 最新、熱議、精華
-headimg: 'https://picsum.photos/400/300?random=8302'
+headimg: 'https://picsum.photos/400/300?random=2476'
 author: Matters
 comments: false
 date: Sun, 20 Jun 2021 11:31:55 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8302'
+thumbnail: 'https://picsum.photos/400/300?random=2476'
 ---
 
 <div>   
-<p>最近沒有辦法寫字，但又記掛，怕被覺得捲信潛逃了。</p><p>放一段錄音上來，4分鐘，也等於一篇文（胡亂定義）。</p><p>聽了大概地一百遍[雨和你］之後躺在床在錄的，憑著衝動放上來，冷氣聲音很大抱歉。（疫情之後很久沒好好講話了，也算是個練習）</p><p>睡前可能就會移除了，限時收聽（笑）。</p><figure class="audio"><audio controls data-file-name="只是碎碎念" preload="metadata"><source src="https://assets.matters.news/embedaudio/b90f3df7-af3c-4d43-b35a-96115522fbd2.mpga" type="audio/mpeg" data-asset-id="b90f3df7-af3c-4d43-b35a-96115522fbd2"></audio><div class="player">
+<p>最近沒有辦法寫字，但又記掛，怕被覺得捲信潛逃了。</p><p>放一段錄音上來，4分鐘，也等於一篇文（胡亂定義）。</p><p>聽了大概第一百遍[雨和你］之後躺在床在錄的，憑著衝動放上來，冷氣聲音很大抱歉。（疫情之後很久沒好好講話了，也算是個練習）</p><p>睡前可能就會移除了，限時收聽（笑）。</p><p>（發現不能移除，怎麼辦，明天起床再來思考）</p><p>（驚訝這麼多人聽，謝謝大家陪我度過今晚，明天回留言）</p><figure class="audio"><audio controls data-file-name="只是碎碎念" preload="metadata"><source src="https://assets.matters.news/embedaudio/b90f3df7-af3c-4d43-b35a-96115522fbd2.mpga" type="audio/mpeg" data-asset-id="b90f3df7-af3c-4d43-b35a-96115522fbd2"></audio><div class="player">
       <header>
         <div class="meta">
           <h4 class="title">只是碎碎念</h4>
