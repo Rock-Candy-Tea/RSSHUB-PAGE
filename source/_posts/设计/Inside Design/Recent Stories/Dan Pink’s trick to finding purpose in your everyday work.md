@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/dan-pink-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-06-22 10:07:14
+date: 2021-06-22 11:05:28
 thumbnail: 'https://www.invisionapp.com/inside-design/dan-pink-design-better-podcast/'
 ---
 
