@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://picsum.photos/400/300?random=7675'
+headimg: 'https://picsum.photos/400/300?random=9824'
 author: Mastodon
 comments: false
 date: Tue, 22 Jun 2021 01:50:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7675'
+thumbnail: 'https://picsum.photos/400/300?random=9824'
 ---
 
 <div>   

@@ -1,0 +1,18 @@
+
+---
+title: '让人仿佛回到小时候的_迷宫书_：《迷宫大侦探demo》评测'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1421790_o7TQr.jpg'
+author: 小黑盒
+comments: false
+date: Tue, 22 Jun 2021 09:52:01 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1421790_o7TQr.jpg'
+---
+
+<div>   
+<blockquote><p>百鬼作</p></blockquote><p><img data-gameid="1421790" src="https://cdn.max-c.com/heybox/game/header/1421790_o7TQr.jpg" referrerpolicy="no-referrer"></p><p><b>迷宫大侦探来自畅销益智游戏书籍《迷宫大侦探皮埃尔</b><b>》</b></p><blockquote><p>绘本《迷宫大侦探皮埃尔》系列，现已出版3册，被译为20多种语言，风靡全球30多个国家。它的每一册都由15个精心设计的大跨页主题迷宫组成，包含300多个寻找任务和上千个幽默细节。读者需要在尽可能短的时间内在细密的画面中找齐规定的任务物品，并帮助主人公找到走出迷宫的最佳路线。</p></blockquote><p>而迷宫大侦探正是基于此创作的游戏。</p><p><img class="lazy" data-height="1400" src="https://imgheybox.max-c.com/bbs/2021/06/20/d27721656e63859e2b4ab23fa5ce3577/thumb.jpeg" data-width="1053" referrerpolicy="no-referrer"></p><p><b>试玩版给予了玩家前两关的体验，虽然简短但是场景内容丰富，勾起了想要接着玩下去的欲望。</b><br></p><p>在歌剧城里，一名大盗X先生偷走了博物馆里的迷宫石，主角皮埃尔侦探在得知消息后与好友卡曼一起前往博物馆。</p><p><img class="lazy" data-height="601" src="https://imgheybox.max-c.com/bbs/2021/06/20/5e2a2264aed338d11547d87707bb65d1/thumb.jpeg" data-width="1125" referrerpolicy="no-referrer"></p><p>俗话说：两点之间直线不总是最短的，因为你要绕路！</p><p>博物馆一片乱糟糟的景象，里面的一切都活过来了！会动的恐龙，会离开画框的画中人，穿着日本武士盔甲的武士会和中世纪骑士对砍，这可是在历史看不到的场景！</p><p>这个博物馆里还有很多东西等待着玩家去发现，比如吊在墙上的忍者，他告诉你地图里有星星可以收集，还有会说话的北极熊，他会给你一个小小的支线任务，比如摆好画，完成任务之后他就会送你一个本关卡里独一无二的奖杯，还有藏在场景里的笔记和迷你收藏品，还有会偷看信件的邮递员，在下一个关卡你也会在不同地方发现他们的!玩家也可以摸摸其它的地方，有些小动物可能会藏在草丛里面呢。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/06/20/cba94412b75e5d4b3f3c198ebe3fda58/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/06/20/116aa93a32b1ad7382e93896e73338ed/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>在绕过混乱的人群之后，来到博物馆馆长面前，他告诉侦探那个X先生十分嚣张，还在附近躲着看笑话呢！正义的大侦探可不会放过他，侦探和卡曼朝着X先生的方向追去，X先生却放出了调皮的猴子，自己从楼上逃走了。侦探追了出去，来到了街道，这里正在举行狂欢节，看起来比博物馆里面还要混乱！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/06/20/07c11de8f5822809d4d2e3c50913685a/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>在街道上，人们乔装打扮参加狂欢节，里面也有着很多有趣的人，比如可以在墙上和地上用魔法变出方向牌的魔法师，他们到处都是。</p><p>还有互相扮成对方的好姐妹，互相叫着的猫狗，玩家如果手痒打开了某一处楼上的窗户，里面可能会有一只老虎哦。</p><p>侦探在警察口中得知X先生还在这附近，但是因为现在是狂欢节，装扮成X先生的人很多，幸好那些最后一个自恋的变装者告诉了真正的X先生的位置，侦探和卡曼继续追赶，但是X先生已经计算好了一切，坐着热气球飞走了，卡曼的一个朋友可以制造飞行器，但是她藏在了城里，试玩也到这里就结束了，侦探能够抓到X先生并且找回迷宫石吗，前面还有什么样的迷宫在等着他？说实话，我也很期待。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/06/20/0ce01214ea203cda1ec155339a077c96/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>相信在很多和我一样的人在小时候也特别喜欢玩迷宫书，我甚至还画了一小图画本的迷宫。当这样画风的迷宫游戏截图出现在我面前的时候，我有那么一瞬间想到了小时候玩过的一本系列的迷宫书，画风也和这很相像。</p><p><img class="lazy" data-height="1378" src="https://imgheybox.max-c.com/bbs/2021/06/20/b0cf25e6a2cbb6245e0a0ba10a3d2b99/thumb.jpeg" data-width="2047" referrerpolicy="no-referrer"></p><p>与传统的迷宫不同，迷宫的道路不是简简单单的路而已，障碍也从石头小山一类的改为了拥挤的人群，虽然看上去十分混乱但是也是有迹可循的，而且障碍是可变的，第二关道路上的车就有可能突然后退，一下子挡住玩家的去路。<br></p><p>本作品改编自畅销的儿童迷宫绘本，所以创意的新奇是毋庸置疑的。游戏的画风也十分清新可爱，所以不仅仅是想要找回童年感觉的成年人玩家，让小孩子玩这个游戏也是完全可以的。<br></p><p><img data-gameid="1421790" src="https://cdn.max-c.com/heybox/game/header/1421790_o7TQr.jpg" referrerpolicy="no-referrer"></p><p><b>总结：清新可爱的画风，幽默风趣的对话，不是很难的迷宫，让人仿佛回到儿时玩迷宫书的时候，只不过这一切都是生动的，即使是儿时的回忆，到了现在也该生动起来了，也十分期待后续能够给玩家们带来什么样的惊喜</b></p>  
+</div>
+            
