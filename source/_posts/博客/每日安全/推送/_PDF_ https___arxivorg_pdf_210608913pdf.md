@@ -1,0 +1,26 @@
+
+---
+title: '_PDF_ https___arxiv.org_pdf_2106.08913.pdf'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=5100'
+author: 每日安全
+comments: false
+date: 2021-06-22 03:07:29
+thumbnail: 'https://picsum.photos/400/300?random=5100'
+---
+
+<div>   
+<q>LOKI: Hardening Code Obfuscation Against Automated Attacks，这篇 Paper 提出了一种提高代码混淆复杂度的新方法</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 11 minutes ago</small></span>
+</cite>
+  
+</div>
+            

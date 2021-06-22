@@ -5,25 +5,26 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20210622/1624323127_829562.png'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20210622/1624329180_667230.png'
 author: 3DMGame
 comments: false
 date: Tue, 22 Jun 2021 01:02:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210622/1624323127_829562.png'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210622/1624329180_667230.png'
 ---
 
 <div>   
 <p style="text-indent:2em;">
-根据官方公布的新消息，横版动作RPG《终焉之莉莉：骑士寂夜》现已推出正式版，国区从售价128元，目前官方还公开了正式版视觉图，该作在Steam平台的总体评价为“特别好评”。
+根据官方公布的新消息，横版动作RPG《终焉之莉莉：骑士寂夜》现已推出正式版，国区从售价98元，目前官方还公开了正式版视觉图，该作在Steam平台的总体评价为“特别好评”。
 </p>
 <p style="text-indent:2em;">
-<strong>Steam商城页面截图：</strong> 
-</p>
-<p style="text-align:center;">
-<img src="https://img.3dmgame.com/uploads/images/news/20210622/1624323127_829562.png" alt="Steam横版动作RPG《终焉之莉莉：骑士寂夜》现已推出正式版" referrerpolicy="no-referrer"> 
-</p>
+<strong>Steam商城页面截图：
+</strong></p><p style="text-align:center;"><strong>
+<img src="https://img.3dmgame.com/uploads/images/news/20210622/1624329180_667230.png" alt="Steam横版动作RPG《终焉之莉莉：骑士寂夜》现已推出正式版" referrerpolicy="no-referrer">
+</strong></p><strong>
+</strong>
+<p></p>
 <p style="text-indent:2em;">
-据悉，此次《终焉之莉莉：骑士寂夜》正式版游戏中有8个不同区域，加入了扣人心弦的剧情，也将揭晓精彩结局，加入了新敌人、新boss、新BGM、新圣物等内容。国区售价从原价70元上涨至128元，但是已购买抢先体验版的玩家将不受价格变化影响。
+据悉，此次《终焉之莉莉：骑士寂夜》正式版游戏中有8个不同区域，加入了扣人心弦的剧情，也将揭晓精彩结局，加入了新敌人、新boss、新BGM、新圣物等内容。
 </p>
 <p style="text-align:center;">
 <img src="https://img.3dmgame.com/uploads/images/news/20210622/1624323262_547077.png" alt="Steam横版动作RPG《终焉之莉莉：骑士寂夜》现已推出正式版" referrerpolicy="no-referrer"> 
