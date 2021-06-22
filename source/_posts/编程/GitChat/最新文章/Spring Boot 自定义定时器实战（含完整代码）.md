@@ -5,14 +5,14 @@ categories:
  - 编程
  - GitChat
  - 最新文章
-headimg: 'https://picsum.photos/400/300?random=3428'
+headimg: 'https://picsum.photos/400/300?random=4527'
 author: GitChat
 comments: false
-date: Tue, 22 Jun 2021 05:11:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3428'
+date: Tue, 22 Jun 2021 06:08:51 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4527'
 ---
 
 <div>   
-<p>我相信大家都会使用 Spring Boot 的 @Scheduled(cron = "0/5 * * * * *") 方式创建定时器，这种方式在项目启动后就会每隔 5 秒就会执行一次，而且一直以这频率定时执行，直到停止工程后定时器才会...</p>  
+<p>我相信大家都会使用 Spring Boot 的 @Scheduled(cron = &#34;0/5 * * * * *&#34;) 方式创建定时器，这种方式在项目启动后就会每隔 5 秒就会执行一次，而且一直以这频率定...</p>  
 </div>
             
