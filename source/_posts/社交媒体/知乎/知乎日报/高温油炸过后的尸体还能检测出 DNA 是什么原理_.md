@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-06-22 00:22:01
-thumbnail: 'https://pic2.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162'
+date: 2021-06-22 01:51:46
+thumbnail: 'https://pic4.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/be39d110759e68f389b7d2934d7353bc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">死者代言人，</span><span class="bio">为死者代言，替逝者发声。</span>
 <a href="https://www.zhihu.com/question/336792111/answer/763296358" class="originUrl" hidden>查看知乎原文</a>
 </strong>

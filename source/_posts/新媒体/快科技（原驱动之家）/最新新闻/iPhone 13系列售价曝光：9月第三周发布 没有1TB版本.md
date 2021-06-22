@@ -1,0 +1,37 @@
+
+---
+title: 'iPhone 13系列售价曝光：9月第三周发布 没有1TB版本'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210611/s_8e3ca1add4ad45ae9914ba7a8519aac2.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 22 Jun 2021 08:42:35 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210611/s_8e3ca1add4ad45ae9914ba7a8519aac2.jpg'
+---
+
+<div>   
+<p>据外媒最新报道称，苹果正在全力准备iPhone 13系列，而跟上一代机型一样的是，其也会有四个机型，其预计产量将高达2.23亿部。</p>
+<p>Wedbush 分析师丹・艾维斯（Dan Ives）星期一发表投资报告称，苹果可能今年9月第三周发布新款 iPhone。他认为新款iPhone将有存储容量达到 1TB 的型号，许多功能会得到增强，所有型号都将配备激光雷达，这将有助于推动增强现实技术的普及。</p>
+<p>艾维斯说，与苹果亚洲供应链的沟通显示，苹果计划今年下半年生产1.3亿至1.5亿部 iPhone，新款 iPhone 将占到第三季度iPhone产量的35%至45%。艾维斯预计新款iPhone首批订单将达到9000万至1亿部，他去年对首批iPhone 12订单的预期为8000万部。</p>
+<p><strong>最新报道中提到了几个点，首先iPhone 13系列不会出现1TB版本（最高512GB），其次新机的售价跟上一代保持一致，也就是699美元，国内对应行货价格是5499元起，最后全系将首发搭载A15处理器。</strong></p>
+<p>iPhone 13全新今年还将升级为小刘海屏幕，这是苹果四年来首次带来正面外观上的改变，屏占比得到有效提升，预计会带来无数消费者的追捧。</p>
+<p>屏幕方面，这四款机型的尺寸依然为5.4、6.1、6.7英寸，但是Pro版的两款机型终于迎来传说中的高刷屏，最高支持到120Hz规格，并且将引入LTPO面板，可支持1-120Hz的自适应刷新率调节，可以更加省电。</p>
+<p>iPhone 13系列还将全系升级为新一代自研A15仿生芯片，虽然依然采用5nm工艺打造，但是在功耗和散热方面会更加出色，并且5G性能会得到有效提升。</p>
+<p>另外，从之前欧亚经济委员会（EEC）数据库显示的情况，新款iPhone已经入网，其电池含量预计要比上一代更大一些，<strong>其中iPhone 13 Pro Max是4352mAh，比12 Pro Max的3687mAh多出近700mAh，iPhone 13是3095mAh，iPhone 13 mini是2406mAh。</strong></p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20210611/8e3ca1add4ad45ae9914ba7a8519aac2.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="iPhone 13系列海外入网：电池容量普涨" h="337" src="https://img1.mydrivers.com/img/20210611/s_8e3ca1add4ad45ae9914ba7a8519aac2.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+          <p class="zhuanzai">转载请注明出处：快科技</p>  
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/pingguo.htm"><i>#</i>苹果</a><a href="https://news.mydrivers.com/tag/iphoneshouji.htm"><i>#</i>iPhone手机</a></p>
+<p class="url">
+     
+<span>责任编辑：雪花</span>
+</p>
+        
+</div>
+            

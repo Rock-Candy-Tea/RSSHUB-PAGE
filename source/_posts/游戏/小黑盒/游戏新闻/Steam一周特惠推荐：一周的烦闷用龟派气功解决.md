@@ -1,0 +1,18 @@
+
+---
+title: 'Steam一周特惠推荐：一周的烦闷用龟派气功解决'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/851850_OIaxN.jpg'
+author: 小黑盒
+comments: false
+date: 2021-06-22 01:51:41
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/851850_OIaxN.jpg'
+---
+
+<div>   
+<p>今天Steam如约开启了新一轮的周期特惠，在此次促销中依然有数量可观的游戏参与折扣，除了让人眼前一亮的大作，也有不少质量过硬的精品游戏加入到打折阵容中来。接下来就一起看看本次Steam一周促销中有哪些推荐和值得购买的游戏吧。</p><h2>《七龙珠Z：卡卡洛特》</h2><p><img data-gameid="851850" src="https://cdn.max-c.com/heybox/game/header/851850_OIaxN.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：98元</b></p><p><b>小黑盒商城折扣价：93.9元</b></p><p>《七龙珠Z 卡卡洛特》里可体验到悟空及其他Z战士的故事！除了史诗级的对战外，在七龙珠Z世界里亦可以与悟空、悟饭及贝吉达等等角色进行打斗、钓鱼、用餐及训练。</p><h2>《海贼无双4》</h2><p><img data-gameid="1089090" src="https://cdn.max-c.com/heybox/game/header/1089090_6HHWv.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：89元</b></p><p><b>小黑盒商城折扣价：85.3元</b></p><p>《海贼无双4》是进化后的『ONE PIECE』无双游戏！本作以「拟真的ONE PIECE战场体验」为核心概念，在动作场面中加入建筑物的破坏及烟尘弥漫的效果等，力求再现「ONE PIECE战场」。此外也添加过去的「海贼无双」中从未出现的全新要素，实现前所未有、爽快感十足的『ONE PIECE』无双动作游戏体验！</p><h2>《黑暗之魂3》</h2><p><img data-gameid="374320" src="https://cdn.max-c.com/heybox/game/header/374320_YwpWw.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：67元</b></p><p><b>小黑盒商城折扣价：64.2元</b></p><p>游戏的主要舞台为洛斯里克王国。在那里，玩家肩负着阻止末世来临的使命，而末世则是由于火之纪元和那些前代黑暗印记持有者之间的冲突所引发的。为了应对这一事态，玩家需要去面对薪王——那些曾经传过火的英雄。无论结局如何，世界始终会在光与暗之间轮转。</p><h2>《绯夜传说》</h2><p><img data-gameid="429660" src="https://cdn.max-c.com/heybox/game/header/429660_dai4O.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：40元</b></p><p><b>小黑盒商城折扣价：38.3元</b></p><p>《绯夜传说》是第一次以女性作为第一主角的《传奇》系列作品，主题是“感情”与“法理”的对立，讲述主角Velvet为了复仇而与利益一致的同伴们一同对抗正义的救世组织、王国的实际统治机构圣寮的故事。<br></p><h2>《小小噩梦》</h2><p><img data-gameid="424840" src="https://cdn.max-c.com/heybox/game/header/424840_uUzHJ.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：42元</b></p><p><b>小黑盒商城折扣价：40.2元</b></p><p>《小小噩梦》是由瑞典游戏工作室Tarsier Studios制作，万代南梦宫发行的一款冒险游戏。玩家扮演一个从轮船上醒来的小女孩，探索轮船并且逐渐发现轮船背后的秘密。<br></p><h2>《坎巴拉太空计划》</h2><p><img data-gameid="220200" src="https://cdn.max-c.com/heybox/game/header/220200_BctIG.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：28元</b></p><p><b>小黑盒商城折扣价：26.8元</b></p><p>在《坎巴拉太空计划》中，将由你来主导外星种族“坎巴拉人”的太空计划。你可以使用各式各样的部件，来根据现实中的空气动力学和轨道物理学原理组装能够飞行（或坠毁）的全功能航天器。把你的坎巴拉人乘员送入轨道及太空中（并保证他们存活下来）。</p><h2>《吃豆人冠军版DX+》</h2><p><img data-gameid="236450" src="https://cdn.max-c.com/heybox/game/header/236450_LLPDD.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：15元</b></p><p><b>小黑盒商城折扣价：14.4元</b></p><p><a href="https://api.xiaoheihe.cn/bbs/app/api/web/share?link_id=21617358" target="_blank">来自用户 零晓绝 的评价:</a></p><blockquote><p>别说了，玩就完事了，停不下来……而且还想起不少童年回忆呢</p></blockquote><h2>《海绵宝宝：比基尼海滩之战 补充水分》</h2><p><img data-gameid="969990" src="https://cdn.max-c.com/heybox/game/header/969990_Lldd8.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：79元</b></p><p><b>小黑盒商城折扣价：75.7元</b></p><p>孩子们，你们准备好了吗？这款忠实再现《海绵宝宝》奇妙历险记的小众经典游戏回归啦！扮演海绵宝宝、派大星和珊迪，让邪恶的痞老板明白，犯罪的报酬比蟹老板开的工资还要低。想从泛滥成灾的机器人手中拯救比奇堡吗？当然啦！</p><h2>《烹调，上菜，美味！3？！》</h2><p><img data-gameid="1000030" src="https://cdn.max-c.com/heybox/game/header/1000030_xQI1c.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：42元</b></p><p><b>小黑盒商城折扣价：40.2元</b></p><p>《烹调，上菜，美味！3？！》是热门食材模拟游戏系列的第三部作品，故事发生在2042年的美国，游戏将为玩家带来一个全新的故事。本作支持单人战役和本地多人联机合作，再次证明你是最好的厨师。<b><br></b></p><h2>《天鹅湖》</h2><p><img data-gameid="793350" src="https://cdn.max-c.com/heybox/game/header/793350_kcj6u.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：3元</b></p><p><b>小黑盒商城折扣价：2.9元</b></p><p>Swarmlake是一部超激烈的第一人称射击芭蕾，致力于与破纪录的人群进行战斗。</p>  
+</div>
+            
