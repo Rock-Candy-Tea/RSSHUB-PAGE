@@ -5,15 +5,15 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=9970'
+headimg: 'https://picsum.photos/400/300?random=5953'
 author: 财联社
 comments: false
 date: Tue, 22 Jun 2021 06:47:16 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9970'
+thumbnail: 'https://picsum.photos/400/300?random=5953'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>《科创板日报》（上海，记者 黄心怡），</strong>2021年，是华为云兑现目标的一年。</p>
+<div class="m-b-10"><p><strong>《科创板日报》（上海，记者 黄心怡）讯，</strong>2021年，是华为云兑现目标的一年。</p>
 <p>华为云于2017年正式提供云服务，并在当年立下了要成为全球5朵云之一的“小目标”。根据Gartner今年4月发布的《Market Share: IT Services, Worldwide 2020》报告，华为云全球IaaS市场排名上升至中国前二、全球前五，正式成为全球五朵云之一。</p>
 <p>不过，目标的实现并不代表华为云就此进入坦途，而可能是新阶段、新挑战的开始。</p>
 <p>在华为云快速壮大的这几年，国内云计算市场也迈向了全新的发展时期。随着政府和企业上云的普遍化，云计算从原先的业务向云迁移，进入了业务生于云、长于云的数字化转型深水区。部署形式也从最初的公有云、私有云、虚拟化等单云，发展到多云、分布式云、混合云等更为复杂的模式。<strong>这意味着，包括华为云在内的国内云计算厂商亟需在新的发展趋势下，寻找新的打法策略，谋求新的增长点。</strong></p>
