@@ -78,17 +78,17 @@ Now for the easy part, think of the previous graph as a bunch of layers and obse
 <li><p>Start from <code>beginWord</code> and while keep tracking of the current path as <code>currPath</code> traverse all the possible paths, whenever the path leads to the <code>endWord</code> store the path in <code>shortestPaths</code>.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/MTcEPPoL/shared" frameborder="0" width="100%" height="500" name="MTcEPPoL"></iframe>
+<iframe src="https://leetcode.com/playground/SedpZWux/shared" frameborder="0" width="100%" height="500" name="SedpZWux"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <ul>
-<li><p>Time complexity: $$O(NK^2 + N\log N + α)$$.</p>
+<li><p>Time complexity: $$O(NK^2 + α)$$.</p>
 <p>Here $$N$$ is the number of words in <code>wordList</code>, $$K$$ is the maximum length of a word, $$α$$ is the number of possible paths from <code>beginWord</code> to <code>endWord</code> in the directed graph we have.</p>
-<p>Copying the <code>wordList</code> into the set will take $$&#123;O&#125;(N\log N)$$.</p>
-<p>In BFS, every word will be traversed and for each word, we will find the neighbors using the function <code>findNeighbors</code> which has a time complexity of $O(K^2)$. Therefore the total complexity for all the <code>N</code> words will be $O(NK^2)$. Also, each word will be enqueued and will be removed from the set hence it will take $$&#123;O&#125;(N\log N)$$. The total time complexity of BFS will therefore be equal to $O(NK^2 + N\log N)$.</p>
+<p>Copying the <code>wordList</code> into the set will take $$&#123;O&#125;(N)$$.</p>
+<p>In BFS, every word will be traversed and for each word, we will find the neighbors using the function <code>findNeighbors</code> which has a time complexity of $O(K^2)$. Therefore the total complexity for all the <code>N</code> words will be $O(NK^2)$. Also, each word will be enqueued and will be removed from the set hence it will take $$&#123;O&#125;(N)$$. The total time complexity of BFS will therefore be equal to $O(NK^2 )$.</p>
 <p>While backtracking, we will essentially be finding all the paths from <code>beginWord</code> to 
 <code>endWord</code>. Thus the time complexity will be equal to $O(α)$.</p>
 <p>We can estimate the upper bound for $$α$$ by assuming that every layer except the first and the last layer in the DAG has $$x$$ number of words and is fully connected to the next layer. Let $$h$$ represent the height of the DAG, so the total number of paths will be $$x^h$$ (because we can choose any one word out of $$x$$ words in each layer and each choice will be part of a valid shortest path that leads to the <code>endWord</code>). Here, $$h$$ equals $$(N-2)/x$$. This would result in $$x^&#123;(N-2)/x&#125;$$ total paths, which is maximized when $$x = 2.718$$, which we will round to $$3$$ because $$x$$ must be an integer. Thus the upper bound for $$α$$ is $$3^&#123;(N/3)&#125;$$, however, this is a very loose bound because the nature of this problem precludes the possibility of a DAG where every layer is fully connected to the next layer.</p>
-<p>The total time complexity is therefore equal to $$O(NK^2 + N\log N + α)$$.</p></li>
+<p>The total time complexity is therefore equal to $$O(NK^2 + α)$$.</p></li>
 <li><p>Space complexity: $$&#123;O&#125;(NK)$$.</p>
 <p>Here $$N$$ is the Number of words in <code>wordList</code>, $$K$$ is the Maximum length of a word.</p>
 <p>Storing the words in a set will take $$&#123;O&#125;(NK)$$ space.</p>
@@ -112,16 +112,16 @@ graph and hence there will be at max $$(N - 1)$$ edges.</p>
 <li><p>If a sequence connecting <code>beginWord</code> to <code>endWord</code> does not exist, return an empty list. Otherwise, start from <code>beginWord</code> and while keeping track of the current path as <code>currPath</code> traverse all the possible paths, whenever the path leads to the <code>endWord</code> store the path in <code>shortestPaths</code>.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/8UmrJcho/shared" frameborder="0" width="100%" height="500" name="8UmrJcho"></iframe>
+<iframe src="https://leetcode.com/playground/9qoB7yfc/shared" frameborder="0" width="100%" height="500" name="9qoB7yfc"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <ul>
-<li><p>Time complexity: $$O(NK^2 + N\log N + α)$$.</p>
+<li><p>Time complexity: $$O(NK^2 + α)$$.</p>
 <p>Here $$N$$ is the Number of words in <code>wordList</code>, $$K$$ is the maximum length of a word, $$α$$ is the Number of possible paths from <code>beginWord</code> to <code>endWord</code> in the directed graph we have.</p>
-<p>Copying the <code>wordList</code> into the set will take $$&#123;O&#125;(N\log N)$$.</p>
-<p>In the worst-case scenario, the number of operations in the bidirectional BFS will be equal to the BFS approach discussed before. However, in some cases, this approach will perform better because the search space is reduced by selecting the shorter queue at each iteration.   In bidirectional BFS, at most, every word will be traversed once, and for each word, we will find the neighbors using the function <code>findNeighbors</code> which has a time complexity of $O(K^2)$. Therefore the total complexity for all the <code>N</code> words will be $O(NK^2)$. Also, each word will be enqueued and will be removed from the set which will take $$&#123;O&#125;(N\log N)$$. Thus, the total time complexity of bidirectional BFS will be $O(NK^2 + N\log N)$.</p>
+<p>Copying the <code>wordList</code> into the set will take $$&#123;O&#125;(N)$$.</p>
+<p>In the worst-case scenario, the number of operations in the bidirectional BFS will be equal to the BFS approach discussed before. However, in some cases, this approach will perform better because the search space is reduced by selecting the shorter queue at each iteration.   In bidirectional BFS, at most, every word will be traversed once, and for each word, we will find the neighbors using the function <code>findNeighbors</code> which has a time complexity of $O(K^2)$. Therefore the total complexity for all the <code>N</code> words will be $O(NK^2)$. Also, each word will be enqueued and will be removed from the set which will take $$&#123;O&#125;(N)$$. Thus, the total time complexity of bidirectional BFS will be $O(NK^2)$.</p>
 <p>In the backtracking process, we will essentially find all of the paths from <code>beginWord</code> to <code>endWord</code>. Thus, the time complexity is equal to $O(α)$.</p>
 <p>We can estimate the upper bound for $$α$$ by assuming that every layer except the first and the last layer in the DAG has $$x$$ number of words and is fully connected to the next layer. Let $$h$$ represent the height of the DAG, so the total number of paths will be $$x^h$$ (because we can choose any one word out of $$x$$ words in each layer and each choice will be part of a valid shortest path that leads to the <code>endWord</code>). Here, $$h$$ equals $$(N-2)/x$$. This would result in $$x^&#123;(N-2)/x&#125;$$ total paths, which is maximized when $$x = 2.718$$, which we will round to $$3$$ because $$x$$ must be an integer. Thus the upper bound for $$α$$ is $$3^&#123;(N/3)&#125;$$, however, this is a very loose bound because the nature of this problem precludes the possibility of a DAG where every layer is fully connected to the next layer.</p>
-<p>The total time complexity is therefore equal to $$O(NK^2 + N\log N + α)$$.</p></li>
+<p>The total time complexity is therefore equal to $$O(NK^2 + α)$$.</p></li>
 <li><p>Space complexity: $$&#123;O&#125;(NK)$$.</p>
 <p>Here $$N$$ is the Number of words in <code>wordList</code>, $$K$$ is the Maximum length of a word.</p>
 <p>Storing the words in a set will take $$&#123;O&#125;(NK)$$ space.</p>

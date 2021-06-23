@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-29c08b34f713ed34a0dec776f1072ac4_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=970'
 author: 知乎
 comments: false
-date: Tue, 22 Jun 2021 15:05:46 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-29c08b34f713ed34a0dec776f1072ac4_1440w.jpg'
+date: Tue, 22 Jun 2021 15:57:31 GMT
+thumbnail: 'https://picsum.photos/400/300?random=970'
 ---
 
 <div>   
-Van静石的回答<br><br><a href="https://www.zhihu.com/zvideo/1390803292751089664" data-draft-node="block" data-draft-type="link-card"><p>其实我一直有一个猜想，那就是“龙”会不会是一种外星飞行器。</p><blockquote><b>“龙能升能隐；大则兴云吐雾，小则隐介藏形；升则飞腾于宇宙之间，隐则潜伏于波涛之内。方今春深，龙乘时变”。</b></blockquote><p>能飞行，但不用翅膀，能吞云吐雾，能隐形，能翱翔宇宙，能潜水。</p><p>如果说它是一种生命，就很离谱，但如果说它是海陆空三栖的飞船，就很正常了吧。</p><p>龙很有可能就是一艘外星生物飞船。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-29c08b34f713ed34a0dec776f1072ac4_1440w.jpg" data-rawwidth="1536" data-rawheight="865" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-d0195da5d6047fc02dfed9b1690f1067_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-29c08b34f713ed34a0dec776f1072ac4_r.jpg" referrerpolicy="no-referrer"></figure><p>我们知道，龙经常与王朝气运连在一起，历朝历代真正的王者，大多都有与龙有相关的传说。</p><p>比如黄帝有应龙相助，大禹的父亲鯀化身黄龙，刘邦的母亲田中遇龙……</p><p>或许这背后的故事就是，这些传说中的人物，因为自身的独特性，获得了外星造物“龙”的帮助，才创造了伟大的朝代。</p><p>有龙就有气运，有气运，就能成为强国。</p><p>龙以前选择了中国，也因此只有中国的典籍中记载了龙，甚至在西方，这种龙都被称为中国龙。</p><p>它不在其他地方出现，这按理来说是不应该的，毕竟那样神奇而巨大的生物，没理由不去地球别的地方溜达，那么多的文明，只要见到就没有任何理由不记载下来。</p><p>但慢慢的，龙就不再出现了，尤其是当满清入主中原之后，龙就消失了。</p><p>世界的主角开始从古老的中国，变成了新生的美国。</p><p>美国在近代取得了这么多成就，可以说过去一二百年的气运，都在美国。</p><p>这或许也是因为有外星生命在帮助他们，宣传UFO出没，是他们强化自己是天选之子的一种方式。</p><p>UFO，就是美国人文化中的“龙”。</p><p>毕竟龙就是神，而在他们的文艺作品中，神就是外星人。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-fcf2f90d1b832a3ec3c9b4b15b70d3a8_1440w.jpg" data-rawwidth="450" data-rawheight="270" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-c3665284fe53fbae616dbb43fc55f24c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-fcf2f90d1b832a3ec3c9b4b15b70d3a8_r.jpg" referrerpolicy="no-referrer"></figure><p>看着形状，如果中国古人来看的话，或许就会当做是乌龟壳子，然后叫它赑屃。</p><p>美国议员称，正在发生他们无法驾驭的事情，这说明UFO已经不受他们控制了。</p><p>UFO要离开他们了，或许这就是他们针对中国的原因。</p><p>而我们也可以从这个只会出现在美国936万平方公里土地上的UFO上发现一些新的东西。</p><p>靠，我编不下去了，就这样吧（狗头）</p></a>  
+看星空的仓鼠的回答<br><br><p>抛开所谓的纳粹飞碟阴谋论、前苏联声速飞行器野心论还有那漏洞百出的杜立巴石碟传说，公布所谓的UAP的直接冲击，大概是两种可能性：</p><p>第一种——的确存在美帝“蓝皮书计划”管辖之外的特异存在，也就是茫茫宇宙中来访这颗水蓝行星的访客们，至于他们就是访客还是没事儿撑得路过的，或是基于黑暗森林法则来观察一下人类有没有清理必要的，这些本仓鼠也不好估计╮(╯▽╰)╭</p><p>不过既然是超过议员们把控的事态，那就说明，或许有戏。</p><p>诶，对了，在这个问题下面本仓鼠看到了 <a class="member_mention" href="http://www.zhihu.com/people/78ac9d01e5ac3d82943a874febeed9b0" data-hash="78ac9d01e5ac3d82943a874febeed9b0" data-hovercard="p$b$78ac9d01e5ac3d82943a874febeed9b0">@Van静石</a> 老兄的回答，推测所谓的“龙”是外星飞船的，这个挺好，说不定能一次性解决神话传说生物和神秘生物困扰人类这千百年的秘密……自从看了日本作家立原透耶的《青铜神裔》，倒是有点儿希望(#^.^#)</p><p><br></p><p>第二种——仅仅出乎人类自己的想象而已。</p><p>作为信息茧房和信息不对等的受困者之一，本仓鼠也清楚，这个世界上有很多大家推测的历史秘密，无法通过记录下来的只言片语来解释。</p><p>但记录是给我们看的，不想给我们看的还有很多╮(╯▽╰)╭</p><p>毕竟UAP也包括那些未经标记的飞机和已知的人造飞行装置，在地面物流最终发展成今天这般完善之前，天空飞行一直被认为是最快最便捷且最不引人注目的传递方式之一(╯‵□′)╯︵┻━┻</p><p>或许在公布的文件里看不见什么外星人，但存在着能颠覆我们已知历史的可怕秘密。</p><p>国家与国家之间，国家与个人之间，个人与个人之间，有可能存在着以前不可估量的关系。</p><p>比起外星人，本仓鼠更想了解这些(*^▽^*)</p>  
 </div>
             
