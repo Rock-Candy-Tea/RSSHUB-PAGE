@@ -5,18 +5,18 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998fe0e649c74a92d9~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76b2115f2aed41489933f734f96126d6~tplv-k3u1fbpfcp-zoom-1.image'
 author: 掘金
 comments: false
-date: Sun, 30 May 2021 18:29:53 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998fe0e649c74a92d9~tplv-k3u1fbpfcp-zoom-1.image'
+date: Sun, 06 Jun 2021 18:19:29 GMT
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76b2115f2aed41489933f734f96126d6~tplv-k3u1fbpfcp-zoom-1.image'
 ---
 
 <div>   
-<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998fe0e649c74a92d9~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/76b2115f2aed41489933f734f96126d6~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>作者：字节移动技术——段文斌</strong></p>
 <h1 data-id="heading-0">前言</h1>
-<p>众所周知，字节跳动的推荐在业内处于领先水平，而精确的推荐离不开大量埋点，常见的埋点采集方案是在响应用户行为操作的路径上进行埋点。但是由于App通常会有比较多界面和操作路径，主动埋点的维护成本就会非常大。所以行业的做法是无埋点，而无埋点实现需要AOP编程。</p>
+<p>众所周知，精确的推荐离不开大量埋点，常见的埋点采集方案是在响应用户行为操作的路径上进行埋点。但是由于App通常会有比较多界面和操作路径，主动埋点的维护成本就会非常大。所以行业的做法是无埋点，而无埋点实现需要AOP编程。</p>
 <p>一个常见的场景，比如想在<code>UIViewController</code>出现和消失的时刻分别记录时间戳用于统计页面展现的时长。要达到这个目标有很多种方法，但是AOP无疑是最简单有效的方法。Objective-C的Hook其实也有很多种方式，这里以Method Swizzle给个示例。</p>
 <pre><code class="hljs language-objective-c copyable" lang="objective-c">@interface UIViewController (MyHook)
 
@@ -79,12 +79,12 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <ol>
 <li><code>setDelegate</code>传入的对象不是实现<code>UICollectionViewDelegate</code>协议的那个对象</li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bb92bec9b03d40579fbe5fac797e8b46~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3254d99c3b124501a19f95f70f5e2ca5~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如图示，<code>setDelegate</code>传入的是一个代理对象proxy，proxy引用了实际的实现<code>UICollectionViewDelegate</code>协议的<code>delegate</code>，proxy实际上并没有实现<code>UICollectionViewDelegate</code>的任何一个方法，它把所有方法都转发给实际的<code>delegate</code>。这种情况下，我们不能直接对proxy进行Method Swizzle</p>
-<ol>
+<ol start="2">
 <li>多次<code>setDelegate</code></li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f73893b4f97c4721bbed7d21c1d15cac~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c46fbf9114164c7b9bacd99811fc4be4~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>在上述图例中，使用方存在连续调用两次<code>setDelegate</code>的情况，第一次是真实<code>delegate</code>，第二次是<code>proxy</code>，我们需要区别对待。</p>
 <h2 data-id="heading-3">代理模式和NSProxy介绍</h2>
 <p>使用proxy对原对象进行代理，在处理完额外操作之后再调用原对象，这种模式称为代理模式。而Objective-C中要实现代理模式，使用NSProxy会比较高效。详细内容参考下列文章。</p>
@@ -94,7 +94,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 </ul>
 <p>这里面<code>UICollectionView</code>的<code>setDelegate</code>传入的是一个<code>proxy</code>是非常常见的操作，比如IGListKit，同时App基于自身需求，也有可能会做这一层封装。</p>
 <p>在<code>UICollectionView</code>的<code>setDelegate</code>的时候，把<code>delegate</code>包裹在<code>proxy</code>中，然后把proxy设置给<code>UICollectionView</code>,使用<code>proxy</code>对<code>delegate</code>进行消息转发。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d54f8018473f420989bd12d5a72f70f0~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a0f9e430f81c461fa5d841990a9b7707~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-4">方案2 使用代理模式</h2>
 <p>方案1已经无法满足我们的需求了，我们考虑到既然对<code>delegate</code>进行代理是一种常规操作，我们何不也使用代理模式，对<code>proxy</code>再次代理。</p>
 <h3 data-id="heading-5">代码实现</h3>
@@ -186,13 +186,13 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <li><code>UICollectionView</code>，其<code>delegate</code>指针指向DelegateProxy</li>
 <li>DelegateProxy，被UICollectionView用runtime的方式强引用，其target弱引用真实Delegate</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/13d6f916bbda4b77bea90334ea2fe62b~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9cf413d42dd041dc8dfea106d1dfb2fe~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-8">情况二</h4>
 <p>如果使用方也对<code>delegate</code>进行代理，我们使用代理模式</p>
 <ul>
 <li>我们只需要保证我们的DelegateProxy处于代理链中的一环即可</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b6c0507e4fd4acca81a4239648a2413~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71493057558a4a3eb86865c680a1b1d5~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从这里我们可以看出，代理模式有很好的扩展性，它允许代理链不断嵌套，只要我们都遵循代理模式的原则即可。</p>
 <p><strong>到这里，我们的方案已经在今日头条App上测试通过了。但是事情远还没有结束。</strong></p>
 <h1 data-id="heading-9">踩坑之旅</h1>
@@ -313,12 +313,12 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <ol>
 <li>第一次调用，MySDK Hook的时候会用DelegateProxy包装住bridge，所有方法通过DelegateProxy转发到bridge，这里传给 <code>setJSBridgeDelegate:(id)delegate</code>的delegate实际上是DelegateProxy<strong>而非bridge</strong>。</li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ce5ba663e01e4b8dabc5af00ebcbc3b3~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/37c346b9dd4e40ceb6de351fd89d31b2~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这里需要注意，UIWebView的delegate指向DelegateProxy是客户给设置上的，且这个属性<strong>assign而非weak，这个assign很关键，assigin在对象释放之后不会自动变为nil。</strong></p>
 <ol>
 <li>第二次调用，MySDK Hook的时候会用新的DelegateProxy包装住delegate也就是WebViewDelegate，这个时候MySDK的逻辑是把新的DelegateProxy给强引用中，老的DelegateProxy就失去了强引用因此释放了。</li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/154fb93cabc94dd680f712b92f2368ca~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35c3d305fb764694a51b73b0d68cd03a~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>此时的状态如果不做任何处理，当前状态就如图示：</p>
 <ul>
 <li>delegate指向已经释放的DelegateProxy，野指针</li>
@@ -328,7 +328,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <p>如果补上那一句，<code>setJSBridgeDelegate:(id)delegate</code>在判断了delegate不是bridge之后，把UIWebView的delegate设置为bridge就可以完成了。</p>
 <p><strong>注释中 fix with this下一行代码</strong></p>
 <p>修复后模型如下图</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e47fdd3560045c08ee6c678d1b71c7a~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2388a1eb3fef44b09f276fb191e03152~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-16">总结</h3>
 <p>使用Proxy的方式虽然也可以解决一定的问题，但是也需要使用方遵循一定的规范，要意识到第三方SDK也可能<code>setDelegate</code>进行Hook，也可能使用Proxy</p>
 <h2 data-id="heading-17">第二次踩坑</h2>
@@ -339,10 +339,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 </ul>
 <p>RxCocoa也使用了代理模式，对delegate进行了代理，按道理应该没有问题。但是RxCocoa的实现有点出入。</p>
 <h3 data-id="heading-18">RxCocoa</h3>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ff7e6346f7084123b07f694980497768~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/faa487b0f0c242d3b60c6365b5cde2b8~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如果单独只使用了<strong>RxCocoa</strong>的方案，和方案是一致，也就不会有任何问题。</p>
 <h3 data-id="heading-19">RxCocoa+MySDK</h3>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd7cfe5173084d7dba675665268577d4~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a20fbea5080d4852900e56c9070fb19e~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>RxCocoa+MySDK之后，变成这样子。UICollectionView的delegate直接指向谁在于谁调用的<code>setDelegate</code>方法后调。</p>
 <p>理论也应该没有问题，就是引用链多一个poxy包装而已。但是实际上有两个问题。</p>
 <h3 data-id="heading-20">问题1</h3>
@@ -390,13 +390,13 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <li>最终结果如下图</li>
 <li>然后导致self._currentDelegate(for: object) 是DelegateProxy而非RxDelegateProxy，<strong>触发标红断言</strong></li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a455cd8ebad491889e03857e7af12ec~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/117dbe44f26b4808a019a000917a8f96~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>这个断言就很霸道</strong>，相当于RxCocoa认为就只有它能够去使用Proxy包装delegate，其他人不能这样做，只要做了，就断言。</p>
 <p><strong>进一步分析</strong></p>
 <ul>
 <li>当前状态</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dfd878666c0a4a189bca9e81e771565d~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/44f10223f9064786ba0ea7ef03a0244c~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>再次进入Rx的方法
 <ul>
@@ -407,10 +407,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 </ul>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a945f79e9074c2ca13a593c8509ec83~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2219868ea4e84f7eb2b3821b8718a724~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-21">问题2</h3>
 <p><strong>上面提到多次调用导致了循环指向，而循环指向导致了在实际的方法转发的时候变成了死循环。</strong></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7971b997b8c34cb4a2ec99d2b9689065~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cc61265ebd45432f8c7254a96a6fcea7~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>responds代码</strong></p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-keyword">open</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">RxScrollViewDelegateProxy</span> </span>&#123;
     <span class="hljs-keyword">override</span> <span class="hljs-keyword">open</span> <span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">responds</span>(<span class="hljs-params">to</span> <span class="hljs-params">aSelector</span>: <span class="hljs-type">Selector</span>!)</span> -> <span class="hljs-type">Bool</span> &#123;
@@ -437,7 +437,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <p>问题的原因比较明显，如果改造RxCocoa的代码，把第三方可能的Hook考虑进来，完全可以解决问题。</p>
 <h4 data-id="heading-23">解决方案1</h4>
 <p>参考MySDK的proxy方案，在proxy中加入一个特殊方法，来判断RxDelegateProxy是否已经在引用链中，而不去主动改变这个引用链。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8098cefdfff14394936431adb39a3b58~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a9829fc19a9f4e7880f8d09a0dfaeca6~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-keyword">open</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">RxScrollViewDelegateProxy</span> </span>&#123;
     <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">proxy</span>(<span class="hljs-params">for</span> <span class="hljs-params">object</span>: <span class="hljs-type">ParentObject</span>)</span> -> <span class="hljs-keyword">Self</span> &#123;
         <span class="hljs-operator">...</span>
@@ -473,7 +473,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 </ul>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/56e0faa2937742b397ecfd5c6b53d21a~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8350887c13714f5b960c1e3326ed1ae9~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>状态2
 <ul>
@@ -482,7 +482,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 </ul>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ffc876e1cd543b5aa40122be6fecef7~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f9c4f89ab2b441dc894a5e18ca23449f~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>其实如果是状态2，似乎Rxcocoa的bug是不会复现的。</p>
 <p><strong>但是仔细查看Rxcocoa的setDelegate代码</strong></p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-class"><span class="hljs-keyword">extension</span> <span class="hljs-title">Reactive</span> <span class="hljs-title">where</span> <span class="hljs-title">Base</span>: <span class="hljs-title">UIScrollView</span> </span>&#123;
@@ -526,7 +526,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f92ebb6d4674b998f
 <li>forwardInvocation中处理<code>UICollectionViewDelegate</code>相关回调</li>
 </ul>
 <p>回顾消息转发机制</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ad7b9ab920424b3b938af9583c2b0fcd~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f1c0c083e4c94339a5921bd35aa81dae~tplv-k3u1fbpfcp-zoom-1.image" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>我们可以在forwardingTargetForSelector这一步进行处理，这样可以避开与Rx相关的冲突，处理完再直接跳过。</p>
 <ul>
 <li>forwardingTargetForSelector中针对delegate的回调，target返回一个SDK处理的类，比DelegateProxy</li>

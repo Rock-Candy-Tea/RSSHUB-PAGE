@@ -1,0 +1,18 @@
+
+---
+title: '生鲜电商战事升级：叮咚买菜VS每日优鲜VS社区团购（附下载）'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=4010'
+author: 199IT
+comments: false
+date: Tue, 29 Jun 2021 18:05:26 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4010'
+---
+
+<div>   
+生鲜电商战事升级：叮咚买菜VS每日优鲜VS社区团购（附下载）  
+</div>
+            

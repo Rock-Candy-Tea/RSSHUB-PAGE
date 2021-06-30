@@ -1,0 +1,18 @@
+
+---
+title: 'Dear Google_ Public domain compositions exist'
+categories: 
+ - 编程
+ - Hacker News
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=495'
+author: Hacker News
+comments: false
+date: 2021-06-30 01:55:27
+thumbnail: 'https://picsum.photos/400/300?random=495'
+---
+
+<div>   
+Link: <a href="https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist"> Dear Google: Public domain compositions exist </a>  
+</div>
+            
