@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162'
+headimg: 'https://pic4.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-06-30 10:07:30
-thumbnail: 'https://pic1.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162'
+date: 2021-06-30 11:05:56
+thumbnail: 'https://pic4.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic4.zhimg.com/v2-f268e3119e7ac00f9279f9af29992fb5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">汪靖豪，</span><span class="bio">专心做一个点赞的知乎用户。</span>
 <a href="https://www.zhihu.com/question/35296900/answer/1029313440" class="originUrl" hidden>查看知乎原文</a>
 </strong>

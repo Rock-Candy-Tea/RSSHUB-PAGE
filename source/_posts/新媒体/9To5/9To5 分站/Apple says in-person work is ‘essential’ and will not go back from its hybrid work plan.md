@@ -13,10 +13,10 @@ thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/06/image16224658
 ---
 
 <div>   
-<p>Earlier this month, Tim Cook announced in an internal memo that <a href="https://9to5mac.com/2021/06/02/apple-hybrid-work-plan/" target="_blank" rel="noreferrer noopener">Apple is going to adopt a new hybrid work plan</a> that will require employees to work in-person at least three days a week . While this has resulted in some controversy, the company reaffirmed that it has no plans to go back on its decision, as it considers in-person work “essential.”</p>
+<p>Earlier this month, Tim Cook announced in an internal memo that <a href="https://9to5mac.com/2021/06/02/apple-hybrid-work-plan/" target="_blank" rel="noreferrer noopener">Apple is going to adopt a new hybrid work plan</a> that will require employees to work in-person at least three days a week. While this has resulted in some controversy, the company reaffirmed that it has no plans to go back on its decision, as it considers in-person work “essential.”</p>
 <p><span id="more-733995"></span>
 </p>
-<p>In an internal video obtained by <em><a href="https://www.theverge.com/2021/6/29/22556615/apple-response-hybrid-work-model-employee-letter-remote">The Verge</a></em>, Senior VP of Retail and People Deirdre O’Brien said that Apple believes that “in-person collaboration is essential to our culture and our future.” O’Brien also mentioned that the products and services introduced by Apple in the past have all been the result of in-person collaboration.</p>
+<p>In an internal video obtained by <em><a href="https://www.theverge.com/2021/6/29/22556615/apple-response-hybrid-work-model-employee-letter-remote">The Verge</a></em>, senior VP of retail and people Deirdre O’Brien said that Apple believes that “in-person collaboration is essential to our culture and our future.” O’Brien also mentioned that the products and services introduced by Apple in the past have all been the result of in-person collaboration.</p>
 <blockquote class="wp-block-quote">
 <p><em>“If we take a moment to reflect on our unbelievable product launches this past year, the products and the launch execution were built upon the base of years of work that we did when we were all together in-person.”</em></p>
 </blockquote>
