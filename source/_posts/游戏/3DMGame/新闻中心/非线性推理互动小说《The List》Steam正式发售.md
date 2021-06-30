@@ -72,7 +72,21 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210630/1625035642_6926
 《The List》于今天（2021年6月30日）在Steam商店正式发售，国区售价26元，目前正在特价促销-12%售价23元。游戏不支持简体中文。
 </p>
 <p style="text-indent:2em;">
-Steam商店页面：点击这里
-</p>          
+<strong>Steam商店页面：<a href="https://store.steampowered.com/app/1586820/The_List/" target="_blank">点击这里</a></strong>
+</p>
+<div>
+<div>
+<div>
+</div>
+<div style="font-size:13px;background-color:#FFFFFF;">
+<div>
+<div>
+</div>
+<div>
+</div>
+</div>
+</div>
+</div>
+</div>          
 </div>
             

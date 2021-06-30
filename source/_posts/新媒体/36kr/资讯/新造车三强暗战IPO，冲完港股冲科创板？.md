@@ -24,16 +24,16 @@ thumbnail: 'https://img.36krcdn.com/20210630/v2_c7ee474ceb42471d9875dad1b59469ab
 <p class="image-wrapper"><img data-img-size-val="778,430" src="https://img.36krcdn.com/20210630/v2_741117df8f0349ada1eeda9634f805c8_img_png" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">来源：小鹏发售书</p> 
 <p>小鹏加速在港股IPO的步伐，与其同处于新造车第一梯队的蔚来和理想也有意回归国内资本市场。</p> 
-<p>今年3月，有媒体报道称，蔚来汽车已联系瑞士信贷和摩根士丹利，将在港股发行股票，未来还将筹划登陆A股市场。</p> 
-<p>理想汽车则与高盛和瑞银进行合作，计划回归港股市场。理想汽车CEO李想曾对外表示，理想汽车不介意任何方式的融资，包括二级市场、银行贷款和发债等。</p> 
+<p>今年3月，有媒体报道称，<a class="project-link" data-id="63630" data-name="蔚来汽车" data-logo="https://img.36krcdn.com/20201125/v2_56202eb05d3b4a0ca0cd818f6d6a4eb1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/63630" target="_blank">蔚来汽车</a>已联系瑞士信贷和摩根士丹利，将在港股发行股票，未来还将筹划登陆A股市场。</p> 
+<p><a class="project-link" data-id="66453" data-name="理想汽车" data-logo="https://img.36krcdn.com/20210303/v2_f6028a962c794108979c3dac08262935_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/66453" target="_blank">理想汽车</a>则与高盛<a class="project-link" data-id="280674" data-name="和瑞" data-logo="https://img.36krcdn.com/20201015/v2_c8a82a7fe03a4a27bea5eeb55bad29b0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/280674" target="_blank">和瑞</a>银进行合作，计划回归港股市场。理想汽车CEO李想曾对外表示，理想汽车不介意任何方式的融资，包括二级市场、银行贷款和发债等。</p> 
 <p>“归国三子”再次谋求IPO，除了吸引资金还有哪些原因？二次上市为何首选香港？</p> 
 <h3><strong>港股热钱多</strong></h3> 
 <p>热钱足够多，港股在“蔚小理”眼中无疑是个香饽饽。</p> 
-<p>从去年开始，港股就迎来IPO热潮。2020年第一季度，香港在全球IPO市场中排名第五，到2020年底，已经跃升至全球第二，仅次于纳斯达克。根据安永最新统计数据，2021年上半年预计共有45家公司在香港首发上市，筹资额2108亿港元，创历史新高，与去年同期相比，筹资额大增127%。</p> 
+<p>从去年开始，港股就迎来IPO热潮。2020年第一季度，香港在全球IPO市场中排名第五，到2020年底，已经跃升至全球第二，仅次于纳斯达克。根据<a class="project-link" data-id="561058" data-name="安永" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/561058" target="_blank">安永</a>最新统计数据，2021年上半年预计共有45家公司在香港首发上市，筹资额2108亿港元，创历史新高，与去年同期相比，筹资额大增127%。</p> 
 <p class="image-wrapper"><img data-img-size-val="1880,1253" src="https://img.36krcdn.com/20210630/v2_5191d1a95a3643b8a372fdc31f5083f1_img_jpeg" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">来源：pexels</p> 
-<p>普华永道预计，2021年将有170家企业赴香港上市，全年融资总额介于4200亿至4600亿港元之间。香港IPO融资总额有望创下新高，重新夺回IPO总融资额全球冠军。</p> 
-<p>热钱涌向港股，自然引得新造车三兄弟侧目。另一边，“蔚小理”接连在美股市场遇冷，也成为其倾向回港上市的一个原因。广发证券分析师告诉未来汽车日报（ID：auto-time），“近期美国不断出台针对中概股的打击措施，如限制购买中概股股票、限制其会计审查主体和程序等，最终就是限制美国投资者投资中国股票。导致蔚来、理想和小鹏股票的不确定风险加大。”</p> 
+<p><a class="project-link" data-id="50592" data-name="普华永道" data-logo="https://img.36krcdn.com/20200827/v2_55ff7c669113453f8f5164fbe942481a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/50592" target="_blank">普华永道</a>预计，2021年将有170家企业赴香港上市，全年融资总额介于4200亿至4600亿港元之间。香港IPO融资总额有望创下新高，重新夺回IPO总融资额全球冠军。</p> 
+<p>热钱涌向港股，自然引得新造车三兄弟<a class="project-link" data-id="145607" data-name="侧目" data-logo="https://img.36krcdn.com/20200729/v2_31338d529d59477ba406f4f464829c1d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/145607" target="_blank">侧目</a>。另一边，“蔚小理”接连在美股市<a class="project-link" data-id="4060382" data-name="场遇" data-logo="https://img.36krcdn.com/20210601/v2_7106efc3d10a48f38aabb23c40a96a39_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4407700022" target="_blank">场遇</a>冷，也成为其倾向回港上市的一个原因。<a class="project-link" data-id="25160" data-name="广发证券" data-logo="https://img.36krcdn.com/20201021/v2_43533265e4704d10b6dceb5df5274cee_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25160" target="_blank">广发证券</a>分析师告诉未来汽车日报（ID：auto-time），“近期美国不断出台针对中概股的打击措施，如限制购买中概股股票、限制其会计审查主体和程序等，最终就是限制美国投资者投资中国股票。导致蔚来、理想和小鹏股票的不确定风险加大。”</p> 
 <p>上述分析师认为，今年新能源车股市遇冷，叠加美国对中概股的限制，<strong>“蔚小理”的股价高光期已过，很难再有新的突破。</strong>“目前港股对科技类企业的投资热情很高，并且金融和司法制度可以直接对接西方，港股和美股可以随意兑换外汇进行操作，从而分摊中概股在美股的不确定性风险。”</p> 
 <p>相较A股、科创板的上市流程，港股IPO流程相对简单。因此，香港成为“蔚小理”二次上市的首选之地。</p> 
 <p>另外，因科创板开放之际条件比较宽松，导致先期上市科创板的企业股价产生了大量泡沫，所以今年科创板的审核变得严格起来，排队IPO的企业均在修改招股书。分析师透露，科创板内部对造车新势力的科技属性一直存在分歧，所以“蔚小理”很难在短时间内登陆科创板。</p> 
