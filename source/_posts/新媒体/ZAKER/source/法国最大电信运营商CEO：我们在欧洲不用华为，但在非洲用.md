@@ -1,0 +1,18 @@
+
+---
+title: '法国最大电信运营商CEO：我们在欧洲不用华为，但在非洲用'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdb_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 29 Jun 2021 20:05:54 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdb_1024.jpg'
+---
+
+<div>   
+<p>【文 / 观察者网 熊超然】一年一度的世界移动通信大会正在西班牙巴塞罗那举行，与会期间，法国最大电信业公司 Orange 的 CEO 史蒂芬 · 理查德（Stephane Richard）谈及在全球布局 5G 网络建设，特别是在欧洲和非洲这两个地区，做法大相径庭。</p><p>理查德表示，在开发欧洲 5G 网络时，Orange 将选择爱立信和诺基亚等供应商，韩国企业也是一个选项，但会避免使用中国供应商的设备。他声称，欧洲公司对中国大型企业仍有 " 担忧 "，无法与中国供应商在欧洲合作已是一种 " 现实情况 "。</p><p>不过，他同时又坦言，Orange 认为在非洲地区与华为开展合作没有问题，在非洲，华为正是许多电信运营商的设备供应商。理查德称，由于与华为之间的商业关系良好，Orange 还在非洲加深了和中国厂商的合作力度。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdb_1024.jpg" data-height="163" data-width="732" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdb_1024.jpg" referrerpolicy="no-referrer"></div></div>路透社报道截图<p></p><p>当地时间 6 月 29 日，路透社以 "Orange 目睹华为在非洲 5G 市场的作用 " 为标题，报道了这家法国电信业巨头掌舵者所发表针对华为和 5G 方面的最新言论。</p><p>据报道，理查德当天说道：" 我们在非洲越来越多地与中国厂商合作，不是因为我们喜爱中国，而是我们与华为之间有着良好的商业关系。" 他指出，中国厂商正在非洲大力投资，而欧洲厂商却仍在犹豫。</p><p>不过，相比于理查德发表针对非洲 5G 市场的言论，其针对欧洲 5G 市场以及诸如华为等中国供应商的言论则明显有所区别。</p><p>路透社也提到，此前美国以所谓 " 国家安全威胁 " 为借口，对华为进行无理打压，虽然华为一再否认，但出于美方施加的外交压力，欧洲各国政府还是加强了对参与本国 5G 网络建设的中国企业的控制。</p><p>" 我们不能忽视这样一个事实，那就是中国大型企业和政府之间关系密切。" 理查德就此宣称，做出此举并非单纯来自政府的压力，作为欧洲公民，他们也有同样的担忧。</p><p>" 我们需要时间和额外投资，与多家供应商建立新的独立网络。但事实却是，如今在欧洲，与中国供应商一同开发 5G 网络已变得越来越困难，我们将此视为现实情况。" 他如此说道。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdc_1024.jpg" data-height="583" data-width="869" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202106/60dbd0f88e9f09785f71dbdc_1024.jpg" referrerpolicy="no-referrer"></div></div>史蒂芬 · 理查德 图自 Orange 官网<p></p><p>路透社指出，在本国 5G 网络建设中，诸如英国和瑞典等一些欧洲国家已完全禁止了中国供应商参与，而其他一些欧洲国家则鼓励电信运营商选择欧洲供应商，尤其是在其网络的核心部分。</p><p>在华为的 5G 设备和技术被美欧各国不断打压之后，芬兰企业诺基亚和瑞典企业爱立信等公司逐步抢占了华为手中的欧洲市场份额。去年年底，Orange 在比利时的公司分部就决定用诺基亚的设备取代华为的设备。</p><p>本月早些时候，韩国企业三星电子已与英国电信集团沃达丰（Vodafone）签约，成为其 5G 网络设备供应商，在获得首个欧洲客户的同时，也正式进军了此前由诺基亚、爱立信和华为所主导的欧洲市场。</p><p>对此，理查德也表示，自己的公司愿意使用韩国三星的设备，并称这是 " 中欧大论战 " 之下的另一种选择。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202106/60dbd0f88e9f09785f71dbdd_1024.jpg" data-height="360" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202106/60dbd0f88e9f09785f71dbdd_1024.jpg" referrerpolicy="no-referrer"></div></div>法国电信业巨头 Orange 图自社交媒体<p></p><p>去年 10 月，华为被瑞典政府禁止参与 5G 频谱拍卖活动，对于这项不公决定，华为公司提起了上诉。当地时间 6 月 22 日，斯德哥尔摩行政法院对此案作出判决，<a href="http://iphone.myzaker.com/zaker/link.php?pk=60dbe6e48e9f0931f47a9916&b=aHR0cDovL3d3dy5ndWFuY2hhLmNuL2ludGVybmF0aW9uLzIwMjFfMDZfMjNfNTk1NDczLnNodG1s&bcode=10344816&target=_new" target="_blank">驳回华为上诉</a>，判定瑞典政府的决定并不违法，即维持了这项 " 华为 5G 禁令 "。</p><p>判决结果公布后，除了华为发布声明予以回应之外，瑞典电信业巨头爱立信也通过发言人强调，本国法院的这一判决 " 可能会对包括爱立信在内的瑞典企业和瑞典经济产生不利影响 "。</p><p>就在上月 24 日，爱立信方面曾发出<a href="http://iphone.myzaker.com/zaker/link.php?pk=60dbe6e48e9f0931f47a9916&b=aHR0cDovL3d3dy5ndWFuY2hhLmNuL2ludGVybmF0aW9uLzIwMjFfMDVfMjVfNTkxODk3LnNodG1s&bcode=891993be&target=_new" target="_blank">警告性预测</a>，预计该公司在华 5G 市场份额将大幅缩水，部分原因和瑞典将中国供应商排除出本国 5G 网络建设之外有关。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
