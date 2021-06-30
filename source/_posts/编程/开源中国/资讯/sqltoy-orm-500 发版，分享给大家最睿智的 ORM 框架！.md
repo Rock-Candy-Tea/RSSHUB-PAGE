@@ -27,17 +27,39 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-7bf9649420e381d2ae4fe673c2890fe
  <li>idea 插件(可直接在idea中检索安装):  <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fthreefish%2Fsqltoy-idea-plugins" target="_blank">https://github.com/threefish/sqltoy-idea-plugins</a></li> 
  <li style="text-align:justify"> <p style="text-align:left"><strong>更新内容</strong></p> </li> 
 </ul> 
-<p>1. 规整4.x版本的代码目录，使其更加科学<br> * 去除executor目录，将QueryExecutor 对外的模型统一移入model目录下面<br> * 将非对外的内部模型移入到model.inner 包下面，将一些配置化的模型移入到config.model下面<br> 2. 将PaginationModel 改为Page，并将PageNo 由Long改为long，避免需要写1L，简化书写<br> 3. 优化support下面的LinkSupport，BaseSupport<br> * 剔除掉LinkSupport和BaseSupport，合并到SqlToyDaoSupport<br> 4. 去除一些根本用不到的方法，避免产生疑问和混淆，使得SqlToyDao更加清晰<br> * 去除updateFetchTop、updateFetchRandom <br> * 去除：public Long executeSql(String sqlOrNamedSql, Serializable entity, ReflectPropsHandler reflectPropertyHandler)带有reflectPropertyHandler 的开放方法<br> 5. 去除@ListSql  @PageSql @LoadSql 这些注解，尽量让使用方法归一<br> 6. 去除ObtainDataSource，避免跟DataSourceSelector产生功能重叠<br> 7. 将ConnectonFactory移入org.sagacity.sqltoy.plugins.datasource包下<br> 8. 剔除findAll方法，用findEntity(Class voClass,null) 代替findAll方法属于极小众方法<br> 9. 并行查询设置分页模型方法：pageMode(Pagination pageModel)改为page(Page page)<br> 10. 增加loadEntity方法，通过EntityQuery获得单条记录：<br> ```java<br>  public <T extends Serializable> T loadEntity(Class<T> entityClass, EntityQuery entityQuery);<br> ```<br> 11. 增加numFmt（numberFormat) 对英文金额转大写的支持<br> ```xml<br>    <number-format columns="total_amt" format="capital-en"/><br> ```<br> 12. 删除对SybaseIQ数据库的支持<br> 13. 优化部分不使用的代码和注释</p> 
-<p># 4.x 升级5.0 修改点<br> * 分页查询PaginationModel 类改为Page<br> * org.sagacity.sqltoy.executor.QueryExecutor 改为 org.sagacity.sqltoy.model.QueryExecutor</p> 
+<p>1. 规整4.x版本的代码目录，使其更加科学</p> 
 <ul> 
+ <li>去除executor目录，将QueryExecutor 对外的模型统一移入model目录下面</li> 
+ <li>将非对外的内部模型移入到model.inner 包下面，将一些配置化的模型移入到config.model下面</li> 
+</ul> 
+<p>2. 将PaginationModel 改为Page，并将PageNo 由Long改为long，避免需要写1L，简化书写<br> 3. 优化support下面的LinkSupport，BaseSupport</p> 
+<ul> 
+ <li>剔除掉LinkSupport和BaseSupport，合并到SqlToyDaoSupport</li> 
+</ul> 
+<p>4. 去除一些根本用不到的方法，避免产生疑问和混淆，使得SqlToyDao更加清晰</p> 
+<ul> 
+ <li>去除updateFetchTop、updateFetchRandom</li> 
+ <li>去除：public Long executeSql(String sqlOrNamedSql, Serializable entity, ReflectPropsHandler reflectPropertyHandler)带有reflectPropertyHandler 的开放方法</li> 
+</ul> 
+<p>5. 去除@ListSql  @PageSql @LoadSql 这些注解，尽量让使用方法归一<br> 6. 去除ObtainDataSource，避免跟DataSourceSelector产生功能重叠<br> 7. 将ConnectonFactory移入org.sagacity.sqltoy.plugins.datasource包下<br> 8. 剔除findAll方法，用findEntity(Class voClass,null) 代替findAll方法属于极小众方法<br> 9. 并行查询设置分页模型方法：pageMode(Pagination pageModel)改为page(Page page)<br> 10. 增加loadEntity方法，通过EntityQuery获得单条记录：</p> 
+<pre><code class="language-java"> public <T extends Serializable> T loadEntity(Class<T> entityClass, EntityQuery entityQuery);
+</code></pre> 
+<p>11. 增加numFmt（numberFormat) 对英文金额转大写的支持</p> 
+<pre><code class="language-xml">   <number-format columns="total_amt" format="capital-en"/>
+</code></pre> 
+<p>12. 删除对SybaseIQ数据库的支持<br> 13. 优化部分不使用的代码和注释</p> 
+<h1>4.x 升级5.0 修改点</h1> 
+<ul> 
+ <li>分页查询PaginationModel 类改为Page</li> 
+ <li>org.sagacity.sqltoy.executor.QueryExecutor 改为 org.sagacity.sqltoy.model.QueryExecutor</li> 
  <li><strong>拥有JPA模式的对象CRUD</strong></li> 
 </ul> 
-<p>    对象式CRUD是ORM框架的基本共识，这里不做更多介绍。</p> 
+<p>对象式CRUD是ORM框架的基本共识，这里不做更多介绍。</p> 
 <ul> 
  <li style="text-align:left"><strong>超强查询</strong>：最理想的状态就是：第一在数据库客户端调试好的sql 最直观高效的移入项目工程中；第二、在需求变化时最简单快速的可以从工程中放入数据库客户端中进行调试。也就是说要最大限度的保持sql的原始面貌；</li> 
 </ul> 
-<p style="text-align:left">  <img alt height="800" src="https://oscimg.oschina.net/oscnet/up-7bf9649420e381d2ae4fe673c2890fe39eb.bmp" width="1689" referrerpolicy="no-referrer"></p> 
-<p style="text-align:left"><img alt height="755" src="https://oscimg.oschina.net/oscnet/up-968e45d6d4552b9099301c18efa933f8226.png" width="1074" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left"><img alt src="https://oscimg.oschina.net/oscnet/up-7bf9649420e381d2ae4fe673c2890fe39eb.bmp" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left"><img alt src="https://oscimg.oschina.net/oscnet/up-968e45d6d4552b9099301c18efa933f8226.png" referrerpolicy="no-referrer"></p> 
 <ul> 
  <li style="text-align:left"><strong>用ORM我们真真正正的痛点是什么？</strong></li> 
 </ul> 
