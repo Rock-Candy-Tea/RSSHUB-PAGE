@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=5242'
+headimg: 'https://picsum.photos/400/300?random=3246'
 author: 掘金
 comments: false
 date: Thu, 01 Jul 2021 02:30:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5242'
+thumbnail: 'https://picsum.photos/400/300?random=3246'
 ---
 
 <div>   
@@ -32,6 +32,7 @@ function Hello(props)&#123;
 </ul>
 <h1 data-id="heading-2">二、没有state的解决方法</h1>
 <p>React v16.8.0推出Hooks API，其中的 <code>useState</code> 可以解决这个问题</p>
+<p><strong>注意</strong>： <code>useState</code> 不可以用 <code>if...else</code></p>
 <pre><code class="copyable">import React, &#123; useState, useEffect &#125; from "react"
 
 const App = props =>&#123;//消除了this
