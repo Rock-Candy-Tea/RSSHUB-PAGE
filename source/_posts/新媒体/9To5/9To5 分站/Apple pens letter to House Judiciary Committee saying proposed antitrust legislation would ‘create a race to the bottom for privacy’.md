@@ -30,6 +30,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/11/app
 <p><iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/512810277/content?start_page=1&view_mode&access_key=key-GLXqbjz5gYVYLkwpqaa8" data-auto-height="true" scrolling="no" id="scribd_512810277" width="100%" height="500" frameborder="0"></iframe>
 </p><div style="font-size:10px;text-align:center;width:100%"><a href="https://www.scribd.com/doc/512810277" rel="noopener noreferrer" target="_blank">View this document on Scribd</a></div><p></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/3gS4iac"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/06/e4-mop-750_150_23_27.jpg?quality=82&strip=all" alt class="wp-image-732354" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
