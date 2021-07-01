@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/2d37c54fe769d835687aebb7d48561e6.png'
         <strong>楚航科技</strong><br>
         自动驾驶系统研发商<br>
         A+轮 / 近亿人民币 / 2021-07-01<br>
-        投资方: 厦门半导体、九号公司、上海安亭联投
+        投资方: 厦门半导体、九号机器人、上海安亭联投
         
 </div>
             
