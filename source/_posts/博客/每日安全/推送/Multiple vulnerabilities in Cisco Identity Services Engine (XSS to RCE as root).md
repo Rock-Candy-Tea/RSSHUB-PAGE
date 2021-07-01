@@ -1,0 +1,26 @@
+
+---
+title: 'Multiple vulnerabilities in Cisco Identity Services Engine (XSS to RCE as root)'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=8004'
+author: 每日安全
+comments: false
+date: 2021-07-01 05:05:39
+thumbnail: 'https://picsum.photos/400/300?random=8004'
+---
+
+<div>   
+<q>利用 Cisco 身份服务引擎 XSS 漏洞实现远程 Root RCE 的分析</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 55 minutes ago</small></span>
+</cite>
+  
+</div>
+            

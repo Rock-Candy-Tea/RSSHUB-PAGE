@@ -1,0 +1,26 @@
+
+---
+title: 'Introduction¶'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=3813'
+author: 每日安全
+comments: false
+date: 2021-07-01 05:05:39
+thumbnail: 'https://picsum.photos/400/300?random=3813'
+---
+
+<div>   
+<q>一款开源的 Security Datasets 项目，收集了大量的安全类数据，基于此可以进行数据分析、检测方法验证</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 58 minutes ago</small></span>
+</cite>
+  
+</div>
+            
