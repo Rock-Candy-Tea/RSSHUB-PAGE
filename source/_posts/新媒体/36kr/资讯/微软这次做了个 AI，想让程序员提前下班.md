@@ -1,0 +1,60 @@
+
+---
+title: '微软这次做了个 AI，想让程序员提前下班'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20210701/v2_8274420fd2a541d68636a043b23f7b0e_img_000'
+author: 36kr
+comments: false
+date: Thu, 01 Jul 2021 00:52:15 GMT
+thumbnail: 'https://img.36krcdn.com/20210701/v2_8274420fd2a541d68636a043b23f7b0e_img_000'
+---
+
+<div>   
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a href="https://mp.weixin.qq.com/s/viFDoR8rZMp2PrDOryeMRQ">“极客公园”（ID:geekpark）</a>，作者：biu，36氪经授权发布。原标题《<a class="project-link" data-id="3967413" data-name="微软" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3967413" target="_blank">微软</a>这次做了个 AI，让程序员提前下班，提早下岗》。</p> 
+<p>GPT-3 这个自然语言处理 AI 在去年「出圈」了，被公认是继 AlphaGo 之后「人工智能史上又一里程碑」。它在互联网上「阅读」了 5000 亿词，模型达到 1750 亿参数，从而变得通用。但给 AI 硬灌数据，实在是烧钱耗力。但好在，GPT-3 正在孕育出能够实现商业化的后代。</p> 
+<p>就在刚刚，GitHub、OpenAI、微软联合打造了一个全新的代码生成 AI：GitHub Copilot（以下简称为 Copilot）。</p> 
+<p>简单来说，Copilot 可以根据程序员的注释写代码，自动补全代码，提供与代码匹配的测试，还能生成多个备选方案的代码供选择。GitHub 表示，Copilot 生成的代码大部分是原创的。</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_8274420fd2a541d68636a043b23f7b0e_img_000" data-img-size-val="1080,519" referrerpolicy="no-referrer"></p> 
+<p>目前，Copilot 正在测试专供 Visual Studio Code 的扩展，一旦达到可用状态，未来会成为微软编程产品里的收费项目。Copilot 可以说是 OpenAI 接受微软 10 亿美元投资以来的首个重大成果。</p> 
+<p>还有行业人士表示，这代表 AI 开始在编程工作中发挥作用，软件开发领域的「第三次工业革命」似乎正缓缓揭开序幕。</p> 
+<h2>和你结对编程的，换成了 AI</h2> 
+<p>在此之前，程序员写不出代码，一般会到软件开发领域的问答网站 Stack Overflow「借鉴」，或者求助于一些代码自动补全工具。然而，传统 IDE 基本都使用搜索方法进行补全，换句话说，网上有的，才能被抓过去补全。</p> 
+<p>但 Copilot 是另一种思路，它直接靠 AI 理解程序员的需求。Copilot 不仅仅是模仿以前见过的代码，它还会分析文档中的字符串、注释、函数名称以及代码本身，从而生成新的匹配代码，包括之前调用的特定函数。</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_a4aaacdfe81841eebf8e90c790793102_img_000" data-img-size-val="896,674" referrerpolicy="no-referrer"></p> 
+<p>脱胎自 GPT-3 的 OpenAI Codex，接受过公开源代码和自然语言的培训，能理解编程语言和人类语言。所以，Copilot 对语言理解和转换有极高的天赋。</p> 
+<p>GitHub 给 Copilot 的官方定义是「AI 结对编程员」。「结对编程」（pair programming）是一种软件开发方法，两个程序员在一个计算机上共同工作。一个人输入代码，而另一个人审查他输入的每一行代码。输入代码的人称作驾驶员，审查代码的人称作观察员。两个程序员经常互换角色。GitHub 认为 Copilot 是进化版的「结对编程」，在未来帮程序员查缺补漏的，将会换成 AI。</p> 
+<p>Copilot 具体的功能如下：</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_13fdae54de3e44d9b6a9ea3e8bf5350f_img_000" data-img-size-val="1078,448" referrerpolicy="no-referrer"></p> 
+<p>在注释中用简单的英语描述一个函数，Copilot 就可以将其转换为实际代码；</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_005da0abc8884d16b47aa814c874429e_img_000" data-img-size-val="1079,351" referrerpolicy="no-referrer"></p> 
+<p>Copilot 能根据程序员给出的例子，快速生成模板和重复的代码；</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_2a7305550e3b4a18847b5c7c8d19721f_img_000" data-img-size-val="1080,579" referrerpolicy="no-referrer"></p> 
+<p>导入单元测试包，Copilot 就可以提供与代码匹配的测试；</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_c5e8173ab0654e5d856e5b0f3deb8ade_img_000" data-img-size-val="1080,601" referrerpolicy="no-referrer"></p> 
+<p>Copilot 可以提供多个备选方案的代码供程序员选择。</p> 
+<p>此外，Copilot 还能辅导新手写代码，可以帮助他们找出错误、学习新框架，省去大量查资料的时间。</p> 
+<p>OpenAI 首席技术官 Greg Brockman 表示，将在今年夏末通过 API 发布 Codex。</p> 
+<p>Github CEO Nat Friedman 提到，「OpenAI Codex 对于人们的代码使用习惯有着广泛了解，而且在代码生成能力上远远超过 GPT-3，这要归功于它在训练中接触到的大量公共源代码数据集。GitHub Copilot 则适用于多种框架和语言，但目前的技术预览版主要面向 Python、JavaScript、TypeScript、Ruby 以及 Go」。具体来说，OpenAI 在 GPT-3 的基础上生成了 Codex 算法，Codex 在从 GitHub 那里提取出来的 TB（terabyte）级公开代码以及英语语言示例中<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20200929/v2_fcdf767846d041309970adf0877fc666_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>训练。基于 Codex 算法，编程 AI Copilot 诞生了。</p> 
+<p>也就是说，Copilot 比 GPT-3 诞下的专为代码生成设计的后代。在运行过程中，Copilot 编辑器的扩展插件将程序员的注释和代码发送到 GitHub Copilot 服务端，然后该服务使用 OpenAI Codex 来生成对代码的建议。</p> 
+<p>目前相比于市面上一些编程辅助工具，Copilot 的上下文理解能力要强大得多。无论是在文档字符串、注释、函数名还是代码主体中，Copilot 都能根据编程者已写出的上下文生成匹配的代码。</p> 
+<h2>不看广告，看「疗效」</h2> 
+<p>Friedman 说，GitHub 的数百名开发者在编码时，整天都在使用 Copilot 功能，他们中的大多数人都接受了 AI 的建议，没有关闭该功能。</p> 
+<p>但就目前来看，Copilot 提供建议的准确率似乎不高。GitHub 对一组 Python 函数进行了基准测试，测试团队清除了函数并要求 Copilot 填充它们。模型在第一次尝试正确率是 43%，经过 10 次尝试后，正确率达到了 57%。团队表示，之后 Copilot 还将进行多次训练和测试，准确率会进一步提升。但据一些程序员的说法，这种自动生成的代码工作要「好用」有个前提，就是能精确描述了函数需要实现的功能，不然后续的调试会是更耗时的工作。</p> 
+<p>另外，GitHub 表示，Copilot 提出的代码可能会无法编译或运行，而且 Copilot 还可能会使用旧的或已弃用的库和语言。此外，在试图理解开发人员的意图时，Copilot 建议的代码可能并不总是有效或有意义的，因此程序员还是像往常一样仔细测试和审查所有代码。</p> 
+<p>对于代码安全，GitHub 表示，并不是所有使用的代码都经过了漏洞、不安全实践或个人数据的审查。因此，他们也设置了一些过滤器来防止 Copilot 生成攻击性的语言，目前效果并不完美，需要后续完善。</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_4b64bf91419c4e0a87ffef644ccd35e6_img_000" data-img-size-val="1080,648" referrerpolicy="no-referrer"></p> 
+<p>技术社区也不可避免地对这款工具可能引发的代码所有权、许可证、利益冲突以及其他现实问题展开了讨论。Friedman 回应称，「总体来说：在公共数据上训练机器学习系统属于合理的使用方式；输出结果的所有权归于操作者，跟传统的编译器没什么区别。具体到训练问题上，大家也可以看到 OpenAI 向美国专利商标局做出的承诺。我们预计 Copilot 项目的知识产权与 AI 成果将很快在世界范围内掀起关于政策的讨论热潮，我们自己也希望能够参与进来。」</p> 
+<h2>提前下班，提早下岗</h2> 
+<p>击败 Stack Overflow 的，不是下一个代码问答社区，而是编程 AI。那么，现在还是「协助编程」的 AI，未来会不会成为能「自动编程」 的 AI？</p> 
+<p>Friedman 在 Hacker News 写道：「软件开发正迎来自己的『第三次工业革命』。第一次革命是编译器、调试器、垃圾收集器以及语言等工具的出现，极大提升了开发者的工作效率；第二次革命则以开源为契机，全球开发者社区得以汇聚起来，并在彼此的开发成果基础之上不断推进；第三次革命就在现在，业界尝试在编程当中使用 AI 技术。在发展成熟之后，开发人员的日常工作将有巨大改变——但仍然有很多工作可做、也只能由人类开发者完成，因此不用太担心。」</p> 
+<p>即使是高度机械化的工厂，也需要操作员来发出初始化指令，所以在未来， IT 行业可能还会留下一些操作员类型的程序员，和一些把握高精度操作技巧的工程师。</p> 
+<p>但也正如 Open AI 的 CEO Sam Altman 所说，程序员的身价将会下降：「这是我的预测：AI 会让那些在电脑前工作的人，身价掉得比在物理世界里工作的人还要快。这和大部分的预期完全相反。」</p> 
+<p>有了 Copilot，程序员就可以提前下班，但在未来，也可能会提前下岗。</p> 
+<p><img src="https://img.36krcdn.com/20210701/v2_5eaa541049ed442a9be59a4831a8cb11_img_000" data-img-size-val="1080,720" referrerpolicy="no-referrer"></p> 
+<p>这并不是微软第一回借力 OpenAI 推出 AI 应用。在刚过去的 Build 大会上，微软宣布了 GPT-3 的第一个商业用例：在 Microsoft Power Apps 中集成 GPT-3 的能力，可将自然语言直接转换为现成代码。但目前功能相对有限，只支持在微软 Power Fx 中生成公式。即便如此，对于那些非专业的操作者，这个系统也能给出最合适的公式。在过去的工作流中，普通员工要执行数据分析、构建应用程序或让流程自动化，一般都需要向 IT 部门提出需求，然后等待数周或数月才能完成工作，而借助现在这个功能，可以更「傻瓜」地开发符合自己需求的软件。</p> 
+<p>微软尝到了 OpenAI 技术的甜头。但和微软的独家绑定，也给 OpenAI 招来了一些争议。对此，OpenAI 首席技术官 Greg Brockman 表示，底层技术不会只由微软来使用，OpenAI 将在今年夏末发布 Codex 模型，供第三方开发者编写他们自己的应用程序。</p>  
+</div>
+            
