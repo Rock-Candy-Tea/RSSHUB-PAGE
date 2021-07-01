@@ -14,8 +14,8 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Chi
 
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Chinese-iPhone-sales-boosted-by-618.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Chinese iPhone sales got a welcome boost last month thanks to Apple’s decision to participate in one of the country’s annual ‘shopping festivals.’</p>
-<p>The 618 Shopping Festival peaks around June 18, with many retailers and ecommerce firms offering significant discounts … </p>
+<p>Chinese iPhone sales got a welcome boost last month thanks to Apple’s decision to participate in one of the country’s annual “shopping festivals.”</p>
+<p>The 618 Shopping Festival peaks around June 18, with many retailers and e-commerce firms offering significant discounts … </p>
 <p><span id="more-734323"></span>
 </p>
 <p>The festival started back in 2004 as an anniversary promotion for online retailer JD.com, but <em><a href="https://www.scmp.com/tech/big-tech/article/3136081/chinas-618-shopping-festival-has-become-latest-battlefield-countrys" target="_blank" rel="noreferrer noopener">South China Morning Post</a></em> notes that it has since become a huge cross-retailer event.</p>
@@ -23,11 +23,11 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Chi
 <p>Starting this week, Chinese netizens have been bombarded with online promotions promising them a share of billions of yuan in shopping subsidies, and offers of refunds if they find a better price on another e-commerce platform.</p>
 <p>It is all part of “618” – an event that began as a simple June 18 anniversary promotion for online retailer JD.com in 2004, but has since grown into a huge midyear shopping extravaganza embraced by all the major e-commerce platforms vying for a piece of the consumer wallet.</p>
 </blockquote>
-<p>Apple first opted to take part last year, and was clearly pleased by the results as it did so again this year. <a href="https://www.counterpointresearch.com/china-smartphone-sales-rebound-shopping-festival/" target="_blank" rel="noreferrer noopener">Counterpoint Research</a> reports.</p>
+<p>Apple first opted to take part last year, and was clearly pleased by the results, as it did so again this year. <a href="https://www.counterpointresearch.com/china-smartphone-sales-rebound-shopping-festival/" target="_blank" rel="noreferrer noopener">Counterpoint Research</a> reports.</p>
 <blockquote class="wp-block-quote">
 <p>The company’s sales increased 16% YoY during this edition, taking it to the fourth spot driven by strong promotion activities. The iPhone12, for instance, was being offered by China’s major online retailers at discounts of more than RMB1000 ($155).</p>
 </blockquote>
-<p>The promotion isn’t the only factor at play: all smartphone brands in China are benefiting from Huawei’s decline.</p>
+<p>The promotion isn’t the only factor at play: all smartphone brands in China are benefitting from Huawei’s decline.</p>
 <p>We learned yesterday that <a href="https://9to5mac.com/guides/iphone-12/" target="_blank" rel="noreferrer noopener">global sales of the iPhone 12 crossed 100M</a>, almost matching the performance of the iPhone 6, which set new records through pent-up demand for iPhones with larger screens.</p>
 <blockquote class="wp-block-quote">
 <p>According to a new report from Counterpoint Research, iPhone 12 sales crossed the 100 million unit mark in April 2021, two months earlier than the iPhone 11 and nearly in line with the iPhone 6.</p>
