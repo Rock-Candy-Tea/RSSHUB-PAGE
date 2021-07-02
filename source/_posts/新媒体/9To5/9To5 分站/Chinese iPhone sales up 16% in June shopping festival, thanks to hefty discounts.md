@@ -36,7 +36,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Chi
 <blockquote class="wp-block-quote">
 <p>China has officially approved the Apple Watch electrocardiogram (ECG) feature that first arrived with the Series 4 wearable. The regulatory green light means Apple could launch the functionality with a software update for users in the country any time now.</p>
 </blockquote>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/06/Dreametech-Image-2.jpg?quality=82&strip=all" alt class="wp-image-734089" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/202107020940533856html_img.blob'
 author: 二柄 APP
 comments: false
-date: 2021-07-02 14:06:06
+date: 2021-07-02 15:07:02
 thumbnail: 'https://erbingeditor.diershoubing.com/202107020940533856html_img.blob'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/202107020940533856html_img.blo
 6.《健身环大冒险》13756份（累计2654669份）
 7.NS版《我的世界》11888份（累计2019432份）
 8.NS版《那由多之轨迹:改》11230份（新发售）
-9.PS4版《绯红结系》11008份（新发售）
+9.PS5版《绯红结系》11008份（新发售）
 10.NS版《卡里古拉2》10243份（新发售）<br><img src="https://erbingeditor.diershoubing.com/202107020940533856html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202107020941254487html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202107020941287436html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202107020941305034html_img.blob" referrerpolicy="no-referrer">  
 </div>
             

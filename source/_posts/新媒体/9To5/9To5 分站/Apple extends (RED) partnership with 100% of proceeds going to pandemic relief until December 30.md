@@ -26,7 +26,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/app
 </blockquote>
 <p><a href="https://www.apple.com/product-red/">Apple highlights its range</a> of PRODUCT(RED) devices and accessories including iPhone 12 and the rest of the current <a href="https://amzn.to/3o9GnVL">iPhone lineup</a>, Apple Watch <a href="https://amzn.to/3o9GnVL">bands</a>, iPad <a href="https://amzn.to/3o9GnVL">cases</a>, Beats headphones, and more.</p>
 <p>If you don’t need any new Apple products, you can also <a href="https://www.red.org/donate">donate directly to (RED) on the nonprofit’s website here</a>.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/06/Dreametech-Image-2.jpg?quality=82&strip=all" alt class="wp-image-734089" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
