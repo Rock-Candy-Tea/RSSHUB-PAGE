@@ -1,0 +1,19 @@
+
+---
+title: '高通新任 CEO 意在主导笔记本电脑芯片市场：不惧苹果自研芯片'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0702/6d7bf1ee0011a99.jpg'
+author: cnBeta
+comments: false
+date: Fri, 02 Jul 2021 01:59:15 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0702/6d7bf1ee0011a99.jpg'
+---
+
+<div>   
+<strong>据报道，高通新任 CEO 表示，到明年时该公司就将针对笔记本电脑生产商推出新品。</strong>此前外界一直有人担忧该公司是否能够与苹果进行竞争，后者在去年推出的笔记本电脑使用了自己研发的芯片，该设备处理速度更快，电池续航时间也更长。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0702/6d7bf1ee0011a99.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0702/6d7bf1ee0011a99.jpg" alt="lrap0gcq.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">图片来自于 高通</p><p style="text-align: left;">长期以来都在为笔记本电脑生产商供应芯片的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a>的芯片，在节能方面，都无法与<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>的芯片相媲美。</p><p style="text-align: left;">高通公司首席执行官克里斯蒂亚诺·阿蒙 （Cristiano Amon） 周四对媒体表示，他相信，在一支芯片设计师团队的帮助下，高通公司可以拥有市场上最好的芯片。该团队曾在苹果芯片领域工作，但现在已经加盟了高通。</p><p style="text-align: left;">阿蒙在高通位于加利福尼亚州圣地亚哥的总部接受采访时表示，高通预计将通过来自中国的收入增长，来推动其核心的智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>芯片业务。他表示：“我们将在中国大力发展。”</p><p style="text-align: left;">阿蒙表示，他的战略核心来自于该公司在智能手机芯片市场上学到的一个教训：仅仅为手机的无线数据连接提供调制解调器芯片是不够的。高通还要提供其他芯片，让手机转变成电脑，许多高端Android设备就是这样做的。</p><p style="text-align: left;">如今，随着高通开始在笔记本电脑中普及 5G 网络，他们现在正在将调制解调器芯片与中央处理器 （CPU） 芯片进行连接。高通并没有使用长期合作伙伴 Arm 的计算核心解决方案，而是找到了自己的方式，如果其客户想要与苹果公司的新笔记本电脑竞争，他们可以与高通合作，设计定制芯片。</p><p style="text-align: left;">作为高通公司芯片部门的负责人，阿蒙今年领导了对初创公司 Nuvia 的 14 亿美元收购。后者的创始人是前苹果员工，在离职创业之前，他曾参与了苹果笔记本电脑芯片的设计工作。高通将从明年开始生产并销售基于 Nuvia 技术的笔记本电脑芯片。</p><p style="text-align: left;">阿蒙说道：“我们需要让由电池驱动的设备获得领先的性能。我们与 Arm 有着多年的合作伙伴关系，如果 Arm 开发出的 CPU 比我们自己生产的更好，我们也可以从他们那里获得认证许可。”</p><p style="text-align: left;">Arm 当前正在被英伟达公司以 400 亿美元的价格收购，高通此前已经与监管部门一起，对这笔交易提出了反对。</p><p style="text-align: left;">阿蒙表示，数据中心是 CPU 芯片的另一大市场，但是高通当前并没有进入这一市场的计划。但是他们会将 Nuvia 的设计授权给那些希望自己制造芯片的云计算公司，这可能使该公司与 Arm 的部分产品形成竞争。阿蒙表示：“我们非常愿意利用 Nuvia 的 CPU 资产，与那些在构建数据中心解决方案时感兴趣的公司合作。”</p><p style="text-align: left;">在上一财年中，高通的芯片业务营收为 165 亿美元，其中 128 亿美元来自手机芯片业务。高通的许多优质客户都来自中国，例如手机制造商<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=450&euid=&t=http%3A%2F%2Fwww.mi.com%2F" target="_blank">小米</a>。</p><p style="text-align: left;">随着Android手机受欢迎程度的提升，高通希望其营收将继续增长。阿蒙表示，该公司可以继续在中国获得增长。他表示：“我们在中国的客户都遵守他们的协议，所以你看到了对美国知识产权的尊重。”</p><p style="text-align: left;">高通面临的另一个挑战，就是如何留住苹果这个大客户。经过一系列激烈的法律战之后，高通公司的调制解调器芯片现在已经在所有的苹果 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>12 型号中使用。苹果在 2017 年起诉高通公司，但最终放弃索赔，并于 2019 年与高通公司签署了芯片供应和专利许可协议。</p><p style="text-align: left;">而如今苹果正在自己设计芯片，旨在取代 iPhone 上使用的高通通信芯片。</p><p style="text-align: left;">Canaccord Genuity Group 高级分析师迈克尔·沃克利 （Michael Walkley） 表示：“高通公司长期股价倍数最大的悬念是，目前该公司的表现已经很好了，因为所有 iPhone 都在使用他们的芯片。但总有一天，苹果会在内部生产这些芯片，从而取代高通的芯片。”</p><p style="text-align: left;">阿蒙说，高通公司在设计调制解调器芯片方面有着数十年的经验，任何竞争对手都很难复制这种芯片。</p><p style="text-align: left;">阿蒙还面临一个挑战，那就是消费者对高通的了解程度不如英特尔和英伟达，即使是在高通的家乡，情况也是如此。为了改变这一现状，阿蒙公司为公司的骁龙（Snapdragon） 智能手机芯片启动了一项新的品牌计划。他说道：“如今的智能手机产业已经非常成熟，人们已经开始关心手机屏幕后面都使用了哪些原件。”</p>   
+</div>
+            
