@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 推酷
  - 周刊
-headimg: 'https://picsum.photos/400/300?random=255'
+headimg: 'https://picsum.photos/400/300?random=9917'
 author: 推酷
 comments: false
 date: Mon, 28 Jun 2021 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=255'
+thumbnail: 'https://picsum.photos/400/300?random=9917'
 ---
 
 <div>   
