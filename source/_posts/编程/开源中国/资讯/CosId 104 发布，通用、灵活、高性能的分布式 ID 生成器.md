@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/AhooWang/CosId/raw/main/docs/Snowflake-identifier.png'
 author: 开源中国
 comments: false
-date: Thu, 01 Jul 2021 23:49:00 GMT
+date: Fri, 02 Jul 2021 07:48:00 GMT
 thumbnail: 'https://gitee.com/AhooWang/CosId/raw/main/docs/Snowflake-identifier.png'
 ---
 

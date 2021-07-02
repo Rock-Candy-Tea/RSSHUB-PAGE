@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png'
 author: 机核网
 comments: false
-date: 2021-07-02 00:21:49
+date: 2021-07-02 01:53:14
 thumbnail: 'https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png'
 ---
 
 <div>   
-<img src="https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-941en" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="941en" data-offset-key="eatfp-0-0"><div data-offset-key="eatfp-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="eatfp-0-0"><span data-text="true">宝可梦官方正式公开了以“宝可梦×自然×冒险”为主题的新企划内容：Pokémon Wonder（ポケモンワンダー）。本企划为在户外中寻找宝可梦的自然互动娱乐项目，将在7月17日于日本的读卖乐园（よみうりランド）正式上线，目前预约已开始。</span></span></div></div>
+<img src="https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-7em7j" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="7em7j" data-offset-key="eatfp-0-0"><div data-offset-key="eatfp-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="eatfp-0-0"><span data-text="true">宝可梦官方正式公开了以“宝可梦×自然×冒险”为主题的新企划内容：Pokémon Wonder（ポケモンワンダー）。本企划为在户外中寻找宝可梦的自然互动娱乐项目，将在7月17日于日本的读卖乐园（よみうりランド）正式上线，目前预约已开始。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/5ad32e06-770f-4d51-96d9-c87821b2d4da.jpg" alt referrerpolicy="no-referrer">
 
@@ -21,7 +21,7 @@ thumbnail: 'https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png'
 <figure>
 <img src="https://image.gcores.com/0e024821-73e1-4878-ab96-30aa99d145e3.png" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="941en" data-offset-key="evlkr-0-0"><div data-offset-key="evlkr-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="evlkr-0-0"><span data-text="true">本企划是宝可梦官方初次尝试的自然冒险项目，意图通过在环境中设置的宝可梦让大人和孩子都能获得与自然互动的喜悦。参与项目的玩家需要从2种路线中选择一种，从调查森林的博士处得到指南后拿着地图在占地4500平米的自然中寻找宝可梦。玩家最多可6人一组，活动时间为90分钟，分为三个区域的场地共有超过50种宝可梦。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="7em7j" data-offset-key="evlkr-0-0"><div data-offset-key="evlkr-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="evlkr-0-0"><span data-text="true">本企划是宝可梦官方初次尝试的自然冒险项目，意图通过在环境中设置的宝可梦让大人和孩子都能获得与自然互动的喜悦。参与项目的玩家需要从2种路线中选择一种，从调查森林的博士处得到指南后拿着地图在占地4500平米的自然中寻找宝可梦。玩家最多可6人一组，活动时间为90分钟，分为三个区域的场地共有超过50种宝可梦。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/33c1cca0-c195-46bc-8785-eeb19e9c6529.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/8) </figcaption>
@@ -106,6 +106,6 @@ thumbnail: 'https://image.gcores.com/5bfa7449-3645-4640-9bac-804b604b2bab.png'
 <img src="https://image.gcores.com/38e82dbf-21b2-4707-bc50-e8d037df51fe.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (9/9) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="941en" data-offset-key="bh4qj-0-0"><div data-offset-key="bh4qj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bh4qj-0-0"><span data-text="true">Pokémon Wonder在2021年度的开放时间为7月17日~2022年4月3日，票价为大人（中学生以上）4900日元（含税，下同），小学生1800日元。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="7em7j" data-offset-key="bh4qj-0-0"><div data-offset-key="bh4qj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bh4qj-0-0"><span data-text="true">Pokémon Wonder在2021年度的开放时间为7月17日~2022年4月3日，票价为大人（中学生以上）4900日元（含税，下同），小学生1800日元。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
