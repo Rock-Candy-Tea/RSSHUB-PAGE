@@ -1,0 +1,19 @@
+
+---
+title: '设计师Snoreyn分享Galaxy S21 FE 5G智能机8K超清渲染图'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0702/bca82637613459b.jpg'
+author: cnBeta
+comments: false
+date: Fri, 02 Jul 2021 03:59:36 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0702/bca82637613459b.jpg'
+---
+
+<div>   
+外界盛传三星要在 8 月份举办一场 Galaxy Unpacked 发布会，主角则是 Galaxy Z Fold 3 和 Galaxy Z Flip 3 这两款折叠屏新机。<strong>至于传说中价格更加实惠 Galaxy S21“Fan Edition”，似乎已经被推迟到了 10 月份。</strong>若真如此，定于 2022 上半年的发布的 Galaxy S22 系列，或许会让它显得有些尴尬。<br><br>
+<p><img src="https://static.cnbetacdn.com/article/2021/0702/bca82637613459b.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：<a href="https://nl.letsgodigital.org/smartphones/samsung-galaxy-s21-fe-5g/" target="_self">LetsGoDigital</a>）</p><p>除了 Galaxy Z Fold 3 和 Galaxy Z Flip 3，预计 8 月份的 Galaxy Unpacked 发布会上还会有 Galaxy Watch 4 智能手表和 Galaxy Tab S8（Plus）平板电脑。</p><p>上月，韩媒 The Elec 爆料称 Galaxy S21 FE 的生产已因芯片短缺而有所推迟，但文章很快被撤下。与此同时，美国商业媒体彭博社又否认了这一说法。</p><p><a href="https://static.cnbetacdn.com/article/2021/0702/649aa22069fad87.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0702/649aa22069fad87.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via <a href="https://nl.letsgodigital.org/uploads/2021/06/samsung-s21-fe.jpg" target="_self">LetsGoDigital</a>）</p><p>其援引<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>发言人的话称 ——“尽管暂时不会探讨未发布产品的细节，但有关生产停滞的说法是站不住脚的”。</p><p>即便如此，三星还是难以回避生产方面遇到的问题。比如知名爆料人 Roland Quandt 和 Ice Universe 都在近日的推文中透露，他们没有听说 Galaxy S21 FE 将在 8 月发布的消息。</p><p><a href="https://static.cnbetacdn.com/article/2021/0702/0a5d3da5a694941.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0702/0a5d3da5a694941.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via <a href="https://nl.letsgodigital.org/uploads/2021/06/samsung-s21-fe-5g.jpg" target="_self">LetsGoDigital</a>）</p><p>至于 8 月这场活动，外媒猜测很可能定于 8 月 11 日（周三）那天。如果 Galaxy S21 FE 未能同期亮相，那它很可能推迟到 10 月份推出（与去年的 Galaxy S20 FE 机型一样）。</p><p>通常情况下，三星会在正式发布后一两周内正式开售新机。预计 Galaxy S21 FE 会提供多种配色选项，且售价将较上一代实惠不少。</p><p><a href="https://static.cnbetacdn.com/article/2021/0702/4dc15c4a53f7636.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0702/4dc15c4a53f7636.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via <a href="https://nl.letsgodigital.org/uploads/2021/06/s21-fe.jpg" target="_self">LetsGoDigital</a>）</p><p>以荷兰市场为例，LetsGoDigital 指出去年 Galaxy S20 FE 的 4G / 5G 版本（128GB）首发价分别为 650 / 750 欧元（约 4985 / 5752 RMB）。</p><p>不过就算今年的 Galaxy S21 FE 建议零售价下调约 100 美元（- 648 RMB），三星还是很可能在内置的 microSD 存储扩展功能、以及耳机和充电器等<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>商砍一刀。</p><p><a href="https://static.cnbetacdn.com/article/2021/0702/6cae1ac371bac5f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0702/6cae1ac371bac5f.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via <a href="https://nl.letsgodigital.org/uploads/2021/06/samsung-s-serie.jpg" target="_self">LetsGoDigital</a>）</p><p>当然，考虑到今年大不可能还有 4G 版本版本，我们对 5G 平台的额外成本也表示理解。</p><p>最后，本文配图来自平面设计师 Giuseppe Spinelli（又名“Snoreyn”），原版为 8K 分辨率的渲染图，这里因文件体积太大而手动缩到 1080p 。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1147821.htm" target="_blank">三星Galaxy S21 FE官方宣传图曝光 证实多种机身配色</a></p></div>   
+</div>
+            
