@@ -1,0 +1,22 @@
+
+---
+title: 'PC
+【試玩】《迷霧國度：傳承》搶先體驗 打量戰鬥地圖並安排角色與進攻策略
+ 2 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/76/a4828a39f8a61025bef78c7f431cw8s5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/76/a4828a39f8a61025bef78c7f431cw8s5.JPG'
+---
+
+<div>   
+由台灣獨立遊戲團隊赫米兔娛樂耗時多年開發的原創 SRPG《迷霧國度：傳承》，繼六月初 Steam 新品節開放試玩後，團隊決定於同月底推出搶先體驗版本、以增進品質。本次巴哈姆特提前體驗了一部分的開發中內容，帶玩家一窺這款結合回合制與即時戰略要...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/76/a4828a39f8a61025bef78c7f431cw8s5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
