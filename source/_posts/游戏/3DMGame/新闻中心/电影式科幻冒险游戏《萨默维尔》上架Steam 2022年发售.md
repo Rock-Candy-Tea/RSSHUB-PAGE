@@ -36,7 +36,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210703/1625270756_3931
 游戏特色：
 </p>
 <p style="text-indent:2em;">
-沉浸在一个手工制作、横跨生动乡村景观的叙事体验中。艰难地穿过危险的地形，揭开地球访客的神秘面纱。
+沉浸在一个手工制作、跨越生动乡村景观的叙事体验中。艰难地穿过危险的地形，揭开地球访客的神秘面纱。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210703/1625270756_393171.jpg" alt="电影式科幻冒险游戏《萨默维尔》上架Steam 2022年发售" referrerpolicy="no-referrer"> 
