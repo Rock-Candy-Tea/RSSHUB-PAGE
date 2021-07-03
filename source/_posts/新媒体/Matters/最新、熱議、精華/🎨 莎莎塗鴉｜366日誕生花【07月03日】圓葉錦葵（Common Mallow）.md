@@ -1,0 +1,25 @@
+
+---
+title: '🎨 莎莎塗鴉｜366日誕生花【07月03日】圓葉錦葵（Common Mallow）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/223a557c-c820-423b-aee9-b348803b163a.jpeg'
+author: Matters
+comments: false
+date: Fri, 02 Jul 2021 19:20:16 GMT
+thumbnail: 'https://assets.matters.news/embed/223a557c-c820-423b-aee9-b348803b163a.jpeg'
+---
+
+<div>   
+<h2>❀ 手繪插畫 ❀</h2><figure class="image"><img src="https://assets.matters.news/embed/223a557c-c820-423b-aee9-b348803b163a.jpeg" data-asset-id="223a557c-c820-423b-aee9-b348803b163a" referrerpolicy="no-referrer"><figcaption><span>右下角的背景爆墨爆水了 QAQ|||</span></figcaption></figure><h2><strong>July 03:</strong></h2><ul><li><strong>植物：圓葉錦葵（Common Mallow）</strong></li><li><strong>花語：風味（Taste）</strong></li></ul><hr><h2>❀ 作畫過程 ❀</h2><p>廢話不多說，直接把照片轉成 GIF 動圖來看吧✦</p><figure class="image"><img src="https://assets.matters.news/embed/3695efa1-5afa-495d-8158-66a803feba05.gif" data-asset-id="3695efa1-5afa-495d-8158-66a803feba05" referrerpolicy="no-referrer"><figcaption><span>其實有點想畫它的果實可是不確定照片 XD</span></figcaption></figure><p>今天的誕生花是<strong>「圓葉錦葵（Common Mallow）」</strong>。<br class="smart">根據國外 <a href="https://www.gardeningknowhow.com/ornamental/flowers/common-mallow/growing-common-mallow.htm" target="_blank"><strong>這個網站</strong></a>，可知<strong>「Common Mallow」</strong>指的是<strong>「</strong><a href="https://en.wikipedia.org/wiki/Malva_neglecta" target="_blank"><strong>Malva neglecta</strong></a><strong>」</strong>這款植物。<br class="smart">雖然，它的近親<strong>「Malva sylvestris」</strong>也有這樣的別名。<br class="smart">但論其稱呼，還是以<strong>「Malva neglecta」</strong>比較普遍。</p><p>它的英文別名還有很多，例如：<br class="smart">buttonweed, cheeseplant, cheeseweed, dwarf mallow, <strong><u>roundleaf mallow</u></strong><br class="smart">其中<strong>「roundleaf mallow」</strong>被用來當作譯名，透過這二個網站，確定為<strong>「圓葉錦葵」</strong>：</p><ol><li><a href="https://www.tbn.org.tw/taxa/84740d19-ccbf-4de2-b618-6adff12f7291" target="_blank">台灣生物多樣性網絡</a></li><li><a href="https://plant.tbn.org.tw/taxa/84740d19-ccbf-4de2-b618-6adff12f7291" target="_blank">台灣維管束植物調查及物候觀察</a></li></ol><p>這種植物通常被當作食物使用，它的葉子、莖和種子，都是被認為可以吃的。<br class="smart">特別是種子，聽說還富含 21% 的蛋白質和 15.2% 的脂肪呢！</p><p>至於誕生花的傳說，是這麼描述的：</p><pre class="ql-syntax">圓葉錦葵的果實具有落花生般的味道。
+它的別名又稱為：妖精的起司、起司之床等。
+因此它的花語是「風味」。
+
+受到這種花祝福而生的人，具有一股不為人知的獨特氣質。
+必須讓人細細品味，才能發掘其中的美，也許剛開始並引人注意。
+但是，經過幾次的接觸之後，很容易讓人萌生想關心，進而滋生愛苗的情感呢！
+</pre><p>大概就是這樣。</p><p>在查今天的誕生花資料時，腦子一直萌生出：</p><ul><li><strong>種子呢？種子呢！</strong></li><li><strong>許多文獻都說很美味的樣子，好想吃吃看。</strong></li><li><strong>誕生花的傳說描述它是花生味，維基百科說它像起司，一定很好吃！（¯﹃¯）</strong></li></ul><p>然後就差點不想畫花了，想畫種子 XDD<br class="smart"><em><s>其實是因為有看到種子的外型，但不確定種子是什麼顏色，所以沒畫出來 QQ</s></em></p><p>查完之後，有點糾結是不是要小睡一下。<br class="smart">畢竟這天某莎有睡滿 7.5 小時，精神狀況還算可以。<br class="smart">不過，後來還是去躺了一下，因為頭有點暈，而且暈得不太正常。</p><p>是那種疑似會靈魂出竅的暈，很像睡覺時即將入夢的那種脫體暈眩感。<br class="smart">因為自己的眼睛是睜開的，而且有一股不安的感覺⋯⋯<br class="smart">所以還是讓直覺催到乖乖去躺著小睡了。<br class="smart"></p><p>結果沒想到自己一睡又爆睡了 2 小時。😭😭<br class="smart"><em><s>而且好像還做了挺糟糕的夢，雖然自己幾乎忘記了，只知道非常零碎跳 Tone XDD</s></em></p><p>總之，最後還是爬起來乖乖畫圖了。<br class="smart">並且是抱著在製造食物的心態去畫它。(つд⊂)(つд⊂)(つд⊂)<br class="smart">這個時間，某莎覺得自己一定是想吃消夜想瘋了。🤭</p><p>然後，就在快完成的時候，Oops！<br class="smart">右下角的背景怎麼一下爆墨、一下爆水，變成很奇怪的兩團綠色！😱😱<br class="smart">趕緊翻到背面看：<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/8c7b775d-408d-4fc1-a43c-c5357a06d683.jpeg" data-asset-id="8c7b775d-408d-4fc1-a43c-c5357a06d683" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>比想像中的好很多。<br class="smart">不過正面就⋯⋯凸槌成以後的黑歷史啦。 (つд⊂)</p><hr><h2>❀ 臨摹圖源 ❀</h2><p>來自 Español 版的維基百科共享圖庫：<a href="https://es.wikipedia.org/wiki/Malva_neglecta" target="_blank">https://es.wikipedia.org/wiki/Malva_neglecta</a></p><figure class="image"><img src="https://assets.matters.news/embed/1c12b8cb-ebad-4cec-a9a6-6dee48f516d0.jpeg" data-asset-id="1c12b8cb-ebad-4cec-a9a6-6dee48f516d0" referrerpolicy="no-referrer"><figcaption><span>來自維基百科</span></figcaption></figure><hr><h2><strong>🎈 文末推廣 (๑•̀ㅂ•́)و✧</strong></h2><ul><li>本文首發在「<a href="https://matters.news/@sachanshih" target="_blank">https://matters.news/@sachanshih</a>」。<br class="smart">如果喜歡「<a href="https://matters.news/tags/VGFnOjQ5NDEx" target="_blank">這系列</a>」的作品，請多多<strong>「</strong><a href="https://liker.land/sachanshih/civic" target="_blank"><strong>支持</strong></a><strong>」</strong>某莎，或是<strong>「拍手留言」</strong>交流吧！</li><li>另也歡迎<strong>「喜歡 ACGN 或小說創作」</strong>的文友前來<strong>「推薦或自薦作品」</strong>❤<br class="smart">某莎會很樂意追蹤拍手食糧噢✦<em><s>（特別是耽美或奇幻的）</s></em></li></ul><hr><h2>🍀 導覽精靈參上 ( つ•̀ω•́)つ</h2><figure class="embed-code"><div class="iframe-container"><iframe src="https://jsfiddle.net/rkgcqh1z/embedded/result" frameborder="0" allowfullscreen="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure>  
+</div>
+            
