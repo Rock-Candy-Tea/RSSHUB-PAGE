@@ -32,7 +32,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/08/App
 <p>We have a favorable view of Apple’s future iPhone product strategy and expect that iPhone shipments will reach 230–240mn and 250–260mn units in 2021 and 2022, respectively (vs. about 195mn in 2020).</p>
 </blockquote>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

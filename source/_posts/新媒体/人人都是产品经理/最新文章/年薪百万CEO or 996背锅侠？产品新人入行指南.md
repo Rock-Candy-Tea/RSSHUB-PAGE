@@ -34,9 +34,11 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p><strong>扎心了吗？</strong></p>
 <p>为什么会这样？</p>
 <p>根据我们的调研与案例分析，总结出以下3点原因：</p>
-<blockquote><p>1.野路子入行，在行业野蛮生长的时期，杂七杂八学了点东西就成了产品经理，<strong>所掌握的知识和技能不成体系。</strong></p>
+<blockquote>
+<p>1.野路子入行，在行业野蛮生长的时期，杂七杂八学了点东西就成了产品经理，<strong>所掌握的知识和技能不成体系。</strong></p>
 <p>2. 公司不规范，说是产品经理，却还要干运营或者销售的活，两三年下来，<strong>核心技能还没有锻炼到，却已经在市场上渐渐失去竞争力。</strong></p>
-<p>3. 在入门阶段，只学到了皮毛的画原型工具和常用的产品设计套路等等，<strong>没有注重培养产品思维，</strong>工作之后也只会照搬竞品，自然很快就走入了职业瓶颈。</p></blockquote>
+<p>3. 在入门阶段，只学到了皮毛的画原型工具和常用的产品设计套路等等，<strong>没有注重培养产品思维，</strong>工作之后也只会照搬竞品，自然很快就走入了职业瓶颈。</p>
+</blockquote>
 <p><strong>通俗点说：基础不牢，地动山摇。</strong></p>
 <p>人生往往就是这样，很多原先十分有潜力的大学生，<strong>被网络上质量参差不齐的教学资源所耽误，</strong>在自学的道路上越走越偏，即使侥幸入行也提升无望。</p>
 <p>很多没有方向的职场人，明明在一份工作中没有获得感，还是迫于生活和经济压力蹉跎下去，<strong>搬砖打杂，成了很容易被替代的工具人，</strong>浪费了毕业后的黄金三年，最后就很难往上走。</p>
@@ -76,8 +78,10 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p>我们也会为你们带来<strong>行业重要信息播报、入行必备的干货资料</strong>等等。</p>
 <p><strong>对课程感兴趣，想要在10周内尽快掌握初级产品经理必备技能，提高就业成功率的同学可以继续往下阅读↓↓↓</strong></p>
 <p>简要概况来说，特训营的作用就在于：</p>
-<blockquote><p><strong>帮助各位新人通过10周高效率学习，完成7次大作业，从0到1 搭建一个属于你自己的产品项目设计；</strong></p>
-<p><strong>再加上就业导师和求职顾问的11项求职就业服务辅助（简历-企业推荐-面试），提高拿offer的成功率，最终入行产品经理。</strong></p></blockquote>
+<blockquote>
+<p><strong>帮助各位新人通过10周高效率学习，完成7次大作业，从0到1 搭建一个属于你自己的产品项目设计；</strong></p>
+<p><strong>再加上就业导师和求职顾问的11项求职就业服务辅助（简历-企业推荐-面试），提高拿offer的成功率，最终入行产品经理。</strong></p>
+</blockquote>
 <h2 id="toc-1">01 “为什么叫就业特训营？”</h2>
 <p><strong>学习的最终目的是成为企业需要的产品人才，成功就业。</strong>业内其他产品课程，听完课就“戛然而止”了，导致很多学员依旧不懂这些问题：</p>
 <p>如何针对性优化简历？</p>
@@ -90,7 +94,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p style="text-align: center"><strong>▶特训营的部分合作企业资源◀</strong></p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/aaoFEAV8zvweCTEgoAiH.png" alt width="800" height="600" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"><strong>▶特训营提供的内推服务◀</strong></p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/CKYF6PKONWNCN683pdEe.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/zf94JRhWgwGn0VaiSsKG.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"><strong>▶扫码领取优惠，报名立减800元◀</strong></p>
 <h2 id="toc-2">02“学什么？学完需要花多久？”</h2>
 <p><strong>特训营所学内容源自BAT产品培养体系和市场上企业的招聘需求。</strong>从idea→调研→设计→落地，全流程精细打磨。</p>
@@ -108,7 +112,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p>为了保障大家按时按质学完课程，我们也提供多项课程服务：</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/dDGMzI37T6AQ7lO1Suz9.jpg" alt width="1000" height="1162" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"><strong>▶扫码领取优惠，报名立减800元◀</strong></p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/TvIeEjGf2B5ChnZObGqk.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/lVi6F34BFwin7FOF5y8k.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
 <h2 id="toc-4">04 “谁来教我？”</h2>
 <p>特训营配备<strong>主讲导师、作业导师、就业导师、行业专家、班主任、助教</strong>等多角色对学员进行多对一辅导，保障你的“教·练·做”。</p>
 <p>导师团均来自<strong>互联网名企</strong>，加入特训营就能让你<strong>成为行业大佬的亲学生！</strong></p>
@@ -121,9 +125,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p style="text-align: center"><strong>尽快入行产品经理</strong></p>
 <p style="text-align: center"><strong>有2种方式继续了解课程</strong></p>
 <p style="text-align: center">01 想了解自己适不适合产品经理？</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/CeyoyT6Ud00D1Y3FAk1A.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/pYUexNzfMUx7NnyWLXmR.jpg" alt width="1181" height="354" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">02 加入学习交流群</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/PEMqeMcSjBVjQMqawuWv.jpg" alt width="1181" height="650" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/HESeMEnQ3sRif1rA56ie.png" alt width="1181" height="650" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">/////</p>
 <p style="text-align: center"><strong>近期开课</strong></p>
 <p style="text-align: center"><strong>JY29期：7月26日开课</strong></p>
@@ -132,7 +136,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/06/PQEyHQS3FgyfW0xSHouy.png'
 <p style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/06/59pzdfcqflwTA1Nv4fx8.jpg" alt width="800" height="400" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">最后1个福利</p>
 <p style="text-align: center">20个免费<strong>“产品潜能测评”</strong>名额</p>
-<p style="text-align: center"><a href="http://3.woshipm.cn/MnQnue" target="_blank" rel="noopener">点我</a>，测测你是否适合当产品经理</p>
+<p style="text-align: center"><a href="http://3.woshipm.cn/73YBJb" target="_blank" rel="noopener">点我</a>，测测你是否适合当产品经理</p>
                           
 </div>
             

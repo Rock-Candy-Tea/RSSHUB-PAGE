@@ -37,7 +37,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/App
 <p>iPhone production in India was <a href="https://9to5mac.com/2021/03/11/wistron-resumes-iphone-production/" target="_blank" rel="noreferrer noopener">disrupted for three months</a> following a riot by underpaid workers, while on a happier note <a href="https://9to5mac.com/2021/06/28/mac-sales-in-india-tripled/" target="_blank" rel="noreferrer noopener">Mac sales tripled</a> after Apple opened an official online store in the country.</p>
 <p><em>Photo: <a href="https://unsplash.com/@andresjasso?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andres Jasso</a>/<a href="https://unsplash.com/s/photos/ipad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

@@ -30,7 +30,6 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/app
 <p>You can check the details in the official <a href="https://www.apple.com/shop/trade-in" target="_blank" rel="noreferrer noopener">Apple website here.</a></p>
 <p>Early this morning, <a href="https://9to5mac.com/2021/06/30/apple-loses-some-of-its-market-share-to-samsung-in-korea/">Counterpoint Research showed that Samsung regained some of its lost market share in South Korea by Apple</a>. While LG accounts for 10% of the Q1 2021 market share in the country, there’s no doubt that both Apple and Samsung will try to entice these customers to their own platform.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
