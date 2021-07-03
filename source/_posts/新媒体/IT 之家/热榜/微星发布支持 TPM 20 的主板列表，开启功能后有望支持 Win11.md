@@ -1,0 +1,19 @@
+
+---
+title: '微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/7/98511281-5929-46b2-9e5c-eb47f133e869.png'
+author: IT 之家
+comments: false
+date: Fri, 02 Jul 2021 15:20:16 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/7/98511281-5929-46b2-9e5c-eb47f133e869.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 2 日消息 根据外媒 wccftech 消息，微星今日公布了支持 TPM 2.0 功能的主板列表，覆盖 AMD、英特尔多代芯片组。由于目前微软表示电脑需要具备 TPM 2.0 芯片才可以兼容 Win11，因此近日各大厂商都在测试兼容情况。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/98511281-5929-46b2-9e5c-eb47f133e869.png" w="1028" h="769" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1028" height="613" referrerpolicy="no-referrer"></p><p><strong>以下为微星支持 TPM 2.0 的主板列表：</strong></p><p>英特尔 500 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/abcd1e03-69ad-4628-a295-2ac6173b220d.png" w="1030" h="579" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="461" referrerpolicy="no-referrer"></p><p>英特尔 400 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/5d8f1dbc-49a2-4080-b9fa-b29b93eaeac1.png" w="1030" h="420" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="334" referrerpolicy="no-referrer"></p><p>英特尔 300 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/f90f0ce6-20b0-4c2e-b056-f0cc23584f7a.png" w="1030" h="392" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="312" referrerpolicy="no-referrer"></p><p>英特尔 200 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/4069e794-dc86-4cb1-9769-c614392ad786.png" w="1030" h="569" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="453" referrerpolicy="no-referrer"></p><p>英特尔 100 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/99dafb7d-5b61-459b-b98e-241ffdf0d168.png" w="1030" h="510" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="406" referrerpolicy="no-referrer"></p><p>英特尔 HEDT 服务器系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/10f6e18c-440d-4af0-a918-a42f1474bee5.png" w="1030" h="717" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="571" referrerpolicy="no-referrer"></p><p>AMD 500 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/120b4ce0-0589-4daf-84da-42bd0c8ba2ef.png" w="1400" h="749" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1400" height="439" referrerpolicy="no-referrer"></p><p>AMD 400 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/3577be75-c5d8-44ef-b6aa-bac130b290a3.png" w="1030" h="965" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="768" referrerpolicy="no-referrer"></p><p>AMD 300 系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/ee2c1735-23c0-4a99-b889-8b8d56eb88df.png" w="1030" h="494" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1030" height="393" referrerpolicy="no-referrer"></p><p>AMD HEDT 服务器系列芯片组：</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/d994fa50-922a-416f-8ae9-8bcd98addd92.png" w="825" h="403" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="825" height="401" referrerpolicy="no-referrer"></p><p>微星表示，目前微软尚未确认搭载 TPM 1.2 的主板是否支持 Win11，但微星内部正在测试当中。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/46510020-e82e-47b9-b4a1-9ffc777af40e.png" w="1380" h="1074" title="微星发布支持 TPM 2.0 的主板列表，开启功能后有望支持 Win11" width="1380" height="638" referrerpolicy="no-referrer"></p><p>IT之家了解到，微星还公布了支持 Win11 的电脑、一体机，以下为详细列表：<a href="https://www.msi.com/Landing/Introducing-Windows-11-on-MSI%20devices" target="_blank">点击打开</a></p>
+          
+</div>
+            
