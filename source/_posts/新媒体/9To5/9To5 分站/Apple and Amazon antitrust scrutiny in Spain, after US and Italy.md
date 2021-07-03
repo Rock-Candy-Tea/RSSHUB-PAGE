@@ -53,7 +53,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/App
 <p>The CNMC has had access to certain information from which it can be concluded the existence of rational indications of the committing, by Amazon and Apple, of a breach of articles 1 of 2 Law 15/2007, of July 3, on the Defence of Competition (LDC) and 101 of the Treaty on the Functioning of the European Union (TFEU).</p>
 </blockquote>
 <p>The regulatory body has 18 months to complete its investigation.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/06/Dreametech-Image-2.jpg?quality=82&strip=all" alt class="wp-image-734089" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
