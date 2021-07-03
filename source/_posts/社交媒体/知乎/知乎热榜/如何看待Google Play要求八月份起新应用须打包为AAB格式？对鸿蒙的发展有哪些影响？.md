@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1780'
+headimg: 'https://picsum.photos/400/300?random=4820'
 author: 知乎
 comments: false
-date: Sat, 03 Jul 2021 08:16:40 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1780'
+date: Sat, 03 Jul 2021 13:01:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4820'
 ---
 
 <div>   
-琴梨梨的回答<br><br><p>aab本质不过是一系列的子apk罢了</p><p>这个政策改变只影响开发者</p><p>开发者只需要把打包模式改成aab就行了</p><p>用户拿到的还是一系列子apk部署，对用户没啥影响</p><p>低版本用户也不用怕，谷歌play会自动把aab合并为所需的单个apk分发给低版本用户</p><p></p>  
+pansz的回答<br><br><p>这个AAB根本不是什么颠覆性技术，而是Android Studio很早就已经有了的功能。如果我没记错的话，应该是2018年引入的，<b>至今为止已经有三年</b>。</p><p>这种要求相当于什么呢？相当于「我三年前就通知你们有新格式了，你们尽快切换，给了你们三年的时间，今年八月开始不准再用旧的了。」</p><p>对鸿蒙的发展有没有什么影响？——答案是<b>没有任何影响</b>。</p><p><br></p><p>因为鸿蒙的开发环境就是 Android Studio 换皮，而 Android Studio 很早就已经支持了 AAB 格式的打包，这也就意味着基于 Android Studio 开发的鸿蒙开发环境也必然能直接支持 AAB 格式，同时，鸿蒙系统本身应该也早已内置了对 AAB 格式的支持，毕竟，谁都明白它是怎么来的。而且安卓系统早就已经支持了这个格式。</p><ul><li>如果应用商店上传的是aab，安卓设备运行的也是aab，那么这意味着aosp本身就必须支持aab，那么来源于aosp的鸿蒙必然早就已经获得了原生支持，显然不会对鸿蒙造成任何影响。</li><li>如果应用商店上传的是aab，安装到安卓设备的是apk，那么意味着应用商店具备了把aab转制为apk的功能 ，这种情况下安卓设备只需要支持apk就能够运行，这个格式在安卓设备的层面可以视为不存在。那么最终也同样不会影响鸿蒙。</li></ul><p>所以，在假定鸿蒙开发环境是android studio换皮的前提下，鸿蒙不会受到这个措施的任何影响。</p><p>至于，如果你坚信鸿蒙开发环境不是 Android Studio 换皮，我想说<b>你说得都对</b>，如果你那时候想问：鸿蒙为什么能自动支持 AAB 打包格式？我只能说我也不知道，但它就是（神奇的）支持。</p><p></p>  
 </div>
             
