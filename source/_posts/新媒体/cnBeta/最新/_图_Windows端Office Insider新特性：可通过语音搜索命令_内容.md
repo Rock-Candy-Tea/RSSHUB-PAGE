@@ -1,0 +1,19 @@
+
+---
+title: '_图_Windows端Office Insider新特性：可通过语音搜索命令_内容'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0703/e10ecf67dc544a3.jpg'
+author: cnBeta
+comments: false
+date: Sat, 03 Jul 2021 06:18:24 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0703/e10ecf67dc544a3.jpg'
+---
+
+<div>   
+<strong>面向 Beta 频道的 Windows 用户，今天微软发布了全新的 Office Insider Preview Build 14228.20044（Beta Channel）。</strong>本次更新在修复了一系列问题之外，还引入了两个有用的新功能。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0703/e10ecf67dc544a3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0703/e10ecf67dc544a3.jpg" alt="8eal0iq5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">其中一项新功能就是增强了 Read Aloud 的朗读体验，在 Word 和 Outlook 中读出来的声音听起来更加自然。无疑，这将改善听觉体验。新的<a data-link="1" href="https://microsoft.pvxt.net/P0JMe" target="_blank">Office</a>版本还将让你在 Word 中使用语音来查找命令、内容等。你可以在下面详细了解这两个功能。</p><p style="text-align: left;"><strong>更新日志：</strong></p><p style="text-align: left;"><strong>适用于 Word 和 Outlook--更自然音调的 Read Aloud</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">在 Word 和 Outlook 中的 Read Aloud 应用对于作者和读者来说都是非常实用的功能。无论你是用它来“校对”你起草的文档或电子邮件以发现错误，还是仅仅为了让你的眼睛休息一下，Read Aloud 现在具有更自然的声音，以改善聆听体验。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0703/340817cc60be9a3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0703/340817cc60be9a3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">要访问该功能，请点击“Read Aloud”按钮（可以在Outlook的 "消息 "选项卡和Word的 "审阅 "选项卡上找到）。要在不同的语音选项之间进行切换，请选择信息或文档右上角的设置图标，并点击语音选择下拉菜单。注意：你必须连接到互联网才能使用这一功能）。</p></blockquote><p style="text-align: left;"><strong>适用于 Word--使用语音进行搜索</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">在许多生产力应用程序中，使用语音来完成任务正变得越来越普遍。现在，你可以用你的声音在 Word 中搜索；无需输入任何东西就可以找到命令、内容和更多。要使用这一功能，请点击 Word 文档顶部搜索栏中的麦克风图标，然后说出你的搜索条件。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0703/e8de1250a5d8bf1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0703/e8de1250a5d8bf1.jpg" referrerpolicy="no-referrer"></a></p></blockquote><p style="text-align: left;">Word 中值得关注的修复</p><blockquote style="text-align: left;"><p style="text-align: left;">● 改善了 Word 和 JAWS （一种流行的读屏软件）中的新评论窗格的整合。</p><p style="text-align: left;">● 修复了使用不同的 CommentId 而非 lTagNil 来清除选择和高亮有关的问题</p><p style="text-align: left;">● 修复了卸载队列失去响应的问题</p></blockquote><p style="text-align: left;"><strong>Outlook 中值得关注的修复</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">● 修复了某些用户的翻译选项被禁用的问题。</p><p style="text-align: left;">● 修复了一次性地址不显示邮件提示的问题。</p><p style="text-align: left;">● 添加了一个注册表项，允许在 Outlook 桌面的用户界面中显示语音邮件表单，因为 Exchange Online 中的统一消息已经退休（https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991）。</p><p style="text-align: left;">对于希望出现语音邮件表单的用户、企业和组织，需要将以下注册表键设置为。[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm" = dword:000001</p><p style="text-align: left;">● 修复了默认的文本增加包括文本缩放，所以不需要使用 LayoutChanged 的另一个调用。</p><p style="text-align: left;">● 修复了一个与 "加载失败 "响应状态有关的问题。默认的响应标志被设置为 "无"。当把鼠标悬停在没有编辑权限的日历上时，我们没有在用户界面中显示任何字符串。</p></blockquote><p style="text-align: left;"><strong>Excel 中值得关注的修复</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">● 修复了 CFR 执行中出现的异常。</p></blockquote><p style="text-align: left;">要更新到最新的Microsoft Office Insider Preview Build，请打开任何Office程序并进入文件>账户>更新选项>立即更新。</p>   
+</div>
+            
