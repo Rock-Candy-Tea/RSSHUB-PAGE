@@ -1,0 +1,18 @@
+
+---
+title: '鹦鹉能有多好看？-贪生pass的回答：'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/50/v2-626a6881aeb56596c132dfeaf5ed7c49_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sun, 04 Jul 2021 09:50:06 GMT
+thumbnail: 'https://pic4.zhimg.com/50/v2-626a6881aeb56596c132dfeaf5ed7c49_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>鹦鹉能有多好看？</strong><br>贪生pass的回答<br><p></p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-626a6881aeb56596c132dfeaf5ed7c49_720w.jpg?source=54b3c3a5" data-rawwidth="1891" data-rawheight="2736" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-3cb3952968a211e5722ce1724077f557_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-626a6881aeb56596c132dfeaf5ed7c49_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-626a6881aeb56596c132dfeaf5ed7c49_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-488f57b7d6349b9781276a4d3842c7f6_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-24939d5f527acb311dc8e2a83619fcdc_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-488f57b7d6349b9781276a4d3842c7f6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-488f57b7d6349b9781276a4d3842c7f6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-0b60832e226deac598f67ae7b1059ad1_720w.jpg?source=54b3c3a5" data-rawwidth="1720" data-rawheight="1878" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f997a65d6fd9b7ce1488176850392a33_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-0b60832e226deac598f67ae7b1059ad1_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-0b60832e226deac598f67ae7b1059ad1_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-d430f5ba49a640ee985170cdce9cfa66_720w.jpg?source=54b3c3a5" data-rawwidth="1165" data-rawheight="1227" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b490fee26cfc7bb644185bddd9721fb3_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-d430f5ba49a640ee985170cdce9cfa66_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-d430f5ba49a640ee985170cdce9cfa66_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-79a8575de6210d040c11cbfcae2b4582_720w.jpg?source=54b3c3a5" data-rawwidth="1292" data-rawheight="1294" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-65d893760776595af5f3e0d9c591573b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-79a8575de6210d040c11cbfcae2b4582_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-79a8575de6210d040c11cbfcae2b4582_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p><p></p>  
+</div>
+            

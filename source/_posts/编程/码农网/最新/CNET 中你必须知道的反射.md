@@ -5,11 +5,11 @@ categories:
  - 编程
  - 码农网
  - 最新
-headimg: 'https://picsum.photos/400/300?random=2403'
+headimg: 'https://picsum.photos/400/300?random=284'
 author: 码农网
 comments: false
 date: Wed, 10 Jun 2020 08:13:27 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2403'
+thumbnail: 'https://picsum.photos/400/300?random=284'
 ---
 
 <div>   
