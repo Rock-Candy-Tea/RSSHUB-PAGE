@@ -1,0 +1,18 @@
+
+---
+title: '299美元起售？任天堂回应有关Switch Pro硬件升级传闻'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad306_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 04 Jul 2021 05:06:40 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad306_1024.jpg'
+---
+
+<div>   
+<p>近段时间，有关 Switch Pro 的消息频频出现，这也让不少玩家非常感兴趣，到底任天堂会何时推出呢？在这之前，先看看 Switch Pro 上市的传闻吧！</p><p><strong>01</strong></p><p><strong>扑朔迷离的 Switch Pro 上市消息</strong></p><p>根据来自 Emily Rogers 的消息，任天堂 Switch Pro 游戏机本月将进入生产和组装阶段，即使它没有被正式披露。她的有关任天堂的消息一直以来都被证明非常可靠。之前任天堂 E3 发布会日期确定，时长将达 40 分钟，且完全集中在游戏方面。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad306_1024.jpg" data-height="353" data-width="601" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad306_1024.jpg" referrerpolicy="no-referrer"></div></div>Roger 表示，宣布 Switch Pro 的时间其实并不重要，人们纠结于此是因为现在每个人都对 E3 非常关注。更重要的消息是，它将在本月进入生产和组装阶段，这是唯一重要的消息。<p></p><p>任天堂 Switch Pro 的曝光据传将在昨天发生，零售商的列表也将上线，但随着任天堂的继续保持沉默，看起来计划真的被改变了。</p><p>然而，英国 YouTube 频道 SwitchUp 最近报道说，来自中国的一个可靠的外设制造来源正在开发将与新系统兼容的新配件，该来源透露，他们已经被告知新系统的全球发布窗口为 2022 年。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad307_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad307_1024.jpg" referrerpolicy="no-referrer"></div></div>由于任天堂 Switch Pro 尚未公布，而我们已经进入 2021 年的下半年，2022 年的发布窗口似乎开始更有可能。由于目前半导体短缺，硬件制造商难以跟上需求，加上《塞尔达传说：荒野之息》续集定于明年发布，实际上，任天堂在 2022 年发布新主机确实要比今年更有意义。<p></p><p>任天堂 Switch Pro 已经在业内传闻了很久，关于新主机的所有信息都来自于不同的内部人士。根据最新的一个传言，该主机也将支持 NVIDIA DLSS 技术，但由于一些未说明的问题，在发布时应该默认不开启，要等到时机成熟。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202107/60e17eaf8e9f09199a2ad308_1024.jpg" data-height="240" data-width="484" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e17eaf8e9f09199a2ad308_1024.jpg" referrerpolicy="no-referrer"></div></div>最新消息称 Switch Pro 的 GPU 时钟为 1GHz，在便携模式下，它可以实现 720p 的 120 帧画面。然而，据说由于性能和维护方面的问题，也会有一个折中方案，720p 时固定运行 60 帧画面，静止模式下的性能是针对 1440p 的分辨率进行优化，NVIDIA 的最新技术将被包括在内，但由于各种问题，它可能只应用于静止模式。<p></p><p><strong>02</strong></p><p><strong>任天堂回应有关 Switch Pro 硬件升级传闻</strong></p><p>在本月的股东 QA 问答会上，任天堂社长谷川俊太郎表示，他们将继续专注于开发独特的游戏，为了实现这个目标，他们会继续使用集成了硬件和软件的专有游戏机推出游戏，" 我们正在持续地开发硬件，软件和专有外设，但我们不会对正在开发中的具体产品做出评价。"</p><p>不过谷川俊太郎还在发言中表示，任天堂希望他们的产品被全年龄的人群游玩，从孩子到成人，这也有推出经典迷你系列主机的可能性。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad309_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e17eaf8e9f09199a2ad309_1024.jpg" referrerpolicy="no-referrer"></div></div>根据之前的爆料，新 Switch 上市后，现款标准长续航版将退出市场，但 Switch Lite 仍旧继续发售。不过，新升级款 Switch 的价格预计高于当前的 299 美元。<p></p><p>关于硬件方面，已知包括 7 英寸的三星 OLED 显示面板、更新的 NVIDIA SoC 芯片（NVIDIA Orin 芯片定制型号 239，7nm 工艺，A78 CPU+Ampere GPU）、支持 TV Dock 模式下的 4K 输出（当前仅 1080P）等。</p><p>当然，单纯从配置层面来看，现款 Switch（长续航版）还有有不少落伍地方，比如 Wi-Fi 5、蓝牙 4.1、32GB 机身存储等。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
