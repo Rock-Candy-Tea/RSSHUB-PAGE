@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-07-04 08:07:22
-thumbnail: 'https://pic1.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162'
+date: 2021-07-04 09:06:36
+thumbnail: 'https://pic2.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-dc945c98d4f18e4a415af4da52584e18_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">刘洞宇，</span><span class="bio">在做教育 / 想写一本奇妙的书</span>
 <a href="https://www.zhihu.com/question/28226028/answer/87108459" class="originUrl" hidden>查看知乎原文</a>
 </strong>

@@ -1,0 +1,18 @@
+
+---
+title: '为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？-BG灰白的回答：暑假滞留在巴塞，SS觉得我在家太闲太抠脚，送了两只白脸玄凤，（白脸在母鸟上体现是灰脸...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-25344b8c25ab722b8764d160d7d4ebaf_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sun, 04 Jul 2021 09:02:15 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-25344b8c25ab722b8764d160d7d4ebaf_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？</strong><br>BG灰白的回答<br><p>暑假滞留在巴塞，SS觉得我在家太闲太抠脚，送了两只白脸玄凤，（白脸在母鸟上体现是灰脸），也没什么名字，白的叫大白，灰的就叫西班牙语的gris（“灰色”），至于为什么不养只牢底穿，因为SS继外婆以前也养过一只玄，就这么轻易的下了决定，嗯。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-25344b8c25ab722b8764d160d7d4ebaf_720w.jpg?source=54b3c3a5" data-rawwidth="2058" data-rawheight="2058" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/50/v2-f737480b1de3b98be1311ae9ee7e3a80_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-25344b8c25ab722b8764d160d7d4ebaf_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-25344b8c25ab722b8764d160d7d4ebaf_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>是宠物店吗买的两三月大笼养鸟，但由于月份小，能教，前期训练比较麻烦，但效果还行。目前就散养，很乖，也就弄死了八九个盆栽，咬断了网线、电视线，天天没事往外面刨土，真的没什么好抱怨的。晚上天黑了会自己回笼里睡觉，偶尔也需要送这俩大爷回去。我们住底楼，窗口对着公园，它们喜欢呆在窗边看人来人往，也会偷窥隔壁开门回家的人和飘落的树叶。刚领回来时候每次听屋外鸟叫都发疯一样尖叫，但碍于公园里来来往往鸟太多（全是胖鸽子）现在对各类鸟叫熟视无睹，天天在屋里晃悠来晃悠去，对着玻璃一个劲唱歌。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-05f58e1d3c376abc58f0242b4c5dceb1_720w.jpg?source=54b3c3a5" data-rawwidth="1920" data-rawheight="2150" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-942f454b12418a319bae3400a00a84ef_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-05f58e1d3c376abc58f0242b4c5dceb1_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-05f58e1d3c376abc58f0242b4c5dceb1_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>偏白的是只公鸟，好奇心比较强，看你鸡腿吃的香了也会想来尝尝鲜，舔了口鸡骨头就一脸嫌弃跑开了，怎么会有人吃这么难吃的玩意儿，对吧。平时这俩家伙就是干饭朋友，人来了也不看脸，要先看空空如也的手，确定没吃的再确定要不要理睬。会为了鸟粮塑料包装发出的声响而疯狂，平时从地面 上个矮柜子都要想半天才决定要不要飞上去的胖鸡这时候真的像有翅膀的鸟一样，鸟粮拎到哪儿就跟到哪儿。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-eb81c9605aced23dbc4eaf041cbb514f_720w.jpg?source=54b3c3a5" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-233eccadde3222319f3d16e4ec33dcba_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-eb81c9605aced23dbc4eaf041cbb514f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-eb81c9605aced23dbc4eaf041cbb514f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>平时横（hèng）得不行，睡觉前很毛躁，走近点觉得烦了凶得很，却从不真的下口咬人，装腔作势行家。干饭时候脚也不痛了嘴也不痒了，对它上下其手干什么都行，有吃的什么都好说。最近迷上我电脑键盘，还趁我煎蛋期间给我微信好友发了一串加密文字，好在没有拉在我键盘上。圣诞到了，又热衷于啃圣诞树，咬断一根点点灯。</p><p>生命不息，战斗不止，会有无数被推翻的杯子夹子盆栽钥匙易拉罐从桌上滚落，你能说什么？玩呗，买些摔不烂的啃的坏的，每天早晨不忘打个招呼，Hi trouble.</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-c02a3a8046390ebf1d7c741f22360a61_720w.jpg?source=54b3c3a5" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-1ce04bdfc85d5167a0cd2cde64d7e810_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-c02a3a8046390ebf1d7c741f22360a61_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-c02a3a8046390ebf1d7c741f22360a61_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>图为Gris与冬日豪宅的合影，拍完还不忘给mini圣诞树抖抖雪。</p><p>就写到这儿。</p>  
+</div>
+            
