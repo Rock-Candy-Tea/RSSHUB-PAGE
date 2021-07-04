@@ -1,0 +1,19 @@
+
+---
+title: '多款RiscV芯片发布，中国正加速其产业化！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202107/04022751872607.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 04 Jul 2021 02:47:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202107/04022751872607.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">中科院发布Risc－V芯片“香山”，此前已有阿里平头哥、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%B5%B7%E6%80%9D.HTM" target="_blank" title="海思">海思</a></span>先后发布Risc－V芯片，显示出<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E4%B8%AD%E5%9B%BD%E8%8A%AF.HTM" target="_blank" title="中国芯">中国芯</a></span>片业界在加速Risc－V的产业化，与现在称霸移动市场的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-ARM.HTM" target="_blank" title="ARM">ARM</a></span>抗衡。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202107/04022751872607.jpg" width="100%" title="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" alt="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Risc－V是自2010年以来开始发展的芯片架构，此前由于ARM已形成完善的生态，Risc－V的发展相当缓慢，不过自从数年前棱镜门以来，中国认识到开发自主芯片的重要性，Risc－V由此得到中国<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A.HTM" target="_blank" title="芯片产业">芯片产业</a></span>界的关注，原因Risc－V尚未有任何企业在其中占有专利优势，中国发展Risc－V架构可以获得更多自主权。</p><p style="text-indent: 2em; text-align: left;">其中阿里巴巴平头哥应该是最先研发Risc－V架构的，它也率先研发出中国首款Risc－V架构芯片玄铁910；2018年中国成立了开放指令生态（Risc－V）联盟，推动中国芯片业界共同发展Risc－V架构，Risc－V在中国开始发展。</p><p style="text-indent: 2em; text-align: left;">2019年下半年由于众所周知的原因，华为获取ARM授权面临障碍，这进一步促进中国芯片业界拥抱Risc－V架构并加速Risc－V的发展，Risc－V在中国的发展形成如火如荼的态势。如今两年时间过去，Risc－V芯片在中国开始涌现，证明中国研发Risc－V架构开始取得成果。</p><p style="text-indent: 2em; text-align: left;">据悉中科院发布的Risc－V芯片“香山”的性能颇为强悍，已与ARM于2018年发布的高性能核心A76相当，这代表着Risc－V架构的性能已与ARM差距不远，性能差距的缩小更是鼓舞了中国芯片业界。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202107/04022751131345.jpg" width="100%" title="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" alt="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">ARM是全球最成熟的芯片生态，移动芯片市场绝大多数都是基于ARM架构开发，这获益于ARM早年坚持的开放合作策略，但是美国对ARM的影响力不断增强，目前美国芯片企业<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-NVIDIA.HTM" target="_blank" title="NVIDIA">NVIDIA</a></span>正在推进收购ARM，再加上华为的遭遇，ARM的开放受到质疑。</p><p style="text-indent: 2em; text-align: left;">相比之下，Risc－V为了摆脱美国的影响，主动将总部从美国迁移至中立国瑞士，这吸引了中国芯片业界积极开发Risc－V架构，如今中国在Risc－V架构上已取得了成果，无疑有助于抗衡ARM阵营。</p><p style="text-indent: 2em; text-align: left;">促使中国芯片业界发展Risc－V还有Risc－V的成本更低的因素，ARM虽说授权费较低但是依然要千万美元，这对于中国许多新生的芯片企业来说依然是沉重的负担，而Risc－V的授权费低得多更有利于中国芯片企业。</p><p style="text-indent: 2em; text-align: left;">另外在软件方面，考虑到当前<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%B0%B7%E6%AD%8C.HTM" target="_blank" title="谷歌">谷歌</a></span>对华为的做法，华为又已发展起自主操作系统鸿蒙，中国发展Risc－V可以与鸿蒙形成我国的软硬件生态，如此形成中国自主软硬件生态更有助于中国芯片产业的自主化。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202107/04022751973527.jpg" width="100%" title="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" alt="多款RiscV芯片发布，中国加速其产业化，有望打破ARM垄断" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这一切无不显示出中国基于Risc－V开发的芯片产业生态茁壮成长，与ARM抗衡的信心大增。再加上欧美也有芯片企业开发Risc－V架构，甚至近期传出<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span>也有意收购开发Risc－V的SiFive，Intel是全球最大的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>企业有助于进一步增强Risc－V阵营的实力，或许ARM垄断移动市场的局面就此被打破。</p> 
+  
+</div>
+            
