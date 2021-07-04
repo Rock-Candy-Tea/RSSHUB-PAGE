@@ -1,0 +1,158 @@
+
+---
+title: '【无言小记】First-class Function (函数是一等公民_头等函数）'
+categories: 
+ - 编程
+ - 掘金
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=3020'
+author: 掘金
+comments: false
+date: Sat, 03 Jul 2021 01:44:33 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3020'
+---
+
+<div>   
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style>
+<blockquote>
+<p>hi~ 我是 <code>无言非影</code>, 很高兴在这里分享我的学习历程。</p>
+</blockquote>
+<p>上一篇 <a href="https://juejin.cn/post/6979946268072247333" target="_blank">【无言小记】初识函数式编程</a></p>
+<hr>
+<h3 data-id="heading-0">First-class Function (函数是一等公民/头等函数）</h3>
+<blockquote>
+<p>当一门编程语言的函数可以被当作变量一样用时，则称这门语言拥有<code>头等函数</code>。</p>
+</blockquote>
+<ul>
+<li>有如下特性:
+<ol>
+<li>函数可以被赋值给一个变量;</li>
+<li>函数可以被当作参数传递给其他函数;</li>
+<li>函数可以作为另一个函数的返回值。</li>
+</ol>
+</li>
+</ul>
+<h4 data-id="heading-1">1. 把函数赋值给变量</h4>
+<blockquote>
+<p>即使你的函数有自己的函数名称，你仍然可以用这个变量名去调用它。</p>
+</blockquote>
+<pre><code class="hljs language-js copyable" lang="js">  <span class="hljs-comment">// 将匿名函数赋值给变量</span>
+  <span class="hljs-keyword">const</span> fn = <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"fn_bar"</span>);
+  &#125;
+  fn(); <span class="hljs-comment">// fn_bar</span>
+
+  <span class="hljs-comment">// 将有名称的函数赋值给变量</span>
+  <span class="hljs-keyword">const</span> fn2 = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">name</span>(<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"fn2_bar"</span>);
+  &#125;
+  fn2(); <span class="hljs-comment">// fn2_bar</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<blockquote>
+<p>一个函数包裹另一个函数，并且形式也相同时，我们可以认为这是两个一样的函数，可以对其进行精简</p>
+</blockquote>
+<p>示例：</p>
+<pre><code class="hljs language-js copyable" lang="js">  <span class="hljs-keyword">const</span> SayHi = &#123;
+    <span class="hljs-attr">a</span>: <span class="hljs-function">(<span class="hljs-params">v</span>) =></span> <span class="hljs-string">`<span class="hljs-subst">$&#123;v&#125;</span> a`</span>,
+    <span class="hljs-attr">b</span>: <span class="hljs-function">(<span class="hljs-params">v</span>) =></span> <span class="hljs-string">`<span class="hljs-subst">$&#123;v&#125;</span> b`</span>,
+    <span class="hljs-attr">c</span>: <span class="hljs-function">(<span class="hljs-params">v</span>) =></span> <span class="hljs-string">`<span class="hljs-subst">$&#123;v&#125;</span> c`</span>,
+  &#125;;
+
+  <span class="hljs-comment">// 优化前 =====================================</span>
+  <span class="hljs-keyword">const</span> Controller = &#123;
+    <span class="hljs-function"><span class="hljs-title">a</span>(<span class="hljs-params">v</span>)</span> &#123;
+      <span class="hljs-keyword">return</span> SayHi.a(v);
+    &#125;,
+    <span class="hljs-function"><span class="hljs-title">b</span>(<span class="hljs-params">v</span>)</span> &#123;
+      <span class="hljs-keyword">return</span> SayHi.b(v);
+    &#125;,
+    <span class="hljs-function"><span class="hljs-title">c</span>(<span class="hljs-params">v</span>)</span> &#123;
+      <span class="hljs-keyword">return</span> SayHi.c(v);
+    &#125;,
+  &#125;;
+
+  <span class="hljs-built_in">console</span>.log(Controller.a(<span class="hljs-string">"hi~"</span>)); <span class="hljs-comment">// hi~ a</span>
+
+  <span class="hljs-comment">// 优化后 =====================================</span>
+  <span class="hljs-keyword">const</span> Controller = &#123;
+    <span class="hljs-attr">a</span>: SayHi.a, <span class="hljs-comment">// 这里是把一个方法赋值给另一个方法，不是方法的调用</span>
+    <span class="hljs-attr">b</span>: SayHi.b,
+    <span class="hljs-attr">c</span>: SayHi.c,
+  &#125;;
+  <span class="hljs-built_in">console</span>.log(Controller.a(<span class="hljs-string">"hi~"</span>)); <span class="hljs-comment">// hi~ a</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<h4 data-id="heading-2">2. 传递一个函数作为参数</h4>
+<ul>
+<li>头等函数中-函数当作值或者说是变量: 下面代码片段中： <code>callback() </code>函数作为 <code>sayHi()</code> 函数的参数。</li>
+</ul>
+<pre><code class="hljs language-js copyable" lang="js">  <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">callback</span>(<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-keyword">return</span> <span class="hljs-string">"Hello, "</span>;
+  &#125;
+  <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">sayHi</span>(<span class="hljs-params">callback, name</span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(callback() + name);
+  &#125;
+  <span class="hljs-comment">// 传递 `callback` 作为 `sayHi` 函数的参数</span>
+  sayHi(callback, <span class="hljs-string">"wuyanfeiying!"</span>); <span class="hljs-comment">// Hello, wuyanfeiying!</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<blockquote>
+<p>补充：回调函数</p>
+</blockquote>
+<ul>
+<li>我们把一个函数作为参数传递给另外一个函数，那么我们就称这个函数为<code>回调函数</code>。sayHi() 函数就是一个<em><strong>回调函数</strong></em>。</li>
+<li>回调与同步、异步并没有直接的联系，<em><strong>回调只是一种实现方式，既可以有同步回调，也可以有异步回调，还可以有事件处理回调和延迟函数回调</strong></em>，这些在我们工作中有很多的使用场景。</li>
+</ul>
+<h4 data-id="heading-3">3. 返回一个函数</h4>
+<p>函数可被作为<strong>值</strong>来对待，以下示例中，<code>sayHi()</code>返回一个<strong>匿名函数</strong>，有两种调用的方式：</p>
+<ul>
+<li>方式一：用一个变量先接受<code>sayHi()</code>返回的值, 之后再调用它里面被返回的函数</li>
+<li>方式二：使用双括号 <code>()() </code>来调用 <code>sayHi()</code> 返回的函数</li>
+</ul>
+<pre><code class="hljs language-js copyable" lang="js">  <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">sayHi</span>(<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-comment">// 返回一个匿名函数</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+      <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"Hi~"</span>);
+    &#125;;
+  &#125;
+  <span class="hljs-comment">// 方式一：</span>
+  <span class="hljs-keyword">const</span> foo = sayHi();
+  foo(); <span class="hljs-comment">// Hi~</span>
+
+  <span class="hljs-comment">// 方式二</span>
+  sayHi()(); <span class="hljs-comment">// Hi~</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<blockquote>
+<p>补充：匿名函数</p>
+</blockquote>
+<pre><code class="hljs language-js copyable" lang="js">  <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)</span>&#123;
+  <span class="hljs-comment">// ...</span>
+  &#125;();
+
+<span class="copy-code-btn">复制代码</span></code></pre>
+<ul>
+<li>通过匿名函数可以实现<code>闭包</code>
+<ul>
+<li>闭包是可以访问在函数作用域内定义的变量的函数。若要创建一个闭包，往往都需要用到匿名函数。</li>
+</ul>
+</li>
+<li>模拟块级作用域，减少全局变量。执行完匿名函数，存储在内存中相对应的变量会被销毁，从而节省内存。</li>
+</ul>
+<blockquote>
+<p>补充: 高阶函数（Higher-Order Function）</p>
+</blockquote>
+<ul>
+<li>一个返回另外一个函数的函数被称为高阶函数。</li>
+<li>编写高阶函数，就是让函数的参数能够接收别的函数。</li>
+<li>JS中常见的三种高阶函数：<code>map()</code>、<code>reduce()</code>、<code>filter()</code></li>
+</ul>
+<h4 data-id="heading-4">小结</h4>
+<p>总之，在JavaScript中，函数没什么特别之处，和JS中的任何其他数据类型一样，我们可以把函数赋值给变量或存储到数组中，还可以作为另一个函数的参数和返回值，甚至我们可以在程序运行的时候通过<code>new Function()</code>来构造一个新的函数。</p>
+<h2 data-id="heading-5">附录</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Glossary/First-class_Function" target="_blank" rel="nofollow noopener noreferrer">First-class Function（MDN）</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%A4%B4%E7%AD%89%E5%87%BD%E6%95%B0" target="_blank" rel="nofollow noopener noreferrer">头等函数（维基百科）</a></li>
+<li><a href="https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html" target="_blank" rel="nofollow noopener noreferrer">函数式编程指北</a></li>
+<li><a href="https://www.cnblogs.com/moxiaowohuwei/p/8438236.html" target="_blank" rel="nofollow noopener noreferrer">关于js中的回调函数callback，通俗易懂</a></li>
+<li><a href="https://www.cnblogs.com/ranyonsue/p/10181035.html" target="_blank" rel="nofollow noopener noreferrer">js中的匿名函数</a></li>
+</ul></div>  
+</div>
+            
