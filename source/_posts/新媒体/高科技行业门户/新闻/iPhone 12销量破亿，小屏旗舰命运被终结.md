@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 12销量破亿，小屏旗舰命运被终结'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202107/02201513268681.jpg'
+author: 高科技行业门户
+comments: false
+date: Sat, 03 Jul 2021 02:35:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202107/02201513268681.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文｜明美无限</p><p style="text-indent: 2em; text-align: left;">相信有一直关注明美无限至今的果粉们应该都清楚了，要说苹果在手机这一行的统治力，有时候友商真是不得不服，在某一块明明入行较晚，但做出的成就却远超其它厂商，最直接的例子就是iPhone 12了，大家应该还记得，在安卓厂商开始发布5G手机时，苹果和高通官司都还没结束，由于当时双方互不相让，英特尔5G基带又无法到达苹果要求，不少人当时认为在5G手机方面，苹果很可能要输给安卓厂商了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/02201513268681.jpg" alt="iPhone 12销量破亿，其中有你吗？" title="iPhone 12销量破亿，其中有你吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">可谁曾想到，苹果不动则已，动则一鸣惊人，在所有人都没预料到的情况下，和高通的世纪和解震惊了所有人，英特尔被火速抛弃，使用高通5G基带再无任何障碍，即便如此，也没有多少人预料到后续iPhone 12会有如此强大的吸引力，在一年不到的时间里，居然一跃成为近6年来最受欢迎的iPhone机型。</p><p style="text-indent: 2em; text-align: left;">那么，今天下面广大的果粉们就跟随明美无限分享的步伐一起来看看吧！</p><p style="text-indent: 2em; text-align: left;">这不就在iPhone 13系列将要发布之际，根据媒体的最新消息，苹果去年的iPhone 12系列销量已经突破了一亿台了，iPhone 12系列又推动了一次iPhone的超级周期。其实早在今年的4月份iPhone 12系列已经完成了销量突破一亿台的目标了。也就是说iPhone 12系列在推出后的7个月时间里就卖出了一亿台。</p><p style="text-indent: 2em; text-align: left;">7个月时间完成一亿台的销量，这个前年的iPhone 11提前了两个月，几乎和iPhone 6系列一样了。要知道iPhone 6系列是在2014年和2015年当时的4G过渡期间迎来的超级周期。当时iPhone 6系列能够拥有这么好的销量，主要还是来自于消费者们对大屏幕手机的需求。</p><p style="text-indent: 2em; text-align: left;">而iPhone 12系列则是5G需求的爆发了，其实iPhone 12系列已经帮助苹果在今年的4月份拿下了很大的市场份额，让苹果的市场份额有了突飞猛进了，已经创下了新高，估计国内市场份额也是新高的。</p><p style="text-indent: 2em; text-align: left;">其中在系列之中最受欢迎的是iPhone 12 Pro Max，占了29％，而由于利润率高，也令整个系列的盈利比iPhone 11多出22％。预计今年的新款iPhone会是小改款，要延续iPhone 12的强劲需求应该会有点难度。</p><p style="text-indent: 2em; text-align: left;">另外值得注意的是，这似乎也证明了大屏手机更受市场的欢迎，也侧面宣布了mini款iPhone的死刑。</p><p style="text-indent: 2em; text-align: left;">根据此前的数据显示，iPhone 12 mini的销售数据非常不堪，甚至从发布以来就在不断减产，上周还有许多传闻称该机已经停产，虽然官方客服回应称并未收到通知，但是供应链方面已经确定了这个消息。</p><p style="text-indent: 2em; text-align: left;">据悉，在iPhone 12 mini正式停产前就已经减产的非常严重了，而造成这个情况最主要的原因就是销售数据太过难看，而小屏幕、低续航则成为该机的最大痛点，这也是该机发布之初就叫好不叫座的最大原因。</p><p style="text-indent: 2em; text-align: left;">虽然消息称苹果已经在iPhone 13 mini上增加了电池容量，但是依然并不被外界看好，甚至连苹果内部都没有信心，目前已经基本可以确定iPhone 13系列将取消这个尺寸的机型。</p><p style="text-indent: 2em; text-align: left;">自此，小屏旗舰的命运也将彻底被终结。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/02201513324446.jpg" alt="iPhone 12销量破亿，其中有你吗？" title="iPhone 12销量破亿，其中有你吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外根据报道，iPhone 12系列的平均售价是处于历史高位的，因此iPhone 12系列的有望给苹果带来创记录的收入。</p><p style="text-indent: 2em; text-align: left;">由此也可以看出，持续了这么多年的定律依然没有任何改变，那就被吐槽越凶，就卖得越好，不管网上有多少不利于iPhone 12的消息，丝毫不会影响其销量，苹果在高端机型上的统治力实在是让友商有点可望而不可及，如今安卓千元5G手机遍地都是，但即便如此便宜，但依然没有单一厂商能在销量上和苹果比肩的。</p><p style="text-indent: 2em; text-align: left;">当然，iPhone 12成为近年来苹果销售冠军的原因也有一定的外部原因。受相关因素的影响，华为高端芯片的供应受到限制，大部分高端手机市场的份额被苹果公司牢牢抓住，自然iPhone 12成为其受益者。</p><p style="text-indent: 2em; text-align: left;">除此之外，综上所述，iPhone 12在7个月内销售了1亿台，不是偶然的，而是优秀的性能。</p><p style="text-indent: 2em; text-align: left;">不过在iPhone 12之后，可能又要等几年才能有这种现象了，等看看啥时候苹果愿意给iPhone加上指纹解锁、高功率充电或者高刷新率，应该还能再次出现。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202107/02201514784968.png" alt="iPhone 12销量破亿，其中有你吗？" title="iPhone 12销量破亿，其中有你吗？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最后，这一亿销量中，有没有你的存在呢？</p><p style="text-indent: 2em; text-align: left;">对此，如果你们对于苹果公司的iPhone 12销量破亿还有什么想要说的，欢迎在评论区留言给明美无限参与一起讨论吧！</p> 
+  
+</div>
+            
