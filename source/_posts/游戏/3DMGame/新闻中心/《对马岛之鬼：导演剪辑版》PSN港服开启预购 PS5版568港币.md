@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210704/1625358887_5836
 《<a target="_blank" href="https://www.3dmgame.com/games/ghostoftsushima/">对马岛之鬼</a>：导演剪辑版》PSN港服开启预购，PS5版568港币（473元），PS4版468港币（390元），支持简体中文、繁体中文。导演剪辑版将于8月20日发售。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210704/1625358887_583601.jpg" alt="《对马岛之鬼：导演剪辑版》PSN港服开启预购 PS5版568港币" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210704/1625358887_583601.jpg" alt="《对马岛之鬼：导演剪辑版》PSN港服开启预购 PS5版568港币" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 预购奖励
@@ -53,7 +53,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210704/1625358887_5836
 可用时间 2021年8月20日
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210704/1625358902_487094.jpg" alt="《对马岛之鬼：导演剪辑版》PSN港服开启预购 PS5版568港币" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210704/1625358902_487094.jpg" alt="《对马岛之鬼：导演剪辑版》PSN港服开启预购 PS5版568港币" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 *关于此升级包价格，官方Blog文章标注为HK$238，PS5《导演剪辑版》商店页面标注为HK$258，具体以8月20日上架页面为准。
