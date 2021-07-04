@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/07/04/210704104504718_u980.
 
 
 <div class="abstract">
-<p>开发者表示这是为了专注单人体验。</p>
+<p>开发者认为玩家会喜欢的。</p>
 </div>
 
                 
