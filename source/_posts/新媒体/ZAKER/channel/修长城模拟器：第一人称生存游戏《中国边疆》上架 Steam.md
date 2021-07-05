@@ -1,0 +1,18 @@
+
+---
+title: '修长城模拟器：第一人称生存游戏《中国边疆》上架 Steam'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f6_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 05 Jul 2021 01:49:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f6_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 7 月 5 日消息 由 SolidGames 开发，PlayWay S.A. 发行的第一人称建造生存游戏《中国边疆（Chinese Frontiers）》上架 Steam，发售时间未知。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f6_1024.jpg" data-height="215" data-width="460" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f6_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，《中国边疆》是一款针对在长城修建期间所建立的华夏族群定居点的生活模拟器。作为居民之一，玩家将建造世界上最大的防御工事并应对其他日常挑战。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02f7_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02f7_1024.jpg" referrerpolicy="no-referrer"></div></div>从官方介绍来看，玩家可以在《中国边疆》建造长城、雕刻石像、制作陶瓷、钓鱼、打铁等，还要躲避猛虎的袭击。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f8_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02f8_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>《中国边疆》Steam 页面：</strong>点此查看<p></p><p>游戏介绍：</p><p><strong>修建 - 脚踏实地付诸行动</strong>。城墙不会自己建起来，当然长城也不会！仔细阅读并遵循所有说明 —— 将来肯定会大有裨益。这不只是关于一次工作晋升！</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02f9_1024.jpg" data-height="300" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02f9_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>生存 - 获取食物</strong>。起初，米饭就是你的面包和黄油。哦，可能还会有鱼。与你的伙伴一起去冒险和打猎也是值得的。打猎会让你有机会享用更丰盛的食物，赋予你更多的力量投入到工作中。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02fa_1024.jpg" data-height="300" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e2a031b15ec035623f02fa_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>创造 - 保持创造性</strong>。提高自身技能并创造诸多你可以出售或使用的有价值的物品。这会显著提升生活舒适度，但你必须亲自付诸行动。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02fb_1024.jpg" data-height="300" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e2a031b15ec035623f02fb_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
