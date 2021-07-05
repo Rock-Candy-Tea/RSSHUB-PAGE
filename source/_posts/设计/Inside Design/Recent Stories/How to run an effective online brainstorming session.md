@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/online-brainstorming/'
 author: Inside Design
 comments: false
-date: 2021-07-05 05:06:06
+date: 2021-07-05 06:08:14
 thumbnail: 'https://www.invisionapp.com/inside-design/online-brainstorming/'
 ---
 
