@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5652'
+headimg: 'https://pic4.zhimg.com/v2-b55a59aa2b2e7cf7d739a379b6912931_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 05 Jul 2021 01:52:24 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5652'
+date: Mon, 05 Jul 2021 04:12:32 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-b55a59aa2b2e7cf7d739a379b6912931_1440w.jpg'
 ---
 
 <div>   
-任幻想的回答<br><br><p>谢邀</p><p>满帮、boss直聘和滴滴一样，都是：</p><p>1、在6月之后前往<b>纽交所上市的国内互联网</b>公司；</p><p>2、涉及<b>大量基础用户隐私数据</b>、并且业务与<b>社会基础服务业务有关联</b>；</p><p>所以，看来和之前在滴滴问题里预估的一样，国家在去年6月1日正式生效的“网络安全审查办法”通过一年后，发现<b>各大赴美上市公司并没有按照规则进行事前审核提交</b>，于是开始<b>严格执行并监督</b>。</p><p>而目前来说，满帮、boss和滴滴的<b>法务部门可能需要背大锅</b>。</p><p>另，大家需要把昨天滴滴app下架和这件事情不要做太大关联，app因为隐私泄露等问题被下架是这一年许多app的常态，但是赴美上市后的审核却是新内容。</p><p>滴滴部分的解读如下，各位可以参考。</p><a href="https://www.zhihu.com/question/470015739/answer/1978527948" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-ad816a9c0ffb80c449c3612eb92051d4_l.jpg" data-image-width="720" data-image-height="881" class="internal">如何看待网信办通知应用商店下架滴滴出行 App ？</a><a href="https://www.zhihu.com/question/469749053/answer/1976212147" data-draft-node="block" data-draft-type="link-card" class="internal">滴滴副总裁回应「网传数据打包给美国」：数据存放国内，坚决起诉维权。有哪些值得关注的信息？</a><p></p>  
+亭曈的回答<br><br><p>看了一下，这次被网络安全部门请去喝茶的都是之前在纽交所上市的企业。</p><p>其实关于数据安全问题，中美之间一直存在分歧，特别是美国要求中国企业在美国上市要向PCAOB（美国上市公司审计监督机构）提供审计底稿。</p><p>13年的时候中美签了一个跨境监管合作备忘录，备忘录里面约定可以向美审计监督机构提供审计底稿，前提是要经过中方的审核；虽然同意但里面对美国监督机构的限制较多，比如这个监督机构只能获取有执法调查需要的公司底稿，不能进行常规性检查，而美国却在法律中规定PCAOB享有定期查阅审计底稿的权利，一年一次或者一年三次。</p><p>说白了就是美国希望借赋予PCAOB合法查阅的权利对中国在美上市企业进行全方位、透明化的分析，进而了解中国更深层次的数据，这关乎到我们国家主权和信息安全，所以我们不让。</p><p>对于国家主权和信息安全，这是我们一直以来的红线，而且我们也特别敏感，因为这些我们所拥有的都是先辈们用鲜血换来的来之不易的成果。</p><p>上世纪50年代，中苏交恶，我们要求苏联提供承诺给予的核武器和核潜艇，但苏联以提出在中国领土建设军用长波电台和在中国领海与我们共同组建联合舰队为前提，被我们拒绝了，因为这涉及主权问题。</p><p>为什么在韩国建立萨德反导系统它明明是一个防御系统却引来我们的反对，萨德美国全球导弹防御系统的一部分，而萨德上面有个雷达探测器，这个雷达最远可以探测半径2000公里内的所有飞行器和导弹发生轨迹，也就是美方可以轻而易举获取我们的武器轨迹和数据等。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b55a59aa2b2e7cf7d739a379b6912931_1440w.jpg" data-caption data-size="normal" data-rawwidth="639" data-rawheight="311" data-default-watermark-src="https://pic3.zhimg.com/v2-121822822a36c633542089939e1236a7_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b55a59aa2b2e7cf7d739a379b6912931_r.jpg" referrerpolicy="no-referrer"></figure><p>如今的美国延续了上世纪遗留下来的冷战思维，今年出了好几个法案和政策拨款都是剑指我们，这时候维护我们国家的数据安全就更为之重要了。</p><p>最好接下来国家可以像证券交易一样出个第三方存管，把这些具有战略性、敏感的数据信息收归国家统一保管，由不得私人乱来。</p>  
 </div>
             
