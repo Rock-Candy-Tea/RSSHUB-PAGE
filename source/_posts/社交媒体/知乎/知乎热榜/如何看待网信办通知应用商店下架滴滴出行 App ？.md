@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-9177d5006e0aafba985b76f9ea1fd4d6_1440w.jpg'
+headimg: 'https://pic2.zhimg.com/v2-e8bb7ec20770ba34670a57ce9caed653_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 04 Jul 2021 13:01:48 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-9177d5006e0aafba985b76f9ea1fd4d6_1440w.jpg'
+date: Sun, 04 Jul 2021 17:15:17 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-e8bb7ec20770ba34670a57ce9caed653_1440w.jpg'
 ---
 
 <div>   
-亚东的回答<br><br><p>这个瓜太大了啊。</p><p>这充分说明了，滴滴这次肯定有了极其切实的证据被抓住了。而且这个数据也非常敏感。而且越简单，事情越大。</p><p>因为滴滴在事实上掌握了中国所有城市的个人信息、通勤、出行及城市所有的街景数据、甚至是财富数据。再加上它的录音收集功能，自己还有非常敏感的车内行驶里的车内录音录像数据。</p><p>如果这些数据如果管理不当，可以说，它能给想不当使用这个数据的人一个非常大的破坏价值。</p><p>所以，这次滴滴上市后，又已经圈到了美国股民的钱，这个动手的时机真是。。。明天(是周二，周一美股休市，多谢评论区的各位大神指教)美股开盘，至少一个跌幅10%到20%，是少不了的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9177d5006e0aafba985b76f9ea1fd4d6_1440w.jpg" data-caption data-size="normal" data-rawwidth="1312" data-rawheight="934" data-default-watermark-src="https://pic3.zhimg.com/v2-d219a654a7863e5d583687ed90a23f27_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9177d5006e0aafba985b76f9ea1fd4d6_r.jpg" referrerpolicy="no-referrer"></figure><p>如果因为上市什么的，给了国外的地图、出行数据出去，那滴滴可能就到头了。</p><p>而且这个操作，也在告诉国内所有的App厂商，尤其是头部的，数据安全与合理使用，必须认真来看待，否则，下场你知道的。</p><p>-----有高人指教了，明天美股因为独立日休市，滴滴还有一点儿运气在，真是。。。---</p><p></p><p></p>  
+李嫑嫑的回答<br><br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e8bb7ec20770ba34670a57ce9caed653_1440w.jpg" data-rawwidth="1280" data-rawheight="884" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-40e5ff749c5c6e22a2b121766559f1c6_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e8bb7ec20770ba34670a57ce9caed653_r.jpg" referrerpolicy="no-referrer"></figure><h2>史无前例</h2><p>国家网信办不会在<b>没有证据，没有调查，没有核实</b>的前提下说出“<b>滴滴出行存在严重违法违规收集使用个人信息问题</b>”。</p><p>请感受一下这简短有力的措辞，严重违法违规收集使用，恐怕今晚所有中国互联网公司听到这句话，晚上都睡不着觉。</p><p>各位可以结合知乎之前那个滴滴网络审查的回答就可以明白，<b>非常多的人对具备行业垄断性质且赴美上市的中国互联网公司拥有不切实际的幻想</b>。</p><p>我们该反思，为什么有不少人迄今为止还会对赴美上市的行业寡头充满美好的愿景，是滴滴这些公司分你钱了，还是你利益相关持股待涨？<b>你真不会认为滴滴是因为地图测绘数据碰红线了吧</b>？</p><p>一个滴滴倒下，根本不算什么，影响不了中国社会的正常运转。复制一个没有核心竞争力的滴滴跟玩似的，滴滴倒了反而会加速行业的改革、优化、规范。</p><p>滴滴的成功靠的是什么，各位心里要有数。别真以为滴滴有什么芯片级的核心竞争力，连国家都要敬着它。</p><p>希望国家拿出扫黑除恶的气势来对待互联网企业违法违规收集使用用户信息的行为，严查大数据杀熟，严查用户隐私数据倒卖，严查快递金融信息灰产，严查企业垄断。</p><p>你整治得好，老百姓就拍手叫好，老百姓才会更加拥护你。同时，也<b>希望中国互联网企业认真想一想，究竟是用户离不开你，中国市场离不开你，还是你离不开用户，你离不开中国市场</b>。</p><p>最后，千万不要觉得滴滴事件中的网络安全只有“国家安全”，人民不安全，才是真正的不安全。在人民和国家的利益面前，不会管你姓马还是姓柳。</p>  
 </div>
             

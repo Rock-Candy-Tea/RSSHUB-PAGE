@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win11 全新设置功能一览，加快替代控制面板'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/7/7273435b-c753-45f2-8d8b-daf667bea83b.png'
+author: IT 之家
+comments: false
+date: Sun, 04 Jul 2021 23:37:34 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/7/7273435b-c753-45f2-8d8b-daf667bea83b.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 5 日消息 自从 Win8 开始，微软就在尝试将“控制面板”这一工具替换掉，于是推出了更现代化的设置界面。然而，从 Win8 到 Win10，再到 Win11，控制面板都依然屹立不动。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/7273435b-c753-45f2-8d8b-daf667bea83b.png" w="1404" h="783" title="微软 Win11 全新设置功能一览，加快替代控制面板" width="1404" height="457" referrerpolicy="no-referrer"></p><p>据外媒 Windows Latest，微软将在 Win11 中进一步扩展“设置”应用，让其尽早替换掉控制面板。以下为 Win11 设置的一些新改进，有的你还没用上。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/8a9be223-910b-4ce0-8c38-7bccf7c76b20.jpg@s_2,w_820,h_595" alt="Windows advanced network settings" w="940" h="682" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/8a9be223-910b-4ce0-8c38-7bccf7c76b20.jpg 2x" width="940" height="595" referrerpolicy="no-referrer"></p><h2>网络设置</h2><p>首先，Win11 设置应用添加了“<span class="accentTextColor">网络适配器</span>”设置，用户无需使用控制面板，而是打开设置 > 网络和 Internet > 高级网络设置，该功能在 Win11 Build 10.0.22000.51 中还无法使用。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/edc0038c-b76a-4bf2-8415-609afb8f8a9e.jpg@s_2,w_820,h_596" alt="Network properties" w="950" h="690" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/edc0038c-b76a-4bf2-8415-609afb8f8a9e.jpg 2x" width="950" height="596" referrerpolicy="no-referrer"></p><h2>存储设置</h2><p>其次，Win11 设置应用重新设计了“<span class="accentTextColor">存储管理</span>”工具，能够通过检测本地磁盘上较旧和未使用的文件来释放驱动器上的空间。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/8737d95a-ac6f-4872-83f3-041b0ed63af9.jpg@s_2,w_820,h_609" alt="Windows 11 Storage Settings" w="950" h="706" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/8737d95a-ac6f-4872-83f3-041b0ed63af9.jpg 2x" width="950" height="609" referrerpolicy="no-referrer"></p><p>此外，Win11 终于把“<span class="accentTextColor">磁盘管理器</span>”放到了设置应用中，用户可以在“高级存储设置”中管理磁盘，进行<span class="accentTextColor">分配空间和格式化</span>等。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/ec191adc-1f73-4bf7-a0b8-23c9b79914ea.jpg@s_2,w_820,h_610" alt="Storage Settings layout" w="941" h="700" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/ec191adc-1f73-4bf7-a0b8-23c9b79914ea.jpg 2x" width="941" height="610" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/6a210475-995a-4e30-8a5f-aec40ec6ec0d.png" w="1082" h="771" title="微软 Win11 全新设置功能一览，加快替代控制面板" width="1082" height="584" referrerpolicy="no-referrer"></p><h2>电池设置</h2><p>微软正在开发一个 Win11 电池的新设置页面，该页面将使用<span class="accentTextColor">图表</span>向用户显示有关设备电池和电源的使用情况。用户可以查看哪个应用耗电最多，并根据过去 7 天等特定时间段<span class="accentTextColor">过滤结果</span>。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/9c9479ff-7aea-44ad-9fa1-5076bc197bdb.jpg@s_2,w_820,h_599" alt="Windows 11 battery usage" w="941" h="687" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/9c9479ff-7aea-44ad-9fa1-5076bc197bdb.jpg 2x" width="941" height="599" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/5dc122ac-449e-4ac7-a4ca-0653593568df.jpg@s_2,w_820,h_602" alt="Power and battery settings" w="946" h="694" title="微软 Win11 全新设置功能一览，加快替代控制面板" srcset="https://img.ithome.com/newsuploadfiles/2021/7/5dc122ac-449e-4ac7-a4ca-0653593568df.jpg 2x" width="946" height="602" referrerpolicy="no-referrer"></p><p>IT之家了解到，微软正在加紧开发 Win11 中，预计在年内发布正式版本，也许到时候更多设置选项会变得现代化，我们拭目以待。</p>
+          
+</div>
+            

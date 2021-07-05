@@ -1,0 +1,18 @@
+
+---
+title: 'Serra da Malagueta山脉，佛得角圣地亚哥岛 (© Samuel Borges Photography_Shutterstock)'
+categories: 
+ - 图片
+ - Bing 壁纸
+ - 每日壁纸
+headimg: 'https://cn.bing.com/th?id=OHR.SerraMalagueta_ZH-CN4592152973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+author: Bing 壁纸
+comments: false
+date: 2021-07-05 00:19:59
+thumbnail: 'https://cn.bing.com/th?id=OHR.SerraMalagueta_ZH-CN4592152973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+---
+
+<div>   
+<img src="https://cn.bing.com/th?id=OHR.SerraMalagueta_ZH-CN4592152973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" referrerpolicy="no-referrer">  
+</div>
+            
