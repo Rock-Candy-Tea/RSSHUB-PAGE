@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-f9968d1b34c82db90ecdf7328997fdf0_720w.jpg'
+headimg: 'https://pic4.zhimg.com/v2-1e498b667d46f23497dc4a7c5e0ad0f1_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 05 Jul 2021 11:58:44 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-f9968d1b34c82db90ecdf7328997fdf0_720w.jpg'
+date: Mon, 05 Jul 2021 11:38:14 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-1e498b667d46f23497dc4a7c5e0ad0f1_1440w.jpg'
 ---
 
 <div>   
-我是生的不能吃啊的回答<br><br><p>Neny，第二局最后那波tp谁指挥的？兢兢业业打了三把，第一把MVP没人记得，就记得你第二把丢人了。</p><p>Xun，摆烂队唯一的节奏点。第三局是看不起RW联盟倒数第二，白送一个先锋？</p><p>Rookie，宋圣请问您除了阿卡丽还会其他的吗？版本英雄到底会哪个？前天RNG比赛中路BP被羞辱的味道您看不见？练英雄慢就不练了是嘛？</p><p>Wink，就上局打牛逼了一把你装什么装啊？宋义进敢闪他粉丝多功劳大你跟什么？俩人对半分的锅你非要扛一大半，伞兵。</p><p>卢卡斯，真委屈你了，第二把拿命C，连环三勾都救不了你的NT队友们。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f9968d1b34c82db90ecdf7328997fdf0_720w.jpg" data-rawwidth="254" data-rawheight="254" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-83f1229b21c53bd1e70d7c517d18fa37_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p>最后送给那些受不了黑称的粉丝们一句话:电子竞技，菜是原罪。美称还是黑称，是选手自己打出来的，赛场上丢的脸，你在评论区舔的再好，也只会更丢脸。</p>  
+82年的冰红茶的回答<br><br><p>记得2020年puff 南风刚转会那会</p><p>第一次打的RW，第3把</p><p>面对裸露的RW水晶</p><p>IG众人在RW高地厮杀一番后</p><p>撤到高地后面</p><p>南风玩的塔姆，他说：能偷吗？丁旺？（Puff）</p><p>宁王一愣，还以为说的是：能偷吗，宁王？</p><p>然后就是维鲁斯上了塔姆的车</p><p>绕道了水晶后面</p><p>打掉了仅存血量不多的水晶</p><p>史称：偷家</p><hr><p>2021年夏季赛</p><p>当IG再次碰到RW</p><p>这一次IG说</p><p>我要还你这份恩情</p><p>不仅把水晶裸露出来</p><p>而且还在你偷水晶的时候</p><p>当着你的面TP走掉</p><p>我不仅要还恩情</p><p>还要再现一次1：2</p><p>只不过这次</p><p>我是1，你是2</p><p>史称：还债</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-1e498b667d46f23497dc4a7c5e0ad0f1_1440w.jpg" data-rawwidth="720" data-rawheight="659" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-f625b4128d0bdbc34a683058ad17e67a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-1e498b667d46f23497dc4a7c5e0ad0f1_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>再看看这次的IG</p><p>强能碾压FPX直下两盘，干净利落</p><p>弱能再输RW</p><p>虽然一个赢两把，一个赢三把</p><p>也不是有多耀眼的战绩</p><p>怪就怪在，人人都以为打完FPX之后</p><p>IG是要崛起了吧？</p><p>第二天就开始输弱队</p><p>这种情况怎么这么眼熟？</p><p>这不是典型的</p><p>给强队找不足</p><p>给弱队找信心？</p><p>难道？</p><p>当代LGD要让位了？</p><p>水鬼竟是我自己？</p><p>慢着？</p><p>水鬼？</p><p>原来，在你走后</p><p>整个队都是你的影子……</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-cc970b3d9de32d621e56f62cf4ddc43f_720w.jpg" data-rawwidth="378" data-rawheight="358" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-565b56d2e905e5c4c95c34f0bebfaf5f_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p></p><p></p>  
 </div>
             
