@@ -1,0 +1,18 @@
+
+---
+title: '为什么大多数人不愿意用「领养宠物」代替「购买宠物」？-zero的回答：'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-2048ed5c7e9c337c5831b67c12e958ee_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 05 Jul 2021 08:59:20 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-2048ed5c7e9c337c5831b67c12e958ee_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>为什么大多数人不愿意用「领养宠物」代替「购买宠物」？</strong><br>zero的回答<br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-2048ed5c7e9c337c5831b67c12e958ee_720w.jpg?source=54b3c3a5" data-rawwidth="1440" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-bf1e038aa0ea4e99af7d7d33d4ff437a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-2048ed5c7e9c337c5831b67c12e958ee_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-2048ed5c7e9c337c5831b67c12e958ee_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-555475ec09078204ea34d1b0f257d835_720w.jpg?source=54b3c3a5" data-rawwidth="1440" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ece5108367b24a316ea1bbb07b440261_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-555475ec09078204ea34d1b0f257d835_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-555475ec09078204ea34d1b0f257d835_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-9549ec0dc6ff4a516a25fb5f61767528_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-1a181f729bd3764c6a16f8220e2d51af_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-9549ec0dc6ff4a516a25fb5f61767528_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-9549ec0dc6ff4a516a25fb5f61767528_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-a99bbcdf445d974ee17c24e00c383a45_720w.jpg?source=54b3c3a5" data-rawwidth="1440" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ceb6dccc38f5bce1ad73a894b343ab62_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-a99bbcdf445d974ee17c24e00c383a45_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-a99bbcdf445d974ee17c24e00c383a45_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-5b49b1657a7a7984b3ac9fc329a2083c_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-ecfc18c78cbe09b3f90f3b0bf51eb064_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-5b49b1657a7a7984b3ac9fc329a2083c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-5b49b1657a7a7984b3ac9fc329a2083c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

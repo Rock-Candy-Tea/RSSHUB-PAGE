@@ -1,0 +1,18 @@
+
+---
+title: 'LikeCoin Validator 考（四）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/6c4a9dda-610a-44c5-8490-1055e449ad57.jpeg'
+author: Matters
+comments: false
+date: Mon, 05 Jul 2021 08:17:14 GMT
+thumbnail: 'https://assets.matters.news/embed/6c4a9dda-610a-44c5-8490-1055e449ad57.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/6c4a9dda-610a-44c5-8490-1055e449ad57.jpeg" data-asset-id="6c4a9dda-610a-44c5-8490-1055e449ad57" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2>驗證人現況</h2><p>近日 LikeCoin 的驗證人情況有點變化。因為<a href="https://likecoin.bigdipper.live/proposals/12" target="_blank">議案 12</a> 通過後，驗證人需要： 1. 滿足議案 12 所提出的要求，包括利益社群，承諾為大家作出貢獻；2. 在 Matters 以 <a href="https://matters.news/tags/VGFnOjUzMTkw" target="_blank">#Validator Intro</a> 標籤發文；及 3.參與 <a href="https://discord.com/invite/W4DQ6peZZZ" target="_blank">LikeCoin Discord</a> 及發文，並需要由評審進行評選方能獲得生態池社群基金的委託（詳見 <a href="https://docs.like.co/v/zh/guides/governance/what-is-a-validator/community-funds" target="_blank">LikeCoin 全書</a>）。所以一下子就刷掉了一堆沒有心為社群做好，只為委託而來的驗證人。</p><p>故此 <a href="https://matters.news/@daisy/like-coin-validator-%E8%80%83-%E4%B8%89-bafyreidy6lwrfmpoetqxcij5i5pxffeb5lydahhatawgnlpzy5vrfyauei" target="_blank">LikeCoin Validator 考（三）</a>中，Snowflake、kwaihing、OGO、777、jason、garm99、Doge、Geisenberg、Guess、Jasper、sorare、wombat、Jizzy 都可能基於「無利可圖」或沒有時間維護伺服器而掉線了。</p><p>現時生態池社群基金委託申請公開而透明，驗證人只需要於每月15日中午12時前進行申請，就會於同月21日中午12時後知道申請結果。而每名評審的投票意向和基金分配也是公開的。第一輪申請經已在6月進行，22 位驗證人中有 17 位獲得委託，所有動向和結果均可於 LikeCoin Discord channel #community-funds-apply 查看。</p><p>由於自 LikeCoin Validator 考（三）後新來的驗證人如 <a class="mention" href="https://matters.news/@Gunnercat" target="_blank" data-display-name="Gunnercat" data-user-name="Gunnercat" data-id="VXNlcjo2MDE1Mg">﻿<span>@Gunnercat</span>﻿</a> 和 <a class="mention" href="https://matters.news/@RitaShields" target="_blank" data-display-name="RitaShields" data-user-name="RitaShields" data-id="VXNlcjo1MjA1MQ">﻿<span>@RitaShields</span>﻿</a> 都寫了很好的自介文章，而且用於審批<a href="https://docs.google.com/spreadsheets/d/1HraVdW0qR0tyVQndeGxkJXC8LcAzE73L3WfbwzL8JlE/edit#gid=0" target="_blank">驗證人的試算表</a>都經已情楚展示了生態池社群基金的委託現況，所以我就不再做文抄公搬字過紙了，大家可以直接查看他們的自介文及那一個驗證人有獲得第一輪委託。</p><h2>驗證人的選擇</h2><p>我知道有很多人看見低佣金的驗證人就「狗衝」（廣東話說法，意指很激動地全身投入），又或者看見那個驗證人有很多人委託就盲目跟隨。然而這樣是有危機的。</p><p>驗證人把佣金調得超低，卻沒有保證伺服器能時常在線的能耐（當然高佣金也可以這樣），不在線的結果<a href="https://docs.like.co/v/zh/user-guide/background#9e68" target="_blank">令 LikeCoin 被扣減，Likers 一同受罰</a>。有時候取回本金或轉移委託的時候發現本金會少了就是因為這個原因，絕對不是甚麼 Liker Land app 吃了你的委託。</p><p>針對以上的情況，我建議應寫一個 monitor 那樣的東西去監察驗證人有否曾經掉線，而在 Discord 也有驗證人回覆這個東西經已在他的排程之內。我們就等一等，看看以後可以怎樣避過這個兇險。</p><p>至於大家喜歡「西瓜靠大邊」，某程度上我也明白良禽擇木而棲，找一個看似可靠的驗證人去委託是很合理的，但你有了解過 icon 背後的個人或集團的國家 / 背景 / 目的 / 意圖嗎？委託就等投票權，假如驗證人為你就一些你不認同的議案投票的時候，你是否有足夠的時間 / 敏感度 / 觸覺去轉移委託？所謂「不要把蛋全放在一個籃子」，放諸 LikeCoin 委託亦同樣適用，這點我還是多口提醒一下。</p><h2>LikeCoin chain 再一次升級</h2><p>自 2019年12月2日 由 ERC-20 升級，變成了麻瓜更好懂可用 Liker Land app 管理的 LikeCoin chain 後，將再次迎來 FoTan 升級。之後大家有機會可以直接就議案投票而不用經過驗證人，還有期待已久的<a href="https://docs.like.co/v/zh/guides/decentralized-publishing" target="_blank">去中心出版 ISCN 功能</a>和其他技術上的好康，LikeCoin 只會變得更加好用實用。是以現時活躍驗證人的 50 個位置應該會維持到升級後才會考慮再次增加了。</p><hr><p>最後我想說（其實我說了 N 次）我個人非常推介大家加入 <a href="https://discord.com/invite/W4DQ6peZZZ" target="_blank">LikeCoin Discord</a> 的，不止為了解 LikeCoin 的未來發展，你更可以從驗證人平日與他人的互動了解他們的真實心性，絕對比看財經報告更為赤裸：有甚麼好得過用肉眼驗證甚至直接質詢你的數位資產代管人呢，這麼好玩的事，你絕對要試一下。</p>  
+</div>
+            
