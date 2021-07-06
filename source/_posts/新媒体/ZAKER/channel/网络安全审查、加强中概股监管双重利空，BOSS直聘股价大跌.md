@@ -1,0 +1,18 @@
+
+---
+title: '网络安全审查、加强中概股监管双重利空，BOSS直聘股价大跌'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e44b328e9f0952d03344fe_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 06 Jul 2021 05:37:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e44b328e9f0952d03344fe_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60e44b328e9f0952d03344fe_1024.jpg" data-height="1135" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e44b328e9f0952d03344fe_1024.jpg" referrerpolicy="no-referrer"></div></div>7 月 6 日美股开盘，BOSS 直聘<zkspan class>开</zkspan><zkspan class>盘</zkspan><zkspan class>超</zkspan><zkspan class>9</zkspan><zkspan class>%</zkspan><zkspan class>，</zkspan><zkspan class>报</zkspan><zkspan class>3</zkspan><zkspan class>3</zkspan><zkspan class>.</zkspan><zkspan class>0</zkspan><zkspan class>4</zkspan><zkspan class>美</zkspan><zkspan class>元</zkspan><zkspan class>/</zkspan><zkspan class>股</zkspan>，盘前一度跌超 10%。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202107/60e45be57f780b963600001b_1024.jpg" data-height="1719" data-width="1170" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e45be57f780b963600001b_1024.jpg" referrerpolicy="no-referrer"></div></div>7 月 4 日早间，网络安全审查办公室公告称，按照《网络安全审查办法》，将对 BOSS 直聘实施网络安全审查。<p></p><p>为配合网络安全审查工作，防范风险扩大，审查期间 BOSS 直聘停止新用户注册。</p><p>据今日晚间消息，近日中共中央办公厅、国务院办公厅印发了《关于依法从严打击证券违法活动的意见》，该意见指出，要要进一步加强跨境监管执法司法协作，加强中概股监管。</p><p>此外，上述意见指出，切实采取措施做好中概股公司风险及突发情况应对，推进相关监管制度体系建设。修改国务院关于股份有限公司境外募集股份及上市的特别规定，明确境内行业主管和监管部门职责，加强跨部门监管协同。</p><p>在被实施网络审查、加强中概股监管双重作用下，BOSS 直聘股价大跌。</p><p><strong>值得一提的是，BOSS 直聘的同行前程无忧股价也微跌 0.53%</strong>，<strong>同道猎聘股价连续两个交易日下跌。</strong></p><p>昨日中午 BOSS 直聘回应被实施网络安全审查，称高度重视并将积极配合网络安全审查工作，全面排查和防范网络安全风险。</p><p>据悉，BOSS 直聘于 6 月 11 日晚登陆纳斯达克，成为继智联招聘、前程无忧、猎聘之后的第四家互联网招聘上市企业，上市首日股价大涨 95.79%，市值超过前程无忧和猎聘的总和。</p><p>今年 6 月 10 日，<strong>第十三届全国人民代表大会常务委员会第二十九次会议通过了《中华人民共和国数据安全法》，其中第三十六条规定，" 非经中华人民共和国主管机关批准，境内的组织、个人不得向外国司法或者执法机构提供存储于中华人民共和国境内的数据。"</strong></p><p>也就是说，涉及个人信息和重要数据的出境将被管制，互联网企业要注意这点。</p><p>值得一提的是，<strong>在 3 家企业因为网络安全问题被查后，网络安全板块连续 2 个交易日收涨，今日 5 只个股涨幅在 5% 以上，永福股份和天喻信息涨停。</strong></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><strong><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60e44b826227686d5700079a_1024.jpg" data-height="178" data-width="830" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e44b826227686d5700079a_1024.jpg" referrerpolicy="no-referrer"></strong></div></div><p></p><p>此外，同日被宣布实施网络安全审查的运满满和货车帮主体公司满帮集团开盘跌超 20%，报 15.16 美元 / 股。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202107/60e45be57f780b963600001c_1024.jpg" data-height="1577" data-width="1170" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e45be57f780b963600001c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="zaker_div"><div class="zk_remark"><p>ZAKER 新闻出品  </p><p>文 / 黄嘉敏</p><p>关注食品快消、大消费、职场和教育</p><p>交流、爆料请加微信：ahuangnum7</p><p>编辑 / 肖邦</p></div><div class="edi_oper"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
