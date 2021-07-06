@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-e72e588983c080f375e6df742b5f1832_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=722'
 author: 知乎
 comments: false
-date: Mon, 05 Jul 2021 09:26:27 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-e72e588983c080f375e6df742b5f1832_1440w.jpg'
+date: Tue, 06 Jul 2021 04:35:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=722'
 ---
 
 <div>   
-嗜金水狙的回答<br><br><p>反向无线充电是一个有趣但没什么卵用的功能。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e72e588983c080f375e6df742b5f1832_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-c4c481eda62e17f3f56dcf7824ac9460_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e72e588983c080f375e6df742b5f1832_r.jpg" referrerpolicy="no-referrer"></figure><p>如果你在用8/12小时本机续航+充电盒提供额外2-3次完整充电的WF-1000XM4的话，那更是没有任何出场机会了。</p><p>不过，反过来说，iPhone的充电兼容性终于获得了飞跃的增长。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3f0a34dba48ffaa60d2db53120c06d44_1440w.jpg" data-rawwidth="960" data-rawheight="640" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3f0a34dba48ffaa60d2db53120c06d44_r.jpg" referrerpolicy="no-referrer"></figure><p>终于可以用iPhone用户的充电线给安卓机充电了。</p>  
+braveconquer的回答<br><br><p>如果没有容量更大的电池，那这个「反向充电」功能就有些多余了，如果像iPhone12一样的电池容量。</p><p>连自己电池都不够用，还给别人当充电宝不是扯蛋吗！！！</p><p>如果传闻真实现了，我更多地将它认为一种iPhone13的媒体炒作噱头。<br>7 => 8：无线充电<br>8=> XR：外形， Face ID<br>XR=>  11：夜间模式摄影<br>11=> 12：5G<br>12=> 13 ：反向充电 ？？？<br><br><br><br><br></p><p></p>  
 </div>
             

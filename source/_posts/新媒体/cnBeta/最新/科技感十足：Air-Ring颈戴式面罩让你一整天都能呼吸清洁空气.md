@@ -1,0 +1,19 @@
+
+---
+title: '科技感十足：Air-Ring颈戴式面罩让你一整天都能呼吸清洁空气'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/07/2b870c075dde5e7.webp'
+author: cnBeta
+comments: false
+date: Tue, 06 Jul 2021 06:38:35 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/07/2b870c075dde5e7.webp'
+---
+
+<div>   
+据外媒报道，下面这款设备看起来就像是直接从反乌托邦科幻小说中走出来的东西，但实际上它就在我们的现实生活中。<strong>近日，Biotlab推出了一款颈戴式可穿戴设备，它为穿戴者提供了一个磁性面罩及个人HEPA过滤、UV消毒空气供应功能。</strong><br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/2b870c075dde5e7.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/2b870c075dde5e7.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这款叫做Air-Ring的产品可以挂在佩戴者的脖子上，设备的核心部分位于背部，电池组位于胸前。它很容易穿戴，通过可调节双臂让面罩覆盖住佩戴者的面部。</p><p style="text-align: left;">据了解，空气会通过一个动力鼓风机吸入装置的后部，然后通过泡沫过滤器和高效空气过滤器，在被送入UV-C LED阵列和光催化杀菌器后，空气通过最后一组碳过滤器传送到可调节臂上。这些直接吹到佩戴者的嘴和鼻子区域据称不含病毒、病原体和颗粒物。电池可以持续8个小时，如果把它插入夹克口袋里的电源则可以运行更长的时间。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/5f6630e92f606cb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/5f6630e92f606cb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">调节臂上的一对LED灯可以让佩戴者的下半张脸发出不同颜色的光，除了让其看起来像戴着好莱坞太空头盔外没有其他特别的原因。</p><p style="text-align: left;">调节臂附近的磁性按钮可以让佩戴者打开和关闭一系列干净的面罩，它们都是,密封的。然而整个设计有一个问题，那就是如果向后移动脖子或转过头面罩仍会原地不动。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/d74dd5eb05bc73f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/d74dd5eb05bc73f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">当打开Air-Ring有些面部屏幕会通过磁力吸附在<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>背面，让新鲜空气吹到你的脸上。如果你真的想发疯，该公司似乎愿意把这个系统打造成一个全尺寸的罩，可以覆盖你的整个头部。</p><p style="text-align: left;">这不是新冠病毒口罩也不能提供N95型医用口罩级别的保护。不同于<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-1000003263.html" target="_blank">戴森</a>Airblade在佩戴者呼气时释放出病毒和病原体的是，Air-Ring</p><p style="text-align: left;">会向佩戴者提供个人专属的新鲜过滤空气。这种功能可以在很多方面起到作用，像佩戴者在一个污染严重的城市慢跑，这套设备就可以解决他的困扰。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/67fcf1d5d6fe8ae.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/67fcf1d5d6fe8ae.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">另外，很多过敏者都表示，如果他们睡在有空气<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C749" target="_blank">净化器</a>的房间里或在特斯拉中打开“生物危害防御模式”，他们的过敏症状就会得到改善。很多人不得不在尘土飞扬的地方度过时光。Air-Ring无疑能给这一类人带来福音。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/009e01b01a3774f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/009e01b01a3774f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/bae652c6e9f3556.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/bae652c6e9f3556.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/d357f868f8f4414.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/d357f868f8f4414.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Biotlab表示，他们正准备在Indiegogo上进行众筹活动来启动这款产品，不过目前还没有上线也没有提供价格相关信息，所以大家还需耐心等待。</p><p style="text-align: center;"><iframe src="//player.youku.com/embed/XNTE3ODQ3NTIxNg==" width="640" height="480" frameborder="0"></iframe></p>   
+</div>
+            
