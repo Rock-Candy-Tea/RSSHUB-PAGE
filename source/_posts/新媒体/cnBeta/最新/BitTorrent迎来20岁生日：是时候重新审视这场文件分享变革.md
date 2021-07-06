@@ -1,0 +1,19 @@
+
+---
+title: 'BitTorrent迎来20岁生日：是时候重新审视这场文件分享变革'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0706/ebf27a766eed1a4.jpg'
+author: cnBeta
+comments: false
+date: Tue, 06 Jul 2021 03:20:36 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0706/ebf27a766eed1a4.jpg'
+---
+
+<div>   
+<strong>20 年前，当时还籍籍无名的程序员布拉姆·科恩（Bram Cohen）推出了 BitTorrent，令他没有想到的是他的这项技术发明掀起了一场新的文件共享革命。</strong>当时，社交媒体还没有出现，但 BitTorrent 凭借着独特的文件共享协议，迅速受到了互联网用户的肯定和支持。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0706/ebf27a766eed1a4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0706/ebf27a766eed1a4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0706/dcd36d57cf5b067.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0706/dcd36d57cf5b067.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">甚至于当时，Cohen 都没有做什么推广。在 2001 年的 7 月 2 日，Cohen 在雅虎的一个留言板上写道：“我的新应用程序BitTorrent现在已经开始工作了，在这里看看吧”。</p><p style="text-align: left;">这可能是历史上比较令人沮丧的软件发布之一。官方网站由几行白底黑字的 HTML 代码组成，也没有给人留下什么印象。没有任何东西暗示 BitTorrent 将很快成为一个强大的机构。</p><p style="text-align: left;">虽然在推广上的投入几乎为零，但是它的创造者用编码的创造性弥补了这一点。Cohen 曾为 MojoNation 点对点网络背后的创业公司工作。该项目最终耗尽了资金而以失败告终，因此这位当时 25 岁的开发者继续专注于他自己的文件共享协议。</p><p style="text-align: left;">Cohen 当然不是这个领域的唯一程序员。当时，文件共享正在蓬勃发展，几十个新的应用程序正在涌现。Napster 已经奠定了基础，而且随着 MP3 的日益流行，共享也变得炙手可热。</p><p style="text-align: left;">然而，BitTorrent 是不同的。它通过专注于速度和去中心化，明显将自己与竞争对手区分开来。BitTorrent 不是简单地一次与一个人分享文件，而是创造了一群分享者，当更多人加入时，下载速度就会提高。</p><p style="text-align: left;">这种去中心化的设计无疑是非常新颖的。当时，大多数文件共享工具使用一个集中的基础设施，通过一个单一的软件访问。BitTorrent 作为一个开放的协议推出，与网络整合得很好。也许太好。</p><p style="text-align: left;">就在 BitTorrent 公开发布的几个月后，第一批“种子网站”就涌现出来。这些网站包括 Suprnova.org、Donkax.com、Bytemonsoon.com 和 Torrentse.cx。这些网站允许用户上传和分享音乐、照片、软件，甚至电影。向广大用户提供这些类型（通常是盗版）的文件在以前是不可能的，因为带宽和存储成本太高。有了 BitTorrent，这些网站只需要托管小型的 .torrent 文件，这被证明是一个改变游戏规则的方法。</p><p style="text-align: left;">BitTorrent 早期成功的部分原因是节省了成本，这使得快速分享大文件成为可能。这在今天听起来可能微不足道，但在拨号时代，在 YouTube 出现之前的几年，这是一场革命。</p><p style="text-align: left;">网络和 BitTorrent 之间的无缝连接也有其他的好处。它允许种子网站创建可搜索的索引，这反过来又可以被搜索引擎所接收。例如，Google，当时它还是一个蹒跚学步的孩子。在搜索引擎和口碑广告的帮助下，种子网站迅速发展。这包括海盗湾，它于 2003 年推出，尽管受到刑事起诉和两次警察搜查，但仍然存在。</p><p style="text-align: left;">在 21 世纪初，Torrent 的影响力越来越大，互联网供应商也注意到了这一点。据估计，BitTorrent 一度占到全球所有互联网流量的三分之一。这种流量对互联网供应商的基础设施是一个沉重的负担，一些大型的互联网服务供应商通过积极扼制 Torrents 流量来应对这种情况。这包括美国的康卡斯特以及许多外国的互联网服务供应商。</p><p style="text-align: left;">在某些人看来，运营商的限制活动是公共网络中立性辩论的开端。研究人员参与了测试，让人们看到他们的 ISP 是否在限制流量，并找出了最严重的违法者。同时，BitTorrent 协议被更新，通过协议头加密使节流更加困难，同时增加了 UTP 支持以减少 ISP 的负担。</p><p style="text-align: left;">科恩对协议的更新进行了监控，当时他已经成功地将他的协议转化为一家科技创业公司--BitTorrent Inc.，该公司筹集了数百万美元的风险投资。BitTorrent 公司与盗版网站没有任何关系，它专注于发展 BitTorrent，同时帮助艺术家和其他权利人分享内容。</p><p style="text-align: left;">2007 年，该公司推出了自己的视频商店“Torrent Entertainment Network”，与华纳兄弟等主要好莱坞电影公司合作，该视频商店从未盈利，最终在一年后关闭。</p><p style="text-align: left;">在随后的几年里，BitTorrent 公司专注于帮助艺术家推广他们的内容，包括通过BitTorrent Now，该公司仍然存在，但这些并不是重大的突破。</p><p style="text-align: left;">BitTorrent 公司最好的决定之一是在 2006 年做出的，当时它从瑞典开发者 Ludvig Strigeus 那里买下了 uTorrent 客户端。今天，uTorrent 仍然是主流的 Torrent 客户端，而 Strigeus 则继续使 Spotify 获得成功。</p><p style="text-align: left;">一些早期投资者将资金投入BitTorrent时，曾希望能大赚一笔，但该公司从未真正取得突破。来自uTorrent的收入帮助该公司维持运转，但大多数新的 Torrent 项目最终都被解散了。</p><p style="text-align: left;">Cohen 对该公司也并不总是满意。2018 年，BitTorrent 公司被 TRON 基金会收购，一个月后 BitTorrent 的发明者宣布离职。近年来，BitTorrent公司的 "加密货币 "关注度很高。在TRON的羽翼下，BitTorrent代币（BTT）被推出，Torrent 用户可以用它来支付更快的下载速度，或在播种时赚取。</p><p style="text-align: left;">除了设计复杂的谜题之外，科恩本人也对加密货币产生了兴趣。BitTorrent的发明者是去年5月早些时候推出的 "更环保 "的Chia币的推动者之一。在媒体和公众眼中，Torrent 经常与盗版联系在一起。值得强调的是，它远不止于此。</p>   
+</div>
+            
