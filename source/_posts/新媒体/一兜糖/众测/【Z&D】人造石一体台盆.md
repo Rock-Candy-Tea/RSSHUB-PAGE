@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202106/25/8764da/f9e832c1aa012a78.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-07-05 15:08:53
+date: 2021-07-06 00:23:46
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202106/25/8764da/f9e832c1aa012a78.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.07.05                        <br>【Z&D】人造石一体台盆<br>                            数量 ：5<br>                            实际价格 ：2459元<br>                            活动申请中<br>                            21人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202106/25/8764da/f9e832c1aa012a78.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.07.05                        <br>【Z&D】人造石一体台盆<br>                            数量 ：5<br>                            实际价格 ：2459元<br>                            名单确认中<br>                            22人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202106/25/8764da/f9e832c1aa012a78.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
