@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210706/1625536518_9395
 今年5月时任天堂成功起诉盗版ROM网站ROMUniverse，理由是其所有者Matthew Storman上传和分发盗版任天堂游戏，并通过收取付费订阅费用从大规模侵犯版权行为中获利。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210706/1625536518_939575.png" alt="任天堂再次对ROM网站发起诉讼 试图防止网站重新上线" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210706/1625536518_939575.png" alt="任天堂再次对ROM网站发起诉讼 试图防止网站重新上线" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 任天堂赢得了超过210万美元的赔偿金，但未能获得永久禁令来阻止网站重新上线。
@@ -35,7 +35,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210706/1625536518_9395
 任天堂在提交的文件中表示，Storman告诉其律师，他不排除重新上线该网站的可能性。“因此，被告威胁要继续运营ROMUniverse以散布游戏ROM，使用他过去几年使用的同一网站大规模侵犯任天堂的版权和商标权，因此必须发出禁令，”任天堂如此辩称。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210706/1625536762_588990.png" alt="任天堂再次对ROM网站发起诉讼 试图防止网站重新上线" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210706/1625536762_588990.png" alt="任天堂再次对ROM网站发起诉讼 试图防止网站重新上线" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 任天堂还表示，Storman未能支付他所欠的210万美元中的任何一笔，证明他无视之前的协议。由于斯托曼声称自己失业，因此同意他将以每次50美元的方式分期支付210万美元，但任天堂抱怨他甚至还没有支付任何款项。
