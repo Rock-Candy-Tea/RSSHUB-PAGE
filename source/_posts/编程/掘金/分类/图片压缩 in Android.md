@@ -46,9 +46,9 @@ thumbnail: 'https://gitee.com/hss012489/picbed/raw/master/picgo/1617068183123-16
 <p>quality: 取值0-100.</p>
 <p>一般来说,手机/相机拍照的质量为96,98.</p>
 <p>其实肉眼看,80和100并无明显差别.</p>
-<p>用于存硬盘收藏的图片,推荐85</p>
+<p>用于存硬盘收藏的图片,推荐80-90</p>
 <p>用于聊天,晒朋友圈之类的上传,推荐70</p>
-<p>用于跑算法模型的上传,具体看算法的要求. 可以使用85的webp</p>
+<p>用于跑算法模型的上传,具体看算法的要求. 可以使用80-90的webp</p>
 <p><img src="https://gitee.com/hss012489/picbed/raw/master/picgo/1616405892708-image-20210322173812647.jpg" alt="image-20210322173812647" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><img src="https://gitee.com/hss012489/picbed/raw/master/picgo/1616405956825-0-%E5%A9%BA%E6%BA%902.jpeg" alt="0-婺源2" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><img src="https://gitee.com/hss012489/picbed/raw/master/picgo/1616406082524-image-20210322174122498.jpg" alt="image-20210322174122498" loading="lazy" referrerpolicy="no-referrer"></p>
