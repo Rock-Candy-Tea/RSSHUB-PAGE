@@ -17,7 +17,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/42ee7010c48a49f58f
 <ul>
 <li>
 <h4 data-id="heading-0">界面渲染流程</h4>
-具体流程可以参考<a href="https://juejin.cn/post/6847902220403343374" target="_blank">图片渲染初探</a>这里就大概讲一下图片渲染的流程，大体上可以分为三个阶段就是 <code>CPU</code>处理阶段 <code>GPU</code>处理阶段和视频控制器显示阶段。
+具体流程可以参考<a href="https://juejin.cn/post/6847902220403343374" target="_blank" title="https://juejin.cn/post/6847902220403343374">图片渲染初探</a>这里就大概讲一下图片渲染的流程，大体上可以分为三个阶段就是 <code>CPU</code>处理阶段 <code>GPU</code>处理阶段和视频控制器显示阶段。
 <ol>
 <li><code>CPU</code>主要是计算出需要渲染的模型数据</li>
 <li><code>GPU</code>主要是根据 <code>CPU</code>提供的渲染模型数据渲染图片然后存到帧缓冲区</li>

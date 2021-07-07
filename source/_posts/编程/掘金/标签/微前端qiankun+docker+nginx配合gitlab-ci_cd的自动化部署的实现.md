@@ -14,14 +14,14 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99bde409c3234317bc
 
 <div>   
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h2 data-id="heading-0">往期文章推荐</h2>
-<p><a href="https://juejin.cn/post/6976222927742042119" target="_blank">一篇文章教你搭建一个前后端分离（gitlab-cicd+docker+vue+django）的自动化部署的网站，干货满满！</a></p>
-<p><a href="https://juejin.cn/post/6964289384845672478" target="_blank">Docker入门，这一篇就够了</a></p>
+<p><a href="https://juejin.cn/post/6976222927742042119" target="_blank" title="https://juejin.cn/post/6976222927742042119">一篇文章教你搭建一个前后端分离（gitlab-cicd+docker+vue+django）的自动化部署的网站，干货满满！</a></p>
+<p><a href="https://juejin.cn/post/6964289384845672478" target="_blank" title="https://juejin.cn/post/6964289384845672478">Docker入门，这一篇就够了</a></p>
 <h2 data-id="heading-1">技术栈简介</h2>
 <ul>
 <li>微前端</li>
 <li>qiankun</li>
-<li><a href="https://juejin.cn/post/6976222927742042119#heading-2" target="_blank">docker</a> 不了解的建议先看一下我之前的介绍，一看就明白</li>
-<li><a href="https://juejin.cn/post/6976222927742042119#heading-4" target="_blank">gitlab-ci/cd</a> 这里是自动化部署的知识，可以了解一下</li>
+<li><a href="https://juejin.cn/post/6976222927742042119#heading-2" target="_blank" title="https://juejin.cn/post/6976222927742042119#heading-2">docker</a> 不了解的建议先看一下我之前的介绍，一看就明白</li>
+<li><a href="https://juejin.cn/post/6976222927742042119#heading-4" target="_blank" title="https://juejin.cn/post/6976222927742042119#heading-4">gitlab-ci/cd</a> 这里是自动化部署的知识，可以了解一下</li>
 <li>nginx</li>
 </ul>
 <h3 data-id="heading-2">什么是微前端</h3>
@@ -48,7 +48,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99bde409c3234317bc
 <h3 data-id="heading-3">什么是qiankun</h3>
 <p>qiankun 是一个生产可用的微前端框架，它基于 single-spa，具备 js 沙箱、样式隔离、HTML Loader、预加载 等微前端系统所需的能力。qiankun 可以用于任意 js 框架，微应用接入像嵌入一个 iframe 系统一样简单。</p>
 <h3 data-id="heading-4">qiankun 的核心设计理念</h3>
-<p>引用地址：<a href="https://qiankun.umijs.org/zh/guide" target="_blank" rel="nofollow noopener noreferrer">qiankun.umijs.org/zh/guide</a></p>
+<p>引用地址：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fqiankun.umijs.org%2Fzh%2Fguide" target="_blank" rel="nofollow noopener noreferrer" title="https://qiankun.umijs.org/zh/guide" ref="nofollow noopener noreferrer">qiankun.umijs.org/zh/guide</a></p>
 <ul>
 <li>
 <p>简单</p>
@@ -60,7 +60,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99bde409c3234317bc
 </li>
 </ul>
 <h3 data-id="heading-5">为什么不用Iframe</h3>
-<p>引用地址：<a href="https://www.yuque.com/kuitos/gky7yw/gesexv" target="_blank" rel="nofollow noopener noreferrer">www.yuque.com/kuitos/gky7…</a></p>
+<p>引用地址：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.yuque.com%2Fkuitos%2Fgky7yw%2Fgesexv" target="_blank" rel="nofollow noopener noreferrer" title="https://www.yuque.com/kuitos/gky7yw/gesexv" ref="nofollow noopener noreferrer">www.yuque.com/kuitos/gky7…</a></p>
 <p><em>如果不考虑体验问题，iframe 几乎是最完美的微前端解决方案了。</em></p>
 <p>iframe 最大的特性就是提供了浏览器原生的硬隔离方案，不论是样式隔离、js 隔离这类问题统统都能被完美解决。但他的最大问题也在于他的隔离性无法被突破，导致应用间上下文无法被共享，随之带来的开发体验、产品体验的问题。</p>
 <ol>
@@ -71,7 +71,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99bde409c3234317bc
 </ol>
 <p>其中有的问题比较好解决(问题1)，有的问题我们可以睁一只眼闭一只眼(问题4)，但有的问题我们则很难解决(问题3)甚至无法解决(问题2)，而这些无法解决的问题恰恰又会给产品带来非常严重的体验问题， 最终导致我们舍弃了 iframe 方案。</p>
 <h3 data-id="heading-6">微前端的核心价值</h3>
-<p><a href="https://www.yuque.com/kuitos/gky7yw/rhduwc" target="_blank" rel="nofollow noopener noreferrer">www.yuque.com/kuitos/gky7…</a></p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.yuque.com%2Fkuitos%2Fgky7yw%2Frhduwc" target="_blank" rel="nofollow noopener noreferrer" title="https://www.yuque.com/kuitos/gky7yw/rhduwc" ref="nofollow noopener noreferrer">www.yuque.com/kuitos/gky7…</a></p>
 <h2 data-id="heading-7">项目的构想</h2>
 <p>在说具体技术实现前，我们先来看下我们想要实现个什么东西。</p>
 <h3 data-id="heading-8">微前端示意图</h3>

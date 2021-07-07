@@ -5,24 +5,24 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://picsum.photos/400/300?random=6453'
+headimg: 'https://picsum.photos/400/300?random=2998'
 author: 掘金
 comments: false
 date: Wed, 08 Mar 2017 19:19:39 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6453'
+thumbnail: 'https://picsum.photos/400/300?random=2998'
 ---
 
 <div>   
-<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p>原文地址：<a href="http://link.zhihu.com/?target=https%3A//github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md%23%25E7%259B%25AE%25E5%25BD%2595">pablohpsilva/vuejs-component-style-guide<i></i></a></p>
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p>原文地址：<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Fpablohpsilva%2Fvuejs-component-style-guide%2Fblob%2Fmaster%2FREADME-CN.md%2523%2525E7%25259B%2525AE%2525E5%2525BD%252595" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md%23%25E7%259B%25AE%25E5%25BD%2595" ref="nofollow noopener noreferrer">pablohpsilva/vuejs-component-style-guide<i></i></a></p>
 <h2 data-id="heading-0">目标</h2>
-<p>本规范提供了一种统一的编码规范来编写 <a href="http://link.zhihu.com/?target=http%3A//vuejs.org/">Vue.js<i></i></a> 代码。这使得代码具有如下的特性：</p>
+<p>本规范提供了一种统一的编码规范来编写 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Fvuejs.org%2F" target="_blank" title="http://link.zhihu.com/?target=http%3A//vuejs.org/" ref="nofollow noopener noreferrer">Vue.js<i></i></a> 代码。这使得代码具有如下的特性：</p>
 <ul>
     <li>其它开发者或是团队成员更容易阅读和理解。</li>
     <li>IDEs 更容易理解代码，从而提供高亮、格式化等辅助功能</li>
     <li>更容易使用现有的工具</li>
     <li>更容易实现缓存以及代码包的分拆</li>
 </ul>
-<p>本指南为 <a href="http://link.zhihu.com/?target=https%3A//github.com/voorhoede">De Voorhoede<i></i></a> 参考 <a href="http://link.zhihu.com/?target=https%3A//github.com/voorhoede/riotjs-style-guide">RiotJS 编码规范<i></i></a> 而写。</p>
+<p>本指南为 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Fvoorhoede" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/voorhoede" ref="nofollow noopener noreferrer">De Voorhoede<i></i></a> 参考 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Fvoorhoede%2Friotjs-style-guide" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/voorhoede/riotjs-style-guide" ref="nofollow noopener noreferrer">RiotJS 编码规范<i></i></a> 而写。</p>
 <h2 data-id="heading-1">目录</h2>
 <ul>
     <li>基于模块开发</li>
@@ -55,7 +55,7 @@ thumbnail: 'https://picsum.photos/400/300?random=6453'
 </ul>
 <p>同时还需要注意：</p>
 <ul>
-    <li>必须符合自定义元素规范: <a href="http://link.zhihu.com/?target=https%3A//www.w3.org/TR/custom-elements/%23concepts">使用连字符<i></i></a>分隔单词，切勿使用保留字。</li>
+    <li>必须符合自定义元素规范: <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fwww.w3.org%2FTR%2Fcustom-elements%2F%2523concepts" target="_blank" title="http://link.zhihu.com/?target=https%3A//www.w3.org/TR/custom-elements/%23concepts" ref="nofollow noopener noreferrer">使用连字符<i></i></a>分隔单词，切勿使用保留字。</li>
     <li>app- 前缀作为命名空间: 如果非常通用的话可使用一个单词来命名，这样可以方便于其它项目里复用。</li>
 </ul>
 <h3 data-id="heading-4">为什么？</h3>
@@ -113,7 +113,7 @@ thumbnail: 'https://picsum.photos/400/300?random=6453'
 </template>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>组件 props 原子化<br></p>
-<p>虽然 Vue.js 支持传递复杂的 JavaScript 对象通过 props 属性，但是你应该尽可能的使用原始类型的数据。尽量只使用<a href="http://link.zhihu.com/?target=https%3A//developer.mozilla.org/en-US/docs/Glossary/Primitive">JavaScript 原始类型<i></i></a>(字符串、数字、布尔值) 和 函数。尽量避免复杂的对象。</p>
+<p>虽然 Vue.js 支持传递复杂的 JavaScript 对象通过 props 属性，但是你应该尽可能的使用原始类型的数据。尽量只使用<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FGlossary%2FPrimitive" target="_blank" title="http://link.zhihu.com/?target=https%3A//developer.mozilla.org/en-US/docs/Glossary/Primitive" ref="nofollow noopener noreferrer">JavaScript 原始类型<i></i></a>(字符串、数字、布尔值) 和 函数。尽量避免复杂的对象。</p>
 <h3 data-id="heading-8">为什么？</h3>
 <ul>
     <li>使得组件 API 清晰直观</li>
@@ -143,7 +143,7 @@ thumbnail: 'https://picsum.photos/400/300?random=6453'
 <h3 data-id="heading-12">怎么做？</h3>
 <ul>
     <li>提供默认值</li>
-    <li>使用 type 属性<a href="http://link.zhihu.com/?target=http%3A//vuejs.org/v2/guide/components.html%23Prop-Validation">校验类型<i></i></a></li>
+    <li>使用 type 属性<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Fvuejs.org%2Fv2%2Fguide%2Fcomponents.html%2523Prop-Validation" target="_blank" title="http://link.zhihu.com/?target=http%3A//vuejs.org/v2/guide/components.html%23Prop-Validation" ref="nofollow noopener noreferrer">校验类型<i></i></a></li>
     <li>使用 props 之前先检查该 prop 是否存在</li>
 </ul> <pre><code class="copyable"><template>
   <input type="range" v-model="value" :max="max" :min="min">
@@ -209,8 +209,8 @@ export default &#123;
     <li>导出一个清晰、组织有序的组件，使得代码易于阅读和理解。同时也便于标准化。</li>
     <li>按首字母排序属性，data, computed, watches 和 methods 使得属性便于查找。</li>
     <li>合理组织，使得组件易于阅读。(name; extends; props, data and computed; components; watch and methods; lifecycle methods, 等.);</li>
-    <li>使用 name 属性。借助于<a href="http://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd%3Fhl%3Den">vue devtools<i></i></a>可以让你更方便的测试</li>
-    <li>合理的 CSS 结构，如 <a href="http://link.zhihu.com/?target=https%3A//medium.com/tldr-tech/bem-blocks-elements-and-modifiers-6b3b0af9e3ea%23.bhnomd7gw">BEM<i></i></a> 或 oo<a href="http://link.zhihu.com/?target=https%3A//github.com/rstacruz/rscss">css<i></i></a>        - <a href="http://link.zhihu.com/?target=https%3A//github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md%23%25E4%25BD%25BF%25E7%2594%25A8%25E7%25BB%2584%25E4%25BB%25B6%25E5%2590%258D%25E4%25BD%259C%25E4%25B8%25BA%25E6%25A0%25B7%25E5%25BC%258F%25E4%25BD%259C%25E7%2594%25A8%25E5%259F%259F%25E7%25A9%25BA%25E9%2597%25B4">详情?<i></i></a>;</li>
+    <li>使用 name 属性。借助于<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fvuejs-devtools%2Fnhdogjmejiglipccpnnnanhbledajbpd%253Fhl%253Den" target="_blank" title="http://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd%3Fhl%3Den" ref="nofollow noopener noreferrer">vue devtools<i></i></a>可以让你更方便的测试</li>
+    <li>合理的 CSS 结构，如 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fmedium.com%2Ftldr-tech%2Fbem-blocks-elements-and-modifiers-6b3b0af9e3ea%2523.bhnomd7gw" target="_blank" title="http://link.zhihu.com/?target=https%3A//medium.com/tldr-tech/bem-blocks-elements-and-modifiers-6b3b0af9e3ea%23.bhnomd7gw" ref="nofollow noopener noreferrer">BEM<i></i></a> 或 oo<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Frstacruz%2Frscss" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/rstacruz/rscss" ref="nofollow noopener noreferrer">css<i></i></a>        - <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Fpablohpsilva%2Fvuejs-component-style-guide%2Fblob%2Fmaster%2FREADME-CN.md%2523%2525E4%2525BD%2525BF%2525E7%252594%2525A8%2525E7%2525BB%252584%2525E4%2525BB%2525B6%2525E5%252590%25258D%2525E4%2525BD%25259C%2525E4%2525B8%2525BA%2525E6%2525A0%2525B7%2525E5%2525BC%25258F%2525E4%2525BD%25259C%2525E7%252594%2525A8%2525E5%25259F%25259F%2525E7%2525A9%2525BA%2525E9%252597%2525B4" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md%23%25E4%25BD%25BF%25E7%2594%25A8%25E7%25BB%2584%25E4%25BB%25B6%25E5%2590%258D%25E4%25BD%259C%25E4%25B8%25BA%25E6%25A0%25B7%25E5%25BC%258F%25E4%25BD%259C%25E7%2594%25A8%25E5%259F%259F%25E7%25A9%25BA%25E9%2597%25B4" ref="nofollow noopener noreferrer">详情?<i></i></a>;</li>
     <li>使用单文件 .vue 文件格式来组件代码</li>
 </ul>
 <h3 data-id="heading-18">怎么做？</h3>
@@ -255,13 +255,13 @@ export default &#123;
 <h3 data-id="heading-20">为什么？</h3>
 <ul>
     <li>开发者可以随意给事件命名，即使是原生事件的名字，这样会带来迷惑性。</li>
-    <li>过于宽松的事件命名可能与<a href="http://link.zhihu.com/?target=https%3A//vuejs.org/v2/guide/components.html%23DOM-Template-Parsing-Caveats">DOM模板不兼容<i></i></a>。</li>
+    <li>过于宽松的事件命名可能与<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fvuejs.org%2Fv2%2Fguide%2Fcomponents.html%2523DOM-Template-Parsing-Caveats" target="_blank" title="http://link.zhihu.com/?target=https%3A//vuejs.org/v2/guide/components.html%23DOM-Template-Parsing-Caveats" ref="nofollow noopener noreferrer">DOM模板不兼容<i></i></a>。</li>
 </ul>
 <h3 data-id="heading-21">怎么做？</h3>
 <ul>
     <li>事件命名也连字符命名</li>
     <li>一个事件的名字对应组件外的一组意义操作，如：upload-success, upload-error 以及 dropzone-upload-success, dropzone-upload-error (如果需要前缀的话)。</li>
-    <li>事件命名应该以动词(如 client-api-load) 或是 形容词(如 drive-upload-success)结尾。(<a href="http://link.zhihu.com/?target=https%3A//github.com/GoogleWebComponents/style-guide%23events">出处<i></i></a>)</li>
+    <li>事件命名应该以动词(如 client-api-load) 或是 形容词(如 drive-upload-success)结尾。(<a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2FGoogleWebComponents%2Fstyle-guide%2523events" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/GoogleWebComponents/style-guide%23events" ref="nofollow noopener noreferrer">出处<i></i></a>)</li>
 </ul><br>
 <h2 data-id="heading-22">避免 this.$parent</h2>
 <p>Vue.js 支持组件嵌套，并且子组件可访问父组件的上下文。访问组件之外的上下文违反了基于模块开发的第一原则。因此你应该尽量避免使用 this.$parent。</p>
@@ -388,7 +388,7 @@ export default &#123;
 <h1 data-id="heading-34">Range slider</h1>
 <h2 data-id="heading-35">功能</h2>
 <p>range slider 组件可通过拖动的方式来设置一个给定范围内的数值。</p>
-<p>该模块使用 <a href="http://link.zhihu.com/?target=http%3A//refreshless.com/nouislider/">noUiSlider<i></i></a> 来实现夸浏览器和 touch 功能的支持。</p>
+<p>该模块使用 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Frefreshless.com%2Fnouislider%2F" target="_blank" title="http://link.zhihu.com/?target=http%3A//refreshless.com/nouislider/" ref="nofollow noopener noreferrer">noUiSlider<i></i></a> 来实现夸浏览器和 touch 功能的支持。</p>
 <h2 data-id="heading-36">如何使用</h2>
 <p><range-slider> 支持如下的自定义属性：</p>* attributetypedescriptionminNumber
 <p>可拖动的最小值.maxNumber可拖动的最大值.</p>
@@ -419,7 +419,7 @@ export default &#123;
 </ul>
 <p>为了校验工具能够校验 *.vue文件，你需要将代码编写在 <script>标签中，并使组件表达式简单化，因为校验工具无法理解行内表达式，配置校验工具可以访问全局变量 vue 和组件的 props。</p>
 <h2 data-id="heading-41">ESLint</h2>
-<p><a href="http://link.zhihu.com/?target=http%3A//eslint.org/">ESLint<i></i></a> 需要通过 <a href="http://link.zhihu.com/?target=https%3A//github.com/BenoitZugmeyer/eslint-plugin-html%23eslint-plugin-html">ESLint HTML 插件<i></i></a>来抽取组件中的代码。</p>
+<p><a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Feslint.org%2F" target="_blank" title="http://link.zhihu.com/?target=http%3A//eslint.org/" ref="nofollow noopener noreferrer">ESLint<i></i></a> 需要通过 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2FBenoitZugmeyer%2Feslint-plugin-html%2523eslint-plugin-html" target="_blank" title="http://link.zhihu.com/?target=https%3A//github.com/BenoitZugmeyer/eslint-plugin-html%23eslint-plugin-html" ref="nofollow noopener noreferrer">ESLint HTML 插件<i></i></a>来抽取组件中的代码。</p>
 <p>通过 .eslintrc 文件来配置 ESlint，这样 IED 可以更好的理解校验配置项。 ESlint，这样.</p><br> <pre><code class="copyable">&#123;
   "extends": "eslint:recommended",
   "plugins": ["html"],
@@ -435,7 +435,7 @@ export default &#123;
 <p>运行 ESLint</p><br> <pre><code class="copyable">eslint src/**/*.vue
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h2 data-id="heading-42">JSHint</h2>
-<p><a href="http://link.zhihu.com/?target=http%3A//jshint.com/">JSHint<i></i></a> 可以解析 HTML (使用 --extra-ext命令参数) 和 抽取代码（使用 --extract=auto命令参数).</p>
+<p><a href="https://link.juejin.cn/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2Fjshint.com%2F" target="_blank" title="http://link.zhihu.com/?target=http%3A//jshint.com/" ref="nofollow noopener noreferrer">JSHint<i></i></a> 可以解析 HTML (使用 --extra-ext命令参数) 和 抽取代码（使用 --extract=auto命令参数).</p>
 <p>通过 .jshintrc 文件来配置 ESlint，这样 IED 可以更好的理解校验配置项。</p><br> <pre><code class="copyable">&#123;
   "browser": true,
   "predef": ["opts", "vue"]

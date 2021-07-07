@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://picsum.photos/400/300?random=703'
+headimg: 'https://picsum.photos/400/300?random=29'
 author: 掘金
 comments: false
 date: Fri, 25 Jun 2021 00:20:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=703'
+thumbnail: 'https://picsum.photos/400/300?random=29'
 ---
 
 <div>   
@@ -20,7 +20,7 @@ thumbnail: 'https://picsum.photos/400/300?random=703'
 <pre><code class="hljs language-objective-c copyable" lang="objective-c">self.navigationController.navigationBar.barTintColor = [[RSLColorDarMode sharedInstance] colorProviderWithLightColor:[UIColor whiteColor] withDarColor:UIColorFromRGB(0x202020)];
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>多么正常的代码，多么符合常理的操作，但是在iOS15的页面失效，不起作用；</p>
-<p>无奈查找无果，便前去苹果论坛<a href="https://developer.apple.com/forums/thread/683265" title="寻找答案" target="_blank" rel="nofollow noopener noreferrer">寻找答案</a>，果然功夫不负有心人让我找到了。</p>
+<p>无奈查找无果，便前去苹果论坛<a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fforums%2Fthread%2F683265" title="https://developer.apple.com/forums/thread/683265" target="_blank" rel="nofollow noopener noreferrer" ref="nofollow noopener noreferrer">寻找答案</a>，果然功夫不负有心人让我找到了。</p>
 <blockquote>
 <p>As of iOS 15, UINavigationBar, UIToolbar, and UITabBar will use their scrollEdgeAppearance when your view controller's associated scroll view is at the appropriate edge (or always if you don't have a UIScrollView in your hierarchy, more on that below).</p>
 </blockquote>

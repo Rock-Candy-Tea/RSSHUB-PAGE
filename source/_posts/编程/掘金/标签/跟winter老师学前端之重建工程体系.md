@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://picsum.photos/400/300?random=4933'
+headimg: 'https://picsum.photos/400/300?random=7834'
 author: 掘金
 comments: false
 date: Tue, 06 Jul 2021 04:51:35 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4933'
+thumbnail: 'https://picsum.photos/400/300?random=7834'
 ---
 
 <div>   
@@ -274,7 +274,7 @@ State5 --> State1
 **前端架构: 大量页面需求带来的重复劳动问题--**<strong>复用</strong></p>
 <p>前端的产能是很高的，1:10比例左右都是正常的。比如就出现了一些专门做基础设施(架构)的前端开发！</p>
 <h3 data-id="heading-28">库--有复用价值的代码(包含组件，模块)</h3>
-<p>URL: 解析URL的各个部分，根据<a href="https://tools.ietf.org/html/rfc3986" target="_blank" rel="nofollow noopener noreferrer">URL标准</a>使用统一的库
+<p>URL: 解析URL的各个部分，根据<a href="https://link.juejin.cn/?target=https%3A%2F%2Ftools.ietf.org%2Fhtml%2Frfc3986" target="_blank" rel="nofollow noopener noreferrer" title="https://tools.ietf.org/html/rfc3986" ref="nofollow noopener noreferrer">URL标准</a>使用统一的库
 AJAX
 ENV: 判断处于什么环境: 如浏览器环境(又分为什么浏览器)， 又如微信环境，又如判断是什么型号的手机</p>
 <h3 data-id="heading-29">组件--UI上多次出现的元素</h3>
