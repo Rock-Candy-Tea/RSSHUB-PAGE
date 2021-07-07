@@ -139,6 +139,12 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202107/02/150942fwdyx8u8qx88
 </div><ul><li><strong>“梦”见未来——创梦天地2021媒体沙龙</strong><br>
 </li></ul><br>
 <div align="left">主办方：创梦天地</div><div align="left">活动时间：2021年7月30日</div><div align="left">活动地点：上海</div><div align="left">活动报名地址：定向邀请</div><br>
+<div align="left"><ul><li><strong>“云”见未来 小云互娱战略合作发布会</strong><br>
+</li></ul><br>
+主办方：小云互娱<br>
+活动时间：2021年7月30日 15:00 ～ 2021年7月30日 18:00<br>
+活动地点：上海浦东丽晶酒店宴会厅<br>
+活动报名地址：定向邀请</div><br>
 <br>
 <strong><font size="4"><font color="#de5650">7月31日</font></font></strong><br>
 <hr class="l"><br>
