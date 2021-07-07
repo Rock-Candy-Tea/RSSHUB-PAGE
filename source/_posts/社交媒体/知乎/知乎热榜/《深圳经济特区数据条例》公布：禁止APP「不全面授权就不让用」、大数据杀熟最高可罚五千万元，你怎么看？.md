@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9183'
+headimg: 'https://pic1.zhimg.com/v2-2607e69724477f3fb006b11d262f118e_1440w.jpg'
 author: 知乎
 comments: false
-date: Wed, 07 Jul 2021 03:03:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9183'
+date: Wed, 07 Jul 2021 02:11:46 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-2607e69724477f3fb006b11d262f118e_1440w.jpg'
 ---
 
 <div>   
-琴梨梨的回答<br><br><p>利益相关：个人开发者</p><p>就这么说吧，强制授权绝对只有坏，没有蠢</p><p>如果只是原始的蠢或者懒，那么最简单的是不做权限申请或者不管用户有没有同意（我就是这么干的，老懒狗了），用户自己给权限，不给的话用到必须用权限的功能就报错或者闪退，这是第一层</p><p>稍微不那么懒一点的，做个try catch，然后如果用户不授权就提示一下但是不跳转，这是第二层</p><p>再稍微勤快一点的，提示后加个跳转授权页面，减少用户点击次数，如果用户拒绝也不管，这是第三层</p><p>再勤快且坏的，才会做不授权不给用，这是第四层</p><p>还有更勤快且坏到祖坟冒烟的，不但不授权不给用，用app ops或者空白通行证骗过去后还要不给用，这一层大概是114514层，恶臭到家了</p><p>哦对了还有个更恶臭的1919810层，使用漏洞强读数据，早期部分root工具存在漏洞可以无需授权获取root权限，有些软件直接漏洞拿下root权限搞事，还有些自带溢出注入或是调用隐藏api的，实现静默安装等等</p><p>当然最恶臭的还是-1层的脚本小子，不授权不给用，授权了就把你锁机了（设备管理员权限和无障碍权限都不能乱给！！！）</p><p><br></p><p>做到第三层是用户体验比较好的，第一层主要都是个人开发者不在乎闪退率的。</p><h2>第四层往上，一律都是大坏比，花费大量额外成本故意恶心用户，心里只有算盘没有良心</h2>  
+王瑞恩的回答<br><br><p>不得不说，还挺向国际接轨的（这次是褒义），能够注意细化对「同意授权」的定义，避免滥用用户的同意。</p><p>很多时候，我们都不知道自己同意授权了什么东西。譬如说，App 《用户协议》里问：我能不能了解一下你的情况，好给你进行精准推荐。你想，多大点事啊，不就是为了方便刷小视频吗，就点了。</p><p>好家伙，你可不知道对方「为了进行精准推荐」可以干多少事，从搜索了「谷饲牛排」，到相册里存了改装皮卡的照片，再到睡前大喊三声入关，都给你收集了 -- 毕竟，你已经喂了进行精准推荐，同意了对方获取信息嘛。（一个比较夸张的例子，大部分 App 吃相还没这么难看。）</p><p>这种做法，从国际范围来看，正在引起监管的重视。</p><p>欧盟《通用数据保护条例》（GDPR）关于用户对收集信息的「同意」做出了更加严格的要求。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-2607e69724477f3fb006b11d262f118e_1440w.jpg" data-caption data-size="normal" data-rawwidth="807" data-rawheight="365" data-default-watermark-src="https://pic3.zhimg.com/v2-e381a3bcac4d4fb8142c19b9a0a380bc_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-2607e69724477f3fb006b11d262f118e_r.jpg" referrerpolicy="no-referrer"></figure><p>GDPR Article 8 要求，互联网信息服务提供商<b>必须单独就信息收集征求用户同意</b>，也就是说，不能将征求授权的条款放在用户协议里，让用户点击同意用户协议时顺便同意一下。（事实上，谁会认真看用户协议啊？）。</p><p>对此，《深圳经济特区数据条例》也给予了重视，要求 App 不得将收集个人信息的条款写入用户协议、打包成「一揽子协议」而让用户稀里糊涂就同意了，必须单独做出告知并征集同意。</p><p>像这样的探索还有很多，比如，《深圳经济特区数据条例》禁止「不全面授权就不让用」，这一点也和 GDPR 走在了类似的方向上。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-cd68a2c020f885266345467b0e547331_1440w.jpg" data-caption data-size="normal" data-rawwidth="768" data-rawheight="496" data-default-watermark-src="https://pic4.zhimg.com/v2-2b528c23514e3ca24cee71382fecf57e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-cd68a2c020f885266345467b0e547331_r.jpg" referrerpolicy="no-referrer"></figure><p>GDPR 指出，如果用户除了同意收集信息之外别无他选，或者要付出一定的代价才能拒绝继续提供信息，那么就不是真正的同意。而《条例》也做出了要求，如果某项个人数据不是某项核心功能所必须的，那么 App 不得已用户不同意提供信息为由拒绝用户使用该项核心功能。</p><p>也就是说，App 必须提供一种不同意提供信息但依然能用的方法。</p><p>也就是说，如果《条例》全面落地的话，在未来一段时间，我们能看到越来越多的 App 提供不个性化、千人一面、不基于兴趣推荐的内容。</p><p>挺好，挺复古，我喜欢，还能省一点算法工程师 [惊喜]。</p>  
 </div>
             
