@@ -5,17 +5,17 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7716'
+headimg: 'https://picsum.photos/400/300?random=7169'
 author: 36kr
 comments: false
 date: Wed, 07 Jul 2021 00:20:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7716'
+thumbnail: 'https://picsum.photos/400/300?random=7169'
 ---
 
 <div>   
-<p>资情留言板”是36氪推出的新栏目。</p> 
-<p>资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。</p> 
-<p>本文是这个栏目的第2期，我们汇总了当下市场上的一些资产供需信息。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系（邮箱：zcjy@36kr.com）。</p> 
+<p>”资情留言板”是36氪推出的新栏目。</p> 
+<p>资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目<span style="letter-spacing: 0px;">。</span></p> 
+<p>本文是这个栏目的第2期，我们汇总了当下市场上的一些资产供需信息。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系（邮箱：zcjy@36kr.com），<span style="letter-spacing: 0px;">现阶段免费</span><span style="letter-spacing: 0px;">。</span></p> 
 <p>需要说明的是：“资情留言板”栏目的相关信息均为动态信息，可能因市场情况变化或者交易完成而失效。36氪仅提供相关交<a target="_blank" rel="noopener noreferrer" href="https://36kr.com/projectDetails/48311">易信</a>息，具体交易需交易相关方另行协商并签署有关协议，交易各方必须依靠自己的法律、审计和税务专家的专业知识来处理法律、监管、审计和税务问题，36氪无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p> 
 <h2><strong>一、资产求购</strong></h2> 
 <h2><strong>1、Shein 股份</strong></h2> 
@@ -57,7 +57,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7716'
 <p><strong>说明1 </strong></p> 
 <p><strong>需要说明的是：</strong>“资情留言板”栏目的相关信息均为动态信息，可能因市场情况变化或者交易完成而失效。36氪仅提供相关交<a class="project-link" data-id="48311" data-name="易信" data-logo="https://img.36krcdn.com/20200729/v2_6ce9e0ec323d426b83f20d1a4cf3bc02_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/48311" target="_blank">易信</a>息，具体交易需交易相关方另行协商并签署有关协议，交易各方必须依靠自己的法律、审计和税务专家的专业知识来处理法律、监管、审计和税务问题，36氪无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p> 
 <p><strong>说明2</strong></p> 
-<p>2021年6月22日，资情留言板第1期发布（《 <a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/1277884127217416">转让字节跳动老股、求购估值5亿元以内的保险科技类标的｜资情留言板第1 期 </a>》），共计收到103封咨询邮件（<strong>zcjy@36kr.com</strong>），经过我们筛选排查后筛选出35家有真实交易需求的机构、公司，并帮助其进行对接，目前交易仍在进行中，我们也会持续关注。如果你希望通过我们的资情留言板栏目发布求购或者出售资产信息，也欢迎与我们联系（<strong>zcjy@36kr.com</strong>）。</p> 
+<p>2021年6月22日，资情留言板第1期发布（《 <a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/1277884127217416">转让字节跳动老股、求购估值5亿元以内的保险科技类标的｜资情留言板第1 期 </a>》），共计收到103封咨询邮件（<strong>zcjy@36kr.com</strong>），经过我们筛选排查后筛选出35家有真实交易需求的机构、公司，并帮助其进行对接，目前交易仍在进行中，我们也会持续关注。如果你希望通过我们的资情留言板栏目发布求购或者出售资产信息，也欢迎与我们联系（<strong>zcjy@36kr.com</strong>），<span style="letter-spacing: 0px;">现阶段免费。</span></p> 
 <p> </p>  
 </div>
             
