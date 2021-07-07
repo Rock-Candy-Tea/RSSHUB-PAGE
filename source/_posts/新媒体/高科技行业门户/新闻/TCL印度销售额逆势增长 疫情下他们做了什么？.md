@@ -1,0 +1,19 @@
+
+---
+title: 'TCL印度销售额逆势增长 疫情下他们做了什么？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=5926'
+author: 高科技行业门户
+comments: false
+date: Wed, 07 Jul 2021 02:05:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5926'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">撰文/蓝科技</p><p style="text-indent: 2em; text-align: left;">彩电销售额逆势增长超过10%、华星光电面板工厂从未间断,在印度疫情特殊环境之下,TCL印度分公司以特有的韧性,取得了这份来之不易的成绩。</p><p style="text-indent: 2em; text-align: left;">蓝科技获悉,今年上半年在印度没有完全解除隔离的背景下,TCL印度分公司销售额同比增长超过10%。上半年TCL彩电在印度日均安装、总销量均已经超过去年同期。</p><p style="text-indent: 2em; text-align: left;">去年5月15日,印度全部解除隔离,而今年截止到6月20日,印度还未完全解除隔离。因此,在这个角度看TCL的表现,面对磨难,TCL今年更值得拥有掌声与鲜花。</p><p style="text-indent: 2em; text-align: left;">一,通过全渠道和软实力拉升TCL彩电在印度的销售额。</p><p style="text-indent: 2em; text-align: left;">客观地看,2020年突如其来的疫情,成为横亘在TCL印度高增长的一座大山。在此之前,TCL连续几年在印度彩电行业的增长速度跑赢大盘。</p><p style="text-indent: 2em; text-align: left;">疫情面前谁也无法独善其身。TCL印度团队面对疫情积极调整策略,从渠道与产品两个维度进行结构性调整。</p><p style="text-indent: 2em; text-align: left;">“2020年之前,TCL在印度线上线下双轮驱动,线下体验店已经取得了一定成效。但由于疫情导致销售模式出现变化,因此,我们集中精力在线上以多种形式展示产品。同时针对线下合作伙伴,通过成立专门的服务小组,动态与渠道商保持密切合作。解决他们需要的问题,在售后安装等服务方面做到快速执行,从而不影响用户购买后的体验。”印度TCL分公司总经理陈士凯说。</p><p style="text-indent: 2em; text-align: left;">TCL在印度有广泛的品牌基础和用户基础,弱化疫情影响的方法之一是,通过提升软实力进一步增加影响力。</p><p style="text-indent: 2em; text-align: left;">比如,从去年疫情爆发以后,TCL印度团队迅速做出调整,通过 与智能学习应用 TOPPSCHOLARS 合作,为印度学生们提供在线家庭学习解决方案。在内容方面,为了提供更丰富的内容,与印度娱乐流媒体平台 MX Player 建立合作伙伴关系,从而进一步丰富娱乐内容。</p><p style="text-indent: 2em; text-align: left;">2021年印度疫情没有明显的好转,但工作还要继续。身为印度分公司的总经理,在第二轮疫情爆发前后,陈士凯先后主持召开了两次会议,一次是核心客户会,第二次是核心员工会。</p><p style="text-indent: 2em; text-align: left;">“我需要给他们鼓舞士气,让他们充满激情与斗志。疫情一定不是全部,在疫情面前我们要展现TCL人不服输的性格。所有的苦难终将过去,我要让他们看到未来,让他们用双手创造未来。在特殊时期,相互的鼓励与扶持尤为重要。”陈士凯说。</p><p style="text-indent: 2em; text-align: left;">TCL印度团队因需而变。疫情下TCL以品质、品牌和价值发布的新产品向印度消费者表达着高端生活方式。</p><p style="text-indent: 2em; text-align: left;">6月30日,TCL印度发布了三款更代表生活品质的新品。其中包括TCL C825 迷你 LED 4K 电视带 1080p 摄像头,以及C725 和 C728 QLED 4K 电视。</p><p style="text-indent: 2em; text-align: left;">目前TCL 已在印度推出最新的 mini LED 和 QLED 系列电视。新阵容包括高级 C825 迷你 LED QLED 电视。蓝科技获悉,这是印度第一台Mini LED QLED 4K安卓电视。而C728 是一款专注于游戏的 QLED 电视,具有超低延迟,C725 带有视频通话摄像头,为印度第一台视频通话QLED 4K电视。所有新发布的C系列智能电视都运行最新的Android 11电视系统,并从第三季度开始,升级为最新的Google TV。</p><p style="text-indent: 2em; text-align: left;">TCL C825 配备 10 亿个量子点纳米晶体、杜比视界和内置光传感器,用户可根据周围的环境光条件优化亮度和对比度。TCL C825 还拥有 IMAX Enhanced 认证,能提供非凡的视觉和音频性能。除此以外,这款电视还配备了支持Google Duo视频通话的 1080p 广角摄像头,还支持手势控制。</p><p style="text-indent: 2em; text-align: left;">C825 配备 TCL AIPQ Gen 2 引擎,可实时处理内容并承诺检测和增强多达 6 张人脸。同时还配备了 Onkyo 2．1 音响系统及内置低音音响,可为用户提供身临其境的音频体验。</p><p style="text-indent: 2em; text-align: left;">TCL C728 是一款带有 Game Master 的 QLED 电视,它还支持杜比视界和全景声,超低延迟游戏模式也有望提升游戏体验。</p><p style="text-indent: 2em; text-align: left;">今年以来,印度疫情仍然处于深水区。TCL团队在保证团队员工健康的同时,积极与线上线下渠道商保持密切沟通。</p><p style="text-indent: 2em; text-align: left;">二,华星光电未受疫情影响搁浅而是持续推动。</p><p style="text-indent: 2em; text-align: left;">了解TCL的人都知道,早在2019年9月,TCL华星光电印度模组项目就已经正式动工,项目一期规划年产出800万片32英寸至75英寸大尺寸电视面板和3000万片3．5英寸至8英寸中小尺寸手机面板。在 11 条生产线中,5 条将用于电视面板,6 条将用于手机显示器,预计将在2020年上半年开始量产。</p><p style="text-indent: 2em; text-align: left;">但疫情打乱了所有的计划。</p><p style="text-indent: 2em; text-align: left;">2020年5月,印度政府批准项目开工,此后印度疫情爆发。人员短缺、施工、设备运输等一系列问题,成为不可逾越的一座大山。尽管如此,华星光电在印度仍然艰难推动。据悉,TCL集团位于印度安得拉邦蒂鲁帕蒂的面板工厂将在今年第四季度启动生产。</p><p style="text-indent: 2em; text-align: left;">没有经历过印度磨难的人,无法想象印度的环境。在特殊背景下,TCL彩电销售额逆势增长、华星光电面板项目年底正式启动,在艰难的环境中,TCL印度团队做的这两件事情永远值得铭记。</p><p style="text-indent: 2em; text-align: left;">本文原创于蓝科技 未经授权任何网站及平台不得转载 侵权必究。</p> 
+  
+</div>
+            
