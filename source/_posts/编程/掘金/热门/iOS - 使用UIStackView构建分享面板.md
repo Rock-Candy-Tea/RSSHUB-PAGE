@@ -230,6 +230,6 @@ public enum LGShareTypeEnum &#123;
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b10a60616514c90b9c62ab0cbc4a755~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-07-02 下午4.50.03.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-8">四、最后</h2>
 <p>iOS9之后 使用UIStackView，不用考虑views坐标，类似安卓的线性布局。使用非常舒服，方便。
-项目github地址 ：<a href="https://github.com/Qinzhao/LGShareViewTool" target="_blank" rel="nofollow noopener noreferrer">github.com/Qinzhao/LGS…</a></p></div>  
+项目github地址 ：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FQinzhao%2FLGShareViewTool" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/Qinzhao/LGShareViewTool" ref="nofollow noopener noreferrer">github.com/Qinzhao/LGS…</a></p></div>  
 </div>
             

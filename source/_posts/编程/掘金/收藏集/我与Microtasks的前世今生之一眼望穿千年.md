@@ -14,11 +14,11 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2
 
 <div>   
 <div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><blockquote>
-<p>转自IMWeb社区，作者：孙世吉，<a target="_blank" href="http://imweb.io/topic/5bb9fd3779ddc80f36592f47">原文链接</a></p>
+<p>转自IMWeb社区，作者：孙世吉，<a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fimweb.io%2Ftopic%2F5bb9fd3779ddc80f36592f47" title="http://imweb.io/topic/5bb9fd3779ddc80f36592f47" ref="nofollow noopener noreferrer">原文链接</a></p>
 </blockquote>
 <p>本文有标题党之嫌，内含大量Microtaks相关总结性信息，请谨慎服用。</p>
 <h2 data-id="heading-0">Google Developer Day China 2018 by Jake Archibald</h2>
-<p>2018年9月21日，虽然没有参加该场GDD，但是也有幸拜读了百度@小蘑菇小哥总结的文章<a target="_blank" href="https://zhuanlan.zhihu.com/p/45111890">深入浏览器的事件循环(GDD@2018)</a>,配注的说明插图形象生动，文终的click代码也很有意思，推荐大家阅读。这里就先恬不知耻的将该文的精华以及一些自己的总结陈列如下:</p>
+<p>2018年9月21日，虽然没有参加该场GDD，但是也有幸拜读了百度@小蘑菇小哥总结的文章<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F45111890" title="https://zhuanlan.zhihu.com/p/45111890" ref="nofollow noopener noreferrer">深入浏览器的事件循环(GDD@2018)</a>,配注的说明插图形象生动，文终的click代码也很有意思，推荐大家阅读。这里就先恬不知耻的将该文的精华以及一些自己的总结陈列如下:</p>
 <p></p><figure><img src="https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <table>
 <thead>
@@ -78,7 +78,7 @@ callback();
 callback();
 <span class="copy-code-btn">复制代码</span></code></pre><h2 data-id="heading-2">Microtasks 与 Promise A+</h2>
 <p>当然，上文解决了本人关于Microtasks的相关疑虑 (<s>特别是有人拿出一段参杂setTimeout和Promise的代码让你看代码输出顺序时</s>) 的同时，也让我回忆起似乎曾几何时也在哪里看到过关于Microtask的字眼。</p>
-<p>经过多日的寻找，终于在以前写过的一片关于Promise的总结文章 <a target="_blank" href="http://imweb.io/topic/57a0760393d9938132cc8da9">打开Promise的正确姿势</a> 里找到了。该文通过一个实例说明了新建Promise的代码是会立即执行的，并不会放到异步队列里:</p>
+<p>经过多日的寻找，终于在以前写过的一片关于Promise的总结文章 <a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fimweb.io%2Ftopic%2F57a0760393d9938132cc8da9" title="http://imweb.io/topic/57a0760393d9938132cc8da9" ref="nofollow noopener noreferrer">打开Promise的正确姿势</a> 里找到了。该文通过一个实例说明了新建Promise的代码是会立即执行的，并不会放到异步队列里:</p>
 <pre><code lang="javascript" class="copyable"><span>var</span> d = <span>new</span> <span>Date</span>();
 
 <span>// 创建一个promise实例，该实例在2秒后进入fulfilled状态</span>
@@ -99,17 +99,17 @@ promise2.then(
 <pre><code lang="bash" class="copyable">result: resolve from promise 1 2002
 <span class="copy-code-btn">复制代码</span></code></pre><p>我们得到两点结论:</p>
 <ul>
-<li>验证了Promise/A+中的<a target="_blank" href="https://promisesaplus.com/#point-49">2.3.2规范</a></li>
+<li>验证了Promise/A+中的<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fpromisesaplus.com%2F%23point-49" title="https://promisesaplus.com/#point-49" ref="nofollow noopener noreferrer">2.3.2规范</a></li>
 <li>新建Promise的代码时会立即执行的 (运行时间是2秒而不是3秒)</li>
 </ul>
-<p>但是当时本人忽略了Promise/A+的相关<a target="_blank" href="https://promisesaplus.com/#point-67">注解内容</a>:</p>
+<p>但是当时本人忽略了Promise/A+的相关<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fpromisesaplus.com%2F%23point-67" title="https://promisesaplus.com/#point-67" ref="nofollow noopener noreferrer">注解内容</a>:</p>
 <blockquote>
-<p>Here “platform code” means engine，environment，and promise implementation code. In practice，this requirement ensures that <code>onFulfilled</code> and <code>onRejected</code> execute asynchronously，after the event loop turn in which <code>then</code> is called，and with a fresh stack. This can be implemented with either a “macro-task” mechanism such as <a target="_blank" href="https://html.spec.whatwg.org/multipage/webappapis.html#timers"><code>setTimeout</code></a> or <a target="_blank" href="https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/setImmediate/Overview.html#processingmodel"><code>setImmediate</code></a>，or with a “micro-task” mechanism such as <a target="_blank" href="https://dom.spec.whatwg.org/#interface-mutationobserver"><code>MutationObserver</code></a> or <a target="_blank" href="http://nodejs.org/api/process.html#process_process_nexttick_callback"><code>process.nextTick</code></a>. Since the promise implementation is considered platform code，it may itself contain a task-scheduling queue or “trampoline” in which the handlers are called.</p>
+<p>Here “platform code” means engine，environment，and promise implementation code. In practice，this requirement ensures that <code>onFulfilled</code> and <code>onRejected</code> execute asynchronously，after the event loop turn in which <code>then</code> is called，and with a fresh stack. This can be implemented with either a “macro-task” mechanism such as <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2Fwebappapis.html%23timers" title="https://html.spec.whatwg.org/multipage/webappapis.html#timers" ref="nofollow noopener noreferrer"><code>setTimeout</code></a> or <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdvcs.w3.org%2Fhg%2Fwebperf%2Fraw-file%2Ftip%2Fspecs%2FsetImmediate%2FOverview.html%23processingmodel" title="https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/setImmediate/Overview.html#processingmodel" ref="nofollow noopener noreferrer"><code>setImmediate</code></a>，or with a “micro-task” mechanism such as <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdom.spec.whatwg.org%2F%23interface-mutationobserver" title="https://dom.spec.whatwg.org/#interface-mutationobserver" ref="nofollow noopener noreferrer"><code>MutationObserver</code></a> or <a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fnodejs.org%2Fapi%2Fprocess.html%23process_process_nexttick_callback" title="http://nodejs.org/api/process.html#process_process_nexttick_callback" ref="nofollow noopener noreferrer"><code>process.nextTick</code></a>. Since the promise implementation is considered platform code，it may itself contain a task-scheduling queue or “trampoline” in which the handlers are called.</p>
 </blockquote>
 <p>是的，这就是本人与MicroTasks的第一次相遇，没有一见钟情还真是非常抱歉啊。</p>
-<p>该注解说明了Promise的 <code>onFulfilled</code> 和 <code>onRejected</code> 回调的执行只要确保是在 <code>then</code>被调用后异步执行就可以了。具体实现成 <a target="_blank" href="https://html.spec.whatwg.org/multipage/webappapis.html#timers"><code>setTimeout</code></a> 似的 macrotasks 机制或者 <a target="_blank" href="http://nodejs.org/api/process.html#process_process_nexttick_callback"><code>process.nextTick</code></a> 似的microtasks机制都可以，具体视平台代码而定。</p>
+<p>该注解说明了Promise的 <code>onFulfilled</code> 和 <code>onRejected</code> 回调的执行只要确保是在 <code>then</code>被调用后异步执行就可以了。具体实现成 <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2Fwebappapis.html%23timers" title="https://html.spec.whatwg.org/multipage/webappapis.html#timers" ref="nofollow noopener noreferrer"><code>setTimeout</code></a> 似的 macrotasks 机制或者 <a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fnodejs.org%2Fapi%2Fprocess.html%23process_process_nexttick_callback" title="http://nodejs.org/api/process.html#process_process_nexttick_callback" ref="nofollow noopener noreferrer"><code>process.nextTick</code></a> 似的microtasks机制都可以，具体视平台代码而定。</p>
 <h2 data-id="heading-3">为什么需要Microtasks</h2>
-<p>搜索引擎能找到的相关文章基本都指向了一篇<a target="_blank" href="https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly">《Tasks，microtasks，queues and schedules》</a>，也许这就是传说中原罪的发源之地吧。</p>
+<p>搜索引擎能找到的相关文章基本都指向了一篇<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fjakearchibald.com%2F2015%2Ftasks-microtasks-queues-and-schedules%2F%3Futm_source%3Dhtml5weekly" title="https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly" ref="nofollow noopener noreferrer">《Tasks，microtasks，queues and schedules》</a>，也许这就是传说中原罪的发源之地吧。</p>
 <blockquote>
 <p><strong>Microtasks</strong> are usually scheduled for things that should happen straight after the currently executing script，such as reacting to a batch of actions，or to make something async without taking the penalty of a whole new task.</p>
 </blockquote>
@@ -137,9 +137,9 @@ promise2.then(
 <blockquote>
 <p>A Job is an abstract operation that initiates an ECMAScript computation when no other ECMAScript computation is currently in progress. A Job abstract operation may be defined to accept an arbitrary set of job parameters.</p>
 </blockquote>
-<p>按照<a target="_blank" href="https://tc39.github.io/ecma262/#sec-jobs-and-job-queues">ECMAScript的规范</a>，是没有Microtasks的相关定义的，类似的有一个<code>jobs</code> 的概念，和Microtasks很相似.</p>
+<p>按照<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Ftc39.github.io%2Fecma262%2F%23sec-jobs-and-job-queues" title="https://tc39.github.io/ecma262/#sec-jobs-and-job-queues" ref="nofollow noopener noreferrer">ECMAScript的规范</a>，是没有Microtasks的相关定义的，类似的有一个<code>jobs</code> 的概念，和Microtasks很相似.</p>
 <h2 data-id="heading-4">相关应用</h2>
-<p><a target="_blank" href="https://github.com/vuejs/vue/blob/dev/src/core/util/next-tick.js">Vue - src/core/utils/next-tick.js</a> 中也有相关Macrotask和Microtask的实现</p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue%2Fblob%2Fdev%2Fsrc%2Fcore%2Futil%2Fnext-tick.js" title="https://github.com/vuejs/vue/blob/dev/src/core/util/next-tick.js" ref="nofollow noopener noreferrer">Vue - src/core/utils/next-tick.js</a> 中也有相关Macrotask和Microtask的实现</p>
 <pre><code lang="javascript" class="copyable"><span>let</span> microTimerFunc
 <span>let</span> macroTimerFunc
 <span>if</span> (<span>typeof</span> setImmediate !== <span>'undefined'</span> && isNative(setImmediate)) &#123;
@@ -181,10 +181,10 @@ promise2.then(
   microTimerFunc = macroTimerFunc
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><h2 data-id="heading-5">推荐阅读</h2>
-<p><a target="_blank" href="https://zhuanlan.zhihu.com/p/45111890">浏览器的 Event Loop</a></p>
-<p><a target="_blank" href="http://imweb.io/topic/57a0760393d9938132cc8da9">打开Promise的正确姿势</a></p>
-<p><a target="_blank" href="https://promisesaplus.com/">Promise/A+</a></p>
-<p><a target="_blank" href="https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly">Tasks，microtasks，queues and schedules</a></p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F45111890" title="https://zhuanlan.zhihu.com/p/45111890" ref="nofollow noopener noreferrer">浏览器的 Event Loop</a></p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fimweb.io%2Ftopic%2F57a0760393d9938132cc8da9" title="http://imweb.io/topic/57a0760393d9938132cc8da9" ref="nofollow noopener noreferrer">打开Promise的正确姿势</a></p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fpromisesaplus.com" title="https://promisesaplus.com" ref="nofollow noopener noreferrer">Promise/A+</a></p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fjakearchibald.com%2F2015%2Ftasks-microtasks-queues-and-schedules%2F%3Futm_source%3Dhtml5weekly" title="https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly" ref="nofollow noopener noreferrer">Tasks，microtasks，queues and schedules</a></p>
 </div>  
 </div>
             

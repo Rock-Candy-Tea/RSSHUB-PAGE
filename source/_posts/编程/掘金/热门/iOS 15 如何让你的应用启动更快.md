@@ -34,7 +34,7 @@ segment section address     type    addend dylib        symbol
 __DATA  __const 0x107595A70 pointer 0      libswiftCore _$sSHMp
 </span><span class="copy-code-btn">复制代码</span></code></pre>
 <p>上面的结果意味着地址 <code>0x10748C0C8</code> 位于 <code>__DATA/__got</code> 中，需要移位一个常量值（被称为滑动 slide ）。而地址 <code>0x107595A70</code> 位于 <code>__DATA/__const</code> ，应该指向 libswiftCore.dylib 中的一个 Hashable[1] 的协议描述符</p>
-<p>dyld 使用 <code>LC_DYLD_INFO</code> 加载命令和 <code>dyld_info_command</code> 结构来确定二进制文件中 rebase 、bind 和导出符号[2]的位置和大小。<a href="https://www.emergetools.com/" target="_blank" rel="nofollow noopener noreferrer">Emerge</a>（免责声明：是一个可以查看 App 包二进制大小和分布的软件，本文的作者就是作者😬）对这些数据进行分析，让你直观地了解它们对二进制文件大小的贡献，并能提供建议，使用链接器标志使其更小。</p>
+<p>dyld 使用 <code>LC_DYLD_INFO</code> 加载命令和 <code>dyld_info_command</code> 结构来确定二进制文件中 rebase 、bind 和导出符号[2]的位置和大小。<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.emergetools.com" target="_blank" rel="nofollow noopener noreferrer" title="https://www.emergetools.com" ref="nofollow noopener noreferrer">Emerge</a>（免责声明：是一个可以查看 App 包二进制大小和分布的软件，本文的作者就是作者😬）对这些数据进行分析，让你直观地了解它们对二进制文件大小的贡献，并能提供建议，使用链接器标志使其更小。</p>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e9e9e695737c4806aaeee8392cf97c82~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-1">一个新的格式</h2>
 <p>当我第一次将一个为 iOS 15 构建的应用程序导入到 Emerge 时，软件没有展示出可视化的 dyld fixups 。这是因为 <code>LC_DYLD_INFO_ONLY</code> 加载命令不见了，它被 <code>LC_DYLD_CHAINED_FIXUPS</code> 和 <code>LC_DYLD_EXPORTS_TRIE</code> 取代。</p>
@@ -129,10 +129,10 @@ bytes.processLoadComands &#123; load_command, pointer <span class="hljs-keyword"
 <p>[1] dyldinfo 的符号被篡改了，你可以用 xcrun swift-demangle '_$sSHMp' 获得人类可读的名称。</p>
 <p>[2] 导出是 bind 的第二部分。一个二进制文件会与从其依赖关系中导出的符号绑定。</p>
 <p>[3] bind 也是如此，一个指针实际上是 rebase 和 bind（ <code>dyld_chained_ptr_64_bind</code> ）的联合体，用一个位来区分这两者。bind 也需要导入符号名，这里不作讨论。</p>
-<p>[4] <a href="https://asciiwwdc.com/2016/sessions/406" target="_blank" rel="nofollow noopener noreferrer">asciiwwdc.com/2016/sessio…</a></p>
+<p>[4] <a href="https://link.juejin.cn/?target=https%3A%2F%2Fasciiwwdc.com%2F2016%2Fsessions%2F406" target="_blank" rel="nofollow noopener noreferrer" title="https://asciiwwdc.com/2016/sessions/406" ref="nofollow noopener noreferrer">asciiwwdc.com/2016/sessio…</a></p>
 </blockquote>
 <blockquote>
-<p>原文： <a href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520" target="_blank" rel="nofollow noopener noreferrer">How iOS 15 makes your app launch faster</a></p>
+<p>原文： <a href="https://link.juejin.cn/?target=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-ios-15-makes-your-app-launch-faster-51cf0aa6c520" target="_blank" rel="nofollow noopener noreferrer" title="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520" ref="nofollow noopener noreferrer">How iOS 15 makes your app launch faster</a></p>
 </blockquote></div>  
 </div>
             

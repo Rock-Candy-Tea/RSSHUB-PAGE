@@ -28,7 +28,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/
 <li>想搞事情！</li>
 </ol>
 <h2 data-id="heading-3">开发过程</h2>
-<p>这个项目的地址为: <a target="_blank" href="https://github.com/HolyZheng/BrowseExp">browseExp pwa</a>，想要查看代码的同学可以看一下。这个项目要注意的点主要是：</p>
+<p>这个项目的地址为: <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FHolyZheng%2FBrowseExp" title="https://github.com/HolyZheng/BrowseExp" ref="nofollow noopener noreferrer">browseExp pwa</a>，想要查看代码的同学可以看一下。这个项目要注意的点主要是：</p>
 <ul>
 <li>在vue中使用ts</li>
 <li>简单骨架屏的运用</li>
@@ -39,7 +39,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/
 </ul>
 <p>后面的内容也围绕着这些点来展开。</p>
 <h3 data-id="heading-4">vue中使用ts</h3>
-<p>使用ts主要是因为ts给我们带来了类型系统，可以让我们写出健壮的代码，它的作用在大型项目中尤其突出，所以还是非常鼓励大家去使用的，我们使用ts进行开发一般是编写基于类的vue组件，所以可以使用官方维护的<a target="_blank" href="https://github.com/vuejs/vue-class-component">vue-class-component</a>或者<a target="_blank" href="https://github.com/kaorun343/vue-property-decorator">vue-property-decorator</a>，vue-cli3.0也给我们提供了开箱即用的typescript支持，开发体验还是相当友好的。一个vue组件demo：</p>
+<p>使用ts主要是因为ts给我们带来了类型系统，可以让我们写出健壮的代码，它的作用在大型项目中尤其突出，所以还是非常鼓励大家去使用的，我们使用ts进行开发一般是编写基于类的vue组件，所以可以使用官方维护的<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue-class-component" title="https://github.com/vuejs/vue-class-component" ref="nofollow noopener noreferrer">vue-class-component</a>或者<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fkaorun343%2Fvue-property-decorator" title="https://github.com/kaorun343/vue-property-decorator" ref="nofollow noopener noreferrer">vue-property-decorator</a>，vue-cli3.0也给我们提供了开箱即用的typescript支持，开发体验还是相当友好的。一个vue组件demo：</p>
 <pre><code lang="bash" class="copyable">import &#123; Component, Vue, Prop &#125; from <span>'vue-property-decorator'</span>;
 @Component
 <span>export</span> default class Name extends Vue &#123;
@@ -59,7 +59,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f3a3927c?imageView2/
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>另外，在vue-cli3.0提供的脚手架下，可以在<code>shims-tsx.d.ts</code>文件下添加全局接口或变量等，在<code>shims-vue.d.ts</code>定义第三方包的类型声明。</p>
 <h3 data-id="heading-5">骨架屏的简单运用</h3>
-<p>骨架屏（skeleton screen）已经不是什么新奇的概念，他的主要作用就是用来过渡页面的空白状态，提升用户体验，比如页面跳转等待，数据加载等待等，传统的骨架平实现方案有 服务端渲染和预渲染等，而这个项目中引入骨架屏主要是想过渡数据加载时页面的局部空白状态，所以就直接采用编写一个骨架屏组件<a target="_blank" href="https://github.com/HolyZheng/BrowseExp/blob/master/src/components/Skeleton/SkeletonExp.vue">SkeletonExp.vue</a>的方式来过渡。</p>
+<p>骨架屏（skeleton screen）已经不是什么新奇的概念，他的主要作用就是用来过渡页面的空白状态，提升用户体验，比如页面跳转等待，数据加载等待等，传统的骨架平实现方案有 服务端渲染和预渲染等，而这个项目中引入骨架屏主要是想过渡数据加载时页面的局部空白状态，所以就直接采用编写一个骨架屏组件<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FHolyZheng%2FBrowseExp%2Fblob%2Fmaster%2Fsrc%2Fcomponents%2FSkeleton%2FSkeletonExp.vue" title="https://github.com/HolyZheng/BrowseExp/blob/master/src/components/Skeleton/SkeletonExp.vue" ref="nofollow noopener noreferrer">SkeletonExp.vue</a>的方式来过渡。</p>
 <p></p><figure><img alt="skeletonOne" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f70c294f?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure>
 <figure><img alt="skeletonOne" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec506e60b45?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>如果你对骨架屏有更大的需求，可以在网上搜到更多的教程，这里就不列举了。</p>
@@ -112,8 +112,8 @@ Vue.use(Router);
 <p>ps: 开发过程在控制台的Application中可调试对应内容</p>
 <p></p><figure><img src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec4f7179c2c?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h3 data-id="heading-8">workbox</h3>
-<p><a target="_blank" href="https://developers.google.com/web/tools/workbox/">workbox</a> 是pwa的一个工具集合，围绕它的还有一些列工具，如 workbox-cli、gulp-workbox、workbox-webpack-plagin 等等，workbox本身相当于<a target="_blank" href="https://developers.google.com/web/fundamentals/primers/service-workers/">service worker</a>的一个框架，封装了各种api，和缓存策略，可以让我们更加便捷的使用service worker。vue-cli3.0集成的是workbox-webpack-plagin，我们可以通过vue.config.js的pwa配置项进行配置
-首先，在vue.config.js文件中的进行配置，更详细的<a target="_blank" href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa">配置项</a></p>
+<p><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ftools%2Fworkbox%2F" title="https://developers.google.com/web/tools/workbox/" ref="nofollow noopener noreferrer">workbox</a> 是pwa的一个工具集合，围绕它的还有一些列工具，如 workbox-cli、gulp-workbox、workbox-webpack-plagin 等等，workbox本身相当于<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ffundamentals%2Fprimers%2Fservice-workers%2F" title="https://developers.google.com/web/fundamentals/primers/service-workers/" ref="nofollow noopener noreferrer">service worker</a>的一个框架，封装了各种api，和缓存策略，可以让我们更加便捷的使用service worker。vue-cli3.0集成的是workbox-webpack-plagin，我们可以通过vue.config.js的pwa配置项进行配置
+首先，在vue.config.js文件中的进行配置，更详细的<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue-cli%2Ftree%2Fdev%2Fpackages%2F%2540vue%2Fcli-plugin-pwa" title="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa" ref="nofollow noopener noreferrer">配置项</a></p>
 <pre><code lang="bash" class="copyable">// vue.config.js
 
 module.exports = &#123;
@@ -145,7 +145,7 @@ module.exports = &#123;
 <li>workbox.strategies 提供缓存策略</li>
 <li>等等</li>
 </ul>
-<p>更详细的 <a target="_blank" href="https://developers.google.com/web/tools/workbox/modules/workbox-webpack-plugin">接口和配置教程</a></p>
+<p>更详细的 <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ftools%2Fworkbox%2Fmodules%2Fworkbox-webpack-plugin" title="https://developers.google.com/web/tools/workbox/modules/workbox-webpack-plugin" ref="nofollow noopener noreferrer">接口和配置教程</a></p>
 <pre><code lang="bash" class="copyable">// src/service-worker.js
 
 // 设置相应缓存的名字的前缀和后缀
@@ -192,14 +192,14 @@ workbox.routing.registerRoute(
 <p>这些配置可以让我们的得以在离线环境下运行，但是这些配置都是相对于打包出来的项目文件的，也就是dist文件里的内容。我们在开发过程的dev模式是体验不到效果的，我们怎么查看效果呢？</p>
 <ul>
 <li>方案1：编写一个后台服务，我们可以通过node.js等编写一个后台服务去访问我们的应用，service worker本来需要在https环境下运行，但是如果是本地 localhost 环境的话，service worker可以在http协议上运行。</li>
-<li>方案2：借助google提供的chrome扩展应用<a target="_blank" href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb">Web Server for Chrome</a>为我们的应用启动一个服务，比较灵活，所以我采用了这种方式。</li>
+<li>方案2：借助google提供的chrome扩展应用<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fweb-server-for-chrome%2Fofhbbkphhbklhfoeikjpcbhemlocgigb" title="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb" ref="nofollow noopener noreferrer">Web Server for Chrome</a>为我们的应用启动一个服务，比较灵活，所以我采用了这种方式。</li>
 </ul>
 <h4 data-id="heading-15">Web Server for Chrome</h4>
 <p>点击<code>choose foloer</code>选择我们的dist文件夹，勾选<code>Automatically show index.html</code>开启服务，我们就可以通过下面的链接访问应用了，通过勾选<code>Accessible on local network</code>还可以生成另一个地址，可以让我们在手机端访问应用。
 </p><figure><img alt="webserver1" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5691f72fb?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p></p><figure><img alt="webserver2" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec583c890fa?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h3 data-id="heading-16">manifest.json 网络应用清单</h3>
-<p>manifest.json 提供了将webapp 添加到设备主屏幕的功能，更详细的<a target="_blank" href="https://developers.google.com/web/fundamentals/web-app-manifest/">配置内容</a>在此查看。我们可以通过它给我们的应用设置图标，启动动画，背景颜色等等。它在我们项目的public下：</p>
+<p>manifest.json 提供了将webapp 添加到设备主屏幕的功能，更详细的<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ffundamentals%2Fweb-app-manifest%2F" title="https://developers.google.com/web/fundamentals/web-app-manifest/" ref="nofollow noopener noreferrer">配置内容</a>在此查看。我们可以通过它给我们的应用设置图标，启动动画，背景颜色等等。它在我们项目的public下：</p>
 <pre><code lang="JSON" class="copyable">// public/manifest.json
 // 最基本的配置内容
 
@@ -312,7 +312,7 @@ server &#123;
 <p>下面是在安卓端UC浏览器访问的结果（UC对pwa的支持十分好），在几次访问我们的应用后就弹出了相关的提示，点击“好的”就可以添加到主屏幕了。</p>
 <p></p><figure><img alt="pwademo1" src="https://user-gold-cdn.xitu.io/2018/9/21/165f7ec5c3d79026?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h2 data-id="heading-23">结语</h2>
-<p>我非常享受尝试新事物（自己没做过）的这个过程，这次记录下来并分享给大家，希望对大家有帮助，如果大家看后有什么补充或意见的话，欢迎评论区提出。项目地址：<a target="_blank" href="https://github.com/HolyZheng/BrowseExp">browse-Exp</a></p>
+<p>我非常享受尝试新事物（自己没做过）的这个过程，这次记录下来并分享给大家，希望对大家有帮助，如果大家看后有什么补充或意见的话，欢迎评论区提出。项目地址：<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FHolyZheng%2FBrowseExp" title="https://github.com/HolyZheng/BrowseExp" ref="nofollow noopener noreferrer">browse-Exp</a></p>
 </div>  
 </div>
             

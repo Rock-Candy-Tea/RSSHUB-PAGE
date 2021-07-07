@@ -74,7 +74,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/2/26/161cdbf9593d78f9?imageView2/
     <span>listener</span>: listener
   &#125;);
 &#125;
-<span class="copy-code-btn">复制代码</span></code></pre><p><strong>listenTo</strong>是将事件委托到document的方法，大部分事件是委托到document上的。但是因为document上能够catch的事件类型的限制(<a target="_blank" href="https://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html#Events-DocumentEvent">Document Object Model Events</a>)，不是所有的事件类型都委托到document，少部分是直接委托到元素本身上的。</p>
+<span class="copy-code-btn">复制代码</span></code></pre><p><strong>listenTo</strong>是将事件委托到document的方法，大部分事件是委托到document上的。但是因为document上能够catch的事件类型的限制(<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.w3.org%2FTR%2F2000%2FREC-DOM-Level-2-Events-20001113%2Fevents.html%23Events-DocumentEvent" title="https://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html#Events-DocumentEvent" ref="nofollow noopener noreferrer">Document Object Model Events</a>)，不是所有的事件类型都委托到document，少部分是直接委托到元素本身上的。</p>
 <p><strong>putListener</strong>将对应的类型的事件、事件的目标对象和事件触发时执行的方法添加到listenerBank对象中。</p>
 <pre><code lang="javascript" class="copyable">listenTo: <span><span>function</span> (<span>registrationName, contentDocumentHandle</span>) </span>&#123;
   <span>var</span> mountAt = contentDocumentHandle;
@@ -177,7 +177,7 @@ trapCapturedEvent: <span><span>function</span> (<span>topLevelType, handlerBaseN
 <p align="center">
 <img src="https://user-gold-cdn.xitu.io/2018/2/26/161cdbf95a3f8121?imageView2/0/w/1280/h/960/ignore-error/1" width="400" loading="lazy" referrerpolicy="no-referrer">
 </p>
-<p>（图片来自<a target="_blank" href="https://www.w3.org/TR/DOM-Level-3-Events/#event-flow">Event dispatch and DOM event flow</a>）</p>
+<p>（图片来自<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.w3.org%2FTR%2FDOM-Level-3-Events%2F%23event-flow" title="https://www.w3.org/TR/DOM-Level-3-Events/#event-flow" ref="nofollow noopener noreferrer">Event dispatch and DOM event flow</a>）</p>
 <pre><code lang="javascript" class="copyable"><span><span>function</span> <span>traverseTwoPhase</span>(<span>inst, fn, arg</span>) </span>&#123;
   <span>var</span> path = [];
   <span>while</span> (inst) &#123;
@@ -278,9 +278,9 @@ getListener: <span><span>function</span> (<span>inst, registrationName</span>) <
 </ul>
 <p>参考资料</p>
 <ul>
-<li><a target="_blank" href="http://zhenhua-lee.github.io/react/react-event.html">React源码解读系列 – 事件机制</a></li>
-<li><a target="_blank" href="https://www.w3.org/TR/DOM-Level-3-Events/#ui-events-intro">UI Events</a></li>
-<li><a target="_blank" href="https://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html#Events-EventTarget">Document Object Model Events</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fzhenhua-lee.github.io%2Freact%2Freact-event.html" title="http://zhenhua-lee.github.io/react/react-event.html" ref="nofollow noopener noreferrer">React源码解读系列 – 事件机制</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.w3.org%2FTR%2FDOM-Level-3-Events%2F%23ui-events-intro" title="https://www.w3.org/TR/DOM-Level-3-Events/#ui-events-intro" ref="nofollow noopener noreferrer">UI Events</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.w3.org%2FTR%2F2000%2FREC-DOM-Level-2-Events-20001113%2Fevents.html%23Events-EventTarget" title="https://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html#Events-EventTarget" ref="nofollow noopener noreferrer">Document Object Model Events</a></li>
 </ul>
 </div>  
 </div>

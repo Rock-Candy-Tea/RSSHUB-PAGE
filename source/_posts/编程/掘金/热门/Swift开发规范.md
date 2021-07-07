@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://picsum.photos/400/300?random=2626'
+headimg: 'https://picsum.photos/400/300?random=4678'
 author: 掘金
 comments: false
 date: Mon, 21 Jun 2021 08:21:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2626'
+thumbnail: 'https://picsum.photos/400/300?random=4678'
 ---
 
 <div>   
@@ -104,18 +104,18 @@ thumbnail: 'https://picsum.photos/400/300?random=2626'
 <li>使用委托和协议时，避免循环引用，定义属性的时候使用 weak 修饰</li>
 </ul>
 <h2 data-id="heading-7">工具</h2>
-<p><a href="https://github.com/realm/SwiftLint" target="_blank" rel="nofollow noopener noreferrer">SwiftLint 工具</a> 提示格式错误</p>
-<p><a href="https://github.com/nicklockwood/SwiftFormat" target="_blank" rel="nofollow noopener noreferrer">SwiftFormat 工具</a> 提示并修复格式错误</p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Frealm%2FSwiftLint" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/realm/SwiftLint" ref="nofollow noopener noreferrer">SwiftLint 工具</a> 提示格式错误</p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fnicklockwood%2FSwiftFormat" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/nicklockwood/SwiftFormat" ref="nofollow noopener noreferrer">SwiftFormat 工具</a> 提示并修复格式错误</p>
 <p>两者大部分格式规范都是一致的，少许规范不一致，两个工具之间使用不冲突，可以在项目中共存。我们通过配置文件可以控制启用或者关闭相应的规则，具体使用规则参照对应仓库的 REAMME.md 文件。</p>
 <h2 data-id="heading-8">相关规范</h2>
-<p><a href="https://swift.org/documentation/api-design-guidelines/" target="_blank" rel="nofollow noopener noreferrer">Swift 官方 API 设计指南</a></p>
-<p><a href="https://google.github.io/swift/#apples-markup-format" target="_blank" rel="nofollow noopener noreferrer">google 发布的 Swift 编码规范</a></p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fswift.org%2Fdocumentation%2Fapi-design-guidelines%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://swift.org/documentation/api-design-guidelines/" ref="nofollow noopener noreferrer">Swift 官方 API 设计指南</a></p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgoogle.github.io%2Fswift%2F%23apples-markup-format" target="_blank" rel="nofollow noopener noreferrer" title="https://google.github.io/swift/#apples-markup-format" ref="nofollow noopener noreferrer">google 发布的 Swift 编码规范</a></p>
 <hr>
 <blockquote>
 <p>有一个技术的圈子与一群同道众人非常重要，来我的技术公众号及博客，这里只聊技术干货。</p>
 <ul>
 <li>微信公众号：<strong>CoderStar</strong></li>
-<li>博客：<a href="https://coder-star.github.io/" target="_blank" rel="nofollow noopener noreferrer">CoderStar's Blog</a></li>
+<li>博客：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fcoder-star.github.io%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://coder-star.github.io/" ref="nofollow noopener noreferrer">CoderStar's Blog</a></li>
 </ul>
 </blockquote></div>  
 </div>

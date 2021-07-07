@@ -17,9 +17,9 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/22b15ce01bb64e3dbc
 <p>一，APP架构概述</p>
 <p>1. 应用架构</p>
 <p>2.Model 和 View</p>
-<p><a href="https://link.zhihu.com/?target=http%3A//3.App" target="_blank" rel="nofollow noopener noreferrer">3</a>. App 的本质是反馈回路</p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2F3.App" target="_blank" rel="nofollow noopener noreferrer" title="https://link.zhihu.com/?target=http%3A//3.App" ref="nofollow noopener noreferrer">3</a>. App 的本质是反馈回路</p>
 <p>4.架构技术</p>
-<p><a href="https://link.zhihu.com/?target=http%3A//5.App" target="_blank" rel="nofollow noopener noreferrer">5.App</a> 任务</p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2F5.App" target="_blank" rel="nofollow noopener noreferrer" title="https://link.zhihu.com/?target=http%3A//5.App" ref="nofollow noopener noreferrer">5.App</a> 任务</p>
 <p>6.iOS 架构的5中模式：</p>
 <p>二，APP设计常用的5种模式概览</p>
 <p>1. Model-View-Controller</p>
@@ -69,7 +69,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/22b15ce01bb64e3dbc
 <p>macOS 上的 Cocoa 包含有 Cocoa 绑定技术，它是一种双向绑定，所有的可观察对象同时也是 观察者，在一个方向上建立绑定连接，会在反方向也创建一个连接。不论是 (在MVVM-C 的章</p>
 <p>节中用到的) RxCocoa，还是 (MAVB 章节 中用到的) CwlViews，都不是双向绑定的。所以，在</p>
 <p>本书中，所有关于绑定的讨论都只涉及到单向绑定。</p>
-<p><a href="https://link.zhihu.com/?target=http%3A//5.App" target="_blank" rel="nofollow noopener noreferrer"><strong>5.App</strong></a> <strong>任务</strong></p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2F5.App" target="_blank" rel="nofollow noopener noreferrer" title="https://link.zhihu.com/?target=http%3A//5.App" ref="nofollow noopener noreferrer"><strong>5.App</strong></a> <strong>任务</strong></p>
 <p>要让程序正常工作，view 必须依赖于 model 数据来生成和存在，我们配置 view，让它可以对</p>
 <p>model 进行更改，并且能在 model 更新时也得到更新。 所以，我们需要决定在 app 中如何执行下列任务:</p>
 <p>1.构建—谁负责构建model和view，以及将两者连接起来?</p>
@@ -164,7 +164,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/22b15ce01bb64e3dbc
 <ul>
 <li>历史</li>
 </ul>
-<p>MVVM 由 Ken Cooper 和 Ted Peters 提出，他们当时在微软工作，负责后来变成 Windows Presentation Foundation (WPF) 的项目，<a href="https://link.zhihu.com/?target=http%3A//%25E8%25BF%2599%25E6%2598%25AF%25E5%25BE%25AE%25E8%25BD%25AF.NET" target="_blank" rel="nofollow noopener noreferrer">这是微软.NET</a> 的 app 框架，并于 2005 年正式发布。</p>
+<p>MVVM 由 Ken Cooper 和 Ted Peters 提出，他们当时在微软工作，负责后来变成 Windows Presentation Foundation (WPF) 的项目，<a href="https://link.juejin.cn/?target=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttp%253A%2F%2F%2525E8%2525BF%252599%2525E6%252598%2525AF%2525E5%2525BE%2525AE%2525E8%2525BD%2525AF.NET" target="_blank" rel="nofollow noopener noreferrer" title="https://link.zhihu.com/?target=http%3A//%25E8%25BF%2599%25E6%2598%25AF%25E5%25BE%25AE%25E8%25BD%25AF.NET" ref="nofollow noopener noreferrer">这是微软.NET</a> 的 app 框架，并于 2005 年正式发布。</p>
 <p>WPF 使用一种基于 XML，被称为 XAML 的描述性语言来描述 view 所绑定的某个 view-model 上的属性。在 Cocoa 中，没有 XAML，我们必须使用像是 RxSwift 这样的框架和一些 (通常存 在于 controller 中的) 代码来完成 view-model 和 view 的绑定。</p>
 <p>MVVM 和我们在 MVC 历史中提到的 MVP 模式非常类似. 不过，在 Cooper 和 Peters 的论述中， MVVM 中 view 和 view-model 的绑定需要明确的框架支持，但 presenter 是通过传统的手动 方式来传递变化。</p>
 <p>iOS 中的协调器则是最近才 (重新) 流行起来的，Soroush Khanlou 在 2015 年时在他的网站上描述了这个想法。协调器基于 app controller 这样的更古老的模式，而它们在 Cocoa 和其他平台上已经存在了有数十年之久。</p>
@@ -269,6 +269,6 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/22b15ce01bb64e3dbc
 <p>如果你想要找一些类似 React Native，但是是基于 Swift 的东西的话，可以看看我们对 TEA 的 探索。MAVB 的实现也从 ComponentKit 中获得了一些启发，而 ComponentKit 本身又从 React 中获取灵感:它使用类 DSL 的语法来进行声明式和可变形的 view 构建，这和 React 中 Component 的 render 方法及其相似。</p>
 <p>**由于文章篇幅有限，只能点到即止地介绍当前一些工作成果和思考，各个 Topic 还有一些新的方向在探索，如果你对 iOS 底层原理、架构设计、构建系统、如何面试有兴趣了解，**你也可以私信我及时获取最新资料以及面试相关资料。如果你有什么意见和建议欢迎给我留言！</p>
 <p><strong>喜欢iOS的小伙伴可以关注我，一起学习交流！！！</strong></p>
-<p>原文链接：<a href="https://link.zhihu.com/?target=https%3A//blog.csdn.net/kyl282889543/article/details/93621672" target="_blank" rel="nofollow noopener noreferrer">IOS APP 架构设计（一）_kyl282889543的博客-CSDN博客_ios 架构</a></p></div>  
+<p>原文链接：<a href="https://link.juejin.cn/?target=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fblog.csdn.net%2Fkyl282889543%2Farticle%2Fdetails%2F93621672" target="_blank" rel="nofollow noopener noreferrer" title="https://link.zhihu.com/?target=https%3A//blog.csdn.net/kyl282889543/article/details/93621672" ref="nofollow noopener noreferrer">IOS APP 架构设计（一）_kyl282889543的博客-CSDN博客_ios 架构</a></p></div>  
 </div>
             

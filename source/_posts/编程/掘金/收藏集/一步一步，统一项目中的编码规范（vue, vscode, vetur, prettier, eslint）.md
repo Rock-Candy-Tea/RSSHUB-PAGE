@@ -21,7 +21,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2019/4/24/16a4d7d10616b385?imageslim'
 <li>vscode</li>
 </ul>
 <blockquote>
-<p>一个文本编辑器 <a target="_blank" href="https://code.visualstudio.com/">code.visualstudio.com/</a></p>
+<p>一个文本编辑器 <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fcode.visualstudio.com%2F" title="https://code.visualstudio.com/" ref="nofollow noopener noreferrer">code.visualstudio.com/</a></p>
 </blockquote>
 <ul>
 <li>prettier</li>
@@ -159,7 +159,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2019/4/24/16a4d7d10616b385?imageslim'
     <span>"rules"</span>: &#123;
     &#125;
 &#125;;
-<span class="copy-code-btn">复制代码</span></code></pre><p>这个配置文件的内容，是通过 <code>npx eslint --init</code> 自动生成的，当然你也可以手动配置，所有的选项这里都有中文说明：<a target="_blank" href="http://eslint.cn/docs/user-guide/configuring">eslint.cn/docs/user-g…</a></p>
+<span class="copy-code-btn">复制代码</span></code></pre><p>这个配置文件的内容，是通过 <code>npx eslint --init</code> 自动生成的，当然你也可以手动配置，所有的选项这里都有中文说明：<a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Feslint.cn%2Fdocs%2Fuser-guide%2Fconfiguring" title="http://eslint.cn/docs/user-guide/configuring" ref="nofollow noopener noreferrer">eslint.cn/docs/user-g…</a></p>
 <p>接下来就可以手动执行校验了：</p>
 <p></p><figure><img alt="eslint lint" src="https://user-gold-cdn.xitu.io/2019/4/24/16a4e2b56fa87b6a?imageslim" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>在执行的时候可能会有包未安装的提示</p>
@@ -272,7 +272,7 @@ eslint 收到命令，将代码格式化
 <li>安装 prettier-eslint 包</li>
 </ul>
 <pre><code lang="bash" class="copyable">npm i -D prettier-eslint
-<span class="copy-code-btn">复制代码</span></code></pre><p>对于这个问题，prettier-eslint <a target="_blank" href="https://github.com/prettier/prettier-eslint">官网</a>上说的很清楚：</p>
+<span class="copy-code-btn">复制代码</span></code></pre><p>对于这个问题，prettier-eslint <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fprettier%2Fprettier-eslint" title="https://github.com/prettier/prettier-eslint" ref="nofollow noopener noreferrer">官网</a>上说的很清楚：</p>
 <blockquote>
 <p>This formats your code via prettier, and then passes the result of that to eslint --fix. This way you can get the benefits of prettier's superior formatting capabilities, but also benefit from the configuration capabilities of eslint.</p>
 </blockquote>
@@ -334,24 +334,24 @@ settings.json</p>
     <span>'comma-dangle'</span>: [<span>'error'</span>, <span>'never'</span>], <span>// 修正 eslint-plugin-vue 带来的问题</span>
   &#125;
 &#125;;
-<span class="copy-code-btn">复制代码</span></code></pre><p>源代码在 <a target="_blank" href="https://github.com/wfzong/vue-vscode-format">这里</a></p>
+<span class="copy-code-btn">复制代码</span></code></pre><p>源代码在 <a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fwfzong%2Fvue-vscode-format" title="https://github.com/wfzong/vue-vscode-format" ref="nofollow noopener noreferrer">这里</a></p>
 <p>参考文章：</p>
 <ul>
-<li><a target="_blank" href="https://vuejs.github.io/vetur/formatting.html">Vetur 官方文档</a></li>
-<li><a target="_blank" href="https://github.com/prettier/prettier-eslint">prettier-eslint github rep</a></li>
-<li><a target="_blank" href="http://eslint.cn/docs/user-guide/configuring">eslint configuring</a></li>
-<li><a target="_blank" href="http://eslint.cn/docs/rules/">eslint rules</a></li>
-<li><a target="_blank" href="https://git-scm.com/docs/gitignore">gitignore</a></li>
-<li><a target="_blank" href="https://prettier.io/docs/en/integrating-with-linters.html">Prettier Integrating with Linters</a></li>
-<li><a target="_blank" href="http://stariveer.coding.me/fe-doc/">He Xing 的 blog</a></li>
-<li><a target="_blank" href="https://blog.jongallant.com/2019/02/vuejs-vetur-vscode-format-eslint-issues/">How I Resolved Vue.js, VSCode, Vetur, Prettyhtml, and Prettier Formatting and ES Lint Issues</a></li>
-<li><a target="_blank" href="https://github.com/beautify-web/js-beautify">js-beautify github rep 及说明</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fvuejs.github.io%2Fvetur%2Fformatting.html" title="https://vuejs.github.io/vetur/formatting.html" ref="nofollow noopener noreferrer">Vetur 官方文档</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fprettier%2Fprettier-eslint" title="https://github.com/prettier/prettier-eslint" ref="nofollow noopener noreferrer">prettier-eslint github rep</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Feslint.cn%2Fdocs%2Fuser-guide%2Fconfiguring" title="http://eslint.cn/docs/user-guide/configuring" ref="nofollow noopener noreferrer">eslint configuring</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Feslint.cn%2Fdocs%2Frules%2F" title="http://eslint.cn/docs/rules/" ref="nofollow noopener noreferrer">eslint rules</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgit-scm.com%2Fdocs%2Fgitignore" title="https://git-scm.com/docs/gitignore" ref="nofollow noopener noreferrer">gitignore</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fprettier.io%2Fdocs%2Fen%2Fintegrating-with-linters.html" title="https://prettier.io/docs/en/integrating-with-linters.html" ref="nofollow noopener noreferrer">Prettier Integrating with Linters</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Fstariveer.coding.me%2Ffe-doc%2F" title="http://stariveer.coding.me/fe-doc/" ref="nofollow noopener noreferrer">He Xing 的 blog</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fblog.jongallant.com%2F2019%2F02%2Fvuejs-vetur-vscode-format-eslint-issues%2F" title="https://blog.jongallant.com/2019/02/vuejs-vetur-vscode-format-eslint-issues/" ref="nofollow noopener noreferrer">How I Resolved Vue.js, VSCode, Vetur, Prettyhtml, and Prettier Formatting and ES Lint Issues</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fbeautify-web%2Fjs-beautify" title="https://github.com/beautify-web/js-beautify" ref="nofollow noopener noreferrer">js-beautify github rep 及说明</a></li>
 </ul>
 <blockquote>
 <p>Tips</p>
 </blockquote>
 <ul>
-<li>由于 vetur 最新版本出现 bug，需要回退到  0.18.1 版本，具体信息见：<a target="_blank" href="https://github.com/vuejs/vetur/issues/1220">github.com/vuejs/vetur…</a></li>
+<li>由于 vetur 最新版本出现 bug，需要回退到  0.18.1 版本，具体信息见：<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvetur%2Fissues%2F1220" title="https://github.com/vuejs/vetur/issues/1220" ref="nofollow noopener noreferrer">github.com/vuejs/vetur…</a></li>
 </ul>
 </div>  
 </div>

@@ -19,18 +19,18 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db7889aaab944c1da8
 <p>那么到底 WebStorm 更香在哪儿，周末花了个下午怼篇文章来开一个 “历史倒车轮“，给大伙介绍一下「如何用上 WebStorm 最新正版？」「如何让 WebStorm 好用不卡？」，以及「WebStorm 香的地方在哪里？」，<strong>以下文章将单词 <code>WebStorm</code> 换成 <code>IntelliJ IDEA</code> 也合适</strong>。</p>
 <h2 data-id="heading-1">一、如何用上 WebStorm 最新正版？</h2>
 <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db7889aaab944c1da86c215be13ed6be~tplv-k3u1fbpfcp-zoom-1.image" width="800/" loading="lazy" referrerpolicy="no-referrer">
-<p><strong>很建议初步使用的时候「用上 <a href="https://www.jetbrains.com/zh-cn/webstorm/" target="_blank" rel="nofollow noopener noreferrer">WebStorm 30天</a>内免费」的福利，等到觉得好用再去考虑申请正式版本，防止造成不必要的浪费！</strong></p>
+<p><strong>很建议初步使用的时候「用上 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fwebstorm%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/webstorm/" ref="nofollow noopener noreferrer">WebStorm 30天</a>内免费」的福利，等到觉得好用再去考虑申请正式版本，防止造成不必要的浪费！</strong></p>
 <h3 data-id="heading-2">1. 自费去官方购买个人版</h3>
-<p>资金允许的同学可以直接上官网买<a href="https://www.jetbrains.com/zh-cn/WebStorm/buy/#personal?billing=yearly" target="_blank" rel="nofollow noopener noreferrer">个人版本</a>，首年 59 美元，后面年续会便宜不少(59->47->35)，假如不更新的话还可一直用下去不续费。同时<strong>对于个人版<a href="https://sales.jetbrains.com/hc/en-gb/articles/207241015-Can-I-use-my-personal-license-for-commercial-development-" target="_blank" rel="nofollow noopener noreferrer">官方说</a>同样支持用于商业项目</strong>，只需要保证一个人用即可。</p>
+<p>资金允许的同学可以直接上官网买<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2FWebStorm%2Fbuy%2F%23personal%3Fbilling%3Dyearly" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/WebStorm/buy/#personal?billing=yearly" ref="nofollow noopener noreferrer">个人版本</a>，首年 59 美元，后面年续会便宜不少(59->47->35)，假如不更新的话还可一直用下去不续费。同时<strong>对于个人版<a href="https://link.juejin.cn/?target=https%3A%2F%2Fsales.jetbrains.com%2Fhc%2Fen-gb%2Farticles%2F207241015-Can-I-use-my-personal-license-for-commercial-development-" target="_blank" rel="nofollow noopener noreferrer" title="https://sales.jetbrains.com/hc/en-gb/articles/207241015-Can-I-use-my-personal-license-for-commercial-development-" ref="nofollow noopener noreferrer">官方说</a>同样支持用于商业项目</strong>，只需要保证一个人用即可。</p>
 <h3 data-id="heading-3">2. 通过开源项目申请一年的使用</h3>
-<p>讲道理，JetBrains 公司真的很良心，提供了开源开发许可证福利，让大伙免费用他家软件进行开源贡献，一般项目维护在 3 个月以上大概率可通过。可从此入口 <a href="https://www.jetbrains.com/zh-cn/community/opensource/#support" target="_blank" rel="nofollow noopener noreferrer">免费许可证计划</a> 进入申请，也可参考 <a href="https://zhuanlan.zhihu.com/p/87370573" target="_blank" rel="nofollow noopener noreferrer">这篇教程</a>；除去开源申请外，还可试试<a href="https://www.jetbrains.com/zh-cn/community/dev-recognition/" target="_blank" rel="nofollow noopener noreferrer">学术许可</a>、<a href="https://www.jetbrains.com/zh-cn/community/user-groups/" target="_blank" rel="nofollow noopener noreferrer">用户组</a>、<a href="https://www.jetbrains.com/zh-cn/community/events-partnership/#developers" target="_blank" rel="nofollow noopener noreferrer">开发者活动</a>、<a href="https://www.jetbrains.com/zh-cn/community/dev-recognition/" target="_blank" rel="nofollow noopener noreferrer">开发者认可</a>方式获取，<strong>但都「不能用于商业项目」请斟酌使用</strong>。</p>
-<p><strong>综上，若资金允许就买个人正式版，有些紧就用开源项目的方案。</strong> 同时 <del>不建议用淘宝购买自己邮箱授权的教育版或用 <a href="https://gitee.com/pengzhile/ide-eval-resetter" target="_blank" rel="nofollow noopener noreferrer">ide-eval-resetter</a> 插件延迟试用期的灰色地带方式</del> 来开发商业项目。</p>
+<p>讲道理，JetBrains 公司真的很良心，提供了开源开发许可证福利，让大伙免费用他家软件进行开源贡献，一般项目维护在 3 个月以上大概率可通过。可从此入口 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fcommunity%2Fopensource%2F%23support" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/community/opensource/#support" ref="nofollow noopener noreferrer">免费许可证计划</a> 进入申请，也可参考 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F87370573" target="_blank" rel="nofollow noopener noreferrer" title="https://zhuanlan.zhihu.com/p/87370573" ref="nofollow noopener noreferrer">这篇教程</a>；除去开源申请外，还可试试<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fcommunity%2Fdev-recognition%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/community/dev-recognition/" ref="nofollow noopener noreferrer">学术许可</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fcommunity%2Fuser-groups%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/community/user-groups/" ref="nofollow noopener noreferrer">用户组</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fcommunity%2Fevents-partnership%2F%23developers" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/community/events-partnership/#developers" ref="nofollow noopener noreferrer">开发者活动</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fcommunity%2Fdev-recognition%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.jetbrains.com/zh-cn/community/dev-recognition/" ref="nofollow noopener noreferrer">开发者认可</a>方式获取，<strong>但都「不能用于商业项目」请斟酌使用</strong>。</p>
+<p><strong>综上，若资金允许就买个人正式版，有些紧就用开源项目的方案。</strong> 同时 <del>不建议用淘宝购买自己邮箱授权的教育版或用 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fgitee.com%2Fpengzhile%2Fide-eval-resetter" target="_blank" rel="nofollow noopener noreferrer" title="https://gitee.com/pengzhile/ide-eval-resetter" ref="nofollow noopener noreferrer">ide-eval-resetter</a> 插件延迟试用期的灰色地带方式</del> 来开发商业项目。</p>
 <h2 data-id="heading-4">二、如何让 WebStorm 好用不卡？</h2>
 <div>
-<a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/QYtuow.mp4" target="_blank" rel="nofollow noopener noreferrer"> 
+<a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FQYtuow.mp4" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/QYtuow.mp4" ref="nofollow noopener noreferrer"> 
 <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85fe8662eb2a44e9b0195f7a04defd05~tplv-k3u1fbpfcp-zoom-1.image" width="800/" loading="lazy" referrerpolicy="no-referrer">
 </a>
-<span><br>打开我 Mac 上最大的一个项目 <a href="https://github.com/alibaba/x-render" target="_blank" rel="nofollow noopener noreferrer">xRender</a>，没有插电情况下，实际的启动效果 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/QYtuow.mp4" target="_blank" rel="nofollow noopener noreferrer">录屏 mp4</a></span>
+<span><br>打开我 Mac 上最大的一个项目 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Falibaba%2Fx-render" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/alibaba/x-render" ref="nofollow noopener noreferrer">xRender</a>，没有插电情况下，实际的启动效果 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FQYtuow.mp4" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/QYtuow.mp4" ref="nofollow noopener noreferrer">录屏 mp4</a></span>
 </div>
 <h3 data-id="heading-5">1. 安装几个常用的插件</h3>
 <p>直接 <code>command + ，</code> 打开设置，找到 plugin，复制后在插件市场进行搜索安装：</p>
@@ -39,18 +39,18 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db7889aaab944c1da8
 <li><strong>Coderpillr Theme</strong>：超级好看的一个主题，之前试过很多如 One Dark、Material Theme Ul 都不是很满意，其实最爱 Dracula Theme，但遗憾在这里不好看，刚好 Coderpillr 这个小众的很有 Dracula 风格，深得我心。</li>
 <li><strong>Key Promoter X</strong>：快捷键爱好者的神器，会来智能教你记住快捷键。</li>
 <li><strong>.ignore</strong>：自动提示你哪些文件可以被 ignore，省去新项目场景一个一个找的问题</li>
-<li><strong>WakaTime</strong>：需要稍微配置一下，可以将你所有敲代码的地方装上这个插件，可以很访问的统计你敲了多长时间的代码，详细见<a href="https://wakatime.com/" target="_blank" rel="nofollow noopener noreferrer">官网</a>。</li>
+<li><strong>WakaTime</strong>：需要稍微配置一下，可以将你所有敲代码的地方装上这个插件，可以很访问的统计你敲了多长时间的代码，详细见<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwakatime.com%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://wakatime.com/" ref="nofollow noopener noreferrer">官网</a>。</li>
 </ol>
 <p><strong>对于插件，不建议安装太多，满足使用即可，太酷炫的反而影响性能，同时也建议禁用掉一批你用不上的</strong>。</p>
 <h3 data-id="heading-6">2.修改一下文字大小</h3>
-<p>主要有 3 个常用地方要修改下，可也按照个人喜好配置（<a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/gatYqk.png" target="_blank" rel="nofollow noopener noreferrer">截图说明</a>）：</p>
+<p>主要有 3 个常用地方要修改下，可也按照个人喜好配置（<a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FgatYqk.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/gatYqk.png" ref="nofollow noopener noreferrer">截图说明</a>）：</p>
 <ul>
 <li>一是外观字体，默认有些小了，建议 <code>.ApplesystemUIFont</code> 16；</li>
 <li>二是编辑器字体，推荐 <code>JetBrains Meno</code> 20，行高 1.16，不要连体；</li>
 <li>三是控制台字体，推荐 <code>JetBrains Meno</code> 18，行高 1.14，紧凑一些，不要连体；</li>
 </ul>
 <h3 data-id="heading-7">3. 禁止掉不用的插件</h3>
-<p>继续在 plugin 中已安装 Tab 中，对你觉得你用不上的取消勾选禁止掉一批可能用不上的，减少使用内存，我禁止了很多，其中「Code With Me」不用也可以关闭，可以在「帮助->诊断工具->分析插件内存」来<a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/qqeGgE.png" target="_blank" rel="nofollow noopener noreferrer">看到</a>更多可优化的空间，选择性参考如下：</p>
+<p>继续在 plugin 中已安装 Tab 中，对你觉得你用不上的取消勾选禁止掉一批可能用不上的，减少使用内存，我禁止了很多，其中「Code With Me」不用也可以关闭，可以在「帮助->诊断工具->分析插件内存」来<a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FqqeGgE.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/qqeGgE.png" ref="nofollow noopener noreferrer">看到</a>更多可优化的空间，选择性参考如下：</p>
 <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794738dce65743609547baf01a2291b0~tplv-k3u1fbpfcp-zoom-1.image" width="800/" loading="lazy" referrerpolicy="no-referrer">
 <h3 data-id="heading-8">4. 将默认内存设置大一些</h3>
 <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ded8b3bd8d6c4d1a8d239557bcd1a652~tplv-k3u1fbpfcp-zoom-1.image" width="800/" loading="lazy" referrerpolicy="no-referrer">
@@ -176,15 +176,15 @@ idea.max.intellisense.filesize=50
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>最后在顶部菜单栏找到「文件->清楚缓存..」，然后重启 WebStrom 后，再试试 <code>npm i</code> 安装巨多依赖应该也不会卡了。</p>
 <hr>
-<p>当你上面都熟练了，很建议在右下角 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/yXusL6.png" target="_blank" rel="nofollow noopener noreferrer">状态栏</a> 中登录账号进行同步，防止设置丢失，等你用过一段时间后，你就会发现 WebStorm 慢慢的就香起来了。</p>
+<p>当你上面都熟练了，很建议在右下角 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FyXusL6.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/yXusL6.png" ref="nofollow noopener noreferrer">状态栏</a> 中登录账号进行同步，防止设置丢失，等你用过一段时间后，你就会发现 WebStorm 慢慢的就香起来了。</p>
 <h2 data-id="heading-11">三、WebStorm 香的地方在哪里？</h2>
 <h3 data-id="heading-12">1. 世界上最好用 Git 管理工具</h3>
 <ol>
 <li>
-<p><strong>看这一行代码是谁写的</strong>：也叫 git blame，快捷键 <code>control+shift+b</code>，或者在代码行数数字式右键「使用 Git Blame 注解」，就可以出现了这样 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/Ko1zcO.png" target="_blank" rel="nofollow noopener noreferrer">效果</a>，同时可鼠标点击下对应的名称，会出现当时那次提交的 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/60h8XE.png" target="_blank" rel="nofollow noopener noreferrer">详细记录</a>。</p>
+<p><strong>看这一行代码是谁写的</strong>：也叫 git blame，快捷键 <code>control+shift+b</code>，或者在代码行数数字式右键「使用 Git Blame 注解」，就可以出现了这样 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2FKo1zcO.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/Ko1zcO.png" ref="nofollow noopener noreferrer">效果</a>，同时可鼠标点击下对应的名称，会出现当时那次提交的 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2F60h8XE.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/60h8XE.png" ref="nofollow noopener noreferrer">详细记录</a>。</p>
 </li>
 <li>
-<p><strong>提交前 CR 代码改动</strong>：很建议保持这个习惯，每次提交前都对比一下改动了下，快捷键为<code>command + 0</code>，这个 diff 对比超级清晰，同时很容易发现粗心的代码，这样的 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/vgy10n.png" target="_blank" rel="nofollow noopener noreferrer">效果</a>，确定无误后 <code>command+k</code> 填写提交记录，<code>command+shift+k</code> 提交代码，提交完成后 <code>command+1</code> 切回到代码开发。</p>
+<p><strong>提交前 CR 代码改动</strong>：很建议保持这个习惯，每次提交前都对比一下改动了下，快捷键为<code>command + 0</code>，这个 diff 对比超级清晰，同时很容易发现粗心的代码，这样的 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2Fvgy10n.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/vgy10n.png" ref="nofollow noopener noreferrer">效果</a>，确定无误后 <code>command+k</code> 填写提交记录，<code>command+shift+k</code> 提交代码，提交完成后 <code>command+1</code> 切回到代码开发。</p>
 </li>
 <li>
 <p><strong>查看当前的所有提交记录</strong>： 快捷键 <code>control+shift+h</code> 可以查看所有的历史提交记录，假如你只想看某个文件或者某个文件夹，选中，然后快捷键即可，或者右键找到 git 里面的「显示历史记录」。</p>
@@ -215,7 +215,7 @@ idea.max.intellisense.filesize=50
 <p><strong>可以将某一块代码提炼成一个方法使用</strong>：找到一块可以提炼成方法的代码，选中，然后 <code>command+option+m</code> 即可抽象方法并智能帮你方法命名。</p>
 </li>
 <li>
-<p><strong>可替换成使用 Prettier 作为默认格式化</strong>：这个功能可以更好的和其他同事 VSCode 开发场景中代码格式保持一致，可见 <a href="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/06rBw9.png" target="_blank" rel="nofollow noopener noreferrer">设置演示</a>。</p>
+<p><strong>可替换成使用 Prettier 作为默认格式化</strong>：这个功能可以更好的和其他同事 VSCode 开发场景中代码格式保持一致，可见 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fqpluspicture.oss-cn-beijing.aliyuncs.com%2Fup%2F06rBw9.png" target="_blank" rel="nofollow noopener noreferrer" title="https://qpluspicture.oss-cn-beijing.aliyuncs.com/up/06rBw9.png" ref="nofollow noopener noreferrer">设置演示</a>。</p>
 </li>
 <li>
 <p><strong>告诉你哪些代码可以优化</strong>：特别是重复代码的提示查找工具很是不错，此处偷偷 @NASA FR 有可优化代码。</p>
@@ -242,7 +242,7 @@ idea.max.intellisense.filesize=50
 <p>有时候可能会用 Mac 远程控制，但是有这里体验很不好，很多时候都是卡顿掉帧反应慢，寸步难行的感觉，更不要说去调试代码了。</p>
 </li>
 <li>
-<p>有了这个 Code With Me 后（没有开启需要去插件中去开启），直接对方分享一个 url 给你，会自动将对方代码包括安装好的依赖同步到你的 WebStorm，然后你在你本地修改时候，对方电脑也会修改，更潮流的你两还可以视频会议的方式来聊哪儿问题，使用几乎原生秒开的体验，可通过 <a href="https://www.youtube.com/watch?v=Lq0fCMCK-Yw" target="_blank" rel="nofollow noopener noreferrer">官方视频</a> 了解更多。</p>
+<p>有了这个 Code With Me 后（没有开启需要去插件中去开启），直接对方分享一个 url 给你，会自动将对方代码包括安装好的依赖同步到你的 WebStorm，然后你在你本地修改时候，对方电脑也会修改，更潮流的你两还可以视频会议的方式来聊哪儿问题，使用几乎原生秒开的体验，可通过 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLq0fCMCK-Yw" target="_blank" rel="nofollow noopener noreferrer" title="https://www.youtube.com/watch?v=Lq0fCMCK-Yw" ref="nofollow noopener noreferrer">官方视频</a> 了解更多。</p>
  <div>
  <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d73bddd2710f4bfab39f0d90723b876a~tplv-k3u1fbpfcp-zoom-1.image" width="800/" loading="lazy" referrerpolicy="no-referrer">
  <p>左边为本地 WebStorm，右侧为协助者的 Code With Me，类比两台电脑协同的效果</p>

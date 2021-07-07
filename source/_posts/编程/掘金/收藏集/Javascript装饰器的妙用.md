@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://picsum.photos/400/300?random=4575'
+headimg: 'https://picsum.photos/400/300?random=1872'
 author: 掘金
 comments: false
 date: Sun, 08 Jul 2018 17:28:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4575'
+thumbnail: 'https://picsum.photos/400/300?random=1872'
 ---
 
 <div>   
@@ -709,7 +709,7 @@ app.listen(<span>12306</span>, () => <span>console</span>.log(<span>'server run 
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>很轻易的就实现了一个<code>router</code>的创建，路径、method的处理，包括各种参数的获取，类型转换。<br>
 将各种非业务逻辑相关的代码统统交由装饰器来做，而函数本身只负责处理自身逻辑即可。<br>
-这里有完整的代码：<a target="_blank" href="https://github.com/Jiasm/notebook/tree/master/labs/demo/typescript/koa-decorators">GitHub</a>。安装依赖后<code>npm start</code>即可看到效果。</p>
+这里有完整的代码：<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FJiasm%2Fnotebook%2Ftree%2Fmaster%2Flabs%2Fdemo%2Ftypescript%2Fkoa-decorators" title="https://github.com/Jiasm/notebook/tree/master/labs/demo/typescript/koa-decorators" ref="nofollow noopener noreferrer">GitHub</a>。安装依赖后<code>npm start</code>即可看到效果。</p>
 <p>这样开发带来的好处就是，让代码可读性变得更高，在函数中更专注的做自己应该做的事情。<br>
 而且装饰器本身如果名字起的足够好的好，也是在一定程度上可以当作文档注释来看待了（Java中有个类似的玩意儿叫做注解）。</p>
 <h2 data-id="heading-20">总结</h2>
@@ -717,8 +717,8 @@ app.listen(<span>12306</span>, () => <span>console</span>.log(<span>'server run 
 但是糖再好吃，也不要吃太多，容易坏牙齿的，同样的滥用装饰器也会使代码本身逻辑变得扑朔迷离，如果确定一段代码不会在其他地方用到，或者一个函数的核心逻辑就是这些代码，那么就没有必要将它取出来作为一个装饰器来存在。</p>
 <h3 data-id="heading-21">参考资料</h3>
 <ol>
-<li><a target="_blank" href="https://www.typescriptlang.org/docs/handbook/decorators.html">typescript | decorators</a></li>
-<li><a target="_blank" href="https://github.com/typestack/routing-controllers">koa示例的原版，简化代码便于举例</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.typescriptlang.org%2Fdocs%2Fhandbook%2Fdecorators.html" title="https://www.typescriptlang.org/docs/handbook/decorators.html" ref="nofollow noopener noreferrer">typescript | decorators</a></li>
+<li><a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Ftypestack%2Frouting-controllers" title="https://github.com/typestack/routing-controllers" ref="nofollow noopener noreferrer">koa示例的原版，简化代码便于举例</a></li>
 </ol>
 <h3 data-id="heading-22">One more thing</h3>
 <p>我司现在大量招人咯，前端、Node方向都有HC<br>

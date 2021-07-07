@@ -111,9 +111,9 @@ thumbnail: 'https://img.ifuntools.cn/file_images/article/20180605152819315726732
 <p>使用单独的线程启动进程，并且应用程序永远不会挂起耗时的任务</p>
 </li>
 </ul>
-<h1 data-id="heading-6"><a href="https://www.ifuntools.cn/cronette19maczidongq/" target="_blank" rel="nofollow noopener noreferrer">Cronette 1.9Mac自动启动指定任务的工具</a></h1>
+<h1 data-id="heading-6"><a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.ifuntools.cn%2Fcronette19maczidongq%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.ifuntools.cn/cronette19maczidongq/" ref="nofollow noopener noreferrer">Cronette 1.9Mac自动启动指定任务的工具</a></h1>
 <blockquote>
-<p>更多精彩文章<a href="https://www.ifuntools.cn/" target="_blank" rel="nofollow noopener noreferrer">爱疯兔-优秀软件分享</a></p>
+<p>更多精彩文章<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.ifuntools.cn%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.ifuntools.cn/" ref="nofollow noopener noreferrer">爱疯兔-优秀软件分享</a></p>
 </blockquote></div>  
 </div>
             
