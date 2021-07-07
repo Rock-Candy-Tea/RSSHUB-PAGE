@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://i-4.yxdown.com/2021/7/6/KDYwM
 ---
 
 <div>   
-<p>   曾准确爆料《战地2042》等游戏的知名舅舅党Tom Henderson在6月底带来了《GTA6》相关的内容爆料。近日知名记者Jason Schreier及外媒VGC也表示关于之前《GTA5》的爆料内容，和他们所知道的相符。这表示爆料的内容可信度大大提升。近日Tom又在直播中，通过手绘形式展示了他所知道的《GTA6》相关内容。</p>
+<p>   曾准确爆料《战地2042》等游戏的知名舅舅党Tom Henderson在6月底带来了《GTA6》相关的内容爆料。近日知名记者Jason Schreier及外媒VGC也表示关于之前《GTA6》的爆料内容，和他们所知道的相符。这表示爆料的内容可信度大大提升。近日Tom又在直播中，通过手绘形式展示了他所知道的《GTA6》相关内容。</p>
 
 <p style="text-align: center;"><a href="http://i-4.yxdown.com/2021/7/6/77a67f6a-18b5-409a-99af-2505c1198360.jpg" style="text-align: center;" target="_blank"><img alt="游迅网www.yxdown.com" src="https://cors.zfour.workers.dev/?http://i-4.yxdown.com/2021/7/6/KDYwMHgp/77a67f6a-18b5-409a-99af-2505c1198360.jpg" style="opacity: 0.9;" title referrerpolicy="no-referrer"></a></p>
 
