@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=1810'
+headimg: 'https://picsum.photos/400/300?random=8685'
 author: PMCAFF
 comments: false
 date: Thu, 08 Jul 2021 11:13:58 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1810'
+thumbnail: 'https://picsum.photos/400/300?random=8685'
 ---
 
 <div>   
-如题，macos没有visio,亿图太贵，没钱。Axure算了，实在是太卡  
+已完结，楼下有兄台推荐巨好用无比。赞——————————如题，macos没有visio,亿图太贵，没钱。Axure算了，实在是太卡  
 </div>
             
