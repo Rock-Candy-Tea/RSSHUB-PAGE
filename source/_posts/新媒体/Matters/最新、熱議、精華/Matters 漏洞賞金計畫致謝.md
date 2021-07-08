@@ -1,0 +1,18 @@
+
+---
+title: 'Matters 漏洞賞金計畫致謝'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=5980'
+author: Matters
+comments: false
+date: Wed, 07 Jul 2021 19:17:26 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5980'
+---
+
+<div>   
+<p>Matters 一直在尋找更好的方式來保護用戶的資訊安全，向用戶提供穩定可靠的服務。然而網絡環境的惡化不僅體現在言論上，也體現在日益增多的數位攻擊中；有時是針對特定用戶，有時則是針對整個服務。</p><p>所以 Matters 不敢將維護用戶資訊安全的責任與權利留在小小的團隊內部，而是啟動了<a href="https://github.com/thematters/developer-resource/security/policy" target="_blank">漏洞賞金計畫</a>，激勵資安社區的朋友們出手協助，一同把關 Matters 服務的安全性。我們為最關鍵的漏洞類型設立了價值 500 美元的獎金，同時不管何種級別的漏洞，我們都會在 Matters 上發文致謝，在 <a href="https://github.com/thematters/developer-resource#hall-of-fame" target="_blank">GitHub 名譽榜</a>中紀錄，後續也會在專屬的 Matters 開發者頁面中公布。</p><p>過去一段時間有幾位朋友提交了漏洞報告，在此向各位致以感謝。</p><p>一位是 Matters 用戶 <a class="mention" href="https://matters.news/@catding" target="_blank" data-display-name="catding" data-user-name="catding" data-id="VXNlcjoyMTkzMQ">﻿<span>@catding</span>﻿</a> 。Catding 發現上傳文件到 IPFS 時並未檢查文檔大小，也沒有校驗文件 url 的域名，這導致用戶可以通過 Matters 的 IPFS 服務保存大型文件，增加 Matters 服務的壓力與開支。漏洞修復 PR 見<a href="https://github.com/thematters/matters-html-formatter/pull/27" target="_blank">這裡</a>。同時，Catding 認為「永久存儲」有誤導之嫌，所以也提交了一個 <a href="https://github.com/thematters/matters-web/pull/2033" target="_blank">PR</a> 修改文章發佈的文案，將這幾個字移除。</p><p>另一位是來自 Cymetrics 的資安專家 Huli (<a href="https://github.com/aszx87410" target="_blank">GitHub</a>, <a href="https://zeroday.hitcon.org/user/aszx87410" target="_blank">HitCon</a>)。Huli 找到多處重要的漏洞：</p><ol><li>CORS 白名單檢查域名時只測試了後綴。當攻擊者使用後綴為 matters.news 的假域名製作釣魚網站時，如果騙過了用戶，便能夠獲取用戶的登陸 cookie。對應的漏洞修復見<a href="https://github.com/thematters/matters-server/pull/1494" target="_blank">這裡</a>。</li><li>後端在接受 GraphQL 查詢時會計算請求的複雜度，並阻擋過於複雜的請求；但是這個計算過程遺漏了很多欄位，導致攻擊者可以構造複雜的查詢拖慢服務器。對應的漏洞修復見<a href="https://github.com/thematters/matters-server/pull/2067" target="_blank">這裡</a>。</li><li>登陸頁面允許傳入任意 url 作為登陸後的重定向；攻擊者可以在 url 中編碼 JavaScript 腳本，如果能夠誘導用戶點擊並登錄，便可以形成 XSS 攻擊。對應的漏洞修復見<a href="https://github.com/thematters/matters-web/pull/2078" target="_blank">這裡</a>。</li><li>前端在展示文章時，為優化圖片顯示會將圖片 src 改寫為適合當前屏幕大小的版本；這個過程中 src 字符串會在修改之後重新注入 DOM，而攻擊者可以在 src 字符中包含惡意代碼，形成 XSS 攻擊。</li><li>後端允許用戶提交包含 iframe 的 HTML 字符串，但是沒有過濾 iframe src；這使得攻擊者可以使用 open redirect 等手段將用戶引導到惡意網站。這一項與上一項的修復見<a href="https://github.com/thematters/matters-server/pull/2009" target="_blank">這裡</a>。</li></ol><p>其中，第三個漏洞屬於「<a href="https://github.com/thematters/developer-resource/blob/master/SECURITY-zh_hant.md#%E4%B8%AD%E7%AD%89100-10000-like" target="_blank">中等</a>」級別；最後兩個漏洞都是來源於後端清理 HTML 字符串時的邏輯，結合在一起屬於「<a href="https://github.com/thematters/developer-resource/blob/master/SECURITY-zh_hant.md#%E9%87%8D%E8%A6%8115015000-like" target="_blank">重要</a>」級別。Huli 也撰文分析了<a href="https://medium.com/cymetrics/prevent-xss-might-be-harder-than-you-thought-ce8c422540b" target="_blank">最後兩個漏洞的發現過程</a>，有興趣的朋友可以進一步閱讀。</p><p>我們已經向 Huli 支付了100美元與150美元兩筆獎金；在 Huli 的回報之後另一位資安專家<a href="https://www.facebook.com/aidilarf.co.id" target="_blank"> Aidil Arief</a> 也發現了第3個漏洞，但是漏洞已經修復、不再有效，我們僅在在 GitHub 頁面與這裡表示感謝。</p><p>再次感謝以上幾位讓 Matters 更加安全的朋友，歡迎大家以不同的方式參與 Matters 的建設。也歡迎大家加入由 <a class="mention" href="https://matters.news/@askender" target="_blank" data-display-name="askender" data-user-name="askender" data-id="VXNlcjoyMDAxNQ">﻿<span>@askender</span>﻿</a>  創辦與維護的 <a href="https://discord.gg/44cjMKMhPt" target="_blank">Matters 第三方 Discord 社區</a>。</p>  
+</div>
+            

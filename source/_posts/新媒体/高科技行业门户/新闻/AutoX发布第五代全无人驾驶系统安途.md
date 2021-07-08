@@ -1,0 +1,19 @@
+
+---
+title: 'AutoX发布第五代全无人驾驶系统安途'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=3017'
+author: 高科技行业门户
+comments: false
+date: Thu, 08 Jul 2021 01:44:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3017'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">AutoX 带来了其第五代全<span class="hrefStyle"><a href="https://www.ofweek.com/auto/tag-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6.HTM" target="_blank" title="无人驾驶">无人驾驶</a></span>系统 AutoX Gen5。另外，还公布了中文品牌名称：安途。</p><p style="text-indent: 2em; text-align: left;">从车规级硬件及电子电气架构、传感器到核心计算平台，AutoX Gen5 保证了真正全无人驾驶能力，展示中国 RoboTaxi 的 “正确打开方式”。可以说，AutoX Gen5 代表世界级科技实力，可与全球无人驾驶领域头部玩家争高峰。无人驾驶 RoboTaxi 被公认为人工智能浪潮之巅，本次 AutoX 发布会成为本年度世界人工智能大会的开门红。</p><p style="text-indent: 2em; text-align: left;">AutoX Gen5：全球顶级硬件架构、感知及核心计算平台</p><p style="text-indent: 2em; text-align: left;">AutoX 第五代系统搭配全球最顶级的车规级硬件和电子电气架构，?共 50 个高清车规级传感器，包括：</p><p style="text-indent: 2em; text-align: left;">●28 个 8 百万像素的车规级摄像头，每帧像素总和超过 2．2 亿</p><p style="text-indent: 2em; text-align: left;">●全球最高分辨率的 4D 毫米波雷达，角分辨率达到 0．9 度</p><p style="text-indent: 2em; text-align: left;">●高清激光雷达，每秒超 1500 万点云成像</p><p style="text-indent: 2em; text-align: left;">可以说，AutoX Gen5 的感知精度刷新了中国 RoboTaxi 的高度，让中国的<span class="hrefStyle"><a href="https://auto.ofweek.com/tag-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6.HTM" target="_blank" title="无人驾驶汽车">无人驾驶汽车</a></span>首次能与国际头部玩家相媲美。</p><p style="text-indent: 2em; text-align: left;">发布会上，AutoX 推出第五代系统的核心计算平台，中国首个 L4／L5 级别无人驾驶计算平台 AutoX XCU。最新第五代系统达到了惊人的 2200 TOPS 算力，是中国车载超级计算算力的新高。全球头部半导体公司 Intel 英特尔、Nvidia 英伟达、Xilinx 赛灵思、OnSemi 安森美等作为深度合作伙伴，登台共同启动发布仪式。</p><p style="text-indent: 2em; text-align: left;">在 AutoX 的安全标准里，仅仅有超高清的传感器感知能力、车载级域控制器还不够，AutoX Gen5 定义了整体<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CAT-70109-automaticdriving.html" target="_blank" title="自动驾驶">自动驾驶</a></span>域的电子电气架构 EEA，使全域系统架构满足安全要求。不仅从设计上保障多层冗余确保?规级功能安全，各个模块还经过了震荡冲击测试、高温及低温测试、EMC 测试等车规级测试，达到量产?规级别硬件质量，同时将一体化液态冷却系统、线束工程、电源管理系统等全部考虑进去，进行整车车规级验证。</p><p style="text-indent: 2em; text-align: left;">第五代系统的生产流程遵循严格的供应链管理，必须通过一致性整体质检，在标准化的产线流水线化安装，并通过严苛的防水测试、震荡颠簸、海量实际道路路测验证，才可 “放行上路”。</p><p style="text-indent: 2em; text-align: left;">AutoX 还拓展了无人车的边界，将感知系统拓展到路端应用，辅助专攻 “鬼探头” 等特殊场景。</p><p style="text-indent: 2em; text-align: left;">整个第五代系统，历时两年半，为中国 RoboTaxi 所需的安全级别量身定制，已进入量产阶段。</p><p style="text-indent: 2em; text-align: left;">AutoX 的核心价值观：为 RoboTaxi 用户提供最安全、最好的出行体验</p><p style="text-indent: 2em; text-align: left;">AutoX 所做这一切的出发点，是真正全无人 RoboTaxi 的用户。</p><p style="text-indent: 2em; text-align: left;">从世界范围来看，无论从性能、安全等级还是可靠性来看，AutoX Gen5 都刷新了标准。肖健雄表示，AutoX 要打造世界上最顶级的系统，处理世界上最复杂的道路路况，把最前沿的技术集一身，以打造一个革命性产品，满足广大用户安全出行的需求，用科技改变生活。</p><p style="text-indent: 2em; text-align: left;">AutoX Gen5 虽是为 “无人” 而生，然而其核心更应解读为人而生——保护用户的安全、公众的安全，才是一家无人驾驶公司的首要任务。</p><p style="text-indent: 2em; text-align: left;">“在 L2－ L3 级别的自动驾驶领域，‘做减法’ 来降低成本的行为是存在的。但在 RoboTaxi 领域，是不允许 ‘偷工减料’ 的，我们必须坚持提供最好的性能，最过硬的硬件和架构，通过更强大的软硬件一体化设计，才能最大程度上保证安全性。AutoX 的理念是安全第一。”</p><p style="text-indent: 2em; text-align: left;">在高端用料、安全第一的基础上，AutoX 仍能剑指量产的核心因素有三，一是通过规模化量产，二是通过自研，三是通过 ODD 拓展加大有效运营时长增加收入。</p><p style="text-indent: 2em; text-align: left;">自成立以来，AutoX 在 “硬核科技” 的路上越走越远，也越做越深。从百台规模的自动驾驶车队在深圳、上海等一线城市部署落地，大规模闹市区测试验证和载人示范应用，到中国目前唯一在城市公开道路上全空车无人驾驶 RoboTaxi 运营，AutoX 在全无人驾驶技术上一路领跑。</p><p style="text-indent: 2em; text-align: left;">自 2020 年起，AutoX 展开公开道路上完全空车的无人驾驶测试，并于 2021 年 1 月面向公众开放其真正全无人驾驶运营，是中国首个 “全车无人”（车前、后排均无人）的 RoboTaxi 面向公众运营。至今，AutoX 全无人 RoboTaxi 运营已达 6 个月，以过硬的技术实力，保持完美的零事故纪录，安全承载了中国首批全无人驾驶乘客，领跑中国真正无人驾驶 RoboTaxi 落地进程。</p><p style="text-indent: 2em; text-align: left;">此次 AutoX 的硬核实力技术发布，刷新了中国 L4 级自动驾驶、尤其是全无人 RoboTaxi 的定义和标准，同时也展示了其坚定投入真正无人 RoboTaxi 硬核科技的决心，以及科技向善的初心。AutoX 将把第五代系统带入 WAIC 世界人工智能大会，展出搭载第五代系统的两款 RoboTaxi 车型。据悉，公司在北上广深各大研发中心继续加大招聘科研人才，今年内达到千人以上规模研发团队。</p><p style="text-indent: 2em; text-align: left;">来源：动点科技 icebin</p> 
+  
+</div>
+            
