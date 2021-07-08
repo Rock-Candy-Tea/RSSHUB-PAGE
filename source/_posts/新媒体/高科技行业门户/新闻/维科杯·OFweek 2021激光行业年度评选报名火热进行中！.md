@@ -1,0 +1,19 @@
+
+---
+title: '维科杯·OFweek 2021激光行业年度评选报名火热进行中！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/08/Wangyuntao/1625737020596060146.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 08 Jul 2021 09:37:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/08/Wangyuntao/1625737020596060146.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网及旗下领先的<span class="hrefStyle"><a href="https://laser.ofweek.com/" target="_blank" title="激光">激光</a></span>专业媒体－OFweek激光网共同举办的“<a href="https://www.ofweek.com/award/2021/laser/" target="_blank" style="color: rgb(255, 0, 0); text-decoration: underline;"><span style="color: rgb(255, 0, 0);">维科杯·OFweek 2021中国激光行业年度评选</span></a>”活动正在火热进行中。该评选旨在表彰激光行业具有突出贡献的优秀产品、技术及企业、人物，鼓励更多企业投入技术创新，同时为行业输送更多创新产品、前沿技术；以提高生产力、经济效益；给用户提供更大便利；引导行业良性快速发展。目前评选申报正火热进行中，申报截止7月12日，并将于8月13日在深圳举行盛大的颁奖典礼。</p><p style="text-align:center"><a href="https://www.ofweek.com/award/2021/laser/" target="_blank"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/08/Wangyuntao/1625737020596060146.png" alt="维科杯·OFweek 2021激光行业年度评选报名火热进行中！" title="维科杯·OFweek 2021激光行业年度评选报名火热进行中！" referrerpolicy="no-referrer"></a></p><p style="text-indent: 2em; text-align: left;">“OFweek 2021中国激光行业年度评选活动”已经成功连续举办八届，凭借专业客观的原则，已经成为激光行业内的一大品牌盛会，同时也是激光行业内最具代表性的年度评选活动之一，获得业内广泛认可！</p><p style="text-indent: 2em; text-align: left;"><strong>一、奖项设置：</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/08/Wangyuntao/1625737020589051486.png" alt="维科杯·OFweek 2021激光行业年度评选报名火热进行中！" title="维科杯·OFweek 2021激光行业年度评选报名火热进行中！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>二、评选流程：</strong></p><p style="text-indent: 2em; text-align: left;">1、申报和提名（报名截止2021年7月12日）：评选活动以公开形式向业界征集报名，拥有创新产品、技术的优秀企业、对行业具有重要贡献的个人均可报名参与；同时评委团也可推荐部分候选名单；</p><p style="text-indent: 2em; text-align: left;">2、网络投票及专家评选（2021年7月12日－2021年7月23日）：用户可登录评选活动官方网站，对参赛企业、技术、案例及人物进行投票；评委团将对入围名单进行多次讨论，参考网络投票意见，审定最终获奖名单。（本次评分采用10分制，评委团根据评选标准进行打分，最终获奖名单专家分值占60％权重，网络投票占40％权重。）</p><p style="text-indent: 2em; text-align: left;">3、获奖名单公布及颁奖典礼（2021年8月13日）：评选结果将于会场公布，并同步在OFweek激光网官网公布并进行详细报道；举办隆重颁奖仪式，邀请入围企业、评委团代表、研讨会专业听众、网友及行业主流媒体齐聚一堂，共同见证。</p><p style="text-indent: 2em; text-align: left;">注：此次评选报名不收取任何费用，投票参与方式仅限网上进行，同一个IP地址一天只限投票一次。各项目获得的投票数在活动规定的投票时限内为准；奖项设置按每个入围参选项目的行业贡献程度及其影响代表性评选出2至3名最终获奖者。</p><p style="text-indent: 2em; text-align: left;">更多详细信息及报名参会，请登录评选活动官网：</p><p style="text-indent: 2em; text-align: left;"><a href="https://www.ofweek.com/award/2021/laser/" target="_blank" style="color: rgb(255, 0, 0); text-decoration: underline;"><span style="color: rgb(255, 0, 0);">https://www.ofweek.com/award/2021/laser/</span></a></p><p style="text-indent: 2em; text-align: left;"><strong>三、同期活动</strong></p><p style="text-indent: 2em; text-align: left;">线下活动：OFweek2021（第十八届）中国先进<span class="hrefStyle"><a href="https://laser.ofweek.com/tag-%E6%BF%80%E5%85%89%E6%8A%80%E6%9C%AF.HTM" target="_blank" title="激光技术">激光技术</a></span>应用峰会暨“维科杯”年度评选颁奖典礼</p><p style="text-indent: 2em; text-align: left;">OFweek2021（第十八届）中国先进激光技术应用峰会暨“维科杯”年度评选颁奖典礼由中国高科技行业门户OFweek维科网主办、OFweek激光网承办，将于2021年8月13日在深圳召开。会议将邀请激光行业专家，同时邀请汽车制造、精密加工、金属钣金加工等应用方向嘉宾，行业一线企业代表对中国激光行业市场形势、最新技术工艺、产品方案、应用实例等方面进行深入剖析，探讨行业未来。</p><p style="text-indent: 2em; text-align: left;">会议将通过主题演讲、专家分享、企业展示的形式开展，议题涵盖<span class="hrefStyle"><a href="https://laser.ofweek.com/CAT-240002-jiguangqi.html" target="_blank" title="激光器">激光器</a></span>技术及发展趋势、激光应用市场现场、激光应用案例分享等，国内外激光行业人士均可免费参会，参与探讨与分析，欢迎踊跃报名！</p> 
+  
+</div>
+            
