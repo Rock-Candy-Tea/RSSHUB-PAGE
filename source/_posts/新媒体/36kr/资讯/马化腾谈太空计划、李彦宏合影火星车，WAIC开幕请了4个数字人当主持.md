@@ -19,7 +19,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>开幕式上，<a class="project-link" data-id="28215" data-name="百度" data-logo="https://img.36krcdn.com/20210325/v2_fa02010c4a8b46da9f4e1d3b1fd59f22_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28215" target="_blank">百度</a>创始人、董事长兼首席执行官李彦宏针对AI的社会价值展开了系列讨论；首次参加WAIC发言的<a class="project-link" data-id="25167" data-name="华为" data-logo="https://img.36krcdn.com/20200729/v2_7c7826d711824e758a8e1511c9d7eecc_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25167" target="_blank">华为</a>轮值董事长胡厚崑则提出了加速AI产业发展的三点建议。同时，还有<a class="project-link" data-id="39084" data-name="中国科学院" data-logo="https://img.36krcdn.com/20200729/v2_28d004bdc4dd41a2bf0eb1fd14f32216_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/39084" target="_blank">中国科学院</a>院士梅宏、360集团创始人兼董事长周鸿祎等分享了当下社会数字化转型的挑战。</p> 
 <p>不过，今年开幕式并没有像2019年、2020年一样出现马斯克、马云、马化腾“三马”齐聚的名场面，除了前“两马”缺席之外，马化腾仍旧是通过远程语音连线的方式云参会。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55_img_000" data-img-size-val="1000,601" referrerpolicy="no-referrer"></p> 
-<p>除此之外，今年WAIC现场请来了B站虚拟偶像泠鸢、小米小爱同学、<a class="project-link" data-id="3967413" data-name="微软" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3967413" target="_blank">微软</a>小冰担任AI虚拟主持人，在和上海广播电视台主持人同台主持的同时，表演了它们的新技能。</p> 
+<p>除此之外，今年WAIC现场请来了B站虚拟偶像泠鸢、<a class="project-link" data-id="121888" data-name="小米" data-logo="https://img.36krcdn.com/20200729/v2_7ad3d765f1d844018b8f4e75c4c8050d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/121888" target="_blank">小米</a>小爱同学、微软小冰担任AI虚拟主持人，在和上海广播电视台主持人同台主持的同时，表演了它们的新技能。</p> 
 <p>世界人工智能大会的最高奖项——“卓越人工智能引领者” （Super AI Leader，简称“SAIL奖”）也于开幕式公布，5个SAIL大奖获得者分别为：利物浦大学的机器人科学家、中科院上海微系统所（免开颅微创植入式高通量柔性脑机接口）、<a class="project-link" data-id="113409" data-name="鲲云科技" data-logo="https://img.36krcdn.com/20201024/v2_af86e2a4e728439599ba7d901e7f057b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/113409" target="_blank">鲲云科技</a>（高性能数据流AI芯片CAISA）、浙江大学（数字创意智能设计引擎），以及朱明杰、吴飞、卢策吾的论文《中国迈向新一代人工智能》。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_b3350fe114204950836dccba3c354550_img_000" data-img-size-val="1000,562" referrerpolicy="no-referrer"></p> 
 <h2 label="一级标题" style>01 <span style="letter-spacing: 0px;">李彦宏：2023年实现碳中和</span><span style="letter-spacing: 0px;">新无人车2～3年后见</span></h2> 
@@ -43,7 +43,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>马化腾强调，过去几年，上海聚集人才、开放场景、打造平台，为腾讯在内的科技企业营造了良好的创新生态。在这次大会上，腾讯将和国家天文台共同发布“探星计划”，将把上海优图实验室的AI技术用于寻找脉冲星，探索宇宙。</p> 
 <p>不仅如此，腾讯还将带来王者荣耀的电竞赛，让大家欣赏到最高水平AI竞技的同时，激发青年人对于AI的研究兴趣。</p> 
 <p>马化腾谈道，过去几年AI在医疗、城市治疗、非接触服务等领域为人们生活带来越来越多的便利，但人们对AI的未知依然大于已知。而腾讯追求科技向善就要实现AI向善，让AI技术实现可用、可知、可靠。</p> 
-<p>因此，腾讯在今年也将可持续AI创新纳入公司核心战略，希望用向善来牵引整个公司的业务技术发展和科技创新，一步一个脚印实现科技向善。</p> 
+<p>因此，腾讯在今年也将可持续AI创新纳入公司核心战略，希望用向善来牵引整个公司的业务技术发展和科技创新，一步一个脚印<a class="project-link" data-id="168562" data-name="实现科技" data-logo="https://img.36krcdn.com/20201015/v2_4cd9e850e97d42a5b5248ce6cbe7bdb7_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/168562" target="_blank">实现科技</a>向善。</p> 
 <h2 label="一级标题" style>03 <span style="letter-spacing: 0px;">两大国际知名教授：AI面临三个挑战，</span>智能城市发展的两点洞察</h2> 
 <p>2007<a class="project-link" data-id="577369" data-name="图灵" data-logo="https://img.36krcdn.com/20210422/v2_7af949d0a6034f87b8a2327a885c6450_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4781700122" target="_blank">图灵</a>奖得主、国际嵌入式研发中心Verimag实验室教授约瑟夫·斯发基斯（Joseph Sifakis）通过视频的方式，为大家分享了他对弱AI到强AI、再到广义AI的看法。</p> 
 <p>他认为，弱的AI只是一个基石，为了实现广义的AI，它可能并不是渐进式的机器学习。实际上，人们可以从单一任务、单一区域、单一系统，比如说个人的助理、自然语言翻译等等，发展到快速的、迅速的智能系统，在不可预计的电子机械环境中工作，例如智能汽车、智能电网、智能工厂等。</p> 
@@ -52,8 +52,8 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>二是神经网络的可解释性。人们对神经网络有很大程度上的信任，这需要有能够自我学习、可以在自适应的环境下不断学习的模型，约瑟夫·斯发基斯认为这是最困难的一个问题。</p> 
 <p>三是对智能的定义。“智能不是已知的东西，智能是你不知道怎么办的时候所用的东西。”他说。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_ff84d21020a64eceb9a5d411caa76571_img_000" data-img-size-val="1000,565" referrerpolicy="no-referrer"></p> 
-<p>“大数据之父”、牛津大学网络学院互联网治理与监管专业教授舍恩伯格（Viktor Mayer-Schönberger）则分享了两点他对于数据驱动城市前沿发展的洞察。</p> 
-<p>首先是大趋势，截至2020年，全球有半数以上人口居住在城市或城镇区域，这是人类发展史上的一项重要的里程碑。随着越来越多人到城市生活，给城市带来了巨大的压力，城市需要有更好的管理和智能体系，这就<a class="project-link" data-id="590220" data-name="需要智能" data-logo="https://img.36krcdn.com/20200929/v2_aa3e9ce55e3b4324aabc41d471576cb0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/590220" target="_blank">需要智能</a>城市的发展。</p> 
+<p>“大数据之父”、牛津大<a class="project-link" data-id="37536" data-name="学网" data-logo="https://img.36krcdn.com/20200729/v2_104e7f32bf89489c819fc52b25fcbd6c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/37536" target="_blank">学网</a>络学院互联网治理与监管专业教授舍恩伯格（Viktor Mayer-Schönberger）则分享了两点他对于数据驱动城市前沿发展的洞察。</p> 
+<p>首先是大趋势，截至2020年，全球有半数以上人口居住在城市或城镇区域，这是人类发展史上的一项重要的里程碑。随着越来越多人到城市生活，给城市带来了巨大的压力，城市需要有更好的管理和智能体系，这就需要智能城市的发展。</p> 
 <p>但智能城市的核心不在于某一项具体技术或数字基础设施，核心在于做出更好的决策，其基础在于丰富多样的数据，这需要的远不止技术上的进步，更需要组织和机制上的创新以及进步。</p> 
 <p>同时，智能城市发展的概念不能仅仅适用大城市，要真正产生影响还必须适用于小城市。但是小城市资源有限，执行经验不多，所以挑战很多，所以管理者做决策时要基于事实，而不是政策的妥协。</p> 
 <p>第二个洞察是，人们需要知道哪些数据才能使得智能城市概念行之有效，以及如何妥善使用间接的方法收集数据。通常来说，复杂的模式识别和深度学习方法能找到可能有用的代理数据，但这一点通常不太需要特别新颖的技术，而更加依靠创新理念和突破性思考，因此它的执行难度会更大。</p> 
@@ -61,7 +61,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p><img src="https://img.36krcdn.com/20210708/v2_10077a2627a147df82986c99b81d7018_img_000" data-img-size-val="1000,561" referrerpolicy="no-referrer"></p> 
 <h2 label="一级标题" style>04 <span style="letter-spacing: 0px;">梅宏：数字化转型是趋势，</span><span style="letter-spacing: 0px;">开源已成不可或缺的战略资源</span></h2> 
 <p>中国科学院院士梅宏在现场分享<a class="project-link" data-id="4260438" data-name="了数" data-logo="https://img.36krcdn.com/20210422/v2_8e636ec7be434dd5bf7deebc8bed2b62_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/4260438" target="_blank">了数</a>字化转型和开放创新的几点认识。</p> 
-<p>他强调，数字化转型已经成为趋势，发展数字经济是国家的历史机遇。现在，建设数字中国、数字经济已经成为国家战略，这是时代的必然选择，其中必然途径就是各个行业的数字化转型，尤其是制造业的转型。</p> 
+<p>他强调，数字化转型已经成为趋势，发展数字经济是国家的历史机遇。现在，<a class="project-link" data-id="301695" data-name="建设数字" data-logo="https://img.36krcdn.com/20201021/v2_410a9be3034c4616abb79b3d22e9cf88_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/301695" target="_blank">建设数字</a>中国、数字经济已经成为国家战略，这是时代的必然选择，其中必然途径就是各个行业的数字化转型，尤其是制造业的转型。</p> 
 <p>“这一轮变革是大势所趋，其核心驱动力是互联网及其延伸所带来的人、机、物的广泛连接。”梅宏谈道，对此他有两个基本观察：</p> 
 <p>一是各业态都将围绕信息化主线深度协作、融合，完成自身转型和变革，并催生新的业态，很多传统业态也会在这个转变中走向消亡；二是转型会是一个长期过程，他认为这个阶段可能将长达数十年。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_21cb98f01fc342f1a30a1d24e8a4df49_img_000" data-img-size-val="1000,567" referrerpolicy="no-referrer"></p> 
@@ -79,7 +79,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>他提到，现在上海的市民服务热线12345反应速度非常快，背后的原因在于，这些年该服务热线开始引入了AI技术，比如语音识别、情绪感知、自动派单，在这些技术加持下，整个服务热线的反应速度大大提升。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_f430ead72bd04cae9305ce246a4aa0fa_img_000" data-img-size-val="1000,561" referrerpolicy="no-referrer"></p> 
 <p>他认为，现在AI对各行业的改变已全面展开，而AI走到今天正处在一个关键时间点。为了加快AI的落地进程，胡厚崑提出了三点建议：</p> 
-<p>一是汇集各方力量，大力发展以AI计算中心为代表的新型城市基础设施，让AI算力像水和电一样成为一种新的城市公共资源，让智能触手可及。</p> 
+<p>一是汇集各方力量，大力发展以AI计算中心为代表的新型城市基础设施，让AI算力像水和电一样成为一种新的城市公共资源，让智能<a class="project-link" data-id="71257" data-name="触手可及" data-logo="https://img.36krcdn.com/20200729/v2_89e1fedba1234a78b8479bef707f0289_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/71257" target="_blank">触手可及</a>。</p> 
 <p>“在数字经济时代，算力就像水和电一样，一定要成为一种可获得、可负担的资源。”胡厚崑提到，没有充足的AI算力就像没有水和电，会大大制约城市数字化的进程。</p> 
 <p>在改革开放初期，人们常说“想致富先修路”，在当下发展数字经济的时间点上，建设以AI计算中心为代表的新型城市基础设施就显得尤为重要，华为要通过这样的努力，让算力成为可广泛获得、负担得起的公共资源。</p> 
 <p>二是技术要扎到根，根深才能叶茂。行业要大力发展处理器、AI计算框架等技术，增强AI技术产业的发展韧性。</p> 
@@ -109,7 +109,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>“谈安全是为了更好保障新技术的使用。”周鸿祎提到，现在数字化已成为国家战略，其中数字城市是数字化的核心场景，发展到今天它已不是开展建设更多的信息和系统，而是推动城市全面数字化转型，利用数字技术驱动城市、赋能城市、重塑城市。</p> 
 <p>例如在极端化的智能城市中，每一个路灯、垃圾桶、井盖都会被数字化，都有传感器，把城市管理的流程传输到云端汇成大数据。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_3f2e5ae708ca40e99ba142c3b4167563_img_000" data-img-size-val="1000,490" referrerpolicy="no-referrer"></p> 
-<p>周鸿祎认为，从本质上看，城市数字化转型是构建城市的数字孪生，以大数据为核心，利用物联网、传感器、云计算、5G、AI、变换计算、区块链等技术，通过数据的生产、采集、运营和赋能，打通<a class="project-link" data-id="416771" data-name="数字空间" data-logo="https://img.36krcdn.com/20200729/v2_a0004fe2fae445da9c3c61c35ed0e6f4_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/416771" target="_blank">数字空间</a>和物理空间，形成数字孪生闭环。</p> 
+<p>周鸿祎认为，从本质上看，城市数字化转型是构建城市的数字孪生，以大数据为核心，利用物联网、传感器、云计算、5G、AI、变换计算、区块链等技术，通过数据的生产、采集、运营和赋能，打通数字空间和物理空间，形成数字孪生闭环。</p> 
 <p>虽然数字城市有无数想象空间，但从安全角度看，数字程度越高，安全挑战越大，随着<a class="project-link" data-id="268941" data-name="未来智慧" data-logo="https://img.36krcdn.com/20201112/v2_d966fc447e8343a89c6a3cf65e2151fb_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/268941" target="_blank">未来智慧</a>交通、智慧电网、政务云、大数据中心，以及数以亿计的设备和终端应用场景愈发复杂多样，网络和社会资源数量庞大，就会导致网络暴露的攻击无限扩大，加剧网络安全问题。</p> 
 <p>因此在周鸿祎看来，当数据积累到一定程度并发生质变，数据的安全就会直接和国家安全建立直接的联系。</p> 
 <p>除此之外，周鸿祎还谈道了数字城市的三个特征，为一切皆可编程、万物均要互联、大数据驱动业务，“归根结底是软件定义城市，城市架构在软件的基础之上。”</p> 
@@ -124,7 +124,7 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>针对AI普惠这一话题，红杉资本全球执行合伙人、红杉资本中国基金创始及执行合伙人沈南鹏也通过远程连线的方式，分享了他对AI技术应用落地，特别是在生活领域对消费模式的改变、发展的看法。</p> 
 <p>沈南鹏谈道，如果把算力水平和应用场景形象的看成AI在生活领域的两条腿，那么算力这条腿很长、很粗壮，呈指数级增长。但是应用场景这条腿相对比较短和细，还处在线性增长中，仍有大量的吃穿住行的细分场景需要开拓，生活场景中的数据挖掘还有很大提升空间。</p> 
 <p>一方面，AI和居家生活结合得越紧密，生活场景挖掘得越多，AI的产业价值就越大；另一方面，服务性AI也有望改善今后的交互体验。</p> 
-<p>例如大家常看到服务机器人，现阶段还无法完全读懂消费者的表情集<a class="project-link" data-id="504908" data-name="体语" data-logo="https://img.36krcdn.com/20191125/v2_1574651052008_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/504908" target="_blank">体语</a>言和情绪语言，所以在一些投诉客服、社交陪伴等场景中，用户对AI产生拒绝和不信任感，这就需要挖掘AI在情感计算方面存在的潜在应用。</p> 
+<p>例如大家常看到服务机器人，现阶段还无法完全读懂消费者的表情集体语言和情绪语言，所以在一些投诉客服、社交陪伴等场景中，用户对AI产生拒绝和不信任感，这就需要挖掘AI在情感计算方面存在的潜在应用。</p> 
 <p>与此同时，AI为解决看病难也带来更多可能性。沈南鹏提到，目前AI在医疗领域比较成熟的应用是AI影像的辅助诊断，但在线问诊、健康管理等其他领域还在积极探索期。</p> 
 <p>但AI+医疗带来的诸多可能性让老百姓看病难出现了很多期待和想象空间，激发投身医疗AI的创业者和研究者前赴后继，“可遇见这个是未来AI在应用层面一个重要的方向。”他说。</p> 
 <p><img src="https://img.36krcdn.com/20210708/v2_b217a71d49594a018a5c7e238a9a958a_img_000" data-img-size-val="1000,562" referrerpolicy="no-referrer"></p> 
@@ -137,6 +137,6 @@ thumbnail: 'https://img.36krcdn.com/20210708/v2_b4b985852b4345da906777e7b4c34b55
 <p>世界人工智能大会还将持续进行2天，今天上午这场开幕主论坛是最有看点的，也是规格最高的，从中我们不仅能看到来自各界大牛对人工智能及行业数字化发展的独到见解，还能看到相关企业的技术进展。</p> 
 <p>随着我国各个行业的不断创新和发展，数字化、智能化转型已逐渐深入每个科技企业的战略思考中。在全行业的努力下，AI正从各个维度激发着整个社会经济的发展，给千行百业的技术创新和融合应用带来新动能。</p> 
 <p>但不可否认的是，当下AI产业的发展仍需要突破应用落地和开发的效率瓶颈，如何更好地利用新技术，实现生产运营的降本增效，也成为这条赛道上每个玩家需要不断摸索和解决的问题。</p> 
-<p>未来，我们也期待AI能真正地飞入寻常<a class="project-link" data-id="581378" data-name="百姓家" data-logo="https://img.36krcdn.com/20201107/v2_3fe24b85d5ff4c6a90ab37fbdab15311_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/581378" target="_blank">百姓家</a>，成为你我生活中遍地开花的存在。</p>  
+<p>未来，我们也期待AI能真正地飞入寻常百姓家，成为你我生活中遍地开花的存在。</p>  
 </div>
             
