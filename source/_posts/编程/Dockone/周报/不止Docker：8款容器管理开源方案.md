@@ -5,15 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://img-blog.csdnimg.cn/20210707222428451.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhbmNoZXJMYWJz,size_16,color_FFFFFF,t_70#pic_center'
+headimg: 'https://img-blog.csdnimg.cn/20210707223204305.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhbmNoZXJMYWJz,size_16,color_FFFFFF,t_70'
 author: Dockone
 comments: false
-date: 2021-07-08 05:06:00
-thumbnail: 'https://img-blog.csdnimg.cn/20210707222428451.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhbmNoZXJMYWJz,size_16,color_FFFFFF,t_70#pic_center'
+date: 2021-07-08 06:08:05
+thumbnail: 'https://img-blog.csdnimg.cn/20210707223204305.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhbmNoZXJMYWJz,size_16,color_FFFFFF,t_70'
 ---
 
 <div>   
-<br><img src="https://img-blog.csdnimg.cn/20210707222428451.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhbmNoZXJMYWJz,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" referrerpolicy="no-referrer"><br>
 <br>Docker诞生于2013年，并普及了容器的概念，以至于大多数人仍然将容器的概念等同于“Docker容器”。<br>
 <br>作为第一个吃螃蟹的人，Docker设置了新加入者必须遵守的标准。例如，Docker有一个大型系统镜像库。所有的替代方案都必须使用相同的镜像格式，同时试图改变Docker所基于的整个堆栈的一个或多个部分。<br>
 <br>在此期间，出现了新的容器标准，容器生态系统朝着不同方向发展。现在除了Docker之外，还有很多方法可以使用容器。<br>
@@ -93,9 +92,7 @@ thumbnail: 'https://img-blog.csdnimg.cn/20210707222428451.jpg?x-oss-process=imag
 <br>LXD可以从一台本地机器扩展到几千台远程机器。与Docker类似，它是基于镜像的，所有更流行的Linux发行版都可以使用镜像。Ubuntu的公司Canonical正在资助LXD的开发，因此它将始终运行在Ubuntu以及其他类似Linux操作系统的最新版本上。LXD可以与OpenNebula和OpenStack标准无缝集成。<br>
 <br>从技术上讲，LXD是站在LXC的肩膀上（两者都使用相同的liblxc库和Go语言创建容器），但LXD的目标是改善用户体验。<br>
 <br><h2>Docker会永远存在吗？</h2>Docker拥有1100万开发者、700万个应用程序和每月130亿次的镜像下载。如果仅仅说Docker仍然是领导，那就太轻描淡写了。然而，在这篇文章中，我们已经看到，现在已经有许多产品可以取代Docker软件栈的一个或多个部分，并且通常情况下没有兼容性问题。而且与Docker提供的服务相比，其他软件的主要目标是安全性。<br>
-<blockquote><br>原文链接：<br>
-  <br>
-  <br><a href="https://community.suse.com/posts/beyond-docker-a-look-at-alternatives-to-container-management-14411837" rel="nofollow" target="_blank">https://community.suse.com/pos ... 11837</a></blockquote>
+<br>原文链接：<a href="https://community.suse.com/posts/beyond-docker-a-look-at-alternatives-to-container-management-14411837" rel="nofollow" target="_blank">https://community.suse.com/pos ... 11837</a>
                                 
                                                               
 </div>

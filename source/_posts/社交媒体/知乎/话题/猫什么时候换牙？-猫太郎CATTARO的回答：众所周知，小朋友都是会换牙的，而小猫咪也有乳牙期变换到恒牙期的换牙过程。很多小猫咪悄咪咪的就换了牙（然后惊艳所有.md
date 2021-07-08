@@ -1,0 +1,18 @@
+
+---
+title: '猫什么时候换牙？-猫太郎CATTARO的回答：众所周知，小朋友都是会换牙的，而小猫咪也有乳牙期变换到恒牙期的换牙过程。很多小猫咪悄咪咪的就换了牙（然后惊艳所有...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-174333b97cb261c4cccd304af22b9a65_720w.gif?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 08 Jul 2021 05:35:13 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-174333b97cb261c4cccd304af22b9a65_720w.gif?source=54b3c3a5'
+---
+
+<div>   
+<strong>猫什么时候换牙？</strong><br>猫太郎CATTARO的回答<br><p>众所周知，小朋友都是会换牙的，而小猫咪也有乳牙期变换到恒牙期的换牙过程。很多小猫咪悄咪咪的就换了牙（然后惊艳所有人？(=^•ェ•^=) ），直到某一天铲屎官在某个角落捡到一颗牙齿才发现自家的小家伙换了牙。</p><p>大部分铲屎官并不特别关注猫咪的牙齿健康，等到开始了解，都是已经发生问题了，比如猫咪有口臭、流口水、牙龈发红、不爱吃饭......</p><p>今天我们就来扒一扒小猫咪的换牙过程，以及猫咪牙齿护理那些事儿。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-174333b97cb261c4cccd304af22b9a65_720w.gif?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="362" data-rawheight="362" data-thumbnail="https://pic1.zhimg.com/50/v2-174333b97cb261c4cccd304af22b9a65_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic1.zhimg.com/50/v2-174333b97cb261c4cccd304af22b9a65_720w.gif?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>Part I. 小猫咪的换牙时间</b></p><p>①　猫咪出生后2~4周才开始长出乳牙。</p><p>一直到2个月左右，小猫的乳牙长齐。而新长出的尖牙会刺激到母猫，也就意味着这个时候的猫咪要断奶了。</p><p>②　3~5月龄时，猫咪乳牙开始脱落换上新的恒牙。</p><p>换牙期的猫会经历不同程度的牙龈肿痛，有的猫咪会因此变得食欲不振、甚至厌食；长新牙时，又会有刺痒感，它们就可能会做各种“牙痒”乱咬状，通过啃咬物体来缓解。</p><p>③　6~8月龄的猫咪，恒牙逐渐长齐，猫咪也开始步入成猫阶段。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-4c720afc16774fd20d5455f6dddbae27_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="500" data-rawheight="331" data-default-watermark-src="https://pic3.zhimg.com/50/v2-de528d60be35414c1b151b51948a00f4_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4c720afc16774fd20d5455f6dddbae27_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-4c720afc16774fd20d5455f6dddbae27_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>（图源网络）</figcaption></figure><p><b>Part II. 换牙期要准备......</b></p><p>每一只猫咪换牙的时间、时长和表现都各不相同，铲屎官可以在猫咪3~5月大的时候多关注一下，也可以适当的做一些准备，帮助猫咪顺利换一口好牙。</p><p><b>1.</b> <b>一根磨牙棒。</b></p><p>换牙阶段的各种不适，会让猫发自本能的乱咬，可以添置一些磨牙棒、洁齿玩具等，避免猫咪啃咬家具，以及保护好家里的贵重物品，和自己。</p><p><b>2.</b> <b>“软硬皆施”。</b></p><p>很多铲屎官会纠结在这个阶段该给猫咪喂什么样的猫粮才合适？其实就提供<b>正常的猫粮</b>即可。</p><p>当然特殊情况除外，比如有的猫牙龈肿痛比较严重，甚至发炎；而有的猫咪却更加“生龙活虎”，逮着什么都咬。主人要根据情况适当调整猫粮的大小、软硬。对于特别爱啃咬的猫，还可以安排一些磨牙零食。</p><p><b>3.</b> <b>牙齿清洁。</b></p><p>这个阶段的猫咪新旧牙不齐，特别容易有食物残留，是非常需要进行牙齿清洁的。这也是让猫从小习惯刷牙的好机会，可以有效降低以后得口腔疾病的几率。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-148c19f83a7205dc9cc2f082acec462f_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="499" data-rawheight="333" data-default-watermark-src="https://pic3.zhimg.com/50/v2-7b591b5bbfbcc28b080fc8ab2e167a56_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-148c19f83a7205dc9cc2f082acec462f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-148c19f83a7205dc9cc2f082acec462f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>（图源网络）</figcaption></figure><p><b>Part III. 猫咪牙齿护理</b></p><p><b>Ø</b> <b>借助食物，帮助磨牙洁齿。</b></p><p>冻干生骨肉就是一种很好的猫咪磨牙主食。一方面软硬程度刚合适，另一方面，经过低温冷冻干燥锁鲜的生骨肉，能够提供比普通猫粮更纯粹的营养。</p><p><b>Ø 定期刷牙。</b></p><p>不管是人还是宠物，刷牙都是一个好习惯。有很多人等到猫咪已经出现牙结石、牙周炎之后，才后悔没有关注猫咪的口腔健康。所以，提早给猫咪刷牙、提早让猫咪适应刷牙，绝对是好处多多的好习惯。</p>  
+</div>
+            
