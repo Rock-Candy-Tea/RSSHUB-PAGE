@@ -8,16 +8,16 @@ categories:
 headimg: 'https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg'
 author: 机核网
 comments: false
-date: 2021-07-08 01:53:01
+date: 2021-07-08 02:22:09
 thumbnail: 'https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-5g1t3" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true">
+<img src="https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-dkg37" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true">
 <figure>
 <img src="https://image.gcores.com/0b476ba2-f4ef-4706-a630-f9d547abd728.png" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="csk9n-0-0"><div data-offset-key="csk9n-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="csk9n-0-0"><span data-text="true">即将迎来《超时空要塞》系列40年周年，官方公布了系列最新作品《MACROSSΔ 絶對LIVE!!!!!!》将于2021年秋季在日本线下院线公映！先让我们一同观看近日官方放出的剧场版宣传PV与官方释出的剧照吧：</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="5g1t3" data-offset-key="38kan-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="no" framespacing="0" border="0" src="//player.bilibili.com/player.html?aid=206428080&bvid=BV17h411h7m3&cid=364352651&page=1" scrolling="no"></iframe></div></div></div></figure>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="csk9n-0-0"><div data-offset-key="csk9n-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="csk9n-0-0"><span data-text="true">即将迎来《超时空要塞》系列40年周年，官方公布了系列最新作品《MACROSSΔ 絶對LIVE!!!!!!》将于2021年秋季在日本线下院线公映！先让我们一同观看近日官方放出的剧场版宣传PV与官方释出的剧照吧：</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="dkg37" data-offset-key="38kan-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="no" framespacing="0" border="0" src="//player.bilibili.com/player.html?aid=206428080&bvid=BV17h411h7m3&cid=364352651&page=1" scrolling="no"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/6d8b6ce5-08b0-4b8c-9632-259fc21b0ed7.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -117,7 +117,7 @@ thumbnail: 'https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg'
 <img src="https://image.gcores.com/b5d614b6-40e9-42c3-8001-c8b9a09036ec.jpeg" alt referrerpolicy="no-referrer">
 <figcaption> (10/10) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="a2m5q-0-0"><div data-offset-key="a2m5q-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a2m5q-0-0"><span data-text="true">从宣传PV与放出来的剧照可以看到，这次的歌唱偶像团体【Walküre】又将面临全新敌对势力，并且敌对机体的外观造型，尤其是头部设计甚至有一丝《超时空要塞 ZERO》的风味。 不过目前的情报还不足够，具体的故事内容也只能在上映之后才能明晰。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="4m8u8-0-0"><div data-offset-key="4m8u8-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4m8u8-0-0"><span data-text="true">同时官方还公布了本次参战的机体VF-31系列机设资料：</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="a2m5q-0-0"><div data-offset-key="a2m5q-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a2m5q-0-0"><span data-text="true">从宣传PV与放出来的剧照可以看到，这次的歌唱偶像团体【Walküre】又将面临全新敌对势力，并且敌对机体的外观造型，尤其是头部设计甚至有一丝《超时空要塞 ZERO》的风味。 不过目前的情报还不足够，具体的故事内容也只能在上映之后才能明晰。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="4m8u8-0-0"><div data-offset-key="4m8u8-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4m8u8-0-0"><span data-text="true">同时官方还公布了本次参战的机体VF-31系列机设资料：</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/41f6a669-a3ed-4a86-b68f-2e568fe52834.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -167,14 +167,14 @@ thumbnail: 'https://image.gcores.com/9e48ceae-0850-4e96-9424-60a1194ae704.jpg'
 <img src="https://image.gcores.com/661b7c64-06cd-4ec0-9c0d-f08d518073a3.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (10/10) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="bfu0o-0-0"><div data-offset-key="bfu0o-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bfu0o-0-0"><span data-text="true">万代收藏部也在之前已经公布的商品超合金DX系列</span></span><a class="md-link" href="https://www.gcores.com/articles/137399" rel="noopener noreferrer" target="_blank" aria-label="https://www.gcores.com/articles/137399"><span data-offset-key="bfu0o-1-0"><span data-text="true">VF-31J</span></span></a><span data-offset-key="bfu0o-2-0"><span data-text="true">之后，再度趁势公布了同产品线的最新产品的预告信息，超合金DX VF-31AX！</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="bfu0o-0-0"><div data-offset-key="bfu0o-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bfu0o-0-0"><span data-text="true">万代收藏部也在之前已经公布的商品超合金DX系列</span></span><a class="md-link" href="https://www.gcores.com/articles/137399" rel="noopener noreferrer" target="_blank" aria-label="https://www.gcores.com/articles/137399"><span data-offset-key="bfu0o-1-0"><span data-text="true">VF-31J</span></span></a><span data-offset-key="bfu0o-2-0"><span data-text="true">之后，再度趁势公布了同产品线的最新产品的预告信息，超合金DX VF-31AX！</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/77e6500f-80ed-4447-b14d-dcf21d8f57ee.jpg" alt="VF系列都到31了，时光荏苒啊！" referrerpolicy="no-referrer">
 <figcaption>VF系列都到31了，时光荏苒啊！</figcaption>
-</figure><div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="7v34t-0-0"><div data-offset-key="7v34t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7v34t-0-0"><span data-text="true">同期上映的还要《超时空要塞 Frontier》的剧场短篇《时之迷宫》。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="7v34t-0-0"><div data-offset-key="7v34t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7v34t-0-0"><span data-text="true">同期上映的还要《超时空要塞 Frontier》的剧场短篇《时之迷宫》。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/8c7fb76c-6173-43cb-9709-d888f45d0d13.png" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="5g1t3" data-offset-key="cn42i-0-0"><div data-offset-key="cn42i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cn42i-0-0"><span data-text="true">更多情报请访问官方网站</span></span><a class="md-link" href="https://macross.jp/special/deltamovie2/" rel="noopener noreferrer" target="_blank" aria-label="https://macross.jp/special/deltamovie2/"><span data-offset-key="cn42i-1-0"><span data-text="true">MACROSS PARTAL</span></span></a><span data-offset-key="cn42i-2-0"><span data-text="true">了解获取。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block story_block-text " data-block="true" data-editor="dkg37" data-offset-key="cn42i-0-0"><div data-offset-key="cn42i-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cn42i-0-0"><span data-text="true">更多情报请访问官方网站</span></span><a class="md-link" href="https://macross.jp/special/deltamovie2/" rel="noopener noreferrer" target="_blank" aria-label="https://macross.jp/special/deltamovie2/"><span data-offset-key="cn42i-1-0"><span data-text="true">MACROSS PARTAL</span></span></a><span data-offset-key="cn42i-2-0"><span data-text="true">了解获取。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

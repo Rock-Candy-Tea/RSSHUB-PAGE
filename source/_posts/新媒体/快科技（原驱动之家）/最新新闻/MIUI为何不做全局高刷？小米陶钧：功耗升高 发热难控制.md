@@ -23,7 +23,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210708/s_bc3e6c3b5c3d4d019277ce11a7
 <p>不存在单独为了流畅性而频繁清理后台，<strong>在内存足够的情况下，多清理几次内存并不会提高流畅性。</strong></p>
 <p>值得一提的是，有用户表示，希望去掉一些自带App，来提升流畅度。</p>
 <p>MIUI负责人金凡回复称，<span style="color:#ff0000;"><strong>现在MIUI很多系统App都可以卸载，可卸载的数量在整个安卓里应该是最多的之一。</strong></span></p>
-<p>但澄清一下，去掉（卸载）App和系统流畅度是没有直接关联的，App占用的是存储空间，除非正在在运行，否则并不会占用系统资源（CPU和内存）。</p>
+<p>但澄清一下，去掉（卸载）App和系统流畅度是没有直接关联的，App占用的是存储空间，除非正在运行，否则并不会占用系统资源（CPU和内存）。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210708/bc3e6c3b5c3d4d019277ce11a7e09f2b.png" target="_blank"><img alt="MIUI为何不做全局高刷？小米陶钧：功耗升高 发热难控制" h="400" src="https://img1.mydrivers.com/img/20210708/s_bc3e6c3b5c3d4d019277ce11a7e09f2b.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
