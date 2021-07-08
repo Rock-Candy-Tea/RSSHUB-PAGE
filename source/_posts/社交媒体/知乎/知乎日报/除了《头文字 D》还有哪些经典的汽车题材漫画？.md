@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-07-08 13:17:20
-thumbnail: 'https://pic1.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162'
+date: 2021-07-08 14:07:47
+thumbnail: 'https://pic3.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-9d52de5b9496a5c55533425e79b6f428_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">彬帝，</span><span class="bio">漫画爱好者，钟爱盘点类回答</span>
 <a href="https://www.zhihu.com/question/60780485/answer/1977925382" class="originUrl" hidden>查看知乎原文</a>
 </strong>
