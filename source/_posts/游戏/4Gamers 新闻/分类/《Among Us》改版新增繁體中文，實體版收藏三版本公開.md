@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 4Gamers 新闻
  - 分类
-headimg: 'https://img.4gamers.com.tw/news-image/d035df6d-701c-4203-91f4-fd0d07debcf6.jpg'
+headimg: 'https://img.4gamers.com.tw/news-image/3167fcae-f586-4984-9c6c-7e183fa9a518.jpg'
 author: 4Gamers 新闻
 comments: false
 date: Thu, 08 Jul 2021 05:08:07 GMT
-thumbnail: 'https://img.4gamers.com.tw/news-image/d035df6d-701c-4203-91f4-fd0d07debcf6.jpg'
+thumbnail: 'https://img.4gamers.com.tw/news-image/3167fcae-f586-4984-9c6c-7e183fa9a518.jpg'
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/d035df6d-701c-4203-91f4-fd0d07debcf6.jpg" referrerpolicy="no-referrer"><p>實體版布偶好可愛</p>  
+<img src="https://img.4gamers.com.tw/news-image/3167fcae-f586-4984-9c6c-7e183fa9a518.jpg" referrerpolicy="no-referrer"><p>實體版布偶好可愛</p>  
 </div>
             
