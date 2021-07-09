@@ -1,0 +1,18 @@
+
+---
+title: '初次养猫有哪些建议_-张喵喵的回答：我也是年初刚抱回来一只流浪猫，是在小区里面发现的，扒着我的裤腿不让我走。刚领养回来的时候又瘦又小。_b_现在被我养的肉...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-4528781f0b281ffc665c12e38a9afb1f_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 09 Jul 2021 13:01:02 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-4528781f0b281ffc665c12e38a9afb1f_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>初次养猫有哪些建议?</strong><br>张喵喵的回答<br><p>我也是年初刚抱回来一只流浪猫，是在小区里面发现的，扒着我的裤腿不让我走。刚领养回来的时候又瘦又小。<b>现在被我养的肉乎乎的毛色也很亮，基本上人见人夸~</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-4528781f0b281ffc665c12e38a9afb1f_720w.jpg?source=54b3c3a5" data-rawwidth="510" data-rawheight="557" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-e0e8ebf08b9d75cc95cd40bc4ca9faea_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4528781f0b281ffc665c12e38a9afb1f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-4528781f0b281ffc665c12e38a9afb1f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>对我们这种新手家长来说，养毛孩子要注意的地方可太多了，<b>但最重要的还是吃的方面，买靠谱的猫粮，吃好营养好才是最重要的！</b></p><p>刚领养小猫的时候我在网上做了很多猫粮的功课，但也踩过几次雷，小猫吃完就拉肚子。那段时间也是给我愁坏了，直到有一次无意间看见了<b>老爸测评推荐一款猫粮</b>，我真是被打动了，想买回来给小猫试试。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-dbd18b7e5245779229c4e5de43ad4720_720w.jpg?source=54b3c3a5" data-rawwidth="545" data-rawheight="595" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c7f0489bce911c49f6791725b37c9cd2_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-dbd18b7e5245779229c4e5de43ad4720_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-dbd18b7e5245779229c4e5de43ad4720_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>就是这款网易严选的全价冻干双拼猫粮，目前已经给小猫吃了一个多月了，没有任何不良反应，天天就差把脸粘在猫粮碗里了。</p><p>包括我身边几个养猫的朋友也对这款一致认可。这款猫粮<b>属于纯肉冻干双拼，是小猫咪最爱的鸡肉冻干和蛋黄冻干颗粒</b>，很符合猫天生爱吃肉的本性，同时含有91%的动物性原料，鸡鸭牛鱼蛋奶，满满的动物性蛋白，还<b>添加了9%的果蔬及其他营养物质</b>，不仅口感upupup，还给猫咪<b>补充了平时生活中缺少的维生素及其他营养物质</b>，最最最重要的一点这款<b>无大豆、小麦等过敏源</b>，对像我们家小猫一样肠胃敏感的猫咪不要太友好，就单单这些就能瞬间秒掉许多价格虚高的进口猫粮~</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-23fc9a917a305b6e2314e60680aac90b_720w.jpg?source=54b3c3a5" data-rawwidth="633" data-rawheight="747" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ef033ecfeee0b29187456dceb37472c0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-23fc9a917a305b6e2314e60680aac90b_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-23fc9a917a305b6e2314e60680aac90b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>如果是新手家长，不知道给小猫咪吃什么的话一定要试试这个，我家小猫超级爱，完全不挑食，吃了一个多月，眼看着日渐圆润起来~</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-f0f13c2b6749f7cdfc1e7f6fea86e71c_720w.jpg?source=54b3c3a5" data-rawwidth="633" data-rawheight="752" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-1cba7ddaddfee7d536207204e9314af9_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-f0f13c2b6749f7cdfc1e7f6fea86e71c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-f0f13c2b6749f7cdfc1e7f6fea86e71c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这款猫粮真的给我一种国产猫粮天花板的感觉，现在网易严选上的推广价是98元/1.8kg，20多块钱一斤。这性价比简直了！！妥妥的进口高品质猫粮的平替。</p><p><b>放心的是全价冻干双拼猫粮的检测报告都是公开的，还有抖音上很火的老爸测评抽检背书，完全可以放心大胆的给小猫咪食用～</b></p>  
+</div>
+            
