@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游戏时光
  - 游戏时光新闻
-headimg: 'https://picsum.photos/400/300?random=6707'
+headimg: 'https://picsum.photos/400/300?random=9688'
 author: 游戏时光
 comments: false
 date: Thu, 08 Jul 2021 12:50:28 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6707'
+thumbnail: 'https://picsum.photos/400/300?random=9688'
 ---
 
 <div>   
@@ -1992,7 +1992,7 @@ mso-hansi-theme-font:minor-latin;
 mso-bidi-font-family:"Times New Roman";
 mso-bidi-theme-font:minor-bidi;&#125;
 </style>
-<![endif]-->　　本作为东方幻想题材的国风战棋单机游戏，将7月中旬于Steam平台发售。<br></p><div class="vg_insert_video"><figure contenteditable="false"><iframe class="vg_insert_video_iframe new_bilibili" frameborder="0" allowfullscreen src="https://player.bilibili.com/player.html?aid=974047260&bvid=BV1q44y1q7a7&cid=366477482&page=1" height="513"></iframe><figcaption contenteditable="true" class="vg_insert_video_notice"></figcaption></figure><div class="vg_insert_video_cover bili_cover bili_cover_new" contenteditable="false" style="height:513px"><b class="bili_play"></b><span class="vg_insert_video_del" contenteditable="false"></span></div></div><p style="text-align: right;"><a href="https://www.bilibili.com/video/BV1q44y1q7a7?share_source=copy_web">视频地址</a></p><hr class="vg_hr" contenteditable="false"><p><b style="background-color: initial; letter-spacing: 1.3px;">《骇游侠探》<a href="https://www.bilibili.com/video/BV1D54y1J7BK?share_source=copy_web">预告</a>：    </b><br></p><p>
+<![endif]-->　　本作为东方幻想题材的国风战棋单机游戏，将7月中旬于Steam平台发售。<br></p><div class="vg_insert_video"><figure contenteditable="false"><iframe class="vg_insert_video_iframe new_bilibili" frameborder="0" allowfullscreen src="https://player.bilibili.com/player.html?aid=974047260&bvid=BV1q44y1q7a7&cid=366477482&page=1" height="513"></iframe><figcaption contenteditable="true" class="vg_insert_video_notice"></figcaption></figure><div class="vg_insert_video_cover bili_cover bili_cover_new" contenteditable="false" style="height:513px"><b class="bili_play"></b><span class="vg_insert_video_del" contenteditable="false"></span></div></div><p style="text-align: right;"><a href="https://www.bilibili.com/video/BV1q44y1q7a7?share_source=copy_web">视频地址</a></p><hr class="vg_hr" contenteditable="false"><p><b style="background-color: initial; letter-spacing: 1.3px;">《骇游侠探》<a href="https://www.bilibili.com/video/BV1jL411W7px?share_source=copy_web">预告</a>：    </b><br></p><p>
 <!--[if gte mso 9]><xml>
  
   <o:AllowPNG/>
@@ -2654,7 +2654,7 @@ mso-hansi-font-family:等线;
 mso-hansi-theme-font:minor-latin;
 mso-font-kerning:1.0pt;&#125;
 </style>
-<![endif]-->　　玩家将游历多个虚拟世界，包括充满欺瞒的农场、黑暗的赛博朋克之都及幻想式世界等，同时需要巧用智慧，从目击证人和嫌疑人身上收集情报，揭开谎言与阴谋的真相。游戏不会只提供单一通关路线，而是给玩家从不同角度解决问题的自由，并会持续根据玩家的选择而发生各种变化。    </p><div class="vg_insert_video"><figure contenteditable="false"><iframe class="vg_insert_video_iframe new_bilibili" frameborder="0" allowfullscreen src="https://player.bilibili.com/player.html?aid=846478175&bvid=BV1D54y1J7BK&cid=363565172&page=1" height="513"></iframe><figcaption contenteditable="true" class="vg_insert_video_notice"></figcaption></figure><div class="vg_insert_video_cover bili_cover bili_cover_new" contenteditable="false" style="height:513px"><b class="bili_play"></b><span class="vg_insert_video_del" contenteditable="false"></span></div></div><hr class="vg_hr" contenteditable="false"><p><b style="background-color: initial; letter-spacing: 1.3px;">《劲爆51飞行队》<a href="https://www.bilibili.com/video/BV1iT4y1575c?share_source=copy_web">预告</a>：</b><br></p><p>
+<![endif]-->　　玩家将游历多个虚拟世界，包括充满欺瞒的农场、黑暗的赛博朋克之都及幻想式世界等，同时需要巧用智慧，从目击证人和嫌疑人身上收集情报，揭开谎言与阴谋的真相。游戏不会只提供单一通关路线，而是给玩家从不同角度解决问题的自由，并会持续根据玩家的选择而发生各种变化。    </p><div class="vg_insert_video"><figure contenteditable="false"><iframe class="vg_insert_video_iframe new_bilibili" frameborder="0" allowfullscreen src="https://player.bilibili.com/player.html?aid=461553926&bvid=BV1jL411W7px&cid=366490618&page=1" height="827.4375"></iframe><figcaption contenteditable="true" class="vg_insert_video_notice"></figcaption></figure><div class="vg_insert_video_cover bili_cover bili_cover_new" contenteditable="false" style="height:827.4375px"><b class="bili_play"></b><span class="vg_insert_video_del" contenteditable="false"></span></div></div><p><br></p><hr class="vg_hr" contenteditable="false"><p><b style="background-color: initial; letter-spacing: 1.3px;">《劲爆51飞行队》<a href="https://www.bilibili.com/video/BV1iT4y1575c?share_source=copy_web">预告</a>：</b><br></p><p>
 <!--[if gte mso 9]><xml>
  
   <o:AllowPNG/>

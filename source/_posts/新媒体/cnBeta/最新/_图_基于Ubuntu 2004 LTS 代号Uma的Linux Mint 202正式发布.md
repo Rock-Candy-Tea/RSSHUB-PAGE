@@ -1,0 +1,19 @@
+
+---
+title: '_图_基于Ubuntu 20.04 LTS 代号Uma的Linux Mint 20.2正式发布'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0709/0c7a002f69f2472.jpg'
+author: cnBeta
+comments: false
+date: Fri, 09 Jul 2021 01:54:07 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0709/0c7a002f69f2472.jpg'
+---
+
+<div>   
+基于 Ubuntu 20.04 LTS 版本，代号为 Uma 的 Linux Mnit 20.2 于今天正式发布。目前官方提供了 Cinnamon、MATE 和 Xfce 三种桌面供用户挑选，其中 GNOME 分叉的 Cinnamon 桌面环境已经达到了 5.0 版本。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/0c7a002f69f2472.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/0c7a002f69f2472.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/5959962ff3bdc8d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/5959962ff3bdc8d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0709/89a1ff29e58ae8d.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/375ceb7d5ac8cbe.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/375ceb7d5ac8cbe.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/1442bcdbd1a5f4c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/1442bcdbd1a5f4c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/e2b0b6e13790a3f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/e2b0b6e13790a3f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/13d0214dcdb0238.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/13d0214dcdb0238.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/b4d210080e7eda7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/b4d210080e7eda7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/5a777da195a4aa4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/5a777da195a4aa4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/d5842cf36486c42.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/d5842cf36486c42.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0709/adc4ede0b403100.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0709/adc4ede0b403100.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Cinnamon 5.0 为其 Nemo 文件管理器提供了新的搜索功能，修复了内存泄漏，更好地处理了 Spices 周围的更新，以及其他各种主要的小更新。</p><p style="text-align: left;">Linux Mint 20.2 还对其 XApps 程序进行了更新，继续改进 Warpinator （包括一个新的 Android 应用程序），用于这个 Linux Mint 文件传输工具在本地网络上的传输，Sticky Notes 已经取代 GNotes 用于记笔记，并增加了一个称为 Bulky 的新工具， 用于处理批量文件重命名。</p><p style="text-align: left;">访问：</p><p style="text-align: left;">● <a href="https://blog.linuxmint.com/?p=4102" target="_blank" rel="noopener noreferrer">Linux Mint 20.2 Cinnamon</a></p><p style="text-align: left;">● <a href="https://blog.linuxmint.com/?p=4101" target="_blank" rel="noopener noreferrer">Linux Mint 20.2 MATE</a></p><p style="text-align: left;">● <a href="https://blog.linuxmint.com/?p=4103" target="_blank" rel="noopener noreferrer">Linux Mint 20.2 Xfce</a></p><p><a href="https://www.linuxmint.com/rel_uma_cinnamon_whatsnew.php">更新日志</a></p>   
+</div>
+            
