@@ -1,0 +1,19 @@
+
+---
+title: '易飞扬首发适应城域DCI互连的200G QSFP56 ER4光模块'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-7/9/jianhua/20210709162549_1625819149992569398.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 09 Jul 2021 08:31:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-7/9/jianhua/20210709162549_1625819149992569398.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">［中国，深圳，2021年7月7日］<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-5G.HTM" target="_blank" title="5G">5G</a></span>背景下，宽带速率、传输距离以及控制成本是<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320248-yitaiwang.html" target="_blank" title="数据中心">数据中心</a></span>和城域<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320206-guangchuanshu.html" target="_blank" title="光传输">光传输</a></span>网络用户努力的方向。为满足市场需求，近日，易飞扬创新发布了200G Q<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-sfp.html" target="_blank" title="SFP">SFP</a></span>56 ER4<span class="hrefStyle"><a href="https://fiber.ofweek.com/tag-%E5%85%89%E6%A8%A1%E5%9D%97.HTM" target="_blank" title="光模块">光模块</a></span>。它采用市场主流的4路WDM光学引擎架构，集成了4路制冷的EML激光器和APD光探测器，支持200GE速率（4X53Gbps）和<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320225-OTN.html" target="_blank" title="OTN">OTN</a></span>标准，适应200G城域DCI长距互连和5G回传，目前属于业界首款。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-7/9/jianhua/20210709162549_1625819149992569398.jpg" width="481" height="471" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">图一：易飞扬200G QSFP56 ER4</p><p style="text-indent: 2em; text-align: left;">易飞扬的200G QSFP56 ER4光模块常温功耗6．4W，三温情况下功耗低于7．5W，节能性能优异；光模块符合QSFP56 MSA和IEEE 802．3cn 200GBASE－ER4<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320247-yitaiwang.html" target="_blank" title="以太网">以太网</a></span>标准；接收OMA灵敏度优于－17dBm，具有优越的灵敏度；由于采用基于DSP技术的50G PAM4 CDR，产品性能优异，完全满足单模双纤传输40km的距离。</p><p style="text-indent: 2em; text-align: left;">产品优秀的性能如下图：</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/09/jianhua/1625819236015077721.png" title="1625819236015077721.png" alt="image.png" width="463" height="337" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">图二：光眼图（图片来源：易飞扬）</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/09/jianhua/1625819295569085904.png" title="1625819295569085904.png" alt="image.png" width="409" height="302" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">图三：高温70℃过40km光纤测试FEC Margin性能测试（图片来源：易飞扬）</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-07/09/jianhua/1625819356173029008.png" title="1625819356173029008.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">图四：200G QSFP56 ER4 OMA</p><p style="text-indent: 2em; text-align: left;">Sensitivity＠2．4E－4，PRBS31＠26．5625Gbps</p><p style="text-indent: 2em; text-align: left;">（图片来源：易飞扬）</p><p style="text-indent: 2em; text-align: left;">类似于<span class="hrefStyle"><a href="https://fiber.ofweek.com/IND-8320221-100G.html" target="_blank" title="100G">100G</a></span> QSFP28 ER4在100G网络传输中的作用，200G QSFP56 ER4的目标是解决200G网络长距离传输在40km不需要相干光模块的问题。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-7/9/jianhua/20210709163059_1625819459355787584.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">图片来源：易飞扬</p> 
+  
+</div>
+            
