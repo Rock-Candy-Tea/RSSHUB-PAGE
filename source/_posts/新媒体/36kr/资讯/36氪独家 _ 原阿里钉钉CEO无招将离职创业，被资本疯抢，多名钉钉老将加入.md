@@ -36,6 +36,9 @@ thumbnail: 'https://img.36krcdn.com/20210709/v2_b5b0376c9d2a4c77868093830e3be5de
 <p>而在无招逐步脱离钉钉后，阿里云智能总裁张建锋在去年披露钉钉新定位时表示，将以平台化的思路发展钉钉，让钉钉在协同办公平台之外，成为“新型开发平台”。</p> 
 <p>可以这样理解这种转变：过去钉钉做应用、做硬件，服务目标都是企业用户，虽然难免烧钱，但能达到用户规模的增长；而在钉钉纳入“云钉一体”战略后，为了与阿里云底层计算资源的模式相配合，钉钉就要扮演上层开发系统的角色，服务目标就要侧重在开发者。</p> 
 <p>对于熟悉钉钉与无招的人来说，无招的去职并不意外，创建钉钉时，无招个性鲜明，风格凌厉，他从不忌讳<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>与钉钉对比，多次强调“工作归钉钉，生活归微信”，抨击企业员工用微信工作缺乏注意力，曾在公开场合表示“<a class="project-link" data-id="24961" data-name="腾讯" data-logo="https://img.36krcdn.com/20201201/v2_016524a9a477434cb3584e1558f3257a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/24961" target="_blank">腾讯</a>内部都不用微信办公”引发热议。</p> 
-<p>阿里十年，无招有过社交项目“来往”折戟之痛，也收获了“钉钉”高速增长、称霸 To B 市场的地位。如今，无招之于阿里与钉钉的使命已然落幕，但属于他个人的故事才刚刚开始。</p>  
+<p>阿里十年，无招有过社交项目“来往”折戟之痛，也收获了“钉钉”高速增长、称霸 To B 市场的地位。如今，无招之于阿里与钉钉的使命已然落幕，但属于他个人的故事才刚刚开始。</p> 
+<p><img src="https://img.36krcdn.com/20210709/v2_8f817f9c063f4d0d912c180d7e06d476_img_jpeg" data-img-size-val="2360,751" referrerpolicy="no-referrer"></p> 
+<p contenteditable="false" class="img-desc">【END】</p> 
+<p><br></p>  
 </div>
             
