@@ -5,17 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4500'
+headimg: 'https://picsum.photos/400/300?random=4636'
 author: 开源中国
 comments: false
 date: Fri, 09 Jul 2021 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4500'
+thumbnail: 'https://picsum.photos/400/300?random=4636'
 ---
 
 <div>   
 <div class="content">
                                                                     
-                                                        <p>Nest.js 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的框架。它使用 TypeScript 和 JavaScript 构建，并结合了 OOP（面向对象编程）、FP（功能编程）和 FRP（功能反应式编程）等元素。</p> 
+                                                        <p>Nest.js 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的框架。它使用 TypeScript 和 JavaScript 构建，并结合了 OOP、FP 和 FRP 等元素。</p> 
 <p>Nest.js 8.0 正式发布，该版本更新内容如下：</p> 
 <h3>特性：</h3> 
 <ul> 

@@ -1,0 +1,18 @@
+
+---
+title: 'PS5_PC《死亡循环》最新实机演示公布'
+categories: 
+ - 游戏
+ - 二柄 APP
+ - 新闻
+headimg: 'https://erbingeditor.diershoubing.com/6/2021/07/09/1039341095.jpg'
+author: 二柄 APP
+comments: false
+date: 2021-07-09 03:07:07
+thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/07/09/1039341095.jpg'
+---
+
+<div>   
+【PS5/PC《死亡循环》最新实机演示公布】《死亡循环》玩法与《羞辱》比较类似，本作的主题为“一个谋杀谜题，你将扮演一个被困在时间循环中的刺客”，游戏主角Cole被困在黑礁岛上，不断重复同一天。重生是你在黑礁岛上最亲密的伙伴。得益于这项在游戏初期解锁的技能，死亡并不代表自动重新开始。若你被击杀，你将得到两次回溯机会，而无需让时间循环从头开始。但第三次死亡时，循环就会到此为止。需要留意的是，使用重生时，只有主角的时间将会回溯，黑礁岛上其他的一切并不会受到重生影响，这代表你死前击杀的敌人并不会复活。游戏将于9月14日在PC和PS5上发售。<br><img src="https://erbingeditor.diershoubing.com/6/2021/07/09/1039341095.jpg" referrerpolicy="no-referrer">  
+</div>
+            
