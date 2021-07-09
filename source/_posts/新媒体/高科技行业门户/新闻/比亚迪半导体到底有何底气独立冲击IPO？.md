@@ -1,0 +1,19 @@
+
+---
+title: '比亚迪半导体到底有何底气独立冲击IPO？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2029/202107/09114718364787.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 09 Jul 2021 05:39:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2029/202107/09114718364787.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">今年以来受持续蔓延的“缺芯潮”影响,整个世界<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>供应链都面临紧张局面。相关资料显示,本轮“缺芯潮”或将持续到明年上半年,这也就意味着与半导体芯片紧密相关的整个智能产业都将会在较长一段时间之内受到影响,快速发展的智能汽车行业更是首当其冲。</p><p style="text-indent: 2em; text-align: left;">在此背景下,具备量产能力的车用半导体企业,面对供不应求的行业需求纷纷掀起了“涨价潮”,作为其中的一员比亚迪半导体也选择了跟进。值得关注的是,在其跟进行业步伐的同时,其也于近日正式通过了深交所的上市受理申请,这也意味着深交所或将诞生最大的车用半导体企业。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2029/202107/09114718364787.jpg" title="IPO倒计时，比亚迪半导体开启新鏖战" alt="IPO倒计时，比亚迪半导体开启新鏖战" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">(配图来自Canva可画)</p><p style="text-indent: 2em; text-align: left;"><strong>冲击创业板的底气和实力</strong></p><p style="text-indent: 2em; text-align: left;">近日,比亚迪发布公告称,比亚迪半导体日前向深交所递交的创业板上市申请,已经通过了深交所受理,这标志着比亚迪半导体距离其正式上市又近了一步。那么,一直供应于内部的比亚迪半导体,到底有何底气独立冲击IPO呢?</p><p style="text-indent: 2em; text-align: left;">首先从需求端来看,“缺芯潮”影响之下芯片需求持续攀升,此时上市有利于市场给予高估值。据集微网统计,自2021年二季度以来,由于原材料成本压力上升,以及重要芯片的供应量下滑,导致包括东芝、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E6%A3%AE%E7%BE%8E.HTM" target="_blank" title="安森美">安森美</a></span>、士兰微等在内的国内外多家半导体企业集体涨价。</p><p style="text-indent: 2em; text-align: left;">行业性的“涨价潮”带动了国内芯片企业的高景气增长,很多上市芯片企业更是受到了资金的“热捧”,股价纷纷开始直线上扬。在资本市场持续看好芯片领域的背景下,冲击创业板对于比亚迪半导体成功发行上市,会有较大帮助。</p><p style="text-indent: 2em; text-align: left;">其次从供给侧来看,比亚迪半导体具备很强的技术实力。据比亚迪半导体招股书显示,在功率半导体方面,其拥有从芯片设计、晶圆制造到封测的全产业链IDM实力。特别是在智能汽车密切相关的IGBT技术领域,比亚迪已经处于国内第一、全球前三的位置,其市占率达到了19%,在国内市场仅次于<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E9%A3%9E%E5%87%8C.HTM" target="_blank" title="英飞凌">英飞凌</a></span>;在IPM领域,比亚迪半导体在国内厂商中排名前三;在更为先进的SiC<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%83%E5%99%A8%E4%BB%B6.HTM" target="_blank" title="元器件">元器件</a></span>应用方面,比亚迪半导体成为全球首家实现了规模化应用的半导体企业。</p><p style="text-indent: 2em; text-align: left;">另外,比亚迪半导体还切入到工业级<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span>芯片领域,截止目前其工业级MCU芯片和车规级芯片已经累计出货20亿颗。在量产方面,截止2020年底,比亚迪半导体的年产能在220万个,基本上可以满足自用和绝大部分外供需求。从这些外部条件来看,比亚迪半导体上市的条件显然已经成熟。</p><p style="text-indent: 2em; text-align: left;"><strong>单一客户依赖症仍比较明显</strong></p><p style="text-indent: 2em; text-align: left;">不过,从其营收构成来看,比亚迪半导体对外部单一客户的依赖仍然比较严重。从业务方面来看,比亚迪半导体目前主营的业务主要包括,功率半导体、智能控制IC、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%99%BA%E8%83%BD%E4%BC%A0%E6%84%9F%E5%99%A8.HTM" target="_blank" title="智能传感器">智能传感器</a></span>、光电半导体、制造与服务五大板块。其中,功率半导体收入贡献度最大,2020年该业务实现营收4．61亿元,占总营收比例为32．41%。</p><p style="text-indent: 2em; text-align: left;">据了解,目前比亚迪半导体的功率半导体产品除供应比亚迪集团外,已进入小康汽车、宇通汽车、福田汽车、北京时代、英威腾、蓝海华腾、汇川技术等厂商的供应体系。除了功率半导体之外,公司智能传感器和光电半导体在公司的总营收中也超过了20%的比重,分别实现了3．23亿元和3．2亿元。</p><p style="text-indent: 2em; text-align: left;">从整体业绩来看,比亚迪半导体的业绩存在一定的波动性。招股书显示,2018年至2020年,比亚迪半导体分别实现营收13．4亿元、10．96亿元、14．41亿元,不过净利润却呈现逐年下滑的趋势,分别为1．04亿元、8511．49万元、5863．24万元。</p><p style="text-indent: 2em; text-align: left;">净利润下滑主要是与公司实现的期权激励有关系。比亚迪半导体在招股书中表示,2020年度公司股份支付费用为7429．77万元并计入经常性损益,由此导致其整体的净利润数额下滑。若剔除这部分费用的影响,公司在2019年到2020年的净利润分别为1．33亿元、1．06亿元,较2018年保持平稳增长。</p><p style="text-indent: 2em; text-align: left;">值得关注的是,作为从集团内部拆分出来的子公司,其与母公司比亚迪之间的关联交易仍较为频繁。招股书显示,2018年、2019年和2020年,比亚迪半导体向关联方销售商品、提供劳务及合同能源管理服务的金额分别为9．09亿元、6．014亿元和8．51亿元,占营业收入比例分别为67．88%、54．86%和59．02%。另外,在比亚迪半导体公开披露的前五大客户中,比亚迪集团也一直稳居第一大客户之位,其对母公司依赖之深由此可见一斑。</p> 
+  
+</div>
+            
