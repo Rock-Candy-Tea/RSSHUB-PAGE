@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/07/10/210710182055606_u2028
 
                 
                 
-                    <div class="topicContent front_content sort_content">Xbox官方新推出一款名为「Backbone One」的 iPhone 游戏手柄，玩家只需简单设置即可利用该手柄畅玩Xbox云游戏。「Backbone One」手柄支持 iPhone 6s 至 12 的各代机型，官方建议售价为99.99美元，约合人民币650元。</div>
+                    <div class="topicContent front_content sort_content">Xbox官方新推介一款名为「Backbone One」的 iPhone 游戏手柄，玩家只需简单设置即可利用该手柄畅玩Xbox云游戏。「Backbone One」手柄支持 iPhone 6s 至 12 的各代机型，官方建议售价为99.99美元，约合人民币650元。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/07/10/210710182055606_u202875.jpg" src="https://img01.vgtime.com/game/cover/2021/07/10/210710182055606_u202875.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
