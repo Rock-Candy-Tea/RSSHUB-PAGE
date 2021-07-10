@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3039'
+headimg: 'https://pic1.zhimg.com/v2-edc7d820d5e2948611a18564a1e4b0ab_1440w.jpg'
 author: 知乎
 comments: false
-date: Fri, 09 Jul 2021 15:36:33 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3039'
+date: Fri, 09 Jul 2021 17:51:48 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-edc7d820d5e2948611a18564a1e4b0ab_1440w.jpg'
 ---
 
 <div>   
-张浩驰的回答<br><br><p>感觉滴滴要凉了。</p><p>滴滴的倒下可以间接地回答我们一个问题：<b>没有任何一个互联网服务不可替代，不管是微信、支付宝还是百度。</b></p><p>当滴滴发生这个事件之后，大家都恍然大悟地发现，原来现在还有那么多的网约车平台活着。不管是曹操出行、T3出行、如祺出行等，在服务上和价格上都比滴滴有优势。</p><p>滴滴如果真的倒下了，或许对于广大消费者而言，在出行方面，应该是一件比较幸运的事情。</p><p>这也是我们第一次见证互联网行业中“大而不倒”的企业，出现几乎不可逆转的危机。</p><p>这件事情，同样地对于国家和用户来说，均敲响了警钟。目前互联网公司收集的大量数据真的不亚于国家各个部门收集的官方数据，甚至由于部分APP的特殊性，导致对于一些事情分析得更加透彻。</p><p>所以，对于互联网企业的监管，刻不容缓。</p><p></p>  
+等待下一个180天的回答<br><br><p>  与上次不同的有一个关键点。</p><p>  上次滴滴出行被下架时，网信办用的词是<b>应用商城下架滴滴出行</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-edc7d820d5e2948611a18564a1e4b0ab_1440w.jpg" data-caption data-size="normal" data-rawwidth="498" data-rawheight="399" data-default-watermark-src="https://pic2.zhimg.com/v2-530d93d589e4d26f293c9149a1709213_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-edc7d820d5e2948611a18564a1e4b0ab_r.jpg" referrerpolicy="no-referrer"></figure><p><b>这次的与上次不同的地方在于。</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-fd6c4faf6cbe9bb1c5105881957847dc_1440w.jpg" data-caption data-size="normal" data-rawwidth="684" data-rawheight="154" data-default-watermark-src="https://pic4.zhimg.com/v2-090b1e1b7865258763eb1315030b7382_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-fd6c4faf6cbe9bb1c5105881957847dc_r.jpg" referrerpolicy="no-referrer"></figure><p>  主体从应用商城变成了<b>网站、平台</b>，也就是说明确的包含了<b>微信、支付宝</b>等第三方平台。</p><p>  然后禁止提供新用户注册、下载，变成了禁止提供<b>访问服务</b>。</p><p>  以前是老用户可以在微信、支付宝正常使用滴滴。</p><p>  后面微信、支付宝按照网信办的规定，应该会被禁止访问。</p><p>  也就是这两个滴滴最大的流量入口，将会消失</p><p>  对于滴滴的限制加强了，并且不是一般的加强，因为有很大一部分人是没有下载滴滴APP的，都是直接通过支付宝或者微信端的小程序直接使用的滴滴。</p><p>  那么也就说一旦支付宝和微信端限制访问滴滴小程序，而且滴滴APP还被限制下载的情况下，滴滴的流量将会暴跌，而且这种限制将会是长时间的。</p><p>  所以，我们很可能接下来能见证一家估值超千亿的公司在短时间内直接死亡。</p><p>  说实话，一家公司能做到旗下所有的APP都过度收集信息，那这背后一定有一个不为人知的目的去推动这件事情，而且必然是有高层的指令，才会去统一做这件事。</p><p></p>  
 </div>
             
