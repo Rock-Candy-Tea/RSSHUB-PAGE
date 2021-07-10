@@ -36,6 +36,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/App
 <p>You can read the full document over at <em><a href="https://www.patentlyapple.com/patently-apple/2021/07/apple-seeks-a-declaratory-judgement-of-non-infringement-against-serial-patent-troller-voip-pal-in-a-san-francisco-court.html" target="_blank" rel="noreferrer noopener">Patently Apple</a>.</em></p>
 <p><em>Photo: <a href="https://unsplash.com/@heftiba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Toa Heftiba</a>/<a href="https://unsplash.com/s/photos/facetime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

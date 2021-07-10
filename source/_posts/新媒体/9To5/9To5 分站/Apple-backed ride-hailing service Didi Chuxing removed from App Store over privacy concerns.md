@@ -30,6 +30,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/tim
 <p>Back in 2017, Apple CEO <a href="https://9to5mac.com/2017/04/20/apple-didi-chuxing-vision/">Tim Cook explained it was investing in Didi</a> as “a chance to learn more about certain segments of the China market,” while also holding the belief that Didi has the potential to eliminate traffic jams. Since then, however, Apple hasn’t spoken much about its Didi investment.</p>
 <p>Apple’s seat on Didi’s board also gives it a direct route to have connection to some of the top executives in the car industry. It’s unclear whether this privacy scandal will have any impact on Apple’s investment in the company.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
