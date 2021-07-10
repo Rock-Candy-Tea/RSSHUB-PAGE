@@ -1,0 +1,41 @@
+
+---
+title: '​FE视角看_AI_、_特征工程_'
+categories: 
+ - 编程
+ - 掘金
+ - 分类
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af9702ab01154d4392a1943dac03111f~tplv-k3u1fbpfcp-watermark.image'
+author: 掘金
+comments: false
+date: Fri, 09 Jul 2021 23:51:47 GMT
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af9702ab01154d4392a1943dac03111f~tplv-k3u1fbpfcp-watermark.image'
+---
+
+<div>   
+<div class="markdown-body"><style>@charset "UTF-8";.markdown-body&#123;line-height:1.75;font-family:Menlo,Monaco,Consolas,Courier New,monospace;letter-spacing:2px;background-image:linear-gradient(90deg,rgba(50,0,0,.05) 3%,transparent 0),linear-gradient(1turn,rgba(50,0,0,.05) 3%,transparent 0);background-size:20px 20px;background-position:50%;word-break:break-word;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1&#123;font-size:25px;margin-bottom:5px;border-left:5px solid #773098&#125;.markdown-body h1,.markdown-body h2&#123;display:inline-block;font-weight:700;padding-left:10px&#125;.markdown-body h2&#123;font-size:18px;border-left:5px solid #916dd5&#125;.markdown-body h3&#123;font-size:16px;font-weight:700;padding-left:10px;border-left:5px solid #d89cf6&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;border-radius:6px;display:block;margin:20px auto;object-fit:contain;box-shadow:2px 4px 7px #999&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;padding:.2em .5em;font-weight:700;font-size:1em;color:#916dd5;word-break:break-word;overflow-x:auto;background-color:none;border-radius:2px&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;display:block;font-size:12px;padding:16px 12px;margin:0;color:#333;word-break:normal;overflow-x:auto;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#916dd5;font-weight:700;border-bottom:1px solid #916dd5&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#773098&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #916dd5&#125;.markdown-body thead&#123;background-color:#916dd5;color:#fff;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#d89cf6&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #d89cf6;background-color:#f4eeff&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0;line-height:26px&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px;list-style-type:circle&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body b,.markdown-body strong&#123;color:#916dd5;font-weight:700&#125;.markdown-body b:before,.markdown-body strong:before&#123;content:"「"&#125;.markdown-body b:after,.markdown-body strong:after&#123;content:"」"&#125;.markdown-body em,.markdown-body i&#123;color:#916dd5&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h1 data-id="heading-0">背景</h1>
+<p>因为具备计算机视觉及前端工程的背景，我加入到了前端智能化的行列中，并且也坚信前端智能化这一方向，目前在阿里巴巴从事前端开发及前端智能化的相关工作。希望能为推动前端智能化的发展出一份力。</p>
+<h1 data-id="heading-1">AI及特征工程</h1>
+<p>这里我要解释一下什么是<strong>特征工程(Feature Engineering)</strong>，其实我是在思考如何给前端工程师们解释什么是特征工程，那么我要先说一下我理解的AI。</p>
+<p>我们说重复式的计算我们人脑是肯定比不上电脑的，比如，我让你计算3+5、5+10 人脑会很快的计算出来，但是我让你算这样的算式尼？</p>
+<p><strong>232323345345*23523423423</strong></p>
+<p>这个时候计算机就能很快算出来，这就是当前计算机架构下带来的优势。但从另一方面说，我们人脑可以很容易对于眼前事物做出一个判断说这是属于某类物体，但是，你放一张图片或者开启一个摄像头让计算机来认出这是某类物体，计算机就不行了。这是为什么尼，因为，我们人脑从小就在接受各类知识，各类经验的输入，并在大脑中不断的思考，反思，然后对现实世界形成了一定层面的认知，这就使得人脑在看见一类物体或者某一情况发生时，能够快速的做出判断，但，判断是有一定错误概率的，这取决于人脑对于当前事物的历来认知与经验沉淀。</p>
+<p>类比到<strong>AI（Artificial Intelligence）</strong>，其目的就是在于使计算机能够像人脑一样，通过“学习知识，经验沉积”能够对各类事物、不同情况做出一个可能的预判，并给出多种预判的准确率，这其实就和我们大脑的行为一致。那么，如何让计算机学习？又是从哪里学到知识，得到经验尼？ 这就是“机器学习”，机器学习有一类方法叫做“深度学习”，这里，可以将这两个专有名词理解为“人脑从小到大不断学习及经验累积的过程”，在AI中我们称这个过程为“训练”，在训练AI过程中，就需要我们不断的投喂“数据”到训练中，这里的数据就是我们人脑在日常生活中的认知和见识了，AI通过这样的方式来学习到数据的共性，在下一次遇见同类数据时，就能够进行一个相对准确的预测了，用数学层面的方式来说，通过对大量的数据进行AI的学习训练，最终拟合到一个最优的F(x)上，通过这个F(x)函数就能够进行下一次的预测了。</p>
+<p>从以上解释可以看到，“数据”是对于AI特别重要的一项，引用世界级人工智能科学家吴恩达（英文名：Andrew Ng）的话来说：“数据决定了机器学习的上限,而算法只是尽可能逼近这个上限”，对于工业界的使用，不考虑数学理论层面的创新，算法模型预测的好与坏极大程度的取决于数据集的好坏，投入到模型训练的特征数据的好坏，而现实环境的数据往往是不能够直接投入到模型中训练的，需要做一定处理，形成适合模型训练的数据结构等等，这就是特征工程所做的工作。</p>
+<p>特征工程在机器学习中占有非常重要的作用，一般认为括特征构建、特征提取、特征选择三个部分。特征构建比较麻烦，需要一定的经验。 特征提取与特征选择都是为了从原始特征中找出最有效的特征。它们之间的区别是特征提取强调通过特征转换的方式得到一组具有明显物理或统计意义的特征；而特征选择是从特征集合中挑选一组具有明显物理或统计意义的特征子集。两者都能帮助减少特征的维度、数据冗余，特征提取有时能发现更有意义的特征属性，特征选择的过程经常能表示出每个特征的重要性对于模型构建的重要性。</p>
+<h1 data-id="heading-2">FEE入门AI</h1>
+<p>理解了AI及特征工程，作为一名前端工程师，应该怎么来入门AI，往往我们在思考这样的问题时，我自己都有一个公式：</p>
+<p>【 What：它是什么？Why：为什么要这样做？How：怎么才能做？】</p>
+<p>WHAT：上一段我已经介绍了AI及特征工程是什么了，并且是站在FE视角在做解释，而不是枯燥乏味的数据科学视角。</p>
+<p>WHY：那么一个前端工程师，为什么又要学习并使用AI尼，回顾一下前端的发展，03年开始有了“重构工程师”，这是前端工程师的前身，后来开始了在html+css+js的刀耕火种的年代，那个时候，前端开发完后，还需要集成到各类模板引擎里面，也就是JSP,ASP,PHP等，随着科学的进步，科技的不断发展，人民对于日常需求的提高，在互联网上，对于软件工程或者说需求的生命周期来说，前端开发变得越来越重要，其开发形式也不断的向前演进，曾今如日中天的Jquery，到为了更好的质量，更高的效率的前端工程化，组件复用等等，到现在说的搭建。</p>
+<p>为了高质量，高效率，前端工程师们不断的在革新，尤其是国内环境，不知看到这里的你，是否有体感，前端的基础设施建设或者说相关的技术方案不断的参考着后端的设计。组件化固然能够解决很多重复性工作，搭建一定层面上来说能够彻彻底底地的解放前端生产力，但是，对于，日新月异的互联网环境。创新应用，创新玩法才能尽可能的吸引用户，使得用户留存，进而产生转化。也就是说，面对快速更迭的需求时，组件也是需要重复开发的，有可能你会说，作为前端工程师，组件的抽象应当尽可能的全面，比如：可以通过不同的应用维度来进行组件的抽象，技术组件，基础组件，业务组件等等，但真实体验后，你还是逃不了组件的新开发。再说到搭建，搭建的底层支撑是什么？还是组件。如果没有组件支撑，用什么搭尼？</p>
+<p>HOW：那么如何才能真正解放前端工程师的生产力，投入到更加有价值有意义的事情中去尼，不被繁杂的业务所困扰尼，前端智能化是一个很不错并具有挑战的方向。真实的说，现在的AI都有瓶颈，来自于算力及数据。但们对于前端智能化，我们可以利用CV/NLP等能力实现业务组件的识别与自动生产，结合工程链路投放到多端，一定层面上来说这种方案能够彻底释放生产力，并且还能满足多变的产品需求。对于这样的产品是<strong>imgcook</strong>有兴趣大家可以尝试一下</p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af9702ab01154d4392a1943dac03111f~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p>说清楚了为什么要做前端智能化后，那么作为一名前端工程师，应该怎么做尼，面对门槛较高的AI、机器学习、深度学习等等，社区提供了pipcook,利用json配置方式，你就可以开始属于前端工程师的AI学习了，通过简单的配置，就可以训练出属于自己的组件识别算法模型，再配合工程链路模型，我相信做一个页面自动生产是没有问题的。</p>
+<p>再说一个场景，我们说“三流公司看功能，二流公司看性能，一流公司看数据”，我们的业务很多都是需要埋点的，会有很多的数据，那么对于这么多的数据，公司也许会提供对应的查询查询方式和筛选条件来获取，但作为前端工程师的你，完全可以利用一个文本分类，对这些大量的数据做一个训练再做一个分类。</p>
+<p>说回特征工程，对于数据科学，python的包应有尽有，例如我们常用的numpy，具有能够很好地处理原始数据与向量之间的关系等等功能，但，对于大多数前端工程师来说，是不具有python的基础知识的，现在也有numpy的JS实现，但是，调研发现，这些以JavaScript来实现的库都是站在了数据科学的视角来实现的，也就是说他们不是为了前端工程师实现的，而是为了数据科学工程师们能够将其应用到具备JavaScript运行的宿主环境中，我觉得这是与前端智能化不同路的，这也促使我不断地在思考实现特征工程库生命周期中的一些视角，角色的问题。</p>
+<p>我的公众号：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fwrnl9QP1qWPI-HJr8TuoWA" target="_blank" rel="nofollow noopener noreferrer" title="https://mp.weixin.qq.com/s/wrnl9QP1qWPI-HJr8TuoWA" ref="nofollow noopener noreferrer">QCd的黑板报</a><br>
+我的博客：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fqcblog.hmbstudio.cn%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://qcblog.hmbstudio.cn/" ref="nofollow noopener noreferrer">秋呈blog</a></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dc05f6a15354dac9a2c84aa2248d4f8~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p></div>  
+</div>
+            

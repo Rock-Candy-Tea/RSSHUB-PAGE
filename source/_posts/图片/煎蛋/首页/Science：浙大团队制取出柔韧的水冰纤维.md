@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
 author: 煎蛋
 comments: false
-date: Sat, 10 Jul 2021 02:59:00 GMT
+date: Sat, 10 Jul 2021 07:59:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6
 <p>现在，科学家们刚刚制出了能够弯曲成环状的水冰微纤维，突破了材料原本的最大应变力，并为探索冰结晶物理学开辟了新的机会。</p>
 <p>冰的行为并不总是符合我们的期望，它的弹性——或者说，缺弹性——就是一个完美的例子。理论上，它的最大弹性应变约为15%。但在现实世界中，曾经测量到的最大弹性应变不到0.3%。造成这种差异的原因是，冰晶有结构上的缺陷，导致其脆性增加。</p>
 <p>因此，由中国浙江大学的纳米科学家Peizhen Xu领导的团队试图制造出结构缺陷尽可能少的冰。</p>
-<p>他们在超冷室中配置一根钨针，其温度约为零下50摄氏度。水蒸气被释放到室内，并施加电场。把水分子吸引到针尖，水分子在那里结晶，形成最大宽度约为10微米的微纤维，比人类头发还细。</p>
+<p>他们在超冷室中配置一根钨针，其温度约为零下50摄氏度。水蒸气被释放到室内，并施加电场。把水分子吸引到针尖，水分子在那里结晶，形成最大宽度约为10微米的微纤维；比人类头发还细。</p>
 <p>下一步是将温度降低到零下70至零下150摄氏度之间，并在低温下，尝试弯曲冰纤维。</p>
 <p>在零下150摄氏度时，他们发现一个直径为4.4微米的微纤维能够弯曲成一个近乎圆形的形状，半径为20微米。这表明最大弹性应变为10.9%——比以前更接近理论极限。</p>
 <p><img src="https://cors.zfour.workers.dev/?http://wx1.sinaimg.cn/large/a1262f29ly1gsboa7fcmrg20sg0bjx6q.gif" alt="Science：浙大团队制取出柔韧的水冰纤维" referrerpolicy="no-referrer"></p>
