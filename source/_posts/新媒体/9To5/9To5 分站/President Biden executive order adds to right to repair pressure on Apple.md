@@ -37,7 +37,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Pre
 <p>Apple has already had the embarrassment of seeing the company’s cofounder <a href="https://9to5mac.com/2021/07/07/apple-co-founder-steve-wozniak-stands-up-for-right-to-repair-argues-company-built-on-open-source/" target="_blank" rel="noreferrer noopener">Steve Wozniak speak up for the right to repair</a>, and call on companies to “start doing the right things.”</p>
 <p><em>Photo: <a href="https://unsplash.com/@tabrez_syed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tabrez Syed</a>/<a href="https://unsplash.com/s/photos/washington-dc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
