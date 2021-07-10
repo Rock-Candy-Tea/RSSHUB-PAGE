@@ -1,0 +1,18 @@
+
+---
+title: 'Intel第一代10nm处理器黯淡退场：14nm作伴'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786a_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 09 Jul 2021 18:41:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786a_1024.jpg'
+---
+
+<div>   
+<p>Intel 第一代 10nm 处理器黯淡退场</p><p>Ice Lake-U 系列退役型号包括 i7-1065G7、i5-1035G7/1035G4/1035G1、i3-1005G1、奔腾 6805、赛扬 5805，热设计功耗均为 15W。</p><p>2021 年 10 月 22 日之后订单不可取消，2022 年 4 月 29 日之后停止出货。</p><p>28W 的 i7-1068G7，9W 的 i7-1060G7、i5-1030G7、i3-1000G4/1000G1 则继续服役。</p><p>Comet Lake-U 系列退役型号则包括 i7-10810U/10710U/10610U/10510U、i5-10310U/10210U、i3-10110U、赛扬 5205U，热设计功耗也都是 15W。</p><p>2022 年 1 月 28 日之后订单不可取消，2022 年 7 月 29 日之后停止出货。</p><p>为什么同样是 10 代酷睿，却有两种总截然不同的产品？还是因为 10nm 工艺过于孱弱，15W 下只能做到 4 核心 8 线程、最高 3.9GHz ( 特殊型号 4.1GHz ) ，不得不同时继续拉上 14nm，才能提供 6 核心 12 线程、最高 4.7GHz。</p><p>10nm Ice Lake-U 系列是 2019 年年中台北电脑展上正式宣布的，两个月后正式发布，到现在才两年时间，而而同样基于 10nm Ice Lake 工艺架构的至强服务器产品，直到今年才正式发布。</p><p>英特尔 LGA 1700/1800 插槽设计蓝图曝光</p><p>Igor's Lab 前不久曝光了英特尔 LGA 1700 和 LGA 1800 插槽的设计图，其中前者面向即将推出的 12 代 Alder Lake 台式 CPU，而后者旨在支持下一代处理器。其实上周泄露的一张插座蓝图，已经揭示了一个有趣的细节，即 LGA 1700 将支持至少两代产品（Alder Lake 和 Rtaptor Lake）。</p><p>至于 LGA 1800，一些人猜测它可能是为至强（Xeon-W）或 2023 年的 7nm Metro Lake 平台而设计的。</p><p>此外由于 Alder Lake CPU 变得不那么 " 方方正正 "（37.5×45 mm 封装尺寸），"V0" 版本的 LGA 1700 插槽也变得有些不对称。</p><p>新插槽还将安装位置改成了 78×78 毫米的网格（而不是 75×75 毫米），且 Z 轴高度也从之前 LGA 12xx / 115x 的 7.31 毫米调整到了 6.529 毫米。</p><p>这将导致两项主要的变化：一方面，用户必须注意让 CPU 散热器正确地与 CPU 接触（安装前务必向老款散热器制造商求证确认）。</p><p>目前已知的是，Alder Lake 会采用 " 大小核 " 设计。其中包括了支持超线程的 Golden Cove 高性能核心，以及低功耗的 Gracemont 小核心。</p><p>至于引脚的排列方式，英特尔为 LGA 1700 采用了类似 " 双 L" 的设计，与当前一代的 LGA 1200 插槽类似。</p><p>最后，预计英特尔将于 2021 年 4 季度发布 Alder Lake 桌面 CPU，并为主流消费平台带来 PCIe 5.0 和 DDR5 支持。与此同时，微软 Windows 11 操作系统也将引入对混合式 CPU 架构的支持。</p><p><strong>01</strong></p><p><strong>Intel 第一代 10nm 处理器黯淡退场</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786a_1024.jpg" data-height="330" data-width="1004" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786a_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>02</strong><p></p><p><strong>英特尔 LGA 1700/1800 插槽设计蓝图曝光</strong></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786b_1024.jpg" data-height="407" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786b_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786c_1024.jpg" data-height="484" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60e7aec48e9f0935a853786c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60e7aec48e9f0935a853786d_1024.jpg" data-height="495" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60e7aec48e9f0935a853786d_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
