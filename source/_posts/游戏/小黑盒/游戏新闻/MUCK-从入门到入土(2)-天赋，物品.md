@@ -1,0 +1,80 @@
+
+---
+title: 'MUCK-从入门到入土(2)-天赋，物品'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/07/10/983ab51255b3c488465e518546a2ff5d/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 11 Jul 2021 01:15:26 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/07/10/983ab51255b3c488465e518546a2ff5d/thumb.jpeg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#黑盒攻略组#</a> <br></p><p>相关游戏：MUCK </p><p>中文名称：淤泥（非官方译名）
+</p><p></p><p>在草稿箱里写稿一定要备份，否则一删帖全没了<span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span>。
+</p><p><img class="lazy" data-height="376" src="https://imgheybox.max-c.com/bbs/2021/07/10/983ab51255b3c488465e518546a2ff5d/thumb.jpeg" data-width="692" referrerpolicy="no-referrer"></p><h4 class="img-desc">气急败坏</h4><p>本期主要内容是一些比较大的图表，干货比较多（原贴其实还有对图表非常详细的解释，但是误删了以后我不是所有的都能记住，所以比原贴短很多，只讲一些重要的部分，整活可能比上期少很多）。
+</p><p></p><p>首先先纠正上一期的错误，再补充一点上期没讲到的内容：
+</p><p>(1)除了能够铸币以外，铁在各方面都优于金。
+</p><p>(2)任何怪物都能在任何时间开采任何等级的资源。
+</p><p>(3)地上可以捡到零散的燧石和煤炭。
+</p><p>(4)在足够深的水中时，耐力会自然消耗。消耗至0时，就会进入溺水状态，持续损失生命值，就算你把头伸出水面也会扣血，除非离开水。
+</p><p>(5)除了牛奶和铲子，剩下的已解锁配方的物品都是可以制作的。
+</p><p>(6)随着难度的增加，会使玩家在更早的时候遇到某些种类的敌人与BOSS。
+</p><p>(7)饱食度会随时间消耗，恢复耐力并不会使饱食度加速消耗。
+</p><p>(8)免费箱子可以开出任意稀有度的天赋。
+</p><p>(9)力量、速度、攻击速度、移动速度属性的数值实际上是提升的百分比。比如，10力量代表攻击力提升10%。
+</p><p>(10)守护者的激光攻击可以被建筑抵挡，且一次伤害判定只有1点。
+</p><p>(11)绿箱子里刷出来的装备不一定是金制的，一张地图所有的绿箱子里不一定有两个金斧或金镐。
+</p><p>(12)种子号221294511，在出生点不远处的山洞里有一个夜刃，想试试夜刃的话可以去玩一玩。</p><p>地图:</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/07/10/d528c215e232268dae1817511bebee4a/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">一些关键地点的标记</h4><p>(13)箱子的价格并非是从第5天开始上涨，而是第4天。箱子的价格并非是线性增长的，这是由于箱子价格是向下取整后的结果。且不同难度箱子涨价的速度不同，简单难度箱子每天上涨初始价格的1/8，普通难度箱子每天上涨初始价格的1/6，玩家难度箱子每天上涨初始价格的1/5。
+</p><p>所以，简单难度普通箱子价格理论值为(以下4个表格仅列举前20天)：
+</p><p><img class="lazy" data-height="254" src="https://imgheybox.max-c.com/bbs/2021/07/10/0ba03826ef676290743ef4a649c7996d/thumb.png" data-width="321" referrerpolicy="no-referrer"></p><h4 class="img-desc">简单难度普通箱子价格理论值</h4><p>普通难度普通箱子价格理论值为:</p><p><img class="lazy" data-height="253" src="https://imgheybox.max-c.com/bbs/2021/07/10/6f18f862cca9938535783d5eacd1246f/thumb.png" data-width="322" referrerpolicy="no-referrer"></p><h4 class="img-desc">普通难度普通箱子价格理论值</h4><p>玩家难度普通箱子价格理论值为：</p><p><img class="lazy" data-height="255" src="https://imgheybox.max-c.com/bbs/2021/07/10/fee88ea17ee5d42ae0f1b3816ba5233b/thumb.png" data-width="323" referrerpolicy="no-referrer"></p><h4 class="img-desc">玩家难度普通箱子价格理论值</h4><p>玩家难度的第5天和第7天实际价格比理论价格少1枚金币，之后回归理论值。<br></p><p>理论价格向下取整后，与实际价格相符。</p><p><img class="lazy" data-height="853" src="https://imgheybox.max-c.com/bbs/2021/07/10/7736536cd6acae3d8adb69ea51d5cf66/thumb.png" data-width="1043" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK宝箱价格一览</h4><p>接下来是天赋，目前MUCK中有25个天赋，包括11个白色天赋，7个蓝色天赋，7个金色天赋。白色天赋主要是对于基础属性的提升，蓝色天赋主要是提供新的能力而且上限比较高，金色天赋主要是大幅强化在某些情况下的能力。每个品质的箱子可以开出至少于箱子品质相同的天赋以及更高品质的天赋。 <br></p><p>天赋有一个衰减机制，对于某些天赋，第二个及以后的同种天赋所提供的效果是越来越差的，比如鞋子天赋首个提供13移速，6个鞋子一共只提供69移速。
+</p><p>衰减机制导致玩家的强度是对数上涨的。
+</p><p>对于天赋我会给出3个图表，包括天赋简易查询图的浅色版本和深色版本，以及包含了中英文对照、首个天赋效果初始值和是否衰减的详细表格。
+</p><p><img class="lazy" data-height="536" src="https://imgheybox.max-c.com/bbs/2021/07/10/5bc31d0cc6a7943363a636e9d71e4e41/thumb.png" data-width="1102" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK天赋简易查询图(浅色版)</h4><p><img class="lazy" data-height="530" src="https://imgheybox.max-c.com/bbs/2021/07/10/38149c04ffb2ae49bf56e53a02a9afb0/thumb.png" data-width="1102" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK天赋简易查询图(深色版)</h4><p><img class="lazy" data-height="307" src="https://imgheybox.max-c.com/bbs/2021/07/10/58bc04e2c6cc6c598835cfb5c8c8ddf6/thumb.png" data-width="554" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK天赋详表</h4><p>关于某些天赋的解释：
+</p><p>(1)德古拉之牙：每个德古拉之牙最多提供40点最大生命值，击杀一个敌人所提供的生命值取决于你当前的德古拉之牙数量，跟某一个或几个德古拉之牙叠没叠完没有关系。
+</p><p>所以，你现在能达到的最大生命值=100+(蓝药丸数量+红药丸数量)×10+德古拉之牙数量×40。
+</p><p>(2)猩红匕首的8%吸血量是经过拟合的，下面是其中一次拟合的结果：</p><p><img class="lazy" data-height="415" src="https://imgheybox.max-c.com/bbs/2021/07/10/d22e828ee699daf6304b61a77dffff7c/thumb.png" data-width="1081" referrerpolicy="no-referrer"></p><h4 class="img-desc">某一次的拟合</h4><p>(3)果汁触发后，是使你当前攻击速度提升25%，举例：当前攻击速度11，则触发果汁后是(1.11×1.25-1)×100=38.75。至于一盒橙汁触发果汁后是40是因为橙汁不是整11。
+</p><p>(4)首个克努特之锤触发概率5%，伤害与玩家伤害差不多。
+</p><p>(5)首个狙击镜触发概率6%，伤害倍率为初始伤害16倍，第二个狙击镜是2倍伤害，即初始伤害32倍，第三个狙击镜是1.25倍伤害，即初始伤害40倍。
+</p><p>(6)肾上腺素，如果你的血量在30%左右反复横跳，肾上腺素也会反复触发。
+</p><p></p><p>天赋到此告一段落，下面是制造站介绍及物品制作配方。
+</p><p>目前游戏中一共有五个制造站：工作台(Workbench)，熔炉(Furnace)，大锅(Cauldron)，铁砧(Anvil)，附羽台(Fletching Table)。
+</p><p>工作台：</p><p><img class="lazy" data-height="454" src="https://imgheybox.max-c.com/bbs/2021/07/10/2eed23ca147e635f56dcbdcac582c6ef/thumb.png" data-width="823" referrerpolicy="no-referrer"></p><h4 class="img-desc">工作台</h4><p>制作基础材料、木制工具、制造站以及建筑。
+</p><p>背包中相应材料足够时，点击相应物品即可制作。  </p><p>熔炉：</p><p><img class="lazy" data-height="790" src="https://imgheybox.max-c.com/bbs/2021/07/10/01c4d4f6b3964bbf0e50092239bf67f1/thumb.png" data-width="448" referrerpolicy="no-referrer"></p><h4 class="img-desc">熔炉</h4><p>冶炼矿锭。</p><p><img class="lazy" data-height="224" src="https://imgheybox.max-c.com/bbs/2021/07/10/ccd9a53b03d3f3dce57d2f8852569336/thumb.png" data-width="655" referrerpolicy="no-referrer"></p><h4 class="img-desc">正在工作的熔炉</h4><p>工作时，左面格子放煤炭（只能放煤炭），中间格子放矿石，右面产出矿锭。
+</p><p>如果没煤炭，熔炉不工作。加煤炭即可。
+</p><p>如果右面格子满了（69个），熔炉不工作。取出右面矿锭即可。
+</p><p>如果中间矿石和右面矿锭不是一种，熔炉不工作。取出右面矿锭即可。
+</p><p>一个煤炭可以冶炼两个矿石。
+</p><p>大锅：</p><p>就叫大锅。</p><p><img class="lazy" data-height="506" src="https://imgheybox.max-c.com/bbs/2021/07/10/7adeec5e9ad759f069a414f26e500719/thumb.png" data-width="457" referrerpolicy="no-referrer"></p><h4 class="img-desc">大锅</h4><p>烹饪食物。</p><p><img class="lazy" data-height="257" src="https://imgheybox.max-c.com/bbs/2021/07/10/b64e2d95f3c820d49fe18a78254d31ea/thumb.png" data-width="652" referrerpolicy="no-referrer"></p><h4 class="img-desc">正在工作的大锅</h4><p>工作时，左面格子放煤炭，中间四个格子放食材，右面格子产出食物。
+</p><p>如果没煤炭，大锅不工作。加煤炭即可。
+</p><p>如果中间食材不是任何食物的配方，大锅不工作。按正确的食物配方添加食材即可。
+</p><p>如果右面格子满了（69个），大锅不工作。取出右面食物即可。
+</p><p>如果中间的食材并非是右面食物的配方，大锅不工作。取出右面食物即可。
+</p><p>具体食物配方见MUCK物品配方一览表。
+</p><p>铁砧：</p><p><img class="lazy" data-height="573" src="https://imgheybox.max-c.com/bbs/2021/07/10/1fe91952f9a14c6862d7f4714ddfa913/thumb.png" data-width="699" referrerpolicy="no-referrer"></p><h4 class="img-desc">铁砧</h4><p>铸币，制作金属工具、金属武器和金属盔甲。<br></p><p>背包中相应材料足够时，点击相应物品即可制作。</p><p>附羽台：</p><p><img class="lazy" data-height="504" src="https://imgheybox.max-c.com/bbs/2021/07/10/e06f0198e3d852333af8016ff5cb6bdb/thumb.png" data-width="772" referrerpolicy="no-referrer"></p><h4 class="img-desc">附羽台</h4><p>制作弓、箭、亚麻纤维和狼皮盔甲。
+</p><p>背包中相应材料足够时，点击相应物品即可制作。
+</p><p></p><p>下面列举所有物品的配方，首先声明几点：
+</p><p>①物品按照制造站中从左至右，从上至下列举，括号内数字代表需要此种材料的数量。
+</p><p>②统一名称含义(仅列举容易混淆的，如果在第一期或者游戏英文原文已经准确定义的就不再提及):
+</p><p>木头:采集树(最普通的那种)掉落的木材。
+</p><p>白桦木:采集白桦木掉落的木材。
+</p><p>冷杉木:采集冷杉树掉落的木材。
+</p><p>橡木:采集橡树掉落的木材。
+</p><p>黑橡木:采集黑橡树掉落的木材。
+</p><p>大块矿:由大石头人boss掉落的褐色矿石。
+</p><p>大块锭:由大块矿冶炼的矿锭。
+</p><p>黄色蘑菇:Ligon Shroom
+</p><p>紫色蘑菇:Sugon Shroom
+</p><p>红色蘑菇:Gulpon Shroom
+</p><p>炫彩蘑菇:Slurbon Shroom
+</p><p>烈焰:三元素之一。
+</p><p>寒冰:三元素之一。
+</p><p>闪电:三元素之一。
+</p><p>③木质门框，木质窗框的英文名称在MUCK里是一样的。木质柱子(高)和木质柱子(矮)的英文名称在MUCK里也是一样的。注意区分。
+</p><p>④弓和箭(最普通的那种)，在工作台和附羽台都能做。
+</p><p>⑤这图很长。</p><p><img class="lazy" data-height="2153" src="https://imgheybox.max-c.com/bbs/2021/07/10/52660a86083b29042c8a9345edb95be1/thumb.png" data-width="737" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK物品配方一览表</h4><p><img class="lazy" data-height="1804" src="https://imgheybox.max-c.com/bbs/2021/07/10/879e421e2a9939923df129e56f5bceed/thumb.png" data-width="737" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK物品配方一览表(无备注版)</h4><p>下面是MUCK中矿石工具及武器的面板攻击力以及盔甲属性。</p><p><img class="lazy" data-height="166" src="https://imgheybox.max-c.com/bbs/2021/07/10/9727edf9a06b63d6f9c51a01c2b968ed/thumb.png" data-width="257" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK矿石武器及工具面板攻击力</h4><p>其他能拿在手上的物品（除石头，骨头，刀片及BOSS武器）面板攻击力都是2，有些是0。</p><p><img class="lazy" data-height="185" src="https://imgheybox.max-c.com/bbs/2021/07/10/97ae74ce8a98d29caf3f5df2f8e1b1b1/thumb.png" data-width="411" referrerpolicy="no-referrer"></p><h4 class="img-desc">MUCK盔甲属性一览表</h4><p>奉上我殴打BOB的视频，里面触发了血条BUG：</p><p><a href="https://www.bilibili.com/video/BV1VL411W7EH?t=24" target="_blank">https://www.bilibili.com/video/BV1VL411W7EH?t=24</a></p><p>最后，如果上面的图表有错误，欢迎各位联系我或者在下面的评论区留言，不要不识抬举(误)，我会在验证后更改图表。当然，如果后面的更新作者更改了某些数据并在更新日志里直接指出来了，我也会更改图表。以上两种情况，我在更完以后会把新的图表以小帖子的形式发布在小黑盒上（也有可能同时发在B站上），如果有兴趣可以关注我的动态，感谢各位的支持。 <a href="heybox://open_subject" target="_blank">#消磨时间的最佳游戏#</a> <br></p><p>所以在草稿箱里写稿一定要备份，失误一次就全没了<span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span>。</p>  
+</div>
+            
