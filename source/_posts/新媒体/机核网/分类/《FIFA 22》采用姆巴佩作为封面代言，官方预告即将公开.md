@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/c061e39e-0123-440e-ae7c-3a6b59731b2d.jpg'
 author: 机核网
 comments: false
-date: 2021-07-11 10:08:06
+date: 2021-07-11 11:06:44
 thumbnail: 'https://image.gcores.com/c061e39e-0123-440e-ae7c-3a6b59731b2d.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/c061e39e-0123-440e-ae7c-3a6b59731b2d.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-5jhhl" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="5jhhl" data-offset-key="8bv6v-0-0"><div data-offset-key="8bv6v-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8bv6v-0-0"><span data-text="true">今天早些时候，EA Sports FIFA 官方频道宣布《FIFA 22》封面代言为法国球员姆巴佩，并确认新作的预告将会在北京时间7月11日晚11:30正式公开。</span></span></div></div>
+<img src="https://image.gcores.com/c061e39e-0123-440e-ae7c-3a6b59731b2d.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-6livq" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="6livq" data-offset-key="8bv6v-0-0"><div data-offset-key="8bv6v-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8bv6v-0-0"><span data-text="true">今天早些时候，EA Sports FIFA 官方频道宣布《FIFA 22》封面代言为法国球员姆巴佩，并确认新作的预告将会在北京时间7月11日晚11:30正式公开。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/0d44e134-df45-4715-bf17-e68fae5b5a7e.jpg" alt referrerpolicy="no-referrer">
 
@@ -21,6 +21,6 @@ thumbnail: 'https://image.gcores.com/c061e39e-0123-440e-ae7c-3a6b59731b2d.jpg'
 <figure>
 <img src="https://image.gcores.com/4d98db0b-7699-42bc-bf70-fed1dd9981d8.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="5jhhl" data-offset-key="a41km-0-0"><div data-offset-key="a41km-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a41km-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="6livq" data-offset-key="a41km-0-0"><div data-offset-key="a41km-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a41km-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
