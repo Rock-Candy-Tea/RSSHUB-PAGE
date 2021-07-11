@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win11 全新 Edge 浏览器体验：采用_云母_与_亚克力_材质'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/ba0898af-5f60-4119-85ca-6e90857924bb.png'
+author: IT 之家
+comments: false
+date: Sat, 10 Jul 2021 03:52:51 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/ba0898af-5f60-4119-85ca-6e90857924bb.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 10 日消息 大家都知道，微软为 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Win11</a> 推出了一种全新材质“<a href="https://www.ithome.com/0/559/492.htm" target="_blank">云母</a>”，该材质不同于 <a class="s_tag" href="https://win10.ithome.com/" target="_blank">Win10</a> 中的“亚克力”，是一种<span class="accentTextColor">不透明的动态材料</span>，可以让应用程序契合主题和桌面壁纸。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/ba0898af-5f60-4119-85ca-6e90857924bb.png" w="1200" h="668" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" width="1200" height="456" referrerpolicy="no-referrer"></p><p>▲ Mica 云母材质</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/6/e6ed1e96-f624-4e59-84c4-c9ba3943cdd5.png" w="1163" h="553" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" width="1163" height="390" referrerpolicy="no-referrer"></p><p>▲ Acrylic 亚克力材质</p><p>据外媒 Windows Latest，最新版本的 Edge 浏览器 Canary 中，微软为其同时带来了<span class="accentTextColor">“云母”与“亚克力”</span> 材质。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/d59ebe01-e3cb-491b-8805-b699d95a765d.jpg@s_2,w_820,h_428" w="1440" h="752" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" srcset="https://img.ithome.com/newsuploadfiles/2021/7/d59ebe01-e3cb-491b-8805-b699d95a765d.jpg 2x" width="1440" height="428" referrerpolicy="no-referrer"></p><p>从图中可以看到，Edge 浏览器的菜单部分已经有了“亚克力”效果，为<span class="accentTextColor">半透明样式</span>，更加美观。而在标题栏中，Edge 浏览器采用了“云母”材质，可以<span class="accentTextColor">跟随主题的变化而变化</span>。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/d072763e-af21-4db6-8166-f926baf54df1.jpg@s_2,w_820,h_430" w="1440" h="755" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" srcset="https://img.ithome.com/newsuploadfiles/2021/7/d072763e-af21-4db6-8166-f926baf54df1.jpg 2x" width="1440" height="430" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/6169f092-f5da-4820-b262-1e8a53f732c5.jpg@s_2,w_820,h_429" w="1440" h="754" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" srcset="https://img.ithome.com/newsuploadfiles/2021/7/6169f092-f5da-4820-b262-1e8a53f732c5.jpg 2x" width="1440" height="429" referrerpolicy="no-referrer"></p><p>可以看到，不论是新标签页菜单、网页内菜单、右上角菜单，都添加了“亚克力”效果。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/689ed4ec-5f26-4fcb-8014-5ce6b1f92b9c.jpg@s_2,w_820,h_513" alt="Microsoft Edge context menu" w="1075" h="673" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" srcset="https://img.ithome.com/newsuploadfiles/2021/7/689ed4ec-5f26-4fcb-8014-5ce6b1f92b9c.jpg 2x" width="1075" height="513" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/e409ca7b-3bf3-4d78-9c2a-e4b31660fc2a.jpg@s_2,w_820,h_576" alt="Microsoft Edge title bar" w="1025" h="720" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" srcset="https://img.ithome.com/newsuploadfiles/2021/7/e409ca7b-3bf3-4d78-9c2a-e4b31660fc2a.jpg 2x" width="1025" height="576" referrerpolicy="no-referrer"></p><p>IT之家此前也进行过报道，微软 Edge 界面正得到小幅改进，包括<span class="accentTextColor">更亮的菜单</span>和位于右上方的最小化、最大化或关闭图标周围的<span class="accentTextColor">额外空间</span>。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/16c2005e-be5b-430b-9542-5cb2a5c6a5d9.jpg@s_2,w_820,h_305" title="微软 Win11 全新 Edge 浏览器体验：采用“云母”与“亚克力”材质" referrerpolicy="no-referrer"></p><p>从上图可以看到，下方的新版 Edge 标题栏颜色更深，采用“云母”材质，右上角三大按键下移。</p>
+          
+</div>
+            

@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=3474'
+headimg: 'https://picsum.photos/400/300?random=4255'
 author: 金色财经
 comments: false
 date: Sun, 11 Jul 2021 04:56:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3474'
+thumbnail: 'https://picsum.photos/400/300?random=4255'
 ---
 
 <div>   
-SynFutures觅新。  
+全球开始关注央行数字货币！  
 </div>
             
