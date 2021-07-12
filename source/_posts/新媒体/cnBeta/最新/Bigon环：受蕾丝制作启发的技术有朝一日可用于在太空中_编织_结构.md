@@ -1,0 +1,19 @@
+
+---
+title: 'Bigon环：受蕾丝制作启发的技术有朝一日可用于在太空中_编织_结构'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0712/030b92f6b14a232.jpg'
+author: cnBeta
+comments: false
+date: Mon, 12 Jul 2021 03:53:52 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0712/030b92f6b14a232.jpg'
+---
+
+<div>   
+据外媒报道，当Lauren Dreier在翻阅德国建筑师Gottfried Semper的一本19世纪的书时，发现了一些受蕾丝花边启发的有趣图案。<strong>作为一名专业的艺术家和设计师，她经常将技术融入到她的工作中，同时也是普林斯顿大学建筑学院的博士生的Dreier决定用3D技术重新创造这些印刷的插图。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0712/030b92f6b14a232.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0712/030b92f6b14a232.jpg" alt="Bigon-Rings-777x437.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">她抓起她在工作室里一直在试验的带状塑料材料，弯曲并连接半刚性的条状材料。令Dreier惊讶的是，她建造的结构呈现出凹凸不平的几何形状。“我以为它会成为一个圆顶，但它是这种不寻常的形状，”Dreier说。她很想知道是什么导致了这种意外的转折，于是她联系了普林斯顿大学土木与环境工程系的副教授Sigrid Adriaenssens。Adriaenssens也无法解释，但她也很好奇。她提议进行一项联合调查，以找出这种奇怪的结构力学背后的原因。</p><p style="text-align: left;">Dreier的发现最终导致了一种可重新配置的结构的产生，研究人员称之为Bigon环。通过调整结构图案的具体设计，研究小组能够产生多种几何形状，这些几何形状产生于不同的循环行为。根据《固体力学和物理学杂志》上描述这一发现的论文，这一发现背后的数值框架可以应用于任何一般的弹性杆网络，无论是用线、竹子还是塑料制成的。它还可能导致创造新的产品和技术，这些产品和技术能够改变形状，以改善从航天器到可穿戴技术等各种条件下的性能。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0712/d38e807dc904a43.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0712/d38e807dc904a43.jpg" alt="Shapes-From-Flexible-Strips-777x437.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">“从系带的模式中汲取灵感，我想我们可以说以前没有人这样做过，”Adriaenssens说。“其中一些行为是非常出乎意料的，仅仅通过调整角度或宽度，你就会得到一个完全不同的行为。”</p><p style="text-align: left;">为了研究这些观察结果背后的物理学，Dreier与几个合作者密切合作，包括Adriaenssens实验室的博士后研究员Tian Yu。“这是我第一次与一位艺术家合作，我从未想到会在一个由蕾丝花边启发的项目上工作，”Yu说。“我对这个项目的机械部分很着迷。”</p><p style="text-align: left;">与传统的花边制作者使用柔软的线缠绕在一起不同，研究人员将他们的创作安排成松散的环形结构。Dreier说：“这都是为了在节点之间创造多余的空间。”研究小组首先通过将两个最初的直条的末端以一定的角度固定在一起，形成眼球或杏仁状的封闭结构，称为Bigons。与20世纪90年代的金属发夹类似，Bigons表现出双稳态，或者说，当施加轻微压力时，结构可以在两种不同的稳定形状之间切换。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0712/845626a0252cea4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0712/845626a0252cea4.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在此基础上，研究人员将多个Bigons排列成一条链，然后通过连接它们的末端形成一个环。双稳态Bigons共同创造了一个整体结构，可以形成许多可能的几何形状。这些结构是多态的，这意味着它们是由一系列形式组成的，其中每个形式都可以独立于其他形式而保持稳定。他们称这些新形式为Bigon环，有时表现出类似于带锯条的折叠行为，在自己身上循环往复。但它们的行为也可以通过调整组成大环的条带的交角和长宽比，以及通过改变组成环的大环的数量来进行调整。</p><p style="text-align: left;">当Dreier致力于建造这些结构时，Yu利用Kirchhoff杆件方程创建了一个专门针对这些结构的数值模型，该模型描述了一根薄而有弹性的杆件在受力和位移时的行为方式。研究人员能够通过从Dreier的实物创作中进行测量并比较结果来确认模型的准确性。该计算模型还使其有可能确定Bigon环在理论上可能采取的不同配置。然后，研究人员通过物理模型测试这些数学预测，看看哪些平衡是稳定的，哪些不稳定。“如果你在这样那样的角度做一个六边形Bigon环，会发生什么？”Dreier说。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0712/60df2c1359501f8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0712/60df2c1359501f8.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">研究小组最终产生了一个新的数值模型，该模型捕捉到了多稳态行为，研究人员说，该模型可以应用于研究一般交错弹性网络力学的其他研究。</p><p style="text-align: left;">在未来的工作中，该团队计划对基于Bigon的结构能够形成的许多形状进行更广泛的调查，以及如何最好地实现特定的目标形状。最终，他们的发现可能会带来新的材料设计，这些材料需要被包装成尽可能少的空间，但在拆开包装后会呈现出更大的形状。“例如，进入太空的材料和结构必须被折叠成一捆，放入火箭，然后必须扩大到尽可能大的尺寸，”Adriaenssens说。“这些参数的一些组合可以做到这一点。”</p><p style="text-align: left;">其他潜在的现实世界应用包括新型软体机械臂、玩具和可穿戴技术。例如，后者可能包括特殊的纺织品，这些纺织品会变硬以支持某人的手臂处于某个位置，而在其他位置会变软。"Adriaenssens说：“它可以包裹东西，也可以不包裹，可以变硬，也可以不变硬。它可以有很多功能。”</p><p style="text-align: left;">除了作品的实际应用，该项目还展示了艺术家和工程师之间的跨学科合作在很大程度上尚未开发的价值。虽然艺术往往是由直觉和感觉驱动，在科学思维领域之外运作，但 “它可以导致发现一些有趣的现象，”Dreier说。“我真的很兴奋，这些不同的世界可以以一种非常相关的方式走到一起。”</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=271433789&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p>   
+</div>
+            
