@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210712/1626051793_3687
 Studios和《乐高》游戏开发商TT Games。不过，华纳兄弟今日做出回应，否认了这一传言。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210712/1626051793_368776.jpg" alt="华纳兄弟否认出售《真人快打11》开发商NetherRealm" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210712/1626051793_368776.jpg" alt="华纳兄弟否认出售《真人快打11》开发商NetherRealm" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 华纳兄弟告诉外媒The Gamer，以上提到的两个工作室将继续归华纳公司所有，将是华纳媒体探索频道合并的一部分。
