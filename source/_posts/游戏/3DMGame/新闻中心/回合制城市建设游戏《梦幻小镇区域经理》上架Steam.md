@@ -24,11 +24,8 @@ Manager）》上架Steam，不支持中文。在游戏中，玩家将为冒险�
 <iframe src="https://player.youku.com/embed/XNTE4MDU2NzcwOA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210712/1626048371_683219.jpg" alt="回合制城市建设游戏《梦幻小镇区域经理》上架Steam" referrerpolicy="no-referrer"> 
-</p>
 <p style="text-indent:2em;">
-关于这款游戏：
+<strong>关于这款游戏：</strong> 
 </p>
 <p style="text-indent:2em;">
 在一个被遗忘已久的梦幻国度里，你按照一张通往古代遗迹的地图，做了一件唯一合理的事——就是在上面建立一个小镇。
@@ -42,26 +39,8 @@ Manager）》上架Steam，不支持中文。在游戏中，玩家将为冒险�
 <p style="text-indent:2em;">
 这是一款回合制的roguelite城市建造游戏，随着你的城市的发展，它将吸引更多的冒险者!混乱将不可避免地接踵而至，所以准备好面对一个冒险小镇带来的一切。
 </p>
-<p style="text-indent:2em;">
-特性
-</p>
-<p style="text-indent:2em;">
-构建建筑
-</p>
-<p style="text-indent:2em;">
-吸引冒险家
-</p>
-<p style="text-indent:2em;">
-阅读新闻
-</p>
-<p style="text-indent:2em;">
-收集新建筑
-</p>
-<p style="text-indent:2em;">
-继续任务
-</p>
-<p style="text-indent:2em;">
-阻止你不可避免的死亡…
+<p style="text-align:center;text-indent:2em;">
+<img src="https://img.3dmgame.com/uploads/images/news/20210712/1626048371_683219.jpg" alt="回合制城市建设游戏《梦幻小镇区域经理》上架Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210712/1626048380_608833.jpg" alt="回合制城市建设游戏《梦幻小镇区域经理》上架Steam" referrerpolicy="no-referrer"> 
