@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=974'
+headimg: 'https://picsum.photos/400/300?random=6480'
 author: 知乎
 comments: false
-date: Mon, 12 Jul 2021 07:04:48 GMT
-thumbnail: 'https://picsum.photos/400/300?random=974'
+date: Mon, 12 Jul 2021 08:01:18 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6480'
 ---
 
 <div>   
-立党的回答<br><br><p>他大概不知道（也许是知道但强行装不知道）：</p><p>无论是Google Hangouts还是Facebook Messenger，都是允许你3个手机、5个平板、8个网页、10个电脑同时在线；</p><p>然后在你登录的那个客户端直接推送，其他不在线的客户端接受消息但不推送不提示；</p><p>最后，每个人一个账号，所有客户端全同步完全一致的体验（完全、一致、的体验，是指你在手机App上能做的事情，能在网页里、全平台桌面端、Chromebook做到完完全全、一致、的体验），所有聊天记录全平台全账号同步保存（全平台、全同步、全保存）。</p><p>——这是一个人对聊天工具的最最基本需求。张小龙不做，要么是他没能力做，要么是他强行不做（为了省事/省钱）。</p>  
+童毅的回答<br><br><p>他书上写的其实我不信。</p><p>初期不做PC版本，怕是跟QQ竞争。</p><p>后面几年不做PC版本，就是怕企业微信推不开。</p><p>现在开了PC版本，就是没办法，现在的年轻人都要用电脑沟通工作，微信常用，挂微信摸鱼是一种非常必要的需求，如果微信不推出好用的PC版本，肯定是被新的应用替代的。</p>  
 </div>
             
