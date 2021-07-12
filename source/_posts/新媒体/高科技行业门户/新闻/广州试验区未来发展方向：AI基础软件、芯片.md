@@ -1,0 +1,19 @@
+
+---
+title: '广州试验区未来发展方向：AI基础软件、芯片'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member10802/202107/12143736466480.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 12 Jul 2021 06:53:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member10802/202107/12143736466480.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">前言:</p><p style="text-indent: 2em; text-align: left;">广州将建设全球数产融合标杆城市,在中心城区内打造<span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="人工智能">人工智能</a></span>与数字经济试验区,构建“一江两岸三片区”的空间格局。</p><p style="text-indent: 2em; text-align: left;">作者 | 方文</p><p style="text-indent: 2em; text-align: left;">图片来源 |  网 络</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">广州试验区未来发展方向</span></strong></p><p style="text-indent: 2em; text-align: left;">《导则》显示,到2022年,广州试验区内人工智能与数字经济规模初步形成,软件和信息技术服务业营业收入规模超600亿元,产业数字化渗透率不断提升。</p><p style="text-indent: 2em; text-align: left;">建成一批全国领先的人工智能开放创新平台和成果应用转化基地。培育一批有技术和人才竞争力的数字经济领军企业,重点企业超过1000家,新增人工智能与数字经济类型企业超过500家,区域数字经济示范引领作用不断增强。</p><p style="text-indent: 2em; text-align: left;">到2025年,优势产业集聚发展水平显著提升,软件和信息技术服务业营业收入规模超900亿元,产业数字化覆盖率过半。</p><p style="text-indent: 2em; text-align: left;">主要科技载体和基地攻克一批关键核心技术,形成新一批创新创业项目带动示范。培育重点企业超过1300家,新增人工智能与数字经济类型企业超过800家,信息技术与实体经济融合催生的新产业新模式新业态成为推动数字经济发展的重要动能。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">“一江两岸三片区”统筹差异布局</span></strong></p><p style="text-indent: 2em; text-align: left;">《导则》提出,根据广州试验区“一江两岸三片区”的空间格局及各片区现有产业基础、资源禀赋,全面统筹各片区差异化布局。</p><p style="text-indent: 2em; text-align: left;">各片区通过一批总部企业、人工智能与数字经济领域技术龙头和产业龙头企业引入,公共实验室、科技孵化平台、国际注册技术转移经理人认证(RTTP)、知识产权保护基地、科技成果转化中心等服务平台的建设,带动试验区外其他区域进行数字化转型。</p><p style="text-indent: 2em; text-align: left;">其中,鱼珠片区发展5G通讯及集成电路核心零部件、AI+软件、信创+区块链、数字贸易等产业,发展数字化工厂和无人工厂。</p><p style="text-indent: 2em; text-align: left;">形成国家高端智能装备产业基地、工业互联网示范基地、高端服务业产业基地、信创产业基地和基础软件战略基地。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member10802/202107/12143736466480.png" alt="AI芯天下丨政策丨《广州人工智能与数字经济试验区产业》：发展AI基础软件、芯片" title="AI芯天下丨政策丨《广州人工智能与数字经济试验区产业》：发展AI基础软件、芯片" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>围绕产业链布局创新链</strong></p><p style="text-indent: 2em; text-align: left;">广州推动创新链与产业链深度融合。加快技术和市场的精准对接,促进人工智能与数字经济产业从技术到应用场景的转化。</p><p style="text-indent: 2em; text-align: left;">其中,创新链与产业链融合。支持企业联合高校和科研院所共建研发中心、技术联盟、产业基地等,就共性技术和应用场景开展联合攻关。依托科技公共服务平台和引才引智工程引导和优化创新链布局。</p><p style="text-indent: 2em; text-align: left;">新兴技术与传统产业融合。以培育人工智能产业为重点,汇聚政策、资本、技术、人才、数据等要素资源,构建“新技术+实体经济”、“新技术+重点产业”的融合体系。</p><p style="text-indent: 2em; text-align: left;">积极落实和推动“揭榜挂帅”,在人工智能和数字经济领域选拔“领头羊”,培育“尖刀班”,加快人工智能产业和实体经济深度融合。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">重点发展前沿技术</span></strong></p><p style="text-indent: 2em; text-align: left;">《导则》还提出,是发挥琶洲和大学城企业、高校、科研院所集聚优势,瞄准前沿核心技术,搭建科研平台。</p><p style="text-indent: 2em; text-align: left;">依托人工智能与数字经济广东省实验室(广州)及其他重点实验室、新型研发机构和企业技术研究中心,加快实现一批人工智能关键核心技术突破。</p><p style="text-indent: 2em; text-align: left;">聚焦人工智能基础理论与算法研究。以突破人工智能基础机理、模型和算法瓶颈为重点,研究人工智能数理基础与模型、大数据计算理论与核心算法、脑科学与类脑智能以及人工智能产业发展战略,打造国内高水平的人工智能基础理论研究中心。</p><p style="text-indent: 2em; text-align: left;">加快人工智能基础平台与软硬件研发。重点建设人工智能开源软硬件基础平台、群体智能服务平台、自主无人系统支撑平台、人工智能基础数据与安全检测平台。</p><p style="text-indent: 2em; text-align: left;">重点发展人工智能基础软件、芯片等,解决卡脖子技术问题。研究云计算与智能互联等技术,加快突破关键共性技术。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">结尾:</span></strong></p><p style="text-indent: 2em; text-align: left;">推进粤港澳大湾区建设的重要特色平台,是广州实现老城市新活力和“四个出新出彩”的重要支撑区。</p><p style="text-indent: 2em; text-align: left;">建设好广州试验区对落实国家数字经济发展战略,推动数字经济与实体经济融合发展,将数字经济发展融入粤港澳大湾建设具有重要意义。</p><p style="text-indent: 2em; text-align: left;">部分内容来源:广东省发展和改革委员会;爱集微</p> 
+  
+</div>
+            
