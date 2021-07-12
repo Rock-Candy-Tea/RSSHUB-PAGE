@@ -75,7 +75,7 @@ intent(<span class="hljs-string">'(going| )down'</span>, <span class="hljs-funct
 <h5 data-id="heading-5">向App发送命令</h5>
 <p><code>play()</code>函数可用于向与Alan集成的客户端应用程序发送命令。此类命令可让您在应用程序端执行特定活动，例如，导航到应用程序中的另一个页面、突出显示屏幕上的UI元素等。通过这种方式，您可以同步语音和视觉效果，并为您的应用创建多模式界面。</p>
 <p>要发送命令，请将JSON传递给<code>play()</code>函数。在上面示例中，当用户说：<code>going right</code>或<code>right</code>会调用该命令。 作为响应操作，Alan向客户端App发送<code>go-right</code>命令。当然，更灵活的方式发送命令的同时</p>
-<p>要在应用程序端处理命令，您必须为从 Alan 的语音脚本接收到的命令定义处理程序。有关详细信息，请参阅 [onCommand]处理程序(<a href="https://link.juejin.cn/?target=https%3A%2F%2Falan.app%2Fdocs%2Fclient-api%2Fmethods%2Fcommand-handler)%25E3%2580%2582" target="_blank" rel="nofollow noopener noreferrer" title="https://alan.app/docs/client-api/methods/command-handler)%E3%80%82" ref="nofollow noopener noreferrer">alan.app/docs/client…</a></p>
+<p>要在应用程序端处理命令，您必须为从 Alan 的语音脚本接收到的命令定义处理程序。有关详细信息，请参阅 <a href="https://link.juejin.cn/?target=https%3A%2F%2Falan.app%2Fdocs%2Fclient-api%2Fmethods%2Fcommand-handler" target="_blank" rel="nofollow noopener noreferrer" title="https://alan.app/docs/client-api/methods/command-handler" ref="nofollow noopener noreferrer">onCommand</a>处理程序。</p>
 <h5 data-id="heading-6">响应</h5>
 <p><code>reply()</code>是一个预定义的函数，如果你只需要给用户一个响应，不需要做任何复杂的动作，就可以使用它。</p>
 <pre><code class="hljs language-js copyable" lang="js">intent(<span class="hljs-string">'Say $(W hello|goodbye)'</span>,
@@ -154,7 +154,8 @@ btn.playCommand(&#123; <span class="hljs-attr">command</span>: <span class="hljs
 <p>onCommand</p>
 </blockquote>
 <p>用于处理来自Alan语音脚本的命令的回调。在此回调中，您可以设置有关应用程序对语音脚本接收到的命令做出反应的逻辑。</p>
-<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fcodepen.io%2Friafan%2Fpen%2Fwvzdywp" target="_blank" rel="nofollow noopener noreferrer" title="https://codepen.io/riafan/pen/wvzdywp" ref="nofollow noopener noreferrer">点击此处查看</a>完整实例代码。</p>
+<p>本实例中，我们在客户端应用中使用<code>activate()</code>方法以编程方式打开激活Alan按钮，调用<code>playText()</code>方法播放<code>you are welcome</code>，并使用<code>playCommand()</code>方法执行本地命令，由<code>go-right</code>命令处理程序处理将小球向右移动50px;</p>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fcodepen.io%2Friafan%2Fpen%2Fwvzdywp" target="_blank" rel="nofollow noopener noreferrer" title="https://codepen.io/riafan/pen/wvzdywp" ref="nofollow noopener noreferrer">点击此处查看</a>完整实例代码。当用户说：<code>going left</code>或<code>left</code>，Alanw会向用户播放文本<code>Left</code>并将小球向左移动50px，其它方向亦然。如果免费语音次数已经使用完，会听到一个语音提示让用户充值。</p>
 <h1 data-id="heading-8">三、注意</h1>
 <blockquote>
 <p>免费用户可以默认交互50次，如果绑定github并给Alan点赞，可以送交互（最多9次）。免费次数用完后，用户需要更改成付费方式并在线充值才能继续使用Alan语音云服务。</p>
