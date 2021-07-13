@@ -1,0 +1,18 @@
+
+---
+title: '请问乳白英短算是橘猫吗？-oraora英短猫舍的回答：不算的哦(ﾟoﾟ;乳白算是英短里比较稀少的色，颜色比橘猫淡很多看起来肥肠和谐，耐看，纯乳色也非常棒！！！'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-3e810e9fc76d264603daa89358f103b6_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 12 Jul 2021 23:44:26 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-3e810e9fc76d264603daa89358f103b6_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>请问乳白英短算是橘猫吗？</strong><br>oraora英短猫舍的回答<br><p>不算的哦(ﾟoﾟ;乳白算是英短里比较稀少的色，颜色比橘猫淡很多看起来肥肠和谐，耐看，纯乳色也非常棒！！！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-3e810e9fc76d264603daa89358f103b6_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-db800feb982b69b54d8aaeee847cc85d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-3e810e9fc76d264603daa89358f103b6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-3e810e9fc76d264603daa89358f103b6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-691ffdae0654ef2424ea12dda74c155c_720w.jpg?source=54b3c3a5" data-rawwidth="1176" data-rawheight="1412" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-31dc1ec6d8cc305ef53c222fd39041f0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-691ffdae0654ef2424ea12dda74c155c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-691ffdae0654ef2424ea12dda74c155c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-27215e0608eec66375503d7f2c6e5258_720w.jpg?source=54b3c3a5" data-rawwidth="1569" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-0cab04ce010dc98431436524e4009282_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-27215e0608eec66375503d7f2c6e5258_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-27215e0608eec66375503d7f2c6e5258_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-36617946bb1982291659c99c02caaf52_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-64d5e8ea884c4a80a9acf0c03ff317dc_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-36617946bb1982291659c99c02caaf52_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-36617946bb1982291659c99c02caaf52_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1398185638475309056" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-8ca37054c67b830682c186bbfcb27a4e.jpeg" data-lens-id="1398185638475309056">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-8ca37054c67b830682c186bbfcb27a4e.jpeg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1398185638475309056</span>              </span>            </span></span></span></a>            </p><p></p>  
+</div>
+            
