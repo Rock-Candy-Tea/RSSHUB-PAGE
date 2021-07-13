@@ -27,6 +27,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/10/iPa
 </blockquote>
 <p>You can visit the <a href="https://www2.calstate.edu/impact-of-the-csu/student-success/csuccess/Pages/default.aspx">CSUCCESS website</a> for additional information about the program and read the full press release <a href="https://www2.calstate.edu/csu-system/news/Pages/New-CSUCCESS-Initiative-Will-Enhance-Equity-and-Student-Achievement-for-CSU-Students.aspx">announcement right here</a>. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3hXL4Ra"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/ALOGIC_9to5mac_DX-Native-banner-750x150px-v5-copy.jpg?quality=82&strip=all" alt class="wp-image-736377" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

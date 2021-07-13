@@ -29,6 +29,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Fir
 </blockquote>
 <p>But while this specific case represents a win for Apple, there is still a <a href="https://9to5mac.com/2021/06/24/tim-cook-speaker-pelosi-antitrust-calls/">significant amount of antitrust pressure</a> facing the company in the US and elsewhere. We are also <a href="https://9to5mac.com/2021/05/24/apple-vs-epic-adjourns/">still awaiting a decision</a> from the judge in the Apple vs. Epic Games trial over the App Store and antitrust concerns. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3hXL4Ra"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/ALOGIC_9to5mac_DX-Native-banner-750x150px-v5-copy.jpg?quality=82&strip=all" alt class="wp-image-736377" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
