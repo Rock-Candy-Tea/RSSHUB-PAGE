@@ -31,6 +31,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/App
 </blockquote>
 <p>The phenomenal performance and battery life offered by M1 Macs has left Intel <a href="https://9to5mac.com/2021/04/07/ironic-intel-ad-with-macbook-pro/" target="_blank" rel="noreferrer noopener">struggling</a> to <a href="https://9to5mac.com/2021/05/31/intel-versus-apple-chart/" target="_blank" rel="noreferrer noopener">compete</a>, though rival chipmaker Qualcomm thinks that <a href="https://9to5mac.com/2021/03/16/qualcomm-cpu-nuvia-apple-acquisition/" target="_blank" rel="noreferrer noopener">ex-Apple chipmakers</a> will <a href="https://9to5mac.com/2021/07/02/qualcomm-can-beat-apple-m1/" target="_blank" rel="noreferrer noopener">give it an edge</a>.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3hXL4Ra"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/ALOGIC_9to5mac_DX-Native-banner-750x150px-v5-copy.jpg?quality=82&strip=all" alt class="wp-image-736377" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

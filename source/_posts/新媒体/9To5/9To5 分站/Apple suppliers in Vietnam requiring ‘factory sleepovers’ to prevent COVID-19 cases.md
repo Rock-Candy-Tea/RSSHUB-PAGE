@@ -30,6 +30,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/App
 <p>In a statement, Foxconn, which plans to move some production of MacBook and iPads to Vietnam, said it is “working closely with the Vietnamese government to ensure that we are able to comply with all relevant public health requirements.”</p>
 <p>Luxshare, which is the primary assembler of AirPods, didn’t respond<em> Bloomberg </em>inquiries for comment.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://amzn.to/3h0Fflo"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-1.jpg?quality=82&strip=all" alt class="wp-image-734775" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
