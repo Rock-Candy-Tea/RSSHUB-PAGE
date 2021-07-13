@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-5bf5887cac7ba9f1fa3b02d5c8d1809c_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=9533'
 author: 知乎
 comments: false
-date: Tue, 13 Jul 2021 06:35:46 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-5bf5887cac7ba9f1fa3b02d5c8d1809c_1440w.jpg'
+date: Tue, 13 Jul 2021 13:16:37 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9533'
 ---
 
 <div>   
-徐导在澳洲的回答<br><br><p>再补充一下：</p><p>P0只是我一开始的猜测哈，各个公司各种产品事故等级都不一样。仔细回味了一下确实应该没有P0这么高。</p><p>测试环境和生产是隔离的，但是大公司有时候会用生产的资源做压力测试，因为测试环境没有那么多资源可以用。</p><p><br></p><p>补充一下：</p><p>事故发生在深夜，有可能正好在发布新版本，出现了bug。</p><p>或者在做全链路压测，测试链路上的推送服务忘记关闭。</p><p><br></p><p>原答案：</p><p>应该是P0级事故（最高级），猜测是测试环境数据发到生产环境了。某些程序员、测试、以及他们的领导要被扣年终奖了。</p><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-5bf5887cac7ba9f1fa3b02d5c8d1809c_1440w.jpg" data-caption data-size="normal" data-rawwidth="719" data-rawheight="540" data-default-watermark-src="https://pic3.zhimg.com/v2-edba9b5b434c3b40caab33b1029b6bfa_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-5bf5887cac7ba9f1fa3b02d5c8d1809c_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>更多阅读：</p><p><a href="https://www.zhihu.com/answer/1990377122" class="internal">徐导在澳洲：什么样的程序员在35岁以后依然被公司抢着要？</a></p><p><a href="https://www.zhihu.com/answer/1990302264" class="internal">徐导在澳洲：国外程序员也都是996么？</a></p><p><a href="https://www.zhihu.com/answer/1994990559" class="internal">徐导在澳洲：被裁员是怎样的一种体验？</a></p>  
+萝魏紫的回答<br><br><p>这多数是发布的锅。</p><p>事实上企业级软件技术发展到现在，早已经不是简单的，测试环境，生产环境了。</p><p>部署有几种，我估计是某种部署的时候，切换错了。</p><p><b>蓝绿部署，滚动发布，金丝雀部署</b></p><p>蓝绿部署就是用两套机器，现在生产一套（蓝机），将来生产一套（绿机），先把绿机点起来准备好，再把流量从蓝机切换到绿机，然后等蓝机流量归零以后，从生产上摘下来，准备下一次发布。</p><p>滚动发布就是蓝绿发布的穷人版，一个个摘，一个个换。</p><p>金丝雀也叫灰度发布，和蓝绿不同的是新老版本同时并存，将少量用户流量导入到新版本作为尝试（所谓矿井中的金丝雀）</p><p>感觉上这次微信的问题应该是应用了金丝雀发布，新上的版本有问题，所以有部分用户中招但是面不广。而且凌晨上版本也符合DEVOPS的习惯。</p>  
 </div>
             
