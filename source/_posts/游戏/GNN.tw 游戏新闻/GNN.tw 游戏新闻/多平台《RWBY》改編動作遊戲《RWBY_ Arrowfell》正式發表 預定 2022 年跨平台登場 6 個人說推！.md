@@ -7,16 +7,16 @@ categories:
  - 游戏
  - GNN.tw 游戏新闻
  - GNN.tw 游戏新闻
-headimg: 'https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG?v=1626151808'
+headimg: 'https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG'
 author: GNN.tw 游戏新闻
 comments: false
 date: Invalid Date
-thumbnail: 'https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG?v=1626151808'
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG'
 ---
 
 <div>   
 Arc System Works 日前宣布，由 WayForward 開發的人氣 3D CG 動畫《RWBY》改編 2D 動作冒險遊戲《RWBY: Arrowfell》將於 2022 年在 Nintendo Switch、PS5、PS4、X...
 繼續閱讀
-<img src="https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG?v=1626151808" referrerpolicy="no-referrer">  
+<img src="https://p2.bahamut.com.tw/S/2KU/74/8dcacf1d66a305bb64ec3689381czva5.JPG" referrerpolicy="no-referrer">  
 </div>
             
