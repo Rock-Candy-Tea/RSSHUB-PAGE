@@ -30,7 +30,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210713/s_9254880798b94533aa11205bc8
  <p class="bqian"><a href="https://news.mydrivers.com/tag/biyadi.htm"><i>#</i>比亚迪</a><a href="https://news.mydrivers.com/tag/daopiandianchi.htm"><i>#</i>刀片电池</a></p>
 <p class="url">
      
-<span>责任编辑：陈驰</span>
+<span>责任编辑：风云</span>
 </p>
         
 </div>

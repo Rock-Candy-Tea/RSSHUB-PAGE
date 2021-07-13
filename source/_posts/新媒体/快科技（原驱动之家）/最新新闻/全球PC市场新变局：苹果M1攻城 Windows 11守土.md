@@ -1,0 +1,61 @@
+
+---
+title: '全球PC市场新变局：苹果M1攻城 Windows 11守土'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210713/S44139aef-6036-41c9-8a3c-cd893427193c.png'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 13 Jul 2021 21:10:06 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210713/S44139aef-6036-41c9-8a3c-cd893427193c.png'
+---
+
+<div>   
+<p>去年苹果 M1 芯片的推出，今年 Windows 11 的发布，都在不停搅动着本已陷入沉寂的 PC 市场。</p>
+<p>2021 年 7 月 12 日，知名数据研究机构 IDC 公布了 2021 年 Q2 全球 PC 市场表现报告——<span style="color:#ff0000;"><strong>总体上，全球传统 PC 出货量增长态势没有了前两个季度的高涨势头，逐渐“冷静”放缓。</strong></span></p>
+<p>其中最为明显的是，苹果的增长速率从 Q1 的 111% 降至 9.4%。</p>
+<p>不仅如此，对 PC 市场而言，上个月发布的 Windows 11 这一重大变量还未在本季度体现，一股暗流正在涌动当中。</p>
+<p><strong>PC 市场需求仍强劲</strong></p>
+<p>IDC 报告显示，2021 年第二季度，全球 PC 出货量达到 8360 万台，同比去年同期增长 13.2%。</p>
+<p>从品牌排名来看，中国公司联想集团继续蝉联全球 PC 销量冠军，紧随其后的是惠普、戴尔、苹果、华硕。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210713/44139aef-6036-41c9-8a3c-cd893427193c.png" target="_blank"><img alt="全球PC市场新变局：苹果M1攻城 Windows 11 守土" h="290" src="https://img1.mydrivers.com/img/20210713/S44139aef-6036-41c9-8a3c-cd893427193c.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>报告指出，PC 供应链目前依然存在部件缺货等问题，不过从需求表现来看，全球 PC 市场的需求依然强劲。</p>
+<p>对此，IDC 移动和消费设备跟踪器研究经理 Jitesh Ubrani 表示，PC 市场的热潮将继续推动供应方的大量投资，包括新供应商的进入以及弱者的额外支出。</p>
+<p>不过，雷锋网通过对比前四个季度的全球 PC 出货量报告发现，由于疫情带来的线上办公热潮的影响，自 2020 Q2 开始，PC 市场重新焕发了活力。</p>
+<p>一个直观的数据表现是，2020 年 Q1 全球 PC 总出货量仅有 5320 万台，仅过了一个季度，2020 年 Q2 出货量就环比上升了 36%，达 7230 万台。</p>
+<p>在此后两个季度中，这一数据还在不断增长——2020 年 Q3 为 8130 万台、2020 年 Q4 为 9160 万台。进入 2021 年，尽管出货量数据较上一年的巅峰时期有所减少，但仍维持在 8400 万左右的高位水平。</p>
+<p>值得一提的是，IDC 在今年两个季度的 PC 出货量报告中均指出，用户对于 PC 仍有强劲的需求，而出货量之所以未能持续保持增长，其中一个因素在于组件短缺。</p>
+<p>事实上，芯片等组件短缺已经成为整个科技行业的共性问题，即便供应链管理强大如苹果，在一季度财报电话会议中也坦诚表态，芯片供应短缺问题会显著影响到 iPad 和 Mac 生产和销售。</p>
+<p>对于 PC 厂商以及整个 PC 市场而言，还将继续与这一难题“打持久战”。</p>
+<p><strong>苹果 M1、Windows 11 成 PC 市场变量</strong></p>
+<p>在近一年的 PC 出货量报告中，苹果“过山车式”的增长曲线引起了雷锋网(公众号：雷锋网)注意——尤其在 2020 年 Q1 ，苹果 PC 出货量同比增长了 111.5%，而后在第二季度便放缓至 9.4%。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210713/e89cdb2e-b5bd-4eba-ad10-0d9a2a23acdf.jpg" target="_blank"><img alt="全球PC市场新变局：苹果M1攻城 Windows 11 守土" h="359" src="https://img1.mydrivers.com/img/20210713/Se89cdb2e-b5bd-4eba-ad10-0d9a2a23acdf.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>通过整理 IDC 报告不难发现，在全球大环境的影响下，苹果 Mac 的出货量也在一路走高，2020 Q1- 2020 Q4 出货量分别为——309.2 万、559.4 万、689 万、734.9 万。进入 2021 年，则维持在六百万上下，前两个季度出货量分别为 669.2 万、615.6 万。</p>
+<p><strong>“苹果上一季度的高速增长要考虑历史因素的影响”，一位资深行业分析师向雷锋网表示。</strong></p>
+<p>将苹果近三年第一季度出货量（分别为 472.1万、309.2万、669.2 万）的对比不难发现，2020 年 Q1 苹果 PC 出货量表现不尽如人意。当时，IDC 报告中也指出，该季度达到苹果历史上最大的降幅。</p>
+<p>于是，同比之下，2021 年 Q1 在强需求下的出货量表现便显得增势迅猛。</p>
+<p>另外，苹果在 2020 年推出搭载自研 M1 芯片的 Mac 设备也是苹果第一季度销量上升的一大关键性因素。</p>
+<p>该行业分析师表示，疫情之后带来的需求为苹果带来大约 20% 出货量的增长，而在搭载 M1 Mac 设备推出之后，苹果第一季度的出货量同比增长约为 70%。</p>
+<p>不难看出，M1 芯片对苹果 Mac 设备的销量影响是十分明显的。不过，对于 M2 的到来能否对 Mac 设备起到同样的高速助力作用，该行业分析师则是持保守态度。</p>
+<p>他表示，目前尚未能确定即将发布的苹果 M2 芯片是否能够大幅促进 PC 的出货量，但可以预见的是，苹果 M1 芯片对 PC 销量的正面影响还将继续。</p>
+<p>“这种影响不一定体现在出货量同比增长的数据上，而是会表现在苹果 PC 市场份额的扩大，让苹果在 PC 市场扎得更稳”，行业分析师向雷锋网表示。</p>
+<p>苹果凭借 M1 展示出“大杀四方”之势的同时，苹果生态之外的 Windows 系统也并未坐以待毙——就在上个月，微软刚刚重磅发布了 Windows 11 系统；而这，也将成为 PC 市场的一大变量。</p>
+<p>对于 Windows 11 会对 PC 行业带来的影响，该行业分析师向雷锋网表示，“<strong>这种影响肯定是正面的”；而这样的正面影响，最直观的反应也将是 PC 出货量。</strong></p>
+<p>随着全球疫情逐步得到控制，如今的 PC 市场，尽管少了大环境的“东风加持”，但在苹果生态整合的背景、以及 Windows 系统全新升级的动态之下，PC 市场已造出了“新东风”。</p>
+<p>东风渐起，水面自然难以平静。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20210713/322c8d742e574e9e8018ab0d92acb7e8.jpg" target="_blank"><img alt="全球PC市场新变局：苹果M1攻城 Windows 11 守土" h="400" src="https://img1.mydrivers.com/img/20210713/s_322c8d742e574e9e8018ab0d92acb7e8.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+            
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/pingguo.htm"><i>#</i>苹果</a><a href="https://news.mydrivers.com/tag/cpuchuliqi.htm"><i>#</i>CPU处理器</a><a href="https://news.mydrivers.com/tag/windows_11.htm"><i>#</i>Windows 11</a></p>
+<p class="url">
+     <span>原文链接：<a href="https://www.leiphone.com/category/weiwu/P8r4QJJKlacU5Ahm.html">雷锋网</a></span>
+<span>责任编辑：宪瑞</span>
+</p>
+        
+</div>
+            
