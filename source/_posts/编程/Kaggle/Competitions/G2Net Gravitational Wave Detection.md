@@ -5,11 +5,11 @@ categories:
  - 编程
  - Kaggle
  - Competitions
-headimg: 'https://picsum.photos/400/300?random=571'
+headimg: 'https://picsum.photos/400/300?random=8837'
 author: Kaggle
 comments: false
-date: 2021-07-13 01:52:34
-thumbnail: 'https://picsum.photos/400/300?random=571'
+date: 2021-07-13 02:21:01
+thumbnail: 'https://picsum.photos/400/300?random=8837'
 ---
 
 <div>   
