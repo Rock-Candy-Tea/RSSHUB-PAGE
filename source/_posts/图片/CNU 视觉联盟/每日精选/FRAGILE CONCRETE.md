@@ -1,0 +1,19 @@
+
+---
+title: 'FRAGILE CONCRETE'
+categories: 
+ - 图片
+ - CNU 视觉联盟
+ - 每日精选
+headimg: 'https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/70c3cf7f55c531c4ad3f0f90694447a6.jpg'
+author: CNU 视觉联盟
+comments: false
+date: Fri, 09 Jul 2021 17:30:35 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/70c3cf7f55c531c4ad3f0f90694447a6.jpg'
+---
+
+<div>   
+<p>  斯洛伐克攝影師 Mária Švarbová 拍攝的最新系列，意在探索人類與建築、個人與現代主義美學的關係。包括其非個人化和標準化的特徵，這些照片構成了她視覺旅程中的一個新里程碑。<br></p>
+            <img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/70c3cf7f55c531c4ad3f0f90694447a6.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/c8a5431a8b423ae2a94cf33b4cc87830.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/e63126dcefe1383498766759a529ffb1.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/a84fcd2b03f63ebb85297c372cb7341b.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/232557bea7d534b8a60e61f92140192e.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/f5e209151fa63d0d8affae8bb847c40f.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/dd325befea393e4799c99b22caad96ec.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/26f5c5caef0634f2b053438ae7fed2a4.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/b34c0a4beefb3883a6f82df3cff27d18.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/b2b6dc32313838ed8d74cf0af4e6fd89.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/95af3332b80b31a28fa4b5f23704666d.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/621b11905e58394d92ad72eeb10b7d7f.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/60c4f291bc5e3c4a8f17a053525f34d7.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/54ac8fed064135159d720706f6f276aa.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/db8797ff97393aa3b43f07045dc4c9f6.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/580a3c686ef933149a50ea190118f5c2.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/ab551bfcb61539cf9990ebcaaf52d5a0.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/7baaf7ec6e843cb49a9152c6985e88ca.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2107/09/5740c30dc4c83ca8a988c7e168073259.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p>  
+</div>
+            
