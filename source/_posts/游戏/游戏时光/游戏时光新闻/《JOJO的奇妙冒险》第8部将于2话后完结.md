@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/07/14/21071417565463_u93176
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>近10年的连载走向尾声。</p>
 </div>
 
                 
