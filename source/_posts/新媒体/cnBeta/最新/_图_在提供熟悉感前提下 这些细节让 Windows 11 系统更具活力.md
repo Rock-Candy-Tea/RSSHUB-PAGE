@@ -1,0 +1,19 @@
+
+---
+title: '_图_在提供熟悉感前提下 这些细节让 Windows 11 系统更具活力'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0714/42f433d89db2a14.jpg'
+author: cnBeta
+comments: false
+date: Wed, 14 Jul 2021 01:38:19 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0714/42f433d89db2a14.jpg'
+---
+
+<div>   
+Windows 11 预览版已经推出几周时间了，在本站此前发布的大量文章中已经介绍了新系统诸多新功能新特性。虽然最直观的视觉改变就是任务栏居中和全新的开始菜单，但微软在整个系统的过渡动画上也做了很多调整，从而让整个系统比此前更具活力。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0714/42f433d89db2a14.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0714/42f433d89db2a14.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在近日发布的官方博文中，微软详细介绍了在 Windows 11 设计过程中所采用的一些方法，以及在日常微互动细节的关注。这包括像复选框这样的东西，它有一个动画的勾，以巧妙地让你知道你与它的互动，或者一个设置齿轮，当你悬停在它上面时，它会旋转。当你在操作系统中移动时，Windows 11 中的许多按钮都会弹出微弱的生命迹象或反弹。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/484bc68c03f0aa2.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/484bc68c03f0aa2.gif" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0714/4b75966b86023c2.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0714/4b75966b86023c2.gif" width="100%/" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">正是这种对细节的关注，使得 Windows 11 在保持熟悉感的同时给人以新鲜感。这些动画通常很有趣，但同样有用，为你正在进行的互动提供了重要的视觉线索。值得庆幸的是，它们并没有出现在你的面前，也没有缓慢或令人讨厌，主要是因为微软设计它们是为了让人平静。微软的设计团队说：“在今天的世界非常需要平静......。今天的世界非常需要平静......Windows 11通过感觉熟悉的基础体验来促进这一点，软化以前令人生畏的用户界面，并增加情感联系”。<br style="text-align: left;"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0714/abc7dfa5d8364ea.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0714/abc7dfa5d8364ea.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0714/798bae3ff37d998.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0714/798bae3ff37d998.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">虽然微妙的动画可能会让人感到平静，但将任务栏居中并改变开始菜单的选择是 Windows 11 中更引人注目的变化。微软的设计团队说“在听取了人们表示在使用开始菜单时需要更多的效率和更少的噪音后，我们设计了一个更干净、更简单的体验，通过优先考虑他们喜欢的应用程序和他们需要的文件，将人放在中心位置。它还适应现代设备的外形因素，使所有屏幕尺寸都能更容易地访问，从 <a data-link="1" href="https://microsoft.pvxt.net/9W473" target="_blank">Surface</a> Go 到超宽显示器”。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/0d3a41bb2b1ba59.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/0d3a41bb2b1ba59.gif" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Windows 11 还改善了你首次设置机器时的开箱即用体验（OOBE）。所展示的设置内容比 Windows 10 要有用得多，包括为你的电脑命名和为你打算如何使用它设置电脑。有时，细节才是最重要的。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0714/ddadc88d1974d16.gif" alt="ezgif.com-gif-maker(5).gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0714/0e395945911f246.gif" referrerpolicy="no-referrer"></p><p style="text-align: left;">微软还为 Windows 11 的大多数元素添加了圆角，新的图标，以及更新的 Segoe UI 可变字体。与 Windows 11 的大部分内容一样，这些都是微妙的变化，你只有在使用操作系统几天后才会真正开始注意。</p><p style="text-align: left;">微软甚至与设计工作室 Six N Five 合作，创造了你将在 Windows 11 中看到的大部分壁纸。它们大多居中，以配合开始菜单。微软说：“我们希望你进入 Windows 11 的旅程是从开始菜单开始的”。</p><p style="text-align: left;">不过，Windows 11的设计当然并不完美。这是一项正在进行的工作，但在这个预览版中仍有很多不一致的地方需要消除。有时，它仍然感觉微软在把十年前的Windows与这个现代的、简单的UI混在一起。像Windows这样大而全的东西，有很多东西需要改造，所以希望最终的产品能抚平一些早期和粗糙的边缘。</p>   
+</div>
+            
