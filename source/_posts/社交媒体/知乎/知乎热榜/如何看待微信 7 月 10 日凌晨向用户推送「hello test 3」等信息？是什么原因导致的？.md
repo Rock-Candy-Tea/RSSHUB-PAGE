@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6358'
+headimg: 'https://pic1.zhimg.com/v2-ea239e05ec9fb5c2943ce02514995b1a_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 13 Jul 2021 13:16:37 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6358'
+date: Tue, 13 Jul 2021 11:27:20 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-ea239e05ec9fb5c2943ce02514995b1a_1440w.jpg'
 ---
 
 <div>   
-萝魏紫的回答<br><br><p>这多数是发布的锅。</p><p>事实上企业级软件技术发展到现在，早已经不是简单的，测试环境，生产环境了。</p><p>部署有几种，我估计是某种部署的时候，切换错了。</p><p><b>蓝绿部署，滚动发布，金丝雀部署</b></p><p>蓝绿部署就是用两套机器，现在生产一套（蓝机），将来生产一套（绿机），先把绿机点起来准备好，再把流量从蓝机切换到绿机，然后等蓝机流量归零以后，从生产上摘下来，准备下一次发布。</p><p>滚动发布就是蓝绿发布的穷人版，一个个摘，一个个换。</p><p>金丝雀也叫灰度发布，和蓝绿不同的是新老版本同时并存，将少量用户流量导入到新版本作为尝试（所谓矿井中的金丝雀）</p><p>感觉上这次微信的问题应该是应用了金丝雀发布，新上的版本有问题，所以有部分用户中招但是面不广。而且凌晨上版本也符合DEVOPS的习惯。</p>  
+程序员大彬的回答<br><br><p>"hello test"、"hello body"，这不就是测试用的数据吗？</p><p>猜测应该是凌晨时间在发新版本，然后把测试环境数据推到生产环境了。</p><p>出了这种生产事故，某些程序员或者测试可能得背低绩效，年终奖怕是凉凉。</p><p>还好发的是"hello xxx"，要是大半夜给用户推这样的消息："老板是傻x"、"开开门，我在门外"、"tmd还要加班"等等，那后果就更严重了  </p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ea239e05ec9fb5c2943ce02514995b1a_1440w.jpg" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-4ed28d55b781df76ddca448a883292b5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ea239e05ec9fb5c2943ce02514995b1a_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>我是 <a class="member_mention" href="http://www.zhihu.com/people/a19ae109d127ec8dacde6bdaa3e83c7a" data-hash="a19ae109d127ec8dacde6bdaa3e83c7a" data-hovercard="p$b$a19ae109d127ec8dacde6bdaa3e83c7a">@程序员大彬</a> ，喜欢动漫，偶尔会分享计算机、动漫相关的内容，欢迎大家点赞和关注哦(〜￣▽￣)〜</p>  
 </div>
             
