@@ -54,7 +54,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b0bf0a6f19f14e3ea9
   <span class="hljs-keyword">if</span> (opts.computed) initComputed(vm, opts.computed)
   <span class="hljs-comment">//如果vm.$options上面定义了watch 初始化watch</span>
   <span class="hljs-keyword">if</span> (opts.watch && opts.watch !== nativeWatch) &#123; 
-    <span class="hljs-comment">// 判断组件有watch属性 并没有nativeWatch（ 兼容火狐）</span>
+    <span class="hljs-comment">// 判断组件有watch属性 并且没有nativeWatch（ 兼容火狐）</span>
     initWatch(vm, opts.watch)
   &#125;
 &#125;
@@ -66,7 +66,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b0bf0a6f19f14e3ea9
 <p>⭐ <strong>initMethods</strong> 如果 <code>vm.$options</code> 上面定义了 <code>methods</code> 初始化 <code>methods</code> , <code>props</code> 的优先级 高于 <code>methods</code> 的优先级，代理 <code>methods</code> 配置上的 <code>key</code> 到 <code>vue</code> 实例 , 支持 <code>this.methodsKey</code> 的方式访问。</p>
 <p>⭐ <strong>initData</strong> 如果 <code>vm.$options</code> 上面定义了 <code>data</code> ,初始化 <code>data</code>, 代理 <code>data</code> 中的属性到 <code>vue</code> 实例，支持通过 <code>this.dataKey</code> 的方式访问定义的属性。<code>data</code> 为空时 <code>observe</code> 函数观测一个空对象。</p>
 <p>⭐ <strong>initComputed</strong> 如果 <code>vm.$options</code> 上面定义了 <code>computed</code> 初始化 <code>computed</code>。<code>computed</code> <code>是通过watcher</code> 来实现的，对每个 <code>computedKey</code> 实例化一个 <code>watcher</code>，默认懒执行。将 <code>computedKey</code> 代理到 <code>vue</code> 实例上，支持通过 <code>this.computedKey</code> 的方式来访问 <code>computed.key</code> 。</p>
-<p>⭐ <strong>initWatch</strong></p>
+<p>⭐ <strong>initWatch</strong> 判断组件有 <code>watch</code> 属性，并且没有 <code>nativeWatch</code>（ 兼容火狐）。如果 <code>vm.$options</code> 上面定义了 <code>watch</code> 初始化 <code>watch</code>。</p>
 <h1 data-id="heading-5">proxy</h1>
 <h2 data-id="heading-6">代码注释</h2>
 <pre><code class="hljs language-js copyable" lang="js"><span class="hljs-comment">// 代理对象</span>
