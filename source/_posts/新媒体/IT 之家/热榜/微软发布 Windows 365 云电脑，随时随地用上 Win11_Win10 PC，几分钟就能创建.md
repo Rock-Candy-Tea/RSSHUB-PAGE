@@ -1,0 +1,19 @@
+
+---
+title: '微软发布 Windows 365 云电脑，随时随地用上 Win11_Win10 PC，几分钟就能创建'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/7/8fa7441d-56c2-4b6d-a95a-6077808a1740.png'
+author: IT 之家
+comments: false
+date: Wed, 14 Jul 2021 15:57:55 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/7/8fa7441d-56c2-4b6d-a95a-6077808a1740.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 14 日消息 在 Inspire 2021 合作伙伴大会上，<a href="https://www.ithome.com/0/562/914.htm" target="_blank">微软宣布了 Windows 365 Cloud PC 云电脑</a>，这是一项新的云服务，将允许企业从云端在任何设备上体验 <a class="s_tag" href="https://win10.ithome.com/" target="_blank">Windows 10</a> 或 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Windows 11</a> 系统。Windows 365 云电脑建立在 Azure 虚拟桌面服务之上，并将从 8 月 2 日起向企业提供。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/8fa7441d-56c2-4b6d-a95a-6077808a1740.png" w="922" h="619" title="微软发布 Windows 365 云电脑，随时随地用上 Win11/Win10 PC，几分钟就能创建" width="922" height="551" referrerpolicy="no-referrer"></p><p>外媒称，微软正在把 Windows 放到云中。Windows 365 是一项新的服务，它将让企业从任何地方访问云电脑，在网络浏览器中流转 Windows 10 或 Windows 11 系统。虽然 PC 的虚拟化和远程访问已经存在了十多年，但当企业转向混合办公和远程工作时，微软此举标明正押注于 Windows 365，为企业提供云电脑。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/b4be86c5-0ec1-4197-bc74-deeff6b2a862.png" w="804" h="435" title="微软发布 Windows 365 云电脑，随时随地用上 Win11/Win10 PC，几分钟就能创建" width="804" height="435" referrerpolicy="no-referrer"></p><p>“Windows 365 将在任何现代网络浏览器上运行，或通过微软的远程桌面应用，使用户能够从各种设备上访问他们的云电脑。”Microsoft 365 的总经理 Wangui McKelvey 说：“Windows 365 提供了一种即时的启动体验。这种即时访问让员工可以在 Mac、<a class="s_tag" href="https://ipad.ithome.com/" target="_blank">iPad</a>、Linux PC 和<a class="s_tag" href="https://android.ithome.com/" target="_blank">安卓</a>设备上使用他们的 Windows 会话和所有相同的应用程序、工具、数据和设置。”McKelvey 解释说：“你可以在离开的地方继续工作，因为你的云电脑的状态保持不变，即使你切换了设备。”</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/4b9cdaed-7d27-4e87-b748-9db83eb83a33.png" w="921" h="521" title="微软发布 Windows 365 云电脑，随时随地用上 Win11/Win10 PC，几分钟就能创建" width="921" height="464" referrerpolicy="no-referrer"></p><p>Windows 365 在 8 月 2 日推出时将只对企业开放，每个用户每月需要订阅费用。微软在下个月推出该服务之前不会详细说明确切的定价细节，但 Windows 365 是为一名员工企业直至拥有数千名员工的企业而设计的。</p><p>Windows 365 将有两个版本，分别是商业版和企业版。两者都由 Azure 虚拟桌面提供支持，个人云电脑可以配置为单核心 CPU、2GB 内存和 64GB 低端存储，一直到 8 核心 CPU、32GB 内存和 512GB 存储。微软为 Windows 365 商业版和企业版提供 12 种不同的配置，企业将能够扩展处理能力，因此将有很多选择。</p><p>从技术上讲，微软在云端提供 Windows，与企业现在已经可以选择的无数种虚拟化没有什么不同。微软已经通过 Azure 虚拟桌面提供了类似的技术，Citrix 多年来一直在提供云托管的桌面电脑。微软正试图在易用性和管理方面进行区分。McKelvey 说：“Windows 365 确实将为那些因各种原因想尝试虚拟化但又无法尝试的企业带来巨大的变化--也许是成本太高，太复杂，或者他们内部没有这方面的专业知识。”</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/89f54f8e-8eae-48e7-84f1-80987a674145.png" w="923" h="521" title="微软发布 Windows 365 云电脑，随时随地用上 Win11/Win10 PC，几分钟就能创建" width="923" height="463" referrerpolicy="no-referrer"></p><p>IT之家获悉，企业将能够在几分钟内创建云电脑，并将其分配给员工，避免了对专用物理硬件的需求。这对许多雇用远程员工，甚至是需要安全访问企业网络的临时合同员工的企业来说，可能很有吸引力。由于你的整个 Windows PC 都在云端，员工不需要浏览私密专用网络或担心个人设备的安全问题。</p><p>Windows 365 对于希望解决远程工作的复杂性的企业来说似乎是完美的时机，但此前微软已经在该服务上工作了多年。微软的操作系统团队一直在研究代号为“Arcadia”的项目，这是一项从云端流转电子游戏的服务。“Arcadia”的历史可以追溯到 2013 年微软在 Windows Phone 上演示运行的《光环》。这项早期的虚拟化工作最终导致了 Windows 365 的出现，并专注于使其对用户友好。</p><p>Windows 365 项目管理总监 Scott Manchester 说：“当我们建立这个团队时，我们引进了几个有虚拟化经验的领导者，但在大多数情况下，我们引进了有 Windows 经验和消费者体验经验的人员，因为这是我们想要设定的标准。”</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/e396389f-8ad7-494d-b9e2-d54d407b5527.png" w="927" h="695" title="微软发布 Windows 365 云电脑，随时随地用上 Win11/Win10 PC，几分钟就能创建" width="927" height="615" referrerpolicy="no-referrer"></p><p>这场新冠疫情加速了 Windows 365 的工作，以及微软对混合工作的更广泛关注。在过去的一年里，微软一直在稳步改进 Microsoft Teams，并为未来的会议、远程工作以及更多的工作提出了自己的愿景。</p><p>虽然 Windows 365 现在只针对企业，但很容易想象未来微软可以直接在浏览器中为消费者提供更强大的 PC 计算。Windows 365 可能只是迈向未来的第一个重要步骤，在那里你不需要专门的 Windows PC 来使用 Windows 系统。</p>
+          
+</div>
+            
