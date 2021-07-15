@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210715/1626340559_293322.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 15 Jul 2021 09:24:00 GMT
+date: Thu, 15 Jul 2021 09:44:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210715/1626340559_293322.jpg'
 ---
 
@@ -28,7 +28,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210715/1626340559_2933
 <p style="text-indent:2em;">
 EA在周二的一份声明中表示：“我们知道最近有人在Motherboard发布的宣称自己是黑客的帖子，我们也在分析其发布的文件，目前，我们认为该文件不包含任何涉及玩家隐私的数据，所以我们没理由相信我们的游戏、业务或玩家存在着任何重大风险。作为目前正在进行的案件调查的一部分，我们正积极地与联邦执法人员进行合作。”
 </p>
-<p>
+<p style="text-align:center;">
 <img src="https://img.3dmgame.com/uploads/images/news/20210715/1626340894_700957.jpg" alt="黑客叫嚣威胁EA 不打钱就继续发布被盗信息" referrerpolicy="no-referrer"> 
 </p>          
 </div>
