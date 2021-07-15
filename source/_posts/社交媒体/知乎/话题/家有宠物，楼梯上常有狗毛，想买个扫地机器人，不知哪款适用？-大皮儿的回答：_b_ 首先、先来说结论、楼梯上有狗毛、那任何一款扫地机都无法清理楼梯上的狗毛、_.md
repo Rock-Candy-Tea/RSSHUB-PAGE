@@ -1,0 +1,18 @@
+
+---
+title: '家有宠物，楼梯上常有狗毛，想买个扫地机器人，不知哪款适用？-大皮儿的回答：_b_ 首先、先来说结论、楼梯上有狗毛、那任何一款扫地机都无法清理楼梯上的狗毛、_...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-cb38bc3a0cdd8e3020038fa5fea54404_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 15 Jul 2021 14:56:46 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-cb38bc3a0cdd8e3020038fa5fea54404_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>家有宠物，楼梯上常有狗毛，想买个扫地机器人，不知哪款适用？</strong><br>大皮儿的回答<br><p><b> 首先、先来说结论、楼梯上有狗毛、那任何一款扫地机都无法清理楼梯上的狗毛、</b>因为扫地机只能爬最高2cm的坡、是不可能去爬楼梯的。可以买一款无线吸尘器解决楼梯狗毛的问题~</p><p><br></p><blockquote>家里其他平整区域有狗毛、可以选择买云鲸扫地机器人或者石头T7S</blockquote><p><b>云鲸是没有滚刷的、纯吸口设计、不会缠绕宠物的毛发</b>、而且云鲸的扫地功能实测还是可以的、确实第一遍可能会存在少量扫不干净的情况、那设置2遍就可以了。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-cb38bc3a0cdd8e3020038fa5fea54404_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="720" data-rawheight="1080" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c43b14a694493a09a00b7f07d7265991_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-cb38bc3a0cdd8e3020038fa5fea54404_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-cb38bc3a0cdd8e3020038fa5fea54404_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-0cda08f9bba8ab592e629824acaacb42_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="521" data-rawheight="592" data-default-watermark-src="https://pic3.zhimg.com/50/v2-87bb3a9bfb60b24dcbecc53f59ce25a9_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-0cda08f9bba8ab592e629824acaacb42_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-0cda08f9bba8ab592e629824acaacb42_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>拖地则是云鲸的强项、</b>市面上仅有的几款带独立水箱、能自动清洗拖布的扫拖一体机器人。</p><p>虽然它的避障能力一般、但是家里的家具腿什么还是能避障、对于小东西的避障不行。</p><p><b>所以它是少有的在扫地和拖地方面兼顾的比较好的扫地机器人。</b></p><p><br></p><p><b>石头T7S、采用的是胶刷、相对比毛刷来说、没这么容易缠绕、</b>石头家的扫地机器人在导航、算法以及产品质量方面都是行业中的佼佼者。而且石头T7S还可以配置集尘宝、这样就不用手动去倒垃圾了、避免二次污染。</p><p>但是石头的拖地功能其实是一般的、因为不能洗拖布、一块拖布拖全屋、ennnnnn我也不知道为什么很多人会觉得那一小块拖布能拖干净的、我妈平时拖地、还得涮好几次拖把呢、涮出来的都是黑水。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-3359d685b1dd873ac9eb98cdfb9f726e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="471" data-rawheight="352" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5dbfc14a7b41743f0eabcbdf713cd922_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-3359d685b1dd873ac9eb98cdfb9f726e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-3359d685b1dd873ac9eb98cdfb9f726e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-52b8d0f8bfe8e9c7589d86f621b07395_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="516" data-rawheight="688" data-default-watermark-src="https://pic2.zhimg.com/50/v2-b4dd13f8893d16d53734e4ad48f8792a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-52b8d0f8bfe8e9c7589d86f621b07395_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-52b8d0f8bfe8e9c7589d86f621b07395_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>石头在拖地方面也改善了不少、但是能解决洗拖布的问题就很完美了、简单来说、小区域能拖地没问题、全屋、真的不建议、会把脏东西抹的很均匀。</p><p><b>如果买石头的话、那就在搭配一个电动拖把吧~</b></p>  
+</div>
+            
