@@ -33,10 +33,10 @@ Switch平台《塞尔达传说：御天之剑HD》将于明天正式上市，这
 《塞尔达传说：御天之剑HD》将于7月16日正式发售，游戏支持中文。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210715/1626301648_158669.jpg" alt="对比原版《塞尔达：御天之剑HD》载入时间几乎减半" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210715/1626301648_158669.jpg" alt="对比原版《塞尔达：御天之剑HD》载入时间几乎减半" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210715/1626301648_855864.jpg" alt="对比原版《塞尔达：御天之剑HD》载入时间几乎减半" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210715/1626301648_855864.jpg" alt="对比原版《塞尔达：御天之剑HD》载入时间几乎减半" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
