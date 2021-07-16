@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=5334'
+headimg: 'https://picsum.photos/400/300?random=4244'
 author: Monotype
 comments: false
 date: Wed, 23 Jun 2021 10:44:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5334'
+thumbnail: 'https://picsum.photos/400/300?random=4244'
 ---
 
 <div>   
