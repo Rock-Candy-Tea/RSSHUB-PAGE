@@ -1,0 +1,19 @@
+
+---
+title: '3YOURMIND为美国海军提供按需分布式制造'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member19187/202107/wx_article__76a681e6e2009c752b6dbb3124de4057.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 16 Jul 2021 09:44:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member19187/202107/wx_article__76a681e6e2009c752b6dbb3124de4057.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">导读：分布式制造，也称为分布式生产、云生产和本地制造，是企业使用地理分散的制造设施网络（通过信息技术进行协调）进行的分散制造的一种形式。自疫情爆发至今，全球经济尚未完全走出阴影，制造能力还没完全恢复。以美国为首的军方组织似乎希望通过<span class="hrefStyle"><a href="https://3dprint.ofweek.com/" target="_blank" title="3D打印">3D打印</a></span>＋大数据的方式推动分布式制造，缓解生产需求，更新制造方式。</p><p style="text-indent: 2em; text-align: left;">南极熊获悉，德国柏林3YOURMIND于2021年7月7日宣布，与美国海军信息战中心 （NIWC） Pacific合作开发无缝数字化生产工作流程，支持分布式制造。双方将利用3YOURMIND软件平台和增材制造建立特定的3D打印数字线程，为NIWC Pacific和NIWC Atlantic提供不间断警戒、自适应响应和卓越工程。</p><p style="text-indent: 2em; text-align: left;">3YOURMIND高级业务发展经理William Cuervo表示，美国军方必须拥有安全的数据和生产透明度才能取得成功的作战行动。因为多个国际地点配备了各种<span class="hrefStyle"><a href="https://3dprint.ofweek.com/CATList-132100-8300-3D.html" target="_blank" title="3D打印技术">3D打印技术</a></span>、材料和能力，拥有一个复杂的软件策略来整理和组织这些信息是很有价值的。</p><p style="text-indent: 2em; text-align: left;"><strong>开发无缝数字生产工作流程</strong></p><p style="text-indent: 2em; text-align: left;">战场等作战环境依赖于快速解决方案，因此在分布式制造地点按需打印的能力将为美国海军提供显著优势。作为与海军合同的一部分，3YOURMIND将贡献Agile ERP和Agile MES软件产品，建立一个响应迅速、可通信且安全的3D打印机网络。公司软件套件Agile ERP模块可自动执行定价、生产建议和有关3D打印订单管理的常规业务流程，而Agile MES模块可优化增材制造生产链中的调度、透明度和质量保证跟踪。</p><p style="text-align:center"><img width="700" src="https://mp.ofweek.com/Upload/News/Img/member19187/202107/wx_article__76a681e6e2009c752b6dbb3124de4057.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">△AgileERP自动订单管理系统</p><p style="text-indent: 2em; text-align: left;">3YOURMIND将与海军和NIWC Pacific合作开发具有知识管理服务的网络基础设施，确保无论身在何处都能立即获得可靠信息。Cuervo称，分布式制造是向舰队交付所需零件的关键，能够传达对特定零件的需求，安全地传输相关制造数据，并在全球任何地点监控生产，使我们能够比以往任何时候都更有效。</p><p style="text-align:center"><img width="700" src="https://mp.ofweek.com/Upload/News/Img/member19187/202107/wx_article__6fc94dbff868c2186f9e679fb1f2c956.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">△Agile MES优化AM生产</p><p style="text-indent: 2em; text-align: left;">另外，2021年4月，3YOURMIND在最新一轮融资中筹集了1240万美元（约8021．3万人民币），获得了LBBW VC（Landesbank Baden－Württemberg的风险投资部门）和瑞士风险投资公司Verve Ventures的新投资。这将为公司提供一个广泛的潜在合作伙伴网络，用于推广增材制造工作流程管理工具。同月，3YOURMIND加入世界经济论坛北美地区先进制造中心（AMHUB）Automation Alley的DIAMOnD（分布式、独立、按需快捷制造）项目，使用工作流程管理工具生产3D打印部件。这一数字制造项目的重点是改造美国的供应链，并且已经形成了该国迄今为止最大的区块链连接3D打印机网络。</p><p style="text-indent: 2em; text-align: left;"><strong>美国海军采用3D打印</strong></p><p style="text-indent: 2em; text-align: left;">美国海军早已认识到3D打印的潜力，并已委托多个研究项目来开发相关技术及应用。据悉，2018年，美国海军研究办公室 （ONR） 授予Concurrent Technologies Corporation （CTC） 一份价值260万美元（约1681．89万人民币）的合同，确保金属3D打印部件用于维护、修理和大修 （MRO） 的可制造性。美国海军的海上系统司令部 （NAVSEA） 还为七个航海研发项目提供资金，可能会节省超过2．5亿美元（约16．17亿人民币）的成本。其中三个新项目将使用3D打印来提高海军造船和维修流程的效率，而其他项目则专注于优化设计和开发流程，以更快的速度批准和运送3D打印部件。</p><p style="text-indent: 2em; text-align: left;">2020年9月，美国海军科学家获得了一项为期20年的3D可打印材料专利，由海洋可生物降解聚合物制成，随时间推移会逐渐分解。这种新材料有可能使无人或自主水下航行器 （UUV） 等水下设备可生物降解。2021年2月，海军研究生院 （NPS） 率先安装了施乐 xerox的新型ElemX液态金属3D打印机，并使用机器开发按需制造零件，供美国武装部队部署。最近，海军研究实验室 （NRL） 3D打印了功能性轻型圆柱形天线阵列，可能成为提高海军雷达监测能力的关键。</p><p style="text-indent: 2em; text-align: left;"><strong>分布式生产与信息安全</strong></p><p style="text-indent: 2em; text-align: left;">突如其来的疫情似乎把全球大部分国家都给“一棍子打蒙了”，传统制造业被迫按下“暂停键”，大批量生产停滞，需求供给不足。然而，这似乎刺激了新型数字化分布式生产的萌芽。随着各种款式的3D打印机的出现，再配备工作流程软件进行线上配置，俨然就是一个小型的生产车间。再加上3D打印技术在制造方面的灵活性，还可以发展成为移动式生产单元，“随叫随到”。</p><p style="text-indent: 2em; text-align: left;">然而这些构想的前提是信息与安全技术，尤其是军方。大数据的出现使人们通过数据做到了前所未有的分析：每个人、每条街道、甚至每座城市都成为了一个个数据点，将这些数据统一收集、分析、整合，小到个人喜好，大到国家安全，都在虚拟网络上一一列举。人们在获得便利的同时或许也过多暴露了个人、甚至国家的相关信息，因此，如何安全、保密地传递生产信息也是一个重要课题。目前，美军正在从区块链方面取得相关进展，期待我国相关领域也要早日部署。</p> 
+  
+</div>
+            

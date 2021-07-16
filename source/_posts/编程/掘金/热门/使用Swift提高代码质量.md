@@ -77,10 +77,10 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e84
 <ul>
 <li><code>值类型</code> - 相比<code>class</code>不需要额外的<code>堆内存</code>分配/释放和更少的内存消耗</li>
 <li><code>方法静态派发</code> - 方法调用支持<code>静态</code>调用相比原有ObjC<code>消息转发</code>调用性能更好</li>
-<li><code>编译器优化</code> - Swift的<code>静态性</code>可以使编译器做更多优化。例如<code>Tree Shaking</code>相关优化移除未使用的类/方法等减少二进制文件大小。使用<code>静态派发</code>/<code>方法内联优化</code>/<code>泛型特化</code>/<code>写时复制</code>等优化提高运行时性能</li>
+<li><code>编译器优化</code> - Swift的<code>静态性</code>可以使编译器做更多优化。例如<code>Tree Shaking</code>相关优化移除未使用的类型/方法等减少二进制文件大小。使用<code>静态派发</code>/<code>方法内联优化</code>/<code>泛型特化</code>/<code>写时复制</code>等优化提高运行时性能</li>
 </ul>
 <blockquote>
-<p>提示：<code>ObjC</code>动态派发同时会导致编译器无法进行移除无用方法/类的优化，编译器并不知道是否可能被用到。</p>
+<p>提示：<code>ObjC</code>消息派发会导致编译器无法进行移除无用方法/类的优化，编译器并不知道是否可能被用到。</p>
 </blockquote>
 <ul>
 <li><code>ARC优化</code> - 虽然和<code>ObjC</code>一样都是使用<code>ARC</code>，<code>Swift</code>通过编译器优化，可以进行更快的内存回收和更少的内存引用计数管理</li>
