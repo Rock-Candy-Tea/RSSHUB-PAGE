@@ -1,0 +1,19 @@
+
+---
+title: '马斯克刚说Cybertruck皮卡可能流产 今天就能在游戏中开到了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0716/4230d6e78a413dc.jpg'
+author: cnBeta
+comments: false
+date: Fri, 16 Jul 2021 03:37:10 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0716/4230d6e78a413dc.jpg'
+---
+
+<div>   
+7月16日消息，特斯拉公司CEO埃隆·马斯克周四在社交媒体与粉丝交流时称，公司即将推出的电动皮卡Cybertruck“<strong>始终存在失败的可能</strong>”。紧接着“和平精英”迎来更新，<strong>特斯拉Roadster跑车以及Cybertruck电动皮卡也于今日正式登陆“和平精英”。</strong><br>
+ <p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/4230d6e78a413dc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/4230d6e78a413dc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/4230d6e78a413dc.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center">Cybertruck官方渲染图</p><p style="text-align: left;">马斯克计划让Cybertruck的“量产设计”几乎和其概念车一模一样，就像一个巨大的金属梯形。他还表示，自己“不在乎”任何Cybertruck可能失败的风险，因为他个人喜欢它的设计。“老实说，Cybertruck始终存在失败的可能，因为它是如此与众不同。我不在乎。我太喜欢它了，即便其他车没有这么设计的。其他皮卡看起来都千篇一律，但是Cybertruck就像来自未来的外星人设计的。”马斯克称。</p><p style="text-align: left;">此前就有消息称，特斯拉正推进与腾讯旗下光子工作室的合作，计划在“和平精英”上线两款全新载具皮肤。日前，“和平精英”迎来更新，除了加入新模式“重启未来”外，特斯拉Roadster纯电超级跑车以及Cybertruck电动皮卡也于今日正式登陆“和平精英”。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0716/256d22d3f21230c.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0716/96cbb9dbb0be862.png" referrerpolicy="no-referrer"></p><p style="text-align:center">“和平精英”宣传图</p><p style="text-align: left;">此次并非特斯拉与“和平精英”的首次联动，早在去年7月，特斯拉Model 3和Model X就已率先在“和平精英”上线。</p><p style="text-align: left;">据悉，2019年特斯拉CyberTruck电动皮卡首次亮相，由于国内仅需1000元的订金，Cybertruck短短两年时间，便收获了超100万的订单。</p><p style="text-align: left;">Cybertruck共设置了三种电动系统可供用户选择，分别是：单电机后驱版（3.99万美元）、双电机四驱版（4.99万美元）、三电机四驱版（6.99万美元）。</p><p style="text-align: left;">根据官方信息显示，特斯拉Roadster采用全轮驱动，峰值扭矩达到10000牛·米，<strong>0-96km/h加速仅需1.9秒 ，极速可达400km/h，最大续航里程1000km。</strong></p><p style="text-align: left;">近期Cybertruck消息不断，此前凤凰网科技曾报道，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>已与特斯拉达成了价值4.36亿美元的交易，未来的特斯拉Cybertruck将使用由三星提供后视镜摄像头模组。有韩国媒体报道称，三星与特斯拉的合作可以追溯到五年前，三星将为特斯拉提供，电池、摄像头以及LED大灯。</p><p style="text-align: left;">2019年发布会上展示的原型车就没有配备传统后视镜。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/65a649a71c18233.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/65a649a71c18233.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/65a649a71c18233.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center">Cybertruck发布会</p><p style="text-align: left;">特斯拉曾组织Cybertruck试驾会，从网友上传的视频中可以看出，此版本的Cybertruck已经采用流媒体后视镜。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/466d111d12de012.png"><img data-original="https://static.cnbetacdn.com/article/2021/0716/466d111d12de012.png" src="https://static.cnbetacdn.com/thumb/article/2021/0716/466d111d12de012.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center">Cybertruck试驾视频截图</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/aa96accca15b3a7.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/aa96accca15b3a7.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/aa96accca15b3a7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center">Cybertruck官图</p><p style="text-align: left;">此前特斯拉表示，Cybertruck四驱版计划于今年晚些时候投产，后驱版车型定于2022年底发布。有传言称交付可能会推迟，这已经是特斯拉的老传统了。</p><p style="text-align: left;">据介绍，在国内预订一台普通版本的全新Roadster需要缴纳33.2万元订金，创始人系列版本的订金为165.9万元。</p>   
+</div>
+            
