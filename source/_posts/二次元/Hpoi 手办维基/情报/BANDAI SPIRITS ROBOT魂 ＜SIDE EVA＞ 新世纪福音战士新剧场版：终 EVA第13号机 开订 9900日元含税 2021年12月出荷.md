@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2021/07/75e43aa7c0944af588a49712ba48e430.jpg?date=1626334847527'
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2021/07/cbe291d825974fec8a3f7d6504acb513.jpg?date=1626421473529'
 author: Hpoi 手办维基
 comments: false
-date: Fri, 16 Jul 2021 06:59:00 GMT
-thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2021/07/75e43aa7c0944af588a49712ba48e430.jpg?date=1626334847527'
+date: Fri, 16 Jul 2021 07:08:06 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2021/07/cbe291d825974fec8a3f7d6504acb513.jpg?date=1626421473529'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2021/07/75e43aa7c0944af588a49712ba
                     
                 
                     
-                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2021/07/75e43aa7c0944af588a49712ba48e430.jpg?date=1626334847527" referrerpolicy="no-referrer">  
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2021/07/cbe291d825974fec8a3f7d6504acb513.jpg?date=1626421473529" referrerpolicy="no-referrer">  
 </div>
             
