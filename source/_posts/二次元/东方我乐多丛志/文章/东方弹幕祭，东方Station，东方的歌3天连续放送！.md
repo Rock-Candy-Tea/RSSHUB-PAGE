@@ -16,7 +16,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <img src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15181508/210715-top.jpg" alt referrerpolicy="no-referrer"><hr><p>本周从星期五到星期天，与东方Project相关的直播节目连续3天放送！</p>
 <p>每个节目都邀请来了豪华嘉宾，就在此统一介绍一下吧！</p>
 <p> </p>
-<h3>7<strong>月16日（五）「东方弹幕祭　弹幕神乐特报SP」！终于要公布『东方弹幕神乐的』发布日和更多新情报公开</strong>！</h3>
+<h3>7<strong>月16日（五）「东方弹幕祭　弹幕神乐特报SP」！终于要公布『东方弹幕神乐』的发布日和更多新情报公开</strong>！</h3>
 <p><img class="alignnone size-full wp-image-17898" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1.jpg" alt width="1920" height="1080" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1.jpg 1920w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1-512x288.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1-1024x576.jpg 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1-768x432.jpg 768w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1-1600x900.jpg 1600w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171739/210715-1-1568x882.jpg 1568w" sizes="(max-width: 1920px) 100vw, 1920px" referrerpolicy="no-referrer"></p>
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
 <p lang="ja" dir="ltr">「東方ダンマク祭　ダンカグ特報SP」生放送決定！<br>ついに『東方ダンマクカグラ』のリリース日発表や新情報、そして"""超特大情報"""もあります！</p>
@@ -69,7 +69,7 @@ MC<br>
 ・金澤まい</p>
 <p>ゲスト<br>
 ・ZUN</p>
-<p>■直播时间<br>
+<p>■直播时间（北京时间）<br>
 7月17日（六）18:00～</p>
 <blockquote>
 <p><img class="alignnone wp-image-17899 size-full aligncenter" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171742/210715-2.jpg" alt width="1248" height="600" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171742/210715-2.jpg 1248w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171742/210715-2-512x246.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171742/210715-2-1024x492.jpg 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/15171742/210715-2-768x369.jpg 768w" sizes="(max-width: 1248px) 100vw, 1248px" referrerpolicy="no-referrer"></p>

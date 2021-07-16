@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210716/1626392549_103131.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 15 Jul 2021 23:43:00 GMT
+date: Thu, 15 Jul 2021 23:58:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210716/1626392549_103131.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210716/1626392549_1031
 今日(7月16日)发行商SE履行承诺，发布了《<a target="_blank" href="https://www.3dmgame.com/games/nierautomata/">尼尔：机械纪元</a>》Steam版首个更新补丁。除了修复Bug，改进和调整游戏外，该补丁还移除了Denuvo加密技术。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210716/1626392549_103131.jpg" alt="《尼尔：机械纪元》Steam版更新发布 移除D加密" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210716/1626392549_103131.jpg" alt="《尼尔：机械纪元》Steam版更新发布 移除D加密" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《尼尔：机械纪元》Steam版更新补丁大小为14.3GB，PC玩家已可以下载更新了。
@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210716/1626392549_1031
 发行商SE表示，与稳定性相关的修复已实施。不知道移除Denuvo加密技术是否也是“调整稳定性”的一部分？时隔四年，SE终于发布了《尼尔：机械纪元》Steam版补丁，一起来看看更新日志：
 </p>
 <p style="text-indent:2em;">
-<strong>改进调整：</strong>
+<strong>改进调整：</strong> 
 </p>
 <p style="text-indent:2em;">
 -无边框模式
@@ -77,7 +77,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210716/1626392549_1031
 环境光遮蔽和泛光效果的渲染目标，已根据游戏的分辨率更改为动态分辨
 </p>
 <p style="text-indent:2em;">
-<strong>Bug修复：</strong>
+<strong>Bug修复：</strong> 
 </p>
 <p style="text-indent:2em;">
 现在，通过同时按下Alt + 
@@ -90,7 +90,7 @@ Enter键，可以在最近选择的屏幕截图显示模式之间进行切换，
 在默认设置下，帧率稳定在每秒60帧
 </p>
 <p style="text-indent:2em;">
-<strong>其他与稳定性相关的修复也已实施</strong>
+<strong>其他与稳定性相关的修复也已实施</strong> 
 </p>          
 </div>
             

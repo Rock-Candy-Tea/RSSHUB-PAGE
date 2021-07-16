@@ -1,0 +1,18 @@
+
+---
+title: '深化亚太伙伴关系 习近平为APEC锚定航向'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f81_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 15 Jul 2021 16:54:19 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f81_1024.jpg'
+---
+
+<div>   
+<p>习近平主席将于 7 月 16 日在北京以视频方式出席亚太经合组织领导人非正式会议。本次会议主题为 " 新冠肺炎疫情背景下亚太地区如何把握机遇，合作应对卫生危机，加速经济复苏，为未来发展打下更好基础 "。</p><p>亚太经合组织（APEC）成立于 1989 年，目前共有 21 个成员，是亚太地区层级最高、领域最广、最具影响力的经济合作机制。在 APEC 五个层次的运作机制中，领导人非正式会议层级最高。</p><p>2013 年以来，习主席出席了 7 次 APEC 领导人非正式会议并发言，多次强调深化互信、包容、合作、共赢的亚太伙伴关系。央视网《联播 +》特梳理习主席相关论述，与您一同学习。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f81_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f81_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f82_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f82_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f83_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f83_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f84_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5488e9f09258f703f84_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f85_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f0d5488e9f09258f703f85_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202107/60f0d5498e9f09258f703f86_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5498e9f09258f703f86_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202107/60f0d5498e9f09258f703f87_1024.jpg" data-height="1300" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f0d5498e9f09258f703f87_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p>  
+</div>
+            
