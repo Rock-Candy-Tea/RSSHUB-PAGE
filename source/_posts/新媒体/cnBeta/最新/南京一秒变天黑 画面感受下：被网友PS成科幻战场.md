@@ -1,0 +1,19 @@
+
+---
+title: '南京一秒变天黑 画面感受下：被网友PS成科幻战场'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0716/19bafa48d1309e5.png'
+author: cnBeta
+comments: false
+date: Fri, 16 Jul 2021 10:47:32 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0716/19bafa48d1309e5.png'
+---
+
+<div>   
+7月16日下午，南京天空上演了“黑云压城”的壮观一幕。天空突然乌云密布，一秒变黑，犹如走进“特效片场”。据南京气象消息，<strong>7月16日15时17分发布暴雨黄色预警信号：预计今天下午到夜里，南京部分地区将出现6小时50毫米以上的降水。</strong><br>
+ <p>预警信号刚发布，南京的天一下子变黑，乌云压阵，狂风四起，大雨如注。微信朋友圈和微博上南京乌云密布的图片刷屏。</p><p>网友们表示，<strong>像极了电影大片里的场景，已分不清到底是白昼还是黑夜。</strong></p><p>有网友发起暴雨P图大赛，众多网友纷纷响应，脑洞大开开始创作，奥特曼、哥斯拉纷纷登陆南京天际。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/19bafa48d1309e5.png"><img data-original="https://static.cnbetacdn.com/article/2021/0716/19bafa48d1309e5.png" src="https://static.cnbetacdn.com/thumb/article/2021/0716/19bafa48d1309e5.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/db19dd15e497001.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/db19dd15e497001.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/db19dd15e497001.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/8fbf2ce74118458.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/8fbf2ce74118458.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/8fbf2ce74118458.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/ff3ccc863ea5028.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/ff3ccc863ea5028.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/ff3ccc863ea5028.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/c953aaa65251cf8.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/c953aaa65251cf8.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/c953aaa65251cf8.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/aee7d93b385596b.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/aee7d93b385596b.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/aee7d93b385596b.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/7331a524d1b0e1a.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/7331a524d1b0e1a.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/7331a524d1b0e1a.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/4d739b15ae62e55.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/4d739b15ae62e55.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/4d739b15ae62e55.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/085df30fdd2239c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/085df30fdd2239c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/085df30fdd2239c.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0716/9702a51134097e9.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0716/9702a51134097e9.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0716/9702a51134097e9.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
