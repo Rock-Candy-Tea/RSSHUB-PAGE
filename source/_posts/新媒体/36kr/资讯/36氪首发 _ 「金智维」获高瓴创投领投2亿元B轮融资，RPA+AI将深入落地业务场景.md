@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5828'
+headimg: 'https://picsum.photos/400/300?random=6108'
 author: 36kr
 comments: false
 date: Fri, 16 Jul 2021 07:17:04 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5828'
+thumbnail: 'https://picsum.photos/400/300?random=6108'
 ---
 
 <div>   
-<p>36氪获悉，RPA服务商「<a class="project-link" data-id="4148" data-name="金智维" data-logo="https://img.36krcdn.com/20210714/v2_4d65e614846f4c6b97b608cccbe01451_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4363900000" target="_blank">金智维</a>」本日正式宣布获得2亿元B轮融资，由高瓴创投领投。此轮融资将主要用于渠道和AI技术合作生态的建设，产品技术研发，市场推广与产品运营等。</p> 
+<p>36氪获悉，RPA服务商「<a class="project-link" data-id="4148" data-name="金智维" data-logo="https://img.36krcdn.com/20210714/v2_4d65e614846f4c6b97b608cccbe01451_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4363900000" target="_blank">金智维</a>」本日正式宣布获得2亿元B轮融资，由高瓴创投领投，启明创投、琥珀资本、珠海科创投、君盛投资、太和基金跟投。此轮融资将主要用于渠道和AI技术合作生态的建设，产品技术研发，市场推广与产品运营等。</p> 
 <p>金智维是36氪多次报道的企业，成立于2016年。金智维定位企业级RPA技术服务商，以“RPA+AI+大数据”为核心技术，为企业提供提供相应产品和服务。</p> 
 <p>RPA（Robotic Process Automation，机器人流程自动化）是近年来较为火热的创业赛道。简单理解，RPA可以被看作是一种按照预先设定的脚本程序与现有用户系统进行交互技术，完成拥有一定规则的重复性工作。RPA机器人同时也具有灵活部署的特点，可以在无需改造现有系统的基础上，模拟人类操作，从而大量减少企业的人力成本，提升整体工作效率。</p> 
 <p>36氪曾报道，金智维核心团队从2009年开始，就在证券交易所进行报盘机自动化管理研究。当时国内RPA的概念还未流行，但金智维所做的智慧运营和智能运维，其底层技术原理非常相似。</p> 
