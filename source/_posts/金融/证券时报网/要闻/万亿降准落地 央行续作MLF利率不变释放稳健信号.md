@@ -1,0 +1,19 @@
+
+---
+title: '万亿降准落地 央行续作MLF利率不变释放稳健信号'
+categories: 
+ - 金融
+ - 证券时报网
+ - 要闻
+headimg: 'https://picsum.photos/400/300?random=7551'
+author: 证券时报网
+comments: false
+date: Fri, 16 Jul 2021 02:06:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7551'
+---
+
+<div>   
+<p style="text-align: left;">证券时报记者 孙璐璐</p><p style="text-align: left;">在1万亿全面降准落地的同时，央行还“祭出”中期借贷便利（MLF）和逆回购。人民银行昨日发布公告称，7月15日，人民银行下调金融机构存款准备金率0.5个百分点（不含已执行5%存款准备金率的金融机构），释放长期资金约1万亿元。考虑到目前正值税期高峰等因素，金融机构对中长期资金仍有一定需求，为维护银行体系流动性合理充裕，人民银行开展1000亿元MLF操作和100亿元逆回购操作。从交易结果看，MLF和公开市场逆回购利率均维持不变。</p><p style="text-align: left;">综合多位受访的分析人士的观点来看，一方面是因为央行已形成每月中旬操作一次MLF的惯例，此次小规模续作更具有象征意义，反映出延续月度一次MLF的传统；另一方面，本月有4000亿MLF到期，但央行只缩量续作1000亿，也是为了适度收回降准带来的流动性，但无论怎么操作，依然会有流动性的净投放；此外，此次续作MLF更应关注利率，央行借续作MLF释放维持政策利率不变的信号，契合稳健货币政策的取向。</p><p style="text-align: left;"><strong>降准了</strong></p><p style="text-align: left;"><strong>为何还投放“麻辣粉”</strong></p><p style="text-align: left;">7月15日央行共投放流动性1.11万亿元，当天共有4000亿MLF和100亿逆回购到期，实现流动性净投放7000亿元。</p><p style="text-align: left;">实际上，自央行上周宣布全面降准以来，市场流动性更趋宽松，主要资金利率不断下行。7月15日，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SS601229" code="601229">上海银行</a>间同业拆放利率（Shibor)各期限品种利率均有下行，银行间存款类金融机构质押式回购利率（DR007）加权平均利率已降至2.16％附近，低于同期限的政策利率。</p><p style="text-align: left;"><a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SS601162" code="601162">天风证券</a>首席固定收益分析师孙彬彬表示，从流动性溢价指标模型的监测看，市场流动性在7月7日国常会宣布适时使用降准工具之后回到了“较宽松”水平，中长期流动性预期也开始调整，反映出市场对于未来流动性环境收紧的预期开始弱化。同时，股市的板块分化也反映出市场对流动性预期的变化。7月第二周，成长板块和周期板块上涨，但金融板块和消费板块下跌，体现了流动性宽松和基本面滞胀两种预期共存。</p><p style="text-align: left;">对于在当前市场流动性充裕且有全面降准替换到期MLF的情况下，央行为何还要再投放1000亿MLF，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SS601788" code="601788">光大证券</a>首席银行业分析师王一峰对证券时报记者表示，央行继续操作MLF可能更多是出于维持MLF操作频率的角度考虑。目前央行已形成每月15日操作一次MLF的惯例，当前1年期国有行股份制银行的同业存单利率（NCD）低于1年期MLF利率，说明市场对于1年期资金的需求并不大，市场流动性充裕，这种情况下央行还要小额续作MLF更多是出于维持MLF常态化操作频率的角度考虑。</p><p style="text-align: left;">要维持MLF操作频率的同时，MLF的操作量和中标利率就更能反映央行的货币政策取向。东方金诚首席宏观分析师王青则表示，本月MLF操作利率未作调整，释放两个信号：一是政策利率不动，表明本次全面降准更多属于针对小微企业等实体经济的定向支持措施，并非货币政策从数量到价格全面转向宽松；二是为促进小微企业融资成本下降，监管层优先选择全面降准，而政策信号意义更强的政策利率保持不动，体现了货币政策仍然注重在稳增长、防风险和控通胀之间保持平衡。</p><p style="text-align: left;"><strong>LPR利率</strong></p><p style="text-align: left;"><strong>是否下调分歧大</strong></p><p style="text-align: left;">值得注意的是，在此次MLF利率维持不变的同时，市场更关注本月20日公布的贷款市场报价利率（LPR）到底是否会调整。</p><p style="text-align: left;">“市场对于本月MLF利率维持不变是有共识的，毕竟如果在全面降准落地的同时，政策利率再跟着下调，就会向市场释放明显的货币政策宽松信号，这不符号央行强调的稳健货币政策的取向。但市场对于20日LPR利率究竟会不会下调还是有明显分歧的。”王一峰称。</p><p style="text-align: left;">预判LPR利率下降或维持不变的双方都有各自的理由。王青认为，降准决定发布后，包括3月期Shibor、银行同业存单利率在内的中端市场利率下行幅度较大，银行边际资金成本有所下降。此外，降准本身可降低金融机构资金成本每年约130亿元，而6月初监管层已通过优化存款利率监管缓解了银行存款成本上行压力。由此判断，不排除本月20日公布的1年期LPR报价小幅下调5个基点的可能。也就是说，全面降准有可能触发市场化降息进程，进而打破此前1年期LPR报价与1年期MLF利率之间点差固定在90个基点的局面，带动利率市场化再进一步。</p><p style="text-align: left;">“近期同为关键市场利率的10年期国债收益率下行幅度较大，或意味着市场对1年期LPR报价下调已有所预期。不过，考虑到当前房地产市场调控态势，即使1年期LPR报价下调，主要针对居民房贷的5年期LPR报价也不会随之下调。”王青称。</p><p style="text-align: left;">不过，王一峰则认为，根据历史经验，LPR与MLF深度“锚定”，MLF起到了“贷款基准利率的基准”的作用，降准操作并不必然导致LPR报价下调。</p><p style="text-align: left;"><a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SS601901" code="601901">方正证券</a>首席经济学家颜色也认为，LPR单独下行的可能性较低，因为其单独下行的指向性过强。如果央行明确让MLF利率不降，而LPR降5BP，其指向就在于希望降低融资成本，并保持稳健的货币政策。重要的还是MLF利率动不动，LPR是否会下降5BP无伤大雅，不会改变央行的根本态度。</p>
+                  
+</div>
+            
