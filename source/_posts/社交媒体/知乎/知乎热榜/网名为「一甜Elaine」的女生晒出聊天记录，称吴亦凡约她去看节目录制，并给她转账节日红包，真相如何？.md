@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6785'
+headimg: 'https://pic2.zhimg.com/v2-fc09fb397c439a29fbc1352d63a463ea_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 17 Jul 2021 05:34:28 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6785'
+date: Sat, 17 Jul 2021 06:34:57 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-fc09fb397c439a29fbc1352d63a463ea_1440w.jpg'
 ---
 
 <div>   
-咸鱼一条的回答<br><br><p>感觉吴亦凡的故事吧，就像现在的很多不好看的烂剧一样，模板套路都一样，换个名字而已。</p><p>吴亦凡的故事呢。</p><p><b>模板差不多，故事差不多，套路差不多。</b></p><p><b>都是“哥哥”约年轻美少女的故事。</b></p><p>台词更是差不多，不管女主角是谁，<b>翻来覆去的“猪，不乖，生气了，乖哦，等你”，</b>台词内容无甚变化。</p><p>最后故事的结局也差不多，“做了成年人的事情”，再被女孩们一个又一个蹭热度/锤/爆料。</p><p>而故事女主角们的外貌差不多，说实话，我觉得还挺漂亮的网红脸。虽然我有点分辨无能。</p><p>女主角们的年纪也差不多，18（有木有更低等其他证据）~23左右的女孩们。</p><p>故事的开头（约）→</p><p>经过（撩）→</p><p>内容（乖）→</p><p>结束（做成年人的事，被锤）。</p><p>就连最后一步，粉丝（洗地的）话术都一样：三十岁的好哥哥被小姑娘们蹭热度欺骗/p图陷害。</p><p>关于这方面，我的态度始终只有一个，对方目的和他做没做过，是两回事。</p><p><b>一个完整的故事，一个又一个旧套路故事的循环。</b></p><p><b>只不过，人家哥哥的是真故事。</b></p><hr><p>要不，（哥哥）你们还是换点新套路吧，比如“加一加观众期待的双方的证据”等。</p><p>万一真像粉丝说的，哥哥是被冤枉的呢。</p><p>我支持哥哥维权。</p><p>你们双方倒是动点真格的，亮证据啊。真维权啊。</p><p>毕竟，再如此继续循环套路下去，观众要腻了。观众一腻，可能会换人吃瓜，那就连这点花边儿新闻热度都没了。</p><p>以及，《青簪行》命途多舛。</p><hr><p>在触碰法律之前，对吴亦凡的影响不能算很大。</p><p>但连续、多次、连环、频率高、性质内容还差不多的锤，哪怕是私德类，对他影响还是有/很大的。毕竟不年轻了，新顶流也早出来瓜分市场了，代表作无，业务能力一直未见。（虽说演技不好的人很多，但靠“菩萨知道心里多难过”的负面演技出圈并成为负面演技经典示范例子的，也为数不多。）口碑一直不好/越来越差，现在又全面升级为风险艺人。影响还是有甚至大的。</p><p>（又双叒到了考验吴亦凡公关团队能力的时候了，距离上次的时间还辣么短。）</p><p>有影响是好事。</p><p>虽然，圈内人即使受了影响，曾经日进208w的他们，还是能做生意、弄投资、名下一堆房子理财，钱还是很多很多很多很多。</p><p>但，有影响终归是好事。</p><p>风气嘛，一点一点，能改善一点是一点。</p><p>其实最近，感觉（至少网络上的）观念，已经由以前的对“王思聪、吴亦凡等有钱/有名人的风流艳史八卦的<b>艳羡/盲目崇拜</b>的观念”，转变为<b>“瞧不上、否定”甚至“讨伐”</b>的观念，这是一种进步。<b>是思想上的进步，也是（女性）经济上的进步。</b>经济基础决定上层建筑。</p><p>ps：最后，其实有一件事我还是感谢吴亦凡的。毕竟是他当初的一句无心的回应，才让我认识了我喜欢的李雪琴这个姑娘。</p>  
+麥发发的回答<br><br><p>借用之前有人评价萧亚轩的话：</p><p>“没有谁可以永远年轻，但是吴亦凡的女朋友可以”</p><p>而人家的微博的认证还是演员哦。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-fc09fb397c439a29fbc1352d63a463ea_1440w.jpg" data-rawwidth="918" data-rawheight="407" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-a9f0738882b90ebc474cd6fe3c3bff38_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-fc09fb397c439a29fbc1352d63a463ea_r.jpg" referrerpolicy="no-referrer"></figure><p>那么大家想看看演技不，</p><p>来吧，一起探索skr skr !</p><p>有大量他的粉丝夸赞，</p><p>他的演技可以横扫奥斯卡金马奖哦（狗头）</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-87806a0425e3625df1d1f2d25170b003_720w.jpg" data-rawwidth="400" data-rawheight="220" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-99ebb65f0ac570be5bb538e092d6e612_720w.jpg" data-rawwidth="353" data-rawheight="316" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-7d2446144bcadf7110b881604b4dfff0_720w.jpg" data-rawwidth="353" data-rawheight="316" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-4801fbd665cd969b59905e82acaf2fda_720w.jpg" data-rawwidth="279" data-rawheight="401" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
