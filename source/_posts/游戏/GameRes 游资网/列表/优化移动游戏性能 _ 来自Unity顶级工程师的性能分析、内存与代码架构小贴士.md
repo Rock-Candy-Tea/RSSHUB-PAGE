@@ -238,7 +238,7 @@ https://docs.unity.cn/cn/2020.3/Manual/ExecutionOrder.html<br>
 <br>
 如果必须要使用 Update，可以考虑让代码每隔 n 帧运行一次。这种划分运行时间的方法也是一种将繁重工作负荷化整为零的常见技术。在下方例子中，ExampleExpensiveFunction 将每隔三帧运行一次。<br>
 <br>
-<div class="blockcode"><div id="code_okI"><ol><li>private int interval = 3;<br>
+<div class="blockcode"><div id="code_K4B"><ol><li>private int interval = 3;<br>
 </li><li><br>
 </li><li>void Update()<br>
 </li><li>&#123;<br>
@@ -246,7 +246,7 @@ https://docs.unity.cn/cn/2020.3/Manual/ExecutionOrder.html<br>
 </li><li>    &#123;<br>
 </li><li>        ExampleExpensiveFunction();<br>
 </li><li>    &#125;<br>
-</li><li>&#125;</li></ol></div><em onclick="copycode($('code_okI'));">复制代码</em></div><br>
+</li><li>&#125;</li></ol></div><em onclick="copycode($('code_K4B'));">复制代码</em></div><br>
 <strong><font color="#de5650">避免在 Start/Awake 中加入繁重的逻辑</font></strong><br>
 <br>
 当首个场景加载时，每个对象都会调用如下函数：<br>
@@ -267,11 +267,11 @@ https://docs.unity.cn/cn/2020.3/Manual/ExecutionOrder.html<br>
 <br>
 如果你想用这些方法进行测试，请使用预处理指令（preprocessor directives）：<br>
 <br>
-<div class="blockcode"><div id="code_RP5"><ol><li>#if UNITY_EDITOR<br>
+<div class="blockcode"><div id="code_G9A"><ol><li>#if UNITY_EDITOR<br>
 </li><li>void Update()<br>
 </li><li>&#123;<br>
 </li><li>&#125;<br>
-</li><li>#endif</li></ol></div><em onclick="copycode($('code_RP5'));">复制代码</em></div><br>
+</li><li>#endif</li></ol></div><em onclick="copycode($('code_G9A'));">复制代码</em></div><br>
 如此一来，在编辑器中的 Update 测试便不会对构建版本造成不良的性能影响。<br>
 <br>
 <strong><font color="#de5650">删去 Debug Log 语句</font></strong><br>
@@ -284,14 +284,14 @@ Conditional 属性：<br>
 <br>
 https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.conditionalattribute?view=net-5.0<br>
 <br>
-<div class="blockcode"><div id="code_nAk"><ol><li>public static class Logging<br>
+<div class="blockcode"><div id="code_egL"><ol><li>public static class Logging<br>
 </li><li>&#123;<br>
 </li><li>    [System.Diagnostics.Conditional("ENABLE_LOG")]<br>
 </li><li>    static public void Log(object message)<br>
 </li><li>    &#123;<br>
 </li><li>        UnityEngine.Debug.Log(message);<br>
 </li><li>    &#125;<br>
-</li><li>&#125;</li></ol></div><em onclick="copycode($('code_nAk'));">复制代码</em></div><br>
+</li><li>&#125;</li></ol></div><em onclick="copycode($('code_egL'));">复制代码</em></div><br>
 <div align="center">
 <img id="aimg_991188" aid="991188" zoomfile="https://di.gameres.com/attachment/forum/202107/08/142914n44o0ss234pbx0b5.jpg" data-original="https://di.gameres.com/attachment/forum/202107/08/142914n44o0ss234pbx0b5.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202107/08/142914n44o0ss234pbx0b5.jpg" referrerpolicy="no-referrer">
 </div><div align="center"><font size="2"><font color="#808080">添加自定义预处理指令可以实现脚本的切分</font></font></div><br>
@@ -337,14 +337,14 @@ https://docs.unity.cn/cn/current/Manual/Prefabs.html<br>
 <br>
 下方例子展示了一种低效率的 GetComponent 多次调用：<br>
 <br>
-<div class="blockcode"><div id="code_aXh"><ol><li>void Update()<br>
+<div class="blockcode"><div id="code_m2K"><ol><li>void Update()<br>
 </li><li>&#123;<br>
 </li><li>    Renderer myRenderer = GetComponent<Renderer>();<br>
 </li><li>    ExampleFunction(myRenderer);<br>
-</li><li>&#125;</li></ol></div><em onclick="copycode($('code_aXh'));">复制代码</em></div><br>
+</li><li>&#125;</li></ol></div><em onclick="copycode($('code_m2K'));">复制代码</em></div><br>
 其实 GetComponent 的结果会被缓存，因此只需调用一次即可。缓存的结果完全可在 Update 中重复使用，不必再度调用 GetComponent。<br>
 <br>
-<div class="blockcode"><div id="code_yTc"><ol><li><br>
+<div class="blockcode"><div id="code_M09"><ol><li><br>
 </li><li>private Renderer myRenderer;<br>
 </li><li><br>
 </li><li>void Start()<br>
@@ -355,7 +355,7 @@ https://docs.unity.cn/cn/current/Manual/Prefabs.html<br>
 </li><li>void Update()<br>
 </li><li>&#123;<br>
 </li><li>    ExampleFunction(myRenderer);<br>
-</li><li>&#125;</li></ol></div><em onclick="copycode($('code_yTc'));">复制代码</em></div><br>
+</li><li>&#125;</li></ol></div><em onclick="copycode($('code_M09'));">复制代码</em></div><br>
 <strong><font color="#de5650">对象池（Object Pool）</font></strong><br>
 <br>
 Instantiate（实例化）和 Destroy（销毁）方法会产生需要垃圾回收数据、引发垃圾回收（GC）的处理高峰，且其运行较为缓慢。与其经常性地实例化和销毁 GameObjects（如射出的子弹），不如使用对象池将对象预先储存，再重复地使用和回收。<br>
