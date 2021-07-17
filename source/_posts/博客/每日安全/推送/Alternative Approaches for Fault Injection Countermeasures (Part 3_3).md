@@ -5,18 +5,18 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=1334'
+headimg: 'https://picsum.photos/400/300?random=6960'
 author: 每日安全
 comments: false
-date: 2021-07-17 14:05:33
-thumbnail: 'https://picsum.photos/400/300?random=1334'
+date: 2021-07-17 15:06:18
+thumbnail: 'https://picsum.photos/400/300?random=6960'
 ---
 
 <div>   
 <q>基于软件故障注入对策的替代方法(Part 3/3)</q>
 –
 <cite>
- <a class="text-muted" href="https://sec.today/user/8eb60fcc-f278-42e6-a76f-46a845ee9865/pushes/">
+<a class="text-muted" href="https://sec.today/user/8eb60fcc-f278-42e6-a76f-46a845ee9865/pushes/">
 lanying37
 </a>
 <span class="text-muted"><small>• 2 days ago</small></span>
