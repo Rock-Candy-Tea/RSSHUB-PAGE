@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - IT 之家
  - 分类资讯
-headimg: 'https://picsum.photos/400/300?random=3950'
+headimg: 'https://picsum.photos/400/300?random=3156'
 author: IT 之家
 comments: false
 date: Sat, 17 Jul 2021 05:30:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3950'
+thumbnail: 'https://picsum.photos/400/300?random=3156'
 ---
 
 <div>   
