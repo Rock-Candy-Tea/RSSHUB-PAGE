@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-02d4040bc9b76dba3f5bc32f9cb5190b_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=9975'
 author: 知乎
 comments: false
-date: Fri, 16 Jul 2021 17:16:33 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-02d4040bc9b76dba3f5bc32f9cb5190b_1440w.jpg'
+date: Sat, 17 Jul 2021 03:28:14 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9975'
 ---
 
 <div>   
-不文超的回答<br><br><p><b>这问题下面都是些什么妖魔鬼怪......他们也配？</b></p><p>若论大家心中的顶级idol，那必然是，湖南湘潭的毛润之先生了</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-02d4040bc9b76dba3f5bc32f9cb5190b_1440w.jpg" data-rawwidth="911" data-rawheight="1144" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-536828e53eed4f6109865fb37626e40f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-02d4040bc9b76dba3f5bc32f9cb5190b_r.jpg" referrerpolicy="no-referrer"></figure><p>文采斐然</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-bfbc4d8f704bf60ec82350835e4ffe04_720w.jpg" data-rawwidth="400" data-rawheight="195" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-21dbc40a19b9ce812d4ac96d55763bf2_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p>志存高远</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4259df23779b23b1596b735c34aad1b6_1440w.jpg" data-rawwidth="492" data-rawheight="261" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-c590ece8796bb4f508839975f3bb0932_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4259df23779b23b1596b735c34aad1b6_r.jpg" referrerpolicy="no-referrer"></figure><p>思想深刻</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-29bd086dba0f7745013f91de7d546522_720w.jpg" data-rawwidth="400" data-rawheight="547" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-a3fce2824d3cc3f43a712670b8c4fcf1_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p>知行合一</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-22039c1cc8c1e53badeb3f913839bcf7_1440w.jpg" data-rawwidth="450" data-rawheight="279" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-bdfc80a7f43d11c184901fae79739364_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-22039c1cc8c1e53badeb3f913839bcf7_r.jpg" referrerpolicy="no-referrer"></figure><p><b>奉劝各位，多读书，少追星。读书明理，追星降智，好自为之。</b></p>  
+例不虚发探花郎的回答<br><br><p>我喜欢的顶级爱豆啊，可能现在有点儿过气了，给大家打个哑谜吧，看看大家能不能猜到。</p><p>他做主角的电影曾经是实打实的票房纪录</p><p>他和现在那些文化课乌七八糟，高考数学25分的臭鱼烂虾们不同，他读书时可是顶级名校，后来还去海外留学过。</p><p>而且他那个颜值是公认的帅，对了他对爱情也是从一而终，哪怕一直被放在放大镜下盯着从未塌房过，他那土味情话说的666，出本书也不为过。哦他还曾经扮过女装大佬哦。</p><p>当然，他的粉丝也超级疯狂，为了他聚众闹出的事比现在那些大多了。</p><p>现在荧幕上的各种谍战剧只配给他提鞋，他往那一站，就是祖师爷的风范。</p><p>军装的他那也是顶流中的顶流，只是他一般刻意淡化自己的军人形象，很多人都忘记了他出道即缔造了当今荧幕上绝大多数的军人形象。</p><p>当然，谍战根本不是他的主业，他也曾教书育人，桃李那是真正满天下，他也曾浪漫冒险，波罗行动震惊寰宇。</p><p>他的朋友出乎意料的多，每个人和他相处都如同春风化雨般温暖，说出来你可能不信，无论是罪孽深重累累血债的犯人还是世界上最顶级科学家艺术家，无论是曾经辉煌现在退位的皇室还是吸毒乱嗨的异国嬉皮士，他都有交情，并且能站着对方的角度上和对方热情交谈。</p><p>他是真的特别有人格魅力的人，也是令人肃然起敬的工作狂。当他去世时，不仅举国含悲，联合国也降半旗为他致哀。</p><p>对了，他和高赞答案那位是经典Cp哦。</p><p>如果你猜出了他是谁，并且恰好他也是你的爱豆，就请为他点个赞吧。</p><p>只因为他，用他的生命践行，自他之后：一个职位变成了一种人格的代名词。鞠躬尽瘁，死而后已从此只是共和国总理的最低标准！是每个继任者必须坚持的信念！因为，人民，会不自觉的用他做标杆去衡量去感受去呼唤，好想你啊，总理！</p><p></p>  
 </div>
             
