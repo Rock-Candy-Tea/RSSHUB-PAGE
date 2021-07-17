@@ -32,7 +32,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Ana
 </blockquote>
 <p>AAPL has been enjoying <a href="https://9to5mac.com/2021/07/14/aapl-record-high-streak/" target="_blank" rel="noreferrer noopener">a streak of record-high stock values</a> as it nears $150.</p>
 <p><em>Photo: <a href="https://unsplash.com/@ramalmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ramal Wickramasinghe</a>/<a href="https://unsplash.com/s/photos/iphone-12?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3hXL4Ra"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/ALOGIC_9to5mac_DX-Native-banner-750x150px-v5-copy.jpg?quality=82&strip=all" alt class="wp-image-736377" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://9to5mac.com/2021/07/15/price-targets-for-aapl-up/undefined"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/ALOGIC_9to5mac_DX-Native-banner-750x150px-v5-copy.jpg?quality=82&strip=all" alt class="wp-image-736377" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
