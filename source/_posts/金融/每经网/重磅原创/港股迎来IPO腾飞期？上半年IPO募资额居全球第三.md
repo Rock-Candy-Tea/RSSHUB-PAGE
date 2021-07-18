@@ -75,8 +75,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/arti
 <p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1046007/__8.jpg" alt data-imgscale="1.0462555066079295" data-imgwidth="475" data-imgheight="454" referrerpolicy="no-referrer"></p>
 <p style="text-align: center;">（图片数据来自瑞恩资本）</p>
 <p>而港股上市的内资投行中，交银国际年初至今便取得了一倍的涨幅。</p>
-<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1046008/__9.jpg" alt data-imgscale="0.8283433133732535" data-imgwidth="415" data-imgheight="501" referrerpolicy="no-referrer"></p>
-<p style="text-align: center;">（图为港股金融公司今年股价涨幅排名）</p>
+<p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1046032/__0718.jpg" alt width="630" data-imgscale="0.4093891973750631" data-imgwidth="811" data-imgheight="1981" referrerpolicy="no-referrer"></p>
 <p>有港股投行人士对《每日经济新闻》记者表示：“投行是一个较依赖平台和团队的商业模式，更多是取决于自身的能力，经营效率更高、能提供更优质服务的金融企业一直都是有着不错的市场竞争力。”</p>
 <h2>打新时代天使一手能挣4.56万港元</h2>
 <p>自从去年开始，港股打新致富的市场传闻越来越多。由于港股打新中签率比A股高很多，所以投资者的参与感相信也会高出不少。</p>
