@@ -5,16 +5,15 @@ categories:
  - 新媒体
  - 金色财经
  - 快讯
-headimg: 'https://picsum.photos/400/300?random=3071'
+headimg: 'https://picsum.photos/400/300?random=9158'
 author: 金色财经
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=3071'
+thumbnail: 'https://picsum.photos/400/300?random=9158'
 ---
 
 <div>   
 【乌克兰警方捣毁的PS4矿场挖的不是加密货币，而是《FIFA》游戏币】据Eurogamer报道，乌克兰警方弄错了这些缴获的PS4的用处，它们确实是用来挖虚拟货币的，但并非是那些加密的货币，而是FIFA游戏中的FUT金币。该信息来自乌克兰当地媒体Delo。他们在仔细研究乌克兰警方释出的地下“矿场”图片后发现：在一张图片中有不少PS4上都有着游戏光盘，并经过大量走访之后得出结论：这些PS4很有可能是在刷《FIFA》中的FUT，并通过出售这些有着大量游戏货币的账户获利。并非加密货币。 
-此前消息，乌克兰警方声称捣毁了一家地下“矿场”，并缴获了大量用来挖虚拟货币的PS4机器。　 
-目前，乌克兰警方对上述内容还未正式回应，我们将持续关注。  
+此前消息，乌克兰警方声称捣毁了一家地下“矿场”，并缴获了大量用来挖虚拟货币的PS4机器。　  
 </div>
             

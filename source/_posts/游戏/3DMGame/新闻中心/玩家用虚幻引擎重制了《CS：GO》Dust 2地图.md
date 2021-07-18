@@ -17,10 +17,17 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210718/1626569507_7885
 Modder“Cloacked”使用虚幻5引擎重制了《CS：GO》的Dust 2地图，和其他的粉丝重制不同，玩家这一次可以下载这个项目。
 </p>
 <p style="text-indent:2em;">
+视频展示：
+</p>
+<p style="text-align:center;">
+<iframe src="https://player.youku.com/embed/XNTE4Mjk0MjE3Ng==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
+<p style="text-indent:2em;">
 需要注意的是，玩家只能探索这个地图。里面没有任何的武器，敌人或玩法机制。外媒推测Cloacked自己应该也不会加入这些东西。
 </p>
 <p style="text-indent:2em;">
-所以这是一个非常酷的概念，让玩家一窥现代重制版的《CS：GO》游戏。
+总体看，这是一个非常酷的概念，让玩家一窥现代重制版的《CS：GO》游戏。
 </p>
 <p style="text-indent:2em;">
 下载地址：<a href="https://discord.com/invite/fpjBgurgSF" target="_blank">https://discord.com/invite/fpjBgurgSF</a> 
