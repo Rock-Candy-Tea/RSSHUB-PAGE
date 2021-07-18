@@ -8,11 +8,16 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Sun, 18 Jul 2021 00:23:47 GMT
+date: Sun, 18 Jul 2021 02:19:20 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
 <div>   
+<blockquote class="fin_reference">
+<p>　　【相关阅读】<a href="https://finance.sina.com.cn/china/2021-07-18/doc-ikqciyzk6101258.shtml" target="_blank" title="供给端忧虑重重 油价能稳住吗？市场等待OPEC协议落地">供给端忧虑重重 油价能稳住吗？市场等待OPEC协议落地</a></p>
+<p><a href="https://finance.sina.com.cn/world/gjcj/2021-07-17/doc-ikqcfnca7443838.shtml" target="_blank" title="OPEC+召集周日举行会议 此前朝着化解僵局取得进展">OPEC+召集周日举行会议 此前朝着化解僵局取得进展</a></p>
+<p><a href="https://finance.sina.com.cn/roll/2021-07-16/doc-ikqcfnca7305709.shtml" target="_blank" title="OPEC维持2021年全球石油需求增长预估 料明年回到大流行前水平">OPEC维持2021年全球石油需求增长预估 料明年回到大流行前水平</a></p>
+</blockquote>
 <p>　　原标题：美国疫情急剧恶化，OPEC今晚开会“破局”！这些美企原油期货套保已浮亏75亿美元．．．．．．</p>
 <p>　　来源：期货日报</p>
 <p>　　2020年新冠疫情全球蔓延，国际油价暴跌，WTI原油期货基准价格一度跌至负值。2021年，在全球经济复苏，疫情受控，通胀预期不断上行，国际油价也迅速回暖，6月以来始终稳定在70美元/桶以上。</p>
