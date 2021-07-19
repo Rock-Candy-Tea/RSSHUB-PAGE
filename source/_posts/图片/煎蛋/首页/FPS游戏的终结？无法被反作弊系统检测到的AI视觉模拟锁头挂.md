@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 ---
 
 <div>   
-<blockquote><p>开发者称不是为了破坏游戏环境，而是为了给所有玩家一个公平的开挂机会</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7b50a4e1e7245c57fc5e29a982c96792.jpg!custom" referrerpolicy="no-referrer"><p>网络游戏，外挂开发者与反外挂技术的维护者，在玩一场猫鼠。</p>
+<blockquote><p>开发者称不是为了破坏游戏环境，而是为了给所有玩家一个公平的开挂机会</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7b50a4e1e7245c57fc5e29a982c96792.jpg!custom" referrerpolicy="no-referrer"><p>网络游戏，外挂开发者与反外挂技术的维护者，在玩一场猫鼠游戏。</p>
 <p>现在的反作弊工作往往依赖于确保游戏本身的文件不被访问或修改。在个人电脑上，这可能意味着所谓的 "内核级驱动程序"，用以监控系统内存。在游戏机上，这可能意味着依靠系统级的安全，防止未签名的代码被运行(除非系统被有效入侵)。</p>
 <p>但随着算法和AI技术的发展，有越来越多突破以往观念的作弊方式。</p>
 <p>有代表性的例子就是线上职业象棋比赛。因为AI的出现，棋手可以一边用电脑和人对弈，一边在手机上运行AI程序——和AI模仿对手的行棋，然后把AI的应对招数，用在电脑上。显然，这种作弊方式，并不存在所谓的内核级反制手段。(因为这实际上相当于后边有个人支招)</p>
