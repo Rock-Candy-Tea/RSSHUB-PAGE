@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-bc56b79e974c8b78be260828f5a4955
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left"><strong>chiner,发音:[kaɪˈnər]</strong></p> 
+                                                                    
+                                                        <p style="text-align:left"><strong>chiner,发音:[kaɪˈnər]</strong></p> 
 <p style="text-align:left"><strong>[CHINER元数建模-3.0]</strong>，历时三年，几经磨难，匠心打造，浴火重生。做一款丰富数据库生态的，独立于具体数据库之外的，数据库关系模型设计平台。</p> 
 <blockquote> 
  <p>元数建模平台，使用React+Electron+Java技术体系构建。</p> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2874'
+headimg: 'https://picsum.photos/400/300?random=5140'
 author: 开源中国
 comments: false
 date: Sun, 18 Jul 2021 11:57:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2874'
+thumbnail: 'https://picsum.photos/400/300?random=5140'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Furion v2.14.0 已经发布，让 .NET 开发更简单，更通用，更流行</p> 
+                                                                    
+                                                        <p>Furion v2.14.0 已经发布，让 .NET 开发更简单，更通用，更流行</p> 
 <p>此版本更新内容包括：</p> 
 <ul> 
  <li> <p><strong>新特性</strong></p> 

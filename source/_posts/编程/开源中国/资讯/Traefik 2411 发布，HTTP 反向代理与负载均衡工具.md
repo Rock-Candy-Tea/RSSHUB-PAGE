@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7387'
+headimg: 'https://picsum.photos/400/300?random=6669'
 author: 开源中国
 comments: false
 date: Sun, 18 Jul 2021 07:50:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7387'
+thumbnail: 'https://picsum.photos/400/300?random=6669'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Traefik 2.4.11 现已发布，该版本更新内容如下：</p> 
+                                                                    
+                                                        <p>Traefik 2.4.11 现已发布，该版本更新内容如下：</p> 
 <p><strong>Bug fixes：</strong></p> 
 <ul> 
  <li><strong>[k8s,k8s/crd,k8s/ingress] </strong>默认在 Kubernetes providers 上禁用 ExternalName 服务</li> 
