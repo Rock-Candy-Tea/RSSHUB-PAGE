@@ -17,13 +17,13 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a90327edce1c430eac
 <p>本文是对某开源的项目<code>webpack5 + react + typescript</code><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvortesnail%2Freact-ts-quick-starter" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/vortesnail/react-ts-quick-starter" ref="nofollow noopener noreferrer">项目地址</a>逐行代码做分析，解剖一个成熟的环境所有配置的意义，理清一些常见的问题，比如</p>
 <ul>
 <li>
-<p>文件中的 <code>import</code> 转<code>es5</code>被 <code>webpack</code> 编译成了什么？webpack的分包配置splitChunks咋用? 你真的理解其选项值<code>chunks</code>的值<code>async</code>或者<code>initial</code>或者<code>all</code>是什么意思吗，这个可对分包优化至关重要啊！为什么<code>package.json</code>没有依赖的包，也在<code>node_modules</code>下面，<code>npm install</code>包是以什么结构安装npm包呢？</p>
+<p>文件中的 <code>import</code> 转<code>es5</code>被 <code>webpack</code> 编译成了什么？webpack的分包配置splitChunks咋用? 你真的理解其选项值<code>chunks</code>的值<code>async</code>或者<code>initial</code>或者<code>all</code>是什么意思吗，这个可对分包优化至关重要啊！为什么<code>package.json</code>没有依赖的包，在<code>node_modules</code>下面会出现，<code>npm install</code>包是以什么结构安装npm包呢？</p>
 </li>
 <li>
-<p><code>babel/core</code>有什么用，它跟<code>babel-loader</code>的区别, <code>babelrc</code>文件<code>presets</code>和<code>plugin</code>的区别是什么，<code>babelrc</code>常用设置项知道多少，这个不清楚？那项目代码校验和格式化用到<code>editorConfig、prettier、eslint，stylelint</code>他们的关系和区别是什么？如何配置防止它们冲突，比如<code>eslint</code>也有<code>css</code>校验，怎么让<code>stylelint</code>跟它不起冲突，这些你要晋升为前端主管怎么能心里没数？</p>
+<p><code>babel/core</code>有什么用，它跟<code>babel-loader</code>的区别, <code>babelrc</code>文件中配置项<code>presets</code>和<code>plugin</code>的区别是什么，<code>babelrc</code>常用设置项知道多少，这个不清楚？那项目代码校验和格式化用到<code>editorConfig、prettier、eslint，stylelint</code>他们的关系和区别是什么？如何配置防止它们冲突，比如<code>eslint</code>也有<code>css</code>校验，怎么让<code>stylelint</code>跟它不起冲突，这些你要晋升为前端主管怎么能心里没数？</p>
 </li>
 <li>
-<p>如果你用的<code>vscode</code>，如何在工作区配置<code>ctrl+s</code>自动保存，并配置为<code>prettier</code>格式化，<code>webpack5</code>和<code>4</code>的配置中的变化、等等。。。</p>
+<p>如果你用的<code>vscode</code>，如何在工作区配置<code>ctrl+s</code>自动保存，让你的js和css文件自动格式化，并配置为<code>prettier</code>格式化，<code>webpack5</code>和<code>4</code>的配置中的变化、等等。。。</p>
 </li>
 </ul>
 <p>以上提到的知识点对我们深入了解<code>项目环境搭建</code>非常重要， 你的项目你来时一般环境都是搭建好的，试过从0自己搭建不？是不是抄别人的配置，都一头雾水，完全不知道这些配置项时啥意思呢？</p>
