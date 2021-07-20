@@ -1,0 +1,18 @@
+
+---
+title: '近距离观察苹果 12.9 英寸 M1 iPad Pro 中的 mini LED 背光灯'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe3_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 19 Jul 2021 17:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe3_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 7 月 19 日消息 今年的 M1 12.9 英寸 iPad Pro 的头条特征之一是采用了 mini LED 背光 -- 或者说苹果称之为液体视网膜 HDR 显示屏。微博博主 @楼斌 Robin 发布的一对新照片提供了非常的近距离来观察这项技术，其表示，这也太小了。一共 2596 个分区，10384 颗灯珠。图一放了一颗绿豆做对比，图二是拿显微镜放大 30 倍拍的灯珠。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe3_1024.jpg" data-height="720" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe3_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe4_1024.jpg" data-height="527" data-width="934" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe4_1024.jpg" referrerpolicy="no-referrer"></div></div>外媒 9to5 Mac 报道，苹果的描述其实有点误导，因为新的东西不是显示屏本身，而是照明方法。<p></p><p>" 它使用 mini LED 背光，就像 6000 美元的苹果 Pro Display XDR 一样，但不知何故，它包含了超过 10000 个 mini LED，有 2500 多个局部调光区。这是 12.9 英寸 iPad Pro 的 1,000,000:1 对比度的背后技术，对明亮的白色和黑暗的黑色之间差异的测量。"</p><p>Zac Hall 发现，它既有优点也有缺点。</p><p>"Mini-LED 比 LED 背光显示屏有很大的改进，它是新 iPhone 和每个 Apple Watch 上的 OLED 屏幕的实用替代品。12.9 英寸显示屏拥有明显更好的黑色水平和高动态范围的视频播放，可以说能与 OLED 电视媲美。</p><p>与 OLED 一样，在黑暗的用户界面和任何视频内容（尤其是 HDR）之外，你真的无法欣赏 Mini-LED 的影响。我肯定注意到白色用户界面周围的暗色边界，我被告知在其他采用同样薄边框设计的 iPad 上也可以看到 [ ... ] 。</p><p>我预计会有一定程度的花屏，即当非黑色的用户界面元素被背光时，光线会溢出到黑色的用户界面上，从而产生这种效果。但是，在整个非视频应用的黑暗模式下，花屏的程度确实令人惊讶。很有可能这些 iPad 上的现有软件可以被优化，以更好地利用额外的调光区来减少花屏，但推出的软件还没有达到这个水平（这部分与多任务处理无关）。</p><p>第一张显示了 mini LED 阵列的一部分和绿豆的尺寸对比。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202107/60f59d2f8e9f09648b5cebe5_1024.jpg" data-height="1080" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f59d2f8e9f09648b5cebe5_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，从这个角度来看，绿豆的尺寸通常约为 4 毫米，或 0.15 英寸。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60f59d2f8e9f09648b5cebe6_1024.jpg" data-height="193" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f59d2f8e9f09648b5cebe6_1024.jpg" referrerpolicy="no-referrer"></div></div>第二张照片显示了显微镜下单个微型 LED 的 30 倍放大率。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe7_1024.jpg" data-height="1319" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f59d2f8e9f09648b5cebe7_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

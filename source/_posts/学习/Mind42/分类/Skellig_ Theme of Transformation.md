@@ -1,0 +1,19 @@
+
+---
+title: 'Skellig_ Theme of Transformation'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7cd018cb-ae31-4368-a24a-0047c9f2fd36&size=gallery'
+author: Mind42
+comments: false
+date: 2021-07-20 01:56:49
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7cd018cb-ae31-4368-a24a-0047c9f2fd36&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=7cd018cb-ae31-4368-a24a-0047c9f2fd36&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
