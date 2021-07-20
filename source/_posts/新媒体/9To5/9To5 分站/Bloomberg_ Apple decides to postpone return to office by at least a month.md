@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://picsum.photos/400/300?random=2382'
+headimg: 'https://picsum.photos/400/300?random=4221'
 author: 9To5
 comments: false
 date: Tue, 20 Jul 2021 04:32:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2382'
+thumbnail: 'https://picsum.photos/400/300?random=4221'
 ---
 
 <div>   
