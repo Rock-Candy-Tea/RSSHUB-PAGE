@@ -17,7 +17,7 @@ thumbnail: 'https://static.itjuzi.com/images/8e7cd136f1131a71205cbcf2b4816c49.jp
         <strong>凯钿软件Kdan Mobile</strong><br>
         数字内容创作软件提供商<br>
         B轮 / 1600万美元 / 2021-07-20<br>
-        投资方: Datto、美国中经合集团、三菱Golden Asia Fund Ventures、台杉投资
+        投资方: 美国中经合集团、三菱Golden Asia Fund Ventures、台杉投资、Datto投资
         
 </div>
             
