@@ -1,0 +1,19 @@
+
+---
+title: '英伟达 TensorRT 8 上线，BERT 推理延迟仅有 1.2 毫秒'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/7/bb8a43b9-0866-49d3-bb3c-cb0ab2a6d2f2.png'
+author: IT 之家
+comments: false
+date: Wed, 21 Jul 2021 04:45:27 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/7/bb8a43b9-0866-49d3-bb3c-cb0ab2a6d2f2.png'
+---
+
+<div>   
+<p>英伟达昨日发布了其 <span class="accentTextColor">TensorRT 的 8.0 版本</span>。TensorRT 可以看作是在英伟达各种 GPU 硬件平台下运行的一个<span class="accentTextColor">深度学习推理框架</span>，其核心是一个 C++ 库。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/bb8a43b9-0866-49d3-bb3c-cb0ab2a6d2f2.png" alt="英伟达TensorRT 8上线，BERT推理延迟仅有1.2ms" w="900" h="383" title="英伟达 TensorRT 8 上线，BERT 推理延迟仅有 1.2 毫秒" width="900" height="349" referrerpolicy="no-referrer"></p><p>开发者可以将其他框架训练好的模型转化为 TensorRT 格式，并通过 TensorRT 推理引擎提升该模型的运行速度。芯东西等媒体和英伟达 AI 软件部的产品管理总监 Kari Briski、产品营销主管 Siddharth Sharma 就 TensorRT 8 的技术细节、应用落地等进行了深入地探讨。</p><p>此外，Kari Briski 和 Siddharth Sharma 也分享了英伟达团队在推荐系统竞赛中所取得的成绩。</p><h2>一、运行速度和精准度提升 1 倍，推理延迟仅有 1 毫秒</h2><p>Kari Briski 首先回顾了英伟达 TensorRT 的推出背景和成绩。她说，AI 模型正在以指数级的速度增长，很多公司不得不缩减模型大小以追求响应速度。而英伟达 2016 年推出的 TensorRT 可以帮助这些企业扩大其模型规模，提升精度。5 年来，已经有超过 35 万名开发者下载了 250 万次 TensorRT。TensorRT 7 也帮助英伟达创造了多项基准测试记录。</p><p>而相比 7.0 版本，TensorRT 8 的<span class="accentTextColor">运行速度和精准度都提升了 1 倍</span>。此外，TensorRT 8 还有 2 项较为关键的特性，提升了其 AI 推理性能。</p><p>第一个是<span class="accentTextColor">稀疏性（Sparsity）技术</span>，该技术能够提升英伟达 Ampere 架构 GPU 性能，可以在保持推理精度的同时，降低模型中的部分权重。这意味着模型所需的带宽和内存也会更小。</p><p>第二个是<span class="accentTextColor">量化感知训练（Quantization Aware Training）</span>。这使开发者能够利用训练好的模型，以 INT8 精度进行推理，既保证精度，也减少了计算和存储成本。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/6e60b67d-6b26-4655-aa3c-8144af0bd3d2.png" w="800" h="432" title="英伟达 TensorRT 8 上线，BERT 推理延迟仅有 1.2 毫秒" width="800" height="432" referrerpolicy="no-referrer"></p><p>▲ 英伟达 TensorRT 8 提升的性能</p><p>当前，开源 AI 公司 Hugging Face 和医疗方案解决商 GE 医疗正在应用 TensorRT。</p><p>Hugging Face 产品总监 Jeff Boudier 称，通过采用 TensorRT 8，Hugging Face 在 BERT（预训练的语言表征模型）上的<span class="accentTextColor">推理延迟仅有 1.2 毫秒</span>。</p><p>GE 医疗心血管超声首席工程师 Erik Steen 也谈道，当前临床医生需要花费宝贵的时间来选择和评估超声图像。TensorRT 则凭借其实时推理能力，提高了 GE 医疗的视图检测算法性能，能够加快临床医生的工作效率。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/0c02c11a-997d-42a9-85c4-a79653bff24b.png" w="800" h="365" title="英伟达 TensorRT 8 上线，BERT 推理延迟仅有 1.2 毫秒" width="800" height="365" referrerpolicy="no-referrer"></p><p>▲ 英伟达 TensorRT 的应用</p><h2>二、连获 3 项冠军，7 分钟即可完成 CPU 近 24 小时工作</h2><p>除了 TensorRT 8 的具体细节，Kari Briski 和 Siddharth Sharma 也分享了英伟达推荐系统团队在 RecSys 推荐系统数据科学竞赛中所获得的成绩。推荐系统作为计算机科学较新的分支，能够帮助互联网用户找到自己想看、想玩、想买的内容。</p><p>在本次 ACM RecSys 挑战赛中，Twitter 会在 28 天内向参与者提供数百万个数据点，要求他们预测用户会点赞或转发哪些推文。规则要求选手的模型上限为 20 千兆字节，必须基于云端 CPU 的单一内核运行，且时间不能超过 24 小时。</p><p>英伟达的 7 人团队则<span class="accentTextColor">第二次获得了这一比赛的冠军</span>。</p><p>英伟达参赛成员之一的 Gilberto Titericz 认为，其推理模型需要去适应 CPU 核心是本次比赛的难点之一，对英伟达的团队来说“就好像回到了远古时代”。事实上，在比赛后，该团队在单个 NVIDIA A100 Tensor Core GPU 上运行了比赛模型，CPU 花费将近 24 小时的工作，英伟达 A100 GPU <span class="accentTextColor">仅用了 7 分钟</span>就完成运行。</p><p>此前 5 个月中，英伟达还参与了 Booking.com 挑战赛和 SIGIR 电子商务数据挑战赛。前者要求选手使用匿名数据点预测欧洲度假者最终选择前往的城市，后者则提供了 3700 万个数据点要求选手预测消费者会购买哪些产品。</p><p>这 2 项比赛吸引了阿里巴巴、沃尔玛等企业参与，而英伟达最终获得了 2 项比赛的冠军。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/7/669d8758-04f7-454e-b85b-1be220656f6d.png" w="800" h="423" title="英伟达 TensorRT 8 上线，BERT 推理延迟仅有 1.2 毫秒" width="800" height="423" referrerpolicy="no-referrer"></p><p>▲ 英伟达推荐系统团队</p><h2>结语：TensorRT 可有效提升英伟达 GPU 推理表现</h2><p>TensorRT 作为英伟达 GPU 的推理库，<span class="accentTextColor">5 年中更新了 7 个版本</span>。本次，英伟达推出的 TensorRT 8 相比上一版本再次有较大幅度的性能提升，侧面体现出了英伟达对推理领域的重视。</p><p>另外，TensorRT 也支持 Python 调用，可在数据中心、嵌入式和汽车等平台中应用。TensorRT 可以提升视频流传输、语音识别、推荐和自然语言处理等工作的推理延迟，满足了许多实时服务、自动和嵌入式应用的要求。</p>
+          
+</div>
+            
