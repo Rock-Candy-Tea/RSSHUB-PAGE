@@ -1,0 +1,19 @@
+
+---
+title: '软银Pepper机器人_断电_ 孙正义的机器人雄心_短路_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0628/7a900b833c02f97.jpg'
+author: cnBeta
+comments: false
+date: Wed, 21 Jul 2021 10:56:43 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0628/7a900b833c02f97.jpg'
+---
+
+<div>   
+<strong>由于Pepper机器人的市场需求未能达到预期，软银CEO孙正义（Masayoshi Son）的机器人雄心已经“短路”。</strong>回到2014年，软银集团CEO孙正义在发布Android机器人Pepper时，他描绘了一个曾经局限于科幻小说中的愿景：即个人机器人时代的到来，而软银将为该行业的领导者。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0628/7a900b833c02f97.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0628/7a900b833c02f97.jpg" referrerpolicy="no-referrer"></a></p><p>但两位知情人士今日称，如今，孙正义的这一愿景，以及软银对Pepper机器人需求的预期，都被证明过于乐观。七年后的今天，虽然Pepper机器人仍然活着，但已经停产。</p><p><strong>2023年停售Pepper</strong></p><p>5月下旬于巴黎举行的一次内部会议的记录显示，软银的管理层告诉员工，最迟将在2023年停止销售新的Pepper机器人，而翻新产品的销售会继续持续一段时间。</p><p>但软银对这份会议纪录提出了异议，软银机器人部门（SoftBank Robotics）首席营销官（CMO）Kazutaka Hasumi向媒体表示，软银致力于确保Pepper以某种形式生存下来，可能会采用新的设计。Kazutaka Hasumi说：“五年内，我们仍将销售Pepper。”</p><p>Pepper是一款人形机器人， 是软银2012年收购的法国机器人初创公司Aldebaran为软银定制的。孙正义希望Pepper能将机器人从工厂工具转变为日常伴侣，就像计算机从办公室进入家庭和口袋一样。</p><p>但Pepper的吸引力受到其基本功能的限制：它可以进行基本的对话，可以通过胸前安装的平板电脑进行简单的互动，还可以一边打手势一边唱歌。但两位知情人士称，Pepper故障率太高。</p><p><strong>价格高但功能有限</strong></p><p>里昂证券（CLSA）日本研究主管莫滕·保尔森（Morten Paulsen）表示：“Pepper并没有真的升级，以承担真正的任务。<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a>做不到的事情，Pepper也几乎做不到。”</p><p>Pepper的零售价为19.8万日元（约合1800美元），外加14800日元的月服务费，这让大多数家庭买不起。因此，软银很快就被迫专注于企业。在这一领域，Pepper吸引了一些早期的热情，因为商店和餐馆提供了一个更可预测的环境，在那里可以对机器人进行编程，执行打招呼等任务。</p><p>但据知情人士称，东京（软银）和巴黎（Aldebaran）之间的糟糕关系损害了Pepper的发展。最终，Pepper只生产了2.7万台。</p><p>如今，Pepper的销量在一些月份里，已经下滑到不到100台。文件显示，由于积压产品数量不断增加，富士康在中国大陆的一家工厂去年已经不再生产Pepper，并关闭了生产线。</p><p>文件显示，软银只剩下不到2000台Pepper。其中一位知情人士称，为机器人提供动力的电池正在衰减，其胸前安装的平板电脑运行的也是过时的Android操作系统，没有最新的安全更新。</p><p><strong>孙正义的机器人梦想</strong></p><p>孙正义自称是一位“大嘴巴”（爱说大话），他曾实现过“打破日本电信双头垄断”，以及“为愿景基金（Vision Fund）融资600亿美元”等不容易实现的任务。</p><p>孙正义还看好一些热门产品，著名的例子是将<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>公司的第一款<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>带到了日本市场。但当软银推出Pepper时，几乎没有设计和制造产品的经验，更不用说机器人了。</p><p>事实也是如此，孙正义预期的市场（机器人）从未成为现实。尽管Pepper帮助软银在世界各地传播了自己的名字，但租赁（Pepper）期结束时，一些客户仍在退还它。</p><p>两年前，软银还推出了自动<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C745" target="_blank">吸尘器</a>Whiz，这是重启机器人业务的一次重大尝试。两位知情人士称，销售人员努力说服客户每月支付500美元，购买一种只能清洁空地，并会出现故障的产品。</p><p>软银机器人（SoftBank Robotics）业务首席商务官（CBO）吉田健一（Kenichi Yoshida）表示，疫情提振了人们对Whiz的需求，在4月至6月这个季度的订单为8000台。</p><p>两位知情人士称，软银还考虑过其他机器人产品，包括一款制作拉面的产品。当前，软银在销售一款名为“Servi”的餐饮服务机器人。该机器人由总部位于加利福尼亚州的贝尔斯登公司（Bear Robotics）开发，可以为用餐者运送食物。</p><p><strong>转向纯粹的投资</strong></p><p>软银机器人（SoftBank Robotics）部门的欠佳表现，在去年达到了顶峰。当时，经济低迷迫使孙正义改变战略，出售资产以稳定集团的资产负债表，并推动投资组合公司优先创造现金。</p><p>上个月有报道，软银机器人（SoftBank Robotics）部门已开始进行全球重组，其中包括将巴黎员工裁减50%。</p><p>软银机器人（SoftBank Robotics）业务首席商务官（CBO）吉田健一表示，该业务正接近盈利，上市是一种可能性。</p><p>如今，软银集团一直在通过其愿景基金转向纯粹的投资，并出售机器人公司了波士顿动力（Boston Dynamics）等公司的多数股权。虽然如此，软银仍继续在机器人相关业务中持有较少的股份。</p><p>“波士顿动力”是一家机器人公司，于1992年从麻省理工学院剥离，2013年被谷歌收购，2017年出售给软银。之前就有分析人士称，出售“波士顿动力”，意味着软银在机器人领域的雄心壮志正在消退。</p><p>针对Pepper，软银还与日本的Iris Ohyama和美国的Robotlab等合作伙伴达成了销售协议。Robotlab公司CEO艾莱德·因巴（ Elad Inbar）在接受采访时表示，Pepper还存在一个小众市场，即特定企业和<a data-link="1" href="https://c.duomai.com/track.php?k=yUSQzUycwRHdo1Ddm0DZpVXZmkDN2ITPklWYmYDO5IDNy0DZp9VZ0l2cmYiJ05WZkVHdzZkMl42Yu02bj5SZy9GdzRnZvN3byNWat5yd3dnRyUiR" target="_blank">教育</a>客户。</p>   
+</div>
+            
