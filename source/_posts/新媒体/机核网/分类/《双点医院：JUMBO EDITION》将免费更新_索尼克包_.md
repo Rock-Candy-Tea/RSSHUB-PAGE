@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/1ccc6fec-a94c-452f-be8c-ec28ce0feda2.jpg'
 author: 机核网
 comments: false
-date: 2021-07-21 00:23:01
+date: 2021-07-21 01:55:16
 thumbnail: 'https://image.gcores.com/1ccc6fec-a94c-452f-be8c-ec28ce0feda2.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/1ccc6fec-a94c-452f-be8c-ec28ce0feda2.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-b1jdn" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="b1jdn" data-offset-key="e1p8s-0-0"><div data-offset-key="e1p8s-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e1p8s-0-0"><span data-text="true">世嘉宣布，将于7月30日针对《双点医院：JUMBO EDITION》免费推出与《刺猬索尼克》联动的“索尼克包”。我们在游戏中可以将员工和医院设置装扮成《刺猬索尼克》主题。感兴趣的朋友不要错过了。</span></span></div></div>
+<img src="https://image.gcores.com/1ccc6fec-a94c-452f-be8c-ec28ce0feda2.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-3nsef" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="3nsef" data-offset-key="e1p8s-0-0"><div data-offset-key="e1p8s-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e1p8s-0-0"><span data-text="true">世嘉宣布，将于7月30日针对《双点医院：JUMBO EDITION》免费推出与《刺猬索尼克》联动的“索尼克包”。我们在游戏中可以将员工和医院设置装扮成《刺猬索尼克》主题。感兴趣的朋友不要错过了。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/2674ac2f-31be-4d19-8fa0-57d1b5053068.jpg" alt referrerpolicy="no-referrer">
 
@@ -41,6 +41,6 @@ thumbnail: 'https://image.gcores.com/1ccc6fec-a94c-452f-be8c-ec28ce0feda2.jpg'
 <figure>
 <img src="https://image.gcores.com/d05fd1bf-d762-4cc6-9040-5f8b622d674c.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="b1jdn" data-offset-key="dsfm-0-0"><div data-offset-key="dsfm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dsfm-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="3nsef" data-offset-key="dsfm-0-0"><div data-offset-key="dsfm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dsfm-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
