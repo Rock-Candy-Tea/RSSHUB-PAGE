@@ -5,11 +5,11 @@ categories:
  - 金融
  - 淘股吧股票论坛
  - 用户博客
-headimg: 'https://picsum.photos/400/300?random=472'
+headimg: 'https://picsum.photos/400/300?random=4952'
 author: 淘股吧股票论坛
 comments: false
 date: Wed, 21 Jul 2021 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=472'
+thumbnail: 'https://picsum.photos/400/300?random=4952'
 ---
 
 <div>   
