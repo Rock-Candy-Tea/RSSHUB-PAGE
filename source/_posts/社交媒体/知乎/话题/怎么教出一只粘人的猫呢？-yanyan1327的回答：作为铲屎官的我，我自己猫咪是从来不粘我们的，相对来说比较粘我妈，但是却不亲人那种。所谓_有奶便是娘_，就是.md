@@ -1,0 +1,18 @@
+
+---
+title: '怎么教出一只粘人的猫呢？-yanyan1327的回答：作为铲屎官的我，我自己猫咪是从来不粘我们的，相对来说比较粘我妈，但是却不亲人那种。所谓_有奶便是娘_，就是...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-e4e398724d88b66b6d8558f4ed7eef84_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 21 Jul 2021 02:55:38 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-e4e398724d88b66b6d8558f4ed7eef84_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>怎么教出一只粘人的猫呢？</strong><br>yanyan1327的回答<br><p>作为铲屎官的我，我自己猫咪是从来不粘我们的，相对来说比较粘我妈，但是却不亲人那种。所谓“有奶便是娘”，就是你在吃饭的时候，天冷的时候，它才会对你友好，其余时间傲娇得很。而且它的精力十分充沛，经常想跟人玩，可是它玩得方式比较魔性哈，经常会伸出它锋利的爪子把你抓伤。</p><p>由于它不亲人，而且戒备心特别强，基本不怎么让人剪指甲，梳毛，这些它都自己来，要么就到处找东西磨磨爪子，要么就任由自己的毛疯长。就是跟它洗澡之后，它也不让你帮它吹干毛，就爱自己舔。</p><p>养猫路上我可是有太多心酸泪了，但是，我也有一些养猫的心得可以分享：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e4e398724d88b66b6d8558f4ed7eef84_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="457" data-rawheight="408" data-default-watermark-src="https://pic1.zhimg.com/50/v2-094f2522274145eb5c8081baeff3e8c7_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-e4e398724d88b66b6d8558f4ed7eef84_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e4e398724d88b66b6d8558f4ed7eef84_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>猫咪是一种非常敏感的动物，对人往往保持很高的警惕，信任感很难建立，却很容易崩塌。所以饲养猫咪，要想它变得粘你，必须要始终如一的对它好，不管它犯什么错，都不能打它。身为铲屎官，能对它做的就是对它好，或者对它更好~</p><p>猫咪的粘人、撒娇行为通常表现为舔你、蹭腿，猫咪不像狗狗一样，狗狗见到熟人就会舔，而猫咪只有对非常信任的人才会有这样的行为。我们眼中粘人的猫咪，只有对你非常信任，觉得你很安全时，才会表现出来。</p><p>它们这种看似粘人的行为，在它们的世界其实只是一种模仿行为，猫咪眼里没有主人，在它眼里，你是比它大很多的同类~当我们在做一些事情的时候，洗澡、上厕所它们都会感到好奇，会想要跟我们一起。比如我们在玩手机，它们会趴在一边，或者休息，或者捣乱；上厕所它也会探着它的小脑袋观察我们的一举一动。</p><p>粘人的猫咪非常可爱，也表现的很有灵性，而想要它们变得粘人可不是件容易的事，做到以下几点，可以促进和猫咪的关系，增加猫咪对你的信任感，或许你就可以获得一只粘人的猫咪。</p><p>1、每天定期投喂食物。相信谁都无法讨厌一个可以每天给自己提供饮食的人，猫咪也是一样的，猫咪有一定的捕猎天性，可能偶尔会自己捕猎食物，但是对给它提供食物的人，它无疑是会比较信任的，如果总是给它投喂食物，它就会降低对你的戒备，觉得这样很有安全感。所以想让猫咪变得粘人，可以每天给它提供味美可口的食物，猫咪会很黏你的。</p><p>2、陪猫咪玩耍。猫咪天性爱玩，它们有着很强的好奇心，不过很多时候是独自体验玩的乐趣，能够独自追着正在动的物体，直到筋疲力尽，比如逗猫棒。除此之外，宠主也可以和猫咪进行互动，给猫咪丢一些毛绒玩具，和猫一起玩耍，猫咪会变得很喜欢你的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-f6f973ff90319f749036cd75bf6bf690_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="556" data-rawheight="380" data-default-watermark-src="https://pic3.zhimg.com/50/v2-5929f7bd47dd0c120e916c2f5849f380_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-f6f973ff90319f749036cd75bf6bf690_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-f6f973ff90319f749036cd75bf6bf690_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>3、挠猫咪下巴或者头顶。猫咪都很喜欢被挠着个部位，它会因此呼噜呼噜叫，这样也可以安抚猫咪，所以可以经常这样抚摸猫咪~猫咪也会变得很粘人。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-9f0e500bb717959126120b760e973421_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="590" data-rawheight="353" data-default-watermark-src="https://pic3.zhimg.com/50/v2-62761480045ff0ab8c8907d25b64b7b9_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-9f0e500bb717959126120b760e973421_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-9f0e500bb717959126120b760e973421_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>和猫咪建立良好关系的三大点，相信你用这些方式，会获得一只粘人可爱的猫咪，宠主的宠爱会让猫咪变得轻松，不再总是保持警惕。</p>  
+</div>
+            
