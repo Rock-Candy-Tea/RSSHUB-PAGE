@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/531bf912-3a05-4fbe-b254-308100
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/531bf912-3a05-4fbe-b254-308100396252.jpg" referrerpolicy="no-referrer"><p>新卡</p>  
+<img src="https://img.4gamers.com.tw/news-image/531bf912-3a05-4fbe-b254-308100396252.jpg" referrerpolicy="no-referrer"><p>強力新卡</p>  
 </div>
             

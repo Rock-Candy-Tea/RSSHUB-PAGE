@@ -32,7 +32,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/New
 </blockquote>
 <p>A public consultation will be carried out on the proposed new antitrust powers.</p>
 <p><em>Photo: <a href="https://unsplash.com/@hmiguelsousa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hugo Sousa</a>/<a href="https://unsplash.com/s/photos/houses-of-parliament?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-Spend-and-Save_7-16-21-Final-2.jpg?quality=82&strip=all" alt class="wp-image-738735" referrerpolicy="no-referrer"></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

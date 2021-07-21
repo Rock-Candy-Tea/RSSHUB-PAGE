@@ -39,7 +39,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/AAP
 <blockquote class="wp-block-quote">
 <p>Apple stock remains in a strong bullish uptrend, but the short-term end goal looks a bit more questionable now that the broader market has turned around. We are now behind the most bullish time of the year, the first two months of July, and heading into results season with some high valuations. Can they be sustained? The investment banks certainly produced strong results, and soon it will be the turn of the tech titans. However, strong results do not necessarily mean strong stock prices. In Q2 Apple results came in over 40% ahead of Wall Street analyst expectations, but the stock fell in the days and weeks after results.</p>
 </blockquote>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/750x150-Spend-and-Save_7-16-21-Final-2.jpg?quality=82&strip=all" alt class="wp-image-738735" referrerpolicy="no-referrer"></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
