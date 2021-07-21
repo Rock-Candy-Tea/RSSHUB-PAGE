@@ -1,0 +1,22 @@
+
+---
+title: '1.2 毫秒！ 英伟达 TensorRT 8 运行 BERT-Large 推理创纪录'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0721/0d2c62c76531c5e.png'
+author: cnBeta
+comments: false
+date: Wed, 21 Jul 2021 07:47:00 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0721/0d2c62c76531c5e.png'
+---
+
+<div>   
+<strong>自今年 5 月份 TensorRT 8-EA 版 （Early Access， 尝鲜版）发布之后，英伟达终于在本周二发布了 TensorRT 8 的正式版。</strong>作为支持英伟达
+GPU 平台的深度学习推理框架 ，TensorRT 8 正式版与以往的版本相比，能够在在 1.2 毫秒内运行全球最广为采用的基于
+transforemer 模型之一 ——BERT-Large，
+即将语言查询推理时间缩短至上一个版本的一半，创下最新记录，为搜索引擎、广告推荐和聊天机器人的 AI 模型提供支持。<br>
+ 英伟达官方声称 ，TensorRT8 不仅针对 transformer 作出突破性优化，还新增其他两项关键特性，实现 AI 推理方面的突破。<p style="text-align: left;"><strong>推理时间缩短至 1.2 毫秒，速度提升 1 倍</strong></p><p style="text-align: left;">“AI 模型以指数级的速度增长，很多公司不得不缩减模型大小以追求响应速度。英伟达 2016 年推出的 TensorRT 可以帮助这些企业扩大规模，提升精度。” 英伟达 AI 软件部的产品管理总监 Kari Briski 回顾 TensorRT 推出的背景时说道。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0721/0d2c62c76531c5e.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">TensorRT 是英伟达自家的深度学习推理框架，在模型推理的过程中，可以将 Pytorch、TensorFlow 等其他框架训练好的模型转化为 TensorRT 格式，再使用 TensorRT 推理引擎运行，从而提升这一模型在 GPU 上的运行速度。</p><p style="text-align: left;">因此，支持更多的模型和进一步缩短推理时间，提高推理速度是广大 AI 软件开发者对 TensorRT 升级的普遍期望。</p><p style="text-align: left;">2019 年，黄仁勋在 GTC China 上发布 TensorRT 7。 相比于只支持 30 多种模型的 TensorRT 5，TensorRT 7 能够支持各种类型的 RNN、Transformer 和 CNN， 支持多达 1000 多种不同类型的计算变换和优化，还能让推理时间缩短至 0.3 秒，为此黄仁勋将其称之为“我们实现的最大飞跃”。</p><p style="text-align: left;">这次更新的 TensorRT 8 版本，虽然升级“飞跃”程度比不上从 5.0 版本到 7.0 版本的升级，但也有一定程度的更新。</p><p style="text-align: left;">英伟达宣称 ，TensorRT 8 的各项优化为语言带来了创纪录的速度，能够在 1.2 毫秒内运行全球最广为采用的基于 transforemer 模型之一 ——BERT-Large， 帮助企业将模型扩大一倍或两倍，从而提高精度。</p><p style="text-align: left;">落实到具体的应用上，这种推理速度的提升能够让对话式 AI 更加智能，交互应用程序的性能也能够得以提升。</p><p style="text-align: left;"><strong>新增两项核心技术，是推理速度提升的关键</strong></p><p style="text-align: left;">在此之前，之所以能够凭借 TensorRT 提升模型在英伟达 GPU 上的运行速度，主要得益于 TensorRT 的一系列优化，这些优化包括：</p><ul class=" list-paddingleft-2"><li><p style="text-align: left;">权重与激活精度校准：通过将模型量化为 INT8 来更大限度提升吞吐量，同时保持高精度，力求精度和吞吐量的最大平衡；</p></li><li><p style="text-align: left;">层与张量融合：通过融合内核中的节点，优化 GPU 显存和带宽的使用；</p></li><li><p style="text-align: left;">内核自动调整：基于目标 GPU 选择最佳的数据层和算法；</p></li><li><p style="text-align: left;">动态张量显存：更大限度减少显存占用，并高效地为张量重复利用内存；</p></li><li><p style="text-align: left;">多流执行：并行处理多个输入流的可扩展设计；</p></li></ul><p style="text-align: left;">简单而言，就是在力求以低混合精度提升吞吐量的同时，减少计算和内存访问，合并网络层。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0721/234c760a7bf7b88.png"><img data-original="https://static.cnbetacdn.com/article/2021/0721/234c760a7bf7b88.png" src="https://static.cnbetacdn.com/thumb/article/2021/0721/234c760a7bf7b88.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">而在 TensorRT 8 版本中，英伟达又新加入两个关键特性，以实现 AI 推理方面的突破。</p><p style="text-align: left;"><strong>其一是稀疏性。</strong>TensorRT 8 中使用稀疏性技术，在保证精度推理的同时，降低深度学习模型中的部分权重，减小模型所需要的带宽和内存，在提升效率的同时使开发者能够通过减少计算操作来加速神经网络。</p><p style="text-align: left;">这项技术能够帮助 NVIDIA Ampere 架构 GPU 得到性能上的提升。</p><p style="text-align: left;"><strong>其二是量化感知训练。</strong>开发者能够使用训练好的模型，以 INT8 精度运行推理，且不会造成精度损失，大大减少计算和存储成本，在 Tensor Core 核心上实现高效推理。</p><p style="text-align: left;"><strong>TensorRT 诞生第五年，下载次数近 250 万次</strong></p><p style="text-align: left;">推理模型上的速度优势让 TensorRT 广受欢迎。五年来，已有来自医疗、汽车、金融和零售等各个领域的 27500 家企业，超过 25 万名开发者下载使用 TensorRT， 累计次数近 250 万次。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0721/d14cea4513a84f8.png"><img data-original="https://static.cnbetacdn.com/article/2021/0721/d14cea4513a84f8.png" src="https://static.cnbetacdn.com/thumb/article/2021/0721/d14cea4513a84f8.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">GE 医疗是 TensorRT 的使用者之一，他们用 TensorRT 助力加速早期检测疾病的关键工具——超声波计算机视觉创新，使临床医生能够通过其职能医疗解决方案提供方最高质量的护理。</p><p style="text-align: left;">GE 医疗心血管超声首席工程师 Erik Steen 表示:“临床医生需要花费宝贵的时间来选择和评估超声图像。在 Vivid Patient Care Elevated Release 项目的研发过程中，我们希望通过在 Vivid E95 扫描仪上实施自动心脏视图检测，使这一过程变得更加高效。心脏视图识别算法将选择合适的图像来分析心壁运动 。TensorRT 凭借其实时推理能力，提高了视图检测算法的性能，同时缩短了我们研发项目的产品上市时间。”</p><p style="text-align: left;">开源 AI 技术的领导者 Hugging Face 也在同英伟达展开密切合作，其产品总监 Jeff Boudier 表示，通过 TensorRT 8，Hugging Face 在 BERT 上实现了 1 毫秒的推理延迟，十分期待能在今年晚些时候为客户提供这一性能。</p><p style="text-align: left;">目前 ，TensorRT 8 已经全面上市，且面向英伟达计划开发者成员免费提供，用户能够从TensoRT GitHub 库中获得最新版本插件、解析器和样本开放源代码。</p>   
+</div>
+            
