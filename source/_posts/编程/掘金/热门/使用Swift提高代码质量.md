@@ -383,7 +383,9 @@ model.data <span class="hljs-operator">=</span> <span class="hljs-type">Object</
 <h4 data-id="heading-60">使用<code>defer</code></h4>
 <p><code>defer</code>可以保证在函数退出前一定会执行。可以使用<code>defer</code>中实现退出时一定会执行的操作例如<code>资源释放</code>等避免遗漏。</p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">method</span>()</span> &#123;
+    lock.lock()
     <span class="hljs-keyword">defer</span> &#123;
+        lock.unlock()
         <span class="hljs-comment">// 会在method作用域结束的时候调用</span>
     &#125;
     <span class="hljs-comment">// do</span>

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/037/607/500/original/dc9b13cdfb5213c8.png'
+headimg: 'https://picsum.photos/400/300?random=7151'
 author: Mastodon
 comments: false
-date: Wed, 21 Jul 2021 09:05:45 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/037/607/500/original/dc9b13cdfb5213c8.png'
+date: Wed, 21 Jul 2021 10:05:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7151'
 ---
 
 <div>   
-<hr><p>どんなこどもにもちゃんとえっちするためのおまんこと子宮がついてるのえっちすぎる</p><br><img src="https://img.pawoo.net/media_attachments/files/037/607/500/original/dc9b13cdfb5213c8.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>07月21日のらぁらちゃん</p><br><video src="https://img.pawoo.net/media_attachments/files/037/608/644/original/c40c75eb0963b7a8.mp4" autoplay loop>gif </video>  
 </div>
             
