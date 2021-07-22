@@ -17,6 +17,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6eb76d69a38e47c494
 <p>1、前面把JNI与NDK编程基础知识点总结过了，如果不懂的可以再详细看下；</p>
 <p>2、今天讲解下jni编程中常用的方法总结和详解-中文的：类操作方法、字符串、数组、方法等等；</p>
 <p>3、jni编程一定要会的，不懂的就问；</p>
+<p>此文章已经在公众号<a href="https://link.juejin.cn/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FO4NvDoCn2Tw-RlTjCvd-tg" target="_blank" rel="nofollow noopener noreferrer" title="https://mp.weixin.qq.com/s/O4NvDoCn2Tw-RlTjCvd-tg" ref="nofollow noopener noreferrer">【Android开发编程】</a>上发表</p>
 <p><strong>一、JNI中重要的JavaVM 和 JNIEnv详解</strong></p>
 <p><strong><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6eb76d69a38e47c494447d74431fe771~tplv-k3u1fbpfcp-zoom-1.image" alt="Dingtalk_20210722141216.jpg" loading="lazy" referrerpolicy="no-referrer"></strong></p>
 <p>JNI 定义了两个关键数据结构，即JavaVM和JNIEnv。两者本质上都是指向函数表的二级指针。在 C++ 版本中，它们是一些类，这些类具有指向函数表的指针，并具有每个通过该函数表间接调用的 JNI 函数的成员函数</p>
