@@ -5,16 +5,16 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/U2wlMTR1hnUlaRzGPu39.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/tY4UtKmfdggPUGpdHdpD.jpg'
 author: 人人都是产品经理
 comments: false
 date: Wed, 21 Jul 2021 00:00:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/U2wlMTR1hnUlaRzGPu39.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/tY4UtKmfdggPUGpdHdpD.jpg'
 ---
 
 <div>   
 <blockquote><p>编辑导语：在互联网红利逐渐消失的当下，粗狂式的运营已经难以为继，如何把有限的费用投入到我们最精准的用户上，也就是所谓的精细化运营，是每个公司应该关注的问题。这其中最重要的是用户分层，本文介绍了用户分层的一种最常见、也最常见的方法：RFM用户分层。</p></blockquote>
-<p><img data-action="zoom" class="size-full wp-image-4912084 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/U2wlMTR1hnUlaRzGPu39.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="size-full wp-image-4913018 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/tY4UtKmfdggPUGpdHdpD.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <h2 id="toc-1">一、写在前面</h2>
 <p>随着互联网流量红利的逐渐消失，之前粗狂式的拓客和一刀切的用户运营已经难以为继，越来越多的公司开始意识到，只靠烧钱圈用户、养用户成本太高，因为不是所有的用户都需要你重点投入，金主爸爸一定要好好维护，潜力股一定要加大投入挖掘价值，而羊毛党永远都是你应该严防的对象，这就是所谓的精细化运营，钱要花在刀刃上，要花在业务和核心用户上。</p>
 <p>精细化运营讲究的是千人千面，一千类用户一千种运营策略，所以第一步就是要把用户进行分类，然后才有针对性的运营策略，而用户分类中一种尤为重要和常用的方法就是RFM。</p>
