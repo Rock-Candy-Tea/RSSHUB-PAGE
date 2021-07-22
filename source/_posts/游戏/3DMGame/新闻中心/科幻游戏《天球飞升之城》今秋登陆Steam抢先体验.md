@@ -1,0 +1,77 @@
+
+---
+title: '科幻游戏《天球飞升之城》今秋登陆Steam抢先体验'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20210722/1626935926_792213.jpg'
+author: 3DMGame
+comments: false
+date: Thu, 22 Jul 2021 06:44:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210722/1626935926_792213.jpg'
+---
+
+<div>   
+<p style="text-indent:2em;">
+近日Assemble Entertainment公布科幻模拟建设游戏《天球：飞升之城》(Sphere - Flying 
+Cities)，本作已上架Steam平台，将于今年秋季开启抢先体验。游戏支持中文，感兴趣的玩家可以加入愿望单。
+</p>
+<p style="text-indent:2em;">
+<strong><span style="color:#E56600;font-size:16px;">Steam商店地址：<a href="https://store.steampowered.com/app/1273220/Sphere__Flying_Cities/" target="_blank"><strong><span style="color:#337FE5;"><u>点击进入</u></span></strong></a></span></strong> 
+</p>
+<p style="text-indent:2em;">
+<strong>游戏预告：</strong> 
+</p>
+<p style="text-align:center;">
+<iframe src="https://player.youku.com/embed/XNTE4NDYwODY1Mg==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
+<p style="text-indent:2em;">
+《天球：飞升之城》讲述的是在不太遥远的未来，月球遭遇了巨型小行星的撞击。这场灾难的余波导致生态系统崩溃，人类无法继续在地表生存。面对生死存亡的严峻考验，人类为求生做出了孤注一掷的选择——借助在危机时刻研发的反重力科技，第一座飞翔都市- 
+“飞升之城”腾空而起，这就是人类的最终堡垒。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_792213.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+身为指挥官，你被授予重任，在冷酷无情的环境中负责这座“飞升之城”。在这款汇集了模拟建设和求生类游戏精华的作品中，你要面对严酷的生存环境，重建并保护人类社会。运用反重力设备为你的“飞升之城”导航，跨越整个世界，深入危机四伏的未知区域。保持警惕，因为每一次决断都可能伴随着难以预料的后果，你最好时刻做好准备，为达成使命孤注一掷，否则就会失去你为之奋斗的一切。与此同时，“飞升之城”还将面临着各种浩劫的袭击——地磁风暴肆虐、沙尘漫天、毒云密布，在发展的同时切记不可疏忽大意，需要时刻关注护罩能源供给状态，否则残存的人类将彻底消亡。
+</p>
+<p style="text-indent:2em;">
+<strong>游戏特色：</strong> 
+</p>
+<p style="text-indent:2em;">
+-安得广厦千万间：通过30余种建筑类型建设起充满活力，欣欣向荣的城市。掌握资源管理的技巧，依靠独立的经济循环系统提供的基础设施，维护来之不易的生态系统。
+</p>
+<p style="text-indent:2em;">
+-下方已是万劫不复的深渊：时刻确保反重力设备及其扩展护罩处于最佳状态，一次短暂的供电不足即可能导致无数生命消亡。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_534780.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+-由机械代劳：在危机四伏的环境中，请运用无人机及各种侦察科技来建造建筑，收集资源。在人迹罕至的陌生环境中，请依靠它们来搜救受困的幸存者，并搜索稀有的资源。
+</p>
+<p style="text-indent:2em;">
+-见证科学的力量：通过研究新的科技提高城市各个方面的效率，凭借科技的力量抵御大量天灾人祸，例如地磁风暴，小行星冲撞，以及毒云污染。
+</p>
+<p style="text-indent:2em;">
+-脆弱的生态系统：人民的福祉对达成使命而言至关重要。通过提供食物，医疗和庇护满足开拓者们的需求，但同时请切记：多数人的生存可能需要建立在少数人的牺牲之上。牺牲终究是不可避免的。
+</p>
+<p style="text-indent:2em;">
+<strong>游戏截图：</strong> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_586342.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_923136.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_114317.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20210722/1626935926_260481.jpg" alt="科幻游戏《天球飞升之城》今秋登陆Steam抢先体验" referrerpolicy="no-referrer"> 
+</p>          
+</div>
+            
