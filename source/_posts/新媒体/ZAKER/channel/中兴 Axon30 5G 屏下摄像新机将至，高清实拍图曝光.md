@@ -1,0 +1,18 @@
+
+---
+title: '中兴 Axon30 5G 屏下摄像新机将至，高清实拍图曝光'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f63bfb8e9f094791248a2a_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 21 Jul 2021 22:31:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f63bfb8e9f094791248a2a_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 7 月 22 日消息 全新一代屏下摄像手机 Axon 30 将于 7 月 27 日 19:00 发布，官方已进行多轮预热。该机将配备 120 Hz 高刷屏，像素密度达 400PPI，支持 100% DCI-P3 色域，以及 10.7 亿色，采用 "7 层高透材料，3 层特殊工艺，透光性更强 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60f63bfb8e9f094791248a2a_1024.jpg" data-height="475" data-width="822" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f63bfb8e9f094791248a2a_1024.jpg" referrerpolicy="no-referrer"></div></div>从官方的宣传来看，这将是一块优秀的屏幕，即使采用屏下前置摄像头，参数对比其他旗舰机也依然不落下风。<p></p><p>数码博主 @数码闲聊站 刚刚放出了该机的三张高清实拍图，包括正面的全部外观。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453c_1024.jpg" data-height="406" data-width="791" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453d_1024.jpg" data-height="959" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60f8ebe0b15ec0305753453e_1024.jpg" data-height="959" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f8ebe0b15ec0305753453e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453f_1024.jpg" data-height="959" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60f8ebe0b15ec0305753453f_1024.jpg" referrerpolicy="no-referrer"></div></div>从图中可以看到，中兴 Axon 30 屏下摄像手机确实看不出来前置摄像头的位置，堆叠部分已经隐藏得很好了。手机的下巴倒是不算很窄，这个大家见仁见智。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202107/60f8ebe0b15ec03057534540_1024.jpg" data-height="868" data-width="888" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60f8ebe0b15ec03057534540_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，根据此前的爆料与认证信息，中兴 Axon 30 5G 屏下摄像头手机配备 6.92 英寸 120Hz OLED 高刷屏，重量为 190g，厚度为 7.8mm，配备骁龙 870 处理器，内存有 6/8/12GB 三个版本，存储容量有 128/256/512GB 三个版本，前置 1600 万像素屏下摄像头，后置 6400 万 + 800 万 + 500 万 + 200 万像素四摄。该机拥有 4100mAh 电池，支持 55W 快充。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

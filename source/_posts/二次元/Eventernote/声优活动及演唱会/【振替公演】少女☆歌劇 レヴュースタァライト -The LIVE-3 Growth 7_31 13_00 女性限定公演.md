@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Eventernote
  - 声优活动及演唱会
-headimg: 'https://picsum.photos/400/300?random=4200'
+headimg: 'https://picsum.photos/400/300?random=5023'
 author: Eventernote
 comments: false
-date: 2021-07-22 06:08:26
-thumbnail: 'https://picsum.photos/400/300?random=4200'
+date: 2021-07-22 07:06:29
+thumbnail: 'https://picsum.photos/400/300?random=5023'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4200'
 開催場所 品川プリンスホテル ステラボール
 開場 2021-07-31 12:00
 開演 2021-07-31 13:00
-終演 2021-07-31 16:16
+終演 2021-07-31 15:15
   
 </div>
             
