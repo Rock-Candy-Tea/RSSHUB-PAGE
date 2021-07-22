@@ -1,0 +1,19 @@
+
+---
+title: '贝佐斯短暂的太空之旅也是Rivian的一次宣传活动'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/07/06476fc9403f412.png'
+author: cnBeta
+comments: false
+date: Thu, 22 Jul 2021 03:16:59 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/07/06476fc9403f412.png'
+---
+
+<div>   
+据外媒报道，经过多年的准备和数十亿美元的投资，亚马逊创始人杰夫·贝佐斯成为首批乘坐其另一家创办公司--蓝色起源制造的火箭前往太空边缘的人之一。实际上，这次活动本身还是贝佐斯推介亚马逊投资组合中第三笔投资的机会：电动汽车初创公司Rivian。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/06476fc9403f412.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/06476fc9403f412.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在当天的发射活动直播中，大家可以看到Rivian电动皮卡和SUV的身影。它们载着贝佐斯及其宇航员同伴们四处穿梭--考虑到亚马逊在领导并参与了多轮融资后、现在拥有这家电动汽车初创公司超10%的股份这些，这样的做法并不令人意外。蓝色起源的直播主持人也确保让所有在观看的人知道他们在看什么。</p><p style="text-align: left;">“宇航员来了。你可以看到，杰夫·贝佐斯在前面，Oliver Daemen走进了Rivian，”蓝色起源“宇航员和轨道销售”主管Ariane Cornell在直播中兴奋的说道。当时贝佐斯等人跳上了这家初创公司的一辆SUV，然后前往火箭发射点以展开他们的太空之旅。</p><p style="text-align: left;">一小时后，机组人员安全着陆，这些车又出现了：一组Rivian皮卡和SUV驶过德克萨斯州西部以迎接从太空边缘回来的宇航员。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/0d81796521007d9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/0d81796521007d9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/9a792707c2e5438.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/9a792707c2e5438.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/26e7be46692a1ea.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/26e7be46692a1ea.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/d8e5885b419be90.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/d8e5885b419be90.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/02793e4658afdd7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/02793e4658afdd7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/561979829f14f11.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/561979829f14f11.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/18b5d73388e4161.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/18b5d73388e4161.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/44bb14e9d6a75b8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/44bb14e9d6a75b8.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">出现在现场Rivian很可能是蓝色起源租来的，因为它们仍戴着制造商的牌子。而蓝色起源曾一度想利用一对Rivian皮卡上的滑出式露营<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Fcoll.jd.com%2Flist.html%3Fsub%3D1661" target="_blank">厨房</a>为出席发布会的客人烹制香肠和肉肠--这是初创公司在生产准备阶段大力推广的一个可选功能。<br style="text-align: left;"></p><p style="text-align: left;">蓝色起源是一家私人公司，跟不到两周前将创始人理查德·布兰森送上太空边缘的维珍银河很像，这次首次任务既是科学探索也是宣传。虽然布兰森的活动有一种音乐节的氛围，但蓝色起源的活动更符合贝佐斯的风格。这对他来说是个机会，因为他已经不再是亚马逊的CEO，所以他打算把时间花在这些事情上比如他的太空公司和他的气候基金，另外他还向亚马逊注入了大量资金的电动汽车公司Rivian投下了一笔钱。</p><p style="text-align: left;">据悉，Rivian最近将皮卡和SUV的首批交货时间推迟到了今年晚些时候。截止到目前，这家初创公司已经筹集到了80多亿美元的资金。与此同时，Rivian也已经证明了自己善于想出有效的连带推广。但Rivian目前正在准备IPO，因此这种企业协同效应的展示可能正中银行家们的手心。</p>   
+</div>
+            
