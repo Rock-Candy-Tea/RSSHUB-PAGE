@@ -1,0 +1,36 @@
+
+---
+title: '骁龙888 Plus加持！小米MIX 4曝光：首款柔性曲面屏下前摄机型'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210708/s_fbf8f82820384b05bd755d8532865b76.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Thu, 22 Jul 2021 16:31:47 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210708/s_fbf8f82820384b05bd755d8532865b76.jpg'
+---
+
+<div>   
+<p>据此前多方消息，小米将会在8月份召开新品发布会，推出重磅旗舰产品——小米MIX 4。</p>
+<p>这也是MIX系列常规旗舰时隔多年首次回归，并且依旧带着探索手机屏占比极限的任务归来，会首发小米的屏下摄像头技术，直接隐藏前置相机。</p>
+<p>今日，知名爆料博主@数码闲聊站 透露了关于该机的最新消息，<strong>他透露K8（网传小米MIX 4内部代号）将会是市面上第一款柔性曲面屏下前摄手机，底层的部分解决方案和目前已上市的屏下前摄手机并不相同，有一些独特的技术。</strong></p>
+<p>综合目前已知消息，<span style="color:#ff0000;"><strong>小米MIX 4将搭载TCL华星提供的6.67英寸无开孔双曲面显示屏，</strong></span>但由于屏下前摄技术的限制，并未像小米11系列那样标配2K分辨率，仅支持1080P。</p>
+<p>根据此前网友曝光的小米MIX4高清渲染图，其中显示该机正面完全无任何开孔，且左右两边的黑边极窄，上下两边也几乎对称，整机屏幕效果十分震撼，将再次刷新屏占比极限。</p>
+<p>配置方面，除了极致的屏幕探索之外，小米MIX4还将拥有顶级的性能表现，<strong>消息称该机将搭载骁龙888 Plus处理器，这也将成为全球首批上市的骁龙888 Plus机型。</strong></p>
+<p>另外，在充电规格方面，小米MIX 4也将带来更加顶级的配置，消息称该机将搭载5000mAh超大电池，应该与此前小米11超大杯上的硅氧负极电池类似，<strong>同时还将升级120W有线快充，以及70-80W无线快充，成为业内最高规格快充机型。</strong></p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20210708/fbf8f82820384b05bd755d8532865b76.jpg" style="color: red; text-decoration-line: none; font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", 濠电姵顔栭崰妤勬懌闂佽鎮傜粻鏍х暦閹邦兘鏀介悗锝庝簽椤斿﹪姊洪崨濠傚鐟滄澘鍟扮划濠囧煛閸涱喒鎷洪梺缁樺姌濡嫰宕濋妶鍛斀闁炽儱鍟块弳閬嶆懚閻愮儤鐓熼柟閭﹀枟閸も偓婵犵绱曢崗姗€寮诲鍫闂佸憡鎸诲畝鎼佸箖閻戣棄顫呴柕鍫濇噽閸旓箑顪冮妶鍡楀潑闁稿鎸婚妵鍕敃閿濆洤鈷岄梺绯曟櫇閸嬨倝寮婚妸鈺婃晬婵﹩鍋勯ˉ姘舵⒒娴ｅ憡鎯堥柛濠佺矙婵℃挳鏁撴禒瀣厱閻庯綆鍋呭畷宀勬煙椤旇娅婄€规洟浜堕獮鍥敆閿熻姤鎱ㄦ径鎰拺闂侇偆鍋涢懟顖涙櫠椤栫偞鐓冪痪顓㈩棑缁夘噣鏌熼鑲╀虎闁崇粯鎸鹃幑鍕Ω閵堝棗鈧綁姊绘担铏瑰笡缁炬澘绉堕崚鎺楁晲婢跺﹦顔嗛梺璺ㄥ櫐閹凤拷, STHeiti, "WenQuanYi Micro Hei", SimSun, sans-serif; font-size: 16px;" target="_blank"><img alt="第二代安卓之光稳了 小米MIX4最新渲染图曝光：真全面屏+灵动小窗" h="473" src="https://img1.mydrivers.com/img/20210708/s_fbf8f82820384b05bd755d8532865b76.jpg" style="border: 1px solid black; vertical-align: middle;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+          <p class="zhuanzai">转载请注明出处：快科技</p>  
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/pingxiashexiangtou.htm"><i>#</i>屏下摄像头</a><a href="https://news.mydrivers.com/tag/xiaomimix_4.htm"><i>#</i>小米MIX 4</a><a href="https://news.mydrivers.com/tag/xiaolong888_plus.htm"><i>#</i>骁龙888 Plus</a></p>
+<p class="url">
+     
+<span>责任编辑：建嘉</span>
+</p>
+        
+</div>
+            
