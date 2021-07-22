@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-410d947937694c443e39d224484b7afd_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=9435'
 author: 知乎
 comments: false
-date: Wed, 21 Jul 2021 23:46:34 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-410d947937694c443e39d224484b7afd_1440w.jpg'
+date: Wed, 21 Jul 2021 17:18:31 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9435'
 ---
 
 <div>   
-斩魂的回答<br><br><p>已经穷到这种地步了吗？团建要员工掏钱?</p><p>没这么大脚别穿这么大鞋啊？</p><p>没钱团什么建?</p><p>现在有几个员工乐意去团建?</p><p>短途团建，去那些去过无数次的地方，玩那么些老掉牙的团建项目，谁爱去谁去。</p><p>去远一点吧，又不是自助游，时间紧，舟车劳顿的，尤其是人一多，组织起来真叫一个累，不是这个听不见就是那个慢悠悠，总有人觉得自己是一匹野马，不听召唤。</p><p>如果碰到那种组织能力不强经验不足的组织者，大部分的时间都用来集合，整队和发布任务上了，于是又有人表示这个不好那个不行，叽叽喳喳开始重新讨论。</p><p>吃喝玩乐自己做不了主，还得跟人互动社交，对社恐人群来说简直是天灾。</p><p>就这，还一百个不乐意呢！</p><p>什么？还要自费?</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-410d947937694c443e39d224484b7afd_1440w.jpg" data-rawwidth="594" data-rawheight="598" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-ff215a28dd1a0dcb438b2e8862b7b7f3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-410d947937694c443e39d224484b7afd_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+SmallLong的回答<br><br><p>作为一个前阿里人，忍不住吐槽一下。首先内部虽然确实管这种外出叫outing，但是难道outing不也是团建的一种吗？不是只有吃饭才是团建的。而且这种我记得我那会部门只补贴800，通常玩自己承担2000到3000。</p><p>其次，虽然大家收入不低，但是大部分人还是很嫌弃这种每年强制的outing，毕竟是又要花钱还又累。而且大部分人也没法去自己真的想去的地方。说想不去就可以不去的，真的待过阿里吗？有一次我们有个小姐姐说身体不适请假，区域经理说只要腿没断就不能请假(不记得原话，大致差不多这个意思)，你也没办法，毕竟有几人不怕kpi啊</p><p>另外，平时团建(吃饭唱歌之类）也不少，其中有一部分真的需要我们自己a的。</p><p>吐槽归吐槽，还是感谢阿里，毕竟跳槽出来找工作还是挺容易的</p>  
 </div>
             
