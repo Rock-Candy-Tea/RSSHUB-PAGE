@@ -1,0 +1,18 @@
+
+---
+title: '中兴 Axon30 屏下摄像手机官方再次预热：采用 UDC Pro 屏显芯片'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fb_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 22 Jul 2021 22:27:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fb_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 7 月 23 日消息 中兴通讯终端事业部总裁倪飞在今日发微博为中兴 Axon30 屏下摄像手机预热，该手机采用全新独立 UDC Pro 屏显芯片对屏幕进行整体驱动，可做到智能增强像素、智能优化显示。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fb_1024.jpg" data-height="536" data-width="1347" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fb_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fc_1024.jpg" data-height="361" data-width="632" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fa39ef8e9f0921b27626fc_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，本次中兴的总裁倪飞还对屏下摄像技术做了一些科普，屏下区域像素密度越大显示效果就越好，但对光线的遮挡也越强，影响前摄成像。<p></p><p>中兴 Axon30 屏下摄像手机采用全新独立 UDC Pro 屏显芯片对屏幕进行整体驱动，新增的智能像素增强控制，智能优化显示控制做到了显示的协调统一，还采用的多驱 ACE 电路排布，相比上一代效率提升 50%。</p><p>同时，该手机还在屏下摄像区选用了特殊 OLED 和更透明的阴极、高透阵列，使用屏幕更加透光，最大限度地提升了透光率。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626fd_1024.jpg" data-height="769" data-width="815" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626fd_1024.jpg" referrerpolicy="no-referrer"></div></div>结合此前预热信息，中兴 Axon30 屏下摄像手机将配备 120 Hz 高刷屏，像素密度达 400PPI，支持 100% DCI-P3 色域。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626fe_1024.jpg" data-height="1119" data-width="817" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626fe_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，根据爆料信息，中兴 Axon 30 5G 屏下摄像头手机配备 6.92 英寸 OLED 高刷屏，重量为 190g，厚度为 7.8mm，搭载骁龙 870 处理器，内存有 6/8/12GB 三个版本，存储容量有 128/256/512GB 三个版本，前置 1600 万像素屏下摄像头，后置 6400 万 + 800 万 + 500 万 + 200 万像素四摄。该机拥有 4100mAh 电池，支持 55W 快充。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626ff_1024.jpg" data-height="451" data-width="812" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b27626ff_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b2762700_1024.jpg" data-height="497" data-width="812" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fa39ef8e9f0921b2762700_1024.jpg" referrerpolicy="no-referrer"></div></div>▲ 图片来自博主 @数码闲聊站，为中兴 Axon 30 屏下摄像手机的高清实拍图<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

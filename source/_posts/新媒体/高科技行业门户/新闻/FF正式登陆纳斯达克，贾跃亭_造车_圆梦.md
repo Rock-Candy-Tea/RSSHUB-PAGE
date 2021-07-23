@@ -1,0 +1,19 @@
+
+---
+title: 'FF正式登陆纳斯达克，贾跃亭_造车_圆梦'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/gasgoo/2021-07-23/de03bb4b4e5f2ad28e64db0d7c239440.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 23 Jul 2021 06:41:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/gasgoo/2021-07-23/de03bb4b4e5f2ad28e64db0d7c239440.png'
+---
+
+<div>   
+<p style="text-align: left; text-indent: 2em;">北京时间7月22日晚间，贾跃亭旗下法拉第未来Faraday Future（FF）正式登陆纳斯达克，股票代码为“FFIE”，盘前涨幅一度高达50％；上市首日开盘涨幅超22％。</p><p style="text-align: left; text-indent: 2em;"><strong>FF</strong><strong>上市获10</strong><strong>亿美元融资</strong></p><p style="text-align: left; text-indent: 2em;">FF在美上市，得益于其与Property Solutions Acquisition Corp．（PSAC）的合并交易。时间拨回到6月下旬，美国证券交易委员会（SEC）正式批准了PSAC与Faraday Future（FF）的合并上市计划。7月20日，FF对外宣布，其与PSAC合并交易方案获股东大会通过，双方业务合并完成后，99．91％的资金将留在PSAC的信托账户上，而FF预计在业务合并完成时获得约10亿美元资金。与此同时，PSAC将正式更名为＂ Faraday Future Intelligent Electric Inc．＂，登陆美国纳斯纳克交易所后，其股票代码为公司名称的缩写“FFIE”。</p><p style="text-align: left; text-indent: 2em;">如果说与PSAC合并是推动FF上市的直接因素，那么，在其背后还离不开产品和技术的支持。据FF方面介绍，自成立以来，FF完成了三电系统和I．A．I方面的技术创新，建立了以共创共享模式为核心的用户生态，以及合伙人机制的公司治理架构，并将品牌定位为“极智科技奢华的塔尖品牌”。</p><p style="text-align: left; text-indent: 2em;">其中，合伙人机制的治理架构由创始人贾跃亭建立，合伙人群体被成为“Futurist Alliance”（未来主义者联盟），由来自汽车、人工智能、互联网、IT和其他领域的数十位FF核心高管和员工，以及外部合伙人组成。此次出现在纳斯达克交易所现场为挂牌仪式上台敲钟的六位代表，就是来自不同领域的FF外部合作人。</p><p style="text-align: left; text-indent: 2em;">当然，FF顺利上市的核心推动力开离不开FF 91的推出。FF 91目前有FF 91未来主义者联盟版和FF 91未来主义者版两个版本。其中，FF 91 Futurist动力上可达1050匹马力，搭载了130千瓦时电池组，百公里加速不到2．4秒，同时还搭载了副驾流媒体视频显示技术、后排智能互联网系统、车内视频会议系统、智能无缝进入技术、FFID 人脸识别技术等，在动力和智能方面均有比较出色的表现。贾跃亭称FF 91 Futurist拥有无敌的产品力，是“目前全球唯一在产品和技术定位上领先整个行业的车型”，将实现对传统超豪华汽车品牌的颠覆。</p><p style="text-align: left; text-indent: 2em;">此次FF借壳上市，获得10亿美元的资金援助，也为其首款车型FF 91接下来的大规模量产和交付提供了足够的资金支持。在上市仪式现场，FF全球CEO毕福康宣布了全新FF 91 Futurist预订政策。其中首次公布的FF 91 Futurist Alliance Edition，全球限量300台，优先预订金额为5万人民币，选定的受邀用户会获得预订资格。</p><p style="text-align: left; text-indent: 2em;">据FF方面透露，现阶段，FF已经全面启动了FF 91 Futurist的量产交付倒计时工作，随着IPO的完成，FF 91 Futurist的量产交付将从生产制造、供应链、用户生态等维度全方位进入冲刺阶段。毕福康表示将争取在12个月内交付FF 91 Futurist。</p><p style="text-align: left; text-indent: 2em;"><strong>7</strong><strong>年完成11</strong><strong>次融资</strong></p><p style="text-align: left; text-indent: 2em;">回顾贾跃亭创办FF以来的融资历程，自2015年获得乐视网数千万美元的天使轮融资后，截至此次因并购PSAC上市而获得的10亿美元资金支持，其共计公开进行了11次融资，其中恒大集团和珠海国资分别投资20亿美元。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/gasgoo/2021-07-23/de03bb4b4e5f2ad28e64db0d7c239440.png" alt="FF上市,贾跃亭,FF 91" title="FF上市,贾跃亭,FF 91" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">FF融资情况一览（信息来源：企查查）</p><p style="text-indent: 2em; text-align: left;">不过，业内传闻称包括恒大在内的投资方并没有给FF“足额”的投资。就在FF准备IPO前夕，一份文件显示，原定投资FF的中国一线城市发出通知，称因外汇原因导致无法完成此次投资，其拥有的投资额度已转让给相关投资机构。这里的“一线城市”投资方被确认为是珠海国资。不过，FF之后的最新公告显示，新投资机构已完成投资协议签订，并在规定时间内打款。</p><p style="text-indent: 2em; text-align: left;">自2016年乐视出现资金链断裂后，贾跃亭因躲避债务前往美国，为其最后的造车梦孤注一掷。2017年至今，FF经历数次低谷，但每次似乎都能绝处逢生。去年7月，贾跃亭完成了个人破产重组，因此FF融资过程中的最大障碍也得以解除，其造车项目也进入实质性推进阶段。之后，贾跃亭继续以创始人和CPUO的身份推动FF上市及产品交付。</p><p style="text-indent: 2em; text-align: left;">业内资深分析人士认为，FF此次顺利IPO，也意味着贾跃亭的债权人信托资产未来可能快速增值，为最大化债权人利益迈出了实质性的一步。虽然在造车的路上遭遇诸多坎坷，但FF如今顺利上市，贾跃亭的梦想也在一定程度上“照进”了现实。</p><!--<p class="statement"><span>*</span>版权声明：本文为盖世汽车原创文章，如欲转载请遵守 转载说明相关规定。违反转载说明者，盖世汽车将依法追究其法律责任!</p><p class="notice">本文地址：http://auto.gasgoo.com/News/2019/05/300656465646I70107904C601.shtml</p>--><p style="text-indent: 2em; text-align: left;">＊版权声明：本文为盖世汽车原创文章，如欲转载请遵守 转载说明 相关规定。违反转载说明者，盖世汽车将依法追究其法律责任！</p><p style="text-indent: 2em; text-align: left;">来源：盖世汽车</p> 
+  
+</div>
+            
