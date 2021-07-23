@@ -1,0 +1,18 @@
+
+---
+title: 'Airbnb raises violent crime rates in cities as residents are pushed out'
+categories: 
+ - 编程
+ - Hacker News
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=3043'
+author: Hacker News
+comments: false
+date: 2021-07-23 08:08:27
+thumbnail: 'https://picsum.photos/400/300?random=3043'
+---
+
+<div>   
+Link: <a href="https://www.euronews.com/next/2021/07/15/airbnb-raises-violent-crime-rates-in-cities-as-long-term-residents-are-pushed-out-says-us-"> Airbnb raises violent crime rates in cities as residents are pushed out </a>  
+</div>
+            
