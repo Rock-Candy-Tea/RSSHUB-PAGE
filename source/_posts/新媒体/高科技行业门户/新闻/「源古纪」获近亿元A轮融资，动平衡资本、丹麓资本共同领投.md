@@ -1,0 +1,19 @@
+
+---
+title: '「源古纪」获近亿元A轮融资，动平衡资本、丹麓资本共同领投'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/cyzone/2021-07-22/f5cb9e366f33ac81954fd000c98d0a66.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 23 Jul 2021 03:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/cyzone/2021-07-22/f5cb9e366f33ac81954fd000c98d0a66.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">创业邦获悉，广州源古纪科技有限公司（以下简称“源古纪”）近日宣布完成近亿元A轮融资，本轮融资由动平衡资本、丹麓资本共同领投，主营呼吸药物的A股上市公司江苏吴中医药发展股份有限公司（股票代码:600200）作为战略合作方跟投。本轮融资所得主要用于医学检验所、GMP车间厂房、院内本地化应用中心的建设以及<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>器械产品注册证申报等方面，加速推进mNGS和LDT本地化解决方案，赋能区域中心医院呼吸专科高水平发展。</p><p style="text-indent: 2em; text-align: left;">2019年成立的源古纪，创始团队拥有5年的全方位团队建设合作经历，在市场和运营领域拥有10余年的跨行业成功经验。基于政策走向及创始团队对行业的思考，源古纪敏锐发现了感染性疾病病原体检测这一市场机遇。</p><p style="text-indent: 2em; text-align: left;">资料显示，在中国，每年由细菌或病毒等病原体引起的感染逾2亿人次，其中进行病原体感染检测的患者超过5000万例/年。根据世界卫生组织（WHO）发布的数据，患感染性疾病死亡人数占全球死亡总人数的19%。在各类传染性疾病中，又以呼吸道传染疾病的传染性最强，其重症感染具备起病急、进展快、病原体复杂等特点，能否更快速准确的检测出致病病原微生物至关重要。</p><p style="text-indent: 2em; text-align: left;">目前，测序技术在中国的发展速度非常快，因不同的疾病表征，检测方式并不相同，如何将技术与临床进行具体结合成为难点，而全流程为临床服务优化的程度，则直接决定了不同解决方案之间的差距。</p><p style="text-indent: 2em; text-align: left;">作为一家以呼吸感染赛道为核心的科技创新企业，源古纪提供以分子检测为主（包括但不限于mNGS、二代、三代测序)，包含检测、产品、设备、技术、解读、会诊、科研、药物、治疗等全流程的呼吸感染临床整体解决方案。</p><p style="text-indent: 2em; text-align: left;">作为广州呼吸健康研究院的平台技术支持公司，源古纪联合广州呼吸健康研究院共同进行临床专业服务支持、仪器和诊断试剂研发并报CFDA证；同时以呼吸感染方向的产品为抓手，利用团队在报证工作上的经验和优势推动检测产品的产业化、标准化，在推动整个分子赛道全产业链国产化的同时实现呼吸精准医学与检测产品产业转化。</p><p style="text-indent: 2em; text-align: left;">在绍兴政府的厂房租赁补助、GMP车间建设、实验室平台补助、产业基金支持、人才引进支持、医疗资源对接等一系列政策支持下，源古纪已在绍兴启动GMP洁净车间建设工作，后续将设立试剂注册证申报中心，并以该中心落地部分产业转化工作。</p><p style="text-indent: 2em; text-align: left;">以呼吸感染赛道为核心的源古纪，深谙专科建设发展是未来医疗市场的重点发展方向，在国家呼吸系统疾病临床医学研究中心的支持下，为合作的区域中心医院提供临床呼吸专业指导和专业医疗技术支持，进行本地实验室、精准医学检测、科研合作平台、生物样本库、人才培养等临床服务合作，同时推进LDT本地化解决方案，建立长期合作机制。</p><p style="text-indent: 2em; text-align: left;">目前，源古纪已与全国多家顶级医疗机构成功签约并共同推进本地化应用中心的建设。</p><p style="text-indent: 2em; text-align: left;">未来，源古纪将紧贴临床需求，配合呼吸感染专科发展需求，以分子检测中心为载体，生物样本库为数据支持，加速推进mNGS本地化解决方案，帮助区域中心医院建设LDT实验室，提升呼吸专科高水平发展，助力临床感染精准诊疗。</p><p style="text-indent: 2em; text-align: left;">动平衡资本投资团队表示，很荣幸能参与源古纪科技的本轮融资，完成在病原微生物分子诊断赛道的一次重要投资布局，我们非常看好以董事长保伟为首的源古纪团队，这是一个富有激情、敢拼敢干且在分子诊断领域有多年研发管理经验的优秀团队，他们正努力以宏基因组测序技术为切入点、丰富拓展其他分子技术平台，致力于解决更快更准为感染患者进行病原微生物诊断的临床需求，公司也得到很多业内资深临床专家的认可和支持。动平衡资本作为源古纪科技的第一个机构投资人，将坚持做“保姆式”的投资人，不忘初心和使命，在分子诊断领域与团队共同砥砺前行。</p><p style="text-indent: 2em; text-align: left;">丹麓资本创始及执行事务合伙人陆勤超女士表示：“呼吸病原检测领域潜力巨大，源古纪管理团队综合素质优秀、执行力强，拥有完整的上下游产业链整合能力、服务网络建设经验，并与广州呼吸健康研究院有着长期的临床合作。作为A轮联合领投方，丹麓非常看好该领域的发展，也对公司未来充满信心。”</p><p style="text-indent: 2em; text-align: left;">江苏吴中副总经理张帅鑫表示：“作为主营呼吸抗病毒药物的产业方，我们坚定看好分子检测在呼吸感染赛道的应用。呼吸感染相关患者的治疗中，诊断极其重要，快速、高通量分子技术在这一领域已显现出卓越的潜能。源古纪在呼吸感染赛道以创新为驱动，针对合适场景提供了极具潜力的独特全方位解决方案。我们看好源古纪团队在呼吸感染领域持续的创造力以及丰富的产业经验，期待源古纪的平台技术和系列产品早日为患者带来新的临床选择。”</p><p style="text-indent: 2em; text-align: left;">源古纪创始人、董事长兼CEO保伟表示：“由衷感谢本轮投资方的认可和信任，在投资方和各方合作机构的支持下，源古纪将加快行业布局，持续深耕呼吸感染赛道，助力专科<span class="hrefStyle"><a href="http://medical.ofweek.com/2016-07/ART-11105-8420-30004436.html" target="_blank" title="精准医疗">精准医疗</a></span>时代！”</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">附</span></strong></p><p style="text-indent: 2em; text-align: left;">源古纪融资历程：</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/cyzone/2021-07-22/f5cb9e366f33ac81954fd000c98d0a66.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">来源：创业邦-睿兽分析                                     </p> 
+  
+</div>
+            
