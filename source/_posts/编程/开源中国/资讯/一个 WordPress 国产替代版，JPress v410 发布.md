@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/JPressProjects/jpress/raw/master/doc/images/screenshot.png'
 author: 开源中国
 comments: false
-date: Fri, 23 Jul 2021 01:52:00 GMT
+date: Fri, 23 Jul 2021 09:51:00 GMT
 thumbnail: 'https://gitee.com/JPressProjects/jpress/raw/master/doc/images/screenshot.png'
 ---
 

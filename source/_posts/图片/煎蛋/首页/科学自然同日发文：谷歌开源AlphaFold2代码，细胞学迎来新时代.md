@@ -30,6 +30,9 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/8
 <p>今年，DeepMind再接再厉，又升级优化了算法，推出AlohaFold2——比上一版快16倍，或将给细胞和蛋白质科学领域带来一场革命。同时，他们彻底打消了生物学家的疑虑，上周直接宣布：公开AlohaFold2的源代码。</p>
 <p>华盛顿大学蛋白质设计中心则迅速跟进，也开源了RoseTTFold的代码。</p>
 <p><em><br>
-本文结合去年的译文和今年Nature的报道而成</em></p>  
+本文结合去年的译文和今年Nature的报道而成</em></p>
+<p>但事情还没有完。就在本文发出不久，谷歌DeepMind和欧洲分子生物学实验室(EMBL)的研究人员又完全开放了他们利用AI发现的蛋白质的数据库。这一做法实质上让科学界已知的蛋白质类型数量一夜之间翻了一番。</p>
+<p><img src="https://cors.zfour.workers.dev/?http://wx3.sinaimg.cn/large/a1262f29ly1gsqoi8ng21g20sg0bj7wj.gif" alt="科学自然同日发文：谷歌开源AlphaFold2代码，细胞学迎来新时代" referrerpolicy="no-referrer"><br>
+A protein model in the database. (DeepMind/YouTube)</p>  
 </div>
             
