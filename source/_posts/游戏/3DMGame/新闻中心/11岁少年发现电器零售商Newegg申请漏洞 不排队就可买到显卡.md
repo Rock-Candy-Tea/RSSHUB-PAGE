@@ -30,7 +30,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210724/1627096452_7898
 <strong>以下是具体流程：</strong> 
 </p>
 <p style="text-align:center;">
-<iframe frameborder="0" width="680" height="458" src="https://v.qq.com/txp/iframe/player.html?vid=f3262ozxidc" allowfullscreen="true">
+<iframe src="https://v.qq.com/txp/iframe/player.html?vid=f3262ozxidc" allowfullscreen="true" width="680" height="458" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
