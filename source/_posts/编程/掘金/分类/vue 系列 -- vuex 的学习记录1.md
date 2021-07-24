@@ -29,6 +29,9 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/abacc6327d8f451381
 </blockquote>
 <p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/705c6a98528845db88eee45f1f2bb676~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>也就是说，开发大型单页应用的时候使用 vuex 能够更好地解决问题</p>
+<blockquote>
+<p><strong>比如</strong>：做商城项目时，用户在商品详情页点击<code>加入购物车</code>按钮，则应用需要把该商品的数据整块打包给 state 里面，然后<code>购物车列表页</code>再从 state 里面拿去该商品的数据然后显示出来</p>
+</blockquote>
 <h2 data-id="heading-2">用 vue 去类比 vuex</h2>
 <p>我们用 vue 去类比 vuex 会更加的好理解一点，这里借用 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fblog.csdn.net%2Fsinat_23958625%2Farticle%2Fdetails%2F88365986" target="_blank" rel="nofollow noopener noreferrer" title="https://blog.csdn.net/sinat_23958625/article/details/88365986" ref="nofollow noopener noreferrer">通俗理解vuex原理---通过vue例子类比</a> 这篇文章来解读</p>
 <p><strong>先来看一个简单的 vue 响应式的例子</strong></p>
