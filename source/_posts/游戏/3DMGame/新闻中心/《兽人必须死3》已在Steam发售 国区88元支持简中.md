@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210724/1627084654_3101
 3）》<a href="https://store.steampowered.com/app/1522820/Orcs_Must_Die_3/" target="_blank">现已在Steam发售</a>，国区定价88元，支持简体中文。截止到发稿时，本作在Steam上获得“多半好评”，好评率73%。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_310185.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_310185.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在玩家翘首以盼的《兽人必须死！》续作中，玩家可以使用武器和陷阱对付来犯的兽人大军。切碎它们！烧焦它们！电击它们！
@@ -59,13 +59,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210724/1627084654_3101
 拼尽全力活下去——在新的攀登模式里，你将面对更加凶暴、恶毒花样更多的兽人。每多撑过一关，就可以得到新的加成！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_881990.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_881990.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 系统需求
 </h3>
 <p style="text-indent:2em;">
-<strong>最低配置:</strong>
+<strong>最低配置:</strong> 
 </p>
 <p style="text-indent:2em;">
 需要 64 位处理器和操作系统
@@ -86,7 +86,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210724/1627084654_3101
 存储空间: 需要 12 GB 可用空间
 </p>
 <p style="text-indent:2em;">
-<strong>推荐配置:</strong>
+<strong>推荐配置:</strong> 
 </p>
 <p style="text-indent:2em;">
 需要 64 位处理器和操作系统
@@ -107,7 +107,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210724/1627084654_3101
 存储空间: 需要 12 GB 可用空间
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_216825.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210724/1627084654_216825.jpg" alt="《兽人必须死3》已在Steam发售 国区88元支持简中" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
