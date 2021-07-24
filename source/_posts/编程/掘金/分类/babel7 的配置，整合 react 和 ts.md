@@ -31,8 +31,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/043189bc706245ab87
 <li>在配置里面 "useBuiltIns": "usage", "corejs": 3，就表示引入了 @babel/polyfill</li>
 </ul>
 <blockquote>
-<p>npm i @babel/plugin-transform-runtime -D
-npm install @babel/runtime -S</p>
+<p>npm i @babel/plugin-transform-runtime -D</p>
+</blockquote>
+<blockquote>
+<p>npm install @babel/runtime -S</p>
 </blockquote>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b68f0aec06244e7d9f8d7cd31995e261~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>上面这个才是最终解法。</p>
