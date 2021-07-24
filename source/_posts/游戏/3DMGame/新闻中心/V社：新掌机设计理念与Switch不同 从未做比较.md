@@ -41,7 +41,7 @@ Coomer说道：“我们试图在Steam Deck上作出的所有设计决定都针�
 <img src="https://img.3dmgame.com/uploads/images/news/20210724/1627109813_501218.png" alt="V社：新掌机设计理念与Switch不同 从未做比较" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-Gabe还表示，最终无论一个人是更喜欢Swtich还是Steam Deck，都取决于他的权衡。他觉得在这款设备上能玩到《生化危机：村庄》给人一种“超自然的感觉”。V社程序员Pierre-Loup Griffais补充说，V社专注于提供增强玩家与Steam游戏库之间互动方式的“最佳解决方案”。
+Gabe还表示，最终无论一个人是更喜欢Switch还是Steam Deck，都取决于他的权衡。他觉得在这款设备上能玩到《生化危机：村庄》给人一种“超自然的感觉”。V社程序员Pierre-Loup Griffais补充说，V社专注于提供增强玩家与Steam游戏库之间互动方式的“最佳解决方案”。
 </p>          
 </div>
             
