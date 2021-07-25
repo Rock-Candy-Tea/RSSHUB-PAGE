@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210725/1627183066_993186.jpg'
 author: 3DMGame
 comments: false
-date: Sun, 25 Jul 2021 03:18:00 GMT
+date: Sun, 25 Jul 2021 03:42:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210725/1627183066_993186.jpg'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210725/1627183066_9931
 《高达：进化》是PC平台（Windows 10）免费第一人称射击游戏，玩家可以从系列中选择自己最喜欢的机体，展开6v6的厮杀。
 </p>
 <p style="text-indent:2em;">
-游戏中拥有三种模式，分别是占点、统治和摧毁，支持语音聊天。<span></span>
+游戏中拥有三种模式，分别是占点、统治和摧毁，支持语音聊天。<span></span> 
 </p>
 <p style="text-indent:2em;">
 现在已经公布的机体有RX-78-2高达、RX-80PR苍白骑士、MS-06扎古II、ASW-G-08巴巴托斯高达、MSN-04沙扎比、MSA-005梅塔斯、RGM-79SP狙击型吉姆II、NRX-044亚希玛、ZGMF-XX09T大魔骑兵、WD-M01倒A高达、RX-75钢坦克和RGM-79吉姆。
@@ -38,40 +38,40 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210725/1627183066_9931
 游戏截图：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_993186.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_993186.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_513442.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_513442.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_770058.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_770058.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_169626.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_169626.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_955366.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_955366.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_827363.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_827363.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_445970.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_445970.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_403356.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_403356.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_149151.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183066_149151.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_246602.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_246602.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_238474.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_238474.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_504360.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627183067_504360.jpg" alt="《高达：进化》发布新截图 展示大魔骑兵与倒A高达" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
