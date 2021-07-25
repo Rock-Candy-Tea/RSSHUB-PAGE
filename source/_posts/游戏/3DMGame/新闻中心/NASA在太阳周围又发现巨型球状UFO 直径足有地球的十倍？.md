@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210725/1627216320_2477
 太阳是人类最熟悉的天体，地球正是因为太阳带来的光芒和温暖才有了万物的生长，直到近几年科学家才开始对太阳进行观测和探索，然而公布出来的观测图像中却总会有一些奇怪的事物出现，甚至发现有巨大的不明物体能在太阳表面自由出入，事实上关于太阳附近观测到UFO的事件由来已久，但NASA并没有对太阳周围出现的奇怪物体进行过解释。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627216320_247765.jpg" alt="NASA在太阳周围又发现巨型球状UFO 直径足有地球的十倍？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627216320_247765.jpg" alt="NASA在太阳周围又发现巨型球状UFO 直径足有地球的十倍？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在最近公开的太阳观测视频中，有人发现有巨大的球状不明物体快速进入到画面中，根据球状物体与太阳的比例来看，巨大的体积甚至是远远超过地球的，而且从移动的速度来看，在太阳系里没有任何天体能达到如此快的速度，那么这个巨型球状物体到底是什么呢?
@@ -29,7 +29,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210725/1627216320_2477
 在几年前人们就观测到在太阳表面有神秘球状物体短暂停留，而且看起来球状UFO似乎正从太阳上吸取能量，由于球状UFO的体积十分庞大，很难想象这枚比地球还要大很多的球状物体会是人造飞行器，不过与最新观测到的直径有12万公里的球形物体进行比较，就会发现两者的体积非常接近，有可能就是同一个球状UFO。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627216332_345574.jpg" alt="NASA在太阳周围又发现巨型球状UFO 直径足有地球的十倍？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210725/1627216332_345574.jpg" alt="NASA在太阳周围又发现巨型球状UFO 直径足有地球的十倍？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在近几年人们已经多次发现太阳表面有神秘的光柱，虽然看不到光柱的另一端连接着什么，但能肯定不是太阳表面的自然现象，有人认为有智慧文明的飞行器在太阳表面补充能量，科学家在上世纪就提出了“卡尔达舍夫文明等级”的概念，指出当文明的科技发展到第二个等级时，就会依靠宇宙中无处不在恒星来提供能量，当然科技已经达到能基本无视来自恒星的高温炙烤。

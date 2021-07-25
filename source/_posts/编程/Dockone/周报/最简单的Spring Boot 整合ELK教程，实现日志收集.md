@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210725/370163806003046e61e903f25745ab40.jpg'
 author: Dockone
 comments: false
-date: 2021-07-25 13:12:15
+date: 2021-07-25 14:06:25
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210725/370163806003046e61e903f25745ab40.jpg'
 ---
 
@@ -299,7 +299,7 @@ ports:<br>
 <br>有了ELK，我们只需要在输入框中，轻松输入关键字，敲下回车，需要的数据就会呈现在我们面前。<br>
 <br>测试小姐姐等待的时间短了，心情好了，矛盾自然也就少了。<br>
 <br>如此想来，如果能有一个平台，将女友的十万个情绪爆发的原因实时展现出来，那世界将是多么美好的明天！<br>
-<br>原文链接：<a href="https://mp.weixin.qq.com/s/4lpM7DcpMq0e4lvhhL2yx" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4lpM7DcpMq0e4lvhhL2yx</a>
+<br>原文链接：<a href="https://mp.weixin.qq.com/s/4lpM7DcpMq0e4lvhhL2yxg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4lpM7DcpMq0e4lvhhL2yxg</a>
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>
                                 
