@@ -68,7 +68,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/417c0e5af84a47889e
         <span class="hljs-comment">// 布局属性就是设置一行几列表单，表单label宽高等等ui属性</span>
         <span class="hljs-comment">// 可以看到我们是把ui属性和逻辑上表单属性解耦了的</span>
         <span class="hljs-comment">// 本篇文章不会涉及到这个属性</span>
-        <span class="hljs-attr">layoutOptions</span>: &#123; <span class="hljs-comment">// 留给和面的布局组件属性</span>
+        <span class="hljs-attr">layoutOptions</span>: &#123; <span class="hljs-comment">// 留给后面拓展的布局组件属性</span>
             <span class="hljs-comment">// label: xx</span>
         &#125;, 
         <span class="hljs-comment">// 组件名，这里'input'会被转化为ant的Input组件</span>
