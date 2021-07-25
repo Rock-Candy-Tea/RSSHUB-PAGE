@@ -1,0 +1,18 @@
+
+---
+title: 'Matters追剧指南｜凪的新生活'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/03c7635c-fd48-42ca-9d2d-47a62988c55f.jpeg'
+author: Matters
+comments: false
+date: Sat, 24 Jul 2021 05:33:51 GMT
+thumbnail: 'https://assets.matters.news/embed/03c7635c-fd48-42ca-9d2d-47a62988c55f.jpeg'
+---
+
+<div>   
+<p>『凪的新生活』是日本漫畫家コナリミサト於2016年的作品，2019年由日本 TBS 電視台改編成電視劇，原劇的日語為『凪のお暇』。</p><p>這齣戲劇屬於輕鬆小品，演員、編導、製作非常認真，獲得了日劇學院賞第102回(7月到9月)的四個大獎喔！</p><p>日劇學院賞是日本電視情報週刊《The Television》自1994年4月起，以一季為單位，舉辦的電視劇評鑑，評選作品為前一季曾播出5集以上的電視劇。</p><p>『凪的新生活』獲得了<strong>最優秀作品獎</strong>、<strong>最佳女主角獎</strong>、<strong>最佳男配角獎</strong>、<strong>最佳導演獎</strong>等四項學院賞的大獎，是不是很吸引人呢~<br class="smart"><br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/03c7635c-fd48-42ca-9d2d-47a62988c55f.jpeg" data-asset-id="03c7635c-fd48-42ca-9d2d-47a62988c55f" referrerpolicy="no-referrer"><figcaption><span>圖片來源~ 日本 TBS 官網，三位主要的演員。</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/54774195-667b-4a5f-b959-01877427c7d5.jpeg" data-asset-id="54774195-667b-4a5f-b959-01877427c7d5" referrerpolicy="no-referrer"><figcaption><span>圖片來源~ 日本 TBS 官網</span></figcaption></figure><p>這部戲劇的內容，主要是描述了28歲上班族大島凪（黑木華 飾演），因為個性和善、不擅長拒絕別人的要求、自然地養成了察言觀色的習慣，經常過度在意他人的眼光，努力的迎合周遭的人，想成為受歡迎的人物。<br class="smart"></p><p>劇中的凪天生捲髮，為了符合日本社會對 OL 的僵化期待，甚至每天早起，將自己的頭髮燙直。鹹鹹心裡還疑惑為什麼不去離子燙咧？</p><p>某天，凪不小心聽到同事在私底下說自己的壞話，又在無意間聽到祕密交往的男友與朋友的對話，前男友除了不願意承認兩人的關係，甚至說了讓凪不舒服的話，凪因此大受打擊，引發「過度換氣」的症狀而暈厥了。<br class="smart"><br class="smart">於是，凪在極度憤怒、傷心之餘，下定決心放自己一個長假，展開了追尋自我的新生活。<br class="smart"></p><p>凪鼓起勇氣，無預警的提出了辭呈，將多數的家當全部丟掉，手機門號也停掉，斷絕與其他人的聯繫方式，一個人搬到東京郊外的鄉下居住。<br class="smart"><br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/33ba45a7-9b5b-4010-bc2c-ffb5563e7cd8.jpeg" data-asset-id="33ba45a7-9b5b-4010-bc2c-ffb5563e7cd8" referrerpolicy="no-referrer"><figcaption><span>圖片來源~ 日本 TBS 官網</span></figcaption></figure><p>這部戲劇描述了社會上很普遍、存在在你我之間『讀空氣』的氛圍。讀空氣，簡單來說就是察言觀色的行為及思考。<br class="smart">我們常常在想著，怎麼做才能滿足父母、小孩的需求，怎麼做才能讓公司的同事、上司都滿意，怎麼做才能成功地包裝自己。<br class="smart"><br class="smart">為了使自己能融入環境並且符合期待，大部分的人，努力地揣測著彼此的心思，每個人都想呈現最完美的一面，費盡心思討好周遭的人，甚至卑微到只希望自己不是被指責的破壞分子就好。<br class="smart"></p><p>因為太努力的讀空氣，常常聽不到『自己』心裡的聲音，鮮少為自己著想。<br class="smart">壓力與疲憊感蓄積久了，如果沒有適當的宣洩，很容易情緒能量突然的破表，就像氣球被撐破了一樣，一發不可收拾。</p><p><br class="smart"><strong>『凪』這個字很有趣，由「風」跟「止」兩個字組成，讀音 ㄓˇ，是日本的「和製漢字」，有「風平浪靜」的意思。</strong></p><p><strong>凪在自我放逐、尋求自我的過程中，開始認真的思考，要成為什麼模樣的自己。<br class="smart">而劇情到最後，凪放完這段長假，不管是回到大城市繼續生活，跟哪個男主角在一起或不在一起，都不重要了。<br class="smart">凪認真的面對了自己，找到了自己新的力量，相信她已經不一樣了。<br class="smart"></strong></p><p><strong><br class="smart">鹹鹹在想，要說服某些責任心、道德感比較重的朋友『為自己著想』，真是一件不容易的事情。<br class="smart"></strong></p><p><strong>鹹鹹周遭的人，就有好幾個這種類型的朋友。<br class="smart">他們在日常生活中，承受著家庭、工作與社會的巨大壓力，在理想與現實的拉鋸中，不斷地糾結與撕裂著。<br class="smart"></strong></p><p><strong>有時候我們為了陪伴情緒低落的朋友，使盡渾身解數，好不容易拐了去看場電影、騙著去喝杯咖啡，他都要偷偷摸摸的，不敢大肆聲張光明正大，更何況要對方練習「拒絕別人不合理的要求」呢！<br class="smart">每個人的狀況不同，這種事情也是勉強不來，只能盡量在對方需要的時候，提供安心的休憩角落吧。<br class="smart"><br class="smart">說實話，很多時候，鹹鹹自己都無法做到這樣的隨心所欲。<br class="smart">而努力不懈地堅持做自己想做的事情，不被其他人的想法、責任與道德的束縛而影響，真的是很困難的事情。<br class="smart"><br class="smart">不過呢～就像凪的「下定決心開始做」一樣，提起勇氣試試看，練習看看吧！<br class="smart"></strong></p><p><strong>透過不斷的練習，做自己真心喜歡的事情 ，先喜歡自己，才能讓別人也真誠的喜歡上你。<br class="smart">練習不要過度的『讀空氣』，讓自己成為能夠替身邊的人創造美味空氣的人。<br class="smart">風吹起來的時候，我們迎接風的吹拂。風停下來的時候，享受風平浪靜的靜謐。<br class="smart"><br class="smart"></strong></p><p><strong>這部戲劇，凪的新生活，推薦給生活中不停地『讀空氣』的朋友們。</strong></p>  
+</div>
+            
