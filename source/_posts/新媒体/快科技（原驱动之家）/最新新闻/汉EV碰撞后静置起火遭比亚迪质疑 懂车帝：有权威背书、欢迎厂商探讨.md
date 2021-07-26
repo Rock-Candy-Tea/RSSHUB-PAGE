@@ -18,7 +18,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210726/s_ddf2e5fb1a3849c3bd6cabed33
 <p class="newsinfo_vedio" style="text-align: center;"><a class="mydrivers_player" href="https://weibo.com/6231983429/Kql2DyWGg">视频</a></p>
 <p>懂车帝节目组认为，刀片电池只做电池单体穿刺的结果，无法代表电池装车成组后的安全性能，不然这次起火的应该是三元锂电池。</p>
 <p>由于选取的车型关注度特别高，尤其是比亚迪汉EV，结果又是如此“意外”，视频随即引发广泛热议和讨论。</p>
-<p>比亚迪方面<a class="f14_link" href="https://news.mydrivers.com/1/771/771757.htm" target="_blank">第一时间回应表达了质疑</a>，包括<strong>测试方法和标准非主流、非权威且存在诸多疑点，比如测试车辆汉EV的冷却液是红色，非比亚迪独有的紫色</strong>，若是更换导电性冷却液会因碰撞泄露造成短路燃烧。比亚迪成，将安排技术人员现场勘查及疑点排查。</p>
+<p>比亚迪方面<a class="f14_link" href="https://news.mydrivers.com/1/771/771757.htm" target="_blank">第一时间回应表达了质疑</a>，包括<strong>测试方法和标准非主流、非权威且存在诸多疑点，比如测试车辆汉EV的冷却液是红色，非比亚迪独有的紫色</strong>，若是更换导电性冷却液会因碰撞泄露造成短路燃烧。比亚迪称，将安排技术人员现场勘查及疑点排查。</p>
 <p>26日上午，懂车帝APP官方就此做出回应声明，全文如下：</p>
 <p>声明</p>
 <p>《懂车试验场》最新一期节目播出后，引发多方关注，我们在此针对相关疑问作出回应：</p>

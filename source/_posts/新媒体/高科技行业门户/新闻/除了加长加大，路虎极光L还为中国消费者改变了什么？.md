@@ -1,0 +1,19 @@
+
+---
+title: '除了加长加大，路虎极光L还为中国消费者改变了什么？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103726266989.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 26 Jul 2021 06:00:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103726266989.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">在这个中国汽车消费崛起的时代，唯有真正做到“在中国为中国”的品牌才有可能在这个全球数一数二的汽车市场立足，路虎也不例外。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103726266989.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">为此，路虎品牌在今年6月推出了针对中国市场的加长版车型路虎揽胜极光L，在这个L背后，路虎品牌到底读懂了中国消费者多少呢？让我们用真实的试驾体验来验证。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103726164881.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">首先从外表上看，首发版车型提供的贝尔维亚绿车身／纳尔维克黑车顶的外观配色以及浅牡蛎／檀木黑的座椅内饰配色格外亮眼，有种置身森林的幽深感，这种设计男女皆宜，尤其符合文艺青年气质。此外，全新StarLite高级灰外观饰件以及与车身设计融为一体的高级灰尾灯，也十分凸显典雅的英伦风。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103727715985.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">然后，就是L所意味着的最明显的变化——极光L轴距较原版本增加160毫米，提升至2841毫米；后排座椅的腿部空间由原先的859毫米提升至1015毫米，这对于高个用户明显更加友好，空间舒适感相比原款无疑是得到了明显提升。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103728308607.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外，加厚处理的后排座椅，采用了飞翼式头枕并具备电动无级靠背角度调节功能（前倾5度／后仰7度），大大增加了坐姿的自由度和舒适度。为了增加实用性，新车还在后排中央扶手增加了隐藏式杯托以及内置储物盒。此外，升级后的三区空调增加了后排调节按钮，隔热的全景天窗、全系标配的后排隐私玻璃等配置，都在细节上提高了乘坐的舒适度。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103729817402.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">值得一提的是，紧跟时代需求，极光L全车使用了可循环利用的环保材料，全系标配带PM2．5过滤器的负离子空气净化系统，并实时显示车内外PM2．5指数。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103730972760.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不过，过于深陷的坐垫，会让你想要坐姿前挪的时候有点吃力，或许这个设计就是为了让大家安稳地靠在后排休息的。此外，全车并未设置防晃拉手这一点，可能让部分用户不太习惯，毕竟这是一款具备全地形能力的产品。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103730668596.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在数字化智能化配置方面，首先最让人直观感到惊喜的，要数高清超广角流媒体后视镜，无论是清晰度还是画幅都是朋友圈美图的水平。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member18302/202107/26103731651865.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">其次，车机方面，极光L搭载全新 InControl OS 2．0 系统，菜单逻辑设计全面优化，至多两步点击即可实现 90％ 的常用功能；界面设计直观，触控响应也相当迅速；此外，双10．2英寸可旋转高清触控屏、12．3英寸交互式全液晶仪表盘，每一块屏幕都给人一种接近苹果手机的触摸质感，此外，液晶仪表盘能同步显示导航指向这一项共能会让路痴觉得相当贴心。</p><p style="text-indent: 2em; text-align: left;">再度升级的智能辅助驾驶功能新增带 3D 影像的360度全景摄像头、倒车自动刹车、车尾碰撞预警等功能，全新路虎揽胜极光L配备的带高清OLED触摸屏的第二代智能钥匙手环，支持无钥匙进入和启动车辆。</p><p style="text-indent: 2em; text-align: left;">唯一一点让人不太满意的智能配置就是其语音交互功能，一方面是可识别指令比较有限，另外就是发出指令后只做执行却少了语音的应答，缺乏互动感。</p><p style="text-indent: 2em; text-align: left;">动力方面，全新路虎揽胜极光L基于捷豹路虎全新PTA豪华横置发动机平台打造，搭载“英杰力”涡轮增压汽油发动机，配合48伏轻混动力系统；“英杰力”发动机特点是涡轮增压介入时机早、响应速度快，只需轻点油门即可感受到强大的动力，市区路况和高速行驶都能兼顾。48伏轻混动力系统的运用，则使得车辆起步加速更快但更平顺。</p><p style="text-indent: 2em; text-align: left;">此外，新车采用路虎品牌引以为豪的第二代智能全地形反馈适应系统（ATRS）和全地形进程控制系统（ATPC），出色的通过性和脱困能力就不必多言了。</p><p style="text-indent: 2em; text-align: left;">所以，事实证明，全新路虎揽胜极光L命名中的 “L”并不只代表作加长加大，更意味着在美学、数字化智能化、驾驶感受等多方面，带来更加贴近中国市场年轻的精英消费群体的实际需求。在秉承精工奢华的家族基因的基础上，极光L真的外为中国改变了不少。</p> 
+  
+</div>
+            

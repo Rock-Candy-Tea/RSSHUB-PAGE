@@ -13,7 +13,6 @@ thumbnail: 'https://img.36krcdn.com/20210726/v2_fd570f99956b4f9cbe95ccdd15b56e28
 ---
 
 <div>   
-<p> </p> 
 <p class="image-wrapper"><img data-img-size-val="1080,720" src="https://img.36krcdn.com/20210726/v2_fd570f99956b4f9cbe95ccdd15b56e28_img_000" referrerpolicy="no-referrer"></p> 
 <p>晚霞中的泉州开元寺双塔 </p> 
 <p>2021年7月，福建小城泉州，</p> 
