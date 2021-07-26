@@ -27,7 +27,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/sch
 <p>“I would always say combustion, but I’m getting ready for electric. I think the world requires it of us, so I’m excited to see what companies like Lamborghini can do to bring efficiency in a way that still brings emotion.”</p>
 </blockquote>
 <p>The two videos are absolutely worth a watch and are a pretty fascinating look at what Phil Schiller is up to and passionate about nowadays. They can be found on <a href="https://www.lamborghini.com/en-en/news/countach-legacy-3-timeless-innovation-with-phil-schiller?utm_source=Tw&utm_term=Social&utm_content=Tw&utm_medium=Tw_CountachLegacy3_26_07_2021_Tw">the Lamborghini</a> website.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2WnSUfG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/9to5macbannerv2-still.jpg?quality=82&strip=all" alt class="wp-image-739900" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

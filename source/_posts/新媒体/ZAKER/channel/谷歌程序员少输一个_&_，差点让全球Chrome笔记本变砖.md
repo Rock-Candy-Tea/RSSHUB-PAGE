@@ -1,0 +1,18 @@
+
+---
+title: '谷歌程序员少输一个_&_，差点让全球Chrome笔记本变砖'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b23_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 26 Jul 2021 06:46:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b23_1024.jpg'
+---
+
+<div>   
+<p>代码只是少了一个字符，后果竟如此可怕。</p><p>上周，一些使用 Chrome OS 笔记本的用户发现，一旦重启笔记本，就将陷入了无法登录的死循环。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b23_1024.jpg" data-height="863" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b23_1024.jpg" referrerpolicy="no-referrer"></div></div>明明输入的开机密码是对的，但就是一直提示 " 无法验证您的密码 "，进不了系统。更严重的情况是笔记本将反复重启。<p></p><p>一台好好的笔记本怎么突然就 " 变砖 " 了呢？</p><p>原来都是 Chrome OS 一次悄悄自动更新惹的祸。</p><p>由于 ChromeOS 是开源的，一位 Reddit 网友仔细系统更新的代码，发现其中的低级错误令人哭笑不得。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b24_1024.jpg" data-height="317" data-width="980" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b24_1024.jpg" referrerpolicy="no-referrer"></div></div>少一个 "&" 惹的祸<p></p><p>这位网友仔细对比两份代码后发现，这个 " 惊天大 bug" 背后竟然只是谷歌程序员少输了一个字符 "&"。</p><p>原本正确的代码应该是：</p><p>if ( keydata.hasvalue ( ) && !key_data->label ( ) .empty ( ) ) </p><p>而这位程序员却这句 if 语句写成了</p><p>if ( keydata.hasvalue ( ) & !key_data->label ( ) .empty ( ) ) </p><p>"&&" 和 "&" 两个运算符虽然看起来只差一点点，但二者作用真是天壤之别。</p><p>前者是对两个变量<strong>求 " 与 "</strong>（AND），而后者是对这两个值<strong>按位求与</strong>。</p><p>这样就导致了条件语句两边变量每一位都会被求与，即使 has_value ( ) 为真，返回结果也不一定就是真。</p><p>而这串代码是 Chrome OS 中保存用户加密密钥的部分，由于这个错误，系统无法验证将存储的密钥与输入密码进行比较，就出现了尴尬的一幕。</p><p>接到用户的反馈后，谷歌迅速发布了 91.0.4472.167 更新来解决该问题。</p><p>如果你的 Chrome 笔记本只是无法进入当前账户，那么可以先尝试安装最新更新，而不会丢失文件。</p><p>如果你的笔记本无线重启，就只能回复出厂设置然后再接收更新了，数据也会全部丢失。</p><p>没测试就发布，着实离谱</p><p>堂堂互联网大厂竟犯如此低级错误，这令不少 Chromebook 用户感到愤怒：</p><p>谷歌的测试团队这两个月是休假了吗？</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202107/60fe3b1e8e9f096090151b25_1024.jpg" data-height="288" data-width="1196" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe3b1e8e9f096090151b25_1024.jpg" referrerpolicy="no-referrer"></div></div>谷歌没有代码测试的吗？为什么会在没有测试的情况下把代码发布到生产环境。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60fe3b1e8e9f096090151b26_1024.jpg" data-height="314" data-width="1392" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe3b1e8e9f096090151b26_1024.jpg" referrerpolicy="no-referrer"></div></div>Chrome OS 过去一直 " 小错不断 "，所以有些用户已经学得精明了：<p></p><p>我已经学会了等更新发布一段时间后再升级。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b27_1024.jpg" data-height="202" data-width="1104" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe3b1e8e9f096090151b27_1024.jpg" referrerpolicy="no-referrer"></div></div>真是没想到，代码少一个字符竟有这么大的破坏力。好在 Chrome OS 系统更新是分批进行，波及面也不算太广。<p></p><p>看到这个谷歌程序员的 bug，你有没有想起自己犯过哪些低级错误呢？（比如把等于号 "==" 写成了赋值号 "="）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
