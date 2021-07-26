@@ -5,11 +5,11 @@ categories:
  - 设计
  - UI 中国
  - 推荐文章
-headimg: 'https://picsum.photos/400/300?random=1767'
+headimg: 'https://picsum.photos/400/300?random=2401'
 author: UI 中国
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1767'
+thumbnail: 'https://picsum.photos/400/300?random=2401'
 ---
 
 <div>   
