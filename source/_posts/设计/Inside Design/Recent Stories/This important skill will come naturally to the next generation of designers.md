@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/rosanne-somerson-risd-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-07-25 15:06:56
+date: 2021-07-26 00:21:14
 thumbnail: 'https://www.invisionapp.com/inside-design/rosanne-somerson-risd-design-better-podcast/'
 ---
 
