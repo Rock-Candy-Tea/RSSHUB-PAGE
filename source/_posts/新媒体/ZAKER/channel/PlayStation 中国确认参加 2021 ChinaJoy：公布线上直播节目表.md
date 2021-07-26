@@ -1,0 +1,18 @@
+
+---
+title: 'PlayStation 中国确认参加 2021 ChinaJoy：公布线上直播节目表'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d48e_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 26 Jul 2021 01:52:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d48e_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 7 月 26 日消息 PlayStation 中国确认将会参展 2021 ChinaJoy，其官方微博还公布了线上直播节目表。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d48e_1024.jpg" data-height="999" data-width="1052" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d48e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d48f_1024.jpg" data-height="207" data-width="628" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d48f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d490_1024.jpg" data-height="267" data-width="620" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d490_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d491_1024.jpg" data-height="859" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d491_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d492_1024.jpg" data-height="857" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d492_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d493_1024.jpg" data-height="872" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/60fe564f8e9f0959be57d493_1024.jpg" referrerpolicy="no-referrer"></div></div>7 月 30 日起，PlayStation 中国将为无法到场的观众带来线上特别直播，使玩家们更好的感受次世代游戏的画面、声临其境以及次世代的沉浸式体验。<p></p><p>众多游戏将轮番登场，包括《瑞奇与叮当时空跳转》、《真三国无双 8：帝国》、《NBA 2K 21》、《暗影火炬城》、《麻布仔大冒险》等，从热血冒险到代入感十足的 RPG 游戏，多款 PS5 精选展示游戏可以免费体验。</p><p>IT 之家了解到，暴雪此前也确认参加今年的 ChinaJoy 活动。今年 ChinaJoy 将于 7 月 30 日至 8 月 2 日在上海新国际博览中心举办，本届 ChinaJoy 的展会主题为 " 科技创梦 乐赢未来 "。</p><p></p><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d494_1024.jpg" data-height="333" data-width="729" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/60fe564f8e9f0959be57d494_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
