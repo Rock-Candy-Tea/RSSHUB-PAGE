@@ -1,0 +1,19 @@
+
+---
+title: '零百加速3.5s、WLTP标准528km 起亚EV6公布动力信息'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0726/0a5236c0e5e7c6c.jpg'
+author: cnBeta
+comments: false
+date: Mon, 26 Jul 2021 08:51:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0726/0a5236c0e5e7c6c.jpg'
+---
+
+<div>   
+近日，起亚官方发布了起亚EV6的动力信息。新车曾亮相上海车展上进行全球首次亮相，提供后驱以及四驱版车型，并有58千瓦时和77.4千瓦时两种电池组可供选择。其中，EV6 GT长续航四驱版本最大功率为430千瓦、最大扭矩达740牛·米，0-100公里/小时加速可在3.5秒内完成。<br>
+<p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0726/0a5236c0e5e7c6c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0726/0a5236c0e5e7c6c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0726/0a5236c0e5e7c6c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">起亚EV6基于E-GMP全新纯电动架构打造，外观采用了" <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://oppo.jd.com/" target="_blank">OPPO</a>sites United"设计理念，拥有凌厉的线条，整车看起来强壮有力，并且启用了起亚新车标。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0726/df664cf48e99d59.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0726/df664cf48e99d59.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0726/df664cf48e99d59.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">车身尺寸方面，新车长宽高分别为4680毫米/1880毫米/1550毫米，EV6 GT-line（GT）长宽高分别为4695毫米/1890毫米/1550（1545）毫米，轴距为2900毫米。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0726/67f79196c957166.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0726/67f79196c957166.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0726/67f79196c957166.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">内饰方面，新车运用了不少<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_92263%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D3_%25E7%2594%25B5%25E8%25A7%2586%25E7%25B1%25BB%25E5%259E%258B_%25E6%259B%25B2%25E9%259D%25A2%23J_crumbsBar" target="_blank">曲面</a>设计并采用环保有机材料，且该车将采用新技术来促进人车间的互动，提升车内用户体验。</p><p style="text-align: left;">配置方面，EV6车型配备增强现实 (AR) 平视显示器、14扬声器Meridian音响系统，First Edition车型还将配备显示First Edition名称的迎宾灯，和带有编号的First Edition内部徽章。此外，EV6还有个V2L的系统，可以为电子设备、电器或房屋供电。</p><p style="text-align: left;">安全方面，EV6 提供21种标准的高级驾驶辅助系统 (ADAS)，包括半自动驾驶系统 Highway Driving Assist II。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0726/1159081b6ebdaab.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0726/1159081b6ebdaab.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0726/1159081b6ebdaab.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">动力方面，起亚EV6提供77.4千瓦时电池组的长续航版和58千瓦时电池组的标准续航版本，并有四驱和两驱两种驱动形式可选。其中，EV6标准续航后驱版，最大功率125千瓦、最大扭矩350牛·米；EV6标准续航四驱版最大功率173千瓦、最大扭矩605牛·米，0-100公里/小时加速时间6.2秒。EV6长续航后驱版本最大功率168千瓦、最大扭矩350牛·米，WLTP标准下最大续航528公里，EV6长续航四驱版本最大功率239千瓦、最大扭矩605牛·米，WLTP标准下最大续航506公里，0-100k公里/小时加速时间5.2秒。</p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0726/75a8d65229e3323.jpeg"><img data-original="https://static.cnbetacdn.com/article/2021/0726/75a8d65229e3323.jpeg" src="https://static.cnbetacdn.com/thumb/article/2021/0726/75a8d65229e3323.jpeg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">值得一提的是，EV6 GT长续航四驱版本最大功率为430千瓦、最大扭矩达到740牛·米，0-100公里/小时加速时间仅3.5秒。另外，新车还支持400V和800V直流快充，并且可反向为车载电器充电。</p>   
+</div>
+            
