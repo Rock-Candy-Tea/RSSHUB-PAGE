@@ -486,7 +486,7 @@ report2(<span class="hljs-string">"1"</span>) <span class="hljs-comment">// 不�
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-81">元组</h3>
 <h4 data-id="heading-82">避免过长的元组</h4>
-<p>元组虽然具有类型信息，但是并不包含变量名信息，使用方并不清晰知道变量的含义。所以当元组数量过多时考虑使用<code>自定义类型</code>代替。</p>
+<p>元组虽然具有类型信息，但是并不包含<code>变量名</code>信息，使用方并不清晰知道变量的含义。所以当元组数量过多时考虑使用<code>自定义类型</code>代替。</p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">test</span>()</span> -> (<span class="hljs-type">Int</span>, <span class="hljs-type">Int</span>, <span class="hljs-type">Int</span>) &#123;
 
 &#125;
@@ -719,20 +719,18 @@ items.first(where: &#123; <span class="hljs-variable">$0</span> <span class="hlj
 <blockquote>
 <p>提示：<code>struct</code>无法代替<code>class</code>的一些场景：1.需要使用<code>继承</code>调用<code>super</code>。2.需要使用引用类型。3.需要使用<code>deinit</code>。4.需要在运行时动态转换一个实例的类型。</p>
 </blockquote>
-<blockquote>
-<p>提示：不是所有<code>struct</code>都会保存在<code>栈</code>上，部分数据大的<code>struct</code>也会保存在堆上。</p>
-</blockquote>
-<h4 data-id="heading-115">集合元素使用值类型</h4>
+<h1 data-id="heading-115">> 提示：不是所有<code>struct</code>都会保存在<code>栈</code>上，部分数据大的<code>struct</code>也会保存在堆上。</h1>
+<h4 data-id="heading-116">集合元素使用值类型</h4>
 <p>集合元素使用值类型。因为<code>NSArray</code>并不支持值类型，编译器不需要处理可能需要桥接到<code>NSArray</code>的场景，可以移除部分消耗。</p>
-<h4 data-id="heading-116">纯静态类型避免使用<code>class</code></h4>
+<h4 data-id="heading-117">纯静态类型避免使用<code>class</code></h4>
 <p>当<code>class</code>只包含<code>静态方法/属性</code>时，考虑使用<code>enum</code>代替<code>class</code>，因为<code>class</code>会生成更多的二进制代码。</p>
-<h5 data-id="heading-117">不推荐</h5>
+<h5 data-id="heading-118">不推荐</h5>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Object</span> </span>&#123;
     <span class="hljs-keyword">static</span> <span class="hljs-keyword">var</span> num: <span class="hljs-type">Int</span>
     <span class="hljs-keyword">static</span> <span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">test</span>()</span> &#123;&#125;
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h5 data-id="heading-118">推荐</h5>
+<h5 data-id="heading-119">推荐</h5>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-class"><span class="hljs-keyword">enum</span> <span class="hljs-title">Object</span> </span>&#123;
     <span class="hljs-keyword">static</span> <span class="hljs-keyword">var</span> num: <span class="hljs-type">Int</span>
     <span class="hljs-keyword">static</span> <span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">test</span>()</span> &#123;&#125;
@@ -741,13 +739,13 @@ items.first(where: &#123; <span class="hljs-variable">$0</span> <span class="hlj
 <blockquote>
 <p>提示：为什么用<code>enum</code>而不是<code>struct</code>，因为<code>struct</code>会额外生成<code>init</code>方法。</p>
 </blockquote>
-<h3 data-id="heading-119">值类型性能优化</h3>
-<h4 data-id="heading-120">考虑使用引用类型</h4>
+<h3 data-id="heading-120">值类型性能优化</h3>
+<h4 data-id="heading-121">考虑使用引用类型</h4>
 <p>值类型为了维持<code>值语义</code>，会在每次<code>赋值</code>/<code>参数传递</code>/<code>修改</code>时进行复制。虽然编译器本身会做一些优化，例如<code>写时复制优化</code>，在<code>修改</code>时减少复制频率，但是这仅针对于标准库提供的<code>集合</code>和<code>String</code>结构有效，对于<code>自定义结构</code>需要自己实现。对于<code>参数传递</code>编译器在一些场景会优化为直接<code>传递引用</code>的方式避免复制行为。</p>
 <p>但是对于一些数据特别大的结构，同时需要频繁变更修改时也可以考虑使用<code>引用类型</code>实现。</p>
-<h4 data-id="heading-121">使用<code>inout</code>传递参数减少复制</h4>
+<h4 data-id="heading-122">使用<code>inout</code>传递参数减少复制</h4>
 <p>虽然编译器本身会进行<code>写时复制</code>的优化，但是部分场景编译器无法处理。</p>
-<h5 data-id="heading-122">不推荐</h5>
+<h5 data-id="heading-123">不推荐</h5>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">append_one</span>(<span class="hljs-keyword">_</span> <span class="hljs-params">a</span>: [<span class="hljs-type">Int</span>])</span> -> [<span class="hljs-type">Int</span>] &#123;
   <span class="hljs-keyword">var</span> a <span class="hljs-operator">=</span> a
   a.append(<span class="hljs-number">1</span>) <span class="hljs-comment">// 无法被编译器优化，因为这时候有2个引用持有数组</span>
@@ -757,7 +755,7 @@ items.first(where: &#123; <span class="hljs-variable">$0</span> <span class="hlj
 <span class="hljs-keyword">var</span> a <span class="hljs-operator">=</span> [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
 a <span class="hljs-operator">=</span> append_one(a)
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h5 data-id="heading-123">推荐</h5>
+<h5 data-id="heading-124">推荐</h5>
 <p>直接使用<code>inout</code>传递参数</p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">append_one_in_place</span>(<span class="hljs-params">a</span>: <span class="hljs-keyword">inout</span> [<span class="hljs-type">Int</span>])</span> &#123;
   a.append(<span class="hljs-number">1</span>)
@@ -766,9 +764,9 @@ a <span class="hljs-operator">=</span> append_one(a)
 <span class="hljs-keyword">var</span> a <span class="hljs-operator">=</span> [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
 append_one_in_place(<span class="hljs-operator">&</span>a)
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h4 data-id="heading-124">使用<code>isKnownUniquelyReferenced</code>实现<code>写时复制</code></h4>
+<h4 data-id="heading-125">使用<code>isKnownUniquelyReferenced</code>实现<code>写时复制</code></h4>
 <p>默认情况下结构体中包含<code>引用类型</code>，在修改时只会重新拷贝引用。但是我们希望<code>CustomData</code>具备值类型的特性，所以当修改时需要重新复制<code>NSMutableData</code>避免复用。但是<code>复制</code>操作本身是耗时操作，我们希望可以减少一些不必要的复制。</p>
-<h5 data-id="heading-125">优化前</h5>
+<h5 data-id="heading-126">优化前</h5>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-class"><span class="hljs-keyword">struct</span> <span class="hljs-title">CustomData</span> </span>&#123;
     <span class="hljs-keyword">fileprivate</span> <span class="hljs-keyword">var</span> _data: <span class="hljs-type">NSMutableData</span>
     <span class="hljs-keyword">var</span> _dataForWriting: <span class="hljs-type">NSMutableData</span> &#123;
@@ -791,7 +789,7 @@ append_one_in_place(<span class="hljs-operator">&</span>a)
     buffer.append(x) <span class="hljs-comment">// 每一次调用都会复制</span>
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h5 data-id="heading-126">优化后</h5>
+<h5 data-id="heading-127">优化后</h5>
 <p>使用<code>isKnownUniquelyReferenced</code>检查如果是<code>唯一引用</code>不进行复制。</p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-keyword">final</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Box</span><<span class="hljs-title">A</span>> </span>&#123;
     <span class="hljs-keyword">var</span> unbox: <span class="hljs-type">A</span>
@@ -822,12 +820,12 @@ append_one_in_place(<span class="hljs-operator">&</span>a)
 <blockquote>
 <p>提示：对于<code>ObjC</code>类型<code>isKnownUniquelyReferenced</code>会直接返回<code>false</code>。</p>
 </blockquote>
-<h3 data-id="heading-127">减少使用<code>Objc</code>特性</h3>
-<h4 data-id="heading-128">避免使用<code>Objc</code>类型</h4>
+<h3 data-id="heading-128">减少使用<code>Objc</code>特性</h3>
+<h4 data-id="heading-129">避免使用<code>Objc</code>类型</h4>
 <p>尽可能避免在<code>Swift</code>中使用<code>NSString</code>/<code>NSArray</code>/<code>NSDictionary</code>等<code>ObjC</code>基础类型。以<code>Dictionary</code>为例，虽然<code>Swift Runtime</code>可以在<code>NSArray</code>和<code>Array</code>之间进行隐式桥接需要<code>O(1)</code>的时间。但是字典当<code>Key</code>和<code>Value</code>既不是类也不是<code>@objc</code>协议时，需要对<code>每个值</code>进行桥接，可能会导致消耗<code>O(n)</code>时间。</p>
-<h3 data-id="heading-129">减少添加<code>@objc</code>标识</h3>
+<h3 data-id="heading-130">减少添加<code>@objc</code>标识</h3>
 <p><code>@objc</code>标识虽然不会强制使用<code>消息转发</code>的方式来调用<code>方法/属性</code>，但是他会默认<code>ObjC</code>是可见的会生成和<code>ObjC</code>一样的<code>ro_data_t</code>结构。</p>
-<h4 data-id="heading-130">避免使用<code>@objcMembers</code></h4>
+<h4 data-id="heading-131">避免使用<code>@objcMembers</code></h4>
 <p>使用<code>@objcMembers</code>修饰的类，默认会为<code>类</code>/<code>属性</code>/<code>方法</code>/<code>扩展</code>都加上<code>@objc</code>标识。</p>
 <pre><code class="hljs language-swift copyable" lang="swift"><span class="hljs-keyword">@objc</span>Members <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Object</span>: <span class="hljs-title">NSObject</span> </span>&#123;
 &#125;
@@ -835,17 +833,17 @@ append_one_in_place(<span class="hljs-operator">&</span>a)
 <blockquote>
 <p>提示：你也可以使用<code>@nonobjc</code>取消支持<code>ObjC</code>。</p>
 </blockquote>
-<h4 data-id="heading-131">避免继承<code>NSObject</code></h4>
+<h4 data-id="heading-132">避免继承<code>NSObject</code></h4>
 <p>你只需要在需要使用<code>NSObject</code>特性时才需要继承，例如需要实现<code>UITableViewDataSource</code>相关协议。</p>
-<h3 data-id="heading-132">使用<code>let</code>变量/属性</h3>
-<h5 data-id="heading-133">优化集合创建</h5>
+<h3 data-id="heading-133">使用<code>let</code>变量/属性</h3>
+<h5 data-id="heading-134">优化集合创建</h5>
 <p>集合不需要修改时，使用<code>let</code>修饰，编译器会优化创建集合的性能。例如针对<code>let</code>集合，<code>编译器</code>在创建时可以分配更小的<code>内存大小</code>。</p>
-<h5 data-id="heading-134">优化逃逸闭包</h5>
+<h5 data-id="heading-135">优化逃逸闭包</h5>
 <p>在<code>Swift</code>中，当捕获<code>var</code>变量时编译器需要生成一个在堆上的<code>Box</code>保存变量用于之后对于变量的<code>读/写</code>，同时需要额外的内存管理操作。如果是<code>let</code>变量，编译器可以保存<code>值复制或引用</code>，避免使用<code>Box</code>。</p>
-<h1 data-id="heading-135">总结</h1>
+<h1 data-id="heading-136">总结</h1>
 <p>个人从<code>Swift</code>3.0开始将<code>Swift</code>作为第一语言使用。编写<code>Swift</code>代码并不只是简单对于<code>ObjC</code>代码的翻译/重写，需要对于<code>Swift</code>特性更多的理解才能更好的利用这些特性带来更多的收益。同时我们需要关注每个版本<code>Swift</code>的优化/改进和新特性。在这过程中也会提高我们的编码能力，加深对于一些通用编程概念/思想的理解，包括<code>空安全、值类型、协程、不共享数据的Actor并发模型、函数式编程、面向协议编程、内存所有权</code>等。对于新的现代编程语言例如<code>Swift</code>/<code>Dart</code>/<code>TS</code>/<code>Kotlin</code>/<code>Rust</code>等，很多特性/思想都是相互借鉴，当我们理解这些概念/思想以后对于理解其他语言也会更容易。</p>
 <p>这里推荐有兴趣可以关注<a href="https://link.juejin.cn/?target=https%3A%2F%2Fapple.github.io%2Fswift-evolution%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://apple.github.io/swift-evolution/" ref="nofollow noopener noreferrer">Swift Evolution</a>，每个特性加入都会有一个提案，里面会详细介绍<code>动机</code>/<code>使用场景</code>/<code>实现方式</code>/<code>未来方向</code>。</p>
-<h1 data-id="heading-136">扩展链接</h1>
+<h1 data-id="heading-137">扩展链接</h1>
 <ul>
 <li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fdocs.swift.org%2Fswift-book%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://docs.swift.org/swift-book/" ref="nofollow noopener noreferrer">The Swift Programming Language</a></li>
 <li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fobjccn.io%2Fproducts%2Fadvanced-swift%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://objccn.io/products/advanced-swift/" ref="nofollow noopener noreferrer">Swift 进阶</a></li>
@@ -859,7 +857,7 @@ append_one_in_place(<span class="hljs-operator">&</span>a)
 <li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fdocumentation%2Fswift%2Fdictionary" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/documentation/swift/dictionary" ref="nofollow noopener noreferrer">String</a></li>
 <li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fdocumentation%2Fswift%2Fchoosing_between_structures_and_classes" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes" ref="nofollow noopener noreferrer">struct</a></li>
 </ul>
-<h4 data-id="heading-137">最后发个招聘广告</h4>
+<h4 data-id="heading-138">最后发个招聘广告</h4>
 <p>团队招新：京东京喜，base深圳，有兴趣的同学可以投递简历。<a href="https://link.juejin.cn/?target=https%3A%2F%2Fm.zhipin.com%2Fweb%2Fcommon%2Fsecurity-check.html%3Fseed%3DinFHfUpXv51Ggywb26xhUWMLgy9PIh5N%2BNGbPZMbPxU%3D%26name%3Daf0d473b%26ts%3D1626666631345%26callbackUrl%3Dhttps%253A%252F%252Fm.zhipin.com%252Fmpa%252Fhtml%252Fweijd%252Fweijd-job%252F3c8df63fda9959fe1nVz39q1GVpV%253Fdate8%253D20210719%2526sid%253Dqr_self_jd" target="_blank" rel="nofollow noopener noreferrer" title="https://m.zhipin.com/web/common/security-check.html?seed=inFHfUpXv51Ggywb26xhUWMLgy9PIh5N+NGbPZMbPxU=&name=af0d473b&ts=1626666631345&callbackUrl=https%3A%2F%2Fm.zhipin.com%2Fmpa%2Fhtml%2Fweijd%2Fweijd-job%2F3c8df63fda9959fe1nVz39q1GVpV%3Fdate8%3D20210719%26sid%3Dqr_self_jd" ref="nofollow noopener noreferrer">BOSS</a></p></div>  
 </div>
             
