@@ -5,11 +5,11 @@ categories:
  - 设计
  - 优设网
  - 优设读报
-headimg: 'https://picsum.photos/400/300?random=1758'
+headimg: 'https://picsum.photos/400/300?random=2798'
 author: 优设网
 comments: false
 date: Mon, 26 Jul 2021 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1758'
+thumbnail: 'https://picsum.photos/400/300?random=2798'
 ---
 
 <div>   
