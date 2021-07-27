@@ -17,14 +17,14 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/F12
 <p>Tesla today reported its earnings for the second quarter of 2021, as detailed by our colleagues <a href="https://electrek.co/2021/07/26/tesla-tsla-releases-q2-2021-results/">over at <em>Electrek</em></a><em>. </em>During the accompanying earnings call this afternoon, Tesla CEO Elon Musk took a pair of jabs at Apple, criticizing the company over its App Store policy as well as its use of cobalt in iPhone and Mac batteries. </p>
 <p><span id="more-740101"></span>
 </p>
-<p>During the earnings call, Musk was asked about Tesla’s plans to open its coveted <a href="https://electrek.co/2021/07/26/elon-musk-explains-tesla-open-supercharger-network/">Supercharging network to third-parties</a>. The Tesla CEO explained that the company’s goal is not to create a “walled garden” but rather to “support the advent of sustainable energy.” Musk hid his criticism of Apple behind a “cough.” </p>
+<p>During the earnings call, Musk was asked about Tesla’s plans to open its coveted <a href="https://electrek.co/2021/07/26/elon-musk-explains-tesla-open-supercharger-network/">Supercharging network to third parties</a>. The Tesla CEO explained that the company’s goal is not to create a “walled garden” but rather to “support the advent of sustainable energy.” Musk hid his criticism of Apple behind a “cough.” </p>
 <blockquote class="wp-block-quote">
 <p>“I think we want to emphasize that our goal is to support the advent of sustainable energy. It is not to create a walled garden and use that to bludgeon our competitors which is used by some companies.”</p>
 </blockquote>
 <p></p>
 <p></p>
 <p>Musk then proceeded to fake a cough and mutter “Apple.” </p>
-<p>Musk was also asked about Tesla’s supply chain during the call, leading him again to bring up Apple, as <a href="https://www.cnbc.com/2021/07/26/elon-musk-snipes-at-apple-twice-on-tesla-earnings-call.html">noted by <em>CNBC</em></a><em>. </em>Musk explained that while Apple’s batteries use 100% cobalt, Tesla’s is much lower: </p>
+<p>Musk was also asked about Tesla’s supply chain during the call, leading him again to bring up Apple, as <a href="https://www.cnbc.com/2021/07/26/elon-musk-snipes-at-apple-twice-on-tesla-earnings-call.html">noted by <em>CNBC</em></a><em>. </em>Musk explained that while Apple’s batteries use 100% cobalt, Tesla’s use is much lower: </p>
 <blockquote class="wp-block-quote">
 <p>“Apple uses I think almost 100% cobalt in their batteries and cell phones and laptops, but Tesla uses no cobalt in the iron-phosphate packs, and almost none in the nickel-based chemistries,” Musk said. “On on a weighted-average basis we might use 2% cobalt compared to say, Apple’s 100% cobalt. Anyway, so it’s just really not a factor.”</p>
 </blockquote>
