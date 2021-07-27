@@ -1,0 +1,19 @@
+
+---
+title: 'Joby发布eVTOL完整飞行轮廓视频并碳信用交易系统计划'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/07/e6f65cb4e677545.webp'
+author: cnBeta
+comments: false
+date: Tue, 27 Jul 2021 09:08:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/07/e6f65cb4e677545.webp'
+---
+
+<div>   
+据外媒报道，<strong>日前，Joby Aviation发布了一段展示其eVTOL空中出租车的完整飞行轮廓的视频，另外它还宣布计划创建一个新的碳信用交易系统。</strong>据悉，该系统跟特斯拉一段时间以来保持盈利的系统类似。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/e6f65cb4e677545.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/e6f65cb4e677545.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">跟特斯拉销售汽车一样，该系统最大的收入来源之一也是向其他汽车制造商出售碳信用额。这些碳信用额度是由世界各国政府引入的，目的是鼓励汽车制造商减少化石燃料汽车的排放并投资清洁电动汽车。如果无法自己活得则可以从其他有一些额外积分的公司购买，像特斯拉只生产电动汽车，所以它可以出售所有的积分。</p><p style="text-align: left;">对特斯拉来说，这是一个相当不错的行业。2020年，该公司向通用汽车(GM)和菲亚特克莱斯勒等公司出售了价值约14亿美元的碳信用额。今年，这个数字可能会超过20亿美元。对于特斯拉来说，这是纯粹的利润--除了一些文书工作之外，没有任何成本，并且它已经有效地利用了其在电动汽车市场的先锋地位。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/c1ce68a8b557fa3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/c1ce68a8b557fa3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">然而对于航空业来说，脱碳难度则要大得多。电池携带的能量不足以在很长时间内完成这项工作，并且氢燃料航空仍处于起步阶段。但也有一些公司正在利用现有技术在电动航空领域大展拳脚。</p><p style="text-align: left;">据了解，Joby Aviation研究eVTOL的时间比任何<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=942&euid=&t=http%3A%2F%2Fwww.oneplus.com" target="_blank">一加</a>公司都长。他们的原型已经进行了数千次试飞，是首批获得军用适航性的飞机之一。目前他们已经拥有Uber Elevate，并且他们拥有比其他公司更多的投资资金，同时还跟丰田有着重要的合作伙伴关系。他们已经开始签署基础设施协议从而将在美国主要启动城市的多层停车场上建立垂直起降机场。它们位于AAM现实指数(AAM Reality Index)的顶端是有充分理由的。</p><p style="text-align: left;">现在，他们则正在寻求加入碳信用游戏。因为它还没有出现在航空领域，于是他们跟捷蓝航空及Signature Flight Support合作来“为航空碳市场的创建、验证和最终使用确定框架”，这将“包括为绿色电力和氢推进技术提供动力的飞行产生积分。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/58b40fad4523964.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/58b40fad4523964.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Joby Aviation创始人兼CEO JoeBen Bevirt表示：“通过JetBlue和Signature，我们为航空业开辟了一条全新的道路从而更快地转向可持续能源。我们邀请更多的合作伙伴加入我们，希望这些协议将是第一个将今天的航空旅行跟清洁未来的飞行联系起来的协议。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/8aef55024f19b20.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/8aef55024f19b20.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">捷蓝航空可持续发展和环境社会治理主管Sara Bogdan则表示，这一合作伙伴关系使捷蓝航空不仅能继续履行其在美国许下的碳中和承诺，还能改进他们购买的碳补偿类型并帮助支持电动和氢燃料航空的发展--而这是实现美国航空业净零目标的关键杠杆。</p><p style="text-align: center;"><iframe src="//player.youku.com/embed/XNTE4NjUzMjM4OA==" width="640" height="480" frameborder="0"></iframe><br style="text-align: left;"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/9b847a82b669869.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/9b847a82b669869.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/a4b0157dbedc999.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/a4b0157dbedc999.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/07/1f558b285f64a9f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/1f558b285f64a9f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/07/84d061d7a05ea16.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/07/84d061d7a05ea16.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
