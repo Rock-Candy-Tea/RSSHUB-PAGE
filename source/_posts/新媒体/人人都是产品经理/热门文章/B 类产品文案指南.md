@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 ---
 
 <div>   
-<blockquote><p>编辑导读：B端文案不同于C端，面对的用户都是企业为主，语言风格上要正式官方，以帮助用户高效地使用产品、完成工作为核心目标，据此来组织内容和语言。B端文案如何写呢？本文将从</p></blockquote>
+<blockquote><p>编辑导读：B端文案不同于C端，面对的用户都是企业为主，语言风格上要正式官方，以帮助用户高效地使用产品、完成工作为核心目标，据此来组织内容和语言。B端文案如何写呢？本文将从四个方面展开分析，与你分享。</p></blockquote>
 <p><img data-action="zoom" class="size-full wp-image-4922716 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/07/KUiMxhBw5ZU7IUFSEh2r.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p>说明：</p>
 <ul>

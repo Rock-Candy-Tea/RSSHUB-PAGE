@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://picsum.photos/400/300?random=5342'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1616a6a09a84fa4874d4d0201c5ec6a~tplv-k3u1fbpfcp-zoom-1.image'
 author: 掘金
 comments: false
 date: Sun, 25 Jul 2021 19:46:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5342'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1616a6a09a84fa4874d4d0201c5ec6a~tplv-k3u1fbpfcp-zoom-1.image'
 ---
 
 <div>   
@@ -28,10 +28,10 @@ thumbnail: 'https://picsum.photos/400/300?random=5342'
 <pre><code class="copyable">buildscript &#123;
   repositories &#123;
    ...
-maven &#123; url 'https://dl.bintray.com/songjianzaina/insoan' &#125;
+maven &#123; url 'https://jitpack.io' &#125;
    &#125;
   dependencies &#123;
-     classpath 'com.insworks.plugin:framework-plugin:1.0.5'
+     classpath 'com.github.songjianzaina:framework-plugin:1.0.6-alpha'
   &#125;
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
@@ -51,6 +51,9 @@ maven &#123; url 'https://dl.bintray.com/songjianzaina/insoan' &#125;
 
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
+<p>工程效果图:</p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1616a6a09a84fa4874d4d0201c5ec6a~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p>以上标红目录在应用插件后皆自动生成 无需手动创建</p>
 <h2 data-id="heading-4">更新历史</h2>
 
 
@@ -92,6 +95,6 @@ maven &#123; url 'https://dl.bintray.com/songjianzaina/insoan' &#125;
 
 
 
-<table><thead><tr><th>版本号</th><th>功能点</th><th>链接</th></tr></thead><tbody><tr><td>1.0.0</td><td>初步实现架构文件自动生成</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.0%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.0/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-U2eorsaW-1598265667292)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.0)] </a></td></tr><tr><td>1.0.1</td><td>增加全局文件夹以及全局libs</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.1%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.1/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-9Hm0qoay-1598265667294)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.1)] </a></td></tr><tr><td>1.0.2</td><td>增加子模块目录名和配置文件名自定义配置</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.2%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.2/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-vIgu4B0t-1598265667295)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.2)] </a></td></tr><tr><td>1.0.3</td><td>优化清单文件合并</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.3%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.3/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-tvinJuiM-1598265667296)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.3)] </a></td></tr><tr><td>1.0.4</td><td>增加Activity自动注册清单文件 (还未完善)</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.4%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.4/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-we3hApma-1598265667297)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.4)] </a></td></tr><tr><td>1.0.5</td><td>1.升级gradle依赖至4.0.0  <br> 2.新增values目录下attr和styles文件的自动生成 <br> 3.解决子模块libs目录so库无法引用的问题 <br> 4.优化插件加载方式 提升构建速度 <br> 5.移除多余log</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.5%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.5/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-bK2xtjUJ-1598265667298)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.5)] </a></td></tr></tbody></table></div>  
+<table><thead><tr><th>版本号</th><th>功能点</th><th>链接</th></tr></thead><tbody><tr><td>1.0.0</td><td>初步实现架构文件自动生成</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.0%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.0/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-v7qfftdb-1627370867510)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.0)] </a></td></tr><tr><td>1.0.1</td><td>增加全局文件夹以及全局libs</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.1%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.1/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-lXeFHBcf-1627370867512)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.1)] </a></td></tr><tr><td>1.0.2</td><td>增加子模块目录名和配置文件名自定义配置</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.2%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.2/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-Ur648Ij1-1627370867513)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.2)] </a></td></tr><tr><td>1.0.3</td><td>优化清单文件合并</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.3%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.3/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-p285dTfB-1627370867514)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.3)] </a></td></tr><tr><td>1.0.4</td><td>增加Activity自动注册清单文件 (还未完善)</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.4%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.4/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-IKpgb7YM-1627370867514)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.4)] </a></td></tr><tr><td>1.0.5</td><td>1.升级gradle依赖至4.0.0  <br> 2.新增values目录下attr和styles文件的自动生成 <br> 3.解决子模块libs目录so库无法引用的问题 <br> 4.优化插件加载方式 提升构建速度 <br> 5.移除多余log</td><td><a href="https://link.juejin.cn/?target=https%3A%2F%2Fbintray.com%2Fsongjianzaina%2Finsoan%2Fframework-plugin%2F1.0.5%2Flink" target="_blank" rel="nofollow noopener noreferrer" title="https://bintray.com/songjianzaina/insoan/framework-plugin/1.0.5/link" ref="nofollow noopener noreferrer"> [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-66UCHd9Z-1627370867515)(https://api.bintray.com/packages/songjianzaina/insoan/framework-plugin/images/download.svg?version=1.0.5)] </a></td></tr></tbody></table></div>  
 </div>
             
