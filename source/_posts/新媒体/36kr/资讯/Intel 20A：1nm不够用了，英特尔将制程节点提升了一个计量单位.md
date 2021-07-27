@@ -1,0 +1,75 @@
+
+---
+title: 'Intel 20A：1nm不够用了，英特尔将制程节点提升了一个计量单位'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20210727/v2_c88bc6508a2f4d53b94de906d759ce51_img_000'
+author: 36kr
+comments: false
+date: Tue, 27 Jul 2021 06:15:00 GMT
+thumbnail: 'https://img.36krcdn.com/20210727/v2_c88bc6508a2f4d53b94de906d759ce51_img_000'
+---
+
+<div>   
+<blockquote> 
+ <p><span style="letter-spacing: 0px;">1 Å = 10^–10 米 = 0.1 纳米。</span></p> 
+</blockquote> 
+<p>今年 2 月，<a class="project-link" data-id="3968654" data-name="英特尔" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968654" target="_blank">英特尔</a>新 CEO 帕特 · 基辛格（Pat Gelsinger）正式上任，这位曾在英特尔工作过 30 年之久的元老概述了他「<a href="http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650811480&idx=3&sn=c4ebf0809b50d99a6f667e663f99c3f9&chksm=84e5e826b3926130d8ad88b0c76d24982042a21cab1be1b63a1518484e0e5641ea849c386cbe&scene=21#wechat_redirect">IDM 2.0</a>」的愿景。</p> 
+<p>在新路线图中，除了采用外界芯片代工之外，制程技术的发展是一个重要方面，这一切都在 7 月 27 日的 Intel Accelerated 大会上揭开了谜底。</p> 
+<p>今天上午，英特尔首席执行官 Pat Gelsinger 和英特尔的高级副总裁、技术开发经理 Ann Kelleher 博士等人向我们介绍了英特尔从今年到 2025 年，直至更远未来的详细发展路线。</p> 
+<p>「从芯片设计、生产测试再到整合全链条，这是只有英特尔才能实现的能力，英特尔的问题只是需要继续加快速度，」Pat Gelsinger 说道。</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_c88bc6508a2f4d53b94de906d759ce51_img_000" data-img-size-val="678,284" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc">英特尔的下一个节点不是 10nm 而是 Intel 7，再往后是 Intel 4、Intel 3，进入 GAA 时代后会是 Intel 20A。</p> 
+<p>Pat Gelsinger 表示：「英特尔正在重新考虑如何发布和品牌化其在芯片方面的创新成果。」</p> 
+<p>英特尔的最新公告发布了英特尔未来 5 年的处理器路线图、新的芯片和封装技术，并且做出了「annual cadence of innovation」的承诺。最终目标是让英特尔到 2025 年重新夺回处理器领域的领导地位。</p> 
+<p>英特尔未来推出的产品将不再使用基于纳米的节点命名法，而是使用英特尔自己推出的一种全新命名方法。英特尔表示新的命名方法将更准确地描述整个芯片行业的工艺节点。这种变化将从英特尔将在今年晚些时候发布的 12th Gen Alder Lake 开始。</p> 
+<p>英特尔第三代 10 纳米芯片将被称为「Intel 7」，而不再像去年的 10 纳米 SuperFin 芯片一样基于纳米命名。</p> 
+<p>这听起来似乎是一种营销策略，旨在让英特尔即将推出的 10nm 芯片与 AMD 的产品相比更具竞争力。目前 AMD 的产品已经通过<a class="project-link" data-id="47873" data-name="台积电" data-logo="https://img.36krcdn.com/20201021/v2_52e3d03ca73c44dcaae59ccd91902108_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/47873" target="_blank">台积电</a>推出了 7nm 制程芯片，苹果也已经推出 5nm 制程的 M1 芯片。</p> 
+<p>虽然这些技术看起来是领先的，但实际上却不完全如此。在芯片的命名中，由于 3D 封装技术和半导体设计物理属性的进步，节点名称实际上并不指芯片上晶体管的大小。</p> 
+<p>从技术角度看，英特尔的 10 纳米芯片与台积电或三星等竞争对手的「7 纳米」品牌硬件大致相当，英特尔使用与之类似的生产技术，并提供可媲<a class="project-link" data-id="131482" data-name="美的" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/131482" target="_blank">美的</a>晶体管密度。在商业硬件领域也是如此，例如英特尔的 10nm 芯片可与 AMD 的 7nm 锐龙芯片竞争市场。</p> 
+<p>因此，英特尔此次「品牌重塑」是对于该公司技术节点介绍方式的一次重要改变。</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_5448550f07a245dd9468ef6c4a7713e7_img_000" data-img-size-val="1080,599" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc">英特尔新的架构路线图。</p> 
+<p>在业内，原来人们使用栅极的大小来体现制程技术。而在当前阶段，芯片能力的发展已经很大程度上取决于其他技术了。</p> 
+<p>「数字的递减将继续表示技术的演进，但是人们需要明白未来的制程演进与数字已经没有直接关系了。」英特尔中国研究院院长宋继强表示。</p> 
+<h2 label="一级标题">英特尔的架构路线和新技术</h2> 
+<p>下面我们来看看英特尔的新路线图，以及实际意义。</p> 
+<p>Intel 7 是英特尔第三代 10 nm 技术的新名称，也是英特尔 10 纳米 SuperFin（又名英特尔的第二代 10 nm 制程芯片，其中最引人注目的是第 11 代 Tiger Lake）的继任者。英特尔表示，与上一代相比，新的 Intel 7 硬件将在每瓦性能方面提供大约 10% 到 15% 的性能提升，或者说，如果硬件制造商希望保持性能不变，则 Intel 7 将会提高电源效率和电池寿命。</p> 
+<p>首款基于 Intel 7 的产品最早将于今年推出，预计将于 2021 年底发布用于消费级产品的 Alder Lake 芯片，以及将于 2022 年发布用于数据中心的 Sapphire Rapids 芯片。</p> 
+<p>Intel 4 是原 Intel 7nm 制程的正式架构，去年夏天由于制造问题英特尔被迫推迟到 2023 年。最初计划是在 2021 年推出，这是英特尔的下一个重大技术飞跃，使用的是极紫外 (EUV) 技术。作为对比，三星和台积电的 5 纳米节点产品已经使用了这一技术。它仍将使用英特尔自 2011 年以来一直使用的宽 FinFET 晶体管架构。</p> 
+<p>由于技术的改进，预计 Intel 4 晶体管密度将达到每平方毫米约 2-2.5 亿个晶体管，而台积电当前的 5 纳米节点上的晶体管密度约为每平方毫米 1.713 亿个。</p> 
+<p>英特尔表示，Intel 4 将使每瓦性能提高约 20%，同时减少整体面积，预计将于 2022 年下半年投产，并计划在 2023 年推出第一批 Intel 4 产品（Meteor Lake 用于消费级产品，Granite Rapids 用于数据中心）。</p> 
+<p>Intel 3 定于 2023 年下半年生产，是英特尔先前命名方案下的第二代 7 纳米产品的新名称。与 Intel 4 一样，它仍然是 FinFET 产品，尽管英特尔表示它将提供额外的优化和使用 EUV ，与 Intel 4 相比，每瓦性能大约提高 18%。Intel 3 芯片的发布日期或产品名称尚未公布，但据推测，它们要到 2024 年才能上市。</p> 
+<p>随后芯片制程将进入全新时代：Intel 20A，也即以前的 5nm 制程，将于 2024 年推出。A 代表 Ångström（简称埃，符号 Å，1 Å = 10^–10m= 0.1nm）。这是英特尔从 FinFETs 转向 Gate-All-Around （GAA）晶体管 RibbonFET 的重要标志。</p> 
+<p>英特尔还推出了新的 PowerVia 技术，可以在晶圆背面传输电路大幅提升晶体管密度，英特尔将是业内首个应用这一技术的公司。</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_b6844402db5540208c55d61432fd3c89_img_000" data-img-size-val="1080,602" referrerpolicy="no-referrer"></p> 
+<p>此外，英特尔架构路线图中没有列出的是英特尔 18A，预计将于 2025 年推出。英特尔 18A 将使用其率先获得的 ASML 公司最新 EUV 光刻机 High-NA EUV 机器，它能够进行更加准确的光刻。</p> 
+<p>据 AnandTech 网站从英特尔处确认的消息，英特尔将向代工厂客户提供英特尔 3 和英特尔 20A。</p> 
+<p>完整时间线如下图所示：</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_4e49c7aa1415458f9618f42eda58b8bb_img_000" data-img-size-val="1080,449" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc">图源：AnandTech</p> 
+<p>根据目前获得的消息，英特尔制程节点新老命名之间更直观的对比如下：</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_543939491a3346b8b14afb4b6b8fdce1_img_000" data-img-size-val="1036,960" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc">图源：AnandTech</p> 
+<p>除了全新的架构路线图之外，英特尔宣布对 Foveros 芯片堆栈封装技术进行了两项重大更新，并且第二代技术将于 2023 年的英特尔 4 Meteor Lake 处理器中首次亮相。</p> 
+<p><img src="https://img.36krcdn.com/20210727/v2_73ad3663223c407db41710c93107b942_img_000" data-img-size-val="1080,600" referrerpolicy="no-referrer"></p> 
+<p>Foveros 芯片堆栈可以将数种硬件元素集成到单个芯片中，例如英特尔 Lakefield 芯片将 5 个 CPU 核心、1 个集成 GPU 和 DRAM 堆叠在了一个紧凑的堆栈中。与传统设计相比，这样做可以节省内部空间，并将多种不同制程，甚至不同品牌的小芯片集成为同一块大芯片，实现前所未有的性能。下图为具体的更新：Foveros Omni 和 Foveros Direct。</p> 
+<p>Foveros Omni 将更容易地混合和匹配 tile，而不用管它们的尺寸如何，这样可以使得堆栈中的 base tile 面积小于 top tile，从而允许堆叠芯片的更多样性。Foveros Direct 将实现组件之间直接的铜对铜（copper-to-copper）键合，从而降低电阻并减少凸点间距至 10 <a class="project-link" data-id="32740" data-name="微米" data-logo="https://img.36krcdn.com/20200729/v2_b4bfc7107198481dbced94d15dd845c7_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/32740" target="_blank">微米</a>以下，让 3D 晶体管堆叠的互联密度提升一个数量级，让多芯片封装和单芯片之间的界限逐渐模糊。</p> 
+<p>这两种全新的 Foveros 技术计划于 2023-24 年投入生产。</p> 
+<p>多个小芯片整合面临良品率的挑战，英特尔表示其拥有强大的芯片测试能力，可以提高良率，减小废片的可能性。</p> 
+<h2 label="一级标题">英特尔代工大客户：AWS 和高通</h2> 
+<p>目前，英特尔 10nm 芯片的出货量已经超过了自己的 14nm 芯片。英特尔新的架构命名或许有助于该公司更准确地定位当前和未来产品，以应对竞争，但仍然没有改变英特尔芯片制造技术的现状。</p> 
+<p>即使承认英特尔 7 与其他代工厂的 7nm 产品相当，台积电、三星等代工厂的 7nm 芯片和 5nm 硬件也已经出货。这意味着依赖这些外部代工厂的公司——比如苹果、AMD、<a class="project-link" data-id="3969182" data-name="英伟达" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969182" target="_blank">英伟达</a>、高通，以及几乎所有其他主要科技公司——仍然可以获得比英特尔最好的产品更先进的芯片。</p> 
+<p>例如，苹果最高级的 M1 Mac 已经使用了台积电的 5nm 芯片——并且轻松超过英特尔的同类产品。有传言称，AMD 最早也将在 2022 年开发 5nm Zen 4 处理器，这可能会为英特尔提供类似的竞争，以应对其已经逐渐蚕食的竞争对手。</p> 
+<p>即使其路线图有雄心勃勃的年度节奏，英特尔仍在落后。在今天宣布的路线图中，其预计要在 2024 年前后英特尔 20A 制程推出后赶上业内领先水平。而且它预计要到 2025 年将凭借英特尔 18A 重新夺回半导体业务的领导地位。</p> 
+<p>有关英特尔收购 GlobalFoundries 的消息，英特尔不予评论。此外 Pat Gelsinger 表示，今天宣布的这些技术都是在美国研发和制造的。</p> 
+<p>英特尔的 IDM 2.0 计划也包括开放英特尔自身的晶元工厂给外界，在活动中，英特尔也宣布了旗下代工服务的最新进展——英特尔开放的第一个新客户将是 AWS，其将获得英特尔封装解决方案。而在 intel 20A 制程节点上，英特尔代工的重要客户将是高通，2024-25 年的骁龙手机芯片或许将使用英特尔的代工。</p> 
+<p>最后，英特尔表示在 10 月 27 日的 Intel Innovation 上还会有更多重要消息放出。</p> 
+<h3 label="二级标题">参考链接：</h3> 
+<p>https://www.theverge.com/2021/7/26/22594074/intel-acclerated-new-architecture-roadmap-naming-7nm-2025</p> 
+<p>https://www.anandtech.com/show/16823/intel-accelerated-offensive-process-roadmap-updates-to-10nm-7nm-4nm-3nm-20a-18a-packaging-foundry-emib-foveros</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a href="https://mp.weixin.qq.com/s/j8oTRc5OkyWj_MH1V0DADw">“机器之心”（ID:almosthuman2014）</a>，作者：Synced<a class="project-link" data-id="301965" data-name="机器之心" data-logo="https://img.36krcdn.com/20210309/v2_961aae4259984d91a98beef030252f95_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/301965" target="_blank">机器之心</a>，36氪经授权发布。</p>  
+</div>
+            
