@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210727/1627349571_378118.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 27 Jul 2021 01:37:00 GMT
+date: Tue, 27 Jul 2021 02:54:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210727/1627349571_378118.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210727/1627349571_3781
 在当年EA的《NBA Live》系列在PC端是碾压2K的存在，主机端也是与2K平分秋色，可是目前该系列从《NBA Live 19》开始就没有再开发新作，近日，有传闻称，EA正在开发“次世代”篮球游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210727/1627349571_378118.jpg" alt="2K危！EA正在打造次世代NBA篮球游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210727/1627349571_378118.jpg" alt="2K危！EA正在打造次世代NBA篮球游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 据外媒Axios报道，EA Sports总经理Daryl Holt在一次采访时表示：“我们有一些次世代HD篮球项目。我们一直在讨论、设计、制作这些项目。”IGN在报道中提到：在这种语境下，“HD”就是游戏主机在速记时的简写代称，这意味着EA的意图是让这些项目登陆PS5、Xbox Series X这样的次世代主机平台，而非手机平台。
