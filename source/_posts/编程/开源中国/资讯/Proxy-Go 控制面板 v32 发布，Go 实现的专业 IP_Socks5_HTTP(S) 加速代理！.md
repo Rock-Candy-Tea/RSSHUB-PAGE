@@ -1,0 +1,38 @@
+
+---
+title: 'Proxy-Go 控制面板 v3.2 发布，Go 实现的专业 IP_Socks5_HTTP(S) 加速代理！'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://oscimg.oschina.net/oscnet/up-9a7f93af16b26d5592288c878ad347937da.png'
+author: 开源中国
+comments: false
+date: Wed, 28 Jul 2021 02:19:00 GMT
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-9a7f93af16b26d5592288c878ad347937da.png'
+---
+
+<div>   
+<div class="content">
+                                                                                            <p style="text-align:left"><img height="291" src="https://oscimg.oschina.net/oscnet/up-9a7f93af16b26d5592288c878ad347937da.png" width="400" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left">Proxy-Go 控制面板 ProxyAdmin 是强大的代理服务工具 <a href="https://gitee.com/snail/proxy">snail007/goproxy</a> 的控制面板，运行了它，一秒让你的服务器变为强大的代理服务器，友好的交互界面，小白也能轻松上手，让你用起来得心应手，心情舒畅。</p> 
+<h4 style="text-align:left">更新内容：</h4> 
+<p style="text-align:start">1.更新到最新版 SDK 11.0。</p> 
+<p style="text-align:start">更新：<br> v3.0及以后版本，执行：proxy-admin update，即可完成快速更新到最新版。</p> 
+<h4 style="text-align:left">功能预览</h4> 
+<p style="text-align:left">展现客户端参数</p> 
+<p style="text-align:left">实时日志</p> 
+<p style="text-align:left"><img alt height="346" src="https://oscimg.oschina.net/oscnet/da2ecb9efa6eb5840317260bf7f85d298cc.jpg" width="700" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left">参数文件管理</p> 
+<p style="text-align:left"><img alt height="306" src="https://oscimg.oschina.net/oscnet/0ad6740404e7381e28c02d1197620a75dec.jpg" width="700" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left">调试模式</p> 
+<p style="text-align:left"><img alt height="346" src="https://oscimg.oschina.net/oscnet/331494c3bb56c3569d3ef40fbe20ad9f91b.jpg" width="700" referrerpolicy="no-referrer"></p> 
+<p style="text-align:left">下载地址:</p> 
+<ul> 
+ <li> <p><a href="https://gitee.com/snail/proxy_admin_free" target="_blank">Gitee</a></p> </li> 
+ <li> <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fsnail007%2Fproxy_admin_free" target="_blank">GitHub</a></p> </li> 
+</ul>
+                                        </div>
+                                      
+</div>
+            
