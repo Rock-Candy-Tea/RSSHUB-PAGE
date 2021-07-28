@@ -5,19 +5,19 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://r5.hpoi.net.cn/gk/cover/n/2021/07/85c85747c5a04c07bd5de1e71dd405ff.jpeg?date=1627377337740'
+headimg: 'https://r5.hpoi.net.cn/gk/cover/n/2021/07/aeda60282ff2406fbf88b50287c19553.jpg?date=1627438069331'
 author: Hpoi 手办维基
 comments: false
-date: Tue, 27 Jul 2021 09:54:54 GMT
-thumbnail: 'https://r5.hpoi.net.cn/gk/cover/n/2021/07/85c85747c5a04c07bd5de1e71dd405ff.jpeg?date=1627377337740'
+date: Tue, 27 Jul 2021 09:23:35 GMT
+thumbnail: 'https://r5.hpoi.net.cn/gk/cover/n/2021/07/aeda60282ff2406fbf88b50287c19553.jpg?date=1627438069331'
 ---
 
 <div>   
 类型:
                     
                         
+                            手办
                         
-                            动漫模型
                         
                         
                         
@@ -37,6 +37,6 @@ thumbnail: 'https://r5.hpoi.net.cn/gk/cover/n/2021/07/85c85747c5a04c07bd5de1e71d
                     
                 
                     
-                <br><img src="https://r5.hpoi.net.cn/gk/cover/n/2021/07/85c85747c5a04c07bd5de1e71dd405ff.jpeg?date=1627377337740" referrerpolicy="no-referrer">  
+                <br><img src="https://r5.hpoi.net.cn/gk/cover/n/2021/07/aeda60282ff2406fbf88b50287c19553.jpg?date=1627438069331" referrerpolicy="no-referrer">  
 </div>
             

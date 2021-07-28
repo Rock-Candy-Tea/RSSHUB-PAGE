@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/elder-scrolls/1861598136-1571942215/wren_02.jpg'
 author: Blur Studio
 comments: false
-date: 2021-07-28 01:55:00
+date: 2021-07-28 02:23:41
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/elder-scrolls/1861598136-1571942215/wren_02.jpg'
 ---
 

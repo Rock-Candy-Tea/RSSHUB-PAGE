@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://static.oschina.net/uploads/space/2021/0728/080211_OiO3_4252687.png'
+headimg: 'https://oscimg.oschina.net/oscnet/up-3c21e49b28eee8b33bca5365e8d684bf5e1.png'
 author: 开源中国
 comments: false
 date: Wed, 28 Jul 2021 08:02:00 GMT
-thumbnail: 'https://static.oschina.net/uploads/space/2021/0728/080211_OiO3_4252687.png'
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-3c21e49b28eee8b33bca5365e8d684bf5e1.png'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/0728/080211_OiO3_42526
 </ul> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.haiku-os.org%2Fget-haiku%2Fr1beta3%2Frelease-notes%2F" target="_blank">完整变更内容点此查看</a>。</p> 
 <p>Haiku 前身是 BeOS 操作系统，在 BeOS 被收购后更名为 Haiku。Haiku 延续了 BeOS 的用户体验和个性化，它是一个快速、简洁优雅、易学易用，而且非常强大的操作系统。“Haiku”一词来源于日语“俳句”，因 BeOS 里大量输出信息使用俳句的形式而得名。</p> 
-<p><img height="279" src="https://static.oschina.net/uploads/space/2021/0728/080211_OiO3_4252687.png" width="500" referrerpolicy="no-referrer"></p>
+<p><img alt="up-3c21e49b28eee8b33bca5365e8d684bf5e1.png" src="https://oscimg.oschina.net/oscnet/up-3c21e49b28eee8b33bca5365e8d684bf5e1.png" referrerpolicy="no-referrer"></p>
                                         </div>
                                       
 </div>
