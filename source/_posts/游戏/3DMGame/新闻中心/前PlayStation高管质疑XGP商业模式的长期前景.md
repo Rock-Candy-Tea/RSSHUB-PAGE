@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210728/1627441676_775602.png'
 author: 3DMGame
 comments: false
-date: Wed, 28 Jul 2021 03:08:00 GMT
+date: Wed, 28 Jul 2021 03:45:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210728/1627441676_775602.png'
 ---
 
@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210728/1627441676_7756
 在昨日（7月27日）发布的重点介绍了他最近被任命为Steamlin Media Group的顾问委员会成员的采访中，Layden对XGP模式的可持续性以及其扩展游戏主机市场的潜力表示怀疑。他说道：“很难通过每月收取9.99美元订阅费用来维持一部价值1.2亿美元的游戏。你算一算就知道，在你开始收回你的投资之前，你将不得不拥有5亿订阅者。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210728/1627441676_775602.png" alt="前PlayStation高管质疑XGP商业模式的长期前景" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210728/1627441676_775602.png" alt="前PlayStation高管质疑XGP商业模式的长期前景" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在此之前Layden还曾表示，3A游戏开发整体上“不可持续”，并建议可能需要调整游戏长度和定价以应对不断膨胀的游戏预算。
@@ -41,7 +41,7 @@ Layde继续说道：“这就是为什么现在你需要采取亏损领先的位
 随后他又补充说道：“人们买游戏机的原因不是为了客厅里有更多的金属塑料废物。他们购买主机是因为他们想要访问内容。如果你能找到一种无需任何设备就能将内容带入人们家中的办法，那么可能是可行的。每个人（厂商）都有某种形式的云游戏解决方案。其中大部分受到玩家是否有良好的网络连接的限制。而且他们还没有构建出适用于此的商业模式。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210728/1627441686_204926.png" alt="前PlayStation高管质疑XGP商业模式的长期前景" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210728/1627441686_204926.png" alt="前PlayStation高管质疑XGP商业模式的长期前景" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 虽然目前XGP的确还没有足够的订阅者使其盈利，但是Xbox总裁Phil Spencer曾表示：“我们认可XGP现在的价值，从商业模式来看，它是完全可持续的。”并表示公司完全没有提高服务定价的计划。

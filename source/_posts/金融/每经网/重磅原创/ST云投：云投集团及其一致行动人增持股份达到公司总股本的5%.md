@@ -34,7 +34,7 @@ thumbnail: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/b0f8ff76d
 
               <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E4%BA%91%E5%8D%97%E7%9C%81" class="typeTag tagColor2">云南省</a>
 
-              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=002200" data-stock-code="002200" class="typeTag tagColor1">ST云投 <abbr class="lows">-2.5%</abbr> </a>
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=002200" data-stock-code="002200" class="typeTag tagColor1">ST云投 <abbr class="highs">+1.7%</abbr> </a>
 
         </div>
         <!-- div class="typeTags">
