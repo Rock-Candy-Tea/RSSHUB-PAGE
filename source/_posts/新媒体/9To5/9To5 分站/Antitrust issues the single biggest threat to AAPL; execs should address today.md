@@ -15,7 +15,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/App
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Apple-execs-should-address-antitrust-issues-today.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>An analyst has suggested that <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> issues are the single biggest threat to <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">AAPL</a>, and that company execs should outline plans to address the matter during <a href="https://9to5mac.com/2021/06/30/apple-schedules-q3-2021-earnings-release-and-call-for-july-27/" target="_blank" rel="noreferrer noopener">today’s earnings call</a>.</p>
-<p>We’re expecting to hear good news today, the Wall Street consensus <a href="https://9to5mac.com/2021/07/26/aapl-q3-2021-earnings-expectations/" target="_blank" rel="noreferrer noopener">anticipating revenue of $72.93 million</a> for the quarter, which would be dramatically up on <a href="https://9to5mac.com/2020/07/30/apple-q3-2020-earnings/" target="_blank" rel="noreferrer noopener">the same quarter last year</a> …</p>
+<p>We’re expecting to hear good news today, the Wall Street consensus <a href="https://9to5mac.com/2021/07/26/aapl-q3-2021-earnings-expectations/" target="_blank" rel="noreferrer noopener">anticipating revenue of $72.93 billion</a> for the quarter, which would be dramatically up on <a href="https://9to5mac.com/2020/07/30/apple-q3-2020-earnings/" target="_blank" rel="noreferrer noopener">the same quarter last year</a> …</p>
 <p><span id="more-740197"></span>
 </p>
 <blockquote class="wp-block-quote">
