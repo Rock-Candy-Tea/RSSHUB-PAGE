@@ -1,0 +1,18 @@
+
+---
+title: 'TrendForce：2021年全球前三大基站设备商合计市占略缩减'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=2580'
+author: 199IT
+comments: false
+date: Wed, 28 Jul 2021 07:34:45 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2580'
+---
+
+<div>   
+TrendForce：2021年全球前三大基站设备商合计市占略缩减  
+</div>
+            
