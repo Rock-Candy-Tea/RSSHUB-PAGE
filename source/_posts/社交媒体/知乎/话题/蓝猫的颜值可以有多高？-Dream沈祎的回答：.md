@@ -1,0 +1,18 @@
+
+---
+title: '蓝猫的颜值可以有多高？-Dream沈祎的回答：'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-88f8d91605aac7ba708697ed431cfbde_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 28 Jul 2021 10:51:37 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-88f8d91605aac7ba708697ed431cfbde_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>蓝猫的颜值可以有多高？</strong><br>Dream沈祎的回答<br><p></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-88f8d91605aac7ba708697ed431cfbde_720w.jpg?source=54b3c3a5" data-rawwidth="1733" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-1c8d42279fd9e145acc32c3ea8b781c1_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-88f8d91605aac7ba708697ed431cfbde_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-88f8d91605aac7ba708697ed431cfbde_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-c9036d2ce8fce7878afe81846b019010_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1764" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-dfe48eb6cf5cd0729990bfd87eea3038_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-c9036d2ce8fce7878afe81846b019010_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-c9036d2ce8fce7878afe81846b019010_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-58ba2f2f68ca0325cb9c18eaebc22ea7_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-421fbc2eb1dc04f2e503292f5e3eb763_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-58ba2f2f68ca0325cb9c18eaebc22ea7_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-58ba2f2f68ca0325cb9c18eaebc22ea7_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-1410725e950892886095668565d60993_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-44527b1cae2d0191f218efdee3b1cfda_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-1410725e950892886095668565d60993_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-1410725e950892886095668565d60993_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1403787890225238018" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-1988589a27c72d04ca81adcf23fc459e.jpeg" data-lens-id="1403787890225238018">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-1988589a27c72d04ca81adcf23fc459e.jpeg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1403787890225238018</span>              </span>            </span></span></span></a>            </p><p></p>  
+</div>
+            

@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1117'
+headimg: 'https://picsum.photos/400/300?random=1352'
 author: 36kr
 comments: false
 date: Wed, 28 Jul 2021 10:06:39 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1117'
+thumbnail: 'https://picsum.photos/400/300?random=1352'
 ---
 
 <div>   
@@ -41,6 +41,8 @@ thumbnail: 'https://picsum.photos/400/300?random=1117'
 <p>36氪获悉，<a class="project-link" data-id="8304" data-name="企业微信" data-logo="https://img.36krcdn.com/20210714/v2_7cf18d7e4d8040bca0212cf822b260c4_img_000" data-refer-type="1" href="https://www.36dianping.com/space/3898012115" target="_blank">企业微信</a>服务商“<a class="project-link" data-id="42825" data-name="探马" data-logo="https://img.36krcdn.com/20210714/v2_de94b6af056c482fb1051ebd1e9b6523_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4411700222" target="_blank">探马</a>SCRM”宣布获得1500万美元B轮融资，由软银亚洲风险投资公司领投，顺为资本<a class="project-link" data-id="105861" data-name="联合投资" data-logo="https://img.36krcdn.com/20200729/v2_2532586d358a4080a6555ed4fd7e00bb_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/105861" target="_blank">联合投资</a>。探马SCRM创始人&CEO常丰峰表示，本轮融资将继续用于产品创新、市场开拓和人才引进。</p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.36kr.com/newsflashes/1329881992730633"><strong>建筑设计AI平台“品览智造”完成A++轮融资</strong></a></p> 
 <p>36氪获悉，建筑设计AI平台“品览智造”已于日前获得<a class="project-link" data-id="3968578" data-name="idg资本" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968578" target="_blank">idg资本</a>领投的A++轮融资。本次融资已是品览在半年内获得的第三轮融资，累计金额数亿人民币。融资将用于加速AlphaDraw“筑绘通”社区版的研发和市场推广。</p> 
+<p><a href="https://www.36kr.com/newsflashes/1329878206863362">3D打印全产业链公司“博理科技”完成近亿元A+轮融资</a></p> 
+<p>36氪获悉，近日，“博理科技”宣布完成近亿元A+轮融资，由绿洲资本领投，盈峰资本、青锐创投、君子兰资本、东运创投等跟投，老股东金沙江联合资本继续加持。新一轮的资金将主要用于研发投入、产能扩充和市场推广。据官方介绍，博理科技是一家基于超高速光固化技术路线的3D打印全产业链公司，主营业务覆盖材料研发、设备制造、软件研发、成套方案、生产服务。</p> 
 <h3>新产品</h3> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.36kr.com/newsflashes/1329881221798150"><strong>币安将与全球第二大博物馆合作，发行基于达芬奇等艺术家作品的NFT</strong></a></p> 
 <p>币安周一宣布，将与俄罗斯圣彼得堡冬宫博物馆合作，创作并发行基于该博物馆收藏品的代币化艺术品，包括达芬奇的《Madonna Litta》、梵高的《Lilac Bush》等限量版NFT，这些NFT将于2021年8月底在币安NFT市场上拍卖。每件艺术品将创建两份NFT副本，其中一份将通过币安NFT市场进行拍卖，而第二份NFT将存储在该博物馆中。（新浪财经）</p> 
@@ -51,8 +53,6 @@ thumbnail: 'https://picsum.photos/400/300?random=1117'
 <p><a class="project-link" data-id="481166" data-name="东莞证券" data-logo="https://img.36krcdn.com/20200930/v2_2a4958a2fc6c4aaf8dcbd759b88d5411_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/481166" target="_blank">东莞证券</a>首席经济学家杨博光表示，由于经济增长边际变弱，且全球各国货币政策方向存在不确定性，下半年全面牛市可能性不大；全面熊市的概率也较小，这是由于目前市场逐渐往机构化发展，公募基金投资周期较长，理性资金占多，发生大量资金疯狂离场的系统性风险很小。房价涨势<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20200929/v2_fcdf767846d041309970adf0877fc666_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>压制后，投资增值的需求不断促使资金入场买票，获取股息红利式的理性投资逐步占据多数。因此，预计下半年的市场仍是以结构性行情为主。（证券时报）</p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.36kr.com/newsflashes/1329686188382212"><strong>大宗商品供应已有回暖之势，专家称下半年价格或处高位震荡</strong></a></p> 
 <p>通过梳理发现，以铁矿石、钢材为主的龙头工业品品种供应有所回暖，价格波动也相对企稳。多位专家表示，年内大宗商品整体供需仍处偏紧格局，尤其是工业品板块，需要相对稳定，供应则是影响价格波动的主因；年中之际，工业品价格波动相对企稳，且供应有所保证。下半年，在需求不确定性增加下，供需缺口预计将会收窄，预计将大概率处于高位震荡。（证券日报）</p> 
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.36kr.com/newsflashes/1329878206863362"><strong>3D打印全产业链公司“博理科技”完成近亿元A+轮融资</strong></a></p> 
-<p>36氪获悉，近日，“博理科技”宣布完成近亿元A+轮融资，由绿洲资本领投，盈峰资本、青锐创投、君子兰资本、东运创投等跟投，老股东金沙江联合资本继续加持。新一轮的资金将主要用于研发投入、产能扩充和市场推广。据官方介绍，博理科技是一家基于超高速光固化技术路线的3D打印全产业链公司，主营业务覆盖材料研发、设备制造、软件研发、成套方案、生产服务。</p> 
 <h3>其他重要新闻</h3> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.36kr.com/newsflashes/1329694404499457"><strong>政策利好纷至，5G规模化应用加力提速</strong></a></p> 
 <p>目前全国5G应用创新案例超过1万个，数量和创新性均处于全球第一梯队。下一步更多政策利好将持续加码，包括增强关键产业环节的供给能力，发挥工业、交通、能源等各行业龙头企业引领作用，树立一批高水平应用标杆，发挥京津冀、长三角、粤港澳等区域产业集聚效应，建设一批行业特色应用集群等。基础电信企业进一步敲定施工图，明确5G网络规模部署时间表，加快5G在工业互联网、智能采矿等重点领域的应用落地。（经济参考报）</p> 
