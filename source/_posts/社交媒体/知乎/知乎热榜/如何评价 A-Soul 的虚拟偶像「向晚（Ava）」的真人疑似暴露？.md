@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-d7a8b173fbcffaa7fa5647c43b4327d4_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8638'
 author: 知乎
 comments: false
-date: Wed, 28 Jul 2021 04:57:23 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-d7a8b173fbcffaa7fa5647c43b4327d4_1440w.jpg'
+date: Wed, 28 Jul 2021 02:56:45 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8638'
 ---
 
 <div>   
-gay核冒雨王的回答<br><br><p>你晚子姐确实是纯了点，全网同ID，换皮还舍不得那帮老粉丝，自己的那些生活习惯就真的不是RP的，只玩真实了属于是。</p><p>问题是现在先给她保下来再说，不然人都没了还看啥呢，当务之急，那帮老粉都得表个态，一些账号的私人言论问题该处理处理。</p><p>然后一些梗是用不了了，比如AVA向晚啊什么的，总不能一提起来就让人想起那个老粉吧，哪怕跟那个阿八无关，但只要一提到就能想起他，也是够闹心。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d7a8b173fbcffaa7fa5647c43b4327d4_1440w.jpg" data-rawwidth="960" data-rawheight="2133" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-0562c3b0f9cbf309e17301223e4328b9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d7a8b173fbcffaa7fa5647c43b4327d4_r.jpg" referrerpolicy="no-referrer"></figure><p>向晚疑似的小号是二人共用的，所以不好说那些图和发言是谁搞的。</p>  
+DR岩凌的回答<br><br><p>A-SOUL倡导粉丝独立思考，不结群不报团。</p><p>那么综合现在网上的事态发展，我思考的结果如下。</p><p>1.关于开盒者，并不能知晓ta的动机，在此不做评论。</p><p>2.开盒情况我大概略了一遍，没有特别多的黑点（虾除外），并不能过多影响我接下来的顶碗人生涯。</p><p>3.关于破防的粉丝，我不做过多评价。如果我转生了做大了我不去感谢一下我的老粉我觉得说不过去，中国倡导知恩图报。如果在前世可能因为各种原因放弃了虚拟偶像（or主播）这条道路，可能今天我们甚至看不到这样一位向晚大魔王。至于感恩的方式，方法是否影响观感，需要大家一起探讨。老粉导致的保密问题也是威胁晚子姐的问题（晚啊你也忒憨了。）</p><p>4.有关虾的问题，个人比较介意，但现在除了等待官方方面发声之外没有任何办法。且出于时间原因，当时空警察和事后诸葛亮并不可取。</p><p>不盲从，不要被带了节奏给人当了枪使。严格思考和反省自己的行为和将要实施的举动是否得当。把A-SOUL混成饭圈，只能让我们一开始的口号，我们一个魂一直以来的努力全部木大罢了</p>  
 </div>
             

@@ -7,16 +7,16 @@ categories:
  - 游戏
  - GNN.tw 游戏新闻
  - GNN.tw 游戏新闻
-headimg: 'https://p2.bahamut.com.tw/S/2KU/11/d8b449b2b3cd0fffa1904049121d5lv5.JPG'
+headimg: 'https://p2.bahamut.com.tw/S/2KU/54/0a5d76146e9a11ab92a12bb4c21d5pu5.JPG'
 author: GNN.tw 游戏新闻
 comments: false
 date: Invalid Date
-thumbnail: 'https://p2.bahamut.com.tw/S/2KU/11/d8b449b2b3cd0fffa1904049121d5lv5.JPG'
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/54/0a5d76146e9a11ab92a12bb4c21d5pu5.JPG'
 ---
 
 <div>   
 GRAMS co.,ltd.（株式会社グラムス）於近日正式發表 iOS / Android / PC 新作《Ragnador 妖怪皇帝與終焉的夜叉姬（暫譯，ラグナドール 妖しき皇帝と終焉の夜叉姫）》，預計 2021 年 9 月展開服務，目前...
 繼續閱讀
-<img src="https://p2.bahamut.com.tw/S/2KU/11/d8b449b2b3cd0fffa1904049121d5lv5.JPG" referrerpolicy="no-referrer">  
+<img src="https://p2.bahamut.com.tw/S/2KU/54/0a5d76146e9a11ab92a12bb4c21d5pu5.JPG" referrerpolicy="no-referrer">  
 </div>
             
