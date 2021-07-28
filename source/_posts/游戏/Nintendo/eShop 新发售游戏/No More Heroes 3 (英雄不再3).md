@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/70010000021242.jpeg'
 author: Nintendo
 comments: false
-date: 2021-07-28 09:07:04
+date: 2021-07-28 10:07:21
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000021242.jpeg'
 ---
 
