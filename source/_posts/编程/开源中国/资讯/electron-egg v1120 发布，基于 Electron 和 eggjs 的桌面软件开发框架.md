@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/wallace5303/electron-egg/raw/master/build/img/file
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>electron-egg v1.12.0 已经发布，基于 Electron 和 egg.js 的桌面软件开发框架。</p> 
+                                                                                            <p>electron-egg v1.12.0 已经发布，基于 Electron 和 egg.js 的桌面软件开发框架。</p> 
 <h2>特性</h2> 
 <ol> 
  <li>跨平台：一套代码，可以打包成windows版、Mac版、Linux版或者以web网站运行</li> 

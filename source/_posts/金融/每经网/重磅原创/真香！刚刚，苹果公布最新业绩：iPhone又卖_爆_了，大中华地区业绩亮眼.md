@@ -1,0 +1,67 @@
+
+---
+title: '真香！刚刚，苹果公布最新业绩：iPhone又卖_爆_了，大中华地区业绩亮眼'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/8164048379128570880.gov_img/2021/7/28/1158183760356399104.jpeg'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/8164048379128570880.gov_img/2021/7/28/1158183760356399104.jpeg'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          真香！刚刚，苹果公布最新业绩：iPhone又卖“爆”了，大中华地区业绩亮眼
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-07-28 07:46:29
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+          <p style="color:#6d6d6d;font-size: 16px;">
+            每经编辑 何小桃    
+          </p>
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p><span>美股周二录得六个交易日来的首次下跌，科技股领跌。市场密切关注德尔塔变异毒株的传播及其对经济的影响。美联储从今天开始召开货币政策会议，明天将公布会议结果。</span></p>            <p><span>截至收盘，道指收跌85.79点，跌幅0.24%，报35058.52点；标普500收跌0.47%，报4401.46点，均为上周一以来首次收跌。</span><span>纳指收跌1.21%，报14660.58点，继7月19日之后，再度创5月12日以来最大收盘跌幅。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/8164048379128570880.gov_img/2021/7/28/1158183760356399104.jpeg" alt="1158183760356399104.jpeg" referrerpolicy="no-referrer"></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/6971580719994210304.gov_img/2021/7/28/7145961230116506624.png" alt="7145961230116506624.png" referrerpolicy="no-referrer"></p>      <p><strong><span>真香！iPhone大卖，</span></strong></p>      <p><strong><span>销售同比激增近50%</span></strong></p>            <p><span>周二美国科技龙头集体下跌，其中苹果跌1.49%、特斯拉跌1.95%、亚马逊跌1.98%、谷歌跌2.04%、Facebook跌1.25%、微软跌0.87%、高通跌1.79%、AMD跌0.86%、奈飞涨0.47%、英特尔跌2.08%。</span></p>            <p><span>周二美股收盘后，苹果、谷歌的母公司Alphabet和微软这三家科技巨头公布了最新一季度财报。</span></p>            <p><span><strong><span>iPhone销售同比激增近50%</span></strong></span></p>      <p><span><strong><span>大中华地区的销售收入大增58%</span></strong></span></p>            <p><span>财报显示，苹果在2021财年第三财季总营收814亿美元，同比增36%，高于分析师预期的738亿美元，创公司史上同期营收新高。摊薄后每股收益EPS为1.30美元，同比翻倍，也高于市场预期的1.01美元。</span></p>            <p><span>分业务来看：</span></p>      <p><span>当季iPhone营收395.7亿美元，</span><span>同比激增近50%，</span><span>高于市场预期的345亿美元。</span></p>                <p><span>当季iPad营收73.7亿美元，同比增12%，高于市场预期的71.3亿美元。</span></p>                <p><span>当季Mac营收82.4亿美元，同比增16%，高于市场预期的80亿美元，但逊于一季度91亿美元所创的历史最高。</span></p>                <p><span>当季可穿戴设备、居家用品及周边产品营收87.8亿美元，同比增36%，高于预期的76亿美元。</span></p>             <p><span>同时，各大地理市场分区均实现双位数百分比涨幅，大中华区增超58%：</span></p>      <p><span>当季苹果在大中华地区的销售收入同比增58%至147.6亿美元，不过同比增幅弱于上一财季的逾87%。</span></p>                <p><span>当季的美洲市场收入同比增近33%至358.7亿美元，接近上一财季的同比增速近35%。在欧洲收入189.4亿美元，同比增33.7%，弱于上季的增近56%。在日本收入64.6亿美元，同比增30%，弱于上季的增近49%。在中日以外的亚太市场收入近54亿美元，同比增28%，上季曾接近翻倍。</span></p>             <p><span>尽管苹果季度总营收创历史同期最高、服务收入创历史最高、iPhone销售同比激增近50%，盘后股价在涨超1%后重新转跌并跌超2%。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/4911917768351678464.gov_img/2021/7/28/1388842950329096192.jpeg" alt="1388842950329096192.jpeg" referrerpolicy="no-referrer"></p>      <p></p>
+<p style="text-align:center">图片来源：每经记者 张建 摄（资料图）</p>            <p><span><strong><span>微软财年三季报全面超预期</span></strong></span></p>            <p><span>微软盘后公布了该公司2021财年第四财季财报。</span></p>            <p><span>财报显示，</span><span>微软第四财季营收462亿美元，同比增长21%，</span><span>市场预期442.6亿美元；调整后每股收益2.17美元，市场预期1.92美元；净利润同比增长47%至164.58亿美元，市场预期144.40亿美元。</span></p>            <p><span>微软表示，第四财季智能云业务营收173.8亿美元，市场预期164.3亿美元；生产力业务流程部门营收增长9%至146.9亿美元，市场预期139.7亿美元；更多个人计算部门营收增长9%至140.9亿美元，市场预期137.4亿美元。</span></p>            <p><span>微软表示，本季度来自设备制造商的Windows许可营收下降了3%。</span></p>            <p><span>财报公布后，微软股价盘后一度跌超2%。</span></p>            <p><span><strong><span>业绩向好，谷歌盘后大涨</span></strong></span></p>            <p><span>谷歌母公司Alphabet盘后公布了该公司二季度财报。</span></p>            <p><span>财报显示，Alphabet二季度营收618.8亿美元，市场预期561.56亿美元；每股收益27.26美元，市场预期19.35美元。</span></p>            <p><span>Alphabet二季度营业利润193.61亿美元，约为去年同期的三倍；当季营业利润率31%，分析师预期26%，去年同期为17%。</span></p>            <p><span>Alphabet表示，</span><span>二季度YouTube广告营收70亿美元，同比增长83%，接近Netflix的季度营收73.4亿美元；</span><span>谷歌云营收46.3亿美元，市场预期44亿美元；谷歌广告营收同比增长69%至504.4亿美元。</span></p>            <p><span>财报公布后，谷歌股价盘后跳涨，涨幅一度超过4%。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/6971580719994210304.gov_img/2021/7/28/7145961230116506624.png" alt="7145961230116506624.png" referrerpolicy="no-referrer"></p>      <p><strong><span>中概股延续大跌</span></strong></p>      <p><strong><span>新东方、好未来反弹</span></strong></p>            <p><span>周二多数热门中概股继续下跌，但最近大跌的几只教育股反弹，</span><span>好未来收涨25%，高途收涨15.6%，新东方收涨12.89%。</span></p>            <p><strong><span>涨幅居前中概股：</span></strong></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/5857140554613496832.gov_img/2021/7/28/8237459700783085568.jpeg" alt="8237459700783085568.jpeg" referrerpolicy="no-referrer"></p>            <p><span>新能源汽车股集体下挫，</span><span>小鹏汽车收跌14.85%，理想汽车收跌13.94%，蔚来收跌8.83%。</span></p>            <p><span>中概电商股方面，拼多多收跌10.35%，阿里巴巴收跌2.97%，京东收跌1.98%。</span></p>            <p><span>另外，水滴收跌15.42%，富途控股收跌14.47%，有道收跌14.08%，趣头条收跌11.25%，微博收跌8.29%，哔哩哔哩收跌5.41%，百度收跌2.8%，腾讯AD跌超2%。</span></p>            <p><strong><span>跌幅居前中概股：</span></strong></p>      <p><strong></strong></p>      <p><strong></strong></p>
+<p><strong><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/8797252624616303616.gov_img/2021/7/28/540424650699225088.jpeg" alt="540424650699225088.jpeg" referrerpolicy="no-referrer"></strong></p>
+<strong></strong>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/2687151724208728064.gov_img/2021/7/28/3240726597993147392.jpeg" alt="3240726597993147392.jpeg" referrerpolicy="no-referrer"></p>            <p><span><span><strong>编辑|</strong></span><span>何小桃 杜波</span></span></p>      <p><span><strong>校对|</strong>卢祥勇</span></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/7347511901206481920.gov_img/2021/7/28/5492592008381117440.png" alt="5492592008381117440.png" referrerpolicy="no-referrer"></p>      <p><span>每日经济新闻综合华尔街见闻、新浪美股等</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/4939758755527221248.gov_img/2021/7/28/611873054849340416.png" alt="611873054849340416.png" referrerpolicy="no-referrer"></p>       <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/7/28/1890926085706583040.gov_img/2021/7/28/6867532806334040064.png" alt="6867532806334040064.png" referrerpolicy="no-referrer"></p>            
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            

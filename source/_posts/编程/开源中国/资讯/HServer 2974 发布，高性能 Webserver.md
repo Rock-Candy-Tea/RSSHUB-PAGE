@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7925'
+headimg: 'https://picsum.photos/400/300?random=4242'
 author: 开源中国
 comments: false
 date: Tue, 27 Jul 2021 17:48:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7925'
+thumbnail: 'https://picsum.photos/400/300?random=4242'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>HServer 2.9.74 已经发布，高性能 Webserver。</p> 
+                                                                                            <p>HServer 2.9.74 已经发布，高性能 Webserver。</p> 
 <p>此版本更新内容包括：</p> 
 <ol> 
  <li>动态Queue实现</li> 
