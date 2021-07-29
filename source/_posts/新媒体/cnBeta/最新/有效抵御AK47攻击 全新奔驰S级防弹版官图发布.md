@@ -1,0 +1,19 @@
+
+---
+title: '有效抵御AK47攻击 全新奔驰S级防弹版官图发布'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0729/bd73ac610e6991d.jpg'
+author: cnBeta
+comments: false
+date: Thu, 29 Jul 2021 09:22:12 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0729/bd73ac610e6991d.jpg'
+---
+
+<div>   
+作为豪华D级车的标杆，全新一代奔驰级和迈巴赫S级已经亮相并上市，但对于身兼要职的“大佬”来讲，防弹版将是一个不错的选择。日前，<strong>奔驰发布了基于全新S级打造的防弹板车型，新车名为奔驰S 680 Guard 4MATIC，动力上搭载V12发动机，堪称一辆“移动堡垒”。</strong><br>
+<p>新车外观上与普通版车型并无明显差别，但是其却拥有着VR10级别的防弹标准，也是民用防弹车的最高标准。<strong>具体来说就是可以抵御7.62×54mm钢制外壳子弹（AK47使用的便是该型号的子弹）以及手雷、C4炸药等。</strong></p><p>据介绍，<strong>这辆奔驰S级配备了加固车门、超过1cm厚度的多层玻璃和聚碳酸酯车窗、自动灭火器、紧急空气净化系统以及可续驶30km的米其林PAX防弹轮胎等配备。</strong></p><p>新车内饰设计保持了全新S级的豪华感，配置水平也毫不落伍，包括氛围灯、全液晶仪表盘、中控大屏、座椅加热/通风/<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C1276%2C795" target="_blank">按摩</a>，同时车内还安装了小<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C877%26ev%3D2664_88743%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">冰箱</a>。但是在枪林弹雨下，可能很少有人还想着在后排喝上一杯。</p><p>“铜墙铁壁”保护下，<strong>这辆奔驰S级防弹版整备质量达到了惊人的5吨，而奔驰为期配备了6.0T V12双涡轮增压发动机，最大功率612马力，峰值扭矩830牛·米，并配备四驱系统。</strong></p><p>据官方介绍，新车的制作周期为51天，其售价约为50万欧元。</p><p><a href="https://img1.mydrivers.com/img/20210729/f6ae1cdbae2f4d0c9221ab0a1fe49235.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/bd73ac610e6991d.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/bd73ac610e6991d.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/bd73ac610e6991d.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20210729/2ad4aa651add4b828b76533e24695895.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/8227c5fb5e1ab1b.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/8227c5fb5e1ab1b.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/8227c5fb5e1ab1b.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20210729/754ae66a6b354e5ab4a418c23b051497.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/b363d3b2cbb25cf.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/b363d3b2cbb25cf.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/b363d3b2cbb25cf.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20210729/5467cabe2b164ad0bfeb7092bd791987.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/17ee1a805e406fa.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/17ee1a805e406fa.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/17ee1a805e406fa.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20210729/fc7b363311dd41ef99ef3fd3970130a9.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/2d359be53cfc7e7.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/2d359be53cfc7e7.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/2d359be53cfc7e7.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20210729/9e782ceefbbe48369f35c6da14a03d72.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0729/1b5a90b1caa14d4.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0729/1b5a90b1caa14d4.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0729/1b5a90b1caa14d4.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

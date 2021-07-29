@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-5771b6c35e79a63d23ff6f4d2135c074.jpg'
+headimg: 'https://picsum.photos/400/300?random=6239'
 author: 知乎
 comments: false
-date: Thu, 29 Jul 2021 05:48:58 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-5771b6c35e79a63d23ff6f4d2135c074.jpg'
+date: Thu, 29 Jul 2021 06:25:02 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6239'
 ---
 
 <div>   
-飘来荡去的回答<br><br><p><b>7月29号13点40分来自Siri的播报结果：</b></p><p>中国获得的金牌数最多，共14枚。</p><p>中国获得了14块金牌。</p><p>美国获得了13块金牌。</p><p>日本获得了13块金牌。</p><p>俄罗斯奥林匹克委员会获得了7块金牌。</p><p>澳大利亚获得了7块金牌。</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1404074342586761216" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic2.zhimg.com/v2-5771b6c35e79a63d23ff6f4d2135c074.jpg" data-lens-id="1404074342586761216">              <img class="thumbnail" src="https://pic2.zhimg.com/v2-5771b6c35e79a63d23ff6f4d2135c074.jpg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1404074342586761216</span>              </span>            </span></span></span></a>            <p></p>  
+Chris Kung的回答<br><br><p>测试了一下，我问的问题是奥运奖牌榜</p><p>例如今天米国和日本都是13金，它就只播报美国13金，但会重复播报两次</p><p><br></p><p>第一次：“美国获得37面奖牌，其中有13枚金牌”</p><p>第二次：“其中有13枚金牌”</p><p>…… 第二次播报大概就是说的日本，只是抓数据错漏了</p>  
 </div>
             
