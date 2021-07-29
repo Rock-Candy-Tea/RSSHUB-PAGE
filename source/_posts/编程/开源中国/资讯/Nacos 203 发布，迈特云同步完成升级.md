@@ -8,7 +8,7 @@ categories:
 headimg: 'https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png'
 author: 开源中国
 comments: false
-date: Thu, 29 Jul 2021 10:46:00 GMT
+date: Thu, 29 Jul 2021 18:46:00 GMT
 thumbnail: 'https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png'
 ---
 
