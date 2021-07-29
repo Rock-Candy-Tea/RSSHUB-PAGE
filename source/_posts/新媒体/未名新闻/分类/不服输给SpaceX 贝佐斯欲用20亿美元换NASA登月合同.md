@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 未名新闻
  - 分类
-headimg: 'https://picsum.photos/400/300?random=3472'
+headimg: 'https://picsum.photos/400/300?random=4709'
 author: 未名新闻
 comments: false
 date: Wed, 28 Jul 2021 21:34:59 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3472'
+thumbnail: 'https://picsum.photos/400/300?random=4709'
 ---
 
 <div>   
