@@ -22,7 +22,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/07/29/210729092028999_u8855
 </div>
 
                 
-<div class="topicContent front_content"><p>　　近日，来自 Infinity Ward、顽皮狗、圣莫妮卡、<span style="background-color: initial; letter-spacing: 1.3px;">Bungie 等多家知名工作室的开发者共同在洛杉矶组建了新工作室 </span><span style="letter-spacing: 1.3px;">That's No Moon，并宣布工作室的首部作品会是一款注重叙事的 3A 级别单人游戏。</span></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/07/29/210729092028999_u8855.jpg" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p>　　That's No Moon 由 PlayStation 视觉美术主管 Michael Mumbauer 担任 CEO，前圣莫妮卡产品开发总监 Tina Kowaleski 担任首席战略官，前 Bungie 产品工程主管
+<div class="topicContent front_content"><p>　　近日，来自 Infinity Ward、顽皮狗、圣莫妮卡、<span style="background-color: initial; letter-spacing: 1.3px;">Bungie 等多家知名工作室的开发者共同在洛杉矶组建了新工作室 </span><span style="letter-spacing: 1.3px;">That's No Moon，并宣布工作室的首部作品会是一款注重叙事的 3A 级别单人游戏。</span></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2021/07/29/210729092028999_u8855.jpg" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p>　　That's No Moon 由前 PlayStation 视觉美术主管 Michael Mumbauer 担任 CEO，前圣莫妮卡产品开发总监 Tina Kowaleski 担任首席战略官，前 Bungie 产品工程主管
 
 Barry Genova 担任首席技术官，前 EA 高级开发总监
 
