@@ -1,0 +1,18 @@
+
+---
+title: '苹果小钢炮最新爆料：iPhone SE 3首次用上Face ID'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/61025f7d8e9f09400a57341c_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 29 Jul 2021 05:47:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/61025f7d8e9f09400a57341c_1024.jpg'
+---
+
+<div>   
+<p><strong>智东西（公众号：zhidxcom）</strong></p><p><strong>编译 | 王健恩</strong></p><p><strong>编辑 | 高歌</strong></p><p>智东西 7 月 29 日消息，最近彭博社记者 Mark Gurman 爆料称苹果计划将 Face ID 引入 iPhone SE 系列、iPad 系列及 Mac 系列。这意味着 iPhone SE 3 将有可能搭载 Face ID 功能。</p><p>iPhone SE 2 于 2020 年春季发布，是目前在售的唯一一款没有使用 Face ID 的 iPhone。最近越来越多的爆料显示，苹果将在 2022 年春季发布 iPhone SE 3，并且支持 5G，与之相关的爆料也层出不穷。</p><p>那么 iPhone SE 3 将采用怎样的设计？会具有哪些功能？会有传说中的 iPhone SE Plus 吗？以下是对最近爆料信息的梳理，或许能让你对即将到来的 iPhone SE 3 有一个更清晰的认识。</p><p>一、新 iPhone SE 明年见，或支持 Face ID</p><p>今年上半年天风国际分析师郭明錤的一份研究报告中称 iPhone SE 3 将在 2020 年发布，这一预测与后来中国台湾科技媒体 DigTimes 的报道一致。DigTimes 预测新的 iPhone SE 将在明年上半年推出，并且配备 A14 仿生芯片，也会支持 5G 功能。</p><p>最近，Mark Gurman 在其最新一期的 Power On 通讯中爆料称苹果计划将 Face ID 引入所有相关产品，包括 iPad 系列、Mac 系列以及 iPhone SE 系列。</p><p>Mark Gurman 认为苹果之所以重视 Face ID，是因为它能够在保证安全性的同时能够提供更多功能。而 Touch ID 功能更加单一，并且安全性也不及 Face ID，这对于苹果来说不是一个理想的选择。</p><p>但这并不意味着 Touch ID 将在 iPhone SE 上消失，因为 iPhone SE 3 将采用和 SE 2 相同的设计，Touch ID 可能会得以保留。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202107/61025f7d8e9f09400a57341c_1024.jpg" data-height="371" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202107/61025f7d8e9f09400a57341c_1024.jpg" referrerpolicy="no-referrer"></div></div>▲ Touch ID 与 Face ID<p></p><p>二、4.7 英寸小屏得以延续，仍采用 LCD 屏幕</p><p>现在市面上的手机越来越大，屏幕普遍超过 6 英寸。而 iPhone SE 能够畅销的一大原因就在于其小巧的机身以及极高的性价比。第一代 iPhone SE 采用了一块 4 英寸的屏幕，而第二代 SE 的尺寸有所增大，屏幕变成了 4.7 英寸。但是 iPhone SE 2 被塞下了一块 A13 仿生芯片，性能得到了大幅提高。</p><p>据郭明錤所说，即将推出的 iPhone SE 3 的尺寸不会改变，仍然采用 4.7 英寸的屏幕，并且沿用 iPhone SE 2 的外观。此前一直有传言称，苹果对 iPhone SE 3 进行了重大改造，将采用全面屏设计，这也让更多人对 SE 3 产生了期待。目前来看，这一猜想或将落空，iPhone SE 系列的非全面屏设计仍将在 SE 3 上面出现，传统的 " 大额头 " 和 " 大下巴 " 都将被保留。</p><p>另外在屏幕材质方面，iPhone SE 3 并不会使用 OLED 屏幕，而是和上一代 iPhone SE 一样采用 LCD 屏幕。以前苹果会在基础机型上采用 LCD 屏幕，如 iPhone XR、iPhone 11 等，但是从 iPhone 12 系列起，全系都采用了 OLED 屏幕。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202107/61025f7d8e9f09400a57341d_1024.jpg" data-height="450" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202107/61025f7d8e9f09400a57341d_1024.jpg" referrerpolicy="no-referrer"></div></div>▲ iPhone SE 2 与 iPhone 12 Pro Max 对比<p></p><p>三、iPhone SE Plus 或与 SE 3 一起发布</p><p>在 iPhone SE 2 发布之前就有消息称苹果将发布一款尺寸更大的 SE Plus，但是 2020 年的苹果春季发布会上并没有 SE Plus 的身影，此后有关 SE Plus 的讨论渐渐平息下来。今年，随着 iPhone SE 3 的消息越来越多，关于 iPhone SE Plus 的消息又多了起来。</p><p>郭明錤曾多次谈到更大尺寸的 iPhone SE，他先前预测苹果会在今年年末发布这一手机，后来又称 iPhone SE Plus 将在明年的春季发布会上与 SE 3 一起出现。</p><p>结语：5G 和 Face ID 的加持让 iPhone SE 更具性价比</p><p>自 2016 年初代 iPhone SE 发布以来，这一系列已经存在了 5 年，与每年固定更新的数字系列不同，SE 系列更新时间并不规律，初代 iPhone SE 发布了 4 年之后，SE 2 才与消费者们见面。</p><p>iPhone SE 系列特有的小机身与低价格吸引到了一大波粉丝为其买单，对于小屏手机爱好者来说，SE 系列是一个绝佳的选择。5G 和 Face ID 的加入也会让 iPhone SE 3 变得更具有性价比。</p><p>不过，在这个全面屏时代，" 刘海屏 "、" 水滴屏 "、" 挖孔屏 "、" 药丸屏 " 层出不穷，甚至中兴已经推出了第二代 " 真全面屏 "，仍然保持传统外观的 iPhone SE 3 俨然成了这个时代中的 " 异类 "。</p><p>iPhone SE 3 这个有着传统外观的 " 异类 " 有了性价比的加持，能吸引到多少消费者为其买单呢？</p><p>来源：彭博社、CNET</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
