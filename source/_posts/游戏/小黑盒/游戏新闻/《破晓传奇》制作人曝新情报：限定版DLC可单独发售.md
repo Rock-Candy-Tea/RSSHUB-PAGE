@@ -1,0 +1,18 @@
+
+---
+title: '《破晓传奇》制作人曝新情报：限定版DLC可单独发售'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/740130_0BkFW.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 30 Jul 2021 11:46:01 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/740130_0BkFW.jpg'
+---
+
+<div>   
+<blockquote><p>来源：游侠网</p></blockquote><p>在昨天公布《破晓传奇》最新情报的直播节目中，制作人富泽祐介向玩家解答了游戏时长、有无体验版和限定版附带的DLC是否会单独发售等问题，一起来了解一下吧！</p><p><img data-gameid="740130" src="https://cdn.max-c.com/heybox/game/header/740130_0BkFW.jpg" referrerpolicy="no-referrer"></p><p><br></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/9d895edd84304a0e928dbfbfc905a2b71627611458.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><b>Q：游玩时长有多久？</b></p><p>A：预计是和《狂战传说》差不多的游玩时长，仅剧情也可以游玩十个小时，另外还有其他内容以及二周目的要素。沿袭了以往传说系列游戏的乐趣。</p><p><b>Q：是否有体验版？</b></p><p>A：有面向媒体的Demo版，正在考虑能否向玩家提供。虽然现在还不能说具体内容，但请一定要以动作为中心感受一下手感，敬请期待。</p><p><b>Q：限定版附带的DLC是否会单独发售？</b></p><p>A：计划单独推出。</p><p><b>高级服装包</b></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/77cb03cb6c464fb3b18bc0b9191e4c321627611459.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/3d91f98d573749f9bebe72934884680b1627611459.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/03df26f3180e4ba7beb8f2961ce70ecb1627611460.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><br></p><p><br></p><p id="No_613241"><b>服装组合包</b></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/4c382494700c428dbfce7d47efc690911627611460.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/7fbabff895344b5c9a5dfabf40b63a4e1627611461.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/81b7a02889ae46f691e5889ca33d55c91627611461.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/9f3fdf0013f940738b2964182285a8bf1627611461.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><br></p><p id="No_613241"><br></p><p><br></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/d1a2b191f4b249009f3d31b6f194c2f71627611462.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/acf7935dcb544c8ba4b60b9e5563347c1627611462.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/9205c50bd9334d21a50cfd3d2ebfb1bc1627611463.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><b>历代系列战斗BGM包</b></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/5cdb6bc9b5ce4478909d3560f82f96ff1627611463.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/45227d6efc41411dad3a6a39633abaa91627611464.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/5c6593e781204a26ba3e8d757f250b9c1627611464.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="null" src="https://i1.max-c.com/imgx/2021/07/30/a3746792f65a424d8b3d4747f2dd664b1627611465.jpg" data-width="null" referrerpolicy="no-referrer"></p><p><br></p><p><br></p><p id="No_613241"><br></p>  
+</div>
+            
