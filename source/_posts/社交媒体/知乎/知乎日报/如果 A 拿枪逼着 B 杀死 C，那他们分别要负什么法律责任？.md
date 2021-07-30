@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-07-30 14:06:04
-thumbnail: 'https://pic3.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+date: 2021-07-30 15:07:14
+thumbnail: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">知乎用户，</span><span class="bio">一个圣骑士成熟的标志是不再向盲人解释阳光</span>
 <a href="https://www.zhihu.com/question/279390291/answer/407049084" class="originUrl" hidden>查看知乎原文</a>
 </strong>
