@@ -1,0 +1,70 @@
+
+---
+title: '瑞丰高材：公司在建年产6万吨生物可降解塑料PBAT项目预计于今年9月份竣工调试'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://picsum.photos/400/300?random=9148'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=9148'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          瑞丰高材：公司在建年产6万吨生物可降解塑料PBAT项目预计于今年9月份竣工调试
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-07-30 16:07:40
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E5%8C%96%E5%AD%A6%E5%88%B6%E5%93%81" class="typeTag tagColor3">化学制品</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B1%B1%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">山东省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300243" data-stock-code="300243" class="typeTag tagColor1">瑞丰高材 <abbr class="highs">+0.8%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p>每经AI快讯，有投资者在投资者互动平台提问：尊敬的董秘您好，请问贵公司的可降解材料多久能开工，看公司公告去年4月分就开始运作了，都一年多了还不开工吗，为了碳中和，可降解材料是国家战略，希望贵公司能为国家环保做出应该有的贡献。</p>
+<p>瑞丰高材（300243.SZ）7月30日在投资者互动平台表示，你好！公司在建年产6万吨生物可降解塑料PBAT项目预计于今年9月份竣工调试。谢谢关注！</p>
+<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 蔡鼎)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            

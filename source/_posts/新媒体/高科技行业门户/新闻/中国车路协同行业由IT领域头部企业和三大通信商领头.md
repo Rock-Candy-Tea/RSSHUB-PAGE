@@ -1,0 +1,19 @@
+
+---
+title: '中国车路协同行业由IT领域头部企业和三大通信商领头'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/23e692fd4901f40a11ec18e0e0c9657e.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 30 Jul 2021 07:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/23e692fd4901f40a11ec18e0e0c9657e.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">车路协同行业准入技术门槛较高，目前行业的主要参与者为IT领域头部企业和三大通信商。从企业维度来看，行业参与者可分为四大阵营；从产业链维度来看，华为产品覆盖车路协同产业链三大终端。</p><p style="text-indent: 2em; text-align: left;">行业主要上市公司：阿里巴巴（9988．HK）、腾讯（00700．HK）、百度（BIDU）</p><p style="text-indent: 2em; text-align: left;">本文核心观点：车路协同主要参与者入局时间、行业主要参与者、厂商布局</p><p style="text-indent: 2em; text-align: left;"><strong>中国车路协同参与者主要是IT领域头部企业和三大通信商</strong></p><p style="text-indent: 2em; text-align: left;">车路协同行业准入技术门槛较高，目前行业的主要参与者为BAT互联网巨头，华为、万集科技、千方科技、金溢科技等IT领域头部企业，中国移动、中国联通、中国电信通信企业为主。</p><p style="text-indent: 2em; text-align: left;">车路协同是政策型导向行业，其主要参与者的入局时间集中在中国车路协同的政策爆发期（2016－2019年），而受益于《智能网联<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="汽车">汽车</a></span>道路测试管理规范（试行）》、《车联网（智能网联汽车）产业发展行动计划》、《交通运输部办公厅关于加快推进新一代国家交通控制网和智慧公路试点的通知》等一系列利好政策的发布，2018年成为中国车路协调参与主体的集中入场时间。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/23e692fd4901f40a11ec18e0e0c9657e.png" alt="图表1：中国车路协同领域主要参与者进入行业时间" width="760" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>中国车路协同企业主要分为四大阵营</strong></p><p style="text-indent: 2em; text-align: left;">从企业维度分析，车路协同企业主要分为四大阵营：以BAT为代表的互联网科技企业；以华为为代表的ICT企业；以德赛西威、均胜电子为代表的汽车供应商；以希迪智驾为代表的车路协同方案解决商。中国车路协同市场仍处于起步阶段，未来将会有更多参与者进入，行业竞争格局未定。而检验企业能否占据竞争优势的最核心标准即其车路协同技术方案是否能够商业化落地。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/a1ad5d44e78a3ab231a5c4b5ea026014.png" alt="图表2：中国车路协同领域主要参与者" width="760" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>华为产品覆盖车路协同产业链三大终端</strong></p><p style="text-indent: 2em; text-align: left;">从产业链角度分析，车路协同终端代表厂商包括车端、路侧和通信，可发现华为产品覆盖三端，且多项技术位于行业前列。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/c29a6283c1151bdf9eb30bc8974dd8c7.png" alt="图表3：中国车路协同产业链终端代表厂商" width="760" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>车路协同主要参与者业务布局对比</strong></p><p style="text-indent: 2em; text-align: left;">通过对比车路协同主要参与者的业务布局，可看出，华为和中国移动在车路协同的布局较全。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/b3647a6bfe744a19ce36aa318a0ea3b9.png" alt="图表4：中国车路协同主要参与者业务布局对比" width="760" referrerpolicy="no-referrer"></p><p style="text-align: left; text-indent: 2em;">（注：“★”代表在该领域有业务布局）</p><p style="text-indent: 2em; text-align: left;"><strong>车路协同主要参与者布局进展</strong></p><p style="text-indent: 2em; text-align: left;">车路协同重点企业业务布局情况如下所示：</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/qianzhan/2021-07-30/b60727afab106edbd924831b63ee805a.png" alt="图表5：车路协同行业企业布局进展" width="559" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">以上数据参考前瞻产业研究院《中国车路协同行业发展模式与投资战略规划分析报告》，同时前瞻产业研究院还提供产业大数据、产业研究、产业链咨询、产业图谱、产业规划、园区规划、产业招商引资、IPO募投可研、招股说明书撰写等解决方案。</p><p style="text-indent: 2em; text-align: left;">更多深度行业分析尽在【前瞻经济学人APP】，还可以与500＋经济学家／资深行业研究员交流互动。</p><p style="text-indent: 2em; text-align: left;">来源：前瞻产业研究院</p> 
+  
+</div>
+            
