@@ -1,0 +1,19 @@
+
+---
+title: '连涨4月！Mini LED板块为什么这么火？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__5ab255e17dc8a03111392cdea36e8197.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 30 Jul 2021 10:35:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__5ab255e17dc8a03111392cdea36e8197.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">行家说快讯:</p><p style="text-indent: 2em; text-align: left;">7月29日,Mini LED板块再此上涨4．49%。7月份,Mini LED板块两次实现5日连涨,在7月20日-22日,3天里每日涨幅超3%,当周周涨幅达10．59%(数据来源东方财富网,下同)。</p><p style="text-indent: 2em; text-align: left;">其实Mini LED板块的上涨早在4月就开始了。</p><p style="text-indent: 2em; text-align: left;">从月K线上看,自今年4月份起,Mini LED板块至今一直上涨,4月涨幅1．28%,5月涨幅4．77%,6月涨幅12．83%,7月份至今涨幅为14．16%,涨幅数值也不断拔高。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__5ab255e17dc8a03111392cdea36e8197.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">Mini LED板块月K线图</p><p style="text-indent: 2em; text-align: left;">那么在整体递增的涨幅下,哪些企业涨幅尤其高?</p><p style="text-indent: 2em; text-align: left;">从4个月数据来看,驱动IC最受青睐。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__7f483235ffda7c726b77dfeaa97b0839.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">行家说新闻中心收集了Mini LED板块中IC端、芯片端、封装端和<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>屏企业的相关数据,自4月1日开盘,至7月29日收盘,涨幅最高的为两家驱动IC商富满电子、明微电子,涨幅分别为453．05%、352．67%。</p><p style="text-indent: 2em; text-align: left;">IC端股价大幅度上涨,原因之一可能是今年IC荒,缺货涨价等问题导致出货量和价格双向拉升。</p><p style="text-indent: 2em; text-align: left;">在价格方面,根据行家说产研中心统计,富满电子、明微电子皆在2020Q4开始涨价,富满电子调增幅度在0．01元到0．02元左右,明微电子按产品型号,调价幅度在0．006元—0．02元/颗之间。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">在出货量方面,以明微电子为例,其《2021年半年度业绩报告》中表示,2021年上半年产品销售数量较上年同期增加114139万颗,增长107．39% ;产品销售收入较上年同期增加43094万元,增幅达237．30%。</span></p><p style="text-indent: 2em; text-align: left;">而从近10天数据来看,芯片、封装端关注度提升,IC端股价回落。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__2d879e9e01e9e4439b47c5d4dc1ae4fd.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">东方财富网近10日Mini LED板块相关企业数据显示,最高的两位皆为封装端企业,聚飞光电上涨47．95%,瑞丰光电上涨47．73%。紧随其后的是三安光电和华灿光电,涨幅分别为40．34%,25．61%。据了解,华灿光电、瑞丰光电均供货给29日华为发布的首款Mini LED智慧屏。</p><p style="text-indent: 2em; text-align: left;">除了数据外,投资者问答也展示了Mini LED的“热”。</p><p style="text-indent: 2em; text-align: left;">从投资者互动来看,“Mini LED”已成为了提问热词,近日来,兆驰股份、国星光电、利亚德、三安光电、劲拓股份、万润科技等Mini LED相关企业都在投资者问答环节回答了Mini LED进度问题,更有例如京东方、TCL等多家Mini LED相关大厂迎来了大规模机构调研。</p><p style="text-indent: 2em; text-align: left;">自苹果于4月发布应用Mini LED技术的iPad Pro,Mini LED影响逐渐扩大,加上疫情渐缓、需求提升等原因,Mini LED热度持续上升。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202107/wx_article__4dd0e246cb7ed05b96606697e2a7261a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">近日,华为发布首款应用Mini LED屏的智慧屏,三星推出其首款Mini <span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>器,TCL再出Mini LED新品,各大厂商加持下,Mini LED持续加温。从以上的Mini LED新品来看,大多是Mini <span class="hrefStyle"><a href="http://display.ofweek.com/KW-ledbeiguangyuan.html" target="_blank" title="LED背光">LED背光</a></span>产品。从市场方面来看,Mini LED背光是推动Mini LED加速商业化的重要方向。在未来,Mini LED背光是否能持续大热?在产业,供应链该如何适应变化的新市场?</p> 
+  
+</div>
+            

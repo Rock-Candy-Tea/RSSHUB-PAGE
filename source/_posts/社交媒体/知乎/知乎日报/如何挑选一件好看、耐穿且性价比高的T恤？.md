@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-07-30 11:05:26
-thumbnail: 'https://pica.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162'
+date: 2021-07-30 12:09:57
+thumbnail: 'https://pic1.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fb32fc943a6c867ea8c765c646a56b8f_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">姚蔚铭，</span><span class="bio">纺织品化学工程师（神秘职业）  纺织品问题请付费咨询</span>
 <a href="https://www.zhihu.com/question/404173699/answer/1864783992" class="originUrl" hidden>查看知乎原文</a>
 </strong>
