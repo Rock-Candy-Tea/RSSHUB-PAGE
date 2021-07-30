@@ -1,0 +1,75 @@
+
+---
+title: 'ST同洲：丁玉凤辞去证券事务代表一职'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/6a7b1a0d-50cf-46e4-9118-6adae5140f88_msai_zonglan_pic?nbddata-height=850&nbddata-width=930&type=png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/6a7b1a0d-50cf-46e4-9118-6adae5140f88_msai_zonglan_pic?nbddata-height=850&nbddata-width=930&type=png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          ST同洲：丁玉凤辞去证券事务代表一职
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-07-30 18:59:00
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E8%A7%86%E5%90%AC%E5%99%A8%E6%9D%90" class="typeTag tagColor3">视听器材</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B9%BF%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">广东省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=002052" data-stock-code="002052" class="typeTag tagColor1">ST同洲 <abbr class="lows">-5.0%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="announce-summary" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经AI快讯，</span><span style="white-space: pre-wrap;">ST同洲（SZ 002052，收盘价：1.89元）7月30日晚间发布公告称，深圳市同洲电子股份有限公司董事会于2021年7月29日收到证券事务代表丁玉凤女士提交的书面辞职报告。丁玉凤女士因个人原因辞去公司证券事务代表一职，丁玉凤女士辞职后不再担任公司任何职务。</span></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;">2020年年报显示，ST同洲的主营业务为通信及相关设备制造业，占营收比例为：86.83%。</p>
+<p style="line-height: 1.6; margin-bottom: 15px; white-space: pre-wrap;">据启信宝数据显示，ST同洲的董事长是刘用腾，男，47岁，中国国籍，无境外永久居留权，硕士学历，毕业于中南财经大学工商管理专业、长江商学院EMBA。 ST同洲的总经理是莫冰，男，40岁，中国国籍，无境外永久居留权，博士学历，教授，副教授，硕士研究生导师，研究员，曾先后担任华侨大学信息科学与工程学院副教授、硕士研究生导师，中山大学电子与信息工程学院特聘研究员。</p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><span class="rss-need-del" style="font-weight: bold;">道达号（daoda1997）“个股趋势”提醒：</span><br>1. ST同洲上一次发布人事变动公告是2021年04月23日，ST同洲近一年共发布29次人事变动公告。<span class="rss-need-del rss-need-del-toutiao">更多关键信息，请搜索“道达号”。</span></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/6a7b1a0d-50cf-46e4-9118-6adae5140f88_msai_zonglan_pic?nbddata-height=850&nbddata-width=930&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/f8d8e61a-0cd4-403e-ae32-1c5f1cf5cf00_msai_zonglan_pic?nbddata-height=998&nbddata-width=750&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经头条（nbdtoutiao）——</span><a style="text-decoration: none;" href="http://mp.weixin.qq.com/s?__biz=MzIwNDY3NDMyMw==&mid=2247517613&idx=1&sn=1fe07547db0b92730a1c68218d47bdd8&chksm=973e41d1a049c8c73606474b4354e6897b075f37f0a99431128ee4938f50c89bc2c9700ab7b6&scene=0&xtrack=1#rd">手机微信靠不住，志愿者光靠热情难救急……河南水灾大考之后，应急救援体系还要补上哪些课？</a></p>
+<p class="m-original-right" style="width:100%; text-align:right; font-weight:bold;">(记者 陈旭)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red;">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
