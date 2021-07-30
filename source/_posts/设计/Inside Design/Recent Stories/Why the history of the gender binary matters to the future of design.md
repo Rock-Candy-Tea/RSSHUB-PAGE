@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/pride-gender-binary-design/'
 author: Inside Design
 comments: false
-date: 2021-07-30 13:16:22
+date: 2021-07-30 14:07:28
 thumbnail: 'https://www.invisionapp.com/inside-design/pride-gender-binary-design/'
 ---
 
