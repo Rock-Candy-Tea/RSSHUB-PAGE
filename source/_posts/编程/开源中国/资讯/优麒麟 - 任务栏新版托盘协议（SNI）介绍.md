@@ -14,8 +14,7 @@ thumbnail: 'https://www.ubuntukylin.com/upload/202107/1627545300522364.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="text-align:center"><img alt="优麒麟（Ubuntu Kylin）" height="55" src="https://www.ubuntukylin.com/upload/202107/1627545300522364.png" width="405" referrerpolicy="no-referrer"></p> 
+                                                                                            <p style="text-align:center"><img alt="优麒麟（Ubuntu Kylin）" height="55" src="https://www.ubuntukylin.com/upload/202107/1627545300522364.png" width="405" referrerpolicy="no-referrer"></p> 
 <p><strong>在 Linux 操作系统中，“系统托盘区域”是在给定的 X 屏幕上运行的应用程序，可以显示正在运行的应用程序提供的小图标。系统托盘是一个 X 客户端，在给定的屏幕上拥有一个特殊的管理器选择并提供了容器窗口。Windows 将此功能称为“通知区域”，旧版托盘协议就是通过 X 服务直接获取应用信息，在开发上难度很大。</strong></p> 
 <p>新版托盘规范定义了可视项的管理，通常是用于向用户报告应用程序状态或提供对该应用程序执行的常见操作的快速访问的图标。它旨在作为 Freedesktop 的桌面通知规范的补充但不直接相关，旨在替代 Freedesktop 系统托盘规范，更加面向模型视图，为工作区提供更多自由，如何以图形方式表示与它的视觉风格语言，这种方式（SNI）是将 systemtray 的调用封装进 dbus 总线中，提升了开发者的开发效率。</p> 
 <p>从用户角度来看新版托盘协议（SNI）从表面上看不出有什么太大的变化，在开发的角度上是将最上层的应用与下层基础库的分离。</p> 

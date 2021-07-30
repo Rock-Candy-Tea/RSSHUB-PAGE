@@ -1,0 +1,19 @@
+
+---
+title: '_图_iOS端Office新预览版发布：引入离线PDF阅读等诸多新功能'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0730/ce359191bf8598e.jpg'
+author: cnBeta
+comments: false
+date: Fri, 30 Jul 2021 00:05:22 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0730/ce359191bf8598e.jpg'
+---
+
+<div>   
+<strong>面向 iOS 平台的 Office Insider 项目成员，微软为 Word、Excel、PowerPoint 和 Office Mobile 引入了大量新功能。</strong>最新的 Office 版本 2.52（21072700）为支持自动保存的文件增加了一个状态指示器，这样用户就可以确信他们的修改被安全地保存在云中。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0730/ce359191bf8598e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0730/ce359191bf8598e.jpg" alt="5102wtbv.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">新版 <a data-link="1" href="https://microsoft.pvxt.net/P0JMe" target="_blank">Office</a> 还允许用户在 Office Mobile 应用中下载 PDF 文件，以便于离线访问。用户在新版本中还能使用 Lens 摄像头提取文本和表格内容。</p><p style="text-align: left;">新版还引入了一个非常受欢迎的功能：就是在截图的时候重新扫描文件的能力。安装了最新的Office更新后，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a>上的Office用户还将能够从一个对象（单元格或范围）复制所有的格式，并一键应用于另一个对象。</p><p style="text-align: left;">以下是更新日志</p><p style="text-align: left;"><strong>适用于 Word、Excel、PowerPoint 和 Office Mobile</strong></p><blockquote style="text-align: left;"><p style="text-align: left;"><strong>● 增加了自动保存状态指示器</strong></p><p style="text-align: left;">没有人愿意担心丢失他们的工作! 这就是为什么我们为 iOS 上任何支持自动保存的文件添加了一个状态指示器。现在，保存状态会清楚地显示在应用程序的文件名旁边，因此您可以确信您的更改已安全地保存在云中。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/4137cf135d9c17c.jpg" referrerpolicy="no-referrer"></p></blockquote><p style="text-align: left;"><strong>适用于 Office Mobile</strong></p><blockquote style="text-align: left;"><p style="text-align: left;"><strong>● 离线访问 PDF 文件</strong></p><p style="text-align: left;">你不能指望在工作的时候能随时联网。现在你可以在 Office Mobile 中下载你的 PDF 文件，让你在离线时也能访问它们。要将在线 PDF 文件下载到你的设备上，只需点击云图标（在三点式菜单指示器的左边）。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/d504d74a19dc612.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● 右键操作：图像转为文本和表格</strong></p><p style="text-align: left;">现在你可以使用 Lens 相机轻松地从图像中提取文本或表格内容。要使用该功能，启动 Lens 相机并点选新的行动模式。选择图像的文本部分，然后点选继续。然后，你可以将文本导出到 Word，复制它，或分享它。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/4f727c33e78a72e.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/7621f5f529fe7a9.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● 图像转文字的手写支持</strong></p><p style="text-align: left;">有了这个功能，你现在可以把你的手写笔记数字化，并在你的设备上把它们带到任何地方。要尝试这项功能，只需点击操作>图像转文本。(该功能目前仅适用于 Office Mobile 的英文版本）</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/e607621ffdf0b10.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● 重新排列扫描的文件</strong></p><p style="text-align: left;">用户对 Office Mobile 中的扫描功能的最主要要求之一是能够在捕获时对扫描的文件重新排序。现在你可以了! 要尝试这一点，使用镜头扫描捕捉一些图像，然后点击更多>重新排序，将文件放在你喜欢的任何顺序。</p></blockquote><p style="text-align: left;"><strong>适用于 Excel</strong></p><blockquote style="text-align: left;"><p style="text-align: left;"><strong>● 用 Format Painter 快速复制所有格式</strong></p><p style="text-align: left;">Format Painter 功能现在可以在 Excel for the iPad 上使用，其功能与桌面上的相同。Format Painter 使你能够从一个对象（单元格或区域）复制所有的格式，并通过一次点击将其应用于另一个对象。要尝试它，选择一个你想复制所有格式的单元格。然后点击 "格式画家 "图标（在主选项卡上），选择你想复制格式的单元格。再点一下该图标，就可以关闭该功能。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0730/534619402b294e3.jpg" referrerpolicy="no-referrer"></p></blockquote>   
+</div>
+            

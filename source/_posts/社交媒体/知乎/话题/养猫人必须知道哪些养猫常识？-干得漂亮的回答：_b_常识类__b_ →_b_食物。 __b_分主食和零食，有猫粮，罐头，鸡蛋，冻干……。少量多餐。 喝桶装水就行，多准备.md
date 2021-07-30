@@ -1,0 +1,18 @@
+
+---
+title: '养猫人必须知道哪些养猫常识？-干得漂亮的回答：_b_常识类__b_ →_b_食物。 __b_分主食和零食，有猫粮，罐头，鸡蛋，冻干……。少量多餐。 喝桶装水就行，多准备...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-1760de4019abe4c0fdfc9e7b014eee9c_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 29 Jul 2021 23:56:44 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-1760de4019abe4c0fdfc9e7b014eee9c_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>养猫人必须知道哪些养猫常识？</strong><br>干得漂亮的回答<br><p><b>常识类</b><br>→<b>食物。 </b>分主食和零食，有猫粮，罐头，鸡蛋，冻干……。少量多餐。<br>喝桶装水就行，多准备几个水盆，放在不同的地方。<br>猫草。猫薄荷。<br><br><br></p><p><b>→睡眠。 </b>猫是很谨慎的动物，跟它的祖先有关。一般睡眠16小时，但深度睡眠只要4小事。<br>喜欢小盒子/较拥挤的空间，但不要长时间关在笼子里。<br>因为喜欢温度高的地方，喜欢黏着人睡，它的咕噜声能助眠。<br><br></p><p><b>→清洁。 </b>猫是不需要经常洗澡的，因为身上的汗腺很少，一般两个月一次，添毛的同时就是在给自己洗澡。剪指甲，偶尔剪吧。给猫刷牙。<br>清理眼睛。清理耳朵。清理粪便。<br>剃毛。清理脱毛。<br><br></p><p><b>→药物。</b> 猫味清除剂、化毛膏、驱虫、疫苗、发情绝育。</p><p>→<b>生活物品。</b> 猫食盆、饮水盆、猫砂盆。梳毛器、猫盒、猫抓盆、攀爬盆、满足猎性的玩具。带孔的纸盒子、塑料盖子、项链挂件、激光笔……</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-1760de4019abe4c0fdfc9e7b014eee9c_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-d1f54715370b58e30fdd56cd56a16f0e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-1760de4019abe4c0fdfc9e7b014eee9c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-1760de4019abe4c0fdfc9e7b014eee9c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>细节类</b><br>→猫是被人类半驯化性格高冷的四脚动物，通常它是主子，你是奴才。<br></p><p>→猫是近视，眼睛自带美瞳，晚上眼睛能发光，但对动态的物体反应很敏锐。只能分辨蓝色和绿色。<br>猫的听觉是人类的三倍，猫通常都是很谨慎的，能够听见昆虫翅膀振动的声音。<br>猫的嗅觉是人类的几百倍，口腔内还有辅助嗅觉的器官。<br>猫的肠道很短，是出了名的玻璃胃，所以拉的粑粑很感人，当然还包括放的屁。<br>在一定高度内，猫能够保持四脚落地。<br>对于猫来说，身上的味道很重要，利用味道（尿液）标记物体，让自己生活自己熟悉的环境里。<br><br><br><br><br></p><p>→猫有很多品种：<br>田园、布偶猫、暹罗猫、美短、加菲、无毛猫……<br></p><p>→作为一名合格的铲屎官。应减少应激反应。让他熟悉环境，放下谨慎的心理。<br>猫咪怕绿色的，突然出现的物体。<br>他不喜欢听划梳子的声音。<br>猫不喜欢其他味道的猫，不喜欢闻辛辣的和酸辣的味道。<br>不喜欢有人亲她。<br>不喜欢被胶带粘住脚。<br>不喜欢有人撅起他的尾巴尾巴。猫天生就是很柔软的动物，特别是尾部很可能会骨折。<br><br><br><br><br><br></p><p>→喵咪身上的4种开关。后脖颈、猫背、脚垫、脚臭味<br>→猫咪喜欢的声音。吸嘴的声音、开罐头的声音、猫粮倒进碗里的、塑料袋的声音。<br></p><p>→猫咪喜欢你的表现：<br>猫咪喜欢往你身上蹭，那是在标注你是他的人了，或者是让你陪他玩。<br>看见你，尾巴向上翘。<br>睡觉的时候肚皮朝上。<br>总是黏着你，特别是你在打游戏的时候。<br>喜欢你撸它（下巴、两腮、天灵盖、耳朵、后颈、猫背、从头撸到背、尾巴、爪子、肚子，一般是从头开始撸。……）<br>喜欢冲着你，猫猫的叫。<br>主动跳在你腿上坐着。<br>能听见他的鼓噜声。<br><br><br><br><br><br><br><br></p><p>→猫咪的卖萌行为：<br>打哈欠、伸懒腰、舔自己的毛、扭屁股、跑酷、踹手、追小动物、咬纸巾。<br>歪头杀、吐舌头、抓自己的尾巴、舔自己可爱的爪子、秀短腿、大眼睛装可爱、眨眼睛、用爪子抓你、呲牙、往你身上舔、对你眨眼睛、在你身上踩奶、玩塑料袋、装进纸盒子里 ……<br><br></p><p>→猫咪的微动作，背后的秘密：<br>可以通过耳朵的状态。判断猫的情绪。<br>你可以通过眼睛的状态判断猫的情绪。<br>可以通过猫咪的尾巴状态判断猫的情绪。<br>可以通过猫咪的睡觉姿态判断猫咪是否适应生活环境。<br><br><br><br></p><p>→驯化猫。行为+奖励（声音）<br>    洗澡，剪指甲，刷牙。<br></p><p>→养猫应该关好窗。<br>→猫是纯肉动物，可以不吃素。<br>→猫的爪子总是放在你的上面，这是跟他的祖先习惯有关。<br>→猫咬人的时候。可以尝试不理他/直接把手堵到他的嘴里。<br>→猫对你叫，是对人类独有的，就想让你陪他玩或者是喂他吃的。猫与猫之间的交流从不会猫猫叫。<br>→三色猫多为母猫，右撇子作为母猫。<br>→猫的寿命只有15年左右。<br>→猫咪睡得很香的时候会吐舌头。猫咪的汗腺很少，只有爪子底下的肉垫和鼻子。<br>→猫是会认错的。我也会感到尴尬。猫即使是高冷的动物，也是需要陪伴的。<br>→可以用手指贴近他的鼻子，能增加与它的亲密度。<br><br><br><br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-4a0c9076a1982bedfc11617736196ebb_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-3ef89d2a32028ee1a0c610398fd89c87_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4a0c9076a1982bedfc11617736196ebb_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-4a0c9076a1982bedfc11617736196ebb_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>总之想要做一名合格的铲屎官，其实呢也很简单。让主子吃好喝好+抽时间陪她玩+清理卫生，没事的时候做下功课。懂得合适的奖励和惩罚。</b></p><p></p><p></p><p></p><p></p><p></p>  
+</div>
+            

@@ -14,8 +14,7 @@ thumbnail: 'https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h2 style="text-align:left">一、介绍Nacos</h2> 
+                                                                                            <h2 style="text-align:left">一、介绍Nacos</h2> 
 <p style="text-align:left">Nacos 致力于帮助您发现、配置和管理微服务。Nacos 提供了一组简单易用的特性集，帮助您快速实现动态服务发现、服务配置、服务元数据及流量管理。</p> 
 <p style="text-align:left">Nacos 帮助您更敏捷和容易地构建、交付和管理微服务平台。 Nacos 是构建以“服务”为中心的现代应用架构 (例如微服务范式、云原生范式) 的服务基础设施。</p> 
 <p style="text-align:left">说的直白一点，Nacos就是管理微服务应用的注册和发现功能。也就是应用注册到nacos，并通过nacos暴露给网关和负载模块。</p> 
