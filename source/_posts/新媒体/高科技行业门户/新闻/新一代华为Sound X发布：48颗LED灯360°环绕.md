@@ -1,0 +1,19 @@
+
+---
+title: '新一代华为Sound X发布：48颗LED灯360°环绕'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/fee009296e4bd805dce90f8c6d0ab1c3.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 30 Jul 2021 02:41:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/fee009296e4bd805dce90f8c6d0ab1c3.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">7月29日晚,新一代华为Sound X发布,它是华为首款搭载HarmonyOS 2的智能音箱,售价2199元。</p><p style="text-indent: 2em; text-align: left;">华为Sound系列智能音箱自诞生之初即联合帝瓦雷,以“好音质”立足智能音箱行业,新一代华为Sound X更是华为音箱首次采用三分频设计,低音震撼低沉,中音温润清晰,高音明亮通透,音质更进一步。</p><p style="text-indent: 2em; text-align: left;">音响系统构造方面,新一代华为Sound X具备4个5W的中音喇叭,1个50W重低音,1个3W高音喇叭,2个无源辐射器。作为对比,上一代的Sound X只有2个低音喇叭和6个全频喇叭。</p><p style="text-indent: 2em; text-align: left;">外观上,新一代华为Sound X首次加入了灯光设计,机身采用了48颗全色系LED灯360°环绕,光影追随音乐节奏律动,多种混光炫彩模式随心选择,用声音传递色彩。(目前支持颜色:雪域白,摇滚红,朋克紫,电子绿,古典橙,布鲁斯蓝,民谣黄,彩色轮播,后续可能会增加,以实际为准)</p><p style="text-indent: 2em; text-align: left;">它还全新升级的智慧灯效,一碰传音、声场建模、语音交互、智慧助眠、不同场景下有不同的交互灯效,拟人化的反应大幅提升了人机交互感。比如当你和音箱对话时,音箱会发出声源定位、呼吸聆听、灵动思考、拟人应答4种连贯的灯效,增强交互感。</p><p style="text-indent: 2em; text-align: left;">新一代华为Sound X在胆机的设计灵感之上将外观设计为一个晶莹剔透的渐变半透明体,通透感与震撼音效形成强烈的反差,为用户交互带来更科技灵动的视听感受。</p><p style="text-indent: 2em; text-align: left;">新一代华为Sound X 采用了360°全金属出音孔和3D曲面无接缝工艺,厚度仅为 0．8mm,相比上一代塑胶网+网布的结构(2．5mm厚度),8-12kHz 关键频段声压级提升了3dB,高频更通透。</p><p style="text-indent: 2em; text-align: left;">作为华为首款搭载HarmonyOS 2的智能音箱,手机、平板、PC 和智慧屏靠近能自动发现附近音箱,弹出卡片,一站式完成配网,相比上一代App配网更方便快捷。</p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/fee009296e4bd805dce90f8c6d0ab1c3.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/a400ecabc539c5df02dd146c76da923c.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/677aca0ff92978013029fc09dbb5bb4a.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/eb9a41dcae26505cc8c7eeed8adfaa8e.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/d48709e2a1fd51eeefbe6668c41b2071.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/11e9452756287e3d6ce6455e72f4ae08.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/7516209b7875249da3cd2d45ae1fdb25.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/f4cad48b5d065538bf5061a736a1edf9.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img alt="新一代华为Sound X发布：48颗LED灯360°环绕" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/mydrivers/2021-07-30/b9f3a08e80dd05d48acba827af7a3e5f.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作者:随心来源:快科技</p> 
+  
+</div>
+            

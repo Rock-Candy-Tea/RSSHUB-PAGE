@@ -30,7 +30,7 @@ Giant。尽管是一家小型的游戏开发工作室，但我们相信只要有
 Giant联合创始人兼创意总监Arcade Berg则补充道：“我们希望所有的玩家能够享受我们所创造的世界，都能在他们最感兴趣的游戏元素中获得乐趣。”
 </p>
 <p style="text-indent:2em;">
-<strong>混乱至极的赛博都市</strong>
+<strong>混乱至极的赛博都市</strong> 
 </p>
 <p style="text-indent:2em;">
 《上行战场》是一款主打赛博朋克风格和反乌托邦题材的动作冒险类游戏。在《上行战场》的世界中，以大公司为代表的资本主义野蛮扩张，最终形成了星际级别的巨型托拉斯企业。这些垄断了巨量资源的企业形成了庞大的公司生态，逐渐演变成了一个个的自治都市。
@@ -75,29 +75,6 @@ One与STEAM，支持官方中文，游戏售价148元，首周购买可享9折�
 </p>
 <p style="text-indent:2em;">
 B站：CurveDigital
-</p>
-<p style="text-indent:2em;">
-更多资讯：
-</p>
-<p style="text-indent:2em;">
-<strong>Neon Giant简介</strong> 
-</p>
-<p style="text-indent:2em;">
-Neon 
-Giant是一支由经验丰富的游戏行业资深人士组成的小型团队，其成员拥有多个世界规模最大的动作游戏系列的开发经验。凭借团队成员的专业知识、热情和抱负，Neon 
-Giant已着手创建一个新型工作室。Neon 
-Giant的初衷是借鉴团队成员的3A游戏开发经验，专注于高效工作，赋权每一位团队成员以最大限度地发挥各自的创造力，并不断突破边界，挑战制作真正有趣的游戏。Neon 
-Giant拥有创造与游戏巨头比肩的世界一流动作游戏的大胆愿景，而每位团队成员都是实现这一愿景的关键人物。Neon Giant的规模虽小，但小即是美。
-</p>
-<p style="text-indent:2em;">
-<strong>Curve Digital简介</strong> 
-</p>
-<p style="text-indent:2em;">
-Curve 
-Digital是一家屡获殊荣的独立游戏发行商。自2013年以来，该公司一直与一些世界上最好的游戏开发商合作，帮助他们将各种品类的优秀游戏带给全球玩家。Curve 
-Digital拥有独特且多样的游戏类目，其中包括经典的《为了吾王》、《轰炸机小队》这样的独立热门游戏，备受好评的《洪潮之焰》、《机器人殖民地》，以及钛金销量的《人类：一败涂地》。如今，Curve 
-Digital已然成为全球领先的PC和主机游戏领域的主要发行商之一。除了与众多独立开发者合作之外，Curve 
-Digital内部的工作室还包括位于英国布莱顿的开发团队Runner Duck Games以及老牌游戏工作室IronOak Games。
 </p>          
 </div>
             
