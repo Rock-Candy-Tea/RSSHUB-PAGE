@@ -1,0 +1,19 @@
+
+---
+title: 'rgrgfefefe rfrfrrgrgrgfrffrfrfrfrffrgr'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c30db5b-5efd-4094-add3-51e92df44324&size=gallery'
+author: Mind42
+comments: false
+date: 2021-07-30 07:06:03
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c30db5b-5efd-4094-add3-51e92df44324&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c30db5b-5efd-4094-add3-51e92df44324&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
