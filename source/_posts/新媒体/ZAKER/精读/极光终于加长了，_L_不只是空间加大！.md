@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - ZAKER
  - 精读
-headimg: 'https://picsum.photos/400/300?random=9931'
+headimg: 'https://picsum.photos/400/300?random=8806'
 author: ZAKER
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=9931'
+thumbnail: 'https://picsum.photos/400/300?random=8806'
 ---
 
 <div>   
