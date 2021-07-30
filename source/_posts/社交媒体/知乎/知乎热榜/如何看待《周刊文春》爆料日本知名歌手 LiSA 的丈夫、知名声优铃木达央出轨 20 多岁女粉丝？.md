@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-11d8609e7ac7b09388ddcc6c9f06661c_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-eae4afcc331e5727e2f3d6f923657ad6_720w.jpg'
 author: 知乎
 comments: false
-date: Fri, 30 Jul 2021 10:27:04 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-11d8609e7ac7b09388ddcc6c9f06661c_1440w.jpg'
+date: Fri, 30 Jul 2021 13:04:16 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-eae4afcc331e5727e2f3d6f923657ad6_720w.jpg'
 ---
 
 <div>   
-剿灭男同千会长的回答<br><br><p>你达终究也不是萨太后的小达子，总有要翻天的心气。</p><p><br></p><p>我倒是想看看营业给太后拿快递的好男人这次怎么洗。</p><p><br></p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-11d8609e7ac7b09388ddcc6c9f06661c_1440w.jpg" data-caption data-size="normal" data-rawwidth="1160" data-rawheight="654" data-default-watermark-src="https://pic4.zhimg.com/v2-d71e223478ed329c2eba449dae033716_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-11d8609e7ac7b09388ddcc6c9f06661c_r.jpg" referrerpolicy="no-referrer"></figure><p>皇帝替太后出头炮打小达子 （草）</p><p><br></p><p><br></p><p>前几个月还在吹你达看着花其实纯情得很，和太后好了这么多年，是好男人.............还说太后旺夫，这两年你达工作多了不少.......</p><p>现在你达已经是和梶裕贵浪川大辅冈本信彦一个级别的lowb了吗....</p><p><br></p><p>目前来看他问题比冈本信彦要严重很多， 女方比男方有名太多，国民级别，是完美受害者，营业了那么久的长情。  </p><p>他开了推，有大量人会涌入去辱骂他，不像冈本信彦无推。 </p><p>涉嫌泄露泳裤的商业秘密，不知道会不会降板。</p><p><br></p><p><br></p><p><br></p><p>想起来了  太后真的太倒霉了，她是真的喜欢你达的，19年5月或者6月就已经扯证了，然后立马更新了护照铃木里沙.........你达这次是真的渣到丧失作为男人的资格了，自裁请（无慈悲）</p><p><br></p><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-431437a510d7fc7664e2ff471aba07fe_1440w.jpg" data-caption data-size="normal" data-rawwidth="1037" data-rawheight="1057" data-default-watermark-src="https://pic4.zhimg.com/v2-76e7bc6b49622d18f3ce2c5f58432161_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-431437a510d7fc7664e2ff471aba07fe_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>这头衔可太适合你达了</p>  
+鱼缸里的沫沫鱼的回答<br><br><p>铃木达央和LiSA这一对去年1月刚结婚，两人都算圈内名人，算是得到不少人祝福。</p><p>我在群里刚知道出轨这事的时候，我其实就当个一般性事件，第一时间想到的是樱井孝宏这段话，“你看看，配《free》橘真琴的这种暖男也会出轨，不要把声优和个人联系到一起啊。”</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-eae4afcc331e5727e2f3d6f923657ad6_720w.jpg" data-rawwidth="394" data-rawheight="230" data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p><b>但当我看完这个事件，顿时头都大了</b>。已经不是塌房这么简单，这件事细节估计让不少朋友血压拉满，我建议仔细阅读新闻全过程。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-22a4b4c627afb15dd1c5cd321d09e1f7_1440w.jpg" data-rawwidth="1080" data-rawheight="5847" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-7076408f53bd84c6edc77a651e11b531_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-22a4b4c627afb15dd1c5cd321d09e1f7_r.jpg" referrerpolicy="no-referrer"></figure><p>首先铃木达央出轨的这个a子，是个录音室工作的，应该是工作人员，不是声优。两人去年年底认识，今年春季，也就是三月四月有了“亲密关系”，然后两到三周见一次面，<b>而这时也就刚和LiSA结婚满一年。</b></p><p>然后发生关系后，a子完全没觉得有什么对不起LiSA，反而在SNS(社交软件）上，好友可见的炫耀她和铃木达央的事，这事小圈子里也都知道。过生日她还让铃木达央晚上陪自己过。</p><p>这还不算完，还有更让血压飙升的事，<b>铃木达央约会都约到家里里了！ </b>因为LiSA事业繁忙，多次去外地举办live，反而给了铃木达央和a子机会，<b>铃木达央多次和a子趁着LiSA不在，在家中幽会。</b></p><p>其中一次a子去了铃木家里2小时，让铃木给自己听《free！》新曲的demo，第二天a子还把幽会这事发到SNS里，“昨天LiSA在名古屋开live所以没事”。</p><p><br></p><p>其实很多人不知道的是，LiSA原生家庭并不好，童年父母离婚，她其实是个相对缺爱的人，很期望自己能有个完美完整的婚姻。我难以想象铃木达央之后将以何种面目面对LiSA，LiSA又该怎么看待她现在的婚姻，可能只有浓浓的失望和心凉。</p>  
 </div>
             
