@@ -31,6 +31,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/TSM
 <p>Apple is expected to launch the iPhone 13 line by September, while a new MacBook Pro could be unveiled in the months following the iPhone and Apple Watch launch.</p>
 <p>Here’s our full roundup of all the rumors regarding <a href="https://9to5mac.com/guides/iphone-13/">the iPhone 13 here</a> and <a href="https://9to5mac.com/2021/07/28/apple-macbook-pro-refresh-buy-now-wait/">what to expect about the upcoming MacBook Pro here.</a></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2WnSUfG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/9to5macbannerv2-still.jpg?quality=82&strip=all" alt class="wp-image-739900" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

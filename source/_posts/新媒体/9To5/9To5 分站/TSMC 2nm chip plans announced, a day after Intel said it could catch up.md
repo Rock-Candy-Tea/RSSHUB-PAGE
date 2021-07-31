@@ -41,6 +41,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/TSM
 <p><a href="https://9to5mac.com/2021/07/02/qualcomm-can-beat-apple-m1/" target="_blank" rel="noreferrer noopener">Qualcomm made a similar claim</a> earlier this month, thanks to its ex-Apple chip engineers.</p>
 <p><em>Photo: <a href="https://unsplash.com/@viazavier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Laura Ockel</a>/<a href="https://unsplash.com/s/photos/silicon-wafer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2WnSUfG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/9to5macbannerv2-still.jpg?quality=82&strip=all" alt class="wp-image-739900" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
