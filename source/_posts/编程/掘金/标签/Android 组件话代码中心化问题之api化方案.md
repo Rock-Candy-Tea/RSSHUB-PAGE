@@ -38,6 +38,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99e948abf45f4ad199
 <p>此外的问题，模块边界破坏、基础工程中心化，都是代码持续劣化的帮凶...</p>
 <p>"""</p>
 <p>看完之后就陷入了沉思，这个问题不就是我们面临的问题吗？不仅是在组件化中，在很多形成依赖关系的场景中都有此类问题。</p>
+<p>假设有user组建和分享组件，分享组件需要user组件提供数据。</p>
 <p>具体是怎么体现的呢，我们来看一组图：</p>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99e948abf45f4ad19996103e74629048~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h5 data-id="heading-2">1.1.1 图1</h5>
@@ -69,11 +70,8 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99e948abf45f4ad199
 <p>假设我们满足上述的所有关系，并且构建正确，那我们怎么处理组件间的通信，</p>
 <p>Arouter 阿里通信路由</p>
 <pre><code class="hljs language-kotlin copyable" lang="kotlin"><span class="hljs-meta">@Route(path = <span class="hljs-meta-string">"/test/activity"</span>)</span>
-
 <span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">YourActivity</span> <span class="hljs-title">extend</span> <span class="hljs-title">Activity</span> </span>&#123;
-
-...
-
+    ...
 &#125;
 
 跳转：
@@ -84,7 +82,7 @@ ARouter.getInstance().build(<span class="hljs-string">"/test/activity"</span>).w
 
 <span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">HelloService</span> <span class="hljs-title">extends</span> <span class="hljs-title">IProvider</span> </span>&#123;
 
-String sayHello(String name);
+   String sayHello(String name);
 
 &#125;
 
@@ -94,19 +92,19 @@ String sayHello(String name);
 
 <span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">HelloServiceImpl</span> <span class="hljs-title">implements</span> <span class="hljs-title">HelloService</span> </span>&#123;
 
-<span class="hljs-meta">@Override</span>
+    <span class="hljs-meta">@Override</span>
 
-<span class="hljs-keyword">public</span> String sayHello(String name) &#123;
+    <span class="hljs-keyword">public</span> String sayHello(String name) &#123;
 
-<span class="hljs-keyword">return</span> <span class="hljs-string">"hello, "</span> + name;
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"hello, "</span> + name;
 
-&#125;
+    &#125;
 
-<span class="hljs-meta">@Override</span>
+    <span class="hljs-meta">@Override</span>
 
-<span class="hljs-keyword">public</span> void <span class="hljs-keyword">init</span>(Context context) &#123;
+    <span class="hljs-keyword">public</span> void <span class="hljs-keyword">init</span>(Context context) &#123;
 
-&#125;
+    &#125;
 
 &#125;
 
@@ -114,79 +112,72 @@ String sayHello(String name);
 
 <span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Test</span> </span>&#123;
 
-<span class="hljs-meta">@Autowired</span>
+    <span class="hljs-meta">@Autowired</span>
 
-HelloService helloService;
+    HelloService helloService;
 
-<span class="hljs-meta">@Autowired(name = <span class="hljs-meta-string">"/yourservicegroupname/hello"</span>)</span>
+    <span class="hljs-meta">@Autowired(name = <span class="hljs-meta-string">"/yourservicegroupname/hello"</span>)</span>
 
-HelloService helloService2;
+    HelloService helloService2;
 
-HelloService helloService3;
+    HelloService helloService3;
 
-HelloService helloService4;
+    HelloService helloService4;
 
-<span class="hljs-keyword">public</span> Test() &#123;
+    <span class="hljs-keyword">public</span> Test() &#123;
+    
+        ARouter.getInstance().inject(<span class="hljs-keyword">this</span>);
 
-ARouter.getInstance().inject(<span class="hljs-keyword">this</span>);
+    &#125;
 
-&#125;
+    <span class="hljs-keyword">public</span> void testService() &#123;
 
-<span class="hljs-keyword">public</span> void testService() &#123;
+    <span class="hljs-comment">// 1. (推荐)使用依赖注入的方式发现服务,通过注解标注字段,即可使用，无需主动获取</span>
 
-<span class="hljs-comment">// 1. (推荐)使用依赖注入的方式发现服务,通过注解标注字段,即可使用，无需主动获取</span>
+    <span class="hljs-comment">// Autowired注解中标注name之后，将会使用byName的方式注入对应的字段，不设置name属性，会默认使用byType的方式发现服务(当同一接口有多个实现的时候，必须使用byName的方式发现服务)</span>
 
-<span class="hljs-comment">// Autowired注解中标注name之后，将会使用byName的方式注入对应的字段，不设置name属性，会默认使用byType的方式发现服务(当同一接口有多个实现的时候，必须使用byName的方式发现服务)</span>
+    helloService.sayHello(<span class="hljs-string">"Vergil"</span>);
 
-helloService.sayHello(<span class="hljs-string">"Vergil"</span>);
+    helloService2.sayHello(<span class="hljs-string">"Vergil"</span>);
 
-helloService2.sayHello(<span class="hljs-string">"Vergil"</span>);
+    <span class="hljs-comment">// 2. 使用依赖查找的方式发现服务，主动去发现服务并使用，下面两种方式分别是byName和byType</span>
 
-<span class="hljs-comment">// 2. 使用依赖查找的方式发现服务，主动去发现服务并使用，下面两种方式分别是byName和byType</span>
+    helloService3 = ARouter.getInstance().navigation(HelloService.<span class="hljs-keyword">class</span>);
 
-helloService3 = ARouter.getInstance().navigation(HelloService.<span class="hljs-keyword">class</span>);
+    helloService4 = (HelloService)ARouter.getInstance().build(<span class="hljs-string">"/yourservicegroupname/hello"</span>).navigation();
 
-helloService4 = (HelloService) ARouter.getInstance().build(<span class="hljs-string">"/yourservicegroupname/hello"</span>).navigation();
+    helloService3.sayHello(<span class="hljs-string">"Vergil"</span>);
 
-helloService3.sayHello(<span class="hljs-string">"Vergil"</span>);
-
-helloService4.sayHello(<span class="hljs-string">"Vergil"</span>);
-
-&#125;
+    helloService4.sayHello(<span class="hljs-string">"Vergil"</span>);
+    &#125;
 
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>假如user组件的用户信息需要给支付组件使用，那我们怎么处理？</p>
 <p>ARouter 可以通过上面的IProvider 注入服务的方式通信,或者使用EventBus这种方式</p>
-<pre><code class="hljs language-kotlin copyable" lang="kotlin">*<span class="hljs-keyword">data</span> <span class="hljs-class"><span class="hljs-keyword">class</span>* <span class="hljs-title">UserInfo</span></span>(*<span class="hljs-keyword">val</span>* uid: <span class="hljs-built_in">Int</span>, *<span class="hljs-keyword">val</span>* name: String)
+<pre><code class="hljs language-kotlin copyable" lang="kotlin"><span class="hljs-keyword">data</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">UserInfo</span></span>(<span class="hljs-keyword">val</span> uid: <span class="hljs-built_in">Int</span>, <span class="hljs-keyword">val</span> name: String)
+<span class="hljs-comment">/**
+*<span class="hljs-doctag">@author</span> kpa
 
-*<span class="hljs-comment">/***
+*<span class="hljs-doctag">@date</span> 2021/7/21 2:15 下午
 
-*** ***<span class="hljs-doctag">@author</span>*** *kpa*
+*<span class="hljs-doctag">@email</span> billkp<span class="hljs-doctag">@yeah</span>.net
 
-*** ***<span class="hljs-doctag">@date</span>*** *2021/7/21 2:15 下午*
+*<span class="hljs-doctag">@description</span> 用户登录、获取信息等
 
-*** ***<span class="hljs-doctag">@email</span>*** *billkp<span class="hljs-doctag">@yeah</span>.net*
+*/</span>
 
-*** ***<span class="hljs-doctag">@description</span>*** *用户登录、获取信息等*
-
-***/</span>*
-
-*<span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">IAccountService</span>* : <span class="hljs-type">*IProvider* &#123;</span></span>
-
-*<span class="hljs-comment">//获取账号信息 提供信息*</span>
-
-*<span class="hljs-function"><span class="hljs-keyword">fun</span>* <span class="hljs-title">getUserEntity</span><span class="hljs-params">()</span></span>: UserInfo?
-
+<span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">IAccountService</span> : <span class="hljs-type">IProvider &#123;</span></span>
+    <span class="hljs-comment">//获取账号信息 提供信息*</span>
+    <span class="hljs-function"><span class="hljs-keyword">fun</span> <span class="hljs-title">getUserEntity</span><span class="hljs-params">()</span></span>: UserInfo?
 &#125;
 
 <span class="hljs-comment">//注入服务</span>
 
 <span class="hljs-meta">@Route(path = <span class="hljs-meta-string">"/user/user-service"</span>)</span>
+<span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">UserServiceImpl</span> : <span class="hljs-type">IAccountService &#123;</span></span>
 
-*<span class="hljs-class"><span class="hljs-keyword">class</span>* <span class="hljs-title">UserServiceImpl</span> : <span class="hljs-type">IAccountService &#123;</span></span>
-
-<span class="hljs-comment">//...</span>
+    <span class="hljs-comment">//...</span>
 
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
@@ -223,225 +214,154 @@ UserInfo bean = accountService. getUserEntity();
 </ul>
 <h3 data-id="heading-8">三、module-api 脚本</h3>
 <p>找到这些问题出现的原理及怎么去实现之后，从github上找到了优秀的人提供的脚本，完全符合我们的使用预期</p>
-<pre><code class="hljs language-groovy copyable" lang="groovy">*<span class="hljs-keyword">def</span>* includeWithApi(String moduleName) &#123;
+<pre><code class="hljs language-groovy copyable" lang="groovy"><span class="hljs-keyword">def</span> includeWithApi(String moduleName) &#123;
 
-*<span class="hljs-keyword">def</span>* packageName = <span class="hljs-string">"com/realu/dating"</span>
+<span class="hljs-keyword">def</span> packageName = <span class="hljs-string">"com/xxx/xxx"</span>
 
-*<span class="hljs-comment">//先正常加载这个模块*</span>
+    <span class="hljs-comment">//先正常加载这个模块</span>
 
-**include(moduleName)
+    include(moduleName)
 
-*<span class="hljs-comment">//找到这个模块的路径*</span>
+    <span class="hljs-comment">//找到这个模块的路径</span>
+    String originDir = project(moduleName).projectDir
+    <span class="hljs-comment">//这个是新的路径</span>
+    String targetDir = <span class="hljs-string">"$&#123;originDir&#125;-api"</span>
+    <span class="hljs-comment">//原模块的名字</span>
+    String originName = project(moduleName).name
+    <span class="hljs-comment">//新模块的名字</span>
+    <span class="hljs-keyword">def</span> sdkName = <span class="hljs-string">"$&#123;originName&#125;-api"</span>
+    <span class="hljs-comment">//这个是公共模块的位置，我预先放了一个 新建的api.gradle 文件进去</span>
+    String apiGradle = project(<span class="hljs-string">":apilibrary"</span>).projectDir
+    <span class="hljs-comment">// 每次编译删除之前的文件</span>
+    deleteDir(targetDir)
 
-**String originDir = project(moduleName).projectDir
+    <span class="hljs-comment">//复制.api文件到新的路径</span>
+    copy() &#123;
+        from originDir
+        into targetDir
+        exclude <span class="hljs-string">'**/build/'</span>
+        exclude <span class="hljs-string">'**/res/'</span>
+        include <span class="hljs-string">'**/*.api'</span>
+    &#125;
+    <span class="hljs-comment">//直接复制公共模块的AndroidManifest文件到新的路径，作为该模块的文件</span>
+    copy() &#123;
+        from <span class="hljs-string">"$&#123;apiGradle&#125;/src/main/AndroidManifest.xml"</span>
+        into <span class="hljs-string">"$&#123;targetDir&#125;/src/main/"</span>
+    &#125;
+    <span class="hljs-comment">//复制 gradle文件到新的路径，作为该模块的gradle</span>
+    copy() &#123;
+        from <span class="hljs-string">"$&#123;apiGradle&#125;/api.gradle"</span>
+        into <span class="hljs-string">"$&#123;targetDir&#125;/"</span>
+    &#125;
 
-*<span class="hljs-comment">//这个是新的路径*</span>
+    <span class="hljs-comment">//删除空文件夹</span>
+    deleteEmptyDir(*<span class="hljs-keyword">new</span>* File(targetDir))
+    <span class="hljs-comment">//todo 替换成自己的包名</span>
+    <span class="hljs-comment">//为AndroidManifest新建路径，路径就是在原来的包下面新建一个api包，作为AndroidManifest里面的包名</span>
+    String packagePath = <span class="hljs-string">"$&#123;targetDir&#125;/src/main/java/"</span> + packageName + <span class="hljs-string">"$&#123;originName&#125;/api"</span>
+    <span class="hljs-comment">//todo 替换成自己的包名，这里是apilibrary模块拷贝的AndroidManifest，替换里面的包名</span>
+    <span class="hljs-comment">//修改AndroidManifest文件包路径</span>
+    fileReader(<span class="hljs-string">"$&#123;targetDir&#125;/src/main/AndroidManifest.xml"</span>, <span class="hljs-string">"commonlibrary"</span>, <span class="hljs-string">"$&#123;originName&#125;.api"</span>)
 
-**String targetDir = <span class="hljs-string">"$&#123;originDir&#125;-api"</span>
+    <span class="hljs-keyword">new</span> File(packagePath).mkdirs()
+    <span class="hljs-comment">//重命名一下gradle</span>
+    <span class="hljs-keyword">def</span> build = <span class="hljs-keyword">new</span>* File(targetDir + <span class="hljs-string">"/api.gradle"</span>)
 
-*<span class="hljs-comment">//原模块的名字*</span>
+    <span class="hljs-keyword">if</span>(build.exists()) &#123;
+        build.renameTo(<span class="hljs-keyword">new</span> File(targetDir + <span class="hljs-string">"/build.gradle"</span>))
+    &#125;
+    <span class="hljs-comment">// 重命名.api文件，生成正常的.java文件</span>
+    renameApiFiles(targetDir, <span class="hljs-string">'.api'</span>, <span class="hljs-string">'.java'</span>)
+    <span class="hljs-comment">//正常加载新的模块</span>
+    include <span class="hljs-string">":$sdkName"</span>
+  &#125;
 
-**String originName = project(moduleName).name
+<span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span> deleteEmptyDir(File dir) &#123;
 
-*<span class="hljs-comment">//新模块的名字*</span>
+    <span class="hljs-keyword">if</span>(dir.isDirectory()) &#123;
+        File[] fs = dir.listFiles()
+        <span class="hljs-keyword">if</span>(fs != <span class="hljs-literal">null</span> && fs.length > <span class="hljs-number">0</span>) &#123;
+            <span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = <span class="hljs-number">0</span>; i < fs.length; i++) &#123;
+                File tmpFile = fs[i]
+                <span class="hljs-keyword">if</span> (tmpFile.isDirectory() &#123;
+                    deleteEmptyDir(tmpFile)
+                &#125;
+                <span class="hljs-keyword">if</span> (tmpFile.isDirectory() && tmpFile.listFiles().length <= <span class="hljs-number">0</span>)&#123;
+                    tmpFile.delete()
+                &#125;
+          &#125;
+       &#125;
+   <span class="hljs-keyword">if</span> (dir.isDirectory() && dir.listFiles().length == <span class="hljs-number">0</span>) &#123;
+        dir.delete()
+   &#125;
+ &#125;
 
-*<span class="hljs-keyword">def</span>* sdkName = <span class="hljs-string">"$&#123;originName&#125;-api"</span>
+<span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span> deleteDir(String targetDir) &#123;
 
-*<span class="hljs-comment">//这个是公共模块的位置，我预先放了一个 新建的api.gradle 文件进去*</span>
+    FileTree targetFiles = fileTree(targetDir)
 
-**String apiGradle = project(<span class="hljs-string">":apilibrary"</span>).projectDir
+    targetFiles.exclude <span class="hljs-string">"*.iml"</span>
 
-*<span class="hljs-comment">// 每次编译删除之前的文件*</span>
+    targetFiles.each &#123; File file ->
 
-**deleteDir(targetDir)
+        file.delete()
 
-*<span class="hljs-comment">//复制.api文件到新的路径*</span>
-
-**copy() &#123;
-
-from originDir
-
-into targetDir
-
-exclude <span class="hljs-string">'**/build/'</span>
-
-exclude <span class="hljs-string">'**/res/'</span>
-
-include <span class="hljs-string">'**/*.api'</span>
-
-&#125;
-
-*<span class="hljs-comment">//直接复制公共模块的AndroidManifest文件到新的路径，作为该模块的文件*</span>
-
-**copy() &#123;
-
-from <span class="hljs-string">"$&#123;apiGradle&#125;/src/main/AndroidManifest.xml"</span>
-
-into <span class="hljs-string">"$&#123;targetDir&#125;/src/main/"</span>
-
-&#125;
-
-*<span class="hljs-comment">//复制 gradle文件到新的路径，作为该模块的gradle*</span>
-
-**copy() &#123;
-
-from <span class="hljs-string">"$&#123;apiGradle&#125;/api.gradle"</span>
-
-into <span class="hljs-string">"$&#123;targetDir&#125;/"</span>
-
-&#125;
-
-*<span class="hljs-comment">//删除空文件夹*</span>
-
-**deleteEmptyDir(*<span class="hljs-keyword">new</span>* File(targetDir))
-
-*<span class="hljs-comment">//todo 替换成自己的包名*</span>
-
-*<span class="hljs-comment">//为AndroidManifest新建路径，路径就是在原来的包下面新建一个api包，作为AndroidManifest里面的包名*</span>
-
-**String packagePath = <span class="hljs-string">"$&#123;targetDir&#125;/src/main/java/"</span> + packageName + <span class="hljs-string">"$&#123;originName&#125;/api"</span>
-
-*<span class="hljs-comment">//todo 替换成自己的包名，这里是apilibrary模块拷贝的AndroidManifest，替换里面的包名*</span>
-
-*<span class="hljs-comment">//修改AndroidManifest文件包路径*</span>
-
-**fileReader(<span class="hljs-string">"$&#123;targetDir&#125;/src/main/AndroidManifest.xml"</span>, <span class="hljs-string">"commonlibrary"</span>, <span class="hljs-string">"$&#123;originName&#125;.api"</span>)
-
-*<span class="hljs-keyword">new</span>* File(packagePath).mkdirs()
-
-*<span class="hljs-comment">//重命名一下gradle*</span>
-
-*<span class="hljs-keyword">def</span>* build = *<span class="hljs-keyword">new</span>* File(targetDir + <span class="hljs-string">"/api.gradle"</span>)
-
-*<span class="hljs-keyword">if</span>* (build.exists()) &#123;
-
-build.renameTo(*<span class="hljs-keyword">new</span>* File(targetDir + <span class="hljs-string">"/build.gradle"</span>))
-
-&#125;
-
-*<span class="hljs-comment">// 重命名.api文件，生成正常的.java文件*</span>
-
-**renameApiFiles(targetDir, <span class="hljs-string">'.api'</span>, <span class="hljs-string">'.java'</span>)
-
-*<span class="hljs-comment">//正常加载新的模块*</span>
-
-**include <span class="hljs-string">":$sdkName"</span>
+    &#125;
 
 &#125;
 
-*<span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span>* deleteEmptyDir(File dir) &#123;
+<span class="hljs-comment">/**
 
-*<span class="hljs-keyword">if</span>* (dir.isDirectory()) &#123;
+* rename api files(java, kotlin...)
 
-File[] fs = dir.listFiles()
+**/</span>
 
-*<span class="hljs-keyword">if</span>* (fs != *<span class="hljs-literal">null</span>* && fs.length > <span class="hljs-number">0</span>) &#123;
+<span class="hljs-keyword">private</span> <span class="hljs-keyword">def</span> renameApiFiles(root_dir, String suffix, String replace) &#123;
 
-*<span class="hljs-keyword">for</span>* (*<span class="hljs-keyword">int</span>* i = <span class="hljs-number">0</span>; i < fs.length; i++) &#123;
+    FileTree* files = fileTree(root_dir).include(<span class="hljs-string">"**/*$suffix"</span>)
 
-File tmpFile = fs[i]
+    files.each &#123;
 
-*<span class="hljs-keyword">if</span>* (tmpFile.isDirectory() &#123;
+        File file ->
 
-deleteEmptyDir(tmpFile)
+        file.renameTo(*<span class="hljs-keyword">new</span>* File(file.absolutePath.replace(suffix, replace)))
 
-&#125;
-
-*<span class="hljs-keyword">if</span>* (tmpFile.isDirectory() && tmpFile.listFiles().length <= <span class="hljs-number">0</span>) &#123;
-
-tmpFile.delete()
+    &#125;
 
 &#125;
 
-&#125;
+<span class="hljs-comment">//替换AndroidManifest里面的字段*</span>
 
-&#125;
+<span class="hljs-keyword">def</span> fileReader(path, name, sdkName) &#123;
 
-*<span class="hljs-keyword">if</span>* (dir.isDirectory() && dir.listFiles().length == <span class="hljs-number">0</span>) &#123;
+    <span class="hljs-keyword">def</span> readerString = <span class="hljs-string">""</span>
 
-dir.delete()
+    <span class="hljs-keyword">def</span> hasReplace = <span class="hljs-literal">false</span>
 
-&#125;
+    file(path).withReader(<span class="hljs-string">'UTF-8'</span>) &#123; reader ->
 
-&#125;
+        reader.eachLine &#123;
 
-&#125;
+            <span class="hljs-keyword">if</span> (it.find(name)) &#123;
+                it = it.replace(name, sdkName)
+                hasReplace = <span class="hljs-literal">true</span>
+            &#125;
+            readerString <<= it
+            readerString << <span class="hljs-string">'\n'</span>
 
-*<span class="hljs-keyword">private</span> <span class="hljs-keyword">void</span>* deleteDir(String targetDir) &#123;
+        &#125;
+        <span class="hljs-keyword">if</span> (hasReplace) &#123;
 
-*FileTree* targetFiles = fileTree(targetDir)
+            file(path).withWriter(<span class="hljs-string">'UTF-8'</span>) &#123;
+                within ->
+                within.append(readerString)
+            &#125;
 
-targetFiles.exclude <span class="hljs-string">"*.iml"</span>
+        &#125;
 
-targetFiles.each &#123; File file ->
+    <span class="hljs-keyword">return</span> readerString
 
-file.delete()
-
-&#125;
-
-&#125;
-
-*<span class="hljs-comment">/***
-
-** rename api files(java, kotlin...)*
-
-**/</span>*
-
-*<span class="hljs-keyword">private</span> <span class="hljs-keyword">def</span>* renameApiFiles(root_dir, String suffix, String replace) &#123;
-
-*FileTree* files = fileTree(root_dir).include(<span class="hljs-string">"**/*$suffix"</span>)
-
-files.each &#123;
-
-File file ->
-
-file.renameTo(*<span class="hljs-keyword">new</span>* File(file.absolutePath.replace(suffix, replace)))
-
-&#125;
-
-&#125;
-
-*<span class="hljs-comment">//替换AndroidManifest里面的字段*</span>
-
-*<span class="hljs-keyword">def</span>* fileReader(path, name, sdkName) &#123;
-
-*<span class="hljs-keyword">def</span>* readerString = <span class="hljs-string">""</span>
-
-*<span class="hljs-keyword">def</span>* hasReplace = *<span class="hljs-literal">false</span>*
-
-**file(path).withReader(<span class="hljs-string">'UTF-8'</span>) &#123; reader ->
-
-reader.eachLine &#123;
-
-*<span class="hljs-keyword">if</span>* (it.find(name)) &#123;
-
-it = it.replace(name, sdkName)
-
-hasReplace = *<span class="hljs-literal">true</span>*
-
-**&#125;
-
-readerString <<= it
-
-readerString << <span class="hljs-string">'\n'</span>
-
-&#125;
-
-*<span class="hljs-keyword">if</span>* (hasReplace) &#123;
-
-file(path).withWriter(<span class="hljs-string">'UTF-8'</span>) &#123;
-
-within ->
-
-within.append(readerString)
-
-&#125;
-
-&#125;
-
-*<span class="hljs-keyword">return</span>* readerString
-
-&#125;
+    &#125;
 
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
