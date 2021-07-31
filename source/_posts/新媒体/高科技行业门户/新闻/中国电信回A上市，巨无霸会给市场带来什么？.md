@@ -1,0 +1,19 @@
+
+---
+title: '中国电信回A上市，巨无霸会给市场带来什么？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member34929/202107/wx_article__e64682a09f3cc466298a829f653d54ed.jpg'
+author: 高科技行业门户
+comments: false
+date: Sat, 31 Jul 2021 01:55:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member34929/202107/wx_article__e64682a09f3cc466298a829f653d54ed.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">中国电信回A，超500亿元募资额创A股近十年之最。获资本加持的三大运营商能否领军中国电信行业继续向全球顶级水平发起冲击，将会成为投资者下个阶段关注的重点。</p><p style="text-indent: 2em; text-align: left;">文丨Han</p><p style="text-indent: 2em; text-align: left;">BT财经原创文章</p><p style="text-indent: 2em; text-align: left;">＃3600亿“巨无霸”中国电信获批上市成为7月末资本市场的焦点话题。7月29日晚间，证监会正式核发了中国电信IPO批文；今日（7月30日）这家电信巨无霸更新了招股书，并公布IPO发行安排及初步询价公告。</p><p style="text-indent: 2em; text-align: left;">这意味着，中国电信将以601728．SH和此前的00728．HK完成二级市场的“A＋H”上市。</p><p style="text-indent: 2em; text-align: left;">在招股书中，中国电信预计2021上半年营收2136亿元—2184亿元，同比增11％－13．5％；归母净利润预估在176亿元—179亿元，同比增长26％－28％。</p><p style="text-indent: 2em; text-align: left;">不过BT财经发现，近年来中国电信的营收虽然稳步走高，但净利润2015年、2018年、2019年和2020年均在200亿元上下，过去5年间增长并不明显。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member34929/202107/wx_article__e64682a09f3cc466298a829f653d54ed.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">以港股来看目前中国电信市值约2100亿人民币，市盈率为9．58。横向对比来看，高于中国联通（600050．SH）的1200亿元市值，低于中国移动（00941．HK）的7800亿元。但三者距离全球电信运营商巨头AT＆T（NYSE：T）的近13000亿人民币市值仍有巨大差距。</p><p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 2em;">兜兜转转，终于回A</strong></p><p style="text-indent: 2em; text-align: left;">此前，中国移动、中国联通和中国电信分别赴港上市，并在纽交所发行了存托股份。2019年11月，美方突然宣布禁止美国投资者投资中国电信、中国移动在内的31家中国企业。2021年1月，纽交所正式宣布三大运营商存托股份被暂停买卖。</p><p style="text-indent: 2em; text-align: left;">其实此举对三大运营商的影响非常小，因为它们本来在美股流动的股份就非常少，移动、电信和联通2020年底在美交易的股份只有2％、0．14％和0．2％。于是乎三家巨头齐齐宣布离开美国资本市场，除了2002年就已经A股上市的中国联通外，另外两家也着手准备回到上海第二上市。</p><p style="text-indent: 2em; text-align: left;">自此，兜兜转转后，三大运营商终于又“回家”齐聚A股。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">为什么最开始三大运营商没有在A股上市呢？中国移动和中国电信分别在1997年和2002年登陆港股，分别募资金额约300亿元和100亿元人民币。当时大陆的金融业与亚洲金融中心之一的中国香港差距比较大，后者还是当时的世界三大金融枢纽，赴港上市是让中国电信业巨头迅速拥抱国际市场的绝佳选择。</span></p><p style="text-indent: 2em; text-align: left;">另一个原因是，动辄超百亿元甚至300亿元的募资额，当时对于A股来说消化起来还比较困难，1996年和1997年A股全年的募资和仅为253亿元和693亿元。</p><p style="text-indent: 2em; text-align: left;">不过发展至如今，2020年A股全年总募资额已经达到1．36万亿元，在全球金融市场的地位也有了显著提升，有能力容纳电信巨头们回A上市了。</p><p style="text-indent: 2em; text-align: left;">中国电信董事长柯瑞文也表示，其实近年来资本市场一直保持和公司交流，选在当下时间点回A上市其实是一个很好的机遇期。目前恰好是中国电信“云改数转”（BT财经注：包括网络云化、业务云化、IT云化、数字化转变等）转折期，运用好资本力量有望推动战略落地。</p><p style="text-indent: 2em; text-align: left;">与此同时，在数据安全越来越被关注的背景下，手握通信关键数据的三大运营商“回家上市”，也将有助于保护中国公民和国家数据安全。</p><p style="text-indent: 2em; text-align: left;">从3月9日公告建议A股IPO，到7月底获得发行批文，中国电信回A上市的进程之快，也反映出市场和政策的积极情绪。</p><p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 2em;">“虹吸效应”会否再现市场？</strong></p><p style="text-indent: 2em; text-align: left;">此次中国电信回A拟募资金额达到540亿元，这依旧是一个很大的数字，可能成为A股历史上IPO募资之冠。</p><p style="text-indent: 2em; text-align: left;">540亿元是什么概念？赴美上市的滴滴（NYSE：DIDI）是中企6月募资王，吸金约285亿元，中国电信几乎是滴滴募资额的2倍。2021年5月和6月，中企在全球募资的总额（A股＋港股＋美股）分别为621亿元和644亿元，中国电信此次在A股的上市，几乎快赶上一个月的总和了。</p><p style="text-indent: 2em; text-align: left;">如此大的募资体量，会不会在短期造成“虹吸效应”，影响全市场的流动性呢？BT财经对比此前募资高达532亿元的中芯国际（688981．SH）发现，《中国证券报》在中芯国际上市交易半天内成交就超380亿元，虹吸效应显现。但随后伴随着当时电子板块活跃的交易，市场旋即消化了上述巨额资金量。</p><p style="text-indent: 2em; text-align: left;">在中国引领全球<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-5G.HTM" target="_blank" title="5G">5G</a></span>建设的新时代，三大电信巨头如今也面临全新的竞争环境。在传统的通信市场，同样获得5G商用牌照的“广电系”公司入局，将与三大运营商在家庭、移动、办公等更多全新场景下全面竞争，华为、西门子等国内国际通信企业也将同场竞合。</p><p style="text-indent: 2em; text-align: left;">回A上市、获资本加持的三大运营商能否领军中国电信行业继续向全球顶级水平发起冲击，将会成为投资者下个阶段关注的重点。</p> 
+  
+</div>
+            

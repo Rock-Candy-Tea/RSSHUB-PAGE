@@ -81,7 +81,7 @@ axios.defaults.withCredentials = true;
 <p>2.<code>Access-Control-Allow-Credentials</code> 为 <code>true</code></p>
 <p>3.<code>Access-Control-Allow-Origin</code>为非 <code>*</code></p>
 <p>这里请求的方式，在 <code>chrome</code> 中是能看到返回值的，但是只要不满足以上其一，浏览器会报错，获取不到返回值。</p>
-<p><img src="https://juejin.cn/post/6990725554852855839" alt="image-20200812161453822" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11f2fff46c774d1bac53f928612d3e5b~tplv-k3u1fbpfcp-watermark.image" alt="Snipaste_2021-07-31_11-38-56.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-5">正向代理</h4>
 <p>代理的思路为，利用服务端请求不会跨域的特性，让接口和当前站点同域。</p>
 <p>就是在各个框架的json文件中，设置一个proxy选项。不同框架设置不同，所以用到时，自己搜索即可。 xxx proxy</p>
@@ -324,7 +324,7 @@ bar[2](); // 10,都是输出10，深入理解需要掌握“预编译”和“�
 <li><strong>外部环境的引用</strong>意味着它可以访问其父级词法环境（作用域）。</li>
 </ol>
 <h2 data-id="heading-27">js的事件循环</h2>
-<p><img src="https://juejin.cn/post/6990725554852855839" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://user-gold-cdn.xitu.io/2017/11/21/15fdd88994142347?imageView2/0/w/1280/h/960/ignore-error/1" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>导图要表达的内容用文字来表述的话：</p>
 <ul>
 <li>同步和异步任务分别进入不同的执行"场所"，同步的进入主线程，异步的进入Event Table并注册函数。</li>
@@ -350,69 +350,69 @@ bar[2](); // 10,都是输出10，深入理解需要掌握“预编译”和“�
 <li><code>process.nextTick()</code>方法将 <code>callback</code> 添加到<code>next tick</code>队列。 一旦当前事件轮询队列的任务全部完成，在<code>next tick</code>队列中的所有<code>callbacks</code>会被依次调用。</li>
 <li>process.nextTick应该是独立于Event Loop 之外的，它是微任务，但是它本身应该有一个自己的队列，这个队列中的回调函数会优先于微任务队列中的函数执行。比如，你把process.nextTick放在Promise.then的下方，他还是会优先执行。</li>
 </ul>
-<p><img src="https://juejin.cn/post/6990725554852855839" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
-<pre><code class="copyable">//注意promise改变状态之前，他是在主线程执行的，在then，和await中是在微任务中执行的。
+<p><img src="https://user-gold-cdn.xitu.io/2017/11/21/15fdcea13361a1ec?imageView2/0/w/1280/h/960/ignore-error/1" alt="img" loading="lazy" referrerpolicy="no-referrer"></p>
+<pre><code class="hljs language-js copyable" lang="js"><span class="hljs-comment">//注意promise改变状态之前，他是在主线程执行的，在then，和await中是在微任务中执行的。</span>
 ​
-console.log('1');
+<span class="hljs-built_in">console</span>.log(<span class="hljs-string">'1'</span>);
 ​
-setTimeout(function () &#123;
-  console.log('2');
-  process.nextTick(function () &#123;
-    console.log('3');
+<span class="hljs-built_in">setTimeout</span>(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'2'</span>);
+  process.nextTick(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'3'</span>);
   &#125;)
-  new Promise(function (resolve) &#123;
-    console.log('4');
+  <span class="hljs-keyword">new</span> <span class="hljs-built_in">Promise</span>(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">resolve</span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'4'</span>);
     resolve();
-  &#125;).then(function () &#123;
-    console.log('5')
+  &#125;).then(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'5'</span>)
   &#125;)
 ​
-  // process.nextTick(function () &#123;
-  //   console.log('3');
-  // &#125;)
+  <span class="hljs-comment">// process.nextTick(function () &#123;</span>
+  <span class="hljs-comment">//   console.log('3');</span>
+  <span class="hljs-comment">// &#125;)</span>
 &#125;)
 ​
 ​
-process.nextTick(function () &#123;
-  console.log('6');
+process.nextTick(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'6'</span>);
 &#125;)
 ​
 ​
-new Promise(function (resolve) &#123;
-  console.log('7');
+<span class="hljs-keyword">new</span> <span class="hljs-built_in">Promise</span>(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">resolve</span>) </span>&#123;
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'7'</span>);
   resolve();
-&#125;).then(function () &#123;
-  console.log('8')
+&#125;).then(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'8'</span>)
 &#125;)
 ​
 ​
-setTimeout(async function () &#123;
-  console.log('9');
-  // process.nextTick(function () &#123;
-  //   console.log('10');
-  // &#125;)
-  // new Promise(function (resolve) &#123;
-  //   console.log('11');
-  //   resolve();
-  // &#125;).then(function () &#123;
-  //   console.log('12')
-  // &#125;)
+<span class="hljs-built_in">setTimeout</span>(<span class="hljs-keyword">async</span> <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) </span>&#123;
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'9'</span>);
+  <span class="hljs-comment">// process.nextTick(function () &#123;</span>
+  <span class="hljs-comment">//   console.log('10');</span>
+  <span class="hljs-comment">// &#125;)</span>
+  <span class="hljs-comment">// new Promise(function (resolve) &#123;</span>
+  <span class="hljs-comment">//   console.log('11');</span>
+  <span class="hljs-comment">//   resolve();</span>
+  <span class="hljs-comment">// &#125;).then(function () &#123;</span>
+  <span class="hljs-comment">//   console.log('12')</span>
+  <span class="hljs-comment">// &#125;)</span>
 ​
-  let result = await Promise.resolve("11")
-  console.log(result)
-  console.log("12")
+  <span class="hljs-keyword">let</span> result = <span class="hljs-keyword">await</span> <span class="hljs-built_in">Promise</span>.resolve(<span class="hljs-string">"11"</span>)
+  <span class="hljs-built_in">console</span>.log(result)
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"12"</span>)
 &#125;)
 ​
 ​
-  ; (async () => &#123;
-    console.log('13');
+  ; (<span class="hljs-keyword">async</span> () => &#123;
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'13'</span>);
 ​
-    let result = await Promise.resolve("14")
-    console.log(result)
-    console.log("15")
+    <span class="hljs-keyword">let</span> result = <span class="hljs-keyword">await</span> <span class="hljs-built_in">Promise</span>.resolve(<span class="hljs-string">"14"</span>)
+    <span class="hljs-built_in">console</span>.log(result)
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"15"</span>)
   &#125;)()
 ​
-// 1 7 13 6 8 14 15 2 4 3 5 9 11 12。
+<span class="hljs-comment">// 1 7 13 6 8 14 15 2 4 3 5 9 11 12。</span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <blockquote>
 <p><a href="https://juejin.im/post/6844903512845860872" target="_blank" title="https://juejin.im/post/6844903512845860872">js执行机制</a></p>
@@ -1964,7 +1964,7 @@ let a = []
 <p>If-None-Match是客户端再次发起该请求时，携带上次请求返回的唯一标识Etag值，通过此字段值告诉服务器该资源上次请求返回的唯一标识值。服务器收到该请求后，发现该请求头中含有If-None-Match，则会根据If-None-Match的字段值与该资源在服务器的Etag值做对比，一致则返回304，代表资源无更新，继续使用缓存文件；不一致则重新返回资源文件，状态码为200。</p>
 <p><strong>注：Etag / If-None-Match优先级高于Last-Modified / If-Modified-Since，同时存在则只有Etag / If-None-Match生效。</strong></p>
 <p>总结：强制缓存优先于协商缓存。协商缓存成功则返回304状态码，继续使用缓存。否则返回200状态码，重新请求资源。HTTP 缓存可以分为强制缓存和协商缓存，强制缓存就是在缓存有效期内直接使用浏览器缓存；协商缓存则需要先询问服务端资源是否发生改变，如果未改变再使用浏览器缓存。</p>
-<p><img src="https://juejin.cn/post/6990725554852855839" alt="image-20210301134157751" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a0ebd7b53b3414a9d3269ecaa349c25~tplv-k3u1fbpfcp-watermark.image" alt="Snipaste_2021-07-31_11-10-28.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-74">数组乱序</h2>
 <pre><code class="copyable">​
 // 方法一。该方法有缺陷，大多数元素的位置是不变的
