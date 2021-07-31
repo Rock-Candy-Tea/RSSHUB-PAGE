@@ -39,7 +39,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/app
 <p>Read the full report on <a href="https://www.apple.com/newsroom/">Apple Newsroom</a>.</p>
 <p>Stay tuned to <em>9to5Mac</em> for more coverage from the AAPL earnings call with Tim Cook and Luca Maestri next. You can listen live to the AAPL Q3 2021 earnings call audio streaming at <a href="http://investor.apple.com/">the top of the hour here</a> or listen back shortly after the call with Apple Podcasts.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2WnSUfG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/9to5macbannerv2-still.jpg?quality=82&strip=all" alt class="wp-image-739900" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

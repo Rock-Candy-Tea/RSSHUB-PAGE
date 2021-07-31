@@ -24,7 +24,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/iPa
 <p>Notably, this is not the first time Apple has warned against supply constraints. Last quarter, the <a href="https://9to5mac.com/2021/04/28/apple-supply-shortages-ipad-mac/">company said that iPad and Mac constraints</a> could cost the company somewhere to the tune of $3 billion to $4 billion in revenue. Maestri said today that the impact ended up being towards the lower-end of that range, but that the situation will worsen in Q4. </p>
 <p>During today’s call, Cook also noted that component costs in aggregate are decreasing, but Apple is still paying more for fright than it would like. Cook said that Apple is taking the supply situation one quarter at a time and that the company will do “everything we can to mitigate” the situation. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2WnSUfG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/07/9to5macbannerv2-still.jpg?quality=82&strip=all" alt class="wp-image-739900" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
