@@ -1,0 +1,49 @@
+
+---
+title: 'TCL：Mini LED和LED将长期共存 各有千秋'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210731/s_401a14c5bda84377a8efdd77ec4766bf.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Sat, 31 Jul 2021 20:50:08 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210731/s_401a14c5bda84377a8efdd77ec4766bf.jpg'
+---
+
+<div>   
+<p>今年以来，随着苹果等厂商推出Mini LED产品，这个不同于OLED的技术路线正在获得越来越多的关注。</p>
+<p>在近日开幕的ChinaJoy和UDE上，TCL也发布了多款Mini LED新品。TCL电子研发中心高级总监王代青在接受采访时表示，<strong>Mini LED能够给现在普遍使用的LCD技术带来非常大的提升，实现和OLED互有竞争，画质能力达到各有千秋的水平。</strong></p>
+<p>他认为，Mini LED和OLED不是互相取代的关系，而是会长期共存、齐头并进发展。另外他透露，2020年TCL的Mini LED智屏产品实现了近30万台的销量和超10亿元的销售额，市场份额接近90%。</p>
+<p><strong>Mini LED与OLED会长期共存</strong></p>
+<p>今年4月，苹果在春季发布会上推出全新版本的iMac及iPad Pro。其中iPad Pro使用Mini LED背光显示屏幕，这让Mini LED受到市场的持续关注。</p>
+<p>TCL电子研发中心高级总监王代青表示，OLED作为新兴的显示技术虽然已经进入量产多年，但是它要走向非常成熟的阶段，还是很多问题需要解决。从基础材料到基本的加工技术、工艺技术选择、设备选择、产线良率的爬升等，都需要做提升。</p>
+<p><strong>而LCD是非常成熟的显示技术，加上目前Mini LED的赋能，给LCD带来了非常好的前景，让技术有了升华</strong>。“LCD技术已经进入了成熟期，但是它有非常高的性价比。在技术成熟、性价比很高的情况下，再加上Mini LED的技术加持，它的生命力其实是非常强的。”</p>
+<p><strong>那么Mini LED的规模商用还面临着怎样的挑战？</strong></p>
+<p>王代青表示，在技术角度来说，Mini LED是一个系统的工程，它是多项技术的整合，但目前没有致命的技术瓶颈和困难。主要的问题是要解决制成的良率和器件的迭代开发来做成本降低。</p>
+<p>具体而言，针对Mini LED的光学架构技术，Mini LED发光芯片，Mini LED适用的多分区驱动芯片，固晶和转移的工艺技术等，目前都已经进入了量产，未来想获得大规模的演进，就需要把这些技术再迭代，获得一个很好的性价比；同时，Mini LED目前产业上所用的这些技术不仅相对比较成熟，而且基本上都是国产化的，包括自动化的生产设备、检测设备、返修设备，目前国产化已经非常完善。</p>
+<p>他举例，无论是TCL还是近期发布Mini LED产品的其它企业，在产品的价格策略上并没有像大家想象得产品非常贵，基本上都是在LCD产品的价格段之下，这就给Mini LED创造了一个良好的市场环境，能够被市场接受。</p>
+<p>不过王代青强调，Mini LED与OLED技术是齐头并进、共同发展的。不能简单地说哪一个技术好，哪一个技术不好。在非常长的时间里，他们会是共存的技术。</p>
+<p><strong>2020年Mini LED智屏销售额超10亿元</strong></p>
+<p>虽然Mini LED在今年收获了巨大的关注，但TCL早在2017年就开始投入研发。</p>
+<p>王代青介绍，2017年以前，整个LCD竞争格局比较激烈。虽然TCL增长的速度比较快，但是距离三星、LG这两家行业头部企业还有一定的差距，因为他们整体技术实力很强。在这个情况下，TCL希望通过创新获得竞争的优势，选择投入Mini LED。</p>
+<p>TCL在2019年正式推出Mini LED产品，目前为止推出了5个系列的产品。今年第四季度和明年年初还会继续推出不少于三个系列的8K和4K产品。TCL将把Mini LED技术路线作为一个战略方向进行投入。</p>
+<p>实际上，TCL的Mini LED产品在2020年就迎来了爆发。</p>
+<p>王代青透露，2020年TCL销售了市场上接近90%的Mini LED产品，实现了中国和北美市场接近30万台的销量，整体销售额超过10亿元。目前，TCL已经具备了上百万台的制造能力。</p>
+<p>在他看来，TCL在Mini LED上有两方面的优势。一是具有垂直整合的完整产业链，在多年的演进过程中，在资源投入以及深度合作方面，最后形成了产业布局。从华星屏的配合，到芯片端的合资公司，到自研的关键制成工艺都有完整的布局；二是在关键技术方面已经研究得有一定深度，取得了一些自有的技术。比如在发光芯片端，在模组光学架构端、在整机的IPDR配合Local Dimming画质算法上有比较深的积累。</p>
+<p>“我们把Mini LED作为长期战略，在这方面的投入只会越来越大，一定会在深耕方面保持我们的领先。”他说。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20210731/401a14c5bda84377a8efdd77ec4766bf.jpg" target="_blank"><img alt="TCL：Mini LED和LED将长期共存 各有千秋" h="400" src="https://img1.mydrivers.com/img/20210731/s_401a14c5bda84377a8efdd77ec4766bf.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+            
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/tcl.htm"><i>#</i>TCL</a><a href="https://news.mydrivers.com/tag/oled.htm"><i>#</i>OLED</a><a href="https://news.mydrivers.com/tag/mini_led.htm"><i>#</i>Mini LED</a></p>
+<p class="url">
+     <span>原文链接：<a href="https://finance.sina.com.cn/tech/2021-07-31/doc-ikqciyzk8743146.shtml">新浪科技</a></span>
+<span>责任编辑：朝晖</span>
+</p>
+        
+</div>
+            
