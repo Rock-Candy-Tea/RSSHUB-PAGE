@@ -368,6 +368,7 @@ UserInfo bean = accountService. getUserEntity();
 <p>使用：</p>
 <pre><code class="hljs language-groovy copyable" lang="groovy">includeWithApi <span class="hljs-string">":user"</span>
 <span class="copy-code-btn">复制代码</span></code></pre>
+<p>Demo<a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fkongxiaoan%2Fcomponent-api.git" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/kongxiaoan/component-api.git" ref="nofollow noopener noreferrer">component-api</a></p>
 <p>参考文献：</p>
 <p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Q818XA5FaHd7jJMFBG60w" target="_blank" rel="nofollow noopener noreferrer" title="https://mp.weixin.qq.com/s/6Q818XA5FaHd7jJMFBG60w" ref="nofollow noopener noreferrer">《微信Android重构模块化架构重构实践》</a></p>
 <p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Ftyhjh%2Fmodule_api" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/tyhjh/module_api" ref="nofollow noopener noreferrer">《gradle实现API方案》</a></p>
