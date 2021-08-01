@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 今日头条
  - 关键词
-headimg: 'https://picsum.photos/400/300?random=6080'
+headimg: 'https://picsum.photos/400/300?random=2886'
 author: 今日头条
 comments: false
 date: Mon, 12 Jul 2021 06:10:11 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6080'
+thumbnail: 'https://picsum.photos/400/300?random=2886'
 ---
 
 <div>   
