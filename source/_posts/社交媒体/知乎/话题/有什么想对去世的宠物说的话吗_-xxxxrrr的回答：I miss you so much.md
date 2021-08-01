@@ -1,0 +1,18 @@
+
+---
+title: '有什么想对去世的宠物说的话吗_-xxxxrrr的回答：I miss you so much'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/50/v2-fa3900eea95793f0e4c5d4f0a7241aed_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sat, 31 Jul 2021 23:44:32 GMT
+thumbnail: 'https://pica.zhimg.com/50/v2-fa3900eea95793f0e4c5d4f0a7241aed_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>有什么想对去世的宠物说的话吗?</strong><br>xxxxrrr的回答<br><p>I miss you so much </p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-fa3900eea95793f0e4c5d4f0a7241aed_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-fd155e08d277aa598584380e884927df_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-fa3900eea95793f0e4c5d4f0a7241aed_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-fa3900eea95793f0e4c5d4f0a7241aed_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-b89a2996c4016382963fde7b1b482165_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-c772b4ad0547112645bbff25737b64c1_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-b89a2996c4016382963fde7b1b482165_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-b89a2996c4016382963fde7b1b482165_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-8a2b5d554ba5e113bcb79ba45b289555_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-4f8679c8fd0df86abdb07a9a79b52d5b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-8a2b5d554ba5e113bcb79ba45b289555_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-8a2b5d554ba5e113bcb79ba45b289555_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-5de2f06f954391d72488ae6dd52c5207_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ee003f8638055f52883a909d3e367556_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-5de2f06f954391d72488ae6dd52c5207_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-5de2f06f954391d72488ae6dd52c5207_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-0cd3e308c9bd90891976b4fb8b4bab18_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-e8301aaad6c2d4cce8ee937fa733f44e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-0cd3e308c9bd90891976b4fb8b4bab18_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-0cd3e308c9bd90891976b4fb8b4bab18_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

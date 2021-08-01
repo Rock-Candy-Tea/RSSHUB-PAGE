@@ -78,12 +78,15 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/618d27fc7c9b4a1a88
 <h4 data-id="heading-10">sticky</h4>
 <p>sticky 的效果在滚动的时候如果超过了一定的高度就 fixed 在一个位置，否则的话就 static。相当于基于 static 和 fixed 做的一层封装，实现导航条吸顶效果的时候可以直接用。</p>
 <p>或许就是因为太常用，才封装出了这样一个 position 的属性值吧，之前都是通过 js 监听滚动条位置来分别设置 static 和 fixed 的。</p>
-<h3 data-id="heading-11">小结</h3>
+<h3 data-id="heading-11">float</h3>
+<p>脱离文档流还可以通过 float，文档流内的块盒会占据一行，可以通过 float 让元素先脱离文档流，不再占据一行，等设置完改行的样式，再用 clear 清除浮动，让后面的元素继续在文档流中布局。</p>
+<p>但是有了 flex 的盒之后，不再需要这样 float、clear 了，直接在文档流中放个 flex 盒，flex 盒内就可以在同一行内做弹性的布局。</p>
+<h3 data-id="heading-12">小结</h3>
 <p>所谓的布局就是确定元素的位置，设置了盒的类型（display）之后对于内容如何渲染会有不同的规则，比如 BFC、IFC、FFC、GFC 等。</p>
 <p>盒与盒之间默认是流式的，也就是 position 为 static，但有的时候想在流中做下偏移，用 relative。当不想跟随文档流了，可以设置 absolute 来相对于上个非 static 位置来计算一个固定的位置，如果想直接相对于窗口，就用 fixed。</p>
 <p>当需要做吸顶效果的时候，要根据滚动位置切换 static 和 fixed，这时候 css 还有一个 sticky 的定位方式可以直接用。</p>
-<p>也就是说，盒内部的布局计算规则根据 display 来确定，还可以用 position 做一些调整。</p>
-<h2 data-id="heading-12">vscode 是如何布局的</h2>
+<p>也就是说，盒内部的布局计算规则根据 display 来确定，还可以用 position 做一些调整。之前块盒需要先用 float 脱离文档流，布局完再 clear，现在用 flex 盒就可以了。</p>
+<h2 data-id="heading-13">vscode 是如何布局的</h2>
 <p>讲了 css 的布局方式（也就是 display 配合 position）之后，我们来看一个具体的案例： vscode 是如何布局的。</p>
 <p>vscode 是我们经常用的 ide，它基于 electron，也就是通过网页来绘制界面，那么它是怎么做布局的呢？</p>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d628335c5cb4de5a565532c2ed07a3f~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
@@ -96,7 +99,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/618d27fc7c9b4a1a88
 <p>这是整体的布局，每一块内部则根据不同的布局需求分别使用流式、弹性等不同的盒，配合绝对、相对等定位方式来布局。</p>
 <p>但是，绝对定位是要指定具体的 top、bottom、left、right 值，是静态的，而窗口大小改变的时候需要动态的设置具体的值。这时候就需要监听窗口的 resize 事件来重新布局，分别计算不同块的位置。</p>
 <p>而且 vscode 每一块的大小是也是可以拖动改变大小的，也要在拖动的时候重新计算 left、top 的值。</p>
-<h2 data-id="heading-13">总结</h2>
+<h2 data-id="heading-14">总结</h2>
 <p>现代软件基本都是有用户界面的，而不同操作系统下构建 UI 的方式不同，所以跨平台渲染的浏览器的方案逐渐流行开来。移动互联网时代之后，为了综合原生的体验和网页的跨平台，出现了跨端引擎的方案，也就是基于安卓、ios 分别实现 dom api 并注入一些设备能力的 api 给 JS 引擎，业务代码通过 dom api 来描述 UI。</p>
 <p>dom api 是浏览器提供给开发者的描述 UI 的方式，是物理层。现在的前端框架可以完成组件的封装和数据到 dom 的映射，不再需要直接操作 dom，算是逻辑层。</p>
 <p>因为跨端引擎实现了 dom api，所以上层可以对接前端框架。</p>
@@ -104,8 +107,10 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/618d27fc7c9b4a1a88
 <p>具体 font、text、image 等分别有不同的样式来描述如何渲染，而布局是确定每个元素的位置，由 display 配合 position 来确定。</p>
 <p>网页的每一个内容都是一个盒，由 content、padding、border、margin 构成，而 display 是设置盒的类型，不同的盒有不同的布局规则，比如 BFC、IFC、FFC、GFC 等。</p>
 <p>当有一些需要定制的布局规则，可以使用 position。默认的 position 是 static，也就是流式的，根据上个盒来确定下个盒的位置，可以使用 relative 做一些偏移，如果想相对于某个位置固定，可以使用 absolute，当直接相对窗口的时候使用 fixed。此外，在做吸顶效果的时候，可以使用 sticky，它是基于 static 和 fixed 的封装。</p>
+<p>因为文档流的局限性，块盒要在同一行的时候需要用 float 脱离文档流，但有了 flex 盒之后就不用脱离了，在流中放一个 flex 盒就行，内部可以做弹性的横向竖向布局。</p>
 <p>知道了 display 和 position 都怎么做布局，也就是计算盒的位置以后，我们看了下 vscode 是怎么布局的。</p>
 <p>vscode 是上中下嵌套左中右的结构，窗口改变或者拖动都可以调整每块大小，所以使用嵌套的 absolute 的方式来做整体的布局。每一块的内部则综合使用流式、弹性等方式配合 position 分别做更细节的布局。</p>
+<p>css layout 的本质就是确定元素的位置，之前的 css layout 可以说是 display + float + position，现在是 display + position 就可以了。display: flex 可以替代 float 做到更强的布局效果。</p>
 <p>网页的 css 布局方案已经应用在越来越多的领域，比如跨端引擎通过安卓、ios 实现 css，kraken 基于 flutter 实现 css，所以 css 的布局方式是我们必须掌握的技能。希望这篇文章能帮大家梳理清楚 css 布局的思路，对各种布局都能够分析清楚特性，然后用合适的方案来实现。</p></div>  
 </div>
             
