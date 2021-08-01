@@ -111,7 +111,7 @@ The first observation is that, in each column, rows 0, 1, and 2 belong to the sa
 <li><p>Otherwise, update the set responsible for tracking previously seen numbers in the current row, column, and box. The index of the current box is <code>(r / 3) * 3 + (c / 3)</code> where <code>/</code> represents floor division.</p></li></ul></li>
 <li><p>If no duplicates were found after every position on the sudoku board has been visited, then the sudoku is valid, so return <code>true</code>.</p></li>
 </ol>
-<iframe src="https://leetcode.com/playground/KoZWwgeB/shared" frameborder="0" width="100%" height="500" name="KoZWwgeB"></iframe>
+<iframe src="https://leetcode.com/playground/ak2r6EHE/shared" frameborder="0" width="100%" height="500" name="ak2r6EHE"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$N$$ be the board length, which is 9 in this question. Note that since the value of $$N$$ is fixed, the time and space complexity of this algorithm can be interpreted as $$O(1)$$.  However, to better compare each of the presented approaches, we will treat $$N$$ as an arbitrary value in the complexity analysis below.</p>
 <ul>
@@ -134,7 +134,7 @@ The first observation is that, in each column, rows 0, 1, and 2 belong to the sa
 </ol>
 <p>Let's take the leftmost column in the sudoku shown below as an example.</p>
 <p>!?!../Documents/36/36<em>method2</em>array.json:960,680!?!</p>
-<iframe src="https://leetcode.com/playground/4tUFsQ6Q/shared" frameborder="0" width="100%" height="500" name="4tUFsQ6Q"></iframe>
+<iframe src="https://leetcode.com/playground/DMaDigHW/shared" frameborder="0" width="100%" height="500" name="DMaDigHW"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$N$$ be the board length, which is 9 in this question. Note that since the value of $$N$$ is fixed, the time and space complexity of this algorithm can be interpreted as $$O(1)$$.  However, to better compare each of the presented approaches, we will treat $$N$$ as an arbitrary value in the complexity analysis below.</p>
 <ul>
@@ -176,7 +176,7 @@ Let's first review the two most commonly used operations for <code>get</code> an
 </ol>
 <p>Let's take the upper-left box as an example.</p>
 <p>!?!../Documents/36/36<em>method3</em>binary.json:960,680!?!</p>
-<iframe src="https://leetcode.com/playground/fnBCoXyp/shared" frameborder="0" width="100%" height="500" name="fnBCoXyp"></iframe>
+<iframe src="https://leetcode.com/playground/JfaaNSLw/shared" frameborder="0" width="100%" height="500" name="JfaaNSLw"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Let $$N$$ be the board length, which is 9 in this question. Note that since the value of $$N$$ is fixed, the time and space complexity of this algorithm can be interpreted as $$O(1)$$.  However, to better compare each of the presented approaches, we will treat $$N$$ as an arbitrary value in the complexity analysis below.</p>
 <ul>
