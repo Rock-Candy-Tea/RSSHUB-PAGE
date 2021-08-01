@@ -14,7 +14,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/app
 
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Apple has removed an app called “Unjected” from the App Store for violating its guidelines around COVID-19 and misinformation, according to a new <a href="https://www.bloomberg.com/news/articles/2021-07-31/anti-vax-app-squares-off-with-google-apple-over-misinformation">report from <em>Bloomberg</em></a><em>. </em>The app, which billed itself as a place for “like-minded people that support medical autonomy and free speech,” was available in the App Store until <em>Bloomberg</em> reached out of comment. </p>
+<p>Apple has removed an app called “Unjected” from the App Store for violating its guidelines around COVID-19 and misinformation, according to a new <a href="https://www.bloomberg.com/news/articles/2021-07-31/anti-vax-app-squares-off-with-google-apple-over-misinformation">report from <em>Bloomberg</em></a><em>. </em>The app, which billed itself as a place for “like-minded people that support medical autonomy and free speech,” was available in the App Store until <em>Bloomberg</em> reached out for comment. </p>
 <p><span id="more-741304"></span>
 </p>
 <p>The report from <em>Bloomberg </em>explains that Unjected launched in May, allowing users to make a profile, match and message with other people, and more. Essentially, the app was a dating service for anti-vaxxers, and its launch coincidentally coincided with Tinder and Bumble adding perks to encourage users to get vaccinated against COVID-19, leading Unjected to become known as “Tinder for anti-vaxxers.” </p>
