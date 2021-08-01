@@ -39,8 +39,8 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feec3ce3281240128a
 <h2 data-id="heading-5">5.computed属性中有get和set方法，如果属性的值是一个函数，则默认走get方法。若数据发生变化时，则执行set方法，此时使用对象定义computed</h2>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/394ed218904d4679a0c0454de1d0c836~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-08-01 下午5.12.02.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-6">3.computed的应用场景</h1>
-<p>1.当需要多个值重新计算生成一个新值时使用计算属性，多对一的关系
-2.当需要进行复杂运算并希望可以通过缓存减少运算次数，达到提高性能目的时可以使用计算属性</p>
+<p><strong>1.当需要多个值重新计算生成一个新值时使用计算属性，多对一的关系</strong></p>
+<p><strong>2.当需要进行复杂运算并希望可以通过缓存减少运算次数，达到提高性能目的时可以使用计算属性</strong></p>
 <h1 data-id="heading-7">4.vue3 中当数组的长度没有发生变化时也可以监听数组了，不需要使用$set</h1>
 <p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e7fc0e087ec4b019596ac558c2389c0~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-08-01 下午5.26.07.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b8ac284dd1b4a528d7ae37e1a393661~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-08-01 下午5.26.30.png" loading="lazy" referrerpolicy="no-referrer"></p></div>  
