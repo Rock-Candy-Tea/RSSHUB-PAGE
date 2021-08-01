@@ -1,0 +1,74 @@
+
+---
+title: '美国新冠日增近20万！ICU护士哽咽：_病人越来越年轻病情却越来越重_，美疾控中心：德'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          美国新冠日增近20万！ICU护士哽咽：“病人越来越年轻病情却越来越重”，美疾控中心：德尔塔可1传9，传染期长达18天！
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-08-01 21:46:29
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+          <p style="color:#6d6d6d;font-size: 16px;">
+            每经编辑 程鹏    
+          </p>
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p><span>德尔塔变异毒株来势汹汹，国内疫情从南京禄口机场到张家界再到常德游船，感染链不断延长。</span><span>本轮疫情或已形成南京机场、张家界、常德游船<span>传播</span>三中心，全国14省份20余地已拉响警报。</span></p>            <p><span>而远在大洋彼岸的</span><span><strong>美国</strong></span><span>，新冠疫情<span>似乎</span>亦有复燃迹象，</span><strong><span><span>7月</span><span>31日新</span></span></strong><strong><span>增确诊近20万，</span></strong><span>单日新冠确诊创今年2月以来的新高！</span></p>            <p><span>当地时间30日下午，世卫组织表示，随着德尔塔变异毒株在全球范围的蔓延，</span><strong><span>之前来之不易的抗疫成果将会失去。</span></strong><span>“德尔塔变异毒株”现已传播至世界</span><strong><span>132个国家和地区，它的传播力更强，“病毒载量”更高，更让人担忧。</span></strong></p>            <p><span>另据7月30日，美国CDC（美国疾控中心）在其官方网站公布了一份关于德尔塔病毒的最新研究数据显示，<span>德尔塔</span>的病毒脱落期（排毒期）达到了18天。<span>加州大学旧金山分校医学系主任Wachter称，<span>德尔塔</span>不但传播力更强，</span></span><strong><span>传染期也更长（18天，而不是13天），这也将对我们通常采用的14天隔离措施造成挑战。</span></strong></p>            <p><span><strong></strong></span></p>
+<p><strong><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png" alt="3605433317643364352.png" referrerpolicy="no-referrer"></strong></p>
+<strong></strong>      <span><strong><span>“德尔塔变异毒株”加速扩散</span></strong></span>      <span><strong><span>美国新增确诊病例创2月以来新高</span></strong></span>      <p><span>根据约翰霍普金斯大学的数据，本周五全美新增新冠确诊病例达到</span><strong><span>194608例，</span></strong><span>创1月冬季高峰以来的最高值；新增确诊病例7天滚动平均值达到103000，</span><span><strong>创2月7日以来的最高水平</strong></span><span>。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/1184023726289838080.gov_img/2021/8/1/7958141997133502464.png" alt="7958141997133502464.png" referrerpolicy="no-referrer"></p>            <p><span>在住院数据方面，目前全美有超过48000人因新冠疫情住院，这仍低于今年1月份130000人的峰值水平。</span></p>            <p><span>据央视新闻援引美国媒体7月31日报道，</span><strong><span>“德尔塔变异毒株”引发的新冠肺炎疫情再度恶化引起了美国众多卫生专家的担忧，</span></strong><span>专家预计，只要美国大部分地区仍未普遍接种新冠疫苗，病例将继续激增。</span></p>            <p><span>在美国中南部疫苗接种率低的州，疫情的再度恶化尤为严重。</span><strong><span>在佐治亚州，新增确诊病例在过去14天里增加了两倍多。</span></strong><span>佐治亚州卫生专员Kathleen E. Toomey警告称，可以预见新冠确诊病例将继续增长，</span><strong><span>未接种疫苗或跳过第二剂疫苗的人是感染的目标。</span></strong></p>            <p><strong><span>密西西比州</span></strong><span>是美国各州中疫苗接种率最低的州之一，目前当地需要住院治疗的新冠肺炎患者人数急剧上升；密西西比州卫生部7月30日的数据显示，在全州827张用于收治新冠肺炎病患的重症监护病床中，只空余107张，约占13%；密西西比大学医疗中心重症监护病房的所有88张病床都已住满。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/6952722778092794880.gov_img/2021/8/1/6770850843129006080.jpeg" alt="6770850843129006080.jpeg" referrerpolicy="no-referrer"></p>            <p><span><strong><span>得克萨斯州</span></strong></span><span>首府奥斯汀市公共卫生局表示，当地重症监护床位眼下只有16张可用，是疫情暴发以来最少。 </span></p>            <p><span>新冠疫苗接种率低的</span><strong><span>路易斯安那州</span></strong><span>是目前全美疫情“重灾区”之一，德尔塔变异毒株广泛传播，新增确诊病例和住院病例都持续大增。面对日益严重的疫情，近日，路易斯安那州一家医院新冠肺炎重症监护病房的护士发布了一段视频。她在视频中哽咽地说，她在医院正面临“有史以来最艰难的日子”。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/5263591059540527104.gov_img/2021/8/1/4971100095072575488.jpeg" alt="4971100095072575488.jpeg" referrerpolicy="no-referrer"></p>
+<p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/1994927846565661696.gov_img/2021/8/1/5269293926522431488.png" alt="5269293926522431488.png" referrerpolicy="no-referrer"></p>            <p><span>这名护士名叫费利西娅·克罗夫特，她在视频中说，目前她工作的重症监护室里病人不断增多，</span><strong><span>病人的年龄也越来越小，病情却越来越重</span></strong><span>——许多重症病人与她年纪相仿，跟她一样也有孩子，病人中甚至还有她的朋友，而一旦无法康复、走出重症监护室，他们就再也看不到自己的孩子长大、毕业了。</span></p>            <p><strong><span>路易斯安那州</span></strong><span>乃至全美疫情迅速恶化，医疗系统再次承受巨大压力，疫情的反复让医护人员身心俱疲。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/8242727648735486976.gov_img/2021/8/1/5767458483697024000.gif" alt="5767458483697024000.gif" referrerpolicy="no-referrer"></p>            <p><span>到目前为止大约60%的美国成年人已经完全接种了疫苗。总统拜登此前设定的目标是，到7月4日，至少让70%的成年人接受一次新冠疫苗的注射。</span></p>            <p><strong></strong></p>
+<p><strong><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png" alt="3605433317643364352.png" referrerpolicy="no-referrer"></strong></p>
+<strong></strong>      <p><strong><span>完成疫苗接种也能传染他人</span></strong></p>      <p><strong><span>美国新</span></strong><strong><span>一轮封锁在即？</span></strong></p>            <p><span>面对新一轮的全美疫情，总统拜登在前往戴维营之前在白宫南草坪告诉记者，面对不断攀升的全美新增确诊病例，美国“很可能”会迎来更多的疫情相关指导方针和限制措施。</span></p>            <p><span>但白宫发言人随后淡化了立即封城的风险。白宫副新闻秘书Karine Jean-Pierre在官方发布会上具体解释称，美国不会因新冠肺炎确诊病例数上升再次“封锁”城市，取而代之的是美国将利用一切技术确保美国控制新冠变异毒株的传播。但如果CDC专家建议采取疫情封锁措施和关闭学校的政策，美国政府会遵循他们的指导意见。</span></p>            <p><span>美国政府此前已经收紧出行政策。</span></p>            <p><span>总统拜登周四宣布，除了美国邮政工人之外的联邦工作人员和个人承包商，必须出示新冠疫苗接种证明，否则必须戴口罩，保持社交距离，并经常进行病毒检测。根据白宫的说法，这些新规则是应对<span>德尔塔</span>变种病毒而实施的。</span></p>            <p><span>多家美国媒体近日披露的美国疾控中心的一份内部文件显示，</span><strong><span>“德尔塔变异株”的高传染性与水痘病毒相当，一名感染者能传染5-9个人，</span></strong><span>而且，由“德尔塔变异株”导致的已接种疫苗的感染者与未接种或者部分接种疫苗的感染者“体内检测到的病毒载量相近”，</span><span><strong><span>这意味着：已经完成疫苗接种的人在感染“德尔塔变异株”后仍然会传播病毒。 </span></strong></span></p>            <p><span>美国CDC主任Rochelle Walensky警告称，目前的状况表明新冠传播风险正在显著增加，与其他变种不同，高病毒载量意味着感染了德尔塔变体病毒的疫苗接种者也可以传播病毒。</span></p>            <p><strong><span>数据调查显示，目前在1.62亿已经接种新冠疫苗的美国人里，每周平均有3.5万例有症状的感染。</span></strong></p>            <p><span>不过，这也不代表疫苗没有作用。</span><strong><span>数据表明，未接种疫苗的人患重症的风险还是要高得多。</span></strong><span>美国疾控中心主任<span>Rochelle Walensky</span>表示，要抑制“德尔塔变异株”的蔓延，</span><strong><span>除了尽快普及疫苗接种以外，还需要人们重新遵守口罩令。</span></strong></p>            <p><span>最新的研究发现也迫使CDC重新修改出行指南，敦促一些美国人重新开始戴口罩。</span></p>            <p><span>根据CDC的最新要求，住在变异病毒传播率高地区的完全接种疫苗者在室内公共场所应该再次戴上口罩。CDC同时建议中小学校要求教师、员工、学生和访客无论是否接种疫苗都应普遍戴口罩。</span></p>      <p><span><strong></strong></span></p>
+<p><strong><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png" alt="3605433317643364352.png" referrerpolicy="no-referrer"></strong></p>
+<strong></strong>      <strong>美国CDC新发现：</strong>      <strong>德尔塔病毒排毒期达18天</strong><p><span>据第一财经，在7月31日国务院联防联控机制新闻发布会上，中国疾控中心研究员冯子健介绍称，</span><span><strong>德尔塔病度载量高、传播能力强、传播速度快、<span>重症率更高，</span></strong></span><strong><span>而且转阴时间长。</span></strong><span>7月30日，美国CDC在其官方网站公布了一份关于德尔塔病毒的最新研究数据，其中一项涉及<span>德尔塔</span>病毒排泄的数据。</span></p>            <p><strong><span>数据</span></strong><strong><span>显示德尔塔的病毒脱落期达到了18</span></strong><strong><span>天，比过去13天的新冠病毒脱落期多出了5天。</span></strong></p>      <p><strong></strong></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4056439508717852672.gov_img/2021/8/1/510585939896002560.png" alt="510585939896002560.png" referrerpolicy="no-referrer"></p>            <p><span>加州大学旧金山分校医学系主任Wachter称，</span><strong><span>德尔塔不但传播力更强，传染期也更长（18天，而不是13天），这也将对我们通常采用的14天隔离措施造成挑战。</span></strong></p>            <p><span>事实上，新冠病毒野毒株、阿尔法变体等都没有发生病毒脱落期的延长，所以从新冠疫情爆发至今，</span><strong><span>隔离期以及疫情溯源多数规定为14天。</span></strong></p>            <p><span>根据中国《新型冠状病毒肺炎防控方案（第八版）》，基于目前的流行病学调查和研究结果，新冠肺炎潜伏期为1-14天，多为3-7天；发病前 1-2 天和发病初期的传染性相对较强。所以在疫情监测时，追溯时间范围14天；对于无症状感染者集中隔离医学观察期为14天，解除隔离后继续进行14天的居家医学观察（居家观察是不禁止外出）。在集中隔离医学观察的第 1、4、7 和 14 天分别进行一次核酸检测；对入境者亦是实施14天隔离医学观察措施。</span></p>            <p><span>在7月31日国务院联防联控机制新闻发布会上，中国疾控中心研究员冯子健也表达了德尔塔变异株病毒的这一特点。冯子健介绍称，德尔塔病度载量高、传播能力强、传播速度快，而且转阴时间长。</span></p>            <p><span>对于载量高，且转阴时间长的德尔塔，直接带来的结果是会持续保持病毒脱离并进行传播，所以针对当前的“14天”相关措施是否需要改变？有待科学界后续给予认定。</span></p>            <p><strong></strong></p>
+<p><strong><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/4420236099132518400.gov_img/2021/8/1/3605433317643364352.png" alt="3605433317643364352.png" referrerpolicy="no-referrer"></strong></p>
+<strong></strong>      <span><strong>新冠病毒未来或出现“抗原漂移”变异</strong></span>      <span><strong>致死率高达35%</strong></span>            <p><span>据央视网，英国政府紧急情况咨询小组近日则表示，通过对现有的新冠病毒变异毒株和其进化路径研究后发现，新冠病毒未来可能出现“抗原漂移”的变异可能——也就是当病毒突变到一定程度时，先前的抗体不再起作用，从而导致感染率和死亡率进一步增加。</span></p>            <p><span>该小组的科学顾问警告称，这种致死率更高的变异“从某种程度上来说‘几乎肯定会发生’”，而这种变异毒株的致死率最高可达</span><strong><span>35%</span></strong><span>。</span></p>            <p><span>另外，当地时间30日下午，世界卫生组织举行新冠肺炎疫情例行新闻发布会。世卫组织表示，近期，全球新冠肺炎新增确诊病例数和死亡病例数明显大幅上升，随着德尔塔变异毒株在全球范围的蔓延，</span><strong><span>之前来之不易的抗疫成果将会失去。</span></strong></p>            <p><span>世卫组织强调，</span><span>上周全球新增新冠肺炎确诊病例超过400万例，世卫组织预计未来两周之内，全球累计新冠肺炎确诊病例将超过2亿例。“德尔塔变异毒株”现已传播至世界132个国家和地区，它的传播力更强，“病毒载量”更高，更让人担忧。</span></p>            <p><span><strong>编辑|</strong></span><span><span>程鹏</span> 杜恒峰</span></p>      <p><span><strong>校对|</strong></span><span>段炼</span></p>      <p><span>封面图片来源：央视新闻报道截图</span></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/2966062161512305664.gov_img/2021/8/1/219099085272481792.png" alt="219099085272481792.png" referrerpolicy="no-referrer"></p>      <p><span>每日经济新闻综合自第一财经、央视网、央视新闻客户端、华尔街见闻</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/7453507874902608896.gov_img/2021/8/1/3019620889612600320.png" alt="3019620889612600320.png" referrerpolicy="no-referrer"></p>
+<p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/8/1/6007411602273391616.gov_img/2021/8/1/8614422681066861568.png" alt="8614422681066861568.png" referrerpolicy="no-referrer"></p>      
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
