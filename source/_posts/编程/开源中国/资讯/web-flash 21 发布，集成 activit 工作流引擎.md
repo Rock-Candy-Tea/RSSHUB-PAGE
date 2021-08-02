@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-1292c352b4513e50a79ba9e0178ffc8
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">web-flash 是一个</span><span style="background-color:#ffffff; color:#40485b">基于 Spring Boot+Vue.js 的后台管理系统，权限管理，包含功能：字典，配置，定时任务，短信，邮件，根据excel模板导出，cms内容管理，手机端h5，IDEA 代码生成插件。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">web-flash 是一个</span><span style="background-color:#ffffff; color:#40485b">基于 Spring Boot+Vue.js 的后台管理系统，权限管理，包含功能：字典，配置，定时任务，短信，邮件，根据excel模板导出，cms内容管理，手机端h5，IDEA 代码生成插件。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333">本次更新重点为：集成activit工作流引擎提供了基本的工作功能。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333">全部更新内容如下:</span></p> 
 <h3 style="text-align:start">Issues</h3> 

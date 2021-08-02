@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-e8a05bd9e63731532755669da349d7a
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="text-align:start">JetLinks 开源物联网平台</h1> 
+                                                                                            <h1 style="text-align:start">JetLinks 开源物联网平台</h1> 
 <p style="text-align:start">JetLinks 基于Java8,Spring Boot 2.x,WebFlux,Netty,Vert.x,Reactor等开发, 是一个开箱即用,可二次开发的企业级物联网基础平台。平台实现了物联网相关的众多基础功能, 能帮助你快速建立物联网相关业务系统。</p> 
 <h2 style="text-align:start">核心特性</h2> 
 <p style="text-align:start">完全开源(社区版免费),基于事件驱动,拓展性强.</p> 

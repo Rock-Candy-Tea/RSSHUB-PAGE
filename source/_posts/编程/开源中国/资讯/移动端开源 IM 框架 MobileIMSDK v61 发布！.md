@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/d4acb10eea465b539ca98a1a1b229aa6ab
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h3 style="text-align:left"><strong>一、更新内容简介</strong></h3> 
+                                                                                            <h3 style="text-align:left"><strong>一、更新内容简介</strong></h3> 
 <p style="text-align:left">本次更新为次要版本更新，进行了若干优化（<span style="color:#999999">更新历史详见：</span><a href="https://gitee.com/jackjiang/MobileIMSDK/tree/master/release_notes">码云 Release Nodes</a>）。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源IM框架。</p> 
 <h3 style="text-align:left"><strong>二、MobileIMSDK简介</strong></h3> 
 <p style="text-align:left"><img alt height="53" src="https://oscimg.oschina.net/oscnet/d4acb10eea465b539ca98a1a1b229aa6ab9.jpg" width="338" referrerpolicy="no-referrer"></p> 

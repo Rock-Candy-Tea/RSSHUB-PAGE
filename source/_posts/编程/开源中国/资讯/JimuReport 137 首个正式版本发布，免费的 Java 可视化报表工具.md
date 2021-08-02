@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-a2a8557722593e6c5a5e8f015a0df2b
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>项目介绍</p> 
+                                                                                            <p>项目介绍</p> 
 <blockquote> 
  <p>积木报表，一款免费的可视化Web报表工具，像搭建积木一样在线拖拽设计！功能涵盖，数据报表、打印设计、图表报表、大屏设计等！ 秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、节省成本、解决各类报表难题，完全免费的！！！</p> 
 </blockquote> 

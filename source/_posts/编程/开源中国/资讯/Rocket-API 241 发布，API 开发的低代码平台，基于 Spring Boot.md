@@ -14,8 +14,7 @@ thumbnail: 'https://images.gitee.com/uploads/images/2020/1119/195027_6ae6ae9d_51
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h3 style="text-align: start;">功能新增</h3> 
+                                                                                            <h3 style="text-align: start;">功能新增</h3> 
 <ol> 
  <li>添加数据源动态管理界面</li> 
  <li>添加API导入导出功能</li> 

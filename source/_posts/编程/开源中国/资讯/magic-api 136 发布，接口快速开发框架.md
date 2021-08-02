@@ -14,8 +14,7 @@ thumbnail: 'https://images.gitee.com/uploads/images/2021/0711/105714_c1cacf2c_29
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h3 style="text-align:left">本次更新内容：</h3> 
+                                                                                            <h3 style="text-align:left">本次更新内容：</h3> 
 <ul> 
  <li>新增注释补全功能</li> 
  <li>增加<code>not_blank</code>、<code>not_null</code>、<code>is_null</code>、<code>is_blank</code>、<code>current_timestamp</code>、<code>print</code>等相关函数</li> 
