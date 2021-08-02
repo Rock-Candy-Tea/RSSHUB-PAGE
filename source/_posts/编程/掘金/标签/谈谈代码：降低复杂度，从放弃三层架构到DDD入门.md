@@ -251,7 +251,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7420601af47f493daf
 </ul>
 </li>
 </ul>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac759cff795a4e47b66cf39833698afb~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bf8995682af14349ad858ebe7976f6f2~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>接下来看一下聚合中的对象，我们把及格聚合根识别出来：</p>
 <ul>
 <li>物理机聚合的中的聚合根是物理机</li>
@@ -269,7 +269,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7420601af47f493daf
 <h1 data-id="heading-21">4.小结</h1>
 <p>本文和大家一起捋了一遍DDD，并在文里“凭空的”设计了一个项目。其实这个项目并非凭空，我参考了以前参与的开源项目ZStack并对它做出了简化——该项目目前跑在大量的企业用户的私有云中，迭代已有6年多。因此无论从设计还是落地来说，都有一定的参考经验。</p>
 <p>为了大家方便将文中的例子结合ZStack代码理解，我这边做了一个映射。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d9d01767dda48c5a33e987d362ca44b~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f477c60411ba45ee86413c7215e2cb2d~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-22">4.1 参考资料</h2>
 <ul>
 <li>关于ZStack的资料
