@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-8fd234559a6b8ebdd7a8815dd88dabd
 
 <div>   
 <div class="content">
-                                                                                            <p>Linux Lite 5.6 首个 RC 版本已发布，这是一个对新手友好的 Linux 发行版，它基于 Ubuntu LTS，并以 Xfce 桌面为特色。Linux Lite 主要针对 Windows 用户而设计，其目标是提供一整套应用以帮助用户完成他们的日常电脑活动，包括完整的办公套件、媒体播放器和其它必要的日常软件。</p> 
+                                                                    
+                                                        <p>Linux Lite 5.6 首个 RC 版本已发布，这是一个对新手友好的 Linux 发行版，它基于 Ubuntu LTS，并以 Xfce 桌面为特色。Linux Lite 主要针对 Windows 用户而设计，其目标是提供一整套应用以帮助用户完成他们的日常电脑活动，包括完整的办公套件、媒体播放器和其它必要的日常软件。</p> 
 <p>Linux Lite 的桌面布局与 Windows 中的布局相同，左侧提供了“开始”菜单，右侧包含“音量”、“网络”和“日历”选项的托盘，此外还提供了熟悉的“桌面”图标，可帮助使用者迅速准确地返回系统桌面。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-8fd234559a6b8ebdd7a8815dd88dabde045.png" referrerpolicy="no-referrer"></p> 
 <h3>新版本主要变化</h3> 

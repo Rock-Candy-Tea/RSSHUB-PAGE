@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8035'
+headimg: 'https://picsum.photos/400/300?random=6118'
 author: 开源中国
 comments: false
-date: Mon, 02 Aug 2021 01:47:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8035'
+date: Mon, 02 Aug 2021 09:47:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6118'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left">软件介绍</p> 
+                                                                    
+                                                        <p style="text-align:left">软件介绍</p> 
 <p style="text-align:left">Monibuca（m7s） 是一个开源的流媒体服务器开发框架，适用于快速定制化开发流媒体服务器。</p> 
 <ul> 
  <li style="text-align:left">采用纯Go编写，兼具性能和效率以及跨平台（包括嵌入式），二次开发不二选择，转发机制使用自研的环形链表+无锁读写，并全部开源</li> 

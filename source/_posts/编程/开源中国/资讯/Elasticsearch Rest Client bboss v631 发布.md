@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1557'
+headimg: 'https://picsum.photos/400/300?random=8323'
 author: 开源中国
 comments: false
 date: Mon, 02 Aug 2021 07:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1557'
+thumbnail: 'https://picsum.photos/400/300?random=8323'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:left"><strong><em>The best Elasticsearch Highlevel Rest  Client API-----<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fesdoc.bbossgroups.com%2F%23%2FREADME" target="_blank">bboss   </a></em></strong> v6.3.1 发布。</p> 
+                                                                    
+                                                        <p style="text-align:left"><strong><em>The best Elasticsearch Highlevel Rest  Client API-----<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fesdoc.bbossgroups.com%2F%23%2FREADME" target="_blank">bboss   </a></em></strong> v6.3.1 发布。</p> 
 <p style="text-align:left">bboss elasticsearch 是一套基 于query dsl 语法操作和访问分布式搜索引擎 elasticsearch 的 o/r mapping 高性能java开发库，底层基于 es restful api。</p> 
 <h4><strong>主要功能特色</strong></h4> 
 <ol> 
