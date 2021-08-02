@@ -270,6 +270,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7420601af47f493daf
 <p>本文和大家一起捋了一遍DDD，并在文里“凭空的”设计了一个项目。其实这个项目并非凭空，我参考了以前参与的开源项目ZStack并对它做出了简化——该项目目前跑在大量的企业用户的私有云中，迭代已有6年多。因此无论从设计还是落地来说，都有一定的参考经验。</p>
 <p>为了大家方便将文中的例子结合ZStack代码理解，我这边做了一个映射。</p>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f477c60411ba45ee86413c7215e2cb2d~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p>当然，本篇的内容仅仅只能作为入门。并未深入相关概念，如：<code>子域</code>、<code>核心域</code>、<code>通用域</code>、<code>支撑域</code>、<code>领域事件</code>等；对于实战篇也仅仅设计了一个较为简单例子，并没有深究设计原则与架构演进路线。之后有机会的话，我会继续深入相关方向。</p>
 <h2 data-id="heading-22">4.1 参考资料</h2>
 <ul>
 <li>关于ZStack的资料

@@ -16,7 +16,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/TSM
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/TSMC-says-it-may-make-chips-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p><em><a href="https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-reports-gas-contamination-at-key-chip-plant-supplying-Apple" target="_blank" rel="noreferrer noopener">Nikkei Asia</a></em> reports that Taiwan Semiconductor Manufacturing’s most important plant for supplying Apple processors has been hit by gas contamination in the chipmaking process.</p>
 <p><span id="more-741042"></span>
-</p>
+</p><p></p>
 <p>TSMC’s Fab 18 is the company’s most advanced chipmaking facility, and it’s where the processors of the upcoming iPhones and Macs are produced, according to industry sources.</p>
 <blockquote class="wp-block-quote">
 <p><em>“Some TSMC production lines in the South Taiwan Science Park received certain gases from suppliers that are believed to be contaminated. These were quickly replaced with other gas supplies,” the company told Nikkei, adding that the contamination was discovered on Thursday night.</em></p>

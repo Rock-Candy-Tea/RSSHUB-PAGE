@@ -17,7 +17,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Tim
 <p>More than 90 CEOs, including Apple’s Tim Cook, are urging Congress to pass a law offering a citizenship path to young immigrants brought illegally to the US as children, <em><a href="https://www.bloomberg.com/news/articles/2021-07-29/cook-pichai-join-ceos-urging-congress-pass-path-to-citizenship" target="_blank" rel="noreferrer noopener">Bloomberg</a> </em>reports.</p>
 <p>In the <a href="https://www.coalitionfortheamericandream.us/wp-content/uploads/2021/07/7.29.21-CEO-Letter.pdf" target="_blank" rel="noreferrer noopener">letter</a> signed by Apple’s Tim Cook, Facebook’s Mark Zuckerberg, Google’s Sundar Pichai, Amazon’s Andy Jassy, Microsoft’s Brad Smith, and many others, the CEOs write on behalf of the “recent ruling in the United States District Court for the Southern District of Texas regarding the Deferred Action for Childhood Arrivals (DACA) program.”</p>
 <p><span id="more-740854"></span>
-</p>
+</p><p></p>
 <blockquote class="wp-block-quote">
 <p>“<em>The district court’s ruling is devastating for hundreds of thousands of Dreamers, as it found the program to be unlawful. While it allows those who currently have DACA to continue to renew their status—for now—it further throws into chaos the lives of these Dreamers and impedes their ability to legally work and contribute to our country.</em></p>
 <p><em>We strongly urge Congress to pass legislation to provide a pathway to citizenship for Dreamers. Securing a pathway to citizenship for Dreamers not only is the right thing to do, but is a huge economic benefit to the United States.</em>“</p>
