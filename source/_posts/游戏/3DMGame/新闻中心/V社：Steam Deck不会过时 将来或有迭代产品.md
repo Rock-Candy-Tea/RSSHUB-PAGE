@@ -18,7 +18,7 @@ Steam Deck肯定不如目前市场上性能最好的PC那样强大，但对于PC
 然而，PC行业总有新的、更好的技术涌现，这意味着即使是最强大的硬件也很快就会过时。那么Steam Deck将如何应对这种情况?
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210802/1627860756_568234.jpg" alt="V社：Steam Deck不会过时 将来或有迭代产品" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210802/1627860756_568234.jpg" alt="V社：Steam Deck不会过时 将来或有迭代产品" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在接受IGN采访时，V社人员Pierre-Loup Griffais表示，Steam 
