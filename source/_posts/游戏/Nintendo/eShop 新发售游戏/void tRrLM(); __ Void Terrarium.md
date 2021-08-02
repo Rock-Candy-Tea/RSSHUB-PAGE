@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-AVN4C.jpg'
 author: Nintendo
 comments: false
-date: 2021-08-02 05:05:54
+date: 2021-08-02 06:08:12
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-AVN4C.jpg'
 ---
 
