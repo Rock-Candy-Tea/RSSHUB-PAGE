@@ -53,9 +53,9 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <figure id="attachment_18417" aria-describedby="caption-attachment-18417" style="width: 800px" class="wp-caption alignnone"><img class="wp-image-18417 size-full" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/08/02171522/picture10.jpg" alt width="800" height="450" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/08/02171522/picture10.jpg 800w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/08/02171522/picture10-512x288.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/08/02171522/picture10-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" referrerpolicy="no-referrer"><figcaption id="caption-attachment-18417" class="wp-caption-text">『东方弹幕神乐』游戏游玩画面</figcaption></figure>
 <p dir="ltr"> </p>
 <h3><strong>关于「Unknown X」</strong></h3>
-<p>以「让东方Projec火起来，让全世界都知道东方Project」这一伟大目的而活动的集团。本身以「身份不明的赞助商X（正体不明のスポンサーＸ）」这一名字，协助赞助或举办了东方圈内的多数活动（暗地里!?），在2020年10月直播的「东方弹幕祭」中，由东方Project的原作者ZUN重新命名为Unknown X。成员由AQUASTYLE・JYUNYA招募来的各公司各界的东方粉而构成。</p>
+<p>以「让东方Project火起来，让全世界都知道东方Project」这一伟大目的而活动的集团。本身以「身份不明的赞助商X（正体不明のスポンサーＸ）」这一名字，协助赞助或举办了东方圈内的多数活动（暗地里!?），在2020年10月直播的「东方弹幕祭」中，由东方Project的原作者ZUN重新命名为Unknown X。成员由AQUASTYLE・JYUNYA招募来的各公司各界的东方粉而构成。</p>
 <h3><strong>关于『东方弹幕神乐』</strong></h3>
-<p>是「东方Project」首款公认手机音乐游戏。在本作中，为了查明「东方Project」的舞台「幻想郷」的异变，为了取回失去的「幻想乡」，通过实行音乐动作游戏「弹幕神乐」与「箱庭」复兴幻想乡。以及，在「弹幕神乐」中是游玩「东方Project」的Arrange乐曲的音乐游戏，在「箱庭」则能享受少女们的日常与故事。本作预定今后也将让更多的东方Arrange乐曲和角色们登场。</p>
+<p>是「东方Project」首款公认手机音乐游戏。在本作中，为了查明「东方Project」的舞台「幻想乡」的异变，为了取回失去的「幻想乡」，通过实行音乐动作游戏「弹幕神乐」与「箱庭」复兴幻想乡。以及，在「弹幕神乐」中是游玩「东方Project」的Arrange乐曲的音乐游戏，在「箱庭」则能享受少女们的日常与故事。本作预定今后也将让更多的东方Arrange乐曲和角色们登场。</p>
 <h2>游戏详细</h2>
 <p>游戏名：东方弹幕神乐<br>
 公测日：2021年夏公测预定<br>
