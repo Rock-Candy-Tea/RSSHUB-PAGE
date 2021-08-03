@@ -1,0 +1,18 @@
+
+---
+title: '2021年全球人口大国ABO和Rh阳性血型分布（附原数据表） ​​​​'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=9699'
+author: 199IT
+comments: false
+date: Tue, 03 Aug 2021 07:15:47 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9699'
+---
+
+<div>   
+2021年全球人口大国ABO和Rh阳性血型分布（附原数据表） ​​​​  
+</div>
+            
