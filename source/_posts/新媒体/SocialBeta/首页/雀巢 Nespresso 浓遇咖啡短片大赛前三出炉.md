@@ -14,7 +14,7 @@ thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1627885
 
 <div>   
 <p>雀巢旗下品牌 Nespresso 浓遇咖啡从 2016 年起就开始举办 Nespresso Talents 短片大赛，致力于发掘全球范围内非凡的影片制作者，鼓励创作者们过 9:16 的竖屏创作格式挥洒新意。今年 Nespresso Talents 短片大赛携手 FIRST 青年电影展以「行动至上」为主题，鼓励参与者用全新的视角讲述「行动至上」故事，分享积极向前的力量。
-</p><p>近期，中国赛区的颁奖仪式在西宁 FIRST 青年电影展如期举行，Nespresso 浓遇咖啡品牌大使、Nespresso Talents 中国赛区大使赵又廷、女演员梅婷、新锐导演麦子以及FIRST 青年电影展创始人、导演宋文先、品牌大中华区总经理林上明组成评委会，并为前三名获奖者颁奖。
+</p><p>近期，中国赛区的颁奖仪式在西宁 FIRST 青年电影展如期举行，Nespresso 浓遇咖啡品牌大使、Nespresso Talents 中国赛区大使赵又廷、女演员梅婷、新锐导演麦子以及 FIRST 青年电影展创始人、导演宋文先、品牌大中华区总经理林上明组成评委会，并为前三名获奖者颁奖。
 </p><p>以下为前三获奖作品：
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1627885604.jpg" alt referrerpolicy="no-referrer">
 </p><p><iframe width="100%" height="380" src="https://v.qq.com/txp/iframe/player.html?vid=q3264vkm3r9"></iframe>
