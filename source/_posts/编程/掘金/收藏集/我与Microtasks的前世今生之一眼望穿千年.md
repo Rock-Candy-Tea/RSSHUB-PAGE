@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1'
+headimg: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/10/26/166aeb3cc1b575e5~tplv-t2oaga2asx-image.image'
 author: 掘金
 comments: false
 date: Thu, 25 Oct 2018 20:49:18 GMT
-thumbnail: 'https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1'
+thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/10/26/166aeb3cc1b575e5~tplv-t2oaga2asx-image.image'
 ---
 
 <div>   
@@ -19,7 +19,7 @@ thumbnail: 'https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2
 <p>本文有标题党之嫌，内含大量Microtaks相关总结性信息，请谨慎服用。</p>
 <h2 data-id="heading-0">Google Developer Day China 2018 by Jake Archibald</h2>
 <p>2018年9月21日，虽然没有参加该场GDD，但是也有幸拜读了百度@小蘑菇小哥总结的文章<a target="_blank" href="https://link.juejin.cn/?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F45111890" title="https://zhuanlan.zhihu.com/p/45111890" ref="nofollow noopener noreferrer">深入浏览器的事件循环(GDD@2018)</a>,配注的说明插图形象生动，文终的click代码也很有意思，推荐大家阅读。这里就先恬不知耻的将该文的精华以及一些自己的总结陈列如下:</p>
-<p></p><figure><img src="https://user-gold-cdn.xitu.io/2018/10/26/166aeb3cc1b575e5?imageView2/0/w/1280/h/960/ignore-error/1" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/10/26/166aeb3cc1b575e5~tplv-t2oaga2asx-image.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <table>
 <thead>
 <tr>
