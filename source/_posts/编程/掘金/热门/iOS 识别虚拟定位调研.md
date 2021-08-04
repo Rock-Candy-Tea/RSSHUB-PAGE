@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-watermark.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Fri, 09 Jul 2021 05:00:27 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-watermark.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -50,11 +50,11 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d192
 <p>识别方式：</p>
 <p>一、通过多次记录爱思助手的虚拟定位的数据发现，其虚拟的定位信息的经纬度的高度是为0且经纬度的数据位数也是值得考究的。真实定位和虚拟定位数据如下图：</p>
 <p>真实定位
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-watermark.image" alt="真实定位.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/794fa4da8b2a40d1925cc68375927d69~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="真实定位.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>虚拟定位
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5dfb1207c7a74995903c4b326845f53e~tplv-k3u1fbpfcp-watermark.image" alt="虚拟定位.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5dfb1207c7a74995903c4b326845f53e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="虚拟定位.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>仔细观察数据，不难发现，如果我们比对获取定位信息的高度，以及对经纬度的double位数也进行校验，虚拟定位的黑帽子就会轻易被破了。那么如果我们比对虚拟定位的高度为0时，就认定为虚拟定位，那么就会产生一个疑问，真实海拔就是零的地点，如何解决？这里科普下中国的海拔零度位置，中国水准零点位于青岛市东海中路银海大世界内的“中华人民共和国水准零点”，是国内唯一的水准零点。唯一的水准零点。同时，因为比对经纬度的double位数，发现虚拟定位的位数很明显不对，核对swift的float和double的位数精度发现，虚拟定位的经纬度数据只是敷衍的满足double精度位数，swift的float有效位数是7，double的有效位数是15。当然这个比较的权重是相对高度比较低的，笔者刚刚更新爱思助手版本发现新版本经纬度有更详细，但是还是达不到double的有效位数级别。相对于目前的爱思助手的高度比较识别为虚拟定位，已经完全可以做到</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba2a7e7daa5b4d4d857b011d4ce8840d~tplv-k3u1fbpfcp-watermark.image" alt="精度.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba2a7e7daa5b4d4d857b011d4ce8840d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="精度.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>代码实现：</p>
 <pre><code class="copyable">       if location.altitude == 0.0 &#123;
             print("虚拟定位")

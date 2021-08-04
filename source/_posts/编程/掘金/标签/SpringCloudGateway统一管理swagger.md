@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 02:05:13 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-zoom-1.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -89,11 +89,11 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>先拿配置文件来讲，根据路径名称转发，让网关转发到
 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%3A8099%2Fauth%2Fv2%2Fapi-docs%25E7%259A%2584%25E8%25B7%25AF%25E5%25BE%2584%25E4%25B8%258A%25E5%258E%25BB%25EF%25BC%258C%25E5%25B0%25B1%25E4%25BC%259A%25E8%25AF%25B7%25E6%25B1%2582%25E5%2588%25B0%25E6%25B3%25A8%25E5%2586%258C%25E4%25B8%25BABASECLOUD-AUTH%25E7%259A%2584%25E6%259C%258D%25E5%258A%25A1%25EF%25BC%2588localhost%3A8091%2Fv2%2Fapi-docs%25EF%25BC%2589%25E6%258B%25BF%25E5%2588%25B0json" target="_blank" rel="nofollow noopener noreferrer" title="http://localhost:8099/auth/v2/api-docs%E7%9A%84%E8%B7%AF%E5%BE%84%E4%B8%8A%E5%8E%BB%EF%BC%8C%E5%B0%B1%E4%BC%9A%E8%AF%B7%E6%B1%82%E5%88%B0%E6%B3%A8%E5%86%8C%E4%B8%BABASECLOUD-AUTH%E7%9A%84%E6%9C%8D%E5%8A%A1%EF%BC%88localhost:8091/v2/api-docs%EF%BC%89%E6%8B%BF%E5%88%B0json" ref="nofollow noopener noreferrer">http://localhost:8099/auth/v2/api-docs的路径上去，就会请求到注册为BASECLOUD-AUTH的服务（localhost:8091/v2/api-docs）拿到json</a>
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5140f4fb1a5b427f8f9ed1326f0fba7d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
 网关转发的地址：
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4c083fbc01cb407e985a1de758d20a83~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4c083fbc01cb407e985a1de758d20a83~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
 实际swagger的地址（auth服务）
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/284131df9343475e8a9ea6f36f614fc9~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/284131df9343475e8a9ea6f36f614fc9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer">
 ok看到这里大概就能明白是如何统一管理swagger的了，我这里还单独配置了转发路径</p>
 <pre><code class="hljs language-xml copyable" lang="xml">swagger:
    names: auth,shop
@@ -126,6 +126,6 @@ ok看到这里大概就能明白是如何统一管理swagger的了，我这里�
 &#125;
 
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/238a071e94d8487592a0bddd7e52b4fe~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p></div>  
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/238a071e94d8487592a0bddd7e52b4fe~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p></div>  
 </div>
             
