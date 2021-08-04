@@ -1,0 +1,19 @@
+
+---
+title: 'Delta变种来势汹汹，对我们的生活意味着什么？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/crawl/768/w537h231/20210804/114e-16107cc5395c413cc3edae273e4e7c47.png'
+author: cnBeta
+comments: false
+date: Wed, 04 Aug 2021 03:02:29 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/crawl/768/w537h231/20210804/114e-16107cc5395c413cc3edae273e4e7c47.png'
+---
+
+<div>   
+过去一个多月里，原本看似已趋于稳定的新冠疫情又出现了反弹，而这波反弹的罪魁祸首就是Delta变种病毒。<strong>尤其令人担心的是，即便接种了疫苗的个体，也会感染Delta变种，并将病毒传染给更多人。病毒的来势汹汹，会给我们的生活带来怎样的改变？</strong><br>
+<p style="text-align: left;">▎药明康德内容团队编辑</p><p style="text-align:center"><img id="1" src="https://n.sinaimg.cn/tech/crawl/768/w537h231/20210804/114e-16107cc5395c413cc3edae273e4e7c47.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">Delta变种更具传染性</p><p style="text-align: left;">耶鲁大学医学院的一篇报道提到，Delta变种在去年12月刚刚于印度被发现。而在今年7月底，全美80%以上的新病例所感染的都是Delta变种，其传播力堪称恐怖——这篇报道认为，Delta变种的传播速度比Alpha变种快50%，而Alpha变种的传染性已经比最初发现的新冠毒株高出50%。</p><p style="text-align: left;">“Delta变种肯定会加速疫情发展。”耶鲁大学的流行病学家F。 Perry Wilson教授点评道。他指出如果大家都不戴口罩，也不接种疫苗，平均每一个感染Delta变种的人，会将病毒传染给其它3.5到4个人。指数般的增长让这一变种病毒很快占据了统治性的地位。</p><p style="text-align:center"><img id="2" src="https://n.sinaimg.cn/tech/crawl/59/w550h309/20210804/6864-f60328a6833f0e883bab6a44f5e1c7da.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">美国CDC主任Rochelle Walensky博士则在一篇报道中提到，过去专家们相信大部分的Delta变种传播来自没有接种疫苗的个体，但新数据显示完全接种疫苗的个体在感染后也能传播疾病。毕竟没有任何一款疫苗能达到100%的保护力，而新的研究数据表明接种疫苗的个体在感染Delta变种后，鼻子与喉部的病毒水平还是非常高。即便没有症状，他们也会具有传染性。</p><p style="text-align: left;">Delta变种可能局部爆发</p><p style="text-align: left;">如果Delta变种继续推动疫情发展，关键问题在于：多少人会感染Delta变种？它的传播速度又会有多快？</p><p style="text-align: left;">答案将很大程度取决于每个人的居住地附近，有多少人接种了疫苗。如果一个地区的疫苗接种率较高，那它很有可能取得局部的保护。就好像在强烈的阳光下，涂了防晒霜的部位更不容易被晒黑。</p><p style="text-align: left;">相反，如果一个区域的疫苗接种率较低，而周围地区的疫苗接种率都很高，那么一个可能的结果就是病毒被“困在”这个疫苗接种率较低的地方反复传播，造成局部爆发。也就是说在未来，疫苗接种率较低的区域可能成为变种病毒的传播热点，并给当地医疗系统带来严重负担。</p><p style="text-align: left;">疫苗与其它防护都需要</p><p style="text-align: left;">耶鲁大学儿科传染病专家Inci Yildirim教授指出，作为个体，能保护自己不受Delta变种感染的最佳手段就是接种疫苗：“如果你还没接种疫苗，而且能够接种，那打疫苗就是你能做的最好的事情。”</p><p style="text-align:center"><img id="4" src="https://n.sinaimg.cn/tech/crawl/59/w550h309/20210804/736e-ed0e496929c477e33f5f4cb8f83b7c4f.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">而如果已经接种了疫苗，口罩与社交隔离则能提供额外的保护。《纽约时报》今日的一篇文章提到，能带来最强保护效果的医用口罩还是N95或是KN95。如果没有专业的医用口罩，那么双层口罩可能会是一个不错的选择——在里层佩戴普通的外科口罩，外层再额外佩戴一层布口罩。</p><p style="text-align: left;">此外根据所处环境，也可以选择不同的口罩配置。比如在较为空旷的场所，普通的布口罩可能足以满足短期的需求。而倘若人流密度较高，则可能需要更好一些的防护措施。</p><p style="text-align: left;">“我们之前使用的所有措施，都需要进行升级，来应对Delta变种，这也包括口罩，”丹佛大学研究气溶胶的科学家J。 Alex Huffman教授说道，“我强烈建议人们把口罩升级一下，提高过滤性能，且紧密贴合面部。在我看来，最重要的是确保口罩所有边缘都密封良好，这包括鼻梁，脸颊和下巴。”</p><p style="text-align: left;">我们还有太多未知</p><p style="text-align: left;">科学家们指出，关于Delta变种，我们还有不少未知问题有待回答，其中一个就是Delta变种会如何影响我们的身体。Yildirim教授提到，感染Delta变种的个体，更少出现咳嗽与失去嗅觉的症状，但头痛、喉咙酸痛、流鼻涕、发烧则更为常见。这表明Delta变种会带来和先前的毒株不同的症状。</p><p style="text-align: left;">另外一个问题是，考虑到Delta变种会让接种疫苗的人也感染上病毒，那么我们是否还需要额外的增强针来取得更多保护？目前并没有一个明确的答案。即便需要增强针，一些专家指出目前还不足以知道我们是需要用针对原始毒株的疫苗来做增强针，还是需要针对Delta变种的疫苗来做增强针。</p><p style="text-align:center"><img id="6" src="https://n.sinaimg.cn/tech/crawl/60/w550h310/20210804/6d63-9ecd6a47b63db91ce572d0dc6936cfdc.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">关于Delta变种的额外问题还包括其“亚种”，或是“超级”Delta变种（Delta Plus）。这一病毒在Delta变种的基础上，还出现了K417N突变，会影响刺突蛋白的结构，可能会影响到疫苗的效果。“Delta Plus变种最初在印度被报道，但这一突变在Beta和其它变种里曾出现过。我们需要更多数据来判断这一病毒的实际传播力与影响，以及疾病的负担与后果。” Yildirim教授点评道。</p><p style="text-align: left;">总结</p><p style="text-align: left;">正如美国CDC之前的一份文件里所显示的那样，在Delta变种面前，我们与新冠病毒的这场战斗，性质可能已经发生了变化。但在疫苗和其它防护措施面前，赢得这场战斗的主动权还在我们手中。做好自我保护，就是为这场“战疫”提供自己的一份力量。</p>   
+</div>
+            
