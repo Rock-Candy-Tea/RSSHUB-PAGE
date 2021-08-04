@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 00:45:58 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-zoom-1.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a0
 <p>这个量级的差异，不仅仅是量的差异，更是 K8s 管理维护的质的提升。能维护有如此巨大挑战巨量规模的 K8s 集群，其背后原因是蚂蚁集团付出了远大于 K8s 官方的优化努力。</p>
 <p>所谓万丈高楼平地起，本文着重讨论下蚂蚁集团的在 K8s 的基石 --- etcd 层面做出的高可用建设工作：只有 etcd 这个基石稳当了，K8s 这栋高楼大厦才保持稳定性，有 tidb 大佬黄东旭朋友圈佐证【图片已获黄总授权】。</p>
 <blockquote>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a04cadd1d191b912~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 </blockquote>
 <h3 data-id="heading-0">面临的挑战</h3>
 <p>etcd 首先是 K8s 集群的 KV 数据库。
@@ -354,7 +354,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfaac04eec814891a0
 </ul>
 <p>更多文章请扫码关注“金融级分布式架构”公众号</p>
 <blockquote>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0bf64c3af51d4580808c7a8eda0d832e~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0bf64c3af51d4580808c7a8eda0d832e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 </blockquote></div>  
 </div>
             

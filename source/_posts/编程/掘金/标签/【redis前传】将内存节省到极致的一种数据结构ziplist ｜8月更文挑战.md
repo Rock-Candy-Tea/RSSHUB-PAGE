@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Mon, 02 Aug 2021 17:04:02 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-zoom-1.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -22,20 +22,20 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f
 <p>当一个list结构的数据中只包含少量列表项且里面元素是小整数或者是短的字符串时redis底层就会使用ziplist来存储数据</p>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210712155337607" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f38ec6ecfeb060a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210712155337607" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-1">结构</h1>
 <ul>
 <li>redis的ziplist是一块连续内存块。我们可以简单理解成数组，相比较数组而言她却多了很多对节点关联的描述，比如说数组总长、最后一个地址偏移量、上一个节点的长度等等信息。</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79dc6d9121f540bfb324cf277e82c03e~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715152827696" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79dc6d9121f540bfb324cf277e82c03e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715152827696" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>上述是redis源码中对ziplist结构的一段描述！根据图中圈出部分我们可以简单的理解ziplist的总体结构</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe8da6e2bc7345c9ba124c58b4d16d73~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715161444888" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe8da6e2bc7345c9ba124c58b4d16d73~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715161444888" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>那么这些分别代表着什么作用呢？他们又是如何将内容存储在连续内存块中的呢？</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dae871e8d9ab4e6ea95ca746177f07ee~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715161610320" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dae871e8d9ab4e6ea95ca746177f07ee~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715161610320" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>每一块都有固定的内存空间表示这他的作用。只有entry因为是存储节点的所用他的长度是动态的。</li>
 </ul>
@@ -84,17 +84,17 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f
 <ul>
 <li>下面我们来看看一个列子</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/018efb06fba549f0984f8377134f3e8c~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715163317262" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/018efb06fba549f0984f8377134f3e8c~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715163317262" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-2">节点</h1>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0703c9e355f449449d8f9a1a03df40a3~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715163445170" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0703c9e355f449449d8f9a1a03df40a3~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715163445170" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>针对redis源码中我做了解释。他的内存结构如图</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef4c17983a05424393d75fec3656d988~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715163526536" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef4c17983a05424393d75fec3656d988~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715163526536" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>上述头部是有一定关联的。我们可以将头部进行简单规划为一个head</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e28d61be0c34d57904419b4001d5e74~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715163629443" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e28d61be0c34d57904419b4001d5e74~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715163629443" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>关于previous_entry就表示这前一个节点的长度。我们根据他就可以逆推值前一节点。这也解释了我们如何定位ziplist中的元素。我们可以根据zlbytes和zltail获取到尾结点。在根据尾结点的previous_entry获取前一节点。</li>
 </ul>
@@ -112,7 +112,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f
 <ul>
 <li>encoding属性记录了节点的数据的类型以及长度！简单描述就是记录了内容的特征</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/608f02a47e324004abaa0a124fce7f87~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715164927933" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/608f02a47e324004abaa0a124fce7f87~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715164927933" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>上述是redis源码对entry的一个解释。我针对他做了一份表格统计。</li>
 </ul>
@@ -207,12 +207,12 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f
 <ul>
 <li>还记得上面我们展示的ziplist草图吗，在哪里我们标注了zlbytes、zltail、zllen 、 entryx 、 zlend等占位说明。现在我们将完善这幅草图</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b61a2ecca430489593bba55402f4da33~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715183929044" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b61a2ecca430489593bba55402f4da33~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715183929044" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>在上面这张图我们加入了三个节点的内存图示。在这里我们将清楚的了解entry的结构。但是最终的内部还是将头部的展示进行了细分</li>
 </ul>
 <h1 data-id="heading-10">连锁更新</h1>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b570a8b37bb04436aadc0e7744e5b82a~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715184147234" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b570a8b37bb04436aadc0e7744e5b82a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715184147234" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>
 <p>在上面我们知道previous_entry是用于标记前一节点的长度，而且当时我们也说了redis为了节省内存会先尝试用1字节来表示当长度超出254时才会扩容为4字节长度。这就意味着我们每个entry节点长度都是动态的，换言之我们每个entry都会受到前一节点的影响</p>
@@ -221,15 +221,15 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5e3f6858484d45e88f
 <p>比如说现在我们的entry的长度都在250~254之间。如下图</p>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f9b75dcdd114b37938139afef8be6c1~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715184959823" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f9b75dcdd114b37938139afef8be6c1~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715184959823" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>这个时候我们需要在头部添加一个长度为254的节点。因为该节点254所以我们上面第一个节点的previous_entry将会由1变成了5字节。从而影响到整个entry由原来的250字节变成了254字节。因为第一个节点变成了254字节从而又递归影响了原来第二节点！</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db821a7fa4fa4e84a3ad17e74a21608e~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715185248265" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db821a7fa4fa4e84a3ad17e74a21608e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715185248265" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>redis将这种添加节点到头部引发的连锁反应称之为连锁更新。同样的道理我们在删除的时候也会遇到类似情况，应该这两种情况统称为连锁更新！</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e395efc178aa469098bfc56168b0f590~tplv-k3u1fbpfcp-zoom-1.image" alt="image-20210715185521950" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e395efc178aa469098bfc56168b0f590~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image-20210715185521950" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-11">总结</h1>
 <ul>
 <li>首先我们从结构上解析了ziplist的属性，然后从ziplist中主要角色entry出发继续解析内部结构说明。</li>

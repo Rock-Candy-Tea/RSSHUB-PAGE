@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 02:03:14 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-zoom-1.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -30,7 +30,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad
   &#125;)
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>然后我们看一下效果以及实现方式:
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-zoom-1.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d6fd34fd6d094a1dad0fb91f9d5e292e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然后我们看一下代码:</p>
 <pre><code class="hljs language-dart copyable" lang="dart"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">_MyHomePageState</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">State</span><<span class="hljs-title">MyHomePage</span>> </span>&#123;
   <span class="hljs-built_in">List</span> list = <span class="hljs-keyword">new</span> <span class="hljs-built_in">List</span>(); <span class="hljs-comment">//列表要展示的数据</span>
@@ -131,7 +131,7 @@ MyHomePage 只是返回一个State,这里省略了.
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>_scrollController是我们初始化的ScrollController对象，通过监听我们可以判断现在的位置是否是最大的下滑位置来判断是否下滑到了底部。</p>
 <p>看一下代码和效果:
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f589f331726c4a2a9f429e25fd314378~tplv-k3u1fbpfcp-zoom-1.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f589f331726c4a2a9f429e25fd314378~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <pre><code class="copyable">class _MyHomePageState extends State<MyHomePage> &#123;
   List list = new List(); //列表要展示的数据
   ScrollController _scrollController = ScrollController(); //listview的控制器
@@ -296,7 +296,7 @@ MyHomePage 只是返回一个State,这里省略了.
         ),
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>看一下效果是否满意:
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7c26a5db7a4d4c1b9b0203ff72f81755~tplv-k3u1fbpfcp-zoom-1.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7c26a5db7a4d4c1b9b0203ff72f81755~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="这里写图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>嗯,基本符合要求,感觉那个刷新图标加的有点丑,画蛇添足了,不过功能都是ok了的.
 当然， 大家可以根据自己的需要去自己实现想要的样式
 看一下全部的代码:</p>

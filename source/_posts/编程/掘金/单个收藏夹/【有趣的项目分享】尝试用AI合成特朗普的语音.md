@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 单个收藏夹
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-zoom-1.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Mon, 14 Sep 2020 00:41:48 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-zoom-1.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -32,7 +32,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae
 <h3 data-id="heading-3">下载预训练的模型</h3>
 <p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FCorentinJ%2FReal-Time-Voice-Cloning%2Fwiki%2FPretrained-models" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Pretrained-models" ref="nofollow noopener noreferrer">github.com/CorentinJ/R…</a></p>
 <p>这里有三个模型（encoder,synthesizer,vocoder）的参数，把save_models文件夹分别放入到对应的文件夹即可。
-<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/898412f2b64d461fae7f074248a9cb27~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-4">准备音频数据</h2>
 <p>这里为了模仿特朗普的声音，我从youtube上面找了一个特朗普的演讲，并截取了一小段，保存成一个文件。</p>
 <h2 data-id="heading-5">生成语音</h2>
@@ -75,6 +75,6 @@ synth(<span class="hljs-string">"Chinese government is so powerful, and I love t
 <p>最后的生成效果如下：<a href="https://link.juejin.cn/?target=http%3A%2F%2Fnladuo.github.io%2Ftrump_voice_generated.wav" target="_blank" rel="nofollow noopener noreferrer" title="http://nladuo.github.io/trump_voice_generated.wav" ref="nofollow noopener noreferrer">nladuo.github.io/trump_voice…</a></p>
 <p>完整的代码：链接:<a href="https://link.juejin.cn/?target=https%3A%2F%2Fpan.baidu.com%2Fs%2F1NFtU26GW1O0koF-pHrxALA" target="_blank" rel="nofollow noopener noreferrer" title="https://pan.baidu.com/s/1NFtU26GW1O0koF-pHrxALA" ref="nofollow noopener noreferrer">pan.baidu.com/s/1NFtU26GW…</a>  密码:ezl8</p>
 <p>本文代码可查看<code>demo_trump_voice_sythesis.ipynb</code>
-<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/27d479f1539d4fb28d8eceee5fcbb63c~tplv-k3u1fbpfcp-zoom-1.image" alt loading="lazy" referrerpolicy="no-referrer"></p></div>  
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/27d479f1539d4fb28d8eceee5fcbb63c~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p></div>  
 </div>
             
