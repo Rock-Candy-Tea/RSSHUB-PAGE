@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-online-whiteboard-for-everyone/'
 author: Inside Design
 comments: false
-date: 2021-08-04 09:08:19
+date: 2021-08-04 10:08:49
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-online-whiteboard-for-everyone/'
 ---
 
