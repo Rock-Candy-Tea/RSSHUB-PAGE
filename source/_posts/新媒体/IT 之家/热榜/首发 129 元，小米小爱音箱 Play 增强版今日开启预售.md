@@ -1,0 +1,19 @@
+
+---
+title: '首发 129 元，小米小爱音箱 Play 增强版今日开启预售'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/8/ce8be04a-c145-46b4-8f7d-61a4c4018d36.jpg@s_2,w_820,h_1093'
+author: IT 之家
+comments: false
+date: Tue, 03 Aug 2021 03:51:20 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/8/ce8be04a-c145-46b4-8f7d-61a4c4018d36.jpg@s_2,w_820,h_1093'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 3 日消息 小米方面今日宣布，旗下新品小爱音箱 Play 增强版正式到来。8 月 3 日上午 10 点全渠道预售开启，到手价 129 元。</p><p>IT之家了解到，这款音箱新增 LEDB 显示功能，支持亮度自适应调节，可充当床头闹钟使用。</p><p>作为一款智能网关产品，该机支持红外遥控 + WiFi + 蓝牙 Mesh 网关三种策略，可轻松遥控 6000 + 品牌的智能和传统家电。</p><p>此外，这款音箱支持一亿有声曲库，可自动同步你的 QQ 音乐绿钻和收藏歌单，以及喜马拉雅、蜻蜓 FM、各种教育资源。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/ce8be04a-c145-46b4-8f7d-61a4c4018d36.jpg@s_2,w_820,h_1093" w="1080" h="1440" title="首发 129 元，小米小爱音箱 Play 增强版今日开启预售" srcset="https://img.ithome.com/newsuploadfiles/2021/8/ce8be04a-c145-46b4-8f7d-61a4c4018d36.jpg 2x" width="1080" height="1093" referrerpolicy="no-referrer"></p><dir><a contenteditable="false" href="https://union-click.jd.com/jdc?e=&p=JF8BANcJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmtJP0dAUgQpdykSfSZYZw5hI0VWEB09BEcnBm4BE1IQXAcGZF1fD0kRB2oLHGt2OmhDCVlbVhNsCl8IHmtDMwYDVV9cCU4XAG04G1gSWQQHXF9VAHsXBGwOE1wWWgMAVVZVOEsfBF9UWQlUHzYyZF1tOHsXM2w4RTUUDgYKUwsOCyVNQChQUgtUDWgBXF1UAU0SB18KGloXXw" target="_blank" data-wapurl="https://union-click.jd.com/jdc?e=&p=JF8BANgJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmscGAQADA4qXCt1S212aUFoB1lCCRULBEcnA20IE1gUXQcBXG5eCkwVBWsNGFwlPmFsFQNaDhVPeGY4G1olC2gCVV9cCUoSA2wKK1sRWAMLVV5VD00nA2gLHVMSXgEHVl5UCHsXC2g4RxlHHEQyZG5eOHsnA18LKwV7XFUCV1wKWBx5WSxPQxJFHw9sV1ZeAUkVBmk4GVoUXwQ" data-iosurl="https://union-click.jd.com/jdc?e=&p=JF8BANcJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmsXIwdJJlhVcChKRy9KWy9SBFAGTiE9BEcnBm4BE1IQXAcGZF1fD0kRB2oLHGt2OmhDCVlbVhNsCl8IHmtDMwYDVV9cCU4XAG04GFoXXQcDVVtUD3sXBGwOE1wWWgMAV1pcOEsfBF9UWQlUHzYyZF1tOHsXM2w4RTUUDgZSXQpfACVNQChQUgtRBWgBXFtdDkwVAF8KGloXXw" data-androidurl="https://union-click.jd.com/jdc?e=&p=JF8BANcJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmsdBVBpFy01aCtFeQhYeRBmCmAKJxwLBEcnBm4MGl4lXgQFVlhZDUgQMwxvdRpIWgBcDCVUOEkWBm4JE2tDMwYDVV9cCU4XAG04G1gSWQQHXF5dDHsXBGwOE1wWWgMAVl1eOEsfBF9UWQlUHzYyZF1tOHsXM2w4RTUUDgZSBwkJCSVNQChQUgtTCmgBXFtdAEkVCl8KGloXXw" data-uwpurl="https://union-click.jd.com/jdc?e=&p=JF8BANcJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmt9Q2VhKzUfaytCQ2pdfDJzA3ULKUA9BEcnBm4BE1IQXAcGZF1fD0kRB2oLHGt2OmhDCVlbVhNsCl8IHmtDMwYDVV9cCU4XAG04G1gSWQQDUVhbDHsXBGwOE1wWWgMAVlZbOEsfBF9UWQlUHzYyZF1tOHsXM2w4RTUUDgVRA1pUACVNQChQUgtdCmgBXF1bDEgXCl8KGloXXw" data-wxmpurl="ithome://openmp?appid=wx91d27dbf599dff74&path=/pages/union/proxy/proxy?spreadUrl=https%3a%2f%2funion-click.jd.com%2fjdc%3fe%3d%26p%3dJF8BANcJK1olXDYCVV9cCEgeB2oNH18lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQULUFtYDE8IWipURmt0Ik4KIQ0FDSllZRpzcF5rWARaPTwtBEcnB2wNGlkdXA4LZF1fD0kRB2oLHGt2OmhDCVlbVhNsCl8IHmtDMwYDVV9cCU4XAG04G1gUXwACU15VAHsXBGwOE1wWWgMAUVhbOEsfBF9UWQlUHzYyZF1tOHsXM2w4RTUUDVZVAA5dWyVNQChQUggUBWgBXFteDkITBF8KGloXXw&EA_PTAG=17078.27.380" data-jdid="100012854455"><span class="card main-site"><span class="card-logo"><img src="https://img14.360buyimg.com/pop/jfs/t1/180631/28/17439/203374/6107daafEe3e64127/1eaf1bd3fbe1c0b6.jpg" title="首发 129 元，小米小爱音箱 Play 增强版今日开启预售" referrerpolicy="no-referrer"></span><span class="card-info"><span class="card-title"><span class="mall-data">京东</span><span class="card-name">小米小爱音箱 Play 增强版</span></span><span class="card-abstract"></span><span class="card-controls"><span class="price"> 129 元</span><span class="card-btn-deep">直达链接</span></span></span></span></a></dir>
+          
+</div>
+            

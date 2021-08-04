@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210804/1628035175_2245
 根据外媒Digital Foundry的爆料，他们已经看过PS<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a>2的硬件配置，看起来非常强悍。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210804/1628035175_224570.jpg" alt="外媒DF爆料他们已经看过PSVR2的配置 很强悍" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210804/1628035175_224570.jpg" alt="外媒DF爆料他们已经看过PSVR2的配置 很强悍" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在最新的DF每周视频直播节目上，技术编辑Richard 
@@ -34,7 +34,7 @@ Leadbetter提到了5月份泄露的PSVR2细节，然后称他已经看到了甚�
 据报道，索尼告知合作伙伴，它还将包括能够实现凹点渲染的凝视跟踪，镜头分离调整刻度盘，以及允许开发人员提供直接触觉反馈的振动马达。
 </p>
 <p style="text-indent:2em;">
-索尼计划在2022年假期时推出PSVR2。
+索尼计划在2022年圣诞假期时推出PSVR2。
 </p>          
 </div>
             

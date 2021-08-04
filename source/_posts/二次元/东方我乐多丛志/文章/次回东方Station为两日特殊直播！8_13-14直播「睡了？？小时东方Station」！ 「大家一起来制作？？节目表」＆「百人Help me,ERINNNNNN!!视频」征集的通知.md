@@ -142,7 +142,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <li>以参加LIVE的心情，畅快地挥动手吧！</li>
 <li>露不露脸都OK！</li>
 <li>当然，视频内只有手也没问题！</li>
-<li>＼永琳！永琳／的喊声，含不含出来都没问题。当然如果想要喊出来的话，请全力喊出来吧！</li>
+<li>＼永琳！永琳！／的喊声，喊不喊出来都没问题。当然如果想要喊出来的话，请全力喊出来吧！</li>
 </ul>
 </blockquote>
 <blockquote>
