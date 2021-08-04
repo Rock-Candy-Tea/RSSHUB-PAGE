@@ -1,0 +1,19 @@
+
+---
+title: '以_嵌入式平台服务创新与突破_为主题的研华ESBC伙伴会议成功举办'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__6fadb6faf71318ccdc803ac71ab7308d.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 04 Aug 2021 08:47:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__6fadb6faf71318ccdc803ac71ab7308d.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">导读</p><p style="text-indent: 2em; text-align: left;">7月29日，研华优秀渠道合作伙伴亦宏科技在杭州成功举办以“嵌入式平台服务创新与突破“为主题的研华ESBC伙伴会议。会议以知识案例分享结合现场实物展示的形式，向客户展示了研华软硬件系统整合、以顾客为导向的设计服务。</p><p style="text-align:center"><img width="490" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__6fadb6faf71318ccdc803ac71ab7308d.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">7月29日，研华优秀渠道合作伙伴亦宏科技在杭州成功举办以“研华嵌入式单板电脑“为主题的伙伴会议，近百名客户抵达会场并参与讨论。会议就ESBC单板电脑的重点产品及机器人、仪器仪表、医疗等行业的应用进行了详细的案例分享。</p><p style="text-align:center"><img width="577" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__a445beb98be4f233015e66c1c1b00f97.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img width="284" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__9faa803e280a5a55e79a53f17dc777ce.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img width="309" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__e18c0cdbcff1c2b8bb024ce9b15c7242.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">（图示：会议现场）</p><p style="text-indent: 2em; text-align: left;">作为研华嵌入式 Focus Partner Channel的重要伙伴，杭州亦宏还面向听众介绍了自己合作的成功经验，并分享了如果立足于研华优秀的工业产品，开发双赢局面，抢占市场份额。</p><p style="text-indent: 2em; text-align: left;">2021年，研华嵌入式面向ESBC（Embedded Single Board Computers）签约了15家专属伙伴渠道经销商，共同拓宽全国市场，并在产品、技术、服务及市场开发商都给了极大的支持。</p><p style="text-align:center"><img width="462" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__175e18a4375d1861d24a4184fe4cc080.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">（图示：杭州亦宏总经理汪文龙分享合作经验）</p><p style="text-indent: 2em; text-align: left;">除详细夯实的产品知识与详细的案例解析课程，现场还面向<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB.HTM" target="_blank" title="人脸识别">人脸识别</a></span>、机器人应用、Intel 最新Tiger Lake 及Elkhart Lake平台的3．5寸、2．5寸等多种产品进行了Demo展示，客户在现场可通过实物对研华嵌入式单板的多种尺寸、高可靠性产品设计有更具体的感知。</p><p style="text-align:center"><img width="252" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__ae95328e731a645deb2ceea19a5eeb6d.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img width="240" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__883eba83839b6303a6578632bca53785.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img width="272" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__9e92d50e97e6352dcb06eb56c25e64f8.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img width="263" src="https://mp.ofweek.com/Upload/News/Img/member33423/202108/wx_article__85ef790a7ab071aa743f53fdd61f8147.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">（图示：展台处参会客户与工作人员积极探讨需求）</p><p style="text-indent: 2em; text-align: left;">研华一直在高质量以及高效能运算平台的发展和制造上，扮演一个创新者的角色。同时提供全面性的软硬件系统整合、以顾客为导向的设计服务、全球后勤支持以及领先同业的电子化办公室设施等种种无限可能的应用服务。研华嵌入式单板电脑（ESBC，Embedded Single Board Computers）作为研华重要的嵌入式产品，采用低功耗的Intel／AMD等处理器，性能从ATOM到Core i 4核，多种规格均具备高扩展性，7～15年长供货周期，可胜任7x24全天候运行及工业级严苛操作，多种OS的支持，满足自动化、交通、医疗、军事等行业需求。</p> 
+  
+</div>
+            
