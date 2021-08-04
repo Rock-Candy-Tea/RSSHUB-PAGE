@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-1a7f29516ac1ef061f80c64f708a2ba
 
 <div>   
 <div class="content">
-                                                                                            <p>ReSharper 2021.2 现已发布，该版本更新了 C# 代码分析、可空引用类型和源生成器并引入 HttpClient URI 支持。该版本需要在计算机上安装 .NET Framework 4.7.2 或更高版本。</p> 
+                                                                    
+                                                        <p>ReSharper 2021.2 现已发布，该版本更新了 C# 代码分析、可空引用类型和源生成器并引入 HttpClient URI 支持。该版本需要在计算机上安装 .NET Framework 4.7.2 或更高版本。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-1a7f29516ac1ef061f80c64f708a2ba026e.png" referrerpolicy="no-referrer"></p> 
 <h4>代码分析</h4> 
 <ul> 

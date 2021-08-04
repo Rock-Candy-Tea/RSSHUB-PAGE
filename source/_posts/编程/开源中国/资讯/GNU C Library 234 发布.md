@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4174'
+headimg: 'https://picsum.photos/400/300?random=1667'
 author: 开源中国
 comments: false
 date: Wed, 04 Aug 2021 06:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4174'
+thumbnail: 'https://picsum.photos/400/300?random=1667'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>GNU C Library 2.34 已发布，GNU C Library 被设计为可移植和高性能的 C 库。它遵循所有相关标准，包括 ISO C11和 POSIX.1-2017，也是已知的最完善的国际化接口之一，广泛应用于 GNU/Linux 系统以及其他使用 Linux 内核的系统。</p> 
+                                                                    
+                                                        <p>GNU C Library 2.34 已发布，GNU C Library 被设计为可移植和高性能的 C 库。它遵循所有相关标准，包括 ISO C11和 POSIX.1-2017，也是已知的最完善的国际化接口之一，广泛应用于 GNU/Linux 系统以及其他使用 Linux 内核的系统。</p> 
 <p><strong>部分更新内容</strong></p> 
 <ul> 
  <li>所有以前在 libpthread、libdl、libutil 和 libanl 中实现的功能都被整合到 libc 库本身。官方仍然提供了这些 former libraries 的空静态存档，以便在应用程序向前推进时不至于出现太多破坏性的变化，只需要与 libc 链接。</li> 

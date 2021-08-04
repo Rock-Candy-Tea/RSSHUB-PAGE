@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=181'
+headimg: 'https://picsum.photos/400/300?random=4449'
 author: 开源中国
 comments: false
 date: Wed, 04 Aug 2021 06:26:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=181'
+thumbnail: 'https://picsum.photos/400/300?random=4449'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>MKVToolNix 60.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
+                                                                    
+                                                        <p>MKVToolNix 60.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
 <h3>新功能和改进</h3> 
 <ul> 
  <li>all：IETF BCP 47/RFC 5646 语言标签：实现了对 Alpha 2 的支持；</li> 

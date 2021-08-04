@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3307'
+headimg: 'https://picsum.photos/400/300?random=8122'
 author: 开源中国
 comments: false
 date: Wed, 04 Aug 2021 06:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3307'
+thumbnail: 'https://picsum.photos/400/300?random=8122'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>错误修正：</p> 
+                                                                    
+                                                        <p>错误修正：</p> 
 <ul> 
  <li>navbar：当点击 <code><a></code> 和 <code><button></code> 时，导航条标题不会滚动页面顶部；</li> 
  <li>stepper：允许在 manualMode 下输入负数；</li> 

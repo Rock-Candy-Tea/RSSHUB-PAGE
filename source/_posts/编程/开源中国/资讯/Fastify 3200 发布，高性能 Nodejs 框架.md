@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4257'
+headimg: 'https://picsum.photos/400/300?random=1656'
 author: 开源中国
 comments: false
 date: Wed, 04 Aug 2021 06:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4257'
+thumbnail: 'https://picsum.photos/400/300?random=1656'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Fastify 3.20.0 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</p> 
+                                                                    
+                                                        <p>Fastify 3.20.0 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</p> 
 <p>此版本更新内容包括：</p> 
 <ul> 
  <li>将 this types 添加到 decorator functions 中 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Ffastify%2Ffastify%2Fpull%2F3203" target="_blank">#3203</a></li> 

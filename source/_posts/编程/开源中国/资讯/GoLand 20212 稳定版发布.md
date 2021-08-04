@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-46eca466eb4a0416335e86d44286fb1
 
 <div>   
 <div class="content">
-                                                                                            <p>GoLand 2021.2 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fgo%2F2021%2F07%2F29%2Fgoland-2021-2-has-been-released%2F" target="_blank">已发布</a>。</p> 
+                                                                    
+                                                        <p>GoLand 2021.2 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fgo%2F2021%2F07%2F29%2Fgoland-2021-2-has-been-released%2F" target="_blank">已发布</a>。</p> 
 <p>GoLand 2021.2 引入了新的 <strong>Go modules </strong>功能、新的<strong>格式设置</strong>选项以及对 <strong>Go 1.17</strong> 功能的支持。此外还添加了新的快速修复，包括帮助开发者正确使用新的 <code>//go:build</code> 语法的修正。</p> 
 <p>在此版本中，版本控制功能已经更新，改进包括使用 <strong>GPG 密钥签署提交</strong>的功能。对于 Web 开发者，增加了保存代码时在浏览器中自动重新加载页面的功能，并且为 MongoDB 字段和运算符提供了补全。</p> 
 <p>下载地址：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fgo%2Fdownload%2F" target="_blank">https://www.jetbrains.com/zh-cn/go/download/</a></p> 

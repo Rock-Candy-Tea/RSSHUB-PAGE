@@ -18,7 +18,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p>— 東方我楽多叢誌 ／ 東方ステーション次回は7/17・虹龍洞特集 (@touhou_station) <a href="https://twitter.com/touhou_station/status/1416396157165596672?ref_src=twsrc%5Etfw">July 17, 2021</a></p></blockquote>
 <p></p>
 <p><span style="color: #9ba39e;">*译者注：本文提到的所有时间均为日本时间</span></p>
-<p>继去年的「27小时东方Station」，今年我们<del datetime="2021-07-28T09:39:54+00:00">重复同样的过错</del>举办<span style="color: #d24519;"><strong>东方Station2日长时间直播！</strong></span></p>
+<p>继去年的「27小时东方Station」，今年我们<del datetime="2021-07-28T09:39:54+00:00">重复同样的过错</del>举办<span style="color: #d24519;"><strong>东方Station2日长时间直播</strong></span><strong>！</strong></p>
 <blockquote>
 <p style="text-align: center;"><a href="https://www.mildom.com/profile/10922924"><img class="alignnone wp-image-18339 size-thumbnail" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30175522/title1-512x269.jpg" alt width="512" height="269" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30175522/title1-512x269.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30175522/title1-1024x538.jpg 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30175522/title1-768x403.jpg 768w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30175522/title1.jpg 1200w" sizes="(max-width: 512px) 100vw, 512px" referrerpolicy="no-referrer"></a></p>
 <p style="text-align: center;">8月13日-14日　「睡了？？东方Station」</p>
@@ -43,7 +43,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <h3>8/<strong>13 19:00～『东方虹龙洞』东方Station杯</strong></h3>
 <p><img class="alignnone size-medium wp-image-18346" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30190731/top_kouryudotaikai-1024x538.jpg" alt width="1024" height="538" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30190731/top_kouryudotaikai-1024x538.jpg 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30190731/top_kouryudotaikai-512x269.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30190731/top_kouryudotaikai-768x403.jpg 768w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/07/30190731/top_kouryudotaikai.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" referrerpolicy="no-referrer"></p>
 <p>东方Project新作『东方虹龙洞』的线上大会！</p>
-<p>并不是STG往常进行的纯打分大会，而是通过计算残机数・bomb数・拥有的能力卡计算出分数的独有的竟分大会。</p>
+<p>并不是STG往常进行的纯打分大会，而是通过计算残机数・bomb数・拥有的能力卡计算出分数的独有的竞分大会。</p>
 <blockquote>
 <h2><span style="color: #d24519;">规则简介</span></h2>
 <p><span style="color: #54819a;">※今后规则会更改。</span></p>
@@ -73,8 +73,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <li>最终通关分数换算为分数
 <ul>
 <li>12亿以上＋20点</li>
-<li>8億＋10点</li>
-<li>6億＋4点</li>
+<li>8亿＋10点</li>
+<li>6亿＋4点</li>
 </ul>
 </li>
 </ul>
