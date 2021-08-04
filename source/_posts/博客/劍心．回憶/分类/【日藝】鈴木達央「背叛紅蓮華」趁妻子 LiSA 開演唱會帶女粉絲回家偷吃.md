@@ -27,8 +27,8 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202108
 <div class="news-list-title">【相關內容】LiSA鈴木達央宣佈結婚！鬼滅之刃歌手與七大罪聲優多年情修成正果</div>
 </a><p><a href="http://kenshin.hk/2020/01/23/%e3%80%90%e5%8b%95%e7%95%ab%e3%80%91lisa%e9%88%b4%e6%9c%a8%e9%81%94%e5%a4%ae%e5%ae%a3%e4%bd%88%e7%b5%90%e5%a9%9a%ef%bc%81%e9%ac%bc%e6%bb%85%e4%b9%8b%e5%88%83%e6%ad%8c%e6%89%8b%e8%88%87%e4%b8%83/" target="_blank"></a></p></div>
 <p style="line-height:0.5;"> </p>
-
 <p></p>
+
 
    
 </div>

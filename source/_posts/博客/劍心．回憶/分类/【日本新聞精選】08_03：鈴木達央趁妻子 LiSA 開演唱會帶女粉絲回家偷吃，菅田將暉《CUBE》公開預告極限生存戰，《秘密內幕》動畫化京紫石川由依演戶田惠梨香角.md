@@ -39,6 +39,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202108
 【景點】關西最大向日葵花海佐用町57萬棵逐漸滿開帶來一望無際黃色花海 (片)<br>
 【美食】200年歷史懷石料理店變身鰻魚飯專門店 疫情中求生存不惜一切 (片)<br>
 【社會】日本疫情絕望性爆發！首度單日破萬首都圈大阪將發緊急事態宣言 (片) </p>
+
 <div class="news-2column-card"><a href="http://kenshin.hk/2021/08/03/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%91%e9%88%b4%e6%9c%a8%e9%81%94%e5%a4%ae%e3%80%8c%e8%83%8c%e5%8f%9b%e7%b4%85%e8%93%ae%e8%8f%af%e3%80%8d%e8%b6%81%e5%a6%bb%e5%ad%90-lisa-%e9%96%8b%e6%bc%94%e5%94%b1/" title="【日藝】鈴木達央「背叛紅蓮華」趁妻子 LiSA 開演唱會帶女粉絲回家偷吃" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202108/s-20210803-4.jpg" width="100%" referrerpolicy="no-referrer">
 <div class="news-list-title">【日藝】鈴木達央「背叛紅蓮華」趁妻子 LiSA 開演唱會帶女粉絲回家偷吃</div>
 </a><p><a href="http://kenshin.hk/2021/08/03/%e3%80%90%e6%97%a5%e8%97%9d%e3%80%91%e9%88%b4%e6%9c%a8%e9%81%94%e5%a4%ae%e3%80%8c%e8%83%8c%e5%8f%9b%e7%b4%85%e8%93%ae%e8%8f%af%e3%80%8d%e8%b6%81%e5%a6%bb%e5%ad%90-lisa-%e9%96%8b%e6%bc%94%e5%94%b1/" title="【日藝】鈴木達央「背叛紅蓮華」趁妻子 LiSA 開演唱會帶女粉絲回家偷吃" target="_blank"></a>
@@ -137,7 +138,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202108
 </p></div>
 <div class="news-2column-card"><a href="http://kenshin.hk/2021/08/01/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e6%97%a5%e6%9c%ac%e7%96%ab%e6%83%85%e7%b5%95%e6%9c%9b%e6%80%a7%e7%88%86%e7%99%bc%ef%bc%81%e9%a6%96%e5%ba%a6%e5%96%ae%e6%97%a5%e7%a0%b4%e8%90%ac%e9%a6%96%e9%83%bd/" title="【社會】日本疫情絕望性爆發！首度單日破萬首都圈大阪將發緊急事態宣言 (片)" target="_blank"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202108/s-20210801-t1.jpg" width="100%" referrerpolicy="no-referrer">
 <div class="news-list-title">【社會】日本疫情絕望性爆發！首度單日破萬首都圈大阪將發緊急事態宣言 (片)</div>
-
 </a><p><a href="http://kenshin.hk/2021/08/01/%e3%80%90%e7%a4%be%e6%9c%83%e3%80%91%e6%97%a5%e6%9c%ac%e7%96%ab%e6%83%85%e7%b5%95%e6%9c%9b%e6%80%a7%e7%88%86%e7%99%bc%ef%bc%81%e9%a6%96%e5%ba%a6%e5%96%ae%e6%97%a5%e7%a0%b4%e8%90%ac%e9%a6%96%e9%83%bd/" title="【社會】日本疫情絕望性爆發！首度單日破萬首都圈大阪將發緊急事態宣言 (片)" target="_blank"></a>
 </p></div>
    
