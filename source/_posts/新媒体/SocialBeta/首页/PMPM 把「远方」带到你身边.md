@@ -13,7 +13,7 @@ thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-162798
 ---
 
 <div>   
-<p>七夕将至，PMPM 推出全新系列香水。「晨雾森林」和「落日海岸」从风景中取香，灵感分别来源于天色微明的意大利北部和暮色沉沉的布列塔尼海岸。从清晨到日暮，越森林和海岸，PMPM 让「远方」为你而来。PMPM 希望「以香水为介，诉说万千心意」，告白不仅仅是对恋人，也可以是对友人，对自己。[SocialBeta 报道]
+<p>七夕将至，PMPM 推出全新系列香水，「晨雾森林」和「落日海岸」。两款香水，从风景中取香，灵感分别来源于天色微明的意大利北部和暮色沉沉的布列塔尼海岸。从清晨到日暮，越森林和海岸，PMPM 让「远方」为你而来。PMPM 希望「以香水为介，诉说万千心意」，告白不仅仅是对恋人，也可以是对友人，对自己。[SocialBeta 报道]
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-1627982143.jpg" alt referrerpolicy="no-referrer">
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-1627982144.jpg" alt referrerpolicy="no-referrer">
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-1627982145.jpg" alt referrerpolicy="no-referrer">
