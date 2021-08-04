@@ -1,0 +1,22 @@
+
+---
+title: '手機
+《暗黑破壞神 永生不朽》將延至 2022 年推出 揭露 PvE、PvP 及控制器支援等更新資訊
+ 1 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/78/2b1b007fc4ea69367567ccf77c1d8cy5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/78/2b1b007fc4ea69367567ccf77c1d8cy5.JPG'
+---
+
+<div>   
+根據外電報導指出，暴雪娛樂（Blizzard Entertainment）預計會在 2022 年上半某個時間點發行旗下動作 RPG 智慧型手機遊戲《暗黑破壞神 永生不朽（Diablo Immortal）》。暴雪娛樂原本計畫在今年發布這款作品...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/78/2b1b007fc4ea69367567ccf77c1d8cy5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
