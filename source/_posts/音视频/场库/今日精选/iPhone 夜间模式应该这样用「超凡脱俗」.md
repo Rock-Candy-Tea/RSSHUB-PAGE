@@ -8,11 +8,11 @@ categories:
 headimg: 'https://cs.vmovier.com/Uploads/cover/2021-07-30/6103b38514289_cut.jpeg'
 author: 场库
 comments: false
-date: 2021-08-05 13:16:51
+date: 2021-08-05 14:07:06
 thumbnail: 'https://cs.vmovier.com/Uploads/cover/2021-07-30/6103b38514289_cut.jpeg'
 ---
 
 <div>   
-<video src="https://ks-xpc4.xpccdn.com/0d260e69-74fb-44c4-9669-c770c070c3d9.mp4?Expires=1628172858&KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA&Signature=Mnm3tjj0s%2FW39Ywg6o1iKDKVevI%3D" controls="controls" width="100%"></video><p>在漆黑的夜晚或者光线不足的地方，拍照经常会遇到有噪点、不好构图、背景模糊等问题。在这支短片中，博主用几个小技巧教我们 iPhone 夜间模式应该怎么用。我们要用到配备夜间模式相机应用程序 Apple Watch 的 iPhone、三脚架，快来一起 get 拍照新知识吧！</p><img src="https://cs.vmovier.com/Uploads/cover/2021-07-30/6103b38514289_cut.jpeg" width="200" referrerpolicy="no-referrer">  
+<video src="https://ks-xpc4.xpccdn.com/0d260e69-74fb-44c4-9669-c770c070c3d9.mp4?Expires=1628175957&KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA&Signature=6LLVmXHg3L2Jt7P7xFCvJY98lwM%3D" controls="controls" width="100%"></video><p>在漆黑的夜晚或者光线不足的地方，拍照经常会遇到有噪点、不好构图、背景模糊等问题。在这支短片中，博主用几个小技巧教我们 iPhone 夜间模式应该怎么用。我们要用到配备夜间模式相机应用程序 Apple Watch 的 iPhone、三脚架，快来一起 get 拍照新知识吧！</p><img src="https://cs.vmovier.com/Uploads/cover/2021-07-30/6103b38514289_cut.jpeg" width="200" referrerpolicy="no-referrer">  
 </div>
             
