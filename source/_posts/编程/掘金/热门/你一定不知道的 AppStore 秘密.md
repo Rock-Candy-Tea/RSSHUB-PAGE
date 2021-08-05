@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+headimg: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Tue, 03 Aug 2021 01:36:35 GMT
-thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -31,14 +31,14 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b1
 <p>关于苹果 App Store 服务，大家最熟悉的包含有 App Store app、IAP(In App Purchase，应用内购买)、App 预订、App 评论搜索等。那么，我们一起来看看，有那些不为大家所知的秘密吧~</p>
 <h4 data-id="heading-2">2.1 系统状态</h4>
 <p>比如上周五，苹果 App Store 出现故障，导致 <code>无法连接 App Store</code>，用户无法打开的问题：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278113027218.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b161995dac06c23f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278113027218.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>针对以上这个情况，有没有办法可以提前预测呢？很遗憾告诉大家，目前苹果官方还没有提供实时的系统服务状态查询，在苹果官网的帮助可以查看到这样的 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.apple.com.cn%2Fcn%2Fsupport%2Fsystemstatus%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.apple.com.cn/cn/support/systemstatus/" ref="nofollow noopener noreferrer">系统状态页面</a>：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0416136170374e4b979e50af2f10ec88~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278220480870.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0416136170374e4b979e50af2f10ec88~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278220480870.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从上图可以看到，<code>Apple Books</code> 和 <code>iTunes Store</code> 服务在 2016-04-26 时因一些不可抗拒的原因在中国内地中断至今。而 <code>Apple Pay & Wallet</code> 钱包功能出现服务中断：</p>
 <blockquote>
 <p>2021-07-23 上午7:00 - 现在，部分用户受到影响，岭南通·羊城通的持卡人可能无法使用 Apple Pay 的部分功能。</p>
 </blockquote>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1638d07944d04d808fbe7efefe59dbc4~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278279533989.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1638d07944d04d808fbe7efefe59dbc4~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278279533989.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从这个服务中断就可以看出来，苹果的这个系统状态通知，并不是实时的公告，而是有延迟，有时候是修复后才出通知公告。</p>
 <p>关于系统状态页面，不同地区是不同的链接，小编整理常见的列表：</p>
 
@@ -100,7 +100,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0fc827c7714a09b1
 <p>从这里可以看到，每个国家或地区的链接中代码，那么这个语言代号可以从苹果 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.apple.com%2Fchoose-country-region%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.apple.com/choose-country-region/" ref="nofollow noopener noreferrer">Choose Your Country or Region</a> 网页的源代码中获取，这也是苹果目前支持的国家和地区。</p>
 <p>以上是针对用户层面的服务，比如 App Store、iCloud 是否可用等，那么针对开发者来说，有没有苹果服务 API 的系统状态呢？其实也是有的。</p>
 <p><strong>开发者系统状态</strong></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/faa8556dd1d94e8f9eaa648c625a48cb~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278329122934.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/faa8556dd1d94e8f9eaa648c625a48cb~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278329122934.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从这个图片可出来，针对 App Store 的服务有很多，<code>App Store Connect</code>、<code>App Store Sandbox</code>、<code>App Store Server Notifications</code>、<code>In-App Purchases</code> 、<code>App Store Receipt Verification</code> 等，从而可以看出这个页面的信息非常的重要！当然，这个目前苹果官方也没有实现的通知。比如这个：</p>
 <blockquote>
 <p><strong>Resolved Outage</strong>（已解决的中断）
@@ -109,18 +109,18 @@ Some users were affected
 Affected Services: App Store Connect, App Store Connect API, TestFlight
 Users experienced a problem with this service.</p>
 </blockquote>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/23bf809873c34fac9346a5149ebfdfc6~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278329606100.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/23bf809873c34fac9346a5149ebfdfc6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278329606100.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>因为这些服务目前是针对开发者服务，目前还没有分国家或地区的服务器，统一用这个 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fsystem-status%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/system-status/" ref="nofollow noopener noreferrer">developer.apple.com/system-stat…</a> 页面查看开发者系统状态。一般来说，当出现大面积的无法使用的服务时，可以通过查看状态确认是不是苹果服务器问题。比如，经常遇到苹果沙盒环境无法充值（<code>App Store Sandbox</code>）、线上用户无法充值（<code>In-App Purchases</code>、<code>App Store Receipt Verification</code>），只能说，遇到问题时怀疑是苹果的服务问题，可以看看这个页面。但这个页面也不时实时刷新，出现大面积的无法使用，依然是看看大家(同行)或者新闻的消息。</p>
 <blockquote>
 <p>注：为什么没有实时，我想是目前苹果的服务遍布全球，想要全盘实时通知，一方面是影响的时长，另一方面影响的范围，不是不可以，可能是需要时间？可以肯定苹果有内部系统报警，但如果遇到问题，马上通知开发者？评估影响时长和范围？还是应该马上修复？这里就不深入探讨，看看苹果未完待续。</p>
 </blockquote>
 <p>既然苹果这样，那么我们来对比一下谷歌，看看有没有不一样的发现？首先是 Google 产品和服务的流量和中断记录页面会显示：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5878dfde70c743148a64c3698747d732~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5878dfde70c743148a64c3698747d732~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>可以看到谷歌服务的中断情况，网页中还有按国家、地区的筛选条件，这里就不展开了，大家想了解可以看看啊。</p>
 <p>而谷歌常见服务出现故障甚至宕机时，在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.google.com%2Fappsstatus%2Fdashboard%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.google.com/appsstatus/dashboard/" ref="nofollow noopener noreferrer">Google Workspace 状态信息中心</a> 页面可以查看：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c6017823af342bcb766f15c3b8bc911~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278341226786.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c6017823af342bcb766f15c3b8bc911~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278341226786.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>页面底部有一个入口，<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.google.com%2Fappsstatus%2Fdashboard%2Fsummary" target="_blank" rel="nofollow noopener noreferrer" title="https://www.google.com/appsstatus/dashboard/summary" ref="nofollow noopener noreferrer">Google Workspace 历史记录</a> 可以查看某个服务的中断时间，影响时长等。相对于苹果的服务来说，还提供 RSS 和 JSON 历史记录接口，甚至是 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F139569%3Fhl%3Dzh-Hans" target="_blank" rel="nofollow noopener noreferrer" title="https://support.google.com/a/answer/139569?hl=zh-Hans" ref="nofollow noopener noreferrer">帮助文档</a>，显得更加完善和友好：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/91744f3a174d4d6881c3144fe3ab2c0a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278343347470.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/91744f3a174d4d6881c3144fe3ab2c0a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278343347470.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>谷歌的系统状态查看服务有：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.google.com%2Fappsstatus%2Fdashboard%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://www.google.com/appsstatus/dashboard/" ref="nofollow noopener noreferrer">Google Workspace</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fstatus.cloud.google.com%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://status.cloud.google.com/" ref="nofollow noopener noreferrer">Google Cloud Status Dashboard</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fstatus.firebase.google.com%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://status.firebase.google.com/" ref="nofollow noopener noreferrer">Firebase Status Dashboard</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fads.google.com%2Fstatus%2Fpublisher%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://ads.google.com/status/publisher/" ref="nofollow noopener noreferrer">Google Ads</a> 等，页面风格统一。Google Play Store 的系统状态，小编没有找到入口；而谷歌系统状态信息的实时性暂时没有相关资料，有懂的朋友，可以在评论区一起交流哈~</p>
 <p>从网上资料看，谷歌服务出现故障的情况好像不多，毕业谷歌有商业化的云服务，出故障是不可能的？而苹果，一般是服微软和亚马逊的云服务，而在中国的 iCloud 服务是用云上贵州，其它的服务暂时还是统一服务器？</p>
 <p>当然，关于实时性，也有第三方的服务监听苹果和谷歌的服务。比如 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdowndetector.com%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://downdetector.com/" ref="nofollow noopener noreferrer">Downdetector</a>、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fdowndetector.com%2Fstatus%2Fgoogle-play%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://downdetector.com/status/google-play/" ref="nofollow noopener noreferrer">Google Play not working? </a> 、<a href="https://link.juejin.cn/?target=https%3A%2F%2Fstatusgator.com%2Fservices%2Fgoogle-apps" target="_blank" rel="nofollow noopener noreferrer" title="https://statusgator.com/services/google-apps" ref="nofollow noopener noreferrer">Google Workspace Status</a> 。这里就不展开了，毕竟第三方也是监听，从最优方案当然是官方支持。</p>
@@ -135,21 +135,21 @@ Users experienced a problem with this service.</p>
 <p>2019年6月14号，苹果<a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fnews%2F%3Fid%3D06142019a" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/news/?id=06142019a" ref="nofollow noopener noreferrer">宣布</a> AppStore 商店App下载地址从 <code>itunes.apple.com</code> 更换为 <code>apps.apple.com</code>。比如用 <code>https://itunes.apple.com/cn/app/斗罗大陆-魂师对决/id1558453472</code> 请求时，会自动跳转到 <code>https://apps.apple.com/cn/app/斗罗大陆-魂师对决/id1558453472</code>。所以大家建议用新的链接，减少页面跳转。</p>
 <p>当然，这个链接里有一个 <code>cn</code> 这个是国家或地区的标识，这个标识跟前文提到的是一样的。如果你的应用只上中国内地，那么就用 <strong>cn</strong>，用其它的也不影响中国内地账号用户访问，而其它地区的用户账号访问时会提示：目前您所在国家或地区尚不提供此App。而如果是选择全球所有的地区都发布，那么用什么地区标识都可以打开。</p>
 <p>更进一步，不带地区也是可以，比如：<code>https://apps.apple.com/app/斗罗大陆-魂师对决/id1558453472</code>，甚至带游戏名也不用带 <code>https://apps.apple.com/app/id1558453472</code>。不带这些参数的话，用电脑上打开显示 Connecting to the iTunes Store...，但是可以正常跳转到 App Store：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bf653e5355854ac983c4e2eaf43e3ee9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279081060021.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bf653e5355854ac983c4e2eaf43e3ee9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279081060021.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>带所有的参数时，会显示 App Store 预览页面：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2d5ac7b0cd244c4296379362de4bebfc~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279082639165.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2d5ac7b0cd244c4296379362de4bebfc~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279082639165.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>所以，关于 App 链接，最好的链接格式，应该是这样：<code>https://apps.apple.com/cn/app/id1558453472</code>。带有地区和 apple id 标识就可以了，游戏名可以不需要带上。</p>
 <p><strong>App Store 开发者页面</strong></p>
 <p>那么有一个问题，app 可以通过链接跳转到 App Store，那么可能通过链接跳转到 App Store 的开发者界面吗？</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f287656b9f54026b02995f84bb03e1b~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279654329857.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f287656b9f54026b02995f84bb03e1b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279654329857.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>很显然是可以的！比如这个链接：<code>https://apps.apple.com/cn/developer/khorgas-zhifan-network-technology-co-ltd/id1540746184</code>，需要注意这个 <code>id1540746184</code> 是开发者账号的id，不是 app 的。那么问题来了，怎么获取这个开发者页面的链接呢?</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/530f6c7948c34b9fb06c05c0e1f298c6~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279656607309.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/530f6c7948c34b9fb06c05c0e1f298c6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279656607309.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>答案就是，在浏览器打开开发者的某个 app 的预览页面，然后开发者名字那一栏，就是开发者页面的链接，复制一下就可以啦~</p>
 <h4 data-id="heading-5">2.4 App 评论</h4>
 <p>在所有的 iOS 版本中，通过 app 链接拼接 <code>action=write-review</code> 时，都可以跳转到 App Store 打开评估页面。比如 <code>https://apps.apple.com/cn/app/id1558453472?action=write-review</code> 。需要注意的是，如果用户从来没有下载过此 app，则跳转后会提示必须拥有此项目才能评论：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/86ae9da7eef34adf990fa67c78945d2f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279099467349.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/86ae9da7eef34adf990fa67c78945d2f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279099467349.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>而在 iOS 10.3 以上，苹果提供了 app 内评论的功能，方法也很简单，调用苹果的 API 接口 <code>[SKStoreReviewController requestReview]</code> 就可以：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de272be53d6c49e8845e00c99bd3c645~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279099688237.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de272be53d6c49e8845e00c99bd3c645~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279099688237.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>App内评分功能注意事项</strong></p>
 <ul>
 <li>仅支持 iOS 10.3+ 以上</li>
@@ -160,11 +160,11 @@ Users experienced a problem with this service.</p>
 <li>生产环境如果已经评论成功，再调用不会再弹</li>
 </ul>
 <p>很多开发者如果不太留意，看到上面的弹窗，会以为只能在 App Store 才能文字评论。其实，在 app 内也可以写评论，在星级评论提交后，会显示下面的界面：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70534adff730489f880561887e107fc7~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279103951283.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/70534adff730489f880561887e107fc7~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279103951283.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>用户还可以选择，要不要撰写评论。当然点击”<strong>好</strong>“表示不写文字评论了。</p>
 <p>app 评分数量太少，可能会降低用户下载 app 的意愿，所以，苹果提高了这样的接口给开发者来选择。那么对于开发者来说，可以得到更多用户评论的机会，但如果不转移到 App Store 评论，就减少了 app 的曝光量。当然，好的 app 会消除了用户的顾虑，<strong>但酒香也怕巷子深，需要开发者多维度思考。</strong></p>
 <p>最后，从用户角度来看，如果你觉得 app 内评论影响到你的使用体验，其实你是可以在设置里关闭的：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/95717a9e31ce44e4b611030a40b74cf3~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279110089060.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/95717a9e31ce44e4b611030a40b74cf3~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279110089060.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>在设置的 App Store 子页面中，可以选择关闭。所以，苹果的产品，确实会更多的站在用户体验来思考，不仅仅是(不)满足开发者。</p>
 <h4 data-id="heading-6">2.5 iTunes Store API</h4>
 <p>苹果提供了一套 API 给开发者用来获取 iTunes Store、App Store、iBooks Store 和Mac App Store 的内容信息，包括 App、iBooks、电影、播客、音乐、音乐视频、有声读物和电视节目等。</p>
@@ -259,9 +259,9 @@ Users experienced a problem with this service.</p>
 </ul>
 <p>所以，低于 iOS 13 的设备，可以使用蜂窝网络下载大小<code>不超过 200 MB</code> 的 App，否则，只能通过 WiFi（手机开热点也可以。）。</p>
 <p>对于 iOS 13 以上，如果下载超过 200MB 的应用时，会提示链接 WiFi 时再下载 或 直接使用蜂窝网络下载：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e77f49a26eb4f53888132897499eef2~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279156714109.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e77f49a26eb4f53888132897499eef2~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279156714109.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>选项可以在设置中更改，请前往“设置” -> “App Store”  ->  “App下载”：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/61b6d7c2fa304a999a525a18093ecfb8~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279157529555.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/61b6d7c2fa304a999a525a18093ecfb8~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279157529555.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如上图，在 iOS 13+ 有三个可选项：</p>
 <ol>
 <li>始终允许</li>
@@ -288,7 +288,7 @@ Users experienced a problem with this service.</p>
 <p>假设预订时间是： <code>2020-10-16</code>
 那么真实预订生效时间：2020-10-15 北京时间 22:00 生效(或 23:00 生效)</p>
 <p>首先，我们想到的是从苹果后台网页的源码查找：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/818171fb7609495a997c341b827ed0f6~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278752890505.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/818171fb7609495a997c341b827ed0f6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278752890505.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>上图的时间戳 1551168000000（毫秒） 转成北京时间为 2019-02-26 16:00:00 。显然不符合预期时间，所以，到底是什么时间？</p>
 <p>最后在从苹果的 <code>iTunes Search API</code> 接口获取到 app 的信息（小编注：此接口下文会详细讲解，此处先略过。），接口返回的 Json 数据里有一个字段 <code>releaseDate</code>，大概的内容是这样 <code>"releaseDate": "2021-09-23T07:00:00Z"</code>（预订发布时间是2021年9月23日推出。）。刚开始小编也认为这个时间是 UTC/GMT 时间，最近根据北京时间 22:00 生效(或 23:00 生效)节点，推测苹果的 <strong>releaseDate</strong> 字段的时间是太平洋时间。那么太平洋时间是什么呢？</p>
 <p>从维基百科 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%25A4%25AA%25E5%25B9%25B3%25E6%25B4%258B%25E6%2597%25B6%25E5%258C%25BA" target="_blank" rel="nofollow noopener noreferrer" title="https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%97%B6%E5%8C%BA" ref="nofollow noopener noreferrer">太平洋时区</a> 查看：</p>
@@ -301,7 +301,7 @@ Users experienced a problem with this service.</p>
 <li>夏令时间（夏季）称为太平洋夏令时间（Pacific Daylight Time，<code>PDT</code>），UTC-7。</li>
 </ul>
 <p>这里可以直接看截图：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/384a2351f2c54f25918e62a096603d0f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278762021317.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/384a2351f2c54f25918e62a096603d0f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278762021317.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <blockquote>
 <p>这是小编之前在公司内部分享《游戏出海本地化概述》的PPT（预告：下一篇文章会整理分享给大家。）</p>
 </blockquote>
@@ -313,10 +313,10 @@ Users experienced a problem with this service.</p>
 </blockquote>
 <p><strong>用户预订 app 后能取消预订吗？</strong></p>
 <p>答案是肯定可以啊。具体可以在 App Store app 的账户设置里进行取消：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb447bfdd47a4bf7a4105e2c2611dea7~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278789480428.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb447bfdd47a4bf7a4105e2c2611dea7~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278789480428.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>其它方式可以参考 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fsupport.apple.com%2Fzh-cn%2FHT202723" target="_blank" rel="nofollow noopener noreferrer" title="https://support.apple.com/zh-cn/HT202723" ref="nofollow noopener noreferrer">官方文档</a>，另外，如果应用是付费下载的方式，那么预订时并不会马上收取费用，在应用发布后，系统会从你的付款方式中收取费用，并且会发一封电子邮件通知你。（注：如果付费应用，在预订期间调整 App 的价格，则会在顾客接受预订的价格和发布当日的价格中，选择较低的价格向顾客收取。）</p>
 <p>而预订的用户，在应用发布后，系统是否会自动下载到用户的设备上？如果该用户 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fsupport.apple.com%2Fzh-cn%2FHT202180" target="_blank" rel="nofollow noopener noreferrer" title="https://support.apple.com/zh-cn/HT202180" ref="nofollow noopener noreferrer">启用自动下载</a>，则该 App 也会下载至该用户的所有其他设备上。启用自动下载的开关如下图：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f776ff1ced314c9ea43446a6d8b011b1~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278850982545.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f776ff1ced314c9ea43446a6d8b011b1~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278850982545.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>app 上线后怎么区分那些用户是预订过的？</strong></p>
 <p>曾经一度认为苹果的没有标识预订用户的接口，然后在苹果 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fpre-orders%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/pre-orders/" ref="nofollow noopener noreferrer">营销您的 App </a> 页面的最下面看到一段不起眼的话：</p>
 <blockquote>
@@ -407,7 +407,7 @@ Users experienced a problem with this service.</p>
 <p>苹果新后台刚刚改版时，出现了很多问题，其中一个就是预订时间无法更改的Bug，导致了想延迟预订时间都没有办法。不得不吐槽一下苹果，当出现 bug 时，一般是通过邮件或者电话联系开发者当地的客服，而一般开发者反馈的问题都不会得到重视，导致了一些问题让开发者很煎熬！</p>
 <p>遇到这种问题时，只能默默选择下架应用，那么下架后，担心已经预订的用户是不是收到下载通知？<a href="https://link.juejin.cn/?target=https%3A%2F%2Fhelp.apple.com%2Fapp-store-connect%2F%3Flang%3Dzh-cn%23%2Fdev44877b669" target="_blank" rel="nofollow noopener noreferrer" title="https://help.apple.com/app-store-connect/?lang=zh-cn#/dev44877b669" ref="nofollow noopener noreferrer">苹果的文档</a> 有解析：如果您将 App 预订从 App Store 中移除，除非在发布日期之前您再次使其支持预订，否则已经预订了您 App 的顾客将不会收到该 App，且不会向顾客收取费用。此外，一旦发布日期已过，您便不能再次将 App 以预订形式发布。</p>
 <p>最后一个问题就是，预订状态的生效时间。用户预订应用后，App Store 会显示灰色的 <code>已预订</code> 按钮，无法点击：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5727378a09804dd3ba63cabc125423ca~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16278916831006.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5727378a09804dd3ba63cabc125423ca~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16278916831006.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然而，有一些用户就是没有开启自动下载功能，这时候，其实用户是不会自动下载的。然后因为苹果服务器应用发布生效时间只保证 24 小时内，所以，导致这部分用户在 App Store 下载不了的问题！</p>
 <p>这时候，除了让用户等苹果应用生效后在手动下载，还有一个方式，就是让用户取消预订应用！具体可以参考文档 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fsupport.apple.com%2Fzh-cn%2FHT202723" target="_blank" rel="nofollow noopener noreferrer" title="https://support.apple.com/zh-cn/HT202723" ref="nofollow noopener noreferrer">取消应用预订</a>，然而，这里需要注意一下，如果游戏是开启了预订奖励，那么让用户取消预订在下载，就可能导致用户的预订奖励无法领取啦！</p>
 <p>通过这些细节的探究，App Store 功能之多，每一个小功能，都紧密联系，所以导致系统庞大而臃肿，牵一发而动全身，希望苹果能看到这些问题，做的更加好~</p>
@@ -418,43 +418,43 @@ Users experienced a problem with this service.</p>
 </blockquote>
 <p>促销代码可能大家习惯叫<strong>兑换码</strong>。促销代码的作用，从苹果的角度来看，是让开发者方便给<strong>媒体和有影响力的用户</strong>率先体验和评测 app。所以，苹果对促销代码的限制比较多，每个 App 内购买项目提供至多 100 个促销代码，每个 App 的 App 内购买项目代码在每六个月内的总上限均为 1000 个（在1月1日和7月1日重置）。这些代码用于非商业用途，并会在请求代码的 28 天之后过期。</p>
 <p>促销代码对于开发者来说，唯一的好处是 app 在 App Store 上架之前使用。也就是说，app 过审后，如果没有发布对外，在 App Store 是无法查看的，但通过促销代码，可以在 App Store 里进行兑换下载。并且对兑成功后，这个 app 可以永久下载，但是，苹果会区分促销代码下载的用户，这部分用户无法对 app 进行评价。点击评分时，会提示“您必须拥有此项目”：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9fe0fcc10c0a480591cfda8eadc39e52~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279577944052.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9fe0fcc10c0a480591cfda8eadc39e52~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279577944052.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>2014 年，Apple 收购了 TestFlight，所以现在苹果主力的测试分发方式改为了 TestFlight。但 TestFlight 也有明显无法满足的需求，因为苹果最终还是想让用户通过 App Store 下载 app。所以 TestFlight 发布的 app 每个版本只有 90 天测试时间，如果开发者在 90 天内没有更新，那么用户就无法从 TestFlight 中下载该应用。而已经下载到设备的 app，也会在下载之日起的第 90 天后失效。在某个版本失效或被开发者主动移除前，用户可以随意在应用的不同版本中切换，用于对比版本间的差异。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f423129f5a3489c980a663c13909a3e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279585748731.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f423129f5a3489c980a663c13909a3e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279585748731.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然后，目前在国区，促销代码代码也换出很多花样，变成一个第三方分发的方式。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e768c8828624a928d6aeeeead4ae60f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279588662691.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e768c8828624a928d6aeeeead4ae60f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279588662691.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>最后，除了以上的促销代码，苹果在 iOS 14 时，推出了 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fnews%2F%3Fid%3Dlrnyc3aj" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/news/?id=lrnyc3aj" ref="nofollow noopener noreferrer">订阅优惠代码</a>，优惠代码让您能以优惠价格或限时免费形式来提供订阅，可以帮助您获取、留存和赢回订阅用户。苹果对于内购的营销方式支持力度一直是重点，特殊是游戏类是内购的大头。</p>
 <p>使用 iOS 14 和 iPadOS 14 及更高版本的顾客可以通过一个一次性代码兑换 URL 在 App Store 上兑换优惠代码；如果开发者在 app 实现了 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fdocumentation%2Fstorekit%2Fskpaymentqueue%2F3566726-presentcoderedemptionsheet" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/documentation/storekit/skpaymentqueue/3566726-presentcoderedemptionsheet" ref="nofollow noopener noreferrer">presentCodeRedemptionSheet (英文)</a> API，用户也可以在 app 内直接兑换。</p>
 <p>综上，兑换码本身是可以方便开发者为用户提供测试的机会，随着业务需求的变化，开发者更多的是希望通过兑换码，来吸引用户进行下载 app！毕竟，现在让用户下载一个 app 是非常难的事情。</p>
 <h4 data-id="heading-10">2.9 App Store 工具</h4>
 <p>说了这么多，对于苹果和开发者来说，App Store 的利益是共赢(至少是不亏)，所以推广开发者的 app，对于苹果或者是开发者来说，都是头等大事。对于大公司来说，会有很多营销或者创意进行推广，但对于一般的开发者来说，特别是独立开发者来说，是一种非常不容易的事。所以，我们一起来看看，苹果为开发者提供了那些推广 app 的工具吧~</p>
 <p><strong>App Store Marketing Tools</strong></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9741ba09551847d09644ec2ede6cd12e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279598657980.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9741ba09551847d09644ec2ede6cd12e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279598657980.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><a href="https://link.juejin.cn/?target=https%3A%2F%2Ftools.applemediaservices.com%2Fapp-store%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://tools.applemediaservices.com/app-store/" ref="nofollow noopener noreferrer">Market with App Store</a> 是一个非常棒的工具，让开发者快速生成需要的推广素材。生成可打开您 App Store 产品页面的短链接或嵌入式代码，并显示您的 app 图标、二维码或 App Store 徽章。</p>
 <p>简单来说，开发者通过 <a href="https://link.juejin.cn/?target=https%3A%2F%2Ftools.applemediaservices.com%2Fapp-store%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://tools.applemediaservices.com/app-store/" ref="nofollow noopener noreferrer">Market with App Store</a> 搜索自己的 app，然后就可以点击打开素材的页面：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e08794f95528484ebeca1c388d895893~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279604843988.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e08794f95528484ebeca1c388d895893~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279604843988.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>Content Link 是 app 的下载链接，App Icon 点击左边的 <code>Copy Embed</code> 是一段 html 的代码，效果是如图一样的一个 icon 的图标，点击图标时会跳转到 app 下载链接。右边是下载当前的 icon 图标（分辨率是1000x1000，自动切成苹果的圆角）。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ead02dd927340f18157fa8136d0956f~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279607760231.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ead02dd927340f18157fa8136d0956f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279607760231.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这个是 App Store 下载的徽章，支持白色和黑色风格，还有“下载”方案是支持多语言定义。</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b867fe2524745d48c9adee60cdad6f9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279608629386.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b867fe2524745d48c9adee60cdad6f9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279608629386.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>最后是 QR Code 二维码，支持黑色、白色、蓝色三种风格，嵌入 app 图标等。这个功能至少来说还是很方便的~</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3b445d1c98a14f7787235579c90ddad3~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279621769632.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3b445d1c98a14f7787235579c90ddad3~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279621769632.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>除了 app 的推广素材，还有 Books、Music、News、Podcasts、TV 等，大家有兴趣的可以自行研究哈，这里就不展开了。</p>
 <p><strong>其他图案和指南</strong></p>
 <p>为了方便开发者，在网站、电子邮件和社交媒体中展示 app，同时显示 Apple 产品图像和 App Store 徽章等。苹果在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fmarketing%2Fguidelines%2F%23section-products" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/marketing/guidelines/#section-products" ref="nofollow noopener noreferrer">营销资源和识别标志指南</a> 页面里提供了很多素材下载。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/267e5378a0734360ada86f49336d6640~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279611453135.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/267e5378a0734360ada86f49336d6640~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279611453135.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>App Store 徽章提供了下载和预下载的样式，App Store、Mac App Store、Apple TV 三个平台。对于素材来说，所有本地化语言都包含，下载的每个语言文件夹下有 <code>EPS</code> 和 <code>SVG</code> 二种格式的矢量图片。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6d808dc150648c0a74b59f5398155e6~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279612522994.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6d808dc150648c0a74b59f5398155e6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279612522994.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>苹果非常注重品牌的推广和营销，所以开发者的营销材料中使用 Apple 提供的产品图像，苹果建议始终使用 app 当前开发所针对的最新一代产品图像。在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fmarketing%2Fguidelines%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/marketing/guidelines/" ref="nofollow noopener noreferrer">营销资源和识别标志指南</a> 页面还有非常多的详细规范和准则，感兴趣的朋友可以看看哈~</p>
 <p><strong>Apple Design Resources</strong></p>
 <p>在苹果 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fdesign%2Fresources%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/design/resources/" ref="nofollow noopener noreferrer">Apple Design Resources</a> 页面，可以下载苹果的标准 UI 素材，包括 Sketch、Photoshop 和 XD 模板等格式，方便开发者快速准确地设计 app 效果图。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b5f1e97c686848268a8e61d152bf00b2~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279637326714.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b5f1e97c686848268a8e61d152bf00b2~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279637326714.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>RSS Generator</strong></p>
 <p>通过这个 <a href="https://link.juejin.cn/?target=https%3A%2F%2Frss.itunes.apple.com%2Fzh-cn" target="_blank" rel="nofollow noopener noreferrer" title="https://rss.itunes.apple.com/zh-cn" ref="nofollow noopener noreferrer">RSS Feed 生成工具</a> 页面，可能获取 App Store 榜单的应用排名情况，并且是有 Feed 链接可以获取数据，大家有兴趣可以看看。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cab85d21924a42f0945f35253214a76a~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279641356168.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cab85d21924a42f0945f35253214a76a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279641356168.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-11">2.10 iOS 和 iPadOS 的使用情况</h4>
 <p>在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fsupport%2Fapp-store%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/support/app-store/" ref="nofollow noopener noreferrer">App Store - 支持</a> 页面，苹果提供了最新的 iOS 和 iPadOS 的占比数据：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5073c968a4ce4171b8d442a72abc4182~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279628002579.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5073c968a4ce4171b8d442a72abc4182~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279628002579.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>通过这个数据，可以了解到最新的占比。当然对于不同的地区或者国家，不同的 app，如果要说明产品或者老板 app 不支持 iOS 12 了？ 可能还是从自家的产品的数据监控为准吧，毕竟苹果这个只是 App Store 的数据，不是苹果的所有设备的系统数据。</p>
 <h4 data-id="heading-12">2.11 App 侵权争议</h4>
 <p>开发者开发的 app，可能会面临侵权风险，这个侵权不单单是大家想到的内容抄袭、素材盗用等，比如起的 app 名字，可能别人申请了商标，而你当初起名字时，可能也没有太在意等。随着 App Store 越来越大，其中的利益竟争也必然越来越被重视。开发者在 app 的元数据和内容方面，也需要特别注意。</p>
@@ -467,10 +467,10 @@ Users experienced a problem with this service.</p>
 </blockquote>
 <p>除了刚刚说到的 App Store 秘密，分享您的开发者故事，就是最大的秘密！获取推荐，最终带来大量的新增用户是非常可观的方式，具体大家可以通过 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fgetting-featured%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/getting-featured/" ref="nofollow noopener noreferrer">欢迎告诉我们</a> 了解更多。</p>
 <p>最后，我们主要是来说说，假如被苹果推荐后，经常会有同学这样问到，这些素材通过什么方式给苹果呢？ 格式和标准尺寸是怎么样？</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a8b42c5bf01e41ee9592e11dd1e1084d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279676460575.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a8b42c5bf01e41ee9592e11dd1e1084d~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279676460575.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如果 app 被推荐，苹果会在 App Store Connect 开放对应的入口 <code>Promotional Artwork</code>，因为苹果的推荐位有很多种类型，具体可以查看这个 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fhelp.apple.com%2Fasc%2Fappspromoart%2F%23%2Fitcff8683d86" target="_blank" rel="nofollow noopener noreferrer" title="https://help.apple.com/asc/appspromoart/#/itcff8683d86" ref="nofollow noopener noreferrer">文件的格式</a> 文档。</p>
 <p>特别说一下，苹果推荐目前是没有分级或者分账号显示不同的内容，所有的账号显示的推荐内容是一样的。所以，一般最好是老少皆宜的内容，推广素材需要特别注意，举例来说：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1482ab97732642709f96d9c406df525e~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="16279683051475.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1482ab97732642709f96d9c406df525e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16279683051475.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>详细可以参考这个 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fhelp.apple.com%2Fasc%2Fappspromoart%2F%3Flang%3Dzh-cn%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://help.apple.com/asc/appspromoart/?lang=zh-cn/" ref="nofollow noopener noreferrer">App Store 推广图案准则</a> 文档，苹果列举了非常全面的准则和教程，这里就不展开了。</p>
 <h3 data-id="heading-14">三、总结</h3>
 <p>文章有点长了，终于总结了 12 个可能是秘密的秘密？不知道大家有没有认真看完，但希望大家有所收获哈~</p>

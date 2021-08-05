@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Tue, 03 Aug 2021 16:10:49 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -41,10 +41,10 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081
 <p>接下来我们用几个命令来讲解一下docker的工作流程：</p>
 <p><strong>1，docker build</strong></p>
 <p>当我们写完dockerfile交给docker“编译”时使用这个命令，那么client在接收到请求后转发给docker daemon，接着docker daemon根据dockerfile创建出“可执行程序”image。
-<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="图片.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1429fc6dbaf84e2081eb88cff9170a40~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="图片.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>2，docker run</strong></p>
 <p>有了“可执行程序”image后就可以运行程序了，接下来使用命令docker run，docker daemon接收到该命令后找到具体的image，然后加载到内存开始执行，image执行起来就是所谓的container。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b11b0391b69545f09a8586025dee6510~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="图片.png" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b11b0391b69545f09a8586025dee6510~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="图片.png" loading="lazy" referrerpolicy="no-referrer">
 <strong>3，docker pull</strong></p>
 <p>其实docker build和docker run是两个最核心的命令，会用这两个命令基本上docker就可以用起来了，剩下的就是一些补充。</p>
 <h3 data-id="heading-4">Docker中关于容器的基本操作</h3>

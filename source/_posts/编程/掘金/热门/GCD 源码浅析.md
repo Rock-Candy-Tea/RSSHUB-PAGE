@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Mon, 12 Jul 2021 18:51:54 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -34,8 +34,8 @@ OS_OBJECT_DECL_CLASS(dispatch_object);
 <p>这里<code>OS_dispatch_queue</code>的作用是什么呢？这只是OC中的一个虚拟类，我们可以创建一个Demo工程，创建一个队列，在Demo工程中通过断点查看创建队列所返回的<code>dispatch_queue_t</code>指针，可以看到对应的OC类是<code>OS_dispatch_queue</code>，并且没有任何的成员变量。我们在分配该类的时候，是通过calloc，按照<code>dispatch_queue_s</code>的结构分配的。所以我们可以对分配的对象按照<code>dispatch_queue_s</code>结构赋值，改变。也就是<code>dispatch_queue_s</code>和<code>OS_dispatch_queue</code>是同一种对象的两种标识。有点类似toll-free bridge。当然和toll-free bridge的桥接类并不完全相同，两个类的方法和函数并不能互操作。这个类的isa指向的是<code>dispatch_queue_vtable_s</code>结构。描述这个队列进行一些操作需要调用的函数地址。</p>
 <h3 data-id="heading-2">GCD中常见的结构和继承关系</h3>
 <p>在<code>queue_internal</code>头文件中有注释说明了，下面两图分别是API使用者常使用的结构体和gcd源码内部使用的结构体的继承关系的图示。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ce601ffabe2148e2bc10cbeee314d184~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a1122c57ec9e4f52a136bd1a71526119~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ce601ffabe2148e2bc10cbeee314d184~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从图1可以看到，我们常用的<code>dispatch_queue_serial_t</code>，<code>dispatch_queue_global_t</code>，<code>dispatch_queue_concurrent_t</code>都是继承于<code>dispatch_queue_t</code>，而主队列<code>dispatch_queue_main_t</code>是继承<code>dispatch_queue_serial_t</code>。因此我们熟知的主队列是串行队列这个结论从这里可以得到印证。</p>
 <p>这里说明一下以<code>_t</code>，<code>_class_t</code>，<code>_s</code>结尾类型之间的关系，<code>_t</code>是一个指针类型，指向的结构对应<code>_s</code>的一种，<code>_class_t</code>是一个union类型，表示其指向的结构体可能是多个<code>_s</code>的其中一种，主要用于多种结构体之间的转换。</p>
 <p>或许会有疑问C语言怎么来建立这种继承的关系呢？通过源码我们可以看到，GCD通过struct声明了这些结构，只是在声明各个结构体的时候通过一层层的宏定义，强制两个有继承关系的结构体声明一套相同的成员变量，这也增加了读代码的难度，获得一个结构的声明，就要颇费一番功夫。</p>
@@ -195,7 +195,7 @@ dq->do_targetq = tq;
 <p>【7】 把新创建的<code>dq</code>的目标队列设置为上面的<code>tq</code>。并且增加<code>tq</code>的引用计数。</p>
 <p>【8】 最后返回队列指针，这就是整个创建队列的整个过程。</p>
 <p>这里总结一下整个创建的流程，如下图所示。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/705049522774459d82bc1d944f4223c2~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="未命名.001.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/705049522774459d82bc1d944f4223c2~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="未命名.001.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>创建队列就是在内存中分配队列的对象，并初始化成员变量，保存队列的性质。我们可以看到这里并没有和系统底层的线程建立关系，只有当我们通过<code>dispatch_async</code>或者<code>dispatch_sync</code>派发任务的时候，系统底层才会按需要创建线程执行任务。下文将探索异步派发和同步派发通过怎样的调用和底层的线程建立关系。</p>
 <h2 data-id="heading-5">3.异步派发（dispatch_async)</h2>
 <pre><code class="hljs language-C copyable" lang="C">dispatch_async(<span class="hljs-keyword">dispatch_queue_t</span> dq, <span class="hljs-keyword">dispatch_block_t</span> work)
@@ -405,7 +405,7 @@ r = kevent_id((<span class="hljs-keyword">uintptr_t</span>)wlh, ke, n, ke_out, n
 <p>这里通过上个函数创建的<code>dispatch_kevent_s</code>结构，发起系统调用<code>kevent_id</code>。等待请求事件调度。这里<code>kqueue</code>和<code>kevent</code>系统调用主要任务是请求系统分配线程，并且当请求完成的时候，通知到用户态。<code>kqueue</code>是一种可扩展的事件通知接口，类似linux中的<code>epoll</code>。</p>
 <p>【12】这里会调用一次<code>_dispatch_kq_init</code>方法，该方法处理一些初始化<code>kqueue</code>，<code>rootqueue</code>和<code>managerqueue</code>相关操作。可以通过代码看到该方法会调用到<code>_dispatch_root_queues_init_once</code>方法。 而这个方法又调用了<code>_pthread_workqueue_init_with_kevent</code>。<code>_pthread_workqueue_init_with_kevent</code>方法是在pthread库中实现的。在这个库里会处理和内核的交互，最终会保证我们请求的<code>kqueue</code>和<code>kevent</code>系统调用完成时候，会回调到<code>_dispatch_workloop_worker_thread</code>这个方法入口，具体这个过程中间的实现，这里不再详述，有兴趣的可看下pthread和内核的源码。</p>
 <p><code>_dispatch_workloop_worker_thread</code>将通过队列的<code>do_vtable</code>调用队列的<code>invoke</code>函数，串行队列就是<code>_dispatch_lane_invoke</code>函数，最终从队列的任务链表中取出要执行的任务，并处理任务执行完毕队列的状态。调用堆栈如下。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97e1bba86ecc44f8be753b0e014fc262~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97e1bba86ecc44f8be753b0e014fc262~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><code>_dispatch_lane_invoke</code>中会调用<code>_dispatch_lane_serial_drain</code>方法，其主要功能就是，将串行队列中加入的任务根据先进先出的顺序从链表中遍历执行。</p>
 <h3 data-id="heading-7">在并行队列上异步派发</h3>
 <p>下面是<code>_dispatch_lane_concurrent_push</code>的实现。并行队列最终调用了<code>_dispatch_continuation_redirect_push</code>方法添加任务.</p>
@@ -490,13 +490,13 @@ _dispatch_priority_to_pp_prefer_fallback(dq->dq_priority));
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>这个函数会调用<code>_pthread_workqueue_addthreads</code>（这个方法在pthread库中）。<code>_pthread_workqueue_addthreads</code>这个方法会通过系统调用向workqueue请求分配线程，系统调用完成时，会回调<code>root_queue_init</code>初始化的时候，注册的<code>_dispatch_worker_thread2</code>方法，堆栈如下图。</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2524f082a00341de8d9da1207517dda1~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="image (1).png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2524f082a00341de8d9da1207517dda1~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image (1).png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然后<code>_dispatch_root_queue_drain</code>把前面加入的continuation取出并执行，最终调用到我们传入的block中的代码。</p>
 <h3 data-id="heading-8">小结</h3>
 <p>下图总结了以上异步派发针对两种队列执行过程。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/117a15c9b1dc46aca0499c0c23c741fc~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/117a15c9b1dc46aca0499c0c23c741fc~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>由上可知，异步派发的实现涉及了pthread库和内核提供的系统调用，如下图。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c0b8e05434534521bd76107a21f64172~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="未命名.001.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c0b8e05434534521bd76107a21f64172~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="未命名.001.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>以上可以看到，串行和并行队列都会发起系统调用，请求线程。</p>
 <p>对于串行队列是通过kqueue系统调用发起的，而并行队列只是通过添加线程。造成这个差异的原因是因为，如果我们向一个串行队列加入多个任务，这个任务是需要在一个线程中执行的，这样才能保证同一时间只能有一个任务在执行，而发起kevent_id系统调用的时候有会传入一个<code>dispatch_kevent_s</code>结构体来标识队列对应的线程，每次添加任务，可以保证加入的是一个线程中。</p>
 <p>而对于并行队列，因为同一时间可以执行多个队列中的任务，所以添加任务的时候直接可以添加一个新线程，当然不可能每添加一个任务就开辟一个新线程，当分配的线程执行完一个并行队列任务之后，将可以用来执行之后新加入的任务，类似一个线程池的概念，在代码里我们可以看到没有针对并行队列的并发量做限制，所以这也是为什么我们在使用并发队列的时候，没有直接指定并发数量的API。</p>
@@ -636,7 +636,7 @@ _dispatch_lane_non_barrier_complete(dq, <span class="hljs-number">0</span>);
 <p><code>_dispatch_sync_function_invoke_inline</code>就是在当前线程，首先保存线程的上下文，然后执行提交的任务，回复之前执行的上下文。
 <code>_dispatch_lane_non_barrier_complete</code>处理执行完任务的清理工作，是否释放队列等等的操作。</p>
 <h3 data-id="heading-12">小结</h3>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2f80b9d6a9c54ec483802c392c5af2ab~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2f80b9d6a9c54ec483802c392c5af2ab~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="dispatch-queue-create.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>以上可以看出同步派发相比异步派发来说，其实现简单了许多。同步派发就是在当前的线程直接执行提交的任务。对于串行，因为不能同时执行多个，需要判断当前队列是不是有正在执行的任务，所以处理起来稍复杂些。而并行队列，不用关心当前是不是有任务正在执行，则直接在当前线程执行即可。当然任务执行完毕，都需要设置处理队列的状态。</p>
 <h2 data-id="heading-13">5.总结</h2>
 <p>本文简单介绍了串行和并行队列创建的实现，以及提交同步和异步任务的执行过程。其中的实现细节十分丰富，这里没能做到面面俱到，并且很多细节我也还需要探究。整套gcd的实现不仅仅是libdispatch中的代码，它还紧密的依赖pthread和xnu内核的实现。</p>

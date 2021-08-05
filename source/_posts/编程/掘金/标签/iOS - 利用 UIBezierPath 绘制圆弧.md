@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 21:50:12 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
 ---
 
 <div>   
@@ -32,7 +32,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62ba
 <li>clockwise：绘制方向，YES 为顺时针，NO 为逆时针</li>
 </ul>
 <p>相关参数的含义可以参考下图：<br>
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62bac38bcd497b49f9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>其实这还是比较容易理解的，<strong>要想一段圆弧，就得确定圆上的两点，然后选择某个方向（顺时针或逆时针）来连接两</strong></p>
 <p><strong>点。而确定圆上的点，可以通过确定圆心、半径和角度（或弧度）来实现。</strong></p>
 <p>看到这里，你大概理解理解这个 API 的使用了，但是 startAngle，endAngle 的传值是弧度，如果你不理解弧度的表</p>
@@ -45,7 +45,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62ba
 <li>从0 PI 的点开始逆时针数算是反方向的弧度，用负数表示</li>
 </ul>
 <p>注：PI 表示 π \piπ<br>
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f93fded566d24889a856bfb8bafd6f2d~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f93fded566d24889a856bfb8bafd6f2d~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>下面这些系统提供的宏，能帮助我们方便的表示圆上任意点的弧度。</p>
 <pre><code class="copyable">#define M_PI        3.14159265358979323846264338327950288   /* pi             */
 #define M_PI_2      1.57079632679489661923132169163975144   /* pi/2           */
@@ -53,14 +53,14 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62ba
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h1 data-id="heading-3">实战演练</h1>
 <p>我们要利用 UIBezierPath 绘制如下图形。<br>
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7c0ba8844853441fa1d00ab1d3f68ea8~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7c0ba8844853441fa1d00ab1d3f68ea8~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>我们将重点放在后面的圆弧绘制部分。可以按照如下步骤：</p>
 <ul>
 <li>确定圆心 center</li>
 <li>确定半径 radius</li>
 <li>确定起点和终点 startAngle，endAngle</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/499113c4d709495092f320616015dc83~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/499113c4d709495092f320616015dc83~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>
 <p>我们可以有如下设置</p>
@@ -76,7 +76,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eda387b634444c62ba
 <p>如果设置 clockwise 为 <code>YES</code> （顺时针）</p>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f3edeaac9f24652b6ee1bcfb8c6ca55~tplv-k3u1fbpfcp-no-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f3edeaac9f24652b6ee1bcfb8c6ca55~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="在这里插入图片描述" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>最终版参考代码如下：</p>
 <pre><code class="copyable">CGFloat radius = 40;
 CGPoint startPoint = CGPointMake(50, 200);
