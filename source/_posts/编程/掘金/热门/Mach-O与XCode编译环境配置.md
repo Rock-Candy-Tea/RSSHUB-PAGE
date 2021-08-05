@@ -77,8 +77,11 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f18412e691e84290b7
 <h3 data-id="heading-6">对库瘦身</h3>
 <ol>
 <li>编译选项<code>-O1</code> <code>-Oz</code>之类的</li>
-<li><code>dead code strip</code>死代码剥离 (链接的过程中)</li>
-<li><code>strip</code>命令进行剥离符号（修改<code>mach-o</code>）</li>
-</ol></div>  
+</ol>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a4bd8718d0846e8bde8055e3e17ec01~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
+2. <code>dead code strip</code>死代码剥离 (链接的过程中)
+<img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cd16db8b05a1444f9b568e215f43c33d~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
+3. <code>strip</code>命令进行剥离符号（修改<code>mach-o</code>）</p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d8b302a98c04a0aa82fb2f279f92752~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p></div>  
 </div>
             
