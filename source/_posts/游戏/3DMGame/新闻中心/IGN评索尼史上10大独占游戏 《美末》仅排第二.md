@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210805/1628126856_1915
 今日（8月5日），IGN评出了索尼史上10大独占游戏作品，其中《战神4》夺得了IGN评选索尼10大独占的头名，《最后的生还者》排名第二，《漫威蜘蛛侠》排名第三。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210805/1628126856_191527.jpg" alt="IGN评索尼史上10大独占游戏 《美末》仅排第二" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210805/1628126856_191527.jpg" alt="IGN评索尼史上10大独占游戏 《美末》仅排第二" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 IGN评选规则：
