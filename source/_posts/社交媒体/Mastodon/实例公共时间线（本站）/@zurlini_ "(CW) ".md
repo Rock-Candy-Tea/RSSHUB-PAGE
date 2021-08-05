@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/037/962/279/original/cbba9e2bb2e52113.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/037/963/112/original/3cb1abcfb4bf9e0e.jpeg'
 author: Mastodon
 comments: false
-date: Thu, 05 Aug 2021 14:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/037/962/279/original/cbba9e2bb2e52113.jpeg'
+date: Thu, 05 Aug 2021 14:45:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/037/963/112/original/3cb1abcfb4bf9e0e.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】人妻プログラマーの誘惑（ネットゴーストPIPOPA）<br>投稿日：2016.1.17<br>2009年に放送されたアニメ。<br>子供向けのアニメでしたが、なんかエロさを感じたのは私だけでしょうか…<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://www.a-legend.net/wordpress/?p=4452" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=4452</a></p><br><img src="https://img.pawoo.net/media_attachments/files/037/962/279/original/cbba9e2bb2e52113.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【投稿記事を更新しました】<br>[イラスト] 【R-18】興奮する電波ＪＫとドエロ小悪魔ＪＫ （妄想テレパシー）<br>投稿日：2017.6.11<br>更新日：2021.8.5<br>友人の勧めで援助交際を始めた真面目ＪＫ２人<br>最初に出会った『パパ』に気に入られ、お...<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E5%A6%84%E6%83%B3%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC" class="mention hashtag" rel="tag">#妄想テレパシー</a><br><a href="https://www.a-legend.net/wordpress/?p=7292" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=7292</a></p><br><img src="https://img.pawoo.net/media_attachments/files/037/963/112/original/3cb1abcfb4bf9e0e.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/037/963/113/original/7be0c257b0eb6824.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             

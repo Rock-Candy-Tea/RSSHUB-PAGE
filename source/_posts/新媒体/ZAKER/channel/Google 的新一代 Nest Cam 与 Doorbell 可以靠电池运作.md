@@ -1,0 +1,18 @@
+
+---
+title: 'Google 的新一代 Nest Cam 与 Doorbell 可以靠电池运作'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/610bef006227686ef7000033_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 05 Aug 2021 06:28:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/610bef006227686ef7000033_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202108/610bef006227686ef7000033_1024.jpg" data-height="1031" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/610bef006227686ef7000033_1024.jpg" referrerpolicy="no-referrer"></div></div>Battery-powered Google Nest Cam and Doorbell<p></p><p>Google 今天更新了 Nest 产品线，带来了两款靠电池运作的新品、一款自带泛光灯的有线 Nest Cam 和一款更新版的有线 Nest Cam。两款无线产品中，首先是无线版的 Nest Cam，具备 130 度的视野，并且可以以 1080p 分辨率录製 30fps 的影像。它并且具备了 6x 的数码变焦及夜视能力，可以看到约 6 公尺外的景象，还有 IP54 的防水防尘，室外室内皆能安装。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202108/610bea488e9f097114194f17_1024.jpg" data-height="1125" data-width="2000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/610bea488e9f097114194f17_1024.jpg" referrerpolicy="no-referrer"></div></div>Battery-powered Google Nest Doorbell<p></p><p>至于无线的 Doorbell 则是门铃式的监视摄影机，有着 989 x 1280 的分辬率、30fps 的帧数、6x 数码变焦及 145 度的视野，夜视能力则是大约 3 公尺远。这分辨率稍微有些奇特，但其实就是直立的 3:4，让你能看到访客的全身。两台的电力长短取决于有多少录影事件，以及温度和设定等变化。Google 表示 Doorbell 充电一次能使用约 6 个月的时间，而 Nest Cam 则是可使用长达 7 个月。Doorbell 在电力用尽后可以透过 USB-C 充电，而 Nest Cam 则是透过 USB-A 转接器充电。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202108/610bea488e9f097114194f18_1024.jpg" data-height="1125" data-width="2000" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/610bea488e9f097114194f18_1024.jpg" referrerpolicy="no-referrer"></div></div>Battery-powered Google Nest Cam<p></p><p>两个无线产品都能储存最多 3 小时的视频历史，想要加长的话，就要订阅 Nest Aware 了。和 Google 旗下的其他 Nest 产品（包括电池版的 Nest Cam）不同，Doorbell 就算订阅了 Nest Aware Plus，也不提供全时录影的能力。但 Doorbell 本身就算断网了，也还能在机器上储存约 1 小时的影像，取决于访客来访的频繁度，大约是一个礼拜或更长的时间。待 Doorbell 重新连上网路后，会再将画面上传到云去。</p><p>在有线产品的部份，分别是升级版的普通 Nest Cam，还有首度搭载了泛光灯的版本。它们都有内建于机器上的机器学习系统，可以分辨人、车与动物；而 Doorbell 还能侦测并辨识近达离门约 20 公分的包裹。Google 为了训练这 AI，使用了多达 4,000 万张的影像，来涵盖各种环境与光照情况。由于这些辨识系统是做在机器上的，因此不用订阅云服务就能享用了。如果订阅 Nest Aware 云服务的话，则是可以额外自行设定「熟悉脸孔」了。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202108/610bea488e9f097114194f19_1024.jpg" data-height="1125" data-width="2000" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/610bea488e9f097114194f19_1024.jpg" referrerpolicy="no-referrer"></div></div>Google Nest Cam with floodlight<p></p><p>所有的 Nest Cam 和 Doorbell 皆能与 Google Home app 和其他像是 Nest 智能显示器等装置协同使用，Google 并表示 Nest 相机所有的数据都是加密的。电池版的 Nest Cam 和 Doorbell 定价皆为 US$180。附泛光灯的有线 Nest Cam 为 US$280，而第二代的有线 Nest cam 则为 US$100。后两者为「即将上市」。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
