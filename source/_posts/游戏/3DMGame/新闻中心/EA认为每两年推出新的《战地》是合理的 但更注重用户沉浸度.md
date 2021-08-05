@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210805/1628116494_4121
 EA表示每隔两年推出一个新《战地》游戏可能是合理的，但他们更重视用户在《战地》游戏上的沉浸度。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210805/1628116494_412172.jpg" alt="EA认为每两年推出新的《战地》是合理的 但更注重用户沉浸度" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210805/1628116494_412172.jpg" alt="EA认为每两年推出新的《战地》是合理的 但更注重用户沉浸度" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《<a target="_blank" href="https://www.3dmgame.com/games/battlefield2042/">战地2042</a>》定于今年10月发售，这距离《战地5》2018年11月发售几乎相隔了三年时间。在此之前，《战地》发售更加频繁：《战地3》2011年，续作2013年，衍生作《战地：硬仗》2014年，《战地1》2016年，《战地5》2018年。
