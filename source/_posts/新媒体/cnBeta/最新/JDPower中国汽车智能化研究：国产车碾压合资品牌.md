@@ -1,0 +1,19 @@
+
+---
+title: 'J.D.Power中国汽车智能化研究：国产车碾压合资品牌'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0805/b4691d3bddbf0ce.jpg'
+author: cnBeta
+comments: false
+date: Thu, 05 Aug 2021 08:23:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0805/b4691d3bddbf0ce.jpg'
+---
+
+<div>   
+<strong>8月5日，J.D. Power（君迪）正式发布2021中国汽车智能化体验研究SM（TXI）。</strong>研究显示，自主新势力品牌技术创新能力突出，智能化用户体验和先进技术配置的渗透率均领先于其他品牌阵营；主流传统能源汽车中，自主高端品牌技术创新水平力压合资品牌，依托智能化实现品牌向上之路。<br>
+<p style="text-align: left;">中国汽车智能化体验研究始于2020年，由中国汽车科技配置体验研究更名而来，该研究衡量了拥车期为2至6个月的新车车主对42项技术配置（其中26项为先进技术配置）的质量反馈和使用体验，同时结合配置装配率和使用率表现计算品牌创新指数（以1,000分计），对汽车品牌的整体创新能力进行评价。</p><p style="text-align: left;">具体排名来看，在主流传统能源汽车阵营中，国产车品牌大放异彩，前五排名均被国产品牌包揽，前十阵营中，国产车占据7席，合资品牌仅有三席位置。</p><p style="text-align: left;">其中，WEY、领克、一汽红旗，拿下前三名的位置。而日系车位于第二梯队，马自达、长按福特、广汽丰田、东风日产、北京现代、广汽本田也均都上榜，并且超越主流传统能源汽车平均水平。</p><p style="text-align: left;">至于德系大众，没有一家品牌上榜，智能化水平低于行业平均水平。</p><p style="text-align:center"><a href="https://img1.mydrivers.com/img/20210805/004c31241f634f39bee37fe53bccf01c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0805/b4691d3bddbf0ce.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">研究显示，2021年行业平均品牌创新指数为504分，其中，自主新势力在品牌创新指数（590分）及两大研究因子——功能表现指数和市场深度指数——方面的表现均领先于其他品牌阵营，主流传统能源汽车则以492分落后于行业平均水平及其他品牌阵营。</p><p style="text-align: left;">研究也发现，虽然主流传统能源汽车智能化整体发展水平相对落后，但其中自主高端品牌 的表现抢眼，以大比分领先于众多合资品牌，位居传统能源汽车前三甲。</p><p style="text-align: left;">以下为2021年研究的其他发现：</p><p style="text-align: left;">● 车企对引入先进技术配置较为谨慎：与2020年相比，先进技术配置的装配率提升有限，其中，电动车能量管理助手APP和原装行车记录仪装配率增加9个百分点，驾驶员监测增加7个百分点。而数字钥匙和领航辅助驾驶装配率增加不足1个百分点。</p><p style="text-align: left;">● 先进技术配置使用率稳步提升：与去年相比，两年研究都涵盖的14项先进技术配置的深度使用率均有不同程度的提升。</p><p style="text-align: left;">其中，经常使用或每次都使用人脸识别的车主比例提升19个百分点，倒车侧方预警和手势控制使用率提高17个百分点。</p><p style="text-align: left;">● “不易理解/难以使用”和“不稳定/不准确”导致了用户对先进技术配置的质量抱怨：车主抱怨最多的三项先进技术配置是流媒体后视镜（18.5个PP100，即每百辆车问题数）、远程泊车（17.7个PP100）和指纹识别（16.8个PP100），流媒体后视镜和远程泊车主要因为“工作不稳定/不准确”导致抱怨，指纹识别主要由于“不易理解/难以使用”导致抱怨。</p><p style="text-align: left;">● 用户对先进技术配置的有效性及响应速度的满意度有待提高：智能驾驶类配置的主要用户体验短板是有效性（7.14分，以10分计）、响应速度（7.15分）和实用性（7.16分），智能座舱类配置的用户抱怨亦集中在有效性（7.21分）和响应速度（7.22分），仅略好于对界面美观的满意度 （7.20分）。</p><p style="text-align: left;">2021年中国汽车智能化体验研究品牌创新奖</p><p style="text-align: left;">今年研究中共有三个细分市场符合颁奖条件。豪华传统能源汽车中，梅赛德斯-奔驰以550分排名第一，宝马和保时捷以534分并列第二。</p><p style="text-align: left;">主流传统能源汽车中，WEY以549分排名第一，领克（532分）和一汽红旗（521分）分别排名第二和第三，这三个品牌同时也是自主高端品牌。</p><p style="text-align:center"><a href="https://img1.mydrivers.com/img/20210805/937cb5db580f4cc28d0143c1f2dadeb1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/0805/67f9a4518c2595c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">主流新能源汽车中，小鹏以615分排名第一，特斯拉（597分）排名第二，理想（577分）排名第三。豪华新能源汽车因为可参与排名的品牌数量不足，因而没有奖项颁出。</p><p style="text-align: left;">2021中国汽车智能化体验研究（TXI）基于2020年6月至2021年3月之间购车的32,141位传统能源车主和2020年9月至2021年3月之间购车的3,976位新能源车主的真实反馈。</p><p style="text-align: left;">研究覆盖58个品牌的264款传统能源车型和28个品牌的50款新能源车型，数据收集工作于2020年12 月至2021 年5月间分别在70个中国主要城市进行。</p><p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20210805/cfdfa20fddad426d802a30aa0c5bbaa7.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0805/7e5dca38fea67ca.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0805/7e5dca38fea67ca.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0805/7e5dca38fea67ca.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

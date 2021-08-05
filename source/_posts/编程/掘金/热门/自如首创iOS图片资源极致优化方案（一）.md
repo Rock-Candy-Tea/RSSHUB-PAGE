@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Thu, 22 Jul 2021 17:12:20 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -26,7 +26,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be87
 <h3 data-id="heading-3">业界通常遇到的问题</h3>
 <p>问题：组件A里面有图片 x、y、z，组件B里面有q、r、x，这时候图片怎么管理？
 方案1：把图片和组件放在一起做成pod组件来使用，无论是通过bundle还是通过xcasset，都会出现图片x重复。很多第三方都是这么做，比如阿里的：
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16244379346304.jpg" loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be8721bcf34bb506dc~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="16244379346304.jpg" loading="lazy" referrerpolicy="no-referrer">
 这里面有俩问题
 1，图片可能和其他组件重复
 2，图片如果包含2x和3x，在出包的时候slicing就不会使用，xcasset本身在安装到具体手机的时候会自动选择使用2x还是3x，使用bundle或者指定asset目录的形式会使苹果的这一优化失效；另外，苹果会对xcasset里的png图片进行最优压缩，这一特性也会失效，从而导致包体无法缩减到最优状态</p>
@@ -34,13 +34,13 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d5fe8b14dec49be87
 许多工程优化过程中经常会经过这个阶段，所有图片都放到一个pod组件库里面，作为一个基础组件使用，这样就可以解决图片重复问题，而且图片可以统一管理和统一压缩，基本趋于完美的状态。例如：组件A用到图片 x、y、z，组件B用到q、r、x，图片组件M包含 x、y、z、q、r，这样只需要A依赖M，B依赖M，最终打包的时候仅包含这5张图片就可以实现需求，图片也没有重复
 这里存在一个问题
 1，如果公司还有另一个项目P1，P1需要用到B组件，这时候P1就会引入5张图片！如果按需索取的话，应该仅仅引入q、r、x即可，这样直接打破了组件跨app使用的通用性，资源完全耦合到这一个app里了！</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/796025bdbbdf43c18e164403e4e4f1f8~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16244390071539.jpg" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/796025bdbbdf43c18e164403e4e4f1f8~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="16244390071539.jpg" loading="lazy" referrerpolicy="no-referrer">
 如果把所有图片都放主工程xcasset里，结果和方案2是一样的</p>
 <h2 data-id="heading-4">自如资源管理无敌方案</h2>
 <blockquote>
 <p>简单来说，资源资源管理无敌方案就是云端管理图片和组件之间的关系，统计图片使用次数，云控3个月没有使用记录的图片</p>
 </blockquote>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9fef8221f2944debab1692ae8d603137~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16244397063915.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9fef8221f2944debab1692ae8d603137~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="16244397063915.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>以上是整体架构图，里面涉及到许多技术后面会慢慢讲，先说下这里如何解决的问题以及本方案的优势</p>
 <p>1，一般方案中图片重复的问题，本方案图片和组件建立一对一关系，通过云端统一管理，不会出现重复问题
 2，一般方案中的xcasset特性和slicing问题，本方案在打包期间实时从云端拉取图片，生成xcasset之后导入到工程，这些优质特性都会生效

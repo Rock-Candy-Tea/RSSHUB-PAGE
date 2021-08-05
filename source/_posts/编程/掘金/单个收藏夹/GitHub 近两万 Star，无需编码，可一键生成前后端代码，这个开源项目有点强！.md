@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 单个收藏夹
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Sat, 13 Mar 2021 20:36:50 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -199,9 +199,9 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459f
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-7">微服务整体解决方案</h3>
 <h4 data-id="heading-8">微服务架构图</h4>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9721198117794f459fc56eecaa44f903~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-9">Jeecg Boot 产品功能蓝图</h4>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7cd21262d990498e838bc7eb30fc29fb~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7cd21262d990498e838bc7eb30fc29fb~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-10">项目下载和运行</h3>
 <ul>
 <li>拉取项目代码</li>
@@ -228,31 +228,31 @@ yarn run lint
 <span class="copy-code-btn">复制代码</span></code></pre>
 <h3 data-id="heading-11">系统效果</h3>
 <h4 data-id="heading-12">大屏模板</h4>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/833a028a474144b0b6dd4460d842d275~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0589c221efa848949a955a62bbffe62b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/833a028a474144b0b6dd4460d842d275~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0589c221efa848949a955a62bbffe62b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-13">PC端</h4>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2532c8aab8c44caba8e97800657cc465~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/166b5bfe69db499cb5609216203afad4~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d4560b9504ac4254a3bc6d6b81dc609a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/94e76911d0484ec1b7b3f6472fdba378~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/defc90d5c9cd438d9c534308922a90df~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2532c8aab8c44caba8e97800657cc465~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/166b5bfe69db499cb5609216203afad4~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d4560b9504ac4254a3bc6d6b81dc609a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/94e76911d0484ec1b7b3f6472fdba378~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/defc90d5c9cd438d9c534308922a90df~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-14">在线接口文档</h4>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bb58df709ded4ccb8fbee8a7afaa8a50~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/be1d3b30ab3048f1ab88b661b885e69b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bb58df709ded4ccb8fbee8a7afaa8a50~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/be1d3b30ab3048f1ab88b661b885e69b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-15">报表</h4>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/091a6bb7edbd4666a94853eb5702481a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2fe47292ccd40e5b0650cfe46249a72~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/00e9bbc0e0b9476eb4032139e84eb96f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/091a6bb7edbd4666a94853eb5702481a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2fe47292ccd40e5b0650cfe46249a72~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/00e9bbc0e0b9476eb4032139e84eb96f~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-16">流程</h4>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b1d1394ed1834aaea23d809c87abd207~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b7a8ff0b76014f8197b61c7fe4ac64d8~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb63b7b931aa482db932f7465376100f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f6f526d897eb4b079c54980ea515e4f3~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b1d1394ed1834aaea23d809c87abd207~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b7a8ff0b76014f8197b61c7fe4ac64d8~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb63b7b931aa482db932f7465376100f~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f6f526d897eb4b079c54980ea515e4f3~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-17">手机端</h4>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/15456d5fc3624b24b445b41660c67b24~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/15456d5fc3624b24b445b41660c67b24~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-18">PAD端</h4>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/242594b39ab04df3827f54e040ce9e2f~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ca3ec54dd07340819d3916342e66290a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/242594b39ab04df3827f54e040ce9e2f~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ca3ec54dd07340819d3916342e66290a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-19">其他说明</h3>
 <ul>
 <li>项目使用的 vue-cli3, 请更新您的 cli</li>

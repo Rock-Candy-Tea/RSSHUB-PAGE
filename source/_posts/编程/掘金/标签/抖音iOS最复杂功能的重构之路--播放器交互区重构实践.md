@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 00:23:36 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -17,14 +17,14 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>本文以抖音中最为复杂的功能，也是最重要的功能之一的交互区为例，和大家分享一下此次重构过程中的思考和方法，主要侧重在架构、结构方面。</p>
 <h2 data-id="heading-1">交互区简介</h2>
 <p>交互区是指播放页面中可以操作的区域，简单理解就是除视频播放器外附着的功能，如下图红色区域中的作者名称、描述文案、头像、点赞、评论、分享按钮、蒙层、弹出面板等等，几乎是用户看到、用到最多的功能，也是最主要的流量入口。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="1.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de9687448bbf27c520~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="1.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-2">发现问题</h2>
 <p><strong>不要急于改代码，先梳理清楚功能、问题、代码，建立全局观，找到问题根本原因。</strong></p>
 <h3 data-id="heading-3">现状</h3>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d4fbfc3a65c4a5fb1a7b2fb6ee536f6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="2.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6d4fbfc3a65c4a5fb1a7b2fb6ee536f6~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="2.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>上图是代码量排行，排在首位的就是交互区的 ViewController，遥遥领先其他类，数据来源自研的代码量化系统，这是一个辅助业务发现架构、设计、代码问题的工具。</p>
 <p>可进一步查看版本变化：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/afc7600f267d4cfc82a921f182f629ec~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="3.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/afc7600f267d4cfc82a921f182f629ec~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="3.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>每周 1 版，在不到 1 年的时间，代码量翻倍，个别版本代码量减少，是局部在做优化，大趋势仍是快速增长。</p>
 <p>除此之外：</p>
 <ul>
@@ -145,7 +145,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p><strong>量</strong>：量是显性的，功能不断增加，相应的需要更多人来开发、维护，需要写更多代码，也就越来越难维护，这些是显而易见的。</p>
 <p><strong>关系</strong>：关系是隐性的，功能之间产生耦合即为发生关系，假设 2 个功能之间有依赖，关系数量记为 1，那 3 者之间关系数量为 3，4 者之间关系数量为 6，这是一个指数增加的，当数量足够大时，复杂度会很夸张，关系并不容易看出来，因此很容易产生让人意想不到的变化。</p>
 <p>功能的数量大体可以认为是随产品人数线性增长的，即复杂度也是线性增长，随着开发人数同步增长是可以继续维护的。如果关系数量指数级增长，那么很快就无法维护了。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2b29db1ba08c40fbbd49b7ded1ce7074~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="4.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2b29db1ba08c40fbbd49b7ded1ce7074~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="4.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-13">“变量”与“常量”</h2>
 <p>“变量”是指相比上几个版本，哪些代码变了，与之对应的“常量”即哪些代码没变，目的是：</p>
 <blockquote>
@@ -193,7 +193,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 </ul>
 <h2 data-id="heading-16">架构设计</h2>
 <p>下图是期望达到的最终目标形态，实施过程会分为多步，确定最终形态，避免实施时偏离目标。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0eb40cf59fbb4cc6b9e39464ecc88d5e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="5.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0eb40cf59fbb4cc6b9e39464ecc88d5e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="5.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <blockquote>
 <p>整体指导原则：简单、适用、可演化。</p>
 </blockquote>
@@ -297,9 +297,9 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>赋值时，processAppear 方法会根据 appear 状态更新 View 的状态，决定创建或销毁 View。</p>
 <h2 data-id="heading-24">数据流图</h2>
 <p>Element 的生命周期、更新时的数据流向示意图，这里就不细讲了。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cee94c4050dd42bba0d09b6c91c9854e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="6.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cee94c4050dd42bba0d09b6c91c9854e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="6.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-25">动画特效</h2>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/42c0a3e2c3b8471bb0f0d0bd2f81093e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="7.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/42c0a3e2c3b8471bb0f0d0bd2f81093e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="7.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>图中是实际需要支持的业务场景，目前是 ABTest 阶段，老代码实现方式主要问题：</p>
 <ul>
 <li>
@@ -318,7 +318,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>右侧单独隐藏头像、音乐单独处理即可</p>
 </li>
 </ul>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b487450263124899852bbe8ee4a5763e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="8.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b487450263124899852bbe8ee4a5763e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="8.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-26">扩展性</h3>
 <p>Element 之间无依赖，可以做到每个 Element 物理隔离，代码放在各自的业务组件中，业务组件依赖交互区业务框架层即可，独立的 Element 通过 runtime 形式，使用注册的方式提供给交互区，框架会将字符串的类实例化，让其正常工作。</p>
 <pre><code class="copyable">[self.container addElementByClassName:@"PlayInteractionAuthorElement"];
@@ -329,10 +329,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <h3 data-id="heading-28">容器管理</h3>
 <p>SDK 中仅提供了容器的抽象定义和实现，在业务场景中，需要结合具体业务场景，进一步定义容器的范围和职责。</p>
 <p>上面梳理了功能中将整个页面分为左侧、右侧、底部 3 个区域，那么这 3 个区域就是相应的容器，所有子功能都可以归到这 3 个容器中，如下图：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9479a02aeace4e049aab411aa6d60ed9~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="9.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9479a02aeace4e049aab411aa6d60ed9~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="9.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-29">协议</h3>
 <p>Feed 是用 UITableView 实现，Cell 中除了交互区外只有播放器，因此所有的外部调用都可以抽象，如下图所示。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfd893a4e4014f63b51cd8ad98aad59d~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="10.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfd893a4e4014f63b51cd8ad98aad59d~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="10.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>从概念上讲只需要 1 个交互区协议，但这里可以细分为 2 部分：</p>
 <ul>
 <li>
@@ -398,17 +398,17 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 </ul>
 <h3 data-id="heading-33">方法派发</h3>
 <p>业务框架层中定义的协议，需要框架层调用，SDK 层是感知不到的，由于 Element、Manager 众多，需要一个机制来封装批量调用过程，如下图所示：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e58f471c33cd40e3a98a0922b766bc79~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="11.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e58f471c33cd40e3a98a0922b766bc79~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="11.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-34">分层结构</h3>
 <p>旧交互区使用了 VIPER 范式，抖音里整体使用的 MVVM，多套范式会增加学习、维护成本，并且使用 Element 开发时，VIPER 层级过多，因此考虑统一为 MVVM。</p>
 <h2 data-id="heading-35">VIPER 整体分层结构</h2>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9d60c6a24a3b4036bf65bbff7deb633e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="12.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9d60c6a24a3b4036bf65bbff7deb633e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="12.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-36">MVVM 整体分层结构</h3>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/423483be59a643fea11031760376081c~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="13.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/423483be59a643fea11031760376081c~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="13.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>在 MVVM 结构中，Element 职责和 ViewController 概念很接近，也可以理解为更纯粹、更专用的的 ViewController。</p>
 <p>经过 Element 拆分后，每个子功能已经内聚在一起，代码量是有限的，可以比较好的支撑业务开发。</p>
 <h3 data-id="heading-37">Element 结合 MVVM 结构</h3>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e26e29d6b6844cb94c5cba498ca6663~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="14.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e26e29d6b6844cb94c5cba498ca6663~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="14.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>
 <p>Element：如果是特别简单的元素，那么只提供 Element 的实现即可，Element 层负责基本的实现和跳转</p>
@@ -457,7 +457,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>上面已经多次说到功能的重要性，需要考虑重构后，功能是否正常，如果出了问题如何处理、如何证明重构后的功能和之前是一致的，对产品数据无影响。</p>
 <h3 data-id="heading-42">实施策略</h3>
 <p>基本思路是实现一个新页面，通过 ABTest 来切换，核心指标无明显负向则放量，全量后删除旧代码，示意图如下：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c67bf0018ad9439c9fc8fddcaef8d271~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="15.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c67bf0018ad9439c9fc8fddcaef8d271~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="15.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>共分为三期：</p>
 <ul>
 <li>
@@ -470,7 +470,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>三期内容：删掉旧 VC、ABTest，协议、新 VC 保留，完成替换工作</p>
 </li>
 </ul>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/707f1c0069c14eff930ed159561df4ee~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="16.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/707f1c0069c14eff930ed159561df4ee~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="16.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>其中二期是重点，占用时间最多，此阶段需要同时维护新旧两套页面，开发、测试工作量翻倍，因此要尽可能的缩短二期时间，不要着急改代码，可以将一期做完善了、各方面的设计准备好再开始。</p>
 <h3 data-id="heading-43">ABTest</h3>
 <p>2 个目的：</p>
@@ -486,7 +486,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>在二期中，两套页面 ABTest 切换方式是有成本的，需求开发两套、测试两遍，虽然部分代码可共用，但成本还是大大增加，因此需要将这个阶段尽可能缩短。</p>
 <p>另外开发、测试两套，不容易发现问题，而一旦出问题，即便能用 ABTest 灵活切换，但修复问题、重新上线、ABTest 数据有结论，也需要非常长的周期。</p>
 <p>如果每个版本都出问题，那将会是上线、发现问题，重新修复再上线，又发现了新问题，无限循环，可能一直无法全量。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11d487a74b5847c082b8ed4454ed2dae~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="17.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11d487a74b5847c082b8ed4454ed2dae~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="17.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如上图所示，版本单周迭代，发现问题跟下周修复，那么需要经过灰度、上线灰度（AppStore 的灰度放量）、ABTest 验证（AB 数据稳定要 2 周），总计要 6 周的时间。</p>
 <p>让每个同学理解整体运作机制、成本，有助于统一目标，缩短此阶段周期。</p>
 <h2 data-id="heading-45">删掉旧代码</h2>
@@ -534,7 +534,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>需要明确的规则、机制防劣化，并持续投入精力维护。</p>
 <p>不是每个人都能理解设计意图，不同职责的代码放在应该放的位置，比如业务无关的代码，应该下沉到框架层，降低被破坏的概率，紧密的开发节奏，即便简单的 if else 也容易写出问题，例如再加 1 个条件，几乎都会再写 1 个 if，直至写了几十个后，发现写不下去了，再推倒重构，期望重构一次后，可以保持得尽可能久一些。</p>
 <p>更严重的是在重构过程中，代码就可能劣化，如果问题出现的速度超过解决的速度，那么将会一直疲于救火，永远无法彻底解决。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a26fb8bba0dd476b83445ce7593c3600~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="18.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a26fb8bba0dd476b83445ce7593c3600~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="18.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>新方案中，业务逻辑都放在了 Element 中，ViewController、容器中剩下通用的代码，这部分代码业务同学是没必要去修改，不理解整体也容易改出问题，因此这部分代码由专人来维护，各业务同学有需要改框架层代码的需求，专人来修改。</p>
 <p>各 Element 按照业务线划分为独立文件，自己维护的文件可以加 reviewer 或文件变更通知，也可以迁到业务仓库中，进行物理隔离。</p>
 <h3 data-id="heading-48">日志 & 问题排查</h3>
@@ -590,7 +590,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <h3 data-id="heading-52">ABTest 指标负向</h3>
 <p>ABTest 核心指标负向，是无法放量的，甚至要关掉实验排查问题。</p>
 <p>有个分享例子，分享总量、人均分享量都明显负向，大体经过这样几个排查过程：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8d2ab038d3534d65949d59b4fb84ee3d~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="19.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8d2ab038d3534d65949d59b4fb84ee3d~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="19.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>排查 ABTest 指标和排查 bug 类似，都是找到差异，缩小范围，最终定位代码。</p>
 <ul>
 <li>
@@ -613,11 +613,11 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>比如上面的问题，增加了功能后，不知道是否应该排除点击，很容易被忽略，长按属于底层逻辑，具体按钮属于业务细节，底层逻辑依赖了细节是不好的，可维护性很差，但是修改后，很可能影响交互体验和产品指标，尤其是核心指标，一旦影响，没有太多探讨空间。</p>
 <p>具体情况具体评估，如果预估到影响了功能、交互，尽量不要改，大重构尽可能先解决核心问题，局部问题可以后续单独解决。</p>
 <p>下面是长按面板中的分享数据截图，明显降低，其他来源基本保持一致，就不贴图了。</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/08f7ad3cf48c4ccab8c6c4c7a8a8a44a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="20.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/08f7ad3cf48c4ccab8c6c4c7a8a8a44a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="20.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>长按蒙层出现率降低 10%左右，比较自然的猜测蒙层出现率降低。</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29659521eed04b56b16cba6479549404~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="21.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29659521eed04b56b16cba6479549404~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="21.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>对比 View 视图差异确认问题。</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3b12d6cce9254b28be44b01be584161a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="22.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3b12d6cce9254b28be44b01be584161a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="22.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>类似的问题很多，ABTest 放量、全量过程要有充足的估时和耐心，这个过程会大大超过预期。抖音核心指标几乎都和交互区相关，众多分析师和产品都要关注，因此先理解一下分析师、产品和开发同学对 ABTest 指标负向的认知差别。</p>
 <blockquote>
 <p>大部分指标是正向，个别指标负向，那么会被判断为负向。</p>
@@ -629,7 +629,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <li>通过 slardar=>AB 实验=>指定实验=>监控类型=>崩溃 发现的，可以看到实验组和对照组的 crash 率，其他的 OOM 等指标也可以用这个功能查看</li>
 </ul>
 <p>下面是 crash 的堆栈，crash 率比较高，大约 50%的 iOS 9 的用户会出现：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bda08b10fa624269bb66c27b1a49f36e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="23.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bda08b10fa624269bb66c27b1a49f36e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="23.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>crash 堆栈在系统库中，无法看到源码，堆栈中也无法找到相关的问题代码，无法定位问题 ，整个解决过程比较长，尝试用过的方式，供大家参考：</p>
 <ul>
 <li>
@@ -657,7 +657,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>分析 crash 堆栈，通过 crash 最后所在的_layoutEngine、_addOrRemoveConstraints、_withUnsatisfiableConstraintsLoggingSuspendedIfEngineDelegateExists 3 个关键方法，找到调用路径，如下图所示：</p>
 </li>
 </ul>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c54624f4881e4331b3878ff8daf6f09b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="24.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c54624f4881e4331b3878ff8daf6f09b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="24.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>_withUnsatisfiableConstraintsLoggingSuspendedIfEngineDelegateExists 中调用了 deactivateConstraints 方法，deactivateConstraints 中又调用了_addOrRemoveConstraints 方法，和 crash 堆栈中第 3 行匹配，那么问题就出在此处，为方便排查，逆向出相关方法的具体实现，大体如下：</li>
 </ul>
@@ -737,7 +737,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/01a13a8511fb44de96
 <p>在讨论什么时候开始前，可以先看个词，工作中有个流行词叫 ROI，大意是投入和收益比率，投入越少、收益越高越好，最好是空手套白狼，这个词指导了很多决策。</p>
 <p>重构无疑是个费力的事情，需要投入非常大的心力、时间，而能看到的直接收益不明显，一旦改出问题，还要承担风险，重构也很难获得其他人认可，比如在产品看来，功能完全没变，代码还能跑，为什么要现在重构，新需求还等着开发呢，有问题的代码就是这样不断的拖着，越来越严重。</p>
 <p>诚然，有足够的痛点时重构是收益最高的，但只是看起来，真实的收益是不变的，在这之前需要大量额外的维护成本，以及劣化后的重构成本，从长期收益看，既然要改就趁早改。决定要做比较难，说服大家更难，每个人的理解可能都不一样，对长期收益的判断也不一样，很难达成一致。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b74759f1ceb42f990ef30913865d950~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="25.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b74759f1ceb42f990ef30913865d950~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="25.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>思者众、行者寡，未知的事情大家偏向谨慎，支持继续前行的是对技术追求的勇气。</p>
 <blockquote>
 <p>重构最好的时间就是当下。</p>

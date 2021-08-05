@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 单个收藏夹
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Tue, 15 Sep 2020 09:44:58 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c
 <p><code>LLDB</code>是个开源的内置于<code>XCode</code>的调试工具，它能帮助我们在开发中更快的定位和调试<code>bug</code>，无论正向和逆向开发中都有很大的作用。<strong>lldb</strong>对于命令的简称，是<strong>头部匹配方式，只要不混淆(不提示歧义)，你可以随意简称某个命令</strong>。</p>
 <h3 data-id="heading-1">xcode调试区</h3>
 <p>下面是xcode debug区域的按钮讲解
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="Xcode调试区按钮讲解" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96ab69fd24824e9b9c92aae14995521b~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="Xcode调试区按钮讲解" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-2">二、调试技巧</h1>
 <h3 data-id="heading-3">单步调试</h3>
 <p>单步调试通常分为两大类，一类为<code>源码级别（source level）</code>，一类为<code>指令级别（instrution level）</code>。一行源代码一般需要多行汇编才可以实现，所以当我们越狱开发调试汇编指令单步调试需要用到（instrution level）指令级别。而<strong>每一大类又分为step-in和step-over，step-in会进入函数调用，而step-over会跳过函数调用</strong>。</p>

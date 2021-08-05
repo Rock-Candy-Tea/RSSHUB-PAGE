@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Sun, 11 Jul 2021 17:26:57 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -18,10 +18,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f1696
 <p><strong>目前RxSwift编写wanandroid客户端已经开源了——<a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FseasonZhu%2FRxStudy" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/seasonZhu/RxStudy" ref="nofollow noopener noreferrer">项目链接</a>。记得给个star喔！</strong></p>
 <p><strong>附上一张效果图片：</strong></p>
 <div align="center">
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="RPReplay_Final1625472730.2021-07-05 16_13_58.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f169664979574888f2a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="RPReplay_Final1625472730.2021-07-05 16_13_58.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 </div>
 <p><strong>本篇文章是从6月更文中热心网友的留言中进行的开发与探索：</strong></p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d89d64b571b44f8782b908dbf2e9449e~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="Snip20210709_1.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d89d64b571b44f8782b908dbf2e9449e~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="Snip20210709_1.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>6月确实因为日更的原因，这个功能没有实现，趁着7月的时候，解决了。</p>
 <p><strong>废话了这么多，那么我们进入主题吧。</strong></p>
 <h2 data-id="heading-2">什么是无感知上拉加载更多</h2>
@@ -83,7 +83,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8059a3160c6c4f1696
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>本代码可以在开源项目中的<code>SwiftCoinRankListController.swift</code>文件查看具体的逻辑，其主要就是通过cell显示的个数去提前请求加载数据，然后我们看看效果：</p>
 <div align="center">
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af5d4dd2f955452aa26656df8391c8e2~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="620A94AE4920C54C6E1B85E1776AC83C.2021-07-09 17_47_45.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af5d4dd2f955452aa26656df8391c8e2~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="620A94AE4920C54C6E1B85E1776AC83C.2021-07-09 17_47_45.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 </div>
 <p>Gif可能看起来还好，我说我调试的感受：</p>
 <p><strong>虽然做到了上拉无感知，但是当手滑的速度比较快的时候，到底了新的数据没有回来，就会在底部等一段时间。</strong></p>
@@ -101,7 +101,7 @@ tableView.mj_footer = footer
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>再来看看效果：</p>
 <div align="center">
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f2e7886b9c74422284e37aa4fb667774~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="992BC78FBAC7B8CB36A6DC679897DA21.2021-07-09 18_04_09.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f2e7886b9c74422284e37aa4fb667774~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="992BC78FBAC7B8CB36A6DC679897DA21.2021-07-09 18_04_09.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 </div>
 <p>直接说感受：</p>
 <p><strong>代码改动性少，编写简单，达到预期效果，爽歪歪。比方案一更丝滑，体验好。</strong></p>
@@ -109,17 +109,17 @@ tableView.mj_footer = footer
 <p>当然，不会，我们去看看源码吧。</p>
 <h2 data-id="heading-7">MJRefresh代码的追根朔源</h2>
 <p>首先我们看看<code>MJRefreshAutoFooter.h</code>文件：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5cd6a21ef454664b632965900438ae2~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5cd6a21ef454664b632965900438ae2~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这里有个专门的属性<code>triggerAutomaticallyRefreshPercent</code>去做自动刷新，那么我们去<code>MJRefreshAutoFooter.m</code>中去看看吧：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fa409909617349249a3dddbc9a0e5d15~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fa409909617349249a3dddbc9a0e5d15~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>注意看喔，这个.m文件有一个<code>- (void)scrollViewContentOffsetDidChange:(NSDictionary *)change</code>方法，并且还调用了<code>super</code>，从这个方法名中我们可以明显的得到<strong>当scrollView的contentOffset变化的时候进行回调的监听。</strong>，我们顺藤摸瓜，看看<code>super</code>是什么，会不会有新的发现：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b09a5c826e9f499e801b2116fb64f394~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b09a5c826e9f499e801b2116fb64f394~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>稍微跟着一下源代码，MJRefreshAutoFooter的继承关系如下：</p>
 <blockquote>
 <p>MJRefreshAutoFooter => MJRefreshFooter => MJRefreshComponent</p>
 </blockquote>
 <p>所以这个super的调用我们就去<code>MJRefreshComponent.m</code>里面去看看吧：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c9abaf3cb4664f51b9c893b7416fda7a~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c9abaf3cb4664f51b9c893b7416fda7a~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>通过上面的截图我们可以得到下面的一些信息与结论：</p>
 <ul>
 <li>
@@ -129,7 +129,7 @@ tableView.mj_footer = footer
 <p>该类并没有实现其具体方法，而是将其交由其子类去实现，这一点通过看<code>MJRefreshComponent.h</code>的注释可以得到：</p>
 </li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4d707e60883f44b4b9f13962d1ce6810~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4d707e60883f44b4b9f13962d1ce6810~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>MJRefreshComponent从本质上更像虚基类。</li>
 </ul>
@@ -138,7 +138,7 @@ tableView.mj_footer = footer
 <p>这次的实践，其实是从思路到寻找方法，最后再到源码阅读。</p>
 <p><strong>思路也许不困难，但是真正一点点实现并完善功能，每一步都并不容易，这次我也仅仅是继续使用了MJRefresh这个轮子。</strong></p>
 <p>想起有一天，在群里吹水看见的一张图：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7f2e06329724ac292834afd646599f6~tplv-k3u1fbpfcp-zoom-crop-mark:1280:960:0:0.image" alt="云程序员来了.jpeg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7f2e06329724ac292834afd646599f6~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="云程序员来了.jpeg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>灵魂拷问，直击人心，大部分时间我们不也是云程序员呢？</p>
 <p><strong>知行合一方能开拓新的天地。</strong></p>
 <h2 data-id="heading-9">参考文章</h2>
