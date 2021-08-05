@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 收藏集
-headimg: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image'
+headimg: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 24 Apr 2019 03:09:42 GMT
-thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -84,7 +84,7 @@ thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/
     <span>return</span> HelloStr + name
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>CSS:</p>
-<p></p><figure><img alt="CSS 文件的格式化" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="CSS 文件的格式化" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4d7d10616b385~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>可以看到，CSS 文件默认情况下是不能被格式化的，这个时间轮到 prettier 登场~</p>
 <h2 data-id="heading-2">用 prettier 对代码进行格式化</h2>
 <p>prettier 的官方解释是：</p>
@@ -96,7 +96,7 @@ thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/
 </ul>
 <p>它能和多种编辑器结合，对多种语言进行 format，所以 css 也不是话下。</p>
 <p>由于 vscode 默认有格式化的功能，安装了 prettier 插件后，prettier 也有格式化的功能以会造成冲突（对于html, js），这里编辑器会提示你，可以进行配置。</p>
-<p></p><figure><img alt="Prettier 格式化 html" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56f9e97ab~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="Prettier 格式化 html" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56f9e97ab~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>需要注意的是，vscode 和 prettier 会有很多默认配置，可以通过 <code>CTRL + ,</code> 快捷键进入配置界面进行管理，所有修改后的结果会保存在 <code>settings.json</code> 文件里。</p>
 <p>刚刚由于 vscode 默认的格式化程序和 prettier 冲突，经过选择后形成配置文件并写入 <code>settings.json</code>，如下：</p>
 <pre><code lang="json" class="copyable">&#123;
@@ -123,7 +123,7 @@ thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/
 </ol>
 <p>下面分别来说</p>
 <h3 data-id="heading-4">在项目内安装 eslint 及相关的包</h3>
-<p></p><figure><img alt="安装 eslint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fc91f2a~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="安装 eslint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fc91f2a~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>经过上面的操作，将 eslint 及相关的包安装到项目里了 <code>package.json</code>如下：</p>
 <pre><code lang="json" class="copyable">&#123;
   ...
@@ -161,7 +161,7 @@ thumbnail: 'https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/
 &#125;;
 <span class="copy-code-btn">复制代码</span></code></pre><p>这个配置文件的内容，是通过 <code>npx eslint --init</code> 自动生成的，当然你也可以手动配置，所有的选项这里都有中文说明：<a target="_blank" href="https://link.juejin.cn/?target=http%3A%2F%2Feslint.cn%2Fdocs%2Fuser-guide%2Fconfiguring" title="http://eslint.cn/docs/user-guide/configuring" ref="nofollow noopener noreferrer">eslint.cn/docs/user-g…</a></p>
 <p>接下来就可以手动执行校验了：</p>
-<p></p><figure><img alt="eslint lint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fa87b6a~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="eslint lint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fa87b6a~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>在执行的时候可能会有包未安装的提示</p>
 <blockquote>
 <p>Failed to load plugin vue: Cannot find module 'eslint-plugin-vue'</p>
@@ -207,7 +207,7 @@ D:\works\secoo\<span>test</span>\code-formatter\src\funs.js
 <p>这里要重点说一下的是，我们在 <code>.eslintrc.js</code> 的 <code>rules</code> 里加了 <code>'linebreak-style': ["error", "windows"]</code>，是由于不同系统间对换行的处理不同导致的，加这个规则来处理这个问题。</p>
 <h3 data-id="heading-5">给 vscode 安装 eslint 插件</h3>
 <p>走到这里我们已经可以校验 js 文件了，通过校验也发现了很多问题，但在 vscode里并没有错误提示，这就用到了 <strong><code>vscode</code></strong> 的另一个插件 <code>eslint</code>，安装完插件以后，在 vscode 里可以看到错误提示了：</p>
-<p></p><figure><img alt="eslint lint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fb1182b~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="eslint lint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4e2b56fb1182b~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <p>走到这里，我们离成功已经很近啦！</p>
 <h2 data-id="heading-6">让 pretter 根据 eslint 校验结果，对代码进行样式化</h2>
 <p>到目前为上，已经可以对 js 文件进行校验，甚至可以对 js 文件按规则进行修复了：</p>
@@ -229,7 +229,7 @@ D:\works\secoo\<span>test</span>\code-formatter\src\funs.js
     <span>"prettier.eslintIntegration"</span>: <span>true</span>
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre><p>这时再对 js 文件进行格式化，就能按照指定的规则执行了，具体操作如下：</p>
-<p></p><figure><img alt="prettier format follow eslint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4ee945b11b14b~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="prettier format follow eslint" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4ee945b11b14b~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h2 data-id="heading-7">校验并且格式化 vue 代码</h2>
 <p>这部分是最麻烦的，很多同学都在这里翻车......</p>
 <p>首先，要想 <code>vscode</code> 认识 <code>vue</code> 文件，需要安装插件 <code>vetur</code>，基本上安装好此插件后就可以开心的撸 vue 代码了，vetur 的默认配置如下：</p>
@@ -283,7 +283,7 @@ eslint 收到命令，将代码格式化
 </ol>
 <p>所以导致在最后一步走不下去了。</p>
 <p>至此配置基本已经完成，效果如下：</p>
-<p></p><figure><img alt="eslint-vue-fix" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4f08c6f302185~tplv-t2oaga2asx-zoom-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
+<p></p><figure><img alt="eslint-vue-fix" src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/4/24/16a4f08c6f302185~tplv-t2oaga2asx-zoom-in-crop-mark:1956:0:0:0.image" loading="lazy" referrerpolicy="no-referrer"><figcaption></figcaption></figure><p></p>
 <h2 data-id="heading-8">最后总结</h2>
 <p>最后总结一下，总共需要做那些工作</p>
 <ol>

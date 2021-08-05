@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Thu, 05 Aug 2021 01:00:49 GMT
-thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -30,26 +30,26 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd
 <p><code>Link Map</code> 是编译期间产生的产物 , ( ld 的读取二进制文件顺序默认是按照 <code>Compile Sources</code> - <code>GUI</code> 里的顺序 ) , 它记录了二进制文件的布局 .</p>
 <p>通过设置 <code>Write Link Map File</code> 来设置输出与否 , 默认是 <code>no</code> .</p>
 <p>如下图将 Write Link Map File设置为YES</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ce91e83ad274f33bd97832149d30dcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>修改完毕后 <code>clean</code> 一下 , 运行工程 , <code>Products</code> - <code>show in finder</code>, 如下图</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/333a016601324d028b1f44310dc944c4~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/333a016601324d028b1f44310dc944c4~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>如下图找到.txt文件</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f6d4f0560c29475f94b9b10479908125~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f6d4f0560c29475f94b9b10479908125~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>打开上图中的.txt文件如下</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1ce22f9c68a44adda70a6eb727aa3ce4~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1ce22f9c68a44adda70a6eb727aa3ce4~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>可以看到 , 这个符号顺序明显是按照 <code>Compile Sources</code> 的文件顺序来排列的</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ec8fd5926b44eb08d6e7163a2a701a9~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ec8fd5926b44eb08d6e7163a2a701a9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>四、具体如何实现二进制的重排</strong></p>
 <p><strong>4.1</strong></p>
 <p>来到工程根目录 , 新建一个文件 my_oder.order ， 随便挑选几个启动时就需要加载的方法 (我以ViewController中的方法举例子),</p>
 <p>my_oder.order 文件如下图</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e83749f46f1a43b0a4311b7b8cf779ce~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e83749f46f1a43b0a4311b7b8cf779ce~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>ViewController中的方法如下图</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e1be64b95fa2418d9416b03d84bcc6bf~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e1be64b95fa2418d9416b03d84bcc6bf~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>4.2 配置oder file文件路径 ，如下图</strong></p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/93be541e680b4f8aa33ca8f72bc7e041~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/93be541e680b4f8aa33ca8f72bc7e041~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>4.3重新运行 , 查看 <strong>工程的符号顺序</strong></strong></p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d15c4c78d0d14744975f41c657f9ad09~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d15c4c78d0d14744975f41c657f9ad09~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>可以看到 , 我们所写的这三个方法已经被放到最前面了 , 至此 ,</p>
 <p>生成的 <code>macho</code> 中距离首地址偏移量最小的代码就是我们所写的这三个方法 ,</p>
 <p>假设这三个方法原本在不同的三页 , 那么我们就已经优化掉了两个 <code>page fault.</code></p>

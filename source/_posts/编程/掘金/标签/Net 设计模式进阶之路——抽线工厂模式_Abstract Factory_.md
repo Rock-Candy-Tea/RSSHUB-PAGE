@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 06:44:07 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba
 <li>产品仅提供接口，而非具体的类</li>
 </ul>
 <p><strong>解决方案</strong>： 我们使用UML图来描述它。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dd896a41e524f0bba19df70bb0021d5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 图中可以看出，每个抽线工厂的子类，均负责不同部分产品的生成，合并在一起构成了对整体产品的构造。</p>
 <p>当然如果采用了生成器设计模式，那我们一般按照 <code>XXXAbstractFactory</code>来定义接口或实现类，这样其他童鞋看到这些类时，可以很快的Get到XXX点。</p>
 <p><strong>效果：</strong></p>

@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 author: 掘金
 comments: false
 date: Wed, 14 Jul 2021 02:37:03 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
 ---
 
 <div>   
@@ -100,7 +100,7 @@ shouldAllowExtensionPointIdentifier:(NSString *)extensionPointIdentifier
 <p>效果:</p>
 </li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-crop-mark:1956:0:0:0.image" alt="针对某个输入框禁用第三方键盘效果.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f70c2ee7f774fddaa3243e0c2c70ae9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="针对某个输入框禁用第三方键盘效果.gif" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>在这里，第一个输入框默认的样式，不禁用第三方键盘，第二个输入框禁用第三方键盘并且设置键盘样式为 <code>UIKeyboardTypeNumberPad</code></p>
 <p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fguoguangtao%2FYXCTool" target="_blank" rel="nofollow noopener noreferrer" title="https://github.com/guoguangtao/YXCTool" ref="nofollow noopener noreferrer">代码</a></p></div>  
 </div>

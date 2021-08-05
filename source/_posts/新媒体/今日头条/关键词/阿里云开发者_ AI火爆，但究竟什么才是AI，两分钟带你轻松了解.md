@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 今日头条
  - 关键词
-headimg: 'https://picsum.photos/400/300?random=1463'
+headimg: 'https://picsum.photos/400/300?random=5178'
 author: 今日头条
 comments: false
 date: Thu, 24 Sep 2020 04:01:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1463'
+thumbnail: 'https://picsum.photos/400/300?random=5178'
 ---
 
 <div>   
