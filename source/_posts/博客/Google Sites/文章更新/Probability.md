@@ -5,15 +5,15 @@ categories:
  - 博客
  - Google Sites
  - 文章更新
-headimg: 'https://picsum.photos/400/300?random=9630'
+headimg: 'https://picsum.photos/400/300?random=431'
 author: Google Sites
 comments: false
-date: Thu, 05 Aug 2021 14:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9630'
+date: Thu, 05 Aug 2021 23:20:07 GMT
+thumbnail: 'https://picsum.photos/400/300?random=431'
 ---
 
 <div>   
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Probability</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbyAoZSpfsrKvGSrnL8IJwEGzHyHYMY2typQyfk-ZHEtc_boE8iP/exec?mid=ACjPJvHYkDO0ozhWl1faNy52oIkkGvwDtANVI69ouJuvZRIi7VWldcr_-wwbVGcbuZIeVbvSfr2GAURQzZWsbI9tuBXai0uGWhALbSUZgNbnkC1K-gZZEEYfF9FmeFfUcXKEfThKsv8P9RU&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Probability" width="100%" height="550" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_1945332730"></iframe></div></div></div></div><br></div><div><br></div><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div></div></td></tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Probability</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbyAoZSpfsrKvGSrnL8IJwEGzHyHYMY2typQyfk-ZHEtc_boE8iP/exec?mid=ACjPJvG8wC1v4XKNVruo7bz9sYh_Jm7cD0tIQ0-LfJcp0Pwtw49SaaBLSkTUj8YRlBw4Wixt41hWtYDswKa3XzBK_RBdVHrIyE31dNLha0ZfOZLOevhsblQI-0mwqKBzwMQVFZ3ANsooe80&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Probability" width="100%" height="550" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_321207790"></iframe></div></div></div></div><br></div><div><br></div><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div></div></td></tr></tbody></table>
   
 </div>
             

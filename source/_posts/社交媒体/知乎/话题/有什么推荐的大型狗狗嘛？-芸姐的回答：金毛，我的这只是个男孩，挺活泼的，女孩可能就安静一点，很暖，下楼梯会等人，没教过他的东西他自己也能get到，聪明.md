@@ -1,0 +1,18 @@
+
+---
+title: '有什么推荐的大型狗狗嘛？-芸姐的回答：金毛，我的这只是个男孩，挺活泼的，女孩可能就安静一点，很暖，下楼梯会等人，没教过他的东西他自己也能get到，聪明'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/50/v2-c5ab1d9995ef99fbf6af8798ae021534_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 06 Aug 2021 00:13:35 GMT
+thumbnail: 'https://pica.zhimg.com/50/v2-c5ab1d9995ef99fbf6af8798ae021534_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>有什么推荐的大型狗狗嘛？</strong><br>芸姐的回答<br><p>金毛，我的这只是个男孩，挺活泼的，女孩可能就安静一点，很暖，下楼梯会等人，没教过他的东西他自己也能get到，聪明</p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-c5ab1d9995ef99fbf6af8798ae021534_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-a169a655f240a0a3cef693dd41d35c81_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-c5ab1d9995ef99fbf6af8798ae021534_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-c5ab1d9995ef99fbf6af8798ae021534_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-c5fc2aea4b0b0ed7fe8b55952f49c965_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-7433be58b3f1da9210c9f87b39722d2a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-c5fc2aea4b0b0ed7fe8b55952f49c965_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-c5fc2aea4b0b0ed7fe8b55952f49c965_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-5ece6ca4f07b2537ad9af9974e528290_720w.jpg?source=54b3c3a5" data-rawwidth="1440" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-da8d1fce591f6a560c2027df9441a10c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-5ece6ca4f07b2537ad9af9974e528290_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-5ece6ca4f07b2537ad9af9974e528290_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-bfa3de0f441c121608c9c22b6e65e7bd_720w.jpg?source=54b3c3a5" data-rawwidth="1440" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-20499364ba5a91c1b1d1c4d5139adf4e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-bfa3de0f441c121608c9c22b6e65e7bd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-bfa3de0f441c121608c9c22b6e65e7bd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-84fbf5fcd788bcfdfc46d7c3fe752a6a_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4277bee80858a8bd359d343393266c04_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-84fbf5fcd788bcfdfc46d7c3fe752a6a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-84fbf5fcd788bcfdfc46d7c3fe752a6a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

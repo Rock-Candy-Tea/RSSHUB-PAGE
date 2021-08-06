@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7736'
+headimg: 'https://pic1.zhimg.com/v2-75e6bcec820fd379b2f9806102c83014_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 05 Aug 2021 11:54:15 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7736'
+date: Thu, 05 Aug 2021 16:49:47 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-75e6bcec820fd379b2f9806102c83014_1440w.jpg'
 ---
 
 <div>   
-笨呆薪火的回答<br><br><p>小s这件事吧，说她冤也是有点冤，但说她不冤枉，却也是事实。</p><p>为什么说她有点冤枉呢？因为小s平常在台湾网民的评价从来都是「舔共亲中艺人」，是独派的眼中钉，一天到晚被台独嘲讽的那种艺人。</p><p>那为什么又说她不冤枉呢？因为她的政治立场也的确不是真正意义上的统派，大陆认知的统派是支持中华人民共和国统一台湾的统派，这类人在台湾地区的政治光谱被称作「红统」，而小s的政治立场显然不是如此。</p><p>小S对两岸认同的认知是接近龙应台那类的，她们认为自己是「中国人」，或至少也是「文化意义上」的中国人。可是妳要说她真的认同大陆当局吗？显然是没有的。她们对两岸关系的认知，就是尽管台湾当局不是「真正的国家」，但至少也是和大陆当局对等的「政治实体」。她们或许支持不知何年的「终极统一」，但她们的统一，显然得是「经过台湾人民公投」的统一。</p><p>其实这类人的两岸立场时很尴尬的，妳要说她统吗？以台独的标准来看，她们简直统的不能再统了，完全是名符其实的「亲中卖台」，是「背叛自由民主的舔共艺人」。但以大陆的标准来看呢？那几乎又是接近正式称谓叫「华独」的「变种台独」。</p><p>理解这点后，才能明白为什么小s称呼戴资颖为「国手」。国手这词，在台湾地区就跟大陆运动员分国家一级运动员二级运动员不同等级一样，是种职级。而站在小s这种政治立场来看，她们固然不会支持原教旨台独的「把台湾从中华民国殖民下解放」或华独派的「台湾就是中华民国，中华民国已经是独立国家」的借壳上市，但她们都认同存在一个叫中华民国的「政治实体」，其主权范围名义上宣称包含大陆(甚至还包括外蒙古)，与台湾地区，但实际控制范围仅限「台澎金马地区」。</p><p>也就是说，她们不论是否认同蔡英文当局的正统与否，但不会否认其存在意义，自然也不会对改政权底下对运动员等级划分有异议。</p><p>至于我个人看法？</p><p>反正在我眼里，国党这些妖魔鬼怪甚至比民进党那派还可恶。这些从惠台政策中谋取利益的买办们，即使不计较当年国党政权在台的反动行为，也该好好清算他们的贪污腐败。</p><p>当然，小S本人不是什么政治人物，但光是她投资的黑心食品胖达人面包就够我记仇了。</p>  
+怪力乱神的回答<br><br><p><b>偶然看到这张图</b></p><p><b>大家真的应该存起来</b></p><p><b>最近这两个礼拜都很好用</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-75e6bcec820fd379b2f9806102c83014_1440w.jpg" data-rawwidth="750" data-rawheight="942" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-5b10d34fb8c49332f85780b25facdb39_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-75e6bcec820fd379b2f9806102c83014_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-f049006e8cb3f0b9e36a9a1e56d2b872_1440w.jpg" data-rawwidth="960" data-rawheight="530" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-0592d83646fc1d8b7959a220d72bd799_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-f049006e8cb3f0b9e36a9a1e56d2b872_r.jpg" referrerpolicy="no-referrer"></figure><p>冤有头债有主，来龙去脉说清楚，台湾几十年来持续不断对大陆输出敌意，而且力度和尺度都越来越大，到今天才终于换回一些来自大陆民众的敌意，讲道理，这已经是不可思议了，对岸应该感谢大陆官方几十年如一日和稀泥粉饰太平，这种事情以后只会越来越多。大陆老百姓们这二十多年来一直在被背叛、被伤害、被污蔑、被抹黑，基层民众早已寒了心、伤了心！</p><p><b>两岸之间以前那种可以模糊表达的空间已经快要消失殆尽，剩下的便是红线！</b></p><p>以前的“可争取对象”，放到现在大陆民众眼中便是助纣为虐的骑墙派，以前的“可团结的中间派”现如今便是想两头通吃却两头挨骂的反动派！</p><p>冰冻三尺绝非一日之寒，当善意和耐心耗尽，再也没人愿意和你们掰扯字眼，谁管你是台独还是独台，谁管你是不是既不支持独立也不支持统一的中间派，只要不支持祖国统一，你特么就是台独分子，就是敌人！</p><p>在即将到来的大气候面前，任何觉得可惜、委屈、矫情、理中客的情绪，甚至是姐夫力挺小姨子这种奇葩新闻，全部都是无病呻吟罢了，啥都不想多说，咱们就静静地等待那一天到来就好了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5a7b01dfdd5a11f1865c63accb69851c_1440w.jpg" data-rawwidth="1080" data-rawheight="4834" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-286c410a63ae25afcc9a7e188ad109e5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5a7b01dfdd5a11f1865c63accb69851c_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
