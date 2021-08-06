@@ -5,11 +5,11 @@ categories:
  - 金融
  - 每经网
  - 重磅原创
-headimg: 'https://picsum.photos/400/300?random=9485'
+headimg: 'https://picsum.photos/400/300?random=6945'
 author: 每经网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=9485'
+thumbnail: 'https://picsum.photos/400/300?random=6945'
 ---
 
 <div>   
@@ -34,7 +34,7 @@ thumbnail: 'https://picsum.photos/400/300?random=9485'
 
               <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E6%B2%B3%E5%8D%97%E7%9C%81" class="typeTag tagColor2">河南省</a>
 
-              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300109" data-stock-code="300109" class="typeTag tagColor1">新开源 <abbr class="highs">+1.2%</abbr> </a>
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300109" data-stock-code="300109" class="typeTag tagColor1">新开源 <abbr class="highs">+0.9%</abbr> </a>
 
         </div>
         <!-- div class="typeTags">

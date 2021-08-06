@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/037/974/561/original/2ad4dde8bc6aa425.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/037/975/569/original/dc000e92b133d8ae.jpeg'
 author: Mastodon
 comments: false
-date: Fri, 06 Aug 2021 04:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/037/974/561/original/2ad4dde8bc6aa425.jpeg'
+date: Fri, 06 Aug 2021 05:00:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/037/975/569/original/dc000e92b133d8ae.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] R-18用キャラクター （オリジナル：DIRTY SISTERS）<br>投稿日：2013.1.19<br>今後のR-18用キャラクターにしようかと。<br>決まったキャラでいじった方がやりやすいだろうという個人的な感覚から。<br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/ORIGINAL" class="mention hashtag" rel="tag">#ORIGINAL</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E8%90%BD%E6%9B%B8%E3%81%8D" class="mention hashtag" rel="tag">#落書き</a><br><a href="https://www.a-legend.net/wordpress/?p=1564" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=1564</a></p><br><img src="https://img.pawoo.net/media_attachments/files/037/974/561/original/2ad4dde8bc6aa425.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[イラスト] 【R-18】 ビッチな令嬢 （ガンダムＢＦ）<br>投稿日：2014.4.23<br>pixivに挙げた絵でパンツは白がいいとのコメントをいただいたので白バージョンをこちらに挙げてみます。<br>台詞も見直してみました<br>ついでに年...<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%93%E3%83%AB%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA" class="mention hashtag" rel="tag">#ガンダムビルドファイターズ</a><br><a href="https://www.a-legend.net/wordpress/?p=1959" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=1959</a></p><br><img src="https://img.pawoo.net/media_attachments/files/037/975/569/original/dc000e92b133d8ae.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
