@@ -56,7 +56,7 @@ CV. 石见 舞菜香
 喜欢照顾人而且信赖他人。想到事情便马上脱口而出，性格开朗率直。
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#E56600;font-size:16px;">WORLD</span></strong>
+<strong><span style="color:#E56600;font-size:16px;">WORLD</span></strong> 
 </p>
 <p style="text-indent:2em;">
 随着勇希提案想做有趣的事，开始的“学校大改造计划”。各自提出意见讨论商量，一开始做的是海滨之家风格的秘密基地！
