@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Thu, 05 Aug 2021 23:45:03 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -22,7 +22,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bb
 <p>今天这篇文章中，主要介绍下three.js中纹理贴图的模块，渲染一个 3D 物体时，网格 Mesh 决定了这个物体的形状态，如一个球，一辆车，一个人等。而纹理决定了这个物体的表面具体长什么样子。一个球包上一层篮球的花纹就是篮球了，而如果包上的是一层足球的花纹那可能就是足球了。</p>
 <h2 data-id="heading-1">二、概述</h2>
 <p>Three.Js 中为定义了多种多样的纹理，其类图如下。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="0585M36@OQ2&#125;&#125;5DD(T_0M3E.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35f9c74156a14be6bbc8b0a654c55fcd~tplv-k3u1fbpfcp-watermark.image" alt="0585M36@OQ2&#125;&#125;5DD(T_0M3E.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>纹理的基类是 Texture，一般我们都使用这个类，通过给其属性 Image 传入一个图片从而构造出一个纹理。纹理是材质的属性，材质和几何体 Gemotry 构成 Mesh ，然后被添加到 Scene 中进行渲染。<strong>纹理决定了物体的表面该是什么样子，而材质则决定了物体具备什么样的“气质”</strong>。</p>
 <h2 data-id="heading-2">三、纹理介绍</h2>
 <h3 data-id="heading-3">1、Texture</h3>
@@ -94,11 +94,11 @@ ctx.stroke();
 &#125;)
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>附上效果图</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b7aeace2b74f7eb31c91bf4831abdf~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt=")XHJAY%NAZSX&#123;V%W_VTL$CV.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b7aeace2b74f7eb31c91bf4831abdf~tplv-k3u1fbpfcp-watermark.image" alt=")XHJAY%NAZSX&#123;V%W_VTL$CV.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-5">3、DataTexture（数据纹理对象）</h3>
 <p>three.js数据纹理对象<a href="https://link.juejin.cn/?target=http%3A%2F%2Fwww.yanhuangxueyuan.com%2Fthreejs%2Fdocs%2Findex.html%23api%2Fzh%2Ftextures%2FDataTexture" target="_blank" rel="nofollow noopener noreferrer" title="http://www.yanhuangxueyuan.com/threejs/docs/index.html#api/zh/textures/DataTexture" ref="nofollow noopener noreferrer">DataTexture</a>简单地说就是通过程序创建纹理贴图的每一个像素值。</p>
 <p>程序生成一张图片的RGB值</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81eaec418b094b4b8f4fe6ae1854aed5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="A9%A3_I0~7&#125;@W$_@UUSS25A.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81eaec418b094b4b8f4fe6ae1854aed5~tplv-k3u1fbpfcp-watermark.image" alt="A9%A3_I0~7&#125;@W$_@UUSS25A.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <pre><code class="hljs language-js copyable" lang="js"><span class="hljs-keyword">var</span> geometry = <span class="hljs-keyword">new</span> THREE.PlaneGeometry(<span class="hljs-number">128</span>, <span class="hljs-number">128</span>); <span class="hljs-comment">//矩形平面 </span>
 <span class="hljs-comment">/** * 创建纹理对象的像素数据 */</span> 
 <span class="hljs-keyword">var</span> width = <span class="hljs-number">32</span>; <span class="hljs-comment">//纹理宽度 </span>
