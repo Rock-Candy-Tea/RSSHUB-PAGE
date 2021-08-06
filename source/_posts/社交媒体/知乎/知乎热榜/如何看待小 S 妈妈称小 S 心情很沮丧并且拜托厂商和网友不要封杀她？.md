@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4937'
+headimg: 'https://pic1.zhimg.com/v2-873445a51b7c5545f559ecfd7f9bc6ce_1440w.jpg'
 author: 知乎
 comments: false
-date: Fri, 06 Aug 2021 04:46:02 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4937'
+date: Fri, 06 Aug 2021 01:21:55 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-873445a51b7c5545f559ecfd7f9bc6ce_1440w.jpg'
 ---
 
 <div>   
-rainflycn01的回答<br><br><p>那她就站稳立场，支持红统啊。做中国人，继续挣中国人的钱。</p><p><b>不支持独，但是也不支持统，那是什么？那不就还是独？</b></p><p>看到最近的几个关于S的提问下，不少网友说，要团结“中间派”，不应该把S推过去。</p><p>第一，真想团结“伪中间派”，前三十年的政策已经证明了，对岛民，一直喂胡萝卜是没有用的！必须用胡萝卜+大棒。</p><p><b>第二，S在大陆有如此大的利益，这次依然不选择站过来。这充分说明，“团结”她，需要付出的利益太多，我们出不起。而且她也不愿意被“团结”。</b></p><p>所以想“团结”的网友，麻烦想清楚，看清楚，岛上已经没有几个可以团结的人了！</p><p>第三，大家担心，岛上没有认同统一的人了，所以要“团结”一些人，方便统一后，维持岛子的稳定。</p><p>基于第一点和第二点的分析，显然，只需要梧桐过去，“伪中间派”就会自动做顺民，团结他们的成本为0，我们只需要集中精力对付“激进毒派”就可以了。</p><p>想独的人，可以选择上街流血！</p><p>这才是最经济，最有效的方案！</p><p><b>所以还是封杀掉她吧！</b></p><p><b>正好让深蓝想一想，到底要站在哪一边！！</b></p><p>1949了，过来参加政协的，就不是中间派了，不过来的，这次就离开那个岛子吧。</p><p>形势变了，我们是不可能和他们划江而治的了！！</p><p>——————</p><p>贴一个旧答案，</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/1866113467" class="internal">rainflycn01：如何从历史人物的角度客观地评价马英九？</a><p></p>  
+爱死麦迪的回答<br><br><p>早上吃早饭的时候看了一期王炳忠最新的节目，对小S的评价我觉得很到位，<b>小S本身是一个无知的艺人，你让她了解一下什么是政治站队都是高看她一眼。</b></p><p>对于这件事情的解读台湾新党荣誉主席郁慕明老先生说的最到位，<b>小S她自己或许意识不到犯了什么错，但关键在于大陆民间已经对台湾忍无可忍，大陆民间的舆论早就是一个到处是瓦斯的地方，任何一点火花都有可能爆炸。</b></p><p><b>台湾人天天说大陆要尊重台湾民意，难道大陆没有民意吗？是2300万人的民意大还是14亿人的民意大？蓝营也好绿营也罢，都不要沾沾自喜现在还有一个安乐窝，要感谢大陆官方在压制民意，而台湾民众却完全看不到问题的严重性。</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-873445a51b7c5545f559ecfd7f9bc6ce_1440w.jpg" data-rawwidth="720" data-rawheight="540" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-a3035a9404fc712c5317b397d31124b1_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-873445a51b7c5545f559ecfd7f9bc6ce_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
