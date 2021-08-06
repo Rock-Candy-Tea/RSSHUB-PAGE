@@ -21,13 +21,11 @@ thumbnail: 'https://img1.mydrivers.com/img/20210806/s_1a415d6aee3649dba3524e07ca
 <p>车身尺寸方面，新车长宽高分别为4882/1820/1461mm，轴距为2954mm，相交现款车型全面加长，以及后排将有不错的乘坐舒适性。</p>
 <p>如果说外观和S级相似的话，全新C级内饰可以说直接“照搬”S级。<strong>中央竖屏尺寸达到11.9英寸，配合12.3英寸的仪表显示屏，让全新C级在内饰科技氛围层面依然可以领先同级竞品。</strong></p>
 <p>动力方面，新车将搭载由北京奔驰汽车有限公司所生产的1.5T直列四缸、1.5T直列四缸+48V、2.0T直列四缸三种不同动力，其最大功率分别为168马力、204马力、204马力。传动均匹配9AT变速箱。</p>
-<p>据悉，<strong>新车还配备了后轮转型系统，要知道比它高一个级别的宝马5系、奥迪A6L还从来没有配备过该功能，不过预计该功能将在顶配车型上配备。</strong></p>
+<p>据悉，<strong>新车还配备了后轮转向系统，要知道比它高一个级别的宝马5系、奥迪A6L还从来没有配备过该功能，不过预计该功能将在顶配车型上配备。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210806/1a415d6aee3649dba3524e07caad18cd.png" target="_blank"><img alt="中国特供立标！全新奔驰C级将上市：配置全面超越3系/A4L" h="322" src="https://img1.mydrivers.com/img/20210806/s_1a415d6aee3649dba3524e07caad18cd.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210806/1c9268b6563d4052aeb69c24c7d5f3cf.png" target="_blank"><img alt="中国特供立标！全新奔驰C级将上市：配置全面超越3系/A4L" h="282" src="https://img1.mydrivers.com/img/20210806/s_1c9268b6563d4052aeb69c24c7d5f3cf.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210806/3040c26e624e4c9f8315102298840b62.png" target="_blank"><img alt="中国特供立标！全新奔驰C级将上市：配置全面超越3系/A4L" h="376" src="https://img1.mydrivers.com/img/20210806/s_3040c26e624e4c9f8315102298840b62.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20210806/c1c064d634f64c819dbd1bbc274b0a45.png" target="_blank"><img alt="中国特供立标！全新奔驰C级将上市：配置全面超越3系/A4L" h="377" src="https://img1.mydrivers.com/img/20210806/s_c1c064d634f64c819dbd1bbc274b0a45.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-<p align="center"> </p>
 
            
            
