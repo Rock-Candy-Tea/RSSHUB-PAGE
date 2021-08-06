@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210806/1628203508_9645
 PS<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a>2新细节在一名开发者会议上被泄露出来。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210806/1628203508_964504.jpg" alt="索尼想为PSVR2开发主机品质的3A游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210806/1628203508_964504.jpg" alt="索尼想为PSVR2开发主机品质的3A游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 油管频道PSVR Without Parole爆料索尼在本周早些时候为PSVR2开发者召开了一个90分钟的闭门开发者峰会。后来外媒Upload 
