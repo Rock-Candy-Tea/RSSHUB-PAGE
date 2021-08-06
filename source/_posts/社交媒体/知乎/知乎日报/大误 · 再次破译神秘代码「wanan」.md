@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-06 12:10:20
-thumbnail: 'https://pic2.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162'
+date: 2021-08-06 13:17:34
+thumbnail: 'https://pic1.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-b41e85236411859ef7a539fbf60faaa5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">任粥，</span><span class="bio">世界是一首歌 要做个快乐的人</span>
 <a href="https://www.zhihu.com/question/349674802/answer/1241083492" class="originUrl" hidden>查看知乎原文</a>
 </strong>
