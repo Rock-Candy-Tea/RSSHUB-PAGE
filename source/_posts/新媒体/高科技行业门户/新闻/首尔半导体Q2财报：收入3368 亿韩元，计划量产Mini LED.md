@@ -1,0 +1,19 @@
+
+---
+title: '首尔半导体Q2财报：收入3368 亿韩元，计划量产Mini LED'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__8646247858f114511aa813ff35385141.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 06 Aug 2021 10:11:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__8646247858f114511aa813ff35385141.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">行家说快讯:</p><p style="text-indent: 2em; text-align: left;">8月5日,首尔<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>发布Q2财报。</p><p style="text-indent: 2em; text-align: left;">报告显示,2021 年第二季度报告收入为 3368 亿韩元(约合人民币19．05亿元),创历史新高。第二季度营业利润为 234 亿韩元(约合人民币1．32亿元),同比增长 70%。上半年净利润为 439 亿韩元(约合人民币2．48亿元),高于 2020 年全年净利润 290 亿韩元。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__8646247858f114511aa813ff35385141.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">公告表示,包括显示、通用照明和汽车在内的所有部门都继续保持两位数的增长,而汽车部门的收入同比增长了一倍,从而引领了增长。而显示方面的数据仍然占销售额的一半以上。</p><p style="text-indent: 2em; text-align: left;">“我们在季度开始时就担心汽车行业制造价值链中的半导体短缺。然而,由于 WICOP 的结构性增长,我们设法克服了逆风,我们的专利 LED 芯片技术具有强大的结构。随着我们的汽车部门进入长期增长阶段,今年 WICOP 现已应用于全球超过 102 款车型。”首尔的一位官员说。</p><p style="text-indent: 2em; text-align: left;">首尔半导体开发出的 WICOP 技术与传统芯片CSP不同,可以直接在普通组装线进行组装,无需封装制程。此外,由于其产品寿命长和导热效率高,WICOP 被积极应用于电视背光 LED。首尔半导体曾表示,Mini LED和Micro LED都可以采用Wicop技术。WICOP 芯片已应用于全球约 20% 的电视。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__095b5c56ebee4b08413103bb4f10e53a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">首尔半导体2021Q2销售额和利润</p><p style="text-indent: 2em; text-align: left;">公告中还显示,研发投资基本占销售额的7%左右,随着利用率逐步上升,开支也在逐渐增加以满足强劲的需求,产品库存天数低于行业平均水平。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__4f345b0a638eddd36961798fd14125cc.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">首尔半导体2021Q2投资和消费</p><p style="text-indent: 2em; text-align: left;">商业环境方面,首尔半导体表示现下机会和挑战并存。</p><p style="text-indent: 2em; text-align: left;">机会:</p><p style="text-indent: 2em; text-align: left;">1、LED产业持续重组2、将通过新技术的集中增长来克服风险。首尔半导体拥有能保证未来10年的雄厚专利技术基础。已在6个国家共胜诉39起专利诉讼案,并且Mini/Micro LED业务也在不断扩大。</p><p style="text-indent: 2em; text-align: left;">挑战:</p><p style="text-indent: 2em; text-align: left;">1、半导体供应引发的连锁反应2、下游的收益逐渐短缺3、竞技恢复速度低于预期4、新冠病毒的流行。</p><p style="text-indent: 2em; text-align: left;">最后,首尔预计其第三季度的收入将在 3400 亿韩元(约合人民币19．23亿元)至 3600 亿韩元(约合人民币20．36亿元)之间,同比增长3%至9%,这意味着又一个季度的收入将创历史新高。</p><p style="text-indent: 2em; text-align: left;">首尔在公告中表示Mini LED技术能使每台电视机的收入较传统背光提高3-5倍。“下半年,预计将开始量产作为下一代显示技术之一的 Mini LED。最重要的是,我们已经在上半年提高了资本支出,以应对对通用照明和汽车 LED 的乐观需求预测,”首尔官员说。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">据行家说新闻中心了解,首尔半导体今年多次关注Mini LED技术。</span></p><p style="text-indent: 2em; text-align: left;">今年,首尔半导体打入<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>电子Mini LED电视新产品Neo QLED的供应链,并已供应部分Mini LED,成为三星电子继三安光电后的第二供应商。</p><p style="text-indent: 2em; text-align: left;">在7月,首尔半导体与龙腾光电再次达成战略合作,正式签署《关于LED技术的全方位战略合作协议》。根据战略合作协议,双方将共同开展LED技术开发,重点推进Mini LED量产进程,以及Mini LED技术在车载产品、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%AC%94%E8%AE%B0%E6%9C%AC.HTM" target="_blank" title="笔记本">笔记本</a></span>电脑产品上的应用,实现从新型显示材料、产品方案到自主知识产权的全面生态布局。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">在业绩公告中,首尔半导体将Mini/Micro LED市场的扩大作为当前市场环境带来的机遇,并将其作为第三季度发展的关键点,正体现了未来首尔半导体持续发力Mini/Micro LED的决心。</span></p><br> 
+  
+</div>
+            
