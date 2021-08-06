@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Mon, 26 Jul 2021 00:43:23 GMT
-thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -20,7 +20,7 @@ thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae
 <h2 data-id="heading-1">常见的多线程锁</h2>
 <p>ios中常见的几种锁包括OSSpinLock、信号量(Semaphore)、pthread_mutex、NSLock、NSCondition、NSConditionLock、pthread_mutex(recursive)、NSRecursiveLock、synchronized</p>
 <p>如下所示，为前辈们测试锁性能的案例图(实际可能会略有偏差)：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="1899027-eb3ef0d444034362.webp" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a83f5c9d9514a86ae264bdd2b1a63ae~tplv-k3u1fbpfcp-watermark.image" alt="1899027-eb3ef0d444034362.webp" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>由于OSSpinLock目前已经不再安全，这里就放弃介绍，案例也把他给删了😂</p>
 <p>我们再选锁的时候，如果只是使用互斥锁的效果，那么按照性能排序选择靠前的即可，如果需要锁的一些其他功能，那么根据需要选择，不必过于局限于性能，毕竟实现功能与项目的维护也是非常重要的</p>
 <p>其他锁的使用如下所示</p>

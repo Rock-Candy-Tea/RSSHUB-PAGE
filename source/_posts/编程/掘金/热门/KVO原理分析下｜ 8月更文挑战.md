@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Sun, 01 Aug 2021 17:48:36 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -181,7 +181,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338d
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>工程中验证一下，在这个方法调用之前self.person指向的是派生类，这个之后指向的是Person类
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/927a8b1651f349338db525e6bc294bb5~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h4 data-id="heading-8">FaceBook的<code>FBKVOController</code>思考</h4>
 <p>KVO的麻烦的地方在于每次移除比较麻烦，观察和回调的代码段不是连续的比较分散，看起来写起来都比较费劲。而<code>FBKVOController</code>利用了中介者模式，函数响应式调用、不需要手动销毁，vc不需要关注释放，它下层已经做好了相关的工作。
 self-> _kvoCtrl -> FB单例 -> self.person</p>

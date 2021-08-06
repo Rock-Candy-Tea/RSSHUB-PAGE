@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Thu, 05 Aug 2021 04:07:12 GMT
-thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -65,12 +65,12 @@ Task.Run(() =>
         &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>经过几次测试，ETCD 3节点的读写性能指标出炉啦：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5664bdff12f4fa8b6e448bacf53390a~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>一口老血喷出，咋这么慢~</p>
 <p>经过和高手们沟通，确定这么慢的速度并不是ETCD的真实表现，应该是在虚拟机器人的硬盘速度太慢导致的，因此需要更改为SSD磁盘才能展示ETCD的真实实力。</p>
 <h1 data-id="heading-2">🎏 02.更换硬盘为SSD</h1>
 <p>复制一个虚拟机，是分分钟的事情，把其更改为SSD上后，再次测试，结果达到了理想状态。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f16b6ac80634fa2b69851665b69f4e7~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f16b6ac80634fa2b69851665b69f4e7~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>写的QPS达到了 1333 ，在这个配置下，已经很不错了。</p>
 <p>额外测试了下通知事件，其执行是在不同的线程ID内，因此消费端如果有业务，则需要保持事务性不冲突。</p>
 <p>另外，ETCD的优势是可以监控1组Key的变化，</p>
@@ -110,11 +110,11 @@ sub.Subscribe("channel1", (channel, val) =>
 &#125;);
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>整体的性能有了质的飞跃，这次应该比较接近理论值了：</p>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e17a73a7f1d04585878fb81b35c2adab~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e17a73a7f1d04585878fb81b35c2adab~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>写QPS达到了 24570；<br>
 读QPS也提升到： 19267；</strong></p>
 <p>对比下官方的<a href="https://link.juejin.cn/?target=https%3A%2F%2Fetcd.io%2Fdocs%2Fv3.4%2Fop-guide%2Fperformance%2F%23benchmarks" target="_blank" rel="nofollow noopener noreferrer" title="https://etcd.io/docs/v3.4/op-guide/performance/#benchmarks" ref="nofollow noopener noreferrer">BenchMarks</a>，感觉还是不错的。</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2862108a7d18483c9f1df1be074ca455~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2862108a7d18483c9f1df1be074ca455~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
 <h1 data-id="heading-5">🎏 05. 小结</h1>
 <p>ETCD应该是可以应用到业务中了，毕竟我们的业务并发量并没有那么高，可是这个场景也适合Redis啊，性能不是瓶颈，只是业务上需要做出一致性的保障，既然有DB的托底，应该也不是问题！</p>
 <p>所以架构永远是在折中，各种因素在里面，并没有说必须如何如何!</p>

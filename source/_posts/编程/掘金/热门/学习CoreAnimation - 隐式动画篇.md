@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Wed, 14 Jul 2021 01:46:37 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -75,7 +75,7 @@ UIView.commitAnimations()
 <p>如果动画时间超过了屏幕刷新时间，coreAnimation需要对屏幕上的图层进行重新组织，并被记录屏幕上每个图层属性的显示值，又被叫做呈现图层。呈现图层是一个独立的图层，可以通过presentationLayer获取呈现图层，<code>呈现图层实际上是模型图层的复制，但它的属性值代表了在任何指定时刻当前外观效果，可以通过获取它的值来获取屏幕上真正显示的值。</code></p>
 <p>呈现图层会在图层首次提交的时候被创建（在屏幕上第一次显示的时候）多数情况下，我们不需要直接去访问呈现图层。</p>
 <p><strong>·引用官方图片·</strong></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="7.4.jpeg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/85674b4e7d0240ba8390d0125bad5c90~tplv-k3u1fbpfcp-watermark.image" alt="7.4.jpeg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>·引用官方的代码·</strong></p>
 <p>##使用<strong>hitTest</strong>可以用来判断指定图层是否被触摸</p>
 <pre><code class="copyable">colorLayer.frame = CGRect(x: 0, y: 0, width: 100, height: 100)

@@ -1,0 +1,41 @@
+
+---
+title: 'Performance Thinking on Front End (Reactjs)'
+categories: 
+ - 编程
+ - 掘金
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=5289'
+author: 掘金
+comments: false
+date: Wed, 04 Aug 2021 18:54:39 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5289'
+---
+
+<div>   
+<div class="markdown-body"><style>.markdown-body&#123;word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1&#123;font-size:30px;margin-bottom:5px&#125;.markdown-body h2&#123;padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:18px;padding-bottom:0&#125;.markdown-body h4&#123;font-size:16px&#125;.markdown-body h5&#123;font-size:15px&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body img&#123;max-width:100%&#125;.markdown-body hr&#123;border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;border-radius:2px;overflow-x:auto;background-color:#fff5f5;color:#ff502c;font-size:.87em;padding:.065em .4em&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;text-decoration:none;color:#0269c8;border-bottom:1px solid #d1e9ff&#125;.markdown-body a:active,.markdown-body a:hover&#123;color:#275b8c&#125;.markdown-body table&#123;display:inline-block!important;font-size:12px;width:auto;max-width:100%;overflow:auto;border:1px solid #f6f6f6&#125;.markdown-body thead&#123;background:#f6f6f6;color:#000;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:#fcfcfc&#125;.markdown-body td,.markdown-body th&#123;padding:12px 7px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#666;padding:1px 23px;margin:22px 0;border-left:4px solid #cbcbcb;background-color:#f8f8f8&#125;.markdown-body blockquote:after&#123;display:block;content:""&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body .contains-task-list&#123;padding-left:0&#125;.markdown-body .task-list-item&#123;list-style:none&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><p>Performance is a big word, which you can see everywhere which many layers as Front End, Back End, Infrastructures, Scalable, ... So for this article, I talk the performance thinking on Front End, especially ReactJS which one of the popular UI libraries nowadays.</p>
+<p><strong>Disclaimer:</strong> As mentioned above, Performance is a huge thing, the article bases on my knowledge and experience so it might not cover everything, feel free to correct me by adding the comment if I was wrong</p>
+<h2 data-id="heading-0">Let's Performance Thinking as entire Application not only the benchmark</h2>
+<p>Nowadays you will hear new UI libraries or frameworks with better performance and impressive benchmark which make me have the feeling that libraries have racing about the performance but in the real world, the application is more complicated than only set the count...</p>
+<p>References:</p>
+<ul>
+<li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fkrausest.github.io%2Fjs-framework-benchmark%2Findex.html" target="_blank" rel="nofollow noopener noreferrer" title="https://krausest.github.io/js-framework-benchmark/index.html" ref="nofollow noopener noreferrer">krausest.github.io/js-framewor…</a></li>
+<li><a href="https://link.juejin.cn/?target=https%3A%2F%2Fjavascript.plainenglish.io%2Fjavascript-frameworks-performance-comparison-2020-cd881ac21fce" target="_blank" rel="nofollow noopener noreferrer" title="https://javascript.plainenglish.io/javascript-frameworks-performance-comparison-2020-cd881ac21fce" ref="nofollow noopener noreferrer">javascript.plainenglish.io/javascript-…</a></li>
+</ul>
+<p>To clarify, I wouldn't say benchmark is wrong, Benchmark is one of the factors to help us see how library performs on some scenarios but I would suggest that don't take it as the main reason to choose the library/frameworks because nowadays those popular libraries/frameworks have really good performance, most of the time we won't see different which libraries/frameworks should not us care about it.</p>
+<p>One of the good things about ReactJS is they have Facebook's environment with billions of users for verification, they will see differences in their matrix performance good or bad after any releases which other libraries/frameworks might figure out the problem after one or two years hence it might be too late and might need to re-build entire libraries/frameworks, AngularJS version 1.xx is a good example.</p>
+<h2 data-id="heading-1">Performance Thinking and Data Flow are close Friend</h2>
+<p>Most of the time, I see the reason performance issues or how to improve performance is data flow, the problem of how we manage our state management. When we have good data flow, it is automatic works pretty well because ReactJS is declarative UIs and they are really good at doing their jobs.</p>
+<p>Example:</p>
+<p>Designing Complicated Form which has a lot of components inside and we also need to collect all information user's selection to submit. At the same time we also re-fill it back when the user wants to edit hence declare <strong><em>defaultValue</em></strong> and <strong><em>value</em></strong> separately state to avoid re-render again. I can have another article in a more detailed Form and different ways how to implement it.ReactJS also has API useMemo, useCallBack to optimize performance so special scenarios but we optimize by moving state around. Here is a good article about it.
+<a href="https://link.juejin.cn/?target=https%3A%2F%2Foverreacted.io%2Fbefore-you-memo%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://overreacted.io/before-you-memo/" ref="nofollow noopener noreferrer">overreacted.io/before-you-…</a></p>
+<h2 data-id="heading-2">Performance Thinking and Caching, Graphql also are close Friend</h2>
+<p>Caching is hard, I would suggest that you don't need to implement it by yourself unless you have a strong reason. Otherwise, there are some good libraries supporting caching out of the box which you don't need to worry like</p>
+<ul>
+<li>React Query: <a href="https://link.juejin.cn/?target=https%3A%2F%2Freact-query.tanstack.com%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://react-query.tanstack.com/" ref="nofollow noopener noreferrer">react-query.tanstack.com</a></li>
+<li>ApolloGraphQL: <a href="https://link.juejin.cn/?target=https%3A%2F%2Fwww.apollographql.com%2Fdocs%2Freact" target="_blank" rel="nofollow noopener noreferrer" title="https://www.apollographql.com/docs/react" ref="nofollow noopener noreferrer">www.apollographql.com/docs/react</a></li>
+</ul>
+<p>GraphQL is an interesting topic which we can discuss in another article.</p>
+<p>Hope everyone enjoys, I will plan the following topic with more detail and practical example if you guy wants.</p></div>  
+</div>
+            

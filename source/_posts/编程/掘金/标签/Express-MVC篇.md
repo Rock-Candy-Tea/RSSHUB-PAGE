@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Wed, 04 Aug 2021 10:44:27 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -36,11 +36,11 @@ npm i sequelize
 npm i async
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>创建 user数据库</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d11de4c868947638971b90a8a1b6fb2~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>创建 user 数据表</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41eb4c7cd07441b3ad03481dbf34fcf4~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41eb4c7cd07441b3ad03481dbf34fcf4~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>添加模拟数据</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b16fe575bf484b1a8c938b9724cf5ef2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b16fe575bf484b1a8c938b9724cf5ef2~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-2">新增数据库配置文件</h2>
 <p>为了便于其他文件引用数据库对象，将数据库对象实例化放在一个单独的文件里，跟目录下创建 database目录，并在database目录下创建index.js文件 写入如下配置</p>
 <pre><code class="copyable">var Sequelize = require('sequelize')
@@ -176,7 +176,7 @@ router.get('/user', user.getList)
 
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>最终效果如下</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8407689754c14ce59b240ade1c911495~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8407689754c14ce59b240ade1c911495~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>以上就是本篇的全部内容了，非常感谢帅哥美女们能看到这里，如果这个文章写得还不错或者对你有一点点帮助，求点赞，求关注，求分享，当然有任何问题可以在评论讨论，我都会积极回答的，再次感谢😁</p></div>  
 </div>
             

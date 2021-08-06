@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Fri, 23 Jul 2021 00:02:39 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -44,7 +44,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 <p>初始态-2013(钻木取火)：<br>
 这一时期，百度App浏览器角色较重，大家都在一个工程里开发，各业务和基础逻辑交错，没有边界，你中有我、我中有你；UI架构比较复杂，每个RD都要从App主入口开始看懂主流程代码，小心翼翼的开发。<br>
 这一时期的架构是这样：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb1fea5754e1b015~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这一时期的主要问题有：</p>
 <ul>
 <li>一些基础库、甚至开源三方库都会有业务侵入；没有明确分层和防修改机制，入侵成本极低；</li>
@@ -63,7 +63,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 <li>组件除基础库外的依赖通过Adapter注入来实现。</li>
 </ul>
 <h4 data-id="heading-3">这一时期的架构是这样：</h4>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/995e0c8016b845bd97dbe3f5f47003ff~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/995e0c8016b845bd97dbe3f5f47003ff~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这一时期的主要问题有：</p>
 <ul>
 <li>组件归属的模糊性,部分组件游离在基础库和业务组件之间，同层组件间的依赖与调用关系不够清晰；</li>
@@ -73,10 +73,10 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 <p>2016-2017（电力时代）<br>
 这一时期重点建设了组件化框架（Pyramid、SchemeRouter）与分发框架(RemoteConfig、PMS、预取分发)，及数据拆分框架（CocoaSetting）；进一步保障了各组件能做到逻辑、数据各有归属；</p>
 <p>这一时期的架构是这样：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8a351f51477d4059a64a76b9620b9a7a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8a351f51477d4059a64a76b9620b9a7a~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>image</p>
 <h4 data-id="heading-4">2018-2019(理想态-核能时代)</h4>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2ab0b213887497784b761a589590914~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2ab0b213887497784b761a589590914~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这一时期，组件化框架相对完善，各组件已能做到逻辑、资源、数据各有归属。<strong>主工程进一步被弱化</strong>；</p>
 <ul>
 <li>层级更加明确清晰，游离与基础库层和业务组件层间的通用服务有了归属;组件可以自下而上的对外输出；</li>
@@ -87,7 +87,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 </ul>
 <p>组件化的进阶-中台化（星际远航）<br>
 中台化的大潮滚滚而来,除云端一体化复用外，对组件化也提出了其他的更高要求。共享组件库+构建系统(EasyBox)合力，已能达到矩阵产品组合输出能力。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f010beb8bce4d2d9f17337642ef47fb~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5f010beb8bce4d2d9f17337642ef47fb~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>image</p>
 <h4 data-id="heading-5">组件化的实现路径</h4>
 <p><strong>自下而上的组件化建设</strong></p>
@@ -112,7 +112,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 <p><strong>所有三方库更新到最新发布版并二进制化避免业务侵入；差异部分明确修改点，通过运行时单独打补丁；对外输出时，明确这一点。</strong></p>
 <h4 data-id="heading-8">3、建立运行时分发与隔离服务</h4>
 <p>为避免各组件对共有逻辑、共有数据集中式处理，建立容器及分发机制来分发事件、数据、以及逻辑调用。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/66c1005130804df1affeeef9cdfc813c~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/66c1005130804df1affeeef9cdfc813c~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>image</p>
 <p>Pyramid组件化框架：</p>
 <ul>
@@ -135,7 +135,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd57077715304736bb
 多业务调用的低依赖组件去业务化抽象成通用服务：账号、分享、云控、统计、性能、AI等<br>
 5、建立组件模型<br>
 建立组件模型，各业务模块快速组件化。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/08775de0992a4a2899b8c41bfb24381c~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/08775de0992a4a2899b8c41bfb24381c~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <p>image</p>
 <ul>
 <li>通俗的讲，就是指导各业务模块明确功能范围，做到逻辑、资源、数据、私有SDK各有归属；</li>

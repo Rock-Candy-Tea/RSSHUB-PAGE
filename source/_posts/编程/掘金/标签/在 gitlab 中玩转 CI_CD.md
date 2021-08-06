@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 标签
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Thu, 05 Aug 2021 23:05:08 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -32,9 +32,9 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be
     <span class="hljs-bullet">-</span> <span class="hljs-string">ruby</span> <span class="hljs-string">--version</span> <span class="hljs-number">6</span>
 
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210404014040" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be16305be8301684~tplv-k3u1fbpfcp-watermark.image" alt="20210404014040" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-2">任务目标</h2>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fab31db4624641ec98bf989a156d7c2b~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330104247" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fab31db4624641ec98bf989a156d7c2b~tplv-k3u1fbpfcp-watermark.image" alt="20210330104247" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>我们的任务目标是搭建一个 gitlab + gitlab-runner 的CICD环境，在代码触发时，启动构建动作，构建完毕后将代码推送到应用服务器上进行部署</p>
 <p>应用服务是是一个具备nginx的服务，他暴露了80端口允许你访问端口，应用我们选择前端的 <code>hexo</code> 博客系统，开箱即用</p>
 <h2 data-id="heading-3">准备</h2>
@@ -49,7 +49,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97fb594699f04cb0be
 <li>安装docker WSL2</li>
 <li>配置镜像加速源（可以自己申请阿里的一个镜像服务，免费的，或者直接使用下面的配置）</li>
 </ol>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b61b5204ad54cd8a93aab412c30354f~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210404013450" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b61b5204ad54cd8a93aab412c30354f~tplv-k3u1fbpfcp-watermark.image" alt="20210404013450" loading="lazy" referrerpolicy="no-referrer"></p>
 <pre><code class="copyable">&#123;
   "registry-mirrors": [
     "https://gk9l8m3a.mirror.aliyuncs.com"
@@ -91,7 +91,7 @@ docker run -d \
 docker logs -f gitlab
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>启动阶段要做较多的初始化工作，需要耐心等待。完成后可以通过 <code>80</code> 端口看到gilab。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5f3a60ca3b54374b5ed5cd1e288ed55~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330151758" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e5f3a60ca3b54374b5ed5cd1e288ed55~tplv-k3u1fbpfcp-watermark.image" alt="20210330151758" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>首次登陆需要重置密码，重置密码后即可进入系统</li>
 </ul>
@@ -112,7 +112,7 @@ docker <span class="hljs-built_in">exec</span> -it gitlab-runner bash
 <pre><code class="copyable">gitlab-ci-multi-runner register
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>注册时需要一个token参数，可以访问 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%2Fadmin%2Frunners" target="_blank" rel="nofollow noopener noreferrer" title="http://localhost/admin/runners" ref="nofollow noopener noreferrer">http://localhost/admin/runners</a> 这个页面去获取</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4fda9f9cbf2e409786f66dcd00dcd1ee~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210328171907" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4fda9f9cbf2e409786f66dcd00dcd1ee~tplv-k3u1fbpfcp-watermark.image" alt="20210328171907" loading="lazy" referrerpolicy="no-referrer"></p>
 <pre><code class="hljs language-bash copyable" lang="bash">> gitlab-ci-multi-runner register
 
 Runtime platform arch=amd64 os=linux pid=63 revision=943fc252 version=13.7.0
@@ -140,11 +140,11 @@ Runner registered successfully. Feel free to start it, but <span class="hljs-key
 <li>不要为 runner 指定 tag， 否则他将会被绑定了 tag 的 job 所使用</li>
 <li>executor 填 shell, 其他的不在本次实践范围</li>
 </ul>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f926e5fab32e4828ad6767abea4222af~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330163620" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f926e5fab32e4828ad6767abea4222af~tplv-k3u1fbpfcp-watermark.image" alt="20210330163620" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>然后点击编辑，将 lock 那一项给点掉</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ff247a2ff964c24b79001c1de7b730c~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330163658" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ff247a2ff964c24b79001c1de7b730c~tplv-k3u1fbpfcp-watermark.image" alt="20210330163658" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>最后返回列表你会看到</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a7a05a3052b4534bdeaf08d920592b6~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330161142" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a7a05a3052b4534bdeaf08d920592b6~tplv-k3u1fbpfcp-watermark.image" alt="20210330161142" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>为了能运行nodejs项目，还需要继续安装 <code>nodejs</code></p>
 <pre><code class="hljs language-bash copyable" lang="bash">apt update
 
@@ -172,19 +172,19 @@ docker run -d --name nginx \
     nginx:latest 
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>启动完毕后，8080端口就可以直接访问了 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%3A8080%2F" target="_blank" rel="nofollow noopener noreferrer" title="http://localhost:8080/" ref="nofollow noopener noreferrer">http://localhost:8080/</a></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c643b61f1860464690f816d5210a690f~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210404014242" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c643b61f1860464690f816d5210a690f~tplv-k3u1fbpfcp-watermark.image" alt="20210404014242" loading="lazy" referrerpolicy="no-referrer"></p>
 <h2 data-id="heading-9">搭建代码仓库和cicd</h2>
 <h3 data-id="heading-10">新建一个仓库</h3>
 <p>至此，runner 的执行环境基本做完了，接下来我们需要新建一个代码仓库，然后配置 CI/CD 的相关内容。</p>
 <p>我们需要先创建一个仓库</p>
 <p>访问 gitlab <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%2F" target="_blank" rel="nofollow noopener noreferrer" title="http://localhost/" ref="nofollow noopener noreferrer">http://localhost/</a>, 在 <code>project</code> 里面找到 <code>New Project</code></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3751323f1a604a4eab16ca13c9401c90~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210404014416" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3751323f1a604a4eab16ca13c9401c90~tplv-k3u1fbpfcp-watermark.image" alt="20210404014416" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>选择从一个模板中新建</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/05850fc2958c47dc9cc23066a95fb9b1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330141010" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/05850fc2958c47dc9cc23066a95fb9b1~tplv-k3u1fbpfcp-watermark.image" alt="20210330141010" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>找到 hexo 模板（一个静态化的博客系统）</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7bcb15f4ee654c2aac8db77fd50ac162~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330141031" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7bcb15f4ee654c2aac8db77fd50ac162~tplv-k3u1fbpfcp-watermark.image" alt="20210330141031" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>新建</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9885c09518144dd6988b1fb32b5a09bb~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210330141103" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9885c09518144dd6988b1fb32b5a09bb~tplv-k3u1fbpfcp-watermark.image" alt="20210330141103" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>新建完毕后，可以在根目录下面找到 <code>.gitlab-ci.yml</code> 文件</p>
 <h2 data-id="heading-11">测试CI/CD</h2>
 <p>模板默认已经配好了CICD，可以直接运行</p>
@@ -213,10 +213,10 @@ docker run -d --name nginx \
 
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>保存完毕后，CI/CD 就开始执行</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8ed26109801844448bfbc10760bc7bac~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210331134531" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8ed26109801844448bfbc10760bc7bac~tplv-k3u1fbpfcp-watermark.image" alt="20210331134531" loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-13">发布程序</h3>
 <p>CI/CD 执行完毕后，由于我们配置了 <code>artifacts</code> 参数，可以在 CI/CD 面板中下载构建产物</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac671481e5745a3bb684216bb9a949b~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210331172338" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac671481e5745a3bb684216bb9a949b~tplv-k3u1fbpfcp-watermark.image" alt="20210331172338" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>我们可以直接在应用服务器上面下载这个产物 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdocs.gitlab.com%2Fee%2Fci%2Fpipelines%2Fjob_artifacts.html%23access-the-latest-job-artifacts-by-url" target="_blank" rel="nofollow noopener noreferrer" title="https://docs.gitlab.com/ee/ci/pipelines/job_artifacts.html#access-the-latest-job-artifacts-by-url" ref="nofollow noopener noreferrer">细节看此链接</a></p>
 <pre><code class="hljs language-bash copyable" lang="bash"><span class="hljs-comment"># 访问ngx应用服务器</span>
 docker <span class="hljs-built_in">exec</span> -it nginx bash
@@ -226,7 +226,7 @@ docker <span class="hljs-built_in">exec</span> -it nginx bash
 curl --output artifacts.zip --header <span class="hljs-string">"PRIVATE-TOKEN: s8Y9J1g5Azof89zfhEhN"</span> <span class="hljs-string">"http://192.168.0.157/api/v4/projects/root%2Fblog/jobs/artifacts/master/download?job=pages"</span> 
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>命令中的 Ip 请修改成自己的IP，不要使用localhost, <code>root%2Fblog</code> 是项目路径 <code>root/blog</code> encode之后的，<code>PRIVATE-TOKEN</code> 需要在仓库的 <code>Setting -> access token</code> 获得</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/743551043ff94c03999d85237bc147f7~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210331174424" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/743551043ff94c03999d85237bc147f7~tplv-k3u1fbpfcp-watermark.image" alt="20210331174424" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>下载完毕后可以使用 <code>ls</code> 查看</p>
 <pre><code class="hljs language-bash copyable" lang="bash">root@d77810f38ca5:/usr/share/nginx<span class="hljs-comment"># ls</span>
 artifacts.zip  html
@@ -246,7 +246,7 @@ rm -rf html
 <span class="hljs-comment"># 将目录移到ngx配置目录</span>
 mv public html 
 <span class="copy-code-btn">复制代码</span></code></pre>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a0a9c212b2e4b6e8e78031ea929b2a9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="20210331180401" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a0a9c212b2e4b6e8e78031ea929b2a9~tplv-k3u1fbpfcp-watermark.image" alt="20210331180401" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>就可以看到结果了（样式问题是工程自己的问题）</p>
 <h3 data-id="heading-14">使用 <code>SCP</code> 直接在 <code>CI/CD</code> 中发布</h3>
 <p>未完待续</p>

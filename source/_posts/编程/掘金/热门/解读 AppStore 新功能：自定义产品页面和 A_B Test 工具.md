@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Sun, 18 Jul 2021 19:51:04 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <p>可能很多开发者还没有意识到，今年 WWDC21 推出 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fvideos%2Fplay%2Fwwdc2021%2F10295%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/videos/play/wwdc2021/10295/" ref="nofollow noopener noreferrer">《Get ready to optimize your App Store product page》</a> 是一个重磅功能！因为 iOS app 下载的地方，目前只有一个：<code>App Store</code>。所以，它是所有 app 能够提高暴光和决定用户是否下载最直接和最后的风口。如何包装好这个风口，最直接是影响下载量！而下载量意味着用户量。所以这个 Session 的重要性不言而喻，但是这个 Session 视频仅仅只有 8 分钟时间！为什么呢？咱们先留个伏笔，下文在解读。</p>
 <h3 data-id="heading-1">二、正文</h3>
 <p>大家好！今天小编又带大家一起吃瓜啦！咱们先来总结一下有那些 App Store 新功能，然后<strong>挖掘一些深度剖析的问题并尝试“解答”，最后分享一些 App Store 解读</strong>，最后，本文希望大家能有所<strong>收获</strong>哈~</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266156439879.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b551b9ac18f97338~tplv-k3u1fbpfcp-watermark.image" alt="16266156439879.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>首先，AppStore 产品页面优化有二个方面：</p>
 <ul>
 <li>自定产品页面</li>
@@ -44,9 +44,9 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 </ol>
 <p>目前只支持以上三种元数据的自定义，app 图标、app 名称、描述、副标题等暂时不支持。（为什么不支持？读者可以思考一下，下文会解读。）</p>
 <p>举例子来说，比如下面这个应用：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0c3c83659f0147308335fcb84d98f170~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266160583897.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0c3c83659f0147308335fcb84d98f170~tplv-k3u1fbpfcp-watermark.image" alt="16266160583897.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这是一个关于登山者的应用，第一个产品页面是 <code>默认产品页面</code>，也就是这个是默认的商店显示效果，但是这个默认的页面，针对所有用户都是一样的，所以，并不能让不同的兴趣爱好的用户都能第一时间了解到自己想要和关注的功能。举例来说，比如一些用户喜欢登山，而另一些用户可能只是喜欢看别人登山或享受山上风景，这时候开发者就可以利用自定产品页面，选择展示 app 直播的功能，吸引有兴趣实时关注登山者或将直播他们自己的登顶旅程的用户。诸如此类，创建突出显示 GPS 跟踪功能，以吸引有兴趣计划与一群朋友一起攀登的人。如果您开发一款游戏，您可以创建一个最吸引人的游戏角色或受欢迎的玩法，突出您游戏的截图或 app 预览的自定义界面。<strong>总之，您可以把您 app 的特色内容提炼成卖点，创建特色的自定义产品页面。</strong>（是不是很棒，可以点个赞！下面内容更赞哦~）</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac8e2e77f4c4aa2b143ebe9f9d9daf5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266176661670.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fac8e2e77f4c4aa2b143ebe9f9d9daf5~tplv-k3u1fbpfcp-watermark.image" alt="16266176661670.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>好了，咱们总结一下 <code>自定产品页面</code> 的功能：</p>
 <ul>
 <li>自定义元数据：
@@ -61,7 +61,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 </ul>
 <p><strong>可本地化</strong>就是可以针对某个语言创建自定义产品页面，最后，每个自定义的产品页面，都有自己唯一的 URL，因为自定义的产品页面，必须是通过单独的链接才能访问显示对应的自定义页面，而默认用户在商店看到的是：<code>默认产品页面</code>（Dafault product page）。</p>
 <p>说到这里，有读者可能会有这样的疑问：能自定义的 app 图标吗？不着急，小编在下文解读部门在分析啊。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2cd9ce56bab049fca64a3c8e145d9b8b~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266176768705.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2cd9ce56bab049fca64a3c8e145d9b8b~tplv-k3u1fbpfcp-watermark.image" alt="16266176768705.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>既然创建了自定义产品页面，那么目的也是很明确，做了事情就要看效果嘛！通过 App Store Connect 后台的 App Analytics 中可以查看每个页面的指标，包括：</p>
 <ul>
 <li>展示次数</li>
@@ -71,7 +71,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <li>每位付费用户的平均收益</li>
 </ul>
 <p>通过以上数据，了解某些页面如何转化用户，具体的数据和效果，目的不太确定，到时候大家可以试试看啊~</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ab9a4efd0fe47ee8603b8358c3eb2d8~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266184290852.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ab9a4efd0fe47ee8603b8358c3eb2d8~tplv-k3u1fbpfcp-watermark.image" alt="16266184290852.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>总结一下 <code>自定产品页面</code> 开发者可以提前准备什么：</p>
 <ul>
 <li>计划明确您的目标</li>
@@ -90,20 +90,20 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 </blockquote>
 <h4 data-id="heading-3">2.2 产品页面优化</h4>
 <p>以上说的 <code>自定产品页面</code> 功能，因为自定义的界面是通过单独唯一的链接访问，所以一般是用在推广渠道，针对某些兴趣的用户群体投放的广告等。那些在 App Store 里搜索或浏览 app 的用户，自定义产品页面起不到作用啊！所以，苹果就提出了优化的方案，通过设置和测试默认页面的不同处理方式，拆分每个页面的流量，给不同的用户展示不同的内容：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/230c2624009a4c9881158f88520a72fa~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266190429109.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/230c2624009a4c9881158f88520a72fa~tplv-k3u1fbpfcp-watermark.image" alt="16266190429109.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <ul>
 <li>原始产品页面</li>
 <li>测试产品页面</li>
 </ul>
 <p><code>Treatment</code> 可译为治疗、处理，此处小编翻译为<strong>测试</strong>比如好理解。也可以这样理解：<code>原始产品页面</code>（对照组）和 <code>测试产品页面</code>（实验组）。</p>
 <p>举例来说，有一个 app 的图标主色调是紫色，那如果换成红色图标后用户会不会更愿意下载 app 呢？换作以前是没有办法对比测试，只能换一个图标看看。而现在，苹果允许，一个 app 同时创建不同的 app 图标的产品页面进行对比测试：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41a912ddcba64add95d9aa0988e0ec11~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266196049939.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41a912ddcba64add95d9aa0988e0ec11~tplv-k3u1fbpfcp-watermark.image" alt="16266196049939.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>简单来说，开发者设置 <code>原始产品页面</code> 和 <code>测试产品页面</code>后，选择每一种获得总流量比例，比如原始产品页面设置为 70% 流量后，其它三种每个将获得 10% 流量。需要注意的时，按照控制变量法的原则，每个测试最好是只改变一个变量啊。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/088f40712ab84c8cb5bf53febddf4ee8~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266202825378.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/088f40712ab84c8cb5bf53febddf4ee8~tplv-k3u1fbpfcp-watermark.image" alt="16266202825378.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>涉及 app 图标测试时，我们要确保所有下载您 app 的用户都能获得一致的体验。因为，您的 app 图标是吸引 App Store 用户并在他们的主屏幕上脱颖而出的重要变量。简单来说，就是用户如果在商店看到你的 app 图标是红色，那么用户如果下载到手机的话，应该看到 app 的图标也是红色，这样才符合用户的预期！所以，<strong>测试 app 图标时，需要在 app 包体中包括对应的测试图标，也就是需要重新提交 app 更新审核</strong>。</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f07b616a178d49518be89854ed839f3c~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266203252869.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f07b616a178d49518be89854ed839f3c~tplv-k3u1fbpfcp-watermark.image" alt="16266203252869.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>另外，开发者还可以仅在特定的本地化语言中测试。例如，app 产品页面当前已本地化为英语、日语和韩语，则您可以选择仅以日语进行测试。这意味着任何看到您的产品页面的英语或韩语本地化版本的用户都不会参与测试。因为如果您的测试目的仅与您的本地化的一个子集相关，这使您可以灵活地专注于测试。简单来说，一些测试的内容可能与日本地区的文化背景和用户习惯有很大关联，调整的内容可能只针对日本地区用户展示，那么测试就没有必要干扰其它地区的用户，也更加精耕细作！另外，<strong>如果测试产品页面的图标转化效果更好，此时不能设置测试产品页面为默认的产品页面，需要提交 app 更新图标的重新送审。</strong></p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b86f5467d3e4dbfbed56a8d4788f9fe~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266205532546.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b86f5467d3e4dbfbed56a8d4788f9fe~tplv-k3u1fbpfcp-watermark.image" alt="16266205532546.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>既然优化产品页面测试有这些多变量控制，那么目的也是很明确，做了事情就要看效果嘛！通过 App Store Connect 后台的 App Analytics 中可以查看每个页面的指标，包括：</p>
 <ul>
 <li>展示次数</li>
@@ -112,7 +112,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <li>改进方案</li>
 </ul>
 <p>改进方案是指每种处理相对于基线（<code>原始产品页面</code>）的改进的指标，比如实验组的测试结果比原始产品页面效果更好，就改用实验组的产品页面等。有关如果在 App Analytics 中查看这些分析数据和更多详细信息，大家可以查看 “<a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fvideos%2Fplay%2Fwwdc2021%2F10115" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/videos/play/wwdc2021/10115" ref="nofollow noopener noreferrer">App Analytics 中的新功能</a>”。</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b5be1c061db2422aaa1ef640c04e9b2b~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266224678416.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b5be1c061db2422aaa1ef640c04e9b2b~tplv-k3u1fbpfcp-watermark.image" alt="16266224678416.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>总结一下 <code>优化产品页面</code> 开发者可以提前准备什么：</p>
 <ul>
 <li>形成强有力的假设</li>
@@ -145,7 +145,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <blockquote>
 <p>注：可以在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fproduct-page-updates%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/product-page-updates/" ref="nofollow noopener noreferrer">增强您的产品页面 - App Store - Apple Developer</a> 页面了解。</p>
 </blockquote>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9169b9dba68141b795d845967efbd83a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266224997979.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9169b9dba68141b795d845967efbd83a~tplv-k3u1fbpfcp-watermark.image" alt="16266224997979.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>自定义和优化产品页面这两个功能的所有操作，App Store Connect API 都将支持自动化的接口，完整的 API 规范将于今年晚些时候发布。</p>
 <p>最后的最后，以上所有的功能，到目前为止 7 月 19 号还没有看到详细的文档，苹果重新定义了 <code>later this year</code>。所以，下面就是本文的重头戏，小编带你解读产品页面功能！</p>
 <h4 data-id="heading-4">2.3 解读：产品页面功能</h4>
@@ -248,18 +248,18 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <p>目前苹果文档可以知道，针对一个测试产品页面，除了您的原始产品页面以外，您还可以尝试最多三种其他方案。但是，一个 app 最多可以有多少个测试产品页面呢？会不会是不限制？目前文档没有更新，所以我们只能猜猜啊~ 小编认为，测试期间最多可以持续 90 天，跟 TestFlight 保持一致，所以，测试产品页面，目前苹果应该是没有限制的或者说限制只能进步一种测试，一方面测试越多，测试流量怎么分配？不同的测试影响的效果怎么比较？数据怎么分析？所以，小编也认为，建议开发者要测试时，考虑限制每次测试的元数据数量，这样更容易确定具体是哪个元素产生了特定结果。</p>
 <h3 data-id="heading-5">三、总结</h3>
 <p>以上就是自定义和优化产品页面这两个功能的解读，最后，我们来总结一下，这些功能的影响，不忘初心，这些功能的最初的目的是什么？都是提高 app 暴光量和下载量，所以，苹果在 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fvideos%2Fplay%2Fwwdc2021%2F10171" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/videos/play/wwdc2021/10171" ref="nofollow noopener noreferrer">Meet in-app events on the App Store - WWDC21</a> 提供了app 活动事件的新功能：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21e82fdfcd224029b7cf63e620f7d584~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266617093722.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21e82fdfcd224029b7cf63e620f7d584~tplv-k3u1fbpfcp-watermark.image" alt="16266617093722.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>这个功能的重点是什么？苹果推荐位！</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b722ca289dc441dd800eb4a1321334fd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266617742714.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b722ca289dc441dd800eb4a1321334fd~tplv-k3u1fbpfcp-watermark.image" alt="16266617742714.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>在 App Store 中除了苹果推荐位、排行榜外，最重要的入口就是搜索，用户搜索一般只会查看首屏的 app，占据上风，并大大提高应用程序的可见度。所以大家会尽量通过各种方式占据首屏：</p>
 <p><strong>App 内购买项目</strong>
 通过 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fdeveloper.apple.com%2Fcn%2Fapp-store%2Fpromoting-in-app-purchases%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://developer.apple.com/cn/app-store/promoting-in-app-purchases/" ref="nofollow noopener noreferrer">推广 App 内购买项目</a> 可以让 app 占据更多的搜索位置，把竞品排掉，比如：</p>
-<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7333dba4f574e7eaf483e3e60a50c7d~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266639879996.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7333dba4f574e7eaf483e3e60a50c7d~tplv-k3u1fbpfcp-watermark.image" alt="16266639879996.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p><strong>关键词：App 名称</strong></p>
 <p>比如抖音，通过分裂多个 app 名称，把搜索关键词紧紧抓住了，竞品排到了第 5 位，用户要滚动二屏才能看到，并且极速版的大小与其它 app 并未有很大的差异：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6be21ccbdeda45a1914ff98ae7db4885~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266638986534.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6be21ccbdeda45a1914ff98ae7db4885~tplv-k3u1fbpfcp-watermark.image" alt="16266638986534.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>以上还是中国区没有开启 Apple Search Ads 的情况，苹果搜索广告将在 7 月 21 日上线中国大陆，也是一波新的流量红利。大家可能没有什么感觉，我们通过苹果官网看一组数据：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/358fcb4fb2844effb189d97ca5a29df3~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266635553264.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/358fcb4fb2844effb189d97ca5a29df3~tplv-k3u1fbpfcp-watermark.image" alt="16266635553264.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <blockquote>
 <p>1.来源：所有提供 Apple Search Ads 的国家和地区的 App Store 数据，2020 年。
 2.来源：Apple Search Ads 在所有已推出该服务的国家和地区的搜索结果数据，2020 年。
@@ -268,12 +268,12 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/752ed7c3d3b04e52b5
 <p>与搜索引擎优化（SEO）一样，App Store Optimization（ASO）是 iOS 平台非常重要的手段，包括关键字、评论和评级等。这里就不展开了，有兴趣的朋友，可以自行搜索了解更多。</p>
 <p><strong>搜索结果中已安装的App不再显示截图</strong></p>
 <p>另外，在 iOS 15 中，如果用户设备已经安装了此 app，那么搜索时，并不会显示此 app 的预览和截图，以 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fapps.apple.com%2Fcn%2Fapp%2Fid1558453472" target="_blank" rel="nofollow noopener noreferrer" title="https://apps.apple.com/cn/app/id1558453472" ref="nofollow noopener noreferrer">‎斗罗大陆：魂师对决</a> 为例：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3fd92d62347e4fcc8b729a759bba84ef~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266637955026.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3fd92d62347e4fcc8b729a759bba84ef~tplv-k3u1fbpfcp-watermark.image" alt="16266637955026.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>但是需要注意的是，app events（app 内活动）功能因为目前还没有上线，并且相关文档没有看到说明，所以目前不确认已经下载的 app 在搜索界面会不会显示 app 内活动，但从用户体验来说，应该显示才对！一起期待吧~</p>
 <p><strong>解读 A/B Test</strong></p>
 <p>开发者可以对 app 产品页面进行 A/B 测试，早在 2015 年的 Google Play 商店中已经有了，所以，开发者其实一直在 “催” App Store 提供原生 A/B 测试工具。而在今年 WWDC21 之前，开发者怎么进行 A/B 测试，马甲包，懂的自然懂，小编就不展开了啊。</p>
 <p>所以，苹果到底有没有计划开发 A/B 测试呢？ Epic 诉 Apple 法庭案件中有揭示：</p>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d9b3d8405ba44daea2dd67845cf774b8~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="16266651246320.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d9b3d8405ba44daea2dd67845cf774b8~tplv-k3u1fbpfcp-watermark.image" alt="16266651246320.jpg" loading="lazy" referrerpolicy="no-referrer"></p>
 <p>答案是：2017年，足足开发了 4 年？？？</p>
 <blockquote>
 <p>小编注：揭示文件下载链接(需要外网访问)：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fapp.box.com%2Fs%2F6b9wmjvr582c95uzma1136exumk6p989%2Ffile%2F814311935191" target="_blank" rel="nofollow noopener noreferrer" title="https://app.box.com/s/6b9wmjvr582c95uzma1136exumk6p989/file/814311935191" ref="nofollow noopener noreferrer">DX-4526.pdf</a> 。</p>

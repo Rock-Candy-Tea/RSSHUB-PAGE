@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Thu, 29 Jul 2021 02:01:38 GMT
-thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -50,13 +50,13 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8
 <ol>
 <li>先创建一个<code>_FBKVOInfo</code>实例，让后判断<code>objectInfosMap</code>之前是否存在，这个<code>info</code>实例，如果不存在则添加进去</li>
 </ol>
-<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="添加到表中.png" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2b3531e99d4197b8ec02103a5be2a1~tplv-k3u1fbpfcp-watermark.image" alt="添加到表中.png" loading="lazy" referrerpolicy="no-referrer">
 2.单列注册系统的observer</p>
 <p><code>[[_FBKVOSharedController sharedController] observe:object info:info]</code>
 其中做了一些状态的判断，如果状态为没有注册，就会移除。</p>
 <h2 data-id="heading-5">回调处理</h2>
 <p>在系统的方法里面做如下处理：</p>
-<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d670b276c184e348d144f4dda6a07fe~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="截屏2021-07-29 下午5.40.41.png" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3d670b276c184e348d144f4dda6a07fe~tplv-k3u1fbpfcp-watermark.image" alt="截屏2021-07-29 下午5.40.41.png" loading="lazy" referrerpolicy="no-referrer">
 如果是<code>block</code>方式，则<code>block</code>回调，如果是自定义<code>actions</code>，则调用自定义的action，如果实现了系统的回调方法，则调用系统的。</p>
 <h2 data-id="heading-6">移除观察</h2>
 <p><code>vc</code> 持有 <code>FBKVOController</code> 对象，<code>vc</code>控制释放的时候会调用vc的dealloc，也会调用，<code>FBKVOController</code> 对象的dealloc，如果在这个里面移除观察者，这不需要在每个控制器里面移除。</p>

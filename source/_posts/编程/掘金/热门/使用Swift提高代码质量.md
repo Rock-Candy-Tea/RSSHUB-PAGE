@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 热门
-headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Wed, 14 Jul 2021 05:11:31 GMT
-thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -89,7 +89,7 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e84
 <p>提示： 相比<code>ObjC</code>，Swift内部不需要使用<code>autorelease</code>进行管理。</p>
 </blockquote>
 <h1 data-id="heading-9">代码质量指标</h1>
-<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="代码质量指标" loading="lazy" referrerpolicy="no-referrer">
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f8f0f4ff0424a3e8415ae77e0d38a88~tplv-k3u1fbpfcp-watermark.image" alt="代码质量指标" loading="lazy" referrerpolicy="no-referrer">
 以上是一些常见的代码质量指标。我们的目标是如何更好的使用<code>Swift</code>编写出符合代码质量指标要求的代码。</p>
 <blockquote>
 <p>提示：本文不涉及设计模式/架构，更多关注如何通过合理使用<code>Swift</code>特性做部分代码段的重构。</p>

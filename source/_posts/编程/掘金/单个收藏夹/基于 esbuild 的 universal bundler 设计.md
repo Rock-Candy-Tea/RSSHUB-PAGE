@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 单个收藏夹
-headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+headimg: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-watermark.image'
 author: 掘金
 comments: false
 date: Tue, 16 Mar 2021 03:54:01 GMT
-thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image'
+thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-watermark.image'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b1449591
 <li>bundler: 将各个模块先编译为module graph，然后基于module graph做tree shaking && code spliting &&minify等优化，最后将优化后的module graph根据指定的format生成不同格式的js代码。</li>
 </ul>
 <h4 data-id="heading-3">LLVM和bundler的对比</h4>
-<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fimgtu.com%2Fi%2F6GJWJP" target="_blank" rel="nofollow noopener noreferrer" title="https://imgtu.com/i/6GJWJP" ref="nofollow noopener noreferrer"><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt="6.png" loading="lazy" referrerpolicy="no-referrer">GJWJP</a>
+<p><a href="https://link.juejin.cn/?target=https%3A%2F%2Fimgtu.com%2Fi%2F6GJWJP" target="_blank" rel="nofollow noopener noreferrer" title="https://imgtu.com/i/6GJWJP" ref="nofollow noopener noreferrer"><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b3fac78d9b14495919307f184b1daf9~tplv-k3u1fbpfcp-watermark.image" alt="6.png" loading="lazy" referrerpolicy="no-referrer">GJWJP</a>
 这也使得传统的LLVM的很多编译优化策略实际上也可在bundler中进行，esbuild就是将这一做法推广到极致的例子。
 因为rollup的功能和架构较为精简，我们以rollup为例看看一个bundler的是如何工作的。
 rollup的bundle过程分为两步rollup和generate，分别对应了bundler前端和bundler后端两个过程。</p>
@@ -371,11 +371,11 @@ rollup-plugin-commonjs虽然在cjs2esm上下了很多功夫，但是实际仍然
 <h5 data-id="heading-19">浏览器上cjs转esm</h5>
 <p>另一方面虽然rollup可以较为轻松的移植到到memfs上，但是rollup-plugin-commonjs是很难移植到web上的，所以我们早期基于rollup做web bundler只能借助于类似skypack之类的在线cjs2esm的服务来完成上述转换，但是大部分这类服务其后端都是通过rollup-plugin-commonjs来实现的，因此rollup原有的那些问题并没有摆脱，并且还有额外的网络开销，且难以处理非node_modules里cjs模块的处理。
 幸运的是esbuild采取的是和rollup不同的方案，其对cjs的兼容采取了类似node的module wrapper,引入了一个非常小的运行时，来支持cjs(webpack实际上也是采用了运行时的方案来兼容cjs，但是他的runtime不够简洁。。。)。
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a88b979d70834271895c918b4bd146b0~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a88b979d70834271895c918b4bd146b0~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer">
 其通过彻底放弃对cjs tree shaking的支持来更好的兼容cjs，并且同时可以在不引入插件的情况下，直接使得web bundler支持cjs。</p>
 <h4 data-id="heading-20">virutual module的支持</h4>
 <p>rollup的virtual module的支持比较hack,依赖路径前面拼上一个'\0'，对路径有入侵性，且对一些ffi的场景不太友好(c++ string把'\0'视为终结符)，当处理较为复杂的virtual module场景下，'\0'这种路径非常容易处理出问题。
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b429d21be2d14afbbc0d3469beba9ed0~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b429d21be2d14afbbc0d3469beba9ed0~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer"></p>
 <h3 data-id="heading-21">filesystem</h3>
 <p>本地的bundler都是访问的本地文件系统，但是在browser是不存在本地文件系统的，因此如何访问文件呢，一般可以通过将bundler实现为与具体的fs无关来实现,所有的文件访问通过可配置的fs来进行访问。<a href="https://link.juejin.cn/?target=https%3A%2F%2Frollupjs.org%2Frepl%2F" target="_blank" rel="nofollow noopener noreferrer" title="https://rollupjs.org/repl/" ref="nofollow noopener noreferrer">rollupjs.org/repl/</a> 即是采用此方式。因此我们只需要将模块的加载逻辑从fs里替换为浏览器上的memfs即可，onLoad这个hooks正可以用于替换文件的读取逻辑。</p>
 <h3 data-id="heading-22">node module resolution</h3>
@@ -449,7 +449,7 @@ rollup-plugin-commonjs虽然在cjs2esm上下了很多功夫，但是实际仍然
 <h4 data-id="heading-34">monorepo与monotools</h4>
 <p>esbuild是少有的对库开发和应用开发支持都比较良好的工具(webpack库支持不佳，rollup应用开发支持不佳)，这意味着你完全可以通过esbuild统一你项目的构建工具。
 esbuild原生支持react的开发，bundle速度极其快，在没有做任何bundleness之类的优化的情况下，一次的完整的bundle只需要80ms（包含了react，monaco-editor，emotion，mobx等众多库的情况下）
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fb93dcf6cecb47b4964834d1aef96cbd~tplv-k3u1fbpfcp-zoom-in-crop-mark:1956:0:0:0.image" alt loading="lazy" referrerpolicy="no-referrer">
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fb93dcf6cecb47b4964834d1aef96cbd~tplv-k3u1fbpfcp-watermark.image" alt loading="lazy" referrerpolicy="no-referrer">
 这带来了另一个好处就是你的monorepo里很方便的解决公共包的编译问题。你只需要将esbuild的main field配置为['source','module','main'],然后在你公共库里将source指向你的源码入口，esbuild会首先尝试去编译你公共库的源码，esbuild的编译速度是如此之快，根本不会因为公共库的编译影响你的整体bundle速度😁。我只能说TSC不太适合用来跑编译，too slow && too complex。</p>
 <h2 data-id="heading-35">esbuild存在的一些问题</h2>
 <h3 data-id="heading-36">调试麻烦</h3>
