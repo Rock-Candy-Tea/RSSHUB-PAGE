@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-07 04:08:21
-thumbnail: 'https://pic3.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162'
+date: 2021-08-07 05:05:58
+thumbnail: 'https://pic2.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/7d34d1d4f798e777d9a90bdd2ba0ab83_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">疯癫的A兵者，</span><span class="bio">B站空间：https://space.bilibili.com/84785878</span>
 <a href="https://www.zhihu.com/question/26615904/answer/2038141164" class="originUrl" hidden>查看知乎原文</a>
 </strong>
