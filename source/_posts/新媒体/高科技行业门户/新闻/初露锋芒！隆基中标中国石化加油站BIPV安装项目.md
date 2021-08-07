@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 高科技行业门户
  - 新闻
-headimg: 'https://picsum.photos/400/300?random=3460'
+headimg: 'https://picsum.photos/400/300?random=8735'
 author: 高科技行业门户
 comments: false
 date: Fri, 06 Aug 2021 12:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3460'
+thumbnail: 'https://picsum.photos/400/300?random=8735'
 ---
 
 <div>   
