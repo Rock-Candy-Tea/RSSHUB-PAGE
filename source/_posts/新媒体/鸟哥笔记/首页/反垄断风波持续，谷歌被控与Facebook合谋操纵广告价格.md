@@ -1,0 +1,20 @@
+
+---
+title: '反垄断风波持续，谷歌被控与Facebook合谋操纵广告价格'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://picsum.photos/400/300?random=7033'
+author: 鸟哥笔记
+comments: false
+date: Sat, 07 Aug 2021 08:57:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7033'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <p></p><p></p><p><br></p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">8月4日消息，根据海外媒体报道，谷歌正在滥用在线广告市场的主导权。在对于谷歌反垄断的调查中显示，谷歌被控与Facebook达成互惠交易，使这家社交网络在决定谁的广告出现在哪里的虚拟拍卖占据优势。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">也就是说谷歌与Facebook达成的协议，让谷歌可以保持在线广告市场的主导地位，从而排挤其他广告主，并且限制网络内容发布商的收入。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">具体来看，根据起诉书显示，这套标题竞价系统是在2014年设计的，可以让出版商引导用户的浏览器从多个拍卖平台获取实时竞价，而不仅仅使用谷歌的竞价系统。Facebook最初接受了这套系统，但在2018年与谷歌达成协议后，该公司同意限制该程序，以换取谷歌的优待。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">美国当地的法院认为：“限制了标题竞价系统的创新，使之仅对他们自己有利，同时也妨碍了竞争”，这是严重违反垄断法的行为。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">其实，早在2020年12月，美国德克萨斯州领导的反托拉斯案指控，谷歌这家搜索巨头操纵数字广告市场，部分原因是据称与竞争对手Facebook达成了一项协议，旨在维护谷歌的统治地位。</p><h1 label="一级标题" style="background-image: url("/img/article/h1_icon.png"); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 22px; font-size: 20px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px; text-align: center;">01、全球数字广告王者，广告收入持续增长</h1><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">对于谷歌来说，数字广告的收入构成其主要收入来源，它是稳稳的全球数字广告霸主。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">广告收入还在稳定增长，根据谷歌母公司Alphabet于北京时间7月28日公布了2021财年第二季度的财报。财报显示，Alphabet第二季度总营收为618.80亿美元；净利润为185.25亿美元，与去年同期相比增长明显。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">其中广告收入方面，广告营收达504.44亿美元；其他营收为66.23亿美元。其中YouTube广告营收70亿美元。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">回顾在2021年第一季度中，谷歌广告业务营收达到446.8亿美元，在二季度中，谷歌广告总收入为504亿美元，至此谷歌在过去一年中广告收入上是稳稳增长，成为总营收的中流砥柱。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">过去一年的疫情之下，全球众多企业遭遇严重增长危机，数字广告也在放缓，或许因为全球广告业正在回暖的缘故，如今正在处于反弹之中，根据eMarketer报告显示，谷歌作为数字广告领域的领导者，有望在今年年底占据全球近29%的市场份额。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">谷歌收入增长喜人的背后，同时伴随着危机，全球各地正在对大型科技企业进行反垄断调查。</p><h1 label="一级标题" style="background-image: url("/img/article/h1_icon.png"); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 22px; font-size: 20px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px; text-align: center;">02、海外反垄断风波不断，谷歌要小心了</h1><p><br></p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">我们发现全球的科技互联网企业正在遭遇反垄断调查，苹果、Facebook、谷歌正在全世界各地遭遇相关的反垄断调查和罚款。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">比如，在2021年第二季度，谷歌受到欧盟委员会罚款为102.54亿美元。谷歌表示，其时常会受到美国、欧洲和其他司法管辖区监管机构对竞争事务的正式和非正式询问和调查。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">2021年6月份，法国竞争事务监察总署宣布，因谷歌公司滥用在在线广告市场的主导地位，该机构决定对其罚款2.2亿欧元。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">稍早之前，2019年3月20日，欧盟宣布谷歌与AdSense搜索广告合作伙伴达成的协议中的某些合同条款违反了欧洲竞争法，处以1.5亿欧元的罚款。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">数据隐私、垄断地位等问题，始终是悬在全球科技巨头之上的达摩克利斯之剑，利用用户数据隐私，来实现广告收入增长，或者技术领域手段打压竞争对手，抑制广告竞争和创新，这条路已经是走不通了，是谷歌必须要面对的长期问题。</p><p label="图片描述" style="font-size: 12px; color: rgb(129, 131, 134); text-align: center; font-weight: 300; line-height: 30px; margin-bottom: 25px;">-END-</p><p></p>                        <div style="height: 1px"></div>
+                      
+</div>
+            
