@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210807/7d337d666095f45b7ebdcd2dfb7d203a.png'
 author: Dockone
 comments: false
-date: 2021-08-08 00:23:57
+date: 2021-08-08 01:49:39
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210807/7d337d666095f45b7ebdcd2dfb7d203a.png'
 ---
 
@@ -225,7 +225,7 @@ CMD yarn start<br>
 <a href="https://evilmartians.com/chronicles/build-images-on-github-actions-with-docker-layer-caching" rel="nofollow" target="_blank">https://evilmartians.com/chron ... ching</a><br>
 <h3>最后</h3>项目仓库地址：<a href="https://github.com/iamobj/wechat-bot" rel="nofollow" target="_blank">https://github.com/iamobj/wechat-bot</a><br>
 <br>文章有错误的地方欢迎指正，避免误人子弟。<br>
-<br>原文链接：<a href="https://iamc.cc/index.php/2021/08/03/572/" rel="nofollow" target="_blank">https://iamc.cc/index.php/2021/08/03/572/</a>，作者：iamc
+<br>原文链接：<a href="https://juejin.cn/post/6991689670027542564" rel="nofollow" target="_blank">https://juejin.cn/post/6991689670027542564</a>，作者：阮洪超
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>
                                 
