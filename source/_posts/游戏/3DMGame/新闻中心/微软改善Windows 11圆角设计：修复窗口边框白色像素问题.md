@@ -19,7 +19,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210807/1628344832_6691
 系统中，包括右键菜单、弹出窗口在内的 UI 元素、菜单和按钮都采用了圆角设计。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210807/1628344832_669197.jpg" alt="微软改善Windows 11圆角设计：修复窗口边框白色像素问题" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210807/1628344832_669197.jpg" alt="微软改善Windows 11圆角设计：修复窗口边框白色像素问题" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 目前，微软已经对控制面板、磁盘管理工具等传统工具和页面进行了圆角设计。不过在过渡期间仍存在一些问题，Windows 11 
@@ -39,7 +39,7 @@ Windows 11 上有更好的抗锯齿效果。
 22000.120中修复了窗口角落出现白色伪影的问题，该版本现在可以在开发频道中使用”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210807/1628344841_425724.jpg" alt="微软改善Windows 11圆角设计：修复窗口边框白色像素问题" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210807/1628344841_425724.jpg" alt="微软改善Windows 11圆角设计：修复窗口边框白色像素问题" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

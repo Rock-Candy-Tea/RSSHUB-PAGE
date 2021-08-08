@@ -1,0 +1,18 @@
+
+---
+title: '如何看待小米官方回应小米 11 系列出现特殊 Wi-Fi 问题，「支持换新机，可赠半年延保」？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-8ac7d38372fef5aae7eaf1f4019bc3b0_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 07 Aug 2021 13:07:05 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-8ac7d38372fef5aae7eaf1f4019bc3b0_1440w.jpg'
+---
+
+<div>   
+泼墨渲流年的回答<br><br><p>2月就出现过网速减慢，无限重启的问题。7月底直接烧了wifi模块。寄回小米售后维修中心，工程师回电亲口承认了是质量问题，而且换新的话，也不能保证不会再次出现，目前他手上还有一堆机子是换新之后二次更换继续烧的。</p><p>群里已经有一批人退款成功了，小米客服坚决扯皮说没有退过款，发二十几个退款订单的截图给他，就找各种理由说购买渠道不同、版本不同，所以不能给你退。</p><p>硬件设计有问题可不止是随时丢数据，更可怕的是没准哪天就发热爆炸了（还记得大明湖畔的三星note7吗？）</p><p>呵呵了，8年米粉了，没想到小米完全不拿用户的数据和生命安全当回事儿。</p><p>最后想说：rnm 退钱！！！！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-8ac7d38372fef5aae7eaf1f4019bc3b0_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-aea2b876d7af3b1d46f7b63108d1bc32_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8ac7d38372fef5aae7eaf1f4019bc3b0_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-550c0a96d89e9075acf23234095bdcc9_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-da57543e477750da31c47b211dda9fd1_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-550c0a96d89e9075acf23234095bdcc9_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-61779a42238a342e5bbefbba36efaf87_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-d0476c5fee047844f8c46dcc4b98f09b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-61779a42238a342e5bbefbba36efaf87_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b9f99838e94fabc876f0c5bea21e2480_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-5bc81e0fa63077c86371123c8cd30a27_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b9f99838e94fabc876f0c5bea21e2480_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e7b08e23e9740a613164fabf51c8c173_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-6bb5a1d3f013a15da901418bf095b499_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e7b08e23e9740a613164fabf51c8c173_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-65ade11f8ad704104d00aee1e3469380_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-4528c448ca5c35372b8a8f2078706fc2_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-65ade11f8ad704104d00aee1e3469380_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-7ce60c9e4dc9bfc2831dcff3feec234b_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-3a72a0c97e89808f0438fd3a7a18c3fb_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-7ce60c9e4dc9bfc2831dcff3feec234b_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
