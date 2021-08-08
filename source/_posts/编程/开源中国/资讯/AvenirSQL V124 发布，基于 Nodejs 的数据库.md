@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4765'
+headimg: 'https://picsum.photos/400/300?random=1772'
 author: 开源中国
 comments: false
 date: Sat, 07 Aug 2021 09:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4765'
+thumbnail: 'https://picsum.photos/400/300?random=1772'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>AvenirSQL V1.2.4 已经发布，基于 Node.js 的数据库。</p> 
+                                                                                            <p>AvenirSQL V1.2.4 已经发布，基于 Node.js 的数据库。</p> 
 <p>此版本更新内容包括：</p> 
 <p>功能： 1.增加set命令，支持查看数据库的配置以及修改配置。</p> 
 <p>详情查看：<a href="https://gitee.com/onlyyyy/AvenirSQL/releases/V1.2.4">https://gitee.com/onlyyyy/AvenirSQL/releases/V1.2.4</a></p> 

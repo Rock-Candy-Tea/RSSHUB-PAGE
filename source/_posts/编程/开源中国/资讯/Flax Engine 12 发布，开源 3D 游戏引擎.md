@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-94e9936498d6b070602a10a7cec8f83
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Flax Engine 1.2 现已发布， Flax Engine 是用 C ++ 和 C＃ 编写的高质量现代 3D 游戏引擎，专为快速工作流程而设计。</p> 
+                                                                                            <p>Flax Engine 1.2 现已发布， Flax Engine 是用 C ++ 和 C＃ 编写的高质量现代 3D 游戏引擎，专为快速工作流程而设计。</p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>车辆</li> 

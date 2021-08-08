@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-577e42727457e09ef8859f96932f04c
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><img alt src="https://oscimg.oschina.net/oscnet/up-577e42727457e09ef8859f96932f04c7421.png" referrerpolicy="no-referrer"></p> 
+                                                                                            <p><img alt src="https://oscimg.oschina.net/oscnet/up-577e42727457e09ef8859f96932f04c7421.png" referrerpolicy="no-referrer"></p> 
 <p>3个月之前，我们在社区发了一篇文章，正式发起了 Vue DevUI 项目。<a href="https://my.oschina.net/u/4863191/blog/5037886">让我们一起建设 Vue DevUI 项目吧！</a></p> 
 <p>很快就有不少热爱开源的小伙伴参与进来，于是我们迅速成立了<code>Vue DevUI 核心成员小组</code>，一起讨论出了Vue DevUI组件库的技术栈：</p> 
 <ul> 

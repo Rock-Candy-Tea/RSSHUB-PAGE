@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-30d1151b27a171139de0888af90feca
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="text-align:left">Gear Lib 是一组面向IOT及网络流媒体开发的Ｃ基础库，接口简洁易用，适用于物联网嵌入式设备端的开发，如IOT采集传感器，视频监控，设备端网络直播等场景。</p> 
+                                                                                            <p style="text-align:left">Gear Lib 是一组面向IOT及网络流媒体开发的Ｃ基础库，接口简洁易用，适用于物联网嵌入式设备端的开发，如IOT采集传感器，视频监控，设备端网络直播等场景。</p> 
 <p style="text-align:left">新版本 1.1.18 更新日志如下：</p> 
 <ul> 
  <li>新增bitmap的接口，移植kernel的bitmap库</li> 

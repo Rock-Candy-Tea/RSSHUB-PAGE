@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4562'
+headimg: 'https://picsum.photos/400/300?random=4536'
 author: 开源中国
 comments: false
 date: Sat, 07 Aug 2021 17:52:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4562'
+thumbnail: 'https://picsum.photos/400/300?random=4536'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="text-align:start">GitHub：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmajianzheng%2Fjarboot" target="_blank">https://github.com/majianzheng/jarboot</a></p> 
+                                                                                            <p style="text-align:start">GitHub：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fmajianzheng%2Fjarboot" target="_blank">https://github.com/majianzheng/jarboot</a></p> 
 <p>API及文档：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.yuque.com%2Fjarboot%2Fusage%2Fquick-start" target="_blank">https://www.yuque.com/jarboot/usage/quick-start</a></p> 
 <h2 style="text-align:start">1.0.8 (8.7, 2021)</h2> 
 <ul> 
