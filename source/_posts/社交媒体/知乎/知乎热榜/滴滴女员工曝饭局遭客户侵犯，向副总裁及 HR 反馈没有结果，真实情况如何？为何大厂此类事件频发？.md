@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 09 Aug 2021 08:03:54 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg'
+date: Mon, 09 Aug 2021 09:58:52 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg'
 ---
 
 <div>   
-不正经的图个拉底的回答<br><br><p>先纠正一下题主，不是“大厂”此类问题频发，而是“积弊已久”。</p><p>不怕得罪人地说，中国，是有“酒桌文化”的。这从夏商时期已经有的逢宴必有舞姬歌姬献艺，到现在的酒桌文化上“一群大老爷们儿干喝没意思”，其实女性在这种文化中，是被物化的，与餐桌上琳琅满目的下酒菜被划了等号。</p><p>尤其恶臭的是，这种等号，是被动的，且无法主动选择甚至是拒绝。</p><p>所以，不论大厂小厂，凡是“上桌饮酒”的女性，除非她自己就是金主爸爸，或者是有资本撑腰，否则，多多少少会被物化，视为玩物。</p><p>还记得冯小刚在宴会上让苗苗跳舞吗？</p><p>当时满座宾客，除了陈道明，还有谁来说一句“不”？</p><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg" data-caption data-size="normal" data-rawwidth="1150" data-rawheight="682" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>但是最后，陈道明还是妥协了，弹了琴，也让姑娘跳了舞。</p><p>这说明，这种物化女性的文化，是根深蒂固，很难撼动的。</p><p>尤其是在价值崩坏、私德下作、层级森严的人群中，酒桌上的女性，直接就被与“玩物”、“贡品”划了等号。</p><p>在场者心知肚明，满场可怕的默契。</p><p>我甚至可以说，所有在场的人，都是参与这场作恶的。</p><p>这，就是酒桌文化下，女性人人自危的处境；这，就是恶臭的价值观固如金汤时，善意被束缚手脚的尴尬。</p><p>好在，吴签进去了，阿里道歉了，当受害者发声，中文互联网不再沉默，所有的良知首尾相连，一座座孤岛抱团取暖，变成大陆，承载良知。</p><p>在这个时代里，女性不应该被困于物化的恶意，而道德崩坏的企业，也将受到万人指责。</p><p></p>  
+不正经的图个拉底的回答<br><br><p>先纠正一下题主，不是“大厂”此类问题频发，而是“积弊已久”。</p><p>不怕得罪人地说，中国，是有“酒桌文化”的。这从夏商时期已经有的逢宴必有舞姬歌姬献艺，到现在的酒桌文化上“一群大老爷们儿干喝没意思”，其实女性在这种文化中，是被物化的，与餐桌上琳琅满目的下酒菜被划了等号。</p><p>尤其恶臭的是，这种等号，是被动的，且无法主动选择甚至是拒绝。</p><p>所以，不论大厂小厂，凡是“上桌饮酒”的女性，除非她自己就是金主爸爸，或者是有资本撑腰，否则，多多少少会被物化，视为玩物。</p><p>还记得冯小刚在宴会上让苗苗跳舞吗？</p><p>当时满座宾客，除了陈道明，还有谁来说一句“不”？</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_1440w.jpg" data-caption data-size="normal" data-rawwidth="1150" data-rawheight="682" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9f3c5962eb850ce9f46f5a6eb4842bb0_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>但是最后，陈道明还是妥协了，弹了琴，也让姑娘跳了舞。</p><p>这说明，这种物化女性的文化，是根深蒂固，很难撼动的。</p><p>尤其是在价值崩坏、私德下作、层级森严的人群中，酒桌上的女性，直接就被与“玩物”、“贡品”划了等号。</p><p>在场者心知肚明，满场可怕的默契。</p><p>我甚至可以说，所有在场的人，都是参与这场作恶的。</p><p>这，就是酒桌文化下，女性人人自危的处境；这，就是恶臭的价值观固如金汤时，善意被束缚手脚的尴尬。</p><p>好在，吴签进去了，阿里道歉了，当受害者发声，中文互联网不再沉默，所有的良知首尾相连，一座座孤岛抱团取暖，变成大陆，承载良知。</p><p>在这个时代里，女性不应该被困于物化的恶意，而道德崩坏的企业，也将受到万人指责。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-42b637c795d2dc3834e210c4362d7139_720w.jpg" data-caption data-size="normal" data-rawwidth="240" data-rawheight="240" data-default-watermark-src="https://pic3.zhimg.com/v2-f16b326cccd3de0d3d98e3250d614b12_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

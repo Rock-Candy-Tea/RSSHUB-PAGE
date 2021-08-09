@@ -1,0 +1,19 @@
+
+---
+title: 'SRC－3000FS 到底有多强大？来看它如何打造一辆安全型 AMR ！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503088590011348.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 09 Aug 2021 09:56:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503088590011348.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">仙工智能技术时间</p><p style="text-indent: 2em; text-align: left;">一站式技术干货补充计划！</p><p style="text-indent: 2em; text-align: left;">仙工智能技术时间开课啦！在这里会有最新的技术迭代信息，还会有全面的技术讲解。有关仙工智能整体解决方案和仙工智能四大 BU 的难点疑点，我们都会为您悉数解答！</p><p style="text-indent: 2em; text-align: left;">我们将分三篇介绍超级新品—— SRC－3000FS！作为第一期文章，我们将从 SRC－3000FS 的安全功能上，探究它何打造一台安全型 AMR 控制器！</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503088590011348.png" title="1628503088590011348.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">（企业供图，下同）</p><p style="text-indent: 2em; text-align: left;"><strong>SRC－3000FS</strong></p><p style="text-indent: 2em; text-align: left;"><strong>全球首款安全型 AMR 控制器</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503104100044169.png" title="1628503104100044169.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">SRC－3000FS是仙工智能（SEER）自主研发的安全型控制器，集导航、功能安全于一体。它可为移动<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>提供地图构建、定位、导航等基础功能，多机调度、自动充电、3D 避障等高级功能。产品符合多项国际标准认证，无需安全 PLC ，AMR 内部集成度更高，空间更紧凑，让打造 AMR 的综合成本更低、更简单！</p><p style="text-indent: 2em; text-align: left;"><strong>五大安全功能</strong></p><p style="text-indent: 2em; text-align: left;"><strong>打造安全型 AMR</strong></p><p style="text-indent: 2em; text-align: left;">1、安全急停功能</p><p style="text-indent: 2em; text-align: left;">是所有安全功能里最基本的，分急停输入和急停输出两个部分，带诊断功能的双回路急停输入／输出功能，需外接双刀急停按键，驱动器需要支持 STO 功能。</p><p style="text-indent: 2em; text-align: left;">2、安全速度监控功能</p><p style="text-indent: 2em; text-align: left;">通过一个或者两个安全编码器实现对双轮差速 AMR 和单舵轮 AMR 移动速度的监控，包括行驶速度和旋转速度，当速度超过阈值即控制驱动器和电机急停。</p><p style="text-indent: 2em; text-align: left;">3、安全转向检测功能</p><p style="text-indent: 2em; text-align: left;">针对单舵轮 AMR，AMR 的转向和舵角方向有关，通过安全接近开关检测到舵角方向从而判断 AMR 的左右转转向。</p><p style="text-indent: 2em; text-align: left;">4、安全停障功能</p><p style="text-indent: 2em; text-align: left;">SRC－3000FS 通过安全编码器和安全接近开关检测到 AMR 的移动速度和转向信息，再通过安全 DO 控制安全激光切换安全保护区域，当检测到安全区有障碍物即控制驱动器和电机急停。</p><p style="text-indent: 2em; text-align: left;">5、安全限位功能</p><p style="text-indent: 2em; text-align: left;">通过安全接近开关检测线性移动机构是否移动到位或者发生碰撞，到位后即控制驱动器和电机停止运行。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503142356041098.png" title="1628503142356041098.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">经过零的介绍，有没有更了解 SRC－3000FS 呢？如果您有任何疑问或者其他想要了解的信息，欢迎后台留言，零会安排专人为您解答！</p><p style="text-indent: 2em; text-align: left;">PS！针对 SRC－3000FS 我们还会有两期专题解答哦！</p><p style="text-align:center"><img width="559" height="315" src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/09/Sunny/1628503166043033604.png" title="SRC－3000FS 到底有多强大？来看它如何打造一辆安全型 AMR ！" alt="SRC－3000FS 到底有多强大？来看它如何打造一辆安全型 AMR ！" referrerpolicy="no-referrer"></p><p style="text-align: left; text-indent: 2em;"><br></p> 
+  
+</div>
+            
