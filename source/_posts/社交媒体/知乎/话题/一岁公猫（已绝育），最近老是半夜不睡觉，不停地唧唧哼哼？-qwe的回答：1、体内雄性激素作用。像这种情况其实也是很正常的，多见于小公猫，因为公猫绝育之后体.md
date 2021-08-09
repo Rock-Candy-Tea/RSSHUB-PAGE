@@ -1,0 +1,18 @@
+
+---
+title: '一岁公猫（已绝育），最近老是半夜不睡觉，不停地唧唧哼哼？-qwe的回答：1、体内雄性激素作用。像这种情况其实也是很正常的，多见于小公猫，因为公猫绝育之后体...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-01b30017c30148b24a1af64293ae794f_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 09 Aug 2021 13:09:48 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-01b30017c30148b24a1af64293ae794f_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>一岁公猫（已绝育），最近老是半夜不睡觉，不停地唧唧哼哼？</strong><br>qwe的回答<br><p>1、体内雄性激素作用。像这种情况其实也是很正常的，多见于小公猫，因为公猫绝育之后体内雄性激素水平需要一段时间才能够逐渐降下来，这个时间长短不是绝对的，可能是几个月也可能是一年，甚至更久；在这期间如果嗅到小母猫发情的气味，依然会有发情期表现，冲着窗户外叫便是表现之一。对于这种情况，只能是关好门窗、拉好窗帘，等猫咪体内激素平衡……<br><br>￼<br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-01b30017c30148b24a1af64293ae794f_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="600" data-rawheight="400" data-default-watermark-src="https://pic2.zhimg.com/50/v2-2cd1a739339391a241eb1ebfeb4ae6e2_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-01b30017c30148b24a1af64293ae794f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-01b30017c30148b24a1af64293ae794f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br>2、猫咪想玩。猫咪是夜行动物，它们白天大都睡觉，晚上才开始活动，不停的喵喵叫，也是因为它自己实在太无聊了，想要把熟睡的你喊起来，陪它玩，还有一些猫咪甚至会将玩具主动叼到正在睡觉的主人身上……这种情况通常是刚开始饲养没多久的猫咪，因为饲养时间久的猫咪它们的作息习惯已经和主人达成一致，主人睡觉时间，它也能熟睡。<br><br>面对这种情况，建议白天多跟猫咪互动玩耍，释放它的精力，也可以晚上睡觉前好好陪猫咪玩会，这样一来猫咪玩累了，就不会打扰主人了；如果是精力特别旺盛的猫咪，可以给它们选择电动玩具，让它自己玩。<br><br>￼<br>3、猫咪饿了。猫咪总是也晚上起来觅食的习惯，所以它们是很容易在晚上饿的，猫咪可能会不停喵喵叫讨食，也可能会直接走到铲屎官脸上，拍打铲屎官；建议白天增加给猫咪喂食频的率，睡前喂食猫咪一次，或者选择自动喂食器，在夜晚固定投喂。<br><br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-d5f5c5b2d66b5d7ef6f5019dcbd04615_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="799" data-rawheight="600" data-default-watermark-src="https://pic1.zhimg.com/50/v2-99c28eaf13edef61a0462716aa875350_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-d5f5c5b2d66b5d7ef6f5019dcbd04615_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-d5f5c5b2d66b5d7ef6f5019dcbd04615_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br>4、猫咪害怕。通常是一些幼猫，小猫咪刚来到新环境，没有了猫妈妈和同类的陪伴，让它感到十分不安；很多时候一些宠主觉得猫咪吵，就将猫咪隔离，那样猫咪叫得更凶，建议宠主将猫咪放在离你较近的地方，安抚猫咪入睡，猫咪可能会更乖哦！<br><br>￼<br>5、宠主搬家。即便是养了很久得猫咪，与铲屎官已经很熟悉了，但是如果铲屎官换了新家，猫咪依然会觉得不安，它需要一段时间适应新的环境；建议猫咪以前用过多生活用具不要更换，不然猫咪的正常习惯将会完全被打乱，宠主也会更头疼，我们可能喜欢用新的东西，但是对猫咪来说旧物更让它们有安全感。<br><br>￼<br>6、天生爱叫。除了上面一些情况，还有一些猫咪是天生就比较能叫，就比如暹罗猫，有事没事叫几声，对于这样的猫咪，宠主既然选择了话痨猫咪，那就要接受它的一切~<br><br>￼<br>7、猫咪老了。猫咪如同人类一样，也会患老年痴呆症，年老的猫咪认知功能出现障碍，它们会对原本的生活环境感到陌生，所以夜晚猫咪活动的时候，会变得十分不安、无助，无缘无故大叫，宠主应该尽心照顾这个老去的猫咪。<br><br>￼<br>8、甲状腺疾病。猫咪甲状腺功能紊乱有时会表现得十分兴奋，也会在半夜叫唤，很多猫咪还会并发心脏病、高血压、肾脏疾病等。<br><br>9、视力、听力衰退。猫咪因为年老之后视力、听力等功能都会衰退，猫咪会因此感到不安和害怕，也会不停嚎叫。<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-ae2f1dbd62802c89bd6c5f3da1242214_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="396" data-rawheight="300" data-default-watermark-src="https://pic3.zhimg.com/50/v2-43db2a7e4ad9d6d46e22eef29a22e2d3_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic1.zhimg.com/50/v2-ae2f1dbd62802c89bd6c5f3da1242214_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
