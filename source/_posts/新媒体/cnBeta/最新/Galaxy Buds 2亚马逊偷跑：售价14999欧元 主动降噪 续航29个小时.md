@@ -1,0 +1,19 @@
+
+---
+title: 'Galaxy Buds 2亚马逊偷跑：售价149.99欧元 主动降噪 续航29个小时'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0809/65aee0010fa2a9c.jpg'
+author: cnBeta
+comments: false
+date: Mon, 09 Aug 2021 02:45:01 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0809/65aee0010fa2a9c.jpg'
+---
+
+<div>   
+Galaxy Buds 2 已经在亚马逊官方商城偷跑，产品预计将于 8 月 27 日发货，零售价格为 149.99 欧元。这款 TWS 耳机具备白色、黑色和绿色三种颜色，采用极简外观和人体工程学设计，配备主动降噪和环绕立体声，完整充电下续航 29 个小时。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/65aee0010fa2a9c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/65aee0010fa2a9c.jpg" alt="1456.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/111de5aace58549.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/111de5aace58549.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/e367eb1d41843ef.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/e367eb1d41843ef.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/bf5012bd92bf1ee.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/bf5012bd92bf1ee.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/5863d58a03a3e78.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/5863d58a03a3e78.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/1353e94eeccc808.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/1353e94eeccc808.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/bf02da191f3c54e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/bf02da191f3c54e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/059f78c986dd07d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/059f78c986dd07d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0809/b1b4f3e0becd6c8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0809/b1b4f3e0becd6c8.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">更多细节：</p><p style="text-align: left;"><strong>● 更清晰的通话</strong></p><p style="text-align: left;">三个麦克风和一个集成的录音单元可实现高通话质量。 基于机器学习的解决方案过滤掉噪音以获得良好的清晰度</p><p style="text-align: left;"><strong>● 主动降噪</strong></p><p style="text-align: left;">两个麦克风可以检测环境噪音，而主动降噪可以阻挡背景噪音。</p><p style="text-align: left;"><strong>● 佩戴舒适</strong></p><p style="text-align: left;">每个耳机重量仅为 5g，即使在积极的生活方式中，音乐也能舒适地放在耳朵里。使用柔软、灵活的硅胶耳垫，您可以自己确定适合度。</p><p style="text-align: left;"><strong>● 4 种颜色供挑选</strong></p><p style="text-align: left;">Graphite. White. Olive. Lavender.四种颜色供用户挑选。真正的无线耳机和充电盒的现代设计是您独特品味的体现。</p><p style="text-align: left;"><strong>● 令人印象深刻的声音</strong></p><p style="text-align: left;">动态两分频扬声器带来强劲、深沉的低音和清晰的高音。</p><p style="text-align: left;"><strong>● 音效设置</strong></p><p style="text-align: left;">预设 6 种不同的均衡器设置，您可以进行自己的设置并沉浸在音乐中。</p><p style="text-align: left;"><strong>● 电池续航</strong></p><p style="text-align: left;">超长的电池寿命允许播放长达 5 小时，充满电的情况下可提供长达 15 小时的额外播放时间</p>   
+</div>
+            

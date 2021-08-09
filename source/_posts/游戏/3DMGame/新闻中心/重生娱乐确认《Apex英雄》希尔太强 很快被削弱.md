@@ -29,7 +29,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210809/1628467520_5466
 有玩家问到是否要等到赛季中期才能看到平衡补丁时，Nordin表示不会，新补丁很快推出。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210809/1628467520_546654.jpg" alt="重生娱乐确认《Apex英雄》希尔太强 很快被削弱" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210809/1628467520_546654.jpg" alt="重生娱乐确认《Apex英雄》希尔太强 很快被削弱" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
