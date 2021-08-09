@@ -1,0 +1,19 @@
+
+---
+title: '开拓药业应用Medidata远程智能临床试验解决方案，助力普克鲁胺新冠治疗全球III期研究'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=5220'
+author: 高科技行业门户
+comments: false
+date: Mon, 09 Aug 2021 05:49:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5220'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">远程智能解决方案赋能国际多中心试验高效开展</p><p style="text-indent: 2em; text-align: left;">中国，上海——法国达索系统全资子公司，全球领先的生命科学临床研究领域云解决方案供应商Medidata与中国创新药研发公司开拓药业有限公司（以下简称“开拓药业”）近日宣布，双方进一步延展合作范畴，步入远程智能解决方案的全新合作阶段。Medidata Rave EDC电子数据采集系统及统一灵活的电子临床结局评估解决方案eCOA／ePRO已被应用于开拓药业普克鲁胺新冠治疗全球多中心（包括美国，欧洲，南美，亚太）III期关键性临床试验中。</p><p style="text-indent: 2em; text-align: left;">开拓药业与Medidata已经建立了长期友好积极的合作关系。Medidata Rave EDC及RTSM系统为开拓药业多个试验项目的数据采集和管理提供了有力支持。此次新冠试验开展，Medidata Rave EDC 将协助开拓药业完成超过600例新冠轻中症患者的数据采集和管理工作。此外，Medidata ePRO通过患者自报、远程智能化的模式全面精确数据的采集和管理，节省患者时间，提升患者体验，提高数据采集效率。</p><p style="text-indent: 2em; text-align: left;">如今，随着中国医药产业综合实力的不断提升，国内医药行业也涌现了一批像开拓药业一样，完全具备“走出去”，而且已经大胆走出去的创新药企。对于开拓药业而言，如何高效、精准地触及并管理多国多中心数据成为提速创新成果研发的关键之一。疫情当下，数字化转型浪潮为生命科学行业的发展带来了更多可能，远程智能化技术正在变革传统迟缓的研究方式。Medidata站在临床试验数字化转型前沿，致力于为中国药企的全球化开拓之路赋能。Medidata远程智能化技术及解决方案能够助力临床试验在任意时间远程获取患者数据，并有效精准地监控、管理数据，提速试验数据管理效率。</p><p style="text-indent: 2em; text-align: left;">开拓药业创始人、董事长兼首席执行官童友之博士表示：“开拓药业自成立以来一直致力于成为创新疗法研究、开发及商业化的领军企业。我们与Medidata已合作多年， Medidata为我们研发带来了试验数据收集效率的保障。此次，我们新冠创新药物普克鲁胺的关键性III期临床试验已经在全球10来个国家开展。美国FDA和巴西药监部门ANVISA对开展此次试验的批准有助于整个临床进程的推进。Medidata统一平台及远程技术的参与，帮助我们灵活智能化地管理多中心试验数据。期待我们能尽快向大众公布普克鲁胺治疗新冠的试验成果，希望普克鲁胺尽快惠及更多患者，为全球抗疫做出我们的贡献。”</p><p style="text-indent: 2em; text-align: left;">Medidata中国区总经理李威指出： “新冠疫情仍是全球生命科学领域的痛症所在，Medidata为能参与到一线疫苗、治疗药物等的研发中而深感荣幸。开拓药业与Medidata一直保持着良好紧密的合作关系。这次，我们很高兴能与开拓药业探索新的合作领域。这不仅是对Medidata产品及服务体验的认可，也鼓舞我们以更多更优的智能化解决方案服务于更多的国内创新药企及CRO。未来，我们将继续以自身优势助推临床试验的数字浪潮，为生命科学事业贡献力量。”</p><p style="text-indent: 2em; text-align: left;">Medidata是达索系统的全资子公司，达索系统的3DEXPERIENCE平台致力于引领生命科学行业在个性化<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>时代中的数字化转型，它是首个覆盖端到端、从研究到商业化全流程的科学商业平台。</p><p style="text-indent: 2em; text-align: left;"><strong>关于Medidata</strong></p><p style="text-indent: 2em; text-align: left;">Medidata正在引领生命科学的数字化转型，为数百万患者带来希望。Medidata致力于为制药公司、生物科技公司、医疗器械公司、诊断公司和学术研究机构生成证据和洞见，加速创造价值，最大限度地降低风险并优化结果。目前，全球1，700多家客户和合作伙伴超过1，000，000名注册用户正在使用Medidata平台作为其临床开发、商业和现实数据平台。Medidata 作为 Dassault Systèmes 旗下公司（巴黎泛欧交易所：＃13065，DSY．PA），总部位于纽约市，2015年，Medidata正式进入中国市场并在北京、上海成立分公司，为中国客户提供即时、专业的服务。敬请关注Medidata生命科学操作系统TM，访问Medidata官网 并关注Medidata官方微信号。</p><p style="text-indent: 2em; text-align: left;"><strong>关于达索系统</strong></p><p style="text-indent: 2em; text-align: left;">作为一家为全球客户提供3DEXPERIENCE解决方案的行业领导者，达索系统致力于成为人类发展进程的催化剂。我们为企业和客户提供可协同的3D虚拟空间来推动可持续创新。利用达索系统的3DEXPERIENCE平台和行业解决方案，我们的客户对真实世界进行数字孪生，从而突破创新、学习和生产的界限。达索系统为140多个国家超过29万个不同行业、不同规模的客户带来价值。</p><p style="text-indent: 2em; text-align: left;">3DEXPERIENCE、Compass图标、3DS徽标、CATIA， BIOVIA， GEOVIA， SOLIDWORKS， 3DVIA， ENOVIA， NETVIBES， MEDIDATA， CENTRIC PLM， 3DEXCITE， SIMULIA， DELMIA和FWE是达索系统（法国“société européenne”凡尔赛商业注册号 ＃ B 322 306 440）或其子公司在美国和／或其他国家或地区的注册商标。</p><p style="text-indent: 2em; text-align: left;"><strong>关于开拓药业</strong></p><p style="text-indent: 2em; text-align: left;">开拓药业成立于2009年，专注发展潜在“best－in－class”和“first－in－class”创新药物的研发及产业化，致力成为创新疗法研究、开发及商业化的领军企业。公司经过多年的发展，以雄激素受体（Androgen Receptor， AR） 相关疾病为核心，研发多通道产品组合，产品覆盖全球高发病率癌症及其它未满足临床需求的疾病领域，包括新冠肺炎、前列腺癌、乳腺癌、肝癌、脱发和痤疮等。开拓药业前瞻性布局了包含小分子创新药、生物创新药及联合疗法的多元化产品管线，包括6款正在开展临床研究的产品，如两款雄激素受体（AR）拮抗剂、Activin receptor－like kinase （ALK－1）单抗、mammalian target of rapamycin （mTOR）激酶靶向抑制剂、Hedgehog抑制剂和AR－proteolysis－targeting chimera （PROTAC） 化合物，以及正在进行临床前研究的Programmed death－ligand （PD－L1）／ Transforming growth factor beta （TGF－β）双靶点抗体和c－Myc抑制剂等。公司在全球拥有已获得及申请中的70多项专利，多个项目被列为国家十二五、十三五“重大新药创制”专项。2020年5月22日，开拓药业正式在香港联合交易所有限公司主板挂牌上市，股票代码：9939．HK。</p><p><br></p> 
+  
+</div>
+            
