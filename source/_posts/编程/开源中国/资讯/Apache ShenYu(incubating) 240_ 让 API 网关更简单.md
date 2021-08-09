@@ -8,7 +8,7 @@ categories:
 headimg: 'https://shenyu.apache.org/img/architecture/shenyu-framework.png'
 author: 开源中国
 comments: false
-date: Mon, 09 Aug 2021 02:57:00 GMT
+date: Mon, 09 Aug 2021 10:57:00 GMT
 thumbnail: 'https://shenyu.apache.org/img/architecture/shenyu-framework.png'
 ---
 
