@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210809/1628462538_5962
 
 <div>   
 <p style="text-indent:2em;">
-作为一款最早于2014年发售的WiiU游戏，《<a target="_blank" href="https://www.3dmgame.com/games/zeromnm/">零：濡鸦之巫女</a>》将于本月末登陆包括PC在内的所有现代游戏平台。虽然新的版本在画面上进行了强化，而且也追加了拍照模式和新的服装，但是相对于2014年的WiiU版来说，还是砍掉了一些内容，比如任天堂角色服装。
+作为一款最早于2014年发售的WiiU游戏，《<a target="_blank" href="https://www.3dmgame.com/games/zeromnm/">零：濡鸦之巫女</a>》将于10月末登陆包括PC在内的所有现代游戏平台。虽然新的版本在画面上进行了强化，而且也追加了拍照模式和新的服装，但是相对于2014年的WiiU版来说，还是砍掉了一些内容，比如任天堂角色服装。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210809/1628462538_596290.jpg" alt="新《零：濡鸦之巫女》删除WiiU原版四件性感服装" referrerpolicy="no-referrer"> 
