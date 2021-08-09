@@ -1,0 +1,18 @@
+
+---
+title: '【电竞快讯#02】LPL常规赛落下帷幕，CFPLLGD夺冠'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/09/c162a8b3c15597bc02ecbf587f4d80d0/thumb.png'
+author: 小黑盒
+comments: false
+date: Mon, 09 Aug 2021 09:42:23 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/09/c162a8b3c15597bc02ecbf587f4d80d0/thumb.png'
+---
+
+<div>   
+<h2><b>英雄联盟</b></h2><p>常规赛落下帷幕，FPX2-1击败EDG拿下常规赛第一。TES2-1WE锁定第五名，在FPX与EDG的第三局，全局先锋都没被捡起来过，只有先锋伤心的世界形成了（doge）</p><p><img class="lazy" data-height="889" src="https://imgheybox.max-c.com/bbs/2021/08/09/c162a8b3c15597bc02ecbf587f4d80d0/thumb.png" data-width="1593" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021LPL夏季赛8.8日赛果</h4><p>让人感到最难受的赛后数据，莫过于EDGviper了，尽管下午对位经济压制3000，怎奈后期的滑板鞋效果不如寒冰的一个大，赛后输出面板仅比大聪明高400<br></p><p><img class="lazy" data-height="891" src="https://imgheybox.max-c.com/bbs/2021/08/09/a0782f67e4eb4fc7899de923ed7ae536/thumb.png" data-width="1597" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021LPL夏季赛常规赛最终积分排名</h4><p><img class="lazy" data-height="897" src="https://imgheybox.max-c.com/bbs/2021/08/09/b327d5976c7905a621658adbb28f72ac/thumb.png" data-width="1587" referrerpolicy="no-referrer"></p><p>同时，官方放出了季后赛对阵图。并确定于8月12日开启季后赛。FPX、EDG、RA、RNG、TES、BLG、WE、LNG、SN、OMG获得季后赛参赛资格，最终决出的两支队伍将进行夏季赛决赛。<br></p><p><img class="lazy" data-height="863" src="https://imgheybox.max-c.com/bbs/2021/08/09/2cd059e3b1d68c88ff4839b9238efd41/thumb.png" data-width="1591" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021LPL夏季赛季后赛赛程</h4><p>为响应国家号召，本次季后赛将采取无观众模式，因此季后赛期间暂不售票。<br></p><h2><b>王者荣耀</b></h2><p>王者荣耀2021年世界冠军杯小组赛已全部结束，本日广州TTG3:0碾压GOG, AG2:3憾负MTG,凭借小分位列A组第一，QGhappy状态起伏不定，1:3败给HERO, HERO反超占B组第二</p><p><img class="lazy" data-height="716" src="https://imgheybox.max-c.com/bbs/2021/08/09/b80074bfd29bd7c659fc832f8dc08f8d/thumb.jpeg" data-width="1268" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021王者荣耀世界冠军杯8.8赛果</h4><p><img class="lazy" data-height="513" src="https://imgheybox.max-c.com/bbs/2021/08/09/382776f878f4bb7f640a1a7aaa480c73/thumb.jpeg" data-width="964" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021王者荣耀世界冠军杯小组赛积分榜</h4><p>同时官方放出了淘汰赛的赛程，同样，最早的比赛将于8月12日开打。同样也因为疫情的限制，王者荣耀世界冠军杯淘汰赛也改为无观众模式。<br></p><p><img class="lazy" data-height="514" src="https://imgheybox.max-c.com/bbs/2021/08/09/f94325e32b8d622f9e6cea1313aff90f/thumb.jpeg" data-width="965" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021王者荣耀世界冠军杯淘汰赛赛程</h4><h2><b>PUBG</b></h2><p>2021pcl夏季赛第三周已结束,各战队奖金如夏季赛积分榜:</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/09/82bbc2c8b94d35029656b3a5df254ed7/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>17Gaming继续遥遥领先，淘汰数远超后续队伍下<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/09/f1fe452a92df78271353402454f23b79/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h2><b>CSGO</b></h2><p>wePlay次级联赛，NA`VI Junior2:0VP.prodigy</p><p>小将m0NESY两把分别以28-8，33-13的恐怖KD统治了现场。明日将对战fnatic rising，期待他更精彩的表现</p><h2><b>穿越火线</b></h2><p>8.8cfpl正式落下帷幕，LGD3:0打败白鲨又3:0击败kz，成功拿下本届冠军</p><p><img class="lazy" data-height="960" src="https://imgheybox.max-c.com/bbs/2021/08/09/6609c75142045cf288e2413852187c40/thumb.jpeg" data-width="1707" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#英雄联盟#</a>     <a href="heybox://open_subject" target="_blank">#LPL夏季赛#</a>    <a href="heybox://open_subject" target="_blank">#CSGO#</a>   <a href="heybox://open_subject" target="_blank">#手游#</a>  <a href="heybox://open_subject" target="_blank">#PUBG#</a> <br></p>  
+</div>
+            

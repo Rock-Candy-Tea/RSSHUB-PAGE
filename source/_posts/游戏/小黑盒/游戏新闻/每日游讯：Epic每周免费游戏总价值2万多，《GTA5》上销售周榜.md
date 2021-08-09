@@ -1,0 +1,18 @@
+
+---
+title: '每日游讯：Epic每周免费游戏总价值2万多，《GTA5》上销售周榜'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/09/5bdf84bfd7573baa11fcd71f129d7643/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 09 Aug 2021 09:29:45 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/09/5bdf84bfd7573baa11fcd71f129d7643/thumb.jpeg'
+---
+
+<div>   
+<p>漂游无数，寻一部落，集游戏资讯，请你驻步畅谈——游贻酋长！</p><p>每日游戏资讯：2021年8月9日全球游戏资讯，每日更新游戏最新资讯，关注游贻酋长了解更多消息，今日游戏行业又有什么动向呢？</p><p>1.Cloud Imperium向所有的《星际公民》的支持者们发布了《星际公民》Alpha 3.14.0版游戏，他们还发布了一段预告片，展示了这个最新版本的游戏，最新版本的游戏增加了全新的地点，以及一些新的游戏模式，它还改善了游戏的画面，新版游戏还增加了初始版本的行星体积云，它还增加了若干新的画面选项。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/09/5bdf84bfd7573baa11fcd71f129d7643/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>2.EA宣布《战地2042》在6月公布之后，视频已经收获超过2.1亿播放量，EA还解释称对于《战地2042》这款游戏，他们的目标是与玩家建立长期关系与互动，而不仅是作为今年的一款游戏进行销售。</p><p><img class="lazy" data-height="328" src="https://imgheybox.max-c.com/bbs/2021/08/09/c18e0d1909f2eaf42979743b7bcd1ace/thumb.jpeg" data-width="597" referrerpolicy="no-referrer"></p><p>3.自2018年12月以来Epic每周都会推出免费游戏供大家领取，截止到今天已经送出了202款游戏，以原价计算总价为4338.77美元（约合人民币28126元），每款游戏的折扣价格考虑在内，况且游戏的价格也会因为游戏年份的增长而下降，如果玩家都以折扣价购买EPIC送出的游戏，将会花费1483.47（约合人民币9617元），如果再严谨一点，把重复送出的游戏去掉，那么玩家以折扣购买这些游戏也将花费近1000美元（约合人民币6483元）。</p><p><img class="lazy" data-height="467" src="https://imgheybox.max-c.com/bbs/2021/08/09/7f0be223aeeda0040d9c2322bc898eef/thumb.jpeg" data-width="727" referrerpolicy="no-referrer"></p><p>4.Steam Deck将不会是V社的最后一台掌上PC，该产品设计团队成员Greg Coomer表示他们将继续“制作该系列产品”，Gabe Newell也表示：“建立一个我们能够和其他厂商都能参与的产品，这对我们也有长期的优势。”</p><p><img class="lazy" data-height="361" src="https://imgheybox.max-c.com/bbs/2021/08/09/81794bead3d825cb46cd6b3ad94c69be/thumb.jpeg" data-width="585" referrerpolicy="no-referrer"></p><p>5.Steam最新一周销量排行榜：</p><p>1.《喋血复仇》</p><p>2.《上行战场》</p><p>3.《米德加德部落》</p><p>4. V社VR套件</p><p>5. 《GTA5》</p><p>6.《双人成行》</p><p>7.《新世界》</p><p>8.《新世界》豪华版</p><p>9.《禁闭求生》</p><p>10.《使命召唤：黑色行动3》</p><p><img class="lazy" data-height="289" src="https://imgheybox.max-c.com/bbs/2021/08/09/2aa20ee920af545c78df33c893150571/thumb.jpeg" data-width="527" referrerpolicy="no-referrer"></p><p>6.《Apex英雄》迎来了第十赛季，而随着新赛季一起推出的传奇“希尔”一下子成为了玩家间的热门，不仅是因为他是新传奇，他的能力非常强力。重生官方也承认“希尔”确实太强了，计划在未来对其进行调整。</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/bbs/2021/08/09/24fd71218d59da4eb9c7c9235f3a98f7/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p>7.吉卜力手绘风互动视觉小说《倾听画语：最美好的景色》现已上架Steam，将于今年8月25日发售，支持简体中文，玩家将扮演一名追逐梦想的画家，找寻那些使你的画作鲜活却已遗失的色彩。</p><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/bbs/2021/08/09/f67cb8d495124a493b2cafd24168edc0/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p>8.《消逝的光芒2》制作方Techland首席关卡设计师Piotr Pawlaczyk最近接受了采访，在采访中他们透露该作将在画质模式中提供光追和4K，玩家可以看到“显著的”场景画质优化，该模式还对体积和其它多种效果进行优化。</p><p><img class="lazy" data-height="629" src="https://imgheybox.max-c.com/bbs/2021/08/09/c995183287e3ac92577c52ebc40b4b75/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><p>9.《哈迪斯（黑帝斯）》是一款口碑极高的动作类Rogue独立游戏，自2018年发售后获奖无数，根据Steamdb的算法（综合考量评价总数&好评数量），《哈迪斯》目前是Steam平台第二好评的游戏（仅次于《传送门2》），开发商Supergiant Games表示：目前还没有续作计划！</p><p><img class="lazy" data-height="281" src="https://imgheybox.max-c.com/bbs/2021/08/09/837085628b25e0e41803162b2207dc8c/thumb.jpeg" data-width="500" referrerpolicy="no-referrer"></p><p>10.微软商城的《暗黑破坏神2重制版》测试版页面泄露了本作B测日期为8月17日。目前在微软商店页面，该日期已被清除，暴雪官方对此并未作出回应。</p><p><img class="lazy" data-height="338" src="https://imgheybox.max-c.com/bbs/2021/08/09/3e407d4cb4c32c90baad3bc5203da0d2/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p>记得关注点赞评论，更多游戏资讯发布。</p><p>文中图片来自网络，游戏内真实截图以及游戏官网公布的图片，如有侵权请及时联系小编删除。</p>  
+</div>
+            
