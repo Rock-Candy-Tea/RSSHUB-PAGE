@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/08/10/210810210901436_u1628
 
                 
                 
-                    <div class="topicContent front_content sort_content">任天堂宣布任天堂将在北京时间8月12日凌晨0点举行Indie World独立游戏直面会，时长约为20分钟，将继续为玩家介绍即将登陆Switch平台的独立游戏阵容。</div>
+                    <div class="topicContent front_content sort_content">任天堂宣布将在北京时间8月12日凌晨0点举行Indie World独立游戏直面会，时长约为20分钟，将继续为玩家介绍即将登陆Switch平台的独立游戏阵容。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/08/10/210810210901436_u162815.jpg" src="https://img01.vgtime.com/game/cover/2021/08/10/210810210901436_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
