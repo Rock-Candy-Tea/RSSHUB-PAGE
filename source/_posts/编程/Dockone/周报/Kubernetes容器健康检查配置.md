@@ -5,11 +5,11 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://picsum.photos/400/300?random=5454'
+headimg: 'https://picsum.photos/400/300?random=5256'
 author: Dockone
 comments: false
-date: 2021-08-10 11:06:30
-thumbnail: 'https://picsum.photos/400/300?random=5454'
+date: 2021-08-10 12:11:19
+thumbnail: 'https://picsum.photos/400/300?random=5256'
 ---
 
 <div>   
@@ -229,7 +229,7 @@ HTTP和TCP的<code class="prettyprint">Readliness</code>探测器配置也和<co
 <ul><li>host：连接使用的主机名，默认是Pod的IP。也可以在HTTP头中设置“Host”来代替。</li><li>scheme：用于设置连接主机的方式（HTTP还是HTTPS）。默认是HTTP。</li><li>path：访问HTTP服务的路径。</li><li>httpHeaders：请求中自定义的HTTP头。HTTP头字段允许重复。</li><li>port：访问容器的端口号或者端口名。如果数字必须在1 ～ 65535之间。</li></ul><br>
 <br>对于HTTP探测，kubelet发送一个HTTP请求到指定的路径和端口来执行检测。除非<code class="prettyprint">httpGet</code>中的<code class="prettyprint">host</code>字段设置了，否则kubelet默认是给Pod的IP地址发送探测。如果<code class="prettyprint">scheme</code>字段设置为了HTTPS，kubelet会跳过证书验证发送HTTPS请求。大多数情况下，不需要设置<code class="prettyprint">host</code>字段。这里有个需要设置<code class="prettyprint">host</code>字段的场景，假设容器监听<code class="prettyprint">127.0.0.1</code>，并且Pod的<code class="prettyprint">hostNetwork</code>字段设置为了<code class="prettyprint">true</code>。那么<code class="prettyprint">httpGet</code>中的<code class="prettyprint">host</code>字段应该设置为<code class="prettyprint">127.0.0.1</code>。可能更常见的情况是如果Pod依赖虚拟主机，你不应该设置<code class="prettyprint">host</code>字段，而是应该在<code class="prettyprint">httpHeaders</code>中设置Host。<br>
 <br>对于一次探测，kubelet在节点上（不是在Pod里面）建立探测连接，这意味着你不能在<code class="prettyprint">host</code>参数上配置<code class="prettyprint">service name</code>，因为kubelet不能解析<code class="prettyprint">service name</code>。<br>
-<br>原文链接：<a href="https://juejin.cn/post/6993457394827132964" rel="nofollow" target="_blank">https://juejin.cn/post/6993457394827132964</a>，作者：Honest1y
+<br>原文链接：<a href="https://juejin.cn/post/6993457394827132964" rel="nofollow" target="_blank">https://juejin.cn/post/6993457394827132964</a>，作者：王骁
                                 
                                                               
 </div>
