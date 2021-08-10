@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2019/03/WTY_01.jpg'
 author: Blow Studio
 comments: false
-date: 2021-08-10 08:11:03
+date: 2021-08-10 09:08:16
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2019/03/WTY_01.jpg'
 ---
 
