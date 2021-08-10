@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/08/09/210809184722459_u8855
 
                 
                 
-                    <div class="topicContent front_content sort_content">Xbox官方宣布将于北京时间8月25日凌晨1点进行“科隆游戏展Xbox Gamescom 2021”直播活动，届时将带来Xbox Game Studio第一方游戏、第三方游戏以及Xbox Game Pass服务的新情报。</div>
+                    <div class="topicContent front_content sort_content">Xbox官方宣布将于北京时间8月25日凌晨1点进行“Xbox科隆游戏展2021”直播活动，届时将带来Xbox Game Studio第一方游戏、第三方游戏以及Xbox Game Pass服务的新情报。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/08/09/210809184722459_u8855.jpg" src="https://img01.vgtime.com/game/cover/2021/08/09/210809184722459_u8855.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>

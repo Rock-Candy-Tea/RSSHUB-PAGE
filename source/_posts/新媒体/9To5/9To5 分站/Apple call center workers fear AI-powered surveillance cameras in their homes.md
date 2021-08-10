@@ -14,7 +14,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Apple-call-center-workers-fear-in-home-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Home-based <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> call center workers in Columbia have expressed <a href="https://9to5mac.com/guides/privacy/" target="_blank" rel="noreferrer noopener">privacy</a> concerns over plans to install AI-powered cameras in their homes, to monitor their performance. The same issue has arisen over Apple UK workers based in Albania.</p>
+<p>Home-based <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> call center workers in Colombia have expressed <a href="https://9to5mac.com/guides/privacy/" target="_blank" rel="noreferrer noopener">privacy</a> concerns over plans to install AI-powered cameras in their homes, to monitor their performance. The same issue has arisen over Apple UK workers based in Albania.</p>
 <p>Apple outsources some of its call center work around the world to Teleperformance, and employees say they are being pressured to sign a contract agreeing to the cameras, despite an Apple policy prohibiting it … </p>
 <p><span id="more-743217"></span>
 </p>
@@ -36,7 +36,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 </blockquote>
 <p>Teleperformance says that its use of the technology is for security reasons, to ensure that employees are not taking photos or videos of confidential materials, but the report says that the AI can detect when employees and not using the keyboard or mouse and flag them as idle.</p>
 <p>The <a href="https://www.nbcnews.com/tech/tech-news/big-tech-call-center-workers-face-pressure-accept-home-surveillance-n1276227" target="_blank" rel="noreferrer noopener">full piece</a> is worth reading.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

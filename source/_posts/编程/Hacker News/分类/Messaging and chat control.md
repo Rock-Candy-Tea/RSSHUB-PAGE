@@ -1,0 +1,18 @@
+
+---
+title: 'Messaging and chat control'
+categories: 
+ - 编程
+ - Hacker News
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=6951'
+author: Hacker News
+comments: false
+date: 2021-08-10 00:25:08
+thumbnail: 'https://picsum.photos/400/300?random=6951'
+---
+
+<div>   
+Link: <a href="https://www.patrick-breyer.de/en/posts/message-screening/?lang=en"> Messaging and chat control </a>  
+</div>
+            
