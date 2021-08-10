@@ -18,7 +18,7 @@ thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo
 </p>
 <p>As reported by the <em><a href="https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity" target="_blank" rel="noreferrer noopener">Verge</a></em> on Monday, despite Apple saying it doesn’t have a problem with pay inequality, the company reportedly shut down at least three internal surveys of employees who wanted to verify that information themselves.</p>
 <p>The first survey asked employees to voluntarily share their salaries and how they identify themselves in terms of race, ethnicity, gender, and disability. Apple’s human resources team has asked the responsible employees to stop the survey because the demographic questions contain “personally identifying information.”</p>
-<p>Earlier this month, another group of employees was told to shut down a survey because it had questions about gender.The group removed the related questions and then Apple once again ceased the survey, this time claiming that it was hosted on a corporate account.</p>
+<p>Earlier this month, another group of employees was told to shut down a survey because it had questions about gender. The group removed the related questions and then Apple once again ceased the survey, this time claiming that it was hosted on a corporate account.</p>
 <p>Following all these events, Apple has sent out the following internal statement to its employees:</p>
 <blockquote class="wp-block-quote">
 <p><strong>Prohibited Surveys</strong><br>The following employee surveys are prohibited in all cases and may not be conducted.</p>
