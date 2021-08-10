@@ -14,7 +14,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Apple-child-protection-controversy-Alex-Stamos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Five days after <a href="https://9to5mac.com/2021/08/05/apple-announces-new-protections-for-child-safety-imessage-safety-icloud-photo-scanning-more/" target="_blank" rel="noreferrer noopener">Apple’s child protection measures were announced</a>, there has been no let-up in <a href="https://9to5mac.com/2021/08/06/comment-apples-child-protection-measures-get-mixed-reactions-from-experts/" target="_blank" rel="noreferrer noopener">the controversy</a> surrounding the upcoming new features. Latest to comment is <a href="https://9to5mac.com/guides/facebook/" target="_blank" rel="noreferrer noopener">Facebook’s</a> former <a href="https://9to5mac.com/guides/security/" target="_blank" rel="noreferrer noopener">security</a> chief and now Stanford cybersecurity professor, Alex Stamos.</p>
+<p>Five days after <a href="https://9to5mac.com/2021/08/05/apple-announces-new-protections-for-child-safety-imessage-safety-icloud-photo-scanning-more/" target="_blank" rel="noreferrer noopener">Apple’s child protection measures were announced</a>, there has been no let-up in <a href="https://9to5mac.com/2021/08/06/comment-apples-child-protection-measures-get-mixed-reactions-from-experts/" target="_blank" rel="noreferrer noopener">the controversy</a> surrounding the upcoming new features. Latest to comment is <a href="https://9to5mac.com/guides/facebook/" target="_blank" rel="noreferrer noopener">Facebook’s</a> former <a href="https://9to5mac.com/guides/security/" target="_blank" rel="noreferrer noopener">security</a> chief and now Stanford cybersecurity professor Alex Stamos.</p>
 <p>Stamos says that there are no easy answers here, and calls for more nuanced discussion than the prevailing narratives that this is either a great move or an unacceptable one … </p>
 <p><span id="more-743505"></span>
 </p>
@@ -28,11 +28,11 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <p>Earlier this year I sat a in a courtroom with a dozen teenage girls and women who were victimized on my watch. I heard them explain the years of psychological terror they experienced. I saw the self-cutting scars on their arms and legs. Don’t minimize their pain. Just don’t.</p>
 </blockquote>
 <p>He said that Facebook – which scans uploaded photos – caught 4.5M users posting known matches for CSAM, and that is likely just a proportion of the total number of offenders.</p>
-<p>But he says that those dismissing <a href="https://9to5mac.com/guides/privacy/" target="_blank" rel="noreferrer noopener">privacy</a> concerns are being ‘both harmful and unfair.’</p>
+<p>But he says that those dismissing <a href="https://9to5mac.com/guides/privacy/" target="_blank" rel="noreferrer noopener">privacy</a> concerns are being “both harmful and unfair.”</p>
 <blockquote class="wp-block-quote">
 <p>I have friends at both the EFF and NCMEC, and I am disappointed with both NGOs at the moment. Their public/leaked statements leave very little room for conversation, and Apple’s public move has pushed them to advocate for their equities to the extreme.</p>
 </blockquote>
-<p>He is also critical of Apple unilaterally announcing its own approach after declining to participate in discussions between child safety experts, tech platforms and cybersecurity academics.</p>
+<p>He is also critical of Apple unilaterally announcing its own approach after declining to participate in discussions between child safety experts, tech platforms, and cybersecurity academics.</p>
 <blockquote class="wp-block-quote">
 <p>For the last couple of years, our team at @stanfordio has been hosting a series of conferences on how to balance the safety and privacy aspects of E2EE products. We have seen really productive conversations between advocates, platforms and academics.</p>
 <p>Apple was invited but declined to participate in these discussions, and with this announcement they just busted into the balancing debate and pushed everybody into the furthest corners with no public consultation or debate.</p>
