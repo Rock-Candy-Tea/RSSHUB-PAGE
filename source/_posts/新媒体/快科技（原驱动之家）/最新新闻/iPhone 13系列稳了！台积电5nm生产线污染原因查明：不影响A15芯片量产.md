@@ -1,0 +1,38 @@
+
+---
+title: 'iPhone 13系列稳了！台积电5nm生产线污染原因查明：不影响A15芯片量产'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210810/42a854c2-bc53-43bf-a825-e6c946d0877b.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 10 Aug 2021 15:52:46 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210810/42a854c2-bc53-43bf-a825-e6c946d0877b.jpg'
+---
+
+<div>   
+<p>根据此前多方预测的消息，今年苹果将继续在9月推出全新的iPhone 13系列机型（也有消息称为iPhone 12s系列），依旧包含iPhone 13 mini、iPhone 13、iPhone 13 Pro和iPhone 13 Pro Max四款机型，而随着发布时间的日益临近，关于该机的爆料也越加频繁地现身网络，除了外观和影像的升级外，全新的A15芯片也是大家关注的又一焦点。</p>
+<p>现在有最新消息，近日有报道称生产该芯片的南科18A工厂疑似污染，让不少网友产生担忧。</p>
+<p style="text-align: center"><img alt="iPhone 13系列稳了！台积电5nm生产线污染原因查明：不影响A15芯片量产" h="337" src="https://img1.mydrivers.com/img/20210810/42a854c2-bc53-43bf-a825-e6c946d0877b.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
+<p>据相关媒体最新发布的信息显示，不久前给苹果生产5nm芯片主力的南科18A工厂疑似污染，因此许多方面都担心，台积电的5nm产线会因此会被迫暂时停产，这也将导致苹果的A15芯片的量产受到重创，进而影响到iPhone 13系列的如期发布和上市。</p>
+<p>不过近日台积电方面表示，该事件造成的影响十分轻微，<span style="color:#ff0000;"><strong>气体被污染的主要原因是，氧气中被混入了惰性气体氩气（Ar2）。由于氩气不参与化学反应，所以对生产过程没有影响，工厂端只需要清洗存储槽即可。</strong></span></p>
+<p>其他方面，据此前曝光的消息，全新的iPhone 13系列将依旧采用刘海全面屏设计，且刘海的面积终于得到大幅缩小，显示效果终于迎来突破。</p>
+<p>不仅如此，iPhone 13 Pro系列还将采用三星的120Hz LTPO OLED面板，支持120Hz自适应刷新率，并带来智能调节屏幕刷新率功能，可根据屏幕内容实现1-120Hz之间自动切换，同时也带来更加省电的效果，并支持Face ID和Touch ID双解锁方案。</p>
+<p>此外，该机将搭载全新的A15仿生处理器，支持Wi-Fi 6E技术，后置三摄相机模组，其中iPhone 13 Pro系列还将搭载LiDAR（激光雷达扫描仪）。</p>
+<p style="text-align: center"><img alt="iPhone 13系列稳了！台积电5nm生产线污染原因查明：不影响A15芯片量产" h="337" src="https://img1.mydrivers.com/img/20210810/901765e9-8687-4a04-98ac-485676d22ecd.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
+<p>据悉，全新的iPhone 13系列将会继续在今年9月亮相，虽然可能无望配备Touch ID，但在屏幕、相机等方面都会有不小的升级，而其售价也将同时水涨船高，顶配版有望突破15000元的价格，成为史上最贵iPhone手机。更多详细信息，我们拭目以待。</p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+            
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/pingguo.htm"><i>#</i>苹果</a><a href="https://news.mydrivers.com/tag/iphoneshouji.htm"><i>#</i>iPhone手机</a></p>
+<p class="url">
+     <span>原文链接：<a href="http://mo.techweb.com.cn/phone/2021-08-10/2852999.shtml">Techweb</a></span>
+<span>责任编辑：宪瑞</span>
+</p>
+        
+</div>
+            
