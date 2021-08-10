@@ -13,7 +13,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210810/s_d2304a0bd49040ebbc682d9b9f
 ---
 
 <div>   
-<p>日前，华米科技发布旗下首款儿童手表——Amazfit快乐鸭儿童健康手表，搭载了华米科技自研的黄山1号AI穿戴处理器及BioTracker PPG高精度生物追踪传感器。</p>
+<p>日前，华米科技发布旗下首款儿童手表——Amazfit快乐鸭儿童健康手表，搭载了华米科技自研的黄山1号AI穿戴处理器及BioTracker™ 2 PPG高精度生物追踪传感器。</p>
 <p>该手表提供天真蓝、朝霞粉2种配色，我们快科技已经拿到了天真蓝版本，下面为大家带来图赏。</p>
 <p><strong>Amazfit快乐鸭儿童健康手表配备1.4英寸TFT屏幕，分辨率240x240，创新性地搭载了全新的日光传感器，可以通过户外活动时长提醒来帮助孩子预防近视。</strong></p>
 <p>同时，手表内置跳绳、仰卧起坐、跑步三项学生专属运动模式，助力体育达标；支持多维健康监测，全方位守护孩子健康。</p>
@@ -48,7 +48,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210810/s_d2304a0bd49040ebbc682d9b9f
  <p class="bqian"><a href="https://news.mydrivers.com/tag/tushang.htm"><i>#</i>图赏</a><a href="https://news.mydrivers.com/tag/huamikeji.htm"><i>#</i>华米科技</a><a href="https://news.mydrivers.com/tag/ertongshoubiao.htm"><i>#</i>儿童手表</a></p>
 <p class="url">
      
-<span>责任编辑：随心</span>
+<span>责任编辑：CLY</span>
 </p>
         
 </div>
