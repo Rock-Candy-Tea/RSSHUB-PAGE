@@ -1,0 +1,22 @@
+
+---
+title: '手機
+《FGO》繁中版紀念活動接力舉辦 「斯卡薩哈 = 斯卡蒂」限時登場 開放狩獵任務第 6 彈
+ 8 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/69/5b0bde10b38c5b1594560033da1daz55.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/69/5b0bde10b38c5b1594560033da1daz55.JPG'
+---
+
+<div>   
+《Fate/Grand Order》繁中版（中文名：命運－冠位指定，以下簡稱《FGO》繁中版）今（10）日正式開啟『「Fate/stay night」迦勒底七夕特別紀念活動』及「狩獵任務第 6 彈」，並在 8 月 17 日（二）舉辦「迦勒底...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/69/5b0bde10b38c5b1594560033da1daz55.JPG" referrerpolicy="no-referrer">  
+</div>
+            
