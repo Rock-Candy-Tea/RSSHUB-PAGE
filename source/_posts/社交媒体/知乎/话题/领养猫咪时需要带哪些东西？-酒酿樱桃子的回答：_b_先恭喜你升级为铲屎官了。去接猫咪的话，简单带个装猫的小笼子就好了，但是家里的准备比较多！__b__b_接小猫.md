@@ -1,0 +1,18 @@
+
+---
+title: '领养猫咪时需要带哪些东西？-酒酿樱桃子的回答：_b_先恭喜你升级为铲屎官了。去接猫咪的话，简单带个装猫的小笼子就好了，但是家里的准备比较多！__b__b_接小猫...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-02b2922b5b52d895e617431f1cda8956_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 11 Aug 2021 02:53:00 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-02b2922b5b52d895e617431f1cda8956_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>领养猫咪时需要带哪些东西？</strong><br>酒酿樱桃子的回答<br><p><b>先恭喜你升级为铲屎官了。去接猫咪的话，简单带个装猫的小笼子就好了，但是家里的准备比较多！</b></p><hr><p><b>接小猫回家注意事项：</b></p><p><br></p><blockquote><b>1.必备用品</b><br><br>猫砂盆：有封闭式、半封闭式、敞开式，某宝款式很多，任君挑选，在这里推荐皮蛋家的雪屋猫砂盆，颜值高，带一小段走廊，能防止主子把猫砂带出来；当然，也有全自动、半自动的猫砂盆，看个人经济能力哈，个人还是比较喜欢自己铲屎的，每天通过观察主子粑粑，可以了解他的身体状况。<br><br>猫砂：猫砂是主子用来埋粑粑和尿液的，一般市面上有膨润土、豆腐砂、玉米砂、松木砂、水晶砂等等；按主子的喜好来说，它们最喜欢的是膨润土猫砂，但是膨润土灰尘较大，且砂质粗糙磨损肉垫，还是推荐大家豆腐砂玉米砂；<br><br>猫砂盆建议放在通风好、安静的地方，猫猫上厕所不喜欢被打扰，尤其是刚接回家，会缺乏安全感。<br><br>猫粮：猫粮不做太多推荐，毕竟每只猫的肠胃状况、身体状况不一样，适合的才是最好的；12个月内的猫咪还是要选择幼猫猫粮，1-4月龄的奶猫可以吃些奶糕粮；<br><br><br><br><br><br><br><br></blockquote><p><br></p><hr><p><b>新接回家的小猫一定要慢慢换粮，先吃原主人家喂的猫粮，至少一周的换粮期，每天可逐渐添加少许新的猫粮。</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-02b2922b5b52d895e617431f1cda8956_720w.jpg?source=54b3c3a5" data-rawwidth="2160" data-rawheight="2880" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-25ced5199798b7fd99d2bac4a89cc28a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-02b2922b5b52d895e617431f1cda8956_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-02b2922b5b52d895e617431f1cda8956_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><ul><li>注意，猫咪是肉食动物，且不能吃盐，为了它们的健康，除了水煮鸡肉、牛肉，一定不要给它们吃人吃的食物，一定不要给它们吃人吃的食物。</li></ul><p><br></p><p>(ps:我们家猫粮一直是吃的宠友佳无谷猫粮，每周再酌情喂几次水煮鸡胸肉、牛肉；)</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-f1303764e2a9144acddc0b15c1981362_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-573a5ef61a448d24de6662009682cb6f_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-f1303764e2a9144acddc0b15c1981362_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-f1303764e2a9144acddc0b15c1981362_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-898d0e43429d96c521a321ec3880e5be_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-423123b51f73c0537e8b2c04d94d4056_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-898d0e43429d96c521a321ec3880e5be_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-898d0e43429d96c521a321ec3880e5be_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><blockquote>益生菌：猫咪去新家，适应新环境，换粮等都容易造成身体不适，最明显的就是腹泻，所以铲屎的最好提前备好益生菌；</blockquote><p><br></p><blockquote>益生菌分两种，一种是应对腹泻问题，还有一种是防止便秘。<br><br>饮水机：猫咪远比它自己知道的要更需要补充水份，很多猫咪都不爱喝水，当初为了骗主子喝水也是费劲心思啊，可以买一个宠物饮水机，猫咪更喜欢喝流动的水，而且饮水机可以过滤一些浮毛、杂质保证水源干净。<br><br>猫碗、猫窝、猫爬架：猫碗的大小、高低都可以随着主子的身高去更新换代，碗口要大，尽量不要让主子的胡须去触碰碗壁；随着主子长大可以选择一些带支架的碗，每天低头吃饭对主子颈椎不好；<br><br>猫窝，可以选择半封闭式的，更能给主子带来安全感，或者一些碗状的窝，但它们最爱的还是你不经意留下的破纸箱<br><br>猫爬架猫抓板这些东西，就很随意啦，有时候，你买了，它也不一定喜欢，瓦楞纸做的猫抓板，它们还是比较喜欢的。<br><br><br><br><br><br><br><br></blockquote>  
+</div>
+            
