@@ -13,8 +13,10 @@ thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-162850
 ---
 
 <div>   
-<p>雅顿携手 emoji 推出全球限定联名款「雅顿 ACE 家族」，包含雅顿 ACE 眼霜、雅顿粉胶、雅顿超导精华水，希望消费者「快乐护肤更高效」。此外，二者还共同带来雅顿「表情包日历」，邀请消费者在微博上参与互动，根据每日主题，从官方所给的表情包中选出最能代表自己的一张，自行诠释并在评论区分享，即有机会获取雅顿 × emoji 系列好礼。［SocialBeta 报道］
+<p>雅顿携手 emoji 推出全球限定联名款「雅顿 ACE 家族」，包含雅顿 ACE 眼霜、雅顿粉胶、雅顿超导精华水，希望消费者「快乐护肤更高效」。同时，雅顿携手品牌代言人张哲瀚带来一支模仿 emoji 的视频，呈现线上快乐用表情包，线下也能任性做表情，「全脸无『纹』题」的产品亮点。
+</p><p>此外，雅顿与 emoji 还共同带来雅顿「表情包日历」，邀请消费者在微博上参与互动，根据每日主题，从官方所给的表情包中选出最能代表自己的一张，自行诠释并在评论区分享，即有机会获取雅顿 × emoji 系列好礼。［SocialBeta 报道］
 </p><p><iframe width="100%" height="380" src="https://v.qq.com/txp/iframe/player.html?vid=m3267ao4noz"></iframe>
+</p><p><iframe width="100%" height="380" src="https://v.qq.com/txp/iframe/player.html?vid=o3267770es7"></iframe>
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/198148-1628503465.jpg" alt referrerpolicy="no-referrer">
 </p>  
 </div>
