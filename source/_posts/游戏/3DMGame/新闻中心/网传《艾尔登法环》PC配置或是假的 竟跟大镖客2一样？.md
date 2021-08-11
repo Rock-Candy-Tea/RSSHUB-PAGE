@@ -36,6 +36,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210811/1628654299_7792
 <img src="https://img.3dmgame.com/uploads/images/news/20210811/1628654299_848709.jpg" alt="网传《艾尔登法环》PC配置或是假的 竟跟大镖客2一样？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
+目前《艾尔登法环》Steam页面尚未更新配置规格，因此玩家们还是以官方的最终官宣为准。
+</p>
+<p style="text-indent:2em;">
 《艾尔登法环》是一款黑暗幻想风格ARPG游戏，由From 
 Software开发，万代南梦宫发行。玩家将在辽阔场景与地下迷宫中探索，挑战困难重重的险境，享受克服困境时的成就感。以“交界地”为舞台登场的角色们各有主张，于是在利害关系之下谱成的群像剧，就此展开。
 </p>          
