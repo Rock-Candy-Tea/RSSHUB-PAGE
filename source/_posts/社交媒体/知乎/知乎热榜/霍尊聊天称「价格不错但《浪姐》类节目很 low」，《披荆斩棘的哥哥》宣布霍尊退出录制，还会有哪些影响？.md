@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-7370755f852a84c5e8a76cad3d1287bd_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-5376d2aa4f8bd639d6f31e176df36ba6_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 12 Aug 2021 11:05:26 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-7370755f852a84c5e8a76cad3d1287bd_1440w.jpg'
+date: Thu, 12 Aug 2021 09:37:47 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-5376d2aa4f8bd639d6f31e176df36ba6_1440w.jpg'
 ---
 
 <div>   
-一壶飞云酒的回答<br><br><h2>【没有顶流的命，却得了顶流的病】</h2><p>根据最新消息，湖南卫视删除了霍尊表演的视频</p><p>披荆斩棘的哥哥宣布霍尊退赛</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7370755f852a84c5e8a76cad3d1287bd_1440w.jpg" data-caption data-size="normal" data-rawwidth="822" data-rawheight="155" data-default-watermark-src="https://pic2.zhimg.com/v2-0f4378606df50ad621421153a8bbb75f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7370755f852a84c5e8a76cad3d1287bd_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>其实这个是可以预料到的</p><p>从他的前女友开始爆料，他本人就已经在娱乐圈社死了</p><h3>用他的话语反讽一下大概就是“以他今时今日的地位退出节目，对节目组就是一种恩赐了 ”</h3><p><br></p><p>接下来等着他的，大概就是商务解除、演出解约、然后逐渐沦落为素人</p><p>没有歌再找他唱，粉丝会认清他的面目脱粉</p><p>从吴亦凡到霍尊这类事情也可以看出</p><h3>娱乐圈越来越对“这类不尊重女性和感情的艺人0容忍”</h3><p>也希望这两个例子可以给娱乐圈的艺人们敲响警钟</p><p>学会敬业、尊重、做好自己分内的工作</p><p>不狂妄不自大，毕竟日薪“208万” 所有人都在注视着你们</p><p><br></p><p>现在再看霍尊这个采访，真的十年音乐梦如泡影，讽刺</p><a href="http://link.zhihu.com/?target=https%3A//www.xinpianchang.com/a10433800%3Ffrom%3Dsearch_post" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-bff9bc76f8c99d9f78146342b0aadf10_bh.jpg" data-image-width="960" data-image-height="540" class=" wrap external" target="_blank" rel="nofollow noreferrer">我和这个世界不熟，理想在路上——霍尊篇</a><p></p>  
+炸鸡不加盐的回答<br><br><p>马上就会退赛。</p><p>中国文化管理协会网络文化工委发声，会实行不同程度的行业联合抵制。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5376d2aa4f8bd639d6f31e176df36ba6_1440w.jpg" data-rawwidth="828" data-rawheight="600" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-8fdb7bb9aa2ccff822f3134a47c622a5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5376d2aa4f8bd639d6f31e176df36ba6_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>节目今天刚上，陈露就发了长图，曝光他对此节目的不当言论。目的很明显，就是打！！！！</p><p>要我说就该往死里打，节目组现在肯定是想利用一下这个热度，让大家知道披荆斩棘的哥哥们今日开播。</p><p>我想说，利用起来！！！它只配做一个工具！！！</p><p>因为他真的太让人反胃了，尤其是那句:</p><p>我特么是音乐人 艺术家</p><p>音乐人和艺术家的名声真的受辱了……</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-00f22424185d5507daeddd1b6291a48c_1440w.jpg" data-rawwidth="689" data-rawheight="1551" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-59128038272028c17c570b3a0aa5f35c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-00f22424185d5507daeddd1b6291a48c_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><hr><p>赶紧凉吧，好脏！！！</p>  
 </div>
             
