@@ -28,6 +28,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/App
 <p>As for now, it’s still unclear what Apple plans to create with its Apple Car project, whether it’s a car for retail sales, a ride-sharing car, or even just a technology for other vehicles. Its launch is also unclear, with reports saying it could be unveiled any time in this decade.</p>
 <p>Read our full roundup about the Apple Car <a href="https://9to5mac.com/guides/apple-car/">here</a>.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

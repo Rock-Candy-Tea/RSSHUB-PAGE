@@ -33,13 +33,13 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/arti
 <p style="text-align: left;"><strong>8月10日，广东证监局已对杨旭恩采取出具警示函措施</strong>。根据《证券法》第一百七十条的规定，我局决定对你采取出具警示函的行政监管措施。你应认真吸取教训，督促配偶及其他亲属认真学习证券法律法规，严格规范买卖上市公司股票行为，采取切实有效措施，杜绝此类行为再次发生。</p>
 <p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1055606/01.jpg" alt width="630" data-imgscale="1.968627450980392" data-imgwidth="1004" data-imgheight="510" referrerpolicy="no-referrer"></p>
 <p style="text-align: left;"><strong>董事长老婆神操盘，<strong>大股东亦违规减持</strong></strong></p>
-<p style="text-align: left;">值得注意的是，<strong>陈文丹连续两日操盘非常精准，不仅在阶段高点变相减持了450.28万股，还赚回4万。</strong></p>
-<p style="text-align: left;">6月2日，陈文丹以3.19元集合竞价卖出386.48万股，随后高乐股份股价在开盘40分钟左右冲击涨停，最高股价3.54元涨幅9.6%， 创出阶段反弹最高点，此后一路回落，收盘跌2.17%，股价报3.16元。</p>
+<p style="text-align: left;">值得注意的是，<strong>陈文丹连续两日操盘非常精准，不仅在阶段高点变相减持了450.48万股，还赚回4万。</strong></p>
+<p style="text-align: left;">6月2日，陈文丹以3.19元集合竞价卖出386.48万股，随后高乐股份在开盘40分钟左右冲击涨停，最高股价3.54元，涨幅9.6%， 创出阶段反弹最高点，此后一路回落，收盘跌2.17%，股价报3.16元。</p>
 <p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1055600/01.jpg" alt width="630" data-imgscale="1.809278350515464" data-imgwidth="702" data-imgheight="388" referrerpolicy="no-referrer"></p>
 <p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1055601/011.jpg" alt width="630" data-imgscale="2.5632911392405062" data-imgwidth="810" data-imgheight="316" referrerpolicy="no-referrer"></p>
 <p style="text-align: left;">6月3日，陈文丹以3元价格卖出84万股，又以2.99元股价买入20万股，当日股价收跌4.43%报3.02元。<strong>截至8月12日发稿，高乐股份报2.43元/股，相较于第一次大笔卖出价已下跌23.8%</strong>。</p>
-<p style="text-align: left;">这不是高乐股份今年第一次出事。<strong>4月13日，因减持前未披露减持计划，深交所对公司大股东新鸿辉实下发监管函</strong>。深交所指出，你公司为高乐股份持股5%以上股东。2021年3月 16日，高乐股份披露《关于公司大股东被动减持股份比例达到1%的公告》，称你公司因所持质押股份触及违约处置情形，2021年3月9日至3月12日期间累计被动减持股份947.20万股，占高乐股份总股本的1%，减持金额为1756.04 万元。<strong>上述减持行为发生的15个交易日前你公司未披露减持计划</strong>。</p>
-<p>6月3日，高乐股份还公告，股东新鸿辉实业计划在本公告披露之日起十五个交易日后的三个月内以集中竞价方式减持本公司股份不超过 947.2 万股 （不超过公司总股本比例的1%）。</p>
+<p style="text-align: left;">这不是高乐股份今年第一次出事。<strong>4月13日，因减持前未披露减持计划，深交所对公司大股东新鸿辉实业下发监管函</strong>。深交所指出，你公司为高乐股份持股5%以上股东。2021年3月 16日，高乐股份披露《关于公司大股东被动减持股份比例达到1%的公告》，称你公司因所持质押股份触及违约处置情形，2021年3月9日至3月12日期间累计被动减持股份947.20万股，占高乐股份总股本的1%，减持金额为1756.04 万元。<strong>上述减持行为发生的15个交易日前你公司未披露减持计划</strong>。</p>
+<p>6月3日，高乐股份还公告，大股东新鸿辉实业计划在本公告披露之日起十五个交易日后的三个月内以集中竞价方式减持本公司股份不超过 947.2 万股 （不超过公司总股本比例的1%）。</p>
 <p><strong>被视为A股盲盒龙头 上半年继续亏损</strong></p>
 <p>高乐股份系国内最早上市的玩具企业之一，业务目前主要包括玩具和互联网教育两大业务板块。随着盲盒产业兴起，<strong>公司被视为A股盲盒龙头</strong>。5月10日，公司公布的业绩说明会、路演活动信息显示，投资者对公司盲盒领域的发力非常关注，公司在回答投资者提问中透露，已设立专门的潮玩事业部，负责盲盒等产品的开发、市场推广和运营，公司将进一步开拓潮玩品市场，不断提升在国内玩具市场业务中占比，目前盲盒销售为公司玩具销售中的一部分，在公司整体玩具销售中占比不大。</p>
 <p style="text-align: center;"><img class="nbdLazyload" src="https://cors.zfour.workers.dev/?http://image.nbd.com.cn/uploads/articles/images/1055602/03.jpg" alt data-imgscale="3.632" data-imgwidth="454" data-imgheight="125" referrerpolicy="no-referrer"></p>
