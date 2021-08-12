@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-12 08:08:09
-thumbnail: 'https://pic3.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162'
+date: 2021-08-12 09:07:12
+thumbnail: 'https://pica.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-ff194198578194e1c47521e7fbea5ac4_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Moriarty K，</span><span class="bio">正常合作请私信，洗稿白嫖劝收手。</span>
 <a href="https://www.zhihu.com/question/433021197/answer/2052563761" class="originUrl" hidden>查看知乎原文</a>
 </strong>
