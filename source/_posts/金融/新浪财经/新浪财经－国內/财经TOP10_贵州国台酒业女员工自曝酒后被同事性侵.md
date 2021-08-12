@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/spider20210812/461/w1080h181/20210812/8435-82626a218e4d8a40af3749053be19ecf.png'
 author: 新浪财经
 comments: false
-date: Thu, 12 Aug 2021 13:15:09 GMT
+date: Thu, 12 Aug 2021 13:36:54 GMT
 thumbnail: 'https://n.sinaimg.cn/spider20210812/461/w1080h181/20210812/8435-82626a218e4d8a40af3749053be19ecf.png'
 ---
 
@@ -44,7 +44,7 @@ thumbnail: 'https://n.sinaimg.cn/spider20210812/461/w1080h181/20210812/8435-8262
 <p>　　<strong>NO.5  <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-08-12/doc-ikqciyzm0959463.shtml?cref=cj">中国西电集团与国家电网下属企业将组建千亿级新央企</a></strong></p>
 <p cms-style="font-L isIntable ">　　<a href="https://finance.sina.com.cn/realstock/company/sh601179/nc.shtml" target="_blank">中国西电</a>集团与国家电网公司相关输配电装备制造企业组建的千亿级新央企呼之欲出，鞍钢重组本钢、中国宝武重组山钢……“十四五”开局之年，资源优化配置提速，国企重组整合动作频频。</p>
 <p cms-style="font-L isIntable ">　　专家认为，未来国企重组整合的力度将进一步加大，不过，要真正实现国有资产布局的优化调整，必须在做强做优上做文章，在提升竞争力和创新力上下功夫。</p>
-<p cms-style="font-L isIntable ">　　《经济参考报》记者获悉，我国输配电装备制造领域新央企组建实施方案已上报待批，该集团将由<span id="stock_sh601179"><a href="https://finance.sina.com.cn/realstock/company/sh601179/nc.shtml" class="keyword" target="_blank" data-sudaclick="content_marketkeywords_p">中国西电</a></span><span id="quote_sh601179"></span>集团和国家电网公司下属许继集团、平高集团、山东电工电气集团等电力装备制造企业重组而成，南瑞集团旗下三家制造企业也将剥离纳入重组范围。</p>
+<p cms-style="font-L isIntable ">　　记者获悉，我国输配电装备制造领域新央企组建实施方案已上报待批，该集团将由<span id="stock_sh601179"><a href="https://finance.sina.com.cn/realstock/company/sh601179/nc.shtml" class="keyword" target="_blank" data-sudaclick="content_marketkeywords_p">中国西电</a></span><span id="quote_sh601179"></span>集团和国家电网公司下属许继集团、平高集团、山东电工电气集团等电力装备制造企业重组而成，南瑞集团旗下三家制造企业也将剥离纳入重组范围。</p>
 <p>　　<strong>NO.6  <a href="https://finance.sina.com.cn/jjxw/2021-08-12/doc-ikqcfncc2493978.shtml" target="_blank" title="阿里再通报女员工被侵害事件：成立反职场陋习小组">阿里再通报女员工被侵害事件：成立反职场陋习小组</a></strong></p>
 <p cms-style="font-L">　　8月12日，阿里巴巴集团公布了推动反性骚扰的机制化工作进展。</p>
 <p cms-style="font-L">　　<font cms-style="font-L">阿里称，目前集团807事件调查组的工作接近尾声，结果会尽快向大家宣布。</font></p>
