@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/108/028/original/795613c24dc15c59.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/038/109/371/original/2285a1961117beed.jpeg'
 author: Mastodon
 comments: false
-date: Thu, 12 Aug 2021 00:00:03 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/108/028/original/795613c24dc15c59.jpeg'
+date: Thu, 12 Aug 2021 01:30:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/109/371/original/2285a1961117beed.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】 ビッチな令嬢 （ガンダムＢＦ）<br>投稿日：2014.4.23<br>pixivに挙げた絵でパンツは白がいいとのコメントをいただいたので白バージョンをこちらに挙げてみます。<br>台詞も見直してみました<br>ついでに年...<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%93%E3%83%AB%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA" class="mention hashtag" rel="tag">#ガンダムビルドファイターズ</a><br><a href="https://www.a-legend.net/wordpress/?p=1959" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=1959</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/108/028/original/795613c24dc15c59.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[イラスト] 【R-18】宇宙最強の人妻たち（ドラゴンボール）<br>投稿日：2015.8.13<br>最近『ドラゴンボール超』という新番組やってるみたいですね。<br>またなにかのリメイクかなと思っていたら完全新作とは…出足遅れました。<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB" class="mention hashtag" rel="tag">#ドラゴンボール</a><br><a href="https://www.a-legend.net/wordpress/?p=4052" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=4052</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/109/371/original/2285a1961117beed.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
