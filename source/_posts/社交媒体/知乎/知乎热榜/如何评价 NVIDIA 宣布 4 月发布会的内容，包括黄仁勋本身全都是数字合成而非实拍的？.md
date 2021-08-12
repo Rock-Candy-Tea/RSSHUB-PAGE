@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7315'
+headimg: 'https://pic2.zhimg.com/v2-5cd3f1e6c57f4d6f9a2f6f865a90cf34_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 12 Aug 2021 10:41:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7315'
+date: Thu, 12 Aug 2021 09:53:41 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-5cd3f1e6c57f4d6f9a2f6f865a90cf34_1440w.jpg'
 ---
 
 <div>   
-苏三公子的回答<br><br><p>假消息啊…</p><p>那n没m事s了l</p><hr><p>？？？电影电视剧要迎来大变局了…</p><p>NV赢麻了…</p><p>这个烤显卡片段各种剪辑；就没有一个人提过可能是假的…</p><p>而且老黄这个神态，比国内多数小鲜肉都鲜活</p><p>以后流量剧可能只签形象使用费了，</p><p>台词功底？</p><p>演技？</p><p>全由AI实现。</p><p>长得好看就行了。</p><p>再往后一看，演员是个啥？</p><p>捏人不香么？</p><p>再一想，<b>爱情动作片</b>…咳咳。</p><p>云一个会有“专家”出来说设计人伦道德问题。</p><p>支持国家全力引进此技术，</p><p>争取早日对饭圈/娱乐圈实施大清洗。</p><hr><p>题外话，前两天按摩店公布完财报+6600XT货源还行网上刚开始唱衰NV，这就被打脸了…</p><p>凭AMD现在的AI能力，即使以苏妈的魔法能力这差距也追不上吧…</p>  
+SenseiX的回答<br><br><p>首先，这应该是个假消息</p><p>纪录片没看，应该是要讲深度学习+CG的合作</p><p>即使用了gan之类的生成技术，人的细微表情还是很难模仿出来，如果是CG，不可能看不出来。</p><p><br></p><p>微博上也全都在刷</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-5cd3f1e6c57f4d6f9a2f6f865a90cf34_1440w.jpg" data-rawwidth="1170" data-rawheight="2532" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-d5ddbdce571011a9e4ae84e479582a31_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-5cd3f1e6c57f4d6f9a2f6f865a90cf34_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
