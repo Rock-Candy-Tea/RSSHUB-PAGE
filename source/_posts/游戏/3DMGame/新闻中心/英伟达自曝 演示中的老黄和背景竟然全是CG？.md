@@ -14,6 +14,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210812/1628757002_2672
 
 <div>   
 <p style="text-indent:2em;">
+<strong>更新：经过对视频的重新仔细核查，英伟达员工本意为仅有最后一段的老黄和厨房为渲染动画，发布会中大多为实际拍摄场景并非都是动画。</strong>
+</p>
+<p style="text-indent:2em;">
 在疫情之前，英伟达往年在推出新产品和科技时，都会由CEO黄仁勋到发布会现场上台主持。但在疫情爆发后，他们不得不作出改变。于是老黄在自家厨房做演示的传统就开始了。
 </p>
 <p style="text-indent:2em;">
@@ -100,6 +103,20 @@ Omniverse作为英伟达旗下最新的产品之一，是基于 Pixar 通用场�
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210812/1628757333_974768.png" alt="英伟达自曝 演示中的老黄和背景竟然全是CG？ " referrerpolicy="no-referrer"> 
-</p>          
+</p>
+<div>
+<div>
+<div>
+</div>
+<div style="font-size:13px;background-color:#FFFFFF;">
+<div>
+<div>
+</div>
+<div>
+</div>
+</div>
+</div>
+</div>
+</div>          
 </div>
             
