@@ -40,7 +40,6 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/wha
 <li><a href="https://9to5mac.com/2021/08/06/apple-says-any-expansion-of-csam-detection-outside-of-the-us-will-occur-on-a-per-country-basis/">Apple says any expansion of CSAM detection outside of the US will occur on a per-country basis</a></li>
 </ul>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

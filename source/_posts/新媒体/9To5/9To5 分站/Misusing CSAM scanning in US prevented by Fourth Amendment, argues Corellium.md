@@ -45,7 +45,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/4th
 <p>Of course, that doesn’t mean the government couldn’t use the information in other ways, but then you’re into a whole other legal rabbit hole.</p>
 <p>Stanford’s Alex Stamos has <a href="https://9to5mac.com/2021/08/10/apple-child-protection-controversy-alex-stamos/" target="_blank" rel="noreferrer noopener">called for more nuanced discussion</a> on the risks of misusing CSAM scanning, and this thread certainly qualifies.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
