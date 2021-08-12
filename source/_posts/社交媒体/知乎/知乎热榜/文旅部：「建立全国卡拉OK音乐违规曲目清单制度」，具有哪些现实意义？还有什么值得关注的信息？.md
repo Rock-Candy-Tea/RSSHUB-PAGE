@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-17f32f70fb538c8f7eb06db6ac543aef_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-42b637c795d2dc3834e210c4362d7139_720w.jpg'
 author: 知乎
 comments: false
-date: Wed, 11 Aug 2021 16:19:51 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-17f32f70fb538c8f7eb06db6ac543aef_1440w.jpg'
+date: Wed, 11 Aug 2021 16:38:40 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-42b637c795d2dc3834e210c4362d7139_720w.jpg'
 ---
 
 <div>   
-酸了的回答<br><br><p>违规曲目~~说实话，我在ktv唱过那么久，还没有遇到什么一听就违规的曲目呀，所以对于这个违规曲目的内容和标准，我个人来讲还是非常好奇的~</p><p>对于这个，我目前有两种猜测，一是歌曲本身不违规，但是ktv并没有相应歌曲的版权，导致了曲目侵犯了著作人的权益而违规，但是这个对于整个行业来讲是真的不好查，因为某些ktv的系统是相对独立的，其中的歌曲、mv资源也是位于ktv自己的硬盘上，别人想要查真没那么容易~</p><p>所以，我更倾向于另外一种猜测，歌曲本身的内容违规</p><p>现在某些墨水不怎么够的作曲人为了让自己的歌曲能有机会红，让自己有机会赚钱，喜欢在歌词中明着暗着打一些擦边球，还强行解释说这叫个性</p><p>这种歌曲对于尚处于初高中的学生是很有吸引力的，他们正需要一些独特的东西来吸引同学们的注意，特别是那些成绩不怎么好的学生，这种朗朗上口却三观不正的歌曲很容易让中学生产生错误的认知</p><p>所以这种违规的曲目肯定必须要管，不仅要禁止其在ktv等娱乐场所流传，更要在加大唱吧、k歌宝等网上k歌平台的监管力度才能给下一代的成长建立一个良好的环境</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-17f32f70fb538c8f7eb06db6ac543aef_1440w.jpg" data-rawwidth="1200" data-rawheight="900" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-0c675293e7edc643262d1dadd2b20b3d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-17f32f70fb538c8f7eb06db6ac543aef_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+不正经的图个拉底的回答<br><br><p>卡拉OK这个名词，真的是有一定的年代感。</p><p>在这个钱柜都已经纷纷关店的时代，实际上已经是卡拉没有OK了。</p><p>最实际的说一句：谁要去KTV唱我们一起学猫叫啊？</p><p>真的想要唱歌，线上K歌App其实完全可以满足需求了。</p><p>但是，注意啊，虽然说这里的“卡拉OK音乐”是指的实体歌舞娱乐场所，其实我认为并不局限于线下，线上同样需要整顿。</p><p>说到这里我其实想岔开一句，说件特别社死的事儿。</p><p>就还比较早的时候，同学聚会去KTV，有个哥们带了他的小侄子，五六岁大的娃儿跟我们也没法玩到一起，所以后来就我们玩骰子他一个人自己点歌唱歌，所以一开始我们也没注意他在放啥，直到后来响起“昨晚熬夜早早起床一晚没睡觉”的时候，我们几个才突然从6个5,7个6里惊醒过来，一个切歌一个捂眼睛一个把崽子拉到一边问他咋点这种歌。</p><p>崽子特别委屈地嘟着嘴说最近学校学喇叭来着。</p><p>当时真的尴尬得几个人联合用脚趾抠出了一套小区。</p><p>后来，大家也没敢再提这事儿，但是再去K歌，很有默契地拒绝携带未成年人一同进入。</p><p>其实现在正规的KTV里也没有这样的歌了，但还是心有余悸啊。包括说有时候玩线上K歌App，也确实是怕有些极其恶俗的歌混迹其中。</p><p>所以，这么一来也好，至少有些恶俗或者歌词比较过份的曲目，也确实应该禁一波了。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-42b637c795d2dc3834e210c4362d7139_720w.jpg" data-caption data-size="normal" data-rawwidth="240" data-rawheight="240" data-default-watermark-src="https://pic2.zhimg.com/v2-f16b326cccd3de0d3d98e3250d614b12_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210812/1628732697_9555
 《<a target="_blank" href="https://www.3dmgame.com/games/acvalhalla/">刺客信条：英灵殿</a>》DLC“围攻巴黎”于8月11日正式推出，IGN为其打出评分6分，IGN表示“围攻巴黎”DLC一般，尽管“围攻巴黎”DLC开放性和爽快感令人满意，但在《刺客信条：英灵殿》本体的冒险故事已经稳如“雷神之锤”一般时，此DLC的推出显得不是那么必要。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628732697_955537.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628732697_955537.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 IGN评分：6分 一般
@@ -26,7 +26,7 @@ IGN评分：6分 一般
 尽管“围攻巴黎”DLC开放性和爽快感令人满意，但在《刺客信条：英灵殿》本体的冒险故事已经稳如“雷神之锤”一般，此DLC的推出显得不是那么必要。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628732754_286506.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628732754_286506.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 IGN总评：
@@ -41,13 +41,13 @@ M站均分
 PS5版
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628733206_175458.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628733206_175458.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 PC版
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628733214_118427.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210812/1628733214_118427.jpg" alt="《刺客信条：英灵殿》DLC围攻巴黎IGN 6分：可以出但没必要" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
