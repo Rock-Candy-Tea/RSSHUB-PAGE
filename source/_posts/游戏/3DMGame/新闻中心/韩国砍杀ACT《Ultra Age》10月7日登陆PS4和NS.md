@@ -19,6 +19,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210813/1628809127_9864
 <p style="text-indent:2em;">
 <strong>《Ultra Age》预告：</strong> 
 </p>
+<p align="center">
+<iframe src="https://player.youku.com/embed/XNTE5Mjk0NDk0NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="498" frameborder="0">
+</iframe>
+</p>
 <p style="text-indent:2em;">
 《Ultra Age》讲述的故事是，在遥远的未来，地球的资源开始枯竭，生态系统因为过去陨石的经过，发生了无法挽回的变化。人类分成了两派：有的逃离地球，移居到太空殖民地，还有留在地球，住在被称为“避难所”的设施。
 </p>
@@ -27,7 +31,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210813/1628809127_9864
 </p>
 <p style="text-indent:2em;">
 《Ultra Age》使用虚幻引擎制作，将于10月7日发售，登陆PS4和Switch平台。
-</p><p align="center"><iframe src="https://player.youku.com/embed/XNTE5Mjk0NDk0NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="498" frameborder="0"></iframe></p>
+</p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210813/1628809127_986429.jpg" alt="韩国砍杀ACT《Ultra Age》10月7日登陆PS4和NS" referrerpolicy="no-referrer"> 
 </p>
