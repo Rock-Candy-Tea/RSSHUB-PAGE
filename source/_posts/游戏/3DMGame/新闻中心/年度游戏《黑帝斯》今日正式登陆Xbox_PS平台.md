@@ -22,6 +22,13 @@ Supergiant Games和Private Division共同宣布获得超过50个年度游戏大�
 <p style="text-indent:2em;">
 实体版《黑帝斯》包含一本角色画册与一份《黑帝斯》数字原声带兑换码。PlayStation零售版首发实体游戏封面也会带有夺人眼球的金铝箔装饰，欢迎想为自己游戏架增添亮丽新成员的玩家选购！
 </p>
+<h3 style="text-indent:2em;">
+中文宣传片：<br>
+</h3>
+<p align="center">
+<iframe src="https://player.youku.com/embed/XNTE5MzAyODUwOA?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
 <p style="text-indent:2em;">
 在PlayStation
  5和Xbos Series X|S上游玩《黑帝斯》可进一步享受技术优势，在4K分辨率下以每秒60帧的目标帧率进行游戏。Xbox 
