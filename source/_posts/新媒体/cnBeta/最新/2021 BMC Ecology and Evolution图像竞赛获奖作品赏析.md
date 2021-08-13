@@ -1,0 +1,19 @@
+
+---
+title: '2021 BMC Ecology and Evolution图像竞赛获奖作品赏析'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/08/52afa4eb259608b.jpg'
+author: cnBeta
+comments: false
+date: Fri, 13 Aug 2021 06:54:05 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/08/52afa4eb259608b.jpg'
+---
+
+<div>   
+据外媒报道，<strong>从毛茸茸的甲壳类动物到捕猎的黄蜂和逃跑的青蛙，2021 BMC Ecology and Evolution图像竞赛制作了一组令人印象深刻的图像，它们展示了地球动植物生命的多样性。</strong>所有图片都是开放获取的并可在创作共用署名4.0 (CCBY)许可下使用。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/52afa4eb259608b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/52afa4eb259608b.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">获奖作品由来自美国费城宾夕法尼亚大学的Kristen Brown创作，其描绘了澳大利亚大堡礁苍鹭岛上一群呈螺旋形的杰克鱼。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/ec89a947ee9227a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/ec89a947ee9227a.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Kristen Brown说道：“这张照片既展现了海洋的美丽和富饶，也展现了海洋环境不断恶化的危机。令人遗憾的是，像大堡礁苍鹭岛这样珊瑚覆盖面积大、鱼类数量丰富的珊瑚礁正变得越来越稀少。如果不集中努力减少温室气体排放和改善水质，我们所知道的珊瑚礁将面临在我们有生之年消失的风险。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/60053b6ca3d69e4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/60053b6ca3d69e4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">栏目编辑Josef Settele推荐了这一作品，他写道：“海洋生物多样性维持着我们星球的生命和健康，但人类活动正威胁着世界海洋的福祉。Kristen Brown引人注目的形象象征着需要集中努力管理生物多样性的丧失并确定保护的优先次序。”</p><p style="text-align: left;">除了获奖图片，评委还选出了总亚军及六个类别的获奖者：保护生物学（Conservation Biology）、进化发育生物学与生物多样性（Evolutionary Developmental Biology and Biodiversity）、行为生态学（Behavioural Ecology）、人类进化与生态（Human Evolution and Ecology）、生态发育生物学（）、种群生态学（Ecological Developmental Biology）、编辑选择（Editor's Pick）。获奖的图片展示了地球的生物多样性及其进化起源，从物种如何学习和发展到物种之间和物种内部的冲突、合作和寄生关系。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/4db34ed5e31e892.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/4db34ed5e31e892.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">西班牙巴伦西亚大学的Roberto García-Roa拍摄了“人类进化与生态”的获奖照片，另外，他还提交了“行为生态学”和“人类进化与生态学”的获奖照片。照片显示，在马来西亚的一片森林里，白蚁士兵沿着一段废弃的绳子迁徙。</p><p style="text-align: left;">Roberto García-Roa介绍道：“数千只白蚁士兵能在一个复杂的社会环境中迁徙，在这个社会环境中，每只白蚁都有自己的使命，这都是一个全球目标：生存和繁殖群体。在这种情况下，这些白蚁利用几米长的废弃绳索穿越马来西亚森林。一旦人类消失，自然就会恢复它的空间并使用生存所需的东西。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/19ef27b15e6caf3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/19ef27b15e6caf3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">苏里南新热带野生动物和环境研究所的Dimitri Ouboter的《Eerie Stalker》被编辑选中，他捕获了一只巨大的角斗士蛙，几秒钟后这只青蛙从试图发起攻击的蛇手中逃脱。此前，人们曾观察到巨型角斗士蛙通过发出呼救信号、跳跃和充气肺部等方式逃离蛇的咬口，这样小蛇就很难抓住它们了。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/4c99ead89d5a736.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/4c99ead89d5a736.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">BMC Ecology and Evolution图像竞赛是为了让生态学家和进化生物学家有机会利用他们的创造力来突出他们的工作并展示艺术与科学之间的交叉。获奖图片则由BMC Ecology and Evolution的编辑和该杂志编委会的资深成员挑选。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/08/46ecc002ac90f38.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/08/46ecc002ac90f38.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">编辑Jennifer Harman说道：“我们在评判今年提交给比赛的精彩图片时度过了一段美好的时光。我们的编辑利用他们的专业知识来确保获奖图片的选择既考虑到了图片本身的技术质量和美感也考虑到了图片背后的科学故事。因此，本次竞赛在很大程度上反映了BMC的创新、求知欲和诚信精神。我们感谢所有参加今年比赛的人；我们希望我们的读者喜欢观看这些图片并发现它们背后的故事。”</p>   
+</div>
+            
