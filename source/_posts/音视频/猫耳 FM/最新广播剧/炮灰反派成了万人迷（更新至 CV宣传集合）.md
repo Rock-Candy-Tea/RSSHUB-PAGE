@@ -13,6 +13,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacove
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202108/13/c7a93716743d5fab631c91805220b15d104955.jpg" referrerpolicy="no-referrer"><br><p>广播剧炮灰反派成了万人迷预告合集</p>  
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202108/13/c7a93716743d5fab631c91805220b15d104955.jpg" referrerpolicy="no-referrer"><br><p>秦越：稳得高处@VA稳得高处</p>  
 </div>
             
