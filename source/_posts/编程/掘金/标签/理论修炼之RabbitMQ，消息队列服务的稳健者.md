@@ -27,25 +27,25 @@ thumbnail: 'https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71f13f9933824c6197
 <h1 data-id="heading-1">🎏 01. RabbitMQ支持的几种队列模式</h1>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71f13f9933824c61974a397b132c470e~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer">
 还是这个图精简，一下子就看完了6种模式。</p>
-<h1 data-id="heading-2">🎏 01.1 简单队列模式</h1>
+<h2 data-id="heading-2">🎏 01.1 简单队列模式</h2>
 <p>1个生产者，1个消费者。这种模式下消费者是按照消息的生产顺序严格进行消费的，可以看作是严格顺序消息队列。</p>
-<h1 data-id="heading-3">🎏 01.2 工作队列</h1>
+<h2 data-id="heading-3">🎏 01.2 工作队列</h2>
 <p>1个生产者，多个消费者，消费者按照次序逐次把消息排放到各个消费者。因此默认情况下，消费的调度并不是按照工作量来的，而是按照顺序公平调度来的。</p>
 <p>幸运的是RabbitMQ提供了参数，可以修改使用带有prefetch_count=1设置的Channel#basic_qos方法 。这使用basic.qos协议方法告诉 RabbitMQ 一次不要给一个工人多个消息。或者，换句话说，在处理并确认前一条消息之前，不要向工作人员发送新消息。相反，它会将它分派给下一个不忙的工人。</p>
 <pre><code class="hljs language-shell copyable" lang="shell">channel.basic_qos(prefetch_count= 1 )
 <span class="copy-code-btn">复制代码</span></code></pre>
-<h1 data-id="heading-4">🎏 01.3 发布、订阅模式</h1>
+<h2 data-id="heading-4">🎏 01.3 发布、订阅模式</h2>
 <p>也是1个生产者，多个消费者，不过与上面方案不同的是每一个消费者都有自己的一个队列。</p>
 <p>生产者将消息直发送到交换机，每个队列都要绑定到交换机。有几种可用的交换类型：<strong>direct</strong>、<strong>topic</strong>、<strong>headers</strong> <strong>和fanout</strong>。我们将关注最后一个——它就是广播(fanout)</p>
 <p>因此无论交换机绑定多少队列，交换机总会保证消息被广播给每一个队列。</p>
-<h1 data-id="heading-5">🎏 01.4 路由模式</h1>
+<h2 data-id="heading-5">🎏 01.4 路由模式</h2>
 <p>仍然是多个消费者，生产者嘛，就不一定了。 这里生产者把消息发送到 direct类型的交换机上。该交换机按照绑定的Key路由消息到固定的队列。</p>
 <p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d429a9cd03bf4d3daf35afc72ed0e4f1~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<h1 data-id="heading-6">🎏 01.5 主题模式</h1>
+<h2 data-id="heading-6">🎏 01.5 主题模式</h2>
 <p>主题模式相比路由模式，其更灵活，按照订阅的主题建立相关队列，交换机按照主题路由消息到各个队列。</p>
 <p>这里一条消息如果负责多个队列的规则，则消息被路由分发到多个队列。当然如果多个规则都匹配一条消息，在一个队列内这条消息也仅被路由1次。</p>
 <p>主题可以支持通配符*和#。</p>
-<h1 data-id="heading-7">🎏 01.6 RPC模式</h1>
+<h2 data-id="heading-7">🎏 01.6 RPC模式</h2>
 <p>大家都知道RPC是远程过程调用，其可以返回调用后执行的结果值，因此通过RPC模式，可以利用RabbitMQ构建一个基于RPC通讯的分布式微服务系统。</p>
 <h1 data-id="heading-8">🎏 02 客户端连接</h1>
 <p>这里的连接介绍基于.net client sdk，当然java的客户端也是类似。但其他客户端sdk可能会不太一样，因此谨慎参考。</p>
