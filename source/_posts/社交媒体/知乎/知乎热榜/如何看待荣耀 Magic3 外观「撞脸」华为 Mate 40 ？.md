@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3608'
+headimg: 'https://pic1.zhimg.com/v2-5de178c64e85f84cd8c38590ab0e205f_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 12 Aug 2021 14:27:10 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3608'
+date: Thu, 12 Aug 2021 16:05:04 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-5de178c64e85f84cd8c38590ab0e205f_1440w.jpg'
 ---
 
 <div>   
-佛系指南的回答<br><br><h2>这次外观绝对是荣耀Magic3的最大竞争力，也是最精彩的一步。</h2><p>或许很多人会说，这不就是抄袭华为Mate40嘛。</p><p>我想说的是，绝不是抄华为这么简单。当然，这也不是抄，华为必然把模具送给了荣耀，不然不可能数据这么匹配。</p><p>其次，外观的一致性，使得荣耀Magic3有点下一代华为Mate系列的意思，现在全世界都值得华为Mate系列即将消失，如果你是一个花粉，预算足够多，你有什么理由不买一个质感、颜值都和华为Mate同源的荣耀Magic3呢？只不过花了一个标，换了一个芯片，研发还是华为那批人。</p><p>然后，荣耀Magic3和华为Mate40相似度非常高，能够继承华为Mate系列的线下品牌力。</p><p>因为华为品牌力在国内非常强，尤其是线下，如果荣耀想要承接住华为Mate系列让出来的巨大的高端市场，消费者认知这块，如果你用了一个陌生的外观，那么消费者根本不认你，你比OPPO的Find X3 Pro和vivo的X60 Pro还要眼生，而华为Mate40同款的外观，很让线下用户有亲切感：那个熟悉的华为回来了，它如今以荣耀新生，它流淌着华为的血脉，荣耀Magic3的产品品牌力，可以建筑在华为Mate系列上，而不需要花费巨大的人力物力去构造。</p><p></p>  
+南瓜酥的回答<br><br><p>荣耀早就暗示过了。</p><p>此前就放出了Magic3的slogan，叫<b>「致非凡」</b>；而Mate40的slogan，恰好是<b>「跃见非凡」</b>。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5de178c64e85f84cd8c38590ab0e205f_1440w.jpg" data-rawwidth="1440" data-rawheight="761" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-f2a7d45edf4dfd4846c347646e9db83d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5de178c64e85f84cd8c38590ab0e205f_r.jpg" referrerpolicy="no-referrer"></figure><p>后来曝出的真机图，也基本和今天发布会的结果一致。</p><p>那么，荣耀为什么要这么做？</p><p>很简单，在当下麒麟芯片紧缺，Mate40无货可出，Mate50面临断更的情况下，荣耀恰好手握高通骁龙888+，恰好，没有自家的高端旗舰系列。</p><p>于是对荣耀来讲，很自然的会就想到，让Magic继承mate系列的衣钵，成为新的商务时尚旗舰。</p><p>这个定位很有魄力，也很巧妙。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6738a21df443d5c52f52df93464d2034_1440w.jpg" data-rawwidth="6000" data-rawheight="4000" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-1475c068caa52d30a3ef55b5fba1720e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6738a21df443d5c52f52df93464d2034_r.jpg" referrerpolicy="no-referrer"><figcaption>真机图，来自@小蒜苗</figcaption></figure><p>有魄力是说，对刚刚回了一点血量的荣耀来讲，Magic3卖4599起，最高7999，是有很大风险的。</p><p>巧妙是指，荣耀对华为可太熟悉不过了，对Mate40可太了解不过了。</p><p><br></p><p>因此做一款脱胎自华为的高端旗舰手机，是最省力，也最有把握的事情。</p><p>如果荣耀在这个时间段，自己全新设计Magic3，要背负的风险会成倍增加。</p><p><b>所以，既然你华为P50可以撞脸我荣耀50，那我Magic3，为啥不能撞脸你Mate40呢？</b></p><p>各撞脸一次，公平了！</p><p>（手动狗头）</p>  
 </div>
             
