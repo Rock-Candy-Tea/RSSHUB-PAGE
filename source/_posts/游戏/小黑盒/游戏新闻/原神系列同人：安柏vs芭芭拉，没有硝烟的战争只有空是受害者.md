@@ -1,0 +1,18 @@
+
+---
+title: '原神系列同人：安柏vs芭芭拉，没有硝烟的战争只有空是受害者'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/13/f25d05304c10e0f95245a5e1ca6f5443/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 13 Aug 2021 10:59:36 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/13/f25d05304c10e0f95245a5e1ca6f5443/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p><b>前情回顾：空回到休息室就被安柏抱住，芭芭拉在一边看着越来越不舒服，一气之下竟然和自己的好闺蜜正式宣战，这修罗场是阻挡不了了……</b></p></blockquote><p> </p><p>芭芭拉说完气氛就进一步凝固了，安柏现在头很大，睡觉前芭芭拉还一脸讨伐渣男的神情跟安柏咬耳朵，说旅行者太“多情”了，结果没想到一转头就公然和自己宣战了！</p><p>虽然安柏自己也觉得不好意思，明明就刚认识没多久，偏偏让自己这么关心，想不承认自己的感觉都难，再看芭芭拉同样羞红的脸却又十分坚决的态度，安柏心里很清楚，看来这是场硬仗啊！</p><p><img class="lazy" data-height="1067" src="https://imgheybox.max-c.com/bbs/2021/08/13/f25d05304c10e0f95245a5e1ca6f5443/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p>此时在一边飘着的派蒙再傻也感觉到气氛有些不妙，芭芭拉的身上仿佛有一股水气在升腾，缓缓地变成了一条水龙的模样，而安柏则是火一般炽热，仿佛幻化出来一只凤凰在喷吐烈焰……两个人什么也不说，就这样对视着，派蒙加在中间享受着传说中的冰火两重天，感觉自己快要窒息了。</p><p><img class="lazy" data-height="1003" src="https://imgheybox.max-c.com/bbs/2021/08/13/0a200c086084937f78833e4638530c67/thumb.jpeg" data-width="1417" referrerpolicy="no-referrer"></p><p>眼看着两人“没有硝烟的战争”愈演愈烈，派蒙却没任何办法，以一个吃货的眼光来看，实在是不能理解，空这大猪蹄子有什么好的能让这对儿闺蜜变得相爱相杀，除了长得帅点也没什么特别的啊，这难道就是小白脸的威力？<br></p><p><img class="lazy" data-height="945" src="https://imgheybox.max-c.com/bbs/2021/08/13/aaf02a771e238e6f7370f1bfc336e369/thumb.jpeg" data-width="1683" referrerpolicy="no-referrer"></p><p>“芭芭拉你和他才刚认识多长时间，我可不信空会说这样的话”安柏率先打破了沉默主动出击“而且如果真要说的话可是旅行者先给我表白的，派蒙可以作证！”<br></p><p>派蒙突然被cue心里很慌，生怕卷入这种高领域战斗</p><p>“嗯，好像是有…说过什么，哦对，说过安柏很可爱”</p><p>话一出口派蒙就后悔了，自己这和在拱火有什么区别啊！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/13/3db48e197696d7ba6f2ac661feabf66a/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>“什么叫好像？”安柏对派蒙的用词有些不满“他明明就是那样说的”</p><p>“对对对，是这样说的！”</p><p>一旁的芭芭拉却看笑了，直接坐到了床的另一边和安柏四目相对</p><p>“哪有表白就说别人可爱的，在旅行者心里派蒙也很可爱吧，难不成还能说他喜欢派蒙吗？”</p><p>“喂，你们抢这个大猪蹄子不要误伤我啊！”</p><p><img class="lazy" data-height="508" src="https://imgheybox.max-c.com/bbs/2021/08/13/af877e0a72645d9ec22f93f3e421dff2/thumb.jpeg" data-width="977" referrerpolicy="no-referrer"></p><p>就在这边的战况愈演愈烈的时候，突然两个好闺蜜都想到了一个问题，她们都你来我往好几个回合了，床上这大猪蹄子就算真是头猪也该要被乱醒了吧？看他这样趴着睡，连姿势都没换过，绝对有鬼！</p><p><img class="lazy" data-height="2358" src="https://imgheybox.max-c.com/bbs/2021/08/13/e3e4811c78a775137318985690d76716/thumb.jpeg" data-width="3508" referrerpolicy="no-referrer"></p><p>芭芭拉和安柏在这一刻又突然恢复了往日的默契，一人搭一肩，直接把空从床上抽了起来！<br></p><p>实际上空就刚刚睡着没多久就被芭芭拉那句话给吵醒了，准确来讲不是吵醒了，是乐醒了，当时空整个人都在狂笑，也多亏忍耐力足够才没从床上蹦起来。</p><p>“那个…我不是故意的，我也就…刚醒，刚醒，真的…”</p><p><img class="lazy" data-height="401" src="https://imgheybox.max-c.com/bbs/2021/08/13/779287b8cdd16436f9118564f3a74fbb/thumb.jpeg" data-width="642" referrerpolicy="no-referrer"></p><p>但显然空这个解释是苍白无力的，就冲他脸上还没完全压下去的笑意，这话说的就像放屁一样没有信服力！</p><p>这两个好闺蜜的脸现在更红了，刚刚还在睁着说空给自己表白了，结果瞬间反转，空到底给谁表白了她们两个还没搞清楚，但是都给空表白了是真真切切的，还是相当于当面表白那种，瞬间两个人的气势全跨了，芭芭拉捂着脸就跑，安柏大脑直接混乱了，随手一挥一拳砸在空的头上也跑了出去。</p><p><img class="lazy" data-height="563" src="https://imgheybox.max-c.com/bbs/2021/08/13/b1d3a0ae1e1658899665511823fee56f/thumb.jpeg" data-width="1000" referrerpolicy="no-referrer"></p><p> 现在这个休息室的气氛终于不再古怪，成了一间普通休息室该有的气氛，只剩下被安柏一拳砸晕的空和看戏都看麻木了的派蒙。</p><p><img class="lazy" data-height="963" src="https://imgheybox.max-c.com/bbs/2021/08/13/a8b0846810ef8dcd74906ba6d26435c0/thumb.jpeg" data-width="1445" referrerpolicy="no-referrer"></p><p>“这大猪蹄子到底哪里好呢？为什么芭芭拉小姐和安柏都那么喜欢”派蒙挠着自己不够用的小脑门极其疑惑，想了想突然恍然大悟“我知道了！一定是昨天晚上他趁我睡着的时候，背着我偷偷出去给安柏和芭芭拉小姐买宵夜了！”<br></p><p> </p><p> <a href="heybox://open_subject" target="_blank">#原神#</a><a href="heybox://open_subject" target="_blank">#同人文#</a><a href="heybox://open_subject" target="_blank">#我在黑盒写小说#</a></p><p><br></p><p> </p><p> </p><p> </p>  
+</div>
+            
