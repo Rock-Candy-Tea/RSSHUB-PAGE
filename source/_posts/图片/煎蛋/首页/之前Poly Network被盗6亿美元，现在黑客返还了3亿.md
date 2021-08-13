@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2020/04/3
 ---
 
 <div>   
-<blockquote><p>黑客宣称，不是为了钱，就是玩。</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2020/04/3c8f259e1bdae1b469f450dda921673f.jpg!custom" referrerpolicy="no-referrer"><p>Poly Network 大致上是一个支持不同类型区块链彼此通信(交易)的平台(协议)。</p>
+<blockquote><p>黑客宣称，不是为了钱，就是玩。（现在已全部退还</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2020/04/3c8f259e1bdae1b469f450dda921673f.jpg!custom" referrerpolicy="no-referrer"><p>Poly Network 大致上是一个支持不同类型区块链彼此通信(交易)的平台(协议)。</p>
 <p>之前，网络犯罪分子利用了Poly Network的一处bug，盗取了6亿多美元。</p>
 <p>Poly Network周二披露了这次攻击，并要求黑客与他们联系，敦促他们 "归还被盗资产"。</p>
 <p>区块链是各种加密货币赖以存在的流动账本。每种数字货币都有自己的区块链。Poly Network声称能够使这些不同的区块链相互通信。</p>
