@@ -352,7 +352,7 @@ class StudentServiceStaticSpec extends Specification &#123;
         PowerMockito.when(AbbreviationProvinceUtil.convert2Abbreviation(Mockito.any())).thenReturn(abbreviationResult)
 
         when: "调用获取学生信息方法"
-        def response = tester.getStudentByIdStatic(1)
+        def response = tester.getStudentByIdStatic(id)
 
         then: "验证返回结果是否符合预期值"
         with(response) &#123;
