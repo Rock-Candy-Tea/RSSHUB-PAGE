@@ -1,0 +1,30 @@
+
+---
+title: 'Steam开启QuakeCon特卖，Bethesda游戏大促销'
+categories: 
+ - 游戏
+ - 游戏时光
+ - 游戏时光新闻
+headimg: 'https://img01.vgtime.com/web/topic/2021/08/13/210813154415290_u275180.png'
+author: 游戏时光
+comments: false
+date: Fri, 13 Aug 2021 07:58:14 GMT
+thumbnail: 'https://img01.vgtime.com/web/topic/2021/08/13/210813154415290_u275180.png'
+---
+
+<div>   
+<input type="hidden" id="topicId" value="1132161">
+<input type="hidden" value id="puid">
+
+
+<div class="abstract">
+<p>多款游戏好价促销。</p>
+</div>
+
+                
+<div class="topicContent front_content"><p><span style="background-color: initial; letter-spacing: 1.3px;">      Bethesda 官方嘉年华“QuakeCon”将于 8 月 19 日开幕，为迎接这一年度活动，Steam 现已开启“QuakeCon”特卖，最高折扣达 -85% ，其中《上古卷轴 Online》《上古卷轴 5》《毁灭战士 永恒》《辐射 4》均迎来史低，活动将于 8 月 24 日结束。</span><br></p><div class="vg_insert_img"><figure contenteditable="false"><img src="https://img01.vgtime.com/web/topic/2021/08/13/210813154415290_u275180.png" class="vg_insert_img_onfocus" style="width: 600px;" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice" style="display: none;"></figcaption></figure></div><p><br></p><p>      其中，《上古卷轴 Online》折后价 27 元，《毁灭战士 永恒》折后价 49 元，《德军总部 新血脉》折后价 23 元，更多优惠游戏请<a href="https://store.steampowered.com/curator/33028765/sale/quakecon2021">点击这里</a>查看。<a href="https://www.vgtime.com/topic/1094387.jhtml">GOG 也在同期开启了类似的特惠活动</a>，感兴趣的朋友可以关注一下。</p><p><b>部分特卖作品：</b></p><div class="vg_insert_img"><figure contenteditable="false"><img src="https://img01.vgtime.com/web/topic/2021/08/13/210813154335275_u275180.jpg" class="vg_insert_img_onfocus" style="width: 600px;" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice" style="display: none;"></figcaption></figure></div><p style="text-align: right;">来源：<a href="https://store.steampowered.com/curator/33028765/sale/quakecon2021">Steam</a></p></div>
+                
+                
+  
+</div>
+            
