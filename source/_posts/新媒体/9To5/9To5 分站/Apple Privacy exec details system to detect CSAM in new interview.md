@@ -17,7 +17,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/app
 <p>Last week, Apple announced three new features that target child safety on its devices. While intentions are good, the new features have not come without scrutiny, with some organizations and <a href="https://9to5mac.com/2021/08/07/whatsapp-ceo-calls-out-apple-over-child-safety-tools-announcement/">Big Tech CEOs being against Apple’s announcement.</a></p>
 <p>The company published a FAQ about all of these new features and how they will work. Now, trying to avoid more controversy, Apple Privacy head Erik Neuenschwander addressed concerns about its new systems to detect CSAM in an interview with <em><a href="https://techcrunch.com/2021/08/10/interview-apples-head-of-privacy-details-child-abuse-detection-and-messages-safety-features/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29" target="_blank" rel="noreferrer noopener">TechCrunch</a></em>.</p>
 <p><span id="more-743604"></span>
-</p><p></p>
+</p>
 <p>These features to protect children use CSAM detection in iCloud Photos, Communication Safety in Messages, and Interventions in Siri and search. Although these measures were announced together and are correlated, they are used for different things. For example:</p>
 <ul>
 <li><strong>CSAM detection in iCloud Photos:</strong> a dectection system called NeuralHash indentify and compare with IDs from the national Center for Missing and Exploited Children to detect known CSAM content in iCloud photo libraries;</li>
