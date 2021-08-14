@@ -46,7 +46,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/app
 <li><a href="https://9to5mac.com/2021/08/10/apple-child-protection-controversy-alex-stamos/">Facebook’s former security chief weighs in on Apple child protection controversy</a></li>
 <li><a href="https://9to5mac.com/2021/08/09/apple-csam-detection-solution/">Apple confirms CSAM detection only applies to photos, defends its method against other solutions</a></li>
 </ul>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VOl9DV"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png" alt class="wp-image-744631" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

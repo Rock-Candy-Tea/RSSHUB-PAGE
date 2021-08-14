@@ -1,0 +1,19 @@
+
+---
+title: '增收不增利，阿特斯回A能否挽回颓势？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/13/guanghua/1628851092362004871.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 13 Aug 2021 10:40:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/13/guanghua/1628851092362004871.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">8月12日，阿特斯集团（以下简称“阿特斯”）发布2021年第二季度财报。</p><p style="text-indent: 2em; text-align: left;">其中，财报重点提到：二季度组件发货量3．7吉瓦；销售额达14．3亿美元（约合人民币92．5亿元），同比增长105％；毛利润率12．9％，高于二季度毛利率业绩预期9．5％－10．5％；净利润1，100万美元（约合人民币7，117万元），稀释每股收益0．18美元。</p><p style="text-indent: 2em; text-align: left;">在硅料价格大幅上涨的二季度，阿特斯还能实现销售额的大幅增长，实属不易。当然，对比一季度的表现，我们就能发现，其实阿特斯已经遇到了不小的问题。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/13/guanghua/1628851092362004871.png" width="500" height="158" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图片来源：维科网<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span></p><p style="text-indent: 2em; text-align: left;">在组件发货量和销售额两项数据上，阿特斯都实现了环比上涨，但毛利润率却大幅下滑了5％，净利润也从2300万美元降低至1100万美元。综合来看，上半年阿特斯实现营收164．5亿元人民币，净利润却仅有2．11亿元。</p><p style="text-indent: 2em; text-align: left;">作为对比，同样是组件龙头的天合光能，在一季度营收为85．22亿元的情况下，净利润就达到了2．3亿元。</p><p style="text-indent: 2em; text-align: left;">造成这种情况的原因，除了上半年硅料价格大幅上涨，还跟其在美国上市，且较为依赖海外市场有关。</p><p style="text-indent: 2em; text-align: left;">在我国光伏产业发展早期，原料主要依赖进口，市场也主要在欧美地区，因此很多企业选择了在美国上市，以此获得更好的发展。但近十年来，我国光伏产业快速发展，不仅掌握了主要原材料的核心技术，而且在成本控制上，也做到了行业领先水平。</p><p style="text-indent: 2em; text-align: left;">在此情况下，很多<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfuqiye.html" target="_blank" title="光伏企业">光伏企业</a></span>都将生产基地建设在了中国，以便更好的控制成本，早期将重心放在海外的企业反而有些被动，阿特斯就是其中之一。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/13/guanghua/1628851246812097485.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图片来源：阿特斯</p><p style="text-indent: 2em; text-align: left;">为此，阿特斯已申请在A股上市，拟募资金额40亿，分别用于年产10GW拉棒项目、阜宁10GW<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guipianjiage.html" target="_blank" title="硅片">硅片</a></span>、年产4GW高效<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>电池项目、年产10GW高效光伏<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-dianchizujian.html" target="_blank" title="电池组件">电池组件</a></span>项目、嘉兴阿特斯<span class="hrefStyle"><a href="https://solar.ofweek.com/CATList-2600-8300-solar.html" target="_blank" title="光伏技术">光伏技术</a></span>有限公司研究院建设项目及补充流动资金。以此提高自身的垂直一体化能力。</p><p style="text-indent: 2em; text-align: left;">据本次财报显示，截至2021年上半年，阿特斯硅锭、硅片、电池片和组件产能已分别达5．1吉瓦、8．7吉瓦、13．3吉瓦和19．7吉瓦。各环节产能并不匹配，需要通过采购进行弥补，也会降低毛利润率。</p><p style="text-indent: 2em; text-align: left;">基于这些情况，阿特斯在本次申请在A股，对市值的预期也相对较低。按照此次拟募集40亿元，发行不超过总股本15％来计算，阿特斯拟发行市值仅266．67亿元。</p><p style="text-indent: 2em; text-align: left;">而在2020年组件出货量高于阿特斯的组件龙头中，已在A股上市的天合光能和晶澳科技市值都在千亿左右，隆基股份更是超过了4500亿。</p><p style="text-indent: 2em; text-align: left;">而跟阿特斯遭遇同样问题的晶科能源，也已申请在A股上市，两者的上市申请于同一天被上海证券交易所受理，抢先一步上市的企业势必会得到更高的关注。</p><p style="text-indent: 2em; text-align: left;">不过，阿特斯依然有后来居上的机会，就是在<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>方面的布局。</p><p style="text-indent: 2em; text-align: left;">在本次财报中，阿特斯重点强调，公司在建储能项目1．5吉瓦时，储能项目储备总量达19吉瓦时。跟未来光伏结合储能的发展方向非常契合，很有可能得到投资者热捧。近期，上能电气、百川股份、永福股份等企业的股价和市值，就凭借储能概念大幅上涨。</p> 
+  
+</div>
+            

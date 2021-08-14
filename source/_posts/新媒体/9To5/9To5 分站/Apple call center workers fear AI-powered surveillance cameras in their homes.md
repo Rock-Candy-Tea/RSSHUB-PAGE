@@ -36,7 +36,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 </blockquote>
 <p>Teleperformance says that its use of the technology is for security reasons, to ensure that employees are not taking photos or videos of confidential materials, but the report says that the AI can detect when employees and not using the keyboard or mouse and flag them as idle.</p>
 <p>The <a href="https://www.nbcnews.com/tech/tech-news/big-tech-call-center-workers-face-pressure-accept-home-surveillance-n1276227" target="_blank" rel="noreferrer noopener">full piece</a> is worth reading.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VOl9DV"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png" alt class="wp-image-744631" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

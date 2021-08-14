@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png'
+headimg: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png'
 author: 9To5
 comments: false
 date: Mon, 09 Aug 2021 22:03:44 GMT
-thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png'
+thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png'
 ---
 
 <div>   
@@ -49,7 +49,7 @@ thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo
 <li><a href="https://9to5mac.com/2021/07/02/apple-employees-survey-hybrid-work/">Apple employees circulate internal survey with hybrid return-to-work concerns</a></li>
 <li><a href="https://9to5mac.com/2021/07/15/apple-employees-say-they-will-leave-the-company-as-it-denies-remote-work-requests/">Apple employees say they will leave the company as it denies remote work requests</a></li>
 </ul>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3C0YHbr"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo-01.png" alt class="wp-image-742121" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VOl9DV"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png" alt class="wp-image-744631" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
