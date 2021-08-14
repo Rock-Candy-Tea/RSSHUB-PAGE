@@ -1,0 +1,19 @@
+
+---
+title: '李治宏：平台化，提升开发效率，国产MCU迎来契机！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member23078/202108/14112826565630.png'
+author: 高科技行业门户
+comments: false
+date: Sat, 14 Aug 2021 03:45:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member23078/202108/14112826565630.png'
+---
+
+<div>   
+<p>　　【哔哥哔特导读】2021年7月30日，赛元微电子作为参展商参加第二届(宁波)家电电源与智能控制技术研讨会。</p><p>　　2021年7月30日赛元微电子(以下简称赛元)参展了第二届(宁波)家电电源与智能控制技术研讨会。在展会后，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>器件应用记者采访到了赛元微电子高级市场经理李治宏。</p><center><img alt="平台化：赋能芯片行业优化升级" src="https://mp.ofweek.com/Upload/News/Img/member23078/202108/14112826565630.png" width="499" height="378" title="平台化：赋能芯片行业优化升级" referrerpolicy="no-referrer"></center><p><strong>　　平台化，提升开发效率</strong></p><p>　　据李治宏介绍，这次赛元主要带来软件平台的介绍和推广。赛元主要有三大平台，分别是产品平台、开发平台和服务平台。赛元经过10年的发展，使产品逐步得到完善。赛元一直认为，芯片公司不能仅局限于做芯片，还要尽可能提高开发效率。从开发效率的角度来看，就必须实现平台化。用户在赛元平台上，可直接使用成熟产品，进而提高整体的开发效率、降低开发难度。</p><p>　　“现在作为一家芯片公司，更要关注平台和生态。”李治宏强调。工程师使用赛元平台进行工作，可以有效降低开发难度。尤其在当前快节奏时代下，对于产品的开发效率要求非常高。赛元为此推出了易码魔盒，帮助工程师快速完成项目的开发。</p><center><strong><img alt="平台化：赋能芯片行业优化升级" src="https://mp.ofweek.com/Upload/News/Img/member23078/202108/14112826799852.jpg" width="500" height="450" title="平台化：赋能芯片行业优化升级" referrerpolicy="no-referrer"></strong></center><p><strong>　　新机遇，国产<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span>迎来契机</strong></p><p>　　“在新一轮全球疫情以及芯片缺货背景下，赛元主要目标是尽可能的保民生，保障民生必需品的生产。这一类的行业是我们力保的产品。针对于一些享受型的产品，会暂时减少供应指标。” 李治宏如是说。</p><p>　　随后，李治宏表示在白电这个领域，以前基本都是国外品牌把持，加之家电本身售价较高，MCU在家电产品里面占比较低，导致终端客户替换意愿不大。因此今年缺货对国产MCU来说反而是机会。目前赛元也借助此次机会，成功导入多家大家电产品。</p><p><strong>　　新技术，促进产品批量生产</strong></p><p>　　谈及5G技术，李治宏认为5G技术的发展促使AIoT更快落地。IoT产品已经做了十几年，但一直没有大批量落地，一方面是受制于技术发展，另一方面是其对生活影响力有限。如今，现在5G技术的发展给AIoT带来质的飞跃，尤其是各种模组价格也逐步下降。伴随MCU技术不断发展，AIoT设计会更快，成本也会更低，它的普及会更广，也更容易的落地。</p><p>　　李治宏认为，对家电产品而言，需要有更强劲的MCU。在以前，产品可能使用8k16k的芯片就可实现相应功能，但对应当下的智能化产品，可能需要64k或者128k的芯片。作为MCU厂家，就要去适应行业发展需求，开发适合行业的MCU产品来满足需求。</p><p>　　本文为哔哥哔特资讯原创文章，如需转载请在文前注明来源</p> 
+  
+</div>
+            
