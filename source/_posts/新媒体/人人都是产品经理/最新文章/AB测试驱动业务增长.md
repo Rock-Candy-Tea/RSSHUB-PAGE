@@ -174,7 +174,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>扫描下图二维码进全年大会专属咨询群了解详情！今年最后3场产品经理大会，广州、杭州、深圳站即将开幕！抢票速来！</p>
 <p><img data-action="zoom" class="size-full wp-image-5031551 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/08/yNNyMnetcwVdCoWrFfvM.jpg" alt width="900" height="1440" referrerpolicy="no-referrer"></p>
 <p> </p>
-<p>本文为【2021中国运营增长会】现场分享整理内容，由人人都是产品经理运营 @Aine 整理发布。未经许可，禁止转载，谢谢合作</p>
+<p>本文为【2021年产品经理大会·北京站】现场分享整理内容，由人人都是产品经理运营 @Aine 整理发布。未经许可，禁止转载，谢谢合作</p>
 <p>题图来自大会现场</p>
                       
 </div>
