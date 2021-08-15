@@ -18,7 +18,7 @@ Valve在其官方YouTube频道上发布了8个月来的首个视频:“介绍Ste
 Deck”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956744_987306.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956744_987306.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 这段视频直接总结了Valve即将推出的掌机的各种功能，并简要介绍了这款设备。
@@ -43,25 +43,25 @@ Valve还指出，Deck运行“专注于掌机模式”的新版本Steam，带有
 </iframe>
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">视频截图</span></strong>
+<strong><span style="font-size:16px;">视频截图</span></strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_398466.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_398466.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_608722.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_608722.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_240553.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_240553.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_876626.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_876626.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_242864.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_242864.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_123869.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210814/1628956798_123869.jpg" alt="Valve通过官方油管频道发布Steam Deck介绍视频" referrerpolicy="no-referrer"> </strong> 
 </p>          
 </div>
             

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210815/1628985152_160715.png'
 author: 3DMGame
 comments: false
-date: Sat, 14 Aug 2021 23:55:00 GMT
+date: Sun, 15 Aug 2021 01:20:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210815/1628985152_160715.png'
 ---
 
@@ -18,14 +18,14 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210815/1628985152_1607
 因为他们的游戏越来越真实，推动了设计极限，充分利用运行他们的硬件，这也是为什么他们能够成为行业中首屈一指的开发商。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210815/1628985152_160715.png" alt="《GTA6》或将是行业新标杆 采用AI机器学习方案" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210815/1628985152_160715.png" alt="《GTA6》或将是行业新标杆 采用AI机器学习方案" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在最近的GDC 
 2021发布会上，R星表示他们正在探索机器学习方案。用更低的制作成本改进人类/动物的反应和品质，在AI和玩家操控的角色之间有着更好的均衡性。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210815/1628985093_151315.jpg" alt="《GTA6》或将是行业新标杆 采用AI机器学习方案" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210815/1628985093_151315.jpg" alt="《GTA6》或将是行业新标杆 采用AI机器学习方案" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 该技术对未来的《GTA6》以及将来的更多游戏将会有什么样的具体影响具体还不好说，但听起来R星似乎主要是在研究这一技术与AI的关系，而AI是电子游戏开发的一个领域，最近并没有看到大量有意义的改进。
