@@ -1,0 +1,18 @@
+
+---
+title: 'iOS Shortcuts查LikeCoin余额。'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/035326d0-21f2-491e-9b4c-6db3216d2c57.jpeg'
+author: Matters
+comments: false
+date: Sun, 15 Aug 2021 06:23:06 GMT
+thumbnail: 'https://assets.matters.news/embed/035326d0-21f2-491e-9b4c-6db3216d2c57.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/035326d0-21f2-491e-9b4c-6db3216d2c57.jpeg" data-asset-id="035326d0-21f2-491e-9b4c-6db3216d2c57" referrerpolicy="no-referrer"><figcaption><span>Like Coin Balance Shortcut。</span></figcaption></figure><h2>感谢</h2><p>首先，感谢大家对上次「<a href="https://matters.news/@jsonchoo1997/%E6%88%91%E7%BB%88%E4%BA%8E%E6%8A%8A%E6%83%B3%E5%81%9A%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86-bafyreiftnwcpx2r4v3qo7ztf3nhvd4bvqfoa7nrvnadxzvmat7b7oym7g4" target="_blank">iOS 14 LikeCoin账号余额Widget</a>」的响应。这个小工具，我一开始就没有打算上架App Store，主要是苹果的开发者账号每年需要100块美金，而且还需要去买云服务部署后端，我是没有打算去扛这个成本。目前，所有代码都已经开源，有需要的朋友可以去看看【<a href="https://github.com/YJCHOO/likecoin-balance-web-scrape-server" target="_blank">后端（爬虫 + REST API）</a>】【<a href="https://github.com/YJCHOO/ios-likecoin-balance" target="_blank">前端（iOS App + Widget）</a>】。</p><h2>另一种方法</h2><p>最近，我又想到了另外一个方法，去实现这个功能。目前，iOS系统自带了Shortcuts（捷径/快捷指令）功能。用户可以提前设定好一系列的操作，保存后只需要手指一点，系统就会自动执行所有预设操作。利用Shortcuts，我先设定好我的账号地址，再循环使用上次写好的后端；让Shortcuts去请求REST API，然后获得响应。获得响应后，就会跳出一个视窗显示账号余额。</p><figure class="image"><img src="https://assets.matters.news/embed/e23a98ac-8ebe-41ae-99d0-591fdb8fb3b8.jpeg" data-asset-id="e23a98ac-8ebe-41ae-99d0-591fdb8fb3b8" referrerpolicy="no-referrer"><figcaption><span>直接在iOS 14 Shortcut Widget执行Like Coin Balance Shortcut。</span></figcaption></figure><p>在锁屏的情况下，也可以直接点Shortcuts的Widget去触发。</p><figure class="image"><img src="https://assets.matters.news/embed/10725c89-c66d-4b08-b18a-66cb39df06b6.jpeg" data-asset-id="10725c89-c66d-4b08-b18a-66cb39df06b6" referrerpolicy="no-referrer"><figcaption><span>叫Siri帮忙执行LikeCoin Balance Shortcut。</span></figcaption></figure><p>一般的情况下，还能直接叫Siri帮你执行这个Shortcuts。</p><h2>设置</h2><p>后端部分，基本上与上次的「iOS 14 LikeCoin账号余额Widget」设置一样，需要先让REST API运行等待请求。</p><p>前端由Shortcuts负责发送请求和接收响应，再把结果显示在视窗。</p><p>Shortcut链接：<a href="https://www.icloud.com/shortcuts/56bfc4659e6d4d3a93229caaea384f42" target="_blank">https://www.icloud.com/shortcuts/56bfc4659e6d4d3a93229caaea384f42</a></p><figure class="image"><img src="https://assets.matters.news/embed/aa52a752-3016-4c41-b845-a32d78a50688.jpeg" data-asset-id="aa52a752-3016-4c41-b845-a32d78a50688" referrerpolicy="no-referrer"><figcaption><span>Like Coin Balance Shortcut需要动手改的地方。</span></figcaption></figure><p>Shortcut需要更改的地方有两点：</p><ol><li>Wallet Address：这个值需要自己去复制，然后粘贴到这里。<br class="smart">这个部分可以参考「<a href="https://matters.news/@jsonchoo1997/i-o-s14-like-coin%E8%B4%A6%E5%8F%B7%E4%BD%99%E9%A2%9Dwidget-%E4%B8%80-%E7%88%AC%E8%99%AB-%E7%AC%94%E8%AE%B0-bafyreibsralcmlfaykl377vavaq4mwm6z4hqgqj3kcvnj75qfjlst5hkce" target="_blank">iOS14 LikeCoin账号余额Widget（一）：爬虫 （笔记）</a>」文章的开头，就可以获得自己的Wallet Address。 </li><li>URL：这个需要从REST API那里获得，再粘贴到这里。这个部分可以参考「i<a href="https://matters.news/@jsonchoo1997/i-os-14-like-coin%E8%B4%A6%E5%8F%B7%E4%BD%99%E9%A2%9Dwidget-%E4%BA%8C-rest-api-%E7%AC%94%E8%AE%B0-bafyreicvsrg3y3hcc7qydepyv4cvwkepledovrnxekdokxup4b4zl7iuhu" target="_blank">OS 14 LikeCoin账号余额Widget（二）：REST API（笔记）」</a>文章的解释部分，了解如何操作。</li></ol><p>好吧，文章就到这里。希望对你有帮助。完。</p>  
+</div>
+            
