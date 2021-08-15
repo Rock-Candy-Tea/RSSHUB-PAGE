@@ -20,7 +20,7 @@ SteamDB近日曝出了Steam平台万圣节、秋季和冬季特卖的时间。
 SteamDB并非Valve的官方合作机构，但其提供的与Steam有关的数据和情报非常精准。他们在对Steam平台的数据分析包括游戏人气和销量方面都有很高的知名度。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210815/1629011281_396731.jpg" alt="Steam平台万圣节、秋季与冬季特卖日期泄露" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210815/1629011281_396731.jpg" alt="Steam平台万圣节、秋季与冬季特卖日期泄露" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 SteamDB也经常能够提前掌握Steam特卖日期的信息，今年也不例外。该站点提供的今年Steam特卖日期列表如下：
