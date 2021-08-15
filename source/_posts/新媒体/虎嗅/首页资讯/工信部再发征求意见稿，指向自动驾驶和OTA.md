@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 虎嗅
  - 首页资讯
-headimg: 'https://picsum.photos/400/300?random=8596'
+headimg: 'https://picsum.photos/400/300?random=877'
 author: 虎嗅
 comments: false
 date: Sun, 15 Aug 2021 08:32:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8596'
+thumbnail: 'https://picsum.photos/400/300?random=877'
 ---
 
 <div>   
