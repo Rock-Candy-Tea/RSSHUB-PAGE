@@ -76,6 +76,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <p>所以看文档的第一步应该是去深入了解下这几个概念到底是什么。然后通过这几个单点的概念，串起来整个模板语法的线。</p>
 <p>其中的<code>模板语法</code>和<code>文本插值</code>的文档在：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fvue3js.cn%2Fdocs%2Fzh%2Fguide%2Ftemplate-syntax.html" target="_blank" rel="nofollow noopener noreferrer" title="https://vue3js.cn/docs/zh/guide/template-syntax.html" ref="nofollow noopener noreferrer">vue3js.cn/docs/zh/gui…</a></p>
 <p><code>事件绑定</code>的文档在：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fvue3js.cn%2Fdocs%2Fzh%2Fguide%2Fevents.html" target="_blank" rel="nofollow noopener noreferrer" title="https://vue3js.cn/docs/zh/guide/events.html" ref="nofollow noopener noreferrer">vue3js.cn/docs/zh/gui…</a></p>
+<p>文章较长，如果想直接看小结，可以跳转到以下章节： <a href="https://juejin.cn/post/6996654736652894222#heading-18" target="_blank" title="https://juejin.cn/post/6996654736652894222#heading-18">6 小结</a></p>
 <h1 data-id="heading-1">2 模板语法概览</h1>
 <p>模板语法的文档其实就讲了两个东西：<code>插值</code>和<code>指令</code>。</p>
 <p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/46e1a12e04b54939a678d49576d93dbc~tplv-k3u1fbpfcp-watermark.image" alt="模板语法.png" loading="lazy" referrerpolicy="no-referrer"></p>
@@ -136,8 +137,8 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <blockquote>
 <p>这些指令在实际工作中使用的频率非常高，都需要记住，属于那20%的API。</p>
 </blockquote>
-<p>这个<code>v-bind:id</code>和之前的<code>v-once</code>和<code>v-html</code>质量都不一样，这个<code>v-bind</code>指令是带参数的，这里的参数是<code>id</code>，代表需要绑定id这个属性。</p>
-<p>由于<code>v-bind</code>指令太常用了，因为Vue给它提供了一个缩写形式，比如<code>v-bind:id</code>可以直接写成<code>:id</code>：</p>
+<p>这个<code>v-bind:id</code>和之前的<code>v-once</code>和<code>v-html</code>指令都不一样，这个<code>v-bind</code>指令是带参数的，这里的参数是<code>id</code>，代表需要绑定id这个属性。</p>
+<p>由于<code>v-bind</code>指令太常用了，因此Vue给它提供了一个缩写形式，比如<code>v-bind:id</code>可以直接写成<code>:id</code>：</p>
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">div</span> <span class="hljs-attr">v-bind:id</span>=<span class="hljs-string">"dynamicId"</span>></span><span class="hljs-tag"></<span class="hljs-name">div</span>></span>
 
 <=>
@@ -150,7 +151,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>以上文本插值绑定了一个三目运算符，里面有两个变量和一个字符串：</p>
 <ul>
-<li>当hasMsg为true时，实际绑定的值为msg的值</li>
+<li>当hasMsg为true时，实际绑定的是msg的值</li>
 <li>当hasMsg为false时，绑定'Hello World'字符串</li>
 </ul>
 <p>属性插值也可以绑定表达式：</p>
@@ -172,7 +173,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <h1 data-id="heading-6">4 指令</h1>
 <p>模板语法这条线上除了<code>插值</code>这条线，还有一条<code>指令</code>的线。</p>
 <p>指令我们前面已经有了初步的了解，并且学习了3个简单的指令，也了解到指令其实是可以带参数的。</p>
-<p>这些都是一些孤立的点，通过阅读文档就可以将已知的孤立点补充完整，串成指令的线。</p>
+<p>这些都是孤立的点，通过阅读文档，我们就可以将已知的孤立点补充完整，串成一条线。</p>
 <p>指令(Directives)是带有<code>v-</code>前缀的特殊属性，它的职责是：</p>
 <blockquote>
 <p>当表达式的值改变时，将其产生的连带影响，响应式地作用于DOM。</p>
@@ -201,7 +202,7 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> <span class="hljs-attr">v-on:click</span>=<span class="hljs-string">"confirm"</span>></span>确定<span class="hljs-tag"></<span class="hljs-name">button</span>></span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p><code>v-on</code>后面的<code>click</code>的就是这个指令的参数，代表绑定的是<code>click</code>点击事件。</p>
-<p><code>v-bind:id</code>其实等于是绑定死了<code>id</code>这个元素，其中的参数部分还可以写一个JavaScript表达式，让其变成动态参数，比如：</p>
+<p><code>v-bind:id</code>其实等于是绑死了<code>id</code>这个元素，其中的参数部分还可以写一个JavaScript表达式，让其变成动态参数，比如：</p>
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">div</span> <span class="hljs-attr">v-bind:</span>[<span class="hljs-attr">attributeName</span>]=<span class="hljs-string">"dynamicValue"</span>></span>测试动态参数指令<span class="hljs-tag"></<span class="hljs-name">div</span>></span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>当<code>attributeName</code>是<code>id</code>的时候，绑定的就是属性id，当<code>attributeName</code>变成<code>title</code>时，绑定的属性就变成<code>title</code>了，所以叫：动态参数指令。</p>
@@ -243,14 +244,15 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <p>这样我们把指令这条线也基本串起来了。</p>
 </blockquote>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49a3ca1f9fe44db7b76bf18d098bc094~tplv-k3u1fbpfcp-watermark.image" alt="指令线.png" loading="lazy" referrerpolicy="no-referrer"></p>
-<p>其实到这里，模板语法线基本上就已经串起来了，不过还有漏了点内容：</p>
+<p>其实到这里，模板语法线基本上就已经串起来了，不过还漏了点内容：</p>
 <ol>
 <li>指令是Vue里面非常关键的概念，内容也非常多，Vue3文档的基础部分其实大部分都是在讲Vue的一些内置指令，因此指令线非常长，我们目前串起来的指令线是不完整的，后续还会继续延伸<code>指令线</code></li>
 <li>在众多内置指令里面，<code>v-on</code>事件绑定算是一个非常基础又非常重要的存在，而且前面也多次提到过，因此也放在本篇文章</li>
 <li>模板语法里面还有一个概念没有在<code>基础</code>里面出现，而是在<code>深入组件</code>的文档里，就是<code>模板引用</code>，这部分内容非常简单，没什么内容，不过我觉得它也算模板语法线的一部分，因此也一并放进来</li>
 </ol>
+<p>非常感谢你能阅读到这里，还有最后5分钟就阅读完了，先喝杯水放松下吧😋</p>
 <h2 data-id="heading-9">4.3 事件绑定</h2>
-<p>事件绑定其实我们在第一篇文章就已经见过：</p>
+<p>事件绑定其实我们在<a href="https://juejin.cn/post/6993676123385102373/" target="_blank" title="https://juejin.cn/post/6993676123385102373/">第一篇文章</a>就已经见过：</p>
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"count++"</span>></span>count is: &#123;&#123; count &#125;&#125;<span class="hljs-tag"></<span class="hljs-name">button</span>></span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>不过当时是以单点的方式有一个感官的认识。</p>
@@ -292,9 +294,11 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>除了绑定方法名，还可以直接执行方法（内联处理器）：</p>
-<pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"add(),double()"</span>></span>count is: &#123;&#123; count &#125;&#125;<span class="hljs-tag"></<span class="hljs-name">button</span>></span>
+<pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"add()"</span>></span>count is: &#123;&#123; count &#125;&#125;<span class="hljs-tag"></<span class="hljs-name">button</span>></span>
 <span class="copy-code-btn">复制代码</span></code></pre>
 <p>除了执行一个方法，还可以通过逗号分隔，一次执行多个方法：</p>
+<pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"add(),double()"</span>></span>count is: &#123;&#123; count &#125;&#125;<span class="hljs-tag"></<span class="hljs-name">button</span>></span>
+<span class="copy-code-btn">复制代码</span></code></pre>
 <pre><code class="hljs language-js copyable" lang="js"><span class="hljs-function"><span class="hljs-title">setup</span>(<span class="hljs-params"></span>)</span> &#123;
   <span class="hljs-keyword">const</span> count = ref(<span class="hljs-number">0</span>)
 
@@ -325,7 +329,6 @@ thumbnail: 'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24b87ac68f994ee4b9
 <li><code>.passive</code> 滚动事件的默认行为 (即滚动行为) 将会立即触发，而不会等待 <code>onScroll</code> 完成</li>
 </ul>
 <p>前面4个多用于click点击事件，我做了几个demo帮助大家理解它们的含义。</p>
-<p><code>.prevent</code>修饰符前面讲<code>带修饰符的指令</code>时已经举过🌰，不再重复。</p>
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">div</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"containerClick"</span> <span class="hljs-attr">style</span>=<span class="hljs-string">"border: solid 1px red"</span>></span>
   Container
   <span class="hljs-tag"><<span class="hljs-name">div</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">"outClick"</span> <span class="hljs-attr">style</span>=<span class="hljs-string">"border: solid 1px green; margin: 20px; padding: 20px;"</span>></span>
@@ -371,6 +374,7 @@ containerClick
 <pre><code class="copyable">outClick
 containerClick
 <span class="copy-code-btn">复制代码</span></code></pre>
+<p><code>.prevent</code>修饰符前面讲<code>带修饰符的指令</code>时已经举过🌰，不再重复，直接从<code>.stop</code>修饰符开始。</p>
 <h4 data-id="heading-12">stop修饰符</h4>
 <p>我们给按钮元素加<code>.stop</code>修饰符，将会阻止事件往上传播。</p>
 <pre><code class="hljs language-html copyable" lang="html"><span class="hljs-tag"><<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"button"</span> @<span class="hljs-attr">click.stop</span>=<span class="hljs-string">"add"</span>></span>Add<span class="hljs-tag"></<span class="hljs-name">button</span>></span>

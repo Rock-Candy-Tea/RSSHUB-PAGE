@@ -1,0 +1,18 @@
+
+---
+title: 'DXOMARK公开 Z 70-200mm f_2.8成绩 总分38'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff00_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 15 Aug 2021 05:07:12 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff00_1024.jpg'
+---
+
+<div>   
+<p>在进入 2021 年后，DXOMARK 关于尼康 Z 系统测试开始变多，日前它公布了尼克尔 Z 70-200mm f/2.8 VR S 镜头测试，总分 38。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff00_1024.jpg" data-height="487" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff00_1024.jpg" referrerpolicy="no-referrer"></div></div>尼克尔 Z 70-200mm f/2.8 VR S 首次亮相是在 CES2021，它由 18 组 21 片镜片组成，其中 6 片是低色散 ED 镜片，2 片是非球面镜片，1 片是萤石镜片，还有一片非常独特的 SR（ 蓝光高折射）镜片。SR 镜片是尼康最新开发的镜片，它能大幅度折射蓝光及更短波长的光线，能有效补偿镜头色差。而且在组装时，SR 镜片可以独立使用，无需夹在其它玻璃之间，非常灵活，更能发挥高折射的优势。如果用户需要更长焦距，可以安装 Z 增距镜 TC-1.4x、Z 增距镜 TC-2.0x，它们最大可以把焦距扩展到 400mm（F5.6）。<p></p><p>此次 DXOMARK 测试使用的是尼克尔 Z 70-200mm f/2.8 VR S 裸镜与 Z7 机身，总成绩为 38，其中 Sharpness（锐度）为 38 P-Mpix，Transmission（通光量）为 3.1 TStop，Distortion（畸变）为 0.3 %，Vignetting（暗角）为 -1.6 EV，Chr. aberration（色差）为 5 µm。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff01_1024.jpg" data-height="452" data-width="847" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff01_1024.jpg" referrerpolicy="no-referrer"></div></div>具体而言，镜头从 70mm 到 200mm 全开光圈下，无论是中心还是边缘都能保持锐度，只有在收缩光圈后，衍射现象才会造成分辨率明显降低；实际通光量上，镜头全焦段保持 T3.1 左右，非常稳定；70mm 端畸变修正得非常好，200mm 有轻微的枕头状畸变；在全开光圈下，70mm 端暗角为 -1.4ev，200mmm 端会更明显一点，为 -1.9ev；至于色差，全焦段全光圈表现出色。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff02_1024.jpg" data-height="659" data-width="1202" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff02_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202108/61162597b15ec03f9109ff03_1024.jpg" data-height="640" data-width="1054" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/61162597b15ec03f9109ff03_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff04_1024.jpg" data-height="637" data-width="1216" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/61162597b15ec03f9109ff04_1024.jpg" referrerpolicy="no-referrer"></div></div>如果你想了解尼克尔 Z 70-200mm f/2.8 VR S 实拍表现，可以回顾我们评测《<a href="http://iphone.myzaker.com/zaker/link.php?pk=61162e568e9f09703b5986fb&b=aHR0cHM6Ly93d3cuaXRoZWF0LmNvbS92aWV3LzE1Njg0Lmh0bWw=&bcode=92ad3f11&target=_new" target="_blank">尼康 Z 70-200mm f/2.8 VR S 评测：再刷 720 镜头新纪录</a>》。https://www.itheat.com/view/15684.html<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
