@@ -1,0 +1,19 @@
+
+---
+title: 'NVIDIA RTX A4000工作站专业卡拆解：PCB小得不可思议'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0815/956134e186a6b32.jpg'
+author: cnBeta
+comments: false
+date: Sun, 15 Aug 2021 12:24:00 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0815/956134e186a6b32.jpg'
+---
+
+<div>   
+显卡拆解稀松平常，但是你见过将工作站专业显卡大卸八块的吗？国外网友就拆了一块NVIDIA RTX A4000。RTX A4000是今年4月发布的，Ampere架构，GA104核心，完整的6144个CUDA核心，搭配256-bit 16GB GDDR6显存并支持ECC，功耗仅140W，四个DP1.4输出接口，采用典型的单个涡轮风扇暴力散热。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/956134e186a6b32.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/956134e186a6b32.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/956134e186a6b32.jpg" referrerpolicy="no-referrer"></a></p><p>首先拿下外壳，露出内部的散热片和部分供电元件。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/ec981e3042f88d5.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/ec981e3042f88d5.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/ec981e3042f88d5.jpg" referrerpolicy="no-referrer"></a></p><p>取下散热片就可以看到GPU核心，以及几乎全覆盖的支架。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/9da48d584defdd7.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/9da48d584defdd7.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/9da48d584defdd7.jpg" referrerpolicy="no-referrer"></a></p><p>涡轮<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>，专业卡标配，散热效率高，但转速高、噪音大。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/99c207035438ecd.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/99c207035438ecd.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/99c207035438ecd.jpg" referrerpolicy="no-referrer"></a></p><p>去掉中间的支架，<strong>PCB就完整暴露了出来，可见尺寸非常之小，比很多迷你卡还要小</strong>，GPU芯片右侧只有显存和电感，然后就没了。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/7a2475e7fe37229.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/7a2475e7fe37229.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/7a2475e7fe37229.jpg" referrerpolicy="no-referrer"></a></p><p>核心编号<strong>GA104-875-A1</strong>，RTX 3070 Ti上的则是GA104-400。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/c10c7d32f779206.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/c10c7d32f779206.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/c10c7d32f779206.jpg" referrerpolicy="no-referrer"></a></p><p>来自<strong>三星的GDDR6显存</strong>，编号K4ZAF325BM-HC16，单颗2GB，总共八颗，均在正面。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/8991010f91ddac6.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/8991010f91ddac6.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/8991010f91ddac6.jpg" referrerpolicy="no-referrer"></a></p><p>GPU核心对应的散热模组，可见硕大的铜底和热管。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/c81363c1fd34372.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/c81363c1fd34372.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/c81363c1fd34372.jpg" referrerpolicy="no-referrer"></a></p><p>最后是背部照，从这个角度也可以看出PCB的短小精悍。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0815/9e169aa3fa3a6a5.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0815/9e169aa3fa3a6a5.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0815/9e169aa3fa3a6a5.jpg" referrerpolicy="no-referrer"></a></p><p>PS：之前不少厂商发布了涡轮风扇散热的RTX 3090，但很快就消失了——NVIDIA不允许在非专业卡上这么做。</p>   
+</div>
+            
