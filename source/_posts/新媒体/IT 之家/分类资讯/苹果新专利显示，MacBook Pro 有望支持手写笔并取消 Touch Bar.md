@@ -1,0 +1,19 @@
+
+---
+title: '苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/8/3313d4f9-04ca-47e5-877c-92aa38e88447.jpg@s_2,w_820,h_568'
+author: IT 之家
+comments: false
+date: Sun, 15 Aug 2021 06:06:41 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/8/3313d4f9-04ca-47e5-877c-92aa38e88447.jpg@s_2,w_820,h_568'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 15 日消息 现有外媒发现，苹果本周获得了一项关于 Macbook 的专利，可能在应用于下一代 MacBook Pro 中。</p><p>该专利展示了一款配备 Apple Pencil 的 MacBook，并且将原本的 Touch Bar 变成了一条笔槽，并在旁边新设了一道更短更小的 Touch Bar。</p><p>针对这一专利，Sarang Sheth 绘制了一套 MacBook Pro （原理）渲染图，展示了这款支持 Apple Pencil 的笔记本电脑，让我们看一下这款“笔记本”+“笔”的组合会有怎样的奇效。</p><p>IT之家了解到，苹果专利中没有描绘 Pencil 的用途，合理猜测，它可用于 MacBook Pro 的显示屏触控以及上面提到的“迷你版”Touch Bar 的手势或控制。此外， Apple Pencil 有望通过笔槽进行充电。</p><p>此外，除了作为鼠标的替代品之外，该专利还提到手写笔可为 MacBook 提供一些额外的功能，如 F 系列功能键的功能。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/3313d4f9-04ca-47e5-877c-92aa38e88447.jpg@s_2,w_820,h_568" w="1280" h="886" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/3313d4f9-04ca-47e5-877c-92aa38e88447.jpg 2x" width="1280" height="568" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/ce165129-2fe5-42e7-9e89-3a828b14f15b.jpg@s_2,w_820,h_545" w="1280" h="850" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/ce165129-2fe5-42e7-9e89-3a828b14f15b.jpg 2x" width="1280" height="545" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/298af084-70ac-4ffe-ac13-90b878fb0ca2.jpg@s_2,w_820,h_568" w="1280" h="886" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/298af084-70ac-4ffe-ac13-90b878fb0ca2.jpg 2x" width="1280" height="568" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/f3dbb281-467a-41b8-9c61-96f902bed4d3.jpg@s_2,w_820,h_545" w="1280" h="850" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/f3dbb281-467a-41b8-9c61-96f902bed4d3.jpg 2x" width="1280" height="545" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/2988f0b4-69cc-459a-8e9a-134bb1639f3b.jpg@s_2,w_820,h_568" w="1280" h="886" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/2988f0b4-69cc-459a-8e9a-134bb1639f3b.jpg 2x" width="1280" height="568" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/6e719019-6544-4f68-b584-82ee1468179c.jpg@s_2,w_820,h_545" w="1280" h="850" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/6e719019-6544-4f68-b584-82ee1468179c.jpg 2x" width="1280" height="545" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/7369efc2-4f17-4681-8310-68601af80e3a.jpg@s_2,w_820,h_615" w="1280" h="960" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/7369efc2-4f17-4681-8310-68601af80e3a.jpg 2x" width="1280" height="615" referrerpolicy="no-referrer"></p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/661f9638-66e7-454d-a5fd-2ad702a220e5.jpg@s_2,w_820,h_615" w="1280" h="960" title="苹果新专利显示，MacBook Pro 有望支持手写笔并取消 Touch Bar" srcset="https://img.ithome.com/newsuploadfiles/2021/8/661f9638-66e7-454d-a5fd-2ad702a220e5.jpg 2x" width="1280" height="615" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
