@@ -1,0 +1,18 @@
+
+---
+title: '小猫一直舔毛，会出什么问题吗_-lemon2021的回答：正常现象、猫咪本来就很喜欢舔毛、舔毛其实是在清理身体。而且常常舔毛的话、也可以带走身上的灰尘。不过需要...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-a8ad33f9341505be9f136a475db68cd6_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 16 Aug 2021 14:50:19 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-a8ad33f9341505be9f136a475db68cd6_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>小猫一直舔毛，会出什么问题吗?</strong><br>lemon2021的回答<br><p>正常现象、猫咪本来就很喜欢舔毛、舔毛其实是在清理身体。而且常常舔毛的话、也可以带走身上的灰尘。</p><p>不过需要注意的是我们需要定期给小猫咪使用化毛膏排毛球。避免小猫咪把这些毛发都吸入肠道里影响消化。</p><p>哈哈哈哈、今天我家猫睡了、</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-a8ad33f9341505be9f136a475db68cd6_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1440" data-rawheight="1080" data-default-watermark-src="https://pic1.zhimg.com/50/v2-745b500b2dce80b819c4d5998e1bb62d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-a8ad33f9341505be9f136a475db68cd6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-a8ad33f9341505be9f136a475db68cd6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>我同学家的猫也睡了、可以打游戏去了哈哈哈哈</p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-30c6f40b69a6b924fe6db21060c21a77_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1440" data-rawheight="1080" data-default-watermark-src="https://pica.zhimg.com/50/v2-f719e6682d413ca087cf2092fe4de59b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-30c6f40b69a6b924fe6db21060c21a77_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-30c6f40b69a6b924fe6db21060c21a77_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
