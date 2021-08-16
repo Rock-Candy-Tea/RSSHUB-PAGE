@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/design-tokens/'
 author: Inside Design
 comments: false
-date: 2021-08-15 15:08:16
+date: 2021-08-16 00:24:16
 thumbnail: 'https://www.invisionapp.com/inside-design/design-tokens/'
 ---
 

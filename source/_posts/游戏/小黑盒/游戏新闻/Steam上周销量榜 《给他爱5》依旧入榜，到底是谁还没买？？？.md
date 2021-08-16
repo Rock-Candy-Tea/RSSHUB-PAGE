@@ -1,0 +1,18 @@
+
+---
+title: 'Steam上周销量榜 《给他爱5》依旧入榜，到底是谁还没买？？？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1203220_0iQ6X.jpg'
+author: 小黑盒
+comments: false
+date: Mon, 16 Aug 2021 01:26:17 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1203220_0iQ6X.jpg'
+---
+
+<div>   
+<h2>8月9日---8月15日steam一周销量榜</h2><h2>1.《永劫无间》</h2><p><img data-gameid="1203220" src="https://cdn.max-c.com/heybox/game/header/1203220_0iQ6X.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/be3aac66dc0980936870fb188e74a03d/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>2.《喋血复仇》</h2><p><img data-gameid="924970" src="https://cdn.max-c.com/heybox/game/header/924970_De12N.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/aa522e896e7c3df83f1f294ea7e0df1f/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>3.《汽车机械师模拟器2021》</h2><p><img data-gameid="1190000" src="https://cdn.max-c.com/heybox/game/header/1190000_DI4us.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/5cbe24ef20db2ab5756aefa5fdddefd5/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>4.《永劫无间》豪华版</h2><p><img data-gameid="1637170" src="https://cdn.max-c.com/heybox/game/header/1637170_HVKUS.jpg" referrerpolicy="no-referrer"></p><h2>5.V社VR套件</h2><h2>6.《人类-Humankind》</h2><p><img data-gameid="1124300" src="https://cdn.max-c.com/heybox/game/header/1124300_TJr47.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/fa5c6d7a1c44e58bccb2ca2cdf9cee9b/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>7.《双人成行》</h2><p>难道都是七夕买了和男女朋友一起玩的？七夕过了，游戏也玩了，恭喜分手，哈哈哈哈哈哈~~~~呜呜呜呜呜~~~~~~</p><p><img data-gameid="1426210" src="https://cdn.max-c.com/heybox/game/header/1426210_kaoXI.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/0cdd4340afbb93c76b7f7402d0d76235/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><p><br></p><h2>8.《毁灭战士永恒》豪华版</h2><p><img data-gameid="782330" src="https://cdn.max-c.com/heybox/game/header/782330_WP1rF.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/f57be17a101086d258f4cf670ab9cb87/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>9.《米德加德部落》</h2><p><img data-gameid="858820" src="https://cdn.max-c.com/heybox/game/header/858820_obXAv.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/2eea7bfb3718e12ae3d85a332ead08c4/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>10.《给她爱5》</h2><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2195199" target="_blank"></a><p><img data-gameid="271590" src="https://cdn.max-c.com/heybox/game/header/271590_ia1h3.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2021/08/15/c17af18eb208aafe7aeb456ac8bed169/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h2>到底是谁还没有给他爱？兄弟们一直买，永远见不到6。</h2><p><img class="lazy" data-height="189" src="https://imgheybox.max-c.com/bbs/2021/08/15/898cdca3b1dafb75f22b63d3daf8874e/thumb.png" data-width="532" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="225" src="https://imgheybox.max-c.com/bbs/2021/08/15/34eae659ad0f38a6f00ada763bee196d/thumb.png" data-width="786" referrerpolicy="no-referrer"></p>  
+</div>
+            
