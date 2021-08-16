@@ -29,6 +29,7 @@ thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2019/04/icloud-1.jpg?
 <p>About Apple’s AI team, we’re still waiting to see the full Siri revamp while Apple’s Health team has “struggled with its own internal issues, and users are clamoring for additional Apple Watch sensors like those for blood-sugar monitoring.”</p>
 <p>In today’s Power On newsletter, Gurman also rounded up all of the products Apple should unveil next month. <a href="https://9to5mac.com/2021/08/15/gurman-iphone-13-apple-watch-series-7-airpods-3-ipad-mini-6-and-more-coming-at-september-apple-event/">Learn more about it here</a>.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

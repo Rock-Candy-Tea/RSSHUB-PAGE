@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/205/871/original/f85c2abffc5693a3.png'
+headimg: 'https://picsum.photos/400/300?random=2678'
 author: Mastodon
 comments: false
-date: Mon, 16 Aug 2021 06:32:51 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/205/871/original/f85c2abffc5693a3.png'
+date: Mon, 16 Aug 2021 07:52:36 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2678'
 ---
 
 <div>   
-<hr><p>寝る前にはちゃんとおトイレ行こうね🤔🗺💦</p><br><img src="https://img.pawoo.net/media_attachments/files/038/205/871/original/f85c2abffc5693a3.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>このモーションが一番好きくぱぁ🦊</p><br><video src="https://img.pawoo.net/media_attachments/files/038/206/872/original/866ef1ea1477d952.mp4" autoplay loop>gif </video>  
 </div>
             
