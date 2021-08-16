@@ -1,0 +1,19 @@
+
+---
+title: 'JVM'
+categories: 
+ - 学习
+ - ProcessOn
+ - 推荐
+headimg: 'https://img.processon.com/chart_image/thumb/60da9a2c1e08532a43c395a1.png'
+author: ProcessOn
+comments: false
+date: 2021-08-16 12:12:32
+thumbnail: 'https://img.processon.com/chart_image/thumb/60da9a2c1e08532a43c395a1.png'
+---
+
+<div>   
+<img class="thumb" alt="JVM" src="https://img.processon.com/chart_image/thumb/60da9a2c1e08532a43c395a1.png" referrerpolicy="no-referrer">
+<p>jvm基础知识</p>  
+</div>
+            
