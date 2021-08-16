@@ -24,7 +24,6 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/scr
 <p>Finally, Apple is also doubling down on why it believes its on-device implementation of CSAM detection is far better than the server-side implementations used by other companies. Those implementations, Apple explains, require that a company scan every single photo stored by a user on its server, the majority of which are not CSAM.</p>
 <p>Apple’s implementation of the CSAM detection does not require that Apple servers scan every photo. By moving the process on device, Apple’s method is more secure and is designed to only check the hashes of the images against the NCMEC database of images of known CSAM, as opposed to server-side scanning of all images.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VOl9DV"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/9to5mac_promo_rev2-01-1.png" alt class="wp-image-744631" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

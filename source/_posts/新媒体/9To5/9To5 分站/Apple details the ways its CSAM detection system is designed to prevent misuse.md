@@ -32,7 +32,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Scr
 </blockquote>
 <p>You can find the full document published by Apple today, <a href="https://www.apple.com/child-safety/pdf/Security_Threat_Model_Review_of_Apple_Child_Safety_Features.pdf">titled “Security Threat Model Review of Apple’s Child Safety Features,” right here</a>. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

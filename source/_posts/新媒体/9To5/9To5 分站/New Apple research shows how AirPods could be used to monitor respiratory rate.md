@@ -26,7 +26,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/air
 <p>Notably, the research comes as rumors suggest Apple has plans to add new health monitoring capabilities to AirPods Pro as soon as next year. Next year’s update to AirPods Pro is expected to bring new sensors to enable onboard fitness tracking. Apple VP Kevin Lynch <a href="https://9to5mac.com/2021/06/16/apple-execs-apple-health-watch-watch-interview/">also mentioned</a> the possibility of using AirPods to “father different data” for health monitoring in an interview in June.</p>
 <p>You can find more details and the full study on <a href="https://machinelearning.apple.com/research/estimating-respiratory-rate">Apple’s Machine Learning Research website right here.</a></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
