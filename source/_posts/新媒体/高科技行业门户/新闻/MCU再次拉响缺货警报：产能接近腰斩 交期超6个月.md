@@ -1,0 +1,19 @@
+
+---
+title: 'MCU再次拉响缺货警报：产能接近腰斩 交期超6个月'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/chinastarmarket/2021-08-17/1c6eafd33f34c51d82140676b5ae1457.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 17 Aug 2021 02:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/chinastarmarket/2021-08-17/1c6eafd33f34c51d82140676b5ae1457.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">《科创板日报》(上海,研究员 郑远方)讯,“缺芯”阴霾迟迟未散,Delta毒株的蔓延再为产业链蒙上一层阴影。据台湾工商时报今日报道,<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span> 6个月以上的交期已属常态,也就是说,Q3新订单要到明年才能交付;供应紧缺态势至少延续至年底,订单能见度则直达明年上半年。供不应求下,价格逐季上涨。</p><p style="text-indent: 2em; text-align: left;">另据Susquehanna Financial Group报告显示,MCU短缺状况在7月份加剧,交付周期达26．5周,以前通常为6-9周。</p><p style="text-indent: 2em; text-align: left;">除去晶圆代工、封测产能供不应求,5G、电动汽车等下游市场需求激增等因素之外,疫情是此次MCU缺货警报大作的关键原因。</p><p style="text-indent: 2em; text-align: left;">东南亚地区是全球<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6.HTM" target="_blank" title="电子元器件">电子元器件</a></span>生产重镇,受疫情影响,马来西亚、菲律宾等东南亚多国管制措施相继升级。由此,<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E9%A3%9E%E5%87%8C.HTM" target="_blank" title="英飞凌">英飞凌</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%84%8F%E6%B3%95%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="意法半导体">意法半导体</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%BE%B7%E5%B7%9E%E4%BB%AA%E5%99%A8.HTM" target="_blank" title="德州仪器">德州仪器</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E6%A3%AE%E7%BE%8E.HTM" target="_blank" title="安森美">安森美</a></span>等国际IDM大厂的当地厂房全面减少产能,产能仅剩此前的60%,叠加当地芯片物流因疫情出现延迟,交期进一步拉长至2022年。产能吃紧下,厂商更将大部分产能转移至车用、高阶市场,消费性MCU供给进一步吃紧。</p><p style="text-indent: 2em; text-align: left;">此外,MCU厂商在东南亚地区的自有封测厂也同样受到影响。当地政府封城管制导致到工率较低,即使获得许可继续运营,产能利用率还是大幅下降。预计今年年底前,这一问题都难以解决。以马来西亚为例,有50家以上<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>厂商在当地设厂,当地封测产能全球占比约13%。之前欧美IDM厂一般在东南亚自有封测厂中完成后段封测制程,如今只能对外寻求产能支援。</p><p style="text-indent: 2em; text-align: left;">更有产业链公司估计,本轮缺货潮将延续至2023年。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/chinastarmarket/2021-08-17/1c6eafd33f34c51d82140676b5ae1457.png" alt="image" referrerpolicy="no-referrer"></p><p style="text-align: center;"><span style="text-align: left; text-indent: 2em;">图|各公司MCU历年不同时期交货周期与未来货期趋势(周),资料来源:Future electronics,民生证券研究院</span></p><p style="text-indent: 2em; text-align: left;">数据显示,从MCU应用市场来看,车用电子、工控、<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2825-ConsumerElectronics.html" target="_blank" title="消费电子">消费电子</a></span>、医疗健康分别占比35%、24%、18%、14%。民生证券分析师王芳、杨旭、赵晗泥指出,汽车、IoT领域或带来需求的主要边际变量:一方面,自动化、电动化趋势下,电子电气架构重构,MCU需求随之变革;另一方面,IoT设备增长有望带来MCU增量需求。</p><p style="text-indent: 2em; text-align: left;">目前,国内MCU市场呈现玩家众多、规模普遍偏小的现状,且多为细分领域玩家,仅兆易(32 位)、中颖(8 位)体量较大,营收接近10亿元。由此看来,国内MCU厂商还处于发展的早期阶段,国产化趋势下,看好MCU平台型公司的出现。</p><p style="text-indent: 2em; text-align: left;">民生证券上述研报建议关注已在MCU领域具备技术、产品优势的规模化企业,以及具有特殊定位的MCU厂商,包括:兆易创新是国内<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-32%E4%BD%8DMCU.HTM" target="_blank" title="32位MCU">32位MCU</a></span>龙头厂商;中颖电子是8位MCU、家电 MCU龙头;芯海科技是模拟+MCU平台型公司;国民技术已布局32位通用MCU;乐鑫科技已布局WiFi/<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%93%9D%E7%89%99.HTM" target="_blank" title="蓝牙">蓝牙</a></span>MCU。</p><p style="text-indent: 2em; text-align: left;">来源:科创板日报 郑远方</p> 
+  
+</div>
+            

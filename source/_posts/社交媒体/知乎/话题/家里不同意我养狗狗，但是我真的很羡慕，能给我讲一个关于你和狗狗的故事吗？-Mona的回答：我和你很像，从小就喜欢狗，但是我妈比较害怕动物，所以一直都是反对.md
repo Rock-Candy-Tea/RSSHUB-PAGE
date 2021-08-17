@@ -1,0 +1,18 @@
+
+---
+title: '家里不同意我养狗狗，但是我真的很羡慕，能给我讲一个关于你和狗狗的故事吗？-Mona的回答：我和你很像，从小就喜欢狗，但是我妈比较害怕动物，所以一直都是反对...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/50/v2-32c53733ca777ffba8b807854778c03d_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 17 Aug 2021 02:58:39 GMT
+thumbnail: 'https://pica.zhimg.com/50/v2-32c53733ca777ffba8b807854778c03d_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>家里不同意我养狗狗，但是我真的很羡慕，能给我讲一个关于你和狗狗的故事吗？</strong><br>Mona的回答<br><p>我和你很像，从小就喜欢狗，但是我妈比较害怕动物，所以一直都是反对养狗的，虽然家里也曾机缘巧合的有过狗，但是很短暂，没过多久就送回了老家。所以我对狗，尤其是对有一条自己的狗有很大的执念。</p><p>然后就到了2017年，我完全离开父母在异国他乡独立生活的第三年，终于有了一只自己的狗。在这之前我还有了两只猫，猫咪的事我都没敢告诉妈妈，但是狗的事情我告诉了她，结果就是可以预料到的争吵和抱怨，哭也哭了闹也闹了，我也终于圆满了。</p><p>但我很快发现，照顾一条狗并没有猫那么简单，我养了一条边牧，拆家的本领自然不用说，旺盛的精力更是刷新了我的认知。要问我后悔养狗吗，不后悔，可能后悔的是我没有好好想想我应该养什么狗，应该什么时候养，而不是头脑一热就把他带回了家。</p><p>这是他还不到俩月的时候    </p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-32c53733ca777ffba8b807854778c03d_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-64a42dcf4c9ea8eaf6758b4bec263532_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-32c53733ca777ffba8b807854778c03d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-32c53733ca777ffba8b807854778c03d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>回归主题，我和狗的故事很多，但大多都不是主人和狗相亲相爱，互相依赖什么的。我们之间就像是两个不熟悉的人突然生活在一起一样，互相磨合，磕磕绊绊，我们总开玩笑说要不是被道德约束，他可能早就无家可归了。但我一直觉得是他在push我们努力改变现状的，自从带他回家，我们都换了工作，还换了房子，狗有了自己的小院可以自由奔跑。要说养狗给我带来了什么，那就是对责任的理解，和对自己的反思，相信这就是人生经验积累最好的方式吧。哈哈。</p><p>这是他现在的样子    </p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-9180518f07d390bad9aa0475f770b50d_720w.jpg?source=54b3c3a5" data-rawwidth="2736" data-rawheight="3648" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-31262ea07734b72e46a4f89b79be867a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-9180518f07d390bad9aa0475f770b50d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-9180518f07d390bad9aa0475f770b50d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-b86299b143e255aebbe7a3ecf07b5538_720w.jpg?source=54b3c3a5" data-rawwidth="2515" data-rawheight="3353" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-5cd145938beb3c671f19756f226c11b3_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-b86299b143e255aebbe7a3ecf07b5538_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-b86299b143e255aebbe7a3ecf07b5538_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-d268e711592c4967a66ca9f4403665e4_720w.jpg?source=54b3c3a5" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-9e29a99db72a50c2d81d35108bf5640c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d268e711592c4967a66ca9f4403665e4_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-d268e711592c4967a66ca9f4403665e4_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>最后，希望你能拥有属于自己的狗狗。</p>  
+</div>
+            
