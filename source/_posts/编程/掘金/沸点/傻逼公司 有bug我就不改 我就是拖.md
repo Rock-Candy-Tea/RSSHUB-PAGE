@@ -1,0 +1,20 @@
+
+---
+title: '傻逼公司 有bug我就不改 我就是拖'
+categories: 
+ - 编程
+ - 掘金
+ - 沸点
+headimg: 'https://picsum.photos/400/300?random=7861'
+author: 掘金
+comments: false
+date: Tue, 17 Aug 2021 02:14:13 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7861'
+---
+
+<div>   
+傻逼公司 有bug我就不改 我就是拖<br>
+            <br>
+          
+</div>
+            
