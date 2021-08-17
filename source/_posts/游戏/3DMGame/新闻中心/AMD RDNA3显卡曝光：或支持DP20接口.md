@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210817/1629192154_5496
 随着RX 6600 XT的发布，AMD RDNA2显卡的版图基本完整，后续即便更新应该也都是更入门的产品。这也就意味着，RDNA3的开发提速。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210817/1629192154_549662.jpg" alt="AMD RDNA3显卡曝光：或支持DP2.0接口" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210817/1629192154_549662.jpg" alt="AMD RDNA3显卡曝光：或支持DP2.0接口" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在Redeon开放计算开发者工具中，已经出现了Navi 3X GPU的身影，包括Navi 31、Navi 33等。与此同时，Linux分支的AMD GPU驱动显示，对DisplayPort 2.0接口的支持也加入进来了。

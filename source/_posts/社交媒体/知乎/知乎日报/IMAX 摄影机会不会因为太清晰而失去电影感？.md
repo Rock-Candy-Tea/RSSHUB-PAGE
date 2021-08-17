@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-17 10:07:28
-thumbnail: 'https://pic1.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162'
+date: 2021-08-17 11:05:42
+thumbnail: 'https://pica.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/16dd5dda046a7301ad3ac78c4e63bf24_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">andtoie</span>
 <a href="https://www.zhihu.com/question/276122161/answer/401664298" class="originUrl" hidden>查看知乎原文</a>
 </strong>
