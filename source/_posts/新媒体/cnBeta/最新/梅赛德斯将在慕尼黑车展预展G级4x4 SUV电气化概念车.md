@@ -1,0 +1,19 @@
+
+---
+title: '梅赛德斯将在慕尼黑车展预展G级4x4 SUV电气化概念车'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0817/71dac6befa358cd.jpg'
+author: cnBeta
+comments: false
+date: Tue, 17 Aug 2021 08:09:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0817/71dac6befa358cd.jpg'
+---
+
+<div>   
+据外媒报道，<strong>梅赛德斯-奔驰将在慕尼黑车展上预展酝酿已久的G级SUV电气化概念车，该概念车将率先推出一款4x4子品牌。</strong>自从CEO Ola Källenius证实，麦格纳生产的路虎卫士(Land Rover Defender)的竞争对手--于1979年推出的G-Wagen车型--将获得一款全电动改版车型以来已经过去快两年时间了，当时他还预测“最后一款梅赛德斯车型将会是G级”。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0817/71dac6befa358cd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0817/71dac6befa358cd.jpg" alt="G0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据悉，量产版电动G级SUV定于2024年推出，届时，梅赛德斯系列的大多数主流车型都将采用电力驱动系统。</p><p style="text-align: left;">慕尼黑车展预计将揭示G级将如何重新设计和配置以适应电动时代，另外还可以预览将会出现量产版中的设计和内饰线索。</p><p style="text-align: left;">鉴于自42年前G级问世以来，它已经发生了微妙的变化，梅赛德斯不太可能重新设计其一贯的坚固的两箱设计，但预计会有一系列新的造型元素，从而让它跟其他EQ品牌车型保持一致。</p><p style="text-align: left;">全新造型的整装前格栅将是跟靠ICE驱动的车的主要区别，跟基于GLB的EQB也是如此，但新的车轮设计、轻型车组和改进后的尾部将有助于将EQG与G级车区分开来。</p><p style="text-align: left;">EQG的越野潜力已经在2020年通过EQC 4x4²概念车得到了展示，这是对梅赛德斯首款定制电动汽车的一次奇异改造，是梅赛德斯将以新成立的G子品牌销售的新型电动越野车系列的技术展示。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0817/12c67de8ac2c753.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0817/12c67de8ac2c753.jpg" alt="g1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">虽然升高的悬挂和厚实的黑色下半身装饰是明显的视觉泄露，但提高离地间隙的门轴和增加履带宽度的设计让这款以豪<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>主的EQC成为了一款功能强大的越野车并极大地展示了EQG的性能。</p><p style="text-align: left;">开发工程师Jürgen Eberle表示：“人们对传统越冬车的热情依然很高”，另外他还指出，EQC 4x4²表明这类车可以“虽然完全电动，但EQC 4x4²概念车展示了纯电动越冬车的能力--以一种严肃的方式越冬的能力”。这表明，这一方案在EQG的优先事项清单上名列前茅。</p><p style="text-align: left;">电动传动系统提供的高扭矩和瞬时加速使其成为越野应用的理想选择，这意味着EQG应该忠于g级的“无处可去”精神，g级历来以各种形式在许多国际军事部队中服役。</p><p style="text-align: left;">据推断，梅赛德斯的老板们打算将GLB和EQB兄弟车型作为高端、适合家庭使用的越野车进行营销，这跟路虎发现运动(Land Rover Discovery Sport)类似，但其A级衍生、前轮驱动的MFA2架构更明显地偏向于道路运营。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0817/82fe0e8bc7dfa57.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0817/82fe0e8bc7dfa57.jpg" alt="eqg_cover.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">作为一款专门的越轨车，EQG不太可能采用将支撑梅赛德斯所有新款定制电动汽车的低底盘EVA架构，而是采用基于G级车架支撑的电动架构。</p><p style="text-align: left;">底盘的适应性将为地板下的锂离子电池组腾出空间，由于G级车的轴距加长，所以可以将107.8kWh的电池组安装在顶级的EQS上，这应该能带来一个有竞争力的WLTP续航里程。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0817/b76474df5e52ac4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0817/b76474df5e52ac4.jpg" alt="G2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据悉，梅赛德斯已经为EQG 560和EQG 580注册了商标，这意味着该越野车将提供跟顶级版EQS相同的516马力、631磅-英尺双发动机配置及动力较小的入门级配置。</p>   
+</div>
+            
