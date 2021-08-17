@@ -14,7 +14,11 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Sen
 
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Senate-bill-would-require-Apple-to-build-a-backdoor-into-iPhones.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p><em>Update: It appears this bill, first proposed last year, is no longer likely to proceed.</em></p>
+<p><em>Update: This bill <a href="https://www.govtrack.us/congress/bills/116/s4051" target="_blank" rel="noreferrer noopener">did not get as far as a vote</a>.</em></p>
+<blockquote class="wp-block-quote">
+<p>This bill was introduced on June 23, 2020, in a previous session of Congress, but it did not receive a vote.</p>
+<p>Although this bill was not enacted, its provisions could have become law by being included in another bill. It is common for legislative text to be introduced concurrently in multiple bills (called companion bills), re-introduced in subsequent sessions of Congress in new bills, or added to larger bills (sometimes called omnibus bills).</p>
+</blockquote>
 <p>A bill proposed in the US Senate would effectively make it a legal requirement for Apple to build a backdoor into iPhones. It would make it illegal for Apple and other tech giants to use strong encryption for either devices or cloud services …</p>
 <p><span id="more-744863"></span>
 </p>
