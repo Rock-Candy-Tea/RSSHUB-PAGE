@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/259/628/original/8151cc79fed555ce.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/038/260/965/original/d70b85fecb0373ec.png'
 author: Mastodon
 comments: false
-date: Wed, 18 Aug 2021 14:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/259/628/original/8151cc79fed555ce.jpeg'
+date: Wed, 18 Aug 2021 15:01:05 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/260/965/original/d70b85fecb0373ec.png'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[CG集] むっちりふぁいたーず つう （ガンダムビルドファイターズ）<br>投稿日：2018.5.6<br>久しぶりにＣＧ集を出すことになりました。<br>今更ながらのガンダムビルドファイターズネタです。<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%93%E3%83%AB%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA" class="mention hashtag" rel="tag">#ガンダムビルドファイターズ</a><br><a href="https://www.a-legend.net/wordpress/?p=9049" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=9049</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/259/628/original/8151cc79fed555ce.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【ブログ記事投稿しました】<br>[漫画] 【R-18】不貞 with … （越山弱衰）<br>投稿日：2021.8.19<br>作品名：不貞 with …<br>作家名：越山弱衰<br>発売日：2020/12/25<br>出版元：GOT<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E8%B6%8A%E5%B1%B1%E5%BC%B1%E8%A1%B0" class="mention hashtag" rel="tag">#越山弱衰</a><br><a href="https://www.a-legend.net/wordpress/?p=11713" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=11713</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/260/965/original/d70b85fecb0373ec.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/260/966/original/9e33d5448394c1d5.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             

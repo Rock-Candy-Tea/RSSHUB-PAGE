@@ -1,0 +1,22 @@
+
+---
+title: '利用基因编辑技术创制多样性BR研究及育种材料'
+categories: 
+ - 新媒体
+ - 科学网
+ - 博客
+headimg: 'https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202108/18/224137sd11uryh77tqqfty.jpg'
+author: 科学网
+comments: false
+date: Wed, 18 Aug 2021 22:40:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202108/18/224137sd11uryh77tqqfty.jpg'
+---
+
+<div>   
+<p style="margin: 8px 0px; text-indent: 28px; text-align: justify;"><span style=";font-family:宋体">水稻育种逐渐进入分子设计阶段，迅速发展的基因编辑技术为不同性状的定向改良提供了可能，然而其实际应用仍存在局限性。即便面对同一性状，不同育种家不同品种在不同生态区面对不同消费人群，其改良需求也是不同的。因此，如何满足多样化动态需求成为当前分子设计育种的一大挑战。油菜素甾醇（</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">）显著调控水稻株型、粒型和耐逆性等诸多重要农艺性状，在作物遗传改良及分子设计上具有巨大应用潜力。然而，由于不同性状之间的复杂关联，利用</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">针对某一性状改良往往伴随有负效应，克服这一问题对有效利用</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">基因进行分子设计具有重要意义。</span></p><p style="margin: 8px 0px; text-indent: 28px; text-align: justify;"><span style=";font-family:宋体">刘大普博士等利用</span><span style=";font-family:'Times New Roman','serif'">CRISPR/Cas9</span><span style=";font-family:宋体">基因编辑技术，采用单载体多靶标或针对保守序列等不同策略，分别对</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">主信号通路的三个基因家族成员（</span><em><span style=";font-family:'Times New Roman','serif'">GSK1-GSK4</span></em><span style=";font-family:'Times New Roman','serif'">,</span><em><span style=";font-family:'Times New Roman','serif'"> OsBZR1-OsBZR4</span></em><span style=";font-family:'Times New Roman','serif'">, <em>PPKL1-PPKL3</em></span><span style=";font-family:宋体">）进行了混合敲除，获得了一系列不同组合、不同位点的突变体，包含了丰富的性状多样性组合，可筛选获得各种性状特异或多种优异性状组合的遗传材料，为利用</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">基因进行分子设计以满足不同改良需求提供了新思路。此外，该研究还创制了</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">信号通路中代表性基因</span><span style=";font-family:'Times New Roman','serif'">GSK2</span><span style=";font-family:宋体">、</span><span style=";font-family:'Times New Roman','serif'">BZR</span><span style=";font-family:宋体">和</span><span style=";font-family:'Times New Roman','serif'">PPKL</span><span style=";font-family:宋体">等野生型或激活形式融合不同蛋白标签（</span><span style=";font-family:'Times New Roman','serif'">GFP, Flag, Myc</span><span style=";font-family:宋体">）的过表达材料并进行了分子验证，为后续</span><span style=";font-family:'Times New Roman','serif'">BR</span><span style=";font-family:宋体">相关研究及分子利用奠定了坚实材料基础。</span></p><p style="text-align: center;"><a href="http://image.sciencenet.cn/home/202108/18/224137sd11uryh77tqqfty.jpg" target="_blank"><img src="https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/202108/18/224137sd11uryh77tqqfty.jpg" width="435" height="429" style="width: 435px; height: 429px;" referrerpolicy="no-referrer"></a></p><p style="margin: 8px 0px; text-indent: 28px; text-align: justify;"><span style=";font-family:宋体">相关研究结果于</span><span style=";font-family:'Times New Roman','serif'">2021</span><span style=";font-family:宋体">年</span><span style=";font-family:'Times New Roman','serif'">8</span><span style=";font-family:宋体">月</span><span style=";font-family:'Times New Roman','serif'">17</span><span style=";font-family:宋体">日以</span><span style=";font-family:'Times New Roman','serif'">“<a href="https://academic.oup.com/plphys/advance-article-abstract/doi/10.1093/plphys/kiab394/6353036?redirectedFrom=fulltext" target="_blank">Diversification of Plant Agronomic Traits by Genome Editing of Brassinosteroid Signaling Family Genes in Rice</a>”</span><span style=";font-family:宋体">为题在线发表在</span><span style=";font-family:'Times New Roman','serif'">Plant Physiology</span><span style=";font-family:宋体">杂志上。刘大普博士、于智坤和张国霞博士为共同第一作者，童红宁研究员、储成才教授、王士梅研究员为共同通讯作者。</span></p><p><br></p>                    <br><br>
+                                        <label style="font-size:13px; color:#850f0f">转载本文请联系原作者获取授权，同时请注明本文来自储成才科学网博客。<br>链接地址：</label><a href="http://blog.sciencenet.cn/blog-2351-1300387.html" target="_blank" style="font-size:13px; color:#850f0f">http://blog.sciencenet.cn/blog-2351-1300387.html </a>
+  <br><br>上一篇：<a href="http://blog.sciencenet.cn/blog-2351-1294217.html" target="_black">李倩倩博士Nature Plants文章：揭示ABA逆境信号与BR生长信号协同调控机制</a><br>                    <!--大赛结束-->
+                                        
+  
+</div>
+            
