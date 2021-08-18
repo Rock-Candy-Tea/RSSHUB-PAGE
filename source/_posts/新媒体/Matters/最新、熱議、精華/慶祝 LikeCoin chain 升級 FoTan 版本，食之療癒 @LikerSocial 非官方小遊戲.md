@@ -1,0 +1,18 @@
+
+---
+title: '慶祝 LikeCoin chain 升級 FoTan 版本，#食之療癒 @Liker.Social 非官方小遊戲'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/61bb281b-7ce8-4234-ac4c-80beec3d49a3.jpeg'
+author: Matters
+comments: false
+date: Wed, 18 Aug 2021 03:34:00 GMT
+thumbnail: 'https://assets.matters.news/embed/61bb281b-7ce8-4234-ac4c-80beec3d49a3.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/61bb281b-7ce8-4234-ac4c-80beec3d49a3.jpeg" data-asset-id="61bb281b-7ce8-4234-ac4c-80beec3d49a3" referrerpolicy="no-referrer"><figcaption><span>來放題吧！</span></figcaption></figure><p>一直對社區活動第一季其中一個我趕不上由 <a class="mention" href="https://matters.news/@iriscanada" target="_blank" data-display-name="IrisChen" data-user-name="iriscanada" data-id="VXNlcjoxNjk3">﻿<span>@IrisChen</span>﻿</a> 舉辦的活動 <a href="https://matters.news/@iriscanada/%E9%A3%9F%E4%B9%8B%E7%99%82%E7%99%92-%E7%8D%8E%E9%87%91%E7%B8%BD%E6%95%B8-52000-likecoin-%E7%AD%89%E4%BD%A0%E4%BE%86%E6%8B%BF-bafyreia2t6ofsj5dtibsctvcgrooif2skmgtlq6l65jon7g7yghxg6zx3q" target="_blank">#食之療癒</a> 念念不忘，正好今日 LikeCoin chain 將升級為 Fotan 版本，就讓我在 <a href="https://liker.social/" target="_blank">Liker.Social</a> 延續這個標籤的生命，並以之前文章獲得的 LikeCoin 為它辦個小遊戲吧。</p><h2>為甚麼是 Liker.Social？</h2><ul><li>它短小精幹以 500 字為本位的方式讓一些在 Matters 或其他平台的討論得以升華，或變得更容易入口。例如我說某作者的文章有時太長真的會嚇怕我，但在 Liker.Social 看他的嘟文又覺得很可以，這就是一個「變得更容易入口」的舉例。</li><li>此外它的標籤，可以達到一種「<strong>結繩記事</strong>」的效果。舉例你在減肥但又不想每一次寫落落長文，於是你可以創一個類似 #寶寶瘦身成功 （現實是門都沒有）的標籤，把每日一點點進度貼上 Liker.Social。</li><li>至於我自己正測試使用兩個標籤，讓一些文章得以推介開去：</li></ul><p><a href="https://liker.social/web/timelines/tag/Matters%E6%8E%A8%E4%BB%8B" target="_blank">#Matters推介</a> 我推介的文章，可能很偏門，又或者很搞笑的（配合我品味）</p><p><a href="https://liker.social/web/timelines/tag/Matters%E6%96%B0%E4%BA%BA" target="_blank">#Matters新人</a> 我認為很棒的 Matters 新人</p><p>與 Matters 一樣，Liker.Social 的標籤是大家都可以使用的，如果你也有其他推介，可以一起來用。</p><ul><li>當然你可以在 Liker.Social 上推自己的文章。</li><li>使用 Liker.Social 會有一種「<strong>自己在自說自話但偶爾得到別人共嗚會很開心</strong>」的感覺，它不但不會和其他寫作平台有抵觸，反而有相輔相成的作用。在 Liker.Social 的討論可以在寫作平台延續，而在寫作平台說的意猶未盡也可以在 Liker.Social 發揮。</li><li>還可以玩投票呢。</li></ul><h2>遊戲玩法</h2><ul><li>參加者必須要是在 Matters 或其他支援 LikeCoin 的寫作平台於 8月17日或以前產出過一篇或以上文章的用戶，再申請 <a href="https://liker.social/" target="_blank">Liker.Social</a> 並把<strong>一張食物相片及它的故事寫成一篇嘟文再加上 #食之療癒 標籤。嘟文全文連標籤不多於500 字</strong>。<strong>（是不多於不是必須要 500 字） </strong></li><li>每一個與 Matters 或其他支援 LikeCoin 的寫作平台連動的 Liker.Social 帳戶只可提供一篇參賽嘟文。如參賽者提供多於一篇嘟文，將以拍手最多的嘟文作計算。</li><li>嘟文內容可以關於：這款食物如何感動我、是我的幸運食物、這食物令我懷念我和朋友在一起的時光，甚或是食譜（你肯定 500 字可以？），只要關於食物的都歡迎。</li><li><strong>用戶的 Timeline 必須為 public</strong>，假如用戶選擇 unlist 讓自己的嘟文不被 local timeline 發現，又或者 block 了主辦者即是我，都會喪失參加資格。如果是為了隱私只要開「不被搜索引擎發現」即可而不用選擇 unlist。</li><li>所有內容必須為原創，並從未於任何地方發表過，包括 Matters。但你可以在 Matters <a href="https://liker.social/@daisy/106715023329486216" target="_blank">連結你的嘟文</a> 推介別人為你拍手。</li></ul><h2>獎項</h2><p>頭獎：999 LikeCoin － 最多人拍手</p><p>二獎：666 LikeCoin － 拍手數最多第二名</p><p>三獎：333 LikeCoin － 拍手數最多第三名</p><p>四獎：111 LikeCoin － 拍手數最多第四名</p><p>如果有朋友的相片很打動到我，有機會弄其他一些特別獎出來。</p><p>此外，<strong><u>無任歡迎其他朋友贊助獎金並創建你的獎項</u>。</strong></p><h2>截止日期</h2><p>最後嘟文為處暑8月23日晚上23時59分香港時間。</p><h2>得獎者公佈日期</h2><p>8月25日或之前於本人之 Liker.Social 戶口及此文章公佈。</p><p>得獎者需於8月27日中午12時前回覆得獎公告訊息，否則視作放棄獎項論。</p><h2>重要事項</h2><ul><li><strong>這是一個由本人舉辦的活動，一切與 LikeCoin 及 Liker.Social 官方無關。</strong></li><li>不接受任何不懷好意、冷譏熱諷、文不對題、疑似對我欺淩倒讚，破壞活動氣氛的人士提供獎金及參與活動。</li><li>如參加者被懷疑刷讚或作出任何不君子的行為，將被取消資格。</li><li>任何決定，以本人及贊助人的決定為最終決定，任何人不得異議。</li><li>又，歡迎 follow 本人的 <a href="https://matters.news/@daisy" target="_blank">Matters</a> 及 <a href="https://liker.social/@daisy" target="_blank">Liker.Social</a> 戶口以獲取本人因收得太多贊助感到不好意思而不定期舉辦活動的資訊，但這不是獲獎的必須條件。</li></ul><p>現時 Liker.Social 有 948 用戶，希望之後有更多人加入來一齊玩吧。</p>  
+</div>
+            
