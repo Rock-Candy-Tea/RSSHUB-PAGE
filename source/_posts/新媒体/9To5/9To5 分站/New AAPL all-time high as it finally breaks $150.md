@@ -34,7 +34,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/New
 <blockquote class="wp-block-quote">
 <p>I would like to encourage my fellow Apple 3.0 investors to consider doing the same. Why hold on to your iPhones or iPads for years? You can afford to buy the new ones with the generous returns of your Apple investment. Grow the installed base and act as a mobile showroom with Apple’s latest and greatest in your hands and on your wrist.</p>
 </blockquote>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-greenopt-750x150-1.png" alt class="wp-image-745251" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
