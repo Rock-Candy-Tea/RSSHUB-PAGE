@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/c8be43ebb_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/c8be43ebb_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-18 04:08:30
-thumbnail: 'https://pic1.zhimg.com/c8be43ebb_l.jpg?source=8673f162'
+date: 2021-08-18 05:06:08
+thumbnail: 'https://pic2.zhimg.com/c8be43ebb_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ EVA《新世纪福音战士剧场版：终》8 月 13 日上线流媒体，看�
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/c8be43ebb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/c8be43ebb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">白头豕，</span><span class="bio">个人公众号：白头豕。关注文艺，历史，思想，时事。</span>
 <a href="https://www.zhihu.com/question/477006009/answer/2064840228" class="originUrl" hidden>查看知乎原文</a>
 </strong>
