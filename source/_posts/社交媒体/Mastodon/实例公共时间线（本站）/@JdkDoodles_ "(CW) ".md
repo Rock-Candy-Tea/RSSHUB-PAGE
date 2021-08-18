@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/247/908/original/d557b46b4c5f4ffd.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/038/248/376/original/b0f9c0be5bf8d0fd.png'
 author: Mastodon
 comments: false
-date: Wed, 18 Aug 2021 02:13:22 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/247/908/original/d557b46b4c5f4ffd.png'
+date: Wed, 18 Aug 2021 02:50:26 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/248/376/original/b0f9c0be5bf8d0fd.png'
 ---
 
 <div>   
-<hr><p>My oc fran, BBF of my main oc Aarne, originally she is a robot/cyborg, so I thought it was a good idea for her to have a dark colored skin like the reploids in megaman zx, although I eventually discarded that idea.</p><br><img src="https://img.pawoo.net/media_attachments/files/038/247/908/original/d557b46b4c5f4ffd.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Commission <a href="https://pawoo.net/tags/loli" class="mention hashtag" rel="tag">#loli</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/248/376/original/b0f9c0be5bf8d0fd.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/248/377/original/f026cf1d2ccebd6a.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
