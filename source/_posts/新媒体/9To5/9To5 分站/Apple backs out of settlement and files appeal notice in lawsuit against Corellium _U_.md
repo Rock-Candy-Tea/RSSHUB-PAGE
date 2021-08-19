@@ -34,7 +34,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/08/Scr
 <li><a href="https://9to5mac.com/2021/08/17/check-apple-csam-claims/">Corellium will pay for security researchers to check Apple CSAM claims</a></li>
 <li><a href="https://9to5mac.com/2021/08/10/misusing-csam-scanning-in-us-prevented-by-fourth-amendment-argues-corellium/">Misusing CSAM scanning in US prevented by Fourth Amendment, argues Corellium</a></li>
 </ul>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-greenopt-750x150-1.png" alt class="wp-image-745251" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-1-750x150-2.png?w=750" alt class="wp-image-745664" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

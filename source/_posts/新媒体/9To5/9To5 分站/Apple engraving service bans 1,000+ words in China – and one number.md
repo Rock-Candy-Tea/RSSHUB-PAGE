@@ -35,7 +35,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <blockquote class="wp-block-quote">
 <p>We present evidence that Apple does not fully understand what content they censor and that, rather than each censored keyword being born of careful consideration, many seem to have been thoughtlessly reappropriated from other sources. In one case, Apple censored ten Chinese names surnamed Zhang with generally unclear significance. The names appear to have been copied from a list we found also used to censor products from a Chinese company.</p>
 </blockquote>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-greenopt-750x150-1.png" alt class="wp-image-745251" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-1-750x150-2.png?w=750" alt class="wp-image-745664" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

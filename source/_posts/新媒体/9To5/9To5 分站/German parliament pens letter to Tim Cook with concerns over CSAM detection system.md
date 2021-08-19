@@ -33,7 +33,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/app
 <li><a href="https://9to5mac.com/2021/08/09/apple-csam-faq/">Apple CSAM FAQ addresses misconceptions and concerns about photo scanning</a></li>
 <li><a href="https://9to5mac.com/2021/08/10/apple-privacy-exec-details-system-to-detect-csam-in-new-interview/">Apple Privacy exec details system to detect CSAM in new interview</a></li>
 </ul>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-greenopt-750x150-1.png" alt class="wp-image-745251" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large is-resized"><a href="https://bit.ly/3yV0EUB"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/chargie-a-ad-1-750x150-2.png?w=750" alt class="wp-image-745664" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
