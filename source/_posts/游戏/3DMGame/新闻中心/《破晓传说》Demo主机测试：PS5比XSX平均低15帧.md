@@ -8,13 +8,13 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20210819/1629361681_789010.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 19 Aug 2021 08:51:00 GMT
+date: Thu, 19 Aug 2021 09:08:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210819/1629361681_789010.jpg'
 ---
 
 <div>   
 <p style="text-indent:2em;">
-《<a target="_blank" href="https://www.3dmgame.com/games/talesofarise/">破晓传说</a>》试玩Demo已于昨日推出，油管频道ElAnalistaDeBits就对此Demo各个主机版本进行了测试，测试显示，画质模式下PS5比XSX平均低15帧。
+《<a target="_blank" href="https://www.3dmgame.com/games/talesofarise/">破晓传说</a>》试玩Demo即将推出，油管频道ElAnalistaDeBits就对此Demo各个主机版本进行了测试，测试显示，画质模式下PS5比XSX平均低15帧。
 </p>
 <p style="text-indent:2em;">
 <strong>《破晓传说》试玩Demo各主机测试：</strong> 
