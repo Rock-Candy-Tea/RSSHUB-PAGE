@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/08/19/1612514425.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-08-19 10:07:30
+date: 2021-08-19 11:06:02
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/08/19/1612514425.jpg'
 ---
 
@@ -17,6 +17,8 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/08/19/1612514425.jpg'
 
 活动时间：8月19日00:00-8月23日00:00
 参与方式：在《破晓传说》游戏详情页发表Demo体验评价
-活动奖励：活动期间符合要求正常撰写评价的玩家中选取3名送80HKD点卡<br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612514425.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612517242.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612526262.jpg" referrerpolicy="no-referrer">  
+活动奖励：活动期间符合要求正常撰写评价的玩家中选取3名送80HKD点卡
+
+Tips：在新闻底下发表游戏评价无法参与活动哦，谢谢啦！<br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612514425.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612517242.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/19/1612526262.jpg" referrerpolicy="no-referrer">  
 </div>
             
