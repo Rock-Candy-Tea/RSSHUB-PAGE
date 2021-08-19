@@ -1,0 +1,18 @@
+
+---
+title: '微软官方预热展示 Win11 画图全新设计'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfc_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 18 Aug 2021 18:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfc_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 8 月 19 日消息 外媒 Neowin 报道，微软已经慢慢开始向 Windows 11 截图工具、计算器等内置应用推出了一堆 App 更新，作为这些应用更新的一部分。这些并不代表只是视觉 UI 上的更新，因为微软正在为其增加新的功能。就截图工具而言，微软正在将该应用统一为一款单一产品。微软首席产品官 Panos Panay 本月早些时候预告的另一款应用程序包括新的闹钟和时钟应用程序，该应用程序具有“ Focus Sessions ”和 Spotify 集成功能。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfc_1024.jpg" data-height="428" data-width="760" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfc_1024.jpg" referrerpolicy="no-referrer"></div></div>今天，Panos Panay 在 Twitter 上发布了另一个预告视频，展示了“微软画图”的更新，这是一个深受大家喜爱的产品，多年来一直在 Windows 中占有一席之地。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfd_1024.jpg" data-height="537" data-width="742" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bfd_1024.jpg" referrerpolicy="no-referrer"></div></div>下面是视频：<p></p><p></p><div class="zaker_div"><div id="zkvideo16293313026827" class="zk_upvideo" data-zkinfo="%7B%22status%22%3A%22finished%22%2C%22imgUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2F2021%2F08%2F19%2F1629331301177_W1280H720S.jpeg%22%2C%22videoUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2Farticle_video%2F2021%2F08%2F19%2F1629331300124.mp4%22%2C%22name%22%3A%221629331300124.mp4%22%2C%22width%22%3A1280%2C%22height%22%3A720%7D"></div><div class="edi_oper"></div></div><p></p><p>该预告展示了 Windows 11 画图升级的用户界面，包括现代图标、圆角 UI，以及对浅色和深色主题的支持。特别是主题选项，似乎是整个内置应用程序的重点，甚至计算器现在也有这个功能。选择字体风格和笔刷类型的方法也变得更容易了，特别适合使用手写笔的用户。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202108/611d999c8e9f0944fd105bfe_1024.jpg" data-height="428" data-width="760" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611d999c8e9f0944fd105bfe_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，经典的“画图”应用经历了一些坎坷，微软曾计划用“画图 3D ”来取代这一产品。然而，今年早些时候，画图 3D 不再与 Windows Insider 版本的新安装捆绑在一起，这标志着微软对画图应用的关注以及 Windows 本身的 3D 模式的结束。现在，这款流行的经典产品复兴，对那些仍然依赖这个简单而实用的工具的人来说是个好消息。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bff_1024.jpg" data-height="428" data-width="760" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611d999c8e9f0944fd105bff_1024.jpg" referrerpolicy="no-referrer"></div></div>就像其他的 Windows 11 的内置应用程序一样，更新的画图应用程序也可能通过微软商店提供。除了“画图”，微软预计还将对“照片”应用进行改进，这是它在 Windows 11 公告中预告的。由于这些应用程序的更新是通过微软商店推出的，它们不需要与 Windows 11 的构建进行特别的绑定联系。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

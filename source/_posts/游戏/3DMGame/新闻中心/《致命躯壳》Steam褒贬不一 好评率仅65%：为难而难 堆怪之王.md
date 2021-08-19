@@ -41,7 +41,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210819/1629337918_5349
 <img src="https://img.3dmgame.com/uploads/images/news/20210819/1629338144_359313.jpg" alt="《致命躯壳》Steam褒贬不一 好评率仅65%：为难而难 堆怪之王" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-《致命躯壳》目前Steam折扣价9折优惠142元，8月26日恢复原价158元，DLC“良性循环”首发5天内免费领取（需拥有本体）。
+《致命躯壳》目前Steam折扣价9折优惠90元，8月26日恢复原价100元，DLC“良性循环”首发5天内免费领取（需拥有本体）。
 </p>          
 </div>
             
