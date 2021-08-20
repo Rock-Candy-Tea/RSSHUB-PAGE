@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/collaborative-flowcharting/'
 author: Inside Design
 comments: false
-date: 2021-08-20 02:18:50
+date: 2021-08-20 03:08:29
 thumbnail: 'https://www.invisionapp.com/inside-design/collaborative-flowcharting/'
 ---
 
