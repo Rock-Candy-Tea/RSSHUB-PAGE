@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210819/e343ae03161fb94de5dd5ccff887428a.jpeg'
 author: Dockone
 comments: false
-date: 2021-08-20 05:07:49
+date: 2021-08-20 06:08:52
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210819/e343ae03161fb94de5dd5ccff887428a.jpeg'
 ---
 
 <div>   
-<br>【编者的话】Docker镜像的大小对于系统的CI/CD有很大影响，尤其是云部署的机器，我们在生产实践中都会做瘦身的操作，尽最大的可能使用Size小的镜像完成功能。下文是一个简单的ReactJS程序上线的瘦身体验，希望可以帮助大家找到镜像瘦身的方向和灵感。<br>
+<br>【编者的话】Docker镜像的大小对于系统的CI/CD等都有影响，尤其是云部署场景。我们在生产实践中都会做瘦身的操作，尽最大的可能使用Size小的镜像完成功能。下文是一个简单的ReactJS程序上线的瘦身体验，希望可以帮助大家找到镜像瘦身的方向和灵感。<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20210819/e343ae03161fb94de5dd5ccff887428a.jpeg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210819/e343ae03161fb94de5dd5ccff887428a.jpeg" class="img-polaroid" title="1.jpeg" alt="1.jpeg" referrerpolicy="no-referrer"></a>
 </div>
@@ -25,8 +25,8 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <h3>步骤1. 创建项目</h3>1、借助脚手架通过命令行模式创建React项目<br>
 <pre class="prettyprint">npx create-react-app docker-image-test<br>
 </pre><br>
-2、项目创建成功后讲生成一个基础React应用程序架构<br>
-<br>3、我们可以进入项目目录并运行项目<br>
+2、命令执行成功后将生成一个基础React应用程序架构<br>
+<br>3、我们可以进入项目目录安装依赖并运行项目<br>
 <pre class="prettyprint">cd docker-image-test<br>
 yarn install<br>
 yarn start<br>
@@ -52,10 +52,10 @@ EXPOSE 3000<br>
 CMD ["yarn", "start"]<br>
 </pre><br>
 2、注意，这里我们从Docker仓库获得基础镜像Node:12，然后安装依赖项并运行基本命令。（我们不会在这里讨论Docker命令的细节）<br>
-<br>3、现在从终端为容器构建镜像<br>
+<br>3、现在可以通过终端为容器构建镜像<br>
 <pre class="prettyprint">docker build -t docker-image-test .<br>
 </pre><br>
-4、Docker构建镜像完成之后，你可以使用此命令查看你的镜像：<br>
+4、Docker构建镜像完成之后，你可以使用此命令查看已经构建的镜像：<br>
 <pre class="prettyprint">docker images<br>
 </pre><br>
 在查询结果列表的顶部，是我们新创建的图像，在最右边，我们可以看到图像的大小。目前是1.43GB。<br>
