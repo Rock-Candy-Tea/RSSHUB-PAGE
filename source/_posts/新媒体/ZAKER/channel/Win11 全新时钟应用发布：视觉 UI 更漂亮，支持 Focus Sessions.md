@@ -1,0 +1,18 @@
+
+---
+title: 'Win11 全新时钟应用发布：视觉 UI 更漂亮，支持 Focus Sessions'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fb_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 19 Aug 2021 20:07:21 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fb_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 8 月 20 日消息 微软今天面向 Dev 和 Beta 通道用户发布了 Windows 11 Build 22000.160 预览版（KB5005189）系统更新，带来了电脑重启更新升级的预估时间、全新的时钟应用等。</p><p>微软表示，上周，我们开始发布作为 Windows 11 一部分的应用程序的更新。第一组更新包括新的截图工具以及计算器、邮件和日历应用等更新。今天，微软面向 Dev 开发频道向 Windows Insiders 发布 Windows 11 的全新时钟应用，该应用程序的更新已经开始推送，如果你没有立即看到它，请继续检查。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fb_1024.jpg" data-height="947" data-width="1387" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fb_1024.jpg" referrerpolicy="no-referrer"></div></div>全新的时钟应用程序不仅有新的视觉效果，使其在 Windows 11 中看起来很漂亮，它还包括一个非常令人兴奋的主要新功能：Focus Sessions。<p></p><p>保持专注和高效真的很有挑战性。微软表示，随着混合工作和学习成为常态，专注于数字健康从未像现在这样重要，而新的 Focus Sessions 功能就是为了帮助大家。</p><p>这里有一些功能供你尝试，当你使用 Focus Sessions 来保持对你想要完成的事情的专注。</p><p><strong>Focus 计时器：</strong>通过 Focus Sessions 实现你的目标并完成更多工作。告诉你有多少时间，该功能就会安排剩下的时间。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fc_1024.jpg" data-height="619" data-width="653" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fc_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>用 Spotify 找到完美音频来集中注意力：</strong>研究表明，音频可以减少被其他事情分散注意力的机会。Focus Sessions 支持连接你的 Spotify 账户，以帮助你找到完美的音频来帮助保持专注。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202108/611f00078e9f0933957ac8fd_1024.jpg" data-height="897" data-width="771" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611f00078e9f0933957ac8fd_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>使用微软 To Do 待办，保持你的工作状态：</strong>选择你想在 Focus Sessions 期间进行的任务，并在完成后将其勾销。Focus Sessions 与 Microsoft To Do 集成，使你能够管理你的 To Do 任务，而不必切换上下文。利用 Focus Sessions 来处理你当天计划的任务，并使其发挥最大的作用。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fe_1024.jpg" data-height="496" data-width="771" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/611f00078e9f0933957ac8fe_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>习惯培养：</strong>为了帮助你建立健康的数字习惯，你可以设定一个每日目标，并挑战自己，不断打破你的连胜纪录。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202108/611f00078e9f0933957ac8ff_1024.jpg" data-height="495" data-width="765" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/611f00078e9f0933957ac8ff_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，微软表示，我们还有更多的 Windows 11 中的应用程序的更新在路上 —— 敬请关注。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

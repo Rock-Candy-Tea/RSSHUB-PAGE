@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/86ab802452b0d5de25fc783f57702bbb.png'
         <strong>爱思迈</strong><br>
         双特异性抗体类生物医药研发商<br>
         Pre-B轮 / 近亿人民币 / 2021-08-20<br>
-        投资方: 达泰资本、广州黄埔生物医药产投、斐君永平、广州开发区基金
+        投资方: 达泰资本、斐君资本、广州黄埔生物医药产投、广州开发区基金
         
 </div>
             
