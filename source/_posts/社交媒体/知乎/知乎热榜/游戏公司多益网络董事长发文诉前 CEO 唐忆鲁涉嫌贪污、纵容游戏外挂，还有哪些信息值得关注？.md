@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6603'
+headimg: 'https://pic1.zhimg.com/v2-b67ac3582738f270b7454b08e6c0e369_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 19 Aug 2021 09:38:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6603'
+date: Thu, 19 Aug 2021 16:03:40 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-b67ac3582738f270b7454b08e6c0e369_1440w.jpg'
 ---
 
 <div>   
-小熊的回答<br><br><p>多益king又露出了他的本性了。全文下来，都是说朕被骗了，朕重用了小人，朕对不起大家。</p><p>整个多益的企业文化与我个人的感受，我前面有很多回答已经写了，大家可以去看看。</p><p>从我离职后，多益已经有两位高职务（所谓的白卡）的人已经离开了，分别是主策划、CEO。而且离开后都被多益king喷得一无是处。大家自己思考一下到底是谁的问题。</p><p>多益king一直活在自己的王国中，到处都是拍马屁的人，一切他不满意的人都可以拖出去砍了，放在古代就是一个暴君了。</p><p>如果你是一个应届生，正在找工作，那我奉劝大家别去这家公司，技术封闭、环境压抑。如果你是一个在多益工作的人，我作为以前的服务端组长，提醒大家外面的世界很精彩，多出来看看，不是非多益不可。</p><p>我已经被几个曾在多益要好的朋友删了微信，我一直觉得为了多益那一潭死水，把自己身边的朋友都删了，到底值不值呢？</p><p>我从离职到现在，已经四年多了，我对多益企业文化那种恨一直没有消除，因为他的思想是对社会的一种祸害，他的公司是对应届生的一种祸害。</p>  
+游戏新知的回答<br><br><p></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b67ac3582738f270b7454b08e6c0e369_1440w.jpg" data-rawwidth="611" data-rawheight="292" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-c52c7367fb91127f119ec198c36d698c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b67ac3582738f270b7454b08e6c0e369_r.jpg" referrerpolicy="no-referrer"></figure><p>1.徐波指多益每年数亿广告费被原CEO唐忆鲁团队腐败侵吞，导致游戏花费了巨额广告费却几乎没有广告，并且纵容外挂。</p><p>2.唐忆鲁在腐败被发现第二天即提出了离职。</p><p>3.强调唐忆鲁是原网易“基层”销售。</p><p>4.唐忆鲁负责的部分高层几乎全部被炒，甚至已离职人员也将被追责。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-d43ab474b5e70632f863ebf88792e88a_1440w.jpg" data-rawwidth="1080" data-rawheight="659" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-4dd4d1b9db209fdbf8eaedce8135313d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-d43ab474b5e70632f863ebf88792e88a_r.jpg" referrerpolicy="no-referrer"></figure><p>5.徐波点名的多益前员工中，有些是看到文章才知道自己被点名了。</p>  
 </div>
             

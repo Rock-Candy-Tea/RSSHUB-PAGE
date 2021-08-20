@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14172/axisstudios_ruinedking_2.-full.png'
 author: Axis Studios
 comments: false
-date: 2021-08-19 15:08:52
+date: 2021-08-20 00:23:42
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14172/axisstudios_ruinedking_2.-full.png'
 ---
 
@@ -45,7 +45,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14172/axisstudios_rui
                             Senior team
                         </h3>
                             <span class="listing-details semni">
-                                    <a href="https://axisstudiosgroup.com/people/amy-paterson/">Amy Paterson</a>: 
+                                    :
                                 <span class="detail">
                                          Executive Production
                                 </span>

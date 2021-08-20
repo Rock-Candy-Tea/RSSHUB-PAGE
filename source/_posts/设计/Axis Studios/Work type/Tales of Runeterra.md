@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14238/axisstudios_talesofruneterra_demacia_episode_1.jpg'
 author: Axis Studios
 comments: false
-date: 2021-08-19 15:08:52
+date: 2021-08-20 00:23:42
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14238/axisstudios_talesofruneterra_demacia_episode_1.jpg'
 ---
 
@@ -59,7 +59,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14238/axisstudios_tal
                                 </span>
                             </span>
                             <span class="listing-details semni">
-                                    <a href="https://axisstudiosgroup.com/people/amy-paterson/">Amy Paterson</a>: 
+                                    :
                                 <span class="detail">
                                          Production
                                 </span>
