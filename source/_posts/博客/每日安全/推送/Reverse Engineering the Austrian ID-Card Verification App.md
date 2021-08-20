@@ -5,21 +5,21 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=4908'
+headimg: 'https://picsum.photos/400/300?random=1518'
 author: 每日安全
 comments: false
-date: 2021-08-20 11:06:08
-thumbnail: 'https://picsum.photos/400/300?random=4908'
+date: 2021-08-20 12:09:57
+thumbnail: 'https://picsum.photos/400/300?random=1518'
 ---
 
 <div>   
 <q>逆向分析奥地利的身份证验证 App</q>
-–
+ –
 <cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
-<span class="text-muted"><small>• 7 hours ago</small></span>
+<span class="text-muted"><small>• 8 hours ago</small></span>
 </cite>
   
 </div>
