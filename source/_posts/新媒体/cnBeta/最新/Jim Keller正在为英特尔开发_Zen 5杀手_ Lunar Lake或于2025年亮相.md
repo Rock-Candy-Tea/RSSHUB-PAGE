@@ -1,0 +1,19 @@
+
+---
+title: 'Jim Keller正在为英特尔开发_Zen 5杀手_ Lunar Lake或于2025年亮相'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0820/249bf8be699a903.jpg'
+author: cnBeta
+comments: false
+date: Fri, 20 Aug 2021 10:44:35 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0820/249bf8be699a903.jpg'
+---
+
+<div>   
+<strong>自 AMD“锐龙”（Ryzen）横空出世以来，被吐槽 14nm 疯狂“挤牙膏”的英特尔，也在 x86 CPU 市场经历了一段“艰难时光”。</strong>目前除了笔记本电脑市场，其它领域几乎都被 AMD 抢走了风头。显然，这一切要归功于 AMD Zen CPU 的首席架构师 Michael Clark 和 Suzanne Plummer，且著名工程师 Jim Keller 的设计理念也发挥了重要作用。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0820/249bf8be699a903.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0820/249bf8be699a903.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p>然而作为半导体行业的“硅仙人”，你会发现 Jim Keller 总能在各大企业之间“自由走动”。在 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> Zen 架构功成名就之后，他现在又到<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>这边来打造“Zen 5 杀手”了。</p><p><a href="https://www.neowin.net/news/intel-reportedly-developing-a-zen-5-killer-with-next-gen-royal-core-project/" target="_self">Neowin</a> 援引 Moore's Law Is Dead 的爆料称，Jim Keller 正在带领名为“皇家酷睿”（Royal Core）的新项目。且其有望以“新星湖”（Nova Lake）的名义，于 2024 年之后亮相。</p><p style="white-space: normal;">考虑到 AMD 将于明年推出锐龙 7000 Raphael 处理器、以及换用 AM5 插槽的 Zen 4 主板，我们距离 Zen 5 的正式发布，显然还有一段时间。</p><p style="white-space: normal;">有趣的是，英特尔的“Zen 5 杀手”，还有望将基于 ARM CPU 架构的 Apple Silicon M1 芯片挑落马下。</p><p><a href="https://static.cnbetacdn.com/article/2021/0820/298437bd1bd6186.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0820/298437bd1bd6186.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>当然，我们也可能无需等待“Royal Core”在多年后到来。因为有报道称，英特尔已计划通过即将推出的 Arrow Lake 设计，与<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a> M1 展开正面交锋。</p><p>参考 AdoredTV 的说法，Arrow Lake-P 属于英特尔的移动 CPU 产品线，集成了六个大核 + 八个小核（6P + 8E），以及 320 执行单元（EU）的核显。</p><p>与昨日披露的 Alder Lake 架构一样，该公司长期倾向于为移动 CPU SKU 塞入更强的图形组件，因而我们对 Arrow Lake-P 的相关爆料也并不感到意外。</p><p>此外 Reddit 网友 mooreslawisnotdead 透露，英特尔在 Arrow Lake 上的努力勇气可嘉，但该系列芯片还是无法在能效表现上超越苹果 M1 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0820/1c7916c7611ad1b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0820/1c7916c7611ad1b.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>尽管该网友出于某种原因而迅速删除了 Reddit 账户，但眼疾手快的 <a href="https://forums.anandtech.com/threads/intel-current-and-future-lakes-rapids-thread.2509080/post-40551904" target="_self">AnandTech</a> 论坛网友们还是以下内容保存了下来：</p><blockquote><p>● Raptor Cove 芯片（Raptor Cove 大核 + Gracemont 小核）将于 2022 年 Q3 至 Q4 季度亮相，8 / 16 核心、性能提升 10%，但届时 AMD / 苹果也会刷新各自的竞品。</p><p>● Meteor Lake 芯片（Redwood Cove 大核 + Crestmont 小核)将于 2023 年 Q2 亮相，它也是英特尔首个基于小芯片设计的产品线，由台积电 / 英特尔自家不同工艺的芯片组成。虽有制程节点的缩小，但性能改进在个位数，意味 AMD Zen 4+ / Zen 5 将扩大领先优势。</p><p>● Arrow Lake 芯片（Lion Cove 大核 + Skymont 小核）将于 2023 年 Q4 亮相，为高端发烧友提供 8 / 32 的配置选项。届时有望拉平与 AMD 的性能差距，但能效表现仍不及苹果。</p><p>● Lunar Lake 芯片（Lion Cove 大核 + Skymont 小核）将于 2024 年 Q4 亮相，《日经》报道称其会采用台积电 3nm 工艺，预计性能与功耗表现都可打平、甚至超越 AMD / 苹果竞品。</p><p>● Nova Lake 芯片（暂定名为 Panther Cove 的大核 + Darkmont 小核）或于 2025 年亮相，标志着自 2006 年引入酷睿（Core）架构以来，英特尔迎来的最大 CPU 架构变化。该公司正努力从头开始打造一个全新的架构，正如 AMD 锐龙横空出世那样，让月湖（Lunar Lake）带来高达 50% 的惊人 CPU 性能提升。</p></blockquote><p>需要指出的是，以上都是未经证实的消息。即使为真，我们也需要耐心等待数年时间，才能得到证实。</p><p>不过考虑到“硅仙人”Jim Keller 在半导体行业内近乎完<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mideajiadian.jd.com/" target="_blank">美的</a>履历，我们还是对其在英特尔能够取得的新成就充满了浓厚的兴趣。</p>   
+</div>
+            

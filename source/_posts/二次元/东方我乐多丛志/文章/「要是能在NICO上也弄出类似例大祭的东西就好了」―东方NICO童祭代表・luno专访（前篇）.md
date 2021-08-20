@@ -56,7 +56,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 </blockquote>
 <p> </p>
 <blockquote>
-<p><span style="font-weight: 400;">(※2)NICONICO动画曾在2016年12月公布过能在YouTube等平台的视频下发送弹幕的服务平台NICONICO动画（仮），在第二年2007年1月时升级成NICONICO动画（β），这时候的NICONICO动画非常瞩目。2月的时候由于YouTube禁止NICONICO动画接入，一段时间停止了服务。后改为能够提供视频投稿服务的「NICONICO动画（γ）」重新开始服务。成为会员制网站，当时甚至因为会员编号的不同这个账号能看视频的时间带也不同。</span></p>
+<p><span style="font-weight: 400;">(※2)NICONICO动画曾在2006年12月公布过能在YouTube等平台的视频下发送弹幕的服务平台NICONICO动画（仮），在第二年2007年1月时升级成NICONICO动画（β），这时候的NICONICO动画非常瞩目。2月的时候由于YouTube禁止NICONICO动画接入，一段时间停止了服务。后改为能够提供视频投稿服务的「NICONICO动画（γ）」重新开始服务。成为会员制网站，当时甚至因为会员编号的不同这个账号能看视频的时间带也不同。</span></p>
 </blockquote>
 <p> </p>
 <blockquote>
