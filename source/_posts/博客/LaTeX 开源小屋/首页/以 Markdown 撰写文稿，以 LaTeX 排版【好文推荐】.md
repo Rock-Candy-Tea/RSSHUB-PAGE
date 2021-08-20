@@ -5,11 +5,11 @@ categories:
  - 博客
  - LaTeX 开源小屋
  - 首页
-headimg: 'https://picsum.photos/400/300?random=8162'
+headimg: 'https://picsum.photos/400/300?random=20'
 author: LaTeX 开源小屋
 comments: false
 date: Mon, 13 Apr 2020 22:50:42 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8162'
+thumbnail: 'https://picsum.photos/400/300?random=20'
 ---
 
 <div>   
