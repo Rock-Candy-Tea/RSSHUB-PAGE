@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210821/efe5df5df2cc4219e334de8a735c1b27.jpeg'
 author: Dockone
 comments: false
-date: 2021-08-21 13:13:27
+date: 2021-08-21 14:07:03
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210821/efe5df5df2cc4219e334de8a735c1b27.jpeg'
 ---
 
@@ -187,8 +187,8 @@ multiline.match: after<br>
 multiline.negate: true<br>
 multiline.timeout: 5s<br>
 </pre><br>
-<h3>五、script processor</h3>在我折腾完源码以后，反思一下其实这种方式需要自己编译 Filebeat，而且每次规则修改也很不方便，唯一的好处真的就是用代码可以 “为所欲为”；反过来一想 “Filebeat 有没有 processor 的扩展呢？脚本热加载那种？” 答案是使用 script processor，<strong>script processor 虽然名字上是个 processor，实际上其包含了完整的 ECMA 5.1 js 规范实现；结论就是我们可以写一些 js 脚本来处理日志，然后 Filebeat 每次启动后加载这些脚本既可</strong>。<br>
-<br>script processor 的使用方式很简单，js 文件中只需要包含一个 <code class="prettyprint">function process(event)</code> 方法既可，与自己用 Go 实现的 processor 类似，每行日志也会形成一个 event 对象然后调用这个方法进行处理；目前 event 对象可用的 API 需要参考<a href="https://www.elastic.co/guide/en/beats/filebeat/current/processor-script.html#_event_api">官方文档</a>；<strong>需要注意的是 script processor 目前只支持 ECMA 5.1 语法规范，超过这个范围的语法是不被支持</strong>；实际上其根本是借助了 <a href="https://github.com/dop251/goja"></a><a href="https://github.com/dop251/goja" rel="nofollow" target="_blank">https://github.com/dop251/goja</a>  这个库来实现的。同时为了方便开发调试，script processor 也增加了一些 nodejs 的兼容 module，比如 <code class="prettyprint">console.log</code> 等方法是可用的；以下为 js 处理上面日志的逻辑：<br>
+<h3>五、Script Processor</h3>在我折腾完源码以后，反思一下其实这种方式需要自己编译 Filebeat，而且每次规则修改也很不方便，唯一的好处真的就是用代码可以 “为所欲为”；反过来一想 “Filebeat 有没有 processor 的扩展呢？脚本热加载那种？” 答案是使用 Script Processor，<strong>Script Processor 虽然名字上是个 processor，实际上其包含了完整的 ECMA 5.1 js 规范实现；结论就是我们可以写一些 js 脚本来处理日志，然后 Filebeat 每次启动后加载这些脚本既可</strong>。<br>
+<br>Script Processor 的使用方式很简单，js 文件中只需要包含一个 <code class="prettyprint">function process(event)</code> 方法既可，与自己用 Go 实现的 processor 类似，每行日志也会形成一个 event 对象然后调用这个方法进行处理；目前 event 对象可用的 API 需要参考<a href="https://www.elastic.co/guide/en/beats/filebeat/current/processor-script.html#_event_api">官方文档</a>；<strong>需要注意的是 Script Processor 目前只支持 ECMA 5.1 语法规范，超过这个范围的语法是不被支持</strong>；实际上其根本是借助了 <a href="https://github.com/dop251/goja"></a><a href="https://github.com/dop251/goja" rel="nofollow" target="_blank">https://github.com/dop251/goja</a>  这个库来实现的。同时为了方便开发调试，Script Processor 也增加了一些 nodejs 的兼容 module，比如 <code class="prettyprint">console.log</code> 等方法是可用的；以下为 js 处理上面日志的逻辑：<br>
 <pre class="prettyprint">var console = require('console');<br>
 var fileds = new Array("timestamp", "hostname", "thread", "level", "logger", "file", "line", "serviceName", "traceId", "feTraceId", "msg", "exception")<br>
 <br>
@@ -224,13 +224,13 @@ multiline.match: after<br>
 multiline.negate: true<br>
 multiline.timeout: 5s<br>
 </pre><br>
-需要注意的是目前 <code class="prettyprint">lang</code> 的值只能为 <code class="prettyprint">JavaScript</code> 和 <code class="prettyprint">js</code>（官方文档写的只能是  <code class="prettyprint">JavaScript</code>）；根据代码来看后续 script processor 有可能支持其他脚本语言，个人认为主要取决于其他脚本语言有没有纯 Go 实现的 runtime，如果有的话未来很有可能被整合到 script processor 中。<br>
+需要注意的是目前 <code class="prettyprint">lang</code> 的值只能为 <code class="prettyprint">JavaScript</code> 和 <code class="prettyprint">js</code>（官方文档写的只能是  <code class="prettyprint">JavaScript</code>）；根据代码来看后续 Script Processor 有可能支持其他脚本语言，个人认为主要取决于其他脚本语言有没有纯 Go 实现的 runtime，如果有的话未来很有可能被整合到 Script Processor 中。<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20210821/0d65885912b120a5779d8e326ef4c92c.jpeg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210821/0d65885912b120a5779d8e326ef4c92c.jpeg" class="img-polaroid" title="4.jpeg" alt="4.jpeg" referrerpolicy="no-referrer"></a>
 </div>
 <br>
-<em>script processor</em><br>
-<h3>六、其他 processor</h3>研究完 script processor 后我顿时对其他 processor 也产生了兴趣，随着更多的查看 processor 文档，我发现其实大部份过滤分割能力已经有很多 processor 进行了实现，<strong>其完善程度外加可扩展的 script processor 实际能力已经足矣替换掉 Logstash 的日志分割过滤处理了。</strong>比如上面的日志切割其实使用 dissect processor 实现更加简单（这个配置并不完善，只是样例）：<br>
+<em>Script Processor</em><br>
+<h3>六、其他 processor</h3>研究完 Script Processor 后我顿时对其他 processor 也产生了兴趣，随着更多的查看 processor 文档，我发现其实大部份过滤分割能力已经有很多 processor 进行了实现，<strong>其完善程度外加可扩展的 Script Processor 实际能力已经足矣替换掉 Logstash 的日志分割过滤处理了。</strong>比如上面的日志切割其实使用 dissect processor 实现更加简单（这个配置并不完善，只是样例）：<br>
 <pre class="prettyprint">processors:<br>
 - dissect:<br>
   field: "message"<br>
@@ -238,7 +238,7 @@ multiline.timeout: 5s<br>
 </pre><br>
 除此之外还有很多 processor，例如 <code class="prettyprint">drop_event</code>、<code class="prettyprint">drop_fields</code>、<code class="prettyprint">timestamp</code> 等等，感兴趣的可以自行研究。<br>
 <h3>七、总结</h3>基本上折腾完以后做了一个总结：<br>
-<ul><li><strong>Filebeat module</strong>：这就是个华而不实的东西，每次修改需要重新编译且扩展能力几近于零，最蛋疼的是实际逻辑通过 ES 来完成；我能想到的是唯一应用场景就是官方给我们弄一些 demo 来炫耀用的，比如 Nginx module；实际生产中 Nginx 日志格式保持原封不动的人我相信少之又少。</li><li><strong>Filebeat custom processor</strong>：每次修改也需要重新编译且需要会 Go 语言还有相关工具链，但是好处就是完全通过代码实现真正的为所欲为；扩展性取决于外部是否对特定位置做了可配置化，比如预留可以配置切割用正则表达式的变量等，最终取决于代码编写者（怎么为所欲为的问题）。</li><li><strong>Filebeat script processor</strong>：完整 ECMA 5.1 js 规范支持，代码化对日志进行为所欲为，修改不需要重新编译；普通用户我个人觉得是首选，当然同时会写 Go 和 js 的就看你想用哪个了。</li><li><strong>Filebeat other processor</strong>：基本上实现了很多 Logstash 的功能，简单用用很舒服，复杂场景还是得撸代码；但是一些特定的 processor 很实用，比如加入宿主机信息的 add_host_metadata processor 等。</li></ul><br>
+<ul><li><strong>Filebeat module</strong>：这就是个华而不实的东西，每次修改需要重新编译且扩展能力几近于零，最蛋疼的是实际逻辑通过 ES 来完成；我能想到的是唯一应用场景就是官方给我们弄一些 demo 来炫耀用的，比如 Nginx module；实际生产中 Nginx 日志格式保持原封不动的人我相信少之又少。</li><li><strong>Filebeat custom processor</strong>：每次修改也需要重新编译且需要会 Go 语言还有相关工具链，但是好处就是完全通过代码实现真正的为所欲为；扩展性取决于外部是否对特定位置做了可配置化，比如预留可以配置切割用正则表达式的变量等，最终取决于代码编写者（怎么为所欲为的问题）。</li><li><strong>Filebeat Script Processor</strong>：完整 ECMA 5.1 js 规范支持，代码化对日志进行为所欲为，修改不需要重新编译；普通用户我个人觉得是首选，当然同时会写 Go 和 js 的就看你想用哪个了。</li><li><strong>Filebeat other processor</strong>：基本上实现了很多 Logstash 的功能，简单用用很舒服，复杂场景还是得撸代码；但是一些特定的 processor 很实用，比如加入宿主机信息的 add_host_metadata processor 等。</li></ul><br>
 <br>原文链接：22020/08/19/how-to-modify-filebeat-source-code-to-processing-logs/，作者：bleem
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                                                                                 </div>
