@@ -20,7 +20,7 @@ Bungie目前正在针对多家涉嫌制作和销售《<a target="_blank" href="h
 作为一款有多人竞技元素的游戏作品，《命运2》也深受外挂和作弊玩家的困扰。在与外挂斗争的过程中，Bungie多次拿起了法律武器。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210821/1629528107_991704.jpg" alt="Bungie对三家《命运2》外挂软件制作公司发起诉讼" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210821/1629528107_991704.jpg" alt="Bungie对三家《命运2》外挂软件制作公司发起诉讼" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 根据最近的报道显示，Bungie已经针对三家公司——Elite Boss 
