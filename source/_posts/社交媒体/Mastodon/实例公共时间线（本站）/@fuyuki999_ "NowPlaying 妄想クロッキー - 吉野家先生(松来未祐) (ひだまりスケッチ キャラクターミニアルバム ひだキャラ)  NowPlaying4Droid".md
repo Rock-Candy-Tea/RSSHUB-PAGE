@@ -1,0 +1,25 @@
+
+---
+title: '@fuyuki999_ "
+
+#NowPlaying
+ 妄想クロッキー - 吉野家先生(松来未祐) (ひだまりスケッチ キャラクターミニアルバム ひだキャラ) 
+ 
+#NowPlaying4Droid
+
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/038/320/550/original/1244e6545fe2219f.png'
+author: Mastodon
+comments: false
+date: Sat, 21 Aug 2021 05:05:20 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/320/550/original/1244e6545fe2219f.png'
+---
+
+<div>   
+<hr><p><a href="https://pawoo.net/tags/NowPlaying" class="mention hashtag" rel="tag">#NowPlaying</a> 妄想クロッキー - 吉野家先生(松来未祐) (ひだまりスケッチ キャラクターミニアルバム ひだキャラ) <br> <a href="https://pawoo.net/tags/NowPlaying4Droid" class="mention hashtag" rel="tag">#NowPlaying4Droid</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/320/550/original/1244e6545fe2219f.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
