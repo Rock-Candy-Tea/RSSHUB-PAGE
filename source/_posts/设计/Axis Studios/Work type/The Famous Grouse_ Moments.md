@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14215/axistudios_grouse_2.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2021-08-20 15:08:50
+date: 2021-08-21 00:22:16
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14215/axistudios_grouse_2.-full.jpg'
 ---
 

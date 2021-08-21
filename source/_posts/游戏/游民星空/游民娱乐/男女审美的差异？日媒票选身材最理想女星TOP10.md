@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/08/20210820_zy_red_164_1/image001_S.jpg'
 author: 游民星空
 comments: false
-date: Thu, 19 Aug 2021 22:55:00 GMT
+date: Fri, 20 Aug 2021 23:22:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/08/20210820_zy_red_164_1/image001_S.jpg'
 ---
 
@@ -47,7 +47,8 @@ News公布了第六届女星票选的最理想身材女星TOP10，都是今年�
 <p>●跟过去相比，现在锻炼过的身体更结实健康</p>
 <p>●身体结实但却不会过于肌肉化，反而还能感觉出柔软的感觉很棒</p>
 <p>●身体线条比例现在可说是最完美的状态</p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2021/08/20210820_zy_red_164_1/image009.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2021/08/20210820_zy_red_164_1/image009_S.jpg" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><br>
+</p>
 <p class="GsImageLabel" align="center">
       
                     
