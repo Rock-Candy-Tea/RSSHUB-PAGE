@@ -1,0 +1,18 @@
+
+---
+title: '如何看待湖南郴州一小车疑似故意等未栓绳的狗碾压致死的行为？车主和狗主人各需要承担那些责任？-hgy的回答：有个疑问，狗一般是比较灵活，车速不快，它咋不跑'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://picsum.photos/400/300?random=9186'
+author: 知乎
+comments: false
+date: Sun, 22 Aug 2021 14:01:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9186'
+---
+
+<div>   
+<strong>如何看待湖南郴州一小车疑似故意等未栓绳的狗碾压致死的行为？车主和狗主人各需要承担那些责任？</strong><br>hgy的回答<br><p>有个疑问，狗一般是比较灵活，车速不快，它咋不跑</p>  
+</div>
+            
