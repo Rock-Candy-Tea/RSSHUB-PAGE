@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5351'
+headimg: 'https://picsum.photos/400/300?random=9885'
 author: 开源中国
 comments: false
 date: Sun, 22 Aug 2021 07:39:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5351'
+thumbnail: 'https://picsum.photos/400/300?random=9885'
 ---
 
 <div>   
@@ -30,6 +30,18 @@ thumbnail: 'https://picsum.photos/400/300?random=5351'
  <li>Bugfix：当一个请求被传递到一个空的使用可变的"pass"选项的"routes"或"upstreams"时，路由器进程会崩溃</li> 
  <li>Bugfix：当请求与一个空的源地址或目的地址模式数组相匹配时，路由器进程崩溃</li> 
 </ul> 
+<p><strong>TLS 会话缓存和凭据管理</strong></p> 
+<p>为了节省服务器资源并降低后续客户端连接的延迟，通常使用两种方式：TLS 会话缓存和 TLS 会话凭据。两者的主要区别在于谁存储会话信息：服务器（缓存）或客户端 （凭据）。现在，Unit 支持同时配置一个或两个：</p> 
+<pre>  &#123;
+      "tls": &#123;
+          "certificate": "bundle",
+          "session": &#123;
+              "cache_size": 10000,
+              "timeout": 600,
+              "tickets": true
+          &#125;
+      &#125;
+  &#125;</pre> 
 <p>详情查看<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmailman.nginx.org%2Fpipermail%2Funit%2F2021-August%2F000278.html" target="_blank">发布公告</a>。</p> 
 <p>NGINX Unit 是用于各种 Web 应用程序的轻量动态开源服务器。NGINX Unit 从头开始构建，可以一次运行多种语言版本的 Web 应用程序，它也可以在运行时完全配置为零中断，从而可以对工程和操作进行实时粒度管理。</p>
                                         </div>
