@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202108/20/8764da/55145ef98558b058.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-08-21 15:07:34
+date: 2021-08-22 00:23:03
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202108/20/8764da/55145ef98558b058.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.08.24                        <br>【创米小白】集尘扫地机器人V2 UV版<br>                            数量 ：2<br>                            实际价格 ：3299元<br>                            活动申请中<br>                            19人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202108/20/8764da/55145ef98558b058.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.08.24                        <br>【创米小白】集尘扫地机器人V2 UV版<br>                            数量 ：2<br>                            实际价格 ：3299元<br>                            活动申请中<br>                            22人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202108/20/8764da/55145ef98558b058.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             

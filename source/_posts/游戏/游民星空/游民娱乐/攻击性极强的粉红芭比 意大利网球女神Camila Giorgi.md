@@ -8,7 +8,7 @@ categories:
 headimg: 'https://pic.rmb.bdstatic.com/bjh/down/942a73f71e1de8cae0c057bf087b4882.jpeg'
 author: 游民星空
 comments: false
-date: Sat, 21 Aug 2021 20:46:00 GMT
+date: Sat, 21 Aug 2021 23:10:00 GMT
 thumbnail: 'https://pic.rmb.bdstatic.com/bjh/down/942a73f71e1de8cae0c057bf087b4882.jpeg'
 ---
 
@@ -44,7 +44,8 @@ thumbnail: 'https://pic.rmb.bdstatic.com/bjh/down/942a73f71e1de8cae0c057bf087b48
 <p style="text-align: left;">据悉，Camila Giorgi 1991年12月31日出生在意大利的马切拉塔城，从五岁开始打网球。</p>
 <p style="TEXT-ALIGN: center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2021/08/20210821_ls_red_141_1/gamersky_061origin_121_2021821171DE6.jpg" target="_blank" _cke_saved_href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2021/08/20210821_ls_red_141_1/gamersky_061origin_121_2021821171DE6.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2021/08/20210821_ls_red_141_1/gamersky_061small_122_202182117122A.jpg" _cke_saved_src="https://img1.gamersky.com/image2021/08/20210821_ls_red_141_1/gamersky_061small_122_202182117122A.jpg" original-image-height="801" original-image-width="641" referrerpolicy="no-referrer"></a></p>
 <p style="text-align: left;">
-</p><p>
+</p>
+<p>
       
                     
                     
@@ -95,13 +96,13 @@ thumbnail: 'https://pic.rmb.bdstatic.com/bjh/down/942a73f71e1de8cae0c057bf087b48
             
           
                             
-                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1417395.shtml" title="心惊肉跳的美：美女摄影师专门在喷发的火山玩自拍" target="_blank">心惊肉跳的美：美女摄影师专门在喷发的火山玩自拍</a></li>
+                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1417412.shtml" title="这肌肉律动感绝了！荷兰田径名将Lieke klaver" target="_blank">这肌肉律动感绝了！荷兰田径名将Lieke klaver</a></li>
+                            
+                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1417410.shtml" title="芭比公司为她设计专属娃娃 大马体操公主Farah Ann" target="_blank">芭比公司为她设计专属娃娃 大马体操公主Farah Ann</a></li>
+                            
+                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1417395.shtml" title="心惊肉跳的美：美女专门在喷发的火山玩自拍" target="_blank">心惊肉跳的美：美女专门在喷发的火山玩自拍</a></li>
                             
                             <li class="li3"><a href="https://www.gamersky.com/ent/202108/1417013.shtml" title="男女审美的差异？日媒票选身材最理想女星TOP10" target="_blank">男女审美的差异？日媒票选身材最理想女星TOP10</a></li>
-                            
-                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1416240.shtml" title="抹油肌肉着实亮眼 韩国田径女神天使脸蛋走红" target="_blank">抹油肌肉着实亮眼 韩国田径女神天使脸蛋走红</a></li>
-                            
-                            <li class="li3"><a href="https://www.gamersky.com/ent/202108/1415908.shtml" title="蹭桥本环奈热度？网友称发现比桥本环奈还可爱的正妹" target="_blank">蹭桥本环奈热度？网友称发现比桥本环奈还可爱的正妹</a></li>
                             
                         </ul>
                     </div>
@@ -127,7 +128,8 @@ thumbnail: 'https://pic.rmb.bdstatic.com/bjh/down/942a73f71e1de8cae0c057bf087b48
 -->
                     
             <p></p>
-她在网球旅途上不断努力，生涯最出彩时段当属2012年温网，她连克佩内塔、塔提什维利、佩特洛娃三位好手杀入第四轮，创造了职业生涯新高，排名也一下升至TOP100。<p></p>
+她在网球旅途上不断努力，生涯最出彩时段当属2012年温网，她连克佩内塔、塔提什维利、佩特洛娃三位好手杀入第四轮，创造了职业生涯新高，排名也一下升至TOP100。
+<p></p>
 <p style="text-align: center;"><img src="https://pic.rmb.bdstatic.com/bjh/down/1cb7dbe0e5a856f43894a2fb14b9402a.jpeg" align="center" referrerpolicy="no-referrer"></p>
 <p style="text-align: center;"><img src="https://pic.rmb.bdstatic.com/bjh/down/a8a9eef9688f81fbd3c902df152b45f6.jpeg" referrerpolicy="no-referrer"></p>
 <p style="text-align: left;">而且已经战胜了不少TOP10的球员，其中就包括了沃兹尼亚奇、莎拉波娃以及阿扎伦卡这样的前世界第一。</p>
