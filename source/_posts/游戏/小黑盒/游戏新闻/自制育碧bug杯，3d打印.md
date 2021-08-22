@@ -1,0 +1,18 @@
+
+---
+title: '自制育碧bug杯，3d打印'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/21/4e0d8b85adea5d9a33b61a6e0e070636/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 22 Aug 2021 09:22:10 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/21/4e0d8b85adea5d9a33b61a6e0e070636/thumb.jpeg'
+---
+
+<div>   
+<p>去年育碧整活，让我一直心心念念，但是家境贫寒的我想入手实在有点困难……</p><p><img class="lazy" data-height="996" src="https://imgheybox.max-c.com/bbs/2021/08/21/4e0d8b85adea5d9a33b61a6e0e070636/thumb.jpeg" data-width="914" referrerpolicy="no-referrer"></p><p>暑假最近在自学建模，刚好有台3d打印机，好，我自己整一个。</p><p>制作过程我在b站有视频，所以图直接从视频截了。好兄弟们能不能去b站给我点个赞呢<span data-emoji="cube_滑稽" class="hb-emoji"></span><span data-emoji="cube_滑稽" class="hb-emoji"></span></p><p>首先，咱们要画个育碧logo，因为是初学建模，所以用了最笨的方法，不准笑我</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/52397023356a560098749961a83b2f6c/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/1c52fcdb7f4ddb4c56de0448f3bf63cc/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>简单建模以后，感觉自己建的还是挺不错的，虽然只是简单的杯子</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/889a2f0007e69000b4483fae8568ab0e/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>接下来就交给打印机，打到一半才发现，参数没调，直接打成盘丝洞……又要痛苦打磨了<span data-emoji="cube_打脸" class="hb-emoji"></span></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/ca15f09c2276f49c194c93fd3d3892fb/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>打磨开始，干！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/097edd1f25b805d73b862775ba73bbba/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>草率的打磨一下，做遮盖，喷漆</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/a4930704d8a1303202c56d1d6177c099/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/ae6b432005e595d383f0d969945c7341/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/b5f7ccf7bbbfbc19970d3b60a888c981/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>喷漆不健康，千万不要给入口的东西搞喷漆，我可不会用这个杯子喝水嗷，把它当笔筒用<span data-emoji="cube_酷" class="hb-emoji"></span></p><p>接下来打磨logo，把logo变白</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/039bf42f0a3573347ffa2a71d7bd218c/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>顺便附上之前打印的立体视错觉</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/aacc384b982fd4a4d007096366ab96d0/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>经过痛苦的打磨，与之前的试验品来一张合照</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/21/ea260d8802b6dc90f56ea89406ca8c94/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>最终效果还是不错的</p><p><img class="lazy" data-height="3024" src="https://imgheybox.max-c.com/bbs/2021/08/21/f4d167b61ee9430b7ad0fa14eff77924/thumb.jpeg" data-width="4031" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="4032" src="https://imgheybox.max-c.com/bbs/2021/08/21/14c35e0eb88caba2d185b7964b346b5c/thumb.jpeg" data-width="3024" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="4032" src="https://imgheybox.max-c.com/bbs/2021/08/21/6573132202c60602320245a65272b2f5/thumb.jpeg" data-width="3024" referrerpolicy="no-referrer"></p>  
+</div>
+            
