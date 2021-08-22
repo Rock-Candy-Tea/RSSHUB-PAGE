@@ -1,0 +1,19 @@
+
+---
+title: 'Kindle 固件更新 5.13.7 发布，UI 界面大改'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/8/6c1e365e-b61a-4378-99a0-3c4738785f3c.jpg@s_2,w_820,h_1108'
+author: IT 之家
+comments: false
+date: Sun, 22 Aug 2021 07:38:28 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/8/6c1e365e-b61a-4378-99a0-3c4738785f3c.jpg@s_2,w_820,h_1108'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 22 日消息 据IT之家网友 @数码少年 V 投稿，Kindle 近日发布了 <span class="accentTextColor">5.13.7 固件更新</span>，带来了全新的 UI 界面，以及性能改善、问题修复和其他一般性功能加强。</p><p>▼ 新版的“主页”与“图书馆”成为了并列选项，用户无法再隐藏“主页”界面</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/6c1e365e-b61a-4378-99a0-3c4738785f3c.jpg@s_2,w_820,h_1108" w="858" h="1159" title="Kindle 固件更新 5.13.7 发布，UI 界面大改" srcset="https://img.ithome.com/newsuploadfiles/2021/8/6c1e365e-b61a-4378-99a0-3c4738785f3c.jpg 2x" width="858" height="1108" referrerpolicy="no-referrer"></p><p>▼ 搜索栏成为单独的一条，上方还有一个倒三角，点击可打开快捷设置</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/b58a2a6d-dd18-4d0c-bb58-3a67635763d8.jpg@s_2,w_820,h_1108" w="858" h="1159" title="Kindle 固件更新 5.13.7 发布，UI 界面大改" srcset="https://img.ithome.com/newsuploadfiles/2021/8/b58a2a6d-dd18-4d0c-bb58-3a67635763d8.jpg 2x" width="858" height="1108" referrerpolicy="no-referrer"></p><p>▼ 快捷设置 UI 更像手机 UI 了，也更加现代化</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/2f1e7f4e-c9e7-457d-af42-9ef556eb6dc1.jpg@s_2,w_820,h_1108" w="858" h="1159" title="Kindle 固件更新 5.13.7 发布，UI 界面大改" srcset="https://img.ithome.com/newsuploadfiles/2021/8/2f1e7f4e-c9e7-457d-af42-9ef556eb6dc1.jpg 2x" width="858" height="1108" referrerpolicy="no-referrer"></p><p>▼ 阅读界面上方一栏更加简洁</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/e0f4af89-8157-443b-95b1-5eb20444fd5c.jpg@s_2,w_820,h_1108" w="858" h="1159" title="Kindle 固件更新 5.13.7 发布，UI 界面大改" srcset="https://img.ithome.com/newsuploadfiles/2021/8/e0f4af89-8157-443b-95b1-5eb20444fd5c.jpg 2x" width="858" height="1108" referrerpolicy="no-referrer"></p><p>总的来说，Kindle 固件更新 5.13.7 的 UI 调整主要是去掉了最上方常驻的“主页”、“后退”等一栏，改为了<span class="accentTextColor">顶部常驻倒三角按钮</span>，同时不同界面显示不同的功能。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/e6f8579a-1308-4195-b812-2aa871b6043b.png" w="433" h="42" title="Kindle 固件更新 5.13.7 发布，UI 界面大改" width="433" height="42" referrerpolicy="no-referrer"></p><p>IT之家了解到，Kindle 固件更新 5.13.7 适用于：</p><ul class=" list-paddingleft-2"><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.13.7.bin" target="_blank" title="Kindle Oasis 3 (KO3)">Kindle Oasis 3 (KO3)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.13.7.bin" target="_blank">Kindle Oasis 2 (KO2)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.13.7.bin" target="_blank">Kindle Oasis 1 (KO1)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.7.bin" target="_blank">658 入门版 Kindle (Kindle 10)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.7.bin" target="_blank">558 入门版 Kindle (Kindle 8)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.13.7.bin" target="_blank">Kindle Paperwhite 4 (KPW4)</a></p></li><li><p><a href="https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.7.bin" target="_blank">Kindle Paperwhite 3 (KPW3)</a></p></li></ul><p>大家可以点击直接下载固件更新。</p>
+          
+</div>
+            

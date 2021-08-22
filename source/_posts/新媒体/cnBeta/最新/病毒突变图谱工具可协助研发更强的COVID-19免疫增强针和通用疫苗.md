@@ -1,0 +1,19 @@
+
+---
+title: '病毒突变图谱工具可协助研发更强的COVID-19免疫增强针和通用疫苗'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0822/87df3545adc042d.jpg'
+author: cnBeta
+comments: false
+date: Sun, 22 Aug 2021 11:26:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0822/87df3545adc042d.jpg'
+---
+
+<div>   
+<strong>科罗拉多大学博尔德分校的研究人员开发了一个平台，能够快速识别SARS-CoV-2病毒的常见突变，这些突变使其能够逃避抗体并感染细胞。</strong>该研究最近发表在《细胞报告》上，标志着向成功开发通用疫苗迈出了一大步，不仅适用于COVID-19，而且还可能适用于流感、艾滋病毒和其他致命的全球病毒。<br>
+ <p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/0822/87df3545adc042d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0822/87df3545adc042d.jpg" title alt="Irene-Francino-Urdaniz-Spike-Protein-Research-scaled.jpg" referrerpolicy="no-referrer"></a></p><p>"我们已经开发了一个预测工具，可以提前告诉你哪些抗体将对循环的病毒株有效，"主要作者、化学和生物工程副教授Timothy Whitehead说。"但是这项技术的意义更为深远。如果你能预测在一个特定的季节里会出现什么变体，你就可以接种疫苗，以匹配将出现的序列，并缩短这种季节性变异。"</p><p>研究小组的秘密成分是<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C752%2C899" target="_blank">面包</a>师的朋友：酵母。研究人员开发了这种无害材料的转基因版本，以沿着酵母的表面表达SARS-CoV-2的一些病毒尖峰蛋白，用它可以绘制形成和逃避中和抗体的结果突变。Whitehead说，由此产生的路线图可以为开发更有效的加强型疫苗和为COVID-19严重病例的患者量身定做的抗体治疗提供参考。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/0822/d3b7a085b75bb83.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0822/d3b7a085b75bb83.jpg" title alt="SARS-CoV-2-Coronavirus-CDC-Illustration-scaled.jpg" referrerpolicy="no-referrer"></a></p><p>冠状病毒SARS-CoV-2的插图，它导致了COVID-19疾病。注意装饰在病毒外表面的尖刺，这使病毒看起来像一个围绕着病毒体的日冕。资料来源：美国疾病控制和预防中心</p><p>穗状蛋白是冠状病毒家族中的病毒表面伸出的尖锐凸起。在显微镜下，它们可能看起来像一顶皇冠，这就是冠状病毒--冠状病毒在拉丁语中是"皇冠"的意思--这是其获得这一名称的原因，也是它们如何像锁中的钥匙一样与细胞结合的关键。当抗体识别它们，抓住并阻止它们与细胞结合时，它们就能防止感染。</p><p>但是当穗状蛋白发生突变时，抗体就会做两手准备。"就像剪了一个新发型，你看起来像一个不同的人；对那个抗体来说，这看起来像一个不同的病毒。"</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/0822/bf3bf63c7be17a5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0822/bf3bf63c7be17a5.jpg" title alt="Irene-Francino-Urdaniz.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">化学和生物工程专业的研究生Irene Francino Urdaniz在Whitehead实验室从事这项研究</p><p>在2021年出现的更具传染性的Delta变种的穗状蛋白上的突变使其更具传染性，并降低了一些抗体疗法的疗效。</p><p>如果有一种方法可以预测下一个可能出现的突变--从而为它们做好准备，会怎么样呢？今年早些时候，Whitehead的团队开始寻找一种方法。</p><p>一些能与不同位置结合的抗体已被用于给COVID-19患者的治疗鸡尾酒。但是现在在美国境内流通的病毒株已经足够不同，以至于这些抗体疗法中的一些似乎不再有效。</p><p>因此，首先，研究人员需要确定可能阻止这些抗体发挥作用的尖峰蛋白上的突变。然后他们想预测接下来可能发生的突变--什么样的形态可能会形成zeta、eta或theta变种？</p><p>论文的共同作者、化学和生物工程专业的研究生和Balsells研究员Irene Francino Urdaniz说："当大流行开始时，我们看到了应用我们实验室所掌握的技术来做出贡献的机会。当检测到一个新的变种时，根据我的研究，我大多数时候都能猜到哪些变种是存在的。我非常兴奋，因为我的工作不仅为这次大流行做出了贡献，而且可能为未来的疫苗做出了贡献。"</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/0822/ff4d06faee78ab6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0822/ff4d06faee78ab6.jpg" title alt="Irene-Francino-Urdaniz-Whitehead-Laboratory.jpg" referrerpolicy="no-referrer"></a></p><p>Francino-Urdaniz开发了一种普通面包酵母的基因工程菌株，它可以在其表面显示不同部分的病毒尖峰蛋白。然后，她发现了如何在一个试管中筛选出成千上万的突变，以找到能逃避中和抗体的突变。</p><p>正如2020年一些自家的面包师在实验酸面团起动器时发现的那样，酵母的生长速度相当快。这意味着研究人员可以看到各种各样的突变以酵母的生长速度发展--比实时出现突变的速度要快得多。这可以给科学家们一个宝贵的先机。</p><p>研究人员已经发现了目前在全球范围内流传的一些相同的突变，并确定了更多有可能逃避我们免疫系统的突变。他们还将提供他们所有的信息库、方法和软件作为公开的社区资源，以加速针对SARS-CoV-2的新治疗策略。</p><p>这意味着为公众生产的下一个COVID-19疫苗或加强针可能具有尽可能大的冲击力。它还为那些免疫力低下或仍处于较高风险中的人带来了希望，因为这项研究可以应用于主动为特定的突变准备抗体鸡尾酒，使他们有更好的机会生存和康复。</p><p>但承诺并不限于此。由于新的mRNA疫苗的适应性，它与穗状蛋白一起工作，这项研究的应用并不限于一种病毒。例如可以把它用于绘制流感和艾滋病毒的轨迹；用于其他已知的病毒性疾病，以及可能出现的下一次大流行病。</p>   
+</div>
+            
