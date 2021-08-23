@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7404'
+headimg: 'https://picsum.photos/400/300?random=3743'
 author: 开源中国
 comments: false
 date: Sun, 22 Aug 2021 11:38:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7404'
+thumbnail: 'https://picsum.photos/400/300?random=3743'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>本次发布只提供Windows平台安装包。由于个人精力有限，Xmacs v2021.x暂时专注于Windows平台。后续会把macOS的构建打包脚本开源出来。</p> 
+                                                                    
+                                                        <p>本次发布只提供Windows平台安装包。由于个人精力有限，Xmacs v2021.x暂时专注于Windows平台。后续会把macOS的构建打包脚本开源出来。</p> 
 <h2>重要变更</h2> 
 <ul> 
  <li>基于GNU TeXmacs 2.1</li> 

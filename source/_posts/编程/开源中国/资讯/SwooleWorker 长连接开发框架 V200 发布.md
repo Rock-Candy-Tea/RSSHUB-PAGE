@@ -14,7 +14,8 @@ thumbnail: 'https://camo.githubusercontent.com/7583a650f84363177c315c9a516924245
 
 <div>   
 <div class="content">
-                                                                                            <p><span style="background-color:#ffffff; color:#24292f">SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。</span></p> 
+                                                                    
+                                                        <p><span style="background-color:#ffffff; color:#24292f">SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。</span></p> 
 <h2 style="text-align:start">系统架构</h2> 
 <p style="text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcamo.githubusercontent.com%2F7583a650f84363177c315c9a516924245ac5f83ff612feadb3d82dcf741f3e35%2F68747470733a2f2f7374617469632e6562636d732e636f6d2f696d672f73772e706e67" target="_blank"><img alt="架构图" src="https://camo.githubusercontent.com/7583a650f84363177c315c9a516924245ac5f83ff612feadb3d82dcf741f3e35/68747470733a2f2f7374617469632e6562636d732e636f6d2f696d672f73772e706e67" referrerpolicy="no-referrer"></a></p> 
 <h2 style="text-align:start">安装</h2> 

@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-1aef79798cb00d8e689109f9cf4b59c
 
 <div>   
 <div class="content">
-                                                                                            <blockquote> 
+                                                                    
+                                                        <blockquote> 
  <p>chiner,发音:[kaɪˈnər]</p> 
 </blockquote> 
 <h1 style="text-align:left">1 背景说明</h1> 

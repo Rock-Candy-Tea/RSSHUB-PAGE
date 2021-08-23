@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-146cfee80fc3ae854ddf48c49d0d73fc_1440w.jpg'
+headimg: 'https://pic2.zhimg.com/v2-b7c69d7fc1fff3efa9e877d54df50ccc_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 22 Aug 2021 14:01:41 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-146cfee80fc3ae854ddf48c49d0d73fc_1440w.jpg'
+date: Sun, 22 Aug 2021 18:01:28 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-b7c69d7fc1fff3efa9e877d54df50ccc_1440w.jpg'
 ---
 
 <div>   
-hhj的回答<br><br><p><b>让我们恭喜重庆QGhappy！</b></p><p><br></p><p><b>（</b>把这个名字念全吧，马上要换老板了，五冠王QG名字不知道会不会改<b>）</b></p><p>我翻了翻qg这个冠军杯赛季的战绩，打到现在输了两个大场，第一个是3-2输给了TES，另一个就是输给了HERO了。</p><p><b>开演事件后，很多人把注意力放在了主观抨击qg，却没有留意到，他们这赛季的战斗力其实不弱，对战HERO的时候就算拿出这么不是东西的东西，都能跟正常打的HERO有来有回，这说明选手的手感，状态都是挺旺盛的，4-1拿下MTG的时候，也许是因为MTG实力并不能算得上一流，很多人只看到了MTG弱，却继续忽视了QG的强。SK在采访的时候表示队伍的实力没问题，葛大爷感觉问题是出在了状态。</b></p><p><b>另外，FLY真的是经验老道的大赛选手，廉颇极限开团，马超龙王团冲进去打五个打乱阵型，到最后团没打过丝血，第一时间想的不是怎么跑路，想的是怎么偷家，哦不，直接明抢基地了。</b></p><p>给个图直观感受下</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-146cfee80fc3ae854ddf48c49d0d73fc_1440w.jpg" data-rawwidth="839" data-rawheight="628" data-size="normal" data-caption data-default-watermark-src="https://pic4.zhimg.com/v2-30fc6430d1a31dd3dfd5896508f1717b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-146cfee80fc3ae854ddf48c49d0d73fc_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p>总决赛QG打GK，谁夺冠我都高兴的。QG老粉恭贺QG成就六冠王，还是GK谱写泪目史诗，对我而言都是不错的结果。</p><p><br></p><p><br></p><p><br></p><p>扯点别的，个人观点，不接受强行对线。</p><p>李九的话一半一半吧，那把的电竞精神是确实没有，也确实是敢说。但主要责任应该在教练组，或者说个别教练，不应该牵扯选手，毕竟是有在好好操作。荣耀是五个选手拼出来的。</p><p>另一半，晚节不保，什么是晚节不保？不能打了要退役了叫晚，今天FLY直接就告诉你什么叫正当壮年的联盟顶级上单。这波叫<b>凭谁问廉颇老矣尚能饭否</b>。要是FLY更狠点拿个fmvp，未来一两年估计李九看见qg的比赛都得绕着走。</p>  
+小当家的回答<br><br><p>你以为半场开香槟已经够离谱了？estar老板何猷君告诉你，对面选手上场就赶紧言语辱骂搞心态，第一局赢了后就要赶紧庆祝，光庆祝还不够，还要骂对方废物，让对面选手滚回重庆，并手舞足蹈开始吟唱啦啦啦啦，扰乱比赛现场秩序导致第一次比赛后休息了很久。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b7c69d7fc1fff3efa9e877d54df50ccc_1440w.jpg" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-9c5e78987aeedf64c771f2f2628a7a83_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b7c69d7fc1fff3efa9e877d54df50ccc_r.jpg" referrerpolicy="no-referrer"></figure><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1412940031300837376" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-9c10c559141a875c283f75c9c45f7eb8.jpeg" data-lens-id="1412940031300837376">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-9c10c559141a875c283f75c9c45f7eb8.jpeg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1412940031300837376</span>              </span>            </span></span></span></a>            <p></p>  
 </div>
             
