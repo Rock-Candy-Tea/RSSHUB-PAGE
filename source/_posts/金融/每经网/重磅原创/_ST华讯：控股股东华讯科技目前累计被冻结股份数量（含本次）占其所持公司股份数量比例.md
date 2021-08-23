@@ -1,0 +1,74 @@
+
+---
+title: '_ST华讯：控股股东华讯科技目前累计被冻结股份数量（含本次）占其所持公司股份数量比例'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/bc81879e-2135-45b7-a168-cdfb613c35ad_msai_zonglan_pic?nbddata-height=978&nbddata-width=750&type=png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/bc81879e-2135-45b7-a168-cdfb613c35ad_msai_zonglan_pic?nbddata-height=978&nbddata-width=750&type=png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          *ST华讯：控股股东华讯科技目前累计被冻结股份数量（含本次）占其所持公司股份数量比例已达到100%
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-08-23 17:58:11
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E8%88%AA%E7%A9%BA%E8%A3%85%E5%A4%87" class="typeTag tagColor3">航空装备</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E6%B2%B3%E5%8C%97%E7%9C%81" class="typeTag tagColor2">河北省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=000687" data-stock-code="000687" class="typeTag tagColor1">*ST华讯 <abbr class="highs">+2.7%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="announce-summary" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经AI快讯，</span><span style="white-space: pre-wrap;">*ST华讯（SZ 000687，收盘价：3.03元）8月23日晚间发布公告称，截至本公告披露日，股东华讯方舟科技有限公司累计被冻结股份约2.26亿股，占其所持股份比例的100%，占公司总股本的29.46%；股东吴光胜累计被冻结股份约525万股，占其所持股份比例的73.81%，占公司总股本的0.69%。</span></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;">2020年年报显示，*ST华讯的主营业务为军事通信业务、其他，占营收比例分别为：72.99%、27.01%。</p>
+<p style="line-height: 1.6; margin-bottom: 15px; white-space: pre-wrap;">*ST华讯的总经理是沈志华，男，59岁，大专学历。</p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><span class="rss-need-del" style="font-weight: bold;">道达号（daoda1997）“个股趋势”提醒：</span><br>1. *ST华讯近30日内北向资金持股量未发生变化；<br>2. 近30日内无机构对*ST华讯进行调研。<span class="rss-need-del rss-need-del-toutiao">更多关键信息，请搜索“道达号”。</span></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/bc81879e-2135-45b7-a168-cdfb613c35ad_msai_zonglan_pic?nbddata-height=978&nbddata-width=750&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经头条（nbdtoutiao）——</span><a style="text-decoration: none;" href="http://mp.weixin.qq.com/s?__biz=MzIwNDY3NDMyMw==&mid=2247519123&idx=1&sn=606fc5fdbc67afe129ad1146d5312de9&chksm=973e4fefa049c6f9b68fbfc8d5b5e78f9c0c9bd71d70c41d6763af0d02cbc6fe02820e08a67d#rd">拿地一时爽，事后怎收场？10余城集中供地“暂停与延期”后面临规则与策略之变</a></p>
+<p class="m-original-right" style="width:100%; text-align:right; font-weight:bold;">(记者 蔡鼎)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red;">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
