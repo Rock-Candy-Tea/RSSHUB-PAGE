@@ -1,0 +1,19 @@
+
+---
+title: '不再拘泥自研 Intel将向台积电采购5nm芯片'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2020/0814/6283abdcfbbd007.jpg'
+author: cnBeta
+comments: false
+date: Mon, 23 Aug 2021 13:28:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2020/0814/6283abdcfbbd007.jpg'
+---
+
+<div>   
+近日，Intel罕见表态，将向台积电采购5nm芯片。据日经报道，Intel在8月19日的线上活动上透露了这一消息，用于开发Ponte Vecchio GPU。<strong>这是Intel首次用外部代工厂的先进工艺来生产产品。</strong><br>
+ <p>Ponte Vecchio是Intel首个百亿亿次级计算GPU，使用了<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>有史以来最先进的封装技术，拥有超过1000亿个晶体管，由47个被称为“魔术贴”的芯片组成，是现阶段Intel先进技术的集大成者。未来Ponte Vecchio将会成为构建超算的核心力量。</p><p>在此之前，<strong>AMD和NVIDIA积极采购台积电的最尖端半导体技术，提高了产品实力；而另一方面，Intel拘泥于自主生产，近年来被两家企业猛追。</strong></p><p>此外，Intel在5nm芯片开发上一直不太顺利，此次暂先从台积电采购，似乎意图展开反攻。</p><p>到2022年下半年（7～12月），台积电超更先进的3nm芯片”有望启动量产。传闻作为台积电最大客户的<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>已大量订购3nm，计划用于新款<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>。</p><p>但可以预见的是，台积电最尖端工艺芯片的产量有限，今后各企业的争夺或将变得更加激烈。</p><p><a href="https://static.cnbetacdn.com/article/2020/0814/6283abdcfbbd007.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2020/0814/6283abdcfbbd007.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
