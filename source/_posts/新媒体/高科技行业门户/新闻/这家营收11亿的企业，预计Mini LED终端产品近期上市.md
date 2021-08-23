@@ -1,0 +1,19 @@
+
+---
+title: '这家营收11亿的企业，预计Mini LED终端产品近期上市'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__23f3fba615246fcb7761ea22182232b0.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 23 Aug 2021 01:24:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__23f3fba615246fcb7761ea22182232b0.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">行家导读：</p><p style="text-indent: 2em; text-align: left;">8月21日，聚飞光电发布《2021半年度报告》。</p><p style="text-indent: 2em; text-align: left;">报告<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>，聚飞光电上半年实现营业总收入11．40亿元，比上年同期增长13．93％；归属于上市公司股东的净利润1．24亿元，比上年同期下滑13％。其中背光LED实现销售收入8．07亿元，占营业收入的70．76％。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">聚飞光电表示，利润与收入变动幅度不同步的主要原因如下：</span></p><p style="text-indent: 2em; text-align: left;">? 在当前经济环境下，全球消费电子市场需求不振，高附加值产品销售承压较大，产品结构部分调整；? 研发投入持续加大，为积极进行新兴技术储备和专利布局，加大了对Mini／Micro LED产品、 不可见光等新产品的研发力度；? 部分原材料受国际大宗商品期货的大幅涨价及汇率波动，对成本、利润带来负面影响；? 三地同时投产，其中惠州和芜湖生产基地处于快速投入期，基础建设、设备投入，人员储备等均大幅增加，产能释放尚处于逐步增长阶段，还未形成大规模的销售收入；? 上年发行的可转换公司债券，根据市场利率在本报告期计提财务费用。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">营业收入构成</span></strong></p><p style="text-indent: 2em; text-align: left;">上半年，聚飞光电背光LED营收占比最高，毛利率为25．39％。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__23f3fba615246fcb7761ea22182232b0.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">聚飞光电表示，在报告期内，根据市场情况及时调整经营策略，背光LED产品取得稳健发展，实现销售收入8．07亿元，比上年同期上涨4．29％，产品综合良率达99．1％。</p><p style="text-indent: 2em; text-align: left;">近年来，聚飞光电应用在高端手机上的背光LED受到<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321321-OLED.html" target="_blank" title="OLED">OLED</a></span>屏幕的部分侵蚀，且受全球芯片短缺及海外疫情的影响，手机出货量下滑，市场竞争日益激烈。</p><p style="text-indent: 2em; text-align: left;">与此同时，疫情期间围绕远程办公、在线教育等市场的商机不断迸发，极大地刺激了平板、笔电及<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-8321305-tv.html" target="_blank" title="显示器">显示器</a></span>等终端产品的应用需求随着液晶电视产品向智能化、大屏化、高清化及多分区高动态范围（HDR）、宽色域方向发展，聚飞光电的LED封装技术亦不断往高光效、高可靠性、高散热能力与薄型化方向推进，大尺寸背光LED产品的应用方向顺势得到延展。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202108/wx_article__3c180dd1909d8e464550afa1530e584e.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">报告期内，得益于前期充分的产业布局，聚飞光电Mini／Micro LED、不可见光等新业务进展顺利。聚飞光电表示，随着终端厂商的加速布局和产业链上下游的积极响应，预计近期会有较多的Mini LED终端产品上市， Mini LED产品也将迎来高速增长。</p><p style="text-indent: 2em; text-align: left;">聚飞光电表示，Mini LED产品已得到市场认可，正配合客户批量供货；Micro LED的技术研发储备及与关键厂家的合作开发进展顺利。</p><p style="text-indent: 2em; text-align: left;">聚飞光电发展壮大现有主业的同时，分步实施战略性新兴产业的布局，其中高端半导体封装业务中的光器件团队实现了部分光通信版图的扩张，在搭建研发线体的同时，建立了单通道和多通道的COB产线。</p><p style="text-indent: 2em; text-align: left;">重要项目情况</p><p style="text-indent: 2em; text-align: left;">上半年，聚飞光电用于研发的投入为6515．54万元，较同期上涨18．89％。开展的重要研发项目包括“高光效高色彩还原背光LED器件”、“超亮高色域背光LED器件”、“车用多芯陶瓷封装LED器件”、“车用高亮信号灯LED器件”、 “Mini＆Micro <span class="hrefStyle"><a href="https://display.ofweek.com/KW-ledxianshiping.html" target="_blank" title="LED显示屏">LED显示屏</a></span>”、“小尺寸多用途智能计数传感器”、“智能、穿戴侦测传感器件”、“VCSEL TOF红外激光陶瓷封装器件”等。</p><p style="text-indent: 2em; text-align: left;">其中，“Mini＆Micro <span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>屏”采用COB集成封装技术，产品具有高对比度，高清画质，可靠性好，适用于会议室、演播厅、安防监控室、高端零售店、指挥中心等领域。</p><p style="text-indent: 2em; text-align: left;">“高光效高色彩还原背光LED器件”采用独立双驱动支架，双色温背光技术可以提供冷暖双色彩，全面提升画面对比度，应用在QLED超高色域，超高清全面屏智能电视等领域。资料源自企业公告，行家说整理<br></p> 
+  
+</div>
+            
