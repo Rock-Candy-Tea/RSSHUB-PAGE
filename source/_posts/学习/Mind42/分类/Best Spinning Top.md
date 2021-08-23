@@ -1,0 +1,19 @@
+
+---
+title: 'Best Spinning Top'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5c8b8f04-2a99-49a8-bddf-48f9b40381cf&size=gallery'
+author: Mind42
+comments: false
+date: 2021-08-23 05:06:10
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5c8b8f04-2a99-49a8-bddf-48f9b40381cf&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5c8b8f04-2a99-49a8-bddf-48f9b40381cf&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
