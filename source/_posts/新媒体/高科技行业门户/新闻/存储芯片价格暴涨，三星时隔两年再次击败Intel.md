@@ -1,0 +1,19 @@
+
+---
+title: '存储芯片价格暴涨，三星时隔两年再次击败Intel'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202108/23184717515710.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 23 Aug 2021 11:06:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202108/23184717515710.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">市调机构IC  insights给出的数据指出今年二季度由于DRAM和NAND flash<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87.HTM" target="_blank" title="存储芯片">存储芯片</a></span>价格暴涨,<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>再次在<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>市场击败<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span>,这是它时隔两年之后再次击败Intel。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202108/23184717515710.jpg" width="100%" title="存储芯片价格暴涨，三星再次击败Intel" alt="存储芯片价格暴涨，三星再次击败Intel" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Intel称霸半导体市场20多年,它依靠自己的先进工艺制程和芯片架构,在PC<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%A4%84%E7%90%86%E5%99%A8.HTM" target="_blank" title="处理器">处理器</a></span>和<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%8A%AF%E7%89%87.HTM" target="_blank" title="服务器芯片">服务器芯片</a></span>制程占据垄断地位,由此长期居于半导体市场第一名。</p><p style="text-indent: 2em; text-align: left;">不过2017年和2018年,由于DRAM、NAND flash芯片价格的暴涨,三星在那两年的半导体收入猛增,将Intel挤落全球半导体老大的宝座。</p><p style="text-indent: 2em; text-align: left;">随后的2019年和2020年,由于存储芯片价格由升转跌,三星的半导体收入再次下跌,而Intel的收入却稳步上涨,于是Intel又夺回了全球半导体老大的位置。</p><p style="text-indent: 2em; text-align: left;">相对来说,由于存储芯片价格起伏幅度远比PC处理器和服务器芯片的大,所以Intel更容易夺下半导体老大的位置,不过这几年Intel在PC处理器和服务器芯片市场面临挑战导致它的好日子正在过去,才会不时被三星超越。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202108/23184718578326.jpg" width="100%" title="存储芯片价格暴涨，三星再次击败Intel" alt="存储芯片价格暴涨，三星再次击败Intel" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Intel在PC处理器市场率先失利。<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-AMD.HTM" target="_blank" title="AMD">AMD</a></span>在卧薪尝胆多年之后,在2016年推出了创新性的Zen架构,Zen架构的性能大幅提升,而Intel则被指挤牙膏在芯片架构研发方面进展缓慢;另一方面则是Intel曾长期保持领先优势的芯片制造工艺止步不前,Intel于2014年量产14nmFinFET工艺后直到2019年才投产10nm工艺,而为AMD代工生产芯片的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>则演进到了7nm工艺,在芯片架构和先进工艺制程的加持下,AMD开始在PC处理器市场猛攻Intel。</p><p style="text-indent: 2em; text-align: left;">从2017年起,AMD在PC处理器市场的份额快速上涨,而Intel的市场份额则逐步下滑,至今年一季度AMD终于在桌面PC处理器市场击败Intel,这是AMD时隔15年之后再次击败Intel,不过Intel在<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%AC%94%E8%AE%B0%E6%9C%AC.HTM" target="_blank" title="笔记本">笔记本</a></span>电脑市场依然领先AMD。</p><p style="text-indent: 2em; text-align: left;">在PC处理器市场取得进展之后,AMD又推出EYPC服务器芯片进攻服务器芯片市场,经过两年多时间的努力,如今AMD已在服务器芯片只是取得接近一成的市场份额。</p><p style="text-indent: 2em; text-align: left;">AMD在PC处理器和服务器芯片市场侵蚀Intel的市场,对Intel是重大打击,这成为Intel在半导体市场收入停滞的主因;恰在此时,包括存储芯片在内的芯片从2020年Q4开始再度进入上涨阶段,三星的半导体营收由此再次击败Intel。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202108/23184719155019.jpg" width="100%" title="存储芯片价格暴涨，三星再次击败Intel" alt="存储芯片价格暴涨，三星再次击败Intel" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Intel如今可谓内忧外患,内忧是芯片制造工艺制程继续延误,外患则是AMD继续猛攻,还有<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-ARM.HTM" target="_blank" title="ARM">ARM</a></span>阵营在PC处理器市场取得突破,或许Intel在半导体市场的霸主地位真的到了结束的时候。</p> 
+  
+</div>
+            
