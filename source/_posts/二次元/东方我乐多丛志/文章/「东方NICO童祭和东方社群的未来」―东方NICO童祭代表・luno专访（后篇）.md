@@ -28,7 +28,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <h2 style="text-align: center;">「想要更多地讨论东方」 东方NICO童祭EX始动・为做东方杂谈的24小时直播・T-1大赛</h2><p><strong>――在第五回东方NICO童祭上还积极举办了东方人气投票登企划。想向您打听打听东方WIKI历年举办的东方系列人气投票（现·东方Project人气投票）这一年没有举办的原因。活动之中的辛苦与反响又如何。</strong></p>
 <p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm21241946" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
-</span><span style="font-weight: 400;">　我自己是非常喜欢东方系列人气投票的，既然东方Wiki办不了的话，那就让我来办吧！。不过真的挺乱来的（笑）。</span></p>
+</span><span style="font-weight: 400;">　我自己是非常喜欢东方系列人气投票的，既然东方Wiki办不了的话，那就让我来办吧！不过真的挺乱来的（笑）。</span></p>
 <p><span style="font-weight: 400;">　本身关于人气投票的系统以前我就有做分析网站之类的调查，在搞NICONICO动画所以也投稿了视频在上面……在第5回的时候要干的事情太多结果网站崩溃了。这时候就还在崩溃中。</span></p>
 <p><span style="font-weight: 400;">　当时也正是从大学生变成社会人之时，很多东西都周转处理不过来……现在想来，为什么要在这种时候搞这么乱来的事情……给很多人带来很多麻烦，是自己也在反省的一年。</span></p>
 <p><span style="font-weight: 400;">　就算这样干过的事情就是干过了，最后能让大家提起干劲就好。</span></p>
@@ -46,7 +46,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <p><span style="letter-spacing: 0.02em;">(※2)最萌大赛（最萌トーナメント）（最萌）是2001年在2ch（现5ch）等地方时不时举办的淘汰赛形式的角色人气投票活动。投票时对角色的爱意表示叫唤等应援评论为人所喜爱。</span></p>
 </blockquote>
-<p><strong>――比起即卖会等活动的珠翠而言，您想到的东西更接近社群的运营。在您的心中，一直烦恼着如何让参与活动的人下次也来参与，已经在活动中的人如何让他们享受活动。</strong></p>
+<p><strong>――比起即卖会等活动的主催而言，您想到的东西更接近社群的运营。在您的心中，一直烦恼着如何让参与活动的人下次也来参与，已经在活动中的人如何让他们享受活动。</strong></p>
 <p><strong>　东方NICO童祭虽以即卖会为原型，但是实际做出来的形式却是出自「主催的想法」，能从中感受到并不会变成同一种东西的创作性。</strong></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　可能已经成为因NICONICO动画才变成现在这样的活动了。Ex直播企划也不是在Youtube而是只在NICONICO上直播东方视频，所以才火起来了吧。</span></p>
