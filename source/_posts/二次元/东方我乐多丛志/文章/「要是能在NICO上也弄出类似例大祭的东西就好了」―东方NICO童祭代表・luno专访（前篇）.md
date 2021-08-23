@@ -13,7 +13,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 ---
 
 <div>   
-<img src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622.jpg" alt referrerpolicy="no-referrer"><p>Index：<a href="https://cn.touhougarakuta.com/index_interview/nicodousai">【全3回】東方ニコ童祭代表・luno.氏インタビュー</a></p><hr><p><span style="font-weight: 400;">　自2009年开始举办的<a href="https://nicodosai.com/">东方NICO童祭</a>，每回童祭都有数百件和东方Project相关的视频投稿，是NICONICO动画中代表性的东方活动</span><span style="font-weight: 400;">。</span></p>
+<img src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622.jpg" alt referrerpolicy="no-referrer"><p>Index：<a href="https://cn.touhougarakuta.com/index_interview/cn_nicodousai">【全3回】东方NICO童祭代表・luno.专访</a></p><hr><p><span style="font-weight: 400;">　自2009年开始举办的<a href="https://nicodosai.com/">东方NICO童祭</a>，每回童祭都有数百件和东方Project相关的视频投稿，是NICONICO动画中代表性的东方活动</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　本次我们迎来了自NICO童祭第一回以来就是童祭的中心人物，从东方视频发展初期就一直在看着东方视频的luno.，让他为我们讲讲东方NICO童祭是如何成立发展，NICONICO动画和东方Project的关系，东方视频发展的历史等等。</span></p>
 <p style="text-align: right;"><span style="font-weight: 400;">采访／斉藤大地・西河紅葉・myrmecoleon<br>
 </span><span style="font-weight: 400;">文／myrmecoleon</span></p>
