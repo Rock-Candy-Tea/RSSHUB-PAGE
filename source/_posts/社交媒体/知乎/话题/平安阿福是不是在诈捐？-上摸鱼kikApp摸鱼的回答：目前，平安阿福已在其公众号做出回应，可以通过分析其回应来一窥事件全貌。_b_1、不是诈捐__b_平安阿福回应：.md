@@ -1,0 +1,18 @@
+
+---
+title: '平安阿福是不是在诈捐？-上摸鱼kikApp摸鱼的回答：目前，平安阿福已在其公众号做出回应，可以通过分析其回应来一窥事件全貌。_b_1、不是诈捐__b_平安阿福回应：...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-d9c9e14b5edcf22986588761c8849210_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 23 Aug 2021 08:56:13 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-d9c9e14b5edcf22986588761c8849210_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>平安阿福是不是在诈捐？</strong><br>上摸鱼kikApp摸鱼的回答<br><p>目前，平安阿福已在其公众号做出回应，可以通过分析其回应来一窥事件全貌。</p><p><b>1、不是诈捐</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-d9c9e14b5edcf22986588761c8849210_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="884" data-rawheight="346" data-default-watermark-src="https://pic1.zhimg.com/50/v2-7b770e2b85ccad4f1fb999c507e614e7_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d9c9e14b5edcf22986588761c8849210_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-d9c9e14b5edcf22986588761c8849210_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>平安阿福回应：每一篇订阅号底下都会有二维码，并不是那一篇才有。</p><p>一方面来看，设置募捐二维码、做动物救助，不只是一只动物，公众号的读者用户是捐款给所有动物的；从另一方面来看，读者用户当然也可能是因为看了边牧的状况心生怜悯才给予救助，而这笔钱却没有支付给实际救助边牧的<b>南京福星流浪动物基地，</b>所以诈捐一说不存在。</p><p><b>2、不是诈捐，但是是以边牧事件博眼球获取利益</b></p><p>回应中也说明了为什么没在救助文章中提起福星。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-68239594e8c84233a24d28d2b838a436_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="782" data-rawheight="712" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b4a08272c8af56e4670fb74a99ae9e3a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-68239594e8c84233a24d28d2b838a436_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-68239594e8c84233a24d28d2b838a436_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>福星救了狗，平安阿福的戏局人生拍了视频、发到网上，然后在文章结尾使用了募捐二维码，任谁也会觉得委屈吧。</p><p>贸然分析一下两者产生矛盾的原因是：</p><p>戏局人生对福星说：不用担心，这个狗到时候找不到了领养我给你送到平安阿福去。</p><p>戏局觉得自己是在帮狗、也是帮福星，然后通过这只狗也能募捐一些捐款，不论是给这只边牧花还是给救助站其他的动物花，都挺好；</p><p>但是福星并没有想让别的救助站来救这只狗，之所以让戏局人生帮忙发到各平台，就是想找到虐待狗的两个主任，谴责一下，结果没想到这波热度让戏局蹭了，自己费力费钱救了狗，别人还以为是戏局救的，还募捐给戏局，心里肯定不舒服。所以二者就在不同的理解中，产生了误会，最终打了起来。</p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-db5b7546b30a193423fefce5b09a6bd0_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="878" data-rawheight="784" data-default-watermark-src="https://pic1.zhimg.com/50/v2-116ceae12fd7ea62e858abffe4792e1d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-db5b7546b30a193423fefce5b09a6bd0_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-db5b7546b30a193423fefce5b09a6bd0_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>也顺带查了一下，脑梗肯定不是被打出来的，可能是气出来的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-fc44348f1bbb21ff23440f95c97f5a3a_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="1032" data-rawheight="234" data-default-watermark-src="https://pic1.zhimg.com/50/v2-6b5a454450a02fb1735bcdc4aa3540dc_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-fc44348f1bbb21ff23440f95c97f5a3a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-fc44348f1bbb21ff23440f95c97f5a3a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>脑梗诱发因素</figcaption></figure><p></p>  
+</div>
+            
