@@ -1,0 +1,18 @@
+
+---
+title: '【夺冠之路】天命之队！Team oNe夺得彩虹六号2021major总冠军！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/23/3615d0f14a7900439ecb96617dff992f/thumb.png'
+author: 小黑盒
+comments: false
+date: Mon, 23 Aug 2021 20:41:55 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/23/3615d0f14a7900439ecb96617dff992f/thumb.png'
+---
+
+<div>   
+<p>在Team oNe与Empire的major2021第一局比赛中，导播在画面的下方提出了<b>”Is Team oNe That Team?”</b>这样一个引人深思的问题。回顾Team oNe是如何披荆斩棘进入决赛的，好像真有点命中注定的天命之队的感觉。</p><p><img class="lazy" data-height="595" src="https://imgheybox.max-c.com/bbs/2021/08/23/3615d0f14a7900439ecb96617dff992f/thumb.png" data-width="1067" referrerpolicy="no-referrer"></p><h4 class="img-desc">Is Team oNe That Team？</h4><p>而当T1以一个7：1轻松拿下决胜局后，Kix在解说台上大声喊出了<b>”They are That Team!”</b>时，我们心中都有了最终的答案。T1的故事如此美好，美好到令人不敢相信这一切真的发生了。谁也不敢相信，这支被主教练TchubZ称为“完美”的队伍，是在今年3月刚刚组建的，而他们仅仅用了不到半年的时间，就从邀请赛的12强，成功复仇帝国夺得了major的冠军。</p><p><img class="lazy" data-height="562" src="https://imgheybox.max-c.com/bbs/2021/08/23/02327d1f7ed7bf640bf81ef9a7fc8930/thumb.png" data-width="845" referrerpolicy="no-referrer"></p><h4 class="img-desc">夺冠后喜极而泣的Team oNe教练TchubZ</h4><p>在2021年初将整支队伍出售给MIBR后，Team oNe找到了在BD郁郁不得志的年轻小将Lagonis。“我们相信你，你想让我们签哪些选手？”Lagonis与新任主教练TchubZ一起完成了这份他们心中最完美的名单：Alemao、Neskin、Levy、kds，再加上Lagonis和主教练TchubZ，这六个人分别来自五个不同的队伍。教练TchubZ来自Furia，Lagonis来自BD，Alemao来自INTZ，kds来自Faze Clan，而Neskin与Levy之前甚至在挑战者联赛打拼。主教练TchubZ在接受采访时曾说过，在选择队员时，他们不仅关注的是队员的数据，而且还重点了解了队员的特点与个性，比如Alemao是个乐观的人，经常能给身边的人带来快乐，而kds往往是队伍里训练最刻苦的一个。就这样，“雇佣兵军团”Team oNe如同主角开挂逆袭一般的故事开始了。<br></p><p><img class="lazy" data-height="617" src="https://imgheybox.max-c.com/bbs/2021/08/23/32dcbb33054fd5d5a1d7ee97bae8eebe/thumb.png" data-width="1242" referrerpolicy="no-referrer"></p><h4 class="img-desc">Team oNe队员与教练海报（左边的Rafadell是队伍经理）</h4><p>在经历了一个惨淡的邀请赛后，T1在拉美赛区一路高歌猛进，最终以拉美赛区二号种子的身份进军major。然而在小组赛连续输掉三场比赛后，大家一致认为T1的major之旅已经结束，但这几个年轻人连续击败了bds、Soniqs和CAG，并在与CAG的加赛中顶住了压力以小组第二的身份成功出线。</p><p>淘汰赛的第一场面对的是C组第一DarkZero，njr领衔的DZ在小组赛中4胜2负，还战胜了前世界冠军NIP。就在大家都以为T1止步于此的时候，他们用两个7：3成功闯进了半决赛。面对夺冠大热Team Liquid，他们用可能是史上最好的领事馆表现送给液体一个7：0并闯入决赛。而当他们一路过关斩将终于面对邀请赛时有一箭之仇的Empire时，他们仍然不被人所看好。</p><p><img class="lazy" data-height="578" src="https://imgheybox.max-c.com/bbs/2021/08/23/0ab7ec9a06617fe9c6a044913df69d3e/thumb.jpeg" data-width="1077" referrerpolicy="no-referrer"></p><h4 class="img-desc">梗图：是什么让Alemao赢得比赛</h4><p>T1在帝国选图俱乐部以2：7败下阵来，但立刻就在木屋以一个7：2还以颜色，接着又在海岸线加时8：6取得胜利。T1在领事馆ban掉的Smoke看起来仿佛自废武功，于是比赛进入了紧张刺激的最后一场。可让人意想不到的是，Empire在庄园的表现简直灾难。在以5：1的优势换边后，T1一鼓作气以7：1将Empire斩于马下。Levy拿下的决赛MVP，也正式证明了T1已经不是邀请赛时候的Alemao一拖四了。可以肯定的是，T1的几个年轻人还在成长，而且前途不可估量。</p><p><img class="lazy" data-height="655" src="https://imgheybox.max-c.com/bbs/2021/08/23/5b47db52af2b83480181ca75cd5ad4ec/thumb.jpeg" data-width="1069" referrerpolicy="no-referrer"></p><h4 class="img-desc">Team oNe对Empire赛后数据</h4><p>有人说：如果CAG再争气一点，就不会有Team oNe7：3CAG小组出线，就不会有T1连续击败DZ、Liquid与卫冕冠军Empire，更不会有T1类似爽文一样的逆袭夺冠。但一切都是如此巧合，Team oNe就是That Team，仿佛辛德瑞拉的童话：在困难中保持希望，一定会有涅槃的时刻。这次major的夺冠之路正如Team oNe的宣传语写的那样——</p><h2>“Made to be the One”。</h2><p><img class="lazy" data-height="1165" src="https://imgheybox.max-c.com/bbs/2021/08/23/657f5f1f9fe1681d55f9e02220dba2e4/thumb.jpeg" data-width="810" referrerpolicy="no-referrer"></p><h4 class="img-desc">彩虹六号电竞官方祝贺Team oNe夺冠</h4><p><a href="heybox://open_subject" target="_blank">#彩虹六号#</a> <a href="heybox://open_subject" target="_blank">#彩虹六号围攻#</a>  <br></p>  
+</div>
+            
