@@ -1,0 +1,19 @@
+
+---
+title: 'OLED显示市场大洗牌：三星跌破70%'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202108/23104449622595.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 23 Aug 2021 10:49:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202108/23104449622595.jpg'
+---
+
+<div>   
+<article><p style="text-indent: 2em; text-align: left;">说起手机OLED屏,很多的印象应该是三星排第一,然后LG排第二,之后再是京东方、维信诺、TCL等国产品牌。</p><p style="text-indent: 2em; text-align: left;">而如果从市场占比来看,大家固有的印象应该是三星占比在80%左右,然后LG占比在10%左右,至于国产OLED屏厂商们,合计占比应该在10%,也就是说主要还得看韩系厂商。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202108/23104449622595.jpg" alt=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" title=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但这只是几年前了,这几年随着国产在OLED屏上不断发力,再加上像华为、小米、OV们的支持,国产OLED屏的品质越来越高,市场占比也是越来越高。</p><p style="text-indent: 2em; text-align: left;">按照近日CNNIO公布的2021年二季度的数据,OLED屏市场可以说已经迎来了大洗牌,国产屏厂商们,终于开始爆发了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202108/23104449918905.png" alt=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" title=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">2季度全球手机OLED出货量为1．46亿块,而三星的市场占比为69．5%,这是三星历史上首次在OLED屏市场上跌破70%,历史最低值了。</p><p style="text-indent: 2em; text-align: left;">而国产厂商们已经拿下了24．2%的份额,相比一季度的15．6%的份额,已经大幅度提升了,而出货量方面,则更是环比提升了36．1%。</p><p style="text-indent: 2em; text-align: left;">而从具体的排名及出货量来看,京东方排全球第二,出货量为1428万片,环比增长36．1%,市场份额接近10%了,毕竟像华为、荣耀、OV、realme、iQOO等品牌都采用了京东方的OLED屏幕。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202108/23104450239354.jpg" alt=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" title=" OLED屏市场大洗牌：三星跌破70%，国产超24%，拿下全球2、3、5名" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而维信诺二季度出货量达980万片,位居全球第三、国内第二,较Q1激增高达44%,增幅居各厂商之首,进步同样明显。</p><p style="text-indent: 2em; text-align: left;">LG排全球第四,出货量为920万片,较Q1下降32%。而全球第五名还是中国厂商EDO(和辉光电),甚至全球第6、7名还是中国厂商,分别是CSOT华星光电(TCL)、深天马。</p><p style="text-indent: 2em; text-align: left;">而接下来京东方又将供货OLED屏给苹果的iPhone13,同时三星也将在M系列中使用华星光电(TCL)的OLED屏,可见预见的是,LCD屏的历史要在OLED屏上重演了,国产OLED屏也将崛起,你觉得呢?</p></article> 
+  
+</div>
+            
