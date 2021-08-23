@@ -1,0 +1,19 @@
+
+---
+title: '英特尔ARC旗舰独显有望与RX 6700 XT或RTX 3070一较高下'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0823/1b85f451567f102.jpg'
+author: cnBeta
+comments: false
+date: Mon, 23 Aug 2021 06:40:51 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0823/1b85f451567f102.jpg'
+---
+
+<div>   
+英特尔即将于 2022 年推出基于代号为 Alchemist、基于 Xe-HPG GPU 的 Arc 独立显卡。<strong>从已知的规格来看，其有望于英伟达 GA104（RTX 3070）或 AMD Navi 22（RX 6700 XT）一较高下。</strong>制程方面，Arc 显卡将采用台积电 6nm 工艺节点，此外英特尔还详细介绍了 Alchemist GPU 和 Xe-Core 的核心构建块规格。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0823/1b85f451567f102.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0823/1b85f451567f102.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>由 WCCFTech 汇总的信息可知，英特尔 Xe-HPG Alchemist GPU 采用了 Xe-Core 图形核心。</p><p>作为初代 Arc 独显的核心，Xe-Core 组成的计算块（Compute Tile）包括了 16 个 256 位的矢量引擎，以及 16 个 1024 位的矩阵引擎。</p><p><a href="https://static.cnbetacdn.com/article/2021/0823/1bc97cec51dac1c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0823/1bc97cec51dac1c.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>每个矢量引擎由 8 个算术逻辑运算单元（ALU）组成，预计每个 Xe-Core 拥有 128 个 ALU 。</p><p>每个矩阵引擎块（XMX Block）可在 FP16 和 INT8 模式下处理张量操作，且 Xe-Core 具有专用的 L1 缓存。</p><p><a href="https://static.cnbetacdn.com/article/2021/0823/cf623de8b802ae2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0823/cf623de8b802ae2.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>英特尔将 4 个 Xe-Core 融合在一起，形成了一个渲染切片（Render Slice），其由 4 个光追、4 个采样器、几何 / 光栅化 / HiZ 引擎和 2 个像素后端（Pixel Backend）块组成，且每块上有 8 个单元。</p><p>这些渲染切片组合成了一个主 GPU，旗舰 SKU 由 8 个渲染切片组成，具有 32 个 Xe-Core、512 个矢量引擎、4096 个逻辑运算单元，此外 2 / 4 / 6 个渲染切片会有不同的配置。</p><p><img src="https://static.cnbetacdn.com/article/2021/0823/f3804c1d8fe1664.png" alt="4.png" referrerpolicy="no-referrer"></p><p>3DCenter 不仅列出了英特尔 Arc Xe-HPG Alchemist 旗舰产品的规格，还将之与 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 和英伟达竞品进行了比较。</p><p>可知 4096 的核心数高于 Navi 22 / Navi 21（RX 6800），但低于英伟达的 GA104 。考虑到绿厂使用了双 FP32 的编号方案，因此理论上是 3072 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0823/35df759bf74ca2f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0823/35df759bf74ca2f.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>只看光追单元的话，蓝厂 ARC Alchemist GPU 较红绿两队要少一些，但目前尚不清楚英特尔的 RT 方案到底是如何工作的。</p><p>人工智能超级采样方面，针对绿厂的 DLSS 和红队的 FSR，蓝厂也拿出了所谓的 XeSS 方案。</p><p><a href="https://static.cnbetacdn.com/article/2021/0820/beb4e6d2a043240.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0820/beb4e6d2a043240.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>从早前分享的演示画面来看，XeSS 的表现还是相当值得期待的。此外预计英特尔还会在 GPU 上配备一个小而实用的游戏缓存，辅以 256-bit @ 16GB（或更高容量的）GDDR6 显存。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=281438161&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: center;">Intel XeSS Upscaling Demo - Architecture Day 2021 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMjgxNDM4MTYxLnNodG1s.html" target="_self">via</a>）</p><p>最后，如果以 2GHz 的预期峰值时钟速率来预估 Alchemist 显卡的 FP32 计算性能的话，结合台积电 7nm 工艺节点的优势（6nm 制程的可能性较低），可推测 Xe-HPG GPU 的算力在 16~17 TFLOPs 。</p><p><img src="https://static.cnbetacdn.com/article/2021/0823/513d2f87fb19e3c.png" alt="7.png" referrerpolicy="no-referrer"></p><p>虽然较英伟达 GA104 略低，但考虑到游戏 / 数据中心芯片上不同的衡量标准，实际表现仍有待时间去检验。</p>   
+</div>
+            
