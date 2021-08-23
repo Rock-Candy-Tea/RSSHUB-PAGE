@@ -1,0 +1,26 @@
+
+---
+title: 'Manticore Jailbreak'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=2452'
+author: 每日安全
+comments: false
+date: 2021-08-23 04:08:38
+thumbnail: 'https://picsum.photos/400/300?random=2452'
+---
+
+<div>   
+<q>基于 cicuta_virosa kernel LPE 以及 amfid Bypass 的 iOS 越狱工具</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 38 minutes ago</small></span>
+</cite>
+  
+</div>
+            
