@@ -49,7 +49,7 @@ thumbnail: 'https://img.zcool.cn/community/01caa25ddb218da8012129e227a84a.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                   <!-- 存证图标 -->
@@ -73,7 +73,7 @@ thumbnail: 'https://img.zcool.cn/community/01caa25ddb218da8012129e227a84a.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                   <!-- 存证图标 -->
@@ -97,7 +97,7 @@ thumbnail: 'https://img.zcool.cn/community/01caa25ddb218da8012129e227a84a.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                   <!-- 存证图标 -->
@@ -121,7 +121,7 @@ thumbnail: 'https://img.zcool.cn/community/01caa25ddb218da8012129e227a84a.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                   <!-- 存证图标 -->

@@ -51,7 +51,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058684">
@@ -80,7 +80,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058688">
@@ -109,7 +109,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                       <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                      <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                      <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058686">
@@ -138,7 +138,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058682">
@@ -167,7 +167,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058685">
@@ -196,7 +196,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058690">
@@ -225,7 +225,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058687">
@@ -254,7 +254,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058689">
@@ -283,7 +283,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058692">
@@ -312,7 +312,7 @@ thumbnail: 'https://img.zcool.cn/community/0107d95da3bf8aa80121b7226162d0.jpg@12
                 <div class="image-info-icons">
                     
                         <span class="icon-image-collection js-single-collection" title="收藏单图">收藏</span>
-                        <span class="icon-quike-collection js-quicke-collection" title="快速收藏单图"></span>
+                        <span class="icon-quike-collection js-quicke-collection"></span>
                     
                   
                     <span class="icon-photo js-photo-icon" data-img-id="45058683">

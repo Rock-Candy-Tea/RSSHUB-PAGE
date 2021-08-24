@@ -19,6 +19,6 @@ thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1629707
 </p><p><iframe width="100%" height="380" src="https://v.qq.com/txp/iframe/player.html?vid=f3269bm6p6z"></iframe>
 </p><p><iframe width="100%" height="380" src="https://v.qq.com/txp/iframe/player.html?vid=e3269jwevri"></iframe>
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1629707157.jpg" alt referrerpolicy="no-referrer">
-</p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1629708186.jpg" alt referrerpolicy="no-referrer"></p>  
+</p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/41380-1629803106.jpg" alt referrerpolicy="no-referrer"></p>  
 </div>
             

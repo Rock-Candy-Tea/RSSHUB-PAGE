@@ -5,18 +5,18 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1513'
+headimg: 'https://picsum.photos/400/300?random=3286'
 author: 开源中国
 comments: false
 date: Tue, 24 Aug 2021 15:43:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1513'
+thumbnail: 'https://picsum.photos/400/300?random=3286'
 ---
 
 <div>   
 <div class="content">
                                                                     
-                                                        <p>Steam++ 2.4.10 已经发布，这是一个 Steam 工具箱。</p> 
-<p>此版本更新内容包括：</p> 
+                                                        <p>Steam++ 2.4.10 已经发布，Steam 工具箱 </p>
+<p>此版本更新内容包括：</p>
 <h3>新增内容</h3> 
 <ol> 
  <li>Linux/macOS 版本中的 CLR 升级至 .NET 6 Preview 7</li> 
@@ -55,7 +55,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1513'
     <ul> 
      <li>托盘不生效，这将影响程序不能正常退出</li> 
      <li>窗口弹出位置不正确</li> 
-     <li>某些窗口顶部会有两个标题栏</li> 
+     <li>窗口顶部会有两个标题栏</li> 
      <li>自动更新不可用</li> 
     </ul> </li> 
    <li>Shared 
@@ -121,17 +121,17 @@ thumbnail: 'https://picsum.photos/400/300?random=1513'
   <tr> 
    <td>osx-arm64</td> 
    <td>❌</td> 
-   <td> </td> 
+   <td></td> 
   </tr> 
   <tr> 
    <td>win-arm64</td> 
    <td>❌</td> 
-   <td> </td> 
+   <td></td> 
   </tr> 
   <tr> 
    <td>ios-arm64</td> 
    <td>❌</td> 
-   <td> </td> 
+   <td></td> 
   </tr> 
  </tbody> 
 </table> 
@@ -149,7 +149,6 @@ thumbnail: 'https://picsum.photos/400/300?random=1513'
    <li>如果你使用 ARM 芯片的设备（较为<strong>稀有</strong>）通常为 <strong>14</strong> 年下半年之前生产的设备，则下载文件名中带有 <strong>android_armeabi_v7a</strong> 的文件</li> 
   </ul> </li> 
 </ul> 
-<h1>macOS 与 Linux 版本之前生成的版本存在一些问题，今天晚些时候再发布下载包</h1> 
 <table> 
  <thead> 
   <tr> 
@@ -167,36 +166,36 @@ thumbnail: 'https://picsum.photos/400/300?random=1513'
    <td>D598A9807F6325D2E07C1FF7CE4ADFC1605501E5115FC94014FEAF88FBCBEA1B</td> 
   </tr> 
   <tr> 
-   <td> </td> 
-   <td> </td> 
+   <td></td> 
+   <td></td> 
   </tr> 
   <tr> 
    <td>Steam++_linux_x64_v2.4.10.7z</td> 
-   <td> </td> 
+   <td>6C10CCA10A073321AED815491C8F05B79F2602AE7BB187470C1FCD7A05519187</td> 
   </tr> 
   <tr> 
    <td>Steam++_linux_arm64_v2.4.10.7z</td> 
-   <td> </td> 
+   <td>97AC7F2C5B7A369910B632CE0671B7BFF5BCD05598F5A44074F55E2BF5EED816</td> 
   </tr> 
   <tr> 
    <td>Steam++_linux_arm_v2.4.10.7z</td> 
-   <td> </td> 
+   <td>F1E14F7BDB96BB9D86ACD0F94E11F4F565F3C13154711D69E5E9EAB18983FAE4</td> 
   </tr> 
   <tr> 
-   <td> </td> 
-   <td> </td> 
+   <td></td> 
+   <td></td> 
   </tr> 
   <tr> 
    <td>Steam++_macos_x64_v2.4.10.app.zip</td> 
-   <td> </td> 
+   <td>59166D17023333E24E5DA9D7B7920B5F67E3F3EE5CDD30F903422C48BF4405BD</td> 
   </tr> 
   <tr> 
    <td>Steam++_macos_x64_v2.4.10.7z</td> 
-   <td> </td> 
+   <td>7B59A36E34829F4343FD2048CDD2E899478C77E4FFAEFD877B52AD0429CB5D7C</td> 
   </tr> 
   <tr> 
-   <td> </td> 
-   <td> </td> 
+   <td></td> 
+   <td></td> 
   </tr> 
   <tr> 
    <td>Steam++_android_arm64_v8a_v2.4.10.apk</td> 
@@ -208,7 +207,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1513'
   </tr> 
  </tbody> 
 </table> 
-<p>详情查看：<a href="https://gitee.com/rmbgame/SteamTools/releases/2.4.10">https://gitee.com/rmbgame/SteamTools/releases/2.4.10</a></p>
+<p>详情查看：<a href="https://gitee.com/rmbgame/SteamTools/releases/2.4.10" blank="_target">https://gitee.com/rmbgame/SteamTools/releases/2.4.10</a></p>
                                         </div>
                                       
 </div>
