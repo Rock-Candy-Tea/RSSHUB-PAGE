@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/08/24/1013472414.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-08-24 02:16:20
+date: 2021-08-24 03:07:29
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/08/24/1013472414.jpg'
 ---
 
@@ -23,6 +23,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/08/24/1013472414.jpg'
 Roguelike动作冒险游戏《失落城堡（Lost Castle） 》原价33元，折后价13元，平史低
 多人策略像素类游戏《脱逃者2（The Escapists 2）》原价78元，折后价19元，平史低
 
-更多游戏的折扣价格，大家可前往「游戏」-「游戏库」-「STEAM」-「折扣促销」中查看。友情提示：为了不错过游戏折扣，各位柄友可以在二柄内点击心仪游戏的“关注”按钮关注游戏，此后便可第一时间收到游戏折扣通知哦！<br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013472414.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013463860.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1015523780.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013485324.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013493895.jpg" referrerpolicy="no-referrer">  
+更多游戏的折扣价格，大家可前往「游戏」-「游戏库」-「STEAM」-「折扣促销」中查看。友情提示：为了不错过游戏折扣，各位柄友可以在二柄内点击心仪游戏的“关注”按钮关注游戏，此后便可第一时间收到游戏折扣通知哦！<br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013472414.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013463860.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1015523780.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013485324.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1013493895.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1017073637.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1017071125.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/3/2021/08/24/1017070584.jpg" referrerpolicy="no-referrer">  
 </div>
             
