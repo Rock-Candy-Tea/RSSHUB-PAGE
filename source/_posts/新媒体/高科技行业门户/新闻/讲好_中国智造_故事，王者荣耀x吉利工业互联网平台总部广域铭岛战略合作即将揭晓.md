@@ -1,0 +1,19 @@
+
+---
+title: '讲好_中国智造_故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791731941082666.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 24 Aug 2021 07:55:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791731941082666.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">2021中国国际智能产业博览会（以下简称“智博会”）于8月23 日－25日在重庆国际博览中心举行，本届大会继续以“智能化：为经济赋能，为生活添彩”为主题，聚焦大数据智能化创新发展。</p><p style="text-indent: 2em; text-align: left;">24日上午，腾讯将与吉利旗下吉利<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongyehulianwang.html" target="_blank" title="工业互联网">工业互联网</a></span>平台总部广域铭岛签署战略合作协议，双方将携手将携手在工业互联网行业生态、工业智能协同创新等领域展开深入合作。而备受期待的《王者荣耀》x吉利工业互联网平台总部广域铭岛创新合作内容也会正式揭晓，希望通过两者的跨界联合，会有更多年轻人认识“中国智造”、爱上“中国智造”。</p><p style="text-indent: 2em; text-align: left;"><strong>《王者荣耀》助力“中国智造”，概念车即将登场诠释新时代工匠精神</strong></p><p style="text-indent: 2em; text-align: left;">本次合作将围绕《王者荣耀》中的人气英雄“鲁班大师”展开，“鲁班大师”将首次走出峡谷，成为吉利工业互联网平台总部广域铭岛的体验官，通过主题内容讲解、形象植入等方式开启多平台宣传共建，用更生动形象的方式传递工业互联网世界的神奇体验，让“中国智造”更具年轻化、大众化、流行化认知，打造更为开阔与更具活力的“中国智造”产业标签。</p><p style="text-indent: 2em; text-align: left;">以英雄“鲁班大师”形象为核心设计的吉利定制概念车也会在本次展会中惊艳亮相，先让我们提前感受下“中国智造”的魅力吧！该款慨念车以吉利领克03＋车型为基础，将鲁班大师的形象通过“中国智造”的先进技术和工匠巧思共同演绎。从展示内容中可以看到，鲁班大师标志性的机械臂通过“开则显、合则藏”的鸥翼门形式呈现，兼顾实用性和工业美感；车身主题配色与鲁班大师的形象色系保持一致，车标则以鲁班大师标志性的“智造之心”为原型设计；除此之外，概念车中首次创造性的尝试将游戏元素与汽车配件结合，在轮毂设计中融入了王者荣耀logo。从整体设计、形象概念、配件定制等多个方面，此款概念车都体现了“中国智造”技术与工匠精神的完美融合。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791731941082666.jpg" title="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" alt="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" width="500" height="333" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791732481006733.jpg" title="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" alt="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" width="500" height="333" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791732757083080.jpg" title="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" alt="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" width="500" height="333" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-08/24/Echo/1629791733001047457.jpg" title="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" alt="讲好“中国智造”故事，王者荣耀x吉利工业互联网平台总部广域铭岛战略合作即将揭晓" width="500" height="333" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作为与工业互联网平台的首次联动，“鲁班大师”的形象可谓是不二之选。在王者世界里，鲁班大师既是一心钻研机关科学之术的天才匠人，也是乐于助人无私分享的稷下大师兄，用自己的行动和作品，传递这份勇于探索、协同创新的精神。因此，《王者荣耀》希望鲁班大师的形象能与现代智能工业技术深度结合，多维度实现工业互联网平台赋能，让更多人了解“中国智造”的精彩故事。这既是对中国传统工匠精神的弘扬与传承，也是在大数据智能时代下工匠精神的全新诠释，更是再现了一场传统制造文化到现代智能智造的奇妙进化。</p><p style="text-indent: 2em; text-align: left;"><strong>未来深度合作推动产业发展，《王者荣耀》助力工业互联网与消费互联网链接升级</strong></p><p style="text-indent: 2em; text-align: left;">除了已经展示的”鲁班大师“主题合作与概念车打造之外，《王者荣耀》期望将互联网领域积累的数字化技术与能力经验，联合广域名岛丰富的供应链管理和工业制造经验，共同探索工业互联网的全新生态，为工业企业的<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>升级提供助力。</p><p style="text-indent: 2em; text-align: left;">此前，《王者荣耀》秉着“承载、演绎、弘扬中国优秀传统文化”的使命，与重庆白鹤梁水下博物馆展开合作，以数字化IP为载体，搭建起用户与传统文化之间沟通的桥梁，让更多的年轻人近距离切身感受到传统文化的丰富内容与魅力；如今，《王者荣耀》又将在重庆智博会上与吉利工业互联网平台总部广域铭岛达成战略合作，通过新模式新技术的探索协同创新，在腾讯助力工业互联网发展的路上发挥自己的力量，也在合作之中逐步夯实并拓宽自身IP的价值，实现共赢，让我们共同期待吧！</p> 
+  
+</div>
+            
