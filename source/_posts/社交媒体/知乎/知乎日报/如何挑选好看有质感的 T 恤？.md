@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-24 09:12:04
-thumbnail: 'https://pic3.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162'
+date: 2021-08-24 10:07:54
+thumbnail: 'https://pica.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-e888e232823e5bc2b000de498eae4d21_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">叽哩哇啦，</span><span class="bio">写小说搞时尚的</span>
 <a href="https://www.zhihu.com/question/458016890/answer/2070170274" class="originUrl" hidden>查看知乎原文</a>
 </strong>
