@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14238/axisstudios_talesofruneterra_demacia_episode_1.jpg'
 author: Axis Studios
 comments: false
-date: 2021-08-24 12:11:35
+date: 2021-08-24 13:15:05
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14238/axisstudios_talesofruneterra_demacia_episode_1.jpg'
 ---
 
