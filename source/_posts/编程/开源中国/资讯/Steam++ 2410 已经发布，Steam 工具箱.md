@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7857'
+headimg: 'https://picsum.photos/400/300?random=1290'
 author: 开源中国
 comments: false
 date: Tue, 24 Aug 2021 15:43:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7857'
+thumbnail: 'https://picsum.photos/400/300?random=1290'
 ---
 
 <div>   
@@ -184,6 +184,10 @@ thumbnail: 'https://picsum.photos/400/300?random=7857'
   <tr> 
    <td></td> 
    <td></td> 
+  </tr> 
+  <tr> 
+   <td>Steam++_macos_x64_v2.4.10.dmg</td> 
+   <td>1F252D0A0837F0AE8DC5F930AD5619F9FA25284E3BD77F09A58098B850E84F1F</td> 
   </tr> 
   <tr> 
    <td>Steam++_macos_x64_v2.4.10.app.zip</td> 
