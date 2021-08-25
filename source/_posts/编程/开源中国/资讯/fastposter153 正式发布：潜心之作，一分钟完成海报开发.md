@@ -1,0 +1,48 @@
+
+---
+title: 'fastposter1.5.3 正式发布：潜心之作，一分钟完成海报开发'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://fastposter.oss-cn-shanghai.aliyuncs.com/v1.4.0/WX20210707-232649%402x.png'
+author: 开源中国
+comments: false
+date: Wed, 25 Aug 2021 13:49:00 GMT
+thumbnail: 'https://fastposter.oss-cn-shanghai.aliyuncs.com/v1.4.0/WX20210707-232649%402x.png'
+---
+
+<div>   
+<div class="content">
+                                                                    
+                                                        <h2 style="text-align:start">fastposter1.5.3正式发布：潜心之作，一分钟完成海报开发</h2> 
+<blockquote> 
+ <p>fastposter低代码海报生成器，一分钟完成海报开发。支持<code>Java</code> <code>Python</code> <code>PHP</code> <code>Go</code> <code>JavaScript</code>等多种语言。</p> 
+</blockquote> 
+<h3 style="text-align:start">future:</h3> 
+<ul> 
+ <li> <p>增加编辑器滚动条</p> </li> 
+</ul> 
+<h3 style="text-align:start">fixbug:</h3> 
+<ul> 
+ <li> <p>修复缩放bug</p> </li> 
+</ul> 
+<h3 style="text-align:start">仓库地址</h3> 
+<p style="text-align:start"><strong>欢迎点亮小星星，加速项目迭代更新</strong></p> 
+<ul> 
+ <li> <p>开发文档：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fposter.prodapi.cn%2Fdocs%2F" target="_blank">https://poster.prodapi.cn/docs/</a></p> </li> 
+ <li> <p>在线体验：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fposter.prodapi.cn%2F%23from%3Dv1.5.3%2Bo" target="_blank">https://poster.prodapi.cn/</a></p> </li> 
+ <li> <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fpsoho%2Ffast-poster" target="_blank">代码仓库-github</a></p> </li> 
+ <li> <p><a href="https://gitee.com/psoho/fast-poster">代码仓库-gitee</a></p> </li> 
+</ul> 
+<h3 style="text-align:start">只需三步，即可完成海报开发 <code>启动服务</code> > <code>编辑海报</code> > <code>生成代码</code></h3> 
+<h4 style="text-align:start">一、启动服务</h4> 
+<pre style="text-align:left">docker run <span style="color:#0000cc">--name</span> fast-poster <span style="color:#0000cc">-p</span> <span style="color:#116644">9001</span>:9001 tangweixin/fast-poster</pre> 
+<h4 style="text-align:start">二、编辑海报</h4> 
+<p style="text-align:start"><img alt="输入图片说明" src="https://fastposter.oss-cn-shanghai.aliyuncs.com/v1.4.0/WX20210707-232649%402x.png" referrerpolicy="no-referrer"></p> 
+<h4 style="text-align:start">三、生成代码</h4> 
+<p style="text-align:start"><img alt="输入图片说明" src="https://fastposter.oss-cn-shanghai.aliyuncs.com/v1.4.0/WX20210707-232717%402x.png" referrerpolicy="no-referrer"></p>
+                                        </div>
+                                      
+</div>
+            

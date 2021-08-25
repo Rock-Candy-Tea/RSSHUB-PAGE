@@ -1,0 +1,18 @@
+
+---
+title: '柚子社新作《PARQUET》steam发售三天倒计时~加心愿单即有机会免单！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1662840_CMUyK.jpg'
+author: 小黑盒
+comments: false
+date: Wed, 25 Aug 2021 14:11:33 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1662840_CMUyK.jpg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#神来之作Ⅵ期#</a><br></p><p>7月30日，超人气美少女游戏品牌“柚子社”（代表作： 《千恋＊万花》、《魔女的夜宴》、《RIDDLE JOKER》等）新搭建的品牌“YUZUSOFTSOUR”（直译是酸柚子）推出全年龄处女作《PARQUET》，并将由HIKARI FIELD于<b>8月27日晚18:00</b>发行国际中文版，目前距离发售倒计时三天，赶紧将其加入愿望单吧！</p><p><br></p><p><img data-gameid="1662840" src="https://cdn.max-c.com/heybox/game/header/1662840_CMUyK.jpg" referrerpolicy="no-referrer"></p><p><br></p><h3>点击上述按钮进入《PARQUET》小黑盒商店界面，并点击【一键加入愿望单】并将截图发至留言区内，即可算作参与抽奖。本次共免费送出5份《PARQUET》CDKEY奖励，发售后将进行开奖，请大家踊跃参与~</h3><p>注：开奖时如果发现中奖楼层的盒友没有将其加入心愿单的话，我们会顺延开奖楼层进行开奖~</p><h3><br></h3><blockquote><p>Steam商店链接：https://store.steampowered.com/app/1662840/PARQUET/</p><p>PV链接：<a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2209034" target="_blank">https://hikarifield.co.jp/parquet</a></p><p>官方网站链接：<a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2209034" target="_blank">https://www.bilibili.com/video/BV1th411z7N4/</a></p></blockquote><p><br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/08/23/e6cff9c62934a9698176054739bd76af/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>本作讲述了一个只拥有他人记忆的主人公和他邂逅的 “两个”女孩的故事，将完全由YUZUSOFT（柚子社）的主力人员负责制作。</p><p> </p><p><img class="lazy" data-height="648" src="https://imgheybox.max-c.com/bbs/2021/08/23/f690078dc2c37deea541c32fec19369d/thumb.png" data-width="1419" referrerpolicy="no-referrer"></p><p>原画与人物设计由梦璃凛、小舞一和羽纯Rio联合担当；菰绵遥华担当SD原画；剧本由天宫Ritsu企划编写；音乐由Famishin与Angel Note携手制作，片头主题曲《BEYOND》由曾为多部热门动漫献唱过主题曲的安月名莉子作词并献唱。<br></p><p><br></p><p>另外值得一提的是，女主角茨木梨乃和城门翼的配音由活跃于动画等业界的人气声优东山奈央担当，一人二役的设定有没有让盒友们遐想连篇呢？</p><p><img class="lazy" data-height="450" src="https://imgheybox.max-c.com/bbs/2021/08/25/ef90635d9620db9378b1c086126d7dde/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="450" src="https://imgheybox.max-c.com/bbs/2021/08/25/2304a108cc7339eed7e8ab6185c3bade/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><p>在题材上，本作选择了“脑机接口”这一紧跟时事的主题，在游戏中被称为Brain-machine Interface，简称BMI，是一种连接大脑和机器的技术。这项技术让人类的记忆得以数据化，为世界发展做出了显著贡献，同时也延伸出了一些灰色领域，比如非法“造人”实验。<br></p><p><br></p><p>而本作的男主角正是由此诞生，他从未拥有过属于自己的记忆，在求知欲的驱使下，踏上了寻找自我之旅，也遇到了不温不火的猫系女子『茨木梨乃』，活泼开朗的犬系女子『城门翼』，而她们的存在同样与非法BMI实验有着密不可分的关联。</p><p> </p><p><img class="lazy" data-height="450" src="https://imgheybox.max-c.com/bbs/2021/08/23/773ef4fc06dcf6952d6f33493d754e00/thumb.png" data-width="800" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="450" src="https://imgheybox.max-c.com/bbs/2021/08/23/15c7ff26980918f557a3de98074e02b3/thumb.png" data-width="800" referrerpolicy="no-referrer"></p><p>怀揣着各自的秘密，伴随着种种变数，“他”和“她们”的同居生活正式拉开序幕——</p><p><br></p><p>点击以下按钮，点击<b>“一键加入心愿单”</b>后将截图发至留言区内即可算作参与抽奖活动！</p><p><img data-gameid="1662840" src="https://cdn.max-c.com/heybox/game/header/1662840_CMUyK.jpg" referrerpolicy="no-referrer"></p><p>望盒友们多多支持！<br></p><p><br></p><p><a href="heybox://open_subject" target="_blank">#steam秋季特卖推荐#</a><a href="heybox://open_subject" target="_blank">#steam#</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><a href="heybox://open_subject" target="_blank">#单机游戏#</a><a href="heybox://open_subject" target="_blank">#galgame#</a><a href="heybox://open_subject" target="_blank">#hikari field#</a><a href="heybox://open_subject" target="_blank">#parquet#</a></p>  
+</div>
+            
