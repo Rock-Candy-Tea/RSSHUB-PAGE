@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/413/711/original/f30d6fea8cbf0379.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/038/415/030/original/b382bbb4e245983a.png'
 author: Mastodon
 comments: false
-date: Wed, 25 Aug 2021 09:44:30 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/413/711/original/f30d6fea8cbf0379.png'
+date: Wed, 25 Aug 2021 11:03:36 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/415/030/original/b382bbb4e245983a.png'
 ---
 
 <div>   
-<hr><br><img src="https://img.pawoo.net/media_attachments/files/038/413/711/original/f30d6fea8cbf0379.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/413/715/original/ca9fefc1d14b9e4d.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/413/720/original/d884e5afe8e2c31e.png" alt="image " referrerpolicy="no-referrer">  
+<hr><br><img src="https://img.pawoo.net/media_attachments/files/038/415/030/original/b382bbb4e245983a.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/415/036/original/46b971c853568b88.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/415/039/original/f478ef696e600a33.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
