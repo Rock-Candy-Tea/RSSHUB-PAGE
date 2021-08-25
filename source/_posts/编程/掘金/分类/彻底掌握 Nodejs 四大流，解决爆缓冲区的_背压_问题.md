@@ -301,6 +301,6 @@ rs.pipe(ws);
 <p>Node.js 也提供了 stream 的 api，包括 Readable 可读流、Writable 可写流、Duplex 双工流、Transform 转换流。它们分别实现 _read、_write、_read + _write、_transform 方法，来做数据的返回和处理。</p>
 <p>创建 Readable 对象既可以直接调用 Readable api 创建，然后重写 _read 方法，也可以继承 Readable 实现一个子类，之后实例化。其他流同理。（Readable 可以很容易的和 generator 结合）</p>
 <p>当读入的速率大于写入速率的时候就会出现“背压”现象，会爆缓冲区导致数据丢失，解决的方式是根据 write 的速率来动态 pause 和 resume 可读流的速率。pipe 就没有这个问题，因为内部做了处理。</p>
-<p>流是掌握 IO 绕不过去的一个概念，而背压问题也是流很常见的问题，希望这篇文章能够帮大家理清思路，真正掌握 stream！</p></div>  
+<p>流是掌握 IO 绕不过去的一个概念，而背压问题也是流很常见的问题，遇到了数据丢失可以考虑是否发生了背压。希望这篇文章能够帮大家理清思路，真正掌握 stream！</p></div>  
 </div>
             

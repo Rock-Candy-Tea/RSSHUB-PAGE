@@ -1,0 +1,18 @@
+
+---
+title: '你的宠物叫什么名字？有什么特别的含义吗？-Dopeboy的回答：一只布偶猫大名曹自立小名旺财'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-0e6b0cd5a666eecc050ad6f82655bd52_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 25 Aug 2021 14:59:08 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-0e6b0cd5a666eecc050ad6f82655bd52_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>你的宠物叫什么名字？有什么特别的含义吗？</strong><br>Dopeboy的回答<br><p>一只布偶猫</p><p>大名曹自立</p><p>小名旺财</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-0e6b0cd5a666eecc050ad6f82655bd52_720w.jpg?source=54b3c3a5" data-rawwidth="1532" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-70f5390e4ee608b7e49ddd7516cc660a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-0e6b0cd5a666eecc050ad6f82655bd52_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-0e6b0cd5a666eecc050ad6f82655bd52_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-fa4237807545b6bc6cbed7ede222066c_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1532" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-e8e4da148ac0a22ad5a30e689996d3a0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-fa4237807545b6bc6cbed7ede222066c_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-fa4237807545b6bc6cbed7ede222066c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-776118266ddca8f4dd0c9c4234e0a509_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1532" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-6ac4e0f965cb8c99bdc045f3ea12be20_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-776118266ddca8f4dd0c9c4234e0a509_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-776118266ddca8f4dd0c9c4234e0a509_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-b08e03aff22cf6dca94bca9206797aca_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1532" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-fa46a45d33167cc71f4b74c24f9e0d80_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-b08e03aff22cf6dca94bca9206797aca_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-b08e03aff22cf6dca94bca9206797aca_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-4493e33aad145c46b10f6771e31ba54b_720w.jpg?source=54b3c3a5" data-rawwidth="2048" data-rawheight="1533" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-39fbe60d2a1ea83ddd71562ba94f8af6_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4493e33aad145c46b10f6771e31ba54b_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-4493e33aad145c46b10f6771e31ba54b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

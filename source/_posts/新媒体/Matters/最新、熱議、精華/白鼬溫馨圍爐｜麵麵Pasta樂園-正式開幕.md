@@ -1,0 +1,19 @@
+
+---
+title: '白鼬溫馨圍爐｜麵麵Pasta樂園-正式開幕'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/e6be6abd-d000-4f78-b3e2-054da60fcb49.jpeg'
+author: Matters
+comments: false
+date: Wed, 25 Aug 2021 13:20:36 GMT
+thumbnail: 'https://assets.matters.news/embed/e6be6abd-d000-4f78-b3e2-054da60fcb49.jpeg'
+---
+
+<div>   
+<p><strong><麵麵澄清葉佩文></strong><br class="smart">在今天晚上6:30時，我重複發表了<strong><u>Matters社區活動-太平山熱血大冒險</u></strong>這篇文<br class="smart">其實我在上星期日，就打好文章，但之後上傳時，卡在正在上傳~這個正在上傳<br class="smart">卡了我兩天，我之後詢問了其他市民，我把文章文字複製下來，重新再打一篇<br class="smart">重發的那一篇成功了，舊文也把草稿砍掉了，但今天晚上竟然第一篇竟然上傳上去了。<br class="smart">沒錯~我也驚呆了，我以為它上傳失敗<strong>。過了四天後</strong>才發表成功，這......文章到底有多大<br class="smart">(之後收到<a class="mention" href="https://matters.news/@percussion19" target="_blank" data-display-name="Esther美樂" data-user-name="percussion19" data-id="VXNlcjo1NjMxMA">﻿<span>@Esther美樂</span>﻿</a> 的通知第一時間，就隱藏下架了)<br class="smart">真的是很不好意思，絕對沒有要炒冷飯的意思，白鼬在這裡跟大家說聲抱歉<br class="smart">(;´༎ຶД༎ຶ`)(;´༎ຶД༎ຶ`)(;´༎ຶД༎ຶ`)<br class="smart"></p><hr><h2><strong>回到正文</strong></h2><blockquote>我開圍爐了~<br class="smart">(前幾天有申請，就不小心過了，本來想說還在構思中，結果還打不到一半，就不小心開好爐了(╯°□°）╯︵ ┻━┻，殺的我措手不及，只好趕鴨子上架，先準備好圍爐的基本資料。<br class="smart"><strong>我覺得這個速度有點太快，我有點也跟不上，我就突然開啟了圍爐。</strong></blockquote><p>沒錯!!!!<strong>麵麵的圍爐-"麵麵Pasta樂園"</strong>正式上路</p><hr><h2>說一下圍爐名子的想法吧</h2><p><strong>"麵麵Pasta"樂團</strong></p><p>發想，<strong>Pasta</strong>是各式義大利麵的統稱，有很多的各式各樣的形狀和口味。<br class="smart">不論是長是短、是寬是瘦、是鹹是甜，都可以變成各式各樣的義式料理。<br class="smart">包容各式各樣的想法、創作、顏色，是我的樂園的樣子。<br class="smart"><em><s>不管你喜歡燉飯、焗烤、比薩、薯條、哪種口味都可以XDD<br class="smart"></s></em></p><hr><p>我的圍爐計畫-分為三個階段<br class="smart"><br class="smart"><strong>第一階段(嘗試階段)</strong><br class="smart">畢竟我還是才來這裡，不到三的月的小菜鳥(感謝愛戴)<br class="smart">我會先邀請跟我比較<strong>熟悉的市民</strong>，(如果想加圍爐，也可以在樓下留言，我怕我沒邀請到)<br class="smart">暫時主要發表創作會<strong>以白鼬的人生故事、人生觀、小說創作、手做等等</strong><br class="smart"><strong>(畢竟這個對我來說要嘗試比較難一點，你會認識更多的白鼬面向)</strong></p><hr><p><strong>第二階段(正式階段)</strong><br class="smart">這個應該會把<strong>創作再擴大</strong>，讓普遍市民都能加入，要斗內我也是可以的(快砸我~XD)<br class="smart">(畢竟現階段我的作品還不夠成熟，可以到大家每個月支持的程度)<br class="smart">要做什麼樣的創作，<strong>真的還沒想太多。(現在想寫的已經太多啦)</strong><br class="smart">(但應該會推廣新人的文章、還有基本廣播大家的文章)</p><hr><p><strong>第三階段(超級階段)</strong><br class="smart">這個應該就像各位大神一樣，開始照顧各式各樣的新人，應該會以不收費為主。<br class="smart">開始挖掘不同新文章的概念，開始寫文章推薦文，之類的吧。<br class="smart">這可能要到某筆、某爺、某莎、某線的等級。(才會啟動吧)<br class="smart">或是分享一下我在這裡的老談經驗、人生指南、創作靈感、<br class="smart">(我是沒想到那麼遠拉，就先訂個偉大的目標一下)</p><hr><h2><strong><麵麵碎碎念></strong></h2><p>老實說，我真的還沒想到我會那麼早開圍爐，其實之前就有被建議，開一下我至少推遲了一個月，我也還沒想好我要做哪一方面的圍爐。<br class="smart"></p><p>但可以很肯定的是<br class="smart"><strong>在這個冷漠的科技年代，如果可以有一個地方可以讓人舒服自在的說話和創作。</strong><br class="smart">是這個世代所缺乏的，麵麵的樂園歡迎各式各樣的人來休息或是來玩耍。<br class="smart">我相信創作有價，<strong>不是人人天生就是各種文學家或是創作者。<br class="smart"></strong>如果需要一個讓你跨出那一步的地方，卻很害怕和怯步，那麵麵願意提供手給予協助。<strong><br class="smart"><br class="smart"></strong>因為我也不覺得我的文章寫的有多好，但也是被一直鼓勵，我才覺得我可以做這件事情<strong><br class="smart">我真的覺得我很幸運，短短的時間就遇到了這麼多溫暖的市民們願意陪我一起創作。</strong></p><blockquote>這也是麵麵開圍爐想做的，或許這個世界很糟糕，但如果有一個地方可以讓你好好說說話，好好的休息，再去面對這個世界。</blockquote><pre class="ql-syntax">願我們可以溫柔的推翻這個世界-吳青峰
+</pre><hr><p>這個月真的發生太多事情了，從發起<strong>第一篇社區活動、開啟圍爐</strong>、有點速度太快了。<br class="smart">我也有點措手不及，我覺得我在趕飛機。<br class="smart">最近還要.....做蛋黃酥~(;´༎ຶД༎ຶ`)<br class="smart">放心已經開始準備了，不要催我。<br class="smart"><br class="smart">如果想要看到麵麵的圍爐成長史的也歡迎，申請進圍爐喔<br class="smart">(限時一天到明天8/26號為止，想加入圍爐的留言請舉手，我會邀請你)</p><p><br class="smart">最後用美美的閃電湖(做收尾，這是我跟朋友去爬山拍的(感謝朋友抖內照片)<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/e6be6abd-d000-4f78-b3e2-054da60fcb49.jpeg" data-asset-id="e6be6abd-d000-4f78-b3e2-054da60fcb49" referrerpolicy="no-referrer"><figcaption><span>來源-白鼬的朋友</span></figcaption></figure><p><br></p>  
+</div>
+            
