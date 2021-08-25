@@ -33,7 +33,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 </iframe>
 </p>
 <p style="text-indent:2em;">
-1、《消逝的光芒2》新演示，《地平线5》Steam预购开启
+<strong><span style="font-size:16px;">1、《消逝的光芒2》新演示，《地平线5》Steam预购开启</span></strong> 
 </p>
 <p style="text-indent:2em;">
 不是我没货，之前都说完了啊。
@@ -60,7 +60,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 香，真香。
 </p>
 <p style="text-indent:2em;">
-2、“一言难尽”…《国王的恩赐2》正式发售，Steam褒贬不一
+<strong><span style="font-size:16px;">2、“一言难尽”…《国王的恩赐2》正式发售，Steam褒贬不一</span></strong> 
 </p>
 <p style="text-indent:2em;">
 回合制角色扮演老游戏新作《国王的恩赐2》，今天正式发售。虽然吧名声在外，销售热度也还可以，但从玩家评价来看，似乎并不太理想。
@@ -71,11 +71,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 <p style="text-indent:2em;">
 目前《国王的恩赐2》在Steam的近700条评价中，仅获得了“褒贬不一”，好评率也只有45%。玩家普遍表示，本作的画面粗糙、人物僵硬，有些机制做的也挺迷，感觉不像21年，像是11年的。不过呢，还是有不少玩家给出了正面评价的，《国王的恩赐2》售价199元，感兴趣的朋友可以尝尝看。
 </p>
-<p style="text-indent:2em;">
+<h3 style="text-indent:2em;">
 新闻一句话
-</p>
+</h3>
 <p style="text-indent:2em;">
-1、Demo年底前，《三伏》故事梗概+角色简介公开
+<strong>1、Demo年底前，《三伏》故事梗概+角色简介公开</strong> 
 </p>
 <p style="text-indent:2em;">
 《烟火》开发商的国产恐怖新作《三伏》，今天公开了故事梗概与主要角色简介，本作的故事背景设定于2000年前后，序章开发已经完成，试玩Demo预计年底前公布。
@@ -84,7 +84,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 <img src="https://img.3dmgame.com/uploads/images/news/20210825/1629876399_629036.jpg" alt="3DM速报：《地平线5》Steam预购开启 《街霸》豪鬼联动怪猎崛起" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-2、我傻了…《街霸》豪鬼联动《怪物猎人：崛起》
+<strong>2、我傻了…</strong><strong>《街霸》豪鬼联动《怪物猎人：崛起》</strong> 
 </p>
 <p style="text-indent:2em;">
 卡普空确认，来自《街头霸王》的知名角色“豪鬼”，将于8月27日与《怪物猎人：崛起》展开联动，这场面……我傻了已经。
@@ -93,7 +93,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 <img src="https://img.3dmgame.com/uploads/images/news/20210825/1629880013_523786.jpg" alt="3DM速报：《地平线5》Steam预购开启 《街霸》豪鬼联动怪猎崛起" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-3、《黑相集：灰冥界》10月22日正式发售
+<strong>3、《黑相集：灰冥界》10月22日正式发售</strong> 
 </p>
 <p style="text-indent:2em;">
 《黑相集》三部曲最后一部《灰冥界》将于10月22日正式发售，本作现已在Steam开启预购，标准版148元，三部曲捆绑包售价255元。
@@ -102,7 +102,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629862459_5079
 <img src="https://img.3dmgame.com/uploads/images/news/20210825/1629855069_177164.jpg" alt="3DM速报：《地平线5》Steam预购开启 《街霸》豪鬼联动怪猎崛起" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-4、《命运2：邪姬魅影》明年2月发售，Steam售价159元
+<strong>4、《命运2：邪姬魅影》明年2月发售，Steam售价159元</strong> 
 </p>
 <p style="text-indent:2em;">
 Bungie确认《 命运》的全新资料片“邪姬魅影”将于明年2月23日正式发售，玩家将深入萨瓦图恩的王座世界，发现她和她的光明邪魔族如何窃取光能的秘密。本作现已在Steam开启预购，售价159元。
