@@ -128,9 +128,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p>各社团的发表情包，↓请检查下方网址！↓</p>
 <p><a href="http://cool-create.cc/arrange-daisakusen/#strategy02"><strong>http://cool-create.cc/arrange-daisakusen/#strategy02</strong></a></p>
 <p> </p>
-<p>与东方Lunati解禁一同，东方同人音乐流通也开始了『<a href="https://sites.google.com/ban-dai.co.jp/2021summer/"><strong>夏</strong><strong>日三周连续发布祭</strong></a>』！</p>
+<p>与东方Lunatic解禁一同，东方同人音乐流通也开始了『<a href="https://sites.google.com/ban-dai.co.jp/2021summer/"><strong>夏</strong><strong>日三周连续发布祭</strong></a>』！</p>
 <p><a href="https://sites.google.com/ban-dai.co.jp/2021summer/"><strong>https://sites.google.com/ban-dai.co.jp/2021summer/</strong></a></p>
-<p>qup</p>
 </blockquote>
   
 </div>

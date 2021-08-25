@@ -23,7 +23,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210825/1629853937_6422
 与该公司在手机、平板电脑和 PC 上的云游戏服务一样，游戏机上的云游戏也需要订阅 Game Pass Ultimate，支持高达 1080p 分辨率和 60 FPS刷新率。
 </p>
 <p style="text-indent:2em;">
-微软还强调，云游戏将允许 Xbox One 用户享受无法以其他方式运行专为 X|S 系列设计的游戏，例如《灵媒》或 《微软飞行模拟》。<br>
+微软还强调，云游戏将允许 Xbox One 用户享受无法以其他方式运行专为 X|S 系列设计的游戏，例如《灵媒》或 《微软飞行模拟》。
+</p>
+<p style="text-indent:2em;">
 主机云游戏功能的测试将于今年秋季在 Xbox Insiders 测试版计划中上线。
 </p>          
 </div>
