@@ -1,0 +1,18 @@
+
+---
+title: '知乎APP无事评论区却崩了，网友直呼_有毒_'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e0039_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 24 Aug 2021 14:23:42 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e0039_1024.jpg'
+---
+
+<div>   
+<p>今日，有众多网友反馈称，知乎评论区无法打开，更无法留言，在缴话费、换网、重启手机几次后都是同样的情况。不明真相的网友甚至以为是自己的网崩了。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e0039_1024.jpg" data-height="1731" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e0039_1024.jpg" referrerpolicy="no-referrer"></div></div>知乎评论区截图<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202108/6124c53bb15ec06ddf0e003a_1024.jpg" data-height="313" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/6124c53bb15ec06ddf0e003a_1024.jpg" referrerpolicy="no-referrer"></div></div>知乎截图<p></p><p>通过观察发现，在知乎热门文章中评论数量显示均为零，此外，评论区在持续加载后，会弹出 " 条评论被折叠（为什么）" 的显示。</p><p>随后，# 知乎评论区崩了 # 冲上微博热搜。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202108/6124c53bb15ec06ddf0e003b_1024.jpg" data-height="84" data-width="282" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/6124c53bb15ec06ddf0e003b_1024.jpg" referrerpolicy="no-referrer"></div></div>网友评论却分成两派。一派表示不喜欢知乎，指责知乎用户喜欢编故事，另一派认为在知乎上能看到比较好的科普和分析。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e003c_1024.jpg" data-height="1061" data-width="1125" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e003c_1024.jpg" referrerpolicy="no-referrer"></div></div>还有网友调侃称知乎有毒，APP 没崩，只崩评论区。更有喜欢吃瓜的群众已搬好小板凳坐等 " 大瓜 " 出现。<p></p><p>部分网友则化身 " 福尔摩斯 " 推断起知乎评论区崩掉的原因。其中 @阿旭今天吃瓜了吗 表示，APP 没崩，只有评论区崩了，推断评论区功能是单独的 js 代码从独立的 MongoDB 评论数据库中取数据。刷新三次可以显示一次，说明前后端都没问题，可能是遭到恶意攻击，触发了服务熔断。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e003d_1024.jpg" data-height="134" data-width="580" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/6124c53bb15ec06ddf0e003d_1024.jpg" referrerpolicy="no-referrer"></div></div>对此，知乎官方微博对故障问题作出致歉，并解释了问题出现的原因及目前修复进展。<p></p><p>乎官方微博回应称，服务依赖的底层数据库遇到稳定性问题，因技术故障导致评论服务暂时无法使用。技术故障期间，评论功能无法阅读和添加。知乎技术部门已全力修复，目前评论功能正在逐步恢复正常。</p><p>截至目前，评论区功能已恢复正常。</p><p>今年 3 月 26 日，知乎在纽交所挂牌上市。但关于知乎的负面 " 声讨 " 较多，很多网友表示知乎体验感变了， " 谢邀，人在美国，刚下飞机 " 等段子内容颇高；广告也越来越多等。</p><p>而不久前，知乎还公布了 2021 年半年报。数据显示，上半年，知乎营收 11.17 亿元，较 2020 年同期的 4.5 亿元增长 148.5%，毛利率由去年同期的 48.4% 增长至 2021 年第二季度的 59%。</p><p>但依旧没有盈利，上半年，知乎净亏损 6.46 亿元，2020 年同期净亏损 3.17 亿元，净亏损扩大 203%。</p><p>知乎的收入则主要来自广告业务收入、会员收入、内容解决方案和其他业务收入 4 个部分。其中占知乎主要业务收入的仍是广告，也正是因为广告的软植入较多让外界对知乎的质疑声不断。</p><p>你对知乎有什么看法呢？</p><p>（编辑 / 崔崔）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
