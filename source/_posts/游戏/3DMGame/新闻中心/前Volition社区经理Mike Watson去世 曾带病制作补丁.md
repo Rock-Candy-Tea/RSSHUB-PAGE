@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210826/1629967841_4686
 <img src="https://img.3dmgame.com/uploads/images/news/20210826/1629967901_722071.jpg" alt="前Volition社区经理Mike Watson去世 曾带病制作补丁" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-之后，他表示自己是自愿为《黑道圣徒2》制作补丁的，虽然当时公司向他保证一定会完成该补丁工作，为此公司又聘请了一位程序员。
+之后，他表示自己是自愿为《黑道圣徒2》制作补丁，虽然当时公司向他保证一定会完成该补丁工作并为此另外聘请了一名程序员。
 </p>          
 </div>
             
