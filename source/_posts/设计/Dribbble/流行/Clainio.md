@@ -5,17 +5,17 @@ categories:
  - 设计
  - Dribbble
  - 流行
-headimg: 'https://picsum.photos/400/300?random=4328'
+headimg: 'https://picsum.photos/400/300?random=3007'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=4328'
+thumbnail: 'https://picsum.photos/400/300?random=3007'
 ---
 
 <div>   
 <div class="media-content">
       <div class="video-wrap">
-        <video class="lrg-16x12" preload="true" muted loop playsinline autoplay src="https://cdn.dribbble.com/users/194964/screenshots/16271592/media/3f3d1c2a9740b58d83d3501987226478.mp4">
+        <video class="lrg-16x12" preload="true" muted loop playsinline autoplay src="https://cdn.dribbble.com/users/194964/screenshots/16310982/media/ecad5adac1b087d6fd177399e9b68286.mp4">
         </video>
         <div class="video-controls">
           <span class="mute-controls">

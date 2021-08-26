@@ -1,0 +1,18 @@
+
+---
+title: '《极限竞速 地平线5》Steam版预购价格及新截图公开'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657af8e9f0974d849a129_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 25 Aug 2021 15:21:46 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657af8e9f0974d849a129_1024.jpg'
+---
+
+<div>   
+<p>微软于今天凌晨放出了《极限竞速 地平线 5》的封面车型宣传视频和开场 8 分钟实机演示，同时公布了以本作为主题的限量版手柄。</p><p>目前本作的 Steam 版已经开启预售，国区标准版售价 248 元，豪华版售价 309 元，终极版售价 389 元。除获得各类扩展内容外，购买终极版的玩家可于 11 月 5 日提前解锁游戏。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202108/612657af8e9f0974d849a129_1024.jpg" data-height="634" data-width="1010" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657af8e9f0974d849a129_1024.jpg" referrerpolicy="no-referrer"></div></div>官方还放出了本作的数张全新截图。《极限竞速 地平线 5》将于 11 月 9 日登陆 Xbox Series X|S / Xbox One / PC 平台，首发加入 XGP 阵容。本作的地图大小将是前作《极限竞速 地平线 4》的 1.5 倍，包含 11 种地形，前作中的「季节变化」在本作中也得到了保留和改进。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202108/612657af8e9f0974d849a12a_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612657af8e9f0974d849a12a_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202108/612657af8e9f0974d849a12b_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657af8e9f0974d849a12b_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202108/612657af8e9f0974d849a12c_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612657af8e9f0974d849a12c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202108/612657af8e9f0974d849a12d_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657af8e9f0974d849a12d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202108/612657b08e9f0974d849a12e_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612657b08e9f0974d849a12e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres2.myzaker.com/202108/612657b08e9f0974d849a12f_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612657b08e9f0974d849a12f_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
