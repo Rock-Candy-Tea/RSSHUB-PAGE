@@ -5,11 +5,11 @@ categories:
  - 音视频
  - 喜马拉雅
  - 专辑（不输出 ShowNote）
-headimg: 'https://picsum.photos/400/300?random=9840'
+headimg: 'https://picsum.photos/400/300?random=1295'
 author: 喜马拉雅
 comments: false
 date: Wed, 18 Aug 2021 10:30:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9840'
+thumbnail: 'https://picsum.photos/400/300?random=1295'
 ---
 
 <div>   

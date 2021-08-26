@@ -25,7 +25,7 @@ X/S。目前《黑道圣徒》重启版<a href="https://www.epicgames.com/store/
 根据Epic商城，《黑道圣徒》重启版支持合作模式，支持手柄游玩，语言方面支持简体和繁体中文字幕。白金版游戏包含《黑道圣徒》本体游戏，预购奖励，季票和《黑道圣徒3：重制版》（现已限时免费）。
 </p>
 <p style="text-align:center;text-indent:2em;">
-<img src="https://img.3dmgame.com/uploads/images/news/20210826/1629941292_948916.jpg" alt="《黑道圣徒：重启版》Epic开启预购 209元支持中文" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210826/1629941292_948916.jpg" alt="《黑道圣徒：重启版》Epic开启预购 209元支持中文" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 欢迎来到圣多伊列索，这是一个充满活力的虚构城市，位于美国西南部中心地带。欢迎来到圣多伊列索，这是一个充满活力的虚构城市，位于美国西南部。在一个充斥着犯罪的世界里，一群年轻的朋友展开自己的犯罪事业，力图白手起家并成为一方之霸。
