@@ -14,12 +14,12 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210826/1629943040_5429
 
 <div>   
 <p style="text-indent:2em;">
-在广受好评的Firaxis Games和2K倾力打造的这款全新战略角色扮演游戏中，你将成为传奇英雄的一员，直面漫威世界的黑暗面;收看将在9 月 2 
+在广受好评的Firaxis Games和2K倾力打造的这款全新战略角色扮演游戏中，你将成为传奇英雄的一员，直面<a target="_blank" href="https://www.3dmgame.com/tag/manwei_1/">漫威</a>世界的黑暗面;收看将在9 月 2 
 日全球首播的游戏玩法实际影片
-</p><p align="center">
+</p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210826/1629943040_542904.jpg" alt="黑暗来临，苏醒吧！ Firaxis Games开发的《漫威暗夜之子》 将于2022年3月全球推出" referrerpolicy="no-referrer"> 
 </p>
-<p></p>
 <p style="text-indent:2em;">
 2K和Marvel 
 Entertainment今天公布了《漫威暗夜之子》，这款全新的角色扮演策略游戏以漫威宇宙的黑暗面为背景。成为暗夜之子的一员，与伙伴联手对抗来自冥界的恶魔军团。 
@@ -45,7 +45,7 @@ One、Nintendo Switch和Windows PC(Steam及Epic Games Store)平台推出。
 <img src="https://img.3dmgame.com/uploads/images/news/20210826/1629943086_225820.jpg" alt="黑暗来临，苏醒吧！ Firaxis Games开发的《漫威暗夜之子》 将于2022年3月全球推出" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-“能与Firaxis Games开发团队携手合作，我们非常开心，他们把打造优秀策略游戏的历史传统和对漫威超级英雄的热爱完美结合在一起，”Marvel 
+“能与Firaxis Games开发团队携手合作，我们非常开心，他们把打造优秀策略游戏的历史传统和对漫威<a target="_blank" href="https://www.3dmgame.com/tag/superhero_1/">超级英雄</a>的热爱完美结合在一起，”Marvel 
 Games创意副总裁Bill 
 Rosemann如是说。“《漫威暗夜之子》不仅能让玩家与传奇英雄们肩并肩作战，还能感受全新的原创剧情，深入了解漫威世界的黑暗面。黑暗来临。苏醒吧!”
 </p>
