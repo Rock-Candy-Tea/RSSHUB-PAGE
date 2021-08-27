@@ -8,7 +8,7 @@ categories:
 headimg: 'https://di.gameres.com/attachment/forum/202108/26/092752xheojluwnbw3ehbl.png'
 author: GameRes 游资网
 comments: false
-date: Invalid Date
+date: Thu, 26 Aug 2021 00:00:00 GMT
 thumbnail: 'https://di.gameres.com/attachment/forum/202108/26/092752xheojluwnbw3ehbl.png'
 ---
 
