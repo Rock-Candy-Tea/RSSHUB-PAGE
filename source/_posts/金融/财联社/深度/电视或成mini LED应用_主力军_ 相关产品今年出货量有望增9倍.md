@@ -16,7 +16,7 @@ thumbnail: 'https://img.cls.cn/images/20210827/w1Z9M3Bo1D.png'
 <div class="m-b-10"><p><strong>《科创板日报》（上海，研究员 郑远方）讯，</strong>随着今年主流终端厂商相继推出新品，mini-LED渗透率逐步加速，TCL实业副总裁、TCL电子CEO张少勇昨日更是直言“mini LED才是大屏未来”。</p>
 <p>而据研究机构Omdia最新报告显示，<strong>今年全球mini LED电视机出货量预计将达500万台，是去年（50万台）的10倍之多；在整体电视机出货量中，mini LED占比有望从去年0.02%扩大至2.2%。预计2025年，mini LED背光电视出货量将达2500万台，占整个电视市场的10%。</strong></p>
 <p><img src="https://img.cls.cn/images/20210827/w1Z9M3Bo1D.png" alt="image" referrerpolicy="no-referrer"></p>
-<p><strong>出货量激增的背后，是主流玩家数量的大幅增长。</strong>回顾2020年，唯一一家生产商用mini-LED电视的厂商是TCL。今年以来，三星率先发力，推出QLED mini LED电视，预计全年生产200万台；LG展示了QNED mini LED电视；7月底，华为同样发布了首款mini-LED背光电视，售价24999元。此外，TCL、小米、海信、飞利浦等多家厂商也相继公布了自家mini LED产品，价格在1万到数万元不等。</p>
+<p><strong>出货量激增的背后，是主流玩家数量的大幅增长。</strong>回顾2020年，生产商用mini-LED电视的厂商仅有一家TCL。今年以来，三星率先发力，推出QLED mini LED电视，预计全年生产200万台；LG展示了QNED mini LED电视；7月底，华为同样发布了首款mini-LED背光电视，售价24999元。此外，TCL、小米、海信、飞利浦等多家厂商也相继公布了自家mini LED产品，价格在1万到数万元不等。</p>
 <p>与此同时，mini LED显示器也开始受到终端厂商青睐，三星、戴尔、联想等相继发布新款产品，定位于超高端显示市场。</p>
 <p>不过相较之下，mini-LED在消费电子领域的应用进度有些迟缓。目前行业“风向标”苹果领跑，已于4月推出首款搭载mini LED屏幕的iPad Pro，Q3还将发布mini LED新款MacBook Pro。天风国际分析师郭明錤指出，苹果推广mini-LED趋势明显，预计公司多款mini LED产品发布后，将引领新型显示趋势，并带动其他厂商跟随，从而给整个市场带来可观的增量空间。</p>
 <p>从上述产品价位来看，目前成本高企仍是mini-LED要面临的一大难题。以高密度AM mini LED背光为例，其成本是普通LCD的4倍。不过Omdia上述报告预计，<strong>随着时间推移，mini LED背光LCD和普通LCD之间的成本差距将迅速缩小。</strong>2025年，在采用低密度mini LED背光并优化LED芯片设计的情况下，成本将缩减到1.2倍，有望加速mini LED背光渗透率。</p>
