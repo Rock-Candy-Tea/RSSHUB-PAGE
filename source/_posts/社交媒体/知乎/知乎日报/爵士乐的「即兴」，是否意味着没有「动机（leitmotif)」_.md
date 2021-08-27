@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-08-27 10:07:38
-thumbnail: 'https://pic1.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162'
+date: 2021-08-27 11:05:52
+thumbnail: 'https://pica.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-fe3e346407662ab78f598f116dd1abf5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">沙漏，</span><span class="bio">10年国际教师，演奏经验。南方教育时报专栏作家。</span>
 <a href="https://www.zhihu.com/question/480462650/answer/2084271604" class="originUrl" hidden>查看知乎原文</a>
 </strong>
