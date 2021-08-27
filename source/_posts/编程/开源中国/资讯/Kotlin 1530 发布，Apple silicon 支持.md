@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4069'
+headimg: 'https://picsum.photos/400/300?random=8522'
 author: 开源中国
 comments: false
-date: Thu, 26 Aug 2021 23:51:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4069'
+date: Fri, 27 Aug 2021 07:50:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8522'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Kotlin 1.5.30 现已发布。这是 Kotlin 1.6.0 之前的最后一个增量版本，包含了许多计划在 Kotlin 1.6.0 中发布的实验性语言和标准库功能。这些实验性功能包括 sealed when 语句、对 opt-in 要求的修改、注解类的实例化、对 Duration 和 Regex stdlib API 的改进等等。</p> 
+                                                                                            <p>Kotlin 1.5.30 现已发布。这是 Kotlin 1.6.0 之前的最后一个增量版本，包含了许多计划在 Kotlin 1.6.0 中发布的实验性语言和标准库功能。这些实验性功能包括 sealed when 语句、对 opt-in 要求的修改、注解类的实例化、对 Duration 和 Regex stdlib API 的改进等等。</p> 
 <p>通过 Kotlin 1.5.30，你还可以享受对 Apple silicon 的原生支持、Kotlin/JS IR 后端晋升为 Beta 版、能够在多平台应用程序的共享原生代码中使用自定义 cinterop 库、支持 Kotlin Gradle 插件提供的 Java 工具链等等。</p> 
 <p>此版本主要更新内容如下：</p> 
 <ul> 

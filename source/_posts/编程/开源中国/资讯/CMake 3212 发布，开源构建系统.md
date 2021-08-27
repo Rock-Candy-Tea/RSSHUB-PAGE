@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9022'
+headimg: 'https://picsum.photos/400/300?random=8072'
 author: 开源中国
 comments: false
-date: Thu, 26 Aug 2021 23:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9022'
+date: Fri, 27 Aug 2021 07:33:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8072'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或 Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
+                                                                                            <p>CMake 是一个跨平台的自动化构建系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或 Windows Visual C++ 的 projects/workspaces 。文件 CMakeLists.txt 需要手工编写，也可以通过编写脚本进行半自动的生成。</p> 
 <p>CMake 3.21.2 发布，更新内容如下：</p> 
 <ul> 
  <li>Android：修复 arm64 mac 上的 NDK 工具链目录</li> 

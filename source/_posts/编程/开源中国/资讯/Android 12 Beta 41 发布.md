@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2079'
+headimg: 'https://picsum.photos/400/300?random=2024'
 author: 开源中国
 comments: false
 date: Fri, 27 Aug 2021 07:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2079'
+thumbnail: 'https://picsum.photos/400/300?random=2024'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>如果用户手中的设备已经在运行开发者预览版或测试版，将可以直接通过 OTA 的方式更新到 Beta 4.1 版本。</p> 
+                                                                                            <p>如果用户手中的设备已经在运行开发者预览版或测试版，将可以直接通过 OTA 的方式更新到 Beta 4.1 版本。</p> 
 <p>Android 12 Beta 4 的这个小更新包括以下修复：</p> 
 <ul> 
  <li>修正了一个导致一些设备在重启设备后卡在启动循环中的问题 (<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fissuetracker.google.com%2Fissues%2F193789343" target="_blank">Issue #193789343</a>)</li> 

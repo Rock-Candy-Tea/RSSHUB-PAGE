@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210827/1630020712_2897
 
 <div>   
 <p style="text-indent:2em;">
-《<a target="_blank" href="https://www.3dmgame.com/games/battlefieldv/">战地5</a>》<a href="https://store.steampowered.com/app/1238810/_5/" target="_blank">日前在Steam上开启了免费试玩活动</a>，还剩下两天时间，同时《战地5：终极版》也在Steam开启一折促销，原价228元，现价只需22元。《战地5》2018年11月发售，最近评价为“褒贬不一”，支持简体中文。
+《<a target="_blank" href="https://www.3dmgame.com/games/battlefieldv/">战地5</a>》<a href="https://store.steampowered.com/app/1238810/_5/" target="_blank">日前在Steam上开启了免费试玩活动</a>，还剩下两天时间，同时《战地5：终极版》也在Steam开启一折促销，原价228元，现价只需22元。促销截止到9月9日。《战地5》2018年11月发售，最近评价为“褒贬不一”，支持简体中文。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210827/1630020712_289735.jpg" alt="《战地5》Steam开启免费试玩 终极版降价90%" referrerpolicy="no-referrer"> 
@@ -27,7 +27,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210827/1630020712_2897
 <img src="https://img.3dmgame.com/uploads/images/news/20210827/1630020649_108006.jpg" alt="《战地5》Steam开启免费试玩 终极版降价90%" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>《战地5》终极版包含《战地5》主游戏和最齐全的内容收录：</strong>
+<strong>《战地5》终极版包含《战地5》主游戏和最齐全的内容收录：</strong> 
 </p>
 <p style="text-indent:2em;">
 自发行以来、第 1 年和第 2 年的所有游戏内容（武器、载具和配备）
@@ -54,7 +54,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210827/1630020712_2897
 系统需求
 </h3>
 <p style="text-indent:2em;">
-<strong>最低配置:</strong>
+<strong>最低配置:</strong> 
 </p>
 <p style="text-indent:2em;">
 需要 64 位处理器和操作系统
@@ -79,7 +79,7 @@ DirectX 版本: 11
 存储空间: 需要 50 GB 可用空间
 </p>
 <p style="text-indent:2em;">
-<strong>推荐配置:</strong>
+<strong>推荐配置:</strong> 
 </p>
 <p style="text-indent:2em;">
 需要 64 位处理器和操作系统

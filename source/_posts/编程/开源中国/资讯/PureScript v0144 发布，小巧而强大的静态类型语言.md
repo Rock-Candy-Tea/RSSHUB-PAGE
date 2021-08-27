@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9355'
+headimg: 'https://picsum.photos/400/300?random=2071'
 author: 开源中国
 comments: false
 date: Fri, 27 Aug 2021 07:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9355'
+thumbnail: 'https://picsum.photos/400/300?random=2071'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>PureScript  v0.14.4 发布了。PureScript 是个小巧而强大的静态类型语言，可以编译成 JavaScript。PureScript 主要是由 Haskell 和 PureScript 编写的。</p> 
+                                                                                            <p>PureScript  v0.14.4 发布了。PureScript 是个小巧而强大的静态类型语言，可以编译成 JavaScript。PureScript 主要是由 Haskell 和 PureScript 编写的。</p> 
 <p><strong>Bug 修复：</strong></p> 
 <ul> 
  <li> <p>解决当 all 和 right 已经关闭 rows 时，Prim.Row.Union left right all 对 left 的约束（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fpurescript%2Fpurescript%2Fpull%2F3720" target="_blank">#3720</a>）。反映现有的函数依赖 all right -> left</p> </li> 

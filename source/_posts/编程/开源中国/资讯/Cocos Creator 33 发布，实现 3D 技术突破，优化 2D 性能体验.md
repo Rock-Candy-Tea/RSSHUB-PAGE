@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-e619ad3eca6561e11b0095b0082328c9638.png'
 author: 开源中国
 comments: false
-date: Thu, 26 Aug 2021 23:34:00 GMT
+date: Fri, 27 Aug 2021 07:34:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-e619ad3eca6561e11b0095b0082328c9638.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Cocos Creator 3.3 正式版已发布。</p> 
+                                                                                            <p>Cocos Creator 3.3 正式版已发布。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-e619ad3eca6561e11b0095b0082328c9638.png" referrerpolicy="no-referrer"></p> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.cocos.com%2Fcocos-creator-3-3-%25e4%25bb%258a%25e6%2597%25a5%25e5%258f%2591%25e5%25b8%2583%25ef%25bc%258c%25e5%25ae%259e%25e7%258e%25b0-3d-%25e6%258a%2580%25e6%259c%25af%25e7%25aa%2581%25e7%25a0%25b4%25ef%25bc%258c%25e4%25bc%2598%25e5%258c%2596-2d-%25e6%2580%25a7%25e8%2583%25bd%25e4%25bd%2593%25e9%25aa%258c%239569" target="_blank">发布公告写道</a>，早在 v3.0 正式发布时，Cocos 便升级成为 2D & 3D 能力兼备的游戏引擎，不论是多后端渲染框架、还是所见即所得的编辑器，以及 PBR 物理渲染，已经让 Cocos 具备完整开发 3D 手游和小游戏的能力。当版本升级到 v3.1，延时渲染管线的出现和 PhysX 物理支持，则让 Cocos 具备更大的底气，为 Cocos 在移动端挑战次世代品质的游戏画面奠定了基础。而与华为、字节跳动的深度合作，更是为 Cocos 开拓更多可能性——v3.2.0 的更新，让 Cocos 成为全球首家支持鸿蒙系统的游戏引擎，为之后的游戏领域布局，带来深远的影响。</p> 
 <p>现在 Cocos Creator 3.3 正式版的发布，基于对引擎性能提升的自信，以及之前对 3D 研发投入的厚积薄发，开发团队制作了「赛博朋克」技术演示视频。</p> 

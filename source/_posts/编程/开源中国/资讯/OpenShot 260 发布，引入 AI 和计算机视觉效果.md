@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3857'
+headimg: 'https://picsum.photos/400/300?random=1213'
 author: 开源中国
 comments: false
 date: Fri, 27 Aug 2021 07:15:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3857'
+thumbnail: 'https://picsum.photos/400/300?random=1213'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>OpenShot 是跨平台的开源视频剪辑软件，该项目在 2008 年 8 月由 Jonathan Thomas 发起，其目标是提供稳定、自由且易于使用的视频编辑器。OpenShot 的核心视频编辑功能是以 C++ 库实现，称之为 libopenshot。</p> 
+                                                                                            <p>OpenShot 是跨平台的开源视频剪辑软件，该项目在 2008 年 8 月由 Jonathan Thomas 发起，其目标是提供稳定、自由且易于使用的视频编辑器。OpenShot 的核心视频编辑功能是以 C++ 库实现，称之为 libopenshot。</p> 
 <p>此前 OpenShot 支持 Linux、macOS 与 Windows，本次更新后还加入了对 Chrome OS 的支持。</p> 
 <h3>更新亮点：</h3> 
 <ul> 

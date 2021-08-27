@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5697'
+headimg: 'https://picsum.photos/400/300?random=6085'
 author: 开源中国
 comments: false
 date: Fri, 27 Aug 2021 07:22:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5697'
+thumbnail: 'https://picsum.photos/400/300?random=6085'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Metabase 发布了 0.40.3 版本。Metabase 是一个简单的分析工具，通过给公司成员提问，从得到的数据中进行分析、学习。</p> 
+                                                                                            <p>Metabase 发布了 0.40.3 版本。Metabase 是一个简单的分析工具，通过给公司成员提问，从得到的数据中进行分析、学习。</p> 
 <p>此版本更新内容如下：</p> 
 <p><strong>Bug 修复</strong></p> 
 <ul> 
