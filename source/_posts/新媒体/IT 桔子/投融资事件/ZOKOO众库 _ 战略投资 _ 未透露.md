@@ -5,17 +5,17 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/5812cf798ae661251fad11dceb8e4fa6.jpg'
+headimg: 'https://cdn.itjuzi.com/images/6f7e33953277ff3134917616a8410e4b.png'
 author: IT 桔子
 comments: false
 date: Mon, 19 Jan 1970 20:47:23 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/5812cf798ae661251fad11dceb8e4fa6.jpg'
+thumbnail: 'https://cdn.itjuzi.com/images/6f7e33953277ff3134917616a8410e4b.png'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/5812cf798ae661251fad11dceb8e4fa6.jpg" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/6f7e33953277ff3134917616a8410e4b.png" referrerpolicy="no-referrer"><br><br>
         <strong>ZOKOO众库</strong><br>
-        互联网仓储百货公司<br>
+        数据驱动的供应链平台<br>
         战略投资 / 未透露 / 1630043217<br>
         投资方: 隆领投资、金圆集团/金圆资本、美图、隆领海西投资基金
         

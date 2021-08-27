@@ -33,7 +33,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <p>It is true, however, that Apple has less bargaining power when it comes to sole suppliers. TSMC is the company’s only supplier of the A-series and M-series chips used in iPhones, iPads, and new Macs.</p>
 <p><em>Image: <a href="https://platform-decentral.com/2021/03/30/arms-race-apple-a15-chip-to-start-production-in-may/" target="_blank" rel="noreferrer noopener">Platform De.Central</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
