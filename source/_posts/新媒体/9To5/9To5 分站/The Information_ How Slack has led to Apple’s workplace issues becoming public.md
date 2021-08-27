@@ -34,6 +34,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/11/app
 </blockquote>
 <p>The full report at <a href="https://www.theinformation.com/articles/apple-was-the-most-secretive-company-in-tech-then-it-developed-a-slack-habit">the</a><em><a href="https://www.theinformation.com/articles/apple-was-the-most-secretive-company-in-tech-then-it-developed-a-slack-habit"> Information</a> </em>is well worth a read and can be found here. What do you think about this situation? Let us know down in the comments. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

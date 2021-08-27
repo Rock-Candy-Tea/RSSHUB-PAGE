@@ -26,6 +26,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/app
 <p>Apple expanded its <a href="https://9to5mac.com/2020/06/11/apple-announces-new-racial-equity-and-justice-initiative-with-100-million-commitment/" target="_blank" rel="noreferrer noopener">Racial Equity and Justice Initiative (REJI)</a> earlier this year, investing $100 million into the program and searching for new ways to “dismantle systemic barriers to opportunity and combat injustices faced by communities of color.</p>
 <p>You can read the full press release from Apple regarding the <a href="https://www.apple.com/newsroom/2021/08/a-new-type-of-healing-supported-by-apple/">SweetBio and VamosVentures announcements right here</a>. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

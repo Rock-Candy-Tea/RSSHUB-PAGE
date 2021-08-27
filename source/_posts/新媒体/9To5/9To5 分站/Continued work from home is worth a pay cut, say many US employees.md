@@ -31,6 +31,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Con
 <p>The Cupertino company has so far been <a href="https://9to5mac.com/2021/06/29/apple-says-in-person-work-is-essential-and-will-not-go-back-from-its-hybrid-work-plan/" target="_blank" rel="noreferrer noopener">unyielding on the issue</a>, though it has bought itself some time after twice delaying its planned return to the office, with <a href="https://9to5mac.com/2021/08/19/apple-to-keep-remote-work-until-early-2022-as-company-delays-office-return-once-again/" target="_blank" rel="noreferrer noopener">the latest estimate now January 2022</a>.</p>
 <p><em>Photo: <a href="https://unsplash.com/@lukepeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Peters</a>/<a href="https://unsplash.com/s/photos/work-from-home?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
