@@ -41,7 +41,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <p>This contrasts with more than 40% of infections in the UK being logged in the NHS app, which also uses the Google/Apple exposure notification API.</p>
 <p>Disinformation was certainly one factor, with many Americans <a href="https://9to5mac.com/2020/04/14/contact-tracing-privacy/" target="_blank" rel="noreferrer noopener">mistakenly thinking</a> the apps tracked their locations, or the people they met. But both state and national politicians certainly didn’t help, failing to offer reassurance and in many cases actively arguing against use of the apps.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

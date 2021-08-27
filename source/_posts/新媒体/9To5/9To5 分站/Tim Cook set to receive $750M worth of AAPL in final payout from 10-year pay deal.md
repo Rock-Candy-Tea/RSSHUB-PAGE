@@ -28,7 +28,6 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/Tim
 </blockquote>
 <p>He <a href="https://9to5mac.com/2020/01/03/tim-cook-donates-2-million-worth-of-aapl-shares-to-undisclosed-charity/">regularly donates AAPL shares</a> to undisclosed charities. The vast majority of Cook’s wealth has come from equity awards he’s received since joining Apple in 1998.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://bit.ly/3zdPM4p"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/BN_925_native-BN.jpg?quality=82&strip=all" alt class="wp-image-746689" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
