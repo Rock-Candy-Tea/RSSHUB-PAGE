@@ -1,0 +1,19 @@
+
+---
+title: 'Gamers Nexus回应质疑 技嘉GP-P850M与GP-P750GM电源在过载时易爆'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0827/325a48104115e06.jpg'
+author: cnBeta
+comments: false
+date: Fri, 27 Aug 2021 03:05:18 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0827/325a48104115e06.jpg'
+---
+
+<div>   
+<strong>本月早些时候，Gamers Nexus 在 YouTube 上分享了针对技嘉 GP-850GM 和 GP-P750GM 电源的测试视频，并指出产品存在重大问题。</strong>对此，这家近期刚刚遭遇黑客窃密的公司，将责任推到了“并不严谨”的测试方法上。然后头铁的 Gamers Nexus 再次决定用摄像头记录下直流电子负载测试的全过程（耗时 15 分钟），以回应技嘉方面的指责。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0827/325a48104115e06.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0827/325a48104115e06.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">视频封面（来自：Gamers Nexus / YouTube）</p><p>技嘉方面声称，旗下 GP GM 系列电源应用了最新的过压（OVP）与过载（OPP）保护功能。</p><p>然而由 Gamer Nexus 新发布的视频可知，即使在过载保护（OPP）调节生效后，技嘉 GP-750GM 电源还是被摄像头再次记录下了爆炸的一幕。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=283199410&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: center;">Speedrun Gigabyte Power Supply Explosion _ Biggest Failure Yet _ GP-P750GM（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMjgzMTk5NDEwLnNodG1s.html" target="_self">via</a>）</p><p><strong>该公司在声明中称：</strong></p><blockquote><p>对于台式 PC 来说，系统有时会出现峰值功率超出预期使用范围的情况。作为应对，技嘉 GP-9850GM / GP-P750GM 型号的电源，都配备了业内标准的过载（OPP）保护功能。</p><p>这项特性旨在功率负载超出 PSU 设计范围时关闭设备，且预设过载量为 120% 到 150% 。其中 GP-P850GM 为 1020 ~ 1300W，而 GP-P750GM 为 900 ~ 1125W 。</p><p>当通过直流电子负载设备开展长时间重复接近 120 ~ 150% <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://oppo.jd.com/" target="_blank">OPPO</a> 触发点的测试时，我们了解到第三方担心两款 PSU 产品在高瓦数下跳闸的潜在问题。</p><p>虽然我公司感谢、并且会考虑来自媒体合作伙伴与 PC 硬件专业人士提交的任何反馈和建议，但这种级别的扩展测试，可能严重缩短 PSU 产品及其组件的使用寿命。</p></blockquote><p><img src="https://static.cnbetacdn.com/article/2021/0827/67fdeac9658e9ec.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p>基于大家的反馈，技嘉已将 GP-P850GM 和 GP-P750GM 的过载（OPP）保护触发点，从 120 ~ 150% 下调到 110 ~ 120% 。</p><blockquote><p>调整之前，GP-P850GM 的 OPP 触发功率为 1020 ~ 1300W，调整后已变成 950 ~ 1050W 。</p><p>此外 GP-9750GM 型号的 OPP 触发功率，也从此前的 900 ~ 1125W，调整到了 825 ~ 925W 。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2021/0827/058ec07a9cfb9fa.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0827/058ec07a9cfb9fa.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>技嘉表示，其高度重视客户对该公司产品质量与售后服务的信心和信任，同时强调了一点，即意外状况似乎只在通过 DC 电子负载设备开展了长时间的极端过载测试后才会发生，因而不会在实际使用过程中遇到同样问题。</p><p>除了全球各大市场的安规认证，GP-P850GM 和 GP-P750GM 还内置了行业标准的一系列电源保护功能，包括过流（OCP）、高温（OTP）、过压（OVP）、过载（OPP）、欠压（UVP）、短路（SCP）保护，以确保系统的安全稳定运行。</p><p><a href="https://static.cnbetacdn.com/article/2021/0827/2f0670db33d163c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0827/2f0670db33d163c.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>为让客户完全放心，技嘉在附录中列出了 OPP 策略修改前的电源产品序列号，如果你的 GP-P850GM 或 GP-P750GM 碰巧也是其中一员，便可向官方申请退换。</p><blockquote><p>型号名称：GP-P850GM，序列号从 SN20343G031011 到 SN20513G022635 。</p><p>型号名称：GP-P750GM，序列号从 SN20243G001301 到 SN20453G025430 。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2021/0827/837c7cc0252a195.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0827/837c7cc0252a195.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>最后，技嘉重申电源的极端测试工况与日常使用有很大不同。因为直流电子负载使用了恒定的参数，但 PC 环境下的电压、功率等细节参数都是一直在变的。</p><p>然而当 OVP / OPP 保护生效时，电源似乎已经跳闸，但它其实并没有被完全切断，最终导致相关组件因短路而爆炸。</p><p>IT 技术人员 Patrick Stone 援引硬件专家好友的话称，问题源于 MOSFET 控制器上的时序设计缺陷，且其引发的麻烦并不小。</p><p>这个问题相当普遍，以至于新蛋网都向购买了技嘉 GP-850GM 或 GP-750GM 电源的消费者提供了退换货服务。</p><p>不过最让人感到愤怒的是，即使官方意识到了产品存在如此巨大的设计缺陷，竟然还是以显卡捆绑套餐的形式，向广大消费者兜售易爆的电源。</p>   
+</div>
+            
