@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210827/50b5970d7ac11d7c242b50aa70a3cfea.png'
 author: Dockone
 comments: false
-date: 2021-08-28 02:19:40
+date: 2021-08-28 03:07:56
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210827/50b5970d7ac11d7c242b50aa70a3cfea.png'
 ---
 
@@ -318,6 +318,8 @@ HTTP/1.1 200 OK<br>
 <br><blockquote><br>注意，上述的删除命令并未清理主机的<code class="prettyprint">mynet0</code>网桥。如果你希望删除主机网桥，可以执行<code class="prettyprint">ip link delete mynet0 type bridge</code>命令删除。</blockquote><h3>总结</h3>至此，CNI的工作原理我们已基本清楚。CNI的工作原理大致可以归纳为：<br>
 <ul><li>通过JSON配置文件定义网络配置；</li><li>通过调用可执行程序（CNI插件）来对容器网络执行配置；</li><li>通过链式调用的方式来支持多插件的组合使用。</li></ul><br>
 <br>CNI不仅定义了接口规范，同时也提供了一些内置的标准实现，以及<code class="prettyprint">libcni</code>这样的“胶水层”，大大降低了容器运行时与网络插件的接入门槛。<br>
+<br>参考链接：<br>
+<ol><li><a href="https://github.com/containernetworking/cni/blob/spec-v0.4.0/SPEC.md" rel="nofollow" target="_blank">https://github.com/containerne ... EC.md</a></li><li><a href="https://github.com/containernetworking/cni/blob/master/SPEC.md" rel="nofollow" target="_blank">https://github.com/containerne ... EC.md</a></li><li><a href="https://www.cni.dev/plugins/current/" rel="nofollow" target="_blank">https://www.cni.dev/plugins/current/</a></li><li><a href="https://github.com/containernetworking/cni/tree/master/cnitool" rel="nofollow" target="_blank">https://github.com/containerne ... itool</a></li><li><a href="https://kubernetes.io/blog/2016/01/why-kubernetes-doesnt-use-libnetwork/" rel="nofollow" target="_blank">https://kubernetes.io/blog/201 ... work/</a></li><li><a href="https://www.youtube.com/watch?v=YWXucnygGmY" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=YWXucnygGmY</a></li><li><a href="https://www.youtube.com/watch?v=0tbnXX7jXdg" rel="nofollow" target="_blank">https://www.youtube.com/watch?v=0tbnXX7jXdg</a></li></ol><br>
 <br>原文链接：<a href="https://juejin.cn/post/6986495816949039141" rel="nofollow" target="_blank">https://juejin.cn/post/6986495816949039141</a>，作者：水立方
                                                                 <div class="aw-upload-img-list">
                                                                                                                                 </div>
