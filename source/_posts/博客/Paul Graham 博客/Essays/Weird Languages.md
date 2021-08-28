@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=2247'
+headimg: 'https://picsum.photos/400/300?random=2319'
 author: Paul Graham 博客
 comments: false
-date: 2021-08-28 10:07:01
-thumbnail: 'https://picsum.photos/400/300?random=2247'
+date: 2021-08-28 11:04:48
+thumbnail: 'https://picsum.photos/400/300?random=2319'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ Lisp. And macros are definitely evidence of techniques that go
 beyond glue programming. For example, solving problems by first
 writing a language for problems of that type, and then writing
 your specific application in it. Nor is this all you can do with
-macros; it's just one point in a space of program-manipulating
+macros; it's just one region in a space of program-manipulating
 techniques that even now is far from fully explored.<br><br>So if you want to expand your concept of what programming can be,
 one way to do it is by learning weird languages. Pick a language
 that most programmers consider weird but whose median user is smart,
