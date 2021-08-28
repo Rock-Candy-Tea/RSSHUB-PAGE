@@ -23,13 +23,13 @@ Malevento现已登陆《守望先锋》PTR服务器，仅面向PC平台玩家，
 Malevento地图截图如下：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_155772.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_155772.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_122770.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_122770.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_425812.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210828/1630118833_425812.jpg" alt="《守望先锋》PTR服务器加入死斗模式新地图Malevento" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Malevento目前计划于9月28日脱离PTR并进入《守望先锋》公共服务器。
