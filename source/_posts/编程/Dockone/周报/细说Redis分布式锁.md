@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210828/c0dd1e698e9dd8c2ac18c5964c879308.png'
 author: Dockone
 comments: false
-date: 2021-08-28 06:08:39
+date: 2021-08-28 07:07:30
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210828/c0dd1e698e9dd8c2ac18c5964c879308.png'
 ---
 
@@ -70,7 +70,7 @@ if(uuid.equals(redisTool.get('Test'))&#123;<br>
 为什么有问题还说这么多呢？<br>
 <br>第一，搞清劣势所在，才能更好的完善。<br>
 <br>第二点，其实上文中最后这段代码，还是有<strong>很多公司在用</strong>的。<br>
-<br>_大小项目悖论：大公司实现规范，但是小司小项目虽然存在不严谨，可并发倒也不高，出问题的概率和大公司一样低。——鲁迅_<br>
+<br><em>大小项目悖论：大公司实现规范，但是小司小项目虽然存在不严谨，可并发倒也不高，出问题的概率和大公司一样低。——鲁迅</em><br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20210828/c13fbb6e968c49ab56308b075587f6cc.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210828/c13fbb6e968c49ab56308b075587f6cc.png" class="img-polaroid" title="6.png" alt="6.png" referrerpolicy="no-referrer"></a>
 </div>
@@ -101,8 +101,8 @@ end<br>
 <br>笔者曾阅读过一位大佬的文章，其中就有一句指导入门者的面试小套路，具体文字忘记了，大概意思如下：<br>
 <br><blockquote><br>说到Redis锁的时候，可以先从Setnx讲起，最后慢慢引出set命令的可以加参数，可以体现出自己的知识面。</blockquote>如果有缘你也阅读过这篇文章，并且学到了这个套路，作为本文的笔者我要加一句提醒：<br>
 <br>请注意你的工作年限！首先回答官网表明即将废弃的命令，再引出<strong>set命令</strong>七年前的“新特性”，如果是刚毕业不久的人这么说，面试官会以为自己穿越了。<br>
-<br>_你套路面试官，面试官也会套路你。——vt・沃兹基硕德_<br>
-<br><h3>Redisson</h3>Redisson是<strong>Java的Redis客户端之一</strong>，提供了一些API方便操作Redis。<br>
+<br><em>你套路面试官，面试官也会套路你。——vt・沃兹基硕德</em><br>
+<h3>Redisson</h3>Redisson是<strong>Java的Redis客户端之一</strong>，提供了一些API方便操作Redis。<br>
 <br>但是Redisson这个客户端可有点厉害，笔者在官网截了仅仅是一部分的图：<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20210828/b6f93cd9a67f2da3b4cabdafde909887.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210828/b6f93cd9a67f2da3b4cabdafde909887.png" class="img-polaroid" title="7.png" alt="7.png" referrerpolicy="no-referrer"></a>
