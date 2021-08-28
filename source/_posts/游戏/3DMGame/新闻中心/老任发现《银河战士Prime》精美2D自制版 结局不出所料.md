@@ -43,7 +43,7 @@ SCU撤下。项目网站中只留下“法律原因”的简要说明。该项�
 虽然《Prime 2D》的游戏没能继续，但是这款游戏的视频保留了下来。
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTE5NzE4MTI2OA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTE5NzE4MTI2OA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
