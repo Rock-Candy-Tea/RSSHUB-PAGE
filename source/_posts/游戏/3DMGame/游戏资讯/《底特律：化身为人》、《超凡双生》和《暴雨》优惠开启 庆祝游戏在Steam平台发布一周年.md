@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 游戏资讯
-headimg: 'https://picsum.photos/400/300?random=5533'
+headimg: 'https://picsum.photos/400/300?random=2276'
 author: 3DMGame
 comments: false
 date: Tue, 25 May 2021 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5533'
+thumbnail: 'https://picsum.photos/400/300?random=2276'
 ---
 
 <div>   
