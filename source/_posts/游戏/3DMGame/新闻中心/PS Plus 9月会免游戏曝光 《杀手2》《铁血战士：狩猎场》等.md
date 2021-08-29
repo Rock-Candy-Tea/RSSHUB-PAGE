@@ -15,10 +15,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630194758_2782
 <div>   
 <p style="text-indent:2em;">
 在索尼官方公布前，PS Plus 2021年9月会免游戏阵容看起来已经泄露。Dealabs是一个提前曝光PS 
-Plus会免游戏的网站，此前已经多次准确曝光过。根据Dealabs，9月免费游戏将是《胡闹厨房：全都好吃》（PS5）《杀手2》（PS4）和《铁血战士：狩猎场》（PS4），后俩个游戏也可以通过向下兼容在PS5游玩。
+Plus会免游戏的网站，此前已经多次准确曝光过。根据Dealabs，9月免费游戏将是《胡闹厨房：全都好吃》（PS5）《杀手2》（PS4）和《铁血战士：狩猎场》（PS4），后两个游戏也可以通过向下兼容在PS5游玩。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630194758_278294.jpg" alt="PS Plus 9月会免游戏曝光 《杀手2》《铁血战士：狩猎场》等" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630194758_278294.jpg" alt="PS Plus 9月会免游戏曝光 《杀手2》《铁血战士：狩猎场》等" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 8月的PS 

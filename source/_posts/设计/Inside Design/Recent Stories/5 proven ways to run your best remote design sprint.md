@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/remote-design-sprint-best-practices/'
 author: Inside Design
 comments: false
-date: 2021-08-29 00:25:20
+date: 2021-08-29 01:51:07
 thumbnail: 'https://www.invisionapp.com/inside-design/remote-design-sprint-best-practices/'
 ---
 

@@ -1,0 +1,19 @@
+
+---
+title: '_视频_开发者在小米8上完善Windows 11 已支持GPU_WiFi等'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0829/4443a7ffc6f65f7.jpg'
+author: cnBeta
+comments: false
+date: Sun, 29 Aug 2021 01:26:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0829/4443a7ffc6f65f7.jpg'
+---
+
+<div>   
+在今年 6 月底成功在小米 8 上刷入 Windows 11 系统之后，国内数码博主 5 超级菜鸟 5 近日再次分享了三段视频，进一步在小米 8 上对 Windows 11 系统进行了完善和优化，现在支持 GPU、 电源管理 、Wi-Fi 和一些其他功能。<br>
+ <p style="text-align: center;"><iframe src="//player.bilibili.com/player.html?aid=975053063&bvid=BV1Z44y1k78w&cid=394522007&page=1" scrolling="no" border="0" framespacing="0" allowfullscreen="true" width="750" height="480" frameborder="no"> </iframe></p><p style="text-align: center;"><a href="https://www.bilibili.com/video/BV1Z44y1k78w" target="_blank">小米8刷入Win11arm64，GPU、WIFI、电源管理已工作</a></p><p style="text-align: center;"><iframe src="//player.bilibili.com/player.html?aid=975086955&bvid=BV1T44y1C7Rv&cid=395474670&page=1" scrolling="no" border="0" framespacing="0" allowfullscreen="true" width="750" height="480" frameborder="no"> </iframe></p><p style="text-align: center;"><a href="https://www.bilibili.com/video/BV1T44y1C7Rv" target="_blank">小米 8 刷入 win11arm64 后，各项跑分是怎么样的呢？</a></p><p style="text-align: center;"><iframe src="//player.bilibili.com/player.html?aid=890043089&bvid=BV1GP4y1p7Nr&cid=395797415&page=1" scrolling="no" border="0" framespacing="0" allowfullscreen="true" width="750" height="480" frameborder="no"> </iframe></p><p style="text-align: center;"><a href="https://www.bilibili.com/video/BV1GP4y1p7Nr" target="_blank">小米 8 刷入 Win11arm64 后，玩大型游戏会怎么样呢？</a></p><p style="text-align: left;">不过该项目也没有达到完<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mideajiadian.jd.com/" target="_blank">美的</a>地步，在项目介绍中明确表示：“蓝牙驱动异常，GPU 不能渲染 x64 程序”。这个“Renegade”项目由开发者 Xilin Wu 领导。您可以在此处为该项目做出贡献。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/4443a7ffc6f65f7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/4443a7ffc6f65f7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/43a0ce966475e76.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/43a0ce966475e76.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/c03d2025e37d14d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/c03d2025e37d14d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">项目地址：<a href="https://github.com/edk2-porting/edk2-sdm845" _src="https://github.com/edk2-porting/edk2-sdm845" target="_blank">https://github.com/edk2-porting/edk2-sdm845</a><br style="text-align: left;"></p><p style="text-align: left;">驱动下载地址：<a href="https://github.com/edk2-porting/woa-drivers" _src="https://github.com/edk2-porting/woa-drivers" target="_blank">https://github.com/edk2-porting/woa-drivers</a><br style="text-align: left;"></p><p style="text-align: left;">安装<a data-link="1" href="https://c.duomai.com/track.php?k=iRyUSQzUycwRHdo1Ddm0DZpVXZmkDN2ITPklWYmYDO5IDNy0DZp9VZ0l2cmUmchdHdm92cGJTJjZkMl42Yu02bj5SZy9GdzRnZvN3byNWat5yd3dnRyU" target="_blank">教程</a>：<a href="https://forum.renegade-project.org/t/845-windows/36" _src="https://forum.renegade-project.org/t/845-windows/36" target="_blank">https://forum.renegade-project.org/t/845-</a><a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a>/36<br style="text-align: left;"></p>   
+</div>
+            
