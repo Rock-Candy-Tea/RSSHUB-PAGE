@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-3a25fc1dc13003d276affc52210fc4cc_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8242'
 author: 知乎
 comments: false
-date: Sat, 28 Aug 2021 13:48:49 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-3a25fc1dc13003d276affc52210fc4cc_1440w.jpg'
+date: Sat, 28 Aug 2021 13:06:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8242'
 ---
 
 <div>   
-南瓜酥的回答<br><br><p>等13。</p><p>今天都8月28日了，iPhone13预计下个月中旬就发布了，半个月而已，很快的。</p><p>万一十三香呢？</p><p>退一步讲，就算不香，13发布后，12也会进一步降价的，可能比你现在买还要便宜（至少也不会更贵）。</p><p>所以为什么不等呢？</p><p><br></p><p>再来谈谈内存的问题。</p><p>我目前在用的iPhone12，就是128G的，去年11月买的，用到现在还有40多G。</p><p>能用这么快，主要还是因为我拍了很多照片，如果你不爱拍照的话，应该会剩下更多。</p><p>另外，如果实在不太够，可以打开内存优化，把照片都同步到云盘去，本地只留预览图。这样也可以节省很多空间。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-3a25fc1dc13003d276affc52210fc4cc_1440w.jpg" data-caption data-size="normal" data-rawwidth="1391" data-rawheight="679" data-default-watermark-src="https://pic4.zhimg.com/v2-e93910798141fad7c796dbc4d09337f7_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-3a25fc1dc13003d276affc52210fc4cc_r.jpg" referrerpolicy="no-referrer"></figure><p>总之，我个人建议等等iPhone13，到时候预算不够的话，就买128G版本也没啥问题。</p><p>以上。</p><p><br></p><p>-</p><p>如果确定要买，记得先搞个充电头（现在苹果不送了）：</p><p>图拉斯小冰块就很不错，支持PD20W，还送数据线。最主要是体积小，我现在出门要带充电器时，都是把它跟手机一起装裤兜里，很方便。</p><p><br></p><p>如果对苹果其他产品感兴趣，也不妨看看我的这些回答：</p><p><a href="https://www.zhihu.com/question/459522427/answer/1937291324" class="internal">iPad Pro 2021 款有人收到货了吗？使用体验如何？</a></p><p><a href="https://www.zhihu.com/question/352991503/answer/1755135886" class="internal">AirPods Pro值得购买吗？</a></p><p><a href="https://www.zhihu.com/question/347373008/answer/1776906139" class="internal">Apple Watch 哪种表带戴起来最舒服，性价比最高？</a></p><p><a href="https://www.zhihu.com/question/458086760/answer/1876411969" class="internal">2021年iPad怎么选？看这篇全系列选购指南就够了！</a></p><p><a href="https://www.zhihu.com/question/420012804/answer/1525329696" class="internal">iPhone 12如何选购？ 哪一款才是真香机？</a></p>  
+Digital Geek的回答<br><br><p>  如果你需要256GB的话，7000元的预算只能买iPhone 12，iPhone 13系列只能买到256GB的mini版，或者是iPhone 13的64GB、128GB版本。</p><hr><p>  下面分析一下，iPhone 12 256GB版本、iPhone 13 mini 256GB版本和iPhone 13 64GB版本或128GB版本哪个更值得买。</p><p><br></p><p>  如果你能接受小屏手机的话，也不太介意单卡的话，iPhone 13 mini 256GB是最好的选择，它可以获得和iPhone 13一样的体验，价格便宜800元左右。</p><p><br></p><p>  如果你不喜欢小屏手机，或者必须要支持双卡的话，我建议还是买iPhone 12 256GB版本。256GB和128GB之间差了128GB。</p><p>选iPhone 13 128GB版本，其余部分用iCloud来弥补这部分空间的话，每个月需要21元，一年就是252元，就算用三年的话，iCloud费用就要花756元，这并不是一个划算的选择。</p><p>  而且根据目前的消息，iPhone 13系列有可能价格略有上调，如果国外涨100美元的话，国内7000元大概率就只能买到64GB版本了，对于需要256GB存储空间的朋友们来说，这即使开通iCloud也没法用，因为iCloud只能存放你的媒体文件，不能存放应用。</p><p>  除非你愿意改变使用习惯，才可以考虑购买iPhone 13 64/128GB版本，但我不建议这样做，手机只是一个工具，为了它调整习惯会感觉不舒服。</p><p>  以上就是我对这个问题的全部看法，仅供参考。</p><p></p>  
 </div>
             
