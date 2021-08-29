@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 13系列的5个细节：新增亚光黑 可以拍星星'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0829/6b5fa7ff8869e0c.jpg'
+author: cnBeta
+comments: false
+date: Sun, 29 Aug 2021 04:22:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0829/6b5fa7ff8869e0c.jpg'
+---
+
+<div>   
+基于目前曝光的线索 iPhone 13 将会在性能和相机方面带来重大升级。距离苹果发布 iPhone 13 系列只有几周时间，目前互联网上已经充斥着大量关于该系列的谣传。<strong>外媒 MacRumors 根据爆料人士 Max Weinbach 分享的信息，汇总了 5 个比较容易错过的细节。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/6b5fa7ff8869e0c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/6b5fa7ff8869e0c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>● 亚光黑和古铜色</strong></p><p style="text-align: left;">根据今年 3 月浮出水面的传言，苹果正计划为  iPhone 13  Pro 和  iPhone 13  Pro Max 提供新的哑光黑色选项。有传言称，当前的石墨选项将被调整为包括更深、更黑的色调，使其具有哑光黑色饰面。</p><p style="text-align: left;">根据同样的传闻，苹果还可能计划推出青铜色选项，它可能是当前金色选项的调整版本，而不是为客户提供额外的颜色选项。谣言来自泄密者 Max Weinbach， 他在去年 1 月准确报道称，高端 2020  iPhone  阵容将采用全新的海军蓝选项。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/cd255efb4dbd337.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/cd255efb4dbd337.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">苹果过去曾在每年的 iPhone 更新中提供了新的颜色选择。最重要的是，鉴于我们预计今年不会有任何重大的设计变化，提供新的或经过调整的颜色选项可能是 苹果帮助人们区分新<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>与旧手机的方式。</p><p style="text-align: left;"><strong>● 不锈钢边缘防指纹涂层</strong></p><p style="text-align: left;">iPhone 12 系列中标志性的外观改进就是重新引入了硬朗的外观设计，上一次出现在 2013 年的 iPhone 5S 中。在 iPhone 12 Pro 和 iPhone 12 Pro Max 上，边缘是不锈钢的，客户在去年收到新 iPhone 时很快就知道，它很容易很快留下指纹和污迹。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/bc31245c31b1db2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/bc31245c31b1db2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">根据今年早些时候的传言，苹果似乎意识到了这一烦恼，正计划为即将推出的 iPhone 的不锈钢边缘涂上新的防指纹涂层。虽然没有给出具体细节，但新涂层可能是更新制造工艺的一部分，有助于减少日常使用中指纹和污迹的可见性。</p><p style="text-align: left;"><strong>● 内置波束成形麦克风</strong></p><p style="text-align: left;">苹果计划将其目前在 AirPods 系列中的波束成形麦克风技术引入 iPhone 13。 该技术将提高 iPhone  上麦克风的质量，从而实现更好的通话和录音。</p><p style="text-align: left;">苹果当然有可能将其波束成形技术带到 iPhone 上，并可能将其营销以改善视频录制和音频。苹果大力推动 iPhone ，特别是高端机型，作为专业摄像师的多合一工具。</p><p style="text-align: left;"><strong>● 更强的 MagSafe 磁性</strong></p><p style="text-align: left;">在去年的 iPhone 12 中 ，苹果为 iPhone 推出了 MagSafe。  iPhone  上的 MagSafe  为将<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>轻松连接到设备背面提供了广泛的可能性。 苹果已经为“ MagSafe” 生态系统发布了各种保护壳、电池组等。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/ccf79a2eafb0ae2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/ccf79a2eafb0ae2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">不过用户反馈 MagSafe 的磁性很弱，在 iPhone 13 中，有传言称苹果正在加强其 MagSafe 磁铁以使其更坚固。</p><p style="text-align: left;">预计苹果将在几年内从 iPhone 上移除 Lightning 端口，而 MagSafe 似乎是苹果针对无端口未来的解决方案。由于苹果的长期意图是让客户越来越依赖 MagSafe ，因此需要确保有强悍的磁性</p><p style="text-align: left;"><strong>● 准备好可以拍星星</strong></p><p style="text-align: left;">过去几年，苹果一直在积极推动提升 iPhone 的图像质量和功能。 去年，该公司专注于低光摄影，这要归功于 LiDAR、 改进的镜头和先进的图像信号处理。今年，我们听到了大量有关 苹果为 iPhone 13 计划的相机改进计划的信息，包括 ProRes 和视频人像模式。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0829/4bba18699f7275e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0829/4bba18699f7275e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">此外，苹果可能会为即将推出的 iPhone 专注于天文摄影或天文摄影。 2 月份的谣言表明 ，iPhone 13 会自动检测用户何时指向天空，并相应地调整曝光和其他相机设置。</p>   
+</div>
+            
