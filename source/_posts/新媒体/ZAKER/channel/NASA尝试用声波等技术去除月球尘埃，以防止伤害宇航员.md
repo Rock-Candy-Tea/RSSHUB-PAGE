@@ -1,0 +1,18 @@
+
+---
+title: 'NASA尝试用声波等技术去除月球尘埃，以防止伤害宇航员'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff33_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 29 Aug 2021 03:09:57 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff33_1024.jpg'
+---
+
+<div>   
+<p>从古至今，人类就对宇宙充满遐想，一直尝试用不同方法探索其中的奥秘。16 世纪中叶，意大利天文学家伽利略（Galileo）用最古老的方式 --- 望远镜，开始了对星空的探索。</p><p><strong>数百年过去了，人类在宇宙探索上取得了巨大的进展。</strong></p><p>美国东部时间 6 月 3 日，SpaceX " 龙号 " 补给飞船送 5000 只水熊和 128 只尾鱿鱼到太空做极限测试。时隔不久，7 月 11 日，太空旅游公司维珍银河（Virgin Galactic）将该公司 CEO 理查德布兰森（Richard Branson）送入太空。</p><p>紧接着，7 月 20 日，亚马逊前 CEO 杰夫贝佐斯（Jeff Bezos）名下的蓝色起源（Blue Origin）公司也进行了相关发射，人类与太空之间的互动越来越频繁。</p><p>随着太空发射技术的成熟，有关宇宙的更多奥秘将进一步被揭开。然而，正如小说和电影中描述的那样，宇宙有时候就像一个可怕而深邃的黑洞，稍有不慎就有可能将宇航员和飞行器 " 吞噬 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_0" data-original="http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff33_1024.jpg" data-gif-url="http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff33_raw.gif" data-height="405" data-width="720" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff33_1024.jpg" referrerpolicy="no-referrer"></div></div>图｜神秘的宇宙（来源：Pixabay）<p></p><p>当顺利完成太空任务返回地球时，宇航员们可能会受到来自月球上微小尘埃颗粒的隐形威胁。近日，美国国家宇航局（NASA）正在尝试用声波、静电装置和超光滑的涂层来清除太空的污垢，为宇航员解决因 " 月尘 " 造成的身体伤害。</p><p>被磨碎的月球岩石，会对一些精密仪器的工作造成影响，其锋利程度足以将宇航服划破。此外，受阳光照射的灰尘的影响，敏感的电子设备会产生过热现象。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202108/612a53fa8e9f0970436cff34_1024.jpg" data-height="661" data-width="882" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202108/612a53fa8e9f0970436cff34_1024.jpg" referrerpolicy="no-referrer"></div></div>图｜宇航员在月球上（来源：NASA）<p></p><p>来自 " 阿波罗 12 号飞船 " 的宇航员哈里森 · 施密特（Harrison Schmitt），曾在《月球尘埃暴露对健康造成不利影响的风险》报告中，叙述了他在月球上的真实感受。</p><p>他表示：" 当我在飞行器舱外行走一会儿再返回舱内时，发现飞行器里灰尘很多，并且比较脏。当我脱掉头盔时，像失明了一样。"</p><p>灰层颗粒也会对宇航员的身体健康造成危害，即便每次只在月球中停留几天，他们从月球表面回到飞船舱室，将沾满灰尘的宇航服脱下后，也会有眼睛灼伤、鼻腔闷热等不适反应。</p><p>从太空返回的 " 阿波罗 17 号飞船 " 拍摄的照片中可以看出，宇航员吉恩 · 瑟曼（Gene Cernan）在月球中直飞了 7 个小时，他的脸上像外太空煤矿工人一样堆满了灰尘。</p><p>吉恩 · 瑟曼表示：" 灰尘是登月计划最大的挑战之一，我们可以克服除了灰尘之外的生理、物理或机械的绝大部分困难。"</p><p>据 NASA 格伦研究中心的工作人员菲尔 · 阿贝尔（Phil Abel）透露，这些 " 灰尘 " 可以将宇航服中去除二氧化碳和热量的散热器堵塞。</p><p>据 NASA 2020 年发布的 " 月球尘埃 " 相关报告显示，" 阿波罗 17 号 " 宇航员将尘埃带进了太空舱，舱内可以闻到一种类似火药的味道，登月宇航员哈里森 · 施密特（Harrison Schmitt）后来就出现花粉热症状。</p><p>2018 年，美国石溪大学研究团队在 GeoHealth 杂志上发表的一篇文章显示，月球上的尘埃颗粒可以 " 潜伏 " 在肺部深处，能将暴露在飞行器外 90% 的细胞杀死。因此，呼吸健康是宇航员不容忽视的问题，科学家一直在努力解决高速飞行对宇航服产生的损害。</p><p>据悉，NASA 格伦研究中心的科学家计划在 2023 年发射一项名为 " 风化层粘附特性 " 的实验任务，该实验将揭示尘埃在着落及着落过程中的粘附性机理。届时，该研究中心获得的信息，将有助于揭开宇航服表面尘埃与砂砾在磨损过程中被分解的原因。</p><p>NASA 格伦研究中心被动防尘示范项目首席研究员莎伦 · 米勒（Sharon Miller）表示：" 很难找到一种解决方案，我们必须努力做一点事情。"</p><p>他们在 " 荷叶 " 上找到一些灵感，米勒与其他研究人员正在努力开发一种表面光滑可以防水防尘的光滑涂层材料，这些材料可以涂抹在宇航服织物、飞行器窗户或太阳能电池阵列表面，以防止灰尘积聚在重要设备上。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff35_1024.jpg" data-height="717" data-width="1276" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/612a53fa8e9f0970436cff35_1024.jpg" referrerpolicy="no-referrer"></div></div>（来源：NASA）<p></p><p>另据悉，NASA 的科学家们还在研究用一种与静电的微小电荷来排斥尘埃颗粒，他们设置的静电装置可以将很小的尘埃颗粒排斥开，通过电板阻隔防止灰尘进入。</p><p>该静电装置可以自由伸缩，吸收轴承外壳或车轮轴上难以触及区域的尘埃。当电荷无法将大而重的尘埃颗粒去除时，NASA 的研究人员将考虑用超声波将其移动。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

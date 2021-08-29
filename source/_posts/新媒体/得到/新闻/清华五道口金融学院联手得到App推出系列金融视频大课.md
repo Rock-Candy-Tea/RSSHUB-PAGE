@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 得到
  - 新闻
-headimg: 'https://picsum.photos/400/300?random=6976'
+headimg: 'https://picsum.photos/400/300?random=773'
 author: 得到
 comments: false
 date: Thu, 21 Nov 2019 04:44:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6976'
+thumbnail: 'https://picsum.photos/400/300?random=773'
 ---
 
 <div>   
