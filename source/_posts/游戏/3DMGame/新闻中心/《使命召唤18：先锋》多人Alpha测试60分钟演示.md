@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630185314_7346
 动视已经在PS4和PS5上发布了《<a target="_blank" href="https://www.3dmgame.com/games/cod18/">使命召唤18</a>：先锋》的多人模式Alpha测试。在这里提供了两段合计超过60分钟的实机游戏片段供粉丝参考。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185314_734625.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185314_734625.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 这个多人测试聚焦于是冠军山MP模式。在“冠军之岭”模式中，你的小队——要么是2人要么是3人，将在一个循环死亡竞赛中对抗其他小队。一开始每个人的loadout都一样，虽然起初的装备也是致命的，但玩家可以通过杀死敌人以及拾取散落在地图上的东西来收集现金，它可以让你升级你的初始武器，购买新的武器，装备，技能和连杀。
@@ -43,22 +43,22 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630185314_7346
 </iframe>
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">视频截图</span></strong>
+<strong><span style="font-size:16px;">视频截图</span></strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_299428.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_299428.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_417780.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_417780.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_267607.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_267607.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_704898.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_704898.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_249079.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20210829/1630185394_249079.jpg" alt="《使命召唤18：先锋》多人Alpha测试60分钟演示" referrerpolicy="no-referrer"> </strong> 
 </p>          
 </div>
             
