@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630227026_4089
 《<a target="_blank" href="https://www.3dmgame.com/games/yxcsczgj/">英雄传说：创之轨迹</a>》于8月25日在Steam发售，之后便出现了加载时间过长等问题，近日，官方Steam发文，介绍了PC版加载过慢解决教程，需要玩家自己动手操作。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630227026_408990.png" alt="《英雄传说：创之轨迹》PC版加载过慢解决教程  玩家需自己操作" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630227026_408990.png" alt="《英雄传说：创之轨迹》PC版加载过慢解决教程  玩家需自己操作" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 目前已知在部份环境下，会出现无法正常运行《英雄传说 创之轨迹》，或游戏中的加载速度变得极为缓慢的现象，若是您遇到类似情形，请尝试执行以下步骤，情况可能获得改善。
@@ -56,7 +56,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630227026_4089
 ・登录至例外清单后，请运行下列“■验证游戏文件完整性”步骤
 </p>
 <p style="text-indent:2em;">
-<span>※登录至例外清单的方法，请参阅您使用的防毒软件的说明书，或询问防毒软件的制造商。</span>
+<span>※登录至例外清单的方法，请参阅您使用的防毒软件的说明书，或询问防毒软件的制造商。</span> 
 </p>
 <p style="text-indent:2em;">
 ■验证游戏文件完整性
@@ -71,7 +71,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630227026_4089
 便后会开始验证游戏文件。此处理可能需要花上一段时间。
 </p>
 <p style="text-indent:2em;">
-<span>运行此步骤后，Steam客户端将自动修复有问题的游戏文件。</span>
+<span>运行此步骤后，Steam客户端将自动修复有问题的游戏文件。</span> 
 </p>
 <p style="text-indent:2em;">
 ■以系统管理员的身份运行此程序<br>
@@ -93,7 +93,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630227026_4089
 5/ 请按下“OK”关闭视窗，重新启动《英雄传说 创之轨迹》。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630227387_195978.jpg" alt="《英雄传说：创之轨迹》PC版加载过慢解决教程  玩家需自己操作" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210829/1630227387_195978.jpg" alt="《英雄传说：创之轨迹》PC版加载过慢解决教程  玩家需自己操作" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
