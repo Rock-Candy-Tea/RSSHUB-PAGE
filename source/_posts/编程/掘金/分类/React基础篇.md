@@ -74,14 +74,16 @@ thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/47065bcf3f044e1d89
 <pre><code class="hljs language-js copyable" lang="js">changeValue = <span class="hljs-function"><span class="hljs-params">v</span> =></span> &#123;
     <span class="hljs-built_in">this</span>.setState(&#123;
         <span class="hljs-attr">counter</span>: <span class="hljs-built_in">this</span>.state.counter + v
+    &#125;, <span class="hljs-function">()=></span>&#123;
+        <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'counter'</span>, <span class="hljs-built_in">this</span>.state.counter)
     &#125;)
 &#125;
 <span class="copy-code-btn">复制代码</span></code></pre>
 </li>
 <li>
 <p>使用定时器</p>
-<pre><code class="hljs language-js copyable" lang="js">setState(<span class="hljs-function">()=></span>&#123;
-    <span class="hljs-built_in">this</span>.setCounter();
+<pre><code class="hljs language-js copyable" lang="js"><span class="hljs-built_in">setTimeout</span>(<span class="hljs-function">()=></span>&#123;
+    <span class="hljs-built_in">this</span>.changeValue();
 &#125;)
 <span class="copy-code-btn">复制代码</span></code></pre>
 </li>
