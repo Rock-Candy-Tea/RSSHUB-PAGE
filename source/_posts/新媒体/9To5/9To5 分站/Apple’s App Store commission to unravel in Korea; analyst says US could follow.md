@@ -14,6 +14,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Apples-App-Store-commission-to-unravel-in-Korea.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<p><em>Update: Bloomberg tech reporter Sohee Kim <a href="https://twitter.com/soheefication/status/1432334069455462405" target="_blank" rel="noreferrer noopener">tweeted</a> that the vote has been postponed due to extra time needed for a separate bill designed to tackle ‘fake news.’</em></p>
 <p>Apple’s <a href="https://9to5mac.com/guides/app-store/" target="_blank" rel="noreferrer noopener">App Store commission</a> is under threat from a new <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> law in Korea that is “almost certain” to get the necessary votes today.</p>
 <p>It would allow developers to choose their own payment platforms, and avoid the 15% or 30% cut they currently have to pay to Apple for app sales and in-app purchases. </p>
 <p><span id="more-748076"></span>

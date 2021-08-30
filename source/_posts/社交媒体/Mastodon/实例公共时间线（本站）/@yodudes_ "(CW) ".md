@@ -1,0 +1,18 @@
+
+---
+title: '@yodudes_ "(CW) "'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/038/527/863/original/039b8853c9e49a7f.jpg'
+author: Mastodon
+comments: false
+date: Mon, 30 Aug 2021 15:05:54 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/527/863/original/039b8853c9e49a7f.jpg'
+---
+
+<div>   
+<hr><p>Ribbon poops on her bed <a href="https://pawoo.net/tags/ribbon" class="mention hashtag" rel="tag">#ribbon</a> <a href="https://pawoo.net/tags/kirby64" class="mention hashtag" rel="tag">#kirby64</a> <a href="https://pawoo.net/tags/kirby" class="mention hashtag" rel="tag">#kirby</a> <a href="https://pawoo.net/tags/scat" class="mention hashtag" rel="tag">#scat</a> <a href="https://pawoo.net/tags/poop" class="mention hashtag" rel="tag">#poop</a> <a href="https://pawoo.net/tags/cute" class="mention hashtag" rel="tag">#cute</a> <a href="https://pawoo.net/tags/nsfw" class="mention hashtag" rel="tag">#nsfw</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/527/863/original/039b8853c9e49a7f.jpg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
