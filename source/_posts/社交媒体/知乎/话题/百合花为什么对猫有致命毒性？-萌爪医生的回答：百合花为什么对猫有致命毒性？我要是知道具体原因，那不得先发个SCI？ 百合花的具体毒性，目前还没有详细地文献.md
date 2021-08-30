@@ -1,0 +1,18 @@
+
+---
+title: '百合花为什么对猫有致命毒性？-萌爪医生的回答：百合花为什么对猫有致命毒性？我要是知道具体原因，那不得先发个SCI？ 百合花的具体毒性，目前还没有详细地文献...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-ed331e1ac419321ca8755232e8be7e20_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 30 Aug 2021 03:55:06 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-ed331e1ac419321ca8755232e8be7e20_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>百合花为什么对猫有致命毒性？</strong><br>萌爪医生的回答<br><p>百合花为什么对猫有致命毒性？我要是知道具体原因，那不得先发个SCI？</p><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-ed331e1ac419321ca8755232e8be7e20_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="423" data-rawheight="442" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-ed331e1ac419321ca8755232e8be7e20_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-ed331e1ac419321ca8755232e8be7e20_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p><br></p><p>百合花的具体毒性，目前还没有详细地文献报告，仍在研究之中。</p><p>目前我们所知道的，是百合花中有多种生物碱，比如石蒜碱，多花水仙碱，这些东西进了猫的肚子，会让猫在24小时内会出现无尿症，引起肾小管的病变最终导致急性肾衰竭。</p><p><br></p><p>大家好，我是萌爪医生，你的在线私人宠物医生。</p><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-dce7f725e85327835147670a8af1a91e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="557" data-rawheight="483" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-dce7f725e85327835147670a8af1a91e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-dce7f725e85327835147670a8af1a91e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p>对猫来说，百合花就是一个巨型剧毒物，不管是叶子还是根茎，都有毒，就连花粉都有毒。</p><p><br></p><p><br></p><p>偏偏猫自己不知道这一点。</p><p><br></p><p>对于养猫家庭来说，有花无猫，有猫无花，反正猫和花你只能养一个。</p><p><br></p><p>花长这样，各位要擦亮眼睛记住了。</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-d959411be05df385aeee76878e739cad_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="602" data-rawheight="608" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d959411be05df385aeee76878e739cad_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-d959411be05df385aeee76878e739cad_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>猫一旦误食百合花，就会引起急性中毒，主要症状有呕吐、精神萎靡、食欲减退等。</p><p><br></p><p>这种急性中毒，<b>没有特效药，也没有解毒剂</b>，如果误食，马上去医院马上去医院。</p><p>这里讲一个题外话，如果猫因为吃了某种植物而出现明显身体不适，那么就医时最好带着被误食的植物，方便医生辨认。</p><p><br></p><p>去医院干啥，催吐。</p><p>吐出来了就是万幸，吐不出来那就是不幸。</p><p><br></p><p>催吐无效，就要做肾功能的生化检查、尿液检查、血常规、肾脏的超声以及SDMA的检查。</p><p><br></p><p>主要就查肾功能，因为处理尿就靠的就是肾。</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-311f01f51ac515fa89efdb0418658d3a_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="717" data-rawheight="466" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-311f01f51ac515fa89efdb0418658d3a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-311f01f51ac515fa89efdb0418658d3a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>如果发现肾功能有损伤，及时治疗，通过输液增加机体代谢和肾脏灌注量，让猫尽早产生尿液。</p><p><br></p><p>治疗期间，如果猫很快出尿，而且量还不少，那么肾功能有望一周内恢复；如果无尿或少尿，那就危险了，有可能会形成慢性肾衰竭也有可能会出现死亡。</p><p><br></p><p>尿，在这一刻，变得尤为重要。</p><p>所以各位主人在平时也要注意观察自家猫猫的屎尿，这是反应猫身体健康情况的最直接数据。</p><p><br></p><p>除百合花之外，夹竹桃、毛地黄、红豆杉、樱桃属、天南星科类植物、秋水仙、杜鹃等这些植物，对猫来说，都有毒，养猫家庭最好不要养。如果非要养，那就找个玻璃柜锁起来，只有这样才能不让猫碰到还不影响观赏。</p><p>放在高处没有用的，因为没有猫去不了的地方。</p><p><br></p><p>这里是 @萌爪医生，一个说人话的在线宠物医生。全网300万+粉丝，累计达30亿+用户触达，百位执业兽医师在线答疑。有宠物疾病、行为、日常喂养、诊后护理、测评推荐等问题？马上私信萌爪医生～</p>  
+</div>
+            

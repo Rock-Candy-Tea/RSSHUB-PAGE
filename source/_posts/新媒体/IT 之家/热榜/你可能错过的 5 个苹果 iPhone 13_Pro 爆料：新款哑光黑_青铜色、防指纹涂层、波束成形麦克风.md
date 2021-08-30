@@ -1,0 +1,19 @@
+
+---
+title: '你可能错过的 5 个苹果 iPhone 13_Pro 爆料：新款哑光黑_青铜色、防指纹涂层、波束成形麦克风...'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/8/d81f95ac-e003-4932-92a3-3a19b89f2c61.png'
+author: IT 之家
+comments: false
+date: Mon, 30 Aug 2021 00:04:12 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/8/d81f95ac-e003-4932-92a3-3a19b89f2c61.png'
+---
+
+<div>   
+<p><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 30 日消息 外媒 MacRumors 报道，我们离苹果公司宣布 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a> 系列新机的时间只有几周了，期待它有一些相当大的升级，包括设计、性能、相机等等。就像每年一样，关于苹果 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 新机传言、泄露和报告非常多，其中一些比其他的更可信。</p><p>外媒现在带来了一些关于 iPhone 13/Pro 系列的爆料传闻的前五名名单，或许你此前已经错过。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/d81f95ac-e003-4932-92a3-3a19b89f2c61.png" w="872" h="489" title="你可能错过的 5 个苹果 iPhone 13/Pro 爆料：新款哑光黑/青铜色、防指纹涂层、波束成形麦克风..." width="872" height="460" referrerpolicy="no-referrer"></p><p>苹果的产品改进计划会在开发过程中发生变化，因此，根据苹果目前的计划，一些较早的传言可能并不准确。此外，下面的爆料来自泄密者 Max Weinbach。</p><h2>哑光黑和青铜色选择</h2><p>根据今年 3 月的爆料，苹果正计划为 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro</a> 和 iPhone 13 Pro Max 提供新的哑光黑颜色选择。该传言表明，目前的石墨色选项将被调整为包括更暗、更黑的色调，使其具有哑光黑的外观。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/afa2d166-c111-44b1-a49c-7319bec3c4c4.png" w="868" h="484" title="你可能错过的 5 个苹果 iPhone 13/Pro 爆料：新款哑光黑/青铜色、防指纹涂层、波束成形麦克风..." width="868" height="457" referrerpolicy="no-referrer"></p><p>根据同一传言，苹果还可能计划推出青铜色选项，这可能是目前金色选项的调整版，而不是为客户提供的额外颜色选项。该传言来自爆料者 Max Weinbach，他在去年 1 月准确报道了 2020 年 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a> Pro/Max 阵容将采用全新的海蓝色选项。</p><p>IT之家获悉，过去，苹果在每年的 iPhone 更新中都会提供新的颜色选择。除此之外，鉴于我们预计今年不会有任何重大的设计变化，提供新的或调整过的颜色选项可能是苹果公司帮助人们将较新的手机与旧型号区分开来的方法。</p><h2>不锈钢边缘的防指纹涂层</h2><p>iPhone 12 的标志性特征之一是直边 iPhone 设计的回归，上一次出现在旗舰 iPhone 上是 2013 年的 iPhone 5S。在 iPhone 12 Pro 和 iPhone 12 Pro Max 上，边缘是不锈钢，正如客户在收到他们的新 iPhone 时迅速了解到的那样，它可能非常容易沾上指纹和污渍。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/b8f1ccea-bb27-4f19-be71-f38c31afa96e.png" w="872" h="485" title="你可能错过的 5 个苹果 iPhone 13/Pro 爆料：新款哑光黑/青铜色、防指纹涂层、波束成形麦克风..." width="872" height="456" referrerpolicy="no-referrer"></p><p>根据今年早些时候的传言，苹果正计划为即将推出的 iPhone 13 系列手机的不锈钢边缘采用新的防指纹涂层。虽然没有给出具体细节，但新涂层可能作为更新的制造工艺的一部分，帮助减少日常使用中的指纹和污渍的可见性。</p><p>从事新 iPhone 研发的苹果工程师和设计师本身就是产品的使用者，所以指纹和污渍问题很可能在苹果内部出现。鉴于此，看到苹果采取一些措施来帮助提高不锈钢边缘的耐用性并不完全令人惊讶，但有待观察的是，传闻中的涂层对指纹和污渍的效果如何。</p><h2>内置波束成形麦克风</h2><p>据 Weinbach 称，苹果计划将其波束成形麦克风技术（目前在 AirPods 系列中使用）带到 iPhone 13 系列手机上。该技术将提高 iPhone 上麦克风的质量，从而实现更好的通话和录音。</p><p>当然，苹果有可能将其波束成形技术引入 iPhone，可能会将其推向改善视频录制和音频。苹果已经大力推动 iPhone，尤其是高端机型，作为专业摄像师的全能工具。</p><h2>更强的 MagSafe 磁吸</h2><p>随着去年 iPhone 12 系列的推出，苹果为 iPhone 引入了 MagSafe 磁吸。iPhone 上的 MagSafe 开启了广泛的可能性，可以轻松地将配件固定在设备的背面。苹果已经为 MagSafe 生态系统发布了各种各样的外壳、外接电池等。然而，在某些情况下，客户发现 MagSafe 的磁铁吸力很弱。据传，在 iPhone 13 中，苹果将加强其 MagSafe 磁吸，使其更加坚固。</p><p><img src="https://img.ithome.com/newsuploadfiles/2021/8/efa00945-e0ed-4589-bd41-38ab8cebd455.png" w="876" h="488" title="你可能错过的 5 个苹果 iPhone 13/Pro 爆料：新款哑光黑/青铜色、防指纹涂层、波束成形麦克风..." width="876" height="457" referrerpolicy="no-referrer"></p><p>预计几年后，苹果将从 iPhone 上取消 Lightning 接口，而 MagSafe 似乎是苹果为无接口的未来提供的解决方案。由于苹果的长期意图是让客户越来越依赖 MagSafe，它将需要确保磁吸和技术是强大的，并且符合标准。</p><h2>准备好拍摄星星的照片</h2><p>在过去的几年里，苹果公司积极推动改善 iPhone 的图像质量和功能。去年，由于 LiDAR 激光雷达、改进的镜头和先进的图像信号处理，该公司专注于暗光摄影。今年，我们已经听到了大量关于苹果为 iPhone 13 系列计划的相机改进的信息，包括 ProRes 和视频的人像模式。</p><p>此外，苹果公司可能在即将推出的 iPhone 13 上专注于天体摄影，或对天文学的摄影。今年 2 月份的一个传言表明，iPhone 13 系列将自动检测用户何时指向天空，并相应调整曝光和其他相机设置。</p><p>随着苹果推动不断改善 iPhone 的摄影技术，这个传言似乎是可信的，尤其是考虑到更新的相机功能套件可能是 iPhone 13 系列的最大卖点。</p><h2>总结</h2><p>这些只是我们在过去几个月里听到的一些爆料点，下个月 iPhone 13 系列将发布。最近的可靠爆料表明，新的 iPhone 13 系列将有更小的刘海缺口，高端 Pro 型号支持 120Hz 可变刷新率显示屏等等。</p>
+          
+</div>
+            
