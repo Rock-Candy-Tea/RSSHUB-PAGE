@@ -20,6 +20,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <p>"问题出在哪？当我们给人们提供工具后，几乎没有人用它来制作真正的艺术。相反，我们的人工智能模型被迫为随机输入、嘲弄性查询和NSFW意图生成视频。"</p>
 <p>提交的文字提示从 "裸体女人" 到"巧克力覆盖的丁字裤比基尼" 或 "葬礼上的同性恋独角兽"等。有趣的是，人工智能制作的图像甚至没有那么逼真，也没有那么性暴露。</p>
 <p>"是不是互联网就是这么饥渴，以至于他们想在任何地方看到这些东西呢？还是人们有滥用人工智能系统的倾向？" Lu继续说，"无论如何，输出的内容一定是让这些用户失望的，因为我们的模型输出的作品大都是抽象主义的。"</p>
+<p><img src="https://cors.zfour.workers.dev/?http://regmedia.co.uk/2021/08/20/vqgan_clip.jpg" alt="Kapwing：互联网利用我们的AI框架制作色情资源！" referrerpolicy="no-referrer"></p>
 <p>https://www.theregister.com/2021/08/22/in_brief_ai/</p>  
 </div>
             

@@ -1,0 +1,75 @@
+
+---
+title: 'ST摩登：证监会调查仍在进行中'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/928fba04-5401-4248-8373-58b533716a66_msai_zonglan_pic?nbddata-height=804&nbddata-width=930&type=png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/928fba04-5401-4248-8373-58b533716a66_msai_zonglan_pic?nbddata-height=804&nbddata-width=930&type=png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          ST摩登：证监会调查仍在进行中
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-08-30 18:36:47
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E7%94%B7%E8%A3%85" class="typeTag tagColor3">男装</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B9%BF%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">广东省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=002656" data-stock-code="002656" class="typeTag tagColor1">ST摩登 <abbr class="lows">-1.0%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="announce-summary" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经AI快讯，</span><span style="white-space: pre-wrap;">ST摩登（SZ 002656，收盘价：2.77元）8月30日晚间发布公告称，截至本公告披露之日，公司尚未收到就上述立案调查事项的结论性意见或相关进展文件。如公司因上述立案调查事项被中国证监会予以行政处罚，公司股票交易将存在被实行退市风险。</span></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;">2021年半年报显示，ST摩登的主营业务为批发零售业(线下)、批发零售业(线上)、互联网行业，占营收比例分别为：90.99%、4.21%、3.3%。</p>
+<p style="line-height: 1.6; margin-bottom: 15px; white-space: pre-wrap;">ST摩登的总经理、董事长均是林毅超，男，31岁，中国国籍，无境外永久居留权，硕士学历。</p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><span class="rss-need-del" style="font-weight: bold;">道达号（daoda1997）“个股趋势”提醒：</span><br>1. ST摩登近30日内北向资金持股量未发生变化；<br>2. 近30日内无机构对ST摩登进行调研。<span class="rss-need-del rss-need-del-toutiao">更多关键信息，请搜索“道达号”。</span></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/928fba04-5401-4248-8373-58b533716a66_msai_zonglan_pic?nbddata-height=804&nbddata-width=930&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/6fda33f0-64f3-4448-9281-5bec8b5488d7_msai_zonglan_pic?nbddata-height=978&nbddata-width=750&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经头条（nbdtoutiao）——</span><a style="text-decoration: none;" href="http://mp.weixin.qq.com/s?__biz=MzIwNDY3NDMyMw==&mid=2247519417&idx=1&sn=78bb4e510e700d94b3de828adebf798e&chksm=973e48c5a049c1d3a5f766bf922b532ff1ed708b9418a185ec134d20f350bd67b985283f93ec#rd">首次临床检验试剂集采惊魂一周：政策刚出时板块单日蒸发千亿，厂商代表“满头大汗”，代理商直呼行业变天</a></p>
+<p class="m-original-right" style="width:100%; text-align:right; font-weight:bold;">(记者 王晓波)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red;">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
