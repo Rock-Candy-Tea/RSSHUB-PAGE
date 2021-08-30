@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210830/1630288008_3189
 
 <div>   
 <p style="text-indent:2em;">
-ELF-SR1是索尼克及于2020年时发布的3D空间现实显示器，效果令人惊叹不过售价高昂，近日一位高玩展示了平价版3D空间现实显示器，出色的立体效果引发网友惊叹点赞。
+ELF-SR1是索尼于2020年时发布的3D空间现实显示器，效果令人惊叹不过售价高昂，近日一位高玩展示了平价版3D空间现实显示器，出色的立体效果引发网友惊叹点赞。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210830/1630288008_318978.png" alt="高玩打造平价版3D空间现实显示器 效果不输索尼高价ELF-SR1" referrerpolicy="no-referrer"> 

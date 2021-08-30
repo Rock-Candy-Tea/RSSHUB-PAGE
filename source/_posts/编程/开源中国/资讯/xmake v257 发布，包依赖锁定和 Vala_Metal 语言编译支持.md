@@ -8,7 +8,7 @@ categories:
 headimg: 'https://tboox.org/static/img/xmake/xmake-metal.png'
 author: 开源中国
 comments: false
-date: Mon, 30 Aug 2021 01:29:00 GMT
+date: Mon, 30 Aug 2021 09:28:00 GMT
 thumbnail: 'https://tboox.org/static/img/xmake/xmake-metal.png'
 ---
 
