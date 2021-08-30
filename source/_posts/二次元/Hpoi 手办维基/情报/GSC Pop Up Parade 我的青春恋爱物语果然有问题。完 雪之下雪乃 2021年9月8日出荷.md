@@ -1,0 +1,42 @@
+
+---
+title: 'GSC Pop Up Parade 我的青春恋爱物语果然有问题。完 雪之下雪乃 2021年9月8日出荷'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2021/04/40c44f6a47a144f2a5f93094cb810587.jpg?date=1618455962649'
+author: Hpoi 手办维基
+comments: false
+date: Mon, 30 Aug 2021 06:53:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2021/04/40c44f6a47a144f2a5f93094cb810587.jpg?date=1618455962649'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>GSC Pop Up Parade 我的青春恋爱物语果然有问题。完 雪之下雪乃 2021年9月8日出荷<br>更新内容: 
+                
+                    
+                    
+                    
+                        出荷时间
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2021/04/40c44f6a47a144f2a5f93094cb810587.jpg?date=1618455962649" referrerpolicy="no-referrer">  
+</div>
+            
