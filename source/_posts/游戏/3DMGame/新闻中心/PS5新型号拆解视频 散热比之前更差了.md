@@ -15,7 +15,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210829/1630244957_7923
 <div>   
 <p style="text-indent:2em;">
 油管技术频道Austin 
-Evans成功拿到了一台新机型PS5，该机型最近悄悄在日本和澳大利亚发售。对索尼新型号PS5的早期分析显示，索尼更换了多个内部配件，导致主机的散热系统大大降低。
+Evans成功拿到了一台新机型PS5，该机型最近悄悄在日本和澳大利亚发售。对索尼新型号PS5的早期分析显示，索尼更换了多个内部配件，导致主机的散热效果低。
 </p>
 <p style="text-indent:2em;">
 视频：

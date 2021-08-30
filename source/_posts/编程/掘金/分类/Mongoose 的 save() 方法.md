@@ -5,11 +5,11 @@ categories:
  - 编程
  - 掘金
  - 分类
-headimg: 'https://picsum.photos/400/300?random=8117'
+headimg: 'https://picsum.photos/400/300?random=4211'
 author: 掘金
 comments: false
 date: Sun, 29 Aug 2021 02:41:58 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8117'
+thumbnail: 'https://picsum.photos/400/300?random=4211'
 ---
 
 <div>   
@@ -112,7 +112,7 @@ friendSchema.pre(<span class="hljs-string">'save'</span>, <span class="hljs-func
 &#125;)
 <span class="hljs-keyword">const</span> schema = Schema(&#123;
   <span class="hljs-attr">name</span>: <span class="hljs-built_in">String</span>,
-  <span class="hljs-attr">age</span>: <span class="hljs-built_in">String</span>,
+  <span class="hljs-attr">age</span>: <span class="hljs-built_in">Number</span>,
   <span class="hljs-attr">friend</span>: friendSchema
 &#125;)
 <span class="hljs-keyword">const</span> Person = mongoose.model(<span class="hljs-string">'Person'</span>, schema)
