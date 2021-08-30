@@ -1,0 +1,24 @@
+
+---
+title: 'VOA：中国大力整顿饭圈文化 恐难有实质性改变'
+categories: 
+ - 新媒体
+ - 快媒体
+ - 首页更新
+headimg: 'https://www.kuai.media/news/2021/08/30/static/image/kuai/external-link.gif'
+author: 快媒体
+comments: false
+date: 2021-08-30 13:15:00
+thumbnail: 'https://www.kuai.media/news/2021/08/30/static/image/kuai/external-link.gif'
+---
+
+<div>   
+<a href="https://www.kuai.media/go.php?aid=263956" target="_blank" role="link" data-focusable="true" class="sum" rel=" noopener noreferrer">
+
+<strong>摘要</strong>: 中国大力整顿饭圈文化 恐难有实质性改变 https://t.co/C9y2ssgE3mmdash; 美国之音中文网 (@VOAChinese) August 30, 2021近期中国大陆偶像圈丑闻频出，先有吴亦凡涉嫌强奸被捕，后有张哲瀚被爆精日导致身败名裂。饭圈乱象并非新闻，互撕谩骂，诱骗消费等行为以及饭圈严格的组织性，都早被政府视为眼中钉，并在今年6月誓言进行为期两个月的“清朗行动”整顿。如今清朗行动已到原计划的结束期，打击手段仍然暴风雨一般猛烈。官媒继续在社交媒体口诛笔伐，网信办在8月28日要求取消所有涉明星艺人个人或组合的排行榜单。分析人士指出，除非国家下决心整顿饭圈背后的资本，否则清朗无法清太久，一切都会回归原样。 偶像的溃败和人设崩塌 过 ... <span class="more"><img width="35" src="https://www.kuai.media/news/2021/08/30/static/image/kuai/external-link.gif" referrerpolicy="no-referrer">点击阅读全文 @voachinese.com</span>
+</a>
+
+
+  
+</div>
+            
