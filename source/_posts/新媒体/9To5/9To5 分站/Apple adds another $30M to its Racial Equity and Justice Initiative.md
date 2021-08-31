@@ -14,7 +14,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/app
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/apple_reji-innovation-grants_hero_08312021_Full-Bleed-Image.jpg.medium_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Just over a year <a href="https://9to5mac.com/2020/06/11/apple-announces-new-racial-equity-and-justice-initiative-with-100-million-commitment/">since officially launching</a> its Racial Equity and Justice Initiative (REJI) with a $100 million commitment, Apple is going to invest another $30 million to broaden its efforts even further.</p>
+<p>Just over a year <a href="https://9to5mac.com/2020/06/11/apple-announces-new-racial-equity-and-justice-initiative-with-100-million-commitment/">since officially launching</a> its Racial Equity and Justice Initiative (REJI) with a $100 million commitment, Apple is going to invest another $30 million to broaden its efforts even further. The new commitments will see Apple expand access to equity in education, elevate more app founders and technologists from underrepresented backgrounds – including a new Hispanic/Latinx Entrepreneur Camp cohort, and invest further in criminal justice and environmental justice organizations.</p>
 <p><span id="more-748475"></span>
 </p>
 <p>Apple detailed the additional major investment to REJI in a <a href="https://www.apple.com/newsroom/2021/08/apple-broadens-racial-equity-and-justice-initiative-with-30-million-in-new-commitments/">Newsroom post</a> this morning:</p>
