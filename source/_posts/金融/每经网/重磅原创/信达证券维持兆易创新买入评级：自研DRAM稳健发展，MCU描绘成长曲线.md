@@ -1,0 +1,72 @@
+
+---
+title: '信达证券维持兆易创新买入评级：自研DRAM稳健发展，MCU描绘成长曲线'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://picsum.photos/400/300?random=2386'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=2386'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          信达证券维持兆易创新买入评级：自研DRAM稳健发展，MCU描绘成长曲线
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-08-31 18:51:24
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" class="typeTag tagColor3">集成电路</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%8C%97%E4%BA%AC" class="typeTag tagColor2">北京</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=603986" data-stock-code="603986" class="typeTag tagColor1">兆易创新 <abbr class="lows">-10.0%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="announce-summary" style="line-height: 1.6; margin-bottom: 15px;"><span style="white-space: pre-wrap;"><span style="font-weight: bold;">每经AI快讯，</span>信达证券08月31日发布研报称，维持兆易创新（603986.SH，最新价：153.05元）买入评级。评级理由主要包括：1）二季度业绩超预期；2）存储业务表现亮眼，自研DRAM稳步推进；3）MCU超越去年全年水准，描绘快速成长曲线；4）传感器稳健成长，拓宽布局把握机遇。风险提示：景气度下行；市场竞争加剧；产品迭代不及预期。</span></p>
+<p style="line-height: 1.6; margin-bottom: 15px;">AI点评：兆易创新近一个月获得7份券商研报关注，买入5家，增持1家，平均目标价为253.09元，与最新价153.05元相比，高100.04元，目标均价涨幅65.36%。</p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经头条（nbdtoutiao）——</span><a style="text-decoration: none;" href="http://mp.weixin.qq.com/s?__biz=MzIwNDY3NDMyMw==&mid=2247519456&idx=1&sn=fb8d2f8ad34072c20173bdc4fb8bdefc&chksm=973e489ca049c18a16c6420c721b7f3dd0f8e93cb9dbc8123512afd5ada98b7e3d2ba9359bca#rd">一场由“官办中介功能上新”引发的行业焦虑</a></p>
+<p class="m-original-right" style="width:100%; text-align:right; font-weight:bold;">(记者 蔡鼎)</p>
+<p> </p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
