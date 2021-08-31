@@ -31,7 +31,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/scr
 <p>
 </p></div>
 </figure>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3js5FyQ"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt class="wp-image-748175" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
