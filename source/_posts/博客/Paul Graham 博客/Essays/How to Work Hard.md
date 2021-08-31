@@ -5,17 +5,17 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=1135'
+headimg: 'https://picsum.photos/400/300?random=7949'
 author: Paul Graham 博客
 comments: false
-date: 2021-08-31 07:06:44
-thumbnail: 'https://picsum.photos/400/300?random=1135'
+date: 2021-08-31 08:08:00
+thumbnail: 'https://picsum.photos/400/300?random=7949'
 ---
 
 <div>   
 June 2021<br><br>It might not seem there's much to learn about how to work hard.
 Anyone who's been to school knows what it entails, even if they
-chose not to. There are 12 year olds who work amazingly hard. And
+chose not to do it. There are 12 year olds who work amazingly hard. And
 yet when I ask if I know more about working hard now than when I
 was in school, the answer is definitely yes.<br><br>One thing I know is that if you want to do great things, you'll
 have to work very hard. I wasn't sure of that as a kid. Schoolwork
