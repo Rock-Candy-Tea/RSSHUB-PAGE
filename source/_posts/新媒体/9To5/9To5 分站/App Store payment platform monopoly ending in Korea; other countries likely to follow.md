@@ -34,6 +34,10 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <p>The law amends South Korea’s Telecommunications Business Act to prevent large app-market operators from requiring the use of their in-app purchasing systems. It also bans operators from unreasonably delaying the approval of apps or deleting them from the marketplace—provisions meant to head off retaliation against app makers.</p>
 </blockquote>
 <p>To give the act teeth, companies who fail to comply can be fined up to 3% of their South Korean revenue. To be clear, that would be 3% of <em>all</em> Apple’s revenue in the country, not just App Store revenue (which would obviously be an ineffective deterrent).</p>
+<p>The Coalition for App Fairness welcomed the news.</p>
+<blockquote class="wp-block-quote">
+<p>“South Korea’s new app store law is a significant development in the global fight to bring fairness to the digital economy,” said Meghan DiMuzio, Executive Director of CAF. “We applaud South Korean lawmakers and President Moon Jae-in for setting an example for the rest of the world to hold app store gatekeepers accountable for their harmful and anti-competitive practices. The Coalition for App Fairness hopes U.S. and European lawmakers follow South Korea’s lead and continue their important work to level the playing field for all app developers and users.”</p>
+</blockquote>
 <h2 id="h-other-countries-likely-to-follow-suit">Other countries likely to follow suit</h2>
 <p>Many antitrust experts believe that South Korea will simply be the first of many to implement this type of legislation.</p>
 <blockquote class="wp-block-quote">
