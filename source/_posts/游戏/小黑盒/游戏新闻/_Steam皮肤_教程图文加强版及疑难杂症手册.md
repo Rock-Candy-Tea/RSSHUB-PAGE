@@ -1,0 +1,18 @@
+
+---
+title: '_Steam皮肤_教程图文加强版及疑难杂症手册'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/08/31/c9925fecbccc7d2f23487ca2cd6624af/thumb.png'
+author: 小黑盒
+comments: false
+date: Tue, 31 Aug 2021 14:55:25 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/08/31/c9925fecbccc7d2f23487ca2cd6624af/thumb.png'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#黑盒暑期降温计划#</a><a href="heybox://open_subject" target="_blank">#steam#</a><a href="heybox://open_subject" target="_blank">#steam皮肤界面#</a><br></p><p>前两天随手发了个Steam皮肤的教程，结果被大家的热情吓到了(私信裂开了x)</p><p>再次细化教程，并将一些细节和疑难杂症解决方案整理在后面</p><p>（为了感谢大家谬赞，将目前Github最新的<b>2.4.1版本</b>紧急魔改，增加更多替换图并在一些小细节优化修改）</p><p>先上图（Ps：多开一些页面看看有彩蛋哦【滑稽】）</p><p><img class="lazy" data-height="893" src="https://imgheybox.max-c.com/bbs/2021/08/31/c9925fecbccc7d2f23487ca2cd6624af/thumb.png" data-width="1657" referrerpolicy="no-referrer"></p>2.4.1肉眼可见的更新处：头像变回方形，支持Bate版的新下载界面<p>（并解决了头像有时显示不出来的问题（也有可能是我网问题x））</p><p>（还有其他的一些更新处就去原大佬的Github看吧）<br></p><p><br></p><hr><h2>已成功安装的可以跳过此章节</h2><h2>教程开始</h2><h3>1.下载皮肤包（链接见评论）</h3><h3>2.选择“解压到当前文件夹”，随后会解压出一个名为“Threshold.Miku_Dark_2.4.1_gai”的文件夹</h3><h3>3.将这个Threshold.Miku_Dark_2.4.1_gai文件夹放到Steam根目录下的skins文件夹内（若根目录下没有skins文件夹则新建一个）</h3><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/fbd778292287df12321b9ab44134dafc/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">请输入图片描述</h4><p><br></p><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/7e772d36e3b047effeb71f84278e05ba/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">请输入图片描述</h4><p><br></p><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/5c335520685a17c10fbfe53766bd793b/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">请输入图片描述</h4><p><br></p><h3>4.双击“Threshold Miku Customizer 2.exe”启动安装器并将MainBG换为文件夹中的或自定义(多一步防止网页背景出问题)</h3><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/bc3c395e7488920769a437f572fcc145/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">请输入图片描述</h4><p><br></p><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/2ddb1dc09b7e7e058c45ba29e94061d6/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">不用在意预览图</h4><p><br></p><p><b>当然，如果你想换自己的图也是一样的，选择不同页面然后设定新背景应用即可</b></p><h3>5.最后一步，在Steam设置-界面中选择我们的新皮肤并重启</h3><p><img src="https://imgheybox.max-c.com/bbs/2021/08/31/412468c39b37a241c333344fcb52c5bf/thumb.png" referrerpolicy="no-referrer"></p><h4 class="img-desc" contenteditable="true">请输入图片描述</h4><p><br></p><p><b>Duang~Steam又变得养眼起来了</b></p><hr><p><b><br></b></p><p><b>第二部分  各种问题的解决方案</b></p><h2>Ps：问题可以千奇百怪，一个方案不一定适用于所有人，请多试多找，无法解决的可以在评论区求助，成功解决问题的也可以在评论区留下办法帮助他人</h2><hr><p>Q：我下的皮肤包里没有安装器/exe文件<br></p><p>A：检查是否下错皮肤包，1.5.1版本是用install.cmd来安装的，请重新下载(目前)最新的2.4.1版本</p><hr><p>Q：Steam设置里只有默认皮肤，没有皮肤包</p><p>A：检查是否是在<b>Steam根目录</b>下的<b>skins文件夹</b>内有<b>皮肤文件夹</b></p><p><b>      </b>常见问题：skins文件夹名称错误/位置错误，直接将皮肤文件放在skins里</p><hr><p>Q：商店等网页的背景图片错误或未替换</p><p>A：在安装器里选择MainBG并换图(见上面)（若不行可尝试先重置后再换）</p><hr><p>Q：商店等网页一片黑，加载不出来了</p><p>A：安装器内换图时，背景图片文件大小尽量不要超过550KB，否则可能会导致网页加载过慢</p><p>      (其实就是加载不出来)</p><p>      推荐将格式转换为jpg，还不行就压缩一下（网上一搜一堆在线的）</p><hr><p>Q：商店网页背景与UI背景错位</p><p>A：让安装器内的“带URL”与Steam设置-界面的“当可用时显示网站地址栏”保持同步</p><p>      (开都开，关都关)</p><hr><p>Q：太花了，能不能整点不是二次元的</p><p>A：自定义，全黑图，请【滑稽】</p><hr><p>嘛暂时就记得这么多，如果还有问题就评论区加油吧~</p><p>（Ps：皮肤多开一些页面看看有彩蛋哦【滑稽】）</p><p>（小声：挖个坑，之后还会有其他的<b>美(奇)化(怪)教程/好图分享</b>的哦0。0）</p><p><br></p><blockquote><p><b>人类的智慧在于</b><b>思考</b><b>，在于尝试，在于</b><b>创造</b></p></blockquote>  
+</div>
+            

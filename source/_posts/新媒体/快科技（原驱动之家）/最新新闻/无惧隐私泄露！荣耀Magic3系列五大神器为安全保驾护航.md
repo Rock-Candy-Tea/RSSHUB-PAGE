@@ -35,8 +35,8 @@ thumbnail: 'https://img1.mydrivers.com/img/20210831/S39870ff7-d1de-46ae-8571-9a7
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210831/b84a6601-d82e-49a4-8de0-c8eb14171e25.jpg" target="_blank"><img alt="无惧隐私泄露！荣耀Magic3系列五大神器为安全保驾护航" h="337" src="https://img1.mydrivers.com/img/20210831/Sb84a6601-d82e-49a4-8de0-c8eb14171e25.jpg" style="border:black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p><strong><strong>双TEE隔离环境</strong></strong></p>
 <p>荣耀Magic3系列遵循Global Platform TEE标准，<span style="color:#ff0000;"><strong>在系统底层建立了专门的微内核H-TEE和Q-TEE，双TEE隔离环境。</strong></span></p>
-<p>为用户提供了对硬件资源的保护和隔离，包括内存、外设等，通过执行过程保护、密钥保密性、数据完整性和访问权限实现了端到端的安全，可防止来自非安全世 界中的恶意软件攻击。</p>
-<p>无需担心锁屏密码、生物信息、加密密钥、支付数据等敏感的隐私信息泄露。</p>
+<p>为用户提供了对硬件资源的保护和隔离，包括内存、外设等，通过执行过程保护、密钥保密性、数据完整性和访问权限实现了端到端的安全，可防止来自非安全世界中的恶意软件攻击。</p>
+<p>无需担心锁屏密码、生物信息、加密秘钥、支付数据等敏感的隐私信息泄露。</p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210831/a33a0614-25ae-4916-91a6-570c3f04d328.jpg" target="_blank"><img alt="无惧隐私泄露！荣耀Magic3系列五大神器为安全保驾护航" h="337" src="https://img1.mydrivers.com/img/20210831/Sa33a0614-25ae-4916-91a6-570c3f04d328.jpg" style="border:black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p><strong>最小化APP权限</strong></p>
 <p>相信很多同学在安装手机App时，遇到应用索取通话、麦克风、相机、联系人等若干权限，一旦用户拒绝，则App就无法使用。</p>
