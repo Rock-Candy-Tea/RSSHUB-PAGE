@@ -1,0 +1,70 @@
+
+---
+title: '格林美：公司NCMA四元前驱体产品已经通过核心客户中试认证通过，客户正在进入量产品吨'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://picsum.photos/400/300?random=92'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=92'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          格林美：公司NCMA四元前驱体产品已经通过核心客户中试认证通过，客户正在进入量产品吨级认证阶段，具备批量供应能力
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-09-01 19:01:40
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E9%87%91%E5%B1%9E%E6%96%B0%E6%9D%90%E6%96%99" class="typeTag tagColor3">金属新材料</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B9%BF%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">广东省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=002340" data-stock-code="002340" class="typeTag tagColor1">格林美 <abbr class="lows">-6.7%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p>每经AI快讯，有投资者在投资者互动平台提问：你好！请问公司的NCMA四元前驱体材料什么时候可以批量出货？客户是LG化学么？</p>
+<p>格林美（002340.SZ）9月1日在投资者互动平台表示，感谢您的关注！公司NCMA四元前驱体产品已经通过核心客户中试认证通过，客户正在进入量产品吨级认证阶段，具备批量供应能力。因客户的保密要求，公司不能透露客户名称、开发产品种类等信息，请您谅解。</p>
+<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 周宇翔)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
