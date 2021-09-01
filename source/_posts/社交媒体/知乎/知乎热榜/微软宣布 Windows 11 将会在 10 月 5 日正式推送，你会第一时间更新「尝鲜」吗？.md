@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4721'
+headimg: 'https://picsum.photos/400/300?random=8906'
 author: 知乎
 comments: false
-date: Wed, 01 Sep 2021 06:44:29 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4721'
+date: Wed, 01 Sep 2021 05:04:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8906'
 ---
 
 <div>   
-iCoA首席特工的回答<br><br><p>预览版早就已经更新了，我的两台笔记本都已经更新了。</p><p>然后单位的电脑由于CPU是4代i5，没办法直接升级。</p><p>所以这个问题来说，已经升级预览版的自然会升级，之前预览版都没办法升级的，自然也不会去升级。</p><p>另外之前确实有一些bug，不知道正式版改的怎么样了。</p><p>比如下面这个：</p><a href="https://www.zhihu.com/zvideo/1393697005122838528" data-draft-node="block" data-draft-type="link-card"><p>这个 Windows 11 这个问题卸载了搜狗输入法就可以解决，当然如果你 Windows 10 出现这个问题，大概率是中了流氓软件了。</p><p>有人问我壁纸哪里下的，由于知乎有水印，我放到我个人网站上了，可以去下载：</p></a><p><a href="https://www.zhihu.com/zvideo/1393697005122838528" data-draft-node="block" data-draft-type="link-card"></a><a href="http://link.zhihu.com/?target=https%3A//www.icoa.cn/a/848.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">iCoA私藏赏心悦目的美女壁纸收藏-逍遥峡谷</a></p>  
+回形针的回答<br><br><p>嘛。。。。怎么说呢。。。。</p><p>win11 beta在用（22000.168截至目前</p><p>然后bug。。。。</p><p>refs突然有次搞了个绿屏然后分区挂了  官方给的refsutil版本还在11070  只支持到refs 3.5  可。。。。系统已经自动把我的refs升级到3.7了。。。。。。</p><p>Android模拟器也没能幸免于难（visual studio的）我担心Android Studio装的Android SDK版本不兼容  用vs的自带的sdk管理器重装了一遍也没用。。。。。最后发现是hyper-v或者whpx的问题。。。。。。</p><p>还有各种小问题  比如独立显卡接副屏导致uwp的按钮的各个层没法正常刷新  右键菜单闪烁  系统DNS设置莫名其妙被覆盖（这东西不该需要管理员权限才允许改的吗</p><p>再有就是些我觉得可以打磨的（开发成本肯定不小  所以就当做梦了）。。。。 比如重做计算机管理整个msc体系的ui  这玩意支持远程管理域内的计算机  单纯移到新设置里是不可能的了</p><p>啊当然.net6用起来也各种小问题（周边工具链的问题）但这个不是Windows的事按下不表</p><hr><p>体验嘛。。。不好。。。（折腾maui的时候还有种深深的“我爱微软  可微软不爱我”的体验）  除了确实出bug了以外还有就是。。。这些小众bug没人理。。。。。</p><p>feedback提了  十几个upvote  然后。。。就没然后了  那些上千upvote的倒是第二天就处理了  就。。。。。。希望能有更有效的反馈途径吧。。。。。</p><hr><p>还有就是我心心念念的 新Mail&OneNote 面向游戏的directstorage 新应用商店  这些。。。 都没有。。。。  （话说应用商店要是能结合msix做包管理就好了  以后发布应用不需要打包运行时了  而且装应用搭环境也省的一个个官网翻  要是能把vs的那些组件也丢进去依赖应用商店分发那可太开心了</p>  
 </div>
             

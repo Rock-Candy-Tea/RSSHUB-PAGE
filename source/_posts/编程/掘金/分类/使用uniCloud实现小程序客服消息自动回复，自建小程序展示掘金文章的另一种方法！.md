@@ -1,0 +1,153 @@
+
+---
+title: '使用uniCloud实现小程序客服消息自动回复，自建小程序展示掘金文章的另一种方法！'
+categories: 
+ - 编程
+ - 掘金
+ - 分类
+headimg: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79fac2fb0528461fad07bc9026dfa57c~tplv-k3u1fbpfcp-watermark.image'
+author: 掘金
+comments: false
+date: Tue, 31 Aug 2021 23:40:31 GMT
+thumbnail: 'https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79fac2fb0528461fad07bc9026dfa57c~tplv-k3u1fbpfcp-watermark.image'
+---
+
+<div>   
+<div class="markdown-body html cache"><style>@charset "UTF-8";.markdown-body&#123;word-break:break-word;line-height:2;font-weight:400;font-size:15px;overflow-x:hidden;color:#333;letter-spacing:1.2px&#125;.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6&#123;line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px&#125;.markdown-body h1:first-child,.markdown-body h2:first-child,.markdown-body h3:first-child,.markdown-body h4:first-child,.markdown-body h5:first-child,.markdown-body h6:first-child&#123;margin-top:-1.5rem;margin-bottom:1rem&#125;.markdown-body h1:before,.markdown-body h2:before,.markdown-body h3:before,.markdown-body h4:before,.markdown-body h5:before,.markdown-body h6:before&#123;content:"#";display:inline-block;color:#3eaf7c;padding-right:.23em&#125;.markdown-body h1&#123;position:relative;font-size:2.5rem;margin-bottom:5px&#125;.markdown-body h1:before&#123;font-size:2.5rem&#125;.markdown-body h2&#123;padding-bottom:.5rem;font-size:2.2rem;border-bottom:1px solid #ececec&#125;.markdown-body h3&#123;font-size:1.5rem;padding-bottom:0&#125;.markdown-body h4&#123;font-size:1.25rem&#125;.markdown-body h5&#123;font-size:1rem&#125;.markdown-body h6&#123;margin-top:5px&#125;.markdown-body p&#123;line-height:inherit;margin-top:22px;margin-bottom:22px&#125;.markdown-body strong&#123;color:#3eaf7c&#125;.markdown-body img&#123;max-width:100%;border-radius:2px;display:block;margin:auto&#125;.markdown-body hr&#123;border:none;border-top:1px solid #3eaf7c;margin-top:32px;margin-bottom:32px&#125;.markdown-body code&#123;word-break:break-word;overflow-x:auto;padding:.2rem .5rem;margin:0;color:#3eaf7c;font-size:.85em;background-color:rgba(27,31,35,.05);border-radius:3px&#125;.markdown-body code,.markdown-body pre&#123;font-family:Menlo,Monaco,Consolas,Courier New,monospace&#125;.markdown-body pre&#123;overflow:auto;position:relative;line-height:1.75;border:.5rem solid #3eaf7c&#125;.markdown-body pre>code&#123;font-size:12px;padding:15px 12px;margin:0;word-break:normal;display:block;overflow-x:auto;color:#333;background:#f8f8f8&#125;.markdown-body a&#123;font-weight:500;text-decoration:none;color:#3eaf7c;margin:0 5px&#125;.markdown-body a:active,.markdown-body a:hover&#123;text-decoration:none;border-bottom:1.5px solid #3eaf7c&#125;.markdown-body a[href^=http]:after&#123;content:url("data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiPjxkZWZzPjxzdHlsZS8+PC9kZWZzPjxwYXRoIGQ9Ik04MzIgMTI4SDY0MHY2NGgxNDYuNzUyTDUyMS4zNzYgNDU3LjM3Nmw0NS4yNDggNDUuMjQ4TDgzMiAyMzcuMjQ4VjM4NGg2NFYxMjh6IiBmaWxsPSIjM2VhZjdjIi8+PHBhdGggZD0iTTc2OCA4MzJIMTkyVjI1NmgzNTJ2LTY0SDE2MGEzMiAzMiAwIDAwLTMyIDMydjY0MGEzMiAzMiAwIDAwMzIgMzJoNjQwYTMyIDMyIDAgMDAzMi0zMlY0ODBoLTY0djM1MnoiIGZpbGw9IiMzZWFmN2MiLz48L3N2Zz4=");margin-left:2px&#125;.markdown-body a[href^="#"]:before&#123;content:"#"&#125;.markdown-body table&#123;display:inline-block!important;font-size:13px;width:auto;max-width:100%;overflow:auto;border:1px solid #3eaf7c;border-collapse:collapse&#125;.markdown-body thead&#123;background:#3eaf7c;color:#fff;text-align:left&#125;.markdown-body tr:nth-child(2n)&#123;background-color:rgba(153,255,188,.1)&#125;.markdown-body td,.markdown-body th&#123;padding:4px 8px;line-height:24px&#125;.markdown-body td&#123;min-width:120px&#125;.markdown-body blockquote&#123;color:#7b7878;padding:1px 23px;border-left:.5rem solid;border-color:#42b983;background-color:rgba(66,184,131,.1);position:relative;margin:14px 8px 0&#125;.markdown-body blockquote:before&#123;display:inline-block;position:absolute;content:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAyNyAyNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjg2MiAxLjg2MikiIGZpbGwtcnVsZT0ibm9uemVybyIgZmlsbD0ibm9uZSI+PGNpcmNsZSBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMS43MjQiIGZpbGw9IiM0MkI5ODMiIGN4PSIxMS42MzgiIGN5PSIxMS42MzgiIHI9IjExLjYzOCIvPjxwYXRoIGQ9Ik0xNC45NzggNi4yN0E1LjAwNiA1LjAwNiAwIDAwNi42NyA5LjQ2OGE0LjkwMSA0LjkwMSAwIDAwMS43NzMgNC4zNjJjLjMyMy4yNTguNTE0LjY0Ny41MjIgMS4wNnYxLjA2YTIuNjg1IDIuNjg1IDAgMDA1LjM3IDB2LTEuMDA4Yy4wMDItLjM5OC4xNzMtLjc3Ny40Ny0xLjA0MmE1LjAyMyA1LjAyMyAwIDAwLjE3My03LjYzem0tMy4zMzcgMTAuOTY3YTEuMzA0IDEuMzA0IDAgMDEtMS4yODYtMS4yODd2LS4yNzhoMi41NzJ2LjI2MWMwIC43MTMtLjU3MyAxLjI5NC0xLjI4NiAxLjMwNHptMi4yNi00LjQxNWMtLjQ0LjM4My0uNzUuODkzLS44ODcgMS40NmgtMi43NDZhMi44NjggMi44NjggMCAwMC0uOTM4LTEuNTNoLS4wMThhMy40NzYgMy40NzYgMCAwMS0xLjI2OS0zLjE0NSAzLjYxNSAzLjYxNSAwIDAxNy4xOTYuNCAzLjY1IDMuNjUgMCAwMS0xLjMzOCAyLjgxNXoiIGZpbGw9IiNGRkYiLz48L2c+PC9zdmc+");width:25px;height:25px;left:-16px;top:12px&#125;.markdown-body blockquote>p&#123;margin:10px 0&#125;.markdown-body details&#123;outline:none;border:none;border-left:4px solid #3eaf7c;padding-left:10px;margin-left:4px&#125;.markdown-body details summary&#123;cursor:pointer;border:none;outline:none;background:#fff;margin:0 -17px&#125;.markdown-body details summary::-webkit-details-marker&#123;color:#3eaf7c&#125;.markdown-body ol,.markdown-body ul&#123;padding-left:28px&#125;.markdown-body ol li,.markdown-body ul li&#123;margin-bottom:0;list-style:inherit&#125;.markdown-body ol li .task-list-item,.markdown-body ul li .task-list-item&#123;list-style:none&#125;.markdown-body ol li .task-list-item ol,.markdown-body ol li .task-list-item ul,.markdown-body ul li .task-list-item ol,.markdown-body ul li .task-list-item ul&#123;margin-top:0&#125;.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul&#123;margin-top:3px&#125;.markdown-body ol li&#123;padding-left:6px&#125;.markdown-body ol li::marker&#123;color:#3eaf7c&#125;.markdown-body ul li&#123;list-style:none;padding-left:10px&#125;.markdown-body ul li::marker&#123;content:"•";color:#3eaf7c&#125;.markdown-body ul li.task-list-item:before&#123;content:"";margin-right:0&#125;.markdown-body input[type=checkbox]&#123;vertical-align:text-bottom;box-shadow:inset 0 0 0 10px #fff&#125;.markdown-body input[type=checkbox]:before&#123;content:url("data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiPjxkZWZzPjxzdHlsZS8+PC9kZWZzPjxwYXRoIGQ9Ik04NzcuMDU2IDE0Ni45NDR2NzMwLjExMkgxNDYuOTQ0VjE0Ni45NDRoNzMwLjExMnptMC0xMDQuMjc3SDE0Ni45NDRjLTU3LjYyOCAwLTEwNC4yNzcgNDYuNjQ5LTEwNC4yNzcgMTA0LjI3N3Y3MzAuMTEyYzAgNTcuNjI4IDQ2LjY0OSAxMDQuMjc3IDEwNC4yNzcgMTA0LjI3N2g3MzAuMTEyYzU3LjYyOCAwIDEwNC4yNzctNDYuNjQ5IDEwNC4yNzctMTA0LjI3N1YxNDYuOTQ0YzAtNTcuNjI4LTQ2LjY0OS0xMDQuMjc3LTEwNC4yNzctMTA0LjI3N3oiIGZpbGw9IiMzZWFmN2MiLz48L3N2Zz4=");position:relative;top:-2px;right:2px&#125;.markdown-body input[type=checkbox]:checked:before&#123;content:url("data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiPjxkZWZzPjxzdHlsZS8+PC9kZWZzPjxwYXRoIGQ9Ik05MTAuMjA4IDBIMTEzLjc2QTExNC4xMTIgMTE0LjExMiAwIDAwLS4wMzIgMTEzLjc5MlY5MTAuMjRjMCA2Mi41OTIgNTEuMiAxMTMuNzkyIDExMy43OTIgMTEzLjc5Mmg3OTYuNDQ4YzYyLjU5MiAwIDExMy43OTItNTEuMiAxMTMuNzkyLTExMy43OTJWMTEzLjc5MkMxMDI0IDUxLjIgOTcyLjggMCA5MTAuMjA4IDB6bS01MTIgNzk2LjQ0OEwxMTMuNzYgNTEybDc5LjY0OC03OS42NDggMjA0LjggMjA0LjhMODMwLjU2IDIwNC44bDc5LjY0OCA3OS42NDgtNTEyIDUxMnoiIGZpbGw9IiMzZWFmN2MiLz48L3N2Zz4=");position:relative;top:-2px;right:2px&#125;@media (max-width:720px)&#123;.markdown-body h1&#123;font-size:24px&#125;.markdown-body h2&#123;font-size:20px&#125;.markdown-body h3&#123;font-size:18px&#125;&#125;</style><h1 data-id="heading-0">前言</h1>
+<p>最近都在使用uni-app+uniCloud来完成一些个人原创技术内容的基础建设，比如完成了一个名为<code>大帅老猿</code>的小程序。未来还将利用这个小程序来和读者们互动，以及承载一些产品的创意玩法。</p>
+<p>目前的版本就是用来承载我原创的技术内容视频或者文章，本篇文章我来分享下如何利用uniCloud云开发实现小程序客服消息的接收和发送。</p>
+<h1 data-id="heading-1">客服消息</h1>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><button open-type=<span class="hljs-string">'contact'</span>>联系客服<button>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79fac2fb0528461fad07bc9026dfa57c~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<p>我们只需要上面一行代码，即可在微信小程序里实现人工客服的服务。真的是非常的方便，但是我如果想要对接一个机器人客服怎么办呢？这就需要我们开启消息推送，将用户在客服会话中的消息转发到咱们自己的服务器地址中。</p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/167cf64949bb483ca334a077747ed1cc~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<h1 data-id="heading-2">uniCloud云函数</h1>
+<p>这里我们使用<code>uniCloud</code>来完成，薅它的羊毛！</p>
+<p>首先我们在支持uniCloud的uni-app里新建一个云函数，并且为其开启URL化，就是允许通过http的方式来请求。</p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fa010677c6cb4cce8f2259a3be7afac1~tplv-k3u1fbpfcp-watermark.image" alt="新建云函数" loading="lazy" referrerpolicy="no-referrer"></p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/908f42a11f674d4d8adeece697597a10~tplv-k3u1fbpfcp-watermark.image" alt="云函数管理后台" loading="lazy" referrerpolicy="no-referrer"></p>
+<p>然后我们复制这个路径，并填入下图中的<code>URL(服务器地址)</code>中</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript">https:<span class="hljs-comment">//e0b75de1-90c7-4c11-9d12-a8bc84c4d081.bspapp.com/http/customerservice</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>要在云函数里接收客服消息推送</p>
+<ol>
+<li>填写服务器配置</li>
+<li>验证服务器地址的有效性</li>
+<li>据接口文档实现业务逻辑，接收消息和事件</li>
+</ol>
+<h2 data-id="heading-3">填写服务器配置</h2>
+<p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4acf4f502a1d4608a7cd8cf144176e6f~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<ul>
+<li>Token（令牌）<code>根据提示输入</code></li>
+<li>EncodingAESKey <code>随机生成</code></li>
+<li>加密方式 <code>明文模式</code></li>
+<li>数据格式 <code>JSON</code></li>
+</ul>
+<h2 data-id="heading-4">验证服务器地址的有效性</h2>
+<p>现在如果点提交，我们是通不过的，因为云函数里还没写代码。为了通过，我们先写这么一段</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-meta">'use strict'</span>;
+<span class="hljs-built_in">exports</span>.main = <span class="hljs-keyword">async</span> (event, context) => &#123;
+<span class="hljs-keyword">return</span> event.queryStringParameters.echostr;
+&#125;;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>云函数修改后记得上传部署云函数，然后再点<code>服务器配置</code>中的提交按钮，验证就通过了。这里我们没有真正去校验签名，虽然可以通过，但有被伪造消息的风险。校验签名的事后面再说。</p>
+<h2 data-id="heading-5">接收消息和事件</h2>
+<p>接下来所有的客服消息都会被提交给这个接口，我们在云函数中相应的做出处理即可。</p>
+<p>通过http请求URL化后的云函数，<code>get</code>请求取参要通过<code>queryStringParameters</code>获取，<code>post</code>请求取参要通过<code>body</code>获取。</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-keyword">const</span> receiveMsg = event.body?<span class="hljs-built_in">JSON</span>.parse(event.body):<span class="hljs-literal">null</span>;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>客服消息会有以下几种消息类型（<code>MsgType</code>）</p>
+<ul>
+<li>event</li>
+<li>text</li>
+<li>image</li>
+<li>miniprogrampage</li>
+</ul>
+<p>比如用户在客服消息对话中发送文字信息时，会对服务器URL发起一次post请求，从请求body中我们可以获取到如下信息</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript">&#123;
+  <span class="hljs-string">"ToUserName"</span>: <span class="hljs-string">"toUser"</span>,
+  <span class="hljs-string">"FromUserName"</span>: <span class="hljs-string">"fromUser"</span>,
+  <span class="hljs-string">"CreateTime"</span>: <span class="hljs-number">1482048670</span>,
+  <span class="hljs-string">"MsgType"</span>: <span class="hljs-string">"text"</span>,
+  <span class="hljs-string">"Content"</span>: <span class="hljs-string">"this is a test"</span>,
+  <span class="hljs-string">"MsgId"</span>: <span class="hljs-number">1234567890123456</span>
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<h2 data-id="heading-6">回复消息</h2>
+<p>现在我们只需要拿到这个content，交给机器人服务获取回复，再发送一条回复信息，用户就可以收到了。在<code>uniCloud</code>里我们这么写</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-keyword">if</span>(receiveMsg.MsgType==<span class="hljs-string">"text"</span>)&#123;
+    <span class="hljs-comment">//对receiveMsg.text.content做处理</span>
+    <span class="hljs-comment">//处理结束后</span>
+    <span class="hljs-keyword">const</span> access_token = <span class="hljs-comment">//调用回复用户消息的接口，需要先获取access_token</span>
+    <span class="hljs-keyword">const</span> res = <span class="hljs-keyword">await</span> uniCloud.httpclient.request(<span class="hljs-string">"https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token="</span>+access_token,&#123;
+<span class="hljs-attr">method</span>:<span class="hljs-string">"POST"</span>,
+<span class="hljs-attr">headers</span>:&#123;
+<span class="hljs-string">"Content-Type"</span>:<span class="hljs-string">"application/json"</span>
+&#125;,
+<span class="hljs-attr">dataType</span>:<span class="hljs-string">"json"</span>,
+<span class="hljs-attr">data</span>:&#123;
+                    <span class="hljs-comment">//你要回复的用户就是刚才发消息的用户，所以直接赋值为刚才收到消息体中的FromUserName即可</span>
+                    <span class="hljs-attr">touser</span>: receiveMsg.FromUserName,
+                    <span class="hljs-attr">msgtype</span>: <span class="hljs-string">'text'</span>,
+                    <span class="hljs-attr">text</span>: &#123;
+                      <span class="hljs-attr">content</span>: <span class="hljs-string">'收到'</span>,
+                    &#125;
+                &#125;
+&#125;);
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<h1 data-id="heading-7">彩蛋！</h1>
+<p>在小程序里要展示掘金的文章还挺麻烦，<code>webview</code>肯定不行，因为业务域名操作不了的。拿到内容自己htmlParser的话，掘金里很多长文，估计自己解析也很麻烦。</p>
+<p>那么利用这个客服消息，我们能怎么做呢？</p>
+<p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f3fb5ec1e9b343f393059b8c6a1e84ad~tplv-k3u1fbpfcp-watermark.image" alt="2021-09-01 15_09_09.gif" loading="lazy" referrerpolicy="no-referrer"></p>
+<h2 data-id="heading-8">掘金的两个接口</h2>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-comment">//获取文章列表</span>
+<span class="hljs-comment">//https://api.juejin.cn/content_api/v1/article/query_list</span>
+<span class="hljs-comment">//获取文章详情</span>
+<span class="hljs-comment">//https://api.juejin.cn/content_api/v1/article/detail</span>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>我的做法是这样的，先通过文章列表接口，在前端显示文章列表，文章列表项都用客服消息组件<code>button</code>来装载</p>
+<h2 data-id="heading-9">回复Link类型消息</h2>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><button open-type=<span class="hljs-string">"contact"</span> :session-<span class="hljs-keyword">from</span>=<span class="hljs-string">"'jj_'+item.article_id"</span> style=<span class="hljs-string">"opacity: 0;width: 100%;height: 100%;position: absolute;z-index: 1;"</span>>button</button>
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>这里的关键是<code>SessionFrom</code>字段，当点击这个按钮进入客服消息会话时，服务器URL会接收到一个<code>Event</code>消息</p>
+<pre><code class="hljs language-javascript copyable" lang="javascript"><span class="hljs-keyword">if</span>(receiveMsg.Event==<span class="hljs-string">"user_enter_tempsession"</span>)&#123;
+    <span class="hljs-keyword">var</span> sessionFrom = receiveMsg.SessionFrom;
+    <span class="hljs-keyword">if</span>(sessionFrom.indexOf(<span class="hljs-string">"jj_"</span>)>=<span class="hljs-number">0</span>)&#123;
+            <span class="hljs-comment">//需要显示掘金文章jj_后为文章id</span>
+            <span class="hljs-keyword">var</span> articleId = sessionFrom.substr(<span class="hljs-number">3</span>);
+            
+            <span class="hljs-comment">//获取掘金文章详情，用于拼接回复消息</span>
+            <span class="hljs-keyword">const</span> articleDetailRes = <span class="hljs-keyword">await</span> uniCloud.httpclient.request(<span class="hljs-string">"https://api.juejin.cn/content_api/v1/article/detail"</span>,&#123;
+                    <span class="hljs-attr">data</span>:&#123;
+                            <span class="hljs-string">"article_id"</span>:articleId
+                    &#125;,
+                    <span class="hljs-attr">method</span>:<span class="hljs-string">"POST"</span>,
+                    <span class="hljs-attr">headers</span>:&#123;
+                            <span class="hljs-string">"Content-Type"</span>:<span class="hljs-string">"application/json"</span>
+                    &#125;,
+                    <span class="hljs-attr">dataType</span>:<span class="hljs-string">"json"</span>
+            &#125;)
+
+            <span class="hljs-keyword">const</span> res = <span class="hljs-keyword">await</span> sendCustomerServiceMessage(&#123;
+                    <span class="hljs-attr">touser</span>:receiveMsg.FromUserName,
+                    <span class="hljs-attr">msgtype</span>:<span class="hljs-string">"link"</span>,
+                    <span class="hljs-attr">link</span>: &#123;
+                            <span class="hljs-string">"title"</span>:articleDetailRes.data.data.article_info.title,
+                            <span class="hljs-string">"description"</span>:articleDetailRes.data.data.article_info.brief_content,
+                        <span class="hljs-string">"url"</span>: <span class="hljs-string">"https://juejin.cn/post/"</span>+articleId,
+                            <span class="hljs-string">"thumb_url"</span>: articleDetailRes.data.data.article_info.cover_image
+                    &#125;
+            &#125;);
+    &#125;
+&#125;
+<span class="copy-code-btn">复制代码</span></code></pre>
+<p>*Tada！*完成啦！</p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3bdc406f47664d0a85ca7b332c057c49~tplv-k3u1fbpfcp-watermark.image" alt="image.png" loading="lazy" referrerpolicy="no-referrer"></p>
+<h1 data-id="heading-10">后记</h1>
+<p>接下来我会发布一系列基于<code>uniCloud</code>的原创技术分享，感兴趣的朋友可以关注这个新的专题。</p>
+<p>另外：文中所述的效果大家可以在微信小程序里搜索“<code>大帅老猿</code>”或扫描小程序码来体验一下</p>
+<p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d4f8ab7d6ce04325a054878931943aa4~tplv-k3u1fbpfcp-watermark.image" alt="Snipaste_2021-09-01_15-29-13.jpg" loading="lazy" referrerpolicy="no-referrer"></p></div>  
+</div>
+            
