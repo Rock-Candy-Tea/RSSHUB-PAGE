@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202108/23/8764da/f46c84b0661d0c38.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-09-01 06:09:21
+date: 2021-09-01 07:08:00
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202108/23/8764da/f46c84b0661d0c38.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.08.29                        <br>【Bincoo】玻璃泡茶壶套装<br>                            数量 ：5<br>                            实际价格 ：138元<br>                            名单确认中<br>                            333人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202108/23/8764da/f46c84b0661d0c38.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.08.29                        <br>【Bincoo】玻璃泡茶壶套装<br>                            数量 ：5<br>                            实际价格 ：138元<br>                            活动体验中<br>                            333人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202108/23/8764da/f46c84b0661d0c38.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
