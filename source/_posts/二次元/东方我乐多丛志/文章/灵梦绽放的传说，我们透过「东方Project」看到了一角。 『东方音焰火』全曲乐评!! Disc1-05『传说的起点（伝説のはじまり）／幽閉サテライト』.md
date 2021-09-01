@@ -26,7 +26,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p style="text-align: right;"><span style="font-weight: 400; color: #4e8099;">(这份曲评包含有许多很糟糕的解释，还请注意。真的很糟糕)</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">　这个曲名，可以说是与东方Project最初的作品『东方灵异传』的Arrange曲相符的曲名。</span></p>
-<p><span style="font-weight: 400;">　然后，我认为这也是走到今年已是第11年的幽闭卫星的「新的」传说的开幕一曲。</span></p>
+<p><span style="font-weight: 400;">　然后，我认为这也是走到今年已是第11年的幽闭星光的「新的」传说的开幕一曲。</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">　作为展开新的传说的路标而言，能感受到这首乐曲展现了与至今为止不同的诸多可能性。</span></p>
 <p><span style="font-weight: 400;">　首先乐器和合成器的声音一转。虽然我不知道一转这个说法正不正确，但我觉得幽闭这首曲子有一种新的感觉。这是得魔王，神奈森组合才有这种感觉。唱歌的Marcia的安定的高音的回响也非常美丽。</span></p>
@@ -59,10 +59,10 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <p><span style="font-weight: 400;">　成为巫女的命运是生来就有的命运。为了完成使命必须有舍弃一切的觉悟。但是，还是无法忘却已经得到过一次的爱。与决定已经不再相见的自己斗争着，回想起还普通的自己的时候，还是会感到寂寞。</span></p>
 <p> </p>
-<p><span style="font-weight: 400;">所以、</span></p>
+<p><span style="font-weight: 400;">所以，</span></p>
 <p> </p>
 <p style="text-align: center;"><strong><span style="color: #a02175;">用尽这生命去绽放</span></strong></p>
-<p style="text-align: center;"><strong><span style="color: #a02175;">それがすべて私の物語</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #a02175;">那全都是我的故事</span></strong></p>
 <p> </p>
 <p><span style="font-weight: 400;">　押上自己有限的生命，制作自己的故事，绽放自己的故事。只要这样总有一天，自己的故事会被当成传说被人称道吧。</span></p>
 <p> </p>

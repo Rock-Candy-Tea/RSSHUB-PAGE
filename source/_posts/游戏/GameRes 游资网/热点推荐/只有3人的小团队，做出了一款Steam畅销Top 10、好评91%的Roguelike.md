@@ -1,0 +1,129 @@
+
+---
+title: '只有3人的小团队，做出了一款Steam畅销Top 10、好评91%的Roguelike'
+categories: 
+ - 游戏
+ - GameRes 游资网
+ - 热点推荐
+headimg: 'https://di.gameres.com/attachment/forum/202108/31/110800udtjdwngurg41ugt.jpg'
+author: GameRes 游资网
+comments: false
+date: Invalid Date
+thumbnail: 'https://di.gameres.com/attachment/forum/202108/31/110800udtjdwngurg41ugt.jpg'
+---
+
+<div>   
+<table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2512420">
+Roguelike依然是一个能让小团队以小博大的元素<br>
+<br>
+本月初，《层层梦境》在Steam上正式发行了，这个仅由3人微型团队开发的Roguelike游戏收获了91%的好评。<br>
+<br>
+<div align="center">
+<img id="aimg_1005093" aid="1005093" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110800udtjdwngurg41ugt.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110800udtjdwngurg41ugt.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110800udtjdwngurg41ugt.jpg" referrerpolicy="no-referrer">
+</div><br>
+《层层梦境》带着小团队作品的强烈的风格化表现，游戏以梦境和现实来区分表/里世界的设定，围绕着这样的设定，游戏的画风、配乐也极具辨识度。这些构成了游戏最吸引人的外在部分。游戏也一度进入到全球畅销榜单Top 10，并且在北美市场表现出众。<br>
+<br>
+<div align="center">
+<img id="aimg_1005094" aid="1005094" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110801pi2f2m4pcdg4rh1m.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110801pi2f2m4pcdg4rh1m.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110801pi2f2m4pcdg4rh1m.jpg" referrerpolicy="no-referrer">
+</div><br>
+起初，这几个来自硅谷传统游戏大厂的几位开发者，并不确定项目的未来会走向何处。在Kickstarter上的众筹项目获得两倍于预期的数额、在Early Access阶段得到了良好的玩家反馈，都让团队获得了不小的动力。<br>
+<br>
+一年前，Escapist曾经采访过开发团队，他们分享了这个看起来很有想法的项目是如何成形、优化的。以下是葡萄君编译的原文：<br>
+<br>
+2018年，罗伯特·泰勒(Robert Taylor)和伊恩·科菲诺(Ian Cofino)共同创办了独立工作室Afterburner Studios。此前，他们俩曾供职于硅谷的工作室Outpost。<br>
+<br>
+出于对独立游戏项目“层层梦境”（Dreamscaper）的热爱，他俩决定从3A项目里离职创业。在随后的几个月里，开发团队鼓捣出了一个可以运行的游戏原型。《层层梦境》这款独立游戏，像滚雪球一样逐渐积累起来。<br>
+<br>
+<div align="center">
+<img id="aimg_1005095" aid="1005095" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110801lb7wp7547ewewl5i.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110801lb7wp7547ewewl5i.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110801lb7wp7547ewewl5i.jpg" referrerpolicy="no-referrer">
+</div><br>
+为了吸引更多玩家关注游戏，Afterburner在Kickstarter发起了一次众筹活动。科菲诺表示：“如果你是一支独立开发团队，还没有推出任何游戏，那就很难建立玩家社区。所以众筹对我们来说很重要，能够帮助我们扩大游戏的影响力。” Afterburner是几个开发者自主建立的，对于他们而言，Kickstarter上的众筹能帮助他们拓展市场机会，从而让团队能做出一个最好的版本。<br>
+<br>
+起初，开发团队把《层层梦境》的众筹目标设定为2.5万美元，不过最终筹资金额超过了5万。这之后，Afterburner一直在迭代游戏内容，先后面向众筹玩家发布了游戏的Alpha和Beta版本。“Kickstarter是一个很棒的平台，让我们能够在Steam上正式推出游戏前，验证某些概念。”<br>
+<br>
+《层层梦境》在Steam上发布Early Access版本后，玩家好评率超过了90%。科菲诺说，开发团队收到了来自玩家社群的许多反馈，最近一直在尝试为游戏引入一些兴奋点、优化游戏质量，并计划在10月2日推出一次重大内容更新。<br>
+<br>
+泰勒提到，有一小部分玩家游玩时遇到了硬件问题，这是因为开发团队使用了较旧版本的虚幻引擎。为了解决这些问题，他们花了不少时间来升级引擎，努力为玩家提供最佳体验。“在我们看来，要想表达对玩家的爱，最好的方式就是尽一切可能减少兼容性问题，即便这意味着我们不得不面对工作量巨大的更新。”泰勒说。最近游戏的更新实装了，解决了不少之前的技术问题。<br>
+<br>
+<div align="center">
+<img id="aimg_1005096" aid="1005096" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110802cxthnhqmohmchhhh.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110802cxthnhqmohmchhhh.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110802cxthnhqmohmchhhh.jpg" referrerpolicy="no-referrer">
+</div><br>
+从玩法来看，《层层梦境》分为三个维度：Roguelike、“清醒世界”中的社交，以及战斗。<br>
+<br>
+Roguelike玩法上，开发团队的最大灵感来源是《以撒的结合》，它也是泰勒最喜欢的游戏作品。“我们想，也许我们能做一款次世代版本的《以撒的结合》，有不同的战斗风格和高清画面。”考虑到时间和资源有限，开发团队认为，制作一款roguelike游戏是最好的做法。<br>
+<br>
+《层层梦境》的清醒世界（与梦境相对的现实世界）很容易让人联想到《女神异闻录》。<br>
+<br>
+<div align="center">
+<img id="aimg_1005097" aid="1005097" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110802nclfuwadohzjafg6.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110802nclfuwadohzjafg6.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110802nclfuwadohzjafg6.jpg" referrerpolicy="no-referrer">
+</div><br>
+“几乎每个人都是这么说的。”，泰勒说，但他也提到团队的几位成员的确都没玩过这个系列。而在为《层层梦境》设计清醒世界的机制、玩法时，开发团队受到了《火焰纹章：风花雪月》的启发--《火焰纹章：风花雪月》也有着相似的社交模拟元素。《火焰纹章：风花雪月》当中，除了核心的战棋战斗玩法，在学院当中，玩家也需要与学生们建立关系。<br>
+<br>
+去年上线Kickstarter众筹项目的时候，《层层梦境》还没有清醒世界相关的玩法。这游戏缺失的最大的一环。这也是Early Access阶段，团队最想扩充的部分。<br>
+<br>
+“我打算买一台PS，看看《女神异闻录》究竟是怎么设计的，能不能将部分设计方法运用于我们的游戏中。”泰勒说。<br>
+<br>
+根据科菲诺的说法，除了借鉴《火焰纹章：风花雪月》的玩法结构之外，他还希望以一种简洁方式讲述一个更成熟的故事。虽然在扩充游戏内容这件事上，较长的文本内容总是不可避免的。但他们不愿让游戏剧情显得冗长，想要努力确保主角卡塞蒂(Cassidy)与其他角色的每次互动都是有意义的。<br>
+<br>
+“这就是为什么游戏里许多对话场景都更简短、更干脆。”科菲诺表示，“与那些流程更长的游戏相比，我们的对话数量较少，但它们都很有质量。这一点很重要。”<br>
+<br>
+<div align="center">
+<img id="aimg_1005098" aid="1005098" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110802ry1asapa6zktdds1.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110802ry1asapa6zktdds1.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110802ry1asapa6zktdds1.jpg" referrerpolicy="no-referrer">
+</div><br>
+科菲诺喜欢格斗游戏，多年前还曾是一名职业选手，他非常重视《层层梦境》的战斗设计。“通常来说，某些游戏中，战斗的手感没有机制设计那么重要，但我们希望将两者结合在一起。”通过《层层梦境》，开发团队希望将现代的战斗机制融入到一款Roguelike游戏中。团队选择了一种小体量的、流畅的玩法机制，从而让自己能够在内容拓展和流程上有更大的发挥空间。<br>
+<br>
+<div align="center">
+<img id="aimg_1005099" aid="1005099" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110805gveq7nzz1z7ll8q1.gif" data-original="https://di.gameres.com/attachment/forum/202108/31/110805gveq7nzz1z7ll8q1.gif" width="330" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110805gveq7nzz1z7ll8q1.gif" referrerpolicy="no-referrer">
+</div><br>
+很多初创的独立工作室在做第一款游戏的时候，都会采用2D的设计，但《层层梦境》的开发团队更熟悉3D设计，选择了用3D画面来发发挥团队的优势。作为Afterburner的角色和环境美术，保罗·斯沃波达（Paul Svoboda）在3D领域积累了丰富的经验。<br>
+<br>
+而他在创作时，从绘画作品中吸取了很多灵感。当一个人做梦的时候，可能会看到很多虚无缥缈的、不成形的事物。另外，《层层梦境》的美术风格“还有助于弱化主题，从而形成对比。”“它既让人感觉亲切，同时又能让故事显得更有深度。”科菲诺说。<br>
+<br>
+<div align="center">
+<img id="aimg_1005100" aid="1005100" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110805iyhyha2trry8yrf8.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110805iyhyha2trry8yrf8.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110805iyhyha2trry8yrf8.jpg" referrerpolicy="no-referrer">
+</div><br>
+在敌人和Boss设计方面，开发团队希望将《层层梦境》的所有系统结合在一起。在游戏剧情中，一位年轻的女性与内心的恶魔对抗，所以开发团队想将她的情绪作为设计Boss的一个出发点。这也意味着，Boss的设定、美术风格和战斗机制等都会受到主角情绪的影响。<br>
+<br>
+科菲诺解释，他在设计某个特定的Boss时，会考虑故事的节奏，以及卡塞蒂正处于梦境中的什么位置。<br>
+<br>
+“每个Boss都有一个主题，会提供一个可以自由发挥的沙盒。我们希望玩家在反复游玩的过程中也能收获类似的体验。”但《层层梦境》不会在游戏里明确表达主题，例如不会提到“这正是你所面对的”，也不会告诉玩家，卡塞蒂当前在应对什么困难。<br>
+<br>
+<div align="center">
+<img id="aimg_1005101" aid="1005101" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110806i5m9rc02crlzanll.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110806i5m9rc02crlzanll.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110806i5m9rc02crlzanll.jpg" referrerpolicy="no-referrer">
+</div><br>
+对于未来，Afterburner计划为《层层梦境》推出更多内容更新，尤其是为“清醒世界”加入更丰富的变化--给游戏加入更多的物品、更多变量，并且可以转化、移动。<br>
+<br>
+“当前版本里，玩家可以前往不同的位置，但那只是UI。”泰勒说，“它还不是动态的，而我们希望能让玩家更自由地探索，从一个位置前往另一个位置，并经历实时发生的事件。”<br>
+<br>
+另外，开发团队还在尝试为清醒世界编写一个故事，让玩家能够更切实地感受到自己取得的进步。举个例子，开发团队也许会在关卡之间添加插曲片段，以填补剧情空白--这能帮助玩家理解卡塞蒂的生活状态，以及如何与她的下一场梦建立联系。<br>
+<br>
+<div align="center">
+<img id="aimg_1005102" aid="1005102" zoomfile="https://di.gameres.com/attachment/forum/202108/31/110806nnvv4ul8czuvv4l2.jpg" data-original="https://di.gameres.com/attachment/forum/202108/31/110806nnvv4ul8czuvv4l2.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202108/31/110806nnvv4ul8czuvv4l2.jpg" referrerpolicy="no-referrer">
+</div><br>
+除了Steam，开发团队还计划让《层层梦境》登陆Switch。据科菲诺透露，《层层梦境》的抢先体验阶段预计将持续9-12个月，开发团队会在推出正式版本前重新评估Switch，并努力让Switch版成为游戏的最佳版本。<br>
+<br>
+“对我们来说，游戏登陆Steam抢先体验是一次真正的成功。”科菲诺说，“我们不仅验证了《层层梦境》是一个经得起市场检验的项目，还发现许多玩家与我们一样，对这款游戏的持续开发充满了热情。”<br>
+<br>
+对于这间只有3人的工作室，游戏的初步成功意义重大。<br>
+<br>
+“我们觉得自己很走运，能把这些如此个人化的体验分享给如此大众的玩家。同时大家也很在乎它……我们只有3名开发者，冒险制作了这款游戏。玩家的好评是衡量我们成功最好的方式。这也会鼓励我们继续发挥创造力，努力在抢先体验阶段把游戏调整得更好。”<br>
+<br>
+文章来源：<br>
+<br>
+https://www.escapistmagazine.com/v2/dreamscaper-interview-afterburner-studios-ian-cofino-robert-taylor-no-persona-influence<br>
+<br>
+游戏葡萄编译整理<br>
+<font size="2"><br>
+</font><br>
+<font size="2"></font><br>
+<font size="2">来源：游戏葡萄</font><br>
+<font size="2">原文：https://mp.weixin.qq.com/s/x1T4fzzYIWIKV5slAyrmdw</font><br>
+<br>
+<br>
+</td></tr></tbody></table>
+
+
+
+  
+</div>
+            
