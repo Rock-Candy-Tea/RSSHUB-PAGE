@@ -1,0 +1,42 @@
+
+---
+title: 'GSC 粘土人 咒术回战 禅院真希 制作决定'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2021/09/373791139a7942b594acb76f7f98bd6e.png?date=1630463946675'
+author: Hpoi 手办维基
+comments: false
+date: Wed, 01 Sep 2021 02:47:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2021/09/373791139a7942b594acb76f7f98bd6e.png?date=1630463946675'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>GSC 粘土人 咒术回战 禅院真希 制作决定<br>更新内容: 
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                        制作决定
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2021/09/373791139a7942b594acb76f7f98bd6e.png?date=1630463946675" referrerpolicy="no-referrer">  
+</div>
+            
