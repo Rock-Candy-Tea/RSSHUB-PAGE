@@ -38,6 +38,10 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/App
 <blockquote class="wp-block-quote">
 <p>“South Korea’s new app store law is a significant development in the global fight to bring fairness to the digital economy,” said Meghan DiMuzio, Executive Director of CAF. “We applaud South Korean lawmakers and President Moon Jae-in for setting an example for the rest of the world to hold app store gatekeepers accountable for their harmful and anti-competitive practices. The Coalition for App Fairness hopes U.S. and European lawmakers follow South Korea’s lead and continue their important work to level the playing field for all app developers and users.”</p>
 </blockquote>
+<p>Apple said that it would put users at risk.</p>
+<blockquote class="wp-block-quote">
+<p>The Telecommunications Business Act will put users who purchase digital goods from other sources at risk of fraud, undermine their privacy protections, make it difficult to manage their purchases, and features like “Ask to Buy” and Parental Controls will become less effective. We believe user trust in App Store purchases will decrease as a result of this legislation — leading to fewer opportunities for the over 482,000 registered developers in Korea who have earned more than KRW8.55 trillion to date with Apple.</p>
+</blockquote>
 <h2 id="h-other-countries-likely-to-follow-suit">Other countries likely to follow suit</h2>
 <p>Many antitrust experts believe that South Korea will simply be the first of many to implement this type of legislation.</p>
 <blockquote class="wp-block-quote">
