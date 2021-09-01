@@ -1,0 +1,26 @@
+
+---
+title: '_PDF_ https___arxiv.org_pdf_2108.12161.pdf'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=7337'
+author: 每日安全
+comments: false
+date: 2021-09-01 04:08:32
+thumbnail: 'https://picsum.photos/400/300?random=7337'
+---
+
+<div>   
+<q>SPARROW - 利用 LTE, 5G 信号的广播信号实现隐蔽通信</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 22 minutes ago</small></span>
+</cite>
+  
+</div>
+            
