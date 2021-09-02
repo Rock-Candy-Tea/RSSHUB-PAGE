@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14409/axis_studios_saints_row_024.-full.png'
 author: Axis Studios
 comments: false
-date: 2021-09-02 09:07:28
+date: 2021-09-02 10:07:51
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14409/axis_studios_saints_row_024.-full.png'
 ---
 
@@ -429,7 +429,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14409/axis_studios_sa
                 
                     <p>Released at Gamescom’s Opening Night Live hosted by Geoff Keighley, Saints Row is the highly anticipated new CG trailer created in collaboration with publishers Deep Silver.  Directed by Dana Dorian, the trailer introduces a brand new cast of characters through stunning visuals in the trailer’s neon-lit introduction of newness: new characters, new locales, and stories. </p>
 
-<p>Deep Silver collaborated with Dana to create the story for the trailer, using mini character arcs to build the world of the characters. Deep Silver had key selling points they wanted to showcase and they trusted Dana and the team to come up with the best way to do that in the cinematic. There was no detail left unturned in our effort to deliver the highest quality trailer for the reintroduction to Saints Row.   The trailer scooped two prestigious gamescom awards at this year’s event; <strong>Best Trailer and Best Announcement</strong>.</p>
+<p>Deep Silver collaborated with Dana to create the story for the trailer, using mini character arcs to build the world of the characters. Deep Silver had key selling points they wanted to showcase and they trusted Dana and the team to come up with the best way to do that in the cinematic. There was no detail left unturned in our effort to deliver the highest quality trailer for the reintroduction to Saints Row.   The trailer scooped two prestigious Gamescom awards at this year’s event; <strong>Best Trailer and Best Announcement</strong>.</p>
                 
             
           
