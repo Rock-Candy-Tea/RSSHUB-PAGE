@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FpHw0PR29NNbJat9WcHSSX7MaEd1'
 author: 探物
 comments: false
-date: 2021-09-02 06:09:12
+date: 2021-09-02 07:13:17
 thumbnail: 'https://resource.tanwuapp.com/FpHw0PR29NNbJat9WcHSSX7MaEd1'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FpHw0PR29NNbJat9WcHSSX7MaEd1" referrerpolicy="no-referrer"><br>
           <strong>大疆 Pocket 2 灵眸口袋云台相机</strong><br><br>
-          价格: ￥13.00 / 日<br>
+          价格: ￥11.44 / 日<br>
           评分: 5.0
           
 </div>

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/HAC-Y-A5KEA.jpg'
 author: Nintendo
 comments: false
-date: 2021-09-02 06:08:30
+date: 2021-09-02 07:12:07
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/HAC-Y-A5KEA.jpg'
 ---
 
