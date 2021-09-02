@@ -32,7 +32,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210902/1630565774_2345
 <img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565815_986583.jpg" alt="《辐射2》主创希望特斯拉老总买下辐射IP 情愿为此免费打工" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-随后有不解的粉丝询问道：“为什么？你认为他是天才吗？” Avellone表示：“并不是，因为他玩了《辐射：新维加斯》，且比除了Matthew Perry之外的大多数富豪多，而且美国航天事业的失败让我丧失了实现自己去世前的太空旅行梦想的希望直到看到SpaceX计划的出现，我的太空梦似乎由有了实现的可能性。”
+随后有不解的粉丝询问道：“为什么？你认为他是天才吗？” Avellone表示：“并不是，因为他玩了《辐射：新维加斯》，且比除了Matthew Perry之外的大多数富豪多，而且美国航天事业的失败让我丧失了实现自己去世前的太空旅行梦想的希望直到看到SpaceX计划的出现，我的太空梦似乎又有了实现的可能性。”
 </p>          
 </div>
             

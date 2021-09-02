@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210902/1630565864_6607
 今年的《NBA 2K22》有许多雄心勃勃的目标：快节奏的游戏、更激烈且反馈更强的移动、更具技术含量的进攻。以及对球员构建器进行全面改造。这些内容在这篇文章中均会讲到。我们非常努力，确保为本世代和次世代版本带来同等质量的游戏性升级。所以无论大家选择哪个版本，都将获得焕然一新的游戏体验。但我们想先讲开发团队的主要工作重心之一，就是防守系统。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565864_660765.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565864_660765.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 防守
@@ -68,7 +68,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210902/1630565864_6607
 说到运球动作，大家将会注意到整体节奏变快很多，对场上奔走的控制也紧凑得多。28种特殊的运球风格都得到了不错的更新，新增内容着重强调了特定球员的招牌球风。我们还新增了四种WNBA运球风格：SeimoneAugustus、Chelsea Gray、Arike Ogunbowale和Gabby Williams。对运球动作的另一个不错升级则是身高补偿。在去年的作品中，身高较高的球员动作速度可能超过速度和运球评级相同的较矮球员。这种情况在《NBA2K22》中已经得到解决，以确保小个球员不会被大个子甩开。我以上提到关于运球的内容，从移动到新的动作和组合动作，在次世代和本世代版本中都完全相同！所以如果你两个版本都要玩的话，那就不用像去年那样还要去适应两个不同系统啦。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565874_386429.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565874_386429.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 背身打法
@@ -95,7 +95,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210902/1630565864_6607
 关于《NBA 2K22》中的扣篮，我还有最后一点要说：大家现在可以用全新的扣篮风格创建器来自定义个人专属扣篮技能！这是个超爽的功能，可以详细控制扣篮包的准确风格，还可以在自己的球员上装备更多的扣篮动作！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565943_316473.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210902/1630565943_316473.jpg" alt="《NBA 2K22》加入17个新徽章 AI防守、运球投篮全面提升" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 模板、徽章和主宰
