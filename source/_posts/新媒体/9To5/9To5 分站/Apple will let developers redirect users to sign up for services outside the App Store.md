@@ -15,7 +15,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app-store-hero.jpg?resize=1200%2C628&ssl=1" referrerpolicy="no-referrer">
 
-<p>After complaints from developers, Apple has just made a major announcement in which the company confirms that it will finally let developers redirect users to sign up for services on websites instead of using the App Store’s in-app purchases system.</p>
+<p>After several complaints from developers, Apple has just made a major announcement in which the company confirms that it will finally let developers redirect users to sign up for services on websites instead of using the App Store’s in-app purchases system.</p>
 
 
 
@@ -23,7 +23,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app
 
 
 
-<p>The announcement comes <a href="https://9to5mac.com/2019/08/05/apple-japan-ftc-investigation/" target="_blank" rel="noreferrer noopener">after an investigation</a> by the Japan Fair Trade Commission (JFTC), which had been looking into Apple’s anti-competitive practices since 2019. The company <a href="https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/" target="_blank" rel="noreferrer noopener">confirmed to the press on Wednesday</a> that as part of the settlement with the JFTC, developers will be able to tell users that they can sign up, manage, and subscribe to services through an external website.</p>
+<p>The announcement comes <a href="https://9to5mac.com/2019/08/05/apple-japan-ftc-investigation/" target="_blank" rel="noreferrer noopener">after an investigation</a> by the Japan Fair Trade Commission (JFTC), which had been looking into Apple’s anti-competitive practices since 2019. The company <a href="https://www.apple.com/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/" target="_blank" rel="noreferrer noopener">confirmed to the press on Wednesday</a> that as part of the settlement with the JFTC, developers will be able to tell users that they can sign up and manage service subscriptions through an external website.</p>
 
 
 
@@ -31,7 +31,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app
 
 
 
-<p>Although Apple mentions that the changes affect “reader” apps, the company emphasizes that this includes apps that offer content subscriptions for digital magazines, newspapers, books, audio, music, and video.</p>
+<p>Although Apple mentions that the changes only affect “reader” apps, the company emphasizes that this includes apps that offer content subscriptions for digital magazines, newspapers, books, audio, music, and video.</p>
 
 
 
@@ -43,7 +43,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/app
 
 
 
-<p><em>We’re updating this article…</em></p>
+<p>Last week, Apple had already announced some <a href="https://9to5mac.com/2021/08/26/apple-small-business-app-store-changes/" target="_blank" rel="noreferrer noopener">changes to the App Store guidelines</a> as a response to a class action lawsuit by US developers. The company also announced a <a href="https://9to5mac.com/2021/08/26/psa-heres-how-to-check-if-you-are-eligible-for-apples-small-developer-assistance-fund/" target="_blank" rel="noreferrer noopener">Small Developer Assistance Fund</a> that will pay up to $30,000 to eligible developers.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: 9to5Mac is reader supported, we may earn income on <a href="https://9to5mac.com/about/#affiliate">affiliate links</a></em></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3js5FyQ"><amp-img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt class="wp-image-748175 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" width="750" height="150" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9Ijc1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" referrerpolicy="no-referrer"></i-amphtml-sizer><noscript><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt="" width="750" height="150"></noscript></amp-img></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
