@@ -1,0 +1,19 @@
+
+---
+title: '自动驾驶科技公司宏景智驾获数千万A+轮融资，碧桂园创投领投'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=8897'
+author: 高科技行业门户
+comments: false
+date: Thu, 02 Sep 2021 10:36:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8897'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">投资界9月2日消息，自动驾驶科技公司宏景智驾日前宣布完成数千万元的A＋轮融资，由碧桂园创投领投，杭州金投产业跟投，老股东华登国际继续加码跟投。这是继5月份刚刚完成近亿元A轮融资后，宏景智驾完成的新一轮融资。本轮融资将继续用于打造世界级的团队、技术和产品。</p><p style="text-indent: 2em; text-align: left;">宏景智驾成立于2018年，是一家全栈式自动驾驶解决方案服务商，在今年5月底，宏景智驾全球首发量产了基于地平线征程3芯片的L2．5高阶ADAS域控制器，至今已实现了超过数万套的出货量；到年底之前，公司还会在多款<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E4%B9%98%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="乘用车">乘用车</a></span>上，实现涵盖L2和L2．5级别ADAS系统的前装量产。据了解，该公司正在跟国内多家<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>百万的自主品牌车企商谈合作，并且即将拿到某头部车企的主流车型ADAS产品定点。</p><p style="text-indent: 2em; text-align: left;">与此同时，在干线物流自动驾驶重卡领域，宏景智驾联合江淮<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E5%95%86%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="商用车">商用车</a></span>打造了面向量产的L3智能驾驶重卡，并即将与数家头部干线运营平台在运输线路上开启商业化运营。</p><p style="text-indent: 2em; text-align: left;">宏景智驾创始人、CEO刘飞龙表示，公司战略一直是两条腿走路：脚踏实地，大规模量产落地L2／L2＋的ADAS产品；仰望星空，打造L3＋高等级自动驾驶技术在干线物流重卡上的完整解决方案和商业化闭环。</p><p style="text-indent: 2em; text-align: left;">碧桂园创投董事总经理杜浩表示：“汽车智能化是颠覆人类出行与运输方式的万亿级大赛道，具有高壁垒、强需求的特点。碧桂园创投对行业进行了全面的梳理和扫描，宏景是能做到‘脚踏实地、仰望星空’的自动驾驶全栈解决方案公司。在辅助驾驶领域，宏景依托于核心硬件已完成车规级验证，实现大规模量产落地；在高阶无人驾驶领域，宏景具备领先的硬件与算法软件技术储备。我们看好宏景的技术实力，希望能一路陪伴、持续支持宏景实现‘变革交通产业未来’的愿景。”</p><p style="text-indent: 2em; text-align: left;">杭州金投产业董事长王化平表示：“对宏景智驾的投资是杭州金投产业对智能车产业链战略布局的重要一环。我们对宏景团队资深的从业背景、技术的深厚储备和产品的迅速量产落地印象非常深刻。自动驾驶行业目前已经步入L2＋级量产阶段，庞大的L2＋级自动驾驶市场构筑了公司坚实的业绩基础，而L3／L4级自动驾驶重卡市场充满想象力的未来给予了公司更大的技术发挥空间和价值提升空间。我们深信这是一家值得信赖并可以长期相伴的公司。未来，我们将围绕宏景智驾的核心业务，在上下游业务延展、生产落地等方面提供强大支持和便利。“</p><p style="text-indent: 2em; text-align: left;">刘飞龙透露，由于公司业绩的稳步发展以及资本市场对宏景的浓厚兴趣，公司的融资将保持一个较快节奏。新一轮融资工作正在快速顺利推进当中。</p><p style="text-indent: 2em; text-align: left;">作者：Lorens来源：投资界</p> 
+  
+</div>
+            
