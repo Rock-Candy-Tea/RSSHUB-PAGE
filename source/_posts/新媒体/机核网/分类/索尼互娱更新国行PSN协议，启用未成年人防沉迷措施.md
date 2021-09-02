@@ -1,0 +1,22 @@
+
+---
+title: '索尼互娱更新国行PSN协议，启用未成年人防沉迷措施'
+categories: 
+ - 新媒体
+ - 机核网
+ - 分类
+headimg: 'https://image.gcores.com/c701c8a8-8e47-4fc8-9dce-8d3443bb7961.png'
+author: 机核网
+comments: false
+date: 2021-09-02 14:07:52
+thumbnail: 'https://image.gcores.com/c701c8a8-8e47-4fc8-9dce-8d3443bb7961.png'
+---
+
+<div>   
+<img src="https://image.gcores.com/c701c8a8-8e47-4fc8-9dce-8d3443bb7961.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-33pon" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="33pon" data-offset-key="b8ecu-0-0"><div data-offset-key="b8ecu-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="b8ecu-0-0"><span data-text="true">为贯彻落实国家新闻出版署发布的</span></span><a class="md-link" href="https://www.gcores.com/articles/141026" rel="noopener noreferrer" target="_blank" aria-label="https://www.gcores.com/articles/141026"><span data-offset-key="b8ecu-1-0"><span data-text="true">《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》 </span></span></a><span data-offset-key="b8ecu-2-0"><span data-text="true">中主管部门的指导精神以及相关法律法规及政策，索尼互动娱乐于今日更新了 PSN 服务条款。根据更新版条款，所有注册地为中国大陆的用户将启用未成年人防沉迷措施，其中包括游戏时间限制及禁用 PSN 钱包功能以及预付卡兑换。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/b3a3ccef-8f1a-4e71-8339-979b64969aed.png" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="33pon" data-offset-key="aa3bt-0-0"><div data-offset-key="aa3bt-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="aa3bt-0-0"><span data-text="true">具体而言，以下限制将适用于经实名认证后未满18周岁的PSN中国大陆账号用户：</span></span></div></div><ul class="public-DraftStyleDefault-ul" data-offset-key="7ftd0-0-0"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="33pon" data-offset-key="7ftd0-0-0"><div data-offset-key="7ftd0-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7ftd0-0-0"><span data-text="true">游戏时间限制：</span></span><span data-offset-key="7ftd0-0-1" style="font-weight:bold"><span data-text="true">周末每日累计不得超过3小时，其他时间每日累计不得超过1.5小时。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="33pon" data-offset-key="f6ire-0-0"><div data-offset-key="f6ire-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="f6ire-0-0"><span data-text="true">游戏时间禁止：</span></span><span data-offset-key="f6ire-0-1" style="font-weight:bold"><span data-text="true">每日22时至次日8时（中国大陆时区）。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="33pon" data-offset-key="ci034-0-0"><div data-offset-key="ci034-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ci034-0-0"><span data-text="true">游戏时间届满措施：</span></span><span data-offset-key="ci034-0-1" style="font-weight:bold"><span data-text="true">强制退出账号。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="33pon" data-offset-key="91orn-0-0"><div data-offset-key="91orn-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="91orn-0-0"><span data-text="true">PSN 钱包功能：</span></span><span data-offset-key="91orn-0-1" style="font-weight:bold"><span data-text="true">禁用。</span></span></div></li></ul></div></div></div></div></div></div><div class="clearfix"></div>  
+</div>
+            
