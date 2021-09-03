@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=8039'
+headimg: 'https://picsum.photos/400/300?random=6056'
 author: 品玩
 comments: false
 date: Fri, 03 Sep 2021 01:49:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8039'
+thumbnail: 'https://picsum.photos/400/300?random=6056'
 ---
 
 <div>   
-伊隆·马斯克
+硅星人
 
 
 贝索斯和马斯克的太空"beef"，真是越来越好看了
