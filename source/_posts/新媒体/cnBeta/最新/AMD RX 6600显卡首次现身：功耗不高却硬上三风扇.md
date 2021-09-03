@@ -1,0 +1,19 @@
+
+---
+title: 'AMD RX 6600显卡首次现身：功耗不高却硬上三风扇'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0903/fd4e84de8cbe701.jpg'
+author: cnBeta
+comments: false
+date: Fri, 03 Sep 2021 11:16:20 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0903/fd4e84de8cbe701.jpg'
+---
+
+<div>   
+RX 6700从未发布，RX 6600也是不紧不慢，早先传闻是和RX 6600 XT一同登场，后来推迟到9月份，但现在已经来到9月，是否还会再次跳票依然未知。不过看起来，厂商们已经在积极准备了。<strong>今天就第一次看到了RX 6600的真身，来自技嘉的Eagle猎鹰版本。</strong><br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/fd4e84de8cbe701.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/fd4e84de8cbe701.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/fd4e84de8cbe701.jpg" referrerpolicy="no-referrer"></a></p><p>RX 6600系列的公版卡只有三<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>，但非公版的RX 6600 XT标配双风扇，甚至还有三风扇的，RX 6600也是同样的待遇，<strong>技嘉猎鹰版就上了三风扇，还有纯铜热管、辅助背板，双插槽体积，还有一个8针辅助供电接口。</strong></p><p>要知道，RX 6600 XT的整卡功耗只有160W，RX 6600必然更低，相信会有不少ITX小卡。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/2d899d5ef5d35eb.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/2d899d5ef5d35eb.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/2d899d5ef5d35eb.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/99c9f92806632bd.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/99c9f92806632bd.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/99c9f92806632bd.jpg" referrerpolicy="no-referrer"></a></p><p>输出接口，技嘉提供了<strong>两个DisplayPort、两个HDMI</strong>，不是很常见的配置。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/fe2f92941d3ce1e.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/fe2f92941d3ce1e.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/fe2f92941d3ce1e.jpg" referrerpolicy="no-referrer"></a></p><p>另外，它没有直接照搬RX 6600 XT猎鹰版的整体设计，对比可见<strong>PCB更短了，散热器内部也有明显调整。</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/de0a4cdebf8eb30.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/de0a4cdebf8eb30.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/de0a4cdebf8eb30.jpg" referrerpolicy="no-referrer"></a></p><p>RX 6600</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/a85bd6600edddd0.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0903/a85bd6600edddd0.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0903/a85bd6600edddd0.jpg" referrerpolicy="no-referrer"></a></p><p>RX 6600 XT</p><p>比较关键的一点是，<strong>现在可以确认，RX 6600将会有完整的8GB GDDR6显存</strong>，不会阉割到6GB或者4GB，而核心流处理器应该会从2048个减少到1792个。</p><p>RX 6600 XT 2999元起，RX 6600怎么也得2500元以下起步吧，而它的对手，RTX 3050，也始终不见踪影，据说至少未来几周内不会发布。</p><p>根据之前的模拟测试，RX 6600 1080p分辨率下的性能相比RTX 3060只低大约4％，相比于RX 6600 XT则少大约12％，而平均功耗仅为123W，对比RTX 3060少了足足42W。</p><p><img src="https://static.cnbetacdn.com/article/2021/0903/5657539a08cbc23.png" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2021/0903/90d2fc2750c569f.png" referrerpolicy="no-referrer"></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0903/52a210da1196784.png"><img data-original="https://static.cnbetacdn.com/article/2021/0903/52a210da1196784.png" src="https://static.cnbetacdn.com/thumb/article/2021/0903/52a210da1196784.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
