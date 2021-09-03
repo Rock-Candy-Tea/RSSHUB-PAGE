@@ -5,17 +5,17 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/f96953561324ec8e2505a3246266a5ca.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e8a0563355b36a31cc690a3f54a808be.jpg!custom'
 author: 煎蛋
 comments: false
 date: Fri, 03 Sep 2021 08:36:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/f96953561324ec8e2505a3246266a5ca.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e8a0563355b36a31cc690a3f54a808be.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>过去12个月里，已向音乐行业支付40亿美元</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/f96953561324ec8e2505a3246266a5ca.jpg!custom" referrerpolicy="no-referrer"><p>YouTube的音乐流媒体服务部门周四报告说，它现在有超过5000万的用户，并说它正在快速增长，试图缩小与市场领导者Spotify的差距。</p>
+<blockquote><p>市场份额略低于腾讯音乐，全球第四</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e8a0563355b36a31cc690a3f54a808be.jpg!custom" referrerpolicy="no-referrer"><p>YouTube的音乐流媒体服务部门周四报告说，它现在有超过5000万的用户，并说它正在快速增长，试图缩小与市场领导者Spotify的差距。</p>
 <p>根据市场跟踪机构Midia Research的数据，YouTube音乐落后于竞争对手Spotify、亚马逊和苹果，但一直在扩大规模。YouTube是谷歌的一个子公司。</p>
-<p>Midia分析师马克·穆里根(Mark Mulligan)在一篇文章中指出："过去几年，谷歌的YouTube音乐一直是音乐用户市场的佼佼者，在许多新兴市场和全球的年轻观众中引起了共鸣。早期的迹象表明，YouTube音乐对Z世代来说，正像半个世纪前Spotify对千禧一代的影响。"</p>
+<p>Midia分析师马克·穆里根(Mark Mulligan)在一篇文章中指出："过去几年，谷歌的YouTube音乐一直是音乐用户市场的佼佼者，在许多新兴市场和全球的年轻观众中引起了共鸣。早期的迹象表明，YouTube音乐对Z世代来说，正像15年前potify对千禧一代的影响。"</p>
 <p>据Midia称，今年第一季度，Spotify在全球音乐流媒体市场上占32%，而苹果音乐占16%，亚马逊占13%。</p>
 <p>Midia报告说，YouTube音乐占8%，仅次于中国的腾讯音乐，其份额为13%。</p>
 <p>"我们在韩国、印度、日本、俄罗斯和巴西等国家看到了令人印象深刻的增长，在这些国家中，音乐是生活里最重要的热情之源。"YouTube全球音乐主管Lyor Cohen在关于突破5000万用户里程碑的公开信中说道。</p>
