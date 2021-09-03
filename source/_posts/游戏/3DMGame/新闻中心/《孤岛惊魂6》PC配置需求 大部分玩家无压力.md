@@ -66,7 +66,7 @@ One、XSX/S和PC发行。全球PC玩家在兴奋之余，又不禁想问：“�
 内存：16GB(双通道模式)
 </p>
 <p style="text-indent:2em;">
-存储空间：60GB(推荐使用SSD)+37GB用于高清纹理(可选)
+存储空间：60GB(推荐使用SSD)+37GB高清纹理(可选)
 </p>
 <p style="text-indent:2em;">
 <strong>1440p、60帧、开启DirectX光线追踪</strong> 
@@ -81,7 +81,7 @@ One、XSX/S和PC发行。全球PC玩家在兴奋之余，又不禁想问：“�
 内存：16GB(双通道模式)
 </p>
 <p style="text-indent:2em;">
-存储空间：60GB(推荐使用SSD)+37GB用于高清纹理(可选)
+存储空间：60GB(推荐使用SSD)+37GB高清纹理(可选)
 </p>
 <p style="text-indent:2em;">
 <strong>4K、30帧、开启DirectX光线追踪</strong> 
@@ -96,7 +96,7 @@ One、XSX/S和PC发行。全球PC玩家在兴奋之余，又不禁想问：“�
 内存：16GB(双通道模式)
 </p>
 <p style="text-indent:2em;">
-存储空间：60GB(推荐使用SSD)+37GB用于高清纹理(可选)
+存储空间：60GB(推荐使用SSD)+37GB高清纹理(可选)
 </p>
 <p style="text-indent:2em;">
 《孤岛惊魂6》还将支持超宽屏和多显示器支持，高刷新率，自适应分辨率和帧率锁定，AMD 

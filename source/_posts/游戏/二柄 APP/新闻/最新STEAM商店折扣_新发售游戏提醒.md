@@ -8,13 +8,14 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/09/03/1011052587.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-09-03 02:18:57
+date: 2021-09-03 03:07:47
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/09/03/1011052587.jpg'
 ---
 
 <div>   
 【最新STEAM商店折扣/新发售游戏提醒】Steam商店部分热门游戏开启折扣，其中：
 《文明6》原价199元，折后价29元，新史低
+《幽灵行者》原价148元，折后价59元，新史低
 《死亡搁浅》原价298元，折后价119元，平史低
 沙盒战斗模拟器《Animal Revolt Battle Simulator》原价69元，折后价20元，新史低，支持中文，好评如潮
 模拟休闲类游戏《SuchArt: 艺术家模拟器》原价70元，折后价56元，新史低，支持中文，好评如潮
