@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_012-1.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2021-09-03 12:10:30
+date: 2021-09-03 13:14:45
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_012-1.-full.jpg'
 ---
 
@@ -56,7 +56,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_01
                                 </span>
                             </span>
                             <span class="listing-details semni">
-                                    <a href="https://axisstudiosgroup.com/people/floyd-billingy/">Floyd Billingy</a>: 
+                                    :
                                 <span class="detail">
                                          CG Supervisor
                                 </span>
