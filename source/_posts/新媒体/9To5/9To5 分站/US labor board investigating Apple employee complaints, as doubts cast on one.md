@@ -31,7 +31,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
-<p>The controversy began when Gjøvik implied that Apple had responded to her allegations of sexism by <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">placing her on administrative leave</a>. While she didn’t specifically state that this was imposed by the company against her will, this was the very clear implication of her phrasing: that Apple was penalizing a whistle-blower rather than the offender.</p>
+<p>The controversy began when Gjøvik implied that Apple had responded to her allegations of sexism by <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">placing her on administrative leave</a>. While she didn’t specifically state then that this was imposed by the company against her will, this was the very clear implication of her phrasing: that Apple was penalizing a whistle-blower rather than the offender.</p>
 
 
 
@@ -39,7 +39,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
-<p>A former Apple employee revealed that it was in fact Gjøvik herself who had <a href="https://twitter.com/_shantini_/status/1433297575914971136" target="_blank" rel="noreferrer noopener"><em>requested</em> to be placed on paid leave</a>. Apple simply agreed to her request.</p>
+<p>A former Apple employee revealed that it was in fact Gjøvik herself who had <a href="https://twitter.com/_shantini_/status/1433297575914971136" target="_blank" rel="noreferrer noopener"><em>requested</em> to be placed on paid leave</a>. Apple simply agreed to her request. In those screengrabs, we can see that Gjøvik claims she was ‘forced’ onto administrative leave.</p>
 
 
 

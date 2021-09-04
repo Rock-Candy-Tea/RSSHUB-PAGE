@@ -43,7 +43,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
-<p>RISC is an acronym for Reduced Instruction Set Computer, a more efficient approach to computing variously pioneered by IBM, Stanford, and UC Berkley in the late 1970s and early 1980s. ARM chips are RISC ones, and here is how the company <a href="https://www.arm.com/glossary/risc" target="_blank" rel="noreferrer noopener">defines it</a>:</p>
+<p>RISC is an acronym for Reduced Instruction Set Computer, a more efficient approach to computing variously pioneered by IBM, Stanford, and UC Berkeley in the late 1970s and early 1980s. ARM chips are RISC ones, and here is how the company <a href="https://www.arm.com/glossary/risc" target="_blank" rel="noreferrer noopener">defines it</a>:</p>
 
 
 
@@ -59,7 +59,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
-<p>RISC-V (“RISC Five”) is the fifth generation of Berkley’s RISC processor – though as the university made it open-source, many others have worked on it too.</p>
+<p>RISC-V (“RISC Five”) is the fifth generation of Berkeley’s RISC processor – though as the university made it open-source, many others have worked on it too.</p>
 
 
 
