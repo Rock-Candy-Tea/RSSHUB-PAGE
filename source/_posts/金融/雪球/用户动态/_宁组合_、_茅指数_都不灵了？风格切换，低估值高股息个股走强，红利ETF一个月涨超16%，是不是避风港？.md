@@ -5,11 +5,11 @@ categories:
  - 金融
  - 雪球
  - 用户动态
-headimg: 'https://picsum.photos/400/300?random=85'
+headimg: 'https://picsum.photos/400/300?random=5539'
 author: 雪球
 comments: false
 date: Wed, 01 Sep 2021 06:11:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=85'
+thumbnail: 'https://picsum.photos/400/300?random=5539'
 ---
 
 <div>   
