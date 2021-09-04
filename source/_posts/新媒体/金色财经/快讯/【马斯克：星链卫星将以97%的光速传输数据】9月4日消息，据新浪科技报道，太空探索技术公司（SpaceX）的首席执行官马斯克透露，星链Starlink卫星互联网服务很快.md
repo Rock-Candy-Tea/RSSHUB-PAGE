@@ -1,0 +1,19 @@
+
+---
+title: '【马斯克：星链卫星将以97%的光速传输数据】9月4日消息，据新浪科技报道，太空探索技术公司（SpaceX）的首席执行官马斯克透露，星链Starlink卫星互联网服务很快...'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=1718'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=1718'
+---
+
+<div>   
+【马斯克：星链卫星将以97%的光速传输数据】9月4日消息，据新浪科技报道，太空探索技术公司（SpaceX）的首席执行官马斯克透露，星链Starlink卫星互联网服务很快就能以接近光速的速度传输数据。 
+马斯克在社交媒体平台上分享了Starlink新卫星的细节，SpaceX将在未来几个月内发射这些卫星。Starlink通过新卫星进行激光数据传输，可以比光纤当中的光速快大约40%，即SpaceX的互联网服务可以以每小时180832英里的速度传输数据。鉴于真空中的光速是每秒186282英里，Starlink的真空数据传输速度大约相当于光速的97%。  
+</div>
+            
