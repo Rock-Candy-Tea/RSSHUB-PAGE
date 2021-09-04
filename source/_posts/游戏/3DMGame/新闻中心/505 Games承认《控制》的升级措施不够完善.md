@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210904/1630700039_2894
 Bralley还提到，发行商将寻找更好的方法来处理未来的游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210904/1630700039_289457.jpg" alt="505 Games承认《控制》的升级措施不够完善" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210904/1630700039_289457.jpg" alt="505 Games承认《控制》的升级措施不够完善" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 正如粉丝们可能已经知道的那样，《控制》基本版的拥有者无权获得免费的升级途径，获得这些选项的唯一途径是再次购买游戏的终极版，该版本在游戏发行后推出。505 Games表示，像智能交付（Smart Delivery）这样的措施以前并不是行业规范，开发商和发行商都做出了一些决定，使得使用这些功能变得困难。
