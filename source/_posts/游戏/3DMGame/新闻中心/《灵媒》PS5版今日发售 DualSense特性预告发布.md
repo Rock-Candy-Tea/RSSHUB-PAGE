@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210903/1630683631_8358
 <strong>《灵媒》PS5版发售预告：</strong> 
 </p>
 <p align="center">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTE5NzY0NDE3Mg==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTE5NzY0NDE3Mg==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
