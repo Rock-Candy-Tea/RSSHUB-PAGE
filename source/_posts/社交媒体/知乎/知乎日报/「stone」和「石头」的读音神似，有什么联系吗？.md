@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-09-04 04:08:26
-thumbnail: 'https://pica.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162'
+date: 2021-09-04 05:05:57
+thumbnail: 'https://pic1.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ stone和石头一词读音神似，有什么联系吗？
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-4837b98b5d66ffb47f3a4315c01f69ec_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">小云哥哥，</span><span class="bio">语言学男博士，专门研究汉藏语系的语言</span>
 <a href="https://www.zhihu.com/question/63143663/answer/1740761951" class="originUrl" hidden>查看知乎原文</a>
 </strong>

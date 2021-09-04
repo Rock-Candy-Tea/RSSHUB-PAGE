@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5849'
+headimg: 'https://picsum.photos/400/300?random=306'
 author: 知乎
 comments: false
-date: Sat, 04 Sep 2021 03:01:28 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5849'
+date: Sat, 04 Sep 2021 05:05:12 GMT
+thumbnail: 'https://picsum.photos/400/300?random=306'
 ---
 
 <div>   
-给你的回答<br><br><p>        先给大家科普一下这个免疫球蛋白是干嘛的。一般来说，人们需要感染了新冠病毒之后，才能由体内的B细胞产生免疫球蛋白，这中间隔了一段时间，病毒就可以在这段间隔时间里增殖扩散。而且每个人的免疫系统反应力不一样，有的人产生的快、多，有的人产生的少、慢，所以造成临床症状表现不同。</p><p>        研发出来有什么用呢。1，给直接面对新冠、感染风险极高的医护人员、防疫工作者、海关边防人员提前注射，一旦新冠病毒进入人体，就可以被预先存在的免疫球蛋白及时消灭，从而降低感染风险。2，给已经患上新冠肺炎的患者注射，在患者自身的B细胞产生免疫球蛋白之前，人为的提高其体内免疫球蛋白含量，缩短空窗期，抑制病毒的增殖扩散，从而控制患者的病情</p><p>        对于我国而言，有两方面的意义。一是技术上的标志性意义，说明我国的新冠疫情相关的科研实力走在了欧美国家之前，甚至是处于全球顶尖位置，这是我国医学、生物科研人员实力和价值的体现。二是实际上的应用意义，预防和治疗，前面已经提到。不过我觉得，因为我国的疫情防控实在是做的太好了（也是全球顶尖），目前国内的新冠患者一般都发现的很及时，除非是某些患有基础疾病的患者、中老年人、正在放化疗的病人，他们的身体素质相对差一点点，其他的很多人都因为发现的早而症状轻微，所以……懂的都懂（高级凡尔赛）</p>  
+阿源老师的回答<br><br><p><b>注射用人免疫球蛋白（pH4）是一款老药，国药集团本次的创新点来源于，新冠特免pH4是源自接种了灭活疫苗的人的血清。</b></p><p>我大概看了下，各位答主基本没理解pH4和新冠特免的区别</p><h2>一、已上市pH4对新冠的治疗效果</h2><p><b>目前国内已有的pH4制品来源于健康人的血清。</b><sup data-draft-node="inline" data-draft-type="reference" data-numero="1" data-text data-url="http://www.raas-corp.com/page.aspx?node=26&f=cn&id=14">[1]</sup></p><p>之所以会研发pH4，是因为静脉注射用人免疫球蛋白（pH4）是一种含有人免疫球蛋白的液体制剂，含有广谱抗病毒、细菌或其他病原体的IgG抗体。</p><p>静脉注射免疫球蛋白（IVIG）能迅速提高血液中的IgG水平，直接中和外源性抗原，调节多种免疫功能，包括调节免疫介质，提高天然免疫细胞和淋巴细胞的免疫能力。</p><p>2019 年 12 月至 2020 年 3 月，招募了325名新冠患者，174例使用IVIG，151例未使用。调整整个队列的混杂因素后，IVIG 的 28 天死亡率得到改善，IVIG 组的住院时间和总病程更长。亚组分析显示，仅在危重症患者中，IVIG可显着降低28天死亡率，减轻炎症反应，改善部分器官功能；早期应用高剂量（> 15 g/天）IVIG 可显着降低危重症患者的 60 天死亡率。<sup data-draft-node="inline" data-draft-type="reference" data-numero="2" data-text data-url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7557105/">[2]</sup></p><p><b>正常人本身体内就存在一些广谱的抵抗感染性疾病的物质（抗体或者细胞），只是浓度通常不够，效果也没有特异性的强（换句话说，就是经常是没什么用的），但是经过生物提纯后，是可以起到效果的。</b></p><p>有些答主提到的说国外早有注射人免疫球蛋白的，也差不多是这类制剂。</p><h2>二、新冠特免pH4</h2><p>目前在全球进军新冠特免pH4的公司有：<sup data-draft-node="inline" data-draft-type="reference" data-numero="3" data-text data-url="https://www.coherentmarketinsights.com/press-release/human-immunoglobulin-ph4-for-intravenous-injection-market-3057">[3]</sup></p><blockquote>武田制药有限公司、百特国际公司、CSL Behring、拜耳公司、Grifols、SA、Octapharma AG、上海莱士血液制品有限公司、华兰生物工程股份有限公司、中国生物制品股份有限公司、四川远大舒阳药业股份有限公司、博雅生物制药集团股份有限公司、安德玛生物制药股份有限公司、国药集团股份有限公司。</blockquote><p>不过我看另外一份市场报告里，貌似主要竞争对手都是中国公司<sup data-draft-node="inline" data-draft-type="reference" data-numero="4" data-text data-url="https://www.marketsandresearch.biz/report/184635/global-human-immunoglobulinph4-for-intravenous-injection-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026">[4]</sup></p><blockquote>博雅生物、北京天坛生物制品、华兰生物、广东双林生物药业、伟光生物、国药控股、上海莱士、泰邦生物、南岳生物制药</blockquote><p>国药集团这次在这方面确实拔了头筹，能不能最终上市，还是要经过3期临床试验的考验。</p><p><b>不过由于免疫球蛋白的局限性（贵、制备不容易），这个产品不至于成为抗疫的主流产品的，但是对于降低重症死亡率应该会有效果。</b></p><p>这么多公司杀入这个领域，也希望能有更方便的产品面世吧。</p>  
 </div>
             
