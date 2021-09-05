@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1a6868a8-8ad8-4adf-bd30-9b7080121cea&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=8d688bff-7465-4225-a129-2cf5808bbac1&size=gallery'
 author: Mind42
 comments: false
-date: 2021-09-05 04:08:38
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1a6868a8-8ad8-4adf-bd30-9b7080121cea&size=gallery'
+date: 2021-09-05 05:06:02
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=8d688bff-7465-4225-a129-2cf5808bbac1&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1a6868a8-8ad8-4adf-bd30-9b7080121cea&size=gallery" referrerpolicy="no-referrer"><p>
-                    Mapa Amparo II                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=8d688bff-7465-4225-a129-2cf5808bbac1&size=gallery" referrerpolicy="no-referrer"><p>
+                    amparo directos                </p>  
 </div>
             
