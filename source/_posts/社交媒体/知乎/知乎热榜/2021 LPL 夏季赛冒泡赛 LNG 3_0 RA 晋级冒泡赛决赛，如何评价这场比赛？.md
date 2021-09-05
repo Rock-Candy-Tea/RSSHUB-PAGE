@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-83e60ad8fe9ed4b42631dda97fbba6a2_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=3784'
 author: 知乎
 comments: false
-date: Sat, 04 Sep 2021 10:54:27 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-83e60ad8fe9ed4b42631dda97fbba6a2_1440w.jpg'
+date: Sat, 04 Sep 2021 11:06:13 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3784'
 ---
 
 <div>   
-峡谷厨师长的回答<br><br><p>很喜欢弹幕的一句话：不想打可以不打。</p><p>昨天的WE，今天的RA，看不出他们任何想赢的地方。夏季赛咋被淘汰的，现在继续怎么打。</p><p>WE，辅助只会巨魔。打野不玩瞎子。上单脱节，就靠中单C。被破解了体系，冒泡赛还是这一套。一点没变。妖姬，巨魔一ban，直接GG。</p><p>今天的RA，还是那套老体系，这套常规赛用的打法。当时有知友问我，为啥ra成绩可以，但感觉不强呢，季后赛前景如何？我就给他说了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-83e60ad8fe9ed4b42631dda97fbba6a2_1440w.jpg" data-caption data-size="normal" data-rawwidth="589" data-rawheight="386" data-default-watermark-src="https://pic4.zhimg.com/v2-3dcb6b2ba9f7a70cd4b231bfd04f7f97_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-83e60ad8fe9ed4b42631dda97fbba6a2_r.jpg" referrerpolicy="no-referrer"></figure><p>就破败王这个点，RA还是解决不了，放等死，Leyan是今年春天，夏天常规赛阵亡最多的打野，他太能送了，而且送的都是关键人头，打先锋前送一波，cube也好抓，放等于上野两个灵魂等提款。而且之前的RA是没意识到这一点的，被破败王赢了几次。</p><p>不放就要一抢，或者ban，ban位不够，就自己抢，抢来只能打野玩。因Cube是蓝领打法，上去卖的，和破败王玩法不搭，fofo要玩可操作空间高，能带节奏的，也不搭。</p><p>leyan玩，就意味着瞎子要放，显然季后赛开始，瞎子强度远超破败王。</p><p>然后RA上单来个杰斯，没一个进场。没人给破败王创造空间。破败王也废了。最后破败王成了上半区唯一前排，打团上去卖。那这破败王不就是超级兵么？</p><p>这个问题在RA常规赛就出现了。被针对，季后赛淘汰了，现在依旧。第一把输了，第二吧不换边，继续。无解。</p><p>你看不到他任何新体系，变化。也没有任何准备。菜不菜是一回事，想不想赢是另一回事。看看第三把吧，看看RA换不换边，换不换体系。破败王怎么处理。</p><p></p><p></p>  
+乔木的回答<br><br><p>意料之中的点菜局</p><p>在小虎+wei，bin+sofm，369+Karsa，牛子+tian这种血雨腥风的上半区对局中，ale和Tarzan可谓是真金不怕火炼</p><p>尤其是Tarzan，即便是输给FPX和EDG的两个bo5，他的表现也可圈可点，面对tian平分秋色，面对jiejie直接点菜，作为整个季后赛LNG最稳定最c的支柱，Tarzan无愧一阵打野的荣誉</p><p>这种强度的上野拉到下半区，完全就是降维打击，打的真的太轻松了，即便是light拿不到炸弹人，iwandy全程犯罪，ra也没办法弥补上野带来的巨大差距</p><p>we击穿下半区的基本盘，就是呼吸和悲伤面对下半区羸弱的上野组合们，感受不到压力，不受迫，也就不会失误犯罪</p><p>可以合理猜测一下明天的冒泡赛了，呼吸悲伤是好学生可惜不是尖子生，we也没有像EDG一样恐怖的双c，在icon的英雄选择保住LNG的战术完整性的前提下，we破局希望渺茫</p><p>悲伤难堪重任，只能看呼吸的了，从curse到breath，呼吸距离顶尖上单总是差这么一口气续不上来，虽然平时总管这支3.0的we叫青年军，可事实上呼吸的年龄是比ale，bin他们还要大一些的，也该好好想想，此生还剩余多少机会能迎来蜕变证明自己</p>  
 </div>
             
