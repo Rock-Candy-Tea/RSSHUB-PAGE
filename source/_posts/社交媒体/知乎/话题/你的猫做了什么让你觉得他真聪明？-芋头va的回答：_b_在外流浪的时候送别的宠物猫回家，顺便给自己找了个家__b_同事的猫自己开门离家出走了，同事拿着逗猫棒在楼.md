@@ -1,0 +1,18 @@
+
+---
+title: '你的猫做了什么让你觉得他真聪明？-芋头va的回答：_b_在外流浪的时候送别的宠物猫回家，顺便给自己找了个家__b_同事的猫自己开门离家出走了，同事拿着逗猫棒在楼...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-805a65e8ad9320218491120f87e9d12e_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sun, 05 Sep 2021 13:48:41 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-805a65e8ad9320218491120f87e9d12e_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>你的猫做了什么让你觉得他真聪明？</strong><br>芋头va的回答<br><ul><li><b>在外流浪的时候送别的宠物猫回家，顺便给自己找了个家</b></li></ul><p>同事的猫自己开门离家出走了，同事拿着逗猫棒在楼梯间找猫的时候遇到了一只鬼鬼祟祟的蓝胖子，就用逗猫棒逗了它一会儿，顺便跟它聊天：你见过一只可爱的美短吗？它叫汤圆，我找它很久了，如果你看到它就带它来找我呀！</p><p>后来那只离家出走的美短出现了，当同事兴奋地把美短抱回家的时候，看到后面角落里蓝胖子深藏功与名。因为蓝胖子太胖了，同事以为是别人家养的，就没带回家。几个月后又在小区里遇到它，才确认它是一只流浪猫，然后带回家给它找领养，最终到了我家里。</p><p>最初同事给我讲这件事的时候，我就随便听听，没放在心上，后来在微博上看到好多人都用过这个玄学找猫法，并且还找回来了，很神奇~</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-805a65e8ad9320218491120f87e9d12e_720w.jpg?source=54b3c3a5" data-rawwidth="434" data-rawheight="190" data-size="normal" data-caption data-default-watermark-src="https://pica.zhimg.com/50/v2-649b266233e9106443cb1db4a4d8de52_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-805a65e8ad9320218491120f87e9d12e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-805a65e8ad9320218491120f87e9d12e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-866eb703c8885139cd92c74f8f9350f2_720w.jpg?source=54b3c3a5" data-rawwidth="432" data-rawheight="195" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-c99466fa207243a05d12ac64c2b1a02b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-866eb703c8885139cd92c74f8f9350f2_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-866eb703c8885139cd92c74f8f9350f2_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-faff5222ecc28dff2610b42f9e062a8d_720w.jpg?source=54b3c3a5" data-rawwidth="429" data-rawheight="196" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/50/v2-ae0ac6cda587ccb10dcfc3f166be6e6e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-faff5222ecc28dff2610b42f9e062a8d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-faff5222ecc28dff2610b42f9e062a8d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><ul><li><b>被我妈不小心关在门外，它趴在门口寸步不离，等待“救援”</b></li></ul><p>我妈开门去扔垃圾，它跟着跑出去却没跑回来，就被锁在门外了。直到我下班才看到它趴在门口，当时距离我妈出门扔垃圾已经过去两个小时了，它就像个走丢的淡定小孩，待在原地等家长带回。机智喵喵，不怕困难！</p><ul><li><b>干啥啥不行，骗吃第一名</b></li></ul><p>因为它实在是太胖了，我不得已带它走上了减肥之路，从以前的猫粮不限量供应，到现在一天只喂两顿。早上我出门的时候会喂一次，下班回来再喂一次。暑假弟弟在家里，趁我下班没回来，它就去找弟弟撒娇卖萌，还带路往猫粮那边走，最终得逞饱餐一顿。</p><p>等我下班回来，它又故技重施，假装自己饿了一天，叫得不行。心疼它在家饿了一天，我赶紧给它猫粮满上，后来才知道它吃过了！我就说怎么减肥一个月不仅没瘦，还更重了，现在已经是13斤多的臭肥猫了！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-5ab59902389fa4a2f7d55953e7df05f6_720w.jpg?source=54b3c3a5" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9f3816b69bca397f9536e274677472f8_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-5ab59902389fa4a2f7d55953e7df05f6_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-5ab59902389fa4a2f7d55953e7df05f6_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
