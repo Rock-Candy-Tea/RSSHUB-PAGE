@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/038/655/630/original/d0f8506262c19e2c.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/038/656/811/original/baa6772981e8f429.jpeg'
 author: Mastodon
 comments: false
-date: Sun, 05 Sep 2021 14:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/038/655/630/original/d0f8506262c19e2c.jpeg'
+date: Sun, 05 Sep 2021 15:01:04 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/656/811/original/baa6772981e8f429.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】いつの間にか処女を失った根暗魔導士 （FAIRY TAIL）<br>投稿日：2013.3.30<br>愛する異性に振り向いてもらうため、仲間の魔導士に助言を求めることにしたら…<br><a href="https://pawoo.net/tags/FAIRYTAIL" class="mention hashtag" rel="tag">#FAIRYTAIL</a><br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://www.a-legend.net/wordpress/?p=8217" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=8217</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/655/630/original/d0f8506262c19e2c.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【ブログ記事投稿しました】<br>[漫画] ドラゴンクエスト ダイの大冒険 新装彩録版 第03巻（三条陸 稲田浩司）<br>投稿日：2021.9.6<br>作品名：ドラゴンクエスト ダイの大冒険 新装彩録版<br>巻数　：第03巻<br>作家名：三条陸 稲田浩司<br>出版社：集英社<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%80%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA" class="mention hashtag" rel="tag">#ダイの大冒険</a><br><a href="https://www.a-legend.net/wordpress/?p=11831" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=11831</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/656/811/original/baa6772981e8f429.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/038/656/812/original/f2f188f0f4363513.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
