@@ -14,7 +14,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210906/s_cb591eaadfbd438b80bbcbc2b3
 
 <div>   
 <p>9月6日消息，华为预告将于9月23日发布nova 9系列新品。</p>
-<p>华为何刚表示，<span style="color:#ff0000;"><strong>华为nova 9历时一年多时间的准备，它不仅仅有9好色，而且是一款专为年轻人打造的影像旗舰。</strong></span></p>
+<p>华为何刚表示，<span style="color:#ff0000;"><strong>华为nova 9历时一年多时间的准备，它不仅仅有9号色，而且是一款专为年轻人打造的影像旗舰。</strong></span></p>
 <p>目前这款新机已经获得了工信部入网许可，有标准版和高配版两种选择，标准版支持66W快充，高配版支持100W快充，全系支持4G网络。</p>
 <p>更重要的是，<strong>华为nova 9出厂预装的是HarmonyOS 2操作系统。</strong></p>
 <p>官方介绍，华为HarmonyOS 2是一个全栈解耦的架构，一套代码可以在手机上使用，也可以在手表上使用，以及很多小设备上使用。</p>
