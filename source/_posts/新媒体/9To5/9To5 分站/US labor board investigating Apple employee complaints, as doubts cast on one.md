@@ -53,16 +53,6 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
-<p>There was a great deal of <a href="https://www.dictionary.com/browse/subtweet" target="_blank" rel="noreferrer noopener">subtweeting</a> going on by various other current and former employees on this topic. For example, when some questioned how these screengrabs had come to be made public, Apple’s Authentication Experience head <a href="https://twitter.com/rmondello/status/1432402857530036226" target="_blank" rel="noreferrer noopener">Ricky Mondello</a> tweeted this:</p>
-
-
-
-<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<amp-twitter width="600" height="480" layout="responsive" data-tweetid="1432402857530036226" class="twitter-tweet i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-width="500" data-dnt="true" i-amphtml-layout="responsive"><i-amphtml-sizer style="display:block;padding-top:80%"></i-amphtml-sizer><blockquote class="twitter-tweet" data-width="500" data-dnt="true" placeholder><p lang="en" dir="ltr">Be really careful about drawing conclusions based on someone posting out-of-context, scary-looking screenshots that claim that an employer is violating employee privacy, without covering what the purpose and disclosure policy of the data is. (This is definitely a subtweet.)</p>— Ricky Mondello (@rmondello) <a href="https://twitter.com/rmondello/status/1432402857530036226?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote></amp-twitter>
-</div></figure>
-
-
-
 <p>The supporting evidence Gjøvik provided for her sexism allegations also appeared relatively weak. She <a href="https://twitter.com/ashleygjovik/status/1422380335703101443?s=20" target="_blank" rel="noreferrer noopener">tweeted a screengrab</a> of positive iMessage feedback from a manager.</p>
 
 
@@ -108,6 +98,10 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 <p>The reason many have opted to subtweet rather than respond directly is a fear that any expression of doubt about one individual may be misinterpreted as dismissing legitimate reports of sexism. To be clear on my own position, I have absolutely no doubt that sexism occurs within Apple as it does within any large organization. I don’t have the inside view necessary to hold an opinion on the seriousness with which the company attempts to correct these problems, but I do feel that responding to a survey which reveals pay disparity by banning such surveys is as dumb a response as a company could possibly make.</p>
+
+
+
+<p><em>An earlier version of this piece included what appeared to be subtweet about this case, but has since been clarified to be a subtweet about another matter.</em></p>
 
 
 
