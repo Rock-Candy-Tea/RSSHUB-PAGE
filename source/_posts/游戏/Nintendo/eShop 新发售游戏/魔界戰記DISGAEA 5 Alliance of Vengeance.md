@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-AACAD.jpg'
 author: Nintendo
 comments: false
-date: 2021-09-06 13:15:57
+date: 2021-09-06 14:07:04
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-AACAD.jpg'
 ---
 
