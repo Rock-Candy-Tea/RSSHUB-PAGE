@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tallgrass_002_1.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2021-09-06 11:05:56
+date: 2021-09-06 12:10:45
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tallgrass_002_1.-full.jpg'
 ---
 
@@ -430,7 +430,11 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tal
 
     
                 
-                    
+                    <p>Created by Tim Miller and David Fincher, Netflix’s Love, Death, and Robots (LDR) Vol 2 is the second series of animated shorts, showcasing the work of multiple animation studios.  Returning for the second series Axis Studios were presented with the opportunity to create the episode - The Tall Grass, under the vision of director & VES Award-winning How To Train Your Dragon franchise alum, Simon Otto.</p>
+
+<p>Adapted from Joe R. Lansdale’ tense Lovecraftian horror story of the same name, The Tall Grass uses visually stunning CG to create a living, breathing illustration.  Axis Studios set out with a mission to make every frame a painting to push the capabilities of their creative team, and create something audiences have never seen before.</p>
+
+<p>The team at Axis relished the opportunity to utilise their skills to push the boundaries of animated storytelling outside its comfort zone. Animation rarely delves into the horror space, and Love, Death & Robots was a chance to show the extraordinary versatility of the medium.  Axis created a unique look that complemented the story and emphasized its themes and is engaged with many other equally exciting projects in the same space.</p>
                 
             
           
