@@ -101,6 +101,10 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 
 
 
+<p><em>Update: Gjøvik has said that she disputes this piece (though not as yet specified what elements she considers inaccurate). I have offered her the opportunity to make a statement to be added to it, as well as an interview in which to present her perspective at length, and will update with any response.</em></p>
+
+
+
 <p><em>An earlier version of this piece included what appeared to be subtweet about this case, but has since been clarified to be a subtweet about another matter.</em></p>
 
 
