@@ -1,0 +1,25 @@
+
+---
+title: '@fuyuki999_ "
+
+#NowPlaying
+ ホリデイ - BUMP OF CHICKEN (スノースマイル) 
+ 
+#NowPlaying4Droid
+
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/038/688/494/original/b84e660bbce980fc.png'
+author: Mastodon
+comments: false
+date: Tue, 07 Sep 2021 04:32:12 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/038/688/494/original/b84e660bbce980fc.png'
+---
+
+<div>   
+<hr><p><a href="https://pawoo.net/tags/NowPlaying" class="mention hashtag" rel="tag">#NowPlaying</a> ホリデイ - BUMP OF CHICKEN (スノースマイル) <br> <a href="https://pawoo.net/tags/NowPlaying4Droid" class="mention hashtag" rel="tag">#NowPlaying4Droid</a></p><br><img src="https://img.pawoo.net/media_attachments/files/038/688/494/original/b84e660bbce980fc.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
