@@ -1,0 +1,19 @@
+
+---
+title: 'VIVO发布芯片V1，与高通、华为麒麟有何区别？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104419458921.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 07 Sep 2021 02:47:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104419458921.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">终于,在<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B0%8F%E7%B1%B3.HTM" target="_blank" title="小米">小米</a></span>后,又一家国产手机厂商发布自己的芯片了,就是VIVO,昨天正式发布了V1这颗芯片。</p><p style="text-indent: 2em; text-align: left;">不过VIVO这颗V1是ISP芯片,那么问题来了,这颗ISP芯片,究竟是干什么用的,与<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>骁龙、华为麒麟芯片相比,有何不同?</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104419458921.jpg" alt=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" title=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">我们先说一说高通骁龙/华为麒麟这样的芯片,这样的芯片大家称之为Soc,就是System on Chip的缩写,也称为系统级芯片。</p><p style="text-indent: 2em; text-align: left;">这样的芯片是包含大量的部件,比如麒麟芯片,里面有<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CPU.HTM" target="_blank" title="CPU">CPU</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-GPU.HTM" target="_blank" title="GPU">GPU</a></span>、NPU、DSP、ISP、Modem等等,把手机中大量的部件放到一颗芯片中来,实现完整的功能。</p><p style="text-indent: 2em; text-align: left;">而ISP芯片其实也是集成至Soc中的,英文全称为Image Signal Processor,翻译过来就是图像<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%A4%84%E7%90%86%E5%99%A8.HTM" target="_blank" title="处理器">处理器</a></span>的意思。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104420234600.jpg" alt=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" title=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在实际的手机使用场景中,ISP几乎参与了绝大部分拍照流程,包括拍摄前的对焦以及将光信号转变成电信号,生成照片图像,并在后期提供算力支持等等。</p><p style="text-indent: 2em; text-align: left;">另外,ISP与成像质量也有直接关系,它影响着传感器支持的像素,而诸如连拍速度、图像处理速度、色彩、感光度、HDR等等关键性能也均由ISP决定。</p><p style="text-indent: 2em; text-align: left;">而这次VIVO是将这颗ISP芯片单独拎出来,做了一颗单独的芯片,而手机中有了这颗单独的ISP芯片后,手机SoC中集成的ISP部分,就可以下岗了,这颗芯片存在意义是将图像处理功能加强,以实现更大夜景、变焦、运动防抖、视频等等功能。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104420176866.jpg" alt=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" title=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而按照VIVO的说法,为了这颗芯片,vivo组建了超过300人的研发团队,经过24个月的研发。</p><p style="text-indent: 2em; text-align: left;">同时vivo 优化了数据在芯片内部的储存架构和高速读写<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%94%B5%E8%B7%AF.HTM" target="_blank" title="电路">电路</a></span>,实现等效 32MB 的超大缓存,全片上储存,超越目前部分旗舰级桌面电脑处理器,做到低时延实时降噪插帧。</p><p style="text-indent: 2em; text-align: left;">当然,在这么强的V1芯片加持下,VIVO的拍照肯定会较之前有大幅度的提升,毕竟集成ISP,和独立ISP究竟谁更强,不用我多说了,至于拍照成绩提升多少,就看DXOMARK的评测怎么样了,接下来使用这颗ISP芯片的VIVO手机X70,会不会超过P50 Pro,成全球第一</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202109/07104421657854.jpg" alt=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" title=" VIVO发布芯片V1，是颗ISP芯片，与高通、华为麒麟有何区别？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而经过我的介绍,大家基本上也就明白了,ISP芯片与Soc相比,还是简单得多。ISP只是Soc这颗大芯片中比较小的一个部分,Soc这颗大芯片中,ISP这样的部件可是有很多的。就像上图所示,VIVO的VI芯片,与高通<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AA%81%E9%BE%99888.HTM" target="_blank" title="骁龙888">骁龙888</a></span>芯片相比,面积就小了很多。</p><p style="text-indent: 2em; text-align: left;">可见,要自研一颗Soc还是相当难的,VIVO之所以先推出ISP芯片,在我看来其实也就是通过这颗ISP芯片,锻炼队伍,积累经验,打通上下产业链,进可攻、退可守,为最终造Soc而努力。</p> 
+  
+</div>
+            

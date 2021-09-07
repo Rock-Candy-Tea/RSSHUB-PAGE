@@ -1,0 +1,19 @@
+
+---
+title: 'Minisforum推出EliteMini X500 SFF PC：采用锐龙R7-5700G平台'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0907/bdee5b18a5ab275.jpg'
+author: cnBeta
+comments: false
+date: Tue, 07 Sep 2021 02:25:36 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0907/bdee5b18a5ab275.jpg'
+---
+
+<div>   
+<strong>Minisforum 刚刚推出了采用 AMD 锐龙 R7-5700G“Zen 3”桌面 APU 处理器的 EliteMini X500 SFF PC，并且为其标配了 16GB DDR4 + 512GB SSD 存储。</strong>作为搭载锐龙 4000G“Renoir”APU 的 EliteMini X400 的继任者，EliteMini X500 的起售价也达到了 859 美元（约 5546 RMB）。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/0907/bdee5b18a5ab275.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/bdee5b18a5ab275.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：Minisforum <a href="https://store.minisforum.com/products/x500?variant=40755935641761" target="_self">官网</a>）</p><p>不久前，Minisforum 才推出了搭载锐龙 5000H CPU 的 EliteMini HX90 迷你 PC，但 EliteMini X500 配备了性能更强的桌面级锐龙 5000G APU 处理器。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/80f09c5e230b812.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/80f09c5e230b812.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>据悉，R7-5700G APU 采用 8C / 16T 的 CPU 设计，基础频率 3.8GHz / 加速可达 4.6GHz，辅以 16MB L3 缓存。集成频率 2000MHz 的 Vega8 核显（512 流处理器），热设计功耗（TDP）高达 65W 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/06cb37632d6da88.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/06cb37632d6da88.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>Zen 3 CPU + Vega8 核显为 EliteMini X500 提供了强大的性能支撑，搭配 DDR4-3200 高频内存，但可惜 R7-5700G 并<a href="https://www.amd.com/en/products/apu/amd-ryzen-7-5700g" target="_self">不支持 PCIe 4.0</a> 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/227ff51697f2320.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/227ff51697f2320.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>内部组件方面，Minisforum EliteMini X500 采用了 STX 板型，搭配铝制散热鳍片 + 12CM <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>，且塑料外壳上留有密集的通风孔。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/b9bc707f95ee7ae.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/b9bc707f95ee7ae.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>接口方面，其提供了 HDMI + DP 视频输出，双千兆以太网、4 口 USB 3.1 Gen 2、一个 CMOS 清除按钮、麦克风输入、以及一个电源键。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/fe555a9cb451324.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/fe555a9cb451324.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>EliteMini X500 的长宽高为 154×153×62 毫米，重 980 克。通过额外的 2.5 英寸 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a> / HDD 托架，还可获得不错的存储扩展选项。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/1e849e191cf5857.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/1e849e191cf5857.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>最后，EliteMini X500 SFF PC 定于本月推出，辅以三档配置选项。其中入门款采用了 16GB DDR4 RAM + 512GB SSD 存储，起售价为 859 美元（约 5546 RMB）。</p><p><a href="https://static.cnbetacdn.com/article/2021/0907/a142424bd329ad0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0907/a142424bd329ad0.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>中配版采用了 32GB DDR4 RAM + 512GB SSD 存储，价格为 959 美元（约 6192 RMB）。高配版则是 64GB DDR4 RAM + 512GB SSD 存储，售价为 1069 美元（约 6902 RMB）。</p>   
+</div>
+            
