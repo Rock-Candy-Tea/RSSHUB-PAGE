@@ -1,0 +1,19 @@
+
+---
+title: 'ColorOS 12壁纸抢先体验 新系统将于9月中旬正式发布'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0907/c8b605bf717b1a3.jpg'
+author: cnBeta
+comments: false
+date: Tue, 07 Sep 2021 07:03:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0907/c8b605bf717b1a3.jpg'
+---
+
+<div>   
+<strong>ColorOS 12将于9月中旬正式发布</strong>，今天ColorOS官方先放出了9张壁纸，让大家尝鲜体验新系统的设计风格。从壁纸效果来看，新系统的色彩会搭配比较干净简单，采用了半透明设计，系统UI也可能会是这种效果。<br>
+ <p>从之前官方发布的预告得知，<strong>ColorOS 12会基于Android 12深度打造</strong>，UI设计改动会比较大，还将支持“跨屏互联”功能，打破<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>、平板电脑和智能手表之间的屏障，实现跨设备间的协同，提升效率。</p><p>去年<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://oppo.jd.com/" target="_blank">OPPO</a>打造的ColorOS 11在流畅度方面让人印象深刻，它搭载了防卡顿引擎，从资源调度、资源挖掘、资源抗老化和异常优化四个方面入手，带来更智能的底层技术，提高系统资源的利用率、响应速度以及帧率稳定性，并利用手机空闲时间自动清理系统垃圾，碎片化整理磁盘，手机久用依旧流畅。</p><p>不出意外，持久流畅、稳定这些特性也将会在ColorOS 12上得到保留。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/c8b605bf717b1a3.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/c8b605bf717b1a3.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/c8b605bf717b1a3.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/173de9084b5c92f.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/173de9084b5c92f.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/173de9084b5c92f.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/ba2b2b57ca0d5fc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/ba2b2b57ca0d5fc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/ba2b2b57ca0d5fc.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/b6c1f5efa1f6320.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/b6c1f5efa1f6320.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/b6c1f5efa1f6320.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/3a7e17393b7dd4d.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/3a7e17393b7dd4d.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/3a7e17393b7dd4d.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/3c62a804ddd9557.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/3c62a804ddd9557.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/3c62a804ddd9557.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/a756f29d47df9d4.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/a756f29d47df9d4.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/a756f29d47df9d4.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/c0281302adcb650.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/c0281302adcb650.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/c0281302adcb650.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0907/f7ec1d9b35392cf.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/0907/f7ec1d9b35392cf.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/0907/f7ec1d9b35392cf.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
