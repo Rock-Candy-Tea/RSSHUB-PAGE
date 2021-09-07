@@ -1,0 +1,18 @@
+
+---
+title: 'SpaceX 要让 iPhone、iPad、Apple Watch 上太空，苹果产品能做什么？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b5_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 06 Sep 2021 15:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b5_1024.jpg'
+---
+
+<div>   
+<p>三年前，SpaceX 首次发射猎鹰火箭时，在火箭中放入一台樱桃红色的特斯拉 Roadster 跑车，随着火箭飞入太空，这辆跑车也在无垠的太空中飞驰，美丽又浪漫。</p><p>今年，SpaceX 又来了一波「经典复刻」，在最近的一次载人航天计划中，将 Apple Watch Series 6、iPhone 12 Pro 和 iPad mini 4 送入太空。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b5_1024.jpg" data-height="720" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b5_1024.jpg" referrerpolicy="no-referrer"></div></div>和特斯拉汽车飞向太空不同的是，这次 Apple Watch 6 等苹果设备并非只是单纯露个脸，吸引一波关注，而是要采集普通人在太空中的活动数据，用以进行健康研究。<p></p><p>该项目是 Inspiration 4 发射任务的一部分，也是全球首批围绕地球飞行的民用商业载人航天计划，首次发射将在 9 月 15 日举行，参与飞行的四位主人公均为未参加过航天训练的普通人。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/613630a7b15ec01fb95442b6_1024.jpg" data-height="720" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/613630a7b15ec01fb95442b6_1024.jpg" referrerpolicy="no-referrer"></div></div>那么，苹果设备将在这趟飞行中发挥什么作用呢？<p></p><p>在为期三天的航天活动中，四位船员将一直随身佩戴 Apple Watch 6，期间手表会自动收集飞行期间佩戴者的心电图、心率变化、运动、睡眠、血氧饱和度等数据。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b7_1024.jpg" data-height="602" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b7_1024.jpg" referrerpolicy="no-referrer"></div></div>而为了了解太空环境对于普通人认知的影响，轻便的 iPad mini 就成了趁手的测试工具，每台 iPad 都安装专门的认知测试应用程序，以便参与此项计划的人员使用，了解他们在太空中对于物体、人物等的认知会不会有变化，有哪些变化。<p></p><p>飞行期间，如遇到特殊情况还可以将 iPhone 12 Pro 连接到 Butterfly IQ+ 的器官扫描器，直接扫描船员身体的器官情况，以便医务人员治疗或准备其他应对方案。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b8_1024.jpg" data-height="1080" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613630a7b15ec01fb95442b8_1024.jpg" referrerpolicy="no-referrer"></div></div>▲<p></p><p>Butterfly IQ+ 超声波探测器</p><p>当然，苹果设备们工作时，Dragon 太空舱也没有闲着，它会收集外部光照强度等数据，留作数据备份，方便之后研究人员进行数据对比，找出可能影响人们身体健康的原因。</p><p>iPhone 、Apple Watch 等苹果设备在大多数人手中，都是消费娱乐设备或辅助生产设备，而 SpaceX 这次显然是另辟蹊径，同时也展示了苹果设备的新可能性。</p><p>Apple Watch 的心电图功能、Butterfly 的超声波便携器官检测器，这些都是早已经发布的产品或功能，而 SpaceX 为它们找了一个新的，而且是极具实用意义的领域。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202109/613630a7b15ec01fb95442b9_1024.jpg" data-height="720" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/613630a7b15ec01fb95442b9_1024.jpg" referrerpolicy="no-referrer"></div></div>相比传统的研究设备，Apple Watch 和 iPhone 等苹果设备的优势在于便携式和随身性，收集数据更方便，运输压力也小。<p></p><p>至于 iPhone、Apple Watch 们能否长期适用于健康乃至科学研究中，恐怕只有时间能给我们答案了，毕竟这才刚刚开始尝试。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
