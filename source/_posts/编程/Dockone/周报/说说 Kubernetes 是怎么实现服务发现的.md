@@ -5,11 +5,11 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://picsum.photos/400/300?random=9940'
+headimg: 'https://picsum.photos/400/300?random=835'
 author: Dockone
 comments: false
-date: 2021-09-07 14:07:41
-thumbnail: 'https://picsum.photos/400/300?random=9940'
+date: 2021-09-07 15:08:13
+thumbnail: 'https://picsum.photos/400/300?random=835'
 ---
 
 <div>   
@@ -403,7 +403,7 @@ Server name: tea-7d57856c44-lwbnp<br>
 </pre><br>
 可以看到 Nginx Ingress controller 已经为我们成功将请求转发到了对应的后端 Service。而当请求没有匹配到任何一条 ingress rule 的时候，理所当然我们会得到一个 404。<br>
 <br>至此，Kubernetes 的容器网络是怎么实现服务发现的已经讲完了，而服务发现正是微服务架构中最核心的问题，解决了这个问题，那么使用 Kubernetes 来实现微服务架构也就实现了一大半。<br>
-<br>原文链接：[<a href="https://fredal.xin/kubertnetes-discovery" rel="nofollow" target="_blank">https://fredal.xin/kubertnetes-discovery</a>，作者：fredalxin
+<br>原文链接：<a href="https://fredal.xin/kubertnetes-discovery" rel="nofollow" target="_blank">https://fredal.xin/kubertnetes-discovery</a>，作者：fredalxin
                                 
                                                               
 </div>
