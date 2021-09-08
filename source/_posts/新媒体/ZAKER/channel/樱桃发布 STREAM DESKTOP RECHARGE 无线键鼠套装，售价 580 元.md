@@ -1,0 +1,18 @@
+
+---
+title: '樱桃发布 STREAM DESKTOP RECHARGE 无线键鼠套装，售价 580 元'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d7_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 08 Sep 2021 07:08:45 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d7_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 9 月 8 日消息 德国品牌 CHERRY 樱桃近日发布了 CHERRY STREAM DESKTOP RECHARGE 无线键鼠套装。这款产品内置电池，采用 Type-C 接口进行充电。产品的 2.4GHz 通信采用了 AES 加密协议，保证商业用户的安全。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d7_1024.jpg" data-height="756" data-width="1344" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202109/6138bbd88e9f096e8e73c6d8_1024.jpg" data-height="745" data-width="745" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6138bbd88e9f096e8e73c6d8_1024.jpg" referrerpolicy="no-referrer"></div></div>官方表示，这款无线键鼠内置电池，续航时间最高可达数月。键盘使用 SX 剪刀式按键机构，具有清脆果断的手感以及静音设计。官方表示，产品的无线通讯采用 120 位的 CCM 加密，提高安全性。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d9_1024.jpg" data-height="726" data-width="747" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6d9_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div"><img class="lazy opacity_0 zaker_gif_cache" id="img_3" data-original="http://zkres1.myzaker.com/202109/6138bbd88e9f096e8e73c6da_1024.jpg" data-gif-url="http://zkres1.myzaker.com/202109/6138bbd88e9f096e8e73c6da_raw.gif" data-height="540" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6138bbd88e9f096e8e73c6da_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6db_1024.jpg" data-height="716" data-width="743" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6db_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，CHERRY DESKTOP RECHARGE 的配套键盘具有多个独立的多媒体键，同时右侧有着打开浏览器、电子邮件、计算器的专属按钮，方便办公用户。配套的鼠标支持在 1000/1600/2400 三种 DPI 之间切换。产品提供黑白两色，定价 399 元<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6dc_1024.jpg" data-height="529" data-width="1190" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6dc_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6dd_1024.jpg" data-height="657" data-width="1183" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6138bbd88e9f096e8e73c6dd_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
