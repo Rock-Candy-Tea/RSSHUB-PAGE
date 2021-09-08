@@ -5,15 +5,15 @@ categories:
  - 设计
  - Axis Studios
  - Work type
-headimg: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tallgrass_002_1.-full.jpg'
+headimg: 'https://axisstudiosgroup.com/site/assets/files/14373/ldr_2_axisstudios_001.jpg'
 author: Axis Studios
 comments: false
-date: 2021-09-07 15:07:38
-thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tallgrass_002_1.-full.jpg'
+date: 2021-09-08 00:22:16
+thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14373/ldr_2_axisstudios_001.jpg'
 ---
 
 <div>   
-<video width="100%" controls="controls" height="360" source src="http://player.vimeo.com/external/579954717.hd.mp4?s=2b83a8c902d634833c50ecb9caf0fe54a3a8585c&profile_id=175&oauth2_token_id=51807581" type="video/mp4"></video><br>+
+<video width="100%" controls="controls" height="360" source src="http://player.vimeo.com/external/576753412.hd.mp4?s=1222622f1005957c9d793c07a061cf08c97bd120&profile_id=174&oauth2_token_id=51807581" type="video/mp4"></video><br>+
             
                 
                     <h2 class="mb-0 c-name">
@@ -86,6 +86,42 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14366/axisstudios_tal
 
     
         
+                
+                    
+                        <p class="playlist-control">
+
+<a href="https://axisstudiosgroup.com/work/love-death-robots-vol-2/#" data-toggle="modal" data-target="#galleryModal" class="play" data-video-poster="/site/assets/files/14373/ldr_2_axisstudios_001.jpg" data-video-type="video/mp4" data-video-url="http://player.vimeo.com/external/579954717.hd.mp4?s=2b83a8c902d634833c50ecb9caf0fe54a3a8585c&profile_id=175&oauth2_token_id=51807581">
+
+</a>
+
+                        </p>
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="8563" height="4247" src="https://axisstudiosgroup.com/site/assets/files/14373/ldr_2_axisstudios_001.jpg" alt referrerpolicy="no-referrer">
+
+
+
                 
 
 

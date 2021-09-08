@@ -1,0 +1,18 @@
+
+---
+title: '​OPPO和诺基亚撕起来了？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61377f048e9f09213f00739b_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 07 Sep 2021 15:23:24 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61377f048e9f09213f00739b_1024.jpg'
+---
+
+<div>   
+<p>OPPO 把诺基亚告了？</p><p>据近日报道，OPPO 在中国和欧洲地区分别对诺基亚发起数起专利侵权诉讼，指控诺基亚侵权 OPPO 专利，其中涉案的专利均为 5G 标准必要专利。</p><p>此举被看做是 OPPO 对之前诺基亚发起全球专利诉讼的反击。今年 7 月，诺基亚同时在印度、法国、德国、英国等全球 9 个国家对 OPPO 提出了几十起专利侵权诉讼。诺基亚认为，OPPO 在双方就续约问题未达成一致观点的情况下，继续使用诺基亚的相关专利，对诺基亚的知识专利造成了侵害。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/61377f048e9f09213f00739b_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61377f048e9f09213f00739b_1024.jpg" referrerpolicy="no-referrer"></div></div>诺基亚与 OPPO 此前一直保持着不错的合作关系。早在 2018 年，OPPO 打算进军海外 5G 手机市场之时，就和诺基亚达成了紧密的合作。OPPO 通过签约的方式获得了诺基亚包括 WiFi、5G、手机设计等多个方面的 12000 项专利。<p></p><p>但据了解，双方在今年关于专利续约进行价格磋商时并没有达成一致，诺基亚希望能够提高 OPPO 每部手机的专利收费，然而 OPPO 却认为诺基亚此前的项专利费用收取比例已经让 OPPO 不堪重负，如今诺基亚继续增收专利费用让 OPPO 难以接受，OPPO 方对于诺基亚专利费有收取的合理性产生了质疑。</p><p>此前就有厂商表示诺基亚在 5G 专利收费方面的诉求极为激进，而且价格极高。从诺基亚 2018 年对外公布的 5G 专利收费标准来看，每台使用其专利的 5G 手机应向诺基亚支付 3 欧元（约 22.95 元）的专利费。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202109/61377f048e9f09213f00739c_1024.jpg" data-height="720" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61377f048e9f09213f00739c_1024.jpg" referrerpolicy="no-referrer"></div></div>对于手机利润率微薄的中国手机品牌来说，每年需要支付的这些专利授权费用无疑是一个巨大的负担。<p></p><p>在此之前，诺基亚也曾经对联想发起过专利诉讼。双方已于 2021 年 4 月达成和解，最终联想同意和诺基亚签署许可协议并向诺基亚支付许可费。</p><p>事实上，这也并非是 OPPO 今年遇到的唯一专利官司。在此之前，OPPO 与夏普也爆发过专利纷争。</p><p>从去年开始，夏普在德国慕尼黑、日本东京以及中国台湾等地区提起诉讼，称 OPPO 侵犯了其手机通信技术相关的专利。</p><p>OPPO 旋即以强硬态度反击夏普的专利诉讼，于 2 月底在日本东京反诉夏普侵犯其闪充技术专利，同时向深圳中院起诉夏普违反 FRAND 原则。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/61377f048e9f09213f00739d_1024.jpg" data-height="433" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61377f048e9f09213f00739d_1024.jpg" referrerpolicy="no-referrer"></div></div>双方开展了长达一年多时间的诉讼。截至 2021 年 7 月底，夏普在德国起诉 OPPO 的数件诉讼中，均以夏普败诉收场。而在 2021 年 7 月 27 日，中国台湾地区智慧财产及商业法院对夏普诉 OPPO 专利侵权案作出判决，驳回夏普的全部诉讼请求，并要求夏普承担全部诉讼费用。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/61377f048e9f09213f00739e_1024.jpg" data-height="410" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61377f048e9f09213f00739e_1024.jpg" referrerpolicy="no-referrer"></div></div>在专利诉讼方面，OPPO 积累了不少的经验。同时 OPPO 在近些年也加大了专利技术的储备：截至 2021 年 6 月 30 日，OPPO 全球专利申请量超过 65000 件，全球授权数量超过 30000 件，其中发明专利申请数量在所有专利申请中占比达 90%。据世界知识产权组织（WIPO）发布的 PCT 申请数量排行榜中显示，OPPO 排名全球第八。在 NGB Corporation 发布的 2020 年全球 5G 专利家族宣称数量报告中，OPPO 全球排名前十。<p></p><p><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
