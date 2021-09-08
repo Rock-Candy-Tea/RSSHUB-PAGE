@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210908/0018349a14c00bfeac7fe7107f3cd569.jpg'
 author: Dockone
 comments: false
-date: 2021-09-08 03:07:55
+date: 2021-09-08 04:09:27
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210908/0018349a14c00bfeac7fe7107f3cd569.jpg'
 ---
 
@@ -214,8 +214,8 @@ elasticsearch &#123;  <br>
 <em>清单 7. Indexer 角色的 Logstash 的配置</em><br>
 <br>与 Shipper 不同的是，Indexer 的管道中我们定义了过滤器，也正是在这里将日志解析成结构化的数据。下面是我截取的一条 logback 的日志内容：<br>
 <pre class="prettyprint">2019-08-11 18:01:31.602 [http-nio-8080-exec-2] INFO  c.i.s.aop.WebLogAspect sb-elk -接口日志  <br>
-POST 请求测试接口结束调用:耗时=11ms,result=BaseResponse&#123;code=10000, message='操作成功'<br>
-</pre>&#125; <br>
+POST 请求测试接口结束调用:耗时=11ms,result=BaseResponse&#123;code=10000, message='操作成功'&#125; <br>
+</pre> <br>
 <em>清单 8. Spring Boot 项目输出的一条日志</em><br>
 <br>在 Filter 中我们使用 Grok 插件从上面这条日志中解析出了时间、线程名称、Logger、服务名称以及接口耗时几个字段。Grok 又是如何工作的呢？<br>
 <ol><li>message 字段是 Logstash 存放收集到的数据的字段， match = &#123;"message" => ...&#125; 代表是对日志内容做处理。</li><li>Grok 实际上也是通过正则表达式来解析数据的，上面出现的 TIMESTAMP_ISO8601、NOTSPACE 等都是 Grok 内置的 patterns。</li><li>我们编写的解析字符串可以使用 Grok Debugger 来测试是否正确，这样避免了重复在真实环境中校验解析规则的正确性。</li></ol><br>
