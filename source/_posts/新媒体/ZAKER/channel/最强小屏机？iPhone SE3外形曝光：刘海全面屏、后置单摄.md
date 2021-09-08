@@ -1,0 +1,18 @@
+
+---
+title: '最强小屏机？iPhone SE3外形曝光：刘海全面屏、后置单摄'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecdde_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 08 Sep 2021 04:34:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecdde_1024.jpg'
+---
+
+<div>   
+<p>下周三凌晨 1 点，iPhone 13 系列就要跟大家正式见面了，此前消息称今年依旧推出四款机型，前代销量拉垮的 mini 机型还在，这也将是市面上唯一的小屏旗舰机型。</p><p>遗憾的是，此前消息称由于 mini 机型在全球范围内均销量不佳，因此苹果已经决定将砍掉这条产品线，今年的 iPhone 13 mini 将会是该系列的最后一款机型。</p><p>届时，许多小屏手机爱好者将沦为无机可用的尴尬境地，毕竟在不断升级的性能和 5G 加持下，就连苹果都无法压制住高功耗带来的续航不足问题，如今的小机身已经无法满足大多数人的日常使用需求。</p><p>不过，明年可能还会存在一个补救措施，那就是传闻依旧的 iPhone SE 第三代机型。</p><p>根据此前苹果爆料一哥郭明錤的预测，苹果将会在 2022 年（明年）正式推出 iPhone SE3，该机将带来比常规机型更小的机身和更加亲民的售价。</p><p>近日，推特网友 MajinBu 就带来了一组 iPhone SE3 渲染图，其中显示 iPhone SE3 将首次引入全面屏方案，与目前的 iPhone 12 系列基本一致，同时背部仅配备了一颗摄像头，这也足以满足很大一部分用户的需求。</p><p>根据此前郭明錤的预测，新的 iPhone SE 的设计将与现有的 SE" 大致相同 "，而后者是以 iPhone 8 为原型的，这也就意味着，苹果可能会为 iPhone SE3 配备 iPhone 8 大小相同的机身，并塞入全面屏，非常令人期待。</p><p>配置方面，此前消息称苹果将会为 iPhone SE Plus 配备与 iPhone 12 系列一样的 A14 处理器，与目前顶配旗舰机型完全一致，拥有十分强劲的性能表现，但是 5G 方面可能会被阉割，以此来保障续航水平。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecdde_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecdde_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecddf_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecddf_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde0_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde0_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde1_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde1_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde2_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61389cb88e9f09531a2ecde2_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202109/61389cb88e9f09531a2ecde3_1024.jpg" data-height="710" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61389cb88e9f09531a2ecde3_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

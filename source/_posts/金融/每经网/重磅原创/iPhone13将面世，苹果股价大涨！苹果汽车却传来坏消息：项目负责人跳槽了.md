@@ -1,0 +1,75 @@
+
+---
+title: 'iPhone13将面世，苹果股价大涨！苹果汽车却传来坏消息：项目负责人跳槽了'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/2648393663989103616.gov_img/2021/9/8/2747922136879797248.png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/2648393663989103616.gov_img/2021/9/8/2747922136879797248.png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          iPhone13将面世，苹果股价大涨！苹果汽车却传来坏消息：项目负责人跳槽了
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-09-08 21:06:39
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+          <p style="color:#6d6d6d;font-size: 16px;">
+            每经编辑 段炼 易启江    
+          </p>
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p><span>北京时间9月8日凌晨，苹果如期公布了2021年秋季发布会的邀请函。和之前曝光的时间一样，苹果将在北京时间9月15日召开新品发布会，</span>       <span><strong>包括iPhone 13系列在内的多款新品将有可能在此次发布会上亮相</strong></span>       <span>。</span></p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/2648393663989103616.gov_img/2021/9/8/2747922136879797248.png" alt="2747922136879797248.png" referrerpolicy="no-referrer"></p>      <p></p>
+<p style="text-align:center">图片来源：苹果官网</p>            <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/7362081560807112704.gov_img/2021/9/8/4762724729233499136.png" alt="4762724729233499136.png" referrerpolicy="no-referrer"></p>      <p><span><strong>苹果官宣新品发布时间</strong></span>      </p>
+<p><span><strong>iPhone13将至</strong></span>      </p>       <p><span>苹果表示，北京时间9月15日凌晨1点，Apple特别活动全程在线直播。按照以前惯例，苹果将会在秋季新品发布会上推出新款iPhone。</span></p>             <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/711834339418948608.gov_img/2021/9/8/216240745916701696.png" alt="216240745916701696.png" referrerpolicy="no-referrer"></p>       <p></p>
+<p style="text-align:center">图片来源：苹果微信公号</p>              <p><span>据中国证券报，日前，申万宏源发布研报称，iPhone 13新机将会在9月中下旬发布。</span><span>9月，除iPhone 13新机外，苹果可能还会一起发布AirPods 3和Apple Watch 7。</span><span>也有消息称，苹果将在9月召开多场在线发布会，发布这些新品。</span></p>              <p><span>据上海证券报，iPhone13系列手机是此次发布会的主角。根据市场此前爆料，苹果今年将会推出四款iPhone13系列产品，包括iPhone13 mini、iPhone13、iPhone13 Pro和iPhone13 ProMax。</span></p>              <p><span>外观上，预计iPhone13系列手机会继续采用“直角中框+前后玻璃面板”的设计。在保持“刘海”屏幕的同时，将大幅减小“刘海”的面积，这将是苹果四年多来首次做出这一改变。据传，苹果将采用隐藏式的听筒方案，为FaceID腾挪出更多内部空间，从而减小“刘海”面积。</span></p>              <p><span>配色上，苹果iPhone13系列总共有十种配色推出，两款基础版本确认将提供新增的粉色版本以及蓝、白、绿、黑、红等六种配色。</span><span>两款高端版本会有蓝</span><span>色、金色、银色和灰色等四种配色可选。</span></p>              <p><span>技术配置上，银河证券电子行业分析师傅楚雄和王恺在研报中预计，新iPhone有望在芯片、相机、屏幕以及电池等配置上大幅升级，将会搭载A15处理器，采用台积电第二代N5P工艺，预计性能将提升20%、能效比将提升30%左右，预计新iPhone将加强长焦拍摄功能及液晶拍摄能力，有望全面普及激光雷达扫描仪以强化AR领域的布局。</span><span>新iPhonePro及ProMax版将会采用自适应120Hz刷新率的三星LTPO-AMOLED屏幕，考虑到高刷新率屏幕的功耗问题，新iPhone系列电池额定容量或大幅升级。</span></p>              <p><span>按照往经验，iPhone通常会在苹果新品发布会后的一周半左右发售。</span><span><strong><span>研报预计今年新iPhone出货量将达到0.85亿至0.9亿部，iPhone整体出货量将达到2.2亿至2.23亿部，同比增长13%左右</span></strong></span><span>。</span></p>              <p><span>市场预期，苹果有望在2022年一季度推出5GiPhoneSE系列，补充其中低价位5G手机的空白，有望进一步刺激5GiPhone的换机需求。</span><span>预计2022年iPhone出货量有望达到2.45亿部。</span></p>              <p><span><span>值得注意的是，由于台积电代工芯片提价，苹果新款手机是否涨价也受到关注。</span></span></p>       <p><span></span></p>       <p><span>申万宏源预计，苹果会在iPhone 13新机价格上做出妥协，成本增加部分苹果可能会自己吸收。今年的iPhone 13系列新机，在外观上跟去年的iPhone 12差异不大，但“刘海”缩小了一点，剩下的就是优化既有功能。这样的新机消费者购买的意愿也许不会太大，因此苹果应该会为了吸引购买而在售价上做一些妥协，</span><span><strong>最终iPhone 13系列新机售价可能跟去年iPhone 12系列差不多</strong></span><span>。芯片、面板、零组件涨价(成本大约增加了10%~15%)，苹果将自行吸收，这会给安卓阵营带来一些压力。</span></p>              <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/7362081560807112704.gov_img/2021/9/8/4762724729233499136.png" alt="4762724729233499136.png" referrerpolicy="no-referrer"></p>       <p><span><strong>苹果市值3个月涨了一个阿里巴巴</strong></span>       </p>
+<p><span><strong>相关概念股全线飘红</strong></span></p>       <p><span>北京时间9月7日晚间，美股盘中，苹果股价再度大涨，最高报157.26美元/股。截至收盘，苹果涨1.55%，报收156.69美元/股，</span><span><strong>总市值近2.6万亿美元</strong></span><span>。</span></p>              <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/5974004413323487232.gov_img/2021/9/8/7132355201628913664.png" alt="7132355201628913664.png" referrerpolicy="no-referrer"></p>       <p></p>
+<p style="text-align:center">图片来源：东方财富</p>              <p><span>今年以来，苹果股价在震荡中不断走高，近3个月以来，苹果股价从122.95美元/股的低点一路上扬至今，</span><span><strong>市值增长超过5500亿美元，增幅超过一个阿里巴巴</strong></span><span>。</span></p>              <p><span>与此同时，</span><span><strong>A股苹果概念股持续走强</strong></span><span>。截至9月8日收盘，长信科技涨12.36%，大富科技涨超10%，华软科技、歌尔股份涨停，蓝特光学、爱施德、美迪凯涨近9%、奋达科技、水晶电子、佳禾智能涨超7%，立讯精密涨近3%。</span></p>              <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/644520130010284032.gov_img/2021/9/8/3709888237873054720.png" alt="3709888237873054720.png" referrerpolicy="no-referrer"></p>       <p></p>
+<p style="text-align:center">图片来源：同花顺</p>              <p><span>据中国证券报，6月中旬以来，</span><span><strong>郑州富士康已经多次提高招工奖金，从6000元一度涨至12700元</strong></span><span>。据媒体报道，富士康郑州园区已进入客户新机种量产高峰期，到9月底前新增用工需求20万人左右。</span></p>              <p><span>申万宏源称，过去iPhone组装主要由富士康、和硕、纬创三家完成，但近期须留意立讯精密，它是苹果重点扶持的iPhone组装新成员，预计直接承接部分 iPhone13 Pro新机组装。</span></p>              <p><span>申万宏源认为，可重点关注电子科技类股，而除了半导体(包括设备、材料)之外，</span><span><strong>短期内更加明确的就是苹果概念股</strong></span><span>。</span></p>              <p><span>东方证券称，下半年是消费电子传统旺季，iPhone上半年销售强劲，下半年新机备货计划正常推进，助推全年销量保持高速增长。同时，新款iPhone、Apple Watch、AirPods 等一系列新产品将集中发布，进一步引发用户的换机热情，新机带动力度有望加大。</span></p>              <p><span>东方证券提示风险称，苹果智能手机出货量或受上游芯片短缺及下游终端需求影响，</span><span><strong>若iPhone系列出货量不及预期，将对产业链公司业绩产生负面影响</strong></span><span>。</span></p>              <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/7362081560807112704.gov_img/2021/9/8/4762724729233499136.png" alt="4762724729233499136.png" referrerpolicy="no-referrer"></p>       <p><span><strong>苹果汽车遭打击</strong></span>       </p>
+<p><span><strong>项目负责人被挖</strong></span>       </p>      <p><span>不过虽然苹果在手机市场依然能呼风唤雨，但其造车大业却遭到了重大打击。</span></p>            <p><span>据中国经济网，福特首席执行官Jim Farley在9月8日宣布，</span><span><strong>前苹果汽车项目负责人Doug Field将加盟福特</strong></span><span>，领导该公司的先进技术和嵌入式系统工作。</span></p>            <p><span>加入福特之前，Field在苹果公司担任特别项目副总裁，他还曾供职于特斯拉担任工程高级副总裁。在其职业生涯初期，他也曾在福特工作过。</span></p>            <p><span>在加盟福特后，Field将向Farley汇报工作，领导该公司的软件和互联战略，并且与福特首席产品平台和运营官Hau Thai-Tang合作。福特在9月7日表示，Hau Thai-Tang负责监督该公司汽车和卡车的开发和设计，以及供应链和其他业务。</span></p>            <p><span>Field表示，在为福特开发新数字平台方面，他对与技术行业伙伴的合作持开放态度，但是他也表示：“我们必须自己控制客户体验，必须要掌握自己的命运。”</span></p>            <p><span>去年，有业内人士透露，</span><span><strong>苹果的目标是要在2024年之前，推出一款搭载先进电池技术的电动汽车，然而苹果自己并未披露任何具体计划</strong></span><span>。</span></p>            <p><span>目前尚不清楚Field离开苹果之后，会给苹果的造车项目造成什么样的影响。</span></p>            <p><span>Field表示，他不会讨论自己在苹果所从事的工作。苹果公司在一份声明中表示：“我们感谢Field为苹果所做的贡献，并且祝福他未来一切都好。”</span></p>            <p><span>据第一财经，苹果的造车计划“泰坦”一直被视为其最大的秘密计划，当全球的科技巨头们都涌向造车领域时，</span><span><strong>苹果汽车也被寄希望成为苹果的下一款颠覆性产品</strong></span><span>。</span></p>            <p><span>但苹果对汽车的布局始终模糊，人们甚至不清楚苹果到底是在专注于自动驾驶软件的开发还是整车的设计和制造。</span></p>            <p><span>今年早些时候库克在谈到关于苹果汽车项目时说道：“在我看来，自动驾驶是一项核心的技术，退后一步来说，汽车在很多方面就是机器人，自动驾驶汽车可以做很多事情，人们也将会看到苹果公司的工作。”</span></p>            <p><span>外界猜测，</span><span><strong>苹果可能会推出一款采用先进电池技术的电动汽车，目前正专注于供应链的建设</strong></span><span>。苹果还雇用了前特斯拉负责工程的副总裁迈克尔·施韦库茨（Michael Schwekutsch）担任苹果公司特殊项目组的工程高级总监。</span></p>            <p><span>近期苹果公司又引入了多名汽车领域人才，其中包括今年6月聘请的原宝马汽车高管、宝马i3之父克朗茨（Ulrich Kranz），克朗茨在宝马工作了30年之后，还曾加入过法拉第未来（FF），但仅工作了三个月，此后创立了自动驾驶电动汽车初创公司Canoo。</span></p>            <p><span>今年早些时候，苹果还挖走了保时捷负责底盘开发副总裁以及一些特斯拉高管，马斯克曾嘲讽苹果是“特斯拉墓地”。</span></p>            <p><span>从2015年苹果被曝出造车计划后已经过去了6年，苹果汽车却依然杳无音讯，这对于近期入局的小米而言也是一个警醒。资金和人才对于小米而言都不是问题，但即便是坐拥几千亿美元现金流，能任意从特斯拉挖来高管的苹果公司的造车之路也走得异常艰辛，这说明有钱和有人并不能决定成败，</span><span><strong>电子消费企业要进入造车领域比人们想象的要更难</strong></span><span>。</span></p>            <p><span><strong>编辑|</strong></span>       <span>段炼 易启江 杜恒峰</span>      </p>
+<p><strong><span>校对|</span></strong>       <span>何小桃</span>      </p>
+<p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/5025273251442194432.gov_img/2021/9/8/9140301731559103488.png" alt="9140301731559103488.png" referrerpolicy="no-referrer"></p>      <p><span>每日经济新闻综合自苹果官网、中国证券报、上海证券报、中国经济网、第一财经、公开资料等</span>      </p>
+<p><span><strong><span>德尔塔毒株全球大流行，点击下方图片或扫描下方二维码，查看最新疫情数据↓</span></strong></span>      </p>
+<p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/2994765671204035584.gov_img/2021/9/8/2851016124860027904.png" alt="2851016124860027904.png" referrerpolicy="no-referrer"></p>      <p><img src="https://tmp-file-1252627319.cos.ap-shanghai.myqcloud.com//gov_img/2021/9/8/9160181700863583232.gov_img/2021/9/8/2362035727276517376.jpeg" alt="2362035727276517376.jpeg" referrerpolicy="no-referrer"></p>      
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
