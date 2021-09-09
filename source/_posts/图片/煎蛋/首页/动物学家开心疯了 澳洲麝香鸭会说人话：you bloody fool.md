@@ -5,22 +5,22 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 08 Sep 2021 12:43:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>你这个该死的傻瓜</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom" referrerpolicy="no-referrer"><p>只要你看到澳大利亚的麝香鸭，就肯定能认出它们来。首先，这些鸭子在繁殖季节会挥发出麝香味；其次，更加明显地，雄性鸭子的喙下面有一个很显眼的黑色囊。</p>
+<blockquote><p>你这个该死的傻瓜</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom" referrerpolicy="no-referrer"><p>只要你看到澳大利亚的麝香鸭，就肯定能认出它们来。首先，这些鸭子在繁殖季节会挥发出麝香味；其次，更加明显地，雄性鸭子的喙下面有一个很显眼的黑色囊。</p>
 <p>对于动物研究人员来说，关于鸭子们，最近有一个令人十分兴奋的发现。Carel ten Cate(莱顿大学)和Peter Fullagar在论文中写道："在这里，我们提供了在鸟类系统发育的一个基干支系的成员——麝香鸭——可以学习发声的证据。”</p>
 <p>有一只人工饲养的鸭子——诨名是Ripper——生活在80年代澳大利亚首都堪培拉西南的Tidbinbilla自然保护区，它学会了模仿关门的声音，以及一句听起来很像 "你这个该死的傻瓜” 的人话。</p>
 <p>研究人员不知道Ripper是如何学会这句特别的澳大利亚短语的，尽管他们认为可能是模仿人类饲养员的口头禅。</p>
 <p>"Ripper是1983年9月从澳大利亚维多利亚州东吉普斯兰的一个蛋中孵化出来的，是当时唯一饲养的麝香鸭。不幸的是，Tidbinbilla的所有文件都在2003年1月的森林大火中丢失了，使得我们很难确定所有的确切细节。"</p>
 <p>15年后，第二只鸭子--也是雄性--也住在Tidbinbilla，但由一只雌性太平洋黑鸭(Anas superciliosa)养大。根据2000年6月的记录，它的叫声听起来一点也不像是麝香鸭。不幸的是，关于这只鸭子的信息也在同一场火灾中丢失了。</p>
 <p>然而，我们确实知道，鸭子在交配时都会模仿各种声音。</p>
-<p>研究人员现在已经提交论文，作为《伦敦皇家学会哲学交易》杂志B版特刊的一部分，重点是 "动物和人类的发声学习"。</p>
+<p>研究人员现在已经提交论文，作为《伦敦皇家学会哲学<del datetime="2021-09-08T17:04:24+00:00">交易</del>交流》杂志B版特刊的一部分，重点是 "动物和人类的发声学习"。</p>
 <p>"这些声音以前就被描述过，但从未被详细分析过，而且至今没有被发声学习的研究者注意到。再加上早先对种群之间的发声差异和人工饲养的个体中的偏差发声的观察，这些证明，麝香鸭存在高级发声学习的现象，其水平可与鸣禽和鹦鹉相媲美。"</p>
 <p>两位专家还注意到，在英国还有一些未被正式记录的雄性麝香鸭，可以模仿了人类的咳嗽声、小马的鼻息声和旋转门的吱呀声。</p>
 <p>研究人员现在感兴趣的原因是，很少有动物能像这些麝香鸭那样模仿发声。麝香鸭是其属的唯一活体成员，与其他能模仿声音的鸟类如鸣禽和鹦鹉的关系非常疏远。</p>

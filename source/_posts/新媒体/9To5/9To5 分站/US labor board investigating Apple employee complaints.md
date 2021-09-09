@@ -5,112 +5,88 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&ssl=1'
+headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Fri, 03 Sep 2021 11:46:05 GMT
-thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&ssl=1'
+thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&ssl=1" referrerpolicy="no-referrer">
-
-<p><em>Update: </em><em>Gjøvik has advised that she disputes the account presented here. Additionally, some have suggested that my own perspective on this is a male one, and that I cannot know how the same words might be intended or received in regard to a woman. That point is well made; I fully accept it; and accordingly have rephrased below.</em></p>
-
-
-
-<p>A US labor board is investigating two <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> employee complaints, one of which was filed by Ashley Gjøvik, a senior engineering program manager who has made a series of public allegations against the company.</p>
-
-
-
-<span id="more-749882"></span><amp-ad width="300" height="250" type="adsense" data-ad-host="ca-host-pub-5506057612223327" data-ad-client="ca-pub-2445248216782983" class="unit-author m-at my-5 vpmd:mt-4 vpmd:mx-5 i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:300px;height:250px" i-amphtml-layout="fixed"></amp-ad>
-
-
-
+<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-employee-complaints-investigated-by-US-labor-board.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<p><em>Update: </em><meta charset="utf-8"><em>Gj<meta charset="utf-8">øvik has advised that she disputes the account presented here. Additionally, some have suggested that my own perspective on this is a male one, and that I cannot know how the same words might be intended or received in regard to a woman. That point is well made; I fully accept it; and accordingly have rephrased below.</em></p>
+<p>A US labor board is investigating two <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> employee complaints, one of which was filed by Ashley Gj<meta charset="utf-8">øvik, a senior engineering program manager who has made a series of public allegations against the company.</p>
+<p><span id="more-749882"></span>
+</p>
 <h2 id="h-background">Background</h2>
-
-
-
 <p>The controversy began when Gjøvik implied that Apple had responded to her allegations of sexism by <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">placing her on administrative leave</a>. </p>
-
-
-
-<blockquote class="wp-block-quote"><p>So, following raising concerns to #Apple about #sexism, #hostileworkenvironment, & #unsafeworkconditions, I’m now on indefinite paid administrative leave per #Apple employee relations, while they investigate my concerns. This seems to include me not using Apple’s internal Slack.</p></blockquote>
-
-
-
-<p>There was some confusion about whether this was imposed by Apple or <a href="https://twitter.com/_shantini_/status/1433297575914971136" target="_blank" rel="noreferrer noopener">requested</a> by Gjøvik.</p>
-
-
-
-<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<amp-twitter width="600" height="480" layout="responsive" data-tweetid="1433297575914971136" class="twitter-tweet i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-width="500" data-dnt="true" i-amphtml-layout="responsive"><i-amphtml-sizer style="display:block;padding-top:80%"></i-amphtml-sizer><blockquote class="twitter-tweet" data-width="500" data-dnt="true" placeholder><p lang="en" dir="ltr">Finally, if anyone was looking for receipts, this is what set me off tonight. Such a big deal was made over this. <a href="https://t.co/ou3lR7u1V1">pic.twitter.com/ou3lR7u1V1</a></p>— Shantini is on vacation (@_shantini_) <a href="https://twitter.com/_shantini_/status/1433297575914971136?ref_src=twsrc%5Etfw">September 2, 2021</a></blockquote></amp-twitter>
-</div></figure>
-
-
-
-<p>However, the position appears to be that Gjøvik said that she would <em>accept</em> this option if no better solution could be found.</p>
-
-
-
+<blockquote class="wp-block-quote">
+<p>So, following raising concerns to #Apple about #sexism, #hostileworkenvironment, & #unsafeworkconditions, I’m now on indefinite paid administrative leave per #Apple employee relations, while they investigate my concerns. This seems to include me not using Apple’s internal Slack.</p>
+</blockquote>
+<p>There was some confusion about whether this was imposed by Apple or <a href="https://twitter.com/_shantini_/status/1433297575914971136" target="_blank" rel="noreferrer noopener">requested</a> by <meta charset="utf-8">Gjøvik.</p>
+<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter">
+<div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-dnt="true">
+<p lang="en" dir="ltr">Finally, if anyone was looking for receipts, this is what set me off tonight. Such a big deal was made over this. <a href="https://t.co/ou3lR7u1V1">pic.twitter.com/ou3lR7u1V1</a></p>
+<p>— Shantini is on vacation (@_shantini_) <a href="https://twitter.com/_shantini_/status/1433297575914971136?ref_src=twsrc%5Etfw">September 2, 2021</a></p></blockquote>
+<p>
+</p></div>
+</figure>
+<p>However, the position appears to be that <meta charset="utf-8">Gjøvik said that she would <em>accept</em> this option if no better solution could be found.</p>
 <p>The primary supporting evidence Gjøvik presented for her sexism allegations was a <a href="https://twitter.com/ashleygjovik/status/1422380335703101443?s=20" target="_blank" rel="noreferrer noopener">tweeted screengrab</a> of iMessage feedback from a manager.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>Feedback on the presentation today – I was specifically looking for tone. You did great. I didn’t hear you going up an octave at the end of your statements. Came across as much more authoritative. It’s super refreshing to provide feedback and then see you attempt to act upon it. Thank you!</p></blockquote>
-
-
-
-<p>It is well known that some male managers hold sexist attitudes about differences in tone between men and women, and Gjøvik felt this to be evidence of such.</p>
-
-
-
+<blockquote class="wp-block-quote">
+<p>Feedback on the presentation today – I was specifically looking for tone. You did great. I didn’t hear you going up an octave at the end of your statements. Came across as much more authoritative. It’s super refreshing to provide feedback and then see you attempt to act upon it. Thank you!</p>
+</blockquote>
+<p>It is well known that some male managers hold sexist attitudes about differences in tone between men and women, and <meta charset="utf-8">Gjøvik felt this to be evidence of such.</p>
 <p>Some Twitter users remarked that this was extremely common feedback given to both men and women during public speaking training. However, as noted above, male commenters are not in the same position as female ones in regard to the broader environment which may underlay such remarks when made to a woman.</p>
-
-
-
 <p>As stated in the original piece, I have absolutely no doubt that sexism occurs within Apple as it does within any large organization.</p>
-
-
-
-<p>Gjøvik <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">was subsequently interviewed</a> by <em><a href="https://www.theverge.com/2021/8/4/22610112/apple-female-engineering-manager-leave-sexism-work-environment" target="_blank" rel="noreferrer noopener">The Verge</a></em>. This was followed by <a href="https://www.ashleygjovik.com/ashleys-apple-story.html" target="_blank" rel="noreferrer noopener">a webpage</a> on which she posted a series of her tweets on the topic, including <a href="https://www.ashleygjovik.com/ashleys-apple-story.html" target="_blank" rel="noreferrer noopener">a lengthy list</a> of the offences she believed her managers had committed (with some redactions):</p>
-
-
-
-<ul><li>Assault & Battery</li><li>Hostile Work Environment</li><li>Quid Pro Quo Bribe</li><li>Hostile Work Environment</li><li>Retaliation & Constructive Termination #1</li><li>Retaliation and Constructive Termination #2</li><li>Negligence; Failure to Report Work Place Injuries</li><li>Sexual Assault Concerns</li><li>Sexual Discrimination</li><li>Workplace Safety on</li><li>Sexist Culture in</li><li>Disability Discrimination & FMLA Violation</li><li>Hostile Work Environment</li><li>Sexual Harassment</li><li>Hostile Work Environment</li><li>Failure to Address Hostile Work Environment</li><li>Sexual Comments</li><li>Hostile Work Environment</li><li>ADA Violations & Whistleblowing</li><li>Retaliation, lIED, Constructive Termination #3</li><li>Workers Compensation</li><li>Workplace Safety Concerns</li><li>Product Defect Whistleblowing</li><li>Privacy Whistleblowing</li><li>Voting Rights Advocacy</li><li>Corruption Whistleblowing</li><li>Workplace Safety Whistleblowing & Other Advocacy</li></ul>
-
-
-
+<p><meta charset="utf-8">Gjøvik <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">was subsequently interviewed</a> by <em><a href="https://www.theverge.com/2021/8/4/22610112/apple-female-engineering-manager-leave-sexism-work-environment" target="_blank" rel="noreferrer noopener">The Verge</a></em>. This was followed by <a href="https://www.ashleygjovik.com/ashleys-apple-story.html" target="_blank" rel="noreferrer noopener">a webpage</a> on which she posted a series of her tweets on the topic, including <a href="https://www.ashleygjovik.com/ashleys-apple-story.html" target="_blank" rel="noreferrer noopener">a lengthy list</a> of the offences she believed her managers had committed (with some redactions):</p>
+<ul>
+<li>Assault & Battery</li>
+<li>Hostile Work Environment</li>
+<li>Quid Pro Quo Bribe</li>
+<li>Hostile Work Environment</li>
+<li>Retaliation & Constructive Termination #1</li>
+<li>Retaliation and Constructive Termination #2</li>
+<li>Negligence; Failure to Report Work Place Injuries</li>
+<li>Sexual Assault Concerns</li>
+<li>Sexual Discrimination</li>
+<li>Workplace Safety on</li>
+<li>Sexist Culture in</li>
+<li>Disability Discrimination & FMLA Violation</li>
+<li>Hostile Work Environment</li>
+<li>Sexual Harassment</li>
+<li>Hostile Work Environment</li>
+<li>Failure to Address Hostile Work Environment</li>
+<li>Sexual Comments</li>
+<li>Hostile Work Environment</li>
+<li>ADA Violations & Whistleblowing</li>
+<li>Retaliation, lIED, Constructive Termination #3</li>
+<li>Workers Compensation</li>
+<li>Workplace Safety Concerns</li>
+<li>Product Defect Whistleblowing</li>
+<li>Privacy Whistleblowing</li>
+<li>Voting Rights Advocacy</li>
+<li>Corruption Whistleblowing</li>
+<li>Workplace Safety Whistleblowing & Other Advocacy</li>
+</ul>
 <h2 id="h-investigation-of-apple-employee-complaints">Investigation of Apple employee complaints</h2>
-
-
-
-<p><a href="https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a> reports that Gjøvik and another Apple employee have filed complaints with the US National Labor Relations Board.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>A U.S. national labor agency is investigating two charges against tech giant Apple Inc (AAPL.O) filed by employees, records on its website show, amid a wave of worker activism at a company known for its secretive culture.</p><p>The charges, filed on Aug. 26 and Sept. 1, are being reviewed by the U.S. National Labor Relations Board’s office in Oakland, California. The agency declined to comment.</p><p>“We take all concerns seriously and we thoroughly investigate whenever a concern is raised,” Apple, which is based in Cupertino, California, said in a statement that cited employee privacy in declining to discuss specifics.</p><p>Ashley Gjovik, a senior engineering program manager at Apple, told Reuters that she filed the Aug. 26 charge, which cites harassment by a manager, reduction of responsibilities and increases in unfavorable work, among other complaints.</p></blockquote>
-
-
-
+<p><a href="https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/" target="_blank" rel="noreferrer noopener">Reuters</a> reports that <meta charset="utf-8">Gjøvik and another Apple employee have filed complaints with the US National Labor Relations Board.</p>
+<blockquote class="wp-block-quote">
+<p>A U.S. national labor agency is investigating two charges against tech giant Apple Inc (AAPL.O) filed by employees, records on its website show, amid a wave of worker activism at a company known for its secretive culture.</p>
+<p>The charges, filed on Aug. 26 and Sept. 1, are being reviewed by the U.S. National Labor Relations Board’s office in Oakland, California. The agency declined to comment.</p>
+<p>“We take all concerns seriously and we thoroughly investigate whenever a concern is raised,” Apple, which is based in Cupertino, California, said in a statement that cited employee privacy in declining to discuss specifics.</p>
+<p>Ashley Gjovik, a senior engineering program manager at Apple, told Reuters that she filed the Aug. 26 charge, which cites harassment by a manager, reduction of responsibilities and increases in unfavorable work, among other complaints.</p>
+</blockquote>
 <p>A separate complaint was filed by Apple engineer Cher Scarlett, who <a href="https://9to5mac.com/2021/08/23/apple-pay-survey-equity-and-inclusion/" target="_blank" rel="noreferrer noopener">carried out an internal survey</a> to determine whether there was a pay equity problem within the company. Around 2,000 male and female employees shared their seniority and salary. Analysis of the results showed a 6% disparity in male and female pay. <a href="https://9to5mac.com/2021/08/09/apple-bans-internal-employee-surveys-on-pay-equity-and-more/" target="_blank" rel="noreferrer noopener">Apple responded by banning such surveys</a>, which didn’t exactly help to allay concerns of unequal pay.</p>
-
-
-
-<blockquote class="wp-block-quote"><p>The Sept. 1 charge was filed by Cher Scarlett, an Apple software engineer who said the company repeatedly stopped discussions of pay among employees.</p><p>The documents she sent the agency, which she provided to Reuters, say Apple “engaged in coercive and suppressive activity that has enabled abuse and harassment of organizers of protected concerted activity.”</p></blockquote>
-
-
-
+<blockquote class="wp-block-quote">
+<p>The Sept. 1 charge was filed by Cher Scarlett, an Apple software engineer who said the company repeatedly stopped discussions of pay among employees.</p>
+<p>The documents she sent the agency, which she provided to Reuters, say Apple “engaged in coercive and suppressive activity that has enabled abuse and harassment of organizers of protected concerted activity.”</p>
+</blockquote>
 <p>I don’t have the inside view necessary to hold an opinion on the seriousness with which the company attempts to correct these problems, but I do feel that responding to a survey which reveals pay disparity by banning such surveys is as dumb a response as a company could possibly make.</p>
-
-
-
 <p><em>An earlier version of this piece included what appeared to be subtweet about this case, but has since been clarified to be a subtweet about another matter.</em></p>
-
-
-
 <p><em>Photo: <a href="https://www.reuters.com/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/" target="_blank" rel="noreferrer noopener">Stephen Lam/Reuters</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: 9to5Mac is reader supported, we may earn income on <a href="https://9to5mac.com/about/#affiliate">affiliate links</a></em></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3js5FyQ"><amp-img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt class="wp-image-748175 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" width="750" height="150" layout="intrinsic" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1MCIgd2lkdGg9Ijc1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" referrerpolicy="no-referrer"></i-amphtml-sizer><noscript><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt="" width="750" height="150"></noscript></amp-img></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://amzn.to/3js5FyQ"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Native-Banner-750x150-1.jpg?quality=82&strip=all" alt class="wp-image-748175" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
