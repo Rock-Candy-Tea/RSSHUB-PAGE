@@ -1,0 +1,19 @@
+
+---
+title: '谷歌推出Android 12 Beta 5：正式版几周后发布'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0909/282e827ea8f98dd.png'
+author: cnBeta
+comments: false
+date: Thu, 09 Sep 2021 01:51:51 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0909/282e827ea8f98dd.png'
+---
+
+<div>   
+<strong>Google 已决定发布 Android 12 的最终测试版本，但我们并未在更新日志中看到多少新功能，意味着该公司在过去几个月里一直在努力修缮。</strong>在早前的 Beta 4 阶段，Android 12 已经抵达的“平台稳定性”的里程碑，同时也将 Beta 5 作为候选发布版本。如果一切顺利，正式版也将于几周内到来。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2021/0909/282e827ea8f98dd.png" referrerpolicy="no-referrer"></p><p>随着 Android 12 Beta 5 / 最终测试版的到来，开发者现可测试并检查他们的应用程序，以确保在 9 月下旬正式发布时做好准备（谷歌尚未给出确切日期）。</p><p>早前未在第一时间加入测试计划的 Pixel 5a 设备，现广大用户也可申请加入 Beta 试用（<a href="https://www.google.com/android/beta" target="_self">传送门</a>）。</p><p>以下是 WCCFTech 汇总的面向谷歌 Pixel 系列设备的 Android 12 工厂镜像 / OTA 文件：</p><blockquote><p>● Pixel 5a：<a href="https://dl.google.com/developers/android/sc/images/factory/barbet-spb5.210812.002-factory-ff58d07e.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/barbet-ota-spb5.210812.002-5a538cbb.zip" target="_self">OTA</a></p><p>● Pixel 5：<a href="https://dl.google.com/developers/android/sc/images/factory/redfin-spb5.210812.002-factory-cc26fdda.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spb5.210812.002-0f1e0a1f.zip" target="_self">OTA</a></p><p>● Pixel 4a（5G）：<a href="https://dl.google.com/developers/android/sc/images/factory/bramble-spb5.210812.002-factory-a85643f5.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/bramble-ota-spb5.210812.002-a04413e6.zip" target="_self">OTA</a></p><p>● Pixel 4a：<a href="https://dl.google.com/developers/android/sc/images/factory/sunfish-spb5.210812.002-factory-940d98cc.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/sunfish-ota-spb5.210812.002-8c893b5e.zip" target="_self">OTA</a></p><p>● Pixel 4 XL：<a href="https://dl.google.com/developers/android/sc/images/factory/coral-spb5.210812.002-factory-4dcc21bf.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/coral-ota-spb5.210812.002-bda154d3.zip" target="_self">OTA</a></p><p>● Pixel 4：<a href="https://dl.google.com/developers/android/sc/images/factory/flame-spb5.210812.002-factory-ef2ac073.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/flame-ota-spb5.210812.002-a2ce4c8c.zip" target="_self">OTA</a></p><p>● Pixel 3a XL：<a href="https://dl.google.com/developers/android/sc/images/factory/bonito-spb5.210812.002-factory-c26bc7a3.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/bonito-ota-spb5.210812.002-9e2a4ff6.zip" target="_self">OTA</a></p><p>● Pixel 3a：<a href="https://dl.google.com/developers/android/sc/images/factory/sargo-spb5.210812.002-factory-d52be031.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/sargo-ota-spb5.210812.002-84c4a4fa.zip" target="_self">OTA</a></p><p>● Pixel 3 XL：<a href="https://dl.google.com/developers/android/sc/images/factory/crosshatch-spb5.210812.002-factory-37309187.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/crosshatch-ota-spb5.210812.002-1229c3f4.zip" target="_self">OTA</a></p><p>● Pixel 3：<a href="https://dl.google.com/developers/android/sc/images/factory/blueline-spb5.210812.002-factory-6390aefc.zip" target="_self">Factory Image</a> — <a href="https://dl.google.com/developers/android/sc/images/ota/blueline-ota-spb5.210812.002-19e7580a.zip" target="_self">OTA</a></p></blockquote>   
+</div>
+            
