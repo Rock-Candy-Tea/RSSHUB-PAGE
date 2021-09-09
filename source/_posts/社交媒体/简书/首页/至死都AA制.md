@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 简书
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6503'
+headimg: 'https://picsum.photos/400/300?random=7395'
 author: 简书
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=6503'
+thumbnail: 'https://picsum.photos/400/300?random=7395'
 ---
 
 <div>   
