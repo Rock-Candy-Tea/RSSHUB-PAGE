@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210909/1631153199_9561
 <strong>更新预告：</strong> 
 </p>
 <p style="text-align:center;">
-<iframe src="https://player.youku.com/embed/XNTE5Nzg0NTI4OA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=s3274fbkc1e" width="640" height="480" allowfullscreen="true">
 </iframe>
 </p>
 <p style="text-indent:2em;">

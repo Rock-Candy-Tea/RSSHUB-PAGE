@@ -1,0 +1,70 @@
+
+---
+title: '美亚柏科：公司已有区块链虚拟币取证产品，正持续关注和研究NFT领域的取证需求，下一步'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://picsum.photos/400/300?random=480'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=480'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          美亚柏科：公司已有区块链虚拟币取证产品，正持续关注和研究NFT领域的取证需求，下一步会把区块链虚拟币取证能力延伸到NFT
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-09-09 10:40:00
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91" class="typeTag tagColor3">软件开发</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E7%A6%8F%E5%BB%BA%E7%9C%81" class="typeTag tagColor2">福建省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300188" data-stock-code="300188" class="typeTag tagColor1">美亚柏科 <abbr class="highs">+0.1%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p>每经AI快讯，有投资者在投资者互动平台提问：近期包括腾讯等国内多家厂商已经开始推进NFT等数字货币之外的数字资产项目。公司前期回答我的问题时，表示后续会持续针对区块链NFT等新应用领域开展技术研究工作。请问2个月过后，目前公司对于NFT这一块的研究是否有立项？如果已有立项并开始实施，展望目前的研究进展，是否跟得上友商相关项目的进度，能及时推出相关产品供有关部门对此种类型的数字资产交易进行监管？如果没有立项，则建议进行立项可行性研究，谢谢！</p>
+<p>美亚柏科（300188.SZ）9月9日在投资者互动平台表示，您好，公司已有区块链虚拟币取证产品，正持续关注和研究NFT领域的取证需求，下一步会把区块链虚拟币取证能力延伸到NFT。感谢您的关注和支持。</p>
+<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 蔡鼎)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
