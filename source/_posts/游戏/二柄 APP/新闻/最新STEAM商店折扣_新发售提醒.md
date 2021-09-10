@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 author: 二柄 APP
 comments: false
-date: 2021-09-10 02:21:33
+date: 2021-09-10 03:07:43
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 ---
 
@@ -23,14 +23,14 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 
 游戏发行商 Focus 也开启了一批热门游戏折扣，其中以下游戏值得关注：
 《迸发2》原价148元，折后价37元，新史低
-《雪地狂奔》原价118元，折后价76元，新史低
+《雪地奔驰》原价118元，折后价76元，新史低
 《涅克罗蒙达：赏金猎人》原价148元，折后价111元，新史低
 《模拟农场19》原价78元，折后价31元，新史低
 《瘟疫传说：无罪》原价158元，折后价39元，接近史低
 
 新游戏中以下游戏值得关注：
 《破晓传说》售价328元，特别好评
-平台解谜类游戏《勇往直前（Webbed）》售价37，特别好评，支持中文
+平台解谜类游戏《勇网直前（Webbed）》售价37，特别好评，支持中文
 塔防、动作类游戏《Dwerve: Prologue》免费游玩，特别好评，支持中文
 冒险、探索类游戏《Milo and the Magpies》原价11元，折后价9元，支持中文，特别好评
 
