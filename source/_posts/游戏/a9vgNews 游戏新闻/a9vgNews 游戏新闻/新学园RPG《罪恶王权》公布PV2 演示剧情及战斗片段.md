@@ -1,0 +1,18 @@
+
+---
+title: '新学园RPG《罪恶王权》公布PV2 演示剧情及战斗片段'
+categories: 
+ - 游戏
+ - a9vgNews 游戏新闻
+ - a9vgNews 游戏新闻
+headimg: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0910/20210910142202-4630-78642.jpg'
+author: a9vgNews 游戏新闻
+comments: false
+date: Fri, 10 Sep 2021 14:22:00 GMT
+thumbnail: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0910/20210910142202-4630-78642.jpg'
+---
+
+<div>   
+<img src="https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2021/0910/20210910142202-4630-78642.jpg" referrerpolicy="no-referrer">  
+</div>
+            
