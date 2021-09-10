@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/2/2021/09/10/0445583455.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-09-10 00:26:29
+date: 2021-09-10 01:52:19
 thumbnail: 'https://erbingeditor.diershoubing.com/2/2021/09/10/0445583455.jpg'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/2/2021/09/10/0445583455.jpg'
 PlayStation Showcase 2021发布会汇总：
 1，Aspyr开发的《星球大战：旧共和国武士 重制版》登陆PS5；
 2，金亨泰创办的Shift Up《Project EVE》PS5实机预告；
-3，Gearbox《小缇娜的奇幻之地》2022年3月5日发售，PS5实机预告；
+3，Gearbox《小缇娜的奇幻之地》2022年3月25日发售，PS5实机预告；
 4，SE新作《Forspoken》PS5实机预告，2022年春季发售；
 5，育碧《彩虹六号：异种》2022年1月发售，新游戏预告；
 6，Remedy《心灵杀手重制版》今秋发售，收录全 DLC，全面优化视觉效果，PS5新实机预告；

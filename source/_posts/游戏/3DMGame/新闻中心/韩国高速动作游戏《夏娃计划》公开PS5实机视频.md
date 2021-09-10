@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210910/1631224438_4352
 
 <div>   
 <p style="text-indent:2em;">
-在今天（9月10日）早上的Playstation Showcase活动上，韩国开发商SHIFT UP宣布了他们开发的动作游戏《夏娃计划（Project EVE）》将登陆PS5平台，并公开了一段全新的游戏预告。
+在今天（9月10日）早上的Playstation Showcase活动上，韩国开发商SHIFT UP宣布了他们开发的动作游戏《夏娃计划（<a target="_blank" href="https://www.3dmgame.com/games/projecteve/">Project EVE</a>）》将登陆PS5平台，并公开了一段全新的游戏预告。
 </p>
 <p style="text-indent:2em;">
 <strong>《夏娃计划》预告片：</strong> 
@@ -30,16 +30,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210910/1631224438_4352
 此前，游戏首次公开时《夏娃计划》曾计划登陆PC、PS4和XboxOne平台，这次PS5活动之后尚不清楚该计划仍未变化。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224438_435251.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224438_435251.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_543592.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_543592.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_198745.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_198745.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_601987.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210910/1631224322_601987.jpg" alt="韩国高速动作游戏《夏娃计划》公开PS5实机视频" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

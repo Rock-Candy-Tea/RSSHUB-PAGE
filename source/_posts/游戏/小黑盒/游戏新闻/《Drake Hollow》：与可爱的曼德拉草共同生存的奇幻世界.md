@@ -1,0 +1,18 @@
+
+---
+title: '《Drake Hollow》：与可爱的曼德拉草共同生存的奇幻世界'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/739650_Hx82r.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 10 Sep 2021 00:03:20 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/739650_Hx82r.jpg'
+---
+
+<div>   
+<blockquote><p>本文作者：夜游者-李营长</p><p>前段时间进的8月包，感兴趣的盒友可以搞几个和朋友一起玩</p></blockquote><p><img data-gameid="739650" src="https://cdn.max-c.com/heybox/game/header/739650_Hx82r.jpg" referrerpolicy="no-referrer"></p><p>《Drake Hollow》中文名《空穴》是一款异世界多人合作冒险生存游戏，在本作中我们将化身为天选之子帮助异世界抵御怪物的入侵。玩家将体验在神秘世界探索的刺激，满地物品可捡的“垃圾佬“快乐，与好友一起建设你们营地的成就感。</p><p>《Drake Hollow》分为剧情模式与沙盒模式。但剧情模式的剧情几乎没有，只有在开头有只乌鸦告诉玩家身上担负着拯救世界的重任，随之便开始游戏；而沙盒模式官方介绍是只有动作部分，实际上就是没有任务要求，玩家可以随心所欲地游玩。在剧情模式中，我们需要制造搜寻各种生活用品与生产工具来壮大营地，同时保证当地原住民曼德拉草幸福快乐生活下去，为此我们要探索地图，与怪物进行战斗收集物资。游戏中有多种消耗品物资，玩家可以在地图上搜寻，自己制造或者去商店购买出售。同时游戏还有丰富的近战和远程武器，从树枝到台球棍，从弓箭到枪械应有尽有，战斗手感也不错。</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/bbs/2021/09/09/2c14fe7b0cb00f0b4d979bfb234d82f5/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><h2>可爱的画风</h2><p>《Drake Hollow》的画风与《堡垒之夜》相似，卡通而可爱的画风也让这款游戏的受众面较广。</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/bbs/2021/09/09/edadb9cbb04f03f9cec22dd68c034aba/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><h2>多个可供探索的地区</h2><p>作为一款生存类游戏，本作拥有许多的岛屿可供玩家探索，较好地满足了玩家们的探索欲。每个岛屿都是孤立的，它们之间有一种名为以太的物质阻拦玩家前进，玩家有两种方法可以通过以太，其一是使用消耗品“以太护符”，其二是通过传送车穿梭各个地区。多个传送车可以连接传送绳，可以传送物资和快速移动。笔者在游玩之前以为每个岛屿都会有其各自的独特物资与武器，但真实游玩下来发现每个岛屿大差不差，除了建筑地形不同其他没有什么区别。</p><p><img class="lazy" data-height="713" src="https://imgheybox.max-c.com/bbs/2021/09/09/29f139d2c3768bbb2165676e1164c3d9/thumb.png" data-width="1267" referrerpolicy="no-referrer"></p><h2>曼德拉草</h2><p>曼德拉草是游戏里世界观的原住民，因为世界的动荡他们变得不信任陌生人也难以存活下去。曼德拉草在游戏中扮演着重要的角色，我们要照顾这些曼德拉草，保证他们有充足的水源食物和玩具等等，而他们会帮助我们建造生产东西，给予我们各种buff让我们在游玩过程中愈发强大。此外，曼德拉草是在地图上随机刷出来的，刚玩游戏时我在路上遇到曼德拉草都会把它们带营地，但随着他们数量越来越多，我已经养不起他们了......因此玩家推荐养曼德拉草要尽力而为，没必要每个都带回营地。除此之外，我们也可与曼德拉互动，获得增益或者给他们升级，不过这个互动有个让人很难受的地方，它的过场动画无法跳过，互动一次往往需要好几秒前摇，如果曼德拉草多了这点也挺头疼的。</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/bbs/2021/09/09/6ad7fe355c41f62fe29d0ac4c8626199/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><h2>前期新鲜，后期乏味</h2><p>作为一款生存游戏，《Drake Hollow》并不像《我的世界》或者《饥荒》那样没有任何指导全靠自己，这款游戏基本就是线性流程：乌鸦作为指引者给玩家发布任务，玩家完成任务，自由度不算高。本作前期挺上头的，但玩到后期新鲜感过去之后，重复性比较高，内容比较乏味，就像本作的名字《空穴》一样比较空洞，战斗基本也没有什么技能，面对的怪物种类也不算多，基本上很难玩个上百小时。</p><p><img class="lazy" data-height="713" src="https://imgheybox.max-c.com/bbs/2021/09/09/32600b3969278f29a4ad27d55d632d9d/thumb.png" data-width="1267" referrerpolicy="no-referrer"></p><h2>一个人的孤独，多人的狂欢</h2><p>此款游戏同时支持最多四人在线游玩，但仅限好友邀请，并没有房间或者匹配一说，这就意味着如果你没有朋友玩这款游戏的话，那多人模式就与你无缘了。由于笔者没有朋友可以一起玩，便来说说一个人玩这款游戏是什么感觉————孤独。一个人玩《Drake Hollow》你会经历在你兴致勃勃探索地图时，家里的曼德拉草需要食物水源或者遭受攻击要跋山涉水回家而被迫停止探索的无奈，后期有传送绳还好，前期着实痛苦，当我遇到这种情况时，就会希望有个人来帮我看着营地，这样我就能继续探索这个世界，当一个快乐的“垃圾佬”。此外，孤独感最强烈的时候就是天黑时你还在营地之外，四周还都是野怪时，孤独感油然而生。当然，如果你有朋友一起玩的话，那这款游戏就非常适合你，可以和朋友一起体验异世界生存的乐趣。</p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/09/09/20eb0abe10321d575fd6b1c2018c6d4f/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><p>如果你有一群很要好的朋友可以一起玩游戏，那么这款游戏值得入手。其卡通的画风，多个可供探索的地区和与朋友一起建设家园会让你们的友谊更进一步。而如果你是个独狼，那么我建议慎入，毕竟一个人想要生存下去总是孤独与寂寞的</p><p><img data-gameid="739650" src="https://cdn.max-c.com/heybox/game/header/739650_Hx82r.jpg" referrerpolicy="no-referrer"></p><p>我们夜游者会持续更新游戏评测和游戏推荐，无论是何种类型的游戏。</p><p>欢迎关注我们的账号。</p><p>同时更多你懂的评测内容可以移步去<a href="https://store.steampowered.com/curator/40742940" target="_blank">夜游者(steam鉴赏家)</a>查看。</p>  
+</div>
+            
