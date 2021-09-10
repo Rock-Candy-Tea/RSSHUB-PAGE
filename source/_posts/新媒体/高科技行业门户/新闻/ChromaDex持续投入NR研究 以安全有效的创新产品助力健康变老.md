@@ -1,0 +1,19 @@
+
+---
+title: 'ChromaDex持续投入NR研究 以安全有效的创新产品助力健康变老'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/10/Leslie/1631268037951075400.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 10 Sep 2021 09:58:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/10/Leslie/1631268037951075400.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近期，一篇题为《抗老健康类产品烟酰胺单核苷酸（NMN）的宣称及安全问题》的研究文章发表于《前沿研究期刊》（Journal of Advanced Research）。研究指出，虽然目前市场中已有不少NMN相关的抗老健康保健类产品，但NMN本身缺乏相关的人体试验来证明其长期安全性以及临床疗效。NMN亟需进一步就其安全性和有效性开展相关的人体试验研究。</p><p style="text-indent: 2em; text-align: left;"><strong>科学数据证明Niagen安全且有效</strong></p><p style="text-indent: 2em; text-align: left;">近几年来，烟酰胺腺嘌呤二核苷酸（NAD＋）以及NAD＋前体相关的补充剂持续走在衰老领域的前沿。Niagen（NR， 烟酰胺核糖） 以及NMN作为众所周知的两大NAD＋前体，备受关注。ChromaDex最先发现NAD＋前体烟酰胺核糖 （NR），并将其以产品主打成分Niagen的形式进行商业化生产。</p><p style="text-indent: 2em; text-align: left;">据最新发表的研究表明，这两者的主要区别在于其长期服用的安全性以及在临床上支持健康变老的有效性。</p><p style="text-indent: 2em; text-align: left;">截至目前，已有13项已发表的人体临床试验证明Niagen能够有效提升细胞NAD＋水平，而NMN只有4项人体临床试验证明其能够提升细胞NAD＋水平。此外，大部分的NMN研究均基于体外或动物试验。</p><p style="text-indent: 2em; text-align: left;">“NIAGEN已通过严格的质量审查以及临床试验证明了其有效性。” ChromaDex科学委员会主席、诺贝尔奖得主、美国斯坦福大学结构生物学教授Roger Kornberg博士谈到。</p><p style="text-indent: 2em; text-align: left;"><strong>烟酰胺核糖（NR）能够直接进入细胞，而NMN不能</strong></p><p style="text-indent: 2em; text-align: left;">烟酰胺核糖（NR）一旦被身体吸收便可直接进入细胞，而NMN却不能。据NAD＋领域发表的一系列前沿的研究表明， NMN不能直接进入细胞，而是必须在进入细胞前先转化为NR。</p><p style="text-indent: 2em; text-align: left;">例如，一项2016年发表于《自然通讯（Nature Communications）》的有关哺乳动物细胞中NMN新陈代谢的研究结果表明，NMN不能直接进入细胞。</p><p style="text-indent: 2em; text-align: left;">除了一组磷酸基的差异，NR和NMN在化学本质上是相同的。研究表明，NMN必须在进入细胞前将磷酸基脱落并转化为烟酰胺核糖，才能进入细胞。</p><p style="text-indent: 2em; text-align: left;"><strong>多项监管获批认可，Niagen赋能健康变老</strong></p><p style="text-indent: 2em; text-align: left;">Niagen已经两次成功通过美国FDA新型食品成分（NDI）通知计划下的审查，并成功获得美国FDA “一般认为安全（GRAS）” 的通知。其拥有多国监管机构的批准，包括加拿大卫生部、欧盟委员会、澳大利亚治疗用品管理局（TGA）．</p><p style="text-indent: 2em; text-align: left;">ChromaDex公司CEO Rob Fried表示： “我们将进一步扩大烟酰胺核糖（NR）和其他NAD＋前体方面的科学研究，从而进一步巩固我们作为世界领先NAD＋公司的地位。同时，我们还将加强旗舰消费品牌——Tru Niagen樂加欣（可安全有效地提高NAD ＋水平）的营销力度。”</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/10/Leslie/1631268037951075400.png" title="1631268037951075400.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">ChromaDex上市五周年全球累计销量超300万瓶</p><p style="text-indent: 2em; text-align: left;">ChromaDex科学委员会由ChromaDex科学委员会主席，诺贝尔化学奖得主、美国斯坦福大学结构生物学教授 Roger Kornberg 博士带领，致力于NAD＋ 和NR的研究。团队还拥有诺贝尔化学奖得主，剑桥大学线粒体生物学研究所名誉主任兼教授John Walker爵士，马萨诸塞州总医院神经学副主任和遗传及衰老研究部主任、哈佛医学院神经学教授Rudolph Tanzi等在内的科学专家。</p><p style="text-indent: 2em; text-align: left;">欲了解更多Tru Niagen樂加欣的科学信息，敬请访问Tru Niagen樂加欣的微信公众号及微信官方小程序。有关ChromaDex的更多信息，敬请访问ChromaDex官网。</p><p style="text-indent: 2em; text-align: left;">＃＃＃</p><p style="text-indent: 2em; text-align: left;"><strong>关于Tru Niagen樂加欣：</strong></p><p style="text-indent: 2em; text-align: left;">Tru Niagen樂加欣是一款广受赞誉的品牌营养补充剂，由烟酰胺核糖（NR）技术主要创新者、专利持有方ChromaDex公司推广上市。ChromaDex公司推出的NIAGEN烟酰胺核糖（NR）是Tru Niagen樂加欣中唯一的活性成分。多次临床试验表明，Tru Niagen樂加欣能有效提升随人体衰老而不断降低的NAD （烟酰胺腺嘌呤二核苷酸）水平。Tru Niagen樂加欣是唯一两次成功通过了美国食品和药品监督局新食品成分 （“NDI”） 通报程序 ，并成功获得FDA “公认安全” （“GRAS”） 标注的产品。</p><p style="text-indent: 2em; text-align: left;"><strong>关于ChromaDex：</strong></p><p style="text-indent: 2em; text-align: left;">ChromaDex是一家致力于健康变老的全球性生物科学公司。ChromaDex拥有享誉世界的科学家团队，开创了研究烟酰胺腺嘌呤二核苷酸（NAD＋）的先河，并发现NAD＋水平会随着年龄的增长而下降。ChromaDex最先发现NAD＋前体烟酰胺核糖 （NR），并将其以产品主打成分Niagen烟酰胺核糖的形式进行商业化生产。烟酰胺核糖 （NR）及其他NAD＋前体受ChromaDex的专利保护。Niagen是ChromaDex旗下产品Tru Niagen樂加欣的唯一活性成分。Tru Niagen樂加欣可于产品官网以及通过全球合作的零售商和分销商购买。ChromaDex公司网站定期更新公司新闻与财务状况。</p><p><br></p> 
+  
+</div>
+            

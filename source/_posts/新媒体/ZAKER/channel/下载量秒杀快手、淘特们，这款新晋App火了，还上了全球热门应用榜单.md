@@ -1,0 +1,18 @@
+
+---
+title: '下载量秒杀快手、淘特们，这款新晋App火了，还上了全球热门应用榜单'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd41_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 10 Sep 2021 01:26:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd41_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd41_1024.jpg" data-height="1133" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd41_1024.jpg" referrerpolicy="no-referrer"></div></div>近日，国家反诈中心 App 下载量迅速飙升，成功跻身各大热门应用下载榜 TOP10。<p></p><p>Sensor Tower 商店情报数据显示，2021 年 8 月，国家反诈中心 App 在全球 App store 下载量排行榜排名第七。</p><p>国内市场方面，七麦公布的数据显示，8 月 App store（ios）热门应用下载榜，国家反诈中心 App 以 1000 万 + 的预估下载量位列榜首。</p><p>公开信息显示，国家反诈中心 App 由公安部刑事侦查局开发，是一款帮助用户识别预警诈骗信息，快速举报诈骗内容、提升防范意识的反电信诈骗应用。</p><p>国家反诈中心 App 从今年 3 月上线后，各地公安机关和相关组织开展了大量的宣传工作，积极呼吁民众下载安装，该应用的用户覆盖率迅速上升。</p><p>值得一提的是，在国家反诈中心 App 的宣传工作中，还出现了一个有趣的网络出圈事件。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd42_1024.jpg" data-height="306" data-width="318" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd42_1024.jpg" referrerpolicy="no-referrer"></div></div>" 反诈警官老陈申请连麦 ……" 近日，警官老陈在直播平台连麦各网红主播一事走红网络。<p></p><p>" 警官老陈 " 实际上是河北秦皇岛的一位反诈民警陈国平，陈警官利用网络直播宣传反诈，与 " 西厂公公 "" 女装大佬 " 等各类主播连线。</p><p>通过这一带有强烈戏剧性、趣味性的宣传方式，陈警官的宣传形成了 " 雪球效应 "，带动了不少网红主播在各自的直播间宣传反诈知识，也纷纷呼吁观看直播的用户下载国家反诈中心 App。</p><p>快手直播平台公布的 9 月 1 日当天数据显示，陈警官直播间观看总人数达 1 亿人次，成功辐射 2100+ 位主播，相关主播直播间总观看人数达 1.4 亿人次。</p><p>截止至 9 月 6 日，陈警官的快手账号涨粉 131.3W。由以上数据可以看出，陈警官的直播宣传火出了圈，同时也带动国家反诈中心 APP 成为网友近期热议的话题。</p><p>9 月 10 日，# 国家反诈 App 有多牛 # 的话题冲上微博热搜，该话题达到了 6 亿的阅读量和 3.3 万的讨论量。网友们纷纷表示 " 这个 App 是真的能防诈骗。"</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd43_1024.jpg" data-height="774" data-width="1079" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/613b24a98e9f093d446efd43_1024.jpg" referrerpolicy="no-referrer"></div></div>具体来看，国家反诈中心 App 主要功能之一是 " 来电预警 " 功能，功能开启后能准确识别并预警诈骗来电及短信，自动拦截骚扰电话、短信。<p></p><p>该 App 还有举报诈骗、风险自查、诈骗案例宣传等功能，可以有效地帮助用户提高防范诈骗能力，使得电信网络诈骗无处遁形。</p><p>公安部刑事侦查局副局公布的数据显示，截止 6 月国家反诈中心 APP 的全国注册用户已超过 6500 万，已向用户发送预警 2300 万次，接受群众举报涉诈线索 65 万条，在防范诈骗工作中发挥了重要作用。</p><p>实际上，自去年以来，相关部门对电信网络诈骗采取了攻防并进的打击方式。</p><p>据公安部数据统计，今年 1 至 5 月，全国共破获电信网络诈骗案件 11.4 万起，打掉犯罪团伙 1.4 万余个，抓获犯罪嫌疑人 15.4 万名，同比分别上升 60.4%、80.6% 和 146.5%。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/613b24a98e9f093d446efd44_1024.jpg" data-height="1231" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/613b24a98e9f093d446efd44_1024.jpg" referrerpolicy="no-referrer"></div></div>成功劝阻 771 万名群众免于受骗，挽回经济损失 991 亿元。今年 5 月，全国共立电信网络诈骗案件 8.46 万起，与 4 月相比下降 14.3%，案件持续高发的势头得到了一定遏制。<p></p><p>在预防诈骗方面，今年以来公安部日均下发预警指令 5.2 万条，成功避免 771 万名群众受骗，紧急止付涉案资金 2654 亿元，全国拦截诈骗电话 6.1 亿次，拦截诈骗短信 9.1 亿条，封堵诈骗网址 82.1 万个。</p><p>可以预见的是，随着国家反诈中心 APP 下载量的持续飙升，以及相关部门多措并举的治理防范下，电信网络环境将更为健康清朗。</p><p></p><div class="zaker_div"><div class="zk_remark"><p>ZAKER 新闻出品</p><p></p><p>文 / 曾宪天 实习生 王柳霞</p></div></div><p></p>  
+</div>
+            
