@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 author: 二柄 APP
 comments: false
-date: 2021-09-10 04:09:23
+date: 2021-09-10 05:06:35
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/09/10/1020392146.jpeg'
 《瘟疫传说：无罪》原价158元，折后价39元，接近史低
 
 新游戏中以下游戏值得关注：
-《破晓传说》售价328元，特别好评
+《破晓传说》售价328元，多半好评
 平台解谜类游戏《勇网直前（Webbed）》售价37，特别好评，支持中文
 塔防、动作类游戏《Dwerve: Prologue》免费游玩，特别好评，支持中文
 冒险、探索类游戏《Milo and the Magpies》原价11元，折后价9元，支持中文，特别好评
