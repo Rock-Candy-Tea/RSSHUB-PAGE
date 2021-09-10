@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/48a93520-9567-42ab-8630-b8e7cc
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/48a93520-9567-42ab-8630-b8e7cccb095a.jpg" referrerpolicy="no-referrer"><p>從遙遠的綠色國度，踏上了了藍色土地。</p>  
+<img src="https://img.4gamers.com.tw/news-image/48a93520-9567-42ab-8630-b8e7cccb095a.jpg" referrerpolicy="no-referrer"><p>從遙遠的綠色國度，踏上了藍色土地。</p>  
 </div>
             

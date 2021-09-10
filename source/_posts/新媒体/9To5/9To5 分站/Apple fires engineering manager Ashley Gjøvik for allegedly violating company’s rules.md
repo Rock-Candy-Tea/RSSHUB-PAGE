@@ -13,7 +13,7 @@ thumbnail: 'https://9to5mac.com/wp-content/uploads/sites/6/2021/09/DC_9to5Mac_Au
 ---
 
 <div>   
-<p>Apple on Thursday fired its senior engineering program manager Ashley Gjøvik for allegedly violating company’s policies on leaking private corporate information. Gjøvik has been saying on Twitter how she feels about how Apple handles situations of sexism and harassment among its employees.</p>
+<p>Apple on Thursday fired its senior engineering program manager Ashley Gjøvik for allegedly violating company’s policies on leaking private corporate information. Gjøvik has been relaying on Twitter how she felt about how Apple handles situations of sexism and harassment among its employees.</p>
 <p><span id="more-751661"></span>
 </p>
 <p>Last month, Gjøvik said in an interview about <a href="https://9to5mac.com/2021/08/04/apple-engineering-manager-put-on-administrative-leave-after-complaining-about-sexism-at-work/" target="_blank" rel="noreferrer noopener">how she had been raising concerns about sexism at Apple for years</a> while the company never offered her an ideal solution to the problem. The engineer has been placed on indefinite administrative leave, and she is now officially no longer an Apple employee.</p>

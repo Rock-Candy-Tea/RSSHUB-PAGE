@@ -1,0 +1,19 @@
+
+---
+title: 'WordPress 5.8.1 官方正式版'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0910/46c0b0346968605.png'
+author: cnBeta
+comments: false
+date: Fri, 10 Sep 2021 07:54:59 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0910/46c0b0346968605.png'
+---
+
+<div>   
+<strong>感谢<a href="https://www.mpyit.com/" target="_blank">殁漂遥</a>的投递</strong><br><br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0910/46c0b0346968605.png"><img data-original="https://static.cnbetacdn.com/article/2021/0910/46c0b0346968605.png" src="https://static.cnbetacdn.com/thumb/article/2021/0910/46c0b0346968605.png" referrerpolicy="no-referrer"></a></p><p><strong>使用区块管理小工具</strong></p><p>经过数月的努力，现在，区块的强大扩展已经在区块小工具编辑器和定制器中发挥作用，您可以在整个站点的小工具区添加区块，也可通过定制器进行实时预览。从无代码的迷你布局到庞大的核心和第三方区块库，这些都为创建内容开辟了新的可能性。对于我们的开发者而言，您可以在小工具开发说明中找到更多详细信息。</p><p><strong>使用全新的区块和区块样板显示文章</strong></p><p>查询循环区块可以根据指定的参数显示文章；就像一个没有代码的 PHP 循环。轻松显示特定分类的文章，以执行如创建作品集或包含您最喜欢的食谱的页面之类的操作。您可以将其是为一个更复杂且强大的最新文章区块！此外，样板建议也使创建具有所需设计的文章列表变得前所未有的简单。</p><p><img src="https://static.cnbetacdn.com/thumb/article/2021/0721/9cb34f95e5017c2.png" alt="9cb34f95e5017c2.png" referrerpolicy="no-referrer"></p><p><img src="https://s.w.org/images/core/5.8/about-template.png" alt="about-template.png" referrerpolicy="no-referrer"></p><p><strong>编辑文章周围的模板</strong></p><p>可通过熟悉的区块编辑器来编辑包含您创作内容的模板--只需激活区块主题或选择一个支持该功能的主题。从编辑文章切换到编辑页面或反之，您都可以使用熟悉的区块编辑器。在兼容此功能的主题中，有超过20个新区块可用。请阅读相关版本说明以了解此功能极其如何使用的更多信息。</p><p><strong>三个工作流程助手</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0910/c4f9843b5d5ae41.png"><img data-original="https://static.cnbetacdn.com/article/2021/0910/c4f9843b5d5ae41.png" src="https://static.cnbetacdn.com/thumb/article/2021/0910/c4f9843b5d5ae41.png" referrerpolicy="no-referrer"></a></p><p><strong>页面结构概览</strong></p><p>有时您需要一个简单的着陆页面，或者需要网更复杂的方面进行扩展。随着区块的增加、区块样板的出现以及内容创建的简化，就需要新的解决方案来使复杂的内容变得简单化（使其易于浏览）。列表视图是在内容层和嵌套区块之间跳转的最佳方式。由于列表视图提供了内容中所有区块的概览，您现在可以快速的导航到所需的精确区块。准备好完全专注于您的内容了吗？打开或关闭它以适应您的工作流程。</p><p><strong>推荐区块样板</strong></p><p>从此版本开始，区块样板转换工具将根据您正在使用的区块向您推荐区块样板。您现在可以通过查询区块和社交图标区块试一试。随着更多区块样板的不断增加，您将能够在不离开编辑器的情况下得到如何设计站点样式的灵感！</p><p><img src="https://s.w.org/images/core/5.8/about-pattern-suggestions.png" alt="about-pattern-suggestions.png" referrerpolicy="no-referrer"></p><p><img src="https://s.w.org/images/core/5.8/about-duotone.png" alt="about-duotone.png" referrerpolicy="no-referrer"></p><p><strong>图片样式化和上色</strong></p><p>使用双色调滤镜为您的图片和封面区块上色。双色调可为您的站点设计增添流行色彩，并使图片（或封面区的视频）与您的主题完美融合。以黑白滤镜为例，双色调效果会将阴影取代为黑色、刀光取代为白色，但您可以自行定义双色调的专属阴影和刀光颜色。有关其如何运作的更多信息，在文档中有详细的介绍。</p><p><strong>供开发者的探索</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/0910/185963c7ed3c6d8.png"><img data-original="https://static.cnbetacdn.com/article/2021/0910/185963c7ed3c6d8.png" src="https://static.cnbetacdn.com/thumb/article/2021/0910/185963c7ed3c6d8.png" referrerpolicy="no-referrer"></a></p><p><strong>Theme.json</strong></p><p>引入 Global Styles 和 Global Settings API：使用已激活主题中的 theme.json 文件来控制编辑器设置、提供可用的定制工具和样式区块。该配置文件能对功能的启用和禁用进行控制，并能为网站和区块设置默认样式。如果您正在构建主题，可以尝试这一有用新功能的早期版本。有关目前提供的内容极其工作原理的更多信息，请查阅此开发说明。</p><p>放弃对 Internet Explorer 11 的支持</p><p>自此版本起，对 Internet Explorer 11 的支持已经取消，您在管理站点时可能会遇到一些问题，这些问题在未来并不会被修复。如果您目前正在使用 IE11，强烈建议您更换到更新的浏览器。</p><p><strong>增加对 WebP 的支持</strong></p><p>WebP 是一种新的图片格式，可为网页上的图片提供改进的无损和有损压缩。WebP 图片比 JPEG 和 PNG 图片平均小30%左右，从而使站点的速度更快，使用的带宽更少。</p><p>增加额外的区块支持</p><p>在先前的5.6版本、5.7版本所实现的区块支持的基础上，WordPress 5.8引入多个全新的区块支持标志及选项，以便定制您的注册区块。更多信息可在《区块支持开发说明》中找到。</p><p><strong>下载地址：</strong></p><p><a href="https://cn.wordpress.org/wordpress-5.8.1-zh_CN.zip" _src="https://cn.wordpress.org/wordpress-5.8.1-zh_CN.zip" target="_blank">https://cn.wordpress.org/wordpress-5.8.1-zh_CN.zip</a><br></p>   
+</div>
+            
