@@ -5,11 +5,11 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=7674'
+headimg: 'https://picsum.photos/400/300?random=5928'
 author: 每日安全
 comments: false
-date: 2021-09-10 15:07:13
-thumbnail: 'https://picsum.photos/400/300?random=7674'
+date: 2021-09-11 00:23:29
+thumbnail: 'https://picsum.photos/400/300?random=5928'
 ---
 
 <div>   
@@ -19,7 +19,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7674'
 <a class="text-muted" href="https://sec.today/user/8eb60fcc-f278-42e6-a76f-46a845ee9865/pushes/">
 lanying37
 </a>
-<span class="text-muted"><small>• 22 hours ago</small></span>
+<span class="text-muted"><small>• 1 day ago</small></span>
 </cite>
   
 </div>
