@@ -5,11 +5,11 @@ categories:
  - 金融
  - 每经网
  - 重磅原创
-headimg: 'https://picsum.photos/400/300?random=2124'
+headimg: 'https://picsum.photos/400/300?random=1223'
 author: 每经网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=2124'
+thumbnail: 'https://picsum.photos/400/300?random=1223'
 ---
 
 <div>   
