@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/9/16791bb6-c722-40a2-84c0-ae26fa9135c6.png'
+author: IT 之家
+comments: false
+date: Sun, 12 Sep 2021 02:20:55 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/9/16791bb6-c722-40a2-84c0-ae26fa9135c6.png'
+---
+
+<div>   
+<p data-vmark="abb1"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 12 日消息 在 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Windows 11</a> 正式版发布之前，微软已经开始测试多个预装应用的新设计，例如截图工具、画图和照片。微软照片 App 正在通过 WinUI 和 Fluent Design 进行重大改版，<span class="accentTextColor">已可供一些测试人员使用</span>。</p><p data-vmark="e837"><img src="https://img.ithome.com/newsuploadfiles/2021/9/16791bb6-c722-40a2-84c0-ae26fa9135c6.png" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" referrerpolicy="no-referrer"></p><p data-vmark="b677">Windows Latest 近日体验了全新的 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Win11</a> 照片 App，<span class="accentTextColor">新的照片 App 具有圆角和新 WinUI 控件</span>，与 Win11 的整体设计保持一致，界面比较简洁，分为五个主要部分：集锦、相册、人物、文件夹和视频编辑器（内置于 App 中）。</p><p data-vmark="91dd"><img src="https://img.ithome.com/newsuploadfiles/2021/9/8a032363-3a8d-4b3c-8b7a-b7cb46034e3c.jpg@s_2,w_820,h_616" w="1088" h="817" alt="Photos App interface" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" srcset="https://img.ithome.com/newsuploadfiles/2021/9/8a032363-3a8d-4b3c-8b7a-b7cb46034e3c.jpg 2x" width="1088" height="616" referrerpolicy="no-referrer"></p><p data-vmark="a2a5">集锦是照片 App 的默认视图，按日期组织所有内容；相册包含由 App 自动生成或由用户创建的一组照片；文件夹按文件位置对照片进行分类；视频编辑器允许用户为视频/照片添加文本或特殊效果。</p><h2>新的控件和编辑界面</h2><p data-vmark="c615">从照片 App 中点击单张图片，就可以打开新界面。新的工具栏<span class="accentTextColor">所有选项都在中心对齐，它是一个浮动菜单</span>。</p><p data-vmark="b774"><img src="https://img.ithome.com/newsuploadfiles/2021/9/49373f80-7a40-4037-9644-e583329efa7e.jpg@s_2,w_820,h_636" w="1066" h="827" alt="Photos toolbar" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" srcset="https://img.ithome.com/newsuploadfiles/2021/9/49373f80-7a40-4037-9644-e583329efa7e.jpg 2x" width="1066" height="636" referrerpolicy="no-referrer"></p><p data-vmark="a9cb">点击编辑图像选项，照片将打开裁剪和旋转视图，其中包含最基本的编辑功能。</p><p data-vmark="3507"><img src="https://img.ithome.com/newsuploadfiles/2021/9/445eaf54-afcd-4586-86fa-3d90ace46af0.jpg@s_2,w_820,h_625" w="1076" h="820" alt="Photos App crop edit" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" srcset="https://img.ithome.com/newsuploadfiles/2021/9/445eaf54-afcd-4586-86fa-3d90ace46af0.jpg 2x" width="1076" height="625" referrerpolicy="no-referrer"></p><p data-vmark="29b8">例如，用户可以使用滑块更改照片拉伸并修改裁剪的纵横比，还可以旋转图像、应用滤镜等。此外，<span class="accentTextColor">有一个名为“绘画”的单独按钮</span>，用户可以使用鼠标、触控笔或手指对照片进行绘图。</p><h2>新的文件信息面板</h2><p data-vmark="670b">文件信息面板现在出现在窗口的右侧，可以直接从浮动菜单访问，也进行了 WinUI 改造。例如，<span class="accentTextColor">每个部分都更新了一个图标，用户可以更轻松地阅读信息</span>。</p><p data-vmark="c34d"><img src="https://img.ithome.com/newsuploadfiles/2021/9/7aa4e392-cd4b-4390-a4ed-c063726a3321.jpg@s_2,w_820,h_618" w="1086" h="818" alt="Photos App info" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" srcset="https://img.ithome.com/newsuploadfiles/2021/9/7aa4e392-cd4b-4390-a4ed-c063726a3321.jpg 2x" width="1086" height="618" referrerpolicy="no-referrer"></p><h2>比较工具和编辑器</h2><p data-vmark="be86">如下图所示，用户可以在照片 App 中轻松比较照片（IT之家网友 @sicake 表示可最多比较 30 张）。</p><p data-vmark="7a2a"><img src="https://img.ithome.com/newsuploadfiles/2021/9/fb136908-cc20-46e5-aa0c-c54d93b845d1.jpg@s_2,w_820,h_547" w="1070" h="714" alt="Compare Photos" title="微软 Win11 全新照片 App 预览版上手体验：全新设计，功能更易用" srcset="https://img.ithome.com/newsuploadfiles/2021/9/fb136908-cc20-46e5-aa0c-c54d93b845d1.jpg 2x" width="1070" height="547" referrerpolicy="no-referrer"></p><p data-vmark="c515">IT之家了解到，新的照片 App 有望在几周内向 Windows Insiders 用户推出，大家届时可以自行体验。</p>
+          
+</div>
+            
