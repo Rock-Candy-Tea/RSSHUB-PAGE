@@ -1,0 +1,18 @@
+
+---
+title: '雷亚游戏十周年，Deemo，CytusII应用商店免费入库'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/09/12/8424db7702d7237c41dcecf94a45de4a/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 12 Sep 2021 09:37:42 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/09/12/8424db7702d7237c41dcecf94a45de4a/thumb.jpeg'
+---
+
+<div>   
+<p>    Deemo是一款大家耳熟能详的游戏。</p><p><img class="lazy" data-height="597" src="https://imgheybox.max-c.com/bbs/2021/09/12/8424db7702d7237c41dcecf94a45de4a/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="590" src="https://imgheybox.max-c.com/bbs/2021/09/12/2e5d04c6d6b0966df57c6db29a87acaa/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>安卓上本体一直免费，但是IOS版本去年开始本体要12元才能下载。</p><p>CytusII在IOS上也是12元才能下本体。</p><p>我自从上个月买了IPad air3以后就一直蹲限免，正好9月11号雷亚游戏开启十周年庆典活动，旗下游戏全平台都在促销，活动内容如下：</p><p> <b>Steam平台</b><br></p><p>9/2 - 9/16</p><blockquote><p> - MO:Astray 游戏本体与原声带 50% OFF</p><p>- DEEMO -Reborn- 游戏本体与原声带 40% OFF</p></blockquote><p>这个Deemo Reborn是Pc版，可以理解为3D版的Deemo，建模全是3D的，而且关键的是它有VR模式，并且VR模式做的很好，我使用RiftS玩感觉体验非常棒，就像浮空弹琴一样。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/12/6d057cb021dab598780fcfe620a5dc61/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/12/9a4eb93df62529cb87536279c703b154/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>而且Steam上的包便宜，比IOS上便宜太多了，可能是因为国内的代理龙渊太黑了吧。</p><p><b>iOS & Android</b><br></p><p>◎音乐世界Cytus II</p><p>9/11</p><blockquote><p> - iOS 游戏本体限时免费</p><p>- 与花谱推出合作角色</p><p>- NEKO#ΦωΦ、Xenon 限定造型于 CAPSO SHOP 实装，玩家可以使用 0 CAPSO 兑换</p></blockquote><p>◎古树旋律DEEMO</p><p>9/11 - 9/17</p><blockquote><p> - 游戏本体免费</p><p>- DLC “被遗忘的沙漏”限时折扣</p></blockquote><p>◎万象物语</p><p>9/11 - 9/17</p><blockquote><p> - 欢庆雷亚10周年登入送</p></blockquote><p>9/15</p><blockquote><p> - 雷亚10周年特惠礼包</p><p>- 参加中秋活动《夜宴杀机》就可免费获得10周年“尧”造型书奖励</p></blockquote><p>◎伊甸之战</p><p>9/11 - 9/17</p><blockquote><p> - 每日登入送好礼</p><p>- 芙莉 & 忠胜期间限定换上10周年形象立绘</p></blockquote><p>呃，如果有IOS的同学还是非常推荐入库Deemo的，主要是Deemo这个游戏的意境非常美，特别适合情侣玩儿和带着妹子一块儿玩儿，Deemo的背后是一个很悲伤的故事。女孩儿和哥哥出车祸了被困在自己的世界，在现实的世界里就是躺在病床上失去意识，她的哥哥化身成弹钢琴的Deemo，用音乐一点一点的唤醒她的记忆，最后女孩儿在台北101医院里清醒，但是她的哥哥却永远的离开。</p><p>Deemo还有一个小彩蛋，相信大家都看过你的名字吧。</p><p><img class="lazy" data-height="394" src="https://imgheybox.max-c.com/bbs/2021/09/12/b30ec6a62f20423bb75a98d62a796749/thumb.jpeg" data-width="700" referrerpolicy="no-referrer"></p><h4 class="img-desc">你的名字男主角手机里也安装了Deemo</h4><p>你的名字的男主角手机里也安装了Deemo，只不过为了避免版权的纠纷，里面的名字使用的是Recital，因为PSV版本的Deemo名字就叫做：Deemo:The last recital。</p><p><b>NIntendo Switch</b><br></p><blockquote><p>详细价格依Nintendo eShop显示为主</p><p>◎全球特价，时间：9/16 - 9/30</p><p>Cytus α</p><p>VOEZ</p><p>DEEMO</p><p>DEEMO -Reborn-</p><p>MO: Astray</p></blockquote><p>Switch平台的Deemo我也有买，说实话Switch的Deemo也不贵，主要是因为国内的代理龙渊游戏太黑了…不，是手机游戏的钱太好赚了，而Switch版本最有趣的一点是Deemo支持了任天堂的纸盒钢琴，有一个曲包完全可以用纸盒钢琴来弹。为了这个我差点在闲鱼上花200收一个纸盒钢琴，但是看了这玩意的闲置率高的吓人，简直比Kindle和云台还容易闲置终于作罢。</p><p><b>个人向购买建议</b></p><p>建议安卓和IOS上免费领本体，包含了大概40多个免费的曲目。</p><p>这40多个曲目其实就能体会到Deemo游戏的精髓了。</p><p>手机端的扩展包是一首音乐5块，一个包5首25，一个大包买有50%的折扣，音乐都提供试听，这个大家量力而行。反正我是手机端一个包都没买。</p><p>Steam上的Deemo Reborn是强烈推荐购买，因为它的合集要便宜的多，现在手机端就是打折整个买下来也要600多，我记得我Steam当时整个买下来肯定不到100，还是完全没有折扣买的。现在Steam折扣40%完全推荐入，而且还是一款很精良的VR游戏，VR模式体验也极佳。</p><p>Switch版本的话其实和手机差别不大，但是要便宜不少，喜欢这个游戏并且有Switch的同学推荐买这个。</p>  
+</div>
+            
