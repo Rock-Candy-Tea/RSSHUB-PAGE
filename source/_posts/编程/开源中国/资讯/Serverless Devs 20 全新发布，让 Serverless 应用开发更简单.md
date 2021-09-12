@@ -1,0 +1,250 @@
+
+---
+title: 'Serverless Devs 2.0 全新发布，让 Serverless 应用开发更简单'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://static.oschina.net/uploads/space/2021/0911/092725_RJqJ_4252687.png'
+author: 开源中国
+comments: false
+date: Sun, 12 Sep 2021 07:57:00 GMT
+thumbnail: 'https://static.oschina.net/uploads/space/2021/0911/092725_RJqJ_4252687.png'
+---
+
+<div>   
+<div class="content">
+                                                                                            <div> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><span style="font-size: 15px;">2020 年 10 月 23日，阿里巴巴正式宣布开源其首个 Serverless 开发者平台 Serverless Devs。历经近一年精心打磨，今天 Serverless Devs 2.0 正式版全新发布。Serverless Devs 2.0 在平台能力、应用模板以及开发者套件方面能力提升，更加贴近开发者的实际生产诉求，使用体验再提升，让开发者像使用手机一样玩转 Serverless，快速享受 Serverless 技术红利。</span></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><img src="https://static.oschina.net/uploads/space/2021/0911/092725_RJqJ_4252687.png" referrerpolicy="no-referrer"></p> 
+ <div> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">1</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.544px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">这就是 Serverless Devs</strong></span></h1> 
+ </div> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs 是一个开源开放的 Serverless 开发者平台，Serverless Devs 也是业内首个支持主流 Serverless 服务/框架的云原生全生命周期管理的平台，致力于为开发者打造 Serverless 应用开发一站式服务, 帮助解决目前的工具链之困，让开发者一键体验多云产品，极速部署 Serverless 项目。</span>   <span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs 由"两端一中心体系"组成：</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs CLI (命令行客户端)，适合极客开发人员使用，小巧轻便，易于集成</span></p> </li> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Desktop (桌面客户端) ，具备更广泛的适用性，拥有开发，构建，部署，调试，可观测等全方位应用管理能力</span></p> </li> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Hub 应用中心，提供应用的集散和分发，作为公共服务提供给 开发者或贡献者适用。</span></p> </li> 
+ </ul> 
+ <div>
+  <img src="https://static.oschina.net/uploads/space/2021/0911/092657_PXPT_4252687.png" referrerpolicy="no-referrer">
+ </div> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"> </p> 
+ <div> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">2</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.544px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">全方位能力提升，体验再升级</strong></span></h1> 
+ </div> 
+ <h4><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(0, 122, 170); font-size: 16px;"><strong>1、平台能力提升</strong></span></h4> 
+ <h3><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">1、全新桌面客户端 Serverless Desktop</span></strong></h3> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs 2.0 对桌面客户端进行了精细设计，对比 1.0，2.0 更具企业级服务能力：</span></p> 
+ <ul> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">重新对交互流程进行设计，采用新的视觉体系 b-design。更具美感和实用主义；</span></li> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">具备企业级的应用全生命周期管理能力，从开发、构建、部署、端云调试、压测到可观测做到全面兼顾。</span></li> 
+ </ul> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><img alt src="https://static.oschina.net/uploads/space/2021/0911/092642_JBo7_4252687.gif" referrerpolicy="no-referrer"></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; color: rgb(136, 136, 136);">Serverless Desktop 构建 todolist 应用</span></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "> </p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2、更高效的命令行客户端 Serverless CLI</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">命令行客户端及核心组件使用 @vercel/ncc 编译成一个文件，组件的首次使用体验由 5 分钟降至 30 秒以内。另外，组件版本静默更新，用户本地不会缓存多个版本。用户无感升级，本机内存相比 1.0 版本减少 2/3 以上。</span>   <span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">新增无配置执行指令cli ，该指令完全脱离 yaml 进行组件执行，通过 cli 命令提高以下场景能力：</span></p> 
+ <ul> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">与自动化流程进行结合更简便，比如 gitops 流程；</span></li> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">融合更多资源管理相关能力，例如查看阿里云函数计算的服务列表、函数列表、触发器列表，自定义域名列表等；</span></li> 
+ </ul> 
+ <ul> 
+  <li> <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">进行权限管理更简单，在企业级开发过程中，可以利用原子性接口进行资源权限管理。</span></p> </li> 
+ </ul> 
+ <p><img src="https://static.oschina.net/uploads/space/2021/0911/092558_Ua6G_4252687.png" referrerpolicy="no-referrer"></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; color: rgb(136, 136, 136);">s cli fc-api 查看全部无配置阿里云函数计算的api 指令</span></p> 
+ <p><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">3、全新的配置规范</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">配置文件是 ServerlessDevs 应用的灵魂组成部分，也是开发者在日常工作中打交道最频繁的部分，配置规范的设计直接影响 Serverless 应用的开发体验，Serverless Devs 2.0 配置规范全新设计：</span>  </p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">更具扩展性：通过引入全局的配置，例如 name,access 等可以将 1.0 时代的资源管理正式提升到应用管理维度，并具备一定的可拓展性，包括可以在全局增加 stage 等环境管理配置的字段等；</span></p> </li> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">更易学习：Serverless Devs 2.0 全新 Yaml 规范，在一定程度上与现有的工具规范标准进行了部分的对齐，可以大幅度降低开发者学习难度，更易应用。</span></p> </li> 
+ </ul> 
+ <div>
+  <img src="https://static.oschina.net/uploads/space/2021/0911/092521_mk5t_4252687.png" referrerpolicy="no-referrer"> 
+  <img height="14" src="https://static.oschina.net/uploads/space/2021/0911/092502_hMSZ_4252687.png" width="14" referrerpolicy="no-referrer">
+ </div> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px; color: rgb(136, 136, 136);">1.0 和 2.0的配置比较</span></p> 
+ <p><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">4、全新的数据源设计</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs 2.0 提出的 Registry 概念，同时支持 GitHub、Gitee 和官方源，相比传统数据源都完全由官方掌控，Registry 开放源设计可以由用户自己选择适合的数据仓储，利用 Serverless Devs 规范建设自己的应用中心，管理自己应用和组件。</span></p> 
+ <p><img src="https://static.oschina.net/uploads/space/2021/0911/092428_ifvf_4252687.png" referrerpolicy="no-referrer"></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(136, 136, 136); font-size: 15px;">registry 源选择</span></p> 
+ <h4><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(0, 122, 170); font-size: 16px;"><strong>2、应用模板增强</strong></span></h4> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">如果说 Serverless Devs 1.0 的应用模板是以传统web框架为主。Serverless Devs2.0 的应用模板则更专注于现代化的 Serverless 应用领域，我们提供了平台专有的 JAMStack 应用模版，以及 Serverless 版本 SSR 应用模版。</span>  </p> 
+ <p><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">1、使用 Jamstack 应用模版一键建站</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">安装 Serverless Devs 命令行客户端，一行指令拥有专业的技术站点：</span></p> 
+ <pre class="code-snippet__js"><code><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 1000%; box-sizing: border-box !important; overflow-wrap: break-word !important;">s init docsite-basic</span></code></pre> 
+ <p><img alt src="https://static.oschina.net/uploads/space/2021/0911/092344_2Tnn_4252687.gif" referrerpolicy="no-referrer"></p> 
+ <p><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2、Serverless 化的 SSR 实现</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">安装 Serverless Desktop 桌面客户端，一键拥有 SSR 技术站点：</span></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><img alt src="https://static.oschina.net/uploads/space/2021/0911/092323_fjf9_4252687.gif" referrerpolicy="no-referrer"></p> 
+ <p> </p> 
+ <p><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">3、上线更多应用模版</span></strong></p> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs 2.0 提供了更加完善的传统框架迁移方案和策略，提供超过 20 种 Web 框架，让开发者可以近乎 0 成本完成传统框架的一键迁移。</span>  </p> 
+ <div>
+  <img src="https://static.oschina.net/uploads/space/2021/0911/092250_q2rV_4252687.png" referrerpolicy="no-referrer">
+ </div> 
+ <h4><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(0, 122, 170);"><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(0, 122, 170); font-size: 16px;">3、更实用的开发者套件</span></strong></span></h4> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">开发者 SDK 是 Serverless 应用开发体验的重要环节，2.0 提供了 Serverless 应用开发者套件</span>， <span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">减少开发者对接 BaaS 服务的成本。目前已经集成了 GitHub 服务，OSS 服务， tablestore 数据库。</span>   <span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">快速上手 REST API 应用：</span></p> 
+ <pre class="code-snippet__js"><code><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 1000%; box-sizing: border-box !important; overflow-wrap: break-word !important;">s init dk-http</span></code></pre> 
+ <p><img alt src="https://static.oschina.net/uploads/space/2021/0911/092228_gOc3_4252687.gif" referrerpolicy="no-referrer"></p> 
+ <div> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">3</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.544px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">Roadmap</strong></span></h1> 
+ </div> 
+ <ul> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2021年9月，完成百度云函数以及华为云函数工作流的对接；</span></li> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2021年10月，完成云端调试能力，并测试上线；完成与 Terraform 能力的部分融合，兼容；</span></li> 
+ </ul> 
+ <ul> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2021年11月，发布 Serverless Devs 的 Desktop 2.0，将会与科学发布，线上异动等能力进一步融合，与主流 CI/CD平台/工具，完成对接；</span></li> 
+  <li><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">2022年2月，完成 VScode 插件、云 IDE 等支持；</span></li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(255, 104, 39);"><strong><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">我们会一直坚定的朝着为开发者打造最优秀的 Serverless 开发者工具而努力。</span></strong></span></p> 
+ <div> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">4</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.544px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">一行指令上手 Serverless Devs</strong></span></h1> 
+ </div> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">一行代码构建个人技术网站（请提前准备好 Nodejs 环境）。</span></p> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; overflow-wrap: break-word !important;"> </p> 
+ <pre class="code-snippet__js"><code><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 1000%; box-sizing: border-box !important; overflow-wrap: break-word !important;"> npm i @serverless-devs/s -g && s init docsite-basic</span></code></pre> 
+ <div> 
+  <pre data-language="shell" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(51, 51, 51); font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"> </pre> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; letter-spacing: 0.544px; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">5</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; letter-spacing: 0.544px; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; letter-spacing: 0.544px; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">社区网址一览</strong></span></h1> 
+ </div> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">社区官网</span></p> </li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">http://www.serverless-devs.com/</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">项目仓库</span></p> </li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">https://github.com/Serverless-Devs/Serverless-Devs</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Desktop 桌面客户端</span></p> </li> 
+ </ul> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, ">https://serverlessdevs.resume.net.cn/zh-cn/desktop/index.html</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless 应用开发者套件</span></p> </li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">http://serverless-dk.oss.devsapp.net/docs/tutorial-dk/intro/react</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Devs CLI </span></p> </li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">https://serverlessdevs.resume.net.cn/zh-cn/cli/index.html</span></p> 
+ <ul> 
+  <li> <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">Serverless Hub 应用中心</span></p> </li> 
+ </ul> 
+ <p><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">https://serverlesshub.resume.net.cn/#/hubs/special-view</span></p> 
+ <div> 
+  <pre data-language="shell" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; color: rgb(51, 51, 51); font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.544px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"> </pre> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; letter-spacing: 0.544px; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section style="margin: 25px 0px 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; border-color: rgb(238, 91, 46); line-height: 1.75em;"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0.3em 0.8em; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; display: inline-block; border-radius: 1em; color: rgb(255, 255, 255); font-size: 14px; line-height: 1.2; letter-spacing: 0px; background-color: rgb(238, 91, 46);"> 
+     <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; letter-spacing: 0.5px; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">6</strong></span></p> 
+    </section> 
+   </section> 
+  </section> 
+  <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; letter-spacing: 0.544px; font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); font-size: 16px; line-height: 25.6px; border-color: rgb(238, 91, 46);"> 
+   <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; border-color: rgb(238, 91, 46);"> 
+    <section mpa-from-tpl="t" style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; text-align: center; font-size: 14px; border-color: rgb(238, 91, 46);"> 
+     <section style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; line-height: 1.75em;">
+       
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+  <h1 style="margin: 0px; padding: 0px; outline: 0px; font-weight: 400; font-size: 16px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; white-space: normal; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; letter-spacing: 0.544px; min-height: 1em; text-align: center; border-color: rgb(238, 91, 46); background-color: rgb(255, 255, 255); color: rgb(238, 91, 46); line-height: 1.75em;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-family: Arial; letter-spacing: 0.5px; white-space: pre-wrap; font-size: 15px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important;">场景体验 Serverless Devs</strong></span></h1> 
+ </div> 
+ <p style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "> </p> 
+ <div> 
+  <div>
+   <img src="https://static.oschina.net/uploads/space/2021/0911/092117_UNvF_4252687.png" referrerpolicy="no-referrer">
+  </div> 
+  <div>
+   <span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box !important; overflow-wrap: break-word !important; font-size: 15px;">场景体验地址：https://developer.aliyun.com/adc/expo/serverless</span>
+  </div> 
+ </div> 
+</div>
+                                        </div>
+                                      
+</div>
+            
