@@ -1,0 +1,18 @@
+
+---
+title: '《终极ADOM：混沌洞窟》：三头六臂下的地牢探险'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1266820_JKREZ.jpg'
+author: 小黑盒
+comments: false
+date: Sun, 12 Sep 2021 00:09:18 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1266820_JKREZ.jpg'
+---
+
+<div>   
+<blockquote><p>本文作者：夜游者-风俗君</p></blockquote><p><a href="heybox://open_subject" target="_blank">#夜游者#</a><br></p><p>ADOM游戏可以说是非常经典的一款游戏，如果曾经在几十年前玩过这款游戏的玩家对这款游戏肯定不会陌生，因为这款游戏可以说也是最早一批的传统肉鸽+地牢游戏。而且ADOM也为后续的游戏提供许多玩法上的思路，比如三种战斗模式——近战、远程、施法。时至今日，再次看到ADOM的现代化版的出现，也算是对经典作品的一种致敬与怀念。</p><p><img data-gameid="1266820" src="https://cdn.max-c.com/heybox/game/header/1266820_JKREZ.jpg" referrerpolicy="no-referrer"></p><p></p><p>这款游戏是一款非常传统的地牢探险游戏，也正如标题《终极ADOM：混沌洞窟》所描述的那样，玩家必须在无尽的地牢中探险，面对接踵而至的敌人必须做好万全之策，运用自己的能力去面对这一切困难。我想这款老式复古的独立游戏肯定在大多数玩家眼里非常的硬核，但是如果仔细去游玩的话你会发现许多具有奇思妙想的系统和玩法。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/75729d387b6417ef9d5f1ab71f558998/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><h2>一段勇者的地牢冒险故事</h2><p>邪恶已被击败，安卡蒂亚重获和平，人们再次燃起了发展的热情。七个各具特色的派系争夺着这片被安多·德拉克的遗灾蹂躏过的土地。而在某个邪恶的黑暗洞窟深处，混沌正蠢蠢欲动...</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/0b931dc94a312e570f7a9e0b11dd491a/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><p>拿起你的宝剑，准备你的法术，磨砺你的匕首，拉紧你的长弓，因为你即将踏入不祥的混沌洞窟。小心选择你的派系，因为你不过是他们诸多手下中的一员。无论是为荣耀和财富而战，为愈发凋零的正义而战，还是为光明，纯洁，甚至是混沌而战，你的每个选择都将在混沌洞窟改变历史。</p><h2>无尽的地牢探险与人物派系发展</h2><p>玩家可以在最开始选择自己的派系，是选择人类还是矮人，是精灵还是变异人，总是都是可以去选择自己想要的预设人物，这也是最方面的一种选择模式。当然玩家还可以通过词条创作独一无二的人物，这就和《上古卷轴》那样，将人物的数值往自己最想要的方向发展。随着流程的与成就的解锁，还会解锁相应的隐藏派系，从而获得更加强大的天赋属性。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/2cf46cd295579fc4e3679c5af66239df/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/0b832a6e72e9edb7d7836bfcd22a956f/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><p><b></b></p><h2>魔法嫁接技术成为superman</h2><p>作为地牢游戏其实也是一种角色扮演游戏，游戏中存在着大量的技能与魔法，这也很符合传统ADOM游戏。玩家可以选择自己想要的技能去点技能树。是选择召唤流魔法，召唤各种小弟骷髅帮助自己一起对抗敌人；还是选择极为bug的嫁接技能，通过将敌人身体上强壮的部位嫁接到自己的身上，让自己成为终极武器；甚至就是单纯作为一名将体力力量点满的勇者，拿着刀剑和敌人血拼到底。这些都是玩家可以去选择的技能树，从而演变成不同的玩法。除此之外，玩家还可以学习到真正的魔法，比如火系与水系的魔法，或许随着流程的推进会有更多的魔法选择。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/ebda48ad5b9335bb57d828394f494b30/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><p>地牢游戏基本上都是在狭小的空间里进行探索，但是这款游戏却有一个非常不错的战斗机制——潜行。这也是对地牢游戏的一种创新，毕竟传统的地牢游戏碰到敌人都是狭路相逢勇者胜，不和敌人拼个你死我活就不能过关。相反这款游戏的倒是可以在在敌人眼皮底下偷偷溜过去，但是唯一的缺点就是，好的装备基本上都是敌人死亡后掉落的，所以有决策的进行规避风险也是很有必要的。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/118b3d73e3ecd7be976bf515d3e908a0/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><h2>现代与复古画风的冲击</h2><p>其实这是而是多年前ADOM的精神续作，当时的游戏基本上都是使用非常老式的电脑去编码，也就是说那时游戏画面就和上世纪8090年代非常相似，要么就是一堆字符在跳动，要么就是用点线面构成的单调图像。而现在这款游戏则是使用现代化的画面对游戏进行重置，虽然欧美人的画风对于东方来说确实欣赏不来，但是玩还是可以玩的。大不了可以去设置里选择怀旧模式，尝试一次曾经玩家玩过的画面，面对字符堆砌而成的场景与人物，看着确实费劲。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/11/e5c6a26e217222d1063274b411b16558/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p></p><p></p><h2>结语</h2><p>这款游戏的唯一不足的地方便是操作打击感不足，而且移动起来也特别的别扭，不过这些都不影响这款游戏具有深度的玩法与系统。充满着复古情怀的游戏，喜欢地牢探索+肉鸽的玩家可以尝试一下这款具有年代感的游戏。</p><p><img data-gameid="1266820" src="https://cdn.max-c.com/heybox/game/header/1266820_JKREZ.jpg" referrerpolicy="no-referrer"></p>  
+</div>
+            
