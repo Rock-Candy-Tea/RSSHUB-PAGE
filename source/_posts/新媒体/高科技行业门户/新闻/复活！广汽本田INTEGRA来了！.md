@@ -1,0 +1,19 @@
+
+---
+title: '复活！广汽本田INTEGRA来了！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__7ddd64d760f00d19f8753a8d5c9de480.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 13 Sep 2021 01:56:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__7ddd64d760f00d19f8753a8d5c9de480.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__7ddd64d760f00d19f8753a8d5c9de480.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作者 ｜ 汪 晶</p><p style="text-indent: 2em; text-align: left;">图片 ｜来源网络，侵删</p><p style="text-indent: 2em; text-align: left;">就在几天前，广汽本田全新车型INTEGRA工信部申报图曝光。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__de0f75c30c617217a6a6253b80fae743.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">说起INTRGRA，本田车迷一定不会陌生，这款从1985年诞生，历经4代的本田车型终于再次回归，无论是以怎样的形式，光是看到INTEGRA几个字母就足以让人兴奋，因为谈到INTEGRA，汽车发烧友第一时间一定会想起DC2 Type R和DC5 Type R，相比大家所熟知的Type R车型，要知道INTEGRA是本田首款四门Type R车型也是仅次于NSX Type R的第二款Type R车型。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__116274593160adbb34b7363f8d4177b3.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">INTRGRA自诞生起就有着运动化的取向，比如本田第一台DOHC VTEC发动机（B16A型）搭载在第二代INTEGRA身上，并宣告本田进入了新的技术时代。第三代INTEGRA Type R（DC2），搭载了仅仅1．8L排量发动机，就能压榨出在今天来讲都相当惊人的200马力，升功率超过100马力，在当时是法拉利等超级跑车才能做到的百匹升功率。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__dcaf4369e4ea794ec8650e417b75162c.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在DC5时代，DC5 Type R红头发动机采用了包括锻造铝活塞、强化曲轴、轻量化进气阀、手工上紧的连杆、手工抛光的进气道（每台发动机都需要进行16处打磨工作）；在轻量化上，INTEGRA Type－R没有空调和天窗，没有定速巡航和后雨刷，车身更是赛化缝焊而成，当时在美国销售的INTEGRA Type R甚至能够符合 FIA 赛事规格。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__15f1b9a371d63c4b1be02b550b3023c4.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">INTEGRA Type－R也拥有着辉煌的赛事成绩，没有本田直接提供技术协助的情况下，英国选手Matt Neal仍使用INTEGRA Type－R（DC5）改造的赛车参赛，连续两次蝉联BTCC冠军（05－06），足见其内在的运动性能。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__a76623f7d437c5122f73decd5cc6b4fb.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">现在，在消失了数十年之后，2021年，第五代车型终于由广汽本田正式国产，并将在今年上市。根据从工信部公布的信息，广汽本田INTEGRA的车身尺寸的长宽高分别为 4689／1802／1415（1420）mm，轴距为2735mm。在车身尺寸上已经要比市面上的买菜王者卡罗拉、轩逸等竞争车型还要长，想必在空间上将会有更好的表现。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__fccc0bcca5ca720003a76134488a1171.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">从申报图中的选装图片来看，广汽本田INTEGRA车型将有着更加年轻运动化的外观设计。包括黑色鲨鱼鳍天线、黑色尾翼、黑色前格栅饰条与门把手和窗饰条等原厂“黑化”的外观件，甚至还有原厂的熏黑大灯，可见这一次的INTEGRA不仅车身尺寸更大也将继续保留运动格调。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2517/202109/wx_article__8a91e6727f4ffe60159b4abc51404015.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在动力方面，INTEGRA全系将搭载代号为L15C9的1．5T涡轮增压发动机，最大功率为134kW（182马力），另外一个令人振奋的信息是广本INTEGRA将推出手挡车型，话到此，已经开始自动脑补期待Mugen套件。</p><p style="text-indent: 2em; text-align: left;">对于广汽本田来说，一直没有一款主打年轻运动的车型，广汽本田INTEGRA可以说是姗姗来迟，但是好饭不怕晚，作为本田平民轿跑的“始祖”，INTEGRA自带情怀标签，在现代科技的加持下将为年轻消费者带来全新的体验。</p> 
+  
+</div>
+            
