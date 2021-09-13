@@ -1,0 +1,18 @@
+
+---
+title: '可以晒一下你家狗的奇怪坐姿吗？-隔壁兽医的回答：_b_【隔壁兽医】__b_：如果你的狗狗是下面这些坐姿，请关心一下它们_b_病变的关节！__b_如何通过观察狗狗的坐...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-c17397edc8559a1bf99854477fb8f46e_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 13 Sep 2021 04:06:24 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-c17397edc8559a1bf99854477fb8f46e_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>可以晒一下你家狗的奇怪坐姿吗？</strong><br>隔壁兽医的回答<br><p><b>【隔壁兽医】</b>：如果你的狗狗是下面这些坐姿，请关心一下它们<b>病变的关节！</b></p><p>如何通过观察狗狗的坐卧立来判断狗狗可能发生的健康问题呢，今天，【隔壁兽医】就来给大家做科普，一些你认为的“可爱小动作”，其实是它们痛苦的外在表现。</p><p><b>1、蹲坐时后腿更喜欢伸直。</b></p><p> 狗狗倾向于靠健康的部位做出“坐下”的动作，并且靠其支撑身体重心，正常情况下靠的是后肢，但当后肢发生疾病时，伸出那只不舒服的腿，可以达到放松的目的，所以，这种坐姿并不是“懒洋洋”，与正常的“犬坐”不同，很可能是关节疾病的外在表现。</p><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-c17397edc8559a1bf99854477fb8f46e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="778" data-rawheight="535" data-default-watermark-src="https://pica.zhimg.com/50/v2-a73e9fe935a29d93c7ef38467122f0bc_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-c17397edc8559a1bf99854477fb8f46e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-c17397edc8559a1bf99854477fb8f46e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><b>2、站立时后腿并拢。</b></p><p>如果关节疾病只出在后腿，狗狗可能会用“后腿并拢的站姿”以减轻后腿的承重，但几乎所有主人根本不会注意狗狗两只脚的位置，因为对于普通铲屎官来说，这的确很难想到。</p><p><b>3、站立时前肢分开。</b></p><p>如果狗狗站立时肘部外展，大于身体的宽度，可能是前肢发生了问题，也可能是后肢疼痛造成的“代偿”，因为狗狗选择把身体的重心压在前肢，这是一种极其反常的现象，但同样，一般的铲屎官很难注意到。</p><p><b>4、动作变慢，起身和趴下时显得犹犹豫豫。</b></p><p>这是狗狗发生关节疾病时最常见的迹象了，早期的变化很微妙，比较考验主人细心程度。</p><p>与之呼应的，是平时跑跳轻松的狗狗，渐渐变得不敢爬楼梯、不敢跳沙发，起身和趴下也变得缓慢起来。</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-e451cb0f89a2ccaa7eeccbb83c69eef4_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="4137" data-rawheight="2514" data-default-watermark-src="https://pic2.zhimg.com/50/v2-6198fc75f5dbd1a36fb339ad05e15f8f_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-e451cb0f89a2ccaa7eeccbb83c69eef4_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-e451cb0f89a2ccaa7eeccbb83c69eef4_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>如果狗狗很年轻，主人是非常容易发现异常的，但当一些老年犬发生上述改变时，很多主人主观上就会认为“狗狗年龄大了而已”。</p><p>但事实上，年龄不可以作为狗狗遭受疼痛、主人逃避责任的理由，当狗狗表现出“变慢”、“犹豫”时，请大家重视起来吧，及早做检查，及早做干预，让狗狗能够更有质量地陪伴你几年。</p><p><b>5、肌肉不对称萎缩。</b></p><p>如果关节疾病没有得到有效治疗，狗狗自身便会表现出上述异常姿势以尝试缓解疼痛， 时间久了，关节活动的范围会受到限制，一部分肌肉的活动强度就会随之下降，变得萎缩，而另一部分为了代偿患侧的功能变得结实发达，从整体上看，就显得左右/上下不对称了。</p><p>比如因髌骨问题，狗狗一侧后肢无法归位，走路变成了“小羊跳”，后腿可能变成“一粗一细”。</p><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-29641755df2eaa23f9c09a5de0c381b8_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="356" data-rawheight="200" data-thumbnail="https://pic2.zhimg.com/50/v2-29641755df2eaa23f9c09a5de0c381b8_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pica.zhimg.com/50/v2-29641755df2eaa23f9c09a5de0c381b8_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>阅读完<b>【隔壁兽医】</b>的这篇文章，你会惊讶地发现，原来坐下后后腿伸直的狗狗不在少数呢，尤其是法斗、金毛等犬种，走着走着后腿一跳一跳的狗狗也不少。</p><p>其实，对于这些动作，很多人一开始就觉得有点“不一样”，但并没有往疾病疼痛方面考虑，甚至觉得“挺可爱”。</p><p>殊不知，早期的异常动作都是疾病潜在的蛛丝马迹，是狗狗身体给我们发出的危险信号。</p><p>所以，大家应该养成观察并记录狗狗异常行为的好习惯，发现后，随手拍个小视频保存在手机里，问一下熟悉的宠物医生，或者直接发给【隔壁兽医】也行。</p><p><b>总结：</b></p><p>大家发现狗狗出现异常动作行为时，及时记录下来就好，不需要当场就纠结具体是什么问题，发给【隔壁兽医】，我来帮大家做分析。</p><p>*如果觉得我说的对你有帮助，不妨关注公众号【隔壁兽医】，专注普及犬猫健康知识。</p>  
+</div>
+            

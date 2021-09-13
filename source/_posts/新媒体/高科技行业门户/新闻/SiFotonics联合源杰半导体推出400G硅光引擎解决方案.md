@@ -1,0 +1,19 @@
+
+---
+title: 'SiFotonics联合源杰半导体推出400G硅光引擎解决方案'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-9/13/jianhua/20210913112547_1631503547595681417.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 13 Sep 2021 03:26:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-9/13/jianhua/20210913112547_1631503547595681417.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">随着万物互联的不断推进，<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320248-yitaiwang.html" target="_blank" title="数据中心">数据中心</a></span>对带宽要求越来越高。近日，国际领先的硅光技术企业SiFotonics和技术领先的激光器厂商源杰半导体联合推出应用于数据中心网络的400G硅光引擎解决方案。该方案成本结构持续优化，充分满足市场诉求。</p><p style="text-indent: 2em; text-align: left;">SiFotonics的400G硅光引擎方案包括SiFotonics自研400G DR4 硅光集成<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320185-xinpian.html" target="_blank" title="芯片">芯片</a></span>（PIC）以及特别匹配优化设计的自有硅光<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-tiaozhiqi.html" target="_blank" title="调制器">调制器</a></span>驱动芯片（Driver），使用源杰半导体的大功率连续波激光器（CW Laser）作为光源。测试结果显示出优异的发射器性能：3dB电光带宽超过4<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-5G.HTM" target="_blank" title="5G">5G</a></span>Hz， 每个通道在消光比超过5dB的情况下实现了TECQ均小于1．3dB。</p><p style="text-indent: 2em; text-align: left;">测试所用硅光引擎照片以及输出光眼图结果见下，该光引擎方案中使用透镜将源杰CW Laser的出光直接耦合进硅光芯片，耦合效率可达70％，光输出端口使用光纤阵列与硅光芯片耦合，driver和硅光芯片通过打线的方式进行电的连接。</p><p style="text-indent: 2em; text-align: left;"></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-9/13/jianhua/20210913112547_1631503547595681417.png" width="628" height="217" referrerpolicy="no-referrer"></p><p style="text-align: center;"><span style="text-align: left; text-indent: 2em;">硅光引擎照片及光眼图</span></p><p style="text-indent: 2em; text-align: left;">SiFotonics已开始流片量产版本的硅光芯片和电芯片，预计将在2022年上半年实现量产。基于Sifotonics已经在硅光集成芯片产品大规模批量出货的经验，将会很快可以实现DR4硅光芯片的大批量稳定供货。</p><p style="text-indent: 2em; text-align: left;">源杰半导体采用技术领先的垂直整合设计和生产制造的IDM模式，迅速从设计转化到生产制造，基于多年InP激光器设计和工艺技术积累，推出硅光大功率激光器芯片。该款芯片具备小发散角和高斜效率的特点，可以简化客户耦合封装工艺和节省功耗；源杰现已开始小批量出货，以匹配大数据时代的蓬勃发展。</p><p style="text-indent: 2em; text-align: left;"></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-9/13/jianhua/20210913112727_1631503647435275998.png" width="540" height="382" referrerpolicy="no-referrer"></p><p></p><p></p><p style="text-indent: 2em; text-align: center;">硅光大功率激光器芯片及PIV曲线</p><p style="text-indent: 2em; text-align: left;"><strong>关于SiFotonics Technologies：</strong></p><p style="text-indent: 2em; text-align: left;">SiFotonics Technologies是一家通过先进的硅光芯片器件及集成电路为超高速数据中心和5G无线<span class="hrefStyle"><a href="http://fiber.ofweek.com/tag-%E5%85%89%E7%BD%91%E7%BB%9C.HTM" target="_blank" title="光网络">光网络</a></span>市场提供解决方案的供应商。SiFotonics成立于2007年，在南京、北京和上海设有技术研发中心和生产基地， 同时在Boston／San Jose／HK设有办公室。公司网址：www．sifotonics．com</p><p style="text-indent: 2em; text-align: left;"><strong>关于源杰半导体：</strong></p><p style="text-indent: 2em; text-align: left;">陕西源杰半导体科技股份有限公司成立于2013年，专注于进行高速的半导体芯片的研发、设计和生产，是一家从半导体晶体生长，晶圆工艺，芯片测试与封装全部开发完毕，并形成工业化规模生产的高科技企业。</p><p style="text-indent: 2em; text-align: left;">产品涵盖从2．5G到50G InP激光器芯片，拥有完整独立的自主知识产权，从最终的使用场景来看，产品广泛应用于<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320244-guangxianruhu.html" target="_blank" title="光纤到户">光纤到户</a></span>、数据中心与<span class="hrefStyle"><a href="http://cloud.ofweek.com/" target="_blank" title="云计算">云计算</a></span>、5G移动通信网络、通信骨干网络、工业物联网等。经过多年的稳健发展，公司产品的技术先进性、市场覆盖率和性能稳定性位居行业前列。</p><p style="text-indent: 2em; text-align: left;">该方案将在深圳CIOE 2021的展会现场演示性能测试，SiFotonics展台号：6B65；源杰展台号：6A63，欢迎新老客户莅临展台参观洽谈。</p><p><br></p> 
+  
+</div>
+            
