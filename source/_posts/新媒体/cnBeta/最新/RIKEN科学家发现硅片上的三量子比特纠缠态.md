@@ -1,0 +1,19 @@
+
+---
+title: 'RIKEN科学家发现硅片上的三量子比特纠缠态'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/0913/8abc33f4bbf792e.jpg'
+author: cnBeta
+comments: false
+date: Mon, 13 Sep 2021 06:31:58 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/0913/8abc33f4bbf792e.jpg'
+---
+
+<div>   
+在许多类型的任务上，量子计算机有望在未来某一天大举超越传统计算机。尽管当前仍面临着许多亟需克服的困难，日本理化研究所（RIKEN）的一支科学家团队，还是找到了通往未来量子计算大门的一项新突破。<strong>在近日发表于《自然纳米科学》期刊上的一篇文章中，其详细介绍了在硅片上发现的三量子比特纠缠态。</strong><br>
+ <p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/0913/8abc33f4bbf792e.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">新器件的扫描电子显微镜（伪彩色）图像，来自：<a href="https://www.riken.jp/en/news_pubs/research_news/rr/20210903_1/index.html" target="_self">RIKEN</a> 。</p><p>据悉，量子计算机利用了奇特的量子物理学原理，来大幅提升计算机的处理能力和速度。相关信息以类似于传统计算机的“比特”方式来存储，但“量子比特”还拥有一些意想不到的操纵方式。</p><p>得益于“量子纠缠”特性，当你检查其中一个粒子属性时，就可对应推断出一个（或多个）伙伴粒子的属性，且处于纠缠态的粒子无论相隔多远都会受到对应影响。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/0913/ec9ae8fc47caf5c.png" alt="2.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 1：设备与实验设置</p><p>在量子计算机中，纠缠量子比特使得数据能够被更快地传输和处理、并改进了纠错。且在大多数时候，量子比特都是成对纠缠的。然而现在，RIKEN 研究团队已经首次发现了硅片上的三量子比特纠缠态。</p><p>在这种情况下，量子比特由被称作量子点的小硅圆组成。作为量子计算机中量子比特的主要候选者之一，硅片已经在电子产品中得到了广泛应用。</p><p>但更重要的是，这些量子点在很长一段时间内都是稳定的，能够精确控制、在更高的温度下运行、且可以相对简单地缩放规模。</p><p>三量子比特纠缠态能够更好地实现这一目的，且过去已有研究成功地将三个光子纠缠到一起。只是到目前为止，业界一直认为它们是可望而不可及的。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/0913/da7cf44d79c8a05.png" alt="3.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 2：单个量子比特 / 受控相位操作</p><p>研究一作 Seigo Tarucha 表示：“双量子位操作足以执行基本的逻辑计算，但三量子位系统是扩大是实施纠错的最小单位”。</p><p>好消息是，由 RIKEN 新兴物质研究所打造的三量子点装置，就通过铝门控制实现了独特的操作。</p><p>每个量子点都包含了一个电子，可通过其自旋状态来代表二进制的 0 或 1，而无论其在给定时间是向上或向下。</p><p>此外磁场梯度使量子比特的共振频率保持分离，因而支持它们的单独寻址。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/0913/083839fe2ddb54b.png" alt="4.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 3：三量子比特纠缠的生成与测量</p><p>为了让三个量子比特纠缠在一起，研究团队先是使用被称作“双量子位门”的量子计算机公共单元，然后将第三个量子比特与该门纠缠在一起。</p><p>由此产生的三量子比特阵列具有 88% 的高保真度，表明量子比特在测量时处于“正确”状态的概率。研究团队补充道：这种强大的纠缠，能够被很好地运用于纠错。</p><p>因为在量子计算机中，量子比特倾向于随机翻转状态、并丢失其存储的信息。而在传统计算机上运行良好的校正方法，并不适用于新奇的量子系统。</p><p>相比之下，其它量子芯片设计需要使用九个量子比特的网格来相互监视，而 IBM 的纠错方案更是使用了非纠缠的量子比特，来检查邻近量子比特的状态。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/0913/40f0e51fef9d4b3.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">Seigo Tarucha（右二）及其同事们，来自：RIKEN 。</p><p>展望未来，RIKEN 研究团队还希望利用三量子比特设备来演示原始错误校正，并制造具有 10 个（或更多）量子比特位的设备。</p><p>Seigo Tarucha 表示，后续他们计划开发 50 - 100 个量子比特的装置，并套用更加复杂的纠错协议，为十年内制造大规模量子计算机而奠定基础。</p><p>有关这项研究的详情，已经发表在近日出版的《自然纳米技术》（<a href="https://www.nature.com/articles/s41565-021-00925-0" target="_self">Nature Nanotechnology</a>）期刊上。</p><p>原标题为《Quantum tomography of an entangled three-qubit state in silicon》。</p>   
+</div>
+            
