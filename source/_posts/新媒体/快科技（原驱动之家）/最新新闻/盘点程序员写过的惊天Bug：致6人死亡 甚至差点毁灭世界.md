@@ -1,0 +1,89 @@
+
+---
+title: '盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20210913/S6683e785-f81c-45c2-beb6-6acaa28236e5.png'
+author: 快科技（原驱动之家）
+comments: false
+date: Mon, 13 Sep 2021 15:20:12 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20210913/S6683e785-f81c-45c2-beb6-6acaa28236e5.png'
+---
+
+<div>   
+<p><em>一个Bug就地蒸发5亿美元；</em></p>
+<p><em>软件设计层面出Bug致6人死亡；</em></p>
+<p><em>DeBug不成功直接世界毁灭。</em></p>
+<p>你职业生涯中写过最大的Bug是什么？</p>
+<p>在这个问题上，勇敢的码农们，总是能不断地创造奇迹。</p>
+<p>这不禁让路过的一位普通市民感叹：感觉有你们，我们还活在这个世界就像死神来了</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/6683e785-f81c-45c2-beb6-6acaa28236e5.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="211" src="https://img1.mydrivers.com/img/20210913/S6683e785-f81c-45c2-beb6-6acaa28236e5.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p><strong>Bug很大，你忍一下</strong></p>
+<p>一个Bug到底能有多大？</p>
+<p>几个历史数据转储逻辑Bug或发货逻辑Bug，就能让几十万轻松蒸发：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/d0969bb6-73fb-4f3f-ab23-6cfb4727cb75.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="248" src="https://img1.mydrivers.com/img/20210913/Sd0969bb6-73fb-4f3f-ab23-6cfb4727cb75.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>你们这亏钱的Bug都洒洒水啦，写Bug差点进去的见过没？</p>
+<p>马上就有码农站出来表示不服，并表示自己参与开发的一款发薪软件曾出现Bug，会导致发放的薪资变成双倍，总共能多发2000多万。</p>
+<p>当时查出Bug的时候发薪单已经生成，就差批量任务向银行发起请求了！</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/e876384b-8520-463f-b498-56afaa45600c.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="245" src="https://img1.mydrivers.com/img/20210913/Se876384b-8520-463f-b498-56afaa45600c.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>奇怪的胜负心就这么燃起来了。</p>
+<p>一时间，什么水闸关不住、高铁追尾、甚至差点导致非洲国家内战的Bug都来了。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/ee79e15d-a285-4f74-a9c1-811cb12a55a8.jpg" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="463" src="https://img1.mydrivers.com/img/20210913/See79e15d-a285-4f74-a9c1-811cb12a55a8.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>如果再放眼全球，你就会发现——Bug没有最大，只有更大。</p>
+<p>2016年时，Excel就出过一个致使上万份遗传基因学论文出错的Bug。</p>
+<p>很多长得像日期表达的长基因名的缩写（比如SEPT2、MARCH1），会在这一Bug的作用下被Excel自动转化成日期格式：</p>
+<p style="text-align: center"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="319" src="https://img1.mydrivers.com/img/20210913/4f27f757-8587-4325-9356-935c47806bc7.jpg" style="border: black 1px solid" w="581" referrerpolicy="no-referrer"></p>
+<p>学术领域之外的Bug那就更牛逼了。</p>
+<p>比如在1996年，欧洲运载火箭Ariane 5在发射37秒后当场爆炸。</p>
+<p>一瞬间，70亿美元的开发费用全部木大，5亿美元的设备原地蒸发。</p>
+<p>这一切都由一个整数溢出（Integer Overflow）的Bug引起。</p>
+<p style="text-align: center"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="241" src="https://img1.mydrivers.com/img/20210913/59b25ffe-a2e2-4a4d-8dbb-06fed31b797d.png" style="border: black 1px solid" w="367" referrerpolicy="no-referrer"></p>
+<p>而如果翻开维基百科上的这份专门统计历史上造成严重后果的Bug清单，沿着12个类别一个一个找下去，就会发现——</p>
+<p>几乎每一条Bug的背后都存在着千万上亿的金钱损失。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/4e1edfe2-099e-444b-897c-09186d0553b7.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="253" src="https://img1.mydrivers.com/img/20210913/S4e1edfe2-099e-444b-897c-09186d0553b7.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>有时，甚至会带来意外死亡。</p>
+<p>1985年到1987年间，由加拿大AECL公司开发的Therac-25放射线疗法机器在软件互锁机制上出现了Bug，从而使辐射能量变成了正常剂量的100倍：</p>
+<p>最终，至少有6名来自美国和加拿大地区的患者由于遭受过量辐射而意外死亡。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/a05dbb62-0859-4407-a0be-9a00c3620d75.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="221" src="https://img1.mydrivers.com/img/20210913/Sa05dbb62-0859-4407-a0be-9a00c3620d75.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>还有差点引发全球核战争的Bug：1983年苏联核警报误报事件。</p>
+<p style="text-align: center"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="241" src="https://img1.mydrivers.com/img/20210913/7edbbee4-65af-4a1c-9126-bcc947a83f5c.png" style="border: black 1px solid" w="220" referrerpolicy="no-referrer"><br>
+△苏联军官Stanislav Yevgrafovich Petrov</p>
+<p>在那一年的9月26日，苏联的雷达监测到了5枚自美军基地发射而来的导弹。</p>
+<p>而上图的这位苏联军官权衡再三，最终将这一导弹攻击警告判断为误报，并没有按照规定向上级汇报并申请反击。</p>
+<p>事实证明，这次DeBug成功避免了地球Online在1983年就发生重启。</p>
+<p><strong>“不是Bug是特性”</strong></p>
+<p>看完了上面那些惊天大活儿，瞬间觉得邮件/短信连环CALL这种Bug都温柔了许多。</p>
+<p>像这种由于抽奖程序Bug导致的社死，好像也不是个事儿了：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/81448a1d-c3bb-445b-9b7a-5045ffb19115.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="174" src="https://img1.mydrivers.com/img/20210913/S81448a1d-c3bb-445b-9b7a-5045ffb19115.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>而影响力又大，又没有造成严重损失，甚至让用户拍手叫好的Bug也不是没有。</p>
+<p>比如一到游戏圈，Bug就会自动改名为特性。</p>
+<p align="center"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="320" src="https://img1.mydrivers.com/img/20210913/5c477409fe5944739de6a8298cc93392.gif" style="border: 1px solid black; width: 600px;" w="640" referrerpolicy="no-referrer"></p>
+<p style="text-align: center">△原神鱼竿Bug</p>
+<p>某些知名游戏大厂甚至还会联名发布Bug马克杯，玩梗玩得飞起。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/0dcd24bd-4dd1-45a5-adcc-b4f6af1b123e.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="328" src="https://img1.mydrivers.com/img/20210913/S0dcd24bd-4dd1-45a5-adcc-b4f6af1b123e.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>还有玩家真情实感地表示：Bug正是游戏复杂规则和交互的体现，我游YYDS！</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/b727a57c-c636-4364-9a13-20e16ef54064.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="164" src="https://img1.mydrivers.com/img/20210913/Sb727a57c-c636-4364-9a13-20e16ef54064.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a><br>
+△《矮人要塞》猫咪离奇死亡事件</p>
+<p>甚至在游戏行业之外，还有用户在Bug被修复后愤怒投诉：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20210913/cb7eb3d0-7884-45a7-adfc-663ca2efed2d.png" target="_blank"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="71" src="https://img1.mydrivers.com/img/20210913/Scb7eb3d0-7884-45a7-adfc-663ca2efed2d.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a><br>
+△图源知乎答主三和四保</p>
+<p>最后，再回到“你的程序员生涯中写过的最大Bug”这一问题上来。</p>
+<p>有回答选择直接结束比赛：</p>
+<p>你们的程序员生涯中写过的最大Bug是什么？——当初选择了做程序员。</p>
+<p style="text-align: center"><img alt="盘点程序员写过的惊天Bug：致6人死亡 甚至差点毁灭世界" h="272" src="https://img1.mydrivers.com/img/20210913/8218e85a-4c02-4272-8008-c9b2cfece31a.png" style="border: black 1px solid" w="398" referrerpolicy="no-referrer"></p>
+<p>软件Bug清单：https://en.wikipedia.org/wiki/List_of_software_Bugs</p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+            
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/chengxuyuan.htm"><i>#</i>程序员</a><a href="https://news.mydrivers.com/tag/bug.htm"><i>#</i>Bug</a></p>
+<p class="url">
+     <span>原文链接：<a href="https://mp.weixin.qq.com/s/pzQCcPc5ZDzK76R10wvM1w">量子位</a></span>
+<span>责任编辑：随心</span>
+</p>
+        
+</div>
+            
