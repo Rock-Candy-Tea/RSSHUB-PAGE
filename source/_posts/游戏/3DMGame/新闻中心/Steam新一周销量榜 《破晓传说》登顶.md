@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210912/1631459964_2461
 Steam公开新一周（9月6日-9月12日）销量排行榜，新发售的《破晓传说》不负众望，成功登顶销量榜，《开拓者：正义之怒》第三，《永劫无间》第四，《无人深空》第五。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210912/1631459964_246146.jpg" alt="Steam新一周销量榜 《破晓传说》登顶" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210912/1631459964_246146.jpg" alt="Steam新一周销量榜 《破晓传说》登顶" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>榜单详情：</strong>
+<strong>榜单详情：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《破晓传说》
