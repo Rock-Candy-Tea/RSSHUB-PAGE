@@ -1,0 +1,20 @@
+
+---
+title: '东北证券：降准概率预期在下降 短期内或以结构性货币政策及MLF等操作为主'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=1558'
+author: 证券时报网
+comments: false
+date: Mon, 13 Sep 2021 08:04:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1558'
+---
+
+<div>   
+<p>证券时报e公司讯，<a class="trsHotWords" href="http://info.stcn.com/dc/stock/?stockcode=SZ000686" style="color: #2f67d1;text-decoration: none;" code="000686" target="_blank">东北证券</a>评8月金融数据：整体上，8月的社融表现平稳，实体经济流动性充裕，企业融资需求旺盛，金融支持实体力度较强。虽然8月和9月政府债券发行提速，但是第四季度的发行量会较大幅度下降，总体上仍维持今年社融整体增速保持在10%-11%水平的判断。从9月7号央行的新闻发布会的预期来看，货币政策短期降准的概率在下降。短期内央行或以结构性货币政策以及MLF等操作为主。</p>
+
+                  
+</div>
+            
