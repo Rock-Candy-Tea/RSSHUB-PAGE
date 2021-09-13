@@ -5,11 +5,11 @@ categories:
  - 金融
  - DT 财经
  - 数据侠专栏
-headimg: 'https://picsum.photos/400/300?random=6183'
+headimg: 'https://picsum.photos/400/300?random=5370'
 author: DT 财经
 comments: false
 date: Fri, 28 Dec 2018 05:48:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6183'
+thumbnail: 'https://picsum.photos/400/300?random=5370'
 ---
 
 <div>   
