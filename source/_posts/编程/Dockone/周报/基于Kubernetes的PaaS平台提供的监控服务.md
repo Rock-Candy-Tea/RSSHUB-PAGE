@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210913/d29b6095e5779d000eb3fe161e57c195.jpg'
 author: Dockone
 comments: false
-date: 2021-09-13 11:06:12
+date: 2021-09-13 12:11:41
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210913/d29b6095e5779d000eb3fe161e57c195.jpg'
 ---
 
@@ -51,71 +51,71 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <pre class="prettyprint">grafana-api==1.0.3  # 用来与Grafana API通信  <br>
 grafanalib==0.5.7   # 创建Grafana图表<br>
 </pre><br>
-<h4>User，Team，Folder创建</h4><pre class="prettyprint"># 下面是一个team的创建，其他类似  <br>
-def ensure_team(g_api, team_name):  <br>
-team_id = -1  <br>
-try:  <br>
-# &#123;'message': 'Team created', 'teamId': 121&#125;  <br>
-g_team = g_api.teams.add_team(&#123;'name': team_name&#125;)  <br>
-team_id = g_team['teamId']  <br>
-except GrafanaClientError as e:  <br>
-if e.status_code == 409:  <br>
-# 'Client Error 409: Team name taken'  <br>
-g_team = g_api.teams.get_team_by_name(team_name)[0]  <br>
-team_id = g_team['id']  <br>
-assert team_id != -1  <br>
+<h4>User，Team，Folder创建</h4><pre class="prettyprint"># 下面是一个team的创建，其他类似<br>
+def ensure_team(g_api, team_name):<br>
+team_id = -1<br>
+try:<br>
+    # &#123;'message': 'Team created', 'teamId': 121&#125;<br>
+    g_team = g_api.teams.add_team(&#123;'name': team_name&#125;)<br>
+    team_id = g_team['teamId']<br>
+except GrafanaClientError as e:<br>
+    if e.status_code == 409:<br>
+        # 'Client Error 409: Team name taken'<br>
+        g_team = g_api.teams.get_team_by_name(team_name)[0]<br>
+        team_id = g_team['id']<br>
+assert team_id != -1<br>
 return team_id<br>
 </pre><br>
-<h4>Folder与Team权限同步</h4><pre class="prettyprint"># 下面是同步team以及其用户，因为用户有可能增减，需要对应的增减  <br>
-def sync_user_team(g_api, team_id, user_ids):  <br>
-orig_members = g_api.teams.get_team_members(team_id)  <br>
-now_user_ids = set(user_ids)  <br>
-orig_user_ids = set([u['userId'] for u in orig_members])  <br>
+<h4>Folder与Team权限同步</h4><pre class="prettyprint"># 下面是同步team以及其用户，因为用户有可能增减，需要对应的增减<br>
+def sync_user_team(g_api, team_id, user_ids):<br>
+orig_members = g_api.teams.get_team_members(team_id)<br>
+now_user_ids = set(user_ids)<br>
+orig_user_ids = set([u['userId'] for u in orig_members])<br>
 <br>
-for user_id in now_user_ids - orig_user_ids:  <br>
-try:  <br>
-g_api.teams.add_team_member(team_id, user_id)  <br>
-except GrafanaBadInputError:  <br>
-pass  <br>
+for user_id in now_user_ids - orig_user_ids:<br>
+    try:<br>
+        g_api.teams.add_team_member(team_id, user_id)<br>
+    except GrafanaBadInputError:<br>
+        pass<br>
 <br>
-for user_id in orig_user_ids - now_user_ids:  <br>
-g_api.teams.remove_team_member(team_id, user_id)  <br>
+for user_id in orig_user_ids - now_user_ids:<br>
+    g_api.teams.remove_team_member(team_id, user_id)<br>
 <br>
-# 下面是同步folder以及team权限，所有普通用户只有只读权限  <br>
-def sync_folder_permission(folder, team_id=None):  <br>
+# 下面是同步folder以及team权限，所有普通用户只有只读权限<br>
+def sync_folder_permission(folder, team_id=None):<br>
 # https://grafana.com/docs/grafana/latest/http_api/folder_permissions/<br>
-g_api = get_grafana_api()  # type: GrafanaFace  <br>
-permissions = []  <br>
-if team_id != None:  <br>
-permissions.append(&#123;  <br>
-"teamId": team_id,  <br>
-"permission": 1  # 只有查看权限  <br>
-&#125;)  <br>
+g_api = get_grafana_api()  # type: GrafanaFace<br>
+permissions = []<br>
+if team_id != None:<br>
+    permissions.append(&#123;<br>
+        "teamId": team_id,<br>
+        "permission": 1  # 只有查看权限<br>
+    &#125;)<br>
 <br>
-g_api.folder.update_folder_permissions(  <br>
-folder['uid'],  <br>
-&#123;  <br>
-"items": permissions,  <br>
-&#125;  <br>
-)  <br>
+g_api.folder.update_folder_permissions(<br>
+    folder['uid'],<br>
+    &#123;<br>
+        "items": permissions,<br>
+    &#125;<br>
+) <br>
 </pre><br>
 <h4>Dashboard页面设计以及同步</h4>这部分其实挺难的，我想使用类似声名式的写法，类似<code class="prettyprint">kubectl apply -f xxx.yaml</code>，不过<code class="prettyprint">Grafana</code>的API太难用了，一种解决方案是：导入Dashboard图表数据，可以看到我这里的API都是手动加的。<br>
-<pre class="prettyprint">def sync_dashboard_data(dashboard_uid, folder_id, dashboard_json_data, inputs=[]):  <br>
-"""同步dashboard的组信息以及dashboard的pannel数据信息  <br>
-"""  <br>
-g_api = get_grafana_api()  # type: GrafanaFace  <br>
-d = g_api.dashboard.get_dashboard(dashboard_uid)  <br>
+<pre class="prettyprint">def sync_dashboard_data(dashboard_uid, folder_id, dashboard_json_data, inputs=[]):<br>
+"""同步dashboard的组信息以及dashboard的pannel数据信息<br>
+"""<br>
+g_api = get_grafana_api()  # type: GrafanaFace<br>
+d = g_api.dashboard.get_dashboard(dashboard_uid)<br>
 <br>
-data = &#123;  <br>
-'dashboard': dashboard_json_data,  <br>
-'folderId': folder_id,  <br>
-"inputs": inputs,  <br>
-'overwrite': True  <br>
-&#125;  <br>
-put_dashboard_path = "/dashboards/import"  <br>
-r = g_api.api.POST(put_dashboard_path, json=data)  <br>
+data = &#123;<br>
+    'dashboard': dashboard_json_data,<br>
+    'folderId': folder_id,<br>
+    "inputs": inputs,<br>
+    'overwrite': True<br>
+&#125;<br>
+put_dashboard_path = "/dashboards/import"<br>
+r = g_api.api.POST(put_dashboard_path, json=data)<br>
 <br>
-# 数据样式的生成请参考这里:  <br>
+# 数据样式的生成请参考这里：<br>
 # https://github.com/weaveworks/grafanalib/blob/master/grafanalib/tests/examples/example-elasticsearch.dashboard.py<br>
 </pre><br>
 <h3>最终效果</h3>针对我们系统中的每个应用，基本都有这么一张图表：<br>
