@@ -1,0 +1,22 @@
+
+---
+title: '其他
+Disney+《鷹眼》漫威影集釋出中文預告 11_24 上架
+ 4 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/45/d8b956e9f3bbfd39ae455f85751dngh5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/45/d8b956e9f3bbfd39ae455f85751dngh5.JPG'
+---
+
+<div>   
+漫威影集《鷹眼》釋出了海報以及中文版正式預告宣傳影片，預計將於今年 11 月 24 日在 Disney+ 推出，全劇 6 集。 在影集《鷹眼》中，大家熟知的復仇者聯盟成員「鷹眼：克林特·巴頓（傑瑞米·雷...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/45/d8b956e9f3bbfd39ae455f85751dngh5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
