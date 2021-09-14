@@ -14,7 +14,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/app
 
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/apple-epic-appeal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>After a trial that lasted more than a year, Judge Yvonne Gonzalez Rogers finally issued her <a href="https://9to5mac.com/2021/09/10/epic-vs-apple-ruling-revealed-apple-must-allow-app-store-devs-to-redirect-users-to-other-payment-systems/" target="_blank" rel="noreferrer noopener">permanent injunction in the case of Apple vs Epic Games</a>.</p>
+<p>After a trial that lasted more than a year, Judge Yvonne Gonzalez Rogers finally issued her <a href="https://9to5mac.com/2021/09/10/epic-vs-apple-ruling-revealed-apple-must-allow-app-store-devs-to-redirect-users-to-other-payment-systems/" target="_blank" rel="noreferrer noopener">permanent injunction in the case of Apple vs. Epic Games</a>.</p>
 <p>While Apple will be forced to change some of the App Store guidelines, Epic Games has been ordered to pay Apple a 30% commission of all sales the company registered by bypassing the App Store’s in-app purchases system with Fortnite last year. Now Epic has done just that and paid Apple $6 million.</p>
 <p><span id="more-752511"></span>
 </p>

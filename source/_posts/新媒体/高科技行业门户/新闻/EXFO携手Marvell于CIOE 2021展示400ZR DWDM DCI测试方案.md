@@ -1,0 +1,19 @@
+
+---
+title: 'EXFO携手Marvell于CIOE 2021展示400ZR DWDM DCI测试方案'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=1886'
+author: 高科技行业门户
+comments: false
+date: Tue, 14 Sep 2021 10:46:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1886'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: center;">数字相干Q<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-sfp.html" target="_blank" title="SFP">SFP</a></span>－DD<span class="hrefStyle"><a href="https://fiber.ofweek.com/tag-%E5%85%89%E6%A8%A1%E5%9D%97.HTM" target="_blank" title="光模块">光模块</a></span>和OTS系统结合起来，提供出色的测试功能</p><section></section><p style="text-indent: 2em; text-align: left;">中国深圳，2021年9月14日—— 通信业测试、监测与分析专家EXFO今天宣布将与全球领先的半导体厂商Marvell（NASDAQ：MRVL）携手，共同展示如何将开放式光模块系统测试平台和400ZR模块结合起来，进行控制、监测、流量生成和分析。双方将于9月16日至18日在深圳世界会展中心举行的2021年光电博览会（CIOE ）上，在EXFO展台（4A51号）进行相关展示。</p><p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320248-yitaiwang.html" target="_blank" title="数据中心">数据中心</a></span>之间的带宽需求不断增长，促使云数据中心运营商在其网络边缘部署高密度、低延迟和低功耗的<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-dwdm.html" target="_blank" title="DWDM">DWDM</a></span>链路。为了确保能够成功地部署长达120公里的链路，有时需要可独立执行的测试和验证功能。此次，Marvell的COLORZ&reg;II QSFP－DD 400ZR可插拔光模块将与EXFO的FTBx－88460 1G－400G<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320247-yitaiwang.html" target="_blank" title="以太网">以太网</a></span>测试解决方案结合起来，采用环回配置传输400G以太网信号，以验证经过强化的DWDM传输和物理链路性能。</p><p style="text-indent: 2em; text-align: left;">Marvell营销高级总监Tomas Maj说：“我们很高兴能够与EXFO合作，展示如何通过我们的400ZR生态系统提供一款低功耗、低成本的解决方案，使超大规模数据中心运营商能够满足其不断增长的带宽需求。这必将成为业内企业携手合作，共同打造集成化程度和能效都很高的相干光学解决方案的典范。”</p><p style="text-indent: 2em; text-align: left;">EXFO NEMS事业部总监Leo Lin说：“CIOE为我们展示EXFO面向未来的多业务端到端测试解决方案提供了绝佳机会，该解决方案支持速率从1G到400G的以太网测试，适用于从实验室到产线，再到现场的多种应用场景。我们的<span class="hrefStyle"><a href="http://fiber.ofweek.com/IND-8320212-ceshiyi.html" target="_blank" title="测试仪">测试仪</a></span>可与功耗低、密度高的Marvell相干可插拔光模块结合起来，成为一款经济高效的测试方案，为全球各地的运营商提供支持。”</p><p style="text-indent: 2em; text-align: left;">Marvell的COLORZ II是业界第一款400ZR／ZR＋QSFP－DD可插拔相干光模块，适用于DCI和大型云运营商以及OEM等客户。借助COLORZ II，大型云运营商可以将城域数据中心连接起来，成本仅为传统相干传输系统的一小部分，而路由器和交换机厂家，可以基于这一技术，在同样的设备上，提供相同密度的DWDM相干接口或客户侧接口。</p><p style="text-indent: 2em; text-align: left;">EXFO的FTBx－88460一体化多业务测试仪适用于现场、数据中心、产线和实验室，可迅速适应所有环境要求，这是因为它采用了开放式光模块系统（OTS）来实现接口互换，从而支持使用同一模块进行多种类型的客户端和线路端连接。在此次光博会上，我们将展示这款测试仪的独特功能，包括支持OTS、OSFP、QSFP－DD、波长调谐以及FEC监测与统计。</p><p style="text-indent: 2em; text-align: left;"><strong>关于CIOE</strong></p><p style="text-indent: 2em; text-align: left;">CIOE 2021是世界主要的光电产业综合性展会，有3200多家参展商参展，涵盖整个光电生态系统，包括信息和通信、精密光学、传感、激光、红外及光电子。</p><p style="text-indent: 2em; text-align: left;"><strong>关于EXFO</strong></p><p style="text-indent: 2em; text-align: left;">EXFO为全球通信业的固定和移动网络运营商、互联网公司和设备制造商开发更加智能的测试、监测与分析解决方案。客户依赖我们提供优异的网络性能、可靠的服务和强大的用户体验洞察力。他们相信我们的设备、软件与服务能够帮助他们加快与光纤、<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-4g.html" target="_blank" title="4G">4G</a></span>／<span class="hrefStyle"><a href="http://fiber.ofweek.com/KW-LTE.html" target="_blank" title="LTE">LTE</a></span>和<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-5G.HTM" target="_blank" title="5G">5G</a></span>部署有关的数字化改造。他们还相信我们在自动化、实时排障和大数据分析方面的专业技术，这些技术对他们的经营绩效至关重要。我们花费了35多年的时间赢得这种信任，目前在超过25个国家有1，900名员工，他们在实验室、现场、数据中心等地方与客户携手合作。</p><p style="text-indent: 2em; text-align: left;"><strong>关于Marvell</strong></p><p style="text-indent: 2em; text-align: left;">为了通过数据基础设施技术实现全球互联的愿景，我们正在与客户携手构建强大的基础解决方案。25年来，我们一直受到世界领先技术公司的信赖，运用专为客户当前需求和未来理想而设计的半导体解决方案实现对全球数据的移动、存储、处理与保护。通过深度合作及透明的流程，我们正在变革未来企业、云、汽车和运营商架构，助力其向更好的方向发展。</p> 
+  
+</div>
+            
