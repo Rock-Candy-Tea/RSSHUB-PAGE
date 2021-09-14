@@ -1,0 +1,19 @@
+
+---
+title: '_图_发布会开始前 @Evleaks再爆iPhone 13保护套高清渲染图'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0914/7601197e729dd22.jpg'
+author: cnBeta
+comments: false
+date: Tue, 14 Sep 2021 09:04:27 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0914/7601197e729dd22.jpg'
+---
+
+<div>   
+距离“加州来电”特别活动开幕还有不到几个小时的时间，配件厂商 Spigen 分享了适用于 iPhone 13 的多款保护套，并从多个角度展示了这款手机。尽管这些不是苹果公司的第一方渲染图，但对于想知道手机外观的人来说已经足够了。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/7601197e729dd22.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/7601197e729dd22.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/cd712c3dbb20d3f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/cd712c3dbb20d3f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/6d5f4a63fa5d4d0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/6d5f4a63fa5d4d0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/74931334bc52c58.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/74931334bc52c58.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/a5b35995b406bd0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/a5b35995b406bd0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/11e957fb30949b5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/11e957fb30949b5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/73b64e51305826f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/73b64e51305826f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/ef57ea47cd82e1e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/ef57ea47cd82e1e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/05bf3ddc2ff670e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/05bf3ddc2ff670e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/3c5d26b5ad25717.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/3c5d26b5ad25717.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/e2c4d16d751ee87.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/e2c4d16d751ee87.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0914/199e446060daa0a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0914/199e446060daa0a.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这条爆料来自于知名人士@Evleaks，他在推文中分享了这些保护套的渲染图。他在推文中明确表示这并不是<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>的官方渲染图，而是来自于 Spigen 的保护套。</p>   
+</div>
+            
