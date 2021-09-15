@@ -76,6 +76,19 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Scr
 <p>In addition to the new hardware, Apple today announced that it will release its next round of software updates, including iOS 15, watchOS 8, and iPadOS 15, on Monday, September 20. The company also announced new features for Apple Fitness+ and teased its upcoming TV shows and movies launching on Apple TV+.</p>
 <p>What we didn’t get during today’s event, however, were AirPods 3 or new Macs. This means that Apple still has more up its sleeve to hold another special event sometime in October or November.</p>
 <p>What was your favorite announcement from today’s event? Are you planning on buying any of Apple’s new hardware? Let us know down in the comments!</p>
+<div class="wp-block-group">
+<div class="wp-block-group__inner-container">
+<h3 id="h-looking-to-trade-in-your-iphone-upgrade-to-iphone-13">Looking to trade in your iPhone/upgrade to iPhone 13?</h3>
+<ul id="block-9fcc35a0-397a-45ac-aa90-b4f86db8438e">
+<li><strong><em><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#iphone">Check latest iPhone trade-in values</a></em></strong><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#iphone"><strong> HERE</strong></a></li>
+<li><a href="https://9to5mac.com/2020/10/12/best-iphone-ipad-macbook-trade-in-deals/#ipad">Check latest iPad trade-in values</a></li>
+<li><a href="https://9to5mac.com/trade-in-iphone/">How to Trade in Your iPhone — The Ultimate Guide</a></li>
+<li><a href="https://9to5mac.com/2019/02/04/check-iphone-trade-in-value/">How to check your iPhone trade-in value</a></li>
+<li><a href="https://9to5mac.com/2020/10/15/how-much-is-your-iphone-11-pro-worth/">How much is your iPhone 11/Pro worth right now?</a></li>
+<li><a href="https://9to5mac.com/2021/08/06/iphone-12-trade-in-value/">How much is your iPhone 12/Pro worth right now?</a></li>
+</ul>
+</div>
+</div>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VBc69B"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/9to5mac-750x150-native-banner-4.2@2x.jpg?quality=82&strip=all" alt class="wp-image-752270" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
