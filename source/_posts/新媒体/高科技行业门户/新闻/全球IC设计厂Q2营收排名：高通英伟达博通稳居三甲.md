@@ -1,0 +1,19 @@
+
+---
+title: '全球IC设计厂Q2营收排名：高通英伟达博通稳居三甲'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/ztcjw/2021-09-15/78acaaeaac3a1e5da31e74a7a4243d55.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 15 Sep 2021 09:46:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/ztcjw/2021-09-15/78acaaeaac3a1e5da31e74a7a4243d55.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">智通财经APP获悉，根据TrendForce集邦咨询最新统计，由于<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>产能仍处于供不应求状态，进一步推升芯片价格上涨，带动2021年第二季全球前十大<span class="hrefStyle"><a href="https://ee.ofweek.com/CAT-2801-ICDesign.html" target="_blank" title="IC设计">IC设计</a></span>业者营收至298亿美元，年增60．8％。其中，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%81%94%E5%8F%91%E7%A7%91.HTM" target="_blank" title="联发科">联发科</a></span>（MediaTek）与联咏（Novatek）年增长率皆超过95％，而超威更以接近100％的增长幅度，拿下第二季营收排名增长率之冠。</p><p style="text-indent: 2em; text-align: left;">整体而言，尽管第三季终端市场陆续传出需求减缓杂音，造成部分零部件订单需求下滑的情况，但是现阶段晶圆代工厂的新建产能尚未开出，因此产能吃紧情况仍将持续，加上部分客户订单尚未完全消化，预期下半年各家营收仍将持续成长，但增长幅度可能有限。</p><p style="text-indent: 2em; text-align: left;">排名方面，第二季前五名业者排序与前季相同，然第六名至第十名则出现较大的变动。由于美满电子（Marvell）完成收购Inphi，营收因此大幅成长，使其排名自第一季第九名跃升至第二季第七名，分别挤下赛灵思（Xilinx）及瑞昱半导体（Realtek）。美满电子在未来两季可获得Inphi营收挹注，可望带动下半年的年增率达50％以上，然联咏持续受惠于缺货与涨价效应下，将稳坐第六名，短期内应不至于被美满电子所超越。</p><center><p style="text-align:center"><img alt="图片" src="https://cors.zfour.workers.dev/?http://mp.ofweek.com/data/images/ztcjw/2021-09-15/78acaaeaac3a1e5da31e74a7a4243d55.jpg" width="453" height="344" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">具体来看，位居营收排名第一名的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>（Qualcomm），在主要手机大厂对于5G高端与旗舰机种仍有相当大的需求带动下，其<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%A4%84%E7%90%86%E5%99%A8.HTM" target="_blank" title="处理器">处理器</a></span>与RF射频前端部门等营收成长强劲；而因新冠疫情所衍生的远距工作与教学的持续需求，使得物联网部门营收近14亿美元，成为高通旗下的另一营收主力，带动其第二季营收至64．7亿美元，年增率70％。</p><p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E4%BC%9F%E8%BE%BE.HTM" target="_blank" title="英伟达">英伟达</a></span>（<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-NVIDIA.HTM" target="_blank" title="NVIDIA">NVIDIA</a></span>）则持续受惠于游戏<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%98%BE%E5%8D%A1.HTM" target="_blank" title="显卡">显卡</a></span>与数据中心营收的带动，两大产品部门的营收年增长率分别为91．1％与46％；其中，游戏显卡仍受惠于加密货币市场对于高性能游戏显卡的高度需求挹注，以及数据中心对于高性能运算的需求，推升第二季营收年增长为68．8％，达58．4亿美元，位居第二名。</p><p style="text-indent: 2em; text-align: left;">列居第三名的博通（Broadcom），其营收主力来自于有线网络通讯与<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%97%A0%E7%BA%BF%E8%8A%AF%E7%89%87.HTM" target="_blank" title="无线芯片">无线芯片</a></span>，前者在5G基建持续拉动下，带动高速以太网络芯片需求上扬；后者则是受惠于5G高端智能手机对于Wi－Fi 6E的需求。其他如宽带与工业解决方案部门，年成长皆达二位数，推升第二季营收达49．5亿美元，年增长19．2％。</p><p style="text-indent: 2em; text-align: left;">联发科延续第一季的成长气势，扮演营收主力的移动产品线，年增长率达到143％，其他产品部门营收的年成长也交出两位数的亮眼成绩，推升其第二季营收达44．9亿美元，年增率98．8％，位居第四名。</p><p style="text-indent: 2em; text-align: left;">谈到超威（<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-AMD.HTM" target="_blank" title="AMD">AMD</a></span>），受惠于游戏主机市场需求仍然强劲，以及在企业、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F.HTM" target="_blank" title="嵌入式">嵌入式</a></span>与半定制化部门大量营收挹注，加上服务器处理器持续扩大客户采用，该领域年成长表现高达183％，进一步带动其第二季营收至38．5亿美元，年增率高达99．3％，位居第五名。</p> 
+  
+</div>
+            

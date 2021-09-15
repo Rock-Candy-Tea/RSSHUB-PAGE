@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8584'
+headimg: 'https://picsum.photos/400/300?random=8138'
 author: 知乎
 comments: false
 date: Wed, 15 Sep 2021 07:40:20 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8584'
+thumbnail: 'https://picsum.photos/400/300?random=8138'
 ---
 
 <div>   
