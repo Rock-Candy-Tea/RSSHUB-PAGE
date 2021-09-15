@@ -1,0 +1,19 @@
+
+---
+title: '感官进化，超能科技，TCL X12智屏给你一片_触手可及_的星空'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695065448018486.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 15 Sep 2021 08:29:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695065448018486.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">目前，神舟十二号载人飞行任务已经进入第三个月。据最新消息，神舟十二号将返回，即将携带聂海胜、刘伯明、汤洪波三位航天员返回地球，三位英雄回来过中秋！预估时间为9月17日前后，但这次返回降落的地点和往常不一样了，这次它将降落到东风着陆场，而不是以往的四子王旗着陆场。先预祝各位航天员顺利回家啦！</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695065448018486.png" title="1631695065448018486.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">值得一提的是，此次太空出差的3名航天员，都出色地完成了任务，特别是他们拍摄的太空大片让我们看到了很多没见过的太空视角，“神舟”飞天、“嫦娥”奔月、“天问”探火、“太空自拍”，“梦幻互拍”．．．．．．真的带我们涨见识了！</p><p style="text-indent: 2em; text-align: left;">自古以来人们对浩瀚宇宙就有着无尽向往，我们不断探索遥望那璀璨星河。除了看中国航天拍摄的太空大片，我们在日常生活中也在追寻那片“触手可及”的星空。前不久，大国品牌TCL更是以科技的力量，为人们打造出一场科技与自然交织的真实太空之旅，让人类更进一步靠近浩瀚星空，拥抱星辰大海。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695073515036020.png" title="1631695073515036020.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在新品TCL 85X128KMini LED领曜智屏中，TCL采用先进的Mini<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>技术，通过搭载96000颗Mini<span class="hrefStyle"><a href="https://lights.ofweek.com/CAT-220008-LEDchip.html" target="_blank" title="LED芯片">LED芯片</a></span>，更好实现了超精准的局域控光，可让亮场更亮，暗场更黑。在视频中，TCLX12智屏将夜空中纯粹的黑、极致的光和完美的流星细节都展现得淋漓尽致，让我们更近距离感受璀璨星河的美好。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695081233087187.png" title="1631695081233087187.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">令人惊喜的是，TCL 85X128KMini LED领曜智屏搭载了OD Zero技术，能实现电视背光与屏幕间“零距离”。它是目前市面上最薄的Mini LED智屏，相比普通LED电视20～30mm的厚度，TCL X12在达到85英寸尺寸的同时，厚度仍然只有9．9mm，侧面看犹如一根“定海神针”屹立于浩瀚宇宙中。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695089951045030.png" title="1631695089951045030.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">除了具备1920分区、24颗神经网络芯片、3000nit峰值亮度、全屏亮度精控技术、全屏色彩还原技术、全程8K、黑水晶屏体、双120Hz高刷等画质优势外，TCL X12的音质表现同样惊艳。它配置了专业的安桥5．1．2HiFi音响，具备8声道、25个发声单元、160W的超高功率，在家即可感受影院般震撼音效。在杜比环绕音效的加持下，声音3D环绕，澎湃声浪扑面而来，无论是跑车的引擎轰鸣声，还是水滴落地的声音，都可让人“声”临其境。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695096342043012.png" title="1631695096342043012.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在拥有出色的画质和音质表现的基础上，TCL 85X128KMini LED领曜智屏的智能操作功能让它更加完美，TCL X12内置4800万像素的广角摄像头和3D ToF镜头，可让用户通过电视实现全画幅拍照、隔空手势操作以及视频通话等各种功能。投屏方式也相当方便，只要手机支持 NFC 功能，只需拿手机碰一下 NFC 标签就能完成投屏。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/15/Leslie/1631695123393092459.png" title="1631695123393092459.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">总的来说，TCL 85X128KMini LED领曜智屏拥有超能科技，天才音画质，不仅能带来影院级别观影体验，还能为你打开当代新型客厅社交模式。更重要的是，当夜幕降临的时候，TCL X12可以带你来一场奇幻的太空之旅！一起来探索吧！</p><p><br></p> 
+  
+</div>
+            
