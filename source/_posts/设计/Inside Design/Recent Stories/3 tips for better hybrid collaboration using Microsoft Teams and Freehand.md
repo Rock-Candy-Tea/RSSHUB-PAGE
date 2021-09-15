@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/microsoft-teams-freehand/'
 author: Inside Design
 comments: false
-date: 2021-09-15 06:08:30
+date: 2021-09-15 07:07:26
 thumbnail: 'https://www.invisionapp.com/inside-design/microsoft-teams-freehand/'
 ---
 
