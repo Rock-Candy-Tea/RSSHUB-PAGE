@@ -1,0 +1,18 @@
+
+---
+title: '怎么最快抢到iPhone13？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-913aa4e359fc88ff3c25d44a7c26534e_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 15 Sep 2021 07:31:31 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-913aa4e359fc88ff3c25d44a7c26534e_1440w.jpg'
+---
+
+<div>   
+太平洋电脑网的回答<br><br><h2>iPhone 13系列购买方式如下↓↓</h2><p>观看完苹果秋季发布会，<b>本次苹果iPhone 13系列可谓加量不加价</b>，iPhone 13 mini的起售价为5199元（128GB），比去年<a href="http://link.zhihu.com/?target=https%3A//product.pconline.com.cn/mobile/apple/1123267.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">iPhone 12 mini</a>的5499元（64GB）还要便宜。</p><p><b>iPhone 13系列有两种购买方式，为线上全款预购和线下预约购买。</b>目前iPhone 13全系<b>线上全款预购将于2021年9月17日晚8:00开始，正式开售将于9月24日开始。</b></p><p><b>线上全款预购：</b>9月17日晚8点预购开始后进入苹果官网购买页面，选择好iPhone型号、存储、配色、填写地址信息和完成支付后，苹果会根据订单的支付顺序发货，消费者最快可于9月24日收到新机。</p><p><b>线下预约购买：</b>9月24日起，消费者可在每天早上（一般是6点左右）进入苹果官网预约当天到附近的苹果直营店购买，预约过程中需选择填写产品的配色、容量、到店时间以及个人信息。</p><p>预约成功的消费者要在规定的时间内到该直营店，凭相关个人信息支付全款完成购机操作。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-913aa4e359fc88ff3c25d44a7c26534e_1440w.jpg" data-caption data-size="normal" data-rawwidth="700" data-rawheight="394" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-913aa4e359fc88ff3c25d44a7c26534e_r.jpg" referrerpolicy="no-referrer"></figure><p>而限购政策上，<b>每位顾客限购2部iPhone 13或2部iPhone 13 Pro</b>，<b>而iPhone 13 mini和iPhone 13 Pro Max则不做限制。</b></p><p>目前<b>iPhone 13 mini的起售价为5199元（128GB）</b>，<b>iPhone 13的起售价为5999元（128GB）</b>，<b>iPhone 13 Pro的起售价为7999元（128GB）</b>，<b>iPhone 13 Pro Max的起售价为8999元（128GB）</b>，各位朋友可以前往苹果的官方网站了解情况。</p><p>码字不易，如果觉得本回答对你有帮助的话可以点赞支持一下，有什么疑问或者想要了解的问题欢迎来评论区跟我交流。</p><p>延伸阅读</p><a href="https://www.zhihu.com/question/486786145/answer/2122102354" data-draft-node="block" data-draft-type="link-card" class="internal">苹果iPhone 13值不值得买？</a><a href="https://www.zhihu.com/question/482994966/answer/2122123233" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-913aa4e359fc88ff3c25d44a7c26534e_bh.jpg" data-image-width="700" data-image-height="394" class="internal">iPhone 13第一时间入手还是等双十一？</a><a href="https://www.zhihu.com/question/486893805/answer/2121486375" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-cf71f5fce687ab8dd3dbec525173c86b_bh.jpg" data-image-width="700" data-image-height="394" class="internal">如何看待 iPad 2021，搭载 A13 芯片，经典设计，有哪些亮点和不足？</a><a href="https://www.zhihu.com/question/486894813/answer/2121330490" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-bb54be030bd72a1557e701d1e57e137a_bh.jpg" data-image-width="1000" data-image-height="563" class="internal">如何评价 Apple Watch Series 7，有哪些值得关注的亮点和不足？</a><a href="https://www.zhihu.com/question/486894115/answer/2121327520" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-d288172d887f8afa5ff61a8dcf4941a7_bh.jpg" data-image-width="700" data-image-height="394" class="internal">如何评价 2021 年 9 月 15 日苹果发布的新款 iPad mini ？有哪些亮点和不足？</a><a href="https://www.zhihu.com/question/486888479/answer/2121290431" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-108257989dd9a4909ae758bd574a46f4_bh.jpg" data-image-width="3360" data-image-height="2100" class="internal">如何评价 9 月 15 日苹果 2021 秋季特别活动，有哪些值得关注的信息？</a><p>以上就是本期回答的全部内容，如果能够给你解答到一些困惑就再好不过了，更多全面、权威、专业的IT资讯服务，请持续关注太平洋电脑网~</p>  
+</div>
+            
