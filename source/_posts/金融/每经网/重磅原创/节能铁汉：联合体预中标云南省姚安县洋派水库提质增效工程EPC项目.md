@@ -1,0 +1,75 @@
+
+---
+title: '节能铁汉：联合体预中标云南省姚安县洋派水库提质增效工程EPC项目'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/82c1b479-e3c2-4c89-9173-0a7c1b570d02_msai_zonglan_pic?nbddata-height=780&nbddata-width=930&type=png'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/82c1b479-e3c2-4c89-9173-0a7c1b570d02_msai_zonglan_pic?nbddata-height=780&nbddata-width=930&type=png'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          节能铁汉：联合体预中标云南省姚安县洋派水库提质增效工程EPC项目
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-09-15 11:47:43
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E5%9B%AD%E6%9E%97%E5%B7%A5%E7%A8%8B" class="typeTag tagColor3">园林工程</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B9%BF%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">广东省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300197" data-stock-code="300197" class="typeTag tagColor1">节能铁汉 <abbr class="highs">+2.3%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="announce-summary" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经AI快讯，</span><span style="white-space: pre-wrap;">节能铁汉（SZ 300197，最新价：3.06元）9月15日午间发布公告称，公司子公司铁汉生态建设有限公司组成的联合体成为姚安县洋派水库提质增效工程EPC项目第一中标候选人。项目估算投资约2.98亿元。</span></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;">2021年半年报显示，节能铁汉的主营业务为生态园林绿化，占营收比例为：100.0%。</p>
+<p style="line-height: 1.6; margin-bottom: 15px; white-space: pre-wrap;">节能铁汉的总裁是王曙光，男，58岁，无境外永久居留权，博士学历，高级工程师，高级经济师。</p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><span class="rss-need-del" style="font-weight: bold;">道达号（daoda1997）“个股趋势”提醒：</span><br>1. 节能铁汉近30日内北向资金持股量减少6.50万股，占流通股比例减少0.00%；<br>2. 近30日内无机构对节能铁汉进行调研。<span class="rss-need-del rss-need-del-toutiao">更多关键信息，请搜索“道达号”。</span></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/82c1b479-e3c2-4c89-9173-0a7c1b570d02_msai_zonglan_pic?nbddata-height=780&nbddata-width=930&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p style="line-height: 1.6; margin-bottom: 15px;"><img src="https://nbd-writer-1252627319.cos.ap-shanghai.myqcloud.com/2a1859d2-4978-4c6a-9081-484f058368c3_msai_zonglan_pic?nbddata-height=978&nbddata-width=750&type=png" width="100%" referrerpolicy="no-referrer"></p>
+<p class="rss-need-del-toutiao" style="line-height: 1.6; margin-bottom: 15px;"><span style="font-weight: bold;">每经头条（nbdtoutiao）——</span><a style="text-decoration: none;" href="http://mp.weixin.qq.com/s?__biz=MzIwNDY3NDMyMw==&mid=2247520316&idx=1&sn=10c24d71350b79ee0f8fd734d40d5e8e&chksm=973e5440a049dd56511e9d76604e45710ae31bf1d91e9a5d756520d75a753a242dc9e0340a9e#rd">专访复旦大学世界经济研究所所长万广华：推进共同富裕是系统工程，不能单靠“第三次分配”解决所有问题</a></p>
+<p class="m-original-right" style="width:100%; text-align:right; font-weight:bold;">(记者 曾健辉)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red;">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
