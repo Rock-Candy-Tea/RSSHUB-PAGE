@@ -1,0 +1,18 @@
+
+---
+title: '你家的猫除了吃你猫粮，让你铲S，做过让你开心的事吗？-匿名用户的回答：我家的猫是上天派来折磨我的················这么说吧，他不动得时候简...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-4177f9f44d921210d9825e4f57b080c9_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 15 Sep 2021 10:53:41 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-4177f9f44d921210d9825e4f57b080c9_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>你家的猫除了吃你猫粮，让你铲S，做过让你开心的事吗？</strong><br>匿名用户的回答<br><p>我家的猫是上天派来折磨我的················</p><p>这么说吧，他不动得时候简直就是人间小可爱，温温柔柔，真想把它摁在怀里使劲撸。</p><p>然鹅···········································································</p><p>它可不是表面上看起来那么乖的猫。</p><p>从领回来到现在，狂犬疫苗已经打完了。为啥，被它咬伤了呗</p><p>而且不止一个伤口，可怜我挨了好几针，哭唧唧~~~~~~~</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-4177f9f44d921210d9825e4f57b080c9_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9bd20463889c1579dbe5303980b01db4_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-4177f9f44d921210d9825e4f57b080c9_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-4177f9f44d921210d9825e4f57b080c9_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>历尽千辛万苦拍到一张可爱的图</figcaption></figure><p>他一动皮起来，分分钟想丢掉，</p><p>为啥这么说，你们能忍受每天早上六点半你睡的倍儿香的时候，在你身上蹦迪的猫吗？</p><p>你拍他下去在猫砂盆里使劲巴拉猫砂，到床底巴拉东西制造噪音的猫吗？</p><p>你以为这只是早上吗？不，这只是一个开始，</p><p>起床刷牙，咬腿，把它用腿掀翻后，他以为我跟他玩，上来就不止咬腿了，看到哪咬哪。</p><p>当着急忙慌的坐在凳子上给脸涂抹水乳防晒的时候，恨不得能打死它，手一动就咬手，阻止拿任何东西，仿佛拿的是它的东西一样，在我忍不可忍，狠狠拍了它好几下之后，又委屈巴巴的装可怜（轻轻拍它没用，它会以为我跟他玩《白眼》）</p><p>不阻止我拿东西后，就跳到我身上，顺着爬到我肩膀上，看着我涂抹水乳，要么就是把我肩膀当做借力点，蹦到另一个凳子上，</p><p>还好它是公的，不然我很怀疑他是个绿茶猫，不过现在我叫他绿茶公猫。</p><p>附带一张睡美图（他睡觉的时候才最乖，醒着很难超级难拍到可爱的图）</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-c3285d8633667427ac4408f4ce4ba88a_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pica.zhimg.com/50/v2-a10390a3122cf844e2dbccbe7d436d04_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-c3285d8633667427ac4408f4ce4ba88a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-c3285d8633667427ac4408f4ce4ba88a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>附带一张睡美图（他睡觉的时候才最乖，醒着很难超级难拍到可爱的图）</figcaption></figure><p>我着急忙慌出门去上班，它会在你开门的时候在你拦都拦不住的速度迅速冲出门外，在门口疯跑好几圈，然后你要拿着猫零食，温柔的叫，慢慢把他吸引到你身边，然后手疾眼快一把摁着，迅速进门扔回床上迅速关门，才能防止二次溜出门，（这一连贯的动作，我现在练得是炉火纯青）</p><p>晚上回来有那么几分钟感觉到是被猫重视的，我每天开门的瞬间都能看到猫从床上或者柜子里面跳出来走向我，应该刚睡醒，会围着我玩，这个时候真的好可爱，心里对小猫满满的爱</p><p>也并不是每次都会围着我玩，但每次都会迎接我是真的，嘻嘻。</p><p>逗猫我都是晚上才有时间跟它玩，接下来又是讨厌他的时刻，为啥这么说</p><p>我家地方比较小，都是在地毯上跟他玩，玩着玩着就有开始咬我手。大概我的手比逗猫棒有吸引力吧。又是讨厌它的时刻，</p><p>他玩逗猫棒玩累的时候，会爬上我的肩膀上，趴在我肩膀上休息，但是他上来的时候，真的是抓的我的背好痛的，我为了跟他玩，总安慰自己忍忍就过去了。</p><p>猫虽然很皮，但我依然很喜欢它</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-3a66fb36f18d0da61a9e41ccedf873e2_720w.jpg?source=54b3c3a5" data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pica.zhimg.com/50/v2-b03ffe9395715002ece88ba71da3d28b_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-3a66fb36f18d0da61a9e41ccedf873e2_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-3a66fb36f18d0da61a9e41ccedf873e2_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>我的猫又双大长腿</figcaption></figure><p></p><p></p><p></p><p></p>  
+</div>
+            
