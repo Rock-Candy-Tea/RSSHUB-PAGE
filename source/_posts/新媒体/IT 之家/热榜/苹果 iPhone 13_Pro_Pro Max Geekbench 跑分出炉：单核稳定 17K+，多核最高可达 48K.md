@@ -1,0 +1,19 @@
+
+---
+title: '苹果 iPhone 13_Pro_Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/9/f1441475-7474-4d8b-b650-194a6fe81ddc.jpg@s_2,w_820,h_656'
+author: IT 之家
+comments: false
+date: Thu, 16 Sep 2021 02:18:16 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/9/f1441475-7474-4d8b-b650-194a6fe81ddc.jpg@s_2,w_820,h_656'
+---
+
+<div>   
+<p data-vmark="8f76"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 16 日消息 今天早些时候<a href="https://www.ithome.com/0/575/750.htm" target="_blank">苹果 iPhone 13 Pro 首个 Geekbench GPU 跑分出炉</a>，提升巨大。据博主 @数码闲聊站 消息，现在 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a> 和 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro</a> 的 CPU 跑分也已经曝光。</p><p data-vmark="b7d9"><img src="https://img.ithome.com/newsuploadfiles/2021/9/f1441475-7474-4d8b-b650-194a6fe81ddc.jpg@s_2,w_820,h_656" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" referrerpolicy="no-referrer"></p><p data-vmark="0c18">跑分显示，<span class="accentTextColor"><a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 13、13 Pro、13 Pro Max 内存分别是 4GB、6GB、6GB</span>，跟之前 <a href="https://www.ithome.com/0/575/776.htm" target="_blank">Xcode 13 代码显示的信息</a>相一致，也就是相比上代没有变化。A15 仿生处理器最高主频 3.23GHz，<span class="accentTextColor">单核跑分稳定 1.7K+，多核最高可达 4.8K</span>。</p><p data-vmark="0c18">这些跑分表明，与 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a> 系列中的 A14 仿生处理器相比，<span class="accentTextColor">A15 单核性能大约提升 10%，多核性能提升 18%。</span></p><p data-vmark="8ab2"><img src="https://img.ithome.com/newsuploadfiles/2021/9/93929d38-66f6-4fdb-9ca8-040d93dcd41c.jpg" w="690" h="961" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="961" referrerpolicy="no-referrer"></p><p data-vmark="412a"><img src="https://img.ithome.com/newsuploadfiles/2021/9/62c528f9-da71-4361-8ba8-fb994325b0ff.jpg" w="690" h="961" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="961" referrerpolicy="no-referrer"></p><p data-vmark="84d3"><img src="https://img.ithome.com/newsuploadfiles/2021/9/23e7b69e-58b7-4a62-9052-1cca4b52a1e1.jpg" w="690" h="963" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="963" referrerpolicy="no-referrer"></p><p data-vmark="e8a1">对比一下，目前的<a class="s_tag" href="https://android.ithome.com/" target="_blank">安卓</a>旗舰芯骁龙 888+、麒麟 9000、Exynos2100 跑分如下：</p><p data-vmark="fe91"><img src="https://img.ithome.com/newsuploadfiles/2021/9/dd8bc563-b85c-43ae-9fbd-a5b8e662a45a.jpg" w="690" h="991" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="991" referrerpolicy="no-referrer"></p><p data-vmark="0430"><img src="https://img.ithome.com/newsuploadfiles/2021/9/fa915156-f023-4f5e-bace-6f18f22edf94.jpg" w="690" h="997" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="997" referrerpolicy="no-referrer"></p><p data-vmark="29c0"><img src="https://img.ithome.com/newsuploadfiles/2021/9/ead422e2-abc6-4099-889a-cf0ffb6def3b.jpg" w="690" h="999" title="苹果 iPhone 13/Pro/Pro Max Geekbench 跑分出炉：单核稳定 1.7K+，多核最高可达 4.8K" width="690" height="999" referrerpolicy="no-referrer"></p><p data-vmark="5452">IT之家了解到，苹果 iPhone 13 系列机型采用 A15 芯片，拥有 6 个 CPU 内核，包括 2 个性能核心和 4 个能效核心。iPhone 13 和 iPhone 13 Pro 具有相同的 CPU，但在 GPU 方面有所不同。iPhone 13 和 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 mini</a> 配备 4 核 GPU，而 iPhone 13 Pro 和 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro Max</a> 配备 5 核 GPU。苹果表示，iPhone 13 Pro 系列图形处理器较主要竞品最多可提速 50%，能够为视频 App、高性能游戏，以及一系列全新相机功能提供支持。</p>
+          
+</div>
+            
