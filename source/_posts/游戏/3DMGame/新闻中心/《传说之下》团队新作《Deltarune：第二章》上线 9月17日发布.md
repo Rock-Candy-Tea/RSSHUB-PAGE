@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210916/1631764781_7908
 
 <div>   
 <p style="text-indent:2em;">
-今日（9月16日），《<a target="_blank" href="https://www.3dmgame.com/games/undertale/">传说之下</a>》作者Toby Fox在推特上发布新作《Deltarune：第二章》最新消息，该作很快将于9月17日正式上线PC以及Mac平台，作者Toby Fox曾在2018年在Deltarune官网上免费发布《Deltarune：第一章》，而《Deltarune：第二章》原计划去年便发布，但之后沉寂很长一段时间后，作者在近期才准备发布该作。
+今日（9月16日），《传说之下》作者Toby Fox在推特上发布新作《Deltarune：第二章》最新消息，该作很快将于9月17日正式上线PC以及Mac平台，作者Toby Fox曾在2018年在Deltarune官网上免费发布《Deltarune：第一章》，而《Deltarune：第二章》原计划去年便发布，但之后沉寂很长一段时间后，作者在近期才准备发布该作。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210916/1631764781_790873.jpg" alt="《传说之下》团队新作《Deltarune：第二章》上线 9月17日发布" referrerpolicy="no-referrer"> 
