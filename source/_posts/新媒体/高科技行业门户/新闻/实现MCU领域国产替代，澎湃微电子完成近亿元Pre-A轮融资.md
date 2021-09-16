@@ -1,0 +1,19 @@
+
+---
+title: '实现MCU领域国产替代，澎湃微电子完成近亿元Pre-A轮融资'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=3326'
+author: 高科技行业门户
+comments: false
+date: Thu, 16 Sep 2021 10:18:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3326'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">投资界9月16日消息，近日，厦门澎湃微电子有限公司（以下简称：澎湃微）完成了近亿元PreA轮融资，本轮融资由华义创投和湖杉资本领投，啟赋资本、深圳华强（代码：000062）、徕木股份（代码：603633）跟投。融资资金将用于澎湃微新品研发、生产投入以及人才建设等。</p><p style="text-indent: 2em; text-align: left;">澎湃微成立于2019年，是一家以<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-32%E4%BD%8DMCU.HTM" target="_blank" title="32位MCU">32位MCU</a></span>为主营方向的<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1.HTM" target="_blank" title="集成电路设计">集成电路设计</a></span>公司（fabless），在上海、深圳、厦门建立了多个研发中心。公司产品除了通用与细分领域<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span>（32位／8位）外，还有24位高精度ADC等模拟芯片。产品市场涵盖<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2832-IndustrialControl.html" target="_blank" title="工业控制">工业控制</a></span>、<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2825-ConsumerElectronics.html" target="_blank" title="消费电子">消费电子</a></span>、物联网、医疗健康、BLDC电机控制、小家电等领域。</p><p style="text-indent: 2em; text-align: left;">作为数字端的MCU的初创企业，澎湃微电子自2019年成立以来，快速地在通用和细分市场推出5个系列M0和M3的32位MCU，在超低功耗、超强抗干扰能力、个别芯片性能（如内置时钟温漂）达到国际先进水平，芯片品质国内领先，同时产品还有较好的性价比。公司产品已经大量应用在汽车、医疗、工业控制、仪器仪表、消费电子等领域。</p><p style="text-indent: 2em; text-align: left;">华义创投表示，MCU作为大品类IC，面向的应用场景多而广，随着智能设备的渗透，MCU会得到越来越多的应用，短期很难出现一家独大的局面，是一个非常适合创业团队长期耕耘的赛道。MCU是一种做出来容易但是做好难的产品，目前国产化率还比较低，澎湃微作为MCU行业的老兵创业公司，低调务实，对MCU技术、产品和市场的理解非常深刻，产品也相应获得了各类头部客户的认可，我们相信，同时也愿意与澎湃微团队共同成长、努力，成为国产MCU行业的一支重要力量。</p><p style="text-indent: 2em; text-align: left;">深圳华强表示，MCU作为<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F.HTM" target="_blank" title="嵌入式">嵌入式</a></span>电子系统的核心，是公司CVC投资持续重点关注的方向之一。澎湃微核心团队拥有较强的创新产品定义能力，有发展专用MCU的潜力。因此，本次投资将有助于进一步拓展公司CVC投资覆盖的产业范围，集聚更丰富的产业资源；公司也将借助本次投资形成的良好关系，积极推动和澎湃微开展产品分销等方面的深度合作，以公司的综合服务能力赋能澎湃微发展。</p><p style="text-indent: 2em; text-align: left;">湖杉资本表示，团队专注MCU设计15年以上，以往累计出货超过2亿颗MCU芯片，平均50ppm级别，达到了国际一流的工控品质。澎湃微有丰富的32位MCU的设计经验，2020年成功量产4颗32位MCU，并且目前都已经稳定出货。市场方面，成立2年的时间，澎湃微的产品已批量应用在<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2824-Automotive.html" target="_blank" title="汽车电子">汽车电子</a></span>、<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2823-MedicalElectronics.html" target="_blank" title="医疗电子">医疗电子</a></span>、工业和消费类电子等各种领域。湖杉资本看好澎湃微在MCU领域国内的优势地位，也会坚定持续支持公司发展。</p><p style="text-indent: 2em; text-align: left;">啟赋资本表示，MCU芯片研发难度大、周期长，团队要有很强的技术能力，还要有足够的耐性，澎湃微是一支具备从研发到量产完整经验的团队。当前<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>行业正面临一轮深度的缺货周期，每一轮周期对于国内<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86.HTM" target="_blank" title="芯片厂商">芯片厂商</a></span>都带来较好的市场机会，国内厂商更能适应本地市场需求、更好的支持服务，这也是国内厂商在市场竞争中的优势。期待澎湃微在中高端MCU领域为实现国产替代添砖加瓦。</p><p style="text-indent: 2em; text-align: left;">徕木股份表示，我们是专业从事以连接器和屏蔽罩为主的精密<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%94%B5%E5%AD%90%E5%85%83%E4%BB%B6.HTM" target="_blank" title="电子元件">电子元件</a></span>研发、生产和销售的公司，产品目前主要应用在通讯及汽车领域，现逐步将自身所积累的优势向消费电子和其他领域扩展。MCU作为嵌入式电子系统的核心，澎湃微团队在32位MCU设计方面有着丰富的经验，通过本次投资公司和澎湃微建立起深度的联结，为后续的产品合作进行铺垫，实现互助共赢的局面。</p><p style="text-indent: 2em; text-align: left;">澎湃微董事长钟旭恒非常感谢此轮投资人对澎湃微事业的支持。此次融资不仅使澎湃微获得了充裕的资金，还增强了与下游的联系，使澎湃微在汽车电子、工业控制、AIoT等领域，能够接触到较前沿的需求，为将来的产品提前布局。澎湃微目前已经越过创业之初的危险期，拥有了广泛的客户基础，此次融资之后，澎湃微会加大创新产品的研发力度，与业界领先的合作伙伴一起，推出全球领先、创新架构的新一代MCU产品。目前MCU领域的国产替代正在全面加速，澎湃微将坚持替代与创新并行，努力推动国产MCU的发展和超越！</p><p style="text-indent: 2em; text-align: left;">作者：Iris来源：投资界</p> 
+  
+</div>
+            
