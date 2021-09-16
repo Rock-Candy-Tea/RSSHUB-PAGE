@@ -1,0 +1,19 @@
+
+---
+title: '苹果 iPhone 13_Pro_Pro Max 部分型号首支持双 SIM 卡_双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/9/c9c7f935-bf6d-4dae-86d6-bf5b32deb464.png'
+author: IT 之家
+comments: false
+date: Wed, 15 Sep 2021 07:04:15 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/9/c9c7f935-bf6d-4dae-86d6-bf5b32deb464.png'
+---
+
+<div>   
+<p data-vmark="b9ed"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 15 日消息 苹果今日凌晨正式发布了 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a> 系列手机，包括 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 mini</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 13、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro Max</a> 四款机型，售价 5199 元起。</p><p data-vmark="27ee"><img src="https://img.ithome.com/newsuploadfiles/2021/9/c9c7f935-bf6d-4dae-86d6-bf5b32deb464.png" w="1440" h="446" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1440" height="254" referrerpolicy="no-referrer"></p><p data-vmark="a153">苹果在 2018 年通过 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone X</a>R 和 iPhone XS 在 iPhone 上引入了 eSIM 卡支持。然而，虽然你可以同时使用普通 SIM 卡和 eSIM 卡，但没有办法同时使用两个 eSIM 卡，而现在苹果带来了解决方案。至少在美国地区 iPhone 13 和 iPhone 13 Pro 首次实现了对双 eSIM 卡支持。</p><p data-vmark="d335">苹果在 iPhone 13 美国官网规格网页上确认了这项新功能。苹果表示，iPhone 13 系列机型支持双卡，同时使用普通 SIM 卡和 eSIM 卡，以及该公司称之为“双 eSIM”。如果你查看 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a> 或前几代产品的网页，只提到了组合式双卡支持。</p><p data-vmark="85c3">下面是是美国地区 iPhone 13 mini、iPhone 13、iPhone 13 Pro 和 iPhone 13 Pro Max 的 SIM 卡支持规格。</p><p data-vmark="a2a5"><img src="https://img.ithome.com/newsuploadfiles/2021/9/a4f1d8c0-1fdc-42fe-87af-a88aed35649d.png" w="1240" h="254" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1240" height="168" referrerpolicy="no-referrer"></p><ul class=" list-paddingleft-2"><li><p data-vmark="fa85">双卡 (nano-SIM 和 eSIM)</p></li><li><p data-vmark="f543">双 eSIM 卡支持</p></li><li><p data-vmark="3399">iPhone 13 和 iPhone 13 mini 与现有的 micro‑SIM 不兼容。</p></li></ul><p data-vmark="a94d">IT之家获悉，在国行 iPhone 13 系统手机配置页面上，iPhone 13 mini 仍然限制支持单 nano-SIM 卡。iPhone 13、iPhone 13 Pro、iPhone 13 Pro Max 支持双卡 (nano‑SIM 卡)。</p><p data-vmark="6153"><img src="https://img.ithome.com/newsuploadfiles/2021/9/4376665a-4e2f-4987-969a-a8702e9f3bc0.png" w="1221" h="225" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1221" height="151" referrerpolicy="no-referrer"></p><p data-vmark="2780"><img src="https://img.ithome.com/newsuploadfiles/2021/9/cb7d0436-1c6d-4ae8-9308-6853a5dd6235.png" w="1226" h="214" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1226" height="143" referrerpolicy="no-referrer"></p><p data-vmark="ac2c">在发布会上，苹果还提到，iPhone 13 系列机型支持更多的 5G 频段，这应该能在更多国家和地区实现新的更快的网络。</p><p data-vmark="ded0"><img src="https://img.ithome.com/newsuploadfiles/2021/9/d9b1967a-aa99-4be0-a128-a237f5b7553e.png" w="1334" h="989" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1334" height="608" referrerpolicy="no-referrer"></p><p data-vmark="8550"><img src="https://img.ithome.com/newsuploadfiles/2021/9/3f608084-ae1f-4463-94e9-c6b5a113c47b.png" w="1279" h="982" title="苹果 iPhone 13/Pro/Pro Max 部分型号首支持双 SIM 卡/双 eSIM 卡，iPhone 13 mini 国行仍为单 SIM 卡" width="1279" height="630" referrerpolicy="no-referrer"></p><p data-vmark="bb1d">点击访问：<a href="https://apple.pvxt.net/c/1255290/435400/7639?u=https://www.apple.com/cn/" target="_blank">苹果中国官方在线商店</a></p>
+          
+</div>
+            
