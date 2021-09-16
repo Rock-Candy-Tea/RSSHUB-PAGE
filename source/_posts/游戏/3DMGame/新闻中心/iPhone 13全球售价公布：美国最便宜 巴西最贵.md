@@ -76,61 +76,59 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210916/1631780066_2451
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20210916/1631780079_482855.jpg" alt="iPhone 13全球售价公布：美国最便宜 巴西最贵" referrerpolicy="no-referrer">
 </p>
-<div>
-<p>
+<p style="text-indent:2em;">
 <span style="font-size:16px;color:#E56600;"><strong>iPhone 13 Pro（128GB）</strong></span>
 </p>
-<p>
+<p style="text-indent:2em;">
 最贵地区：
 </p>
-<p>
+<p style="text-indent:2em;">
 土耳其：12186元
 </p>
-<p>
+<p style="text-indent:2em;">
 巴西：11648元
 </p>
-<p>
+<p style="text-indent:2em;">
 挪威：10489元
 </p>
-<p>
+<p style="text-indent:2em;">
 最便宜地区：
 </p>
-<p>
+<p style="text-indent:2em;">
 美国：6425元
 </p>
-<p>
+<p style="text-indent:2em;">
 中国香港：7024元
 </p>
-<p>
+<p style="text-indent:2em;">
 日本：7221元
 </p>
-<p>
+<p style="text-indent:2em;">
 <strong><span style="color:#E56600;font-size:16px;">iPhone 13 Pro Max（128GB）</span></strong>
 </p>
-<p>
+<p style="text-indent:2em;">
 最贵地区：
 </p>
-<p>
+<p style="text-indent:2em;">
 土耳其：12186元
 </p>
-<p>
+<p style="text-indent:2em;">
 巴西：11648元
 </p>
-<p>
+<p style="text-indent:2em;">
 挪威：10489元
 </p>
-<p>
+<p style="text-indent:2em;">
 最便宜地区：
 </p>
-<p>
+<p style="text-indent:2em;">
 美国：7068元
 </p>
-<p>
+<p style="text-indent:2em;">
 中国香港：7768元
 </p>
-<p>
+<p style="text-indent:2em;">
 日本：7926元
-</p>
-</div>          
+</p>          
 </div>
             
