@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210916/b12aac494023e29df793cb9342be7881.png'
 author: Dockone
 comments: false
-date: 2021-09-16 03:07:56
+date: 2021-09-16 04:09:16
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210916/b12aac494023e29df793cb9342be7881.png'
 ---
 
@@ -29,12 +29,7 @@ top:<br>
 </div>
 <br>
 <br>可以看到，topic比较好的解决了容器运行信息的问题：<br>
-- topic查看的load average是2.03，而top查看到的是1.31（实为宿主机的load average）<br>
-- topic查看到的CPU使用率，其us为99.8%，而top查看到的是13.2%（实为宿主机的us信息）<br>
-- topic查看到的Mem是1Gi，而top查看到的是16Gi（实为宿主机的内存信息）<br>
-- topic查看到的user数是11，而top查看到的user数是1（实为宿主机的当前登录用户数）<br>
-- topic查看到的容器运行时间为2days 10:35，而top查看到的是20days 1:57（实为宿主机的运行时间）<br>
-- topic和top的进程相关信息显示基本一致。<br>
+<ul><li>topic查看的load average是2.03，而top查看到的是1.31（实为宿主机的load average）</li><li>topic查看到的CPU使用率，其us为99.8%，而top查看到的是13.2%（实为宿主机的us信息）</li><li>topic查看到的Mem是1Gi，而top查看到的是16Gi（实为宿主机的内存信息）</li><li>topic查看到的user数是11，而top查看到的user数是1（实为宿主机的当前登录用户数）</li><li>topic查看到的容器运行时间为2days 10:35，而top查看到的是20days 1:57（实为宿主机的运行时间）</li><li>topic和top的进程相关信息显示基本一致。</li></ul><br>
 <br>如果您需要试用，可以<a href="https://silenceshell-1255345740.cos.ap-shanghai.myqcloud.com/topic/topic">下载</a>topic到容器中运行（记得加上执行权限），好用可以给个Star ^_^<br>
 项目地址 <a href="https://github.com/silenceshell/topic"></a><a href="https://github.com/silenceshell/topic" rel="nofollow" target="_blank">https://github.com/silenceshell/topic</a>
                                                                 <div class="aw-upload-img-list">
