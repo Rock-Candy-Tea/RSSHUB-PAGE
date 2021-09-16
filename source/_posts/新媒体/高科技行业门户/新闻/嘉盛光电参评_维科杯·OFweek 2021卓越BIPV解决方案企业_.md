@@ -1,0 +1,19 @@
+
+---
+title: '嘉盛光电参评_维科杯·OFweek 2021卓越BIPV解决方案企业_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/16/guanghua/1631790830508088720.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 16 Sep 2021 11:12:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/16/guanghua/1631790830508088720.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2021年9月28日－10月9日进入网络投票环节，最终获奖结果将于10月21日在深圳举办的“OFweek 2021（第十二届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>保定嘉盛光电科技股份有限公司已正式参评“维科杯·OFweek 2021卓越BIPV解决方案企业”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-indent: 2em; text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/16/guanghua/1631790830508088720.png" referrerpolicy="no-referrer"></strong></p><p style="text-indent: 2em; text-align: center;">图片来源：<span style="text-indent: 32px;">嘉盛光电</span></p><p style="text-indent: 2em; text-align: left;">保定嘉盛光电科技股份有限公司（简称“嘉盛光电”，英文名称“GAIN SOLAR”）是业内最具成长性的创新型企业，以发展低碳节能为己任，积极参与国家发展新能源和节能减排战略，致力打造中国高端光伏绿色建材领先品牌，是国内领先的光伏建筑一体化解决方案提供商。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek 2021卓越BIPV解决方案企业</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">嘉盛光电专注于在可再生能源在建筑领域的应用技术开发与研究，专业设计、生产光伏绿色建材，且建有省级光伏建筑一体化技术创新中心，为客户提供优质的光伏建筑一体化解决方案，致力打造中国高端光伏绿色建材领先品牌，是国内领先的光伏建筑一体化解决方案提供商。</p><p style="text-indent: 2em; text-align: left;">拥有两百多家长期合作客户，近三年产品河北省市场占有率平均为50％以上，居省内第一，国内市场占有率均为40％以上，名列前茅。</p><p style="text-indent: 2em; text-align: left;">公司拥有授权专利129件，其中发明专利11件，均与公司主要产品相关。在建材行业，获得TUV、CTC、CQC、CGC等认证机构首张／批光伏绿色建材行业认证证书，产品既满足光伏标准，也满足建筑的安装规范和可靠性要求。其自主研发的“青砖、黛瓦、琉璃”BIPV系列产品，成功应用到“光伏＋被动式＋智能化”示范建筑上，通过光伏青砖与被动式技术、智能化管理的无缝衔接，保持高发电量的同时，与建筑完美结合，将建筑被动节能升级为主动产出绿色能源，建成近零碳绿色示范建筑。</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">参评仍在火热进行中，有意参评企业可联系点击链接</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">维科杯OFweek 2021太阳能光伏行业年度评选</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;"><a href="https://www.ofweek.com/award/2021/solar/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration-line: none;">https：／／www．ofweek．com／award／2021／solar／</a></p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">同期举办OFweek 2021（第十二届）太阳能光伏产业大会</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;"><a href="https://www.ofweek.com/seminar/2021/solar/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration-line: none;">https：／／www．ofweek．com／seminar／2021／solar／</a></p> 
+  
+</div>
+            
