@@ -1,0 +1,18 @@
+
+---
+title: 'GoPro Hero10 Black 正式登场，全新 GP2 处理器带来更高像素、更顺滑画面'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143421f622768c7ae00002e_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 16 Sep 2021 05:49:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143421f622768c7ae00002e_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202109/6143421f622768c7ae00002e_1024.jpg" data-height="1000" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143421f622768c7ae00002e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="zaker_div"><div class="zk_decsimg zk_alignleft"><p>GoPro Hero10 Black</p></div><div class="edi_oper"></div></div><p></p><p>GoPro Hero10 Black 正式登场，这次还受惠于全新的 GP2 处理器和 23.6MP CMOS，让这台运动相机可以有更高像素、更顺滑画面，同时也增强了无线和有线的连接性。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202109/6143421f622768c7ae00002f_1024.jpg" data-height="1000" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143421f622768c7ae00002f_1024.jpg" referrerpolicy="no-referrer"></div></div>就如早前<a class="link rapid-noclick-resp" href="http://iphone.myzaker.com/zaker/link.php?pk=6143423a7f780bc620000001&b=aHR0cHM6Ly9jbi5lbmdhZGdldC5jb20vZ29wcm8taGVyby0xMC1ibGFjay1hY3Rpb24tY2FtZXJhLWxlYWstMTEwMDEwNjI4Lmh0bWw=&bcode=6af92ac1&target=_new" data-ylk="slk: 爆料内容 " target="_blank">爆料内容</a>所说，GoPro 通过新的 GP2，给 Hero10 Black 有着最高 5.3K / 60p 的超高清、流畅画质，同时也有 4K / 120p 和 2.7K / 240p 的更流畅画面选项。配合新一代的 HyperSmooth 4.0 视频稳定技术，这回 Hero10 Black 是对着多大的摇晃，相信都能带来足够稳定而且顺畅的画面。<p></p><p>作为相机，Hero10 Black 能拍摄更高像素的 23MP 静态相片，同时受惠于新处理器更强大的运算，其低光表现都会有所提升。此外，使用者还可以在 5K /30p 的 4:3 视频之中，截取 19.6MP 的相片；或是在 5.3K /60p 视频之中，截取 15.8MP 的相片。前代新增的前置屏幕，这次在 Hero10 上也提升了刷新率，以提供更畅顺的预览效果。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/6143421f622768c7ae000030_1024.jpg" data-height="1000" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/6143421f622768c7ae000030_1024.jpg" referrerpolicy="no-referrer"></div></div>在 Hero10 Black 拍下精彩画面后，当然是要马上分享到社交平台。GoPro 这回更是提供了有线的 USB 连接，让使用者可以直接把 Hero10 跟手机连线，传输速度会较无线快近 50%，对于传输高画质的视频，就更是实用。不过 GoPro 同时也提升了无线传输速度，说是 Hero10 会较前代快 30% 的。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/6143421f622768c7ae000031_1024.jpg" data-height="1000" data-width="1600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/6143421f622768c7ae000031_1024.jpg" referrerpolicy="no-referrer"></div></div>GoPro 继续强调云端服务，所以这回 GoPro Hero10 Black 的定价，同样是以连 GoPro 订阅服务的比较便宜，要 399.98 美元；净定价为 499.99 美元。同时 GoPro 再为新相机加入了自动备份的新能力，Hero10 在充电的时候，就可以设定为自动备份到云端，省下不少时间。<p></p><p>至于现有 GoPro 服务的订阅用户，更可以用同样的 400 美元入手 Hero10 连配件包，会附送价值 150 美元的三脚架连延展杆、磁力支架、备用电池和 32GB 记忆卡。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
