@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 13 四款新品机型中，哪款最值得买？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-4ff1eafb4929337efd29779cf7f3629b_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 17 Sep 2021 04:54:39 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-4ff1eafb4929337efd29779cf7f3629b_1440w.jpg'
+---
+
+<div>   
+南瓜酥的回答<br><br><p>iPhone 13系列这次的刀法比较一般，个人感觉，没有12系列的定位精准。</p><p>目前我认为最值得买并打算入手的是13 Pro。下面展开讲一讲吧。</p><h2>iPhone 13 mini   没有新花样</h2><p>并没有搞出什么新的花样。</p><p>还是和12 mini一样的5.4寸屏幕（刘海缩小了20%），一样的直角边框，一样的支持5G但不支持双卡。</p><p>充电速度不变，还是20W，不送充电头。</p><p>最大的升级在于A15芯片，默秒全。再有就是摄影方面，下放了去年12PM上主摄和位移式光学防抖，拍照能力大增强。可惜依然没有长焦。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4ff1eafb4929337efd29779cf7f3629b_1440w.jpg" data-rawwidth="1627" data-rawheight="934" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-2c1db3a16290c7c00e197f1a7477ec3a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4ff1eafb4929337efd29779cf7f3629b_r.jpg" referrerpolicy="no-referrer"><figcaption>镜头的位置也调整了下，从竖向排列改为了斜对角排列</figcaption></figure><p>视频拍摄能力也有了提升，支持4K60帧、电影效果模式（可以自由切换焦点）。</p><p>重量从133g，上升到了140g，区别不大。</p><p>价格则分别是5199（128G）、5999（256G）、7599（512G）。</p><p>个人认为如果你喜欢小屏，不妨等12 mini降价。</p><p><br></p><h2>iPhone 13   加量还降价</h2><p>相比mini，最大的优点是屏幕变成了6.1英寸。</p><p>——这才是普通用户最适合的大小，在各种大屏设备的熏陶下，mini的尺寸对普通用户来说着实有点小了。</p><p>其他方面则变化不大，和mini同样的镜头模组（12PM主摄+位移式光学图像防抖），同样的A15芯片，同样的20W超速充电。</p><p>总之，纸面性能上没什么区别。</p><p>体型上，7.65mm厚度+173g机身，相比iPhone 12稍微提升，但依然非常轻薄。</p><p>价格方面分别是5999（128G）、6799（256G）、8399（512G）。</p><p>相比去年iPhone 12，价格下降了300-500，同时起步储存版本从64G变成了128G，良心。</p><h2>iPhone 13Pro   无阉割，真正的Pro</h2><p>和13标准版相比，最明显的变化是后置镜头，从两个变成了三个。</p><p>后盖从光面玻璃，变成了磨砂玻璃；中框从铝合金变成了不锈钢。</p><p>以及屏幕方面，最大亮度从600尼特升级到了1000尼特。</p><p>还第一次支持了120Hz高刷新率，带ProMotion的，能10-120Hz动态调节，达到更加省电的效果。</p><p><br></p><p>再有就是影像方面了，Pro这次的升级很大，后置1200万像素广角+1200万像素超广角+1200万像素长焦，以及一颗LiDAR镜头。</p><p>这一套镜头的素质相比12P都有了提升，而且很全面，补全了标准版缺失的长焦。同时视频拍摄方面，支持杜比视界4K60帧，ProRes支持4K30帧（128G只支持1080P 30帧），电影模式的焦距切换也非常实用。</p><p>最重要的是，13 Pro和13 ProMax的影像配置一模一样。</p><p>这才是真的Pro啊，去年那被阉割成啥样了都。</p><p>重量方面Pro有所上升，变成了203g；厚度则还是和13标准版一样，7.5mm。</p><p>另外值得一提的是，Pro的A15芯片，比标准版/mini版的多了一个GPU核心，打游戏时的表现会更强。</p><p>价格方面，分别为7999（128G）、8799（256G）、10399（512G）、11999（1TB）。</p><p>个人最推荐并且打算买256G的版本，等今晚开卖了。</p><p><br></p><h2>iPhone 13 ProMax   大，就是好</h2><p>今年的PM相比Pro，区别真的很小，</p><p>两者是同样的满血A15，同样的120Hz高刷，同样的摄影模组，同样的充电速度。</p><p>唯一不同的就是机身尺寸。Pro是6.1寸屏幕，PM是6.7寸。</p><p>厚度重量方面，PM的厚度和Pro一样，不过重量达到了史无前例的238g，加个保护壳，真的是半斤机了。</p><p>机身变大了，电池的空间自然也更大了。</p><p>因为PM的续航有了显著增长，官方宣称视频播放时长可达28小时，远超Pro的22小时，标准版的19小时以及mini版的17小时。</p><p>价格方面分别为8999（128G）、9799（256G）、11399（512G）、12999（1TB）。</p><p>如果喜欢大屏幕的话，还是可以冲的，同版本就比Pro贵了1000块。</p><p><br></p><h2>最后再提醒一下</h2><p>这次13系列依然是不送充电头的，如果打算买，记得自己先搞个，买个国内第三方的就可以了：</p><p>图拉斯小冰块就不错，领券后价格只有原装一半，同样支持PD20W，体积也很轻巧。</p><p>我12用的就是它，看来再买台13也能接着用了，库克给我省钱了属于是。</p><p>-</p><p>全家桶用户，更多苹果产品的测评体验，请看下面：</p><p><a href="https://www.zhihu.com/question/459522427/answer/1937291324" class="internal">iPad Pro 2021 款有人收到货了吗？使用体验如何？</a></p><p><a href="https://www.zhihu.com/question/352991503/answer/1755135886" class="internal">AirPods Pro值得购买吗？</a></p><p><a href="https://www.zhihu.com/question/347373008/answer/1776906139" class="internal">Apple Watch 哪种表带戴起来最舒服，性价比最高？</a></p><p><a href="https://www.zhihu.com/question/458086760/answer/1876411969" class="internal">2021年iPad怎么选？看这篇全系列选购指南就够了！</a></p><p><a href="https://www.zhihu.com/question/420012804/answer/1525329696" class="internal">iPhone 12如何选购？ 哪一款才是真香机？</a></p>  
+</div>
+            
