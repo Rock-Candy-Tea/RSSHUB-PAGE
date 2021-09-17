@@ -1,0 +1,19 @@
+
+---
+title: 'IMAX Enhanced认证智屏真的强！TCL 98X9C受影音爱好者青睐！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861122462022245.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 17 Sep 2021 06:39:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861122462022245.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">IMAX所提供的观影体验瞬间可以打开观影者的视听神经，在一定程度上已经成为“视听盛宴”的一个具象化落地。对影音爱好者来说，自然是希冀在家中也能享受到极具IMAX特色的观影畅爽感与沉浸感。如何才能获得这样的观影体验呢？IMAX Enhanced认证设备或许是最佳答案。</p><p style="text-indent: 2em; text-align: left;">IMAX Enhanced是由全球领先的音视频解决方案提供者IMAX和DTS携手打造的全新的家庭娱乐授权及认证项目，也是目前唯一能够在影院外体验到IMAX标志性的惊艳画质、出色音质及超大画幅的家庭娱乐项目。从设备到片源、从软件到硬件，一旦通过认证就意味着影音体验的品质有了足够的保障。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861122462022245.png" title="1631861122462022245.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">据了解，想要通过IMAX Enhanced认证是相当难的！在音质方面，通过IMAX Enhanced认证的电视、功放、回音壁等影音设备，不仅低音效果震撼，而且具备丰富的层次感，能够给消费者的观影过程营造出极佳的沉浸式体验。此外，IMAX Enhanced也着重加强了关于画质表现力的要求。在每一款电视产品研发的初期，IMAX Enhanced技术团队就会与厂商建立合作关系，因为认证体系所需要满足的950项标准，并不是通过后期的简单软件调整就可以达成的。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861139586017991.png" title="1631861139586017991.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">目前，全球市场加入这一认证体系的<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-8321305-tv.html" target="_blank" title="显示器">显示器</a></span>设备类品牌仅仅只有4家。而家电头部品牌TCL就是其中之一。那通过IMAX Enhanced认证的电视设备又会带来怎样的观影体验呢？以TCL 98X9C IMAX Enhanced巨幕智屏为例给大家介绍一下吧。</p><p style="text-indent: 2em; text-align: left;">首先，TCL 98X9C的屏幕尺寸达到了惊人的98英寸，这块巨幕大屏能带来更宽的视野和更多的<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>内容，让每一个用户在家就能享受到媲美IMAX影院般的畅爽体验。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861147257041570.png" title="1631861147257041570.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">除了尺寸够大之外，TCL98X9C的音画质也是足够优秀，搭载了量子点Pro技术，拥有惊人的192个分区背光，可同步实现157％超高色域覆盖率、58．3％色纯度提升、10年屏幕色彩不褪色、1千万：1对比度和800nit峰值亮度等多重画质优势。更多层次的色彩表现和更丰富的明暗细节，使得整体画面更纯净自然。再结合魅丽珑调色芯片、Q画质引擎和全生态HDR等<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8300-display.html" target="_blank" title="显示技术">显示技术</a></span>配置，能通过AI算法精准还原不同画面下的所有细节。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861154167099213.png" title="1631861154167099213.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在音质方面，TCL98X9C与顶级家庭影院品牌安桥合作，搭载了安桥Hi－Fi音响，具有5单元50W功率，拥有超大冲程低音炮，丝膜球顶高音振膜。此外，TCL98X9C还有杜比全景声加持，使得无论是电影里的跑车轰鸣声、枪战的子弹声还是水滴落地的声音都能声声入耳，为用户带来极具空间感的沉浸式流动音效，让观影“声”临其境。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861165260042702.png" title="1631861165260042702.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">值得一提的是，凭借顶级的音画质，TCL98X9CIMAXEnhanced巨幕智屏已取得了IMAXEnhanced专业认证。这也意味着在家就可以体验电影院的IMAX Enhanced观影效果。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/17/Leslie/1631861174758009948.png" title="1631861174758009948.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">总的来说，影音爱好者所追求的高质量的IMAX影音体验是可以在家中实现的，IMAX Enhanced的出现不仅将IMAX标志性的画质、音质带到了用户家中，同时也一定程度上推动了行业发展，让更多用户和厂商关注到影院级视听体验的重要性。</p> 
+  
+</div>
+            
