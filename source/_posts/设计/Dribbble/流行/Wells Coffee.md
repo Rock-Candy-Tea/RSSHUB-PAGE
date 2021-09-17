@@ -5,16 +5,16 @@ categories:
  - 设计
  - Dribbble
  - 流行
-headimg: 'https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=400x300'
+headimg: 'https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=400x300'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=400x300'
+thumbnail: 'https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=400x300'
 ---
 
 <div>   
 <div class="media-content">
-      <img class="lrg-16x12" alt="Wells Coffee florida coffee branding coffee bird pelican hat patch lockup badge modern illustration branding typography logo" width="768" height="579" data-id="11179672" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/52084/screenshots/16455683/media/7ebf311ee29844eebabb3ae201553a5e.jpg?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
+      <img class="lrg-16x12" alt="Wells Coffee waves florida coffee merch apparel pin enamel pin lockup badge modern illustration branding typography logo" width="768" height="579" data-id="11179715" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/52084/screenshots/16455722/media/99d962ca33d16cfb5bafc6fce7156465.jpg?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>
