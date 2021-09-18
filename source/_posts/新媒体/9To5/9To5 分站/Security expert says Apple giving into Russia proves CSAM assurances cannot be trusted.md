@@ -34,7 +34,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 <p>Apple spent the entire summer telling the public that they were confident they could resist government pressure, when defending their CSAM scanning system. Today they’re pulling voting guides from the Russian App Store. What changed in a month?</p>
 <p>Apple’s defense of removing voting guides is that they have to obey the law of the nations they operate in. And yet if legislators demand they expand their image scanning corpus, they say they will refuse. They intend to break the law in that case, but not this one?</p>
 </blockquote>
-<p>A Russian citizen replied saying <a href="https://twitter.com/gjardharr/status/1438847202152132609" target="_blank" rel="noreferrer noopener">that’s not all</a>.</p>
+<p>A Russian journalist replied saying <a href="https://twitter.com/gjardharr/status/1438847202152132609" target="_blank" rel="noreferrer noopener">that’s not all</a>.</p>
 <blockquote class="wp-block-quote">
 <p>It doesn’t stop there. Yesterday they turned their new Private Relay quasi-VPN service off for Russians even though it worked fine in iOS beta versions plus there’s still hundreds of RU IP addresses reserved for it. No explanation given.</p>
 </blockquote>
