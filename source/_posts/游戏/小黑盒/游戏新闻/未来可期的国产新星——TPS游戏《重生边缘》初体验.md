@@ -1,0 +1,18 @@
+
+---
+title: '未来可期的国产新星——TPS游戏《重生边缘》初体验'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1008080_RUixA.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 17 Sep 2021 23:47:47 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1008080_RUixA.jpg'
+---
+
+<div>   
+<p><img data-gameid="1008080" src="https://cdn.max-c.com/heybox/game/header/1008080_RUixA.jpg" referrerpolicy="no-referrer"></p><p>《重生边缘》作为一款打磨了两年之久的国产TPS大作，荟萃云集了众多优秀游戏的要素。虽然本作目前仍处在测试阶段，存在着一些问题，但游戏体验并不逊色于其他同类型游戏。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/1097f63b38b8801b08c16bb669a0260c/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>“芯控”，是《重生边缘》最醒目的标签。所谓芯控，顾名思义就是使用芯片控制，这一核心设定贯穿整个游戏。背景故事中角色都拥有这样的能力，即使用芯片技术控制游戏中的大型精英纳米怪物敌人，从而为主角战斗助力。在游戏开始的教学关卡中，游戏为我们呈现了一小段单机剧情，简明扼要地展示了游戏的大致玩法：利用翻滚走位掩体以及使用不同枪支击中纳米怪物的闪光弱点能做到快速击杀，也可以在大型纳米怪敌人残血倒地时选择用芯控吸收操控它们为自己战斗。教程结束后，玩家便可以在名叫“家园”的破旧飞船内选择游戏模式和任务了。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/08c193c8918fe9969341733d64573ae2/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>游戏目前有着三种游玩模式：PVP、PVPVE和PVE。第一种是单纯大逃杀模式，多人混战；第二种是类似猎杀对决的三人组队游玩模式，但其核心玩法也属于大逃杀；而第三种则是刷副本升级的真人组队人机模式。游戏采用了第三人称的视角，方便玩家更加轻松地了解战斗情况，便于处理各种局面。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/97b56d9c5f9e3ff35cbcabeea895970b/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>两种大逃杀模式的玩法机制是基于PVE模式，所以PVE玩法是主要本作的要点。首先，在开头的训练关卡结束后，玩家便可以在“家园”参观，飞船有签到奖励、武器升级和皮肤更换入口，也有一个控制台供玩家进行线上游戏。在PVE界面菜单，玩家可以拉上好友一起组队也可以随机匹配，或者与路人一起游玩。PVE包括简单、普通、困难三个级别的人机难度，作为新手，建议从低难度开始游玩。因为玩家在初期，作为游戏要素之一的角色永久增益属性的等级还不够高，很容易被怪物击中两下导致倒地，又由于当前阶段游戏玩家不够多，技术普遍不高，处理自己附近的怪可能都来不及，基本无暇扶你起来，从而导致游玩体验过差。所以，个人建议在游戏初期时，要么单人低等级单刷，要么组队找高等级大佬带。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/7828f75ad7c9c4f449d98dae25ee0f04/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/373de0837dd0e024b023bc2004f5c0ba/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>游戏流程分为四个阶段，具体为前三个刷图阶段+最后的复活怪领主的BOSS战。游戏开始可以自定义主副近战武器的组合，然后便会将三名玩家传送到地图上，这时游戏会让我们依次选择三种属性增益加成，个人推荐自身属性加成优先。之后会发现附近地面有着六块散落的样本——游戏内需要收集的道具，可以根据一次性上传数量来换取高质量道具。这时候我们便可以收集起来换取第一个增益道具，这里依然优先推荐自身属性加成道具。<br></p><p>之后在刷图的前十分钟内，玩家便可以通过击杀或者芯控各种类型的纳米怪物和寻找宝箱和空投来找到样本和纳米能量，后者的作用是可以在商店购买升级芯片。十分钟后便是每个阶段的撤退环节了，需要玩家在撤退区域坚守两分钟，期间要迎战大量怪物的攻击，防守成功且有一位玩家存活即可进入下一阶段。每个阶段的收集品是积累性的，到了BOSS战，最好把身上的样本和纳米能量全部花费完换取最终道具。目前的BOSS只有一个，也分为三个阶段来打：第一阶段本体在地图中间，放出几个小怪；第二阶段，BOSS分身，怪的种类增加；最后阶段，BOSS会追逐玩家，攻击频率增加。BOSS战结束后，我们便可以使用游戏结算的奖励来升级角色永久属性加成了。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/9662e4939d863849319b7d5c45dfbb0f/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/09/17/0abd8cd83b210352f30b3a5163b7d445/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>总的来说，本作的戏题材是比较新颖的，但玩法仍旧比较单一且需要肝。游戏重点有点偏向于刷，但奖励不是很丰富，每一局玩上半个多小时，结果收获的只有角色增益。芯控的大型纳米怪只有四个种类，但是战斗中实际作用并不是特别大，希望开发组后续在芯控这一核心设定上多下功夫，这样才能吸引更多玩家。本作还有被广大测试玩家诟病的一点是游戏的优化，很多场景帧数较低，优化效果不尽如人意。最后，作为一颗冉冉升起的国产游戏新星，笔者非常期待《重生边缘》在今后能有更好的表现。<br></p><p><a href="heybox://open_subject" target="_blank">#重生边缘精英作者招募#</a><br></p>  
+</div>
+            

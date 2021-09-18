@@ -1,0 +1,19 @@
+
+---
+title: '苹果天猫旗舰店 iPhone13_Pro 系列首批售罄连夜补货，粉色款被一抢而空'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/9/07d137ba-0448-453f-bfdd-cad19de1bdd1.png'
+author: IT 之家
+comments: false
+date: Fri, 17 Sep 2021 12:58:42 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/9/07d137ba-0448-453f-bfdd-cad19de1bdd1.png'
+---
+
+<div>   
+<p data-vmark="c9a9"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 17 日消息 9 月 17 日 20 点，苹果 iPhone 13 系列在天猫开启预购，第一批货粉色款不到 3 分钟内就被疯抢一空。据跟踪发现，苹果连夜补货天猫旗舰店，部分型号在短时间内陆续恢复正常购买。</p><p data-vmark="2b49"><img src="https://img.ithome.com/newsuploadfiles/2021/9/07d137ba-0448-453f-bfdd-cad19de1bdd1.png" w="750" h="1334" title="苹果天猫旗舰店 iPhone13/Pro 系列首批售罄连夜补货，粉色款被一抢而空" width="750" height="1334" referrerpolicy="no-referrer"></p><p data-vmark="2b49">苹果 iPhone 13 和 iPhone 13 mini 提供粉色、蓝色、午夜色、星光色和红色五种配色选择，iPhone 13 Pro 和 iPhone 13 Pro Max 推出四种外观，包括石墨色、金色、银色和全新的远峰蓝色。</p><p data-vmark="8b21"><img src="https://img.ithome.com/newsuploadfiles/2021/9/e967ef01-ec3a-4b81-926c-a650f4048acd.png" w="750" h="1334" title="苹果天猫旗舰店 iPhone13/Pro 系列首批售罄连夜补货，粉色款被一抢而空" width="750" height="1334" referrerpolicy="no-referrer"></p><p data-vmark="daf9"><img src="https://img.ithome.com/newsuploadfiles/2021/9/27dc7d8f-165f-4db4-baaf-04e889a40b1f.png" w="750" h="1334" title="苹果天猫旗舰店 iPhone13/Pro 系列首批售罄连夜补货，粉色款被一抢而空" width="750" height="1334" referrerpolicy="no-referrer"></p><p data-vmark="8a54">IT之家了解到，全新的 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 13 系列提供了 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 mini</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro</a> 和 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13 Pro Max</a> 四个版本，屏幕尺寸依旧分别为 5.4 英寸、6.1 英寸和 6.7 英寸，<span class="accentTextColor">依然采用“刘海”设计，但面积较之前减小了 20%</span>，这也是新机在正面外观上最大的变化。除此之外，iPhone 13 Pro 和 iPhone 13 Pro Max 还搭载了自适应高刷新率显示屏，最高支持 120Hz 刷新率。</p><p data-vmark="5cf6">性能方面，iPhone 13 系列搭载了最新的 A15 仿生芯片，其内部的晶体管数量达到了 150 亿，6 核心的设计其内部包含了 2 个性能核心以及 4 个能效核心，数据处理优势达到了 50%，AI 算力每秒可达 15.8 万亿次，初步跑分测试显示，新的处理器 GPU 性能较上代提升高达 50% 左右。</p><p data-vmark="8adf">影像方面，iPhone 13 和 iPhone 13 mini 后置双摄系统采用对角线布局，由一枚超广角摄像头和一枚主摄广角摄像头组成，均用上了新的传感器，主摄引入了上一代 Pro 系列的位移式传感器，同时换上了更大的感光元件，进光量提升了 47%。而 iPhone 13 Pro 系列的摄像头升级更加激进，长焦更换为 77mm 的 3 倍光学变焦摄像头，并拥有 F2.8 的大光圈、光学防抖；广角摄像头拥有 F1.5 的超大光圈、位移式防抖；超广角镜头则配备了 F1.8 光圈，支持最近 2cm 的微距模式。同时，三枚摄像头的传感器尺寸都变得更大，并全部支持夜景模式。</p><h2>新机具体售价如下：</h2><p data-vmark="d918"><strong>iPhone 13 mini</strong></p><p data-vmark="1fcf">该系列机型售价 5199 元起，相比上一代 64GB 的 5499 元有所降低。</p><ul class=" list-paddingleft-2"><li><p data-vmark="b9cf">128GB：5199 元</p></li><li><p data-vmark="41d5">256GB：5999 元</p></li><li><p data-vmark="9747">512GB：7599 元</p></li></ul><p data-vmark="087c"><strong>iPhone 13</strong></p><p data-vmark="6621">该系列起售价 5999 元，相比 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a> 64GB 型号的 6299 元有所降低。</p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="24ec">128GB 版本售价：5999 元</p></li><li><p data-vmark="db70">256GB 版本售价：6799 元</p></li><li><p data-vmark="6b19">512GB 版本售价：8399 元</p></li></ul><p data-vmark="8276"><strong>iPhone 13 Pro</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="9b3c">128GB 版本售价：7999 元</p></li><li><p data-vmark="6c67">256GB 版本售价：8799 元</p></li><li><p data-vmark="09c9">512GB 版本售价：10399 元</p></li><li><p data-vmark="5d78">1TB 版本售价：11999 元</p></li></ul><p data-vmark="d225"><strong>iPhone 13 Pro Max</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="429e">128GB 版本售价：8999 元</p></li><li><p data-vmark="9f3f">256GB 版本售价：9799 元</p></li><li><p data-vmark="ba60">512GB 版本售价：11399 元</p></li><li><p data-vmark="594e">1TB 版本售价：12999 元</p></li></ul>
+          
+</div>
+            
