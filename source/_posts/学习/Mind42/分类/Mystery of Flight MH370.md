@@ -8,7 +8,7 @@ categories:
 headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=58437269-91fe-407a-83c0-d8c3df958589&size=gallery'
 author: Mind42
 comments: false
-date: 2021-09-19 08:08:28
+date: 2021-09-19 09:07:23
 thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=58437269-91fe-407a-83c0-d8c3df958589&size=gallery'
 ---
 
