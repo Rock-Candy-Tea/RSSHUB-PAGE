@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-5bbbcbedb3996135e148455ec50774de_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-0f9c0df0be838e95b3e1f0c0707004e9_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 19 Sep 2021 05:36:27 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-5bbbcbedb3996135e148455ec50774de_1440w.jpg'
+date: Sun, 19 Sep 2021 07:13:30 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-0f9c0df0be838e95b3e1f0c0707004e9_1440w.jpg'
 ---
 
 <div>   
-二狗的回答<br><br><p>手机内存用多大的，这个其实很简单，看下自己目前手机已使用空间的大小，再增加一个20%，看下有没有撑爆或是接近你现在手机的内存的极限，如果是，那就升级，如果没有，那就继续使用原来大小的内存。</p><p>这次iphone13系列发布，都是直接取消了64G内存，表明目前64G真的不适合大部份人的需求。好多人的手机目前的空间使用都在100G左右，并且这次我发现身边的朋友定制的iphone13系列都是256G起步的，包括我也是定的256G的。</p><p>当然这个也没有必要盲目的跟风，如果你目前手机使用的空间60G都不到，买个256的那不是浪费吗？</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-5bbbcbedb3996135e148455ec50774de_1440w.jpg" data-caption data-size="normal" data-rawwidth="1065" data-rawheight="504" data-default-watermark-src="https://pic1.zhimg.com/v2-0696605a1345e0fb17451433fd14479e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-5bbbcbedb3996135e148455ec50774de_r.jpg" referrerpolicy="no-referrer"></figure><h2>推荐阅读：</h2><ul><li><a href="https://zhuanlan.zhihu.com/p/347540124" class="internal">二狗：9-19更新-2021年苹果手机iPhone11/iPhone12价格记录</a> </li><li><a href="https://zhuanlan.zhihu.com/p/410554522" class="internal">二狗：9-18日更新:iphone13性能参数价格(本文长期更新注意收藏)</a></li><li><a href="https://www.zhihu.com/question/482994966/answer/2122180232" class="internal">iPhone 13第一时间入手还是等双十一？</a></li><li><a href="https://www.zhihu.com/question/486786145/answer/2122096574" class="internal">苹果 iPhone 13 系列售价 5199 元起，到底值不值得买？</a></li><li><a href="https://www.zhihu.com/question/486895718/answer/2121329482" class="internal">如何评价 9 月 15 日苹果发布的 iPhone 13 系列手机，有哪些值得关注的亮点和不足？</a></li><li><a href="https://www.zhihu.com/question/485577649/answer/2121091147" class="internal">iPhone 11 用户换 iPhone 13，划得来吗？</a></li><li><a href="https://www.zhihu.com/question/435809571/answer/1651830617" class="internal">想买iphone12从哪里买最划算呢？</a></li><li><a href="https://www.zhihu.com/question/486897922/answer/2123639649" class="internal">如何评价苹果发布会后 iPhone 12 直接降价至 5199？现在入手哪款更合适？</a></li><li><a href="https://www.zhihu.com/question/486896159/answer/2125321110" class="internal">iPhone 13 的粉、蓝、午夜色、星光色、红色五个颜色你会选择哪一个？</a></li><li><a href="https://www.zhihu.com/question/486917866/answer/2125744366" class="internal">如果想换最新的 iPhone 13 系列，你会选择哪款？理由是什么？</a></li><li><a href="https://www.zhihu.com/question/443405942/answer/2128862457" class="internal">这个时间 入手哪款iphone最划算?</a></li></ul>  
+庙祝lord的回答<br><br><p>有多大的屁股就穿多大的裤衩，先按照自己的行为习惯来吧。</p><p>人的行为逻辑不会轻易改变，比如我，主力手机啥游戏也没有，iPad 上就一款原神，十天半个月才玩一回。</p><p>至于照片，定时清理，觉得好看的，就上传到云盘。</p><p>以上的使用行为，都是在固定模式下做提前量选择的。</p><p>下面说说非固定情况，也就是突发情况。</p><p>比如，APP。</p><p>APP最不是省油灯的，就是微信了。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-0f9c0df0be838e95b3e1f0c0707004e9_1440w.jpg" data-caption data-size="normal" data-rawwidth="892" data-rawheight="1972" data-default-watermark-src="https://pic4.zhimg.com/v2-87b6d4da06f39068eda4b0641bcd6bde_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-0f9c0df0be838e95b3e1f0c0707004e9_r.jpg" referrerpolicy="no-referrer"></figure><p>太占地方了，这个怪物而且越来越大，很显然，越大越好，得给它留足发展空间。</p><p>第二：你朋友要结婚，你想拍视频。你突然想去旅游，追求诗和远方，这些，都考验着你的内存容量。</p><p>第三：我不用，哎，看着剩余空白的空间，就是玩儿，舒坦！</p><p>这也是选择的理由之一。</p><p>看到这里，是不是听君一席话，如听一席话？</p><p>那么给你一个最简单的建议：如果你之前用的是128GB，经济比较富裕，那就选择256GB,以此类推。</p><p>你内存大了，小内存时期捉襟见肘省着点用的习惯，会随着内存的扩大，会变得“大手大脚”。</p><p></p>  
 </div>
             
