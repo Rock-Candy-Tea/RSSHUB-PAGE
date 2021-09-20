@@ -32,16 +32,16 @@ Mod作者DunArd近日为新作《<a target="_blank" href="https://www.3dmgame.co
 截图欣赏：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105544_844007.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105544_844007.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105544_625221.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105544_625221.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105545_183503.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105545_183503.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105545_978994.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210920/1632105545_978994.jpg" alt="画面党玩家必备 《破晓传说》新MOD提升图像品质" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
