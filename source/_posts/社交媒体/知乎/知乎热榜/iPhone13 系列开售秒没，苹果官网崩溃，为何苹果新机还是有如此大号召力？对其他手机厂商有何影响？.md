@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-6339de57296a734c26bd019bdbf1563f_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=1450'
 author: 知乎
 comments: false
-date: Mon, 20 Sep 2021 02:59:56 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-6339de57296a734c26bd019bdbf1563f_1440w.jpg'
+date: Mon, 20 Sep 2021 03:20:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1450'
 ---
 
 <div>   
-喵教授的回答<br><br><p>根据IDC公布的2021年第二季度全球手机销量排行,苹果占第三，大概是14%，也不算低。</p><p>三星18.8，小米16.9，苹果14.1。但是三星的国内市场基本就凉了，所以还是可以重点对比一下小米跟苹果。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-6339de57296a734c26bd019bdbf1563f_1440w.jpg" data-rawwidth="690" data-rawheight="308" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-cad11cbeb69c9b316017d9cc0a825c44_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6339de57296a734c26bd019bdbf1563f_r.jpg" referrerpolicy="no-referrer"></figure><p>1,苹果的手机基本是高价位手机，即使它也有一个高低中的产品线，从mini到PRO  MAX。但是苹果定位的基础就是起价高，从五千起步，到一万多不等。</p><p>2, 小米才属于是真正的全价位，高价位也可以五六千块钱起步，但低价位红米可以只有一千出头，中间旗舰是两三千左右。这也是绝大部分国产手机的现状，全价位。</p><p>我们可以引入手机网购主要渠道商之一的某东的官方数据，在6月1日的期间，iPhone13不单是销量好，而且价格也在榜单上是最高的，还是强啊。第一是市场占有率，第二就是盈利水平。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-dc478157f2f04d68d82c295577f08c83_1440w.jpg" data-rawwidth="820" data-rawheight="1448" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-96329e1d3490809ea06328d64cbbda21_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-dc478157f2f04d68d82c295577f08c83_r.jpg" referrerpolicy="no-referrer"></figure><p>就拿iPhone13来说，最便宜的mini也要5000出头了。高价位，肯定就意味着利润高，就意味着有购买力强的买家群体。</p><p>看现在iPhone13的状况，这部分忠实且高消费水平的消费者群体，才是各个国产商最需要争取的。</p><p>知己知彼，百战不殆。</p><p>国产手机要想真正做到高利润，除了打开市场，更需要的是打开高端市场。</p><p><br></p><p><br></p><p>美国的股票也没有骗人， iPhone12上市时是20,000亿出点头，现在iPhone13的时候已经是2.40,00亿了，美股独一无二的第一。</p><p>苹果股票一路涨，市场的预期还是好啊。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-40089e99bda790655121da5dab8520dc_1440w.jpg" data-rawwidth="554" data-rawheight="326" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-6050e204d41da10831948c04b377b8cb_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-40089e99bda790655121da5dab8520dc_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+黄医湿的回答<br><br><p>有人提到高端机市场中华为份额减少的，也有人提到苹果降价的，也有人提到苹果影响力犹如当年诺基亚的，不管你愿不愿意，苹果现在仍然是智能手机的一线，品牌，产品都非常强势，不要想着削弱苹果的影响力，消费品市场，是很难一家独大的，客户有不同需求，除非智能手机界再发生一次大的变革，比如像原来的手机升级智能手机这样的，否则苹果的地位是难以改变的。</p><p><br></p><p>而且苹果也没有搞像H&M，耐克那样的事情出来，专心做生意，能够长时间屹立不倒也是情理之中。如果哪天真的有什么变革，苹果的对手也很有可能是行业外的。比如苹果进入手机行业是在07年，那个时候已经有西门子，摩托罗拉，索尼爱立信等老炮在，苹果抢夺市场是在iPhone4开始的，从2010年开始，辉煌至今。</p><p><br></p><p>而其他国产手机目前还在以谷歌的安卓系统进行模板进行研发，苹果做的事情，是从0到1，而其他国产手机品牌，做的事情是1到2。从0到1的革新是很重要的，相当于做了个标准出来。苹果至今都影响力这么强，不仅是做了0到1的创新，还在不断地1到2，2到3。</p><p><br></p><p>对于其他手机厂商来说，想要把苹果压下去，就得做点不一样的，苹果没做过的事情。或者说苹果犯傻，涉及政治。</p><p><br></p><p>从另一方面说，苹果被秒没也不是坏事。说明我国民众消费力还是很OK的，如果苹果没人买，其他手机也没人买，产能过剩，所有人都穷得买不动了，那才可怕。</p><p></p>  
 </div>
             

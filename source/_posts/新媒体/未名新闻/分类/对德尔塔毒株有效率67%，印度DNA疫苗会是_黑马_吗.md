@@ -1,0 +1,38 @@
+
+---
+title: '对德尔塔毒株有效率67%，印度DNA疫苗会是_黑马_吗'
+categories: 
+ - 新媒体
+ - 未名新闻
+ - 分类
+headimg: 'https://picsum.photos/400/300?random=3243'
+author: 未名新闻
+comments: false
+date: Sun, 19 Sep 2021 21:35:01 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3243'
+---
+
+<div>   
+
+                
+                
+        <span class="black_14p"><p style="text-indent:2em">
+                </p><br><p style="text-indent:2em">　　近日，国内疫情在福建省被再度放大，引发此轮疫情传播的“罪魁祸首”被初步锁定在德尔塔变异株上。德尔塔变异株此前已在国内引发多轮疫情，目前传至全球150多个国家。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　印度作为最早发现德尔塔变异株的国家，遭受了德尔塔的疯狂肆虐和洗礼，一度出现医院和火葬场不堪负荷的情况。近期，印度疫情虽相比第二轮高峰期有所缓和，但仍不乐观。目前累计确诊人数超3300万，死亡人数超44万，9月14日单日新增确诊病例超2.7万人。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　在此情形下，印度药品监管机构近期批准的一款DNA新冠疫苗（ZyCoV-D）或许为其带来一丝曙光。<font color="#F8F8F8">Mitbbs.com</font><br>
+                <!--广告画开始-->
+</p><div><table height="280" cellspacing="0" cellpadding="0" width="336" align="left" border="0">
+            <tbody><tr><td align="center">
+
+<!-- news_page_336_280 -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9374326915974877" data-ad-slot="1145044815"></ins>
+
+</td></tr>
+        </tbody></table></div>
+<!--广告画结束-->
+
+            <p></p><br><p style="text-indent:2em">　　据《自然》杂志（Nature）9月2日报道，这是全球首款被批准应用于人类的DNA新冠疫苗。在一项针对2.8万多人的大规模临床试验中，这款疫苗的有效性达到了67%，印度或于本月开始使用这款疫苗。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　对“德尔塔”有效<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　据《自然》杂志（Nature）的报道，近日，印度紧急授权批准一款DNA新冠疫苗——ZyCoV-D。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　这款DNA疫苗的一大亮点是，通过按压在皮肤上的无针装置，利用该装置所产生的细微高压液体流刺穿皮肤表面，将药物输送到富含免疫细胞的皮下组织。这种方式不仅可免除打针所引起的疼痛，还可以更有效地捕获疫苗的DNA颗粒。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　DNA疫苗如何起作用的？简单来说，DNA疫苗包含编码新冠病毒刺突蛋白（S蛋白）信息的环状DNA（也被称为质粒），质粒进入细胞核后先转录为mRNA，接着mRNA到达细胞质，进而被翻译为刺突蛋白，激活人体免疫系统。通常，质粒进入人体后在几周到几个月内降解。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　这款疫苗由印度制药公司Zydus Cadila研发。Zydus Cadila公司称，该疫苗可能于本月开始使用，预计明年年初能达到5000万剂的产能。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　据BusinessLine在7月份的报道，Zydus Cadila公司公布的2.8万多名志愿者（12-99岁）中进行的Ⅲ期临床试验中期结果显示，接种三剂后预防接种者感染新冠病毒的有效率为66.6%。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　值得关注的是，该疫苗的Ⅲ期临床试验开展于印度的第二波疫情期间，彼时，印度主要流行的正是德尔塔变异株。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　上述公司董事总经理Sharvil Patel博士认为，因为试验是在感染高峰期（4月至6月）进行的，因此该疫苗也被认为对变种有效。根据血清调查，99%的感染来自德尔塔变异株。他指出，应该改造这款疫苗，以应对新的关注变种。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　德尔塔变异株目前仍是全球范围内的主流优势毒株。自去年10月份在印度被首次发现以来，目前已波及全球超150个国家。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　香港大学李嘉诚医学院生物医学学院教授金冬雁在接受中国新闻周刊采访时说，从保护率来看，67%这个数值并不算高。他认为，历史上DNA疫苗并未在人体上使用过，这是印度科学家走出的一条新路。此前在动物中使用的DNA疫苗有四款曾获得成功，因此理论上讲，这款DNA疫苗也应该是成功的。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　“不过，从其产品属性来看，DNA疫苗未来在市场上占据的份额可能不会太多。”金冬雁说。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　印度阿育王大学的病毒学家Shahid Jameel则指出，尽管这款DNA疫苗的效力似乎低于某些mRNA疫苗，但这些数据不太有可比性。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　他说，今年早些时候在印度进行的临床试验时，德尔塔变异株是主要流行毒株，早期mRNA疫苗的临床试验则是在传播力较低的变异株流行时进行的。这款疫苗的67%的保护效力实际上是针对德尔塔变异株的，因此还是相当不错的。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　不过，目前，Zydus Cadila公司并未对外公布疫苗后期的临床试验结果。一些研究人员对此表示质疑，称印度在批准这款疫苗的过程中缺乏透明度。公司则表示，相关试验仍在进行中，不久将提交完整的分析报告。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　在德尔塔依然肆虐的情况下，这款DNA疫苗在印度紧急授权获批上市，能为疫情带来转折吗？金冬雁分析，印度目前的自然感染比例已经很高，新疫苗已经不是解决其当前疫情的主要手段，重要的还是尽快打加强针。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　比mRNA疫苗更好吗？<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　核酸疫苗包括RNA疫苗和DNA疫苗，是我国研发的疫苗共有五条技术路线之一。事实上，DNA和mRNA疫苗自20世纪90年代以来一直在开发中。在新冠疫情的“催熟”下，mRNA疫苗取得了一系列较快的进展，不过DNA疫苗却一直难以实现较大突破。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　Shahid Jameel认为，DNA疫苗所面临的挑战主要在于，它们需要到达细胞核才能起作用，而mRNA疫苗只需要到达细胞质。因此，长时间以来，DNA疫苗在临床试验中难以诱导有效的免疫反应，这也是为什么到目前为止，DNA疫苗只获准用于动物中。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　不过，DNA疫苗有其独特的优势。据报道，此次印度获批的DNA新冠疫苗能够在25℃的温度下保存至少3个月，年产量高达1.2亿剂。研究人员指出，DNA疫苗容易生产，成品比mRNA疫苗更稳定，后者通常需要在非常低的温度下储存。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　Shahid Jameel表示，如果DNA疫苗最后被证明成功，这无疑是疫苗学的未来，因为DNA疫苗生产起来很容易。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　同样是核酸疫苗，DNA疫苗会比mRNA疫苗更好吗？<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　在金冬雁看来，DNA疫苗的最大优势在于成本低，不过，mRNA疫苗仍然比DNA疫苗更有优越性和竞争力。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　他进一步解释，DNA疫苗实际上相当于mRNA疫苗的上一代，两者有着相似的优点，但DNA疫苗还存在一些mRNA疫苗所不具备的缺点。比如，它可能会整合到细胞中、防护效率也并不如mRNA疫苗的高。因此，未来DNA疫苗也不大可能会成为主流疫苗。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　康奈尔大学医学院博士后研究员孙佳毅告诉中国新闻周刊，和mRNA疫苗类似，DNA疫苗同样要利用接种者自身的人体细胞作为“工厂”，高效率地表达病毒蛋白，达到诱导免疫反应的效果。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　他认为，与mRNA疫苗相比，DNA疫苗具有室温下更稳定、易于保存和运输的优点。不过，目前DNA疫苗的保护力度与mRNA疫苗相比孰优孰劣，仍有待进一步验证。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　疫苗专家陶黎纳则表示，这一代DNA疫苗的免疫效果和保护效果，似乎和灭活疫苗相当，不如mRNA疫苗。 <font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　此外，DNA疫苗的长期安全问题受到关注。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　陶黎纳指出，如果疫苗中的DNA整合到人体DNA中，有可能导致目标抗原的持续表达，这种抗原反复刺激免疫系统，会有怎样的长期效应，目前还不清楚。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　孙佳毅则谈到，由于DNA是人类遗传物质，外源DNA理论上存在整合到人体细胞基因组从而引发突变的可能性，DNA疫苗的相关安全隐患也急需研究调查。  <font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　值得注意的是，全球的DNA疫苗的研发脚步在不断推进。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　根据WHO的最新统计，全球共有27款新冠DNA疫苗在研，其中有11款已经进入到临床阶段，有6种以上处于早期试验阶段。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　除了已经批准紧急使用的ZyCoV-D，有2款DNA疫苗已进入后期试验阶段，一款由美国Inovio制药和国内药企艾棣维欣联合开发，另一款则是日本公司AnGes负责。其中，Inovio制药和艾棣维欣联合开发的DNA新冠疫苗（INO-4800/pGX9501）较受关注。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　早在去年2月份，康泰生物（300601.SZ）就曾公告，公司与艾棣维欣签署《战略合作协议书》，拟发挥各自优势，共同研发新冠DNA疫苗。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　有分析认为，Inovio制药有开发DNA新冠疫苗的经验，艾棣维欣有非常不错的核酸疫苗和配套佐剂的研发能力，而康泰生物在疫苗临床前、临床研究、后续的产业化方面的实力较强，这可以看做强强联合。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　据报道，Inovio制药已计划在亚洲、南美洲和非洲等地进行DNA疫苗的初期试验。该公司近期表示，已经获得巴西监管机构的授权，预计将于9月开始在巴西进行针对DNA疫苗INO-4800的大规模临床试验。艾棣维欣曾表示，与Inovio合作的DNA新冠疫苗将于年内完成Ⅲ期临床试验，有望在下半年面向大众。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　8月9日，艾棣维欣宣布，其新冠DNA候选疫苗（INO-4800/pGX9501），已获准与灭活疫苗开展探索序贯免疫策略的临床试验。上述临床试验中，与DNA新冠疫苗进行联合免疫的灭活疫苗为北京科兴研发的克尔来福。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　该试验具体分为两项，一项是探索18岁以上健康成年人接种新冠灭活疫苗后加强免疫DNA新冠疫苗的效果，另一项则对健康成年人及老年人接种不同剂量DNA新冠疫苗并进行灭活疫苗加强免疫的研究。<font color="#F8F8F8">Mitbbs.com</font><br></p><br><p style="text-indent:2em">　　从另一个角度来看，此次印度DNA新冠疫苗获批也被业界视为一种信号，除了针对新冠病毒的DNA疫苗，后续将会有更多针对其他疾病的DNA疫苗涌现。目前，针对流感、人类乳头瘤病毒、艾滋病毒等的DNA疫苗也在试验或开发中。 <font color="#F8F8F8">Mitbbs.com</font><br>
+            </p></span>
+                
+            
+          
+</div>
+            
