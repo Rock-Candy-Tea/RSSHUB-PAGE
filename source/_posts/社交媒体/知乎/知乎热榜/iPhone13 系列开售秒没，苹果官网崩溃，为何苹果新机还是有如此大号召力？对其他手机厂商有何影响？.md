@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-14a1e91bc87e982d854493c7439355f3_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8893'
 author: 知乎
 comments: false
-date: Mon, 20 Sep 2021 00:07:35 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-14a1e91bc87e982d854493c7439355f3_1440w.jpg'
+date: Mon, 20 Sep 2021 02:15:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8893'
 ---
 
 <div>   
-牙膏有味道的回答<br><br><p>2021 年第二季度全球中高端智能手机销量苹果市场份额达到了 57%，遥遥领先以17%排名第二的三星17% ，其次是华为、小米、OPPO 等厂商。</p><blockquote>第一名：苹果57%<br>第二名：三星 17%<br>第三名：华为 6%<br>第四名：小米 6%<br>第五名：OPPO 5%<br><br><br><br></blockquote><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-14a1e91bc87e982d854493c7439355f3_1440w.jpg" data-rawwidth="1468" data-rawheight="860" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-f0044e70ffd2a9386fc321a4ccf56b0c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-14a1e91bc87e982d854493c7439355f3_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-0980659884172055bac0334055a65ef0_1440w.jpg" data-rawwidth="928" data-rawheight="246" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-e3c5148d7e7e91a976875ede26752e7a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0980659884172055bac0334055a65ef0_r.jpg" referrerpolicy="no-referrer"></figure><p>基本上所有地区苹果都是第一，可怕！</p><p>对比去年同时期，由于制裁华为出货量锐减，从17%下降到6%，</p><p>三星由于没有坚持推出note系列，市场下滑可见一斑，从22%降到17%。</p><p>Note系列，安卓最强的安卓旗舰，王者归来，不知何时！</p><p>其他厂商内卷严重。上涨下跌幅度极小，仍需努力。</p><p>高端市场获利最大的不是国内厂商，依旧是挤牙膏式的苹果。华为跌倒，苹果吃饱。</p><p>iPhone 12系列首次支持5G，出货量在短短7 个月内突破了 1 亿部，创造了苹果手机数字系列最快的记录。</p><p>iPhone 13系列第一次搭载高刷，新的配色，以及加量不加的首发价，各大平台首销售磬，苹果忙着连夜给补货。</p><p>定时抢购，乐此不疲。</p><p></p>  
+温眸的回答<br><br><p>在全球芯片紧张的情况下，苹果采取了加量不加价，且自身有优势，拥有很强的产业链供应能力，芯片涨价对国产手机影响巨大，但对苹果等品牌却影响很小，即使降价几百块对苹果公司的影响也不大，反而可以增加销量。</p><p>今年价格低的原因个人觉得是欧美市场受疫情影响比较大，中国市场稳定，几乎没有受疫情影响。汇率占一部分原因，但是事实真假不知道。</p><p>目前国产手机都在向高端品牌进军，5000多元，刚好是很多国产高端手机的价位，他们的产品在苹果新机面前，失去了吸引力。</p><p>苹果最大的优势是是有自己的芯片和系统，<b>也就是有自己的灵魂</b>。而对于国产品牌来说，都是供应链上的买家，你可以买得到芯片，我也可以，没有核心的竞争力。</p><p>在高端市场中，除了华为和苹果真的不知道该选什么。</p><p>对我国手机来说厂商任重而道远啊，如果拿不出高端产品和苹果匹敌，苹果13将会占领整个高端市场。</p><p><b>苹果13虽然香，我国厂商要努力啊！</b></p><p></p>  
 </div>
             
