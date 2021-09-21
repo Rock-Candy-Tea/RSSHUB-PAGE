@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2019/03/TTR_01.jpg'
 author: Blow Studio
 comments: false
-date: 2021-09-21 02:23:01
+date: 2021-09-21 03:09:05
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2019/03/TTR_01.jpg'
 ---
 
