@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-8ec3d0aa556f9145455644a45ff2509d_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-96dcd399d019175c20a49b3088aa9584_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 21 Sep 2021 05:16:34 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-8ec3d0aa556f9145455644a45ff2509d_1440w.jpg'
+date: Tue, 21 Sep 2021 06:20:14 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-96dcd399d019175c20a49b3088aa9584_1440w.jpg'
 ---
 
 <div>   
-林游優的回答<br><br><p>很简单，看预算！</p><p>预算不高就买iPhone13，预算稍高就买iPhone13 pro ～</p><p>不过我个人建议还是买iPhone13相对来说，就日常使用和打小游戏没什么问题，性价比高。</p><p>•超强解锁能力：OLED显色屏，在视频中自动营造优美的景深效果，轻松拍出大片感。业余摄影家们的心头爱，随时记录生活中美好的点点滴滴。</p><p>•搭载A15仿生芯片：轻松驾驭图形密集型游戏。大小游戏轻松上手，关键时侯不掉链子！</p><p>•续航能力大提升：耗能更低，续航更持久。频繁充电的苦恼没了。</p><p>•6.1英寸或5.4英寸，一切尽在掌握之中。</p><p>•MagSafe 磁吸配件：磁吸式保护壳、卡包轻松贴。</p><p>•5种颜色可选：粉色青春时尚，黑色沉稳大气，星光色和远峰蓝，百搭。</p><p><b>不急着换手机的，可以等双11啊，拼单也能抵消一部分！</b></p><p>不过现在预约也不知道能不能抢购到，啥时候发货也是一个问题。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-8ec3d0aa556f9145455644a45ff2509d_1440w.jpg" data-rawwidth="1282" data-rawheight="1198" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-af54921b177d770bb03f407f3968cae9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-8ec3d0aa556f9145455644a45ff2509d_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+帅天下的回答<br><br><p>日常使用，对游戏没有特别高的要求，买iPhone13完全够了。</p><p>iPhone13Pro相对13来说:</p><ol><li>5核心的GPU有更强的图形处理性能。</li><li>6G运行内存的游戏体验更流畅，可使用生命周期更长。</li><li>10-120Hz的自适应高刷屏幕，达1000尼特的最大亮度，让其显示效果更好，对游戏体验来说，也是绝佳的。</li></ol><p>除此之外，在摄像头系统上:</p><ol><li>iPhone13Pro 的三摄像头系统，分别为六镜式的长焦和超角镜头，七镜式广角镜头，13的双摄为5镜式镜头。</li><li>而13Pro多出的这颗长焦镜头，光圈达到了f /2.8，使得iPhone13Pro摄像头系统可达6倍光学变焦范围，最高可达15倍数码变焦。</li><li>iPhone13Pro，还能通过激光雷达扫描仪，实现夜间榄式人像模式,支持先进的焦外成像和景深控制。</li></ol><p><br></p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-96dcd399d019175c20a49b3088aa9584_1440w.jpg" data-rawwidth="1176" data-rawheight="775" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-406b1ca1438f276267f61f585203a530_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-96dcd399d019175c20a49b3088aa9584_r.jpg" referrerpolicy="no-referrer"></figure><p>预算够，建议上iPhone13Pro。</p>  
 </div>
             
