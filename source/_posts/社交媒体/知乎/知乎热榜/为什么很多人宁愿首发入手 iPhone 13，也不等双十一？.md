@@ -1,0 +1,18 @@
+
+---
+title: '为什么很多人宁愿首发入手 iPhone 13，也不等双十一？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-03f48e356ea159d4fe848f0cbd52913d_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 21 Sep 2021 08:05:42 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-03f48e356ea159d4fe848f0cbd52913d_1440w.jpg'
+---
+
+<div>   
+抓住彩虹的人的回答<br><br><p>早买早享受，双十一降价可能性极低。</p><p>iphone 13这次加量不加价，存储直接翻倍，而且又恰巧人民币兑美元升值，虽然美元原价，但国行价格便宜多了，128配置只需要5999元。</p><p>性能更强，拍照加强，双十一想要降价很难。</p><p>真不如早点排队买，晚买了也没优惠，有很多小伙伴都是x或者11甚至更老的机型，这次13系列还算不错，肯定赶紧下手呀。</p><p>我就是iphone x，准备换13 pro的远峰蓝配色，我挺喜欢的。</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-03f48e356ea159d4fe848f0cbd52913d_1440w.jpg" data-rawwidth="1700" data-rawheight="2048" data-size="small" data-default-watermark-src="https://pic2.zhimg.com/v2-7d1643c5dfbad527311ab682454f7967_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-03f48e356ea159d4fe848f0cbd52913d_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-fe8ae91717ae68595db0a235d6c380cc_1440w.jpg" data-rawwidth="1080" data-rawheight="1080" data-size="small" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fe8ae91717ae68595db0a235d6c380cc_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-09d9ad21829f65f599db3110e8976f33_1440w.jpg" data-rawwidth="1024" data-rawheight="1280" data-size="small" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-09d9ad21829f65f599db3110e8976f33_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><h2>13与13 pro对比。</h2><figure data-size="small"><img src="https://pic2.zhimg.com/v2-e67389c37a334dd668061b48c5029c42_1440w.jpg" data-rawwidth="720" data-rawheight="402" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e67389c37a334dd668061b48c5029c42_r.jpg" referrerpolicy="no-referrer"><figcaption>13以及mini的五种配色</figcaption></figure><figure data-size="small"><img src="https://pic3.zhimg.com/v2-6d4df744ace41e3bb2785e1921d74636_1440w.jpg" data-rawwidth="720" data-rawheight="404" data-size="small" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6d4df744ace41e3bb2785e1921d74636_r.jpg" referrerpolicy="no-referrer"><figcaption>pro以及pro max 新增清新淡雅的远峰蓝色，非常好看</figcaption></figure><p><br></p><p>这次差距明显增大，除了拍照，还有高刷以及机身做工，还有就是处理器性能。</p><p>处理器性能方面pro更强，为满血版本的A15，而13位阉割版本的A15，有些人对阉割版本总会有点不舒服。</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/486896012/answer/2122545534" class="internal">iPhone 13 搭载 A15 处理器，150 亿晶体管，6 核 CPU，有哪些值得关注的信息？</a><figure data-size="small"><img src="https://pic3.zhimg.com/v2-6dbef8b0483616561cdfe11a29fd830c_1440w.jpg" data-rawwidth="720" data-rawheight="404" data-size="small" data-caption class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6dbef8b0483616561cdfe11a29fd830c_r.jpg" referrerpolicy="no-referrer"></figure><p>拍照方面，pro多了一颗3倍变焦镜头，拍远景非常合适。</p><p>屏幕方面pro更亮，而且自适应刷新，120hz高刷带来了丝滑体验，还是自适应，也省电。</p><p>做工方面，Pro采用不锈钢边框，抗摔性好，有些不喜欢戴保护套的小伙伴，摔了也不容易出现磨损。</p><p>而13采用的是铝合金边框，抗摔性差点。</p><p>价格方面，pro也比13贵了2000元，这都可以买一台低配的<a href="https://www.zhihu.com/search?q=%E7%BA%A2%E7%B1%B3k40&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2116599864%7D" class="internal">红米k40</a>了，换来了更好的高刷屏幕，以及拍照，做工，就看个人能否接受了。</p><p>这次预算差点，直接13，否则13 pro更不错，高刷，拍照更出色，做工也更好。</p>  
+</div>
+            
