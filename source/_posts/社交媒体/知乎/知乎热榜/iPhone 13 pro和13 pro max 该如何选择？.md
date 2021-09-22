@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2784'
+headimg: 'https://picsum.photos/400/300?random=7157'
 author: 知乎
 comments: false
-date: Wed, 22 Sep 2021 03:44:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2784'
+date: Wed, 22 Sep 2021 04:56:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7157'
 ---
 
 <div>   
-Ted说的回答<br><br><p>想要更<b>均衡</b>就选择<b>iPhone 13 Pro</b>，想要<b>极致的续航</b>就选择<b>iPhone 13 Pro Max</b>。</p><p> iPhone 13 Pro和iPhone 13 Pro Max相比，两者的主要差距在于电池容量以及屏幕尺寸，重量。</p><p>拍照，充电，屏幕刷新率方面两者都是一致的。</p><p>iPhone 13 Pro Max比iPhone 13 Pro重了大概30g，主要是因为机身尺寸更大，内部容纳元器件的空间也更广。</p><p>续航方面，毫无疑问iPhone 13 Pro Max要比iPhone 13 Pro强很多，毕竟机身尺寸更大，可以容纳更大的电池。</p><p>而同为128GB版本的iPhone 13 Pro Max是要比iPhone 13 Pro贵1000元，这一千元的差价主要是电池容量也就是续航部分的差异。</p><p>所以 ，如果你追求更高的续航，那么就选择iPhone 13 Pro Max，想要更均衡一些就选iPhone 13 Pro，毕竟iPhone 13 Pro Max那个重量快半斤了。</p><p><b>最后，欢迎关注我 <a class="member_mention" href="http://www.zhihu.com/people/e43bd7ee77f1a743ccb7a9b2a55e0d6d" data-hash="e43bd7ee77f1a743ccb7a9b2a55e0d6d" data-hovercard="p$b$e43bd7ee77f1a743ccb7a9b2a55e0d6d">@Ted说</a>  一起聊手机数码产品！</b></p>  
+Maps的回答<br><br><p>聊一下我自己为什么买Pro吧</p><p>一是因为预算，毕竟pro max确实要比pro还要贵上一千，说多不多说少不少，也够我出去下两回馆子了（俺可太穷了555</p><p>二是因为尺寸，我们都知道这一代（13系列）的pro版本重量已经来到了两百克，而pro max还要再重上二三十克，我觉得我接受不了</p><p>之前手里用过的安卓机就是二百二十克左右，6.67英寸，刚开始用确实不太适应，当时想的是以后换机尽量不买这么重，尺寸这么大的</p><p>相比大尺寸的观看体验我更想要舒适的握持手感，要大屏我完全可以拿ipad</p><hr><p><br></p><p>于我来说，因为pro和pro max的拍照功能及相机模组是一样的，所以在拍摄能力相同的情况下我更偏向于选择手感更佳的，那么大的续航对我来说没啥必要</p><p>当然，pro max有它的优势，那就是更强的续航，更大的画面，这个就是个人的抉择问题了，这些东西你想不想要</p><p>如果想要，且预算足够</p><p></p>  
 </div>
             
