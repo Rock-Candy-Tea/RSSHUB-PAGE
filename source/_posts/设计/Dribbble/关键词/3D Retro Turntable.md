@@ -1,0 +1,36 @@
+
+---
+title: '3D Retro Turntable'
+categories: 
+ - 设计
+ - Dribbble
+ - 关键词
+headimg: 'https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=400x300'
+author: Dribbble
+comments: false
+date: Invalid Date
+thumbnail: 'https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=400x300'
+---
+
+<div>   
+<div class="media-content">
+      <img class="lrg-16x12" alt="3D Retro Turntable device voice recorder music player old vintage cycle render cinema 4d blender classic illustration icon music disk green turntable 3d retro" width="768" height="579" data-id="11431153" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/00534b629c3433757b03fb0610f9851d.png?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
+  </div>
+
+  <div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="3D Retro Turntable device voice recorder music player old vintage cycle render cinema 4d blender classic illustration icon music disk green turntable 3d retro" width="768" height="579" data-id="11431154" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/b1e4dc84bbef8de375ade5b7c373d6b6.png?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+
+  <div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="3D Retro Turntable device voice recorder music player old vintage cycle render cinema 4d blender classic illustration icon music disk green turntable 3d retro" width="768" height="579" data-id="11431155" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/824a0bc4231493f11f1b5fc4353e137d.png?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+
+  <div class="media-content">
+      <img class="lrg-16x12 lazyload" alt="3D Retro Turntable device voice recorder music player old vintage cycle render cinema 4d blender classic illustration icon music disk green turntable 3d retro" width="768" height="579" data-id="11431156" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=1600x1200 1600w" data-src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=400x300" data-sizes="auto" skip_resize="false" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" src="https://cdn.dribbble.com/users/1418040/screenshots/16501763/media/9de74ea9c7d6b7264490a0c9cae12757.png?compress=1&resize=400x300" referrerpolicy="no-referrer">
+  </div>
+<br>
+                        <br>
+                        0 likes<br>
+                        0 saves  
+</div>
+            
