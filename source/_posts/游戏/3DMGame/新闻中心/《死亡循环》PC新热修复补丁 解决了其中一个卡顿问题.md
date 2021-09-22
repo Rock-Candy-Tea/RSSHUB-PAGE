@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210922/1632270002_3736
 《<a target="_blank" href="https://www.3dmgame.com/games/deathloop/">死亡循环</a>》PC版发布新热修复补丁1.708.4.0，修复了一些玩家鼠标镜头移动时可能产生的卡顿问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210922/1632270002_373695.jpg" alt="《死亡循环》PC新热修复补丁 解决了其中一个卡顿问题" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210922/1632270002_373695.jpg" alt="《死亡循环》PC新热修复补丁 解决了其中一个卡顿问题" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 此外，官方表示他们已经在调查一个单独的、但和以上相似的问题，该问题也会导致游戏在高帧率下产生卡顿。一旦有了更多消息，会进一步更新该问题的解决方法。

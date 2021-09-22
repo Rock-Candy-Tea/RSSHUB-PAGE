@@ -1,0 +1,18 @@
+
+---
+title: '最后一届RMR赛事——IEM秋季赛各赛区分组情况揭晓'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/09/21/9222cbf6fb1a6412d2b6621d5d52927f/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Wed, 22 Sep 2021 08:52:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/09/21/9222cbf6fb1a6412d2b6621d5d52927f/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p>导语：六个赛区最后的RMR赛事的分组已经全部抽签完毕。<br></p></blockquote><p>ESL已经于21日晚公布了即将举行的IEM秋季RMR赛事的所有分组，全球六个赛区的参赛队伍包括欧洲24队，独联体和北美各12队，亚洲、大洋洲和南美洲各4队。</p><p><img class="lazy" data-height="533" src="https://imgheybox.max-c.com/bbs/2021/09/21/9222cbf6fb1a6412d2b6621d5d52927f/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h4 class="img-desc">TYLOO和VG在IEM秋季赛之前并列亚洲RMR排行榜第一</h4><p>规模最大的IEM秋季赛是在欧洲举行的，这里有四个小组每组六支队伍，其中包含了该赛区的所有顶尖队伍和一些通过漫长的预选赛取得参赛名额的挑战者。小组赛阶段每组都将进行六队BO1循环，前两名晋级淘汰赛。<br></p><p>目前欧洲RMR积分最高的Heroic被安排在B组，而同组的Complexity将期望通过本次赛事赢得关键的积分以参加Major。在A组中有G2和mousesports这两支积分前三队伍，他们要面对的是FPX和BIG等积分排名还处于可参加Major区间的队伍。</p><p>由Vitality领衔的C组中，OG和Sprout都处于获得Major参赛资格的悬崖边，本组还有自休赛期以来一直令人瞩目的ENCE战队。在D组中积分排名第四的NiP与排名第九的Double Poney，将要面对的是FaZe、fnatic和保加利亚双雄SKADE与Fiend的挑战。</p><p><b>欧洲区分组如下：</b></p><p><img class="lazy" data-height="415" src="https://imgheybox.max-c.com/bbs/2021/09/21/613f81cb21d95e854ec4bca2ab6916da/thumb.png" data-width="513" referrerpolicy="no-referrer"></p><h4 class="img-desc"></h4><p><img class="lazy" data-height="677" src="https://imgheybox.max-c.com/bbs/2021/09/21/eefce0610228b1fc52bde2f7a601eb6e/thumb.png" data-width="724" referrerpolicy="no-referrer"></p><p>独联体赛区的12支队伍分为两组，本赛区RMR排行前二的队伍NaVi和Spirit都位于A组。真正激烈的战场在B组，积分排名第三的Gambit将要面对的是将会为了Major名额拼尽全力的forZe、K23和VP等队。<br></p><p><b>独联体区分组如下：</b></p><p><img class="lazy" data-height="204" src="https://imgheybox.max-c.com/bbs/2021/09/21/6c1e8d88ee5c7c8dfffd4aaa9bcab2b7/thumb.png" data-width="471" referrerpolicy="no-referrer"></p><h4 class="img-desc"></h4><p><img class="lazy" data-height="458" src="https://imgheybox.max-c.com/bbs/2021/09/21/cc7e65cece60a8e3ae4c09c5bff00cc2/thumb.png" data-width="722" referrerpolicy="no-referrer"></p><p>北美赛区中有10个参赛名额被北美和巴西队伍瓜分，剩下的两个名额由澳洲的EXTREMUM和南非的ATK占据。目前北美赛区的RMR积分榜上，EXTREMUM、Liquid和FURIA位居第一梯队，EG和00Nation紧随其后。但Extra Salt和paiN与前面数队的积分差距并不大，如果他们能够在本次赛事取得好成绩，就很有可能反超排名。<br></p><p><b>北美区分组如下：</b></p><p><img class="lazy" data-height="198" src="https://imgheybox.max-c.com/bbs/2021/09/21/7eee0482d0fe40aa36634f360cd7b5ac/thumb.png" data-width="491" referrerpolicy="no-referrer"></p><h4 class="img-desc"></h4><p><img class="lazy" data-height="426" src="https://imgheybox.max-c.com/bbs/2021/09/21/0afbd3560db05975dfd4bb8715d1fb69/thumb.png" data-width="723" referrerpolicy="no-referrer"></p><p>亚洲和大洋洲都是四队参赛，但这两个赛区的悬念都在前两名之间。因为他们的积分领先优势足够大，只要拿到IEM秋季赛分配的最低积分他们就不可能掉出前二。<br></p><p>但由于每个地区只有一个Major名额，VG和TYLOO（亚洲区并列前二）以及Renegades和ORDER（Renegades领先ORDER180分）将拼尽全力。</p><p>南美洲也是如此，主要的竞争发生在MIBR和Sharks之间。虽然目前是MIBR领先，但分数差距并不大（55分）。如果Sharks在IEM秋季赛的成绩比MIBR要更好，那就是由Sharks参加今年的Major。</p><p><b>亚洲、大洋洲和南美区分组如下：</b></p><p><img class="lazy" data-height="302" src="https://imgheybox.max-c.com/bbs/2021/09/21/608bc999ca9282dfd326a117a84e3b18/thumb.png" data-width="503" referrerpolicy="no-referrer"></p><h4 class="img-desc"></h4><p><img class="lazy" data-height="318" src="https://imgheybox.max-c.com/bbs/2021/09/21/861c7819216b58efd24809816a8b80ac/thumb.png" data-width="722" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="279" src="https://imgheybox.max-c.com/bbs/2021/09/21/d3a7385da97279f9acecb04acbaf66a7/thumb.png" data-width="722" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="427" src="https://imgheybox.max-c.com/bbs/2021/09/21/8532115b2b6dc7271f74759e12e53f5a/thumb.png" data-width="724" referrerpolicy="no-referrer"></p>  
+</div>
+            
