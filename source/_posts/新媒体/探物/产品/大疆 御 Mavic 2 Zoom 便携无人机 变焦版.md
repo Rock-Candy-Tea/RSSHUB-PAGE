@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb'
 author: 探物
 comments: false
-date: 2021-09-22 05:07:32
+date: 2021-09-22 06:09:04
 thumbnail: 'https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 Mavic 2 Zoom 便携无人机 变焦版</strong><br><br>
-          价格: ￥43.12 / 日<br>
+          价格: ￥48.51 / 日<br>
           评分: 4.9
           
 </div>
