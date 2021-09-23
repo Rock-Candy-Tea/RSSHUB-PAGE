@@ -1,0 +1,19 @@
+
+---
+title: '日新科技参评_维科杯·OFweek 2021卓越BIPV解决方案企业_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/23/guanghua/1632362572885085841.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 23 Sep 2021 02:01:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/23/guanghua/1632362572885085841.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2021年9月28日－10月9日进入网络投票环节，最终获奖结果将于10月21日在深圳举办的“OFweek 2021（第十二届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>武汉日新科技股份有限公司参评“维科杯·OFweek 2021卓越BIPV解决方案企业”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-indent: 2em; text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/23/guanghua/1632362572885085841.jpg" referrerpolicy="no-referrer"></strong></p><p style="text-indent: 2em; text-align: left;">日新科技成立于2001年，是＂BIPV＋＂平价智慧能源解决方案服务商，光电建筑一体化技术领航者。二十年专注光伏阳光事业，形成了以光伏产品智能制造为基础、<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260009-xitongjicheng.html" target="_blank" title="光伏系统">光伏系统</a></span>智能集成为核心、光伏系统智能运维及新能源综合利用为支撑的三大价值链。日新科技以二十年丰富实践经验，结合华为数字能源技术，助力平价光伏清洁能源进入千家万户、千行百业。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek 2021卓越BIPV解决方案企业</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">日新科技二十年专注光伏，尤其是BIPV领域。参与建筑太阳能《国家建筑标准设计图集<span style="text-indent: 2em;">》、《湖北省太阳能光电建筑应用图集》、《光电建筑一体化智能光伏系统及智能运维技术规程》编制；获批全国唯一一个“BIPV全产业链示范应用与服务”现代服务业综合试点，承担BIPV相关国家“863”课题，拥有相关专利144项。</span></p><p style="text-indent: 2em; text-align: left;">2009年建成湖北省首个兆瓦级BIPV园区，成功实施了包括国家住建部大楼、武汉火车站、武汉新城国际博览中心（单体建筑装机10MW）等一系列有行业代表性的BIPV项目，积累了丰富的实践经验。2021年6月，日新科技与华为面向全球共联合布了绿电系统解决方案。</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">参评仍在火热进行中，有意参评企业可联系点击链接</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">维科杯OFweek 2021<a href="https://solar.ofweek.com/" target="_blank" title="太阳能" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration-line: none;">太阳能</a>光伏行业年度评选</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;"><a href="https://www.ofweek.com/award/2021/solar/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration-line: none;">https：／／www．ofweek．com／award／2021／solar／</a></p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;">同期举办OFweek 2021（第十二届）太阳能光伏产业大会</p><p style="padding: 0px 0px 1em; margin-top: 0px; margin-bottom: 0px; border: 0px; line-height: 2; color: rgb(49, 66, 78); text-indent: 2em; font-family: PingFangSC-Regular; white-space: normal;"><a href="https://www.ofweek.com/seminar/2021/solar/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration-line: none;">https：／／www．ofweek．com／seminar／2021／solar／</a></p> 
+  
+</div>
+            
