@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cdn.max-c.com/heybox/game/header/1210320_3JuYN.jpg'
 author: 小黑盒
 comments: false
-date: 2021-09-23 07:08:14
+date: 2021-09-23 08:08:52
 thumbnail: 'https://cdn.max-c.com/heybox/game/header/1210320_3JuYN.jpg'
 ---
 
 <div>   
 <img src="https://cdn.max-c.com/heybox/game/header/1210320_3JuYN.jpg" referrerpolicy="no-referrer"> <br>
-            平台: PC<br>折扣力度: 9折<br>当前价格: 45[史低]  原价: 50<br>评分: 8.3<br><br>  
+            平台: PC<br>折扣力度: 9折<br>当前价格: 45[史低]  原价: 50<br>评分: 8.5<br><br>  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: 'Netgear发布固件更新公告：十余款路由器受Circle RCE安全漏洞影响'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583691_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 22 Sep 2021 23:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583691_1024.jpg'
+---
+
+<div>   
+<p>Netgear 刚刚发布了一份安全公告，提供旗下十余款路由器的用户们尽快更新固件。<strong>受一个可被攻击者利用来远程执行代码的安全漏洞的影响，你甚至会在不使用相关软件的情况下成为受害者。</strong>具体受影响的型号包括 R6400v2、R6700、R6700v3、R6900、R6900P、R7000、R7000P、R7850、R7900、R8000，以及 RS400 。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/614c2a1db15ec01891583691_1024.jpg" data-height="536" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583691_1024.jpg" referrerpolicy="no-referrer"></div></div>Netgear R7000P 资料图<p></p><p>考虑到产品实际零售名称与型号代码的对应关系不太好分辨，建议广大用户查看 Netgear 路由器底部的标签来辨别自己是否中招。</p><p>如果不幸躺枪，还请尽管移步至 Netgear 官网支持页面，输入设备型号并下载相应的补丁，然后参照发行说明以顺利更新固件。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/614c2a1db15ec01891583692_1024.jpg" data-height="378" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583692_1024.jpg" referrerpolicy="no-referrer"></div></div>图 - 1：创建恶意 Circle 数据库<p></p><p>安全公司 Grimm 在一篇博文中指出：该漏洞源于最初由迪士尼设计的 Circle 第三方家长控制软件。作为一个可选功能，即使用户并不需要，它也被预装在了多款 Netgear 路由器上。</p><p>Adam Nichols 解释称：" 路由器上 Circle 家长控制服务的更新过程，允许具有网络访问权限的远程攻击者通过中间人攻击（MitM）的方式、伪造 root 身份来执行远程代码（RCE）"。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/614c2a1db15ec01891583693_1024.jpg" data-height="572" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583693_1024.jpg" referrerpolicy="no-referrer"></div></div>图 - 2：创建一个带有绝对路径的打包文件（Linux 平台上的 tarball）<p></p><p>糟糕的是，即使没有在受影响的 Netgear 路由器上默认启用家长控制功能，Circle 的更新守护程序也会在默认情况下启用。</p><p>Nichols 补充道：该守护进程连接到了 Circle 和 Netgear，以获取诸如版本号之类的信息、并更新其过滤数据库。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/614c2a1db15ec01891583694_1024.jpg" data-height="822" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583694_1024.jpg" referrerpolicy="no-referrer"></div></div>但最让人感到忧虑的是，来自 Netflix 的数据库更新竟然不带签名，并且是通过不安全的 HTTP 超文本传输协议（而非 HTTPs）来下载的。<p></p><p>这意味着中间人攻击的发起者可在通信流量中插入特制的数据库文件，在提取文件之后，攻击者可利用其控制的代码而覆盖可执行文件。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202109/614c2a1db15ec01891583695_1024.jpg" data-height="340" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c2a1db15ec01891583695_1024.jpg" referrerpolicy="no-referrer"></div></div>截图（来自：Netgear 官网）<p></p><p>最后，尽管 Circle 已于去年底停用了初代 MyCircle 应用和 Circle Go 移动设备管理软件，但其声称这项变动并不适用于 Circle on Netgear 产品线。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-09-23 07:07:16
-thumbnail: 'https://pic2.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
+date: 2021-09-23 08:08:00
+thumbnail: 'https://pica.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">爱范儿，</span><span class="bio">数字公民的糖</span>
 <a href="https://www.zhihu.com/question/488070473/answer/2133083311" class="originUrl" hidden>查看知乎原文</a>
 </strong>
