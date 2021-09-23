@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1653'
+headimg: 'https://picsum.photos/400/300?random=1703'
 author: 知乎
 comments: false
-date: Wed, 22 Sep 2021 20:34:40 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1653'
+date: Thu, 23 Sep 2021 01:28:41 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1703'
 ---
 
 <div>   
-隐蔽之鲷的回答<br><br><p>从第四名往后也就图一乐了。</p><p>其实不客气地讲从第二名往后也就这意思了。</p><p>大概就是比比空气里的氦气和氖气哪个含量高，然而含量最高的是氮气，你呼吸靠的是氧气，其他的东西只要没毒其实大家都不太关心。</p><p>里面只有国内正规发行的游戏，没有吃鸡。以吃鸡为代表的国外平台游戏和各种外服还要分一波流。</p><p>去网吧的都知道，没人玩原神，也没人玩csgo。事实上敢在网吧打fps的越来越少了，敢打的要么不懂，要么头铁，要么户口本就一页。</p>  
+老高看电视的回答<br><br><p>十几年前家里刚翻新电脑的时候，修电脑的大哥问了我一句。</p><p>知道现在网吧为什么没有人玩传奇了吗？</p><p>我摇摇头不知道。</p><blockquote>因为这帮老逼现在都躲在家里玩了。</blockquote><p>单位对面有一个洗浴中心，除了按摩捏脚的必备项目，里面还有一个比网吧配置还好的电脑房。</p><p>然而这么牛逼的电脑房，在这群奔四的老爷们手里，玩得最多的不是dota lol，也不是魔兽cs，是TM的war3 rpg。</p>  
 </div>
             
