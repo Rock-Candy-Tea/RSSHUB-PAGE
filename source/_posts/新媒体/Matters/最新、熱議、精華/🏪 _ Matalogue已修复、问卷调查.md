@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - Matters
  - 最新、熱議、精華
-headimg: 'https://picsum.photos/400/300?random=8390'
+headimg: 'https://picsum.photos/400/300?random=2504'
 author: Matters
 comments: false
 date: Wed, 22 Sep 2021 22:50:11 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8390'
+thumbnail: 'https://picsum.photos/400/300?random=2504'
 ---
 
 <div>   
