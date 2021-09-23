@@ -18,7 +18,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/08/tim
 <p><span id="more-755923"></span>
 </p>
 <p>The memo was sent to employees on Tuesday evening and it comes after the <a href="https://9to5mac.com/2021/09/17/apple-covid-19-required-testing/">details of an Apple all-hands meeting leaked</a> on Friday. In the memo, Cook says that he’s heard many employees were “incredibly frustrated to see the contents of the meeting leak to reporters.” </p>
-<p>While Cook’s memo comes after the details from an Apple all-hands meeting leaked on Friday, this also extends to product leaks as well. Cook acknowledges that a number of details regarding the iPhone 13 and other Apple announcements leaked prior to Apple’s September event. </p>
+<p>While Cook’s memo comes after details from the meeting leaked, this also extends to product leaks. Cook acknowledges that a number of details regarding the iPhone 13 and other Apple announcements leaked prior to Apple’s September event. </p>
 <p>Cook says that Apple is doing “everything in our power” to track down those responsible for leaks to the press: </p>
 <blockquote class="wp-block-quote">
 <p>I’m writing today because I’ve heard from so many of you were were incredibly frustrated to see the contents of the meeting leak to reporters. This comes after a product launch in which most of the details of our announcements were also leaked to the press.</p>
