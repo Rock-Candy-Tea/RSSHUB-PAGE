@@ -1,0 +1,18 @@
+
+---
+title: '代号_monet_的Google壁纸主题引擎有望在Android 12.1中开源'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f0_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 22 Sep 2021 22:26:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f0_1024.jpg'
+---
+
+<div>   
+<p>不会出现在 Android 12 开源代码中的一个主要功能，就是代号为 "monet" 的壁纸主题引擎。<strong>不过这种非开源似乎只是暂时的，有证据表明 "monet" 将随着 Android 12.1 的发布而被完全开源。</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f0_1024.jpg" data-height="701" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f0_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f1_1024.jpg" data-height="701" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c1e2e8e9f093f432f58f1_1024.jpg" referrerpolicy="no-referrer"></div></div>自 Android 5.0 Lollipop 在 2014 年引入 Material Design 以来，Android 12 在用户界面上的变化最为明显。Google 的设计语言经过多年的发展，为了反映最新的迭代对个性化的强调，Google 已经将其重新命名为 "Material You"。<p></p><p>Material You 设计语言的特点之一就是上文提及的 "monet" 主题系统，该系统根据用户的壁纸自动生成一个调色板。Google 称，一个采用聚类算法的颜色提取引擎与 Material 的颜色目标确定了用户壁纸的主导颜色和次主导颜色。</p><p>然后，调色板生成算法创建了一个由 5 种颜色组成的丰富调色板 --2 种中性色和 3 种重点色 -- 以及 12 种材料色的色调，用来确定最接近用户壁纸的色调。这些颜色值被保存在一个索引中，应用程序可以通过 API 调用，让他们也能为自己的用户界面做主题。</p><p>早在今年早些时候的 I/O 开发者大会上，Google 首次公布其 "monet" 主题系统时，该公司表示，它将在秋季首先出现在 Google Pixel 手机上。</p><p>然而，目前还不清楚 Google 是否只是声称 "monet" 的首发排他性，还是该功能将完全为运行 Android 12 的 Pixel 手机所独有。换句话说，我们不知道像三星、小米、OPPO 或 OnePlus 这样的设备制造商是否能在他们自己的操作系统中完全使用 "monet"。</p><p>幸运的是，Google 似乎已经准备好发布这一算法的源代码。两个消息来源证实，Google 最近提交了一个名为 " 在 AOSP 中添加 monet" 的代码修改。这个补丁最初只在 Android 13 "Tiramisu" 的 AOSP 内部分支中提供，但最近被挑到了 Android 12-sv2 内部分支中。</p><p>Android 12-sv2 将是一个维护更新，伴随着 API 级别的提升，所以我们暂且称之为 Android 12.1。除了一张新的壁纸，该更新还将为可折叠手机的体验带来一些小的改进，包括任务栏功能。当然，这显然将是第一个包含 "monet" 源代码的版本。</p><p>下面的截图取自运行 Android 12.1 内部 AOSP 版本的设备，显示 "monet" 已经在开源版本中实现。只是目前尚不清楚 Google 何时会发布 Android 12.1.</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f2_1024.jpg" data-height="500" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f2_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f3_1024.jpg" data-height="500" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f3_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f4_1024.jpg" data-height="500" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/614c1e2e8e9f093f432f58f4_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
