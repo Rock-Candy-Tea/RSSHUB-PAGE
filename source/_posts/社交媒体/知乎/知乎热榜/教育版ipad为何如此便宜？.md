@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5357'
+headimg: 'https://picsum.photos/400/300?random=519'
 author: 知乎
 comments: false
-date: Thu, 23 Sep 2021 09:09:50 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5357'
+date: Thu, 23 Sep 2021 12:55:41 GMT
+thumbnail: 'https://picsum.photos/400/300?random=519'
 ---
 
 <div>   
-飘来荡去的回答<br><br><p>因为苹果根本没指望能从教育优惠的iPad赚大钱，利润的大头在iPhone那边。</p><p>比起请流量明星代言，以更便宜的价格让更多的学生和老师口口相传，不比每天担心流量明星翻车要好的多？</p><p>每年的返校季活动也是各种上热搜，这才叫“性价比营销”，还不用担心翻车。</p><hr><p>以入门级的iPad为例，起步价只要2349。</p><p>2000出头，对于大部分大学生来讲处于“不是拿不出来”，但“花着也得考虑考虑”的水平。</p><p>但看着身边的同学们“人均iPad”，谁能不心动呢？</p><p>于是乎，2349走起。</p><p>你以为这就结束了？</p><p>不，</p><p>这是是开始~</p><p>①我买iPad，当然是为了学习，Apple pencil要整一个，+500</p><p>②我要换手机了，听说iOS生态不错，刚好有iPad了，那就换iPhone12吧，+5000</p><p>③5GiCloud不够用呀~照片都不能同步到iPad上，iCloud也不贵，整一个。一个月+6元。</p><p>④iPhone咋没耳机孔捏，以前的C口耳机也插不上了，听说苹果设备用AirPods不错，整一个吧~+1500</p><p>⑤作为当代大学生，不能天天宅在寝室吧~我要运动，Apple watch买一个~+3000</p><p>⑥我这五六千的手机，两三千的手表，还有这么好的耳机，配入门iPad拉胯啊~Pro走起~+6000</p><p>⑦诶？我的一代pencil怎么不能用了，擦，Pro只能用二代pencil……算了，在整一个。+800</p><p>这么一算，苹果相当于用一部入门级iPad拉回来了一个苹果全家桶，外加长期续费iCloud的用户。</p><p>一旦上了苹果生态的这条船，想下去可就没那么容易了。</p><p>推荐阅读：</p><p><a href="https://zhuanlan.zhihu.com/p/375844150" class="internal">你真的需要iPad吗？-2021年iPad选购攻略</a></p><p></p>  
+404NotFound的回答<br><br><p>我讲讲我是怎么被苹果绑架的吧……</p><p>最初是几年前的网站年会，抽奖摸了台iPad。</p><p>iPad有了，Apple Pencil得有吧？当天就买了一支Apple Pencil。</p><p>然后寻思着，AirPods体验那么好，不如买一个吧，反正刚好有个iPad可以用，看剧体验应该不错。</p><p>好了，AirPods有了，我就想着，手机是不是换成iphone体验会好一些，用安卓虽然也能连，但延迟高很多，于是就有了iphone。</p><p>接着，我寻思着主力机都换成iphone了，那么手环是不是也换一下…就有了Apple Watch…</p><p>再之后，我想着手机都是苹果的了，不如就用苹果电脑体验下全家桶的便捷吧……</p><p>后来iPad Air4发布，我看了眼旧的iPad……还是大屏全面屏舒服，而且出门带着方便。</p><p>iPad Air4都有了，我出门肯定是带着码字啊，那Magic Keyboard得有吧？</p><p>所以到现在桌上的设备是，两个iPad，一个iphone，一台MacBook Air，一台Macmini，两个Magic keyboard（一个Mac用的，一个iPad Air4用的）……</p><p>最初就怪那台免费的iPad……</p><p>要是没有当初那台iPad，能省下来几万块。</p><p>严重怀疑苹果是和各公司暗中勾结，让年会啥的抽奖送他家设备，用两千多的低配iPad撬动几万块的消费。</p><p>如果按单个产品来看，几乎每一样产品都能轻易在别的牌子找到更好更便宜的，单项竞争每一项功能都有比苹果强的，但如果组合起来，真的没一家能打苹果……</p><p>年轻人别碰这东西。</p><p>……</p><p></p>  
 </div>
             

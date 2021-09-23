@@ -1,0 +1,18 @@
+
+---
+title: 'Win11 不会拒绝老电脑，但你愿意签署微软的弃权书吗'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b0f_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 23 Sep 2021 04:16:46 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b0f_1024.jpg'
+---
+
+<div>   
+<p>微软近日推出了 Win11 健康 " 电脑健康状况检查 " 工具的正式版，在系统即将上线时为用户带来了最后的检查，同时爆出的还有弃权书消息。</p><p>微软 Win11 兼容性检查工具正式版发布</p><p>微软在过去三个月里测试了 Win10 平台的 " 电脑健康状况检查 " 工具，这是一个免费工具，任何人都可以通过它来确定自己的电脑为什么不能满足 Win11 的最低硬件要求。</p><p>经过广泛的测试，该兼容性检查器应用程序终于推出了正式版，官网的 COMING SOON 也变成了下载链接，面向所有用户开放下载。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b0f_1024.jpg" data-height="286" data-width="650" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b0f_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：微软官方<p></p><p>微软 " 电脑健康状况检查 " 工具于 6 月的最后一周首次发布，但在用户反馈出现问题后，该工具被微软删除，而后被重新发布给一些 Windows 内部人士进行测试，然后才向公众（非内部人士）发布。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b10_1024.jpg" data-height="511" data-width="650" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b10_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：微软官方<p></p><p>Win11 电脑健康状况检查工具将检查用户的 PC 是否满足系统要求。如果没有，该应用程序将说明原因，并提供指向微软文档的链接。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b11_1024.jpg" data-height="543" data-width="650" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b11_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：微软官方<p></p><p>Win11 不会拒绝老电脑</p><p>根据微软最新的说法，即使用户不符合 Win11 的硬件要求，也可以通过 ISO 镜像安装 Win11，但将无法接收到系统更新（包括安全更新）。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b12_1024.jpg" data-height="431" data-width="650" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c528bb15ec077cc4e4b12_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：微软官方<p></p><p>据 The Verge 的最新测试，在英特尔第七代酷睿 i7 CPU 的电脑上安装 Win11 时，安装程序弹出了一条不寻常的消息：按下按钮接受确认，电脑将 " 不再受支持 "，如果继续，电脑甚至可能会失去保修资格。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202109/614c528bb15ec077cc4e4b13_1024.jpg" data-height="527" data-width="650" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/614c528bb15ec077cc4e4b13_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：The Verge<p></p><p>也就是说，如果用户强行安装 Win11，微软将可能弹出警告，要求用户同意放弃支持，也就是不再获得更新。</p><p>目前，The Verge 已就该弃权书询问微软官方，但目前还没有得到回应。</p><p>Win11 目前要求兼容 64 位处理器、4GB 内存、64GB 存储空间、UEFI secure boot、图形要求和 TPM 2.0，微软也扩大了兼容的 64 位处理器的名单。显然，为了推广 Win 11，微软还是花了大力气，不过终端市场是否领情就不得而知了。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
