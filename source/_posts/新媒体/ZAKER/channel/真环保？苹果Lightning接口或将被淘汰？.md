@@ -1,0 +1,18 @@
+
+---
+title: '真环保？苹果Lightning接口或将被淘汰？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198d_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 23 Sep 2021 02:11:42 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198d_1024.jpg'
+---
+
+<div>   
+<p>目前主流的充电接口，依旧是呈 Lightning、Type-C、Micro-B 三足鼎立的态势。在充电头不通用的时代曾被民间习惯性地称苹果、安卓、华为。不过，目前包括小米、华为等品牌的大量 Android 新款设备，已然逐渐向 Type-C 靠拢。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198d_1024.jpg" data-height="676" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198d_1024.jpg" referrerpolicy="no-referrer"></div></div>无论是之前的 Dock 口还是现在的 Lightning 口，只有苹果始终坚持使用自家的接口，也正因为独占 Lightning 接口，苹果在配件销售这方面获得了巨额收入。然而，这一局面似乎即将被打破。<p></p><p>据路透社报道，一位知情人士称，欧盟委员会将于今天提出一项关于手机、平板电脑和耳机通用充电器的立法提案。此举可能影响多家电子设备制造厂商，而 iPhone 的制造商——苹果公司则可能遭受最严重冲击。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198e_1024.jpg" data-height="267" data-width="553" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f198e_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>苹果与欧盟的 " 电器规格战 " 旷日持久</strong><p></p><p>据了解，在过去十多年里，欧盟高层及立法者一直考虑强制厂商使用通用充电器，此举既减少了对环境的伤害，又方便了用户使用。内部人员称，欧盟希望将充电器销售与设备分离，并使用统一充电接口。</p><p>据雷锋网报道称，从 2009 年欧盟用 Type-B 充电器统一了当年市场上 30 多种不同充电器规格时，苹果就 " 阳奉阴违 " 在 2012 年为 IPhone5 推出了 "Lightning" 充电器，虽然与 Type-B 并不相同，但可以互相兼容。因此，苹果在没有丢掉自研产品的情况下，适应了欧盟的标准。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/614c4eee8e9f0952ae7f198f_1024.jpg" data-height="343" data-width="553" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/614c4eee8e9f0952ae7f198f_1024.jpg" referrerpolicy="no-referrer"></div></div>图源雷锋网<p></p><p>尽管 Lightning 接口的耐用度设计始终备受用户吐槽，大量用户表示自己曾经历不得不额外付费购买苹果数据线的情况。苹果始终坚持，如果强制将充电器统一成一种规格会阻碍创新，也会制造出海量电子垃圾，还会让消费者不悦。</p><p>然而，如果今年的这条法案顺利通过，最早在 2024 年，苹果将必须放弃其独有的充电器。据估计，这将让欧盟每年减少产生 980 吨电子垃圾。比起去年苹果提出的取消附赠充电头以实现环保目标的说辞，这一数据证明统一充电接口似乎更加利于实现环保目标。</p><p><strong>欧盟统一接口很可能是 Type-C</strong></p><p>前几年，欧盟立法统一了大部分手机等电子设备的充电器标准。苹果的竞争对手们，基于 Android 的设备也逐渐转向统一使用 Type-C 充电。</p><p>从实际使用体验和物理特性来看，如今的 Lightning 已经全面落后于 Type-C。Type-C 接口支持最高的 3A 电流和最大 100W 的功率，而 lighting 接口目前最高也就 20W，充电速度根本无法同日而语。安卓早已开启了快充时代的新纪元，而苹果也不过逃离五福一安大法没多久，仍把 20W 称作 " 快充 "。</p><p>目前，包括 iPad Pro、MacBook Pro、MacBook Air、Pad Air 以及最新款的 iPad mini，不少的苹果生态产品已经开始拥抱 Type-C 接口，但完全统一似乎并不会太快。整体来看，苹果选择继续保持 lighting 接口的收益远远高于转为 Type-C 接口，且苹果生态圈已经非常完善，直接转换为 Type-C 借口还将影响到 iPhone 与大量旧设备的配合使用。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f1990_1024.jpg" data-height="300" data-width="553" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/614c4eee8e9f0952ae7f1990_1024.jpg" referrerpolicy="no-referrer"></div></div>图源苹果发布会截图<p></p><p>如果立法成功，对于苹果来说，除了在短时间内完成接口转化，还有如何实现新产品与旧配件的兼容等太多需要考量的因素；但对于普通消费者来说，倒是省去了购买和收纳不同设备充电线的麻烦。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
