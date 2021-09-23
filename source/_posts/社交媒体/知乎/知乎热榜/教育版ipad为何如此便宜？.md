@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-9586565def23f9cd2ca230654206bf80_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=9171'
 author: 知乎
 comments: false
-date: Thu, 23 Sep 2021 08:48:48 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-9586565def23f9cd2ca230654206bf80_1440w.jpg'
+date: Thu, 23 Sep 2021 09:09:50 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9171'
 ---
 
 <div>   
-sheen的回答<br><br><a href="https://www.zhihu.com/zvideo/1351840070773628928" data-draft-node="block" data-draft-type="link-card"><p><b>商人逐利，舍不得孩子套不着狼。</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9586565def23f9cd2ca230654206bf80_1440w.jpg" data-caption data-size="normal" data-rawwidth="1982" data-rawheight="1366" data-default-watermark-src="https://pic1.zhimg.com/v2-74fce14925f2e08ff0ead2a7e3c882c9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9586565def23f9cd2ca230654206bf80_r.jpg" referrerpolicy="no-referrer"></figure><p>教育版iPad的面向对象：</p><ul><li>幼儿园、初级和高级中学 — 中国的公立或私立幼儿园、初级或高级中学的任何雇员均有资格。</li><li>中国的大学、技术学院、职业学院和大专院校。</li><li>就读于中国的大学、技术学院、职业学院和大专院校或已被录取的学生均有资格购买。</li><li>子女就读于中国的大学、技术学院、职业学院和大专院校或已被其录取，其父母代表该子女有资格购买。</li></ul><p>教育版ipad之所以这么便宜，肯定是有原因的，这些原因可能会是这样:</p><p><b>1、销量优先原则。</b>在国内，受教育群体庞大，有师生，有雇员。使用<b>薄利多销</b>原则不能再好了。</p><p><b>2、习惯培养原则。</b>试想一下，一个小孩从小就开始接触苹果产品，然后小学、初中、高中、大学、就业这个阶段，产品的更新迭代多么的频繁，想想都可怕，用过Apple产品的人都知道，想再转去用其他产品，真的很不容易。</p><p><b>3、除了教育版iPad之外，还有大批量的其他apple产品拥有大量的用户，这是一个连锁反应，买了iPad之后，发现有一个Apple Pencil可能用起来更方便，更顺手。然后想想还缺少一台iPhone，然后工作可能有一台Mac会更好，跑步需要一台Apple Watch 就更完美了。</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-6c47a5bab7b1c378c2a765b76dfe8f83_720w.jpg" data-caption data-size="normal" data-rawwidth="399" data-rawheight="392" data-default-watermark-src="https://pic2.zhimg.com/v2-a3ee996ddf834b1f1c3452d554bfae87_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p><b>所以从小就不要让孩子接触下列产品，以免受伤太深，无法自拔：</b></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>以上。</p><p><br></p><h2>☆☆☆☆☆小时推荐：</h2></a><p><a href="https://www.zhihu.com/zvideo/1351840070773628928" data-draft-node="block" data-draft-type="link-card"></a><a href="https://zhuanlan.zhihu.com/p/374116801" class="internal">2021苹果教育优惠</a></p><h3>iPhone 选购：</h3><p><a href="https://zhuanlan.zhihu.com/p/369758468" class="internal">iPhone 选购</a> | <a href="https://zhuanlan.zhihu.com/p/370227007" class="internal">iPhone 13/12选购</a></p><p><br></p><h3>iPad 选购：</h3><p><a href="https://zhuanlan.zhihu.com/p/369870835" class="internal">iPad 选购</a> | <a href="https://zhuanlan.zhihu.com/p/370878036" class="internal">设计/画画iPad选购</a></p>  
+飘来荡去的回答<br><br><p>因为苹果根本没指望能从教育优惠的iPad赚大钱，利润的大头在iPhone那边。</p><p>比起请流量明星代言，以更便宜的价格让更多的学生和老师口口相传，不比每天担心流量明星翻车要好的多？</p><p>每年的返校季活动也是各种上热搜，这才叫“性价比营销”，还不用担心翻车。</p><hr><p>以入门级的iPad为例，起步价只要2349。</p><p>2000出头，对于大部分大学生来讲处于“不是拿不出来”，但“花着也得考虑考虑”的水平。</p><p>但看着身边的同学们“人均iPad”，谁能不心动呢？</p><p>于是乎，2349走起。</p><p>你以为这就结束了？</p><p>不，</p><p>这是是开始~</p><p>①我买iPad，当然是为了学习，Apple pencil要整一个，+500</p><p>②我要换手机了，听说iOS生态不错，刚好有iPad了，那就换iPhone12吧，+5000</p><p>③5GiCloud不够用呀~照片都不能同步到iPad上，iCloud也不贵，整一个。一个月+6元。</p><p>④iPhone咋没耳机孔捏，以前的C口耳机也插不上了，听说苹果设备用AirPods不错，整一个吧~+1500</p><p>⑤作为当代大学生，不能天天宅在寝室吧~我要运动，Apple watch买一个~+3000</p><p>⑥我这五六千的手机，两三千的手表，还有这么好的耳机，配入门iPad拉胯啊~Pro走起~+6000</p><p>⑦诶？我的一代pencil怎么不能用了，擦，Pro只能用二代pencil……算了，在整一个。+800</p><p>这么一算，苹果相当于用一部入门级iPad拉回来了一个苹果全家桶，外加长期续费iCloud的用户。</p><p>一旦上了苹果生态的这条船，想下去可就没那么容易了。</p><p>推荐阅读：</p><p><a href="https://zhuanlan.zhihu.com/p/375844150" class="internal">你真的需要iPad吗？-2021年iPad选购攻略</a></p><p></p>  
 </div>
             
