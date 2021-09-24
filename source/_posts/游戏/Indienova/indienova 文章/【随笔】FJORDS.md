@@ -1,0 +1,19 @@
+
+---
+title: '【随笔】FJORDS'
+categories: 
+ - 游戏
+ - Indienova
+ - indienova 文章
+headimg: 'https://hive.indienova.com/farm/blog/2021/09/u-850880950712htj.jpg'
+author: Indienova
+comments: false
+date: 2021-09-24 05:07:11
+thumbnail: 'https://hive.indienova.com/farm/blog/2021/09/u-850880950712htj.jpg'
+---
+
+<div>   
+<ul><li><a href="https://www.youtube.com/watch?v=wcKV1ahCCLM" rel="noopener noreferrer" target="_blank"><small>https://www.youtube.com/watch?v=wcKV1ahCCLM</small></a></li><li><a href="https://mooonmagic.itch.io/fjords" rel="noopener noreferrer" target="_blank"><small>https://mooonmagic.itch.io/fjords</small></a></li></ul><p>第一次得知 FJORDS 的时候，是从 Auren Snyder（曾用名 Ian Snyder，后来变性了）创作的平台跳跃游戏 <a href="https://indienova.com/game/the-floor-is-jelly" rel="noopener noreferrer" target="_blank">The floor is jelly</a>。当时我对这款游戏非常喜爱，在着手成就攻略的时候，发现原来游戏中的隐藏要素——屋子里的终端机是在致敬这个历史悠久的老游戏。游戏中一共有三十个终端机，激活它们可以完成收集，以及解开部分难以琢磨的成就。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/09/u-850880950712htj.jpg" referrerpolicy="no-referrer"></p><p>无论是成就图像还是说明，这些夹带的私货难以掩盖作者对 FJORDS 非同一般的热爱。从视频里看，FJORDS 的外表失真而复古，一个不起眼的小人在依山傍水以及乱码纷飞的世界里奔波，有的时候小人掉入无限的深渊，有的时候要和怪物对话，或者制造爆炸，FJORDS 面世于能够预感独立游戏大好风光的年代，但从文档记录看，游戏创建于 2009 年。发售 11 年间，玩过它的人不断在评论区赞扬它带来的魅力，可是独游圈内不断造起的热浪似乎没有为 FJORDS 带动丝毫的涟漪。</p><p>"一个设定在由科学构造的世界中，属于披萨送货员的冒险游戏。”</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/09/u-850880963560exT.jpg" referrerpolicy="no-referrer"></p><p>进入游戏，接过旁边不断响铃的电话，只听见声音一连串急促地发出：“你好我是科学家叫份披萨请送到科学山上谢谢拜”。</p><p>嗯，连科学家也抵挡不了垃圾食品的诱惑。</p><p>在 FJORDS，地图分为数个区域，每个区域根据屏幕显示分割成不同的地形，主角需要穿梭于各个山海地形间为科学家送披萨。不过主角只有一个可以钩住上方地形的钩爪，他不能碰水，碰机关，无法跳跃，光有两条腿可走不了，这个时候，科学的力量就体现出来了。</p><p>嗯没错，正是终端机。</p><p>终端机属于 FJORDS 最核心的机制，通过终端机开启装备或机关，可以打开地图上原本不可通过的道路，或者快速传送到已激活的区域。不仅让送披萨的路途顺风顺水，更让无边界的地图开拓无限的探索乐趣。在 FJORDS，一整片充满秘密的世界等待着你去探索，这些秘密对于游戏内容来说不是显得羞耻，而是欢迎的。它欢迎玩家探索没有终端机传送，独立的地图区域；欢迎他们去找那些 Glitch Pizza，而不是等着别人把它们曝光出来，然后难堪地祝贺别人。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/09/u-850881170835w6P.jpg" referrerpolicy="no-referrer"></p><p><br></p><p>可这和普通的收集要素机制有什么区别呢？</p><p>当年玩脑航员（<a href="https://indienova.com/game/psychonauts" rel="noopener noreferrer" target="_blank">Psychonauts</a>）的时候，我非常烦躁地在地图上七上八下地收集几百张贴纸，当时还在想，为什么要设计这么多收集要素？这个游戏按流程计算足够突破三十个小时，作为玩家的角度，这应该是肉眼可见的可玩性了。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/09/u-8508809506849yJ.png" referrerpolicy="no-referrer"></p><p>脑航员的游戏世界，本应该是多彩到用不着收集机制堆凑。除了贴纸、游戏还需要收集奖杯和迷路的包包，而且这两者可以解锁故事剧情和幕后花絮的奖励。</p><p>或者还有另一种可能：为了一个 Steam 成就，而为了一个头衔去做收集上百张没有特殊意义的贴纸任务，这件事本身让我觉得丧失体验。</p><p><br></p><p>回到 FJORDS 本身，它的流程不长，世界不大，唯一能做的便是探索本身，而这些收集品，就像是探索游戏得到的奖励品，而不是为了完成无谓的任务堆凑的图像。除此之外，每找到一位科学家，他们会表达对于科学不同的视点，之后就能把这些科学家带回披萨地，每当听到科学家扯着奇怪的音调呼喊着披萨，我甚至觉得这游戏有点可爱。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/blog/2021/09/u-850880963580mTr.jpg" referrerpolicy="no-referrer"></p><p>我在 FJORDS 收获的单纯的快乐，原来只是源于游戏纯粹却令人上瘾的探索玩法。在纯粹故障美学和 <a href="https://www.sharecart1000.com/" rel="noopener noreferrer" target="_blank">SHARECART1000</a> 色值构建的空间中，将每一处探索细节化，并让人印象深刻，这大概就是游戏自身的魅力。</p><p><br></p><p>就和当初沉迷 The floor is jelly 一样，即使必须在这个走路都不踏实的世界闯荡，可是靓丽的色彩，加上 Disasterpeace 特有的穿透心灵的音乐，使得这个胶质世界变得清新甚至香甜。落叶或飘雪特效洒满天空的时候，不安定的心理也被这般美丽所包容。</p><p><img class="fr-fin fr-dib" src="https://hive.indienova.com/farm/article/picture/2021/09/pic-steamuserimages-a.akamaihd1547LR.jpg" data-id="23412" data-result="success" referrerpolicy="no-referrer"></p><p>两个类别不同的游戏，它们的喜好却是相似。</p><p>U KNO WUT I LUV，我们都爱执着简单的快乐。</p><p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="200" src="https://indienova.com/widget/game/fjords"></iframe></p>
+              
+</div>
+            
