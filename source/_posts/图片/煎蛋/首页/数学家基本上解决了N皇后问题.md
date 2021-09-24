@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/901f119b8c2ed3c6df284e0a704e1b4c.jpg!custom'
 author: 煎蛋
 comments: false
 date: Fri, 24 Sep 2021 03:40:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/901f119b8c2ed3c6df284e0a704e1b4c.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>大家有没有在计算机课上编程算8皇后问题的经历</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom" referrerpolicy="no-referrer"><p>你听说过古老而又著名的8皇后(8-queens)问题吗？</p>
+<blockquote><p>大家有没有在计算机课上编程算8皇后问题的经历</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/901f119b8c2ed3c6df284e0a704e1b4c.jpg!custom" referrerpolicy="no-referrer"><p>你听说过古老而又著名的8皇后(8-queens)问题吗？</p>
 <p>它已有150多年的历史。它的进阶版本就是所谓的n-queens问题。现在，哈佛大学数学科学与应用中心的博士后Michael Simkin，在7月发表的论文中几乎完全解决了后一问题。</p>
 <p>8皇后问题，就是在国际象棋棋盘上，摆放8个皇后，保证她们无法攻击到彼此，问有多少种摆放方法？<em>如果你想知道答案的话，我悄悄告诉你：92种。</em></p>
 <p>所谓的n皇后问题，就是在n×n的棋盘上摆放n个皇后，用n表示出可能的摆法数目。</p>
@@ -21,7 +21,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6
 <p>著名的8皇后问题最早出现在1848年的一份德国国际象棋杂志上。到1869年，n-queens问题也随之出现。从那时起，数学家们在n-queens问题上产生了一系列的结果。尽管之前的研究人员用计算机数值模拟出Simkin的结果，但他是第一个真正证明它的人。</p>
 <p>解决n-queens问题的一个障碍是，没有明显的方法来简化它。即使在一个相对较小的棋盘上，皇后的潜在排列数量也是巨大的。在一个更大的棋盘上，所涉及的计算量是惊人的。在这种情况下，数学家往往希望找到一些潜在的模式或结构，让他们把计算分解成更容易处理的小块。但是n-queens问题似乎没有任何模式。</p>
 <p>这源于如下事实：棋盘上的所有位置并非都是平等的。</p>
-<p>比如说，棋盘中间的皇后，可以把位置更多置于自己的攻击范围内。而角落里的皇后则威慑力减半。</p>
+<p>比如说，棋盘中间的皇后，可以把更多位置置于自己的攻击范围内。而角落里的皇后则威慑力减半。</p>
 <p>这一事实导致四年前Simkin访问瑞士联邦理工学院苏黎世分校的数学家Zur Luria，合作研究该问题时，决定在更加对称的 "环形棋盘" 上探索答案。</p>
 <p>他们的策略被称为随机贪婪算法，它已被用于解决组合学领域的许多其他问题。</p>
 <p>环形棋盘的对称性给了Simkin他们一个立足点。但环形棋盘以自由换取对称性，最终也使他们遭遇瓶颈。</p>
