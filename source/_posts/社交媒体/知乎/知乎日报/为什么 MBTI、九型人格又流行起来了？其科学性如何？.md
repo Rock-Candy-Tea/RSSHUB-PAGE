@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-09-24 10:07:34
-thumbnail: 'https://pic1.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162'
+date: 2021-09-24 11:05:58
+thumbnail: 'https://pica.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-6638fb3f2c669bcdc7356a4a421773d0_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">壹心理，</span><span class="bio">专业而有趣的心理服务平台，为大众心理健康提供解决方案。</span>
 <a href="https://www.zhihu.com/question/488302544/answer/2133953439" class="originUrl" hidden>查看知乎原文</a>
 </strong>
