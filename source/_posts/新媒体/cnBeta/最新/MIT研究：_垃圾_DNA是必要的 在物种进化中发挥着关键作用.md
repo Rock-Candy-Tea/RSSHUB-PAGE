@@ -1,0 +1,19 @@
+
+---
+title: 'MIT研究：_垃圾_DNA是必要的 在物种进化中发挥着关键作用'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0924/23cb9ebafc30818.jpg'
+author: cnBeta
+comments: false
+date: Fri, 24 Sep 2021 06:29:42 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0924/23cb9ebafc30818.jpg'
+---
+
+<div>   
+据外媒报道，我们的基因组有10%以上是由重复的、看似无意义的遗传物质片段组成的，这些物质被称为“卫星DNA”(satellite DNA)，不为任何蛋白质编码。在过去，一些科学家将这种DNA称为“基因组垃圾”。然而，在一系列跨越数年的论文中，麻省理工学院（MIT）怀特黑德生物医学研究所成员Yukiko Yamashita 及其同事提出了这样的论点：<strong>卫星DNA不是“垃圾”，而是在细胞中具有重要的作用：它与细胞蛋白一起工作，使细胞的所有单个染色体都在一个细胞核中。</strong><br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0924/23cb9ebafc30818.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0924/23cb9ebafc30818.jpg" alt="Junk-DNA-Plays-a-Key-Role-in-Speciation-777x519.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在7月24日在线发表在《分子生物学与进化》杂志上的一项<a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab221/6327694" target="_self">研究</a>中，Yamashita和前博士后研究员Madhav Jagannathan（目前是瑞士苏黎世联邦理工学院的副教授）将这些研究向前推进了一步，提出由卫星DNA促成的染色体组织系统是不同物种的生物体不能产生可生存后代的原因之一。</p><p style="text-align: left;">“七八年前，当我们决定要研究卫星DNA时，我们没有研究进化的计划，”Yamashita说。"这是做科学的一个非常有趣的部分：当你没有一个先入为主的想法，而你只是跟着线索走，直到你碰到完全意想不到的东西。"</p><p style="text-align: left;">研究人员多年来一直知道，卫星DNA在物种之间是高度可变的。她说：“如果你看一下黑猩猩的基因组和人类的基因组，蛋白质编码区域，比如，98%，99%是相同的。但是，垃圾DNA部分是非常非常不同的。”</p><p style="text-align: left;">“这些是基因组中进化最迅速的序列，但之前的观点是，‘好吧，这些是垃圾序列，谁在乎你的垃圾是否与我的不同’？”</p><p style="text-align: left;">但是当他们在调查卫星DNA对纯种动物的生育能力和生存的重要性时，Yamashita和Jagannathan有了他们的第一个暗示，即这些重复序列可能在物种进化中起作用。</p><p style="text-align: left;">当研究人员删除了一种叫做Prod的蛋白质，该蛋白质与果蝇中一个特定的卫星DNA序列结合，果蝇的染色体散落在细胞核外，成为微小的细胞物质团（称为微核），果蝇随后死亡。“但我们在这时意识到，被Prod蛋白结合的这部分（卫星DNA）在黑腹果蝇的最近近亲中完全没有，”Jagannathan说。“它完全不存在。所以这是一个有趣的小问题。”</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0924/c5dc0823cb6442f.jpeg" alt="m_msab221f1.jpeg" referrerpolicy="no-referrer"></p><p style="text-align: left;">如果这块卫星DNA在一个物种中是生存所必需的，但在另一个物种中却缺失了，这可能意味着这两个物种的苍蝇随着时间的推移为同一作用进化出了不同的卫星DNA序列。 而且，由于卫星DNA在保持所有染色体在一起方面发挥着作用，Yamashita和Jagannathan想知道这些进化的差异是否可能是不同物种在繁殖上不相容的一个原因。</p><p style="text-align: left;">Yamashita说：“在我们意识到（卫星DNA在细胞中的）功能之后，卫星DNA在不同物种之间有很大的不同这一事实真的像闪电一样击中了我们。突然间，它变成了一个完全不同的调查。”</p><p style="text-align: left;">为了研究卫星DNA的差异如何成为生殖不相容的基础，研究人员决定把重点放在果蝇家族树的两个分支上：经典的实验室模型黑腹果蝇和它的近亲--拟果蝇。这两个物种在200万到300万年前就相互分化了。</p><p style="text-align: left;">研究人员可以将一只黑腹果蝇的雌性与一只拟果蝇的雄性进行杂交，"但是（杂交）会产生非常不幸的后代，"Yamashita说。"要么是不育，要么是死亡"。</p><p style="text-align: left;">Yamashita和Jagannathan将这些苍蝇培育在一起，然后研究了后代的组织，看看是什么导致这些"不幸"的结果。他们马上就注意到了一些有趣的事情。Yamashita说："当我们观察这些杂种组织时，非常清楚它们的表型与你破坏纯种的卫星DNA（介导的染色体组织）的情况完全一样。染色体是分散的，而不是被包裹在一个单一的细胞核中。"</p><p style="text-align: left;">此外，研究人员可以通过突变亲代苍蝇中被称为"杂交不相容基因"的某些基因来创造一个健康的杂交苍蝇，这些基因已被证明在纯种的细胞中定位于卫星DNA。 通过这些实验，研究人员能够证明这些基因如何影响杂交种的染色体包装，并首次确定与之相关的细胞表型。"我认为对我来说，这可能是这篇论文最关键的部分，"Jagannathan说。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/0924/a874eb5609c1148.jpeg" alt="m_msab221f2.jpeg" referrerpolicy="no-referrer"></p><p style="text-align: left;">综合来看，这些发现表明，由于卫星DNA变异相对频繁，结合卫星DNA和保持染色体在一起的蛋白质必须进化以跟上，导致每个物种发展出它们自己的"战略"来处理卫星DNA。当两个具有不同策略的生物体杂交时，会发生冲突，导致染色体散落在细胞核外。</p><p style="text-align: left;">在未来的研究中，Yamashita和Jagannathan希望对他们的模型进行终极测试：如果他们能够设计出一种蛋白质，能够结合两个不同物种的卫星DNA并将染色体固定在一起，理论上他们可以"拯救"一个注定失败的杂种物种，使其能够生存并产生有活力的后代。</p><p style="text-align: left;">这种生物工程的壮举很可能还要等上几年。Yamashita说：“现在它只是一个纯粹的概念性的东西。"在做这种修补工作时，可能有很多具体的问题需要解决。”</p><p style="text-align: left;">目前，研究人员计划继续调查卫星DNA在细胞中的作用，用他们对卫星DNA在物种进化中的作用的新知识来武装自己。“对我来说，这篇论文令人惊讶的部分是，我们的假设是正确的，”Jagannathan说。“我的意思是，回过头来看，有很多方法可能与我们的假设不一致，所以我们能够从头到尾描绘出一条清晰的道路，这有点令人惊讶。”</p>   
+</div>
+            
