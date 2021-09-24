@@ -1,0 +1,20 @@
+
+---
+title: '曬出鼠鼠的生活費(LIKECOIN)'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/4a226eee-64b3-4dd2-8d76-01facd56e775.jpeg'
+author: Matters
+comments: false
+date: Fri, 24 Sep 2021 14:19:17 GMT
+thumbnail: 'https://assets.matters.news/embed/4a226eee-64b3-4dd2-8d76-01facd56e775.jpeg'
+---
+
+<div>   
+<p>大家好~我是白毛~熱愛倉鼠，也是熱愛馬特市的市民。<br class="smart">今天是來和大家分享鼠鼠的飯飯錢是從哪裡來的~<br class="smart"></p><p>我家的倉鼠，她住的大房子，就花了我將近3000元台幣，每個月大約會花費200-300台幣的飼料費、墊材費。</p><p>老實說我一開始沒有很相信LIKECOIN可以換成台幣，後來將LIKECOIN換成台幣時，有種成就感~也順便補貼倉鼠的生活費。</p><figure class="image"><img src="https://assets.matters.news/embed/4a226eee-64b3-4dd2-8d76-01facd56e775.jpeg" data-asset-id="4a226eee-64b3-4dd2-8d76-01facd56e775" referrerpolicy="no-referrer"><figcaption><span>倉鼠：我每天都要玩沙沙，把紙棉當被被蓋。</span></figcaption></figure><p><br></p><hr><h2><br></h2><h2>我是個甚麼樣類型的創作者</h2><p>老實說我在創作方面，真的是個普通人，不會什麼特別優美的詞句，寫文有超過500字，對我來說都有種超越極限的感覺，所以我什麼都試一點，不管是畫畫、讀書心得、寫微小說、開箱文、美食文、參與社區活動等。</p><p>多這樣嘗試後，我發現有許多追蹤我的人，有看過我的活動文章才追蹤我的，所以<strong>寫活動文除了可以增加收入外，也可以增加自己曝光率。</strong></p><hr><p><strong>﻿</strong></p><h2>我在Matters獲得的創作收入</h2><p>我沒用其他平台宣傳，就很單純的在馬特市創作。</p><p>LIKECOIN是甚麼？一開始我也有這個疑問，對於我來說，它是一種有價值的虛擬貨幣。</p><p>詳細的可以看→<a href="https://matters.news/@thumbb13555/%E7%A2%BC%E8%BE%B2%E6%97%A5%E5%B8%B8-%E9%96%92%E8%81%8A-%E8%AB%87%E8%AB%87%E7%82%BA%E4%BD%95%E6%8B%8D%E6%89%8B%E5%BE%97%E6%94%B6%E7%9B%8A-bafyreibzgz6fijtq56va3uncbkqufkynp4crp4mlwti6pvkqphvbcd2k7u" target="_blank">碼農日常-『閒聊』談談為何拍手得收益?</a></p><p>還有→Dasiy的<a href="https://matters.news/@daisy/like-coin-%E6%96%B0%E6%89%8B%E6%9D%91-%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E8%AB%8B%E7%9C%8B%E7%95%99%E8%A8%80-zdpuAwHNTynzTx2Vi3Q487FNjSsacmzkRoiWpPjFgydW2gy6y" target="_blank">LikeCoin 新手村（不斷更新，請看留言）</a></p><hr><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/b29dbcc9-b678-4dd0-9fcb-0f0196603c6c.png" data-asset-id="b29dbcc9-b678-4dd0-9fcb-0f0196603c6c" referrerpolicy="no-referrer"><figcaption><span>截自LikerLand；從7月至9月的收入</span></figcaption></figure><p>我從2021/07/09發布第一篇文章至09/11共累積42篇文章。</p><p>總收入為<strong>5844.5 LIKECOIN</strong></p><p>約一週發四篇文章，<strong>平均一篇文章，收入139 LIKECOIN</strong></p><hr><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/a026daba-2cf2-440c-83e7-0776fb9dd450.png" data-asset-id="a026daba-2cf2-440c-83e7-0776fb9dd450" referrerpolicy="no-referrer"><figcaption><span>截自Matters我的錢包</span></figcaption></figure><p>成功參與8個社區活動共獲得<strong>6997 LIKECOIN</strong>。<br class="smart">所以我<strong>參加社區活動的收入還比自己寫文來的多。</strong></p><p>後來1000 LIKECOIN 拿去買<a href="https://matters.news/@nk980710/%E7%99%BD%E9%BC%AC%E5%BF%AB%E9%96%83%E9%9B%BB-%E7%99%BD%E9%BC%AC%E9%99%90%E5%AE%9A%E6%AC%BElikecoin%E5%89%B5%E4%BD%9C%E6%9C%89%E5%83%B9%E4%B9%8B%E5%A4%A9%E4%BD%BF%E8%9B%8B%E9%BB%83%E9%85%A5%E7%B5%90%E6%A1%88%E5%A0%B1%E5%91%8A-bafyreifjyxals25ottuht7lwvvhiwu2dglrgekq7xoxbl737q55t2qzgvm" target="_blank">蛋黃酥</a>。並把其中的8000 LIKECOIN換成台幣。</p><p>原以為我不會在這個平台那麼久，一開始我是從<a href="https://matters.news/@jugu/%E5%A4%A7%E5%AE%B6%E4%B8%80%E8%B5%B7%E4%BE%86-%E9%A6%AC%E7%89%B9%E5%B8%82%E9%8A%80%E8%A1%8C%E9%96%8B%E5%BC%B5-%E9%80%A0%E5%B8%82%E7%AF%87-bafyreie3kjxo5kyy34f4gefdbsjmn2pzwjj6grultejxrph2rzlu6hflti" target="_blank">場外交易所</a>換的。後來才開始看別人的文章自己換幣，於是就這樣子，轉來轉去後...</p><pre class="ql-syntax">8000 LIKECOIN=4291 NTD
+平均1LIKE=0.53NTD
+</pre><p><strong>鼠鼠的生活費就誕生了！</strong></p><hr><p><strong>﻿</strong></p><h2>為什麼想推薦馬特市</h2><p><strong>因為創作有價！</strong></p><p>我相信應該有很多人跟我一樣，對於自己的人生方向很迷惘，想斜槓人生，又不知道往哪走，那我覺得可以先來馬特市，依照著自己的節奏創作。這裡有很多優秀的創作者，也可以看看其他市民的文章，找尋屬於自己的方向。</p><figure class="image"><img src="https://assets.matters.news/embed/ba7a616a-21b9-403a-a4d8-510f6899255a.png" data-asset-id="ba7a616a-21b9-403a-a4d8-510f6899255a" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>至少從第一篇文章，跟現在的活動文章比起來我認為有稍微進步一點。</p><p><strong>所以持續創作是會讓自己進步的！</strong></p><h2><br></h2><h2>一起在馬特市持續創作吧~</h2>  
+</div>
+            
