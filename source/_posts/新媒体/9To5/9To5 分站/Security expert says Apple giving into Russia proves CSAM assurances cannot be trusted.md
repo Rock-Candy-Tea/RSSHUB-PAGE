@@ -43,6 +43,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 <p>So far, Apple has merely <a href="https://9to5mac.com/2021/09/03/apple-delays-csam-detection-feature/" target="_blank" rel="noreferrer noopener">delayed its plans to think of additional safeguards</a>, but it’s hard to see how any safeguard could protect against legally imposed or blackmailed capitulation.</p>
 <p><em>Photo: <a href="https://pxhere.com/en/photo/554450" target="_blank" rel="noreferrer noopener">PxHere</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-full is-resized"><a href="https://bit.ly/2VBc69B"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/9to5mac-750x150-native-banner-4.2@2x.jpg?quality=82&strip=all" alt class="wp-image-752270" width="750" height="150" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

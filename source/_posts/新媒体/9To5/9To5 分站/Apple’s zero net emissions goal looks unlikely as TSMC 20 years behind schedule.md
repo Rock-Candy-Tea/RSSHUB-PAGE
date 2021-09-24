@@ -37,6 +37,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/App
 </blockquote>
 <p>Ironically, the chip shortage may help: It has shown that industry is willing to <a href="https://9to5mac.com/2021/09/06/rising-chip-prices-expected-to-continue-into-2022-potentially-impacting-apple-and-tsmc/" target="_blank" rel="noreferrer noopener">pay higher prices for chips</a>, which can help fund environmental initiatives.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3lEfJ7P"><img class="aligncenter wp-image-755154 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/en_us-WD_MyPassportSSD_WEB-BNR-Sustain-750x150V2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

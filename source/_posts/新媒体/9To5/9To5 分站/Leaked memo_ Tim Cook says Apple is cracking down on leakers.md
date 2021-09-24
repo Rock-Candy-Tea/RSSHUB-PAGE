@@ -26,6 +26,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/08/tim
 </blockquote>
 <p>The full memo can be read at the <em><a href="https://www.theverge.com/2021/9/22/22687747/tim-cook-employee-leak-memos-do-not-belong-at-apple?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter">Verge.</a></em> Notably, however, <a href="https://9to5mac.com/2012/05/29/live-blog-tim-cook-interview-with-kara-swisher-and-walt-mossberg-at-d10/">this is not the first time</a> Cook has vowed to double down on Apple’s culture of secrecy. Whether or not the company is successful this time around remains to be seen. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3lEfJ7P"><img class="aligncenter wp-image-755154 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/en_us-WD_MyPassportSSD_WEB-BNR-Sustain-750x150V2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

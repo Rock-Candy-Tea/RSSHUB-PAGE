@@ -1,0 +1,18 @@
+
+---
+title: '我在matters的每一天｜拍拍手就能換取收入的寫作平台'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/dadbd0e9-ca74-4ba5-9f20-bcd50ea1a28e.jpeg'
+author: Matters
+comments: false
+date: Fri, 24 Sep 2021 07:45:04 GMT
+thumbnail: 'https://assets.matters.news/embed/dadbd0e9-ca74-4ba5-9f20-bcd50ea1a28e.jpeg'
+---
+
+<div>   
+<p><br></p><blockquote><strong>緣起</strong></blockquote><p>一開始只是單純想找個平台紓寫自己的生活，又沒有太多廣告，好操作的平台。在馬特市發文之後，一開始其實當然沒什麼人也沒拍手，自己也沒多大期望，有一搭沒一搭的發文。直到有一天，我的mail收到<strong>matters的作者數據周報，以及每月讚賞報告</strong>。過去我從來沒有訂閱這種類似的通知，整個覺得很驚喜，原來有人拍手，原來自己的作品有了回應，matters還特地為了這種小事?特地寄信通知我，覺得非常受到支持跟鼓勵!!於是開始慢慢耕耘。</p><blockquote><strong>關於收入：LikeCoin</strong></blockquote><p><strong>一、實質兌換</strong>：雖然說耕耘，但是一開始不知道LikeCoin是要怎麼用，也想說自己的幣不多，要等到換台幣應該還很久~當時的目標是2000LikeCoin，從五月開始有拍手進來，中間並無太勤奮的發，但截至目前為止，已經達到4000LikeCoin的目標了，換算美幣應該目前是約104美元。(因為是從五月開始有數據就把五月納入了喔)</p><figure class="image"><img src="https://assets.matters.news/embed/dadbd0e9-ca74-4ba5-9f20-bcd50ea1a28e.jpeg" data-asset-id="dadbd0e9-ca74-4ba5-9f20-bcd50ea1a28e" referrerpolicy="no-referrer"><figcaption><span>五月加入以來目前的收入</span></figcaption></figure><p><br></p><p><strong>二、額外驚喜：</strong>在家帶孩子的一種消遣，重點是還可以換到我最愛的貓貓帆布袋!!</p><figure class="image"><img src="https://assets.matters.news/embed/c4a3800d-d347-4e69-8583-f4fa3c91fa11.jpeg" data-asset-id="c4a3800d-d347-4e69-8583-f4fa3c91fa11" referrerpolicy="no-referrer"><figcaption><span>可愛的貓貓帆布袋</span></figcaption></figure><p>PS還有無可買可詢問<a href="https://matters.news/@ericaliu" target="_blank">@貓咪旅行中〔Erica〕﻿</a> 《<a href="https://matters.news/@ericaliu/%E8%B2%93%E5%92%AA%E6%96%87%E5%89%B5-%E5%8F%A3%E7%BD%A9%E5%A5%97-%E5%B8%83%E6%8F%90%E8%A2%8B-%E9%A3%B2%E6%96%99%E6%8F%90%E8%A2%8B-bafyreibna5btuxek2vzxzcyxhwnb2tudlh6duyyhtrm56zfp6hldifpmae" target="_blank">貓咪文創！？ | 口罩套、布提袋、飲料提袋</a>》。</p><p>自從我買了這個帆布袋，我突然覺得這一切很有意義，「貨幣，又稱金錢，簡稱錢，是為了提高交易效率而用於交換的中介商品」，我們太習慣買東西用實質的貨幣，LikeCoin是虛擬貨幣，它也可以買東西阿！那時候覺得好方便啊!這也是我第一筆利用LikeCoin購物的經驗。</p><p><strong>三、支持他人：</strong>當你想支持喜歡的人，喜歡的作者，喜歡的文章，也直接用LikeCoin支持就可以了，我收到第一筆的LikeCoin時也覺得內心百感交集，因為一方面自己的文章有人喜歡，也很開心可以被人看見以及支持，在耕耘一陣子之後，我也加入讚賞公民，支持我喜歡的文章。而我也覺得matters是真正那種一分耕耘一分收獲的感覺，重點是可以寫自己喜歡的東西，不是被人強迫限制。</p><p><br></p><blockquote><strong>如何進步</strong></blockquote><p><strong>一、持續經營</strong>：跟<a class="mention" href="https://matters.news/@penfarming" target="_blank" data-display-name="閱讀筆耕" data-user-name="penfarming" data-id="VXNlcjo0NTE5NA">﻿<span>@閱讀筆耕</span>﻿</a> 說的一樣，就是持續的寫，先讓自己習慣發文，有這個量。有的時候也不用擔心自己寫不好，有的時候你以為不好的文章，結果發出來很有共鳴，這也是非常有趣的地方。有了共鳴會更願意分享，如果真的事後看不喜歡的文章也可以隱藏(很放心。</p><p><strong>二、定主題更吸晴</strong>：寫了一段時間，我也曾經覺得自己沒主題沒方向好像日記，可是當自己在慢慢的發文之中會找到自己的一些心路歷程，會歸結到自己的喜歡的內容喜歡分享的東西，我的名稱芳心慢筆，也是發文到一段時間之後才有靈感而取的。於是開始在生活中找尋靈感的方向也可以更加明確。</p><p><strong>三、加入讚賞公民</strong>：其實我之前沒有在看數據，這次特別看了一下，我在還沒加入讚賞公民之前，平均每周大多100LikeCoin以下，以最好的一周數據表現是143LIKE；八月底加入讚賞公民之後當周有500LIKE，而平均每周也有300Like以上。讚賞公民每月支付5美元，以現在幣值換算相當於200LikeCoin，所以加入讚賞公民幾乎每周給予的回饋已經多出很多(數學不好~~應該是沒寫錯，有誤請告知我XD)，所以非常值得推薦加入，除了可以給予他人創作的支持，也能幫助到自己。</p><figure class="image"><img src="https://assets.matters.news/embed/e13725ec-7c4b-40d5-86e1-b7bf1eedac6d.jpeg" data-asset-id="e13725ec-7c4b-40d5-86e1-b7bf1eedac6d" referrerpolicy="no-referrer"><figcaption><span>左圖為五月單周收益/右圖為加入讚賞公民後的收益</span></figcaption></figure><p><strong>四、參加徵文活動</strong>：之前我也不太知道可以參加活動，直到參加2次活動之後發現分配獎金可以有500-700之間的LikeCoin(而且我的排名很後面，如果排名前面更多唷!)。所以大家也可以多多參加徵文活動。你也一起加入<a href="https://matters.news/@hi176/%E7%A4%BE%E5%8D%80%E5%BE%B5%E6%96%87-%E6%9B%AC%E5%87%BA%E4%BD%A0%E7%9A%84%E6%94%B6%E5%85%A5-%E9%82%80%E8%AB%8B%E8%A6%AA%E5%8F%8B%E5%8A%A0%E5%85%A5-%E5%89%B5%E4%BD%9C%E6%9C%89%E5%83%B9-%E8%A1%8C%E5%88%97-bafyreibgz3tl2ezodbxxczv5stmkox4zwr5jnnzkxy7etuu74i7m3ogi3y" target="_blank">@社區徵文｜曬出你的收入，邀請親友加入「創作有價」行列</a>吧!</p><p><br></p>  
+</div>
+            

@@ -38,6 +38,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Ste
 <p>What makes the iPhone and perhaps Apple special is that it seems to deliver things that nobody asks for but then everybody wants.</p>
 </blockquote>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3lEfJ7P"><img class="aligncenter wp-image-755154 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/en_us-WD_MyPassportSSD_WEB-BNR-Sustain-750x150V2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
