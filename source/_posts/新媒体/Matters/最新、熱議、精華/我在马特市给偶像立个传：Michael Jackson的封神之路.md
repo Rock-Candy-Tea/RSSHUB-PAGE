@@ -1,0 +1,32 @@
+
+---
+title: '我在马特市给偶像立个传：Michael Jackson的封神之路'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/d1fb1f96-f0d0-4e23-b8c4-81ac902d6372.jpeg'
+author: Matters
+comments: false
+date: Fri, 24 Sep 2021 01:53:41 GMT
+thumbnail: 'https://assets.matters.news/embed/d1fb1f96-f0d0-4e23-b8c4-81ac902d6372.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/d1fb1f96-f0d0-4e23-b8c4-81ac902d6372.jpeg" data-asset-id="d1fb1f96-f0d0-4e23-b8c4-81ac902d6372" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2><br></h2><h2>1 Jackson 5 </h2><p>1958年8月29日，MJ出生在一个美国黑人家庭，在9个孩子中排行老7。大约是这个原因，MJ的幸运数字是7.</p><pre class="ql-syntax">呃，7这个数字和我的人生也有千丝万缕的幸运关系，但是和MJ纯属巧合。
+</pre><p>黑人、多子女……这样的家庭注定在美国不会富裕……</p><p>MJ的爸妈热爱音乐，耳濡目染，孩子们也从小玩音乐。一次偶然的机会MJ老爸发现了孩子们的音乐天赋，于是就打造了一个家庭乐团——传说中的杰克逊5人组（Jackson 5）。老爹想靠着家庭乐团赚外快改变家族贫穷的现状，而乐队成员自然就是杰克逊家族的5个娃娃。</p><p>MJ5岁时加入杰克逊5人组，很快就展现出了比哥哥们更优质的音乐天赋。虽然MJ只是一个小孩，但是他对成人的感情却有惊人的把控和理解，他能在歌声中把成年人的感情纠葛诠释得深入人心，叹为观止。</p><p>杰克逊5人组乐团让MJ得以年少登台早早展现音乐天赋，但也因为杰克逊5人组MJ没有童年。打5岁起，每天放学就是写完作业排练，然后到处献唱表演到深夜……练不好还要被老爹打……</p><p><br></p><h2>2 单飞</h2><p>天下没有不散的宴席，就算是家族乐团也有解散的一天，何况家族乐团内部关系也没想象的那么好。MJ长大后，可以考虑单飞了，继续跟哥哥们混在一起，注定影响星途，单飞是迟早的事。</p><p>有两个事为MJ单飞大获成功奠定了基础。</p><pre class="ql-syntax">一是，在成年时遇上了昆西·琼斯，有了单飞后的好伙伴；
+二是，在一次排练中鼻子受伤了，于是就去做了个整容手术，鼻子变高挺了。
+</pre><p><br></p><p>MJ的祖传鼻子是黑人原装大鼻子，小时候圆圆的挺可爱。可是长大后，圆鼻子就成了败笔。没整容前，MJ只能算一个五官端正的黑人，颜值虽然高于哥哥们，但远不能和时尚明星比。</p><p><br></p><p><br></p><figure class="image"><img src="https://matters.news/@potato_pepper/%E6%88%91%E5%9C%A8%E9%A9%AC%E7%89%B9%E5%B8%82%E7%BB%99%E5%81%B6%E5%83%8F%E7%AB%8B%E4%B8%AA%E4%BC%A0-michael-jackson%E7%9A%84%E5%B0%81%E7%A5%9E%E4%B9%8B%E8%B7%AF-bafyreid727h3nwkgvwc23x7dmgkecnpk3vxbo4t2k622h3wmg2eo5xpdre" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>整容后，MJ一扫祖传圆鼻子的土气感，再把杰克逊5人组时期的爆炸头发型和花里胡哨服饰换了，一个时尚活力的青年歌星冉冉升起。</p><p>不得不说，这容整得好啊！</p><p><br></p><h2>3 颤栗</h2><p>单飞后的MJ从童星转型为青年歌星，一个活力时尚笑容亲切的黑人小伙，音乐前途可期，和现在那些童星出道的偶像歌手差不多，离载入史册的国际巨星还有很长的路要走……</p><p>成年后整容单飞是MJ从童星蜕变为青年歌星的一个转折点，MJ成年后发表的第二张专辑《颤栗》（Thriller）标志着他正式开启国际巨星之路。</p><p>这张全球销量最高的专辑，问世二十多年后我才第一次听到，除了感叹这音乐真牛逼外，却听不出任何年代感。专辑问世二十多年后，还能震撼到后知后觉的我，所以我想象不出1982年时人们听到《颤栗》是什么反应。</p><p>Beatles的音乐也很好，比如“Yesterday”，“Hey Jude”，但是这些歌一听就能听出年代感，就觉得是有二三十年历史的老歌。MJ早年在杰克逊5人组乐团的歌，也会有这样的年代感。</p><p>但是从《颤栗》开始，MJ的音乐听不出年代感，不说我会以为这是近几年才发表的新歌。这样的听觉体验，已经足以让MJ在我心中封神了。</p><p><strong>颤栗专辑划时代必听神曲：</strong></p><pre class="ql-syntax">Beat it——规劝青少年不要用暴力解决问题摇滚歌，MJ最广为流传的神曲。
+</pre><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/oRdxUFDoQe0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p><br></p><pre class="ql-syntax">Thriller——传说中的万圣节神曲，从这首歌以后我们走进了有剧情的MV时代。
+</pre><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/sOnqjkJTMaA?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p><br></p><h2>4 Billie Jean </h2><p>《颤栗》专辑除了诞生了划时代的“Beat it”和“Thriller”，还诞生了一首叫“Billie Jean”的神曲。</p><p>时至今日，当人们谈起这首当年打破种族界限第一次在MTV播放的黑人MV时，脑海中浮现的都是黑鞋、白袜、黑衣、黑帽、水晶手套……而不是“Billie Jean”的官方MV……</p><p>1983年5月16日，传说中的太空步（Moonwalk）首次被MJ现场演绎，从此“Billie Jean”的现场表演超越官方MV。太空漫步和“Bille Jean”现场必备道具黑鞋白袜一起，成为MJ载入史册的影像——像变魔术一样的梦幻表演……</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/g3t9-kf7ZNA?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p><br></p><p>不过第一次表演太空步的MJ还比较紧张，初期的太空步远没有达到如梦如幻的效果。对比后期改良后的太空步，我们发现：就算是天才也要天天练，才能练出封神的效果。</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/LD2gm_xsz_k?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p><br></p><h2>5 We are the World </h2><p>MJ之于流行音乐的贡献，除了发明带剧情的音乐录音带，还有就是和众歌星一起唱过一首献给全人类的神歌——“We are the World”。</p><p>这首1985年发表的号召救济非洲的慈善歌，靠着英语全球流行，每当需要赈灾义演献爱心时，大家都能唱两句：</p><pre class="ql-syntax">We are the world, we are the children
+We are the ones who make a brighter day
+So let's start giving
+</pre><p><br></p><p>这歌词说的不就是现在流行的“人类命运共同体”嘛，这样的概念三十几年前就有了……</p><p>从那之后慈善歌成了MJ音乐的一大主题。后来MJ又编出了“Heal the World”、“Earth Song”……之类的歌唱给全人类。</p><p>MJ的音乐从那以后就这样——不属于某个种族、肤色、语言……属于全人类……</p><p><br></p><h2>6 全球巡演 </h2><p>第三张专辑“Bad”推出后，MJ开始了全球巡演，传说中的看演唱会。</p><p>这种巡回演唱会，一共开了3轮：</p><pre class="ql-syntax">第一轮 Bad：1987～1989，123场
+第二轮 Dangerous：1992～1993，69场
+第三轮 History：1996～1997， 82场
+</pre><p><br></p><p>和着演唱会，神曲唱遍全球。这期间，MJ又整了一次容，鼻子变得更尖了……</p><p>除了鼻子变尖以外，因为生病的原因皮肤越变越白……白皮肤+整容后略不正常的面容，伴随演唱会全球开，成了MJ留给世界的印象。</p><figure class="image"><img src="https://assets.matters.news/embed/34f7610f-533a-42bd-a225-6b3142f6347a.jpeg" data-asset-id="34f7610f-533a-42bd-a225-6b3142f6347a" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>80年代的MJ给人的印象是一个体力很好时尚洋气的黑人小伙；从80年底末到90年代，随着肤色和容貌的变化，MJ达到了一种雌雄莫辨的神奇效果……</p><p>90年代，MJ逐渐褪去活力四射黑人小伙的形象，取而代之的是一种不属于人类的中性美……再伴随MJ无人能及的现场表演和永不过时的音乐，MJ完成又一次升华——天神降临……</p><figure class="image"><img src="https://assets.matters.news/embed/97f66416-1f7d-4cba-9069-1d60c3242220.png" data-asset-id="97f66416-1f7d-4cba-9069-1d60c3242220" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>仔细想来一代经典人物身上好像都有点中性特质，比如张国荣，比如林青霞……</p><pre class="ql-syntax">颤栗专辑发表后，MJ开始了音乐封神；
+太空步问世后，MJ开启了现场封神；
+“We are the World”发表后，MJ开始了灵魂封神；
+</pre><p>至此，皮肤变白+二次整容后，MJ完成了外貌封神——365度，全是神一般的存在……</p><p><br></p><h2>7 This is it </h2><p>进入新世纪，MJ又被投诉性侵儿童，好几年官司缠身，没有专辑发布……</p><p>好事不出门，坏事传千里。在各种性侵、整容、吸毒、变态、漂白、离婚……的新闻里，我认识了这位集天下丑闻于一身的昔日巨星，对他曾经的辉煌一概不知。</p><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/2d12a043-a43d-4e41-958f-567e492b35d1.jpeg" data-asset-id="2d12a043-a43d-4e41-958f-567e492b35d1" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>2009年6月25日，这位三天两头和各种离奇丑闻都有过关系的巨星去世了，全球歌迷悲痛欲绝……This is it演唱会，因为MJ离奇去世开不成了……This is it成了MJ的终点……</p><p>可是MJ去世后伴随他的各种丑闻又反转了。MJ后半生饱受丑闻困扰，虽然大多数传闻都不是真的，但是MJ却因为精神受刺激开始依赖药物，终于在2009年倒下了，英年早逝……</p><p>从此我只能靠各种演唱会录像证实：神曾经来过地球。录像带里MJ演唱会的现场歌迷朋友也证实：他们不是在看演唱会，他们是在拜神……</p>  
+</div>
+            
