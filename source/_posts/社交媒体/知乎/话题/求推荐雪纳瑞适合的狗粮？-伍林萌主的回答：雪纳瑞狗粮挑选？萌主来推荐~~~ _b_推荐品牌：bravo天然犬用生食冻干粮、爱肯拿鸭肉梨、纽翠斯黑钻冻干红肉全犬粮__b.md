@@ -1,0 +1,18 @@
+
+---
+title: '求推荐雪纳瑞适合的狗粮？-伍林萌主的回答：雪纳瑞狗粮挑选？萌主来推荐~~~ _b_推荐品牌：bravo天然犬用生食冻干粮、爱肯拿鸭肉梨、纽翠斯黑钻冻干红肉全犬粮__b...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/50/v2-9fa97d0d8e08aff71cf0eb685e2339c0_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sat, 25 Sep 2021 14:51:44 GMT
+thumbnail: 'https://pica.zhimg.com/50/v2-9fa97d0d8e08aff71cf0eb685e2339c0_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>求推荐雪纳瑞适合的狗粮？</strong><br>伍林萌主的回答<br><p>雪纳瑞狗粮挑选？萌主来推荐~~~<br><b>推荐品牌：bravo天然犬用生食冻干粮、爱肯拿鸭肉梨、纽翠斯黑钻冻干红肉全犬粮</b><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-9fa97d0d8e08aff71cf0eb685e2339c0_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="599" data-rawheight="185" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c36f4ec3ec536047fa61bcd2f35960a2_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-9fa97d0d8e08aff71cf0eb685e2339c0_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-9fa97d0d8e08aff71cf0eb685e2339c0_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>推荐理由</b>：<br><b>Bravo天然犬生食干冻粮</b>狗粮界中的顶级制粮，身边的大佬朋友推荐过（我家狗狗有幸得到过半袋）食材没的说，别说狗狗了，人都爱吃~~~~，里面有很多根据狗狗的成长需要添加的食材，据说经常吃，可以延长狗狗寿命，别说尽管贵，在国外卖的还可以~~~萌主是中产阶级，真吃不起~~~<br><b>爱肯拿鸭肉梨</b>，渴望旗下的品牌，口味不错，成分配比也好，我家狗狗有一段时间一直吃，颗粒大，适合成狗，抑制泪痕效果明显，脂肪含量也不高，清口，吃多了也不爱发胖，便便少而不臭，值得一试。<br><b>纽翠斯黑钻冻干红肉全犬粮</b>，我家狗狗吃了半年多，买的是红肉味。这一款可以和爱肯拿鸭肉梨两种间隔着吃，配料还有蛋白质脂肪比相对于其他狗粮性价比非常高，这一款狗粮也是毛孩子吃的爱肯拿断货了，来接下短，谁知道毛孩子不排斥，越吃越来劲。怎么说呢，这一款粮，萌主感觉更适合大型犬，尤其是运动量大的，蛋白质含量较高~~~~不过也没有问题。<br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-92d4a52b1272b24aed6086334b6d814d_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="432" data-rawheight="204" data-default-watermark-src="https://pic2.zhimg.com/50/v2-21a25560d563edfccae00ad021c1fafb_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-92d4a52b1272b24aed6086334b6d814d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-92d4a52b1272b24aed6086334b6d814d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>雪纳瑞是狗狗中的极品，不掉毛，不骄不躁，吃的也少、、、、、、<br>萌主也想养一只雪纳瑞，像一个乖宝宝，不爱哭，不爱闹，而且警戒性高，护家护主心非常强~~~~就是有点小瑕疵，胡子需要修剪，而且眼屎稍微不注意就出来了~~~（好友说的）~~<br></p><p>更多狗粮推荐，欢迎看萌主整理出的狗粮挑选宝典~</p><a href="https://zhuanlan.zhihu.com/p/412516304" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-15c5fa62fac91b0f1ee7964e7ce64e17_qhd.jpg?source=54b3c3a5" data-image-width="1247" data-image-height="532" class="internal">伍林萌主：2021年狗粮推荐泰迪、柯基、金毛、拉布拉多；狗粮推荐平价、进口、国产。如何选择好狗粮？</a><p>我是 <a class="member_mention" href="https://www.zhihu.com/people/57f763107a62eebc685dc5e395886a72" data-hash="57f763107a62eebc685dc5e395886a72" data-hovercard="p$b$57f763107a62eebc685dc5e395886a72">@伍林萌主</a> 一个爱狗狗爱得不要不要的资深铲屎官，欢迎留言~~</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-b9796f45cdfd1a52eacc7eb585db4e6d_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1246" data-rawheight="619" data-default-watermark-src="https://pic3.zhimg.com/50/v2-cb0444c253b354218eaa486140665388_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-b9796f45cdfd1a52eacc7eb585db4e6d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-b9796f45cdfd1a52eacc7eb585db4e6d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
