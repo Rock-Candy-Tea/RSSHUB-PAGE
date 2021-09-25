@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-09-25 10:06:51
-thumbnail: 'https://pic1.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
+date: 2021-09-25 11:05:56
+thumbnail: 'https://pic3.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ iPhone 13 Pro/13 Pro Max 的实际体验如何？
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-1b6ca8612ed23570d29366b719543f13_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">爱范儿，</span><span class="bio">数字公民的糖</span>
 <a href="https://www.zhihu.com/question/488101053/answer/2132463685" class="originUrl" hidden>查看知乎原文</a>
 </strong>
