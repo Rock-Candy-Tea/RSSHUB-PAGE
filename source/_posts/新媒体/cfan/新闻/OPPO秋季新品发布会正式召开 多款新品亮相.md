@@ -1,0 +1,41 @@
+
+---
+title: 'OPPO秋季新品发布会正式召开 多款新品亮相'
+categories: 
+ - 新媒体
+ - cfan
+ - 新闻
+headimg: 'https://upload.cfan.com.cn/2021/0916/1631793578941.png'
+author: cfan
+comments: false
+date: Thu, 16 Sep 2021 20:00:00 GMT
+thumbnail: 'https://upload.cfan.com.cn/2021/0916/1631793578941.png'
+---
+
+<div>   
+<p><strong style="text-indent: 2em;">2021年9月16日，中国，深圳</strong><span style="text-indent: 2em;">——今日，OPPO广东移动通信有限公司正式召开主题为“ONE MORE STEP”的秋季新品发布会，并发布ColorOS 12、Find X3 Pro摄影师版以及OPPO Watch2 ECG版三款新品。</span></p>
+<p><strong>高端马拉松，OPPO有信心拿前三</strong></p>
+<p>OPPO副总裁、中国区总裁刘波在发布会上透露，OPPO已经在技术、组织、OS、生态上做好准备，“高端这场马拉松，我们一定能够拿前三。”</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2021/0916/1631793578941.png" border="0" alt="【活动新闻稿】OPPO秋季新品发布会正式召开 多款新品亮相(2)231" referrerpolicy="no-referrer"></p>
+<p style="text-align: center; font-size: 12px; text-indent: 0;"><span>OPPO副总裁、中国区总裁刘波发表演讲</span></p>
+<p>技术方面，OPPO持续探索影像、快充等尖端科技，在2020年国内发明授权专利榜单中位列第二，未来会把更多创新技术落地；在架构上，OPPO和一加团队全面融合，形成双品牌双旗舰的组合，齐心协力冲击高端；ColorOS的角色也将转换成面向OPPO所有智能终端的操作系统，为用户带来统一的高端体验；此外，OPPO也将持续发力IoT产品，不再仅仅是一家手机公司。</p>
+<p><strong>无边界设计领衔，ColorOS 12迎来全方位升级</strong></p>
+<p>作为OPPO角逐高端市场“三分天下有其一”的重要一环，ColorOS 12以超过1000+的功能更新和细节打磨，为用户带来更加轻盈高效、贴心懂你、安全便捷的全场景体验。ColorOS 12采用全新的无边界设计，在5G时代信息爆发的环境下，以有质感易辨识的亚克力图标和层级有序的降噪设计，缓解大量信息给用户带来的压力；同时，ColorOS 12还对一些人性化功能做了改进，例如智能侧边栏2.0可以判断用户使用场景推荐相应服务、速览卡片可以提取相关应用的核心信息并直观显示、跨屏互联实现电脑上操作手机等等，进一步简化了用户的操作。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2021/0916/1631793590152.png" border="0" alt="【活动新闻稿】OPPO秋季新品发布会正式召开 多款新品亮相(2)723" referrerpolicy="no-referrer"></p>
+<p style="text-align: center; font-size: 12px; text-indent: 0;"><span>ColorOS设计总监陈希发布ColorOS 12</span></p>
+<p>ColorOS 12还针对安全隐私这个社会性问题做了大量的功能更新，新增的应用行为记录和敏感权限提醒，可以实时发现手机安装APP的一举一动，让不良APP无所遁形；照片安全分享和模糊定位则可以防止用户位置信息泄露，已防被不法分子利用。面对流畅这个基础体验，ColorOS 12带来AI自流畅引擎，模拟持续使用 36 个月时，整体的综合老化率仅 2.75%，解决了以往手机使用一年后卡顿的难题，进一步延长了手机的使用寿命。</p>
+<p>不仅如此，ColorOS 12的推出还展示了OPPO对于未来趋势的判断。首先是多端互联，ColorOS不再仅仅是手机系统，而是一个横跨多设备的系统平台，包括OPPO TV、OPPO Watch等IoT产品都将搭载ColorOS，实现多个设备一个系统的全场景布局，为用户带来一致的使用体验。其次，ColorOS 12全面适配一加手机，代表着OPPO和一加双品牌的融合，系统统一后的“欧加”将齐心协力逐鹿高端市场。</p>
+<p><strong>摄影爱好者的情怀之作，献给总在拍照的你</strong></p>
+<p>在ColorOS 12发布之后，OPPO Find X3 Pro摄影师版作为首款搭载ColorOS 12的手机终端也正式登场，其在全链路10bit之后，进一步探索了色彩影像的新可能，并对外观进行了深度定制，是一款献给摄影爱好者的诚意之作。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2021/0916/1631793598362.png" border="0" alt="【活动新闻稿】OPPO秋季新品发布会正式召开 多款新品亮相(2)1310" referrerpolicy="no-referrer"></p>
+<p style="text-align: center; font-size: 12px; text-indent: 0;"><span>OPPO Find X3 Pro摄影师版发布</span></p>
+<p>OPPO Find X3 Pro摄影师版参考相机厂商的调试方法，业内首次引入实地调试方案，派出六支摄影师团队针对不同城市进行实地采样及色彩的联合调试，相较于单一的实验室调试，能够真实的还原不同城市地区、不同季节、不同天气下的色彩表现，让每一次拍摄都能够真实的记录，所拍即所见。Find X3 Pro摄影师版还带来更多功能玩法，多达14款的城市印象滤镜，让用户在旅游时可以基于地理位置智能获得所在城市的专属“色彩”，一键即可获得媲美专业摄影师的色彩表现力。</p>
+<p>OPPO Find X3 Pro摄影师版业内首次以复古相机为设计灵感，模拟复古相机造型、材质光影与手感，将玻璃和素皮两种不同材质“无缝拼接”并实现IP68防水，将OPPO领先的色彩影像能力与复古相机的仪式感完美融合，将助力全球热爱摄影的消费者随时记录生活中的美好瞬间。</p>
+<p><strong>健康管理从“心”出发，掌控自己的健康未来</strong></p>
+<p>在OPPO Find X3 Pro摄影师版之后，OPPO Watch 2系列的新成员——OPPO Watch 2 ECG版也正式登场亮相，其继承了此系列首创的UDDE双擎混动技术，并进一步深耕运动健康领域。支持ECG（即心电检测功能），毫秒级精度心电检测，配合连续血氧监测、鼾症风险评估等功能，从监测、及时预警到分析解读全方面守护用健康，从而为用户提供更完善的健康服务闭环。同时新增独家健康精灵，配合家人关爱模式，既可带来更温暖的交互体验，又可远程查看家人心电，心率等健康数据，让关爱更有温度，激励用户关注健康。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2021/0916/1631793609815.png" border="0" alt="【活动新闻稿】OPPO秋季新品发布会正式召开 多款新品亮相(2)1980" referrerpolicy="no-referrer"></p>
+<p style="text-align: center; font-size: 12px; text-indent: 0;"><span>OPPO Watch 2 ECG版发布</span></p>
+<p>作为OPPO IoT生态的重要一员，OPPO Watch 2 ECG版的诞生，将持续促进安卓阵营智能手表产品的发展步伐。并通过不断研发投入、软件的持续迭代和与权威机构的合作，为用户带来实时监测、提前预警、科学分析、有效改善四重守护，帮助用户掌控自己的健康未来。</p>
+<p>OPPO Find X3 Pro摄影师版16GB+512GB版本售价为6499元，9月16日19：30分开启预定，并将于9月22日在欢太商城、京东、天猫、苏宁、OPPO官方授权门店等渠道正式开售。OPPO Watch 2 ECG版售价为2499元，将于10月20日在欢太商城、京东、天猫、苏宁、OPPO官方授权门店等渠道正式开启预售，11月1日正式开售。</p>　  
+</div>
+            
