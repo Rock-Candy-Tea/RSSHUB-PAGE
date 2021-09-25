@@ -1,0 +1,19 @@
+
+---
+title: 'MLID分享英特尔三档Alchemist显卡新品细节 高端型号比肩RTX 3070 Ti'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0925/66229d0d018fb55.jpg'
+author: cnBeta
+comments: false
+date: Sat, 25 Sep 2021 08:30:57 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0925/66229d0d018fb55.jpg'
+---
+
+<div>   
+<strong>MLID 刚刚披露了英特尔 ARC Alchemist 游戏显卡的更多细节，预计该公司会在 2022 年 1 季度推出三档新品，且旗舰型号的性能表现有望接近英伟达的 RTX 3070 Ti 。</strong>首先介绍 512EU / 4096 核的“满血版”SKU，其搭配了 256-bit @ 16GB GDDR6 显存 —— 频率应该是标准的 16 Gbps，但也不排除采用 18 Gbps 规格的可能。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/0925/66229d0d018fb55.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/66229d0d018fb55.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>Alchemist 512 EU 芯片的尺寸预计在 396 m㎡ 左右，这样就比 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> RNDA 2 和英伟达 Ampere 竞品都更大，辅以 BGA-2660 的封装（尺寸 37.5mm × 43mm）。</p><p>作为比较，绿厂 GA104 芯片的面积为 392 m㎡、红队 Navi 22 则是 336 m㎡，差距在 60 m㎡ 左右。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=290658635&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: center;">Intel Arc Desktop Lineup Leak _ Will Big Xe compete with Big Ampere（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMjkwNjU4NjM1LnNodG1s.html" target="_self">via</a>）</p><p>此外英伟达在 Ampere GPU 中司爱霞了 Tensor 单元和更大的 RT 光追 / FP32 内核，而 AMD RNDA 2 芯片为每组计算单元（CU）和无限缓存（Infinity Cache）都搭配了光追加速单元。</p><p>与此同时，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>在 Alchemist GPU 上也部署了专用硬件，以支持光追和 AI 辅助的 XeSS 深度学习超级采样方案。</p><p><a href="https://static.cnbetacdn.com/article/2021/0925/92297aa69299d38.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/92297aa69299d38.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>MLID 还指出，Xe-HPG Alchemist 512 EU 芯片的频率在 2.2 - 2.5 GHz 左右。假设在最大加速频率下，其 FP32 算力或在 18.5 TFLOPs，领先 RX 6700 XT 达 40%、但仍较 RTX 3070 低 9 % 。</p><p>不过由于三家公司选用的架构不同、且驱动程序的优化程度也在其中扮演了重要的角色，我们也无法单纯地通过 TFLOPs 数据来横向比较它们的性能。</p><p><img src="https://static.cnbetacdn.com/article/2021/0925/5ad253b664850ef.png" alt="3.png" referrerpolicy="no-referrer"></p><p>功耗方面，据说英特尔的早期 TDP 目标是 225 - 250W，但现在已经提升到了 275W 左右（需要 6+8 供电）。</p><p>要是发狠再飙一下频率，采用双 8-pin 辅助供电的 300W 衍生版本也不是不可能。至于公版显卡和完整的 AIB 制造合作伙伴阵容，仍有待后续进一步揭晓。</p><p><img src="https://static.cnbetacdn.com/article/2021/0925/20fff884895c2f9.png" alt="4.png" referrerpolicy="no-referrer"></p><p>其次是从 512EU 削减到 384EU 的第二款 Alchemist GPU SKU，其拥有 3072 个核心、搭配 192-bit @ 12GB GDDR6 显存（也有可能为 256-bit @ 8GB GDDR6）。</p><p>辅以 16MB Infinity Cache 缓存，热设计功耗（TDP）在 200W 左右，性能或介于绿厂的 RTX 3060 / 3060 Ti 之间。</p><p>不过也有传闻称，英特尔一直在为顶级 Xe-HPG 芯片研究各种“砍一刀”的配置，比如传说中的 448 / 256 EU 衍生版本。</p><p><img src="https://static.cnbetacdn.com/article/2021/0925/4e87af1c1be9f20.png" alt="5.png" referrerpolicy="no-referrer"></p><p>然后是 128EU / 1024 核的 Alchemist GPU SKU，其搭配了 64-bit @ 8GB GDDR6 显存。</p><p>但若英特尔继续施展刀法，我们或许还会见到 96EU / 768 核，搭配 64-bit @ 4GB GDDR6 显存的入门级 SKU 。</p><p><a href="https://static.cnbetacdn.com/article/2021/0925/19b254b0037291c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/19b254b0037291c.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>预期该芯片拥有 2.2 - 2.5 GHz 的频率，且功耗可以控制在 75W 以内，能够只通过 PCIe 插槽来供电（而无需外接）。</p><p>猜测 Alchemist 入门级显卡的性能介于英伟达 GTX 1650 / 1650 SUPER 之间，但具有光追加成。若以 250 美元（约 1617 RMB）的定价上市，它将有助于填补当前巨大的需求空缺。</p><p><img src="https://static.cnbetacdn.com/article/2021/0925/b11a5d022055d11.png" alt="8.png" referrerpolicy="no-referrer"></p><p>目前英伟达仅推出了面向笔记本电脑市场的 RTX 3050，台式机新卡起步门槛被迫提升到了“官方指导价”329 美元（约 2127 RMB）的 RTX 3060 。</p><p>至于期待已久的 AMD Radeon RX 6600，预计也会在 300 美元（约 1940 RMB）左右。</p>   
+</div>
+            

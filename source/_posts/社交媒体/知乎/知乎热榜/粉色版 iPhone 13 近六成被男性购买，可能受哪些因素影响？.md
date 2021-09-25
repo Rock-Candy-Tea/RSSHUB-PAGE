@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2255'
+headimg: 'https://pic4.zhimg.com/v2-381cddefc75bb656df2a2b2256b2785d_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 25 Sep 2021 07:05:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2255'
+date: Sat, 25 Sep 2021 08:21:33 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-381cddefc75bb656df2a2b2256b2785d_1440w.jpg'
 ---
 
 <div>   
-Lawrence的回答<br><br><p>终于有更多的人放得开了，畅想一下</p><p>再过五年，男女装没有了性别隔绝。老哥们夏天可以享受连衣裙的清凉，小姑娘们冬天正装切换为羊毛长裤而不是冷死的短裙。</p><p>颜色，用物，去性别化，</p><p>iPhone粉色款被60%的老哥们买走是个好的开始。</p><p>PS: 可能只是买给自家女朋友用的，老哥们终于能用上iPhone X了，IP12给岳父母们用，手动滑稽</p>  
+牙膏有味道的回答<br><br><p>京东平台本来是数码产品起家，偏向于男性化的平台！</p><p>发布会后明面上表示十三不香的人，私底下都在默默抢购，首销火爆程度可见一斑！</p><p>加上京东定时定量的供应，抢购这麻烦事，都是女人委托男人干的事！亦或者闲的发慌的女生可能会试着去抢一抢。</p><p>如果统计全系列13的买家，我相信依然是男性居多，女性偏少！</p><p>所以粉色被大多数男性购买实属不稀奇。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-381cddefc75bb656df2a2b2256b2785d_1440w.jpg" data-rawwidth="1174" data-rawheight="924" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-1c9142461d652ca4f933ff70569a763a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-381cddefc75bb656df2a2b2256b2785d_r.jpg" referrerpolicy="no-referrer"></figure><p>这次iPhone 13在产品升级相比上一代没有pro版本提升明显，iPhone 13能做的事iPhone 12  99%都能做，影像方面除了电影模式和自动对焦的功能，主摄小小的提升其实对于那些专业摄影者还不够！</p><p>我所关注在摄影方面有自己理解或者大量需求的都是选择三摄pro以上的版本。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-851d6b98ed8a0a0028dfe98cb2be1548_1440w.jpg" data-rawwidth="1174" data-rawheight="928" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-0b246c4e6142747bdf7f5c7fe5899565_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-851d6b98ed8a0a0028dfe98cb2be1548_r.jpg" referrerpolicy="no-referrer"></figure><p>而且13pro还有一个120Hz高刷屏幕，感知最强的一个点。</p><p>科技以换壳为本，猛男粉和远峰蓝分别是13和13 pro中卖的最好的配色！意料之中。</p><p></p>  
 </div>
             
