@@ -1,0 +1,18 @@
+
+---
+title: 'Heroic俱乐部保密协议披露，意图队员15年内不得谈论相关事件但遭到拒绝'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/09/25/5f84a335ee62a5e98b0046ae2bd368e2/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sat, 25 Sep 2021 18:37:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/09/25/5f84a335ee62a5e98b0046ae2bd368e2/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p>近日Dexerto获得了一些文件，证实了Heroic相关事件保密协议的存在，Heroic制定这些协议以期其队员在15年内不得谈论作弊指控或使用教练bug相关事件。<br></p></blockquote><p>除了这些文件之外，还有部分谈话内容显示，Heroic的CGO（Chief Gaming Officer）Erik Askered认为HUNDEN为队伍“挡了子弹”，并表示他这样做付出的努力会 "被记住 "的。</p><p>这些文件证实了HUNDEN在8月底提出的一些指控，他公开控诉他的前老板和同事，称一些队员知道他使用了bug获得竞争优势，并且俱乐部还试图掩盖这些行为。据ESIC调查文件显示，HUNDEN共在两场比赛里使用了bug。一次是DreamHack春季大师赛欧洲区2020对阵Astralis的Inferno上，从开局到8-1的九个回合（未能取胜）。另一次是在Home Sweet Home #5对阵Spirit的Dust2，从开局到4-8的十二个回合（战胜对手）。</p><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/bbs/2021/09/25/5f84a335ee62a5e98b0046ae2bd368e2/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="47" src="https://imgheybox.max-c.com/bbs/2021/09/25/8e852169adf917b5e2a598e2a5ca28de/thumb.png" data-width="1224" referrerpolicy="no-referrer"></p><p>在教练bug被曝光之后，HUNDEN公开承认他使用了这个bug，并积极配合ESIC的调查，因此获得了20%的封禁期减免奖励。当时他称公开表示一切都是自己独自行动导致，队员们他的行为并不知情。但在今年的前段时间他又推翻了这一说法，公开了他认为能说明TeSeS与niko有罪的证据。</p><p>无论这些指控的真相如何，这些文件和对话片段可以确切地表明，俱乐部的CGO Askered先生并不100%地相信队员们没有参与其中。而是急切地起草文件，用法律约束队员们发表相关言论。</p><p><b>Heroic的保密协议不允许选手谈论教练bug相关问题</b></p><p>所谓的 "附加协议 "出现日期最早可追溯到2020年8月31日，即Heroic教练HUNDEN被ESL下达禁赛处罚的第二天。队员和HUNDEN（尽管HUNDEN被禁赛，但仍留在Heroic俱乐部）不得谈论教练bug相关内容，否则将被处以高达50万美元的罚款，相关保密协议被设定为直到2035年才会到期。</p><p>保密协议中新加入的具体条款是，签署者不得谈论：</p><ul><li>任何有关作弊可能的信息，使用任何bug、漏洞等（无论使用与否）。</li><li>有关任何队友或同事被禁赛的任何信息，以及与此情况有关的任何信息</li><li>任何围绕教练被禁赛的内部讨论，不管是什么原因。</li></ul><p><img class="lazy" data-height="287" src="https://imgheybox.max-c.com/bbs/2021/09/25/17af125f45e2c254eaba4d183969d697/thumb.jpeg" data-width="698" referrerpolicy="no-referrer"></p><p>后来Heroic俱乐部还在另一个条款中强调了这一点，该集团 "不得就最近教练因利用bug被禁赛或与此情况有关的任何信息发表任何公开或私下的声明、出版物、评论、判断、评估（包括但不限于在电视、电台、任何其他线上或线下媒体或其他资源、社交媒体、博客、vlogs、播客、广播、流媒体、印刷媒体任何其他已知或未来可能开发的手段）</p><p><img class="lazy" data-height="199" src="https://imgheybox.max-c.com/bbs/2021/09/25/bc1b156f64350cb24e3ef3e5bd7bf098/thumb.jpeg" data-width="683" referrerpolicy="no-referrer"></p><p>在关于协议的新补充内容的会议之后，所有队员都拒绝签字同意。我们的消息来源解释说，这是因为队员们认为一旦签署该协议，如果被诬陷则无法为自己公开辩护。</p><p><img class="lazy" data-height="320" src="https://imgheybox.max-c.com/bbs/2021/09/25/990b3049f558415aaf7d0bdcb10a16c8/thumb.jpeg" data-width="680" referrerpolicy="no-referrer"></p><p>文件中还附有Askered先生和HUNDEN之间的聊天截图（据称这些信息都已经提交给了ESIC）。这些信息显示，俱乐部认为他们的教练为队伍 "挡了一枪"。新保密协议的目的是确保队员们的言论不能与告诉ESIC的原始版本冲突。另一次单独的谈话也显示，队伍试图找到变通办法，继续让HUNDEN担任教练，并且他将于队伍一起参加任何非ESIC成员举办的比赛。后来经过一番讨论，这一想法并未成功实现。</p><p><img class="lazy" data-height="62" src="https://imgheybox.max-c.com/bbs/2021/09/25/a132aa3995ad4158ff1da250060d8b49/thumb.jpeg" data-width="664" referrerpolicy="no-referrer"></p><p>但需要强调的是，无论这些文件的披露会对Heroic俱乐部和HUNDEN造成多大影响。这些东西中都没有令人信服的、足以表明任何队员知情使用了教练bug的证据。</p><p>我们的消息来源还解释说，Heroic前教练与俱乐部公开摩擦另有原因。除了之前提到的事件，俱乐部方面还扣留了大量本应在30天内支付的比赛奖金。俱乐部方面对此的解释是，2月份品牌所有权从Serenades集团转移到Omaken体育带来的行政问题。还未支付的奖金涉及到十场赛事，总金额估计为127,500美元。除此以外，俱乐部也没有把2020年RMR贴纸的收入分成给予HUNDEN。</p><p>一位熟悉Heroic商业活动的内幕人士向Dexerto透露，Heroic目前正试图申请加入2020年初达成的卢浮协议，以成为ESL和DreamHack的合作伙伴。作为达成合作过程的一部分，Heroic或将召开非公开的听证会解释所发生的一切。</p><p><img class="lazy" data-height="288" src="https://imgheybox.max-c.com/bbs/2021/09/25/a92ee6ca3b098272615a3cdde00e5d3c/thumb.jpeg" data-width="512" referrerpolicy="no-referrer"></p><h4 class="img-desc">签署卢浮协议的十三支队伍</h4>  
+</div>
+            
