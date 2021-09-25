@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 13 Pro Max新功能上手视频'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0925/a498e066fae59ab.jpg'
+author: cnBeta
+comments: false
+date: Sat, 25 Sep 2021 01:19:48 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0925/a498e066fae59ab.jpg'
+---
+
+<div>   
+外媒AppleInsider刊文称，现在大家终于有了新的iPhone 13 Pro Max--iPhone 13系列的顶级产品。然而，今年它似乎没有那么引人注目，因为它不再包含任何完全独特的特点。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0925/a498e066fae59ab.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/a498e066fae59ab.jpg" alt="01.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>新的显示屏</strong></p><p style="text-align: left;">因为新显示屏是<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 13 Pro Max的旗舰功能，所以当把它从盒子里拿出来的那一刻，不得不目不转睛地盯着它。它圆角到圆角的尺寸仍旧为6.7英寸，像素密度为每英寸458像素。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=290568524&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">显示屏新的部分是它比以前更亮--高出200nits。在室内，你什么都注意不到。它在室内不那么明亮，但在阳光下真的很有用。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0925/4894002f325bda7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/4894002f325bda7.jpg" alt="02.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">不过更大的更新则是120Hz ProMotion显示屏。它只有在必要时才会提升高刷新率如滚动屏幕或玩游戏的时候。这些完全可以在使用中感受到，它表现得像黄油一样光滑，反应非常灵敏，几乎没有延迟，感觉像是更精致的体验。</p><p style="text-align: left;"><strong>新颜色选择</strong></p><p style="text-align: left;">从外部看，唯一值得注意的外部变化（除了巨大的摄像头凸起）就是新颜色选择。除了金色、太空灰和银色机型外，还有远峰蓝色。它比iPhone 12 Pro的Pacific Blue颜色要浅一些。</p><p style="text-align: left;"><strong>电池寿命</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0925/c9718ea27af8c15.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/c9718ea27af8c15.jpg" alt="03.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">AppleInsider目前他们还不能透露太多，但他们会对电池寿命进行大量测试。苹果这边表示，iPhone 13 Pro Max可以播放长达28小时的视频，比iPhone 13 Pro多出6个小时。在这里，iPhone 12 Pro Max只能使用20个小时。对于日常使用来说，据说可以提供大约一个半小时的额外使用时间。</p><p style="text-align: left;">这显然是一件非常棒的事情，不少用户对iPhone 12 Pro Max的电池现状感到非常满意了。所以13 Pro Max把它带到了一个全新的水平。</p><p style="text-align: left;"><strong>摄像头</strong></p><p style="text-align: left;">苹果的iPhone 13 Pro Max拥有6.7英寸的超视网膜XDR显示屏、A15仿生芯片和Pro 1200万像素摄像头系统。</p><p style="text-align: left;">亮点则有3倍长焦镜头（高于iPhone 12 Pro Max的5倍和iPhone 12 Pro的2倍）、更快的广角镜头（从f/1.6到f/1.5）、更快的超宽镜头（从f/2.4到f/1.8）、更好的HDR、所有镜头都支持夜间模式、照片风格和微距模式等等。</p><p style="text-align: left;">这是一个巨大的改进，特别是如果是从iPhone 11或更老机型来的用户。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0925/c9ed857191d2fc4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/c9ed857191d2fc4.jpg" alt="04.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">目前AppleInsider没有在简短的上手测试所有这些，但他们表示，微距模式是这里的杀手锏。它非常容易使用并且照片看起来令人难以置信。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0925/eabcbf35cc4fa81.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0925/eabcbf35cc4fa81.jpg" alt="05.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">影院模式(Cenematic Mode)在我们的早期测试中也非常令人印象深刻。</p><p style="text-align: left;"><strong>现可买到</strong></p><p style="text-align: left;">新款iPhone 13 Pro Max现在已经上市，同时上市的还有iPhone 13、iPhone 13 Pro和iPhone 13 mini。它还将跟<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a> mini和升级版的入门级iPad同时亮相。</p>   
+</div>
+            
