@@ -1,0 +1,70 @@
+
+---
+title: '华东医药：Ellansé®伊妍仕™目前的产能与库存充足'
+categories: 
+ - 金融
+ - 每经网
+ - 重磅原创
+headimg: 'https://picsum.photos/400/300?random=1933'
+author: 每经网
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=1933'
+---
+
+<div>   
+<div class="g-article-top">
+        <h1>
+          <!-- <a href="#">乐视20亿美元收购美最大智能电视商Vizio 或在北美市场对撼日韩系</a> -->
+          华东医药：Ellansé®伊妍仕™目前的产能与库存充足
+        </h1>
+        <!--发布 时间-->
+        <p class="u-time">
+          <span class="source">
+            每日经济新闻
+          </span>
+          <span class="time">
+            2021-09-26 20:02:30
+          </span>
+        </p>
+
+        <div class="typeTags">
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=industry&tag_value=%E5%8C%96%E5%AD%A6%E5%88%B6%E5%89%82" class="typeTag tagColor3">化学制剂</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E6%B5%99%E6%B1%9F%E7%9C%81" class="typeTag tagColor2">浙江省</a>
+
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=000963" data-stock-code="000963" class="typeTag tagColor1">华东医药 <abbr class="highs">+2.5%</abbr> </a>
+
+        </div>
+        <!-- div class="typeTags">
+          <a href="" class="typeTag tagColor1">影视</a>
+          <a href="" class="typeTag tagColor2">影视</a>
+          <a href="" class="typeTag tagColor3">贵州茅台 <abbr class="lows">-0.3%</abbr> </a>
+          <a href="" class="typeTag tagColor4">影视 <abbr class="highs">+0.3%</abbr></a>
+          <a href="" class="typeTag tagColor4">影视影</a>
+          <a href="" class="typeTag tagColor4">影视视影视</a>
+        </div -->
+
+      </div>
+      <!--文章摘要-->
+      <!--文章主体-->
+      <div class="g-articl-text">
+        <!-- 原创文章自动插入记者、编辑 -->
+
+        <!-- 正文图片 -->
+
+        <!-- 正文 -->
+        <p class="hdy-question">每经AI快讯，有投资者在投资者互动平台提问：少女针截止到9月10号订货量突破多少支，产能与库存充足吗？酷雪是不是有耗材费用，像酷朔一样耗材需要更换？</p>
+<p class="hdy-answer">华东医药（000963.SZ）9月26日在投资者互动平台表示，Ellansé®伊妍仕™目前的产能与库存充足，公司医美业务的具体经营情况请关注公司的定期报告。公司引进美国R2公司的冷触美容仪酷雪™Glacial Spa™（F0）存在耗材费用，酷雪™Glacial Spa™（F0）拥有一个固定探头和两个可拆卸一次性探头，可拆卸一次性探头需配合护肤产品使用，为一客一用。求美者体验需购买专属套盒，包括专研护理产品、配套芯片和两个可拆卸一次性探头。</p>
+<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 周宇翔)</p>
+<p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
+
+        <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->
+
+
+        <!-- 页数 -->
+      </div>
+      
+</div>
+            
