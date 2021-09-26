@@ -24,6 +24,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210926/s_4171d3fa65c244acb4eb11a79d
 <p align="center"><a href="https://img1.mydrivers.com/img/20210926/8c4cd08dad2b4fd782c3083e8b949645.png" target="_blank"><img alt="5499元！OPPO发布75英寸K9电视：支持MEMC动态插帧" h="337" src="https://img1.mydrivers.com/img/20210926/s_8c4cd08dad2b4fd782c3083e8b949645.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210926/60ebe057fff4471b82fce72846639737.png" target="_blank"><img alt="5499元！OPPO发布75英寸K9电视：支持MEMC动态插帧" h="360" src="https://img1.mydrivers.com/img/20210926/s_60ebe057fff4471b82fce72846639737.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20210926/1f351422373542b69b810d819ce60bba.png" target="_blank"><img alt="5499元！OPPO发布75英寸K9电视：支持MEMC动态插帧" h="330" src="https://img1.mydrivers.com/img/20210926/s_1f351422373542b69b810d819ce60bba.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20210926/01189c37dd764dc88fce8c907915e499.jpg" target="_blank"><img alt="5499元！OPPO发布75英寸K9电视：支持MEMC动态插帧" h="1109" src="https://img1.mydrivers.com/img/20210926/s_01189c37dd764dc88fce8c907915e499.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
            
