@@ -1,0 +1,18 @@
+
+---
+title: '贪心学院：对比CNN，GCN的核心区别点在哪里？或者创新点在哪里？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-c4daa39cdd19ef71d68dc5c5d4889afb_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 26 Sep 2021 05:36:45 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-c4daa39cdd19ef71d68dc5c5d4889afb_1440w.jpg'
+---
+
+<div>   
+Lungching的回答<br><br><p>卷积神经网络（Convolutional Neural Networks，简称 CNN） 利用了图片在其域中的局部平移不变性（local translational invariance）在图像识别等任务中具有重要作用。由于图片是一个规整的二维矩阵，卷积核平移到图片中的任何位置都可以保证其运算结果的一致性，这就是我们所说的“局部平移不变性”，CNN 的卷积本质就是利用这种平移不变性来对扫描的区域进行卷积操作，从而实现了图像特征的提取。</p><p>以上提到的图片是一个规整的二维矩阵，理论上来说是欧式空间的数据，其特点就是具有规则的结构和维度的概念。除此之外具有的不规则数据结构，如图结构或拓扑结构是无限维的一种数据，所以它没有平移不变性。每一个节点的周围结构可能都是独一无二的，这种结构的数据，就让传统的 CNN 失效，所以为了解决这一问题提出了新的概念，图卷积网络（Graph Convolutional Network，简称 GCN）就是其中的典型代表。GCN 的根本作用同 CNN，也是一个特征提取器，不同的是其对象是图数据。<b>所以，对比 CNN，GCN 的核心区别点或者创新点是</b>——完善了平移不变性在非矩阵结构数据上的不适用，其本质就是用来提取拓扑图的空间特征。</p><p>推荐一篇关于 GCN 比较全面的综述文章：</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c4daa39cdd19ef71d68dc5c5d4889afb_1440w.jpg" data-size="normal" data-rawwidth="1461" data-rawheight="1037" data-default-watermark-src="https://pic3.zhimg.com/v2-3ae0daf0c144b7883bea237276c30681_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c4daa39cdd19ef71d68dc5c5d4889afb_r.jpg" referrerpolicy="no-referrer"><figcaption>http://cjc.ict.ac.cn/online/onlinepaper/xbb-2020514175943.pdf</figcaption></figure><p>更多可移步下方链接和参考文献：</p><a href="http://link.zhihu.com/?target=https%3A//blog.csdn.net/m0_47645778/article/details/106074605" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-7f6ac5ddac03b9564ffba4225a9c418d_bh.jpg" data-image-width="419" data-image-height="310" class=" wrap external" target="_blank" rel="nofollow noreferrer">GCN综述：简史、方法分类、数据集、开源库、应用与展望</a><p><b>参考文献</b></p><blockquote>[1]. 阿泽. (2021). 【GNN】万字长文带你入门 GCN. 阿泽的学习笔记. 知乎: <a href="https://zhuanlan.zhihu.com/p/120311352" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/12</span><span class="invisible">0311352</span><span class="ellipsis"></span></a><br>[2]. 朱超超. (2020). 图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导. 博客园: <a href="http://link.zhihu.com/?target=https%3A//www.cnblogs.com/USTC-ZCC/p/13674112.html" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">cnblogs.com/USTC-ZCC/p/</span><span class="invisible">13674112.html</span><span class="ellipsis"></span></a><br>[3]. 蝈蝈. (2019).  何时能懂你的心——图卷积神经网络（GCN）. DeepLearning学习笔记. 知乎: <a href="https://zhuanlan.zhihu.com/p/71200936" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/71</span><span class="invisible">200936</span><span class="ellipsis"></span></a><br>[4]. superbrother. (2021). 如何理解 Graph Convolutional Network（GCN）？. 知乎: <a href="https://www.zhihu.com/question/54504471/answer/332657604" class="internal"><span class="invisible">https://www.</span><span class="visible">zhihu.com/question/5450</span><span class="invisible">4471/answer/332657604</span><span class="ellipsis"></span></a><br>[5]. NLP学习笔记. (2020). 38.图神经网络 GNN 之图卷积网络 (GCN). 百度: <a href="http://link.zhihu.com/?target=https%3A//baijiahao.baidu.com/s%3Fid%3D1670303834781877028%26wfr%3Dspider%26for%3Dpc" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">baijiahao.baidu.com/s?</span><span class="invisible">id=1670303834781877028&wfr=spider&for=pc</span><span class="ellipsis"></span></a><br><br><br><br></blockquote>  
+</div>
+            
