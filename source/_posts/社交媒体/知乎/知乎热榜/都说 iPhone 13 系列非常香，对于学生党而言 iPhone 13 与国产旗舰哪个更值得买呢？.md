@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-2dbfce29efa9fc685f9ed2d4bec9931a_720w.jpg'
+headimg: 'https://picsum.photos/400/300?random=566'
 author: 知乎
 comments: false
-date: Sun, 26 Sep 2021 02:46:51 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-2dbfce29efa9fc685f9ed2d4bec9931a_720w.jpg'
+date: Sun, 26 Sep 2021 03:06:32 GMT
+thumbnail: 'https://picsum.photos/400/300?random=566'
 ---
 
 <div>   
-学写作的丧失的回答<br><br><p>别提了，丧妹有个同学，特级贫困生，也想买iPhone13。</p><p>给她推荐了一堆性价比安卓机，就是觉得不行，就要iPhone。</p><p>也不知道一个<b>精神中产阶级</b>是怎么把<b>特级贫困生</b>给评上的。</p><p>说因为十三香所以感觉自己必须买的，那建议把iqoo，realme，redmi全都买一遍。</p><p>说白了就是虚荣，想显摆。</p><p>真是觉得苹果好用，买个二手iPhoneSE 呗。</p><p>当然，如果真心想买iPhone13，不买跟毒瘾犯了一样难受。</p><p>那可以搞个24期分期，然后出去打工。</p><p>说白了，最便宜的13 mini，分24期还，每个月也就还217.</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-2dbfce29efa9fc685f9ed2d4bec9931a_720w.jpg" data-rawwidth="337" data-rawheight="270" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-e58990bc2f888c1d01061413ff206c6f_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p>大学生一个月挣不到两百块钱，属于是白读书了，建议直接重新活一遍。</p><p>说白了两百块钱捡废品都赚起来了。</p><p>这点劳动都不愿意干，说明毒瘾的根源不在于想买iPhone，而是想不劳动白嫖爸妈的钱买iPhone。</p><p></p>  
+木槿的回答<br><br><p>对于学生党，这里应该指的是大学生吧，如果是自己做兼职赚的钱，喜欢苹果手机就买吧。</p><p><br></p><p>如果每个月要从生活费里省吃俭用，我觉得就没大必要了，学生阶段还没有经济独立，省吃俭用不利于身体健康，这个时间段只要手机功能齐全，只关注手机的功能而不是高端时尚。</p><p><br></p><p>不仅对于学生党，虚荣心过于强烈的人会打破自己的收支平衡，让生活陷入负债或者复杂的境地。君不见，各种贷款小广告不停的在挑动着购物的神经，轻松借分期还，听起来跟天堂一样美好。</p><p><br></p><p>如果一样东西需要一个人从最基本的生存资料中扣除再去购买，那只能说明这个东西你消费不起。既然消费不起，就不要强行消费。</p><p><br></p><p>要知道，普通工薪族一个月的工资很多都达不到5999元哦。苹果13尽管市场炒的热，说起来多香的，可它对于广普大众来说，依然很贵。</p>  
 </div>
             
