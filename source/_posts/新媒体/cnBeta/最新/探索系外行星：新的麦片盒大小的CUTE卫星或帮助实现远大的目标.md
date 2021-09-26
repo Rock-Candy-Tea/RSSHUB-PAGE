@@ -1,0 +1,19 @@
+
+---
+title: '探索系外行星：新的麦片盒大小的CUTE卫星或帮助实现远大的目标'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0926/34e93a28433475a.jpg'
+author: cnBeta
+comments: false
+date: Sun, 26 Sep 2021 02:35:30 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0926/34e93a28433475a.jpg'
+---
+
+<div>   
+据外媒报道，<strong>科罗拉多大学博尔德分校大气和空间物理实验室（LASP）设计和建造的一个新的微型卫星正在证明，“可爱”的东西可以接受大的科学挑战。</strong>“科罗拉多紫外线过境实验”（CUTE）预计将于2021年9月27日发射到太空。这项任务的主要研究人员、LASP研究员Kevin France说，这个耗资约400万美元的航天器是一种比通常的卫星类型更小的卫星，被称为“立方体卫星(CubeSat)”，其大小与 “家庭大小的Cheerios麦片盒”差不多。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0926/34e93a28433475a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0926/34e93a28433475a.jpg" alt="CoRoT-2A-System-777x550.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">但它有远大的目标：在大约7个月的时间里，该任务将跟踪一类远离地球的极热行星周围的挥发性物理现象。这是美国宇航局（NASA）资助的第一个观察这些遥远世界的立方体卫星任务--标志着对小型航天器可能具有的能力的一个重要测试。</p><p style="text-align: left;">天体物理学和行星科学系教授France说：“这是NASA正在进行的一项实验，看看用一颗小卫星能完成多少科学任务。这很令人兴奋，但也有点令人生畏。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0926/c3c410a1d209270.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0926/c3c410a1d209270.jpg" alt="Rick-Kohnert-and-Arika-Egan-777x583.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这项任务将由联合发射联盟的Atlas V火箭从加州范登堡空军基地发射升空，与Landsat 9卫星一起发射。一旦CUTE进入围绕地球的轨道，它将把目光投向被称为"热木星"的一组系外行星。正如它们的名字所示，这些气态行星既大又热，温度高达华氏数千度。这颗卫星的发现将帮助科学家更好地了解这些行星以及其他许多行星是如何演变的，甚至在数十亿年里如何萎缩。</p><p style="text-align: left;">近年来，LASP已经领导开发了多个CubeSat任务，以探索从太阳活动到遥远星系中的超新星的一切。与大型太空任务不同的是，这些任务的价格往往高达数亿美元，而工程师们可以廉价生产CubeSats。</p><p style="text-align: left;">LASP主任Daniel Baker说：“就在十年前，太空界的许多人表示，CubeSat任务只不过是‘玩具’而已。人们认识到，小型航天器可以作为教学和培训工具，但人们普遍怀疑用这种小型平台可以完成前沿科学。我很高兴LASP和科罗拉多大学已经带头证明了用小包装也能完成非凡的科学。CUTE和其他CU CubeSat任务正在改变基础研究的格局。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0926/61f038bb95eee14.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0926/61f038bb95eee14.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">热木星以及超热木星是一类特别环境恶劣的气态世界。以KELT-9b为例，这颗行星位于距离我们的恒星系统大约670光年的地方，其质量几乎是木星的三倍。但是KELT-9b的轨道离它的母星更近--近到该行星上的温度达到了令人难以置信的7800华氏度。</p><p style="text-align: left;">France说：“由于这些行星停在离母星如此之近的地方，它们接受了大量的辐射。”随着时间的推移，这种辐射会对一个星球造成损失。在这样的温度下，热木星的大气层开始膨胀，甚至可能撕裂并逃到太空。</p><p style="text-align: left;">这就是CUTE的作用所在。在整个任务期间，该航天器将测量气体从至少10颗热木星（包括KELT-9b）逃逸的速度。它将利用其独特的矩形望远镜设计实现这一壮举，该设计是由LASP开创的。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0926/fb0c0f54d21eb41.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0926/fb0c0f54d21eb41.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">“最终CUTE有一个主要目的，那就是研究这些非常热的、相当多气体的系外行星的膨胀大气，”Arika Egan说，他是LASP的一名研究生，曾帮助开发这项任务。“这些系外行星大气层所经历的膨胀和逃逸，其规模在我们自己的太阳系中是看不到的。”</p><p style="text-align: left;">France补充说，研究小组的发现可能会告诉科学家们很多东西，不仅仅是关于热木星，而是关于银河系中存在的所有行星。这包括像地球和它的近邻这样的小型和岩石世界。(例如，火星在近30亿年的时间里也失去了大部分的大气层，使该星球不适合人类居住。）</p><p style="text-align: left;">“我们对大气逃逸了解的地方越多，我们对整个大气逃逸的了解就越好，”France说。“然后我们可以将这些发现应用于不同类型的行星。”</p><p style="text-align: left;">他指出，CUTE非常适用于探测外星世界的大气层。与哈勃太空望远镜等大型太空任务不同，这颗卫星只有一项工作要做。在其短暂的生命期内尽可能多地扫描热木星。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0926/50e2dd8a1784ba4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0926/50e2dd8a1784ba4.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">France说，在科罗拉多大学博尔德分校研究人员花了四年时间开发CUTE后，他和他的团队对这项任务的即将发射感到苦乐参半。Egan则渴望这个微型卫星能够在关于地球在银河系中的位置的问题上做出一点贡献。</p><p style="text-align: left;">Egan说：“当你仰望天空，看到成千上万的星星，这本身就是一种存在。但是你再想想我们在这些恒星周围发现的行星，成千上万的行星。我们只是勉强触及了描述它们的表面，了解它们的多样性。我们知道的太少了，而加入到学习更多知识的努力中来是令人欣慰的。”</p>   
+</div>
+            
