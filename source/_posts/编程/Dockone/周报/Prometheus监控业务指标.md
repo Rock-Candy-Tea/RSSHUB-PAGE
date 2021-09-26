@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210926/d53cc27c1c2fc70789238092d6775471.png'
 author: Dockone
 comments: false
-date: 2021-09-26 06:09:32
+date: 2021-09-26 07:08:17
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210926/d53cc27c1c2fc70789238092d6775471.png'
 ---
 
@@ -19,9 +19,9 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <a href="http://dockone.io/uploads/article/20210926/d53cc27c1c2fc70789238092d6775471.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20210926/d53cc27c1c2fc70789238092d6775471.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
 </div>
 <br>
-<ul><li>Lgging，展现的是应用运行而产生的事件或者程序在执行的过程中间产生的一些日志，可以详细解释系统的运行状态，但是存储和查询需要消耗大量的资源。所以往往使用过滤器减少数据量。  </li><li>Metrics，是一种聚合数值，存储空间很小，可以观察系统的状态和趋势，但对于问题定位缺乏细节展示。这个时候使用等高线指标等多维数据结构来增强对于细节的表现力。例如统计一个服务的 TBS 的正确率、成功率、流量等，这是常见的针对单个指标或者某一个数据库的。 </li><li>Tracing，面向的是请求，可以轻松分析出请求中异常点，但与Logging有相同的问题就是资源消耗较大。通常也需要通过采样的方式减少数据量。比如一次请求的范围，也就是从浏览器或者手机端发起的任何一次调用，一个流程化的东西，我们需要轨迹去追踪。</li></ul><br>
+<ul><li>Lgging，展现的是应用运行而产生的事件或者程序在执行的过程中间产生的一些日志，可以详细解释系统的运行状态，但是存储和查询需要消耗大量的资源。所以往往使用过滤器减少数据量。</li><li>Metrics，是一种聚合数值，存储空间很小，可以观察系统的状态和趋势，但对于问题定位缺乏细节展示。这个时候使用等高线指标等多维数据结构来增强对于细节的表现力。例如统计一个服务的 TBS 的正确率、成功率、流量等，这是常见的针对单个指标或者某一个数据库的。</li><li>Tracing，面向的是请求，可以轻松分析出请求中异常点，但与Logging有相同的问题就是资源消耗较大。通常也需要通过采样的方式减少数据量。比如一次请求的范围，也就是从浏览器或者手机端发起的任何一次调用，一个流程化的东西，我们需要轨迹去追踪。</li></ul><br>
 <br>我们在这篇文章讨论的主题就是可观测性中的Metrics。在 Kubernetes作为基础设施的背景下，我们知道Kubernetes本身是个复杂的容器编排系统，它本身的稳定运行至关重要。与之相伴的指标监控系统 Promethues也已经成为了云原生服务下监控体系的事实标准。相信大家对资源层面比如CPU，Memory，Network；应用层面比如Http请求数，请求耗时等指标的监控都有所了解。那么业务层面的指标又怎么利用Prometheus去监控和告警呢？这就是这篇文章的核心内容。<br>
-<br>以我们一个业务场景为例，在系统中有多种类型的task在运行，并且task的运行时间各异，task本身有各种状态包括待执行、执行中、执行成功、执行失败等。如果想确保系统的稳定运行，我们必须对各个类型的 task 的运行状况了如指掌。比如当前是否有任务挤压，失败任务是否过多，并且当超过阈值是否告警。  <br>
+<br>以我们一个业务场景为例，在系统中有多种类型的task在运行，并且task的运行时间各异，task本身有各种状态包括待执行、执行中、执行成功、执行失败等。如果想确保系统的稳定运行，我们必须对各个类型的 task 的运行状况了如指掌。比如当前是否有任务挤压，失败任务是否过多，并且当超过阈值是否告警。<br>
 <br>为了解决上述的监控告警问题，我们先得了解一下Prometheus的指标类型。<br>
 <h3>指标</h3><h4>指标定义</h4>在形式上，所有的指标（Metric）都通过如下格式标示：<br>
 <pre class="prettyprint"><metric name>&#123;<label name>=<label value>, ...&#125; <br>
@@ -30,9 +30,9 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <br>标签（label）反映了当前样本的特征维度，通过这些维度Prometheus可以对样本数据进行过滤，聚合等。标签的名称只能由ASCII字符、数字以及下划线组成并满足正则表达式[a-zA-Z_][a-zA-Z0-9_]*。<br>
 <h4>指标类型</h4>Prometheus定义了4种不同的指标类型（metric type）：Counter（计数器）、Gauge（仪表盘）、Histogram（直方图）、Summary（摘要）<br>
 <br><strong>Counter</strong><br>
-<br>Counter类型的指标其工作方式和计数器一样，只增不减（除非系统发生重置）。常见的监控指标，如http_requests_total，node_cpu都是Counter类型的监控指标。 一般在定义Counter类型指标的名称时推荐使用_total作为后缀。<br>
-<br>通过 counter 指标我们可以和容易的了解某个事件产生的速率变化。<br>
-例如，通过rate()函数获取HTTP请求量的增长率：<br>
+<br>Counter类型的指标其工作方式和计数器一样，只增不减（除非系统发生重置）。常见的监控指标，如http_requests_total，node_cpu都是Counter类型的监控指标。一般在定义Counter类型指标的名称时推荐使用_total作为后缀。<br>
+<br>通过counter指标我们可以和容易的了解某个事件产生的速率变化。<br>
+<br>例如，通过rate()函数获取HTTP请求量的增长率：<br>
 <pre class="prettyprint">rate(http_requests_total[5m])<br>
 </pre><br>
 <strong>Gauge</strong><br>
@@ -54,7 +54,7 @@ go_gc_duration_seconds_sum 0.0114183<br>
 go_gc_duration_seconds_count 85<br>
 </pre><br>
 <strong>Histogram</strong><br>
-<br>Histogram类型的指标同样用于统计和样本分析。与Summary类型的指标相似之处在于Histogram类型的样本同样会反应当前指标的记录的总数（以_count作为后缀）以及其值的总量（以_sum作为后缀）。不同在于 Histogram 指标直接反应了在不同区间内样本的个数，区间通过标签len进行定义。同时对于Histogram的指标，可以通过<code class="prettyprint">histogram_quantile()</code>函数计算出其值的分位数。<br>
+<br>Histogram类型的指标同样用于统计和样本分析。与Summary类型的指标相似之处在于Histogram类型的样本同样会反应当前指标的记录的总数（以_count作为后缀）以及其值的总量（以_sum作为后缀）。不同在于Histogram指标直接反应了在不同区间内样本的个数，区间通过标签len进行定义。同时对于Histogram的指标，可以通过<code class="prettyprint">histogram_quantile()</code>函数计算出其值的分位数。<br>
 <br>例如：<br>
 <pre class="prettyprint"># HELP prometheus_http_response_size_bytes Histogram of response size for HTTP requests.<br>
 # TYPE prometheus_http_response_size_bytes histogram<br>
