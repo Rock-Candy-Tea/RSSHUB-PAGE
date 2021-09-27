@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/039/126/558/original/825a66daa1f828e6.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/039/127/815/original/dee2511a85d8614a.png'
 author: Mastodon
 comments: false
-date: Mon, 27 Sep 2021 07:43:14 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/039/126/558/original/825a66daa1f828e6.png'
+date: Mon, 27 Sep 2021 09:04:34 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/127/815/original/dee2511a85d8614a.png'
 ---
 
 <div>   
-<hr><p>だらだらと配信中</p><br><img src="https://img.pawoo.net/media_attachments/files/039/126/558/original/825a66daa1f828e6.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>ライブでここまで進みました <a href="https://pawoo.net/tags/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E9%80%B2%E6%8D%97" class="mention hashtag" rel="tag">#今日のライブ進捗</a> <a href="https://pawoo.net/tags/pixivSketch" class="mention hashtag" rel="tag">#pixivSketch</a> <a href="https://sketch.pixiv.net/items/5947127526170318522" rel="nofollow noopener" target="_blank">https://sketch.pixiv.net/items/5947127526170318522</a> <a href="https://pawoo.net/media/bAuEMPjcx5PoKfHG9m4" rel="nofollow noopener" target="_blank">https://pawoo.net/media/bAuEMPjcx5PoKfHG9m4</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/127/815/original/dee2511a85d8614a.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
