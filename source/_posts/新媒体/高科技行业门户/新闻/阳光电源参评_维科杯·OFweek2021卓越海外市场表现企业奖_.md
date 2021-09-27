@@ -1,0 +1,19 @@
+
+---
+title: '阳光电源参评_维科杯·OFweek2021卓越海外市场表现企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/27/guanghua/1632709418410037151.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 27 Sep 2021 10:40:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/27/guanghua/1632709418410037151.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2021年9月28日－10月9日进入网络投票环节，最终获奖结果将于10月21日在深圳举办的“OFweek 2021（第十二届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>阳光电源股份有限公司参评“维科杯·OFweek2021卓越海外市场表现企业奖”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/27/guanghua/1632709418410037151.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">阳光电源股份有限公司（股票代码：300274）是一家专注于太阳能、风能、<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>、电动汽车等新能源电源设备的研发、生产、销售和服务的国家重点高新技术企业，主要产品有<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfunibianqi.html" target="_blank" title="光伏逆变器">光伏逆变器</a></span>、风电变流器、储能系统、水面<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260009-xitongjicheng.html" target="_blank" title="光伏系统">光伏系统</a></span>、<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>驱动系统、充电设备、智慧能源运维服务等，并致力于提供全球一流的清洁电力解决方案。</p><p style="text-indent: 2em; text-align: left;">自1997 年成立以来，公司始终专注于新能源发电领域，坚持以市场需求为导向、以技术创新作为企业发展的动力源，培育了一支研发经验丰富、自主创新能力较强的专业研发队伍；先后承担了20余项国家重大科技计划项目，主持起草了多项国家标准，是行业内为数极少的掌握多项自主核心技术的企业之一。</p><p style="text-indent: 2em; text-align: left;">公司核心产品光伏<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260002-guangfuqijian.html" target="_blank" title="逆变器">逆变器</a></span>先后通过TüV、CSA、SGS等多项国际权威认证与测试，已批量销往全球150 多个国家和地区。截至2021 年6月，阳光电源在全球市场已累计实现逆变设备装机超182GW。 公司先后荣获“国家重点新产品”、“中国驰名商标”、全球最具融资价值逆变品牌、全球新能源企业100强、国家级“守合同重信用”企业、“中国工业大奖”、“亚洲最佳企业雇主奖”等荣誉，是国家级博士后科研工作站设站企业、国家高新技术产业化示范基地、国家认定企业技术中心、国家级工业设计中心、《福布斯》“中国最具发展潜力企业”等，综合实力位居全球新能源发电行业第一方阵。</p><p style="text-indent: 2em; text-align: left;">未来，阳光电源将秉承“让人人享用清洁电力”的使命，立足新能源装备业务，加快清洁能源系统集成及投资建设业务发展，创新拓展清洁电力转换技术领域新业务，不断贴近客户需求，积极参与全球竞争，努力将公司打造成为受人尊敬的全球一流企业。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek2021卓越海外市场表现企业奖</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">· 产品畅销全球150＋国</p><p style="text-indent: 2em; text-align: left;">· 装机182GW＋引领全球市场</p><p style="text-indent: 2em; text-align: left;">参评仍在火热进行中，有意参评企业可联系点击链接</p><p style="text-indent: 2em; text-align: left;">维科杯OFweek 2021<a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a>光伏行业年度评选</p><p style="text-indent: 2em; text-align: left;"><a href="https://www.ofweek.com/award/2021/solar/">https：／／www．ofweek．com／award／2021／solar／</a></p><p style="text-indent: 2em; text-align: left;">同期举办OFweek 2021（第十二届）太阳能光伏产业大会</p><p style="text-indent: 2em; text-align: left;"><a href="https://www.ofweek.com/seminar/2021/solar/">https：／／www．ofweek．com／seminar／2021／solar／</a></p> 
+  
+</div>
+            
