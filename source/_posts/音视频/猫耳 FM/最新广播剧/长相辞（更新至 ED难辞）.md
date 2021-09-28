@@ -1,0 +1,18 @@
+
+---
+title: '长相辞（更新至 ED难辞）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202109/28/60c0a71ad856f6cd3a31ef9541aee70a164623.png'
+author: 猫耳 FM
+comments: false
+date: Tue, 28 Sep 2021 08:51:27 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202109/28/60c0a71ad856f6cd3a31ef9541aee70a164623.png'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202109/28/60c0a71ad856f6cd3a31ef9541aee70a164623.png" referrerpolicy="no-referrer"><br><p>我想你断了对那人的念想，我想你身边再无玉龄之流，我想你抛却新仇旧怨，我想你与我长相厮守。</p><p>苦等十年，虐恋情深，古风生子</p><p>——STAFF——</p><p>原著：樱三</p><p>策划：应时</p><p>编剧：我就是苹果田</p><p>导演：罐头</p><p>后期：麻野</p><p>画师：多果</p><p>美工：奶油塔</p><p>——CAST——</p><p>叶绍卿：多多</p><p>宋景仪：HolyNight</p>  
+</div>
+            

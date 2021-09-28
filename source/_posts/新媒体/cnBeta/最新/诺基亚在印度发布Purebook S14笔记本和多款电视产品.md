@@ -1,0 +1,21 @@
+
+---
+title: '诺基亚在印度发布Purebook S14笔记本和多款电视产品'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0928/f56c3eb866f92e3.jpg'
+author: cnBeta
+comments: false
+date: Tue, 28 Sep 2021 13:00:25 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0928/f56c3eb866f92e3.jpg'
+---
+
+<div>   
+<strong>还记得去年12月在印度首次现身的诺基亚Purebook X14吗？现在有一个继任者在路上，被称为Purebook
+S14。</strong>它不像X14那样轻巧，尽管它配备了更新的处理器和开箱即用的Windows 11。诺基亚Purebook
+S14由第11代英特尔酷睿i5处理器和Iris Xe图形驱动，可以选配8GB或16GB的内存和512GB的NVMe SSD。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/0928/f56c3eb866f92e3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0928/f56c3eb866f92e3.jpg" title alt="gsmarena_008.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/0928/13b4cfbbb6d0c5d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0928/13b4cfbbb6d0c5d.jpg" title alt="gsmarena_007.jpg" referrerpolicy="no-referrer"></a></p><p>这台笔记本电脑有一面14英寸的IPS液晶显示器，分辨率为1080p。边框相当窄，尽管笔记本电脑本身比X14更重--1.4公斤对1.1公斤。在连接方面，S14提供一个USB-C端口，一个USB-A 3.0端口和一个HDMI端口。还有一个3.5毫米耳机插孔和一个microSD卡插槽。</p><p>诺基亚Purebook S14将于10月3日开始在Flipkart发售，价格为57000印度卢比。作为对比，老款Purebook X14目前在Flipkart上的折扣价为55000印度卢比。顺便说一下，这将是印度第一台开箱即用的<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 11笔记本电脑。</p><p>此外，还有一个新的诺基亚智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>系列。它们分为两组：一组是50英寸和55英寸尺寸的QLED显示屏，另一组是43英寸、50英寸和55英寸的普通LCD。所有这些都是<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>显示屏，但也会有一个更实惠的43英寸1080p选择。</p><p><a href="https://static.cnbetacdn.com/article/2021/09/b1bc8760d143869.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/b1bc8760d143869.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/73072393a8d4c40.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/73072393a8d4c40.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/894f89e8ce4e129.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/894f89e8ce4e129.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/a2e844955cf0e43.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/a2e844955cf0e43.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/e67c334275c5500.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/e67c334275c5500.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/489cafe05bead6f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/489cafe05bead6f.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/2310f428924d89b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/2310f428924d89b.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/971d79eae19e6b6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/971d79eae19e6b6.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/09/ad3f227147642d2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/09/ad3f227147642d2.jpg" referrerpolicy="no-referrer"></a></p><p>这些电视均配置四核处理器（1.1 GHz）、Mali-G31 GPU（700 MHz）、2 GB内存和16 GB存储空间上运行的是Android 11。所有电视都支持杜比视界和HDR10，然而，QLED型号提供更好的色彩渲染，NTSC覆盖率为102%。此外，所有型号都有内置的JBL扬声器，由哈曼AudioEFX调校，但顶级型号有双60W扬声器，并配有杜比全景声。<br></p><p>QLED型号的50英寸屏幕价格为50000印度卢比，55英寸为55000印度卢比，同样尺寸的LCD版本便宜5000印度卢比。</p>   
+</div>
+            
