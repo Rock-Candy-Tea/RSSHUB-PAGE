@@ -1,0 +1,19 @@
+
+---
+title: '苏州艾利特机器人有限公司（艾利特机器人）荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808014763095614.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 28 Sep 2021 05:43:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808014763095614.png'
+---
+
+<div>   
+<p>       2021年9月28日-30日，由深圳市工信局、深圳市福田区人民政府指导，中国高科技行业门户OFweek维科网主办的“OFweek 2021中国智能制造<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>峰会”暨“维科杯·OFweek2021中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选颁奖典礼”在深圳福田会展中心成功举行。</p><p>       9月28日下午，“维科杯·OFweek 2021中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>与数字化行业年度评选”获奖名单正式出炉。“维科杯·OFweek 2021中国工业自动化与数字化行业年度评选”活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       其中，<strong>苏州艾利特<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>有限公司（艾利特机器人）凭借艾利特CS系列平台级<span class="hrefStyle"><a href="https://robot.ofweek.com/KW-xiezuojiqiren.html" target="_blank" title="协作机器人">协作机器人</a></span>荣获“维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖”。</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808014763095614.png" title="苏州艾利特机器人有限公司（艾利特机器人）荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" alt="苏州艾利特机器人有限公司（艾利特机器人）荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" width="250" height="294" referrerpolicy="no-referrer"></strong></p><p><strong>获奖产品介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632807939351053478.png" title="1632807939351053478.png" alt="image.png" referrerpolicy="no-referrer"></strong></p><p>       艾利特全新CS系列协作机器人基于全新的基础架构，在包括操作界面和编程方式在内的软件，以及示教器、机器人本体在内的硬件侧全面升级，展示了新一代协作机器人的灵活性和开放性，以及艾利特在人机协同自动化技术的最新成果。 CS系列的诞生旨在通过打造平台级的协作机器人产品，助力柔性自动化，帮助集成商和用户降低协作机器人的使用难度，并为未来3-5年内可能产生的基于协作机器人的各类应用提前布局。</p><p><strong>获奖理由：</strong></p><p>       艾利特CS系列平台级协作机器人采用新型的轻量宽屏示教器，支持触屏控制，同时优化了编程流程，只需按流程轻点界面设置程序，便可完成机器人编程，上手更快速，帮助用户和集成商加快项目开发周期。</p><p><strong>企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632807972837085592.png" title="1632807972837085592.png" alt="image.png" referrerpolicy="no-referrer"></strong></p><p>       艾利特创始团队来自于北航机器人所，研发是其基因。在机器人控制领域近17年的技术积累，艾利特完成了全系协作机器人产品及生态布局，包含12kg,6kg,3kg大中小负载的6轴协作机器人及生态配套软硬件产品。应用案例覆盖3C电子、汽车零部件、金属加工、包装物流、家电日化、新消费等6大行业，场景包括物料搬运、视觉检测、螺丝锁缚、码垛拆垛、涂胶、打磨、组装、AGV复合应用等等。</p><p>       提升国内企业自动化水平、降低自动化门槛的理念，艾利特致力为用户提供基于共平台控制能力的协作机器人产品，坚持性能比肩国外品牌的策略，为用户提供高成本效益的解决方案。目前艾利特机器人在多个行业中已获得了积极的用户口碑。</p><p>       作为一家以研发为核心，集生产、销售、售后服务于一体的机器人企业，艾利特在机器人核心部件<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="控制系统">控制系统</a></span>/伺服驱动系统、智能视觉系统、协作机器人的研发和生产均处于国内领先地位，其中机器人控制技术及智能视觉技术已处于国际领先水平。</p><p>       艾利特在产品布局上具有长远眼光。最新发布的新一代协作机器人产品CS系列，将标志着艾利特在协作机器人技术和产品力上再进一步。此次推出的平台级CS（Cobots Superior）协作式机器人新品基于全新的基础架构，在包括操作界面和编程方式在内的软件，以及示教器、机器人本体在内的硬件侧全面升级，展示了新一代协作机器人的灵活性和开放性，以及艾利特在人机协同自动化技术的最新成果。</p><p><strong>更多资讯及回看请参阅大会专题：</strong><a href="https://mp.ofweek.com/m034542010905">https://mp.ofweek.com/m034542010905</a></p> 
+  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/chris-kemp-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-09-28 05:07:41
+date: 2021-09-28 06:09:49
 thumbnail: 'https://www.invisionapp.com/inside-design/chris-kemp-design-better-podcast/'
 ---
 

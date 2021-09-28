@@ -1,0 +1,19 @@
+
+---
+title: '浙江迈睿机器人有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808298423053293.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 28 Sep 2021 05:49:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808298423053293.png'
+---
+
+<div>   
+<p>       2021年9月28日-30日，由深圳市工信局、深圳市福田区人民政府指导，中国高科技行业门户OFweek维科网主办的“OFweek 2021中国智能制造<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>峰会”暨“维科杯·OFweek2021中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选颁奖典礼”在深圳福田会展中心成功举行。</p><p>       9月28日下午，“维科杯·OFweek 2021中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>与数字化行业年度评选”获奖名单正式出炉。“维科杯·OFweek 2021中国工业自动化与数字化行业年度评选”活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       其中，<strong>浙江迈睿<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>有限公司凭借迈睿机器人潜伏系列AMR荣获“维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖”。</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808298423053293.png" title="浙江迈睿机器人有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" alt="浙江迈睿机器人有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" width="250" height="295" referrerpolicy="no-referrer"></strong></p><p><strong>获奖产品介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808341750034718.png" title="1632808341750034718.png" alt="image.png" referrerpolicy="no-referrer"></strong></p><p>       迈睿机器人潜伏系列AMR是一款现代智能仓储搬运机器人，它能依靠自主导航模式，不仅小巧灵活，而且精度高、速度快；自主规划路线、360°旋转等强大功能集于一身。潜伏系列机器人通过配有旋转顶升系统，能够将货物所在的货架从仓库储存区搬运至指定地点，大大提高处理效率。机器人最大负载可达1.5吨，最大运行速度可达2m/s，定位精度达±10mm，角度精度达±1°。能够很好的应用于3C、快递/电商、汽车、制造业、医药、烟草、食品饮料等工厂生产环境涉及作业包括原材料、零部件收发、转移等各物流环节。</p><p>       1）采用SLAM、二维码等多种导航方式，增强定位导航稳定性的同时，加入了对场景语义的理解，真正做到了自动化与智能化的完美融合。</p><p>       2）控制器、相机及BMS完全自主研发，提供丰富的外置接口和通讯总线，包括 RS232、RS485、CAN、以太网、USB、DI/Power DO，可适配各类非标需求，并提供通明通道方便用户使用。</p><p>      3）支持多<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>安全防护，包括但不限于激光、360°防撞条、I/O型超声、光电等软扩展； </p><p>      4）满足多种通信协议，支持 ModBus、TCP/IP 协议供外部调用。加入3D视觉传感器对立体障碍物进行识别检测，并根据配置选择停障或绕行。</p><p>      5）提供从0到1500kg多规格扩展性平台，满足不同行业的负载及场景需求。 可配合机械手辊筒、顶升、潜伏牵引、云台、显示屏等，实现一种底盘多种应用。</p><p><strong>获奖理由：</strong></p><p>       迈睿机器人潜伏系列AMR，拥有小巧灵活、精度高、速度快的特点，还有自主规划路线、360°旋转等多种功能，配有旋转顶升系统，机器人最大负载可达1.5吨，最大运行速度可达2m/s，定位精度达±10mm，角度精度达±1°。</p><p><strong>企业介绍：</strong></p><p style="text-align: center;"><strong><strong style="white-space: normal;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632808327515039576.png" title="1632808327515039576.png" alt="image.png" referrerpolicy="no-referrer"></strong></strong></p><p>       浙江迈睿机器人有限公司是一家以AI技术为核心的移动机器人产品及解决方案提供商。依托持续的AI技术创新以及在机器人的落地，为各个行业客户提供完整的AI机器人+产品及解决方案，目前公司产品涵盖潜伏系列机器人、叉取系列机器人、移载系列机器人，以及依托机器人本体及软件系统组合形成的智能仓储解决方案、智能搬运解决方案、智能分拣解决方案并在各个行业、场景落地。目前已获得数百项核心技术专利。公司期望通过持续的研发、产品的投入，为全球各个客户提供完整的智能机器人产品及解决方案，加速行业机器人换人进程。</p><p><strong>更多资讯及回看请参阅大会专题：</strong><a href="https://mp.ofweek.com/m034542010905">https://mp.ofweek.com/m034542010905</a></p> 
+  
+</div>
+            
