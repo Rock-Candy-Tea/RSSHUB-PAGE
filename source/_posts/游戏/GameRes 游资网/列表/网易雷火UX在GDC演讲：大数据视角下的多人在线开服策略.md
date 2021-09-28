@@ -50,9 +50,23 @@ Sure于2018年校招进入网易，参与了多款端手游项目的数据挖掘
 <br>
 选用了四种颜色代表了四条技术路线，也可是计算粒度的区别。整个架构拆分为多个层次，其中最为关键部分是Collect、Prestore、Compute、Tag以及Store部分，紫色代表着T+1， 黄色和绿色代表着近实时，以及蓝色代表着实时。T+1计算方式使用Flink收集日志写入HDFS，通过Hive SQL计算数据，最后将计算结果写入Hbase和Redis提供服务。此外，用户画像也采用T+1计算方法。近乎实时的技术路线有两条，一种是使用ELK计算，Logstash收集日志，Elasticsearch存储数据，使用Python计算数据。另一种是结合Kudu，使用Flink收集日志，kudu预存数据，最后Impala计算数据。两条路由都会将计算结果写入MySQL。<br><br>
 最后一种是实时方式，使用Kafka预存数据，Flink进行计算。在服务层，所有方案都会使用 Django和Docker。<br><br><div align="center">
-<img id="aimg_996511" aid="996511" zoomfile="https://di.gameres.com/atta" src="https://www.gameres.com/undefined" referrerpolicy="no-referrer">
+<img id="aimg_996511" aid="996511" zoomfile="https://di.gameres.com/attachment/forum/202107/29/162346ar0t4qklppztmxx9.png" data-original="https://di.gameres.com/attachment/forum/202107/29/162346ar0t4qklppztmxx9.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202107/29/162346ar0t4qklppztmxx9.png" referrerpolicy="no-referrer">
 </div>
+<br>
+首先介绍的是T+1的方式，在这部分有过两个阶段的实践，在很久之前我们在Collect和Prestore采用 Logstash+Local FS的方式，固定时间周期上传到HDFS上，后来日志量的增多就带来很多瓶颈，比如单机内存不足等等，然后我们引入Flink解决上述瓶颈问题，直接写入到HDFS，采用Hive SQL方式对指标进行计算。考虑到指标的复杂性，在用户画像部分也是采用T+1的方式计算。最终将计算完的指标写入到Hbase和Redis。之所以选择Hbase和Redis是考虑到可以做到高吞吐低延迟的效果。整个过程是小时级或者天级的。T+1方案主要是用来计算低频更新的数据指标。前面提到的用户画像，之所以采用T+1方案，是因为需要计算的指标都相对复杂，也需要数据分析工作，如玩家的聚类和行为分析，最终汇总成玩家的Tag。用户画像日志量大，计算开销也大并且需要人工的参与，因此T+1的方式是最合适的。<br><br><div align="center">
+<img id="aimg_996512" aid="996512" zoomfile="https://di.gameres.com/attachment/forum/202107/29/162346pjh5nihaua8w2hk5.png" data-original="https://di.gameres.com/attachment/forum/202107/29/162346pjh5nihaua8w2hk5.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202107/29/162346pjh5nihaua8w2hk5.png" referrerpolicy="no-referrer">
+</div>
+<br>
+我们在探索近实时的实践过程中保留着两种技术路线，分别是增量计算和全量计算。第一种就是黄色路线所示，利用ES对文本的强大搜索能力进行计算，同时使用Python作为编程语言能够做到快速实现和灵活的数据转化。第二种就是使用Kudu的OLAP能力，同时加上Impala的计算引擎做到数据的近实时计算。第二种因为是全量计算，消耗的资源比较多，通常作为第一种方案的补充，以及第一种方案的数据校验。该方案主要用于计算重要而且复杂的数据指标。<br><br><div align="center">
+<img id="aimg_996513" aid="996513" zoomfile="https://di.gameres.com/attachment/forum/202107/29/162347pvsb3ssqdb3mz1ye.png" data-original="https://di.gameres.com/attachment/forum/202107/29/162347pvsb3ssqdb3mz1ye.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202107/29/162347pvsb3ssqdb3mz1ye.png" referrerpolicy="no-referrer">
+</div>
+<br>
+最后就是实时的方案，也就是使用Flink和Kafka对数据进行转化计算，整个过程会更加复杂，依然有着各种优缺点。<br><br>
+在Web服务则是使用了Django、Docker以及K8s，可以做到快速开发，快速迭代，快速部署以及方便拓展。通用开发方案是以近实时为主，实时和T+1为辅的技术方案，做到了计算开销与指标重要度的权衡。<br><br>
+感谢大家，希望能对大家的工作起到一些帮助。<br><br>
 </td></tr></tbody></table>
+
+
   
 </div>
             

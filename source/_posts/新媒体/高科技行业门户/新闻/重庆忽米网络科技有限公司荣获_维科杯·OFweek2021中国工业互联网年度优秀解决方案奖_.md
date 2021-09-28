@@ -1,0 +1,19 @@
+
+---
+title: '重庆忽米网络科技有限公司荣获_维科杯·OFweek2021中国工业互联网年度优秀解决方案奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632759590400026470.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 27 Sep 2021 16:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632759590400026470.png'
+---
+
+<div>   
+<p>       2021年9月28日-30日，由深圳市工信局、深圳市福田区人民政府指导，中国高科技行业门户OFweek维科网主办的“OFweek 2021中国智能制造<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>峰会”暨“维科杯·OFweek2021中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选颁奖典礼”在深圳福田会展中心成功举行。</p><p>       9月28日下午，“维科杯·OFweek 2021中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>与数字化行业年度评选”获奖名单正式出炉。“维科杯·OFweek 2021中国工业自动化与数字化行业年度评选”活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       其中，<strong>重庆忽米网络科技有限公司凭借忽米<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongyehulianwang.html" target="_blank" title="工业互联网">工业互联网</a></span>泛半导体行业解决方案荣获“维科杯·OFweek2021中国工业互联网年度优秀解决方案奖”。</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632759590400026470.png" title="重庆忽米网络科技有限公司荣获“维科杯·OFweek2021中国工业互联网年度优秀解决方案奖”" alt="重庆忽米网络科技有限公司荣获“维科杯·OFweek2021中国工业互联网年度优秀解决方案奖”" width="250" height="296" referrerpolicy="no-referrer"></strong></p><p>      <strong> 获奖方案介绍：</strong></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632759501043077529.png" title="1632759501043077529.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">忽米工业互联网泛半导体行业解决方案</p><p>       忽米工业物联网平台面向制造业数字化、网络化、智能化需求，构建基于边缘计算、设备管理、数据采集的服务体系，支撑制造资源泛在连接、弹性供给、高效配置、包括边缘、平台、应用化三大核心层。基于忽米工业互联网平台，将工厂、设备和生产资料通过网络技术高度结合，连接产线设备，实现设备互联互通、设备数据采集，为生产设备提供设备连接基础。有效降低运营风险、提高产品质量和经营效益，扩展分析能力，实现新锐洞察，助力企业现代化智能制造产业升级。</p><p>       晶圆激光应力诱导切制设备数字孪生体整体方案架构中，信息物理层利用ERP、MES、PDM、<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>、5G边缘器完成设备三维建模和各项数据采集，再利用忽米工业物联网平台完成多源异构数据的格式统一,数据转换，从而建立数字孪生体所需的数据模型。通过工业Pass层中晶圆激光应力诱导切割设备的光学系统机理模型、实时焦点补偿系统机理模型、运动<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="控制系统">控制系统</a></span>机理模型、工业算法模型等完成模型与数据的深度融台。并通过工业SaaS层中，数字孪生体的参数配置、动线轨迹、模型渲染等功能，构建出具备智能分析、看能诊断、智能预测能力的晶圆激光应力诱导切割设备数字孪生体，达到实时晶圆切割工序的激光应力诱导切割设备的参数优化。</p><p>       <strong>获奖理由：</strong></p><p>       作为西部地区唯一入选双跨的工业互联网平台，忽米工业物联网平台除了作为中枢连接智能设备外，还拥有设备接入、设备管理、组态设计、规则引擎、设备数据模拟等多项强大功能，全面服务物联网场景。</p><p><strong>       企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632759517329096558.png" title="1632759517329096558.png" alt="image.png" width="378" height="154" referrerpolicy="no-referrer"></strong></p><p>       忽米网是中国领先的工业互联网平台，也是国家工信部发布的国家级跨行业跨领域工业互联网平台和首批国家级工业互联网平台试点示范项目。忽米网致力于为中国制造企业提供数字化平台及解决方案，以大数据智能化创新技术消除中国制造企业“数字鸿沟”，帮助企业实现转型升级。</p><p>       忽米网立足西南，辐射全国，已在重庆构建了“五区六园”，同时也在广西北海、江苏苏州、贵州贵阳、四川成都、天津等省市设立工业互联网产业园，商业版图覆盖中国长三角、胶州湾、北部湾、黔渝经济圈、成渝双城经济圈等区域，多种业态并行，为中小制造企业转型升级赋能。</p><p>       <strong>更多资讯及回看请参阅大会专题：</strong><a href="https://mp.ofweek.com/m034542010905">https://mp.ofweek.com/m034542010905</a></p> 
+  
+</div>
+            
