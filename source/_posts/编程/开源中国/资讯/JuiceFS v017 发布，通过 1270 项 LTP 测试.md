@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-5776b88bad69819da1515b450416174
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">小伙伴们大家好，JuiceFS v0.17 在国庆小长假来临之际如期发布了！这是我们在 2021 年秋季推出的第二个版本，让我们直奔主题，看看都有哪些新变化吧。</p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">小伙伴们大家好，JuiceFS v0.17 在国庆小长假来临之际如期发布了！这是我们在 2021 年秋季推出的第二个版本，让我们直奔主题，看看都有哪些新变化吧。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">本次更新累计 80+ 提交，共有 9 位来自 JuiceFS 社区的小伙伴在 GitHub 上贡献代码。在这里，我们向每一位贡献者表示最诚挚的感谢，同时欢迎屏幕前的你也加入到 JuiceFS 开源社区，贡献代码、文档或讨论想法。</p> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">通过 LTP 1270 项测试，Linux 系统下兼容性更完美</h2> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">JuiceFS 的最新版本针对 Linux 系统环境做了进一步的优化，改进了 rename 和 setxattr 读其他参数的支持，顺利通过了 LTP 的<span> </span><strong>1270</strong><span> </span>项测试。</p> 

@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-5b8e1ad859f64f8973efa239b23921e
 
 <div>   
 <div class="content">
-                                                                                            <p style="margin-left:.0001pt; margin-right:0; text-align:justify"><span><span>O2OA6.3<span>版本中，新增了一组基于</span>Vue<span>的</span>ElementUI<span>组件，在流程表单设计界面，就可以在左边的工具栏找到</span>ElementUI<span>组件。它能让界面设计更加简洁直观，只需要将对应的组件拖动到表单设计区域就可以创建组件，还能保证产品设计人员搭建逻辑清晰、搭建出结构合理且高效易用的产品。</span></span></span></p> 
+                                                                    
+                                                        <p style="margin-left:.0001pt; margin-right:0; text-align:justify"><span><span>O2OA6.3<span>版本中，新增了一组基于</span>Vue<span>的</span>ElementUI<span>组件，在流程表单设计界面，就可以在左边的工具栏找到</span>ElementUI<span>组件。它能让界面设计更加简洁直观，只需要将对应的组件拖动到表单设计区域就可以创建组件，还能保证产品设计人员搭建逻辑清晰、搭建出结构合理且高效易用的产品。</span></span></span></p> 
 <p style="text-align:center"><img height="359" src="https://oscimg.oschina.net/oscnet/up-5b8e1ad859f64f8973efa239b23921eb64f.png" width="275" referrerpolicy="no-referrer"></p> 
 <p style="margin-left:.0001pt; margin-right:0; text-align:justify"><span><span><span>创建界面的布局容器后，可以选择字段类型组件、自动完成框、计数器、选择框、级联选择器、按钮、通用组件等进行快速搭建，提升设计效率，让界面更加美观，结构更加合理。</span></span></span><span><span><span>以日期范围选择器为例，点击＂</span>Preview<span>＂按钮可预览组件样式：</span></span></span></p> 
 <p style="margin-left:.0001pt; margin-right:0; text-align:justify"> </p> 

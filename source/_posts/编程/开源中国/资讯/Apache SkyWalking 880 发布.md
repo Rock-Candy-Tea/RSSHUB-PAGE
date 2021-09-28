@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=824'
+headimg: 'https://picsum.photos/400/300?random=2195'
 author: 开源中国
 comments: false
 date: Tue, 28 Sep 2021 07:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=824'
+thumbnail: 'https://picsum.photos/400/300?random=2195'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><span style="background-color:#ffffff; color:#333333">Apache SkyWalking 8.8.0 现已发布，SkyWalking 是观察性分析平台和应用性能管理系统 (APM)，提供分布式追踪、服务网格遥测分析、度量聚合和可视化一体化解决方案，支持 Java, .Net Core, PHP, NodeJS, Go, Lua 语言探针，支持 Envoy + Istio 构建的 Service Mesh。</span></p> 
+                                                                    
+                                                        <p><span style="background-color:#ffffff; color:#333333">Apache SkyWalking 8.8.0 现已发布，SkyWalking 是观察性分析平台和应用性能管理系统 (APM)，提供分布式追踪、服务网格遥测分析、度量聚合和可视化一体化解决方案，支持 Java, .Net Core, PHP, NodeJS, Go, Lua 语言探针，支持 Envoy + Istio 构建的 Service Mesh。</span></p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>将 javaagent 拆分为 skywalking-java 存储库</li> 

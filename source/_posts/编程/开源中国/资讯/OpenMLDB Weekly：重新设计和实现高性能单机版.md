@@ -8,13 +8,14 @@ categories:
 headimg: 'https://pic4.zhimg.com/80/v2-35bd89bd891c0f2104ec4f8ff6189727_1440w.jpg'
 author: 开源中国
 comments: false
-date: Tue, 28 Sep 2021 08:07:00 GMT
+date: Tue, 28 Sep 2021 16:07:00 GMT
 thumbnail: 'https://pic4.zhimg.com/80/v2-35bd89bd891c0f2104ec4f8ff6189727_1440w.jpg'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <h2 style="margin-left:0; margin-right:0; text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fsourl.cn%2FzrncAA" target="_blank">OpenMLDB</a></h2> 
+                                                                    
+                                                        <h2 style="margin-left:0; margin-right:0; text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fsourl.cn%2FzrncAA" target="_blank">OpenMLDB</a></h2> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">Summary</h2> 
 <p style="color:#121212; margin-left:0; margin-right:0; text-align:start">本周合并 Pull requests 8个，新增Pull requests 5个，关闭 Issues 11个，新增 Issues 20个。总计84个文件修改，新增6677行代码，删除511行代码。<span> </span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img src="https://pic4.zhimg.com/80/v2-35bd89bd891c0f2104ec4f8ff6189727_1440w.jpg" width="947" referrerpolicy="no-referrer"></p> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=966'
+headimg: 'https://picsum.photos/400/300?random=6070'
 author: 开源中国
 comments: false
 date: Tue, 28 Sep 2021 07:22:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=966'
+thumbnail: 'https://picsum.photos/400/300?random=6070'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><span style="background-color:#ffffff; color:#333333">Inkscape 1.1.1 现已发布。Inkscape 是一个矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等软件很相似，它使用 W3C 标准的 Scalable Vector Graphics (SVG) 文件格式，支持包括形状、路径、文本、标记、克隆、alpha 混合、变换、渐变、图案、组合等 SVG 特性。它也支持创作共用的元数据、节点编辑、图层、复杂的路径运算、位图描摹、文本绕路径、流动文本、直接编辑 XML 等。它可以导入 JPEG、PNG、TIFF 等格式，并输出为 PNG 和多种矢量格式。 </span></p> 
+                                                                    
+                                                        <p><span style="background-color:#ffffff; color:#333333">Inkscape 1.1.1 现已发布。Inkscape 是一个矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等软件很相似，它使用 W3C 标准的 Scalable Vector Graphics (SVG) 文件格式，支持包括形状、路径、文本、标记、克隆、alpha 混合、变换、渐变、图案、组合等 SVG 特性。它也支持创作共用的元数据、节点编辑、图层、复杂的路径运算、位图描摹、文本绕路径、流动文本、直接编辑 XML 等。它可以导入 JPEG、PNG、TIFF 等格式，并输出为 PNG 和多种矢量格式。 </span></p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>新功能 

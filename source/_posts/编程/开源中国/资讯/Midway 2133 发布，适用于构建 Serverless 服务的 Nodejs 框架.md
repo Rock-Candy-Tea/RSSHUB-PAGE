@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4756'
+headimg: 'https://picsum.photos/400/300?random=7759'
 author: 开源中国
 comments: false
 date: Tue, 28 Sep 2021 14:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4756'
+thumbnail: 'https://picsum.photos/400/300?random=7759'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <div> 
+                                                                    
+                                                        <div> 
  <p style="margin-left:0; margin-right:0"><span>临近双十一，我们的发版会更加的慎重，周期变长，请谅解。</span></p> 
  <h2 style="margin-left:0; margin-right:0"><span>Features</span></h2> 
  <h3 style="margin-left:0; margin-right:0"><span>1、提供了一批新的组件</span></h3> 

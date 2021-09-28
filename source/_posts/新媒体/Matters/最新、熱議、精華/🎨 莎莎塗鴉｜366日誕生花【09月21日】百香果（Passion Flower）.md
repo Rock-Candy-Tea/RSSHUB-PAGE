@@ -1,0 +1,25 @@
+
+---
+title: '🎨 莎莎塗鴉｜366日誕生花【09月21日】百香果（Passion Flower）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/92fdeed8-3d2d-47cd-b918-1c1480017d53.jpeg'
+author: Matters
+comments: false
+date: Tue, 28 Sep 2021 04:30:01 GMT
+thumbnail: 'https://assets.matters.news/embed/92fdeed8-3d2d-47cd-b918-1c1480017d53.jpeg'
+---
+
+<div>   
+<h2>❀ 手繪插畫 ❀</h2><figure class="image"><img src="https://assets.matters.news/embed/92fdeed8-3d2d-47cd-b918-1c1480017d53.jpeg" data-asset-id="92fdeed8-3d2d-47cd-b918-1c1480017d53" referrerpolicy="no-referrer"><figcaption><span>https://matters.news/@sachanshih</span></figcaption></figure><h2><strong>Sep 21:</strong></h2><ul><li><strong>植物：百香果（Passion Flower）</strong></li><li><strong>花語：福音（The Gospels）</strong></li></ul><hr><h2>❀ 作畫過程 ❀</h2><p>廢話不多說，直接把照片轉成 GIF 動圖來看吧✦</p><figure class="image"><img src="https://assets.matters.news/embed/c3a54485-8b70-41b4-b9d3-0c9032bf3932.gif" data-asset-id="c3a54485-8b70-41b4-b9d3-0c9032bf3932" referrerpolicy="no-referrer"><figcaption><span>糟糕，背景比主體搶眼！</span></figcaption></figure><p>這天的誕生花是<strong>「</strong><a href="https://zh.wikipedia.org/wiki/%E7%99%BE%E9%A6%99%E6%9E%9C" target="_blank"><strong>百香果（Passion Flower）</strong></a><strong>」</strong>。<br class="smart">學名為<strong>「</strong><a href="https://en.wikipedia.org/wiki/Passiflora_edulis" target="_blank"><strong>Passiflora edulis</strong></a><strong>」</strong>，是<strong>「</strong><a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%95%AA%E8%93%AE%E5%B1%AC" target="_blank"><strong>西番蓮屬（Passiflora）</strong></a><strong>」</strong>下最著名的品種。<br class="smart">其中，西番蓮屬的英文俗名為：<strong><u>passion flowers</u></strong>, passion vines<br class="smart"></p><p>百香果又名：<strong>西番蓮</strong>、<strong>熱情果</strong>、<strong>雞蛋果</strong>、<strong>時計果</strong>。<br class="smart">其花又名<strong>「時計花」</strong>，與<strong>【</strong><a href="https://matters.news/@sachanshih/bafyreiexvmurwzcxfijl4v6mxfrlypknholtfeaztpgf6325mjc5c6wjxq" target="_blank"><strong>09月12日</strong></a><strong>】</strong>和<strong>【</strong><a href="https://matters.news/@sachanshih/bafyreihzimgc7zthnfhjxeo3grjj2j47663qfplcbae6htaz5fa6qk2d6y" target="_blank"><strong>09月14日</strong></a><strong>】</strong>的誕生花相同，因此不再贅述。</p><p>關於誕生花的傳說，是這麼描述的：</p><pre class="ql-syntax">它是選來獻給耶穌基督的十二位門徒之中，著有「馬太福音」一書的「聖馬太」。
+因此，它的花語就是「福音」，而所謂的福音就是討人歡心的意思。
+
+受到這種花祝福誕生的人，會給予別人喜樂慰藉。
+由於你溫暖的言語及親切的態度而得救的人應該很多。
+而且在不知不覺中，他們會將感恩的心，轉換為愛慕之情。
+你的終生伴侶往往就近在眼前，不必踏破鐵鞋到處尋找哦！
+</pre><p>大概就是這樣。<br class="smart">今次開畫之前，參考了昨晚大家投票的結果：</p><ul><li>花朵 4 票</li><li>果實 3 票</li><li>都要 2 票</li><li>都好 1 票<br class="smart"></li></ul><p>嗯，這樣的票數分布非常整齊！（重點誤）</p><p>於是，某莎就真的把花朵當主體來畫，果實就背景隨意塗抹了～<br class="smart">可沒想到，最後果實反而比較搶眼喵！(つд⊂)</p><p>明明身為背景的果實，只用了三個步驟啊～～～<br class="smart">潦草上色、水筆暈染、陰影細節，然後沒了！頂多最後加上一丁點亮光。<br class="smart"></p><p>看來，一切都是食物之力所引發的奇妙結果。🤣🤣🤣</p><p>最後順便預告一下～</p><h2>下一張圖有真菌界的菇菇亂入！而且是非常好吃的菇菇噢❤<br class="smart">大家想看長在草地上的菇菇，還是放在盤子裡的菇菇呢？😍</h2><p>以下留言區歡迎大家投票，一樣統計到今天晚上 23:59 (UTC+8) 為止噢✦🤭<br class="smart"></p><hr><h2>📡喵喵雷達廣播 (ฅ^>ω<^ฅ)</h2><blockquote><strong>請大家多多追蹤 </strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>某莎的圍爐</strong></a><strong> 哦！「追蹤」就好～🙏🙏🙏</strong><br class="smart">每天會在晚餐後約 19～21 點（UTC+8）通知一次當日更新的圖文～<br class="smart">同時會包含<strong>「當日爐友發布的作品清單」</strong>，最新消息不漏接噢❤</blockquote><hr><h2>❀ 臨摹圖源 ❀</h2><p>這個區塊的圖片，來自免版權圖庫 Pixabay 的「mayapujiati」之攝影作品：<a href="https://pixabay.com/sk/photos/616985/" target="_blank">https://pixabay.com/sk/photos/616985/</a><br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/c1e8c9c8-9a15-4d03-b2ca-710a821ef236.jpeg" data-asset-id="c1e8c9c8-9a15-4d03-b2ca-710a821ef236" referrerpolicy="no-referrer"><figcaption><span>Pixabay @ mayapujiati</span></figcaption></figure><hr><h2><strong>🎈 文末註明 </strong>(*´ω`)人(´ω`*)</h2><ul><li>本文首發於<strong>「</strong><a href="https://matters.news/@sachanshih" target="_blank"><strong>馬特市</strong></a><strong>」</strong>：<a href="https://matters.news/@sachanshih" target="_blank">https://matters.news/@sachanshih</a><br class="smart">另有備份在<strong>「</strong><a href="https://vocus.cc/user/@amanesalvia" target="_blank"><strong>方格子</strong></a><strong>」</strong>；若在其他網站見此篇圖文，皆為無斷轉載。</li><li>如果喜歡<strong>「</strong><a href="https://matters.news/tags/VGFnOjQ5NDEx" target="_blank"><strong>這系列</strong></a><strong>」</strong>的作品，歡迎<strong>「拍手留言」</strong>交流～<br class="smart">歡迎讚賞支持某莎：<a href="https://liker.land/sachanshih/civic" target="_blank">https://liker.land/sachanshih/civic</a><br class="smart">或是加入<strong>「</strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>圍爐</strong></a><strong>」</strong>吧！</li></ul><hr><h2>🍀 導覽精靈參上 ( つ•̀ω•́)つ</h2><figure class="embed-code"><div class="iframe-container"><iframe src="https://jsfiddle.net/rkgcqh1z/embedded/result" frameborder="0" allowfullscreen="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure>  
+</div>
+            

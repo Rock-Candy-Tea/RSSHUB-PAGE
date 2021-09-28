@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7045'
+headimg: 'https://picsum.photos/400/300?random=8808'
 author: 开源中国
 comments: false
 date: Tue, 28 Sep 2021 07:10:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7045'
+thumbnail: 'https://picsum.photos/400/300?random=8808'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache NetBeans 12.5 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fnetbeans.apache.org%2Fdownload%2Fnb125%2Findex.html" target="_blank">已正式发布</a>，属于季度性的功能更新版本（非 LTS），因此没有像 LTS 版本那样经过严格的测试。目前的 LTS 版本是 Apache NetBeans 12.0。</p> 
+                                                                    
+                                                        <p>Apache NetBeans 12.5 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fnetbeans.apache.org%2Fdownload%2Fnb125%2Findex.html" target="_blank">已正式发布</a>，属于季度性的功能更新版本（非 LTS），因此没有像 LTS 版本那样经过严格的测试。目前的 LTS 版本是 Apache NetBeans 12.0。</p> 
 <p>12.5 增强了对 Java、C/C++、PHP 和其他常用的工具的支持。</p> 
 <p>主要更新内容包括：</p> 
 <ul> 

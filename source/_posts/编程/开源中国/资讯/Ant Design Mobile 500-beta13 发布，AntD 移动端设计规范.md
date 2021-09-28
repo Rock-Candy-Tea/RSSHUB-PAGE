@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8661'
+headimg: 'https://picsum.photos/400/300?random=2359'
 author: 开源中国
 comments: false
 date: Tue, 28 Sep 2021 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8661'
+thumbnail: 'https://picsum.photos/400/300?random=2359'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Ant Design Mobile 5.0.0-beta.13 发布了。Ant Design Mobile 即 Ant Design 移动端设计规范，<code>antd-mobile</code> 是 Ant Design 的移动规范的 React 实现，服务于蚂蚁及口碑无线业务。</p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Ant Design Mobile 5.0.0-beta.13 发布了。Ant Design Mobile 即 Ant Design 移动端设计规范，<code>antd-mobile</code> 是 Ant Design 的移动规范的 React 实现，服务于蚂蚁及口碑无线业务。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>更新内容如下：</strong></p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>特性 
