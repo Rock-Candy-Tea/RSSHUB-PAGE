@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210928/1632779700_7919
 Steam平台开启了Microids发行商特卖活动，为庆祝活动开始，该平台现在正免费送出由Microids发行的经典冒险游戏《赛伯利亚之谜》以及《赛伯利亚之谜2》，时间有限先到先得！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210928/1632779700_791921.jpg" alt="Steam送福利：两款《赛伯利亚之谜》免费领取" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210928/1632779700_791921.jpg" alt="Steam送福利：两款《赛伯利亚之谜》免费领取" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 活动地址：<a href="https://store.steampowered.com/sale/2021MicroidsSale" target="_blank">点击进入</a> 

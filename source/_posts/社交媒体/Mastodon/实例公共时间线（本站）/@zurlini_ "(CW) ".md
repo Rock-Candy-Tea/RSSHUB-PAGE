@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/039/141/346/original/63868a20541929c0.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/039/142/731/original/eca6c598d7db3ccc.png'
 author: Mastodon
 comments: false
-date: Tue, 28 Sep 2021 00:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/039/141/346/original/63868a20541929c0.jpeg'
+date: Tue, 28 Sep 2021 01:45:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/142/731/original/eca6c598d7db3ccc.png'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】ベッドの上では無敗のキン肉星王妃 （キン肉マン）<br>投稿日：2016.11.5<br>最近某バラエティー番組で「キン肉マン芸人」なるテーマの番組📺がやっていて（バレバレ…💧）、見ていたら無性に描きたくなりました。<br><a href="https://pawoo.net/tags/FANART" class="mention hashtag" rel="tag">#FANART</a><br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%AD%E3%83%B3%E8%82%89%E3%83%9E%E3%83%B3" class="mention hashtag" rel="tag">#キン肉マン</a><br><a href="https://www.a-legend.net/wordpress/?p=5421" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=5421</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/141/346/original/63868a20541929c0.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【投稿記事を更新しました】<br>[漫画] 【R-18】母の哭く家（みやびつづる）<br>投稿日：2021.9.23<br>更新日：2021.9.27<br>作品名：母の哭く家<br>作家名：みやびつづる<br>発売日：2010/04/10<br>出版元：ワニマガジン社<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%81%BF%E3%82%84%E3%81%B3%E3%81%A4%E3%81%A5%E3%82%8B" class="mention hashtag" rel="tag">#みやびつづる</a><br><a href="https://www.a-legend.net/wordpress/?p=11901" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=11901</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/142/731/original/eca6c598d7db3ccc.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/039/142/732/original/7ac5e9ac2c7fdb51.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             

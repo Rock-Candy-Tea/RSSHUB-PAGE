@@ -1,0 +1,19 @@
+
+---
+title: '劢微机器人科技（深圳）有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632792784007041848.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 28 Sep 2021 01:29:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632792784007041848.png'
+---
+
+<div>   
+<p>       2021年9月28日-30日，由深圳市工信局、深圳市福田区人民政府指导，中国高科技行业门户OFweek维科网主办的“OFweek 2021中国智能制造<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>峰会”暨“维科杯·OFweek2021中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选颁奖典礼”在深圳福田会展中心成功举行。</p><p>       9月28日下午，“维科杯·OFweek 2021中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>与数字化行业年度评选”获奖名单正式出炉。“维科杯·OFweek 2021中国工业自动化与数字化行业年度评选”活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       其中，<strong>劢微<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>科技（深圳）有限公司凭借托盘式无人叉车MW-T10荣获“维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖”。</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632792784007041848.png" title="劢微机器人科技（深圳）有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" alt="劢微机器人科技（深圳）有限公司荣获维科杯·OFweek2021中国工业自动化及数字化行业年度优秀产品奖" width="250" height="294" referrerpolicy="no-referrer"></strong></p><p><strong>获奖产品介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632792764289050014.png" title="1632792764289050014.png" alt="image.png" referrerpolicy="no-referrer"></strong></p><p>       环境自适应</p><p>       激光导航定位，无需安装反光板、二维码等，无需改造客户现场</p><p>       运行高智能</p><p>       地图构建、路径规划、自动充电、自动作业等功能</p><p>       交通管制、协调对接、协调联动、集群调度等复杂调度功能</p><p>       ERP/MES系统无缝对接</p><p>       高精度，高效率</p><p>       一次定位精度±5mm，二次定位精度±2mm</p><p>       最高运行速度1.5 m/s，最大载重1500kg</p><p>       7x24小时全天候不间断运行，与友商在多家客户现场进行对比测试，效率比友商高20%-30%</p><p>       智能安全，操作简便</p><p>       完善的故障自检功能</p><p>       360°安全避障防护和声光警示</p><p>       持续迭代、远程升级，友好的人机界面</p><p>       提供业界领先的高效率、高柔性、高扩展性的完整智能解决方案，助力企业实现工厂仓库物流智能化，大幅度减少企业管理成本</p><p><strong>获奖理由：</strong></p><p>       托盘式无人叉车MW-T10，通过激光导航定位，无需安装反光板、二维码等，可以与ERP/MES系统无缝对接，其一次定位精度±5mm，二次定位精度±2mm，最高运行速度1.5 m/s，最大载重可达1500kg，7x24小时全天候不间断运行，通过对比测试，效率比友商高20%-30%。</p><p><strong>企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-09/28/tianyun/1632792747742047388.png" title="1632792747742047388.png" alt="image.png" referrerpolicy="no-referrer"></strong></p><p>       劢微机器人（Multiway Robotics）是一家领先的场内智能物流解决方案提供商。总部位于中国深圳，在华中、华东、西南、东北等地均设有办事处，并且成立了海外运营中心，业务销售、运营和服务覆盖国内外各地区。</p><p>       劢微机器人以无人叉车/AMR为硬件载体，通过<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310020-jiqishijue.html" target="_blank" title="机器视觉">机器视觉</a></span>及完整上层系统赋能，为客户提供完整的智能制造及智慧仓储解决方案。硬件产品包括：各类无人叉车及AMR；软件系统包括：WMS、WCS，现场管理系统，及多种视觉解决方案。已在工厂、仓储、物流等行业实施了众多标杆项目，成为众多行业领先客户信赖的合作伙伴。</p><p><strong>更多资讯及回看请参阅大会专题：</strong><a href="https://mp.ofweek.com/m034542010905">https://mp.ofweek.com/m034542010905</a></p> 
+  
+</div>
+            
