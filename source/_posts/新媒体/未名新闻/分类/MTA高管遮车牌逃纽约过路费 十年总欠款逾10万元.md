@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.mitbbs.com/uploadIMG/news5/2021-09-28/pic61526835d4375.jpg'
 author: 未名新闻
 comments: false
-date: Mon, 27 Sep 2021 20:57:00 GMT
+date: Invalid Date
 thumbnail: 'https://www.mitbbs.com/uploadIMG/news5/2021-09-28/pic61526835d4375.jpg'
 ---
 
