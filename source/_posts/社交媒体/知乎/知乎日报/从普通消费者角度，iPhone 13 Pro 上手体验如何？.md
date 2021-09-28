@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-09-28 01:52:47
-thumbnail: 'https://pic3.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162'
+date: 2021-09-28 02:21:54
+thumbnail: 'https://pic2.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ iPhone 13 Pro/13 Pro Max 的实际体验如何？
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-107db796be4a46c508cbe3a645377529_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">LycheeLi荔枝荔，</span><span class="bio">新加坡国立大学 商学院 在读</span>
 <a href="https://www.zhihu.com/question/488101053/answer/2137908768" class="originUrl" hidden>查看知乎原文</a>
 </strong>
