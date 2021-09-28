@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=358'
+headimg: 'https://picsum.photos/400/300?random=991'
 author: 金色财经
 comments: false
-date: Tue, 28 Sep 2021 02:57:06 GMT
-thumbnail: 'https://picsum.photos/400/300?random=358'
+date: Tue, 28 Sep 2021 10:06:16 GMT
+thumbnail: 'https://picsum.photos/400/300?random=991'
 ---
 
 <div>   
-该基金的官方名称是 XR 项目和研究基金，该公司表示将在两年内投资于“项目和外部研究”。  
+9月27日消息，互联网巨头Facebook官方宣布了一项 5000 万美元的基金，将帮助该公司更负责任地开发元宇宙（Metaverse）。  
 </div>
             
