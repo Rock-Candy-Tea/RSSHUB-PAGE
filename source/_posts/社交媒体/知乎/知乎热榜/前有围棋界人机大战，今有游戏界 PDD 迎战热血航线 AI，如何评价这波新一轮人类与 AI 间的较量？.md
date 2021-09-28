@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9033'
+headimg: 'https://picsum.photos/400/300?random=8434'
 author: 知乎
 comments: false
-date: Tue, 28 Sep 2021 05:37:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9033'
+date: Tue, 28 Sep 2021 06:57:32 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8434'
 ---
 
 <div>   
-匿名用户的回答<br><br><p>什么幼儿园营销，看了真尬</p>  
+阿莫的回答<br><br><p>这软广热搜买的，策划回家养猪吧。</p>  
 </div>
             
