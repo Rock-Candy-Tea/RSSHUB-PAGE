@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-9d5ac62a1bc09d310d6d30037b0eb7f6_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=4991'
 author: 知乎
 comments: false
-date: Wed, 29 Sep 2021 10:52:58 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-9d5ac62a1bc09d310d6d30037b0eb7f6_1440w.jpg'
+date: Wed, 29 Sep 2021 11:19:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4991'
 ---
 
 <div>   
-寒鲸鱼的回答<br><br><p>这茶队，真的命运多舛。</p><p>不喜欢茶队打法，更不喜欢徐志雷，但是希望队员没事。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9d5ac62a1bc09d310d6d30037b0eb7f6_1440w.jpg" data-rawwidth="968" data-rawheight="302" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-c1cf03497ff1a1bb0b640893110ee226_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9d5ac62a1bc09d310d6d30037b0eb7f6_r.jpg" referrerpolicy="no-referrer"></figure><p>考虑到这事后面可能发生的连锁反应，</p><p>传染其他队员---导致夺冠热门ti失利---ti取消---所有选手被关在国外---西恩dota配合未成年人禁游直接凉了。</p><p>他们能有勇气第一时间如实汇报，接锅。</p><p>到时候后面的事真的不幸发生了，</p><p>我冲他们的时候，至少少说3句脏话。</p><p><br></p><p><br></p><p>你可以说他们也不想的，</p><p>但是看看Lgd出去一个多月了，为什么没事呢？</p><p>你怎么就得拍vlog呢。</p><p><br></p><p>另外就是盯住yang，他很关键</p>  
+安离灯火的回答<br><br><p>有如下可能</p><p>1.鉴于西方普遍觉得just flu以及V社向来粗放作风，可能表示只要茶队敢带病，我们就让他继续打。而且茶队1号位Monet有丰富的发烧打Ti经验，小场面，不要慌。</p><p>2.V社认可茶队遭遇不可抗力情况，134无法参赛，但是承认队伍资格。那么茶队需要尽快寻找没有Ti资格的选手进位替补。可以邀请欧洲战队，比如Nigma的队员，也可以从国内战队租借选手参赛。但是队伍磨合会是个大问题。</p><p>3.鉴于茶队是DPC积分前12直邀队伍，且顺位DPC第13名Nigma战队没有获得Ti参赛资格，可能茶队退赛由Nigma顺承资格参赛</p><p>4.在之前的Major中也有过队伍无法参赛，V社采用的是优先保证参赛队伍完整原则，破格邀请可以迅速到位的队伍替补。目前看来，方便就近替补的也是Nigma</p><p>5.本赛季第一个Major也因为疫情导致数只战队缺席，V社并未发放替补资格。同样的，茶队无法出战，本次Ti将只有17支战队出战。</p><hr><p>后续的影响，按目前我国的出入境条例，只要茶队队员不是假阳性。那么即使他们下周病愈，也要保持双阴性半年才能入境。那个时候下个赛季DPC已经开始了。茶队只有25号位能回国。可能要就地转入欧洲赛区才行了</p><hr><p>下面是冷嘲热讽环节</p><p>某B神曾今说过：有本事你让V社把我们ban了呀</p><p>你选的嘛，偶像</p>  
 </div>
             
