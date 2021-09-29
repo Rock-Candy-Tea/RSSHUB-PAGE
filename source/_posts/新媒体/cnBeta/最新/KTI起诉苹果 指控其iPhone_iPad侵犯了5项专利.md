@@ -1,0 +1,19 @@
+
+---
+title: 'KTI起诉苹果 指控其iPhone_iPad侵犯了5项专利'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0929/2d711dc9b38a727.jpg'
+author: cnBeta
+comments: false
+date: Wed, 29 Sep 2021 03:46:31 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0929/2d711dc9b38a727.jpg'
+---
+
+<div>   
+专利持有公司 KT Imaging 正在起诉苹果公司，指控其侵犯了涉及图像传感器封装和设计的知识产权。本周二，KTI 向美国德克萨斯州西区地方法院提起诉讼，<strong>指控苹果侵犯了 Kingpak Technology 开发的 5 项专利侵权。Kingpak Technology 是一家专门从事 CMOS 图像传感器的 IC 封装供应商。</strong><br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/0929/2d711dc9b38a727.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0929/2d711dc9b38a727.jpg" alt="cjaih4pr.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">有争议的是美国专利号 <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7,196,322.PN.&OS=PN/7,196,322&RS=PN/7,196,322">7196,322</a>, <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7,511,261.PN.&OS=PN/7,511,261&RS=PN/7,511,261">7511261</a>, <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7,598,580.PN.&OS=PN/7,598,580&RS=PN/7,598,580">7598580</a>, <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,004,602.PN.&OS=PN/8,004,602&RS=PN/8,004,602">8004602</a> 和 <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,314,481.PN.&OS=PN/8,314,481&RS=PN/8,314,481">8314481</a>，每项专利都是在 2004 至 2008 年间申请的，详细说明了图像传感器结构和制造上述部件的方法。其中 322号、261 号和 602 号专利于 2018 年转让给 KT Imaging，并于 2019 年备案，而 481 号专利于 2019 年易手。580 号专利在2021年被重新转让。</p><p style="text-align: left;">原告声称侵犯了图像传感器的封装技术，这种技术目前在集成了数码相机的现代电子设备中很常见。具体来说，权利要求书详细说明了“具有上表面和下表面的基板，在该基板上形成第二电极”，图像传感器安装在上表面并与电极连接。所描述的图像传感器模块还包括一个镜筒，该镜筒具有与系统的感光芯片相一致的定位镜头元件的功能。</p><p style="text-align: left;">322 号、261 号和 481 号专利详细介绍了该设计的变化，这些专利分别针对第 4 代<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a>、<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 6s 和 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F" target="_blank">MacBook</a> Air。580 号和 602 号专利分别针对第 4 代 iPad mini 和 iPhone 8 Plus，涵盖了类似的主题，但直接提到了“多个排列在感光区周围并与感光元件电连接的第一导电垫”。还描述了镜头保持系统的变体。</p><p style="text-align: left;">KTI 在 2019 年首次对京瓷、光通科技和松下提起诉讼，使用的是类似于 Kingpak 知识产权，后来在 2020年对<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://acer-pc.jd.com/" target="_blank">宏碁</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">华硕</a>、富士康的 Dynabook、LG 和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>发起诉讼。今天，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>、<a data-link="1" href="http://www.anrdoezrs.net/links/9019719/type/dlg/sid//https://www.dell.com/zh-cn/shop/deals" target="_blank">戴尔</a>、Google和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>被加入了这家专利持有公司的法律诉讼范围。</p>   
+</div>
+            

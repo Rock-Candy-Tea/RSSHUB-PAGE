@@ -1,0 +1,19 @@
+
+---
+title: '简洁清新的家族式内饰风格，吉利帝豪L内饰官图曝光'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1/202109/29102622566077.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 29 Sep 2021 03:44:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1/202109/29102622566077.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">吉利帝豪是国内轿车市场为数不多能够上榜每月轿车<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>榜单的自主轿车车型之一，其皮实耐用特点带来良好的口碑基础，可以说帝豪是吉利高速发展中意义非常重要的一款车型。此前第四代帝豪已经到来，如今帝豪L的内饰也终于迎来曝光。</p><p style="text-indent: 2em; text-align: left;"><strong>内饰设计延续家族式风格 </strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102622566077.jpg" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此前小编提起吉利汽车目前的内饰设计就说过，从视觉上就能够给到人一种质感和高级感都不错的感受，或许最主要的原因就是没有太多花里胡哨的设计，一切从简并且在配色上运用了许多低饱和度的清新色系。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102632894872.jpg" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">从帝豪L的内饰官方上来看，同样是延续了这样的设计风格，与第四代帝豪车型的整体布局相似。首先映入眼帘的就是中控上悬浮式大屏以及液晶仪表，UI设计风格同样显得十分小清新，简单易读美观，并且该中控大屏的黑边控制比较不错，不仅尺寸较大，超窄边框设计也有着不错的科技感。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102643786034.jpg" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">悬浮屏下方则是贯穿式空调出风口以及一排操作十分便利的空调控制按键，其余并没有过多的花里胡哨设计，让内饰的布局显的简约。内饰配色上新车采用了丹青蓝撞色设计，不仅如此中控装饰板、车门板以及换挡面板都采用了特殊工艺处理。从上往下来看，大致依然可以归纳为黑、白、青三种配色，让车厢显得淡雅清新。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102654517426.jpg" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>外观回顾 “能量风暴”设计</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102706812832.png" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102716441267.png" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">帝豪L的外观采用了吉利家族全新的“能量风暴”设计理念，前脸采用了大尺寸熏黑中网，两侧大灯组造型也更加扁平细长，整体呈现出一幅动感的视觉效果。车尾部分，帝豪L同样是采用了时下流行的贯穿式尾灯，不过内部的光源造型有所改变。下方保险杠部分依旧是隐藏式排气布局，相对于前脸造型这么运动的氛围，要是能够安排上真的外露排气布局，可能会更加运动气质更佳。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102732477440.png" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">新车长宽高为：4735／1815／1478毫米，轴距为：2700毫米，基于BMA平台打造，可以看做换代吉利帝豪GL。动力方面帝豪L将搭载：1．4T发动机，最大功率：141PS，传动系统大概率依旧是CVT变速箱。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202109/29102745198519.png" title="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" alt="搭载悬浮式中控大屏，依旧走简约清新风，吉利帝豪L内饰曝光" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>写在最后</strong></p><p style="text-indent: 2em; text-align: left;">未来帝豪L的定位将高于第四代帝豪，或将填补8－10万元的价格区间。外观的设计十分动感，帝豪主打居家，那么帝豪L就更加吸引年轻消费者的目光。不过，由于市场不认可三缸发动机，不知道未来是否还会推出1．5T三缸发动机版本。帝豪L目前还是用这套非常熟悉的动力总成，相比同级主打运动的自主轿车，参数数据上没有优势，不过好在其皮实耐用。</p> 
+  
+</div>
+            
