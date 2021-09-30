@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/9d4746094535d8ac85a8f394d4a0c645.png'
         <strong>迈铸半导体</strong><br>
         初创型半导体设备研发商<br>
         Pre-A轮 / 千万级人民币 / 1632970466<br>
-        投资方: 绿河投资、武汉至华投资有限公司、广州润明策投资发展合伙企业
+        投资方: 绿河投资、中杰投资、润策投资
         
 </div>
             
