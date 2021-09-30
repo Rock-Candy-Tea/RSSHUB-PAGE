@@ -1,0 +1,18 @@
+
+---
+title: '航向偉大的航道？我想變成哥爾．D．羅傑的一天'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/7551d9e5-e777-47da-9d7f-9b19ce25ad7b.jpeg'
+author: Matters
+comments: false
+date: Thu, 30 Sep 2021 03:39:52 GMT
+thumbnail: 'https://assets.matters.news/embed/7551d9e5-e777-47da-9d7f-9b19ce25ad7b.jpeg'
+---
+
+<div>   
+<p>這個題目我想了很久，我其實沒有特別想變成誰，不過最近剛好在追航海王〔海賊王〕，好多年前看到了 700 集左右就停下來，沒辦法，進度太慢，累積多一點一次看比較過癮，然後最近剛好看到和之國篇，回憶起光月御田與哥爾．D．羅傑，那一段最後的航行，看著看著就覺得，羅傑的人生可以算是很圓滿的，他是第一個實現了航行世界一週〔故事中〕的人，雖然最後只剩下一年的生命，也盡力的實現夢想，然後也真的實現了〔我也好想環遊世界呀！〕，於是最後的日子沒有遺憾，還在結束人生的同時開啟了大航海時代，他死前的最後一句話貫穿全劇：</p><blockquote>要我的寶藏嗎？想要的話可以全部給你，<br class="smart">去找吧！我把所有財寶都放在那裡。<br class="smart">出自：航海王 哥爾．D．羅傑</blockquote><p>真的是自帶 buff ，雖然一開局就掛了！呃！？</p><p>不過最強這回事，通常就是給人追憶呀！活著的就是不停的超越別人或等著被超越，傳說就是不存在了的才能叫傳說哇！！！哭．．．</p><p>〔唯一比較有意見的就是留下我家艾斯一個人是怎樣！？哼！．．．欸！？而且都要知道要掛了還跑去生出一個小孩！？？到底．．．〕</p><figure class="image"><img src="https://assets.matters.news/embed/7551d9e5-e777-47da-9d7f-9b19ce25ad7b.jpeg" data-asset-id="7551d9e5-e777-47da-9d7f-9b19ce25ad7b" referrerpolicy="no-referrer"><figcaption><span>哥爾．D．羅傑 的帽子 〔Erica 繪製〕</span></figcaption></figure><hr><p>蛤！？你說變成羅傑之後要做什麼？呃．．．這個嘛，太難選了，想看一下世界盡頭到底長什麼樣子？算了吧！我等動畫完結篇應該能看到！左思右想，決定要用這一天拐一個夥伴過來，這隻也跟羅傑航海過一段時間，我覺得很合貓貓的心意，如果我是船長要出海，這隻一定要拐來，那就是，噹噹噹．．．華麗出場，可愛的<strong>貓腹蛇老闆</strong>，這隻是光月御田的家臣之一，戰力夠強，但又<a href="https://www.youtube.com/watch?v=yBJUYPcr9kM" target="_blank">可愛度爆表〔youtube 影片連結〕</a>，布魯克還作了一首<a href="https://www.youtube.com/watch?v=eSVMnQkk_b0" target="_blank">貓腹蛇老闆之歌〔youtube連結〕</a>，有夠可愛，只要可以拐到貓腹蛇老闆，然後拿逗貓棒逗他，看這個反差萌的樣子，我就滿足了！欸？說好的環遊世界呢？喔對了，貓腹蛇小時候超可愛的〔<a href="https://i2.kknews.cc/SIG=muvmh6/ctp-vzntr/2s2o924294544o4397r2r9q9n2sqoq13.jpg" target="_blank">可愛圖 1</a> 、<a href="https://i1.kknews.cc/SIG=2234c26/ctp-vzntr/767o986757pr40onosr42qnnp626n392.jpg" target="_blank">可愛圖 2</a>、<a href="https://i1.kknews.cc/SIG=1i27g1v/ctp-vzntr/31s2nq566p5p45168271p8o7p190qo80.jpg" target="_blank">可愛圖 3</a>←這三個圖為網路連結圖〕！什麼？？那幹嘛不直接變成光月御田？不不，這家伙不夠帥，我指個性！那為什麼不變成貓腹蛇？啊．．．我是要怎麼擼自己！？</p><p>呃！結果不管變成什麼人，還是想拐貓咪！窩滴天吶！</p><hr><p>好吧，其實航海王裡所有的人物我最愛的是火拳艾斯！嗚嗚！他領便當的時候哭的我．．．把我的眼淚還來呀！但他的人生太短了，像是只綻放過一次的煙火，欸！還我的艾斯呀嗚嗚〔入戲太深！〕，還是當他老爸可以擼貓腹蛇，比較幸福呀！</p><hr><p>成為我的讚賞公民，可以受邀進我的圍爐，每期封面貓咪的分解畫法都放在爐裡面了！</p><p>訂閱連結：<a href="https://liker.land/ericaliu/civic" target="_blank"><strong>https://liker.land/ericaliu/civic</strong></a></p><p>也可以追蹤<a href="https://matters.news/~travelcat" target="_blank"><strong>【貓咪國度】</strong></a>，追蹤即可收到廣播訊息唷！！會不定期舉辦小活動唷，如果想訂閱，我也不反對！〔〔欸！？</p><hr><p>我的兩本旅行電子書：<a href="https://travostyle.com/book/view/231" target="_blank"><strong>克羅埃西亞巴士旅行日記</strong></a>、<a href="https://travostyle.com/book/view/361" target="_blank"><strong>走跳沖繩．景點交通全攻略</strong></a><br class="smart">我的個人布落格：<a href="http://www.ericaworld.tw/" target="_blank"><strong>．說走就走．<em>Erica的．旅行．體驗．活在當下</em></strong></a><br class="smart">粉絲專頁：<a href="https://www.facebook.com/www.ericaworld.tw" target="_blank"><strong>說走就就x貓咪旅行中</strong></a><br class="smart">在其他平臺也能找到我：<a href="https://ericaworld.timelog.to/" target="_blank"><strong>探路客</strong></a> | <a href="https://vocus.cc/user/@ericaworld" target="_blank"><strong>方格子</strong></a><strong> </strong>| <a href="https://matters.news/@erica072" target="_blank"><strong>我還有另一個Matters</strong></a> | <a href="https://www.potatomedia.co/profile/12939b9d-b6ad-4296-ad6c-6285cd07b11e" target="_blank"><strong>Potato Media</strong></a><br class="smart"></p>  
+</div>
+            
