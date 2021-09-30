@@ -1,0 +1,22 @@
+
+---
+title: '@kokoromiya0w0_ "
+地獄だった、ゴッホちゃんは癒し…… 
+https___pawoo.net_media_Ppcu1GcOO0s-iDSpN6A
+
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/039/185/392/original/972bcc7f703557d7.jpeg'
+author: Mastodon
+comments: false
+date: Thu, 30 Sep 2021 00:08:34 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/185/392/original/972bcc7f703557d7.jpeg'
+---
+
+<div>   
+<hr><p>地獄だった、ゴッホちゃんは癒し…… <a href="https://pawoo.net/media/Ppcu1GcOO0s-iDSpN6A" rel="nofollow noopener" target="_blank">https://pawoo.net/media/Ppcu1GcOO0s-iDSpN6A</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/185/392/original/972bcc7f703557d7.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            

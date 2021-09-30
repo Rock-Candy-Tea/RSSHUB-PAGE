@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20210929/1632923343_2998
 《<a target="_blank" href="https://www.3dmgame.com/games/battlefield2042/">战地2042</a>》BETA公测即将于下周开始，但看起来这个免费的BETA测试对某些玩家来说并不是免费，至少Xbox玩家是这样。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923343_299827.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923343_299827.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《战地2042》BETA公测官方FAQ确认，在Xbox平台进行BETA测试的玩家将需要Xbox 
@@ -37,46 +37,49 @@ Live金会员，因此玩家可以免费游玩《使命召唤：战区》《Apex
 《战地2042》游戏中的皮肤：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923333_960270.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923333_960270.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923333_675233.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923333_675233.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923334_526924.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923334_526924.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923334_433212.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923334_433212.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20210930/1632959996_805518.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《战地2042》B测宣传片4K截图：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_724212.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_724212.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_385675.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_385675.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_267335.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_267335.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_786718.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923318_786718.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_952259.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_952259.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_495250.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_495250.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_355388.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_355388.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_169126.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_169126.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_207641.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210929/1632923319_207641.jpg" alt="《战地2042》公测需要Xbox Live金会员 但不需要PS+" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
