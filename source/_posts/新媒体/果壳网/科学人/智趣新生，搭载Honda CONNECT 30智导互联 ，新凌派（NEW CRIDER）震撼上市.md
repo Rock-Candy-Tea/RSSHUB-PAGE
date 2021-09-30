@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 果壳网
  - 科学人
-headimg: 'https://picsum.photos/400/300?random=6580'
+headimg: 'https://picsum.photos/400/300?random=8239'
 author: 果壳网
 comments: false
 date: Tue, 28 Sep 2021 13:14:56 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6580'
+thumbnail: 'https://picsum.photos/400/300?random=8239'
 ---
 
 <div>   
