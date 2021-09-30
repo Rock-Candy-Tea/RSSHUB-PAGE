@@ -5,22 +5,22 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png'
+headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/DE6kvHSCcbhpekXeNmHP.jpg'
 author: 人人都是产品经理
 comments: false
 date: Thu, 30 Sep 2021 00:00:00 GMT
-thumbnail: 'https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png'
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/DE6kvHSCcbhpekXeNmHP.jpg'
 ---
 
 <div>   
 <blockquote><p>编辑导语：中国移动社交的用户规模庞大且逐年增加，越来越多的年轻人渴望找到一个可以集匿名倾诉、交友、娱乐为一体的数据平台，脱离现实世界生活、学习、工作的社交压力和束缚。为此作者撰写了一个陌生泛娱乐社交元宇宙产品需求文档和商业计划书，一起来阅读一下吧！</p></blockquote>
-<p><img data-action="zoom" class="size-full wp-image-700998 aligncenter" src="https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="size-full wp-image-5162260 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/DE6kvHSCcbhpekXeNmHP.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p><strong>附-产品概述：</strong></p>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/OfHbBBr5nUeblJ0074d4.png" alt width="732" height="398" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/OfHbBBr5nUeblJ0074d4.png" alt width="732" height="398" referrerpolicy="no-referrer"></p>
 <h2 id="toc-1">一、修订记录</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/7tL4x2HSdbYjOXYHjNk7.png" alt width="729" height="107" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/7tL4x2HSdbYjOXYHjNk7.png" alt width="729" height="107" referrerpolicy="no-referrer"></p>
 <h2 id="toc-2">二、PRD环境</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/Eg5rKTbgfpHjL9x37c4G.png" alt width="664" height="148" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/Eg5rKTbgfpHjL9x37c4G.png" alt width="664" height="148" referrerpolicy="no-referrer"></p>
 <h2 id="toc-3">三、项目背景</h2>
 <h3>3.1 社会背景</h3>
 <p>中国移动社交的用户规模庞大且逐年增加，2020年中国移动社交用户规模已达到9.24亿人，预计2022年中国移动社交用户整体突破10亿人[艾媒咨询]。其中，网生代（90）移动社交用户规模超2.7亿，占全部用户近3成，并且有逐年增长趋势[Mob研究院]。</p>
@@ -163,7 +163,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png'
 <p>在用户和企业进行互动的过程中，企业可以12小时内免费回复，一旦超过12小时，商业版See Sea 就会收费。另外，在于提供内容和服务的过程中，用户一旦产生投诉、差评等行为，企业也将会触发罚款模式，这跟电商平台上的客服相似，企业在See Sea 上就是充当客服人员。</p>
 <p>See Sea 为企业提供免费的流量池，企业为See Sea 提供优质的内容输出，为用户提供贴心的咨询和售后服务。</p>
 <h2 id="toc-6">六、竞品分析</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/MQTsHWkAW9Pni9emBNIN.png" alt width="868" height="751" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/MQTsHWkAW9Pni9emBNIN.png" alt width="868" height="751" referrerpolicy="no-referrer"></p>
 <h2 id="toc-7">七、营销计划</h2>
 <p>陌生人社交赛道竞争激烈，已经进入白热化的肉搏阶段。See Sea 作为一个新入场的后来者，如何用最小的成本吸引到市场的关注是See Sea在冷启动阶段需要解决的第一个问题。See Sea 需要在烧钱砸营销的方法外，找到一种低成本，又能引起用户好奇心的营销模式，较为稳妥地渡过产品初期阶段。以下，是我提供的部分具体营销方案思路：</p>
 <h3>1. 邀请码自动进入鱼塘</h3>
@@ -200,19 +200,19 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png'
 <p>此外，该阶段的3D虚拟形象形象也进入成熟阶段，其使用场景和用户接受度都会大大提升。</p>
 <p>See Sea 必须主动出击，不仅仅要在See Sea 内部实现3D虚拟形象的去链路打通，还可以与第三方服务平台合作，拓展3D虚拟形象的使用场景，从而实现商业价值的增值，刺激用户消费。</p>
 <h2 id="toc-9">九、用户分析</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/oi7UDWnCZlNSzDeOJxQo.png" alt width="600" height="1036" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/oi7UDWnCZlNSzDeOJxQo.png" alt width="600" height="1036" referrerpolicy="no-referrer"></p>
 <h2 id="toc-10">十、信息结构图</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/1E4QBsgzbEhtop2iTZ0z.png" alt width="600" height="666" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/1E4QBsgzbEhtop2iTZ0z.png" alt width="600" height="666" referrerpolicy="no-referrer"></p>
 <h2 id="toc-11">十一、功能结构图</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/6bssy11ijEtTU3Z4OpJP.png" alt width="600" height="2787" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/6bssy11ijEtTU3Z4OpJP.png" alt width="600" height="2787" referrerpolicy="no-referrer"></p>
 <h2 id="toc-12">十二、业务流程图</h2>
 <h3>12.1 登陆注册</h3>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/IAD1MpvFaW67wdxrZkjS.png" alt width="600" height="1000" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/IAD1MpvFaW67wdxrZkjS.png" alt width="600" height="1000" referrerpolicy="no-referrer"></p>
 <p><strong>12.2 核心流程图</strong></p>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/kkdAgX0JZQMzxUgPnpPh.png" alt width="676" height="1749" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/kkdAgX0JZQMzxUgPnpPh.png" alt width="676" height="1749" referrerpolicy="no-referrer"></p>
 <h2 id="toc-13">十三、全局说明</h2>
 <h3>13.1 功能权限</h3>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/pDAQKnwQVPz5DbCvNKXp.png" alt width="600" height="237" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/pDAQKnwQVPz5DbCvNKXp.png" alt width="600" height="237" referrerpolicy="no-referrer"></p>
 <h3>13.2 常用操作</h3>
 <ol>
 <li>下拉刷新</li>
@@ -222,14 +222,14 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/09/WQvLPaFrd3ltZMYdQ4rp.png'
 <li>页面异常关闭、崩溃、闪退：再次打开时，进入人海页</li>
 </ol>
 <h3>13.3 交互说明</h3>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/Ca8gFEiyULYmTS6fKVxL.png" alt width="600" height="525" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/Ca8gFEiyULYmTS6fKVxL.png" alt width="600" height="525" referrerpolicy="no-referrer"></p>
 <h2 id="toc-14">十四、交互原型</h2>
 <p>原型链接：</p>
 <p><a href="https://app.mockplus.cn/run/prototype/FjsO8302Mvu7u/wa9fGEo_Ezws/6KFQRCdC1wDFvL?ha=1&ps=1">https://app.mockplus.cn/run/prototype/FjsO8302Mvu7u/wa9fGEo_Ezws/6KFQRCdC1wDFvL?ha=1&ps=1</a></p>
 <h2 id="toc-15">十五、功能列表</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/XzfBHz4BM9fF0eNDYlJm.png" alt width="600" height="273" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/XzfBHz4BM9fF0eNDYlJm.png" alt width="600" height="273" referrerpolicy="no-referrer"></p>
 <h2 id="toc-16">十六、功能需求详情</h2>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/mssKBLRAfXhzT0NYgy4N.png" alt width="600" height="4205" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/mssKBLRAfXhzT0NYgy4N.png" alt width="600" height="4205" referrerpolicy="no-referrer"></p>
 <p> </p>
 <p>本文由 @人海去音潮 原创发布于人人都是产品经理，未经作者许可，禁止转载。</p>
 <p>题图来自Unsplash，基于CC0协议。</p>
