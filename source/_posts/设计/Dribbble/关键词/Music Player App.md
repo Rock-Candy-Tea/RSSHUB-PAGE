@@ -5,16 +5,16 @@ categories:
  - 设计
  - Dribbble
  - 关键词
-headimg: 'https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=400x300'
+headimg: 'https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=400x300'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=400x300'
+thumbnail: 'https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=400x300'
 ---
 
 <div>   
 <div class="media-content">
-      <img class="lrg-16x12" alt="Music Player App uidesign xd productdesign appdesign uiux ui" width="768" height="579" data-id="11552235" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/2003183/screenshots/16532812/media/6f6e1f38dca5982691c27ff39717a947.jpg?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
+      <img class="lrg-16x12" alt="Music Player App uidesign uiux productdesign musicapp music app appdesign ui" width="768" height="579" data-id="11552246" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/2003183/screenshots/16532822/media/6dd3c9d6d794ec074ceed68fa768687b.jpg?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>
