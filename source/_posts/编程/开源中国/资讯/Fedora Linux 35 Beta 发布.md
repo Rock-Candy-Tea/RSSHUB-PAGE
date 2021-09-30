@@ -5,18 +5,18 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6348'
+headimg: 'https://picsum.photos/400/300?random=1456'
 author: 开源中国
 comments: false
 date: Thu, 30 Sep 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6348'
+thumbnail: 'https://picsum.photos/400/300?random=1456'
 ---
 
 <div>   
 <div class="content">
                                                                     
                                                         <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Fedora 日前推出了 Fedora Linux 35 Beta，而正式版本的发布日期将在十月底。</p> 
-<h3 style="color:#000000; margin-left:0px; margin-right:0px; text-align:start">测试版本的重点更新内容：</h3> 
+<h3 style="margin-left:0px; margin-right:0px; text-align:start">测试版本的重点更新内容：</h3> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>Fedora Workstation</strong></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Fedora 35 Workstation 测试版包括 GNOME 41，是 GNOME 桌面环境的最新版本。GNOME 41 包括一个重新设计的软件应用程序，使其更容易找到和安装用户所需要的工具。现在，当你在安装过程中启用第三方软件库时，你就可以从 Flathub 获得 flatpaks 以补充 Fedora 软件库。Fedora 35 Workstation 还包括 power-profiles-daemon，它允许用户在系统性能或电池寿命之间进行选择。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>其他更新</strong></p> 
