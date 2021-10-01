@@ -34,7 +34,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/202
 <p>According to Counterpoint Research’s latest Global Smartphone Quarterly Shipment Forecasts, total units shipped for 2021 are expected to grow by only 6% annually to 1.41bn units; Counterpoint had previously called for 9% annual growth to 1.45bn units.</p>
 </blockquote>
 <p>The hit to Apple is likely to be less severe than most of its competitors, however.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3ocpBbM"><img class="aligncenter wp-image-756825" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Duo-MagSafe-BannerAd.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://vz.to/3man531"><img class="aligncenter size-full wp-image-757982" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Duo-MagSafe-BannerAd-2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

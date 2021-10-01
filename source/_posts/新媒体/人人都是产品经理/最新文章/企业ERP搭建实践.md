@@ -5,16 +5,16 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://image.yunyingpai.com/wp/2021/09/USYpuUSMOv5EH1igDuuH.png'
+headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/hJtigH5zIY4jsGpJSj9m.jpg'
 author: 人人都是产品经理
 comments: false
 date: Thu, 30 Sep 2021 00:00:00 GMT
-thumbnail: 'https://image.yunyingpai.com/wp/2021/09/USYpuUSMOv5EH1igDuuH.png'
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/hJtigH5zIY4jsGpJSj9m.jpg'
 ---
 
 <div>   
 <blockquote><p>编辑导语：ERP是一种可以提供跨地区、跨部门甚至跨公司整合实时信息的企业管理信息系统。系统能够把企业内部和企业外相关资源进行整合，实现资源优化和共享。本篇文章作者将分享企业ERP搭建，快来阅读吧！</p></blockquote>
-<p><img data-action="zoom" class="size-full wp-image-701029 aligncenter" src="https://image.yunyingpai.com/wp/2021/09/USYpuUSMOv5EH1igDuuH.png" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="size-full wp-image-5162262 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/hJtigH5zIY4jsGpJSj9m.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <h2 id="toc-1">一、了解ERP</h2>
 <p>ERP是一种可以提供跨地区、跨部门甚至跨公司整合实时信息的企业管理信息系统。通过系统把企业内部资源和企业相关外部资源进行整合，将企业的人、财、物、产、供销及相应物流、信息流、资金流、管理流等紧密集成起来实现资源优化和共享。</p>
 <p>每个企业资源管理重点不同，有些侧重于电商管理，有些侧重于企业内部管理， 有些倾向于库存管理，有些重点在于数据报表汇总。 从各自企业需求痛点出发，解决企业实际问题是核心。</p>
@@ -27,11 +27,11 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/09/USYpuUSMOv5EH1igDuuH.png'
 <p>财务，包括利润报表、销售报表、采购报表、库存报表。各类报表分别统计相应的财务信息。</p>
 <p>系统管理，包括系统用户信息、管理角色权限。</p>
 <p>ERP通用业务结构如下，每个业务模块都可根据企业重点建立专属系统如采购的SCM，销售的CRM，人力EHR等。</p>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/0cIT0dPyRHIistTg3H7L.png" alt width="600" height="347" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/0cIT0dPyRHIistTg3H7L.png" alt width="600" height="347" referrerpolicy="no-referrer"></p>
 <h2 id="toc-2">二、浏览其他ERP</h2>
 <p>看市面上ERP系统的功能结构，我们会发现功能十分复杂且丰富。 市面上ERP系统售卖的企业全面信息化解决方案，因而功能一定是齐全，面对不同行业ERP系统呈现出来的功能也有不同。  在扫描功能结构，不难发现功能再复杂也还是围绕ERP核心业务结构。</p>
 <p>这里可以看个电商的ERP 功能结构。</p>
-<p><img data-action="zoom" class="aligncenter" src="http://image.woshipm.com/wp-files/2021/09/oIUjNpK3dUv4bWa2LKGD.png" alt width="600" height="1559" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/09/oIUjNpK3dUv4bWa2LKGD.png" alt width="600" height="1559" referrerpolicy="no-referrer"></p>
 <p style="text-align: center;">跨境电商斑马ERP</p>
 <h2 id="toc-3">三、企业ERP分析</h2>
 <p>企业ERP搭建要根据企业自身背景，结合企业已有资源分析现状，通过搭建ERP解决企业实际的问题。</p>

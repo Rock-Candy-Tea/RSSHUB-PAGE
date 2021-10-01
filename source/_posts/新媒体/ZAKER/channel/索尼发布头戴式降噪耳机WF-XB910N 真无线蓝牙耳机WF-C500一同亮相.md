@@ -1,0 +1,18 @@
+
+---
+title: '索尼发布头戴式降噪耳机WF-XB910N 真无线蓝牙耳机WF-C500一同亮相'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fa8_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 30 Sep 2021 14:27:09 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fa8_1024.jpg'
+---
+
+<div>   
+<p>无线耳机市场又迎来了一批新品，索尼最近发布了两款耳机的新品，分别是头戴式降噪耳机 WF-XB910N 和真无线蓝牙耳机 WF-C500。</p><p>WF-XB910N 的定位是中端产品，设备于支持 ANC 主动降噪功能，兼容蓝牙 5.2 协议，支持 SBC、AAC 和 LDAC 三种蓝牙音频编码格式，360° 声场技术也没有缺席，耳机提供 30 小时的续航表现，耳机支持快充功能，充电 10 分钟就能提供 4.5 小时的聆听使用。多点连接功能也同样配备，能与 2 个蓝牙设备进行配对，并可自动切换。耳机内置了双麦克风且配有音频信号处理技术。耳机的耳罩通过皮革和聚氨酯材料打造而成，佩戴体验应该也有不错的表现，另外它能通过索尼的 Headphones 应用调节 EQ 与降噪功能。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fa8_1024.jpg" data-height="500" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fa8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/61551edf8e9f0911501d2fa9_1024.jpg" data-height="500" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61551edf8e9f0911501d2fa9_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2faa_1024.jpg" data-height="500" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2faa_1024.jpg" referrerpolicy="no-referrer"></div></div>而真无线蓝牙耳机 WF-C500 是一款入门产品，4 种配色较为青春时尚，耳机加入了 DSEE 音质提升技术，能够找回有损音源丢失的高频信号，单次使用可提供 10 小时的续航表现，耳机本体支持 IPX4 防水溅，同样支持 360° 声场和 Headphones 应用调节耳机的 EQ 功能。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/61551edf8e9f0911501d2fab_1024.jpg" data-height="563" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61551edf8e9f0911501d2fab_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fac_1024.jpg" data-height="563" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fac_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fad_1024.jpg" data-height="563" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61551edf8e9f0911501d2fad_1024.jpg" referrerpolicy="no-referrer"></div></div>价格方面，头戴式降噪耳机 WF-XB910N 售价 249.99 美元，约合人民币 1600 元，真无线蓝牙耳机 WF-C500 售价 99 美元，约合人民币 640 元。需要注意的是想体验 360° 声场功能需要付费订阅索尼的相关服务才能使用。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
