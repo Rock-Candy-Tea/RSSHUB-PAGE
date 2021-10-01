@@ -1,0 +1,18 @@
+
+---
+title: '蜜雪冰城A股IPO已辅导备案'
+categories: 
+ - 新媒体
+ - 36kr
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=5080'
+author: 36kr
+comments: false
+date: Fri, 01 Oct 2021 05:39:40 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5080'
+---
+
+<div>   
+蜜雪冰城股份有限公司拟在A股市场首次公开发行股票并上市，正在接受广发证券对其进行辅导，已于2021年9月29日在河南证监局进行辅导备案。（财联社）  
+</div>
+            
