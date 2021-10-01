@@ -1,0 +1,22 @@
+
+---
+title: '多平台
+《原神》大手筆慶祝上市一週年 於日本 JR 山手線運行佈滿「原神」廣告之列車
+ 3 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/73/677ade14f5377a56e94f0d95d51dv495.PNG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/73/677ade14f5377a56e94f0d95d51dv495.PNG'
+---
+
+<div>   
+miHoYo 宣布，為慶祝開放多平台世界動作 RPG《原神（げんしん）》（PC / PlayStation 4 / iOS / Android / PlayStation 5）迎來上市一週年，10 月 1 日起於日本 JR 山手線運行佈滿「...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/73/677ade14f5377a56e94f0d95d51dv495.PNG" referrerpolicy="no-referrer">  
+</div>
+            
