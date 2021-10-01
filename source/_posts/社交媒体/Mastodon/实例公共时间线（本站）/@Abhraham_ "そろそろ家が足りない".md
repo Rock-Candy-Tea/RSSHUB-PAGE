@@ -1,0 +1,20 @@
+
+---
+title: '@Abhraham_ "
+そろそろ家が足りない
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/039/218/862/original/c34d5efe809e439e.png'
+author: Mastodon
+comments: false
+date: Fri, 01 Oct 2021 13:09:15 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/218/862/original/c34d5efe809e439e.png'
+---
+
+<div>   
+<hr><p>そろそろ家が足りない</p><br><img src="https://img.pawoo.net/media_attachments/files/039/218/862/original/c34d5efe809e439e.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
