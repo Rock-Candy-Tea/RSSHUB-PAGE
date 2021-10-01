@@ -1,0 +1,18 @@
+
+---
+title: '联想拟募资百亿元：转型阵痛过后能成新IT_龙头_？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61567d788e9f090f93729bc8_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 30 Sep 2021 19:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61567d788e9f090f93729bc8_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/61567d788e9f090f93729bc8_1024.jpg" data-height="356" data-width="550" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61567d788e9f090f93729bc8_1024.jpg" referrerpolicy="no-referrer"></div></div>文 | 新浪科技 韩大鹏<p></p><p>时隔 9 个月后，联想集团回 A 终于有了新进展。</p><p>昨晚，联想集团首次公开发行存托凭证（CDR）并在科创板上市申请已获受理，拟发行不超过 13.38 亿份 CDR，拟募集资金 100 亿元——这是继证监会发布《关于扩大红筹企业在境内上市试点范围的公告》后，红筹上市公司以 CDR 形式回 A 的第一单。</p><p>实际上，联想早在 1994 年就在香港上市，并于次年发行美国存托凭证（ADR）。可惜，这家以制造业为主的企业，并未受到资本市场的青睐。从其在港股上市以来的表现来看，经历了多年跌宕。</p><p>再次登陆资本市场，对联想而言是件好事。经历多年的转型 " 阵痛 " 之后，这家企业又将服务与解决方案业务作为了新的突破口。</p><p>以产业报国为愿景的联想，能否借此焕发新的生机？</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/615668dfb15ec06c134197a1_1024.jpg" data-height="301" data-width="550" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/615668dfb15ec06c134197a1_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>回 A 的两个理由</strong><p></p><p>今年 8 月，联想董事长兼 CEO 杨元庆在接受新浪科技采访时，谈及了此次回 A 的想法。他直言，回 A 的过程很顺利，只是时间问题。</p><p>在他看来，一方面，回归科创板将帮助公司增强国际与国内两个市场的紧密连接，实现两个市场协同效应最大化。</p><p>另一方面，通过利用国内蓬勃发展的资本市场的力量，增进公司资本结构的多元优化，壮大公司可持续发展战略的资金实力，将助力公司为中国科技行业的创新突破和实体经济高质量发展做出更大贡献。</p><p>100 亿元将如何分配？联想在招股书中透露，拟将本次募集资金的 55% 用于包括 " 云网融合新型基础设施项目 "、" 行业数字化智能化解决方案项目 " 及 " 人工智能相关技术与应用项目 "，10% 用于产业战略投资项目，35% 用于补充流动资金。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/615668dfb15ec06c134197a2_1024.jpg" data-height="390" data-width="550" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/615668dfb15ec06c134197a2_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>PC 仍存被围攻之势</strong><p></p><p>招股书显示，智能设备业务集团依然是联想的主力业务。</p><p>在 18/19 财年、19/20 财年及 20/21 财年中，占收入比例分别为 88.20%、89.16% 及 89.58%。而数据中心业务集团占收入比例分别为 11.80%、10.84% 及 10.42%。</p><p>在智能设备业务集团中，PC 占有绝对份额。就 20/21 财年第三财季业绩来看，联想在国内的 PC 业务持续扩大领先优势，市场份额达 42.3%。</p><p>但有观点认为，联想在 PC 业务上虽然存在优势，但并非 " 绝对优势 "。</p><p>在全球 PC 市场份额中，惠普与联想争夺销冠宝座多年。去年，全球 PC 市场第二季度数据榜单中，联想一度被惠普超越，以不足 1% 的份额下跌至世界第二，随后赶上。但值得一提的是，近些年来，国内厂商华为、小米等在 PC 端的发力，亦对联想形成了围攻之势。</p><p>此般情形下，寻求转型和投入研发，成为了联想的必然选择。</p><p>据招股书显示，三个财年中的研发投入分别为 102.03 亿元、115.17 亿元以及 120.38 亿元，累计超 300 亿元。有数据表明，年均超百亿元的研发投入规模，是目前科创板已挂牌和已申请企业中数额最高的。不久前，杨元庆提出，3 年内研发投入翻番的计划，以及 3 年内盈利能力翻倍的目标。</p><p>不过，招股书申报稿内也提及了多项风险，其中有关于 VIE 协议控制相关的风险表明，中国境内未有法律法规或发行人所在行业监管部门明确认定 VIE 协议属于《民法典》所规定的合同无效情形，如未来 VIE 架构被认定为不符合中国法律，则可能对公司业务、财务状况等造成不利影响。</p><p><strong>第二曲线在哪？</strong></p><p>联想早在 1994 年就在香港上市，并于次年发行美国存托凭证（ADR）。可惜，这家以制造业为主的企业，并未受到资本市场的青睐。20 年来，联想的股价始终低迷，其一度遭遇业绩巨亏。</p><p>联想开始寻求多次转型：从单一的个人电脑硬件业务向多样化的设备公司转型，近两年又加码服务与解决方案业务，以寻求新突破点。</p><p>半个月前，杨元庆在公司内部信中宣布，联想将整合现有 IT 组织和方案服务业务集团（SSG）。他认为，联想需要大力拓展产品、服务和解决方案，进一步加强实力，尤其是服务交付的能力，" 这样才能牢牢抓住市场中高增长和高盈利性的机会 "。</p><p>联想的最新一期财报显示，SSG 取代了以主营个人电脑业务为主的 IDG，成为最先被提及的业务部门。" 研发投入翻番计划 " 中，将有相当一部分会分给 SSG。</p><p>如此可见，联想对于利润率较高的服务与解决方案业务，给予了厚望。</p><p>整体来看，如今的联想已基本稳住了 PC 业务的基本盘，手机和服务器业务的目标是实现盈亏平衡，而市场巨大、增速明显的服务与解决方案业务，最有可能成为联想的另一条增长曲线。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

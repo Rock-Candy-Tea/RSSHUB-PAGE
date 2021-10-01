@@ -1,0 +1,18 @@
+
+---
+title: '法拉利首款电动车，苹果前首席设计师Jony Ive打造'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61553ca78e9f097dfb5a5e69_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 30 Sep 2021 18:08:47 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61553ca78e9f097dfb5a5e69_1024.jpg'
+---
+
+<div>   
+<p>机器之心报道</p><p><strong>编辑：泽南</strong></p><p>法拉利表示，自己的首款电动车将是「品牌历史的里程碑」。</p><p>法拉利的电动车会走科技风格？这个星期以前我们还根本不相信。</p><p>最新消息是：由苹果前首席设计官乔纳森 · 艾维（Jonathan Ive）与工业设计师马克 · 纽森（Marc Newson）领导的设计公司 LoveFrom 正在与法拉利合作打造这家豪华汽车制造商的第一辆电动车。</p><p>法拉利母公司 Exor 本周一宣布与 LoveFrom 建立了长期合作伙伴关系。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202109/61553ca78e9f097dfb5a5e69_1024.jpg" data-height="839" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202109/61553ca78e9f097dfb5a5e69_1024.jpg" referrerpolicy="no-referrer"></div></div>公告中写道：「这一新合作关系会把法拉利的传奇性能和 LoveFrom 非凡的、改变世界的产品设计经验与创造力结合起来。除了与法拉利的合作之外，LoveFrom 还将与 Exor 在奢侈品行业探索一系列创意项目。」<p></p><p>Exor 是由意大利阿涅利家族控制的控股公司，该家族还持有 Stellantis 汽车集团（包含克莱斯勒、菲亚特、标致和雪铁龙）和意大利足球队尤文图斯的股份。</p><p>在官方通稿中，双方并没有透露具体合作内容。但据英国《金融时报》报道，该公司将与法拉利合作开发一系列汽车，包括其首款电动汽车，计划会在 2025 年发布。</p><p>作为著名跑车品牌，法拉利的电动车计划要比竞争对手们来得晚一些。按照法拉利首席执行官 Louis Camilleri 的说法，公司「正在研究纯电动 GT 车型（即大型豪华跑车），但目前仍将重点放在混合动力车上。」</p><p>根据规划，法拉利在去年年初推出了首款混合动力车 SF90 Stradale。到 2022 年，法拉利预计自身的六成产品都将是混合动力。纯电动车的推出时间，按照今年 4 月的说法是在 2025 年以后。Camilleri 认为，当前的电池技术还没有达到应有的性能水平，「在自主性和充电速度方面还存在重大问题」。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6a_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6a_1024.jpg" referrerpolicy="no-referrer"></div></div>法拉利的首款混动车型 SF90 Stradale。<p></p><p>美国投行摩根斯坦利估计，法拉利发布电动汽车可能会推动该公司股价上涨至 350 美元，目前该公司的股价是 209 美元。</p><p>在科技圈里，乔纳森 · 艾维的大名可谓无人不知，他年少成名，1992 年加入苹果后在这家公司工作了 27 年之久。艾维曾在苹果领导了一系列知名产品的设计，包括 Mac、iPhone、iPad 和 iPod。</p><p>乔纳森 · 艾维对于苹果的重要性在于整体把控设计趋势，从 90 年代的半透明塑料外壳，到本世纪初纯白色风格，再到 2003 年出现的银灰色铝合金材质和 5 年后的 Unibody 工艺，以及自 iOS 7 起的扁平化风格。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6b_1024.jpg" data-height="872" data-width="1066" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6b_1024.jpg" referrerpolicy="no-referrer"></div></div>当年乔布斯从一个信封纸袋中取出 MacBook Air 的画面已经成为了经典。为减轻笔记本电脑的重量，艾维设计了一体成型的机身，用数控铣床将一整块铝板掏空构成主体结构。<p></p><p>在乔布斯去世之后不久，苹果宣布艾维负责所有产品的软件 + 硬件设计，这在原先是乔布斯本人的职责。</p><p>离开苹果后，乔纳森 · 艾维宣布与另一个著名设计师马克 · 纽森共同创办了 LoveFrom，这家公司的第一个客户还是苹果。要说这两个人的设计风格，可能是尽量少的线条，高度的极简主义。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6c_1024.jpg" data-height="832" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202109/61553ca78e9f097dfb5a5e6c_1024.jpg" referrerpolicy="no-referrer"></div></div>马克 · 纽森和乔纳森 · 艾维。<p></p><p>由于乔布斯敏锐的预见性和对于审美毫不妥协的态度，苹果的产品每一次发布都超出了人们的期待，乔纳森 · 艾维作为设计团队的领头人也功不可没。</p><p>我们可以期待法拉利推出的新车能有更具未来感的设计。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
