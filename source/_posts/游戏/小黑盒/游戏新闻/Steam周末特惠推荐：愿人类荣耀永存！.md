@@ -1,0 +1,18 @@
+
+---
+title: 'Steam周末特惠推荐：愿人类荣耀永存！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/524220_gRJ9s.jpg'
+author: 小黑盒
+comments: false
+date: 2021-10-01 05:07:15
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/524220_gRJ9s.jpg'
+---
+
+<div>   
+<p>今天Steam如约开启了新一轮的周末特惠，在此次促销中依然有数量可观的游戏参与折扣，除了让人眼前一亮的大作，也有不少质量过硬的精品游戏加入到打折阵容中来。接下来就一起看看本次Steam周末特惠促销中有哪些推荐和值得购买的游戏吧。</p><h2>《尼尔：机械纪元》</h2><p><img data-gameid="524220" src="https://cdn.max-c.com/heybox/game/header/524220_gRJ9s.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：137元</b></p><p><b>小黑盒商城折扣价：132.6元</b></p><p><a href="https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/" target="_blank"></a></p><p>《尼尔：机械纪元》讲述了机器人 2B、9S 和 A2 以及他们为夺回被强大机器占领的机器驱动的反乌托邦而进行的战斗。<br></p><h2>《八方旅人》</h2><p><img data-gameid="921570" src="https://cdn.max-c.com/heybox/game/header/921570_JItdm.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：201元</b></p><p><b>小黑盒商城折扣价：194.6元</b></p><p>八位旅行者的八次冒险之旅。化身为八个角色之一，踏上史诗般的旅程，穿越广阔而神奇的奥鲁斯特拉大陆，探索八位旅行者各自迷人的故事。</p><h2>《Impostor Factory《影子工厂》》</h2><p><img data-gameid="1182620" src="https://cdn.max-c.com/heybox/game/header/1182620_9oklw.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：32.4元</b></p><p><b>小黑盒商城折扣价：31.4元</b></p><p>时间循环悲喜剧，谋杀悬疑蒙太奇，外加多人伤亡以及一只可疑的喵。又酸又甜外焦里嫩，由《去月球》作者带来的走心之作。</p><h2>《怪物猎人世界》</h2><p><img data-gameid="582010" src="https://cdn.max-c.com/heybox/game/header/582010_nSjOY.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：133.98元</b></p><p><b>小黑盒商城折扣价：125.0元</b></p><p>新的生命之地。狩猎, 就是本能! 在系列最新作品「Monster Hunter: World」中,玩家可以体验终极的狩猎生活,活用新建构的世界中各种各样的地形与生态环境享受狩猎的惊喜与兴奋。</p><h2>《地平线：零之曙光 完全版》</h2><p><img data-gameid="1151640" src="https://cdn.max-c.com/heybox/game/header/1151640_v4TjN.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：167元</b></p><p><b>小黑盒商城折扣价：161.7元</b></p><p>化身为埃洛伊，体验传奇冒险之旅，揭开致命机器统治世界的神秘面纱。一出生便遭放逐的年轻猎人，必须为制止危害人类的威胁而竭力奋战。在这款屡次获奖的角色扮演类动作游戏中，向机器发起毁灭性战略进攻，探索壮阔的开放世界！<br></p><h2>《最终幻想15》</h2><p><img data-gameid="637650" src="https://cdn.max-c.com/heybox/game/header/637650_vZSe7.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：115元</b></p><p><b>小黑盒商城折扣价：111.3元</b></p><p>与挚友一同踏上这场永生難忘的旅程，穿越令人屏息的开放世界、目睹迷人的大地风采，在旅途中挑战体型惊人的猛兽，并奋力打败强大敌人，夺回家园。<b><br></b></p><p>采用动感十足的战斗系统，在惊险刺激的战斗中，轻松引导先祖的力量，穿梭战场时空。和战友携手合作，掌握武器、魔法和团队战斗的技能。<br></p><p>现在推出的 Windows PC 版本，搭配尖端科技的强大功能，包括支持高分辨率画面显示和 HDR10，立即来畅玩这款画面精美且精心制作的《FINAL FANTASY XV》，享受前所未有的游戏体验。<br></p><h2>《尼尔：伪装者 ver.1.22474487139...》</h2><p><img data-gameid="1113560" src="https://cdn.max-c.com/heybox/game/header/1113560_W2t18.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：233.35元</b></p><p><b>小黑盒商城折扣价：225.9元</b></p><p>《尼尔：伪装者 ver.1.22474487139...》是以2010年4月发售的《NieR Replicant》为基础制作的强化版，描写2017年2月发售的《尼尔：机械纪元》当中的世界是如何形成的故事。<b><br></b></p><p>主角是一位住在边境村庄的善良少年，他为了拯救罹患不治之症“黑文病”的妹妹“悠娜”，与会说人话的神秘书本“白之书”一起踏上旅程，找寻治疗妹妹的最后一线希望——“被封印的话语”。<br></p><p>《往日不再》</p><p><img data-gameid="1259420" src="https://cdn.max-c.com/heybox/game/header/1259420_zjvPH.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：223元</b></p><p><b>小黑盒商城折扣价：198.0元</b></p><p>骑行并战斗到一个致命的大流行后美国。扮演 Deacon St. John，一名流浪者和赏金猎人，在破碎的道路上驰骋，为生存而战，同时寻找在这款开放世界动作冒险游戏中生存的理由。<b><br></b></p><h2>《二次灭绝》</h2><p><img data-gameid="1024380" src="https://cdn.max-c.com/heybox/game/header/1024380_8WVWb.jpg" referrerpolicy="no-referrer"></p><p><b>Steam折扣价：48元<br></b></p><p><b>小黑盒商城折扣价：46.5元</b><br></p><p>丰富多变的地图，千奇百怪的恐龙，各式各样的武器。 面对不断变化的威胁，你即可选择一人独闯，也可与好友组队作战。 《Second Extinction》是一款引入恐龙元素的在线第一人称射击游戏。<br></p>  
+</div>
+            
