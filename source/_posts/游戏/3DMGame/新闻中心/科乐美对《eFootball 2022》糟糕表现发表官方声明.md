@@ -18,13 +18,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211001/1633099273_2824
 2022》，虽然被视为是实况<a target="_blank" href="https://www.3dmgame.com/tag/zuqiu_1/">足球</a>系列的正统续作，但这款游戏在发售后立即在Steam上收到了压倒性的负面评论。今天，科乐美发布了关于游戏发行问题的官方声明。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211001/1633099273_282472.jpg" alt="科乐美对《eFootball 2022》糟糕表现发表官方声明" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211001/1633099273_282472.jpg" alt="科乐美对《eFootball 2022》糟糕表现发表官方声明" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">官方表示</span></strong>
+<strong><span style="font-size:16px;">官方表示</span></strong> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211001/1633099281_199100.jpg" alt="科乐美对《eFootball 2022》糟糕表现发表官方声明" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211001/1633099281_199100.jpg" alt="科乐美对《eFootball 2022》糟糕表现发表官方声明" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 "在《eFootball 2022》发行后，我们受到了很多关于游戏平衡性（包括过人速度和防守运作）的反馈和请求。我们也了解到有用户报告经历了诸如过场动画、面部表情、球员移动和足球运动异常的问题。

@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211002/1633106119_1713
 我们不需要更多的证据来证明游戏的日益普及，但事实就是如此：根据一份新的报告，游戏PC和游戏显示器的全球出货量继续快速增长，比它们的母体市场更快，而且预计它们将保持这种状态直到2025年。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211002/1633106119_171383.jpg" alt="研究认为游戏PC将变得更加昂贵 而显示器则会降价" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211002/1633106119_171383.jpg" alt="研究认为游戏PC将变得更加昂贵 而显示器则会降价" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 国际数据公司（IDC）在其最新的全球季度游戏追踪报告中指出，游戏电脑（包括台式电脑和笔记本电脑）的出货量预计将从2020年的4130万台增长到2025年的5230万台，五年的复合年增长率（CAGR）为4.8%。
