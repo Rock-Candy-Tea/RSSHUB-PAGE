@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 13 Pro 实际续航体验如何？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-a5357cfb232390bc0a6469c9cffd0740_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 02 Oct 2021 06:22:20 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-a5357cfb232390bc0a6469c9cffd0740_1440w.jpg'
+---
+
+<div>   
+Luv Letter的回答<br><br><p>一开始我看到 iPhone 13 Pro 电池提升 20% 左右的感觉, 不过是以为多一两个小时.</p><p>结果 Apple 发布会说提升 1.5hr, 那我想可能也没多大用, 机器重量和厚度还上去了.</p><p>唯一的亮点恐怕就是视频回放续航显著提升, 这应该和 ProMotion 有关.</p><p>结果实际到手发现:</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a5357cfb232390bc0a6469c9cffd0740_1440w.jpg" data-caption data-size="normal" data-rawwidth="1170" data-rawheight="1534" data-default-watermark-src="https://pic1.zhimg.com/v2-a68eaa5f85249d22171e1f7da60a7e13_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a5357cfb232390bc0a6469c9cffd0740_r.jpg" referrerpolicy="no-referrer"></figure><p>从五点开始 100% 出门, 到接近晚上十点半掉到 20%, 中间亮屏达到 5.5hr, 而且开着 GPS 和游戏.</p><p>换句话说只要我能赶上终电, 手机一定有电, 而且全程不需要进省电模式.</p><p>顺带一提充电.</p><p>今年 iPhone 充电功率提升到 27W, 而电池容量仍然是其他厂家的 60%-70% 水平, 等于说 iPhone 充电速度相当于其他手机厂商的 40W 水平, 而亮屏续航又要显著更长, iPhone 除了后 15% 强制涓流充电比较慢之外, 前面 85% 部分的速度基本可以放到 40-50W 梯队. </p><p>要知道 iPhone 达到这样的充电速度仅仅需要的是小尺寸的 30W 充电头+随机附送的 C-L 快充线, 并不需要其他家夸张体积的 60W 甚至是 120W 充电器. 而且充电头和机身的目标温度都是 45 度, 不会像有的厂家飙到 50 甚至接近 60 度.</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-3146bd821caa874f2d656c0ec6d17ad0_1440w.jpg" data-caption data-size="small" data-rawwidth="960" data-rawheight="1280" data-default-watermark-src="https://pic4.zhimg.com/v2-81a097de2472eea00dcc34ee7ad36fd3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3146bd821caa874f2d656c0ec6d17ad0_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="small"><img src="https://pic1.zhimg.com/v2-4feda73957b7a2f0caa13aec50590cb0_1440w.jpg" data-caption data-size="small" data-rawwidth="960" data-rawheight="1280" data-default-watermark-src="https://pic1.zhimg.com/v2-2acd277056578af539bc70db2471f470_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4feda73957b7a2f0caa13aec50590cb0_r.jpg" referrerpolicy="no-referrer"></figure><p>当然大多数在家里的时间都是直接在 MagSafe 充电器上充, 有了 15W 功率和磁吸之后, 等于说家里就能保持充电. 出门临时补电的需求并不是经常碰的到.</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f9ff2bd1876270e486e38da1d3a84cb1_1440w.jpg" data-caption data-size="normal" data-rawwidth="5839" data-rawheight="3892" data-default-watermark-src="https://pic2.zhimg.com/v2-ba3d2f1dd316de3a80063d19edfbc5d1_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f9ff2bd1876270e486e38da1d3a84cb1_r.jpg" referrerpolicy="no-referrer"></figure><p>所以最近晚上出去浪基本都不带任何移动电源, 就 iPhone AirPods/Beats Flex Apple Watch 三件套.</p><p>当然我用了接近三年的 Apple Watch S4 可能经过一个睡眠+白天之后, 到傍晚可能就 40% 的电量, 出门其实就比较紧张, 显得比较拖后腿了.</p><p>S6 S7 的快充其实还是比较有用的. 当然 S7 的快充还需要搭配快充线+20W 充电头, 如今可以考虑二合一贝尔金, Watch 专用快充充电器就专门放在浴室, 在洗澡+洗漱的时间里充满是一个不错的选择.</p><p>上班中间如果 Watch 没电, 可以考虑这种直插式的充电器接 MacBook、充电头 或者 iPad/Android 机上.</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-bb41b61b8308d0c6edb33e6bea2d4045_1440w.jpg" data-caption data-size="small" data-rawwidth="6000" data-rawheight="4000" data-default-watermark-src="https://pic2.zhimg.com/v2-ada65bf8be38ef5c181a9629797ba119_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-bb41b61b8308d0c6edb33e6bea2d4045_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
