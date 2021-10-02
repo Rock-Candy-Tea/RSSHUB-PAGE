@@ -32,7 +32,7 @@ Now从beta阶段进入正式阶段的时候，众多大发行商包括动视暴�
 Now有点抬头的意思了。
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTE5ODgxMTg1Ng==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTE5ODgxMTg1Ng==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>          
 </div>
