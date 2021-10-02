@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win11 实体彩盒包装泄露：全新居中_开始_菜单'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/9672c024-974d-4e8b-976c-db62b82cb606.jpg@s_2,w_820,h_1093'
+author: IT 之家
+comments: false
+date: Fri, 01 Oct 2021 23:38:51 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/9672c024-974d-4e8b-976c-db62b82cb606.jpg@s_2,w_820,h_1093'
+---
+
+<div>   
+<p data-vmark="17a8"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 2 日消息 据网友反馈，近日，微软 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Windows 11</a> 系统的实体版彩盒包装图片在网络上泄露。微软此前已经宣布，Windows 11 系统将在 10 月 5 日正式上市并推送。</p><p data-vmark="f7c8">微软 Windows 11 Pro 系统的彩盒包装上拥有 Windows 11 独具特色的居中显示的全新“开始”菜单。</p><p data-vmark="713b">盒子背面是 Windows 11 系统的亮点属性：有着你熟悉的 Windows 体验，快速启动，新的动画和全新的“开始”菜单，准备好使用 Windows 11 系统吧。</p><p data-vmark="2551"><img src="https://img.ithome.com/newsuploadfiles/2021/10/9672c024-974d-4e8b-976c-db62b82cb606.jpg@s_2,w_820,h_1093" w="1134" h="1512" title="微软 Win11 实体彩盒包装泄露：全新居中“开始”菜单" srcset="https://img.ithome.com/newsuploadfiles/2021/10/9672c024-974d-4e8b-976c-db62b82cb606.jpg 2x" width="1134" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="c987"><img src="https://img.ithome.com/newsuploadfiles/2021/10/a0f96ff4-4abc-4d47-bf76-ecec8905301e.jpg" w="783" h="657" title="微软 Win11 实体彩盒包装泄露：全新居中“开始”菜单" width="783" height="657" referrerpolicy="no-referrer"></p><p data-vmark="ed7b">IT之家获悉，10 月 5 日起，符合条件的 <a class="s_tag" href="https://win10.ithome.com/" target="_blank">Windows 10</a> PC 将可免费升级到 Windows 11，预装 Windows 11 的各种全新 PC 设备也将开始上市发售。Windows 11 将带来全新的 Windows 体验，旨在让用户与之所爱，更近一步。</p><p data-vmark="28c6"><img src="https://img.ithome.com/newsuploadfiles/2021/10/2bfd422f-8462-4213-a37d-c72bb47e5246.png" w="1440" h="908" title="微软 Win11 实体彩盒包装泄露：全新居中“开始”菜单" width="1440" height="517" referrerpolicy="no-referrer"></p><p data-vmark="789c">随着 PC 在微软生活中扮演着越来越重要的角色，Windows 11 已准备就绪，为你赋能生产力的同时，激发更多创造力。</p><h2 data-vmark="b00b">Windows 11 这一版本的亮点</h2><ul class=" list-paddingleft-2"><li><p data-vmark="cc16">全新的设计和声音更加现代化、整洁且美观，令人耳目一新，这将带给用户平静和轻松的感觉。</p></li><li><p data-vmark="fcb8">在“开始”菜单中，以用户及其内容为中心。凭借云和 Microsoft 365 的强大性能，“开始”菜单会向用户显示其最近在各个设备上查看过的文档。</p></li><li><p data-vmark="b7d0">贴靠布局、贴靠群组和虚拟桌面功能为你提供了更加有力的支持，帮助你同时处理多个任务及优化屏幕空间。</p></li><li><p data-vmark="9e73">基于 Microsoft Teams 技术的聊天（Chat） 被整合到了任务栏中，可以让你更快捷地与你所关心的人保持联系。</p></li><li><p data-vmark="7643">小组件（Widgets）是一项由 AI 驱动的个性化提示功能，它提供了更加快捷的方式来获取你所关心的信息。借助于 Microsoft Edge <a class="s_tag" href="https://qiyu.ruanmei.com/" target="_blank">浏览器</a>卓越的性能、速度和生产力，你可以在网页上完成更多的工作。</p></li><li><p data-vmark="bbc4">Windows 11 提供了有史以来最好的 Windows PC 游戏体验，凭借 DirectX12 Ultimate、直通存储（DirectStorage）以及 Auto HDR 等技术，它能够充分发挥系统硬件的潜力。通过 Xbox Game Pass for PC 或 Xbox Game Pass Ultimate，玩家仅需支付很低的订阅费，即可在 Windows 11 上畅玩超过百款优秀的 PC 游戏（Xbox Game Pass 单独销售）。</p></li><li><p data-vmark="3cdc">Windows 11 带来了全新的 Microsoft Store，它采用全新的设计，让你在这个值得信任的平台上可以更轻松地搜索和发现喜爱的应用、游戏、节目和电影。微软期待通过与亚马逊和英特尔的合作，继续将 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android</a> 应用程序带到 Windows 11 和 Microsoft Store ，在随后的几个月中，该功能将首先面向 Windows 预览体验成员推出预览版本。</p></li><li><p data-vmark="0a36">Windows 11 是极具包容性的 Windows 版本，身有残障的工程师也参与到了其开发过程当中，他们专门为残障人士进一步改进了辅助功能。</p></li><li><p data-vmark="04b8">Windows 11 为开发者和创作者解锁新的机会。微软持续扩展 Microsoft Store 的开放性，让越来越多的开发者和独立软件供应商（ISV）能够将他们的应用程序带到 Microsoft Store，微软通过新的开发者工具改进本地和网页应用程序的开发，并让你更轻松地刷新对于微软所有应用程序设计和体验的外观和感受。</p></li><li><p data-vmark="db85">Windows 11 对速度、效率进行了优化，并改进了触控、触控笔和语音输入体验。</p></li><li><p data-vmark="2b56">Windows 11 是为混合办公而生的操作系统，带来适合你办公方式的新体验；它从设计源头确保了安全性，并拥有既简易又熟悉的 IT 部署和管理。企业用户还可以在 Azure 虚拟桌面 中提前测试 Windows 11 预览版，或在新的 Windows 365 中完整体验 Windows 11 的使用感受。</p></li></ul>
+          
+</div>
+            
