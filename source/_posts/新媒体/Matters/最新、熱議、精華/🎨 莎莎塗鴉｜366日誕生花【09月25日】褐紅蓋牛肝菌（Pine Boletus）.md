@@ -1,0 +1,24 @@
+
+---
+title: '🎨 莎莎塗鴉｜366日誕生花【09月25日】褐紅蓋牛肝菌（Pine Boletus）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/cf94ddde-37aa-40df-9e93-6a7f724ffe03.jpeg'
+author: Matters
+comments: false
+date: Sat, 02 Oct 2021 13:17:10 GMT
+thumbnail: 'https://assets.matters.news/embed/cf94ddde-37aa-40df-9e93-6a7f724ffe03.jpeg'
+---
+
+<div>   
+<h2>❀ 手繪插畫 ❀</h2><figure class="image"><img src="https://assets.matters.news/embed/cf94ddde-37aa-40df-9e93-6a7f724ffe03.jpeg" data-asset-id="cf94ddde-37aa-40df-9e93-6a7f724ffe03" referrerpolicy="no-referrer"><figcaption><span>https://matters.news/@sachanshih</span></figcaption></figure><h2><strong>Sep 25:</strong></h2><ul><li><strong>植物：褐紅蓋牛肝菌（Pine Boletus）</strong></li><li><strong>花語：篤實（Sincerity）</strong></li></ul><hr><h2>❀ 作畫過程 ❀</h2><p>廢話不多說，直接把照片轉成 GIF 動圖來看吧✦</p><figure class="image"><img src="https://assets.matters.news/embed/cb1eac32-d2f1-46a2-a7ed-539fbb51417d.gif" data-asset-id="cb1eac32-d2f1-46a2-a7ed-539fbb51417d" referrerpolicy="no-referrer"><figcaption><span>藍精靈？</span></figcaption></figure><p>這天的誕生花是<strong>「褐紅蓋牛肝菌」</strong>，是一種可食用的蘑菇。<br class="smart">學名為<strong>「</strong><a href="https://en.wikipedia.org/wiki/Boletus_pinophilus" target="_blank"><strong>Boletus pinophilus</strong></a><strong>」</strong>，是牛肝菌科<strong>「</strong><a href="https://zh.wikipedia.org/wiki/%E7%89%9B%E8%82%9D%E8%8F%8C%E5%B1%AC" target="_blank"><strong>牛肝菌屬（Boletus）</strong></a><strong>」</strong>的一種真菌。<br class="smart">與<strong>【</strong><a href="https://matters.news/@sachanshih/bafyreif4i5yjrvo4wpwchyg6yfc5id5cho6gncnhhbq3gdcovm3pand64m" target="_blank"><strong>09月22日</strong></a><strong>】</strong>的<strong>「美味牛肝菌」</strong>是近親品種。</p><p>它是一種遍及歐洲和西亞的蕈類，可保存與熟食。<br class="smart">在墨西哥的中部頗受推崇，價格昂貴。<br class="smart"></p><p>主要生長在沙質土壤上的針葉林中。<br class="smart">寄主樹木包括各種松樹、歐洲銀杉和雲杉，以及栗樹、橡樹和山毛櫸等落葉樹邊。<br class="smart"></p><p>英文俗名：<strong>pine bolete</strong>, pinewood king bolete<br class="smart"></p><p>關於誕生花的傳說，是這麼描述的：</p><pre class="ql-syntax">它是獻給七世紀，首位默默致力於翻譯翻譯拉丁聖經的學僧「聖崔利歐魯拂利斯」。
+因此，它的花語是「篤實」。
+
+受到這種花祝福誕生的人，通常都是孜孜不倦、鍥而不捨的做著任何事。
+雖然他的人生不是非常華麗鋪張，但卻可以擁有紮實的成就。
+而他的戀愛的步調，也是慢而仔細的。
+</pre><p>大概就是這樣。<br class="smart">今天忍不住偷懶了，下午吃了些點心，整個人懶洋洋的。(つд⊂)<br class="smart">結果就拖到晚餐後才開始畫了。</p><p>根據昨天的投票結果：</p><ul><li>超自然生物 4 票 </li><li>普通的草地 0 票</li></ul><p>前者壓倒性勝利，於是今天出爐的菇菇就混進了什麼奇怪的東西。🤭🤭🤭</p><p>當時不知為何，一直想到藍精靈～<br class="smart">但幼兒時只聽說這部動畫，實際上好像只瞥過幾集，後來也沒去找來看了。<br class="smart"></p><p>不過，某莎心目中的藍精靈不是動畫中的白帽子那種。<br class="smart">而是草綠色的服裝配上水藍色的身體，於是就變成這樣啦✦</p><p>與其說是藍色小精靈，不如說是水滴小精靈！🤭🤭🤭<br class="smart"></p><p>最後，預告一下明天的花花。<br class="smart">是<strong>「一枝黃花屬」</strong>的孩子，這次就不玩投票啦～ 😆<br class="smart"><em><s>因為它的小花一長串的，整個都像結穗的稻米了！😭</s></em><br class="smart"></p><hr><h2>📡 喵喵雷達廣播 (ฅ^>ω<^ฅ)</h2><blockquote><strong>請大家多多追蹤 </strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>某莎的圍爐</strong></a><strong> 哦！「追蹤」就好～🙏🙏🙏</strong><br class="smart">每天會在晚餐後約 19～21 點（UTC+8）通知一次當日更新的圖文～<br class="smart">同時會包含<strong>「當日爐友發布的作品清單」</strong>，最新消息不漏接噢❤</blockquote><hr><h2>❀ 臨摹圖源 ❀</h2><p>這個區塊的圖片，來自維基百科：<a href="https://commons.wikimedia.org/wiki/File:Boletus_pinophilus3.JPG" target="_blank">https://commons.wikimedia.org/wiki/File:Boletus_pinophilus3.JPG</a><br class="smart">為作者「Paffka」的攝影作品，他的作品使用「<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" target="_blank">CC BY-SA 3.0</a>」聲明。</p><figure class="image"><img src="https://assets.matters.news/embed/0f8c93ac-e4a9-47d0-b0ab-01b7c8e8e5bb.jpeg" data-asset-id="0f8c93ac-e4a9-47d0-b0ab-01b7c8e8e5bb" referrerpolicy="no-referrer"><figcaption><span>來自維基百科</span></figcaption></figure><hr><h2><strong>🎈 文末註明 </strong>(*´ω`)人(´ω`*)</h2><ul><li>本文首發於<strong>「</strong><a href="https://matters.news/@sachanshih" target="_blank"><strong>馬特市</strong></a><strong>」</strong>：<a href="https://matters.news/@sachanshih" target="_blank">https://matters.news/@sachanshih</a><br class="smart">另有備份在<strong>「</strong><a href="https://vocus.cc/user/@amanesalvia" target="_blank"><strong>方格子</strong></a><strong>」</strong>；若在其他網站見此篇圖文，皆為無斷轉載。</li><li>如果喜歡<strong>「</strong><a href="https://matters.news/tags/VGFnOjQ5NDEx" target="_blank"><strong>這系列</strong></a><strong>」</strong>的作品，歡迎<strong>「拍手留言」</strong>交流～<br class="smart">歡迎讚賞支持某莎：<a href="https://liker.land/sachanshih/civic" target="_blank">https://liker.land/sachanshih/civic</a><br class="smart">或是加入<strong>「</strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>圍爐</strong></a><strong>」</strong>吧！</li></ul><hr><h2>🍀 導覽精靈參上 ( つ•̀ω•́)つ</h2><figure class="embed-code"><div class="iframe-container"><iframe src="https://jsfiddle.net/rkgcqh1z/embedded/result" frameborder="0" allowfullscreen="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure>  
+</div>
+            
