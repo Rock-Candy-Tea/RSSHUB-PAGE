@@ -1,0 +1,18 @@
+
+---
+title: '养宠物可以帮助治愈抑郁症吗？-pr呼吸心跳正常的回答：确诊不久就有养狗狗的想法，斟酌了半年才决定下来,毕竟一条活生生的小生命，需要学习和注意的事情很多说来...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-a779faa3d57b3b91d4c2057002790767_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Sun, 03 Oct 2021 06:01:30 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-a779faa3d57b3b91d4c2057002790767_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>养宠物可以帮助治愈抑郁症吗？</strong><br>pr呼吸心跳正常的回答<br><p>确诊不久就有养狗狗的想法，斟酌了半年才决定下来,毕竟一条活生生的小生命，需要学习和注意的事情很多</p><p>说来也蛮自私的，就单纯为了治愈自己，不是出于关爱动物什么的</p><p>W出生在10月10日，很巧，是世界精神卫生日，把他接回家那天是12月24日平安夜，一切的一切都刚刚好，他就像是圣诞老爷爷送给我的礼物</p><p>刚到家时才两个多月，像个小baby一样</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-a779faa3d57b3b91d4c2057002790767_720w.jpg?source=54b3c3a5" data-rawwidth="1163" data-rawheight="1163" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9bf9d6818ce8687d0e09883e0928589e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-a779faa3d57b3b91d4c2057002790767_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-a779faa3d57b3b91d4c2057002790767_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-844cef4884869f2e9ecee16f4a0e6e4a_720w.jpg?source=54b3c3a5" data-rawwidth="2159" data-rawheight="2159" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pica.zhimg.com/50/v2-d1b7f2bd205ee810a4ac140b2ff2d346_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-844cef4884869f2e9ecee16f4a0e6e4a_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-844cef4884869f2e9ecee16f4a0e6e4a_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>这么大的时候真的很麻烦，真就跟带孩子一样，随处大小便、乱啃乱咬乱叫…建议没有时间（工作学习比较繁忙的）和没有耐心（躁郁、经常性崩溃等等）还是要慎重考虑</p><p>然后慢慢长大，现在我们已经是只一岁的修勾了</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-f350c8a50229daf508e9c94a9a71e4e2_720w.jpg?source=54b3c3a5" data-rawwidth="1058" data-rawheight="1058" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pica.zhimg.com/50/v2-78033fdc98b658aedd12c65eb4a04f6d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-f350c8a50229daf508e9c94a9a71e4e2_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-f350c8a50229daf508e9c94a9a71e4e2_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-e22f4d0b2f151854faf68c9e5ab19e47_720w.jpg?source=54b3c3a5" data-rawwidth="2344" data-rawheight="2344" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic2.zhimg.com/50/v2-6d95a1e044181a74ad53516df79ef34a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-e22f4d0b2f151854faf68c9e5ab19e47_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-e22f4d0b2f151854faf68c9e5ab19e47_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>没有养过宠物的人体会不到，这种安全感是人给不了的，不会患得患失不用妄自揣测，他就一直陪在你身边</p><p>不过，想通过养宠物快速疗愈自己不现实，刚开始并没有照顾宠物的经验也没有感情基础，很可能你构想的美好画面变为一地鸡毛的惨象，对我来说养宠物不单纯是为了自愈更重要的是能让自己动起来，我相信不止是我其他抑郁患者肯定也有浑浑噩噩、虚度光阴的情况，所以我迫使自己忙碌起来</p><p>抑郁这段时间，什么有意义的事都没做，整个人仿佛一具只会呼吸的尸体，每天躺尸、暴饮暴食、崩溃大哭…反反复复以这样浪费生命的行为来消磨时间，事实上到今天为止，我仍然还是懦弱胆怯庸庸碌碌，但看看他，我把他照顾的还不错，或许我在他生命里算是个有意义的人吧</p>  
+</div>
+            
