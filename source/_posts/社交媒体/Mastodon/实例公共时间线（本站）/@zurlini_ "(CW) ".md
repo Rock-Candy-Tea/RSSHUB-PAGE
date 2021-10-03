@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/039/263/642/original/5d9583d06c9570f1.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/039/264/668/original/03e04a4cc77ea591.jpeg'
 author: Mastodon
 comments: false
-date: Sun, 03 Oct 2021 14:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/039/263/642/original/5d9583d06c9570f1.jpeg'
+date: Sun, 03 Oct 2021 15:01:05 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/264/668/original/03e04a4cc77ea591.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[漫画] 鋼の錬金術師 第19巻（荒川弘）<br>投稿日：2018.9.24<br>作品名：鋼の錬金術師<br>巻数　：第19巻<br>作家名：荒川弘<br>出版社：スクウェア・エニックス (2008/3/22)<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%AD%E3%82%BC" class="mention hashtag" rel="tag">#ロゼ</a><br><a href="https://pawoo.net/tags/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB" class="mention hashtag" rel="tag">#鋼の錬金術師</a><br><a href="https://www.a-legend.net/wordpress/?p=9459" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=9459</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/263/642/original/5d9583d06c9570f1.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【ブログ記事投稿しました】<br>[漫画] ドラゴンクエスト ダイの大冒険 新装彩録版 第05巻（三条陸 稲田浩司）<br>投稿日：2021.10.4<br>作品名：ドラゴンクエスト ダイの大冒険 新装彩録版<br>巻数　：第05巻<br>作家名：三条陸 稲田浩司<br>出版社：集英社<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%80%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA" class="mention hashtag" rel="tag">#ダイの大冒険</a><br><a href="https://pawoo.net/tags/%E3%83%AC%E3%82%AA%E3%83%8A" class="mention hashtag" rel="tag">#レオナ</a><br><a href="https://www.a-legend.net/wordpress/?p=11920" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=11920</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/264/668/original/03e04a4cc77ea591.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/039/264/671/original/89e0c04cd977306c.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
