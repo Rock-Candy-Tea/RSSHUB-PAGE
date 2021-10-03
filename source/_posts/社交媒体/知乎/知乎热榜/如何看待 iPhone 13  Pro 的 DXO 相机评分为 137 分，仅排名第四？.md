@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-ee0b9569c3eaac841fb38221186d29ae_1440w.jpg'
+headimg: 'https://pic3.zhimg.com/v2-0534cc6061c0b5a1b2754e97c5968f18_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 03 Oct 2021 07:01:21 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-ee0b9569c3eaac841fb38221186d29ae_1440w.jpg'
+date: Sun, 03 Oct 2021 07:52:46 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-0534cc6061c0b5a1b2754e97c5968f18_1440w.jpg'
 ---
 
 <div>   
-脑筋急转弯的回答<br><br><p>DXOMARK 的名声已经被自己玩残了，这个排名看看就好，认真你就输了。最新相机榜得分前三名分别是：</p><ul><li>华为 P50 Pro（144 分）</li><li>小米 11 Ultra (143 分) </li><li>华为 Mate40 Pro+(139 分)</li></ul><p>另外 DXOMARK 还公布了 iPhone 13 mini 的相机评分，其总评分为 130 分，排名 11 位，和上代的 iPhone 12 Pro Max 得分一致。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ee0b9569c3eaac841fb38221186d29ae_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1022" data-default-watermark-src="https://pic1.zhimg.com/v2-5cc3d0e464c7d7eeec76995c50251e15_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ee0b9569c3eaac841fb38221186d29ae_r.jpg" referrerpolicy="no-referrer"></figure><p>然并卵，苹果、华为、小米的用户好像互不兼容，尤其是苹果和华为、小米和华为之间。该买哪个还是买哪个，这些排名神马都是浮云。</p><p>影像表现非常出色的还有vivo X70 pro+和三星的S21 ultra：</p><blockquote>《Apple iPhone苹果手机全系列图片价格配置参数对比，iPhone13/12系列怎么选？》</blockquote><a href="https://zhuanlan.zhihu.com/p/262712127" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-1dcd0eebd5974f9c6acea488b9e70027_bh.jpg" data-image-width="650" data-image-height="434" class="internal">脑筋急转弯：Apple iPhone苹果手机全系列图片颜色价格配置参数对比 含iPhone12/13系列</a><p></p>  
+江枫的回答<br><br><p>今年2月份的时候，DXO又想给三星要钱——“三星啊，下周我们会公布你们的Galaxy S21 Ultra 音频、屏幕和摄像头的评分。”</p><p>三星很久没给这机构充值了，然后Galaxy S21 Ultra 相机评分 121 分，连前十都没进！</p><p>不充值，测试直接拿猎户座版本的机子，出来的分数比S20 Ultra的得分还低5分……</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-0534cc6061c0b5a1b2754e97c5968f18_1440w.jpg" data-rawwidth="1080" data-rawheight="1024" data-size="small" data-default-watermark-src="https://pic3.zhimg.com/v2-e001a095db6443ee0d3ee9984b160a2d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-0534cc6061c0b5a1b2754e97c5968f18_r.jpg" referrerpolicy="no-referrer"></figure><p>话说DXO这个机构，测试手机有两个“套路”——</p><ol><li>厂家花钱主动送测，同时要掏“测试费”，而且会得到该机构的“指引”！</li><li>厂家不主动送测，自己买来测。</li></ol><p>这两种测试出来的结果会放在一个所谓的榜单里。</p><p>现在这机构有手机的相机排行榜、音频排行榜、屏幕排行榜……甚至还搞出来个手机电池评分，还测松下、测尼康、测佳能、测索尼……路子是越来越野！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-02f656a96f70f680331fe15394dce4ee_1440w.jpg" data-rawwidth="1268" data-rawheight="764" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-099c2cce62fd6a38ba98981dd7ea5b37_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-02f656a96f70f680331fe15394dce4ee_r.jpg" referrerpolicy="no-referrer"></figure><p>苹果不需要这个机构来“评分”啊！</p><p>有些品牌，拿着DXO的高分做宣传确实是有用的，这个要承认。这评分再不严谨，榜单再野，只要手机品牌的受众群体认可，那就有用！</p><p>有些品牌没必要用这种榜单上的高分来营销，因为对销量没有任何帮助，甚至还会有反作用。</p><p></p>  
 </div>
             
