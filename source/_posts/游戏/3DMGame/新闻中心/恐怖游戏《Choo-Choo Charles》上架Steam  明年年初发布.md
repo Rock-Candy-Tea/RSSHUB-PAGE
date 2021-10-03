@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211003/1633225148_5836
 
 <div>   
 <p style="text-indent:2em;">
-近日，一款由Two Star Game工作室开发的恐怖游戏——《Choo-Choo Charles》正式上架Steam页面，该作计划将于2022年第一季度开始发售，暂不支持中文，感兴趣的可以点击此处进入商店页面。
+近日，一款由Two Star Game工作室开发的恐怖游戏——《Choo-Choo Charles》正式上架Steam页面，该作计划将于2022年第一季度开始发售，暂不支持中文，感兴趣的玩家可以<a href="https://store.steampowered.com/app/1766740/ChooChoo_Charles/#app_reviews_hash" target="_blank">点击此处</a>进入商店页面。
 </p>
 <p style="text-indent:2em;">
 <strong>游戏宣传片：</strong> 
