@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2018/07/Vimeo_00000.jpg'
 author: Blow Studio
 comments: false
-date: 2021-10-04 10:08:43
+date: 2021-10-04 11:07:19
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2018/07/Vimeo_00000.jpg'
 ---
 
