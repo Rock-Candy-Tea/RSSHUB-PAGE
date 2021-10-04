@@ -1,0 +1,18 @@
+
+---
+title: 'IEM秋季赛欧洲：A、B、C组中谁能获得MAJOR席位？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/03/6d9d79dfb6aa5b94aac3566061d9fa06/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 04 Oct 2021 02:01:57 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/03/6d9d79dfb6aa5b94aac3566061d9fa06/thumb.jpeg'
+---
+
+<div>   
+<h2>NIP和A队已经获得了MAJOR的席位，剩下的九个席位其中，有些会在今天产生。</h2><p>IEM秋季欧洲小组赛即将进入最后一轮。在24个队伍中，已经有三个队伍确认进入淘汰赛，分别是NIP、A队和哥本哈根火焰队。而又五支队伍已经无缘淘汰赛，他们分别是：Fnatic、AURA、Endpoint、MAD Lions和sprout。</p><p><img class="lazy" data-height="1800" src="https://imgheybox.max-c.com/bbs/2021/10/03/6d9d79dfb6aa5b94aac3566061d9fa06/thumb.jpeg" data-width="2880" referrerpolicy="no-referrer"></p><h4 class="img-desc">A队已经获得major席位</h4><p><img class="lazy" data-height="3266" src="https://imgheybox.max-c.com/bbs/2021/10/03/5f9d5834a82dcebe90b2d433f6d2f07a/thumb.jpeg" data-width="5801" referrerpolicy="no-referrer"></p><h4 class="img-desc">NIP已经获得major席位</h4><p>其他16支队伍将争夺剩下的9个席位。</p><p>对于这16支队伍来说，RMR积分排名是重中之重，这也意味着今天的比赛非常重要。所有这些都对队伍是否能够进入淘汰赛并有机会获得参加 Major 的资格有一些影响。</p><p>让我们看看剩下的队伍需要做到什么才能有机会进入PGL Major Stockholm。</p><p><img class="lazy" data-height="408" src="https://imgheybox.max-c.com/bbs/2021/10/03/6347dd05e761e5c0e548461109dab6d0/thumb.png" data-width="510" referrerpolicy="no-referrer"></p><h2>A组：</h2><h3>哥本哈根火焰队：</h3><p>已经进入淘汰赛。如果积分榜进入前六，就有可能进入major。</p><h3>G2：</h3><p>他们需要战胜mousesports，进入淘汰赛并获得major席位。</p><p>如果输给mousesports，将在小组中排名第三，积分榜需要进入前11名才有资格打major。</p><h3>mousesports：</h3><p>如果战胜G2，就进入了淘汰赛并获得major席位。</p><p>如果输给G2，则需要BIG输给哥本哈根火焰队，才继续排名小组第三。如果AURA战胜FPX，mousesports也排名小组第三，或者与FPX、BIG打加赛。</p><h3>BIG：</h3><p>BIG最多获得第三名，需要G2战胜mousesports且BIG赢得哥本哈根火焰队。</p><p>如果输给了哥本哈根火焰队且FPX战胜AURA，则与mouz、FPX打加赛。</p><p>严格来说，他们不需要更多积分也有机会获得major席位。</p><h3>FPX：</h3><p>FPX无缘季后赛，只有一种方法进入前三：他们战胜AURA，G2战胜mouz，而哥本哈根火焰队战胜BIG。然后他们打加赛。</p><p>这是FPX获得Major资格的唯一途径。</p><p><img class="lazy" data-height="400" src="https://imgheybox.max-c.com/bbs/2021/10/03/1b4c626cc630d910da0d853030879c88/thumb.png" data-width="492" referrerpolicy="no-referrer"></p><h2>B组：</h2><h3>A队：</h3><p>A队也已经高枕无忧了。</p><h3>Sinners：</h3><p>他们战胜A队即进入淘汰赛。且有机会获得major席位。</p><p>如果输给A队，则需要Endpoint战胜Movistar Riders才能进入季后赛。而如果Movistar Riders和Heroic赢得比赛，则他们和Movistar Riders、Heroic打加赛。</p><h3>Heroic：</h3><p>战胜COL则排名小组前三，除非A队和movistar Riders都战胜对手。如果发生这种情况，则他们与Sinners、Movistar Riders打加赛。</p><p>他们RMR积分很高，保证了进入major的资格。</p><h3>Movistar Riders：</h3><p>他们需要战胜Endpoint才<b>有机会</b>进入季后赛。</p><h3>他们战胜Endpoint之后的可能性：</h3><ul><li>A队和COL战胜对手让Movistar进入季后赛</li></ul><ul><li>A队和Heroic战胜对手，则Heroic、Sinners和Movistar打加赛。</li></ul><ul><li>Sinners和Heroic战胜对手，使Movistar Riders排名第四。</li></ul><p>输掉比赛意味着他们将无缘淘汰赛，如果COL战胜Heroic，他们只能打加赛。</p><p>但如果Heroic击败COL，他们将被淘汰。</p><h3>COL：</h3><p>他们已经无缘季后赛，他们战胜Heroic，Endpoint战胜MR，才能进入前三。然后和Heroic、MR打加赛。</p><p>COL至少需要积分榜前11位才有机会获得major席位。</p><p><img class="lazy" data-height="390" src="https://imgheybox.max-c.com/bbs/2021/10/03/522a92ea3088bc51e23bffdb81bcd349/thumb.png" data-width="437" referrerpolicy="no-referrer"></p><h2>C组：</h2><h3>小蜜蜂：</h3><p>只要在另外两场比赛中的一场比赛中出现爆冷（S​​prout战胜ENCE或者MAD Lions战胜OG），小蜜蜂再<a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2259421" target="_blank">赢得与大眼</a>的比赛将使他们获得季后赛和major席位。</p><p>如果输给大眼，除非 MAD Lions和ENCE 赢得比赛，否则小蜜蜂将在第四名，在这种情况下，小蜜蜂、OG和大眼将进行加赛。</p><h3>ENCE：</h3><p>击败Sprout则进入淘汰赛，除非小蜜蜂和OG都赢了，这意味着打加赛。</p><p>即使在大眼击败小蜜蜂的情况下他们输了，他们仍然会进入淘汰赛，如果小蜜蜂获胜，他们至少会排名第三。</p><h3>OG：</h3><p>赢得MAD Lions则进入淘汰赛，除非小蜜蜂和ENCE赢了对手，这意味着他们要打加赛。</p><p>如果Sprout战胜ENCE，即使OG输了，也会进入季后赛，而如果ENCE和小蜜蜂获胜，OG排在第三位。</p><p>最后，如果 MAD Lions、大眼和ENCE获胜，则小蜜蜂、OG 和大眼之间的加赛将获得第二至第四名。</p><h3>大眼：</h3><p>他们无法直接获得淘汰赛席位，但有一种情况，他们打加赛可能会获得第二名。</p><p>输给小蜜蜂将淘汰。</p><p>战胜小蜜蜂将使他们在所有情况下都排在第三位，当MAD Lions和ENCE各自战胜对手时，这将导致 小蜜蜂、OG 和大眼之间的加赛。</p>  
+</div>
+            
