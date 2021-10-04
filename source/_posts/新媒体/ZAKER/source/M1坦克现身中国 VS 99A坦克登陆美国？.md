@@ -1,0 +1,18 @@
+
+---
+title: 'M1坦克现身中国 VS 99A坦克登陆美国？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbe_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 03 Oct 2021 18:57:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbe_1024.jpg'
+---
+
+<div>   
+<p>第 13 届珠海航展 3 日刚闭幕，各方媒体都在总结这次航展上的收获。除了引起外界密切关注的歼 -20 隐形战斗机、歼 -16D 电子战飞机、攻击 -11 无人机、彩虹 -6 无人机等 " 大家伙 " 之外，老司机意外发现，还有一个不起眼的地面装备引起了美国媒体的好奇。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbe_1024.jpg" data-height="737" data-width="553" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbe_1024.jpg" referrerpolicy="no-referrer"></div></div>就是这辆看似普通的坦克靶车。<strong></strong><p></p><p>根据现场展板的介绍，这种 " 高速仿形智能靶车 " 是根据靶场环境开发的全地形线控底盘为基础，综合无人驾驶智能控制、多车编组、火力打击数据采集和分析等技术为核心开发的新型靶车，它可以在实弹实战训练、武器装备科研试验鉴定、作战试验鉴定、在役考核等得到应用，为参训部队、被试装备提供高相似度的模拟目标，从而提升和检验其实战化训练水平的模拟对抗系统；同时也可作为考核装备系统在实战化条件下对敌方目标的识别，跟踪和毁伤等能力的评估系统。</p><p>整车质量约 3 吨，长 9.75 米，宽 3.7 米，高 2.45 米，最高时速 54 公里，续航里程大于 200 公里，定位导航采用北斗 / GPS 复合模式，用手持终端遥控，遥控距离大于 5 公里。</p><p>为什么这种普通的遥控靶车会引起美国媒体的注意呢？关键就在于它的外形和涂装模拟了美国 M1A1" 艾布拉姆斯 " 坦克。美国《大众机械》网站注意到，虽然这辆坦克靶车并不使用履带驱动，而是依靠隐藏的轮胎驱动，同时还使用了美国在亚洲盟友中没有使用过的数码迷彩图案，但它具有与 M1 相同的炮塔和侧面轮廓，很容易在远处就被识别为 " 艾布拉姆斯 " 坦克。</p><p>报道提到，这种坦克靶车对于解放军的日常训练意义重大，因为台湾已经订购了超过 100 辆 M1A2T（T 代表台湾）" 艾布拉姆斯 " 坦克，其中第一辆坦克定于明年抵达。" 如果解放军入侵台湾，将近距离直面艾布拉姆斯坦克 "。</p><p>该网站还提到，就在中国珠海航展上展出模拟美国 M1A1 坦克的同时，美国社交媒体上也出现了一种模拟解放军 99A 式主战坦克的模型车。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbf_1024.jpg" data-height="392" data-width="554" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcbf_1024.jpg" referrerpolicy="no-referrer"></div></div>出现在美国的解放军 99A 主战坦克的全尺寸模型<p></p><p>报道称，一张据说拍摄于阿肯色州的高速公路上的照片显示，一辆拖车正装载解放军 99A 主战坦克的全尺寸模型，从后置的储油箱、楔形炮塔、横风传感器到炮手的红外观测装置一应俱全。报道称，虽然不排除该模型是某位收藏家的新 " 玩具 "，但由于这辆 " 坦克 " 似乎是由玻璃纤维和胶合板制成的外壳，可以安装在悍马车等小型车辆上进行移动，" 这是美国陆军为训练目的对敌对部队车辆进行所谓‘视觉修改’时的常用做法 "。虽然阿肯色州没有相关训练设施，但适合其发挥作用的美国陆军联合战备训练中心就设于邻州路易斯安那州。</p><p>《大众机械》网站由此得出结论，" 这两起看似巧合的事件，体现中美双方正针对潜在的战争进行实际准备，是‘令人不安的迹象’。"</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/615a6d698e9f0952575afcc0_1024.jpg" data-height="369" data-width="554" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/615a6d698e9f0952575afcc0_1024.jpg" referrerpolicy="no-referrer"></div></div>美国陆军用 " 悍马车 + 外壳 " 的方式模拟俄军 BRDM-2 装甲侦察车<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcc1_1024.jpg" data-height="316" data-width="553" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615a6d698e9f0952575afcc1_1024.jpg" referrerpolicy="no-referrer"></div></div>美国空军假想敌部队的中俄涂装方案<p></p><p>要老司机说，这可真是 " 只许州官放火，不许百姓点灯 "。美国在演习中利用模拟其他国家军队的装备外形进行针对性训练的做法，已经持续了数十年，就是在近年还不断传出美国空军假想敌部队喷绘中国或俄罗斯空军典型涂装的消息，以 " 尽量逼真模拟未来空战场景 "。美国军火巨头们更是多次在武器宣传片中 " 摧毁中俄军舰、战机或防空阵地 "。如果要说利用这样的模拟装备就意味着是 " 在为实际战争认真做准备 "，那老司机只能说，这充分证明早在数十年前，美国就在准备针对中国或俄罗斯的战争。那到底应该是谁在让谁不安呢？</p><p>如今当中国开始 " 摸着鹰酱过河 " 的时候，如果美国当真对此感到不安的话，请先认真检讨一下自己的做法。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
