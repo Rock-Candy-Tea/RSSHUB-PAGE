@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/most-popular-freehand-templates/'
 author: Inside Design
 comments: false
-date: 2021-10-03 15:08:28
+date: 2021-10-04 00:28:24
 thumbnail: 'https://www.invisionapp.com/inside-design/most-popular-freehand-templates/'
 ---
 
