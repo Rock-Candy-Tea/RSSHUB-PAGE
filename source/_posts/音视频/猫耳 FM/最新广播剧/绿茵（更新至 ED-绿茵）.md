@@ -1,0 +1,18 @@
+
+---
+title: '绿茵（更新至 ED-绿茵）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202110/03/7fa2bbe7802fa89113e1833f293aa4b1213951.jpg'
+author: 猫耳 FM
+comments: false
+date: Sun, 03 Oct 2021 13:40:22 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202110/03/7fa2bbe7802fa89113e1833f293aa4b1213951.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202110/03/7fa2bbe7802fa89113e1833f293aa4b1213951.jpg" referrerpolicy="no-referrer"><br><p>梁浮声社出品</p><p>@辰--文 原著 现代纯爱广播剧《绿茵》第一期</p><br><br><p>——制作组——</p><p>作者：辰文</p><p>策导：匆匆【梁浮声社】</p><p>编剧：百酉【梁浮声社】</p><p>后期：陆挽挽</p><p>后期修订：匆匆【梁浮声社】</p><p>题字：鱼贤【梁浮声社】</p><p>板绘：白木诗诗</p><p>美工：文无定期【梁浮声社】</p><br><p>——配音组——</p><p>贺廷之：不可思议的猕猴桃【辞归剧社】</p><p>贺凌：亦然【浮声绘梦】</p><p>报幕/贺父：光年【Always工作室】</p><p>马远峰：张艺要加油【笙笙入耳】</p><p>陈茵寻：长崎【琅声雅集】</p><p>男解说员：司辰【声演剧团】</p><p>女解说员：柚哈哈【柒上捌下工作室】</p><p>女乘务员：柚哈哈【柒上捌下工作室】</p><br><p>ED《绿茵》</p><p>选曲：《我的城池》-炊饭</p><p>策划：匆匆【梁浮声社】</p><p>填词：李牧鱼【梁浮声社】</p><p>歌手：不可思议的猕猴桃【辞归剧社】</p><p>      亦然【浮声绘梦】</p><p>混音：血殇Super</p><p>美工：乔木笙萧【聆星文化】</p>  
+</div>
+            
