@@ -1,0 +1,18 @@
+
+---
+title: '西高地需要美容吗？-快乐一癫的回答：我看了你发的两篇关于西高地软毛和硬毛的文章，难道我买到杂交的西高地了吗？照片上是我家3个月的西高地DD，买的时候软毛就...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/50/v2-d511be426f248976890458e47ea4ed21_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 05 Oct 2021 11:58:13 GMT
+thumbnail: 'https://pica.zhimg.com/50/v2-d511be426f248976890458e47ea4ed21_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>西高地需要美容吗？</strong><br>快乐一癫的回答<br><p></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-d511be426f248976890458e47ea4ed21_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="4000" data-rawheight="2250" data-default-watermark-src="https://pic2.zhimg.com/50/v2-8dbe7da7654128a1f0a2d645f8b2611a_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-d511be426f248976890458e47ea4ed21_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-d511be426f248976890458e47ea4ed21_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-98a630565342abe42256a9f9f3782ba5_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="2250" data-rawheight="4000" data-default-watermark-src="https://pic3.zhimg.com/50/v2-70e6a90e1aa26943478bf43ebcf80942_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-98a630565342abe42256a9f9f3782ba5_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-98a630565342abe42256a9f9f3782ba5_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-85d7d3cbe375cfdfd3b52973fcc0731e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="2250" data-rawheight="4000" data-default-watermark-src="https://pica.zhimg.com/50/v2-d3919b0e0b5ba0336f02ba475e308aa9_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-85d7d3cbe375cfdfd3b52973fcc0731e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-85d7d3cbe375cfdfd3b52973fcc0731e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-44f2a155598273a22bc348e586b94241_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5fcd1cf9f6672063e11e86ccd6bf0b13_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-44f2a155598273a22bc348e586b94241_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-44f2a155598273a22bc348e586b94241_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e471fc52ef89d48ec2ceb8a5db08941e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pic3.zhimg.com/50/v2-3c61bbecf6c8976d85f5d0620d0f1eae_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-e471fc52ef89d48ec2ceb8a5db08941e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e471fc52ef89d48ec2ceb8a5db08941e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>我看了你发的两篇关于西高地软毛和硬毛的文章，难道我买到杂交的西高地了吗？照片上是我家3个月的西高地DD，买的时候软毛就比硬毛贵很多，看了你的文章，说软毛是杂交的？心拔凉拔凉。。。 卖家说是双血统，让我6个月去换血统证明。请问有双血统证也不能保证是纯的西高地吗？。。 </p>  
+</div>
+            
