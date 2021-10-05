@@ -1,0 +1,19 @@
+
+---
+title: '设计师分享谷歌Pixel Fold折叠屏智能机概念渲染图'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1005/f044960a6c3c7db.jpg'
+author: cnBeta
+comments: false
+date: Tue, 05 Oct 2021 02:17:33 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1005/f044960a6c3c7db.jpg'
+---
+
+<div>   
+外界普遍预计 Google 会在 10 月 19 日正式推出搭载新一代 Android 12 移动操作系统 Pixel 6 / 6 Pro 智能机，并于一周后的 10 月 28 日开售。<strong>然而对于传说中配备 7.6 英寸柔性屏的 Pixel Fold 折叠屏智能机，还是有不少人期盼着它能够在 2021 年底前到来。</strong>为让大家“先睹为快”，荷兰科技博客 LetsGoDigital 特地携手平面设计师 Waqar Khan 带来了一组渲染图。<br>
+<p><img src="https://static.cnbetacdn.com/article/2021/1005/f044960a6c3c7db.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：<a href="https://nl.letsgodigital.org/opvouwbare-telefoons/google-pixel-fold/" target="_self">LetsGoDigital</a> | Waqar Khan）</p><p>渲染图揭示了与<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a> Galaxy Z Fold 3 的类似内外双屏设计，右上角采用了 Infinity-O 打孔屏前摄、屏幕边框相当厚实，但后摄模组又沿用了 Pixel 6 的设计风格。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/e4a82f7017541ce.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/e4a82f7017541ce.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>在完全伸展开来之后，用户将能够用上 7.6 英寸的“大平板”，辅以类似于三星 Galaxy Z Fold3 的隐藏式铰链。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=293077020&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: center;">Google Pixel FOLD - Introduction（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMjkzMDc3MDIwLnNodG1s.html" target="_self">via</a>）</p><p>顺道一提，Google 于 2021 年 9 月 23 日被美国专利商标局（USPTO）授予了一项“多轴软铰链机构和具有相同功能的可折叠设备”专利。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/da3ac1860b2e674.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/da3ac1860b2e674.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>这份 58 页的文档，详细描述了一种先进的铰链机制，特点是只会在设备处于折叠收纳状态时留有一个相当微小的接缝。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/b63cf07bdc17276.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/b63cf07bdc17276.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>有趣的是，Google 还在文档中介绍了一种翻盖式折叠屏设计。回到 Waqar Khan 设计的 Pixel Fold，其背部采用了三色设计，带有从机身突出并延伸至两边的长条后摄模组（甚至有个长焦镜头）。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/8164cb97216a79a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/8164cb97216a79a.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>去年，Google 透露其正在开发一款代号为“Passport”的折叠屏设备，并于今年 7 月揭晓了正在开发的设备的更多细节。随后 The Elec 与显示行业分析师 Ross Young 都提到了 7.6 英寸的柔性屏。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/52ddc95a44894df.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/52ddc95a44894df.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>外界普遍预计 Pixel Pixel 会从三星显示器公司订购 120Hz LTPO 柔性屏面板，辅以更耐碰撞和刮擦的超薄玻璃（UTG）保护层。</p><p><a href="https://static.cnbetacdn.com/article/2021/1005/23d564f90ed9038.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1005/23d564f90ed9038.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>据说 Pixel Fold 还会用上自研的 Tensor 芯片组，性能参考未经发布的 Exynos 9855 SoC，且配备了强大的人工智能（AI）与机器学习（ML）功能。</p>   
+</div>
+            
