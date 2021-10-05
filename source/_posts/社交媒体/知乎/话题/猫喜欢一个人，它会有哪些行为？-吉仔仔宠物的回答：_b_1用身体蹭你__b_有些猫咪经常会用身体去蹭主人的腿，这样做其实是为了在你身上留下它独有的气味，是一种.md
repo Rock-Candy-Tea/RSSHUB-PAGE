@@ -1,0 +1,18 @@
+
+---
+title: '猫喜欢一个人，它会有哪些行为？-吉仔仔宠物的回答：_b_1.用身体蹭你__b_有些猫咪经常会用身体去蹭主人的腿，这样做其实是为了在你身上留下它独有的气味，是一种...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-e51ec40abef6301578baf9d0fa072415_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 05 Oct 2021 08:46:35 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-e51ec40abef6301578baf9d0fa072415_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>猫喜欢一个人，它会有哪些行为？</strong><br>吉仔仔宠物的回答<br><h3><b>1.用身体蹭你</b></h3><p>有些猫咪经常会用身体去蹭主人的腿，这样做其实是为了在你身上留下它独有的气味，是一种接受你、认同你表现，这样再遇到别的猫咪，它们就会知道你是谁的人了。</p><p>同时猫咪蹭人也是在表达喜欢，在猫咪蹭你时，你可以用手摸摸它的小脑袋，猫咪通常都会很高兴的眯起眼睛享受爱抚。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e51ec40abef6301578baf9d0fa072415_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="810" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-e51ec40abef6301578baf9d0fa072415_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e51ec40abef6301578baf9d0fa072415_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><h3><b>2.和你一起睡觉</b></h3><p>猫咪粘着主人上床睡觉，是它对你信任和爱的表现。当猫咪对主人感情很深的时候，才会出现主动靠近主人的行为，尤其是在睡觉这件事上。</p><p>猫咪是属于自保心理很强的小动物，睡觉的时候总是喜欢安静不被打扰，只有猫咪对主人很信任，充满了安全感，才会上床和主人一起睡觉。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-a72482f3578f515293242f10c15d808b_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="452" data-rawheight="339" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-a72482f3578f515293242f10c15d808b_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-a72482f3578f515293242f10c15d808b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><h3>3.用舌头舔你</h3><p>在它们的世界里只有对自己最亲近的朋友才会用舌头去舔。与人类长期相处生活的猫咪，和家人之间也会慢慢培养出深厚的感情。</p><p>猫咪用舌头舔你是表示在它们心里你是值得信赖的人，它们用舔你的方式来表示对你的好感。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-ea47ae3b70fb0cb651a2a59c6179b0c9_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="640" data-rawheight="422" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-ea47ae3b70fb0cb651a2a59c6179b0c9_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-ea47ae3b70fb0cb651a2a59c6179b0c9_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><h3>4.对你翻肚皮</h3><p>肚子是猫咪最脆弱的部位，当它把自己身体上最柔软的地方展露给你的时候，那么说明它非常放心，不怕你对它造成伤害，把你当成了最亲的人。</p><p>另外，有时铲屎官在工作的时候，猫咪会优雅又高冷的走到你面前，然后突然躺倒，这时的它们是在向铲屎官宣泄自己无聊的情绪，想让铲屎官放下手中的工作陪它们玩耍。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e3bf74b6e6ea410bdfb567de7752f653_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="457" data-rawheight="343" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-e3bf74b6e6ea410bdfb567de7752f653_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e3bf74b6e6ea410bdfb567de7752f653_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><h3>5.送“小礼物”给你</h3><p>有些铲屎官们曾收到过来自猫咪的“小礼物”，比如死鱼、小鸟或者老鼠等，收到这些的你感动吗？大多网友表示：不敢动，一动都不敢动。</p><p>猫咪带来死掉的老鼠或小鸟给你，其实是在表示它对你的好感。这是猫咪觉得你不会狩猎，想要照顾你的一种心情。在猫咪的眼中，老鼠就是它们的食物，它们认为你捕不到食物，就开始担心你，亲自捕猎给你“加餐”。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-3ad672a4c930b1c781e58ccedb07706d_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1133" data-rawheight="744" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-3ad672a4c930b1c781e58ccedb07706d_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-3ad672a4c930b1c781e58ccedb07706d_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure>  
+</div>
+            
