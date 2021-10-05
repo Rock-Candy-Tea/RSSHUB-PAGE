@@ -1,0 +1,19 @@
+
+---
+title: '微软 Win11 正式版发布，Dev 预览版也迎来 Build 22471 更新'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://picsum.photos/400/300?random=5072'
+author: IT 之家
+comments: false
+date: Mon, 04 Oct 2021 22:55:22 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5072'
+---
+
+<div>   
+<p data-vmark="436e"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 5 日消息 微软今日开启了 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Win11</a> 正式版的推送，对于很多已经升级到 Win11 Dev 预览版的用户，微软今日也一同推出了 <span class="accentTextColor">Build 22471 版本更新</span>，带来了众多补丁修复。</p><h2 data-vmark="e709">改进：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="e232">为了更好地说明 TabletInputService 多年来的用途，微软将其重命名为 TextInputManagementService。</p></li></ul><h2 data-vmark="dbf7">修复：</h2><p data-vmark="1f93"><strong>任务栏：</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="4a89">修复了一个潜在问题，该问题导致任务栏的隐藏图标弹出有时是锐角而不是圆角。</p></li><li><p data-vmark="299f">在与桌面弹出式按钮的关联菜单交互时使用向下箭头，现在应该将焦点向下移动到菜单，而不是取消它。</p></li></ul><p data-vmark="f30f"><strong>文件资源管理器：</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="5d52">修复了关闭文件资源管理器窗口时导致 explorer.exe 崩溃的问题。</p></li></ul><p data-vmark="747a"><strong>输入：</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="12e3">解决了一个问题，即语音输入可能会失败，并显示一条错误消息，其中引用了网络连接问题，而这实际上并不是失败的原因。</p></li><li><p data-vmark="83e4">如果用户在日语输入法的“假名”按键模式下使用触摸键盘，按键标签现在将正确显示按住 Shift 键时输入的字符。</p></li><li><p data-vmark="12f4">缓解了导致 textinputhost.exe 有时在启动时崩溃的争用条件。</p></li></ul><p data-vmark="f0db"><strong>窗口：</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="aab6">从“运行”对话框中键入 wt 将在前台而不是后台打开 Windows Terminal。</p></li><li><p data-vmark="9f1d">解决了在断开外部显示器并从系统睡眠中恢复后，可能导致应用程序陷入最小化状态的问题。</p></li></ul><p data-vmark="79b8"><strong>其他：</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="51a1">为运行某些流量优化软件的内部人员解决了一个网络问题，可提高使用 HTTP/3 的网站的性能。</p></li><li><p data-vmark="c125">修复了某些设备无法更新到更新版本的问题，错误代码为 0xc1900101。</p></li><li><p data-vmark="c588">将 Windows Update 的“需要重新启动”对话框更新为 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Windows 11</a>（在下一次更新生效）。</p></li><li><p data-vmark="3b61">修复了启用对比主题时可能发生的 DWM 崩溃。</p></li><li><p data-vmark="a8d3">修复了 ARM64 电脑的一个问题，该问题可能导致某些应用程序在升级到 Windows 11 之前安装时无法响应显示语言的更改。</p></li><li><p data-vmark="19c5">解决了从提升的进程启动 explorer.exe 时使用较低内存优先级的问题，这会影响其后启动的所有进程的性能。</p></li></ul><h2 data-vmark="92c8">已知问题：</h2><p data-vmark="48f5"><strong>常规：</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="4cc5">使用最新的 ISO 从版本 22000.xxx 或更早版本更新到更新的开发人员渠道的用户可能会收到错误警告；</p></li><li><p data-vmark="2351">屏幕和睡眠超时时间可能会缩短，正在调查该问题对能源消耗的潜在影响。</p></li></ul><p data-vmark="2b48"><strong>开始菜单：</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="b3c5">在某些情况下，使用“从开始搜索”或任务栏时可能无法输入文本。如果遇到此问题，请按键盘上的 WIN+R 以启动“运行”对话框，然后将其关闭。</p></li><li><p data-vmark="0800"><strong>任务栏：</strong></p></li><li><p data-vmark="8a9a">切换输入法时，任务栏有时会闪烁。</p></li><li><p data-vmark="2e23">正在调查有关通知中心无法启动状态的报告，如果受此影响，重新启动 explorer.exe 可能会解决问题。</p></li></ul><p data-vmark="75ef"><strong>搜索：</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="1dae">单击任务栏上的搜索图标后，搜索面板可能无法打开。如果出现这种情况，请重新启动“Windows 资源管理器”进程，然后再次打开搜索面板；</p></li><li><p data-vmark="3679">搜索面板可能显示为黑色，并且在搜索框下方不显示任何内容。</p></li></ul><p data-vmark="6250"><strong>小部件：</strong></p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="f523">小部件板可能会显示为空。要解决此问题，用户可以注销，然后重新登录；</p></li><li><p data-vmark="42da">小部件可能在外部监视器上以错误的大小显示。如果遇到这种情况，用户可以先通过触摸或 WIN+W 快捷方式在实际 PC 显示器上启动小部件，然后在辅助显示器上启动。</p></li></ul><p data-vmark="4031">IT之家了解到，今日 Win11 正式版发布后，Dev 分支的 Insider Preview Builds 中提到的一些修复可能会进入 Windows 11 正式版的服务更新中。</p>
+          
+</div>
+            
