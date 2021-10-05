@@ -19,6 +19,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211005/S8df742f1-9c17-45ae-825e-cab
 <p><strong>2、购买符合免费升级条件的Windows 10电脑；</strong></p>
 <p><strong>3、使用<a class="f14_link" href="https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck" target="_blank">PC Health Check</a>应用程序检查你当前的Windows 10 PC是否符合免费升级的条件。</strong></p>
 <p>如果你现在用的是Windows 10，可以使用PC Health Check应用程序检查您的设备是否符合升级条件（即满足Windows 11的最低系统要求）。</p>
+<p><a class="f14_link" href="https://news.mydrivers.com/1/787/787295.htm" target="_blank">Windows 11今日推送！安装方法、ISO镜像下载都在这里</a></p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20211005/8df742f1-9c17-45ae-825e-cab824888c51.png" target="_blank"><img alt="Windows 11正式版今日推送！免费升级方法、最低系统要求公布" h="428" src="https://img1.mydrivers.com/img/20211005/S8df742f1-9c17-45ae-825e-cab824888c51.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p>打开Windows 更新设置（设置>更新和安全> Windows 更新）并选择检查更新，查看设备是否已经可以升级到Windows 11。</p>
 <p>如果你的设备符合条件且升级准备就绪，则会出现下载和安装选项，只需选择下载并安装即可。</p>
