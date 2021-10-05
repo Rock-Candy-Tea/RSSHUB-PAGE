@@ -1,0 +1,19 @@
+
+---
+title: '4 EUV工艺首发、100万神经元 Intel发布二代神经拟态芯片Loihi 2'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/10/fb2ccb3cb7fd9ff.jpg'
+author: cnBeta
+comments: false
+date: Tue, 05 Oct 2021 00:05:03 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/10/fb2ccb3cb7fd9ff.jpg'
+---
+
+<div>   
+通过芯片模拟人类神经乃至大脑，一直是科学家的梦想。现在，Intel正逐步实现这一梦想。近日，<strong>Intel发布了第二代神经拟态芯片“Loihi 2”，首发采用Intel 4工艺(大致相当于台积电4nm)，面积之小可以放在指尖上，但集成了多达100万个神经元，是上一代的8倍，性能也提升了足足10倍。</strong><br>
+<p>同时，Intel还发布了<strong>用于开发神经启发应用的开源软件框架Lava</strong>，标志着Intel在先进神经拟态技术上不断取得进展。</p><p><a href="https://static.cnbetacdn.com/article/2021/10/fb2ccb3cb7fd9ff.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/fb2ccb3cb7fd9ff.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2021/10/6fad83ab89aaec9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/6fad83ab89aaec9.jpg" referrerpolicy="no-referrer"></a></p><p>2018年1月，Intel发布了第一款能够进行自主学习的神经拟态芯片Loihi，可以像人类大脑一样，通过脉冲或尖峰传递信息，自动调节突触强度，通过环境中的各种反馈信息，进行自主学习、下达指令。<br></p><p>Loihi基于Intel 14nm工艺，核心面积60平方毫米，包含128个神经形态的核心(Neuromorphic Core)、三个低功耗x86核心，集成12.8万个神经元、1.28亿个触突，每个神经元有24个变量状态。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/fa8f2841a37d6a4.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1005/fa8f2841a37d6a4.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1005/fa8f2841a37d6a4.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/ab0342fe1cb2623.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1005/ab0342fe1cb2623.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1005/ab0342fe1cb2623.jpg" referrerpolicy="no-referrer"></a></p><p>Intel Loihi 2整合了过去三年Intel使用第一代研究芯片的丰富成果，并充分利用了Intel先进制造工艺、异步时钟设计模式的进展。</p><p><strong>它采用了预生产版本的Intel 4制程节点，证明其进展良好，而且加入了EVU极紫外光刻技术，可以简化布局设计规则，也使得芯片面积仅为31平方毫米，而且能效更高。</strong></p><p>集成<strong>230亿个晶体管、128个神经形态核心(每核心缓存从208KBKB降至192KB)、六个低功耗x86核心</strong>，为简化与传统系统的集成还具有 10GbE、GPIO、SPI接口。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/f5610e4522f23e7.png"><img data-original="https://static.cnbetacdn.com/article/2021/1005/f5610e4522f23e7.png" src="https://static.cnbetacdn.com/thumb/article/2021/1005/f5610e4522f23e7.png" referrerpolicy="no-referrer"></a></p><p>Loihi 2的新架构支持新型神经启发算法和应用，<strong>每个芯片最多有100万个神经元、1.2亿个突触，最高可分配1096个变量状态，因此可提供高达10倍于上代的处理速度。</strong></p><p>它还支持三因素学习规则与、出色的突触(内部互连)压缩率，内部数据交换更快，并具备支持与内部突触相同类型压缩率的片外接口，可用于跨多个物理芯片扩展片上网状网络。</p><p><strong>Intel不会对外公开销售Loihi 2，而是继续面向Intel神经形态研究社区，还会打造八芯片的Kapoho Point系统。</strong></p><p><a href="https://static.cnbetacdn.com/article/2021/10/25f0b43e65414bd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/25f0b43e65414bd.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/82f8b997ab7c26f.png"><img data-original="https://static.cnbetacdn.com/article/2021/1005/82f8b997ab7c26f.png" src="https://static.cnbetacdn.com/thumb/article/2021/1005/82f8b997ab7c26f.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/97bc0c3b3fe23cc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1005/97bc0c3b3fe23cc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1005/97bc0c3b3fe23cc.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1005/522d7b4ecd5b9ed.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1005/522d7b4ecd5b9ed.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1005/522d7b4ecd5b9ed.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

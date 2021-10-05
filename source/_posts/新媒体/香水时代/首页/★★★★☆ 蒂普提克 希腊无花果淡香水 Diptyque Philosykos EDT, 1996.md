@@ -5,16 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=952'
+headimg: 'https://picsum.photos/400/300?random=533'
 author: 香水时代
 comments: false
-date: Fri, 12 Mar 2021 14:39:38 GMT
-thumbnail: 'https://picsum.photos/400/300?random=952'
+date: Fri, 31 Jul 2020 11:54:47 GMT
+thumbnail: 'https://picsum.photos/400/300?random=533'
 ---
 
 <div>   
-属于初见杀，第一次闻到感叹于有如此美好柔软的味道，第二第三次逐渐下头，和另外几支层次更加丰富的无花果比较下来，初见的惊艳更是一去不复返，橡皮泥的印象反而越来越深
-
-但第一眼印象太好，还是值得高分  
+青绿椰奶香，很还原无花果给人的感觉，和maison incens的一款无花果有点相像。但如果是为了椰奶而来的还是算了，青绿感真的很强而且一直萦绕其中/  
 </div>
             

@@ -21,17 +21,17 @@ thumbnail: 'https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-8.jpg
 <p>ISIS组织目标是楠格哈尔省（东部）中部的贾拉拉巴德市的阿富汗政府军——大约一个月前由塔利班运动组建，袭击事件造成安全人员和平民伤亡。</p>
 <p>后来，塔利班部队在贾拉拉巴德开展了清查行动，逮捕了所谓的袭击事件幕后黑手。</p>
 <p>有关安全方面消息，俄罗斯媒体报道称，俄罗斯驻阿富汗首都喀布尔大使馆总部附近在周五发生枪击事件，并指出，此举很可能是为了将某人从大使馆带走。</p>
-<p><img class="aligncenter size-arc-image-770 wp-image-224536" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-8.jpg?w=770&resize=770%2C433" data-recalc-dims="1" referrerpolicy="no-referrer"></p>
+<p><img class="aligncenter size-arc-image-770 wp-image-224536" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-8.jpg?w=770&resize=770%2C433" alt data-recalc-dims="1" referrerpolicy="no-referrer"></p>
 <h3>援助金</h3>
 <p>有关人道主义方面消息，联合国表示，在成员国承诺帮助阿富汗的 12 亿美元中，其只收到了 1.35 亿美元。</p>
 <p>联合国敦促捐助者加快资金支付，以满足阿富汗日益增长的人道主义需求。</p>
 <p>另一方面，阿富汗驻利雅得大使馆表示，沙特政府同意允许“阿丽亚娜”阿富汗航空公司运营从沙特王国飞往喀布尔的“特殊”航班，旨在帮助因新冠大流行而无法返回家园的阿富汗人。</p>
-<p><img class="aligncenter size-arc-image-770 wp-image-224538" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-1-2.jpg?w=770&resize=770%2C433" data-recalc-dims="1" referrerpolicy="no-referrer"></p>
+<p><img class="aligncenter size-arc-image-770 wp-image-224538" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-1-2.jpg?w=770&resize=770%2C433" alt data-recalc-dims="1" referrerpolicy="no-referrer"></p>
 <h3>反恐</h3>
 <p>在华盛顿，美国国防部副部长凯瑟琳·希克斯表示，美国在从阿富汗撤军后将继续致力于打击恐怖主义。</p>
 <p>在与美国战略与国际研究中心的一次会议上，希克斯表示，与世界上许多地区的情况不同，该任务不会以美军在阿富汗的存在为基础。</p>
 <p>美国国防部副部长强调，ISIS组织不会对美国构成物理威胁，并指出，华盛顿将继续专注于确保基地组织无法针对美国人。</p>
-<p><img class="aligncenter size-arc-image-770 wp-image-224540" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-3-1.jpg?w=770&resize=770%2C433" data-recalc-dims="1" referrerpolicy="no-referrer"></p>
+<p><img class="aligncenter size-arc-image-770 wp-image-224540" src="https://chinese.aljazeera.net/wp-content/uploads/2021/10/image-3-1.jpg?w=770&resize=770%2C433" alt data-recalc-dims="1" referrerpolicy="no-referrer"></p>
 <h3>与巴基斯坦塔利班对话</h3>
 <p>另一方面，巴基斯坦总理伊姆兰·汗周五透露，他的政府正在与阿富汗境内的巴基斯坦塔利班运动派系举行会谈，以寻求和解与和平。</p>
 <p>伊姆兰·汗在接受土耳其广播电视公司新闻频道TRT采访时表示，如果巴基斯坦塔利班放弃武器，他们将融入社会，并补充说，阿富汗塔利班对目前的对话正提供帮助。</p>
