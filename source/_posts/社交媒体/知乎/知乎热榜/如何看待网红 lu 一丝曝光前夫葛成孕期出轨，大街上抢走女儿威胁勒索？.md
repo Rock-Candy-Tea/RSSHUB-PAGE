@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-3b4fd9846818c203107819f4bfebf5c3_1440w.jpg'
+headimg: 'https://pic4.zhimg.com/v2-55058404ec15db36ace355480b0fc261_720w.jpg'
 author: 知乎
 comments: false
-date: Tue, 05 Oct 2021 11:48:09 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-3b4fd9846818c203107819f4bfebf5c3_1440w.jpg'
+date: Tue, 05 Oct 2021 14:46:31 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-55058404ec15db36ace355480b0fc261_720w.jpg'
 ---
 
 <div>   
-卓天浪人的回答<br><br><p>这文章太长了，一时半会看完有点烧脑，再说了，怕是大多知友都不晓得这个人</p><p>刚才去微博看了下原文，吓得我一哆嗦，评论区各种人层出不穷，支持的有，存疑的也有，目前还没有跟进新消息，只不过两边互相掐撕的情节倒是不少</p><p>知友们最近吃瓜也吃的够多了，各式各样的挨个排着队来送货上门，从一开始的群情激奋到如今的麻木不仁，不能怪网友们漠不关心，是如今网络可信的信息太少了，刚才还看到大老虎在一个问题下称找不到问题描述的文件，问题信息可信度极低</p><p>再加上，之前都是各种娱乐圈的瓜，哪一个不都是深水炸弹</p><p>有网友还在说</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3b4fd9846818c203107819f4bfebf5c3_1440w.jpg" data-rawwidth="1476" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-e70f39e85d201fa10ab91763f54b2e75_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-3b4fd9846818c203107819f4bfebf5c3_r.jpg" referrerpolicy="no-referrer"></figure><p>这个瓜，还是先不吃为妙</p><p>这个瓜，不吃也罢</p><p>我们这些群众，白白地把流量贡献了出去</p><p>害，这年头</p><p>网红也想来割我们这些韭菜，一茬又一茬，生怕自己来晚了</p><p>对于那些长篇大论的小作文，知友们还是比较理性对待的，微博评论区我是看不下去了</p>  
+黄龙洞金正峰的回答<br><br><p><b>借用豆瓣网友的一句话来说就是：</b></p><p><b>「一开始以为是人间白富美不懂人间险恶，现在发现是我不懂人间真情」</b></p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-55058404ec15db36ace355480b0fc261_720w.jpg" data-rawwidth="400" data-rawheight="400" data-size="small" data-default-watermark-src="https://pic1.zhimg.com/v2-eb0761a814391f1918e9036016c5bb99_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p><b>表面上：</b>女方发现男方出轨后火速离婚，</p><p><b>实际上：</b>用单身独立女性带孩子的人设吃流量红利；</p><p><b>表面上：</b>已离婚</p><p><b>实际上：</b>离婚不离家，两人依然在一起；</p><p><b>表面上：</b>说男方抢孩子，拿不雅视频威胁她，希望被迫害的女孩子联手</p><p><b>实际上：</b>女方想获得舆论支持，争取离婚的有利条件</p><p>整个互联网流量的财富密码都让她掌握了，不愧是头部美妆博主。</p><p>所以说，孩子被抢了还是报警吧</p><p>夫妻双方有什么矛盾还是法院见吧。</p><h2><b>看了一圈下来，还是孩子最无辜。</b></h2>  
 </div>
             

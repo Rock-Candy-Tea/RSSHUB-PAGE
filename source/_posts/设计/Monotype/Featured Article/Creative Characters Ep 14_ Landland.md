@@ -329,10 +329,6 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
         <p><span><span><span>You know a Landland print when you see it—the combination of linework, color, and especially lettering is truly unique and lends incredible depth and detail to the work. For the lettering, in particular, Dan draws inspiration from roadside gas stations, neon signage, and other “junk fortresses” he encounters on road trips throughout the country. A lot of Landland’s aesthetic centers around those forgotten corners of society, the abandoned gas stations, rest stops, and other relics of lived lives. </span></span></span></p>
 
 <p><span><span><span>All of this comes together in a screenprinting process that has evolved over time to combine Jes’ delicate watercolors and Dan’s intricate linework. </span></span></span>“Screen printing it, it just beats problem-solving into you,” Black says, deftly summarizing his and Jes’ years of test prints, “flukes,” and other assorted humbling experiences. “There’s always something that like makes you feel like you suck at it really bad. But [we’ve] been doing this long enough that all the lower-level problems are pretty diagnosable. Now we’re just onto the bigger scale ones.”</p>
-
-<p> </p>
-
-<p> </p>
             </div>
           </div>
 
@@ -349,6 +345,9 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
   
       <div class="marketo-wrapper" id>
               
+  <h2 class="marketo-main-title">
+    Listen to the episode:
+  </h2>
                               <div class="marketo-embed-code">
             <iframe src="https://open.spotify.com/embed/episode/6vz7OUUhQuTx0mV0bqGSHp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </div>
