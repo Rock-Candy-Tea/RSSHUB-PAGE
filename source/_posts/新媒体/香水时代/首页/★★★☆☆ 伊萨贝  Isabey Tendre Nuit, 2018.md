@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6616'
+headimg: 'https://picsum.photos/400/300?random=3789'
 author: 香水时代
 comments: false
 date: Mon, 09 Aug 2021 02:33:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6616'
+thumbnail: 'https://picsum.photos/400/300?random=3789'
 ---
 
 <div>   

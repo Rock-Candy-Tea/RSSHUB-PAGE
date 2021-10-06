@@ -1,0 +1,19 @@
+
+---
+title: 'Netflix用户称观看《鱿鱼游戏》时应设置_英文字幕_  而非_英文隐藏字幕_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1006/239250a0440742d.png'
+author: cnBeta
+comments: false
+date: Wed, 06 Oct 2021 04:40:03 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1006/239250a0440742d.png'
+---
+
+<div>   
+据外媒CNET报道，<strong>最近韩剧《鱿鱼游戏》(Squid Game)火爆全球，这部惊悚悬疑电视剧是Netflix推出的最成功的非英语剧集之一。</strong>据Netflix联合首席执行官Ted Sarandos表示，这部以生死逃杀游戏为特色的悬疑剧正在超越《布里奇顿》，有望成为Netflix有史以来最受欢迎的剧集。<br>
+<p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1006/239250a0440742d.png" alt="V&#123;Y13`PPLW0G)MH]6%BBULX.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">然而，一些观众注意到韩语到英语的翻译存在明显差异。据一位观众说，根据用户的Netflix设置，英文字幕可能会在翻译中丢失一些东西，以至于变得非常“糟糕”，改变了节目的含义。</p><p style="text-align: left;">那么，Netflix用户应该使用什么设置呢？</p><p style="text-align: left;">简而言之，如果用户想要"大幅改善"的英文字幕，最后使用 “英文”（English）这一设置。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1006/46608fcac3bc8ba.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1006/46608fcac3bc8ba.png" alt="TMU`HK8]7IFZM0K~8KMTD&#123;J.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">另一个英语选项是 “英文隐藏字幕（English [CC]）”，许多人指出这并不提供详细的翻译。</p><p style="text-align: left;">这两者有什么区别呢？</p><p style="text-align: left;">英文隐藏字幕是专门为有听力障碍或失聪的人准备的。"根据美国全国聋人协会的说法，“字幕不仅显示文字，作为口头对话或叙述的文本等同物，而且还包括说话人的识别、声音效果和音乐描述。”</p><p style="text-align: left;">基本上，英文字幕和英文隐藏字幕之间的区别是，隐藏字幕设置提供声音描述，如喘息声，并提示谁在说话。它们通常是自动生成的，根据一位观众的说法，在《鱿鱼游戏》的案例中，它们更接近英文配音而不是英文字幕。</p><p style="text-align: left;">《鱿鱼游戏》的中心是一场生死逃杀游戏，来自不同社会阶层的456名绝望的玩家为改变生活的456亿韩元奖金而竞争。</p><p style="text-align: left;">Twitter上的一个病毒性话题深入探讨了英文隐藏字幕的翻译是如何去改变节目的意义的。</p><p style="text-align: left;">共同主持Feeling Asian播客的Youngmi Mayer上周讨论了人们在英文隐藏字幕翻译中遗漏的内容。</p><p style="text-align: left;">Mayer写道：“不是为了自命不凡，但我精通韩语，我看了带英文字幕的《鱿鱼游戏》，如果你不懂韩语，你就没有真正看同样的节目。翻译太糟糕了。台词是写得如此之好，但没有被保留下来。”Mayer在TikTok上展示了一个场景分解，以说明一些丢失的含义。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1006/ee7436676b63f01.png" alt="Y9JXDQNQR3&#125;YL_EKG4NQHY9.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">在一个场景中，自称是贫穷的单亲母亲的女人Han Mi-nyeo试图说服人们和她一起玩这个游戏。英文隐藏字幕翻译说："我不是天才，但我仍然有办法解决？"Mayer说，正确的翻译是：“我非常聪明。我只是从未有机会学习。”</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1006/cc5912a7c2f5585.png" alt="W4Z4IRI]A@Z3SCI1N98VT71.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=293326704&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: left;">Mayer补充说："这是韩国媒体经常使用的比喻：聪明但并不富有的穷人。这是她性格的一个重要部分。她说的每一句话几乎都被翻译成了错误的语言......。编剧们，他们想让你知道的关于她的一切就是... （它）看起来如此不重要，但这是整个角色在剧中的目的。"</p><p style="text-align: left;">巨大的不同</p><p style="text-align: left;">Twitter用户@ADeVonJohnson提供了Netflix的英文字幕。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1006/71a7aa646f22eb3.png" alt="5.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">"你必须将你的Netflix设置改为英文字幕而不是英文隐藏字幕。这里是那场戏的屏幕截图，有英文字幕。(屏幕是黑色的，因为他们不允许截图，但字幕是通过的。)</p><p style="text-align: left;">Twitter用户@MrTimCat发现，隐藏字幕的翻译与英文配音一致。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1006/182ed6dcbfcad92.png" alt="6.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">"我发现你得到了不同的字幕，这取决于你是否选择了英文字幕或英文隐藏字幕（后者与配音的对话相匹配，而前者则有很大的不同）。"</p><p style="text-align: left;">据报道，Mayer后来澄清说，英文字幕比隐藏字幕"更胜一筹"。</p><p style="text-align: left;">虽然，Mayer补充说，"隐喻中的失误--以及无法展示编剧们想要实际表达的内容--仍然相当存在"。</p>   
+</div>
+            
