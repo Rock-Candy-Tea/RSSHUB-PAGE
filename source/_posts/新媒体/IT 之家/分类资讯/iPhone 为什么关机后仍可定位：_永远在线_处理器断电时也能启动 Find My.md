@@ -1,0 +1,19 @@
+
+---
+title: 'iPhone 为什么关机后仍可定位：_永远在线_处理器断电时也能启动 Find My'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/0b10f5fa-40f9-4365-b2c8-05810539c1b1.png'
+author: IT 之家
+comments: false
+date: Wed, 06 Oct 2021 05:46:30 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/0b10f5fa-40f9-4365-b2c8-05810539c1b1.png'
+---
+
+<div>   
+<p data-vmark="2264">苹果 iOS 15 上线后，最亮眼的功能莫过于 —— 关机也能定位。</p><p data-vmark="6c20"><img src="https://img.ithome.com/newsuploadfiles/2021/10/0b10f5fa-40f9-4365-b2c8-05810539c1b1.png" w="1080" h="722" title="iPhone 为什么关机后仍可定位：“永远在线”处理器断电时也能启动 Find My" width="1080" height="548" referrerpolicy="no-referrer"></p><p data-vmark="44ea">这意味着，如果你的 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 丢了或者被偷，即便是关机状态下也能找回。</p><p data-vmark="a271">那么它是如何做到的呢？</p><p data-vmark="d0f4">最近，一位黑客小姐姐对这一功能进行了揭秘，现在我们就来一起看看吧~</p><h2 data-vmark="8465">“永远在线”处理器</h2><p data-vmark="6993">能够实现这一功能，<span class="accentTextColor">关键在于苹果的一个处理器：Always-on Processor （AOP）</span>。</p><p data-vmark="c682">据苹果官方介绍，这是一款小型、低功耗辅助处理器。</p><p data-vmark="b2ba">它最大的特点就是可以“永远在线”，并几乎可以连接 iPhone 的所有芯片。</p><p data-vmark="0f9f">这使得它能够控制一部分芯片的电源，同时还能在需要唤醒 iOS 时充当一些芯片的透明代理。</p><p data-vmark="45f0">比如当我们把 iPhone 设置为睡眠状态时，拿起手机就能唤醒屏幕，靠的就是 AOP 来传递运动传感器的信号。</p><p data-vmark="a59e"><img src="https://img.ithome.com/newsuploadfiles/2021/10/1039a168-7cbe-45da-9dcf-8625baaec191.gif" w="640" h="350" title="iPhone 为什么关机后仍可定位：“永远在线”处理器断电时也能启动 Find My" width="640" height="350" referrerpolicy="no-referrer"></p><p data-vmark="9677">唤醒 Siri 也是同样的道理。</p><p data-vmark="6139">这样一来最大的好处就是，主处理器不用为了一些简单的功能而一直待命，从而大大降低能耗。</p><p data-vmark="b81c">一言蔽之，AOP 就是可以让许多程序通过它单独运行。</p><p data-vmark="b7fa"><img src="https://img.ithome.com/newsuploadfiles/2021/10/9ae65064-6aeb-4c5a-82b5-83d1369ccd00.png" w="1080" h="433" title="iPhone 为什么关机后仍可定位：“永远在线”处理器断电时也能启动 Find My" width="1080" height="329" referrerpolicy="no-referrer"></p><p data-vmark="d0da">因此用在查找定位上，AOP 可以说是刚好合适。</p><p data-vmark="392b">此前的 Find My 功能已经实现了在没有 WiFi、蜂窝数据的情况下，通过蓝牙和多跳网络让离线的设备向周围的 iOS 设备进行广播，只要周围有一台设备联网，即可发送丢失设备的定位信息。</p><p data-vmark="3847">AOP 能做的，就是在 iPhone 关机的情况下，控制一些基本电源和蓝牙芯片，然后重新启用 Find My。</p><p data-vmark="04ce">而 Find My 可以随时通过蓝牙向周围的 iPhone 发送位置信息报告位置。</p><p data-vmark="e7bf">目前在 iOS 15 中已经有了相关的补丁。</p><p data-vmark="350e">但是黑客小姐姐发现，她的 <a class="s_tag" href="https://ipad.ithome.com/" target="_blank">iPad Air</a> 2020 在安装补丁的情况下，没有在关机时弹出 Find My 的对话框。这可能是因为该功能支持的设备和芯片有所不同，未来苹果应该会加入更多的设备。</p><h2 data-vmark="004f">网友：赛博朋克来得也太快了</h2><p data-vmark="f8a8">AOP 的神奇也引起了网友们的惊呼连连：</p><blockquote><p data-vmark="c296">即使手机关机，芯片也能与其他芯片相连？赛博朋克来得也太快了吧</p></blockquote><p data-vmark="5788"><img src="https://img.ithome.com/newsuploadfiles/2021/10/cfa3ea7b-e6c3-4f35-bf54-f9c64b459fcc.png" w="1080" h="245" title="iPhone 为什么关机后仍可定位：“永远在线”处理器断电时也能启动 Find My" width="1080" height="186" referrerpolicy="no-referrer"></p><p data-vmark="47b5">黑客小姐姐表示，只要不是手机电池被拆除、手机被砸坏，AOP 就能一直工作下去。</p><p data-vmark="a304">但手机关机也能记录定位，不免再次引起人们对隐私的担忧。</p><p data-vmark="69a2">2017 年就有新闻曝光了美国中情局 CIA 通过三星电视监视窃听隐私。</p><p data-vmark="3baf">他们设置了一个“Fake Off（假关机）”模式，让电视屏幕显示关闭、前端 LED 显示灯变暗，从而让用户误以为电视已经关闭，但实际上却仍在运行当中黑客以此窃听用户并进行录音甚至录像。</p><p data-vmark="163d">对此，黑客小姐姐表示，如果你不想用 Find My，这个功能是可以关闭的。</p><p data-vmark="c679">而且她提到，使用蜂窝数据也可能把我们的位置暴露给移动运营商，在 Mac 随机变换地址的情况下 WiFi 也可能泄露你的定位……</p><blockquote><p data-vmark="839a">无论如何，智能手机都是人类跟踪设备。</p></blockquote><p data-vmark="fd07">参考链接：</p><p data-vmark="1834">[1]https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</p><p data-vmark="1d48">[2]https://twitter.com/naehrdine/status/1443679124556591107</p>
+          
+</div>
+            
