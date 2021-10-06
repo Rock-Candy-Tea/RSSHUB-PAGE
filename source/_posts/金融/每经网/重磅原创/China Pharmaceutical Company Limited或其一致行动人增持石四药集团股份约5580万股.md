@@ -5,11 +5,11 @@ categories:
  - 金融
  - 每经网
  - 重磅原创
-headimg: 'https://picsum.photos/400/300?random=399'
+headimg: 'https://picsum.photos/400/300?random=885'
 author: 每经网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=399'
+thumbnail: 'https://picsum.photos/400/300?random=885'
 ---
 
 <div>   
@@ -34,7 +34,7 @@ thumbnail: 'https://picsum.photos/400/300?random=399'
 
               <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA" class="typeTag tagColor2">香港特别行政区</a>
 
-              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=2005" data-stock-code="2005" class="typeTag tagColor1">石四药集团 <abbr class="lows">-2.3%</abbr> </a>
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=2005" data-stock-code="2005" class="typeTag tagColor1">石四药集团 <abbr class="lows">-2.5%</abbr> </a>
 
         </div>
         <!-- div class="typeTags">
