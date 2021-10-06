@@ -1,0 +1,18 @@
+
+---
+title: '宠物知道你是在照顾它吗_-八牧宠物医生的回答：_i__b_借用某位宠主的回答：_我不知道狗狗知不知道我是在照顾它，反正有生理需要的时候都会暗示我过去帮它做某些...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-59f60dee12aef620027f7648bd599e23_720w.gif?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 06 Oct 2021 08:37:56 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-59f60dee12aef620027f7648bd599e23_720w.gif?source=54b3c3a5'
+---
+
+<div>   
+<strong>宠物知道你是在照顾它吗?</strong><br>八牧宠物医生的回答<br><p><i><b>借用某位宠主的回答：“我不知道狗狗知不知道我是在照顾它，反正有生理需要的时候都会暗示我过去帮它做某些事。”比如：喝水、喂食等。</b></i></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-59f60dee12aef620027f7648bd599e23_720w.gif?source=54b3c3a5" data-size="normal" data-rawwidth="250" data-rawheight="240" data-thumbnail="https://pica.zhimg.com/50/v2-59f60dee12aef620027f7648bd599e23_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic1.zhimg.com/50/v2-59f60dee12aef620027f7648bd599e23_720w.gif?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>会摔碗的柴犬</figcaption></figure><a href="https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1Ax411d7WB%3Ffrom%3Dsearch%26seid%3D4462944278255160533%26spm_id_from%3D333.337.0.0" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-0f7535d80608c4c63316f527a30461ce_qhd.jpg?source=54b3c3a5" data-image-width="960" data-image-height="600" class=" wrap external" target="_blank" rel="nofollow noreferrer">蠢萌的柴犬，一但饿了就叼着碗霸气摔到主人面前：赶紧给吃的_哔哩哔哩_bilibili</a><p>在某种程度上，狗狗能读懂我们的感情，当我们和狗狗“交流时”，狗狗的表现让我们误以为它们似乎真的能听懂我们的意思，跟自己宠物相处时间久了就会发现，它们就像人一样，偶尔也能感觉到人声音中夹杂的情绪情感，情商高的宠物会做出回应，比如撒娇什么的。</p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-da4a9ece6bf234334c165b40e13cd55c_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="296" data-rawheight="296" data-default-watermark-src="https://pica.zhimg.com/50/v2-0414cc9ab08e20fee2ab403428042ebd_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pica.zhimg.com/50/v2-da4a9ece6bf234334c165b40e13cd55c_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>亲身经历：</p><blockquote>前几天夜里，总是听到狗子在咬自己的尾巴，拉开一看，原来是尾巴有块皮肤被他啃的流血结痂了，心疼的我立马拿着碘伏去给狗狗消毒，由于伤口溃烂，狗狗尾巴又是全身比较敏感的部位，所以一开始特别抗拒给它处理伤口，下意识就像哄小孩一样用轻柔的语气告诉它“没事不用怕，涂了药就会好啦~”此时的狗狗接收到我“解除危险的信号”，这才渐渐放松下来，让我帮它处理伤口。</blockquote><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-22b16e8ea98d9c464e4f03e9c4e1290e_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="289" data-rawheight="295" data-default-watermark-src="https://pic2.zhimg.com/50/v2-4361878c1407e214549f3f318d95a28e_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic3.zhimg.com/50/v2-22b16e8ea98d9c464e4f03e9c4e1290e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>之前在宠物医院接诊的时候经常会碰到不同性格不同种类的狗狗，主人带它们来医院检查看病，它们的反应也是让人哭笑不得。</p><blockquote>有些智商、主动性比较高的狗狗，知道自己身体不舒服了，来医院就是看病的，于是就很配合医生，检查过程很顺利。<br>但有些智商比较低的狗狗，拼死反抗，觉得进医院是在害他，反正就是宁死不屈。<br></blockquote><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-afa54ae5a1f1b24ebe36ac4f9487d687_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="640" data-rawheight="353" data-default-watermark-src="https://pic2.zhimg.com/50/v2-a63c21c4d1172ea17c2d437c301a04e5_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-afa54ae5a1f1b24ebe36ac4f9487d687_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-afa54ae5a1f1b24ebe36ac4f9487d687_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><hr><p></p><p></p>  
+</div>
+            
