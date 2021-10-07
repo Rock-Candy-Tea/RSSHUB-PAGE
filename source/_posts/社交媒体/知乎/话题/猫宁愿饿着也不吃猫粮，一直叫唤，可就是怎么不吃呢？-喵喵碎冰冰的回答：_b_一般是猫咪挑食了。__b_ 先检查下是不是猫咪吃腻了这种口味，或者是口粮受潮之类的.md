@@ -1,0 +1,18 @@
+
+---
+title: '猫宁愿饿着也不吃猫粮，一直叫唤，可就是怎么不吃呢？-喵喵碎冰冰的回答：_b_一般是猫咪挑食了。__b_ 先检查下是不是猫咪吃腻了这种口味，或者是口粮受潮之类的...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-c5389381e1649b181a6509c2b9362992_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Thu, 07 Oct 2021 13:17:14 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-c5389381e1649b181a6509c2b9362992_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>猫宁愿饿着也不吃猫粮，一直叫唤，可就是怎么不吃呢？</strong><br>喵喵碎冰冰的回答<br><p><b>一般是猫咪挑食了。</b><br> <br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-c5389381e1649b181a6509c2b9362992_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="787" data-rawheight="490" data-default-watermark-src="https://pic1.zhimg.com/50/v2-31adda74d36e7fd70e633324b82ca12e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-c5389381e1649b181a6509c2b9362992_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-c5389381e1649b181a6509c2b9362992_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br>先检查下是不是猫咪吃腻了这种口味，或者是口粮受潮之类的食物闻起来变味了？<br></p><p><br>如果都不是，可以考虑这几种方法：<br></p><p><br><b>一，更换投喂猫粮的地点</b><br>可能是猫咪吃饭的地方，靠近猫砂盆或很吵，影响到猫咪吃饭饭的情绪，可以试试把猫碗放到离猫砂盆远的地方，或者更加安静的环境里去。<br><br></p><p><br><b>二，禁食两三顿</b><br>禁食个两三顿，期间保证猫咪的喝水量，等猫咪饿够了，就会去吃了。<br><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-1a868adca153d99824dc8033a14d3d81_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="782" data-rawheight="483" data-default-watermark-src="https://pic3.zhimg.com/50/v2-cefefffccc31fd0238525e2f76ea93fd_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-1a868adca153d99824dc8033a14d3d81_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-1a868adca153d99824dc8033a14d3d81_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><b>三，在猫粮里混合猫咪爱吃的零食</b><br>例如猫条，罐头什么的，可能猫咪就是暂时的腻了， 想吃吃其他的东西，这个方法只能暂时用，不能长期这么来，养出坏习惯就不好了<br><br></p><p><b><br>四，及时看宠物医生<br></b><br>有可能是体内出现了寄生虫，如果在猫咪禁食两三顿，还是无法正常吃饭的话，就要及时带猫咪去正规的宠物医院看下是不是寄生虫在捣乱。<br></p><p><br><b>五，吃点带益生菌的猫粮</b><br>可能就是肠胃消化问题，吃不下。可以换下带益生菌的，含肉量高的，颗粒小的适口性好猫粮。<br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-e8d8df80ce4fe7e84674921ac3dc8226_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="803" data-rawheight="485" data-default-watermark-src="https://pica.zhimg.com/50/v2-fb7f6de2a52140631b79792815905769_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-e8d8df80ce4fe7e84674921ac3dc8226_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e8d8df80ce4fe7e84674921ac3dc8226_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><b>多猫家庭还可以多了解下其他猫粮牌子，多了解下其他牌子，有备无患~</b><br><br></p><a href="https://zhuanlan.zhihu.com/p/412495869" data-draft-node="block" data-draft-type="link-card" class="internal">喵喵碎冰冰：2021年首发：新手养猫不会选猫粮？附上15款高性价比国产放心猫粮推荐</a><p><br><b>不晓得怎么看猫粮成分表，可以看下这份：</b><br><br></p><a href="https://zhuanlan.zhihu.com/p/405959332" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-430cf2cc723d7f7d33bb19fd83686483_l.jpg?source=54b3c3a5" data-image-width="1080" data-image-height="1105" class="internal">喵喵碎冰冰：2021新手养猫入门指南：猫粮怎么选？新手选购猫粮和换粮的注意事项</a><p></p>  
+</div>
+            
