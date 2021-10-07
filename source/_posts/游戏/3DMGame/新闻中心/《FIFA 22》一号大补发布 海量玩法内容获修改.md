@@ -20,7 +20,7 @@ EA Sports今日发布《FIFA 22》超大规模补丁，对游戏进行全方位�
 玩法方面，游戏中的门将被削弱。之前门将面对禁区内打死角射门的扑救成功率实在太高，现已获得调整。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633573511_599880.jpg" alt="《FIFA 22》一号大补发布 海量玩法内容获修改" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633573511_599880.jpg" alt="《FIFA 22》一号大补发布 海量玩法内容获修改" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 门将在扑救巧射的过程中，动作会有变化，使其变得更接近真实运动员的反应，也让门将在扑救这种射门的时候成功率有轻微提升。
