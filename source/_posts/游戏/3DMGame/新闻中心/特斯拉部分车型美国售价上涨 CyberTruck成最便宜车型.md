@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211007/1633596715_3294
 当前，受芯片短缺和疫情的影响，海外不少汽车厂商，面临着无车可产可卖的窘迫境地。并且原材料也有不同程度的上涨，整车价格也同步被迫提升。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633596715_329420.png" alt="特斯拉部分车型美国售价上涨 CyberTruck成最便宜车型" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633596715_329420.png" alt="特斯拉部分车型美国售价上涨 CyberTruck成最便宜车型" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 虽然特斯拉的理念一直都是不断降低电动车的价格，来抢占更多燃油车的市场份额，但是在当前情况下，特斯拉也面临着涨价的挑战。
@@ -38,7 +38,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211007/1633596715_3294
 目前美国和中国是特斯拉最大的市场，特斯拉在位于加州弗里蒙特的工厂生产Model S、X、3和Y，中国上海工厂生产Model 3和Y，德州奥斯汀和柏林的新工厂正在建设中。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633596848_127672.jpg" alt="特斯拉部分车型美国售价上涨 CyberTruck成最便宜车型" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633596848_127672.jpg" alt="特斯拉部分车型美国售价上涨 CyberTruck成最便宜车型" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 值得一提的是，随着Model 3标准续航版的售价上涨，还未上市的入门级电动皮卡CyberTruck成为特斯拉旗下最便宜车型。马斯克曾在CyberTruck的发布会上透露，这款产品的售价为39990美元（约合人民币26万元）。

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://miro.medium.com/max/2000/1*K4FCX7goEtekfksg9ZOGdA.png'
 author: Dockone
 comments: false
-date: 2021-10-07 09:07:05
+date: 2021-10-07 10:08:18
 thumbnail: 'https://miro.medium.com/max/2000/1*K4FCX7goEtekfksg9ZOGdA.png'
 ---
 
@@ -56,6 +56,25 @@ minikube config set memory 12g<br>
 </pre><br>
 使用命令行选项<code class="prettyprint">-kubernetes-version</code>来部署特定版本的Kubernetes。不用这个标志的话，默认部署最新的版本。我需要部署一个较早的版本来满足我的需要。<br>
 以下是上述命令的输出，<br>
+<pre class="prettyprint">minikube v1.23.0 on Darwin 11.5.2<br>
+▪ MINIKUBE_ACTIVE_DOCKERD=minikube<br>
+  Using the hyperkit driver based on user configuration<br>
+  Starting control plane node minikube in cluster minikube<br>
+  Downloading Kubernetes v1.19.14 preload ...<br>
+> preloaded-images-k8s-v12-v1...: 470.78 MiB / 470.78 MiB  100.00% 6.17 MiB<br>
+  Creating hyperkit VM (CPUs=6, Memory=12288MB, Disk=20000MB) ...<br>
+  This VM is having trouble accessinghttps://k8s.gcr.io<br>
+  To pull new external images, you may need to configure a proxy:https://minikube.sigs.k8s.io/docs/reference/networking/proxy/<br>
+  Preparing Kubernetes v1.19.14 on Docker 20.10.8 ...<br>
+▪ Generating certificates and keys ...<br>
+▪ Booting up control plane ...<br>
+▪ Configuring RBAC rules ...<br>
+  Verifying Kubernetes components...<br>
+▪ Using image gcr.io/k8s-minikube/storage-provisioner:v5<br>
+  Enabled addons: storage-provisioner, default-storageclass❗  /usr/local/bin/kubectl is version 1.22.1, which may have incompatibilites with Kubernetes 1.19.14.<br>
+▪ Want kubectl v1.19.14? Try 'minikube kubectl -- get pods -A'<br>
+  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default<br>
+</pre><br>
 <blockquote><br>如果你在本地运行dnsmasq，在集群中可能会出现DNS解析失败。你可以卸载它或者在dnsmasq.conf中添加listen-address=192.168.64.1。更多信息可以在<a href="https://minikube.sigs.k8s.io/docs/drivers/hyperkit/">这里</a>找到。</blockquote>Kube Config的上下文已经设置好了。我们可以用 <code class="prettyprint">kubectl</code>来检查集群，如下所示，<br>
 <pre class="prettyprint">$ minikube kubectl get nodes<br>
 NAME       STATUS   ROLES    AGE    VERSION<br>

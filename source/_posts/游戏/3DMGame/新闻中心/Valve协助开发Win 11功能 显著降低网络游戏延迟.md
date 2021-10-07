@@ -21,7 +21,7 @@ Windows 11已于昨天推出正式版，Windows
 10用户可以免费升级。微软表示，新版操作系统里有一些可以提升游戏体验的功能，其中有一项对于喜欢玩网络游戏的玩家非常重要。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633591960_958536.jpg" alt="Valve协助开发Win 11功能 显著降低网络游戏延迟" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211007/1633591960_958536.jpg" alt="Valve协助开发Win 11功能 显著降低网络游戏延迟" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 微软与高通和Valve联手开发Wi-Fi Dual Station功能。在测试中，高通称这项功能可以减少四倍网络延迟。
