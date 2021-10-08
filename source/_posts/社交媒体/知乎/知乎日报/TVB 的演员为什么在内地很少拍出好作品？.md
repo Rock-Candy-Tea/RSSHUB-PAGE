@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-10-08 10:08:53
-thumbnail: 'https://pic2.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162'
+date: 2021-10-08 11:08:53
+thumbnail: 'https://pic3.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-ecbb214db1fb5b116dbb161ca014baca_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">柳絮池塘淡淡疯，</span><span class="bio">在逃一级注册建筑师</span>
 <a href="https://www.zhihu.com/question/41898767/answer/1262358957" class="originUrl" hidden>查看知乎原文</a>
 </strong>
