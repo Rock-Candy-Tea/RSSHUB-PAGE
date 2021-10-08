@@ -1,0 +1,19 @@
+
+---
+title: '不只是SUV，天津车展自主品牌依然是主角，这届国产新车有多强？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member9810/202110/01102359985859.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 08 Oct 2021 07:04:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member9810/202110/01102359985859.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">作为今年北方的汽车盛会，天津车展受到主机厂的高度重视。从目前了解到的信息显示，参展车企涵盖了主流平民、豪华合资和自主等品牌。今天我们就来盘点一下在天津车展中亮相的几款自主品牌的新车，看看有你喜欢的吗？</p><p style="text-indent: 2em; text-align: left;"><strong>博越X</strong></p><p style="text-indent: 2em; text-align: left;">新车采用了“能量风暴”的全新设计，融入了更多运动元素，整体看上去更加时尚年轻运动。前脸“X”型进气格栅与车名中的“X”相呼应，并且格栅上、中、下均采用了不同样式，视觉效果颇为吸睛。</p><p style="text-indent: 2em; text-align: left;">两侧头灯造型较为规矩，并与前格栅相连接。此外，下方两侧导流口面积较为硕大，进一步增添前脸凶狠气息，此次一共推出四款车型，将会在十月中上旬正式上市。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9810/202110/01102359985859.jpg" title="不只是SUV，天津车展自主品牌依然是主角，这届国产新车有多强？" alt="不只是SUV，天津车展自主品牌依然是主角，这届国产新车有多强？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"></p><p style="text-indent: 2em; text-align: left;">内饰也配备更多高级化的材质，例如车厢多处采用皮质包覆。配色方面采用了蓝白黑三色设计与更高级的星越L非常相似。新车采用的三辐运动式方向盘，全液晶仪表盘，中央还有大尺寸触控屏，包括扶手及门板内衬均采用了软质材料进行包裹，看上去档次感有不小的提升。</p><p style="text-indent: 2em; text-align: left;">当然，由于并非是换代车型，动力方面没有做变化，依旧是搭载1．8T发动机和匹配7速双离合变速箱。</p><p style="text-indent: 2em; text-align: left;">博越是吉利汽车旗下的主力车型之一，自推出以来获得了消费者的广泛认可。博越X不仅继承了现款博越家族的特点，还对于设计、智能以及性能三个方面再次进行升级，使得它能够更好地满足现今消费者的需求。</p><p style="text-indent: 2em; text-align: left;"><strong>五菱NanoEV</strong></p><p style="text-indent: 2em; text-align: left;">五菱NanoEV是五菱品牌继宏光MINIEV之后打造的第二款纯电微型车，基于GSEV纯电架构打造。新车共推出Judy限定款、Nick限定款两种版本，售价为5．98万元。此外，此次上市的限定款车型将全球限量5000台。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9810/202110/01102403102386.jpg" title="不只是SUV，天津车展自主品牌依然是主角，这届国产新车有多强？" alt="不只是SUV，天津车展自主品牌依然是主角，这届国产新车有多强？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"></p><p style="text-indent: 2em; text-align: left;">从外观来看，五菱NanoEV采用了可爱、小巧的造型设计，新车整体轮廓与宝骏E200相似，但造型更加灵动，前脸采用全封闭设计，搭配前保险杠的黑色饰板，显得十分时尚。除此之外，新车车头还采用了可发光的车标，车身假装迪士尼限定标识和个性车贴，进一步彰显了自己的独特身份。</p><p style="text-indent: 2em; text-align: left;">尺寸方面，新车长／宽／高分别为2497／1526／1616mm，轴距为1600mm，定位为微型车。</p><p style="text-indent: 2em; text-align: left;">不止外观可爱，新车内饰也是如此，内饰方面，新车采用了相当简洁的中控台设计，中控台、门板、座椅等处将会采用与车身同色的设计风格，能够形成良好的呼应。</p><p style="text-indent: 2em; text-align: left;">动力方面，新车搭载<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="磷酸铁锂电池">磷酸铁锂电池</a></span>，容量为230Ah，电机功率为24kW。<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E9%87%8C%E7%A8%8B.HTM" target="_blank" title="续航">续航</a></span>里程方面，官方称这台新车的综合工况续航里程为305公里。</p><p style="text-indent: 2em; text-align: left;">相比此前火爆电动微型车市场的MINIEV，NanoEV拥有更小巧的尺寸，更可爱迷人的造型，和更强的续航能力，再加上五菱的品质保障，目测这台车又会是一台热卖爆款车型。</p><p style="text-indent: 2em; text-align: left;"><strong>长安CS75蓝鲸版</strong></p><p style="text-indent: 2em; text-align: left;">新款长安CS75蓝鲸版相比现款车型采用了更大的进气格栅，外形更靓丽，符合绝大部分消费者审美，主要的改动集中在前脸，更大尺寸的进气格栅看起来更具其实，中网内部采用了阵列式设计，视觉效果出色。</p><p style="text-indent: 2em; text-align: left;">内饰部分是以黑色为主基调，扶手、扶手箱以及两侧都有红色的皮质包裹，看上去不那么单调。座椅也是皮质包裹，并且坐垫以及靠背都是打孔的工艺，边缘缝线也是采用红色。另外，中控台的布局和普通版的车型相同，</p><p style="text-indent: 2em; text-align: left;">长宽高分别是4650mm／1850mm／1715mm，轴距为2700mm。相比哈弗H6、吉利博越等车型还是有一定的优势的。</p><p style="text-indent: 2em; text-align: left;">新车亮点当属动力系统，长安CS75蓝鲸版将搭载蓝鲸1．5T涡轮增压发动机，最大功率提升至180kW，而且品质上早已有口皆碑。</p><p style="text-indent: 2em; text-align: left;">继成都车展新款CS75 PLUS上市后，如今上市的CS75蓝鲸版其产品实力也提升较大，不仅改动了外观和内饰，动力系统也升级了。作为国产SUV车型中的一大标杆车型，本次改款后CS75蓝鲸版看起来更深得人心，不出意外的话在市场上也会很受欢迎。</p> 
+  
+</div>
+            
