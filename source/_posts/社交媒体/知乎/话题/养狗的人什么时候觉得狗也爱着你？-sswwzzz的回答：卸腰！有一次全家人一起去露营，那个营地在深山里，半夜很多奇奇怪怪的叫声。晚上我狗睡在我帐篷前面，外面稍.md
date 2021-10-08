@@ -1,0 +1,18 @@
+
+---
+title: '养狗的人什么时候觉得狗也爱着你？-sswwzzz的回答：卸腰！有一次全家人一起去露营，那个营地在深山里，半夜很多奇奇怪怪的叫声。晚上我狗睡在我帐篷前面，外面稍...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-9ddb7a0f3da815f24721bcf92eabfbcf_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 08 Oct 2021 11:53:12 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-9ddb7a0f3da815f24721bcf92eabfbcf_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>养狗的人什么时候觉得狗也爱着你？</strong><br>sswwzzz的回答<br><p>卸腰！</p><p>有一次全家人一起去露营，那个营地在深山里，半夜很多奇奇怪怪的叫声。晚上我狗睡在我帐篷前面，外面稍微有一点动静他就起来巡视一圈。我晚上起夜，去卫生间有100米左右的山路，周围是黑的伸手不见五指，加上我有夜盲基本上打手电筒也只能看见自己的手。当时真的是又急又怕，在不吵醒其他人的情况下，我狗子从一只拉车的狗兼职了一回导盲犬。我拿着手机打光牵着他，啥都看不见只能凭记忆跟着他盲走。晚上洗澡的时候带过他去，也就这样走到了。到了他就在外面等我，中途有动物靠近我，他闻声大叫把那个不明动物吓跑了。回去的路上也是靠他慢慢走回去，我进帐篷之后他还在外面守着直到我把灯关了他才趴下睡觉。我是个很怕黑的人，特别是在户外陌生环境下，当时真的觉得有他在我不需要前任了，他简直是就是我的小骑士。真的感觉被宠了一回，之前露营基本上没人会半夜起来陪我去卫生间，有一回前任陪我去也是一脸怨气。而且每次我受伤哪怕是手上很小的刮伤他都能第一时间发现。真的就是个只对我上心的大暖男(｡･ω･｡)</p><p>露营的时候曾经拍了个朋友圈视频回头找到了更新。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-9ddb7a0f3da815f24721bcf92eabfbcf_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ceda57d69011a3a97c65ea2dfb2ca007_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-9ddb7a0f3da815f24721bcf92eabfbcf_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-9ddb7a0f3da815f24721bcf92eabfbcf_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>乖乖的准备出门</figcaption></figure><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-e053e3f7bbf5aed3e203db5204fad922_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-3896588a79b98af82860d122f6cf7ab4_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-e053e3f7bbf5aed3e203db5204fad922_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-e053e3f7bbf5aed3e203db5204fad922_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>出门的时候他总喜欢看着我开车</figcaption></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-db1aff2e5ee7043580eb645d054863c8_720w.jpg?source=54b3c3a5" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-c09d695ac950569841664ce1ed3c923d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-db1aff2e5ee7043580eb645d054863c8_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-db1aff2e5ee7043580eb645d054863c8_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>日常在家</figcaption></figure><hr><p>                      更新04/21  4:58am</p><p>视频已经找到，但是手机端没办法上传。我在想办法解决中，是不是只有网页版才能传视频？</p><p>已解决</p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1103352684794478592" target="_blank" data-video-id data-video-playable data-name="雪橇犬兼职导盲" data-poster="https://pic4.zhimg.com/v2-8c35c50d031a70f3a2ffa2946ee6daa4.jpg" data-lens-id="1103352684794478592">              <img class="thumbnail" src="https://pic4.zhimg.com/v2-8c35c50d031a70f3a2ffa2946ee6daa4.jpg" referrerpolicy="no-referrer">              <span class="content">                <span class="title">雪橇犬兼职导盲<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1103352684794478592</span>              </span>            </span></span></span></a>            <p></p>  
+</div>
+            
