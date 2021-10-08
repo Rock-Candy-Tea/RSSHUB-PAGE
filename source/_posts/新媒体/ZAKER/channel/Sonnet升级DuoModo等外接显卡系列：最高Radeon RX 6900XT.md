@@ -1,0 +1,18 @@
+
+---
+title: 'Sonnet升级DuoModo等外接显卡系列：最高Radeon RX 6900XT'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615fff298e9f09482176cff8_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 08 Oct 2021 00:29:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615fff298e9f09482176cff8_1024.jpg'
+---
+
+<div>   
+<p><strong>Sonnet Technologies 今天升级了 DuoModo（适用于桌面）和 eGPU Breakaway Box（适用于机架）产品线，最高装备了 AMD 旗舰显卡 Radeon RX 6900 XT。</strong>在提供灵活的配置和易用的安装步骤、紧凑的外观设计基础上，Sonnet 的 DuoModo 产品线提供专业、可扩展的系统，能通过 ThunderBolt 轻松将外接显卡连接 Mac、PC 等。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/615fff298e9f09482176cff8_1024.jpg" data-height="504" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615fff298e9f09482176cff8_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>● AMD Radeon RX 6900 XT GPU</strong><p></p><p>该显卡由 AMD RDNA 2 架构提供支持，具有 80 个计算单元、128MB AMD Infinity Cache 和 16GB 专用 GDDR6 内存，其设计旨在提供无与伦比的性能，为顶级视频编辑、视觉效果和建模应用提供显著的图形处理提升，缩短渲染时间，增强 VFX 和色彩校正工作流程。</p><p><strong>● 最高配 AMD Radeon RX 6900 XT 的 eGPU Breakaway Box 750ex</strong></p><p>这些捆绑产品包括一个 AMD Radeon RX 6900 XT GPU 显卡和一个 Sonnet 流行的 Thunderbolt to GPU PCIe 卡扩展系统。eGPU Breakaway Box 750ex 还具有用于 USB 设备和以太网连接的内置连接集线器。这些捆绑产品兼容 macOS 和 Windows，可与含有 Thunderbolt 4 或 Thunderbolt 3 端口的电脑一起使用。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/615fff298e9f09482176cff9_1024.jpg" data-height="383" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/615fff298e9f09482176cff9_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>● 最高配 AMD Radeon RX 6900XT 的 DuoModo eGPU Module</strong><p></p><p>该套件将 AMD Radeon RX 6900 XT GPU 卡与 DuoModo eGPU 模块配对，使用户能够建立自己的 DuoModo 系统（需要机柜，单独出售）或升级 Echo III 机架式 Thunderbolt 至 PCIe 卡扩展系统。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/615fff298e9f09482176cffa_1024.jpg" data-height="383" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615fff298e9f09482176cffa_1024.jpg" referrerpolicy="no-referrer"></div></div>该套件兼容 MacOS 和 Windows，适用于含有 Thunderbolt 4 或 Thunderbolt 3 端口的计算机。需要更高效的工作流程的客户可以购买两个这样的捆绑包，再加上一个 DuoModo 双模块台式机或机架式机箱，以创建一个双 eGPU 系统。<p></p><p><strong>● 最高配 AMD Radeon RX 6900XT 的 DuoModo xMac mini/eGPU Desktop or Rackmount System</strong></p><p>这些捆绑产品包括一块 AMD Radeon RX 6900 XT GPU 卡和一个预配置的 DuoModo 扩展系统，包括 xMac mini 模块，用于容纳基于英特尔的苹果 Mac mini 电脑（单独出售），eGPU 模块，用于容纳 GPU 卡，以及一个紧凑的台式机或 2U 机架式机箱，将它们全部放在一起。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/615fff298e9f09482176cffb_1024.jpg" data-height="383" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615fff298e9f09482176cffb_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
