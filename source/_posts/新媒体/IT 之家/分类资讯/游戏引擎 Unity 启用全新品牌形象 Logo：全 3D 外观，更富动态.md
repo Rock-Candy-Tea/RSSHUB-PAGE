@@ -1,0 +1,19 @@
+
+---
+title: '游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/119a108c-4ea7-4c2e-a8ec-644b75ebb170.jpg@s_2,w_820,h_410'
+author: IT 之家
+comments: false
+date: Fri, 08 Oct 2021 05:14:29 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/119a108c-4ea7-4c2e-a8ec-644b75ebb170.jpg@s_2,w_820,h_410'
+---
+
+<div>   
+<p data-vmark="b1f1"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 8 日消息 Unity 官方宣布，终于对 Logo 下手了。</p><p data-vmark="3a68">在十七年前 Unity 成立时，全公司只有一款产品，服务对象也仅限于独立游戏。今天，Unity 的产品线包括 50 多种产品，为各行各业内上百万的开发者、创作者和经营者提供广泛服务。为了更好地反映出品牌新形象、产品演变和未来发展方向，Unity 将于未来几个月逐步推出 Unity 系列产品的全新徽标。</p><p data-vmark="a097"><img src="https://img.ithome.com/newsuploadfiles/2021/10/119a108c-4ea7-4c2e-a8ec-644b75ebb170.jpg@s_2,w_820,h_410" w="1366" h="683" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" srcset="https://img.ithome.com/newsuploadfiles/2021/10/119a108c-4ea7-4c2e-a8ec-644b75ebb170.jpg 2x" width="1366" height="410" referrerpolicy="no-referrer"></p><h2 data-vmark="9456">Unity 徽标的新设想</h2><p data-vmark="bf89">Unity 徽标已经过多次微调，如今 Unity 需要的是一个更富动态、更具表现力、更加包容的新 Logo。因此，Untiy 重新设计了 Logo 的两个重要组成部分：Unity 立方体和 Unity 文字商标。</p><p data-vmark="ec3f"><img src="https://img.ithome.com/newsuploadfiles/2021/10/c7753293-72f5-4b24-88e1-9ef849796b90.gif" w="1079" h="607" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="1079" height="461" referrerpolicy="no-referrer"></p><p data-vmark="bbe8"><strong>真正的三维立方体</strong></p><p data-vmark="11ad"><img src="https://img.ithome.com/newsuploadfiles/2021/10/648e3c6c-a16c-420f-a8b2-8f037ace131b.png" w="704" h="461" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="704" height="461" referrerpolicy="no-referrer"></p><p data-vmark="d354">Untiy 翻新了 Unity 标志性的立方体，保留了原版的精髓与价值。现在它是全 3D 外观，其中的 X 轴代表着技术，Y 轴代表着创作者，而 Z 轴代表着创作出的体验，三者在 Unity 的作用下连接在一起。</p><p data-vmark="02e4">更重要的是，新的徽标寓意着 Unity 是一个有生命的品牌：它呵护每一位创作者，支持与倡导机会平等和多样性。立方体的三个箭头是三个矢量，它表示所有使用 Unity 的用户都能在各个方向上开拓无限的可能。</p><p data-vmark="23ed">新的立方体同样将成为其它 Unity 产品的商标基础，并逐步推广到整个开发平台和产品系列。</p><p data-vmark="2e33"><img src="https://img.ithome.com/newsuploadfiles/2021/10/d4f585e7-c990-4686-815f-0559fa814a4b.gif" w="1079" h="607" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="1079" height="461" referrerpolicy="no-referrer"></p><p data-vmark="f95a"><strong>全新 Unity 文字商标</strong></p><p data-vmark="cbd4">Unity 的文字商标也有了些许改动：除了字符的微调外，原本的“u”也改为了大写的“U”，还加上了注册商标符号，寓意 Unity 已经是一个成熟的实时 3D 引擎。</p><p data-vmark="9927"><img src="https://img.ithome.com/newsuploadfiles/2021/10/47c54518-84d7-409b-b975-2dbfb302d37a.gif" w="1079" h="607" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="1079" height="461" referrerpolicy="no-referrer"></p><h2 data-vmark="4c10">新 Unity 系列产品徽标</h2><p data-vmark="3e74">Untiy 将以新徽标为基础，推出一套连贯的产品徽标，让用户可以更轻松地识别并找到 Unity 产品、认识 Unity 产品系列、体会 Unity 产品间的关联性。</p><p data-vmark="6380"><img src="https://img.ithome.com/newsuploadfiles/2021/10/019f56ed-f9b2-4123-b300-751d2caa29fa.gif" w="1079" h="607" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="1079" height="461" referrerpolicy="no-referrer"></p><p data-vmark="3238"><strong>动态 3D 徽标</strong></p><p data-vmark="a695">Unity 研究发展实时 3D（RT3D）技术，产品可为各种项目和应用注入生机和活力。因此，Untiy 决定为所有主要产品的徽标加上动画。新徽标将出现在商店页面及未来的营销活动中。</p><p data-vmark="39e0"><img src="https://img.ithome.com/newsuploadfiles/2021/10/b1b7262b-b93d-41d8-966b-eaaff84a835b.gif" w="1079" h="607" title="游戏引擎 Unity 启用全新品牌形象 Logo：全 3D 外观，更富动态" width="1079" height="461" referrerpolicy="no-referrer"></p><h2 data-vmark="6329"><strong>新徽标将逐步上线</strong></h2><p data-vmark="093a">IT之家获悉，截至目前，新徽标将首先应用于网站与社交平台上，并陆续整合至 Unity 整个产品线。在未来的几个月，新徽标将出现在 Unity 2021.2、产品、服务、宣发和周边等所有 Unity 品牌接触点。</p><p data-vmark="4dfd"><strong>Unity 品牌页面：</strong></p><p data-vmark="8ff5">https://unity.com/cn/brand</p>
+          
+</div>
+            
