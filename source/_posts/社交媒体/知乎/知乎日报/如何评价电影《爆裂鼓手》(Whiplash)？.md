@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-10-09 11:06:54
-thumbnail: 'https://pic3.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162'
+date: 2021-10-09 12:10:57
+thumbnail: 'https://pica.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-97dfc52b9b9c54e8607b59f6c08af913_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">豹隶，</span><span class="bio">公众号 ：豹隶的感觉学世界</span>
 <a href="https://www.zhihu.com/question/27442020/answer/1701543416" class="originUrl" hidden>查看知乎原文</a>
 </strong>
