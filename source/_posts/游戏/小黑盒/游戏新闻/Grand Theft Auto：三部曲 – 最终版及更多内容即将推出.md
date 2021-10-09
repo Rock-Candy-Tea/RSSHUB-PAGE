@@ -1,0 +1,18 @@
+
+---
+title: 'Grand Theft Auto：三部曲 – 最终版及更多内容即将推出'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/08/221680f29a06f95a3dfa3d2ea82c34a3/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sat, 09 Oct 2021 00:47:56 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/08/221680f29a06f95a3dfa3d2ea82c34a3/thumb.jpeg'
+---
+
+<div>   
+<p>本月晚些时候，Rockstar Games 即将迎来非常特别的周年纪念日：<b>Grand Theft Auto III</b>发布 20 周年。在本游戏中，玩家可在自由市这个庞大的三维大都市中尽情享受前所未有的自由与沉浸感。</p><p>除了为开放世界游戏类型另辟蹊径，<b>Grand Theft Auto III </b>还为<b> Grand Theft Auto</b> 系列开创了流派先河，随后更是陆续推出了两部同样极具传奇色彩的作品：<b>Grand Theft Auto: Vice City</b>和 <b>Grand Theft Auto: San Andreas</b>。<br></p><p><b>GTA 3最早于2001年10月22日在PS2平台上发布，是GTA系列从2D向3D转型的第一部作品，它与罪恶都市、圣安地列斯合称“GTA 三部曲”，是几代人的启蒙之作。</b></p><p><img class="lazy" data-height="2026" src="https://imgheybox.max-c.com/bbs/2021/10/08/221680f29a06f95a3dfa3d2ea82c34a3/thumb.jpeg" data-width="3200" referrerpolicy="no-referrer"></p><p>在此，我们衷心感谢过去二十年来一直支持 Grand Theft Auto 的全体粉丝。各位对本游戏的喜爱与支持是 Grand Theft Auto 系列每一代作品背后的最大动力。<br></p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/08/543cd12b4f9af209ef5e89c877f64fcd/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><p>为了欢庆即将到来的周年纪念日，我们很高兴能在今天宣布，所有三部作品将在今年晚些时候通过Grand Theft Auto：三部曲 – 最终版于当代平台推出：PlayStation 5、PlayStation 4、Xbox Series X|S、Xbox One、Nintendo Switch 和 PC 端的 Rockstar Games Launcher。</p><p><b>Rockstar Games Launcher是R星官方自己的平台，按照这个意思是打算暂时不上steam、epic吗？</b></p><p>Grand Theft Auto：三部曲 – 最终版将带来全面升级，包括所有三部作品的图形改进和增强版现代游戏内容，同时仍然保持原版的经典外观和感觉。我们迫不及待地想在未来数周分享更多有关这些开创性游戏的详情，敬请期待！</p><p>为了准备发布，我们将于下周开始从数字版零售商中移除这些经典游戏的现有版本。欲知更多详情，请访问Rockstar Games 支持。</p><p><img class="lazy" data-height="755" src="https://imgheybox.max-c.com/bbs/2021/10/08/faae959e2f88fd5fcbf70a9a82710c88/thumb.png" data-width="809" referrerpolicy="no-referrer"></p><p><b>数字版的GTA 三部曲将从于下周从各大平台下架，但目前而言没有折扣，例如steam单独购买需要88块，在没有临时折扣的情况下可能会非常亏，买不买就见仁见智了。</b></p><p>此外，Grand Theft Auto：三部曲 – 最终版将于 2022 年上半年于 iOS 和 Android 平台推出。与此同时，作为 GTA 3 20 周年庆典的一部分，敬请期待即将于今年秋天推出的活动，您可以在Grand Theft Auto 在线模式中收集一系列特殊装备，包括纪念版服装和涂装。</p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/08/88e9411b3e8c3948ea21e25acbf82145/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><p>作为 GTA 在线模式正在进行的活动的一部分，我们将在未来数周内提供如何获取这些内容的详情。本月的 GTA 在线模式活动也将带来一些特别惊喜：包括有一些不寻常的活动发生在南圣安地列斯周围的可能性……</p><p><b>为庆祝这一时刻，GTA Online又跟以往一样发放各种涂装和衣服了，没事就登录领取，不要错过了。最近的节日就是万圣节，据说R星官方已经安排好一系列的相关活动了</b></p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/08/c4d6e26cd19c4b2f2d855ea422cc40cb/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><p>我们也将继续改进和发展 GTA 在线模式。您也许已经注意到，我们最近开始在游戏中定期轮替指定对抗模式和玩家差事。GTA 在线模式提供的游戏内容千变万化。自发行以来，已有超过 1000 份由 Rockstar 制作的差事以及成千上万份由玩家制作的差事。随着定期轮替 Rockstar 制作的差事，我们不仅可以为未来的新任务和模式腾出空间，我们还可以通过每周为玩家带来更精简的差事清单，来改善游戏的匹配功能。<br></p><p>这也能让我们在不同时期为玩家带来符合特别活动或节日活动主题的差事，同时减少不那么受欢迎的差事。另外，还可通过提供特别奖励，帮助较少受到关注的经典差事或受到玩家社群另类青睐的差事成为受到瞩目的对象，例如上周回归的<b>进攻与防守</b>、<b>暴力碰碰车</b>及更多内容。</p><p><b>由于很多差事都缺乏人气，官方干脆就把它们隐藏起来了，可能会重做也可能轮回出现，甚至永久雪藏。毕竟绝大部分对抗型活动都离不开那个话题...</b></p><p>我们也将竭尽所能，希望能在明年 3 月推出的 PS5 和 Xbox Series X|S 版 GTA 在线模式中，改善新玩家和回归玩家的游戏体验。敬请关注 Rockstar 新闻专线，了解这方面的详情以及关于未来数月内推出的 GTA 5 和 GTA 在线模式扩展增强版的更多详情。</p><p>今年晚些时候，敬请畅玩 GTA 在线模式激动人心的新冒险之旅。据悉，有一些知名人士和熟悉的朋友需要您帮助他们扩展“合法业务”，此外还将揭晓更多惊喜！</p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/10/08/9b7cd3d510ca0f88ba0eed61317b7f4d/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><p><b>既然阿浩都能来到在线模式飙车，主角团其余的成员<b>出现到产业中也不是啥大事情了</b></b></p><p><b><b>本文改自Rockstar 官网公告</b></b></p>  
+</div>
+            
