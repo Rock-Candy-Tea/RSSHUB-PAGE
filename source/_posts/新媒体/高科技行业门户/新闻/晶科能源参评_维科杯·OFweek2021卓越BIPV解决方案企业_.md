@@ -1,0 +1,19 @@
+
+---
+title: '晶科能源参评_维科杯·OFweek2021卓越BIPV解决方案企业_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/09/guanghua/1633748506358089900.jpg'
+author: 高科技行业门户
+comments: false
+date: Sat, 09 Oct 2021 03:00:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/09/guanghua/1633748506358089900.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2021年9月28日－10月9日进入网络投票环节，最终获奖结果将于10月21日在深圳举办的“OFweek 2021（第十二届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>晶科能源控股有限公司参评“维科杯·OFweek2021卓越BIPV解决方案企业”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">企业简介</span></strong></p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/09/guanghua/1633748506358089900.jpg" width="500" height="253" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">主要业绩：晶科能源控股有限公司成立于2006年，于2010年在美国纽约证券交易所上市。凭借持续的研发创新、可靠的产品质量和出色的客户服务，晶科能源2016年成为全球最大的组件制造商，至今已连续4年位居全球<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260008-zujianmokuai.html" target="_blank" title="光伏组件">光伏组件</a></span>出货量第一。截至2020年12月31日，晶科能源全球累计出货量超过70GW，位居行业第一。公司拥有垂直一体化的产能，预计到2021年底单晶<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guipianjiage.html" target="_blank" title="硅片">硅片</a></span>产能达到约33GW、<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>片产能达到约27GW，组件产能达到约37GW。</p><p style="text-indent: 2em; text-align: left;">全球版图：晶科能源深耕全球，在全球拥有超过25000名员工及9个全球化生产基地，营销网络覆盖全球35个国家，为超过160个国家的地面电站、商业以及民用客户提供太阳能产品、解决方案和技术服务。依托于全球化的制造水平、本土化运营和管理团队，晶科成功在全球市场构建了一个分布均匀的产业版图。</p><p style="text-indent: 2em; text-align: left;">技术积累：晶科能源在3年时间里共打破17次行业功率和效率记录，以25．25％的电池效率不断逼近极限，最新成果快速从晶科工厂的智能化产线落地，实现量产效率超过24％；同时，晶科N型单晶组件转换效率达到23．53％，突破世界纪录。</p><p style="text-indent: 2em; text-align: left;">晶科连续7年上榜《财富》中国500强排行榜，连续7年登榜“中国民营500强”，2020年位列中国民营企业500强第144名，连续六年获彭博新能源“最具可融资性”光伏顶尖品牌称号。2019年，晶科能源荣获沙利文（Frost ＆ Sullivan）全球<span class="hrefStyle"><a href="https://solar.ofweek.com/CATList-2600-8300-solar.html" target="_blank" title="光伏技术">光伏技术</a></span>领先奖。同时，自2016年杭州B20峰会以来，晶科能源已连续6年被提名为B20能源、气候、资源效率专题小组联席主席和核心成员，在行业洞见、全球绿色政策建议等方面发挥了关键作用。</p><p style="text-indent: 2em; text-align: left;">公司不论是在全球化的战略布局，还是在技术研发方面均取得丰硕成果，始终保持行业领先地位，引领行业前行。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek2021卓越BIPV解决方案企业</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">晶科积极布局BIPV赛道，进行BIPV产品的设计研发，目前已完成透光／全黑／彩色幕墙BIPV产品，同步基于多样化的需求完成晶科彩钢瓦系列等产品的技术储备，为多样化的光伏建筑一体化应用场景提供解决方案。</p><p style="text-indent: 2em; text-align: left;">晶科BIPV产品效率破20％，具备超高效率、防火等级Class A，最优产品设计，为客户提供全方位服务支持。</p><p style="text-indent: 2em; text-align: left;">目前，晶科幕墙产品已在商业大楼幕墙项目、光伏车棚顶、阳光房等项目成功应用，为晶科大规模进军BIPV市场吹响了前哨。晶科依靠长期积累的<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfushichang.html" target="_blank" title="光伏市场">光伏市场</a></span>营销优势，已接到了来自国内外多地市场的需求。未来，完美融合建筑美学和<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="光伏发电">光伏发电</a></span>的曲面幕墙系列，针对海内外高端户用屋顶的晶科瓦片系列将陆续开发完成，相信更丰富、更多元化的晶科BIPV产品将继续领跑市场。</p> 
+  
+</div>
+            
