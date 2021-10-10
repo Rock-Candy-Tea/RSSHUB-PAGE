@@ -1,0 +1,26 @@
+
+---
+title: '🎨 莎莎塗鴉｜366日誕生花【09月28日】毛果一枝黃花（Goldenrods）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/fe5721b9-a736-45f7-ad01-bfdd3a028517.jpeg'
+author: Matters
+comments: false
+date: Sat, 09 Oct 2021 15:13:19 GMT
+thumbnail: 'https://assets.matters.news/embed/fe5721b9-a736-45f7-ad01-bfdd3a028517.jpeg'
+---
+
+<div>   
+<h2>❀ 手繪插畫 ❀</h2><figure class="image"><img src="https://assets.matters.news/embed/fe5721b9-a736-45f7-ad01-bfdd3a028517.jpeg" data-asset-id="fe5721b9-a736-45f7-ad01-bfdd3a028517" referrerpolicy="no-referrer"><figcaption><span>https://matters.news/@sachanshih</span></figcaption></figure><h2><strong>Sep 28:</strong></h2><ul><li><strong>植物：毛果一枝黃花（Goldenrods）</strong></li><li><strong>花語：施捨（Charity）</strong></li></ul><hr><h2>❀ 作畫過程 ❀</h2><p>廢話不多說，直接把照片轉成 GIF 動圖來看吧✦</p><figure class="image"><img src="https://assets.matters.news/embed/bec8c0af-b7ef-4f97-82c7-929a9c7585f8.gif" data-asset-id="bec8c0af-b7ef-4f97-82c7-929a9c7585f8" referrerpolicy="no-referrer"><figcaption><span>背景的莖化太粗了 XD</span></figcaption></figure><p>這天的誕生花是<strong>「</strong><a href="https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%9E%9C%E4%B8%80%E6%9E%9D%E9%BB%83%E8%8A%B1" target="_blank"><strong>毛果一枝黃花（Goldenrods）</strong></a><strong>」</strong>。<br class="smart">學名為<strong>「</strong><a href="https://en.wikipedia.org/wiki/Solidago_virgaurea" target="_blank"><strong>Solidago virgaurea</strong></a><strong>」</strong>，是菊科<strong>「</strong><a href="https://zh.wikipedia.org/wiki/%E4%B8%80%E6%9E%9D%E9%BB%83%E8%8A%B1%E5%B1%AC" target="_blank"><strong>一枝黃花屬（Solidago）</strong></a><strong>」</strong>的植物。<br class="smart">和<strong>【</strong><a href="https://matters.news/@sachanshih/bafyreierhzaa47fh5rorxgaw2vceupyc7qhz3sjxkfppaljhbe4dsjkrbq" target="_blank"><strong>09月02日</strong></a><strong>】</strong>與<strong>【</strong><a href="https://matters.news/@sachanshih/bafyreigphcaymrmh4zrtivdc7g6gk6fmlu6r2umgtyfmkdstj7bmz5mqki" target="_blank"><strong>08月28日</strong></a><strong>】</strong>的誕生花是相同的品種，因此就不再贅述了。</p><p>關於誕生花的傳說，是這麼描述的：</p><pre class="ql-syntax">四世紀的時候羅馬有位非常有錢的千金小姐，毅然決然的出家修行。
+她就是聖愛渥斯東奇姆，也就是秋麒麟草所讚美的對象。
+她曾將自己的財產全數奉獻給貧窮的人，因而被當作慈善家。
+因此，它的花語就是「施捨」。
+
+受到這種花祝福誕生的人，富有的同情心，不忍心看到別人活在痛苦的困境中。
+戀愛也是一樣，是從同情心開始的。
+對於這樣的人，最重要的就是：分辨同情心與愛情。
+</pre><p>大概就是這樣。</p><p>今天某莎還在跟懶癌抗戰中。<br class="smart">然後總算抗戰成功，乖乖畫圖了。 (つд⊂)<br class="smart"><em><s>雖然有一部份的因素是缺血啦，不小心爆睡。</s></em><br class="smart"></p><p>真的很想繼續躺著。<br class="smart">然後閱讀 BL 小說喵嗚～～～<br class="smart">自從看了「<a href="https://search.books.com.tw/search/query/cat/all/adv_author/1/key/%E6%9C%A8%E8%98%87%E9%87%8C" target="_blank">木蘇里</a>」大大的〈全球高考〉之後，又看完了他的〈某某〉。<br class="smart">現在又想繼續看〈一集律師〉了，喜歡這種劇情向的清水作品❤ (*ˇωˇ*人)<br class="smart"></p><p>但是放縱自我太多天了，這兩天一直被腦內天音叮嚀。<br class="smart">所以就收斂了吧！乖乖畫圖、乖乖看書，該做的事情做好，才能玩了。😵‍💫</p><p>然後，有個好消息！<br class="smart">那就是～～～某莎在今天下午發現鼠尾草寶寶有一株成功活下來啦✦<br class="smart">雖然之前的葉子全都枯萎爛掉了，但是它的莖重新站起來了，還成功長了新葉子。<br class="smart">看來明天有動力來寫遲到半個月的週記了❤ヽ(✿ﾟ▽ﾟ)ノ<br class="smart"><em><s>幸好當時有趕緊把它移到另一個陽台上 QuQ</s></em><br class="smart"></p><hr><h2>📡 喵喵雷達廣播 (ฅ^>ω<^ฅ)</h2><blockquote><strong>請大家多多追蹤 </strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>某莎的圍爐</strong></a><strong> 哦！「追蹤」就好～🙏🙏🙏</strong><br class="smart">每天會在晚餐後約 19～21 點（UTC+8）通知一次當日更新的圖文～<br class="smart">同時會包含<strong>「當日爐友發布的作品清單」</strong>，最新消息不漏接噢❤</blockquote><hr><h2>❀ 臨摹圖源 ❀</h2><p>這個區塊的圖片，來自維基百科：<a href="https://commons.wikimedia.org/wiki/File:Solidago_virgaurea08.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Solidago_virgaurea08.jpg</a><br class="smart">為作者「Stef1432」的攝影作品，他的作品使用「<a href="https://zh.wikipedia.org/wiki/GNU%E9%80%9A%E7%94%A8%E5%85%AC%E7%9C%BE%E6%8E%88%E6%AC%8A%E6%A2%9D%E6%AC%BE" target="_blank">GNU 通用公眾授權條款</a>」聲明。</p><figure class="image"><img src="https://assets.matters.news/embed/146c396b-1609-4753-b6a9-f4cc64f35d78.jpeg" data-asset-id="146c396b-1609-4753-b6a9-f4cc64f35d78" referrerpolicy="no-referrer"><figcaption><span>來自維基百科</span></figcaption></figure><hr><h2><strong>🎈 文末註明 </strong>(*´ω`)人(´ω`*)</h2><ul><li>本文首發於<strong>「</strong><a href="https://matters.news/@sachanshih" target="_blank"><strong>馬特市</strong></a><strong>」</strong>：<a href="https://matters.news/@sachanshih" target="_blank">https://matters.news/@sachanshih</a><br class="smart">另有備份在<strong>「</strong><a href="https://vocus.cc/user/@amanesalvia" target="_blank"><strong>方格子</strong></a><strong>」</strong>；若在其他網站見此篇圖文，皆為無斷轉載。</li><li>如果喜歡<strong>「</strong><a href="https://matters.news/tags/VGFnOjQ5NDEx" target="_blank"><strong>這系列</strong></a><strong>」</strong>的作品，歡迎<strong>「拍手留言」</strong>交流～<br class="smart">歡迎讚賞支持某莎：<a href="https://liker.land/amanesalvia/civic" target="_blank">https://liker.land/amanesalvia/civic</a><br class="smart">或是加入<strong>「</strong><a href="https://matters.news/~salvia_pdcatters" target="_blank"><strong>圍爐</strong></a><strong>」</strong>吧！</li></ul><hr><h2>🍀 導覽精靈參上 ( つ•̀ω•́)つ</h2><figure class="embed-code"><div class="iframe-container"><iframe src="https://jsfiddle.net/rkgcqh1z/embedded/result" frameborder="0" allowfullscreen="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure>  
+</div>
+            
