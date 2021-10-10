@@ -1,0 +1,19 @@
+
+---
+title: '微软为Windows 11 Linux子系统带来了一些新特性'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1010/b6f2101d03dd095.jpg'
+author: cnBeta
+comments: false
+date: Sun, 10 Oct 2021 05:15:04 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1010/b6f2101d03dd095.jpg'
+---
+
+<div>   
+<strong>随着 Windows 11 的正式推送，Windows Central 也深入研究了 Linux 子系统（简称 WSL）的一些新特性。</strong>如果你想要借助轻量级虚拟机在 Windows 11 上运行 Ubuntu 或 Debian 等 Linux 发行版，WSL 将可免除设置完整的虚拟机环境、或配置双引导系统等繁琐的事务。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/1010/b6f2101d03dd095.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1010/b6f2101d03dd095.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>尽管大版本仍是 WSL 2，但 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 11 还是带来了体验方面的诸多改进，包括对 Linux GUI 应用程序的支持、更易于安装和更新、集成文件资源管理器、以及存储等方面的增强。</p><p><strong>首先是安装体验方面的改进：</strong>在 Windows 11 上，WSL 的部署过程已显著简化。</p><blockquote><p>此前用户需要依次通过‘Windows 功能’界面启用 WSL 1、虚拟化平台，并下载内核更新以切换到 WSL 2 。</p><p>随着 Windows 11 的到来，微软给 WSL 2 带来了两个部署命令（wsl --install 和 wsl --update），以更快地安装和更新系统。</p></blockquote><p>换言之，如果你的计算机上尚未配置 WSL 子系统，现可直接通过 wsl --install 命令，来安装可在 Windows 11 上使用的所有需要的 WSL 组件。</p><p>该命令可完成虚拟机平台的配置、WSL 组件的安装、下载适用于 Linux 内核的 Windows 子系统、设置 Linux GUI 应用程序支持、并默认安装 Ubuntu Linux 发行版。</p><p>如果一切顺利，你甚至无需执行重启计算机以应用配置之外的其它步骤。</p><p><a href="https://static.cnbetacdn.com/article/2021/1010/ed81bddd817de25.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1010/ed81bddd817de25.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>需要注意的是，由于 Windows 11 系统映像中已经剔除了定制 Linux 内核，所以你将需要通过 Microsoft Store 进行获取。</p><blockquote><p>● 如需指定所需的 Linux 发行版（默认的 Ubuntu 之外），还可在 wsl --install 命令后头套上 --distribution 选项。</p><p>● 且用户始终能够通过 wsl --list --online 命令查看所有可在 Windows 11 上获得的发行版。</p><p>● 此外还有一个新的 wsl --update 命令可用于检查 / 安装适用于当前平台的任何更新。</p></blockquote><p>当然，在 Windows 11 之外，你同样可在 Windows 10 上体验 WSL 2 子系统的上述新命令。</p><p><a href="https://static.cnbetacdn.com/article/2021/1010/2f2a1b871e25128.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1010/2f2a1b871e25128.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p><strong>其次是 Linux GUI 应用程序的支持：</strong>这意味着你可在 Windows 11 的 WSL 2 子系统中安装图形应用程序，并让它们与 Windows 11 应用程序一起运行。</p><blockquote><p>微软正在为开发者引入这项功能，以便其测试应用程序。用户将能够借此运行喜欢的编辑器、工具和程序，辅以 GPU 加速的 3D 图形 / 音频（麦克风 / 扬声器）支持。</p><p>使用 install 命令为 Linux 设置 Windows 子系统后，WSL 2 可配置一个自动运行的 X 服务器，其中包括了正常运行 GUI 应用程序所需的 Wayland 和 Pulse Audio 等组件。</p></blockquote><p>在关闭应用程序和 WSL 会话之后，选定的 Linux 发行版也会被自动关闭。</p><blockquote><p>此外在应用程序的安装过程中，系统会在开始菜单中添加一个条目来启动，而无需在控制台中键入命令。</p><p>在运行应用程序时，您还会留意到它包含了一个 Linux 日志，表明它并不是原生的 Windows 应用程序。</p><p>程序运行时，系统呈现的视觉效果与实机运行的 Linux 一样，包括应用程序框架、菜单、按钮和其它事件，均与 Linux 的图形界面相同。</p><p>遗憾的是 Windows 并不着力于渲染这些效果，而是让我们看到运行该应用程序的 Linux 发行版的远程桌面连接。</p></blockquote><p><strong>至于驱动器的挂载，在 WSL 2 中也变得更加轻松：</strong></p><blockquote><p>首先打开 PowerShell 并运行 wmic diskdrive list brief，以确定需要挂载上的驱动器。</p><p>然后参照 wsl --mount \\.\physicaldrivepath --partition 1 命令，将物理驱动器的 ext4 文件系统挂载到 WSL 的第一个分区。</p><p>如需挂载不同的文件系统（以 FAT 文件系统为例），亦可参照 wsl --mount \\.\physicaldrivepath -t vfat 的命令格式。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2021/1010/a7f73a4df206bed.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1010/a7f73a4df206bed.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>完成驱动器的挂载之后，用户便可始终使用 \\wsl.localhost\distroname\mountpoint 命令，直接从文件资源管理器访问相应的文件。</p><blockquote><p>通过更好地集成，Windows 11 上默认的文件资源管理器，也在导航窗格中包含了一个‘Linux’条目，以便用户快速访问特定发行版中的所有文件。</p><p>此外为了提升性能与可靠性，默认路径已从 \\wsl\ 改成了 \\wsl.localhost\，但老用户还是可以使用原路径来访问文件。</p><p>值得一提的是，WSL 2 中包含了一个新选项，用于在发行版启动期间运行 Linux 命令 —— 前提是在 /etc/wsl.config 的‘引导’部分添加‘命令’选项来更改配置文件。</p></blockquote><p>最后，Windows 11 中的 WSL 解决方案现还支持 GPU 计算，使得 Linux 二进制文件能够更充分地利用 GPU 来执行计算密集型的机器学习（ML）开发和数据科学工作流。</p>   
+</div>
+            

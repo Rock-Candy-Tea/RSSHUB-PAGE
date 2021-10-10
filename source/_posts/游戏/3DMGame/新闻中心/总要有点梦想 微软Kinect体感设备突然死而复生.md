@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211010/1633835507_9964
 TV中有一款配件与微软当年与Xbox主机配售的Kinect非常相似。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211010/1633835507_996454.jpg" alt="总要有点梦想 微软Kinect体感设备突然死而复生" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211010/1633835507_996454.jpg" alt="总要有点梦想 微软Kinect体感设备突然死而复生" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在本周于伦敦发布的新TV套装“Sky Glass 
