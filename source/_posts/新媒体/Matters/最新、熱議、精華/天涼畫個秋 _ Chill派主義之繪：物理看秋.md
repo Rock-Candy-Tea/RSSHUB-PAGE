@@ -1,0 +1,18 @@
+
+---
+title: '天涼畫個秋 _ Chill派主義之繪：物理看秋'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/7971e006-73c6-4362-8300-b0c56c3dc2b7.gif'
+author: Matters
+comments: false
+date: Sun, 10 Oct 2021 12:04:49 GMT
+thumbnail: 'https://assets.matters.news/embed/7971e006-73c6-4362-8300-b0c56c3dc2b7.gif'
+---
+
+<div>   
+<p>昨天的<a href="https://matters.news/@zhi_hao1103/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AA%AA%E9%80%A3%E8%BC%89-c-z%E5%81%B5%E8%AA%BF%E5%B1%80-%E5%B0%8F%E8%AA%AA%E5%AE%8C%E7%B5%90%E5%9B%9E%E9%A5%8B%E6%B4%BB%E5%8B%95-%E7%B5%82%E6%96%BC%E6%9C%89%E7%B6%A0%E5%9C%88%E5%95%A6-bafyreihz7pzijw3ypccgupmhmvw7mdak7ylxxgrl76egggoinha46w3gre" target="_blank">小說回饋活動</a>，有興趣的快去參加，迴響好的話會延長時間、加碼獎金。</p><p>至從加入讚賞公民，發現星星永遠按不夠XD</p><hr><h2>天涼畫個秋</h2><blockquote><strong>物理看秋</strong></blockquote><p>霧裡看花：形容視界模糊，看不清楚。</p><p>而《<strong>物理看秋</strong>》，是由一位古代畫家「<strong>豪人</strong>」所繪。有一年的秋天，他正在戶外賞景，<strong>沒想到卻看到這麼Chill的一幕！！！</strong>但礙於沒帶到畫筆，於是便豪邁的拿了楓葉沾顏料畫下了這幕，而那片楓葉不小心黏在畫紙上，<strong>沒想到卻如此完美！！！於是，這種畫法，被後人稱為「Chill派主義」。</strong></p><p>後來，被現代詩人「<strong>炙人</strong>」收購了這幅畫，而在一篇報導中說到：「我啊！有一天覺得那幅畫怪怪的，於是我仔細的觸摸每個角落，沒想到竟然摸出了<strong>秋天的氣息！！！</strong>」於是，這個故事，就成為了「<strong>物理看秋</strong>」的典故：<strong>形容繪畫居然能畫出靈魂，是幅靈魂之畫！！！</strong></p><blockquote><strong>繪畫過程</strong></blockquote><p><strong><em><u>以下是繪畫過程，上動圖：</u></em></strong></p><figure class="image"><img src="https://assets.matters.news/embed/7971e006-73c6-4362-8300-b0c56c3dc2b7.gif" data-asset-id="7971e006-73c6-4362-8300-b0c56c3dc2b7" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>GIF圖。</p><figure class="image"><img src="https://assets.matters.news/embed/7b854dec-2535-463b-8f0a-a6a39c29e532.png" data-asset-id="7b854dec-2535-463b-8f0a-a6a39c29e532" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>首先，在空白的圖片裡畫點綠色的草地。</p><figure class="image"><img src="https://assets.matters.news/embed/f847744f-32f3-4199-8566-63504ec8c8fd.png" data-asset-id="f847744f-32f3-4199-8566-63504ec8c8fd" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>接著畫出我們樹的主體、軀幹。</p><figure class="image"><img src="https://assets.matters.news/embed/2def6302-6847-4223-b8f9-c1694963fa10.png" data-asset-id="2def6302-6847-4223-b8f9-c1694963fa10" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>再來，為我們樹畫點頭髮。那單色有點單調，所以就做了點層次。</p><figure class="image"><img src="https://assets.matters.news/embed/b6220fea-05c9-4092-94af-0453ea1b1e71.png" data-asset-id="b6220fea-05c9-4092-94af-0453ea1b1e71" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>接著，避免太單調，畫出鳥巢、我盪鞦韆的孩子。</p><figure class="image"><img src="https://assets.matters.news/embed/8b75af40-d4d3-4b4a-97a8-60e72a86a2dc.png" data-asset-id="8b75af40-d4d3-4b4a-97a8-60e72a86a2dc" referrerpolicy="no-referrer"><figcaption><span>圖片來源: 自行製作</span></figcaption></figure><p>最後，則是畫上大大的<strong>Zioh</strong>和楓葉；並且增加點霧氣，顯得陰涼。</p><h2>秋天</h2><p>秋天是我最喜歡的季節呦！夏天太熱、冬天太冷，秋天又舒服，又有美麗的風景可看！！！</p><hr><p>此文章首發於<a href="https://matters.news/@zhi_hao1103" target="_blank">Matters</a>，之後同步於<a href="https://sites.google.com/view/zioh" target="_blank">個人網站</a>、<a href="https://vocus.cc/user/60cd6f51fd89780001da9664" target="_blank">方格子</a>、<a href="https://www.potatomedia.co/profile/051c31b9-d1d5-4fe8-95f0-df465e5cb203" target="_blank">Potato Media</a><strong><em><u><br class="smart"></u></em></strong>﻿個人網站:<a href="https://sites.google.com/view/zioh" target="_blank">ZIOH創作空間</a><strong><em><u><br class="smart"></u></em></strong>如果你喜歡這篇文章，可以給我留言、按讚、拍手，或是透<a href="https://liker.land/haohaobaby13/civic" target="_blank">贊助連結支持</a>我。</p>  
+</div>
+            
