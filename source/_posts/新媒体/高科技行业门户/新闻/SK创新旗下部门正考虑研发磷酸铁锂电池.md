@@ -1,0 +1,19 @@
+
+---
+title: 'SK创新旗下部门正考虑研发磷酸铁锂电池'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2589/202110/11174748643448.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 11 Oct 2021 10:11:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2589/202110/11174748643448.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img alt height="454" src="https://mp.ofweek.com/Upload/News/Img/member2589/202110/11174748643448.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>1、现代将投资11亿美元在韩国建两座<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180824-qingdianchi.html" target="_blank" title="氢燃料电池">氢燃料电池</a></span>工厂</strong></p><p style="text-indent: 2em; text-align: left;">近日，现代在新设施所在的仁川（Incheon）市举行奠基仪式时表示，新工厂投资1．3万亿韩元（约11亿美元），将于2023年下半年开始生产<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180824-qingdianchi.html" target="_blank" title="燃料电池">燃料电池</a></span>。现代估计，当两座工厂完全投入运营时，它们每年将生产10万个氢燃料电芯。</p><p style="text-indent: 2em; text-align: left;"><strong>2、五菱宏光MINIEV 敞篷版路试谍照曝光</strong></p><p style="text-indent: 2em; text-align: left;">日前，我们从相关渠道获取到一组车辆路试谍照，经分析我们发现该车为敞篷版五菱宏光MINIEV CABRIO ，新车早前已在上海车展首发亮相，官方称新车将于明年正式量产上市。</p><p style="text-align:center"><img alt height="525" src="https://mp.ofweek.com/Upload/News/Img/member2589/202110/11174749184657.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">路试新车仍处在高度伪装阶段，但我们可以看到其外观风格依旧延续现款五菱宏光MINIEV 设计，黑色的电动折叠软顶处于关闭状态。</p><p style="text-indent: 2em; text-align: left;"><strong>3、<span class="hrefStyle"><a href="https://libattery.ofweek.com/KW-tesla.html" target="_blank" title="特斯拉">特斯拉</a></span>柏林工厂或下月投产，12月交付</strong></p><p style="text-indent: 2em; text-align: left;">10月9日，特斯拉首席执行官埃隆·马斯克在新工厂的参观活动上表示，特斯拉德国柏林工厂首批新车最早将于11月下线，并在12月向客户交付，但量产需要更长的时间才能实现。该厂的周产量将达到约5，000辆，“但是马斯克希望”能达到1万辆。马斯克还补充说，他希望在明年年底前在该工厂实现<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>的量产。</p><p style="text-indent: 2em; text-align: left;">马斯克表示，“新工厂开启生产很容易，但实现量产非常困难，实现量产所需的时间将比建厂所需的时间更长。”</p><p style="text-indent: 2em; text-align: left;"><strong>4、SK创新旗下部门正考虑研发<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="磷酸铁锂电池">磷酸铁锂电池</a></span></strong></p><p style="text-indent: 2em; text-align: left;">10月9日，有媒体报道，SK创新旗下的电池业务部门SK On目前正考虑研发<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="磷酸铁锂">磷酸铁锂</a></span>电池并用于低成本汽车等特定用途。</p><p style="text-indent: 2em; text-align: left;"><strong>5、台积电将在日本建立首座芯片厂，索尼电装或参与</strong></p><p style="text-indent: 2em; text-align: left;">据外媒报道，由于全球芯片短缺，全球最大的芯片代工制造商台积电和索尼集团正考虑在日本西部熊本县共同新建一个半导体工厂，这是台积电在日本建设的首座芯片工厂。</p><p style="text-indent: 2em; text-align: left;">丰田旗下电装为了确保车用芯片的稳定供应，希望通过在工厂安置设备等方式加入这个项目。据悉，新工厂的总投资约为8，000亿日元（约70亿美元），预计日本政府将提供一半的资金。</p><p style="text-indent: 2em; text-align: left;"><strong>6、爱驰智能手表APP 上线</strong></p><p style="text-indent: 2em; text-align: left;">日前，爱驰官方发布信息称：爱驰智能手表APP 现已上架，APPLE WATCH、OPPO WATCH、小米手表三款智能设备均适配。</p><p style="text-indent: 2em; text-align: left;">通过智能手表APP， 车主可远程查看和遥控爱驰 U5，包括车门、授权启动、空调、寻车等功能，为用车带来了更多的便利性。</p><p style="text-indent: 2em; text-align: left;"><strong>7、沃尔沃斩获全球电动重卡最大订单</strong></p><p style="text-indent: 2em; text-align: left;">近日，沃尔沃宣布：沃尔沃旗下的电动卡车周二收到自北欧物流公司DFDS 的 100 辆沃尔沃电动卡车订单，这笔交易将是沃尔沃电动卡车迄今为止最大的车辆订单， 也是全球重型电动卡车有史以来最大的订单之一 。</p><p style="text-indent: 2em; text-align: left;">文章摘自 电车汇 20211011 发自北京</p> 
+  
+</div>
+            
