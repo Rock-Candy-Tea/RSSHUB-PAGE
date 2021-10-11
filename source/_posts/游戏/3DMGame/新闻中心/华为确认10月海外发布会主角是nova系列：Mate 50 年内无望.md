@@ -26,9 +26,6 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211010/1633876573_4450
 之所以猜测Mate 50，主要是屏幕分析机构的专家David Naranjo制表称，Mate 50 Pro四季度登陆，采用120Hz刷新率显示屏。
 </p>
 <p style="text-indent:2em;">
-华为确认10月海外发布会主角是nova系列：Mate 50年内无望了
-</p>
-<p style="text-indent:2em;">
 不过，多方爆料指出，由于P50系列7月底才发布，Mate 50系列今年不会出现，最快也要明年一季度了。
 </p>
 <p align="center">
