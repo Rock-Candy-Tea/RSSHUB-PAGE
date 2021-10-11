@@ -5,18 +5,17 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 author: 煎蛋
 comments: false
 date: Mon, 11 Oct 2021 08:04:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>团队成员以华人华裔为主</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6f10e146f797d0c4f176157aa2f623d1.jpg!custom" referrerpolicy="no-referrer"><p>平面上通过一点的直线，要保证任意两条直线所成的夹角相等，则直线最多可有几条呢？</p>
-<p>答案是6条直线。它们是正六边形的通过对称中心的那6条对角线。(或许有人说，有两条线所成角是120°吧，它的补角啦)</p>
-<p><img src="https://cors.zfour.workers.dev/?http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%A3%E5%85%AD%E8%BE%B9%E5%BD%A2%E5%AF%B9%E8%A7%92%E7%BA%BF&step_word=&hs=0&pn=1&spn=0&di=36300&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2205111985%2C859026540&os=138437784%2C3481727051&simid=3555666061%2C496111906&adpicid=0&lpn=0&ln=538&fr=&fmq=1633938190714_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fss3.baidu.com%2F9fo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F500fd9f9d72a60594fff37a92b34349b023bba92.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fr5oj6_z%26e3Bkwt17_z%26e3Bv54AzdH3Fq7jfpt5gAzdH3F8888m9m99n9a9blddll_z%26e3Bip4s%3Fqks%3D6jswpj_q7jfpt5g_9&gsm=2&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined" alt="MIT数学家团队解决了高维空间里的等角线问题：过去70年未解决的难题" referrerpolicy="no-referrer"></p>
-<p>等角线问题是空间中通过一个点的直线，任意两条直线的夹角都相等的。</p>
+<blockquote><p>团队成员以华人华裔为主</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom" referrerpolicy="no-referrer"><p>平面上通过一点的直线，要保证任意两条直线所成的夹角相等，则直线最多可有几条呢？</p>
+<p>答案是3条直线。它们是正六边形的通过对称中心的那3条对角线。(或许有人说，有两条线所成角是120°吧，它的补角啦)</p>
+<p>等角线问题是空间中通过一个点的直线，使任意两条直线的夹角都相等，则直线的数目最多为多少。</p>
 <h4 class="pullquote">
 思考题：三维空间中的等角线最多有几条？</h4>
 <p>数学助理教授赵宇飞(18年拿过MIT未来科学奖，国内正规媒体报道就是这个名字，我也就不用拼音了)说："在高维度上，事情开始变得有趣，而且可能的答案似乎是无限。”</p>
