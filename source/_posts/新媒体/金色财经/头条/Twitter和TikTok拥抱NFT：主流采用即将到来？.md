@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=1867'
+headimg: 'https://picsum.photos/400/300?random=9910'
 author: 金色财经
 comments: false
-date: Mon, 11 Oct 2021 09:22:37 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1867'
+date: Mon, 11 Oct 2021 13:27:28 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9910'
 ---
 
 <div>   
-在日益数字化的世界中，社交媒体巨头接受NFTs可能是一种新信誉系统的开始。  
+去中心化的世界中，社交媒体巨头接受NFTs可能是一种新信誉系统的开始。  
 </div>
             

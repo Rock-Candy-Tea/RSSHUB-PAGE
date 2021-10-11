@@ -19,7 +19,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211011/s_0665a59b909d455d984d9f9cfa
 <p align="center"><a href="https://img1.mydrivers.com/img/20211011/0665a59b909d455d984d9f9cfaf300da.png" target="_blank"><img alt="iPhone 13系列电池续航实测：无可争议的王者" h="923" src="https://img1.mydrivers.com/img/20211011/s_0665a59b909d455d984d9f9cfaf300da.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>首先是<strong>在60Hz标准刷新率下，模拟日常Wi-Fi上网浏览，<span style="color:#ff0000;">iPhone 13 Pro Max达到了惊人的21.68小时</span>，远远超出其他任何机型</strong>(iPhone 12 Pro Max因故没测试过)。</p>
 <p><strong>iPhone 13 Pro、iPhone 13也都超过了21个半小时</strong>，不仅领先ROG游戏手机5、三星Galaxy S21U等长续航机型，对比上代更是分别延长了4.29个、3.67个小时。</p>
-<p><strong>iPhone 13 mini就比较一半了，仅仅坚持了10.7个小时。</strong></p>
+<p>iPhone 13 mini就比较一般了，仅仅坚持了10.7个小时。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20211011/99b027b3897a45698b3fbdb6b1f33e7e.png" style="text-align: -webkit-center;" target="_blank"><img alt="iPhone 13系列电池续航实测：无可争议的王者" h="738" src="https://img1.mydrivers.com/img/20211011/s_99b027b3897a45698b3fbdb6b1f33e7e.png" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>接下来是高刷手机之间的对决，<strong>13 Pro系列都开启120Hz，结果<span style="color:#ff0000;">iPhone 13 Pro Max跑出了18.77小时的好成绩</span>，依然傲视群雄，iPhone 13 Pro也坚持了14.20个小时，只输给了ROG游戏手机5。</strong></p>
 <p>相比60Hz下，二者分别损失了<strong>13.5％、14.5％</strong>的续航时间，三星S21U则损失了12.2％。</p>
