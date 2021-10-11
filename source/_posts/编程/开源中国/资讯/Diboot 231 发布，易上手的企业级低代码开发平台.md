@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6754'
+headimg: 'https://picsum.photos/400/300?random=3925'
 author: 开源中国
 comments: false
 date: Mon, 11 Oct 2021 14:38:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6754'
+thumbnail: 'https://picsum.photos/400/300?random=3925'
 ---
 
 <div>   
