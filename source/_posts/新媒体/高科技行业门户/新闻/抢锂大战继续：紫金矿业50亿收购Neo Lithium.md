@@ -1,0 +1,19 @@
+
+---
+title: '抢锂大战继续：紫金矿业50亿收购Neo Lithium'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member35589/202110/wx_article__e857ba2c87f270ac6551b06ef8f60afa.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 11 Oct 2021 07:53:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member35589/202110/wx_article__e857ba2c87f270ac6551b06ef8f60afa.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">“Neo Lithium的前五大股东中包括宁德时代以及全球私募巨头黑石。”</p><p style="text-indent: 2em; text-align: left;">作者:Yami编辑:tuya出品:财经涂鸦(ID:caijingtuya)</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">在新能源和新能源车赛道大火的背景下,锂矿资源备受追捧,而A股上市公司的“抢锂”大战还在持续。</span></p><p style="text-indent: 2em; text-align: left;">据公司情报专家《财经涂鸦》消息,紫金矿业(601899．SH)于10月10日晚发布公告称,公司已与加拿大证交所上市公司Neo Lithium Corp．签署协议,拟以总对价约9．6亿加元(约合人民币49．39亿元)收购其100%股权。</p><p style="text-indent: 2em; text-align: left;">紫金矿业此次出具的收购价为6．5加元/股,较Neo Lithium 10月8日的收盘价5．49加元/股溢价约18%;较之前 20 个交易日的加权平均交易价溢价约36%。</p><p style="text-indent: 2em; text-align: left;">Neo Lithium 除了在加拿大多伦多创业板上市(TSXV,NLC),同时还在美国 OTC以及德国法兰克福交易所也挂牌交易。</p><p style="text-indent: 2em; text-align: left;">Neo Lithium 的核心资产是位于于阿根廷西北部卡塔马卡省的3Q锂盐湖项目,该项目资源量大、品位高、杂质低,开发条件好,是世界上同类项目中规模最大、品位最高的项目之一。</p><p style="text-indent: 2em; text-align: left;">公告显示,根据Neo Lithium在今年6月更新的评估报告,3Q项目碳酸锂当量总资源量约 756．5万吨,其中,探明+控制级碳酸锂当量资源量为530．4万吨,平均锂离子浓度为636mg/L。</p><p style="text-align:center"><img width="554" src="https://mp.ofweek.com/Upload/News/Img/member35589/202110/wx_article__e857ba2c87f270ac6551b06ef8f60afa.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">来源:公司公告</p><p style="text-indent: 2em; text-align: left;">根据2021年4月预可行性研究报告,3Q项目规划年产2万吨<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>级碳酸锂,矿山寿命35年。项目预计初始投资为3．19亿美元,维持性资本开支为2．07亿美元,内部收益率为49．9%,投资回收期为1．7年。此外,该项目具备扩产条件,运用蒸发技术,盐湖年产碳酸锂有可能达4万吨至6万吨。</p><p style="text-indent: 2em; text-align: left;">Neo Lithium的财务数据显示,由于其此前尚未开始生产,其近两年多均为实现营收,而2019年、2020年及今年上半年实现净利润分别为105．26万加元、1329．22万加元、-39．44万加元。</p><p style="text-indent: 2em; text-align: left;">不过,公告中称今年6月,Neo Lithium已产出纯度为99．891%的电池级碳酸锂,这意味着其将实现营收也指日可待。</p><p style="text-align:center"><img width="554" src="https://mp.ofweek.com/Upload/News/Img/member35589/202110/wx_article__fdd4af663de9d5bf7d771ace64d61ece.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">Neo Lithium 近年财务数据 (来源:紫金矿业公告)</p><p style="text-indent: 2em; text-align: left;">需要指出的是,紫金矿业此前并未涉足锂矿,而此次是首次布局锂矿产业。</p><p style="text-indent: 2em; text-align: left;">实际,早在今年8月初,紫金矿业董事长陈景河就曾在公共场合表示,将在国内外寻求开发锂矿机会,未来计划收购一些项目与矿山资产,并打通从锂上游资源到<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E9%94%82%E7%94%B5%E6%B1%A0%E6%9D%90%E6%96%99.HTM" target="_blank" title="材料">材料</a></span>的全产业链。</p><p style="text-indent: 2em; text-align: left;">对于此次收购Neo Lithium,紫金矿业表示,将依托公司矿业开发以及化工、冶金、环保等技术优势,进一步拓展与新能源相关战略性矿种,扩大公司发展空间,构建全新增量领域。</p><p style="text-indent: 2em; text-align: left;">根据公开信息显示,Neo Lithium 的前五大股东中还有中国的新能源巨头宁德时代(300750．SZ,持股约8%)以及全球私募巨头Black Rock(持股约3%)。</p><p style="text-indent: 2em; text-align: left;">由于近年来新能源和新能源车赛道大火,锂矿资源备受追捧,而A股上市公司的“抢锂”大战也一直在上演。</p><p style="text-indent: 2em; text-align: left;">就在今年9月底, 宁德时代刚与世界级锂盐资源公司加拿大的Millennial签订协议,拟3．77亿加元收购该公司100%股权。而与之同时竞购的还有国内锂矿巨头赣锋锂业(002460．SZ),不过由于竞价略低于宁德时代而遗憾出局。</p><p style="text-indent: 2em; text-align: left;">Millennial之所以如此抢手,也正是因为其在阿根廷拥有两处世界级锂盐湖项目,即持有Pastos Grandes锂盐湖项目以及Cauchari East锂盐湖项目100%权益。</p><p style="text-indent: 2em; text-align: left;">毋庸置疑,接下来巨头们对于锂矿资源的争夺大戏,还将继续上演。</p> 
+  
+</div>
+            
