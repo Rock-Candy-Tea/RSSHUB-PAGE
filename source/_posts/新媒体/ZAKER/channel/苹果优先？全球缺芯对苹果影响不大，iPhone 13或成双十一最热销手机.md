@@ -1,0 +1,18 @@
+
+---
+title: '苹果优先？全球缺芯对苹果影响不大，iPhone 13或成双十一最热销手机'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16ccca_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 10 Oct 2021 21:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16ccca_1024.jpg'
+---
+
+<div>   
+<p>去年底，一场史无前例的全球缺芯狂潮率先从汽车行业蔓延开来，随后智能手机、游戏主机、家电等多个行业都受到缺芯影响。目前，缺芯问题仍在持续，全球市场调研机构 Counterpoint Research 近日下调了今年全球智能手机的预估出货量，大约减少 4000 万部。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16ccca_1024.jpg" data-height="396" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16ccca_1024.jpg" referrerpolicy="no-referrer"></div></div>Counterpoint Research 的最新报告称，由于全球芯片短缺，手机厂商仅能获得其订单数量需求的七至八成零件，有九成手机品牌遭受缺料困扰。基于以上判断，今年全球智能手机出货量预期从之前的 14.5 亿部减少到 14.1 亿部，增速也从之前的预期的 9% 减少到了 6%。<p></p><p>从调研数据来看，此次缺芯事件的影响是极其深远的，甚至会传导至消费市场，不少厂商可能会面临原材料涨价的问题，并最终导致终端价格出现浮动。</p><p>realme 副总裁徐起上半年就发出提醒，受手机供应链上游芯片、电池、套片等原材料紧缺影响，今年下半年手机价格可能会产生浮动。此外，小米公司 Redmi 总监王腾也曾表示，K40S 因为缺芯还在难产中。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccb_1024.jpg" data-height="139" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccb_1024.jpg" referrerpolicy="no-referrer"></div></div>不过这场缺芯危机对于苹果来说，似乎并没有造成太大影响。在今年原材料普遍涨价的情况下，苹果甚至降低了 iPhone 13 系列的售价。虽然这很大程度上是因为汇率变化的缘故，但对苹果来说，能够保持手机价格没有跟随原材料大幅上涨已经非常难得。<p></p><p>此前有消息称，由于芯片代工产能紧张，台积电对多个合作伙伴都涨价了 10%-20%。但苹果作为台积电的第一大客户享受到了 VIP 的待遇，涨价幅度只有 3%。</p><p>凭借在供应链特殊的地位，苹果其他元器件供应可能也没有大幅涨价，这或许是今年苹果没有让 iPhone 13 系列涨价的底气所在。</p><p>不仅如此，在晶圆供应量吃紧的背景下，苹果依然和台积电签下了约 1 亿颗 A15 处理器的订单。毫无疑问，在这场缺芯狂潮中，苹果正在享受供应链的优先供应权。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccc_1024.jpg" data-height="510" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccc_1024.jpg" referrerpolicy="no-referrer"></div></div>当然这种优先供应权并不是凭空得来的。苹果公司本身体量庞大，每一款 iPhone 的产量都极其惊人，并以此成为许多供应商的第一大客户，因此能够获得原材料优先供应权也是理所当然。<p></p><p>现如今，全球产业链不仅面临缺芯的考验，疫情的反复爆发也让各行各业随时都需要面对更严峻的考验。在这种情况下，国产手机厂商相比苹果、三星更需要加强抗风险能力，未来核心元器件自研、扶持多个国产供应商可能也会成为小米、OPPO、vivo 的共同选择。</p><p>另一方面，上游供应链出现任何波动都最终会传导至消费市场。</p><p>前文也提到，智能手机的价格不仅可能会产生浮动，今年双十一小米特供机型红米 40S 预计也会因为缺芯导致缺席，而这种情况很可能是国产手机厂商普遍面临的难题。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccd_1024.jpg" data-height="335" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6163cc288e9f092d4a16cccd_1024.jpg" referrerpolicy="no-referrer"></div></div>但苹果凭借自身稳定的供应链，可以让 iPhone 13 系列和其他旧款 iPhone 仍旧保持稳定供应，这可能会让苹果成为今年双十一活动的最大赢家。<p></p><p>目前苹果 iPhone 13 Pro 在第三方销售渠道仍旧存在一定的溢价，但是出货量更大的 iPhone 13 系列上市当天已经破发数百元，预计会成为苹果今年双十一活动的出货主力。</p><p>总而言之，在缺芯和疫情的双重大考下，苹果就像班级里的尖子生，各方面都能受到照顾，并且能够取得好成绩。而国产手机厂商在这样的大考面前也要吸取教训，在快速发展的同时，也要做好抵抗风险的能力，以免在 " 黑天鹅 " 事件的冲击下，造成重大损失。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
