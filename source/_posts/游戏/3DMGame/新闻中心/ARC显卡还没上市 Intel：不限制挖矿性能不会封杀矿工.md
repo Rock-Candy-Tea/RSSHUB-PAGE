@@ -22,7 +22,7 @@ Ti级别。虽然游戏卡还没上市，但是Intel日前率先表态他们不�
 </p>
 <p style="text-indent:2em;">
 但在当前的显卡市场上，显卡挖矿是个绕不过去的问题，AMD/NVIDIA两家都表态无法限制玩家购买显卡后的用途，<strong>不过NVIDIA至少还做出点努力了，推出了LHR版显卡，限制了挖矿算力——当然，RTX 
-30系列显卡现在依然备受矿工欢迎，LHR版也不例外。</strong>
+30系列显卡现在依然备受矿工欢迎，LHR版也不例外。</strong> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211012/1634020371_602884.jpg" alt="ARC显卡还没上市 Intel：不限制挖矿性能不会封杀矿工" referrerpolicy="no-referrer"> 
@@ -36,7 +36,7 @@ Chandler称这个问题很难回答，但Intel的Arc显卡设计目的是玩家�
 </p>
 <p style="text-indent:2em;">
 至于软件锁定功能或者类似的事，<strong><span style="color:#E53333;">Roger 
-Chandler表示Intel目前没有设计或者构建专门针对矿工的功能，这是一种人们能够在市场上买的产品，(限制挖矿能力)不是Intel的优先项。</span></strong>
+Chandler表示Intel目前没有设计或者构建专门针对矿工的功能，这是一种人们能够在市场上买的产品，(限制挖矿能力)不是Intel的优先项。</span></strong> 
 </p>
 <p style="text-indent:2em;">
 对于这一问题，Raja Koduri也跟着明确了Intel的态度，那就是Intel不会做任何额外的工作。
