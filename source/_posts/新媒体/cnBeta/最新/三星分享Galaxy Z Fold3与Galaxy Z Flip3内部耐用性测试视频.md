@@ -1,0 +1,19 @@
+
+---
+title: '三星分享Galaxy Z Fold3与Galaxy Z Flip3内部耐用性测试视频'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1012/ac54d2031efd04a.jpg'
+author: cnBeta
+comments: false
+date: Tue, 12 Oct 2021 06:50:59 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1012/ac54d2031efd04a.jpg'
+---
+
+<div>   
+早些时候，有报道称 Galaxy Z Flip3 的屏幕容易出现折痕。<strong>为了让大家对三星 Galaxy Z Fold3 和 Galaxy Z Flip3 折叠屏智能机的耐用性放心，三星刚刚分享了一段内部测试视频。</strong>在 1：15 秒的时间里，我们看到该公司先后演示了环境仓、泡水、S Pen 手写、以及铰链开合这四个机器测试项目。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2021/1012/ac54d2031efd04a.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;"><span style="text-align: center;">环境仓</span></p><p><span style="text-align: center;">当然，这不是我们首次见到<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>主动分享内部压力测试。比如 2012 年的时候，该公司就曾用机器模拟“一屁股坐在<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>屏幕”上的测试场景。</span></p><p><img src="https://static.cnbetacdn.com/article/2021/1012/f318f27e65cdef5.gif" alt="1.gif" referrerpolicy="no-referrer"></p><p>除了三星，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>也曾通过测试视频回应 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 4 的“天线门”，以及 iPhone 6 的后盖“不耐弯折”问题。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/63f9cfc44dbe421.jpg" alt="2.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">泡水</p><p>其次，尽管折叠屏智能机的铰链缝隙比较脆弱，三星还是在内部开展了充分的浸水实验。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/c9ea208d28cd34d.gif" alt="2.gif" referrerpolicy="no-referrer"></p><p>从该公司分享的测试视频来看，Galaxy Z Fold3 和 Galaxy Z Flip3 的 IP 防护等级还是相当靠谱的。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/ae33f553bc67174.jpg" alt="3.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">S Pen 手写</p><p>此外由于折叠屏的强度没有平面屏智能机那样强，三星已经在 Galaxy Z Fold3 / Flip3 上运用了第二代超薄玻璃（UTG）方案。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/f8c3905a920c36a.gif" alt="3.gif" referrerpolicy="no-referrer"></p><p>庆幸的是，在内部开展的 S Pen 手写耐用性测试项目中，Galaxy Z Fold3 的表现还是相当让人感到满意的。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/28bf8b1692753cf.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">铰链开合</p><p>最后是消费者们最为关注的屏幕 / 铰链耐用性测试，视频中分别展示了 Galaxy Z Fold3 和 Galaxy Z Flip3 机型。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/20d5680062e4910.gif" alt="4.gif" referrerpolicy="no-referrer"></p><p>从三星披露的数据来看，两款设备都是能够承受官方宣称的重复开合次数的。</p><p><img src="https://static.cnbetacdn.com/article/2021/1012/d9eb5cbb8c56c03.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：Samsung <a href="https://news.samsung.com/us/how-samsung-galaxy-z-fold3-flip3-5g-test-behind-the-scenes/" target="_self">Newsroom</a>）</p><p>然而即便如此，三星还是没有选择正面回应近期曝出的 Galaxy Z Flip3 容易出现折痕的问题。某位 Reddit 网友吐槽道，其入手不到三天即躺枪。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=294847059&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: center;">Behind the Scenes - How Samsung Tests the Galaxy Z Fold3 / Flip3 5G（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMjk0ODQ3MDU5LnNodG1s.html" target="_self">via</a>）</p><p>此外该问题并未 Galaxy Z Flip3 独有，9to5Google 指出，Michael Fisher（又名 MrMobile）也吐槽他的 Galaxy Z Fold2 遇到了内屏折痕破裂的问题。</p>   
+</div>
+            
