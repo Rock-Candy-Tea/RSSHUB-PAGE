@@ -1,0 +1,18 @@
+
+---
+title: 'Switch OLED 新款 欧洲上手体验'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/11/3b5c7ee1e1c81c04cd2d81ba705847a5/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 12 Oct 2021 08:56:39 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/11/3b5c7ee1e1c81c04cd2d81ba705847a5/thumb.jpeg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#switcholed版#</a> <br></p><p>坐标德国，赶上了新NS首发。<span data-emoji="cube_乖" class="hb-emoji"></span></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/11/3b5c7ee1e1c81c04cd2d81ba705847a5/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">10.8首发</h4><p>值得一说的是这次德国演示机备的非常多，几乎各个城市的商场里都有。但是备的货却很少，大城市几乎是秒售罄。背景板之类的宣传物料也都换成了新的。前两周老款机就顺势降价了，从原价329欧降到了299欧（约合人民币2242元），算是一波清仓了。<br></p><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/bbs/2021/10/11/d41aced7710aa47111dad431e27e251c/thumb.jpeg" data-width="873" referrerpolicy="no-referrer"></p><h4 class="img-desc">一上来就要捆绑游戏</h4><p>新款机器欧洲的定价是359欧元（约合人民比2692元）。但是因为货少，各大经销商网上全部断货，ebay之类三方平台也都被黄牛炒上了400欧。紧接着大商场也开始割韭菜。一开始备的货强行捆绑密特罗德一起卖，要多加30欧。我去逛街半个小时再回来，更是过分地强行捆绑额外保修，又要再贵50欧，达到了足足439欧（约合人民币3292元）。</p><p><img class="lazy" data-height="873" src="https://imgheybox.max-c.com/bbs/2021/10/11/b906cbcccce2ea12b97c8a6ac88e9e6f/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">涨价后的售价</h4><p>顺便说这个商场以前就有类似捆绑销售的前科，偶尔会有少量PS5可以预定。PS5也要强行捆绑保修卖。然而参照溢价程度这个价格也很香了，并不算很JS。</p><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/bbs/2021/10/11/7c6d8f4d9deb65b32bd112867db110ee/thumb.jpeg" data-width="873" referrerpolicy="no-referrer"></p><h4 class="img-desc">原价是499欧元</h4><p>说这么多，终于要进入正题了。新旧版NS区别在哪呢？</p><p>首先外观方面最大的区别当然是屏幕。大了一点边框变窄了，真的是2021年满满的创新感。<span data-emoji="cube_doge" class="hb-emoji"></span>不过看起来确实舒服很多。</p><p>但是观感最强烈的是颜色。夸张点说，我感觉上帝在我眼前遮住的帘，掀开了! <span data-emoji="cube_哇" class="hb-emoji"></span></p><p>对比旧款的时候，新款颜色的鲜艳程度使旧版感觉看起来灰蒙蒙的。面板也不再像是以前那种廉价的塑料。在尝试马车这种色彩本来就鲜艳的游戏的时候，这个体验就更突出。不得不说这个屏幕色彩表现和老任游戏的风格太搭了。</p><p><img class="lazy" data-height="3072" src="https://imgheybox.max-c.com/bbs/2021/10/11/e5376be561dbde07bdf1005378c09db4/thumb.jpeg" data-width="4098" referrerpolicy="no-referrer"></p><h4 class="img-desc">NS万年护航游戏马车8</h4><p>外观另一大改变就是新的支架。（因为有防盗链随意很难照相，所以没照相<span data-emoji="cube_捂脸哭" class="hb-emoji"></span>）</p><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/bbs/2021/10/11/e3b6381edace0cda80ac1427b003f95c/thumb.jpeg" data-width="915" referrerpolicy="no-referrer"></p><h4 class="img-desc">背面照片（图源Google）</h4><p>新的支架很好用，倾角可以很大。而且大大的一片非常牢固。比起旧版算是史诗级改进了。唯一的缺点是下面就是一排通风口，总感觉会抠错地方。电源键也从圆形变成长条了，不过是无所谓的改动。</p><p>新模具还有一个很值得说的改进就是中框变成一体式金属的了，坚固程度+200%，再也不怕机器弯了!所以新NS也会重量也稍稍增加了一点，上手明显能感觉结实了很多。<br></p><p><br></p><p>硬件方面几乎没什么改进，读取速度之类的感觉也不明显。存储增加到了64GB，也是不太有所谓的改动。（玩下载版的你会没有记忆卡？）如果只在乎性能就可以无视这个新版了。Joy Con也完全没有变化，该漂还是会漂的。<span data-emoji="cube_叹气" class="hb-emoji"></span></p><p>总结购买建议: 上手就是满满的心动的感觉。这些改进完全值得这50欧的差价。不管现在手里有没有switch都可以考虑入手。</p><p>但是溢价的情况下完全不推荐购买。只玩TV模式的朋友也完全没必要购买，如果想要网线接口的，新底座以后肯定会单卖。</p><p><img class="lazy" data-height="1465" src="https://imgheybox.max-c.com/bbs/2021/10/11/55c8a49dd23d178e5ce76245449eefc6/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><h4 class="img-desc">为了不当韭菜我选择等待</h4><p>综合以上观点，我还是不愿意额外付这80欧，选择了网上预定。11月1日前到货，接着玩旧款完全不着急。<span data-emoji="cube_微笑" class="hb-emoji"></span></p><p><br></p><p>最后吐槽一下商场门口的雕像，真的丑死。<span data-emoji="cube_沧桑" class="hb-emoji"></span></p><p><img class="lazy" data-height="4096" src="https://imgheybox.max-c.com/bbs/2021/10/11/1b289fb3ad27615cc567a17f38379a44/thumb.jpeg" data-width="3072" referrerpolicy="no-referrer"></p><h4 class="img-desc">介似个嘛？</h4>  
+</div>
+            
