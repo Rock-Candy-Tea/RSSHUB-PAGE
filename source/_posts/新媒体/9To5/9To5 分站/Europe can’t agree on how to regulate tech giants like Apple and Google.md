@@ -36,7 +36,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/EU-
 </blockquote>
 <p>Tech giants could also be required to provide evidence that proposed acquisitions would not be anti-competitive.</p>
 <p>The main disagreement is over how far to go. Some are content to enact measures that would only impact the very largest companies, while others want broader rules designed to ensure that growing companies also have to follow stricter rules. But there is disagreement on other matters too, such as whether tech companies should be allowed to share data between services (like Google and YouTube), and how much leeway individual EU members should have to enact country-specific laws.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3DqbVOG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/02/Kandji-Native-Banner-750x150.-@2.png?w=1000" alt class="wp-image-695039" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
