@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
 author: 煎蛋
 comments: false
 date: Mon, 11 Oct 2021 08:04:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>团队成员以华人华裔为主</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom" referrerpolicy="no-referrer"><p>平面上通过一点的直线，要保证任意两条直线所成的夹角相等，则直线最多可有几条呢？</p>
+<blockquote><p>团队成员以华人华裔为主</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom" referrerpolicy="no-referrer"><p>平面上通过一点的直线，要保证任意两条直线所成的夹角相等，则直线最多可有几条呢？</p>
 <p>答案是3条直线。它们是正六边形的通过对称中心的那3条对角线。(或许有人说，有两条线所成角是120°吧，它的补角啦)</p>
 <p>等角线问题是空间中通过一个点的直线，使任意两条直线的夹角都相等，则直线的数目最多为多少。</p>
 <h4 class="pullquote">
@@ -24,7 +24,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/5
 <p>他们借助图论的工具，使用谱图理论发展出了全新的思想，为研究网络结构提供了新的数学工具。谱图理论孕育了计算机科学中的重要算法，如谷歌用于其搜索引擎的PageRank算法。</p>
 <p>他们的纯数学研究或对编码和通信领域有潜在影响。等角线是 "球形编码" 的例子，后者是信息理论中的重要工具，允许不同地址在一个嘈杂的通信渠道上相互发送信息。</p>
 <p>最新结果建立在1973年P.W.H. Lemmens和J.J. Seidel一篇论文中提出的定理之上。</p>
-<p>普林斯顿大学数学教授Noga Alon说："这是一个美丽的结果，为极值几何学中精心研究的问题提供了一个令人惊讶的犀利答案，这个问题从60年代开始就受到了相当多的关注。”</p>
+<p>普林斯顿大学数学教授Noga Alon说："这是一个美丽的结果，为极值几何学中精心研究的问题提供了一个令人惊讶的精确答案，这个问题从60年代开始就受到了相当多的关注。”</p>
 <p>"当时有一些好的想法，但后来人们被卡住了近三十年。"赵说。</p>
 <p>这项研究得到了Alfred P. Sloan基金会和国家科学基金会的部分支持。另两位合作者，姚和张通过数学系的本科生研究暑期项目(SPUR)参与了这项研究，而Tidor是他们的研究生导师。他们的成果为他们赢得了数学系的Hartley Rogers Jr. 最佳SPUR论文奖。</p>
 <p>"这是SPUR项目最成功的成果之一，"赵说，"不是每天都能有一个长期的开放性问题得到解决。"</p>
