@@ -8,7 +8,7 @@ categories:
 headimg: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/79/f3/79f314d3-854c-44d1-b588-5cd86096ac4f/fallout_2.jpg'
 author: Method Studios
 comments: false
-date: 2021-10-13 13:15:39
+date: 2021-10-13 14:12:57
 thumbnail: 'https://d2xl3i29vwgm2y.cloudfront.net/media/static/79/f3/79f314d3-854c-44d1-b588-5cd86096ac4f/fallout_2.jpg'
 ---
 
