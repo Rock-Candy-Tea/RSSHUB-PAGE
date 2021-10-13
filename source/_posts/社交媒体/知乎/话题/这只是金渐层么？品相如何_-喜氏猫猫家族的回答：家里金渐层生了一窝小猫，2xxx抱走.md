@@ -1,0 +1,18 @@
+
+---
+title: '这只是金渐层么？品相如何_-喜氏猫猫家族的回答：家里金渐层生了一窝小猫，2xxx抱走'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-185ffd7254ee389fa23dcab8345078b4_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 13 Oct 2021 01:47:19 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-185ffd7254ee389fa23dcab8345078b4_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>这只是金渐层么？品相如何?</strong><br>喜氏猫猫家族的回答<br><p>家里金渐层生了一窝小猫，2xxx抱走</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-185ffd7254ee389fa23dcab8345078b4_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="2020" data-rawheight="2618" data-default-watermark-src="https://pic3.zhimg.com/50/v2-7e4d13b35908db7ec69c347ac0b736c0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-185ffd7254ee389fa23dcab8345078b4_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-185ffd7254ee389fa23dcab8345078b4_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-7363eadc4fbf8a22c3ca143738339c58_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="1729" data-rawheight="2140" data-default-watermark-src="https://pic2.zhimg.com/50/v2-68c82e3b51e127e25e88c4a12df2714d_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-7363eadc4fbf8a22c3ca143738339c58_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-7363eadc4fbf8a22c3ca143738339c58_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-c5383de26b1cf6944ff3646065849286_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="2449" data-rawheight="2264" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4a82568920a4d42c81a7ec1c9ad4af4c_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-c5383de26b1cf6944ff3646065849286_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-c5383de26b1cf6944ff3646065849286_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-73ff2730a4b558cc7abe34a3b97801ef_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="2265" data-rawheight="2834" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c4d57f704403782fddae467a059e9222_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-73ff2730a4b558cc7abe34a3b97801ef_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-73ff2730a4b558cc7abe34a3b97801ef_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
