@@ -1,0 +1,19 @@
+
+---
+title: 'iOS 15.1 Beta4更新，正式版发布时间确定！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1953/202110/14172937595094.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Oct 2021 09:29:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1953/202110/14172937595094.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文|明美无限</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202110/14172937595094.jpg" alt="iOS 15.1 Beta4来了，正式版发布时间也确定！" title="iOS 15.1 Beta4来了，正式版发布时间也确定！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">今日凌晨,<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>为开发者预览版用户推送了<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span> 15．1 Beta4的更新。已经安装了iOS 15测试版描述文件的用户可直接打开设置--通用--软件更新,直接在设备上OTA升级至最新的iOS 15．1 Beta4测试版。</p><p style="text-indent: 2em; text-align: left;">本次更新包大小为650M左右,更新的版本号为(19B5068a),根据官方更新提示,本次iOS 15．1 Beta4依旧主要以修复Bug和优化系统为主。</p><p style="text-indent: 2em; text-align: left;">从果粉的升级体验来看,本次iOS 15．1测试版依旧是小修小补,没有带来大的功能更新。截至目前为止,iOS 15．1最大的更新应该是重新回归了SharePlay(同播共享)功能以及为<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span> 13 Pro系列加入了ProRes视频拍摄的支持等等。</p><p style="text-indent: 2em; text-align: left;">不过从明美无限个人的简单体验之后,以及明美无限公众号果粉的反馈称,新的测试版在流畅度上似乎有一些提升,还有就是续航感觉也有些提升,耗电没有上个版本那么猛了。</p><p style="text-indent: 2em; text-align: left;">另外,苹果日前已经官宣,将在下周举行第二场秋季新品发布会,预计苹果会发布新款 MacBook Pro、Mac mini,以及传闻已久的 AirPods 3。</p><p style="text-indent: 2em; text-align: left;">预计 iOS 15．1 的 RC 版将在下周发布,正式版随后就到。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202110/14172938248959.jpg" alt="iOS 15.1 Beta4来了，正式版发布时间也确定！" title="iOS 15.1 Beta4来了，正式版发布时间也确定！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外呢,今天明美无限还要值得一提的是,一位研究人员发现并报告了一个远程代码执行漏洞,该漏洞可能允许攻击者擦除运行所有iOS版本,包含最新版本的iOS15 iPhone和iPad设备。</p><p style="text-indent: 2em; text-align: left;">这不海外用户罗伯特周三发帖称,他发现了一个漏洞,该漏洞使用户能够使用高级接近<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%93%9D%E7%89%99.HTM" target="_blank" title="蓝牙">蓝牙</a></span>LE漏洞远程擦除iPhone和iPad,而无需访问这些设备。用户还声明他将在以后提供证明。</p><p style="text-indent: 2em; text-align: left;">推文中包含一张他与苹果产品安全团队成员之间的电子邮件交流截图。该团队成员承认了这个问题,并表示将在iOS 15．1中解决,苹果代表表示,iOS 15．1将在10月25日星期一推出,也就是苹果发布会之后的一周。苹果还要求罗伯特对电子邮件和漏洞利用细节保密,直到补丁发布给用户。</p><p style="text-indent: 2em; text-align: left;">除了这一个漏洞之外,苹果近日还悄悄地修正了一个0-day漏洞,该漏洞可能会让应用程序访问 iOS 15．0．2 中的敏感信息。而这一漏洞早在iOS 15．0．2发布前七个月就已经发现(总计有4个漏洞),但苹果一直未予以解决。即便是iOS 15．0．2发布后也仅仅修正了其中 2个,还剩2个未解决。</p><p style="text-indent: 2em; text-align: left;">明美无限观点:苹果iOS系统的漏洞真是没完了,哈哈!这次的漏洞显然还是挺严重的,不过苹果的态度倒是不怎么样,竟然还要求安全人员进行隐瞒。</p><p style="text-indent: 2em; text-align: left;">不多说啥了,各位已经使用iOS 15的用户,等新版出来还是抓紧升级吧,尽快修正安全漏洞,避免潜在的影响!</p><p style="text-indent: 2em; text-align: left;">除此之外呢,据悉,iOS 15．1 将于 10 月 25 日(周一)那天推出 —— 正好赶在苹果 10 月 18 日“Unleashed”活动的一周之后 —— 目前苹果已经放出了 iOS 15．1 和 iPadOS 15．1 的第四个开发者测试版。</p><p style="text-indent: 2em; text-align: left;">那么该版本是否值得升级呢?从苹果最近两个版本的更新来看,随着BUG的明显减少,预计iOS 15．1正式版很快就会到来。如果你现在使用的就是测试版,那么可以考虑升级Beta4,如果你是iOS 15正式版,或者是iOS 14．8等版本,建议等待iOS 15．1正式版的到来。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1953/202110/14172938279816.jpg" alt="iOS 15.1 Beta4来了，正式版发布时间也确定！" title="iOS 15.1 Beta4来了，正式版发布时间也确定！" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最后,如果你的手机遇到了无法解决的软件问题,也可以尝试升级一下最新的版本。需要提醒的一点是,现在iOS的升级变成了一种玄学事件,你不知道哪一次,哪款手机升级之后是正优化还是负优化。若不是手机遇到什么问题,最好还是保持当前版本,或者等到苹果推送正式版再考虑升级,会更稳一点。想获取更多科技资讯,快来关注明美无限吧!</p> 
+  
+</div>
+            
