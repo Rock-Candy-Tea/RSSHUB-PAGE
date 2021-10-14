@@ -325,13 +325,52 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
                 <div class="field__item">
         <p>Up to this point, Haughey’s work has largely focused on his home territory along the Jersey shore, with an emphasis on the city of Wildwood in his photo series <a href="http://www.tylerhaughey.com/ebbtide">Ebb Tide</a>. Wildwood, to the uninitiated, is home to a large concentration of original mid-century beach motels festooned with vivid, space-age neon signage alongside fake palm trees and other quirky, themed decorations.  </p>
 
-<p>For Haughey, Wildwood and places like it offer a chance to explore the space between nostalgia and memory and examine how certain signifiers—like signage and décor—anchor those experiences in our minds. “Memories start out being very familiar and recent and tangible,” Haughey says, “and then as you get further and further away from that summer vacation, they kind of turn strange and take on this fantastical element. You’re not really sure—did that really happen? Was it really that sunny? I think the nature of memory is that it just becomes less and less specific over time.” </p>
+<p>  </p>
+            </div>
+          </div>
+
+          </div>
+
+
+            </div>
+                  <div class="field__item">
+        
+  <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+                                            <article class="media media--type-image media--view-mode-default">
+  
+          <div class="field field--name-image field--type-image field--label-hidden field__items">
+                <div class="field__item">
+            <picture>
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2021-10/1_Lobster%20Bake_resized_3_3_91.webp?itok=HvgDNuF5 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2021-10/1_Lobster%20Bake_resized_3_3_91.webp?itok=CduL9y5W 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2021-10/1_Lobster%20Bake_resized_3_3_91.webp?itok=Wp6bFHmA 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2021-10/1_Lobster%20Bake_resized_3_3_91.jpg?itok=HvgDNuF5 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2021-10/1_Lobster%20Bake_resized_3_3_91.jpg?itok=CduL9y5W 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2021-10/1_Lobster%20Bake_resized_3_3_91.jpg?itok=Wp6bFHmA 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-10/1_Lobster%20Bake_resized_3_3_91.jpg?itok=HvgDNuF5" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+
+  </picture>
+
+
+            </div>
+          </div>
+
+  </article>
+
+                      </div>
+
+            </div>
+                  <div class="field__item">
+        
+  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+        
+              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>For Haughey, Wildwood and places like it offer a chance to explore the space between nostalgia and memory and examine how certain signifiers—like signage and décor—anchor those experiences in our minds. “Memories start out being very familiar and recent and tangible,” Haughey says, “and then as you get further and further away from that summer vacation, they kind of turn strange and take on this fantastical element. You’re not really sure—did that really happen? Was it really that sunny? I think the nature of memory is that it just becomes less and less specific over time.” </p>
 
 <p>Haughey’s most recent work goes further afield to explore similar spots up and down the East Coast, and focuses less on the built environment and more on what he calls “details we might ignore or forget: the warped angle, the errant hammock, the constellation of gift shop tchotchkes that form a portrait of the person who bought them.” His new show, Eastern Standard, debuts Oct 14 at the <a href="https://www.searspeyton.com/exhibitions">Sears Peyton Gallery</a> in New York City, and runs through November 20.  </p>
 
 <p>For more information about Wildwood and the efforts to preserve its collection of hotels and neon signage, visit the <a href="https://www.doowopusa.org/">Doo-Wop Preservation League</a>. </p>
-
-<p>  </p>
             </div>
           </div>
 
