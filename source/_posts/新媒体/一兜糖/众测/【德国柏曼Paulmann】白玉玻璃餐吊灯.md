@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202109/16/8764da/31cb6cde0bbc9f4b.png!home320'
 author: 一兜糖
 comments: false
-date: 2021-10-13 15:08:18
+date: 2021-10-14 00:24:37
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202109/16/8764da/31cb6cde0bbc9f4b.png!home320'
 ---
 
 <div>   
-申请结束时间：2021.09.27                        <br>【德国柏曼Paulmann】白玉玻璃餐吊灯<br>                            数量 ：3<br>                            实际价格 ：898元<br>                            活动体验中<br>                            343人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202109/16/8764da/31cb6cde0bbc9f4b.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.09.27                        <br>【德国柏曼Paulmann】白玉玻璃餐吊灯<br>                            数量 ：3<br>                            实际价格 ：898元<br>                            活动已结束<br>                            343人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202109/16/8764da/31cb6cde0bbc9f4b.png!home320" referrerpolicy="no-referrer">  
 </div>
             
