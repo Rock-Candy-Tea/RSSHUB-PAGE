@@ -5,11 +5,11 @@ categories:
  - 金融
  - 每经网
  - 重磅原创
-headimg: 'https://picsum.photos/400/300?random=4795'
+headimg: 'https://picsum.photos/400/300?random=2059'
 author: 每经网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=4795'
+thumbnail: 'https://picsum.photos/400/300?random=2059'
 ---
 
 <div>   
@@ -24,7 +24,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4795'
             每日经济新闻
           </span>
           <span class="time">
-            2021-10-14 14:08:36
+            2021-10-14 14:57:39
           </span>
         </p>
 
@@ -34,7 +34,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4795'
 
               <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=province&tag_value=%E5%B9%BF%E4%B8%9C%E7%9C%81" class="typeTag tagColor2">广东省</a>
 
-              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300530" data-stock-code="300530" class="typeTag tagColor1">*ST达志 <abbr class="lows">-6.6%</abbr> </a>
+              <a href="http://www.nbd.com.cn/articles/index_for_stock_tag?tag_type=stock&tag_value=300530" data-stock-code="300530" class="typeTag tagColor1">*ST达志 <abbr class="lows">-6.8%</abbr> </a>
 
         </div>
         <!-- div class="typeTags">
@@ -55,8 +55,9 @@ thumbnail: 'https://picsum.photos/400/300?random=4795'
         <!-- 正文图片 -->
 
         <!-- 正文 -->
-        <p class="hdy-question">每经AI快讯，*ST达志（300530.SZ）10月14日在投资者互动平台表示，公司湖南衡阳生产基地首条1.8GWh VDA动力电池生产线尚处于设备安装调试阶段，预计2021年年内投产。近期公司股价波动幅度较大，敬请广大投资者注意二级市场投资风险。</p>
-<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 周宇翔)</p>
+        <p class="hdy-question">每经AI快讯，有投资者在投资者互动平台提问：请问公司什么时候能量产啊！有没有时间表？</p>
+<p class="hdy-answer">*ST达志（300530.SZ）10月14日在投资者互动平台表示，公司湖南衡阳生产基地首条1.8GWh VDA动力电池生产线尚处于设备安装调试阶段，预计2021年年内投产。近期公司股价波动幅度较大，敬请广大投资者注意二级市场投资风险。</p>
+<p class="m-original-right" style="width: 100%; text-align: right; font-weight: bold;">(记者 张喜威)</p>
 <p class="nbd-mzsm" style="line-height: 1.6; margin-bottom: 15px; font-size: 18px; color: red">免责声明：本文内容与数据仅供参考，不构成投资建议，使用前核实。据此操作，风险自担。</p>
 
         <!-- 当没有勾选文章中显示缩略图时，在文章最末尾加上 封面图片来源：摄图网 -->

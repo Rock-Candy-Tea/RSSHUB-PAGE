@@ -19,7 +19,7 @@ Store就能安装软件。但最近苹果发表长篇报告，引用了许多专
 Store，自由安装软件的话(旁加载应用)，会引发一系列的安全问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211014/1634189848_746729.jpg" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211014/1634189848_746729.jpg" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 苹果在该报告中引述了诺基亚在2019年-2020年所做的报告，指出安卓平台上的恶意软件数量，在过去四年比iPhone多15-47倍。
@@ -29,14 +29,14 @@ Store，自由安装软件的话(旁加载应用)，会引发一系列的安全�
 Store以外的软件。苹果担心有黑客软件伪装成App Store正规软件，或是提供免费或独家功能，诱骗用户安装。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210908/1631071748_792574.png" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211014/1634191835_741714.jpg" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 苹果在报告中还提到了安卓木马Banker.BR、TeaBot和BlackRock等盗取用户信息之事，比如BlackRock伪装成Clubhouse 
 app偷取用户资料。苹果强调，若允许旁加载应用，将会让黑客攻击变得更容易，成本更低，最终让公司、开发者、广告商和用户等受害。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20210818/1629282298_674594.jpg" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20210818/1629282298_674594.jpg" alt="苹果称iOS比安卓安全 原因是无法绕过商店安装软件" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
