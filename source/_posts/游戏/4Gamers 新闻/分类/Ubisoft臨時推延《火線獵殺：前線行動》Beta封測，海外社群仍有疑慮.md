@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/d66b74e7-5acd-4dd3-9e5b-121fce
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/d66b74e7-5acd-4dd3-9e5b-121fced26c69.jpg" referrerpolicy="no-referrer"><p>海外玩家批評聲不斷。</p>  
+<img src="https://img.4gamers.com.tw/news-image/d66b74e7-5acd-4dd3-9e5b-121fced26c69.jpg" referrerpolicy="no-referrer"><p>大家會期待嗎？</p>  
 </div>
             

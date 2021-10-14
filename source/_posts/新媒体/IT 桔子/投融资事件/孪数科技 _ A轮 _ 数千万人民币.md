@@ -15,7 +15,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/c4a01ac1cc298c4a0d44bc834fded42b.png'
 <div>   
 <img src="https://cdn.itjuzi.com/images/c4a01ac1cc298c4a0d44bc834fded42b.png" referrerpolicy="no-referrer"><br><br>
         <strong>孪数科技</strong><br>
-        三维仿真领域研发与运营企业<br>
+        全栈自主可控数字孪生平台<br>
         A轮 / 数千万人民币 / 1634193240<br>
         投资方: 力合科创（力合创投）、龙腾资本、启迪控股
         
