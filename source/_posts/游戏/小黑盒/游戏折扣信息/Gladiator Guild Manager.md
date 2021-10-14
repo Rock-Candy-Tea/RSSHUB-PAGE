@@ -1,0 +1,19 @@
+
+---
+title: 'Gladiator Guild Manager'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏折扣信息
+headimg: 'https://cdn.max-c.com/heybox/game/header/1043260_qzkUf.jpg'
+author: 小黑盒
+comments: false
+date: 2021-10-14 14:07:06
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1043260_qzkUf.jpg'
+---
+
+<div>   
+<img src="https://cdn.max-c.com/heybox/game/header/1043260_qzkUf.jpg" referrerpolicy="no-referrer"> <br>
+            平台: PC<br>折扣力度: 9折<br>当前价格: 41[史低]  原价: 45<br><br>  
+</div>
+            
