@@ -5,19 +5,23 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=1212'
+headimg: 'https://img.cls.cn/images/20211015/xOs4q7fy3N.jpg'
 author: 财联社
 comments: false
 date: Fri, 15 Oct 2021 12:08:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1212'
+thumbnail: 'https://img.cls.cn/images/20211015/xOs4q7fy3N.jpg'
 ---
 
 <div>   
 <div class="m-b-10"><p><u>编者按：他们创办的公司或已是独角兽，或刚启动种子轮，或已家喻户晓，或长期身居幕后，或正起于微末，但他们都是中国新经济的微观脉搏，是这轮产业和技术升级的微观主导者和实践者，不同行业成千成万的他们的身影汇聚，投射变革的洪流。</u></p>
-<p></p><blockquote>
-《科创板日报》“连线创始人/CEO”栏目，主要关注创新创业型企业，以企业创始人/CEO的访谈为一手信源，让成长中的创业公司走入公众和市场视野，并发掘最新技术和产业趋势。<p></p>
-<p></p></blockquote>
-<strong>《科创板日报》（上海，记者 朱洁琰）讯，</strong>“目前，<strong>我们认为类脑技术是下一代的人工智能。这并不意味着要取代谁，而是说它有着独特的优势。</strong>” SynSense时识科技创始人兼CEO乔宁说。<p></p>
+<blockquote>
+
+《科创板日报》“连线创始人/CEO”栏目，主要关注创新创业型企业，以企业创始人/CEO的访谈为一手信源，让成长中的创业公司走入公众和市场视野，并发掘最新技术和产业趋势。
+
+</blockquote>
+
+<p><strong>《科创板日报》（上海，记者 朱洁琰）讯，</strong>“目前，<strong>我们认为类脑技术是下一代的人工智能。这并不意味着要取代谁，而是说它有着独特的优势。</strong>” SynSense时识科技创始人兼CEO乔宁说。</p>
+<p><img src="https://img.cls.cn/images/20211015/xOs4q7fy3N.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>乔宁在苏黎世大学博士后研究期间，意识到类脑科学始终处于学术研究阶段，离真正实现落地商用还有一段距离。遂与其导师苏黎世大学、苏黎世联邦理工学院的终身教授Giacomo Indiver一起组建了团队，在中国和瑞士两地积极推动可商用的类脑芯片研发。</p>
 <p>基于苏黎世大学及苏黎世联邦理工20多年的类脑技术研究成果，时识科技于2017年2月成立于瑞士苏黎世，并于2020年4月将总部迁至中国。<strong>迁入中国至今，时识科技已经完成4轮融资。最近一次Pre-B轮融资发生在今年9月，由栖港投资和张江科投联合领投，融资金额近两亿元。</strong></p>
 <p>日前，乔宁在接受《科创板日报》记者专访时透露，<strong>公司今年7月发布的全球首款基于类脑技术的动态视觉智能SoC Speck已经在送样阶段，预计今年底可实现小规模量产，Pre-B轮之后的首要就是推动商业化落地。</strong></p>

@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 36kr
  - 快讯
-headimg: 'https://picsum.photos/400/300?random=8982'
+headimg: 'https://picsum.photos/400/300?random=8719'
 author: 36kr
 comments: false
 date: Fri, 15 Oct 2021 11:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8982'
+thumbnail: 'https://picsum.photos/400/300?random=8719'
 ---
 
 <div>   
-证监会消息，近日按法定程序核准以下企业的首发申请：浙江镇洋发展股份有限公司。（证券时报）  
+证监会消息，近日按法定程序核准浙江镇洋发展股份有限公司的首发申请。（证券时报）  
 </div>
             
