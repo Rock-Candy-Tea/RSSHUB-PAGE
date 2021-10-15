@@ -8,7 +8,7 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-2852c8dd835c740a1db00651c9591bf9523.png'
 author: 开源中国
 comments: false
-date: Thu, 14 Oct 2021 23:56:00 GMT
+date: Fri, 15 Oct 2021 07:55:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-2852c8dd835c740a1db00651c9591bf9523.png'
 ---
 
@@ -25,7 +25,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-2852c8dd835c740a1db00651c9591bf
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">Ubuntu 21.10 不是长期支持 (LTS) 版本，官方提供的支持将于 2022 年 7 月结束，它只是</span><span style="background-color:#ffffff; color:#333333">下一个 LTS（将于 2022 年 4 月发布的 Ubuntu 22.04 LTS，提供 10 年的技术支持）推出之前的最后一个过渡版本。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Ubuntu 21.10 更新亮点</p> 
 <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
- <li>默认采用 GNOME 41 作为桌面环境</li> 
+ <li>默认采用 GNOME 40 作为桌面环境</li> 
  <li>内核使用 Linux 5.13 版本</li> 
  <li>带来全新的 PHP 8</li> 
  <li>使用 GCC 11 作为默认的系统编译器</li> 

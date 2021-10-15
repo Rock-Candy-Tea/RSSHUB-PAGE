@@ -1,0 +1,18 @@
+
+---
+title: '【GTA OL】在暴力碰碰车中赚取三倍奖励，获取游戏内 T 恤庆祝 GTA 3 周年庆'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/15/066651988fa192ceff0f243e1b6d65c8/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 15 Oct 2021 08:43:01 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/15/066651988fa192ceff0f243e1b6d65c8/thumb.jpeg'
+---
+
+<div>   
+<h2>另有双倍 GTA 游戏币和声望值尽在特殊载具任务和杰拉德联系人任务，及更多内容</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/066651988fa192ceff0f243e1b6d65c8/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p><b>暴力碰碰车</b>的诀窍在于知道自己的强项以及对手的弱点，并在一场智勇之争中，利用这两点来取得优势。全神贯注，并将敌人投向虚空，即可获取三倍奖励，持续一整周。</p><h2>获取 Rockstar Games 字体 T 恤</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/a7446b26404794f0be85ebde5bfbafd5/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>现在起至 10 月 20 日期间游玩 GTA 在线模式，即可获取 Rockstar Games 字体 T 恤：这是 Grand Theft Auto III 的 20 周年特殊纪念版服装及涂装系列中的第一款物品。</p><h2>双倍 GTA 游戏币和声望值尽在特殊载具任务以及在每日挑战中赚取 GTA 游戏币奖励</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/bc4d5b4f5632298879d510ed8463fe5a/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>希望赚大钱的总裁们可以使用办公室的保镖事务所电脑终端发起<b>特殊载具任务</b>，所有这些任务都将提供双倍奖励。</p><p>四处游历时，别忘了查看互动菜单，了解最新的<b>每日任务</b>，并确保尽自己所能完成这些任务。本周，完成全部三项每日任务，可获得额外 50% GTA 游戏币报酬。</p><h2>双倍 GTA 游戏币和声望值尽在杰拉德的最后一搏和杰拉德联系人任务</h2><p><img class="lazy" data-height="2166" src="https://imgheybox.max-c.com/bbs/2021/10/15/7a56a650e30df7bdd9e23cc3c00c9965/thumb.jpeg" data-width="3850" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>本周拜访杰拉德或用 iFruit 联系他，帮助杰拉德和家族帮完成<b>联系人任务</b>，即可赚取双倍 GTA 游戏币和声望值，绝不让您白跑一趟。</p><h2>车友会奖品载具及挑战</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/1a239d2d0d83672b70e966b0c0790e9f/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>在未来七天内，洛圣都车友会会员只需参与 6 款不同的<b>洛圣都车友会系列</b>竞速并排名前三，即可获取威皮公路霸者 ASP 的车钥匙，以奖励您坚韧不拔的精神以及敏锐的反射神经。</p><h2>试车赛道载具</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/e190eaea4488533a57732fd7ed28b868/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>在您拜访了周边卡车并纹了个新纹身后，或许可以选择漫步前往车友会的试车赛道。在付钱购买卡林王者 RS 经典版、绝品塞弗和爱尼仕 ZR350 之前，先开它们出去兜个圈。看看它们在<b>争先恐后</b>和<b>时间挑战赛</b>中的表现，或者驾驶它们急速穿梭于柱子之间，测试其灵活性。</p><h2>本周展台载具：浪子幽鬼</h2><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/bbs/2021/10/15/ff534c91886938a86708b9278b8f6421/thumb.jpeg" data-width="3840" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4><p>本周前往名钻假日赌场大厅露个脸，顺便转动一次幸运轮盘。您将有机会带走 GTA 游戏币、声望值、服装、零食或各式各样的神秘奖品。本周展台载具是浪子幽鬼：对于大部分人而言，这辆车只是在高速公路上呼啸而过的一个幻影。</p><h2>折扣</h2><p>车可不仅仅能行驶于路上。只要多点温柔的关爱，您能使它雀跃跳起。本周前往本尼车坊，享受<b>所有液压系统五折</b>，为您的爱车改头换面。另外，还能以<b>七折价格获取绝致月光和亚班尼初代</b>，以及这两款车的<b>本尼改装版载具升级</b>。</p><p>未来七天内，<b>所有车库六折</b>；与此同时，还能以惊人折扣价获取下列载具：</p><ul></ul><p><br></p><ul><li>威皮大满贯卡车：七折</li><li>乔氏搬运者改装版：七折</li><li>兰帕达缇卡斯科：六折</li><li>约塞米蒂蓝彻：七折</li><li>威皮克里克：六折</li></ul><h2>Prime Gaming 奖励及福利</h2><p>GTA 在线模式的玩家只需将其 Rockstar Games Social Club 账户成功绑定至 Prime Gaming，即可在本周游玩时免费获取 10 万 GTA 游戏币。</p><p>Prime Gaming 会员还可把握专享折扣，包括丁卡 RT3000 六五折和兰帕达缇卡斯科三五折，截至 10 月 20 日。</p><p>为确保能享受未来发放的福利，别忘了前往 Prime Gaming 并注册。</p><p>查看 Rockstar 支持，了解详情和限制。</p><p><img class="lazy" data-height="2560" src="https://imgheybox.max-c.com/bbs/2021/10/15/c1216e59a109d479271fa221f2671b57/thumb.jpeg" data-width="1440" referrerpolicy="no-referrer"></p><h4 class="img-desc"> </h4>  
+</div>
+            

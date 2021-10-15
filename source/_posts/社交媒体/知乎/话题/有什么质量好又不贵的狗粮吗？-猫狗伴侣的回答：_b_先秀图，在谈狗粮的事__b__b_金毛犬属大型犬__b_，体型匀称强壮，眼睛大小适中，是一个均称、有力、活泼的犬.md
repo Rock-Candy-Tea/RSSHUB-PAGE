@@ -1,0 +1,18 @@
+
+---
+title: '有什么质量好又不贵的狗粮吗？-猫狗伴侣的回答：_b_先秀图，在谈狗粮的事__b__b_金毛犬属大型犬__b_，体型匀称强壮，眼睛大小适中，是一个均称、有力、活泼的犬...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-4baf1bdce8a7c0f8ee97c0cd83ceb377_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Fri, 15 Oct 2021 01:50:25 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-4baf1bdce8a7c0f8ee97c0cd83ceb377_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>有什么质量好又不贵的狗粮吗？</strong><br>猫狗伴侣的回答<br><p><b>先秀图，在谈狗粮的事</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-4baf1bdce8a7c0f8ee97c0cd83ceb377_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="640" data-rawheight="448" data-default-watermark-src="https://pic3.zhimg.com/50/v2-2843d8320640d2758feb48ac7db7405e_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-4baf1bdce8a7c0f8ee97c0cd83ceb377_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-4baf1bdce8a7c0f8ee97c0cd83ceb377_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-f1f583b639d7d6c53caf8fb2834a8b59_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="840" data-rawheight="479" data-default-watermark-src="https://pic1.zhimg.com/50/v2-34042076036766c134f60742e21d8978_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-f1f583b639d7d6c53caf8fb2834a8b59_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-f1f583b639d7d6c53caf8fb2834a8b59_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>金毛犬属大型犬</b>，体型匀称强壮，眼睛大小适中，是一个均称、有力、活泼的犬种。</p><p>金毛犬最早是一种<b>寻回猎犬</b>。现在大多作为<b>导盲犬与宠物狗</b>。</p><p>毛寻回犬<b>特别喜欢近水</b>，任何气候下都能在水中游泳寻回猎物，深受猎手的喜爱。</p><p><b>再说题主狗粮的事情，</b>题主喂的<b>朗仕狗粮</b></p><p>价格<b>不到10元/斤，</b>这应该是很低的水平了吧。题主还觉得贵的话，建议<b>自制狗粮。</b></p><p><b>能做到的事，给题主推荐同档位品质相对可以狗粮。</b></p><p><b>麦富迪澡趣儿狗粮</b></p><ul><li>品质不用说，<b>山东乖宝集团，</b>HACCP认证、<b>英国</b>BRC认证、<b>全球食品安全</b>FSSC22000体系认证、SGS认证，加拿大CFIA（<b>加拿大食品检测局</b>）的现场审核和进口许可。</li><li>2021年天猫、京东618，<b>销售榜单TOP1</b></li></ul><p><b>疯狂的小狗</b></p><ul><li>相比于题主的<b>朗仕狗粮，23%的粗蛋白，疯狂的小狗24.5%的粗蛋白含量，又优秀一点</b></li><li>加入了<b>10%熟牛肉</b></li></ul><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-81e07b64a233a479789b7822e7086332_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="640" data-rawheight="480" data-default-watermark-src="https://pica.zhimg.com/50/v2-703a6e8f6f57d1e4b15246b5c0715982_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-81e07b64a233a479789b7822e7086332_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-81e07b64a233a479789b7822e7086332_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>如果题主，想要选择更优质的狗粮，可以点击下方两篇文章。</b></p><p><b>国产狗粮品牌推荐</b></p><a href="https://zhuanlan.zhihu.com/p/391434511" data-draft-node="block" data-draft-type="link-card" data-image="https://pic3.zhimg.com/v2-4831df426fb7330c270e509db378bc89_qhd.jpg?source=54b3c3a5" data-image-width="1094" data-image-height="467" class="internal">猫狗伴侣：2021年国产狗粮推荐，平价狗粮。麦富迪、比乐、伯纳天纯、网易严选、比瑞吉、疯狂小狗.....这些狗粮到底怎么样？</a><p><b>怎么挑选一款适合自己狗子的狗粮</b></p><a href="https://zhuanlan.zhihu.com/p/390232048" data-draft-node="block" data-draft-type="link-card" data-image="https://pica.zhimg.com/v2-bb945ec212be6986edb5801e06d24709_qhd.jpg?source=54b3c3a5" data-image-width="897" data-image-height="499" class="internal">猫狗伴侣：如何挑选一款好狗粮？进口、国产、平价狗粮推荐。幼犬、成犬狗粮推荐及品牌选择。</a><p><b>猫狗双全的新时代青年，专注分享猫狗饲养知识，欢迎志同道合的铲屎官留言一起讨论。</b></p>  
+</div>
+            
