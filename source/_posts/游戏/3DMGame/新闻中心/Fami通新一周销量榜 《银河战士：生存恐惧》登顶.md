@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211014/1634221258_5060
 Famitsu公布了2021年10月4日至2021年10月10日上周日本地区实体游戏软件和硬件的估计销售数据。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211014/1634221258_506063.jpg" alt="Fami通新一周销量榜 《银河战士：生存恐惧》登顶" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211014/1634221258_506063.jpg" alt="Fami通新一周销量榜 《银河战士：生存恐惧》登顶" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Switch平台的《银河战士：生存恐惧》是上周销量最高的新游戏，零售销量为86798份。紧随其后的是《孤岛惊魂6》PS4版的销量，为34219份，PS5版销量为16686份，首周总销量为50905份。
@@ -27,7 +27,7 @@ Switch平台的《银河战士：生存恐惧》是上周销量最高的新游�
 Series售出3447台，PS4售出961台。次世代主机继续面临库存问题。
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">软件</span></strong>
+<strong><span style="font-size:16px;">软件</span></strong> 
 </p>
 <p style="text-indent:2em;">
 1.【Switch】银河战士
@@ -61,7 +61,7 @@ Series售出3447台，PS4售出961台。次世代主机继续面临库存问题�
 10.【Switch】分享同乐!瓦力欧制造：7787本（累計14万4966本）
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">硬件</span></strong>
+<strong><span style="font-size:16px;">硬件</span></strong> 
 </p>
 <p style="text-indent:2em;">
 Switch／32792台（累計1719万8146台）
