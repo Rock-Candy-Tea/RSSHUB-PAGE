@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/a653c801bf8ab27aa89ed1fcc4632031.png'
         <strong>硕橙科技</strong><br>
         机器故障诊断设备制造商<br>
         B+轮 / 近亿人民币 / 1634269065<br>
-        投资方: 厦门创投、顺为资本
+        投资方: 融汇资本、厦门创投、顺为资本
         
 </div>
             
