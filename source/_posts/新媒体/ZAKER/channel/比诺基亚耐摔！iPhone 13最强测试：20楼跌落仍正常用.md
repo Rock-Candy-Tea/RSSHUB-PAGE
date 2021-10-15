@@ -1,0 +1,18 @@
+
+---
+title: '比诺基亚耐摔！iPhone 13最强测试：20楼跌落仍正常用'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6168fdf7622768efc400003a_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 14 Oct 2021 23:09:01 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6168fdf7622768efc400003a_1024.jpg'
+---
+
+<div>   
+<p>每年苹果发布新 iPhone 后，都会有一大堆博主对机器进行各种暴力测试，以此来检验 iPhone 的耐用性。今年 iPhone 13 系列采用全新超瓷晶玻璃面板，据说耐摔性得到进一步加强，更是激发了博主们的测试欲望。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/6168fdf7622768efc400003a_1024.jpg" data-height="933" data-width="1579" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6168fdf7622768efc400003a_1024.jpg" referrerpolicy="no-referrer"></div></div>10 月 15 日消息，<strong>油管博主 @TechRax 对 iPhone 13 Pro 进行一次 " 地狱式 " 的跌落测试，直接把手机从 20 楼高的回旋楼梯上丢下。和 iPhone 13 Pro 一同进行测试的诺基亚被摔得直接解体，而前者居然还能正常使用，结果真的太意外了。</strong><p></p><p>小雷了解到，该博主把两台手机从 20 层高的楼梯上扔下，第一次测试中，以耐用性闻名的诺基亚 3310 下落十多层后与铁扶手发生碰撞，被弹飞到楼梯内部。<strong>而 iPhone 13 Pro 下落还不到十层，就被铁扶手弹了三次跌落到楼梯内部。</strong></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/6168fdf7622768efc400003b_1024.jpg" data-height="918" data-width="1565" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6168fdf7622768efc400003b_1024.jpg" referrerpolicy="no-referrer"></div></div>找回手机后发现，诺基亚 3310 已经四分五裂，后盖、电池、机身、按键散落一地，不知道安装回去还能不能开机。<strong>iPhone 13 Pro 因为佩戴了保护壳，即便碰撞三次，也仅是背部玻璃碎裂，正面并未出现明显的损坏，屏幕依旧正常使用。</strong><p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/6168fdf7622768efc400003c_1024.jpg" data-height="934" data-width="1565" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6168fdf7622768efc400003c_1024.jpg" referrerpolicy="no-referrer"></div></div>随机该博主又进行第二次测试，这回没有佩戴保护壳，iPhone 13 Pro 下落十多层后再次与铁扶手碰撞被弹飞。<strong>这次的损伤程度就比较严重，背部玻璃进一步碎裂，左下角处都能看到内部主板，正面屏幕右下角处也出现裂纹，但依旧能正常使用。</strong><p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/6168fdf7622768efc400003d_1024.jpg" data-height="918" data-width="1570" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6168fdf7622768efc400003d_1024.jpg" referrerpolicy="no-referrer"></div></div>第三次测试中，iPhone 13 Pro 才下落五楼左右就直接被弹飞，背部玻璃已经完全损坏，正面电源键位置再增加一处裂纹。但屏幕依旧可以正常使用，屏幕没有半点损坏，滑动触控也正常。<strong>苹果引入的纳米级超瓷晶玻璃还是有点东西的，比诺基亚强太多了，感觉真的可以不贴膜使用了。</strong><p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202110/6168fdf7622768efc400003e_1024.jpg" data-height="920" data-width="1559" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6168fdf7622768efc400003e_1024.jpg" referrerpolicy="no-referrer"></div></div>苹果近几年一直在加强手机的抗摔性，官方声称 iPhone 13 系列的抗摔性比传统手机强 4 倍左右，看来真的不是吹牛。不过，这块神奇的超瓷晶玻璃面板估计也价格不菲，有没有国产厂商愿意引进一下，让安卓用户也感受一番呢？<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

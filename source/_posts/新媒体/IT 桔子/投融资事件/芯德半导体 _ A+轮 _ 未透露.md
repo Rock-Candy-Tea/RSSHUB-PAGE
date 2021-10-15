@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/b9bb19f72ff1468ce643ee728cfaf738.png'
         <strong>芯德半导体</strong><br>
         半导体封装测试服务提供商<br>
         A+轮 / 未透露 / 1634279935<br>
-        投资方: 金浦投资、长江产业基金、OPPO、恒信华业、国投招商、晨壹基金、国策投资、峰岭资本、君海创芯
+        投资方: 金浦投资、小米集团、OPPO、恒信华业、国投招商、晨壹基金、国策投资、峰岭资本、君海创芯
         
 </div>
             
