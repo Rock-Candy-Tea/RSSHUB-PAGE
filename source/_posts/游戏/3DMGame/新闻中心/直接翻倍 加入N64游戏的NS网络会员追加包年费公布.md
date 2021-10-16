@@ -23,7 +23,7 @@ Online+追加包（官方定名）年费为4900日元（港服325港币），家
 Online服务年费为2400日元（港服155港币），付费玩家可以在通过网络与他人连线游玩NS多人游戏，比如《任天堂明星大乱斗：特别版》。另外，订阅玩家还可运行超过100款经典FC和SFC游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634369478_996448.png" alt="直接翻倍 加入N64游戏的NS网络会员追加包年费公布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634369478_996448.png" alt="直接翻倍 加入N64游戏的NS网络会员追加包年费公布" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 10月25日开始，玩家可以将Nintendo Switch 

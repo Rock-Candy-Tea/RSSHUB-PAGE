@@ -1,0 +1,21 @@
+
+---
+title: '【A unknown island 】Adventure in the island-English story solitaire No.1｜shipwreck（船難） @Star_hope'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=8278'
+author: Matters
+comments: false
+date: Sat, 16 Oct 2021 01:35:57 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8278'
+---
+
+<div>   
+<p><strong>【A unknown island 】Adventure in the island-English story solitaire No.1｜shipwreck（船難） @Star_hope</strong></p><p>Viswa is a college student. He has a summer vacation.</p><p>He feels bored in summer vacation, so he plans to go the island with his friends.</p><p>When they take the boat to the island, a typhoon is happened.</p><p>Because of the typhoon, Viswa lose the contact with his friend and he reach a unknown island.</p><p>After he reach the unknown island, he meet a girl in the island and the girl name is sally.</p><p><br></p><p><strong>故事背景 供參考 : </strong></p><p>本來要來一趟旅行的，卻發生了船難，viswa與他的朋友們分離了，他要如何找回他的朋友們呢？又或者是他的朋友都已經死亡了呢？然而Viswa在島上遇到的女孩，對Viswa又會有什麼幫助呢？又或者有危害呢？</p><p>The story background:</p><p>They want a trip but happened a shipwreck.</p><p>Viswa lose his friend. How will Viswa find his friend back or his friend already die? Viswa meet a girl in the island. Will girl help Viswa or make more problems to Viswa?</p><p><strong>建議類型 : 冒險/愛情/懸疑</strong></p><p>The suggestion for the story type:</p><p>Adventure/ love/ mystery</p><p><strong>人設 :</strong> <strong>Viswa是男主角，Sally是女主角</strong>，他的朋友們可以是馬特市裡的任何一個市民，其他劇情中增加的角色也可以是馬特市的任何一個市民，除了需延續前集角色，亦可新增。請勿對角色有人身攻擊或嚴重不適當描述字眼。</p><p>character:</p><p>Viswa is Main actor, sally is Main actress</p><p><strong>地點 : 島上，海上，至於這座島是什麼島則沒有設定，有可能週遭有很多島哦，又或者除了島，是否有什麼隱藏起來的場景呢？</strong></p><p><strong>Place: island, ocean.</strong></p><p><strong>I didn’t make any settings for the island. Maybe there has many island even some scenes are hidden.</strong></p><p><br></p><p><strong>故事接龍規則 :</strong></p><ol><li>請在留言區報名，預定30人，歡迎新舊人都可參加，多讓市民們相互認識，如果同一個時段有好幾個人報名，將以留言先後順序為主，另外，請容許我擁有最後調整棒次的權力 。</li><li>報名的時間以台灣時間來計算，如果有想參加的市民不是來自台灣，在麻煩自己換算一下時間喔。</li><li><strong>同一個人禁止使用小號重複參加，如果有發現此行為，將直接取消資格，請將機會留給其他人。</strong></li><li>大家按著自己的順序，在前一位參與者發布文章後，把文章抄一遍，然后按自己喜歡，任意添加“戲份”。<strong>字數限制 : 至少</strong>50字不可超過100字(不含標點符號) ，倒數三棒因為要收尾，所以最多可以300字，<strong>這次的字數是以英文單字計算，不是英文字母喔！超過者取消領獎資格。</strong></li><li>文章標题，請標注【A unknown island 】adventure in island-English story solitaire No.& <strong>XXXX( )</strong>@nnn<strong> （&為集數，XXXX為英文，括號內為中文。</strong></li><li>發布文章前，請記得 (1)<strong>加上#馬特市故事接龍 標籤與#A unknown island </strong>，(2)<strong>關聯此文</strong>，(3)<strong>還有上一位參與者</strong>；(4)<strong>並且以 @下一位参與者的方式提醒 （5）每篇文都幫我</strong><a class="mention" href="https://matters.news/@sivayunlin" target="_blank" data-display-name="siva" data-user-name="sivayunlin" data-id="VXNlcjo2NzYwMw">﻿<span>@siva</span>﻿</a> </li><li>故事內容 「以<strong>冒險/愛情/懸疑</strong>」。無其他規定， 歪樓就歪樓吧 !!! 但是請體諒舉辦人必須擁有危機處理的權力，特殊狀況必要時得刪文。</li><li>故事接龍文章內創作的人名/地名/招式名.....等各種名稱與劇情，參與者同意馬特市民能在馬特市內自行善意使用。<strong><u>但是圖片、影音之創作，使用前務必取得創作人的同意。</u></strong></li><li>大家可以在留言區彼此互相討論文法，或是如何寫會更好之類的，如果怕別人看不懂自己寫的東西，可以在留言區補上翻譯，這一點完全是看個人意願！</li></ol><p><br></p><p><strong>獎金分配辦法 :</strong></p><p>本活動統一採用評審制(最少兩人，舉辦人可擔任)</p><p>這次的評審由我的印度朋友<a class="mention" href="https://matters.news/@sivayunlin" target="_blank" data-display-name="siva" data-user-name="sivayunlin" data-id="VXNlcjo2NzYwMw">﻿<span>@siva</span>﻿</a>和我自己擔任，取十名表現優異者(平分獎金每人約200 LIKE)，新人會有分數加成。</p><p>The judgement will be <a class="mention" href="https://matters.news/@sivayunlin" target="_blank" data-display-name="siva" data-user-name="sivayunlin" data-id="VXNlcjo2NzYwMw">﻿<span>@siva</span>﻿</a> and myself.</p><p><strong>金額的算法 : </strong></p><p>(一) 提供基金給舉辦人的計算方式( 人數規定 : 最少15人，最多30人 )</p><p>基金一 : 參加人數x100 LikeCoin + 支持人數(上限10人)x100 LikeCoin + 評審費用 1000 LikeCoin</p><p>基金二 : 參加人數x100 LikeCoin</p><p>總基金上限 8000 LikeCoin</p><p>基金一必須全數用於活動，包含獎金費用、支持費用、評審費用。</p><p>基金一在扣除評審費用1000 LikeCoin後，獎金費用與支持費用比例各佔50%</p><p>基金二是給舉辦人的獎金，是辛苦舉辦活動的小紅包。</p><p>補充說明 : 支持費用非常重要，能鼓勵新人給予成就感。</p><p><br></p><h2>英文故事接龍報名開跑，請在留言區手刀報名</h2><p>不用擔心寫錯文法，也不用怕自己英文不好，可以使用翻譯，只要你有膽量願意練習都來報名吧！！語言的使用會有錯誤是正常的，更何況我們都不是母語人士，最重要的是能不能在大家的故事裡學到東西哦！！</p><p><strong>寫下你要參加的 日期/時段，詳細的報名日期與時段請看留言區。</strong></p><pre class="ql-syntax">(上)早上6.~中午12.
+(中)中午12.~晚上6.
+(下)晚上6.~凌晨12.
+</pre>  
+</div>
+            

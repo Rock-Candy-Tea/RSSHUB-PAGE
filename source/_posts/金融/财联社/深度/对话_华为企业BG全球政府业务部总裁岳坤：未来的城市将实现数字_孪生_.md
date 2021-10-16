@@ -5,15 +5,16 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=897'
+headimg: 'https://img.cls.cn/images/20211016/Z8RWwc0pBj.jpg'
 author: 财联社
 comments: false
 date: Sat, 16 Oct 2021 09:00:53 GMT
-thumbnail: 'https://picsum.photos/400/300?random=897'
+thumbnail: 'https://img.cls.cn/images/20211016/Z8RWwc0pBj.jpg'
 ---
 
 <div>   
 <div class="m-b-10"><p><strong>《科创板日报》（上海，记者 黄心怡）</strong>日前，2021全球智慧城市博览会在上海召开，期间，华为企业BG全球政府业务部总裁岳坤接受了《科创板日报》记者的采访，针对城市数字化转型和智慧城市的现状及发展进行了深入解读。</p>
+<p><img src="https://img.cls.cn/images/20211016/Z8RWwc0pBj.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>岳坤表示，<strong>城市数字化转型是智慧城市建设的新阶段，未来的城市将实现数字孪生，会有一个物理世界和一个数字世界</strong>。</p>
 <p>他还指出，智慧城市以数据为核心驱动，但数据一定要服务于业务、服务于场景，不明确需求和场景的数据，自然也就无法产生价值。<strong>如果数据流和业务流的双向反馈不打通，那么就经常会出现“参观项目”的现象。智慧城市的核心是以人为本，要让市民、企业、城市的管理者等，真正地用起来</strong>，才能发挥价值。</p>
 <p><strong>以下为访谈内容：</strong></p>
