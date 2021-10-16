@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png'
 author: 机核网
 comments: false
-date: 2021-10-16 07:07:40
+date: 2021-10-16 08:08:39
 thumbnail: 'https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png'
 ---
 
 <div>   
-<img src="https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-es5a1" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="es5a1" data-offset-key="1sj0f-0-0"><div data-offset-key="1sj0f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1sj0f-0-0"><span data-text="true">富士Horo宣布推出“夏亚专用烧水壶”和“夏亚专用单手锅”两种套装，产品已于10月15日在通贩网站“プレミアムバンダイ”开启预约，预计11月出货。</span></span></div></div>
+<img src="https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fq6d9" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fq6d9" data-offset-key="1sj0f-0-0"><div data-offset-key="1sj0f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1sj0f-0-0"><span data-text="true">富士Horo宣布推出“夏亚专用烧水壶”和“夏亚专用单手锅”两种套装，产品已于10月15日在通贩网站“プレミアムバンダイ”开启预约，预计11月出货。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/cf0c8b5c-2885-4a32-8421-d874fde9a6bb.jpg" alt referrerpolicy="no-referrer">
 
@@ -42,7 +42,7 @@ thumbnail: 'https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png'
 <img src="https://image.gcores.com/4171ef0f-7f26-486a-8440-205bbae802f4.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (5/5) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="es5a1" data-offset-key="6paqb-0-0"><div data-offset-key="6paqb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6paqb-0-0"><span data-text="true">“夏亚专用烧水壶套装”定价4675日元（含税），包含一个容积为1.6L的扎古头烧水壶和一个明太子金枪鱼罐头。</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="fq6d9" data-offset-key="6paqb-0-0"><div data-offset-key="6paqb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6paqb-0-0"><span data-text="true">“夏亚专用烧水壶套装”定价4675日元（含税），包含一个容积为1.6L的扎古头烧水壶和一个明太子金枪鱼罐头。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/c141a9f2-8e8c-4a63-b8ad-d2f5f11b7949.jpg" alt referrerpolicy="no-referrer">
 
@@ -66,6 +66,6 @@ thumbnail: 'https://image.gcores.com/fac08425-2d4d-41fe-a551-e250e4f73691.png'
 <img src="https://image.gcores.com/90fc0771-ec24-4a6d-ba07-91ae54707994.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (4/4) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="es5a1" data-offset-key="chkm0-0-0"><div data-offset-key="chkm0-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="chkm0-0-0"><span data-text="true">“夏亚专用单手锅套装”定价4070日元（含税），包含一个直径14cm的单手锅、一包“三倍辣红色彗星咖喱”和“酱油味赤色彗星用拉面”。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="fq6d9" data-offset-key="chkm0-0-0"><div data-offset-key="chkm0-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="chkm0-0-0"><span data-text="true">“夏亚专用单手锅套装”定价4070日元（含税），包含一个直径14cm的单手锅、一包“三倍辣红色彗星咖喱”和“酱油味赤色彗星用拉面”。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
