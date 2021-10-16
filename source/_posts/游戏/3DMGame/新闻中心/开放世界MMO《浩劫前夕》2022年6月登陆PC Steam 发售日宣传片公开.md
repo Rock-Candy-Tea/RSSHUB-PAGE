@@ -15,7 +15,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211016/1634342118_2377
 <div>   
 <p style="text-indent:2em;">
 发行商MyTona和开发商Fntastic宣布，<a target="_blank" href="https://www.3dmgame.com/tag/kaifangshijie_1/">开放世界</a><a target="_blank" href="https://www.3dmgame.com/tag/shengcun_1/">生存</a>大型多人在线游戏《浩劫前夕（The Day 
-Before）》将于2022年6月22日发售，登陆PC Steam平台。同时该作新增PS5和Xbox Series版本，但主机版发售日暂未确定。
+Before）》将于2022年6月22日发售，登陆PC Steam平台。该作除了登陆PS4和Xbox One外，还新增了PS5和Xbox Series版本，但主机版发售日暂未确定。<span>游戏融合了PvP和PvE玩法。</span>
 </p>
 <p style="text-indent:2em;">
 预告片：
@@ -31,28 +31,28 @@ Before）》将于2022年6月22日发售，登陆PC Steam平台。同时该作�
 <img src="https://img.3dmgame.com/uploads/images/news/20211016/1634342118_237711.jpg" alt="开放世界MMO《浩劫前夕》2022年6月登陆PC Steam 发售日宣传片公开" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
-<strong>游戏特色：</strong>
+<strong>游戏特色：</strong> 
 </h3>
 <p style="text-indent:2em;">
-<strong>不惜一切代价生存</strong>
+<strong>不惜一切代价生存</strong> 
 </p>
 <p style="text-indent:2em;">
 搜索废弃车辆、房屋和摩天大楼来觅取资源。
 </p>
 <p style="text-indent:2em;">
-<strong>进入无人敢去的地方</strong>
+<strong>进入无人敢去的地方</strong> 
 </p>
 <p style="text-indent:2em;">
 用现实中的武器击倒感染者和其他玩家，成为新世界的传奇。
 </p>
 <p style="text-indent:2em;">
-<strong>探索疫情后的广阔世界</strong>
+<strong>探索疫情后的广阔世界</strong> 
 </p>
 <p style="text-indent:2em;">
 驾驶细节惊人的车辆，探索美丽而又危险的地方。
 </p>
 <p style="text-indent:2em;">
-<strong>找到幸存者聚居地</strong>
+<strong>找到幸存者聚居地</strong> 
 </p>
 <p style="text-indent:2em;">
 参与重建疫情发生前的社会，以免为时过晚。你可以在幸存者聚居地出售你的战利品，并与其他玩家安全沟通。
