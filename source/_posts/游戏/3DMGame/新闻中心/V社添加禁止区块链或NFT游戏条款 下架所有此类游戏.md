@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211016/1634353061_5814
 <img src="https://img.3dmgame.com/uploads/images/news/20211016/1634353061_581491.jpg" alt="V社添加禁止区块链或NFT游戏条款 下架所有此类游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-制作者在声明中表示：“因为NFT本身价值不菲，所以在幕后谈判时，我们与Steam官方一直保持良好的交流并处于优势地位。也是由于我们一直维持着区块链及NFT游戏的游戏地位，导致我们输掉了与Steam的谈判，虽然我对《Age of Rust》被移除感到十分的失望，但全部区块链游戏的下架对所有人来说都是一种倒退。”
+制作者在声明中表示：“因为NFT本身价值不菲，所以在幕后谈判时，我们与Steam官方一直保持良好的交流并处于优势地位。也是由于我们一直维持着区块链及NFT游戏的优势地位，导致我们输掉了与Steam的谈判，虽然我对《Age of Rust》被移除感到十分的失望，但全部区块链游戏的下架对所有人来说都是一种倒退。”
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211016/1634353071_755332.jpg" alt="V社添加禁止区块链或NFT游戏条款 下架所有此类游戏" referrerpolicy="no-referrer"> 
