@@ -23,49 +23,49 @@ HTC推出全新<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a
 HTC 表示，Vive Flow 的主要用途是静止的 VR 沉浸式体验，较为宽松的设计以及目前支持的应用较少，导致它并不适合用户佩戴它时四处走动。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_455009.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_455009.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_194386.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_194386.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_461576.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_461576.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_252480.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377156_252480.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 但是最有趣的新闻是，官方最早公布的宣传图竟然有许多都是使用了iStock的图片P的。这没有躲过网友们的眼睛。但是其实HTC是有自己的模特照片的，这让许多人都摸不着头脑为什么官方要使用这些宣传图。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377175_582525.png" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377175_582525.png" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_399416.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_399416.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_575639.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_575639.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_386395.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_386395.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_987461.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_987461.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_169193.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_169193.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_534171.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_534171.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_335454.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_335454.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_320407.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377191_320407.jpg" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377199_388341.png" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634377199_388341.png" alt="HTC最新Vive Flow设备：外形轻薄售价500美元" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
