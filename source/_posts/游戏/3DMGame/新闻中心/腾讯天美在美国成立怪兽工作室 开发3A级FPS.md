@@ -19,7 +19,7 @@ Warner领导天美洛杉矶工作室。几个月之前，腾讯天美宣布他�
 Kaiju”的新团队，由Warner领导，开发FPS游戏从未涉及的幻想主题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387192_451834.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387192_451834.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Kaiju就是怪兽之意，也是工作室在3A领域所希望的扮演的角色，打造能改变早已竞争非常激烈的FPS类型：多人FPS游戏。目前团队正在开发一个新的服务型游戏IP。
@@ -36,14 +36,17 @@ Warner告诉外媒：“我认为还有余地。我个人看来，游戏是21世
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387201_929691.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer">
 </p>
+<p align="center">
+DICE LA开发和运营主管Rosi Zagorcheva与《光环4》首席设计师Scott Warner
+</p>
 <p style="text-indent:2em;">
 怪兽工作室概念图：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387201_584401.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387201_584401.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387201_127546.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211016/1634387201_127546.jpg" alt="腾讯天美在美国成立怪兽工作室 开发3A级FPS" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
