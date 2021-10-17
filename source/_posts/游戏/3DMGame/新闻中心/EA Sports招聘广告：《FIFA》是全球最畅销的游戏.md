@@ -22,7 +22,7 @@ SPORTS在领英平台发布广告招聘游戏项目经理，其中对于《FIFA�
 SPORTS推出的《FIFA》游戏是业界卖得最好的电子游戏产品。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211017/1634449984_670943.jpg" alt="EA Sports招聘广告：《FIFA》是全球最畅销的游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211017/1634449984_670943.jpg" alt="EA Sports招聘广告：《FIFA》是全球最畅销的游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 招聘广告中写道：“EA SPORTS的核心是《FIFA》系列。《EA SPORTS 
