@@ -1,0 +1,18 @@
+
+---
+title: 'switch孤岛危机3重置版评测_显卡危机_ns上表现最好的fps游戏！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/16/dff5b849fd237b61f65dc57075fc890e/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 17 Oct 2021 02:11:28 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/16/dff5b849fd237b61f65dc57075fc890e/thumb.jpeg'
+---
+
+<div>   
+<p>         孤岛危机重置版合集终于来了，由于一代就登录了ns所以2和3上ns我并不奇怪。游戏戏掌机模式的本人实机演示可以去b站BV1xf4y1g7Pp 来观看，所以以下不会出现太多的游戏画面的图。</p><p><img class="lazy" data-height="3024" src="https://imgheybox.max-c.com/bbs/2021/10/16/dff5b849fd237b61f65dc57075fc890e/thumb.jpeg" data-width="4032" referrerpolicy="no-referrer"></p><h4 class="img-desc">游戏主页</h4><p>          本次的移植工作继续由Sabre Interactive来进行，因为ns版巫师3的出色表现所以我对他们的移植效果还是抱有很大期望的。因为巫师3的优化只能说是稀烂，在ps4和x1这两个老平台的表现都不算好，所以在我看来给ns移植巫师3难如登天。</p><p>         那么这次ns上孤岛危机3的效果到底怎么样呢?我的回答是满分，真的确确实实惊艳到我了。极差的硬件配合cryengine的优越性差点让我以为ns拥有和ps4一样的机能。</p><p><img class="lazy" data-height="3024" src="https://imgheybox.max-c.com/bbs/2021/10/16/882d49a13a16512459fa353e2d4ddfa6/thumb.jpeg" data-width="4032" referrerpolicy="no-referrer"></p><p>       因为ns的性能真的很弱，连现在的很多千元手机的性能都可以随意吊打ns上搭载的这颗tegrax1。不同于老黄自己的满血神盾，即使是主机模式的ns也是阉割版的，所以厂商想要移植游戏真的很苦恼，优化神如doom永恒在移植过后依然是糊成一片。</p><p>        不过当我玩到这款游戏的时候还是被吓了一跳。是的，就我游玩的2小时来说全程几乎稳定在720p点对点分辨率稳30帧且画面非常干净并没有啥狗牙或者因为分辨率不足而产生的噪点优秀的光影效果和材质纹理让我很难相信这竟然是ns所能达成的画面表现。</p><p>        </p><p><img class="lazy" data-height="602" src="https://imgheybox.max-c.com/bbs/2021/10/16/690f8c6a59370ed4235a58e06ca7e4a2/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>         我特意搜了下数毛社很早之前的switch版孤岛危机3早期的测试版 VS ps3原版的对比视频。图中可以看出ns版不仅拥有全局光照效果而且帧数已经是大幅度超越ps3了。</p><p>       根据数毛社的分析ns主机模式的孤岛危机3拥有动态的900p分辨率且帧数稳定30帧，游戏的抗锯齿、阴影、环境遮挡和天空渲染均有提升。由于这还是早期的测试版而且ns和ps3这两者的性能差距很小但表现差距真的巨大，所以目前的正式版孤岛危机3可以说是彻底榨干ns机能了。  </p><p>        当然让我感到惊讶的并不止这些，前面我也说了doom永恒在ns－上的体验并不好。根据我的写轮眼估计分辨率大概就是动态540p不稳定30帧的可玩水平。但玩过永恒的都知道这款游戏是一款神优化游戏，以我的pc 微星gt75举例 8850h超4.3ghz 1070拉150mhz可以在1080p下稳定160帧，4k下稳定50多帧并且这还是全高画质，但孤岛危机3的pc版却没有这种效果。</p><p>        </p><p><img class="lazy" data-height="1440" src="https://imgheybox.max-c.com/bbs/2021/10/16/19c0d295d4b028b49f6bb98bca27c87a/thumb.png" data-width="3040" referrerpolicy="no-referrer"></p><p>       同样的，ps4的性能也是数倍于ns。从上图的这段tegrax1的运行Demo来看就能发现ps4怎么看都是吊打。但这次ps4孤岛危机3</p><p>的画面表现却仅仅只有1080p30帧，而ns却可以做到主机模式900p30帧，掌机模式720p30帧。虽说两者在运行孤岛危机3时画面上肯定还是ps4更好，但不谈硬件谈画面都是耍流氓，而且你要知道doom永恒ps4版是稳定1080p60帧反观ns版甚至是一个不能玩的水平，所以我认为ns版的孤岛危机3就是个奇迹。</p><p>         </p><p><img class="lazy" data-height="752" src="https://imgheybox.max-c.com/bbs/2021/10/16/adc20cb89ea3fa34ba22165d2a45f458/thumb.png" data-width="1440" referrerpolicy="no-referrer"></p><p>         说了这么多ns版孤岛危机3多nb多nb，忘了说说这款游戏咋样了。目前ns版三部曲合集打包300多rmb大概，单买一个3大概160rmb左右，我个人建议你直接购买合集。</p><p>         游戏是半开放世界，也是显卡危机这个ip的终章。虽然3代甚至整体素质不如2代，但我仍然觉得孤岛危机3是我人生中最重要的游戏之一。第一次玩这款游戏还是在360上，最让我震撼莫过于游戏cg和实机画面并没有多少出入。显卡危机的出现不仅推动着业界的发展，更影响了这10多年来一批一批的玩家，即使放在2021年这盘冷饭依旧很香，如果你有ns我强烈推荐你玩ns版。</p><p>        </p><p><img class="lazy" data-height="512" src="https://imgheybox.max-c.com/bbs/2021/10/16/b658640f72f6f83a277eb536d33665c8/thumb.jpeg" data-width="820" referrerpolicy="no-referrer"></p><p>        对了，老黄当年发布移动端核弹tegrax1其中的一个demo游戏正是孤岛危机3，可惜神盾上没有了下文，至今都办法玩到这款游戏。如今孤岛危机3强势登录同样搭载tegrax1的ns，也算多少弥补了6年前玩家和老黄心中的一些遗憾吧😄。<a href="heybox://open_subject" target="_blank">#switch#</a>   <a href="heybox://open_subject" target="_blank">#主机游戏#</a>  <a href="heybox://open_subject" target="_blank">#游戏推荐#</a> <br></p>  
+</div>
+            

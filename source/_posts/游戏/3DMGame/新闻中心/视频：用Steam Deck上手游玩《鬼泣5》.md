@@ -24,6 +24,10 @@ Deck的操作基本上能满足这一点。
 <iframe src="https://player.youku.com/embed/XNTE5OTQzNzkzNg==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
+<p style="text-align:center;">
+<iframe src="https://player.youku.com/embed/XNTE5OTQzODI0MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
 <p style="text-indent:2em;">
 视频画面：
 </p>
