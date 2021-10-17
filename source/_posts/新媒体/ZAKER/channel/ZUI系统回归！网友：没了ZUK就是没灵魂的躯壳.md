@@ -1,0 +1,18 @@
+
+---
+title: 'ZUI系统回归！网友：没了ZUK就是没灵魂的躯壳'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc268_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 17 Oct 2021 01:07:35 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc268_1024.jpg'
+---
+
+<div>   
+<p>近日，联想小新官方微博宣布，小新 Pad Pro 12.6 定档 11 月份发布，同时还将带来曾经的王牌 ZUI 系统。目前已开启内测活动，官方称，用户参与内测活动，需要书写 ZUI 系统的使用体验、使用技巧、设计交互感受以及建议，此外，用户与 ZUI 每一代的故事同样可以发表。优质内容创作者将被赠送专属礼品，并有机会被邀请到北京参与 "ZUI 开放日 " 线下主题活动。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc268_1024.jpg" data-height="1555" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc268_1024.jpg" referrerpolicy="no-referrer"></div></div>不过，相比新品，部分网友则把关注点放在了 ZUI 系统上。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc269_1024.jpg" data-height="454" data-width="641" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc269_1024.jpg" referrerpolicy="no-referrer"></div></div>联想中国区消费客户营销总监宋月竹表示 "ZUI 阵地马上复活！团队跑流程找回密码，盖章盖了七八个 "。目前，ZUI 官方微博的最新一条内容还是在 2020 年 7 月 22 日发布，距今已经超过一年时间。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/616bd7a28e9f0979fd1bc26a_1024.jpg" data-height="195" data-width="418" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616bd7a28e9f0979fd1bc26a_1024.jpg" referrerpolicy="no-referrer"></div></div>ZUI 是于 2015 年发布的手机操作系统，作为联想旗下子品牌 ZUK 定制系统，以 Android 为底层基础深度定制，主打丝般顺滑的流畅体验，拥有极致省电和防卡顿技术引擎。<p></p><p>ZUK 承载了联想互联网手机的梦想，也确实给我们留下了一些经典的机型，不管是号称小屏旗舰的 ZUK Z2 还是全面屏手机 Edge，都在市场上取得了相当不错的销量。可惜在激烈的市场竞争中逐渐落寞，ZUK 官网最终于 2017 年正式关闭，现在也已替换成了 Moto 的官方网站。</p><p>虽然废弃了 ZUK，但联想并没有停止对 ZUK 老牌机型的继续维护，而 ZUI 系统继续通过摩托罗拉手机而存活着。</p><p>根据此前爆料，联想 ZUI 13 系统拥有大量更新，将会在 UI 设计、多端连接、隐私保护方面做出全新升级。将采用全新的视觉语言、全新的桌面 /Dock 区域布局，此外 PC 模式也有进化。</p><p>新版系统还提供超级互联功能，可以与手机、PC 配对，进行剪贴板同步、文件共享、消息通知同步等功能。不仅如此，还具有全局笔写、息屏便签、手写笔远程控制等创新功能。更多信息则有待官方陆续公布。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc26b_1024.jpg" data-height="1000" data-width="580" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc26b_1024.jpg" referrerpolicy="no-referrer"></div></div>虽然 ZUI 系统迎来大版本更新，但是粉丝期待的 ZUK 品牌却没有重启的计划，只是被用在联想小新 Pad、Pad Pro 11.5、YOGA Pad Pro 等产品上。对此有网友表示，没有 ZUK 手机的 ZUI 系统，就像是没有灵魂的躯壳，再也回不去当年的青葱岁月。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc26c_1024.jpg" data-height="614" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616bd7a28e9f0979fd1bc26c_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
