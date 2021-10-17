@@ -23,7 +23,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211017/1634453503_8673
 应聘者如果拥有“网络/多人游戏设计经验”和“FPS项目工作经验”的话将优先录用。如果是开放世界RPG+FPS元素的话，就有点《辐射》的意思了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211017/1634453503_867362.jpg" alt="暴雪招聘广告显示其在开发一款FPS元素RPG新作" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211017/1634453503_867362.jpg" alt="暴雪招聘广告显示其在开发一款FPS元素RPG新作" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 FPS类型的话暴雪现在已经有《守望先锋》，而且《守望先锋2》也不是什么机密项目。这款尚未公布的射击元素RPG可能是一款全新的作品。
