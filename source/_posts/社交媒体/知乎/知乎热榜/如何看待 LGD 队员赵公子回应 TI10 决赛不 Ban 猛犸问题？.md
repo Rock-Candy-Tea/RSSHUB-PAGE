@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=839'
+headimg: 'https://pic2.zhimg.com/v2-7e8b8c088dbc3b8232fad6373f7aa263_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 18 Oct 2021 08:10:44 GMT
-thumbnail: 'https://picsum.photos/400/300?random=839'
+date: Mon, 18 Oct 2021 09:39:15 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-7e8b8c088dbc3b8232fad6373f7aa263_1440w.jpg'
 ---
 
 <div>   
-Zhang Shaowei的回答<br><br><h2>希望这是你们距离冠军最近的一次</h2><p><br></p><p>我来告诉你 你这些话的发言的逻辑漏洞在哪里</p><blockquote>第五盘我觉得就是大家心态没那么强大，压力都太大了吧，我打的时候也有点这种感觉，不敢破雾，感觉对面哪里都有眼，特别是几次开雾都被对面读到之后，打得畏手畏脚，像怕做错事的孩子，有优势之后，不会打之前的压制节奏，我们阵容几乎是我们最擅长的体系了，前期2345强势，大哥无解肥刷钱，控盾带走比赛，中期缺什么靠自己对游戏的理解，出对的装备，对面怕莲花，出个莲花，没控，裸个羊刀。</blockquote><p>为什么不敢破雾？</p><p>第四把酱油随便破雾 </p><p>是因为你们心态好吗？</p><p>当然不是</p><p>是因为酱油哪怕破雾 也是在原地被干</p><p>因为猛犸在LGD这边</p><p>可以打反手 可以救人</p><p>而第五盘</p><p>对面有个猛犸</p><p>一破雾就是一个颠勺+拱</p><p>所有破雾的人就是白死的</p><p>没有任何可能被救下来的机会</p><p>所以你们才这么怕</p><p>才畏首畏尾</p><p>还在那边说不是猛犸</p><p>是不是你也吃了？</p>  
+hiccup的回答<br><br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7e8b8c088dbc3b8232fad6373f7aa263_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-a9ce03adb695580a7c227e4ecf981d1e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7e8b8c088dbc3b8232fad6373f7aa263_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6e5816b273c6e754b7f8648d853739fa_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-3186fd546d9503592d95fc7f826c7851_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6e5816b273c6e754b7f8648d853739fa_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-0c4a146972911c6753a0065db8681167_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-26e820939c755a35b2cecbd176a7bfab_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0c4a146972911c6753a0065db8681167_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-eaf253d0150795e56309a9538dc697e3_1440w.jpg" data-rawwidth="1284" data-rawheight="2778" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-16897c9aeaf2dcb714624d5a35b591ad_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-eaf253d0150795e56309a9538dc697e3_r.jpg" referrerpolicy="no-referrer"></figure><p>赵公子的意思就是对面三号位会的很多 ban不过来</p><p>那么以上四张图</p><p>第一张图是对面三的英雄池使用率</p><p>猛犸几乎是马尔斯的两倍</p><p>训练量翻倍的情况下 你不能乱说他的马尔斯更厉害</p><p>第二张图是对面三的猛犸胜率 </p><p>第三张图是对面三的马尔斯胜率</p><p>第四张图是本次比赛的英雄胜率</p><p>以上几个图我们可以轻松得出结论</p><p>对面三玩猛犸玩的比马尔斯多</p><p>猛犸这个版本比马尔斯在ti上的胜率更高</p><p>对面三这个版本猛犸的胜率比马尔斯胜率更高</p><p>对面三号位的历史总战绩也是猛犸的胜率比马尔斯高</p><p>综上</p><p>我认为应该放猛犸 ban马尔斯</p><p>为啥？</p><p>我特么怎么知道</p>  
 </div>
             
