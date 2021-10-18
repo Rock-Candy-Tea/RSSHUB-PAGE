@@ -1,0 +1,18 @@
+
+---
+title: '快手拿下了NBA_二创_权，抖音慌不慌？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616d44128e9f09371a747b94_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 18 Oct 2021 02:06:20 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616d44128e9f09371a747b94_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/616d44128e9f09371a747b94_1024.jpg" data-height="1133" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616d44128e9f09371a747b94_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="zaker_div"><div class="zk_decs"><p>快手体育又进一步。</p></div><div class="edi_oper"></div></div><p></p><p>快手又双叒叕在体育版权领域出手了。</p><p>10 月 18 日，快手与 NBA 中国在北京举办战略合作发布会，宣布双方从即日起达成多年战略合作伙伴关系，快手将成为 NBA 中国首个内容二创媒体合作伙伴，以及 NBA 官方短视频平台、NBA 视频内容创作社区。</p><p>据悉，NBA 及各球队官方账号已整体入驻快手，双方将围绕 NBA 赛事内容及快手体育生态，在内容、品牌商业化、直播电商等多个领域展开深度合作。</p><p>NBA 将为快手创作者提供赛事素材，快手则将为创作者开放专属内容创作后台，把版权内容授予创作者，鼓励用户通过优质内容二创进行商业化变现。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/616d44128e9f09371a747b95_1024.jpg" data-height="396" data-width="1070" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616d44128e9f09371a747b95_1024.jpg" referrerpolicy="no-referrer"></div></div>需要指出的是，近年来，快手在体育版权上不断加码。目前已与美国 NFL 职业橄榄球大联盟、斯诺克世锦赛、美洲杯、2020 年东京夏季奥运会、2022 年北京冬季奥运会等众多全球顶级体育赛事 IP 达成合作，覆盖 40+ 体育类别。<p></p><p>重砸体育版权背后，快手业绩、股价双双承压。根据最新财报，二季度，快手经调整亏损净额为 47.7 亿元，已连续两个季度录得近 50 亿元的亏损，当季亏损额同比扩大 146.2%。</p><p>造成亏损的主因是当季近 110 亿元的巨额营销费用。但投入并没有换来明显的用户增长。截至二季度末，快手日活用户 2.93 亿，环比减少 210 万；月活用户 5.062 亿，环比减少 1360 万。相比之下，抖音日活用户已达 6 亿，比快手多出一半。</p><p>快手用户增长乏力，在一定程度上打击了投资者的信心。今年 2 月，快手上市首日股价大涨 190%，达到 417.8 港元 / 股，市值一度高达 1.73 万亿港元。但在过去大半年里，随着解禁期的到来，快手市值自高点一路暴跌至 3380.12 亿港元，蒸发近 1.39 亿港元。</p><p>因此，尽管争夺体育版权会扩大内容成本，但这能让快手在与抖音的体育竞争中占据先发优势，从而获得更多的流量。</p><p>然而，版权换来的流量极易流失。2018 年，阿里用接近 16 亿的预算帮助优酷 " 偷袭 " 开价 10 亿的腾讯，从央视手里拿到世界杯转播权，但一位前优酷高管在接受晚点 LatePost 采访时称，" 世界杯为优酷带来了超过 3000 万的纯内容用户，世界杯结束后，这波用户很快就流光了。"</p><p>QuestMobile 发布的《2021 体育营销洞察报告》显示，2021 年上半年，腾讯视频 APP 的活跃用户数没有因体育赛事的上线而产生明显增长。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/616d44128e9f09371a747b96_1024.jpg" data-height="652" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616d44128e9f09371a747b96_1024.jpg" referrerpolicy="no-referrer"></div></div>为了留存用户，此番快手将与 NBA 的合作的重点放在了内容二创。通过引入头部体育版权内容，增加社区内容体量，鼓励优质创作者进行二次创作，一方面能增强用户与平台之间的黏性，另一方面也能为平台提供更多商业化场景。<p></p><p>而对抖音来说，2019-20 赛季，抖音平台的 NBA 相关话题播放量超 582 亿；NBA 官方账号播放量超 70 亿；NBA 官方账号覆盖粉丝超 2265 万人。</p><p>快手成为首个 NBA 中国视频内容创作社区，必将分流抖音的 NBA 粉丝用户。更重要的是，抖音用户的 NBA 二创很可能会受到限制。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/616d44138e9f09371a747b97_1024.jpg" data-height="378" data-width="755" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616d44138e9f09371a747b97_1024.jpg" referrerpolicy="no-referrer"></div></div>不过，体育版权始终是一门慢生意。快手能否在合作期内有效运营 NBA 这个大 IP，缩小与抖音的用户差距，还有待观望。<p></p><p></p><div class="zaker_div"><div class="zk_remark"><p>作者｜李彤欣</p><p>编辑｜曾宪天</p></div><div class="edi_oper"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
