@@ -1,0 +1,19 @@
+
+---
+title: '吉利帝豪GL雨天打不开车门，维修也无法解决的通病'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__8a946cb7519ad4798b183ffb5febebb8.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 18 Oct 2021 03:44:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__8a946cb7519ad4798b183ffb5febebb8.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日，汽车门网公布了9月份各级别车型的投诉指数排行。值得注意的是，以往投诉指数不高的帝豪GL竟然跃居至紧凑车投诉TOP10第五名，其遭到最多投诉的典型问题“雨天车门打不开”也十分有特色。</p><p style="text-indent: 2em; text-align: left;">  汽车门网的投诉数据显示，帝豪GL 9月投诉指数为92．1，环比8月大增了132．58％，典型问题“雨天车门打不开”占总投诉的一半以上，2017款车型是该问题的重灾区。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__8a946cb7519ad4798b183ffb5febebb8.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">从车主的描述来看，帝豪GL一到下雨天前排车门就无法打开，想开车甚至要从后排爬进驾驶位。到了晴天，车辆在太阳下暴晒之后车门就又能打开了，十分“神奇”。</p><p style="text-indent: 2em; text-align: left;">还有车主表示，“雨天车门打不开”的问题是2017款车型的通病，车友群里这个年款的帝豪GL都有这个毛病。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__adb2097877ca17e5ec2da70c7edcf8d0.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不仅如此，该问题似乎也并非车辆老旧导致的。</p><p style="text-indent: 2em; text-align: left;">有车主表示，其2018年入手的帝豪GL，在2019年就出现了下雨天副驾驶车门打不开的现象。因为当时车辆在保，就去免费更换了门锁。但这位车主没想到，这才只是噩梦的开始。2020年，车辆又断断续续的出现了雨天打不开门的问题。到了今年，只要一下雨，左右前车门就都打不开了，十分让人头疼。</p><p style="text-indent: 2em; text-align: left;">而4S店对帝豪GL“雨天车门打不开”问题的处理方式，也十分难以让人接受。</p><p style="text-indent: 2em; text-align: left;">上述车主表示，今年他去4S店维修车辆，4s店说只有重新发货更换门锁。但令人难以置信的是，再次更换的门锁依旧是原来的部件。这位车主表示自己被“气炸了”，一个没有升级的缺陷产品换了也是白换。</p><p style="text-indent: 2em; text-align: left;">还有车主去维修时，4S店也仅仅是给门锁涂抹一些润滑油，问题根本没法得到切实的解决。问到到底是什么问题导致的雨天打不开门，4S店称是锁体坏了，但车主表示“ 锁体坏了怎么晴天没事？为什么偏偏下雨天就坏，晴天不坏？”大多数车主都笃定这是2017款帝豪GL的通病，2018款车型也有涉及。</p><p style="text-indent: 2em; text-align: left;">有网友表示，“雨天车门打不开”的问题可能是锁芯进水导致的。因锁体密封不严，下雨天锁芯处可能出现积水，从而导致锁扣不能回弹，车门无法打开。到了晴天因积水挥发，门锁就能正常使用了。还有车主称有次试着把门把手擦干就好了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__5db10054b2b80891a33a282d76a4cf85.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__941b625242a803aac5668852979ed4cb.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而对于这个被称作2017款帝豪GL通病的问题，吉利厂家却并未做出回复。对此有网友表示，“也难怪，如果承认了就要负责的，而且是负法律责任，所以我觉得先曝光再说吧。车门打不开这种奇怪故障国产车的专利”。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member5403/202110/wx_article__8da5666e51456350f31207555d1439a0.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">提到帝豪GL的车门，不得不提的是吉利去年7月26日开展的“史上最无聊的直播”。直播节目中仅停放着一辆白色的帝豪GL和一个机械臂。机械臂在不断地进行开关车门的动作。而这个动作更是完成了10万余次，整整持续了579个小时。</p><p style="text-indent: 2em; text-align: left;">吉利还在直播后声称，“经检验，其车门铰链、限位器、锁扣等各项细节及功能均保持完好无损的状态，各项指标数据也符合行业出厂标准，展现了了其可靠、耐用的品质。”</p><p style="text-indent: 2em; text-align: left;">现如今，帝豪GL车门问题大面积爆发，不知道吉利作何感想，是否还要开一个持续给车门浇水25天后再开关车门的直播，来验证帝豪GL车门在雨天的“可靠”品质。</p><p style="text-indent: 2em; text-align: left;">作为百万级<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>的帝豪，可以说是吉利旗下重中之重的走量车型。虽2017款为较早的车型，但庞大的保有量对产品口碑的影响不可小觑。出现“雨天车门打不开”这种后续维修无法解决的问题是十分严峻的。</p><p style="text-indent: 2em; text-align: left;">  不仅是帝豪GL，作为自主品牌“有头有脸”的车企，吉利中低端产品品控却始终没有得到进一步提升。车辆生锈，配件损坏等问题层出不穷，如今又出现了一个帝豪GL“雨天车门打不开”，一系列问题都在特定的时间节点中得到爆发。相比“史上最无聊的直播”的营销形式，及时弥补后续维修服务的漏洞来维护消费者口碑，或许才更为重要。</p> 
+  
+</div>
+            
