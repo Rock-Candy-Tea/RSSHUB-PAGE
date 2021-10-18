@@ -1,0 +1,18 @@
+
+---
+title: '「洛圣都OL」武器收集系列（二）：佩里科手枪、战斗霰弹枪'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/18/83dfafcdf19e397928e95fefb39bf113/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 18 Oct 2021 15:35:43 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/18/83dfafcdf19e397928e95fefb39bf113/thumb.jpeg'
+---
+
+<div>   
+<p>佩里科岛DLC不仅给大家带来巨大的财富，同时该DLC还有两把隐藏武器可以收集，分别是佩里科手枪以及战斗霰弹枪。两把武器均在分红关出现，其中佩里科手枪需要找到醉酒的保安获取小钥匙开启豪宅办公室办公桌抽屉获得；战斗霰弹枪则只会在豪宅内刷出，找到即可解锁，完成任务后在武装国度购买即可获取。</p><h2>•佩里科手枪</h2><p><b>首先得找到醉酒的保安获取小钥匙，而醉酒的保安随机刷出，刷新点大多在洛圣都各大酒吧附近。</b></p><p><b>地图（红点为目前已知的随机刷新点，可以尝试在这些点之间逛，但不一定会刷出，建议空闲时间多逛。）</b></p><p><img class="lazy" data-height="1380" src="https://imgheybox.max-c.com/bbs/2021/10/18/83dfafcdf19e397928e95fefb39bf113/thumb.jpeg" data-width="996" referrerpolicy="no-referrer"></p><blockquote><p><b>点位参考其他教程，非作者原创</b><br></p></blockquote><p><b>刷出后小地图会出现一个蓝点，就可以看到醉酒的保安了</b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/18/2a643e17ae50c9394cbde0f0fe192e38/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><b>按E便可获得小钥匙</b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/18/f58c1c217f8e8709514d35942eb0677b/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><b>获得小钥匙后开一把佩里科岛分红关，去到豪宅办公室的办公桌抽屉处，按E打开抽屉便可获得佩里科手枪</b></p><p><img class="lazy" data-height="1068" src="https://imgheybox.max-c.com/bbs/2021/10/18/5f2e5915107d6909f7830fcd0e056226/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/18/e127b51d4aa4809e7bb22e61254d016e/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><blockquote><p>‌佩里科手枪解锁后即拥有了该武器。小钥匙‌只需获取一次，以后在分红关都可以打开该抽屉拿枪，但在分红关使用佩里科手枪会暴露位置。</p></blockquote><h2>•战斗霰弹枪</h2><p><b>战斗霰弹枪只在豪宅内刷出，找到还需在武装国度购买才可拥有。</b></p><p><b>地图（红点为目前已知的战斗霰弹枪刷新点，有能力的建议把豪宅内的NPC全搞定再慢慢找，加特林那家伙就不用管了，绕着他找就行）</b></p><p><img class="lazy" data-height="992" src="https://imgheybox.max-c.com/bbs/2021/10/18/440743b0dcc51a2ca531b78bfdef15a5/thumb.jpeg" data-width="1204" referrerpolicy="no-referrer"></p><blockquote><p>‌<b>点位参考其他教程，非作者原创</b></p></blockquote><p><b>战斗霰弹枪一般是竖着摆放的，比较明显，所以还是比较容易找到，找到按E即可解锁</b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/18/8107b0f8724f29826dbb16d6f0c0a8e7/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/10/18/4c5c69c823d5b8177d58df454b1dfaea/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><b>解锁后武装国度便出现了该武器，购买即可</b></p><p><img class="lazy" data-height="936" src="https://imgheybox.max-c.com/bbs/2021/10/18/23ba9fd9b19dee1678b65ea8fed3bfaa/thumb.png" data-width="1888" referrerpolicy="no-referrer"></p><h2>佩里科岛的两把隐藏武器收集完啦</h2><p><img class="lazy" data-height="1524" src="https://imgheybox.max-c.com/bbs/2021/10/18/fb52c54480282a7c89772a4b6e79bc45/thumb.jpeg" data-width="1496" referrerpolicy="no-referrer"></p><p>本教程仅为新手以及未收集玩家提供参考。纯属炒冷饭，大佬勿喷!</p><p><a href="heybox://open_subject" target="_blank">#gta5#</a>       <a href="heybox://open_subject" target="_blank">#gta5线上#</a>      <a href="heybox://open_subject" target="_blank">#gtav佩里克岛#</a>     <a href="heybox://open_subject" target="_blank">#pc#</a>    <a href="heybox://open_subject" target="_blank">#游戏#</a>   <a href="heybox://open_subject" target="_blank">#游戏日常#</a>  <a href="heybox://open_subject" target="_blank">#游戏资讯#</a> <br></p>  
+</div>
+            
