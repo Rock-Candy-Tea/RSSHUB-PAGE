@@ -1,0 +1,19 @@
+
+---
+title: '苹果发布会：AirPods3+MacBook Pro_来炸场_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1/202110/19150146972130.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 19 Oct 2021 07:06:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1/202110/19150146972130.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">是不是感觉，9月刚发布的iPhone13才到手，Apple又在10月19日举行秋季第二场“来炸场”新品发布会。在这场发布会上，缺席了9月发布会的AirPods3终于登场了，还有HomePod mini也新增了黄、橙、蓝三个外观颜色。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202110/19150146972130.jpg" alt="E资讯：AirPods3+MacBook Pro“来炸场”，Apple第二场秋季发布会" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">当然，发布会上还有新款的最强MacBook Pro，搭载了新款M1 Pro和M1 Max芯片。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">第三代AirPods登场，缩短机柄，加大续航</span></strong></p><p style="text-indent: 2em; text-align: left;">AirPods3也可谓是万众瞩目。这一代也似乎将AirPods2和AirPods Pro融合了一下。带有防水防汗的能力，保留了Pro短的耳机柄以及控制音量的力度感应器，耳机孔则是AirPods2的硬塑料。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202110/19150155922412.jpg" alt="E资讯：AirPods3+MacBook Pro“来炸场”，Apple第二场秋季发布会" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">由于采用的开放式设计，所以这一代AirPods3并不带有主动降噪功能。但是依然可以通过支持空间音频，带来沉浸式声音体验。</p><p style="text-indent: 2em; text-align: left;">当然，无线充电依旧支持，续航能力也有较大的提升。耳机达到了6小时续航，再加上耳机盒，总续航时间共有近30小时。耳机放在盒内充电5分钟，预计可以听一小时。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202110/19150204108250.jpg" alt="E资讯：AirPods3+MacBook Pro“来炸场”，Apple第二场秋季发布会" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">AirPods3现在即可预订，售价1399元。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">新款MacBook Pro，搭载最新M1 Pro和M1 Max</span></strong></p><p style="text-indent: 2em; text-align: left;">M1是去年苹果推出的第一款基于ARM架构的自研芯片。到了今年，直接推出了两款升级版，M1 Pro和M1 Max。性能都比去年M1提升了70％。</p><p style="text-indent: 2em; text-align: left;">M1 Pro采用5nm工艺制程和一体化内存设计，最多有10个中央处理器核心、16个图形处理器核心和一个16核神经网络引擎、以及一个专用编解码媒体处理引擎。晶体管数量为337亿颗，内存32GB，内存带宽高达200GB／s。</p><p style="text-indent: 2em; text-align: left;">M1 Max同样采用5nm工艺制程和一体化内存设计，有10个中央处理器核心、最多32个图形处理核心和一个16核神经网络引擎。与M1 Pro相比，M1 Max的图形处理能力和视频编码速度都得到了翻倍。晶体管数量为570亿颗，内存64GB，内存带宽高达400GB／s。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202110/19150215183776.jpg" alt="E资讯：AirPods3+MacBook Pro“来炸场”，Apple第二场秋季发布会" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">那搭载了这两颗处理器的MacBook Pro共带来了14寸和16寸两款机型。两款都可以选择是要M1 Pro或是M1 Max处理器。</p><p style="text-indent: 2em; text-align: left;">并且新款MacBook Pro搭载了Liquid视网膜XDR屏，采用ProMotion自适应刷新技术，可以根据屏幕内容的移动速度自动调节刷新率，最高可达120Hz。边框则是更窄了，前置摄像头位置改为了像iPhone的刘海一样。还配备了1080P高清摄像头。</p><p style="text-indent: 2em; text-align: left;">接口方面，共有MagSafe充电接头、三个雷电接口、一个HDMI接口、SD卡槽和3．5mm耳机插孔。雷电接口除了传输数据之外，仍然支持供电。并且新MacBook Pro支持快充，30分钟可充50％的电量。</p><p style="text-indent: 2em; text-align: left;">Touch Bar设计被取消了，改为一排实体功能按键，右上角依然有Touch ID。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202110/19150223434352.jpg" alt="E资讯：AirPods3+MacBook Pro“来炸场”，Apple第二场秋季发布会" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">两个尺寸MacBook Pro基础款都配备了16GB内存和512GB固态硬盘存储空间。14寸起售价14999元，16寸起售价18999元。发售日期将于稍后更新。</p><p style="text-indent: 2em; text-align: left;">对数码产品感兴趣的小伙伴记得多多关注eWisetech，最快了解拆解设备资讯。最后的最后提醒大家在eWisetech中有各类数码产品测评与拆解，可以移步查阅哦！</p><p style="text-indent: 2em; text-align: left;">手机：iPhone 13</p><p style="text-indent: 2em; text-align: left;">平板：荣耀V7 Pro</p><p style="text-indent: 2em; text-align: left;">儿童手表：米兔儿童手表5C</p><p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="http://wearable.ofweek.com/" target="_blank" title="智能穿戴">智能穿戴</a></span>：韶音骨传导耳机</p> 
+  
+</div>
+            
