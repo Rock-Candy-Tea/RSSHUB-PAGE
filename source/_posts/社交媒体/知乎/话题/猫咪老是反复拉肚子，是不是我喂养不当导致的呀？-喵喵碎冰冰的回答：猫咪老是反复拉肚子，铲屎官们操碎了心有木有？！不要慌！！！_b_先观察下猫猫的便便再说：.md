@@ -1,0 +1,18 @@
+
+---
+title: '猫咪老是反复拉肚子，是不是我喂养不当导致的呀？-喵喵碎冰冰的回答：猫咪老是反复拉肚子，铲屎官们操碎了心有木有？！不要慌！！！_b_先观察下猫猫的便便再说：...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-a6c7612b80f4c5ddcbe0f508975cfd7f_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 19 Oct 2021 13:42:43 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-a6c7612b80f4c5ddcbe0f508975cfd7f_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>猫咪老是反复拉肚子，是不是我喂养不当导致的呀？</strong><br>喵喵碎冰冰的回答<br><p>猫咪老是反复拉肚子，铲屎官们操碎了心有木有？！不要慌！！！</p><p><b>先观察下猫猫的便便再说：</b><br> <br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-a6c7612b80f4c5ddcbe0f508975cfd7f_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="512" data-rawheight="512" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f13e72b2c48db70ce993ad461ede573f_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-a6c7612b80f4c5ddcbe0f508975cfd7f_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-a6c7612b80f4c5ddcbe0f508975cfd7f_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><b> 1.软便、水状 </b><br>一定要第一时间禁食！！！幼猫禁食1餐，成猫禁食12h，还要喂布拉迪酵母菌来调理下肠胃功能。千万注意！！！禁食期间只能喂水！！！其他一定一定不要喂！！！禁食期结束后，先喂平时一半量的猫粮，看看粑粑有无好转，如果有好转，第二天药量可以先减半，再慢慢到平时护理的量。如果还是水样便，就需要配合蒙脱石散一起使用了。如果过两天还是没有什么好转，建议带去医院化验下便便了。<br><b> 2.软便带血 </b><br>首先判断下猫猫是否由于吃尖锐的异物划伤。一般鲜红色就是吃了异物划伤了小肠，最好去医院取出来。如果是暗红色，就建议去做肠镜，看下是不是大肠出血。 <br><b>3.便便带米粒样东西 </b><br> <br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-e11de4733e8116f8bd50b63b9cb0b7ba_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="735" data-rawheight="600" data-default-watermark-src="https://pic2.zhimg.com/50/v2-12c1a15e8003ebe96bac6822f0abb136_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-e11de4733e8116f8bd50b63b9cb0b7ba_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-e11de4733e8116f8bd50b63b9cb0b7ba_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br>粑粑里面如果有米粒样东西，就是绦虫的结片，可使用拜宠清来给猫猫驱虫哦。一般隔天会见效，如果隔天还没有排虫，或者7天后没有好转，最好重新来一次驱虫。<br> <b>4.墨绿色、白色样便 </b><br>墨绿色：主要是消化不良。<br>白色：骨头类食物吃太多或者就是猫毛。<br>这两种情况，喂点益生菌调理下就可以了。比如妈X爱什么的。<br> <b>5.以上均不是，就有可能是换新猫粮太快了。一定要按照七天换粮大法，不要切换的太快。</b><br>如果正常步骤换粮还是软便，就看是不是对猫粮的某个成分过敏。肠道脆弱的猫猫，尽量选用单一肉源的猫粮哦。   <br>如果自己确实不会判断，家里也没备什么常用药的，建议不要拖延，尽快带猫咪去医院，取大便进行化验。 <br><b>  最后希望猫咪都能健康快乐圆润的成长哦~~</b><br> <br><br><br><br><br><br><br><br><br><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-3e690639d9d344533a649bc4c2ea9079_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="800" data-rawheight="800" data-default-watermark-src="https://pic2.zhimg.com/50/v2-2192be86634b575a39925a7822bbb4e7_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-3e690639d9d344533a649bc4c2ea9079_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-3e690639d9d344533a649bc4c2ea9079_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><a href="https://zhuanlan.zhihu.com/p/412495869" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-610702e070a218430e6c418c9a2d02f7_qhd.jpg?source=54b3c3a5" data-image-width="1418" data-image-height="800" class="internal">喵喵碎冰冰：2021年10月|猫粮性价比推荐：不会选猫粮？这里有高性价比猫粮品牌推荐和猫粮测评</a><p></p>  
+</div>
+            

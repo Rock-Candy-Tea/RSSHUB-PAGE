@@ -20,6 +20,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211019/s_c53a7db4dfa14d4490bb6299cf
 <p>而更让费尔柴尔更惊讶的是，<strong>DNA检测结果显示，孩子们与丈夫之间却存在血缘关系。孩子明明是自己十月怀胎生下的，现在却与她没有关系，还面临着政府对她的起诉，这让费尔柴尔一时不知所措。</strong></p>
 <p>不过，费尔柴尔遇到的这种情况并非独一无二，此前也有人与费尔柴尔的情况类似，而最终的结果显示是当事人属于“嵌合体”。</p>
 <p>为此，费尔柴尔又进行了进一步的检测。结果发现，<strong>她的宫颈拭子检测显示她有两套截然不同的DNA，这意味着她的确是一个嵌合体。</strong>与此同时，也说明了为什么DNA检测结果显示她与她的孩子没有血缘关系。</p>
+<p>据了解，“嵌合体”在遗传学上用以指不同遗传性状嵌合或混杂表现的个体。免疫学上的涵义则指一个机体身上有两种或两种以上染色体组成不同的细胞系同时存在，彼此能够耐受，不产生排斥反应，相互间处在嵌合状态。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211019/c53a7db4dfa14d4490bb6299cf2b60d5.png" target="_blank"><img alt="奇怪！女子亲生孩子DNA检测却与自己无血缘关系" h="400" src="https://img1.mydrivers.com/img/20211019/s_c53a7db4dfa14d4490bb6299cf2b60d5.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
