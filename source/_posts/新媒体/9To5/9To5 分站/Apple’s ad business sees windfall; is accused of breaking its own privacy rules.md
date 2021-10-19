@@ -48,7 +48,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/App
 <li>The financial estimates are sketchy as the date doesn’t include absolute values</li>
 </ul>
 <p>Apple said that the aim of ATT was to protect users, but didn’t confirm or deny whether it has benefitted financially.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><figure class="wp-block-image size-large"><a href="https://bit.ly/3DqbVOG"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2021/02/Kandji-Native-Banner-750x150.-@2.png?w=1000" alt class="wp-image-695039" referrerpolicy="no-referrer"></a></figure></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/2Z3a1VC"><img class="aligncenter wp-image-761655 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/10/totallee20off.gif" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
