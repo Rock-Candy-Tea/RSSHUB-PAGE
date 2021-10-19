@@ -1,0 +1,19 @@
+
+---
+title: 'Boothco Limited'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f766d7e2-3ad1-4d10-b9d7-2ee6943114f4&size=gallery'
+author: Mind42
+comments: false
+date: 2021-10-19 02:24:53
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f766d7e2-3ad1-4d10-b9d7-2ee6943114f4&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f766d7e2-3ad1-4d10-b9d7-2ee6943114f4&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
