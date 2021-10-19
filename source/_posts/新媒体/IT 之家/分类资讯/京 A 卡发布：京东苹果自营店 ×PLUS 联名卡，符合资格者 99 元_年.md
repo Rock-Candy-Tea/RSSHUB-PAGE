@@ -1,0 +1,19 @@
+
+---
+title: '京 A 卡发布：京东苹果自营店 ×PLUS 联名卡，符合资格者 99 元_年'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/0b57ab8c-1704-4511-a604-cdcf7f0e1c7c.jpg@s_2,w_820,h_2160'
+author: IT 之家
+comments: false
+date: Tue, 19 Oct 2021 07:47:03 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/0b57ab8c-1704-4511-a604-cdcf7f0e1c7c.jpg@s_2,w_820,h_2160'
+---
+
+<div>   
+<p data-vmark="03ff"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 19 日消息，京东 App 显示，京东 Apple 产品自营店开启年度会员节，开通 Apple 产品自营店 ×PLUS 联名卡，以旧换新享全线产品 94 折，还支持只换不修，另外原厂备件维修 5 折、配件专属 94 折。</p><p data-vmark="0406"><img src="https://img.ithome.com/newsuploadfiles/2021/10/0b57ab8c-1704-4511-a604-cdcf7f0e1c7c.jpg@s_2,w_820,h_2160" w="1080" h="2845" title="京 A 卡发布：京东苹果自营店 ×PLUS 联名卡，符合资格者 99 元/年" srcset="https://img.ithome.com/newsuploadfiles/2021/10/0b57ab8c-1704-4511-a604-cdcf7f0e1c7c.jpg 2x" width="1080" height="2160" referrerpolicy="no-referrer"></p><p data-vmark="fdf3"><strong>PLUS 京典卡 1 年享 12 大超值权益</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="ac6b">10 倍返京豆</p></li><li><p data-vmark="e6ae">100 元券包</p></li><li><p data-vmark="77b7">360 元运费券礼</p></li><li><p data-vmark="531e">等 12 大特权</p></li></ul><p data-vmark="f9a6">IT之家获悉，截至 10 月 15 日，PLUS 累计在籍 3 年以上，且京享值大于 9000 分以上可享 99 元特价邀请开通（原价是 1999 元），本联名卡购买后无法退换。</p><p data-vmark="33fa"><strong>京东 Apple 产品自营店年度会员节：</strong><a href="https://union-click.jd.com/jdc?e=&p=JF8BAOgJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDRdBAlLARheBAMAFhtFRjdPT0UXCnlSUQgLDQ9CXTwIQB9NO1VkMi0cAAAfYhxKBQNKCFJLSwcYVBYnQSZ4fh9xJ1FgHUQJVU5cWz8BYBhyLQoOZFxcCE4eA24AEmsWXwEAUlpYC0wnYAhmRABLOEdeFS5tCEonSAEJK1sWWgIAUVZcAEMnA2gKHlwWVQIDU11aDXsXC2g4RxlHHEQyZG5eOHsnAl8LKwV7XFUCV1lcC0J5WStBWV1GVQNsVlxdDkgeC244GVoUXwQy" target="_blank" data-wapurl="https://union-click.jd.com/jdc?e=&p=JF8BAOoJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQwRVKw5YXh0SRzpWSFtOGV5kBzg7ewofSGdpaBkLBVlXABdCUQ5LXl9LTCRLFUNpCDsLEip1BThbS14QX1xiWFJtC0weCmk4GFkSXwAGUV1aOChwbTBTRT5UAUdyZFxcDUoWC19DdVolXQIHUVdcCEMQBV8IHFkQWgUKUF9aCk4eM28AHGtJH1RDFm5tOEgnM18JK1glA2gDB15eABhHAQFSXxJXW1VRCTBfCkseAGoNHWsXXAcAVm4" data-iosurl="https://union-click.jd.com/jdc?e=&p=JF8BAOoJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQwRVKw5YXh0SRzpWSFtOGV5kBzg7ewofSGdpaBkLBVlXABdCUQ5LXl9hcj1hVURVHTwDcjIRChIIWwZSO3JEWFJtDUoeC2YNGloRbQUAU1xbDE4UBF9rfDVKBlhnFQIceHsXBl9DdVolXgcAVF9cCU4eBF8IHFkQWgUKUF9aDUgfM28AHGtJH1RDFm5tOEgnM18JK1glA2gDB15dDUMeAAFSXxJXW1VXHTBfCkseAm0PHmsXXAcAVm4" data-androidurl="https://union-click.jd.com/jdc?e=&p=JF8BAOsJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQwRVKw5YXh0SRzpWSFtOGV5kBzg7ewofSGdpaBkLBVlXABdCUQ5LXl9sRzBVR1VBEj0OSBJscThdeRBUWFJiWFJtCEkXC2wJG1oWVTYBVllfDk8SAGg4eDx7Al1cMR8BSTsnA244UDUUbQYBU1pfDUMXA2s4G1wXWAEBXFpcD08XA18IE1wlAURQFRxtOHsUM184GmsWbVhsVQ1dC0NEU21mQR9cHwBRAlozCkkXCmwNH10lXwcDVlxt" data-uwpurl="https://union-click.jd.com/jdc?e=&p=JF8BAOoJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQwRVKw5YXh0SRzpWSFtOGV5kBzg7ewofSGdpaBkLBVlXABdCUQ5LXl99fD5hLlRxCj4BXB1yYDdIWCVlK2JEWFJtDEgSAm0AGlMcbQUAU1xbDE4UBF9rfDVKBlhnFQIceHsXBl9DdVolXQUFUFxcDU0RB18IHFkQWgUKUF9aD0wfM28AHGtJH1RDFm5tOEgnM18JK1glA2gDB15dXE5CAwFSXxJXW1VYDjBfCksRCmYJGmsXXAcAVm4" data-wxmpurl="ithome://openmp?appid=wx91d27dbf599dff74&path=/pages/union/proxy/proxy?spreadUrl=https%3a%2f%2funion-click.jd.com%2fjdc%3fe%3d%26p%3dJF8BAOsJK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQwRVKw5YXh0SRzpWSFtOGV5kBzg7ewofSGdpaBkLBVlXABdCUQ5LXl8LGhNNBQdGIzsVfhUWZm5sRB9iR3piWFJtC0oVB24JGFoVWjYBVllfDk8SAGg4eDx7Al1cMR8BSTsnA2o4UDUUbQYBVVxbCEwXC2c4G1wXWAEBXFpcD00VBl8IE1wlAURQFRxtOHsUM184GmsWbVhsVQ1aDUIXAGpmQR9cHwBRCBozCEwfB2cBGl4lXwcDVlxt&EA_PTAG=17078.27.380">点此购买</a></p>
+          
+</div>
+            
