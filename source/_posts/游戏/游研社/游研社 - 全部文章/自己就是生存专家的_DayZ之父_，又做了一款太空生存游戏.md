@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 全部文章
-headimg: 'https://picsum.photos/400/300?random=6513'
+headimg: 'https://picsum.photos/400/300?random=381'
 author: 游研社
 comments: false
-date: Sun, 17 Oct 2021 02:24:52 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6513'
+date: Sun, 17 Oct 2021 03:07:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=381'
 ---
 
 <div>   
-可能在游戏制作人里，没有人比这个“疯子”更懂什么是“生存”了。2010年的12月，文莱的热带雨林 ...  
+可能在游戏制作人里，没有人比这个“疯子”更懂什么是“生存”了。  
 </div>
             
