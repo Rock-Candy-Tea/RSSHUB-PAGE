@@ -1,0 +1,19 @@
+
+---
+title: '西门子EDA：模拟信号如何进行电源完整性动态分析？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member39750/202110/wx_article__ce39d94a74a2c3d74a82128379f9eb3a.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 19 Oct 2021 09:02:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member39750/202110/wx_article__ce39d94a74a2c3d74a82128379f9eb3a.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><strong>文︱</strong>郭紫文</p><p style="text-indent: 2em; text-align: left;"><strong>图︱</strong>西门子EDA</p><p style="text-indent: 2em; text-align: left;">随着芯片复杂度、集成度不断提升,其内部晶体管数量逐渐数以亿计,甚至突破万亿个。面对规模如此庞大的电路,<span class="hrefStyle"><a href="https://dianyuan.ofweek.com/" target="_blank" title="电源">电源</a></span>完整性直接决定了芯片性能、可靠性、信噪比与误码率、EMI与EMC等关键参数的好坏。因此,在芯片设计和测试过程中,电源完整性分析的重要性日益突显。</p><p style="text-indent: 2em; text-align: left;">稳定可靠的电源供应能够提高芯片性能、可靠性,降低芯片功耗,协助工程师实现初始设计目标。在数字信号领域,分析电源完整性和可靠性的EDA工具已经趋于成熟和完善。然而,对于模拟/混合信号芯片,市场内却鲜有解决方案推出。长期以来,模拟/混合信号芯片的电源完整性分析仍需大量的人力资源投入,工程师被迫使用手动、静态方法分析芯片,耗费了大量的时间、精力和资金成本。</p><p style="text-indent: 2em; text-align: left;">针对市场需求和应用缺口,西门子EDA(Siemens EDA)推出了全新的电源完整性分析解决方案mPower,面向模拟、数字和混合信号设计。据西门子数字化工业软件 Calibre interfaces 和 mPower 电源完整性分析工具产品管理高级总监Joseph Davis介绍,mPower实现了模拟功能的突破和数字性能的超越,能够为任意规模的芯片设计提供电源完整性分析,是业界首款模拟和数字EM/IR可扩展解决方案。</p><p style="text-align:center"><img width="100%" src="https://mp.ofweek.com/Upload/News/Img/member39750/202110/wx_article__ce39d94a74a2c3d74a82128379f9eb3a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>产业智能化驱动EDA设计新思路</strong></p><p style="text-indent: 2em; text-align: left;">近年来,半导体产业蓬勃发展,越来越分散的下游市场需求对上游芯片设计提出了更细致的要求。产业智能化趋势下,物联网连接数量呈指数级增长,传感器等模拟芯片需求持续放量上涨。在Joseph Davis看来,“几乎所有的后端计算产品都能见到传感器的身影。”作为感知环境、处理外界信号的第一道关卡,模拟芯片的应用数量惊人,模拟与数字的连接复杂性也给芯片设计带来了巨大的挑战。</p><p style="text-indent: 2em; text-align: left;">现阶段,面对越来越繁多的芯片功能性需求,模拟模块与电源模块增长迅速。“为了提高终端产品<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E9%87%8C%E7%A8%8B.HTM" target="_blank" title="续航">续航</a></span>能力和<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>性能,对于功耗的管理越来越重要。” Joseph Davis表示,毫无疑问,对功耗管理的投入越多,芯片设计的复杂性也越高。仅仅针对数字信号的电源完整性分析已经满足市场需求,以此为基础的EDA仿真工具也亟待突破和创新。</p><p style="text-indent: 2em; text-align: left;">海量需求拉动下,半导体芯片市场机遇与挑战并存。以自动驾驶为例,汽车电子电气架构不断升级,搭载的传感器与芯片数量不断增加,功能性要求也越来越多。半导体市场发展前景广阔,资本大量涌入,以工业智能电网、5G基础设施、ADAS、物联网与可穿戴设备为主的投产项目出现新一轮增长。正如Joseph Davis所说,当下正是进入市场的最佳时机,西门子EDA以其优秀的技术经验持续探索模拟与数字需求,以差异化优势引领发展。</p><p style="text-indent: 2em; text-align: left;"><strong>为模拟信号电源完整性分析而生</strong></p><p style="text-indent: 2em; text-align: left;">正如前面所说,西门子EDA推出了全新的mPower电源完整性分析解决方案,不仅优化了数字信号的电源完整性分析,更为模拟、混合信号的电源完整性分析填补了市场空白。据Joseph Davis介绍,mPower能够同时对模拟信号和数字信号进行电源完整性分析,可以应用于芯片设计的所有流程。同时,mPower解决了传统2．5/3D IC电源完整性分析逐芯管理的弊端,提供了整体分析整体优化的解决方案。</p><p style="text-indent: 2em; text-align: left;">mPower已经与多家公司签署公开协议,帮助客户完成芯片设计,实现电源完整性动态分析。例如MaxLinear使用mPower进行大规模模拟电路的EM/IR分析;Efinix将其应用于FPGA芯片,解决了传统EM/IR分析不奏效的痛点;Esperanto借助mPower的数字化实现了大规模RISC-V全芯片核验;安森美半模拟半数字芯片与传感器阵列也通过mPower得到了全芯片细节分析。</p><p style="text-align:center"><img width="100%" src="https://mp.ofweek.com/Upload/News/Img/member39750/202110/wx_article__6c7aa707178949031ba44dd4ca7f5109.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">通过mPower进行电源完整性分析,确保了门级和晶体管级供电电压的稳定性,使芯片免受静电放电保护问题的影响。针对以云为基础的硬件和工业化软硬件的需求,mPower提供无限制的可扩展性。此外,mPower支持模拟全芯片动态分析,针对异构网络引擎设计,实现了“最大内存最小化”,为芯片设计仿真提速,大幅缩短了EM/IR分析的整体周期,为客户缩减了时间和资金成本。</p><p style="text-align: center;"><br></p> 
+  
+</div>
+            
