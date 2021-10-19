@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=6707'
+headimg: 'https://img.cls.cn/images/20211019/pudZ4U3Fll.jpg'
 author: 财联社
 comments: false
 date: Tue, 19 Oct 2021 11:55:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6707'
+thumbnail: 'https://img.cls.cn/images/20211019/pudZ4U3Fll.jpg'
 ---
 
 <div>   
@@ -17,6 +17,8 @@ thumbnail: 'https://picsum.photos/400/300?random=6707'
 <p>事实上，随着云计算业务增长放缓，以及客户需求尽显，国内外巨头，如英特尔、谷歌、英伟达、阿里、华为、联想等，已经纷纷展开在边缘计算领域的布局。</p>
 <p>江行智能成立于2018年，是一家边缘计算技术与服务提供商，在成立当年即获得红杉资本投资。江行智能至今已经完成4轮融资，最近一次融资发生在今年7月，由中关村发展启航基金领投数千万元A++轮融资。</p>
 <p>日前，在“TALENTS南湖畅想-前沿产业发展趋势论坛”上，庞海天接受《科创板日报》记者专访时透露，“新一轮融资将继续投入到新技术及新产品的研发上，此外，我们产品的成熟度、稳定性及应用效果目前已经得到普遍认可，江行智能将进一步加快商业化步伐，要在今年构建一支更具战斗力的市场销售团队。”</p>
+<p><img src="https://img.cls.cn/images/20211019/pudZ4U3Fll.jpg" alt="image" referrerpolicy="no-referrer"></p>
+<h3 id="-ceo-">图|江行智能联合创始人兼CEO庞海天</h3>
 <p><strong>边缘计算是什么概念？</strong></p>
 <p>提到边缘计算，就不得不先说云计算。</p>
 <p>庞海天向《科创板日报》记者解释说，边缘计算这个技术本身和云计算是相对的，“云计算是把计算任务放到云上去完成，但随着5G时代的到来，数据量猛增，对于网络传输的延时性要求也更高，云计算还是要在远程去做处理，将越来越难以支撑众多应用场景。”</p>
