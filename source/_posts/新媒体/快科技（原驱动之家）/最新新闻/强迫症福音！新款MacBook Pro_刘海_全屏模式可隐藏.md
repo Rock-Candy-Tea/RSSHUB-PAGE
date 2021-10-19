@@ -20,7 +20,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20211019/s_47f61887ccb548e6b5cb09dd1d
 <p>据悉，当用户在新款MacBook Pro上进入全屏模式时，<strong>MacOS上方的状态栏将会自动调整为和屏幕边框近似的黑色，<span style="color:#ff0000;">从而在不影响必要信息显示的前提下隐藏屏幕上方突出的刘海。</span></strong></p>
 <p>虽然有用户对这样的改动会损失缩窄边框带来的屏占比提升，<strong>但对于无法接受刘海屏的“强迫症”用户来说这一调整确实能够满足他们对新款MacBook Pro刘海屏设计的不满。</strong></p>
 <p>那么你又是如何看待苹果的这一改动呢？欢迎在评论区留下自己的看法。</p>
-<p align="center"> </p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211019/47f61887ccb548e6b5cb09dd1ddcab61.jpg" target="_blank"><img alt="强迫症福音！新款MacBook Pro“刘海”全屏模式可隐藏" h="338" src="https://img1.mydrivers.com/img/20211019/s_47f61887ccb548e6b5cb09dd1ddcab61.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
@@ -30,7 +29,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211019/s_47f61887ccb548e6b5cb09dd1d
  <p class="bqian"><a href="https://news.mydrivers.com/tag/pingguo.htm"><i>#</i>苹果</a><a href="https://news.mydrivers.com/tag/macbook_pro.htm"><i>#</i>MacBook Pro</a></p>
 <p class="url">
      
-<span>责任编辑：乃河</span>
+<span>责任编辑：朝晖</span>
 </p>
         
 </div>
