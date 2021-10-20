@@ -1,0 +1,18 @@
+
+---
+title: '安卓12正式版发布，谷歌Android 12闪亮登场'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d2_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 19 Oct 2021 15:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d2_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 10 月 20 日消息，谷歌今天凌晨发布了 Pixel 6 和 Pixel 6 Pro 手机新品。在推出新手机的同时，谷歌今天也为目前的 Pixel 手机设备正式推出了 Android 12 系统。除了 Material You，改良后的快速设置，以及其他一系列的 Android 12 新增功能外，它还具有 10 月的安全补丁。如果你的设备还没有安装，谷歌刚刚发布了官方 OTA 和工厂镜像。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d2_1024.jpg" data-height="617" data-width="923" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d2_1024.jpg" referrerpolicy="no-referrer"></div></div>Android 12 正式版现在可以在 Pixel 3 及更新机型上安装，包括 Pixel 3A、Pixel 4、Pixel 4A、Pixel 4A 5G、Pixel 5 和 Pixel 5A。它也将在 Pixel 6 和 Pixel 6 Pro 上推出。安卓 12 将在今年晚些时候登陆三星 Galaxy、OnePlus、OPPO、Realme 真我、Tecno、vivo 和小米设备。<p></p><p>在最新的安卓安全和隐私年度回顾中，谷歌指出，" 没有公开披露影响安卓平台的关键安全漏洞，也没有为安卓设备提供安全更新或缓解措施。" 此外，与前一年相比，2018 年第四季度的安全补丁同比增长了 84%。</p><p>IT 之家获悉，在已经运行 Android 12 Beta 5 的 Pixel 5 手机上，最终的 Android 12 OTA 仅有不到 5MB，其中 10 月的安全补丁日期为本月的第一个星期一。许多用户，尤其是 Beta 计划的用户，他们只需等待两周就能得到最终版本的 Android 12。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/616f53f28e9f094b717083d3_1024.jpg" data-height="612" data-width="921" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f53f28e9f094b717083d3_1024.jpg" referrerpolicy="no-referrer"></div></div>Android 12 中最引人注目的功能是新的 Material You 设计，它可以让你深入一点，根据自己的喜好调整主屏幕的外观。它比以前的安卓版本更有表现力，有工具让你协调颜色，可以延伸到应用图标、下拉菜单、小工具等方面。许多小工具已经更新，以配合新的外观，谷歌今天分享说，到 10 月底，它计划为其第一方应用程序提供十多个新的或升级的小工具。<p></p><p>谷歌称 Material You 是 "Pixel 优先 " 的功能，尽管它将很快进入 " 更多设备制造商和手机 "。</p><p>未来，Pixel 手机很可能会在 Android 12 系统中获得更多 "Pixel 优先 " 的功能。在过去的几年里，谷歌发布了一些功能，使成为 Pixel 用户变得更加独特。不过，有些功能只适用于较新的 Pixel 手机，所以这就更有理由考虑购买新的 Pixel 6 或 Pixel 6 Pro 手机。谷歌在其硬件活动中表示，这些手机将获得至少五年的更新支持，这令人印象深刻。</p><p>要获得更新，请进入 Pixel 手机的设置应用程序，点击 " 系统 "，然后找到 " 系统更新 " 并点击进入。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d4_1024.jpg" data-height="2280" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f53f28e9f094b717083d4_1024.jpg" referrerpolicy="no-referrer"></div></div>下面是 Pixel 手机 Android 12 更新内容<p></p><p><strong>Android 12 闪亮登场</strong></p><p>比以往更加个性化、更加安全、更加易于使用。</p><p>你的设备将更新到 Android 12。如需了解详情，请访问 android.com/12。</p><p>新功能包括 :</p><p>可根据壁纸颜色进行调整的个性化设计</p><p>显示你的重要对话的微件</p><p>长截图</p><p>麦克风或摄像头处于使用状态时，状态栏中会显示指示器</p><p>用于关闭麦克风或摄像头的快捷控件</p><p>更多隐私控制设置</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/616f53f28e9f094b717083d5_1024.jpg" data-height="2280" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f53f28e9f094b717083d5_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

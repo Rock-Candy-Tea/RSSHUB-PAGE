@@ -1,0 +1,19 @@
+
+---
+title: '李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/1cef8d2f-09da-41b2-948b-cb288d345aa0.png'
+author: IT 之家
+comments: false
+date: Tue, 19 Oct 2021 09:20:21 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/1cef8d2f-09da-41b2-948b-cb288d345aa0.png'
+---
+
+<div>   
+<p data-vmark="67f5"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a>10 月 19 日消息 在今日凌晨苹果新品发布会之后，前魅族副总裁、怒喵科技创始人李楠在微博多次发文评价新款 MacBook Pro 是苹果对英特尔一场长达 20 年复仇的结果。</p><p data-vmark="cf40">在稍早一些的微博中李楠表示 2021 款的 MacBook Pro 14/16 版本在体型上无限接近于 2006 年的 MacBook Pro，在 2006 年之后苹果放弃了之前一直坚持的直线上盖线条，改为一直保留到现阶段的柔和曲线，让外界惊叹其设计精妙。但在现在苹果却在这次发布会重新用回了十多年前的设计。</p><p data-vmark="9c0d"><img src="https://img.ithome.com/newsuploadfiles/2021/10/1cef8d2f-09da-41b2-948b-cb288d345aa0.png" w="623" h="342" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="623" height="342" referrerpolicy="no-referrer"></p><p data-vmark="cfe9">李楠在之后的另一篇微博中发文称，苹果在 MacBook 系列尚未采用英特尔处理器之前的产品线叫做 PowerBook，其最后一款 PowerBook 产品为 Titanium PowerBook G4，使用 CPU 为 PowerPC G4（早期为摩托罗拉生产，后期为 IBM 生产）。当时英特尔的功耗比优秀性能强，<span class="accentTextColor">而苹果的 PowerBook 因为处理器能力羸弱，所以才与英特尔合作</span>，从此 PowerBook 更名为 MacBook 。</p><p data-vmark="ce10">之后苹果利用在移动架构耕耘多年的成果，于去年研制出了可以媲美现阶段顶级 x86 处理器的 ARM 处理器，并于今天凌晨的发布会发布了可超越英特尔的 M1 Pro 和 M1 Max 处理器。<span class="accentTextColor">李楠表示以后“英特尔平台的 MacBook 应该就是历史了“，称苹果拿出的东西“完全用力过猛，丝毫不讲武德。”</span></p><p data-vmark="4414">之后李楠又称今年发布的新款 MacBook Pro 和 2001 年最后一代的 Titanium PowerBook G4 在设计上有相当多的相似之处，称 2001 款的 PowerBook 以如今这种方式“复活”，并附一张国外推特用户所做的产品对比照片。</p><p data-vmark="9d40"><img src="https://img.ithome.com/newsuploadfiles/2021/10/10d82ac3-d2ef-458f-aa99-7ec24385dc6d.png" w="555" h="1032" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="555" height="1032" referrerpolicy="no-referrer"></p><p data-vmark="3f9f"><img src="https://img.ithome.com/newsuploadfiles/2021/10/71b139ea-d845-447e-ab66-9ed55cd08d7e.png" w="588" h="813" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="588" height="813" referrerpolicy="no-referrer"></p><p data-vmark="63e9">IT之家了解到，于 2001 年上市的 Titanium PowerBook G4 是苹果目前最后一代 PowerBook，搭载主频 400 或 500MHz，由摩托罗拉生产的 PowerPC G4 处理器。其最大的特色就是其使用的钛金属外壳（因此也被称为“钛书”），以及在当时算得上先进的吸入式光驱。Titanium PowerBook G4 之后又更新了多次产品线，增加了千兆网口，DVI 接口，以及可供选购的 SuperDrive DVD 烧录机。</p><p data-vmark="c7e9">在 2005 年 2 月份推出的最终版 Titanium PowerBook G4 包含 12、15 和 17 吋三款屏幕尺寸大小，其可选的核心配置为主频 1.5GHz 到 1.67GHz 的 CPU，512MB 到 2GB 的内存；60G 到 100GB 的机械硬盘，显卡可选 nVidia 的 GeForce FX Go5200 和 ATI 的 Radeon 9700 移动端显卡。</p><p data-vmark="f2e2"><img src="https://img.ithome.com/newsuploadfiles/2021/10/94f9cd53-7096-4726-8a25-dee570b8ebd9.jpeg" w="785" h="559" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="785" height="559" referrerpolicy="no-referrer"></p><p data-vmark="94fb">而今日苹果发布的最新款 MacBook Pro 拥有 14 和 16 英寸两个版本，该笔记本采用全新散热设计的铝制外壳，最高支持 120Hz 刷新率的 ProMotion 屏幕，新款 MacBook Pro 采用刘海屏设计，中间的刘海区域搭载了一颗支持 1080P 摄像的摄像头，两边的边框仅为 3.5mm。</p><p data-vmark="9880"><img src="https://img.ithome.com/newsuploadfiles/2021/10/4df25e04-716e-4bc7-8f28-495eddda8787.png" w="832" h="509" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="832" height="502" referrerpolicy="no-referrer"></p><p data-vmark="14c9">同时新款笔记本拥有 HDMI 接口、MagSafe 充电口、SD 卡插槽以及三个 Thunderbolt 4 接口，该笔记本还拥有全尺寸功能键盘。其中，MagSafe 充电口支持更高的功率，不过用户仍然可以用 Thunderbolt 接口为笔记本充电。</p><p data-vmark="3803"><img src="https://img.ithome.com/newsuploadfiles/2021/10/285ccaeb-c8f8-47fc-8ac7-93f0545a0523.png" w="950" h="580" title="李楠评新苹果 MacBook Pro 2021：这是对英特尔的一次复仇" width="950" height="501" referrerpolicy="no-referrer"></p><p data-vmark="78ce">在性能方面，新款 MacBook Pro 笔记本可以选配 M1 Pro 和 M1 Max 芯片，M1 Pro 或 M1 Max 的性能最高可达上一代英特尔 i9 处理器的 2 倍，M1 Pro 的图形处理速度最高可达之前产品的 2.5 倍，M1 Max 的处理速度最高可达之前产品上的 4 倍。</p><p data-vmark="3599">点击访问：<a href="https://apple.pvxt.net/c/1255290/435400/7639?u=https://www.apple.com/cn/" target="_blank">苹果中国官方在线商店</a></p>
+          
+</div>
+            
