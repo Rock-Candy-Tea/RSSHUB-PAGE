@@ -1,0 +1,18 @@
+
+---
+title: 'Redmi Note 11官宣海报解读：这次劲儿使大了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a95d_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 20 Oct 2021 04:46:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a95d_1024.jpg'
+---
+
+<div>   
+<p>10 月 20 日，@Redmi 红米手机 宣布将于 10 月 28 日，即下周四晚上 7 点发布 Redmi Note 11 系列。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a95d_1024.jpg" data-height="469" data-width="597" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a95d_1024.jpg" referrerpolicy="no-referrer"></div></div>参考上一代 Redmi Note 10 系列的价格和定位，那么 Redmi Note 11 系列的也将会是一款价格非常亲民的产品。不过从官方的话术来看，这一代在产品竞争力会较上一代提升许多。官方表示 Note 11 突破原有定位，产品定义脱胎换骨，同时挑战 6 大功能升级，外观大改款。<p></p><p>从预热海报可以看到，Redmi Note 11 系列改用直角边框，与正面和背面面板的衔接处做了较为圆滑的过渡以提升手感，同时该系列手机依然采用居中打孔。另外，从手机顶部可以看出，该系列手机采用 JBL 对称式双扬声器，保留红外传感器和 3.5mm 耳机插孔。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a95e_1024.jpg" data-height="920" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a95e_1024.jpg" referrerpolicy="no-referrer"></div></div>摄像头部分设计与上一代相似，不过镜头排列方式有所变化，而且摄像头模组较上代稍大一些，这意味着 Note 11 系列在摄像头配置上有所变化。据悉，该系列手机主摄将升级到 1 亿像素，这一点在卢伟冰的微博中也有所暗示。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a95f_1024.jpg" data-height="475" data-width="596" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a95f_1024.jpg" referrerpolicy="no-referrer"></div></div>除了外观，产品阵容较上一代也会有所变化。<p></p><p>Redmi Note 10 系列有 Note 10 和 Note 10 Pro 两款，而这一代将会有 Note 11、Note 11 Pro 和 Note 11 Pro+ 三款，目前这三款手机都已上架电商平台。有报道称，三款手机都有望使用 OLED 屏幕以及天玑芯片平台。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a960_1024.jpg" data-height="1252" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616fecdc8e9f0919f519a960_1024.jpg" referrerpolicy="no-referrer"></div></div>至于售价预计几何，之前 Note10 价格 1099 起，Note 10 Pro 售价 1699 元起，如果 Note 11 系列价格可以做到与上代相当，那么作为超大杯的 Note 11 Pro 的价格可能在 1999 元左右。<p></p><p>Redmi Note 11 系列将会在今晚 8 点开始预订，订金 100 元可抵扣 200 元，限时 4 小时，预订每分钟抽一台 Note 11。顺带一提，Redmi 智能电视 X 2022 款也将在今晚 8 点亮相。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a961_1024.jpg" data-height="521" data-width="595" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616fecdc8e9f0919f519a961_1024.jpg" referrerpolicy="no-referrer"></div></div>除了手机之外，Redmi Watch 2 也将一同发布，将在屏幕、运动、健康、颜值、体验、充电六个方面进行升级，同样是在今晚 8 点开始预定。<p></p><p>可见，Redmi Note 11 系列的竞争力将会较上代会有明显提升，进一步提升用户体验，该系列手机以及 Redmi Watch 2 将于 10 月 28 日发布，我们拭目以待。</p><p><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

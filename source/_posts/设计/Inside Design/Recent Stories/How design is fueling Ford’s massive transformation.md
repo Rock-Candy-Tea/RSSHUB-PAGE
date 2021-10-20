@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/sandy-fershee-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2021-10-20 12:12:30
+date: 2021-10-20 13:16:21
 thumbnail: 'https://www.invisionapp.com/inside-design/sandy-fershee-design-better-podcast/'
 ---
 

@@ -49,8 +49,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634730894_5831
 <p style="text-indent:2em;">
 对了，手柄、底座、充电器还是新老通用的哦。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=286619273725%E3%80%81https://mobile.yangkeduo.com/goods.html?goods_id=288496510495" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_698135.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=286619273725%E3%80%81https://mobile.yangkeduo.com/goods.html?goods_id=288496510495" target="_blank"></a><a href="https://file-link.pinduoduo.com/TYtahlIkaC" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_698135.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>2、煮糊了全都好吃 售价：196</strong> 
@@ -64,8 +67,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634730894_5831
 <p style="text-indent:2em;">
 最关键的是该游戏支持跨平台联机，NS、PS5、Xbox、PC不再是最遥远的距离，可以一起欢笑一起胡闹。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=288119222640" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_891416.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=288119222640" target="_blank"></a><a href="https://file-link.pinduoduo.com/JIBpiUsZjN" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_891416.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>3、健身环——售价：461</strong> 
@@ -82,8 +88,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634730894_5831
 <p style="text-indent:2em;">
 对于想要管理一下自己身材的小伙伴非常推荐。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=266682102653" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_496011.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=266682102653" target="_blank"></a><a href="https://file-link.pinduoduo.com/IKwMZjdMEP" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730895_496011.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>4、怪物公仔 售价：107.99</strong> 
@@ -91,8 +100,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634730894_5831
 <p style="text-indent:2em;">
 怪物猎人崛起的amiibo，其手办质量在amiibo中应该是最高的一类。不仅整体做工精致，而且有分量感，像怨虎龙周围紫色渐变的细节处理就很好，除了每次刷出来的装扮奖励外，其本体的实物收藏的价值非常高。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=266985778707" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_187039.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=266985778707" target="_blank"></a><a href="https://file-link.pinduoduo.com/AGYVzQlTuO" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_187039.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>5、哈迪斯 售价：181</strong> 
@@ -103,8 +115,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634730894_5831
 <p style="text-indent:2em;">
 游戏不仅有浓烈鲜明的手绘美术画风、快节奏的动作玩法，还有出色的剧情设计，更加将Roguelike元素完美运用，做出了自己的风格。上手门槛低，又让人上瘾，玩家能在层层推进的游戏过程中，发现更多的剧情细节，更多的套路解法以及更多线索的收集等等，在不同的搭配之下，让玩家忍不住不断重复尝试，真的值得一玩。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=283184694840" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_944426.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=283184694840" target="_blank"></a><a href="https://file-link.pinduoduo.com/czTpUGhdNV" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_944426.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>6、渡神记 众神与怪兽 售价：130</strong> 
@@ -116,8 +131,11 @@ RPG，以往育碧游戏的优点他都有，充足的体量，大量支线与�
 <p style="text-indent:2em;">
 量大管饱一直是育碧的优点，但同样唯一的缺点就是内容太多，但不够丰富，长时间游戏的话，难免有些枯燥，但并不妨碍这是一款好游戏，如果一心走主线，故事、画面的话体验更佳。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232498870876" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_654044.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232498870876" target="_blank"></a><a href="https://file-link.pinduoduo.com/cLTPSUvKVK" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730896_654044.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>7、任天堂全明星大乱斗 售价：318</strong> 
@@ -131,8 +149,11 @@ RPG，以往育碧游戏的优点他都有，充足的体量，大量支线与�
 <p style="text-indent:2em;">
 他的游戏风格与画面也非常讨喜，是阖家欢乐、聚众娱乐的最佳选择之一。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232500925128" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_897917.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232500925128" target="_blank"></a><a href="https://file-link.pinduoduo.com/DANFoQCHMb" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_897917.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>8、塞尔达荒野之息 DLC同捆 售价：268</strong> 
@@ -143,8 +164,11 @@ RPG，以往育碧游戏的优点他都有，充足的体量，大量支线与�
 <p style="text-indent:2em;">
 同时，也是塞尔达传说系列集大成和巅峰的游戏作品，还获得了多次最佳游戏设计，最佳游戏、年度游戏等奖项。DLC包括游戏新增内容第一弹《考验的霸者》和第二弹内容的《英杰们的诗篇》，感兴趣的玩家入手超值。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=289747667692" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_951495.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=289747667692" target="_blank"></a><a href="https://file-link.pinduoduo.com/esHWFYbhrj" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_951495.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>9、舞力全开2021售价：267</strong> 
@@ -155,8 +179,11 @@ RPG，以往育碧游戏的优点他都有，充足的体量，大量支线与�
 <p style="text-indent:2em;">
 舞力全开的舞蹈动作也非常简单，大部分时候只要挥挥手就可以。想想，大家一起对着屏幕一起挥手尬舞，气氛很快就会活跃起来。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232490837779" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_956086.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=232490837779" target="_blank"></a><a href="https://file-link.pinduoduo.com/CemFZbmDNC" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730897_956086.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>10、银河战士 密特罗德生存恐惧(限定版、特典版) 售价：789/324</strong> 
@@ -168,17 +195,23 @@ RPG，以往育碧游戏的优点他都有，充足的体量，大量支线与�
 <p style="text-indent:2em;">
 《密特罗德：生存恐惧》很好保留并强化了银河恶魔城游戏的特点，同时在剧情和时间线上都接续的《融合》，对老玩家来说有着浓浓的归属感，新玩家也可以把它当作一部全新游戏来玩。
 </p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
 <p align="center">
-<a href="https://mobile.yangkeduo.com/goods.html?goods_id=285487571760%E3%80%81https://mobile.yangkeduo.com/goods.html?goods_id=285521589125" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730898_907070.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+<a href="https://mobile.yangkeduo.com/goods.html?goods_id=285487571760%E3%80%81https://mobile.yangkeduo.com/goods.html?goods_id=285521589125" target="_blank"></a><a href="https://file-link.pinduoduo.com/NTQXIZKuWB" target="_blank"></a><a href="https://file-link.pinduoduo.com/NTQXIZKuWB" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730898_907070.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
+</p>
+<p style="text-align:center;">
+<a href="https://file-link.pinduoduo.com/gJvzipJfGn" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634733657_534955.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 除了上述推荐的游戏产品，拼多多百亿补贴活动还建立了电玩游戏专区，里面有许许多多的游戏卡带以及相关产品，都是借助双11补贴活动给玩家送上的超值福利。
 </p>
-<p style="text-indent:2em;">
-长按下方二维码，即可扫码进入电玩游戏专区查看更多实惠好物。
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730898_616673.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"> 
+<a href="https://file-link.pinduoduo.com/ysippelFyN" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730898_616673.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
 <strong>11、iphone13</strong> 
@@ -192,22 +225,25 @@ AI能补完远处的景深，更近距离拍出微物体的细节，让镜头表
 13用上了强劲的A15仿生芯片、OLED屏幕，连电池容量为3208毫安，除了机体性能更加优异，续航能力也被大幅强化，能待机10小时以上，过去苹果续航的短板彻底也没有了，可以说是全方面的提升。
 </p>
 <p style="text-indent:2em;">
-拼多多百亿补贴IPhone13直降300元！刚发布的新版MacBook也直接降价1000元！有需求的朋友们不要错过！
+拼多多百亿补贴IPhone13<span style="color:#E53333;">最高</span><span style="color:#E53333;">直降1200元</span><span>！</span>刚发布的新版MacBook也<span style="color:#E53333;">直接降价1000元</span>！有需求的朋友们不要错过！
+</p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
+</p>
+<p style="text-align:center;">
+<a href="https://file-link.pinduoduo.com/UjoNQfvnCW" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634733384_968619.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
-长按下方二维码，可扫码可以进入苹果专区查看超级福利好价。
+最后，我们推荐的也只是这次拼多多百亿补贴的一小部分，家电、数码、酒水美食等全品类大牌产品都有超给力补贴！<span style="color:#E53333;"><strong>美妆产品比+7直播间还便宜！</strong></span>大家可以到拼多多百亿补贴主会场搜索查看，觉得实惠就感觉入手吧。
+</p>
+<p style="text-align:center;text-indent:2em;">
+点击下方图片抢购！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730898_464138.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"> 
+<a href="https://file-link.pinduoduo.com/ltjKkjmacW" target="_blank"><img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730899_854647.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"></a> 
 </p>
 <p style="text-indent:2em;">
-最后，我们推荐的也只是这次拼多多百亿补贴的一小部分，家电、数码、酒水美食等全品类大牌产品都有超给力补贴！美妆产品比+7直播间还便宜！大家可以到拼多多百亿补贴主会场搜索查看，觉得实惠就感觉入手吧。
-</p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211020/1634730899_854647.png" alt="双11电玩补贴又加码，最新款OLED屏Switch不到2800！" referrerpolicy="no-referrer"> 
-</p>
-<p style="text-indent:2em;">
-另外，如果还有对拼多多百亿补贴活动不了解的小伙伴，这里请放心，拼多多百亿补贴是拼多多专门为培养客户信任而推出的活动，没有花里胡哨的折扣机制或优惠计算，所有商品都是成本价-补贴价的折后价。此外，所有参与百亿补贴活动商品都有品质险，保证每一个用户买到的好物都是正品行货，如果有踩雷，还可享受“假一赔十”的保障。
+另外，如果还有对拼多多百亿补贴活动不了解的小伙伴，这里请放心，拼多多百亿补贴是拼多多<span style="color:#E53333;">专门为培养客户信任而推出的活动，没有花里胡哨的折扣机制或优惠计算，所有商品都是成本价-补贴价的折后价</span>。此外，所有参与百亿补贴活动商品都有<span style="color:#E53333;">品质险</span>，保证每一个用户买到的好物都是正品行货，如果有踩雷，<span style="color:#E53333;">还可享受<strong>“假一赔十”</strong>的保障。</span> 
 </p>
 <p style="text-indent:2em;">
 大家只要认准，百亿补贴的活动商品，保证是价格实惠的正品好物，感兴趣的小伙伴一定不要错过哦。
