@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=2595'
+headimg: 'https://picsum.photos/400/300?random=3292'
 author: PMCAFF
 comments: false
 date: Tue, 19 Oct 2021 20:08:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2595'
+thumbnail: 'https://picsum.photos/400/300?random=3292'
 ---
 
 <div>   
