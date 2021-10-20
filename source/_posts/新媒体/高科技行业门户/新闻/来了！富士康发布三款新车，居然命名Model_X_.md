@@ -1,0 +1,19 @@
+
+---
+title: '来了！富士康发布三款新车，居然命名Model_X_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/qinwen/1634728734809024562.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 20 Oct 2021 11:15:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/qinwen/1634728734809024562.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">10月18日，鸿海集团（富士康母公司）举行“技术日”，发布了<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="纯电动汽车">纯电动汽车</a></span>品牌Foxtron和三款纯电动车型。</span></p><p style="text-indent: 2em; text-align: left;">三款新车均为原型车，不过命名与特斯拉车型极为相似，分别为Model C（SUV）、Model E（轿车）、Model T（电动巴士）。</p><p style="text-indent: 2em; text-align: left;">官方表示，三款车均由富士康科技集团自主研发而成，并隶属于2020年成立的<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>品牌鸿华先进（鸿海与台湾裕隆集团合资企业）。</p><p style="text-indent: 2em; text-align: left;">其中，Model C的价格预计不到100万元新台币（约合23万元人民币），于2023 年首发。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/qinwen/1634728734809024562.png" title="1634728734809024562.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">图片来源：富士康官网</span></p><p style="text-indent: 2em; text-align: left;">如今恰逢汽车产业正在向智能网联化变革，软件定义汽车成为重要的发展趋势，同时也是未来电动车公司一决高下的主要战场。</p><p style="text-indent: 2em; text-align: left;">当天，富士康科技集团正式宣布将成立软件研发中心，规划集合集团内部1500名以上的软件应用人才，并在三年内再招募1000名以上软件研发工程师，打造EV软件应用生态系统。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/qinwen/1634728743820079131.png" title="1634728743820079131.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">图片来源：Foxtron官方</span></p><p style="text-indent: 2em; text-align: left;">从2005年到2021年，16年的时间里，富士康已经在造车方面进行了多方布局，包括<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71009-parts.html" target="_blank" title="汽车零部件">汽车零部件</a></span>、<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="动力电池">动力电池</a></span>、汽车主体等。</p><p style="text-indent: 2em; text-align: left;">其中，从今年年初截至目前，富士康共发起2起收购、3起投资、7起合作以及孵化了一家独立的电动车技术联盟。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/qinwen/1634728752690080122.png" title="1634728752690080122.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">（富士康在电动汽车领域重要投资及合作不完全统计 制图：深网）</span></p><p style="text-indent: 2em; text-align: left;">长达16年的布局，说明富士康造车并非“一时冲动”。更直接的原因，还是在于企业转型发展的需求。</p><p style="text-indent: 2em; text-align: left;">如今，智能手机用户换机周期变长，手机也正从增量向存量时代迈进，市场趋于饱和。“代工之王”富士康的日子也越来越不好过。再加上最大客户苹果有意扶持立讯精密等厂商，富士康只能且必须寻找新的发展机会。</p><p style="text-indent: 2em; text-align: left;">富士康将目光放在了早已涉入的电动汽车上领域。</p><p style="text-indent: 2em; text-align: left;">对此，鸿海集团董事长刘扬伟给富士康定下了目标： 预计到2025年，纯电动汽车营收占其制造业营收的5%，营收目标为300亿美元，其中40%的零配件由鸿海集团自己制造。</p><p style="text-indent: 2em; text-align: left;">同时，刘扬伟还表示，预估鸿海电动车最快明年就会有营收，较大贡献估在2023年发生。</p><p style="text-indent: 2em; text-align: left;">至于汽车工厂方面，今日（10月20日）外媒报道称，刘扬伟表示，计划到2024年前在欧洲、印度和南美建设电动汽车工厂，公司将与欧洲至少一家德国<span class="hrefStyle"><a href="http://nev.ofweek.com/CAT-71008-manufacturing.html" target="_blank" title="汽车制造">汽车制造</a></span>商进行间接合作。</p> 
+  
+</div>
+            
