@@ -31,7 +31,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211020/1634685667_5786
 <img src="https://img.3dmgame.com/uploads/images/news/20211020/1634685667_578689.jpg" alt="《生化危机4》VR版新实机演示 玩起来蛮刺激的！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-《生化危机4》VR版由虚幻4引擎打造，采用第一人称视角，支持全动态移动和传输旅行。在游戏中切换武器不需要用菜单，可以两手使用不同武器。此外卡普空重制了游戏里的一些谜题，以便能更好配合新的相机视角。目前不清楚该作在未来是否会支持其他VR头盔。
+《生化危机4》VR版由虚幻4引擎打造，采用第一人称视角，支持完整的动作捕捉和快速传送。在游戏中切换武器不需要用菜单，可以两手使用不同武器。此外卡普空重制了游戏里的一些谜题，以便能更好配合新的相机视角。目前不清楚该作在未来是否会支持其他VR头盔。
 </p>
 <p style="text-indent:2em;">
 <strong>视频截图：</strong> 
