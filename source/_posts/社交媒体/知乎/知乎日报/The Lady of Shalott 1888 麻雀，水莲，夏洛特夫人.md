@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic4.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-10-20 05:08:03
-thumbnail: 'https://pic4.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162'
+date: 2021-10-20 06:10:01
+thumbnail: 'https://pica.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://pic4.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic4.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-07e3e4da3d13657ee71cfb807fd8e687_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Vivian Darkbloom，</span><span class="bio">我裸骑山羊</span>
 </strong>
 

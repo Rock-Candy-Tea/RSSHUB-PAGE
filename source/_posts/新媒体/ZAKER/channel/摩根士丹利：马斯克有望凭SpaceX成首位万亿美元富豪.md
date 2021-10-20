@@ -1,0 +1,18 @@
+
+---
+title: '摩根士丹利：马斯克有望凭SpaceX成首位万亿美元富豪'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4771_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 19 Oct 2021 21:14:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4771_1024.jpg'
+---
+
+<div>   
+<p>10 月 20 日消息，埃隆 · 马斯克 ( Elon Musk ) 已经凭借特斯拉带来的收益成为世界首富。但美国投行摩根士丹利的分析师认为，要想成为全球首位万亿美元富豪，马斯克需要更多借助旗下太空公司 SpaceX，而不是先前被看好的电动汽车公司。</p><p>美国当地时间周二，摩根士丹利分析师亚当 · 乔纳斯 ( Adam Jonas ) 在致投资者的研究报告中写道：" 从火箭、飞船和配套基础设施方面来看，SpaceX 正在挑战任何先入为主的观念，包括什么是可行的，以及可能的时间框架。"</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4771_1024.jpg" data-height="441" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4771_1024.jpg" referrerpolicy="no-referrer"></div></div>SpaceX 已经成为世界上估值最高的私营公司之一，摩根士丹利相信，该公司正在开发的星际飞船将产生更广泛的影响。星际飞船可以完全重复使用，将货物和人类发射到月球和火星上。该公司正在得克萨斯州南部的设施中测试原型，并已进行了多次短途试飞。<p></p><p>乔纳斯在报告中称：" 这项技术的发展有可能改变投资者对太空产业的预期。正如一位客户所说：‘在推出星际飞船之前谈论太空，就像在推出谷歌之前谈论互联网一样。’ "</p><p>在摩根士丹利看来，SpaceX 用其可重复使用的飞船和星链卫星互联网创造了技术发展的 " 双飞轮 "。该行将 SpaceX 的大部分估值建立在星链卫星互联网的盈利潜力上。马斯克此前曾表示，该网络每年可能带来高达 300 亿美元的收入。</p><p>乔纳斯说：" 我们认为 SpaceX 的发射能力与星链有着千丝万缕的联系，因此在发射能力 ( 包括飞行频率和有效载荷 ) 、带宽以及发射成本方面的改进，都有助于提高星链的经济效益和规模。同时，星链蕴藏的商机也为发射业务提供了大量‘专属客户’，从而实现了共生发展。"</p><p>值得注意的是，摩根士丹利预计，星链项目未来十年将消耗约 330 亿美元资金，并在 2031 年实现现金流为正。摩根士丹利去年预测，SpaceX 将成为价值 1000 亿美元的公司，而当时该公司估值刚刚接近 440 亿美元。</p><p>乔纳斯表示：" 不止一个客户告诉我们，如果马斯克成为世界上首位万亿美元富豪，不会是因为特斯拉。其他人士则表示，SpaceX 最终可能会成为世界上任何行业中价值最高的公司。"</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4772_1024.jpg" data-height="375" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f8e038e9f093dda6f4772_1024.jpg" referrerpolicy="no-referrer"></div></div>彭博亿万富翁指数显示，SpaceX 目前在马斯克 2414 亿美元的净资产中所占比例不到 17%。在此之前，该公司在本月早些时候的二次股票发售中估值超过 1000 亿美元。<p></p><p>在牛市情况下，乔纳斯对 SpaceX 的估值为 2000 亿美元。他写道，他认为 SpaceX 是多项业务的综合体，涵盖空间基础设施、地球观测、太空探测和其他业务。其中，" 星链 " ( Starlink ) 卫星互联网是他估值的最大贡献者。</p><p>马斯克曾被认为将成为世界上第一位万亿美元富翁，但这在很大程度上要归功于特斯拉的预期股价表现。去年开始的特斯拉热潮让马斯克的净资产飙升，而且涨势仍未减弱。仅在周一，马斯克的净资产就增加了 66 亿美元。</p><p>据计算，马斯克将拥有 SpaceX 约半数股权，因此该公司在将其创始人送上 " 全球首位万亿美元富豪 " 宝座的道路上将发挥重要作用。（小小）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
