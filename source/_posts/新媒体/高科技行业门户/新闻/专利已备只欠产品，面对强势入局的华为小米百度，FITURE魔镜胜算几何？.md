@@ -1,0 +1,19 @@
+
+---
+title: '专利已备只欠产品，面对强势入局的华为小米百度，FITURE魔镜胜算几何？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/yuanchen/1634695702710087233.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 20 Oct 2021 02:06:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/yuanchen/1634695702710087233.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">随着双十一的临近，智能健身这个备受关注的新兴赛道新闻不断，似乎正在准备带来更多惊喜。不仅有小米继续加码投资布局和百度即将正式发布旗下智能健身产品的消息，第三方机构艾瑞咨询也在近日公布了《2021年中国智能运动健身行业研究报告》。据其内容显示，智能健身镜市场有望在未来5年实现172％的复合增长，而整个智能健身市场也有望达到接近千亿的规模。在此背景下，目前的行业领头羊FITURE也有望随着市场的快速发展，进一步跻身超级独角兽行列。</p><p style="text-indent: 2em; text-align: left;"><strong>智能健身崛起背后，是大众生活方式的迭代升级</strong></p><p style="text-indent: 2em; text-align: left;">如果说居家场景的全面激活，是疫情影响下的意外之喜，这条赛道的最终成型，则还是因为大众生活方式的迭代升级。据了解，随着收入、营养健康条件的改善，中国男性平均身高在过去35年来提升了9厘米，位居全球第一。随着生活水平的持续提升，大众在健康方面会拥有更高的需求，并为此尝试各种产品和服务，其中就包括各种智能健身硬件。在中国体育用品业联合会发布的《2021年大众健身行为和消费研究报告》中，智能健身设备的认知度达到了89％的水平，有超过1／3的消费者购买过健身镜、跑步机、划船机等智能健身设备。正是这样的市场趋势下，FITURE应运而生，成长为了独角兽企业。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/yuanchen/1634695702710087233.png" title="专利已备只欠产品，面对强势入局的华为小米百度，FITURE魔镜胜算几何？" alt="专利已备只欠产品，面对强势入局的华为小米百度，FITURE魔镜胜算几何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">自2020年10月推出旗下首款产品FITURE魔镜尊享版以来，FITURE凭借“硬件＋内容＋服务＋AI”的模式，已积累进入上万个国内家庭，其用户月均训练次数达14次，次均时长为30分钟。这个数据基本达到了《健康中国行动》所建议的成年国民每周至少3次每次至少30分钟，积累150分钟的标准。另据FITURE方面公布的信息显示，FITURE魔镜用户群体，除来自北京、上海、成都等一线、新一线城市的居民之外，同样不乏来自青海、新疆等偏远地区的消费者。凭借次均使用成本不足50元，使用灵活方便，内容专业性高，课程丰富等一系列优势，FITURE魔镜正在成为推动大众健身的“普及神器”。</p><p style="text-indent: 2em; text-align: left;">FITURE魔镜能够获得消费者的认可，离不开其优秀的产品体验。据了解，FITURE不仅以业界最高硬件规格和工艺打造了魔镜产品，还自主研发出具备动作捕捉、实时纠错、数据分析等功能的智能运动追踪系统。在此基础上，FITURE还组建了一支由20多位业界顶尖教练组成的“全明星教练”团队，并打造了一个占地达4000平方米，拥有好莱坞影视制作级设备的内容工厂，能实现5000节13大类的原创健身课程全年更新。与此同时，FITURE还多次获得了央视、人民日报、新华网等权威媒体认可，并收获了颇多殊荣，包括极客之选年度产品、FIBO AWARD产品技术创新奖、IWF年度科技创新奖、当代好设计奖等，并入选了界面新闻评选的“REAL 100创新家”以及天猫的“运动十大宝藏品牌”，被誉为是中国智能健身的第一品牌。</p><p style="text-indent: 2em; text-align: left;"><strong>科技巨头积极布局，厂商较量或将再次升级</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/yuanchen/1634695703229048104.png" title="专利已备只欠产品，面对强势入局的华为小米百度，FITURE魔镜胜算几何？" alt="专利已备只欠产品，面对强势入局的华为小米百度，FITURE魔镜胜算几何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">回过来看，我们不难发现，尽管智能健身赛道才刚刚兴起不到一年，部分行业人士和投资机构却早早就瞧准了这一趋势。甚至不仅国内已经有了以FITURE为代表的20余家智能健身镜厂商，这股风潮更是在全球范围内吹遍了欧美日韩市场，自Peloton和lululemon之后，被詹姆斯等众多体育明星投资的Tonal，被软银寄予厚望的Tempo，还有VAHA、OneThird Mirror等等十余个新兴品牌先后崛起。据一份市场调研显示，全球智能健身设备的出货量可在5年内达2000万台以上，市场规模达460亿美元。正是在这样的行情下，才有了投资人为了争FITURE的投资金额“差点打起来”的故事。</p><p style="text-indent: 2em; text-align: left;">而也就在智能健身成为吸引投资的热门领域的同时，科技大厂们也敏锐地捕捉到了这个全新的机遇。不仅国内有华为、小米、百度通过旗下资源的整合已快速具备了推出相关产品的技术专利及相关条件，Amazon、Google、Facebook更是不甘让Apple凭借Apple Watch和Fitness＋的搭配独自占据智能健身的市场蛋糕。不过，伴随这些巨头的强势参与，原本以新兴企业为主的智能健身赛道可能面临格局的改写。</p><p style="text-indent: 2em; text-align: left;">面对随时都可能陡然升级的竞争态势，FITURE其实早已做好了准备，自完成B轮融资后就加快围绕其“硬件＋内容＋服务＋AI”模式的各项投入。FITURE联合创始人兼总裁张远声曾表示，各厂商在智能健身赛道的竞争涉及硬件、软件、AI、内容、社区、服务、零售、品牌等多个方面，任何短板都将造成体验上的缺失。显然，因此这种竞争的门槛是极高的，哪怕对于那些刚刚入局或者即将入局的科技巨头来说都是不小的考验，而FITURE凭借其独特的模式是具备一些先发优势的。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/20/yuanchen/20211020100941_1634695781237383710.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">对此，有业内专家也指出，科技巨头在智能健身赛道的扎堆这更多属于迎合市场趋势的战略防御行为。毕竟大型企业更具备把鸡蛋放在不同篮子的资源条件，以及需要预防全新品类产品的崛起对现有业务造成的冲击，至于布局的新赛道是否会带来可观的收益倒并不是首要目标。换言之，智能健身或许的确是科技巨头们的新宠，但不过只是N分之一，却是FITURE们的100％。一旦双发在市场上开始短兵交锋，那就是一场兼顾对专注的思路之争，集成与垂直的模式之战，我们拭目以待。</p> 
+  
+</div>
+            
