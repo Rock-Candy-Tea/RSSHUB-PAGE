@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Eventernote
  - 声优活动及演唱会
-headimg: 'https://picsum.photos/400/300?random=5485'
+headimg: 'https://picsum.photos/400/300?random=2878'
 author: Eventernote
 comments: false
-date: 2021-10-21 03:08:28
-thumbnail: 'https://picsum.photos/400/300?random=5485'
+date: 2021-10-21 04:09:54
+thumbnail: 'https://picsum.photos/400/300?random=2878'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=5485'
 開催場所 明治座
 開場 2021-11-05 17:00
 開演 2021-11-05 null:null
-終演 2021-11-05 20:20
+終演 2021-11-05 19:19
   
 </div>
             
