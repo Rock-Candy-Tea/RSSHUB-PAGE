@@ -1,0 +1,71 @@
+
+---
+title: '周末北京DICE CON桌游展，果动方块（D03-D05）的壹·贰·叁·肆·伍'
+categories: 
+ - 新媒体
+ - 机核网
+ - 分类
+headimg: 'https://image.gcores.com/095c5cab-6ee8-4ca3-8e6f-17858c4970ec.jpg'
+author: 机核网
+comments: false
+date: 2021-10-21 07:08:10
+thumbnail: 'https://image.gcores.com/095c5cab-6ee8-4ca3-8e6f-17858c4970ec.jpg'
+---
+
+<div>   
+<img src="https://image.gcores.com/095c5cab-6ee8-4ca3-8e6f-17858c4970ec.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-6t1fi" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="9drdt-0-0"><div data-offset-key="9drdt-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9drdt-0-0"><span data-text="true">在核聚变上可能有朋友见过我在练摊，内容是我和朋友们一起做的桌游《扭曲寓言》，现在一年一度的DICE CON桌游展到了，自然我们还会去参合。在这篇文里会向大家展示</span></span><span data-offset-key="9drdt-0-1" style="font-weight:bold"><span data-text="true">10月23日-24日北京DICE CON桌游展</span></span><span data-offset-key="9drdt-0-2"><span data-text="true">上，</span></span><span data-offset-key="9drdt-0-3" style="font-weight:bold"><span data-text="true">果动方块展位（D03-D05）</span></span><span data-offset-key="9drdt-0-4"><span data-text="true">会带来那些内容。 如果你也恰好要去逛展，别忘了来找我玩~</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/44e13fab-e98d-492d-aa4b-4cec5493a5eb.jpg" alt referrerpolicy="no-referrer">
+
+</figure><h1 class="story_block story_block-align-center" data-block="true" data-editor="6t1fi" data-offset-key="c0t93-0-0"><div id="nopop_c0t93"><div data-offset-key="c0t93-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="c0t93-0-0"><span data-text="true"> </span></span><span data-offset-key="c0t93-0-1" style="font-weight:bold"><span data-text="true">壹  《扭曲寓言》豪华版，最后的66盒</span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="9fde9-0-0"><div data-offset-key="9fde9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9fde9-0-0"><span data-text="true">卖货，肯定还是卖货，说俗点毕竟上万块钱的参展费花出去不能不考虑成本。不过这次卖货有点不一样，因为这次现场销售的主要内容是库存最后的66盒《扭曲寓言豪华版》，现场售价488元。另外，这批卖完之后 豪华版 也就全部销售告罄，以后也不会再有啦。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="dkdr8-0-0"><div data-offset-key="dkdr8-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dkdr8-0-0"><span data-text="true">值得我们团队骄傲的是，截至目前，《扭曲寓言》在世界各地销售的各语言版本已经达到6000套，打开了欧美市场，总销售额超过了55万美元（合人民币约350万），今年还会有7500套零售版即将面世。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/201e4724-639f-47f4-85f4-38348871aa9c.png" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="fck0m-0-0"><div data-offset-key="fck0m-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fck0m-0-0"><span data-text="true">另外，想借机自卖自夸一句。在前不久公布的 GOLDEN DICE评奖中，《扭曲寓言》经过大家的预选投票和评委打分后，获得了“</span></span><span data-offset-key="fck0m-0-1" style="font-weight:bold"><span data-text="true">年度推荐华人原创桌游</span></span><span data-offset-key="fck0m-0-2"><span data-text="true">”这一奖项，非常感谢大家的认可和支持，这会是《扭曲寓言》项目团队全体成员继续做好这个项目的动力来源！ </span></span></div></div><h1 class="story_block story_block-align-center" data-block="true" data-editor="6t1fi" data-offset-key="cvmad-0-0"><div id="nopop_cvmad"><div data-offset-key="cvmad-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cvmad-0-0" style="font-weight:bold"><span data-text="true">贰  2021款木兰主题牌垫限量首发
+随赠纪念卡牌场地卡首次登场</span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="1scfq-0-0"><div data-offset-key="1scfq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1scfq-0-0"><span data-text="true">为了参加这次DC展，《扭曲寓言》特别邀请之前创作高人气角色小美人鱼的韩国画家 Kyu Yong Eom 绘制了一款</span></span><span data-offset-key="1scfq-0-1" style="font-weight:bold"><span data-text="true">2021年专属牌垫和卡牌</span></span><span data-offset-key="1scfq-0-2"><span data-text="true">，主角则是擅长近战的格斗大师——木兰。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/024317a0-3652-4e65-993c-f1b2fa8c8b97.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="2jqko-0-0"><div data-offset-key="2jqko-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2jqko-0-0"><span data-text="true">这次木兰牌垫展会</span></span><span data-offset-key="2jqko-0-1" style="font-weight:bold"><span data-text="true">现场售价为88元（零售价128元）</span></span><span data-offset-key="2jqko-0-2"><span data-text="true">，且会随牌垫赠送一张2021纪念卡牌：蜂巢哨所，这张牌仅随木兰牌垫赠送，不会单独发售。 </span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/57ba6f20-4f4d-405a-b3cf-4121bd812c3a.png" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="a9on3-0-0"><div data-offset-key="a9on3-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a9on3-0-0"><span data-text="true">可以看到这是一张全新类型的卡牌——场地卡，而这一张则是木兰的主场场地卡，可以看到其效果是非常有利于木兰作战的。场地卡是一种游戏中可选用的卡牌，今后也会有其他场地卡出现在未来的《扭曲寓言》产品中。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="115an-0-0"><div data-offset-key="115an-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="115an-0-0"><span data-text="true">此次</span></span><span data-offset-key="115an-0-1" style="font-weight:bold"><span data-text="true">2021款木兰主题牌垫，展会现场首发仅149张</span></span><span data-offset-key="115an-0-2"><span data-text="true">，数量有限，购完即止。</span></span></div></div><h1 class="story_block story_block-align-center" data-block="true" data-editor="6t1fi" data-offset-key="3qvb2-0-0"><div id="nopop_3qvb2"><div data-offset-key="3qvb2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3qvb2-0-0" style="font-weight:bold"><span data-text="true">叁  小美人鱼涂装雕像惊艳亮相</span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="7lh4u-0-0"><div data-offset-key="7lh4u-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7lh4u-0-0"><span data-text="true">这是一款从《扭曲寓言》IP中衍生出来的产品，别担心不是桌游，而是大比例已涂装雕塑。造型原型为人气角色：小美人鱼。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/fc3fab3b-01f1-48c0-a59c-464fc282b047.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="1a3j4-0-0"><div data-offset-key="1a3j4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1a3j4-0-0"><span data-text="true">原画还是韩国画家 Kyu Yong Eom，关于这位画家的介绍大家可以移步这里：《</span></span><a class="md-link" href="http://mp.weixin.qq.com/s?__biz=MzU0ODY0NzYzNw==&mid=2247498719&idx=1&sn=cd454dd93dacb84a0ec288ef0993959a&chksm=fbb95c65ccced573ced3fcf790cecb8214ca8a18b3a21542fca9e01dba11955994548ae6da78&scene=21#wechat_redirect" rel="noopener noreferrer" target="_blank" aria-label="http://mp.weixin.qq.com/s?__biz=MzU0ODY0NzYzNw==&mid=2247498719&idx=1&sn=cd454dd93dacb84a0ec288ef0993959a&chksm=fbb95c65ccced573ced3fcf790cecb8214ca8a18b3a21542fca9e01dba11955994548ae6da78&scene=21#wechat_redirect"><span data-offset-key="1a3j4-1-0"><span data-text="true">《扭曲寓言》纪念版木兰DC展首发，这次的画家是创造了小美人鱼的他！| 桌上色彩</span></span></a><span data-offset-key="1a3j4-2-0"><span data-text="true">》。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="ckb1p-0-0"><div data-offset-key="ckb1p-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ckb1p-0-0"><span data-text="true">雕塑师和涂装师都是同一位：石中木。他之前的作品在玩家中是颇受欢迎，这是他在今年上海WF会场上限量发售的MONSTER系列。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/bac772d0-1d9a-4ea7-98ec-25d609d595ea.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="a2ch7-0-0"><div data-offset-key="a2ch7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a2ch7-0-0"><span data-text="true">目前，小美人鱼雕像还在最后涂装监修阶段，只能先展示一些进度图，成品应该要等到23号会场现场才能看到了。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/01708fb9-0d09-4a9f-adfd-ce4ef10766eb.jpg" alt referrerpolicy="no-referrer">
+
+</figure>
+<figure>
+<img src="https://image.gcores.com/e66901c4-a45a-4eb4-b5f2-8ccd34746c6e.jpg" alt referrerpolicy="no-referrer">
+
+</figure>
+<figure>
+<img src="https://image.gcores.com/c4bc2316-d3bb-40bb-a5b2-6f212e27926e.jpg" alt=" 图中均为监修中" referrerpolicy="no-referrer">
+<figcaption> 图中均为监修中</figcaption>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="brtpf-0-0"><div data-offset-key="brtpf-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="brtpf-0-0"><span data-text="true">这款产品此次仅为展示，后续的销售计划欢迎在现场垂询。今</span></span><span data-offset-key="brtpf-0-1" style="font-weight:bold"><span data-text="true">年11月27日～28日北京WF展（Wonder Festival）上</span></span><span data-offset-key="brtpf-0-2"><span data-text="true">还将会有更多精彩的雕像作品面世，如果您也对模型手办感兴趣，欢迎11月底的北京WF展上来找我们。</span></span></div></div><h1 class="story_block story_block-align-center" data-block="true" data-editor="6t1fi" data-offset-key="7nj0e-0-0"><div id="nopop_7nj0e"><div data-offset-key="7nj0e-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7nj0e-0-0" style="font-weight:bold"><span data-text="true">肆  VIP 1小时活动  买豪华版 送 牌垫 </span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="ikmq-0-0"><div data-offset-key="ikmq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ikmq-0-0"><span data-text="true">本次DC展购买VIP票的朋友，在VIP1小时活动中，</span></span><span data-offset-key="ikmq-0-1" style="font-weight:bold"><span data-text="true">购买《扭曲寓言》即可获赠任意零售价为128元的牌垫一款</span></span><span data-offset-key="ikmq-0-2"><span data-text="true">（5款图案任选，数量有限，赠完即止）
+
+</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/4f2ff6ad-43fc-4939-8845-0683a084fe72.jpg" alt referrerpolicy="no-referrer">
+
+</figure><h1 class="story_block story_block-align-center" data-block="true" data-editor="6t1fi" data-offset-key="4qsas-0-0"><div id="nopop_4qsas"><div data-offset-key="4qsas-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4qsas-0-0"><span data-text="true"> </span></span><span data-offset-key="4qsas-0-1" style="font-weight:bold"><span data-text="true">伍  新角色格雷特和汉塞尔来了</span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="kqr4-0-0"><div data-offset-key="kqr4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="kqr4-0-0"><span data-text="true">说到这里多少有点遗憾，因为原本我们希望能在展会上提供这个扩展角色的体验，但由于近期工作太多，卡牌原型的测试工作未能按计划完成，因此无法带到现场了。不过我们也非常希望能和一直关注《扭曲寓言》扩展进度的朋友们分享这个扩展角色的消息，所以就借这篇文章最后来给大家做个汇报。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/0ad39f2b-21eb-4189-bb2f-28f709eadf1f.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="cgf5f-0-0"><div data-offset-key="cgf5f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cgf5f-0-0"><span data-text="true">格雷特和汉塞尔来自于格林童话《糖果屋》，说的是一对兄妹在森林里见到了一个糖果制作的屋子，结果被屋中的巫婆抓住，最后他们和巫婆斗智斗勇终于消灭了巫婆安全回家的故事。看到这，熟悉《扭曲寓言》的朋友一定奇怪了，虽然《扭曲寓言》的角色都是来自童话，但不是说只会有女性角色登场吗？这里为啥跑出来兄妹了？其实，这就和这对兄妹在《扭曲寓言》世界观中的遭遇有关了。</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="38pg1-0-0"><div data-offset-key="38pg1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="38pg1-0-0"><span data-text="true">现在关于角色的背景故事还在创作，因此无法完全讲述，但可以透露的是，游戏中玩家操控的还是一个人物，就是妹妹格雷特，那哥哥汉塞尔又去哪了呢？别急，他会以另一种形式守护在妹妹身边，兄妹同心的冒险也将在《扭曲寓言》的世界中展开，只不过这场冒险要比原本的故事更加危险、更加扭曲和黑暗…… </span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/da356ff0-b1fb-4dde-96e8-e4ce769d4c8b.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-align-center story_block-text " data-block="true" data-editor="6t1fi" data-offset-key="brpsv-0-0"><div data-offset-key="brpsv-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="brpsv-0-0"><span data-text="true">更多有趣内容请关注公众号：瞬间思路（BG_CON）</span></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="6t1fi" data-offset-key="fmho2-0-0"><div data-offset-key="fmho2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fmho2-0-0"><br data-text="true"></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="6t1fi" data-offset-key="ft1vt-0-0"><div data-offset-key="ft1vt-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="ft1vt-0-0"><span data-text="true">
+
+</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</div>
+            
