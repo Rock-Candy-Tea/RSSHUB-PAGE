@@ -1,0 +1,18 @@
+
+---
+title: '第一次发表一作 SCI 论文是一种怎么样的体验？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-ed28587a03a0eabbe4bffa3850b4d23d_720w.jpg'
+author: 知乎
+comments: false
+date: Thu, 21 Oct 2021 08:35:56 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-ed28587a03a0eabbe4bffa3850b4d23d_720w.jpg'
+---
+
+<div>   
+大圣的回答<br><br><p><b>实话说收到大修意见的时候更激动。</b></p><p><b>尤其是当我的“诺奖级”成果已经接连被三个期刊拒过之后：</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ed28587a03a0eabbe4bffa3850b4d23d_720w.jpg" data-caption data-size="normal" data-rawwidth="300" data-rawheight="210" class="content_image" referrerpolicy="no-referrer"></figure><blockquote><b>当论文写出来第一次投稿时候的心态：</b>究竟是哪个期刊有福气能发表老子的大作（满怀自信）。<br><b>然后第一次被拒：</b>真不识货。肯定是编辑有偏见，怎么就主题不符了？连送审都不送就给小爷reject？不过毕竟是领域最好的杂志，可能真的是我眼光太高了？算了原谅“你”了。<br><b>改投第二个杂志：</b>那我“屈尊”一下，这回找个IF比第一次低一些的总可以了吧？（还感觉有点委屈了自己作品）于是胸有成竹的等待。<br><b>第二次被拒：</b>什么！？又是主题不符？又是没送审就reject？真是有眼无珠！我觉得这就是借口！肯定是没看上我写的文章，难道我的论文连一区都不配么？（开始有点自我怀疑）<br><b>改投第三个杂志：</b>完犊子，可能真的是我自己写的很一般？（开始心虚）罢了，各自让一步好了，这回投个二区总可以了吧？嗯，这回顺利送审，不错，算你识相，开始等待，觉得肯定能有个好结果。<br><b>第三次被拒：</b>一个多月后收到邮件，点开后竟然是被拒。我的世界崩塌了。所以爱会消失的对么？我的人生全是灰色的了。难道我写的真的全是垃圾了？连二区的杂志都无情地将我拒绝了？我的学术梦碎了。遇到伯乐太难了。<br><b>改投第四个杂志：</b>求求了审稿人baba，给你跪下了，给我个修改机会吧。感觉自己不会再爱了，是我年少轻狂了。只要给我小修，我天天给您们上香祈祷，祝审稿人福寿绵长。<br><br><br><br><br><br></blockquote><a href="https://www.zhihu.com/question/306925471/answer/1466566100" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-71ca3ad5fb522a7e56e506b88f110a08_bh.jpg" data-image-width="1232" data-image-height="656" class="internal">SCI 文章被拒是一种怎样的体验？</a><p>所以当第四个杂志第一轮审稿后给了major revision之后还是很激动的，感谢审稿人和编辑八辈祖宗（不是）。因为终于看见曙光了，毕竟大修后接受的概率还是非常高的（以及我投的又不是什么顶刊，只是个二区而已），所以充满信心。</p><p>审稿人给的意见整体来说还可以，难改的（短时间内我几乎无法完成的）意见，我也很诚恳地进行了解释说明，在原文中进行了对比和讨论。十天左右后我就上传了修改稿，因为没什么经验，生怕审稿人因为我没有“完美”解决问题（比如并没有按要求复现一些方法等）再给我拒了。每天忍不住刷几十遍邮箱，看看有没有进一步的消息，忐忑不安+躁郁+强迫症。</p><p>真正收到录用通知的时候是一个午夜，师兄作为co-author收到了邮件提醒我的，当然还是激动了一下的，发了个朋友圈：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b964c489a3c97b00370a2feb35e690a4_1440w.jpg" data-size="normal" data-rawwidth="828" data-rawheight="775" data-default-watermark-src="https://pic4.zhimg.com/v2-549c510a84ddcc5a0c520847bb4e94f3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b964c489a3c97b00370a2feb35e690a4_r.jpg" referrerpolicy="no-referrer"><figcaption>收到录用通知后发的朋友圈</figcaption></figure><p>如果用一个影视剧片段描述我当时的心情，我觉得安陵容这段太贴切了，哈哈哈哈——</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-379141780cc052c37335a140ce224428_1440w.jpg" data-caption data-size="normal" data-rawwidth="740" data-rawheight="550" data-default-watermark-src="https://pic3.zhimg.com/v2-e242e62c6b2e60aca4952f5c7ebb94e6_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-379141780cc052c37335a140ce224428_r.jpg" referrerpolicy="no-referrer"></figure><p><b>然后时隔半年，我的这篇文章还被编辑精选推荐了：</b></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-02839dba96291dea5b6be7fde4d6221f_1440w.jpg" data-caption data-size="normal" data-rawwidth="827" data-rawheight="427" data-default-watermark-src="https://pic2.zhimg.com/v2-2dfdd078460da75b5465cddfaae03d99_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-02839dba96291dea5b6be7fde4d6221f_r.jpg" referrerpolicy="no-referrer"></figure><p>总的来说，我的经验就是，SCI杂志千千万，只要文章写出来，即便过程可能坎坷些，总有一个杂志会“瞎了眼”。祝大家多发paper，早毕业！</p><p>以及如若论文投稿有什么想要交流的，也欢迎进一步咨询呀：</p><a data-draft-node="block" data-draft-type="ad-link-card" href="https://www.zhihu.com/question/491712594/answer/undefined"><p></p></a>  
+</div>
+            
