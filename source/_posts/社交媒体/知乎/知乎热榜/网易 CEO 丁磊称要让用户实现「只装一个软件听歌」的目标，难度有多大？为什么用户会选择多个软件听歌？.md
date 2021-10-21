@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6809'
+headimg: 'https://pic4.zhimg.com/v2-3e3e77499304fab39c227de8b7c15600_720w.jpg'
 author: 知乎
 comments: false
-date: Thu, 21 Oct 2021 09:09:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6809'
+date: Thu, 21 Oct 2021 09:17:25 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-3e3e77499304fab39c227de8b7c15600_720w.jpg'
 ---
 
 <div>   
-宇宙长的回答<br><br><p>很明显丁磊此番言论是经过独立思考的结果，因为他的目标是网易云音乐正在建设的版权实时数据平台，打着为音乐人谋福利的旗帜，想聚拢所有音乐人，通过这个平台，成为音乐世界的唯一或者最大的管道...</p><p>对于这个想法，笔者觉得丁磊想想就好，如果战略意图达不到，也不要抱怨团队，或者对手，要怨就怨自己，当年马化腾让他投资QQ的时候，他为啥不屑一顾的把人家拒了！</p><p>如果当年投了，那就是一家人了，谁赚钱不都一样，还分什么你我~</p><a href="https://www.zhihu.com/question/492867514/answer/2174596620" data-draft-node="block" data-draft-type="link-card" class="internal">华为多款5G手机突然有货并降价，值不值得入手？</a><p></p>  
+今天长胖十斤的回答<br><br><p>我目前听歌用了三个软件</p><p>QQ音乐、网易云音乐和咪咕音乐</p><p>咪咕是真的顶啊，很多版权都有而且大多免费听</p><hr><p>大家不要觉得咪咕“low”</p><p>相信我</p><p>你去用了你就知道，这个真的好用</p><p>如果只能留一个的话，就留咪咕吧，其他音乐软件广告太多了</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3e3e77499304fab39c227de8b7c15600_720w.jpg" data-caption data-size="normal" data-rawwidth="255" data-rawheight="255" data-default-watermark-src="https://pic2.zhimg.com/v2-ffab3d2a12fd8b883b41924273f0d090_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
