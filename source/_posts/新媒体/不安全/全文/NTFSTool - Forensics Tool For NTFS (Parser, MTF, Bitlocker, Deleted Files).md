@@ -1,0 +1,18 @@
+
+---
+title: 'NTFSTool - Forensics Tool For NTFS (Parser, MTF, Bitlocker, Deleted Files)'
+categories: 
+ - 新媒体
+ - 不安全
+ - 全文
+headimg: 'https://picsum.photos/400/300?random=5283'
+author: 不安全
+comments: false
+date: Thu, 21 Oct 2021 20:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5283'
+---
+
+<div>   
+NTFSTool - Forensics Tool For NTFS (Parser, MTF, Bitlocker, Deleted Files)  
+</div>
+            
