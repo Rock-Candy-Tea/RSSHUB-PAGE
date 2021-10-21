@@ -1,0 +1,18 @@
+
+---
+title: '王腾回应_小米 12_Pro 渲染图曝光_：这也太丑了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616cbd908e9f096677144e75_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 20 Oct 2021 18:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616cbd908e9f096677144e75_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 10 月 21 日消息，据 LetsgoDigital 报道，小米一项最新的手机外观设计专利于 10 月 15 日公开。这一设计风格有望应用于下一代小米 12 系列手机，最大的特点是采用了不多见的对称后摄设计。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/616cbd908e9f096677144e75_1024.jpg" data-height="800" data-width="1226" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616cbd908e9f096677144e75_1024.jpg" referrerpolicy="no-referrer"></div></div>从公开的专利图看出，这款手机正面类似小米 10/11 系列，采用了圆角微曲面屏幕，前摄位于左上角，但是屏幕圆角 R 值更大。手机的边框、四角部分更加圆润，后盖的左右部分的弯曲弧度更大，预计手感会更加贴合。手机后置摄像头模组全部居中设计，主摄凸起明显，有着圆环作为装饰。此外，后摄预计还会包含一颗超广角摄像头，一颗潜望式长焦镜头，以及一个补光灯。<p></p><p>LetsgoDigital 还制作了相关渲染图，更好地展现了手机造型：</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/6170bb82b15ec007090c40e5_1024.jpg" data-height="676" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6170bb82b15ec007090c40e5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e6_1024.jpg" data-height="676" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e6_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/6170bb82b15ec007090c40e7_1024.jpg" data-height="676" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6170bb82b15ec007090c40e7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e8_1024.jpg" data-height="676" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e8_1024.jpg" referrerpolicy="no-referrer"></div></div>对此，小米 Redmi 王腾在微博回应称，看不下去，这也太丑了。似乎是否认小米 12 系列将采用这种设计。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e9_1024.jpg" data-height="433" data-width="751" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6170bb82b15ec007090c40e9_1024.jpg" referrerpolicy="no-referrer"></div></div>小米有望于 2021 年末举办发布会，正式推出小米 12 系列新旗舰，预计会首发高通骁龙 898 SoC。<p></p><p>IT 之家获悉，爆料称，全新的小米 12 系列旗舰将会采用全新的封装工艺，会带来更窄的边框和下巴，视觉效果更加出色。配备 LTPO 自适应刷新率屏幕，支持 1-120Hz 自适应刷新率调节，可根据使用场景自行切换，兼顾高刷新率和低功耗的需求</p><p>小米 12 系列将分别内置 4700mAh 电池和 5000mAh 电池，有望标配 120W 有线快充以及百瓦级无线快充。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
