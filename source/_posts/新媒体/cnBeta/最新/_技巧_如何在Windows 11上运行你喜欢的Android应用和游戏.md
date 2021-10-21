@@ -1,0 +1,19 @@
+
+---
+title: '_技巧_如何在Windows 11上运行你喜欢的Android应用和游戏'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1021/74f541cb1998d2d.jpg'
+author: cnBeta
+comments: false
+date: Thu, 21 Oct 2021 00:16:18 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1021/74f541cb1998d2d.jpg'
+---
+
+<div>   
+Windows 11 中最令人期待的功能终于来了。现在可以通过亚马逊 AppStore 和 Windows Subsystem for Android 在 Windows 11 中运行 Android 应用程序了。<strong>本文将帮助你在 Windows 11 系统中运行你喜欢的 Android 应用和游戏。</strong><br>
+ <p style="text-align: left;"><iframe src="//player.bilibili.com/player.html?aid=848733746&bvid=BV1RL4y1B75D&cid=428382075&page=1" scrolling="no" border="0" framespacing="0" allowfullscreen="true" width="750" height="480" frameborder="no"> </iframe></p><p style="text-align: left;"><strong>第一步：满足要求</strong></p><p style="text-align: left;">首先你需要确认你的设备是否符合<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>设定的各项要求。首先，你需要加入 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> Insider 项目，其运行的 Windows 11 系统已经加入 Beta 频道。这意味着你的电脑需要满足 Windows 11 的最低系统要求。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1021/74f541cb1998d2d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1021/74f541cb1998d2d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">其他要求如下。</p><blockquote style="text-align: left;"><p style="text-align: left;">● 你的 PC 需要启用 BIOS/UEFI 启用虚拟化功能。点击这里，了解如何在你的电脑上启用这个指南。</p><p style="text-align: left;">● 确保你正在运行 Microsoft Store 22110.1402.6.0 版本或更高版本。你可以通过进入你的 Store 并点击“获取更新”按钮来检查商店的更新。</p><p style="text-align: left;">● 你的电脑的地区必须设置为美国。</p><p style="text-align: left;">● 你还需要有一个美国的亚马逊账户来使用亚马逊 AppStore。</p></blockquote><p style="text-align: left;">如果你符合以上所有需求，那么恭喜你可以在 Windows 11 系统上运行 Android 应用了。微软提到，首先面向 Beta 频道的 Windows Insider 成员开放了 Android 功能，因此如果你目前正处于 Dev 频道，那么可以考虑重置频道切换到 Beta。</p><p style="text-align: left;"><strong>第二步：安装亚马逊 AppStore</strong></p><p style="text-align: left;">一旦你确认你符合微软的要求，你就可以安装亚马逊 AppStore。要做到这一点，在 Windows 11 的 Microsoft Store 中搜索它。它应该就会显示出来。如果没有，请尝试更新你的 Store 版本。你也可以点击这里，直接进入亚马逊 AppStore 页面。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1021/81a92d15d0b0f45.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1021/81a92d15d0b0f45.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">一旦你安装了亚马逊 AppStore，它应该启动自己的设置。该设置将检查你的电脑，并在后台安装 Windows Subsystem for Android。让这个过程完成。这可能需要几分钟时间，这取决于你的电脑速度。</p><p style="text-align: left;"><strong>第三步：启动亚马逊 AppStore，并安装应用程序</strong></p><p style="text-align: left;">安装了亚马逊 AppStore 后，你现在可以直接安装 Android 应用。只需在亚马逊 AppStore 中搜索可用目录，或搜索你喜欢的应用。你可以点击一个应用列表，然后点击安装按钮进行安装。该应用将被下载，你将能够通过进入你的开始菜单来启动它。目前，有 50 个应用程序的小选择，但微软说更多的应用程序正在路上。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1021/3c6c4f835203d67.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1021/3c6c4f835203d67.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>初步上手体验：</strong><br style="text-align: left;"></p><p style="text-align: left;">外媒亲身体验了这一体验，给他留下了深刻印象。虽然目前的应用选择不是最棒的，但可用的应用表现非常好。外媒尝试了 Kindle 应用程序，以及 Subway Surf，并在后台使用其中一个。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1021/861f3f39f6279ca.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1021/861f3f39f6279ca.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些应用程序没有锁定或冻结，但我们确实注意到 Windows Subsystem for Android 使用了大量的内存。在16GB的可用内存中，它占用了接近 2GB。不过，看到 Windows 能够处理和调整这些应用程序的大小和窗口，这仍然令人印象深刻，特别是由于它是在虚拟机和模拟器下运行的。</p><p style="text-align: left;">仍有改进的余地，我们希望应用程序的选择可以变得更好。我们还希望有可能侧载其他在亚马逊 AppStore 中没有的 Android 应用。这是许多人建议可以做到的事情，我们期待着在 Windows 11 中花更多时间优化 Android 体验。</p>   
+</div>
+            
