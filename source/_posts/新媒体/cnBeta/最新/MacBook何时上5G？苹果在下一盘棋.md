@@ -1,0 +1,19 @@
+
+---
+title: 'MacBook何时上5G？苹果在下一盘棋'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1021/d666403354b2341.jpg'
+author: cnBeta
+comments: false
+date: Thu, 21 Oct 2021 01:52:22 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1021/d666403354b2341.jpg'
+---
+
+<div>   
+<strong>苹果周一召开了今年秋季的第二场产品发布会，发布了两款全新设计的14寸和16寸MacBook Pro。</strong>这场发布会之前的营销主题是“炸场”。从发布产品来说，苹果的确没有吹牛。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1021/d666403354b2341.jpg" alt="992a-a0cd9e9c5f49cba320e9c1c1a694b28e.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">新浪科技 郑峻发自美国硅谷</p><p style="text-align: left;">这两款新设计笔记本使用了全新研发的5纳米制程的自研处理器M1 Pro和M1 Max。这两款SoC芯片参数性能不仅较去年发布的M1芯片有巨大飞跃，更是压制了市场所有主流CPU和GPU产品。与之前苹果A芯片性能碾压高通一样，M芯片对<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>也是不同赛道的降维打击。</p><p style="text-align: left;">这是苹果打通软硬件全生态的巨大优势所在。苹果不仅自己做软硬件，现在还自研芯片，因此可以几乎“丧心病狂”地根据自己产品需求进行定制，扩大处理器面积，扩充晶体管数量，更可以将CPU、GPU以及神经网络引擎都整合到一块SoC芯片上。M1 Max封装晶体管数量达到570亿，芯片面积更是M1的3.5倍，是目前行业面积最大的芯片。而高通和英特尔要为诸多硬件厂商设计通用的处理器，无法像苹果这样随心所欲地进行定制设计。</p><p style="text-align: left;">除了拥有梦幻级别的处理器，新14寸和16寸<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F" target="_blank">MacBook</a> Pro还放弃了形同鸡肋的TouchBar，迎回了用户喜欢的MagSafe充电接口、HDMI接口以及SD卡槽。从实用性来说，这两款新品笔记本几乎是完<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mideajiadian.jd.com/" target="_blank">美的</a>产品。</p><p style="text-align: left;">或许MacBook Pro唯一的遗憾就是，不支持移动网络。MacBook Pro要在没有Wi-Fi的环境下使用，只能通过<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>的移动热点联网。虽然<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a> Pro早已支持移动网络，但苹果似乎对Always-Connected笔记本这一产品形态毫无兴趣。</p><p style="text-align: left;">为什么苹果不愿意给笔记本支持移动网络呢？显然不是因为没有需求，因为移动办公需要网络连接，而苹果主打iPad的轻办公特性都加入了5G网络支持。应该也不是技术难度大，支持LTE的笔记本早就不稀奇了，各大厂商也从去年开始陆续推出使用高通5G模块的5G网络笔记本。</p><p style="text-align: left;">相比iPad Pro的生产力直接受到iPadOS系统的限制，MacBook Air才是移动办公的最佳选择；但是，苹果就是不愿意给MacBook产品线加上移动网络支持。其中的真正原因当然只有苹果自己知道，我们也只能进行猜测和分析。</p><p style="text-align: left;">苹果没有自己的基带芯片或许是核心原因。众所周知，苹果之前没有自己的基带芯片业务，与高通关系恶化之后，全面转向英特尔的基带芯片。</p><p style="text-align: left;">但由于英特尔的5G基带芯片迟迟无法商用，2019年苹果终于对英特尔彻底失望，担心核心业务iPhone无法支持5G网络会拖累销量竞争力，只能被迫低头与高通达成和解协议，放弃与高通的所有专利诉讼，并且签下了基带芯片采购协议。</p><p style="text-align: left;">得益于高通的5G芯片，苹果2020年秋季发布的iPhone 12系列才首次支持5G网络，不仅没有错过智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>的5G时代，更有效促使老用户更新换机，带动iPhone销量显著提升。</p><p style="text-align: left;">此前与高通发起专利诉讼战的时候，苹果就组建了自己的移动基带芯片团队，计划未来实现基带芯片自主独立。而在失去苹果这一唯一客户之后，无法及时商用5G基带芯片的英特尔果断放弃了智能手机基带芯片业务，作价10亿美元卖给了苹果。苹果也成为全球第六家具备5G终端芯片能力的厂商。</p><p style="text-align: left;">虽然苹果和高通没有透露和解协议的具体细节，但据外媒此前曝光的采购协议，苹果将在未来四年内继续采用高通的5G芯片，直到2024年5月底。或许在此之前，我们都不会看到具备5G网络连接能力的MacBook。因为让用户通过iPhone热点来连接MacBook上网，苹果只需要从高通订购一块基带芯片。苹果不愿意在MacBook产品线使用高通5G基带芯片，在笔记本领域继续依赖高通。</p><p style="text-align: left;">广告</p><p style="text-align: left;">当然也不排除苹果基带业务团队实现技术飞跃，提前交卷的可能性，在2023年就可以交付技术成熟的5G基带芯片整合到自研芯片之中。此前已经有分析师预期，苹果会在2023年秋季交付自己的5G基带芯片，可能会先用在iPhone上。</p><p style="text-align: left;">另一方面，目前全球5G网络还远远没有到普及地步，苹果不需要过早进入Always Connected笔记本这个领域，反正可以通过手机的移动热点接入网络。等到2023-2024年之后5G基础设施足够成熟，苹果再推出5G版MacBook也是顺理成章。</p><p style="text-align: left;">去年开始的新冠疫情拖累了美国运营商的5G网络铺设速度。据市场调研公司International Business Strategies估计，到今年夏天美国运营商累计安装了10万个5G基站，而同期中国5G基站已经超过了90万个，占据全球总数量的70%。(注:工信部最新数据中国5G基站已经超过百万。)</p><p style="text-align: left;">由于英特尔拿不出成熟的5G基带芯片，此前苹果不得不向高通低头言和。但现在苹果正在加紧研发，未来全线使用自家5G基带芯片只是时间问题。如果一切顺利的话，苹果将在2024年在iPhone用上自家基带芯片，届时我们也有望看到5G版的MacBook。</p>   
+</div>
+            
