@@ -1,0 +1,18 @@
+
+---
+title: '在平板电脑上运行Steam游戏的实践'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/787480_9V84R.jpg'
+author: 小黑盒
+comments: false
+date: Thu, 21 Oct 2021 22:57:37 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/787480_9V84R.jpg'
+---
+
+<div>   
+<p>     之所以想在移动设备上安装Steam是因为我上周五终于入库了蹲了大半年的游戏：逆转裁判123成步堂精选集。</p><p>     这款游戏从我今年2月注册Steam以来竟然一直没有特价，中间卡普空有过两次大开发商特价活动，然而逆转裁判都不在列。</p><p><img data-gameid="787480" src="https://cdn.max-c.com/heybox/game/header/787480_9V84R.jpg" referrerpolicy="no-referrer"></p><p>      像逆转裁判这种游戏，本身就是移植GBA的，简直天然适合在掌机平台上玩儿。</p><p>       事实上我买来Switch掌机以后，玩的最多的也确实是这个游戏。但是，后来Switch因为玩儿生化危机6烧了，之后就没有再玩这个游戏了。</p><p>       虽然手机可以下模拟器玩儿GBA版本的，但是总感觉差了点意思。</p><p>       因为没有成就啊。</p><p>       然而Steam掌机感觉遥遥无期，感觉明年年底也难买低价的掌机，有可能像Ps5一样一机难求。所以其实我想到的一个方案其实可以用Windows平板来运行Steam游戏，然后可以配一个蓝牙手柄。</p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/343411b22d1376dd9e4e7de4cf45a770/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><h4 class="img-desc">扒出来在屋里沉睡几年的寨板</h4><p>虽然比较合适的方案是买一个比如Surface Pro4，比如I5的版本，但是因为最近我太浪了，完全没有钱买了。</p><p>然后就拿出来15年1300左右买的昂达山寨板，它是英特尔凌动处理器，性能确实拉胯，但是我还是比较好奇能不能带起来逆转裁判这种偏文字类的游戏。</p><p>      如果可行的话，那么配上一个蓝牙手柄，就可以愉快的玩儿比如说配置不高的步行模拟器，解密，独立游戏之类的了。</p><p>       于是怀着激动的心情我下载了Steam。</p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/aa1663d8c8339092eb241f3dcaac005e/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><h4 class="img-desc">Steam安装</h4><p><img class="lazy" data-height="3648" src="https://imgheybox.max-c.com/bbs/2021/10/21/2c0c3ed5ab86db7cd22b7c891f3c4c75/thumb.jpeg" data-width="2736" referrerpolicy="no-referrer"></p><h4 class="img-desc">逆转裁判的界面</h4><p>安装的过程虽然很顺利，但是因为这个寨版的配置内存连UHS都不是，速度还是非常慢的。2.2G的游戏大概装了8分钟。</p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/520a5be8f0a8111bf1f003e73439d469/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><h4 class="img-desc">装好以后我试着开一下，内心极为激动</h4><p>    本以为会因为缺各种各样的插件报错，然后去下个插件包呢。结果出乎意料的一次就进去了，实在是有点小惊喜。要知道这个寨版的性能已经拉胯到爱奇艺2K的视频都播不了。能进这个虽然感觉配置不高但是2.2G的游戏还是很意外的。</p><p>       </p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/225d5be29598ac6f8533e66db3d96cc9/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><p>下面开始压力测试了，小窗口玩游戏确实不爽，我是打算把它至少调一个全屏来玩。初始分辨率720P，我调到了1080P并且全屏。</p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/60db85beb1292f1c0f089ea37130be0a/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><p>这样看起来就好多了，但是比较害怕的一点是1080P会不会卡，然后我点游戏开始玩玩看。</p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2021/10/21/221b086d6a9aca2267437d1445018b92/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><p>进入游戏，真的还是挺惊艳的，玩儿起来体验很好。事实证明这个寨版还是可以玩这些独立游戏向的游戏。</p><p>而且9.7大小的屏幕还是很不错的，最重要的一点，就是平板是自带触摸屏的，这点优势在玩儿这个游戏时真是给了我一个小惊喜。</p><p>       而且玩第一章的时候右下角弹出了第一个成就，不过遗憾的时没有拍到成就弹出的瞬间，所以只能重新拍个人界面的这个成就。</p><p><img class="lazy" data-height="3840" src="https://imgheybox.max-c.com/bbs/2021/10/21/7662c594029f90871396b7ffdd0d8b2d/thumb.jpeg" data-width="5120" referrerpolicy="no-referrer"></p><p>最后，工作以后，能玩游戏的时间越来越碎片化了，可能相对于Pc和笔记本，掌机和平板还是可以能充分利用我们碎片化时间的工具。</p><p>而且这次成功了以后也让我对于Surface Pro4之类的设备更加向往了，目前的话打算在寨版上再试一下艾迪芬奇的记忆，密室逃脱之类的游戏。</p><p><span data-emoji="cube_开心" class="hb-emoji"></span></p>  
+</div>
+            

@@ -1,0 +1,19 @@
+
+---
+title: '晶科电力科技股份有限公司荣获_维科杯·OFweek2021卓越海外市场表现企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827717531022871.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 21 Oct 2021 14:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827717531022871.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">2021年10月21日，由中国高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021（第十二届）<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>产业大会暨年度评选颁奖典礼”在深圳成功举办。</span></p><p style="text-indent: 2em; text-align: left;">此次是OFweek太阳能<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏网">光伏网</a></span>举办的第十二届太阳能光伏产业大会，见证了OFweek太阳能光伏网和企业共同成长的十二年。评选活动从筹备伊始就在业内引起了巨大反响，获得了光伏全行业的高度关注与积极参与。</p><p style="text-indent: 2em; text-align: left;">经过前期火爆的企业申报与激烈的投票竞赛后，评选组委会对数据汇总并提交专家评审组综合打分，最终评选出本届各类奖项的获奖企业。</p><p style="text-indent: 2em; text-align: left;">其中晶科电力科技股份有限公司荣获维科杯·OFweek2021卓越海外市场表现企业奖。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827717531022871.png" title="1634827717531022871.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">图片来源：OFweek维科网</span></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827738479010247.png" title="1634827738479010247.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">图片来源：OFweek维科网</span></p><p style="text-indent: 2em; text-align: left;"><strong>企业介绍</strong></p><p style="text-indent: 2em; text-align: left;">作为一家行业领先的清洁能源供应商和服务商，晶科电力科技股份有限公司（601778.SH）简称“晶科科技”，以“改变能源结构、承担未来责任”为使命，专注<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="光伏发电">光伏发电</a></span>行业下游产业链，专业从事电站投资开发、EPC服务、整体解决方案、智慧运维、综合能源服务等。</p><p style="text-indent: 2em; text-align: left;">截至2021年6月底，公司总资产规模近300亿元，国内并网装机容量2.96GW，累计发电量超170亿千瓦时，已在浙江、江苏、河北、安徽、宁夏、青海等20多个省份建成了<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="光伏电站">光伏电站</a></span>，已为1000多家电站业主、工商业客户和园区客户提供能源管理和能源服务。国内基地项目储备容量超10GW，平价项目超5GW； 海外电站容量3.4GW，海外储备项目超10GW。</p><p style="text-indent: 2em; text-align: left;"><strong>获奖理由</strong></p><p style="text-indent: 2em; text-align: left;">自2017年开发海外光伏发电市场以来，公司充分利用全球资源整合能力，与法国电力集团（EDF）、阿布扎比未来能源公司（Masdar）、韩国电力公司（KEPCO）、法国道达尔（Total）、国家电力投资集团有限公司、Metito Utilities、Al Jomaih水电公司等多个全球能源巨头和大型财团进行过良好的业务合作。</p><p style="text-indent: 2em; text-align: left;">公司以专业的光伏发电技术服务优势，联合合作方的融资渠道优势，陆续中标阿布扎比2,100MW、西班牙182.5MW、约旦109MW等海外大型光伏发电项目，在欧洲、中东等地区树立了较强的品牌影响力。截至2021年6月末，晶科科技另有海外在建待建光伏电站规模约2,302MW（含参股项目）。</p><p style="text-indent: 2em; text-align: left;">公司联合法国电力集团（EDF）旗下的可再生能源公司一举中标阿布扎比2.1GW<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="太阳能发电">太阳能发电</a></span>站项目，Al Dhafra光伏项目预计在2022年投入商业运行，是目前世界上最大的在建单体太阳能电站，预计覆盖20平方公里的沙漠气候区，发电量可以满足约160，000户阿联酋家庭的用电需求。该项目融资闭合后的最终电价为1.32美分/千瓦时，再次刷新了当时全球光伏发电的最低电价纪录。其也是第一个大规模使用双面技术的太阳能电站，这将带来更高的系统效率及发电增益。</p><p style="text-indent: 2em; text-align: left;">近日，Al Dhafra光伏项目还荣获中东太阳能行业协会MESIA 颁发的“2020年度公用事业规模太阳能项目”、荣获IJGlobal颁发的2020年度中东非可再生能源太阳能交易。</p><p style="text-indent: 2em; text-align: left;">更多精彩报道和现场盛况请关注会后“OFweek2021‘维科杯’光伏产业大会暨年度评选专题”。</p> 
+  
+</div>
+            

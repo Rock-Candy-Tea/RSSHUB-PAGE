@@ -1,0 +1,19 @@
+
+---
+title: '无锡尚德太阳能电力有限公司荣获_维科杯·OFweek2021卓越海外市场表现企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827936435089547.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 21 Oct 2021 14:50:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827936435089547.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">2021年10月21日，由中国高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2021（第十二届）<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>产业大会暨年度评选颁奖典礼”在深圳成功举办。</span></p><p style="text-indent: 2em; text-align: left;">此次是OFweek太阳能<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏网">光伏网</a></span>举办的第十二届太阳能光伏产业大会，见证了OFweek太阳能光伏网和企业共同成长的十二年。评选活动从筹备伊始就在业内引起了巨大反响，获得了光伏全行业的高度关注与积极参与。</p><p style="text-indent: 2em; text-align: left;">经过前期火爆的企业申报与激烈的投票竞赛后，评选组委会对数据汇总并提交专家评审组综合打分，最终评选出本届各类奖项的获奖企业。</p><p style="text-indent: 2em; text-align: left;">其中无锡尚德太阳能电力有限公司荣获维科杯·OFweek2021卓越海外市场表现企业奖。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827936435089547.png" title="1634827936435089547.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"> <span style="text-indent: 2em;">图片来源：OFweek维科网</span></p><p style="text-indent: 2em; text-align: center;"><span style="text-indent: 2em;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/21/qinwen/1634827954400063716.png" title="1634827954400063716.png" alt="image.png" referrerpolicy="no-referrer"> </span></p><p style="text-indent: 2em; text-align: center;">图片来源：OFweek维科网</p><p style="text-indent: 2em; text-align: left;"><strong>企业介绍</strong></p><p style="text-indent: 2em; text-align: left;">尚德电力成立于2001 年，是全球知名的高性能光伏产品制造商，专注于<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260018-dianchijishu.html" target="_blank" title="太阳能电池">太阳能电池</a></span>片及组件的研发与生产20年。公司销售区域遍布全球100多个国家和地区，拥有1500多个合作伙伴，历史累积出货量超25 GW。</p><p style="text-indent: 2em; text-align: left;">尚德始终致力于产品转换效率的提升，不断加强新型技术的研发、生产工艺的改进，凭借卓越的技术优势和制造水平，竭诚为客户提供高品质、高可靠性的光伏产品，积极推动着<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="光伏发电">光伏发电</a></span>“平价上网”目标的早日实现。</p><p style="text-indent: 2em; text-align: left;"><strong>获奖理由</strong></p><p style="text-indent: 2em; text-align: left;">2020年尚德全球出货总量4GW，其中海外市场约占7成，尚德连续5年出货量排名位列前十。</p><p style="text-indent: 2em; text-align: left;">凭借对产品品质的坚守，使得尚德连续六年荣膺EuPD Research授予的“顶级光伏品牌”， 连续6年荣获DNV－GL颁布的“<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260008-zujianmokuai.html" target="_blank" title="光伏组件">光伏组件</a></span>可靠性最佳表现者”称号。</p><p style="text-indent: 2em; text-align: left;">2020年，尚德分别向德国巴登符腾堡州最大的光伏地面电站供货58.3MW组件；向西班牙内华达山脉供货的7.5MW组件具有优异的雪载能力，可从容应对项目地降雪压力；与瑞典Vattenfall合作供货的蓄能式光伏水电站项目，预计每年产生的<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="太阳能发电">太阳能发电</a></span>量可以满足1500个普通家庭的年度需求；与荷兰Duurkenakker合作的光伏＋风电电站项目，为“风车之国”提供了更清洁的可再生能源；更有182大尺寸组件抵达埃及，迅速登陆中东、北非市场，为当地客户提供了更高功率，更可靠的组件产品。</p><p style="text-indent: 2em; text-align: left;">更多精彩报道和现场盛况请关注会后“OFweek2021‘维科杯’光伏产业大会暨年度评选专题”。</p> 
+  
+</div>
+            
