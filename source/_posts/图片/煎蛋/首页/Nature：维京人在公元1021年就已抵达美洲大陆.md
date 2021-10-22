@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
 author: 煎蛋
 comments: false
 date: Thu, 21 Oct 2021 12:05:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>基于太阳风暴事件的年轮断代学</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom" referrerpolicy="no-referrer"><p>之前新鲜事有提到，著名的文兰地图是伪造的，但这并不是说，北欧或者维京人在哥伦布之前就曾达到美洲这一论断必然是错的(当然也不能确定是真的)。</p>
+<blockquote><p>基于太阳风暴事件的年轮断代学</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom" referrerpolicy="no-referrer"><p>之前新鲜事有提到，著名的文兰地图是伪造的，但这并不是说，北欧或者维京人在哥伦布之前就曾达到美洲这一论断必然是错的(当然也不能确定是真的)。</p>
 <p>现在，最新的考古证据使科学家们确认，欧洲人在很早以前就已涉足美洲大陆。</p>
 <p>根据荷兰格罗宁根大学领导的考古学家团队的研究，有切割痕迹的木片被精确地测定时代为公元1021年--正好是1000年前--而制造这些痕迹的金属工具来自欧洲。</p>
 <p>维京人制造和使用金属工具，并且已知他们在L'Anse aux Meadows考古遗址定居，这些木材就是在那里发现的。</p>
@@ -28,7 +28,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a
 <p>"发现太阳风暴的信号......”格罗宁根大学的考古学家Margot Kuitems说："在树皮中发现太阳风暴的信号......使我们能够得出结论，木材被切割出来的时间发生在公元1021年"。</p>
 <p>其他研究人员曾利用树龄学来帮助拼凑太阳活动和古代超新星事件。这一发现为树木年代学的帽子增添了另一根羽毛，表明太阳风暴也可以作为一个可靠和精确的参考点，来确定考古文物的背景。</p>
 <p>研究人员在他们的论文中写道："我们提供了证据，证明北欧人在公元1021年时在北美大陆上活动。</p>
-<p>"这个日期为晚期维京人的年代学提供了一个安全的窗口。更重要的是，它是欧洲人认识美洲的一个新的参考点，也是已知的人类占据新大陆的最早年份。”</p>
+<p>"这个日期为晚期维京人的年代学提供了一个安全的窗口。更重要的是，它是欧洲人认识美洲的一个新的参考点，也是已知的环地球航行的最早和最准确的日期。”</p>
 <p>这项研究已经发表在《自然》杂志上。</p>
 <p>https://www.sciencealert.com/breakthrough-discovery-shows-vikings-were-active-in-north-america-1-000-years-ago</p>  
 </div>
