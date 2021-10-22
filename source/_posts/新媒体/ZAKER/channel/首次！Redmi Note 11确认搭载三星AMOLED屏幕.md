@@ -1,0 +1,18 @@
+
+---
+title: '首次！Redmi Note 11确认搭载三星AMOLED屏幕'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6172b6c5b15ec07f7a4e3528_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 22 Oct 2021 07:07:51 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6172b6c5b15ec07f7a4e3528_1024.jpg'
+---
+
+<div>   
+<p>‍‍</p><p>" 翻译翻译，什么叫惊喜！"</p><p>日前，@Redmi 红米手机 宣布将于 10 月 28 日晚上 7 点发布全新的 Redmi Note 11 系列。随着预热的推进，官方开始公布该系列手机的部分配置，例如这次 Redmi Note 11 用上了三星 AMOLED 屏幕，而且规格不低。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/6172b6c5b15ec07f7a4e3528_1024.jpg" data-height="501" data-width="596" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6172b6c5b15ec07f7a4e3528_1024.jpg" referrerpolicy="no-referrer"></div></div>按照官方宣布的信息，Redmi Note 11 搭载的这块三星 AMOLED 屏幕支持 120Hz 刷新率和 360Hz 触控采样率，提升了这款手机在游戏、日常使用中的体验感和操作感。另外，该机还支持 DCI-P3 广色域，能够拥有更为鲜艳的色彩显示，还有 360° 光线感应和护眼显示，分别提供更为精准的自动亮度和更低的蓝光，保护视力。<p></p><p>其实除了屏幕参数，AMOLED 屏幕的像素排列也是不少用户关注的焦点。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e3529_1024.jpg" data-height="543" data-width="1017" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e3529_1024.jpg" referrerpolicy="no-referrer"></div></div>Redmi Note 11 的屏幕为钻石排列，这种像素排列优势在之前 Redmi 旗舰手机已经表现得很充分了，显示清晰、字体边缘锐利，屏幕观感干净透亮，不容易出现屏幕偏色等问题。另外为了更好地突出这块 AMOLED 屏幕的出色观感，这款手机边框缩窄到 1.75mm，屏幕开孔直径缩小至 2.96mm，提升屏幕的屏占比，进而扩大屏幕视野。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352a_1024.jpg" data-height="485" data-width="1004" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352a_1024.jpg" referrerpolicy="no-referrer"></div></div>所以，这次 Redmi Note 11 在屏幕观感、显示效果等方面，相比使用 LCD 屏幕的 Redmi Note 10 系列会有明显的提升。<p></p><p>值得注意的是，除了屏幕，Redmi Note 11 系列的外观设计也是该机的升级重点之一。</p><p>Redmi Note 11 在这一次在外观上最大的变化在于采用了直角边框，也就是官方所说的 " 小立边 "。对于这一点，官方是这么描述的，" 立边更潮流，细节精致好看，立边更自信，给你想要的独特感。" 可见，Redmi 对于这款手机的设计、做工和握持感很有信心。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352b_1024.jpg" data-height="662" data-width="1012" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352b_1024.jpg" referrerpolicy="no-referrer"></div></div>值得注意的是，Redmi Note 11 改用了 AG 玻璃机身，机身质感、触感比塑料机身更好，另外机身厚度压缩到 8.34mm，但是也保留了超大电池。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352c_1024.jpg" data-height="466" data-width="593" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6172b6c5b15ec07f7a4e352c_1024.jpg" referrerpolicy="no-referrer"></div></div>从目前官方放出的信息来看，Redmi Note 11 至少在屏幕、外观两个方面较上一代会有明显的改变和升级。除了手机，Redmi 还会一同发布新款智能手表—— Redmi Watch 2，搭载 1.6 英寸 AMOLED 屏幕，同时边框也进行了收窄。<p></p><p>Redmi Note 11 系列和 Redmi Watch 2 将于 10 月 28 日，即下周四晚 7 点发布。</p><p><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
