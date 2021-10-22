@@ -1,0 +1,19 @@
+
+---
+title: '微软 Windows Terminal 1.11 正式版_1.12 预览版发布，终于支持设置为默认终端'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/d39185ce-36c2-4d91-a3c9-32e8d08ff8d3.png'
+author: IT 之家
+comments: false
+date: Fri, 22 Oct 2021 07:33:25 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/d39185ce-36c2-4d91-a3c9-32e8d08ff8d3.png'
+---
+
+<div>   
+<p data-vmark="079d"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 22 日消息，据IT之家网友 @FlowerChick 投稿，Windows Terminal v1.11.2921.0（正式版）和 v1.12.2931.0（预览版）发布，<span class="accentTextColor">带来了设置为默认终端的功能</span>。</p><p data-vmark="0442"><img src="https://img.ithome.com/newsuploadfiles/2021/10/d39185ce-36c2-4d91-a3c9-32e8d08ff8d3.png" w="1440" h="839" title="微软 Windows Terminal 1.11 正式版/1.12 预览版发布，终于支持设置为默认终端" width="1440" height="478" referrerpolicy="no-referrer"></p><p data-vmark="d4ad">用户可在设置页面将默认终端选择为 Windows Terminal，之后无论是 CMD 还是 PowerShell，都会在全新的 Windows Terminal 中运行。</p><p data-vmark="243f">除此之外，用户也可以在 <a class="s_tag" href="https://win11.ithome.com/" target="_blank">Win11</a> 设置的<span class="accentTextColor">“隐私和安全性”页面选择默认终端为 Windows Terminal</span>。</p><p data-vmark="d8ab"><img src="https://img.ithome.com/newsuploadfiles/2021/10/10f1340d-6178-42ef-9e22-67240ad255c3.png" w="1042" h="575" title="微软 Windows Terminal 1.11 正式版/1.12 预览版发布，终于支持设置为默认终端" width="1042" height="452" referrerpolicy="no-referrer"></p><p data-vmark="95e0">IT之家了解到，v1.11.2921.0（正式版）的功能更新除了支持设置为默认终端，其余功能与 1.11 预览版一致，大家可以<a href="https://www.ithome.com/0/572/829.htm" target="_blank">点此查看之前发布的更新内容</a>。</p><p data-vmark="c8d5">Windows Terminal v1.12.2931.0（预览版）的其余更新功能如下：</p><h2 data-vmark="01ba">匹配配置文件</h2><p data-vmark="d01a">支持正确处理终端配置文件的可执行启动匹配，如果用户的配置文件与选定要启动的配置文件具有相同的可执行文件，则将显示所有自定义设置。</p><p data-vmark="38ab">比如点击开始菜单中的命令提示符，将打开对应的 CMD 配置文件，而不是调用 cmd.exe 的默认配置文件。</p><p data-vmark="0821"><img src="https://img.ithome.com/newsuploadfiles/2021/10/bf392159-1c6f-4a82-a848-fa334141d4f2.gif" w="1440" h="768" title="微软 Windows Terminal 1.11 正式版/1.12 预览版发布，终于支持设置为默认终端" width="1440" height="437" referrerpolicy="no-referrer"></p><h2 data-vmark="855a">窗口恢复</h2><p data-vmark="6c73">用户可以将 Windows 终端设置为<span class="accentTextColor">在重新启动后恢复以前的选项卡和窗口</span>。可以在 settings.json 文件的全局设置或启动页面的设置中将“firstWindowPreference”设置为“persistedWindowLayout”时启用此功能。</p><p data-vmark="64a6"><img src="https://img.ithome.com/newsuploadfiles/2021/10/5e03f1db-83dd-445c-ad84-c192037b0f38.png" w="591" h="217" title="微软 Windows Terminal 1.11 正式版/1.12 预览版发布，终于支持设置为默认终端" width="591" height="217" referrerpolicy="no-referrer"></p><h2 data-vmark="5a11">完全透明模式</h2><p data-vmark="93a7">Windows Terminal 在 Win11 上已支持完全透明模式，可通过 <span class="accentTextColor">Ctrl + Shift + Scroll</span> 组合键来调节窗口的透明度。当背景变为透明时，控制台中的文本不会透明，确保阅读效果正常。</p><p data-vmark="0625"><img src="https://img.ithome.com/newsuploadfiles/2021/10/d5ca7e52-0748-40cc-9686-207148b3f631.gif" w="400" h="216" title="微软 Windows Terminal 1.11 正式版/1.12 预览版发布，终于支持设置为默认终端" width="400" height="216" referrerpolicy="no-referrer"></p><h2 data-vmark="257b">其他改进</h2><ul class=" list-paddingleft-2"><li><p data-vmark="d96c">支持使用键盘选择已打印在缓冲区中的文本；</p></li><li><p data-vmark="d051">支持自动生成 Visual Studio Developer Command Prompt (VS2017+) 和 Visual Studio Developer PowerShell (VS2019.2+) 的配置文件；</p></li><li><p data-vmark="d818">用户可以使用 Alt + Space 组合键打开系统菜单，此快捷键会使用新的 openSystemMenu action；</p></li><li><p data-vmark="1b7b">可以启用“AdjustUndifferiableColors”配置文件设置，根据背景色调整前景色，使其更可见。</p></li></ul><p data-vmark="4862">此外，Windows Terminal v1.12.2931.0（预览版）还有一系列 Bug 修复，大家可以<a href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-12-release/" target="_blank">点此查看官方更新文档</a>。</p>
+          
+</div>
+            
