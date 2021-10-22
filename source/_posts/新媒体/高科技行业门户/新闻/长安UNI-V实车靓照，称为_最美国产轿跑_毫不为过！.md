@@ -1,0 +1,19 @@
+
+---
+title: '长安UNI-V实车靓照，称为_最美国产轿跑_毫不为过！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094345957851.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 22 Oct 2021 03:39:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094345957851.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">长安UNI－V从谍照泄露到官图发布，每一次的市场热度居高不下，基本上都是被其高颜值所征服。而近日，长安UNI－V的实车靓照也得到曝光，颜值方面确实能打，称之为“最美国产轿跑”也毫不为过。</p><p style="text-indent: 2em; text-align: left;"><strong>UNI－V颜值即正义</strong></p><p style="text-indent: 2em; text-align: left;">长安UNI－V将会是长安非常重磅的一款车型，是UNI高端序列的首款轿车车型。而这款车的到来，有可能会极大的缓解，长安目前在轿车市场仅有逸动<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>还算不错的表现。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094345957851.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">通过曝光的实车照片来看，新车采用了UNI系列的标志性家族无边界格栅设计，带来的视觉效果十分科幻且炫酷，两侧的大灯组造型也棱角分明，眼神十分犀利。下方采用了三段式设计并微微向前突出，而雾灯区域则采用了十分夸张的造型，整体前脸视觉效果看上去十分运动。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094346747873.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">长安UNI－V的长宽高为：4680／1838／1430毫米，轴距为：2750毫米，定位于紧凑级运动轿车。车身侧面采用了溜背式设计线条十分流畅，搭配上隐藏式门把手设计，白色的实拍车侧面看上去十分简洁、运动，黑色的外后视镜又起到了点睛之笔的作用。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094346512186.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">尾部采用了贯穿式尾灯组设计，同时还配备了同级罕见的电动升降尾翼，有一说一尾部观感上确实和奥迪A7相似，颜值上确实能打。内饰根据此前的谍照可以看到是采用了长安最新的家族式设计语言，整体设计布局和UNI－K相似，科技感的营造上完全不用担心。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094347953704.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">动力方面预计将搭载最新一代蓝鲸1．5T发动机，最大功率：138KW，峰值扭矩为：300N·m，传动系统与之匹配一台7速双离合变速箱，最高车速能够达到205KM／h。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094350166100.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>卖多少才合适？</strong></p><p style="text-indent: 2em; text-align: left;">如今年轻消费者的购车理念与此前发生了非常大的改变，以前买车的消费者会考虑非常周全详细，理性的购买居多。而随着经济的发展，以及年轻消费者购车理念的不同，可能就是喜欢这颜值就下手，或者就是要这个排气声浪就下手。</p><p style="text-indent: 2em; text-align: left;">所以越来越多的厂商针对时尚、个性而打造，UNI－V的颜值确实能打，相信就凭着这个外观就能让不少消费者已经持币等待。特别是同级罕见的电动升降尾翼，是个非常加分的个性化点。但是别忘了“内卷”也相当严重，市面上的运动型轿车已经不少，消费者除了要高颜值之外，对操控和动力也会有越来越高的要求。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202110/22094351527214.png" title="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" alt="长安UNI-V实车靓照，又一高颜值轿跑车型，卖多少才合适？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">目前预计搭载的最新蓝鲸1．5T发动机本身其实表现不差，但是最后呈现出来的结果，确实就要看长安如何去调校匹配了，操控方面的表现亦是如此。此前UNI－T犯过的宣传错误可千万别再次出现了。</p><p style="text-indent: 2em; text-align: left;">价格方面，个人猜测可能在11万元左右的起步价，按照目前来看还是非常有竞争力。UNI－V预计将在广州车展上首次亮相，明年将正式上市。</p><p style="text-indent: 2em; text-align: left;"><strong>写在最后</strong></p><p style="text-indent: 2em; text-align: left;">目前自主品牌几乎都在向运动化发力，而UNI－V上市之后将面对领克03、思域等对手，目前颜值方面已经能够打一打，至于更加重要的性能方面，希望长安这次能够对得起大家的期待。</p> 
+  
+</div>
+            
