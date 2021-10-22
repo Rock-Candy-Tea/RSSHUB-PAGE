@@ -5,21 +5,21 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=8950'
+headimg: 'https://picsum.photos/400/300?random=7034'
 author: 每日安全
 comments: false
-date: 2021-10-22 05:06:27
-thumbnail: 'https://picsum.photos/400/300?random=8950'
+date: 2021-10-22 06:08:48
+thumbnail: 'https://picsum.photos/400/300?random=7034'
 ---
 
 <div>   
 <q>静态代码分析工具 Semgrep 支持污点分析了</q>
 –
-<cite>
+ <cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
-<span class="text-muted"><small>• an hour ago</small></span>
+<span class="text-muted"><small>• 2 hours ago</small></span>
 </cite>
   
 </div>
