@@ -1,0 +1,18 @@
+
+---
+title: 'AMD发布Windows 11芯片组驱动更新 修复锐龙CPU的CPPC2问题'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617233a0b15ec00427433df8_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 21 Oct 2021 20:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617233a0b15ec00427433df8_1024.jpg'
+---
+
+<div>   
+<p><strong>随着 3.10.08.506 芯片组驱动的发布，AMD 终于给锐龙 CPU 打上了运行 Windows 11 操作系统的性能补丁。</strong>此前由于协处理器无法为程序正确调用最佳性能的内核（CPPC 机制），某些多线程优化不佳的应用程序会受到较大的影响。此外 Windows 11 首发时还遇到了锐龙 CPU 的 L3 缓存延迟异常，这点还得看微软的后续补丁优化。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/617233a0b15ec00427433df8_1024.jpg" data-height="480" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617233a0b15ec00427433df8_1024.jpg" referrerpolicy="no-referrer"></div></div>（来自：AMD Release Notes）<p></p><p>AMD 在芯片组驱动程序的发行说明中写道，该 3.10.08.506 版本已经修复了锐龙处理器在 Windows 11 Build 22000.189 及以上平台的一个性能问题，恢复了 UEFI CPPC2（首选核心）的预期功能和行为。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/617233a0b15ec00427433df9_1024.jpg" data-height="480" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617233a0b15ec00427433df9_1024.jpg" referrerpolicy="no-referrer"></div></div>具体说来是，新驱动引入了 7.0.3.5 版本的锐龙电源管理计划，其中包含了针对 Windows 11 操作系统的专属优化，以修复 CPPC2 方面的性能调度问题。<p></p><p>需要注意的是，由于 Windows 11 官方最低指定了 AMD 锐龙 2000 系列（以及英特尔 8 代酷睿）CPU，所以新版驱动程序也仅与基于 Zen+（及以上）的 AMD 锐龙 CPU 兼容。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/617233a0b15ec00427433dfa_1024.jpg" data-height="480" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617233a0b15ec00427433dfa_1024.jpg" referrerpolicy="no-referrer"></div></div>另一方面，新版芯片组驱动程序同样适用于在 Windows 10 操作系统上运行的、所有基于 Zen 架构的锐龙 CPU 。<p></p><p>与此同时，AMD 顺带修复了一个 OpenGL 报错弹窗问题，并将 UART 驱动程序版本号升级到了 1.2.0.113，以加入对 4Mbps 波特率的支持。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/617233a0b15ec00427433dfb_1024.jpg" data-height="480" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617233a0b15ec00427433dfb_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>以下是 AMD 新版芯片组驱动尚未解决的一些已知问题：</strong><p></p><p>· 若使用自定义安装，有时可能无法升级到最新版本的驱动程序。</p><p>· 在俄语系统中，可能遇到文本对齐问题。</p><p>· 安装完成后，非英语操作系统可能需要手动重启。</p><p>· 安装过程中，可能出现 Windows Installer 弹出消息。</p><p>· 在非英语操作系统上，卸载摘要日志时，可能错误地将卸载状态显示为失败。</p><p>· 启动安装程序并点击 UI 屏幕时，或观察到‘ AMD 芯片组软件没有响应’的弹窗消息。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202110/617233a0b15ec00427433dfc_1024.jpg" data-height="556" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617233a0b15ec00427433dfc_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
