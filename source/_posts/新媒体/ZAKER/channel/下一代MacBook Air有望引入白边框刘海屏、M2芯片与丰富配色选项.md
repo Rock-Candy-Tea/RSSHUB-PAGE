@@ -1,0 +1,18 @@
+
+---
+title: '下一代MacBook Air有望引入白边框刘海屏、M2芯片与丰富配色选项'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d13_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 22 Oct 2021 00:07:39 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d13_1024.jpg'
+---
+
+<div>   
+<p><strong>知名苹果爆料人 @DylandKt 刚刚在 Twitter 上透露，苹果或为下一代 MacBook Air 引入类似 MacBook Pro 的几项特性。</strong>首先是外形方面，即将推出的 MacBook Air 将拥有与 2021 款 MacBook Pro" 非常相似 " 的设计，但机身显得更薄、边框改成了灰白色且非楔形。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d13_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d13_1024.jpg" referrerpolicy="no-referrer"></div></div>（图 via MacRumors）<p></p><p>配色方面，新一代 MacBook Air 有望向 24 英寸 iMac 一体机看齐。@DylandKt 预计键盘 C 面会采用与边框相同的灰白配色，带有全尺寸功能键 + 1080p 网络摄像头。</p><p>出于产品定位的考虑，这代 MacBook Air 将无缘 SD 读卡器或全尺寸 HDMI 端口。至于大家颇为关注的定制芯片，则是较 M1 小幅升级的 M2 SoC 。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/61726fda8e9f092c7b624d14_1024.jpg" data-height="285" data-width="588" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/61726fda8e9f092c7b624d14_1024.jpg" referrerpolicy="no-referrer"></div></div>虽然不及 2021 MacBook Pro 上的 M1 Pro / M1 Max 那样强大，但主打低功耗应用的 M2 仍有其存在的较大价值。<p></p><p>早前传闻指出，M2 芯片或有 8 个 CPU 核心 + 9 / 10 个 GPU 核心（而不是 7 / 8 个）。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/61726fda8e9f092c7b624d15_1024.jpg" data-height="536" data-width="602" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/61726fda8e9f092c7b624d15_1024.jpg" referrerpolicy="no-referrer"></div></div>此外据说苹果正在为新机设计一款 30W 的电源适配器（MagSafe 磁吸接口），且机身内将采用无风扇式散热设计（延续 M1 MacBook Air 的风格）。<p></p><p>另有泄露称，新款 MacBook Air 将像 2021 MacBook Pro 一样配备 " 刘海屏 "，推测这是为了提升屏占比、同时容纳 1080p 网络摄像头。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d16_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d16_1024.jpg" referrerpolicy="no-referrer"></div></div>（图 via WCCFTech / Apple Insider）<p></p><p>出于机身厚度设计的考虑，2022 MacBook Air 或仅保留 MagSafe 磁吸充电与全功能 USB-C 端口，并且至少能够连接两台外接显示器。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d17_1024.jpg" data-height="506" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61726fda8e9f092c7b624d17_1024.jpg" referrerpolicy="no-referrer"></div></div>白色边框是个相当不寻常的设计，且有望引入 mini-LED 屏，但 @DylandKt 预计不会引入 ProMotion 自适应高刷新率技术。<p></p><p>至于苹果是否会将新一代 MacBook Air 简称为 "MacBook"，仍有待时间去检验（或于 2022 年中 / 下半年到来）。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
