@@ -1,0 +1,18 @@
+
+---
+title: '宝刀不老！有五位选手参与过每一届major！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/23/57d5b37674ecb064a7f6447c4a994e9e/thumb.png'
+author: 小黑盒
+comments: false
+date: Sat, 23 Oct 2021 17:39:50 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/23/57d5b37674ecb064a7f6447c4a994e9e/thumb.png'
+---
+
+<div>   
+<blockquote><p>历史上的15届major，每个选手都为CSGO最大赛事的冠军而奋力拼搏，为在CS的历史上永远铭记他们的名字。</p><p>到19年柏林major为止，只有六名选手参加过每一场major。而斯德哥尔摩major即将开打，Zeus已经退役，只剩五名选手。我们来回顾一下五位选手一些最难忘的时刻，和他们在major上的旅程。</p></blockquote><h2>shox - 只为第二冠</h2><p><img class="lazy" data-height="929" src="https://imgheybox.max-c.com/bbs/2021/10/23/57d5b37674ecb064a7f6447c4a994e9e/thumb.png" data-width="1407" referrerpolicy="no-referrer"></p><p><b>VeryGames</b>进入了第一届major，DreamHack Winter 2013，他们在半决赛不敌NIP，最终FNC主场夺冠。</p><p>EMS One Katowice 2014，<b>shox</b>所在的<b>Titan</b>仅在小组赛就被淘汰。</p><p>DreamHack Winter 2014，<b>shox</b>终于获得了冠军，他们在四分之一决赛碰到了<b>FNC</b>，奥拉夫爆改卡车头违规三架而重赛，随后他们选择弃赛。</p><p><img class="lazy" data-height="922" src="https://imgheybox.max-c.com/bbs/2021/10/23/add8db16f26b11b5b42d21a26264f4c5/thumb.png" data-width="1376" referrerpolicy="no-referrer"></p><p>随后的11次major，<b>shox</b>只在两次major中进入淘汰赛，一次是2015年的ESL One Katowice，还有一次是在18年的ELEAGUE Major Boston。而2019年的两次major，<b>shox</b>终于没有在小组赛中淘汰了。</p><p>2020年，随着新冠席卷全球，这位29岁的步枪手还没有和<b>ZywOo</b>一起打过major，随着<b>Vitality</b>不断打出好的成绩，这也是<b>shox</b>夺得第二冠的最好机会，尽管S1mple的夺冠可能性更大一点。</p><h2>Device、dupreeh和Xyp9x - 丹麦核心科技</h2><p>从2013年开始，<b>Device</b>就和<b>dupreeh</b>和<b>Xyp9x</b>打进了major，而他们除了18年的ELEAGUE Major Boston，都保持队伍在前八。</p><p>从<b>CPH Wolves</b>到<b>TSM</b>，尽管总是进入前八，但进入Major总决赛几乎不可能。就这样，<b>TSM</b>半决赛诅咒诞生了。</p><p><img class="lazy" data-height="930" src="https://imgheybox.max-c.com/bbs/2021/10/23/3272b74c5894441474aeafec1521ca2f/thumb.png" data-width="1404" referrerpolicy="no-referrer"></p><p>后来他们成立了<b>Astralis</b>，他们终于意识到了想夺冠就必须得变阵，他们引进了<b>gla1ve</b>和<b>kjaerbye</b>，而他们在ELEAGUE Atlanta 2017终于获得了他们的第一个major冠军。</p><p>随后在 PGL Major Krakow 2017，他们位于3~4名。然后2018年的ELEAGUE Major Boston，他们仅仅取得了12~14名的成绩，随后<b>kjaerbye</b>突然宣布退出<b>Astralis</b>，这也是他们万万想不到的。但是，更加万万想不到的来了，他们谁也不知道填补空缺的<b>Magisk</b>将是A队王朝的最后一块拼图。</p><p>从2018的FACE IT Major开始，他们取得了三连冠，并在2018年取得了IEM大满贯。</p><p>而现在，三人组分开了，这也是他们第一次在不同的队伍参与major，虽然<b>Device</b>还在传奇组，但<b>dupreeh</b>和<b>Xyp9x</b>则需要在小组赛奋战。</p><h2>olofmeister - 传奇永不落幕</h2><p><b>olofmeister</b>的ID曾让对手恐惧，而今天他仍是传奇，他只在2019年的StarLadder Berlin Major第一次错过了淘汰赛。尽管他一直在为新的选手让位，但这位29岁的瑞典人在major留下了不少最具标志性的时刻。</p><p><img class="lazy" data-height="925" src="https://imgheybox.max-c.com/bbs/2021/10/23/83ff6fd02fb1207ced940829c10da7cb/thumb.png" data-width="1404" referrerpolicy="no-referrer"></p><p>他从13年就和<b>KRIMZ</b>一起进入major，当时的他在<b>LGB</b>参加了DreamHack Winter 2013和EMS One Katowice 2014，还在EMS One Katowice 2014战胜了fnatic。</p><p>几个月后，<b>olof</b>转会<b>fnatic</b>，标志着<b>fnatic</b>传奇五人组的诞生。不久之后，DreamHack Winter 2014上，olof违规三架也让他获得了他的第一个外号“<b>boostmeister</b>”，随后他使用Tec-9的精彩表现很快获得了第二个外号“<b>Tec-9meister</b>”。</p><p>凭借在 2015年ESL One Cologne Major和 2015 ESL One Katowice Major上的出色表现，<b>fnatic</b>两连冠，olof也获得了2015年的TOP1。</p><p>自从15年的DreamHack Open Cluj-Napoca开始，<b>fnatic</b>就难以复制他们过去的表现。</p><p>尽管如此，<b>olof</b>还是从未缺席淘汰赛，转会<b>FaZe</b>也意味着<b>olof</b>重返领奖台，那一年的最强银河战舰的五位选手全都是明星选手，“But look at the time！”那一年的<b>FaZe</b>在ELEAGUE Major Boston上被<b>Cloud9</b>惊天大逆转，这也成为了<b>FaZe</b>粉丝心中永远的痛。从那以后，<b>olof</b>的Major成绩一直在走下坡路。</p><p>2019年StarLadder Berlin Major，<b>FaZe</b>没有进入淘汰赛，这也是<b>olof</b>第一次未能进入淘汰赛，像<b>dupreeh</b>和<b>Xyp9x</b>一样，<b>olof</b>需要在小组赛中苦苦奋斗。</p><p><img class="lazy" data-height="923" src="https://imgheybox.max-c.com/bbs/2021/10/23/a69f80c227e24552fa580c033cc78832/thumb.png" data-width="1400" referrerpolicy="no-referrer"></p>  
+</div>
+            
