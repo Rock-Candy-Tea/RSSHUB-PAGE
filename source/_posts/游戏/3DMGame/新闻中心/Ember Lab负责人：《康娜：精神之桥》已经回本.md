@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211023/1634972820_1561
 <img src="https://img.3dmgame.com/uploads/images/news/20211023/1634972941_283346.jpg" alt="Ember Lab负责人：《康娜：精神之桥》已经回本" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-这两位Ember Lab高层还表示：“我们现在已经决定留在游戏行业，且已经开始构思下一款游戏项目。”当记者询问他们下一款游戏会是什么时，Josh和Mike表示自己也不知道，但他们表示下一款游戏是可能会凯娜那样叙事的游戏。
+这两位Ember Lab高层还表示：“我们现在已经决定留在游戏行业，且已经开始构思下一款游戏项目。”当记者询问他们下一款游戏会是什么时，Josh和Mike表示自己也不知道，但他们表示下一款游戏可能会是凯娜那样叙事的游戏。
 </p>          
 </div>
             
