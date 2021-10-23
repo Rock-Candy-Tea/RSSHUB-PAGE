@@ -5,18 +5,18 @@ categories:
  - 二次元
  - Eventernote
  - 声优活动及演唱会
-headimg: 'https://picsum.photos/400/300?random=1253'
+headimg: 'https://picsum.photos/400/300?random=6470'
 author: Eventernote
 comments: false
-date: 2021-10-23 11:06:59
-thumbnail: 'https://picsum.photos/400/300?random=1253'
+date: 2021-10-23 12:11:06
+thumbnail: 'https://picsum.photos/400/300?random=6470'
 ---
 
 <div>   
 イベント 舞台「擾乱 THE PRINCESS OF SNOW AND BLOOD ～陽いづる雪月花編～」11/3 12:00
 開催場所 明治座
-開場 2021-11-03 12:00
-開演 2021-11-03 null:null
+開場 2021-11-03 11:00
+開演 2021-11-03 12:00
 終演 2021-11-03 14:14
   
 </div>
