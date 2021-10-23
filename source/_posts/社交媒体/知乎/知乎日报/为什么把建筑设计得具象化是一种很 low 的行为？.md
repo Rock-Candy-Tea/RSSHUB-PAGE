@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-10-23 03:08:37
-thumbnail: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+date: 2021-10-23 04:10:00
+thumbnail: 'https://pic2.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">知乎用户，</span><span class="bio">建筑设计 留学 职场提升 媒体合作｜咨询微信：hurmus</span>
 <a href="https://www.zhihu.com/question/57077229/answer/2180567753" class="originUrl" hidden>查看知乎原文</a>
 </strong>
