@@ -1,0 +1,18 @@
+
+---
+title: 'M1 Pro_Max版MacBook Pro 14开箱实拍照片曝光'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7120_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 22 Oct 2021 17:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7120_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 10 月 23 日消息，10 月 19 日凌晨，苹果发布了全新的搭载 M1 Pro 和 M1 Max 芯片的 14 英寸和 16 英寸的 MacBook Pro，搭载了新的 Liquid Retina XDR 显示屏。还有更大的物理尺寸和更小的边框、mini LED 高对比度和 120Hz ProMotion 刷新率。</p><p>新的 14 英寸和 16 英寸 MacBook Pro 2021 机型将在 10 月 26 日正式上市，但这些笔记本的首批真实 " 野生 " 照片已经泄露在网络上。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7120_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7120_1024.jpg" referrerpolicy="no-referrer"></div></div>据 MacRumors 报道，YouTube 创作者 Luke Miani 在推特上发布了 14 英寸 MacBook Pro 2021 与上一代 13 英寸 MacBook Pro 的照片，MacBook Pro 2021 特点包括刘海显示屏顶部凹槽、全黑键盘设计等。正如 Miani 所指出的，这张照片是由 Reddit 用户在 MacBook Pro 子网站上分享的。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7121_1024.jpg" data-height="720" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7121_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7122_1024.jpg" data-height="533" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7122_1024.jpg" referrerpolicy="no-referrer"></div></div>这些图片最值得注意的一点是，人们认为 14 英寸 MacBook Pro 2021 明显比 13 英寸 MacBook Pro 更厚。实际上，新的 14 英寸 MacBook Pro 在厚度上跟前一代类似，但是更平直的边框使它看起来更厚。不过，平直的边框设计可以让苹果在内部装下更多东西。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7123_1024.jpg" data-height="531" data-width="999" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7123_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，在接口方面，新的 MacBook Pro 2021 有三个 Thunderbolt 4 端口，一个 SD 卡插槽，一个 HDMI 端口，以及用于快速充电的 MagSafe 3 端口。<p></p><p>13 英寸 MacBook Pro 与 14 英寸 MacBook Pro 2021 尺寸重量对比：</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7124_1024.jpg" data-height="441" data-width="742" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617349da8e9f09428a7b7124_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，还有一张苹果 CEO 蒂姆库克的新闻照片，旁边似乎是新的 16 英寸 MacBook Pro 2021，揭示了其略厚的底盘。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7125_1024.jpg" data-height="577" data-width="871" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617349da8e9f09428a7b7125_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
