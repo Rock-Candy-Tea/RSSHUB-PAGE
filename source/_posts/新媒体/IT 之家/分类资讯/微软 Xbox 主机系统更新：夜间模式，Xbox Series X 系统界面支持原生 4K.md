@@ -1,0 +1,19 @@
+
+---
+title: '微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/7c78149e-eb5e-4860-86de-c916954a5fa2.png'
+author: IT 之家
+comments: false
+date: Fri, 22 Oct 2021 15:43:21 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/7c78149e-eb5e-4860-86de-c916954a5fa2.png'
+---
+
+<div>   
+<p data-vmark="c784"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 22 日消息，微软宣布 <span class="accentTextColor">Xbox 的 10 月更新将于今日向主机用户推出</span>，该补丁包括夜间模式和其他增强功能，并为 Xbox Series X 的用户带来了原生 4K 的系统界面。</p><p data-vmark="323a"><img src="https://img.ithome.com/newsuploadfiles/2021/10/7c78149e-eb5e-4860-86de-c916954a5fa2.png" w="780" h="615" alt="Xbox Series X 與 Xbox 無線控制器的左側圖" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" width="780" height="615" referrerpolicy="no-referrer"></p><p data-vmark="318e">微软表示，Xbox Series X 提供次世代游戏的方式之一是逼真的 4K 游戏。在今天的更新后，<span class="accentTextColor">Xbox Series X 的系统界面、菜单等将从 1080p 升级到 4K</span>。</p><p data-vmark="d864"><img src="https://img.ithome.com/newsuploadfiles/2021/10/1bce73df-5015-44d9-88ae-6428d003afab.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/1bce73df-5015-44d9-88ae-6428d003afab.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="7df2">IT之家了解到，升级到原生 4K 后，Xbox Series X 的主页、我的游戏和应用程序、Xbox Guide、屏幕上的 UI 元素（例如游戏美术和按钮）都将提高清晰度并提高文本可读性。</p><h2 data-vmark="072f">夜间模式</h2><p data-vmark="8cc2">Xbox 夜间模式是一套设置，可调整光源以帮助用户在夜间保持房间黑暗，适合对光线敏感的用户。用户还可以自定义连接的显示器、手柄上的电源按钮和主机上的电源指示灯的灯光。</p><p data-vmark="a93e"><img src="https://img.ithome.com/newsuploadfiles/2021/10/b1f488b5-c069-4a1d-95af-b2df09bd6d71.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/b1f488b5-c069-4a1d-95af-b2df09bd6d71.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="9539"><img src="https://img.ithome.com/newsuploadfiles/2021/10/e749b496-f5b2-4e59-ab49-aaa8606a0cde.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/e749b496-f5b2-4e59-ab49-aaa8606a0cde.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="ed07"><img src="https://img.ithome.com/newsuploadfiles/2021/10/3b794de3-2473-406a-8b18-da7fe82b45e4.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/3b794de3-2473-406a-8b18-da7fe82b45e4.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="bcbd">除了调光之外，Xbox 夜间模式还为显示器添加了可自定义的蓝光过滤器，即护眼模式，<span class="accentTextColor">此功能专用于 Xbox Series X|S 主机</span>。</p><p data-vmark="6ca6"><img src="https://img.ithome.com/newsuploadfiles/2021/10/21559d96-c705-46ef-a120-ca35e41d4626.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/21559d96-c705-46ef-a120-ca35e41d4626.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="6960">用户还可以设定打开夜间模式的时间段，支持自定义或选定日出日落。</p><p data-vmark="8418"><img src="https://img.ithome.com/newsuploadfiles/2021/10/8782f0b0-1ebc-42cd-8730-3dfdfc178ac6.jpg@s_2,w_820,h_461" w="1440" h="810" title="微软 Xbox 主机系统更新：夜间模式，Xbox Series X 系统界面支持原生 4K" srcset="https://img.ithome.com/newsuploadfiles/2021/10/8782f0b0-1ebc-42cd-8730-3dfdfc178ac6.jpg 2x" width="1440" height="461" referrerpolicy="no-referrer"></p><h2 data-vmark="d849">快速设置</h2><p data-vmark="a4cd">通过将“快速设置”菜单添加到 Xbox Guide，用户可以更轻松地快速访问和自定义辅助功能设置。用户可以在不离开游戏或应用程序的情况下快速切换辅助功能，家庭中的每个用户都可以轻松地将设置转换为他们量身定制的体验。</p>
+          
+</div>
+            

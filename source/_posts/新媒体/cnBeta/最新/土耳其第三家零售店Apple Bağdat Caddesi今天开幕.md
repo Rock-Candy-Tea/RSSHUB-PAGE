@@ -1,0 +1,22 @@
+
+---
+title: '土耳其第三家零售店Apple Bağdat Caddesi今天开幕'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1023/0846058e175c157.jpg'
+author: cnBeta
+comments: false
+date: Fri, 22 Oct 2021 23:49:52 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1023/0846058e175c157.jpg'
+---
+
+<div>   
+10 月 22 日（周五），<a href="https://www.apple.com/newsroom/2021/10/apple-bagdat-caddesi-now-open-in-the-heart-of-istanbul/" target="_blank">位于伊斯坦布尔市中心的 Apple Bağdat Caddesi 正式开幕</a>。这是继 Zorlu 购物中心和 Akasya 购物中心之后，苹果在土耳其的第三家 Apple Store。新零售店共有两层，空间开放宽敞，供顾客探索苹果的产品与服务，或者参与免费的 Today at Apple 课程。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/0846058e175c157.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/0846058e175c157.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/4e14b4f6449aedc.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/4e14b4f6449aedc.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/219d5f7770cfba0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/219d5f7770cfba0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/5b7fee0efd3cfc9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/5b7fee0efd3cfc9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/8cf276bb628fd18.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/8cf276bb628fd18.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1023/44e303d576b9c37.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/e7cc0f8fbb80e29.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/e7cc0f8fbb80e29.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/a708833000c42d6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/a708833000c42d6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/6b88d0682e05397.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/6b88d0682e05397.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/14548eac50c7791.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/14548eac50c7791.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/0d946830b876735.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/0d946830b876735.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/ffcfccc3dd5f452.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/ffcfccc3dd5f452.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1023/83c967b55f47dc3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1023/83c967b55f47dc3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">苹果零售业务兼人力高级副总裁 Deirdre O’Brien 表示，“随着 Apple Bağdat Caddesi 的开幕，我们很高兴能够继续发展我们与土耳其顾客之间深厚长期的关系。我们已经迫不及待，欢迎本地居民光临我们在伊斯坦布尔的最新零售店，为他们呈现 Apple 最棒的产品”。</p><p style="text-align: left;">由于健康原因，该店开业当天的人数有限，所有的人都必须提前预约。但该店正在经营一个天才吧，并推出了一个特别的“<a href="https://apple.co/Istanbul" target="_blank" rel="nofollow" data-analytics-exit-link>Perspektif Istanbul</a>”项目，这是一个为期六周的 Today at Apple 项目，旨在向这座城市及其创意人才致敬。这一系列课程由 20
+位本地艺术家主讲，结合创意、文化和技术，探讨对伊斯坦布尔本地社区至关重要的主题与价值观念。参与者将有机会参加各种面对面与在线课程，包括向画家
+Murat Palta 学习传统细密画，与马格南图片社摄影师 Sabiha Çimen 一起拍摄不被人注意的画面，和视觉艺术家 Sinan
+Tuncay 一起创作会动的肖像等等。</p>   
+</div>
+            
