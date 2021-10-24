@@ -1,0 +1,20 @@
+
+---
+title: '上交所副总刘逖：将发布中证碳中和指数及相关ETF产品'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=4045'
+author: 证券时报网
+comments: false
+date: Sun, 24 Oct 2021 16:49:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4045'
+---
+
+<div>   
+<p style="text-align: left;">证券时报网讯，10月24日，在第三届上海外滩金融峰会“《可持续信息披露标准研究》课题报告发布会”上，上海证券交易所副总经理刘逖表示，当前的背景下，对可持续信息披露标准的研究意义重大。他说，上交所高度重视、积极行动，全面推动绿色金融与ESG可持续发展，可持续投资前景广阔。</p><p style="text-align: left;">刘逖介绍，目前，上交所已有累计38家新能源、环保类企业上市，IPO融资额接近400亿元。2015年前后，上交所发布碳效率相关指数，这与ESG投资有些类似。沪市上市公司60%以上都披露了比较全面的ESG信息，约有三分之一的上市公司披露了社会责任报告。上交所与中证指数公司联合发布了50多条绿色投资指数。即将与<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="http://info.stcn.com/dc/stock/?stockcode=SS601200" code="601200">上海环境</a>能源交易所联合发布中证碳中和指数，并将开发相关的ETF产品。</p>
+
+                  
+</div>
+            
