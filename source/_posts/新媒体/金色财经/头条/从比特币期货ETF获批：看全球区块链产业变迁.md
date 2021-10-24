@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=8750'
+headimg: 'https://picsum.photos/400/300?random=6757'
 author: 金色财经
 comments: false
-date: Sun, 24 Oct 2021 02:10:38 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8750'
+date: Sun, 24 Oct 2021 08:36:42 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6757'
 ---
 
 <div>   
-美国证监会批准ETF 巨头ProShares 申请的比特币期货ETF 上市，代码BITO。  
+美国证监会批准ETF巨头ProShares申请的比特币期货ETF上市，代码BITO。上市首日，BITO成交额接近10亿美元，仅次于贝莱德碳中和ETF，成为全球资本市场的焦点。  
 </div>
             

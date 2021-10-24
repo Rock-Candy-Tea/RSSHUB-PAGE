@@ -1,0 +1,18 @@
+
+---
+title: '赣锋锂业：上海赣锋对Bacanora公司要约收购程序将待该事项获墨西哥政府批准后恢复'
+categories: 
+ - 金融
+ - 财联社
+ - 电报
+headimg: 'https://picsum.photos/400/300?random=2219'
+author: 财联社
+comments: false
+date: Sun, 24 Oct 2021 09:39:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2219'
+---
+
+<div>   
+【赣锋锂业：上海赣锋对Bacanora公司要约收购程序将待该事项获墨西哥政府批准后恢复】财联社10月24日电，赣锋锂业公告，全资子公司上海赣锋对Bacanora公司进行要约收购涉及矿业权投资暨关联交易事项正在履行Bacanora公司股东的接受程序以及墨西哥政府的审批工作。截止目前，因墨西哥政府对该事项的审批程序尚未完成，根据英国要约收购流程以及相关法律法规，上海赣锋及Bacanora公司已向英国并购委员会申请暂停要约收购程序，要约收购程序将待该事项获得墨西哥政府批准后恢复。  
+</div>
+            

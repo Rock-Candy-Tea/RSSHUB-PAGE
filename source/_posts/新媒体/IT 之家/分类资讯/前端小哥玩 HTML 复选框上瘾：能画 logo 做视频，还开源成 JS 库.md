@@ -27,7 +27,7 @@ grayScales.push(grayScale);
 &#125;
 context.putImageData(imageData, 0, 0);
 return grayScales;
-&#125;;</pre><p data-vmark="9ec6">然后为每个像素赋灰度值：</p><pre class="brush:javascript;toolbar:false ai-word-checked">const grayRamp = '<a href="https://www.ithome.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8bafcbc9">[email protected]</a>%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/|()1&#123;&#125;[]?-_+~<>i!lI;:,"^`\'. ';
+&#125;;</pre><p data-vmark="9ec6">然后为每个像素赋灰度值：</p><pre class="brush:javascript;toolbar:false ai-word-checked">const grayRamp = '<a href="https://www.ithome.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b490f4f6">[email protected]</a>%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/|()1&#123;&#125;[]?-_+~<>i!lI;:,"^`\'. ';
 const rampLength = grayRamp.length;
 const getCharacterForGrayScale = grayScale => grayRamp[Math.ceil((rampLength - 1) * grayScale / 255)];
 const asciiImage = document.querySelector('pre#ascii');
