@@ -1,0 +1,19 @@
+
+---
+title: '乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/e9d58c51-0c3e-4378-aee4-85a65d5d2863.jpg@s_2,w_820,h_1229'
+author: IT 之家
+comments: false
+date: Sun, 24 Oct 2021 00:40:59 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/e9d58c51-0c3e-4378-aee4-85a65d5d2863.jpg@s_2,w_820,h_1229'
+---
+
+<div>   
+<p data-vmark="61e8"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 24 日消息，10 月 23 日是苹果前 CEO 兼联合创始人史蒂夫・乔布斯发布 iPod 的 20 周年纪念日。为了纪念这一里程碑，应用开发商 Panic 的 Cabel Sasser 在其官方博客上发布了一个大家从未见过的极早期 iPod 原型机的独家实拍照。</p><p data-vmark="d369">这款罕见的原型机拥有一个简单而超大的淡黄色外壳，与原始 iPod 的发货版本相比相当大，尽管它是在产品开发周期的后期制作的。Cabel 表示，这个 iPod 原型诞生的日期是 2001 年 9 月 3 日。</p><p data-vmark="8ac7"><img src="https://img.ithome.com/newsuploadfiles/2021/10/e9d58c51-0c3e-4378-aee4-85a65d5d2863.jpg@s_2,w_820,h_1229" w="1440" h="2158" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/e9d58c51-0c3e-4378-aee4-85a65d5d2863.jpg 2x" width="1440" height="1229" referrerpolicy="no-referrer"></p><p data-vmark="8e29">目前还不清楚这款原型机具体信息，但可以肯定它是苹果出产的原型，而拆解图也揭示了许多包含 Apple 名称和其他识别标记的元素，例如“SPG Development”贴纸，均可表明它是正品。</p><p data-vmark="820b"><img src="https://img.ithome.com/newsuploadfiles/2021/10/f3a36779-87a4-4c7d-8d68-44f8a1e2f69c.jpg@s_2,w_820,h_1049" w="1440" h="1843" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/f3a36779-87a4-4c7d-8d68-44f8a1e2f69c.jpg 2x" width="1440" height="1049" referrerpolicy="no-referrer"></p><p data-vmark="6824">该原型机运行着 iPod 的签名软件，甚至在显示屏旁边的左上角还有一个小滚轮。设备右侧有几个垂直排列的触控按钮。</p><p data-vmark="2a60"><img src="https://img.ithome.com/newsuploadfiles/2021/10/753a0a3b-636a-4bf0-8473-38ab276e613b.jpg@s_2,w_820,h_1219" w="1440" h="2140" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/753a0a3b-636a-4bf0-8473-38ab276e613b.jpg 2x" width="1440" height="1219" referrerpolicy="no-referrer"></p><p data-vmark="13ac">它具有与原始 iPod 相同的端口，包括 FireWire 和标准耳机孔。与黄色外壳的其余部分相比，显示屏非常小，但它似乎可以与 iPod 本身相媲美。</p><p data-vmark="bba4"><img src="https://img.ithome.com/newsuploadfiles/2021/10/a1482bc7-6333-4d67-b416-64e85f02f968.jpg@s_2,w_820,h_526" w="1440" h="924" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/a1482bc7-6333-4d67-b416-64e85f02f968.jpg 2x" width="1440" height="526" referrerpolicy="no-referrer"></p><p data-vmark="3766">侧面是一个切口，似乎是一个被称为“JTAG”的接口，据说可以协助设备上的调试。</p><p data-vmark="9ec9"><img src="https://img.ithome.com/newsuploadfiles/2021/10/36dc7b52-6b07-41bb-888e-88596234e7eb.jpg@s_2,w_820,h_574" w="1440" h="1008" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/36dc7b52-6b07-41bb-888e-88596234e7eb.jpg 2x" width="1440" height="574" referrerpolicy="no-referrer"></p><p data-vmark="7a2d">仅从拆机图来看，它的内部非常空，其组件占用的内部空间极小，电线仅仅是用胶带固定。一个元器件上的标签上标有 2001 年 9 月 3 日的日期，这表明它是在发布前不到两个月生产的。</p><p data-vmark="18c2"><img src="https://img.ithome.com/newsuploadfiles/2021/10/2775d49d-ec9b-4053-9a21-6681f7945994.jpg@s_2,w_820,h_1125" w="1440" h="1975" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" srcset="https://img.ithome.com/newsuploadfiles/2021/10/2775d49d-ec9b-4053-9a21-6681f7945994.jpg 2x" width="1440" height="1125" referrerpolicy="no-referrer"></p><p data-vmark="29ee">此外， iPod 之父 Tony Fadell 在推特上发布了更多关于这款原型的细节。Fadell 说，这款机型被称为“P68/Dulcimer”，专门设计用于隐藏 iPod 的最终设计不被窥探。</p><p data-vmark="6f35"><img src="https://img.ithome.com/newsuploadfiles/2021/10/4516b846-a6c2-40c5-90bd-837ae81c31fc.png" w="599" h="472" title="乔布斯发布 iPod 20 周年，开发商曝光上市前的 iPod 原型机" width="599" height="472" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
