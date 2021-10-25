@@ -1,0 +1,19 @@
+
+---
+title: '《帝国时代4》IGN 8分：玩法经典 画面一般 战役宏大'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1025/44dbd407f384b27.jpg'
+author: cnBeta
+comments: false
+date: Mon, 25 Oct 2021 08:56:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1025/44dbd407f384b27.jpg'
+---
+
+<div>   
+<strong>《帝国时代4》将于10月28日正式发售，今日（10月25日），IGN为其打出8分，同时媒体评分解锁，M站均分83分。</strong>IGN表示，本作很棒，《帝国时代4》的游玩感受没有冒进的改变，很谨慎，本作在非常传统的RTS舒适区之外徘徊时，真的很出色。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/44dbd407f384b27.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1025/44dbd407f384b27.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1025/44dbd407f384b27.jpg" referrerpolicy="no-referrer"></a></p><p><strong>IGN评分：8分 很棒</strong></p><p>《帝国时代4》的游玩感受没有冒进的改变，很经典，本作在非常传统的RTS舒适区之外徘徊时，真的很出色。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/0685a273c603176.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/0685a273c603176.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/0685a273c603176.png" referrerpolicy="no-referrer"></a></p><p><strong>IGN总评：</strong></p><p>《帝国时代4》的游玩感受没有冒进的改变，很经典，本作在非常传统的RTS舒适区之外徘徊时，真的很出色。规模宏大的战役和像蒙古人和俄罗斯这样的另类派系是主要的亮点。但是作为一款2021年的游戏，《帝国时代4》的寻路系统不尽人意、画面也不出彩、选取一些小单位也不明显。可总的来说，游戏很令人享受，但它有时也会让人思考生活中可以腾出多少时间可以来玩这个古老的IP，毕竟RTS还能走这么远（活到2021年），还是要归功于其他系列RTS游戏的创新。</p><p><strong>其他媒体评分：</strong></p><p>M站均分 83分</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/d2b72211d531876.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/d2b72211d531876.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/d2b72211d531876.png" referrerpolicy="no-referrer"></a></p><p>Wccftech 9分</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/dcd2a7d85c67d31.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/dcd2a7d85c67d31.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/dcd2a7d85c67d31.png" referrerpolicy="no-referrer"></a></p><p>GameInformer 8.25分</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/301b4289a34934d.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/301b4289a34934d.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/301b4289a34934d.png" referrerpolicy="no-referrer"></a></p><p>VG247 4星（8分）</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/dfdadca8f222372.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/dfdadca8f222372.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/dfdadca8f222372.png" referrerpolicy="no-referrer"></a></p><p>PCGamesN 8分</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/f6fa3dc4265c92c.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/f6fa3dc4265c92c.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/f6fa3dc4265c92c.png" referrerpolicy="no-referrer"></a></p><p>PCGamer 77分</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1025/ca47378786f6514.png"><img data-original="https://static.cnbetacdn.com/article/2021/1025/ca47378786f6514.png" src="https://static.cnbetacdn.com/thumb/article/2021/1025/ca47378786f6514.png" referrerpolicy="no-referrer"></a></p><p>《帝国时代4》将于2021年10月28日在<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>商店、Steam和<a data-link="1" href="https://microsoft.pvxt.net/e4yLO" target="_blank">Xbox</a> Game Pass上面向全球发行，Steam国区售价248元。</p>   
+</div>
+            
