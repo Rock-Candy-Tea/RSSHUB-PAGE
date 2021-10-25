@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9372'
+headimg: 'https://pic1.zhimg.com/v2-f3a6407aeba9a5d46a8f77d395a9b904_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 25 Oct 2021 04:16:36 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9372'
+date: Mon, 25 Oct 2021 04:30:18 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-f3a6407aeba9a5d46a8f77d395a9b904_1440w.jpg'
 ---
 
 <div>   
-大鱼的回答<br><br><p>奥巴马当政时期，哥也去过一次美帝。兴致勃勃去买李维斯牛仔裤，店子在梅西百货地下一层。一进去我傻眼了：</p><p>李维斯牛仔裤那个店就像国内城乡结合处的大卖场，墙上密密麻麻，地上一堆一堆的堆的半人高的都是牛仔裤。零星几个大妈店员，不知道在忙啥，我看顾客都是自己撸起袖子动手翻，翻到那条算哪条。</p><p>一瞬间，不香了。</p><p>看你们上面聊得那么开心，你想象一下看到非洲某个国家的时尚黑姑娘黑小伙儿论坛聊大宝SOD蜜的文化传承与血统有多搞笑吗？</p>  
+张艾菲的回答<br><br><p>我不太懂时尚，</p><p>但我去过原宿一家Levis的旗舰店，</p><p>里面有很多古着牛仔裤展览，</p><p>这家店很有名，还能做定制。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-f3a6407aeba9a5d46a8f77d395a9b904_1440w.jpg" data-caption data-size="normal" data-rawwidth="842" data-rawheight="477" data-default-watermark-src="https://pic4.zhimg.com/v2-2f6046316b6b32516280eb8cdf35c0b8_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-f3a6407aeba9a5d46a8f77d395a9b904_r.jpg" referrerpolicy="no-referrer"></figure><p>发售新品经常造成人员抢购混乱事件，</p><p>一帮沉稳的日本人就跟打仗似的，</p><p>看来还是有价值，不然谁会抢呢？</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-32796177a48eb8b87c2bd6900c38f1d4_1440w.jpg" data-caption data-size="normal" data-rawwidth="680" data-rawheight="680" data-default-watermark-src="https://pic2.zhimg.com/v2-3ce7620eefb84190b46597cab41ae3bd_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-32796177a48eb8b87c2bd6900c38f1d4_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

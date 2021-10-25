@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - cnBeta
  - 最新
-headimg: 'https://picsum.photos/400/300?random=4329'
+headimg: 'https://picsum.photos/400/300?random=6213'
 author: cnBeta
 comments: false
 date: Mon, 25 Oct 2021 03:56:38 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4329'
+thumbnail: 'https://picsum.photos/400/300?random=6213'
 ---
 
 <div>   
