@@ -41,7 +41,6 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p>　　针对当前城乡建设当中存在的“大量建设、大量消耗、大量排放”的突出问题，《意见》还从区域协调发展、城乡基础设施建设、绿色建筑、绿色建造等方面提出了系统解决思路。</p>
 <p>　　“这些措施，对推动城乡建设绿色低碳转型发展、实现城乡建设领域节能减排目标、推动建筑业供给侧结构性改革都将具有重要的意义和关键作用。”张小宏称。</p>
 <p>　　具体来看，在促进区域和城市群绿色发展方面，《意见》提出，建立健全区域和城市群绿色发展的协调机制，推进区域重大基础设施和公共服务设施的共建共享；推进城乡基础设施补短板和更新改造专项行动以及体系化建设，提高城乡基础设施体系化水平等。</p>
-<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">国内成品油价格上调 加满一箱油将多花12元</font></p>
 <p>　　<font cms-style="font-L"><strong>【公司要闻】 </strong></font></p>
 <p>　　<strong>NO.6  <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-10-25/doc-iktzqtyu3357250.shtml">沃尔玛回应！家乐福盒马称遭“二选一”矛头暗指山姆</a></strong></p>
 <p cms-style="font-L">　　近日，家乐福在上海浦东的首家会员店开业，据说当天现场异常火爆。没想到，<font cms-style="font-L color330"><font cms-style="font-L strong-Bold color330">开业当晚，家乐福会员店官方微博就发了封致歉信。</font></font></p>
