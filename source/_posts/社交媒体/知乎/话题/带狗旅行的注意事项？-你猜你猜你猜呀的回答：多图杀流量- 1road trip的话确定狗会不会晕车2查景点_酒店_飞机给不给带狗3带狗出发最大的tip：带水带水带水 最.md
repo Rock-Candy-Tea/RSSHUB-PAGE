@@ -1,0 +1,18 @@
+
+---
+title: '带狗旅行的注意事项？-你猜你猜你猜呀的回答：多图杀流量- 1.road trip的话确定狗会不会晕车2.查景点_酒店_飞机给不给带狗3.带狗出发最大的tip：带水带水带水 最...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/50/v2-f2409f37682a68e30301ab752a1a321e_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 25 Oct 2021 14:54:35 GMT
+thumbnail: 'https://pic3.zhimg.com/50/v2-f2409f37682a68e30301ab752a1a321e_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>带狗旅行的注意事项？</strong><br>你猜你猜你猜呀的回答<br><p>多图杀流量-<br>1.road trip的话确定狗会不会晕车<br></p><p>2.查景点/酒店/飞机给不给带狗</p><p>3.带狗出发</p><p>最大的tip：带水带水带水<br>最大的con：白天热的时候比如中午 景点有不给带狗 很有可能你只能带着狗子外面转一圈就回去了<br></p><p><br>其实没这么多乱七八糟的 确定狗可以 景点可以  酒店可以 你可以 就行了。<br><br><br><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-f2409f37682a68e30301ab752a1a321e_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="720" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-f2409f37682a68e30301ab752a1a321e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-f2409f37682a68e30301ab752a1a321e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><br><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-0e12c7c75079690de6a064c7953ca444_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="720" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-0e12c7c75079690de6a064c7953ca444_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-0e12c7c75079690de6a064c7953ca444_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-513f2767f41ac924cf8689276cb18f34_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="720" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-513f2767f41ac924cf8689276cb18f34_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-513f2767f41ac924cf8689276cb18f34_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><br><br><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-47bb79c20a98cd3442f9bc993e1822d8_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="720" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-47bb79c20a98cd3442f9bc993e1822d8_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-47bb79c20a98cd3442f9bc993e1822d8_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p><br><br><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-6c5ed44b273e6da8ba6f29126a9677c8_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="720" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-6c5ed44b273e6da8ba6f29126a9677c8_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-6c5ed44b273e6da8ba6f29126a9677c8_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><br><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-c090cc0a9cbe2162cb962a168deb4128_720w.jpg?source=54b3c3a5" data-rawwidth="1920" data-rawheight="1280" data-size="normal" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-c090cc0a9cbe2162cb962a168deb4128_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-c090cc0a9cbe2162cb962a168deb4128_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
