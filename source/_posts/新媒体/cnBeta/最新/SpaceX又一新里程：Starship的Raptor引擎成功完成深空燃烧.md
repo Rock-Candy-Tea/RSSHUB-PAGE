@@ -1,0 +1,19 @@
+
+---
+title: 'SpaceX又一新里程：Starship的Raptor引擎成功完成深空燃烧'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/10/23524c82c77bc3a.webp'
+author: cnBeta
+comments: false
+date: Mon, 25 Oct 2021 06:45:26 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/10/23524c82c77bc3a.webp'
+---
+
+<div>   
+<strong>日前，SpaceX在Starship的开发中取得了另一个里程碑。该公司将其Raptor真空发动机固定在飞船上并首次进行了试射。</strong>这标志着该公司正在进行的到达火星的努力又迈出了重要的一步，这个更大的发动机变体将发挥重要作用，一旦到达外太空，它将推动这个巨大的飞行器飞行。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/23524c82c77bc3a.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/23524c82c77bc3a.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Starship是SpaceX的下一代飞行器，旨在将人员和货物运送到月球和火星，早在5月，该公司就成功地将其首次飞到高空并完成着陆。推动这次试飞的Raptor发动机是所谓的海平面变体，其特点是喷嘴较小，能在以海平面的大气压力安全地喷出废气并与此同时产生推力使火箭离开地面。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/d8c9819aef5c4e1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/d8c9819aef5c4e1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">由于太空真空中的大气压力可以忽略不计，执行这一任务的发动机喷嘴可以大得多从而产生更大的推力。Starship的上级将携带三台海平面Raptor发动机以及三个真空Raptor发动机，喷嘴则要大得多，后者SpaceX已于去年开始测试。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1025/c264f5535acce30.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1025/c264f5535acce30.png" alt="01.png" title="01.png" style="width: 600px; height: 526px;" width="600" vspace="0" height="526" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=298081214&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">在周末进行的测试中，这些真空Raptor发动机之一被整合到Starship中并首次成功试射。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1025/8290b000db59f6e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1025/8290b000db59f6e.png" alt="02.png" title="02.png" style="width: 600px; height: 504px;" width="600" vspace="0" height="504" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=298081125&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">同时，Starship下级的最终迭代即超级重型(Super Heavy)火箭将使用近30台Raptor发动机，它们将能让100公吨的东西升至地球轨道从而使其成为有史以来最强大的运载火箭。SpaceX CEO埃隆·马斯克于周末表示，如果该公司能获得FAA的必要批准，那么其下一代航天器的首次轨道发射将可能最早于11月进行。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1025/dc334692f9246b8.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1025/224135da4f470c8.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/8645a3ac012cbc6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/8645a3ac012cbc6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/48ba065e00cba04.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/48ba065e00cba04.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/ccfec0a250fb696.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/ccfec0a250fb696.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/10/c3719b2a11a2980.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/c3719b2a11a2980.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

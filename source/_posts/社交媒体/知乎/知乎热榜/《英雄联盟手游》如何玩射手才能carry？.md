@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5627'
+headimg: 'https://picsum.photos/400/300?random=3836'
 author: 知乎
 comments: false
-date: Mon, 25 Oct 2021 05:09:12 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5627'
+date: Mon, 25 Oct 2021 06:31:07 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3836'
 ---
 
 <div>   
-匿名用户的回答<br><br><p>你是不是来反串钓鱼的啊，农药的王者段来lolm打电脑2-3个头？就算哪里亮点哪里都能上翡翠了，贴吧那套拉踩整得这么离谱，真是老奶奶进被窝啊。</p><p>我就当你说的是真的，但是人机一局才拿二三个头来知乎看点回答就想一步登天能carry了？真可惜下面的兄弟们还好心分享心得呢。浪费他们的表情。</p>  
+洛伦兹力想做功的回答<br><br><p>有一个想C就别玩呆射的觉悟</p><p>有一个辅助才能选择打不打觉悟</p><p>有一个手游补兵比对面好上天也有50%的觉悟</p><p>你就能偶尔carry一下</p><p>但你不会每一把骂完辅助骂中路，骂完中路骂全部人</p><p>想C别玩呆射，最怕遇到觉得呆射能C的</p><p>赢了他觉得是自己功劳，输了他觉得自己C不动</p><p>提醒的就是题主</p><p>选AD，就要有一颗分奴之心，别想C</p>  
 </div>
             
