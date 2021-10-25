@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/53/fac6fe72ce72b92e32ee9f57771e4d15.
 ---
 
 <div>   
-SQUARE ENIX 預定於 2021 年 10 月 28 日，推出《Voice of Cards 龍之島（Voice of Cards ドラゴンの島）》（PC／PS4／Nintendo Switch，PC 版預定 10 月 29 日發售...
+SQUARE ENIX 預定於 2021 年 10 月 28 日，推出新作《Voice of Cards 龍之島（Voice of Cards ドラゴンの島）》（PC／PS4／Nintendo Switch，PC 版預定 10 月 29 日...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/53/fac6fe72ce72b92e32ee9f57771e4d15.JPG" referrerpolicy="no-referrer">  
 </div>

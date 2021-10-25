@@ -1,0 +1,18 @@
+
+---
+title: '英伟达旗舰挖矿GPU CMP 170HX售价超过4400美元'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489942_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 25 Oct 2021 03:32:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489942_1024.jpg'
+---
+
+<div>   
+<p>迪拜零售商 Vipera 披露，<strong>上月发布的英伟达旗舰挖矿 GPU（CMP 170HX），其售价高达 4435 美元 —— 几乎较 GeForce RTX 3090 这款旗舰消费级独立显卡翻倍。</strong>不过目前 CMP 170HX 仅在特定区域提供，暂不清楚英伟达打算何时将它推向更多市场。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/61767cd58e9f097216489942_1024.jpg" data-height="319" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489942_1024.jpg" referrerpolicy="no-referrer"></div></div>（图 via WCCFTech）<p></p><p>数据显示，Vipera 前一天拥有 1427 件 CMP 170HX 库存，但目前仅剩 886 件。规格方面，CMP 170HX 拥有 70 组 SM 单元 / 4480 个 CUDA 核心。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/61767cd58e9f097216489943_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489943_1024.jpg" referrerpolicy="no-referrer"></div></div>作为参考，A100 GPU 核心拥有 108 组 SM 单元 / 大约 6912 个 CUDA 核心，基础频率 1140 MHz / 加速可达 1410 MHz，ETH 挖矿算力为 164 MH/s 。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/61767cd58e9f097216489944_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/61767cd58e9f097216489944_1024.jpg" referrerpolicy="no-referrer"></div></div>CMP 170HX 只需 PCIe 4.0 x4 连接，辅以 8GB @ 4096-bit 位宽的 HBM2e 板载显存，热设计功耗（TDP 250W），另有单 8-pin 辅助供电接口。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/61767cd58e9f097216489945_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489945_1024.jpg" referrerpolicy="no-referrer"></div></div>外形方面，CMP 170HX 采用了数据中心常见的典型双槽设计，可选被动式散热方案（靠机箱暴力扇提供风道），且背板上未提供任何显示输出接口。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/61767cd58e9f097216489946_1024.jpg" data-height="594" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/61767cd58e9f097216489946_1024.jpg" referrerpolicy="no-referrer"></div></div>为了保障稳定，CMP 170HX 的 BIOS 也有锁定，并不支持 " 降压超频 " 等奇妙技能。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202110/61767cd58e9f097216489947_1024.jpg" data-height="545" data-width="502" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/61767cd58e9f097216489947_1024.jpg" referrerpolicy="no-referrer"></div></div>（传送门：Yahoo）<p></p><p>最后，英伟达正在出货仅提供一年有限质保的 CMP 170HX 矿卡。此前 Gigabyte 也提供过类似的 CMP 30HX 矿卡，但质保短至 3 个月。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
