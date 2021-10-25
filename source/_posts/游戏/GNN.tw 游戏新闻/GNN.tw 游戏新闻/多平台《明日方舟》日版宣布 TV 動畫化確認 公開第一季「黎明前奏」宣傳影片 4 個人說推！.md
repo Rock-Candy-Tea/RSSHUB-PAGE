@@ -1,0 +1,22 @@
+
+---
+title: '多平台
+《明日方舟》日版宣布 TV 動畫化確認 公開第一季「黎明前奏」宣傳影片
+ 4 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/00/bd7180dcf8918ad2250f05f03a1e40g5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/00/bd7180dcf8918ad2250f05f03a1e40g5.JPG'
+---
+
+<div>   
+Yostar 旗下智慧型手機遊戲《明日方舟（日文名稱：アークナイツ）》（iOS / Android）日版官方 Twitter 10 月 24 日宣布，確認將 TV 動畫化。而 Twitter 上也宣布第一季「黎明前奏」目前正在製作中，將由 ...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/00/bd7180dcf8918ad2250f05f03a1e40g5.JPG" referrerpolicy="no-referrer">  
+</div>
+            

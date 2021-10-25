@@ -1,0 +1,19 @@
+
+---
+title: '黑莓QNX垄断10年的汽车操作系统市场，被阿里撕开一道口子'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161101663248.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 25 Oct 2021 02:54:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161101663248.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">对于手机操作系统，大家都非常了解了，主要形势就是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%B0%B7%E6%AD%8C.HTM" target="_blank" title="谷歌">谷歌</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span>垄断市场，而<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>鸿蒙正在极速发展，目前用户超1．5亿，已经形成了谷歌安卓、苹果iOS、鸿蒙三足鼎立之势了。</p><p style="text-indent: 2em; text-align: left;">而在PC领域，则是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM" target="_blank" title="微软">微软</a></span>windows与苹果的MacOS垄断市场，国产系统存在感不高，主要在打酱油，不过这些年国产系统也是奋起直追，进很大。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161101663248.jpg" alt=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" title=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但事实上，不仅仅是手机系统、电脑系统，在很多领域我们的操作系统都是依赖于国外厂商的，比如汽车操作系统，一直以来就是黑莓的QNX为主。</p><p style="text-indent: 2em; text-align: left;">甚至可以说过去的10多年，在汽车的车控OS市场，超过90％被国外闭源系统QNX统治，国内市场一直没有自研量产产品，国产厂商一般都只做汽车中一些子部分的系统。</p><p style="text-indent: 2em; text-align: left;">比如智能座舱系统（鸿蒙目前就只是智能座舱系统），只是小部分，不算车控系统。因为它不会涉及到车控这个整车系统，还有些车企是QNX＋安卓，其中底层系统是QNX，智能座舱系统是安卓等这样组合。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161102980474.jpg" alt=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" title=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">QNX最早是加拿大Quantum Software Systems公司开发的分布式实时操作系统，它采用了微内核结构（华为鸿蒙宣称的亮点也是微内核），有着实时、稳定、可靠的优点。</p><p style="text-indent: 2em; text-align: left;">后来到2010年，BlackBerry母公司RIM收购了QNX系统，然后BlackBerry＋QNX成功牵手，将BlackBerry QNX的安全做到了极致，成为汽车操作系统中的王者。</p><p style="text-indent: 2em; text-align: left;">不过，现在这个垄断了10多年市场的汽车操作系统，终于迎来了变局，在2021年的云栖大会上，斑马智行刚刚发布全球最高产品安全认证（ISO 26262 ASIL－ D）的自研AliOS智能驾驶系统内核。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161107622963.jpg" alt=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" title=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这个系统在明年会面市，更有意思的是，阿里搞了一个颠覆性的动作，那就是将面向所有车企免费开放车控系统内核，大家都可以自行二次研发，然后推出有自己特色的操作系统出来。</p><p style="text-indent: 2em; text-align: left;">我们知道汽车操作系统本身就很复杂，并且是实时性的，它支撑着智能驾驶算法、车身控制模块、线控底盘等等一切跟行驶相关的功能，是连接各功能和算力芯片、功能模块之间的神经和桥梁，所以对厂商的要求也非常高。</p><p style="text-indent: 2em; text-align: left;">过去的这些年，也不是没有软件厂商，甚至车企想过搞出一套来，但最终都失败了，最终大家都用着QNX，截止至目前全球有2亿多汽车就用着QNX。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202110/23161108396090.jpg" alt=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" title=" 黑莓QNX垄断10年的，汽车操作系统市场，被阿里撕开一道口子" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而今阿里的AliOS智能驾驶系统来了，并且是免费的，这将给无数的车企另外一个新的选择，关键是还免费，大家还可以基于这个系统进行二次开发，搞出自己的一套自主可控的车控系统出来，这对于整个行业而言，都是一个好消息了。</p> 
+  
+</div>
+            
