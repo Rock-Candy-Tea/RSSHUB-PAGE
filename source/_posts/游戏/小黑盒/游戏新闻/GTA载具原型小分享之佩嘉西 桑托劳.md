@@ -1,0 +1,18 @@
+
+---
+title: 'GTA载具原型小分享之佩嘉西 桑托劳'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/10/26/694d5e0a738e5ced51645958ba9a44b3/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 26 Oct 2021 12:42:43 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/10/26/694d5e0a738e5ced51645958ba9a44b3/thumb.jpeg'
+---
+
+<div>   
+<p>hello大家好，我是某CM660，没错，又是我哈哈哈哈哈，今天想给大家分享一下有关神车桑托劳的改装案例，还是老规矩，咱们边看图边聊原型！<br></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/694d5e0a738e5ced51645958ba9a44b3/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p>这款车想必大家都不陌生了，狂野的外观加上75刀的售价可以说是萌新接触超级跑车的一个敲门砖，很多人的第一辆超跑就是她，对于这辆车的原型可谓是众说纷纭，有的车友觉得是毒药，有的说这是第六元素。</p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/fd494be3a4c47735d9bab6c1e34c7151/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/763980963e1ebe87abfb1327622ce9c2/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p>为了避免有偏差，我决定将两辆车都给你们讲一讲，先来说说兰博基尼吧，她的创立者是一位意大利皇家空军的机械师，后来开了一家兰博基尼的拖拉机厂（你没有听错），你还真别说，兰博基尼的拖拉机当时的销量很是好，后来创立者买来了一台法拉利<span data-emoji="cube_滑稽" class="hb-emoji"></span>这台250GT成为了他创办兰博基尼的一大动力<span data-emoji="cube_打脸" class="hb-emoji"></span></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/81c2e81886cfc044492f30c269cfbdd8/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/a0fe3b87b0db69cbffc9be0eb31f220c/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p>言归正传！兰博基尼毒药（Veneno）最早亮相于2013年的日内瓦车展，当时这辆售价28,381,600元一台的超级跑车，引起了不小的轰动，成为世界上最昂贵的量产车之一，在我们这个深蓝色的星球上仅仅销售9台且已全部名车有主，这辆车全身都是碳纤维，重量只有1490公斤，配备6.5升V12改进版发动机，在8,400 转时产生750 PS的功率输出（也就是552KW）在5,500 转时产生690 Nm的扭矩，在2.9秒内可以从0加速到100 km / h，最高车速可达到355 km / h</p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/7d470700c33c611941e6654ec12f46a7/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/3cf2a5903cead0909ed42a3d934969e8/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p>兰博基尼第六元素（Sesto Elemento）看过极品飞车的车友都知道这款车，大反派驾驶的速度机器<span data-emoji="cube_滑稽" class="hb-emoji"></span>，至于为啥叫第六元素，是因为元素周期表的第六位是碳（全车碳纤维）这车轻量化程度令人发指，连玻璃都是采用树脂玻璃，空调？没有！（详见Top Gear）连技术大能stig在全速弯道都无法驾驭，该车采用5.2L V10发动机，重量仅有999公斤，最大扭矩540Nm，可输出最大570Hp。它的重量比兰博基尼Gallardo轻550公斤，比布加迪威龙超级跑车轻850公斤<span data-emoji="cube_感动" class="hb-emoji"></span>可以说是顶尖的赛道机器了</p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/44e0f6aafae48e688dbbfa8ddbd84ba2/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/bbs/2021/10/26/2486ee16b9a6f96b305a53462ede5acb/thumb.jpeg" data-width="828" referrerpolicy="no-referrer"></p><p>快乐的时光总是短暂的，今天的分享就到这里了。大家还想了解什么车的原型或者想知道改车数据的完全可以在下方留言哦，咱们下期再见！<span data-emoji="cube_喜欢" class="hb-emoji"></span></p><p><a href="heybox://open_subject" target="_blank">#gta#</a>    <a href="heybox://open_subject" target="_blank">#gta线上#</a>   <a href="heybox://open_subject" target="_blank">#gta改车#</a>  <a href="heybox://open_subject" target="_blank">#gta养老#</a> <br></p>  
+</div>
+            

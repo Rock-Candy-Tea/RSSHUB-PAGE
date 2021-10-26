@@ -41,7 +41,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211026/1635217463_1543
 在“中断”阶段，DualSense手柄的自适应触发器会应用不同程度的反馈，以帮助在手柄上产生模拟的扳机压力。不同的武器会有不同反馈以此使得每个武器具有自己特殊的压力反馈。
 </p>
 <p style="text-indent:2em;">
-例如，当玩家携带1911架枪射击是，枪械到达中断阶段，玩家会感到适度的紧张感，但它的后坐力等反馈异与M1 Garand射手步枪。
+例如，当玩家携带1911架枪射击是，枪械到达中断阶段，玩家会感到适度的紧张感，但它的后坐力等反馈异与M1加兰德射手步枪。
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTE5OTg2NDQ4MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
