@@ -1,0 +1,19 @@
+
+---
+title: 'COMPUTADORA'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1f5d6bb6-2513-4c5f-b553-00006684e8c7&size=gallery'
+author: Mind42
+comments: false
+date: 2021-10-26 15:07:48
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1f5d6bb6-2513-4c5f-b553-00006684e8c7&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1f5d6bb6-2513-4c5f-b553-00006684e8c7&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            

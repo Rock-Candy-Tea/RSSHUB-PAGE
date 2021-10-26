@@ -1,0 +1,18 @@
+
+---
+title: '苹果正式推送macOS Monterey换了新壁纸，功能改进很小'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd92_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 26 Oct 2021 06:07:58 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd92_1024.jpg'
+---
+
+<div>   
+<p>苹果 14 英寸和 16 英寸全新 MacBook Pro 正式出货在即了，这次更高级的 M1 Pro/Max 芯片规模更大，性能自然更强了，不过由于这两部全新 MacBook Pro 定位给专业用户，已经有 M1 芯片 MacBook Pro 的果粉，如果没有很高负载的工作需求，也已经很够用了，现在苹果也为各位 Mac 用户推送了新一代操作系统 macOS Monterey 正式版。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd92_1024.jpg" data-height="702" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd92_1024.jpg" referrerpolicy="no-referrer"></div></div>去年的 macOS Big Sur 作了 UI 和图标大更新，这次 macOS Monterey 就主要是换张新壁纸（其实还是有一些零星的图标换新），以及加一些小小功能改动而已，而有趣的是，这次安装包甚至比上代更小了（12.13GB，上代为 12.47GB），实际装完后占用空间也不过多了几百 MB，由此可见新系统是真没啥大变化，其中主要的改进包括有：<p></p><p>FaceTime：加入 SharePlay 共享播放音乐、视频以及屏幕显示，加入空间音频和麦克风模式，可让背景模糊的人像模式（需搭载 M1 芯片 Mac 才支持），可多平台邀请参与通话的 FaceTime 链接</p><p>Messages：与你共享、照片收集</p><p>Safari：界面重新设计，标签页分组，跨设备网页共同访问</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd93_1024.jpg" data-height="702" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/6177d64c8e9f0926157cbd93_1024.jpg" referrerpolicy="no-referrer"></div></div>Focus：专注模式，可设定不同的使用情景模式，减少通知提醒<p></p><p>快速笔记：可快捷调出一个文本编辑窗口来记录文字、图片</p><p>AirPlay：让 iPhone 可以投放音乐或视频到 Mac 上播放</p><p>Live Text：通过机器深度学习引擎来识别图照片的文字、号码信息，并转化为文本</p><p>快捷指令：从 iOS 搬过来的自动执行功能，未来将取代 macOS 祖传的自动化</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/6177d64c8e9f0926157cbd94_1024.jpg" data-height="702" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d64c8e9f0926157cbd94_1024.jpg" referrerpolicy="no-referrer"></div></div>Maps：加入 3D 高精度街景，仅限美国本土部分城市<p></p><p>私隐：加入麦克风录制指示器，E-mail 可隐藏发送 IP</p><p>iCloud+：带有网络摄像头监控订阅服务的增强版 iCloud</p><p>AirPods 音频升级：AirPods Pro 和 AirPods Max 连接到 Mac 也可开启空间音频</p><p>低功耗模式：开启后可降低和限制部分 app 的电量消耗</p><p>翻译：现在系统更多地方和第三方 app 都可以支持翻译</p><p>Apple ID：主要就是支持数字遗产项目，即用户驾鹤仙游后，ID 可以被指定继承</p><p>不过在目前的正式版中（OS 12.0.1），这次 macOS Monterey 最重要的 Universal Control（全局掌控）是还没有上线的，这个功能是指当有 iPad Pro 放在 MacBook Pro 旁边时，两者可以合为一体，MacBook Pro 的鼠标可以跨越到 iPad 屏幕上，键盘也可以直接控制 iPad，还有两个设备的文件也是可以拖动共享的，而如果你有 iMac、MacBook Pro 以及 iPad Pro 同时放在一起，那就可以三个设备都可以共享键盘触摸板，以及屏幕形成了三联屏。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/6177d64c8e9f0926157cbd95_1024.jpg" data-height="675" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d64c8e9f0926157cbd95_1024.jpg" referrerpolicy="no-referrer"></div></div>而有点意外的是，在从 macOS Big Sur 升级到 macOS Monterey 后，居然在任务栏新增了一个虚拟键盘的功能，不免让人想象，Mac 这是要加触摸屏吗？<p></p><p>大家手中 2015 款的 iMac、MacBook Pro 和 MacBook Air 及以后更新机型，都支持升级到 macOS Monterey，由于这次新系统改进这么小，所以基本不会有性能续航方面的影响，放心升级就是了。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

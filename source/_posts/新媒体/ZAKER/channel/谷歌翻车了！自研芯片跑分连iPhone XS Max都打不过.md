@@ -1,0 +1,18 @@
+
+---
+title: '谷歌翻车了！自研芯片跑分连iPhone XS Max都打不过'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361eef_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 26 Oct 2021 06:12:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361eef_1024.jpg'
+---
+
+<div>   
+<p>谷歌在刚刚发布的 Pixel 6 Pro 上搭载了自研芯片 Google Tensor，自从这款产品发布以来，关于这款芯片的性能就是很多人关注的焦点。</p><p>现在随着首批 Pixel 6 用户拿到手机之后，Google Tensor 的跑分情况也被披露出来。</p><p>谷歌 Tensor SoC 由三星帮助研发和制造，预采用 5nm 制程工艺。目前三星最新的 Exynos 2100 拥有一个 2.9GHz Cortex-X1 超大核，3 颗 2.8GHz Cortex-A78 大核以及 4 颗 2.2GHz Cortex-A55 小核。</p><p>根据国外网友们的测试结果来看，Google Tensor 在 GeekBench5 上的单核平均成绩基本在 1000 分上下，而多核成绩在 3000 左右。</p><p>这是什么水平呢？</p><p>如果单从 GeekBench 的跑分来看，Google Tensor 大致跟 iPhone XS Max 搭载的 A12 芯片相当。甚至在单核性能上，iPhone XS Max 搭载的 A12 仿生芯片的性能大多数时候都要强过 Google Pixel 6 Pro 的 Tensor 芯片。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361eef_1024.jpg" data-height="564" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361eef_1024.jpg" referrerpolicy="no-referrer"></div></div>如果对应到国内大家更为熟悉的安兔兔平台，Google Tensor 的表现又将如何呢？根据灵感研究所的测试数据来看，Google Pixel 6 Pro 的实测安兔兔成绩为 53 万左右。这个成绩大致跟当前大家比较熟悉的高通阵营的骁龙 778G 处理器的跑分相差无几。<p></p><p><strong></strong></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><strong><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef0_1024.jpg" data-height="481" data-width="831" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef0_1024.jpg" referrerpolicy="no-referrer"></strong></div></div><strong>数据来自灵感研究所</strong><p></p><p>从跑分的数据来看，Google Tensor 的确跟当前旗舰级的手机 SoC 还有一定的差距。</p><p>不过，Google Tensor 的 GPU 成绩还是相当给力的。</p><p>还是根据国外用户提供的数据，Google Pixel 6 在 3DMark 的「Wild Life」场景测试，Wild Life 跑出 6666 分与 39 FPS，而 Wild Life Extreme 则跑出 2028 分与 12.8 FPS；20 分钟的 Wild Life 的压力测试（Stress Test），在测试当中 Tensor 的 GPU 跑出最高 2129 分、最低 1193 分，稳定度为 56%。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef1_1024.jpg" data-height="475" data-width="529" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef1_1024.jpg" referrerpolicy="no-referrer"></div></div>与其他处理器相比，搭载骁龙 888 处理器的三星 S21 Ultra 跑出 1494 分（Wild Life Extreme）、Exynos 2100 版跑出 1793 分；至于搭载 Kirin 9000 的华为 Mate 40 Pro 则为 2004 分，也就是说 Tensor 处理器的图形处理器性能比起上述其他竞品更强。<p></p><p>其实早在 Google Pixel 6 发布之前就有传闻称，谷歌并不专注于使自研 SoC 成为地球上最快的芯片。相反，这次发布可能更注重效率。而这里指的效率，可能并非只是单纯的性能和参数，而是综合了图形性能、AI、ISP、功耗等多个方面的因素。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef2_1024.jpg" data-height="877" data-width="1075" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/6177d48eb15ec0646b361ef2_1024.jpg" referrerpolicy="no-referrer"></div></div>另外，即便 Google Tensor 的性能不是顶级。Google Pixel 6 依然卖得很好，目前据说谷歌已经要求供应商将 Pixel 6 系列智能手机的产量提高到最低 700 万部，这是谷歌去年智能手机总出货量的两倍。<p></p><p><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

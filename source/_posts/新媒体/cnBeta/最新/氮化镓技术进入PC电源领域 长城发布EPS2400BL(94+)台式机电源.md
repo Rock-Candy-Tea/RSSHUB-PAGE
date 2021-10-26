@@ -1,0 +1,19 @@
+
+---
+title: '氮化镓技术进入PC电源领域 长城发布EPS2400BL(94+)台式机电源'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1026/8645baa06251c12.jpg'
+author: cnBeta
+comments: false
+date: Tue, 26 Oct 2021 14:35:37 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1026/8645baa06251c12.jpg'
+---
+
+<div>   
+2020年10月19日，由中国质量认证中心主办的第一届全国电源质量技术高峰论坛，在深圳顺利举行，论坛围绕高频氮化镓半导体器件驱动控制技术在快充应用、高性能与低功耗助力碳中和与碳达峰、无线充及快充技术应用、电源安全、性能及能效标准化及认证、服务器电源高效率技术实践等议题展开深入交流及探讨。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1026/8645baa06251c12.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1026/8645baa06251c12.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1026/8645baa06251c12.jpg" referrerpolicy="no-referrer"></a><br>中国质量认证中心副主任曾广峰等主办单位领导及参会嘉宾向获得2021年度首批“CQC开关电源性能分级认证”的深圳市航嘉驰源电气股份有限公司、长城电源技术有限公司、公牛集团股份有限公司、深圳市绿联科技股份有限公司等9家企业颁发了认证证书。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1026/fac00e9110a944d.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1026/fac00e9110a944d.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1026/fac00e9110a944d.jpg" referrerpolicy="no-referrer"></a><br></p><p>长城电源成立于1989年，是国内首款台式机电源、国内首款铂金能效电源、国内首款超算电源的研发单位，拥有32年开关电源研发与制造经验。在高峰论坛上，长城曝光了下一代采用氮化镓新架构及器件的超大功率台式机电源，意味着在数码<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>快充领域火爆的氮化镓技术，正式进入台式机电源市场。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1026/9e0ae03833cf01f.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1026/9e0ae03833cf01f.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1026/9e0ae03833cf01f.jpg" referrerpolicy="no-referrer"></a><br></p><p>长城氮化镓台式机电源隶属于长城巨龙电源系列，详细型号为EPS2400BL(94+)，外形尺寸上属于ATX电源，输出采用模组线设计，接口分别有8组6+2 PCI-E接口、2组CPU供电接口、6个IDE/SATA接口、24 pin ATX主板接口，采用一个14CM散热<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>。</p><p>从长城提供的产品资料可见，该电源采用氮化镓功率器件和图腾柱无桥PFC；满足80PLUS铂金牌标准，效率高达95.3%；全电压输入，2400W输出功率；内置了数字化PFC技术+LLC开关电源架构。并且通过了CQC AAA最优级性能认证。</p><p><img src="https://static.cnbetacdn.com/article/2021/1026/23523df34821d5b.jpg" referrerpolicy="no-referrer"><br></p><p>在能源转换率上通过严格转换率测试的80PLUS电源比普通电源具有更高的转换效率，电源更加的节能，能直接为消费者省下不小的电费开支，节能，环保，效率高。就拿对PC电源转换效率最严苛的80 PLUS钛金为例，要求10%、20%、50%、100%的效率分别为90%、94%、96%、92%，96%相当于能量达到了最大化的利用，这个数字对于采用Si功率器件的传统开关电源技术来讲，就是不可能达到的高度。</p><p>氮化镓功率器件在PC电源上的应用，能轻松的达到80 PLUS铂金标准，目前市售大部分台式机电源一般达到白牌80PLUS或铜牌PLUS标准，而长城氮化镓台式机电源效率高达95.3%，取得了铂金80PLUS认证。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1026/ec5a7c276112a16.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1026/ec5a7c276112a16.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1026/ec5a7c276112a16.jpg" referrerpolicy="no-referrer"></a><br></p><p>台式机电源的主流规格是ATX和SFX电源，中大型机箱的电源安装孔位都按照ATX规格电源进行设计，主流功率通常在500W-1200W不等。近年来ITX主板带动小机箱兴起，SFX电源体积是ATX电源的一半不到，很自然成为这些小钢炮的标配，主流功率在400W-750W不等。</p><p>长城将氮化镓功率器件、数字化PFC、LLC开关电源架构等技术应用在台式机电源上，推出的ATX电源功率可达2400W之高，若将该技术放在SFX小电源上，相信也可以在小小的身体上做出翻倍的功率。并且长城氮化镓台式机电源带载发热量将大幅度减少，用于散热的风扇转速可以维持在较低的水平，有效降低风噪，低温升也可以延缓器件老化。</p><p><strong>充电头网总结</strong></p><p>氮化镓技术从2018年开始走出实验室成功在充电器上量产，短短几年间氮化镓充电器爆发式增长，并且百瓦快充带动LLC架构快速普及，让大功率充电器体积迅速小型化。如今，氮化镓功率器件终于进入台式机电源领域，长城将氮化镓功率器件、数字化PFC、LLC开关电源架构等技术应用在台式机电源上，推出EPS2400BL(94+)氮化镓台式机电源，输出功率2400W，效率高达95.3%，并通过了通过铂金80PLUS认证，为大家提前展现未来台式机电源将是什么样子的。</p><p>长城氮化镓ATX电源可以实现单电源驱动多显卡、多处理器等专业领域性能需求，这在以前往往需要多个电源协同供电，而氮化镓SFX小电源则可以让ITX小钢炮也能驱动千瓦性能，钢炮变超跑。</p><p>回顾氮化镓数码配件的普及速度，氮化镓下一个风口就是PC电源市场，充电头网相信氮化镓台式机电源近几年将会批量上市，逐步接替传统电源的高端市场，为电脑上胃口越来越大的处理器与显卡提供大功率、低温升、高效并安静的电力供应体验。</p>   
+</div>
+            
