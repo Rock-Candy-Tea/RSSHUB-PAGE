@@ -5,19 +5,19 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/10d4e29facebc0bd3b7594838cb0795d.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/7f2fe7370c26ef241922f658899f3067.jpg!custom'
 author: 煎蛋
 comments: false
 date: Tue, 26 Oct 2021 08:58:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/10d4e29facebc0bd3b7594838cb0795d.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/7f2fe7370c26ef241922f658899f3067.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>暗物质替代理论跨过了第一道门槛</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/10d4e29facebc0bd3b7594838cb0795d.jpg!custom" referrerpolicy="no-referrer"><p>1980年，美国天文学家Vera Rubin证明：星系的旋转速度很不合理，角速度远远超过其质量所能支持的大小。</p>
+<blockquote><p>暗物质替代理论跨过了第一道门槛</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/7f2fe7370c26ef241922f658899f3067.jpg!custom" referrerpolicy="no-referrer"><p>1980年，美国天文学家Vera Rubin证明：星系的旋转速度很不合理，角速度远远超过其质量所能支持的大小。</p>
 <p>从银河系中心向外，理论上，一圈圈恒星和气态物质的圆周运动应该越来越慢，速度落差与到中心的距离成正比。</p>
 <p>术语叫开普勒下降，或递减旋转曲线，在我们太阳系的行星系统中能观察到此类现象。但大多数星系却表示，我不！和理论相反，它们的转速要么保持不变，要么增加。</p>
 <p>考虑到牛顿第二定律，为了维持圆周运动的向心力，必须有足够的质量提供引力。</p>
-<p>但是，已知星系质量明显不足，所以天体物理学家假设存在一种暗物质，提供额外的质量。否则的话，我们就要修改引力理论，比如说假定牛顿第二定律是错的，或者，承认万有引力常数不是常数，而是随着空间位置的变化而变化……太可笑了，这就像弗诺文奇著名的三界设定不是吗？……不、不是吗？</p>
+<p>但是，已知星系质量明显不足，所以天体物理学家假设存在一种暗物质，提供额外的质量。否则的话，我们就要修改引力理论，比如说假定牛顿第二定律是错的，或者，承认万有引力常数不是常数，而是随着空间位置的变化而变化……太科幻了吧，这就像弗诺文奇著名的三界设定不是吗？……不、不是吗？</p>
 <p>现在，一个不需要暗物质的宇宙学模型在与宇宙微波背景的观测结果相匹配，通过了一个主要门槛。</p>
 <p>不含暗物质的模型是所谓的MOND(修正的牛顿动力学)理论的延伸，它假定星系尺度的引力与标准的牛顿力不同。以前基于MOND的模型无法重现CMB。</p>
 <p>MOND理论是在30多年前设计出来的，作为解释星系旋转数据的一种方式，而没有援引神秘的暗物质。MOND的支持者提供了替代性的解释：当加速度小于10^-10 m/s^2 的阈值时，引力会发生变化。这个想法并不是来自于任何基础理论，但令人惊讶的是，同样的加速度阈值几乎对所有的星系都有效，无论大小，无论年轻还是年老。</p>
