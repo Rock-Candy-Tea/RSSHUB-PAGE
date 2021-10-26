@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FlfvOBUl9mxsK5JWhGHz4Y_suOaA'
 author: 探物
 comments: false
-date: 2021-10-26 05:07:19
+date: 2021-10-26 06:09:42
 thumbnail: 'https://resource.tanwuapp.com/FlfvOBUl9mxsK5JWhGHz4Y_suOaA'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FlfvOBUl9mxsK5JWhGHz4Y_suOaA" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 mini2 小型无人机 配双电</strong><br><br>
-          价格: ￥39.00 / 日<br>
+          价格: ￥33.00 / 日<br>
           评分: 5.0
           
 </div>
