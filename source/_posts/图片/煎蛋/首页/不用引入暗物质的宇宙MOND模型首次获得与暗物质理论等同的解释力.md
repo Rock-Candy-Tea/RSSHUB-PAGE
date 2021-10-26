@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/1
 ---
 
 <div>   
-<blockquote><p>暗物质替代理论</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/10d4e29facebc0bd3b7594838cb0795d.jpg!custom" referrerpolicy="no-referrer"><p>1980年，美国天文学家Vera Rubin证明：星系的旋转速度很不合理，角速度远远超过其质量所能支持的大小。</p>
+<blockquote><p>暗物质替代理论跨过了第一道门槛</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/10d4e29facebc0bd3b7594838cb0795d.jpg!custom" referrerpolicy="no-referrer"><p>1980年，美国天文学家Vera Rubin证明：星系的旋转速度很不合理，角速度远远超过其质量所能支持的大小。</p>
 <p>从银河系中心向外，理论上，一圈圈恒星和气态物质的圆周运动应该越来越慢，速度落差与到中心的距离成正比。</p>
 <p>术语叫开普勒下降，或递减旋转曲线，在我们太阳系的行星系统中能观察到此类现象。但大多数星系却表示，我不！和理论相反，它们的转速要么保持不变，要么增加。</p>
 <p>考虑到牛顿第二定律，为了维持圆周运动的向心力，必须有足够的质量提供引力。</p>
