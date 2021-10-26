@@ -1,0 +1,18 @@
+
+---
+title: '公司规定所有接口都用post请求，这是为什么？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-395ba55a90447a432ea7fd060c341d3c_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 26 Oct 2021 00:02:52 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-395ba55a90447a432ea7fd060c341d3c_1440w.jpg'
+---
+
+<div>   
+涛叔的回答<br><br><p>题主不会是我们组的吧 我们对外的接口都是POST，不请自来。</p><p>一般做过 web 开发的都知道 GET 和 POST。查询用 GET，修改用 POST。</p><p>如果用过 REST 风格的接口，那可能会知道 PUT 和 DELETE。删除用 DELETE，创建或修改用 PUT。</p><p>这时候立马就碰到了一个困难，POST 和 PUT 有什么区别呢？答曰：如果事先知道资源的URL，可以用 PUT；否则用POST。翻译过来就是：如果需要服务端生成ID，就用 POST，否则（也就ID已知），用PUT。</p><p>对简单的接口或者资源来说（如：GET /user/123 表示查询用户信息），REST 这种设计不会有什么问题，甚至可以说是完美的。可是现实世界往往是复杂的。REST 的核心是资源和状态，所有的变更都对应状态的转变。如果是发送一条短信，要怎么设计资源呢？</p><ul><li>一种方案是使用 <code>POST /sms</code> 表示创建一条<b>短信资源</b></li><li>另一种方案则是 <code>POST /sms:send</code> 直接发送（也就是所谓的「伪资源」）。</li></ul><p>但不管哪种方式，都不直观，其原因有二：</p><ul><li>一是 http 的方法（GET, POST, PUT, DELETE 等）太少，基本都是面向静态资源的，表达能力有限</li><li>二是将业务过程转成资源状态变化本身就比较烧脑，而且存在无法转化的场景</li></ul><p>REST 还有一个比较大的问题就是 url 中有数字 id，统计 prometheus 监控指标的时候必须做<b>归一化</b>处理。</p><p>总结下来就是：世界很复杂，REST太简单。如果上 REST，最终会演变成一个不伦不类的系统。</p><p>以上，就是不用 REST，也就是不用 PUT 和DELETE 的理由。那现在就剩下 GET 和 POST 了。不用归不用，REST 的思想还是值得学习的。推荐一本书，要批判地看 </p><p>如果保留 GET 方法，那就需要一个标准来确定什么时候用 GET，什么时候用 POST。</p><p>有人可能会说，查询的时候用 GET，更新的时候用 POST。这不是很显然的事情吗？</p><p>但现实系统中的读写接口真就那么泾渭分明吗？比如你关注的漫画有更新新，可以在 APP 上显示一个红点；等你阅读漫画的（标准的读请求）时候，需要清空红点标记。这在读接口里就混有了写操作。我们当然可以另外设计一个清理红点的接口，但这样带来额外的维护成本。我也不是说这种读写混合的方式完全正确。我想表达的是现实的系统不是理想化的系统，我们没法简单的准则来规范大家的开发。</p><p>所以说，查询用GET，更新用POST，并非永远成立。</p><p>另一方面，GET 跟 POST 相比有什么优势呢？答曰：GET 接口返回的内容可以被缓存！（有人可能会说 GET 不能附加 body，其实这是不对的。GET 请求也可以像 POST 那样提交数据。）也就说，GET 比 POST 唯一的区别是 GET 请求的结果可以被缓存。这恰恰有很大的问题。我们对外提供接口，内容一般是动态的。如果中间节点缓存了结果，那就很难更新。所以说，在动态接口领域，GET 的这个缓存特性反而是缺点，而非优点。</p><p>到现在，就只剩下 POST 方法了。一个典型的 POST 请求（twirp 协议，具体可以参考我的文章<a href="http://link.zhihu.com/?target=https%3A//taoshu.in/twirp.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">Twirp 框架简介</a>）</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-395ba55a90447a432ea7fd060c341d3c_1440w.jpg" data-size="normal" data-rawwidth="819" data-rawheight="274" data-default-watermark-src="https://pic1.zhimg.com/v2-2da6a618bcb01696dd0ee8d1476f74b0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-395ba55a90447a432ea7fd060c341d3c_r.jpg" referrerpolicy="no-referrer"><figcaption>来源：https://github.com/twitchtv/twirp/blob/main/PROTOCOL.md</figcaption></figure><p>方法用 POST，路径表示接口，body 传输请求内容。从这个角度上讲，http 协议只不过是 RPC 调用的一种承载方式。RCP 要解决的问题无非就是接口映射（也就调哪个接口）和编码问题（json/pb等）。至于具体的 http 请求类型，则不是很重要，只要不给大家带来麻烦就好。</p><p>而前面说过，GET 可能有缓存问题，所以不如 POST。现在比较流行的 grpc 本质上也是 http post 请求（可以参考我的文章<a href="http://link.zhihu.com/?target=https%3A//taoshu.in/grpc.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">理解 gRPC 协议</a>）：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-70030c05f9e97a43502a4fc05a898ac6_1440w.jpg" data-size="normal" data-rawwidth="964" data-rawheight="512" data-default-watermark-src="https://pic2.zhimg.com/v2-95aa7165fd13500d954367611d5a1064_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-70030c05f9e97a43502a4fc05a898ac6_r.jpg" referrerpolicy="no-referrer"><figcaption>来源：https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md</figcaption></figure><p>不论用什么方法，都需要好好学习 HTTP 协议。推荐阅读下列书籍：</p><p></p>  
+</div>
+            
