@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-9be65db3865cc437d0deaf2da575e57f_720w.jpg'
+headimg: 'https://picsum.photos/400/300?random=9986'
 author: 知乎
 comments: false
-date: Wed, 27 Oct 2021 05:16:29 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-9be65db3865cc437d0deaf2da575e57f_720w.jpg'
+date: Wed, 27 Oct 2021 04:02:04 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9986'
 ---
 
 <div>   
-伯光君的回答<br><br><p><b>就算我们在这里分析得头头是道。LPL会听么？</b></p><p>腾讯会改革么？</p><p>就为了提高中国玩家的观赛体验？</p><p><br></p><p><b>LPL现在取消了降级制和晋级制。以前差的战队会下放LDL，好的战队会上位到LPL。结果腾讯为了赚钱，取消了这种制度。</b></p><p>LDL现在沦为假赛菠菜的基地。LPL几个菜鸡队有恃无恐。每年S赛都有人说这个问题。我腾讯改了么？</p><p><br></p><p><b>LPL缺少优秀的青训营。这个青训营，不仅仅是是战队自己建立的，更需要一个稳定优秀的国服。而国服即便到了高分段也是一群演员导演。在这样的劣质环境下，根本没有新人出头的机会。</b></p><p>即便是职业选手都跑去韩服去练习。</p><p>这个也是每次S赛之后都有人说的。</p><p>我腾讯，我LPL也是完全不改。</p><p><br></p><p>说了腾讯又不听。</p><p>听了她又不懂。</p><p>懂了他又不做。</p><p>做了他又做错。</p><p>错了他又不改。</p><p>呵呵呵呵呵呵呵呵</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9be65db3865cc437d0deaf2da575e57f_720w.jpg" data-caption data-size="normal" data-rawwidth="222" data-rawheight="300" class="content_image" referrerpolicy="no-referrer"></figure><p>买点周边把，我腾讯只需要大家的钱</p><a href="https://www.zhihu.com/zvideo/1436657592567734272" data-draft-node="block" data-draft-type="link-card"></a>  
+叹离暖的回答<br><br><p>为什么？说几句大家伙可能不爱听的话。</p><p>lck赛区，从s8被叫第三赛区，优秀选手大量流向lpl，再到现在s10冠军，s11四强17个韩国人，只用了短短两三年时间。</p><p>从SKT，三星，再到DWG，lck赛区教会了我们一个道理：那就是所谓电竞，真的不是只靠资本能解决的。</p><p>你买光了他们优秀的选手，他们不知道什么时候又冒出一个网吧队把你杀得服服帖帖，就像s10一样。</p><p>就像李哥在s6写下《不死者》中说到的“如果有人想成为第二个faker，我会努力做到最好”，再到s10总决赛的前许秀说的“重铸lck荣光，吾辈义不容辞”，这叫什么？这叫——传承。</p><p>lck一代又一代的选手，在他们身上我看到的更多是纯粹的电竞精神，就是两个字——纯粹；</p><p>没有什么约炮、草粉、卖饼、做网红、嫖娼、打假赛。能行就上，不行就滚。我是来看比赛的，不是来看饭圈表演的。</p><p>李哥三冠王打得不好照样去替补，许秀msi被鬼皇坑出屎来，从头到尾没说过一句队友的不是。你比这些人，输的是仅仅水平吗？我觉得不是。</p><p></p><p></p><p></p>  
 </div>
             

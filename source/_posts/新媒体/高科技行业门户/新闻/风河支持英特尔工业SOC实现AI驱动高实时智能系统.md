@@ -1,0 +1,19 @@
+
+---
+title: '风河支持英特尔工业SOC实现AI驱动高实时智能系统'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/27/shiqi/1635314902527080874.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 27 Oct 2021 06:05:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/27/shiqi/1635314902527080874.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">全球领先的智能系统软件提供商<strong>风河公司</strong>近日宣布支持Intel Atom x6000系列、Intel Pentium和Celeron N和J系列处理器以及第11代Intel Core处理器和Intel Celeron处理器。此项进展是风河软件多年来面向英特尔工业系统芯片产品（SOC）持续优化的一部分。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/27/shiqi/1635314902527080874.png" title="风河支持英特尔工业SOC实现AI驱动高实时智能系统" alt="风河支持英特尔工业SOC实现AI驱动高实时智能系统" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">业界领先的<strong>VxWorks?</strong>实时操作系统（RTOS）现已成为Wind River Studio的组成部分，是部署最广泛的商用RTOS，支持面向物联网优化的工业平台Intel处理器，提供更强的<span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="人工智能">人工智能</a></span>和实时计算能力，以满足关键任务应用，例如功能安全性和相关的连续认证需求。VxWorks充分发挥了嵌入于英特尔工业SOC的边缘IP功能，包括英特尔时间协调计算（Intel TCC）、时间敏感网络和功能安全性。</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/27/shiqi/1635315003628003624.png" title="风河支持英特尔工业SOC实现AI驱动高实时智能系统" alt="风河支持英特尔工业SOC实现AI驱动高实时智能系统" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"><span style="font-size: 14px;">风河公司首席产品官Avijit Sinha</span></p><p style="text-indent: 2em; text-align: left;">风河公司首席产品官<strong>Avijit Sinha</strong>指出：“我们正在迈向一个更加自动化的智能系统世界，物联网设备在边缘不断生成大量数据，需要适用的软件去安全地采集和处理来自无数智能边缘系统的实时数据。通过Studio，我们提供了一个端到端的解决方案，从开发到部署，满足了不断变化且计算量巨大的物联网应用需求。风河与英特尔密切合作，为第四次工业革命的严苛需求提供了最佳的RTOS。此外，基于这一合作关系的成功，风河正致力于支持Tiger Lake和Ice Lake，使其可用于通过航空电子安全认证的Wind River Helix?。”</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/27/shiqi/1635315431742017859.jpg" title="风河支持英特尔工业SOC实现AI驱动高实时智能系统" alt="风河支持英特尔工业SOC实现AI驱动高实时智能系统" width="341" height="357" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"><span style="font-size: 14px;"><span style="text-indent: 32px;">英特尔物联网集团副总裁兼工业解决方案总经理</span>Christine Boles</span></p><p style="text-indent: 2em; text-align: left;">英特尔物联网集团副总裁兼工业解决方案总经理<strong>Christine Boles</strong>表示：“下一代应用系统，例如工业4.0，需要更强大的人工智能和实时能力，以满足高速处理、<span class="hrefStyle"><a href="https://www.ofweek.com/ai/CAT-201716-cpv.html" target="_blank" title="计算机视觉">计算机视觉</a></span>、功能安全和低延迟高确定性计算等关键应用的需求。有了风河VxWorks和ACRN对于英特尔物联网优化平台的支持，就使客户能够快速添加新功能并将新产品推向市场，以虚拟化的实时计算提供世界一流的性能。”</p><p style="text-indent: 2em; text-align: left;">工业制造企业的一个重大转变是，越来越多的人工智能和自动化决策计算正在向云环境的边缘移动。最近的研究表明，66％的行业领先者认为，他们的嵌入式产品／解决方案需要能够以近乎无延迟的实时方式进行计算，才能在关键任务中取得成功。</p><p style="text-indent: 2em; text-align: left;">Intel Atom x6000系列、Intel Pentium及Celeron N和J系列处理器（Elkhart Lake）为物联网开发人员、架构师和工程师提供了针对物联网获得增强的平台，包含了用于远程管理、功能安全性、TSN网络同步和实时计算的集成化资源。第11代Intel Core处理器（Tiger Lake）具有集成化AI加速的高性能CPU／GPU计算功能，以及面向关键应用的高速处理、计算机视觉和低延迟确定性计算等实时性能。</p><p style="text-indent: 2em; text-align: left;">无论是任何行业或设备类型，构建智能系统的企业都依赖Wind River RTOS的功能来提供最高级别的信息安全性、功能安全性、高性能和高可靠性。VxWorks是Wind River Studio的一部分，形成了一个云原生平台，用于关键任务智能系统的开发、部署、运作和服务。</p><p style="text-indent: 2em; text-align: left;"><strong>关于风河</strong></p><p style="text-indent: 2em; text-align: left;">风河是全球领先的关键任务智能边缘软件提供商。40年来，风河一直甘当创新者和开拓者，推动着数十亿设备与系统的正常运行，提供了最高级别的信息安全性、功能安全性和可靠性。风河公司的软件与专业技能不断加速汽车、宇航、国防、工业、医疗和电信等行业的数字化转型。风河公司提供全面的产品集，并由覆盖全球的专业服务以及广泛的合作伙伴生态体系提供支持。如需了解更多资料，请访问风河网站：www.windriver.com</p> 
+  
+</div>
+            
