@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3230'
+headimg: 'https://picsum.photos/400/300?random=4546'
 author: 开源中国
 comments: false
 date: Wed, 27 Oct 2021 07:18:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3230'
+thumbnail: 'https://picsum.photos/400/300?random=4546'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Spring Cloud 2021.0.0-M3 已发布，代号"Jubilee"，可从<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Frepo.spring.io%2Fmilestone%2F" target="_blank"> Spring Milestone </a>仓库获取新版本，相关 issue 和 PR 信息查看其<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-cloud%2Fwiki%2FSpring-Cloud-2021-Release-Notes" target="_blank"> GitHub 项目页面</a>。另外，此版本与 Spring Boot 2.6.0-M3 兼容。</p> 
+                                                                                            <p>Spring Cloud 2021.0.0-M3 已发布，代号"Jubilee"，可从<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Frepo.spring.io%2Fmilestone%2F" target="_blank"> Spring Milestone </a>仓库获取新版本，相关 issue 和 PR 信息查看其<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-cloud%2Fwiki%2FSpring-Cloud-2021-Release-Notes" target="_blank"> GitHub 项目页面</a>。另外，此版本与 Spring Boot 2.6.0-M3 兼容。</p> 
 <h3 style="text-align:start">Spring Cloud Gateway</h3> 
 <ul> 
  <li>初步支持 gRPC<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fspring-cloud%2Fspring-cloud-gateway%2Fpull%2F2388" target="_blank">#2388</a></li> 

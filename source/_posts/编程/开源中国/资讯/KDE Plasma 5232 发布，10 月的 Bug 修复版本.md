@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-905a88d8a7ed3dd19670fcaebf43885
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>KDE Plasma 5.23.2 现已发布，该版本是 KDE Plasma 5 的错误修复更新，包含许多功能改进和新模块以完善桌面体验。</p> 
+                                                                                            <p>KDE Plasma 5.23.2 现已发布，该版本是 KDE Plasma 5 的错误修复更新，包含许多功能改进和新模块以完善桌面体验。</p> 
 <p><img alt height="784" src="https://oscimg.oschina.net/oscnet/up-905a88d8a7ed3dd19670fcaebf43885bcbc.png" width="1588" referrerpolicy="no-referrer"></p> 
 <h4>KScreen</h4> 
 <ul> 

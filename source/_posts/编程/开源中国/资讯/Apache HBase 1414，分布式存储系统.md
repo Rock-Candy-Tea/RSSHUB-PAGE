@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4144'
+headimg: 'https://picsum.photos/400/300?random=1072'
 author: 开源中国
 comments: false
 date: Wed, 27 Oct 2021 07:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4144'
+thumbnail: 'https://picsum.photos/400/300?random=1072'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Apache HBase 1.4.14 已经发布。HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Apache HBase 1.4.14 已经发布。HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。</span></p> 
 <p><strong><span style="background-color:#ffffff; color:#333333">主要更新内容</span></strong></p> 
 <ul> 
  <li>Bug 

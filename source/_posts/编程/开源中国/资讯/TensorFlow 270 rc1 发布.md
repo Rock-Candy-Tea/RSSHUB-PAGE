@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1506'
+headimg: 'https://picsum.photos/400/300?random=1579'
 author: 开源中国
 comments: false
 date: Wed, 27 Oct 2021 07:23:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1506'
+thumbnail: 'https://picsum.photos/400/300?random=1579'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>TensorFlow 是一个用于机器学习的端到端开源平台。它有一个全面灵活的工具、库和社区资源所组成的生态，让开发人员轻松建立和部署由 ML 驱动的应用程序。</p> 
+                                                                                            <p>TensorFlow 是一个用于机器学习的端到端开源平台。它有一个全面灵活的工具、库和社区资源所组成的生态，让开发人员轻松建立和部署由 ML 驱动的应用程序。</p> 
 <p>TensorFlow 最初用于进行机器学习和深度神经网络研究。但该系统具有足够的通用性，也适用于其他广泛的领域。</p> 
 <h3>主要变化</h3> 
 <ul> 

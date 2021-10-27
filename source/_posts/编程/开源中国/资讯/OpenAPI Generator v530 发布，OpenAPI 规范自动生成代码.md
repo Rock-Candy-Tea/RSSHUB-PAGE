@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1129'
+headimg: 'https://picsum.photos/400/300?random=7527'
 author: 开源中国
 comments: false
-date: Tue, 26 Oct 2021 23:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1129'
+date: Wed, 27 Oct 2021 07:28:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7527'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">OpenAPI Generator v5.3.0 发布了！OpenAPI Generator 可用于在给定 OpenAPI 规范（v2, v3）的情况下自动生成 API 客户端库、server stubs、文档以及配置。</span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">OpenAPI Generator v5.3.0 发布了！OpenAPI Generator 可用于在给定 OpenAPI 规范（v2, v3）的情况下自动生成 API 客户端库、server stubs、文档以及配置。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">5.3.0 版本包含大量的 bug 修复、功能增强，以​​及<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FOpenAPITools%2Fopenapi-generator%2Fpulls%3Fq%3Dis%253Amerged%2Bis%253Apr%2Bmilestone%253A5.3.0%2Blabel%253A%2522Breaking%2Bchange%2B%2528with%2Bfallback%2529%2522" target="_blank">重大更改（带有回退）</a>。主要更新内容如下：</p> 
 <h2 style="margin-left:.6em; margin-right:0; text-align:start">通用更新</h2> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">加入<span> </span><span style="color:#24292f">snake case lambda。<span> </span></span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FOpenAPITools%2Fopenapi-generator%2Fpull%2F10658" target="_blank"><u>#10658</u></a></p> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3750'
+headimg: 'https://picsum.photos/400/300?random=3079'
 author: 开源中国
 comments: false
-date: Tue, 26 Oct 2021 23:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3750'
+date: Wed, 27 Oct 2021 07:36:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3079'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>近日微软发布了 Microsoft Edge 95，作为其常规四周更新周期的一部分。更新内容包括：</p> 
+                                                                                            <p>近日微软发布了 Microsoft Edge 95，作为其常规四周更新周期的一部分。更新内容包括：</p> 
 <h3>功能更新</h3> 
 <ul> 
  <li>下载体验的改进：对下载的支持扩展到 PWA 和 WebView。</li> 
