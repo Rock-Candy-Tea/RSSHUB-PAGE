@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-7e9bea664e25e8beaf60db14ec474839_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=379'
 author: 知乎
 comments: false
-date: Wed, 27 Oct 2021 07:21:16 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-7e9bea664e25e8beaf60db14ec474839_1440w.jpg'
+date: Wed, 27 Oct 2021 09:07:36 GMT
+thumbnail: 'https://picsum.photos/400/300?random=379'
 ---
 
 <div>   
-庙祝lord的回答<br><br><p>高端化，其实说白了，也就是差异化。</p><p>谁能做到品牌差异化，有自己的独门内功，哪个品牌成为高端品牌，也就八九不离十了。</p><p>请几个明星大腕儿代言，把手机卖到6000块钱以上，不能称之为高端手机。</p><p>荣耀，vivo，oppo，小米，这四家公司，截止到现在为止，我看不到一个。</p><p>2020年，中国企业研发投入前十名的，</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-7e9bea664e25e8beaf60db14ec474839_1440w.jpg" data-rawwidth="544" data-rawheight="583" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-21fbe9c6174828ef958e8b11f6af14ea_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-7e9bea664e25e8beaf60db14ec474839_r.jpg" referrerpolicy="no-referrer"></figure><p>华为仍然是遥遥领先。</p><p>一方面除了研发投入，比研发投入更加重要的是研发方向。</p><p>如果研发方向是手机的外观，ui的设计，像锤子手机那样，那就没啥意义了。</p><p>有消息声称，华为明年将获得5G射频芯片，一旦华为重新开卖5G手机，这四大品牌高端之路，又将困难重重。</p><p></p>  
+帅天下的回答<br><br><p>手机早就从拼硬件，到了拼体验的时代。</p><p>高端旗舰拼的是什么？是手机软硬件的优化配合，带来极致的人机交互体验。</p><p>这需要定位高端的手机品牌能够对其使用的软硬件拥有高度的自主控制权，来针对用户的需求，优化定制一款具有品牌特点，并能实现极致人机交互体验的手机，其中的关键核心就是系统和芯片。</p><p>你说你芯片不能自己设计生产，性能、功耗、发热控制都是高通说了算，系统只能在开源的谷歌上做一些修改，用户软件的底层逻辑依然匹配的是安卓，不受你控制，软件的纯净体验是空谈，其它配件例如屏幕和摄像头系统，三星和索尼生产什么，你就得用什么，他们会无条件为你定制么？目前能让他们无条件配合定制的只有美帝的亲儿子苹果。</p><p>这样一来，极致的人机交互体验不也是空谈么？你还怎么高端？要高端还得自研啊，系统我们有鸿蒙了，芯片华为是完全能设计的，就差5nm的光刻机制造芯片了，这还需要时间，哪怕赶上7nm我也能接受。</p><p>在后华为时代，国产品牌里，个人觉得vivo在手机外观设计，硬件，制造工艺上的打磨还是下了功夫的。</p><p>今年的国产顶级高端旗舰，当属vivo X70 Pro+</p><p>vivo X70 Pro+ 采用了骁龙888Plus芯片，并拥有一块6.87寸的120Hz高刷新率、300Hz高采样率以及2K分辨率的E5超感自由屏，配备了12GB起的大运存。</p><p>重点是其摄像头系统，拥有全四摄光学防抖的蔡司光学认证镜头，5000万像素的超大底主摄， 4800万像素的微云台超广角主摄，1200万像素的专业人像主摄，800万像素的潜望式长焦镜头+专业摄影的V1芯片，在拍照摄像上做了极致。</p><p></p>  
 </div>
             
