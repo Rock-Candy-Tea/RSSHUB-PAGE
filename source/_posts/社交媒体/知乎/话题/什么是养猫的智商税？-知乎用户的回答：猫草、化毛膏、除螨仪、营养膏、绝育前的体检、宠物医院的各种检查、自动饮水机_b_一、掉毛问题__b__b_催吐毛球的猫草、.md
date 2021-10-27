@@ -1,0 +1,18 @@
+
+---
+title: '什么是养猫的智商税？-知乎用户的回答：猫草、化毛膏、除螨仪、营养膏、绝育前的体检、宠物医院的各种检查、自动饮水机_b_一、掉毛问题__b__b_催吐毛球的猫草、...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/50/v2-7fa523fb88de9ea03b3d875df9013ea0_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Wed, 27 Oct 2021 11:56:43 GMT
+thumbnail: 'https://pic1.zhimg.com/50/v2-7fa523fb88de9ea03b3d875df9013ea0_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>什么是养猫的智商税？</strong><br>知乎用户的回答<br><p>猫草、化毛膏、除螨仪、营养膏、绝育前的体检、宠物医院的各种检查、自动饮水机</p><p><b>一、掉毛问题</b></p><p><b>催吐毛球的猫草、能化肚子里毛的化毛膏</b>：种草就行，什么草？麦子，5块钱能买一大包！千万不要被那种9.9一杯的猫草杯骗钱了，不值（反正里面也是几粒大麦or小麦种子，为啥不直接买种子水培呢）。这个大麦种子种了自己也可以吃，榨汁喝，很健康</p><p><b>掉毛</b>这件事，还有2件东西必须要：梳子-从源头做起，粘毛器-抢救无效，心理舒服点</p><p>用这种细齿的！我买梳子踩坑了，之前那种稀疏的大齿，一点用也没用！后来我看宠物店用的都是这种又细又密集的梳子，我买的应该是仿的某大牌的平替版本</p><p>平替版本还有一个叫做船记，也是铲屎官中比较收到好评的   </p><p>为此，我买了除螨仪（除螨不除螨我无所谓，我用来吸毛），看了小某 的横向测评，觉得买个便宜的得了</p><p>除螨仪只能吸灰尘，毛还是会粘在床单和被罩上，得用吸毛器，也是一种消耗品，家里经常囤的比较多</p><p><br></p><p><b>二、看病问题</b></p><p><b>小钱花起来如毛毛毛雨，大钱花起来视金钱如粪土，治病就是一个大头。主要是在该省的地方要省钱！不白花！</b></p><p>我家雪糕是捡回来的，刚一个多月，捡回来第二天抱去医院体检，开了<b>眼药水药膏和洗泪痕液</b>，一下花320。拿到药，我在网上搜同款，医院赚了我一半啊！还是网上就能买到，治眼睛通用的药！</p><p>买这种小瓶装的朋友们！大瓶的根本用不用，而且眼药水这种东西开封后就开始保质期倒计时了，我很怀疑它的有效性，虽然我还是一直都在用着。用之前把瓶口的先挤出来不用，防止瓶口污染物混入</p><p>眼药水就是消炎的，还是我之前也用过的那种，建议囤一只<b>红霉素眼膏</b>就够了。</p><p>家中还可以常备一些猫咪的止泻药、止吐药、益生菌、眼药水、消炎药</p><figure data-size="normal"><img src="https://pic1.zhimg.com/50/v2-7fa523fb88de9ea03b3d875df9013ea0_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="960" data-size="normal" data-caption data-default-watermark-src="https://pica.zhimg.com/50/v2-bcc37677275fab6fe0fbe63970a24efd_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-7fa523fb88de9ea03b3d875df9013ea0_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-7fa523fb88de9ea03b3d875df9013ea0_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>营养膏or化毛膏的妙用在这里，除此之外我觉得没啥作用</p><p>驱虫，去宠物医院就大可不必，可以买药(内外用的都有)。一般出名的有大宠爱</p><p><b>绝育</b>，手术前医院会劝你做一个体检，查一下什么指数，我觉得<b>健康的猫咪</b>大可不必</p><p><b>打疫苗</b>，你绝对想不到我会在这里省钱，猫三联我打了两针，都没去医院，找的认识的朋友（宠物医生）买药直接注射的，花了60块钱。狂犬疫苗倒是去医院打的，但也可以省略，猫平时不接触外界动物，也不必打狂犬</p><p><b>三、睡觉和保暖</b></p><p>猫窝，可以但不是必要，又可以省一笔，我把我自己垫屁股的坐垫拿来给它做猫窝，它也接受</p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-dda0a7f92680e58f01d8b8a7d2630dcc_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="960" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-73a38902827439260bb9ef6112071b86_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-dda0a7f92680e58f01d8b8a7d2630dcc_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-dda0a7f92680e58f01d8b8a7d2630dcc_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><p>但是有一说一，猫窝真香。南方的猫可以来一个。雪糕刚开始怎么都不进去，可能是害怕，后来就成了它的乐巢。我买的是狗窝猫窝通用的，大号，去年双十一京东有那个宠物狂欢，每天零点抢，我这个猫窝就是1块钱抢到的，香啊～～</p><figure data-size="normal"><img src="https://pica.zhimg.com/50/v2-2e40692518668f55429ec686a914fb3e_720w.jpg?source=54b3c3a5" data-rawwidth="720" data-rawheight="960" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/50/v2-cebcd204561d7e9f1ff762acc7f15df0_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-2e40692518668f55429ec686a914fb3e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pica.zhimg.com/50/v2-2e40692518668f55429ec686a914fb3e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><b>四、饮水机</b> 不用说 实打实的智商税</p><p>我家猫爱喝新鲜的水，尤其是我杯子里的</p>  
+</div>
+            

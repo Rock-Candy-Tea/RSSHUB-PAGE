@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg'
+headimg: 'https://pic4.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg'
 author: 知乎
 comments: false
 date: Wed, 27 Oct 2021 08:14:03 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg'
+thumbnail: 'https://pic4.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg'
 ---
 
 <div>   
-叹离暖的回答<br><br><p>为什么？说几句大家伙可能不爱听的话。</p><p>lck赛区，从s8被叫第三赛区，优秀选手大量流向lpl，再到现在s10冠军，s11四强17个韩国人，只用了短短两三年时间。</p><p>从SKT，三星，再到DWG，lck赛区教会了我们一个道理：那就是所谓电竞，真的不是只靠资本能解决的。</p><p>你买光了他们优秀的选手，他们不知道什么时候又冒出一个网吧队把你杀得服服帖帖，就像s10一样。</p><p>就像李哥在s6写下《不死者》中说到的“如果有人想成为第二个faker，我会努力做到最好”，再到s10总决赛的前许秀说的“重铸lck荣光，吾辈义不容辞”，这叫什么？这叫——传承。</p><p>lck一代又一代的选手，在他们身上我看到的更多是纯粹的电竞精神，就是两个字——纯粹；</p><p>没有什么约炮、草粉、卖饼、做网红、嫖娼、打假赛。能行就上，不行就滚。我是来看比赛的，不是来看饭圈表演的。</p><p>李哥三冠王打得不好照样去替补，许秀msi被鬼皇坑出屎来，从头到尾没说过一句队友的不是。你比这些人，输的是仅仅水平吗？我觉得不是。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg" data-rawwidth="700" data-rawheight="392" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-bf0525aa502b9e7c34f5477939eab430_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+叹离暖的回答<br><br><p>为什么？说几句大家伙可能不爱听的话。</p><p>lck赛区，从s8被叫第三赛区，优秀选手大量流向lpl，再到现在s10冠军，s11四强17个韩国人，只用了短短两三年时间。</p><p>从SKT，三星，再到DWG，lck赛区教会了我们一个道理：那就是所谓电竞，真的不是只靠资本能解决的。</p><p>你买光了他们优秀的选手，他们不知道什么时候又冒出一个网吧队把你杀得服服帖帖，就像s10一样。</p><p>就像李哥在s6写下《不死者》中说到的“如果有人想成为第二个faker，我会努力做到最好”，再到s10总决赛的前许秀说的“重铸lck荣光，吾辈义不容辞”，这叫什么？这叫——传承。</p><p>lck一代又一代的选手，在他们身上我看到的更多是纯粹的电竞精神，就是两个字——纯粹；</p><p>没有什么约炮、草粉、卖饼、做网红、嫖娼、打假赛。能行就上，不行就滚。我是来看比赛的，不是来看饭圈表演的。</p><p>李哥三冠王打得不好照样去替补，许秀msi被鬼皇坑出屎来，从头到尾没说过一句队友的不是。你比这些人，输的是仅仅水平吗？我觉得不是。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_1440w.jpg" data-rawwidth="700" data-rawheight="392" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-bf0525aa502b9e7c34f5477939eab430_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ed754ef4c849c51ffde63eb305e6b36c_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

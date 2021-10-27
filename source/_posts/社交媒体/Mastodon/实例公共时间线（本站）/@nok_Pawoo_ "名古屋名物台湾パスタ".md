@@ -1,0 +1,20 @@
+
+---
+title: '@nok_Pawoo_ "
+名古屋名物台湾パスタ
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/039/759/211/original/ec3ec8579b863906.jpg'
+author: Mastodon
+comments: false
+date: Wed, 27 Oct 2021 12:12:13 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/759/211/original/ec3ec8579b863906.jpg'
+---
+
+<div>   
+<hr><p>名古屋名物台湾パスタ</p><br><img src="https://img.pawoo.net/media_attachments/files/039/759/211/original/ec3ec8579b863906.jpg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
