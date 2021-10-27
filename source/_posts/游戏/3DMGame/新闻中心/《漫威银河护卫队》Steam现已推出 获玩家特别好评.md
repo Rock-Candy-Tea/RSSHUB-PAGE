@@ -63,6 +63,12 @@ MTC上日前收录了74家媒体评分，当前平均分81分。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211027/1635299473_214214.jpg" alt="《漫威银河护卫队》Steam现已推出 获玩家特别好评" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211027/1635301942_893150.jpg" alt="《漫威银河护卫队》Steam现已推出 获玩家特别好评" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211027/1635301948_693156.jpg" alt="《漫威银河护卫队》Steam现已推出 获玩家特别好评" referrerpolicy="no-referrer">
 </p>          
 </div>
             
