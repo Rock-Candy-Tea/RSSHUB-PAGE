@@ -8,13 +8,12 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/10/27/1025343133.jpeg'
 author: 二柄 APP
 comments: false
-date: 2021-10-27 04:09:24
+date: 2021-10-27 05:06:47
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/10/27/1025343133.jpeg'
 ---
 
 <div>   
 【最新STEAM商店折扣/新发售提醒】Steam商店部分热门游戏开启折扣，其中以下游戏值得关注：
-《双人成行》原价198元，折后价148元，平史低
 《命运2: 传说收藏版》原价305元，折后价152元，新史低
 《猎杀：对决》原价149元，折后价74元，接近史低
 冒险游戏《公鸡神探》原价70元，折后价42元，新史低
