@@ -1,0 +1,25 @@
+
+---
+title: '@fuyuki999_ "
+
+#NowPlaying
+ Bridge Over Troubled Water - Simon & Garfunkel (The Definitive Simon & Garfunkel) 
+ 
+#NowPlaying4Droid
+
+"'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/039/751/923/original/68920d981717635f.png'
+author: Mastodon
+comments: false
+date: Wed, 27 Oct 2021 03:51:44 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/751/923/original/68920d981717635f.png'
+---
+
+<div>   
+<hr><p><a href="https://pawoo.net/tags/NowPlaying" class="mention hashtag" rel="tag">#NowPlaying</a> Bridge Over Troubled Water - Simon & Garfunkel (The Definitive Simon & Garfunkel) <br> <a href="https://pawoo.net/tags/NowPlaying4Droid" class="mention hashtag" rel="tag">#NowPlaying4Droid</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/751/923/original/68920d981717635f.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
