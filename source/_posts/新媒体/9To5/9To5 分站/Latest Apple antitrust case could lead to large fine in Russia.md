@@ -14,12 +14,12 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Lat
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Latest-Apple-antitrust-case-in-Russia.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>The latest Apple <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> case could see the company face an unspecified fine in Russia. It follows the company failing to meet a September deadline for allowing app developers to tell customers about alternative payment options.</p>
+<p>The latest Apple <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> case could see the company face an unspecified fine in Russia. This follows the company failing to meet a September deadline for allowing app developers to tell customers about alternative payment options.</p>
 <p>While the potential size of the fine is not specified, the wording implies that it could be significant … </p>
 <p><span id="more-764644"></span>
 </p>
 <h2 id="h-background">Background</h2>
-<p><a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> has faced a large number of antitrust investigations and lawsuits around the world over its monopoly position in the sale of <a href="https://9to5mac.com/guides/app-store/" target="_blank" rel="noreferrer noopener">iOS apps</a> and in-app payments. You can read more this disputed monopoly status in <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">our antitrust guide</a>.</p>
+<p><a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a> has faced a large number of antitrust investigations and lawsuits around the world over its monopoly position in the sale of <a href="https://9to5mac.com/guides/app-store/" target="_blank" rel="noreferrer noopener">iOS apps</a> and in-app payments. You can read more about this disputed monopoly status in <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">our antitrust guide</a>.</p>
 <p>One specific bone of contention has been the anti-steering rules Apple applied. These stated that developers were not allowed to tell app users about alternative means of payment for in-app purchases, which enabled Apple to take its cut of all this revenue.</p>
 <p>The Cupertino company did <a href="https://9to5mac.com/2021/08/26/apple-small-business-app-store-changes/" target="_blank" rel="noreferrer noopener">agree to change these rules</a> back in August, but has done so in <a href="https://9to5mac.com/2021/08/27/apples-app-store-changes/" target="_blank" rel="noreferrer noopener">an extremely limited way</a> which fails to satisfy all regulators and developers.</p>
 <blockquote class="wp-block-quote">
