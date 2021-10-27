@@ -1,0 +1,36 @@
+
+---
+title: 'INDIE Live Expo Winter 2021参演嘉宾信息公布，目黑将司带来全新配乐'
+categories: 
+ - 新媒体
+ - 机核网
+ - 分类
+headimg: 'https://image.gcores.com/9203e87c-187c-437a-a090-1cd387fdeb94.jpg'
+author: 机核网
+comments: false
+date: 2021-10-27 10:08:23
+thumbnail: 'https://image.gcores.com/9203e87c-187c-437a-a090-1cd387fdeb94.jpg'
+---
+
+<div>   
+<img src="https://image.gcores.com/9203e87c-187c-437a-a090-1cd387fdeb94.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-7vp9i" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="7vp9i" data-offset-key="fdskt-0-0"><div data-offset-key="fdskt-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fdskt-0-0"><span data-text="true">INDIE Live Expo 是日本国内最大规模的独立游戏盛典，以日中英语三语进行直播。作为备受全球独立游戏玩家关注的直播节目，主办方于今日宣布计划于2021年11月6日直播的 INDIE Live Expo Winter 2021 详情。</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/a566cde3-04d4-4b02-b7a9-781eebe8099d.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="7vp9i" data-offset-key="862i3-0-0"><div data-offset-key="862i3-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="862i3-0-0"><span data-text="true">据悉，独立游戏制作人兼作曲家的目黑将司也确定将为INDIE Live Expo提供全新的原创曲目，更是将参加11月6日当日的直播。目黑将司曾长期在游戏公司 Atlus 工作，包括《真女神转生》系列、《女神异闻录》系列以及《魔剑X》等作品都由其进行作曲。除了目黑将司之外，嘉宾阵容也是相当豪华，详情如下：</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/58e69b69-c66b-4d25-9dd7-ce07d6c8ce3a.png" alt referrerpolicy="no-referrer">
+
+</figure><h1 class="story_block" data-block="true" data-editor="7vp9i" data-offset-key="b4rsl-0-0"><div id="nopop_b4rsl"><div data-offset-key="b4rsl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="b4rsl-0-0"><span data-text="true">主持嘉宾</span></span></div></div></h1><ul class="public-DraftStyleDefault-ul" data-offset-key="dcvru-0-0"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="dcvru-0-0"><div data-offset-key="dcvru-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dcvru-0-0" style="font-weight:bold"><span data-text="true">日语版</span></span><span data-offset-key="dcvru-0-1"><span data-text="true">：松泽千晶、古嶋誉幸（INDIE Live Expo 特报员）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="8qsvh-0-0"><div data-offset-key="8qsvh-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8qsvh-0-0" style="font-weight:bold"><span data-text="true">英语版</span></span><span data-offset-key="8qsvh-0-1"><span data-text="true">：J-mon、Atsugiri Jason、堀内华央里</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="9rgfd-0-0"><div data-offset-key="9rgfd-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9rgfd-0-0" style="font-weight:bold"><span data-text="true">中文版</span></span><span data-offset-key="9rgfd-0-1"><span data-text="true">：刘婧荦、犬次郎</span></span></div></li></ul><h1 class="story_block" data-block="true" data-editor="7vp9i" data-offset-key="dg0r9-0-0"><div id="nopop_dg0r9"><div data-offset-key="dg0r9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dg0r9-0-0"><span data-text="true">环节嘉宾</span></span></div></div></h1><ul class="public-DraftStyleDefault-ul" data-offset-key="8vhib-0-0"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="8vhib-0-0"><div data-offset-key="8vhib-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8vhib-0-0"><span data-text="true">INDIE Waves：吉田尚记（Nippon放送主播）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="9v4j1-0-0"><div data-offset-key="9v4j1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9v4j1-0-0"><span data-text="true">世界独立游戏工作室：徳冈正肇</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR" data-block="true" data-editor="7vp9i" data-offset-key="a4b19-0-0"><div data-offset-key="a4b19-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="a4b19-0-0"><span data-text="true">Live Performance：Dainashi、Shamio、KiRiKo</span></span></div></li></ul><h1 class="story_block" data-block="true" data-editor="7vp9i" data-offset-key="4inlg-0-0"><div id="nopop_4inlg"><div data-offset-key="4inlg-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4inlg-0-0"><span data-text="true">特邀嘉宾</span></span></div></div></h1><div class="story_block story_block-text " data-block="true" data-editor="7vp9i" data-offset-key="fe94u-0-0"><div data-offset-key="fe94u-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fe94u-0-0"><span data-text="true">目黑将司</span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/7e62b870-bfa3-4ba4-8635-557789fb11e1.jpg" alt referrerpolicy="no-referrer">
+<figcaption> (1/2) </figcaption>
+</figure>
+            
+<figure>
+<img src="https://image.gcores.com/00772c5c-39db-4ca0-928a-902893307167.png" alt referrerpolicy="no-referrer">
+<figcaption> (2/2) </figcaption>
+</figure>
+            <div class="story_block story_block-text " data-block="true" data-editor="7vp9i" data-offset-key="33kpr-0-0"><div data-offset-key="33kpr-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="33kpr-0-0"><span data-text="true">主办方表示，各位豪华嘉宾将一同与大家分享独立游戏的魅力。这次计划将介绍超过500款独立游戏。除了介绍各类情报之外，INDIE Live Expo Awards 将与全世界的独立游戏玩家一同选出值得表彰的游戏独立游戏，</span></span><a class="md-link" href="https://indie.live-expo.games/cn/awards/" rel="noopener noreferrer" target="_blank" aria-label="https://indie.live-expo.games/cn/awards/"><span data-offset-key="33kpr-1-0"><span data-text="true">点此可进入投票</span></span></a><span data-offset-key="33kpr-2-0"><span data-text="true">。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</div>
+            

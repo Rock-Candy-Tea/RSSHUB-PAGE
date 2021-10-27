@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=379'
+headimg: 'https://pic4.zhimg.com/v2-a732b2bc01c6a84943afff9424141efa_1440w.jpg'
 author: 知乎
 comments: false
-date: Wed, 27 Oct 2021 09:07:36 GMT
-thumbnail: 'https://picsum.photos/400/300?random=379'
+date: Wed, 27 Oct 2021 09:47:29 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-a732b2bc01c6a84943afff9424141efa_1440w.jpg'
 ---
 
 <div>   
-帅天下的回答<br><br><p>手机早就从拼硬件，到了拼体验的时代。</p><p>高端旗舰拼的是什么？是手机软硬件的优化配合，带来极致的人机交互体验。</p><p>这需要定位高端的手机品牌能够对其使用的软硬件拥有高度的自主控制权，来针对用户的需求，优化定制一款具有品牌特点，并能实现极致人机交互体验的手机，其中的关键核心就是系统和芯片。</p><p>你说你芯片不能自己设计生产，性能、功耗、发热控制都是高通说了算，系统只能在开源的谷歌上做一些修改，用户软件的底层逻辑依然匹配的是安卓，不受你控制，软件的纯净体验是空谈，其它配件例如屏幕和摄像头系统，三星和索尼生产什么，你就得用什么，他们会无条件为你定制么？目前能让他们无条件配合定制的只有美帝的亲儿子苹果。</p><p>这样一来，极致的人机交互体验不也是空谈么？你还怎么高端？要高端还得自研啊，系统我们有鸿蒙了，芯片华为是完全能设计的，就差5nm的光刻机制造芯片了，这还需要时间，哪怕赶上7nm我也能接受。</p><p>在后华为时代，国产品牌里，个人觉得vivo在手机外观设计，硬件，制造工艺上的打磨还是下了功夫的。</p><p>今年的国产顶级高端旗舰，当属vivo X70 Pro+</p><p>vivo X70 Pro+ 采用了骁龙888Plus芯片，并拥有一块6.87寸的120Hz高刷新率、300Hz高采样率以及2K分辨率的E5超感自由屏，配备了12GB起的大运存。</p><p>重点是其摄像头系统，拥有全四摄光学防抖的蔡司光学认证镜头，5000万像素的超大底主摄， 4800万像素的微云台超广角主摄，1200万像素的专业人像主摄，800万像素的潜望式长焦镜头+专业摄影的V1芯片，在拍照摄像上做了极致。</p><p></p>  
+喵教授的回答<br><br><p>我个人还是觉得最有戏的是应该是华为，接着是华为弟弟荣耀。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a732b2bc01c6a84943afff9424141efa_1440w.jpg" data-rawwidth="2340" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-f66b61087cef07ad2d2a4f973cea529c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a732b2bc01c6a84943afff9424141efa_r.jpg" referrerpolicy="no-referrer"></figure><p>要扛起来高产高端的大旗，说白了还是要有客户基础。</p><p>没有客户，万事免谈。</p><p>在某种意义上说，4500起的安卓高配，差距能有多大呢？</p><p>骁龙888，快充，三星屏幕，亿万像素都马上趋同标配了。</p><p>小米MIX4用的全一体陶瓷  但是价格跳水以后  就。。。</p><p>可能内核、系统或者是手机的设计上，大家还是存在分歧。</p><p>至于说那家最好，看某东九月份的销量榜。</p><p>即使是卖的最好的华为，销售量离iPhone 12的差距也非常大。</p><p>一款安卓机皇要孵化，难啊。保值  设计好  打开客户基础，比什么都重要。</p><p>而且真正高精尖的东西，部分也是在堆料。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9aadd869a7f1827d1723168751db091b_1440w.jpg" data-rawwidth="640" data-rawheight="974" data-size="normal" data-caption data-default-watermark-src="https://pic3.zhimg.com/v2-06478c83779f45f4665c78326687b09a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9aadd869a7f1827d1723168751db091b_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-f4d0f16824aceffe49a10a6f6409c91b_1440w.jpg" data-rawwidth="650" data-rawheight="863" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-615c26090d2eba7c7c15a0e5c3b5de05_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-f4d0f16824aceffe49a10a6f6409c91b_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
