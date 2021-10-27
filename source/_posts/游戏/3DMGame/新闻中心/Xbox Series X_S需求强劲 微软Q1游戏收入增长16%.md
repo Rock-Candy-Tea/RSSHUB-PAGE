@@ -15,7 +15,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211027/1635293950_5081
 <div>   
 <p style="text-indent:2em;">
 美国时间周二，微软发布了截止到2021年9月30日的第一季度财报，由于Xbox Series 
-X/S需求强劲，微软该季度游戏收入相比去年同期增长了16%。
+X/S需求强劲，微软该季度游戏收入（36亿美元）相比去年同期增长了16%。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211027/1635293950_508189.jpg" alt="Xbox Series X/S需求强劲 微软Q1游戏收入增长16%" referrerpolicy="no-referrer"> 
@@ -41,6 +41,9 @@ Game Pass订阅服务游玩，XGP将继续提供最有价值的游戏。”
 </p>
 <p style="text-indent:2em;">
 Hood还说，她预计“主机销售将继续受到供应链不确定性的影响”。
+</p>
+<p style="text-indent:2em;">
+<span>微软Q1总收入453</span><span>亿美元，营运收入202亿美元</span><span>，增长</span><span>27%。</span>
 </p>          
 </div>
             
