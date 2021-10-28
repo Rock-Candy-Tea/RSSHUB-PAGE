@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=4976'
+headimg: 'https://picsum.photos/400/300?random=4573'
 author: PMCAFF
 comments: false
 date: Tue, 26 Oct 2021 16:00:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4976'
+thumbnail: 'https://picsum.photos/400/300?random=4573'
 ---
 
 <div>   
-同类消息的合并规则是什么？举个例子：用户发布内容收到点赞通知，有时是独立一条，XXX赞了你的内容；有时是合并的，XXX、XX等几人赞了你的内容。请问合并规则是什么？如何考量的。  
+！！！请不要再描述什么“赞、收藏会合并，评论不会合并”，这种现象谁都看的到。我问的是合并之间的规则，真诚求助，不会的朋友就别勉强自己了。——————类似收到点赞这类与用户强相关的互动，一般会有即时通知  
 </div>
             
