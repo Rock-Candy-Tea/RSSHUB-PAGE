@@ -1,0 +1,18 @@
+
+---
+title: '在P站上认真教微积分的数学老师，已经火到国外了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617a17538e9f090d377491a7_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 27 Oct 2021 21:07:55 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617a17538e9f090d377491a7_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/617a17538e9f090d377491a7_1024.jpg" data-height="573" data-width="843" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617a17538e9f090d377491a7_1024.jpg" referrerpolicy="no-referrer"></div></div>表演效果拔群。<p></p><p>想必广大绅士们没有对 Pornhub 视频播放页面不熟悉的——处处充斥暴露挑逗的动态小广告，用各种方式争夺观众的眼球的缩略图和标题……在你犹豫到底该看什么的时候，黄黑相间的标志亮起，一如在电影院的大荧幕上看到漫威的片头，瞬间让人血脉贲张。</p><p>而最近，有人在这样视觉效果爆炸的视频页面中讲起微积分，然后凭借这过于清新脱俗的风格，从 P 站美好肉体的疯狂内卷中杀出重围，甚至成功引起了外语媒体和网友们的瞩目，一波爆红。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/617a17538e9f090d377491a8_1024.jpg" data-height="910" data-width="894" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617a17538e9f090d377491a8_1024.jpg" referrerpolicy="no-referrer"></div></div>画面中这位神色清冷、站在单调的黑板前用中文娓娓道来的数学老师名为张旭。在 P 站上，这位来自中国台湾的教师已经在自己 "changhsumath666" 的频道里上传了数百个他本人教授微积分课程的视频。<p></p><p>视频以几分钟到几十分钟不等，内容无一例外都是微积分课程。由于裹得过于严实，加上和同平台绝大部分内容形成鲜明对比，张旭的数学课程在这里显得尤为突出。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/617a17538e9f090d377491a9_1024.jpg" data-height="627" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617a17538e9f090d377491a9_1024.jpg" referrerpolicy="no-referrer"></div></div>颇有一种和尚在兰若寺念经的既视感<p></p><p>实际上，张旭本人算是一位拥有数学硕士学位的 " 正经人 "（没有说他不逛 P 站的意思）。Pornhub 并不是张旭唯一上传授课视频的平台，去年疫情他开放了自己的补习课网站，在 Youtube 上你也可以看到他的教授内容，而在那里的评论区，你很容易发现网友们都挺尊敬这位老师，普遍认为其内容 " 很有用处 "。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/617a17538e9f090d377491aa_1024.jpg" data-height="189" data-width="611" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617a17538e9f090d377491aa_1024.jpg" referrerpolicy="no-referrer"></div></div>在张旭的 P 站频道火了之后，这位数学老师受到了很多媒体的采访。他表示，自己在去年萌生了在 P 站上传微积分视频的想法，P 站虽然有大量点击率不低的非成人内容，此前也有过国内一些考研课程视频被上传后爆火的现象，但在这里系统性地讲解微积分实在是太罕见了，张旭的想法比较简单 " 只要我把视频上传到这里，就会有更多人看到 "。<p></p><p>他本人其实并非不清楚，即便自己突然因此爆红，自己也没有能力让 P 站的观众们从那些丰满的肉体中回头，扎进数学的海洋，他甚至觉得现在来他频道 " 参观 " 的人，绝大部分都是来取笑他的—— " 人们大概对我讲得东西并不感兴趣，但他们至少因此知道有个数学老师在成人平台上讲微积分 "。</p><p>张旭在这个行业也算颇有建树，他的线上项目一年能给他带来 25 万美元的收入，同时还雇佣了其他老师授课。就算在 P 站这个并非他 " 主攻 " 的平台，"changhsumath666" 频道依然在被媒体报道之前就拥有了过百万的浏览量。对他而言，以这种方式宣传自己的频道的确是个好办法。</p><p>不过张旭的努力也不算白费——在这里他确实能感化一些 " 浪子 "，在以往和内容一样劲爆的评论区里，有外国人已经对这些他们听不懂的课程心动了。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/617a17538e9f090d377491ab_1024.jpg" data-height="115" data-width="425" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617a17538e9f090d377491ab_1024.jpg" referrerpolicy="no-referrer"></div></div>" 我多希望自己懂中文啊，这些课程看起来真的不错 "<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
