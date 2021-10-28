@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202110/15/8764da/dc1c73d110ce49ee.png!home320'
 author: 一兜糖
 comments: false
-date: 2021-10-28 07:08:23
+date: 2021-10-28 08:09:31
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202110/15/8764da/dc1c73d110ce49ee.png!home320'
 ---
 
 <div>   
-申请结束时间：2021.10.24                        <br>【树可】EatWell福气搪瓷蒸锅<br>                            数量 ：5<br>                            实际价格 ：178元<br>                            名单确认中<br>                            322人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/15/8764da/dc1c73d110ce49ee.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.10.24                        <br>【树可】EatWell福气搪瓷蒸锅<br>                            数量 ：5<br>                            实际价格 ：178元<br>                            活动体验中<br>                            322人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/15/8764da/dc1c73d110ce49ee.png!home320" referrerpolicy="no-referrer">  
 </div>
             
