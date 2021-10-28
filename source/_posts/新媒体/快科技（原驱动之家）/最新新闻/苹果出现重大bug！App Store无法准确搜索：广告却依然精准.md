@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 快科技（原驱动之家）
  - 最新新闻
-headimg: 'https://img1.mydrivers.com/img/20211028/s_7225970d2a0243fb929380538eb95592.png'
+headimg: 'https://img1.mydrivers.com/img/20211028/s_62de7403b3a345f4b22e3d0fca188a16.png'
 author: 快科技（原驱动之家）
 comments: false
 date: Thu, 28 Oct 2021 12:45:05 GMT
-thumbnail: 'https://img1.mydrivers.com/img/20211028/s_7225970d2a0243fb929380538eb95592.png'
+thumbnail: 'https://img1.mydrivers.com/img/20211028/s_62de7403b3a345f4b22e3d0fca188a16.png'
 ---
 
 <div>   
@@ -22,7 +22,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20211028/s_7225970d2a0243fb929380538e
 <p>需要注意的是，这并不是App Store第一次出现类似的问题了。</p>
 <p>据公开报道，2012年、2016年等，App Store均出现了“无法精准匹配结果”等现象。其中，在2016年5月的事故中，关键词错误率高达95%。</p>
 <p><strong>截至发稿前，该bug仍未被修复，且苹果官方尚未作出任何回应。</strong></p>
-<p align="center"><a href="https://img1.mydrivers.com/img/20211028/7225970d2a0243fb929380538eb95592.png" target="_blank"><img alt="苹果出现重大bug！App Store无法准确搜索：广告却依然精准" h="1299" src="https://img1.mydrivers.com/img/20211028/s_7225970d2a0243fb929380538eb95592.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211028/62de7403b3a345f4b22e3d0fca188a16.png" target="_blank"><img alt="苹果出现重大bug！App Store无法准确搜索：广告却依然精准" h="1299" src="https://img1.mydrivers.com/img/20211028/s_62de7403b3a345f4b22e3d0fca188a16.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211028/20d5e55b11564ab28cafb16559bd5c28.png" target="_blank"><img alt="苹果出现重大bug！App Store无法准确搜索：广告却依然精准" h="1299" src="https://img1.mydrivers.com/img/20211028/s_20d5e55b11564ab28cafb16559bd5c28.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211028/02b8976bee2141dda95c4bac9bcaacc7.png" target="_blank"><img alt="苹果出现重大bug！App Store无法准确搜索：广告却依然精准" h="1299" src="https://img1.mydrivers.com/img/20211028/s_02b8976bee2141dda95c4bac9bcaacc7.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>

@@ -1,0 +1,19 @@
+
+---
+title: 'ESA卫星Proba-1在轨道上迎来20岁生日，目前仍在全面运行'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/10/2809ac5b2e25ead.gif'
+author: cnBeta
+comments: false
+date: Thu, 28 Oct 2021 05:53:32 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/10/2809ac5b2e25ead.gif'
+---
+
+<div>   
+20年前的10月22日，欧空局(ESA)的第一颗小卫星Proba-1（全称Project for On Board Autonomy）被发射，其目标只有一个--那就是在太空中证明技术。但在进入轨道后，这颗小卫星很快就证明其能力并不小。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/2809ac5b2e25ead.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/2809ac5b2e25ead.gif" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">今天，20年过去了，原本只打算存活两年的Proba-1现在仍作为一项地球观测任务在继续，它的遗产已经为下一个十年的发展提供了保障。</p><p style="text-align: left;">尺寸仅为60 x 60 x 80厘米的Proba-1自主地执行着先进的制导、导航和控制处理以及有效载荷资源管理。它的两个成像仪器--紧凑型高分辨率成像光谱仪(CHRIS)和全色高分辨率相机(HRC)--已经提供了1000多个地点的1000多张图像。这些图像对于监测一些环境问题至关重要，从评估纳米比亚大草原上不同的土地使用策略如何影响植被生长到纳米比亚中部大草原的植被类型或帮助绘制和了解瑞士国家公园的高山积雪覆盖。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/5bb5db2e58e1b3e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/5bb5db2e58e1b3e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这颗微型卫星由ESA的一般支持技术计划(GSTP)开发并由比利时Verhaert公司领导的一个工业联盟建造。</p><p style="text-align: left;">Proba-1标志着欧洲航天工业向小型任务的转变。虽然立方体卫星和现在越来越普遍，但Proba 1是ESA在小型任务方面的首次尝试。这项任务仅用了三年时间就完成了--在当时任务往往需要10年以上的时间才能发射的情况下，这是一项闻所未闻的壮举。另外，它还标志着一系列Proba卫星的开始，包括Proba-2、Proba-V和目前正在测试的Proba-3。</p><p style="text-align: left;">“在它的时代，它是完全创新的，”Proba的项目经理Frederic Teston回忆道，“就技术而言，就开发时间而言，就低成本而言，这一切都是全新的。”</p><p style="text-align: left;">二十年来，没有一个主要单元真正发生过故障，目前航天器的所有主要系统仍在运行。该卫星实现了ESA的许多第一次--从第一个使用锂离子电池（现在是一种普遍的技术）到成为ESA第一个具有完全自主能力的航天器。</p><p style="text-align: left;">这意味着它被设计成几乎可以在无人帮助的情况下执行日常任务，而ESA在比利时edu的地面站的工作人员很少参与。</p><p style="text-align: left;"><strong>自动的自主性</strong></p><p style="text-align: left;">通常情况下，自主运行部分任务的代码如高度和轨道控制系统(AOCs)是以特定方式编写的。首先，这个系统和机上其他每个系统的功能和行动都被详细说明和清除。然后，当工程师对它们感到满意它们就被转化为软件规格，最后有人专门为这些功能编写了软件。这是一个漫长的循环，所以如果有些东西不工作或需要改变那么这将是一个漫长的过程。</p><p style="text-align: left;">但Proba-1任务能够如此迅速地启动的部分原因是，它通过开发一个自动生成软件的工具来规避这个循环，另外它还允许工程师快速改变系统的功能和部分而不需要编写全新的代码。</p><p style="text-align: left;">编写。</p><p style="text-align: left;">“我们在一个软件中建立了所有的模型，人们认识到这是MATLAB的祖先，”曾在Proba-1团队中的Pierrik Vuilleumier说道，“从辐射或轨道到磁场和太阳的位置。所有这些都在工具中建模，所以在最后我们按下按钮并自动生成跟机载软件进行编译和连接的软件。船载工具有四万行代码，地面模拟器有三万多行。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/3671a4c54e0900a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/3671a4c54e0900a.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">该工具还将所有文件也保存在模型中，这意味着很容易培训新的工程师使用它。</p><p style="text-align: left;">Vuilleumier说道：“关于代码生成的一些神话今天仍在继续，但我相信我们在20年前就打破了这些神话。”</p><p style="text-align: left;">这种自动软件生成已经发展起来，如今在Proba任务中已经非常普遍，尽管生产力得到提高、开发时间缩短，但它仍不是所有任务的主流。</p><p style="text-align: left;"><strong>新空间之前的新空间</strong></p><p style="text-align: left;">Proba-1还强调了使用COTS（全称Commercial Off-The-Shelf）部件而不是高级部件如何能在成本和时间上的高效性，另外它还获得了真正的回报--这一点正越来越成为ESA开发和改进太空新技术战略的一部分。</p><p style="text-align: left;">“我们是第一个飞行锂电池的人。当时，专家们预测其在太空中的寿命最多只有6个月。现在，20年过去了，我们没有注意到这些电池的任何退化。它们已经有23年的历史了！”Vuilleumier感叹道。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/10/38cd923e6d923bf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/10/38cd923e6d923bf.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">商业部件通常被认为风险较大或可靠性较低，但Proba团队表明，通过适当的工程设计，他们的硬件在恶劣的太空环境中至今已活了20年并证明了它们的价值。</p><p style="text-align: left;">尽管开发时间如此之短，但该项目并不总是一帆风顺。Vuilleumier回忆起发射前的几周，工程师们已经在印度准备好在PSLV上发射前进行测试，他们疯狂地争抢着完成软件的编码。</p><p style="text-align: left;">“从事以前没有做过的事情是不是很兴奋？当你看到某样东西工作时，也许有五分钟的时间，但在这之前和之后，压力多于兴奋。但我们展示了，事情并不总是需要更长的时间或更多的费用，这是可能的。我们表明有可能做更快、更便宜的任务，”Teston笑着说道。</p>   
+</div>
+            
