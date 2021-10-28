@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-10-28 00:26:12
-thumbnail: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
+date: 2021-10-28 01:50:12
+thumbnail: 'https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162'
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/da8e974dc_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">知乎用户，</span><span class="bio">基因治疗，生物科普，重度猫奴</span>
 <a href="https://www.zhihu.com/question/351700422/answer/2170761075" class="originUrl" hidden>查看知乎原文</a>
 </strong>
