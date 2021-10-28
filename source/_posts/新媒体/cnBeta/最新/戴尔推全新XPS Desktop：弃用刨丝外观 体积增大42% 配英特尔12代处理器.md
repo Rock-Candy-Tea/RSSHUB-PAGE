@@ -1,0 +1,19 @@
+
+---
+title: '戴尔推全新XPS Desktop：弃用刨丝外观 体积增大42% 配英特尔12代处理器'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1028/7d662756509ac00.jpg'
+author: cnBeta
+comments: false
+date: Thu, 28 Oct 2021 03:37:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1028/7d662756509ac00.jpg'
+---
+
+<div>   
+戴尔最新推出的 XPS Desktop 弃用了奶酪刨丝机的外观，转而使用更舒服的设计。<strong>今天发布的塔式主机体积增大了 42%，并采用了新的散热设计，将上一版本凹凸不平、类似编织袋的通风格栅压扁，变成了一个充满方形的设计，让人联想到华夫饼。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/7d662756509ac00.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/7d662756509ac00.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">新款塔式主机的尺寸为 27L，而前代为 19L，机身内装备了<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>第 12 代 Alder Lake CPU，并使用了 NVIDIA 或者 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 最强大的显卡。</p><p style="text-align: left;">XPS Desktop 顶配可以选择英特尔酷睿 i9-12900K，该芯片是一个 125W、可超频、16 核、24 线程的 CPU，有 30MB 的缓存，时钟速度为 3.2GHz，可提升至 5.2GHz。之前的 XPS Desktop 最高配备了 i9-11900K，也是 125 瓦，但核心数量较少（尽管由于第12代芯片的性能和效率核心、线程和缓存的混合以及更高的时钟速度（3.5/5.3GHz），性能可能会有所不同）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/4734127fc9884f9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/4734127fc9884f9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">图形的选项最高为 NVIDIA GeForce RTX 3090 或 AMD Radeon RX 6900 XT。你可以添加高达 128GB 的 DDR5-3600 内存（四根 32GB 的内存），是上一代 XPS Desktop 提供的内存的两倍。这台电脑配备了高达 4TB 的存储空间，由 2TB <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a> 和 2TB HDD 提供。所有这些计算能力的燃料来自于一个 750 瓦的电源。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/742cdbf89b52360.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/742cdbf89b52360.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">戴尔表示，XPS Desktop 的新设计可以让你通过改进的气流和水冷选项来进一步推动你的 GPU，以获得更长的持续性能。正如你在上面的图片中所看到的，新的和旧的 XPS Desktop 都从前面和侧面吸入冷空气，并将热空气从后面推出。戴尔没有说明将前面板放平是否对 PC 性能有任何影响，但有更多的空间和对CPU进行液体冷却的选择应该有助于降低机箱内的热量水平。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/765288fd9cb20c6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/765288fd9cb20c6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">液体冷却只限于CPU，而且戴尔没有详细说明CPU冷却器的规格。分享的图片显示了一个相当标准的一体式设备。你最多可以有三个120毫米的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>，这应该比以前提供的4500转的风扇更大更快。戴尔没有说明声音水平或新风扇的转速。除了有助于热管理外，更大的机箱将使PC的升级更容易，因为你将有更多的空间来工作。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/f51f385557a429d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/f51f385557a429d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">端口方面，台式机前面有一个SD读卡器、三个USB-A端口、一个USB-C端口和一个3.5毫米耳机插孔，另外还有四个USB-A端口、另一个USB-C端口、一个DisplayPort端口、一个千兆以太网端口，以及一个7.1声道音频6端口堆叠在后面的可重合音频端口。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1028/a64e31e2c501389.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1028/a64e31e2c501389.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">与戴尔的 XPS 笔记本电脑一样，PC 的颜色选择决定了机器使用的材料类型。夜空版（Night Sky）的 XPS Desktop 有一个树脂前挡板，铝制侧面和橡胶脚。铂银版（Platinum Silver）的边框和侧面使用铝，底座使用树脂，脚部使用铝。</p><p style="text-align: left;">戴尔说这台电脑将在“今年秋天晚些时候”推出。考虑到英特尔预计今天将详细介绍其第 12 代 CPU，新的戴尔电脑应该很快就会准备好。台式机将以 920 美元起价，但我们很想知道液体冷却会给价格增加多少。</p>   
+</div>
+            

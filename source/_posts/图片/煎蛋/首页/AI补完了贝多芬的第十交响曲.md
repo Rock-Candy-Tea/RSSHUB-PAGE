@@ -49,6 +49,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <p>有一次，团队中的一位音乐专家说，人工智能就像是一个热心的音乐系学生，他每天都在练习，学习，变得越来越好。</p>
 <p>现在，这个学生从贝多芬手中接过指挥棒，已经准备好向世界展示第十交响曲。</p>
 <p>https://www.popsci.com/technology/beethoven-10th-symphony-ai/</p>
-<p>*我听了一下AI补完的第十交响曲的片段，怎么说呢，风格确实非常像贝多芬，像到有一种在哪听过的感觉</p>  
+<p>*我听了一下AI补完的第十交响曲的片段，怎么说呢，风格确实非常像贝多芬，像到有一种在哪听过的感觉</p>
+<p><iframe src="//player.bilibili.com/player.html?aid=721307312&bvid=BV1pQ4y1q7Dx&cid=430008565&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>  
 </div>
             

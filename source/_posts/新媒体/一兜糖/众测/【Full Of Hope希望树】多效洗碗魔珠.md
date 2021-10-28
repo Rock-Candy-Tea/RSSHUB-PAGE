@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202110/18/8764da/53002b7301056789.png!home320'
 author: 一兜糖
 comments: false
-date: 2021-10-28 04:09:46
+date: 2021-10-28 05:07:29
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202110/18/8764da/53002b7301056789.png!home320'
 ---
 
 <div>   
-申请结束时间：2021.10.27                        <br>【Full Of Hope希望树】多效洗碗魔珠<br>                            数量 ：3<br>                            实际价格 ：79元<br>                            名单确认中<br>                            359人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/18/8764da/53002b7301056789.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.10.28                        <br>【Full Of Hope希望树】多效洗碗魔珠<br>                            数量 ：3<br>                            实际价格 ：79元<br>                            活动申请中<br>                            360人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/18/8764da/53002b7301056789.png!home320" referrerpolicy="no-referrer">  
 </div>
             
