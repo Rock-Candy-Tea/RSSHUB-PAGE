@@ -1,0 +1,19 @@
+
+---
+title: '展会直击 _ CeMAT火热进行中 灵西机器人展台精彩纷呈'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/28/yangxiaojun/1635391175441087225.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 28 Oct 2021 03:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/28/yangxiaojun/1635391175441087225.jpg'
+---
+
+<div>   
+<p style="text-align: left;">10月26日，CeMAT ASIA 2021亚洲国际物流技术与运输系统展览会在上海新国际博览中心如期开幕。灵西<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>（以下简称：灵西）携核心软硬件产品及仓储物流领域典型解决方案亮相，通过“产品、方案、项目”等维度全方位展示“3D+AI”技术在仓储物流领域的丰富应用场景。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/28/yangxiaojun/1635391175441087225.jpg" title="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" alt="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" width="635" height="410" referrerpolicy="no-referrer"></p><p style="text-align: center;"><span style="color: rgb(83, 79, 79); font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; font-size: 14px; letter-spacing: 0.544px; background-color: rgb(255, 255, 255);">灵西展台实景</span></p><p style="text-align: left;">作为亚太地区的年度工业盛会，CeMAT AISA 2021汇集众多海内外知名企业，展出规模再创新高。期间，灵西展台（W2-C1-2）人潮涌动，LINX-3D视觉相机新品线下首发，视觉引导软袋拆码垛和视觉引导涂胶工位的精彩展示，吸引了大批观众驻足观看。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/28/yangxiaojun/1635391210450018853.jpg" alt="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" title="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" width="633" height="449" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2021-10/28/yangxiaojun/1635391210489087865.jpg" alt="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" title="展会直击 | CeMAT火热进行中 灵西机器人展台精彩纷呈" width="630" height="404" referrerpolicy="no-referrer"></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; letter-spacing: 1px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; overflow-wrap: break-word !important;">展会仍在火热进行中</p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; letter-spacing: 1px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; overflow-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box; overflow-wrap: break-word !important; color: rgb(33, 82, 131); font-size: 20px;"><strong style="margin: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box; overflow-wrap: break-word !important;">W2-C1-2展位</strong></span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; box-sizing: border-box; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; letter-spacing: 1px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center; overflow-wrap: break-word !important;">灵西诚邀您莅临现场参观交流！</p><p style="text-align: left;"><br></p> 
+  
+</div>
+            
