@@ -1,0 +1,18 @@
+
+---
+title: '改名这种事不止Facebook，谷歌、苹果、肯德基们都干过'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c23_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 29 Oct 2021 01:58:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c23_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c23_1024.jpg" data-height="1133" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c23_1024.jpg" referrerpolicy="no-referrer"></div></div>10 月 29 日，在 Facebook 一年一度的 Connect 大会上，CEO 扎克伯格正式宣布 Facebook 将更名为 Meta，目的是专注于转向以虚拟现实为主的新兴计算平台。<p></p><p>" 眼下，我们的品牌跟公司单一一款产品连接得如此密切，可它并不能代表我们正在做的事情。" 扎克伯格如是说。</p><p>扎克伯格也表示，元宇宙是下一个前沿，从现在开始我们将以元宇宙为先，而不是 Facebook 优先。</p><p>早在更名之前，元宇宙概念就火了一段时间，扎克伯格也多次表露出对布局元宇宙生态的野心。例如在早前的 9 月，Faceboook 曾宣布将投资 5000 万美元与合作伙伴构建元宇宙。</p><p>但其实，通过改名来讲企业发展的新故事，早已是其他巨头玩剩下的招数。</p><p>例如在 2015 年，谷歌为了拓展非搜索领域的业务，宣布更名为 "Alphabet"。更早之前，苹果电脑公司也选择去掉了名字中 " 电脑 " 两个字，更名为苹果公司，来探索更多业务的可能性。</p><p>更有甚者，在上世纪 90 年代，肯德基炸鸡曾也呼吁人们 " 忘了油炸 "，将自己的名字缩短为了 " 肯德基 "。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c24_1024.jpg" data-height="1133" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c24_1024.jpg" referrerpolicy="no-referrer"></div></div>这些公司更名的背后其实都有着相似的逻辑和理由，那便是旧的名字与公司新的发展阶段和野心已不再匹配，正如扎克伯格所说的，Facebook 名称或许不再代表公司正在做的事了。<p></p><p>不仅海外的公司，国内的巨头企业们也都热衷于此，突破原有名称的限制，" 改名转运 " 似乎早已成为了巨头企业的标配动作。</p><p>例如美团点评更名为 " 美团 "、抖音短视频更名为 " 抖音 "、蚂蚁金服更名为 " 蚂蚁集团 "、京东金融更名为 " 京东数科 "、火山小视频更名为 " 抖音火山版 "、阿里旅行更名为 " 飞猪 " 等等。</p><p>同样的，企业名称的更迭，对应的是整体发展战略和方向的转变。</p><p>例如从抖音短视频改名而来的抖音，短视频虽然是其核心业务，但其业务领域同时也扩展到直播、电商、社交、金融支付、游戏等方面，并且呈现不断加强的态势。</p><p>尤其在电商领域抖音不断加码、动作频频。去掉原有名字中的 " 短视频 "，其实也意味着去标签化，完成多元化布局的转向。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c25_1024.jpg" data-height="1134" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c25_1024.jpg" referrerpolicy="no-referrer"></div></div>值得一提的是，除此之外，也有不少企业在 " 改名 " 这件事上存在着不一样的 " 小心思 "。<p></p><p>例如，蚂蚁金服更名为 " 蚂蚁集团 "、京东金融更名为 " 京东数科 "，均是从名称上弱化了平台的金融、贷款业务形象，同时也凸显塑造了科技属性。</p><p>再如滴滴打车更名为 " 滴滴出行 "，也是从名称上将主营打车业务进行了更为高大上的包装，同时为企业在未来整个交通出行板块的布局做铺垫。</p><p>回看 Facebook（现更名为 Meta），除了名称的更换外，也同时宣布了在新业务板块的发展进程。</p><p>其正在努力打造支持 AR 和 AI 辅助的智能眼镜，并计划在更多地方实地测试其包含相机和传感器的 Project Aria 智能眼镜，此外还将对神经输入腕带产品进行测试。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c26_1024.jpg" data-height="696" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617bc4f7b15ec052157b8c26_1024.jpg" referrerpolicy="no-referrer"></div></div>但是目前看来，元宇宙还是一个很早期的概念，扎克伯格也承认 " 元宇宙真正对公司业绩产生贡献，至少还要再等十年。"<p></p><p>新的名称也只是一个起点，企业究竟能否 " 改名换运 "，顺利推进新业务版图的整体布局，真正讲好一个新的资本故事，还需要等待企业在布局新业务生态上的表现与突破。</p><p></p><div class="zaker_div"><div class="zk_remark"><p>ZAKER 新闻出品</p><p></p><p>文 / 曾宪天 实习生 王柳霞</p></div><div class="edi_oper"></div></div><p></p>  
+</div>
+            
