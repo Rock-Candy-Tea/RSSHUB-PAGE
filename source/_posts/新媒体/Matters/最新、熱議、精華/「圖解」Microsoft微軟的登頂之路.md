@@ -1,0 +1,18 @@
+
+---
+title: '「圖解」Microsoft微軟的登頂之路'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/f46438ba-94be-46cc-aa58-329c1a5bcfab.jpeg'
+author: Matters
+comments: false
+date: Fri, 29 Oct 2021 01:17:44 GMT
+thumbnail: 'https://assets.matters.news/embed/f46438ba-94be-46cc-aa58-329c1a5bcfab.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/f46438ba-94be-46cc-aa58-329c1a5bcfab.jpeg" data-asset-id="f46438ba-94be-46cc-aa58-329c1a5bcfab" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Axios</span></figcaption></figure><h2>企業市值</h2><figure class="image"><img src="https://assets.matters.news/embed/203516c4-f98f-475c-88ab-2b4e2b5805f1.jpeg" data-asset-id="203516c4-f98f-475c-88ab-2b4e2b5805f1" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Visualcapitalist</span></figcaption></figure><h2>Microsoft價值</h2><figure class="image"><img src="https://assets.matters.news/embed/c3fcdf41-66dd-4049-8c9b-21e62e2be4b6.jpeg" data-asset-id="c3fcdf41-66dd-4049-8c9b-21e62e2be4b6" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Visualcapitalist</span></figcaption></figure><h2>CSR總體評分</h2><figure class="image"><img src="https://assets.matters.news/embed/695d840e-1a6c-4192-9955-9f81a3ac9bdc.jpeg" data-asset-id="695d840e-1a6c-4192-9955-9f81a3ac9bdc" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Visualcapitalist</span></figcaption></figure><h2>企業無形資產</h2><figure class="image"><img src="https://assets.matters.news/embed/a75ff85d-4de6-4725-a2c2-617efbba3236.jpeg" data-asset-id="a75ff85d-4de6-4725-a2c2-617efbba3236" referrerpolicy="no-referrer"><figcaption><span>圖片來源：經理人</span></figcaption></figure><h2>Microsoft增長率</h2><figure class="image"><img src="https://assets.matters.news/embed/ed5f95a9-17a8-4b43-968c-8e2c6deff2f2.jpeg" data-asset-id="ed5f95a9-17a8-4b43-968c-8e2c6deff2f2" referrerpolicy="no-referrer"><figcaption><span>圖片來源：GeekWire</span></figcaption></figure><h2>Microsoft收入利潤比</h2><figure class="image"><img src="https://assets.matters.news/embed/fc64307b-678c-4328-b760-6c9f99c1ef7a.jpeg" data-asset-id="fc64307b-678c-4328-b760-6c9f99c1ef7a" referrerpolicy="no-referrer"><figcaption><span>圖片來源：GeekWire</span></figcaption></figure><h2>Microsoft員工人數</h2><figure class="image"><img src="https://assets.matters.news/embed/d247315c-34e9-40b6-a308-a75ea345f970.jpeg" data-asset-id="d247315c-34e9-40b6-a308-a75ea345f970" referrerpolicy="no-referrer"><figcaption><span>圖片來源：GeekWire</span></figcaption></figure><h2>Microsoft的登頂之路？</h2><figure class="image"><img src="https://assets.matters.news/embed/c00b3ff9-15f3-4422-b161-ba009311a67d.jpeg" data-asset-id="c00b3ff9-15f3-4422-b161-ba009311a67d" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Zerohedge</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/58b1dd0e-62ae-4e8e-ad0c-61697230f9c9.jpeg" data-asset-id="58b1dd0e-62ae-4e8e-ad0c-61697230f9c9" referrerpolicy="no-referrer"><figcaption><span>圖片來源：8marketcap</span></figcaption></figure><p><a href="https://linkby.tw/YL_LaB" target="_blank">———延伸資訊———</a></p><p><a href="https://tinyurl.com/e7duj7y" target="_blank">MSFT員工期刊指出遠距影響創新</a></p><p><a href="https://tinyurl.com/yarcs5ks" target="_blank">MSFT及LinkedIn共同發表混合辦公趨勢</a></p><p><a href="https://tinyurl.com/4zt3avpe" target="_blank">MSFT其它業務的增長</a></p><p><a href="https://tinyurl.com/3ftaxm4f" target="_blank">MSFT的綠能計畫</a></p>  
+</div>
+            

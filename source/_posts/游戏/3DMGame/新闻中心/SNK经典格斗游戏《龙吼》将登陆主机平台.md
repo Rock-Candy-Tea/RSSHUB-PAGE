@@ -30,10 +30,10 @@ QUByte和Piko今天（10月29日）早上宣布，经典的街机平台格斗游
 《龙吼》将登陆PS、Xbox和Switch平台，发售日未定。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211029/1635459041_305170.jpg" alt="SNK经典格斗游戏《龙吼》将登陆主机平台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211029/1635459041_305170.jpg" alt="SNK经典格斗游戏《龙吼》将登陆主机平台" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211029/1635459041_472585.jpg" alt="SNK经典格斗游戏《龙吼》将登陆主机平台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211029/1635459041_472585.jpg" alt="SNK经典格斗游戏《龙吼》将登陆主机平台" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
