@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/mario_party_ss.jpg'
 author: Nintendo
 comments: false
-date: 2021-10-29 07:07:53
+date: 2021-10-29 08:09:00
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/mario_party_ss.jpg'
 ---
 
