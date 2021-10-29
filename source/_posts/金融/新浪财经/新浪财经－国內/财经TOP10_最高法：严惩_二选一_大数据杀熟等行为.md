@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/sinakd20211029s/33/w500h333/20211029/ef41-51c5903ef961aa97ce4294af7fac2851.jpg'
 author: 新浪财经
 comments: false
-date: Fri, 29 Oct 2021 13:15:49 GMT
+date: Fri, 29 Oct 2021 13:17:53 GMT
 thumbnail: 'https://n.sinaimg.cn/sinakd20211029s/33/w500h333/20211029/ef41-51c5903ef961aa97ce4294af7fac2851.jpg'
 ---
 
@@ -51,8 +51,10 @@ thumbnail: 'https://n.sinaimg.cn/sinakd20211029s/33/w500h333/20211029/ef41-51c59
 <p>　　<strong>NO.8  <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-10-29/doc-iktzscyy2425050.shtml">恒大支付超4500万美元境外债利息</a> <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-10-29/doc-iktzscyy2410388.shtml">多位持有人已收到</a></strong></p>
 <p cms-style="font-L">　　<font cms-style="font-L">据界面新闻了解，中国恒大已支付了一笔原本9月底到期的美元债利息，超出4500万美元，30天宽限期将于今日到期。</font></p>
 <p cms-style="font-L">　　<font cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L">恒大</font></font>10月20日</font></font><font cms-style="font-L">披露，其于公开市场发行的美元债券的利息到期后有30天宽限期，截至10月20日，</font><font cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L"><font cms-style="font-L">恒大</font></font></font></font><font cms-style="font-L">2021年9月及10月到期的公募美元债券利息的宽限期未满。</font></p>
-<p cms-style="font-L">　　<strong><font cms-style="font-L">【相关报道】</font></strong></p>
-<p cms-style="font-L">　　<strong><a target="_blank" href="https://finance.sina.com.cn/china/gncj/2021-10-29/doc-iktzscyy2485617.shtml">许家印香港豪宅被抵押 可套现约2.47亿元偿还债务</a></strong></p>
+<blockquote class="fin_reference">
+<p cms-style="font-L">　　<font cms-style="font-L">【相关报道】</font></p>
+<p cms-style="font-L">　　<a target="_blank" href="https://finance.sina.com.cn/china/gncj/2021-10-29/doc-iktzscyy2485617.shtml">许家印香港豪宅被抵押 可套现约2.47亿元偿还债务</a></p>
+</blockquote>
 <p>　　<strong>NO.9  <a target="_blank" href="https://finance.sina.com.cn/jjxw/2021-10-29/doc-iktzqtyu4168569.shtml">28亿存款质押事件疑点重重 渤海银行近三年收上亿罚单</a></strong></p>
 <p cms-style="font-L">　　大型药企江西济民可信集团（下简称济民可信）旗下两家子公司在不知情的情况下，被挪用了其在渤海银行南京分行存入的28亿存款，为与之没有关联的华业石化南京有限公司（下简称华业石化）提供贷款质押担保。</p>
 <p cms-style="font-L">　　据报道，两家公司在渤海银行南京分行的存款共计33亿元人民币，其中有28亿在企业未知情形下被质押，还有4.5亿元存款因华业石化未能按时还贷，被渤海银行南京分行强行划扣。交涉无果后，济民可信的两家子公司已于9月3日报警。</p>
