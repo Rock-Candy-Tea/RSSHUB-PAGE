@@ -1,0 +1,18 @@
+
+---
+title: '苹果MacBook Pro的Liquid Retina XDR显示屏可支持参考模式和微调'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617b6cc6b15ec033604586d5_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 28 Oct 2021 21:33:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617b6cc6b15ec033604586d5_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 10 月 29 日消息，随着苹果为 MacBook Pro 引入 Liquid Retina XDR 显示技术，苹果用户现在能够为自行创建和使用为特定颜色工作定制的参考模式选项。</p><p>IT 之家了解到，苹果新款 14 英寸和 16 英寸 MacBook Pro 是第一款配备 Liquid Retina XDR 显示器的 MacBook 机型，并为之前苹果昂贵的 Pro Display XDR 显示器的功能进行了优化。</p><p>MacBook Pro 的显示屏采用了 mini-LED 背光和苹果典型的色彩准确面板，能够以高亮度和对比度展现 HDR 内容。</p><p>再加上 ProMotion 技术高达 120Hz 的动态可变刷新率支持，新款 MacBook Pro 除了贵简直就是设计师梦寐以求的产品。</p><p>虽然苹果此前营销材料指出，视频编辑人员可以从固定的刷新率模式中进行选择，以匹配他们的镜头，但关于笔记本电脑的颜色选项却没有太多说明。</p><p>根据最新发布的支持文档，苹果 MacBook Pro 附带了多种预设参考模式，以适应特定的工作环境以及视频、摄影、网络和打印的多种标准媒体制作工作流程。大多数预设以前可供 Pro Display XDR 用户使用。</p><p>您可以使用 Pro Display XDR 中的参考模式来满足 HDR、高清、标清视频和其他媒体类型的制作要求。每种参考模式都会设定显示器的色彩空间、白点值、灰度系数和亮度。了解 Pro Display XDR 中的每种参考模式。</p><p>Pro Display XDR（P3-1600 尼特）</p><p>这个模式适用于一般的家庭和办公环境，基于 Apple 显示器使用的广色域 P3 原色，并启用支持高达 1600 尼特（峰值）的极致动态范围 ( XDR ) 。</p><p>Apple 显示器（P3-500 尼特）</p><p>这个模式适用于一般的家庭和办公环境，基于广色域 P3 原色，最高亮度可达 500 尼特，这是 Apple 内建显示屏的典型亮度范围。</p><p>HDR 视频 ( P3-ST 2084 ) </p><p>这个模式适用于 4K 或超高清视频制作工作流程，基于广色域 P3 原色和高动态范围 SMPTE ST-2084 EOTF，最高亮度可达 1000 尼特（全屏持续亮度），专为根据 ITU-R BT.2100 设置受控观看环境而设计。</p><p>HDTV 视频 ( BT.709-BT.1886 ) </p><p>这个模式适用于采用 ITU-R BT.709 和 BT.1886 推荐标准的高清视频制作工作流程，专为根据 ITU-R BT.2035 设置受控观看环境而设计。</p><p>NTSC 视频 ( BT.601 SMPTE-C ) </p><p>这个模式适用于采用 ITU-R BT.601 推荐标准和 SMPTE-C 原色的标清或归档视频制作工作流程，专为根据 ITU-R BT.2035 设置受控观看环境而设计。</p><p>PAL 和 SECAM 视频 ( BT.601 EBU ) </p><p>这个模式适用于采用 ITU-R BT.601 推荐标准和 EBU Tech 3213 原色的标清或归档视频制作工作流程，专为根据 ITU-R BT.2035 设置受控观看环境而设计。</p><p>数码影院 ( P3-DCI ) </p><p>这个模式适用于使用 P3 剧场色彩空间和数码影院白点值的电影和后期制作工作流程，专为根据 SMPTE RP 431-2:2011 设置受控观看环境而设计。</p><p>数码影院 ( P3-D65 ) </p><p>这个模式适用于使用 P3 剧场色彩空间和 D65 白点值的电影和后期制作工作流程，专为根据 SMPTE RP 431-2:2011 设置受控观看环境而设计。</p><p>设计和印刷 ( P3-D50 ) </p><p>这个模式适用于图形设计、印刷和出版工作流程，使用广色域 P3 原色来获取比一般的 sRGB 显示屏更广的色域。它使用 D50 而非 D65 白点值，该白点值通常用于根据 ISO 3664:2009 和 ISO 12646:2015 规范来评估打印输出的色彩。</p><p>摄影 ( P3-D65 ) </p><p>这个模式适用于一般的数码摄影工作流程，使用广色域 P3 原色和 D65 白点值，该白点值通常用于基于屏幕的查看用途。这个模式专为实现正确设置和受控观看环境而设计。</p><p>网络和网站 ( sRGB ) </p><p>这个模式适用于以网站或其他基于网络的用途为目标的内容创建工作流程，根据 W3C CSS 颜色模块 3 级推荐标准使用受到广泛支持的 sRGB ( IEC 61966-2-1:1999 ) 色彩空间，专为实现正确设置和受控观看环境而设计（建议使用 64 勒克斯）。</p><p>此外，你还可以从多个色域、白点值、亮度及转换函数选项中进行选择，从而创建自定义参考模式，满足独特的工作流程需求。</p><p>创建自定义参考模式</p><p>选取苹果菜单 >" 系统偏好设置 "，然后点按 " 显示器 "。</p><p>点按 " 预置 " 弹出式菜单，然后选取 " 自定 "。</p><p>点按 " 添加 " 按钮 ，然后自定参考模式的设置。</p><p>输入参考模式的名称和描述，然后点按 " 存储预置 "。</p><p>进一步了解您可为自定义参考模式配置的高级选项。</p><p>据悉，在 Mac 上切换不同参考模式的方法有两种：</p><p>选取苹果菜单 >" 系统偏好设置 "，然后点按 " 显示器 "。选取 " 预置 " 弹出式菜单，然后选取参考模式。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/617b6cc6b15ec033604586d5_1024.jpg" data-height="802" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617b6cc6b15ec033604586d5_1024.jpg" referrerpolicy="no-referrer"></div></div>单击菜单栏中的 " 隔空播放 " 菜单 ，然后选取参考模式。<p></p><p>如果您没有看到 " 隔空播放 " 菜单 ，请前往苹果菜单 >" 系统偏好设置 "，点按 " 显示器 "，然后选择 " 在菜单栏中显示镜像选项（可用时）"。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

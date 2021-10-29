@@ -15,7 +15,7 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/tianruoocr_cl/tian
 <div>   
 <ul id="link1111"><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/1111">双 11 值得买必看清单！划算会员/软件/数码好价汇总</a>   |   
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐年卡 + 百度网盘 = 248元</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123 元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3880">腾讯云好价</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4448">阿里云狂欢</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/1111">淘宝红包</a>  |  
