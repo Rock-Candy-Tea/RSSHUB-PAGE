@@ -18,7 +18,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2021-04/t-doc
 <p>EX木20｜科搜研之女21｜12.8% > 10.7% (-2.1%)<br>
 EX木21｜Doctor-X 7｜15.9% > 16.6% (+0.7%)<br>
 CX木22｜SUPER RICH｜7.3% > 7.6% (+0.3%)</p>
-
 <p>NHK晨間｜歡迎回來百音｜14.5% > 15.2% (+0.7%) </p>
 <hr>
 <h3>最新一集日劇收視排名</h3>
