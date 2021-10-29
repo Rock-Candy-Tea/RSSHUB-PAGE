@@ -14,9 +14,8 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/news/5577/apple_fa
 
 <div>   
 <ul id="link1111"><li>
-汇总：
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/1111">双 11 各种必领红包 / 划算羊毛收集</a>   |   
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐年卡 + 百度网盘 + 文库 = 248 元</a></li><li>优惠：
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/1111">双 11 值得买必看清单！划算会员/软件/数码好价汇总</a>   |   
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐年卡 + 百度网盘 = 248元</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3880">腾讯云好价</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4448">阿里云狂欢</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/1111">淘宝红包</a>  |  
