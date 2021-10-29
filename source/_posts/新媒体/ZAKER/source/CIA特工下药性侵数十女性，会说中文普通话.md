@@ -1,0 +1,18 @@
+
+---
+title: 'CIA特工下药性侵数十女性，会说中文普通话'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617b632d8e9f09764948bb49_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 28 Oct 2021 19:09:28 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617b632d8e9f09764948bb49_1024.jpg'
+---
+
+<div>   
+<p>据美国 " 野兽日报 " 报道，美国联邦调查局周一宣布，被指控在 14 年内对至少 24 名女性下药并实施性侵的美国大使馆工作人员，实际上是美国中央情报局（CIA）的一名长期雇员，FBI 敦促任何可能的受害者挺身而出提供线索。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202110/617b632d8e9f09764948bb49_1024.jpg" data-height="854" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/617b632d8e9f09764948bb49_1024.jpg" referrerpolicy="no-referrer"></div></div>连环性侵犯雷蒙德。图源：FBI 网站<p></p><p>这名 CIA 雇员为 45 岁的连环性侵犯布赖恩 · 杰弗里 · 雷蒙德，他于 2020 年 10 月 9 日在加州拉梅萨被捕。在突然辞去美国驻墨西哥城大使馆的工作后，他一直和父母住在那里。今年 7 月，他对两项性侵指控和一项传播淫秽材料的指控认罪，并将被要求出狱后，终身被登记为性犯罪者。</p><p>联邦调查局（FBI）发言人萨曼莎 · 谢罗证实，雷蒙德在墨西哥大使馆任职期间为 CIA 工作，但她拒绝提供有关他在 CIA 确切职位的更多细节。CIA 发言人在一封电子邮件声明中称："CIA 最强烈地谴责前情报局官员雷蒙德犯下的罪行。" 一位熟悉此案的消息人士称，在雷蒙德被捕后，CIA 采取了行政行动，并在不久之后解除了他的职务。</p><p>2020 年 5 月 31 日，墨西哥城警方接到报警电话，路人在美国大使馆租用的墨西哥城公寓露台上发现一名 " 赤身裸体、歇斯底里的女人拼命尖叫求救 "，雷蒙德受到 FBI 调查。调查人员后来发现了近 500 张照片和视频片段，这些照片和视频片段的内容是在雷蒙德的床上处于昏迷状态的众多女性。法庭文件显示，在一些视频中，可以看到一名男子拉开受害者的眼睑，挥舞着她们软软的胳膊和腿，或者将他的手指放在她们的嘴里，以展示她们已经失去知觉。雷蒙德会说西班牙语和中文普通话，并在至少 6 个不同的国家工作了大约 20 年。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/617b632d8e9f09764948bb4a_1024.jpg" data-height="351" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617b632d8e9f09764948bb4a_1024.jpg" referrerpolicy="no-referrer"></div></div>FBI 发布的寻找性侵受害者的通告。图源：FBI 网站截图<p></p><p>雷蒙德通常在约会软件上寻找毫无戒心的受害者。雷蒙德认罪协议上陈述称，与雷蒙德约会后的受害者们都报告说，喝了他提供或准备的酒水，并在与他待在一起时曾经失去记忆。据悉，至少有 9 起性侵事件发生在美国政府为他安排的住处。</p><p>雷蒙德的在线足迹几乎不存在，他模糊的工作描述导致外界猜测他是一名卧底特工，而并非美国国务院工作人员。</p><p>法庭文件显示，即使在他知道自己正在接受调查之后，他仍持续实施强奸作案，然后试图从手机中抹去罪证，但没有成功。据当局称，这些受害女性在遭到性侵时没有人能够表达愿意发生关系，没有人同意在该状态下被拍摄，也很少有人对有关事件有任何记忆。</p><p>调查人员发现了雷蒙德和被他性侵的女性之间的 " 无数 " 聊天记录，其中一些女子甚至还为自己的昏迷而向雷蒙德道歉，并询问他是否与她们发生过性关系，似乎在说自己不记得前一天晚上发生的事情。</p><p>当调查人员查看雷蒙德的在线搜索历史记录时，他们发现他寻找的短语包括 " 昏迷黑人女孩 "、" 深度睡眠 "、" 安眠药和酒精并晕倒 "、" 溶解 " 和 " 昏迷被抬走 "。</p><p>一组照片描绘了雷蒙德是如何侵犯一名失去知觉的女性的，他暴露对方的乳房并脱下她的短裤。据调查人员称，第二天早上，雷蒙德还若无其事地给这名受害者发了短信，称 " 希望你今天不会宿醉 "。受害的女子显然不知道发生了什么，还回答称：" 嘿！昨天很难受，我严重宿醉，我也玩得很开心！我们必须再来一次。" 在他们第二次约会时，这名女子和雷蒙德去了一家酒吧，然后回到了她的住处，在那里她开了一瓶红酒给两人喝。某个时刻，当两人走上阳台时，她没有留意瓶子。雷蒙德返回屋内，拿着酒瓶走上阳台，给他们两个杯子都倒满了酒。但女人喝了后很快就觉得头昏眼花，感觉自己快要晕过去了。她记得的最后一件事是自己告诉杰弗里，她需要躺下。后来，这名女子醒来时，发现身旁的床上躺着穿着衣服的杰弗里。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/617b632d6227689f98000c78_1024.jpg" data-height="854" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617b632d6227689f98000c78_1024.jpg" referrerpolicy="no-referrer"></div></div>连环性侵犯雷蒙德。图源：FBI 网站<p></p><p>据报道，这名女子仍然无法站立，直到最终接受调查人员面谈时，这名女子才知道自己遭到了性侵犯，而雷蒙德似乎根本没事。</p><p>在雷蒙德被捕的前几天，他还曾与在网上认识的一名女子共度一夜。" 法庭文件称，这名女子告诉警察，她 " 相信她与雷蒙德至少发生了三次性关系，但她对这些过程只留有一小部分记忆。"</p><p>据悉，雷蒙德定于明年 2 月 7 日在华盛顿特区联邦法院被判刑。</p><p>（来源：环球时报）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
