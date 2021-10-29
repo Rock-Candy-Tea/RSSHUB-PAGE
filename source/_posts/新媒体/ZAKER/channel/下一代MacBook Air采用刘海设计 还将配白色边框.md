@@ -1,0 +1,18 @@
+
+---
+title: '下一代MacBook Air采用刘海设计 还将配白色边框'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099c_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 29 Oct 2021 03:11:19 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099c_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099c_1024.jpg" data-height="318" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099c_1024.jpg" referrerpolicy="no-referrer"></div></div>和新款 MacBook Pro 类似，下一代 MacBook Air 也会采用刘海设计，并配更窄的边框。不过最新消息称，新款 MacBook Air 的边框和刘海区域是白色的，而不像 MacBook Pro 那样是黑色的。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099d_1024.jpg" data-height="355" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099d_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>多渠道爆料</strong><p></p><p>这条消息最早来自于知名爆料者乔恩 · 普罗索（Jon Prosser）在今年 5 月份的爆料，他表示苹果重新设计的 MacBook Air 将有各种颜色，类似于 24 英寸的 iMac。随后，天风证券分析师郭明錤也提出了相同的说法。近期，拥有可靠爆料记录的泄密者 Dylandkt 重复了这一传言，显然是基于他自己的消息来源。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099e_1024.jpg" data-height="363" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099e_1024.jpg" referrerpolicy="no-referrer"></div></div>Prosser 和 Dylandkt 都说，彩色 MacBook Air 机型的边框将是白色或 " 米白色 "，就像苹果 24 英寸彩色 iMac 的屏幕边框一样，同时还有全白色的键盘。两位泄密者还重申了一些传言，即苹果重新设计的入门级笔记本将拥有从最近发布的 14 英寸和 16 英寸 MacBook Pro 机型中采用的若干功能，包括 mini LED 显示技术和有争议的摄像头刘海。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099f_1024.jpg" data-height="371" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d18099f_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>回到 iMac</strong><p></p><p>当苹果在 4 月份发布了彻底重新设计的 24 英寸 iMac，并提供了一系列颜色时，一些观察家对白色的屏幕边框（苹果称其为 " 浅灰色 "）感到震惊，并想知道为什么苹果没有将充满活力的色彩方案扩展到显示器的边缘，或者至少用黑色来代替边框。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d1809a0_1024.jpg" data-height="448" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/617bc6ad8e9f09102d1809a0_1024.jpg" referrerpolicy="no-referrer"></div></div>苹果公司产品和营销主管科琳 · 诺维利后来在接受采访时解释说：" 边框是对典型家居设计的补充， [ 采用白色边框 ] 的原由之一是为了融入背景。而另一个原由是为用户提供了一个更无缝的体验 "。<p></p><p>通过这种方式，苹果公司声称黑色边框会给大多数家庭装饰带来太大的对比度，但它也在暗示另一件事：白色边框是为休闲 Mac 用户准备的，他们是最有可能欣赏 iMac 颜色的消费群体，这种颜色的设计 " 带来了一种光明、乐观和快乐的感觉 "。</p><p>苹果基本上是在说黑色边框更适合创意专业人士 -- 例如，倾向于在较暗环境中工作的视频编辑和摄影师。而且我们不需要等待苹果重新设计的更大的 iMac，看它是否有黑色边框来证明这一理论。苹果已经说过，新 MacBook Pros 上的黑色缺口和边框 " 在黑暗模式下看起来很好，我们的专业用户喜欢 "。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
