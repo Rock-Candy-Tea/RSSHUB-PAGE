@@ -1,0 +1,19 @@
+
+---
+title: '腾讯将收购 Niconico 母公司 6.86% 股份：在动漫及 IP 方面加强合作'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/ff6295e5-82a3-46c2-886c-dd1b39c44687.png'
+author: IT 之家
+comments: false
+date: Sat, 30 Oct 2021 08:46:15 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/ff6295e5-82a3-46c2-886c-dd1b39c44687.png'
+---
+
+<div>   
+<p data-vmark="ccde"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 10 月 30 日消息，据日经亚洲报道，日本株式会社 KADOKAWA（下简称角川）在 10 月 29 日晚发布通知文件，<span class="accentTextColor">宣布与腾讯控股建立商业合作联盟</span>。</p><p data-vmark="c95f"><img src="https://img.ithome.com/newsuploadfiles/2021/10/ff6295e5-82a3-46c2-886c-dd1b39c44687.png" w="754" h="381" title="腾讯将收购 Niconico 母公司 6.86% 股份：在动漫及 IP 方面加强合作" width="754" height="381" referrerpolicy="no-referrer"></p><p data-vmark="dbd0">根据公告内容，<span class="accentTextColor">腾讯方将出资 300 亿日元（约合人民币 17.6 亿）收购其 6.86% 的股份</span>，从而成为角川的第三大股东。</p><p data-vmark="b23f">角川表示，“已决定与腾讯集团<span class="accentTextColor">就动漫业务达成商业联盟协议</span>，以进一步推动公司基于 IP 的全球媒体联盟。”</p><p data-vmark="d9ce">报道还称，此次腾讯以每股 6170 日元的价格向角川收购了 486 万股，<span class="accentTextColor">这将会是腾讯目前为止在日本规模最大的一笔交易</span>。这笔交易将会在今年的 11 月 15 日到 26 日之间，通过腾讯在中国香港的全资子公司 SixJoy 进行。</p><p data-vmark="8245">据报道，角川没有回应置评请求，而腾讯拒绝置评。</p><p data-vmark="1a97">IT之家了解到，角川每年出版大约 5000 种书，包括小说、漫画书等，并且角川还运营着视频网站 Niconico。</p>
+          
+</div>
+            
