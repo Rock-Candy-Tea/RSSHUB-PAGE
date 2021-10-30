@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-329b18ffe5af995e5e56890855bcda7f_720w.jpg'
+headimg: 'https://picsum.photos/400/300?random=2920'
 author: 知乎
 comments: false
-date: Fri, 29 Oct 2021 14:01:40 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-329b18ffe5af995e5e56890855bcda7f_720w.jpg'
+date: Fri, 29 Oct 2021 15:08:18 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2920'
 ---
 
 <div>   
-Kevin Zhang的回答<br><br><p>南抖音，北快手，虽然这样并称短视频双雄很久了，但是快手的整体情况比起抖音还是差了不少。</p><p>根据极光的数据，截止2021Q1，抖音MAU接近快手2倍。 </p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-329b18ffe5af995e5e56890855bcda7f_720w.jpg" data-caption data-size="normal" class="content_image" referrerpolicy="no-referrer"></figure><p>在商业化变现方面，抖音动作也很快，除了直播电商，还布局了心动外卖。 </p><p>单就直播电商而言，抖音在KOL的量级上，比快手大V更多。 </p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-42e4b5c5812caecc0f55042e0a8121b7_1440w.jpg" data-caption data-size="normal" data-rawwidth="563" data-rawheight="357" data-default-watermark-src="https://pic3.zhimg.com/v2-60dc8ad9076badc18c72f8957c022f6e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-42e4b5c5812caecc0f55042e0a8121b7_r.jpg" referrerpolicy="no-referrer"></figure><p>从收入构成上，快手的打赏占比最高，虽然体现了北方用户的豪爽，但是比起抖音广告占比最高的收入结构，显得不那么稳定和健康。 </p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d6b0a8519c75d3acaafd8746c25a54b1_1440w.jpg" data-caption data-size="normal" data-rawwidth="561" data-rawheight="332" data-default-watermark-src="https://pic4.zhimg.com/v2-b2ffab5ae25ef205a0df3a8d24109510_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d6b0a8519c75d3acaafd8746c25a54b1_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b584872d3b83a4fdec41e5815e2753bc_1440w.jpg" data-caption data-size="normal" data-rawwidth="556" data-rawheight="324" data-default-watermark-src="https://pic4.zhimg.com/v2-81b3c68572b886d57e5547a4400bae99_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b584872d3b83a4fdec41e5815e2753bc_r.jpg" referrerpolicy="no-referrer"></figure><p>与抖音高度同质化的快手，是否要考虑开辟另一条战线？ </p><p>此时退居二线的宿华，是参考张一鸣和黄铮吗？</p><p>在反垄断重锤砸下之前，这两位就悄然退居幕后。而这次，宿华到底是激流勇退，还是明哲保身呢？  </p>  
+庄明浩（rosicky311）的回答<br><br><p>1、正在和潘乱、老编辑和金老师一起在直播聊快手的这个问题；</p><p>其实在大概2周之前就有二级市场的朋友问我是否知道这个事情，直到今天官宣；</p><p>某种程度上，今天这个官宣也贴合了市场的“情绪”……</p><p><br></p><p>2、整篇公告中，有意义的内容我觉得其实只有两句话：</p><blockquote>宿华将继续担任董事长、执行董事、薪酬委员会委员，负责制定公司长期战略。<br>程一笑作为首席执行官将负责公司日常运营及业务发展，并向董事长宿华汇报。<br></blockquote><p>这和字节的张一鸣、PDD的黄铮、陌陌的唐岩不太一样；</p><p>宿华依然还是在公司里，<b>所以这不是“退位”……</b></p><p>还有很多人似乎忘记了，快手这家公司起初是一笑创立的，所以哪来的退位之说呢？</p><p><br></p><p>3、两个领导人在历史上，无论是历史上的国家层面还是近代的商业公司层面，公认的可能会有问题；</p><p>对，这是一种“公认”……</p><p>但宿华和一笑这两个人的性格其实都不是那么对于所谓的“权力”有想法的人；</p><p>他们之间没问题，但下面人呢？</p><p>尤其你还是一家上市公司，那些不那么了解你公司的投资人会怎么看这个事情？</p><p>人的情绪很多时候就是符合“最大公约数”的约定；</p><p><br></p><p>4、我在前几天成龙入驻快手的回答，我提到了最近快手的股价其实有回来一些；</p><p>回头细想最近几个月快手的动作：</p><ul><li>快手海外三大产品(Kwai中东、Kwai拉美、Snack Video)整合为一个产品——Kwai；</li><li>上个月组织架构调整，从职能型架构向事业部制架构转型，成立电商事业部、商业化事业部、国际化事业部、游戏事业部等四大事业部；</li><li>新磁力大会上提出新市井商业；</li></ul><p>等等，整体而言在运营效率、用户规模、品牌广告布局、电商等领域快手都在出现积极变化。</p><p>挺好的……</p><p><br></p><p>作为知乎快吹，持续祝福快手。<br> <br></p>  
 </div>
             
