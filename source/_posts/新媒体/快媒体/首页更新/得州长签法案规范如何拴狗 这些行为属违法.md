@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.kuai.media/news/2021/10/30/static/image/kuai/external-link.gif'
 author: 快媒体
 comments: false
-date: 2021-10-30 08:09:00
+date: 2021-10-30 09:07:30
 thumbnail: 'https://www.kuai.media/news/2021/10/30/static/image/kuai/external-link.gif'
 ---
 
