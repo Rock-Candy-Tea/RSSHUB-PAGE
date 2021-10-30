@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5715'
+headimg: 'https://pic1.zhimg.com/v2-adf77d6c407cec7960acced792a0d567_720w.jpg'
 author: 知乎
 comments: false
-date: Fri, 29 Oct 2021 15:25:20 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5715'
+date: Sat, 30 Oct 2021 04:50:04 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-adf77d6c407cec7960acced792a0d567_720w.jpg'
 ---
 
 <div>   
-Yuki叶的回答<br><br><p>今天笑话</p><p>主持人：请问ag为什么换了三个辅助了</p><p>月光：我对最初有肌肉记忆</p><p>主持人：<a href="https://www.zhihu.com/search?q=%E8%94%A1%E6%96%87%E5%A7%AC&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2196290679%7D" class="internal">蔡文姬</a>打的很好为什么放弃优势选双边？</p><p>月光：我们大乔八局输了七局，但我会一直坚持</p><p>月光这bp没有十年<a href="https://www.zhihu.com/search?q=%E8%84%91%E6%BA%A2%E8%A1%80&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2196290679%7D" class="internal">脑溢血</a>拿不出来，拿点正常阵容还能打，最后阵容拿的是啥，马超毫无输出环境，视野没有前排没有。</p><p>月光说最初小北还不如猫，结果上来最初小北都比猫玩的好，然后愣是按在替补席。月光说笑影训练赛乱杀，结果久诚全方位碾压笑影，然后连着首发笑影。这两人开打前两天才跟了一点训练赛，除了离谱没话可说。</p><p>抛开其余谈今天发挥，一诺今天打的就离谱，射手狄仁杰公孙离掉点送对面大节奏，狄仁杰被阿骨朵的一留住导致进攻被打断，他要是少掉点两次那局赢的机会很大，公孙离更是被抓到差点导致被零封。狄仁杰掉了两波就过度保守了，闪现憋在手里给不上输出，本来之前猫在的时候稳一点了，换个辅助又上头了？？</p><p>初晨状态好一点了，打野前期有出来做事而不是隐身刷到十分钟，但镜那局被马超戳死也不点链子看不懂。久诚一如既往的强并且他的奕星比笑影更精准，几次小框能框住c位，前两场就上他可能就不用打卡位赛了。最初的盾山是有失误的，如果他中路没选择开团，或者交闪开成功，经济差不被拉大，关羽几次绕后就有机会翻盘。其余的鲁大玩的很好，总体来看大于等于小北，应该是太久没打比赛心态怂了点。啊泽关羽的精髓绕后确实很猛，如果不是经济差太大就拉回来了。其余坦边都发挥出色，马超暂时看来比较一般，不过那局阵容太差确实没有环境，如果之后能拿出可以再看。</p><p>这次比赛解放了很多新体系，两把战边加阿骨朵，虽然效果没有打出来，但这个尝试不是坏事，求求月光做个正常人吧，做尝试也不是瞎拿阵容的原因，拿大乔也要配点大乔体系的东西吧，马超怎么能塞进去的，强行战边也不是这么玩的。</p>  
+Fire狐久的回答<br><br><p><b>以普遍理性而论，如果今天是笑影+Cat，那TTG早就赢了。</b></p><p>先不谈久诚，先说最初，最初是一个很有思路的选手。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-adf77d6c407cec7960acced792a0d567_720w.jpg" data-caption data-size="normal" data-rawwidth="412" data-rawheight="434" data-default-watermark-src="https://pic1.zhimg.com/v2-045ca1b64f6624459c4a03c44ef69ce3_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p>所谓没有对比就没有伤害，但是如果此时是猫神用鲁班大师，极大概率不会出辉月，但是最初却出了，而出了辉月的鲁班大师无论是在开团还是在团战中，都能保证自己的容错率，规避致命爆发和控制。</p><p>尤其是作为一个功能性辅助，<b>功能性不仅限于开团</b>，后续一技能的控制和二技能的保人一样是在团战中十分关键的技能，用金身保证自己的容错率，不消耗队伍资源的情况下确保队伍在团战后依旧有拉扯能力，是最初与猫神的区别。</p><p><b>久诚对比笑影，是思路上的不同。</b></p><p>笑影跟一诺的配合可以追逐到老帅退役，这段时间AG的打法基本以一诺为核心，所谓<b>成也一诺，败也一诺</b>，过度打中射辅的组合而不去打上中野的配合，极大程度上限制了AG的打法。</p><p>而久诚可不一样，在第三局很少支援下路，尤其是以上班地区为主，看住对面九尾的弈星，让初晨有更良好的发育环境，<b>再加上基本上局局输出过40%</b>，对比笑影来说，久诚视角无疑更高。</p><p>相比AG，TTG第二局九尾的周瑜太过于离谱了，AG几波攻势基本上都会截断于周瑜的火，<b>40多分钟的局才死了一次</b>，足以说明九尾的自保和走位有多么离谱，如果说第二局九尾不用周瑜，在最初+久诚的配合面前，胜负真不好说。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-640a52d1adb86b2b5e8c79b508282c02_1440w.jpg" data-caption data-size="normal" data-rawwidth="2138" data-rawheight="370" data-default-watermark-src="https://pic1.zhimg.com/v2-e6350a5b380cbe2671b7d04a6b5c5cda_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-640a52d1adb86b2b5e8c79b508282c02_r.jpg" referrerpolicy="no-referrer"></figure><p>最后是月光的BP，我做BP都没这么迷，对面兰陵王、关羽就是来counter你转线的，你还选马超作为一个输出点，经济分配暂且不论，游走能力必然大打折扣。</p><p><b>再者就是用老夫子的是初晨，决策大失败，一诺用赵云，失败中的失败，最后阿泽马超用了三次，一次没赢过。</b></p><p>除了久诚的王昭君稍微正常，全局关注点就在清清是怎么乱杀，没输出，没前排，我压根不知道怎么打，王者低星阵容面对2300分阵容...</p><p>三字，<b>被乱杀</b>。</p><p>总体而言TTG还是稳，思路十分成熟，进退都有章法，AG重新让久诚+罪初的组合上场后，整体的变化还是明显的，对比笑影+猫神的组合，基本上是天差地别。</p><p>以上。</p>  
 </div>
             
