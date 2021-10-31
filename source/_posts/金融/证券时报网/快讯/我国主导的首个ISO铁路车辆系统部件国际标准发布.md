@@ -5,11 +5,11 @@ categories:
  - 金融
  - 证券时报网
  - 快讯
-headimg: 'https://picsum.photos/400/300?random=672'
+headimg: 'https://picsum.photos/400/300?random=8670'
 author: 证券时报网
 comments: false
 date: Sun, 31 Oct 2021 09:42:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=672'
+thumbnail: 'https://picsum.photos/400/300?random=8670'
 ---
 
 <div>   
