@@ -1,0 +1,18 @@
+
+---
+title: '把Osmosis上的币转到交易所'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/0eb3ef84-b788-49a6-b204-ae96fe964642.png'
+author: Matters
+comments: false
+date: Fri, 29 Oct 2021 19:12:05 GMT
+thumbnail: 'https://assets.matters.news/embed/0eb3ef84-b788-49a6-b204-ae96fe964642.png'
+---
+
+<div>   
+<p>这几天因为Likecoin上了Osmosis的swap，小伙伴们开始捣鼓通过Osmosis把LIKE换成其他Cosmos生态上的币(如果不知道怎么通过Osmosis交易LIKE，可以参考这篇文章: <a href="https://matters.news/@ericet/%E9%80%9A%E8%BF%87osmosis%E4%BA%A4%E6%98%93like-bafyreiar6t33hcezqmhlry2o66hzrpopzd4fqa5xfpkxkecwsdxmjibana" target="_blank" class="keychainify-checked">通过Osmosis交易LIKE</a>)</p><p>换成Cosmos上其他的币后，最常被问的问题是，怎么把币转到交易所去？</p><p>Osmosis上支持很多Cosmos上的币，比如ATOM, UST, LUNA, AKT, LIKE等等</p><figure class="image"><img src="https://assets.matters.news/embed/0eb3ef84-b788-49a6-b204-ae96fe964642.png" data-asset-id="0eb3ef84-b788-49a6-b204-ae96fe964642" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>但是大交易所并不都支持这些币，所以如果你要把LIKE换成其他的币，建议换成ATOM或者LUNA，因为这2个币火币，币安这些大型的交易所都支持，尤其ATOM</p><p>这里要特别说明一下，</p><p><strong>Osmosis上的UST不是USDT</strong></p><p><strong>Osmosis上的UST不是USDT</strong></p><p><strong>Osmosis上的UST不是USDT</strong></p><p>UST只是Luna上的稳定币，和USDT没啥关系，所以不要尝试把UST充值到交易所上的USDT</p><p>ATOM和LUNA的充值方式一样，所以这里就拿ATOM做个例子</p><h2>怎么把ATOM转去交易所？</h2><hr><h3>1. 把Osmosis上的ATOM转到自己Cosmos网络的钱包上</h3><p>如果你已经<a href="https://matters.news/@ericet/%E9%80%9A%E8%BF%87osmosis%E4%BA%A4%E6%98%93like-bafyreiar6t33hcezqmhlry2o66hzrpopzd4fqa5xfpkxkecwsdxmjibana" target="_blank">通过Osmosis交易LIKE</a>换成ATOM，到Assets页面（<a href="https://app.osmosis.zone/assets" target="_blank" class="keychainify-checked">https://app.osmosis.zone/assets</a> ), 点击“Withdraw"</p><figure class="image"><img src="https://assets.matters.news/embed/4817d1b5-e183-4244-a516-b788badab8f6.png" data-asset-id="4817d1b5-e183-4244-a516-b788badab8f6" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>输入你要提取的数量后，点击Withdraw</p><figure class="image"><img src="https://assets.matters.news/embed/b54b14c8-ce52-40cc-a279-c2f957321477.png" data-asset-id="b54b14c8-ce52-40cc-a279-c2f957321477" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>Keplr插件会跳出窗口，让你确认交易。Osmo网络有个优点是，交易速度选择慢或者中等是不需要手续费的。</p><figure class="image"><img src="https://assets.matters.news/embed/4d7d0a90-3236-4300-9b45-1fc77555292a.png" data-asset-id="4d7d0a90-3236-4300-9b45-1fc77555292a" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>过几分钟左右，在Keplr插件上选择Cosmos网络你就可以看到ATOM被提取到你的Cosmos钱包上了</p><figure class="image"><img src="https://assets.matters.news/embed/213a907d-b4c6-44ca-97a0-92c9aa71d427.png" data-asset-id="213a907d-b4c6-44ca-97a0-92c9aa71d427" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><h3>2. 通过Keplr转ATOM去交易所</h3><p>登陆交易所，找到ATOM的充值地址。这是我的火币ATOM充值地址:</p><figure class="image"><img src="https://assets.matters.news/embed/ccc80028-9e5c-40ee-a2a8-327c095bc42c.jpeg" data-asset-id="ccc80028-9e5c-40ee-a2a8-327c095bc42c" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>复制充值地址。打开Keplr插件，把充值地址复制到Recipient那一栏，输入转账的金额。Fee这一个可以选择Low，降低一下费用</p><figure class="image"><img src="https://assets.matters.news/embed/1687dca2-61e0-4efc-b464-74a987367bbc.png" data-asset-id="1687dca2-61e0-4efc-b464-74a987367bbc" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>填完就可以发送了。</p><p>注：<strong>第一次操作不熟悉的话，可以先尝试转0.01 ATOM（火币上最低充值金额)，顺利到账后再转大额的</strong></p><p>等待ATOM充值到交易所你就可以把ATOM换成其他你想要的代币了</p>  
+</div>
+            
