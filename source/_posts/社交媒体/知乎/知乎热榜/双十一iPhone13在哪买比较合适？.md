@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-48312ebed422b70d1e4771290babd836_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-c6bbda2e1483a86c9ebd12d13d7e9ad6_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 31 Oct 2021 02:55:09 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-48312ebed422b70d1e4771290babd836_1440w.jpg'
+date: Sun, 31 Oct 2021 02:27:52 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-c6bbda2e1483a86c9ebd12d13d7e9ad6_1440w.jpg'
 ---
 
 <div>   
-月白的回答<br><br><p>无论是京东还是淘宝天猫又或者苹果官网，都非常合适。因为都非常安全！</p><p>线下结论，淘宝最为合适！</p><p>京东的优势是，购货快，到货快，那种今天你买，明天就到的感觉，真的巨爽！</p><p>淘宝的优势是，可以售后，相对而已更为安全。支持免息付款，12期，就更为“省钱”。</p><p>官网的话就更为安全！但是发货真的不能苟同。我六月底买的苹果12，七月底才到手……九月出新机，我觉得我巨亏！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-48312ebed422b70d1e4771290babd836_1440w.jpg" data-rawwidth="1024" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-97f3a025411d8130d415a8f730c1886a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-48312ebed422b70d1e4771290babd836_r.jpg" referrerpolicy="no-referrer"></figure><p>但是我最推荐用淘宝88vip购买！因为价格最优惠！而且可以售后！而且还可以免息！而且发货也完全可以！</p><p></p>  
+希刺克厉夫的回答<br><br><p>十三香在哪买？首先要选择正规的平台，比如大家公认的有保障的京东和淘宝的旗舰店或者自营店，但是我最推荐用淘宝88vip购买！</p><p>红包先领起来，说不定就成了锦鲤！</p><p>只要开通88vip便可以领取满6800立减600元优惠券，说实话，就算你不买iPhone13，在双十一这个购物狂欢节也要买个会员啊，绝对是购买东西最优选择！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c6bbda2e1483a86c9ebd12d13d7e9ad6_1440w.jpg" data-rawwidth="829" data-rawheight="784" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-39fef288db58b0d993ca47169ee8773a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c6bbda2e1483a86c9ebd12d13d7e9ad6_r.jpg" referrerpolicy="no-referrer"></figure><p>十三香确实香，iPhone13加量还减价，打<a href="https://www.zhihu.com/search?q=%E4%BB%B7%E6%A0%BC%E6%88%98&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2137006334%7D" class="internal">价格战</a>的苹果谁顶得住啊！想入手的朋友们一定要先领券再购买，一机难求啊，抓紧抢购吧，别忘了领个红包！每天三次！万一中大奖就6666了！</p><p>淘宝活动一定要开通88vip：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-29ea7c1c7ba8ba252899e23a2bbfefcd_1440w.jpg" data-rawwidth="440" data-rawheight="536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-46cdebc018eefe19eabfbbf4a2e58e00_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-29ea7c1c7ba8ba252899e23a2bbfefcd_r.jpg" referrerpolicy="no-referrer"></figure><p>更多好物：</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/486435033/answer/2154811185" class="internal">2021年双十一，有哪些值得买的东西？</a><p></p>  
 </div>
             
