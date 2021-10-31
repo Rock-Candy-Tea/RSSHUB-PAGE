@@ -1,0 +1,19 @@
+
+---
+title: '​纽约网红女议员虽将FB比作_癌症_，但却在上面花费了数百万美元'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1031/6b73f9c48477b4f.png'
+author: cnBeta
+comments: false
+date: Sun, 31 Oct 2021 01:06:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1031/6b73f9c48477b4f.png'
+---
+
+<div>   
+纽约女议员Alexandria Ocasio-Cortez（以下简称AOC）周二因一条火热的推文而成为头条新闻，这是对Facebook更名的消息的回应。Facebook更名代表着这家社交网络公司形象的一次重大重塑。名字由Facebook改成了Meta。<br>
+ 这是该公司CEO马克·扎克伯格希望围绕“元(Meta)”的概念对公司进行重新定位的结果。但国会中最一贯反对Facebook的政客之一AOC却对此不以为然。她在Twitter上发文写道：“元”，就像‘我们是民主的毒瘤，正在转移到一个全球监视和宣传机器，用于促进专制政权和破坏公民社会......以获取利润！’”<p style="text-align: left;">然而，她的推文没有说清楚的是，这位女议员的竞选活动在很大程度上增加了她所抨击的Facebook的盈利机器。事实上，Facebook的广告库显示，AOC在该公司的各项服务中花费了数百万美元的广告。其中包括她在其发推文将该公司比作癌症的前一天开始在Facebook和Instagram上进行的新AOC筹款宣传。</p><p style="text-align: left;"><strong>AOC的Facebook广告</strong></p><p style="text-align: left;">“开展这样的竞选活动需要巨大的资源，我们必须达到我们的筹款目标以继续这些努力。如果你有能力支持我们正在建立的这场运动，你今天能不能凑够3美元？”一则由AOC国会竞选团队支付的广告这样写道。它于10月27日开始在Facebook和Instagram上运行。</p><p style="text-align: left;">根据Facebook的记录，AOC团队在27个广告变体上花费了20万至29.9万美元。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1031/6b73f9c48477b4f.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/6b73f9c48477b4f.png" alt="01.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这是不是很虚伪？这是否反映了Facebook是一种无孔不入的力量，以至于一个好的政治家也无法抗拒跟它的合作？当然，答案取决于你问谁。</p><p style="text-align: left;">前Buzzfeed编辑Tom Gara现在在Facebook工作，他在Twitter上回应了关于这个问题的对话，“显然，我对AOC使用FB寻找捐赠者和组织/信息等很满意！我认为这样做很奇怪，**说它是破坏民主的癌症。”</p><p style="text-align: left;">参与同一Twitter讨论的还有作家Zeynep Tufekci。她说，AOC所做的事情更像是那些明白汽车对环境是一个长期净负值的人，但他们也意识到，在这个国家的某些地方是必须要有汽车。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1031/d2501ce0fb52350.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/d2501ce0fb52350.png" alt="02.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>对科技巨头公司实施监管的更多支持者</strong></p><p style="text-align: left;">AOC对Facebook的批评在这一年里确实在不断地增加。其中包括在1月6日美国国会大厦的袭击事件之后，她部分地指责了Facebook和扎克伯格本人。</p><p style="text-align: left;">即便如此，尽管她像这样使用Facebook的工具已经有一段时间了，她并不是唯一的。国会中也有一些Facebook的批评者，但他们还是利用该公司的产品来赢得选举。并且他们在一定程度上依靠这些产品来继续任职。</p><p style="text-align: left;">比如有争议的佐治亚州共和党女议员Marjorie Taylor Greene将Facebook等大科技公司描述为“硅谷卡特尔”。另外她还放大了在右翼人士中经常流行的攻击路线--说Facebook从事反保守主义的偏见。据报道，除了跟丈夫一起持有Facebook的股票外，《商业内幕》报道称，Greene在2021年迄今为止（至少到8月）在Facebook的广告上花费了45434美元。阿肯色州共和党参议员Tom Cotton则是另一位大科技公司的批评者。据报道，他的竞选团队在第二季度在Facebook上花费了近6.5万美元的广告费。</p><p style="text-align: left;"><strong>Facebook更名</strong></p><p style="text-align: left;">还有其他例子，包括德克萨斯州共和党议员Dan Crenshaw。他同样也在哀叹科技审查制度，但今年却在Facebook上花了超过10.3万美元的广告。</p><p style="text-align: left;">毫不奇怪，这位纽约女议员在Facebook宣布改名后将其比作癌症得到了极大的关注和报道。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1031/ccd62f52d3d83ed.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/ccd62f52d3d83ed.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1031/8ba187de58bb1ae.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/8ba187de58bb1ae.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1031/7b08635fc438fd5.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/7b08635fc438fd5.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2021/1031/8a88dced16e1717.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1031/8a88dced16e1717.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
