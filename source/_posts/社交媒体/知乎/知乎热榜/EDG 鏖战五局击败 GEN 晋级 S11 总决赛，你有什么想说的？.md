@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5705'
+headimg: 'https://pic2.zhimg.com/v2-5a444ee879c09447ce98afe2e1cb7a45_1440w.jpg'
 author: 知乎
 comments: false
-date: Sun, 31 Oct 2021 17:24:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5705'
+date: Sun, 31 Oct 2021 17:05:53 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-5a444ee879c09447ce98afe2e1cb7a45_1440w.jpg'
 ---
 
 <div>   
-尹天的回答<br><br><p>不破不立，恭喜EDG进入决赛！</p><p>又是熟悉的发条洛，又是熟悉的中路靠右，但这次，赢下比赛的是EDG！</p><p>曾经亲手输掉的东西，现在我要亲手赢回来！</p><p>第五局堪称完美的表现，从第四场开始的BP觉醒，EDG这个队伍终于回应了一次期待，他们做到了，LPL的一号种子最终成功和LCK会师决赛！</p><p>你敢放皇子我就敢拿，我打的不好我就一定会打回来，Jiejie最终用MVP证明了自己，百分百参团率收官BO5，皇子就是能赢！</p><p>这么多天看的最热血的一场比赛，真的，再度恭喜EDG，太不容易了。</p><hr><p>EDG这个BO5让我印象最深刻的点，是他们完成了进化，以自己的方式。</p><p>第五场是我这段时间以来，看的最爽的一局。LPL终于打出了一场决策执行几乎完美的比赛，还是在压力最大的一场。但实话实说，可能大多数观众都没想过，EDG能打出这种比赛，特别是在看完前三局以后。</p><p>EDG在前三局让大家有多揪心，他们后两局就打的有多好。他们很快的完成了BP调整，针对的ban掉了盲僧，并且立刻上调中单优先级，抢能够做事的中单英雄并且尽量给到对手一个更加被动的中单，在最后一局对面抢洛的情况下对拿烬，可以说前几局的BP问题最后全部予以调整。</p><p>但我想说的重点不是调整，而是坚持。</p><p>Jiejie这一场五局皇子，对面敢放他就敢拿，而且实事求是的说，他前几局的皇子有给机会，包括鲁莽的开团和队友脱节，或是节奏被Clid的盲僧压制。结果他到了悬崖边上的第四局，到了压力巨大的第五局，他还是继续皇子。</p><p>真的，如果第四局或者第五局输了，他要背负的舆论压力，是可以想象到的如山海般的狂潮，就如同当年三把卢锡安一样，五把皇子肯定会被喷到退役，尤其是那个先锋团的EQ。但是很明显他没有考虑这些，或者说，他顶住了这些。</p><p>对于一个第一次登上世界赛舞台的年轻选手来说，这真的特别不容易。</p><p>五局皇子，从真的上去送死，到最终的有死无生、向死而生，他完成了成长，和EDG一起。</p><p>另外一定要说的，是中单。Scout第四局拿出佐伊，给我的感觉就像昨天ShowMaker拿出妖姬一样。一个顶级的中单选手一定要敢于在队伍需要自己的时候，站出来，拿到球，然后把球投进去。在前期，F6的防守成功以后，全场再也没人能够阻挡Scout，第三局维克托亲手送的，第四局自己亲手打回来。</p><p>敢于承担，也能够承担，这是我对顶级中单的期许，也是对今晚Scout的评价。</p><p>其实今晚的EDG还有很多可以说，Meiko从第一场以后，就是全场最稳定的一个人；Viper最后一局烬完成了自保，规避掉了GEN无数次开团；圣枪哥是今天最不稳定的一个，但是最后一局在被单杀以后还敢继续男枪对鳄鱼，挺不容易的，希望他这一周努力稳定一些。</p><p>赛前，我的判断是EDG这一场64开，感谢EDG回应了期待，虽然这队伍真的很少回应期待，但这一次回应了就够了。</p><p>恭喜EDG进入决赛，LPL1号种子最终还是走到了最后，最后一局让我看的非常爽，想必大家也是。整个S赛看到今天，今晚应该是能睡的最安稳的了。</p><p>我应该是睡不安稳了哈哈哈，昨天DK和T1的比赛复盘写了八千字，结果现在EDG打完，我今夜想插班先写完EDG的。。。</p>  
+EDG电子竞技俱乐部的回答<br><br><p>2021英雄联盟全球总决赛·半决赛</p><p>EDG 3:2 Gen.G 不破不立，EDG晋级决赛！</p><p>本场比赛，由EDG取得胜利，MVP给到百分百参团的Jiejie选手！<br></p><p>[04:00] EDG中野连续两波进攻，顺利击杀中路拿下一血；</p><p>[12:00] EDG抓住走位失误的赵信，将其击杀后拿下小龙；</p><p>[14:00] EDG下路主动越塔进攻打出1换2，推掉下一塔；</p><p>[15:00] EDG跑图速度更胜一筹，击杀鳄鱼并且没让对方拿到先锋；</p><p>[23:00] 小龙团战，EDG拿下小龙后通过更强的战力团灭对手，拿下大龙；</p><p>[28:00] EDG拉扯优秀，顺利击杀对方三人，拿下风龙魂；</p><p>[30:00] EDG击杀赵信后顺利拿下大龙，推下中路高地；</p><p>[31:00] EDG中路推进，一波结束比赛！我们进决赛啦！！！！！！</p><p><br></p><p>鏖战五局，恭喜银龙骑士们取得最终的胜利！未来就在眼前，成功近在咫尺，我们仍在前进！让我们一同，打破质疑，踏碎高墙，不破！不立！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-5a444ee879c09447ce98afe2e1cb7a45_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic2.zhimg.com/v2-fbc9ef69e5d4fbb7f15c367abc9a4b6a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-5a444ee879c09447ce98afe2e1cb7a45_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-903018c8d90d596b406904acbb5de6db_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic2.zhimg.com/v2-9d63eeb49035b224a20299bdd486a892_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-903018c8d90d596b406904acbb5de6db_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
