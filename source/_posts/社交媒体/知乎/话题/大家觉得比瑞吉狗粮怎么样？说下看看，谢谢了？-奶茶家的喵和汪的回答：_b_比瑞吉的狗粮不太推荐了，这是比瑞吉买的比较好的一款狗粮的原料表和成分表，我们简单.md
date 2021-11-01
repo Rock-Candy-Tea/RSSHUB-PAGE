@@ -1,0 +1,18 @@
+
+---
+title: '大家觉得比瑞吉狗粮怎么样？说下看看，谢谢了？-奶茶家的喵和汪的回答：_b_比瑞吉的狗粮不太推荐了，这是比瑞吉买的比较好的一款狗粮的原料表和成分表，我们简单...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-ba0b2554e079576e1d967597268c98c4_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Mon, 01 Nov 2021 09:56:48 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-ba0b2554e079576e1d967597268c98c4_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>大家觉得比瑞吉狗粮怎么样？说下看看，谢谢了？</strong><br>奶茶家的喵和汪的回答<br><p><b>比瑞吉的狗粮不太推荐了，这是比瑞吉买的比较好的一款狗粮的原料表和成分表，我们简单解读一下。</b></p><blockquote>作为一个狗粮大品牌，原料含量不明确<br>钙磷含量过低，钙磷比失衡<br>缺少Omega-3/Omega6<br>淀粉含量高，吃完粑粑很臭，而且泪痕很严重<br><br><br></blockquote><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-ba0b2554e079576e1d967597268c98c4_720w.jpg?source=54b3c3a5" data-rawwidth="331" data-rawheight="497" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/50/v2-7a815227286cf0334f02025f7983be76_720w.jpg?source=54b3c3a5" class="content_image lazy" data-actualsrc="https://pic2.zhimg.com/50/v2-ba0b2554e079576e1d967597268c98c4_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br><b>总结：</b>比瑞吉一直想打中高端品牌的flag，但是配方和研发这块真的没下功夫，甚至有点敷衍，只能说是一款符合国家规定的合法合规的狗粮，然后就没有其他东西了......<br> <br><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/50/v2-cff028e900bbf0be9ac79de113cca0dd_720w.jpg?source=54b3c3a5" data-rawwidth="755" data-rawheight="212" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/50/v2-f4bff8e9509f93228e283a87e4990793_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic4.zhimg.com/v2-cff028e900bbf0be9ac79de113cca0dd_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic4.zhimg.com/50/v2-cff028e900bbf0be9ac79de113cca0dd_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br> <br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-9586bdea496ad0a9194166e83e0a9a24_720w.jpg?source=54b3c3a5" data-rawwidth="730" data-rawheight="897" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ad897f8c15a6dafe65f03197f5f85416_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-9586bdea496ad0a9194166e83e0a9a24_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-9586bdea496ad0a9194166e83e0a9a24_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"><figcaption>图片来自该品牌京东详情页</figcaption></figure><blockquote>2021双十一已开启，购买之前，先领个红包吧，据说有人开出来了 ￥6666，所有商品通用~</blockquote><p><br></p><p><br><u>国产狗粮里比乐、豆柴、蓝氏的性价比都很不错啊，品质也好，营养均衡全面，甚至比一些入门进口粮还好，大家可以买来试试看的，我一直买的就是这几个品牌。</u><br><br><b>豆柴冻干三拼</b><br><br><br></p><p><br>冻干很多，主要的肉源是进口的，20多块钱一斤的狗粮里面算是不可多得，怪不得被称为国产之光。蛋白质含量34，脂肪含量14，高蛋白低脂肪，有利于狗狗的身体健康。<br><br><b>比乐鸭肉梨</b><br><br><br></p><p><br>国产爱肯拿，狗粮届的一股清流，清热下火，泪痕重的话选它就对了，温和低敏，是一款清淡的狗粮，肠胃脆弱的狗狗很推荐买这个。<br><br><b>蓝氏鸡肉配方含三文鱼鳕鱼金枪鱼</b><br><br><br></p><p><br>原料成分透明，很懂消费者，知名度不高，但是是在认认真真做狗粮的一个品牌，含肉量高，适口性很高，挑食的狗子赶紧试试看。<br><br>以上几款就是奶茶的狗子吃过的狗粮了，为了防止狗狗厌食，可以一年左右换一次，如果不知道怎么选高性价比的狗粮的话，可以看看我这篇文章。<br><br><br></p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/406169482" data-image="https://pic1.zhimg.com/v2-8b18d18c224979e8826d72f407e8a8b3_720w.jpg?source=54b3c3a5" data-entity-type="article" class="internal">狗粮什么牌子好？狗粮什么价位的好？高性价比狗粮推荐（国产+进口）</a><p>我是 <a class="member_mention" href="https://www.zhihu.com/people/c29bed28a7940244aaf4fc14848d9758" data-hash="c29bed28a7940244aaf4fc14848d9758" data-hovercard="p$b$c29bed28a7940244aaf4fc14848d9758">@奶茶家的喵和汪</a>，猫狗双全，90后养宠分享官，提供科学养宠经验，省钱少走弯路，欢迎各位铲屎官互动交流~~~</p>  
+</div>
+            

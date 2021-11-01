@@ -8,7 +8,7 @@ categories:
 headimg: 'https://tva1.sinaimg.cn/large/008i3skNly1gvmz79u5rlj61dr0h476m02.jpg'
 author: Dockone
 comments: false
-date: 2021-11-01 09:09:07
+date: 2021-11-01 10:08:58
 thumbnail: 'https://tva1.sinaimg.cn/large/008i3skNly1gvmz79u5rlj61dr0h476m02.jpg'
 ---
 
@@ -65,7 +65,8 @@ curl -d '&#123;&quot;secret_key&quot;:&quot;6GvowlHX&quot;&#125;' -H &quot;Conte
 <br><blockquote><br>端口其实也是一种重要的资源，同个操作系统下，端口的占用是不可以冲突的。这个问题在大规模微服务组件部署时显得尤为突出。Rainbond 这一点做的很好，每个微服务不会直接占用服务器端口，我们的开发人员可以更自由的定义组件监听了。</blockquote><ul><li>开发人员权限管理</li></ul><br>
 <br><blockquote><br>真实的业务场景下，软件系统本身的问题并非都由运维人员处理，更多的情况下需要开发者本人排查和处理。而权限管理则要求开发人员尽可能不具备登录生产服务器的权限。这就导致了一个两难的问题，快速解决问题还是严格管控权限？这是开发人员和运维人员容易产生冲突的点。引入 Rainbond 之后，这个问题得到了很好的解决，开发人员的所有操作都是在 Rainbond 管理界面进行的，即使需要通过命令行排查问题，也可以通过 Web 控制台登录容器环境，而不是宿主机服务器。目前，我们已经形成了应用开发人员基于 Rainbond 运维自己开发微服务组件的模式。</blockquote><ul><li>应用版本回滚</li></ul><br>
 <br><blockquote><br>传统模式下，微服务组件的部署有多复杂，那么回滚到上一个版本就只会更复杂。Rainbond 这款产品非常贴心的提供了服务组件级别的一键回滚，管理人员可以在版本列表之中随意选择需要的版本，进行一键回滚，这真的太方便了。</blockquote><h3>6.写在最后</h3>和使用其他产品一样，深入使用 Rainbond 也是需要一些磨合过程的。令我印象深刻的一个情况，是 Rainbond 使用的 Glusterfs 分布式文件系统，在经过很长一段时间的使用之后，存储容量被用尽，导致了一系列问题。我们的运维人员缺少对 Glusterfs 的了解，对 Rainbond 如何与 Glusterfs 相互作用更是一知半解。无奈之下求助官方，出乎意料的是官方的工程师非常热心的支持我们解决了问题，并贴心的留下了操作文档。<br>
-<br>我对 Rainbond 最大的感触是其易用性做的很好。希望 Rainbond 团队可以将这一点贯彻到底，提供更多能够解决实际问题的实用特性。我们了解到Rainbond的Service Mesh下一步可以支持istio，下一阶段我们打算尝试一下。
+<br>我对 Rainbond 最大的感触是其易用性做的很好。希望 Rainbond 团队可以将这一点贯彻到底，提供更多能够解决实际问题的实用特性。我们了解到Rainbond的Service Mesh下一步可以支持istio，下一阶段我们打算尝试一下。<br>
+<br><img src="https://static.goodrain.com/rainbond_news.gif" alt="gif" referrerpolicy="no-referrer">
                                 
                                                               
 </div>

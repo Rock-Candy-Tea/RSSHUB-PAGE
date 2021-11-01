@@ -1,0 +1,22 @@
+
+---
+title: 'PC
+《小魔女諾貝塔》釋出主角聲優「小原好美」訪談：喜歡諾貝塔和黑貓的互動
+ 5 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/55/728a9d6ec94a143733bbbc55741e72b5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/55/728a9d6ec94a143733bbbc55741e72b5.JPG'
+---
+
+<div>   
+台灣獨立遊戲團隊 Pupuya Games 與發行商希萌創意今日公開《小魔女諾貝塔（Little Witch Nobeta）》聲優小原好美訪談，帶領玩家了解她在為主角諾貝塔配音時的心情等。 《小魔女諾貝塔》是一款 3D 動作冒險遊...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/55/728a9d6ec94a143733bbbc55741e72b5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
