@@ -1,0 +1,18 @@
+
+---
+title: '雜記│關於虛擬貨幣like coin與老媽的對話'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/04e9ff4a-c454-4795-bd8c-bd7622f5c858.jpeg'
+author: Matters
+comments: false
+date: Mon, 01 Nov 2021 04:01:05 GMT
+thumbnail: 'https://assets.matters.news/embed/04e9ff4a-c454-4795-bd8c-bd7622f5c858.jpeg'
+---
+
+<div>   
+<p>加入馬特市之前我其實就大略知道讚賞公民跟like coin，不過之前沒有課金，只是實驗性的註冊了帳號，然後把讚賞鍵放在痞客邦，想說沒魚蝦也好，多放那個按鍵給路人按按，幾年後搞不好是一個幾百塊的小確幸?因為我寫文章當興趣，沒有想過可以賺到什麼錢，試看看也無妨。</p><p>事實證明這件事實現不了，我是指靠痞客邦放讚賞鍵的話很難達成啦!一方面是我的流量不夠，另一方面是我覺得我的文章受眾比較多是進來逛逛的路人(因為我都是寫一些影視文章觀後感)。</p><p>反而是來馬特市之後like coin增長速度快多了，這個本來讓我興趣缺缺的東東居然開始長大了!?既然真的有明顯增長，那就好好研究一下怎麼回事好了，研究之餘也加入了讚賞公民。一開始的帳號是延續痞客邦的風格創立了<a class="mention" href="https://matters.news/@lionly9" target="_blank" data-display-name="人類觀察家●戲如人生" data-user-name="lionly9" data-id="VXNlcjo2NzE4OA">﻿<span>@人類觀察家●戲如人生</span>﻿</a> ，然後為了區別文章性質又創了現在這個帳號，可以很明顯的感受到比較活躍的（發文頻率）帳號互動性高很多(廢話，而且生活類型的文章也比較多人看以及回覆，反而是現在另一個帳號要荒廢了(咦，我還是有在更新啦，只是寫文速度慢一點，<s>這點也是延續痞客邦的風格</s>😂。</p><h2>與媽媽的對話</h2><p>先說說昨天下午與媽媽的對話好了</p><p><strong>我</strong>：你還記得我之前跟你說那個寫文章可以賺錢的地方嗎?可以賺虛擬貨幣的(拿出我的手機打開like coin的錢包給他看)</p><p><strong>老媽</strong>：(看了一眼)怎麼了嗎?</p><p><strong>我</strong>：他最近匯率漲很多耶!這樣我就有OO元了~</p><p><strong>老媽</strong>：你還是拿到真錢再說吧！那些都不知道是不是真的。看你弟弟玩遊戲賣道具至少還真的賣到台幣。</p><p><strong>我</strong>：(開始跟他解釋虛擬貨幣)長篇大論ing</p><p>媽媽興致缺缺的用一種我又在玩什麼奇怪的軟體的表情看著我。其實剛來馬特市不久我就跟她推薦過這裡，因為她以前也很愛寫一些生活文，辦過無名小站也用過痞客邦，想說這個好地方怎麼能不推薦給她呢?但是她對我的提議沒有太大的興趣，大概是因為她現在不太寫文了吧！</p><p>不過我想說的另一個很有趣的點是像她這樣對虛擬貨幣不感興趣而且存在很多質疑的人才是我生活中一般人的寫照，本來我也是其中一個，總覺得虛擬貨幣離我很遙遠，在這之前我知道的也只有比特幣而已。畢竟看不見摸不著的東西，對多數人來說大概很沒安全感吧！</p><p>我想要存到一筆金額(至少5000元之類的)之後換成台幣再跟老媽推銷一番，看她會不會考慮進駐馬特市!</p><p>祝我成功XD</p><h2>小小的研究報告</h2><p>順便做一個期中報告好了，我大概是九月中旬加入馬特市，目前兩個帳號都有綠圈圈(一個不能偏心的概念😂)，雖然收入不比馬特市高手們那麼厲害，但...就當作是一個自我檢討報告好了(<s>打預防針？</s></p><blockquote><strong>帳號：<a class="mention" href="https://matters.news/@lionly24" target="_blank" data-display-name="生活觀察家" data-user-name="lionly24" data-id="VXNlcjo2NzQxMg">﻿<span>@生活觀察家</span>﻿</a>  文章類型：生活隨筆</strong></blockquote><figure class="image"><img src="https://assets.matters.news/embed/04e9ff4a-c454-4795-bd8c-bd7622f5c858.jpeg" data-asset-id="04e9ff4a-c454-4795-bd8c-bd7622f5c858" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>加入馬特市六週大概獲得1500左右的like coin，後來有大概抓到寫文的感覺，不然前一二週實在不知道要發什麼文，一種漸漸熟悉當地(馬特市)文化的感覺，本來覺得自己沒辦法寫長文的，沒想到寫著寫著話就多了起來，內心是個小話嘮呢!<s>(本人沒有那麼愛講話XD)</s></p><p>而熟悉這裡的方式主要是在這期間多看看市民們的文章，如果看完有些話想說就留言回覆，其實這點很讓我驚訝，因為以往我在別人的文章留言是不會奢望人家回覆我的，但是在這裡互動率之高讓我好感動，而自己寫的文也會有人來看還會留言回覆，這對以前很習慣路人進來自己的文章逛逛但不太會有回覆的我感到很不可思議。</p><p><br></p><blockquote><strong>帳號：<a class="mention" href="https://matters.news/@lionly9" target="_blank" data-display-name="人類觀察家●戲如人生" data-user-name="lionly9" data-id="VXNlcjo2NzE4OA">﻿<span>@人類觀察家●戲如人生</span>﻿</a>   文章類型：影視觀影心得</strong></blockquote><figure class="image"><img src="https://assets.matters.news/embed/9ce3caef-bd3d-433f-9151-343cb0eafc1e.jpeg" data-asset-id="9ce3caef-bd3d-433f-9151-343cb0eafc1e" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>這個帳號目前累計大概是六百like coin，會少<strong>生活觀察家</strong>這個帳號很多主要是因為更文速度很慢(也很少互動)，寫這類型的文章蠻花時間的，一週可以更新一兩篇就好了，但是因為是興趣，還是會持續寫下去的!</p><p>除了直觀的like coin可以感受到兩個帳號熱度差異，還有另一個很有趣的就是"每月的數據報告"也透漏了一些訊息，影視類型的文章的收藏數比較多，生活類型的雖然讚數互動相對多一點，但是就比較不會有收藏(<s>誰要收藏你的生活文😂</s></p><p>目前暫時應該還是會維持兩個帳號的綠圈圈，看看數據蠻有趣的，也許年底還可以再發一次期末報告文也說不定。</p><p><br></p><p><em>最後說一個菜鳥笑話</em></p><p><em>我上週才發現每篇文章左下角的小眼睛跟時間原來是觀看時長，我真的是到處都查不到那個眼睛是什麼意思!後來我是自己悟出真相的，我的答案應該是對的......吧!?</em></p>  
+</div>
+            
