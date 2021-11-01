@@ -31,7 +31,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><span style="font-weight: 400;">　黄昏边境至今为止制作的还有「Super Mario Land」「MegaMari」等，除去与上海爱丽丝幻乐团共同制作的，以及其他东方二次创作游戏，也还制作了许多的2DACT游戏。</span></p>
 <p><span style="font-weight: 400;">　本次制作这样的2DACT「小数点作」，则还是第一次。</span></p>
 <p> </p>
-<p><iframe title="【東方プレイ動画】東方剛欲異聞　～ 水没した沈愁地獄 β体験版0.01　プレイ動画" width="640" height="360" src="https://www.youtube.com/embed/lQmawlMDmXg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方プレイ動画】東方剛欲異聞　～ 水没した沈愁地獄 β体験版0.01　プレイ動画" width="640" height="360" src="https://www.youtube.com/embed/lQmawlMDmXg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p> </p>
 <p><span style="font-weight: 400;">　来自网页的简介</span></p>
 <table style="height: 259px;">

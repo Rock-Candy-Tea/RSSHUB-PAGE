@@ -115,9 +115,12 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p>去年大受好评的「东方NICO童祭 东方Station出差版」，今年也将举办！</p>
 <p>从参加东方NICO童祭的视频中，精选出给东方NICO童祭运营留下了深刻印象的视频！</p>
 <p>为纪念今年举办，<strong>将会将去年的「东方</strong><strong>NICO</strong><strong>童祭</strong> <strong>东方</strong><strong>Station</strong><strong>出差版」在东方</strong><strong>Station</strong><strong>的</strong><strong>Youtube</strong><strong>频道上，</strong><span style="color: #d24519;"><strong>3</strong><strong>日连续上传</strong></span><strong>！</strong></p>
-<p><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part1　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/xYJMlq8I25Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part2　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/UqF-7S9qqK8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part3　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/Iw70aKY2KVE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part1　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/xYJMlq8I25Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+<p></p><div class="youtube"><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part2　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/UqF-7S9qqK8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+<p></p><div class="youtube"><iframe title="「東方ニコ童祭　東方ステーション出張版」 Part3　（２７時間東方ステーション版）" width="640" height="360" src="https://www.youtube.com/embed/Iw70aKY2KVE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p> </p>
 <h3>【征集<strong>：截止8/7】「大家一起制作？？节目表</strong>」</h3>
 <p><span style="color: #d24519;"><strong>「想要在这个时间带直播！」</strong></span><strong>的各位，请务必参与下方的募集表格！</strong>　收到的直播内容，将<span style="color: #d24519;"><strong>记载在节目表上</strong></span>！</p>
@@ -131,7 +134,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <span style="color: #54819a;">※主要直播时间的时间会在没有任何通知的情况下更改。 </span></p>
 <p> </p>
 <h3>【征<strong>集：截止8/7】大家一起来挥动手腕吧！「百人Help me,ERINNNNNN!!视频</strong>」</h3>
-<p><iframe title="【東方ライブ】Help me, ERINNNNNN!!【ビートまりお/Flowering Night 2009】" width="640" height="360" src="https://www.youtube.com/embed/egqLZ3tv8Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方ライブ】Help me, ERINNNNNN!!【ビートまりお/Flowering Night 2009】" width="640" height="360" src="https://www.youtube.com/embed/egqLZ3tv8Fk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p>在没法举办LIVE活动・没法参加的现在，就让永琳来帮帮各位吧！<br>
 在「Help me,ERINNNNNN!!」中飞起来吧！</p>
 <p>在节目中最后唱的「Help me,ERINNNNNN!!」中，正募集想要参与进视频中的人！</p>

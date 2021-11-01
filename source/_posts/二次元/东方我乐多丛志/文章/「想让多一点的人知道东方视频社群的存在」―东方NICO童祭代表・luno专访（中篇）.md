@@ -26,7 +26,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 </blockquote>
 <p> </p>
 <h2 style="text-align: center;">东方周刊排行榜・在例大祭上扩大规模的活动</h2><p><strong>――自第2回以来，童祭也在NICONICO直播和NICONICO图片中募集参加者了。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm11724634" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm11724634?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <blockquote>
 <p><span style="font-weight: 400;">第2回作品的通知之一，内有关于在NICONICO直播上参加的说明。</span></p>
 </blockquote>
@@ -35,7 +35,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><span style="font-weight: 400;">　要办第2回的时候就想要弄的话就也正常地募集平时都在弄直播的人吧。活动期间大家一起来看视频炒高气氛，或者单独设立个活动。当时觉得难得有NICONICO直播这么一个平台，那肯定要最大化利用起来，让NICONICO的东方祭典，把NICO直播和图片都卷进来吧</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　不管哪种尝试都是全新的东西，一边试错一边推进真的很辛苦。当时在直播平台里搞这种企划的还没多少，只能自己去想规则，想企划内容</span><span style="font-weight: 400;">。</span></p>
 <p><strong>――2011年・2012年时您曾代为制作过数期东方周刊排行榜(※1)。您能谈谈这时候的经历和回忆吗。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm15596600" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm15596600?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　第一回东方NICO童祭运营的四人中，有三人是排行榜视频的制作者。</span></p>
 <p><span style="font-weight: 400;">　也因为这层关系，以前有不少人问过我「要来做东方周刊排行榜吗」。　我曾以很忙的理由拒绝过，但当时做东方周刊排行榜的秋红凉做不了视频的时候，就说如果只做几次的话就还是可以接受的，接下了这份活。</span></p>
@@ -82,16 +82,16 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><strong>――MMD的东方视频中有什么给您留下深刻记忆的吗？</strong></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　我非常喜欢3.3mm制作的『射命丸文的取材系列（射命丸 文の取材シリーズ）』す。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm13818388" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm13818388?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　我喜欢文文，这个系列剧情也特别有意思，我是这个系列的粉丝。最近，这个作品系列10周年时也在Twitter上投稿了MMD静止图</span><span style="font-weight: 400;">。</span></p>
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
 <p lang="ja" dir="ltr">おかげさまで10周年という節目を迎えることができました。<br>これも未だにこの動画を好きでいてくれる方、ここから東方に入ったという嬉しい言葉の数々、そしてモデルやステージ、エフェクトやアレンジを配布してくれる方々がいればこそです。<br>皆さま本当にありがとうございます！ <a href="https://t.co/4bc3nRPPDu">pic.twitter.com/4bc3nRPPDu</a></p>
 <p>— 3.3mm (@ExtensionSpacer) <a href="https://twitter.com/ExtensionSpacer/status/1369226787322961921?ref_src=twsrc%5Etfw">March 9, 2021</a></p></blockquote>
 <p></p>
 <p><span style="font-weight: 400;">　其他的话，ぐやもこたん的视频也有很多很棒的。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm18241078" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm18241078?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　说到有名的话就是「Paranoia!!!!」吧。我的话则对投稿在第四回东方NICO童祭的幽幽子的视频印象比较深</span><span style="font-weight: 400;">。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm24245546" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm24245546?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　用MMD制作这些东方ArrangePV给人留下印象，真的让人很感动。也因东方MMD往剧情视频的方向发展，高完成度，能给人留下印象</span><span style="font-weight: 400;">。</span></p>
 <h2 style="text-align: center;">　</h2><p>中篇就到此为止。在后篇，将会从社群的角度谈一谈NICO童祭。</p>
   

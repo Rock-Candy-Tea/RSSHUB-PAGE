@@ -15,7 +15,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <div>   
 <img src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/08/23105928/top_otohanabi_0101.png" alt referrerpolicy="no-referrer"><hr><p>8月14日发布了的，<span style="color: #c35330;"><strong>东方</strong><strong>Arrange“</strong><strong>祭典</strong><strong>“</strong><strong>Complication CD</strong><span style="color: #4e8099;"><strong>『</strong><strong>东方音焰火</strong><strong>』</strong></span></span>。</p>
 <p><span style="letter-spacing: 0.02em;">在几乎看不见有同人活动举办的现在，以COOL&CREATE的ビートまりお的<span style="color: #c35330;"><strong>「正是在这种时候，才更要点燃我们的东方爱！」</strong></span>呼声而始动的「<a href="http://cool-create.cc/arrange-daisakusen/"><strong>东方</strong><strong>Arrange</strong><strong>活性化大作战</strong></a>」。『东方音焰火』中有<strong>4枚碟、合计40曲，聚齐了总计38个东方音乐社团</strong>，毫无疑问可以说是一张祭典Complication CD了。</span></p>
-<p><iframe title="【特報】東方オトハナビ・東方ルナティックリリース【ZUNさん参戦】" width="640" height="360" src="https://www.youtube.com/embed/NAgXbqHtWdU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【特報】東方オトハナビ・東方ルナティックリリース【ZUNさん参戦】" width="640" height="360" src="https://www.youtube.com/embed/NAgXbqHtWdU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p>在参加的社团之中，<span style="color: #c35330;"><strong>「上海爱丽丝幻乐团」的ZUN先生</strong></span>竟然。也为这张『东方音焰火』<span style="color: #c35330;"><strong>撰写了一首新曲</strong></span>。</p>
 <p><strong>想要让这样的『东方音焰火』更加火起来！</strong><br>
 所以，<span style="color: #c35330;"><strong>东方我乐多丛志准备将CD中</strong></span>（除Bonus Track的『待宵晚虫（マツヨイナイトバグ）』『于幻想中绽放之花（幻想に咲いた花）』）<strong><span style="color: #c35330;">全38曲，每曲都做一个音乐点评！</span></strong>　<span style="color: #c35330;"><strong>从今天开始除</strong></span>星期天・节假日外<span style="color: #c35330;"><strong>以每日1曲1文章的节奏更新</strong></span>。</p>
@@ -23,7 +24,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3>「<strong>东方与她同在」 作者：RD</strong></h3>
 <p><strong>Disc1-01</strong><strong>　日日是红日</strong><strong> ~ Folksy Touhou days.</strong><strong>（</strong><strong>日々是紅日　～</strong><strong> Folksy Touhou days.</strong><strong>）</strong><strong>／上海アリス幻樂団</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p> </p>
 <p>我现在，才刚刚开始听这首曲子。</p>
 <p> </p>

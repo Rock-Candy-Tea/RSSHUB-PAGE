@@ -47,7 +47,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 </span><span style="font-weight: 400;">　NICONICO动画刚建站的时候在2ch上就已经成为话题了，在楼里发的视频链接我都点进去看过。(※1)</span></p>
 <p><span style="font-weight: 400;">　NICONICO动画（γ）刚开始服务的时候，我就立刻跑去注册帐号了。(※2)</span></p>
 <p><span style="font-weight: 400;">　当时以东方视频为中心的话，我一整天都在看「魔理沙偷走了重要的东西（魔理沙は大変なものを盗んでいきました。）」之类的IOSYS的Flash视频和はんどぅ先生的东方视频。(※3)</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm124668" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm124668?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　东方以外的话，我记得有看过勇者斗恶龙，马里奥的实况视频。NICONICO动画的东方视频，自（春）到（夏）（※当时NICONICO动画的版本名）基本上都是转载其他人以前制作视频。当时在「Coolier」(※4)中被称为「<a href="https://dic.nicovideo.jp/a/%E5%8D%83%E6%AD%B3%E3%83%8B%E3%83%9D%E3%83%9D">谜之人</a>」的作者的转载视频霸占了当时的排行榜</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　除此之外，还转载了许多在个人网站公开的视频・Flash作品，转载在同人活动上发布的作品也是常有的事。出名的就有「<a href="https://dic.nicovideo.jp/a/%E6%9D%B1%E6%96%B9%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">东方足球</a>」（はちみつくま所制作的东方Project二次创作游戏）的游戏CG经常被转载</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　东方以外的话参考排行视频(※5)的话，能经常看到「Let’s GO！阴阳师（レッツゴー！陰陽師）」和「NICONICO RPG（ニコニコRPG）」，「组曲『NICONICO动画』（組曲『ニコニコ動画』）」之类的作品。</span></p>
@@ -71,7 +71,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><span style="font-weight: 400;">(※5)说到NICONICO动画的排行视频的话，「<a href="https://www.nicovideo.jp/user/91090/mylist/12653834">周刊NICONICO排行榜</a>」很有名。2007年5月以来每周都将那周经常能看到的视频以排行榜的形式介绍。「Let’s Go！阴阳师（<a href="https://www.nicovideo.jp/watch/sm9">レッツゴー！陰陽師</a>）」在β时代就已很有人气，γ刚启动的时候官方就投稿在NICO上。「NICONICORPG」是2007年9月左右SD先生用RPG制作大师2000将当时NICONICO动画上流行的角色们制作成游戏的自制游戏，其实况视频在NICONICO动画上很有人气（现在已经被删除了）。「<a href="https://www.nicovideo.jp/watch/sm500873">组曲『NICONICO动画』</a>」是将当时NICONICO动画上的人气乐曲串连起来的串烧曲。不管何时都是能代表NICONICO动画初期的人气视频。</span></p>
 </blockquote>
 <p><strong>――luno.先生的「文文。视频」自2007年12月开始投稿。请谈一谈您开始制作这个视频的契机。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm1906775" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm1906775?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <blockquote>
 <p><span style="font-weight: 400;">「文文。视频」在2007年12月到2009年为<a href="https://www.nicovideo.jp/user/105567/mylist/4207519">最初的季节</a>，2009年末到2012年投稿的为「<a href="https://www.nicovideo.jp/user/105567/mylist/16563155">文文。视频　～Bohemian Archive in niconico. </a>」。</span></p>
 </blockquote>
@@ -110,7 +110,7 @@ NICONICO社区的上线正是与此增长在同一时期。同时期投稿数也
 </span><span style="font-weight: 400;">　正是这样。建设出「NICONICO动画的东方圈」，再将其摆在台上，走出去，与NICONICO动画外的东方圈有了往来</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　我觉得当时的人们是意识到，NICONICO动画不只有「NICONICO动画上无端转载很多」这一刻板印象，也有很多正经的二次创作者。才产生了这样的变化。</span></p>
 <p><strong>――东方NICO童祭的第一回在2009年9月26日举办。东方NICO童祭这么个企划是怎么来的？</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm7664268" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm7664268?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <blockquote>
 <p><span style="font-weight: 400;">东方NICO童祭的通知视频。视频中将会介绍参加者所提交的「社团CUT」和参加者。</span></p>
 </blockquote>
@@ -123,8 +123,8 @@ NICONICO社区的上线正是与此增长在同一时期。同时期投稿数也
 </span><span style="font-weight: 400;">初期的动画投稿活动相关的话，以2007年11月以来多次举办过的「iM@S KAKU-tail Party」（募集与偶像大师相关的短的视频，做成串烧的形式公开的活动）等为有名。大规模的如2008年6月举办的「24小时偶像大师TV！大家一起的偶像大师~（24時間アイマスTV！～みんなまとめてアイドルマスター～）」将数十名作者投稿的视频串联在一起做成像24小时播出的电视节目的企划。</span></p>
 </blockquote>
 <p><strong>――您举办第一回东方NICO童祭后的感想如何。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm8337467" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm8350778" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm8337467?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm8350778?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　我记得第一回投稿了近400个视频。真的完全没有想到会有这么多投稿。第一回我记得是最制霸NICONICO动画的排行榜的一回。</span></p>
 <p><span style="font-weight: 400;">　当时在东方搞视频投稿企划，不少人都觉得不好。在举办通知视频中作乱的人也有不少。虽然开始还担心能不能办好，但结果有很多人参加这次活动，还是挺好的</span><span style="font-weight: 400;">。</span></p>
@@ -141,8 +141,8 @@ NICONICO社区的上线正是与此增长在同一时期。同时期投稿数也
 </span><span style="font-weight: 400;">　是在「让各种人都能够投稿」上下了全力吧。在企划刚刚建好的时候表示没什么兴趣的人们，后来也偷偷做了作品投稿了。</span></p>
 <p><span style="font-weight: 400;">　能感受到大家这样那样对企划的需求，我很开心。</span></p>
 <p><span style="font-weight: 400;">　视频的话，记忆深的就是「東方丸変化！」吧。这么一种企划能为NICO童祭准备，投稿真的太好了。还有弹幕艺术的「ハイコートポロロッカ」。来年也投稿了文文的视频。</span><span style="font-weight: 400;">。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm8341816" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm8339190" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm8341816?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm8339190?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <blockquote>
 <p><span style="font-weight: 400;">将东方相关的短动画视频串联在一起的合作视频。包含BGM制作在内共有17名作者参与。</span></p>
 </blockquote>

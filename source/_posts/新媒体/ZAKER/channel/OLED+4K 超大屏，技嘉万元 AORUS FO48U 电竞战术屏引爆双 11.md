@@ -1,0 +1,18 @@
+
+---
+title: 'OLED+4K 超大屏，技嘉万元 AORUS FO48U 电竞战术屏引爆双 11'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4e_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 31 Oct 2021 18:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4e_1024.jpg'
+---
+
+<div>   
+<p>今年，技嘉推出面向电竞玩家的超大屏电竞显示器 —— 技嘉 AORUS FO48U 电竞战术屏，这款显示器搭载一块 47.53 英寸的 4K OLED 屏幕，有着真实的色彩还原以及超高帧率表现，强大的声学系统带来更加纯净悦耳的声音体验，让技嘉 AORUS FO48U 无论是作为电竞屏幕，还是电视都能带来震撼的影音效果。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4e_1024.jpg" data-height="1000" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4e_1024.jpg" referrerpolicy="no-referrer"></div></div>技嘉 AORUS FO48U 电竞战术屏采用了 1 块 4K 分辨率的 47.53 英寸的超大 OLED 屏幕，如此大体量的显示器产品，无论是作为常规显示器使用，还是用作日常家用电视，都有着非常不错的显示效果。OLED 相比于传统的 LCD 显示器有着自发光功能，这就大大减少了显示器的体积，同时带来更加丰富的色彩表现，更高的对比度，黑色更加纯正。另外，OLED 其功耗更低，响应时间更加迅速的特点，让它成为高端显示器产品的不二之选。更好的显示效果，带来了更宽的色域覆盖，AORUS FO48U 电竞战术屏支持 10bit 色深，覆盖 98% 的 DCI-P3 色彩空间，带来更加丰富的色阶和色彩精度。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4f_1024.jpg" data-height="1000" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe4f_1024.jpg" referrerpolicy="no-referrer"></div></div>刷新率方面，AORUS FO48U 电竞战术屏支持最高 120Hz 的可变刷新率，这项技术由 HDMI 2.1 接口支持，HDMI 2.1 能够带来至高 48Gbps 的带宽，支持最高 4K@120Hz 和 8K@60Hz 内容输出，兼容 PS5 和 XBox X 系列 4K@120Hz 高刷新率场景。同时 HDMI 2.1 支持 ALLM 自动低延迟模式，与传统 4K 电视相比，AORUS FO48U 电竞战术屏输入延迟更小，可以胜任电竞场景下，毫秒级的响应水平。另外 FreeSync Premium 同步技术，也可以带来更加流畅、无撕裂的游戏体验。针对电影和游戏，AORUS FO48U 拥有更多 HDR 模式选择，用户可根据实际使用场景进行调整。<p></p><p>技嘉 AORUS FO48U 电竞战术屏支持多种空间音效模式，包括标准模式、VS 模式、第一人称射击模式、电影模式、现场音乐会模式，不同的空间音效场景带来更加真实的音频享受，其内置 2 颗 15W 扬声器单元和 1 颗 20W 低音单元，带来无比真实的空间音效。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/617f4db68e9f0917560ffe50_1024.jpg" data-height="598" data-width="1062" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/617f4db68e9f0917560ffe50_1024.jpg" referrerpolicy="no-referrer"></div></div>作为一款战术显示器，技嘉 AORUS FO48U 支持画中画和画外画两种模式，允许玩家可以同时在一个屏幕上查看两个不同的视频源。其他电竞辅助功能比如压枪辅助、黑平衡、游戏辅助、仪表盘、OSD 助手。这些也在技嘉 AORUS FO48U 上得到很好支持，方便玩家快速制胜。另外，通过 KVM 技术，技嘉 AORUS FO48U 可以利用一台显示器和一套键鼠控制多台设备，这里的设备不单单局限于 PC 电脑和笔记本，手机、平板电脑也都可以进行适配。同时，自带的 Type-C 接口可以提供 18W 的快充。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe51_1024.jpg" data-height="1000" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/617f4db68e9f0917560ffe51_1024.jpg" referrerpolicy="no-referrer"></div></div>其他接口方面，技嘉 AORUS FO48U 配备 2 个 USB 3.0 接口，1 个 USB 上行接口，1 个 DP1.4 接口，2 个 HDMI 2.1 接口，1 对音频输入输出接口。作为一款大屏电竞显示器，技嘉 AORUS FO48U 提供标准的 VESA 挂架以及遥控器，方便用户将其作为专业电竞电视产品使用。目前，技嘉 AORUS FO48U 已经全面上市，顶级屏幕配合电竞级显示效果售价 10999 元。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

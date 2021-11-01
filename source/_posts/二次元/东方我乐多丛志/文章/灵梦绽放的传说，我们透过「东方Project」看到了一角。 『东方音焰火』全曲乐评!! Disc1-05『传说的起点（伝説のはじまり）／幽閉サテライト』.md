@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3><strong>灵梦绽放的传说，我们透过「东方Project」看到了一角。 作者：</strong>涼</h3>
 <p><strong>Disc1-05　传说的起点（伝説のはじまり）／幽閉サテライト</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=202&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=202&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p style="text-align: right;"><span style="font-weight: 400; color: #4e8099;">(这份曲评包含有许多很糟糕的解释，还请注意。真的很糟糕)</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">　这个曲名，可以说是与东方Project最初的作品『东方灵异传』的Arrange曲相符的曲名。</span></p>

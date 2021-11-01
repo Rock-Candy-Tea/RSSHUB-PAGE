@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3><strong>纯度极高的原作追体验。想要「石鹸屋的偶像」。 作者：</strong>J</h3>
 <p><strong>Disc1-03　黄昏的造型之神／石鹸屋</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=101&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=101&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p><span style="font-weight: 400;">　虽然是我的个人看法，说出来可能有点冒犯，但我认为东方Arrange的底线规则是<strong>「能够追体验原曲」</strong>。主要而言就是用一定的方法将旋律，歌词或乐曲构成，乐器的使用方法等组合在一起追体验原曲。至今为止已有数千个社团用过数万种方法提供过追体验原曲的形式。</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">　然后本次，终于来到了，石鹸屋的偶像。</span></p>

@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3><strong>在今宵这转瞬即逝的梦中。Fever，最凶最恶姐妹！唱歌跳舞大骚乱！ 作者：ベルクー</strong>ト</h3>
 <p><strong>Disc1-06　最凶矛盾（最凶アンビバレント）／森羅万象</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=253&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=253&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p>　森罗万象的あやぽんず＆あよ组合唱的依神姐妹主题曲！别去思考未来！　闯入音焰火的女苑与紫苑交织而成的，最凶的相反性让这祭典火热起来吧！</p>
 <p>　祭典祭典！是没有唱歌跳舞骚动就少了点东西的祭典啊。虽然一边是贫乏神一边是疫病神，但不如今晚就全身心交给她们，浸入这狂欢宴会的热量之中吧？</p>
 <blockquote>

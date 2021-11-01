@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3>「<strong>COOL&CREATE的ビートまりお原来是COOL的创作者吗？」 作者：どぶウサギ（dBu music）</strong></h3>
 <p><strong>Disc1-02　天弓天华音焰火（天弓天華オトハナビ）／COOL&CREATE</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=51&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=51&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p>   在夏天的炎热渐渐升温的2021年7月下旬，当我看着没人讨论正在举办的东京奥运会，平静的推特时间线时，从东方我乐多丛志那发来了大型Complication CD『东方音焰火』的乐评执笔委托。</p>
 <p>　负责要写的乐曲是活动发起人的COOL&CREATE的乐曲『天弓天华音焰火』。</p>
 <p>　说是希望能看到自东方Arrange黎明期就在活动的二人关系性、どぶウサギ的COOL&CREATE论，ビートまりお论，因此希望我写一篇这首曲子的乐评。</p>

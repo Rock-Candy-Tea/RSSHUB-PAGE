@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3><strong>「鬼人正邪是什么。」听完这首曲子的时候，想必就能多多少少理解这个命题了。　作者：WIRED</strong></h3>
 <p><span style="color: #d160b6;"><strong>Disc1-07　Monsters／イノライ</strong></span></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=303&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=303&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p>　说到inorai的好，那肯定就是活用ACTRock对原曲的独特理解，做出的王道·正统派的Arrange。以及纤细地描写角色心理的歌词，还有邪气四溢的声音了吧！</p>
 <p>　当然，本次的新曲「Monster」中也有这些优点。完成了一首一口气加速的，既有着优美的旋律又从头到尾超级兴奋的摇滚曲。</p>
 <p>　但是这首曲子的精髓，还是在将既消极又积极，有着这样的矛盾心理的鬼人正邪内心所藏的秘密的反骨精神展现得一干二净的歌词。</p>

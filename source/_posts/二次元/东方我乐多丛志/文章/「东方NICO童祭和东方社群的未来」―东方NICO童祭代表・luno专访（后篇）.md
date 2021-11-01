@@ -26,14 +26,14 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 </blockquote>
 <p> </p>
 <h2 style="text-align: center;">「想要更多地讨论东方」 东方NICO童祭EX始动・为做东方杂谈的24小时直播・T-1大赛</h2><p><strong>――在第五回东方NICO童祭上还积极举办了东方人气投票登企划。想向您打听打听东方WIKI历年举办的东方系列人气投票（现·东方Project人气投票）这一年没有举办的原因。活动之中的辛苦与反响又如何。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm21241946" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm21241946?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　我自己是非常喜欢东方系列人气投票的，既然东方Wiki办不了的话，那就让我来办吧！不过真的挺乱来的（笑）。</span></p>
 <p><span style="font-weight: 400;">　本身关于人气投票的系统以前我就有做分析网站之类的调查，在搞NICONICO动画所以也投稿了视频在上面……在第5回的时候要干的事情太多结果网站崩溃了。这时候就还在崩溃中。</span></p>
 <p><span style="font-weight: 400;">　当时也正是从大学生变成社会人之时，很多东西都周转处理不过来……现在想来，为什么要在这种时候搞这么乱来的事情……给很多人带来很多麻烦，是自己也在反省的一年。</span></p>
 <p><span style="font-weight: 400;">　就算这样干过的事情就是干过了，最后能让大家提起干劲就好。</span></p>
 <p><strong>――自第二年的第6回东方NICO童祭及之后，每年的秋天也举办「东方NICO童祭EX」。24小时直播等企划也是从这时候开始的。想要打听打听当时的情况。</strong></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm24943431" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm24943431?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　我办第1回的时候，就在想NICONICO动画以后也会有我以外的人办其他东方视频投稿活动吧。希望能有越来越多的视频投稿活动，振兴东方视频界。结果没什么其他人搞视频投稿活动</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　既然如此，那就1年办两回童祭，让东方视频界火起来吧，于是就开办了Ex。Ex的举办我考虑的最多的就是和普通的童祭做出差别。以及，为了不让Ex有本祭那么大的能量，控制在某种程度的规模下。采取了仅举办一日的方式</span><span style="font-weight: 400;">。</span></p>
@@ -53,21 +53,21 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><strong>――在这以后的东方NICO童祭·Ex中有什么让您回忆很深的企划吗？</strong></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　第7回Ex办了个考试大会，我对那个特别有印象。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm27190088" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm27190088?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　我们想了一堆问题，做了个回答问题然后打分的系统　做的时候想着TBS的「全明星感谢祭（オールスター感謝祭）」能不能在东方也办个。并不是只弄问题回答，在过程中还穿插着「幻走Skydrift」等东方游戏大会，预测选手名次之类的</span><span style="font-weight: 400;">。</span></p>
 <p> </p>
 <h2 style="text-align: center;">「东方NICO童祭与东方视频社群的未来」NICONICO动画・Twitter・YouTube</h2><p><strong>――luno.您现在有什么关注的视频制作者吗？</strong></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
 </span><span style="font-weight: 400;">　我喜欢<a href="https://twitter.com/kk_16910GTR"><strong>K16</strong></a>做的视频。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm37131452" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm37131452?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　这个人做的作品的完成度，如何将梗放入作品，质量和其他作品有着位数级的差距。有着懂的人看了就能明白的高再现度。以及很巧妙地将东方的世界观融入了作品。比如文文的速度很快等，将角色的特征加了进去。对话也做出了真的就像东方角色们在对话的感觉</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　还有<a href="https://twitter.com/lvgatarin"><strong>LV</strong><strong>がたりない</strong></a>。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm36409161" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm36409161?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　要说的话是在Twitter上非常有人气的作者。以没有台词，仅靠角色的动作塑造可爱的世界观为特征。制作着像「小个子妖梦传（おちびな妖夢伝）」的有剧情的作品</span><span style="font-weight: 400;">。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm37298704" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm37298704?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　在做有剧情的作品时，不运用台词的MMD视频制作者没有多少，我觉得这位作者就属于做得很好的人。这位也使用过正常身高的模型，做的质量也很高。是我最近在支持的作者</span><span style="font-weight: 400;">。</span></p>
 <p><span style="font-weight: 400;">　以及做手书动画的<a href="https://twitter.com/1R0HASU"><strong>ウサホリ</strong></a>。</span></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm31474604" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm31474604?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p><span style="font-weight: 400;">　是活跃在手书动画中的作者。作品有着独特的能让人舒心的氛围，对画面的时机把握得很豪。最近在Twitter上也取得了人气。东方手书动画真是有魅力的视频种类啊</span><span style="font-weight: 400;">。</span></p>
 <p><strong>――第12回东方NICO童祭中，除去以往就有的从NICONICO动画，直播，图片中募集参加作品的途径以外，还在Twitter上募集视频投稿。能告诉我这样做的目的和引起的反响吗。</strong></p>
 <p><span style="font-weight: 400;"><span style="color: #d24519;"><strong>luno.：</strong></span><br>
@@ -95,7 +95,7 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p><span style="font-weight: 400;">　准备了能让大家开心聊天的企划，希望大家还能一看。</span></p>
 <h2 style="text-align: center;">「第13回东方NICO童祭」自6月25日(五)起举办3日</h2><blockquote>
 <p><img class="alignnone size-thumbnail wp-image-17248" src="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-512x288.jpg" alt width="512" height="288" srcset="https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-512x288.jpg 512w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-1024x576.jpg 1024w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-768x432.jpg 768w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-1600x900.jpg 1600w, https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfykzd/wp-content/uploads/2021/06/22031950/top_210622-1568x882.jpg 1568w" sizes="(max-width: 512px) 100vw, 512px" referrerpolicy="no-referrer"></p>
-<p><iframe width="312" height="186" src="https://ext.nicovideo.jp/thumb/sm38587913" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"></iframe></p>
+<p><iframe allowfullscreen="allowfullscreen" allow="autoplay" src="https://embed.nicovideo.jp/watch/sm38587913?oldScript=1&referer=&from=0&allowProgrammaticFullScreen=1"></iframe></p>
 <p>【企划】第13回东方NICO童祭</p>
 <p>【活动内容】東方Projectオンリー動画投稿祭</p>
 <p>【举办期间】2021年6月25日(五)21:00～6月27日(天)24:00</p>

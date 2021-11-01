@@ -22,7 +22,8 @@ thumbnail: 'https://s3-ap-northeast-1.amazonaws.com/touhougarakuta-statics/putfy
 <p> </p>
 <h3><strong>虽是忠实于原曲的Arrange但是这个声音是独一无二的。岸田教团的曲子能治疗好癌症的日子也不远了。 作者：ゲン</strong></h3>
 <p><strong>Disc1-04　岸田大叔的Smoking Dragon（岸田おじさんのスモーキングドラゴン）／岸田教団</strong></p>
-<p><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=152&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p></p><div class="youtube"><iframe title="【東方アレンジ】東方オトハナビ・全40曲33分クロスフェード【ビートまりお/COOL&CREATE】" width="640" height="360" src="https://www.youtube.com/embed/t0iglDC0P0Y?start=152&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
 <p> </p>
 <p style="text-align: center;"><strong><span style="color: #873ccc;">「大叔们年轻的时候是不是把这种Arrange叫做爆裂Arrange来着・・・」</span></strong></p>
 <p> </p>
