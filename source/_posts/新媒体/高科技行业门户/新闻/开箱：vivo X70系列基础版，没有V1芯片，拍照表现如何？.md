@@ -1,0 +1,19 @@
+
+---
+title: '开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131010662913.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 01 Nov 2021 05:32:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131010662913.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">vivo X70系列发布已经有段时间了，大家都是秉持怎样的看法呢？根据网上数据显示X70系列首销获得了相当不错的成绩。系列中的X 70 Pro＋毋庸置疑，价格在那，配置自然是系列内最好的。那么没有V1芯片的标准版表现如何？跟着eWisetech看看吧。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131010662913.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这次入手的vivo X70是热门配色星云，简单来说就是渐变色，根据光线的变化色彩也随之变化，是现在市场上热门的一种款式。但磨砂玻璃后盖不易遗留指纹倒值得好评的。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131038984278.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">机身7．55mm厚，181g重，外观时尚轻薄也是X70一大特点。</p><p style="text-indent: 2em; text-align: left;">▼X70整机左右两侧</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131057956476.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">▼X70整机上下两端</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131114874152.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">屏幕是6．56英寸 AMOLED屏，P3色域，分辨率为2376x1080，屏幕刷新率为120Hz。前置3200万像素摄像头选择居中挖孔式设计，但视觉上整体屏占比较高。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131131109511.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">当然vivo X系列最主要的还是在强调影像。X70 的后置影像虽然没有X70 Pro＋那么高配，没有了V1芯片。但同时也没有那么大的后置影像模组，外观上会占些优势。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131151513499.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">X70后置三摄在数据上是由4000万像素微云台主摄（f／1．89超大光圈，闭环马达，7P镜头）＋1200万像素广角摄像头（116°超大视角，开启畸变矫正后广角度数为 104．9°）＋1200万像素人像摄像头（50mm等效焦段）组成。最主要的是有蔡司光学镜头和蔡司蔡司T＊镀膜加持。</p><p style="text-indent: 2em; text-align: left;">▼正常拍照 and 广角拍摄</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131213264623.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">▼正常拍照 and 最大变焦，最大20倍变焦，远处的标志都可以清晰的看到。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131250386766.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">▼暗光拍摄 and 微距拍摄，暗光拍摄在漆黑的安全通道中，虽然整体提亮，还原的非常不错。微距拍摄很小的仙人球，上面的细节都清晰可见。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131314932459.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">对于X70的样张拍摄，可以说在微距、暗光以及最大变焦的情况下表现都非常不错。</p><p style="text-indent: 2em; text-align: left;">X70系列中的标准版，但在影像上并没有让人失望，虽然影像有所提升，但3699的起售价选择了天玑1200＋LPDDR4X＋UFS3．1，还是单扬声器和Z轴线性马达，稍稍有些拖后腿了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member14891/202111/01131332959924.jpg" alt="E开箱：vivo X70系列基础版，没有V1芯片，拍照表现如何？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Vivo X70拆解将在不久之后分享给大家，感兴趣的小伙伴抓紧关注eWisetech哦！</p> 
+  
+</div>
+            
