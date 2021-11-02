@@ -1,0 +1,18 @@
+
+---
+title: '用 Python 轻松完成一个 TCC 分布式事务，保姆级教程'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=4289'
+author: 开发者头条
+comments: false
+date: 2021-11-02 01:54:52
+thumbnail: 'https://picsum.photos/400/300?random=4289'
+---
+
+<div>   
+用 Python 轻松完成一个 TCC 分布式事务，保姆级教程  
+</div>
+            

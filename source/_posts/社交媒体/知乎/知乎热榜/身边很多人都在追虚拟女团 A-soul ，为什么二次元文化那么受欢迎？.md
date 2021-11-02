@@ -1,0 +1,18 @@
+
+---
+title: '身边很多人都在追虚拟女团 A-soul ，为什么二次元文化那么受欢迎？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-94c93a80fe833296a6a57c7ebfbdd1db_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 02 Nov 2021 01:35:31 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-94c93a80fe833296a6a57c7ebfbdd1db_1440w.jpg'
+---
+
+<div>   
+半枚生姜的回答<br><br><p>这题我会我会我来回答！！！</p><p><b>先来份A-soul五位团员的介绍。</b></p><p><b>首先是贝拉（Blla），A-SOUL的队长，</b>舞蹈担当&武术担当。因为身为队长，会被嘉然称为地狱管家婆。同时因为各种各样的原因有个憨憨的人设，就是俗称的勇敢牛牛，不怕困难！<b>歌力水平贝拉声音机能最强，很多合唱都是由她负责高音部分，但在唱腔上比较板正不够灵活，有点挑曲目风格。舞力的话我拉姐全团NO.1！（我觉得）</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-94c93a80fe833296a6a57c7ebfbdd1db_1440w.jpg" data-caption data-size="normal" data-rawwidth="1071" data-rawheight="598" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-94c93a80fe833296a6a57c7ebfbdd1db_r.jpg" referrerpolicy="no-referrer"></figure><p><b>第二个出场的是向晚（AvA），A-SOUL里的GAMER担当</b>，拥有高达0.22的KDA战绩，不过会晕3D游戏，官方人设傲娇双马尾大小姐。个人认为杂谈能力最好（还有乃老师），共情能力非常强。歌力方面音域广，英语口语好、绝活rap、吉他自弹等因素让她在翻唱选曲上很灵活，最近表现堪称进步神速。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e7e9a52cbffc0392c48e415b520679c1_1440w.jpg" data-caption data-size="normal" data-rawwidth="1068" data-rawheight="601" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e7e9a52cbffc0392c48e415b520679c1_r.jpg" referrerpolicy="no-referrer"></figure><p><b>第三位就是我们的<a href="http://link.zhihu.com/?target=https%3A//zh.moegirl.org.cn/%25E7%258F%2588%25E4%25B9%2590" class=" wrap external" target="_blank" rel="nofollow noreferrer">珈乐</a>（Carol）啦，A-SOUL的vocal担当，软妹担当（其实我更觉得是酷盖担当）。</b>因为偶尔流露出来的东北口音故而被大家尊称为大哥。现充，对二次元以及土味极其过敏“我大哥听到绝绝子就会死”。歌力水平珈乐团里技巧最好的，但声带问题让她对高音曲目无法很好地演绎。舞力方面珈乐的那股风情简直“绝绝子”！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b2bfbd68a91168adb5b3791e658e4de0_1440w.jpg" data-caption data-size="normal" data-rawwidth="901" data-rawheight="599" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b2bfbd68a91168adb5b3791e658e4de0_r.jpg" referrerpolicy="no-referrer"></figure><p>但是吃不了辣。有次点了份辣子鸡，只吃了一小口，被辣得半天说不出话来，口号是：关注嘉然然，顿顿解馋馋。随着直播的深入，小恶魔属性渐渐暴露，被粉丝们亲切地称呼为主人。情商拉满，A-SOUL抗压王、理解王、勇敢王、懂王。冷静可爱，同时各种梗满天飞~</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4d8c578e7c19720a5a0061dcf7e2d302_1440w.jpg" data-caption data-size="normal" data-rawwidth="1071" data-rawheight="599" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4d8c578e7c19720a5a0061dcf7e2d302_r.jpg" referrerpolicy="no-referrer"></figure><p><b>最后压轴登场的就是我最最最喜欢的乃琳（Eileen）了！A-SOUL的MC担当！</b>坏女人担当（不是！！！）善于控场。初设是海外留学，因为素人出道的原因，团播初期在团舞过程中被戏称为钢板腰以及贼眉鼠眼。杂谈能力最强的乃老师，有着超强的语言表达能力和控场能力，乃琳永远不会没有话聊，乃琳最棒！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4fb6a3f34c274c12457821d953261e05_1440w.jpg" data-caption data-size="normal" data-rawwidth="1072" data-rawheight="601" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4fb6a3f34c274c12457821d953261e05_r.jpg" referrerpolicy="no-referrer"></figure><p>看完这些介绍，看着她们鲜明又有特色的性格，你还会觉得她们仅仅只是一个“纸片人”吗？</p><p>其实我也不算是一个在生活里也入脑的A厨，但是从她们第一次开播偶然关注，到后来才发现她们在不断地努力不断地进步，我就觉得很感动，真的很喜欢她们和大家的日常生活，不管是安慰也好吐槽也好，感觉她们就像是活在现实中几个有趣的朋友，不管怎样，我觉得能认识她们真的很开心，并且因为看着她们的努力，我也在令自己变得越来越好。</p><p>AS作为一个整体，五个人分工不同各有所长。不管是贝拉、珈乐作为偶像业务能力的全面，还是嘉然的可爱、乃琳作为mc的语言组织和控场力、晚晚的创作能力和可见的成长性，都是团里不可或缺的一环，希望她们以后会越来越好！</p><p><b>A手，加油！</b></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5b60a515d14be28cc214058c07c807b7_1440w.jpg" data-caption data-size="normal" data-rawwidth="1071" data-rawheight="601" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5b60a515d14be28cc214058c07c807b7_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

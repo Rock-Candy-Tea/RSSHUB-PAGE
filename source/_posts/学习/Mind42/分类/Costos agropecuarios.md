@@ -1,0 +1,19 @@
+
+---
+title: 'Costos agropecuarios'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=15b212b0-d538-4b8f-9f3b-81c32f7e2f7b&size=gallery'
+author: Mind42
+comments: false
+date: 2021-11-02 01:53:56
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=15b212b0-d538-4b8f-9f3b-81c32f7e2f7b&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=15b212b0-d538-4b8f-9f3b-81c32f7e2f7b&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
