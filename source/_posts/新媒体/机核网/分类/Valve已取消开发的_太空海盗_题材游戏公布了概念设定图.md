@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/16cad692-f9c7-41d6-83ee-a8b7ba59088f.jpg'
 author: 机核网
 comments: false
-date: 2021-11-01 15:08:37
+date: 2021-11-02 00:25:47
 thumbnail: 'https://image.gcores.com/16cad692-f9c7-41d6-83ee-a8b7ba59088f.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/16cad692-f9c7-41d6-83ee-a8b7ba59088f.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-8lq1s" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="8lq1s" data-offset-key="e869t-0-0"><div data-offset-key="e869t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e869t-0-0"><span data-text="true">据外媒报道 Valve 曾在开发一款名为 《Stars of Blood》的“太空海盗”题材的游戏，目前项目已被取消，数据库最新的更新时间为2019年8月，现已放出游戏的概念设定图。</span></span></div></div>
+<img src="https://image.gcores.com/16cad692-f9c7-41d6-83ee-a8b7ba59088f.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-3gsre" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="3gsre" data-offset-key="e869t-0-0"><div data-offset-key="e869t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e869t-0-0"><span data-text="true">据外媒报道 Valve 曾在开发一款名为 《Stars of Blood》的“太空海盗”题材的游戏，目前项目已被取消，数据库最新的更新时间为2019年8月，现已放出游戏的概念设定图。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/e96ff7cf-48a2-4597-bb4a-62a2a72d66b5.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -103,6 +103,6 @@ thumbnail: 'https://image.gcores.com/16cad692-f9c7-41d6-83ee-a8b7ba59088f.jpg'
 <img src="https://image.gcores.com/8884e90b-3247-4738-ba73-d222c75a9eac.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (8/8) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="8lq1s" data-offset-key="8hfl-0-0"><div data-offset-key="8hfl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8hfl-0-0"><span data-text="true">游戏概念设定图展示了各种各样的人物和环境，还有大量的飞船设计草图。该游戏最后一次被官方公开引用是在2012年，当时 Gabe Newell 在 4chan 上的问答中提到：“我们有一个名为‘Stars of Blood’的内部项目，是一款太空海盗游戏，之前从未宣布过。”</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="8lq1s" data-offset-key="en06j-0-0"><div data-offset-key="en06j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="en06j-0-0"><span data-text="true">有兴趣的玩家可在 valvearchive 数据库的相关条目下找到更多的关于此款游戏的概念设定图。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="3gsre" data-offset-key="8hfl-0-0"><div data-offset-key="8hfl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8hfl-0-0"><span data-text="true">游戏概念设定图展示了各种各样的人物和环境，还有大量的飞船设计草图。该游戏最后一次被官方公开引用是在2012年，当时 Gabe Newell 在 4chan 上的问答中提到：“我们有一个名为‘Stars of Blood’的内部项目，是一款太空海盗游戏，之前从未宣布过。”</span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="3gsre" data-offset-key="en06j-0-0"><div data-offset-key="en06j-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="en06j-0-0"><span data-text="true">有兴趣的玩家可在 valvearchive 数据库的相关条目下找到更多的关于此款游戏的概念设定图。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
