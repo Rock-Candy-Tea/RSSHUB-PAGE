@@ -15,6 +15,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <div>   
 <blockquote><p>编辑导语：Product-Led Growth（PLG）现在已经成为SaaS企业的主流成长方式，那么，何为PLG？它不仅包含增长，还涵纳了产品思维和组织架构。本篇文章里，作者就结合Figma对PLG模式进行一番解读，不妨来看一下。</p></blockquote>
 <p><img data-action="zoom" class="size-full wp-image-5198208 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/10/VRlOBz6kVB0PoggYXLQe.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p>作者：M小姐走四方；文章来源于公众号：M小姐研习录（ID：MissMstudy）</p>
 <p>根据Bessemer Venture Partners（BVP）的统计，Product-Led Growth（PLG）已经成为现代SaaS公司主流成长模式。用这种模式发展的公司，2020年的市值已经接近6000亿美金（没错我去掉了Snowflake……）。</p>
 <p><img data-action="zoom" class=" aligncenter" title="13000字的Figma研究笔记，聊聊Product-Led Growth的误区与思考" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/10/HDLWlkox6xvTZBnlxbGM.png" alt="13000字的Figma研究笔记，聊聊Product-Led Growth的误区与思考" width="642" height="358" referrerpolicy="no-referrer"></p>
 <p>一级市场也是异常火爆。Figma、Canva、Notion……百亿美金公司频出，未来两三年估计二级市场又要有一波狂欢。</p>
