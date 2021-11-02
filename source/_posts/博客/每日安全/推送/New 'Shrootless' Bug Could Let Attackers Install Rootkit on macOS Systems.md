@@ -5,11 +5,11 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=770'
+headimg: 'https://picsum.photos/400/300?random=168'
 author: 每日安全
 comments: false
-date: 2021-11-02 03:07:45
-thumbnail: 'https://picsum.photos/400/300?random=770'
+date: 2021-11-02 04:09:02
+thumbnail: 'https://picsum.photos/400/300?random=168'
 ---
 
 <div>   
@@ -19,7 +19,7 @@ thumbnail: 'https://picsum.photos/400/300?random=770'
 <a class="text-muted" href="https://sec.today/user/f6f7818d-6c86-4ec3-941f-2224142573a6/pushes/">
 LuYa
 </a>
-<span class="text-muted"><small>• 16 hours ago</small></span>
+<span class="text-muted"><small>• 17 hours ago</small></span>
 </cite>
   
 </div>
