@@ -30,7 +30,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/Scr
 </ul>
 <p>To find the Chase Ultimate Rewards Apple Store, log into your <a href="https://www.referyourchasecard.com/6/9HM4BOS2IP">Chase account</a>, visit the Ultimate Rewards portal, and look for the “Apple” option in the side bar. If you aren’t already a Chase credit card holder, <a href="https://www.referyourchasecard.com/6/9HM4BOS2IP">you can apply here and get a 60,000 point bonus</a> after eligible spend.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://vz.to/3Bzd3hQ"><img class="aligncenter wp-image-766103 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Survivor-Native-Banner.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
