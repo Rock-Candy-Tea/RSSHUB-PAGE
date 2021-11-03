@@ -1,0 +1,18 @@
+
+---
+title: '华硕曝光 PCIe 5.0 12-pin 供电接口：与英伟达显卡专用口相似'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa284_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 02 Nov 2021 21:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa284_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 3 日消息，此前有外媒曝光了将在 PCIe 5.0 设备上使用的 12-pin 供电接口，其采用了更紧凑的设计，单口功率可达 600W 以上，同时具有四个额外的针脚用于通信。据外媒 videocardz 消息，华硕最新的雷神 1000W Platinum II 电源的介绍页面中，出现了这种全新接口，但是没有四个额外针脚。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa284_1024.jpg" data-height="602" data-width="928" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa284_1024.jpg" referrerpolicy="no-referrer"></div></div>这种 12-pin 接口相比目前显卡常见的 8-pin 更加紧凑，针脚之间的间距更小。外媒表示其外形规格与英伟达公版显卡采用的电源口相似，均为 Molex Micro-Fit 3.0 设计规格。该接口单个针脚支持最大 9.2A 的电流，电压 12V，因此理论上能够支持的最大功率达到 662W，但是 PCIe 5.0 规格将其限制为 600W。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa285_1024.jpg" data-height="892" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa285_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa286_1024.jpg" data-height="262" data-width="768" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181da6fb15ec057d91aa286_1024.jpg" referrerpolicy="no-referrer"></div></div>华硕此款电源采用全模组设计，自带连接线另一端为两个 8-pin 接口，这与英伟达创始人版显卡配备的转接线类似。外媒 Eteknix 公布了电源线的实拍图：<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa287_1024.jpg" data-height="482" data-width="880" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa287_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa288_1024.jpg" data-height="486" data-width="880" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa288_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家此前报道，外媒 Igor ’ s LAB 曾晒出 PCIe 5.0 供电口的 3D 设计图，在侧面还附带有四个额外的小针脚，但是功能未知。根据规范书，全新 12-pin 接口的针脚之间的距离由此前的 4.2mm 缩减到 3.0mm，这样有助于减小对 PCB 空间的占用。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa289_1024.jpg" data-height="660" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6181da6fb15ec057d91aa289_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
