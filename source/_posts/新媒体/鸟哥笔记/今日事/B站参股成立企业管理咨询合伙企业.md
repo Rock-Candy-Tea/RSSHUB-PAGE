@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 鸟哥笔记
  - 今日事
-headimg: 'https://picsum.photos/400/300?random=120'
+headimg: 'https://picsum.photos/400/300?random=6276'
 author: 鸟哥笔记
 comments: false
 date: Tue, 02 Nov 2021 09:57:35 GMT
-thumbnail: 'https://picsum.photos/400/300?random=120'
+thumbnail: 'https://picsum.photos/400/300?random=6276'
 ---
 
 <div>   
