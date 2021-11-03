@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/11/03/1015435993.jpeg'
 author: 二柄 APP
 comments: false
-date: 2021-11-03 03:08:02
+date: 2021-11-03 04:09:10
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/11/03/1015435993.jpeg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/11/03/1015435993.jpeg'
 《文明6》原价199元，折后价29元，平史低
 《经典回归 魔界村》原价198元，折后价132元，平史低
 《灾厄逆刃》原价57元，折后价37元，平史低
-《机械迷城 (Machinarium)》原价20元，折后价8元，接近史低
+《机械迷城 (Machinarium)》原价58元，折后价23.2元
 《 一次机会（OneShot）》冒险/角色扮演，原价36元，折后价21元，接近史低
 《海沙风云 Far Away》全粤语配音文字冒险游戏，原价42元，折后价35元，接近史低
 《格雷克大冒险：阿祖尔的回忆》动作冒险类游戏，原价78元，折后价58元，平史低

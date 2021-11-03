@@ -1,0 +1,18 @@
+
+---
+title: '苹果削减iPad产能力保iPhone 13系列，消费电子_寒冬_何时能散去？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f5589_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 02 Nov 2021 19:10:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f5589_1024.jpg'
+---
+
+<div>   
+<p>11 月 3 日消息，根据日经亚洲报道，苹果已经大幅削减 iPad 的产量，为 iPhone 13 系列的零部件分配更多的产能，这表明芯片短缺和供应链瓶颈对这家科技巨头的影响要比想象中严重得多。</p><p>要知道，iPad 和 iPhone 机型有许多共同的组件，包括核心和芯片。这使得苹果在某些情况下在不同设备之间转移组件。</p><p>消息人士指出，苹果内部将 iPhone 13 系列的产能放在了首位，部分原因可能是随着西方市场开始摆脱新冠疫情，对智能手机的需求将超过 iPad，另外，欧洲和美洲占苹果营收的 66% 左右。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f5589_1024.jpg" data-height="384" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f5589_1024.jpg" referrerpolicy="no-referrer"></div></div>知情人士表示，过去两个月 iPad 的产量比原计划减少了近 50%。不仅如此，用于生产上一代 iPhone 的部件也被转移到了 iPhone 13 系列上。<p></p><p>实际上，新款 iPhone 的销售高峰期是在发布后的几个月内，但从今年 9 月末正式发售的 iPhone 13 系列来看，除了 13 和 13 mini 的部分型号出货时间正常之外，iPhone13 Pro 和 iPhone 13 Pro Max 的出货被大大的拉长。</p><p>有些人甚至在 9 月预定，要等到 11 月甚至 12 月才能收到几个月前就已付款下单的新手机。</p><p>通过苹果中国官网可以看到，今天预定一台 128GB 容量，远风蓝色的 iPhone 13 Pro，需要等到 12 月 14 至 21 日才能送达，时间近一个半月。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f558a_1024.jpg" data-height="785" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6181e644b15ec03e3c2f558a_1024.jpg" referrerpolicy="no-referrer"></div></div>这不是苹果第一次将 iPhone 的量产优先级置于 iPad 之上了。去年，苹果就已将一些 iPad 的产能分配给了 iPhone 12 系列。<p></p><p>苹果在上周第三季度财报后的电话会上承认了全球供应紧张的影响。公司首席执行官蒂姆 · 库克说，供应限制对 7 至 9 月的负面影响高达 60 亿美元，10 至 12 月的影响可能会更大。</p><p>公司首席财务官 Luca Maestri 透露，" 由于供应紧张，10 至 12 月的 iPad 销售收入可能会出现同比下降。不过这是唯一可能会出现下降的产品。"</p><p>iPhone、iPad 的量产不仅导致了前者发货周期的延长，后者的等待则更为 " 漫长 "。</p><p>在美洲或欧洲的苹果官网，在 10 月底订购 256GB 容量的 iPad，将不得不等到 12 月 15 日左右才能交货。订购最新 iPad mini 6th 的用户，交货时间将在 12 月的第一周左右。苹果中国官网下单 iPad mini 6th，要等到 12 月 7 至 14 日之间才可收货，等待时间接近六周。</p><p>调研机构 Counterpoint Research 的科技分析师 Brady Wang 告诉日经亚洲，面对组件的限制，苹果将 iPhone 手机置于 iPad 之上是很自然的。</p><p>"iPhone 每年约 2 亿部的出货规模比 iPad 大得多。苹果最重要、最关键的生态系统都是围绕着 iPhone 这个标志性产品。另外，iPad 不像其旗舰产品 iPhone 那样具有强烈的季节性。"</p><p>苹果已经凭借其 iPad 在平板电脑市场上占据了主导地位，Wang 补充道：" 购买 iPad 的消费者的可以容忍更长的等待时间，他们不太容易转向安卓平板。但是如果消费者不能立即买到最新的苹果手机，他们就很有可能转向安卓手机。"</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202111/6181e644b15ec03e3c2f558c_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6181e644b15ec03e3c2f558c_1024.jpg" referrerpolicy="no-referrer"></div></div>根据 IDC 的数据，2020 年全球平板电脑出货量为 1.641 亿台，同比增长 13.6%。2020 年 iPad 的全球出货量同比攀升了 6.7%，达到 5320 万台，占据了 32.5% 的全球市场份额，远远超过了第二名三星的 19.1% 的份额。今年前 9 个月，iPad 总出货量为 4030 万台，比去年同期增长 17.83%。<p></p><p>对用户来说，无论是 iPhone 还是 iPad，更长的手机更换周期以及新技术出现瓶颈，迟迟没有出现会让更理性的消费者两年甚至三年更换一次手中的设备。</p><p>对喜欢新鲜事物，或是那些数码爱好者来说，无论是苹果还是其他品牌的最新电子设备，在这个后疫情下的元件紧缺 " 寒冬 "，只有第一时间守候在电脑前下单，凭运气，才能也在第一时间收到自己心仪的产品。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

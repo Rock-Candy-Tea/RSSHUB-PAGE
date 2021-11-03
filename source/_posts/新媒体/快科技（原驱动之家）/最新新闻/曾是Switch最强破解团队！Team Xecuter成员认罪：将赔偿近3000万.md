@@ -18,7 +18,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211103/s_732a837fcaf744719c5e667c66
 <p>据悉，TX团队此前曾推出的以营利为目的的 SX Core、SX Lite和SX Pro破解套件，<span style="color:#ff0000;"><strong>能够从硬件上直接对Switch实现破解，玩家购买了破解套件之后，仅需自行安装即可运行TX自制系统，并在该系统中畅玩几乎任天堂所有的游戏内容，</strong></span>对任天堂造成了不小的市场冲击。</p>
 <p>但是，今年和去年任天堂法务部曾多次向黑客团队TX出手，向该团队和其头目发起诉讼，向其制作和售卖Switch主机破解套件的行为进行索赔。</p>
 <p>据最新报道，<strong>TX团队的领导者Gary Bowser已经对对两项罪名认罪，其中包括贩卖规避设备、串谋规避技术措施和贩卖规避设备。</strong></p>
-<p>报道称<span style="color:#ff0000;"><strong>，Gary Bowser将向任天堂赔偿450万美元（约2880亿人民币），</strong></span>检方也因此同意免除所有其他指控，但可能最高面临10年监禁。</p>
+<p>报道称<span style="color:#ff0000;"><strong>，Gary Bowser将向任天堂赔偿450万美元（约2880万人民币），</strong></span>检方也因此同意免除所有其他指控，但可能最高面临10年监禁。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211103/732a837fcaf744719c5e667c660b82a8.jpg" target="_blank"><img alt="曾是Switch最强破解团队！Team Xecuter成员认罪：将赔偿近3000万" h="336" src="https://img1.mydrivers.com/img/20211103/s_732a837fcaf744719c5e667c660b82a8.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"> </p>
 
