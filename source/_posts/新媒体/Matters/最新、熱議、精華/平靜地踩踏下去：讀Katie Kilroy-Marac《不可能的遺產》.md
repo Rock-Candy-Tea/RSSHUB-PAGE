@@ -1,0 +1,18 @@
+
+---
+title: '平靜地踩踏下去：讀Katie Kilroy-Marac《不可能的遺產》'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/203c99d5-70c3-4926-b4e3-44a7fa658eb9.jpeg'
+author: Matters
+comments: false
+date: Fri, 29 Oct 2021 09:25:34 GMT
+thumbnail: 'https://assets.matters.news/embed/203c99d5-70c3-4926-b4e3-44a7fa658eb9.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/203c99d5-70c3-4926-b4e3-44a7fa658eb9.jpeg" data-asset-id="203c99d5-70c3-4926-b4e3-44a7fa658eb9" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>Katie Kilroy-Marac, 2019,<em> An Impossible Inheritance: Postcolonial Psychiatry and the Work of Memory in a West African Clinic</em>. University of California Press.</blockquote><p>前陣子《天橋下的魔術師》的改編影劇開播，無論讚美或批評，我們確實又有了一波關於自身歷史、傷痛、以及記憶的討論。小說原著裡魔術師緩緩說出口的這句話：「有時候你一輩子記住的事，不是眼睛看到的事」，也再次成為熱門警句。小說以虛構方式處理個人情感與歷史的複雜糾葛，台北的中華商場彷彿島嶼一代時空的縮影：苦難，歡笑與更多難以言說的思緒錯雜其中。同樣談記憶、情感、創傷與歷史，Katie Kilroy-Marac在《不可能的遺產》中聚焦在一棟精神病院，深刻記錄了塞內加爾殖民過往與當前的糾纏。</p><p>「Demba忘不了自己第一次被帶到Fann診所的那天……」Kilroy-Marac這麼開場，那是1970年代某個大熱天下午，烈日，Demba的家人們再也難以負擔他的精神狀態，決定開車將他送去Fann診所。沿途，公路堵塞嚴重，被綁著的Demba大聲哭鬧，所有人的情緒都在斷線邊緣，直到抵達診所。那一刻，Demba忽然聽到嚴厲的喝斥：「快鬆綁他！」一位醫生大步走來。這是Demba與醫生Henri Collomb的初次相遇，此後他們經歷幾十年在Fann診所的相處時光，Demba甚至常哭著回憶：「Collomb就是我的父親。」</p><p>兩人相遇的Fann診所，是法國殖民政府在塞內加爾設立的唯一一間精神病院，宗旨是「幫助無法承受現代性而發瘋的當地人更好融入現代社會」──光聽宗旨本身就不難想像殖民主義的種族優越如何支配整棟病院。機構裡，過激的「治療」手段，例如電療與囚禁十分尋常，破敗的環境更是鬼影幢幢。這樣的處境，在法國軍醫Collomb的到來下迎來了轉機。</p><figure class="image"><img src="https://assets.matters.news/embed/0af54de3-c854-4302-b65a-20c566b56de5.jpeg" data-asset-id="0af54de3-c854-4302-b65a-20c566b56de5" referrerpolicy="no-referrer"><figcaption><span>Fann診所的正門一景（照片來源：https://actualite.nouvelle-aquitaine.science/henri-collomb-et-lethnopsychiatrie-au-senegal/）</span></figcaption></figure><p>Collomb醫生主張更為友善的陪伴環境，引入塞內加爾當地的村落會議模式，銜接在地的醫藥與治癒知識，讓精神病院更貼近在地脈絡。很快地，Collomb成為了這間診所的院長，在他的主導下，這間機構不再是「治癒所」或「監獄」，而成為讓人休息、獲得能量再出發的「休息站」。塞內加爾獨立後，Collomb繼續留任，推動在地療法的研究，並受到首任總統Senghor的大力支持與推崇──由法國軍醫帶頭肯認在地知識的價值與意義，這間診所不僅是塞內加爾現代化的指標，更是去殖民化的重要典範。</p><p>乍看迎向救贖與希望，但Kilroy-Marac要說的遠不滿足於這樣「應許之地」的神話。相反地，這位人類學家緊接著丟出故事的另一面：在Fann診所，Collomb帶出來的塞內加爾學生們卻紛紛反對自己老師的取徑，希望追隨歐美建立的精神醫學知識。這些新一代的當地年輕醫生疑惑，為什麼大家這麼相信著「傳統」療法而不願意正視現代醫學帶來的進步。對於他們來說，過往近乎於阻礙，只帶來陰影而沒有遺產。</p><figure class="image"><img src="https://assets.matters.news/embed/ca297364-9ca9-413c-a136-c276a299d0f1.png" data-asset-id="ca297364-9ca9-413c-a136-c276a299d0f1" referrerpolicy="no-referrer"><figcaption><span>Collomb時期的Fann診所曾發行自辦的刊物，本期由Demba擔任封面作畫（照片取自原書）</span></figcaption></figure><p>所以我們到底看了什麼？環繞著精神病院的過去，現在與即將到來的未來，Kilroy-Marac指出這棟建築種種幽微不明的角落。比方說，Collomb複製了村落會議模式，意圖建立開放平等的溝通群組，卻無視在原先傳統中，村落會議存在的高度階序關係與人際互動。Senghor積極推動的現代化進程，轉化了Fann診所的形式，整棟精神病院或許脫離了殖民的想像，卻陷入資本主義更強大的束縛。同時間，在診所服務的資深護士也不時耳語著Collomb其實並未完全捨棄殖民時期過激的治療方法，同樣監禁了拒不配合的病人。相反地，Demba則總在診所裡與所有的新人──無論醫生或患者──訴說醫院在Collomb帶領時的美好，以及對比之下如今的冷漠與陌生。</p><p>「我並非要重建Fann的歷史。」穿梭在鬼故事、耳語、懷舊、現代化的宣示、怨言與新醫院政策這些互相干擾，錯雜，交纏的不協和音之間，Kilroy-Marac這麼強調：「我關注的是這棟診所匯集的情感，記憶，與想像」。在眾聲喧嘩中，簡單的好壞二分難有落腳之地，Kilroy-Marac讓我們看見在「殖民歷史」的複雜性，我們擁有以及需要的是多重的理解和探問──過往如何既成為「遺產」，卻又難以被我們接受或肯認。</p><p>《不可能的遺產》沒有宏觀的理論野心，也沒有試圖強求什麼解釋，真要說這本書帶給我們什麼，或許就在於呈現了歷史的難以化約。在此我也想攀附吳明益在另一本小說《單車失竊記》後記裡的句子：「我期待讀者與書中人物彼此能感受到彼此的情感、踏踩時的頻率、汗味與不協調的呼吸、流淚與不流淚的悲傷。但沒有人停下來，不必彼此呼喚、親吻，就只要無聲、艱難、飢渴又平靜地踏踩下去。」</p><p>不必彼此呼喚、親吻，就只要無聲、艱難、飢渴又平靜地踏踩下去。這大抵是《不可能的遺產》踏踩出來的一條道路，邀請我們繼續跟隨。</p><hr><p>Katie Kilroy-Marac是多倫多大學（University of Toronto）人類學系副教授，她在哥倫比亞大學（Columbia University）取得人類學博士，受業於醫療人類學家Lesley Sharp。Katie Kilroy-Marac長期研究精神疾患議題，《不可能的遺產》是她在塞內加爾田野工作的總結，獲得頒發給傑出加拿大人類學者Labrecque-Lee書獎。近期她關注北美的心理疾患論述，特別是囤物癖如何被視為公衛危機與媒體奇觀。</p><hr><p>關鍵字：醫療人類學、殖民與後殖民、歷史書寫、精神疾患、西非</p>  
+</div>
+            
