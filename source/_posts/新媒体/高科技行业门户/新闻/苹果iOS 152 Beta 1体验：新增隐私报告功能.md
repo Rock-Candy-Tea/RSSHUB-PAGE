@@ -1,0 +1,19 @@
+
+---
+title: '苹果iOS 15.2 Beta 1体验：新增隐私报告功能'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221843563270.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 03 Nov 2021 01:48:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221843563270.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">大家好,我是氪哥。</p><p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span> 15．2 Beta 1是一个大版本的更新,这里我也使用了几天左右,下面简单来跟大家汇报一下。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221843563270.png" alt title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>更新内容</strong></p><p style="text-indent: 2em; text-align: left;">1、新增App隐私报告功能,每个App在你的手机上干了啥可以看得到。</p><p style="text-indent: 2em; text-align: left;">2、SOS紧急呼叫功能新增了快速按电源键五次激活的方式。</p><p style="text-indent: 2em; text-align: left;">3、专注模式微调。</p><p style="text-indent: 2em; text-align: left;">4、通知摘要有了新的外观。</p><p style="text-indent: 2em; text-align: left;">5、貌似新增了一个通信安全功能,没找着。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221843443544.jpg" alt title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>修复内容</strong></p><p style="text-indent: 2em; text-align: left;">1、修复控制中心亮度条锯齿的问题。</p><p style="text-indent: 2em; text-align: left;">2、其它待自测。</p><p style="text-indent: 2em; text-align: left;"><strong>存在问题</strong></p><p style="text-indent: 2em; text-align: left;">1、来电不显示通讯录的名字(有点影响)。</p><p style="text-indent: 2em; text-align: left;">2、指南针没有经纬度等详情未修复。</p><p style="text-indent: 2em; text-align: left;">3、App Store搜索可能出现错误。</p><p style="text-indent: 2em; text-align: left;">4、初次打开存储空间载入速度慢。</p><p style="text-indent: 2em; text-align: left;">5、快捷指令自动化存在部分未汉化的情况。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221844585181.jpg" alt title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>测试简介</strong></p><p style="text-indent: 2em; text-align: left;">测试系统:iOS 15．2 Beta 1。</p><p style="text-indent: 2em; text-align: left;">测试内容:待机、续航、跑分、后台4项测试。</p><p style="text-indent: 2em; text-align: left;">测试机型:电池健康为97%的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span> 12(会换算)。</p><p style="text-indent: 2em; text-align: left;">测试说明:测试的数据仅供参考。</p><p style="text-indent: 2em; text-align: center;">待机测试</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221844536058.png" alt title referrerpolicy="no-referrer"></p><p style="text-align: center; text-indent: 2em;">续航测试</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221845843880.png" alt title referrerpolicy="no-referrer"></p><p style="text-align: center; text-indent: 2em;">跑分测试</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221845616154.png" alt title referrerpolicy="no-referrer"></p><p style="text-align: center; text-indent: 2em;">后台测试</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member9683/202111/02221845207447.png" alt title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>更新建议</strong></p><p style="text-indent: 2em; text-align: left;">大家看准自己情况呗～</p><p style="text-indent: 2em; text-align: left;">创作声明</p><p style="text-indent: 2em; text-align: left;">纯属用爱发电,所测得的数据可以转载,但必须在显眼位置说明「转载自V玩氪」。</p> 
+  
+</div>
+            
