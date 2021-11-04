@@ -1,0 +1,19 @@
+
+---
+title: 'Match公布约会_元宇宙_计划：基于Tinder虚拟商品发展的经济'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/11/92ab48e0bbb2857.png'
+author: cnBeta
+comments: false
+date: Thu, 04 Nov 2021 06:03:29 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/11/92ab48e0bbb2857.png'
+---
+
+<div>   
+Tinder已经经历了一次大改革，它最近推出了 Explore，这是应用内的一个新部分，它将实现更多的互动体验--其中包括第二个Swipe Night系列、实时聊天、基于兴趣的匹配等等。<br>
+ 现在，母公司Match集团正在详细介绍其对Tinder和Explore的长期愿景，该愿景将扩展到包括独家、共享和现场体验及基于虚拟商品的经济并由Tinder新应用内货币Tinder Coins支持。此外，Match今日谈到了其更广泛的约会 “元宇宙(metaverse)”计划以及基于化身的虚拟体验，以后可能还会推广到包括Tinder在内的所有应用中。<p style="text-align: left;">就虚拟经济而言，其发展的第一阶段包括Tinder Coins，其已经在几个市场进行了测试，包括欧洲的一些国家。</p><p style="text-align: left;">明年，Tinder Coins将向全球用户开放，从而用于在应用内购买Tinder的自选产品如Boost and Super Like--这些工具旨在帮助在线约会者获得更多匹配。它们还将被用于新的即付即用产品，这些产品以前只能通过订阅来获得，比如See Who Likes You（看谁喜欢你）功能。它们将被用来激励应用上的某些行为，如鼓励会员验证他们的个人资料或在他们的简历中添加视频。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/92ab48e0bbb2857.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/92ab48e0bbb2857.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">然而从长远来看，Tinder将发展其应用--包括虚拟商品和交易生态系统，它将计划于2022年或更晚时候推出。这一战略举措在Tinder母公司Match集团的第三季度财报中得到了详细说明。</p><p style="text-align: left;">在其约会应用组合中，Match集团第三季度收入为8.02亿美元，同比增长25%，付费用户为1630万，同比增长16%。但该公司对新冠大流行对其业务产生影响的事实是透明的--大流行初期的锁定迫使其向虚拟体验转移。而现在，跟大流行之前相比，一些用户仍不太倾向于亲自见面。此外，以亚洲的新冠影响挥之不去为由，Match预测第四季度的增长比预期的要弱，收入为8.1-8.2亿美元，而不是分析师预测的8.38亿美元。</p><p style="text-align: left;">为了应对这种不断变化的在线约会市场，Tinder已经倾向于在应用内进行虚拟体验，而不只是推动人们到线下联系。这就带来了Tinder Explore的推出，现在，它正在推动Tinder即将推出的基于虚拟商品的经济计划。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/3df55b4bb7e65ae.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/3df55b4bb7e65ae.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据Match集团CEO Shar Dubey在今日的电话会议上对投资者的披露了解到，Tinder的虚拟商品将帮助用户进行自我表达以及脱颖而出的能力--特别是在Explore体验将启用的一对多的表面区域，“因此，我们设想的虚拟商品的方式是，它是用户将能收集的东西以及给予和赠送他人的东西。”</p><p style="text-align: left;">Dubey称，2022年的Tinder将致力于设计虚拟商品、对它们进行分类、创建它们的价值结构并确定在用户的Tinder档案中哪里最能展示这些物品。这将涉及到测试虚拟商品，然后根据这些测试进一步迭代和完善产品。尽管还有很多工作要做，但这位执行官对这个计划还是非常乐观。</p><p style="text-align: left;">她说道：“如果我们做得好，我确实认为这可能是Tinder的一个多年收入载体，这在今天是不存在的。”</p><p style="text-align: left;">除了在Tinder内部发展虚拟商品经济之外，Match还谈到了其利用Hyperconnect的更大计划。Hyperconnect是其在2021年早些时候以17.3亿美元收购的首尔社交应用开发商。到目前为止，Hyperconnect的表现不如预期，部分原因是COVID，部分原因是其他问题--包括营销业绩和产品延迟。</p><p style="text-align: left;">不过Dubey表示，Match仍然相信Hyperconnect对其业务的长期价值。</p><p style="text-align: left;">她特别谈到了Hyperconnect对基于化身的约会应用的测试--以及名为Single Town的“元宇宙”体验，在那里，用户使用实时音频进行互动并在虚拟空间中彼此见面。用户可以在虚拟世界中表达对彼此的兴趣，然后选择私下联系以继续他们的对话。</p><p style="text-align: left;">Dubey在谈到这项测试时说道：“这是以一种变革的方式来实现元宇宙体验，即人们如何在约会或社交发现平台上见面和相互了解，而且更类似于人们在现实世界中的互动。”</p><p style="text-align: left;">该公司表示，这种类型的互动性是Match集团最终希望在其投资组合中利用的东西。</p><p style="text-align: left;">“特别是下一阶段的约会应用，将是所有关于更丰富、更有机、更类似于现实生活中发现、认识和了解人们的方式。技术最终会达到这个目的。而Hyperconnect建立的这个为Single Town提供动力的底层技术平台，其建立方式可以很容易地被其他平台所利用，”Dubey指出，但她并没有说出她心目中的Match所属应用。</p><p style="text-align: left;">然而一个类似于元宇宙的约会平台似乎以后可以跟类似于Tinder的虚拟商品经济结合起来，不过该公司并没有说明这是一个计划。但根据目前的社会趋势，很明显，约会应用的用户有一天可以购买物品来装饰他们的头像或为其他用户购买礼物，这些都是用虚拟货币购买的--就像在其他“元宇宙”平台如Roblox、Fortnite或Meta（Facebook）的Horizon内。</p><p style="text-align: left;">Match集团在其股东信中只暗示了这种约会元宇宙推出的可能性和它所创造的体验。“这种新体验让我们看到了元宇宙体验如何适用于约会，它是一种创新，它将帮助我们在进入约会的下一阶段时发展我们的投资组合。”</p><p style="text-align: left;">“我们对Hyperconnect的长期前景仍非常乐观，”Match集团首席财务官兼CEO Gary Swidler在电话中说道，“它可以为整个Match集团的长期增长做出极其重大的贡献。我们有很多方法可以做到这一点。我们认为，我们可以利用视频、音频、他们所拥有的AI能力、节制的东西和安全。”</p><p style="text-align: left;">此外，他还表示：“新元宇宙元素和我们在测试中看到的体验--这是我们有可能建立在独立应用和/或有可能将这种用户体验利用到我们的一些应用组合中的东西。”</p>   
+</div>
+            
