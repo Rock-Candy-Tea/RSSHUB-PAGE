@@ -31,7 +31,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/cra
 <p>“Clearly, I’m no fan of sideloading, but I want to address an argument I hear a lot: ‘Let people choose whether or not to sideload. Let them judge the risks, and they can decide themselves.’ And it’s easy to see the attraction of this argument, but history shows us that it doesn’t play out the way we’d hope because even if you have no intention of sideloading, people are routinely coerced or tricked into doing it. And that’s true across the board, even on platforms like Android that sideloading somewhat difficult to do.” </p>
 </blockquote>
 <p>You can watch Federighi’s speech below.  </p>
-<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
 <iframe loading="lazy" class="youtube-player" width="1000" height="563" src="https://www.youtube.com/embed/iwstKnhWs6k?version=3&rel=0&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
 </div>

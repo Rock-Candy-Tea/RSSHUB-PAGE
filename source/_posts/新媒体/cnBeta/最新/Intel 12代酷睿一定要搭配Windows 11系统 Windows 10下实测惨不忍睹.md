@@ -1,0 +1,21 @@
+
+---
+title: 'Intel 12代酷睿一定要搭配Windows 11系统 Windows 10下实测惨不忍睹'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1104/62680a52f9381de.png'
+author: cnBeta
+comments: false
+date: Thu, 04 Nov 2021 14:16:31 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1104/62680a52f9381de.png'
+---
+
+<div>   
+刚刚Intel正式解禁了12代酷睿Alder
+Lake的性能评测，我们的首发评测也详细介绍了酷睿i9/i7的性能，这一次Intel提升非常大，一扫14nm处理器的各种不爽。不过有一件事要再次提醒下，Intel之前也强调了12代酷睿一定要搭配微软最新的Windows
+11系统，这不是Wintel联盟的商业胡吹，而是Windows 11系统才真正针对12代酷睿的大小核等设计做了优化。<br>
+ <p>不信邪的话，TH网站做了<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 10与Windows 11系统下的12代酷睿性能对比测试。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/62680a52f9381de.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/62680a52f9381de.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/62680a52f9381de.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/4883b4f00ae1993.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/4883b4f00ae1993.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/4883b4f00ae1993.png" referrerpolicy="no-referrer"></a><br></p><p>上面这两个是Windows 11下的单核、多核性能，结果还是很正常的，Alder Lake的表现很不错。</p><p>再来看看下面的Windows 10系统下性能测试，如下所示：</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/785eec43afba445.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/785eec43afba445.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/785eec43afba445.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/f6412637a964bc2.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/f6412637a964bc2.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/f6412637a964bc2.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/0f2fd8ead3977f3.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/0f2fd8ead3977f3.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/0f2fd8ead3977f3.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/9121e1bca76ed71.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/9121e1bca76ed71.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/9121e1bca76ed71.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/7a4404ee1796390.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/7a4404ee1796390.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/7a4404ee1796390.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/b38ae5338f1cd7c.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/b38ae5338f1cd7c.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/b38ae5338f1cd7c.png" referrerpolicy="no-referrer"></a><br></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1104/7b228567708a2e2.png"><img data-original="https://static.cnbetacdn.com/article/2021/1104/7b228567708a2e2.png" src="https://static.cnbetacdn.com/thumb/article/2021/1104/7b228567708a2e2.png" referrerpolicy="no-referrer"></a><br></p><p>每个测试的结果不一一分析了，看下表格就知道问题了，<strong>12代酷睿Alder Lake在Windows 10下的性能严重下滑，甚至可以说惨不忍睹，单核及多核都会收到严重影响。</strong></p><p>至于为什么会出现这个情况，那也很简单，Alder Lake的大小核架构严重依赖调度，Windows 11有优化，Windows 10没有，Intel自己的线程调度器似乎也只针对Windows 11有效，一旦不能正确调度CPU线程，那么很可能大量应用都是跑在了小核心上，性能自然严重受影响。</p><p>简单来说，12代酷睿的玩家一定要注意，<strong>哪怕你不喜欢Windows 11系统，也一定升级到Windows 11系统再用新一代平台，否则性能严重下降。</strong></p><p>另外，也希望Intel和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>能改变下想法，Windows 10确实是几年前的系统了，但它会在长时间内都是主流，12代酷睿的线程调度优化不太可能说只能用于Windows 11而技术上不支持Windows 10，只要两家公司愿意，Windows 10系统正常支持12代酷睿并没有什么问题，除非他们是真的希望强推Windows 11。</p>   
+</div>
+            
