@@ -5,16 +5,16 @@ categories:
  - 新媒体
  - DeepMind
  - Blog
-headimg: 'https://picsum.photos/400/300?random=9951'
+headimg: 'https://picsum.photos/400/300?random=3321'
 author: DeepMind
 comments: false
-date: Wed, 03 Nov 2021 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9951'
+date: Tue, 02 Nov 2021 00:00:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3321'
 ---
 
 <div>   
 <p><strong>Note: This post is a summary of a talk given at CERN Sparks! Serendipity Forum in September 2021, which can be viewed <a href="https://www.youtube.com/watch?v=EKozG-B9mkI">here</a>.</strong></p>
-<p>When people picture a world with artificial general intelligence (AGI), robots are more likely to come to mind than enabling solutions to society’s most intractable problems. But I believe the latter is much closer to the truth. AI is already enabling huge leaps in tackling fundamental challenges: from solving protein folding to predicting accurate weather patterns, scientists are increasingly using AI to deduce the rules and principles that underpin highly complex real-world domains - ones they might never have discovered unaided.</p>
+<p>When people picture a world with artificial general intelligence (AGI), robots are more likely to come to mind than enabling solutions to society’s most intractable problems. But I believe the latter is much closer to the truth. AI is already enabling huge leaps in tackling fundamental challenges: <a href="https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands" rel="noopener" target="_blank">from solving protein folding</a> to <a href="https://deepmind.com/blog/article/nowcasting" rel="noopener" target="_blank">predicting accurate weather patterns</a>, scientists are increasingly using AI to deduce the rules and principles that underpin highly complex real-world domains - ones they might never have discovered unaided.</p>
 <p>Advances in AGI research will supercharge society’s ability to tackle and manage climate change - not least because of its urgency but also due to its complex and multifaceted nature.</p>
 <h3>Taking control</h3>
 <p>Looking across the field of AI research today, there are two common categories of problems scientists are focused on: prediction and control. Prediction models try to learn about a domain (such as weather patterns) and understand how it might evolve, while control models prompt agents to take actions in that environment. Building a successful path to AGI requires understanding and developing algorithms in both spaces, accounting for all the variations that our natural and social environments throw at us, from how viruses mutate or how language may evolve in use and meaning over time to how to help produce energy from fusion power. Two real-world domains that scientists at DeepMind are contributing to tackle climate change while developing what’s required to build AGI are weather prediction and plasma control for fusion.</p>
