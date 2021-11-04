@@ -1,0 +1,18 @@
+
+---
+title: 'Q宠要回归？新版QQ音乐推出宠物功能：这个玩法非常熟悉！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6183a07e6227687e0700002b_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 04 Nov 2021 01:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6183a07e6227687e0700002b_1024.jpg'
+---
+
+<div>   
+<p>11 月 4 日，QQ 音乐更新 11.0 大版本，除了带来全新的 UI 设计以外，有一项功能引起了小雷的注意，那就是 "M-PETS" 电子宠物功能。<strong>那个离开我们 3 年的《QQ 宠物》，如今似乎又换了一种形式 " 重生 " 了，只不过承载宠物的平台不再是 QQ。</strong></p><p>遗憾的是，新版 QQ 音乐的简洁模式依旧不支持更换外观主题，小雷希望后续可以对简洁模式也开放更换皮肤吧。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202111/6183a07e6227687e0700002b_1024.jpg" data-height="1944" data-width="2592" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6183a07e6227687e0700002b_1024.jpg" referrerpolicy="no-referrer"></div></div>QQ 音乐的 "M-PETS" 电子宠物功能可以在简洁模式以及标准模式下启用，入口在主界面的上方。点进去后就会以 " 盲盒 " 的形式抽取自己的宠物，如果用户不喜欢，还可以通过重新抽取。<strong>值得一提的是，第二次抽取可以直接选择自己喜欢的宠物，" 孵化 " 大约需要一首歌的时间。</strong><p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/6183a07e6227687e0700002c_1024.jpg" data-height="328" data-width="1344" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6183a07e6227687e0700002c_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>小雷比较喜欢经典的企鹅造型，但看着还是比较憨，没有以前 QQ 宠物的那种可爱的感觉，而且互动性也远不如当年的 Q 宠。</strong><p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/6183a07e6227687e0700002d_1024.jpg" data-height="2772" data-width="1344" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6183a07e6227687e0700002d_1024.jpg" referrerpolicy="no-referrer"></div></div>孵化完成进入游戏之后，实际玩法和小雷想象中的 QQ 宠物还是相差太远。<strong>以前 QQ 宠物的客户端就是一个大型的宠物社区，里面有各种类似生活日常、游戏冒险、休闲钓鱼等项目，打开基本就能玩上一天。不仅如此，还有 Q 宠大乱斗等空间页游也很有意思。</strong><p></p><p>QQ 音乐内置的所谓 "QQ 宠物 " 的功能，更多的还是以前爆火的一款小游戏《旅行青蛙》魔改过来的，玩法几乎一模一样。游戏一开始会给你一百多个代币，每 30 分钟会自动生成 30 枚代币，用户还可以通过听歌等形式加速获得。<strong>代币可以用来购买道具、食物以及装扮，是用来给宠物 " 出门 " 时的消耗品。</strong></p><p>宠物每次回来都会获得明信片，不同的消耗品组合也能让它带来更多不同的明信片，《旅行青蛙》的元素基本都学到了。</p><p><strong></strong></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><strong><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/6183a07e6227687e0700002e_1024.jpg" data-height="2772" data-width="1344" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6183a07e6227687e0700002e_1024.jpg" referrerpolicy="no-referrer"></strong></div></div>有网友说这款小游戏是 QQ 宠物 2.0，小雷是不认同的，除了有企鹅造型以外，可以说基本没有以前 QQ 宠物具备的特点，反而像是一项增加用户粘性的玩法，商业味十足。<strong>当然，《旅行青蛙》和 QQ 宠物形象的结合不失为用户通勤路上消磨时间，或者是加强社交互动的好方式，小雷并不反感这样的功能。</strong><p></p><p><strong>目前来看，QQ 音乐可能需要在 "M-PETS" 上设置一些奖励措施才能吸引玩家继续玩，比如用游戏代币兑换一天绿钻会员这样。</strong>把这个功能当做 QQ 宠物 2.0 来宣传还是有点夸大其词，真要复活 Q 宠还不如下本做一个手机版的宠物社区还好。当然，小雷觉得以后应该是见不到了。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202111/6183a07e6227687e0700002f_1024.jpg" data-height="335" data-width="954" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6183a07e6227687e0700002f_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
