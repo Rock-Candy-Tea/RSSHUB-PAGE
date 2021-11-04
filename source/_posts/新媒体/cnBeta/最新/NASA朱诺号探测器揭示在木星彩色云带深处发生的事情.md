@@ -1,0 +1,19 @@
+
+---
+title: 'NASA朱诺号探测器揭示在木星彩色云带深处发生的事情'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1104/9053583765ea600.jpg'
+author: cnBeta
+comments: false
+date: Wed, 03 Nov 2021 23:43:16 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1104/9053583765ea600.jpg'
+---
+
+<div>   
+<strong>莱斯特大学的科学家对在木星周围轨道上捕获的数据进行了研究，揭示了对这颗巨大行星的独特和色彩斑斓的云带下面的深层情况的新见解。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1104/9053583765ea600.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1104/9053583765ea600.jpg" alt="JunoCam-Jupiter-Artist-Impression-777x437.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">美国宇航局（NASA）朱诺号探测器携带的微波辐射计的数据显示，木星的云带延伸到云层的深处，而且木星的带状和区状的外观在云的底部附近发生了逆转。微波光使行星科学家能够凝视木星五彩斑斓的云层下的深处，了解更温暖、更黑暗、更深层的天气和气候。</p><p style="text-align: left;">在压力低于5 bar的高度（或大约是地球上平均大气压力的五倍），行星的带状云带在微波光中闪闪发光，而区状云带则较暗。但是，在更高的压力下（高于10bar），一切都会改变，让科学家们看到了气象学和环流中的一个意外逆转。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1104/9a2ea9288d8f523.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1104/9a2ea9288d8f523.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">莱斯特大学行星科学副教授、朱诺号任务的参与科学家Leigh Fletcher博士是发表在《地球物理研究-行星》杂志上的这项研究的主要作者。</p><p style="text-align: left;">他表示：“朱诺号任务的主要目标之一是窥视木星大气层的云层之下，并探测更深的隐藏层。”</p><p style="text-align: left;">“我们的研究表明，那些五颜六色的云带只是‘冰山一角’，中纬度的云带不仅延伸到深处，而且似乎越往下就越改变其性质。”</p><p style="text-align: left;">“我们一直称这个过渡带为jovicline，它的发现只有通过朱诺的微波仪器才得以实现。”</p><p style="text-align: left;">木星最引人注目的属性之一是其独特的云带外观。行星科学家称浅色的、白色的带子为区，而较深的、红色的带子为带。木星的行星级风在这些彩色条纹的边缘以相反的方向，即东边和西边循环。一个关键的问题是，这种结构是否局限于行星的云顶，或者这些带和区是否随着深度的增加而持续存在。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1104/44a2fcad700a303.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1104/44a2fcad700a303.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">对这一现象的调查是NASA朱诺号任务的主要目标之一，该航天器携带一个专门设计的微波辐射计，首次测量来自太阳系最大行星深处的辐射。</p><p style="text-align: left;">朱诺号团队利用该仪器的数据，通过比以往任何时候都更深入地窥视木卫二大气层来研究带和区的性质。</p><p style="text-align: left;">朱诺号的微波辐射计在6个波长通道中工作，范围从1.4厘米到50厘米，这些使朱诺能够探测大气层的压力，从大气层顶部接近0.6 bar的压力到超过100 bar的压力，大约250公里深。</p><p style="text-align: left;">在云层顶部，木星的带状云带出现明亮的微波发射，而区状云带仍然是暗的。明亮的微波发射要么意味着大气温度较高，要么意味着没有氨气，而氨气是微波光的强烈吸收者。这种构造一直持续到大约5bar。而当压力超过10bar时，这种模式就会发生逆转，区状云带变得微波明亮，而带状云带变得黑暗。因此，科学家们认为，有些东西--无论是物理温度还是氨的丰度--必须随着深度的变化而变化。</p><p style="text-align: left;">Fletcher 博士将5 bar和10bar之间的这个过渡区域称为jovicline，这是与地球海洋的温跃层区域的比较，在那里海水从相对温暖急剧过渡到相对寒冷。研究人员观察到，jovicline几乎与由冷凝水形成的稳定大气层相吻合。</p><p style="text-align: left;">NASA喷气推进实验室（JPL）的Scott Bolton博士是朱诺号任务的首席调查员。他表示：“这些惊人的结果让我们第一次看到了木星著名的区状和带状云带是如何随深度演变的，揭示了以三维方式调查这颗巨行星大气层的力量。”</p><p style="text-align: left;">有两种可能的机制可能是造成亮度变化的原因，每一种都暗示着不同的物理结论。一种机制与带状和区状的氨气分布有关。氨气对微波是不透明的，这意味着氨气相对较少的区域在朱诺号的观测中会更亮。这种机制可能意味着一个对立的环流单元的堆叠系统，类似于地球热带和中纬度地区的模式。</p><p style="text-align: left;">这些环流模式将在浅层的带子里提供下沉，在深层的带子里提供上涌--或者是强烈的风暴和降水，将氨气从一个地方移到另一个地方。另一种可能性是，发射的梯度与温度的梯度相对应，温度越高，微波发射越大。温度和风是相关的，所以如果这种情况是正确的，那么木星的风可能会随着云层下的深度而增加，直到到达 jovicline，然后逐渐减弱，进入更深的大气层--这也是NASA伽利略探测器团队在1995年提出的，它在降落伞下下降到木星的云层时测量了风速。</p><p style="text-align: left;">可能的情况是，这两种机制同时起作用，各自对观察到的亮度变化作出部分贡献。 科学家计划了解为什么木星的环流会有这样的表现，以及太阳系的其他巨行星是否也是如此。</p><p style="text-align: left;">莱斯特大学的科学家们在朱诺号5年的主要任务中一直是朱诺号团队的成员。今年早些时候，莱斯特大学的研究人员与来自日本宇宙航空研究开发机构（JAXA）、波士顿大学、NASA戈达德太空飞行中心和国家信息与通信技术研究所（NICT）的同事合作，揭示了一个解决木星"能源危机"的解决方案。他们的研究发表在《自然》杂志上，表明木星强大的极光负责提供整个星球的热量，尽管它只覆盖了该星球面积的不到10%。</p><p style="text-align: left;">莱斯特大学的天文学家和行星科学家还将领导即将到来的詹姆斯-韦伯太空望远镜的木星观测任务，并在欧空局（ESA）将于2022年发射的木星冰冷卫星探测器（JUICE）的科学和仪器方面发挥主导作用。</p>   
+</div>
+            
