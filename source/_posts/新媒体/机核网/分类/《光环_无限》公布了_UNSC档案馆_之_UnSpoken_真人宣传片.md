@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/68a7708d-34f5-4959-8f40-f53c02dfeade.jpg'
 author: 机核网
 comments: false
-date: 2021-11-04 04:09:58
+date: 2021-11-04 05:07:54
 thumbnail: 'https://image.gcores.com/68a7708d-34f5-4959-8f40-f53c02dfeade.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/68a7708d-34f5-4959-8f40-f53c02dfeade.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-3cu07" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="3cu07" data-offset-key="35d3h-0-0"><div data-offset-key="35d3h-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="35d3h-0-0"><span data-text="true">343工作室于今日公布了《光环:无限》的“UNSC档案馆”系列名为“UnSpoken”的真人宣传片。在宣传片中一位海军陆战队员用手语讲述了他在 Harvest 飞船上保护乘客时意外缴获星盟的能量护盾，而士官长的防御系统的研发进度也因此大幅提升的故事。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="3cu07" data-offset-key="eu0i2-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=5wNOxKB5PoVjBjsvMNi-Mhe7lxk00yNXIT2ggQ__"></iframe></div></div></div></figure>
+<img src="https://image.gcores.com/68a7708d-34f5-4959-8f40-f53c02dfeade.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-8i2lq" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="8i2lq" data-offset-key="35d3h-0-0"><div data-offset-key="35d3h-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="35d3h-0-0"><span data-text="true">343工作室于今日公布了《光环:无限》的“UNSC档案馆”系列名为“UnSpoken”的真人宣传片。在宣传片中一位海军陆战队员用手语讲述了他在 Harvest 飞船上保护乘客时意外缴获星盟的能量护盾，而士官长的防御系统的研发进度也因此大幅提升的故事。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="8i2lq" data-offset-key="eu0i2-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=5wNOxKB5PoVjBjsvMNi-Mhe7lxk00yNXIT2ggQ__"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/44f15854-d673-454b-8a5b-2e3d077fdc11.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/7) </figcaption>
@@ -48,6 +48,6 @@ thumbnail: 'https://image.gcores.com/68a7708d-34f5-4959-8f40-f53c02dfeade.jpg'
 <img src="https://image.gcores.com/c8e26c6f-5eb1-4e9b-8ab3-fcf02f99e309.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (7/7) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="3cu07" data-offset-key="77ma4-0-0"><div data-offset-key="77ma4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="77ma4-0-0"><span data-text="true">《光环：无限》将于12月8日在 Xbox Series X/S、Xbox One、和 PC 平台发售。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="8i2lq" data-offset-key="77ma4-0-0"><div data-offset-key="77ma4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="77ma4-0-0"><span data-text="true">《光环：无限》将于12月8日在 Xbox Series X/S、Xbox One、和 PC 平台发售。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
