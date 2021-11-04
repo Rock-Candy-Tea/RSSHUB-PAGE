@@ -23,7 +23,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <li>什么是AI文案？</li>
 <li>人工智能会取代文案吗？</li>
 <li>如何使用 AI 文案工具</li>
-<li>什么是最好的 AI 文案？</li>
 </ol>
 <h2 id="toc-1">一、什么是AI文案？</h2>
 <p>AI文案是由机器学习软件生成的内容。它通过训练算法来处理数百万个网页以寻找模式来做到这一点。然后它使用这些知识来生成关于设定主题的新内容。</p>
