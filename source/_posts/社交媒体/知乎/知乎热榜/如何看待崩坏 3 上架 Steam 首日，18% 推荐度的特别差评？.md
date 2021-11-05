@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-fc9ced94afee07c80fe8049b7a6b2670_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=6063'
 author: 知乎
 comments: false
-date: Thu, 04 Nov 2021 14:28:14 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-fc9ced94afee07c80fe8049b7a6b2670_1440w.jpg'
+date: Thu, 04 Nov 2021 16:40:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6063'
 ---
 
 <div>   
-水星的黄昏的回答<br><br><p></p><p>NGA瓜版过来的，我觉得这瓜吃的很爽。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-fc9ced94afee07c80fe8049b7a6b2670_1440w.jpg" data-caption data-size="normal" data-rawwidth="1117" data-rawheight="715" data-default-watermark-src="https://pic4.zhimg.com/v2-d27f3a8678e56658efb7ff12e0734572_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-fc9ced94afee07c80fe8049b7a6b2670_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>反正崩崩崩在其他平台的评分也不高，多一个差评如潮也是“虱子多了不痒”的程度。</p><p>很多人容易犯一种认知错误。<b>越是着急证明什么，就越有可能起到反作用</b>，当年四狗砸PS就是个活生生的例子。而且STEAM既能查库存、还能查游戏时间，<b>这种激进做法的影响还是比较恶劣的。希望这种风气不要在STEAM上面散播开，潘多拉魔盒可不是闹着玩的。</b></p><p>呐，前面只是善意的提醒，各位别想太多哈。</p><p>这事儿肯定会有后续，毕竟纸里包不住火，早晚会传出去。</p><p></p>  
+瑟瑟发抖小萌新的回答<br><br><p>这问题我在崩版也说了一次（</p><p>其实想想也就知道了，究竟什么人才会去玩这个Steam服？</p><p>对于真的去玩的来说，诉求无非如下几种可能性：</p><ul><li>寄望于Steam版能有反和谐、把以前阉割掉的某些系统加回来的</li><li>觉得都上架Steam了，应该能有一个真正的PC端（而不是之前那个键鼠操作反人类、UI完全手游式的让人感觉像是模拟器的暴力移植版）的</li><li>顺手下一个想当原本的账号的登录器的</li><li>新服开了，想从零开始PvP/摆烂的</li><li>被未成年人限制卡住的（确信</li></ul><p>大概就这几种人会去玩</p><p>可这个客户端呢？</p><ul><li>它是个独立渠道服，需要重新注册，甚至因为本身就是PC端而比其他渠道服还少了个平台</li><li>它又是渠道二服的一部分，新号进去依然得面对和有丰厚积累的老玩家的PVP</li><li>反和谐？不存在的</li><li>它需要实名认证（Steam上搞实名认证，这操作真没见过.jpg），很显然也会有国服那些限制</li><li>依然是那个反人类PC端</li><li>它居然还会蓝屏？？？？？？？</li></ul><p>相比起来仅仅是缺点多了一堆，那玩这玩意还不如接着玩原本的PC端</p><p>这为数不多的愿意去玩的玩家怎么可能还绷得住呢？怎么可能打好评呢？</p><p>事实上这样的差评占到了三成左右，剩下七成都是属于无意义恶意差评了</p><p>喜欢的人没来刷好评，厌恶的人赶来刷差评，而真的愿意一试的玩家蚌埠住了，请问这个好评率怎么可能不低？？？？？</p><p><br></p><p>说实话，我真的不知道米哈游开这个崩三Steam国服到底是想给谁玩的，难不成真的只是Steam日服/国际服的陪跑?</p>  
 </div>
             
