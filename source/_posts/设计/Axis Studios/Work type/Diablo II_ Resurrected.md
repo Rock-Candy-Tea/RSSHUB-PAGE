@@ -5,15 +5,15 @@ categories:
  - 设计
  - Axis Studios
  - Work type
-headimg: 'https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_011.-full.jpg'
+headimg: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 author: Axis Studios
 comments: false
-date: 2021-11-05 14:08:28
-thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_011.-full.jpg'
+date: 2021-11-05 15:09:22
+thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 ---
 
 <div>   
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/eAIEDm4sUxA" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/https://vimeo.com/642732829" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>+
             
                 
                     <h2 class="mb-0 c-name">
@@ -84,6 +84,16 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstud
     
         
                 
+                    
+                        <p class="playlist-control">
+
+<a href="https://axisstudiosgroup.com/work/diablo-ii-resurrected/#" data-toggle="modal" data-target="#galleryModal" class="play" data-video-poster="/site/assets/files/14490/diablo_axisstudios_011.jpg" data-video-type="video/youtube" data-video-url="https://www.youtube.com/watch?v=eAIEDm4sUxA">
+
+</a>
+
+                        </p>
+                    
+                    
 
 
 
@@ -105,7 +115,33 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstud
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_011.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="874" src="https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_018.-full.jpg" alt referrerpolicy="no-referrer">
 
 
 
@@ -287,7 +323,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstud
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_018.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14482/diablo_axisstudios_011.-full.jpg" alt referrerpolicy="no-referrer">
 
 
 
