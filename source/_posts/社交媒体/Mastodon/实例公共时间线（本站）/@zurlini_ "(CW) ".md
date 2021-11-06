@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/039/975/905/original/4b49ba2fe7b8a0d2.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/039/977/037/original/bd22212b09cd9e63.jpeg'
 author: Mastodon
 comments: false
-date: Sat, 06 Nov 2021 09:00:03 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/039/975/905/original/4b49ba2fe7b8a0d2.jpeg'
+date: Sat, 06 Nov 2021 10:00:02 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/039/977/037/original/bd22212b09cd9e63.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】モノクロ版奥さん （オリジナル：母娘どんぶり）<br>投稿日：2017.11.25<br>モノクロ版奥さんを描いてみました。<br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/ORIGINAL" class="mention hashtag" rel="tag">#ORIGINAL</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E6%AF%8D%E5%A8%98%E3%81%A9%E3%82%93%E3%81%B6%E3%82%8A" class="mention hashtag" rel="tag">#母娘どんぶり</a><br><a href="https://www.a-legend.net/wordpress/?p=8358" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=8358</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/975/905/original/4b49ba2fe7b8a0d2.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[漫画] 鋼の錬金術師 第01巻（荒川弘）<br>投稿日：2018.4.9<br>作品名　：鋼の錬金術師<br>巻数　　：第01巻<br>作家名　：荒川弘<br>出版社　：スクウェア・エニックス (2002/1/22)<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%AD%E3%82%BC" class="mention hashtag" rel="tag">#ロゼ</a><br><a href="https://pawoo.net/tags/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB" class="mention hashtag" rel="tag">#鋼の錬金術師</a><br><a href="https://www.a-legend.net/wordpress/?p=8959" rel="nofollow noopener" target="_blank">https://www.a-legend.net/wordpress/?p=8959</a></p><br><img src="https://img.pawoo.net/media_attachments/files/039/977/037/original/bd22212b09cd9e63.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
