@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-11-06 00:23:59
-thumbnail: 'https://pica.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162'
+date: 2021-11-06 01:45:57
+thumbnail: 'https://pic2.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-1eb4a0d227f0198500e5716e47b99590_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">為夢而生，</span><span class="bio">哦，耶~</span>
 <a href="https://www.zhihu.com/question/311124201/answer/2194150580" class="originUrl" hidden>查看知乎原文</a>
 </strong>
