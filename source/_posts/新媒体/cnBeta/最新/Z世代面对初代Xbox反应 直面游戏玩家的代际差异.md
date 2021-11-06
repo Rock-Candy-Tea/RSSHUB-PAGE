@@ -1,0 +1,19 @@
+
+---
+title: 'Z世代面对初代Xbox反应 直面游戏玩家的代际差异'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1106/1c9bc4f8b857db5.jpg'
+author: cnBeta
+comments: false
+date: Sat, 06 Nov 2021 03:18:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1106/1c9bc4f8b857db5.jpg'
+---
+
+<div>   
+今日（11月6日），Xbox官方发布了一段关于“Z世代青年面对初代Xbox的反应”的视频，官方在这段视频中充分展现了游戏玩家群体的代际差异和联系。视频刚开始是邀请了一批Z世代青年“穿越”到20年前来到一个典型玩家装饰的房间内，之后让他们尝试在初代Xbox游玩游戏，最后，官方邀请出经历过初代Xbox的玩家与Z世代青年见面交流以及一起游玩游戏。<br>
+ <p><strong>原视频：</strong></p><p style="text-align: center;"><strong><iframe src="//player.youku.com/embed/XNTIwMDM1NTcyMA==?client_id=5a73c0df8eb0d91d" width="640" height="480" frameborder="0"></iframe></strong></p><p><strong>视频截图</strong><strong>：</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/1c9bc4f8b857db5.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/1c9bc4f8b857db5.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/1c9bc4f8b857db5.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/249824a66563939.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/249824a66563939.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/249824a66563939.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/3bb82a8d82da27e.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/3bb82a8d82da27e.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/3bb82a8d82da27e.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/7192291d0e38d49.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/7192291d0e38d49.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/7192291d0e38d49.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/a76fbd436cfd1dc.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/a76fbd436cfd1dc.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/a76fbd436cfd1dc.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/9fafbf007d04db3.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/9fafbf007d04db3.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/9fafbf007d04db3.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/4d72ec5a8083233.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/4d72ec5a8083233.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/4d72ec5a8083233.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/f87b8e7ead89821.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/f87b8e7ead89821.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/f87b8e7ead89821.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/563b04646991e6a.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/563b04646991e6a.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/563b04646991e6a.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1106/cf4bb76938f1191.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1106/cf4bb76938f1191.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1106/cf4bb76938f1191.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
