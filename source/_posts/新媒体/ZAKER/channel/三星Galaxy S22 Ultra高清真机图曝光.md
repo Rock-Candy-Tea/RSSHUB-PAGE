@@ -1,0 +1,18 @@
+
+---
+title: '三星Galaxy S22 Ultra高清真机图曝光'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f3_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 05 Nov 2021 16:00:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f3_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 5 日消息，今晚，爆料人士 @jon_prosser 曝光了三星 Galaxy S22 Ultra 真机。与此前传闻得渲染图照片很像。整体上偏 Galaxy Note 系列风格。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f3_1024.jpg" data-height="921" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f3_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202111/61854a008e9f093cd51375f4_1024.jpg" data-height="921" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/61854a008e9f093cd51375f4_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f5_1024.jpg" data-height="921" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f6_1024.jpg" data-height="921" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f6_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f7_1024.jpg" data-height="367" data-width="690" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f7_1024.jpg" referrerpolicy="no-referrer"></div></div>微博博主 @数码闲聊站 称，这款手机采用了 2K 居中单孔微曲屏，后置一亿像素 10x 潜望镜影像模组很特别，整体设计风格很方正硬朗，还内置 S Pen 手写笔。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f8_1024.jpg" data-height="348" data-width="749" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/61854a008e9f093cd51375f8_1024.jpg" referrerpolicy="no-referrer"></div></div>三星 Galaxy S22 系列预计会有三款机型，且均有 4 种配色可供用户选择，其中普通版的三星 Galaxy S22 和三星 Galaxy S22 + 的四种配色分别为黑色、绿色、金粉色以及白色。而顶级旗舰三星 Galaxy S22 Ultra 的四种配色分别为黑色、暗红色、绿色以及白色。<p></p><p>IT 之家了解到，之前已经有消息称三星已经生产 Galaxy S22 系列的零部件，以避免出现缺少芯片导致产品延迟发布的情况发生。根据外媒 WinFuture 的一份报告指出，用于三星 Galaxy S22 系列内部电路板的柔性电缆正在生产中，且上周中旬就已经开始生产，目前量产已可以满足数万台手机的需求。</p><p>爆料称，三星 Galaxy S22 Ultra 将采用 LTPO 屏幕，可以提供 1-120Hz 的自适应刷新率调节功能，搭载高通骁龙 898 SoC 以及三星自家的 Exynos 2200 旗舰 SoC，且后者在图形表现上还会有 AMD 核显技术加持，并且这次三星 Galaxy S22 Ultra 还将直接整合之前属于 Note 系列的 S Pen 手写笔。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

@@ -8,12 +8,12 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 author: Axis Studios
 comments: false
-date: 2021-11-05 15:09:22
+date: 2021-11-06 00:25:21
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 ---
 
 <div>   
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/https://vimeo.com/642732829" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>+
+<video width="100%" controls="controls" height="360" source src="http://player.vimeo.com/external/642732829.hd.mp4?s=e84b8ca23fa2607e912d8c05fe6a5ec0aae8691d&profile_id=174&oauth_token_id=51807581" type="video/mp4"></video><br>+
             
                 
                     <h2 class="mb-0 c-name">
