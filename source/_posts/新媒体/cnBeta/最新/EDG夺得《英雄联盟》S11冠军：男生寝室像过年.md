@@ -1,0 +1,19 @@
+
+---
+title: 'EDG夺得《英雄联盟》S11冠军：男生寝室像过年'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1107/3d5e46e340e1a96.jpg'
+author: cnBeta
+comments: false
+date: Sat, 06 Nov 2021 23:48:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1107/3d5e46e340e1a96.jpg'
+---
+
+<div>   
+11月7日凌晨，《英雄联盟》S11总决赛在冰岛首都雷克雅未克正式开打。<strong>中国LPL赛区战队EDG电子竞技俱乐部以3：2战胜韩国LCK赛区的头号种子DK，夺得了S11总冠军，成功阻断了DK的卫冕梦。</strong>本次总决赛堪称近年来含金量最高的一次，并未出现一面倒的局面。<br>
+ <p><a href="https://img1.mydrivers.com/img/20211107/ffbe88adf84d4b64b6a0f673b5051b41.jpg" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1107/3d5e46e340e1a96.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1107/3d5e46e340e1a96.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1107/3d5e46e340e1a96.jpg" referrerpolicy="no-referrer"></a></p><p>EDG在先赢一局之后被DK连扳两局，追平比分之后又在决胜局稳扎稳打，在决胜局把握了场上局势获得胜利。</p><p><a href="https://img1.mydrivers.com/img/20211107/076f186dbaf94e23b19b0d1b528fecaa.jpg" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1107/4134008218c01e8.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1107/4134008218c01e8.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1107/4134008218c01e8.jpg" referrerpolicy="no-referrer"></a></p><p><strong>赛后在第四、五局选出招牌佐伊的中单Scout荣膺决赛FMVP。</strong></p><p>夺冠消息公布后，<strong>全国各地高校的男生宿舍像过年一般庆祝夺冠，高呼：EDG世界冠军！</strong></p><p><a href="https://img1.mydrivers.com/img/20211107/4823ad5d2faa4b6186a8ff04315208e7.png" style="text-align: -webkit-center;" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/1107/0bfb807a683888d.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20211107/7a8af5cf89df4ceda425dbced3503f8c.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/1107/03efce889ed3830.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20211107/49a56f992c394112bae401ca9103f0f2.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/1107/537b6c65af1a664.png" referrerpolicy="no-referrer"></a></p><p><strong>有学生吹响“胜利号角”，有学生吹起唢呐庆祝，还有学生激动地唱起国歌。</strong></p><p>据悉，已经有三支中国战队夺得了S赛的冠军，分别是2018年S8的iG，2019年S9的FPX，以及2021年S11的EDG。</p>   
+</div>
+            
