@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211107/1636252378_3595
 《英雄联盟》S11全球总决赛于11月7日凌晨落下帷幕，经过五局让人惊心动魄的鏖战，来自中国LPL联赛的EDG战队最终捧起了S11赛季的总冠军奖杯。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252378_359568.jpg" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252378_359568.jpg" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 夺冠的消息瞬间引爆全网，高校男生寝室更像是过年，《英雄联盟》的热度，并没有因为玩家年龄的增长，以及各类手游的出现而消退，联盟还是那个联盟。
@@ -32,10 +32,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211107/1636252378_3595
 显而易见，官微发出这样的要房请求，肯定也已得到过老板的授权。而随后，当天晚上官微再次发微：“项目动作很快，珠江未来城”，也证实了送房的真实性。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252386_168671.png" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252386_168671.png" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252386_724957.png" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211107/1636252386_724957.png" alt="EDG战队夺冠后老板旗下集团发话：队员一人一套房" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 不得不说，EDG的老板出手豪爽，该地的平均房价也在2、3万左右，队员人手一套的话，就是数千万元的房产。

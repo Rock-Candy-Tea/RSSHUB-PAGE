@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211107/1636249749_8590
 
 <div>   
 <p style="text-indent:2em;">
-在昨晚举行的2021年《英雄联盟》全球总决赛上，LPL战斗EDG以3-2战胜韩国LCK战队DK，夺得队史首个冠军。这也是LPL赛区获得的第三个S赛冠军。
+在昨晚举行的2021年《英雄联盟》全球总决赛上，LPL战队EDG以3-2战胜韩国LCK战队DK，夺得队史首个冠军。这也是LPL赛区获得的第三个S赛冠军。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211107/1636249749_859059.jpg" alt="央视新闻官博庆祝EDG夺冠：恭喜EDG获得全球总决赛冠军" referrerpolicy="no-referrer"> 
