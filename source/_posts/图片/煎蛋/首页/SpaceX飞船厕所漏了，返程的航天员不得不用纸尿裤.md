@@ -26,7 +26,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/2
 <p>"很多交接只是展示在太空生活的小事情--我们没有接受过培训的事情，比如吃饭、上厕所和睡觉，以及那些会传给下一任船员的小花絮，"金布罗告诉记者。</p>
 <p>"如果我们不在这里，那么[剩下的美国宇航员]马克·范德黑肯定有能力做到这一点，并让下一组赶上进度。"</p>
 <p>随着脱坞开始，该团队将准备带着240公斤的物品离开--比如硬件和科学实验有关的东西。</p>
-<p>这可能包括机组人员上周收获的一些太空种植的辣椒。其余的被船员们吃掉了，包括麦克阿瑟所说的 "迄今为止最好的太空taco"。</p>
+<p>这可能包括机组人员上周收获的一些太空种植的辣椒。其余的被船员们吃掉了，包括麦克阿瑟所说的 "迄今为止最好的太空taco"→<a target="_blank" rel="external" href="http://jandan.net/p/109795">NASA宇航员第一次在外太空种植了一茬辣椒</a></p>
 <p>"它们有一种很好的辛辣感，有一点挥之不去的灼热感，有些人发现这更麻烦。"</p>
 <p>让我们祝愿辣椒素已经被他们代谢殆尽了吧。</p>
 <p>https://www.sciencealert.com/poor-iss-astronauts-will-have-to-come-home-in-nappies-cause-spacex-s-toilet-keeps-leaking-pee</p>  
