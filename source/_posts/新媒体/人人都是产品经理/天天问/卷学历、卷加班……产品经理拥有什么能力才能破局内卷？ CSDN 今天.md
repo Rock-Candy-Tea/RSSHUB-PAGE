@@ -1,0 +1,18 @@
+
+---
+title: '卷学历、卷加班……产品经理拥有什么能力才能破局内卷？ CSDN 今天'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=4777'
+author: 人人都是产品经理
+comments: false
+date: Mon, 08 Nov 2021 15:09:01 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4777'
+---
+
+<div>   
+<p>产品经理行业的内卷已是有目共睹，选择产品经理员作为职业的人越来越多；大厂对产品经理的学历要求越来越高；产品经理工作加班越来越严重……在不少人眼里，产品经理俨然成为“卷王行业”。如何摆脱内卷？如何跳出内卷怪圈？</p>  
+</div>
+            
