@@ -1,0 +1,18 @@
+
+---
+title: '如何评价 10 月动画《无职转生》part.2 的第十七集（本季度第六集）？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic4.zhimg.com/v2-a3591fba72534b1dfc89e61671d14d44_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 08 Nov 2021 12:08:13 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-a3591fba72534b1dfc89e61671d14d44_1440w.jpg'
+---
+
+<div>   
+大狸的回答<br><br><p>且不说基斯，酒馆老板真是事了拂衣去,深藏功与名。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a3591fba72534b1dfc89e61671d14d44_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic3.zhimg.com/v2-fb22a32d50e23b9ff882c00f9f008e62_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a3591fba72534b1dfc89e61671d14d44_r.jpg" referrerpolicy="no-referrer"></figure><p>在这场父子和解的故事中，两个配角都在关键的节点做出了重要的干预，基斯真的是人间清醒，越来越喜欢这个猴脸长相的角色了。保罗的误区正是他对鲁迪有了过高的期待，这份高期待又是因为鲁迪在年幼时表现出的天赋和他早熟的心理所造成的，并且保罗低估了魔大陆的生存难度，不知道其实鲁迪一行人走来也吃了很多苦，基斯正是通过一个旁观者的位置点醒了保罗，用一句不恰当的比喻，基斯就是想提醒保罗要珍惜，不要到失去的时候才追悔莫及。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b762d64fcd72cb7894d7281e4a6011b8_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic3.zhimg.com/v2-a04d835cae4d39785abafca50cf310c5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b762d64fcd72cb7894d7281e4a6011b8_r.jpg" referrerpolicy="no-referrer"></figure><p>两个配角在这一整集的文戏中发挥了重要的作用，艾莉丝则彻头彻尾的成为了调节氛围的喜剧角色，为此还被揍了一顿也属实搞笑，但是艾莉丝在鲁迪的提醒下，却说出自己已经做好了最坏的打算，但做好打算和真的面对事实中间还差了一个叫希望的东西，艾莉丝经过魔大陆的历练，心智和心性都提升了不少，虽然还会冲动，但是已经学会照顾和理解别人了，再也不是当初那个任性的大小姐。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ba2c9f779799512808f060b0c753f791_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic3.zhimg.com/v2-80065b02e6245a3269fca38b3661f964_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ba2c9f779799512808f060b0c753f791_r.jpg" referrerpolicy="no-referrer"></figure><p>还有一个细节，就是我一直觉得艾莉丝的身高在增长，但是通过他和鲁迪的对比却看不出来，两个人最初见面时，艾莉丝就已经比鲁迪高半个头，现在仍是如此，但实际上两人刚见到瑞杰路德的时候，艾莉丝快到瑞杰路德的肩膀，经过一年的冒险，她已经长到了瑞杰路德的嘴部的位置，鲁迪增长的高度和爱丽丝差不多，这也是制作组的细节。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e640c833f7bee487f85b3ef697bfcffa_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic2.zhimg.com/v2-81ff586a2758ff24274b68e93ed72aef_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e640c833f7bee487f85b3ef697bfcffa_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9b0bd5f2149814e78a154268bb3be3ff_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic3.zhimg.com/v2-f6d47c6abcbb5ae0580dc65cb2bbe506_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9b0bd5f2149814e78a154268bb3be3ff_r.jpg" referrerpolicy="no-referrer"></figure><p>最后要要记住这个场面，瑞杰路德此时的摸头杀，已经在一位少女的心里埋下了种子。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b7c9d86df58ced54bf019cc222acfed1_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1080" data-default-watermark-src="https://pic4.zhimg.com/v2-72b67ee63f6eeda518992bd9934f79bf_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b7c9d86df58ced54bf019cc222acfed1_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
