@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/e38c9b8b-696f-4d04-b9e6-b4d36e1e7fab.jpg'
 author: 机核网
 comments: false
-date: 2021-11-08 07:08:59
+date: 2021-11-08 08:10:29
 thumbnail: 'https://image.gcores.com/e38c9b8b-696f-4d04-b9e6-b4d36e1e7fab.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/e38c9b8b-696f-4d04-b9e6-b4d36e1e7fab.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-d04ds" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="d04ds" data-offset-key="9k7e1-0-0"><div data-offset-key="9k7e1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9k7e1-0-0"><span data-text="true">Atlus与和心（reirei）合作，推出了以《女神异闻录》系列每作世界观为概念设计的主题折叠伞，该产品预计2022年3月出货。</span></span></div></div>
+<img src="https://image.gcores.com/e38c9b8b-696f-4d04-b9e6-b4d36e1e7fab.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-dcfe1" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="dcfe1" data-offset-key="9k7e1-0-0"><div data-offset-key="9k7e1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9k7e1-0-0"><span data-text="true">Atlus与和心（reirei）合作，推出了以《女神异闻录》系列每作世界观为概念设计的主题折叠伞，该产品预计2022年3月出货。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/dfb5add7-4c9a-4d7b-8dc3-53552a6b21df.jpg" alt referrerpolicy="no-referrer">
 
@@ -121,6 +121,6 @@ thumbnail: 'https://image.gcores.com/e38c9b8b-696f-4d04-b9e6-b4d36e1e7fab.jpg'
 <img src="https://image.gcores.com/4f03a8f2-9a3b-4bdd-80aa-8283856b8a8e.png" alt referrerpolicy="no-referrer">
 <figcaption>《女神异闻录5》 (4/4) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="d04ds" data-offset-key="7qq6g-0-0"><div data-offset-key="7qq6g-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7qq6g-0-0"><span data-text="true">《女神异闻录》主题折叠伞属于该系列25周年纪念周边，目前已经可以在Atlus官方网店预订。折叠伞共5把，每把的图案融合了代表作品的元素，长约55cm、直径约100cm。</span></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="d04ds" data-offset-key="4kb3r-0-0"><div data-offset-key="4kb3r-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4kb3r-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="dcfe1" data-offset-key="7qq6g-0-0"><div data-offset-key="7qq6g-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="7qq6g-0-0"><span data-text="true">《女神异闻录》主题折叠伞属于该系列25周年纪念周边，目前已经可以在Atlus官方网店预订。折叠伞共5把，每把的图案融合了代表作品的元素，长约55cm、直径约100cm。</span></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="dcfe1" data-offset-key="4kb3r-0-0"><div data-offset-key="4kb3r-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4kb3r-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
