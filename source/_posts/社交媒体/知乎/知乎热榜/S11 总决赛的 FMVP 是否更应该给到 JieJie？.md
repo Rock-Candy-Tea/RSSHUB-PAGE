@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4640'
+headimg: 'https://picsum.photos/400/300?random=566'
 author: 知乎
 comments: false
-date: Sun, 07 Nov 2021 11:57:41 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4640'
+date: Sun, 07 Nov 2021 09:24:52 GMT
+thumbnail: 'https://picsum.photos/400/300?random=566'
 ---
 
 <div>   
-客村奶油猪的回答<br><br><p>其实这是现在游戏的一个真实写照。</p><p>bo5打满，最多mvp的一定是打野，真要我说，S7开始，可以说每场决赛的FMVP都可以给打野，这次拳头可能实在蚌不住了，给个中单，毕竟中野联动嘛。</p><p>多多成就历史第二个中单FMVP，EDG打败去年冠军，打败两冠王，战平三冠王，就算是八强内战的对手，也是除SKT外唯二两次封顶MSI的RNG，含金量爆炸，基本上可以说整个S赛实力前四的队伍他都打过了。</p><p>牛批啊，EDG！争气啊！</p><p>作为跟EDG比可能更喜欢RNG的人，我觉得RNG输得不丢人，而且也庆幸八强站笑到最后的是EDG，RNG绝对赢不下冠军，男枪佐伊甚至烬都拿不出手，港真能跟EDG这个冠军队伍打满5局已经很不容易够厉害了。</p>  
+紫川v流风的回答<br><br><p>如果要用fmvp来形容jiejulie，我感觉都不准确，因为我个人感觉突破八强以及之后的所有比赛最大的功臣就是jiejie。</p><p>从小组赛就能看出来，edg还是是不是就被祖传的怂给控制了。</p><p>而之所以能胜利，关键就在于每次jiejie不要命地上去开人，<b>我将带头冲锋</b>对jiejie来说并不是开玩笑。</p><p>他给edg注入了名为“勇”的激素，让edg敢于去打，敢于去开。</p><p>他对edg最大的贡献不是他的gank，他的反蹲，他的节奏，而是彻底改变了edg的打法，这是edg能够胜利极为重要的因素。</p><p>当然这不是说他的gank反蹲和节奏不重要或是不好，恰恰相反，他在比赛中做得非常好。</p><p>edg历年的选手不是没有实力，但就是不敢去打，于是连八强都过不去。</p><p>所以我认为，对edg来说，最重要的人是jiejie，他让edg的其他人有了把机会把实力发挥出来。</p>  
 </div>
             
