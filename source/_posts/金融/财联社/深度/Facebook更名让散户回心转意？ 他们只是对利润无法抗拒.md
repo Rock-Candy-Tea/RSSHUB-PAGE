@@ -17,7 +17,6 @@ thumbnail: 'https://img.cls.cn/images/20211107/L6MqYEJdUq.png'
 <p><img src="https://img.cls.cn/images/20211107/L6MqYEJdUq.png" alt="image" referrerpolicy="no-referrer"></p>
 <h3 id="-meta-platforms-inc-tradingview-">（Meta Platforms Inc.周线图 图源：Tradingview）</h3>
 <p>先前Facebook前员工用内部数据曝光可该公司对有害内容的“不作为”，公司正在面临多个国家政府的审查。虽然投资者承认Facebook和Instagram提供的服务有缺陷，并且这些审查在短期内不会消失<strong>，但许多人仍然被其商业模式和产生的利润所吸引。</strong></p>
-<hr>
 <p>Bokeh Capital Partners的首席投资官Kim Forrest说：“消费者使用它、广告商持续不断向它交钱，投资者对这一事实感到兴奋。”散户投资者也在扎堆购买该股。根据Vanda Research周三的数据，<strong>Meta是散户人群购买最多的五家公司之一。</strong></p>
 <p>市场预计今年公司将产生近400亿美元的利润，较2020年增长37%，按市值计算，<strong>该公司的交易价格是预计利润的23倍，</strong>是美国五大科技公司（MAMAA）中最便宜的。不过，公司面临的挑战依然存在，该公司Q3营收没有达到预期，部分原因是苹果公司对收集消费者数据的限制。</p>
 <p><img src="https://img.cls.cn/images/20211107/J15GsO5a71.png" alt="image" referrerpolicy="no-referrer"></p>
