@@ -1,0 +1,18 @@
+
+---
+title: 'Travellogers 三天後空投，把握機會綁定錢包！'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/1230678f-561d-4584-aace-43888fd6ff38.jpeg'
+author: Matters
+comments: false
+date: Tue, 09 Nov 2021 03:35:55 GMT
+thumbnail: 'https://assets.matters.news/embed/1230678f-561d-4584-aace-43888fd6ff38.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/1230678f-561d-4584-aace-43888fd6ff38.jpeg" data-asset-id="1230678f-561d-4584-aace-43888fd6ff38" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>11月5日 <a href="https://traveloggers.matters.news/zh/" rel="noopener noreferrer" target="_blank">Traveloggers 開啟</a>預購，僅10分鐘，300個 Traveloggers 盲盒就已全部售罄。</p><p>為了感謝馬特市民們的支持以及對社區的貢獻，我們將空投300個 Traveloggers 給 Matters 用戶。</p><p>空投是專門提供給 Matters 用戶的福利：</p><h2>只要在 2021/11/11 中午 12 點（東八區）綁定了以太坊錢包的 matters.news 用戶就可參與空投。</h2><p>因為此次空投數量有限，為儘可能保證公平，獲得空投的概率會根據用戶在 Matters 社區的活躍程度有所不同，即<strong><u>在 Matters 社區的活躍度越高的用戶獲得空投的概率越高</u></strong>。</p><p>活躍程度的考量有以下六項指標：</p><ul><li>用戶發表文章的被拍手次數</li><li>發表文章被閱讀時長</li><li>被追蹤次數</li><li>拍手人次</li><li>支持人次</li><li>付費訂閱圍爐數</li></ul><p>空投結果將在<strong>11月12日</strong>中午公布。空投成功者，你的錢包裡會有一筆 NFT 移轉的紀錄，在12日當天即可查看。</p><p>要參加空投的市民們，請一定記得在11月11日中午12點之前綁定錢包。</p><p><strong>如何綁定？請參考</strong><a href="https://matters.news/@hi176/nft-%E7%99%BB%E8%A8%98%E7%A9%BA%E6%8A%95-%E5%A6%82%E4%BD%95%E7%8D%B2%E5%BE%97-traveloggers-%E7%A9%BA%E6%8A%95-%E5%BF%AB%E4%BE%86%E7%B6%81%E5%AE%9A%E9%8C%A2%E5%8C%85-bafyreigvypuhddpehillleaw73tzupcklixpw3raj5kfz5227p57v2rvpq" rel="noopener noreferrer" target="_blank"><strong><u>這篇指南</u></strong></a><strong>，只要簡單的三步即可完成綁定。</strong></p><hr><h2>Travelloger 長什麼樣？你最想獲得哪個頭像的空投？</h2><p><strong>Traveloggers 有 6 個基礎人物，分別是 Gena、Lesya、Sasha、Valya、Yury、Zhenya。</strong>Matters 根據創作者的價值取向、哲學主張、思考方式、創作個性等維度，提取關鍵元素組合，創造了 1500 個 Traveloggers 的化身，每一個都獨一無二。</p><h2><strong>一起來認識 Traveloggers 主角群：</strong></h2><blockquote>01 - Sasha（薩沙）</blockquote><figure class="image"><img src="https://assets.matters.news/embed/a823ed25-b051-4e83-95cd-3211fbb30897.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>02 - Zhenya（振亞）</blockquote><figure class="image"><img src="https://assets.matters.news/embed/a2af39aa-ac73-4209-ab8e-63a5fcbe0f7d.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>03 - Valya（瓦拉）</blockquote><figure class="image"><img src="https://assets.matters.news/embed/e1809a1e-3a1b-44a2-b418-ed03a644c79c.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>04 - Gena（根那）</blockquote><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/d2c211fd-be04-456a-9cc4-13fb3bce988b.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>05 - Lesya（列峽）</blockquote><figure class="image"><img src="https://assets.matters.news/embed/eb2636c7-879b-404d-9aa5-bc0f3ffd7536.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>06 - Yury（尤里）</blockquote><figure class="image"><img src="https://assets.matters.news/embed/10002182-5d90-424b-92c1-88b56f02ea68.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>若對此次空投有任何問題，可以直接留言給Matty。對 Traveloggers 有興趣的朋友，也歡迎加入 Discord 一起討論，這裡有最新消息喔 <a href="https://discord.gg/j98PU4zH" rel="noopener noreferrer" target="_blank">https://discord.gg/j98PU4zH</a></p><p>那麼祝願大家空投好運！</p><p><br></p>  
+</div>
+            
