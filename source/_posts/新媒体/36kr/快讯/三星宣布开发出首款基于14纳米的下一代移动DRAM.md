@@ -1,0 +1,18 @@
+
+---
+title: '三星宣布开发出首款基于14纳米的下一代移动DRAM'
+categories: 
+ - 新媒体
+ - 36kr
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=6269'
+author: 36kr
+comments: false
+date: Tue, 09 Nov 2021 02:33:23 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6269'
+---
+
+<div>   
+三星宣布成功开发出其业界首款基于14纳米的下一代移动DRAM——LPDDR5X。据介绍，LPDDR5X的运行速度在三星现有的移动DRAM中最快，最高可达8.5Gbps，比上一代产品LPDDR5的运行速度6.4Gbps约快1.3倍。与LPDDR5相比，LPDDR5X的耗电率可减少约20%。（界面）  
+</div>
+            
