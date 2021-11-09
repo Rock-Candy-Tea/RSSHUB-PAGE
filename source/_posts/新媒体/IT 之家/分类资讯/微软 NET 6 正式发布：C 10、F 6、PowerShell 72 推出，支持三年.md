@@ -1,0 +1,19 @@
+
+---
+title: '微软 .NET 6 正式发布：C# 10、F# 6、PowerShell 7.2 推出，支持三年'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/11/399c0960-0bcd-4678-9a54-5a6b6afbf34d.png'
+author: IT 之家
+comments: false
+date: Tue, 09 Nov 2021 00:21:51 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/11/399c0960-0bcd-4678-9a54-5a6b6afbf34d.png'
+---
+
+<div>   
+<p data-vmark="d2e0"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 11 月 9 日消息，微软昨日晚间正式发布了 <span class="accentTextColor">.NET 6 及其一系列内容，推出了 C# 10、F# 6 和 PowerShell 7.2</span>，.NET 6 还原生支持了苹果 M1 芯片，将得到三年支持。</p><p data-vmark="912b"><img src="https://img.ithome.com/newsuploadfiles/2021/11/399c0960-0bcd-4678-9a54-5a6b6afbf34d.png" w="774" h="497" title="微软 .NET 6 正式发布：C# 10、F# 6、PowerShell 7.2 推出，支持三年" width="774" height="497" referrerpolicy="no-referrer"></p><h2 data-vmark="6667">.NET 6 亮点：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="978d">使用微软服务、其他公司运行的云应用程序和开源项目进行了生产压力测试。</p></li><li><p data-vmark="e114">作为最新的长期支持 (LTS) 版本支持三年。</p></li><li><p data-vmark="1087">跨<a class="s_tag" href="https://qiyu.ruanmei.com/" target="_blank">浏览器</a>、云、桌面、IoT 和移动应用程序的统一平台，所有应用程序都使用相同的 .NET 库和轻松共享代码的能力。</p></li><li><p data-vmark="8e10">性能全面提升，尤其是文件 I/O，减少了执行时间、延迟和内存使用。</p></li><li><p data-vmark="bbb2">C# 10 提供了语言改进，例如记录结构、隐式使用和新的 lambda 功能，同时编译器添加了增量源生成器。</p></li><li><p data-vmark="9a7c">F# 6 添加了新功能，包括基于任务的异步、管道调试和众多性能改进。</p></li><li><p data-vmark="0cfb">Visual Basic 在 Visual Studio 体验和 Windows 窗体项目打开体验方面进行了改进。</p></li><li><p data-vmark="1bef">热重载使用户可以跳过重新构建和重新启动应用程序以查看新更改 —— 在 Visual Studio 2022 和 .NET CLI 中支持，适用于 C# 和 Visual Basic。</p></li><li><p data-vmark="6503">云诊断已通过 OpenTelemetry 和 dotnet 监视器得到改进，现在在生产中得到支持，并且可用于 Azure 应用服务。</p></li><li><p data-vmark="e786">JSON API 更强大，具有更高的性能，带有序列化程序的源生成器。</p></li><li><p data-vmark="4731">ASP.NET Core 中引入了最少的 API，以简化入门体验并提高 HTTP 服务的性能。</p></li><li><p data-vmark="5da9">Blazor 组件现在可以从 JavaScript 呈现并与现有的基于 JavaScript 的应用程序集成。</p></li><li><p data-vmark="c466">用于 Blazor WebAssembly (Wasm) 应用程序的 WebAssembly AOT 编译，以及对运行时重新链接和本机依赖项的支持。</p></li><li><p data-vmark="1120">使用 ASP.NET Core 构建的单页应用程序现在使用更灵活的模式，可以与 Angular、React 和其他流行的前端 JavaScript 框架一起使用。</p></li><li><p data-vmark="0068">添加了 HTTP/3，以便 ASP.NET Core、HttpClient 和 gRPC 都可以与 HTTP/3 客户端和服务器交互。</p></li><li><p data-vmark="5199">File IO 现在支持符号链接，并通过重新编写的 FileStream 大大提高了性能。</p></li><li><p data-vmark="8d2b">通过支持 OpenSSL 3、ChaCha20Poly1305 加密方案和运行时深度防御缓解措施，特别是 W^X 和 CET，安全性得到了提高。</p></li><li><p data-vmark="7f98">可以为 Linux、macOS 和 Windows（以前仅适用于 Linux）发布单文件应用程序（免提取）。</p></li><li><p data-vmark="e5e6">IL 修整现在更加强大和有效，新的警告和分析器可确保正确的最终结果。</p></li><li><p data-vmark="494b">添加了源代码生成器和分析器，可帮助用户生成更好、更安全和更高性能的代码。</p></li><li><p data-vmark="1c76">源代码构建使 Red Hat 等组织能够从源代码构建 .NET，并向其用户提供自己的构建版本。</p></li></ul><p data-vmark="028a">IT之家了解到，.NET 6 包括大约一万个 git 提交，因此更新内容实在是太多，无法一一列出。NET 6 是一个长期支持 (LTS) 版本，<span class="accentTextColor">将支持三年</span>，包括 macOS Apple Silicon 和 Windows Arm64。</p><p data-vmark="c6cb"><img src="https://img.ithome.com/newsuploadfiles/2021/11/4d9decdf-2309-4c01-ae8b-0ce25bbc743e.png" w="1126" h="533" title="微软 .NET 6 正式发布：C# 10、F# 6、PowerShell 7.2 推出，支持三年" width="1126" height="388" referrerpolicy="no-referrer"></p><p data-vmark="18c7">此外，红帽与 .NET 团队合作，<span class="accentTextColor">在红帽企业 Linux 上支持 .NET</span>。在 RHEL 8 及更高版本上，.NET 6 将可用于 AMD 和 Intel (x64_64)、ARM (aarch64) 以及 IBM Z 和 LinuxONE (s390x) 架构。</p><p data-vmark="8a23">目前，Visual Studio 2022 和 Visual Studio 2022 for Mac 已支持 .NET 6，Visual Studio Code C# 扩展也已支持 .NET 6。</p><p data-vmark="7df6"><strong>.NET 6 完整更新内容：</strong><a href="https://devblogs.microsoft.com/dotnet/announcing-net-6/" target="_blank">点此查看</a></p>
+          
+</div>
+            
