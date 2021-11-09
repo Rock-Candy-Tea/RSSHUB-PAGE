@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-56f47bc95cfcc5c020c2fc5c668e8a5a_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-7461f79950648571cbf1a95ac3258442_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 09 Nov 2021 13:02:28 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-56f47bc95cfcc5c020c2fc5c668e8a5a_1440w.jpg'
+date: Tue, 09 Nov 2021 13:58:29 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-7461f79950648571cbf1a95ac3258442_1440w.jpg'
 ---
 
 <div>   
-家了个电的回答<br><br><p>这得看你对13是什么样的看法。</p><p>“买新不买旧”的心理？那么13肯定比12更值得入手，128GB首发价5999起，相比于64GB的12首发价6299起，香多了好吧。</p><p>目前iPhone 13双十一价格为5699，京东方面需要京享值大于3000可领取减300的券。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-56f47bc95cfcc5c020c2fc5c668e8a5a_1440w.jpg" data-rawwidth="1080" data-rawheight="1837" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-7452885c4111587ff4eb5cd956da3555_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-56f47bc95cfcc5c020c2fc5c668e8a5a_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>淘宝方面的苹果官方旗舰店目前还没有货，需要11号晚0点准时开抢，大概率可以使用88会员消费券。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9a19babbd3c73778dc141824b1409796_1440w.jpg" data-rawwidth="927" data-rawheight="237" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-e5166816f78d241e268e6381a973325c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9a19babbd3c73778dc141824b1409796_r.jpg" referrerpolicy="no-referrer"></figure><p>但是淘宝的是减400的，5599就能到手？感觉比京东便宜100，不知道有没有套路就是。</p><p>iPhone 12（128GB）双十一价格为5099，就性能方面而言，其实13和12相比提升的不是很多，A15处理器在性能上比A14提升了30%。</p><p>iphone13 的续航、相机、处理器比12好，多了款粉色机型。12会更轻薄一些。</p><p>不差这五六百块钱，建议上13吧，如果能抢到～</p><p>预售稍微低一点，喜欢轻薄一些，选12即可。</p><p>最后，附上京东淘宝双十一的红包活动，最高可领8888无门槛红包，每天可领三次，要是运气来了相当于白嫖13～</p><p></p>  
+许青毅的回答<br><br><p>其实两者差别并不是特别大，但是买新不买旧嘛，而且这次双十一iPhone13的优惠力度还是挺大的，也非常值得入手哦</p><p>比如这次京东的优惠券以及淘宝的优惠活动，非常值得入手哦～</p><p>双十一到了给大家先发个红包吧～淘宝最高8888，京东最高6666哦，领到的小伙伴记得来评论区发图哦～</p><p><br></p><p>再来说说iPhone13与12之间的区别吧</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-7461f79950648571cbf1a95ac3258442_1440w.jpg" data-rawwidth="562" data-rawheight="481" data-size="small" data-default-watermark-src="https://pic3.zhimg.com/v2-0cae221009124bfbba67cf25913ae5e3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7461f79950648571cbf1a95ac3258442_r.jpg" referrerpolicy="no-referrer"></figure><p>iPhone13和iPhone12之间都是6.1寸,分辨率均为1170X2532,像素密度为460PPl。不过据称iPhone13搭载的是 LTPO OLED 屏幕,刘海屏的尺寸会更小一些。</p><p>iPhone13搭载了A15仿生处理器,iphone12搭载的是A14仿生处理器,在日常使用中表现却并不明显。</p><p>iPhone13和iPhone12分别搭载了3095毫安电池和2815毫安电池,同时快充规格也分别升级为25W和20W。</p><p>iPhone13的后置双镜头采用的是对角线的排列方式,和iPhone12的上下排列方式完全不同,而且辨识度方面的区别也变得更高。</p><p>喜欢的小伙伴真的可以抢购啦，过了双十一指不定什么时候才有那么大的优惠了呢</p><p></p><p></p>  
 </div>
             
