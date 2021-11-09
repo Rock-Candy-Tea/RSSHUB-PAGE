@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/love-death-and-robots/1999261798-1571942215/sed_highres_0019.jpg'
 author: Blur Studio
 comments: false
-date: 2021-11-09 06:10:24
+date: 2021-11-09 07:09:15
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/love-death-and-robots/1999261798-1571942215/sed_highres_0019.jpg'
 ---
 
