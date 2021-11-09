@@ -1,0 +1,19 @@
+
+---
+title: 'RoundedTB​：让Windows任务栏也用圆角矩形'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1109/a6acd568fefbecd.jpg'
+author: cnBeta
+comments: false
+date: Tue, 09 Nov 2021 10:27:16 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1109/a6acd568fefbecd.jpg'
+---
+
+<div>   
+改变和不满可以带来大量的创新。Windows 11 的任务栏就是这种情况，它让很多人不满意，因此也诞生了很多改进它的应用程序。除了本站之前介绍的 StartAllBack 之外，另一款人气颇高的应用程序就是 <a href="https://www.microsoft.com/zh-cn/p/app/9mtftxsj9m7f" target="_blank">RoundedTB</a>，它能够让你的任务栏像 Windows 11 其他部分一样呈现圆角。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1109/a6acd568fefbecd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1109/a6acd568fefbecd.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1109/4f4cdc12d3f4b95.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1109/4f4cdc12d3f4b95.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1109/6385ee556827f99.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1109/6385ee556827f99.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1109/065c8432197e4fe.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1109/065c8432197e4fe.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">目前 RoundedTB 应用已经在 Microsoft Store 上架，并免费提供。该应用的描述如下：</p><blockquote style="text-align: left;"><p style="text-align: left;">为你的任务栏添加边距、圆角和分段。有了RoundedTB，你可以定制 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 任务栏的形状和外观，而无需修改任何系统文件或进行任何永久性的系统更改。</p></blockquote><p style="text-align: left;"><strong>该应用程序提供以下两项选项</strong></p><p style="text-align: left;"><strong>基本选项</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">使用 RoundedTB 最简单的方法是简单地输入一个边距和角半径。RoundedTB 存在于系统托盘中，只需右击它的图标就可以访问所有的设置。</p><p style="text-align: left;"><strong>● 边距：</strong></p><p style="text-align: left;">控制从任务栏的每一侧移除多少像素，在其周围创建一个你可以看到和点击的边距。</p><p style="text-align: left;"><strong>● 边角半径：</strong></p><p style="text-align: left;">调整任务栏的边角应该有多圆。</p><p style="text-align: left;"><strong>● 高级</strong></p><p style="text-align: left;">显示一系列额外的高级定制选项，解释如下。</p><p style="text-align: left;"><strong>● 应用</strong></p><p style="text-align: left;">将选定的设置应用到任务栏上。</p></blockquote><p style="text-align: left;"><strong>高级选项</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">这些选项允许进一步的定制，以牺牲一些用户友好性为代价。</p><p style="text-align: left;"><strong>● 独立页边距</strong></p><p style="text-align: left;">在高级设置中，页边距框上出现一个[...]按钮。点击它可以启用独立边距，它允许你为任务栏的每一面指定边距。你也可以使用负值来隐藏某些面的圆角，允许你将任务栏"附加"到显示器的不同面。</p><p style="text-align: left;"><strong>● 动态模式（Windows 11）</strong></p><p style="text-align: left;">动态模式自动调整任务栏的大小以适应其中的图标数量，使任务栏的行为类似于macOS的Dock。</p><p style="text-align: left;"><strong>● 分割模式（Windows 10）</strong></p><p style="text-align: left;">分割模式是Windows 10的动态模式的简化版。由于任务栏比较有限，动态调整任务栏的大小是不可能的。然而经过一些设置（启用此选项以了解更多信息），拆分模式允许你将任务栏与系统托盘分开，并随意调整其大小。我承认它肯定没有动态模式那么酷，但现在它聊胜于无。</p><p style="text-align: left;"><strong>● 显示系统托盘</strong></p><p style="text-align: left;">这将切换是否在动态/分屏模式下显示系统托盘、时钟等。它可以通过按[Win]+[F2]在任何时候切换。</p><p style="text-align: left;"><strong>● TranslucentTB兼容性</strong></p><p style="text-align: left;">我与Sylveon紧密合作，使TranslucentTB和RoundedTB之间有一定程度的兼容性。这是实验性的，会有轻微的闪烁，并且需要TranslucentTB 2021.5版本才能发挥作用。欲了解更多信息，请启用该选项。</p></blockquote><p style="text-align: left;">目前有一些已知的问题，如任务栏在某些配置中向左延伸，自动隐藏等功能仍在试验中，但总体而言，似乎没有任何破坏因素。</p>   
+</div>
+            
