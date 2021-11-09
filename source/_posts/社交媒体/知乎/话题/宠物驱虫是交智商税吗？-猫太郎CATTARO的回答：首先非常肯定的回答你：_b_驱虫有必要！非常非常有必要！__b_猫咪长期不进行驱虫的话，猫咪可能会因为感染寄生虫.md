@@ -1,0 +1,18 @@
+
+---
+title: '宠物驱虫是交智商税吗？-猫太郎CATTARO的回答：首先非常肯定的回答你：_b_驱虫有必要！非常非常有必要！__b_猫咪长期不进行驱虫的话，猫咪可能会因为感染寄生虫...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-25b7b4ca99c0128789134509dc6922ca_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 09 Nov 2021 05:54:10 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-25b7b4ca99c0128789134509dc6922ca_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>宠物驱虫是交智商税吗？</strong><br>猫太郎CATTARO的回答<br><p>首先非常肯定的回答你：<b>驱虫有必要！非常非常有必要！</b></p><p>猫咪长期不进行驱虫的话，猫咪可能会因为感染寄生虫而出现发炎、贫血、营养不良等症状。寄生虫会引发肠胃炎、肠堵塞、等肠胃疾病，导致猫咪出现腹泻、脱水等情况危及生命。</p><p>而且宠物与人的特殊密切关系，宠物家长在接触和感染寄生于宠物上的人畜共患寄生虫病的机会是很多的，像是猫体内常见的蛔虫、绦虫、钩虫，都是人畜共患的。所以无论是为了猫咪考虑或者是人考虑，驱虫都是非常有必要的。</p><figure data-size="small"><img src="https://pic2.zhimg.com/50/v2-25b7b4ca99c0128789134509dc6922ca_720w.jpg?source=54b3c3a5" data-caption data-size="small" data-rawwidth="738" data-rawheight="493" data-default-watermark-src="https://pic3.zhimg.com/50/v2-4dd558b8783350df47d5aac6d3893085_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-25b7b4ca99c0128789134509dc6922ca_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-25b7b4ca99c0128789134509dc6922ca_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>猫咪常见感染的寄生虫可以分为体内寄生虫和体外寄生虫<br><br>体内寄生虫：蛔虫、绦虫、球虫、钩虫、心丝虫<br><br>体外寄生虫：疥螨、耳痒螨、跳蚤、虱子、蜱虫<br><br><br><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-67f0774eb455a633190612e738873c37_720w.jpg?source=54b3c3a5" data-caption data-size="normal" data-rawwidth="499" data-rawheight="375" data-default-watermark-src="https://pica.zhimg.com/50/v2-dd69f7e715e84f550ab285e130ae0a72_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-67f0774eb455a633190612e738873c37_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic3.zhimg.com/50/v2-67f0774eb455a633190612e738873c37_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>猫咪感染寄生虫后，也会有不同的症状。<br><br>感染体内寄生虫的表现是：<br><br></p><p>轻症状：食欲不振、消瘦、毛色暗淡</p><p>重症状：呕吐、拉稀，不吃饭但肚子变大，呕吐物和排泄物中可见虫卵和成虫</p><figure data-size="small"><img src="https://pic1.zhimg.com/50/v2-e4d57db5514538b454a933ecfdcb756e_720w.jpg?source=54b3c3a5" data-caption data-size="small" data-rawwidth="640" data-rawheight="429" data-default-watermark-src="https://pic1.zhimg.com/50/v2-45fed296907d141af61a5496a2ff8f84_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic3.zhimg.com/v2-e4d57db5514538b454a933ecfdcb756e_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-e4d57db5514538b454a933ecfdcb756e_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>感染体外寄生虫的表现是：<br><br>疥螨：会造成猫咪皮肤瘙痒，毛发稀疏、有水泡状丘疹、红斑、结痂、表皮脱落等；<br><br></p><p>耳痒螨：也就是耳螨，猫咪会感觉非常痒，经常甩头抓挠，耳朵里有脏东西，甚至形成黑棕色结痂，严重时损伤猫咪耳道，影响猫咪听力；</p><p>跳蚤、虱子：寄生在猫咪皮肤上，瘙痒，易引起皮炎，也会使猫咪烦躁不安，消瘦；</p><p>蜱虫：钻到猫咪皮肤里吸血，红肿瘙痒，皮肤上有芝麻大小的黑点。</p><figure data-size="small"><img src="https://pic1.zhimg.com/50/v2-570c4a5bd3ec3a14790ca5f9b4b3a809_720w.jpg?source=54b3c3a5" data-caption data-size="small" data-rawwidth="864" data-rawheight="640" data-default-watermark-src="https://pic1.zhimg.com/50/v2-fc0d968451759aa12c49f0043622ecd4_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-570c4a5bd3ec3a14790ca5f9b4b3a809_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic1.zhimg.com/50/v2-570c4a5bd3ec3a14790ca5f9b4b3a809_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>当猫咪表现出这些症状后，说明已经感染了寄生虫，必须立刻进行驱虫。拖得越久越容易诱发其他病症，或许会有住院就医的可能。（到时候的花费可就不止单单驱虫这么简单了哦，花销会成倍增长的。）</p>  
+</div>
+            
