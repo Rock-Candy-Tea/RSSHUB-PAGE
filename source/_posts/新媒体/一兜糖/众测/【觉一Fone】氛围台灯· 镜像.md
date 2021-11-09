@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202110/29/8764da/9f3671befa436627.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-11-09 04:10:39
+date: 2021-11-09 05:08:12
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202110/29/8764da/9f3671befa436627.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.11.07                        <br>【觉一Fone】氛围台灯· 镜像<br>                            数量 ：5<br>                            实际价格 ：388元<br>                            名单确认中<br>                            278人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/29/8764da/9f3671befa436627.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.11.07                        <br>【觉一Fone】氛围台灯· 镜像<br>                            数量 ：5<br>                            实际价格 ：388元<br>                            活动体验中<br>                            278人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202110/29/8764da/9f3671befa436627.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
