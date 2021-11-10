@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211109/1636470135_4136
 
 <div>   
 <p style="text-indent:2em;">
-<a target="_blank" href="https://www.3dmgame.com/tag/konglong_1/">恐龙</a>模拟游戏《<a target="_blank" href="https://www.3dmgame.com/games/jwe2/">侏罗纪世界：进化2</a>》正式上架Steam，游戏将于11月19日推出，登陆PS、XSX/S、PS4、Xbox One和Steam平台，支持简中，国区售价163元。
+<a target="_blank" href="https://www.3dmgame.com/tag/konglong_1/">恐龙</a>模拟游戏《<a target="_blank" href="https://www.3dmgame.com/games/jwe2/">侏罗纪世界：进化2</a>》正式上架Steam，游戏将于11月9日推出，登陆PS、XSX/S、PS4、Xbox One和Steam平台，支持简中，国区售价163元。
 </p>
 <p style="text-indent:2em;">
 <strong>《侏罗纪世界：进化2》全新预告：</strong> 
@@ -60,19 +60,19 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211109/1636470135_4136
 <strong>游戏画面：</strong> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636470135_413619.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636470135_413619.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_319294.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_319294.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_171188.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_171188.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_899320.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_899320.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_440598.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211109/1636469989_440598.jpg" alt="《侏罗纪世界：进化2》上架Steam 国区售价163元" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

@@ -51,7 +51,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/Ant
 </div>
 </figure>
 <p><em>Photo: <a href="https://unsplash.com/@philippeyuan" target="_blank" rel="noreferrer noopener">Philippe Yuan/Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3n15hcy"><img class="aligncenter size-full wp-image-767984" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Zugu-9to5Mac-Holiday-AdV4.3.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

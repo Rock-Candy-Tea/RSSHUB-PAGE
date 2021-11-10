@@ -1,0 +1,18 @@
+
+---
+title: '南昌公安表示女司机醉驾被查提及「 yuwei 」与当地公安系统同音领导「不相关」，事件或将如何发展？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-2e19646865b7d7b566b9fd2a5b1e6b33_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 09 Nov 2021 22:25:42 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-2e19646865b7d7b566b9fd2a5b1e6b33_1440w.jpg'
+---
+
+<div>   
+曹小灵的回答<br><br><p><b>有一种尴尬，叫裤裆里面抹黄泥，不是屎也是屎。</b></p><p>当时这个视频我反复品味了好几次，交警同志的话，有理有据有节。</p><p>核心就三点：</p><p>第一，你叫谁来都没用。</p><p>第二，这里全网直播，全国人民都看着你。</p><p>第三，电话不要打，谁都不要找，你说出任何人的名字都是在害他（她）。</p><p>后面又有另外角度的视频发到网上，交警一直都在劝说和教导，核心在于两点：</p><p>第一，你想让纪委找他喝茶吗。</p><p>第二，我们队伍一直在整顿，你不要坑人。</p><p><b>看完这两个视频我就知道糟了，前几年知乎上玩儿坏了的塔西佗陷阱，和现在的局势一片大好风潮要进行对冲了。</b></p><p>看完两个视频里面交警的反应，我精分了。</p><p>如果我内心阴暗的想，交警的反应就是薛定谔的猫，只有在观察下才会塌缩成两种可能性其中之一。</p><p>这Yuwei不论是交警听过名字还是没有听过名字，在没有全网直播的情况下，我们不知道交警会用什么方式来对待这种「我上面有人」的态度。</p><p>尴尬的地方在于，咱们能看到的，都是直播或者采访的。</p><p>摄像机在背后跟着，我也会一身浩然正气。</p><p>再加上交警反复的说，我们队伍在整顿，那就说明之前是有问题，或者说这种借用别人名头逃避处罚的情况是存在的。</p><p>甚至，从视频播放的内容长度来看，交警劝阻女司机真正叫Yuwei来的篇幅更大。</p><p>这让我不禁想到……</p><p>2019年那个大名鼎鼎的保时捷女司机打耳光事件，最后就全靠路人拍摄揪出了丈夫作为派出所所长违纪的问题。</p><p>再说个近的，疫情期间有个街道办副主任，进入小区不登记身份证号码，第一反应也是摇人。</p><p>再说个类似的，去年崇州有人开跑车闯关，在围观群众手机怼脸上的情况下，说自己家里有人当大官，还要让志愿者给他道歉。</p><p>最后，讲个就在今年9月发生的查酒驾事件，同样是有直播联动，结果司机说自己是「市公安局」，直接就放了……</p><p>说明害群之马还是有的，而且「搬名头」是真管用。</p><p>当然，这是阴暗的想法。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-2e19646865b7d7b566b9fd2a5b1e6b33_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="720" data-default-watermark-src="https://pic4.zhimg.com/v2-0847312f809c26c64786b21e35df6602_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-2e19646865b7d7b566b9fd2a5b1e6b33_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p>如果我内心光明的看待，那交警的话反应出来一个进步的状态。</p><p>或许这女司机觉得这套「无中生友」会有用，是听朋友说的，自己的刻板印象，是自己过往经历。</p><p>但是很明显，在现在的风气大环境不断提升下，走后门拼关系的场景已经越来越少了。</p><p>透明执法、监督下执法、流程化执法，这些都能堵住口子。</p><p>而面临类似的容易引发争论的事件，对应的机构也不是忙着撤热搜下热榜，而是开始查。</p><p>纪委监督下公安系统把名字可能叫Yuwei的查了一个遍，然后及时对外公布情况，做到了响应及时、处置有力、方法得当，形成了很好的社会影响。</p><p>这是我积极向光向上的一面。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-bad1f76d4f3162603b38e16cc7eebdc7_1440w.jpg" data-caption data-size="normal" data-rawwidth="500" data-rawheight="222" data-default-watermark-src="https://pic2.zhimg.com/v2-10019490288dcadb690af3aad66ddc3d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-bad1f76d4f3162603b38e16cc7eebdc7_r.jpg" referrerpolicy="no-referrer"></figure><p>我就在琢磨，为什么我会精分呢？</p><p>这是来自于我的劣根性，说明我没有及时对自己的大脑进行认知的升级。</p><p>我虽然生长在比较大的城市，但是说实话，遇到事情，第一反应还是找关系。</p><p>有这样的想法，就说明我身边有人传递给我「找关系有用」这个认知，我还记得我有个在法院工作的朋友，以前有一次啃兔头的时候聊起来国家赔钱了的案子，问他说你要被人冤枉了咋办。</p><p>他给我说，找熟人啊……我当时愣了一下，想标准答案不应该是拿起法律的武器么……</p><p>这种陈旧的认知还体现在我对待通告的态度上。</p><p>比如年初三亚海胆蛋里面只有蛋没有海胆的事件，我就觉得那通告有问题，说经过工作组认真调查，认定饭店明码标价、产品销售过程公开透明、没有掉包也没有参假。</p><p>找不到蛋是因为当季本地海胆汁多肉少……</p><p>都知道旅游产业对三亚有多重要，所以我觉得利益相关方发布的通告要辩证的看待。</p><p>然后就有人告诉我，通告不信那信什么？</p><p>接着还有人告诉我，事情真相不重要，通告只能这样写。</p><p>我又精分了，因为我觉得都有道理。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3196c9c7181c562509ffad5071951ac4_1440w.jpg" data-caption data-size="normal" data-rawwidth="1244" data-rawheight="570" data-default-watermark-src="https://pic1.zhimg.com/v2-74e8dc1ca2140fb7ffaed23ad4583607_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-3196c9c7181c562509ffad5071951ac4_r.jpg" referrerpolicy="no-referrer"></figure><p>不过，大趋势依然是向好的。</p><p>这种以关系称王称霸的熟人社会模式，在大城市里面已经开始逐步消退，可能中小城市和乡镇地区会慢一点，不过「大事化小小事化无」的「人脉资源哲学哲学」已经开始渐渐让位给法治社会、规则社会、契约社会。</p><p>等这老姐认识到不论有没有摄像头叫人都没用的时候，等我这样的老古板也完成思维升级的时候，气氛就会好很多了。</p><p></p>  
+</div>
+            

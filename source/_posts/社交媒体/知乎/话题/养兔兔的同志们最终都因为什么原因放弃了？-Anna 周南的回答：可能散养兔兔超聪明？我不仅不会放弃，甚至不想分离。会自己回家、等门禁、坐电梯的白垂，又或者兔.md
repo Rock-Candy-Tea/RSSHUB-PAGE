@@ -1,0 +1,18 @@
+
+---
+title: '养兔兔的同志们最终都因为什么原因放弃了？-Anna 周南的回答：可能散养兔兔超聪明？我不仅不会放弃，甚至不想分离。会自己回家、等门禁、坐电梯的白垂，又或者兔...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/50/v2-3f7e0fec3b3dad95df74157b76b3376b_720w.jpg?source=54b3c3a5'
+author: 知乎
+comments: false
+date: Tue, 09 Nov 2021 23:40:17 GMT
+thumbnail: 'https://pic2.zhimg.com/50/v2-3f7e0fec3b3dad95df74157b76b3376b_720w.jpg?source=54b3c3a5'
+---
+
+<div>   
+<strong>养兔兔的同志们最终都因为什么原因放弃了？</strong><br>Anna 周南的回答<br><p>可能散养兔兔超聪明？我不仅不会放弃，甚至不想分离。会自己回家、等门禁、坐电梯的白垂，又或者兔就是聪明。</p><p>会很爱主人，知道主人哭了、伤心，来舔一舔安慰。会有自己情绪，过节被寄养疯狂生气，需要你过去哄她，讲清楚，才相信自己不是被抛弃，才愿意吃东西。</p><p>会在你上二楼卫生间时候，也跑到二楼去自己厕所，像小姐妹一样。你吃炸酱面，她就去吃自己的草杆子。</p><p>出去玩儿时候，会一步三回头等你。</p><p>宠物对人，人生意义大概在于，毫无疑问坚定选择信任你、陪伴你，还给你空间。当下逐利社会、独自打拼的游子，身边人都未必能给你这样的感情。</p><p><br></p><p>————建议领养～狗与爱之类的公众号、二手平台等等</p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-3f7e0fec3b3dad95df74157b76b3376b_720w.jpg?source=54b3c3a5" data-rawwidth="1080" data-rawheight="1620" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-830d6e814750ba08e9b761f6638d19f8_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic1.zhimg.com/v2-3f7e0fec3b3dad95df74157b76b3376b_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-3f7e0fec3b3dad95df74157b76b3376b_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-75802ea878c9ce658e96c7073b536a56_720w.jpg?source=54b3c3a5" data-rawwidth="4032" data-rawheight="4030" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-7a1298cd18293f99498f890f68140be8_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pica.zhimg.com/v2-75802ea878c9ce658e96c7073b536a56_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-75802ea878c9ce658e96c7073b536a56_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/50/v2-b2a79805ae548bd47e4f8c0047fdf434_720w.jpg?source=54b3c3a5" data-rawwidth="1242" data-rawheight="1932" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pica.zhimg.com/50/v2-b2b8743e29d9f628c6af99db97144bbe_720w.jpg?source=54b3c3a5" class="origin_image zh-lightbox-thumb lazy" data-original="https://pic2.zhimg.com/v2-b2a79805ae548bd47e4f8c0047fdf434_720w.jpg?source=54b3c3a5" data-actualsrc="https://pic2.zhimg.com/50/v2-b2a79805ae548bd47e4f8c0047fdf434_720w.jpg?source=54b3c3a5" referrerpolicy="no-referrer"></figure><p>借个楼～宣传一下怎么养好最温柔的小闹钟们！（很多很多钱的经验）</p><p>致兔友和未来兔友们的信</p><p>儿歌借兔子形态，告诉人类孩子吃萝卜和菜，不开门，对我们养兔产生了很大影响。</p><p><br></p><p>成兔/幼兔每日：</p><p>①须多于一个身体大的提草（杆子多的草，如加提。一般南提磨牙效率极低！)，</p><p>②300ml纯净水</p><p>③一头大小蔬菜叶/西芹（6个月内幼兔不要吃，早晚给一些苜蓿草补钙）</p><p>④3小时运动</p><p>⑤一定要少量，少量的草本兔粮。</p><p>一天10-20颗bunny足够。</p><p>⑥无需洗澡。科学喂养无异味，兔子自己洗</p><p><br></p><p><br></p><p>除6个月左右，成兔发情时，会有一定异味。可绝育。多网上看真的专业医生。</p><p>（以上汇聚多家专业异宠医生指南)</p><p>⚠️不吃根茎东西（如胡萝卜）——淀粉多，不吃甜食。</p><p>一旦改变饮食，再改回来可能会拒食。不能饿着，兔子低血糖也能死，而且死的会很快。</p><p>哪怕吃草多，但不足量杆，兔牙每月长，里面牙顶穿眼球、下颌;</p><p>肠胃粗纤维缺少不蠕动，都容易致死。兔子科养干净又方便，不科养命特脆。</p><p>时刻关注兔兔粪便是不是又圆又大又干又偏绿又规则。粪便说明了一切。如果不圆干大（软便它们会自己吃掉的很营养的，只要它不会疼的吃不动），就说明有问题，及时得到专业的诊断和救治很关键。</p><p>养的时候（食物、排泄）都是非常容易，可是命也是真的脆。</p><p><br></p><p>只要一直科养，ta们需要的不过就是干草、水，再来点儿蔬菜叶（成兔)/苜蓿草（幼兔)、草本粮，一个卫生间，干干软萌、可可爱爱，陪伴你十年。</p><p><br></p><p>3天就能学会上兔厕所，宠物界里无敌爱干净、无异味了。发现蹲着像嘘嘘就抱上厕所;厕所和草、水放近一点。</p><p>收好电源线，散养兔兔会很爱你感恩你，每天叫起床求亲亲求抱抱。——最温柔的小闹钟。</p><p>——————</p><p>支持本地领养（二手平台）</p>  
+</div>
+            
