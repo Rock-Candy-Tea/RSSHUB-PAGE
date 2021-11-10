@@ -1,0 +1,18 @@
+
+---
+title: '双十一狂欢CHERRY外设大促销火热来袭，加购物车抽MX 1.0键盘'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/10/f3163e6a50c592b7436bfbd8ffe4bbbc/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: 2021-11-10 11:06:18
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/10/f3163e6a50c592b7436bfbd8ffe4bbbc/thumb.jpeg'
+---
+
+<div>   
+<p>一年一度的双十一促销将在明天正式开启，cherry也将在双十一期间携大量明星产品为广大用户带来巨量优惠！<br></p><p>强大的折扣，丰富的品类，以及超低的价格，全店支持分期免息，全场至高直降200起！</p><h3>CHERRY MX BOARD 8.0机械键盘</h3><p>CHERRY MX BOARD 8.0 是一款集成出色手感与精湛工艺的合金旗舰。高精度CNC机铣加工铝制机身，品质精良；悬浮式上盖设计，利于日常清洁；全键无冲，玩家标配；共有黑白粉三色可选。</p><p><img class="lazy" data-height="750" src="https://imgheybox.max-c.com/bbs/2021/11/10/f3163e6a50c592b7436bfbd8ffe4bbbc/thumb.jpeg" data-width="513" referrerpolicy="no-referrer"></p><h3>CHERRY MC 8.1 RGB游戏鼠标</h3><p>CHERRY MC 8.1曾荣获红点设计大奖。创新型分体式结构，自适应各类手型；新型履带式滚轮，稳定平滑；CNC阳极氧化全铝主体，坚固耐用；高精度光学传感器，极速追踪；可拆换磁吸指托，自由搭配；黑白两色可选。</p><p><img class="lazy" data-height="750" src="https://imgheybox.max-c.com/bbs/2021/11/10/e8de9510997cd110aca3ffc5d73b7796/thumb.jpeg" data-width="513" referrerpolicy="no-referrer"></p><h3>CHERRY MX BOARD 3.0S——光炫合金 精雕细琢</h3><p>CHERRY MX 3.0S是一款全尺寸机械键盘，搭载拥有品质保障的德国原厂CHERRY MX五脚开关，单颗轴体使用寿命达5000万次，无品质损失，具有令人惊艳的敲击手感反馈。</p><p>MX 3.0S采用一体成型CNC阳极氧化铝制底壳框架，确保品质，坚固耐用。无钢板无螺丝的结构设计，精心调教的卫星轴，稳定而无杂音。超过1600万种颜色的光彩绚丽RGB背光效果，整体颜色表现饱满自然，键盘还内置多种动态灯效，CHERRY MX 3.0S共有黑白粉三种颜色可选。</p><p><img class="lazy" data-height="750" src="https://imgheybox.max-c.com/bbs/2021/11/10/6bf6fe8348b3d1501379c8914056d50d/thumb.jpeg" data-width="513" referrerpolicy="no-referrer"></p><h3>MX 3.0S WIRELESS三模机械键盘——无线竞技 毫秒决胜</h3><p>MX 3.0S Wireless是CHERRY首款无线三模机械键盘，是基于MX 3.0S系列的全新升级，具备MX 3.0S系列的诸多优秀特性，如黄金十字触点技术、连铸式金属铝制壳体、创新式无钢板设计、RGB炫彩灯效，全键无冲等。</p><p>CHERRY自主研发出超快速的无线技术——CAWT，可以满足苛刻游戏玩家的需求，真正实现低于1ms的疾速响应，重新定义职业级无线竞技速度，三模连接（加密的2.4GHz低延迟无线连接、最新蓝牙5.2技术、有线模式充电游戏两不误）全面支持，智能电池管理系统，让您无需为续航焦虑。黑白粉三色可选。</p><p><img class="lazy" data-height="null" src="https://imgheybox.max-c.com/bbs/2021/11/10/dab0e8c2f29adff7a6868de0fb26e6a6/thumb.jpeg" data-width="null" referrerpolicy="no-referrer"></p><p><br></p><h3>活动时间：</h3><p>2021.11.10 - 17</p><h3>活动形式：</h3><p>进入天猫CHERRY旗舰店，将下列活动产品中任意一款产品加入购物车并截图，将截图发送至评论区即可参与抽奖。</p><p><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-19226172983.17.601023adPRuWj1&id=578301160570&rn=8b7c9fe9dd965b6fe4cea8242dbfbeef&sku_properties=5919063:6536025" target="_blank">【CHERRY MX BOARD 8.0】</a></p><p><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-19226172983.42.83a223adCVhiKy&id=611046596489&rn=c9ab9a035a9b5bf27c32be713e0d772d&abbucket=7&sku_properties=5919063:6536025" target="_blank">【CHERRY MC 8.1 RGB】</a></p><p><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-19226172983.42.150f23adbJ2PMP&id=591308328651&rn=362571dd35c07b474ba17c42e7adfaca&abbucket=7&sku_properties=5919063:6536025" target="_blank">【CHERRY MX BOARD 3.0S】</a></p><p><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-19226172983.51.330d23adXz1Gf1&id=657234654633&rn=54c83ae0b8bf5fbf91158d56833868fa&abbucket=7&sku_properties=5919063:6536025" target="_blank">【</a><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-19226172983.51.330d23adXz1Gf1&id=657234654633&rn=54c83ae0b8bf5fbf91158d56833868fa&abbucket=7&sku_properties=5919063:6536025" target="_blank">MX 3.0S WIRELESS】</a></p><h3>活动奖品：</h3><p>CHERRY MX 1.0 黑轴87键无光版 *2</p><p><img class="lazy" data-height="690" src="https://imgheybox.max-c.com/bbs/2021/11/10/1106fb7abfde84869e7324992875bf95/thumb.png" data-width="800" referrerpolicy="no-referrer"></p><h3>活动须知：</h3><ol><li><p>评论必须为原创首发作品，代投、搬运、转载等均视为无效。</p></li><li><p>于截止时间由随机数抽取法统计出获奖名单，开奖前会对评论进行查重。</p></li><li><p>获奖名单将在活动结束后由官方在活动贴内进行公布，并统一进行奖励发放。</p></li></ol>  
+</div>
+            
