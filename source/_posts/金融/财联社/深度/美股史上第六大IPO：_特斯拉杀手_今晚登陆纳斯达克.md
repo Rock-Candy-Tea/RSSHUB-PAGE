@@ -24,7 +24,7 @@ thumbnail: 'https://img.cls.cn/images/20211110/10hXHfQIH2.jpg'
 <p><img src="https://img.cls.cn/images/20211110/10hXHfQIH2.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <h3 id="rivian-r1s-suv">Rivian R1S纯电动SUV</h3>
 <p>Rivian获得了亚马逊和福特的大力支持。亚马逊向Rivian投资了超过13亿美元，在IPO前持有该公司22.4%的A类股票，按IPO发行价格计算，这部分股权将价值约125亿美元。福特在IPO之前持有Rivian约14.4%的A股股份，目前这部分股份的价值为80亿美元。</p>
-<p>此外，亚马逊还向Rivian订购了10万辆在2030年前交付的车辆，两家公司计划最早在明年让1万辆新的Rivian-Amazon交付车辆上路，以帮助亚马逊推动其物流车队转向可再生能源。</p>
+<p>此外，亚马逊还向Rivian订购了10万辆在2030年前交付的车辆，两家公司计划最早在明年让1万辆新的Rivian-Amazon车辆上路，以帮助亚马逊推动其物流车队转向可再生能源。</p>
 <p><strong>市场正热切寻找“下一个特斯拉”</strong></p>
 <p>在特斯拉市值飙涨到万亿美元之际，市场对电动汽车的追捧已经空前高涨。投资者们热切寻找着“下一个特斯拉”，也使得电动汽车初创企业的市值水涨船高。</p>
 <p>截至目前，Lucid Motors的市值高达725亿美元，尽管该公司刚刚开始生产首批汽车。去年，Nikola市值还一度超过福特，尽管公司没有产生过收入，不过，在一家做空公司指责Nikola制造了“一片谎言的海洋”后，Nikola目前市值不足60亿美元。</p>
