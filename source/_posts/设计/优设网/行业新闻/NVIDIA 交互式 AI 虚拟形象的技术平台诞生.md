@@ -5,15 +5,15 @@ categories:
  - 设计
  - 优设网
  - 行业新闻
-headimg: 'https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-ai-20211110-1.jpg'
+headimg: 'https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-Omniverse-Avatar.jpg'
 author: 优设网
 comments: false
 date: Wed, 10 Nov 2021 15:10:40 GMT
-thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-ai-20211110-1.jpg'
+thumbnail: 'https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-Omniverse-Avatar.jpg'
 ---
 
 <div>   
-<p><span class="img-zoom"><img alt="NVIDIA 交互式 AI 虚拟形象的技术平台诞生" loading="lazy" class="alignnone size-full wp-image-438683" src="https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-ai-20211110-1.jpg" width="500" height="281" referrerpolicy="no-referrer"></span></p>
+<p><span class="img-zoom"><img alt="NVIDIA 交互式 AI 虚拟形象的技术平台诞生" loading="lazy" src="https://image.uisdc.com/wp-content/uploads/2021/11/NVIDIA-Omniverse-Avatar.jpg" width="1600" height="701" class="alignnone size-full wp-image-438690" referrerpolicy="no-referrer"></span></p>
 <p>美国加利福尼亚州圣克拉拉——GTC大会——2021年11月9日</p>
 <p>NVIDIA 于近日发布了用于生成交互式AI虚拟形象的技术平台——NVIDIA Omniverse Avatar。</p>
 <p>Omniverse Avatar可以连接NVIDIA在语音AI、计算机视觉、自然语言理解、推荐引擎和模拟方面的技术。在该平台上创建的虚拟形象是具有光线追踪3D图像效果的交互式角色，能够看到、说话、谈论各种主题,以及合理地理解表达意图。</p>

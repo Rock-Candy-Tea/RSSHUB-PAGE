@@ -5,18 +5,21 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=8403'
+headimg: 'https://picsum.photos/400/300?random=8390'
 author: 世界经济论坛
 comments: false
-date: 2021-11-10 09:08:02
-thumbnail: 'https://picsum.photos/400/300?random=8403'
+date: 2021-11-10 10:08:07
+thumbnail: 'https://picsum.photos/400/300?random=8390'
 ---
 
 <div>   
-<a href="http://www3.weforum.org/docs/WEF_Chief_Economists_Outlook_June_2021.pdf">Download PDF</a>
+<a href="https://www3.weforum.org/docs/WEF_Chief_Economists_Outlook_November_2021.pdf">Download PDF</a>
       <div class="small-12 medium-8 columns">
         <div class="st__content-block st__content-block--text">
-    <p>The June edition of the Chief Economists Outlook comes out amid improving aggregate recovery momentum, yet in a profoundly uncertain environment with widely diverging trajectories. Across countries, differentiated paths are opening up, determined to a large extent by access to vaccines and the financial resources available to governments. This edition of the Chief Economists Outlook explores the most important forces supporting the recovery as well as important developments and risks that could yet delay or derail it. It draws on the collective views and individual perspectives of a group of leading Chief Economists, through the Forum’s Chief Economists Survey and consultations with the Chief Economists Community.<br></p>
+    <p>The November Chief Economists Outlook is published as COVID-19 is resurging in some parts of the world, the global economy still finds itself in major disequilibrium and the costs of fighting climate change are starting to come into view. </p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>This edition of the Outlook explores evolving economic fragilities, assesses disruptions and potential trend reversals for prices, wages and global integration and considers possible policy responses. It draws on the collective views and individual perspectives of a group of leading Chief Economists, through the Forum’s Chief Economists Survey and consultations with the Chief Economists Community.</p>
 </div>
 
       </div>

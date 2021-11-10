@@ -1,0 +1,18 @@
+
+---
+title: 'navi如何在2021年成为世界第一，s1mple如何走上封神之路（2）'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/10/7ee34ebfacb98a42a153ed6c4506eecc/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Wed, 10 Nov 2021 18:05:10 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/10/7ee34ebfacb98a42a153ed6c4506eecc/thumb.jpeg'
+---
+
+<div>   
+<h2>队伍最低谷：epl和卡托维兹的故事</h2><p>Blast春季赛，navi基本延续了之前的良好状态，3-0拿到了小组冠军。（和faze比赛很精彩）而navi在20年的老对手，A队和小蜜蜂似乎状态出现了问题，在全球总决赛表现良好的他们连基本的小组赛出现都没有做到。尤其是小蜜蜂，在小组赛被吊打之后，他们队伍自身，还有zywoo状态都出现了非常严重的问题。在这两个队伍被淘汰之后，有人调侃复活赛是所谓的“major总决赛”，但其实这次比赛的失利开始暴露两个队伍的问题：老龄化。</p><p><img class="lazy" data-height="543" src="https://imgheybox.max-c.com/bbs/2021/11/10/7ee34ebfacb98a42a153ed6c4506eecc/thumb.jpeg" data-width="932" referrerpolicy="no-referrer"></p><p>20年zywoo的队友并谈不上比s1mple好，三个老将非常吃状态，年末两个冠军是老将发挥好顶住压力了。但老将一旦拉胯，恢复起来恐怕就不是一个简单的事情了。小蜜蜂的新人misutaaa的进步不明显，之前表现亮眼的爆头弟也因为状态下滑和V社政策被T，apex的状态出现了巨大问题，指挥经常被人诟病。老将rpk下滑明显，本来他都31岁了，状态恢复多少基本不可能。Shox的正面能力也一直被诟病。而zywoo，在队友全面低迷的情况下 ，他的状态也有很大的下滑。而A队这边的问题也一样，就是老龄化。但没有年龄问题的navi，其实状态也开始慢慢出现问题...... </p><p><img class="lazy" data-height="506" src="https://imgheybox.max-c.com/bbs/2021/11/10/83076e44dcea6d3cada40dc31d94e3cb/thumb.png" data-width="786" referrerpolicy="no-referrer"></p><h4 class="img-desc">我才是真正的top1！</h4><p>卡托维兹前，Navi看起来状态还不错，他们还在一直赢得比赛。卡托维兹开赛之后，navi一路高歌猛进，但他们还是出问题了，在和TL的比赛上，navi关键时刻决策和状态除了问题，很多赛点都没有拿下。最终没能拿下胜者组，在淘汰赛开始之后，navi第一次对阵红星，红星这个队伍打法严谨，细节良好，同时还有独联体的特点，枪法好，喜欢玩静音干摸。在卡托维兹之前没人看好这个队伍，但是他们却作为黑马队伍打了每一个队伍的脸，navi没能在红星面前拿下任何一个地图的胜利，从预选赛开始一路碾压拿到了胜利。值得一提的还有vp，vp年初的表现也可圈可点，这很大程度上是因为他们的信任ykd。ykd是一线职业队最激进的选手（art：？），他把任何一个队伍都不当人看，而他的数据告诉我们，似乎也不需要当人看，ykd虽然没能拿到卡托维兹MVP，但是数据却非常好。而红星的sh1ro，反应极快的架点狙和意识优秀的残局打败了所有队伍。成功拿到MVP，红星一战成名成为了top5队伍。而事实证明，他们的故事不仅仅卡托维兹。 navi这边就越来越狼狈了，唯一的好消息就是B1t的状态越来越好，但是电子哥的状态一直有问题。</p><p><img class="lazy" data-height="640" src="https://imgheybox.max-c.com/bbs/2021/11/10/184ca1d2a5d0e014dd7fdabcfc00e64e/thumb.jpeg" data-width="960" referrerpolicy="no-referrer"></p><h4 class="img-desc">还没进入养猪场的电子哥</h4><p>在epl上，b1t开始打mirrage和overpass。Navi整个团队问题非常大，最大的问题是指挥问题，电子哥表示他想要尝试指挥，但效果并不好，当时navi尝试将mirage列入自己的强图，但mirage的进攻问题非常大。navi在epl的分组里面，强度差距非常明显，有c9，mibr，t1这三个实力乏善可陈的队伍。对阵C9，navi的表现并不好，如果没有op上s1mple的爆种发挥，navi很可能就被2；0带走。S1mple这个bo3打出了1.7的纯炸鱼数据，但1.7的数据，navi赢得也不简单。第一张图被打到加时才艰难取胜，而第二张图完全就是C9的暴打。值得一提的是，b1t第一次打OP这个地图，就借着兄弟们发的p250在手枪局拿下了五杀。flamie和b1t的表现差距也加速了B1t进入主队的进程。</p><p><br></p><p>在对阵mibr，navi又一次被拖入了困境。在mirrage上一度被拖到13-14，navi还进入了eco局。眼看连淘汰赛都进不去，s1mple站出来拯救了队伍，先是二楼沙鹰瞬秒超市大狙，再借着电子哥打掉的大狙打掉了B点的回防，最后先盲狙带走不尊重他的shz之后，s1mple残血转点埋下雷包，抓住极好的timing和聪明的骗手雷操作，赢得了这个几乎不可能完成的残局。在加时赛，21-21，s1mple拿狙借助烟雾弹强补两个太难补的残血，又正面处刑yel的直架狙。22-21关键局，四打二的情况下，s1mple又站出来，先是正面处刑yel大狙，下包后，超市窗口极限甩狙杀掉boltz，四杀强行结束了这个2v4残局，个人能力展现地淋漓尽致。加时赛中s1mple和B1t在队友拉胯的情况下顶住了压力带走比赛，mibr因此心态出现了问题，在图二被无情暴打。在战胜mibr后，navi也赢得了和t1的比赛。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/10/bd8302414260696c647d97544ce78aaf/thumb.jpeg" data-width="2340" referrerpolicy="no-referrer"></p><p> 但是navi的胜利代表不了太多东西，s1mple如此艰难才能完成比赛就说明队内有太多问题了。一个问题是进攻端的问题，navi在地图控制上一直占不到便宜，拿不到信息只能便秘，一便秘就死。尤其是mirage这个地图，最严重的的时期navi这张地图进攻一分不拿。只能靠个人能力的爆发偶尔赢。第二个是电子哥的状态，电子哥完全没有去年top5的状态，这和家庭问题，自身位置的一变再变有很大关系。一度被质疑top20都进不去，唯一的好消息就是B1t这个新人越打越好。Navi在小组赛面对黑豹和红星，都被无情暴打，在淘汰赛面对col同样也是被暴打，世界第一骤降为世界第五。而gambit，虽然没有取得epl的胜利，但从实力来说，他们依然是当之无愧的世界第一。而navi，也并没有因此沉沦，他们在准备着东山再起......</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/10/13ba94dffb4ec0b49e6f500cc414a7f0/thumb.jpeg" data-width="2340" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/10/53afd485b18256846973860d7cfb5fee/thumb.jpeg" data-width="2340" referrerpolicy="no-referrer"></p>  
+</div>
+            
