@@ -1,0 +1,18 @@
+
+---
+title: 'Y6S4前瞻——新干员、平衡、echo（2）'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/11/638db0af4657ecc61efb4fe0fdc265d4/thumb.png'
+author: 小黑盒
+comments: false
+date: Thu, 11 Nov 2021 12:19:30 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/11/638db0af4657ecc61efb4fe0fdc265d4/thumb.png'
+---
+
+<div>   
+<p>前言：再说一遍，如果你和我想的不一样，那一定是你有问题。</p><h2>一、外眼</h2><p><img class="lazy" data-height="628" src="https://imgheybox.max-c.com/bbs/2021/11/11/638db0af4657ecc61efb4fe0fdc265d4/thumb.png" data-width="803" referrerpolicy="no-referrer"></p><p>Valkyrie强是强在黑眼吗？那只能说是也不是，“是”是因为防守方的信息其实很紧缺，一个能提供至少三个不同地方的信息的技能当然是强势技能。“不是”是因为目前进攻方看起来最划算的处理黑眼的两种方式都非常可怜，一种是拿肉眼找，一种是拿版本劣势干员iq。</p><p>所以如果你看过今年拉丁赛区的ces季后赛你会发现，在bp上放出Valkyrie就是为了逼着进攻方拿iq的弱势，从而争取到防守的优势。因为逻辑上是，进攻会在iana+zofia+finka里面3选2（可能替一个jackal加快速度），切位必须带一个，三号位软切必须有一个，那么只剩下5号位来替换iq，也就是说，要么放掉nomad这种反绕后的干员来针对Valkyrie，要么放掉flores和zero这种区域控制力极强的干员。</p><p><img class="lazy" data-height="45" src="https://imgheybox.max-c.com/bbs/2021/11/11/7ac92ddc1dc9d409ba5e36e78e7ac54e/thumb.png" data-width="1291" referrerpolicy="no-referrer"></p><p>FaZe在ces对阵furia的胜负手bp，banfinka放Valkyrie，逼着fntzy拿iq</p><p><b>聊这么多的的关键是接下来的这句话——问题就在于这个针对并不是外眼而是内眼。</b></p><p>因为Valkyrie的眼的存在，在进攻方不清理掉黑眼的情况下——如果不分出人手去清理一楼，二楼没有一块木地板是安全的，防守方只需要一个黄标基本就能稳定拿人头，在这种情况下进攻方要么把速度提快打的，快速打到点位附近开始冲点，这种方式就避免不了大量的失误和不走车导致的信息缺失。另一种就是分人下楼花时间保护自己楼上的推进。<b></b></p><p>这也就是为什么海岸线所有打vip的队伍都要从厨房开始清理的一个道理，你不能保证你的木地板是安全的，那它就是最有可能直接让你死掉的原因。</p><p><b>而对于保车良好的职业比赛来讲，外眼是一种极其不讨好扔眼方式。</b></p><p>因为破窗其实非常明显，且进攻方的车大部分在点外围（比如海岸线的水烟间点位），在有Valkyrie的局里，进攻方会盯死几个窗户，就是为了盯防Valkyrie的外眼，这经常导致眼刚飞出去就被找到了。</p><p>所以Valkyrie的真正的强度是：<b>提供了极多的室内信息，保证了防守方的反绕顺利，以及木地板对进攻的威胁，且在阵容上逼迫进攻方选择弱势干员。</b></p><p>那么，以上哪一点和外眼挂钩呢？丢三个外眼让iq加三十分，其他防守方可高兴了，给我最喜欢的爆头吃。<b></b></p><h2>二、echo的翻身</h2><p>echo是因为Valkyrie修改机制后最大的收益者，因为他的无人机不仅能跑出地图了，还能跳起来。逻辑上，这就是一个可以自己跑回家的黑眼，还是一个过一会儿又能跑出去的黑眼。</p><p><img class="lazy" data-height="813" src="https://imgheybox.max-c.com/bbs/2021/11/11/37cb21f0f8e6777d4df749f816b60d2c/thumb.png" data-width="1507" referrerpolicy="no-referrer"></p><p>以海岸线来说，起码废墟和泳池边上的进攻方是一个逃不开你的无人机的法眼了。而正门的出生的进攻方——还能被你震两下，你简直是秦始皇摸电门，赢麻了。</p><p><img class="lazy" data-height="699" src="https://imgheybox.max-c.com/bbs/2021/11/11/0a822a3f1de7f4d4cb4882d2ae2e6593/thumb.png" data-width="1196" referrerpolicy="no-referrer"></p><p>俱乐部同理。两个方向出生的进攻方很难躲过echo无人机的扫描。</p><p>包括在此处机制改动中加强的mozzie、以及在黑眼丢出的过程中队友可观看+maestro的眼所有防守玩家都可转动的机制改变，总体上来讲都是在增加防守方的信息获取能力。以至于削掉的外眼机制让我觉得格局太小了，因为Valkyrie的强度不是靠外眼支撑起来的。</p><h2>三、题外话</h2><p>老是说外眼显得格局真的非常小，Valkyrie的数据是，白金及以上段位超过50%的ban率+45%的选取率+1.2%左右的胜率差。所有人都知道这种干员面临的局面就是必削结局。就像ace一出来就直接把防守方陷阱干员全员胜率打掉两个档次一样，摆在你面前的选择就两个，要么彻底让陷阱干员死，要么让ace被削弱，回滚陷阱干员的胜率。</p><p><img class="lazy" data-height="86" src="https://imgheybox.max-c.com/bbs/2021/11/11/2f4faa3479233d443e7ef5619a9d67be/thumb.png" data-width="336" referrerpolicy="no-referrer"></p><p>Y5S3的防守方陷阱干员</p><p><img class="lazy" data-height="128" src="https://imgheybox.max-c.com/bbs/2021/11/11/186b1fa791da716b6f92efa6ab029cd5/thumb.png" data-width="283" referrerpolicy="no-referrer"></p><p>Y6S3的防守方陷阱干员。</p><p>Valkyrie同理，iq弱势的环境下玩家根本不怎么选的出来的情况下，对一个防守方缺乏克制方式的干员进行削弱怎么看都是合理且必须的操作。</p><p>欸，偏不，就是要当巨婴，外眼没了我要怎么玩嘤嘤嘤。</p><p>finka同理，白金及以上又把finka打到了+2%的胜率差了。俺们这边还在抱怨“finka开技能声音好大吖！”、“没有后座力削减谁玩吖！”。</p><p>别人都是想怎么解决问题——只有咱们这老是想解决提出问题的人。</p><p><b>评论区抽五个最会嘤嘤嘤的发小黑盒加速器周卡</b></p><p><a href="heybox://open_subject" target="_blank">#彩六瑞典Major#</a></p>  
+</div>
+            
