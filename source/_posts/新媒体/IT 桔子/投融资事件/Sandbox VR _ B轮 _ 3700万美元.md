@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/8a8084f667d8874e40f7bb7fae130b14.png'
         <strong>Sandbox VR</strong><br>
         线下街机式VR体验中心<br>
         B轮 / 3700万美元 / 1636613562<br>
-        投资方: 阿里巴巴、Craft Ventures
+        投资方: Andreessen Horowitz、阿里巴巴、Craft Ventures
         
 </div>
             
