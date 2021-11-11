@@ -38,7 +38,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211111/1636633519_3909
 门户模式的游戏类型编辑器提供了大量很酷的创意选择
 </p>
 <p style="text-indent:2em;">
-能重访地图和继承过去战地游戏的元素给多人模式带来了很多
+重访老地图和继承过去《战地》游戏的元素给多人模式带来了很多
 </p>
 <p style="text-indent:2em;">
 <strong>缺点：</strong> 
