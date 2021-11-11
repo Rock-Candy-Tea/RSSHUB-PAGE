@@ -22,6 +22,11 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 </blockquote>
 <p>Apple Business Essentials enable IT departments to configure settings and apps for individual users, groups, or stand-alone devices. When employees sign in to their business or personal device with their work credentials, the Collections feature automatically pushes key settings such as VPN configurations and Wi-Fi information. The new Apple Business Essentials app will be installed on each employee’s device, where they can download corporate App Store apps assigned to them. Apple Business Essentials allows access to a dedicated iCloud account for work, providing simple and secure storage, backup, and collaboration on files and documents.</p>
 <p>IT managers can also enforce vital security settings such as <a href="https://9to5mac.com/2021/07/31/apple-work-filevault-2-is-so-good-theres-no-reason-for-it-departments-not-to-use-it/">FileVault</a> for full-disk encryption on <a href="https://amzn.to/3F6xu82">Mac</a>, and Activation Lock to protect company data if the devices are lost or stolen. If employees use a personal device at work, Apple’s User Enrollment creates cryptographic separation for their work data to keep personal data private while company data remains secure.</p>
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<iframe loading="lazy" class="youtube-player" width="1000" height="563" src="https://www.youtube.com/embed/OushE7mq0Ak?version=3&rel=0&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div>
+</figure>
 <h2 id="h-applecare-for-business-essentials">AppleCare+ for Business Essentials</h2>
 <p>A new AppleCare+ for Business Essentials option adds on 24/7 access to phone support for both IT teams and end users, and up to two device repairs per plan each year. End users can initiate repairs directly from the new Apple Business Essentials app, and an Apple-trained technician will come onsite in as little as four hours to repair devices. AppleCare+ for Business Essentials is not available during the free beta period.</p>
 <h2>Pricing</h2>
