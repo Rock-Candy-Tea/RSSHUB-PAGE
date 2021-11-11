@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 4Gamers 新闻
  - 主題
-headimg: 'https://img.4gamers.com.tw/news-image/8b0f66c6-e945-43f2-8a64-a32d520a2dbc.jpg'
+headimg: 'https://img.4gamers.com.tw/news-image/ec8d49d8-db94-4143-ab52-781c14a291a9.jpg'
 author: 4Gamers 新闻
 comments: false
 date: Thu, 11 Nov 2021 10:56:17 GMT
-thumbnail: 'https://img.4gamers.com.tw/news-image/8b0f66c6-e945-43f2-8a64-a32d520a2dbc.jpg'
+thumbnail: 'https://img.4gamers.com.tw/news-image/ec8d49d8-db94-4143-ab52-781c14a291a9.jpg'
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/8b0f66c6-e945-43f2-8a64-a32d520a2dbc.jpg" referrerpolicy="no-referrer"><p>貓伊光老師的女僕真香～</p>  
+<img src="https://img.4gamers.com.tw/news-image/ec8d49d8-db94-4143-ab52-781c14a291a9.jpg" referrerpolicy="no-referrer"><p>貓伊光老師的女僕真香～</p>  
 </div>
             
