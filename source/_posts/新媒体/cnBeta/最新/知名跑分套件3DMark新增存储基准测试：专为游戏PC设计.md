@@ -1,0 +1,19 @@
+
+---
+title: '知名跑分套件3DMark新增存储基准测试：专为游戏PC设计'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1111/8c5c8833818495e.jpg'
+author: cnBeta
+comments: false
+date: Thu, 11 Nov 2021 07:00:18 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1111/8c5c8833818495e.jpg'
+---
+
+<div>   
+<strong>UL Benchmarks 近日宣布在其 3DMark 跑分套件中新增 SSD 基准测试，主要针对那些装备了 SSD、混合硬盘以及标准存储设备的游戏 PC。</strong>3DMark Storage Benchmark DLC 现在可以在 <a href="https://store.steampowered.com/app/223850/3DMark/" target="_blank">Steam</a> 和 <a href="https://benchmarks.ul.com/3dmark/buy-storage-benchmark-dlc" target="_blank">UL Benchmarks </a>网站上以 2.99 美元（USD）购买。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1111/8c5c8833818495e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1111/8c5c8833818495e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>在新闻稿中写道：</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">过去 20 多年来，3DMark 一直是游戏玩家对最新显卡和处理器进行基准测试的首选。</p><p style="text-align: left;">今天，我们通过 3DMark Storage Benchmark 将“玩家的基准”带入一个新的领域，这是一个专门的组件测试，用于测量 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a>、混合硬盘和其他存储设备的游戏性能。</p></blockquote><p style="text-align: left;"><strong>3DMark Storage Benchmark 介绍</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">快速、现代的存储意味着更短的加载时间，更少的等待关卡重启，以及更少的游戏中断。PC 游戏玩家现在可以选择广泛的高性能存储选项，从最快的 PCI Express 4.0 和 NVMe 设备到更便宜的 SATA SSD 和大容量混合硬盘。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1111/07224d2b6c3311d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1111/07224d2b6c3311d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">不幸的是，许多测量存储性能的工具是在 HDD 是最常见的驱动器类型时开发的。而且，很难将这些合成基准的结果与真实世界的性能联系起来。</p><p style="text-align: left;">3DMark Storage Benchmark 是一个专门的组件测试，测量最快的现代 PC 存储硬件的游戏性能。它支持所有最新的存储技术，并专注于实际的、真实世界的游戏性能。</p></blockquote><p style="text-align: left;"><strong>游戏性能实测</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">许多存储测试的问题是，它们使用人工、合成工作负载来衡量理想条件下的性能。这些测试的结果很难与实际的、日常的需求联系起来，这就是为什么3DMark Storage Benchmark 专注于测量真实世界的游戏性能。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1111/535d1093ec507b9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1111/535d1093ec507b9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">存储活动由输入和输出操作组成。在存储设备执行任务时，有可能记录这些操作。这些记录被称为跟踪。DMark存储基准使用从流行游戏和游戏相关活动中记录的痕迹来测量真实世界的游戏性能，例如。</p><p style="text-align: left;">● 从启动到主菜单加载《战地5》。</p><p style="text-align: left;">● 加载《使命召唤：黑色行动4》，从启动到主菜单。</p><p style="text-align: left;">● 加载《守望先锋》，从启动到主菜单。</p><p style="text-align: left;">● 在玩《守望先锋》时，用OBS（开放广播软件）以60 FPS录制1080p的游戏视频。</p><p style="text-align: left;">● 从Epic Games Launcher中安装The Outer Worlds。</p><p style="text-align: left;">● 在《外部世界》中保存游戏进度。</p><p style="text-align: left;">● 将《反恐精英：全球攻势》的Steam文件夹复制到外部SSD上。</p></blockquote><p style="text-align: left;"><strong>一些实测数据</strong></p><blockquote style="text-align: left;"><p style="text-align: left;">3DMark Storage Benchmark与所有现代存储设备兼容，可以测试内部和外部驱动器。</p><p style="text-align: left;">该测试产生一个3DMark Storage Benchmark分数，作为衡量性能的标准。与3DMark一样，更高的分数意味着更好的性能。下面是一些参考分数，供参考。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1111/d2c0a70181689e1.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1111/d2c0a70181689e1.png" referrerpolicy="no-referrer"></a></p></blockquote>   
+</div>
+            
