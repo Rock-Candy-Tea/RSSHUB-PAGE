@@ -5,16 +5,16 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://picsum.photos/400/300?random=3789'
+headimg: 'https://picsum.photos/400/300?random=8234'
 author: 3DMGame
 comments: false
 date: Fri, 12 Nov 2021 02:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3789'
+thumbnail: 'https://picsum.photos/400/300?random=8234'
 ---
 
 <div>   
 <p style="text-indent:2em;">
-<span>任天堂在今日发布了《集合啦！动物森友会》最新电视预告片《快乐家园篇》，预告片中玩家正在帮助岛上的动物朋友们打造梦幻家园，实现他们的梦想。</span> 
+<span>任天堂在今日发布了《集合啦！动物森友会》最新电视预告片《快乐家园篇》，预告片中展示了游戏中的秋冬景色，玩家正在帮助岛上的动物朋友们打造梦幻家园，实现他们的梦想。</span> 
 </p>
 <h4 style="text-indent:2em;">
 <span>TVCM</span> 
