@@ -23,13 +23,16 @@ Games将是一个单人“南方哥特冒险游戏”。
 </p>
 <p style="text-indent:2em;">
 据爆料，Compulsion 
-Games被微软2018年收购后的首款游戏，代号为Midnight。这是一个第三人称游戏，设定在黑暗和幻想世界中，充满了大型和魔法生物。主角（见下图中间）是一个梳着辫子的黑人女孩。图片左边看起来像是一个鹰身女妖的巢穴，右边展示了一个鹰身女妖经历不同的变形阶段。<span>据说这款单人游戏的“成长”故事带有一种“哥特”氛围，灵感来自美国南部腹地。</span>
+Games的新作代号为Midnight，是被微软于2018年收购后的首款游戏。这是一个第三人称作品，设定在黑暗和幻想世界中，充满了大型和魔法生物。
+</p>
+<p style="text-indent:2em;">
+主角（见下图中间）是一个梳着辫子的黑人女孩。图片左侧看起来像是一个鹰身女妖的巢穴，右边展示了一个鹰身女妖经历不同的变形阶段。<span>据说这款单人游戏的“成长”故事带有一种“哥特”氛围，灵感来自美国南部腹地。</span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211112/1636678606_900866.jpg" alt="两款Xbox独占游戏泄露 其中一个是南方哥特冒险" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-至于黑曜石，其实我们已经有过报道。黑曜石的新作，代号Pentiment，是一个只有12人的小团队开发的小品游戏，由Josh 
+至于黑曜石，<a href="https://www.3dmgame.com/news/202111/3827625.html" target="_blank">其实我们已经有过报道</a>。黑曜石的新作，代号Pentiment，是一个只有12人的小团队开发的小品游戏，由Josh 
 Sawyer领导。他曾开发了《辐射：新维加斯》和《永恒之柱》。GamesBeat的记者Jeff 
 Grubb称Pentiment灵感来自于《极乐迪斯科》，将是一个叙事RPG，没有战斗。
 </p>
