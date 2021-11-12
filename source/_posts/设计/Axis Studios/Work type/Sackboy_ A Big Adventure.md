@@ -5,11 +5,11 @@ categories:
  - 设计
  - Axis Studios
  - Work type
-headimg: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_012-1.-full.jpg'
+headimg: 'https://axisstudiosgroup.com/site/assets/files/14515/loom_axisstudios.jpg'
 author: Axis Studios
 comments: false
-date: 2021-11-12 10:09:20
-thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_012-1.-full.jpg'
+date: 2021-11-12 11:07:30
+thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14515/loom_axisstudios.jpg'
 ---
 
 <div>   
@@ -91,6 +91,42 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14132/sackboy_axis_01
 
     
         
+                
+                    
+                        <p class="playlist-control">
+
+<a href="https://axisstudiosgroup.com/work/sackboy-a-big-adventure/#" data-toggle="modal" data-target="#galleryModal" class="play" data-video-poster="/site/assets/files/14515/loom_axisstudios.jpg" data-video-type="video/mp4" data-video-url="http://player.vimeo.com/external/486541379.hd.mp4?s=1929248b2f9e5575b6d28d31b2edacdddbe29d31&profile_id=175&oauth_token_id=51807581">
+
+</a>
+
+                        </p>
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="4740" height="2666" src="https://axisstudiosgroup.com/site/assets/files/14515/loom_axisstudios.jpg" alt referrerpolicy="no-referrer">
+
+
+
                 
 
 
