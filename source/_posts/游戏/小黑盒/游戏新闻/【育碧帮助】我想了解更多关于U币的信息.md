@@ -1,0 +1,18 @@
+
+---
+title: '【育碧帮助】我想了解更多关于U币的信息'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/12/d73fe019ee24618eb3f52d19f3fd01ae/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 12 Nov 2021 15:19:48 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/12/d73fe019ee24618eb3f52d19f3fd01ae/thumb.png'
+---
+
+<div>   
+<h2>Q：什么是U币？</h2><p><b>A：</b>U币的全称是Ubisoft Connect点数，是育碧向用户推出的忠诚度奖励代币，只能在Ubisoft Connect中使用。</p><p>您可以在Ubisoft Connect PC客户端界面右上角、Ubisoft Connect网页、Ubisoft Connect移动设备APP以及<a href="https://ubisoftconnect.com/zh-CN/units/" target="_blank">U币专页</a>上查看您当前的U币余额。</p><p><br></p><h2>Q：如何获得U币？</h2><p><b>A：</b>要获取Ubisoft Connect点数有两种方式：</p><ol></ol><ul><li>积攒经验值（XP）提升Ubisoft Connect用户等级</li></ul><ul><li>在育碧商城进行购买</li></ul><p><br></p><h2>Q：我要如何提升Ubisoft Connect等级来获得U币？</h2><p><b>A：</b>您需要500 Ubisoft Connect经验值才能提升一级。每次Ubisoft Connect升级，您都将获得U币：每个等级10 U币，每5个等级20 U币，每10个等级50 U币。</p><p>您可以通过完成游戏的Ubisoft Connect挑战来获取Ubisoft Connect经验值进行升级。<br></p><p><br></p><h2>Q：以前完成游戏挑战可以直接获得U币，现在怎么不行了？</h2><p><b>A：</b>现在的Ubisoft Connect是我们服务体系的升级产物，改进了之前Ubisoft Club和Uplay的遗留问题。</p><p>在我们过往发售的经典游戏中，挑战系统目前无法使用，这些游戏的奖励可以直接领取、使用。<br></p><p><br></p><p>自Ubisoft Connect上线以来，您不能再通过完成游戏挑战获得U币，一些挑战的项目与奖励发生了变更。目前还请您通过提升Ubisoft Connect等级或在育碧商城下单来获得U币。<br></p><p><br></p><h2>Q：U币有什么用？</h2><p><b>A：</b>您可使用U币解锁育碧各个游戏中的奖励，也可以<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=72354943" target="_blank">兑换优惠码</a>在育碧商城下单时使用。</p><p><br></p><h2>Q：如何查看U币交易记录？</h2><p><b>A：</b>若要查看您的U币交易记录，请：</p><ul><li>在账户管理网站登录您想要查看U币交易记录的账户</li><li>选择「Ubisoft Connect 交易」<br></li></ul><p><br></p><h2>Q：U币有使用期限吗？</h2><p><b>A：</b>有的。您获取的U币会在获取之日起的两年（24个月）之后到期失效，在此期间内，不会受到任何限制。而当您使用U币时，系统会自动优先消耗您最早获得的U币。</p><p><br></p><h2>Q：我可以查看即将过期的U币情况吗？</h2><p><b>A：</b>您可以前往<a href="https://ubisoftconnect.com/zh-CN/units/" target="_blank">U币专页</a>查看即将过期的U币数额，以及它们过期的具体时间。</p><p><br></p><p><img class="lazy" data-height="420" src="https://imgheybox.max-c.com/bbs/2021/11/12/d73fe019ee24618eb3f52d19f3fd01ae/thumb.png" data-width="590" referrerpolicy="no-referrer"></p><p><br></p><h2>Q：我的Ubisoft Connect升级了，或者我的订单已经完成了，但是还没有收到U币。我该怎么办？</h2><p><b>A：</b>U币会自动添加到您的账户中。请注意，您获得的U币可能需要几天时间才能显示在您的育碧账户中，请耐心等待。</p><p>若一直未收到U币，请<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=71597207" target="_blank">联系育碧客服</a>做进一步的调查。</p><p><br></p><h2>Q：我可以将U币赠送给好友吗？</h2><p><b>A：</b>不可以。U币与您的育碧账户相绑定，无法转移。<br></p><p><br></p><h2>Q：我刚建立的新账户，里面怎么有U币？</h2><p><b>A：</b>这是我们送给您的见面礼！您可以继续升级Ubisoft Connect来获得更多U币。<br></p><p><br></p><h2>Q：我的U币突然少了，这是怎么回事？</h2><p><b>A：</b>首先请确保您的U币不是因为过期而减少。<br></p><p><br></p><p>若您确认没有U币过期，近期也没有使用过U币，请提供账户管理网站页面的「Ubisoft Connect 交易」截图，并详细描述您的U币情况，<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=71597207" target="_blank">联系育碧客服</a>做进一步的调查。<br></p><p><br></p><h2>Q：我用U币兑换了优惠码尝试下单，但付款失败，优惠码不能再使用了，可以退还U币吗？</h2><p><b>A：</b>可以的。请在<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=71597207" target="_blank">联系育碧客服</a>时提供下列信息：<br></p><ul><li>再次套用优惠码下单时的报错截图<br></li><li>包含代码优惠码的邮件截图<br></li></ul><p><br></p><hr><p>您还可以查看这篇文章了解更多关于<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=72354943" target="_blank">使用U币兑换育碧商城八折优惠码</a>的信息。</p><p> </p><p><br></p><p>若有任何其他疑问，请随时<a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=71597207" target="_blank">联系育碧客服</a>。</p>  
+</div>
+            
