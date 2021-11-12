@@ -5,18 +5,18 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=5937'
+headimg: 'https://picsum.photos/400/300?random=5777'
 author: 每日安全
 comments: false
-date: 2021-11-12 08:08:56
-thumbnail: 'https://picsum.photos/400/300?random=5937'
+date: 2021-11-12 09:07:40
+thumbnail: 'https://picsum.photos/400/300?random=5777'
 ---
 
 <div>   
 <q>Google 开源了一套 Fuzz 框架 - ClusterFuzzLite，支持在 CI 工作流中引入 Fuzz</q>
 –
 <cite>
- <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
 <span class="text-muted"><small>• 4 hours ago</small></span>
