@@ -1,0 +1,19 @@
+
+---
+title: 'SpaceX发射53颗Starlink互联网卫星并在大雾中成功回收火箭助推器'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1113/f442685b7441ba2.webp'
+author: cnBeta
+comments: false
+date: Sat, 13 Nov 2021 14:41:33 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1113/f442685b7441ba2.webp'
+---
+
+<div>   
+<strong>SpaceX本周刚刚发射了它的第二枚火箭，这次行动是在大雾飞行中携带多达53颗Starlink卫星进入轨道，然后在海上回收平台将助推器成功着陆回收。</strong>猎鹰9号火箭于今天美国东部时间上午7:19（格林尼治标准时间12:19）从卡纳维拉尔角空军基地的40号航天发射场起飞，标志着该公司今年的第25次发射。这也标志着这台助推器的第九次飞行。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2021/1113/f442685b7441ba2.webp" title alt="bbqyVBbzsudcEG5Q8dVHsJ-970-80.jpg.webp" referrerpolicy="no-referrer"></p><p>"猎鹰已经着陆，"SpaceX龙飞船推进器工程师Youmei Zhou在现场解说中说。"这标志着猎鹰9号第一级的第87次整体成功回收。"</p><p>这次发射尝试是在SpaceX因海角的暴风雨条件而被迫推迟24小时后进行的。周六早上，发射场上空笼罩着一层浓雾，太阳升起后，浓雾慢慢消散。坐在发射台上，几乎看不到火箭，但它跃出发射台并进入天空后，火箭在蓝天的映衬下显得格外清晰。</p><p><img src="https://static.cnbetacdn.com/article/2021/1113/ad5bc3a3a0672a4.webp" title alt="iTpvWAX6qNv2ss7LMmFRFK-970-80.jpg.webp" referrerpolicy="no-referrer"></p><p>这次成功的升空标志着SpaceX在六个月内首次用其229英尺高（70米）的工作母机猎鹰9号火箭从佛罗里达州发射Starlink。该公司将"星链"发射的短暂停顿归因于新卫星的推出，这些卫星现在配备了基于激光的系统，可以在轨道上相互通信，而与地面的通信较少。</p><p>升空后约9分钟，火箭的第一级返回地球，在SpaceX的火箭回收船“Just Read the Instructions”上成功着陆。这艘船之前也被安排支持SpaceX为NASA发射的Crew-3宇航员任务，该任务于周三（11月10日）升空。由于最近一次载人任务发射的延误，"Just Read the Instructions"号被迫留在海上，冒着20英尺到25英尺高的海浪。</p><p>SpaceX的Starlink巨型星座旨在为世界各地的用户提供高速互联网覆盖，特别是那些无法使用传统互联网连接的偏远和农村地区。</p><p><img src="https://static.cnbetacdn.com/article/2021/1113/a269cd43b8a0dcb.webp" title alt="dohbKqaNYEDN5LpaMxtP6K-970-80.jpg.webp" referrerpolicy="no-referrer"></p><p>迄今为止，SpaceX已经交付了超过10万个Starlink互联网终端，该服务已经被批准在至少14个不同的国家运营，在其他几个国家的申请也在等待中。9月，该公司向极地轨道发射了其第一套完整的卫星，这将有助于该公司向高纬度地区的人们提供接入服务。</p><p>随着周六的成功发射，SpaceX已经将1844颗Starlink卫星送入轨道（包括最初的测试版本），这远远超出了该公司最初1440颗卫星的配额。然而，该公司已正式获得批准再发射数千颗。今天的飞行是该公司最近升级的Starlink互联网卫星的第二批，这些卫星现在配备了卫星内激光通信。</p><p>今天发射的猎鹰9号火箭，名为B1058，是一个经过飞行验证的助推器，之前已经飞行了8次。它在2020年5月首次亮相，作为SpaceX为NASA执行的Demo-2任务的一部分，搭载NASA宇航员Bob Behnken和Doug Hurley前往国际空间站。</p><p><img src="https://static.cnbetacdn.com/article/2021/1113/b01bc254f089528.webp" title alt="mR7KxqYbG5sNDC8kg2NdbJ-970-80.jpg.webp" referrerpolicy="no-referrer"></p><p>它还为韩国军方发射了一颗通信卫星，在Transporter-1任务中发射了100多颗小型卫星，CRS-21货运龙飞船和其他四个Starlink卫星有效载荷。</p><p>与火箭的第一级一起，SpaceX还回收了包裹有效载荷的蛤壳状保护硬件。这两件被称为有效载荷整流罩（或鼻锥），占火箭成本的1/10，SpaceX官员表示。每个部件的价格为300万美元，因此重复使用它们有助于降低成本。</p><p><a href="https://static.cnbetacdn.com/article/2021/1113/33b0500b8eb6da1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1113/33b0500b8eb6da1.jpg" title alt="y8oHXN2zv5RTUaAXYJ5KPK-970-80.jpg" referrerpolicy="no-referrer"></a></p><p>装有导航软件和降落伞的整流罩将可控落入大西洋，在那里它们将被SpaceX的一艘回收船收回，为未来的飞行进行整修。</p><p>这是猎鹰9号火箭助推器的第128次整体飞行，也是SpaceX今年迄今为止的第23次猎鹰9号飞行。这也是SpaceX在令人难以置信的忙碌的一周中发射的第二枚火箭，这一周有一组宇航员从国际空间站返回，同时还发射了另一枚。周六的发射成功为这家私人航天公司忙碌的一周画上了圆满的句号。</p><p><a href="https://static.cnbetacdn.com/article/2021/1113/f2861870f40adaa.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1113/f2861870f40adaa.jpg" title alt="EGQeTLjKx87JkD9GyXTgQJ-970-80.jpg" referrerpolicy="no-referrer"></a></p><p>周一（11月8日），该公司从墨西哥湾取回了"奋进号"乘员舱并接回了国际空间站的四名宇航员。这次返回标志着SpaceX为NASA执行的Crew-2任务的结束，这是该公司的第二次长期飞行。谢恩·金布罗和梅根·麦克阿瑟（NASA）以及托马斯·佩斯凯（欧洲航天局）和星出彰彦（日本宇宙航空研究开发机构）在空间站停留六个月后安全返回地球。</p><p>仅仅两天后，SpaceX发射了其下一组宇航员：Crew-3任务的拉贾·查里、汤姆·马什伯恩和凯拉·巴伦（均来自NASA）以及NASA的欧洲航天局宇航员马蒂亚斯·毛勒。通常情况下，美国宇航局和SpaceX公司倾向于在将前一乘员带回家之前发射新的乘员，但一连串的天气延误使乘员-3号在地面上停留的时间超过了预期。</p><p>他们的发射标志着SpaceX的一个重要里程碑：在18个月内将18人送入太空。自SpaceX在2020年5月为NASA进行首次载人发射以来，该公司又向空间站发射了三个机组人员，以及一次名为Inspiration4的私人飞行。</p><p>Inspiration4的四名私人宇航员于9月发射，但没有去空间站。相反，他们在地球轨道上运行了三天，作为为圣裘德儿童研究医院筹集资金的努力的一部分。</p>   
+</div>
+            
