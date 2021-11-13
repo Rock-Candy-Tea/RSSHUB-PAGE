@@ -21,6 +21,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211113/s_e20fbf07e2154a88a017bd45b1
 <p>除了授权过期的素材外，<strong>数据挖掘者还在《GTA三部曲》重制版中找到了一部分没有经过编译，还能够看到开发者注释的代码。</strong></p>
 <p><strong>目前R星尚未对下架游戏一事做出回应，而对于启动器无法正常使用一事，客服则是表示感谢玩家的耐心和理解，并表示他们会努力恢复R星游戏启动器服务。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211113/e20fbf07e2154a88a017bd45b134aea0.png" target="_blank"><img alt="R星下架《GTA三部曲》重制版：翻车严重 PS5都带不动！" h="304" src="https://img1.mydrivers.com/img/20211113/s_e20fbf07e2154a88a017bd45b134aea0.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p align="center"> </p>
 
            
            
