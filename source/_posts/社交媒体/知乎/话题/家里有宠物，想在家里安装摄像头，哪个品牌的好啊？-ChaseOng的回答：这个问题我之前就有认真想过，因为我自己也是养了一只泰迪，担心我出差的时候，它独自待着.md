@@ -1,0 +1,18 @@
+
+---
+title: '家里有宠物，想在家里安装摄像头，哪个品牌的好啊？-Chase.Ong的回答：这个问题我之前就有认真想过，因为我自己也是养了一只泰迪，担心我出差的时候，它独自待着...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-d61c940579dabb2bdb348354d4bb06cc_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 13 Nov 2021 06:57:51 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-d61c940579dabb2bdb348354d4bb06cc_1440w.jpg'
+---
+
+<div>   
+<strong>家里有宠物，想在家里安装摄像头，哪个品牌的好啊？</strong><br>Chase.Ong的回答<br><p></p><p>这个问题我之前就有认真想过，因为我自己也是养了一只泰迪，担心我出差的时候，它独自待着会孤单无聊，又担心它会乱咬乱踩。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d61c940579dabb2bdb348354d4bb06cc_1440w.jpg" data-rawwidth="1008" data-rawheight="941" data-size="normal" data-caption data-default-watermark-src="https://pic3.zhimg.com/v2-49b7f0e1e02e0dbc463d4b327a2681fe_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d61c940579dabb2bdb348354d4bb06cc_r.jpg" referrerpolicy="no-referrer"></figure><p>我之前考虑的主要有以下几个点：</p><p>1、画面要清晰，分辨率要高，这样才能看得清，至少要1080P</p><p>2、夜视效果要好，晚上没有开灯的时候，也能清楚看见，夜视距离至少要10米</p><p>3、要能转动摄像头，防止它跑出监控画面看不到，那就需要摄像头具备云台功能</p><p>4、要能语音对讲，这样才能够逗它，不会让它感到无聊</p><p>因为我自己也是视频监控领域从业人员，所以，综合考虑，选中了下面这几款：</p><h3><b>1、萤石C6CN 1080P高清云台版</b></h3><p>参数配置：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-67e0384ce026216154c2cae16087ee3b_1440w.jpg" data-rawwidth="720" data-rawheight="400" data-size="normal" data-caption data-default-watermark-src="https://pic3.zhimg.com/v2-6f146b3e03e6a129411ceaeff610d7ae_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-67e0384ce026216154c2cae16087ee3b_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><h3><b>2、小米智能摄像头云台2K版</b></h3><p>参数配置：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-97029242f7f0b87f8f2a6a94af364eb4_1440w.jpg" data-rawwidth="535" data-rawheight="298" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-50a02b80ad7abffe899b6061c3cc38f0_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-97029242f7f0b87f8f2a6a94af364eb4_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><h3><b>3、360家用摄像头2K云台乐享版</b></h3><p>参数配置：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-f76dba7edb00e25f9dcf22ee0442b458_1440w.jpg" data-rawwidth="720" data-rawheight="440" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-70124e1b3260a9c46c3a9d1a0b340069_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-f76dba7edb00e25f9dcf22ee0442b458_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p>综合考虑下来，出于对品牌的认可，最终还是选择了萤石的，毕竟萤石背靠的是海康威视这一视频行业龙头，技术方面肯定是没的说的。</p><p>对了，我之前也有专门整了一篇文章，里面有更详细的分析，有需要的话，也可以具体看看</p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/350093774" data-size="small" data-image="https://pic3.zhimg.com/v2-2589e8c45c62bd4c87aea68a37c3f7e6_720w.jpg" data-entity-type="article" class="internal">过年回家猫咪自己在家怎么办？用什么摄像头监控？</a><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/339687284" data-size="small" data-image="https://pic4.zhimg.com/v2-7b4d00e6a0ad9de769cd5d0d8e90c71b_720w.jpg" data-entity-type="article" class="internal">2021年双十一最值得购买的家用摄像头推荐及选购指南[智能摄像头、小米摄像头、萤石摄像头]</a><p></p>  
+</div>
+            
