@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/f22623ff-7d40-4fee-93ef-feced11e3ce3.jpg'
 author: 机核网
 comments: false
-date: 2021-11-13 01:48:38
+date: 2021-11-13 02:23:06
 thumbnail: 'https://image.gcores.com/f22623ff-7d40-4fee-93ef-feced11e3ce3.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/f22623ff-7d40-4fee-93ef-feced11e3ce3.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-eds1q" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="eds1q" data-offset-key="9jlqm-0-0"><div data-offset-key="9jlqm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9jlqm-0-0"><span data-text="true">开发商 Crystal Dynamics、Eidos Montreal 和 发行商 Square Enix 公布了《漫威复仇者》蜘蛛侠 DLC 的新宣传片，此 DLC 为 PlayStation 平台独占免费更新，其将于11月30日正式上线。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="eds1q" data-offset-key="34vnr-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=mIc0LyU8juSXKwSoGmZ6nc5IsfLvwx31JqlJOA__"></iframe></div></div></div></figure>
+<img src="https://image.gcores.com/f22623ff-7d40-4fee-93ef-feced11e3ce3.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-flg0j" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="flg0j" data-offset-key="9jlqm-0-0"><div data-offset-key="9jlqm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9jlqm-0-0"><span data-text="true">开发商 Crystal Dynamics、Eidos Montreal 和 发行商 Square Enix 公布了《漫威复仇者》蜘蛛侠 DLC 的新宣传片，此 DLC 为 PlayStation 平台独占免费更新，其将于11月30日正式上线。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="flg0j" data-offset-key="34vnr-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=mIc0LyU8juSXKwSoGmZ6nc5IsfLvwx31JqlJOA__"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/311500e4-ee4c-4200-b535-19fd7d01fcb4.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/6) </figcaption>
@@ -43,6 +43,6 @@ thumbnail: 'https://image.gcores.com/f22623ff-7d40-4fee-93ef-feced11e3ce3.jpg'
 <img src="https://image.gcores.com/cd1dac82-dde3-4b9b-8666-34bda1ccc215.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (6/6) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="eds1q" data-offset-key="e0ig9-0-0"><div data-offset-key="e0ig9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e0ig9-0-0"><span data-text="true">玩可以在蜘蛛侠 DLC 中体验独立的过场动画和专属剧情。在此 DLC 中，蜘蛛侠发现了 AIM 试图夺取新科技的计划，他将与美国队长、惊奇队长、钢铁侠等复仇者联盟的成员联手，一同挫败 AIM 的阴谋。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="flg0j" data-offset-key="e0ig9-0-0"><div data-offset-key="e0ig9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="e0ig9-0-0"><span data-text="true">玩可以在蜘蛛侠 DLC 中体验独立的过场动画和专属剧情。在此 DLC 中，蜘蛛侠发现了 AIM 试图夺取新科技的计划，他将与美国队长、惊奇队长、钢铁侠等复仇者联盟的成员联手，一同挫败 AIM 的阴谋。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
