@@ -22,7 +22,7 @@ Series X游戏机，Gucci在推文中表示：“在品牌百年诞辰之际，G
 </p>
 <p style="text-indent:2em;">
 这款联动Xbox Series X套装包含一个印有Xbox标志的Gucci皮箱，两幅Gucci定制的Xbox无线手柄，带有Gucci印花的Xbox
-Series X主机，据悉这款限量级XSX将于11月17日开始正式发售，售价为10000美元，感兴趣的玩家可以点击此处进入商店页面。
+Series X主机，据悉这款限量级XSX将于11月17日开始正式发售，售价为10000美元，感兴趣的玩家可以<a href="https://www.gucci.com/us/en/st/capsule/xbox-gucci" target="_blank">点击此处</a>进入商店页面。
 </p>
 <p style="text-indent:2em;">
 <strong>商品展示：</strong> 
