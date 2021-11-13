@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=788'
+headimg: 'https://picsum.photos/400/300?random=6093'
 author: 知乎
 comments: false
-date: Sat, 13 Nov 2021 07:30:16 GMT
-thumbnail: 'https://picsum.photos/400/300?random=788'
+date: Sat, 13 Nov 2021 09:24:53 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6093'
 ---
 
 <div>   
-悠然听风的回答<br><br><p>正常的按照法律规定处罚就行了啊。</p><p>这个消息底下，因为女司机涉嫌醉驾，并且在直播节目录制过程里面，找了那个叫[yuwei]的。</p><p>就是在面临处罚的时候，试图托关系找人呗。</p><p>我看了一下网上流传的那个视频，女司机在现场的那个语气，她那根本就不是要找所谓的隔壁老王。我的感觉，反而有些颐指气使的，像是在找自己手底下帮忙干活跑腿的小兄弟。</p><p>所以这个事情，严格按照法律规定判罚就行了。</p><p>对于这位女士来说，应该也算是一个合理的惩戒了。</p><p>[yuwei]呢，全程不出面，不熟悉，不认识。完全不知道这位女士是谁，也没有任何人可以在查验醉驾和处罚环节，托人找关系。整个环节全程直播，公开公正公平，透明的没法再透明了。</p><p>所谓银行供职的那回事，我知道的情况是，有些银行会将大储户的子女，安排到银行来工作，但是同时呢，揽储的额度也会相应的有个门槛。再对照一下这位女士开着的座驾，也还算是符合物质条件了。</p><p>而且退一步讲，很大程度上，这次[yuwei]也做了一回“鲍鱼探长”。即使这里面真的有什么猫腻儿，上面将来也会照应他。</p><p>说实话，我倒不怎么关心这个直播节目被停播的问题。反而是在现场，提醒那位女士不要在直播镜头前提到任何人，提到人就是在害人的普通民警，哪位亲给提拔一下呗。</p><p></p><p></p><p></p>  
+月姬魔夜的回答<br><br><p>两个月偏高了，当然也是自找的。</p><p>危险驾驶罪的入罪标准是血液酒精含量80mg/100ml，本案的司机才102，在很多省市的量刑规范化里面，这普遍都是可以不起诉的数值。</p><p>顺手去12309检察网上搜了几个南昌市东湖区的不起诉决定书：</p><ul><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202106/t20210621_9797071.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">张某</a>，血液酒精含量106.06mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202108/t20210831_10383250.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">赵某</a>，血液酒精含量117.41mg/100ml，而且还有事故</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202110/t20211019_10793052.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">李某</a>，血液酒精含量116.50mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202108/t20210822_10297928.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">詹某</a>，血液酒精含量120.66mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202110/t20211019_10793036.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">万某</a>，血液酒精含量123.83mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202108/t20210822_10297924.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">黄某</a>，血液酒精含量106.22mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/ncsdhq/zjxflws/202108/t20210831_10383266.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">王某</a>，血液酒精含量112.80mg/100ml</li><li><a href="http://link.zhihu.com/?target=https%3A//www.12309.gov.cn/12309/gj/jx/ncs/hgt/zjxflws/202108/t20210803_10135370.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">丁某</a>，血液酒精含量103.34mg/100ml</li></ul><p>所以这就是个本来没啥事情，但是因为想耍特权反而被舆论关注之后，司法机关为了避嫌，在法定量刑幅度内给她判了量刑上限的悲剧。</p><p>按量刑规范化，危险驾驶罪达到入罪标准80，量刑起点是1个月到2个月。但实际上这个数额很多都是不起诉，哪怕起诉，普遍也是1个月+缓刑。</p><p>能判到2个月还没缓刑的，其实是200以上的情况。</p><p>如果不耍特权，老老实实认罪，或者如果没被直播，哪怕照正常的司法程序和裁量标准，也有很大可能是不起诉，保住工作没问题。</p><p>但现在的社会观念里面，很多人都是觉得“找人”能用关系搞定刑事案件，却根本不知道“找人”只会把自己坑死。</p><p>但这种人，多半是平时就嚣张惯了，她的成功就是靠特权，现在告诉他不依靠特权反而更有利，她是无论如何都不会相信的。</p>  
 </div>
             
