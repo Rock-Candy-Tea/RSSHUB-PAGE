@@ -1,0 +1,72 @@
+
+---
+title: '商务部：积极参与世贸组织改革，积极推进加入CPTPP和DEPA等工作'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+author: 新浪财经
+comments: false
+date: Sat, 13 Nov 2021 05:24:10 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+---
+
+<div>   
+<p cms-style="font-L">　　11月12日上午，商务部党组书记、部长王文涛同志主持召开党组扩大会议，传达学习党的十九届六中全会精神。</p>
+<p cms-style="font-L">　　会议认为，党的十九届六中全会是在建党百年之际，开启全面建设社会主义现代化国家新征程的关键时期，召开的一次具有里程碑意义的重要会议。习近平总书记的重要讲话深刻把握世界之变、时代之变、历史之变，总揽全局、高瞻远瞩，为奋进新时代、走好新征程指明了前进方向、提供了根本遵循。全会审议通过的《中共中央关于党的百年奋斗重大成就和历史经验的决议》站在历史和全局高度，全面阐述了中国共产党百年奋斗的光辉历程、伟大成就、宝贵经验和历史启示，是一篇马克思主义纲领性文献。全会擘画了党和国家事业的宏伟蓝图，明确了新时代的历史任务和前进方向，将引领中华民族伟大复兴的历史进程，为我们在新时代新征程上牢记初心使命、以史为鉴、开创美好未来提供了指引。</p>
+<p cms-style="font-L">　　会议强调，要立足新发展阶段，完整、准确、全面贯彻新发展理念，紧紧围绕新发展格局这个“纲”，立足商务工作“三个重要”定位，促进形成强大国内市场，进一步推动高水平对外开放，推动共建“一带一路”高质量发展，推动形成市场相通、产业相融、创新相主要负责促、规则相联的良性循环。要坚持以人民为中心的发展思想，扩大商品和服务消费，全面推进乡村振兴，在高质量发展中促进共同富裕。要积极参与全球经济治理，积极参与世贸组织改革，积极推进加入《全面与跨<span id="stock_sh601099"><a href="https://finance.sina.com.cn/realstock/company/sh601099/nc.shtml" class="keyword" target="_blank" data-sudaclick="content_marketkeywords_p">太平洋</a></span><span id="quote_sh601099"></span>伙伴关系协定》（CPTPP）和《数字经济伙伴关系协定》（DEPA）等工作。</p>
+<p cms-style="font-L">　　会议要求，要增强“四个意识”、坚定“四个自信”、做到“两个维护”，把思想和行动统一到习近平总书记重要讲话和全会精神上来，把学习贯彻全会精神作为当前和今后一个时期的重大政治任务。要迅速掀起学习贯彻全会精神的热潮，深悟精髓要义、把握实践要求，切实把学习贯彻工作抓紧抓实。要把学习贯彻全会精神同开展党史学习教育紧密结合，同商务工作实际紧密结合，胸怀“两个大局”，不断提高“政治三力”，做到一体谋划、一体推进，不折不扣抓好党中央精神的贯彻落实。</p>
+<p cms-style="font-L">　　部党组成员参加会议，并分别作了发言。部机关各单位主要负责同志，驻部纪检监察组有关负责同志列席会议。</p><!-- news_keyword_pub,stock,sh601099 -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：王翔 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            
