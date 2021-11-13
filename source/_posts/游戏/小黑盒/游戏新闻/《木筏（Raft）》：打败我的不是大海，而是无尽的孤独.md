@@ -1,0 +1,18 @@
+
+---
+title: '《木筏（Raft）》：打败我的不是大海，而是无尽的孤独'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/648800_HYDe9.jpg'
+author: 小黑盒
+comments: false
+date: Sat, 13 Nov 2021 00:42:51 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/648800_HYDe9.jpg'
+---
+
+<div>   
+<p>本文作者：<a href="heybox://open_subject" target="_blank">#夜游者#</a>-皮卡丘</p><p><img data-gameid="648800" src="https://cdn.max-c.com/heybox/game/header/648800_HYDe9.jpg" referrerpolicy="no-referrer"></p><h2>前言</h2><p>我小时候特别喜欢看法国科幻作家儒勒·凡尔纳的小说《神秘岛》，书中讲述了美国南北战争时期五名被困的北方人乘热气球逃脱时，遭遇风暴流落荒岛的故事，从初始时手无寸铁，到利用知识逐步改造自然，最终建立了一个欣欣向荣美好世界，这个颇具传奇色彩的科幻冒险故事，在我幼小的心灵里埋下了对生存类游戏的浓厚兴趣。</p><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/d5c813a39a1791a96233311cbff72509/thumb.jpeg" data-width="720" referrerpolicy="no-referrer"></p><p>《饥荒》、《无人深空》、《深海迷航》等等都曾令我着迷不已，但是如果说哪款游戏最接近真实的孤岛求生体验，那绝对非《Raft》莫属。《木筏》本是三名瑞典大学生的创意实验项目，不曾想这款简陋的游戏原型却通过论坛和直播平台迅速走红，创意有趣的玩法吸引了数百万玩家下载，制作组也趁热打铁，这才有了《Raft》这款经典生存建造冒险游戏的诞生。</p><h2>颇具浪漫色彩的幻想故事</h2><p><img class="lazy" data-height="449" src="https://imgheybox.max-c.com/bbs/2021/11/09/9e35a48b6201825642ffee0dd39cf828/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><p>作为一款以生存和建造为核心的沙盒游戏，《Raft》的剧情并不复杂，背景设定在遥远的未来，气候变化导致海洋淹没了陆地，人们只能依靠木筏在海面上苦苦求生。这不禁让我想起了二十年前凯文·科斯特纳主演的电影《未来水世界》，在浩瀚无垠的大海上，人们面对的首要挑战就是生存，一杯水、一张纸、一把泥土都变成了无价之宝，寻找陆地成了无数人毕生追求的目标，而最难以忍受的则是无尽孤独和绝望。《木筏求生》完美刻画了电影中颇具浪漫色彩的幻想世界，能够置身其中亲身经历一次惊险的冒险求生之旅，怎能不令人心潮澎湃。</p><h2>开局一把钩，装备全靠捡</h2><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/1042e7bd19729f9fc5a8637386baa7f0/thumb.jpeg" data-width="720" referrerpolicy="no-referrer"></p><p>虽然由《Raft》的直译“木筏”即可猜到一二，但开局身处4块木板构成的漂浮物上仍然让我不知所措，特别是我身上除了一把爪钩以外身无长物。游戏中没有太多引导，睁开眼就是一片茫茫无际的大海，淡蓝色的天空和深邃蔚蓝的大海在薄雾的笼罩下形成泾渭分明的天际线，悠扬舒缓的音乐中，我站在木筏上随着平缓的波涛此起彼伏，我不禁想起吴均《与朱元思书》中的名句“鸢飞戾天者，望峰息心；经纶世务者，窥谷忘反”，用来形容如此情景下的感受与心境再合适不过。</p><h2>孤独的求生之旅</h2><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/d52bddea5747218b0b58dee2b647fa84/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><p>游戏中人物只有水分、食物和生命值3种属性，我们面对的主要挑战也来自这些方面，还好我可以用爪钩收集随洋流漂来的各种物资，特别是箱子和木桶，里面装许多急需的材料。淡水比较好解决，通过简易的蒸馏装置即可净化海水获得，物产丰富的大海也饿不死什么都懂钓鱼佬，凭借自制的鱼钩使得求生之旅就像一次野外自助餐。唯一的威胁来自水面以下，成群的鲨鱼让我根本不敢离开木筏，但这依然不能阻止凶残的掠食者，它们会趁我不备咬掉木板，当然在我有了锋利的武器后它们便不再是威胁，甚至看起来还有点可爱，就像《老人与海》的故事一样，他们即是对手，也是惺惺相惜的挚友。</p><h2>聊胜于无的探索元素</h2><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/6a958afdf3722604e8d44b45fe84b662/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><p>相对其他生存类游戏，《Raft》的探索内容并不多，只有数座小岛和附近的浅海，岛屿地形也并不复杂，一眼就能看穿全貌，除了可供收集的材料的动植物外，也没有太多剧情和互动元素，《木筏》主要是以建造带来的成就感为核心体验，探索仅为聊胜于无的辅助元素，如果你想体验《深海迷航》中海洋探险的乐趣，那可能会有所失望。</p><h2>超高的建造自由度</h2><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/47d8360a17e2260ae0fd21716afbfd4b/thumb.jpeg" data-width="720" referrerpolicy="no-referrer"></p><p>在我所玩过的沙盒游戏中，《木筏求生》有仅次于《我的世界》的超高自由度，你仅需依靠木板、塑料、石块等几种基础材料就可以打造各种各样的复杂木筏，甚至数层楼高的大船和规模庞大的海上城市。你可以在木筏上钓鱼、种菜，甚至来一次海鲜烧烤，游戏中可以收集图纸，解锁各种新奇道具，当然你也可以在论坛上找到各种建造模板，又或者和朋友打造一个属于自己风格的独特木筏，满足你建造的乐趣和成就感。</p><h2>结语 </h2><p>《Raft》曾经是非常经典的开放世界沙盒冒险生存游戏，但是随着游戏引擎的日新月异，《木筏》粗糙的建模和渲染效果显得有些过时，单调的玩法也很容易厌倦。所以单人玩家我建议直接玩无限素材的创意模式，跳过前期枯燥的求生玩法，如果是多人联机，那么《Raft》会变得更加欢乐而有趣，相互合作求生狩猎、建造一座属于自己的乐园。</p><p><img class="lazy" data-height="405" src="https://imgheybox.max-c.com/bbs/2021/11/09/28ddb8ecc454f8e4a299ea5d6c87024f/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><p>可能终究有一天你会与小伙伴们各奔东西，无暇登陆游戏，但你一定会记得那一段美好舒适的时光，忘掉一切烦恼，相对而坐，静静地看海边的落日，有时候打败我们的不是大海，而是无尽的孤独，你应该庆幸在生命中的美好瞬间，曾有那么一个人，默默地陪在你身边。</p><p><a href="heybox://open_subject" target="_blank">#神来之作第八期#</a></p>  
+</div>
+            
