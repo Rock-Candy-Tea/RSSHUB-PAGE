@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=7041'
+headimg: 'https://picsum.photos/400/300?random=8575'
 author: 财联社
 comments: false
 date: Sat, 13 Nov 2021 09:02:28 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7041'
+thumbnail: 'https://picsum.photos/400/300?random=8575'
 ---
 
 <div>   
@@ -32,7 +32,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7041'
 ）</p>
 <p>本月初，另一NFT游戏Axie Infinity的开发商 Sky Mavis也完成了1.52亿美元B轮融资。</p>
 <p>目前，全球科技巨头几乎都在争相布局元宇宙，Facebook更是正式更名为“META”，以彰显All in 元宇宙的决心。元宇宙的风也已经吹向A股市场，并新近形成了元宇宙概念股，多个个股在交易日涨停。</p>
-<p>中国通信工业协会区块链专委会轮值主席认为，作为投资机构，在进行投资时通常是基于对市场长期趋势的预判。未来十年将是元宇宙发展的黄金十年，转型窗口期已经悄然开启。</p>
+<p>中国通信工业协会区块链专委会轮值主席于佳宁认为，作为投资机构，在进行投资时通常是基于对市场长期趋势的预判。未来十年将是元宇宙发展的黄金十年，转型窗口期已经悄然开启。</p>
 <p>“在这样的大背景下，各大投资机构入局相关领域的节奏加快、规模攀升是大势所驱。”于佳宁说，这些和元宇宙高度关联的NFT开发团队和项目，通常还处于早期阶段，投资机构在早期进行布局，有机会获得更多的红利。</p>
 <p><strong>NFT开发前景几何？</strong></p>
 <p>目前，NFT开发主要集中在NFT收藏品和游戏领域，前者以球星卡藏品和NFT头像为代表，后者则以Axie Infinity等链游为代表。</p>
