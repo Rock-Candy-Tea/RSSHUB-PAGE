@@ -1,0 +1,18 @@
+
+---
+title: '三星 Galaxy A33 5G 渲染图曝光：6.4 英寸 FHD+ Super AMOLED 显示屏，后置四摄'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a4_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 13 Nov 2021 16:52:27 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a4_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 14 日消息，据 91mobiles 报道，三星在 2021 年 1 月推出了 Galaxy A32 5G 手机，现在，91mobiles 与 Onleaks 合作展示了 Galaxy A33 5G 的渲染图。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a4_1024.jpg" data-height="350" data-width="572" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a4_1024.jpg" referrerpolicy="no-referrer"></div></div>爆料消息称，三星 Galaxy A33 5G 将配备 6.4 英寸 FHD+ Super AMOLED 显示屏，并采用前置镜头打孔设计。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/6190591b8e9f090ac562c7a5_1024.jpg" data-height="354" data-width="513" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6190591b8e9f090ac562c7a5_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a6_1024.jpg" data-height="342" data-width="532" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a6_1024.jpg" referrerpolicy="no-referrer"></div></div>三星 Galaxy A33 5G 还将后置四摄像头，其镜头传感器的参数未知，不过消息称三星将为该手机配备 " 大幅改进和更高分辨率的相机传感器 "。<p></p><p>该手机还将配备 USB Type-C 端口，不过将放弃 3.5 毫米耳机插孔。此外，三星 Galaxy A33 5G 的尺寸预计为 159.7x74x8.1 毫米，该手机将不会有 4G 版本。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/6190591b8e9f090ac562c7a7_1024.jpg" data-height="319" data-width="485" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6190591b8e9f090ac562c7a7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a8_1024.jpg" data-height="339" data-width="439" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a8_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，三星 Galaxy A33 5G 定位中端 5G 智能手机，有关该智能手机的更多细节将在未来几个月内公布。三星 Galaxy A33 5G 预计将于 2022 年 1 月上旬推出。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a9_1024.jpg" data-height="294" data-width="492" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6190591b8e9f090ac562c7a9_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

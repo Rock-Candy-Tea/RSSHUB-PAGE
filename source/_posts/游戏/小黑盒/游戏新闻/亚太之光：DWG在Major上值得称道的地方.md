@@ -1,0 +1,18 @@
+
+---
+title: '亚太之光：DWG在Major上值得称道的地方'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/13/c739b302ad719a6dfadfc862ac13adaf/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 14 Nov 2021 09:46:44 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/13/c739b302ad719a6dfadfc862ac13adaf/thumb.jpeg'
+---
+
+<div>   
+<p>看完FaZe对阵DWG的比赛，最后一张图，最后一回合，RIN和soulz一打一。当RIN的准星从soulz肩膀上擦过，而soulz精准地命中了敌人时，我真的感觉这子弹也打在我身上。面对Major冠军头号人选FaZe，DWG作为一支新生的亚太队伍做了所有能够做的，把FaZe逼到了前所未有的危险时刻，但最终还是因为小将RIN的心理素质略微不敌经验丰富的soulz而功亏一篑，整场比赛中，soulz总共拿下四个一打多残局，成为了这场极为激烈的比赛一个很好的缩影。</p><p>7：3木屋，3：7银行，7：8俄勒冈，在落败情况下yass仍然被选为MVP，DWG绝对可以昂首挺胸离开瑞典。可以说，亚太区队伍数年来几乎从未有过如此高光，如此令人尊敬的时刻。</p><p>战报阿库塔写了，我就来说说DWG凭借什么能在Major上走到这种地步。对于硬实力和经验偏弱的亚太队伍来说，DWG已经为他们写好了下狗逆袭的剧本。</p><p> </p><p><img class="lazy" data-height="591" src="https://imgheybox.max-c.com/bbs/2021/11/13/c739b302ad719a6dfadfc862ac13adaf/thumb.jpeg" data-width="1167" referrerpolicy="no-referrer"></p><p>首先，也是最重要的，<b>DWG有着堪称恐怖的教练组和分析师。</b>赛前他们有着半个月左右的时间分析小组赛的所有对手。事实证明他们分析的实在太透彻了，甚至让人感觉他们对敌人的了解简直超过了敌人对自己的了解。尤其是Empire这种教练组偏弱，战术比较固定的队伍，DWG首日直接带着Empire打Empire的强图俄勒冈并且7：3横扫对手，说明了DWG对敌人分析之清晰。但是第二日他们死亡ban图带着Empire打海岸线这种几乎没有战术回旋空间的对枪图，并被Empire吊打，也充分说明DWG的个人实力还没有达到和Empire、BDS这种纯正面线性队伍硬刚的地步。</p><p><br></p><p>但令人肃然起敬的是，在准备时间不足四十八小时的情况下，DWG的教练和分析师对淘汰赛的对手也做足了准备。SBXG是他们的老熟人，分析起来相对简单。而FaZe输给BDS的可能性极低，于是DWG显然对FaZe做足了分析和针对。全世界都知道木屋是巴西队伍最强地图之一，而DWG对阵FaZe居然敢自选木屋并且轻松取胜，充分显示了他们对于FaZe的了解和准备。</p><p> </p><p><img class="lazy" data-height="472" src="https://imgheybox.max-c.com/bbs/2021/11/13/7c49c437eecca87768413d66880f1170/thumb.jpeg" data-width="457" referrerpolicy="no-referrer"></p><h4 class="img-desc">DWG从“死亡之组”头名出线</h4><p>从某种意义上说，DWG和曾经的DZ非常相像，不像一些队伍中IGL既是头脑又是脊髓，负责制定战术、开局布置和局中调整。DWG的IGL只是脊髓，负责执行选定的战术，大脑是站在背后的那个帅小伙。DWG对于对手和自己都极为了解，对于每一种意外都有预案，对于每一个点位都有好几种可选战术，对于对手的每一种行为都有多套可行的针对方法。如果FaZe不是一支足够难以预测，足够天马行空且个人实力强劲的队伍，他们击败DWG的概率很低。而如果半决赛是NIP vs DWG、FaZe vs Rogue，我们无疑将看到一场DWG对阵FaZe的总决赛。毕竟NiP是一只容易预测得多的队伍。</p><p> </p><p>其次是<b>DWG有着一个非常健康的阵容。</b>韩国队伍的阵容构建（在能找到理想选手的情况下）基本都是一个思路：一个干员池固定的年轻一突，一个稳定且干员池丰富的老将二突，一个不稳定但上限极高的自由人，两个稳定后线辅助。而DWG这一突二突RIN和yass的强度实在是离谱。尤其是yass，高度稳定且个人实力十分可靠，timing抓取堪称开挂。在今日爆杀FaZe之后来到了总Rating1.35，141杀80死的恐怖战绩，Entry 22-9，KPR 1.11，生存率和火力都非常高。两名个人实力强劲的突破手给了DWG很多选择的余地，很多高度冒险的战术依然有优异的成功率。</p><p> </p><p><img class="lazy" data-height="118" src="https://imgheybox.max-c.com/bbs/2021/11/13/00dbbac0fdba57267d01b859fe7a4e0b/thumb.jpeg" data-width="1527" referrerpolicy="no-referrer"></p><h4 class="img-desc">yass数据从各方面看都已经超过了Alemao</h4><p><b>DWG的阵容就允许他们打出一种极有特色的风格——早期派出突破手积极寻求人数优势，中期极度稳健保住优势，最后阶段架好交叉或者协同推进撕碎对手。这实际上就是R6该打出的样子</b>，乃至所有FPS该打出的样子。RIN和yass的优秀实力让他们取得开局击杀效率非常高，而极高的纪律性让他们保命、搜集信息、架枪都非常可靠。</p><p> </p><p>然后是NiP对于信息的优异把控。DWG的防守方很少能看到典型的信息搜集干员，几乎总是以信息屏蔽和道具交换为主。但他们对于有限的信息道具和地图默认眼利用率非常高。他们开局高度关注默认眼，这些眼位常常能成为开局激进行为的信息来源。进攻方他们的小车布置和保车能力都到了炉火纯青的地步，在不使用Nomad的情况下他们也很少会被绕后。</p><p> </p><p><b>最后是队伍的韧性和战术暂停的时机。</b>DWG的队员当然是有血有肉的人，但他们真正做到了不让情绪受到之前胜负的影响。他们会因为胜利而高兴，但下一回合执行任务没有任何上头马虎。他们失败时也会面无表情轻轻叹气，但不会有抱怨之语而且能快速总结错误。这和坐在对面的FaZe形成了相当鲜明的对比。DWG的战术暂停叫出相当及时，并不局限于劣势时试图扭转局面，也会在优势时用来稳定人心，而且基本上战术暂停都能快速带来转机。</p><p> </p><p>只能说DWG的失败是非常可惜的。如果RIN能在最后那个对枪中发挥正常水平，他们就是世界冠军（如果你看看NIP和Rogue那场极为下饭的比赛就知道他们不可能是DWG对手）。但是最终就差这一口气，亚太区错过了最好的世界冠军机会。</p><p><img class="lazy" data-height="848" src="https://imgheybox.max-c.com/bbs/2021/11/13/bfd8e3ea56a47b44ee86a1bb66148da7/thumb.png" data-width="597" referrerpolicy="no-referrer"></p><h4 class="img-desc">DWG获得了全世界的赞誉</h4><p>当然，这么一只年轻的队伍，他们的未来还不可限量。<a href="heybox://open_subject" target="_blank">#彩六瑞典Major#</a></p>  
+</div>
+            
