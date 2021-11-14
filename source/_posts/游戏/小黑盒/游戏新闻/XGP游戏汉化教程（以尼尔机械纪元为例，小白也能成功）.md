@@ -1,0 +1,18 @@
+
+---
+title: 'XGP游戏汉化教程（以尼尔机械纪元为例，小白也能成功）'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/14/5b3d548f22d0befbd89c8624388093f7/thumb.png'
+author: 小黑盒
+comments: false
+date: Sun, 14 Nov 2021 18:47:59 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/14/5b3d548f22d0befbd89c8624388093f7/thumb.png'
+---
+
+<div>   
+<p><b>写在前面：</b><br></p><p>最近发现有挺多盒友问XGP游戏汉化的问题。XGP少部分老游戏缺乏中文，如尼尔机械纪元、奥日1、耻辱1等。</p><p>虽然网上也有了不少教程，但为盒友图个方便，于是打算把这个教程再详细讲解一下。<b>本教程绝对简单，小白也能搞定！并且理论上也能用这种方法来装mod。</b><b></b></p><p><b>可能有些朋友没下过XGP的游戏就说“汉化这么简单的事还有人不会？”，</b><b>这种话</b><b>建议先自己下下游戏再来讨论。</b><b></b></p><p><b> 另外，两天前刚有消息，微软将在未来对PC游戏权限解禁，到时候可随意加汉化或者mod，大家如果嫌这个教程麻烦可以等一段时间。</b></p><p><b> </b></p><p><b><br></b></p><hr><p><b><br></b></p><p><b>申明：</b>本教程以B站UP主来者可追追追追的文章为蓝本，经过本人测试确实可用。</p><p><b>特别鸣谢 来者可追追追追。</b></p><p><br></p><hr><p><br></p><p><b>话不多说，直接开始！</b><b></b></p><p><b> </b></p><p><b>步骤1：打开电脑开发者模式。</b><b></b></p><p>可在windows搜索端搜索“开发者设置”。</p><p> </p><p><img class="lazy" data-height="933" src="https://imgheybox.max-c.com/bbs/2021/11/14/5b3d548f22d0befbd89c8624388093f7/thumb.png" data-width="1200" referrerpolicy="no-referrer"></p><p> </p><p><b>步骤2：下载UWPDumper。</b></p><p>黑盒不方便放链接，请大家百度搜索。如果确实不会，我再想办法。打开界面如下：</p><p> </p><p><img class="lazy" data-height="639" src="https://imgheybox.max-c.com/bbs/2021/11/14/98c5d8daa3c33c54f6a30e973fe4947e/thumb.png" data-width="1223" referrerpolicy="no-referrer"></p><p><b>步骤3：打开游戏，保持游戏后台运行的同时打开下载好的UWPInjector.exe。</b>找到游戏进程的PID。</p><p> </p><p><img class="lazy" data-height="639" src="https://imgheybox.max-c.com/bbs/2021/11/14/d0314f47d8adfe75c4fc3660d151b312/thumb.png" data-width="1223" referrerpolicy="no-referrer"></p><p>在”Enter ProcessID”中输入这个游戏前的数字。如图中“16972”。</p><p>回车，等待成功。会弹出一个文件夹目录。</p><p> </p><p><b>步骤4：将生成的文件进行压缩，再解压到你想转移到的任何硬盘。</b>（这个DUMP就是游戏，也可以<b>用这个方法实现游戏文件转移</b>）转移后压缩文件可以删除。</p><p> </p><p><img class="lazy" data-height="142" src="https://imgheybox.max-c.com/bbs/2021/11/14/9f5a8e6fe9452ecd698e18f06d5e42f9/thumb.png" data-width="988" referrerpolicy="no-referrer"></p><p> </p><p><b>步骤5：关闭游戏，在XBOX里卸载游戏。</b></p><p><b>步骤6：在DUMP里对游戏进行汉化，到3DM搜索汉化文件，按照网站给出的汉化方法进行汉化。</b>（其实就是下载解压安装）</p><p><img class="lazy" data-height="1300" src="https://imgheybox.max-c.com/bbs/2021/11/14/4d73b278867d1321ecd70de5ec393c40/thumb.png" data-width="676" referrerpolicy="no-referrer"></p><h4 class="img-desc">上箭头为方法，下箭头为下载地址</h4><p><b>步骤7：搜索打开powershell。</b></p><p> </p><p><img class="lazy" data-height="1378" src="https://imgheybox.max-c.com/bbs/2021/11/14/ec22027cfc413597b5d4dff2519b307c/thumb.png" data-width="929" referrerpolicy="no-referrer"></p><p><b>步骤7：</b></p><p>用cd命令进入你转移的游戏文件（我是DUMP），然后输入Add-AppxPackage -path .\appxmanifest.xml -register ，等待片刻。</p><p> </p><p><img class="lazy" data-height="939" src="https://imgheybox.max-c.com/bbs/2021/11/14/14d75ceb4a290bda3160d4482dad2585/thumb.png" data-width="1103" referrerpolicy="no-referrer"></p><p> </p><p><b>步骤8：重启XBOX，卸载的尼尔会重新回来。</b>直接从xbox进入游戏，<b>汉化完成 </b>！</p><p> </p><p><img class="lazy" data-height="1248" src="https://imgheybox.max-c.com/bbs/2021/11/14/fff814f61ce994e8e407de02525e639e/thumb.png" data-width="2120" referrerpolicy="no-referrer"></p><p> </p><p><b>Over！</b><b></b></p><p><br></p><hr><p>觉得有用请三连支持一下吧<span data-emoji="cube_乖" class="hb-emoji"></span></p><p><img class="lazy" data-height="145" src="https://imgheybox.max-c.com/bbs/2021/11/14/b2eed71c5cb5c6c0e435484fe037f506/thumb.png" data-width="440" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#神来之作第八期#</a><br></p>  
+</div>
+            

@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211114/1636874793_8168
 视频对比：
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTgyMDIwNzUyMA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwMDY3NDAyNA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>
 <p style="text-indent:2em;">
