@@ -23,31 +23,31 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211114/1636870291_7966
 新增部分的截图如下：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870291_796607.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870291_796607.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_920037.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_920037.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_505284.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_505284.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_631941.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_631941.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_171346.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_171346.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_859357.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_859357.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_605380.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870390_605380.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870391_238376.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870391_238376.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870391_608158.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636870391_608158.jpg" alt="樱花大战登场 《超级机器人大战30》首款DLC下周发布" referrerpolicy="no-referrer"> 
 </p>
           
 </div>
