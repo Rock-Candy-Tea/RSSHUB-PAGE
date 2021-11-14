@@ -1,0 +1,18 @@
+
+---
+title: '过年回家猫自己在家怎么办？用什么监控？-Chase.Ong的回答：不要着急哦，先来分析一下具体怎么用摄像头比较好哦 猫咪独自在家，而我们在老家过年，那肯定只能是...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-4e8a1cae5a85a7e7117db9ac30474e35_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 14 Nov 2021 06:55:05 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-4e8a1cae5a85a7e7117db9ac30474e35_1440w.jpg'
+---
+
+<div>   
+<strong>过年回家猫自己在家怎么办？用什么监控？</strong><br>Chase.Ong的回答<br><p>不要着急哦，先来分析一下具体怎么用摄像头比较好哦</p><p>猫咪独自在家，而我们在老家过年，那肯定只能是通过手机APP来远程监控了，那么，摄像头肯定是需要能够支持连接App的话，当然，也是需要支持WIFI的。</p><p>然后，既然是监控，肯定是需要保证画质清晰的，最少摄像头的分辨率也要1080P才够。</p><p>另外，除了白天要能够看见之外，最重要的是，晚上也要能够看见呀，不然晚上我们人又不在，黑灯瞎火，怎么知道猫跑哪去了？</p><p>所以呀，肯定也是需要摄像头能够支持<b>夜视</b> ，夜视距离少说也要10米吧，能够微光全彩是最好的，这样有一点点光，我们就能够看到彩色画面了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-4e8a1cae5a85a7e7117db9ac30474e35_1440w.jpg" data-rawwidth="680" data-rawheight="397" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-fa356ca614bd8e0bbabbb373c8d9def8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-4e8a1cae5a85a7e7117db9ac30474e35_r.jpg" referrerpolicy="no-referrer"></figure><p>对了，如果我们看着看着猫咪跑出了监控画面怎么办，去哪里找？</p><p>这个时候，如果能够通过手机App来控制摄像头转动的话，那可就太好了。</p><p>所以，我们也需要摄像头具备<b>云台功能</b>，云台的意思也就是说，摄像头能够上下左右转动，能够帮助我们追踪猫咪的踪迹。</p><p>但是呢，虽然我们能够看清楚猫咪了，也能够转动摄像头来查找猫咪在哪里了，但是，如果猫咪在蹭床单，跑到床底下了，咋办？</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-698a33ff6197002c917104a702612a74_1440w.jpg" data-rawwidth="720" data-rawheight="720" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-3d5edb7dd2cd92ad8150290f698fcaa4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-698a33ff6197002c917104a702612a74_r.jpg" referrerpolicy="no-referrer"></figure><p>这个时候，我们就需要用到语音对讲了呀，直接通过手机App出声叫一下，不就可以把小可爱叫出来了吗？</p><p>所以，我们也是需要摄像头具备<b>语音对讲</b>功能的。</p><p>总结一下吧，如果是监控猫咪的，挑选摄像头的时候，需要注意下面几个方面：</p><p><b>1、分辨率（高清画面）</b></p><p><b>2、夜视（夜间也可看清）</b></p><p><b>3、云台（摄像头能够转动）</b></p><p><b>4、语音对讲（及时呼唤猫咪）</b></p><p>Ok啦，既然知道了该关注了家用摄像头的哪些方面，那么，有没有哪些合适的摄像头可以满足呢。</p><p>肯定有的呀，看看下面这几个嘛，就能够很好满足了</p><p><b>1、萤石C6CN 1080P高清云台版</b></p><p><b>2、小米智能摄像头云台2K版</b></p><p><b>3、360家用摄像头2K云台乐享版</b></p><p class="ztext-empty-paragraph"><br></p><p>当然了，这边回答只是精简版，限于篇幅，并没有过多展开，如果有需要了解家用摄像头的相关具体功能和使用场景，也可以看看我之前写过的更长更详细的文章：</p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/350093774" data-size="small" data-image="https://pic3.zhimg.com/v2-2589e8c45c62bd4c87aea68a37c3f7e6_720w.jpg" data-entity-type="article" class="internal">过年回家猫咪自己在家怎么办？用什么摄像头监控？</a><p class="ztext-empty-paragraph"><br></p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/339687284" data-size="small" data-image="https://pic4.zhimg.com/v2-7b4d00e6a0ad9de769cd5d0d8e90c71b_720w.jpg" data-entity-type="article" class="internal">2021年双十一最值得购买的家用摄像头推荐及选购指南[智能摄像头、小米摄像头、萤石摄像头]</a><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9266b772d70ff7de452ae159aecb936d_1440w.jpg" data-rawwidth="440" data-rawheight="440" data-size="normal" data-caption data-default-watermark-src="https://pic2.zhimg.com/v2-a017b0871cf777d515e0e6f4d1c33cbd_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9266b772d70ff7de452ae159aecb936d_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
