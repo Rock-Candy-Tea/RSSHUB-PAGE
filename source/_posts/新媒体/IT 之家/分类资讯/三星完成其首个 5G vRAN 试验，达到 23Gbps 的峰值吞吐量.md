@@ -1,0 +1,19 @@
+
+---
+title: '三星完成其首个 5G vRAN 试验，达到 2.3Gbps 的峰值吞吐量'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://picsum.photos/400/300?random=4647'
+author: IT 之家
+comments: false
+date: Sun, 14 Nov 2021 04:34:30 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4647'
+---
+
+<div>   
+<p data-vmark="5abd"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 11 月 14 日消息，三星电子澳大利亚公司宣布与 TPG Telecom 合作，<span class="accentTextColor">已在 26GHz 频率上完成了其首个 5G 虚拟化 RAN (vRAN) 试验</span>。这项试验将进一步使三星网络和 TPG 能够为其客户提供“更有竞争力的 5G 连接速度”。</p><p data-vmark="9b9e">三星电子澳大利亚移动部门副总裁 Garry McGregor 表示：</p><blockquote><p data-vmark="a731">本次试验的目标是测试三星 5G 解决方案（包括其尖端的 5G vRAN）在一系列设置中的功能。我们现在已经成功实现了这一目标，这为我们提供了继续提升和支持该国 5G 网络基础设施的激动人心的机会。</p></blockquote><p data-vmark="5e49">IT之家了解到，该试验于 7 月首次宣布，并在与三星创新实验室和 TPG 电信领域的虚拟化核心相连的一组站点上进行，使用三星的 5G 解决方案，如 vRAN 和其最新的集成毫米波产品 Compact Macro。这种紧凑的解决方案在单一外形中集成了基带、无线电和天线，可以轻松建立并扩展 5G 网络。</p><p data-vmark="75da">通过此次试验，TPG 和三星还评估了不同的情况，模拟连接到 TPG Telecom 的 5G 网络时的真实用户体验，采用三星提供的 5G 解决方案。</p><p data-vmark="2865"><span class="accentTextColor">该试验还使用 26GHz 上的 400MHz 频谱成功实现了 2.3Gbps 的峰值用户吞吐量</span>，并通过三星的多用户、多输入、多输出 (MU-MIMO) 技术展示了超过 4Gbps 的单元吞吐量。在 1 公里左右的非视距场景中，能够达成稳定速率高于 1Gbps 的吞吐量。</p>
+          
+</div>
+            
