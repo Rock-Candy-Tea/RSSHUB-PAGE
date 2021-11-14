@@ -5,11 +5,11 @@ categories:
  - 游戏
  - psnine
  - 首页 - 白金攻略 / 游戏开箱
-headimg: 'https://picsum.photos/400/300?random=166'
+headimg: 'https://picsum.photos/400/300?random=3601'
 author: psnine
 comments: false
-date: Wed, 10 Nov 2021 09:07:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=166'
+date: Wed, 10 Nov 2021 10:07:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3601'
 ---
 
 <div>   
