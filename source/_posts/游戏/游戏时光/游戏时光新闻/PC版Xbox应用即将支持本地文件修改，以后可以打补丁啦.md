@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游戏时光
  - 游戏时光新闻
-headimg: 'https://picsum.photos/400/300?random=7403'
+headimg: 'https://picsum.photos/400/300?random=9769'
 author: 游戏时光
 comments: false
 date: Sun, 14 Nov 2021 03:03:34 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7403'
+thumbnail: 'https://picsum.photos/400/300?random=9769'
 ---
 
 <div>   
