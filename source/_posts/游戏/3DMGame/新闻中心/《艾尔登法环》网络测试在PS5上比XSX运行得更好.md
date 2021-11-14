@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211114/1636823247_1815
 获得资格的玩家可以进行《艾尔登法环》最新的网络测试，利用PS5和Xbox Series X上体验游戏的部分内容。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823247_181589.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823247_181589.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 这次网络测试还提供了对Xbox Series和PS5版本性能的初步了解，那么它们的表现如何呢?根据技术分析，PS5版本不仅提供了比Xbox Series X更好的平均帧率，而且加载时间也更快。
@@ -43,25 +43,25 @@ Series上的光追。官方计划在游戏发行后作为免费更新推出。
 </iframe>
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">视频截图</span></strong>
+<strong><span style="font-size:16px;">视频截图</span></strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_722317.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_722317.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_563441.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_563441.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_941929.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823333_941929.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_748334.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_748334.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_547961.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_547961.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_319402.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20211114/1636823334_319402.jpg" alt="《艾尔登法环》网络测试在PS5上比XSX运行得更好" referrerpolicy="no-referrer"> </strong> 
 </p>          
 </div>
             
