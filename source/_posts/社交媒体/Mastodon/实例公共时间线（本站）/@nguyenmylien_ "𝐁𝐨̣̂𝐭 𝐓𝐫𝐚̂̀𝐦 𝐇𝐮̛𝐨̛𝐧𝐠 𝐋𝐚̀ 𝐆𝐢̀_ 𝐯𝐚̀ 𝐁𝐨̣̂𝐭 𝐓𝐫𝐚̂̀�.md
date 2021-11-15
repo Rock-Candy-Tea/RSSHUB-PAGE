@@ -1,0 +1,19 @@
+
+---
+title: '@nguyenmylien_ "
+𝐁𝐨̣̂𝐭 𝐓𝐫𝐚̂̀𝐦 𝐇𝐮̛𝐨̛𝐧𝐠 𝐋𝐚̀ 𝐆𝐢̀_ 𝐯𝐚̀ 𝐁𝐨̣̂𝐭 𝐓𝐫𝐚̂̀�...'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/040/173/255/original/7aa0fb888b2274fa.jpg'
+author: Mastodon
+comments: false
+date: Mon, 15 Nov 2021 10:46:31 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/173/255/original/7aa0fb888b2274fa.jpg'
+---
+
+<div>   
+<hr><p>𝐁𝐨̣̂𝐭 𝐓𝐫𝐚̂̀𝐦 𝐇𝐮̛𝐨̛𝐧𝐠 𝐋𝐚̀ 𝐆𝐢̀? 𝐯𝐚̀ 𝐁𝐨̣̂𝐭 𝐓𝐫𝐚̂̀𝐦 𝐇𝐮̛𝐨̛𝐧𝐠 𝐜𝐨́ 𝐭𝐚́𝐜 𝐝𝐮̣𝐧𝐠 𝐠𝐢̀?</p><p>Bột Trầm Hương  được xây ra từ Trầm nguyên liệu.<br>Công  dụng và cách sử dụng của Bột Trầm Hương thì không phải ai cũng biết đầy đủ. Những kiến thức để bạn hiểu thêm về Bột Trầm Hương Là Gì? và Bột Trầm Hương có tác dụng gì? hay Bột Trầm Hương để làm gì?<br><a href="https://pawoo.net/tags/bottramhuong" class="mention hashtag" rel="tag">#bottramhuong</a><br><a href="https://pawoo.net/tags/bottramhuongnguyenchat" class="mention hashtag" rel="tag">#bottramhuongnguyenchat</a><br><a href="https://pawoo.net/tags/tramhuongnguyenchat" class="mention hashtag" rel="tag">#tramhuongnguyenchat</a><br><a href="https://pawoo.net/tags/tramhuongphuclinh" class="mention hashtag" rel="tag">#tramhuongphuclinh</a><br><a href="https://pawoo.net/tags/tramhuongcaocapmangala" class="mention hashtag" rel="tag">#tramhuongcaocapmangala</a><br><a href="https://www.pinterest.com/pin/702983823092178661/" rel="nofollow noopener" target="_blank">https://www.pinterest.com/pin/702983823092178661/</a></p><br><img src="https://img.pawoo.net/media_attachments/files/040/173/255/original/7aa0fb888b2274fa.jpg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
