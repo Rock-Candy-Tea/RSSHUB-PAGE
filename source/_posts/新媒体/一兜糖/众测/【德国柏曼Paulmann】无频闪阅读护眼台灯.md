@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202111/01/8764da/b6980b24574df5e0.png!home320'
 author: 一兜糖
 comments: false
-date: 2021-11-15 09:09:22
+date: 2021-11-15 10:09:27
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202111/01/8764da/b6980b24574df5e0.png!home320'
 ---
 
 <div>   
-申请结束时间：2021.11.07                        <br>【德国柏曼Paulmann】无频闪阅读护眼台灯<br>                            数量 ：3<br>                            实际价格 ：1598元<br>                            名单确认中<br>                            319人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202111/01/8764da/b6980b24574df5e0.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.11.07                        <br>【德国柏曼Paulmann】无频闪阅读护眼台灯<br>                            数量 ：3<br>                            实际价格 ：1598元<br>                            活动体验中<br>                            320人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202111/01/8764da/b6980b24574df5e0.png!home320" referrerpolicy="no-referrer">  
 </div>
             
