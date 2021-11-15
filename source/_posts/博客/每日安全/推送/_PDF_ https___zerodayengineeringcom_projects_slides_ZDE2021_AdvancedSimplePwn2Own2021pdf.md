@@ -1,0 +1,26 @@
+
+---
+title: '_PDF_ https___zerodayengineering.com_projects_slides_ZDE2021_AdvancedSimplePwn2Own2021.pdf'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=1170'
+author: 每日安全
+comments: false
+date: 2021-11-15 02:22:15
+thumbnail: 'https://picsum.photos/400/300?random=1170'
+---
+
+<div>   
+<q>Pwn2Own 2021 比赛 Alisa Esage 所使用的 Parallels Desktop 漏洞的分析</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 15 minutes ago</small></span>
+</cite>
+  
+</div>
+            

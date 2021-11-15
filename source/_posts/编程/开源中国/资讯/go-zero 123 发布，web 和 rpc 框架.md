@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1176'
+headimg: 'https://picsum.photos/400/300?random=4285'
 author: 开源中国
 comments: false
-date: Mon, 15 Nov 2021 00:55:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1176'
+date: Mon, 15 Nov 2021 08:55:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4285'
 ---
 
 <div>   
@@ -49,7 +49,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1176'
  <li>goctl 失败时返回非零状态码</li> 
  <li>错误修复和改进</li> 
 </ol> 
-<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">更新详情查看：https://github.com/zeromicro/go-zero/releases/tag/v1.2.3</p>
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">更新详情查看：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fzeromicro%2Fgo-zero%2Freleases%2Ftag%2Fv1.2.3" target="_blank">https://github.com/zeromicro/go-zero/releases/tag/v1.2.3</a></p>
                                         </div>
                                       
 </div>
