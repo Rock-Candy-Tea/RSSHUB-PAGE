@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-ad89bb4674c17bc5cf0a6d0a26e9004
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="background-color:#ffffff; color:#27282c">PhpStorm 2021.3 Beta 现已发布，</span><span style="background-color:#ffffff; color:#333333">用户可以从 IDE 内部、通过 Toolbox 应用程序或使用 Ubuntu 的 snaps 进行升级，也可以从</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fphpstorm%2F2021%2F11%2Fphpstorm-2021-3-beta%2F" target="_blank">官方网站</a><span style="background-color:#ffffff; color:#333333">下载。</span></p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="background-color:#ffffff; color:#27282c">PhpStorm 2021.3 Beta 现已发布，</span><span style="background-color:#ffffff; color:#333333">用户可以从 IDE 内部、通过 Toolbox 应用程序或使用 Ubuntu 的 snaps 进行升级，也可以从</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fphpstorm%2F2021%2F11%2Fphpstorm-2021-3-beta%2F" target="_blank">官方网站</a><span style="background-color:#ffffff; color:#333333">下载。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="background-color:#ffffff; color:#333333"><img alt height="800" src="https://oscimg.oschina.net/oscnet/up-ad89bb4674c17bc5cf0a6d0a26e900492de.png" width="1600" referrerpolicy="no-referrer"></span></p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 

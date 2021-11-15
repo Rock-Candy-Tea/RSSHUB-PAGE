@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1381'
+headimg: 'https://picsum.photos/400/300?random=2436'
 author: 开源中国
 comments: false
-date: Sun, 14 Nov 2021 23:48:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1381'
+date: Mon, 15 Nov 2021 07:47:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2436'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>QEMU 6.2 首个 RC 版本在已在上周发布，rc0 标志着 QEMU 6.2 已进入特性冻结阶段，从此版本开始，每周都将会发布 RC 版，直到 12 月中旬稳定版正式发布。</p> 
+                                                                    
+                                                        <p>QEMU 6.2 首个 RC 版本在已在上周发布，rc0 标志着 QEMU 6.2 已进入特性冻结阶段，从此版本开始，每周都将会发布 RC 版，直到 12 月中旬稳定版正式发布。</p> 
 <p>QEMU 6.2 带来的变化和改进包括：</p> 
 <ul> 
  <li>结合功能强大的 KVM，现在在虚拟机中支持 Intel SGX（软件保护扩展）</li> 

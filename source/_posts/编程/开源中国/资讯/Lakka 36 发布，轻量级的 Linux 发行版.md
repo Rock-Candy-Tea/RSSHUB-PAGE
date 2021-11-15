@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8150'
+headimg: 'https://picsum.photos/400/300?random=726'
 author: 开源中国
 comments: false
 date: Mon, 15 Nov 2021 07:23:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8150'
+thumbnail: 'https://picsum.photos/400/300?random=726'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Lakka 是一个轻量级的 Linux 发行版，可以将树莓派等设备变成一个完整的复古游戏机。Lakka 从 RetroPie 和 PiMAME 等项目中获得了灵感，这些项目展示了将专用 Linux 环境与运行在小型、低功耗开发板上的游戏模拟前端软件相结合的潜力。</p> 
+                                                                    
+                                                        <p>Lakka 是一个轻量级的 Linux 发行版，可以将树莓派等设备变成一个完整的复古游戏机。Lakka 从 RetroPie 和 PiMAME 等项目中获得了灵感，这些项目展示了将专用 Linux 环境与运行在小型、低功耗开发板上的游戏模拟前端软件相结合的潜力。</p> 
 <h3>自 3.5.2 版本以来的变化包括：</h3> 
 <ul> 
  <li>RetroArch 更新至 1.9.13.2 

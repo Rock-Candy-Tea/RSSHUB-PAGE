@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4287'
+headimg: 'https://picsum.photos/400/300?random=2506'
 author: 开源中国
 comments: false
 date: Mon, 15 Nov 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4287'
+thumbnail: 'https://picsum.photos/400/300?random=2506'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache Groovy 4.0.0 第二个 Beta 测试版已发布，Apache Groovy 是用于 JVM 的多面性编程语言。</p> 
+                                                                    
+                                                        <p>Apache Groovy 4.0.0 第二个 Beta 测试版已发布，Apache Groovy 是用于 JVM 的多面性编程语言。</p> 
 <p>新特性</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>[<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fissues.apache.org%2Fjira%2Fbrowse%2FGROOVY-5450" target="_blank">GROOVY-5450</a>] - 静态编译时支持对 final 字段分配进行检查</li> 

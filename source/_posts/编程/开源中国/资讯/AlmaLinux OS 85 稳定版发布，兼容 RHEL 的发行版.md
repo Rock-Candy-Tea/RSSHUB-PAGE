@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3660'
+headimg: 'https://picsum.photos/400/300?random=6933'
 author: 开源中国
 comments: false
 date: Sun, 14 Nov 2021 07:51:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3660'
+thumbnail: 'https://picsum.photos/400/300?random=6933'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>AlmaLinux OS 8.5 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Falmalinux.org%2Fblog%2Falmalinux-os-85-stable-now-available%2F" target="_blank">已发布</a>。</p> 
+                                                                    
+                                                        <p>AlmaLinux OS 8.5 稳定版<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Falmalinux.org%2Fblog%2Falmalinux-os-85-stable-now-available%2F" target="_blank">已发布</a>。</p> 
 <blockquote> 
  <p>AlmaLinux 是开放源码的、社区驱动的项目，它从红帽企业Linux (RHEL) 的源码编译而来。AlmaLinux 跟 RHEL 8 完全在二进制上兼容，它由 CloudLinux OS 的创建者打造。</p> 
 </blockquote> 

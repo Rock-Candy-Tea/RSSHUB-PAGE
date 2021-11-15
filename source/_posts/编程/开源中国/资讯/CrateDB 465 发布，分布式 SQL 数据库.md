@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6357'
+headimg: 'https://picsum.photos/400/300?random=9998'
 author: 开源中国
 comments: false
 date: Mon, 15 Nov 2021 07:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6357'
+thumbnail: 'https://picsum.photos/400/300?random=9998'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。</p> 
+                                                                    
+                                                        <p>CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。</p> 
 <p>CrateDB 4.6.5 正式发布，该版本更新内容如下：</p> 
 <h3>修复</h3> 
 <ul> 

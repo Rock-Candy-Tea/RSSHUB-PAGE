@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7080'
+headimg: 'https://picsum.photos/400/300?random=6096'
 author: 开源中国
 comments: false
-date: Sun, 14 Nov 2021 23:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7080'
+date: Mon, 15 Nov 2021 07:36:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6096'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>MKVToolNix 63.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
+                                                                    
+                                                        <p>MKVToolNix 63.0.0 发布了。MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
 <h3>新功能和改进</h3> 
 <ul> 
  <li>mkvmerge: AC-3 解析器：BSID 值大于 10 且小于 15 的 E-AC-3 现在也可以被识别；</li> 
