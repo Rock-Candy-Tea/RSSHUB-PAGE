@@ -1,0 +1,18 @@
+
+---
+title: '选择养猫的那一刻大家都在想什么？-hoya的回答：（谢邀） 家里仨主子 _图片_ 左边是女孩， 妞妞，一岁半，已绝育（黑粉白那个）中间是男孩子，小橘，四个半月，...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-5f4ecd4e7dd99d29d2a244ef84f20ada_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 15 Nov 2021 00:02:04 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-5f4ecd4e7dd99d29d2a244ef84f20ada_1440w.jpg'
+---
+
+<div>   
+<strong>选择养猫的那一刻大家都在想什么？</strong><br>hoya的回答<br><p>（谢邀）</p><p>家里仨主子</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-5f4ecd4e7dd99d29d2a244ef84f20ada_1440w.jpg" data-rawwidth="2326" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-89fa443ff195fef2635f0665e9f236fe_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-5f4ecd4e7dd99d29d2a244ef84f20ada_r.jpg" referrerpolicy="no-referrer"></figure><p>左边是女孩，<b><i>妞妞</i></b>，一岁半，已绝育（黑粉白那个）</p><p>中间是男孩子，小橘，四个半月，待阉割</p><p>右边男孩子，花酱，本月23号一周岁生日，已绝育</p><p>妞妞是花酱的亲妈，高冷小仙女</p><p>猜猜花酱和小橘是什么关系！</p><p>俩猫花纹很像对不对</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5991d076ea7f5b58e93b1a449d049724_1440w.jpg" data-rawwidth="1630" data-rawheight="1439" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-7fe12999fff41304cd7af61dc4b8afbc_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5991d076ea7f5b58e93b1a449d049724_r.jpg" referrerpolicy="no-referrer"></figure><p>头上的花纹相似度75％！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-3d0efd69d037584a7f8b5bef9a75ab01_1440w.jpg" data-rawwidth="2048" data-rawheight="1535" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-15a3710dcf714a4d9243eec1340c1fc9_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-3d0efd69d037584a7f8b5bef9a75ab01_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4f4ccca3ee446d06a1311e2784d86d93_1440w.jpg" data-rawwidth="2274" data-rawheight="1280" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-26016bb381a04fee3299b616e41ef296_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4f4ccca3ee446d06a1311e2784d86d93_r.jpg" referrerpolicy="no-referrer"></figure><p>另外放一张小橘一发情就轻薄妞妞的作案图（好像这张看起来更清楚些？）</p><p>锵锵锵锵！！下面公布正确答案！</p><p>他俩是兄弟没错，但不是亲的</p><p>小橘和他俩没有任何血缘关系，因为小橘是我捡的</p><p>只有他是我选择的，另外俩都不是我干的</p><p>妞妞是我妈看我孤寡为了让我开心作为惊喜（硬塞）给我的，那时候还是粘人的黄花大闺女，结果第一次养猫，因为是被塞的我没来得及做功课养狗养久了不知道猫会发情会跑出去，然后……</p><p>她发情出门跑丢了，我当时住校，周末一放假我就飞回来找，满小区找，从白天找到大晚上，我不敢相信她没了，但我又找不到，我好怕她被坏人欺负，她一个温顺的宠物猫，抢不过流浪猫那万一饿着怎么办，想着想着我就边找边学猫叫呼唤她，希望她听见是我的声音会回应我</p><p>结果有只流浪猫被我喵来了，他也喵了一声，我就感觉救星来了，我跟他讲我的猫没了我特别想她，我跟他讲了好多，那流浪猫也不跑，就安静坐在草丛里看着我听我讲，讲完过了一会才喵了一声，又消失在黑夜里了</p><p>过了一个月，还真被我妈找到了，出门的时候看到楼下流浪猫投喂点有个很像的猫，一喊她就过来了，就是我家的妞妞（感谢小区喂养流浪猫的阿姨，好人一生平安！）</p><p>猫找到了就开始体检，住院，补营养做手术，妞妞的一只腿断了，医生说做手术可能会有后遗症，走路会瘸，但为了她的健康我们还是做了，但所幸，现在腿治好了，也没有瘸，还是漂亮的小仙女</p><p>出院后的一个月，有一天妞妞一直叫我，然后就……生了……是个男猫</p><p>我当时还以为她感染寄生虫了还给她塞回去了一点点x感觉好对不起她</p><p>之前住院所以顿顿现煮的鱼肉鸡胸肉营养餐所以孩子营养也还不差，现在母子平安，甚至还活蹦乱跳踢翻猫砂盆</p><p>当时本来把花花（男猫）要送人的，但是我舍不得让妞妞难过，孩子不见了万一不吃不喝怎么办，而且新主人万一欺负花花怎么办，谁知道是不是送给了个虐猫的……所以我就留下了花花，好吃好喝好玩供着（幸好她只生了一个）</p><p>然后今年暑假去外婆家玩，外婆家有个好可爱的大白猫和一只小橘猫，大白猫是她家的宠物猫，长得好像我家妞妞，那小橘猫却是个流浪猫，据说是一个亲戚家不要的猫扔到外婆家，外婆也不管，任由小橘猫在她家蹦跶，跟大白猫打打闹闹，但外婆也不喂他，小家伙只能蹭两口大白猫的猫粮，吃一顿算一顿，猫砂也没有，身上长满了跳蚤，耳朵里黑乎乎的全是耳螨，一会挠耳朵一会挠头，全身都在痒</p><p>小橘猫跟流浪猫没差，只是淋不到雨而已</p><p>这太可怜了，而且小橘猫真的好粘人，我家那俩都要撸十分钟才开始呼噜呼噜，这小橘猫会主动找你往你身边一瘫然后自己就开始呼噜呼噜要你摸他……心都要化了啦！</p><p>跟我家那俩猫处成室友的我一下就被戳到了</p><p>这！这就是我的梦中情猫啊！！多粘人！多可爱！</p><p>于是……养了！</p><p>体检驱虫做完隔离了一两周（不要学！我家都比较温顺好相处所以完全没有打架的问题，正常是要隔离三个月慢慢熟悉的！）</p><p>现在仨好的很，小橘经常跟妞妞一起跑来跑去踢翻猫砂盆，花花也被带的更好动了，晚上还会蹦跶一小会（大懒猫）</p><p>唯一的感受就是他好可爱好可爱好可爱好可爱好可爱好可爱（虽然也不爱剪指甲呜呜呜）</p>  
+</div>
+            
