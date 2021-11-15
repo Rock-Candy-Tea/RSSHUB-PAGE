@@ -1,0 +1,18 @@
+
+---
+title: '入手了iPhone13的朋友们，使用感怎么样，值得入手吗？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-ddd5cf43a64f087fd288015f2d9461a2_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 15 Nov 2021 05:35:40 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-ddd5cf43a64f087fd288015f2d9461a2_1440w.jpg'
+---
+
+<div>   
+平老虎的回答<br><br><p>家里现在三台，iPhone 13一台老人用，我和媳妇用着iPhone 13 Pro。</p><p>iPhone这种动辄发售上千万，目前iPhone 13 Pro等订货之后需要等，现提货，黄牛要加一千元。预算够，就值得入手，但需要等。如果是iPhone X，非常推荐升级，如果是iPhone 11，可以再等等。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-ddd5cf43a64f087fd288015f2d9461a2_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="731" data-default-watermark-src="https://pic1.zhimg.com/v2-fa11a3a3564d27e724a8c612144a5818_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ddd5cf43a64f087fd288015f2d9461a2_r.jpg" referrerpolicy="no-referrer"></figure><h2>信号：</h2><p>媳妇的iPhone 13 Pro接听电话非常差，电信手机卡，有时间要去售后看看</p><p>我很少电话</p><p>无线信号没有明显感受</p><p>5G毫无体验，就是电信经营商套餐涨价的缘由而已。</p><p><br></p><h2>日常使用体验</h2><p>手机屏幕更亮了，使用更舒服。</p><p>但是我个人不喜欢这种直角边，我更喜欢iPhone 11那种圆润的边角。</p><p>用iPhone 13 Pro而不是iPhone 13 Pro Max，手感很不错，太大的费劲</p><p><br></p><h2>拍照效果</h2><p>iPhone 13 Pro广角弱光更强</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-433d25a838d7bde7aa8eb457c9303e3f_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="975" data-default-watermark-src="https://pic4.zhimg.com/v2-ec566d29106a828d20e89214808c3e69_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-433d25a838d7bde7aa8eb457c9303e3f_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-312a73e9a0cfb49ac3b2aec0e50c3603_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="975" data-default-watermark-src="https://pic3.zhimg.com/v2-1347f5c87b0147c1d2234441fb856137_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-312a73e9a0cfb49ac3b2aec0e50c3603_r.jpg" referrerpolicy="no-referrer"></figure><p>长焦更适合西藏新疆，不适合城市里用</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-01c75e5cedf9e4b65a955a62464eefcb_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="731" data-default-watermark-src="https://pic2.zhimg.com/v2-b0330511701764cd5cca7b9f3a70c703_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-01c75e5cedf9e4b65a955a62464eefcb_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f7207c7dcbceee993c0cff8e4fbf0dad_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="975" data-default-watermark-src="https://pic1.zhimg.com/v2-1dfee72e968324d9da14fa6e2c5cf749_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f7207c7dcbceee993c0cff8e4fbf0dad_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-541625ebcf29fd8d22b1f0674531cbcb_1440w.jpg" data-caption data-size="normal" data-rawwidth="1300" data-rawheight="975" data-default-watermark-src="https://pic1.zhimg.com/v2-d88c450dd144d07ea3bd5cf6418d59c0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-541625ebcf29fd8d22b1f0674531cbcb_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
