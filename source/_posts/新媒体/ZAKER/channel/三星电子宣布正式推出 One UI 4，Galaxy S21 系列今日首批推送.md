@@ -1,0 +1,18 @@
+
+---
+title: '三星电子宣布正式推出 One UI 4，Galaxy S21 系列今日首批推送'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b40_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 15 Nov 2021 05:15:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b40_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 15 日消息，三星电子今日宣布正式推出 One UI 4 系统，首批适配的机型包括 Galaxy S21、S21+、S21 Ultra 等 S21 系列产品，为用户提供更多自定义、更新的隐私设置等内容。</p><p>目前已经有大量韩国和美国的小伙伴获得了 One UI 4.0 正式版推送，预计国行版本不日降至。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b40_1024.jpg" data-height="4096" data-width="971" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b40_1024.jpg" referrerpolicy="no-referrer"></div></div>三星电子移动通信事业部执行副总裁兼软件平台团队负责人尹长铉 （Janghyun Yoon）表示：" 我们致力于尽快让每个人都能获得最佳的移动体验。One UI 4 实现了这一承诺，为 Galaxy 智能手机用户提供了最新的定制和隐私功能。但我们不会就此止步。很快，其他智能手机和平板电脑用户也将能够从此次软件更新中受益，从而在我们的整个生态系统中获得更加无缝的体验。"<p></p><p><b>你的 Galaxy，你的独特方式</b></p><p>One UI 4，帮你创造属于你的个性化体验，以满足您的独特需求从而展示您的个性。全新版本提供了大量可供选择的新型调色板，无论是主屏幕图标、菜单、按钮还是背景，所有内容所有外观所有感觉统统由你掌控。借助重新设计的小部件，提供更深入的个性化体验。您还可以更轻松地通过键盘直接使用更多种类的表情符号功能、GIF 和贴纸来表达自己。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202111/6192527eb15ec03ffd210b41_1024.jpg" data-height="529" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6192527eb15ec03ffd210b41_1024.jpg" referrerpolicy="no-referrer"></div></div><b>保护你最重要的东西</b><p></p><p>没有强大的安全性能就没有隐私可言，这就是为什么三星要在 One UI 4 中引入了最新的隐私和安全功能的原因，这样你就可以选择你想要分享或保留隐私的内容。当某个应用程序试图调用你的相机或麦克风会提醒您，新的隐私面板还可以帮你更便捷地进行设置和查看。有了 One UI 4，监控和控制您的隐私设置相当简单。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b42_1024.jpg" data-height="542" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b42_1024.jpg" referrerpolicy="no-referrer"></div></div><b>将您连接到扩展的生态系统</b><p></p><p>One UI 4 可助您最大限度地利用三星展生态系统和第三方应用程序，从而带来更强的移动体验。</p><p>三星与其他行业领导者（如 Google）合作，确保您在使用喜爱的 App 和服务时可以获得更完善的无缝体验。这意味着您可以享受像 Google Duo 这样的应用程序，从而带来与朋友和家人的高质量视频通话。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b43_1024.jpg" data-height="625" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6192527eb15ec03ffd210b43_1024.jpg" referrerpolicy="no-referrer"></div></div>无论您使用的是 Galaxy Z 系列、Galaxy Watch 还是 Galaxy Tab，您的设备都将获得统一的外观和感觉，并且能够无缝同步它们。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202111/6192527eb15ec03ffd210b44_1024.jpg" data-height="535" data-width="1000" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6192527eb15ec03ffd210b44_1024.jpg" referrerpolicy="no-referrer"></div></div><b>时间</b><p></p><p>IT 之家了解到，One UI 4 将从 11 月 15 日开始在 Galaxy S21 系列上率先提供，并且很快将在旧机型包括 Galaxy S 和 Note 系列以及 Galaxy Z 系列、A 系列和平板电脑上提供。</p><p>此外，三星 Galaxy Watch 系列系统更新也在今晚一同发布，从今天开始所有用户都可以享受到升级的健康功能和全新的表盘。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
