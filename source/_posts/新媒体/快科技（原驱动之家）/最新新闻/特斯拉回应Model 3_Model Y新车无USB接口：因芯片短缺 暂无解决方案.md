@@ -18,7 +18,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211115/s_bb2cd711b0d1471fb3736f34fe
 <p>然而，特斯拉并未事先告知，也没有提到补偿措施。此次受影响的车型涉及Model 3和Model Y两款。</p>
 <p class="newsinfo_vedio"><a class="mydrivers_player" href="https://weibo.com/5994003317/L1y5ZmFj4">视频</a></p>
 <p>特斯拉官方客服表示，<strong>11月6日后生产的Model 3和Model Y车型均可能出现该情况，也不是说缺失，就是说中央扶手箱里的USB接口，没有办法使用U盘进行音乐的播放，也没有办法插手柄进行游戏</strong>。</p>
-<p>这种情况是因为芯片短缺的问题，中央扶手箱的USB受到影响。</p>
+<p>这种情况是因为芯片短缺的问题，导致中央扶手箱的USB接口受到影响。</p>
 <p>目前<span style="color:#000000;">，</span><span style="color:#ff0000;"><strong>尚未接到相关解决方案的通知。</strong></span></p>
 <p>快科技了解到，受芯片短缺影响，此前宝马新车也陆续减配触摸屏，且后续也无法加装。</p>
 <p>另外，理想ONE原配5颗毫米波雷达，但最近交付的车型都只装3颗，后续到货后再补装。</p>

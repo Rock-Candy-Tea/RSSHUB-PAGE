@@ -1,0 +1,18 @@
+
+---
+title: '15日短期限Shibor多数下行'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=3051'
+author: 中证网
+comments: false
+date: Mon, 15 Nov 2021 12:25:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3051'
+---
+
+<div>   
+<p>　　中证网讯（记者 张勤峰 见习记者 连润）中国货币网数据显示，11月15日，短期限Shibor多数下行。其中，隔夜Shibor下行7BP报1.79%，7天期Shibor下行2BP报2.10%，14天期Shibor上行2BP至2.11%。</p>  
+</div>
+            
