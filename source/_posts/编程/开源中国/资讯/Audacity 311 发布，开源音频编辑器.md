@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2777'
+headimg: 'https://picsum.photos/400/300?random=7794'
 author: 开源中国
 comments: false
 date: Tue, 16 Nov 2021 07:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2777'
+thumbnail: 'https://picsum.photos/400/300?random=7794'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#000000">Audacity 是最受欢迎的免费跨平台的开源音频编辑器之一。它可以在 Windows、macOS 和 GNU/Linux 设备上下载和使用，并且长期以来维持更新，功能也十分丰富。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#000000">Audacity 是最受欢迎的免费跨平台的开源音频编辑器之一。它可以在 Windows、macOS 和 GNU/Linux 设备上下载和使用，并且长期以来维持更新，功能也十分丰富。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Audacity 3.1.1 正式发布，带来的更新内容包括：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>修正了 FFMPEG 导入只导入左声道的问题 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Faudacity%2Faudacity%2Fpull%2F2046" target="_blank">#2046</a></li> 

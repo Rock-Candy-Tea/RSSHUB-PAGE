@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3209'
+headimg: 'https://picsum.photos/400/300?random=6912'
 author: 开源中国
 comments: false
-date: Tue, 16 Nov 2021 00:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3209'
+date: Tue, 16 Nov 2021 08:01:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6912'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Chrome 96 稳定版发布了，稳定版增加了 15 个新特性，包含一些开发人员功能、用户体验改进和安全更新内容。</p> 
+                                                                                            <p>Chrome 96 稳定版发布了，稳定版增加了 15 个新特性，包含一些开发人员功能、用户体验改进和安全更新内容。</p> 
 <p>新特性：</p> 
 <h2 style="margin-left:0px">桌面后退缓存</h2> 
 <p style="margin-left:0px">为访问的页面创建缓存，允许即时恢复到以前访问过的页面。</p> 

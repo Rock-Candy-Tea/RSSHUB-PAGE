@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5460'
+headimg: 'https://picsum.photos/400/300?random=3105'
 author: 开源中国
 comments: false
 date: Tue, 16 Nov 2021 07:20:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5460'
+thumbnail: 'https://picsum.photos/400/300?random=3105'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">RabbitMQ 是一个 Advanced Message Queuing Protocol（AMQP）的开源实现，由以高性能、健壮以及可伸缩性出名的 Erlang 编写而成，RabbitMQ 也继承了这些优点。 </span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">RabbitMQ 是一个 Advanced Message Queuing Protocol（AMQP）的开源实现，由以高性能、健壮以及可伸缩性出名的 Erlang 编写而成，RabbitMQ 也继承了这些优点。 </span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">RabbitMQ<span> </span><code>3.8.25</code><span> </span>是一个维护版本，建议所有用户升级到此版本。</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start"><strong>普罗米修斯插件（Prometheus Plugin）</strong></h3> 
 <h4 style="margin-left:.6em; margin-right:0; text-align:start"><strong>增强功能<span> </span></strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Frabbitmq%2Frabbitmq-server%2Fpull%2F2653" target="_blank">#2653</a></h4> 

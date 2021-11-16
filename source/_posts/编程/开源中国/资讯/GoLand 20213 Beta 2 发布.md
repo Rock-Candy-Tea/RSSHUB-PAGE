@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-77ecf721826fb5b3a599a5f3d80f7481195.png'
 author: 开源中国
 comments: false
-date: Mon, 15 Nov 2021 23:59:00 GMT
+date: Tue, 16 Nov 2021 07:58:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-77ecf721826fb5b3a599a5f3d80f7481195.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>GoLand 2021.3 Beta 2 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fgo%2F2021%2F11%2F12%2Fgoland-2021-3-beta-2-improved-error-messages-for-debugging-tests-and-the-ability-to-compare-profiler-snapshots%2F" target="_blank">已发布</a>，此版本改进了 Debugging Tests 的错误信息和比较分析器快照 (Compare Profiler Snapshots) 的能力。</p> 
+                                                                                            <p>GoLand 2021.3 Beta 2 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fgo%2F2021%2F11%2F12%2Fgoland-2021-3-beta-2-improved-error-messages-for-debugging-tests-and-the-ability-to-compare-profiler-snapshots%2F" target="_blank">已发布</a>，此版本改进了 Debugging Tests 的错误信息和比较分析器快照 (Compare Profiler Snapshots) 的能力。</p> 
 <p><strong>改进 Debugging Tests 的错误消息</strong></p> 
 <p>当我们在项目树中选择一个目录并运行 Debug | go test 'directoryName'，会得到一个模糊的错误消息。</p> 
 <p>发生这种情况是因为，在这种情况下，GoLand 创建了一个带有 Test Kind: Directory 的配置，而我们不能在目录类型的配置中调试测试。</p> 

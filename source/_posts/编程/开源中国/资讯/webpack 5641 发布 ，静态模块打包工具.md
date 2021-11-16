@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9088'
+headimg: 'https://picsum.photos/400/300?random=3071'
 author: 开源中国
 comments: false
 date: Tue, 16 Nov 2021 07:19:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9088'
+thumbnail: 'https://picsum.photos/400/300?random=3071'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">Webpack v </span><span style="color:#000000">5.64.1</span><span style="color:#333333"> 发布了！Webpack 是一个常见的静态模块打包工具，主要用途是在浏览器上打包 JavaScript 文件。</span></p> 
+                                                                                            <p><span style="color:#333333">Webpack v </span><span style="color:#000000">5.64.1</span><span style="color:#333333"> 发布了！Webpack 是一个常见的静态模块打包工具，主要用途是在浏览器上打包 JavaScript 文件。</span></p> 
 <p><span style="color:#333333">版本主要改动如下：</span></p> 
 <ul> 
  <li><span style="color:#2e3033">修复 managedPaths 中的正则表达式，以排除额外的斜杠。</span></li> 

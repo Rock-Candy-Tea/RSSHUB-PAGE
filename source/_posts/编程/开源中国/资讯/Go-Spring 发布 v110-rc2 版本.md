@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2335'
+headimg: 'https://picsum.photos/400/300?random=5578'
 author: 开源中国
 comments: false
-date: Mon, 15 Nov 2021 23:47:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2335'
+date: Tue, 16 Nov 2021 07:47:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5578'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:justify"><span><strong>前言</strong></span></p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:justify"><span><strong>前言</strong></span></p> 
 <p>Go 语言以简单著称，一个很明显的例子就是只需要很少的代码即可实现一个最小的 Web API 。Go-Spring 融合了 Go 简单和 Spring 自动配置的优点。本文通过几个实现最小 Web API 的示例展示 Go-Spring 的简单和强大。</p> 
 <p><span><strong>To Gopher</strong></span></p> 
 <p>下面是使用 Go 标准库实现的 Hello World! 程序。代码真的很少！</p> 

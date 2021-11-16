@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7284'
+headimg: 'https://picsum.photos/400/300?random=2780'
 author: 开源中国
 comments: false
 date: Tue, 16 Nov 2021 07:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7284'
+thumbnail: 'https://picsum.photos/400/300?random=2780'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Geogebra 是动态数学软件，它将几何、代数、电子表格、绘图、统计和微积分集成在一个易于使用的软件包中。</p> 
+                                                                                            <p>Geogebra 是动态数学软件，它将几何、代数、电子表格、绘图、统计和微积分集成在一个易于使用的软件包中。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">GeoGebra 6.0.675.0 版本现已发布，具体更新内容如下：</p> 
 <ul> 
  <li style="text-align:left">修复绘制圆柱体的问题</li> 

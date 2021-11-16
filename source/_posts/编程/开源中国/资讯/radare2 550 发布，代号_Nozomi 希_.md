@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8750'
+headimg: 'https://picsum.photos/400/300?random=3177'
 author: 开源中国
 comments: false
 date: Tue, 16 Nov 2021 07:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8750'
+thumbnail: 'https://picsum.photos/400/300?random=3177'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">radare2 是 radare 的一个重写版本，是一个逆向工程框架和命令行工具集，可以用来简化逆向工程任务。</span>radare2 5.5.0 现已发布，<span style="background-color:#ffffff; color:#333333">该版本包含了 api、esil、abi 和 commands 中的 breaking changes；插件将需要像往常一样重新编译。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">radare2 是 radare 的一个重写版本，是一个逆向工程框架和命令行工具集，可以用来简化逆向工程任务。</span>radare2 5.5.0 现已发布，<span style="background-color:#ffffff; color:#333333">该版本包含了 api、esil、abi 和 commands 中的 breaking changes；插件将需要像往常一样重新编译。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333">具体更新内容包括有：</span></p> 
 <ul> 
  <li>新的 IOBanks API 和命令替换了 skyline 并使 io 更快（2-10 倍）</li> 

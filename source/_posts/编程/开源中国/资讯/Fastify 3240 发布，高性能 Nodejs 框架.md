@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3470'
+headimg: 'https://picsum.photos/400/300?random=2688'
 author: 开源中国
 comments: false
-date: Mon, 15 Nov 2021 23:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3470'
+date: Tue, 16 Nov 2021 07:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2688'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">Fastify 3.24.0 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">Fastify 3.24.0 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">此版本更新内容包括：</span></p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li><span style="color:#24292f">build(deps-dev)：</span>将 @sinonjs/fake-timers 从 7.1.2 升级到 8.1。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Ffastify%2Ffastify%2Fpull%2F3418" target="_blank">#3418</a></li> 
