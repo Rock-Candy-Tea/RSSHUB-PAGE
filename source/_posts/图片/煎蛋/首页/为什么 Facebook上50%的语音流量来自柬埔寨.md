@@ -5,20 +5,20 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c28bab494748ce8e1d77321ff32dc849.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom'
 author: 煎蛋
 comments: false
 date: Tue, 16 Nov 2021 09:01:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c28bab494748ce8e1d77321ff32dc849.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>在柬埔寨，从顺风车司机到首相洪森，每个人都喜欢发送语音而不非文字。</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c28bab494748ce8e1d77321ff32dc849.jpg!custom" referrerpolicy="no-referrer"><p>2018 年，Facebook 团队遇到了一个难题。根据吹哨人 Frances Haugen 发布的文件，柬埔寨用户占 Messenger 语音功能全球总流量的近 50%，但该公司没有人知道原因。</p>
+<blockquote><p>在柬埔寨，从顺风车司机到首相洪森，每个人都喜欢发送语音而非文字。</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom" referrerpolicy="no-referrer"><p>2018 年，Facebook 团队遇到了一个难题。根据吹哨人 Frances Haugen 发布的文件，柬埔寨用户占 Messenger 语音功能全球总流量的近 50%，但该公司没有人知道原因。</p>
 <p>根据世界其他地区看到的内部文件，一名员工建议进行一项调查，看是否与当地识字率有关？但柬埔寨的识字率约为 80%。</p>
 <p>那是Facebook 的问题吗？令人惊讶的是，答案与 Facebook 无关，而更多地与高棉语言的复杂性有关。</p>
 <p>在柬埔寨，从顺风车司机到首相洪森，每个人都喜欢发送语音而非文字。Facebook 的研究表明，不仅柬埔寨人喜欢语音信息，它在其他任何地方都更受欢迎。在这项研究中，包括来自多米尼加共和国、塞内加尔、贝宁、科特迪瓦和那位柬埔寨人的 30 名用户，87% 的受访者表示，他们爱用语音。在受访者中最受欢迎的平台 WhatsApp 以及 Messenger 和 Telegram 上也是如此。</p>
 <p>最常见的原因之一是。打字太难了。</p>
-<p>就柬埔寨而言，从来没有一种简单的方法可以输入高棉语。虽然高棉 Unicode 在 2006 年至 2008 年间很早就标准化了，但键盘本身却落后了。第一个高棉语计算机键盘的开发人员必须容纳该语言的 74 个字符，这是世界上所有脚本中最多的。</p>
+<p>就柬埔寨而言，从来没有一种简单的方法可以输入高棉语。虽然高棉 Unicode 在 2006 年至 2008 年间很早就标准化了，但键盘本身却落后了。第一个高棉语计算机键盘的开发人员必须容纳该语言的 74 个字符，这是世界上所有语言系统中最多的。</p>
 <p>这是一项艰巨的任务。哈维尔·索拉 (Javier Sola) 是西班牙出生、居住在金边的计算机科学家，他是 2005 年从事最初高棉操作系统项目的团队的一员。</p>
 <p>“高棉语中的符号比拉丁语中的符号多得多，”现任柬埔寨非政府组织开放研究所执行董事的索拉说。在拉丁键盘上，用户可以一次看到所有字母表，从而使打字变得直观。但在高棉语中，每个键都承载两个不同的字符，这需要在两个键盘层之间反复翻转。不仅如此，有限的字体意味着如果收件人的计算机缺少与发件人相同的字体，某些消息将无法显示。</p>
 <p>Facebook 于 2009 年左右在柬埔寨流行起来，就在廉价智能手机和互联网接入的同时，这意味着它的使用量激增。今天，它仍然是该国最受欢迎的综合平台。但是在一个小的智能手机屏幕上，同样的打字系统几乎变得不可能。</p>
