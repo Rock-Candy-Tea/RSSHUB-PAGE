@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211116/1637026748_7135
 根据最新GQ杂志的报道，Xbox主管<a href="https://www.videogameschronicle.com/people/phil-spencer/">菲尔·斯宾塞</a> (Phil Spencer)表达了对Xbox部门未来的看法，并透露他正在考虑接班人的计划。
 </p>
 <p style="text-indent:2em;">
-菲尔·斯宾塞加入微软已有三十多年，自2017年起担任该公司游戏执行副总裁。他表示作为一个在这里工作了33年的人，显然他未来工作的时间要比以前短很多，但这个团队是长久的,，可持续性，现在对他来说没有什么比这更重要的了。
+菲尔·斯宾塞加入微软已有三十多年，自2017年起担任该公司游戏执行副总裁。他表示作为一个在这里工作了33年的人，显然他未来工作的时间要比以前短很多，但这个团队是长久的，可持续性，现在对他来说没有什么比这更重要的了。
 </p>
 <p align="center">
-<img alt="Xbox主管虑接班人计划 称是为了团队长期的发展" src="https://img.3dmgame.com/uploads/images/news/20211116/1637026748_713515.png" referrerpolicy="no-referrer">
+<img alt="Xbox主管虑接班人计划 称是为了团队长期的发展" src="https://img.3dmgame.com/uploads/images/news/20211116/1637026748_713515.png" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 菲尔·斯宾塞特别谈到接班人时补充道：“当你考虑到团队的长期良好发展时，你应该这样做。以确保团队处于有利的位置以及公司文化处于良好的位置。我们正对谁是接班人做出正确的决定，那必须比我活得久。”
@@ -32,7 +32,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211116/1637026748_7135
 GQ指出，这种长期战略很多，比如Xbox的 自适应控制器之类的外围设备，它彻底改变了残疾玩家的辅助功能选项。Xbox最近也迎来20周年，背后的团队在将来也会不断地努力为玩家提供更好的服务。
 </p>
 <p align="center">
-<img alt="Xbox主管虑接班人计划 称是为了团队长期的发展" src="https://img.3dmgame.com/uploads/images/news/20211116/1637026960_920133.png" referrerpolicy="no-referrer">
+<img alt="Xbox主管虑接班人计划 称是为了团队长期的发展" src="https://img.3dmgame.com/uploads/images/news/20211116/1637026960_920133.png" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
