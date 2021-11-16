@@ -1,0 +1,18 @@
+
+---
+title: 'Traveloggers 創意故事接龍大賽'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/765ad626-970b-431b-a414-574453211359.png'
+author: Matters
+comments: false
+date: Tue, 16 Nov 2021 06:54:37 GMT
+thumbnail: 'https://assets.matters.news/embed/765ad626-970b-431b-a414-574453211359.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/765ad626-970b-431b-a414-574453211359.png" data-asset-id="765ad626-970b-431b-a414-574453211359" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>假如在11月19日 12:00 GMT+8 前<strong>沒有 15 人參加</strong>，此提案將不會開展。</blockquote><p>在馬特宇宙，六大性格不同，身份各異的 Traveloggers 星族在自由玩耍，努力創作、探索無盡新世界。究竟，他們各自有甚麼小故事？又會一起經歷甚麼奇幻冒險？創意故事接龍大賽由此展開。</p><h2>故事接龍類型及內容</h2><ul><li>究竟 Travelogger 每天生活是怎樣的？例如 Zhenya 振亞有四條腿，洗澡要花更多時間嗎？她們喜歡吃甚麼？</li><li>故事接龍必須專注以 Traveloggers 六大星族為主角，請不要加入其他動物、人類或怪物為主角。</li><li>喜歡的話也可以關聯現在的馬特宇宙共建計畫從中延伸出你的小故事</li><li>故事內容為奇幻、冒險、生活日常、可愛、搞笑、人物性格描述…著實不想有太多規限，歡迎活用創意。</li><li>假如你擁有其中之一位 Travelogger，歡迎把他的特點融入於故事裡，例如 <a href="https://opensea.io/assets/0x8515ba8ef2cf2f2ba44b26ff20337d7a2bc5e6d8/958" rel="noopener noreferrer" target="_blank">Travelogger #958 A sociable, Epicurean Lesya</a> ，你可以說她一早就去別人家串門子 social。但留意你的寶寶有機會隨著故事走向變成不是你所想的那樣，然而希望大家都作出正面描寫，畢竟尊重別人就是尊重自己。留意使用自己的 Travelogger 這個要求不是必須的，只要以任何一位 Travelogger 作為故事人物就可以了。</li></ul><h2>故事字數</h2><ul><li>每篇最少 150 字、最多 180 字（不包括標點符號）</li><li>第一棒及最後兩棒可達 300 字（不包括標點符號）</li></ul><h2>接龍參加人數</h2><p>最少 15 人，最多 30 人，歡迎任何馬特市市民參與。</p><h2>獎金來源</h2><p>依照 <a class="mention" href="https://matters.news/@ch847009" target="_blank" data-display-name="志工爺爺" data-user-name="ch847009" data-id="VXNlcjo0NjY3Ng">﻿<span>@志工爺爺</span>﻿</a> <a href="https://matters.news/@ch847009/%E6%95%85%E4%BA%8B%E6%8E%A5%E9%BE%8D%E8%88%89%E8%BE%A6%E6%B4%BB%E5%8B%95%E4%B9%8B%E6%8F%90%E6%A1%88%E5%88%B6%E5%BA%A6-bafyreiaefcp2ha7xk2xebjvbsjzua7gva6772xm6o5j7qso24fnpzfvrhm" rel="noopener noreferrer" target="_blank">故事接龍舉辦活動之提案制度</a> 獎金來源為：</p><p>基金一 : 參加人數 x 100 LikeCoin + 支持人數（上限10人）x 100 LikeCoin + 評審費用 1,000 LikeCoin</p><p>基金二 : 參加人數 x 100 LikeCoin</p><p>總基金上限 8,000 LikeCoin</p><h2>獎金分配</h2><p>基金一 + 基金二結合分配：</p><ol><li>1,000 LikeCoin 分給兩位評審 <a class="mention" href="https://matters.news/@penfarming" target="_blank" data-display-name="閱讀筆耕" data-user-name="penfarming" data-id="VXNlcjo0NTE5NA">﻿<span>@閱讀筆耕</span>﻿</a> 及 <a class="mention" href="https://matters.news/@misiaa2001" target="_blank" data-display-name="蔡凱西" data-user-name="misiaa2001" data-id="VXNlcjoxMjEw">﻿<span>@蔡凱西</span>﻿</a> </li><li>30% 獎金將由評審選出最具創意或最令人歡樂的文章合共 8 名均分。</li><li>70% 餘下獎金將由參加者平分，</li></ol><p>此外本人會跟據個人喜好發放港幣支持。</p><h2>接龍方式</h2><ul><li>請先參看留言下的棒次，並回覆你想接的是那一棒。</li><li>每棒參與者以留言時間決定，先到先得，不得異議。</li><li>假如你<strong>在指定時間內沒有接棒，將失去參加資格</strong>，並順延予另一人。</li><li>參加者請撰寫你的故事後，1. 加上「Traveloggers 創意故事接龍 [號碼] | [標題]；2. 複製上一棒的內容、參加者名單、評審名單；3. 關聯上一位的文章。</li></ul><h2>規則</h2><ul><li>當你參與的一刻就代表你同意活動規則與獎金分配方式，並接受社區監督獎金分配。</li><li>文章內容不得含有性意味、性別歧視、性騷擾或相關諧音。</li><li>假如參加者忘記了加上標籤、關聯文章、文不對題或字數不足，主辦人即本人會在看到的時候盡量通對方，然而這個只是義務不是責任。假如參加在活動結束後及結算前仍然沒有依照規則修正，依然會失去參與活動資格。</li><li>規則就是規則，不會因任何人的任何要求或謾罵而獲得寬限。</li><li>不接受抄襲，不以惡意騙取 LikeCoin 為目的。</li><li>不接受人身攻擊或任何惡意無理據滋擾社區的行為；不接受抵毀任何馬特市市民並胡亂 tag 他/她做成騷擾去發洩不滿；不接受不參與活動但惡意關聯文章的行為，違反規則者將被取消資格，及，考慮公開名字作出指責，敬請貴客自重，不要有失斯文。</li><li>任何決定以 <a class="mention" href="https://matters.news/@hi176" target="_blank" data-display-name="Matty" data-user-name="hi176" data-id="VXNlcjo4MQ"><span>@Matty </span>﻿</a>、<a class="mention" href="https://matters.news/@ch847009" target="_blank" data-display-name="志工爺爺" data-user-name="ch847009" data-id="VXNlcjo0NjY3Ng">﻿<span>@志工爺爺</span>﻿</a> 及本人的決定為最終決定。</li></ul>  
+</div>
+            
