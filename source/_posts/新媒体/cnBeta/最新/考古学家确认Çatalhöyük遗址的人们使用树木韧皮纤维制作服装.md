@@ -1,0 +1,19 @@
+
+---
+title: '考古学家确认Çatalhöyük遗址的人们使用树木韧皮纤维制作服装'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1116/45e0c05f03c2aa1.jpg'
+author: cnBeta
+comments: false
+date: Tue, 16 Nov 2021 03:40:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1116/45e0c05f03c2aa1.jpg'
+---
+
+<div>   
+<strong>60年来，学者们一直在争论一块来自石器时代的布是由羊毛还是亚麻布制成的。那么它到底是由什么制成的呢？答案会让你吃惊。</strong>石器时代的城市听起来像是一个矛盾的说法。但是在大约8000-9000年前，土耳其的Çatalhöyük有多达10000人居住。这使得它成为考古学家所称的新石器时代和寒武纪时期的最大的已知定居点。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1116/45e0c05f03c2aa1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1116/45e0c05f03c2aa1.jpg" alt="Stone-Age-Cloth-777x389.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Lise Bender Jørgensen说：“Çatalhöyük是最著名的考古遗址之一。”她是一名考古学家，也是挪威科技大学历史和古典研究系的名誉教授，她帮助确认了古城中的人们是用什么来编织他们的衣服。</p><p style="text-align: left;">“一些专家认为，人们用羊毛制作衣服。其他人则认为他们是用亚麻布制作的。”Bender Jørgensen是考古纺织品方面的专家，所以她参与这项工作并不奇怪。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1116/28434a5a055c525.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1116/28434a5a055c525.jpg" alt="22.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">近60年来一直在讨论</p><p style="text-align: left;">自1962年在Çatalhöyük发现第一批布片以来，专家们一直在讨论人们在这里穿什么样的衣服。</p><p style="text-align: left;">一些专家认为，人们用羊毛制作衣服。其他人则认为他们是用亚麻布制作的。那么谁是正确的呢？Bender Jørgensen和她的同事们说：“两者都不是。”现在，他们已经在权威的考古学杂志《Antiquity》上发表了他们的发现。</p><p style="text-align: left;">"当Çatalhöyük从20世纪50年代末开始被挖掘时，它被认为是有史以来最古老的城市之一。尽管新的发现表明这不再是事实，但这个地方仍然有很高的名人效应，"Jørgensen说。“9000多年前人们就已经在这里生活了。”</p><p style="text-align: left;">考古学家James Mellaart领导了最早的发掘工作。土耳其当局后来将他驱逐出国，因为他被指控参与了考古文物的黑市销售。</p><p style="text-align: left;">然而，Çatalhöyük这个城市是真实的。9000多年前，人们就已经在这里生活了，而且已经发现了大量的定居点。直到大约7950年前，人们一直把这个城市当作自己的家。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1116/5d2cf3bbd54fc23.jpg" alt="3.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">石器时代出土的纺织品</p><p style="text-align: left;">世界顶尖的考古学家之一，斯坦福大学的 Ian Hodder教授在1993年至2017年间进行了新的发掘。他们产生了大量的新数据，让我们对该遗址有了全新的认识。Hodder和同事们的发现出土了几块布，后来发现这些布的年龄在8500到8700年之间。</p><p style="text-align: left;">Bender Jørgensen说：“当Hodder的挖掘工作开始发现纺织品时，他们邀请我和我的瑞士同事Antoinette Rast-Eicher一起检查它们。”</p><p style="text-align: left;">Rast-Eicher来自伯尔尼大学，专门负责鉴定织物纤维。她对在阿尔卑斯山湖泊中发现的一些最古老的欧洲纺织品有研究经验。这两位研究人员近年来在几个项目上进行了合作，包括在挪威科技大学（NTNU）的主持下。</p><p style="text-align: left;">2017年8月，他们一起前往Çatalhöyük，检查Hodder小组的考古学家发现的纺织品。他们还与来自柏林自由大学的博士后和考古植物学家Sabine Karg进行合作。这组专家找到了明确的答案。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1116/960bd9d890c5f9c.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">“过去，研究人员在很大程度上忽视了织物纤维可能是羊毛或亚麻以外的东西的可能性，但最近另一种材料得到了更多的关注，”Bender Jørgensen说。</p><p style="text-align: left;">Çatalhöyük的人们正是使用这种材料的各种品种。Bender Jørgensen说：“几千年来，韧皮纤维被用来制作绳子、线，反过来也用来制作纱线和布。”</p><p style="text-align: left;">来自篮子的纤维样本被证明是由草制成的，但其中一些纺织品显然是由橡树的韧皮纤维制成的。它们也是世界上保存最久的机织织物。</p><p style="text-align: left;">韧皮纤维存在于柳树、橡树或菩提树等树木的树皮和木材之间。Catalhöyük 的人们使用橡树皮，因此用他们在周围发现的树皮制作衣服。他们还使用橡木作为房屋的建筑材料，当树木被砍伐时，人们无疑会收获韧皮纤维。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1116/553d715fc12a625.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">没有种植亚麻</p><p style="text-align: left;">专家的结论还与另一个引人注目的观点一致：该地区没有发现大量亚麻籽。Çatalhöyük 的人似乎没有种植亚麻。</p><p style="text-align: left;">Bender Jørgensen 指出，很多人经常忽略作为早期材料的韧皮纤维。“亚麻往往主导着人们使用的织物纤维类型的讨论，”她说。</p><p style="text-align: left;">事实证明，该地区的人们并没有像许多研究人员以前认为的那样从其他地方进口亚麻布，而是使用了他们可以获得的大量资源。</p>   
+</div>
+            
