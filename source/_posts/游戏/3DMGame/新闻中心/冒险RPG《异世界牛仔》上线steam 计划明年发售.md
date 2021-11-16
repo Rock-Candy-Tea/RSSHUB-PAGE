@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211116/1637048307_3186
 由Ten63工作室开发的多结局冒险角色扮演类游戏《异世界牛仔》（Isekai Cowboy)今日上线steam平台，预计2022年发售，游戏暂不支持中文。
 </p>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048307_318633.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048307_318633.png" referrerpolicy="no-referrer"> 
 </p>
 <h4 style="text-indent:2em;">
-游戏页面：<a href="https://store.steampowered.com/app/1815600/Isekai_Cowboy/" target="_blank">点击此处</a>
+游戏页面：<a href="https://store.steampowered.com/app/1815600/Isekai_Cowboy/" target="_blank">点击此处</a> 
 </h4>
 <h3>
 游戏简介
@@ -56,19 +56,19 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211116/1637048307_3186
 游戏截图
 </h3>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048320_232373.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048320_232373.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048327_764186.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048327_764186.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048339_876969.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048339_876969.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048346_972155.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048346_972155.png" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048353_727283.png" referrerpolicy="no-referrer">
+<img alt="冒险RPG《异世界牛仔》上线steam 计划明年发售" src="https://img.3dmgame.com/uploads/images/news/20211116/1637048353_727283.png" referrerpolicy="no-referrer"> 
 </p>
 <h3>
 系统需求

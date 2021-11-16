@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/83/a195468e53191b0a8220c5708c1ecer5.
 ---
 
 <div>   
-由華義國際數位娛樂代理，改編自日本知名人氣動畫《OVERLORD》的手機遊戲《MASS FOR THE DEAD》繁體中文版，今（16）日正式展開冒險者事前預約活動，為即將上市的遊戲拉開序幕。  【以下內容為廠商提供資料...
+由華義國際數位娛樂代理，改編自日本知名人氣動畫《OVERLORD》的手機遊戲《MASS FOR THE DEAD》繁體中文版，今（16）日正式展開冒險者事前預約活動，為即將上市的遊戲拉開序幕。   【以下內容為...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/83/a195468e53191b0a8220c5708c1ecer5.JPG" referrerpolicy="no-referrer">  
 </div>
