@@ -1,0 +1,18 @@
+
+---
+title: '打造人們需要的產品(一) －Design Thinking'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/213d9822-175f-43dc-a2ce-ccd8e55e7a3e.png'
+author: Matters
+comments: false
+date: Tue, 16 Nov 2021 01:24:14 GMT
+thumbnail: 'https://assets.matters.news/embed/213d9822-175f-43dc-a2ce-ccd8e55e7a3e.png'
+---
+
+<div>   
+<h2>定義</h2><p>IDEO CEO Tim Brown在《哈佛商業評論》提出的定義：『設計思考是以人為本的設計精神與方法，考慮人的需求、行為，也考量科技或商業的可行性。』</p><figure class="image"><img src="https://assets.matters.news/embed/213d9822-175f-43dc-a2ce-ccd8e55e7a3e.png" data-asset-id="213d9822-175f-43dc-a2ce-ccd8e55e7a3e" referrerpolicy="no-referrer"><figcaption><span>Tim Brown, IDEO ;截自David Blake的《Design thinking for the learning professional》SlideShare</span></figcaption></figure><p>設計思考是一種思考的態度、解決問題的方式。</p><h2>精神</h2><ol><li>以人為本：Human-Centered ; 以使用者的觀點去體驗、去理解使用者感觸，達到真正貼近使用者的設計。</li><li>及早失敗：Embracing Failure ; 在初期成本及資源投入相對較少時，早一點知道重大問題，擁抱重大問題並針對問題持續做出相對應的修正。</li><li>跨領域團隊合作：透過不同的觀點討論，激發無限的可能。</li><li>做中學習：Learning by Doing ; 透過製作原型的過程近一步學習及了解產品。</li><li>同理心：站在使用者立場去思考。</li><li>快速原型製作：快速完成粗略且簡易的模型，以供快速反覆的修正。</li></ol><p>延伸閱讀(一)：<a href="https://read01.com/zh-tw/LxoPM.html#.WdHxYBOCyL8" rel="noopener noreferrer" target="_blank">哈佛商業評論：Design Thinking解析</a></p><p>延伸閱讀(二)：<a href="http://aco-design-life.blogspot.com/2015/06/design-thinking-workshop.html" rel="noopener noreferrer" target="_blank">[筆記] Design Thinking Workshop — 台大不一樣思考社</a></p><h2>設計思考流程</h2><ol><li><strong>同理心(Empathize)</strong>：站在使用者(Target Audience)角度思考，透過<strong>訪談(Engage)</strong>、<strong>觀察(Observe)</strong>或<strong>參與(Immerse)</strong>等方式探索及收集使用者的體驗或感受資訊，作為下一階段引用的原始資料。</li><li><strong>需求定義(Define)</strong>：將上一階段收集的原始資料進行彙整及分類，運用<strong>「動詞描述需求(Need)」</strong>及<strong>「需求背後的原因(Insight)」</strong>進行思考，並確認使用著的問題或痛點。</li><li><strong>創意動腦(Ideat)：</strong>秉持<strong>3不5要</strong>的原則『<strong>不打斷、不批評、不離題、要延續他人想法、要畫圖、要瘋狂、數量要夠多、要下標題</strong>』去尋找好點子，並透過腦力激盪及快速發想替上一階段定義的使用者需求找到解決方案。</li><li><strong>製作原型(Prototype)</strong>：製作簡易的原型，讓idea實體化，透過將想法付諸實踐的過程及使用者反饋迅速作出修正。</li><li><strong>實際測試(Test)</strong>：做出原型後根據製作過程及使用者需求的反饋找出問題，同時也回到了第一個步驟，反覆循環達到逐步完善使用者需求的目的。</li></ol><figure class="image"><img src="https://assets.matters.news/embed/a7cba743-a13c-4d95-a592-86bd53f87aa0.png" data-asset-id="a7cba743-a13c-4d95-a592-86bd53f87aa0" referrerpolicy="no-referrer"><figcaption><span>設計思考流程; 截自 Design Thinking — 搞懂需求和洞見的差異</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/ab0f59df-5a41-4bdf-ba1e-a35b29f6fab4.png" data-asset-id="ab0f59df-5a41-4bdf-ba1e-a35b29f6fab4" referrerpolicy="no-referrer"><figcaption><span>Empathize收集現象和問題，Define挑出並確認需要被解決的問題</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/d61c6068-56c6-4bd0-9997-aa20304f4d36.png" data-asset-id="d61c6068-56c6-4bd0-9997-aa20304f4d36" referrerpolicy="no-referrer"><figcaption><span>這三個元素沒有先後順序，可能先發現需求才去探索主要的使用者是誰；也可能是先有直覺再去分析。</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/65ff6a44-4858-4f18-8c7b-8358bc9480e7.png" data-asset-id="65ff6a44-4858-4f18-8c7b-8358bc9480e7" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><em>以上圖片截自：</em><a href="https://www.slideshare.net/shutingchuang940/design-thinking-47724525" rel="noopener noreferrer" target="_blank"><em>Design Thinking — 搞懂需求和洞見的差異</em></a></p><hr><blockquote>Thinking like a designer can transform the way you develop products, services,processes — and even strategy.（像一個設計師一樣去思考，可以改觀你的產品開發方式，服務方式，工藝流程甚至戰略。）</blockquote><blockquote>— By Tim Brown</blockquote><hr><p><br></p>  
+</div>
+            
