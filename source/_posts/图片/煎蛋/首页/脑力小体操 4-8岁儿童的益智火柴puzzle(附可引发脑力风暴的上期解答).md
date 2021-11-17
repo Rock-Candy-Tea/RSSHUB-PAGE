@@ -5,20 +5,20 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e20179e1b85e2e5a051a58e919dcd63f.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 17 Nov 2021 05:21:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e20179e1b85e2e5a051a58e919dcd63f.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>因为上期答案太那啥了，今天轻松一下</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom" referrerpolicy="no-referrer"><p><img src="https://cors.zfour.workers.dev/?http://wx1.sinaimg.cn/mw690/a1262f29ly1gwi123xbwmj22c03401l0.jpg" alt="脑力小体操 4-8岁儿童的益智火柴puzzle(附可引发脑力风暴的上期解答)" referrerpolicy="no-referrer"></p>
+<blockquote><p>因为上期答案太那啥了，今天轻松一下</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/e20179e1b85e2e5a051a58e919dcd63f.jpg!custom" referrerpolicy="no-referrer"><p><img src="https://cors.zfour.workers.dev/?http://wx1.sinaimg.cn/mw690/a1262f29ly1gwi123xbwmj22c03401l0.jpg" alt="脑力小体操 4-8岁儿童的益智火柴puzzle(附可引发脑力风暴的上期解答)" referrerpolicy="no-referrer"></p>
 <p>至多移动两根火柴，让榛子到“杯子”外。</p>
 <hr>
 <p>关于 <a target="_blank" rel="external" href="http://jandan.net/p/109828">如何制造一个骰子，掷出某个面的几率是另一面的2倍</a></p>
 <p>答案竟然完全超出了我个人的意料。</p>
-<p>在目前已知的文献里，艾萨克·牛顿最早思考了问题。在一份1664年和1666年之间的私人笔记里(作为历史文献于1967年公开)，他提到了这个问题。</p>
+<p>在目前已知的文献里，艾萨克·牛顿最早思考了这问题。在一份1664年和1666年之间的私人笔记里(作为历史文献于1967年公开)，他提到了这个问题。</p>
 <p>他写道："抛出的长方体骰子，某个面朝上的概率？如果一个骰子不是一个正立方体体，而是长方或其他不对称的形状，可以发现，某些面朝上的几率非常之高。"</p>
 <p>目前还不清楚关于这一问题，牛顿思考到何种程度。</p>
 <p>但在1692年，这个问题再次出现在John Arbuthnot的一篇论文中。所以后来很多研究，都是延续自这篇当时发表的论文。</p>
