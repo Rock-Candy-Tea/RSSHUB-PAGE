@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cdn.max-c.com/heybox/game/header/846770_SotZn.jpg'
 author: 小黑盒
 comments: false
-date: 2021-11-17 06:09:27
+date: 2021-11-17 07:07:47
 thumbnail: 'https://cdn.max-c.com/heybox/game/header/846770_SotZn.jpg'
 ---
 
 <div>   
 <img src="https://cdn.max-c.com/heybox/game/header/846770_SotZn.jpg" referrerpolicy="no-referrer"> <br>
-            平台: PC<br>折扣力度: 6.5折<br>当前价格: 46[史低]  原价: 70<br>评分: 8.5<br><br>  
+            平台: PC<br>折扣力度: 6.5折<br>当前价格: 46[史低]  原价: 70<br>评分: 8.4<br><br>  
 </div>
             

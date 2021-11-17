@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/06d5feaa083029f4aab794aa04d5d3c4.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 17 Nov 2021 05:21:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/06d5feaa083029f4aab794aa04d5d3c4.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>因为上期答案太那啥了，今天轻松一下</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/06d5feaa083029f4aab794aa04d5d3c4.jpg!custom" referrerpolicy="no-referrer"><p><img src="https://cors.zfour.workers.dev/?http://wx1.sinaimg.cn/mw690/a1262f29ly1gwi123xbwmj22c03401l0.jpg" alt="脑力小体操 4-8岁儿童的益智火柴puzzle(附可引发脑力风暴的上期解答)" referrerpolicy="no-referrer"></p>
+<blockquote><p>因为上期答案太那啥了，今天轻松一下</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/1e3fae3bdccaae28a170d9db7d4d944d.jpg!custom" referrerpolicy="no-referrer"><p><img src="https://cors.zfour.workers.dev/?http://wx1.sinaimg.cn/mw690/a1262f29ly1gwi123xbwmj22c03401l0.jpg" alt="脑力小体操 4-8岁儿童的益智火柴puzzle(附可引发脑力风暴的上期解答)" referrerpolicy="no-referrer"></p>
 <p>至多移动两根火柴，让榛子到“杯子”外。</p>
 <hr>
 <p>关于 <a target="_blank" rel="external" href="http://jandan.net/p/109828">如何制造一个骰子，掷出某个面的几率是另一面的2倍</a></p>
@@ -31,6 +31,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/0
 <p>但有意思的，<strong>对于长方体的骰子，却不存在这样的“数学原型”——没有长方体的数学骰子</strong>。因为经过实物实验和计算机模拟，人们从半个多世纪前到前十年间发现，完美均匀的长方体骰子，掷出各个面上数字的概率，也不仅仅依赖于纯粹的(如长宽高=1:1:2)几何结构，而是和具体的物质属性有关。也就说，在几何上全等的铁质长方体骰子、木长方体骰子和骨质长方体骰子，它们反映的概率也不相同。所以不能仅仅抽象成长宽高=1:1:2的单一骰子。</p>
 <p>(实际上，对实验数据的统计结果显示，非完美对称的n面体骰子的概率遵循吉布斯分布。其中参数里包括了与物质属性相关的参数，如弹性。当弹性足够大时，骰子几乎100%停止于重心高度最小的状态。)</p>
 <p>所以，<strong>单纯问一个结构确定的长方体骰子，它掷出某个数字的概率，这一问题毫无意义。</strong>或者说，我们可以强行用某个在数学上很合理的模型套进去，就说抽象概率就遵循这一模型。但是，结果却与真实实验数据不符，那概率失去了现实的意义，变成了数学上的文字游戏。</p>
+<p>PS 另一方面，如果构想一个可以完美吸收冲击的面，骰子每次都落在那上面，则实验数据最接近辛普森模型。</p>
 <p>参考资料<br>
 <a href="https://arxiv.org/pdf/1302.3925.pdf">https://arxiv.org/pdf/1302.3925.pdf</a>(感谢数学研发论坛的某位版主)</p>  
 </div>
