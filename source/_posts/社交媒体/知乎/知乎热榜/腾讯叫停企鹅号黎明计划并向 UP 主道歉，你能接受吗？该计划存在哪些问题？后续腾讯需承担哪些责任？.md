@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-76377d25579ec256131c604fa04759b6_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=3505'
 author: 知乎
 comments: false
-date: Wed, 17 Nov 2021 03:49:55 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-76377d25579ec256131c604fa04759b6_1440w.jpg'
+date: Wed, 17 Nov 2021 05:11:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3505'
 ---
 
 <div>   
-包大人是律师的回答<br><br><p data-pid="fXLi9BsA">腾讯的确有无法逃避的责任，但我想提醒广大自媒体人、UP主，对于向你抛出橄榄枝的MCN机构一定要小心，那不一定是橄榄枝，可能是勒紧你脖子的绳索。</p><p data-pid="O1s1e8uV">腾讯在公告中表示，“黎明计划”的初衷是“在得到创作者的授权前提下，鼓励MCN机构邀请创作者入驻并帮助创作者运营，让创作者在腾讯各内容平台获得收益。”也就是说腾讯并不是该计划的直接执行人，而是以MCN机构作为中间人，MCN机构做什么完全不在腾讯控制之列。</p><p data-pid="yLOr6vu7">也正因为如此，在MCN机构邀请UP主入驻的过程中产生了各种乱象，有的UP主在入驻后并未拿到签约金；入驻企鹅号后无法注销自身账号；甚至部分无良MCN机构拿到UP主运营授权后，反向举报该UP主在B站的账号，迫使该账号下架。</p><p data-pid="tdh--hAv">这些操骚作可能并非腾讯本意，但腾讯却是始作俑者和主要责任人，所以“黎明计划”停止了，但是无良MCN机构不会停止寻找受害人的脚步。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-76377d25579ec256131c604fa04759b6_1440w.jpg" data-rawwidth="690" data-rawheight="673" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-c9730c628620b9ce8dfe983c29a2350b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-76377d25579ec256131c604fa04759b6_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="PmqdcsTY">昨天有个咨询，一个主播跟MCN机构签了份合同，约定三个月内帮他策划成为有一定影响力的主播，但是三个月过去了对方的承诺并没有兑现。这名主播想解除合同，却想起两份合同都寄给对方了，自己手里不仅没有合同，连个合同照片也没有，更糟糕的是，他连合同上的对方公司名也忘记了，想解除合同都不知道该给谁发通知。</p><p data-pid="XgbpI0kr">现在主播多、自媒体人也多，打开手机人人都能搞直播，人人都能发视频。MCN机构瞅准了这个机会，大量“招兵买马”，但有实力有能力的MCN机构屈指可数，多数机构自身能力都要打个问号。很多主播、自媒体人法律意识比较单薄，糊里糊涂的就跟人签了合同。合同好签解除却难，期间对方可能没提供任何帮助不说，要解除合同，可能还要倒赔钱，严重的甚至连账号都保不住。</p><p data-pid="oCfvp47_">连李子柒这样的超级大网红都免不了被算计的命运，难道她的教训还不够深刻吗？</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7d3040097ce4c045d1a3a06849d81a29_1440w.jpg" data-rawwidth="1080" data-rawheight="862" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-7bcb82acad869cebca242e7eec5dde8a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7d3040097ce4c045d1a3a06849d81a29_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+君莫笑的回答<br><br><p data-pid="p-XwvmWy">猪撞树了你知道拐了</p><p data-pid="QpJKm4K9">接受道歉么？接受</p><p data-pid="m6mw-e4F">能原谅么？不能</p><p data-pid="yqNeTwZn">承担什么责任？不知道不是学法的</p><p data-pid="7neT8bss">存在哪些问题？问题大了，可不是声明里这么轻描淡写</p><p data-pid="yUG65D5p">1.无法注销，许多up主发现无法退出计划，没有注销途径，所以要么一开始就打算坑，要么就是自大到觉得100%不会有人注销，选一个吧</p><p data-pid="0WxpZtKW">2.mcn吃肉不吐骨头，利用信息差，mcn提前海量签约up主，然后以机构形式参与黎明计划，操作来了，退出可以，黎明计划的违约金up来掏，就好像你老板去跟别人签合同然后让你来执行，做不了就你来掏违约金。乍一看好像和你有关，实际上怎么签签什么是老板决定的，去签一个明显你做不到或无法接受的合同，然后让你去做，这违约金是赚定你了。海量签up主就是碰这个</p><p data-pid="-59jxVtK">3.有的up视频没说清，签了之后无法退出，以为号不是自己的了，其实是签了之后，up在b站的产出，转到其他某平台之后，人家要拿七成收益，我自己转自己拿十成不行么？不行，up是流水的up，平台才是铁打的平台。签了之后就是几年的部分收益权没了，平台给流量扶持这种对平台而言不花钱的东西，一分力不出，“一百八十万”到手。潜台词是什么，不加这个计划，在这个平台就没有流量，小破站的算法+人工编辑推荐疑惑：还能这么玩的？</p><p data-pid="2cnuKBFF">目前b站不少万粉小up都发了自己受骗视频，大up反倒少有几个发声，一是影响恰饭，二是怕号没了，但会总有刚的又不恰饭的出来说话不是么</p>  
 </div>
             

@@ -8,16 +8,16 @@ categories:
 headimg: 'https://image.gcores.com/59a980be-1467-49f8-b41e-8fb66754a89a.png'
 author: 机核网
 comments: false
-date: 2021-11-17 05:07:53
+date: 2021-11-17 06:10:30
 thumbnail: 'https://image.gcores.com/59a980be-1467-49f8-b41e-8fb66754a89a.png'
 ---
 
 <div>   
-<img src="https://image.gcores.com/59a980be-1467-49f8-b41e-8fb66754a89a.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-21cc0" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="21cc0" data-offset-key="et381-0-0"><div data-offset-key="et381-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="et381-0-0"><span data-text="true"> Razer 今日公布了旗下新款 Xbox 限量版手柄 —— 曼达洛钢。</span></span></div></div>
+<img src="https://image.gcores.com/59a980be-1467-49f8-b41e-8fb66754a89a.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-40sbj" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="40sbj" data-offset-key="et381-0-0"><div data-offset-key="et381-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="et381-0-0"><span data-text="true"> Razer 今日公布了旗下新款 Xbox 限量版手柄 —— 曼达洛钢。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/6c329e17-77f1-4d7c-a7fe-17271e5de5a0.png" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="21cc0" data-offset-key="4venk-0-0"><div data-offset-key="4venk-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4venk-0-0"><span data-text="true">这款“曼达洛钢”的设计灵感源于经典的曼达洛铠甲，手柄原型使用了新版本的 Xbox Series 系列手柄模具，整体为曼达洛铠甲配色，背面配有防滑握把，并带有磁力充电底座。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="40sbj" data-offset-key="4venk-0-0"><div data-offset-key="4venk-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4venk-0-0"><span data-text="true">这款“曼达洛钢”的设计灵感源于经典的曼达洛铠甲，手柄原型使用了新版本的 Xbox Series 系列手柄模具，整体为曼达洛铠甲配色，背面配有防滑握把，并带有磁力充电底座。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/e6624980-acef-4514-aa3b-6ada9ae03425.jpg" alt referrerpolicy="no-referrer">
 
@@ -41,6 +41,6 @@ thumbnail: 'https://image.gcores.com/59a980be-1467-49f8-b41e-8fb66754a89a.png'
 <figure>
 <img src="https://image.gcores.com/c6e458df-8ab6-43bf-8819-0e2c611a067e.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="21cc0" data-offset-key="h5nq-0-0"><div data-offset-key="h5nq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="h5nq-0-0"><span data-text="true">这款手柄售价为179.99美元，今日起开始接受预订，12月10日正式发售，国行暂未公布。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block story_block-text " data-block="true" data-editor="40sbj" data-offset-key="h5nq-0-0"><div data-offset-key="h5nq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="h5nq-0-0"><span data-text="true">这款手柄售价为179.99美元，今日起开始接受预订，12月10日正式发售，国行暂未公布。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

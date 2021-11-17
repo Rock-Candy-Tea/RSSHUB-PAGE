@@ -1,0 +1,19 @@
+
+---
+title: '_好奇号_正在使用RAD探索如何做到让宇航员更安全'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/11/f8e54c5c2fea442.jpg'
+author: cnBeta
+comments: false
+date: Wed, 17 Nov 2021 06:09:26 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/11/f8e54c5c2fea442.jpg'
+---
+
+<div>   
+熔岩管、洞穴或地下栖息地能否为未来火星上的宇航员提供安全的庇护？<strong>NASA“好奇号(Curiosity)”火星车团队的科学家们正在用辐射评估探测器(RAD)来帮助探索这样的问题。</strong>跟地球不同的是，火星没有磁场来屏蔽太空中呼啸而过的高能粒子。这种辐射会对人类健康造成破坏，也会严重损害火星宇航员将依赖的生命支持系统。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/f8e54c5c2fea442.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/f8e54c5c2fea442.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">基于来自好奇号RAD的数据，研究人员发现，使用天然材料如火星上的岩石和沉积物可以提供一些保护，进而防止这种无处不在的太空辐射。研究人员在今年夏天发表在《JGR Planets》上的一篇论文中详细介绍了好奇号是如何在2016年9月9日至21日期间一直停靠在一个名为Murray Buttes的地方的悬崖上。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/399d37a6147bf61.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/399d37a6147bf61.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在那里，RAD测量到整体辐射下降了4%。更重要的是，该仪器检测到中性粒子辐射减少了7.5%，包括可以穿透岩石并对人类健康特别有害的中子。这些数字在统计学上很高，高到足以表明这是由于好奇号在悬崖脚下的位置，而不是背景辐射的正常变化。</p><p style="text-align: left;">“我们一直在等待合适的条件来获得这些结果，这对确保我们的计算机模型的准确性至关重要，”研究论文的第一作者、西南研究所的Bent Ehresmann说道，“在Murray Buttes，我们终于有了这些条件和数据来分析这种影响。我们现在正在寻找RAD可以重复此类测量的其他地点。”</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=303924665&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;"><strong>火星上的空间天气前哨</strong></p><p style="text-align: left;">RAD测量的大部分辐射来自银河系的宇宙射线--由爆炸的恒星投射出来的粒子，在整个宇宙中被弹开。这形成了一个“背景辐射”的地毯，可能对人类的健康构成威胁。</p><p style="text-align: left;">更强烈的辐射零星地来自太阳，其以太阳风暴的形式将巨大的电离气体弧线抛入行星际空间。</p><p style="text-align: left;">Jingnan Guo说道：“这些结构在太空中扭曲，有时形成复杂的羊角形通量管，比地球还大，驱动冲击波，可以有效地激发粒子。”据悉，她领导了一项研究，成果则于9月发表在《The Astronomy and Astrophysics Review》上，其分析了她在德国基督教阿尔布莱希特大学时九年的RAD数据。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/9b2e2f5b0b941c3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/9b2e2f5b0b941c3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">“宇宙射线、太阳辐射、太阳风暴--它们都是空间天气的组成部分，而RAD实际上是火星表面的空间天气前哨，”RAD仪器的主要研究者、西南研究所的Don Hassler说道。</p><p style="text-align: left;">太阳风暴根据11年的周期以不同的频率发生，某些周期的风暴比其他周期更频繁、更有能量。与此相反的是，太阳活动最频繁的时期可能是未来宇航员在火星上最安全的时期。跟太阳活动较少的时期相比，增加的太阳活动为红色星球屏蔽了多达30%至50%的宇宙射线。</p><p style="text-align: left;">“这是一种权衡。这些高强度的时期减少了一个辐射源：火星周围无处不在的高能宇宙射线背景辐射。但与此同时，宇航员将不得不与来自太阳风暴的间歇性、更强烈的辐射作斗争，”Guo表示。</p><p style="text-align: left;">“来自RAD的观测是发展预测和测量空间天气、太阳对地球和其他太阳系天体影响的能力的关键，”NASA太阳物理学部门的空间天气负责人Jim Spann指出，“在NASA计划最终的人类火星之旅时，RAD作为前哨站和太阳物理系统观测站的一部分--一个由27个任务组成的舰队，调查太阳及其对空间的影响--其研究支持我们对空间的理解和探索。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/39177c17ef3900d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/39177c17ef3900d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">尽管过去这九年标志着太阳活动特别弱的时期，但截止到目前，RAD已经测量了十多个太阳风暴的影响（2012年前往火星时测量了五个）。</p><p style="text-align: left;">现在，科学家们刚刚开始看到活动回升，因为太阳从沉睡中醒来，这一切都变得更加活跃。事实上，RAD在2021年10月28日观察到了新太阳周期的第一个X级耀斑的证据。X级耀斑是太阳耀斑中最强烈的一类，其中最大的耀斑可以导致地球发生停电和通信中断。</p><p style="text-align: left;">“这对我们来说是一个令人兴奋的时刻，因为RAD的重要目标之一是描述空间天气的极端情况，”Ehresmann说道，“太阳耀斑和风暴等事件是空间天气的一种类型，在太阳活动增加时发生得最频繁--我们现在正接近这个时期。”若想评估一个真正强大的太阳风暴对火星表面的人类有多大危险，科学家们显然还需要展开更多的研究。</p><p style="text-align: left;">RAD的发现将为未来载人任务编制的更大的数据提供依据。事实上，NASA甚至为好奇号的同行--“毅力号”探测器配备了宇航服材料的样本以评估它们在一段时间内如何承受辐射。</p>   
+</div>
+            

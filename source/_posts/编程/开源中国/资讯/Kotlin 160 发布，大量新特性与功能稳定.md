@@ -5,19 +5,19 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1057'
+headimg: 'https://picsum.photos/400/300?random=5457'
 author: 开源中国
 comments: false
 date: Wed, 17 Nov 2021 08:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1057'
+thumbnail: 'https://picsum.photos/400/300?random=5457'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>11 月 16 日，JebTrain <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fkotlin%2F2021%2F11%2Fkotlin-1-6-0-is-released%2F" target="_blank">发布了 Kotlin 1.6.0 </a>，其中包含稳定的详尽 <code>whens</code> 声明、Kover 和 Kotlin/Native 的新内存管理器，1.5.30 中发布的其他语言和标准库功能也变得更稳定。</p> 
+                                                                                            <p>11 月 16 日，J<span style="background-color:#ffffff; color:#4a4a4a">etBrains </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fkotlin%2F2021%2F11%2Fkotlin-1-6-0-is-released%2F" target="_blank">发布了 Kotlin 1.6.0 </a>，其中包含稳定的详尽 <code>whens</code> 声明、Kover 和 Kotlin/Native 的新内存管理器，1.5.30 中发布的其他语言和标准库功能也变得更稳定。</p> 
 <h2 style="margin-left:0px">密封（详尽）<code>when</code> 声明</h2> 
 <p style="margin-left:0px">Sealed <code>when</code>是一项<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fyoutrack.jetbrains.com%2Fissue%2FKT-12380%3F_ga%3D2.229249755.633909770.1637103893-2081573158.1634857345%26_gl%3D1*10g44sv*_ga*MjA4MTU3MzE1OC4xNjM0ODU3MzQ1*_ga_0WQ2ZF5VGT*MTYzNzEwMzg5Mi4xLjEuMTYzNzEwNDMzMy4w" target="_blank">期待已久的</a>功能，如果你的 when 语句不够详尽，Kotlin 编译器发会警告。</p> 
-<p style="margin-left:0px">Kotlin 会详尽地检查封闭类、枚举和布尔类型的表达式，使用那些代数数据类型对域建模时，它非常有用的。例如对应用程序的用户有不同的契约首选项，建模为一个封闭的类层次结构：</p> 
+<p style="margin-left:0px">Kotlin 会详尽地检查封闭类、枚举和布尔类型的表达式，使用那些代数数据类型对域建模时它非常有用。例如对应用程序的用户有不同的契约首选项，建模为一个封闭的类层次结构：</p> 
 <pre><code>sealed class Contact &#123;
 
    data class PhoneCall(val number: String) : Contact()
@@ -109,7 +109,7 @@ println(number.rotateLeft(2).toString(radix = 2))  // 1000100</code></pre>
 <h3 style="margin-left:0px">稳定正则表达式函数</h3> 
 <p style="margin-left:0px">稳定了<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkotlinlang.org%2Fapi%2Flatest%2Fjvm%2Fstdlib%2Fkotlin.text%2F-regex%2Fsplit-to-sequence.html" target="_blank"><code>splitToSequence()</code></a>——一个用于将字符串拆分为序列的正则表达式函数</p> 
 <pre><code>val colorsText = "green, red , brown&blue, orange, pink&green"
-val regex = "[,\\\\s]+".toRegex()
+val regex = "[,\\\\\\\\s]+".toRegex()
 val mixedColor = regex.splitToSequence(colorsText)
     .onEach &#123; println(it) &#125;
     .firstOrNull &#123; it.contains('&') &#125;
