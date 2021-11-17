@@ -1,0 +1,19 @@
+
+---
+title: '爆炸性报告称动视暴雪的腐败问题一直延续到CEO身上'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0728/9b8ad402b61d97a.jpg'
+author: cnBeta
+comments: false
+date: Wed, 17 Nov 2021 02:39:27 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0728/9b8ad402b61d97a.jpg'
+---
+
+<div>   
+根据《华尔街日报》的一份重磅报道了解到，<strong>动视暴雪CEO Bobby Kotick多年来一直了解该公司的性行为不端指控，而他本人也有骚扰和虐待行为的历史。</strong>该报告包含许多关于动视暴雪的令人震惊和以前未曾报道的指控，在加利福尼亚州7月的诉讼中指控该公司存在持续性骚扰文化后，该公司一直受到严格审查。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2021/0728/9b8ad402b61d97a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0728/9b8ad402b61d97a.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些问题似乎一直延伸到高层，因为《华尔街日报》的新报告包含了许多令人不安的故事，即Kotick对问题和他自己的行为的认识。</p><p style="text-align: left;">据《华尔街日报》报道，在一个例子中，Kotick知道动视旗下工作室的一名前女员工声称她被其男性主管强奸，但据说Kotick对自己的董事会隐瞒了这一信息，并且没有告诉他们跟该员工的最终和解。</p><p style="text-align: left;">这里有一个关于Kotick本人涉嫌行为的特别可怕的故事。</p><p style="text-align: left;">据熟悉此事的人披露称，2006年，他的一个助理投诉说他骚扰她，包括在语音邮件中威胁要杀死她。这些人称，Kotick在法庭外解决了这个问题。</p><p style="text-align: left;">还有一件事：2007年，他被他共同拥有的一架私人飞机上的空姐告上法庭。这位空姐称，飞机上的飞行员对她进行了性骚扰，在她向另一位业主投诉后，Kotick解雇了她。被告人则否认了这些指控。在跟本案法律费用有关的另一项诉讼中，一名仲裁员援引他所说的宣誓证词，证词写道Kotick告诉空姐和她的律师--“我要毁了你们”。不过Kotick的一位发言人否认他说过这样的话。</p><p style="text-align: left;">2008年，根据仲裁员的决定，他们通过向该名空姐支付20万美元来解决。Kotick的发言人称，他不可能为了报复投诉而解雇她，因为她从未直接向他投诉过。</p><p style="text-align: left;">《华尔街日报》还报道称，Kotick本人是起草这封广受批评的信的人，这封信据说是由动视暴雪的执行官Frances Townsend写的。Townsend是一名女性，她曾被公开羞辱过并看到有人要求她辞职。</p><p style="text-align: left;">Kotick在不久后公开分享的另一封信中向Townsend的信件道歉。他称：“我们最初对我们共同面临的问题和你的关切的回应，坦率地说，是语气上的无视”。显然，他认为不适合提及他首先起草了这封信。</p><p style="text-align: left;">公司的一位发言人似乎证实了他对Townsend信件的参与，他告诉《华尔街日报》，Kotick对他的参与负责并感到后悔。该发言人表示：“Townsend女士不应该为这个错误受到指责。”</p><p style="text-align: left;">在那第二份Kotick备忘录中，他宣布动视暴雪已经聘请了一家独立的律师事务所来审查该公司的做法--著名的破坏工会的律师事务所WilmerHale。此后，加利福尼亚州政府指控动视暴雪和WilmerHale存在隐瞒和压制证据的情况。</p><p style="text-align: left;">《华尔街日报》的新报道中曝光的另一个令人震惊的启示则是关于Jen Oneal的，她在担任暴雪的联合领导三个月后就卸任了。在前任暴雪总裁J.Allen Brack离开公司后，她于8月跟前<a data-link="1" href="https://microsoft.pvxt.net/e4yLO" target="_blank">Xbox</a>执行官Mike Ybarra一起被任命为该工作室的联合负责人。据《华尔街日报》报道，就在被任命的一个月后，Oneal给公司的法律团队写了一封电子邮件，称她在动视暴雪时受到了性骚扰、她的工资比Ybarra低，并且她想辞职。Oneal写道：“我被象征性地边缘化，并受到歧视。”</p><p style="text-align: left;">动视暴雪发言人在回答The Verge关于该报告的问题时分享了这份声明：“我们对《华尔街日报》的报道感到失望，它对动视暴雪和我们的CEO提出了误导性的看法。对提请他注意的性行为不端事件已经采取了行动。《华尔街日报》忽视了为使这个行业成为最受欢迎和最有包容性的工作场所而正在进行的重要变革，它没有说明成千上万的员工为实现他们--以及我们--的价值观而每天努力工作的情况。不断追求更好一直使这家公司与众不同。这就是为什么在Kotick先生的指导下我们已经做出了重大改进，包括对不当行为的零容忍政策。这也是为什么我们正以坚定不移的注意力、速度和资源向前迈进以继续提高我们公司和行业的多样性并确保每个员工在工作中感到被重视、安全、尊重和鼓舞。在为我们的团队提供最好的工作场所之前，我们不会停下来。”</p><p style="text-align: left;">《华尔街日报》发言人Steve Severinghaus则在给The Verge的一份声明中表示：“动视暴雪的声明中没有任何内容可以挑战我们报道中的事实。”</p><p style="text-align: left;">Kotick还在周二发给员工的视频信息中对《华尔街日报》的报道进行了反驳，并随后以书面记录的形式跟外界分享了自己的看法。虽然他没有承诺公司会有任何新的变化，但他重申道--“正如我所表明的，我们正在推进对不当行为的新的零容忍政策--零意味着零。任何应受谴责的行为都是完全不可接受的。”</p><p style="text-align: left;">作为回应，由动视暴雪员工组成的宣传团体A Better ABK表示，在Bobby Kotick被替换为CEO之前它不会标尺沉默。该组织还表示，它将在周二举办一次罢工。此前，员工们有在7月举行了罢工。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1117/7d47e27f6a8759e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1117/7d47e27f6a8759e.png" alt="Screenshot_2021-11-17 Activision Blizzard’s rot goes all the way to the CEO, alleges bombshell report.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">10月，Kotick要求大幅减薪，并表示公司将放弃对性骚扰和歧视索赔的强制仲裁。证券交易委员会则曾在9月传唤了该公司和许多高级执行官，其中就包括了Kotick。</p>   
+</div>
+            
