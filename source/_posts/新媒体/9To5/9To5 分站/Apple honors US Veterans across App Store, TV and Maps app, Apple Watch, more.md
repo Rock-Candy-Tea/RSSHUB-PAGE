@@ -1,0 +1,71 @@
+
+---
+title: 'Apple honors US Veterans across App Store, TV and Maps app, Apple Watch, more'
+categories: 
+ - 新媒体
+ - 9To5
+ - 9To5 分站
+headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/apple-veterans-day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+author: 9To5
+comments: false
+date: Thu, 11 Nov 2021 16:20:31 GMT
+thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/apple-veterans-day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+---
+
+<div>   
+<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/apple-veterans-day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<p>In honor of Veterans Day, Apple is highlighting apps, stories, audiobooks, health and fitness activities, content in the Apple TV app, and more. The company is also reminding Veterans and active Military that they get discounts on Apple products.</p>
+<p><span id="more-768662"></span>
+</p>
+<p>Apple put a banner at the top of its <a href="https://www.apple.com/">website today</a> with “Here’s to the brave ones” and a link to the discounted Veterans/Military Apple Store. It offers 10% off most products with even immediate family members eligible for the discount.</p>
+<p>Apple also published a <a href="https://www.apple.com/newsroom/2021/11/apple-honors-and-celebrates-american-veterans/">newsroom post</a> detailing all of the ways it is honoring Veterans:</p>
+<blockquote class="wp-block-quote">
+<p>On Veterans Day and throughout the year, Apple recognizes those who serve and their families for their courage, dedication, and sacrifices. In honor of veterans throughout the United States, Apple is celebrating veterans’ stories, raising support for their communities, and sharing their legacies with special activations across Apple.com and its products and services.</p>
+</blockquote>
+<p>As we previously reported, Apple is doing a special Veterans Day achievement award for Apple Watch users.</p>
+<ul>
+<li><a href="https://9to5mac.com/2021/11/11/apple-sets-apple-watch-activity-challenge-for-veterans-day-in-november/">Apple sets Apple Watch Activity Challenge for Veterans Day in November [U: Now available]</a></li>
+</ul>
+<p>You can also check out the Time to Walk episode on Apple Watch from General CQ Brown, Jr.:</p>
+<blockquote class="wp-block-quote">
+<p>Earlier this week, Apple Fitness+ released a new episode of Time to Walk featuring Gen. CQ Brown, Jr., chief of staff of the US Air Force and the first African American to lead a branch of the armed forces. On this walk honoring Veterans Day, Brown describes how he has bounced back from professional setbacks to achieve the highest rank in the Air Force, and what it was like to speak out after the murder of George Floyd. Time to Walk is an inspiring audio experience on Apple Watch designed to encourage Fitness+ users to get active by walking more often, featuring some of the world’s most interesting and influential people who share stories, photos, and music.</p>
+</blockquote>
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular">
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="tiled-gallery__gallery">
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="tiled-gallery__row">
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="tiled-gallery__col" style="flex-basis:27.60513%">
+<figure class="tiled-gallery__item"><img data-attachment-id="768668" data-permalink="https://9to5mac.com/2021/11/11/apple-honors-us-veterans/apple_american-veterans_mindfulness-coach_11112021_inline-jpg-large_2x/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all" data-orig-size="1306,2122" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x" data-image-description data-image-caption data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=431" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=630" title="Apple honors US Veterans across App Store, TV and Maps app, Apple Watch, more" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?strip=info&w=600 600w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?strip=info&w=900 900w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?strip=info&w=1200 1200w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?strip=info&w=1306 1306w" alt data-height="2122" data-id="768668" data-link="https://9to5mac.com/?attachment_id=768668" data-url="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=630" data-width="1306" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Mindfulness-Coach_11112021_inline.jpg.large_2x.jpg" data-amp-layout="responsive" referrerpolicy="no-referrer"></figure>
+</div>
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="tiled-gallery__col" style="flex-basis:27.60513%">
+<figure class="tiled-gallery__item"><img data-attachment-id="768669" data-permalink="https://9to5mac.com/2021/11/11/apple-honors-us-veterans/apple_american-veterans_wwii-memorial_11112021_carousel-jpg-large_2x/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?quality=82&strip=all" data-orig-size="1306,2122" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x" data-image-description data-image-caption data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?quality=82&strip=all&w=431" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?quality=82&strip=all&w=630" title="Apple honors US Veterans across App Store, TV and Maps app, Apple Watch, more" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?strip=info&w=600 600w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?strip=info&w=900 900w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?strip=info&w=1200 1200w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?strip=info&w=1306 1306w" alt data-height="2122" data-id="768669" data-link="https://9to5mac.com/?attachment_id=768669" data-url="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg?quality=82&strip=all&w=630" data-width="1306" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_WWII-Memorial_11112021_carousel.jpg.large_2x.jpg" data-amp-layout="responsive" referrerpolicy="no-referrer"></figure>
+</div>
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="tiled-gallery__col" style="flex-basis:44.78975%">
+<figure class="tiled-gallery__item"><img data-attachment-id="768670" data-permalink="https://9to5mac.com/2021/11/11/apple-honors-us-veterans/apple_american-veterans_time-to-walk_11112021_inline-jpg-large_2x/" data-orig-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all" data-orig-size="1306,1306" data-comments-opened="1" data-image-meta="&#123;"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"&#125;" data-image-title="Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x" data-image-description data-image-caption data-medium-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=655" data-large-file="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=1000" title="Apple honors US Veterans across App Store, TV and Maps app, Apple Watch, more" srcset="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?strip=info&w=600 600w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?strip=info&w=900 900w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?strip=info&w=1200 1200w,https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?strip=info&w=1306 1306w" alt data-height="1306" data-id="768670" data-link="https://9to5mac.com/?attachment_id=768670" data-url="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg?quality=82&strip=all&w=1000" data-width="1306" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Apple_American-Veterans_Time-To-Walk_11112021_inline.jpg.large_2x.jpg" data-amp-layout="responsive" referrerpolicy="no-referrer"></figure>
+</div>
+</div>
+</div>
+</div>
+<p>Apple Maps has received a new 3D experience of Washington, D.C., to explore “landmarks and memorials, such as the World War II Memorial, Korean War Veterans Memorial, or Vietnam Veterans Memorial.”</p>
+<p>The National Park Foundation also features a US Military Heritage in National Parks guide:</p>
+<blockquote class="wp-block-quote">
+<p>In the <a href="https://guides.apple.com/?lsp=9902&pg=9658841569521722380" target="_blank" rel="noreferrer noopener">US Military Heritage in National Parks</a> guide, the National Park Foundation invites users to explore sites across the US that commemorate and honor the service of veterans, from Minute Man National Historical Park in Concord, Massachusetts, to Rosie the Riveter WWII Home Front National Historical Park in Richmond, California.</p>
+</blockquote>
+<p>And Apple is highlighting Military and Veterans content throughout the App Store, Books Store, Apple TV app, and more.</p>
+<blockquote class="wp-block-quote">
+<p>From the battlefront to the homefront, the service and sacrifices of veterans are honored in the Military Stories collection on the <a href="https://tv.apple.com/us/room/edt.item.5cc7afc1-14f6-4702-a6a6-2f1ce398eb35/" target="_blank" rel="noreferrer noopener">Apple TV app</a> — featuring inspiring documentaries like “Sky Blossom,” sweeping dramas, and even irreverent comedies.</p>
+</blockquote>
+<p>Check out more details in Apple’s <a href="https://www.apple.com/newsroom/2021/11/apple-honors-and-celebrates-american-veterans/">full Veterans Day post here</a> as well as Apple’s apps for all the featured content and resources.</p>
+<p>Tim Cook also shared a message of gratitude for US Veterans along with an uplifting story about how Apple devices are helping treat Veterans’ trauma.</p>
+<figure class="wp-block-embed alignwide is-type-rich is-provider-twitter wp-block-embed-twitter">
+<div data-carousel-extra="&#123;"blog_id":6,"permalink":"https:\/\/9to5mac.com\/2021\/11\/11\/apple-honors-us-veterans\/"&#125;" class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-dnt="true">
+<p lang="en" dir="ltr">Grateful today and always for the dedication and service of our veterans and their families, and the invaluable experience they bring long after they have left the military, including here at Apple. <a href="https://twitter.com/hashtag/VeteransDay?src=hash&ref_src=twsrc%5Etfw">#VeteransDay</a> <a href="https://t.co/9cQv6aYTy5">https://t.co/9cQv6aYTy5</a></p>
+<p>— Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/1458820905031798784?ref_src=twsrc%5Etfw">November 11, 2021</a></p></blockquote>
+<p>
+</p></div>
+</figure>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3n15hcy"><img class="aligncenter size-full wp-image-767984" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Zugu-9to5Mac-Holiday-AdV4.3.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
+  
+</div>
+            
