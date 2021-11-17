@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/f9b97cb8872ee8c8e06f3cfef7aeacb3.png'
+headimg: 'https://cdn.itjuzi.com/images/21c619100764ee5f8ad6e113edba88b4.png'
 author: IT 桔子
 comments: false
 date: Mon, 19 Jan 1970 22:45:30 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/f9b97cb8872ee8c8e06f3cfef7aeacb3.png'
+thumbnail: 'https://cdn.itjuzi.com/images/21c619100764ee5f8ad6e113edba88b4.png'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/f9b97cb8872ee8c8e06f3cfef7aeacb3.png" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/21c619100764ee5f8ad6e113edba88b4.png" referrerpolicy="no-referrer"><br><br>
         <strong>七云网络</strong><br>
         SD-WAN及网络运维解决方案服务商<br>
         A+轮 / 数千万人民币 / 1637130070<br>
