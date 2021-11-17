@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2466'
+headimg: 'https://pic2.zhimg.com/v2-013b331959909e216eae6bdbd340d047_1440w.jpg'
 author: 知乎
 comments: false
-date: Tue, 16 Nov 2021 14:46:25 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2466'
+date: Tue, 16 Nov 2021 16:24:54 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-013b331959909e216eae6bdbd340d047_1440w.jpg'
 ---
 
 <div>   
-董承的回答<br><br><p data-pid="5C8RYw2F">看了很多知友的回答，由衷的赞同。但是也不得不说 Riot 负责《英雄联盟》设计/平衡团队的工作已彻头彻尾变成一块烂摊子，多重因素叠加在一起让这份工作想要做好难如登天。</p><p data-pid="ASYvnboi">《英雄联盟》已经运营 10 年了，且每年都在按照 5 位左右的新英雄更新速度持续推进，这还不包括近些年 3 位左右每年的老英雄更新。新英雄需要让新玩家感觉新鲜有爽感，同时又不违背已有设计理念这件事情坚持几年我觉得已经是奇迹，能从开始坚持到现在几乎可以说是不可能完成的任务。</p><p data-pid="dqI_kfjL">这里面的改变全部发生在游戏内，实际上它的问题矛头却出在现实世界里。工作了的人都懂，每当一位老员工离开熟悉的岗位都是原公司的一种损失，因为不可避免地公司有点「没内味儿」了。而在游戏里这一点更重要。</p><p data-pid="lcDcbqwU">每当 Riot 的设计/平衡团队离开一名老员工，全世界的玩家都要跟着失去一份共同的感受。我们没办法，Riot 也没办法要求新员工必须和曾经的老设计老平衡们有心灵感应。</p><p data-pid="rTCcAdpn"><b>所以《英雄联盟》正在一点点变得不再《英雄联盟》是要默默承受的现实</b></p>  
+崔大猫的回答<br><br><p data-pid="D5N24q2J">聊一下促使这个设计师离职的原因。</p><p data-pid="32YfkOgy">个人看法，跟萨勒芬妮有关没错，但直接原因可能并不是单纯的“高配”琴女。</p><p data-pid="Q7Hj3F4-">不知道有没有人觉得萨勒芬妮这英雄，可能是拳头给这个设计师的命题作业。</p><p data-pid="ZuLrW3nJ">仅从这几年的新英雄来看，萨勒芬妮可以说是拳头前期造势最猛的新英雄，没有之一。</p><p data-pid="LviqwkKW">还没正式上线，就给她开通了个人社交账号，走虚拟偶像（类似于洛天依）的路子，各种“偶像化”。刚一问世，就有K/DA女团背书，在B站也有专属频道，轻松几千万播放。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-013b331959909e216eae6bdbd340d047_1440w.jpg" data-rawwidth="800" data-rawheight="450" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-3f02969536aeb9cde7dc23c6471efb91_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-013b331959909e216eae6bdbd340d047_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="BnW8ijwh">众所周知，拳头游戏这几年的野心不再局限于游戏，动画、音乐、虚拟偶像等延伸内容比比皆是，做得也确实不错。</p><p data-pid="LHGfwYp5">只看萨勒芬妮前期在社交平台的热度，这个角色完全撑起了拳头在虚拟偶像赛道的大旗。而且这种对公司生态层面有战略意义的角色，基本上不太可能是设计师拍脑袋想出来的，常见的情况是公司给个方向，问哪个团队能做，然后成功认领的在指定时间内做出来。</p><p data-pid="SJoPKFxe">所以个人偏向萨勒芬妮更像是个赶工的英雄，设计师当时的主要精力可能也是在原画和皮肤上，对技能的研究相对而言不是那么到位。不然以拳头首席设计师的功底，不至于抄自家作业抄得这么明显。</p><p data-pid="QIEMWJx5">可能以拳头的愿景，萨勒芬妮的理想效果是，操作上要很简单、颜值高、女玩家爱玩，然后再配合社交平台上的造势与音乐专辑，逐渐扩圈，成为《英雄联盟》的新门面人物。</p><p data-pid="5A2HMX8l">但实际情况却是，萨勒芬妮技能机制刚一曝光，就被玩家喷惨了。上手后发现，中高端局确实比琴女好用，但操作也不是那么简单。</p><p data-pid="mQKLSVYF">而且尴尬的是，这英雄目前在路人局的选取率并不高，只有2.87%，属于下位级。人气不足不仅意味着皮肤不好卖，这英雄在社交平台的影响力，也不如K/DA其他成员。毕竟在K/DA英雄里，萨勒芬妮的选取率是最低的。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f1f3a7c640e5cf3fdc345a8cf44061fb_1440w.jpg" data-rawwidth="522" data-rawheight="569" data-size="normal" data-caption data-default-watermark-src="https://pic1.zhimg.com/v2-26e0ca5cc7e2e5d639aa6eb152929414_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f1f3a7c640e5cf3fdc345a8cf44061fb_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="znVK-XmS">试想下，你承载着公司高层的期待做了一个旨在破圈、为游戏提升影响力的英雄，结果别说圈外人没啥关注，固有的玩家还骂个不停。再加上其他一些“平庸成绩”，还好意思在公司继续当首席设计师吗？</p><p data-pid="lhj1YRyM">对了，大公司的首席设计师并不是只有一位。怎么说呢，就跟理发店里的首席差不多一个意思。</p>  
 </div>
             
