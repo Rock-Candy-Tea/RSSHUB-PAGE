@@ -1,0 +1,19 @@
+
+---
+title: 'Zipline在阿肯色州与沃尔玛合作开始美国首次商业无人机送货活动'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1118/d377c2f00db3e28.jpg'
+author: cnBeta
+comments: false
+date: Thu, 18 Nov 2021 13:02:57 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1118/d377c2f00db3e28.jpg'
+---
+
+<div>   
+沃尔玛和无人机送货公司Zipline正在阿肯色州的豌豆岭推出送货服务，这是Zipline在美国提供的第一个商业无人机送货服务。客户将能够从"数千种产品"中进行选择，不过仅限于健康和保健物品，如"非处方过敏药、绷带、布洛芬"。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/1118/d377c2f00db3e28.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/d377c2f00db3e28.jpg" title alt="Zip_launch.jpg" referrerpolicy="no-referrer"></a></p><p>该项目的启动表明，人们对无人机执行商业交付的潜力仍有信心。但是，这项技术的采用速度缓慢（沃尔玛早在2015年就首次测试了无人机送货），而且缺乏大规模的实施（豌豆岭服务只覆盖50英里的半径），这也表明，如果无人机送货要成为普通消费者的常态，还有很多问题需要回答。</p><p>迄今为止，Zipline主要在医疗保健领域证明了自己的能力，在北卡罗来纳州运送医疗用品，在卢旺达运送血液，在加纳运送COVID-19疫苗。在这里，运送的经济性更适合该技术的产出。疫苗和血样体积小、价值高，从快速运送中获益匪浅。沃尔玛是Zipline的第一个商业合作伙伴，目前还不清楚无人机送货的经济效益对那些想要按需购买尿布和非处方药的客户是否有说服力。</p><p>对于沃尔玛来说，无人机可能会帮助它填补其送货网络的空白，特别是在传统基础设施不能很好服务的农村社区。当然，无人机不需要道路或高速公路，Zipline的飞机通过降落伞进行运送，避免了客户对指定降落区的需求。(据报道，这是阻碍亚马逊的无人机送货雄心的挑战之一）。当然，还有其他障碍，包括监管方面的障碍，尽管Zipline在今年早些时候获得了联邦航空局对无人机某些限制的豁免权，这为沃尔玛的合作扫清了道路。</p><p>阿肯色州Pea Ridge的居民如果想测试无人机送货服务，需要下载Zipline的应用程序。他们可以在那里下订单，如果他们"符合条件"，就可以为他们的物品付款，尽管我们不太清楚这个词的含义是什么。Zipline表示将从"一组经过精心挑选的接受者"开始，并且在推出后，"Zipline和沃尔玛将迅速扩大到更广泛的NWA地区的其他客户，但须经FAA批准"。</p><p><a href="https://static.cnbetacdn.com/article/2021/1118/d31e95fbcc6a039.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/d31e95fbcc6a039.jpg" title alt="Walmart_package_in_zip.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/a8032e23a88bb9f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/a8032e23a88bb9f.jpg" title alt="Zip_in_flight_from_distribution_center.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/de5c992809c9939.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/de5c992809c9939.jpg" title alt="Zip_deploying_Walmart_package.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/af072203708ea17.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/af072203708ea17.jpg" title alt="Zip_return.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/531bd29c7a6d9a0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/531bd29c7a6d9a0.jpg" title alt="Zip_after_launch.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/9a1f138e924d5c7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/9a1f138e924d5c7.jpg" title alt="Zip_after_catch.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/1b31cfcdfb55997.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/1b31cfcdfb55997.jpg" title alt="Zipline_operations.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/7b0c56357be2e60.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/7b0c56357be2e60.jpg" title alt="Package_delivered.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2021/1118/3f1e4b62051b574.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1118/3f1e4b62051b574.jpg" title alt="Customer_Ordering.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
