@@ -1,0 +1,19 @@
+
+---
+title: '日产公布新电动SUV Ariya在美售价：47125美元起步'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/11/ce6672c80c8003c.jpg'
+author: cnBeta
+comments: false
+date: Wed, 17 Nov 2021 23:47:54 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/11/ce6672c80c8003c.jpg'
+---
+
+<div>   
+2023款日产Ariya--这家汽车制造商即将推出的电动跨界SUV--终于有了一个贴纸价格。<strong>该公司宣布，这款电动汽车的起售价为47125美元，现在已经开始接受预订。</strong>去年夏天首次宣布的Ariya预计将于2021年中期在日本上市，然后在今年晚些时候在美国和加拿大上市。但这被推迟了，北美客户预计要到2022年初秋才会收到交货。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/ce6672c80c8003c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/ce6672c80c8003c.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">除了定价之外，日产还透露了关于各种套件级别的一堆新信息。最便宜的Ariya将花费买家47125美元（未计入1175美元的目的地配送费），但在选择顶级车型时，费用会达到60000美元以上。日产最初表示，它预计Ariya的起售价为40,000美元。(日产在美国仍有资格获得7500美元的联邦税收抵免和各种州的补贴）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/ba8ea22ea8e9005.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/ba8ea22ea8e9005.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/a3cfa82d63392fb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/a3cfa82d63392fb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/ac1430dc791f3ab.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/ac1430dc791f3ab.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/897c569c3bd9580.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/897c569c3bd9580.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/c12ca4b8a607ef7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/c12ca4b8a607ef7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/7a9d520fb9a3e4e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/7a9d520fb9a3e4e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/99e1abcc7ee6382.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/99e1abcc7ee6382.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/11/b1fe8e5dff6d3f2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/11/b1fe8e5dff6d3f2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">下面是对选择的介绍：<br style="text-align: left;"></p><p style="text-align: left;">Ariya Venture Plus前轮驱动，87千瓦时的电池，238马力的交流同步电机，221磅-英尺的扭矩，预计续航里程可达300英里：47125美元（含交付费用）；</p><p style="text-align: left;">Ariya Evolve Plus前轮驱动，配备87千瓦时的电池，238马力的交流同步电机，221磅-英尺的扭矩，预计续航里程可达285英里：50125美元；</p><p style="text-align: left;">Ariya Premiere前轮驱动，配备87千瓦时电池，238马力交流同步电机，221磅-英尺扭矩，预计续航里程可达285英里：54625美元；</p><p style="text-align: left;">Ariya Platinum Plus全轮驱动，e-4ORCE双马达全轮控制，87kWh电池，389马力的交流同步马达，442磅-英尺的扭矩，预计续航里程可达265英里：60125美元。</p><p style="text-align: left;">另外，日产还为2022年1月31日之前进行预订的前10000人提供在EVgo充电站充电的折扣。折扣相当于两年的免费EVgo会员资格以及购买时的500美元充电积分。押金为500美元，可全额退还，并可在该公司的新门户网站上放置。</p><p style="text-align: left;">跟汽车行业的大多数公司一样，日产已经承诺生产和销售更多的电动汽车。该公司的目标是，到2030年，其美国汽车销售的40%以上将是完全电动的，甚至更多的将是电气化的（指的是混动车和插电混动车）。</p><p style="text-align: left;">尽管日产在市场上实际上只有一款在售电动汽车--功能虽然不强的日产Leaf掀背式汽车，但这家汽车公司长期以来一直是电动汽车销售的领导者。该公司在企业动荡、高管更替、销量暴跌及日产跟大流行病有关的成本削减的背景下推出了Ariya。日产-雷诺-三菱联盟前主席卡洛斯·戈恩的被捕和随后的逃亡占据了2019年大部分时间的头条新闻，这使得使一家似乎在与自己开战的汽车制造商成为了人们关注的焦点。</p><p style="text-align: left;">因此，Ariya是该公司在后戈恩时代推出的第一个主要新产品--也是翻开新一页的机会。</p>   
+</div>
+            
