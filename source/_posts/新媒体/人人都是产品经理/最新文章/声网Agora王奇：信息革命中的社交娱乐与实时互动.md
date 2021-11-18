@@ -187,7 +187,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>回顾2021，盘点年度热点话题，挖掘未来新机会点，听腾讯、阿里等业内实战大咖深度分享！</p>
 <p>更多大会详情，扫码进入大会咨询群了解！</p>
 <p><img data-action="zoom" class="aligncenter wp-image-5206837" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2021/11/YAc4pTkFvL3wTPmWaaNS.jpg" alt width="258" height="257" referrerpolicy="no-referrer"></p>
-<p> </p>
 <p>本文为【2021产品经理大会（深圳站）】现场分享整理内容，由人人都是产品经理运营 @Ginny 整理发布。</p>
 <p>题图来自大会现场</p>
                       
