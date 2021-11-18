@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1543'
+headimg: 'https://picsum.photos/400/300?random=4753'
 author: 开源中国
 comments: false
-date: Wed, 17 Nov 2021 23:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1543'
+date: Thu, 18 Nov 2021 07:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4753'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Laravel framework<span> </span><span style="color:#57606a">包含  PHP 框架 Laravel 的核心代码，目前更新了 8.71.0 版本，主要更新内容如下：</span></p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Laravel framework<span> </span><span style="color:#57606a">包含  PHP 框架 Laravel 的核心代码，目前更新了 8.71.0 版本，主要更新内容如下：</span></p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start"><strong>新增</strong></h3> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>添加了 denied 和 denied_if 验证规则 (<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F39579" target="_blank">#39579</a><span> </span>)</li> 

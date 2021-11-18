@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/0722/064237_TNzL_27446
 
 <div>   
 <div class="content">
-                                                                                            <p>CherryTree 0.99.43 现已发布。CherryTree 是一个支持无限层级分类的笔记软件，Python 编写，支持富文本编辑和代码高亮，支持 Linux 和 Windows 平台。数据采用 sqlite 或 XML 存储，支持密码保护，支持从 NoteCase、KeepNote、Knowit、Tomboy、TuxCards、Treepad、Leo 等笔记软件导入数据。</p> 
+                                                                    
+                                                        <p>CherryTree 0.99.43 现已发布。CherryTree 是一个支持无限层级分类的笔记软件，Python 编写，支持富文本编辑和代码高亮，支持 Linux 和 Windows 平台。数据采用 sqlite 或 XML 存储，支持密码保护，支持从 NoteCase、KeepNote、Knowit、Tomboy、TuxCards、Treepad、Leo 等笔记软件导入数据。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img alt height="342" src="https://static.oschina.net/uploads/space/2021/0722/064237_TNzL_2744687.png" width="500" referrerpolicy="no-referrer"></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img alt height="342" src="https://static.oschina.net/uploads/space/2021/0722/064244_aMlQ_2744687.png" width="500" referrerpolicy="no-referrer"></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">此版本更新内容如下：</p> 

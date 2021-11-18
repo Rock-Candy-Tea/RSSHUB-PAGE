@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/1118/071521_7SI0_54306
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">material-ui<span> </span><span style="color:#24292f">v5.1.1 发布了，这个版本主要变更是将<strong><span> </span></strong></span><code>@mui/core</code><span> </span>包重命名为<span> </span><code>@mui/base</code>，因为这个包的内容是<span style="color:#2e3033">作为构建基础的非样式组件、hooks 和实用程序，用“base”命名比较合适。</span></p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">material-ui<span> </span><span style="color:#24292f">v5.1.1 发布了，这个版本主要变更是将<strong><span> </span></strong></span><code>@mui/core</code><span> </span>包重命名为<span> </span><code>@mui/base</code>，因为这个包的内容是<span style="color:#2e3033">作为构建基础的非样式组件、hooks 和实用程序，用“base”命名比较合适。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#2e3033">除了这个包的命名变更，</span><span style="color:#24292f">v5.1.1<span> </span></span><span style="color:#2e3033">还包含一些优化、bug 修复和测试项更新：</span></p> 
 <h2 style="margin-left:0.6em; margin-right:0px; text-align:start"><strong>@mui/material@5.1.1</strong></h2> 
 <ul> 

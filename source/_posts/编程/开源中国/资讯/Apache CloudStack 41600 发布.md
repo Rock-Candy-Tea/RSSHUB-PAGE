@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1304'
+headimg: 'https://picsum.photos/400/300?random=5887'
 author: 开源中国
 comments: false
 date: Thu, 18 Nov 2021 07:15:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1304'
+thumbnail: 'https://picsum.photos/400/300?random=5887'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache CloudStack 4.16.0.0 正式发布，该版本是一个 LTS 版本，包含 22 个主要的新功能，以及自 4.15 版本以来的 244 个改进和修复。</p> 
+                                                                    
+                                                        <p>Apache CloudStack 4.16.0.0 正式发布，该版本是一个 LTS 版本，包含 22 个主要的新功能，以及自 4.15 版本以来的 244 个改进和修复。</p> 
 <p>本次更新的一些重点内容包括：</p> 
 <ul> 
  <li>对管理服务器和管理主机的额外操作系统支持： 

@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-878613357e9bd9673d7c778cf0eb7b0
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">YunGouOS 是一款开源的基于微信和支付宝的官方服务商支付接口开发的支付SDK，YunGouOS负责帮您在微信、支付宝官方进行签约开户，同时也支持自己在微信签约后接入YunGouOS使用，支付结算由微信/支付宝官方直连。主要集成微信官方扫码支付、JSAPI支付、小程序支付、订单查询、退款；支付宝扫码、wap、H5支付、APP支付、查询订单、订单退款等相关支付接口，开发者只需要一个架包即可完成微信/支付宝支付对接，无论您是<strong>个人、个体户、亦或企业</strong>都可以通过 YunGouOS 一键集成微信支付/支付宝支付。我们致力于提供简单的官方支付接口，一行代码快速接入，码出高效！</span></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">YunGouOS 是一款开源的基于微信和支付宝的官方服务商支付接口开发的支付SDK，YunGouOS负责帮您在微信、支付宝官方进行签约开户，同时也支持自己在微信签约后接入YunGouOS使用，支付结算由微信/支付宝官方直连。主要集成微信官方扫码支付、JSAPI支付、小程序支付、订单查询、退款；支付宝扫码、wap、H5支付、APP支付、查询订单、订单退款等相关支付接口，开发者只需要一个架包即可完成微信/支付宝支付对接，无论您是<strong>个人、个体户、亦或企业</strong>都可以通过 YunGouOS 一键集成微信支付/支付宝支付。我们致力于提供简单的官方支付接口，一行代码快速接入，码出高效！</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">在线体验：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.yungouos.com%2F%23%2Fdemo" target="_blank">https://www.yungouos.com/#/demo</a></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">支付后可自行在页面退款</p> 
 <h4 style="margin-left:0; margin-right:0; text-align:left"><strong>新特性</strong></h4> 

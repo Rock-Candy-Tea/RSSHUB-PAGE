@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/49df481e-2a3b-47ff-bac8-13cca1f772d9.jpg'
 author: 机核网
 comments: false
-date: 2021-11-18 00:27:09
+date: 2021-11-18 01:51:16
 thumbnail: 'https://image.gcores.com/49df481e-2a3b-47ff-bac8-13cca1f772d9.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/49df481e-2a3b-47ff-bac8-13cca1f772d9.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-811g6" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="811g6" data-offset-key="4u3j1-0-0"><div data-offset-key="4u3j1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4u3j1-0-0"><span data-text="true">为庆祝上映20周年，《最终幻想 灵魂深处》4K UHD 版蓝光光碟现已上架亚马逊商城，同时官方也放出了一段新的预告片。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="811g6" data-offset-key="abob8-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=WcO-ZjwDP0n7ZEbbeGUPnJNLqDEerYTKu21~dw__"></iframe></div></div></div></figure>
+<img src="https://image.gcores.com/49df481e-2a3b-47ff-bac8-13cca1f772d9.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fgafc" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fgafc" data-offset-key="4u3j1-0-0"><div data-offset-key="4u3j1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4u3j1-0-0"><span data-text="true">为庆祝上映20周年，《最终幻想 灵魂深处》4K UHD 版蓝光光碟现已上架亚马逊商城，同时官方也放出了一段新的预告片。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="fgafc" data-offset-key="abob8-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=WcO-ZjwDP0n7ZEbbeGUPnJNLqDEerYTKu21~dw__"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/8ef9c49c-f4b6-41ac-a7a9-98bac1f99ca4.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -67,6 +67,6 @@ thumbnail: 'https://image.gcores.com/49df481e-2a3b-47ff-bac8-13cca1f772d9.jpg'
 <figure>
 <img src="https://image.gcores.com/61e362aa-d898-4a51-80f9-ae282329c241.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="811g6" data-offset-key="2bn39-0-0"><div data-offset-key="2bn39-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2bn39-0-0"><span data-text="true">本作由坂口博信、Moto Sakakibara 执导，温明娜、亚历克·鲍德温、文·瑞姆斯、史蒂夫·布西密负责配音。本作的 IMDb 评分为6.4分。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block story_block-text " data-block="true" data-editor="fgafc" data-offset-key="2bn39-0-0"><div data-offset-key="2bn39-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2bn39-0-0"><span data-text="true">本作由坂口博信、Moto Sakakibara 执导，温明娜、亚历克·鲍德温、文·瑞姆斯、史蒂夫·布西密负责配音。本作的 IMDb 评分为6.4分。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
