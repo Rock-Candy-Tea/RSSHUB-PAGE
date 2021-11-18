@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211118/1637224398_5429
 近日芯动科技再传捷报，其为中国5G数据中心定制的高性能显卡GPU芯片——“风华1号”回片测试成功，全球首发在即。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211118/1637224398_542953.jpg" alt="风华绝代 首款国产高性能服务器级显卡GPU测试成功" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211118/1637224398_542953.jpg" alt="风华绝代 首款国产高性能服务器级显卡GPU测试成功" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 官方宣称“风华1号”搭载全球顶尖的GDDR6X和chiplet技术，实现了数据中心国产高性能图形GPU零的突破，大幅提升了国产GPU图形渲染能力。将在5G数据中心、元宇宙、云桌面、云游戏、云手机、信创桌面、工作站等应用领域大放异彩。
