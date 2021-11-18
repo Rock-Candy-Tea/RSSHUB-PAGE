@@ -1,0 +1,19 @@
+
+---
+title: 'Balenciaga 打开一扇无限穿梭的门 _ 片厂今日荐'
+categories: 
+ - 新媒体
+ - SocialBeta
+ - 首页
+headimg: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199739-1636696675.png'
+author: SocialBeta
+comments: false
+date: Thu, 18 Nov 2021 05:45:00 GMT
+thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199739-1636696675.png'
+---
+
+<div>   
+<p>不可置否，奢侈品牌永远是前沿话题上的塔尖玩家。在「元宇宙」还未拥有人人谈及的热度时，LV、adidas Originals、Burberry 就已然成为 NFT 营销中的吃螃蟹品牌，而以此外延出的虚拟营销大主题上，更是由他们引领——</p><p>近两年令人印象深刻的当属不断在「虚拟」与「现实」世界穿梭的 Balenciaga。上周 Balenciaga 推出了春季 22 系列的广告片，呈现形式新奇，同时也又映照着虚拟概念。</p><section style="text-align: center;"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=a3308yufvgz"></iframe></section><p>类似舞台剧视角，短片以房间截面为背景，而身着品牌最新系列服装的模特们从左至右穿行。在较为平缓的叙事节奏中，窗外从上海东方明珠、到海岛、雪山、甚至月球上的场景转变，为影片添上变化莫测的奇幻色彩。</p><p style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199739-1636696675.png" alt style="border: none; vertical-align: middle; max-width: 100%; height: auto;" width="640" height border="0" vspace="0" title referrerpolicy="no-referrer"></p><p style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199739-1636696679.png" alt style="border: none; vertical-align: middle; max-width: 100%; height: auto;" width="640" height border="0" vspace="0" title referrerpolicy="no-referrer"></p><p>看完这两分钟大家应该会有一个相似的感受：可反复回味艺术性大于拍摄上的亮点。</p><p>没错，此次短片仍由哥本哈根视觉艺术家 Yilmaz Sen 执导，他与 Balenciaga 有过多次合作，比如 2019 春夏系列的视频中「异形」扭曲的造型应该使得不少观众收到了强视觉冲击。</p><section style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/4317-1637214479.png" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></section><p>相比前作，这次的短片他还算收敛了许多。</p><p>虽呈现温和，但此次视频的主题仍是大胆虚幻——模特在都市和自然中穿行、在现实和虚拟中切换，以及片尾释出的「Here Is Anywhere」，都指向 Balenciaga 一直探索的未来空间、虚拟现实概念。</p><p style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199739-1636696685.png" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></p><p>不止影片，品牌还邀请了日本艺术家、设计师池内启人为 22 春季系列打造了全新造型特辑。海报大片中模特们都带上了由池内设计的机械面罩，赛博朋克氛围感更为浓重。</p><p style="text-align: center;"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/4317-1637214603.jpg" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/4317-1637214604.jpg" width="640" height border="0" vspace="0" title alt referrerpolicy="no-referrer"></p><p>另外还有有趣的一点，因视频中出现了 Gucci 经典花样的包袋，很多网友不解，其实这是两个高奢品牌联名的「The Hacker Project」系列，通过 Balenciaga 的产品重新演绎了 Gucci 的经典元素，以此大胆质疑时尚对于原创、伪造与挪用的看法。</p><p>再说回上述广告片，抛去背景，创意上最打动人的应该就是全程模特们打开门「穿梭专场」，把重复和变化合二为一，带来极为舒适的观看体验。</p><p><strong>重复：相同的房间场景和开门、进房间、到下一个房间的既定动作流程；</strong></p><p><strong>变化：以模特在房间里关窗、开关灯等不同的小动作设计造出情境感。</strong></p><p>不过这一创意被指出似乎复刻了波兰艺术家 Zbigniew Rybczynski 在 1987 年拍摄的短片《Imagine》。</p><section style="text-align: center;"><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=l0175b7i6in" allowfullscreen="true"></iframe></section><p>对比看来，「跨越紧邻房间」的底层构思是有些相似。不过因《Imagine》的拍摄灵感来自于 John Lennon 的著名同名反战歌曲，所以这支短片的重点在于将房间比作人生的不同阶段，展示人所遇到的问题，与成长、爱情、婚姻、家庭及衰老有关，战争远在生活之外的愿望。</p><p>跑个题，意外发现的这支《Imagine》虽是多年前的作品，但能挖掘的亮点很多，除了「创意之形」这次被 Balenciaga 借鉴，内容上「一生浓缩在三分钟」的演绎方法，也在德芙、格力高等品牌广告中有见。</p><p>最后说说「Here Is Anywhere」主题片的音乐。不同于其他奢侈品牌广告的配乐，Balenciaga 这次选用了贝多芬的经典钢琴小品《致爱丽丝》。</p><p>除在听感上给更广泛的观众带来熟悉平静，我想《致爱丽丝》的回旋曲式结构也对应了片中展现的人类在未来虚拟中循环穿梭，周而复始……</p><p>（※ 回旋曲式是以一个基本主题作多次循环陈述，在每次循环回旋曲式是以一个基本主题作多次循环陈述，中插入内容不同的对比部分。）</p><p>从诡异惊悚的广告片开始，Balenciaga 似乎被贴上了「末世感营销」的标签。但今年他们并未局限于此，在秀场上的尝试都新颖成功，比如之前我们报道过的与<a href="https://socialbeta.com/c/9027" target="_self">《辛普森的一家》合作时装动画和走秀</a>，以及把秀场搬进游戏<a href="https://socialbeta.com/c/5287" target="_self">「后世：明日世界」</a>中。通过 Balenciaga，我们相信奢侈品牌除了奇怪的高级，还可以打开更多面。</p><div style="text-align:right;">© 本文系 SocialBeta 作者原创，著作权归 SocialBeta 所有，未经许可，不得转载使用。</div>
+  
+</div>
+            
