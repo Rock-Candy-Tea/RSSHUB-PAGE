@@ -1,0 +1,18 @@
+
+---
+title: '养猫的人为什么能接受给猫阉割，却接受不了目前争议很大的_去爪术_？-平平无奇的玩家的回答：我的猫就是没绝育，后来得了妇科病差点直接没了。 我养了一只N手...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-d78f33a42db998b251cc76832aca31e7_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 19 Nov 2021 10:54:03 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-d78f33a42db998b251cc76832aca31e7_1440w.jpg'
+---
+
+<div>   
+<strong>养猫的人为什么能接受给猫阉割，却接受不了目前争议很大的“去爪术”？</strong><br>平平无奇的玩家的回答<br><p data-pid="8ZVciBMn">我的猫就是没绝育，后来得了妇科病差点直接没了。</p><p data-pid="iiDK-b-K">我养了一只N手母猫，从同事手里领养的。</p><p data-pid="4NJFv8C3">同事说是他朋友在大街上捡来的，捡来的时候怀孕了，生了好几只，家里猫太多实在养不下了，就把大猫送给同事了。同事家有一只从小养大的，两只猫天天打架，同事心疼，就要把这只流浪猫送人。</p><p data-pid="h-6abi1t">恰巧当时一个人在外地很苦逼，家里冷清清的，就动了养宠物的心思，最后就问同事要过来了。</p><p data-pid="3u-603JM">这猫当时预估就是2-3岁，没有绝育。同事隔三岔五就会让我带去绝育，我一直没当回事，我觉得绝育非常的残忍，而且这只流浪猫发春也从来不会叫，就是特别粘人。</p><p data-pid="rLbhMGqC">这种想法大概持续了三年多，猫没病没痛，非常的健康，就是不长肉，有点偏瘦。</p><p data-pid="naQrA6Sl">今年9月的时候出了一次差，回家发现猫咪的肚子突然鼓起来了，食量骤减，吃了就吐。吓得要死，马上带去医院检查，医生说原因很多，要做很多检查，光检查费就2000多。</p><p data-pid="AeNNhctm">检查完医生给我看片子，说是子宫蓄脓，而且脓液太多子宫已经肿大到一定程度压迫到其他器官了，胃部受挤压很严重，所以吃不下饭，吃了就吐。如果脓液已经渗出感染腹腔，可能会死掉。</p><p data-pid="PARpyN2p">我当时人都傻了，问医生能不能治，医生说可以连夜加班开刀。</p><p data-pid="2SdSc3ly">手术两个小时才结束。当时取出来的子宫我还拍了一张照片，极其恐怖。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d78f33a42db998b251cc76832aca31e7_1440w.jpg" data-caption data-size="normal" data-rawwidth="1434" data-rawheight="1079" data-default-watermark-src="https://pic3.zhimg.com/v2-a893ae58122975bf544b41ee4f0e7caa_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d78f33a42db998b251cc76832aca31e7_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="zdbyk4Ua">因为肿的太大，第一次开刀取不出来，然后在猫肚子上开了一个很长的刀口。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a5b0e8df3484ff23afb865498417b108_1440w.jpg" data-caption data-size="normal" data-rawwidth="860" data-rawheight="1920" data-default-watermark-src="https://pic1.zhimg.com/v2-3d3ab04a2eac3a9031bd273e69738038_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a5b0e8df3484ff23afb865498417b108_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="c1uju8DT">前前后后花了1w多，下了班就要往医院跑，猫天天疼的嗷嗷叫，我累的像条狗，一人一猫一起崩溃。</p><p data-pid="_N-bFaEY"><b>医生后来总结病情的时候就怪我不给猫绝育，绝育了屁事没有。闲聊的时候医生给我讲了很多案例，猫咪不绝育确实会有很大风险得病，而且治疗费用不菲。</b></p><p data-pid="wzyFohPB">绝育以后猫咪也胖了不少，这才2个月，每天精神奕奕，吃的多拉的多。我当时以为带她去做手术那么疼，猫咪肯定会恨我。结果猫比以前更粘人了，每天回家都主动趴在我身上赖着。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-fb5c339fd45d2119779f833d35da843b_1440w.jpg" data-caption data-size="normal" data-rawwidth="1279" data-rawheight="1702" data-default-watermark-src="https://pic1.zhimg.com/v2-ed1e814f67936c3346dca336a8e5d60c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fb5c339fd45d2119779f833d35da843b_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-9453a6a7ce3b86e427bfb6aa29ef5c7f_1440w.jpg" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="860" data-default-watermark-src="https://pic1.zhimg.com/v2-2b0a3a90ea443d60d944c649297230a0_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-9453a6a7ce3b86e427bfb6aa29ef5c7f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="XZ2nC8JQ">至于去爪术没啥讨论的必要的吧？</p><p data-pid="MDiubUXO">纯纯虐待动物呀~</p><p data-pid="HVgJOuJQ">抵制就完事了。</p>  
+</div>
+            
