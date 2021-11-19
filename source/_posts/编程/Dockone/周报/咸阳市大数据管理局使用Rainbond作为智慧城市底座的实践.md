@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.goodrain.com/case/future-data/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%85%A8%E6%99%AF.png'
 author: Dockone
 comments: false
-date: 2021-11-19 08:09:11
+date: 2021-11-19 09:07:56
 thumbnail: 'https://static.goodrain.com/case/future-data/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%85%A8%E6%99%AF.png'
 ---
 
