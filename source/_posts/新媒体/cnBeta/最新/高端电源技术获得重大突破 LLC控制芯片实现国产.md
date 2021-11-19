@@ -1,0 +1,19 @@
+
+---
+title: '高端电源技术获得重大突破 LLC控制芯片实现国产'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1119/c9042e4be09659c.jpg'
+author: cnBeta
+comments: false
+date: Fri, 19 Nov 2021 14:46:15 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1119/c9042e4be09659c.jpg'
+---
+
+<div>   
+随着大功率PD用电设备的发展，充电器的功率也同步增长，传统小功率常用的反激电源架构无法满足动辄百瓦的功率需求，高效率拓扑也就开始应用到充电器上面。目前大功率充电器常用的拓扑有ACF和LLC等，都是通过降低能量损耗，来提高电源的转换效率，从而实现小体积高性能的开关电源设计，满足高效率的追求。<br>
+ <p>近日，深圳市稳先微电子有限公司推出了WS2695、WS2696和WS2699三款高集成度高性能LLC控制器，以及对应的LLC同步整流控制器WS2995，适用于高效率高可靠性LLC电源设计，可用于中功率及大功率隔离开关电源应用。稳先微也由此成为了率先拥有LLC电源芯片的本土半导体厂商。</p><p><strong>一、稳先微WS2695</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/c9042e4be09659c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/c9042e4be09659c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/c9042e4be09659c.jpg" referrerpolicy="no-referrer"></a><br></p><p>稳先微WS2695是一颗数模混合的电流型多模式LLC控制器，芯片内置高压启动和X电容放电功能，内置高性能数模混合控制，保护和控制参数可通过寄存器灵活配置，最高工作频率1MHz。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/9fc443ee62dd97b.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/9fc443ee62dd97b.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/9fc443ee62dd97b.jpg" referrerpolicy="no-referrer"></a><br></p><p>稳先微WS2695内置的LLC控制器具有多种工作模式，轻载进入跳周期和突发模式工作。稳先微WS2695支持自适应死区调节，支持逐周期过流保护，过功率保护，输出短路及过压保护，控制器过热保护和外部过热保护。稳先微WS2695采用4*4mm QFN20封装。</p><p><strong>二、稳先微WS2696</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/a98733c3a51b1c3.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/a98733c3a51b1c3.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/a98733c3a51b1c3.jpg" referrerpolicy="no-referrer"></a><br></p><p>稳先微WS2696同样是一颗数模混合的电流型多模式LLC控制器，内置的高性能多模式控制，可以独立配置各个模式的工作状态，实现全负载范围的效率优化。内置自适应死区控制功能可降低死区损耗，可通过寄存器配置控制及保护参数。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/cbaa3f1f835990c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/cbaa3f1f835990c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/cbaa3f1f835990c.jpg" referrerpolicy="no-referrer"></a><br></p><p>稳先微WS2696同样支持1MHz开关频率，但是不支持高压启动和X电容放电，适合与支持X电容放电的PFC控制器共同应用。稳先微WS2696采用3*3mm QFN12封装。</p><p>以上两款稳先微的LLC控制器，均未内置驱动器，采用逻辑信号输出。未内置驱动器是为了配合氮化镓器件使用。稳先微WS2695和WS2696可通过逻辑信号输出，直接驱动ST和英飞凌的氮化镓半桥芯片，也可以通过增添外置驱动器来驱动MOS管或氮化镓开关管，对于纳微的氮化镓功率芯片方案，可以通过隔离芯片来驱动纳微的上管，下管直接驱动。</p><p>直接输出逻辑信号，对于电源来说非常灵活。芯片取消内置驱动器，搭配合封氮化镓应用，外围电路更加简洁，且通用性更好，能够适配多种氮化镓器件。</p><p><strong>三、稳先微WS2699</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/17e51855fdeae94.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/17e51855fdeae94.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/17e51855fdeae94.jpg" referrerpolicy="no-referrer"></a><br></p><p>稳先微WS2699 LLC控制器采用数模混合电流型多模式控制，先进的多模式控制，配合自适应死区控制，可实现全负载范围的效率优化。保护参数和控制参数可由寄存器配置，简化电路设计。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1119/9ddea517291e430.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1119/9ddea517291e430.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1119/9ddea517291e430.jpg" referrerpolicy="no-referrer"></a><br></p><p>WS2699还集成了高压启动，X电容放电，并在芯片内部集成了半桥驱动器，可直接驱动MOS管或不带驱动器的GaN开关管，支持500KHz开关频率，采用SOP16封装。</p><p><strong>总结</strong></p><p>据了解，稳先微是一家专注于集成电路开发、设计和生产的高科技企业，拥有世界最先进的的UHV/BCD工艺平台和数模混合设计平台。同时拥有先进功率器件、电池管理以及电源管理三个产品线，在各个领域为客户提供创新的，有竞争力的产品。</p><p>伴随着充电器功率的不断提升，LLC拓扑以其高效率，功率密度高的优势，成功切入到百瓦快充充电器中。配合PFC电路和二次降压输出，LLC原有的短板也被克服，使用场景也愈发扩展到充电器和LED照明等。</p><p>稳先微推出的三款多模式LLC控制器，均采用数字内核控制，通过寄存器配置控制和保护参数，可实现精简的外围器件和简化的设计。并且可根据使用的氮化镓器件种类灵活选择芯片型号，充分利用器件性能。</p><p>值得一提的是，作为中国台湾世界先进积体电路股份有限公司在大陆投资的集成电路设计公司，稳先微有充足的产能、有保障的交期、有竞争力的价格和杰出的产品性能。</p><p>11月26日，稳先微将参加2021（秋季）USB PD＆Type-C亚洲展，展位号C06，更多新品方案可以在展会当天现场了解。</p>   
+</div>
+            
