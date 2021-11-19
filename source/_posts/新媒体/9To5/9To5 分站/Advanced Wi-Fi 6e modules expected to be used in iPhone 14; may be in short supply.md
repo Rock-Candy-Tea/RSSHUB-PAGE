@@ -30,7 +30,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/Adv
 <p>This will cause the LTCC supply to become tight again in 2022.</p>
 </blockquote>
 <p>Apple’s lead may mean that it is already in the process of securing supplies ahead of most of its competitors, so it may be a repeat of existing chip shortages, where the iPhone maker is hit less badly than other companies. However, as we’ve seen, not even Apple is immune from industry-wide shortages, the company <a href="https://9to5mac.com/2021/10/28/tim-cook-says-supply-constraints-cost-apple-6-billion-during-q4-2021/" target="_blank" rel="noreferrer noopener">losing out on $6B worth of business</a> in the last quarter alone.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/30m5Xk5"><img class="aligncenter wp-image-769131 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/BF-homepod-mini-option-1-updated.png" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Cyqqz8"><img class="aligncenter wp-image-770024 size-large" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/CS-x-SM-_-banners_17_nov-02-1.png?w=1000" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

@@ -36,7 +36,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 </blockquote>
 <p>Apple had not responded to a request for comment at the time of writing, but such anti-competitive behavior is likely to prompt yet more <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> scrutiny.</p>
 <p><em>Photo: <a href="https://unsplash.com/@pickawood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pickawood</a>/<a href="https://unsplash.com/s/photos/online-shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/30m5Xk5"><img class="aligncenter wp-image-769131 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/BF-homepod-mini-option-1-updated.png" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Cyqqz8"><img class="aligncenter wp-image-770024 size-large" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/CS-x-SM-_-banners_17_nov-02-1.png?w=1000" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

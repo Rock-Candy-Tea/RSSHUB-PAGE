@@ -1,0 +1,18 @@
+
+---
+title: 'Epic本周免费领取《地下城公会》《永不孤单》《KID A MNESIA EXHIBITION》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/317820_L4qtx.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 19 Nov 2021 07:21:56 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/317820_L4qtx.jpg'
+---
+
+<div>   
+<p>《地下城公会》<br></p><p><img data-gameid="317820" src="https://cdn.max-c.com/heybox/game/header/317820_L4qtx.jpg" referrerpolicy="no-referrer"></p><p>结束时间：2021年11月26日00:00</p><p>领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/guild-of-dungeoneering-classic" target="_blank">《地下城公会》</a></p><blockquote><p>游戏简介：</p><p>Guild of Dungeoneering 是一款回合制地下城探索游戏，有一个特点：你不是控制英雄，而是围绕他们建造地下城。使用从公会牌库中抽取的卡片，您可以布置房间、怪物、陷阱，当然还有战利品！与此同时，你的英雄正在自己决定去哪里和打什么。但是他们是否足够强大以应对最深的地牢？在地下城运行之间，你管理你的公会，建造新房间来吸引新的冒险家，并用更强大的物品扩展你的牌组。</p></blockquote><p>游戏画面：</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/11/6f913a3b713b74715895cf1058f3eabd/thumb.png" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/11/23df6885bc220b0e25a36f87c5d9ff8d/thumb.png" data-width="1728" referrerpolicy="no-referrer"></p><hr><p>《永不孤单》</p><p><img data-gameid="295790" src="https://cdn.max-c.com/heybox/game/header/295790_YKMwq.jpg" referrerpolicy="no-referrer"></p><p>结束时间：2021年11月26日00:00</p><p>领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/never-alone-kisima-ingitchuna" target="_blank">《永不孤单》</a></p><blockquote><p>游戏简介：</p><p>永不孤单游戏是一款横版过关游戏，在这款游戏中，玩家将控制一个女孩和一只狐狸，在关卡中切换交替控制。两个角色会同时出现在屏幕中，各自有自己的属性和能力，需要适时切换。例如狐狸可以沿墙大跳，而女孩可以攀登障碍。</p></blockquote><p>游戏画面：</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/11/11/26120aac728b1f308fbba5e6aa529183/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1060" src="https://imgheybox.max-c.com/bbs/2021/11/11/3bd5bdd301fb76dc39ffcb1edaf7bafc/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><hr><p>《KID A MNESIA EXHIBITION》</p><p><img data-gameid="900016639" src="https://cdn2.unrealengine.com/egs-kidamnesiaexhibition-namethemachinexagp-s1-2560x1440-66a4c81ecd8c.jpg" referrerpolicy="no-referrer"></p><p>结束时间：2021年11月26日00:00</p><p>领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/kid-a-mnesia-exhibition" target="_blank">《KID A MNESIA EXHIBITION》</a></p><blockquote><p>游戏简介：</p><p>创作自原版艺术作品和录音，在这个上下颠倒的数字/模拟宇宙中，庆祝 Radiohead 专辑《Kid A》和《Amnesiac》发行 21 周年。2021 年 11 月即将推出立刻加入愿望清单。</p></blockquote><hr><p>Epic商城下周免费领取游戏：</p><p>《荒野的召唤》</p><p><img data-gameid="518790" src="https://cdn.max-c.com/heybox/game/header/518790_d5l4V.jpg" referrerpolicy="no-referrer"></p><p>领取时间：2021年11月26日00:00</p><p>届时领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/thehunter-call-of-the-wild" target="_blank">《荒野的召唤》</a></p><blockquote><p>游戏简介：</p><p>马上走进这个风景秀丽的广袤世界，在身临其境的观感中获取前所未有的震撼狩猎体验吧。您不仅能够享受单打独斗的紧张氛围，还可以与朋友共享一同狩猎的无上乐趣。</p></blockquote><p>游戏画面：</p><p><img class="lazy" data-height="761" src="https://imgheybox.max-c.com/bbs/2021/11/18/95afa01ae6813d988f5c21e247085877/thumb.png" data-width="1345" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="754" src="https://imgheybox.max-c.com/bbs/2021/11/18/96c0f8807a9d69e0564b63b001ee51fd/thumb.png" data-width="1351" referrerpolicy="no-referrer"></p><p><br></p><hr><p><a href="heybox://open_subject" target="_blank">#游戏推荐</a><a href="heybox://open_subject" target="_blank">#游戏资讯</a><a href="heybox://open_subject" target="_blank">#Epic喜加一#</a><br></p>  
+</div>
+            

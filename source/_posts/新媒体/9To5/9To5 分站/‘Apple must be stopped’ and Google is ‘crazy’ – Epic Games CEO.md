@@ -33,7 +33,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 </blockquote>
 <p>Neither company had responded at the time of writing, but Apple has previously said that it doesn’t believe it needs to make any changes to comply with the Korean law. It has not explained the reasoning for this.</p>
 <p>Apple is facing related <a href="https://9to5mac.com/guides/antitrust/" target="_blank" rel="noreferrer noopener">antitrust</a> investigations and lawsuits around the world.</p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/30m5Xk5"><img class="aligncenter wp-image-769131 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/BF-homepod-mini-option-1-updated.png" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Cyqqz8"><img class="aligncenter wp-image-770024 size-large" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/CS-x-SM-_-banners_17_nov-02-1.png?w=1000" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

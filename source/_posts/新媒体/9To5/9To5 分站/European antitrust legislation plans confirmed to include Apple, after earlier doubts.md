@@ -32,7 +32,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/Eur
 <p>Competition regulators tend to take the view that the relevant market is “iOS apps,” and here Apple has a 100% monopoly on their sale and distribution. Edge cases aside, there is no way for a developer to bring an iOS app to market without selling it through the App Store.</p>
 </blockquote>
 <p><em>Photo: <a href="https://unsplash.com/@internetztube?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Frederic Köberl</a>/<a href="https://unsplash.com/s/photos/european-parliament?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/30m5Xk5"><img class="aligncenter wp-image-769131 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/BF-homepod-mini-option-1-updated.png" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Cyqqz8"><img class="aligncenter wp-image-770024 size-large" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/CS-x-SM-_-banners_17_nov-02-1.png?w=1000" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

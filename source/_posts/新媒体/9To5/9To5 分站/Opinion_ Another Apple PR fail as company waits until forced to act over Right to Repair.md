@@ -71,7 +71,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/Ano
 <iframe loading="lazy" class="youtube-player" width="1000" height="563" src="https://www.youtube.com/embed/TNYbcqyyj68?version=3&rel=0&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
 </div>
 </figure>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/30m5Xk5"><img class="aligncenter wp-image-769131 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/BF-homepod-mini-option-1-updated.png" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Cyqqz8"><img class="aligncenter wp-image-770024 size-large" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/CS-x-SM-_-banners_17_nov-02-1.png?w=1000" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
