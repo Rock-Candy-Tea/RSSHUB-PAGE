@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://picsum.photos/400/300?random=5696'
+headimg: 'https://picsum.photos/400/300?random=1800'
 author: 3DMGame
 comments: false
 date: Fri, 19 Nov 2021 08:14:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5696'
+thumbnail: 'https://picsum.photos/400/300?random=1800'
 ---
 
 <div>   
@@ -19,29 +19,29 @@ thumbnail: 'https://picsum.photos/400/300?random=5696'
 <h3>
 TVCM1
 </h3>
-<p style="text-align:center;">
-<iframe width="680" height="458" src="https://v.qq.com/txp/iframe/player.html?vid=c3309z2b33t" frameborder="0" allowfullscreen="true">
+<p align="center">
+<iframe width="640" height="480" src="https://player.youku.com/embed/XNTIwMDg5NzI5Ng?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>
 <h3>
 TVCM2
 </h3>
-<p style="text-align:center;">
-<iframe width="680" height="458" src="https://v.qq.com/txp/iframe/player.html?vid=c3309kua35r" frameborder="0" allowfullscreen="true">
+<p align="center">
+<iframe width="640" height="480" src="https://player.youku.com/embed/XNTIwMDg5NzM0NA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>
 <h3>
 TVCM3
 </h3>
-<p style="text-align:center;">
-<iframe width="680" height="458" src="https://v.qq.com/txp/iframe/player.html?vid=q3309oyjn0r" frameborder="0" allowfullscreen="true">
+<p align="center">
+<iframe width="640" height="480" src="https://player.youku.com/embed/XNTIwMDg5NzM4MA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>
 <h3>
 TVCM4
 </h3>
-<p style="text-align:center;">
-<iframe width="680" height="458" src="https://v.qq.com/txp/iframe/player.html?vid=m3309n1gnee" frameborder="0" allowfullscreen="true">
+<p align="center">
+<iframe width="640" height="480" src="https://player.youku.com/embed/XNTIwMDg5NzQyMA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>          
 </div>
