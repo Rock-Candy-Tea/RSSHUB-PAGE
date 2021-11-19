@@ -19,8 +19,8 @@ thumbnail: 'https://img1.mydrivers.com/img/20211119/s_25e2e123cf4f4ab4ae675d8050
 <p>而微软官方也在Reddit论坛上为此证明，称白板的开发团队正在努力弥补新版软件与旧版软件之间的差距，<strong>但并未给出对应的时间表。</strong></p>
 <p align="center"><img alt="新版Windows软件广受差评！微软官方承诺一周内将问题软件回滚至旧版本" h="381" src="https://img1.mydrivers.com/img/20211119/s_25e2e123cf4f4ab4ae675d8050b78d45.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"><br>
 新版本的白板应用</p>
-<p>据悉，有用户指出，新的白版在Windows 10和11上都出现了明显的延迟与稳定性问题，并且缺少此前UWP应用时代的很多基本功能，这严重影响了实际的使用体验。</p>
-<p>更有用户认为，现在的白版加载速度缓慢，过渡动画缺失，橡皮功能Bug频出，标尺功能莫名其妙的消失不见，让人难以使用。</p>
+<p>据悉，有用户指出，新的白板在Windows 10和11上都出现了明显的延迟与稳定性问题，并且缺少此前UWP应用时代的很多基本功能，这严重影响了实际的使用体验。</p>
+<p>更有用户认为，现在的白板加载速度缓慢，过渡动画缺失，橡皮功能Bug频出，标尺功能莫名其妙的消失不见，让人难以使用。</p>
 <p><strong>此前微软对白板的更新将软件从原本的UWP应用改为了新的webview应用</strong>，大部分用户认为此次更新所出现的大量问题都是归功于此。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211119/b776ee4dcb2741cbbcc19e3729baa315.jpg" target="_blank"><img alt="新版Windows软件广受差评！微软官方承诺一周内将问题软件回滚至旧版本" h="400" src="https://img1.mydrivers.com/img/20211119/s_b776ee4dcb2741cbbcc19e3729baa315.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
