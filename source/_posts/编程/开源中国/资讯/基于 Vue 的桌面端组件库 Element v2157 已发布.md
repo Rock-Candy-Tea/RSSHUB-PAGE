@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6009'
+headimg: 'https://picsum.photos/400/300?random=4800'
 author: 开源中国
 comments: false
 date: Fri, 19 Nov 2021 07:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6009'
+thumbnail: 'https://picsum.photos/400/300?random=4800'
 ---
 
 <div>   
@@ -48,7 +48,7 @@ thumbnail: 'https://picsum.photos/400/300?random=6009'
   </ul> </li> 
  <li>SASS 
   <ul style="margin-left:0; margin-right:0"> 
-   <li>node-sass 替换为 dart-sass (<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FElemeFE%2Felement%2Fpull%2F21019" target="_blank">#21019</a><span> </span>by<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flinxsbox" target="_blank"><strong>@linxsbox</strong></a>)</li> 
+   <li><strong>node-sass 替换为 dart-sass</strong> (<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FElemeFE%2Felement%2Fpull%2F21019" target="_blank">#21019</a><span> </span>by<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flinxsbox" target="_blank"><strong>@linxsbox</strong></a>)</li> 
   </ul> </li> 
  <li>Docs 
   <ul style="margin-left:0; margin-right:0"> 
