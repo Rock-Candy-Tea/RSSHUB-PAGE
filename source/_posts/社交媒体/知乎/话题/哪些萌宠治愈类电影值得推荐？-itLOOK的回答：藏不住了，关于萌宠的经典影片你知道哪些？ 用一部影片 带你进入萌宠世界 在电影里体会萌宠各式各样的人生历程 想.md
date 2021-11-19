@@ -1,0 +1,18 @@
+
+---
+title: '哪些萌宠治愈类电影值得推荐？-itLOOK的回答：藏不住了，关于萌宠的经典影片你知道哪些？ 用一部影片 带你进入萌宠世界 在电影里体会萌宠各式各样的人生历程 想...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-fb8ee9db6b595c1d359770a9286570eb_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 19 Nov 2021 07:04:02 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-fb8ee9db6b595c1d359770a9286570eb_1440w.jpg'
+---
+
+<div>   
+<strong>哪些萌宠治愈类电影值得推荐？</strong><br>itLOOK的回答<br><p data-pid="m5VvB_ss">藏不住了，关于萌宠的经典影片你知道哪些？</p><p data-pid="VkA8y53M">用一部影片</p><p data-pid="DQe7My7T">带你进入萌宠世界</p><p data-pid="3PE2jkAm">在电影里体会萌宠各式各样的人生历程</p><p data-pid="7NTkR5n8">想必也是一种绝美的体验</p><p data-pid="-f4U4xsl">今天给各位铲屎官分享几部有关萌宠的好评影片</p><p data-pid="Ewrj25m9">让各位铲屎官悠闲的时间里也有一个放空心情的选择！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-fb8ee9db6b595c1d359770a9286570eb_1440w.jpg" data-caption data-size="normal" data-rawwidth="554" data-rawheight="299" data-default-watermark-src="https://pic2.zhimg.com/v2-b20098d69003f7ab6ffda58c8ef593a9_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fb8ee9db6b595c1d359770a9286570eb_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="oy9uAZRi"><b>剧情简介：</b></p><p data-pid="KKvifr2p">故事发生在一个所有哺乳类动物和谐共存的美好世界中，兔子朱迪是一名惩恶扬善的刑警，凭借着智慧和努力，朱迪成功的从警校中毕业进入了疯狂动物城警察局。近日里，城中接连发生动物失踪案件朱迪找到了尼克，两人联手揭露了一个隐藏在疯狂动物城之中的惊天秘密。 <a href="https://www.zhihu.com/question/397998251#t0-qs" class="internal">©豆瓣</a></p><p data-pid="uOOxe7WR"><b>推荐理由：</b>这部电影真正闪光的地方就是在当下的社会环境中，能够大方地涉及到种族和宗教信仰的歧视，提出了一些很有趣的问题，无论是儿童还是成人观众都会在故事结束之后有所思索。考虑最近种族之间的紧张关系，尤其是美国以及欧洲的难民危机，这显然是一次非常有趣和大胆的观影体验。 </p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-1fc268af81f7521bf0cb0bbeca577ee8_1440w.jpg" data-caption data-size="normal" data-rawwidth="554" data-rawheight="264" data-default-watermark-src="https://pic1.zhimg.com/v2-a8914fea7f2d8fa2c8dda099a83bb990_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-1fc268af81f7521bf0cb0bbeca577ee8_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="OjRprYbg"><b>剧情简介：</b></p><p data-pid="lHltlLBb">原始人咕噜一家六口在老爸Grug）的庇护下生活。每天抢夺鸵鸟蛋为食，躲避野兽的追击，每晚听老爸叙述同一个故事，在山洞里过着一成不变的生活。大女儿Eep，她不满足一辈子留在这个小山洞里，一心想要追逐山洞外面的新奇世界。没想到世界末日突然降临，山洞被毁，一家人被迫离开家园，展开一场全新的旅程。(展开全部) <a href="https://www.zhihu.com/question/397998251#t0-qs" class="internal">©豆瓣</a></p><p data-pid="9tuXG-Zj"><b>推荐理由：</b>故事情节简单，但整体很好看，集各种类型、元素于一身，亲情、爱情、新奇、冒险、未知、新世界、改变、希望等，十分迷人，可以借此引导学龄孩子去了解人类演变史。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b202f69593f04f9fec78c23be6bcfc9c_1440w.jpg" data-caption data-size="normal" data-rawwidth="554" data-rawheight="263" data-default-watermark-src="https://pic1.zhimg.com/v2-d80aa83f13e35e3db5aa9af587bf24c8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b202f69593f04f9fec78c23be6bcfc9c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="kjwpMj1i"><b>剧情简介</b>：</p><p data-pid="s2-Axmfo">辛巴是狮子王国的小王子，他的父亲穆法沙是一个威严的国王。然而叔叔刀疤却对穆法沙的王位觊觎已久。</p><p data-pid="3x9j1AN-">　　要想坐上王位宝座，刀疤必须除去小王子。于是，刀疤利用种种借口让辛巴外出，然后伺机大开杀戒，无奈被穆法沙即时来救。在反复的算计下，穆法沙惨死在刀疤手下，刀疤别有用心的劝辛巴离开，一方面派人将他赶尽杀绝。</p><p data-pid="_ecwTT5V">　　辛巴逃亡中遇到了机智的丁满和善良的彭彭，他们抚养辛巴长成雄壮的大狮子，鼓励他回去森林复国。在接下来一场复国救民的斗争中，辛巴真正长成一个坚强的男子汉，领会了责任的真谛。 <a href="https://www.zhihu.com/question/397998251#t0-qs" class="internal">©豆瓣</a></p><p data-pid="olXVf-nP"><b>推荐理由</b>：成长路上所遇到的每一个人都值得感谢。因为他们的出现，让你对这个世界的认识更全面；因为他们的出现，使你的成长变得更加厚实。</p><p data-pid="hjHB-Ato">老国王穆法沙让辛巴懂得了必要时刻的勇敢才是有意义的，野猪彭彭和猫鼬丁满让辛巴感受到了人生的美好，狒狒长老告诉了辛巴人生的意义在于承担起应有的责任......而刀疤的出现，让辛巴认识到了世界不只有阳光和美好，还有黑暗与邪恶。</p>  
+</div>
+            
