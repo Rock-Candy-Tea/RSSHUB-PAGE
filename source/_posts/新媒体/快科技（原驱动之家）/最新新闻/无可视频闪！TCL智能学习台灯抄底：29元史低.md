@@ -22,7 +22,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211120/e4cc844f-fe21-4ae5-b27a-2222
 <p>台灯支架类似于挖掘机构造，底座、小支撑臂、以及台灯灯座都可以调节，满足大小角度的照明。</p>
 <p><strong>购买提醒：</strong></p>
 <p>天猫旗舰店商品，正品保证，支持七天无理由退换，赠运费险，请查看最新评价后再入手。</p>
-<p><strong>购买链接</strong>：<a class="f14_link" href="https://dt.mydrivers.com/zt.ashx?gp=volZ" target="_blank">天猫29元</a></p>
+<p><strong>购买链接</strong>：<a class="f14_link" href="https://dt.mydrivers.com/zt.ashx?gp=4A5w" target="_blank">天猫29元</a></p>
 <p style="text-align: center"><img alt="无可视频闪！TCL智能学习台灯抄底：29元史低" h="681" src="https://img1.mydrivers.com/img/20211120/e4cc844f-fe21-4ae5-b27a-2222729c88d2.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"><img alt="无可视频闪！TCL智能学习台灯抄底：29元史低" h="260" src="https://img1.mydrivers.com/img/20211120/277e4f68-5adc-4513-b2fb-8bb8f2844720.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
 <p style="text-align: center"><img alt="无可视频闪！TCL智能学习台灯抄底：29元史低" h="1014" src="https://img1.mydrivers.com/img/20211120/78b02c81-4a14-4870-9a5d-efc29ff6d306.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
@@ -36,7 +36,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211120/e4cc844f-fe21-4ae5-b27a-2222
  <p class="bqian"><a href="https://news.mydrivers.com/tag/tcl.htm"><i>#</i>TCL</a><a href="https://news.mydrivers.com/tag/xuexi.htm"><i>#</i>学习</a><a href="https://news.mydrivers.com/tag/taideng.htm"><i>#</i>台灯</a></p>
 <p class="url">
      
-<span>责任编辑：小晖</span>
+<span>责任编辑：系统管理员</span>
 </p>
         
 </div>
