@@ -1,0 +1,18 @@
+
+---
+title: '河南安阳「狗伤人」事件涉事人王某被停职，已登门向老人道歉，后续会如何发展？-包大人是律师的回答：从开始的不承认自家狗咬了人，对着记者的摄像机镜头si鸭子...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-afce57e6e7d1b429075a8f5cc18bf9f4_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 20 Nov 2021 02:15:03 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-afce57e6e7d1b429075a8f5cc18bf9f4_1440w.jpg'
+---
+
+<div>   
+<strong>河南安阳「狗伤人」事件涉事人王某被停职，已登门向老人道歉，后续会如何发展？</strong><br>包大人是律师的回答<br><p data-pid="On_jPIL8">从开始的不承认自家狗咬了人，对着记者的摄像机镜头si鸭子嘴硬说“我从来不相信视频”，到如今的终于肯道歉，十几期节目，历时两三个月，主持人小莉连续跟踪报道，并依次反映到公安、执法局、狗主人所在的单位、纪委……不得不说小莉这个“忙”帮的还真是有点辛苦。</p><p data-pid="VEVNcv74">王某凭一己之力（quan）连续拖安阳市场监管局、纪委、公安、城管等数家单位入坑，又是非法办证又是不明黑衣人携警棍干涉直播，使得一起狗咬人事件两三个月都没得到解决，使得新华社、澎拜、新京报、光明日报诸多大媒看不下去连续发声，最终连上几个热搜，变成了无数人民群众都在盯着看结果的大热点、大丑闻。</p><p data-pid="WWgY6E_J">物议沸然、民声鼎沸，一片骂声，舆论都已经恶化成这样了，才想起来停职才开始调查了。</p><p data-pid="lLDFY_FP">早干嘛去了？</p><p data-pid="pGcwZHBb">至于后续如何发展？在市区养大型犬并涉嫌非法办证，睁眼说瞎话、耍无赖，这种德行怎么能做人民的公仆？这不背几个处分能说得过去？</p><p data-pid="H09GeTBQ">另外，我特别好奇，这个“心理辅导犬”的犬证到底是怎么办下来的？</p><p data-pid="gfSVqayT">究竟是谁、凭什么样的材料，给两条半人高、咬人的巨型贵宾犬办理了“心理辅导犬…”的权证？</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-afce57e6e7d1b429075a8f5cc18bf9f4_1440w.jpg" data-rawwidth="1242" data-rawheight="873" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-eebd7a45621fccb72d01b72b455cfe26_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-afce57e6e7d1b429075a8f5cc18bf9f4_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="lOeSnVLI">心理辅导犬要求身体健康、性情稳定、喜欢跟人亲近，咬人的狗能算“性情稳定”吗？</p><p data-pid="a_tW0EOB">如果咬人都算性情稳定、算亲近人，那地球人的性情可就真没法稳定了。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f25aebc8948424d651e70dcd783966ae_1440w.jpg" data-rawwidth="1080" data-rawheight="888" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-f67d97cafcecc465c3d47d0c15bf05fc_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f25aebc8948424d651e70dcd783966ae_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="bk7EKtEw">这事真得好好查一查。</p>  
+</div>
+            
