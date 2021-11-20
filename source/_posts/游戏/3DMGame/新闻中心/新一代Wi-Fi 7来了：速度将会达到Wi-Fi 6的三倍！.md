@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211120/1637392657_5909
 为何要有Wi-Fi 7?Wi-Fi 7和Wi-Fi 6有那些区别?
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211120/1637392657_590987.jpg" alt="新一代Wi-Fi 7来了：速度将会达到Wi-Fi 6的三倍！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211120/1637392657_590987.jpg" alt="新一代Wi-Fi 7来了：速度将会达到Wi-Fi 6的三倍！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 根据华为官网消息显示，Wi-Fi 7是在Wi-Fi 
@@ -32,7 +32,7 @@ Wi-Fi 7预计能够支持高达30Gbps的吞吐量，大约是Wi-Fi 6的3倍。Wi
 6标准的基础上，引入了许多新的技术，主要体现在：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211120/1637392663_695195.png" alt="新一代Wi-Fi 7来了：速度将会达到Wi-Fi 6的三倍！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211120/1637392663_695195.png" alt="新一代Wi-Fi 7来了：速度将会达到Wi-Fi 6的三倍！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 随着WLAN技术的发展，家庭、企业等越来越依赖Wi-Fi，并将其作为接入网络的主要手段。

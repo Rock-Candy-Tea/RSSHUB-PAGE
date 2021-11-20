@@ -1,0 +1,18 @@
+
+---
+title: '买不到华为Mate X2典藏版怎么办？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/610ef130d0e96f23a9301c11_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 20 Nov 2021 02:01:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/610ef130d0e96f23a9301c11_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202108/610ef130d0e96f23a9301c11_1024.jpg" data-height="80" data-width="683" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202108/610ef130d0e96f23a9301c11_1024.jpg" referrerpolicy="no-referrer"></div></div>在 11 月 17 日的晚上，华为发布全新的折叠屏新机——华为 Mate X2 典藏版。值得注意的是，这款手机不仅搭载了麒麟 9000，而且支持 5G 网络。当然，这款手机的价格还是一如既往的 " 美丽 "，顶配售价 19699 元。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202111/6198bdad8e9f092073705b50_1024.jpg" data-height="494" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6198bdad8e9f092073705b50_1024.jpg" referrerpolicy="no-referrer"></div></div>以前我一直以为，大家都消费降级，但这款手机一发布才明白，原来消费降级竟只有我自己，近乎 2 万块钱的手机说买就买。华为 Mate X2 典藏版发布之后光速售罄，这款手机目前在 " 海鲜市场 " 上也都有不同程度的溢价，属实离离原上谱。<p></p><p>所以，我很喜欢网友的一句话，" 抢购的不是黄牛，是抢到了才变成黄牛 "。</p><p>从手机本身而言，华为 Mate X2 是一款非常优秀的折叠屏手机，软硬件的配合在今天的折叠屏市场中，完全可以被视作标杆般的存在。不过，较为昂贵的价格对于不少消费者（其实是我）依然是一个很高的门槛。后来，我看到了这条微博。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202111/6198bdad8e9f092073705b51_1024.jpg" data-height="637" data-width="594" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6198bdad8e9f092073705b51_1024.jpg" referrerpolicy="no-referrer"></div></div>这条微博来自于小米集团副总裁常程，他分享了 MIX FOLD 更新之后的使用体验，" 表示更新后越来越好，现在是我的主力机 "。<p></p><p>在今年 10 月底，小米将平板系统的经验运用上 MIX FOLD 上，已经解决了大量的应用适配、双屏衔接问题，优化 PC 模式、新增 MIUI+ 跨屏协作等功能。所以相比发布之初，现在 MIX FOLD 的使用体验已经有了明显提升。另外在硬件上，小米 MIX FOLD 的配置表现实际上不输小米 11 Ultra。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202111/6198bdad8e9f092073705b52_1024.jpg" data-height="605" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/6198bdad8e9f092073705b52_1024.jpg" referrerpolicy="no-referrer"></div></div>这款手机外屏尺寸为 6.52 英寸屏幕，内屏 8.01 英寸 2K 屏幕；搭载高通骁龙 888+LPDDR5 满血版 +UFS3.1，支持 WiFi 6 增强版；该机后置 1 亿像素三摄，最重要的是首发液态摄像头和澎湃 C1 ISP 芯片。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202111/6198bdad8e9f092073705b53_1024.jpg" data-height="768" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202111/6198bdad8e9f092073705b53_1024.jpg" referrerpolicy="no-referrer"></div></div>反应到市场上， MIX FOLD 用户有 55% 之前使用的是 H/A 品牌。尽管常程没有明确指出 H/A 品牌具体是谁，但大概率是华为和苹果，这确实相当不易。<p></p><p>目前，这款手机依然在小米商场等各大电商平台销售，目前官方售价是 7999 元，内存规格为 12GB+256GB，价格相比上市之初已经优惠许多，相比其他同类产品，这也是一个很有竞争力的价格。就产品本身而言，作为主力机绰绰有余。即便作为折叠屏尝鲜也是一个很好的选择。</p><p>END</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
