@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-8413df6cfe96144c3a9a96bbefe1dd0
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>IntelliJ IDEA 2021.3 RC 现已发布。<span style="background-color:#ffffff; color:#27282c">EAP 阶段已接近尾声，开发团队正在为产品进行最后的润色。</span></p> 
+                                                                                            <p>IntelliJ IDEA 2021.3 RC 现已发布。<span style="background-color:#ffffff; color:#27282c">EAP 阶段已接近尾声，开发团队正在为产品进行最后的润色。</span></p> 
 <p><span style="background-color:#ffffff; color:#27282c"><img alt height="250" src="https://oscimg.oschina.net/oscnet/up-8413df6cfe96144c3a9a96bbefe1dd0f950.png" width="500" referrerpolicy="no-referrer"></span></p> 
 <p><strong><span style="background-color:#ffffff; color:#333333">下载地址：</span></strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.jetbrains.com%2Fzh-cn%2Fidea%2Fnextversion%2F" target="_blank">https://www.jetbrains.com/zh-cn/idea/nextversion/</a></p> 
 <p>新版本的一些亮点更新包括有：</p> 

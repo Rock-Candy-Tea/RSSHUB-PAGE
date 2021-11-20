@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2211'
+headimg: 'https://picsum.photos/400/300?random=5374'
 author: 开源中国
 comments: false
 date: Sat, 20 Nov 2021 07:59:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2211'
+thumbnail: 'https://picsum.photos/400/300?random=5374'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Sequelize 6.10.0 发布了，Sequelize 是一款基于 Nodejs 的异步 ORM 框架，它同时支持 PostgreSQL、MySQL、SQLite 和 MSSQL 多种数据库，很适合作为 Nodejs 后端数据库的存储接口，为快速开发 Node.js 应用奠定扎实、安全的基础。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Sequelize 6.10.0 发布了，Sequelize 是一款基于 Nodejs 的异步 ORM 框架，它同时支持 PostgreSQL、MySQL、SQLite 和 MSSQL 多种数据库，很适合作为 Nodejs 后端数据库的存储接口，为快速开发 Node.js 应用奠定扎实、安全的基础。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">本次更新内容如下：</span></p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start"><strong>Bug Fixes</strong></h3> 
 <ul style="margin-left:0; margin-right:0"> 

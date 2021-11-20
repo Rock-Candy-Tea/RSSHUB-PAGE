@@ -8,14 +8,13 @@ categories:
 headimg: 'https://github.com/vicanso/cyber-tect/workflows/Test/badge.svg'
 author: 开源中国
 comments: false
-date: Sat, 20 Nov 2021 01:28:00 GMT
+date: Sat, 20 Nov 2021 09:27:00 GMT
 thumbnail: 'https://github.com/vicanso/cyber-tect/workflows/Test/badge.svg'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="margin-left:0px; margin-right:0px; text-align:start"><span style="color:#333333">Cyber Tect</span></h1> 
+                                                                                            <h1 style="margin-left:0px; margin-right:0px; text-align:start"><span style="color:#333333">Cyber Tect</span></h1> 
 <p style="color:#c9d1d9; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fvicanso%2Fcyber-tect%2Factions" target="_blank"><span style="color:#333333"><img alt="Build Status" src="https://github.com/vicanso/cyber-tect/workflows/Test/badge.svg" referrerpolicy="no-referrer"></span></a><span style="color:#333333">提供常用的HTTP接口、TCP端口、DNS域名解析、Ping以及各常用数据库的定时检测告警。</span></p> 
 <h2 style="text-align:start"><span style="color:#333333">启动程序</span></h2> 
 <p style="color:#c9d1d9; text-align:start"><span style="color:#333333">建议直接使用已打包好的docker镜像启动项目，启动脚本如下：</span></p> 

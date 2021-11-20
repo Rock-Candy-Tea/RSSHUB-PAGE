@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8048'
+headimg: 'https://picsum.photos/400/300?random=7268'
 author: 开源中国
 comments: false
 date: Sat, 20 Nov 2021 07:38:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8048'
+thumbnail: 'https://picsum.photos/400/300?random=7268'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fstruts.apache.org%2Fannounce-2021.html%23a20211116" target="_blank">Apache Struts 2.5.27 已发布</a>，<span style="color:#333333">Apache Struts 2 是一个优雅、可扩展的框架，可用于创建企业级 Java Web 应用程序。Struts 2 旨在简化从构建到部署，再到维护应用程序整个开发周期。</span></p> 
+                                                                                            <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fstruts.apache.org%2Fannounce-2021.html%23a20211116" target="_blank">Apache Struts 2.5.27 已发布</a>，<span style="color:#333333">Apache Struts 2 是一个优雅、可扩展的框架，可用于创建企业级 Java Web 应用程序。Struts 2 旨在简化从构建到部署，再到维护应用程序整个开发周期。</span></p> 
 <p>此版本变更内容如下：</p> 
 <ul> 
  <li>修复 PostbackResult 使用错误正则表达式的问题</li> 

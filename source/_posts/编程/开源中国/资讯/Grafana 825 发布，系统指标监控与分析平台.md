@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2660'
+headimg: 'https://picsum.photos/400/300?random=9311'
 author: 开源中国
 comments: false
 date: Sat, 20 Nov 2021 07:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2660'
+thumbnail: 'https://picsum.photos/400/300?random=9311'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Grafana 8.2.5 现已发布。Grafana 是一个功能丰富的指标标准仪表板和图形编辑器，用于分析和监控 Graphite、Elasticsearch、OpenTSDB、Prometheus 和 InfluxDB。</p> 
+                                                                                            <p>Grafana 8.2.5 现已发布。Grafana 是一个功能丰富的指标标准仪表板和图形编辑器，用于分析和监控 Graphite、Elasticsearch、OpenTSDB、Prometheus 和 InfluxDB。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">具体更新内容如下：</p> 
 <h4>Bug fixes</h4> 
 <ul> 

@@ -14,8 +14,7 @@ thumbnail: 'https://minio.pigx.vip/oss/1637199358.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1><span>新特性</span></h1> 
+                                                                                            <h1><span>新特性</span></h1> 
 <h2><span>1. 支持配置 Cookie SameSite</span></h2> 
 <ul style="list-style-type:disc"> 
  <li> <p>Strict 严格模式，必须同站请求才能发送 cookie</p> </li> 
