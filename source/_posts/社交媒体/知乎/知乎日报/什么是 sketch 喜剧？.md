@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-11-20 08:10:12
-thumbnail: 'https://pic2.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162'
+date: 2021-11-20 09:08:33
+thumbnail: 'https://pic1.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/fce576fe911061d2fa9764e97529eb7c_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">六兽，</span><span class="bio">单立人喜剧签约演员 网络电台《无聊斋》主播</span>
 <a href="https://www.zhihu.com/question/492631450/answer/2228923326" class="originUrl" hidden>查看知乎原文</a>
 </strong>
