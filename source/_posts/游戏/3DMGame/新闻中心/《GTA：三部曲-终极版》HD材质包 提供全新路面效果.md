@@ -30,22 +30,22 @@ Instanity666还为三部曲制作了另一款MOD，对三部曲里糟糕的雨�
 截图欣赏：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462506_329302.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462506_329302.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462506_758948.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462506_758948.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462507_842418.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462507_842418.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_760982.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_760982.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_828071.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_828071.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_183673.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211121/1637462508_183673.jpg" alt="《GTA：三部曲-终极版》HD材质包 提供全新路面效果" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
