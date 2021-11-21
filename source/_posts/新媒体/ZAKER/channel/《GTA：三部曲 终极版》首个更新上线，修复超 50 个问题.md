@@ -1,0 +1,18 @@
+
+---
+title: '《GTA：三部曲 终极版》首个更新上线，修复超 50 个问题'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/618efbc68e9f091d044635c2_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 20 Nov 2021 20:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/618efbc68e9f091d044635c2_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 11 月 21 日消息，《GTA：三部曲 终极版》自首发以来就负面消息频发，性能问题、售价过高、R 星启动器出错等层出不穷。</p><p>近日，R 星为其发布了首个更新补丁 1.02 版本，为三款游戏修复了超 50 个问题。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202111/618efbc68e9f091d044635c2_1024.jpg" data-height="776" data-width="1260" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202111/618efbc68e9f091d044635c2_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，R 星近日发表声明，向粉丝道歉，并承诺将有一系列更新。<p></p><p>《GTA：三部曲 终极版》1.02 版本补丁如下：</p><p>全版本：</p><p>修复了多个本地化问题</p><p>修复了丢失或未对齐碰撞的多个实例</p><p>修复了地图中孔的多个实例</p><p>修复了不正确或错位纹理的多个实例</p><p>修复了摄影机在对象中剪裁的多个实例</p><p>修复了显示不正确字幕的多个实例</p><p>修复了显示错误帮助文本的多个实例</p><p>修复了多个错位对象的实例</p><p>修复了剪切场景中角色模型问题的多个实例</p><p>修复了音频线路被跳过、延迟或重复的多个实例</p><p>《GTA 3 终极版》：</p><p>修复了在游戏剪接场景中相机剪接和过渡模糊的问题</p><p>修正了 Pay'N'Spray 门关闭，防止球员能够进入的问题</p><p>修正了游戏摊位和道具突然出现在钓鱼场景中的问题</p><p>修正了一个问题，玩家在任务 The Thieves 播放短片后任务失败，显示消息 "A thief ’ s dead"</p><p>修复了由于 Asuka 从船上掉下来导致任务 Last Requests 失败的问题</p><p>修正了在执行 Cutting The Grass 任务时，使用出租车承载 Curly Bob 时 GPS 路线丢失的问题</p><p>修正了一个在任务 Escort Service 中伤害计显示不正确的问题</p><p>修正了一个允许玩家提前进入斯汤顿岛的问题</p><p>修正了克劳德在任务 Big ‘ n ’ Veiny 的短片场景中漂浮的问题</p><p>修正了在任务 Luigi's Girls 的短片场景中一个角色模型没有动画的问题</p><p>修正了任务 Give me Liberty 的短片场景中角色模型没有动画的问题</p><p>修正了玩家可以通过快速交换武器来提高奔跑速度的问题</p><p>修正了游戏在完成 Triad War 后进入车辆时会崩溃的问题（Xbox Series X|S，Xbox One）</p><p>修正了一个问题，即在完成 Trunk Mission（Xbox Series X|S，Xbox One）中的 Dead Skunk 后，成就 "Disposing of the Evidence" 无法解锁</p><p>《GTA：罪恶都市 终极版》：</p><p>修正了玩家在高速行驶时无法上下调整视角的问题</p><p>修正了消防车灯光闪烁颜色不一致的问题</p><p>修复了任务 Autocide 期间 GPS 路线显示的问题</p><p>修正了多个 GPS 路线出现在任务 Gun Runner and Psycho Killer 中的问题</p><p>修正了命中率用户界面在任务 Gun Runner 中不能正确显示的问题</p><p>修正了一个问题，peds 错误地出现在 The Chase 任务的场景中</p><p>修正了一个问题，汤米维塞蒂的角色模型在一开始的短片场景中变成 T 型姿势</p><p>修复了重新启动后无法保留语言设置更改的问题（任天堂 Switch）</p><p>修正了在加载屏幕期间从电视模式切换到桌面模式时游戏会崩溃的问题</p><p>修复了在探索北角购物中心（Xbox Series X|S，Xbox One）时出现提示 " 错误：视频内存不足，尝试分配纹理！确保您的视频卡具有所需的最小内存，尝试降低分辨率 " 的问题</p><p>修正了任务 All Hands on Deck（Xbox Series X|S，Xbox One）的短片场景中摄像机弹出的问题</p><p>《GTA：圣安地列斯 终极版》：</p><p>修正了雨的视觉效果问题</p><p>修正了当 Blood Bowl 完成或失败时摄像机快速旋转的问题</p><p>修正了在 Reuniting the Families 任务中发现 Sweet 后返回游戏时摄像机位置不正确的问题</p><p>修正了 Flint County 的一座桥不可见的问题</p><p>修正了一个玩家在游泳时可以装备武器的问题，这会导致武器穿过角色的身体</p><p>修复了游泳时显示错误帮助文本的问题</p><p>修正了一个问题，结果屏幕出现在 Bike School – Jump and Stoppie 任务开始时</p><p>修正了在 Willowfield 和 Playa del Seville 附近出现灰色行人的问题</p><p>修复了在 Just Business cutscene 中行人看起来部分半透明的问题</p><p>修复了法律文本显示不正确的问题</p><p>修正了执法者灯光不闪烁的问题</p><p>修正了玩家在触发 Don Peyote 任务的短片前无法杀死 Paul 和 Maccer 的问题</p><p>修正了一个问题，在 Sayonara Salvatore 任务中短片变为黑色，然后重新启动</p><p>修正了当选择从任务 Mission High Stakes, Low Rider 的最后一个检查点重试时，游戏将从头开始的问题</p><p>修正了一个在 Los Desperatos 任务中无敌的问题</p><p>修正了在水下游泳时，将手柄设置为 on 或 off 时，手柄控制反转的问题</p><p>修正了 Pistol Ammu-Nation Challenge 的瞄准灵敏度问题</p><p>修正了一个由于 Sweet 在 The Green Sabre 任务中被过早杀死而导致进度受阻的问题</p><p>修复了帮助文本不会消失的问题，从而阻止统计显示肌肉在健身房的增加量</p><p>修正了在 BMX 或 NRG-500 挑战中收集环时显示时间不正确的问题</p><p>修复了开始场景时摄影机扭曲的问题</p><p>修复了某些角色模型在某些短片场景中未设置动画的问题</p><p>修正了一个玩家被卡在 Cluckin'Bell 计数器后面的问题（Xbox Series X|S, Xbox One）</p><p>修正了一个问题，在 Reuniting the Families 短片场景中，警察在警车产生之前就漂浮出现（Xbox Series X|S, Xbox One）</p><p>修正了一个行人武器精度的问题（Xbox Series X|S, Xbox One）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
