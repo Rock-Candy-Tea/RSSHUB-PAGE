@@ -1,0 +1,19 @@
+
+---
+title: 'ofo推出_拉好友退押金_功能 网友实测却被坑'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1121/b3cd0e068be3c41.jpeg'
+author: cnBeta
+comments: false
+date: Sun, 21 Nov 2021 00:13:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1121/b3cd0e068be3c41.jpeg'
+---
+
+<div>   
+日前，有媒体报道ofo推出“<strong>拉好友退押金</strong>”功能，引发热议。有网友发现，ofo共享单车APP推出了拉好友帮退押金功能，“好友越多，退押越快”。此外，还有好友下单奖励、“充值10元立即退押2.5元”等奖励任务。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1121/b3cd0e068be3c41.jpeg"><img data-original="https://static.cnbetacdn.com/article/2021/1121/b3cd0e068be3c41.jpeg" src="https://static.cnbetacdn.com/thumb/article/2021/1121/b3cd0e068be3c41.jpeg" referrerpolicy="no-referrer"></a><br></p><p>据<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>APP Store，ofo共享单车APP目前简介显示为“全网返利，购物省钱”，图标也直接带上了“返钱”的字样。</p><p>在其一年前推出的4.3.2版本中，ofo上架了“押金可提现”和“邀请能赚钱”功能。在该版本展示界面，一则“拉好友，帮你退押”的功能近日引发关注，该功能宣称“好友越多，退押越快，不封顶”。</p><p>同时，ofo APP还有“TA购物，你分钱”的奖励任务，宣称好友下单，最高奖励购物金额的40%。<strong>此外，还有“特惠充值10元”的入口，承诺“充值成功，立即退押2.5元”。</strong></p><p><img src="https://static.cnbetacdn.com/article/2021/1121/72cc10877d311e5.png" referrerpolicy="no-referrer"><br></p><p>消息一出，这番一年前就推出的迷惑操作属实震惊了网友。<strong>有网友表示：“这家公司已经没有底线了，还欠我199块，现在坑钱就算了，还让我们坑自己朋友”。</strong></p><p><strong>还有网友表示，为了99元还得拉好友入坑？更有网友直言：“坑进去三朋友，自己跑出来吗？”</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1121/5a84dd446e32fc5.jpeg"><img data-original="https://static.cnbetacdn.com/article/2021/1121/5a84dd446e32fc5.jpeg" src="https://static.cnbetacdn.com/thumb/article/2021/1121/5a84dd446e32fc5.jpeg" referrerpolicy="no-referrer"></a><br></p><p><img src="https://static.cnbetacdn.com/article/2021/1121/fc99cf2a9b8ba93.png" referrerpolicy="no-referrer"><br></p><p><strong>值得注意的是，小编经过实测，ofo共享单车APP目前并不能注册新用户。删除软件后，重新再测试时，连验证码都无法收到了。</strong></p><p><img src="https://static.cnbetacdn.com/article/2021/1121/b56a36cd73f6fea.png" referrerpolicy="no-referrer"><br></p><p>这样的问题，其他网友也遇到了，并吐槽登都登不进去，验证码也不给，押金没法退。</p><p><img src="https://static.cnbetacdn.com/article/2021/1121/5e1f913bd260180.png" referrerpolicy="no-referrer"><br></p><p><img src="https://static.cnbetacdn.com/article/2021/1121/3fce9024d8cd8fc.png" referrerpolicy="no-referrer"><br></p><p>今年6月，ofo被强制执行1341万上了热搜，同时在该话题下方依然有众多网友表示自己的押金仍未退还，并晒出了自己的排队名次，其中有一位网友非常愤怒的表示：“我的押金退款也排在1341万之后”。</p><p>截至6月，ofo的App数据中显示，仍有超1300万名用户在等着退押金，押金的金额从99元-199元不等。就算按照99元来计算，待偿的押金将近13亿元。</p><p>启信宝信息显示，9月27日，ofo关联公司东峡大通（北京）管理咨询有限公司再成失信被执行人，案号为（2021）京0108执22735号，执行法院为北京市海淀区人民法院，其失信行为具体情形为“有履行能力而拒不履行生效法律文书确定义务，违反财产报告制度”。</p><p>自今年1月以来，该公司共有5条被执行人信息，被执行总金额高达5529万元。过去三年多时间中，东峡大通310余次列被为被执行人，40余次被列为失信被执行人。</p><p><img src="https://static.cnbetacdn.com/article/2021/1121/3c5b03ff536bdaf.png" referrerpolicy="no-referrer"><br></p><p>近日，东峡大通(北京)管理咨询有限公司与<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-600733.html" target="_blank">中国移动</a>通信集团陕西有限公司西安分公司电信服务合同纠纷民事一审判决书公开。ofo在使用中国移动提供的业务和服务的同时，却未按协议约定及时向其支付业务使用费，累计欠费约173万元。</p><p>共享单车作为昔日的“新四大发明”之一，曾被无数投资者所看好，ofo也曾是最具发展潜力的独角兽企业之一。</p><p>彼时的ofo也受到资本热捧，先后完成多轮融资。据ofo官网数据显示，自2015年到2018年，ofo融资达20多亿美元。</p><p>2018年下半年，ofo传出资金紧张的消息，彼时就有用户反应ofo押金难退的问题。随后，短短几个月的时间里，这棵大树就快速倒塌，办公室也人去楼空。</p><p>ofo官方网站显示，所有的信息都停更在2018年，最近2年的发展动态罕见更新。</p><p>而打开ofo的App，共享单车已“无处可寻”，而变成了一个带有退押金功能入口的返利网站。</p><p>打开App首页即进入返利商城，可看到售卖物品有食品饮料、家用电器、美妆护肤等。</p><p>除了首页商城外，App底部标签还有“赚钱”、“领钱”和“我的”三项。点开“赚钱”标签，便是大幅海报“邀请好友拿现金，一起瓜分平台补贴”。</p><p>事实上，早在2019年，ofo便开始试水商城业务，还曾推出“购物返现金”、“将押金转换为商城金币”、“将押金变为P2P资产”等措施，但均未得到大部分消费者的认可。</p><p>每日经济新闻综合观察者网、中新经纬、中国消费者报、每经APP</p>   
+</div>
+            
