@@ -1,0 +1,43 @@
+
+---
+title: 'Beetl 3.9 发布，Java 模板引擎'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2805'
+author: 开源中国
+comments: false
+date: Mon, 22 Nov 2021 09:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2805'
+---
+
+<div>   
+<div class="content">
+                                                                    
+                                                        <ul> 
+ <li>修复了3.6版本以来开发模式下模板不自动更新的Bug</li> 
+ <li>增加格式化函数支持LocalDateTime，来自社区的代码</li> 
+ <li>增加SoftReferenceWriter，一定程度上增加Beetl性能</li> 
+</ul> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Beetl 是一款全功能，高性能优秀的国产模板引擎，各方面特性领先国外同类引擎技术,可以广泛用于动态页面生成，静态页面生成，代码生成，文本转换，脚本语言和规则引擎等，从 2011 年来一直维护，并得到国内公司用户的赞赏。</p> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Maven</p> 
+<pre style="margin-left:0; margin-right:0; text-align:left"><code class="language-xml"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">dependency</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+    <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>com.ibeetl<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">groupId</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+    <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>beetl<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">artifactId</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+    <span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">version</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>3.9.0.RELEASE<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">version</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span>
+<span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"></</span></span></span></span></span><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a"><span style="color:#333333"><span style="color:#22863a">dependency</span></span></span></span></span></span></span></span></span></span></span><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333"><span style="color:#333333">></span></span></span></span></span></span></code></pre> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.kancloud.cn%2Fxiandafu%2Fbeetl3_guide" target="_blank">文档</a> <a href="https://gitee.com/xiandafu/beetl">源码</a> <a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fibeetl.com%2Fbeetlonline%2F" target="_blank">在线体验</a> <a href="https://gitee.com/xiandafu/template-benchmark">性能测试</a> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.kancloud.cn%2Fxiandafu%2Fjavamicrotuning%2F1970483" target="_blank">性能优化指南</a></p> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">最新性能测试，各个模板引擎均采用最新版本， Score越大越好</p> 
+<pre>Benchmark              Mode  Cnt      Score      Error  Units
+Beetl.benchmark       thrpt    5  81446.018 ± 3137.904  ops/s
+Freemarker.benchmark  thrpt    5  22133.302 ±  711.310  ops/s
+Handlebars.benchmark  thrpt    5  19266.315 ± 2265.902  ops/s
+Rocker.benchmark      thrpt    5  46474.477 ± 2004.701  ops/s
+Thymeleaf.benchmark   thrpt    5   6694.076 ±  275.879  ops/s
+Velocity.benchmark    thrpt    5   6427.251 ± 2541.788  ops/s
+</pre>
+                                        </div>
+                                      
+</div>
+            
