@@ -5,19 +5,19 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1160'
+headimg: 'https://picsum.photos/400/300?random=8432'
 author: 开源中国
 comments: false
 date: Mon, 22 Nov 2021 09:21:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1160'
+thumbnail: 'https://picsum.photos/400/300?random=8432'
 ---
 
 <div>   
 <div class="content">
                                                                     
-                                                        <p>Eurynome Cloud v2.5.7.0 已经发布，企业级技术中台微服务架构</p> 
-<p>此版本更新内容包括：</p> 
-<p><strong>Eurynome Cloud</strong> 是一款企业级微服务架构和服务能力开发平台。基于Spring Boot 2.5.6、Spring Cloud 2020.0.4、Spring Cloud Alibaba 2021.1、Nacos 2.0.3 等最新版本开发，遵循SpringBoot编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流等功能</p> 
+                                                        <p>Eurynome Cloud v2.5.7.0 已经发布，企业级技术中台微服务架构</p>
+<p>此版本更新内容包括：</p>
+<p><strong>Eurynome Cloud</strong> 是一款企业级微服务架构和服务能力开发平台。基于Spring Boot 2.5.7、Spring Cloud 2020.0.4、Spring Cloud Alibaba 2021.1、Nacos 2.0.3 等最新版本开发，遵循SpringBoot编程思想，高度模块化和可配置化。具备服务发现、配置、熔断、限流、降级、监控、多级缓存、分布式事务、工作流等功能</p> 
 <p><strong>平台定位</strong></p> 
 <ul> 
  <li>构建成熟的、完善的、全面的，基于 OAuth2 的、前后端分离的微服务架构解决方案。</li> 
@@ -42,8 +42,8 @@ thumbnail: 'https://picsum.photos/400/300?random=1160'
 </ul> 
 <blockquote> 
  <p>在线文档同步更新</p> 
-</blockquote> 
-<p>详情查看：<a href="https://gitee.com/herodotus/eurynome-cloud/releases/v2.5.7.0">https://gitee.com/herodotus/eurynome-cloud/releases/v2.5.7.0</a></p>
+</blockquote>
+<p>详情查看：<a href="https://gitee.com/herodotus/eurynome-cloud/releases/v2.5.7.0" blank="_target">https://gitee.com/herodotus/eurynome-cloud/releases/v2.5.7.0</a></p>
                                         </div>
                                       
 </div>
