@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211122/1637511458_3264
 Steam公开新一周销量榜，《战地2042》三个版本占据销量榜前三的位置，《极限竞速：地平线5》双版本占据4,5名，《帝国时代4》排第八。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211122/1637511458_326490.jpg" alt="Steam新一周销量榜 《战地2042》三版本占前三" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211122/1637511458_326490.jpg" alt="Steam新一周销量榜 《战地2042》三版本占前三" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>榜单详情：</strong>
+<strong>榜单详情：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《战地2042》

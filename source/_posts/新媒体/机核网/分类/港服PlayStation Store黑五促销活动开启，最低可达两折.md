@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/691fd028-eff1-43fd-a885-9563111f4b7a.jpg'
 author: 机核网
 comments: false
-date: 2021-11-22 00:26:47
+date: 2021-11-22 01:52:11
 thumbnail: 'https://image.gcores.com/691fd028-eff1-43fd-a885-9563111f4b7a.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/691fd028-eff1-43fd-a885-9563111f4b7a.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-9bsbt" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="9bsbt" data-offset-key="asacu-0-0"><div data-offset-key="asacu-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="asacu-0-0"><span data-text="true">PlayStation Store 港服商城开启了2021年度的“黑色星期五”优惠促销活动，数百款游戏打折促销中，同时 PlayStation Plus 一年会员也将有6.7折的优惠力度。本次活动为期十天，持续至11月29日。以下是完整的游戏促销阵容。 </span></span></div></div>
+<img src="https://image.gcores.com/691fd028-eff1-43fd-a885-9563111f4b7a.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-cgu62" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="cgu62" data-offset-key="asacu-0-0"><div data-offset-key="asacu-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="asacu-0-0"><span data-text="true">PlayStation Store 港服商城开启了2021年度的“黑色星期五”优惠促销活动，数百款游戏打折促销中，同时 PlayStation Plus 一年会员也将有6.7折的优惠力度。本次活动为期十天，持续至11月29日。以下是完整的游戏促销阵容。 </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/eca4a43d-9e95-40dd-a918-cc0fd1a8d8ef.png" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -313,6 +313,6 @@ thumbnail: 'https://image.gcores.com/691fd028-eff1-43fd-a885-9563111f4b7a.jpg'
 <img src="https://image.gcores.com/54229531-f602-4f12-854f-0e5513af69c1.png" alt referrerpolicy="no-referrer">
 <figcaption> (10/10) </figcaption>
 </figure>
-            <div class="story_block-spoiler d-none" data-block="true" data-editor="9bsbt" data-offset-key="dqk51-0-0"><div data-offset-key="dqk51-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dqk51-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block-spoiler d-none" data-block="true" data-editor="cgu62" data-offset-key="dqk51-0-0"><div data-offset-key="dqk51-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dqk51-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

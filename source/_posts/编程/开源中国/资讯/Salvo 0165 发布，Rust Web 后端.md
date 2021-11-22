@@ -8,7 +8,7 @@ categories:
 headimg: 'https://github.com/salvo-rs/salvo/workflows/ci-linux/badge.svg?branch=master&event=push'
 author: 开源中国
 comments: false
-date: Sun, 21 Nov 2021 23:33:00 GMT
+date: Mon, 22 Nov 2021 07:32:00 GMT
 thumbnail: 'https://github.com/salvo-rs/salvo/workflows/ci-linux/badge.svg?branch=master&event=push'
 ---
 
