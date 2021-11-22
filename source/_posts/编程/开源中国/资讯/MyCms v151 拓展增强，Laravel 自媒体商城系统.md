@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-69ae06fd2b2b063e3d233e860030cac
 
 <div>   
 <div class="content">
-                                                                                            <p><img alt height="600" src="https://oscimg.oschina.net/oscnet/up-69ae06fd2b2b063e3d233e860030cac20d7.png" width="2000" referrerpolicy="no-referrer"></p> 
+                                                                    
+                                                        <p><img alt height="600" src="https://oscimg.oschina.net/oscnet/up-69ae06fd2b2b063e3d233e860030cac20d7.png" width="2000" referrerpolicy="no-referrer"></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#40485b">MyCms是一款基于Laravel开发的开源免费的自媒体博客CMS系统，助力开发者知识技能变现。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#40485b">软件著作权编号：2021SR1543432。MyCms基于Apache2.0开源协议发布，免费且不限制商业使用，欢迎持续关注我们。</span></p> 
 <p><strong><span style="background-color:#ffffff; color:#333333">“天行健，君子以自强不息。”</span></strong></p> 

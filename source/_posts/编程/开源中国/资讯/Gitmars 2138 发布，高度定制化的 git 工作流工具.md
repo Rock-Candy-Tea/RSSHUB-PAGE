@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=575'
+headimg: 'https://picsum.photos/400/300?random=9266'
 author: 开源中国
 comments: false
 date: Sun, 21 Nov 2021 16:21:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=575'
+thumbnail: 'https://picsum.photos/400/300?random=9266'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Gitmars 2.13.8 已经发布，高度定制化的 git 工作流工具</p> 
+                                                                    
+                                                        <p>Gitmars 2.13.8 已经发布，高度定制化的 git 工作流工具</p> 
 <p>此版本更新内容包括：</p> 
 <ol> 
  <li>优化脚本执行提示，增加<code>processing</code>状态提示</li> 

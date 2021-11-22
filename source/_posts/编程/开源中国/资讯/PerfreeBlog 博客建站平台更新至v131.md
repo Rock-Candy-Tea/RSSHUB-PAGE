@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-e473f240c4528c9087e0e4ca2d1a6da
 
 <div>   
 <div class="content">
-                                                                                            <p>PerfreeBlog<span style="background-color:#ffffff; color:#333333">是一款基于Java SpringBoot开发的博客建站平台,支持主题在线切换,支持扩展插件等功能</span></p> 
+                                                                    
+                                                        <p>PerfreeBlog<span style="background-color:#ffffff; color:#333333">是一款基于Java SpringBoot开发的博客建站平台,支持主题在线切换,支持扩展插件等功能</span></p> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">功能一览</h2> 
 <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
  <li>设计简洁，界面美观</li> 
