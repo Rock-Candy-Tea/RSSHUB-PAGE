@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/b
 ---
 
 <div>   
-<blockquote><p>或者是核磁共振扫描</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/b926fac5bbddd13b0fc8fec87ca48f82.jpg!custom" referrerpolicy="no-referrer"><p>缪μ子无处不在。在你不知道的情况下，每秒钟就有几百个射入你的脑袋。</p>
+<blockquote><p>预测火山爆发是应用火山学的圣杯</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/b926fac5bbddd13b0fc8fec87ca48f82.jpg!custom" referrerpolicy="no-referrer"><p>缪μ子无处不在。在你不知道的情况下，每秒钟就有几百个射入你的脑袋。</p>
 <p>这些亚原子粒子--在宇宙射线进入地球大气层时产生--是无害的，并迅速衰变为较轻的粒子团。</p>
 <p>这些粒子像X射线一样穿透物体，这使它们对科学家很有用。四年前，科学家利用μ子揭开了埃及大金字塔的一个密室。</p>
 <p>根据上周发表在《皇家学会议事录》上的一篇文章，科学家们还利用幽灵般的μ子绘制火山的内部结构图，这有朝一日可以帮助预测危险的火山爆发。</p>
@@ -25,7 +25,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/b
 <p>一些研究人员通过将μ子探测器置于直升机内并在火山侧面附近飞行，从空中进行这种测绘。</p>
 <p>这就像给你的腿做X光。在X光检查过程中，辐射穿过你的腿，并被拍摄下来。如果辐射不受阻碍地通过，图像就会呈现黑色。</p>
 <p>但是，由于你的腿部骨骼在通过时吸收了一些X射线，较少的辐射进入相机，这意味着你的骨骼在图像中显得更浅。</p>
-<p>在火山的核磁共振成像中，科学家们了利用类似的原理。完全通过的缪子会在介子探测器上投下暗影。但是当缪子击中火山的致密部分并更快地衰变时，它们会留下较浅的阴影。简而言之，物体越致密，剪影就越浅。</p>
+<p>在火山的muography成像中，科学家们了利用类似的原理。完全通过的缪子会在介子探测器上投下暗影。但是当缪子击中火山的致密部分并更快地衰变时，它们会留下较浅的阴影。简而言之，物体越致密，剪影就越浅。</p>
 <p>火山周围的μ子探测器越多--有些几乎可以和网球场一样大--图像就越好。</p>
 <p>据没有参与这项研究的格拉斯哥大学的μography研究员David Mahon说，探测器产生一个2D图像。</p>
 <p>"通过使用定位在物体周围的多个探测器，有可能建立起一个粗略的三维图像。”</p>
