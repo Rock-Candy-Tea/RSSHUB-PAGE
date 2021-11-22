@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg'
 author: 机核网
 comments: false
-date: 2021-11-22 09:09:08
+date: 2021-11-22 10:09:07
 thumbnail: 'https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fgco3" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fgco3" data-offset-key="83jbl-0-0"><div data-offset-key="83jbl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="83jbl-0-0"><span data-text="true">由 MR-Software GbR 开发的《巴士模拟 2》现已发售北京扩展包，国区售价77.5元。据悉，本 DLC 将让玩家驾驶104号线，体验从五路居至北京站西全程约11公里的旅程。在驾驶过程及上下客的同时，玩家也能在游戏中欣赏新东安市场、王府井以及美术馆在内的站点。 </span></span></div></div>
+<img src="https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-8h8k" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="8h8k" data-offset-key="83jbl-0-0"><div data-offset-key="83jbl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="83jbl-0-0"><span data-text="true">由 MR-Software GbR 开发的《巴士模拟 2》现已发售北京扩展包，国区售价77.5元。据悉，本 DLC 将让玩家驾驶104号线，体验从五路居至北京站西全程约11公里的旅程。在驾驶过程及上下客的同时，玩家也能在游戏中欣赏新东安市场、王府井以及美术馆在内的站点。 </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/f5f81683-9328-423d-9901-baaac429d03e.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/10) </figcaption>
@@ -63,7 +63,7 @@ thumbnail: 'https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg'
 <img src="https://image.gcores.com/9b848ad7-f1b0-47e0-ae82-08618957fd33.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (10/10) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="fgco3" data-offset-key="6vpfm-0-0"><div data-offset-key="6vpfm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6vpfm-0-0"><span data-text="true">值得注意的是，北京扩展包的报站、街景、站牌甚至道路车辆以及不同时段的交通流量均完美还原现实，玩家更能在夜晚欣赏灯火亮起后的城市。与此同时，开发者也针对双源无轨电车的内外部进行了精准建模，从各方面带来原汁原味的体验。</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="8h8k" data-offset-key="6vpfm-0-0"><div data-offset-key="6vpfm-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="6vpfm-0-0"><span data-text="true">值得注意的是，北京扩展包的报站、街景、站牌甚至道路车辆以及不同时段的交通流量均完美还原现实，玩家更能在夜晚欣赏灯火亮起后的城市。与此同时，开发者也针对双源无轨电车的内外部进行了精准建模，从各方面带来原汁原味的体验。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/749fb289-6f30-478a-b2a1-432cd509b48c.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/6) </figcaption>
@@ -93,6 +93,6 @@ thumbnail: 'https://image.gcores.com/ca217ddc-155b-4198-993a-f957f2d2b2c2.jpg'
 <img src="https://image.gcores.com/7d87f622-9614-4b1a-b800-14c53aee3914.png" alt referrerpolicy="no-referrer">
 <figcaption> (6/6) </figcaption>
 </figure>
-            <figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="fgco3" data-offset-key="ab8dh-0-0" contenteditable="false"><div class="story_embed"><iframe frameborder="0" framespacing="0" border="0" width="100%" height="200px" src="//store.steampowered.com/widget/1752630"></iframe></div></figure><div class="story_block-spoiler d-none" data-block="true" data-editor="fgco3" data-offset-key="262bj-0-0"><div data-offset-key="262bj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="262bj-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="8h8k" data-offset-key="ab8dh-0-0" contenteditable="false"><div class="story_embed"><iframe frameborder="0" framespacing="0" border="0" width="100%" height="200px" src="//store.steampowered.com/widget/1752630"></iframe></div></figure><div class="story_block-spoiler d-none" data-block="true" data-editor="8h8k" data-offset-key="262bj-0-0"><div data-offset-key="262bj-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="262bj-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
