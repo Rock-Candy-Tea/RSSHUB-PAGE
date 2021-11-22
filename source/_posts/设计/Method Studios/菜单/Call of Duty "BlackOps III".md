@@ -5,11 +5,11 @@ categories:
  - 设计
  - Method Studios
  - 菜单
-headimg: 'https://picsum.photos/400/300?random=6735'
+headimg: 'https://picsum.photos/400/300?random=530'
 author: Method Studios
 comments: false
-date: 2021-11-22 11:07:05
-thumbnail: 'https://picsum.photos/400/300?random=6735'
+date: 2021-11-22 12:12:31
+thumbnail: 'https://picsum.photos/400/300?random=530'
 ---
 
 <div>   
