@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/easygoadmin/EasyGoAdmin_Gin_EleVue/raw/master/public/uploads/demo/1.png'
 author: 开源中国
 comments: false
-date: Mon, 22 Nov 2021 01:00:00 GMT
+date: Mon, 22 Nov 2021 08:59:00 GMT
 thumbnail: 'https://gitee.com/easygoadmin/EasyGoAdmin_Gin_EleVue/raw/master/public/uploads/demo/1.png'
 ---
 
