@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-11-23 04:10:36
-thumbnail: 'https://pic2.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162'
+date: 2021-11-23 05:08:23
+thumbnail: 'https://pic1.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-7543abfbd9d2e9cb51dc3fab043511dd_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">千翻儿娃，</span><span class="bio">三亿光年外的漫魂</span>
 <a href="https://www.zhihu.com/question/33518032/answer/2236570200" class="originUrl" hidden>查看知乎原文</a>
 </strong>
