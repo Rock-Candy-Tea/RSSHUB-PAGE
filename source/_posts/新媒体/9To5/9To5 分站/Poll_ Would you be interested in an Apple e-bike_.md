@@ -48,6 +48,11 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 </ul>
 <p>From Apple, I’d also expect a very neat way to mount any iPhone, of course, with wireless charging.</p>
 <p>How interested would you be in an Apple e-bike? Please take our poll, and share your thoughts in the comments about what you’d expect from the company.</p>
+<figure class="wp-block-embed aligncenter is-type-rich is-provider-crowdsignal wp-block-embed-crowdsignal">
+<div class="wp-block-embed__wrapper">
+<noscript><iframe title="Would you be interested in an Apple e-bike?" src="https://poll.fm/10974242/embed" frameborder="0" class="cs-iframe-embed"></iframe></noscript>
+</div>
+</figure>
 <p><em>Concept image: <a href="https://www.yankodesign.com/2021/08/15/this-hubless-e-bike-perfectly-balances-an-artists-brush-stroke-with-sleek-aerodynamic-design/" target="_blank" rel="noreferrer noopener">BaoPham Design</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3CGaR8J"><img class="aligncenter wp-image-770676 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/9to5-Placement.png" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
