@@ -1,0 +1,19 @@
+
+---
+title: '中国数学家印卧涛荣获优化领域 Egon Balas 奖，现任职于阿里巴巴达摩院'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/11/0774a1b4-7ee9-4983-8816-e96fee74a9ae.jpg'
+author: IT 之家
+comments: false
+date: Wed, 24 Nov 2021 10:48:37 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/11/0774a1b4-7ee9-4983-8816-e96fee74a9ae.jpg'
+---
+
+<div>   
+<p data-vmark="f0e7">运筹学和管理学研究会（INFORMS）优化协会近日宣布，将 2021 年度 Egon Balas 奖授予中国数学家印卧涛，以表彰其在优化领域做出的突出贡献。印卧涛曾是加州大学洛杉矶分校数学系终身教授，现任职于阿里巴巴达摩院，负责决策智能实验室，他也是 2021 年度全球 top1% 高被引的数学家。</p><p data-vmark="9a63"><img src="https://img.ithome.com/newsuploadfiles/2021/11/0774a1b4-7ee9-4983-8816-e96fee74a9ae.jpg" w="400" h="176" title="中国数学家印卧涛荣获优化领域 Egon Balas 奖，现任职于阿里巴巴达摩院" width="400" height="176" referrerpolicy="no-referrer"></p><p data-vmark="9452"><strong>运筹学和管理学研究会优化协会</strong></p><p data-vmark="d8bb">运筹学和管理科学研究会（INFORMS）是全球规模最大、影响力最强的运筹学和管理科学领域学术组织。运筹学的核心之一是优化（Optimization），所以 INFORMS 下设了优化领域的专业协会，针对现实生活生产中的复杂问题，利用数学找出最优解，为决策提供科学依据，华罗庚亲自推广的优选法就是其中典型。</p><p data-vmark="d19e">优化横跨运筹学、数学、经济学、管理学等多个学科，也是时下火热的人工智能最核心的部分，具有重要的科研和应用价值，是国际上优化领域最重要的专业协会。</p><p data-vmark="a434"><strong>Egon Balas 奖</strong></p><p data-vmark="f126"><img src="https://img.ithome.com/newsuploadfiles/2021/11/b98c27d2-e518-4920-83fd-ab6acf62fb8a.jpg@s_2,w_820,h_547" w="900" h="600" title="中国数学家印卧涛荣获优化领域 Egon Balas 奖，现任职于阿里巴巴达摩院" srcset="https://img.ithome.com/newsuploadfiles/2021/11/b98c27d2-e518-4920-83fd-ab6acf62fb8a.jpg 2x" width="900" height="547" referrerpolicy="no-referrer"></p><p data-vmark="b714">Egon Balas 是罗马尼亚出生的整数规划大师，后任教于美国卡内基梅隆大学，在运筹优化领域做出了巨大贡献，2006 年当选美国国家工程院院士，2019 年去世。</p><p data-vmark="5327">为了纪念 Egon Balas，INFORMS Optimization Society 在 2020 年以其名字设立了该奖项，每年颁发给在优化领域做出突出贡献的个人。获奖者必须在其最终学位的 15 年内。该奖项是对获奖者在优化领域的创新性和影响力的认可，包括其理论、算法和计算。该奖项包括 3,000 美元的现金和一份证书。获奖者将被邀请在颁奖当年的秋季 INFORMS 年会上发表演讲。</p><p data-vmark="b97e">Egon Balas 奖旨在奖励对优化做出突出贡献的中青年学者 (获得最高学位不超过 15 年)，每年全球仅评选一人。</p><p data-vmark="2b52"><strong>印卧涛获奖</strong></p><p data-vmark="5893"><img src="https://img.ithome.com/newsuploadfiles/2021/11/45757eda-942e-4c86-8a6a-6bc1f8386233.jpg" w="523" h="448" title="中国数学家印卧涛荣获优化领域 Egon Balas 奖，现任职于阿里巴巴达摩院" width="523" height="448" referrerpolicy="no-referrer"></p><p data-vmark="f1a3">▲ 达摩院数学家印卧涛</p><p data-vmark="0d94"><strong>印卧涛本科毕业于南京大学数学系，博士毕业于哥伦比亚大学运筹专业，曾是加州大学洛杉矶分校数学系终身教授</strong>，2019 年加入阿里巴巴达摩院，主持创建了决策智能实验室，带领团队打造出中国首个免费开放的商用求解器 MindOpt，多次获得国际权威榜单第一名。并先后获得了 NSF CAREER 奖、斯隆研究奖、晨兴应用数学金奖以及达摩奖。全球知名学术分析机构科睿唯安（Clarivate Analytics）上周公布了 2021 年度全球 top1% 高被引数学家名单，印卧涛名列其中。</p><p data-vmark="7715">在成像科学领域，印卧涛发明了压缩感知和图像恢复的快速优化算法，包括当下广泛使用的 Bregman 算法，能较大幅度提升核磁共振、CT、脑成像等众多场景下的成像质量，信噪比提升数分贝。颁奖词中提及的算子分裂，是将复杂数学问题分解为一组简单子问题，属于数学领域的基础方法。印卧涛和学生发现了第一个可以用于分解三单调运算符而不增加变量维度的方法，被学界称为 Davis-Yin Splitting，对算子分裂的发展做出了突破性贡献。</p><p data-vmark="464c">过去 10 年左右，印卧涛在大数据问题的分布式并行优化方面完成了多项优秀工作。他的算法 Jacobi ADMM 可在几分钟内解决涉及多个块和数百 GB 数据的 ADMM 优化模型。他是 2013 年 NSF（美国自然科学基金）大数据启动会议的三位讨论负责人之一。最近几年，印卧涛研究了异步并行计算的理论。他与学生一起提出一个 ARock 算法框架，可以让一个多线程算法在信息拥堵而线程不等待的状况下依然保证严格收敛，框架内的许多并行方法可以从异步并行中受益。</p><p data-vmark="fe76">印卧涛的工作涵盖了从理论分析到实用算法，再到代码开发。他是算子分裂方法、并行和分布式计算、无中心优化、压缩感知和变分图像处理领域世界上最有影响力的研究者之一。而这些领域的快速发展对机器学习和数据科学尤为重要，他对这些领域的贡献，尤其是对成像科学的贡献，为高效优化算法注入了理论严谨性，并过去 15 年左右的时间里产生了持久的影响。</p><p data-vmark="d064"><strong>印卧涛与求解器 MindOpt</strong></p><p data-vmark="6451">2019 年印卧涛加入阿里巴巴达摩院，主持创建了决策智能实验室，带领团队在短短一两年之内开发出商用级别的优化求解器 MindOpt，多次在国际权威的 Mittelmann 榜单获得第一名。</p><p data-vmark="f07b">求解器是求解数学规划问题的软件，广泛应用于云计算、零售、金融、制造、交通、能源等领域，是深埋于智能决策场景底层的“终极利器”。由于技术壁垒高，几十年来，高性能商用求解器技术始终由少数欧美企业主导。早前 AI 科技评论对我国研究求解器也有相关报道。</p><p data-vmark="dbcd">印卧涛团队开发出求解器 MindOpt，首先用于阿里云计算资源调度优化，一年节省成本数亿元。2020 年 12 月底，求解器向社会免费开放测试，是国内首个免费开放的商用求解器，目前已能够用单纯形法、网络流法、内点法来解决线性规划问题。2021 年 10 月 MindOpt 进行重要升级，新增了极具挑战的黑盒优化功能，主要针对优化目标和约束条件无直接描述的黑盒复杂系统，可谓是解决“难中之难”。</p>
+          
+</div>
+            
