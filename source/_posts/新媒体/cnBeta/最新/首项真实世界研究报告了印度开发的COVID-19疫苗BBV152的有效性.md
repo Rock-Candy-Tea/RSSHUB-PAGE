@@ -1,0 +1,19 @@
+
+---
+title: '首项真实世界研究报告了印度开发的COVID-19疫苗BBV152的有效性'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1124/0ceb02350522753.jpg'
+author: cnBeta
+comments: false
+date: Wed, 24 Nov 2021 01:37:05 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1124/0ceb02350522753.jpg'
+---
+
+<div>   
+<strong>印度开发的COVID-19疫苗BBV152的首次真实世界评估表明，两剂疫苗对有症状的COVID-19有50%的有效性。</strong>这项发表在《柳叶刀》传染病杂志上的研究评估了2021年4月15日至5月15日来自印度德里全印度医学科学研究所（AIIMS）的2714名医院工作人员，他们有症状并接受了COVID-19的RT-PCR检测。在研究期间，Delta变体是印度的主导毒株，约占所有COVID-19确诊病例的80% 。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1124/0ceb02350522753.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1124/0ceb02350522753.jpg" alt="Bharat_Biotech_Covaxin_Bangalore_BESTpedia.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">BBV152由Bharat Biotech（印度）开发，是一种Vero细胞衍生的灭活疫苗，用一种新型佐剂配制，以两剂方案给药，间隔28天。</p><p style="text-align: left;">2021年1月，BBV152被批准在印度紧急用于18岁以上的人群。世界卫生组织（WHO）于2021年11月将BBV152加入其批准的紧急使用COVID-19疫苗名单。</p><p style="text-align: left;">这项新研究是在印度第二次COVID-19疫情激增期间进行的，研究对象是主要提供BBV152疫苗的高接触人群（医护人员），因此提供了一个独特的机会来评估其实际效果。</p><p style="text-align: left;">“我们的研究为BBV152在现场的表现提供了一个更完整的图景，并应在印度COVID-19激增的条件下加以考虑，再加上delta变体可能的免疫规避潜力。”新德里AIIMS医学院的额外医学教授Manish Soneja博士说：“我们的发现增加了越来越多的证据，即快速疫苗推广计划仍然是控制大流行的最有希望的途径，而公共卫生政策必须继续包括额外的保护措施，如戴口罩和保持社交距离。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1124/3e676d351da91bc.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1124/3e676d351da91bc.png" alt="L2OD~&#125;Z0_ZL9L[NETNVZ07J.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这项研究是在AIIMS进行的，这是一家三级护理医院和COVID-19治疗中心。从2021年1月16日开始，向其所有23000名员工提供BBV152。研究人员在2021年4月15日至5月15日期间进行了一项试验阴性对照研究，以评估BBV152疫苗对有症状的RT-PCR确认的SARS-CoV-2感染的有效性。</p><p style="text-align: left;">在研究人群中的2714名员工中，1617人的SARS-CoV-2感染检测呈阳性，1097人检测呈阴性。根据年龄和性别，采用1:1的比例将阳性病例与RT-PCR检测阴性的病例（对照组）进行匹配。比较了病例和对照组之间接种BBV152疫苗的几率，并对COVID-19的职业暴露、以前的SARS-CoV-2感染和感染日期进行了调整。</p><p style="text-align: left;">在接种两剂BBV152后，调整后的疫苗对有症状的COVID-19的有效性为50%，其中第二剂在接受RT-PCR检测前14天或更长时间接种。在七周的随访期内，两剂疫苗的有效性保持稳定。</p><p style="text-align: left;">在为期30天的研究中，大多数符合条件的参与者在前20天接受了SARS-CoV-2感染的检测，当时COVID-19的检测阳性率在印度处于高峰。在研究期结束时（从5月6日到5月15日），检测请求逐渐减少。接种受最后一剂疫苗和研究期结束（2021年5月15日）之间的中位间隔，对于接受一剂疫苗的人来说是37天（范围7至119）天，对于接受两剂疫苗的人来说是50天（范围5至103）天。7天和21天后估计的第一剂调整后的疫苗效力很低，这与其他疫苗对抗delta变体的表现一致，并表明第二剂对实现疫苗有效性的重要性。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1124/e3c35a17ddca630.jpg" alt="gr1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">“该研究的结果证实了以前的研究，表明需要两剂BBV152来实现最大的保护，所有的疫苗推广计划必须遵循推荐的剂量表。”新德里AIIMS医学助理教授Parul Kodan博士说：“需要进行更多的研究，以更好地了解这些发现如何转化为BBV152对delta和其他令人关注的变体的有效性，特别是与COVID-19的严重感染、住院和死亡有关。”</p><p style="text-align: left;">任何疫苗推广计划的一个重要组成部分是在现实世界环境中评估疫苗的有效性，因为其现实世界的表现往往与对照试验条件不同。事实上，作者承认，本研究中估计的疫苗有效性低于最近公布的BBV152的3期随机对照研究报告的有效性。</p><p style="text-align: left;">作者指出，有几个因素可能是造成本研究中疫苗有效性较低的原因。首先，该研究人群只包括医院员工，他们可能比普通人群有更高的COVID-19感染风险。其次，这项研究是在印度第二波COVID-19感染高峰期进行的，医院员工和德里居民的检测阳性率都很高。第三，令人担忧的循环变体的流行，特别是delta，可能导致BBV152的有效性降低。</p><p style="text-align: left;">作者承认该研究有几个局限性。最重要的是，这项研究没有估计疫苗对住院、严重疾病和死亡的有效性，这需要进一步评估。此外，该研究没有设计来估计接种后不同时间间隔的疫苗有效性，也没有确定疫苗有效性是否随时间变化。另一个局限性是缺乏关于合并症和先前COVID-19感染的数据，这可能会影响健康寻求行为以及疫苗效力。虽然该研究发生在delta变体激增的时期，但RT-PCR阳性的患者并没有进行SARS-CoV-2变体的检测。因此，作者无法明确估计疫苗对因特定变体而导致的有症状的COVID-19的有效性。未来的研究应该检查delta变体的疫苗逃逸潜力。</p><p style="text-align: left;">“我们的研究发生在德里的COVID-19检测阳性率约为35%的时候--这是该大流行开始以来的最高值。在解释任何疫苗的影响时，这是一个需要考虑的重要因素。”新德里AIIMS医学部主任Naveet Wig教授说：“提供安全有效的疫苗，解决疫苗犹豫不决的问题，以实现良好的速度和覆盖率，是成功的全民疫苗接种计划的基石。”</p>   
+</div>
+            
