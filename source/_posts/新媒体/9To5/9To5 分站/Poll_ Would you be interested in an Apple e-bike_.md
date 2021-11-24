@@ -54,7 +54,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 </div>
 </figure>
 <p><em>Concept image: <a href="https://www.yankodesign.com/2021/08/15/this-hubless-e-bike-perfectly-balances-an-artists-brush-stroke-with-sleek-aerodynamic-design/" target="_blank" rel="noreferrer noopener">BaoPham Design</a></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3CGaR8J"><img class="aligncenter wp-image-770676 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/9to5-Placement.png" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://amzn.to/3FEmEGk"><img class="aligncenter wp-image-824955" src="https://9to5toys.com/wp-content/uploads/sites/5/2021/11/S7-750x150-1.jpg" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

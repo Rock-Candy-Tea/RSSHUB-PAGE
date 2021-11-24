@@ -273,33 +273,6 @@ Now the President of the New York Chapter of AIGA, Goldwell attributes some of h
             </div>
                   <div class="field__item">
         
-  <div class="paragraph paragraph--type--image paragraph--view-mode--default">
-                                            <article class="media media--type-image media--view-mode-default">
-  
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=qZYKtscZ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=Dx4d16QI 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=_-Y_cPRO 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=qZYKtscZ 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=Dx4d16QI 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=_-Y_cPRO 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-11/WomanCard-Design-Card-gif-110516%20%281%29.gif?itok=qZYKtscZ" alt typeof="foaf:Image" referrerpolicy="no-referrer">
-
-  </picture>
-
-
-            </div>
-          </div>
-
-  </article>
-
-                      </div>
-
-            </div>
-                  <div class="field__item">
-        
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
               <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">

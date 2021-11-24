@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg'
 author: 机核网
 comments: false
-date: 2021-11-23 15:09:24
+date: 2021-11-24 00:26:50
 thumbnail: 'https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-d5r3c" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="d5r3c" data-offset-key="2b84q-0-0"><div data-offset-key="2b84q-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2b84q-0-0"><span data-text="true">Square Enix 已在日本地区通过 App Store 和 Google Play 商店开启了手游《勇气默示录 Brilliant Lights》的事前登录活动。官方也放出了本作的新预告片。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="d5r3c" data-offset-key="bberf-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://www.taptap.com/video/2278186/embed?thumb=https%3A%2F%2Fimg.tapimg.com%2Fvideo-recthumb%2Ftid-619c80dc013edd5522ba005b%2FFlGEmmBOdnQHNzpfPTJmvklMOzf6.png%3FimageView2%2F0%2Fw%2F1080%2Fh%2F9999%2Fq%2F80%2Fformat%2Fjpg%2Finterlace%2F1%2Fignore-error%2F1"></iframe></div></div></div></figure>
+<img src="https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fbs0j" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fbs0j" data-offset-key="2b84q-0-0"><div data-offset-key="2b84q-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2b84q-0-0"><span data-text="true">Square Enix 已在日本地区通过 App Store 和 Google Play 商店开启了手游《勇气默示录 Brilliant Lights》的事前登录活动。官方也放出了本作的新预告片。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="fbs0j" data-offset-key="bberf-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://www.taptap.com/video/2278186/embed?thumb=https%3A%2F%2Fimg.tapimg.com%2Fvideo-recthumb%2Ftid-619c80dc013edd5522ba005b%2FFlGEmmBOdnQHNzpfPTJmvklMOzf6.png%3FimageView2%2F0%2Fw%2F1080%2Fh%2F9999%2Fq%2F80%2Fformat%2Fjpg%2Finterlace%2F1%2Fignore-error%2F1"></iframe></div></div></div></figure>
 <figure>
 <img src="https://image.gcores.com/9e07f935-b997-459e-a8f7-b6a51049b362.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/6) </figcaption>
@@ -43,7 +43,7 @@ thumbnail: 'https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg'
 <img src="https://image.gcores.com/52258afa-6482-4921-935a-9c233ec88e55.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (6/6) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="d5r3c" data-offset-key="41bf7-0-0"><div data-offset-key="41bf7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="41bf7-0-0"><span data-text="true">同时官方也公开了游戏的第一波角色介绍，第一波角色介绍共有以下五个角色：</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="fbs0j" data-offset-key="41bf7-0-0"><div data-offset-key="41bf7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="41bf7-0-0"><span data-text="true">同时官方也公开了游戏的第一波角色介绍，第一波角色介绍共有以下五个角色：</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/50927527-c8c3-479e-a4c7-142ab5b54a8b.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/4) </figcaption>
@@ -143,6 +143,6 @@ thumbnail: 'https://image.gcores.com/ca303126-f81b-414d-a44b-fc54b44747ad.jpg'
 <img src="https://image.gcores.com/a4501a52-16be-4c42-94d7-2e1d59dd1d6f.png" alt referrerpolicy="no-referrer">
 <figcaption> (4/4) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="d5r3c" data-offset-key="asbg4-0-0"><div data-offset-key="asbg4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="asbg4-0-0"><span data-text="true">本作是《勇气默示录》十周年纪念作品。根据此前的报道，本作将采用勇气默示录的战斗系统，并针对手机平台对战系统进行了优化，《勇气默示录》系列中的角色们也会陆续登场，</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="fbs0j" data-offset-key="asbg4-0-0"><div data-offset-key="asbg4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="asbg4-0-0"><span data-text="true">本作是《勇气默示录》十周年纪念作品。根据此前的报道，本作将采用勇气默示录的战斗系统，并针对手机平台对战系统进行了优化，《勇气默示录》系列中的角色们也会陆续登场，</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
