@@ -13,9 +13,9 @@ thumbnail: 'https://img.cls.cn/images/20211124/m8A9eP9Ac7.png'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>财联社|区块链日报（上海，记者 张洋洋）讯，</strong>毋庸置疑，NFT和元宇宙承包了区块链领域今年下半年几乎全部热点。</p>
+<div class="m-b-10"><p><strong>财联社|区块链日报（上海，记者 张洋洋）讯，</strong>毋庸置疑，NFT和元宇宙承包了区块链领域上下半年几乎全部热点。</p>
 <p>两大热点赛道背后，一个强势资本机构正在悄然显现——<strong>Coatue Management，一家曾经把TMT中概股几乎投了个遍的美国对冲基金。</strong></p>
-<p>11月23日，宝可梦GO开发商Niantic宣布获得3亿美元新融资，资金将用于投资现有的游戏和新应用，以及扩展Lightship开发者平台和构建元宇宙。本轮融资全部来自对冲基金Coatue。</p>
+<p>11月23日，宝可梦GO开发商Niantic宣布获得3亿美元新融资，资金将用于投资现有的游戏和新应用，以及扩展Lightship开发者平台和构建元宇宙。本轮融资全部来自Coatue。</p>
 <p><strong>试水NFT和元宇宙</strong></p>
 <p>NFT藏品市场的大玩家，Dapper Labs可以算一个。凭借球星卡NBA Top Shot，Dapper Labs目前稳坐NFT体育藏品头把交椅,最新一轮融资后现在估值已达76亿美元。</p>
 <p>天眼查显示，Dapper Labs今年完成了3轮融资，<strong>背后主要资方开始易主，均变为Coatue独投或领投</strong>。后者出手也可谓阔绰：2.5亿美元、3.05亿美元、2.5亿美元（领投）。与Dapper Labs此前6轮融资每次千万美元相比，这个金额直接跨越了一个量级。</p>
