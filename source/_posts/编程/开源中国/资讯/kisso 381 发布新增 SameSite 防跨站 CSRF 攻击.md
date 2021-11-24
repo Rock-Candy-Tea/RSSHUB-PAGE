@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://static.oschina.net/uploads/space/2015/1122/121717_Rl6y_241218.png'
 author: 开源中国
 comments: false
-date: Wed, 24 Nov 2021 02:20:00 GMT
+date: Wed, 24 Nov 2021 02:21:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://static.oschina.net/uploads/space/2015/1122/121717_Rl6y_241218.png'
 ---
 
@@ -21,7 +21,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://static.oschina.net/uploads/sp
 <blockquote> 
  <p style="margin-left:0; margin-right:0">前后分离可选：请求 Header 票据模式, 请求 Cookie 模式</p> 
 </blockquote> 
-<h3> </h3> 
 <h3>常见安全策略</h3> 
 <div> 
  <h3>Secure</h3> 
@@ -31,7 +30,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://static.oschina.net/uploads/sp
  <h3>SameSite</h3> 
  <p>SameSite 也是这篇博客的主体，首先我们来看看这个参数的作用。<br> SameSite 属性可以让 Cookie 在跨站请求时不会被发送，从而可以阻止跨站请求伪造攻击（CSRF）。至于什么是CSRF这里就不具体说了。<br> SameSite 可以有下面三种值：<br> 1、Strict仅允许一方请求携带 Cookie，即浏览器将只发送相同站点请求的 Cookie，即当前网页 URL 与请求目标 URL 完全一致。<br> 2、Lax允许部分第三方请求携带 Cookie<br> 3、None无论是否跨站都会发送 Cookie<br> 造成现在无法获取cookie是因为之前默认是 None 的，Chrome80 后默认是 Lax</p> 
  <p><img height="410" src="https://oscimg.oschina.net/oscnet/up-8f5dd1aca8f9acdc1f09ec012be3a572920.png" width="1102" referrerpolicy="no-referrer"></p> 
- <p> </p> 
 </div> 
 <h2><strong>KISSO 安全配置</strong></h2> 
 <pre><span style="color:#cc7832">kisso</span>:
