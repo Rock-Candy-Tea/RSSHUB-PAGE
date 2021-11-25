@@ -1,0 +1,19 @@
+
+---
+title: '中国老板要和马斯克一起造火箭了？神秘的_浙江资本大佬_3亿投资SpaceX'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__9830f18f8e19daec74d1bd4aa59a6229.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 25 Nov 2021 01:45:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__9830f18f8e19daec74d1bd4aa59a6229.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">中国老板要和马斯克一起造火箭了？</p><p style="text-indent: 2em; text-align: left;">11月16日，利欧股份发布公告称，全资子公司利欧投资拟出资5000万美元（约合人民币3．2亿元）参投合伙企业“TBCA”。而合作投资标的正是马斯克创建的SpaceX。</p><p style="text-indent: 2em; text-align: left;">此消息一出，立刻引起了巨大的轰动。毕竟作为全球首富的马斯克，可是绝对的红人。并且，瞄准航天航空领域的SpaceX，也有着巨大的发展潜力。</p><p style="text-indent: 2em; text-align: left;">据CB Insights公布的数据显示，在当前未上市公司之中，SpaceX的价值排在全球第二位，是一个超级独角兽。</p><p style="text-indent: 2em; text-align: left;">在众多投资机构眼中，SpaceX可是一块大蛋糕，想投资者不计其数。而平日里受关注不高的利欧投资，竟然能成为投资者之一，属实令人惊讶。</p><p style="text-align:center"><img title="双击查看原图" src="https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__9830f18f8e19daec74d1bd4aa59a6229.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而利欧股份之所以能与SpaceX搭上线，与公司创始人、神秘的“浙江资本大佬”王相荣自然离不开关系。</p><p style="text-indent: 2em; text-align: left;">王相荣是杭州化工学校化工机械专业的高材生，毕业后被分配至温岭市轻工电机厂，因优异的表现颇受重视。1995年，王相荣更是创建新科水泵研究所，后在2001年，该研究所蜕变为台州利欧电气有限公司。</p><p style="text-align:center"><img title="双击查看原图" src="https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__79301178824d2c46d9108fef97650b26.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在欧洲市场上，王相荣看到了花园泵的巨大商机，并借助物美价廉的产品，成功将“LEO”这个品牌送入了欧盟市场。</p><p style="text-indent: 2em; text-align: left;">在此后的几年里，靠着欧洲广阔的市场，利欧电气的业绩一路走高，不多时便成为全国领先的水泵巨头。这让王相荣获得了不菲的财富，并赢得了台州“水泵大王”的美称。</p><p style="text-indent: 2em; text-align: left;">实现财富积累后，王相荣又看中了新的赛道——投资。</p><p style="text-indent: 2em; text-align: left;">从2014年至今，利欧股份投资的企业已经超过20家。其中，对理想汽车的一笔投资，是王相荣最为得意之作。</p><p style="text-align:center"><img title="双击查看原图" src="https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__9eb62a41b18c1fd953477075c3fb1c42.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">利欧股份先后共计对理想汽车投入4．5亿元，而随着理想汽车的成功上市，利欧股份获得了百亿市值的回报。这一举，树立了王相荣在投资圈子里的地位。</p><p style="text-indent: 2em; text-align: left;">如今利欧股份投资的多家企业，已经或即将登上资本市场，这无疑将利欧股份推上了发展的新高度。</p><p style="text-indent: 2em; text-align: left;">最近几年里，利欧股份的投资动作不断，而且投得多是大热的赛道，如新能源、芯片、元宇宙等等。</p><p style="text-indent: 2em; text-align: left;">在今年8月份，利欧股份表示将同众挺智能在IGBT芯片及模组生产项目上，成立合资公司。</p><p style="text-indent: 2em; text-align: left;">不过，利欧股份同时也陷入了信任危机。</p><p style="text-indent: 2em; text-align: left;">据二级市场股东反馈，他在根据合资公司注册地址到现场考察后发现，根本就没有所说的项目。这一下子便将利欧股份推向了舆论的风口浪尖。</p><p style="text-align:center"><img title="双击查看原图" src="https://mp.ofweek.com/Upload/News/Img/member46325/202111/wx_article__50c8ba17657163a210899f11d04bd637.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">对此，利欧股份以“项目建设地址并非注册地址”作为回应，并表示将在项目投产后邀请投资者参观。</p><p style="text-indent: 2em; text-align: left;">这场信任危机虽然以误会告终，但仍让股民心有余悸。不少人不由心生怀疑，利欧股份是在“蹭热度”。</p><p style="text-indent: 2em; text-align: left;">而且，利欧股份的业绩也让人怀疑，其是否有能力撑起如此大的野心。</p><p style="text-indent: 2em; text-align: left;">最近一年来，利欧股份业绩波动巨大，并且转为负数。今年第三季度，利欧股份的净亏损达到了10．23亿元，一下子将前三季度的业绩扭盈为亏。</p><p style="text-indent: 2em; text-align: left;">就算从利欧股份以往的业绩来看，公司的利润表现也并不好，一着不慎便容易亏损。</p><p style="text-indent: 2em; text-align: left;">利欧股份的野心很大，但是其能力能不能撑起这份野心，还是让不少人心有疑虑。</p><p style="text-indent: 2em; text-align: left;">不过，若是这笔投资能够达成，那么利欧股份无疑会将乘风而上，成为投资领域的新巨头。未来，利欧股份将有怎样的发展，很大程度上在于与马斯克的这次合作。</p> 
+  
+</div>
+            
