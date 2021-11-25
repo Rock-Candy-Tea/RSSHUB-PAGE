@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorant2/1693072870-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00955.jpg'
 author: Blur Studio
 comments: false
-date: 2021-11-25 06:10:00
+date: 2021-11-25 07:08:51
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorant2/1693072870-1610323866/valorant_ares21_retake_cinematic_4096x1716_2m32s_en_us_master_v001_00955.jpg'
 ---
 
