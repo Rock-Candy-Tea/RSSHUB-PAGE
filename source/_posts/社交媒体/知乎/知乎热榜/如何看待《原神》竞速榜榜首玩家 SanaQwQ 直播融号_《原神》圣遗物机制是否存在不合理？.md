@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6994'
+headimg: 'https://picsum.photos/400/300?random=4864'
 author: 知乎
 comments: false
-date: Thu, 25 Nov 2021 06:09:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6994'
+date: Thu, 25 Nov 2021 08:05:59 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4864'
 ---
 
 <div>   
-pansz的回答<br><br><p data-pid="eCJzLkLu">竞速的本质是为了装逼。</p><p data-pid="5CjNDTeR">而原神不内置排行榜，导致前排大佬无法装逼。（崩三有深渊战场排行榜）</p><p data-pid="hcQiEYUC">原神的多人游戏匹配机制也非常有问题，体验较差，导致进多人游戏匹配装逼这条路也基本堵死。（崩三匹配多人局难度很低，大佬平民差距很大，适合装逼）</p><p data-pid="O5MdzTLm">融号的本质在于无论怎么突出都无法实现装逼，除了最终融号的这一次能够刷点存在感以外，在此之前，没有人知道这里曾经有个竞速党。</p><p data-pid="yoGkuQeV">这说明原神官方本来就并不鼓励竞速玩法，退坑也就很自然了。</p><p data-pid="E_LkzjPD">所以个人理解：这里最大的矛盾是「氪金大佬想要更多存在感」与「原神策划不允许氪金大佬在普通玩家面前产生过高存在感」之间的矛盾，与圣遗物机制并无直接联系。</p><p data-pid="55sjavnw">圣遗物机制，只是在目前的「不让氪金大佬产生过高存在感」这一个基本指导思想下设计诞生出来的副产物而已。</p><p data-pid="jGKxCYyg">对于我等平民来说：我个人表示无所谓。我是一直不在乎得分与排名这种东西的，如果一个游戏我不在乎得分跟排名就混不下去，那我就会退坑。</p>  
+凭笙的回答<br><br><p data-pid="yKU-fFdK">从游戏运营的角度，合理。</p><p data-pid="HZPYnMRR">对比隔壁没有一个靠随机*3消耗玩家资源的深坑系统的舟游，即便是当作副游，资源都会大量冗余。</p><p data-pid="5DmJ5bwQ">一个角色出来3分钟拉满，剩下的就是无聊干耗，所有活跃拉动全靠高成本的内容制作。</p><p data-pid="30fSE2aL">相比之下，圣遗物/御魂，以及他们的祖宗符文就是一个很好的消耗玩家资源的手段。</p><p data-pid="NBSrcheF">原神现在一个新角色出来想要达到<b>基础</b>毕业，基本上21天这个周期资源都要围绕着ta来，体验是相对充实的。</p><p data-pid="wOIp1XsZ">在某个合适的节奏下，这套系统既能保证游戏资源不膨胀，也能让玩家有横向成长，和偶尔惊喜的正向体验。</p><p><br></p><p data-pid="wNIKa3jR">但从玩家角度，玩家的任何感受都是合理的。</p><p data-pid="pO2Gjnfk">感受是主观的，你不能决定玩家怎么玩游戏。</p><p data-pid="JlhkoJRj">以这个为前提，即便游戏没有任何pvp或竞速排行内容，玩家也有权利追求某种虚无缥缈的概率，进而“自我破防”。</p><p data-pid="4pB75BAP">这是很正常的游戏体验，不能强迫所有玩家趋同。</p><p data-pid="rWYQavvS">即便是一个休闲玩家，每天体力过剩的那种，刷圣遗物一个坯子不出，也有桌子hp-1的权利。</p><p><br></p><p data-pid="Ez101H4j">所以融号就融了，米哈游如果能表示，顶多表示一下遗憾。</p><p data-pid="jfaV4nrd">从厂商的角度，玩家是平均的，是趋同的，整体态势稳固的就行了。</p><p data-pid="vnuCJX0u">从个人的角度，尊重每一个人的选择和想法，只要没伤害到别人就行。</p>  
 </div>
             
