@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/b8feebbba76d2b4d774075f1f2367c6a.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/f4d5ea74df8d0554cbaae5269ea2699d.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 24 Nov 2021 16:08:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/b8feebbba76d2b4d774075f1f2367c6a.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/f4d5ea74df8d0554cbaae5269ea2699d.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>crypto.com域名原本由密码学家所有，他多年来拒绝出售，哪怕报价高达数百名美元——但现在，给的太多了</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/b8feebbba76d2b4d774075f1f2367c6a.jpg!custom" referrerpolicy="no-referrer"><p>洛杉矶湖人队主场体育馆现在有了一个新名字：Crypto.com Arena。这个名字反映了该场馆与新加坡一家加密货币交易平台的新赞助协议。这对加密货币的投资者来说可能是个好消息--但对数字领域的另一个派别来说可能就不是那么回事了：密码学家。</p>
+<blockquote><p>crypto.com域名原本由密码学家所有，他多年来拒绝出售，哪怕报价高达数百万美元——但现在，给的太多了</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/f4d5ea74df8d0554cbaae5269ea2699d.jpg!custom" referrerpolicy="no-referrer"><p>洛杉矶湖人队主场体育馆现在有了一个新名字：Crypto.com Arena。这个名字反映了该场馆与新加坡一家加密货币交易平台的新赞助协议。这对加密货币的投资者来说可能是个好消息--但对数字领域的另一个派别来说可能就不是那么回事了：密码学家。</p>
 <p>在韦氏词典中查找 "crypto" 一词，你会看到它指的是密码学，而密码学又被定义为 "信息的计算机化编码和解码"。然而，在谷歌上搜索 "crypto"，你会看到大量的顶级结果指向比特币和以太坊等加密货币。</p>
 <p>这种词汇上的转变对密码学家来说是一个沉重的打击，在过去的几年里，他们在社交媒体上重复着 "Crypto指的是密码学"。用T恤衫和连帽衫大肆宣传这个短语；还建立网站专门用来澄清这个问题。</p>
 <p>科罗拉多大学法学院Silicon Flatirons中心的执行主任、支持密码学T恤衫的创造者Amie Stepanovich说："几十年来，'Crypto'一直被用作与密码学有关的事物的速记和前缀。事实上，在加密货币这个词中，前缀crypto也指的是密码学。"</p>
