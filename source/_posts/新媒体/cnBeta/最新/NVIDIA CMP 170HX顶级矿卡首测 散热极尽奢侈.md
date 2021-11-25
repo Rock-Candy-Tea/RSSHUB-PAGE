@@ -1,0 +1,19 @@
+
+---
+title: 'NVIDIA CMP 170HX顶级矿卡首测 散热极尽奢侈'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1125/69d6b335af769b6.jpg'
+author: cnBeta
+comments: false
+date: Thu, 25 Nov 2021 05:56:49 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1125/69d6b335af769b6.jpg'
+---
+
+<div>   
+NVIDIA对于挖矿真是上心！不但推出了专门的CMP HX系列矿卡，甚至将安培家族用于加速计算卡的顶级大核心A100也拿了过来，这就是CMP 170HX，据说还有个更高端的CMP 220HX。国外博主也拿到了一块，并进行了拆解、简单测试。这也是NVIDIA亲自出品的第一块矿卡。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/69d6b335af769b6.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/69d6b335af769b6.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/69d6b335af769b6.jpg" referrerpolicy="no-referrer"></a></p><p>该卡的造型和A100 PCIe加速计算卡基本一致，<strong>无<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>被动散热</strong>(类似服务器方案依赖整机风扇)，双插槽厚度，自然没有视频接口。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/4b1bfff382c58a3.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/4b1bfff382c58a3.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/4b1bfff382c58a3.jpg" referrerpolicy="no-referrer"></a></p><p><strong>外壳是铝材质</strong>，没有任何标记之类的，<strong>内部则是一大块铜质散热片</strong>，覆盖整个PCB电路板。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/e5682e4f66bf669.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/e5682e4f66bf669.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/e5682e4f66bf669.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/0509336657080b0.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/0509336657080b0.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/0509336657080b0.jpg" referrerpolicy="no-referrer"></a></p><p>PCB板造型也很别致，尾部一个弧形缺口，而辅助供电不是常见的PCIe 6/8针，是<strong>常见于主板上给CPU辅助供电的PES 8针</strong>，因此需要转接。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/28b93c3a7e96375.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/28b93c3a7e96375.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/28b93c3a7e96375.jpg" referrerpolicy="no-referrer"></a></p><p>电路板布局紧凑，用料相当高级，<strong>而GPU芯片本身和周边基板全部覆盖上了厚实的散热顶盖。</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1125/cf0a5bc203f545a.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1125/cf0a5bc203f545a.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1125/cf0a5bc203f545a.jpg" referrerpolicy="no-referrer"></a></p><p><strong>内核代号为GA100-105F。</strong></p><p>GPU-Z可以识别出大部分信息，比如<strong>CMP 170HX型号、4480个流处理器、140个纹理单元、128个ROP光栅单元、SK海力士8GB HBM2显存、1140-1410MHz核心频率，等等。</strong></p><p>相比之下，A100加速卡有6912个流处理器，这里屏蔽了超过三分之一，显存原本也有80/40GB之多，现在只剩下8GB，当然也足够了，毕竟以太坊DAG文件还不到5GB。</p><p><strong>挖矿性能实测以太坊在165MH/s左右，但不能调节频率，功耗虽然可以在200-250W之间变动，但完全不影响挖矿算力。</strong></p><p><strong>DirectX、OpenGL、Vulkan、CUDA等图形相关技术统统被屏蔽。</strong>虽然GPU-Z识别显示支持CUDA，但根本没法用，甚至无法使用CUDA内核渲染Blender。</p><p>这也就注定了，它除了挖矿，啥都不能干。</p><p>但就是这么个家伙，<strong>据说要5000美元！</strong></p><p><img src="https://static.cnbetacdn.com/article/2021/1125/d50ce8f0b0587a4.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2021/1125/c0fd164ee36b274.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2021/1125/5ec4a7ef60ed8fa.jpg" referrerpolicy="no-referrer"></p>   
+</div>
+            
