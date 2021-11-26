@@ -1,0 +1,19 @@
+
+---
+title: '一轮融资20亿，腾讯字节都是股东，这家成立一年多的GPU企业开挂了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/crawl/273/w550h523/20211126/179a-471ac39d7b7821edcce1f3169afca34a.png'
+author: cnBeta
+comments: false
+date: Fri, 26 Nov 2021 07:56:20 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/crawl/273/w550h523/20211126/179a-471ac39d7b7821edcce1f3169afca34a.png'
+---
+
+<div>   
+<strong>芯片作为信息技术发展的基础性支撑却又面临“卡脖子”问题，行业国产替代化的趋势不可逆转，在新基建的政策推动下，具备巨大的发展潜力。其中GPU芯片有效算力高、电能消耗低，将成为“双碳”背景下新一代计算平台重要构成。</strong><br>
+ <p style="text-align: left;">文：魏巍</p><p style="text-align: left;">GPU芯片研发商“摩尔线程”于11月25日宣布完成20亿A轮融资，这已经是自去年10月成立以来，该公司的第三轮融资。而距离上一次数十亿人民币的Pre-A轮，也仅仅是过了九个月时间。</p><p style="text-align: left;">本轮融资由上海国盛资本、五源资本、渤海中盛基金联合领投，腾讯投资、建银国际、前海母基金、洪泰基金等九家知名机构跟投。</p><p style="text-align: left;">“摩尔线程”同时公布了首颗国产全功能GPU芯片如期研发成功的消息，而本轮融资也将重点用于这颗GPU芯片的批量生产与制造、GPU SOC相关联的IP研发、以及国产GPU生态系统的拓展等。</p><p style="text-align: left;"><strong>摩尔线程融资“开挂”</strong></p><p style="text-align: left;">“摩尔线程”在去年的12月的天使轮就获得了红杉基金、和而泰、闻名投资、五源资本的青睐。而成立一百天又再度融资数十亿，除了深创投、红杉资本、GGV纪源资本、招商局创投、五源资本等明星资本，还有字节跳动、小马智行这样的科技公司参与。</p><p style="text-align: left;">如今完成第三轮融资的“摩尔线程”为何备受资本追捧？</p><p style="text-align: left;">深创投芯片行业专家谷岚表示：“在GPU领域，我们评估过很多创业团队，摩尔线程是国内唯一一支具备世界级水平、拥有完整建制的成熟团队。摩尔线程汇聚众多GPU研发设计经验丰富的系统架构师、图形技术研发科学家，拥有最富经验的芯片设计团队和帮助英伟达在中国取得成功的GPU生态和行业营销专家，这样成熟并被验证过的本土团队非常稀缺。”</p><p style="text-align: left;">“摩尔线程”创始人张建中曾担任英伟达全球副总裁、中国区总经理，领导参与了GPU最新架构的设计和研发工作。在2006年加入英伟达之前，张建中还先后在<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-1000000155.html" target="_blank">惠普</a>、<a data-link="1" href="http://www.anrdoezrs.net/links/9019719/type/dlg/sid//https://www.dell.com/zh-cn/shop/deals" target="_blank">戴尔</a>，担任计算机系统事业部总经理、政府及<a data-link="1" href="https://c.duomai.com/track.php?k=yUSQzUycwRHdo1Ddm0DZpVXZmkDN2ITPklWYmYDO5IDNy0DZp9VZ0l2cmYiJ05WZkVHdzZkMl42Yu02bj5SZy9GdzRnZvN3byNWat5yd3dnRyUiR" target="_blank">教育</a>事业部总经理等职位。</p><p style="text-align: left;">除了首席技术官张建中，该公司团队其他成员还来自包括<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a>、Arm等诸多芯片巨头。而“摩尔线程”在不到一年的时间内，成功研制出国产第一代全功能GPU产品，也用实力证明了团队过硬的技术水平。</p><p style="text-align: left;">上海国盛资本总经理周道洪表示：“摩尔线程研发设计的国产全功能GPU，兼顾算力与算效，可以赋能更广泛的数字化应用场景。”该颗芯片也已开始适配国产主流CPU和操作系统，并与数百个生态伙伴建立合作关系，正快速推进技术的商业化落地。</p><p style="text-align: left;"><strong>GPU赛道风生水起</strong></p><p style="text-align: left;">“摩尔线程”吸金飞快也离不开GPU赛道的火热。</p><p style="text-align: left;">芯片作为信息技术发展的基础性支撑却又面临“卡脖子”问题，行业国产替代化的趋势不可逆转，在新基建的政策推动下，具备巨大的发展潜力。其中GPU芯片有效算力高、电能消耗低，将成为“双碳”背景下新一代计算平台重要构成。</p><p style="text-align: left;">除了摩尔线程外，沐曦集成电路、天数智芯、壁仞科技、登临科技等都是这个赛道的高端玩家，每轮融资动辄上亿元，背后的股东更是资本云集，尤其是吸金王“壁仞科技”成立三年多的时间累计融资超47亿元。</p><p style="text-align:center"><img id="5" src="https://n.sinaimg.cn/tech/crawl/273/w550h523/20211126/179a-471ac39d7b7821edcce1f3169afca34a.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">智研咨询数据显示，全球人工智能的计算力主要是以GPU芯片为主。预测到2024年，GPU市场份额将由2020年42.3%的占比提升至51.4%，市场规模由38亿美元扩大到111亿美元。</p><p style="text-align: left;">因此从技术趋势上看，GPU将成为主流AI芯片，而如今大热的“元宇宙”概念也让这个赛道更具吸引力。中银国际旗下渤海中盛基金董事长王立新表示： “人类即将进入智能计算时代，元宇宙、自动驾驶、机器人、生物计算等都离不开GPU的赋能，对GPU芯片的需求可能出现爆发式增长。”</p><p style="text-align: left;">但对于GPU创业公司而言，资本追捧只是不错的开始，技术落地的成效才是企业能否存续的根本。</p><p style="text-align: left;">景嘉微在2014年就已经研发出国产GPU芯片，并且实现了产品的量产和应用；芯原微电子作为国产GPU IP龙头，GPU IP市场占有率在全球排名领先；兆芯同时掌握了CPU、GPU、芯片组的三大核心技术。但即便如此，这些企业与国外的英伟达、英特尔、高通等相比还是有很大的距离。</p><p style="text-align: left;">由此来看，作为刚刚起步的GPU初创企业，要走的路还很长。</p>   
+</div>
+            
