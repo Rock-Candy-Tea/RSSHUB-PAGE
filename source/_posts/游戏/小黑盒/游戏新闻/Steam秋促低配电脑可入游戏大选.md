@@ -1,0 +1,18 @@
+
+---
+title: 'Steam秋促低配电脑可入游戏大选'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/25/a62227373a5fb91525ee1bba5531d452/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 26 Nov 2021 00:31:07 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/25/a62227373a5fb91525ee1bba5531d452/thumb.jpeg'
+---
+
+<div>   
+<p>哈喽，又是我，今天又来介绍10个低配电脑可玩的游戏，都是我玩过的，这是我的配置！</p><p><img class="lazy" data-height="1062" src="https://imgheybox.max-c.com/bbs/2021/11/25/a62227373a5fb91525ee1bba5531d452/thumb.jpeg" data-width="996" referrerpolicy="no-referrer"></p><p>1.杀手:赫免</p><p><img data-gameid="203140" src="https://cdn.max-c.com/heybox/game/header/203140_mSksx.jpg" referrerpolicy="no-referrer"></p><p>本作是第5代，运用了全新的引擎，画质挺好的，优化也挺好，而且加入狙击挑战！</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>2.欧洲卡车模拟2</p><p><img data-gameid="227300" src="https://cdn.max-c.com/heybox/game/header/227300_1g1MV.jpg" referrerpolicy="no-referrer"></p><p>当你玩腻其他游戏时，不仿试试他吧，他的电台系统是实时欧洲电台，听着歌环游整个法国🇫🇷(木有乳法)，就是倒车挺难的(没成功过)，还可以和自己朋友一起联机！！！</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>3.钢铁雄心3</p><p><img data-gameid="25890" src="https://cdn.max-c.com/heybox/game/header/25890_b7u5N.jpg" referrerpolicy="no-referrer"></p><p>绝对的好游戏，就是汉化有点难找，比钢4操作性更强，可操作到旅(常凯申狂喜），地区小到县(看到了自己家😄)，可以使用更多打法了。建议去玩mod！(战犯必玩<span data-emoji="cube_doge" class="hb-emoji"></span>)</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>4.警察故事</p><p><img data-gameid="539470" src="https://cdn.max-c.com/heybox/game/header/539470_pNvn5.jpg" referrerpolicy="no-referrer"></p><p>一款战术很强的游戏(就是Ai队友有点zz)，警察不能直接开枪，需要警告一次，否则会扣分(毛子:Сука блять，人质是什么？)墙裂建议和好基友玩(这游戏有友伤，不要问我怎么知道的<span data-emoji="cube_捂脸哭" class="hb-emoji"></span>)。</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>5.火柴人大乱斗</p><p><img data-gameid="674940" src="https://cdn.max-c.com/heybox/game/header/674940_C2lUC.jpg" referrerpolicy="no-referrer"></p><p>基友绝交模拟器，非常魔性的小游戏，支持远程联机。</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>6.孤岛惊魂3</p><p><img data-gameid="220240" src="https://cdn.max-c.com/heybox/game/header/220240_enWbp.jpg" referrerpolicy="no-referrer"></p><p>跟着杰森一起成为战士，屠龙少年终究成为恶龙，一路上跟着主角成长，祖传的幻境杀boss开放世界，解放一个个据点，地图还满大的，剧情也很棒👍🏻，也可以多人联机！</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>7.荣誉勋章</p><p><img data-gameid="47790" src="https://cdn.max-c.com/heybox/game/header/47790_q4JqB.jpg" referrerpolicy="no-referrer"></p><p>武器射击手感也就那样吧，不算特别好，也不算差。动作机制总是让我觉得别扭，转方向时会明显有拖滞感。</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>8.古墓丽影</p><p><img data-gameid="203160" src="https://cdn.max-c.com/heybox/game/header/203160_MatJ9.jpg" referrerpolicy="no-referrer"></p><p>我把他当作电影来看，解密元素挺棒的，劳拉也挺棒的，嘿嘿…………我的劳拉🤤……嘿嘿</p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>9.正当防卫2</p><p><img data-gameid="8190" src="https://cdn.max-c.com/heybox/game/header/8190_CADGp.jpg" referrerpolicy="no-referrer"></p><p>开放世界的佳作，拿着挂钩飞来飞去，挺好玩的<span data-emoji="cube_赞" class="hb-emoji"></span><span data-emoji="cube_赞" class="hb-emoji"></span><span data-emoji="cube_赞" class="hb-emoji"></span></p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>10.英雄连</p><p><img data-gameid="228200" src="https://cdn.max-c.com/heybox/game/header/228200_9ixhc.jpg" referrerpolicy="no-referrer"></p><p>绝对好玩的rts游戏，经常上演钢铁洪流，几辆坦克和风琴直接轰他吖的<span data-emoji="cube_酷" class="hb-emoji"></span><span data-emoji="cube_酷" class="hb-emoji"></span></p><p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p><p>好了，介绍了这么多低配游戏，记得点赞👍🏻<span data-emoji="cube_赞" class="hb-emoji"></span><span data-emoji="cube_赞" class="hb-emoji"></span>如果还有更多低配游戏快去评论区推荐吧！<a href="heybox://open_subject" target="_blank">#Steam秋促推荐#</a>     <a href="heybox://open_subject" target="_blank">#steam秋促#</a>    <a href="heybox://open_subject" target="_blank">#游戏推荐#</a>   <a href="heybox://open_subject" target="_blank">#steam游戏#</a>  <a href="heybox://open_subject" target="_blank">#游戏资讯#</a> <br></p>  
+</div>
+            

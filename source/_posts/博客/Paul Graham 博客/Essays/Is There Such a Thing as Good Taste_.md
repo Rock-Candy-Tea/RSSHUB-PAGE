@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=3944'
+headimg: 'https://picsum.photos/400/300?random=4604'
 author: Paul Graham 博客
 comments: false
-date: 2021-11-25 15:09:24
-thumbnail: 'https://picsum.photos/400/300?random=3944'
+date: 2021-11-26 00:26:36
+thumbnail: 'https://picsum.photos/400/300?random=4604'
 ---
 
 <div>   
@@ -93,7 +93,7 @@ of art, and enough clarity of mind to be able to ignore extraneous
 influences like the fame of the artist. And even then you'd still
 see some disagreement. People do vary, and judging art is hard,
 especially recent art. There is definitely not a total order either
-of works or of people's ability to judge them, but there is equally
+of works or of people's ability to judge them. But there is equally
 definitely a partial order of both. So while it's not possible to
 have perfect taste, it is possible to have good taste.<br><br><br><br><br><br><br><br><font color="888888">
 <b>Thanks</b> to the Cambridge Union for inviting me, and to Trevor
