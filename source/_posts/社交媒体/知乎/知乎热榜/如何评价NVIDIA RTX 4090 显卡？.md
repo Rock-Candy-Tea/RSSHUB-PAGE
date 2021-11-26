@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-3176a24503ee4bc1e15494454de3fdaa_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-801987ba42f3dfa2f0e18c0570648a48_720w.jpg'
 author: 知乎
 comments: false
-date: Thu, 25 Nov 2021 12:12:53 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-3176a24503ee4bc1e15494454de3fdaa_1440w.jpg'
+date: Fri, 26 Nov 2021 01:47:47 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-801987ba42f3dfa2f0e18c0570648a48_720w.jpg'
 ---
 
 <div>   
-诺诺诺诺的回答<br><br><p data-pid="cJt0uWJA">对于下一代显卡，大家要逐渐接受一个现实，那就是它们的功耗会大幅提升，以前觉得350W就很高了，未来会突破500W，NVIDIA下代5nm Lovelace核心的RTX 4090显卡甚至能达到550W。<br></p><p data-pid="00-P7_W_"><br>目前8nm Ampere核心的RTX 3090显卡是350W TGP功耗，指的是Total Graphics Power整卡功耗，不再是以往单纯的TDP热设计功耗，但实际测试来看350W也不是显卡的功耗极限，超频版RTX 3090有做到480W的。<br><br></p><p data-pid="wtk1i23v"><br>NVIDIA下代GPU代号Lovelace，升级台积电5nm工艺，按说能效要比三星8nm好出不少，然而整卡功耗非但没有降低，反而会大幅提升，爆料达人称其TGP功耗不低于550W，比现在高出200W。<br><br></p><p data-pid="rjAzYMLq"><br>考虑到下一代针对PCIe 5.0制定的插槽规范将供电能力提升到了600W，未来的显卡功耗达到550W级别也不是那么夸张。<br><br></p><p data-pid="8_n1Spr3"><br>不止NVIDIA疯狂提升功耗，AMD的RDNA3架构显卡也跑不了，根本原因还是为了下代显卡的性能大提升，RDNA3的旗舰Navi 31核心说性能提升150%以上，NVIDIA的RTX 4090显卡相比RTX 3090显卡也是要翻倍的，整体算下来能效还是增长的。<br><br></p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-3176a24503ee4bc1e15494454de3fdaa_1440w.jpg" data-caption data-size="normal" data-rawwidth="600" data-rawheight="399" data-default-watermark-src="https://pic4.zhimg.com/v2-6d65dcc61a8317f0af55f13772fe868f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-3176a24503ee4bc1e15494454de3fdaa_r.jpg" referrerpolicy="no-referrer"></figure><p></p><p></p>  
+狐小妖DIY装机的回答<br><br><p></p><p data-pid="_DXM5cEW">别4090了，NVIDIA能把30系的几个型号整明白了不?</p><p data-pid="QI4N1Hu9">3050/3050Ti呢？这放出消息快大半年了，腹死胎中了？同期一起发布消息的6600/6600xt可全部上了，2000元低端卡区域不管了吗，不过想想也对，低端卡哪有高端卡挣钱</p><p data-pid="xwxqPlSN">社区一片等40系，但你看看爆料的40系价格，按NVIDIA的定价趋势4090反正我买不起。</p><ul><li data-pid="jmKGgvyH">1080Ti首发5499（699美刀）</li><li data-pid="wUMnWY9P">2080Ti首发6999（999美刀）</li><li data-pid="FRYETFn1">3090首发11999（1499美刀）</li></ul><p data-pid="omHZlazs">4090定个2999美刀不过分吧？也就比3090贵了一倍，留给土豪去冲吧，我反正没钱关注。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-801987ba42f3dfa2f0e18c0570648a48_720w.jpg" data-caption data-size="normal" data-rawwidth="211" data-rawheight="299" data-default-watermark-src="https://pic2.zhimg.com/v2-c1df0f34fcabdaaadd56d1291456076f_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><ul><li data-pid="kpo2b9C6">RTX 4090，2999 美元（约 19133 元人民币+关税）；</li><li data-pid="P78NMkaW">RTX 4080 Ti，1999 美元（约 127533 元人民币+关税）；</li><li data-pid="EyMbr-ER">RTX 4080，1199 美元（约 7649元人民币+关税）；</li><li data-pid="TdQHK56E">RTX 4070，799 美元（约 5097 元人民币+关税）；</li><li data-pid="6wWGrE-P">RTX 4060 Ti，499 美元（约 3183 元人民币+关税）；</li><li data-pid="ZBbbcObG">RTX 4060，399 美元（约 2545 元人民币+关税）；</li><li data-pid="NdOYucJh">RTX 4050 Ti，329 美元（约 2099 元人民币+关税）；</li><li data-pid="XzM7JlDQ">RTX 4050，279 美元（约 1780元人民币+关税）。</li></ul>  
 </div>
             
