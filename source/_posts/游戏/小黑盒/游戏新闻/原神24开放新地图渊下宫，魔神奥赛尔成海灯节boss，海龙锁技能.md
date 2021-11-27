@@ -1,0 +1,18 @@
+
+---
+title: '原神2.4开放新地图渊下宫，魔神奥赛尔成海灯节boss，海龙锁技能'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2021/11/27/03fbcc75a2f24f649bf876d2790859bc1638006055'
+author: 小黑盒
+comments: false
+date: Sat, 27 Nov 2021 18:18:10 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2021/11/27/03fbcc75a2f24f649bf876d2790859bc1638006055'
+---
+
+<div>   
+<blockquote><p>我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。大家好，我是boyue，感谢打开这篇原神游戏文。boyue会经常分享一些原神资讯与攻略给大家，希望大家能够从中发现更多的游戏乐趣，并且帮助到大家。</p></blockquote><p>原神2.3版本刚开启，关于2.4的信息是不断爆料出来，有官方有内鬼的，这个2.3怕是一刻都待不下去了。先不说申鹤和云堇这两位人气新角色，2.4版本的内容比大家预期的多很多，不会像之前海灯节那样无趣了。</p><p>2.4版本上半部分先是稻妻的渊下宫地图开放，是的没看错，新地图来了；接着下半部分回到璃月过海灯节，岩层开放概率不大，毕竟已经有新图了，但是这次海灯节特意请了曾经的大boss魔神奥赛尔回来助兴。下面跟boyue具体来看下吧~</p><h2>渊下宫</h2><p><img class="lazy" data-height="400" src="https://i1.max-c.com/imgx/2021/11/27/03fbcc75a2f24f649bf876d2790859bc1638006055" data-width="640" referrerpolicy="no-referrer"></p><p><b>简介</b>：在珊瑚宫的下方有一个大漩涡，目前玩家会做到与它相关的任务，但还无法进入。在漩涡下面是海底世界，传说中海底人就是通过这个入口来到地面的，而在这之前，他们和龙族进行了长久的斗争（龙蜥就属于龙族的）。</p><p>渊下宫的地位类似于蒙德雪山，璃月岩层那样，属于7国的dlc部分地图，看似不大，但都有着不同寻常的意义。</p><p><img class="lazy" data-height="503" src="https://i1.max-c.com/imgx/2021/11/27/44246736e8d648678ca209c8a605a6571638006055" data-width="640" referrerpolicy="no-referrer"></p><p>根据目前内鬼爆料的信息，渊下宫并不是大家想象的那样海底世界，而是又一片岛屿。其中龙蜥研究所很明显地告诉玩家曾经生活在这里的人，是如何抵抗龙族的。</p><p><img class="lazy" data-height="477" src="https://i1.max-c.com/imgx/2021/11/27/261df91933a64a958fb5f5749830e9431638006056" data-width="640" referrerpolicy="no-referrer"></p><p>虽然是岛屿，但也有着不属于当前时代风格的建筑，科技感十足，仿佛来到了沉没的亚特兰蒂斯，联想到科技发达的坎瑞亚，这个渊下宫估计与它也有着非同寻常的关系。</p><p><img class="lazy" data-height="446" src="https://i1.max-c.com/imgx/2021/11/27/e2d8416dd5f749eea2fa5465db9d86841638006057" data-width="640" referrerpolicy="no-referrer"></p><p>天空阴沉沉的，依然继承稻妻的独有阴间特色。另外<b>这里是没有雷神像的，因为海地人不信雷神</b>，但传送点还是有的，可以放心使用。</p><h2>深海龙蜥</h2><p><img class="lazy" data-height="324" src="https://i1.max-c.com/imgx/2021/11/27/e8def079bb6c49eea2e667dbc3a4d5f21638006057" data-width="640" referrerpolicy="no-referrer"></p><p><b>简介</b>：既然是传统特色，然后怪物自然也会继续有阴间怪物了，继穿盾狼这个岩王克星之后，锁技能的怪也出现了。<b>渊下宫的海底怪物会锁住角色的e技能</b>，胡桃，阿贝多，岩王帝君等吃e技能的角色将无用武之地，而像优菈，甘雨这种的则影响不大。</p><p><img class="lazy" data-height="253" src="https://i1.max-c.com/imgx/2021/11/27/bf8c217a073f46fdbce1373ffeb72ce81638006058" data-width="415" referrerpolicy="no-referrer"></p><p>新的怪物深海龙蜥有两只，一只被打到锁e技能，<b>另一只被打到会不断流失元素能量</b>，相当于锁q技能了。对此只能说，等进深渊的那一天，天地将为之色变，两头一起来，平a到天荒地老。</p><h2>魔神奥赛尔</h2><p><img class="lazy" data-height="357" src="https://i1.max-c.com/imgx/2021/11/27/2c243d4fbfe04446af826d896cea8b2b1638006059" data-width="640" referrerpolicy="no-referrer"></p><p><b>简介</b>：一个群玉阁都砸不够的魔神奥赛尔它又回来了，这次它将成为海灯节的活动boss，最终成为烟花再次消失在人前。具体剧情就不透露了，但这个boss很明显将成为玩家有史以来挑战的最强活动boss了，之前主线靠的是剧情杀，这次不懂要靠啥了。</p><p><img class="lazy" data-height="484" src="https://i1.max-c.com/imgx/2021/11/27/6b8a67a7ffff4c0893f1e856ff3151d81638006059" data-width="640" referrerpolicy="no-referrer"></p><p>根据爆料出来的内容，<b>玩家将面对面与奥赛尔进行战斗</b>，这是否也意味着玩家的实力也开始接近七神了呢，毕竟已经在稻妻正面打败过雷神了，虽然最后靠的是洪荒之力。</p><h2>总结</h2><p>看完爆料内容，可以说这次2.4的内容相当饱满了，作为春节期间的大版本，剧情设计也可以的话，应该会获得高度好评吧，现在恨不得马上使用派蒙调时间渡过这2.3版本。</p><p>对于渊下宫与新怪物，以及魔神奥赛尔有什么看法的欢迎留言讨论额~对了，据爆料这次<b>凝光会有新皮肤上线</b>。</p><p><img class="lazy" data-height="960" src="https://i1.max-c.com/imgx/2021/11/27/e4bc2e75a3b54e889e36b5b879fa08691638006060" data-width="640" referrerpolicy="no-referrer"></p><p><br></p><blockquote><p>你是远渡重天、跨越星海之人，把历史刻在你的记忆里，就可以在未来某日，随你一同前往别的世界。关注boyue，与你一起跨越世界。</p></blockquote><p><a href="heybox://open_subject" target="_blank">#冬日手游安利季Part1#</a></p>  
+</div>
+            
