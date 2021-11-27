@@ -1,0 +1,19 @@
+
+---
+title: 'COMPETENCIA DIGITAL EN EL PROFESIONAL DEL DERECHO'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=2ab94f68-05c0-4192-9e46-3c43d3230bfe&size=gallery'
+author: Mind42
+comments: false
+date: 2021-11-27 00:24:57
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=2ab94f68-05c0-4192-9e46-3c43d3230bfe&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=2ab94f68-05c0-4192-9e46-3c43d3230bfe&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
