@@ -35,7 +35,10 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 <p>The promotional activity is based on a method of acquiring consent to the use of user data for commercial purposes without providing the consumer with the possibility of a prior and express choice on sharing their data. This acquisition architecture, prepared by Apple, does not make it possible to exercise one’s will on the use of one’s data for commercial purposes. Therefore, the consumer is conditioned in the choice of consumption and undergoes the transfer of personal information, which Apple can dispose of for its own promotional purposes carried out in different ways.</p>
 </blockquote>
 <p>The fine is pocket change to Apple, but is the maximum sum permitted under the law.</p>
-<p>We’ve reached out to Apple for comment, and will update with any response.</p>
+<p>Apple told us that it complies with all data protection laws, and said it will appeal the ruling.</p>
+<blockquote class="wp-block-quote">
+<p>We believe the Authority’s view is wrong and will be appealing the decision. Apple has a long-standing commitment to the privacy of our users and we work incredibly hard to design products and features that protect customer data. We provide industry-leading transparency and control to all users so they can choose what information to share or not, and how it is used.</p>
+</blockquote>
 <p><em>Photo: <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a>/<a href="https://unsplash.com/s/photos/data-center?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://amzn.to/3FEmEGk"><img class="aligncenter wp-image-824955" src="https://9to5toys.com/wp-content/uploads/sites/5/2021/11/S7-750x150-1.jpg" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
