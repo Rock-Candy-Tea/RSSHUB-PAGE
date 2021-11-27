@@ -21,7 +21,7 @@ Ink正在开发一款尚未公布的漫威网游。
 EnaD Global 7近日在向投资人展示未来目标时，透露了有关全新漫威IP的消息。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637979623_548414.jpg" alt="《DC宇宙Online》工作室正在开发3A级漫威网游" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637979623_548414.jpg" alt="《DC宇宙Online》工作室正在开发3A级漫威网游" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 介绍中称，这款由Dimensional Ink工作室开发的漫威IP网络游戏，开发团队由Jack 
