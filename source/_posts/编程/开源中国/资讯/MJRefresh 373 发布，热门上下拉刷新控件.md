@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1784'
+headimg: 'https://picsum.photos/400/300?random=4584'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 07:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1784'
+thumbnail: 'https://picsum.photos/400/300?random=4584'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <div style="margin-left:0; margin-right:0"> 
+                                                                                            <div style="margin-left:0; margin-right:0"> 
  <div style="margin-left:0; margin-right:0"> 
   <div style="margin-left:0; margin-right:0"> 
    <p style="margin-left:0; margin-right:0">MJRefresh 是一个<span style="color:#4d4d4d">上下拉刷新效果控件，</span><span style="color:#222222">可以控制下拉刷新和上拉加载的文案的内容、文案是否显示，以及文案的颜色和字体。</span>MJRefresh 3.7.3 发布了，主要带来如下改变：</p> 

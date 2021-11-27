@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8061'
+headimg: 'https://picsum.photos/400/300?random=9705'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 07:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8061'
+thumbnail: 'https://picsum.photos/400/300?random=9705'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <div style="margin-left:0; margin-right:0"> 
+                                                                                            <div style="margin-left:0; margin-right:0"> 
  <div style="margin-left:0; margin-right:0"> 
   <div style="margin-left:0; margin-right:0"> 
    <p style="margin-left:0; margin-right:0"><span style="color:#333333">Mastodon 3.4.4 发布了。Mastodon 是一个免费的开源社交网络程序，一个商业平台的替代方案，避免了单个公司垄断沟通的风险。无论选择哪个服务器，都可以与其他人进行互动。通过运行自己的 Mastodon 实例，可无缝地参与到社交网络中。</span></p> 

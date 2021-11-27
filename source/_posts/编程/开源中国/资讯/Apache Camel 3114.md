@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=291'
+headimg: 'https://picsum.photos/400/300?random=5475'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 08:57:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=291'
+thumbnail: 'https://picsum.photos/400/300?random=5475'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Apache Camel 3.11.4 现已发布。Apache Camel 是一个开源的面向消息的中间件框架，它有一个基于规则的路由和调解引擎，提供了一个基于 Java 对象的企业集成模式的实现，使用应用编程接口来配置路由和调解规则。</p> 
+                                                                                            <p>Apache Camel 3.11.4 现已发布。Apache Camel 是一个开源的面向消息的中间件框架，它有一个基于规则的路由和调解引擎，提供了一个基于 Java 对象的企业集成模式的实现，使用应用编程接口来配置路由和调解规则。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">在面向服务的架构项目中，Camel 经常与 Apache ServiceMix、Apache ActiveMQ 和 Apache CXF 一起使用。</p> 
 <p><strong><span style="background-color:#ffffff; color:#182026">主要更新内容</span></strong></p> 
 <ul> 

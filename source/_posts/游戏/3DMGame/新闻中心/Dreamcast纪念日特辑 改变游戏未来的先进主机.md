@@ -1,0 +1,162 @@
+
+---
+title: 'Dreamcast纪念日特辑 改变游戏未来的先进主机'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20211127/1637985386_678888.jpg'
+author: 3DMGame
+comments: false
+date: Sat, 27 Nov 2021 04:01:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211127/1637985386_678888.jpg'
+---
+
+<div>   
+<p style="text-indent:2em;">
+11月27日是Dreamcast的23岁生日！为纪念23年前Dreamcast的诞生，在此献上关于Dreamcast的特辑故事。
+</p>
+<p style="text-indent:2em;">
+“Dreamcast”是世嘉推出的最后一款家用游戏机。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985386_678888.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+实现划时代立体画面的强大3D性能、默认搭载的网络通信功能等，“Dreamcast”上市时便集合当时的诸多先进功能于一身，但它还是成为了世嘉的绝唱，世嘉就此退出了持续20年的家用游戏机开发业务。作为世嘉的第七台家用游戏机，“Dreamcast”的开发历程，以及受到好评却依旧成为世嘉绝唱的原委，将在此一一说明。
+</p>
+<p style="text-indent:2em;">
+<strong>重视3DCG性能的硬件设计以及软件开发简便性的改善</strong>
+</p>
+<p style="text-indent:2em;">
+“世嘉土星”发售后，世嘉也在观察市场状况，为下一世代主机的开发做准备。世嘉收集了软件开发第一线工作人员的想法与日本和海外市场、发行商的意见，在摸索对下一世代主机有哪些需求的同时，开始了主机的开发。
+</p>
+<p style="text-indent:2em;">
+然而，“世嘉土星”因难以维持发售时的势头而陷入苦战的情况，让新主机的开发也不得不加快了脚步。尽管有着豪华的硬件，但面对“世嘉土星”复杂的软件开发，第一线的开发人员表示“在熟悉硬件上花费了较多时间”。而且由于“世嘉土星”原本是作为2D主机进行开发的，如果无法理解其”特点“，便无法充分发挥其3D性能。
+</p>
+<p style="text-indent:2em;">
+于是新主机3D功能的研发目标被定为“轻松进行开发”的同时“控制好成本”。首先，为了应对在电脑上逐渐成为主流的3DCG的需求，世嘉方面开始探索与海外显示芯片开发厂商合作的可能性，并组建开发团队前往电脑技术领先的北美地区进行探索。另一方面，世嘉还在日本组建了一只开发团队，运用以往的硬件开发知识经验进行开发，以两个开发团队并行的方式进行新主机的开发设计。
+</p>
+<p style="text-indent:2em;">
+<strong>代号名“KATANA”</strong>
+</p>
+<p style="text-indent:2em;">
+次世代主机的开发计划在开始时被命名为“DURAL”，尽管在开发初期，世嘉公司内部比较倾向于北美团队使用美国图像芯片，代号为“Black belt”的硬件架构，但最终还是选择了日本团队名为“GUPPY”的硬件方案。随后，为了让公司内部团结一心推进开发，又起用了全新的代号，名为“KATANA”。
+</p>
+<p style="text-indent:2em;">
+“KATANA”的CPU与“世嘉土星”相同，都是日立生产的芯片。在图形技术方面，DC采用了在多边形表面贴图，并将背面多边形省略的方法，让DC能够以较少的内存和耗电量，发挥出优秀的性能。图形芯片使用了来自NEC的新型号产品“Power<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a>2”。音响则使用了雅马哈的super intelligent sound processor作为声音处理芯片。
+</p>
+<p style="text-indent:2em;">
+“KATANA”在各公司人才的帮助下，开发迅速。尽管在当时主机的发售日还没有决定，但战略上，为了在次世代主机市场上挽回劣势，主机的开发有必要快于竞争对手。“KATANA”每秒可以处理300万个多边形（“世嘉土星”处理带贴图多边形的数量为每秒10万个），音响由于使用了64通道的ADPCM，其性能已经超越了当时世嘉的街机基板“MODEL3”。
+</p>
+<p style="text-indent:2em;">
+此外， 系统开发部的人员也得到了加强。为了回应第一线开发人员的意见，对程序库进行了整理同时开发了简易的自家用OS，同时为开发者提供更加便携的开发机，在游戏开发的“简便性”上，投入了比以往更多的精力。
+</p>
+<p style="text-indent:2em;">
+<strong>默认搭载网络通信功能</strong>
+</p>
+<p style="text-indent:2em;">
+当时，针对日新月异的3DCG技术进行开发的硬件产品扎堆，有人推测将来会出现产品功能雷同的问题。为此，世嘉内部也在讨论是否要为“KATANA”加入一个极具魅力的功能——“play＆communication”，也就是默认搭载网络通信功能。
+</p>
+<p style="text-indent:2em;">
+网络游戏在当时还在以电脑为中心慢慢普及，如果DC能作为游戏机打开网络游戏的市场，想必对延长产品寿命有极大帮助。为此，DC还加入了电子邮件、网络浏览器、网络留言板等功能，希望借此能成为用户第一台用来接触网络的设备。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985426_902592.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+世嘉从“MEGADRIVE”时代就开始了与网络相关的各种尝试。但这些尝试终究只是主机的扩展追加项目，与其他公司的游戏机并无区别。尽管通过这些尝试得到了许多相关的知识经验，但仍然有难题等待开发团队解决。当时，在公司内部也有论调认为给“KATANA”搭载网络通信功能一事应该慎重对待。最终开发团队决定，“KATANA”在日本国内的型号搭载最高网络速度33.6kbps的调制解调器，海外型号则搭载最高网络速度56kbps的调制解调器。并且考虑到日后硬件性能升级的情况，调制解调器还被设计成可拆卸形态。
+</p>
+<p style="text-indent:2em;">
+为了让用户使用“KATANA”计划理念中重要的网络功能，世嘉加快了集合电子邮件和浏览器等功能的软件“Dream Passport”的开发脚步。“Dream Passport”以与主机本体同捆的形式为用户提供网络连接、浏览器、电子邮件等服务。“Dream Passport”还将默认内置到各游戏中，而使用网络功能的在线游戏在此时也正式进入开发阶段。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985445_382484.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+此外，为了加快用户对网络的认识并减轻用户的负担，世嘉还在此时新增了网络供应商业务，也就是“SEGA Provider”。“Dream Passport”中提前内置了“SEGA Provider”以及全世界的合作供应商的数据，降低了对网络不熟悉的用户的使用门槛。由于可以免费使用，也为用户接触网络创造了条件。
+</p>
+<p style="text-indent:2em;">
+<strong>大规模的宣传活动与“Dreamcast”的发售</strong>
+</p>
+<p style="text-indent:2em;">
+次世代主机的名称，通过让玩家给主机命名的活动，选择了含有“Dream”（梦想）与“broadcast”（传播）含义的两个词组合在一起，取名为“Dreamcast”，并于1998年5月发表。
+</p>
+<p style="text-indent:2em;">
+“Dreamcast""在宣传上投入的费用与以往相比大幅提高，进行了大规模的宣传活动。5月21日，各早报都刊登出了“世嘉会就此一蹶不振吗？”这一标题鲜明的广告，并配上了战国武士们战死的图片。同一天下午，世嘉举办发布会，“Dreamcast”正式公开。而在名字公开后的第二天（22号），以“11月X日 逆袭，Dreamcast。”为标语，众多武士站立在战场上的广告出现在各大报纸。进入六月后，自虐而又大胆，富有冲击力的“汤川专务”系列电视广告开始播出。在广告中，小学生们对世嘉专务说的“世嘉也太土了！还是PS更好玩”、“回家玩PS喽！”等台词，在当时引发了热议。世嘉当时的专务执行役员汤川一英以“汤川专务”的形象在广告中出演，其哀愁又让人难以讨厌的角色塑造也获得了极大的反响。“Dreamcast”此时在整个日本社会中得到了极大的关注。
+</p>
+<p style="text-indent:2em;">
+在通过广告创造话题，参加东京电玩展等活动展示主机的同时，DC的开发、制造也在如火如荼地进行。然而，在主机发售前，最为重要的“Dreamcast”本体的供给却出现了问题。CPU“SH-4”与图像芯片“PowerVR2”的生产速度无法达到预期，导致DC在发售时无法保证当初预期的出货数量。尽管如此，世嘉方面还是认为有必要在1998年内发售DC以扩大对对手的先发优势。之后，尽管没能赶上当初决定的发售日，“Dreamcast”还是在1998年11月27日以29,800日元的价格正式上市。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985485_186453.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+大规模的宣传攻势也产生了效果，11月27日发售日当天在秋叶原举行的由“汤川专务”亲手将主机交给玩家的店头活动聚集了众多玩家，诸多报社、电视台对此也进行了报道。将“汤川专务”印到外包装上这样前所未有的大胆设计也在当时引发了讨论。在发售后，世嘉还以“Dreamcast”的名义，通过节目赞助等方式积极开展媒体宣传。
+</p>
+<p style="text-indent:2em;">
+DC上市时，世嘉方面发售了街机3D格斗游戏《Virtua Fighter 3tb》最新版本的家用机移植版与和电影合作的《GODZILLA
+GENERATIONS》两款作品，其中《GODZILLA GENERATIONS》的“Visual Memory”先于游戏本体发售。而第三方的作品则有《Pen
+PenTriIcelon》与《July》两款游戏。之后的12月发售了《SONIC ADVENTURE》等游戏，到DC上市后最初的年末商战为止，DC上共计发售了8款作品。尽管依旧处于供给不足的状态，但DC在此时也已经售出了40万台。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985504_657075.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>世嘉主机史上最丰富的游戏阵容</strong>
+</p>
+<p style="text-indent:2em;">
+到了1999年，使用WindowsCE的《SEGA RALLY 2》作为DC上的首个网络对战游戏进入了市场。此外，在支持钓竿控制器的《Get Bass》还有移植自“MODEL2”基板的《Dynamite Deka2》发售时，DC的售价也下调至19,900日元，世嘉希望借此进一步推动DC的普及。第三方游戏中，也出现了支持网络对战的《FRAME GRIDE》（FromSoftware），移植自街机的对战游戏《Psychic Force》（TAITO）以及《SOULCALIBUR》（NAMCO）等作品，在玩家中反响热烈。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985529_394317.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+而到了1999年年末，从“世嘉土星”时代就开始开发的某款大作也正式发售，那就是《莎木 一章 横须贺》。发售于1999年的本作进一步提高了《Virtua Fighter》系列积累的技术，在游戏中3DCG的角色在由3D建模构建的横须贺市中展开自己的故事，作品的制作规模前所未有。不仅如此，开放世界的概念也在本作中首次出现，对日后的游戏业界产生了巨大影响。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985558_893369.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+此外，因为独特的风格而引起热议，智慧生命体游戏《SEAMAN》（VIVARIUM）也让人记忆犹新。游戏通过麦克风设备与声音识别技术，使用玩家游戏历史记录与玩家进行各种对话的独特游戏方式以及游戏独特的艺术风格，使其多次登上各大电视节目。该作品还发售了限定版主机，是DC上最具话题性的作品。除了《SEAMAN》外，DC上还发售了许多人气作品，到1999年DC上发售的游戏数量已经超过了一百款。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985581_939252.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985588_886580.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985595_288963.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+之后，世嘉在2000年年末发售了支持网络在线游玩，拥有丰富动作要素的RPG《梦幻之星Online》。本作既可以1人单独游玩，也支持最多4人同时在线游玩。作为对后世网络在线RPG游戏产生重大影响的作品，本作可以改变身高与体型的角色创建系统、支持多语言的关键词选择系统、通过符号进行沟通交流的功能等等，这些为初次接触网络在线RPG游戏的玩家做出的种种设计是本作的一大特征。
+</p>
+<p style="text-indent:2em;">
+</p><p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211127/1637985638_701045.jpg" alt="Dreamcast纪念日特辑 改变游戏未来的先进主机" referrerpolicy="no-referrer">
+</p>
+<p></p>
+<p style="text-indent:2em;">
+<strong>退出家用游戏机业务</strong>
+</p>
+<p style="text-indent:2em;">
+受2000年年末商战结果影响，世嘉于2001年1月31日举行了“结构改革计划说明会”，并在会上发表“Dreamcast”停止生产的决定。同时宣布退出家用游戏机业务。在会上世嘉还宣布今后将作为“内容供应商”在其他公司的主机平台上发布游戏。
+</p>
+<p style="text-indent:2em;">
+在转换为内容供应商的同时，世嘉在3月将“Dreamcast”的售价下调至9,900日元，以在线贩卖游戏机本体、周边设备和游戏软件的e shop网站“Dreamcast Direct”为中心继续进行销售。到了2002年，《樱花大战4 ～恋爱吧少女～》等作品发售后，DC也依旧没有停止销售。最终，作为世嘉最后的家用游戏机，“Dreamcast”累计销售量超过1,000万台。
+</p>
+<p style="text-indent:2em;">
+<strong>“Dreamcast”留下了什么</strong>
+</p>
+<p style="text-indent:2em;">
+世嘉退出了家用游戏机业务。“Dreamcast”也成了世嘉最后的主机。
+</p>
+<p style="text-indent:2em;">
+但“Dreamcast”所采用的硬件，在街机方面发展出了“NAOMI”的后继机型“NAOMI2”，搭载了GD Drive的NAOMI2一直到2009年左右都在推出新作品，是一款相当长寿的产品。此外DC的CPU所使用的“SH”系列与图形芯片使用的“PowerVR”系列的后继型号在日后的手机行业和智能手机行业也都相继获得了成功。而以《梦幻之星Online》为首，在“Dreamcast”上发布的众多游戏在日后也出现在其他平台上，到今天依旧受到众多玩家的喜爱。
+</p>
+<p style="text-indent:2em;">
+推出了“Dreamcast”并在网络方面进行探索的世嘉，以及其他相关企业的技术与经验想必在今后也能继续发挥作用并不断发展创新。
+</p>          
+</div>
+            

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2622'
+headimg: 'https://picsum.photos/400/300?random=2358'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 08:11:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2622'
+thumbnail: 'https://picsum.photos/400/300?random=2358'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>GhostBSD 是一个基于 FreeBSD 的类 Unix 操作系统，它的目标是易于安装和易于使用，并十分注重安全、隐私、稳定、可用性和开放。在 GhostBSD 18.10 之前，该项目是基于 FreeBSD 的。2018年，宣布未来版本的操作系统将基于 TrueOS。2020年，随着 TrueOS 的停产，GhostBSD 转回了 FreeBSD。</p> 
+                                                                                            <p>GhostBSD 是一个基于 FreeBSD 的类 Unix 操作系统，它的目标是易于安装和易于使用，并十分注重安全、隐私、稳定、可用性和开放。在 GhostBSD 18.10 之前，该项目是基于 FreeBSD 的。2018年，宣布未来版本的操作系统将基于 TrueOS。2020年，随着 TrueOS 的停产，GhostBSD 转回了 FreeBSD。</p> 
 <p>GhostBSD 21.11.24 更新内容包括：</p> 
 <h3>特性</h3> 
 <ul> 

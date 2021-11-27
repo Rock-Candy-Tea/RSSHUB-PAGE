@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5599'
+headimg: 'https://picsum.photos/400/300?random=3988'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 07:11:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5599'
+thumbnail: 'https://picsum.photos/400/300?random=3988'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <div style="margin-left:0; margin-right:0"> 
+                                                                                            <div style="margin-left:0; margin-right:0"> 
  <div style="margin-left:0; margin-right:0"> 
   <div style="margin-left:0; margin-right:0"> 
    <p style="margin-left:0; margin-right:0">webpack 5.64.4 现已发布。webpack 是一个模块打包器，主要目的是在浏览器上打包 JavaScript 文件。</p> 

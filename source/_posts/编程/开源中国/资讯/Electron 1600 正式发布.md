@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2021/1127/081635_bztZ_27201
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Electron 16.0.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.electronjs.org%2Fblog%2Felectron-16-0" target="_blank">已正式发布</a>。更新内容包括将 Chromium 升级至 96、将 Node.js 升级至 v16.9.1，以及将 V8 引擎升级至 v9.6 等。</p> 
+                                                                                            <p>Electron 16.0.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.electronjs.org%2Fblog%2Felectron-16-0" target="_blank">已正式发布</a>。更新内容包括将 Chromium 升级至 96、将 Node.js 升级至 v16.9.1，以及将 V8 引擎升级至 v9.6 等。</p> 
 <p><strong>发布节奏变化</strong></p> 
 <p style="text-align:start"><span><span><span style="color:#1c1e21"><span><span><span><span><span><span><span><span><span><span><span><span><span><span>从 Electron 15 开始，Electron 将每 8 周发布一个新的主要稳定版本，点此查看<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.electronjs.org%2Fblog%2F8-week-cadence" target="_blank">完整的详细信息</a>。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
 <p style="text-align:start"><span><span><span style="color:#1c1e21"><span><span><span><span><span><span><span><span><span><span><span><span><span><span>此外，Electron 已将支持的版本从最新的三个版本更改为最新的四个版本，直到 2022 年 5 月。关于 Electron 版本控制的更多详细信息，<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.electronjs.org%2Fdocs%2Flatest%2Ftutorial%2Felectron-versioning" target="_blank">可查阅版本控制文档</a>。2022 年 5 月之后，官方表示将恢复回支持最新的三个版本。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 

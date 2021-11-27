@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6198'
+headimg: 'https://picsum.photos/400/300?random=2636'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6198'
+thumbnail: 'https://picsum.photos/400/300?random=2636'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Ant Design 4.17.2 现已发布，主要变化如下：</p> 
+                                                                                            <p>Ant Design 4.17.2 现已发布，主要变化如下：</p> 
 <ul> 
  <li>修复 Form <code>wrapperCol=&#123;&#123; span: 24 &#125;&#125;</code> 时样式错乱的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fant-design%2Fant-design%2Fpull%2F32981" target="_blank">#32981</a></li> 
  <li>修复 Modal <code>centered</code> 略微偏上的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fant-design%2Fant-design%2Fpull%2F33022" target="_blank">#33022</a></li> 

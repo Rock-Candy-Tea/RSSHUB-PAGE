@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6922'
+headimg: 'https://picsum.photos/400/300?random=6723'
 author: 开源中国
 comments: false
 date: Sat, 27 Nov 2021 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6922'
+thumbnail: 'https://picsum.photos/400/300?random=6723'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">Git for Windows 2.34.1 现已发布，主要更新内容如下：</span></p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">Git for Windows 2.34.1 现已发布，主要更新内容如下：</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>New Features</strong></p> 
 <ul> 
  <li>随附 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit%2Fgit%2Fblob%2Fv2.34.1%2FDocumentation%2FRelNotes%2F2.34.1.txt" target="_blank">Git v2.34.1</a>。</li> 
