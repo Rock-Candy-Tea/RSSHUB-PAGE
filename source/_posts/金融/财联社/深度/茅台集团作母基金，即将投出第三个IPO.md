@@ -5,15 +5,15 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=3338'
+headimg: 'https://picsum.photos/400/300?random=452'
 author: 财联社
 comments: false
 date: Sat, 27 Nov 2021 13:53:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3338'
+thumbnail: 'https://picsum.photos/400/300?random=452'
 ---
 
 <div>   
-<div class="m-b-10"><p>《科创板日报》（记者 陈美）讯，风口之下，没有哪一家集团对投资是不动心的。</p>
+<div class="m-b-10"><p><strong>《科创板日报》（记者 陈美）讯，</strong>风口之下，没有哪一家集团对投资是不动心的。</p>
 <p>近日，备受资本市场关注的茅台就投出了一家童装上市公司。但此茅台，并非彼茅台。投出这家童装上市公司的是茅台集团的下属公司——茅台建信（贵州）投资基金管理有限公司。</p>
 <p>11月26日，《科创板日报》记者贵州茅台，其工作人员表示，这是集团下的一个基金公司，和上市公司没有关系。</p>
 <p>茅台集团成为母基金</p>
