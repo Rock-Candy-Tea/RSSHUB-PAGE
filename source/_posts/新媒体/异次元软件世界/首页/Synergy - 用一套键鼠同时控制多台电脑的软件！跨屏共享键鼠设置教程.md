@@ -16,7 +16,7 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2021/synergy/synergy.pn
 <ul id="link1111"><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/blackfriday.html">黑色星五期优惠汇总必看清单</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5606">群晖 NAS 必买好价</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/wd14tb">西数 14TB 硬盘神价</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/3880">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/aliyunsale">阿里云 0.25 折起</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD17 官网 8 折</a>  |  
