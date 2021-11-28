@@ -1,0 +1,18 @@
+
+---
+title: '养猫一个月多少预算，大学生_刚工作的养猫需要注意什么？-peter.sham的回答：目前两只银渐层，三只田园猫，外加两只博美狗。 猫粮买三十来块五斤的国产牌子，狗...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-babc7c8e424877e13d81283c73a19c89_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 28 Nov 2021 07:44:02 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-babc7c8e424877e13d81283c73a19c89_1440w.jpg'
+---
+
+<div>   
+<strong>养猫一个月多少预算，大学生/刚工作的养猫需要注意什么？</strong><br>peter.sham的回答<br><p data-pid="RDTi0Cn4">目前两只银渐层，三只田园猫，外加两只博美狗。</p><p data-pid="Ihi6gq_s">猫粮买三十来块五斤的国产牌子，狗罐头六罐二十多块，猫砂七块钱十斤，猫笼闲鱼买的四层七十块。</p><p data-pid="bHyjmJ0K">猫粮只给银渐层日常，一包可吃两个月，偶尔夹杂狗罐头拌剩饭，或者人吃的鱼肉鸡肉拌饭喂，专业四层笼子养着，一个月一袋十斤装猫砂，疫苗自己施打，国产三联两猫合共一百块，只打一次永不续打，狂犬疫苗居委免费提供，每天出笼放风三小时，享受阳光SPA，享有专门医保，有病由本人亲自喂药打针。</p><p data-pid="RCmJV3H9">三只田园猫散养院子，提供简陋猫屋，下雨刮风可允许回有瓦遮头的地方歇脚，日常给剩饭剩肉剩骨，心情好给两块鱼肉，方圆一公里可自由抓野味，自由生活自由繁殖，生了小猫闲鱼一只换一袋猫粮，不卖钱，以猫养猫，卖不出的继续豢养，组成家园守护队，无为而治，有病不医，实现真正民主自由，敢拆家抓人不守规矩的三次再犯赶出家园，扔进森林弃养。</p><p data-pid="eQQFAFxy">俩狗养在十来平方露台，有独立狗屋，狗粮三十块五斤国产牌子，配合狗罐头拌剩饭，偶尔有鸡汤，骨头去味喂，每月享受遛狗服务两次，两狗生过一窝三只，卖了五千块，因而每月享受一支二十五块国产营养膏津贴，豢养六年，从来不打疫苗，负责警卫家园，偶尔逗乐，忠心耿耿！</p><p data-pid="JIWtz_An">本人养宠物的目的只有一个，陶冶性情，消遣娱乐，绝不把宠物当主子，当祖宗，不听话就教，教不听就打，打不服就滚，猫不喜欢待我家可以自由离去，又要待又要凶的本人毫不犹豫扔掉。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-babc7c8e424877e13d81283c73a19c89_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-4bf862f02e2f1d5ecff1c75f82e1fe46_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-babc7c8e424877e13d81283c73a19c89_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-eabf5062b2968296ee5a3f5cfbe4ceeb_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-29667fcf36e3b94bdba93cf00e1aebc4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-eabf5062b2968296ee5a3f5cfbe4ceeb_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-654e80ca0cbed0e509e42e2eb61c79cd_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-8e9ac94ae4dae7c74d11590873728919_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-654e80ca0cbed0e509e42e2eb61c79cd_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2afb7cef66c258ee89fc987f3bb31362_1440w.jpg" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-ca66deb813ab1ddcd24ae43adb7fd2ac_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-2afb7cef66c258ee89fc987f3bb31362_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-afccff0b835639102c3fc361ce6c9215_1440w.jpg" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-66587fcf7236f19261d0b1489aabf8c6_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-afccff0b835639102c3fc361ce6c9215_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
