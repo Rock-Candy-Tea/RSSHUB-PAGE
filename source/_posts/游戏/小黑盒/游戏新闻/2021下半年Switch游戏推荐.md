@@ -1,0 +1,18 @@
+
+---
+title: '2021下半年Switch游戏推荐'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/11/28/6b848092bafe2b1afebc032f6c14b2ec/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 28 Nov 2021 21:09:15 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/11/28/6b848092bafe2b1afebc032f6c14b2ec/thumb.jpeg'
+---
+
+<div>   
+<ol><li>马里奥高尔夫：超级冲刺</li><li>怪物猎人物语2: 毁灭之翼</li><li>马里奥派对 超级巨星</li><li><b>零：濡鸦之巫女</b><br></li><li>蜡笔小新 我与博士的暑假 无尽的七日之旅<br></li></ol><h2>《马里奥高尔夫：超级冲刺（Mario Golf：Super Rush）》<br></h2><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/11/28/6b848092bafe2b1afebc032f6c14b2ec/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><h3>价格：港版429 约合人民币357元</h3><blockquote></blockquote><blockquote><p>游戏介绍</p><p>：本作为《马里奥高尔夫》系列新作，画面更为精细，并且为了增加乐趣，也加入了高尔夫竞速模式，玩家击球后要马上冲　向落球点，不同角色还有不同的冲刺技能总共有16名超级马里奥系列角色可供选择，最多支持4人对战，适合聚会游玩。另外还有冒险模式加入，允许玩家自己创建 Mii 形象进行游戏，从零开始培养角色完成NPC给予的任务获取经验不断提升自己。</p></blockquote><p><img class="lazy" data-height="360" src="https://imgheybox.max-c.com/bbs/2021/11/28/2dbf25e8af070a54d900f886d8a04da6/thumb.jpeg" data-width="640" referrerpolicy="no-referrer"></p><blockquote><p><br></p></blockquote><h2>《怪物猎人物语2: 毁灭之翼（MONSTER HUNTER STORIES 2: WINGS OF RUIN）》</h2><p><img class="lazy" data-height="366" src="https://imgheybox.max-c.com/bbs/2021/11/28/22a9e63d955bcb13121be554cc6a4077/thumb.jpeg" data-width="650" referrerpolicy="no-referrer"></p><h3>价格：港版468 约合人民币389元</h3><blockquote><p>游戏介绍</p><p>：本作是《怪物猎人》衍生的《怪物猎人物语》RPG游戏系列的作品，距离该系列上一作品在3DS发售已过5年。时间线设定在前作故事的四年之后，背景舞台来到了所有火龙都远去他方的世界，纳比露与前作的主人公告别后，在周游各地的旅途中与主人公们相遇。</p><p>　　继承了伟大骑士「烈度」之血统的主角，将命中注定地跟被托付了龙蛋的龙人族少女艾娜相遇。从龙蛋孵化的火龙正如传说所言，拥有漆黑的翅膀，样貌跟「破灭火龙」如出一辙。为了查明在世界各地发生的异变及传说的真相，主角一行人踏上旅途，并会编织出一个有关破灭和希望的故事。</p></blockquote><p><img class="lazy" data-height="433" src="https://imgheybox.max-c.com/bbs/2021/11/28/7dc63f6a1507cdcff624806a704292df/thumb.jpeg" data-width="790" referrerpolicy="no-referrer"></p><h2>《马里奥派对 超级巨星（Mario Party Superstars）》</h2><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/11/28/601be6a49b4f5d5a455158a7d7d53fad/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><h3>价格：港版429 约合人民币357元</h3><blockquote></blockquote><blockquote><p>游戏介绍</p><p>:《马里奥派对》系列是一款纯粹为聚会而生的休闲游戏，本作这次收录了 100 个小游戏，是从 N64 的初代《马里奥派对》至 Wii U 的《马里奥派对 10》中严选出来，支持本地联机和在线游玩。</p></blockquote><p><img class="lazy" data-height="646" src="https://imgheybox.max-c.com/bbs/2021/11/28/dfbd506aa03a183da835c3afadc93c4e/thumb.jpeg" data-width="650" referrerpolicy="no-referrer"></p><h2><br></h2><h2>《零：濡鸦之巫女（零 〜濡鸦ノ巫女〜）》</h2><p><img class="lazy" data-height="928" src="https://imgheybox.max-c.com/bbs/2021/11/28/ea470509ef01e702fc2c0f758aa66cb4/thumb.jpeg" data-width="658" referrerpolicy="no-referrer"></p><p><b><br></b></p><blockquote><p>游戏介绍</p><p>：本作是2014年WIIU独占游戏《零：濡鸦之巫女》的高清重置版，故事讲述了女主角受人委托，前往日上山寻找一个遭遇了"神隐"的人，从而踏入了“现世”与“隐世”的交界之地，并在重重迷雾之中寻找怪谈中隐藏的真实过往。</p></blockquote><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/11/28/e280eceb5ee197bf1e5b49542b3dc0f3/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><h2>《蜡笔小新 我与博士的暑假 无尽的七日之旅》</h2><p><img class="lazy" data-height="360" src="https://imgheybox.max-c.com/bbs/2021/11/28/e8c603423371fd072ee97e7431ed105c/thumb.jpeg" data-width="640" referrerpolicy="no-referrer"></p><h3>价格：日版6580 约合人民币383元</h3><blockquote><p>游戏介绍</p><p>：本作为动画《蜡笔小新》衍生游戏，由《我的暑假》系列制作人：凌部和 监制打造。玩家将操控小新在日本九州和家人尽情享受小镇的田园风光，度过一个令人难忘的暑假。</p></blockquote><p><img class="lazy" data-height="629" src="https://imgheybox.max-c.com/bbs/2021/11/28/1f1fea3228fb507c37dcd7b3c9eaf028/thumb.jpeg" data-width="1132" referrerpolicy="no-referrer"></p>  
+</div>
+            
