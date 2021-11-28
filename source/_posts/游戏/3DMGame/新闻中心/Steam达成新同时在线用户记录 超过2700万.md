@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211128/1638054345_4746
 Steam创下了2700万同时在线用户的新纪录。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638054345_474691.jpg" alt="Steam达成新同时在线用户记录 超过2700万" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638054345_474691.jpg" alt="Steam达成新同时在线用户记录 超过2700万" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 根据SteamDB的数据，今天Valve平台的同时在线用户达到了27182165人的历史新高。
