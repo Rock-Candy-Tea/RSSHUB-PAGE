@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/3fff9ec4-9a0d-49af-9cb9-d237aa549d0b.jpg'
 author: 机核网
 comments: false
-date: 2021-11-28 09:08:41
+date: 2021-11-28 10:08:41
 thumbnail: 'https://image.gcores.com/3fff9ec4-9a0d-49af-9cb9-d237aa549d0b.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/3fff9ec4-9a0d-49af-9cb9-d237aa549d0b.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fkj8o" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fkj8o" data-offset-key="qr5l-0-0"><div data-offset-key="qr5l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="qr5l-0-0"><span data-text="true">在《弹丸论破》10周年活动上，Spike Chunsoft 公布了新作：“暗黑幻想推理游戏”《超侦探事件簿Rain Code》（探偵事件簿レインコード）。</span></span></div></div>
+<img src="https://image.gcores.com/3fff9ec4-9a0d-49af-9cb9-d237aa549d0b.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-dqdgf" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="dqdgf" data-offset-key="qr5l-0-0"><div data-offset-key="qr5l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="qr5l-0-0"><span data-text="true">在《弹丸论破》10周年活动上，Spike Chunsoft 公布了新作：“暗黑幻想推理游戏”《超侦探事件簿Rain Code》（探偵事件簿レインコード）。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/c8fb12c3-7f43-44b0-b5cd-96c7e34c842f.jpg" alt referrerpolicy="no-referrer">
 
@@ -33,6 +33,6 @@ thumbnail: 'https://image.gcores.com/3fff9ec4-9a0d-49af-9cb9-d237aa549d0b.jpg'
 <figure>
 <img src="https://image.gcores.com/f1e59e48-3646-4393-80cf-69368ba77ae2.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="fkj8o" data-offset-key="78k84-0-0"><div data-offset-key="78k84-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="78k84-0-0"><span data-text="true">该作由Spike Chunsoft和Tookyo Games共同开发，由《弹丸论破》制作团队的小高和刚负责剧本，高田雅史负责音乐，小松崎类负责设计。目前该作的平台、价格、发售日尚未公布。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block story_block-text " data-block="true" data-editor="dqdgf" data-offset-key="78k84-0-0"><div data-offset-key="78k84-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="78k84-0-0"><span data-text="true">该作由Spike Chunsoft和Tookyo Games共同开发，由《弹丸论破》制作团队的小高和刚负责剧本，高田雅史负责音乐，小松崎类负责设计。目前该作的平台、价格、发售日尚未公布。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
