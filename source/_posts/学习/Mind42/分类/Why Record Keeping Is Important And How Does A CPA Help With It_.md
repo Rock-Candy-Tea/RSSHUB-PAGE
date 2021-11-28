@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c82596b-9469-48fa-89c0-8e4993a20108&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1e8ea91c-4ba1-4843-9495-3ed19ba5bba7&size=gallery'
 author: Mind42
 comments: false
-date: 2021-11-28 08:08:58
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c82596b-9469-48fa-89c0-8e4993a20108&size=gallery'
+date: 2021-11-28 09:07:45
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1e8ea91c-4ba1-4843-9495-3ed19ba5bba7&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6c82596b-9469-48fa-89c0-8e4993a20108&size=gallery" referrerpolicy="no-referrer"><p>
-                    In this article, we have explained that why record keeping is important and how does a cpa help with it. Click here to read more or looking for Tax CPA in Boise give us a call at (208) 947-2400.                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1e8ea91c-4ba1-4843-9495-3ed19ba5bba7&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
 </div>
             
