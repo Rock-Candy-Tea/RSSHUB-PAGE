@@ -13,7 +13,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211128/s_50b36a55771844d4a78e43586b
 ---
 
 <div>   
-<p>近日，据外媒electrek报道，特斯拉Model S Plaid又破记录了，<span style="color:#ff0000;"><strong>首次用时8.944秒跑完了1/4英里直线加速赛</strong></span>，尾速高达155.10英里/时（249.61公里/时）。</p>
+<p>近日，据外媒electrek报道，特斯拉Model S Plaid又破记录了，<span style="color:#ff0000;"><strong>首次用时8.994秒跑完了1/4英里直线加速赛</strong></span>，尾速高达155.10英里/时（249.61公里/时）。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211128/50b36a55771844d4a78e43586b58438b.jpg" target="_blank"><img alt="超越布加迪 特斯Model S Plaid打破量产车记录：1/4英里加速不到9秒" h="348" src="https://img1.mydrivers.com/img/20211128/s_50b36a55771844d4a78e43586b58438b.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>该记录由赛车手George Dodworth和他的妻子Christine共同实现，巧合的是，当天另外一位Model S Plaid的车主在加州贝克斯菲尔德的Famoso赛车场也跑了1/4英里直线加速赛，用时9.247秒。</p>
 <p>不管是8.944还是9.247秒，<strong>均超过了由布加迪Chiron Sport在2018年创下的9.4秒的成绩</strong>，<strong>这也让Model S Plaid一举成为目前世界上最速的量产车</strong>，也让它成为了目前世界上第二快的全电动汽车。</p>

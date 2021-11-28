@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211128/1638064344_3173
 《<a target="_blank" href="https://www.3dmgame.com/games/haloinfinte/">光环：无限</a>》多人模式作弊问题日趋严重，多名玩家在Twitter上发推称自己遇到了外挂，一些人要求343关闭和PC的跨平台联机功能。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064344_317304.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064344_317304.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 需要指出的是，当前的《光环：无限》并不让玩家关闭PC和Xbox的联机功能。不过在排位竞技场中玩家可以选择和使用键盘鼠标的玩家一起游玩，或和手柄玩家一起玩。
@@ -35,13 +35,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211128/1638064344_3173
 国外玩家抱怨作弊推文：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064353_406031.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064353_406031.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064353_523412.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064353_523412.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064354_195872.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211128/1638064354_195872.jpg" alt="《光环：无限》作弊严重 主机玩家要求关闭和PC联机" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
