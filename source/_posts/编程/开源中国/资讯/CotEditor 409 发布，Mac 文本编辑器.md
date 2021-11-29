@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2623'
+headimg: 'https://picsum.photos/400/300?random=3159'
 author: 开源中国
 comments: false
 date: Mon, 29 Nov 2021 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2623'
+thumbnail: 'https://picsum.photos/400/300?random=3159'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>CotEditor 是一个轻量级、简洁、但功能强大的文本编辑器，用于编辑纯文本文件，如网页 HTML、CSS），程序源代码（Python、Ruby、Perl 等），结构化文本（Markdown、Textile、Tex 等）或任何其他类型的纯文本。</p> 
+                                                                    
+                                                        <p>CotEditor 是一个轻量级、简洁、但功能强大的文本编辑器，用于编辑纯文本文件，如网页 HTML、CSS），程序源代码（Python、Ruby、Perl 等），结构化文本（Markdown、Textile、Tex 等）或任何其他类型的纯文本。</p> 
 <p>CotEditor 4.0.9 正式发布，该版本更新内容如下：</p> 
 <h3><strong>修复</strong></h3> 
 <ul> 

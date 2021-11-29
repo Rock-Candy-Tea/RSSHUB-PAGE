@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1465'
+headimg: 'https://picsum.photos/400/300?random=9070'
 author: 开源中国
 comments: false
-date: Mon, 29 Nov 2021 00:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1465'
+date: Mon, 29 Nov 2021 08:05:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9070'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Clonezilla Live 是一个小型的可启动 GNU/Linux 发行版，适用于基于 x86/amd64 的计算机。Clonezilla Live 可以使用 CD/DVD 或 USB 闪存对单个计算机进行镜像或克隆。Clonezilla Live 的主要优势是不需要提前设置 DRBL 服务器，也不需要被部署的计算机从网络上启动。</p> 
+                                                                    
+                                                        <p>Clonezilla Live 是一个小型的可启动 GNU/Linux 发行版，适用于基于 x86/amd64 的计算机。Clonezilla Live 可以使用 CD/DVD 或 USB 闪存对单个计算机进行镜像或克隆。Clonezilla Live 的主要优势是不需要提前设置 DRBL 服务器，也不需要被部署的计算机从网络上启动。</p> 
 <p>自 2.7.3-19 版本以来的增强和改变包括：</p> 
 <ul> 
  <li>底层的 GNU/Linux 操作系统得到了升级，该版本基于 Debian Sid 仓库。</li> 

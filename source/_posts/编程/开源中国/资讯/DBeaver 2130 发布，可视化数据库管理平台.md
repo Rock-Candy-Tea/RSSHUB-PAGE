@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8347'
+headimg: 'https://picsum.photos/400/300?random=9488'
 author: 开源中国
 comments: false
 date: Mon, 29 Nov 2021 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8347'
+thumbnail: 'https://picsum.photos/400/300?random=9488'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><span style="background-color:#ffffff"><span style="color:#000000">DBeaver 21.3.0 现已发布。DBeaver 是一个免费开源的通用数据库工具，适用于开发人员和数据库管理员。</span></span></p> 
+                                                                    
+                                                        <p><span style="background-color:#ffffff"><span style="color:#000000">DBeaver 21.3.0 现已发布。DBeaver 是一个免费开源的通用数据库工具，适用于开发人员和数据库管理员。</span></span></p> 
 <p><strong><span style="color:#000000">主要更新内容</span></strong></p> 
 <ul> 
  <li><span style="color:#000000">数据查看器</span> 

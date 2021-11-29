@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1892'
+headimg: 'https://picsum.photos/400/300?random=1139'
 author: 开源中国
 comments: false
 date: Mon, 29 Nov 2021 07:17:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1892'
+thumbnail: 'https://picsum.photos/400/300?random=1139'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Jedis 是 Redis 的一个 Java 客户端库，Jedis 4.0.0 beta 4 发布，更新内容如下：</p> 
+                                                                    
+                                                        <p>Jedis 是 Redis 的一个 Java 客户端库，Jedis 4.0.0 beta 4 发布，更新内容如下：</p> 
 <h3>新功能</h3> 
 <ul> 
  <li>引入 JedisPooled 实现了与 JedisCluster 相同的接口，允许在 JedisCluster 和 JedisPooled 之间轻松切换。</li> 

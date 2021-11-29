@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8388'
+headimg: 'https://picsum.photos/400/300?random=9835'
 author: 开源中国
 comments: false
 date: Mon, 29 Nov 2021 07:23:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8388'
+thumbnail: 'https://picsum.photos/400/300?random=9835'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>SQLite 3.37.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.sqlite.org%2Freleaselog%2F3_37_0.html" target="_blank">已发布</a>。<span style="background-color:#ffffff; color:#333333">SQLite 是一个 C 实现的 SQL 数据库引擎，它的特点是小型、快速、自包含、高可靠性和功能齐全。SQLite 嵌入在所有手机和大多数计算机中，也捆绑在为数众多的其它应用中，是</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.sqlite.org%2Findex.html" target="_blank">世界上使用量最大</a><span style="background-color:#ffffff; color:#333333">的数据库引擎。</span></p> 
+                                                                    
+                                                        <p>SQLite 3.37.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.sqlite.org%2Freleaselog%2F3_37_0.html" target="_blank">已发布</a>。<span style="background-color:#ffffff; color:#333333">SQLite 是一个 C 实现的 SQL 数据库引擎，它的特点是小型、快速、自包含、高可靠性和功能齐全。SQLite 嵌入在所有手机和大多数计算机中，也捆绑在为数众多的其它应用中，是</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.sqlite.org%2Findex.html" target="_blank">世界上使用量最大</a><span style="background-color:#ffffff; color:#333333">的数据库引擎。</span></p> 
 <p>主要变化：</p> 
 <ol> 
  <li>新增的 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.sqlite.org%2Fstricttables.html" target="_blank">STRICT 表</a>为喜爱这种类型的开发者提供了一种规范的数据类型管理方式。</li> 
