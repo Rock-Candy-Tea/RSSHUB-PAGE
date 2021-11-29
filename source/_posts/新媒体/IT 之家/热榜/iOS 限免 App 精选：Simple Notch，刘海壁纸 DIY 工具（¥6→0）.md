@@ -1,0 +1,19 @@
+
+---
+title: 'iOS 限免 App 精选：Simple Notch，刘海壁纸 DIY 工具（¥6→0）'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/11/0875b574-47da-494d-a39c-9ac2553b66bd.png'
+author: IT 之家
+comments: false
+date: Sun, 28 Nov 2021 11:59:39 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/11/0875b574-47da-494d-a39c-9ac2553b66bd.png'
+---
+
+<div>   
+<p data-vmark="f49c"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 11 月 28 日消息，今天小编给IT之家小伙伴带来几款 iOS 限免应用，可能会对大家有所帮助。</p><p data-vmark="e13a">噪声测量 App《<a href="https://apps.apple.com/cn/app/id1136677469" target="_blank">dB meter</a>》，原价 18 元 ，目前得分 4.8 分，支持多种语言，所有 iOS 13.1 以上机型均可使用，包括 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a>、<a class="s_tag" href="https://ipad.ithome.com/" target="_blank">iPad</a>、iPod touch 和 M1 Mac（macOS 11.0）。</p><p data-vmark="79b9">值得一提的是，如果你有 Apple Watch 的话，其实不需要第三方 App 也可以测量噪音。</p><p data-vmark="79b6"><img src="https://img.ithome.com/newsuploadfiles/2021/11/0875b574-47da-494d-a39c-9ac2553b66bd.png" w="736" h="505" title="iOS 限免 App 精选：Simple Notch，刘海壁纸 DIY 工具（¥6→0）" width="736" height="505" referrerpolicy="no-referrer"></p><blockquote><p style="text-align: left;" data-vmark="77a3">分贝仪应用程序以及具有专业噪声计工具 OKTAVA110A-PRO 校准。</p><p style="text-align: left;" data-vmark="7cb6">测量声级/噪声：</p><p style="text-align: left;" data-vmark="fa60">- 当前平均水平</p><p style="text-align: left;" data-vmark="cfdf">-Peak 水平</p><p style="text-align: left;" data-vmark="cb1f">- 平均最高水平</p><p style="text-align: left;" data-vmark="e1ca">-Absolute 最高水平</p><p style="text-align: left;" data-vmark="fc12">对（在设置的变化）图直方图：</p><p style="text-align: left;" data-vmark="d6a8">- 当前平均水平</p><p style="text-align: left;" data-vmark="5a7f">-Peak 水平</p><p style="text-align: left;" data-vmark="708c">附加功能：</p><p style="text-align: left;" data-vmark="5dc5">- 保存测量</p><p style="text-align: left;" data-vmark="4f5c">定向-Upside 下来使用方便。</p><p style="text-align: left;" data-vmark="9b80">要重置最大值或平均最高 - 只需轻按就可以了。</p><p style="text-align: left;" data-vmark="8ed3">你可以自我校准它设置（范围为-20.0dB 至 + 20.0 分贝）</p></blockquote><p data-vmark="aa42">益智游戏《<a href="https://apps.apple.com/cn/app/id1335784091" target="_blank">Scalak</a>》，这是一款专为 iPad 设计的图形填充游戏，暂列“家庭聚会”类第 2 名，得分 4.9 分，所有 iOS 9 以上机型均可使用。</p><p data-vmark="8487"><img src="https://img.ithome.com/newsuploadfiles/2021/11/66213860-b122-40a4-b055-433f8ffb24d0.png" w="889" h="513" title="iOS 限免 App 精选：Simple Notch，刘海壁纸 DIY 工具（¥6→0）" width="889" height="473" referrerpolicy="no-referrer"></p><p class="product-header__title app-header__title" data-vmark="44a9">耳朵壁纸 - <a href="https://apps.apple.com/cn/app/simple-notch-wallpaper-maker/id1357443796" target="_blank">Simple Notch</a>，这是一款能够美化 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 11</a>、<a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone X</a> 的刘海的应用，你可以通过叠加不同的刘海样式来创作适合你的个性小耳朵壁纸。</p><p class="product-header__title app-header__title ai-word-checked" data-vmark="effb">这款 App 原价 6 元，得分 4.9 分，可以尝试一下。</p><p data-vmark="bab0"><img src="https://img.ithome.com/newsuploadfiles/2021/11/03d379e1-0e08-4fbb-a2d0-27b1a9a0b2ce.png" w="895" h="747" title="iOS 限免 App 精选：Simple Notch，刘海壁纸 DIY 工具（¥6→0）" width="895" height="684" referrerpolicy="no-referrer"></p><blockquote><p class data-vmark="3aa4">模板多样，精心打造了近 30 余款耳朵样式，造型可爱，完美贴合</p><p data-vmark="dfdc">○无需解锁，所有样式都可以直接使用</p><p data-vmark="a552">○特别定制，另有 16 款小耳朵样式专为 iPhone SE & iPhone 8 定制，不仅能去刘海，还给你的手机加上搞怪刘海~</p><p data-vmark="f594">更多样式我们会不断更新，相信总有一款你会喜欢的~</p><p data-vmark="ea48">如果没有... 后续版本我们再加！</p></blockquote>
+          
+</div>
+            
