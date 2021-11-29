@@ -1,0 +1,18 @@
+
+---
+title: '香港两人感染 Omicron 变异株，目前情况如何？有哪些信息值得关注？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-3bcd0d9c34365c7e5cc08c5b61900282_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 29 Nov 2021 05:14:00 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-3bcd0d9c34365c7e5cc08c5b61900282_1440w.jpg'
+---
+
+<div>   
+阿岛格的回答<br><br><p data-pid="LCIK7Drf">澄清一些传言，以下信息值得关注：</p><p data-pid="_Rhf9bFi"><b>传言一：新毒株传播力比德尔塔厉害几十倍。</b><br>真相一：广为流传的那张曲线图，是媒体做的图，并<b>不是科研成果</b>，对新毒株传播力尚<b>没有明确结</b>论。<br></p><p data-pid="hyaT1am_"><b>传言二：新病毒会让mRNA疫苗失效，而灭活疫苗不会。</b><br>真相二：随着病毒的变异，各种疫苗的效力都会下降，目前的突变并不会让疫苗完全失效，接种现有疫苗仍然是有意义的。<br></p><p data-pid="CeKHPvcX"><b>传言三：新的突变毒株是由国外mRNA疫苗的ADE效应引发的。</b><br>真相三：病毒的变异是自然产生的，ADE效应影响的是人体免疫系统，而不是病毒。<br></p><p data-pid="pQabqVPZ"><b>传言四：新毒株和艾滋病人相关。</b><br>真相四：是一种可能的推测，但目前尚未证实。<br></p><p data-pid="H5GpRHKA"><b>传言五：对病毒进化</b>会越变越厉害。<br>真相五：生物的进化并没有<b>特定方向的。</b>现有信息表明，“这种病毒的突变不太可能更糟糕，现有疫苗很可能继续有效地预防住院和死亡” 。<b>目前的PCR病毒检测和抗原检测预计将继续识别突变。一些新的药物仍可能有作用</b>。<br></p><p data-pid="YT5nHoZt">另外：</p><p data-pid="JhJTOWwa">我个人认同：<b>高效严防的政策和措施，人民严格自律的防范意识， 同时要做好长期持久战的心理防御建设。秉持“不松懈、不恐慌、讲事实、摆道理“的科学态度</b>。</p><p data-pid="dA93iSB1"><b>治疗新冠的药在路上</b>，我们应该有信心期待<b>疫情尽早结束</b>。参见 <a href="https://www.zhihu.com/question/478104813/answer/2237393223" class="internal">阿岛格： 近期新药研发进度-——人类的期待和信心</a>。</p><p data-pid="H5cChq2z">长远来看，新冠病毒也许还会不断变异。类似<b>南非新变种病毒或能逃逸免疫或再次出现</b>， 我们要做好长期持久战的<b>心理防御建设</b>。<b>杀不死我的，使我更强大。</b>参见 <a href="https://www.zhihu.com/question/435771594/answer/2201022171" class="internal">阿岛格：假如新冠肺炎不彻底消失该怎么办？</a></p><hr><p data-pid="sYdmbdd9">参考材料：</p><p data-pid="xA8MkklB">目前仅在少数地区发现了O毒株感染的病例，还不足以计算出其传播系数。对该毒株的实验室研究也才刚刚开始，并没有明确结论。广为流传的那张曲线图，说德尔塔给新毒株提鞋都不配的，是媒体做的图，并不是科研成果。图中曲线是基于有限数据对最坏情况的预测，并不是对现实数据的统计。</p><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-3bcd0d9c34365c7e5cc08c5b61900282_1440w.jpg" data-rawwidth="778" data-rawheight="554" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-3bcd0d9c34365c7e5cc08c5b61900282_r.jpg" referrerpolicy="no-referrer"><figcaption>来源：腾讯新闻</figcaption></figure><p><br></p><p data-pid="fZJF3GyV">这张图是模型预测，是预测，是最糟糕的一种预测！况且只针对疫苗完全接种率相对低的南非，并不能反映全球情况。</p><p data-pid="XtsUWDO5">随着病毒的变异，各种疫苗的效力都会下降，这是预料之中的，疫苗对这一新毒株的防护力下降幅度与疫苗路线关系不大。另外，目前的突变并不会让疫苗完全失效，在没有第二代疫苗的情况下，接种现有疫苗仍然是有意义的。</p><p data-pid="D64iik0e">病毒的变异是自然产生的，并不是随便捏的橡皮泥。疫苗对病毒施加的是选择压力，而不是变异影响。ADE效应影响的是人体免疫系统这一端，而不是病毒那一端。</p><p data-pid="BKzX56Yh">的确有一种理论认为，O毒株的突变位点如此之多，可能是在免疫缺陷的病人身上长期盘踞繁衍所积累的结果。这是一种可能的推测，但目前尚未证实。即便这一理论得到证实，也只涉及新冠病毒的一部分演化规律，距离新冠病毒溯源的结论还有十万八千里。</p><p data-pid="1B9DDpV7">非专业人士往往有个认识，以为进化就是越变越高级，战斗力变得越来越强，这是一种望文生义的误解。但生物的进化并没有方向</p><p data-pid="JnZV_s25"><b>生物的进化是没有特定方向的，它是基因变异和环境选择共同的结果。</b></p><p data-pid="7p3K3ZXU">对病毒来说，有没有封城就是截然不同的环境，接种不同疫苗也会造成不同的环境选择压力。病毒变异出的某个特点，在某种环境下可能是优势，换个环境就可能变成劣势。</p><p data-pid="WAo8iqaK">新发现的O突变毒株传播力是不是比德尔塔更强，带来的死亡率会不会更高，目前是说不准的。需要密切关注，但没必要恐慌。</p><p data-pid="-N3B5K1h"><b>病毒变异从长远来说是个好事</b></p><p data-pid="X9xq2AQe">科学界有一个总体的判断，认为病毒进化的趋势通常是传播力变得更强，毒力变得更弱。这是对此前众多病毒性传染病的大致总结，是自然状态下病毒和人类充分接触后逐渐“和平共存”的结果。</p><p data-pid="QRSJe9KM">参考：</p><ul><li data-pid="VWgJJGtC">腾讯新闻11-27: 病毒的确是变异了，但别听他们吓唬人</li><li data-pid="B7WIGPhE"><a href="https://www.zhihu.com/question/478104813/answer/2237393223" class="internal">阿岛格： 近期新药研发进度-——人类的期待和信心</a>。</li><li data-pid="ve7Lqop_"><a href="https://www.zhihu.com/question/435771594/answer/2201022171" class="internal">阿岛格：假如新冠肺炎不彻底消失该怎么办？</a></li></ul>  
+</div>
+            
