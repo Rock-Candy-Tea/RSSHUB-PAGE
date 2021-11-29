@@ -8,7 +8,7 @@ categories:
 headimg: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.4/practices/skywalking/SkyWalking-Rainbond.png'
 author: Dockone
 comments: false
-date: 2021-11-29 13:15:57
+date: 2021-11-29 14:07:59
 thumbnail: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.4/practices/skywalking/SkyWalking-Rainbond.png'
 ---
 
