@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1245'
+headimg: 'https://picsum.photos/400/300?random=4115'
 author: 开源中国
 comments: false
 date: Tue, 30 Nov 2021 07:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1245'
+thumbnail: 'https://picsum.photos/400/300?random=4115'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Rasa Open Source 提供了创建虚拟助手的基石。使用 Rasa 可以在网站和社交媒体等平台，实现人机交互的自动化。Rasa Open Source 提供了三个主要功能，自然语言理解、对话管理和集成。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Rasa Open Source 提供了创建虚拟助手的基石。使用 Rasa 可以在网站和社交媒体等平台，实现人机交互的自动化。Rasa Open Source 提供了三个主要功能，自然语言理解、对话管理和集成。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Rasa Open Source 3.0 发布，更新内容如下：</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">弃用与移除</h3> 
 <ul style="margin-left:0; margin-right:0"> 

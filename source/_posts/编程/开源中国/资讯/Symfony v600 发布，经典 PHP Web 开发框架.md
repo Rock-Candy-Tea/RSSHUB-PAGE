@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5596'
+headimg: 'https://picsum.photos/400/300?random=7170'
 author: 开源中国
 comments: false
-date: Mon, 29 Nov 2021 23:46:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5596'
+date: Tue, 30 Nov 2021 07:45:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7170'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Symfony v6.0.0 发布了！Symfony 是一款基于 MVC 架构的 PHP 框架，致力于减少重复代码的编写，以加速 Web 应用的开发和维护。Symfony 与许多关系型数据库集成的也非常好，成本也较小。</p> 
+                                                                                            <p>Symfony v6.0.0 发布了！Symfony 是一款基于 MVC 架构的 PHP 框架，致力于减少重复代码的编写，以加速 Web 应用的开发和维护。Symfony 与许多关系型数据库集成的也非常好，成本也较小。</p> 
 <p style="margin-left:0px">此外，Symfony 致力于在企业背景下创建健壮的应用，同时也给予了开发者强大的配置功能：从文件结构到外部目录，几乎所有的东西都可以自定义。Symfony 也捆绑了一些诸如测试、调试、文档生成等额外的工具来满足企业的开发过程。</p> 
 <p style="margin-left:0px">Symfony  v6.0.0 更新内容如下:</p> 
 <ul> 

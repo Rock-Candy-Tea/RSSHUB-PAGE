@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7980'
+headimg: 'https://picsum.photos/400/300?random=7295'
 author: 开源中国
 comments: false
 date: Tue, 30 Nov 2021 07:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7980'
+thumbnail: 'https://picsum.photos/400/300?random=7295'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议，它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。</p> 
+                                                                                            <p>WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议，它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">目前，WinSCP 5.19.5 已经发布。该版本具体更新内容如下：</p> 
 <ul> 
  <li>复制文件时与 Google Cloud S3 API 的兼容性。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwinscp.net%2Ftracker%2F2038" target="_blank">2038</a></li> 

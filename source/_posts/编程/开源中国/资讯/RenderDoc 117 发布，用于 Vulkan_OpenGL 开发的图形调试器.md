@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7278'
+headimg: 'https://picsum.photos/400/300?random=8925'
 author: 开源中国
 comments: false
 date: Tue, 30 Nov 2021 07:12:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7278'
+thumbnail: 'https://picsum.photos/400/300?random=8925'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">RenderDoc 是一种基于帧捕获（frame-capture based）的图形调试器，目前可用于 Windows、Linux、Android、Stadia 和 Nintendo Switch 上的 Vulkan、D3D11、D3D12、OpenGL 和 OpenGL ES 开发。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">RenderDoc 是一种基于帧捕获（frame-capture based）的图形调试器，目前可用于 Windows、Linux、Android、Stadia 和 Nintendo Switch 上的 Vulkan、D3D11、D3D12、OpenGL 和 OpenGL ES 开发。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">RenderDoc 1.17 发布，更新内容如下：</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">主要亮点</h3> 
 <ul style="margin-left:0; margin-right:0"> 

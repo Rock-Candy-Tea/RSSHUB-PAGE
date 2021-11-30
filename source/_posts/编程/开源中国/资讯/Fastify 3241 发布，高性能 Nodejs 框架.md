@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8833'
+headimg: 'https://picsum.photos/400/300?random=6719'
 author: 开源中国
 comments: false
-date: Mon, 29 Nov 2021 23:33:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8833'
+date: Tue, 30 Nov 2021 07:32:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6719'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="margin-left:0px"><span style="color:#333333">Fastify 3.24.1 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</span></p> 
+                                                                                            <p style="margin-left:0px"><span style="color:#333333">Fastify 3.24.1 发布了，Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。</span></p> 
 <p style="margin-left:0px"><span style="color:#333333">此版本更新内容包括：</span></p> 
 <ul> 
  <li>fix: https 服务请求超时（<span style="color:#24292f">server.requestTimeout</span>）丢失的问题   <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Ffastify%2Ffastify%2Fpull%2F3447" target="_blank">#3447</a></li> 

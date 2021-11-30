@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=476'
+headimg: 'https://picsum.photos/400/300?random=9344'
 author: 开源中国
 comments: false
 date: Tue, 30 Nov 2021 07:19:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=476'
+thumbnail: 'https://picsum.photos/400/300?random=9344'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CakePHP 是一个运用了诸如 ActiveRecord、Association Data Mapping、Front Controller 和 MVC（model–view–controller） 等著名设计模式的开源 Web 框架。CakePHP 用 PHP 编写，以 Ruby on Rails 的概念为模型，并在 MIT 许可下进行分发。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CakePHP 是一个运用了诸如 ActiveRecord、Association Data Mapping、Front Controller 和 MVC（model–view–controller） 等著名设计模式的开源 Web 框架。CakePHP 用 PHP 编写，以 Ruby on Rails 的概念为模型，并在 MIT 许可下进行分发。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CakePHP 4.3.2 现已发布，这是 4.3 分支的一个维护版本，修正了几个社区报告的问题：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li><span style="color:#2e3033">增加了控制器动作的数组类型强制转换，现在带<span> </span></span><span style="color:#24292f"><code>,</code></span><span style="color:#2e3033"><span> </span>分隔值的列表现在可以解压缩到数组里面。</span></li> 

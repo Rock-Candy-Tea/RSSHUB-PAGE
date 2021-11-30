@@ -14,8 +14,7 @@ thumbnail: 'https://p3-tt.byteimg.com/origin/pgc-image/b054e9ba1907443da1ac9a45d
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="margin-left:0; margin-right:0; text-align:left"><span style="color:#2ecc71">Erupt  通用后台管理框架</span></h1> 
+                                                                                            <h1 style="margin-left:0; margin-right:0; text-align:left"><span style="color:#2ecc71">Erupt  通用后台管理框架</span></h1> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Erupt 是一个低代码 <strong>全栈类</strong> 框架，它使用 <strong>Java 注解</strong> 动态生成页面以及增、删、改、查、权限控制等功能。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">零前端代码、零 CURD、自动建表，仅需 <strong>一个类文件</strong> + <strong>简洁的注解配置</strong>，快速开发企业级 Admin 管理后台。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">提供企业级中后台管理系统的全栈解决方案，大幅压缩研发周期，专注核心业务</p> 

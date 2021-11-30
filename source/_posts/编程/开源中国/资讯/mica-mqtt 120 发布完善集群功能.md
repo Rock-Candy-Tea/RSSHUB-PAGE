@@ -14,8 +14,7 @@ thumbnail: 'https://cdn.nlark.com/yuque/0/2021/jpeg/188203/1628396634437-0854031
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h2><span>一、简介</span></h2> 
+                                                                                            <h2><span>一、简介</span></h2> 
 <p style="margin-left:.8em; margin-right:.8em"><span><span><strong><span>mica-mqtt</span></strong><span> 基于 </span><span><strong><span>t-io</span></strong><span> 实现的</span><span><strong><span>简单</span></strong><span>、</span><span><strong><span>低延迟</span></strong><span>、</span><span><strong><span>高性能</span></strong><span> 的 mqtt 物联网开源组件。</span><span><strong><span>使用详见 mica-mqtt gitee 源码</span></strong><span> </span><span><a href="https://gitee.com/596392912/mica-mqtt/tree/master/mica-mqtt-example"><span>mica-mqtt-example 模块</span></a><span>。</span></span></span></span></span></span></span></span></span></p> 
 <p style="margin-left:.8em; margin-right:.8em"><span><span><strong><span>mica-mqtt</span></strong><span> 更加易于集成到已有服务和二次开发，降低自研物联网平台开发成本。</span></span></span></p> 
 <h2><span>二、功能</span></h2> 
