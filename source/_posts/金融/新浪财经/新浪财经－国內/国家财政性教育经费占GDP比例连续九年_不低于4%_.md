@@ -1,0 +1,69 @@
+
+---
+title: '国家财政性教育经费占GDP比例连续九年_不低于4%_'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+author: 新浪财经
+comments: false
+date: Tue, 30 Nov 2021 02:09:36 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+---
+
+<div>   
+<p cms-style="font-L">　　教育部、国家统计局、财政部近日发布了2020年全国教育经费执行情况统计公告。公告显示，2020年全国教育经费总投入为53033.87亿元，比上年增长5.69%。其中，国家财政性教育经费为42908.15亿元，比上年增长7.15%，占GDP比例为4.22%。“十三五”期间持续做到“不低于4%”，这是自2012年以来连续第九年做到“不低于4%”。</p>
+<p cms-style="font-L">　　“十三五”期间，全国一般公共预算教育支出累计16.06万亿元，年均增长7.02%，2020年达到36310.47亿元，比2015年增长40.4%。全国幼儿园生均一般公共预算教育经费年均增长12.3%，2020年达到9410.76元，比2015年增长76.48%；全国普通小学生均一般公共预算教育经费年均增长5.08%，2020年达到12330.58元，比2015年增长28.13%；全国普通初中生均一般公共预算教育经费年均增长5.81%，2020年达到17803.6元，比2015年增长32.64%；全国普通高中生均一般公共预算教育经费年均增长8.45%，2020年达到18671.83元，比2015年增长49.99%；全国中等职业学校生均一般公共预算教育经费年均增长5.56%，2020年达到17446.93元，比2015年增长31.05%；全国普通高等学校生均一般公共预算教育经费年均增长2.89%，2020年达到22407.39元，比2015年增长15.33%。</p><!-- news_keyword_pub,stock, -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：李昂 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            
