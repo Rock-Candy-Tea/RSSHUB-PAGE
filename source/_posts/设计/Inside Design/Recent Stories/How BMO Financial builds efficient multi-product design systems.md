@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/bmo-financial-design-system-manager/'
 author: Inside Design
 comments: false
-date: 2021-11-30 14:07:57
+date: 2021-11-30 15:08:31
 thumbnail: 'https://www.invisionapp.com/inside-design/bmo-financial-design-system-manager/'
 ---
 
