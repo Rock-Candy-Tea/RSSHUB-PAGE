@@ -8,14 +8,14 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211126/4ea2c803c5dc100f069e3e33ef5d48d3.png'
 author: Dockone
 comments: false
-date: 2021-11-30 03:07:01
+date: 2021-11-30 04:11:27
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211126/4ea2c803c5dc100f069e3e33ef5d48d3.png'
 ---
 
 <div>   
 <br><h3>引言</h3>在石墨文档的部分业务中，例如文档分享、评论、幻灯片演示和文档表格跟随等场景，涉及到多客户端数据同步和服务端批量数据推送的需求，一般的 HTTP 协议无法满足服务端主动 Push 数据的场景，因此选择采用 WebSocket 方案进行业务开发。<br>
 <br>随着石墨文档业务发展，目前日连接峰值已达百万量级，日益增长的用户连接数和不符合目前量级的架构设计导致了内存和 CPU 使用量急剧增长，因此我们考虑对网关进行重构。<br>
-<h3>2 网关 1.0</h3>网关 1.0 是使用 Node.js 基于 Socket.IO 进行修改开发的版本，很好的满足了当时用户量级下的业务场景需求。<br>
+<h3>网关 1.0</h3>网关 1.0 是使用 Node.js 基于 Socket.IO 进行修改开发的版本，很好的满足了当时用户量级下的业务场景需求。<br>
 <h4>架构</h4>网关 1.0 版本架构设计图：<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20211126/4ea2c803c5dc100f069e3e33ef5d48d3.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211126/4ea2c803c5dc100f069e3e33ef5d48d3.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>

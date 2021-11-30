@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-7f8957e5dfc7949c05cf6c7b455db3d
 
 <div>   
 <div class="content">
-                                                                                            <p>Eclipse 4.22 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.eclipse.org%2Flists%2Feclipse-dev%2Fmsg11825.html" target="_blank">发布</a>了第二个 RC 版本。跟往常一样，新版本在编辑器、窗口、工具栏和主题等方面进行了更新。</p> 
+                                                                    
+                                                        <p>Eclipse 4.22 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.eclipse.org%2Flists%2Feclipse-dev%2Fmsg11825.html" target="_blank">发布</a>了第二个 RC 版本。跟往常一样，新版本在编辑器、窗口、工具栏和主题等方面进行了更新。</p> 
 <p>Eclipse downloads：<br> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdownload.eclipse.org%2Feclipse%2Fdownloads%2Fdrops4%2FS-4.22RC2-202111241800%2F" target="_blank">https://download.eclipse.org/eclipse/downloads/drops4/S-4.22RC2-202111241800/</a></p> 
 <p>主要更新内容如下：</p> 
 <ul> 

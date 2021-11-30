@@ -8,13 +8,14 @@ categories:
 headimg: 'https://gitee.com/majz0908/jarboot/raw/develop/doc/overview.png'
 author: 开源中国
 comments: false
-date: Tue, 30 Nov 2021 02:39:00 GMT
+date: Tue, 30 Nov 2021 10:38:00 GMT
 thumbnail: 'https://gitee.com/majz0908/jarboot/raw/develop/doc/overview.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>v2.2.0版本，服务管理增加了导入、导出的功能，方便系统间迁移，也可用于备份。</p> 
+                                                                    
+                                                        <p>v2.2.0版本，服务管理增加了导入、导出的功能，方便系统间迁移，也可用于备份。</p> 
 <p><span style="background-color:#ffffff; color:#40485b">Jarboot 是一个集Java进程管理、诊断的平台，可以在线启停、守护、监控及诊断一系列的Java进程。</span></p> 
 <ul> 
  <li>🌈 浏览器界面管理，一键启、停服务进程，不必挨个手动执行</li> 
