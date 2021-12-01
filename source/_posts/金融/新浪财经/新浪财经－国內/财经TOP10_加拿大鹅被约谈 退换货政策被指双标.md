@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/crawl/117/w550h367/20211201/9242-d582f42a9db263b1858e8b3409354120.jpg'
 author: 新浪财经
 comments: false
-date: Wed, 01 Dec 2021 13:07:36 GMT
+date: Wed, 01 Dec 2021 14:04:38 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/crawl/117/w550h367/20211201/9242-d582f42a9db263b1858e8b3409354120.jpg'
 ---
 
@@ -27,6 +27,7 @@ thumbnail: 'https://n.sinaimg.cn/finance/crawl/117/w550h367/20211201/9242-d582f4
 <p cms-style="font-L">　　约谈反映加拿大鹅参会人员对专门店“更换条款”的具体含义并不了解。参会人员所表述的公司退换货流程与消费者反映的实际情况多有出入，<font cms-style="font-L color0"><font cms-style="font-L strong-Bold color0">上海市消保委要求加拿大鹅在12月2号中午前提交《更换条款<font cms-style="font-L strong-Bold color0">》</font>的正式说明</font></font>，另在约谈中上海市消保委询问了中国大陆以外区域加拿大鹅专门店退换货条款是否与中国大陆相一致，加拿大鹅参会人员表示不知道，加拿大鹅参会人员也确认了在加拿大鹅官网上30日无理由退货的相关条款，并表示该条款不适用于中国大陆，<font cms-style="font-L color0"><font cms-style="font-L strong-Bold color0">中国大陆适用7天无理由退货条款。</font></font></p>
 <blockquote>　　【相关报道】</blockquote>
 <blockquote style="text-align: left;">　　<a href="https://finance.sina.com.cn/chanjing/gsnews/2021-12-01/doc-ikyakumx1313624.shtml" target="_blank">加、美、英加拿大鹅官网均显示：线上线下均可实现30天退货</a></blockquote>
+<blockquote style="text-align: left;">      <a href="https://finance.sina.com.cn/chanjing/gsnews/2021-12-01/doc-ikyamrmy6253448.shtml" target="_blank" title="甘当韭菜！中国买家宠坏加拿大鹅，上海门店依旧排起长龙">甘当韭菜！中国买家宠坏加拿大鹅，上海门店依旧排起长龙</a></blockquote>
 <p>　　<strong>NO.4  <a href="https://finance.sina.com.cn/stock/newstock/zrzdt/2021-12-01/doc-ikyakumx1193453.shtml" target="_blank" title="证监会也坐不住了！追问慕思床垫与神秘洋老头的关系">证监会也坐不住了！追问慕思床垫与神秘洋老头的关系</a></strong></p>
 <div class="img_wrapper"><img src="https://n.sinaimg.cn/sinakd20211130s/259/w702h357/20211130/a725-272a2c1f3eed84524865db7253735bff.jpg" alt referrerpolicy="no-referrer"><span class="img_descr"></span></div>
 <p>　　一个靠着一张洋老头照片，大行其道了十几年的假洋品牌，谋求上市一伸手就是要19亿，这不是糊弄人，是糊弄鬼吧？</p>
