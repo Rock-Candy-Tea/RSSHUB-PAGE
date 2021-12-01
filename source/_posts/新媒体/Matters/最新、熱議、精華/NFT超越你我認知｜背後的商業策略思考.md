@@ -1,0 +1,18 @@
+
+---
+title: 'NFT超越你我認知｜背後的商業策略思考'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/cb4578a2-e3c7-4ce3-8c8f-e4de0e1bf622.gif'
+author: Matters
+comments: false
+date: Wed, 01 Dec 2021 08:00:29 GMT
+thumbnail: 'https://assets.matters.news/embed/cb4578a2-e3c7-4ce3-8c8f-e4de0e1bf622.gif'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/cb4578a2-e3c7-4ce3-8c8f-e4de0e1bf622.gif" data-asset-id="cb4578a2-e3c7-4ce3-8c8f-e4de0e1bf622" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；照片取自Binance NFT，真的非常熱銷。</span></figcaption></figure><h2>NFT超越你我認知｜背後的商業策略思考</h2><h2>【前言】</h2><p>日安，我的朋友，我是<a href="https://www.mentorstone.com.tw/" rel="noopener noreferrer" target="_blank">石頭哥-你的職涯導師</a>。這週跟大夥分享了我購入的第一筆山羊NFT ，接著教大家了解加密貨幣、NFT劇烈波動時的逃生路線，由於大家還蠻熱烈支持的因此石頭哥決定周末假日有空時，再彙整Step by Step如何用信用卡轉帳買加密貨幣，分享給支持我的夥伴們。今天先分享你所不知的NFT神秘面紗。</p><h2>【NFT悄悄演變，讓你擁有特殊的社群參與權、表決權、優先權】</h2><p>在區塊鏈中大家遙不可及的比特幣、乙太幣，後起之秀的Binance、Solana 相當令人驚艷，也許大家有機會一起參與他10倍100倍爆發性覺醒的紅利。</p><h4>🎯一張jpg 40萬(NFT)，8分鐘竟然銷售一空</h4><p>Solana 在NFT這塊領土打瞭兩場轟轟烈烈的空前勝仗，他在推出《Degenerate Apes》，Google中文翻譯成『我的墮落猿學院』NFT 系列，起初不怎麼看好的卻意外地在8分鐘之內秒殺，竟然把價值一張至少40萬新台幣的NFT，換成口袋金光閃閃的590 萬美元(當時)，如果我們從他交易量96000 SOL，現在換算成美金等於2059萬美金，真的相當的瘋狂，也確實讓這些人認購者荷包滿滿滿。</p><p>♟儘管我們買不起，但是各位千萬要去欣賞一下，這些真的真的很漂亮精緻的藝術品~<a href="https://solanart.io/collections/degenape" rel="noopener noreferrer" target="_blank">我們的墮落猿學院：</a></p><p><a href="https://solanart.io/collections/degenape" rel="noopener noreferrer" target="_blank">https://solanart.io/collections/degenape</a></p><h4>🎯為何這麼高價的NFT，仍然搶破頭呢？</h4><figure class="image"><img src="https://assets.matters.news/embed/17a154e2-75c7-45e2-933e-e9d0013c8351.jpeg" data-asset-id="17a154e2-75c7-45e2-933e-e9d0013c8351" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；照片取自SolGoats；公羊銷售一空，現在搶母羊，為了免費虹投小羊🐐🐐🐐</span></figcaption></figure><p>石頭哥一直納悶為什麼NFT不過是jpg圖檔，頂多算是一件藝術品，怎麼媒體會炒作成這樣呢？</p><p>連我寫作的Matters、PotatoMedia也都在發行NFT，讓我們為了一波波空投搶破頭，甚至昨天看到木頭君贏得光榮的1111徽章，連我都感到與有榮焉的感覺，於是我大量閱讀相關文章，想知道NFT慢慢走向的趨勢為何 ？</p><p>原來Binance、Solana或多或少靠著NFT的發行，在建立一個一個的社群，或是專業人士口中的分佈式自治組織（DAO），這種透過幣圈大戶、影視大咖、NBA 球星的加入，讓大咖們有討論組織平台治理條款的參與權、表決權，搞不好連挖礦的獲利比例也有優先參與權，大咖們還能一起找尋更有潛力的獲利商機，而且還能把社群不斷的分解出更多的小社群，讓這個組織吸引更多的小眾參與，享有優先獲得空投的機會、更優惠的價格...等等來凝聚忠誠度。</p><figure class="image"><img src="https://assets.matters.news/embed/48184fd4-9fa4-4ed3-a390-9761f40609b6.gif" data-asset-id="48184fd4-9fa4-4ed3-a390-9761f40609b6" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；照片取自Binance NFT；真的一推出每個都瞬間銷售一空</span></figcaption></figure><h4>🎯我以Binance裡面的《無敵鐵金剛 Z：無限終極之戰》NFT為例：</h4><p>無敵鐵金剛，這可是我們X世代小時候每天最期待的卡通影片啊！現在竟然變成NFT；神祕盒發行高達22,200 盒，一盒售價27 BUSD幣安穩定幣 = 27美元。一樣一推出就瞬間秒殺，我們來看看這個藝術品有哪些福利：</p><p>✅1. 等於你可以炫耀自己收藏了藝術家 永井豪的全球限量作品 ( 永井豪：日本知名漫畫家，作品有甜心戰士、惡魔人、無敵鐵金剛 Z )。<br class="smart">✅2. 每位用戶最多只能購買 100 盒；保留 200 盒給社群參與者。<br class="smart">✅3. 獎勵包含：A. 在外收集到 3 個以上的 NFT有資格享有15,000 BUSD 獎池的抽獎，<br class="smart">✅獲得 300 BUSD 的獎勵。B. 有機會獲得無敵鐵金剛<br class="smart">✅收藏人偶，全球限量 100 件(價值可能50,000美金)。C. 有機會獲得<br class="smart">✅10,000 BUSD 獎池的獎勵。<br class="smart">( 附註說明：以上更細的細節敘述，可以參考Binance網站的NFT )</p><h2>【結論】</h2><p>NFT已經不只是一件藝術品，一件可以用區塊鏈帳號，炫耀只有你有的jpg圖檔。他已經變成企業的商業策略思維一環，如建立一些限定社群的《入場門票》，持有者可以享受的福利會依據不同的NFT發行單位而做調整。你知道嗎？MoBox的NFT擁有者，除了玩遊戲、人物升等之外，竟然還享有挖礦池的分紅利潤，很不可思議吧。趁大家還沒有意識到之前，趕緊去找尋未來的鑽石級NFT吧 ！<br class="smart"><br class="smart">也許某一天<strong>Matters平台</strong>也賣五月天演唱會門票，你持首輪空投的 NFT、限量的 NFT，就享有首輪購票對折的優惠；甚至某一天<strong>Matters公開發行股票</strong>，你更可以用10元面額認購他們100元的股票，視同員工資格優先認購增資股、投票權，或是年年享有他們獲利池的10%分紅...等等，<strong>我想可預期的這一天，你手中這張NFT就不只是現在這種價值了。期待</strong>🙏</p>  
+</div>
+            
