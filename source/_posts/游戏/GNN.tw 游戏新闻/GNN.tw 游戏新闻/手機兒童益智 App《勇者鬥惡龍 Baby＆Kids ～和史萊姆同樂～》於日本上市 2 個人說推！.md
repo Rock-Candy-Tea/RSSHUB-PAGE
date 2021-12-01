@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/77/ce1e2f999e849652b5549dc51e1eikt5.
 ---
 
 <div>   
-SQUARE ENIX 近期宣布，智慧型手機兒童益智應用程式《勇者鬥惡龍 Baby＆Kids ～和史萊姆同樂～（暫譯，ドラクエベビー＆キッズ～スライムとあそぼう～）》已於日本推出。   官方表示，《勇者鬥惡龍 ...
+SQUARE ENIX 近期宣布，智慧型手機兒童益智應用程式《勇者鬥惡龍 Baby＆Kids ～和史萊姆同樂～（暫譯，ドラクエベビー＆キッズ～スライムとあそぼう～）》已於日本推出。 ※ 本作尚未於台灣推出。  ...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/77/ce1e2f999e849652b5549dc51e1eikt5.JPG" referrerpolicy="no-referrer">  
 </div>
