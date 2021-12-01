@@ -14,7 +14,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211201/Sa3057ba8-3289-47b5-a6d0-60b
 
 <div>   
 <p>新一代骁龙8，新十年的旗舰移动平台。</p>
-<p>今天早上，骁龙技术峰会上，<span style="color:#ff0000;"><strong>高通正式发布全新一代骁龙85G移动平台——骁龙8 Gen1</strong>。</span>高通表示，这是迄今最强大的手机移动处理器，拥有先进的5G、AI、游戏、影像和连接技术，将在2021年底投入商用。</p>
+<p>今天早上，骁龙技术峰会上，<span style="color:#ff0000;"><strong>高通正式发布全新一代骁龙8 5G移动平台——骁龙8 Gen1</strong>。</span>高通表示，这是迄今最强大的手机移动处理器，拥有先进的5G、AI、游戏、影像和连接技术，将在2021年底投入商用。</p>
 <p>终端方面，<strong>小米12系列将全球首发骁龙8 Gen1，目前已整装待备，马力全开加紧生产中，很快就会与大家见面。</strong></p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20211201/a3057ba8-3289-47b5-a6d0-60b00d6b17eb.jpg" target="_blank"><img alt="一文看懂年度旗舰骁龙8：首发新十年指令集Armv9、CPU/GPU架构大换代" h="372" src="https://img1.mydrivers.com/img/20211201/Sa3057ba8-3289-47b5-a6d0-60b00d6b17eb.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p>除了命名大变，<strong>新一代骁龙8在指令集、CPU、GPU架构上同样迎来了翻天覆地的变化</strong>。骁龙8 Gen1采用三星4nm工艺制造，首发Armv9指令集，配备新一代ARMCortex-X2、A710、A510CPU核心架构，以及新一代AdrenoGPU图形单元。</p>
@@ -26,7 +26,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211201/Sa3057ba8-3289-47b5-a6d0-60b
 <p><strong>全新一代骁龙8移动平台在SpectraISP方面的提升同样惊人，不仅每秒能够处理高达32亿像素，采样能力相比上一代提升高达4000多倍，</strong>也是首个专门为智能手机打造的18bit影像系统。</p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20211201/5cc1e4d1-cba8-4939-bb55-9b3e241e5ccf.png" target="_blank"><img alt="一文看懂年度旗舰骁龙8：首发新十年指令集Armv9、CPU/GPU架构大换代" h="328" src="https://img1.mydrivers.com/img/20211201/S5cc1e4d1-cba8-4939-bb55-9b3e241e5ccf.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p>全新一代骁龙8上的第七代AI引擎，将GPU、Hexagon、SensingHub、CPU的全部能力整合在一起，整体性能相比上一代整体提升4倍。</p>
-<p>基带方面，集成高通第四代5G Modem X65，支持SA+SADSDA双卡双通能力，让双5G网络同步在线，同时将支持3GPP最新的Release16标准，具备更高速率，更低延迟和更大覆盖范围，同时功耗更低。</p>
+<p>基带方面，集成高通第四代5G Modem X65，支持SA+SA DSDA双卡双通能力，让双5G网络同步在线，同时将支持3GPP最新的Release16标准，具备更高速率，更低延迟和更大覆盖范围，同时功耗更低。</p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20211201/deb7b640-c377-40c2-b938-91c68a9631ab.jpg" target="_blank"><img alt="一文看懂年度旗舰骁龙8：首发新十年指令集Armv9、CPU/GPU架构大换代" h="367" src="https://img1.mydrivers.com/img/20211201/Sdeb7b640-c377-40c2-b938-91c68a9631ab.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p><strong>总结起来，关键特性有：</strong></p>
 <p>－<span style="color:#ff0000;"><strong>集成骁龙X65 5G基带，全球首次达到10Gbps的下行速度</strong></span>，支持第四代5G毫米波，并集成FastConnect 6900移动连接系统，<span style="color:#ff0000;"><strong>Wi-Fi 6/6E的下行速度可达3.6Gbps。</strong></span></p>
@@ -37,7 +37,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20211201/Sa3057ba8-3289-47b5-a6d0-60b
 <p>－支持保险库级别的安全特性，首次采用专用信任管理引擎（Trust Management Engine），全球首个符合AndroidReadySE标准（面向数字车钥匙、驾照等），安全处理单元（SPU）支持集成SIM卡（iSIM）。</p>
 <p>以下为骁龙8 Gen1与骁龙888主要区别：</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211201/9116d94aed6a45c19aec3a45b5fd0b78.png" target="_blank"><img alt="一文看懂年度旗舰骁龙8：首发新十年指令集Armv9、CPU/GPU架构大换代" h="817" src="https://img1.mydrivers.com/img/20211201/s_9116d94aed6a45c19aec3a45b5fd0b78.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-
 
            
            

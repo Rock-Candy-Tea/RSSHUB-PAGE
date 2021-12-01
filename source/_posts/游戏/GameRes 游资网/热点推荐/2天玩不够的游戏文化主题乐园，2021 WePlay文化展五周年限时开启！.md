@@ -1,0 +1,106 @@
+
+---
+title: '2天玩不够的游戏文化主题乐园，2021 WePlay文化展五周年限时开启！'
+categories: 
+ - 游戏
+ - GameRes 游资网
+ - 热点推荐
+headimg: 'https://di.gameres.com/attachment/forum/202111/23/155144bl16b92j16l494d0.jpg'
+author: GameRes 游资网
+comments: false
+date: Tue, 23 Nov 2021 00:00:00 GMT
+thumbnail: 'https://di.gameres.com/attachment/forum/202111/23/155144bl16b92j16l494d0.jpg'
+---
+
+<div>   
+<table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2519255">
+<div align="center">虽然经历了延时以及场地变更，但我们还是来了！</div>
+<div align="center">一年一度属于玩家们的盛会，WePlay文化展5周年终于开票！</div>
+<div align="center">时间更新：12月11-12日</div>
+<div align="center">地址更新：静安区电气文通709媒体园区华丽空间50+</div>
+<div align="center">一大波限时又超值的游戏文化体验正在向你袭来！</div>
+<div align="center">你准备好了吗？</div>
+<br><div align="center">
+<img id="aimg_1022414" aid="1022414" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155144bl16b92j16l494d0.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155144bl16b92j16l494d0.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155144bl16b92j16l494d0.jpg" referrerpolicy="no-referrer">
+</div>
+<br><div align="center">超规模——超200款国内外游戏现场试玩，</div>
+<div align="center">8个主题文化沉浸体验内容</div>
+<div align="center">超豪华——集结国内外大牌嘉宾的舞台活动</div>
+<div align="center">超前沿——这里有让你前所未见的新奇体验</div>
+<div align="center">超沉浸——沉浸场景、VR体验，</div>
+<div align="center">独立动画，让身心一起陪你逛展</div>
+<div align="center">超好玩——游戏互动、比赛、现场奖品、周边、</div>
+<div align="center">颁奖典礼等，让你玩到天黑也不想回家</div>
+<br><strong><font color="#de5650">WePlay不止是展，是极致的游戏世界！超200款游戏让你从天亮玩到天黑！</font></strong><br><br>
+WePlay是一个可以畅快玩的游戏世界，致力于将更多好玩的游戏以及更沉浸的体验氛围带给玩家！现场超200款游戏所见即可玩！<br><br><div align="center">
+<img id="aimg_1022415" aid="1022415" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155144nhmmwox8fzj79o50.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155144nhmmwox8fzj79o50.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155144nhmmwox8fzj79o50.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+游戏包含主机游戏、掌机游戏、独立游戏、VR游戏，从最热门的大作到未发售的独立游戏，众多国内外游戏公司与发行商悉数登场带来自家最新游戏提供试玩，带给游戏爱好者一个限时的游戏超级市场！游戏荒？不存在的，在这里你只怕时间不够！<br><br><div align="center">
+<img id="aimg_1022416" aid="1022416" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155145sztb7g3151nd77o7.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155145sztb7g3151nd77o7.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155145sztb7g3151nd77o7.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+感谢现场赞助商bilibili游戏和Yahaha对本次WePlay文化展的大力支持！<br><br>
+UGC互动内容创作平台Yahaha，支持用户以无代码的方式轻松创作多人实时在线的游戏与互动内容，期待重塑3D互动内容的生产方式，实现3D互动内容创作的民主化。<br><br>
+感谢现场赞助商bilibili游戏对本次活动大力支持。bilibili游戏基于B站特有游戏社区文化而生，是国内领先的游戏品牌之一。始终尊重玩家与创作者，不断推出特色鲜明的海内外游戏产品，为玩家呈现出丰富多彩的幻想世界。<br><br><strong><font color="#de5650">大牌海外嘉宾连线，舞台活动2天看不停</font></strong><br><br>
+每年来WePlay的玩家都要面临一个幸福的烦恼，现场想要玩的游戏太多，舞台又有那么多精彩的活动，只能对着时间表进行取舍，恨不得能够“影分身”。国内外大牌嘉宾与观众互动，竞技比赛、颁奖典礼，今年WePlay舞台活动依旧2天看不停！<br><br>
+日本知名游戏媒体 Fami通_电击游戏和CiGA 中国独立游戏联盟共同举办“CiGA X Fami通_电击游戏 -游戏直面会”，WePlay主舞台连线日本知名制作人分享最新情报与观众互动。连线阵容空前豪华！具体嘉宾阵容将在稍后公开敬请期待！<br><br>
+互动加码！本次活动期间Fami通还将通过WePlay发布调查问卷并从参与的玩家中抽出一位送出新版Nintendo Switch(OLED 型号)一台！<br><br>
+在主舞台还准备了超燃的《拳皇15》专场互动，紧张刺激的对决不容错过！今年适逢15周年的505 Games 也将为现场观众精心准备了一系列精彩的内容，共同在这个时段和所有喜欢和关注他们的玩家一起进行庆祝！据说还有一些新作的消息放出！敬请期待！<br><br>
+还有历年压轴大戏，indiePlay中国独立游戏大赛颁奖典礼，中国独立游戏开发者一年一度的聚会，见证今年各奖项花落谁家。<br><br>
+此外今年的舞台会继续设立现场可加入的奖励丰富的互动环节，以及新的内容发布，到场的玩家要提前安排时间了~<br><br><strong><font color="#de5650">WePlay不仅可以玩游戏，还有超多独特主题的文化体验！</font></strong><br><br>
+WePlay不仅可以玩游戏，还有8个独特的主题文化体验内容现场等你。进入每一个主题的内容部分都会在现场的游戏体验之上进行不同的体验叠加，大大开拓了眼界和信息的获取。内容创作的本源本是相通，围绕着游戏的交互体验核心，原来还有这么多丰富的形式、交融和意义。<br><br>
+WePlay文化展5周年之际，主题内容体验也继续进行升级，希望能带给更丰富的文化表现！<br><br><strong><font color="#de5650">IndiePlay入围展示</font></strong><br><br><div align="center">
+<img id="aimg_1022417" aid="1022417" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155145isu5d2bbusg8db75.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155145isu5d2bbusg8db75.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155145isu5d2bbusg8db75.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+2021 indiePlay入围区，集结65款今年indiePlay中国独立游戏大赛的入围作品。这些作品倾注了独立游戏开发者的热情，在视觉、听觉、玩法、叙事等方面有着独特的想法。在这个主题区玩家可以玩到这些有趣的作品，并且与开发者们进行交流。感谢SUPERCELL对indiePlay现在主题体验的大力支持。Supercell的梦想是打造值得广大玩家畅玩多年、铭记于心的优质游戏。为实现这一目标，Supercell面向全球招募优质人才组建精英团队。Supercell相信，最优秀的团队才能做出最优质的游戏！<br><br><strong><font color="#de5650">高校游戏开发主题展示</font></strong><br><br><div align="center">
+<img id="aimg_1022418" aid="1022418" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155146wbsum84vqut4svb4.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155146wbsum84vqut4svb4.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155146wbsum84vqut4svb4.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+在高校游戏区，在这里能感受到学生游戏开发者们的活力与创意！<br><br>
+去年首次设立的高校区，有6所高校参加了展示，鲜活的创意给玩家留下深刻的印象。今年数量直接翻倍，将有来自更多大学的20多款的作品来到现场！其中还包含了部分今年大学生游戏开发大赛的优秀作品！在这里能看到中国游戏研发力量的生力军，和更为奔放的脑洞。<br><br><strong><font color="#de5650">波克城市·游戏✖️社会 – 游戏公益主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022419" aid="1022419" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155146f8f8uh8sq1kz889t.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155146f8f8uh8sq1kz889t.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155146f8f8uh8sq1kz889t.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+波克城市，是一家立足于精品休闲游戏的全球化研发、发行，致力于成为世界领先的数字娱乐平台。游戏作为一种新兴的载体，同样能传递社会正能量，起到科普教育的功能。《我是航天员》由波克城市和新华网客户端联合推出，通过模拟宇航员空间站生活，了解空间站相关知识，体验宇航员的太空经历，从而了解中国航天事业的伟大成就，并通过互动参与传播中国航天精神。<br><br>
+《快乐视界星球》由波克城市和温州医科大学眼视光背景团队共同开发，是一款弹幕射击类训练件，旨在切实有效的解决5~8岁小朋友弱视治疗的过程中，存在的依从性、有效性等问题。<br><br>
+在波克城市带来的“游戏X社会游戏公益主题展示区”中，共有十多款这样充满社会意义的游戏，现场体验游戏结合文化、健康、关怀等相关内容做展现的特别体验。<br><br><strong><font color="#de5650">独立动画主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022420" aid="1022420" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155146quugasi9huk4f6uf.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155146quugasi9huk4f6uf.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155146quugasi9huk4f6uf.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+WePlay不仅有独立游戏，还将引入独立动画展示！本次通过与东布洲国际动画周以及中国独立动画和电影论坛合作，将对于国内最具格调的独立动画活动中历年的优秀作品进行回顾和展示，包括今年最新的优秀作品，视觉和精神的多重享受，欢迎喜欢动画的爱好者前来观看。<br><br><strong><font color="#de5650">文字AVG主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022421" aid="1022421" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155147k1oi1wdoozxzdijn.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155147k1oi1wdoozxzdijn.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155147k1oi1wdoozxzdijn.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+与中文恋爱游戏大赛合作，文字AVG之魂主题区带来10款今年最优秀的文字冒险游戏提供试玩，并邀请来各作品制作组现场与玩家交流！在12月11日主舞台，将会公布2021中文恋爱游戏大赛各奖项最终归属！<br><br><strong><font color="#de5650">海外游戏主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022422" aid="1022422" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155147oj0l455pthb99bbb.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155147oj0l455pthb99bbb.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155147oj0l455pthb99bbb.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+玩遍了国产高质量游戏，海外区还有超多内容等着你！今年WePlay帮助国内许多开发者出展海外活动，也邀请了来自波兰独立游戏基金会、日本BitSummit、新西兰独立原创艺术节、韩国BIC与IndieCraft等总共30多款游戏来到WePlay的现场！其中包括《保利桥2》等知名作品以及尚未发售的新作首次在国内活动提供试玩！<br><br><strong><font color="#de5650">VR游戏主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022423" aid="1022423" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155147u6q545uyou9r55ws.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155147u6q545uyou9r55ws.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155147u6q545uyou9r55ws.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+VR游戏体验区在今年回归！通过和VRplay 的合作，今年将在现场准备专门的VR体验室，引入最新的内容和设备，沉浸式的快乐又回来了! 在《Pizza Master》的世界中来一场沉浸式的制作披萨送餐体验；来一场月球探索或是在万人演唱会当鼓手，在《Wanderer》的世界中穿越各种场景解谜，戴上VR设备你就是“失控玩家“！<br><br><strong><font color="#de5650">游戏动力主题体验</font></strong><br><br><div align="center">
+<img id="aimg_1022424" aid="1022424" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155148q4kqtmr5uf6v45w3.jpg" data-original="https://di.gameres.com/attachment/forum/202111/23/155148q4kqtmr5uf6v45w3.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155148q4kqtmr5uf6v45w3.jpg" referrerpolicy="no-referrer">
+</div>
+<br>
+逛展还能免费领游戏！本次WePlay与游戏动力达成合作，只要在B站购票，凭手机号与兑换码到现场游戏动力展台，关注游戏动力微信公众号，即可抽取一款Steam游戏！另外提前提示，游戏动力将是现场能源的重要补给站！也请同时关注本次WePlay在游戏动力的线上专区哦！<br><br>
+好的游戏体验离不开优秀硬件的支持，作为本次活动的首席硬件合作伙伴,飞利浦特意为本次活动提供了飞利浦猛腾显示器和全新的游戏电视，将与WePlay一起为广大玩家带来一场游戏盛宴。<br><br><strong><font color="#de5650">WePlay线上活动同步开启，更多游戏线上展示</font></strong><br><br>
+根据最新防疫要求，今年的WePlay最终决定更换活动场地，今年不得以将以一个比较小的规模进行，在保留WePlay文化展核心体验的同时对线下参展的内容进行了浓缩，遗憾不能以完全的形态承载今年本来已经报名的全部展商。为此，WePlay 5周年全新开启线上展会部分，玩家可以通过直播、WePlay资料站Gmhub和Steam活动专区了解更多游戏！WePlay将多位主播，对之前已经报名的近400款游戏以及海外报名出展的游戏进行线上直播！具体直播时间请关注WePlay官方微信号，同时在WePlay线上资料站上玩家们可以找到所有在线下能玩到的和线上进行直播的游戏，线上的内容将在线上持续更久的时间。<br><br>
+同时，今年WePlay还联合游戏动力和游民星空，开设线上的WePlay专题页，更多线上入口和内容专区，方便更多的观众可以在更久的时间持续体验本次精心筹备的五周年内容。<br><br>
+在疫情期间，每一场线下活动都来之不易！WePlay 5周年之际，尽管规模有所缩小，但原汁原味的各式文化体验依然还在！WePlay也依旧还是那个2天玩不完的游戏文化主题乐园！<br><br>
+不管你是一个人想要来找游戏、结识一起玩游戏的好友，还是组团聚会或者想要安利给TA游戏文化，WePlay文化展都是你的首选！<br><br>
+一张门票畅玩展会所有项目，包你玩到天黑也不想回家！<br><br>
+疫情期间门票限量销售，请所有参展观众严格遵守现场防疫要求，谢谢配合。<br><br><strong>购票链接：</strong><br><br>
+https://show.bilibili.com/platform/detail.html?msource=mall_piaowu_pc_3597_banner&id=55476&from=pwng-pc<br><br><div align="center">
+<img id="aimg_1022425" aid="1022425" zoomfile="https://di.gameres.com/attachment/forum/202111/23/155148iiqtbqnnfzpiftzc.png" data-original="https://di.gameres.com/attachment/forum/202111/23/155148iiqtbqnnfzpiftzc.png" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202111/23/155148iiqtbqnnfzpiftzc.png" referrerpolicy="no-referrer">
+</div>
+<br>
+WePlay文化展还有更多内容陆续公开中！欢迎关注WePlay文化展官方微信号获取更多信息！<br><br>
+</td></tr></tbody></table>
+
+
+  
+</div>
+            
