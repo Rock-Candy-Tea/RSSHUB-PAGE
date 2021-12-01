@@ -1,0 +1,19 @@
+
+---
+title: '高通骁龙 8 Gen 1 芯片正式发布：采用三星 4nm 工艺，CPU 性能提升 20%，GPU 提升 30%，搭载全新 X65 基带'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/8a140a6e-fed7-47d2-88ba-ffb624b3d9df.png'
+author: IT 之家
+comments: false
+date: Wed, 01 Dec 2021 00:03:38 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/8a140a6e-fed7-47d2-88ba-ffb624b3d9df.png'
+---
+
+<div>   
+<p data-vmark="ed23"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 12 月 1 日消息，高通正式宣布了为 2022 年的下一代旗舰智能手机打造的新处理器。这就是骁龙 8 Gen 1（Snapdragon 8 Gen 1）是骁龙 888 的继任者。</p><p data-vmark="855c"><img src="https://img.ithome.com/newsuploadfiles/2021/12/8a140a6e-fed7-47d2-88ba-ffb624b3d9df.png" w="922" h="611" title="高通骁龙 8 Gen 1 芯片正式发布：采用三星 4nm 工艺，CPU 性能提升 20%，GPU 提升 30%，搭载全新 X65 基带" width="922" height="543" referrerpolicy="no-referrer"></p><p data-vmark="45cd"><img src="https://img.ithome.com/newsuploadfiles/2021/12/081c7857-426e-4c41-b0c3-60f60ab41e74.png" w="804" h="489" title="高通骁龙 8 Gen 1 芯片正式发布：采用三星 4nm 工艺，CPU 性能提升 20%，GPU 提升 30%，搭载全新 X65 基带" width="804" height="489" referrerpolicy="no-referrer"></p><p data-vmark="8c73">IT之家获悉，骁龙 8 Gen 1 是高通公司第一款使用 Arm 公司最新 Armv9 架构的芯片。具体而言，新的八核 Kryo CPU 将配备基于 Cortex-X2 的主核，频率为 3.0GHz，同时还有三个基于 Cortex-A710 的性能核，频率为 2.5GHz，以及四个基于 Cortex-A510 设计的能效核，频率为 1.8GHz。此外，新芯片从骁龙 888 所采用的 5nm 工艺跳到了 4nm 工艺。</p><p data-vmark="ebc7">参数包括 1 个 Cortex-X2 3.0GHz 1M L2 缓存，3 个 Cortex-A710 2.5GHz 512K L2 缓存，4 个 Cortex-A510 1.8GHz，6M L3 缓存，支持 LPDDR5 3200MHz。</p><p data-vmark="e976">作为高通公司的第四代 5G 调制解调器，它建立在现有的毫米波和 sub-6GHz 的兼容性之上，增加了对高达 10Gbps 速度和最新 3GPP Release 16 规范的支持。</p><p data-vmark="7de8">骁龙 8 Gen 1 还支持 Wi-Fi 6 和 Wi-Fi 6E、蓝牙 LE 音频（高通公司的首创），以及该公司的骁龙音效技术，以实现 AptX 无损无线音频。</p><p data-vmark="4b8d"><img src="https://img.ithome.com/newsuploadfiles/2021/12/ab92c0a5-59aa-4886-b700-a495508eec5c.jpg@s_2,w_820,h_546" w="920" h="613" title="高通骁龙 8 Gen 1 芯片正式发布：采用三星 4nm 工艺，CPU 性能提升 20%，GPU 提升 30%，搭载全新 X65 基带" srcset="https://img.ithome.com/newsuploadfiles/2021/12/ab92c0a5-59aa-4886-b700-a495508eec5c.jpg 2x" width="920" height="546" referrerpolicy="no-referrer"></p><p data-vmark="43db">骁龙 8 Gen 1 CPU 性能不会比骁龙 888 Plus 的性能有很大提高，CPU 提升 20%，能效提升 30%，它所承诺的是在与人工智能相关的任务方面有更快的性能。骁龙 8 Gen 1 还具有新的第七代人工智能引擎，速度快 4 倍。骁龙 8 Gen 1 还支持 aptX 无损蓝牙编解码器，可以提供高达 16bit 的 44.1kHz 的 CD 质量音频流。</p><p data-vmark="6a8a">同时，新的 Adreno GPU（与骁龙 8 Gen 1 的 Kryo CPU 一样，高通公司在此没有给出更新硬件的具体数字）承诺提供 30% 的图形渲染速度，此外，与骁龙 888 相比，能效提高 25%。它还将提供一个新的 GPU 控制面板，用于微调游戏在手机上的运行方式。</p><p data-vmark="03f3"><img src="https://img.ithome.com/newsuploadfiles/2021/12/a69aaac7-15e9-4588-8a03-c050a5ce5c3b.jpg@s_2,w_820,h_462" w="920" h="518" title="高通骁龙 8 Gen 1 芯片正式发布：采用三星 4nm 工艺，CPU 性能提升 20%，GPU 提升 30%，搭载全新 X65 基带" srcset="https://img.ithome.com/newsuploadfiles/2021/12/a69aaac7-15e9-4588-8a03-c050a5ce5c3b.jpg 2x" width="920" height="462" referrerpolicy="no-referrer"></p><p data-vmark="0a20">在摄像头方面，骁龙 8 Gen 1 现在提供了 18 bit 的信号处理器，与骁龙 888 上的 14bit Spectra ISP 相比，可以处理 4000 倍的数据，使该设备可以每秒捕捉 32 亿像素，或者更实际的是，它可以同时处理三个 3600 万像素摄像头的视频流。</p><p data-vmark="819f">三重 ISP（图像信号处理器）还允许在 1s 内拍摄 240 张 1200 万像素的照片，或在拍摄 6400 万像素的静态照片时同时进行 8K 拍摄，这要归功于每秒 32 亿像素的吞吐量。</p><p data-vmark="8232">高通公司还提供了更多的高端相机功能，包括支持用 HDR 10 + 拍摄 8K 视频和用 18 bit RAW 拍摄（假设你的手机有相机硬件可以真正做到这一点）。这意味着 30FPS 的 8K HDR 是小菜一碟，120FPS 的 4K UHD 拍摄也是如此，甚至更极端的 960FPS 720P 拍摄也是如此。</p><p data-vmark="abcd">骁龙 8 Gen 1 还具有其他各种成像改进，包括更好的黑暗模式照片，可以在一次拍摄中使用多达 30 张图片的数据（高于骁龙 888 上的 6 张图片）。还有一系列更好的人工智能处理技术，包括改进的自动曝光、自动对焦和自动脸部检测技术，为 4K 视频添加人像效果的专用“虚化引擎”，以及可以从拍摄中去掉扭曲和色差的“超宽引擎”。</p><p data-vmark="0675">骁龙 8 Gen 1 新的独特功能是能够使用低功耗的始终在线的信号处理器不断处理视频，支持诸如始终在线的人脸检测和生物识别的功能。</p><p data-vmark="15dc">在安全方面，骁龙 8 Gen 1 还具有信任管理引擎，并支持谷歌的 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android</a> Ready SE 标准（用于存储数字汽车钥匙和身份证），开箱即用。</p><p data-vmark="eb2b">第一批采用骁龙 8 Gen 1 处理器的终端可能在 12 月投放市场，2022 年上半年会有更多的终端投放市场。</p>
+          
+</div>
+            
