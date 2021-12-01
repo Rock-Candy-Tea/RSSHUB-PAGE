@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/efb12601-61cb-43ea-bf4c-095701
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/efb12601-61cb-43ea-bf4c-095701c1c3da.jpg" referrerpolicy="no-referrer"><p>笑死</p>  
+<img src="https://img.4gamers.com.tw/news-image/efb12601-61cb-43ea-bf4c-095701c1c3da.jpg" referrerpolicy="no-referrer"><p>笑死。</p>  
 </div>
             

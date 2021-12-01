@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-ad91868af43e5f41047693de9d926699_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=3519'
 author: 知乎
 comments: false
-date: Wed, 01 Dec 2021 09:03:53 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-ad91868af43e5f41047693de9d926699_1440w.jpg'
+date: Wed, 01 Dec 2021 08:50:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3519'
 ---
 
 <div>   
-九斗的回答<br><br><p></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ad91868af43e5f41047693de9d926699_1440w.jpg" data-rawwidth="922" data-rawheight="1652" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-4d54aba0c2bf933b12f08f8e954b1d3f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ad91868af43e5f41047693de9d926699_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1bcb6592852ab5f7f12c2e07f3616050_1440w.jpg" data-rawwidth="922" data-rawheight="1605" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-248b076e858cb629f467d26520074c03_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-1bcb6592852ab5f7f12c2e07f3616050_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="ueUDibC2">看来是事实了。咋说呢，C罗公开表态过希望退役前金球奖的次数超过梅西。如果7：5，超越是肉眼可见的不可能。C罗又无论如何不能说出5＞7的观点，所以这次看来是真的破防了。</p><p data-pid="yH_KAvZH">看到这样的超级巨星心境和我们普通球迷一般，感觉和明星的差距瞬间小了。</p><p data-pid="Avjn-2mZ">不过，我记着他的球迷说19年美洲杯梅西红牌是无能狂怒。那这波操作，又当如何呢。</p><p data-pid="xUqivxoP">暴怒战士？</p><p data-pid="c9Fo2EqG">当然我相信C罗这是真性情的。</p>  
+阳光太阳骑士的回答<br><br><blockquote data-pid="zsyqVLrA">梅西评论C罗<br><br><b>你如何看待C罗在曼联的表现？</b><br>曼联是一支拥有众多伟大球员的球队，C罗在之前就在曼联效力过，他非常了解曼联，但是现在是另一个阶段了，C罗的适应能力让人印象深刻。从一开始，他就延续着自己一直以来的表现，一直进球。英超不像我们想象中的那样好适应，这是一项非常公平但也很艰难的比赛，12月份之后，一切都会有变化。<br><b>说实话，你怀不怀念那些年和C罗的竞争？</b><br>我们已经很久没在同一个联赛踢球了，我们在个人和团队层面都为了同样的目标在竞争，对我们和大家而言，这都是一段非常美妙的事情，大家都会享受其中，大家都爱足球，（我和C罗的竞争）也会成为一段美好的回忆，留在足球世界的历史里。<br>梅西评论莱万<br>“我想提到罗伯特-莱万多夫斯基，与你竞争真的是一种荣幸。每个人都知道，你是去年的最大赢家。我认为法国足球应该授予你2020年金球奖，这是你应得的，你应该拥有它”<br><br><br><br><br><br><br></blockquote><p data-pid="hfNQUqLL">并且有新闻指出不排除补发2020年金球奖的可能</p><p data-pid="YIeJIi15">让我们看看C罗这正主亲自下场撕逼的样子吧</p><p data-pid="GpyjBoeW">高下立判了吧</p><p data-pid="E5PDf6Zo">有些C罗球迷说梅西对于C罗和莱万的评价是“婊”，我真的无话可说，可能大家真的不一样吧</p>  
 </div>
             
