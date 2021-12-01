@@ -1,0 +1,19 @@
+
+---
+title: '本田CEO三部敏宏：我并不执着于保持独立，已经为巨变做好准备'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member50184/202112/wx_article__66c98b14ed5b9100c71811855d0ed45e.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 01 Dec 2021 07:32:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member50184/202112/wx_article__66c98b14ed5b9100c71811855d0ed45e.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50184/202112/wx_article__66c98b14ed5b9100c71811855d0ed45e.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">三部敏宏已经为巨变做好准备，欢迎同路人</p><p style="text-indent: 2em; text-align: left;">编译 ｜ 杨玉科</p><p style="text-indent: 2em; text-align: left;">编辑 ｜ Jane</p><p style="text-indent: 2em; text-align: left;">出品 ｜ 帮宁工作室（gbngzs）</p><p style="text-indent: 2em; text-align: left;">今年4月，三部敏宏（Toshihiro Mibe）担任本田汽车首席执行官。彼时，这家日本第二大汽车制造商已经踏上重组汽车业务的艰辛之路。</p><p style="text-indent: 2em; text-align: left;">三部敏宏把这种艰难程度又调高一级。上任仅数周，他就对本田汽车展开一场彻底改造，设想到2040年，逐步淘汰本田汽车引以为豪的<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180825-neiranji.html" target="_blank" title="内燃机">内燃机</a></span>，将本田汽车转变为一家碳中和动力和出行提供商。三部敏宏是一位经验丰富的工程师，曾担任研发主管，多年来一直是本田汽车与合作伙伴通用汽车的接洽人。对与其他公司合作，获取本田汽车所缺乏技术，从而在这个不断变化的时代取得成功，三部敏宏持开放态度。近日，60岁的三部敏宏接受Automotive News亚洲编辑Hans Greimel访谈。内容涉及纯<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>发展，对资本联盟的看法，本田汽车转向固态<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>的计划，以及新移动出行时代如何塑造一个新本田的愿景。以下为访谈内容，帮宁工作室略作编辑。</p><p style="text-indent: 2em; text-align: left;">为什么您成为领导本田进行彻底改造的合适人选？</p><p style="text-indent: 2em; text-align: left;">我脑海中对2030年已经有一个具体的影像——社会结构将发生变化，不仅仅是汽车行业，还有其他领域。商业模式本身必须改变。本田将不再是一家汽车公司。我们将转变航向，变得更像是一家碳中和公司。</p><p style="text-indent: 2em; text-align: left;">为什么本田是日本第一家承诺完全零排放的汽车制造商？ 承担社会责任方面，本田汽车有着悠久的历史。CVCC引擎只是其中之一，还有满足加州超低排放法规（SULEV）的引擎。我们是世界上第一家推出超低排放引擎的公司。</p><p style="text-indent: 2em; text-align: left;">现在，我们必须解决的问题是全球变暖。我们向全世界提供约3000万套装备发动机的产品。所以，本田汽车认为减排义不容辞，这是我们首先想到的第一件事。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50184/202112/wx_article__36262d9087df66a9150a9a28b4af6b4b.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">本田一直以发动机而闻名，对它所带来的品牌资产和专项技能，怎么做到说放就放？</p><p style="text-indent: 2em; text-align: left;">问题是，我们能否通过保留现有引擎来实现碳中和？如果可以，那就太好了，但这似乎不是一个现实可行的解决方案。我们的终极目标是实现碳中和，我们拥有的最好资产不是引擎本身，而是构建这些引擎的人力资源。</p><p style="text-indent: 2em; text-align: left;">这才是我们最为珍视的。目前生产发动机的人，被重新分配到<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180824-qingdianchi.html" target="_blank" title="燃料电池">燃料电池</a></span>或固态电池等领域。制造引擎的人力资源不得不改变方向。拥有他们，我们一定能在这些新技术上引领世界。这是一个必要的改变，确保本田汽车可持续生存到未来。</p><p style="text-indent: 2em; text-align: left;">本田在北美的碳中和和电动汽车战略是什么？</p><p style="text-indent: 2em; text-align: left;">在北美，我们感觉有一股电气化热潮涌动，尤其是拜登总统（Joe Biden）上任之后。不过，电气化并不是一蹴而就的事情，还需要一些时间。所以，现阶段我们不想孤注一掷，把太多精力放在这上面，我们还处于起步阶段。</p><p style="text-indent: 2em; text-align: left;">鉴于此，我们不应该单独行动，应该与通用汽车等合作伙伴合作，然后扩大规模，以确保业务的可行性，这是我们在北美市场的初期策略。一旦达到一定规模，我们将考虑推出本田原装产品，不限于电动汽车产品。</p><p style="text-indent: 2em; text-align: left;">我们可能会将投资扩展到与电动汽车相关领域，开展与电动汽车相关业务。作为进军北美市场的第一步，也许有人认为，这不是很有成效，但就目前而言，与通用汽车合作是最好的解决方案。</p><p style="text-indent: 2em; text-align: left;">什么时候宣布北美计划的更多细节？</p><p style="text-indent: 2em; text-align: left;">现在是第一阶段，我们正在与通用汽车合作。从2024年开始，我们将推出本田Prologue和讴歌旗下的另一款车型。除此之外，也许明年早些时候我可以谈谈这件事。可能不仅仅是关于产品，也与电池策略和相关事项有关。</p> 
+  
+</div>
+            

@@ -1,0 +1,19 @@
+
+---
+title: 'ABI3 基因突变增加阿尔茨海默病的风险'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__e862d468fa65156e45d45d8a2109412b.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 01 Dec 2021 07:41:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__e862d468fa65156e45d45d8a2109412b.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">当免疫细胞在大脑中移动时,它们充当了抵御病毒、有毒物质和受损神经元的第一道防线,并迅速将其清除。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__e862d468fa65156e45d45d8a2109412b.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">印第安纳大学医学院11月3日消息</p><p style="text-indent: 2em; text-align: left;">印第安纳大学医学院(Indiana University School of Medicine)的研究人员一直在研究大脑小胶质细胞中的免疫细胞与最近在阿尔茨海默病患者中发现的基因突变之间的关系。他们近日在《科学进展》(Science Advances)杂志上发表了他们的发现。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__896479cab9f81e99ca293a09c95719ef.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">研究于2021年11月3日发表在《Science Advances》(最新影响因子:14．136)杂志上</p><p style="text-indent: 2em; text-align: left;">这项由医学和分子遗传学博士后研究员 Hande Karahan 博士和医学和分子遗传学 P． Michael Conneally 教授 Jungsu Kim 博士领导的研究发现,删除称为 ABI3 的基因显着增加了β-淀粉样蛋白斑块在大脑中的积累,并减少斑块周围小胶质细胞的数量。</p><p style="text-indent: 2em; text-align: left;">Karahan 说:“这项研究可以进一步了解小胶质细胞导致这种疾病的关键功能,并帮助确定新的治疗靶点。”</p><p style="text-indent: 2em; text-align: left;">Karahan 的研究是基于一项85,000多人(不到一半是阿尔茨海默病患者)的人类遗传学研究,那项研究确定了 ABI3 基因的突变。研究人员得出结论,这种突变增加了迟发性阿尔茨海默病的风险。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__b4d092cdeb6cc3720bc14a3ef97bedce.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Karahan 说:“然而,那项研究并没有研究ABI3基因在大脑中的功能,也没有研究该基因如何影响小胶质细胞的功能。” 这一事实导致了她的研究。</p><p style="text-indent: 2em; text-align: left;">该研究小组从阿尔茨海默病小鼠模型中删除了ABI3基因,并在细胞培养的小胶质细胞中测试了该基因的功能。在小鼠模型中,他们发现大脑中的斑块和炎症水平增加,突触功能障碍的迹象——与该疾病的学习和记忆缺陷相关的特征。</p><p style="text-indent: 2em; text-align: left;">此外,Karahan 说,基因的缺失会损害小胶质细胞的运动。免疫细胞无法靠近斑块试图清除蛋白质。淀粉样斑块通常存在于阿尔茨海默病患者的大脑中,β-淀粉样蛋白聚集在一起形成斑块,破坏神经细胞连接。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__1bcce010430670c298cec3e618791e13.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Karahan 说:“我们的研究首次提供了体内功能证据,表明ABI3功能的丧失可能会通过影响β-淀粉样蛋白积累和神经炎症而增加患阿尔茨海默病的风险。”</p><p style="text-indent: 2em; text-align: left;">参考文献</p><p style="text-indent: 2em; text-align: left;">Source:Indiana University School of Medicine</p><p style="text-indent: 2em; text-align: left;">Researchers investigate role of gene associated with Alzheimer’s disease in brain’s immune cells</p><p style="text-indent: 2em; text-align: left;">Reference:</p><p style="text-indent: 2em; text-align: left;">Karahan H, Smith DC, Kim B, Dabin LC, Al-Amin MM, Wijeratne HRS, Pennington T, Viana di Prisco G, McCord B, Lin PB, Li Y, Peng J, Oblak AL, Chu S, Atwood BK, Kim J． Deletion of Abi3 gene locus exacerbates neuropathological features of Alzheimer's disease in a mouse model of Aβ amyloidosis． Sci Adv． 2021 Nov 5;7(45):eabe3954． doi: 10．1126/sciadv．abe3954． Epub 2021 Nov 3． PMID: 34731000．</p><p style="text-indent: 2em; text-align: left;">免责声明</p><p style="text-indent: 2em; text-align: left;">本公众号上的<span class="hrefStyle"><a href="http://medical.ofweek.com/CAT-11102-IT.html" target="_blank" title="医疗信息">医疗信息</a></span>仅作为信息资源提供与分享,不用于或依赖于任何诊断或治疗目的。此信息不应替代专业诊断或治疗。在做出任何<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>决定或有关特定医疗状况的指导之前,请咨询你的医生。</p> 
+  
+</div>
+            
