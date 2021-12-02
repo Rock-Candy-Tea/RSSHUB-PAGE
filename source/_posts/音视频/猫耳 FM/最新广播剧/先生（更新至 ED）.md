@@ -1,0 +1,18 @@
+
+---
+title: '先生（更新至 ED）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202112/02/79bc21e18ab576f0e1254ba3349c8447010922.jpg'
+author: 猫耳 FM
+comments: false
+date: Wed, 01 Dec 2021 11:13:32 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202112/02/79bc21e18ab576f0e1254ba3349c8447010922.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202112/02/79bc21e18ab576f0e1254ba3349c8447010922.jpg" referrerpolicy="no-referrer"><br><p>十六不六原著，南城广播剧社出品，架空历史广播剧《先生》全一期发布</p><p><br></p><p>—努力爱春华，莫忘欢乐时—</p><p>—生当复未归，死当长相思—</p><p><br></p><p>—STAFF—</p><p>导演：犀弦【南城广播剧社】@犀子弦声</p><p>原著：十六不六@何处尘埃-</p><p>编剧：魑魅【南城广播剧社】@魑魅魅i</p><p>策划：梨烁【南城广播剧社】@梨烁今天废柴了吗</p><p>监制：泊野【南城广播剧社】@南语文学社</p><p>后期：回锅肉的锅@回锅肉的锅</p><p>美工：惊蛰@江山惊梦/犀弦@犀子弦声</p><p>画师：惊蛰@江山惊梦</p><p>字幕：浅淺茜蒨@浅淺茜蒨</p><p><br></p><p>—CAST—</p><p>潋吟：沫生【笙笙入耳】@沫生Impression</p><p>鹤历：以煦@以煦-一条有梦想的咸鱼</p><p>阿婶：虞宝宝【煎饼果子】@虞宝炒鸡6</p><p>妇人：素语@素语素语素语</p><p>男子：欧空空【木人巷工作室】@空空青忆</p><p>女子：温白言【鹿遇影音社】@温白言</p><p>赵愠：逐影@小逐影</p><p>赵愠（幼）：2丫【人鱼之声】@2丫是禦姐</p><p>孩童×4：绵氧锅锅【勿念如初】@绵氧锅锅iii ; 2丫【人鱼之声】@2丫是禦姐；水泱@水泱微博；语奕@是ROISE</p><p>报幕：请愿炸碉堡@请愿炸碉堡</p><p>官差：向南【十三阁】@向南同学不可用</p><p>丈夫：三火SAMA@三火SAMA</p><p>李伯：哼哼@o哼哼oz</p><p>王伯：星南【AI配中文配音社团】@星南配音</p><p>村长：夜皈依【砚霖轩工作室】</p><p>富人：夜皈依【砚霖轩工作室】</p><p><br></p><p>—声明—</p><p>本作品仅供配音爱好者个人学习、交流，请勿进行二次修改或者用于任何商业用途。</p><p>本作品不开放转载和二次上传，请勿进行任何转载和二次上传。</p><p><br></p>  
+</div>
+            
