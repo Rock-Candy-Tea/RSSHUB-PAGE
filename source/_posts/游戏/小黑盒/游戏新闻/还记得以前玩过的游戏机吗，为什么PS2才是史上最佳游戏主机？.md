@@ -1,0 +1,18 @@
+
+---
+title: '还记得以前玩过的游戏机吗，为什么PS2才是史上最佳游戏主机？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/02/a11298350ce61702dbc560fcfe098342/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Thu, 02 Dec 2021 21:04:31 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/02/a11298350ce61702dbc560fcfe098342/thumb.jpeg'
+---
+
+<div>   
+<p><img class="lazy" data-height="675" src="https://imgheybox.max-c.com/bbs/2021/12/02/a11298350ce61702dbc560fcfe098342/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><h4 class="img-desc">Play Station 2</h4><p>当年的小伙伴们，放学很喜欢去一个摆满游戏机的地方，其中就有PS2，事实上，PS2是有史以来最畅销的主机，那么背后的原因是什么呢？</p><p><img class="lazy" data-height="211" src="https://imgheybox.max-c.com/bbs/2021/12/02/c11a61d160439d2bcf833b12586f4242.gif" data-width="500" referrerpolicy="no-referrer"></p><h4 class="img-desc">运行成功画面</h4><p>2000年3月4日，索尼PlayStation 2家用游戏主机正式发布，由于生产延误，当时市场上很难购买到PS2。由于PS2发售同时也同时发售多款游戏大作，加上PS2采取当时较为先进的DVD-ROM，容量达4.7或8.5GB，而Dreamcast只使用1.2GB的GD-ROM，同时SONY为游戏开发商和为消费者提供更多的PS2支持，所以PS2很快便打败Dreamcast，更间接导致世嘉完全退出家用游戏机市场。</p><p><img class="lazy" data-height="2200" src="https://imgheybox.max-c.com/bbs/2021/12/02/5117379ff82b002948e72d4c74938e5f/thumb.jpeg" data-width="4540" referrerpolicy="no-referrer"></p><h4 class="img-desc">Dreamcast</h4><p>尽管世嘉在2001年3月宣布停止生产Dreamcast，PS2又立即面临来自新对手的竞争，微软的Xbox和任天堂GameCube。</p><p><br></p><p><img class="lazy" data-height="552" src="https://imgheybox.max-c.com/bbs/2021/12/02/cfd58f8c1b0cb55bc7c08fe12e38c027/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><h4 class="img-desc">微软Xbox</h4><p>许多分析家预计三大游戏机之间的密切的三方对决：Xbox拥有最强大的硬件，而GameCube的是最便宜的游戏机，再加之任天堂改变其政策，鼓励第三方开发者，而PlayStation 2则是最弱的规格，但有着良好的开端（击败Dreamcast）、不少的游戏支持，加上SONY与开发商的承诺。虽然PlayStation 2的初始游戏阵容认为是平庸的，但在最后成功领先Xbox，GameCube。其GT赛车系列、高达系列、侠盗猎车手系列等游戏令到PS2大卖一时。而在微软推出联机功能的Xbox Live的发布之际，索尼早在2002年底发布了PlayStation网络适配器，并与开发商合作推出众多联机游戏。</p><p><img class="lazy" data-height="1787" src="https://imgheybox.max-c.com/bbs/2021/12/02/68a8262fdb109da9b9ebed5d54f17e94/thumb.jpeg" data-width="1890" referrerpolicy="no-referrer"></p><h4 class="img-desc">PS2庞大的游戏库</h4><p>据维基百科显示，PS2的累计销量超过了1.55亿台，是所有主机中最高的。紧随其后的是任天堂DS家族的1.54亿、Game Boy和Game Boy Color(1.19亿)、PS4(1.16亿)和PS1(1.02亿)。</p><p>相比之下，微软家族销量最高的是Xbox360，超过了8400万台，与同时代竞争对手PS3接近。<br></p><p> </p><p>2004年初，索尼宣布推出PlayStation 2的超薄版“PlayStation 2 slimline”，在2004年10月29日开售。价格与PlayStation 2一样。但机身尺寸大小足足减少了130%，由30.1 cm X 17.6 cm X 7.8 cm减少至23 cmx 15.2 cm x 2.8 cm。性能与功能和原版没有分别，光驱由原本的机械托盘式改为舱门式，不仅依然兼容任何PS1的游戏，依然支持CD音乐及DVD影音播放功能，并且直接内建网络接口。</p><p><img class="lazy" data-height="381" src="https://imgheybox.max-c.com/bbs/2021/12/02/e36b2faeb6b7c594be7f02981ac5a816/thumb.jpeg" data-width="750" referrerpolicy="no-referrer"></p><h4 class="img-desc">PlayStation2 slimline</h4><p>索尼原来设定PS2的寿命为10年（即为2010年），但根据SONY表示，它的生命周期将继续下去，只要开发商继续开发新的游戏和有销售需求，SONY愿意继续生产及支持PS2</p><p>2012年12月28日，日本索尼电脑娱乐（SCEJ）在PlayStation2（PS2）主机官方产品网页上公告，日本地区PS2主机的供货在今天正式结束，替PS2主机在日本长达12年9个月又24天的销售划下句点。<br></p><p>2016年3月31日早上6点（太平洋标准时间），PS2平台上《最终幻想XI》的线上服务正式停止。4月2日，索尼正式宣布，PS2游戏的所有线上服务已经全部结束。</p><p>2018年6月22日，日本索尼互动娱乐（SIE）发布通知，宣布从2018年8月31日起停止对PS2及其周边设备的售后服务。</p><p>虽然PS2退出市场，直到目前为止 PlayStation 2 slimline依旧是全世界最轻薄的家用游戏机的记录保持者。</p><p> </p><p>无论如何，PS2是历史上最成功的游戏主机，其火热程度甚至一度超出了索尼的想像。它给索尼留下了巨大的”遗产“ ，也给玩家们留下了一段美好的回忆。</p>  
+</div>
+            

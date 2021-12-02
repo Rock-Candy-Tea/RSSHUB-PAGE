@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=1606'
+headimg: 'https://picsum.photos/400/300?random=3091'
 author: 香水时代
 comments: false
 date: Wed, 24 Nov 2021 07:19:53 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1606'
+thumbnail: 'https://picsum.photos/400/300?random=3091'
 ---
 
 <div>   
@@ -18,6 +18,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1606'
 评分4.5，扩散一般，不街不难穿，不媚俗，不做作。
 第一次认真试香，第一次认真写评，感谢香水时代，带我入香坑，熬夜写香评，太感谢您嘞，我感谢n……
 
-更新：睡前上皮醒来还有余香，变得温暖柔和绅士。上班喷在袖口一整天还保有2-3层的功力，滴露和刨木花，平时说我香水穿得太骚的女同事，今天说这是纯爷们的男人香。这是一款很酷的香。  
+更新：睡前上皮醒来还有余香，变得温暖柔和绅士。上班喷在袖口一整天还保有2-3成的功力，滴露和刨木花，平时说我穿香太骚的女同事，今天说这是纯爷们的男人香。
+总结：这绝对是一款纯男香，追求中性香的女生就算了，除非你是机车朋克风铁T！  
 </div>
             
