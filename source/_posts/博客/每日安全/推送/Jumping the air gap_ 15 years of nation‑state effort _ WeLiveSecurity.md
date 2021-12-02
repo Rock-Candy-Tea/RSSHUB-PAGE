@@ -1,0 +1,26 @@
+
+---
+title: 'Jumping the air gap_ 15 years of nation‑state effort _ WeLiveSecurity'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=7110'
+author: 每日安全
+comments: false
+date: 2021-12-02 05:08:41
+thumbnail: 'https://picsum.photos/400/300?random=7110'
+---
+
+<div>   
+<q>ESET 研究员对近 15 年公开攻击中涉及的穿透物理隔离边界的框架的分析</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 39 minutes ago</small></span>
+</cite>
+  
+</div>
+            
