@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Eventernote
  - 声优活动及演唱会
-headimg: 'https://picsum.photos/400/300?random=1824'
+headimg: 'https://picsum.photos/400/300?random=508'
 author: Eventernote
 comments: false
-date: 2021-12-01 15:08:39
-thumbnail: 'https://picsum.photos/400/300?random=1824'
+date: 2021-12-02 00:26:46
+thumbnail: 'https://picsum.photos/400/300?random=508'
 ---
 
 <div>   

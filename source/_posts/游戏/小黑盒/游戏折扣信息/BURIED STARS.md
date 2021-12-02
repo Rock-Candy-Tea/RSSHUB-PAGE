@@ -1,0 +1,19 @@
+
+---
+title: 'BURIED STARS'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏折扣信息
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1025960/header.jpg?t=1638197964'
+author: 小黑盒
+comments: false
+date: 2021-12-02 00:26:08
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1025960/header.jpg?t=1638197964'
+---
+
+<div>   
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1025960/header.jpg?t=1638197964" referrerpolicy="no-referrer"> <br>
+            平台: PC<br>折扣力度: 8.5折<br>当前价格: 99[史低]  原价: 116<br><br>  
+</div>
+            
