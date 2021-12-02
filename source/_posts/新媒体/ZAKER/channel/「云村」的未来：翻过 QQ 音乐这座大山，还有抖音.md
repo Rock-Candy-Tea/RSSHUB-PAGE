@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - ZAKER
  - channel
-headimg: 'https://picsum.photos/400/300?random=8445'
+headimg: 'https://picsum.photos/400/300?random=6659'
 author: ZAKER
 comments: false
-date: 2021-12-02 11:06:48
-thumbnail: 'https://picsum.photos/400/300?random=8445'
+date: 2021-12-02 12:11:49
+thumbnail: 'https://picsum.photos/400/300?random=6659'
 ---
 
 <div>   
