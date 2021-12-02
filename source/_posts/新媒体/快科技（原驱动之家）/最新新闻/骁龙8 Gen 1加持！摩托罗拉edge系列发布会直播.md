@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 快科技（原驱动之家）
  - 最新新闻
-headimg: 'https://picsum.photos/400/300?random=7049'
+headimg: 'https://picsum.photos/400/300?random=7494'
 author: 快科技（原驱动之家）
 comments: false
 date: Thu, 02 Dec 2021 20:31:30 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7049'
+thumbnail: 'https://picsum.photos/400/300?random=7494'
 ---
 
 <div>   
