@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/asana-freehand-picture-the-future/'
 author: Inside Design
 comments: false
-date: 2021-12-03 07:09:34
+date: 2021-12-03 08:10:50
 thumbnail: 'https://www.invisionapp.com/inside-design/asana-freehand-picture-the-future/'
 ---
 
