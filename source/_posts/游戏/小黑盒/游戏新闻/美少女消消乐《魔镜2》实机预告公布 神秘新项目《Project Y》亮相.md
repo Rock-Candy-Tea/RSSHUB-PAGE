@@ -1,0 +1,18 @@
+
+---
+title: '美少女消消乐《魔镜2》实机预告公布 神秘新项目《Project Y》亮相'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1638496685'
+author: 小黑盒
+comments: false
+date: Fri, 03 Dec 2021 14:50:29 GMT
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1638496685'
+---
+
+<div>   
+<p>好评如潮绅士游戏《<b>魔镜</b>Mirror》续作《<b>魔镜2: Project X</b>》已经正式公布，预计2022年1月就会在Steam开启“抢先体验”。<b>2代升级为全新3D画面、采用虚幻4引擎</b>，今日官方公布了2代的首个实机宣传片。</p><p><img data-gameid="1832640" src="https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1638496685" referrerpolicy="no-referrer"></p><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=294576143&bvid=BV1sF41187Mb&cid=453638672&page=1" width="480"></iframe></p><p>《魔镜2》有更加丰富的剧情，融入了类似“SCP收容”的设定，古神、邪教、异次元、平行世界、上古巫术、突破次元壁的动漫角色、神话传说、超级AI、魔法、神秘的东方武术……玩家身为“联邦研究保护局（FBRP）”研究员需要对各种超自然物体进行研究。游戏中还有很多节点需要玩家做出剧情选择。</p><p><img class="lazy" data-height="811" src="https://i1.max-c.com/imgx/2021/12/03/fe2f11253e4d496a8ef9db1c727c53e71638506530.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p>本作的玩法依然是经典三消，不过美少女变为了3D模型而不是2D立绘，动画效果更可爱。有意思的是，<b>预告片里除了“Project X”外还出现了</b>神秘新项目<b>“Project Y”</b>，画风有很大差别。目前官方暂未放出更多有关《Project Y》的新消息。</p><p><img class="lazy" data-height="806" src="https://i1.max-c.com/imgx/2021/12/03/db655a2145f342c8be253c8449984b191638506530.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="818" src="https://i1.max-c.com/imgx/2021/12/03/d02e912976964efaa03ccf82c7b335d81638506531.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="606" src="https://i1.max-c.com/imgx/2021/12/03/fdf358ef2639499c97207dc4e49527ef1638506531.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="595" src="https://i1.max-c.com/imgx/2021/12/03/576d1b7b92514f20bf93dcf1804620c51638506532.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p>目前《魔镜2》预计在1月28日推出，抢先体验版仅包含一个章节，而未来的正式版共有6个章节、预计8~12个月能开发完毕。此外，“魔镜”衍生作《魔镜派对》今日也在Steam发售了。</p><p><img data-gameid="1787820" src="https://cdn.akamai.steamstatic.com/steam/apps/1787820/header.jpg?t=1638497608" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="809" src="https://i1.max-c.com/imgx/2021/12/03/619ec74a98614547a69cc7a081841c7f1638506533.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="811" src="https://i1.max-c.com/imgx/2021/12/03/9f94a18a3fe44233892a60aec1d2da301638506533.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="812" src="https://i1.max-c.com/imgx/2021/12/03/f2f773e5e9264052b545949b7f85c0e41638506534.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="814" src="https://i1.max-c.com/imgx/2021/12/03/07b21b527dab4624b88e513bc5b3432b1638506534.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="811" src="https://i1.max-c.com/imgx/2021/12/03/8bd1651ee3e5480e93ad562cd5ea62971638506535.jpg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="606" src="https://i1.max-c.com/imgx/2021/12/03/62216b9308bb42b09502ea2275797be61638506536.jpg" data-width="1440" referrerpolicy="no-referrer"></p><blockquote><p>来源：游侠网</p></blockquote>  
+</div>
+            
