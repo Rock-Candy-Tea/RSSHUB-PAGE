@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8887'
+headimg: 'https://pic4.zhimg.com/v2-f1aaf9dde4fc9df1485c1de088bb3dfd_1440w.jpg'
 author: 知乎
 comments: false
-date: Fri, 03 Dec 2021 09:47:31 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8887'
+date: Fri, 03 Dec 2021 10:11:53 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-f1aaf9dde4fc9df1485c1de088bb3dfd_1440w.jpg'
 ---
 
 <div>   
-火柴盒的回答<br><br><p data-pid="rh28fLTu">停滞了，而且停滞了十年，未来有没有改善不好说。</p><p data-pid="S1ond7Tp">作为一个也卖过几首歌的独立音乐人，简单聊聊华语乐坛最近十年的生态吧。</p><p data-pid="mnuGdMXY">简单来说这十年就是畸形发展，整个乐坛的生态都很差，我觉得肯定有很多优秀的音乐人，但他们能不能冒头，能不能做到像周王陶林那样的影响力很难讲。</p><p data-pid="HTIpbSL4">周王陶林的时代是正规唱片公司最后的余晖，每家唱片公司都有很多优秀的企划，他们本身具备很强的挖掘优秀音乐人的能力，并能给他们提供足够展示的舞台。优秀的音乐人和公司又互相成就，滚石，华研，金牌大风，这些知名度堪比现在的互联网公司。华研举办的全球华人网络词曲创作大赛发掘到很多现在依旧活跃的音乐人，比如郑楠。</p><p data-pid="_vUGBTPw">内地在这方面相比其实落后很多，所以最初是野蛮生长，比如依靠网络出来了一批优秀的音乐人，最早的代表就是后弦。后来随着网络的蓬勃发展，很多优质的音乐人因此冒头，里面包括后弦，许嵩，汪苏泷，河图等等，这一批人无论是不是被质疑野路子，但其创作能力都是毋庸置疑的。这中间也有一些比较好的原创音乐平台，比如最早的分贝网，后来的YYFC，5SING。这些平台就像现在的知乎一样，对没有任何背景，想纯靠歌曲质量吸引粉丝的人相当友好。简单来说只要你有实力，就还是能收获歌迷。这些人不需要借助资本的力量也能火起来，说实话这可能是对独立音乐人最友好的时期。</p><p data-pid="8FzXraSO">归国三子的回来是对华语乐坛的第一波实质性摧残，也就是从他们回来开始，大批欧巴们的烂歌借助粉丝和资本的力量开始屠榜，而且不但屠中国的榜，甚至一度屠到billboard，这还成为粉丝们引以为豪的事情。这个时候一些原有的唱片公司要么倒掉，要么转型，资本创造了流量，流量毁掉了乐坛。</p><p data-pid="S3EfSDAs">然后就是抖音，抖音吧，其实某种程度上对乐坛是有一定帮助的，毕竟抖音上火起来的歌都是大家喜闻乐见的歌曲，别管质量行不行，至少还顺耳。但抖音上的歌要火，同样背后少不了资本的掺和，比如我跟一个音乐制作人就聊过，一首歌要想在抖音火起来，需要请很多头部主播翻唱，这中间的推广费少不了10万。普通的独立音乐人是玩不起的。当然抖音这块阵地，传统唱片公司不一定玩的明白，所以一些草台班子反倒搞得更风生水起，比如青风音乐，就在抖音上推火了一大批古风歌。</p><p data-pid="_CWeSFOD">乐坛生态不好，在付出投入不成正比的情况下，有心做音乐的人可能也去搞别的谋生了，比如你看我，现在就在知乎写小说。</p><p data-pid="dhnwvLHw">另外这个回答只讨论华语乐坛的整体现状，不聊为啥出不了第二个周杰伦，毕竟周杰伦是唯一的。</p><p></p>  
+半月凝霜Frostii的回答<br><br><p data-pid="OG8gQFFN">「2021 年度最热歌曲：中国大陆」Top 99 中周杰伦有 54 首作品上榜，前 10 首里占了 9 首；林俊杰上榜 7 首；TS 上榜 6 首；陈奕迅上榜 5 首；JB 上榜 4 首</p><p data-pid="2qRV_afe">周杰伦的影响力和作品传唱度确实不可否认，但是你但凡关注一下「浏览」板块里的「潜力新星」或是 GMA 每年的获奖作品名单都不会提出第二个问题。倒是不少把短视频平台当音乐 app 用的人对 GMA 不屑一顾，整天嚷嚷「野鸡自嗨奖」，哈哈</p><p data-pid="FiABzo7N">华语乐坛发展停滞？由 Apple Music 编辑精选的「2021 年度最佳 Top 100」上线后会告诉你答案</p><p data-pid="BgVkchqD">如果你还是坚持以偏概全地认为目前的华语乐坛发展停滞甚至倒退，那么请问丁世光宫阁王诗安苏紫旭草东吕彦良余佳运陈婧霏路壹 Karencici 裘德坏特 J.Sheon 的作品你们听过几首？</p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-f1aaf9dde4fc9df1485c1de088bb3dfd_1440w.jpg" data-rawwidth="440" data-rawheight="6707" data-size="small" data-qrcode-action="none" data-default-watermark-src="https://pic2.zhimg.com/v2-a4aea6156c566cb9120a5f9a602ebe38_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f1aaf9dde4fc9df1485c1de088bb3dfd_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="JqB59Qmr">btw，花语乐坛领军人 & 乐坛鲁迅竟无一首作品上榜，早该管管了！</p>  
 </div>
             
