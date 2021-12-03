@@ -1,0 +1,18 @@
+
+---
+title: 'Epic商店限时免费领取《黎明杀机》和《编程模拟器》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/02/51d11dce8be957fba3080fc0475e5764/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 03 Dec 2021 00:40:32 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/02/51d11dce8be957fba3080fc0475e5764/thumb.png'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#Epic喜加一#</a> 大家晚上好呀！相信不少小伙伴一定在期待着今晚的到来，因为E宝好久没有送3A大作了，许多白嫖党早已饥渴难耐，不知今晚会不会再次把E宝的服务器领崩呢？本周Epic商店要赠送的免费游戏为第一人称多人生存恐怖游戏《黎明杀机》（Dead by Daylight）和模拟编程烧脑益智游戏《编程模拟器》（while True: learn()），两款游戏均支持简体中文，领取时间12月2日~12月9日晚12点。</p><p><img class="lazy" data-height="688" src="https://imgheybox.max-c.com/bbs/2021/12/02/51d11dce8be957fba3080fc0475e5764/thumb.png" data-width="1435" referrerpolicy="no-referrer"></p><p><img data-gameid="381210" src="https://cdn.max-c.com/heybox/game/header/381210_MYJbJ.jpg" referrerpolicy="no-referrer"></p><p><img data-gameid="619150" src="https://cdn.max-c.com/heybox/game/header/619150_jrMBg.jpg" referrerpolicy="no-referrer"></p><p><b>获取方式：</b>注册登录Epic账号，在商城主页下滑就能看到限免的游戏，免费下单购买游戏即可永久入库。</p><p><b>持续时间：</b>即日起持续到12月9号晚上12点前结束</p><p><b>商店链接：</b><a href="https://www.epicgames.com/store/zh-CN/p/dead-by-daylight" target="_blank">《黎明杀机》</a> <a href="https://www.epicgames.com/store/zh-CN/p/while-true-learn" target="_blank">《编程模拟器》</a> </p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/02/9b034dc6d2cd3b30e3a641c744da8433/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>《黎明杀机》是一款多人（4vs1）恐怖生存游戏。游戏由其中一人扮演野蛮杀手，另外四人扮演逃生者。逃生者们将试图从野蛮杀手手中奋力逃脱，从而让自己免去被残忍折磨并杀害的危险。逃生者们将以第三视角进行游戏，其优势在于对周围环境拥有更开阔的视野。而杀手则将以第一视角进行游戏并且更着眼于眼前的猎物。逃生者的目标固然就是在不被杀手抓到的情况下安全的逃离杀戮场——不过相信我，这件事做起来真的没有听上去这么容易，特别是每当周围环境有所变化的时候。作为逃生者的你既可以和其他人合作也可以选择单打独斗。当然你活下来的几率则将会根据是否与他人合作而改变。那么问题来了，你有信心以智慧取胜并且逃离他们的杀戮场吗？每一个关卡的位置都是由程序随机生成的，这就意味着你永远不会知道是什么正在黑暗中等待着你。随机的重生点和环境的改变让你永远不会感觉到一丝的安全。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/02/50ceddcbdda1c6d08ea3fb832584aaf5/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/02/48acf4c1765b969403ad94f9f868ec1a/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>《编程模拟器》看起来是一款关于机器学习，神经网络，大数据和人工智能的烧脑型益智/拼图类游戏。但是其实这是让你了解你猫主子的神器。在这款游戏中，你将扮演一个不小心发现你猫主子的代码竟然写的比你还 666 的程序猿。所以为了掌握猫族的核心科技，你感到天将降大任于斯人也，开始整合你所掌握的所有黑科技来研发一款猫语翻译器。从最基础的专家系统到强大到能够预测未来的循环神经网络。不过别担心，这是一款益智拼图游戏，完全零基础，也没有任何代码！通过鼠标拖动游戏里的物体。又或者是把其中的某些连在一起。尝试，失败，优化，再来一次。点击 "发布"，然后享受平滑的数据流动带来的快感！设计一款革命性的技术需要大量的时间，金钱和经验。这意味着你将需要像一位自由职业者一样，享受工作带来的激情。接受邮件！签订合同！可能要在小黑屋中连续好几天，一句话也不说！社交全靠论坛！这才是真正的数据学家的生活！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/02/64b258d3a71697d10582a7b3a8f207da/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/02/dbdff2c3918d980dfe9f898139372db0/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><br></p><hr><p><br></p><b>下一周赠送的免费游戏为</b><b>《Godfall Challenger Edition</b><b>》和《监狱建筑师》</b><b>，领取时间12月10日~12月17日。</b><p><br></p><p><img class="lazy" data-height="559" src="https://imgheybox.max-c.com/bbs/2021/12/02/af331203dddcd44664528441f1434eee/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><img data-gameid="900007742" src="https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgodfall%2Fhome%2FEGS_Godfall_CounterplayGames_S1-2560x1440-0dd8d9e7362bc1677151bc83261cc4c26caba8d6.jpg" referrerpolicy="no-referrer"></p><p><img data-gameid="233450" src="https://cdn.max-c.com/heybox/game/header/233450_nvXHw.jpg" referrerpolicy="no-referrer"></p>  
+</div>
+            

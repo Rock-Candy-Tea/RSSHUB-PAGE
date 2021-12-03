@@ -1,0 +1,18 @@
+
+---
+title: 'Emotet being spread via malicious Windows App Installer packages'
+categories: 
+ - 新媒体
+ - 不安全
+ - 全文
+headimg: 'https://picsum.photos/400/300?random=1496'
+author: 不安全
+comments: false
+date: Fri, 03 Dec 2021 05:07:16 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1496'
+---
+
+<div>   
+Emotet being spread via malicious Windows App Installer packages  
+</div>
+            
