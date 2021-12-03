@@ -32,7 +32,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202111/30/170912ausbpcbufvr0
 </div>
 <br>
 活动期间，玩家们拍照打卡即可兑换丰富礼品。而11月28日，门店更是开启了更多限时活动，引无数玩家驻足进店。<br><br><div align="center">
-<span id="flv_Qlg"></span>
+<span id="flv_XaS"></span>
 </div>
 <br><strong><font color="#de5650">【活动一：找到Clash Chief】</font></strong><br><br>
 Clash Chief每个准点定时出现。用最快速度找到他并与他合影的玩家，都获得了游戏限量钥匙扣，令人乐不思蜀！<br><br><div align="center">

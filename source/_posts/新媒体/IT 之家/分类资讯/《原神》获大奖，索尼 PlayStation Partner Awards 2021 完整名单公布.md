@@ -1,0 +1,19 @@
+
+---
+title: '《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/18a6cc62-41bf-4a07-965a-45b8a301868d.png'
+author: IT 之家
+comments: false
+date: Fri, 03 Dec 2021 09:45:40 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/18a6cc62-41bf-4a07-965a-45b8a301868d.png'
+---
+
+<div>   
+<p data-vmark="d823"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 12 月 3 日消息，索尼 PlayStation Partner Awards 2021 <a href="https://www.ithome.com/0/590/179.htm" target="_blank">昨日晚间公布</a>了日本及亚洲地区的 PARTNER AWARD（合作伙伴奖）及 SPECIAL AWARD（特别奖）。</p><p data-vmark="8817">今日，索尼公布了“大奖”，即在日本 / 亚洲地区开发 2020 年 10 月到 2021 年 9  月<span class="accentTextColor">全球销售额排行前三名</span>的作品。</p><p data-vmark="8d5d"><img src="https://img.ithome.com/newsuploadfiles/2021/12/18a6cc62-41bf-4a07-965a-45b8a301868d.png" w="1088" h="612" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" width="1088" height="461" referrerpolicy="no-referrer"></p><h2 data-vmark="e4fe">大奖：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="96dc">《原神》（米哈游）</p></li><li><p data-vmark="20df">《生化危机：村庄》（卡普空）</p></li><li><p data-vmark="6d9b">《eFootball PES 2021  SEASON UPDATE》（科乐美）</p></li></ul><p data-vmark="43fc"><img src="https://img.ithome.com/newsuploadfiles/2021/12/74a95d63-ab36-4f71-a47f-b04e76d6154e.png" w="800" h="800" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" width="800" height="800" referrerpolicy="no-referrer"></p><p data-vmark="3385">据官方介绍，《原神》是一款免费开放世界角色扮演游戏，在提瓦特这个奇幻世界中有许多史诗冒险在等着玩家。这款作品透过其优美动漫风格的画面、广阔且完全可探索的地图、有着迷人角色的冒险剧情，和创新又富有策略的战斗获得了大量的好评。</p><p data-vmark="4f6d"><img src="https://img.ithome.com/newsuploadfiles/2021/12/557563c7-3774-460a-83bb-f0c8355d5b87.png" w="800" h="800" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" width="800" height="800" referrerpolicy="no-referrer"></p><p data-vmark="0386">《生化危机：村庄》是《生化危机》这个热门「生存恐怖游戏」系列的第八个作品。这款游戏以一个充满疯狂的村庄为背景，用各式各样的恐惧感和迷人的角色来描绘一种全新的戏剧性「生存恐怖」。这款《生化危机》系列的最新作品结合了令人满意的大量游戏内容，广受粉丝们的好评。</p><p data-vmark="3224"><img src="https://img.ithome.com/newsuploadfiles/2021/12/0e75ba56-4a5d-402b-8f51-5c3c0021892d.png" w="800" h="800" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" width="800" height="800" referrerpolicy="no-referrer"></p><p data-vmark="ec07">《eFootball PES 2021 SEASON UPDATE》是《实况足球》热门系列游戏的第 25 个作品，而从名称可以看出这是《eFootball PES 2020》的更新版，内含最新的球员和球队资料。<span class="accentTextColor">这是该系列连续第二年获得 PlayStation Partner Awards 中的大奖</span>。</p><h2 data-vmark="ab13">PARTNER AWARD（合作伙伴奖）：</h2><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="2782">破晓传奇（万代南梦宫娱乐）</p></li><li><p data-vmark="5ac3">最终幻想 VII：重制版 INTERGRADE（SQUARE ENIX CO., LTD.）</p></li><li><p data-vmark="3b71">最终幻想 XIV（SQUARE ENIX CO., LTD.）</p></li><li><p data-vmark="40f4">机动战士高达：战斗行动 2（万代南梦宫娱乐）</p></li><li><p data-vmark="f1b6">尼尔：人工生命 ver.1.22474487139...（SQUARE ENIX CO., LTD.）</p></li></ul><p data-vmark="9ce4"><img src="https://img.ithome.com/newsuploadfiles/2021/12/fd13d1ec-a4d1-4963-b6ec-a58ea3860557.jpg@s_2,w_820,h_478" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" referrerpolicy="no-referrer"></p><h2 data-vmark="abb7">SPECIAL AWARD（特别奖）：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="3289">Apex 英雄（EA | 重生娱乐）</p></li><li><p data-vmark="2c81">天穗之咲稻姬（Edelweiss | Marvelous Inc.）</p></li><li><p data-vmark="9b1a">鬼泣 5：特别版（卡普空）</p></li></ul><p data-vmark="335f"><img src="https://img.ithome.com/newsuploadfiles/2021/12/047797d1-c8e9-48e0-be79-3905eb2bd0a4.jpg@s_2,w_820,h_476" w="1086" h="631" title="《原神》获大奖，索尼 PlayStation Partner Awards 2021 完整名单公布" width="1086" height="476" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
