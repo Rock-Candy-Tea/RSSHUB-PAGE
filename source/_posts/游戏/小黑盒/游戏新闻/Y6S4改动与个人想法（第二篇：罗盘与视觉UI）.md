@@ -1,0 +1,18 @@
+
+---
+title: 'Y6S4改动与个人想法（第二篇：罗盘与视觉UI）'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/03/00cd1f66ac8597b42f7b5e7ac255ea72/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 03 Dec 2021 10:03:30 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/03/00cd1f66ac8597b42f7b5e7ac255ea72/thumb.png'
+---
+
+<div>   
+<p>第二篇，UI改动与个人想法</p><p><br></p><p>这次是真*UI改动内容了QAQ<span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span></p><p><br></p><p>本篇内容包括：</p><p>罗盘UI和左右下方视图改动</p><p>动作动画改动</p><p>部分小改动</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/03/00cd1f66ac8597b42f7b5e7ac255ea72/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>先说改动的大头——罗盘UI</p><p>        在这次罗盘UI改动之前，已经不知道多少次遇到这种情况了：</p><p>a：在这在这！我标的黄点这！</p><p>b死了……</p><p>b：？？？哪呢？</p><p>a：黄点！黄点！黄点这！</p><p>b：黄点哪儿啊？哪个房间？几楼啊？</p><p><br></p><p>         前天和群友打彩六还关于这个争论了一下，大致意思是，他觉得你不会报点是你地图没背熟，说白了就是菜（虽然我确实菜）但我当时说，我不可能每次报点的时候都把点标出来之后都准确无误的把那个点的具体名字报出来的，我有时候要想一下，这里是哪，而就是这么一想的时间，可能信息就过时了，对面可能就拉出来把你干掉了。</p><p><img class="lazy" data-height="1640" src="https://imgheybox.max-c.com/bbs/2021/12/03/bc3321bb5c3e8a8ab28d615f531d0d1c/thumb.png" data-width="2360" referrerpolicy="no-referrer"></p><p>        罗盘UI最主要的改动一个是标点显示地名，一个是标点区别楼层，而这两个改动的作用就是：降低了玩家报点提供信息的门槛，提高了信息交流的效和精确度。</p><p><br></p><p>        人无完人，就是职业哥也会记错地名报错点，我一普通玩家就更别提了，彩六那么多的地图，那么多走廊房间楼梯，之前背地图地名是因为没办法，不背就不好报点，而背了也仍然会出问题。现在的罗盘UI很好的解决了这种问题，为什么不用？甚至我认为，罗盘UI把每一层都换为一圈的设计，就应该是这类存在楼层差（不是高度差）的游戏必须配备的部分。它实在是太具体了！在彩六里，具体精确的标点有可能就意味着少付出一点道具、时间和血量，去换取最大的作用。（罗盘里还有东南西北标识，对于我这种方向感不强的玩家而言简直就是神器）</p><p><img class="lazy" data-height="1640" src="https://imgheybox.max-c.com/bbs/2021/12/03/80e5b01e52e8dfd5ec4751b427496a82/thumb.png" data-width="2360" referrerpolicy="no-referrer"></p><p>        再说说罗盘的弊端，目前我所遇到和听到的问题就是：1、这罗盘有点丑（好吧，这没什么好说的，好用就行，只能慢慢习惯了）2、罗盘太大了，占视角。这确实大（包括血量和枪械UI）尤其对于我这样用笔记本玩的人来说，本来屏幕就不大的情况下，还缩减了视野内的信息，一时半会难以适应。希望育碧之后可以开放UI自定义模块，UI的大小和是否使用新旧UI的权利交给玩家自己。（不过目前来看，不太可能，除非论坛声音很大）</p><p><br></p><p>关于UI动画的改动</p><p><br></p><p>        选人界面和枪械道具准备界面的改动熟悉一下就会好很多，但是枪械选择是3d模型，道具选择是2d模型真的让强迫症表示难受，画面不协调。</p><p><img class="lazy" data-height="1640" src="https://imgheybox.max-c.com/bbs/2021/12/03/55ba784910936dd7497b44fdd27ca2ae/thumb.png" data-width="2360" referrerpolicy="no-referrer"></p><p>        动作指引由之前的文字改成了图像动画。这个只能说看个人喜好了，群里的萌新我问了一圈，两级分化，有的觉得还是旧的好，直接文字说明白。有的觉得新的动画好好玩，看一眼就知道它表达啥意思。</p><p>       </p><p> </p><p>        但还是上文的意思，我觉得育碧应该去开放这样的模块，让玩家自行决定使用哪一个UI。毕竟玩家玩游戏，本来就应该是怎么舒服怎么玩不是吗？游戏内容改动或许玩家只能稍稍建议，但UI设计和使用，又不改变玩法和内容，为什么不能把选择的权利交给玩家试试呢？尤其是对回坑的老玩家而言，小部分的玩法更新可能会让老玩家觉得新颖有趣愿意留下来，而大量大UI更改却会让老玩家感到极其陌生。（不是说UI改动不好，但你至少要给老玩家适应的时间和机会）</p><p><br></p><p>其他的小改动</p><p><br></p><p>1、小车跳跃有cd显示了，nice！信息可视化就很好，终于不用估摸着时间跳了</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/03/9e59b28b99553eb63e00c64101b2fdf9/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>2、换弹匣后，空弹匣好像会显示附带的颜色了？（之前好像没看见过，可能是我之前没注意）</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/03/aad708183dfcb7c3ca84d3b77ec607b3/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>3.选枪界面的滞后感确实没了，这点也非常nice!盲猜是之前阿育懒的改，反正又不影响游戏平衡，但确实掉体验啊！!好几次玩手机，快到时间了结果枪没选上<span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span><span data-emoji="cube_哭泣" class="hb-emoji"></span></p><p><br></p><p>        今天的讨论就说到这里啦！欢迎各位hxd讨论评价呀！觉得我说的还行的拉个大电吧！免费的赞和关注也行哇QAQ<span data-emoji="cube_滑稽" class="hb-emoji"></span><span data-emoji="cube_滑稽" class="hb-emoji"></span><span data-emoji="cube_滑稽" class="hb-emoji"></span></p>  
+</div>
+            
