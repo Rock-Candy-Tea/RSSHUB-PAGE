@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Fri, 03 Dec 2021 13:15:08 GMT
+date: Fri, 03 Dec 2021 14:04:35 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
@@ -43,10 +43,9 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p cms-style="font-L">　　<strong>NO.8 <a href="https://finance.sina.com.cn/chanjing/cyxw/2021-12-03/doc-ikyakumx1828824.shtml" target="_blank" title="双标的岂止“加拿大鹅”？LV等品牌售后也内外有别">双标的岂止“加拿大鹅”？LV等品牌售后也内外有别</a></strong></p>
 <p>　　记者调查发现，一些被中国消费者追捧的其他国际品牌，在售后服务上，也存在内外有别的现象。鉴于一些消费者的经历，记者就横向对比了几个品牌在中国的销售政策。比如某知名奢侈品牌（路易威登）在中国大陆是7天内可以退货，30天内可换货，但是在美国、加拿大就可以30天内退货。</p>
 <p>　　记者注意到，该品牌在这些国家退换货政策的最后，还专门标注了这样一句话：全球任何一家门店都接受退换，但不包括巴西、中国、哥伦比亚等地区。</p>
-<p>　　<strong>NO.9  <a target="_blank" href="https://finance.sina.com.cn/wm/2021-12-03/doc-ikyamrmy6521948.shtml">宝马X3刹车两度失灵</a> <a target="_blank" href="https://finance.sina.com.cn/china/gncj/2021-12-03/doc-ikyamrmy6611569.shtml">特斯拉召回21599辆国产Model Y</a></strong></p>
-<p>　　刹车“失灵”一次是巧合，两次是巧合，第三次店内路测时又发生碰撞，4S店却说“车辆行驶数据正常”。宝马X3车主哈女士彻底怒了。</p>
-<p>　　哈女士决定退掉这辆陪伴自己不到半年的“脱缰”宝马，但4S店给出的回购方案又让她感到“有猫腻”：其他宝马4S店的准新车回购价基本为“开票价”，而轮到自己就只能按照二手车折损率回购……对此，北京商报记者展开了一番调查。</p>
-<p>　　日前，特斯拉（上海）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。自即日起，召回生产日期在2021年2月4日至2021年10月30日期间的部分国产Model Y电动汽车，共计21599辆。</p>
+<p>　　<strong>NO.9  <a target="_blank" href="https://finance.sina.com.cn/chanjing/gsnews/2021-12-03/doc-ikyakumx1869376.shtml">广东省人民政府约谈恒大：督促推进企业风险处置工作</a></strong></p>
+<p>　　12月3日，中国恒大集团（上市代码：HK03333）在香港联交所发布了无法履行担保责任的公告，广东省人民政府对此高度关注，当晚立即约谈了中国恒大集团实控人许家印先生。</p>
+<p>　　应恒大地产集团有限公司请求，为有效化解风险，保护各方利益，维护社会稳定，广东省人民政府同意向恒大地产集团有限公司派出工作组，督促推进企业风险处置工作，督促切实加强内控管理，维护正常经营。</p>
 <p>　　<strong>NO.10 <a href="https://finance.sina.com.cn/chanjing/cyxw/2021-12-03/doc-ikyakumx1802953.shtml" target="_blank" title="官宣！李铁下课，李霄鹏上任">官宣！李铁下课，李霄鹏上任</a>    <a target="_blank" href="https://finance.sina.com.cn/jjxw/2021-12-03/doc-ikyakumx1800409.shtml">李铁的商业版图有多大？代言3个品牌、关联公司有8家</a></strong></p>
 <p cms-style="font-L">　　“日前，李铁向中国足球协会提出辞去中国国家男子足球队主教练职务的请求。经中国足球协会研究决定，同意其辞职申请。”</p>
 <p cms-style="font-L">　　<font cms-style="font-L">一片喧嚣之中，中国足协发布公告，李铁“如愿”下课了。</font></p>
