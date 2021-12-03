@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 科学网
  - 博客
-headimg: 'https://picsum.photos/400/300?random=3747'
+headimg: 'https://picsum.photos/400/300?random=8097'
 author: 科学网
 comments: false
 date: Fri, 03 Dec 2021 11:18:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3747'
+thumbnail: 'https://picsum.photos/400/300?random=8097'
 ---
 
 <div>   
