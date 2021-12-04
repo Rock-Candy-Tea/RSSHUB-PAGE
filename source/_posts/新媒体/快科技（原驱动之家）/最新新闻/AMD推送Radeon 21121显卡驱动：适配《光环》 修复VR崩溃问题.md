@@ -19,6 +19,8 @@ thumbnail: 'https://img1.mydrivers.com/img/20211204/s_fbd4316c182d4da28d051eb19a
 <p>除了优化外，此次版本更新也修复了此前版本中的一些问题。</p>
 <p><strong>之前在使用某些AMD显卡运行SteamVR Home的时候，有用户会遇到崩溃问题，现在这一直接影响玩家体验的问题得到了修复。</strong></p>
 <p>此外，数个在《漫威银河护卫队》、《绝地求生》、《极限竞速：地平线5》等游戏中存在的显示或运行问题也得到了修复。</p>
+<p>本地下载：</p>
+<p><a class="f14_link" href="https://drivers.mydrivers.com/drivers/564_225723.htm" target="_blank">https://drivers.mydrivers.com/drivers/564_225723.htm</a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211204/fbd4316c182d4da28d051eb19aa207ab.jpg" target="_blank"><img alt="AMD推送Radeon 21.12.1显卡驱动：适配《光环》 修复VR崩溃问题" h="450" src="https://img1.mydrivers.com/img/20211204/s_fbd4316c182d4da28d051eb19aa207ab.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
@@ -28,7 +30,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211204/s_fbd4316c182d4da28d051eb19a
  <p class="bqian"><a href="https://news.mydrivers.com/tag/amd.htm"><i>#</i>AMD</a><a href="https://news.mydrivers.com/tag/xianka.htm"><i>#</i>显卡</a></p>
 <p class="url">
      
-<span>责任编辑：乃河</span>
+<span>责任编辑：无心</span>
 </p>
         
 </div>
