@@ -18,7 +18,7 @@ Geoff
 Keighley一年一度的TGA颁奖典礼已经进入了第八个年头。这位主持人今天接受华盛顿邮报的采访，表示他目前仍在思考负面新闻缠身的动视暴雪参加典礼的话会带来怎样的负面影响。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211204/1638599657_533366.jpg" alt="TGA将专注于游戏 不会针对动视暴雪负面新闻站队" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211204/1638599657_533366.jpg" alt="TGA将专注于游戏 不会针对动视暴雪负面新闻站队" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Keighley在接受采访时表示：“我们想要对员工和开发者表达支持。”
