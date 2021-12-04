@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 电报
-headimg: 'https://picsum.photos/400/300?random=2311'
+headimg: 'https://picsum.photos/400/300?random=4203'
 author: 财联社
 comments: false
 date: Sat, 04 Dec 2021 08:52:30 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2311'
+thumbnail: 'https://picsum.photos/400/300?random=4203'
 ---
 
 <div>   

@@ -1,0 +1,18 @@
+
+---
+title: '猫咪的睡姿有多可爱？-Kimi不好玩的回答：一只猫的性格，其实可以通过它的睡姿看出来，猫咪的睡姿能够暴露出它的性格，倘若有这些睡姿的猫咪，说明性格都很好。 ...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-b1bccc378b72490c15b65cf1c262a61d_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 04 Dec 2021 11:38:07 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-b1bccc378b72490c15b65cf1c262a61d_1440w.jpg'
+---
+
+<div>   
+<strong>猫咪的睡姿有多可爱？</strong><br>Kimi不好玩的回答<br><p data-pid="maIbIOPx">一只猫的性格，其实可以通过它的睡姿看出来，猫咪的睡姿能够暴露出它的性格，倘若有这些睡姿的猫咪，说明性格都很好。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b1bccc378b72490c15b65cf1c262a61d_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="589" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b1bccc378b72490c15b65cf1c262a61d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="I8YDx7wp"><b>1、四脚朝天，露肚子</b></p><p data-pid="-arSKlHj">一只猫咪如果在家会四脚朝天的睡觉，说明它对你和周围环境都很信任。</p><p data-pid="yWFO5xTm">有这种睡姿的猫咪，性格都是大大咧咧、积极乐观的。平时也很容易相处，性格极nice！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b89b49e7b31607115c82e4aa7385328d_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="800" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b89b49e7b31607115c82e4aa7385328d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="nF3b95xB"><b>2、侧着、半露肚子</b></p><p data-pid="g8uKFShw">猫咪喜欢侧着睡觉，说明它的性格比较随和，带有一点点警惕。</p><p data-pid="OTgvL4cU">喜欢侧着睡的猫咪，说明适应能力不错，性格也不错，对主人十分信任、忠诚。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-29a39e6e45ff9bd789e2995704f17965_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="427" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-29a39e6e45ff9bd789e2995704f17965_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="X-qW-RdD"><b>3、抱着你、背靠背</b></p><p data-pid="hmLT7ZZ4">猫咪平时喜欢抱着你睡，睡在你旁边，或者会背靠着你睡觉，说明它很信任你。</p><p data-pid="k-I5jm4e">这种睡姿的猫咪一般很听话，性格也都很好，能很快融入家庭，跟主人相处极其欢乐。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-0a1737130935e378cfafa6e8875bfa76_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="446" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-0a1737130935e378cfafa6e8875bfa76_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="OQKPlRMM"><b>4、花式、杂技睡</b></p><p class="ztext-empty-paragraph"><br></p><p data-pid="UUkvpGjO">如果你家猫咪睡姿不固定，有各种花式睡姿、摆出各种高难度姿势，说明它性格好！</p><p data-pid="pOaDOhjX">猫咪不害怕主人和周围环境，才能有如此放松的姿势，这样的猫咪，性格一般比较有趣、讨人喜欢。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-37ce90e1ee73fd1496bf31afb4d1ea63_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="640" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-37ce90e1ee73fd1496bf31afb4d1ea63_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="QMR0BkjI"><b>5、睡在猫窝</b></p><p data-pid="TQY12DPP">不是睡在猫窝的猫咪就跟你不亲近，而是这种猫咪独立性强，不用主人太操心，这不是间接说明了猫咪的性格很好吗？</p><p data-pid="PT-KKRRz">如果经常赖着你一起睡觉的猫咪，对主人有严重的依赖性，容易缺乏安全感，出现分离焦虑。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6d12003228a0b2a19eb51542d6c33325_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="480" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6d12003228a0b2a19eb51542d6c33325_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="LbdXeI4M">想要解决猫咪的分离焦虑，培养猫咪的独立性，宠主可以多跟猫咪互动玩耍，能够增进你们之间的感情，玩耍的时候搭配些零食，能够提高猫咪玩耍的兴致。</p><p></p>  
+</div>
+            
