@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/040/601/591/original/9abce509164dca62.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/040/602/151/original/4b116324c607a49b.jpg'
 author: Mastodon
 comments: false
-date: Sun, 05 Dec 2021 05:08:38 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/040/601/591/original/9abce509164dca62.jpg'
+date: Sun, 05 Dec 2021 05:44:39 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/040/602/151/original/4b116324c607a49b.jpg'
 ---
 
 <div>   
-<hr><p>つけてもいないし、はいてもいない</p><br><img src="https://img.pawoo.net/media_attachments/files/040/601/591/original/9abce509164dca62.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>明らかにゴブリンやグールを誘ってるような服装をしているエルフ♀（はいてない）</p><br><img src="https://img.pawoo.net/media_attachments/files/040/602/151/original/4b116324c607a49b.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
