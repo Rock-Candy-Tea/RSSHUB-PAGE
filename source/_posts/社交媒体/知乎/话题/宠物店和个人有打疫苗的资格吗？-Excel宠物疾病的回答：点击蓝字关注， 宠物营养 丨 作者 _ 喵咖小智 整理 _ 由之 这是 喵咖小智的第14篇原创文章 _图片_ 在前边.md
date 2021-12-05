@@ -1,0 +1,18 @@
+
+---
+title: '宠物店和个人有打疫苗的资格吗？-Excel宠物疾病的回答：点击蓝字关注， 宠物营养 丨 作者 _ 喵咖小智 整理 _ 由之 这是 喵咖小智的第14篇原创文章 _图片_ 在前边...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-e06a18162ef633794bd2faf4261f9db3_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 05 Dec 2021 12:53:37 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-e06a18162ef633794bd2faf4261f9db3_1440w.jpg'
+---
+
+<div>   
+<strong>宠物店和个人有打疫苗的资格吗？</strong><br>Excel宠物疾病的回答<br><p data-pid="4PnQRA2p">点击蓝字关注，</p><p class="ztext-empty-paragraph"><br></p><p data-pid="vui0Ve-T"><b>宠物营养 </b>丨 作者 /  喵咖小智   整理 / 由之<br></p><p data-pid="Lay36d9b">这是<b>喵咖小智</b>的第14篇原创文章</p><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e06a18162ef633794bd2faf4261f9db3_1440w.jpg" data-caption data-size="normal" data-rawwidth="470" data-rawheight="512" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e06a18162ef633794bd2faf4261f9db3_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="ecu2howQ">在前边猫咪猫鼻支（猫疱疹病毒）的文章中有跟大家讲过应对猫鼻支最好的方法就是给猫咪接种疫苗，近期恰巧有几个朋友跟我咨询关于疫苗接种的事情，问我猫咪有没有像小朋友那样有一个疫苗接种程序，那我今天就给大家整理了一下，希望各位家长朋友能够按照这个计划给家里的毛孩子定期接种疫苗。下面我帮大家做了一个疫苗接种表格： </p><p class="ztext-empty-paragraph"><br></p><p data-pid="a1yISKY9">字体略小请点开细看：</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-0b907cd635f920d3cb9465a876c51785_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="586" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-0b907cd635f920d3cb9465a876c51785_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-0c62803aa7fd5d1eec3786210a9bcd86_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="425" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-0c62803aa7fd5d1eec3786210a9bcd86_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="b6e_aAfo"><b>对于疫苗接种最关键的事情</b></p><p class="ztext-empty-paragraph"><br></p><p data-pid="Kx4u8rln">其实我们人也好动物也好，最重要的事情就是<b>定时定量接种</b>，举个新冠疫苗接种的例子吧，我们都是两针+加强针，在第一针接种后间隔14天进行第二针接种，间隔半年进行第三针加强针的接种：</p><p data-pid="dHFBBhwG">1.猫咪必须接种的核心疫苗只有三种，猫瘟疫苗、猫疱疹病毒疫苗（猫鼻支）、猫杯状病毒疫苗。这几种疾病都有显著的季节性以及高致病率、高致死率，非常需要各位家长提起注意。猫瘟：多数情况下1岁以下的幼猫较易感染，感染率可达70%，死亡率为50%-60%，最高达90%。猫鼻支：主要侵害幼猫，发病率可达100%，死亡率约50%，简直是幼猫魂魄收割机。</p><p data-pid="rTPfPvXj">2.不推荐的非核心疫苗：鹦鹉热衣原体菌苗、猫传染性腹膜炎疫苗、犬小孢子菌疫苗、贾第鞭毛虫病疫苗。市面上有猫传染性腹膜炎疫苗在销售，但是并没有充分的证明会对疾病产生足够的免疫作用。</p><p data-pid="FWjpkW2S">3. 狂犬疫苗：对于狂犬疫苗来说，很多人也是谈之色变，有些人是担心万一被猫咪咬了或者是抓伤了怎么办，一定需要给猫咪打狂犬疫苗。另外一些是因为他妈觉得必须打狂犬疫苗，迫于老人家人的压力去给猫咪打狂犬疫苗。而实际情况因人因猫而定，有这么三种情况：</p><p data-pid="q5SijdOq">猫咪从未外出+家里没有狗狗：不需要打<br></p><p data-pid="hEQy__8X">猫咪从未外出+家里有狗狗外出并接触其它宠物：需要打<br></p><p data-pid="3PI9OMJz">猫咪经常外出并接触其它宠物：需要打。</p><p data-pid="-hmmIT7m">这主要是由狂犬病的传播特点决定的，唾液腺和唾液中有大量病毒，并随唾液排出体外。主要通过咬伤的皮肤粘膜感染，也可通过气溶胶经呼吸道感染，人或宠物误食患病动物的肉或者动物间一起进食可经消化道感染。切不可听信有些假专家讲的只有被狗狗咬了才会的狂犬病。</p><p data-pid="pvLng0i5">4. 成年猫首次接种猫三联疫苗只需接种一次就可，第二年接种一次加强针，以后每隔3年接种一次就可保证免疫效果。<br></p><p data-pid="2KF8DFmo">5. 猫白血病疫苗：对于幼年的猫咪也比较推荐接种，但是要尽早尽可能在9周龄的时候进行接种。超过6个月的相对较大的猫咪对于猫白血病毒显示出显著的天然抵抗力。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="2B7gF7aN"><b><i>欢迎搜索关注微信公众号：猫子狗子厨子</i></b></p><p data-pid="FeCXGt5e"><b><i>欢迎搜索关注微信公众号：猫子狗子厨子</i></b></p><p data-pid="U1ajdHQV"><b><i>欢迎搜索关注微信公众号：猫子狗子厨子</i></b></p>  
+</div>
+            
