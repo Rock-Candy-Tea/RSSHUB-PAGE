@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 之家
  - 分类资讯
-headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/65d65a26-4eb0-4168-8b01-aae057c5d5ab.jpg@s_2,w_820,h_614'
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/4c57647f-5147-4402-9bd1-1f10f908001e.jpg'
 author: IT 之家
 comments: false
 date: Sat, 04 Dec 2021 22:44:39 GMT
-thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/65d65a26-4eb0-4168-8b01-aae057c5d5ab.jpg@s_2,w_820,h_614'
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/4c57647f-5147-4402-9bd1-1f10f908001e.jpg'
 ---
 
 <div>   
-<p data-vmark="3b00"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 12 月 5 日消息，按照正常时间表，特斯拉本周末开始向注册其测试计划的用户（安全评分为 98 分及以上）推出了完全自动驾驶 FSD Beta 10.6 版本更新。</p><p data-vmark="415a">IT之家提醒，虽然该系统的名字是 FSD（完全自动驾驶），但仍属于 L2 级辅助驾驶系统，虽然已经可以使车辆自动驾驶到系统定位中输入的目的地，但驾驶员依然需要保持高度警惕并随时准备好进行接管操控权。</p><p data-vmark="af86"><img src="https://img.ithome.com/newsuploadfiles/2021/12/65d65a26-4eb0-4168-8b01-aae057c5d5ab.jpg@s_2,w_820,h_614" w="960" h="719" title="特斯拉全自动驾驶 FSD Beta 10.6 发布，优化物体检测功能" srcset="https://img.ithome.com/newsuploadfiles/2021/12/65d65a26-4eb0-4168-8b01-aae057c5d5ab.jpg 2x" width="960" height="614" referrerpolicy="no-referrer"></p><p data-vmark="6b03"><img src="https://img.ithome.com/newsuploadfiles/2021/12/bb2058cd-8519-4877-bd4d-16386583663e.jpg@s_2,w_820,h_614" w="961" h="720" title="特斯拉全自动驾驶 FSD Beta 10.6 发布，优化物体检测功能" srcset="https://img.ithome.com/newsuploadfiles/2021/12/bb2058cd-8519-4877-bd4d-16386583663e.jpg 2x" width="961" height="614" referrerpolicy="no-referrer"></p><p data-vmark="dd98">此次更新提供了一些功能性改进，例如更好的物体检测、更好的无保护左转、更好的合并等等。</p><h2 data-vmark="105d">更新日志如下：</h2><blockquote><p data-vmark="5a1b">改进了非 VRU（例如汽车、卡车、公共汽车）的对象检测网络架构。7% 的高召回率。交叉车辆的深度误差降低 16%，速度误差降低 21%。</p><p data-vmark="af84">新的可见性网络，平均相对误差减少了 18.5%。</p><p data-vmark="1e36">新的通用静态对象网络，在高曲率和夜间情况下精度提高了 17%。</p><p data-vmark="3d02">使用越过交叉点的物体预测，改进了在未受保护的左转弯时的停车位置，同时为迎面而来的物体让路。</p><p data-vmark="f786">通过合并合并区域末端的建模，在合并期间为纵向对齐留出更多空间。</p><p data-vmark="3cc4">偏移偏离车道的物体时提高了舒适度。</p></blockquote><p data-vmark="b977">目前还没有测试人员展示新版本的视频，我们之后也会为大家更新一些视频演示。</p>
+<p data-vmark="34e3">据外媒报道，美国当地时间周六，电动汽车制造商特斯拉向部分美国车主发布了“全自动驾驶”（FSD）套件的更新版本 FSD Beta 10.6，显示其目标检测精度大幅提高。</p><p data-vmark="5f75">特斯拉 FSD Beta 每两周更新一次，根据内部表现，有时候也会间隔几天进行更新。美国当地时间 12 月 3 日，特斯拉首席执行官埃隆・马斯克（Elon Musk）证实，FSD Beta 10.6 将在周末推出，除非有任何重大瓶颈会影响该套件的性能。</p><p data-vmark="eb60"><img src="https://img.ithome.com/newsuploadfiles/2021/12/4c57647f-5147-4402-9bd1-1f10f908001e.jpg" w="660" h="346" title="特斯拉全自动驾驶 FSD Beta 10.6 发布，优化物体检测功能" width="660" height="346" referrerpolicy="no-referrer"></p><p data-vmark="d604">马斯克发推称：“FSD Beta 10.6 今天在内部发布，如果没有发现重大问题，几天后将推出外部测试。”周六，该公司开始向部分车主发布。</p><p data-vmark="2c42">在此次发布中，特斯拉工程师主要关注的是目标检测、可见性以及提高套件的整体性能，尤其是目标检测的精确性和可预见性。</p><p data-vmark="4dbb">FSD Beta 10.6 的主要改进包括：</p><p data-vmark="f2b5">—— 改进了针对非 VRU（例如轿车、卡车、公交车）的目标检测网络体系结构。召回率提高 7%，交叉车辆检测的深度误差降低 16%，速度检测误差降低 21%。</p><p data-vmark="a6d6">—— 新的可见性网络平均相对误差降低 18.5%。</p><p data-vmark="7b30">—— 在高曲率和夜间情况下，新的通用静态目标网络的检测精度提高了 17%。</p><p data-vmark="3c70">—— 使用交叉点以外的物体预测能力，改进了无保护左转弯的停车位置，同时能更好地应对迎面而来的目标。</p><p data-vmark="a946">—— 通过整合并道区域末端的建模，在并道期间为纵向对齐提供更多空间。</p><p data-vmark="4e4c">—— 改进了对正在切出车道的目标进行偏移时的舒适性。</p><p data-vmark="b7a9">与此同时，特斯拉已经多次表示，其超级计算机 Dojo 的改进速度将会提高。</p><p data-vmark="7844">特斯拉目前正在缓慢推出 FSD Beta，这是其自动驾驶软件的早期版本，目前正由该公司挑选的部分车主进行测试。这些车主可以优先体验该公司最新、最强大的半自动驾驶技术。目前，只有特斯拉“安全评分”为 98 分、99 分和 100 分的部分车主可以参加，但未来可能会扩大到更低分数的车主。</p><p data-vmark="2af9">然而，参加该计划的最好方式是获得尽可能接近 100 分的成绩。特斯拉 FSD Beta 版更新并没有增加 FSD 套件的功能，使车辆实现完全自动驾驶。目前，FSD Beta 仍然被认为是 L2 级司机辅助驾驶系统。如果参与测试计划的车主不能保持专注，可能会导致被移除出测试车队。</p>
           
 </div>
             

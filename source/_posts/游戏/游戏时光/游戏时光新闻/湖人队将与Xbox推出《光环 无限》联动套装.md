@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2021/12/05/211205101104269_u9317
 
                 
                 
-                    <div class="topicContent front_content sort_content">湖人队官推表示，将与Xbox合作推出《光环 无限》联动套装，套装包含一个士官长雕像、一件编号为117的湖人队球衣、以及一个湖人队主题的Xbox手柄。该套装售价139.9美元，在湖人队商店限量发售。</div>
+                    <div class="topicContent front_content sort_content">湖人队官推表示，将与Xbox合作推出《光环 无限》联动套装，套装包含一个士官长玩偶、一件编号为117的湖人队球衣、以及一个湖人队主题的Xbox手柄。该套装售价139.9美元，在湖人队商店限量发售。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2021/12/05/211205101104269_u93176.jpg" src="https://img01.vgtime.com/game/cover/2021/12/05/211205101104269_u93176.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
