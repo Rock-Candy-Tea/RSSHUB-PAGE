@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211205/1638687311_6302
 3》、《GTA：罪恶<a target="_blank" href="https://www.3dmgame.com/tag/dushi_1/">都市</a>》和《GTA：圣安地列斯》原版游戏。而且工作室承诺，明年6月之前购买《GTA：三部曲-终极版》的玩家均可免费获赠原版GTA三部曲游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211205/1638687311_630266.jpeg" alt="购买《GTA：三部曲-终极版》的玩家现已收到原版游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211205/1638687311_630266.jpeg" alt="购买《GTA：三部曲-终极版》的玩家现已收到原版游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 今天，R星在官方推特上宣布，之前赠送游戏的承诺现已付诸实施：“在PC平台上购买了《GTA：三部曲-终极版》的所有玩家，现已可在Rockstar游戏启动器库中看到《GTA 

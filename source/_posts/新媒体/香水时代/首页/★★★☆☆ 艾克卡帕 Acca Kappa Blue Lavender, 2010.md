@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=1424'
+headimg: 'https://picsum.photos/400/300?random=2740'
 author: 香水时代
 comments: false
 date: Thu, 18 Nov 2021 03:00:33 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1424'
+thumbnail: 'https://picsum.photos/400/300?random=2740'
 ---
 
 <div>   
@@ -18,7 +18,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1424'
 本来是喜欢acca kappa的白苔 但是这个在打折 于是先买了这个 
 包装盒上写着 除了薰衣草味还有Arabian inscense，wild mint，rose pepper，和Morrocan rosemary我闻着 除了薰衣草 还有一股子花椒大料味挥散不去 
 
-怪我盲买 不知道包装上写了有这个rose pepper 我吐
+怪我盲买 不知道包装上写了有这个rose pepper 我吐（经提醒 大料味不是来自这个粉红胡椒 冤枉它了）
 
 救命 劝和我一样是香水小白 目前还接受不了这种味道的 慎重 
 
