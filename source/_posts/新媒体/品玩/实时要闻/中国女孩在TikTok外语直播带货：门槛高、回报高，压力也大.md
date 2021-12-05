@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=2342'
+headimg: 'https://picsum.photos/400/300?random=8921'
 author: 品玩
 comments: false
 date: Sun, 05 Dec 2021 01:20:04 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2342'
+thumbnail: 'https://picsum.photos/400/300?random=8921'
 ---
 
 <div>   
-TikTok
+硅星人
 
 
 中国女孩在TikTok外语直播带货：门槛高、回报高，压力也大
