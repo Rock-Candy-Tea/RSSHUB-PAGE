@@ -29,6 +29,9 @@ Goldman最近离开了BioWare，考虑到疫情仍然致使多个游戏跳票，
 <p style="text-indent:2em;">
 今年7月时，知名记者GamesBeat的Jeff 
 Grubb暗示《龙腾世纪4》将于2023年发售，不会是跨平台游戏，这意味着《龙腾世纪4》只会登陆当代主机PS5/XSX|S以及PC平台。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211205/1638670272_110783.jpg" alt="《龙腾世纪4》可能不会参加今年的TGA" referrerpolicy="no-referrer">
 </p>          
 </div>
             
