@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/040/607/768/original/0ea39d69c3e8069f.jpeg'
+headimg: 'https://picsum.photos/400/300?random=7478'
 author: Mastodon
 comments: false
-date: Sun, 05 Dec 2021 10:57:08 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/040/607/768/original/0ea39d69c3e8069f.jpeg'
+date: Sun, 05 Dec 2021 12:03:35 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7478'
 ---
 
 <div>   
-<hr><br><img src="https://img.pawoo.net/media_attachments/files/040/607/768/original/0ea39d69c3e8069f.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/040/607/769/original/ad746cf5fff80028.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/040/607/770/original/73ba7e83fc666003.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/040/607/771/original/5405d70266ab047d.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><br><video src="https://img.pawoo.net/media_attachments/files/040/608/872/original/5fc02d9c1a65530e.mp4" controls loop>video </video>  
 </div>
             
