@@ -1,0 +1,19 @@
+
+---
+title: '读科研文献也能泄露隐私 用户发现爱思唯尔PDF阅读器收集用户信息'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1206/aa5b214ac257f5b.png'
+author: cnBeta
+comments: false
+date: Mon, 06 Dec 2021 06:21:58 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1206/aa5b214ac257f5b.png'
+---
+
+<div>   
+阅读科学文献也能泄露个人隐私吗？最近，一位名叫 Jonny Saunders 的程序员便爆了这么一个猛料：世界最大学术出版商之一爱思唯尔（Elsevier），就一直悄悄做着这件事。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1206/aa5b214ac257f5b.png"><img data-original="https://static.cnbetacdn.com/article/2021/1206/aa5b214ac257f5b.png" src="https://static.cnbetacdn.com/thumb/article/2021/1206/aa5b214ac257f5b.png" referrerpolicy="no-referrer"></a></p><p>Jonny 晒出的图片显示：</p><p>当科研人员打开 ScienceDirect 网站，用着网页自带 PDF 阅读器，那么点击、阅读情况都会被一一记录下来，然后再传给爱思唯尔服务器。</p><p>原来我们在阅读科学文献的时候，一直被爱思唯尔监控着。</p><p>根据 Jonny Saunders 的分析，爱思唯尔不仅读取了你的行为，还记录你所在学校等信息，并在空闲时将一大串 base64 码发送到服务器。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1206/91f0912a64b1108.png"><img data-original="https://static.cnbetacdn.com/article/2021/1206/91f0912a64b1108.png" src="https://static.cnbetacdn.com/thumb/article/2021/1206/91f0912a64b1108.png" referrerpolicy="no-referrer"></a></p><p>虽然，这并不是爱思唯尔第一次被指责获取用户隐私。但这篇推文还是在社交网络上掀起轩然大波，一日转发量就超过 1000。</p><p>早在 2013 年，爱思唯尔收购参考文献管理器 Mendeley 时，就有 Mendeley 用户表达了这样的担忧。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1206/20f5951797e08aa.png"><img data-original="https://static.cnbetacdn.com/article/2021/1206/20f5951797e08aa.png" src="https://static.cnbetacdn.com/thumb/article/2021/1206/20f5951797e08aa.png" referrerpolicy="no-referrer"></a></p><p>事实上这种担忧并非杞人忧天，之后有人发现了 Mendeley 在后台的一些记录行为，包括：</p><ul class=" list-paddingleft-2"><li></li></ul><p>姓名、电子邮件、密码、学习领域和学术状况等个人信息</p><ul class=" list-paddingleft-2"><li></li></ul><p>阅读、管理的论文</p><ul class=" list-paddingleft-2"><li></li></ul><p>意见和反馈</p><ul class=" list-paddingleft-2"><li></li></ul><p>日志文件和设备数据</p><ul class=" list-paddingleft-2"><li></li></ul><p>第三方帐户数据</p><ul class=" list-paddingleft-2"><li></li></ul><p>阅读时间以及上传文章的摘要、参考文献等使用数据</p><p>在外界看来，出版商靠着收取出版费和订阅费，利润已经不菲了，为何还要收集用户数据呢？</p><p>爱思唯尔为何这样做？</p><p>爱思唯尔对自己的定位，不仅是一家学术出版商，也是一家学术数据供应商。</p><p>今年 9 月，爱思唯尔在 Twitter 上说：</p><p>他们不仅是一家出版商，还提供“知识和分析”服务。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1206/2b029f49c8be457.png"><img data-original="https://static.cnbetacdn.com/article/2021/1206/2b029f49c8be457.png" src="https://static.cnbetacdn.com/thumb/article/2021/1206/2b029f49c8be457.png" referrerpolicy="no-referrer"></a></p><p>推文最后的链接指向了一个官方页面，上面显示着“数据分析”、“证据主导决策”等关键词。</p><p>而且爱思唯尔母公司 RELX 本身就是全球最大信息中介商，过去 20 年收购了大量数据分析公司。</p><p>有人整理了一张爱思唯尔旗下品牌和产业生态链，在这个庞大的产业链中，每一个都会为公司贡献利润。每当你使用这些工具交互时，Elsevier 都可能收集和分析您的用户数据。</p><p><img src="https://static.cnbetacdn.com/article/2021/1206/4d8932207a2aaac.png" referrerpolicy="no-referrer"></p><p>Jonny 认为，来自研究人员的数据很可能从 SciVal（爱思唯尔旗下数据业务）卖出。</p><p>由于论文数量越来越多，研究人员的注意力时间越来越短，为了保持研究项目的进展，他们需要推荐系统，而出版商有利可图，也开始推出相应业务。</p><p>如何关闭爱思唯尔阅读器</p><p>如果不想被爱思唯尔获取个人信息，可以在网页中关掉默认的 PDF 阅读器。</p><p>登录 ScienceDirect 设置页时，将默认启用爱思唯尔阅读器一项关掉。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1206/49127d2dbd95a79.png"><img data-original="https://static.cnbetacdn.com/article/2021/1206/49127d2dbd95a79.png" src="https://static.cnbetacdn.com/thumb/article/2021/1206/49127d2dbd95a79.png" referrerpolicy="no-referrer"></a></p><p>最简单直接的方法是直接将 PDF 下载到本地再阅读。</p><p>如果希望能够系统阅读管理文献，建议使用 Zotero 等第三方文献阅读器替代。Zotero 是由非营利组织创建和维护的，并且是免费和开源的，隐私政策友好很多。</p><blockquote></blockquote><p>参考链接：</p><p>[1]https://news.ycombinator.com/item?id=29442278</p><p>[2]https://twitter.com/json_dirs/status/1466951017459716096</p><p>[3]https://medium.com/@henryimler/fuck-elsevier-but-ive-been-using-mendeley-6b702e0a376f</p><p>[4]http://bjoern.brembs.net/2021/09/algorithmic-employment-decisions-in-academia/</p>   
+</div>
+            
