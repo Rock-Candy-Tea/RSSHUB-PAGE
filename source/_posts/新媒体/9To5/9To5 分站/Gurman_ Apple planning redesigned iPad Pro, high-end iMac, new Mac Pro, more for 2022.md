@@ -14,7 +14,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/202
 
 <div>   
 <img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/2021-ipad-pro-9to5mac-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Apple had a busy year in 2021, announcing the iPhone 13 lineup, new Apple Silicon-powered Macs, and more. Looking ahead to 2022, there’s still a lot to expect from the company. In the latest edition of his <a href="https://www.bloomberg.com/account/newsletters/power-on"><em>Power On </em>newsletter, <em>Bloomberg’s </em>Mark Gurman</a> breaks down everything he expects Apple to unveil in the new year. </p>
+<p>Apple had a busy year in 2021, announcing the iPhone 13 lineup, new Apple Silicon-powered Macs, and more. Looking ahead to 2022, there’s still a lot to expect from the company. In the latest edition of his <a href="https://www.bloomberg.com/news/newsletters/2021-12-05/apple-verizon-t-mobile-at-t-iphone-13-apple-watch-ipad-rebates-not-working-kwtm0hum"><em>Power On </em>newsletter, <em>Bloomberg’s </em>Mark Gurman</a> breaks down everything he expects Apple to unveil in the new year. </p>
 <p><span id="more-773229"></span>
 </p>
 <p>In today’s newsletter, Gurman corroborates much of what has previously been reported about what to expect from Apple in 2022. Notably, he still says that Apple is planning a <a href="https://9to5mac.com/2021/06/04/ipad-pro-redesign-glass-back-wireless-charging/">new iPad Pro design</a> with support for wireless charging, as well as updates to the lower-end iPad Air and entry-level iPad. </p>
