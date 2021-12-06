@@ -1,0 +1,19 @@
+
+---
+title: 'MES质量管理四色建模法'
+categories: 
+ - 学习
+ - ProcessOn
+ - 推荐
+headimg: 'https://img.processon.com/chart_image/thumb/6139aa1e1efad40d93a545d1.png'
+author: ProcessOn
+comments: false
+date: 2021-12-06 02:28:14
+thumbnail: 'https://img.processon.com/chart_image/thumb/6139aa1e1efad40d93a545d1.png'
+---
+
+<div>   
+<img class="thumb" alt="MES质量管理四色建模法" src="https://img.processon.com/chart_image/thumb/6139aa1e1efad40d93a545d1.png" referrerpolicy="no-referrer">
+<p>MES质量管理四色建模法，一键应用</p>  
+</div>
+            
