@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=5074'
+headimg: 'https://picsum.photos/400/300?random=7319'
 author: Paul Graham 博客
 comments: false
-date: 2021-12-06 00:28:37
-thumbnail: 'https://picsum.photos/400/300?random=5074'
+date: 2021-12-06 01:55:45
+thumbnail: 'https://picsum.photos/400/300?random=7319'
 ---
 
 <div>   
@@ -121,7 +121,7 @@ mere expression "work/life" embodies a mistake: it assumes work and
 life are distinct. For those to whom the word "work" automatically
 implies the dutiful plodding kind, they are. But for the skaters,
 the relationship between work and life would be better represented
-by a dash than a slash. I wouldn't want to work on anything I didn't
+by a dash than a slash. I wouldn't want to work on anything that I didn't
 want to take over my life.<br><br>Of course, it's easier to achieve this level of motivation when
 you're making something like the Macintosh. It's easy for something
 new to feel like a project of your own. That's one of the reasons
