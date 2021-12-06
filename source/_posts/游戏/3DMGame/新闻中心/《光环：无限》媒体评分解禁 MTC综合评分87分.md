@@ -50,7 +50,16 @@ VGC：8
 Screen Rant：7
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211206/1638780416_683799.jpg" alt="《光环：无限》媒体评分解禁 MTC综合评分87分" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211206/1638780416_683799.jpg" alt="《光环：无限》媒体评分解禁 MTC综合评分87分" referrerpolicy="no-referrer">
+</p>
+<p style="text-indent:2em;">
+<strong>GameSpot</strong><strong>评语：</strong>《光环：无限》在努力改变光环系列游戏的意义，本作让士官长成为年轻AI类似父亲的形象，并将他置于开放世界的环境中。对于IP系列来说，这是值得冒险的，因为《无限》是一款令人难以置信的游戏。虽然部分故事存在着薄弱的一面，且抓钩让士官长的其他装备相比之下显得略有不足，但这些都是有史以来最棒光环战役的小缺点而已。
+</p>
+<p style="text-indent:2em;">
+<strong>IGN</strong><strong>评语：</strong>《光环：无限》单人战役正是这个系列所需要的。它充分发挥了士官长独特而令人满意的战斗风格，它的故事对于新老玩家来说都显得略短了一些，但六年的等待是值得的。
+</p>
+<p style="text-indent:2em;">
+<strong>VGC</strong><strong>评语：</strong>《光环：无限》更加开放的世界结构让人感觉就像是该系列的另一个新的开始，新旧元素的结合产生了惊人的效果，虽然《光环：无限》战役和多人游戏还有改进的空间，但本作的核心体验仍是十分出色。
 </p>
 <p style="text-indent:2em;">
 微软Xbox旗下343
