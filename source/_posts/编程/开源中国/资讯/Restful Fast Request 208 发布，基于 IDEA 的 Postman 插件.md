@@ -45,8 +45,8 @@ thumbnail: 'https://resources.jetbrains.com/storage/products/company/brand/logos
 <p><img height="768" src="https://oscimg.oschina.net/oscnet/up-7c387a8435d05eb7d56df77056a0e7f38fd.png" width="856" referrerpolicy="no-referrer"></p> 
 <h2 style="margin-left:0; margin-right:0; text-align:left"><span style="color:#e74c3c">支持</span></h2> 
 <p><strong>2021开源软件投票支持已经开启，如果您觉得本软件对您的开发提效了许多，希望您帮忙投上宝贵的一票</strong></p> 
-<p><strong>地址：<a href="https://www.oschina.net/project/top_cn_2021">https://www.oschina.net/project/top_cn_2021</a></strong></p> 
-<p><strong>右上角搜索输入框输入 fast request</strong></p> 
+<p><strong>地址：</strong><a href="https://www.oschina.net/project/top_cn_2021/?id=589"><span style="background-color:#ffffff">https://www.oschina.net/project/top_cn_2021/?id=589</span></a></p> 
+<p><strong>点击链接即可到达投票界面</strong></p> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">文档</h2> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><a href="https://kings.gitee.io/restful-fast-request-doc/">https://kings.gitee.io/restful-fast-request-doc/</a></p> 
 <h1 style="margin-left:0; margin-right:0; text-align:left">关于开源</h1> 
