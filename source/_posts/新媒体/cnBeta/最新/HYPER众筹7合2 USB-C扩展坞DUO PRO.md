@@ -1,0 +1,19 @@
+
+---
+title: 'HYPER众筹7合2 USB-C扩展坞DUO PRO'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1207/514b51b664e9436.webp'
+author: cnBeta
+comments: false
+date: Tue, 07 Dec 2021 01:53:51 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1207/514b51b664e9436.webp'
+---
+
+<div>   
+<strong>HYPER 今天宣布 HyperDrive“DUO PRO”上架 </strong><a href="https://www.indiegogo.com/projects/hyperdrive-usb-c-hub-for-macbook-pro-2016-2021?utm_source=www.macrumors.com&utm_medium=kickbooster&utm_content=link&utm_campaign=2e75e3d2#/" target="_blank"><strong>Indiegogo </strong></a><strong>平台，计划筹集 10 万美元。</strong>这是一款适用于 2016-2021 年 MacBook Pro 的 7 合 2 USB-C 扩展坞。截至发稿为止，该项目已经成功筹集 80337 美元，得到 1081 位用户支持，距离项目结束还有 28 天。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/514b51b664e9436.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">HyperDrive DUO PRO 有一个 Thunderbolt 4/USB 4 端口，能够以 40Gbps 的速度进行数据传输，100W PD 和 6K 60Hz 视频，一个支持 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a> 60Hz 显示器的 HDMI 端口，一个 5Gbps USB-A 端口，一个千兆以太网端口，一个 5Gbps USB-C 端口，一个 3.5 毫米音频插孔，以及一个 104MB/s MicroSD 读卡器。为了保持纤细的设计，千兆以太网端口是可伸缩的。</p><p style="text-align: left;">该集线器有太空灰和银色两种颜色，与 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F" target="_blank">MacBook</a> Pro 的机身表面相匹配。虽然它是为新的 14 英寸和 16 英寸MacBook Pro 机型设计的，以配合它们的侧面轮廓，避免干扰MagSafe充电端口，但DUO PRO也适用于2016至2020年的任何MacBook。通过一个通用的USB-C适配器，DUO PRO还可以与任何具有USB-C端口的Chromebooks、PC和<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a>兼容。</p><p style="text-align: left;">DUO PRO具有扩展的USB-C连接器，使集线器能够与保护性的MacBook外壳一起使用，并且一个可选的适配器允许它与没有外壳的MacBook齐平。DUO PRO还具有HYPER的磁力抓手，使其能够安全地固定在 MacBook 上。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/16aa14b621a36e7.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/6f893243d3f3bf1.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/a3901c8c32b7978.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/f094a7de5a1d71c.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/8de908bbeec203c.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/a0fedc33b4c5d73.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/95cfb5d55787ca0.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/a517707b443763c.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/2702eb3294fc4a4.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/f913dc7fc3b5860.gif" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1207/2a62e3d0c6188f2.gif" referrerpolicy="no-referrer"></p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/1207/458b760eb526b80.gif" referrerpolicy="no-referrer"></p>   
+</div>
+            

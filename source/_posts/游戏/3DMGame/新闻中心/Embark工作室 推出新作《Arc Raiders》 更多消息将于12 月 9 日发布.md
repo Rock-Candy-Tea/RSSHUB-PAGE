@@ -27,10 +27,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211207/1638840544_6924
 </iframe>
 </p>
 <p style="text-indent:2em;">
-Embark工作室是由前DICE和EA高层Patrick Sderlund在2018年离职后选择成立创建的。公司总部位于斯德哥尔摩。创始人Patrick Sderlund之前在EA最主要的一个成就是将DICE的技术传播到了全公司。目前EA旗下许多游戏系列都是使用DICE的寒霜引擎制作而成的，包括：《战地》系列、BioWare旗下的RPG游戏、《极品飞车》系列以及公司旗下的体育游戏等等。
+Embark工作室是由前DICE和EA高层Patrick Sderlund在2018年离职后创建的。公司总部位于斯德哥尔摩。创始人Patrick Sderlund之前在EA最主要的一个成就是将DICE的技术传播到了全公司。目前EA旗下许多游戏系列都是使用DICE的寒霜引擎制作而成的，包括：《战地》系列、BioWare旗下的RPG游戏、《极品飞车》系列以及公司旗下的体育游戏等等。
 </p>
 <p style="text-indent:2em;">
-而另一方面，Sderlund也是此前饱受争议《星球大战：战争前线2》的负责人，同时也是关闭Visceral Games工作室以及重新设计原本由Amy Hennig负责开发《星球大战》的主要人员之一。
+而另一方面，Sderlund也是此前饱受争议《星球大战：战争前线2》的负责人，同时也是关闭的Visceral Games工作室以及重新设计的原本由Amy Hennig负责开发《星球大战》的主要人员之一。
 </p>
 <h4 style="text-indent:2em;">
 预告截图
