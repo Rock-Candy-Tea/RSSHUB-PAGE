@@ -8,12 +8,12 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2021/12/07/1020371636.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-12-07 03:08:48
+date: 2021-12-07 04:09:52
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/07/1020371636.jpg'
 ---
 
 <div>   
-【TGA上将带来4款新游戏首日加入XGP PC的消息】TGA2021即将举行，作为其中的一部分，微软今日确认届时会带来4款新游戏首日加入XGP PC阵容的消息！此外，以下游戏也再次确认会日加入XGP PC阵容：
+【TGA上将带来4款新游戏首日加入XGP PC的消息】TGA2021即将举行，作为其中的一部分，微软今日确认届时会带来4款新游戏首日加入XGP PC阵容的消息！此外，以下游戏也再次确认会首日加入XGP PC阵容：
 《全面战争：战锤3》
 《Redfall》
 《潜行者2》

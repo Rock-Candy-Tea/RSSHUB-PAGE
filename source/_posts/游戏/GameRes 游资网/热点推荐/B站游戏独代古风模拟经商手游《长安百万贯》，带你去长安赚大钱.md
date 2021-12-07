@@ -19,7 +19,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202112/03/142320cu22f29ia25h
 </div>
 <br>
 《长安百万贯》官网预约：https://game.bilibili.com/cabwg<br><br><div align="center">
-<span id="flv_VEF"></span>
+<span id="flv_pBH"></span>
 </div>
 <div align="center"><font size="2"><font color="#808080">《长安百万贯》首曝PV</font></font></div>
 <br>
