@@ -1,0 +1,19 @@
+
+---
+title: '零百加速4.6秒 宝马iX xDrive 40纯电旗舰SUV海外交付'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1207/e803f999d5bf5a9.jpg'
+author: cnBeta
+comments: false
+date: Tue, 07 Dec 2021 12:44:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1207/e803f999d5bf5a9.jpg'
+---
+
+<div>   
+近日，有媒体报道称，<strong>宝马全新旗舰纯电SUV车型iX已经在海外正式开始交付，宝马也正式达成了交付100万台电气化汽车的目标</strong>。据悉，<strong>此次交付的车型为iX xDrive 40，欧洲售价77300欧元（约合人民币55.40万元），需要指出的是，该款车型目前并未在国内上市，国内消费者可以购买的是xDrive 50版，售价84.69万元</strong>。<br>
+ <p><a href="https://img1.mydrivers.com/img/20211207/b8351018276146ab80b00431937b9395.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/e803f999d5bf5a9.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/e803f999d5bf5a9.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/e803f999d5bf5a9.jpg" referrerpolicy="no-referrer"></a></p><p>根据规划，从2022年起，宝马位于德国的每家工厂都将生产纯电动车型，未来宝马7系、5系、X1等车型都将推出纯电版。</p><p>简单回顾下iX这款旗舰SUV，作为宝马全面开启纯电化的先锋制作，iX的造型可谓是令人过目不忘，<strong>前脸为两颗巨大的封闭式“大板牙”造型的格栅，与常见的鼠类形象很是接近</strong>。</p><p><a href="https://img1.mydrivers.com/img/20211207/7ba5439a301a4ac79bc4a9925f43ab92.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/b1bcb1bc88109b2.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/b1bcb1bc88109b2.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/b1bcb1bc88109b2.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20211207/19cecc9cfab3486fbd102eaddf47af2b.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/6d10748e8331158.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/6d10748e8331158.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/6d10748e8331158.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20211207/c3507ab5224f483ab5afae5bab079d5f.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/0287489f554158c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/0287489f554158c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/0287489f554158c.jpg" referrerpolicy="no-referrer"></a></p><p>据宝马官方介绍，<strong>宝马iX中网的表面图层采用了特殊的聚氨酯涂层和加热丝，如果路上有小飞石，破坏了表面，只要静置24小时或者加热5分钟，就能够自动修复</strong>。</p><p>更为有趣的是，<strong>车头宝马的Logo竟然可以被手动打开，然后你就能得到一个玻璃水加注口</strong>。</p><p><a href="https://img1.mydrivers.com/img/20211207/f2058cd3754543a38e2dd761614f2b53.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/3377532d174c99e.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/3377532d174c99e.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/3377532d174c99e.jpg" referrerpolicy="no-referrer"></a></p><p>宝马iX采用了名为Carbon Cage碳纤维笼式车架，这是宝马旗下首款使用此车架的车型，除车门内框、车尾门的框架和车顶前方的横梁均为碳纤维材质，车架其余部位大量应用铝质材质，如此能保证车身强度和轻量化。</p><p>据介绍，宝马iX的内饰参照了家具的感觉而设计，内部进行了大量的“减法，力求简约精致感，怎么说呢，空荡荡的中控台上只有一块大联屏，简约是简约了，但有点过于简陋。</p><p><a href="https://img1.mydrivers.com/img/20211207/978eaee2f7434fb7ae741028015e653a.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2021/1207/9b1c7760919170c.jpg"><img data-original="https://static.cnbetacdn.com/article/2021/1207/9b1c7760919170c.jpg" src="https://static.cnbetacdn.com/thumb/article/2021/1207/9b1c7760919170c.jpg" referrerpolicy="no-referrer"></a></p><p>动力方面，<strong>国内上市的iX xDrive 50车型配备了前后双电机，最大功率385千瓦，峰值扭矩765牛米，零百加速4.6秒，得益于111.5千瓦时的电池组，在WLTP工况下，新车续航里程达到了630公里</strong>。</p>   
+</div>
+            
