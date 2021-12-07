@@ -1,0 +1,18 @@
+
+---
+title: '授权外星人官方小程序，赢PGC大礼包及外星人鼠标垫等好礼！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/07/e39b9f6b54cd39fc27a57aa7a43425f8/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 07 Dec 2021 17:00:40 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/07/e39b9f6b54cd39fc27a57aa7a43425f8/thumb.jpeg'
+---
+
+<div>   
+<p>作为PGC 2021全球总决赛赛事官方指定PC及显示器合作伙伴，在PGC全球总决赛如火如荼的开展之际，ALIENWARE为热爱绝地求生的小伙伴们带来了一大波空投装备！<br></p><p></p><p><img class="lazy" data-height="509" src="https://imgheybox.max-c.com/bbs/2021/12/07/e39b9f6b54cd39fc27a57aa7a43425f8/thumb.jpeg" data-width="750" referrerpolicy="no-referrer"></p><p></p><p>在本次比赛中，作为赛事官方显示器的ALIENWARE 2521H拥有360Hz的超高刷新率，反映在实际游戏体验中就是——跟手。这也是高刷新率的显示器在电竞比赛中非常重要的原因，360Hz的超高刷新率让他们可以在毫秒之间做出响应。</p><p></p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/12/07/06dc307e91d760b33291e08fc7daeb72/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><p></p><p>外观方面，2521H的外观既不张扬又在内敛中展示了设计师的设计功底。新一代外星人电竞显示器使用了<b>预言</b>这一设计风格，简约而不简单，很有未来的科幻感。做工很精致，质感很好，感兴趣的小伙伴可以立即进入<a href="heybox://%7B%22protocol_type%22%3A%22openWXMiniProgram%22%2C%22userName%22%3A%22gh_a786cf586c7d%22%2C%22path%22%3A%22pages%2Fproduct%2Fdetail%3Fid%3D34848417%26utm_source%3D4411%22%7D" target="_blank">【外星人小程序2521H购买页面】</a>抢购。</p><p></p><p><img class="lazy" data-height="326" src="https://imgheybox.max-c.com/bbs/2021/12/07/7d5e33ae5964e7381e1c9cc47cd6c045/thumb.png" data-width="634" referrerpolicy="no-referrer"></p><p></p><p>近日ALIENWARE还推出了最新产品AW m15 R6笔记本。AW m15 R6作为一款次旗舰定位的产品，整体设计和做工仍然保持了相当高的水准，m15 R6整机换用了铝镁合金+塑料材质，但细腻的类肤质喷涂手感顺滑，仍然不显廉价。</p><p></p><p><img class="lazy" data-height="462" src="https://imgheybox.max-c.com/bbs/2021/12/07/a1547bb7d8e85cf308d521fc06804ac9/thumb.png" data-width="693" referrerpolicy="no-referrer"></p><p></p><p>性能部分，同样顶级的处理器选择和满血版的RTX 3060显卡加上稳定的散热表现，让它的核心游戏体验也丝毫没有缩水。现在进入<a href="heybox://%7B%22protocol_type%22%3A%22openWXMiniProgram%22%2C%22userName%22%3A%22gh_a786cf586c7d%22%2C%22path%22%3A%22pageContent%2Fmarket%2Fr6%3Futm_source%3D4157%22%7D" target="_blank">【小程序m15 R6购买页面】</a>抢购，还有隐藏福利待你解锁。                 </p><p><img class="lazy" data-height="800" src="https://imgheybox.max-c.com/bbs/2021/12/07/d2a74123b6c9e94c1d36b3186a3fd4c9/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><p></p><p>PGC 决赛在即，小黑盒联合外星人小程序社区有好礼想送！</p><h3>活动时间：</h3><p>2021. 12. 07 - 12. 14</p><h3>活动形式：</h3><p>点击<a href="heybox://%7B%22protocol_type%22%3A%22openWXMiniProgram%22%2C%22userName%22%3A%22gh_a786cf586c7d%22%2C%22path%22%3A%22pageContent%2Fmarket%2Fr6%3Futm_source%3D4438%22%7D" target="_blank">【进入外星人微信小程序】</a>授权并截图，将截图发送在评论区即有机会获得多重好礼。</p><h3>活动奖品：</h3><p>PUBG 4周年卫衣 * 5（仅S码）， 外星人电竞鼠标垫*10</p><p></p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2021/12/07/460b1c63eb7f1310f84fa01e6410fc25/thumb.jpeg" data-width="720" referrerpolicy="no-referrer"></p><p></p><p></p><p><img class="lazy" data-height="486" src="https://imgheybox.max-c.com/bbs/2021/12/07/e6f402378efedbcf630fa5b14b66e8c2/thumb.png" data-width="1047" referrerpolicy="no-referrer"></p><p></p><p>此外作为本次小黑盒与外星人官方小程序互动的一环，小程序同步举办了踩楼活动邀请广大盒友参加，<a href="heybox://%7B%22protocol_type%22%3A%22openWXMiniProgram%22%2C%22userName%22%3A%22gh_a786cf586c7d%22%2C%22path%22%3A%22pageContent%2Fpublic%2Fweb-view%3Fcommunity_hash%3D%2523%252Findex%252Fdetails%253Fid%253D585%26utm_source%3D4440%22%7D" target="_blank">【点击进入外星人小程序活动】</a>，即有机会获得310M+410K键鼠套装 ，PGC 2021超级大礼包，ALIENWARE鼠标垫等精美礼品，中奖信息将由官方开奖并于12.11号公示。</p>  
+</div>
+            
