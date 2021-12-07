@@ -30,14 +30,14 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211207/1638848257_5937
 玩家将在《心渊梦境》发掘奇幻世界埋藏的秘密。探索雄奇壮阔的自然景观和古老王城的遗迹，邂逅神秘的巨大生物和流浪的可爱精灵。运用丰富的武器和多样的技巧，与堕落腐化的怪物战斗，突破重重危机。精美的2D手绘世界等待着你的冒险。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848257_593791.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848257_593791.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《心渊梦境》提供了丰富的战斗选择，玩家可同时装备2把主武器与1把副武器，并在战斗中自由使用。更能点亮不同路线的天赋，打造自己的专属风格。在关卡探索方面，制作组承诺会提供至少15张主题各异、无缝拼接的地图，让玩家们领略 
 “园庭”世界各个区域不同风格的魅力。同时，首周目游戏体验时长预计可达25-30小时，玩家更能在探索中发现玄机，发掘四处埋藏的秘密。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848267_854783.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848267_854783.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 <strong>探索广袤神秘的园庭</strong> 
@@ -100,22 +100,22 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211207/1638848257_5937
 <strong><span style="color:#E56600;font-size:16px;">游戏截图：</span></strong> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848237_441040.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848237_441040.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848237_147695.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848237_147695.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_780225.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_780225.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_122653.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_122653.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_187353.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848238_187353.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848289_829576.jpg" alt="上海烛龙新作《心渊梦境》上架Steam 明年发售" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20211207/1638848289_829576.jpg" alt="类银河战士恶魔城单机游戏《心渊梦境》正式开放Steam页面" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
