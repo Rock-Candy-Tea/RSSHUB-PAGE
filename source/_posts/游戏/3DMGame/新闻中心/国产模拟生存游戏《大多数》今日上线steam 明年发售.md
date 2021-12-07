@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211207/1638858860_2173
 <span></span> 
 </p>
 <p style="text-indent:2em;">
-由U.Ground Game Studio开发的国产模拟生存游戏《大多数》今日上线steam，游戏于2022年发售。
+由U.Ground Game Studio开发的国产模拟<a target="_blank" href="https://www.3dmgame.com/tag/shengcun_1/">生存</a>游戏《大多数》今日上线steam，游戏于2022年发售。
 </p>
 <p style="text-indent:2em;">
 《大多数》是一款纪实风格的模拟生存。背景设立在我们熟悉的现实生活中。因为不同的困境，从未到过大城市的“你”，带着希望孤身一人来到陌生的环境里打拼，搬砖、洗车、送外卖……在辛勤忙碌的工作中安身立命。
@@ -66,7 +66,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211207/1638858860_2173
 <strong>无拘无束的自由模式</strong> 
 </p>
 <p style="text-indent:2em;">
-体验完剧情模式的辛酸历程，你可以在自由模式中，用自己独到的决策眼光和管理能力，规划人生发展的蓝图。
+体验完<a target="_blank" href="https://www.3dmgame.com/tag/juqing_1/">剧情</a>模式的辛酸历程，你可以在自由模式中，用自己独到的决策眼光和管理能力，规划人生发展的蓝图。
 </p>
 <p style="text-indent:2em;">
 <strong>丰富的社交与恋爱系统</strong> 
