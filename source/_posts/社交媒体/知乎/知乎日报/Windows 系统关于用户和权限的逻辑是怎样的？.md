@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-08 10:09:49
-thumbnail: 'https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
+date: 2021-12-08 11:07:52
+thumbnail: 'https://pic3.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Serendipity，</span><span class="bio">星星还是要还给宇宙的</span>
 <a href="https://www.zhihu.com/question/66229405/answer/2257838074" class="originUrl" hidden>查看知乎原文</a>
 </strong>
