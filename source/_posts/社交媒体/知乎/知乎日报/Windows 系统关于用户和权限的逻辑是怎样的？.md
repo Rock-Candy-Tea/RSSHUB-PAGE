@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-08 05:09:24
-thumbnail: 'https://pic2.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
+date: 2021-12-08 06:10:57
+thumbnail: 'https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Serendipity，</span><span class="bio">星星还是要还给宇宙的</span>
 <a href="https://www.zhihu.com/question/66229405/answer/2257838074" class="originUrl" hidden>查看知乎原文</a>
 </strong>
@@ -105,19 +105,19 @@ thumbnail: 'https://pic2.zhimg.com/v2-99b4577d42061dc5a4cfc498f22a2481_l.jpg?sou
 <figure><img class="content-image" src="https://pic1.zhimg.com/v2-7e48a1e9eedff7abee673924846d4022_720w.jpg?source=8673f162" alt referrerpolicy="no-referrer"></figure>
 <p><strong>参考</strong></p>
 <ol>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Windows_1.0x</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://zh.wikipedia.org/wiki/Windows_NT</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/qq_35191331/article/details/75557567</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/william-dai/p/10897905.html</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://baike.baidu.com/item/%E5%86%B2%E5%87%BB%E6%B3%A2%E7%97%85%E6%AF%92/11036738?fr=aladdin</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://www.williamlong.info/archives/3362.html</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Windows_1.0x</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://zhuanlan.zhihu.com/p/25292204</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">http://www.inforsec.org/wp/?p=1009</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/zh-cn/windows/win32/memory/data-execution-prevention</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/sysinternals/downloads/procmon</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/windows/win32/secauthz/appcontainer-isolation</a></li>
-<li> <a href="https://app.yinxiang.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F66229405%2Fanswer%2F2257838074" target="_blank" rel="noopener noreferrer">http://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Architecture_of_Windows_NT</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Windows_1.0x">https://en.wikipedia.org/wiki/Windows_1.0x</a></li>
+<li> <a href="https://zh.wikipedia.org/wiki/Windows_NT">https://zh.wikipedia.org/wiki/Windows_NT</a></li>
+<li> <a href="https://blog.csdn.net/qq_35191331/article/details/75557567">https://blog.csdn.net/qq_35191331/article/details/75557567</a></li>
+<li> <a href="https://www.cnblogs.com/william-dai/p/10897905.html">https://www.cnblogs.com/william-dai/p/10897905.html</a></li>
+<li> <a href="https://baike.baidu.com/item/%E5%86%B2%E5%87%BB%E6%B3%A2%E7%97%85%E6%AF%92/11036738?fr=aladdin">https://baike.baidu.com/item/%E5%86%B2%E5%87%BB%E6%B3%A2%E7%97%85%E6%AF%92/11036738?fr=aladdin</a></li>
+<li> <a href="https://www.williamlong.info/archives/3362.html">https://www.williamlong.info/archives/3362.html</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Windows_1.0x">https://en.wikipedia.org/wiki/Windows_1.0x</a></li>
+<li> <a href="https://zhuanlan.zhihu.com/p/25292204">https://zhuanlan.zhihu.com/p/25292204</a></li>
+<li> <a href="http://www.inforsec.org/wp/?p=1009">http://www.inforsec.org/wp/?p=1009</a></li>
+<li> <a href="https://docs.microsoft.com/zh-cn/windows/win32/memory/data-execution-prevention">https://docs.microsoft.com/zh-cn/windows/win32/memory/data-execution-prevention</a></li>
+<li> <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/procmon">https://docs.microsoft.com/en-us/sysinternals/downloads/procmon</a></li>
+<li> <a href="https://docs.microsoft.com/en-us/windows/win32/secauthz/appcontainer-isolation">https://docs.microsoft.com/en-us/windows/win32/secauthz/appcontainer-isolation</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Architecture_of_Windows_NT">https://en.wikipedia.org/wiki/Architecture_of_Windows_NT</a></li>
 </ol>
 </div>
 </div>
