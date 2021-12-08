@@ -1,0 +1,18 @@
+
+---
+title: '对标Model 3！蔚来ET5谍照曝光：特斯拉的劲敌要来了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a000009_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 08 Dec 2021 02:12:07 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a000009_1024.jpg'
+---
+
+<div>   
+<p>12 月 8 日，微博网友 @太空橘子拍到了一组蔚来 ET5 的路试画面。该车会和量产版 ET7 在 12 月 18 日举行的蔚来日（NIO Day）中一同亮相，感兴趣的网友可以关注一下。</p><p><strong>根据该网友的描述，ET5 的体形比 ET7 小了很多，很接近 Model 3。可能是为了方便更换电池，ET5 会比 Model 3 更高一点。</strong>目前尚不清楚这款蔚来新车的具体价格，该车可能会与 Model 3、极氪 001、小鹏 P7、比亚迪汉 EV 等车型直接竞争，起售价预计在 23 万左右。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202112/61b05caa622768117a000009_1024.jpg" data-height="450" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a000009_1024.jpg" referrerpolicy="no-referrer"></div></div>小雷了解到（微信搜索 雷科技，回复 抽奖 参与红包抽奖），蔚来 ET5 将会是合肥新桥智能电动车产业园（NeoPark）建成后的首款下线车型，大规模交付可能要等到明年年底了。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202112/61b05caa622768117a00000a_1024.jpg" data-height="450" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61b05caa622768117a00000a_1024.jpg" referrerpolicy="no-referrer"></div></div>从网友分享的图片可以看到，虽然被厚重的伪装涂层覆盖，但几个前车灯还是 " 暴露 " 了身份，ET5 的造型几乎相当于缩小版的 ET7，车尾采用大溜背设计，后座空间应该相对充足。有网友根据爆料信息做了一组 ET5 假想图，整体颜值看起来还是挺高的。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202112/61b05caa622768117a00000b_1024.jpg" data-height="511" data-width="1314" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a00000b_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>值得一提的是，这款蔚来新车基于 NT2.0 平台打造，同样会配备激光雷达与自动驾驶能力，核心功能方面可能会跟 ET7 看齐，</strong>但作为一款中高端车型，硬件、用料等配置肯定和后者有更大区别。<p></p><p>动力方面，蔚来 ET5 将采用第二代电驱动系统，前期可能只推出前后双电机版，高配车型会不会提供三电机或者四电机还不好说。至于动力电池，目前蔚来主流车型搭载的电池分别为 75KWh、100KWh 三元锂电池以及 75KWh 磷酸铁锂电池，如果要考虑到换电的话，那么 ET5 很可能是搭载上述三款电池的其中之一。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202112/61b05caa622768117a00000c_1024.jpg" data-height="415" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a00000c_1024.jpg" referrerpolicy="no-referrer"></div></div>ET5 内饰的具体细节尚未公开，但小雷预计整体设计会和 ET7 靠近，不过后者采用的 Karuun 可再生藤木这种高端材料是不会用的。即便如此，ET5 的内饰质量估计也会比 Model 3 要好一些。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202112/61b05caa622768117a00000d_1024.jpg" data-height="507" data-width="1339" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61b05caa622768117a00000d_1024.jpg" referrerpolicy="no-referrer"></div></div>与蔚来 ET5 一同亮相的 ET7 量产版，起售价可能会在 46 万左右，不是所有消费者都愿意购买这个价位段的新能源汽车。作为 ET7 的缩小版，ET5 的售价相对会更亲民，而且配置方面也能对 Model 3 等车型造成一定的冲击。<strong>当然，该车应该还要好一段时间才能上市，想买的小伙伴还得等一年。</strong><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
