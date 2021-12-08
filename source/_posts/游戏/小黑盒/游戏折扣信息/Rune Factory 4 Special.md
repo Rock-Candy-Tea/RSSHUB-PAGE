@@ -1,0 +1,19 @@
+
+---
+title: 'Rune Factory 4 Special'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏折扣信息
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1580240/header.jpg?t=1638905373'
+author: 小黑盒
+comments: false
+date: 2021-12-08 00:27:47
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1580240/header.jpg?t=1638905373'
+---
+
+<div>   
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1580240/header.jpg?t=1638905373" referrerpolicy="no-referrer"> <br>
+            平台: PC<br>折扣力度: 9折<br>当前价格: 171[史低]  原价: 190<br><br>  
+</div>
+            
