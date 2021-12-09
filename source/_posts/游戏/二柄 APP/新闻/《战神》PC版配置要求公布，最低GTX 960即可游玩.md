@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1000416491.jpg'
+headimg: 'https://erbingeditor.diershoubing.com/6/2021/12/09/11435516.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-12-09 03:07:40
-thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1000416491.jpg'
+date: 2021-12-09 04:09:48
+thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/09/11435516.jpg'
 ---
 
 <div>   
@@ -23,6 +23,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1000416491.jpg'
 推荐配置
 处理器: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)
 内存: 8 GB RAM
-显卡: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)<br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1000416491.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1000412835.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1000418798.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1000419906.jpg" referrerpolicy="no-referrer">  
+显卡: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)<br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/11435516.jpg" referrerpolicy="no-referrer">  
 </div>
             

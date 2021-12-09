@@ -8,13 +8,16 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2021/12/09/1104040472.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-12-09 03:07:40
+date: 2021-12-09 04:09:48
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2021/12/09/1104040472.jpg'
 ---
 
 <div>   
 【XGP新增游戏提醒】XGP今日新增《光环：无限》（云端/主机/PC）、《海贼无双4》（云端/主机/PC）两款游戏，其中《海贼无双4》将于今日晚些时候上线。
 
-友情提示：二柄现已支持查看XGP游戏列表，大家可前往「游戏」-「游戏库」-「XSX|S/XBOXONE」-「XGP」中查看！<br><img src="https://erbingeditor.diershoubing.com/3/2021/12/09/1104040472.jpg" referrerpolicy="no-referrer">  
+同时《英雄萨姆4》（云端/PC/XSX|S）也已于12月7日上线XGP，期待本作的柄友别忘记下载游玩。
+
+友情提示：
+二柄现已支持查看XGP游戏列表，大家可前往「游戏」-「游戏库」-「XSX|S/XBOXONE」-「XGP」中查看！<br><img src="https://erbingeditor.diershoubing.com/3/2021/12/09/1104040472.jpg" referrerpolicy="no-referrer">  
 </div>
             
