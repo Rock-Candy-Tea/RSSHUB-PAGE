@@ -1,0 +1,18 @@
+
+---
+title: '電繪｜Traveloggers攜手守護「藍星」❤️'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/378884a5-a221-4f40-866a-44e37144d1c1.png'
+author: Matters
+comments: false
+date: Tue, 07 Dec 2021 16:16:44 GMT
+thumbnail: 'https://assets.matters.news/embed/378884a5-a221-4f40-866a-44e37144d1c1.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/378884a5-a221-4f40-866a-44e37144d1c1.png" data-asset-id="378884a5-a221-4f40-866a-44e37144d1c1" referrerpolicy="no-referrer"><figcaption><span>Traveloggers攜手守護「藍星」❤️</span></figcaption></figure><blockquote><strong>Traveloggers 創意故事接龍(大意)：</strong><br class="smart">由於 Gena 和Valya的突然消失，大夥為尋找他們的下落，去向尊者請教，尊者說起了「自轉鐘」的故事，並發現了被破壞的古老星球「藍星」， 在經過一連串的高潮迭起的事件，最後在藍星找到了兩人。眾人將以守護藍星，團結去創造更好的元宇宙為目標，共同努力著。✌️<br class="smart"><strong>故事非常精采有趣喔，欲知詳情，快來觀看：</strong><a href="https://matters.news/@daisy/traveloggers-%E5%89%B5%E6%84%8F%E6%95%85%E4%BA%8B%E6%8E%A5%E9%BE%8D%E5%A4%A7%E8%B3%BD-%E7%B5%90%E6%A1%88%E5%A0%B1%E5%91%8A-bafyreifkruurecoaj54ai3c7dmsyf2rcmdmaokegtfef3v2tlkmbztrjly" rel="noopener noreferrer" target="_blank"><strong>Traveloggers 創意故事接龍</strong></a><strong>。</strong><br class="smart"></blockquote><hr><p><strong>接案小故事：</strong><br class="smart">很開心可以接下 "<strong>Traveloggers 創意故事接龍" </strong>的繪師，<br class="smart">在<a class="mention" href="https://matters.news/@daisy" target="_blank" data-display-name="Daisy" data-user-name="daisy" data-id="VXNlcjo2MDQ">﻿<span>@Daisy</span>﻿</a> 一發案要找繪師，我馬上私訊她，她立馬答應我，唯一要求：<strong>圖要cute！</strong><br class="smart">當時的她一定不知道：</p><h2>這是我第一次電繪，而我走的是搞笑風！🤣<br class="smart"></h2><p><strong>■ 設計理念一：</strong><br class="smart">官方的Traveloggers，像樂高積木，被打了馬賽克，離cute好遠呀！<br class="smart">於是我把 <strong>美肌開到最大，用力地拉皮！</strong>🤣<br class="smart">試想：針織娃娃，應該就是這個感覺！(<strong>拉完皮，還是會有點皺摺。</strong>)<br class="smart">於是畫出了第一版的Yury。<br class="smart">那時我想的宇宙，是由毛線組成的，星球就是一個個的毛線球，Traveloggers是毛線公仔，應該還會有一隻貓❤️。<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/7842e6c0-45c3-4666-acf8-407b096a1d31.jpeg" data-asset-id="7842e6c0-45c3-4666-acf8-407b096a1d31" referrerpolicy="no-referrer"><figcaption><span>#1366Yury</span></figcaption></figure><p><strong>■ 設計理念二：</strong><br class="smart">隨著故事不停的反轉，我可愛的毛線宇宙離我愈來愈遠，<br class="smart">美肌再開，皮再拉！<br class="smart">突然發現：<strong>Procreate 的粉筆筆刷</strong>，有我想要的效果喔~~<br class="smart">不平整的筆觸、淡淡的光暈，很貼切宇宙和原創的Traveloggers。</p><p><strong>■ 設計理念三：</strong><br class="smart">故事裡讓我最有印象的元素：尊者、SpaceX號、被破壞的藍星、Yury農夫、團結。<br class="smart">故，以 <strong>"Traveloggers攜手守護「藍星」"，</strong>為構圖發想。<br class="smart"><strong>被破壞的藍星：</strong>被貼上愛心的OK繃，修護中；<br class="smart"><strong>Gena和Lesya：</strong>輕輕地擁抱著藍星；<br class="smart"><strong>Yury和Sasha：</strong>拿著灑水器，灌溉植物；<br class="smart"><strong>Zhenya和Valya ：</strong>張開雙手，抵禦侵略。<br class="smart"><strong>尊者=Master</strong>.....就想到尤達Yoda大師，覺得很有梗，一定要畫出來。😝</p><p><br class="smart"><br class="smart">真的很開心我爭取到這次的繪師，如果沒有這次的機會，我八月新買的 ipad air ，應該到今天還是只有拍照功能。</p><p>再次感謝 <a class="mention" href="https://matters.news/@daisy" target="_blank" data-display-name="Daisy" data-user-name="daisy" data-id="VXNlcjo2MDQ">﻿<span>@Daisy</span>﻿</a>，💋💋</p><h2>讓我完成第一張電繪，而且還是Matters中第一位 買畫 的客人！<br class="smart"></h2><hr><p>十二月，遇到好多好事喔~~<br class="smart">接著還會有個小活動想舉辦，<br class="smart">十二月是個充實、又充滿感謝的月份，真是太棒了！✌️<br class="smart"></p><p><strong><u>♭♬ Carol</u></strong><u>😘</u><strong><u>: 悅 耳、歡快的歌~</u></strong><u>❤️</u><strong><u>♫♮</u></strong></p>  
+</div>
+            

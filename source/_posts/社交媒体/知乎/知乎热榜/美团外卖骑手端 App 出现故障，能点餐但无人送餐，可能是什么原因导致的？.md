@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-09f906e6f79efcd6acda1a07e3041161_1440w.jpg'
+headimg: 'https://pic1.zhimg.com/v2-07dd2023e7cfad701d285487ce7deb9e_1440w.jpg'
 author: 知乎
 comments: false
-date: Thu, 09 Dec 2021 03:57:02 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-09f906e6f79efcd6acda1a07e3041161_1440w.jpg'
+date: Thu, 09 Dec 2021 05:46:30 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-07dd2023e7cfad701d285487ce7deb9e_1440w.jpg'
 ---
 
 <div>   
-预计29岁世界首富的回答<br><br><p data-pid="wmRQTyRb">我是美团某商家，是系统崩掉了。</p><p data-pid="Sr7PwY3V">跟美团外卖小哥没关系。。。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-09f906e6f79efcd6acda1a07e3041161_1440w.jpg" data-rawwidth="1079" data-rawheight="1089" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-4136a297d1c0b6858134792079bf7db4_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-09f906e6f79efcd6acda1a07e3041161_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-8125e2ece5e04aa5cf73a44c2413c568_1440w.jpg" data-rawwidth="913" data-rawheight="734" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-2d8b53ea1ff1317d67be4488a1ef84b4_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8125e2ece5e04aa5cf73a44c2413c568_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b744032b398688863c6c3abc83d89b87_1440w.jpg" data-rawwidth="1080" data-rawheight="2340" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-da99597b60f667d498722e554159d526_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b744032b398688863c6c3abc83d89b87_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="hMLuEwQ2">图一是我们业务经理。。。</p><p data-pid="aAiWmITj">现在已经恢复了。</p>  
+新京报贝壳财经的回答<br><br><h2>美团外卖致歉：骑手App故障已修复，将对受影响的用户、骑手进行相应补偿</h2><p data-pid="-eUMoM1C">12月9日午间，美团外卖 发文致歉称，今早，美团外卖骑手App因技术故障导致骑手无法接单，目前故障已于10点46分全面修复。受影响的用户可选择自助退款，同时我们将为受影响的用户提供10元无门槛红包。商家由于系统故障遭受的正常餐损将由美团外卖承担。骑手因故障导致的超时送达、差评等所有考核问题也将免责，同时也通过红包雨等活动方式对骑手今天的收入进行补偿。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-07dd2023e7cfad701d285487ce7deb9e_1440w.jpg" data-caption data-size="normal" data-rawwidth="646" data-rawheight="288" data-default-watermark-src="https://pic2.zhimg.com/v2-5f9d0262c44172173f3ec6845c499ae3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-07dd2023e7cfad701d285487ce7deb9e_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
