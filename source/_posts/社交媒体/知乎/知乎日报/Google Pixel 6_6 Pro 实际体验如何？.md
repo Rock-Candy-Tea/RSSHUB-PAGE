@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-09 12:13:23
-thumbnail: 'https://pic3.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162'
+date: 2021-12-09 13:18:13
+thumbnail: 'https://pic1.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-a409bf782b7c37ab7430b2126af7eff5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">APPSO，</span><span class="bio">微信公众号 APPSO，让你的手机更好用。</span>
 <a href="https://www.zhihu.com/question/497118964/answer/2254781262" class="originUrl" hidden>查看知乎原文</a>
 </strong>
