@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1601270640.jpg'
+headimg: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1613279498.jpg'
 author: 二柄 APP
 comments: false
-date: 2021-12-09 08:09:15
-thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1601270640.jpg'
+date: 2021-12-09 09:07:59
+thumbnail: 'https://erbingeditor.diershoubing.com/6/2021/12/09/1613279498.jpg'
 ---
 
 <div>   
-【TGA直播预告】TGA 2021颁奖典礼即将于北京时间12月10日早上9点举行，今年我们也将会在B站二柄APP官方直播间（房间号：3646692）为大家带来全程视频直播，敬请关注！此外，B站的玩家TGA投票仍在继续，欢迎大家为自己心中的年度游戏投票（地址见评论区）。<br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1601270640.jpg" referrerpolicy="no-referrer">  
+【TGA直播预告】TGA 2021颁奖典礼即将于北京时间12月10日早上9点举行，今年我们也将会在B站二柄APP官方直播间（明早8：30开启，房间号：3646692）为大家带来全程视频直播，敬请关注！此外，B站的玩家TGA投票仍在继续，欢迎大家为自己心中的年度游戏投票（地址见评论区）。<br><img src="https://erbingeditor.diershoubing.com/6/2021/12/09/1613279498.jpg" referrerpolicy="no-referrer">  
 </div>
             
