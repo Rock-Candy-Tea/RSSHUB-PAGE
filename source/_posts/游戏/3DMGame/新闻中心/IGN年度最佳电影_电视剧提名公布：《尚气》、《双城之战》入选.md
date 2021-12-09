@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211209/1639013345_7350
 今日（12月9日），IGN公布了2021年度最佳电影、电视剧的提名名单，其中漫威亚裔超级英雄电影《尚气：与十环传奇》提名最佳年度电影、拳头打造的超人气动画剧集《英雄联盟：双城之战》提名最佳年度电视剧。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211209/1639013345_735095.jpg" alt="IGN年度最佳电影/电视剧提名公布：《尚气》、《双城之战》入选" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211209/1639013345_735095.jpg" alt="IGN年度最佳电影/电视剧提名公布：《尚气》、《双城之战》入选" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 IGN年度最佳电影提名
@@ -53,7 +53,7 @@ IGN年度最佳电影提名
 10、《西区故事》
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211209/1639013725_594687.jpg" alt="IGN年度最佳电影/电视剧提名公布：《尚气》、《双城之战》入选" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211209/1639013725_594687.jpg" alt="IGN年度最佳电影/电视剧提名公布：《尚气》、《双城之战》入选" referrerpolicy="no-referrer"> 
 </p>
 <h3 style="text-indent:2em;">
 IGN年度最佳电视剧提名
