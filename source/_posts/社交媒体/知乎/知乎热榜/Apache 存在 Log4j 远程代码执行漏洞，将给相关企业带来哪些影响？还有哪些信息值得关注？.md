@@ -5,17 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3968'
+headimg: 'https://picsum.photos/400/300?random=9007'
 author: 知乎
 comments: false
-date: Fri, 10 Dec 2021 08:34:44 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3968'
+date: Fri, 10 Dec 2021 04:45:19 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9007'
 ---
 
 <div>   
-Glavo的回答<br><br><p><a data-draft-node="block" data-draft-type="link-card" href="http://link.zhihu.com/?target=https%3A//github.com/Glavo/log4j-patch" data-image="https://pic2.zhimg.com/v2-3a600311d9053866f7de6afd7876c2f2_bh.jpg" data-image-width="1200" data-image-height="600" class=" wrap external" target="_blank" rel="nofollow noreferrer">GitHub - Glavo/log4j-patch</a></p><p data-pid="DGJer95r">糊了一个简单有效的 patch 出来，将它附加在类路径的最前面即可禁用 JNDI 查找，阻止这个漏洞。适用于 Log4j2 所有版本，对 Java 版本没有要求。</p><p data-pid="UbiWvhcS">原理就是提供了一个空的 <code>JndiLookup</code> 用来覆盖 Log4j2 中的类，Log4j2 处理了加载失败的情况，会直接禁用 JNDI 查找，以此解决了这个问题。</p><p data-pid="IVRL_a-i">这是一个非侵入式的修补器，可以用来修补第三方无法修改代码的程序，譬如 Minecraft。这里提供了一个 javaagent，只需要添加 <code>-javaagent:log4j-patch-agent-1.0.jar</code> 就可以自动替换。 </p><p data-pid="rDWlhduL">这个也已经发布到 Maven Central 上了，自己的项目的话，将它作为第一个依赖项添加也能解决这个问题。</p><div class="highlight"><pre><code class="language-kotlin"><span><span class="n">dependencies</span> <span class="p">&#123;</span>
-    <span class="n">implementation</span><span class="p">(</span><span class="s">"org.glavo:log4j-patch:1.0"</span><span class="p">)</span>
-<span class="p">&#125;</span>
-</span></code></pre></div>  
+琴梨梨的回答<br><br><p data-pid="6Wld2jWV">由于minecraft java版也使用了log4j，这个漏洞甚至可以用来在生存模式下作弊</p><p data-pid="dwb-QajK">实测在低版本java（java8u191之前的版本）下可以在minecraft聊天内使用jndi注入，因为minecraft会把聊天输入内容打在log里，用的就是log4j，因为命令方块也可以实现此注入，在有外部程序配合的情况下，可以实现完全看不出任何破绽的作弊</p><p data-pid="nJxgPNFE">官方启动器+官方jre玩家不用进行任何操作，虽然正版的log4j版本是存在漏洞的版本，但是因为目前官方启动器用的jre是基于openjdk16的，openjdk16不能使用jndi注入</p><p data-pid="EaBuObHW">但是还在使用低版本java开服的服主，建议尽快升级log4j和java版本</p>  
 </div>
             
