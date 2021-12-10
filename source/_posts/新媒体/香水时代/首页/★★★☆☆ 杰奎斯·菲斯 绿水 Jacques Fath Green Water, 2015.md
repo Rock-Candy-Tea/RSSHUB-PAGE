@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=8682'
+headimg: 'https://picsum.photos/400/300?random=5407'
 author: 香水时代
 comments: false
 date: Sun, 19 Sep 2021 20:19:16 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8682'
+thumbnail: 'https://picsum.photos/400/300?random=5407'
 ---
 
 <div>   
@@ -25,7 +25,7 @@ thumbnail: 'https://picsum.photos/400/300?random=8682'
 
 大约40分钟左右柑橘向的草本型香根草出现，渐渐盖过了橡木苔。这时候薄荷又悄悄地从麝香基底里冒课下头，但需要贴皮才闻得到。
 
-留香之短接近潘家琴酒，最多两小时——问题是本人属于留香体质，连FM法国情人在我皮肤上都能留香8小时以上，绿水这个渣留香是真的没法辩解。
+留香之短接近潘家琴酒，最多三小时——问题是本人属于留香体质，连FM法国情人在我皮肤上都能留香8小时以上，绿水这个渣留香是真的没法辩解。
 
 至于扩香，它在暖皮的我身上也只有10cm，非常贴肤。确实可以装成伪体香，前提是你得每2小时就补喷一次。  
 </div>
