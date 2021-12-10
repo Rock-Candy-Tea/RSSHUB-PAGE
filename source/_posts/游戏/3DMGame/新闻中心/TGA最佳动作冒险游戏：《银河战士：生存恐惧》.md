@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211210/1639104751_2756
 2021 TGA“最佳动作冒险游戏”大奖公布，《银河战士：生存恐惧》获得这一殊荣。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211210/1639104751_275647.jpg" alt="TGA最佳动作冒险游戏：《银河战士：生存恐惧》" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211210/1639104751_275647.jpg" alt="TGA最佳动作冒险游戏：《银河战士：生存恐惧》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>其他提名：</strong>
+<strong>其他提名：</strong> 
 </p>
 <p style="text-indent:2em;">
 漫威银河护卫队
