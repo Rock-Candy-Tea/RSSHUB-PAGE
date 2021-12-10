@@ -24,7 +24,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/App
 <p>And it is kind of the continuation of many years of different things we’ve been doing for business. But this is absolutely the biggest step we’ve made. </p>
 </blockquote>
 <p>The full interview is well worth a listen and you can find Mac Power Users on the <a href="https://www.relay.fm/mpu/617">Relay FM website right here</a>. </p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Ew9pay"><img class="aligncenter wp-image-773313 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/SimplyMac-native-banner-dec-21.jpg?quality=82&strip=all" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Ew9pay"><img class="aligncenter wp-image-774356 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/SimplyMac-Holiday-deals.jpg?quality=82&strip=all" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>

@@ -28,7 +28,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/IMG
 <p>The consistency with which Apple enforces its rules is not likely to be the sole basis for an antitrust violation. But if the DOJ can prove that Apple’s selective enforcement is purposeful and aims to disadvantage potential rivals, it could use those findings to support a broader antitrust case.</p>
 </blockquote>
 <p>Today’s report also corroborates earlier reporting that Apple is “very likely” to face an antitrust lawsuit from the DOJ, although “prosecutors at the department are still gathering evidence.” </p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Ew9pay"><img class="aligncenter wp-image-773313 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/SimplyMac-native-banner-dec-21.jpg?quality=82&strip=all" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3Ew9pay"><img class="aligncenter wp-image-774356 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/SimplyMac-Holiday-deals.jpg?quality=82&strip=all" alt width="1000" height="200" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
