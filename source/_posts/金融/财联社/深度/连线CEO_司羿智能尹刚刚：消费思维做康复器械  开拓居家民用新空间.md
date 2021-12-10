@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=845'
+headimg: 'https://img.cls.cn/images/20211210/6b9zk2oIgM.jpg'
 author: 财联社
 comments: false
 date: Fri, 10 Dec 2021 11:57:55 GMT
-thumbnail: 'https://picsum.photos/400/300?random=845'
+thumbnail: 'https://img.cls.cn/images/20211210/6b9zk2oIgM.jpg'
 ---
 
 <div>   
@@ -20,6 +20,7 @@ thumbnail: 'https://picsum.photos/400/300?random=845'
 <p><strong>《科创板日报》（上海，记者 金小莫）讯，</strong>2017年，当尹刚刚从工业机器人企业“下海”，决心自己创业做一款康复机器人的时候，他想的最多的是两个问题：一、怎么可以把技术变现？二、在哪些技术点上，可以发挥出绝对优势？</p>
 <p>“我原先在工业机器人企业做研发。工作期间，曾有机会接触医疗行业。我发现，医疗相比于工业具有更广阔的市场空间，且客户端的价格敏感性较低。”尹刚刚谈到，随着中国老龄化的推进，市场对于健康的需求还会再有所增长，其中，康复医疗器械会是很重要的一块。</p>
 <p>目前，2B仍是康复医疗器械主要的销售模式，市场局面难以打开。<strong>于是，成本贵导致进院难，而销售量铺不开又导致成本难以下降，陷入恶性循环。</strong>“如果把康复器械做成一款消费级的产品呢？”尹刚刚思考。基于该思路，他带领司羿智能走出了一条全然不同的商业模式。从全行业来看，至今，司羿智能仍是唯一一家。</p>
+<p><img src="https://img.cls.cn/images/20211210/6b9zk2oIgM.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>用2C思维设计产品</strong></p>
 <p>尹刚刚是很典型的理工男。至今最喜欢穿的仍是旧衬衫和旧牛仔裤，因为最舒服。他成长于二三线城市，一毕业，就进入工业机器人企业，在技术一线一干就是十年。也许他讲不出许多的系统理论和理想情怀，却有自己的机灵劲儿和地气：“<strong>我要做一款产品，首先得老百姓用得起、觉得好用，其次是在技术上可实现。</strong>”</p>
 <p>很快，在整个康复赛道中，他找到了手部康复。</p>
