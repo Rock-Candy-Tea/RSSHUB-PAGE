@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5434'
+headimg: 'https://picsum.photos/400/300?random=3985'
 author: 开源中国
 comments: false
 date: Sat, 11 Dec 2021 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5434'
+thumbnail: 'https://picsum.photos/400/300?random=3985'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <div style="margin-left:0; margin-right:0"> 
+                                                                                            <div style="margin-left:0; margin-right:0"> 
  <div style="margin-left:0; margin-right:0"> 
   <div style="margin-left:0; margin-right:0"> 
    <p style="margin-left:0; margin-right:0">Angular 是一个基于 TypeScript 的开源前端框架，由 Google 的 Angular 团队以及社区共同领导，从 AngularJS 完全重写而成。</p> 

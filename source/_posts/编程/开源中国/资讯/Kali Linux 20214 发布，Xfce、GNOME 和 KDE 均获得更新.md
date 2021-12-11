@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/img/202112/11074022_oA5Q.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Kali Linux 2021.4 正式发布，该版本也是 Kali Linux 今年的最后一个版本。自 2021 年 9 月的 2021.3 版本以来的主要更新内容包括：</p> 
+                                                                                            <p>Kali Linux 2021.4 正式发布，该版本也是 Kali Linux 今年的最后一个版本。自 2021 年 9 月的 2021.3 版本以来的主要更新内容包括：</p> 
 <h3>改进了对 Apple M1 的支持</h3> 
 <p>在 Kali Linux 2021.1 中支持在使用 Apple Silicon 芯片的 Mac 上通过 Parallels 安装 Kali Linux。现在在 2021.4 中，已支持在 VMware Fusion 上安装，这要归功于 5.14 内核具有所使用的虚拟 GPU 的模块。</p> 
 <h3>对 Samba 的广泛兼容</h3> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2752'
+headimg: 'https://picsum.photos/400/300?random=9372'
 author: 开源中国
 comments: false
 date: Sat, 11 Dec 2021 08:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2752'
+thumbnail: 'https://picsum.photos/400/300?random=9372'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Apache Jackrabbit 2.21.9 发布了。Jackrabbit Oak 是一种可扩展的高性能分层内容存储库，旨在用作现代世界级网站和其它要求苛刻的内容应用程序的基础。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Apache Jackrabbit 2.21.9 发布了。Jackrabbit Oak 是一种可扩展的高性能分层内容存储库，旨在用作现代世界级网站和其它要求苛刻的内容应用程序的基础。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333"><strong>主要更新内容</strong></span></p> 
 <ul> 
  <li><span style="background-color:#ffffff; color:#333333">更新 tomcat 依赖到 8.5.72</span></li> 

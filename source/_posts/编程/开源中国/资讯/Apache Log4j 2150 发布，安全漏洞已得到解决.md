@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6712'
+headimg: 'https://picsum.photos/400/300?random=6935'
 author: 开源中国
 comments: false
 date: Sat, 11 Dec 2021 08:41:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6712'
+thumbnail: 'https://picsum.photos/400/300?random=6935'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>apache-log4j-2-15-0-released</p> 
+                                                                                            <p>apache-log4j-2-15-0-released</p> 
 <p>Apache Log4j 是一个知名的记录应用程序行为的框架。Log4j 2 是 Log4j 的升级版，与它的前身 Log4j 1.x 相比，提供了显著的改进，并提供了许多其他现代功能。</p> 
 <p>Apache Log4j 2.15.0 版本正式发布，安全漏洞 CVE-2021-44228 在 Log4j 2.15.0 中已得到解决。</p> 
 <h3>Log4j 2.15.0 的一些新特性包括：</h3> 

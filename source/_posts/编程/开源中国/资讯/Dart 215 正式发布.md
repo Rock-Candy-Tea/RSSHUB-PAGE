@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-a47d8bcc3768c9d8ab0a6a580a47bb1
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Dart 2.15 现已发布，具有与工作隔离的快速并发、新的构造函数拆分语言功能、dart:core 库中改进的枚举支持、包发布者的新功能等。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Dart 2.15 现已发布，具有与工作隔离的快速并发、新的构造函数拆分语言功能、dart:core 库中改进的枚举支持、包发布者的新功能等。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333"><img alt height="948" src="https://oscimg.oschina.net/oscnet/up-a47d8bcc3768c9d8ab0a6a580a47bb1100a.png" width="1711" referrerpolicy="no-referrer"></span></p> 
 <p><strong><span style="background-color:#ffffff; color:#333333">主要更新内容</span></strong></p> 
 <ul> 

@@ -14,8 +14,7 @@ thumbnail: 'https://images.gitee.com/uploads/images/2021/1210/215357_d7f04332_38
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <h1 style="margin-left:0px; margin-right:0px; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId">CosId</a><span> </span>通用、灵活、高性能的<strong>分布式ID</strong>生成器</h1> 
+                                                                                            <h1 style="margin-left:0px; margin-right:0px; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId">CosId</a><span> </span>通用、灵活、高性能的<strong>分布式ID</strong>生成器</h1> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">更新内容（v1.4.5） 🎉 🎉 🎉</h2> 
 <div style="text-align:start"> 
  <ul> 
