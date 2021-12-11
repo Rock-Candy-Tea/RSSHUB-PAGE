@@ -23,7 +23,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211211/1639192969_6387
 按照苹果的说法，这次的iOS 15.2第二个RC版仅适用于iPhone 13和iPhone 13 Pro设备，所以其他机型就只能看着了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211211/1639192969_638722.png" alt="苹果推iOS 15.2新测试版 可查iPhone维修零件是否正品" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211211/1639192969_638722.png" alt="苹果推iOS 15.2新测试版 可查iPhone维修零件是否正品" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 之前发布的iOS 15.2测试版更新中，用户可以进入设置 > 通用 > 
