@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-11 13:15:24
-thumbnail: 'https://pic1.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162'
+date: 2021-12-11 14:08:04
+thumbnail: 'https://pica.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Sean Ye，</span><span class="bio">公众号：瞎说职场 HRinsight，B站：Sean-叶楠</span>
 <a href="https://www.zhihu.com/question/502575817/answer/2261734570" class="originUrl" hidden>查看知乎原文</a>
 </strong>
