@@ -15,7 +15,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202112/02/154715zngg4womoe9q
 <div>   
 <table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2519559">
 2021《部落冲突》全球锦标赛决赛烽火再起，八强队伍汇聚一堂，巅峰对决即将拉开序幕。近日，《部落冲突》官方放出两支趣味横生的视频，为总决赛献上助攻！<br><br><strong><font color="#de5650">弹簧陷阱有妙用，通勤时刻美味相伴</font></strong><br><br><div align="center">
-<span id="flv_K01"></span>
+<span id="flv_Ymm"></span>
 </div>
 <br>
 真正的部落首领对《部落冲突》的喜爱不仅在于战斗与建造的快感与乐趣，更重要的是对《部落冲突》所拿捏的古怪、混乱、幽默的气质的喜爱。如果游戏照进现实，生活逐渐“Clash化”又将是怎样的体验呢？<br><br><div align="center">
@@ -30,7 +30,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202112/02/154715zngg4womoe9q
 <img id="aimg_1023267" aid="1023267" zoomfile="https://di.gameres.com/attachment/forum/202112/02/154716bfqeyu9f96zcehvv.jpg" data-original="https://di.gameres.com/attachment/forum/202112/02/154716bfqeyu9f96zcehvv.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202112/02/154716bfqeyu9f96zcehvv.jpg" referrerpolicy="no-referrer">
 </div>
 <br><strong><font color="#de5650">空气炮的另类用法，激战时刻美味不停</font></strong><br><br><div align="center">
-<span id="flv_dx4"></span>
+<span id="flv_An4"></span>
 </div>
 <br><div align="center">
 <img id="aimg_1023268" aid="1023268" zoomfile="https://di.gameres.com/attachment/forum/202112/02/154716aiviimmb2i4ivnuy.jpg" data-original="https://di.gameres.com/attachment/forum/202112/02/154716aiviimmb2i4ivnuy.jpg" width="600" inpost="1" src="https://di.gameres.com/attachment/forum/202112/02/154716aiviimmb2i4ivnuy.jpg" referrerpolicy="no-referrer">
