@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-12 10:09:14
-thumbnail: 'https://pic3.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162'
+date: 2021-12-12 11:07:36
+thumbnail: 'https://pic1.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-cc50f90afde0376f0eafd735e6fffae6_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Anka Lau，</span><span class="bio">服装设计/艺术留学/公众号：ELEVENTEN</span>
 <a href="https://www.zhihu.com/question/504869284/answer/2263776808" class="originUrl" hidden>查看知乎原文</a>
 </strong>
