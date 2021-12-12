@@ -15,7 +15,7 @@ thumbnail: 'https://di.gameres.com/attachment/forum/202112/07/160653y1z1m0yu6uu5
 <div>   
 <table cellspacing="0" cellpadding="0"><tbody><tr><td class="t_f" id="postmessage_2519783">
 2021年11月22日-24日，由腾讯游戏学堂举办的第五届腾讯游戏开发者大会（Tencent Game Developers Conference，简称TGDC）在线上举行。 本届大会以“Five by Five”为主题，邀请了海内外40多位行业嘉宾，从主论坛、产品、技术、艺术、独立游戏、市场及游戏社会价值7大专场共同探讨游戏产业趋势和多元价值，以开发者视角与需求为出发点，助力游戏行业良性发展，探索游戏的更多可能性。<br><br><div align="center">
-<span id="flv_tQK"></span>
+<span id="flv_i2z"></span>
 </div>
 <br>
 大家好！很高兴和各位在这个场合聊聊开放世界的相关话题。<br><br>
