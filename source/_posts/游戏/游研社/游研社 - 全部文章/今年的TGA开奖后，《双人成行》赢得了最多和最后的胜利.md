@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 全部文章
-headimg: 'https://picsum.photos/400/300?random=570'
+headimg: 'https://picsum.photos/400/300?random=6022'
 author: 游研社
 comments: false
-date: Sat, 11 Dec 2021 08:07:09 GMT
-thumbnail: 'https://picsum.photos/400/300?random=570'
+date: Sat, 11 Dec 2021 08:08:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6022'
 ---
 
 <div>   
-今天早晨北京时间九点，一年一度的TGA颁奖典在洛杉矶微软剧院召开，三个半小时的盛会最后，以《双人 ...  
+F**k The Oscars！  
 </div>
             
