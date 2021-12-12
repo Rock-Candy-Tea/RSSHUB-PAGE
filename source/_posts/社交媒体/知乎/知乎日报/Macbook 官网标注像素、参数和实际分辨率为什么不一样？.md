@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/4a46b90d4_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/4a46b90d4_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-12 04:10:47
-thumbnail: 'https://pic1.zhimg.com/4a46b90d4_l.jpg?source=8673f162'
+date: 2021-12-12 05:08:42
+thumbnail: 'https://pica.zhimg.com/4a46b90d4_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/4a46b90d4_l.jpg?source=8673f162'
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/4a46b90d4_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/4a46b90d4_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Ryan Woo，</span><span class="bio">偏见比无知离真理更远</span>
 <a href="https://www.zhihu.com/question/501962846/answer/2251708666" class="originUrl" hidden>查看知乎原文</a>
 </strong>
