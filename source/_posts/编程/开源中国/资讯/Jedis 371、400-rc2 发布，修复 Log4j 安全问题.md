@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1104'
+headimg: 'https://picsum.photos/400/300?random=6962'
 author: 开源中国
 comments: false
 date: Mon, 13 Dec 2021 07:22:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1104'
+thumbnail: 'https://picsum.photos/400/300?random=6962'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Jedis 是 Redis 的一个 Java 客户端库。Jedis 4.0.0-rc2、3.7.1 发布，这是针对安全漏洞 CVE-2021-44228，即 Log4j 安全问题的维护版本。这个问题对 Jedis 没有影响，Log4j 只在其测试中使用。</p> 
+                                                                    
+                                                        <p>Jedis 是 Redis 的一个 Java 客户端库。Jedis 4.0.0-rc2、3.7.1 发布，这是针对安全漏洞 CVE-2021-44228，即 Log4j 安全问题的维护版本。这个问题对 Jedis 没有影响，Log4j 只在其测试中使用。</p> 
 <h3>Jedis 3.7.1：</h3> 
 <ul> 
  <li>将 log4j-core 从 2.13.3 升级到 2.15.0</li> 

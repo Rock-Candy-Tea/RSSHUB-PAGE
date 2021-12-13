@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2052'
+headimg: 'https://picsum.photos/400/300?random=9526'
 author: 开源中国
 comments: false
 date: Sun, 12 Dec 2021 23:12:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2052'
+thumbnail: 'https://picsum.photos/400/300?random=9526'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">CHINER元数建模软件介绍：<a href="https://my.oschina.net/skymozn/blog/5134881">PDMan升级换代至->CHINER[元数建模]v3.0：最好用的国产开源数据库建模平台</a></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">CHINER元数建模软件介绍：<a href="https://my.oschina.net/skymozn/blog/5134881">PDMan升级换代至->CHINER[元数建模]v3.0：最好用的国产开源数据库建模平台</a></p> 
 <h1 style="margin-left:0; margin-right:0; text-align:left">3.5.7版本升级内容清单</h1> 
 <hr> 
 <ol style="list-style-type:decimal; margin-left:0; margin-right:0"> 

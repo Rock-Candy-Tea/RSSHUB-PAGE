@@ -8,13 +8,14 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2021/1213/074650_2wJ7_2720166.png'
 author: 开源中国
 comments: false
-date: Sun, 12 Dec 2021 23:51:00 GMT
+date: Mon, 13 Dec 2021 07:50:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2021/1213/074650_2wJ7_2720166.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Tailwind CSS v3.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftailwindcss.com%2Fblog%2Ftailwindcss-v3" target="_blank">已正式发布</a>，新版本在性能和工作流优化方面带来了巨大的提升，同时还增加了大量新特性。</p> 
+                                                                    
+                                                        <p>Tailwind CSS v3.0 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftailwindcss.com%2Fblog%2Ftailwindcss-v3" target="_blank">已正式发布</a>，新版本在性能和工作流优化方面带来了巨大的提升，同时还增加了大量新特性。</p> 
 <p><img src="https://static.oschina.net/uploads/space/2021/1213/074650_2wJ7_2720166.png" referrerpolicy="no-referrer"></p> 
 <p><span style="background-color:#ffffff; color:#333333">Tailwind CSS v2.0 主要更新内容：</span></p> 
 <ul style="margin-left:0; margin-right:0"> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3819'
+headimg: 'https://picsum.photos/400/300?random=8430'
 author: 开源中国
 comments: false
 date: Mon, 13 Dec 2021 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3819'
+thumbnail: 'https://picsum.photos/400/300?random=8430'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>digiKam 是 KDE 桌面环境的影像管理和编辑程序，支持所有主要图像格式，并可以组织目录为基础的照片收藏，或按日期、时间、或标签的动态相册。用户还可以对图像添加标题和注释，搜索他们和透过智能文件夹保存搜索。添加插件还可以输出到 Flickr 的相册、Gallery2、谷歌地球的 KML 文件、Simpleviewer、刻录成光盘或创建 Web 画廊。</p> 
+                                                                    
+                                                        <p>digiKam 是 KDE 桌面环境的影像管理和编辑程序，支持所有主要图像格式，并可以组织目录为基础的照片收藏，或按日期、时间、或标签的动态相册。用户还可以对图像添加标题和注释，搜索他们和透过智能文件夹保存搜索。添加插件还可以输出到 Flickr 的相册、Gallery2、谷歌地球的 KML 文件、Simpleviewer、刻录成光盘或创建 Web 画廊。</p> 
 <p>近日，digiKam 7.4.0 正式发布，本次更新的部分内容如下：</p> 
 <ul> 
  <li>在 bugzilla 上关闭了 1300 多个用户报告。</li> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7906'
+headimg: 'https://picsum.photos/400/300?random=4791'
 author: 开源中国
 comments: false
-date: Sun, 12 Dec 2021 23:53:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7906'
+date: Mon, 13 Dec 2021 07:52:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4791'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache Druid 0.22.1 现已发布，这<span style="background-color:#ffffff; color:#333333">是一个用于事件驱动数据的高性能分析数据存储。该版本是一个错误修复版本，修复了一些安全性问题。</span></p> 
+                                                                    
+                                                        <p>Apache Druid 0.22.1 现已发布，这<span style="background-color:#ffffff; color:#333333">是一个用于事件驱动数据的高性能分析数据存储。该版本是一个错误修复版本，修复了一些安全性问题。</span></p> 
 <p><strong><span style="background-color:#ffffff; color:#333333">主要更新内容</span></strong></p> 
 <ul> 
  <li><span style="background-color:#ffffff; color:#333333">将 log4j 更新到 2.15.0 以解决 CVE-2021-44228</span></li> 

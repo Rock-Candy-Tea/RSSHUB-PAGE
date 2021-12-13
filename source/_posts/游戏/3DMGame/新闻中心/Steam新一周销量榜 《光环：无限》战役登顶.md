@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211213/1639325642_9404
 Steam公开新一周（12月06日至12月12日）销量榜，《光环：无限》战役 登顶，两个《命运2》组合包分别第二第三，《赛博朋克2077》第六。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639325642_940402.jpg" alt="Steam新一周销量榜 《光环：无限》战役登顶" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639325642_940402.jpg" alt="Steam新一周销量榜 《光环：无限》战役登顶" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>榜单详情：</strong>
+<strong>榜单详情：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《光环：无限》战役

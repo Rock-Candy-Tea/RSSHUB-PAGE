@@ -18,13 +18,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211213/1639354703_9470
 Legacy）》没有参加今年的TGA，可能让一些粉丝感到失望。不过最近有传言称，《霍格沃兹的传承》将在一个传闻中的PlayStation活动中亮相。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639354703_947077.jpg" alt="传《霍格沃兹的传承》或参加PlayStation展示会" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639354703_947077.jpg" alt="传《霍格沃兹的传承》或参加PlayStation展示会" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-舅舅党Millie发推爆料说，去年《哈利·波特》的作者JK罗琳因对变性人的厌恶言论而引发争议，而《霍格沃兹的传承》的公布使得华纳兄弟在这款游戏上“非常犹豫和谨慎”以确保它不会卷入类似的争议。
+舅舅党Millie发推爆料说，去年《哈利·波特》的作者JK罗琳因对变性人的厌恶言论引发争议，而《霍格沃兹的传承》正是在这种争议期间公布的，这使得华纳兄弟在这款游戏上“非常犹豫和谨慎”，以确保它不会卷入类似的争议。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639354711_862662.jpg" alt="传《霍格沃兹的传承》或参加PlayStation展示会" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211213/1639354711_862662.jpg" alt="传《霍格沃兹的传承》或参加PlayStation展示会" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 显然华纳为TGA 

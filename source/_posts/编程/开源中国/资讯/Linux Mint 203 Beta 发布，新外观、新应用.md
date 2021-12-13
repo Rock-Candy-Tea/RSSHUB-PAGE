@@ -8,13 +8,14 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2021/1213/073646_gPWZ_4937141.png'
 author: 开源中国
 comments: false
-date: Sun, 12 Dec 2021 23:39:00 GMT
+date: Mon, 13 Dec 2021 07:38:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2021/1213/073646_gPWZ_4937141.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Linux Mint 20.3 "Una" 的测试版现已提供下载，并计划于圣诞节假期附近正式发布。该系列基于 Ubuntu 20.04 LTS（Focal Fossa）操作系统，将提供 5 年支持。</p> 
+                                                                    
+                                                        <p>Linux Mint 20.3 "Una" 的测试版现已提供下载，并计划于圣诞节假期附近正式发布。该系列基于 Ubuntu 20.04 LTS（Focal Fossa）操作系统，将提供 5 年支持。</p> 
 <p>Linux Mint 20.3 的主要亮点之一是最新的 Cinnamon 5.2 桌面环境。这为 Cinnamon 桌面的用户带来了一些整洁的变化和增强功能。</p> 
 <p><img alt height="394" src="https://static.oschina.net/uploads/space/2021/1213/073646_gPWZ_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>这个版本的另一个变化是一个名为 Library（代号为 Thingy）的全新应用，可以作为一个一站式的地方快速访问最近访问和标星的 PDF 文件。这个应用程序不是 Linux Mint 独有的，它可以安装在任何其他 GNU/Linux 发行版上。Linux Mint 的开发人员计划在未来扩展兼容的文件格式。</p> 

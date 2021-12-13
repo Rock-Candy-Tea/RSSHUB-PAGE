@@ -1,0 +1,19 @@
+
+---
+title: 'Jefferies宣称元宇宙为_人类经历的最大颠覆_ 正如早期的互联网'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1130/7543940f4fe2e5e.jpg'
+author: cnBeta
+comments: false
+date: Mon, 13 Dec 2021 01:41:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1130/7543940f4fe2e5e.jpg'
+---
+
+<div>   
+<strong>大约30年前，科幻作家尼尔·斯蒂芬森(Neal Stephenson)首先创造了“Metaverse”这个词语，但是元宇宙概念正式引爆还是多亏了Meta Platforms首席执行官马克·扎克伯格，</strong>向全世界宣称：希望将其公司从专注于社交网络转变为主要专注元宇宙，并将虚拟现实与日常生活相结合的想法变得更加紧迫。似乎不管什么公司都在努力将自己定位于数字化未来。这个牵强附会的想法已经出现，而且似乎在不久的将来会变得更大。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2021/1130/7543940f4fe2e5e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1130/7543940f4fe2e5e.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong><span style>元宇宙火爆之际，哪些公司成最大赢家？</span></strong></p><p style="text-align: left;">智通财经App发现，事实上，<a href="http://stock.finance.sina.com.cn/usstock/quotes/NTDOY.html" target="_blank">任天堂</a>(NTDOY.US)和<a href="http://stock.finance.sina.com.cn/usstock/quotes/RBLX.html" target="_blank">Roblox</a>(RBLX.US)已经运营元宇宙社区多年了。任天堂通过其成功的《动物之森》做到了这一点，这款游戏在疫情初期迅速爆火，达到了新的高度。Roblox代表游戏《Roblox》中的虚拟世界环境吸引了全国各地孩子和家长的注意力和钱包。根据Business of Apps的数据，Roblox的月活跃用户在短短三年内从3500万跃升至1.5亿。</p><p style="text-align: left;">史蒂芬森在他1992年的书《雪崩》中创造了元宇宙这个词语。在这本畅销书中，世界范围内的经济崩溃发生了，美国被分裂成不同的地区，所有这些地区都被强大的公司和商人拥有，他们利用不同的地区实现自己的目的。因此，许多社会成员把他们的空闲时间花在“元宇宙”上，一个虚拟的多人游戏世界(类似于《动物穿越》)，购买虚拟商品和服务，如房子、饮料或假期。</p><p style="text-align: left;">回到现在，像<a href="http://stock.finance.sina.com.cn/usstock/quotes/NKE.html" target="_blank">耐克</a>(NKE.US)等公司正在寻找在元宇宙中销售数字商品的机会。但硬件公司可能会成为更大的赢家，比如<a href="http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html" target="_blank">苹果</a>(AAPL.US)、Meta 及<a href="http://stock.finance.sina.com.cn/usstock/quotes/MSFT.html" target="_blank">微软</a>(MSFT.US)。目前，苹果第一代AR/MR头戴设备预计将于2022年出货，Meta的Oculus 虚拟现实耳机及微软的<a data-link="1" href="https://microsoft.pvxt.net/Jre7q" target="_blank">Hololens</a>混合现实头戴式显示器已经发布。</p><p style="text-align: left;">Bernstein互联网分析师Mark Shmulik在一份给投资者的报告中认为，元宇宙市场很可能“非常大”，年运营规模预计合计为2万亿美元。该分析师强调，苹果多年来在消费硬件领域的投资、消费者对品牌的喜爱以及在邻近领域的专业知识很可能以某种方式在元宇宙中得到回报。FAANG大盘股以及微软和英伟达(NVDA.US)也可能会从中受益。</p><p style="text-align: left;">Wedbush证券分析师Dan Ives指出，苹果备受期待的AR/MR头戴设备将于2022年下半年发布，这将使苹果的每股价值提高20美元，并为该公司抓住这一巨大的市场机遇和开发更广泛的超宇宙生态系统奠定坚实的基础。</p><p style="text-align: left;">尽管如此，Ives指出，元宇宙的赢家并不仅仅是消费硬件，Matterport(MTTR.US)是“最受欢迎的元宇宙游戏”。11月，Wedbush将Matterport的目标股价上调至38美元，称该公司正处于“独特增长的早期阶段”，因为这家空间数据技术公司正持续将免费客户转变为付费客户，并不断在在线房地产领域取得进展。</p><p style="text-align: left;">Matterport首席执行官 R.J. Pittman最近在接受采访时，被问及该公司正在追求什么时雄心勃勃。 Pittman表示：“我们的目标市场是世界上的每一栋建筑和每一个国家。”</p><p style="text-align: left;"><span style>还处于幼儿期的元宇宙，也不乏否定的声音</span></p><p style="text-align: left;">投资界和科技界对元宇宙之于社会的意义感到非常兴奋，但同时也有批评者的存在。</p><p style="text-align: left;">计算机科学家Louis Rosenberg在美国空军研究实验室开发了第一个功能性增强现实系统，并创建了与虚拟现实相关的Immersion Corporation，他在最近发表的一篇文章中表示，虚拟现实和增强现实的融合，导致如果人们每天有相当一部分时间在数字领域进行互动，会“改变我们的现实感”，并对“我们如何解释日常体验”产生负面影响。</p><p style="text-align: left;"><a href="http://stock.finance.sina.com.cn/usstock/quotes/FB.html" target="_blank">Facebook</a>的早期投资者Roger McNamee也严厉批评了元宇宙，McNamee表示，扎克伯格的元宇宙愿景是“反乌托邦”和“糟糕的主意”。</p><p style="text-align: left;">利物浦霍普大学人工智能和空间计算教授 David Reid承认，元宇宙将以不可估量的方式改变我们所有人的生活，就像互联网所做的那样，但该博士担忧的是元宇宙环境的监管问题。</p><p style="text-align: left;">Reid表示：“我们需要一个高度强大的系统来监督元宇宙。我们显然处于元宇宙的早期阶段，但我们现在需要开始讨论这些问题，以免走上一条无法逆转的道路，这对未来至关重要。人们一直在谈论人工智能的崛起将如何显著改变社会和我们所做的一切，这是真的。元宇宙带来的社会改变如果不能更大，至少也要做到与人工智能的崛起对社会的改变一样大。”</p><p style="text-align: left;">尽管存在种种担忧，但元宇宙即将到来，投资公司Jefferies将其称为“数字时代的新平台”。Jefferies认为，元宇宙将是“人类经历过的最大颠覆”。</p><p style="text-align: left;">Jefferies在一份给投资者的报告中写道：“一个单一的超宇宙可能还需要十多年时间，但随着它的发展，它有可能颠覆人类生活中几乎所有尚未被颠覆的事物。”</p><p style="text-align: left;">因此，投资者应该以类似于早期互联网构建的方式来看待它，Jefferies补充道：“专注于构建元宇宙所需的硬件，关注设计和托管元宇宙所需的软件，然后在这之上建仓。”</p>   
+</div>
+            
