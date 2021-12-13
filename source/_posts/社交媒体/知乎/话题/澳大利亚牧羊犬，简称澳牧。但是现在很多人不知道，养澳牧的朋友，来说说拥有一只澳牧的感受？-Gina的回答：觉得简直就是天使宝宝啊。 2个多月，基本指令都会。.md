@@ -1,0 +1,18 @@
+
+---
+title: '澳大利亚牧羊犬，简称澳牧。但是现在很多人不知道，养澳牧的朋友，来说说拥有一只澳牧的感受？-Gina的回答：觉得简直就是天使宝宝啊。 2个多月，基本指令都会。...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-780283619a3a29a77d9eca29e6ef647f.jpg'
+author: 知乎
+comments: false
+date: Mon, 13 Dec 2021 04:43:25 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-780283619a3a29a77d9eca29e6ef647f.jpg'
+---
+
+<div>   
+<strong>澳大利亚牧羊犬，简称澳牧。但是现在很多人不知道，养澳牧的朋友，来说说拥有一只澳牧的感受？</strong><br>Gina的回答<br><p data-pid="b_KzWkaj">觉得简直就是天使宝宝啊。</p><p data-pid="gxB-tzKM">2个多月，基本指令都会。而且是一次过。</p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1453695428110184448" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-780283619a3a29a77d9eca29e6ef647f.jpg" data-lens-id="1453695428110184448"><img class="thumbnail" src="https://pic1.zhimg.com/v2-780283619a3a29a77d9eca29e6ef647f.jpg" referrerpolicy="no-referrer"><span class="content"><span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1453695428110184448</span></span></span></span></span></a><p data-pid="vdNd816G">不吵。邻居估计都不知道我家养狗了吧。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-04405a4295a2802cd178f80bf12880a5_1440w.jpg" data-rawwidth="1640" data-rawheight="2079" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-28791b2666101691f3075e1266c5fa68_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-04405a4295a2802cd178f80bf12880a5_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="kQTMAXzC">毛量惊人，但是不掉毛啊！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a1380189bfdd8320386c951983d97c6e_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-2cbadd4e5883aeefc79dd6ab5f74612c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a1380189bfdd8320386c951983d97c6e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="jcFwNWaT">安安静静的陪着我们。很会撒娇啊。只要我一拍大腿，他立马就凑过来给你摸头杀。7个月大，55磅。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-fa0ffb049d51fb63e65e1b7502e14582_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-f0b8b931bfd0b7766fa4c8bc758e7252_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-fa0ffb049d51fb63e65e1b7502e14582_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="oUgLAt2o">不撒娇的时候，帅气逼人！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-cd7b07e6c909ac7b1e350288fef211bd_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-180c105c119923ee07c7f7332d84d262_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-cd7b07e6c909ac7b1e350288fef211bd_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="VoHN2vsM">运动量无疑是惊人的。可以在狗公园疯跑2小时。但是也可以很安静的在家呆着。假如我起床后，穿衣服去洗手间刷牙。那么他会默默的到洗手间的垫子上大小便。因为通常我刷完牙就出门上班了，没时间遛他大小便。这是我跟他养成的默契。聪明是真的聪明。</p><p data-pid="lwYhOk5O">只要跟他喊一句，进笼子里，他就会自觉的进去了。没有训练过，就是默契。做错事情了，也自觉进笼子里面壁思过。干脆利落。是个爷们</p><p data-pid="N6tKuLpU">挑食。但是不护食。我只要说不能吃，他就不会动！到嘴里了，他也会吐出来。我往地上扔零食，我没让他吃，他不会吃。</p><p data-pid="TumWx3Md">很调皮，偷咬东西，我会喝他。他就不动。但是很快，他会轻轻的咬上。或者把东西叼到被窝里咬。声音不会那么大。这个性格像极了孩子！</p><p data-pid="aBI42br4">跟屁虫，我半夜起床上个厕所。他也会在门口等我。默默的！</p><p data-pid="49JL-C9O">太多优点了，先说到这！</p><p></p>  
+</div>
+            
