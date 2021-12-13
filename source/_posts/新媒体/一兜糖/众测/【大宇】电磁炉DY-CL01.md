@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202112/06/8764da/9a26205527f365ae.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2021-12-13 09:14:39
+date: 2021-12-13 10:09:48
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202112/06/8764da/9a26205527f365ae.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2021.12.11                        <br>【大宇】电磁炉DY-CL01<br>                            数量 ：5<br>                            实际价格 ：599元<br>                            名单确认中<br>                            354人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202112/06/8764da/9a26205527f365ae.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2021.12.11                        <br>【大宇】电磁炉DY-CL01<br>                            数量 ：5<br>                            实际价格 ：599元<br>                            活动体验中<br>                            354人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202112/06/8764da/9a26205527f365ae.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
