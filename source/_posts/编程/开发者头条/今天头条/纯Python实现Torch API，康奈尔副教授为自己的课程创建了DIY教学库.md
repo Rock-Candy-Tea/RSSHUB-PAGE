@@ -1,0 +1,18 @@
+
+---
+title: '纯Python实现Torch API，康奈尔副教授为自己的课程创建了DIY教学库'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=506'
+author: 开发者头条
+comments: false
+date: 2021-12-13 00:28:02
+thumbnail: 'https://picsum.photos/400/300?random=506'
+---
+
+<div>   
+纯Python实现Torch API，康奈尔副教授为自己的课程创建了DIY教学库  
+</div>
+            
