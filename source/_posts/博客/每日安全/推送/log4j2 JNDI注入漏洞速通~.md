@@ -1,0 +1,26 @@
+
+---
+title: 'log4j2 JNDI注入漏洞速通~'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=889'
+author: 每日安全
+comments: false
+date: 2021-12-13 04:11:27
+thumbnail: 'https://picsum.photos/400/300?random=889'
+---
+
+<div>   
+<q>log4j2 JNDI 注入漏洞的复现和分析</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 16 minutes ago</small></span>
+</cite>
+  
+</div>
+            
