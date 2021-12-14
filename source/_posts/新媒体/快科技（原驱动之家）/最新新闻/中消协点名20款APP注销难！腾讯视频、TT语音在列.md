@@ -1,0 +1,40 @@
+
+---
+title: '中消协点名20款APP注销难！腾讯视频、TT语音在列'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20211214/s_003e9cfba2d1435d92f8cb79458c9ffa.png'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 14 Dec 2021 20:10:54 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20211214/s_003e9cfba2d1435d92f8cb79458c9ffa.png'
+---
+
+<div>   
+<p>12月14日消息，从中国消费者协会（以下简称“中消协”）官网获悉，今日，中消协发布《50款账号注销及自动化推荐退订测评报告》（下称《报告》）。</p>
+<p>结果显示，受测的50款App中，共有23款App存在账号注销或自动化推荐退订问题，其中，<span style="color:#ff0000;"><strong>腾讯视频、淘宝、饿了么等20款App存在账号注销不顺利的问题。</strong></span></p>
+<p>另外，也有一部分App注销流程设置不合理，涉及的App为Soul、TT语音。</p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20211214/003e9cfba2d1435d92f8cb79458c9ffa.png" style="text-align: -webkit-center;" target="_blank"><img alt="中消协点名20款APP注销难！腾讯视频、TT语音在列" h="316" src="https://img1.mydrivers.com/img/20211214/s_003e9cfba2d1435d92f8cb79458c9ffa.png" style="border: 1px solid black;" w="569" referrerpolicy="no-referrer"></a></p>
+<p>在自动化推荐退订方面，50款App中有5款App存在不同程度问题，占总排查比例的10%。</p>
+<p>存在的主要问题为：App未向用户提供关闭自动化推荐的方式，涉及的App为曹操出行、翼支付和禾适外卖，<strong>App内关闭自动化推荐的方式过于隐蔽，涉及的App为滴滴出行和支付宝。</strong></p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20211214/ba0951c428cc47dda6a4fa673920d352.png" target="_blank"><img alt="中消协点名20款APP注销难！腾讯视频、TT语音在列" h="313" src="https://img1.mydrivers.com/img/20211214/s_ba0951c428cc47dda6a4fa673920d352.png" style="border: 1px solid black;" w="569" referrerpolicy="no-referrer"></a></p>
+<p>总体来看，网络约车类、餐饮外卖类在两项测评内容上存在问题的App数量较多，房屋租售类5款App表现较好，在两项测评内容上均没有发现问题。</p>
+<p>针对测评中发现的问题，中消协建议所有App经营者依据《网络安全法》《个人信息保护法》等相关法律法规和标准规范，认真开展自查整改，<strong>明示合理的注销条件、提供便捷的注销路径，保障用户顺利注销账号。</strong></p>
+<p>同时，设置便捷的自动化推荐退订方式，持续完善相关用户协议及隐私政策。</p>
+<p>50款App账号注销及自动化推荐测评报告：（<a class="f14_link" href="http://p.cca.cn/ueditor/files/2021-12-14/e61366b5-88c6-4e23-a3d3-e88b7bc9ec83.docx" target="_blank">点击下载</a>）</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20211214/c5e3fdedfbe043a48eb595a725a9ead0.png" target="_blank"><img alt="中消协点名20款APP注销难！腾讯视频、TT语音在列" h="579" src="https://img1.mydrivers.com/img/20211214/s_c5e3fdedfbe043a48eb595a725a9ead0.png" style="border: black 1px solid;" w="364" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"> - THE END -</p> 
+          <p class="zhuanzai">转载请注明出处：快科技</p>  
+ <p class="bqian"><a href="https://news.mydrivers.com/tag/app.htm"><i>#</i>App</a><a href="https://news.mydrivers.com/tag/zhuxiao.htm"><i>#</i>注销</a></p>
+<p class="url">
+     
+<span>责任编辑：拾柒</span>
+</p>
+        
+</div>
+            
