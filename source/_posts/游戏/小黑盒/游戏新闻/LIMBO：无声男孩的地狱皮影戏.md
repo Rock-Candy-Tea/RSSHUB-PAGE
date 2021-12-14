@@ -1,0 +1,18 @@
+
+---
+title: 'LIMBO：无声男孩的地狱皮影戏'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2021/12/13/73e4934db7d1db2285eafdea2be931f1/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 14 Dec 2021 05:56:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2021/12/13/73e4934db7d1db2285eafdea2be931f1/thumb.jpeg'
+---
+
+<div>   
+<p>本测评涉及<b>轻微剧透</b>，观看需谨慎，特此提醒。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/13/73e4934db7d1db2285eafdea2be931f1/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>《LIMBO》（中文译名：地狱边境）是一款结合了2d横板动作、解密的平台跳跃类游戏。游戏讲述了一个小男孩为了寻找自己的姐姐，踏入LIMBO（宗教术语：地狱的外缘；中间过渡的地带）面对种种阴间困难，不断前进的故事。<br></p><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/web/2021/12/13/48c8431128897a4bfdcc393b6dea754e/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p>初进游戏菜单的时候，就感受到浓浓的时代感，画质略显模糊，分辨率没有1080p（xgp版），而且无法设置分辨率。不过这种略显模糊的画面配合背景白噪音，意外的给人带来一种不安、怪异的气氛，像是在看多年以前留下的灵异录像带，大大增加了游戏的氛围感。游戏画面只有黑、白、灰三种颜色，整体美术设计偏简约，但又不会显得特别的廉价，有种皮影戏的感觉，很特别。<b>（下面轻微剧透！观看注意！）</b><br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/13/2e7b53f59485198b4effdc7dbcfb4f9d/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>游玩的过程中，不得不惊叹<b>制作组解谜设计的功力深厚</b>。玩家所能操作的键位只有方向键外加一个控制键，但就仅仅这五个键位，在制作组手里也能通过简单的机制玩出花来。例如说，游戏前期就会遇到的捕兽夹陷阱，玩家需要操控小男孩跳过陷阱才能继续前进。但当玩家继续接着往前走的时候，会发现前方有一只巨型蜘蛛挡住去路。束手无策之际，回想起之前的捕兽夹是可以被移动的，原本伤害自己的陷阱顿时转变成了保护自己的武器，这样的设计相当巧妙，而这一切都是玩家在游玩的过程中自行领悟到的，而不是游戏刻意教给你的。这种让一切发生得理所应当的解谜设计，着实体现了制作组的功力。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/13/e948afdcfb5156c1a02dc507e15fa6e9/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>除了巧妙的解谜设计以外，《LIMBO》还有不少<b>紧张刺激的动作要素</b>：追逐战、躲子弹、潜行等等。当玩家这头刚解出一个谜题得以继续前进时，下一秒马上出现一把正在滚动的电锯朝你袭来，玩家必须立即提起精神应对接下来的操作。这种解密与动作相互穿插的游戏体验，不断地驱使玩家动脑去解决谜题，同时又要求手上的“功夫”不能落下，让整个游戏的可玩性又提升一个台阶。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/13/9b96023cb8381ddd82ab56207d4c18dd/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>比较可惜的是，在游玩的过程中明显感觉到游戏的<b>操作手感轻微僵硬</b>，有种粘滞感，不够干脆利落。而且xgp版的游戏，<b>玩家无法设置键位</b>，官方键位又有点不合理。（键盘的攀爬和跳跃在同一个按键，在某些关卡中并不是很舒服）小男孩<b>动作的动画也显得轻飘飘</b>的，移动跳跃总觉得有一种肌无力的既视感。<b>（下面有剧透！观看注意！）</b> <br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/13/3756423ba059ba001bb11bf217b5b98d/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>最后想来简单聊一聊《LIMBO》这个游戏的剧情。整个游玩过程中，没有出现过一句台词，也没有出现过任何有关于剧情的文本。无论是xgp还是steam上，对这游戏的说明都只有一句话：<b>姐姐命运不明，男孩进入了地狱边境</b>。正如一场无声的皮影戏，男孩不断在这可怖的地狱前进，无论是遇到巨型蜘蛛又或是图谋不轨的人型生物，都只能运用自己的智慧和微小的力量谋求生存，最后的最后男孩冲破地狱边界，来到女孩所在的地方，女孩背对着男孩，还没等到回头，游戏戛然而止，画面回归黑暗。我觉得这个结局相当耐人寻味，到底是久别相聚，还是徒劳无功，不得而知，就看每个人在经历了这样一次地狱之旅之后如何去解读了。<br></p><p><img class="lazy" data-height="1440" src="https://imgheybox.max-c.com/web/2021/12/13/a4a0ec77817202b267d990c3c8161b09/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><p><b>短评：</b><br></p><p>+ 简单但又独树一帜的美术音效设计，尤其是使用白噪音烘托出那种阴森恐怖的氛围感，十分到位<br></p><p>+ 同时兼备解密和动作要素的优秀关卡设计，利用简单的机制玩出了很多花样，相当性感<br></p><p>- 略显僵硬的操作手感，动作动画也调教的比较一般，主角看上去特别肌无力（比较严重的硬伤）<br></p><p>- 官方键位设置的不太合理，但玩家又无法自行设置键位（如果攀爬和跳跃可以设置在空格，游戏体验应该会更舒服）<br></p><p>- 远古画质，没有1080p，并且无法调整分辨率（xgp版）<br></p><p>结合以上的评价，《LIMBO》这款游戏个人给到<b>8.0</b>的评分，相当值得一玩并且足以推荐给他人的程度。（本游戏对玩家操作有一定门槛，并且整体氛围比较阴间，部分内容可能会引起恐慌和不适，推荐请注意！）<br></p><p>由于流程较短，没有重复游玩的要素，并且xgp可以玩到，所以不推荐购买，购买xgp体验即可。<br></p><p><img data-gameid="48000" src="https://cdn.max-c.com/heybox/game/header/48000_p5qp3.jpg" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#steam游戏#</a><a href="heybox://open_subject" target="_blank">#游戏资讯#</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a> </p>  
+</div>
+            
