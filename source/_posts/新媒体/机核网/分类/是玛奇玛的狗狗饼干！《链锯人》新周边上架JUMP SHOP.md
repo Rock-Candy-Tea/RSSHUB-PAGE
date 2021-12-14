@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png'
 author: 机核网
 comments: false
-date: 2021-12-14 07:09:18
+date: 2021-12-14 08:11:03
 thumbnail: 'https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png'
 ---
 
 <div>   
-<img src="https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-dfn0t" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="dfn0t" data-offset-key="c5lck-0-0"><div data-offset-key="c5lck-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="c5lck-0-0"><span data-text="true">《周刊少年Jump》网店“JUMP SHOP ONLINE”上架了一批“Jump Fes 2022”的各作品相关周边，其中有《链锯人》中玛奇玛的狗饼干。 </span></span></div></div>
+<img src="https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-6qj0u" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="6qj0u" data-offset-key="c5lck-0-0"><div data-offset-key="c5lck-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="c5lck-0-0"><span data-text="true">《周刊少年Jump》网店“JUMP SHOP ONLINE”上架了一批“Jump Fes 2022”的各作品相关周边，其中有《链锯人》中玛奇玛的狗饼干。 </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/50a2850f-200a-468b-8a1b-192480f6e667.png" alt referrerpolicy="no-referrer">
 <figcaption> (1/3) </figcaption>
@@ -28,7 +28,7 @@ thumbnail: 'https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png'
 <img src="https://image.gcores.com/67333315-3a61-482b-b8ce-c027bfa064e6.png" alt referrerpolicy="no-referrer">
 <figcaption> (3/3) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="dfn0t" data-offset-key="fta3f-0-0"><div data-offset-key="fta3f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fta3f-0-0"><span data-text="true">狗饼干一盒定价1100日元（含税），包含15枚饼干和1个随机人物主题挂饰（共10种，不可指定）。饼干原料为小麦粉、白糖、人造黄油、起酥油等常规成分，由五师松风堂制造。</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="6qj0u" data-offset-key="fta3f-0-0"><div data-offset-key="fta3f-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fta3f-0-0"><span data-text="true">狗饼干一盒定价1100日元（含税），包含15枚饼干和1个随机人物主题挂饰（共10种，不可指定）。饼干原料为小麦粉、白糖、人造黄油、起酥油等常规成分，由五师松风堂制造。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/6fc58653-fd92-441f-8e88-23604d07c33d.png" alt referrerpolicy="no-referrer">
 <figcaption>收纳箱 (1/4) </figcaption>
@@ -113,6 +113,6 @@ thumbnail: 'https://image.gcores.com/2ccb5209-8be0-4d6e-8e74-8997c4e41cf0.png'
 <img src="https://image.gcores.com/c9bbbc22-5e8c-433d-a2ab-68729edd3418.png" alt="徽章" referrerpolicy="no-referrer">
 <figcaption> (5/5) 徽章</figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="dfn0t" data-offset-key="53gj1-0-0"><div data-offset-key="53gj1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="53gj1-0-0"><span data-text="true">除狗饼干外，《链锯人》这批周边还有垃圾箱造型的收纳箱、早川家盘子套装、波奇塔造型抱枕等。其他作品的“Jump Fes 2022”周边也已上架JUMP SHOP ONLINE，这批产品的贩售时间为12月15日12：00~12月19日17：00（东京时间）。可自行点击</span></span><a class="md-link" href="https://jumpshop-online.com/" rel="noopener noreferrer" target="_blank" aria-label="https://jumpshop-online.com/"><span data-offset-key="53gj1-1-0"><span data-text="true">网店地址</span></span></a><span data-offset-key="53gj1-2-0"><span data-text="true">查看。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="6qj0u" data-offset-key="53gj1-0-0"><div data-offset-key="53gj1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="53gj1-0-0"><span data-text="true">除狗饼干外，《链锯人》这批周边还有垃圾箱造型的收纳箱、早川家盘子套装、波奇塔造型抱枕等。其他作品的“Jump Fes 2022”周边也已上架JUMP SHOP ONLINE，这批产品的贩售时间为12月15日12：00~12月19日17：00（东京时间）。可自行点击</span></span><a class="md-link" href="https://jumpshop-online.com/" rel="noopener noreferrer" target="_blank" aria-label="https://jumpshop-online.com/"><span data-offset-key="53gj1-1-0"><span data-text="true">网店地址</span></span></a><span data-offset-key="53gj1-2-0"><span data-text="true">查看。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
