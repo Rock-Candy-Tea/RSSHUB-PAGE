@@ -25,6 +25,10 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Ash
 <p>The labour department declined to comment, but confirmed its investigation in a letter to Gjovik seen by the Financial Times, dated December 10.</p>
 <p>Stephen Kohn, an employment lawyer and an expert in US whistleblowing law, said the burden of proof needed for the agency to open an investigation was high, as the employee must have already established enough evidence that, unless rebutted, would prove the case.</p>
 </blockquote>
+<p><meta charset="utf-8">Gjøvik told us that she hopes this will encourage others to speak up.</p>
+<blockquote class="wp-block-quote">
+<p>I hope this investigation educates Apple that they are not the law ,and that if they continue to abuse and mistreat their employees, not only will we fight back, but the government will take action. I also hope my speaking out inspires other Apple employees, current and past, to share their own stories and hold Apple accountable where possible.”</p>
+</blockquote>
 <p>Apple has a policy of declining to comment on issues relating to individual employees, but issued a brief statement to the <em>FT</em>:</p>
 <blockquote class="wp-block-quote">
 <p>We are and have always been deeply committed to creating and maintaining a positive and inclusive workplace. We take all concerns seriously and we thoroughly investigate whenever a concern is raised.</p>
