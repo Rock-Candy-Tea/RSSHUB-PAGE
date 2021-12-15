@@ -1,0 +1,19 @@
+
+---
+title: 'IEDM 2021：三星携IBM介绍VTFET半导体芯片研究新突破'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/1215/18006a4359698ab.jpg'
+author: cnBeta
+comments: false
+date: Wed, 15 Dec 2021 02:51:56 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/1215/18006a4359698ab.jpg'
+---
+
+<div>   
+在今年于加州旧金山举办的第 67 届国际电子器件会议（IEDM 2021）上，<strong>三星与 IBM 在“3D at the Device Level”讨论环节宣布，其已携手在下一代半导体芯片的设计技术上取得了重大突破。</strong>据悉，这项突破性的 VTFET 新技术，允许晶体管在垂直方向上堆叠。不仅有助于缩小半导体芯片的尺寸，还能够使之变得更加强大和高效。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2021/1215/18006a4359698ab.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1215/18006a4359698ab.jpg" alt="0-1.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://www.ieee-iedm.org/call-for-papers-overview" target="_self">谈话期间</a>，IBM 与<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>解释了如何通过将电路从水平改到垂直方向，同时让占地面积缩小的半导体芯片更加强大和高效。</p><p>在摩尔定律“1.0”时代，行业内的 CMOS 晶体管都是以横向方式构建的。在经历了数十年的无数次工艺进步之后，我们现在可以将数十亿个晶体管放入一枚小巧的芯片中。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=310849240&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: center;">IBM and Samsung Unveil Semiconductor Breakthrough（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzEwODQ5MjQwLnNodG1s.html" target="_self">via</a>）</p><p>然而随着工艺日渐逼近原子极限，半导体行业正在向垂直方向积极转进。WCCFTech 指出，受基于沟槽的 DRAM 垂直存取晶体管的启发，IBM 和三星的一支研究团队描述了他们是如何改变晶体管架构的。</p><p><img src="https://static.cnbetacdn.com/article/2021/1215/78df99bc58516a6.jpg" alt="2.jpg" referrerpolicy="no-referrer"></p><p>具体说来是，他们在体硅上使用了所谓的“垂直输送纳米片”（简称 VTFET）和 45nm 纳米栅极工艺，来制造一款互补金属氧化物半导体（CMOS）元件。</p><p><a href="https://static.cnbetacdn.com/article/2021/1215/d7c3f3755a26f48.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1215/d7c3f3755a26f48.png" alt="3-1.png" referrerpolicy="no-referrer"></a></p><p>此前的 2D 半导体芯片，都是水平放置在硅表面上的，而电流则沿着水平方向去流动。不过得益于 3D 垂直设计，新技术将有助于突破摩尔定律的性能限制，以达成更高的能源效率。</p><p><a href="https://static.cnbetacdn.com/article/2021/1215/7a12ad5c475054c.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1215/7a12ad5c475054c.png" alt="3-2.png" referrerpolicy="no-referrer"></a></p><p>与当前的鳍式场效应晶体管（FinFET）相比，VTFET 有望带来翻倍的性能、以及高达 85% 的效率提升。（加密货币挖矿行业也有望获益于此）</p><p><a href="https://static.cnbetacdn.com/article/2021/1215/67e86fc39f42e80.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1215/67e86fc39f42e80.png" alt="3-3.png" referrerpolicy="no-referrer"></a></p><p>在搞定了栅极长度和间隔尺寸（决定栅极 / 晶体管间距）这两个关键因素之后，3D 垂直器件设计方案使得芯片制造商能够继续沿着摩尔定律的方向去发展。</p><p><a href="https://static.cnbetacdn.com/article/2021/1215/37a5723d4061b9b.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1215/37a5723d4061b9b.png" alt="3-4.png" referrerpolicy="no-referrer"></a></p><p>此外由于降低了静电和寄生损耗（SS=69/68 mV/dec 且 DIBL= <30mV），VTFET 器件有望提供出色的工作电压和驱动电流。</p><p>为验证这一概念，研究人员使用了 VTFET 来制作功能性环形振荡器（测试电路）。结果发现，与横向参考设计相比，新技术可减少 50% 的电容。</p><p><img src="https://static.cnbetacdn.com/article/2021/1215/dfb5e080f8ebda8.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p>最后，虽然目前尚无任何有关 VTFET 商用商品将于何时到来的消息，但包括<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>在内的多家科技巨头，均在埃级芯片的研究上投入了大量的心力。</p><p>如果一切顺利，英特尔有望于 2024 年 4 季度，发布基于 Intel 20A 品牌的新一代半导体芯片。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1214081.htm" target="_blank">IEDM 2021：英特尔分享最新研究突破 携摩尔定律奔向2025</a></p></div>   
+</div>
+            
