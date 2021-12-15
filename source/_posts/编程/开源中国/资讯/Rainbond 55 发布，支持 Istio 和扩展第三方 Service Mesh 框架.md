@@ -8,7 +8,7 @@ categories:
 headimg: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.5/community/change/goverance-change-example1.png'
 author: 开源中国
 comments: false
-date: Wed, 15 Dec 2021 06:13:00 GMT
+date: Wed, 15 Dec 2021 14:13:00 GMT
 thumbnail: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.5/community/change/goverance-change-example1.png'
 ---
 
