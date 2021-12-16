@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622433_281161.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 16 Dec 2021 02:52:00 GMT
+date: Thu, 16 Dec 2021 03:11:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622433_281161.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622433_2811
 微软最近放出了Xbox诞生以来的一些纪录片，其中有人发现了一段R星与微软的有趣故事，那就是在2001年，R星与微软接触，想让《GTA3》成为初代XBOX的独占游戏，但微软高管果断拒绝了他们——因此迫使他们转向索尼，让该游戏成为了PS2的限时独占游戏。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211216/1639622433_281161.jpg" alt="R星曾想让《GTA3》成为Xbox独占被微软拒绝" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211216/1639622433_281161.jpg" alt="R星曾想让《GTA3》成为Xbox独占被微软拒绝" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 这一操作也让《GTA》之后从未离开过索尼PS的生态，R星与索尼PlayStation建立了密切的合作关系，二者互惠互利赚取了丰厚的利润，PS主机的销量和R星的游戏卖的都很好，直到今天《GTA5》还经常是PS5上的销量热门。
