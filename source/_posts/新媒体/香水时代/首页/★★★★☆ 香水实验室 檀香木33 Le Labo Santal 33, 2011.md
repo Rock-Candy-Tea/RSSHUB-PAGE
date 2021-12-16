@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6392'
+headimg: 'https://picsum.photos/400/300?random=1530'
 author: 香水时代
 comments: false
-date: Tue, 14 Dec 2021 17:39:25 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6392'
+date: Mon, 06 Dec 2021 18:17:40 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1530'
 ---
 
 <div>   
-沉稳 干练 井井有条 有格调 30+摩羯男 男朋友身上的味道 前面形容也是他 这瓶在我心里直接打上他的标签了 但我只在穿皮衣的秋冬天有勇气喷出门 排除男朋友的原因让我想到小时候街边 “江南皮革厂倒闭啦！...老婆小姨子跑啦！...”对不起 挺好闻的  
+一支没有寺庙感的檀香，彻底改变我之前对檀香木香水的印象。前调是轻盈湿润的花香开场（很像黄瓜水的味道），到了中调皮革和带点奶甜丝滑檀香木占了主导，尾调是非常干燥檀香木，并且留香时间非常长。总之这是一款比较符合当代的年轻人审美的檀香香水，值得入手！  
 </div>
             

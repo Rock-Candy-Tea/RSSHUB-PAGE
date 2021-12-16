@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/763864e93aa1f78512448fdf34bf7eda.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/90478755490b4368a3f6862d933aefdd.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 15 Dec 2021 09:36:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/763864e93aa1f78512448fdf34bf7eda.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/90478755490b4368a3f6862d933aefdd.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>是2020年6月份在西伯利亚村庄维尔霍扬斯克测得的</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/763864e93aa1f78512448fdf34bf7eda.jpg!custom" referrerpolicy="no-referrer"><p>联合国的世界气象组织(WHO)正式确认北极有记录以来的最高温，敲响了气候变化的“警钟”。</p>
+<blockquote><p>是2020年6月份在西伯利亚村庄维尔霍扬斯克测得的</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/90478755490b4368a3f6862d933aefdd.jpg!custom" referrerpolicy="no-referrer"><p>联合国的<strong>世界气象组织(<del datetime="2021-12-15T15:09:40+00:00">WHO</del>WMO)</strong>正式确认北极有记录以来的最高温，敲响了气候变化的“警钟”。</p>
 <p>2020年6月份，西伯利亚村庄维尔霍扬斯克在一波持续较久的热浪峰值时测量到了犹如“地中海般的”38度高温。WMO在一项声明中指出，其实该地区在去年夏天的平均气温超出常值达10度之多。</p>
 <p>“这项北极的新纪录是一系列向WMO极端气象和气候档案上报的观测数据之一，敲响了气候变化的警钟，”WMO的秘书长Petteri Taalas在声明中说。</p>
 <p>WMO表示，这场极端高温“放在地中海更恰当，而不是北极”，而且这场热浪成为了“助长野火、驱使大量海冰消融”的一个关键因素，也是“2020年成为记录中最热的三个年份之一”的一个重要原因。</p>

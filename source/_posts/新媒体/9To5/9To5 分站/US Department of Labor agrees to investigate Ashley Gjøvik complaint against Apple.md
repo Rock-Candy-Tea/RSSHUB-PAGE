@@ -38,7 +38,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Ash
 <p>“Federal agencies exercise what in the context of criminal law is known as prosecutorial discretion,” said Michael Duff. “They are very careful of what cases they move forward because they have scarce resources, so they must have a strong reason to believe they can prevail.”</p>
 </blockquote>
 <p><em>Updated to reflect the fact that Dept of Labor investigations are a bigger deal than NLRB ones.</em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3F0cO1K"><img class="aligncenter wp-image-775874 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/ALOGIC-T4-Banner-750x150px-V2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
