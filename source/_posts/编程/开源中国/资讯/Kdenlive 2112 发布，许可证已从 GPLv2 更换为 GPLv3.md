@@ -14,8 +14,7 @@ thumbnail: 'https://kdenlive.org/wp-content/uploads/2021/12/post-header.png'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Kdenlive 是一种基于 MLT 框架、KDE 和 Qt 的开源非线性视频编辑器，注重灵活性和易用性。该项目最初由 Jason Wood 在 2002 年开发 ，现在则有一个小团队的开发人员共同开发。如今，它已经成为了官方 KDE 项目的一部分。</p> 
+                                                                                            <p>Kdenlive 是一种基于 MLT 框架、KDE 和 Qt 的开源非线性视频编辑器，注重灵活性和易用性。该项目最初由 Jason Wood 在 2002 年开发 ，现在则有一个小团队的开发人员共同开发。如今，它已经成为了官方 KDE 项目的一部分。</p> 
 <p><img alt="https://kdenlive.org/wp-content/uploads/2021/12/post-header.png" height="350" src="https://kdenlive.org/wp-content/uploads/2021/12/post-header.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>Kdenlive 21.12 正式发布，也是今年最后一个版本。它带来了用户期待已久的功能，如多机位编辑和 Slip 修剪模式，上述这些新功能将会极大地改善工作流程。这个版本还带有一个新的基于深度学习的跟踪算法，一个自动降噪过滤器和对多个 Project Bins 的支持。</p> 
 <p>Kdenlive 已经将用户手册切换到一个新的 Sphinx 架构，该架构提供了用户友好型的体验，同时使其更容易维护。Kdenlive 代码库的许可证已从 GPLv2 更换为 GPLv3。</p> 

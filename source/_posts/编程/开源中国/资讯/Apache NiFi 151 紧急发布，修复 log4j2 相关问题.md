@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5631'
+headimg: 'https://picsum.photos/400/300?random=2013'
 author: 开源中国
 comments: false
 date: Thu, 16 Dec 2021 07:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5631'
+thumbnail: 'https://picsum.photos/400/300?random=2013'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">Apache NiFi 是一个易于使用、功能强大而且可靠的数据处理和分发系统。它为数据流设计，支持高度可配置的指示图的数据路由、转换和系统中介逻辑。Apache NiFi 1.15.1 现已紧急发布，</span>以错误、改进和安全为重点。</p> 
+                                                                                            <p><span style="color:#333333">Apache NiFi 是一个易于使用、功能强大而且可靠的数据处理和分发系统。它为数据流设计，支持高度可配置的指示图的数据路由、转换和系统中介逻辑。Apache NiFi 1.15.1 现已紧急发布，</span>以错误、改进和安全为重点。</p> 
 <ul> 
  <li>确保确保 Apache NiFi 及其相关组件不包含“log4shell”相关库</li> 
  <li>不再使用 2.16 之前的任何 log4j 1.x 或 2.x 老产品（artifacts）</li> 

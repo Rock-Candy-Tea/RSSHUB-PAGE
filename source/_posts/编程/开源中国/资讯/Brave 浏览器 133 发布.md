@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4736'
+headimg: 'https://picsum.photos/400/300?random=8067'
 author: 开源中国
 comments: false
 date: Thu, 16 Dec 2021 07:20:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4736'
+thumbnail: 'https://picsum.photos/400/300?random=8067'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Brave 是基于 Chromium 引擎开发的免费开源网络浏览器。Brave 是一个注重隐私的浏览器，它通过在默认设置中自动阻止在线广告和网站跟踪器来将自己与其他浏览器区分开来。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Brave 是基于 Chromium 引擎开发的免费开源网络浏览器。Brave 是一个注重隐私的浏览器，它通过在默认设置中自动阻止在线广告和网站跟踪器来将自己与其他浏览器区分开来。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Brave Browser 1.33 正式发布，该版本更新内容如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>增加了签署类型数据的能力（eth_signTypedData_v3 和 eth_signTypedData_v4）</li> 

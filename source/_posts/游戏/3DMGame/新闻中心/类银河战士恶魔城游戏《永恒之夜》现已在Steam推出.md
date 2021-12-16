@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211216/1639617991_9293
 
 <div>   
 <p style="text-indent:2em;">
-类银河战士恶魔城游戏《永恒之夜（Aeterna Noctis）》<a href="https://store.steampowered.com/app/1517970/Aeterna_Noctis/" target="_blank">现已在Steam推出</a>，国区售价209元，支持中文，当前获得玩家“褒贬不一”评价。
+类银河战士恶魔城游戏《永恒之夜（Aeterna Noctis）》<a href="https://store.steampowered.com/app/1517970/Aeterna_Noctis/" target="_blank">现已在Steam推出</a>，国区售价90元，支持中文，当前获得玩家“褒贬不一”评价。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211216/1639617991_929318.jpg" alt="类银河战士恶魔城游戏《永恒之夜》现已在Steam推出" referrerpolicy="no-referrer"> 

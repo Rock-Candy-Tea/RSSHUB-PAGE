@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2309'
+headimg: 'https://picsum.photos/400/300?random=4110'
 author: 开源中国
 comments: false
 date: Thu, 16 Dec 2021 07:49:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2309'
+thumbnail: 'https://picsum.photos/400/300?random=4110'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Kaisen 是一套面向专业 IT人员的 Linux 发行版，包含面向系统管理的一整套工具，可用于诊断和处理已安装系统及组件的故障。经过 4 个月的紧张工作， Kaisen Linux 的 2.0 版本正式发布，Kaisen 2.0 基于 Debian Bookworm 测试分支 (Debian 12)，版本代号“滚动”（Rolling）。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Kaisen 是一套面向专业 IT人员的 Linux 发行版，包含面向系统管理的一整套工具，可用于诊断和处理已安装系统及组件的故障。经过 4 个月的紧张工作， Kaisen Linux 的 2.0 版本正式发布，Kaisen 2.0 基于 Debian Bookworm 测试分支 (Debian 12)，版本代号“滚动”（Rolling）。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">新版本包含大量用户体验改进和问题修复，比如</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>用更现代的图标对菜单进行了全面改革、</li> 

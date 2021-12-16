@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4065'
+headimg: 'https://picsum.photos/400/300?random=3775'
 author: 开源中国
 comments: false
 date: Thu, 16 Dec 2021 08:14:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4065'
+thumbnail: 'https://picsum.photos/400/300?random=3775'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Python 3.11.0a3，即 Python 3.11 第三个 alpha 版本目前<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fpythoninsider.blogspot.com%2F2021%2F12%2Fpython-3110a3-is-available.html" target="_blank">已发布</a>。</p> 
+                                                                                            <p>Python 3.11.0a3，即 Python 3.11 第三个 alpha 版本目前<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fpythoninsider.blogspot.com%2F2021%2F12%2Fpython-3110a3-is-available.html" target="_blank">已发布</a>。</p> 
 <p><span style="background-color:#ffffff; color:#333333">在 alpha 阶段，每个版本可能都会添加功能，直到进入 beta 阶段 (2022-05-06)。如有必要，也可以修改或删除特性，直到进入候选阶段 (2022-08-01)。请记住，这是一个预览版本，不建议在生产环境中使用。</span></p> 
 <p><strong>Python 3.11.0 主要变化</strong></p> 
 <ul style="margin-left:0; margin-right:0"> 

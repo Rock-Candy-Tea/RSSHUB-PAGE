@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=266'
+headimg: 'https://picsum.photos/400/300?random=9577'
 author: 开源中国
 comments: false
 date: Thu, 16 Dec 2021 07:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=266'
+thumbnail: 'https://picsum.photos/400/300?random=9577'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Pale Moon 29.4.3 现已发布，这是一个带有一些额外功能的安全更新；此更新再次恢复 FUEL 以实现旧扩展兼容性。PaleMoon 是一款基于 Firefox 浏览器优化而成的浏览器，它主要是为了提升 Firefox 的速度而设计，其中也添加了多种 Firefox 扩展，以使其更美观，功能更多。</p> 
+                                                                                            <p>Pale Moon 29.4.3 现已发布，这是一个带有一些额外功能的安全更新；此更新再次恢复 FUEL 以实现旧扩展兼容性。PaleMoon 是一款基于 Firefox 浏览器优化而成的浏览器，它主要是为了提升 Firefox 的速度而设计，其中也添加了多种 Firefox 扩展，以使其更美观，功能更多。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">此版本更新内容如下：</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>更改/修复</strong><span style="background-color:#ffffff; color:#333333"> </span></p> 
 <ul> 
@@ -27,7 +26,7 @@ thumbnail: 'https://picsum.photos/400/300?random=266'
 </ul> 
 <p><strong>Implementation notes<span style="background-color:#f9f9f9">：</span></strong></p> 
 <ul> 
- <li>尽管在 29.4.0 和 29.4.2 中被删除，但在社区的巨大反响和缺乏修复受影响扩展的努力后，Pale Moon 中长期被弃用的 FUEL abstraction functions 已经再次恢复。最后决定无限期地恢复它，因为它不会让用户被迫放弃或停留在不安全的浏览器版本上，这对任何人都没有好处，因为在扩展生态系统中似乎没有人想解决这个问题。关于与本说明相关的方向变化的更深入的公告可以<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fforum.palemoon.org%2Fviewtopic.php%3Ff%3D5%26t%3D27682" target="_blank">在论坛</a>上找到。</li> 
+ <li>尽管在 29.4.0 和 29.4.2 中被删除，但在社区的巨大反响和缺乏修复受影响扩展的努力后，Pale Moon 中长期被弃用的 FUEL abstraction functions 已经再次恢复。关于与本说明相关的方向变化的更深入的公告可以<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fforum.palemoon.org%2Fviewtopic.php%3Ff%3D5%26t%3D27682" target="_blank">在论坛</a>上找到。</li> 
 </ul> 
 <p> 更新说明：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.palemoon.org%2Freleasenotes.shtml" target="_blank">https://www.palemoon.org/releasenotes.shtml</a></p>
                                         </div>
