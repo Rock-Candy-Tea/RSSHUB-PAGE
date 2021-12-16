@@ -8,7 +8,7 @@ categories:
 headimg: 'https://kdenlive.org/wp-content/uploads/2021/12/post-header.png'
 author: 开源中国
 comments: false
-date: Wed, 15 Dec 2021 23:34:00 GMT
+date: Thu, 16 Dec 2021 07:34:00 GMT
 thumbnail: 'https://kdenlive.org/wp-content/uploads/2021/12/post-header.png'
 ---
 
