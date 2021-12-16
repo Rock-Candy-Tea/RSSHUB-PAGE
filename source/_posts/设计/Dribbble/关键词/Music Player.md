@@ -5,16 +5,16 @@ categories:
  - 设计
  - Dribbble
  - 关键词
-headimg: 'https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=400x300'
+headimg: 'https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=400x300'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=400x300'
+thumbnail: 'https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=400x300'
 ---
 
 <div>   
 <div class="media-content">
-      <img class="lrg-16x12" alt="Music Player creative musicplayer 009 uiux design dailyui" width="768" height="579" data-id="12130091" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/9820375/screenshots/17044928/media/e874fe7bbeb12460d909389c5f39abd7.jpg?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
+      <img class="lrg-16x12" alt="Music Player music music player ux app figma ui design" width="768" height="579" data-id="12154708" data-optimize-for-bots="true" skip_resize="false" srcset="https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=300x225 300w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=400x300 400w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=600x450 600w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=800x600 800w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=1000x750 1000w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=1200x900 1200w, https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=1600x1200 1600w" src="https://cdn.dribbble.com/users/8644386/screenshots/17066479/media/1f0befde5b4614c2a0967f2771e83df3.png?compress=1&resize=400x300" sizes="(max-width: 919px) 100vw, (min-width: 920px) and (max-width: 1200px) 74vw, 1172px" rel="preload" as="image" referrerpolicy="no-referrer">
   </div>
 <br>
                         <br>
