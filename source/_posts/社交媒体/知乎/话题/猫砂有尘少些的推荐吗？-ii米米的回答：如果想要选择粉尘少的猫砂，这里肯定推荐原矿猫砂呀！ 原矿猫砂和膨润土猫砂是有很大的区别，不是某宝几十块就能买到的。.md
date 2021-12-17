@@ -1,0 +1,18 @@
+
+---
+title: '猫砂有尘少些的推荐吗？-ii米米的回答：如果想要选择粉尘少的猫砂，这里肯定推荐原矿猫砂呀！ 原矿猫砂和膨润土猫砂是有很大的区别，不是某宝几十块就能买到的。...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-9e0baefc971541d2c53c6cd52af433da_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 17 Dec 2021 07:49:36 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-9e0baefc971541d2c53c6cd52af433da_1440w.jpg'
+---
+
+<div>   
+<strong>猫砂有尘少些的推荐吗？</strong><br>ii米米的回答<br><p data-pid="c_HqsW-C">如果想要选择粉尘少的猫砂，这里肯定推荐原矿猫砂呀！</p><p data-pid="Qql2XZnu">原矿猫砂和膨润土猫砂是有很大的区别，不是某宝几十块就能买到的。虽然价格稍微贵了一点，但是一分钱一分货嘛！而且粉尘多给自家主子用了对健康也不好，隐患多不说，对于泌尿系统和呼吸道的影响都是直接的。去一趟医院的花费，可不是十几块、几百就能解决的，主要是主子也遭罪，不能因小失大呀！<br>所以，我这边推荐的原矿猫砂是零粉尘，看看这个包装就不一样~<br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9e0baefc971541d2c53c6cd52af433da_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="800" data-default-watermark-src="https://pic3.zhimg.com/v2-1ce509ce713847e1116ed1a6f35228da_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9e0baefc971541d2c53c6cd52af433da_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="jb0zehOK"><br>其实，我也是无意被安利的，最开始在小红书被安利了，但是一直不知道在哪里可以购买，emm......为了买到它真的是......不仅看了某宝某东大平台，都找瞎了好吧，最后在阿里巴巴国内站无意看到就果断入手了三包无尘银矿砂。<br>当时购买的时候还有活动，买<a href="https://link.zhihu.com/?target=https%3A//www.aimilichongwu.com/products/wuchenyinkuangmaosha" class=" wrap external" target="_blank" rel="nofollow noreferrer">银矿砂</a>送罐头，哈哈哈~~<br>目前我用了快一个月了，从灰尘、吸水、结团、除臭各个维度，说说我入手后的感受吧！<br>粉尘方面，真的跟宣传的一样，几乎做到零粉尘。其实我最开始也没有概念，0.28%灰尘率是多少，只是看视频真的感觉超级棒的样子。但是我自己亲身用过之后，我觉得是一点都没有粉尘呢，特别是我倒砂的时候，一点都没有扬尘，说实话那一刻我就被完全安利了，一点不扬尘的猫砂，实至名归银矿砂！</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f222eeef06827303233912bdf7b79091_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="800" data-default-watermark-src="https://pic4.zhimg.com/v2-e735d1c35373995e4f5f6d96222261c3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f222eeef06827303233912bdf7b79091_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="iFEQ7hdT"><br>吸水方面，我真的观察了下，我家胖猫尿了出来立马就结团了，而且真的神之结团速度，为什么我比较关心吸水速度呢，主要是之前胖猫之前用过一款猫砂（一百多大洋呢），效果差得我骂街了，如果你不想你家猫脚脚都是粘毛的猫砂，建议你也选吸水快的<a href="https://link.zhihu.com/?target=http%3A//www.emilypets.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">猫砂</a>，这款猫砂我就推荐你购买，不要问我为什么知道，我真的很无聊去试过了，emm......可能我最近比较无聊？<br></p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1455198091670945792" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pic2.zhimg.com/v2-8c99be014ebccb0fd93bb626ca3eed73.jpeg" data-lens-id="1455198091670945792"><img class="thumbnail" src="https://pic2.zhimg.com/v2-8c99be014ebccb0fd93bb626ca3eed73.jpeg" referrerpolicy="no-referrer"><span class="content"><span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1455198091670945792</span></span></span></span></span></a><p data-pid="f9nY7rh-"><br>结团方面，真的我要好好安利下，惊讶了我，说实话用过好多大牌<a href="https://link.zhihu.com/?target=https%3A//www.aimilichongwu.com/%3Fs%3D%25E6%2597%25A0%25E5%25B0%2598%25E7%258C%25AB%25E7%25A0%2582" class=" wrap external" target="_blank" rel="nofollow noreferrer">猫砂</a>，几百几十我都踩过坑，lovesand这款猫砂，结团好的一批，怎么给你表达呢，就是猫一出来，你立马去铲就已经结团了，而且是结团特别好的那种，完全不会黏铲更不会散团了。<br>除臭方面，先说下我不太爱买有香型的猫砂，特别是膨润土猫砂，我真的不建议选择有香味的，因为对猫猫不友好，虽然有香味可以掩臭呢，反正我是不会这样去迫害我家猫的。银矿砂这块就打到我心里了，这款无香型的除臭效果简直不要太好，甩了有香味的<a href="https://link.zhihu.com/?target=http%3A//www.emilypets.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">猫砂</a>几条街好吧！<br>当然，最最最主要是我家胖子猫挺喜欢的。</p>  
+</div>
+            

@@ -1,0 +1,18 @@
+
+---
+title: '《最终幻想7：重制版Intergrade》PC版表现测试：非常流畅！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2021/12/17/7cada18057ae4c62889c8edf843b05a61639719730.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 17 Dec 2021 16:09:50 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2021/12/17/7cada18057ae4c62889c8edf843b05a61639719730.jpg'
+---
+
+<div>   
+<p>外媒wccftech于近日公布了《最终幻想7：重制版Intergrade》PC版的表现测试，wccftech在评测中写到：“玩《最终幻想7重制版》PC版时，平均帧率达到了120帧，感觉非常流畅。</p><p><img class="lazy" data-height="777" src="https://i1.max-c.com/imgx/2021/12/17/7cada18057ae4c62889c8edf843b05a61639719730.jpg" data-width="1480" referrerpolicy="no-referrer"></p><h3>《最终幻想7：重制版Intergrade》测试视频：</h3><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=722475151&bvid=BV1KD4y1c7vS&cid=462742823&page=1" width="480"></iframe></p><p>但该作PC版的可让玩家进行的图形设置非常有限：没有专属的全屏模式；你只能在纹理分辨率和阴影分辨率之间选择高和低的选项。</p><p>当然，如果玩家有相应的硬件，你可以在更高的帧率下游玩。根据测试，拥有顶配PC的用户可以用锁定的4K120帧进行游戏”。</p><p>《最终幻想7：重制版Intergrade》已于12月16日在Epic平台上线。本作为 1997 年上市的《最终幻想7》之重制版。以原作直到逃离米德加的剧情为基础，再加入全新原创内容，是预计推出多部系列作的首部作品。</p><h3>视频截图：</h3><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/6c1f869efba54be59bd4d776ec6435f21639719730.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/c7ff92988b0f4b6c816bf951f48109c71639719731.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/5adea6894b7f43acb0e2c0804c431fe31639719731.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/5967d61f24ca462cb69767a7d28e83a51639719732.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/41c37baa21384a498ebe57431ea4b8301639719733.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/79236a63ea1942e0ae1666d736422b071639719733.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/41bded73051049d58c73f28c5c1684f41639719734.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/d275c70b0d8e421bbfe923ccc29b81571639719734.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/2567c22d653f4f75810888a0038fdc411639719735.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/f4adbf392bc14d8bb7d36b4f970f1ac21639719735.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/52a15d33a93746e996e91a1704a59b301639719736.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2021/12/17/057ae908e1744b74a7a88bd065afc46f1639719736.jpg" data-width="1280" referrerpolicy="no-referrer"></p><blockquote><p>来源：游侠网</p></blockquote>  
+</div>
+            
