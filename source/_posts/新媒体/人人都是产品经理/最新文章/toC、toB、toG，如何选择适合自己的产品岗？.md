@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://image.yunyingpai.com/wp/2021/12/xzMdB2uypnB6VDDH9aEd.png'
+headimg: 'https://image.yunyingpai.com/wp/2021/12/p8iWWggw4tPqM4WmHEhA.png'
 author: 人人都是产品经理
 comments: false
 date: Fri, 17 Dec 2021 00:00:00 GMT
-thumbnail: 'https://image.yunyingpai.com/wp/2021/12/xzMdB2uypnB6VDDH9aEd.png'
+thumbnail: 'https://image.yunyingpai.com/wp/2021/12/p8iWWggw4tPqM4WmHEhA.png'
 ---
 
 <div>   
@@ -22,7 +22,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/12/xzMdB2uypnB6VDDH9aEd.png'
 <li>按行业分有电商、教育、社交、社区、医疗、金融等</li>
 <li>按职责细分有app产品、数据产品、策略产品、商业产品、中后台产品等</li>
 </ul>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/12/xzMdB2uypnB6VDDH9aEd.png" alt width="711" height="395" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/12/p8iWWggw4tPqM4WmHEhA.png" alt referrerpolicy="no-referrer"></p>
 <p><strong>对于刚入行产品的人而言——</strong></p>
 <blockquote>
 <p>在一个具体的岗位上，要保持自己的行业敏感性，也要提升自己的领域专业性。</p>
@@ -33,8 +33,8 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/12/xzMdB2uypnB6VDDH9aEd.png'
 <p>有方向性的主动提升自己，提高自己能力的不可替代性，是入行产品决定职业发展方向的一个重要方法。</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/12/y0flpYeiMso6bjc4yrxq.png" alt width="280" height="247" referrerpolicy="no-referrer"></p>
 <p>领域知识通过项目积累，可以沉淀成为专业能力（或专业技能）。</p>
-<p>这有点熟能生巧的意思，做得久了就摸到很多套路和门道。</p>
 <p><strong>不同类型产品经理的底层能力，是可以迁移的能力，可以通过项目积累或者刻意练习形成，形成以后，可以应用到新的领域、新的专业上。</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/12/pevItajo737J5iE0CGxb.png" alt referrerpolicy="no-referrer"></p>
 <p>当然要理解这个底层能力的重要性，大家不妨换位思考一下：<strong>假设有一天你不做B端或C端产品经理，去做一个公司指派你去做的新项目/新产品，你会如何做？</strong></p>
 <p>针对以上问题，我们特邀拥有10年产品和团队管理经验，去哪儿网产品总监@吴亮老师，在12月18日（周六）下午15:30点，为大家揭开谜团！</p>
 <p style="text-align: center">限时秒杀0.01</p>
