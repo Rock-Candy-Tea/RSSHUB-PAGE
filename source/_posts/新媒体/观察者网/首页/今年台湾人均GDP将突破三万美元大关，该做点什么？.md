@@ -8,7 +8,7 @@ categories:
 headimg: 'https://i.guancha.cn/bbs/2021/12/17/20211217082046656.png?imageView2/2/w/500/format/png'
 author: 观察者网
 comments: false
-date: Thu, 16 Dec 2021 16:06:38 GMT
+date: Thu, 16 Dec 2021 16:12:39 GMT
 thumbnail: 'https://i.guancha.cn/bbs/2021/12/17/20211217082046656.png?imageView2/2/w/500/format/png'
 ---
 
