@@ -1,0 +1,18 @@
+
+---
+title: '关于冬季特卖E宝抢先杀疯这件事！等等党大获全胜！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/17/4cf3992d861292b3590f2421348d4fd6/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 17 Dec 2021 20:25:15 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/17/4cf3992d861292b3590f2421348d4fd6/thumb.jpeg'
+---
+
+<div>   
+<p>16日悄悄离去，17日现已来临，身为白嫖党以及等等党的好大哥EPIC在小黑盒之后各大游戏商店之前率先开启冬季特卖，以及继去年的每日一嫖，连续15日送出各种游戏大作，满足你对E宝的任何幻想！</p><p><img class="lazy" data-height="972" src="https://imgheybox.max-c.com/bbs/2021/12/17/4cf3992d861292b3590f2421348d4fd6/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p><p>相比同去年送游戏这件事，还有一件等等党的福利也延续了去年的传统，那就是E宝的无线十刀券，只要你的游戏价格高于90(包括90)，你就可以在下订单时自动使用这十刀券(人民币65r)，这也就相当于90r的游戏，实际下单价格最低也在25r，另外这十刀券是无线使用，一个游戏对应一个券，多款游戏在购物车时依然可以叠加。</p><p><img class="lazy" data-height="445" src="https://imgheybox.max-c.com/bbs/2021/12/17/01664ae71a8eab79b893f11d99503ac8/thumb.jpeg" data-width="770" referrerpolicy="no-referrer"></p><p>对于这次的冬季特卖，。E宝不但会继承去年的传统，也会对各种各样的游戏进行折扣降价，本次特卖会有1000个游戏会进行打折出售，但相比隔壁的steam，降价力度有高有低，这属实很E宝，毕竟送出了十刀券，相当于第二次降价，所以等等党们赶快出发啦！</p><p><img class="lazy" data-height="948" src="https://imgheybox.max-c.com/bbs/2021/12/17/32dd960010b916fb49b15977838cb656/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>好了扯了这么多，我们来看一看在这次剁手节，到底有哪些游戏最值得入手，以下游戏是鄙人在顾全大局所精心挑选的几款大作，而且是新史低，能够让预购的选手血压飙升的几款3a大作，我们来一起看一下叭:</p><p>1，大表哥2(荒野大嫖客2)</p><p><img class="lazy" data-height="1648" src="https://imgheybox.max-c.com/bbs/2021/12/17/06b2a35f8bac05bc1878653a1ad7a8cf/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>原价:228元</p><p>折扣价:114元(5折)</p><p>大表哥2是R星继GTA5后出的一款以中世纪时间段，牛仔风格的开放型沙盒类3A单机大作，是各类沙盒玩家的喜爱，这次打折是完全属于骨折价，喜欢的朋友千万不能错过！</p><p>2，死亡搁浅</p><p><img class="lazy" data-height="1510" src="https://imgheybox.max-c.com/bbs/2021/12/17/67eb187c2afa74a8523b1193138d317c/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>原价:299元</p><p>折扣价:104.65元(35折)</p><p>3，战地2042</p><p><img class="lazy" data-height="1659" src="https://imgheybox.max-c.com/bbs/2021/12/17/567fb26f13261cc1cbf2b1f0448497e2/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>原价:248</p><p>折扣价:163.68(66折)</p><p>战地2042是继战地一和战地五的第三款在线大型多人射击网络游戏，在刚开始的啊A, B测试中，虽然有很多不尽人意的地方，但EA会相继做出完善的更新，作为一款刚上线就打史低折的游戏，你看了难道不心动吗？</p><p>4，无主之地3 焯级豪华版</p><p><img class="lazy" data-height="1511" src="https://imgheybox.max-c.com/bbs/2021/12/17/62259bb35c4119a8818d057bfea13c62/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>原价:225元</p><p>折扣价:90元(4折)</p><p>5，永劫无间</p><p><img class="lazy" data-height="1657" src="https://imgheybox.max-c.com/bbs/2021/12/17/09928e651c0d1df67332ca0d4b0577d9/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>原价:98元</p><p>折扣价:93.10元(98折)</p><p><br></p><p>话说回来了，这些游戏均是价格高于90以上的游戏，那么十刀券用在他们的身上，这样一波下来，我们要花多少RMB才能把他们带回家呢？</p><p><img class="lazy" data-height="5602" src="https://imgheybox.max-c.com/bbs/2021/12/17/2e137c4bf61bbae50d072b8a42ba3f15/thumb.jpeg" data-width="1078" referrerpolicy="no-referrer"></p><p>事实上我们可以发现，五款游戏的原价总和是1098RMB，排除折扣价(-532.57r)，再排除十刀券(-325r)，这样下来只有240.43r，这五款游戏即可带回家！这波不仅等等党狂喜，更是给史低玩家和预购玩家一波狠狠的背刺！<a href="https://www.epicgames.com/store/zh-CN/" target="_blank">官网购买链接</a></p><p>白嫖党也不要着急，15日白嫖活动现已开启，点击<a href="https://www.epicgames.com/store/zh-CN/" target="_blank">EPIC官网</a>进行购买和领取，目前来看，e宝送出的第一款游戏是《莎木3》，而距离18日的神秘游戏开启只剩下不到6个小时，封面的配色更接近上次爆料的《霓虹深渊》，让我们满怀期待的等待明天的钟声敲响！</p><p>大家在高兴的同时不要忘了活动的时间:12月17日—1月7日</p><p>而我们的老大哥steam也会在12月23日开启冬季特卖，1月28日开启春节特卖，大家不要忘记咯！</p><p>我是mc，欢迎大家关注点赞评论！么么叽～╭(╯ε╰)╮<a href="heybox://open_subject" target="_blank">#epic特卖游戏推荐#</a>   <a href="heybox://open_subject" target="_blank">#epic#</a>  <a href="heybox://open_subject" target="_blank">#游戏推荐#</a> <br></p>  
+</div>
+            

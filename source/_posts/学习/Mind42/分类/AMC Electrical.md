@@ -1,0 +1,19 @@
+
+---
+title: 'AMC Electrical'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=ca3f24fc-78d3-4545-8eb9-0542b8c3af01&size=gallery'
+author: Mind42
+comments: false
+date: 2021-12-17 13:15:43
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=ca3f24fc-78d3-4545-8eb9-0542b8c3af01&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=ca3f24fc-78d3-4545-8eb9-0542b8c3af01&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
