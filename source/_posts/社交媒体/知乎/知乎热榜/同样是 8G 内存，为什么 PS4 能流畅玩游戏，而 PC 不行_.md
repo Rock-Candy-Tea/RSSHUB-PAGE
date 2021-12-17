@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7408'
+headimg: 'https://picsum.photos/400/300?random=848'
 author: 知乎
 comments: false
-date: Fri, 17 Dec 2021 08:59:07 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7408'
+date: Fri, 17 Dec 2021 10:04:21 GMT
+thumbnail: 'https://picsum.photos/400/300?random=848'
 ---
 
 <div>   
-mikiya的回答<br><br><p data-pid="sKaTF4-l">2021年了还有人再说“优化”，“针对性开发”。</p><p data-pid="DTF_pLu5">如果在xboxOG世代和xbox360世代，这么说可能还有点意义。因为ps2和ps3架构都很独特（故意折腾开发者），所以很考验开发能力，需要开发者挖掘。开发水平差距确实能直接决定性能的使用率。</p><p data-pid="mKKU-Eys">但是从xbox one世代开始，全部转用x86 CPU + GPU架构，根本不存在挖掘机能一说了。架构的统一已经让开发门槛很低很低了，这还要挖掘的话要么就是全人类程序员水平同时退化，要么就是全世界x86 CPU + GPU的组合被智子操控导致性能超越物理。2014年到2020年画面的进步，有没有可能并不是机能挖掘的更加透彻，只是单纯的画面技术进步呢？</p><p data-pid="alxnPH09">游戏机同配置pc运行游戏，效果强于pc，这种情况全部得益于游戏机的系统。跟开发者一点关系都没有。开发者没资格没权限改变游戏机系统资源调度。</p><p data-pid="gfQNlywN">游戏机系统在运行游戏这件事上极其高效。</p><p data-pid="vC_UvAyl">以ns为例，总共4GBRAM，但是其中3.2G划死给游戏，剩下的给系统进程和系统应用。哪怕马里奥兄弟DX这种只有2G的游戏，也会把3.2GBRAM全部占用。</p><p data-pid="y78tfR6y">安卓玩游戏如果想让游戏跑到3.2G内存，可以自己想一下总共RAM要拉到多少。</p><p data-pid="VhAxF-fk">xbox one和ps4也都是这样，8G的RAM，4.5G到5.5G都给游戏。1080p游戏显存撑死了峰值用到2G，也就是说游戏程序最低能用到2.5GRAM，你用8GRAM的电脑开个64位游戏可以观察一下游戏进程能不能达到2.5G。</p><p data-pid="vu4pibaD">另外数据传输过程中，游戏机系统会只调用一小部分核心进行数据传输，其他核心确保游戏流畅度。但是pc玩游戏一需要数据传输，所有cpu全部参与工作，占用率瞬间100%，导致游戏卡顿。前者传输速度肯定会慢于后者，但可以一直预加载。后者如果一直预加载，cpu占用率都成窦性心律了</p><p data-pid="E5Vvb3CQ">游戏机系统下硬盘也不会进行任何与游戏进程不相关的读写操作。</p><p data-pid="2JmUA9BB">这都是游戏机系统和开发套件的功劳，跟开发者没关系。</p><p data-pid="gVul2ecu">如果在pc上装一个游戏机特制系统，游戏机和同配置pc的运行效果完全一模一样，甚至因为散热更好表现更好</p>  
+伊东美绪的回答<br><br><p data-pid="k03zUt6A">PS4/Pro的内存安全区是5/5.5G。</p><p data-pid="qDaLD7BN">游戏使用核心安全区是6-7，6个核心是一定会给游戏的，第七个可能会给游戏。</p><p data-pid="hYzDq_dw">这一部分的资源是系统和其他应用不会去用的，当然，在性能和运行空间上是有保证的。</p><p data-pid="pdranTTn">至于你说很流畅？</p><p data-pid="FGf-4q3o">那你也得有块好硬盘，真的硬盘用久了也是很不流畅的，毕竟PS4/X1用的HDD，算上游戏需求和基本系统需求，硬盘实际上已经在走钢丝了，使用机械盘就算盘片比较新，回到主界面很有可能还得读个2-3秒，这不卡吗？你很少干loding的时候回桌面这事而已。</p><p data-pid="x1qU_VMF">你Windows也不至于说卡到正常情况下从游戏回桌面还得这么久的吧。</p><p data-pid="6YP8N33E">HDD时间长了也会性能衰竭，实际表现会更差，已经有几个朋友的PS4上的HDD性能很不行了，体感能感觉到的那种。</p><p data-pid="qHzTvZQ0">我自己也有块机械盘直接能卡到读取CG的时候肉眼可见的一顿顿，那是真的卡的无法使用，所以只能用来存数据了。</p>  
 </div>
             
