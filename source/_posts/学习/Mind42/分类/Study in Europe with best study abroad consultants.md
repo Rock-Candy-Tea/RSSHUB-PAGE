@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f8694272-8c4b-42f3-8cd1-6c6ff7973cc2&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1cbafda0-047c-400b-b756-3cf45c3e3e74&size=gallery'
 author: Mind42
 comments: false
-date: 2021-12-18 04:10:51
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f8694272-8c4b-42f3-8cd1-6c6ff7973cc2&size=gallery'
+date: 2021-12-18 05:09:07
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1cbafda0-047c-400b-b756-3cf45c3e3e74&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=f8694272-8c4b-42f3-8cd1-6c6ff7973cc2&size=gallery" referrerpolicy="no-referrer"><p>
-                    The nation is full of wonders. These days making your career outside your home is a bit difficult but stepping out of your comfort will lead to great success as we all know the fact that change will boost up your true learning. So many students approach us for getting the right direction as we are the best Study in Italy consultants in Gujarat. Italy is the home of the world’s greatest works of architecture, art and many more. It inspires students to enhance their knowledge along with education. It is the best place for international studies and scholars to come here to acquire international degrees. It has several excellent courses leading to several fields.                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=1cbafda0-047c-400b-b756-3cf45c3e3e74&size=gallery" referrerpolicy="no-referrer"><p>
+                    It is well said that education is kind of a passport to the future and for tomorrow but it belongs to those who work on it today. But the foremost thing to keep in mind is to stay enthusiastic, energetic, desirable and stable towards your goals. You have to develop a passion in yourself for being a knowledgeable personality. To reach the aims of your life, one has to make a detailed plan to remain focussed and passionate. To boost up your personality one has to understand that knowledge is the power that leads to success. Italy is a place where scholars can turn their careers into a successful one. But the student is required to commence his or her career with the clarity of profession and the perfect destination to study. Also, there are plenty of top institutions and universities with an impressive global environment.                </p>  
 </div>
             
