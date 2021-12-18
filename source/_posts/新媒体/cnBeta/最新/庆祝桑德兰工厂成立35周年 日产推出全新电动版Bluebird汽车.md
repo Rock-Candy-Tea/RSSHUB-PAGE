@@ -1,0 +1,19 @@
+
+---
+title: '庆祝桑德兰工厂成立35周年 日产推出全新电动版Bluebird汽车'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1218/63a9aaa533e6562.webp'
+author: cnBeta
+comments: false
+date: Sat, 18 Dec 2021 01:40:57 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1218/63a9aaa533e6562.webp'
+---
+
+<div>   
+<strong>为庆祝日产（Nissan）在英国桑德兰（Sunderland）工厂成立 35 周年，该工厂推出了 T12 Nissan Bluebird 纪念旅行车。</strong>该车基于日产 Leaf 的全电动动力系统。日产英国公司亲切地称其为“Newbird”，这款复古的改装车带来了对更简单时代的回忆。<br>
+ <p><iframe src="//player.bilibili.com/player.html?bvid=BV1uD4y1c7WH&page=1" width="750" height="480" frameborder="0"></iframe></p><p style="text-align: left;">桑德兰工厂的制造副总裁 Alan Johnson 说：“Newbird代表了我们工厂的所有优点，我们出色的团队现在正引领着我们走向激动人心的电气化、碳中性的未来”。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/63a9aaa533e6562.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">日产 Bluebird 是 1986 年在桑德兰装配厂下线的第一辆汽车。根据日产公司的宣传册，Bluebird 是“在欧洲设计的新一代汽车中的第一款，在世界最先进的生产设施中在英国制造”。它配备了 1.6 升、2.0 升或 1.8 升涡轮增压四缸汽油发动机，有三种车身风格：轿车、掀背式和旅行车或货车。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/d170c6bd0e75855.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/9c8d47ceba689e5.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">当然，将汽油车改装成电动车的过程并不简单。日产向位于达勒姆的电动车改装专家 Kinghorn 电动车公司寻求帮助，利用二次使用的电机、电池和逆变器创造了 Newbird。Kinghorn 摆脱了油腻的部分（内燃机、变速箱等），为Leaf电动马达和逆变器腾出空间。此外，该车有一个40千瓦时的电池组，分布在发动机舱和后备箱，以优化重量分布。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/34538d6f4661758.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/2074cee07bc2041.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/e2133c54ba14d92.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Newbird 还更新了动力转向系统、制动系统和加热系统，以便在电力上运行。它还得到了一个新的悬架，以应对电池组的额外重量。Kinghorn 电动汽车公司的 George Kinghorn 补充说：“鉴于我们的位置离桑德兰工厂如此之近（15英里），参与这个 Bluebird 的改装工作是一个伟大的项目”。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/593552dd7390f83.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/173bb6b0e551983.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/a84287fffbcc7b1.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/174248b739e85e7.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">就像 2022 年日产 Leaf S 配备的 40 千瓦时电池组一样，Newbird 在一次充满电的情况下实现了130英里的行驶里程。它从 0 到 60 英里/小时的时间不到15秒。它绝不是最快的电动汽车改装车，但 Newbird 并不是为了追求极快的加速度。Kinghorn补充说：“将旧车改装成电动车，可以让你每天使用这些标志性的复古车型”。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/e9fe79885dde4a2.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/ac55cf010ed10a1.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/76345cebe01364a.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1218/5e80b7651fac803.webp" referrerpolicy="no-referrer"></p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2021/1218/9db081166e20ff1.webp" referrerpolicy="no-referrer"></p>   
+</div>
+            

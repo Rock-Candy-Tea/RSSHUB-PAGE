@@ -20,7 +20,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20210723/s_6e1b0eaca6ba46da8eb389b569
 <p>核心性能上，<strong>Steam Deck搭载AMD Zen2 CPU、RDNA2 GPU的架构组合，</strong>芯片纸面性能大致等价锐龙3 Pro 4450U+MX450，可流畅运行最新的3A大作。</p>
 <p>内存为16GB LPDDR5-5500，存储可以选择64GB eMMC(PCIe 2.0 x1)、256/512GB NVMe SSD(PCIe 3.0 x4)，支持高速microSD扩展卡，还有蓝牙5.0、双频802.11ac 2x2 MIMO。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211218/8a242775ad24430dbc2f80b4a75f5bb8.png" target="_blank"><img alt="Switch劲敌！V社确认：Steam Deck掌机2022年2月发货" h="348" src="https://img1.mydrivers.com/img/20211218/s_8a242775ad24430dbc2f80b4a75f5bb8.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-<p>机身配有ABXY四个按钮、狮子方向键、LR模拟摇杆、两个32.5mm触控板，内置6轴陀螺仪，内置40Whr电池，支持45W快充。</p>
+<p>机身配有ABXY四个按钮、十字方向键、LR模拟摇杆、两个32.5mm触控板，内置6轴陀螺仪，内置40Whr电池，支持45W快充。</p>
 <p>值得一提的是，今年8月，V社官方发布 Steam Deck中字介绍宣传片，<strong>号称“世界最强手持游戏设备。”</strong></p>
 <p>视频中还有Steam Deck运行《星球大战绝地：陨落的武士团》《毁灭战士：永恒》《幽灵行者》《杀戮尖塔》《死亡搁浅》等游戏画面。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20211218/cb4f66305897457aaa7ed471624c6c8e.png" target="_blank"><img alt="Switch劲敌！V社确认：Steam Deck掌机2022年2月发货" h="322" src="https://img1.mydrivers.com/img/20211218/s_cb4f66305897457aaa7ed471624c6c8e.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
