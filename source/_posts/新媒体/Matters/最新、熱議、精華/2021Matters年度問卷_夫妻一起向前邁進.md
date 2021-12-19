@@ -1,0 +1,18 @@
+
+---
+title: '2021Matters年度問卷_夫妻一起向前邁進'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/3e64abc4-24d8-47ac-8bcc-418886bac90f.jpeg'
+author: Matters
+comments: false
+date: Sat, 18 Dec 2021 16:33:18 GMT
+thumbnail: 'https://assets.matters.news/embed/3e64abc4-24d8-47ac-8bcc-418886bac90f.jpeg'
+---
+
+<div>   
+<blockquote>這是我第一次參加馬特市的問卷，覺得這是一件非常有意義的事，也能認真回顧及面對未來，我想也許在人生的歷程上有這麼一段，想必是與有榮焉的存在。</blockquote><blockquote><strong>1.寫下一件今年發生的，你想永久紀錄下來的事情。</strong></blockquote><blockquote>在馬特市上的書寫對我而言，就是最想紀錄下來的事，今年還有子彈筆記跟原子習慣的應用和執行也是對我影響頗大的一部分。</blockquote><blockquote>一直以來都是很容易放棄和逃避，但來到這裡我開始學習堅持，雖然在這裡的時間還不夠久，卻已經堅持5個月了，對我絕非易事，這種轉變讓我感到很開心。</blockquote><blockquote><strong>2.整整兩年過去了，疫情仍在繼續。相比起兩年前，疫情如何改變了你的生活？你認為還能恢復原狀嗎？</strong></blockquote><blockquote>疫情對我的工作影響層面較多，因為從事的工作屬於醫療業，在疫情的過程看見人性善惡的考驗，也看到彼此相助的愛心。個人的影響反而較小，因為本來就不喜愛社交，對我來說，疫情是可以好好躲在家裡不出門的最好藉口。</blockquote><blockquote>疫情期間我還參與了線上課程，這是我第一次嘗試，也象徵著我的努力。因為疫情才會做這種嘗試，對我而言，算是疫情中最值得說的事。</blockquote><blockquote>若要恢復以往的生活，我認為可能還要好一陣子吧。</blockquote><blockquote><strong>3.2021 年，你（終於）在哪些地方躺平了？</strong></blockquote><blockquote>許多事都很難躺平，只能盡可能的不去刻意在乎。然而對於不太擅於處理關係的我，婆家家人的關係是最常讓我想躺平的<strong>。</strong></blockquote><blockquote><strong>4.2021 年，什麼事情讓你獲得最深的意義感或給你最大的力量感？</strong></blockquote><blockquote>今年覺得對我最深的意義，是將馬特市這裡所得到的like coin 變現，雖然不多。讓我真實體會創作有價的實踐，不只是物質上的，還有精神上的被肯定。這不僅帶來創作的實質意義，也帶給我創作的力量。而且越是看見自己在文字上的匱乏，就越想努力朝進步的方向走，是我以前從未想過的。現在我已經走在路上了。</blockquote><blockquote><strong>5.2021 年，你經歷的一場告別或一次相遇</strong></blockquote><blockquote>2021年，我有一個美麗的相遇，就是與馬特市裡所有的作者相遇。看見許多美好的文字被這裡的作者們應用得出神入化，就覺得無比幸運。</blockquote><blockquote>在這裡找到了屬於自己的命定之外，還看見自己也是有可能改變的。</blockquote><blockquote><strong>6.相比去年，你與身體的關係發生了什麼變化？你有更喜歡現在自己的身體嗎？</strong></blockquote><blockquote>去年我的周遭發生不少事，身體承擔了許多壓力，更年期的到來讓我招架不住。但今年，除了心理上的調適外，身體上的調養也在努力中，所以今年相較於去年進步不少，希望能繼續進步，把運動視為日常，使其生活化。</blockquote><blockquote><strong>7.跟我們分享你在 2021 年相遇的一本好書、一部好電影或一首好歌</strong></blockquote><blockquote><strong>1.好電影：靈魂急轉彎</strong></blockquote><blockquote>讓我在一成不變的生活中，學習找尋不一樣的火花。</blockquote><blockquote><strong>2.好書：</strong>今年比起往年看了很多好書，像是<strong>《原子習慣》、《子彈思考整理術》、</strong>三毛的著作<strong>《撒哈拉沙漠》</strong>都是對我有相當大的影響。但最令我感動的則是<strong>《明天別再來敲門》這</strong>本書。讀完書的那天，讓我感動得哭了許久。看電影常讓我哭，看書卻是不多，而這本書讓我想到自己。</blockquote><blockquote><strong>3.好歌：</strong><a href="https://youtu.be/Xjt9Mzmk9Nw" rel="noopener noreferrer" target="_blank"><strong>聽（Ting主唱）</strong></a>蕭張藎庭主唱</blockquote><blockquote><strong>8.用一張照片分享 2021 年對你有重大意義的時刻。</strong></blockquote><figure class="image"><img src="https://assets.matters.news/embed/3e64abc4-24d8-47ac-8bcc-418886bac90f.jpeg" data-asset-id="3e64abc4-24d8-47ac-8bcc-418886bac90f" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><blockquote>這張照片是大家都很熟悉的黃卡，為何會以這張照片作為代表？是因為那時為了這兩劑疫苗，花了很長的時間在預約上和冗長的排隊才打到疫苗，對我有著不一樣的意義。雖是護理人員，但我們只是一般診所的非醫事人員，疫苗並沒有對我們比較和善，不確定的預約時間，和不明確的施打機會，讓我們在艷陽下排著長長的隊伍等打疫苗，雖然比起其他人施打得早，但卻讓我在這個部分有著特別的體驗，這算是今年最令我記憶深刻的一件事。</blockquote><blockquote><strong>9.請填空：2021,＿＿ matters</strong></blockquote><blockquote><strong>2021，<u>Writing</u> matters</strong></blockquote><blockquote><strong>Writing   </strong></blockquote><blockquote><strong> </strong>2021是我再次找回書寫的開始，也是未來的方向。</blockquote><blockquote><strong>10.（這題留給你，請向自己發出一個靈魂的提問，然後寫下你的回答）</strong></blockquote><blockquote><strong>妳希望的生活方式是？</strong></blockquote><blockquote>我想過一個<strong>向前邁進</strong>的生活。持續的進步是我的想望，但希望不只是我一個人前進，我想帶著我的丈夫一起進步，不論在身體或心靈上。這是我未來想做的事，也是想過的生活方式。</blockquote><hr><p><br></p>  
+</div>
+            
