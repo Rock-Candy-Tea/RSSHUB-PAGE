@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-19 08:10:20
-thumbnail: 'https://pic2.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162'
+date: 2021-12-19 09:09:07
+thumbnail: 'https://pic1.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-097147191f780f047abc7b3815551e7e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">燕碧天，</span><span class="bio">全是干货</span>
 <a href="https://www.zhihu.com/question/505109922/answer/2268457345" class="originUrl" hidden>查看知乎原文</a>
 </strong>
