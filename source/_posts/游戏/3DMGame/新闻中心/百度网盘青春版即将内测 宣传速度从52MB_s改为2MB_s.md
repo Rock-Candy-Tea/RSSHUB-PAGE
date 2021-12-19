@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211219/1639903478_6309
 12 月 19 日据媒体报道，前段时间，有关部门规定网盘不许限速，因此百度给出的整改措施是：推出百度网盘青春版，免费用户将享受 10G 存储空间，百度网盘现有版本将同时为用户提供服务，两者可同一账号、同一设备登录，不过值得一提的是，网友发现百度似乎把之前内测海报中的 52MB / s 改成了 2.2MB / s，不知道是否会对服务产生影响。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211219/1639903478_630995.png" alt="百度网盘青春版即将内测 宣传速度从52MB/s改为2MB/s" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211219/1639903478_630995.png" alt="百度网盘青春版即将内测 宣传速度从52MB/s改为2MB/s" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 百度此前宣布，百度网盘青春版（不限速）即将开始内测，不过只有 1000 名额提供给安卓 iOS 平台内测。
@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211219/1639903478_6309
 官方发现，由于报名人数太多，百度网盘青春版人气实在太高，内测限制的 1000 人已经是满了，所以百度众测公众号因此宣布下周的内测直接变为了公测，大家都会是第一批体验百度网盘青春版（不限速）的用户。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211219/1639903496_817468.png" alt="百度网盘青春版即将内测 宣传速度从52MB/s改为2MB/s" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211219/1639903496_817468.png" alt="百度网盘青春版即将内测 宣传速度从52MB/s改为2MB/s" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 此前工信部针对网盘企业的服务划出了一条“标准线”，“在同一网络条件下向免费用户提供上传下载的最低速率应确保满足基本的下载需求”。
