@@ -1,0 +1,69 @@
+
+---
+title: '1年期LPR下调5个基点至3.8%，5年期LPR保持不变'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+author: 新浪财经
+comments: false
+date: Mon, 20 Dec 2021 01:37:23 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
+---
+
+<div>   
+<p cms-style="font-L">　　澎湃财讯</p>
+<p cms-style="font-L">　　中国人民银行授权全国银行间同业拆借中心公布，2021年12月20日贷款市场报价利率（LPR）为：1年期LPR为3.8%，5年期以上LPR为4.65%。以上LPR在下一次发布LPR之前有效。</p><!-- news_keyword_pub,stock, -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：尹悦 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            

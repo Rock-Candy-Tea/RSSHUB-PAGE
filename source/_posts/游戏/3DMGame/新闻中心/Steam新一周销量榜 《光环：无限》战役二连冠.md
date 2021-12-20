@@ -14,13 +14,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211220/1639930764_8543
 
 <div>   
 <p style="text-indent:2em;">
-Steam公开新一周（12月13日至12月129日）销量榜，《光环：无限》战役二连冠，《玩具熊的五夜后宫:安全漏洞》第二，《战地2042》第七。
+Steam公开新一周（12月13日至12月19日）销量榜，《光环：无限》战役二连冠，《玩具熊的五夜后宫:安全漏洞》第二，《战地2042》第七。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211220/1639930764_854303.jpg" alt="Steam新一周销量榜 《光环：无限》战役二连冠" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211220/1639930764_854303.jpg" alt="Steam新一周销量榜 《光环：无限》战役二连冠" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>榜单详情：</strong>
+<strong>榜单详情：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《光环：无限》战役
