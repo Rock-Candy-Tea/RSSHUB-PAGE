@@ -1,0 +1,44 @@
+
+---
+title: 'GO 语言通用代码生成器：仙童已公布尝鲜版，新增对 PostgreSQL 数据库的支持'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://images.gitee.com/uploads/images/2021/1104/210826_16fb1ca2_1203742.jpeg'
+author: 开源中国
+comments: false
+date: Mon, 20 Dec 2021 11:46:00 GMT
+thumbnail: 'https://images.gitee.com/uploads/images/2021/1104/210826_16fb1ca2_1203742.jpeg'
+---
+
+<div>   
+<div class="content">
+                                                                                            <p><strong>GO语言通用代码生成器：仙童，已公布尝鲜版，新增对PostgreSQL数据库的支持</strong></p> 
+<p>GO语言通用代码生成器：仙童，已公布尝鲜版。在冒烟测试版的基础上，有更多测试和修错，并新增对PostgreSQL数据库的支持。现在支持MariaDB，MySQL8和PostgreSQL三种数据库。所有所附示例均通过测试。更多惊喜等着您去发现。<br> 预计到尝鲜版2。会进一步支持Oracle数据库。</p> 
+<p>仙童的项目地址：<a href="https://gitee.com/jerryshensjf/Fairchild">https://gitee.com/jerryshensjf/Fairchild</a></p> 
+<h1 style="margin-left:0px; margin-right:0px; text-align:left">Go语言通用代码生成器：仙童</h1> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">简介</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">Go语言通用代码生成器：仙童</p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">架构</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">基于Java通用代码生成器：光的架构。</p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">生成的代码基于go语言，使用gin作为web框架。目前支持MariaDB,MySQL和PostgreSQL三种数据库。</p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">代码生成物</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">请参考：<a href="https://gitee.com/jerryshensjf/GirlOnly">https://gitee.com/jerryshensjf/GirlOnly</a></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="Image description" src="https://images.gitee.com/uploads/images/2021/1104/210826_16fb1ca2_1203742.jpeg" referrerpolicy="no-referrer"></p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">代码生成器截图</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">代码生成器正在研发中，第一个尝鲜版已发布。</p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="Image description" src="https://images.gitee.com/uploads/images/2021/1112/202857_c7a40dc0_1203742.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="Image description" src="https://images.gitee.com/uploads/images/2021/1112/202911_c2b9a341_1203742.png" referrerpolicy="no-referrer"></p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">尝鲜版和冒烟测试版本下载</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">请去<a href="https://gitee.com/jerryshensjf/InfinityJEEEU/attach_files">https://gitee.com/jerryshensjf/InfinityJEEEU/attach_files</a></p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">代码生成物截图</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="Image description" src="https://images.gitee.com/uploads/images/2021/1122/151921_f4271962_1203742.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="Image description" src="https://images.gitee.com/uploads/images/2021/1122/151935_cf6c7223_1203742.png" referrerpolicy="no-referrer"></p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">B站介绍视频</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1hh41147pA%2F">https://www.bilibili.com/video/BV1hh41147pA/</a></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1pR4y147Pd%2F">https://www.bilibili.com/video/BV1pR4y147Pd/</a></p>
+                                        </div>
+                                      
+</div>
+            
