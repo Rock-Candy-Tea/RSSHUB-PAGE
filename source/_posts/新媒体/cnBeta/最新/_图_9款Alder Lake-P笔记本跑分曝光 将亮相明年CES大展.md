@@ -1,0 +1,19 @@
+
+---
+title: '_图_9款Alder Lake-P笔记本跑分曝光 将亮相明年CES大展'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1220/5ed9956840f8f2f.webp'
+author: cnBeta
+comments: false
+date: Sun, 19 Dec 2021 23:54:21 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1220/5ed9956840f8f2f.webp'
+---
+
+<div>   
+采用英特尔第 12 代 Alder Lake-P CPU 的笔记本有望在明年召开的 CES 2022 大展上集体亮相。在大会召开之前，<strong>已经有 9 款运行不同第 12 代 Alder Lake-P CPU 的笔记本现身 GeekBench 跑分库，从单核和多核成绩来看性能都非常强劲。</strong><br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/5ed9956840f8f2f.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">英特尔 Alder Lake-P 系列将取代整个 Tiger Lake-H45、H35 和 UP3 芯片组合。它的顶级 SKU 将达到 14 个内核，其中包括 6 个 Golden Cove 内核和 8 个 Grace Mont 内核。取代 Tiger Lake-U15 系列的部件将具有 2 个 Golden Cove 核心和 8 个 Gracemont 核心。这些芯片将包含 GT2 和 GT3 Xe 配置，最多有 96 个执行单元。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/ea94fbdf1bd724c.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/5b62b824da1b104.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/8061547bd6cfcc2.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/a740b287044cbf2.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/0397df80885f7f7.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/d3db7b2e481974a.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/aa00ee9d178119a.webp" alt="dlqq8msm.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/56a5aedd8ab66b1.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/08b31ca84dc505d.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">英特尔 Alder Lake-P U/H 系列配置：</p><p style="text-align: left;">● 2 个大核心+ 8 个小核心，配备 GT2/GT3 GPU（U15）</p><p style="text-align: left;">● 4 个大核心+ 8 个小核心，配备 GT2/GT3 GPU(U28)</p><p style="text-align: left;">● 6 个大核心+ 8 个小核心，配备 GT2/GT3 GPU（U28）</p><p style="text-align: left;">● 4 个大核心+ 8 个小核心，配备 GT2/GT3 GPU (H45)</p><p style="text-align: left;">● 6 个大核心+ 8 个小核心，配备 GT2/GT3 GPU (H45)</p><p style="text-align: left;">● 6 个大核心+ 8 个小核心，配备 GT2/GT3 GPU（H45）</p><p style="text-align: left;">该平台的其他功能将包括支持Thunderbolt 4、PCIe Gen 5.0通道和WiFi 6E。在内存支持方面，英特尔Alder Lake-P芯片将获得LPDDR5和DDR5配置。英特尔很可能首先发布带有LPDDR5变体的Alder Lake-P，而更高端的Tiger Lake-H后续产品将配备DDR5内存。</p><p style="text-align: left;">从产品系列开始，有六款45W（H45）和三款28W（U28）芯片在Geekbench中被泄露。其中包括旗舰产品酷睿i9-12900HS，14个核心/20个线程，频率高达5.0GHz；酷睿i7-12700H，14个核心/20个线程，频率高达4.9GHz；酷睿i7-12700H，14个核心/20个线程，频率高达4.6GHz；酷睿i7-12650H，10个核心/16个线程，频率高达4.5GHz。酷睿i5阵容由12500H和12450H组成，两者分别具有12个核心/16个线程和8个核心/12个线程。</p><p style="text-align: left;">英特尔Alder Lake-P U28系列中，有酷睿i7-1280P，拥有14个内核/20个线程，频率高达4.7GHz；酷睿i7-1260P，拥有12个内核/16个线程，频率高达4.6GHz；以及酷睿i5-1240P，核心配置相同，但提升时钟频率较低。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/da84262a008e40c.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/4a7540fe7b48817.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1220/5e0f9a70373177c.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">考虑到所有不同的笔记本电脑配置，比较这些芯片的整体CPU性能仍然有点混乱。冷却配置和OEM设置的功率限制也会影响性能，而且进一步说，这些芯片基本上不是零售变体，而是工程样品。现在的样本量也太小了，无法提供准确的性能指标，但Videocardz分享的数据有助于让人了解第12代英特尔Alder Lake笔记本CPU在竞争中的地位。</p>   
+</div>
+            
