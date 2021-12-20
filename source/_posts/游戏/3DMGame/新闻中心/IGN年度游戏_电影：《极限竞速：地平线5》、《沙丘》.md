@@ -59,7 +59,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211220/1639963722_1637
 <img src="https://img.3dmgame.com/uploads/images/news/20211220/1639963877_159184.jpeg" alt="IGN年度游戏/电影：《极限竞速：地平线5》、《沙丘》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<span style="color:#E56600;font-size:16px;"><strong>IGN年度游戏：《沙丘》</strong></span> 
+<span style="color:#E56600;font-size:16px;"><strong>IGN年度电影：《沙丘》</strong></span> 
 </p>
 <p style="text-indent:2em;">
 提名名单：
@@ -98,7 +98,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211220/1639963722_1637
 <img src="https://img.3dmgame.com/uploads/images/news/20211220/1639963919_913095.jpeg" alt="IGN年度游戏/电影：《极限竞速：地平线5》、《沙丘》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<span style="color:#E56600;font-size:16px;"><strong>IGN年度游戏：《鱿鱼游戏》</strong></span> 
+<span style="color:#E56600;font-size:16px;"><strong>IGN年度剧集：《鱿鱼游戏》</strong></span> 
 </p>
 <p style="text-indent:2em;">
 提名名单：
