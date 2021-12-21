@@ -1,0 +1,18 @@
+
+---
+title: '怎么让猫咪发腮？-猫太郎CATTARO的回答：想要猫咪发腮，其实无非就是想要它们拥有一个圆溜溜的脑袋。但猫咪发腮受品种、性别、父辈遗传，以及睾丸酮的影响。 _图...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-dd5df72bd4a9895f751a9e679bad7646_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 21 Dec 2021 09:06:01 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-dd5df72bd4a9895f751a9e679bad7646_1440w.jpg'
+---
+
+<div>   
+<strong>怎么让猫咪发腮？</strong><br>猫太郎CATTARO的回答<br><p data-pid="MhT5zjK9">想要猫咪发腮，其实无非就是想要它们拥有一个圆溜溜的脑袋。但猫咪发腮受品种、性别、父辈遗传，以及睾丸酮的影响。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-dd5df72bd4a9895f751a9e679bad7646_1440w.jpg" data-caption data-size="normal" data-rawwidth="500" data-rawheight="333" data-default-watermark-src="https://pic2.zhimg.com/v2-b9adf104c511099ccaabae6b42c56c3d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-dd5df72bd4a9895f751a9e679bad7646_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="NB603b-m">圆脸基因的猫咪：加菲猫、英国短毛猫、金吉拉等，这类猫咪只要体型匀称，一般都给人一种胖乎乎的感觉；</p><p data-pid="szpFrt8e">倒三角脸基因的猫咪：暹罗猫、无毛猫和俄罗斯蓝猫等猫咪，根本没有圆脸的基因，你这要是想让这几种猫发腮，不是在为难猫吗？</p><p data-pid="bVYaZcVL">田园猫的话看几率（主要还是拼爹）</p><p data-pid="6N9nIYmk">而且母猫其实没有腮可以发哦！相比较公猫而言，体型上也会稍小一点，脸也是如此！如果你养的是只母猫的话，长胖后的情况也会和发腮有些类似，觉得母猫可以发腮，但实际上是被喂胖了并不是发腮。</p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-47e7312e472ad9030bb7883db7230f67_1440w.jpg" data-caption data-size="small" data-rawwidth="960" data-rawheight="908" data-default-watermark-src="https://pic2.zhimg.com/v2-30fb9771ccc72dcc675d33db7be4e439_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-47e7312e472ad9030bb7883db7230f67_r.jpg" referrerpolicy="no-referrer"></figure><h3>男人长喉结 公猫要发腮</h3><p data-pid="FMqPEbzD">作为公猫的第二性征，发腮对于公猫来说不单单是腮帮子长肉，因为发腮是公猫性成熟的象征，睾丸酮让猫咪的脖颈皮变得松弛，避免自己在争夺交配权的频繁斗殴中伤及要害，这就是“发腮”的最主要原因。</p><p data-pid="59EapnBy">这预示着一旦公猫发腮了，猫咪的生殖系统也就发育完全了。 公猫的发腮是在雄性激素的刺激下出现的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-83c68c63b8ce7cb2c79e8ece77c455a8_1440w.jpg" data-caption data-size="normal" data-rawwidth="640" data-rawheight="359" data-default-watermark-src="https://pic2.zhimg.com/v2-ad93daf076d45228647289bb2da24141_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-83c68c63b8ce7cb2c79e8ece77c455a8_r.jpg" referrerpolicy="no-referrer"></figure><h2>那么如何正确发腮？</h2><p data-pid="MeMPuGKe">公猫的发腮和睾酮含量关系密切，所以猫咪的绝育时间很重要，如果在猫咪发情之前就给猫咪提供了拆蛋套餐，那它这辈子只能与发腮无缘了，来生再续吧。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c55776542c8a97d312f7071c7ed05f99_1440w.jpg" data-caption data-size="normal" data-rawwidth="480" data-rawheight="263" data-default-watermark-src="https://pic3.zhimg.com/v2-d65f482a9e83943f34fa82a59d080116_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c55776542c8a97d312f7071c7ed05f99_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="cw-V5nyP">如果想让猫咪成功发腮，在养猫的前两年就要受苦了，要注意猫咪发情乱尿，乱跑的情况，虽然照顾时很辛苦，但是猫咪发腮一般会在两岁前结束，只要发腮成功，发情结束，拆蛋套餐就可以安排上了。</p><p data-pid="ce8RsiBL">而这期间要保持日常营养摄入充足，如果猫咪营养不良，对于一些基因不是很强的猫咪来说，发腮会很难。所以要增加高蛋白的食物，比如鸽肉、鸡肉、牛肉这些高蛋白的肉类可以让腮部就会发育得比较好。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_1440w.jpg" data-caption data-size="normal" data-rawwidth="1269" data-rawheight="1692" data-default-watermark-src="https://pic4.zhimg.com/v2-fa491a0179d9899344379cda012a748b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-1c6134f15eb86d076786c286e80d5e80_r.jpg" referrerpolicy="no-referrer"></figure><p><br> </p>  
+</div>
+            

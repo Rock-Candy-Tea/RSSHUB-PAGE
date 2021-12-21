@@ -1,0 +1,23 @@
+
+---
+title: 'A股三大指数集体收涨  房地产板块领涨'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2550'
+author: 中证网
+comments: false
+date: Tue, 21 Dec 2021 16:28:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2550'
+---
+
+<div>   
+<p style="text-align: left; text-indent: 2em">中证网讯（记者 李莉）12月21日，A股三大指数集体收涨。</p>
+<p style="text-align: left; text-indent: 2em">据Wind数据，截至收盘，上证指数涨0.88%，报3625.13点；深证成指涨0.82%，报14688.98点；创业板指涨0.53%，报3350.43点。</p>
+<p style="text-align: left; text-indent: 2em">申万一级行业板块中，房地产、社会服务、纺织服饰板块涨幅居前；食品饮料板块下跌。</p>
+<p style="text-align: left; text-indent: 2em">概念板块中，连板、打板、K-12教育板块涨幅居前；稀土、盐湖提锂、疫苗板块跌幅居前。</p>
+<p style="text-align: left; text-indent: 2em">首创证券看好家具行业景气前景。认为明年交房数据有望好转，将推动家具行业繁荣。并且，人口结构及存量房翻新需求释放，将支撑家具行业中长期需求坚挺。同时，原材料价格上涨加速房地产产业链下游行业洗牌，相关龙头企业优势料将扩大。</p>
+  
+</div>
+            
