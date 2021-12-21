@@ -1,0 +1,18 @@
+
+---
+title: '【Epic】圣诞节特惠游戏推荐第二弹'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2021/12/21/a9e4d9b0143f0f8a9301d2ef189ff94d/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 21 Dec 2021 19:19:56 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2021/12/21/a9e4d9b0143f0f8a9301d2ef189ff94d/thumb.jpeg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#epic特卖游戏推荐#</a> 各位观众老爷们大家好，今天给大家带来的是第二轮的游戏推荐，epic促销游戏就那么多，主要是给没看过的小伙伴们观看哈。<br></p><p>1.《杀手3豪华版》 原价225元，叠加劵后仅57元<br></p><p><img class="lazy" data-height="733" src="https://imgheybox.max-c.com/bbs/2021/12/21/a9e4d9b0143f0f8a9301d2ef189ff94d/thumb.jpeg" data-width="550" referrerpolicy="no-referrer"></p><p>尖锐的眼神，闪光的大光头，那个男人又来了。自2018年《杀手2》发售后，IO interactive的“暗杀世界”三部曲逐渐成型，其每代游戏中带有着跨越全球的超大沙盒地图，丰富有曲的故事和挑战绝对可以让你欲罢不能，你甚至可以在新作中用新的机制体验到前作内容，与其他系列的游戏有着较大的不同。</p><p>尽管“暗杀世界”三部曲的发行商一换再换，使得三款游戏在内容互通，数据继承上出现了不少问题，一定程度上对于IO interactive的设计理念受到了一定影响，但就游戏本身的游戏素质而言，我还是愿意给他打出高分，《杀手3》绝对可以算上是对前作的有力收尾，重庆地图的发布更是激动人心，这对热爱潜入类型游戏的玩家来说无疑是一种惊喜。</p><p>2.《骑士精神2》 原价137元，叠加劵后仅27元</p><p><img class="lazy" data-height="309" src="https://imgheybox.max-c.com/bbs/2021/12/21/f085cf048658693ea0e283fa641f259d/thumb.jpeg" data-width="550" referrerpolicy="no-referrer"></p><p>《骑士精神2》作为epic的独占游戏，以如今的价格入手绝对可以称得上划算。（再背刺也只背刺27元？）这是一款以欧洲中世纪为背景的游戏，你将以第一人称的视角了解这个世界。作为一款写实类的近距离战斗游戏，《骑士精神2》与一款之前大火的游戏类似——《血腥剑斗》。而相较于后者，《骑士精神2》的游戏画面以及细节处理方面表现更好。刀刀到肉的快感和优秀的打击音效也让砍杀热爱者直呼内行。然而这类游戏也推荐谨慎入手，毕竟作为砍杀游戏，喜欢的人一天不砍几小时就就过瘾，不喜欢的玩个一两分钟就不想玩下去了。游戏上有一些小问题，但不影响游戏体验。</p><p>3.《凯娜：精神之桥》 原价137元，叠加劵后仅37.75元</p><p><img class="lazy" data-height="681" src="https://imgheybox.max-c.com/bbs/2021/12/21/d1b3442219b9fb971238be13f1fe90b9/thumb.jpeg" data-width="1021" referrerpolicy="no-referrer"></p><p>画面和音质自然不必多说，唯美的风格让人恍惚间好似穿越到了迪斯尼世界，对于玩腻了3A的老游戏玩家来说也是一个不二之选，但其通关时间短，引导不够清晰，许多技能用不上的问题也为人所诟病。</p><p>4.《哈迪斯》原价80元，叠加劵后仅39元（游戏本体未达到90，需购买游戏+原声带版）</p><p><img class="lazy" data-height="711" src="https://imgheybox.max-c.com/bbs/2021/12/21/b47ad25b0ec899ade76935242aecaa59/thumb.jpeg" data-width="1279" referrerpolicy="no-referrer"></p><p>第一款获得雨果奖的游戏，发售当年获得TGA2020年度最佳独立游戏和最佳动作游戏，其含金量也是不言而喻了吧。我相信对于喜欢这类游戏的玩家一定会沉浸其中的。</p><p>5.《死亡细胞》 原价80元，叠加劵后仅39元（游戏本体未达90，需购买游戏+坏种版本）</p><p><img class="lazy" data-height="480" src="https://imgheybox.max-c.com/bbs/2021/12/21/79d2bf21ab7a5ae5fc44b530f2eba392/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><p>这款游戏不管是从游戏性还是其背后隐藏的剧情来说都深深吸引着我，国王的悲惨故事和小岛戏剧性的变化也让人感叹。大量的武器，地牢式玩法绝对让你花得值。（马上要出皇后的dlc了，现在入了了解下剧情）</p><p>6.《仁王2完全版》 原价249元，叠加劵后仅109.65元</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/21/5b2b0472d94f338a41502bce3993351a/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>如果你喜欢《只狼》，那你一定不能错过这款优秀的动作游戏。在这部游戏中 你将扮演一个自己创造的神秘武士游荡在黑暗的国度中，探索未知的秘密。另外，《仁王》之前epic已经送过了，想体验续作的玩家可以入了。</p><p>7.《地平线：零之曙光》 原价279元，叠加劵后仅74.5元</p><p><img class="lazy" data-height="608" src="https://imgheybox.max-c.com/bbs/2021/12/21/43ff1f7b923c18e56c32222886c594cb/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>游戏讲述了在遥远的未来，人类文明已经结束，被损毁的星球正在重建，人类并不是最优种群，高度发达的智能机械兽稳坐食物链的顶端，玩家在游戏中扮演一个被部落抛弃的年轻人亚罗伊，为了解开围绕在她身边的一些神秘事件，从而踏上了冒险征程。</p><p>原始元素与未来机甲风结合会摩擦出怎样的火花？</p><p>8.《战地风云2042》</p><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/bbs/2021/12/21/6144816027427966d8538ec01315446a/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p>背刺是绝对的，不背刺是相对的，刚刚被战地5背刺，这不就来了？凭借着足够拉跨的风评，2042成功降到了98元。有人说bug太多，大哥太多，前者我不否认，但后者什么时候在战地里面少过，如果不介意的话可以入手了。</p><p>最后祝大家都能入手自己心怡的游戏。</p><p>（谢谢彦祖这么帅还给我点赞）</p>  
+</div>
+            
