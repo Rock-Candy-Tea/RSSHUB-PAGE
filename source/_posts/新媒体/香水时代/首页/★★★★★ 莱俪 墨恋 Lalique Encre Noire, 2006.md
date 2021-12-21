@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=7169'
+headimg: 'https://picsum.photos/400/300?random=8505'
 author: 香水时代
 comments: false
-date: Sat, 18 Sep 2021 07:10:30 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7169'
+date: Fri, 26 Nov 2021 11:11:58 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8505'
 ---
 
 <div>   
-下雨天的丛林，腐烂的落叶，高耸的树木，图书馆陈旧的书本，新鲜的甚至有些刺鼻的墨水，这都是我很钟情的味道。  
+人生的第一瓶香水 之前购买过小样 刚刚开始闻感觉好沉重的墨水味 一段时间后变成青草的芬芳气息 非常的淡雅沉静 果断入了大瓶 200不到的价格可以说是很舒适了  
 </div>
             
