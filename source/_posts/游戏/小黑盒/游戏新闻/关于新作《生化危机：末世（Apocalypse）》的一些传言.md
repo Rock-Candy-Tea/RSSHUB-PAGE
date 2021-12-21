@@ -1,0 +1,18 @@
+
+---
+title: '关于新作《生化危机：末世（Apocalypse）》的一些传言'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2021/12/21/a36a781d62dff315de5d7d0623676845/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 21 Dec 2021 13:30:34 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2021/12/21/a36a781d62dff315de5d7d0623676845/thumb.jpeg'
+---
+
+<div>   
+<p>消息最早出自4chan论坛的开发文档泄漏，并在Resetera和Reddit等论坛引发讨论。接下来有人在Gamefaqs泄漏更多关于此游戏的消息。</p><p><img class="lazy" data-height="1200" src="https://imgheybox.max-c.com/web/2021/12/21/a36a781d62dff315de5d7d0623676845/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><p><b>根据Gamefaqs上的消息来源，游戏内容大致如下:</b></p><ul><li>游戏确实被称为《Resident Evil Apocalypse》，<b>而Apocalypse是本作的临时代号</b>，并非最终名称。</li><li>测试人员正在研究新的游戏机制并检查其可行性<br></li><li>游戏将以<b>西部偏远的鬼城为主要场景</b>，并在那里进行调查。</li><li>在游戏的前半部分，<b>玩家将探索不同的地点，如洞穴、附近的河流、城镇本身和营地</b>。</li><li><b>敌人看起来像某种的畸形生物</b>，非常注重来自身体上的恐怖感。<b>它们有些像古老民间传说中的有角生物，当地人会叫它们“温迪戈（Wendigo）”或“山羊人（Goatman）”。</b></li></ul><p><img class="lazy" data-height="1294" src="https://imgheybox.max-c.com/web/2021/12/21/402c8eb1e1da7618c188289a65ef0146/thumb.jpeg" data-width="1000" referrerpolicy="no-referrer"></p><blockquote><p>温迪戈是一种食人的怪物，源自于美国和加拿大阿尔冈昆语族（Algonquian）印第安人的传说。它们被认为是人类同类相食后变成的怪物， 并且传说已经强调把这种做法列为禁忌。</p></blockquote><p><img class="lazy" data-height="900" src="https://imgheybox.max-c.com/web/2021/12/21/0f1adf1a77e8c693ab5392762fbb4881/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><blockquote><p><b>山羊人是流传于美国地区的民间传说，传说在马里兰州附近的林区里面，存在着一种拥有人类躯体和双手，长着羊头羊角和羊腿的，能够直立行走的怪物，半人半羊，行动敏捷。</b></p></blockquote><ul><li><b>敌人会模仿人类的声音，甚至可以变化成“友好的NPC”</b>，这也是系列中第一个真正智能生物武器。它们可以完美地模仿人类的声音，玩家不得不仔细观察它们的行为来判断它们是否为敌人。</li><li><b>敌人将非常敏捷和强大</b>，它可以爬树还会藏在障碍物后面以躲避玩家的子弹。</li><li>这座小镇本身有着悠久的历史和传说，<b>并且与生化危机系列中的事件有一些联系</b>。</li><li>玩家可以选择从怪物手中拯救当地人，还是让他们死去以保全自己。<b>但是怪物很聪明，它们会观察你是否看到了这些角色的死亡，以此来决定它们以后是否要伪装成这个死者来找你</b>。如果你看到了死亡现场，它们就不会那样做。它们只有看到你没有子弹或身处难以逃跑的狭窄位置时，才会解除伪装，攻击玩家。</li><li>这片森林令人毛骨悚然，坐立不安。没有地图很容易迷路，所以在<b>游戏中找到地图真的很重要</b>。即使你没有注意到它们，<b>敌人也会一直在阴影中看着你（就像在 《生化危机7》Demo中与米娅一样）</b>。有时你会听到身后有人走过，但当你转身时，敌人并不存在，但有时它也会突然出现。</li><li>这款游戏的机制将会是<b>《生化危机2》和《生化危机：爆发》的结合体</b>，《生化危机：爆发》意味着<b>玩家可以强行打开或锁上一些门、设置路障、使用易损近战武器等等</b>。同时目前游戏有在测试“zapping”系统<b>即如《生化危机2》原版中的表里关互相影响机制</b>，但尚未确定此系统是否正式加入游戏中，因此这个系统以后可能会被废弃。</li><li><b>早期的BOSS之一是“犬魔（Barghest）”</b>。它是一只“巨型黑狗”，但与其他怪物相比，它的智商较差。</li></ul><p><img class="lazy" data-height="593" src="https://imgheybox.max-c.com/web/2021/12/21/b40216e17499c174192922a0adf40a4d/thumb.jpeg" data-width="1000" referrerpolicy="no-referrer"></p><ul><li><b>主要敌人包括一位被当地人称为“格莱斯蒂格（Glaistig)”的女性</b>，但她有一个非常漂亮的设计，金色装饰的绿色丧服。<br></li></ul><p><img class="lazy" data-height="1024" src="https://imgheybox.max-c.com/web/2021/12/21/9ead59883868aa66791c3a13e1fd48b4/thumb.jpeg" data-width="831" referrerpolicy="no-referrer"></p><blockquote><p>可能来自苏格兰神话中一中半人半山羊的生物</p></blockquote><ul><li><b>玩家将从名为“胡睹（Hulder）”的女性生物武器那里得到帮助</b>。她将作为向导穿越森林，当你向其展示沿途发现的一些宝藏/钥匙/拼图时，她会告诉你该镇的一些历史。<b>她还会教玩家不同的草药组合（大约有 7 种草药可以相互组合以达到各种效果，还可用于其他 NPC）</b>。怪物们害怕这个女人，就像他们害怕和尊重“格莱斯蒂格（Glaistig）”一样，不会靠近（这可以解释为什么怪物不能进入存档区/房间）。</li></ul><p><img class="lazy" data-height="844" src="https://imgheybox.max-c.com/web/2021/12/21/5bbb01144b721589232f6e4c2dcc79a3/thumb.jpeg" data-width="1430" referrerpolicy="no-referrer"></p><blockquote><p>胡睹(Hulder)是斯堪的纳维亚传说中的一种森林精灵。胡睹指的是女性精灵，男性则被称作huldrekall，其女性一般被形容为令人不可置信的、诱人且美丽的，而男性则经常被形容为丑陋而吓人的，并长著怪异的长鼻子。<br></p></blockquote><ul><li><b>故事剧情将和“第9月相（9th Moon Phase）”，也就是“血月（Blood Moon）”有关</b>，代号“末世（Apocalypse）”也因此而来。月亮将会充当这款游戏的标志，而且很有可能会在徽标上出现。</li></ul><ul><li>全新的同伴系统。</li><li>是一款<b>第三人称单人游戏</b>，许多<b>老角色将会登场</b>（可能是最后一次登场）。</li><li>游戏最早将于2024年发行，目前正处于早期开发阶段。</li></ul><blockquote><p><br></p></blockquote>  
+</div>
+            
