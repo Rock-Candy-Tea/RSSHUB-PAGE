@@ -6,11 +6,11 @@ categories:
  - 游戏
  - GNN.tw 游戏新闻
  - GNN.tw 游戏新闻
-headimg: 'https://picsum.photos/400/300?random=1839'
+headimg: 'https://picsum.photos/400/300?random=3388'
 author: GNN.tw 游戏新闻
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1839'
+thumbnail: 'https://picsum.photos/400/300?random=3388'
 ---
 
 <div>   
