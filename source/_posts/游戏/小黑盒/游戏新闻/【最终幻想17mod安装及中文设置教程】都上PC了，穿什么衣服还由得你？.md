@@ -1,0 +1,18 @@
+
+---
+title: '【最终幻想17mod安装及中文设置教程】都上PC了，穿什么衣服还由得你？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2021/12/22/3838f327cff2ed24132e71eb6758165f/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Wed, 22 Dec 2021 17:17:48 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2021/12/22/3838f327cff2ed24132e71eb6758165f/thumb.jpeg'
+---
+
+<div>   
+<p>各位小伙伴大家好<br></p><p>最终幻想7的重置版终于登陆了PC端（暂时为Epic独占），虽然这个价格确实有些离谱，但并不妨碍大家对这一作的怀念。同时也正因为Pc端的上线各种mod也大量涌现，但还有很多小伙伴不知道如何安装mod，那这期内容我就教大家FF7mod的安装以及如何设置中文，顺便我还整理了一些mod做成了一个合集，有需要的小伙伴可以评论区自取。那我们话不多说就直接开始吧！</p><p><img class="lazy" data-height="559" src="https://imgheybox.max-c.com/web/2021/12/22/3838f327cff2ed24132e71eb6758165f/thumb.jpeg" data-width="1123" referrerpolicy="no-referrer"></p><p>1、首先我们在网站上找到我们想要使用的mod，点击它，这里我们以蒂法的紫色连衣裙mod为例。（mod网站我会放在文章评论区，由于PC版刚出，目前mod并不是很多，过段时间大神mod就应该会出来了）<br></p><p><img class="lazy" data-height="547" src="https://i1.max-c.com/imgx/2021/12/22/d06038d4601f41e39d4902cec63205911640162233" data-width="1080" referrerpolicy="no-referrer"></p><p>2、之后我们点击右上角的“MANUAL”。</p><p><img class="lazy" data-height="547" src="https://i1.max-c.com/imgx/2021/12/22/05aa86361b8b4133b611c80daa32ec121640162233" data-width="1080" referrerpolicy="no-referrer"></p><p>3、然后我们点击“SLOW DOWNLOAD”。</p><p><img class="lazy" data-height="547" src="https://i1.max-c.com/imgx/2021/12/22/3ed22d6ae51b4a848303c80f5978d17b1640162233" data-width="1080" referrerpolicy="no-referrer"></p><p>4、我们稍等片刻就会下载好了。</p><p><img class="lazy" data-height="96" src="https://i1.max-c.com/imgx/2021/12/22/b79306bdfe5744d8918bac0a5bf5d5cf1640162234" data-width="356" referrerpolicy="no-referrer"></p><p>5、下载好后我们将下载的文件解压，我们就会得到一个.pak格式的文件，这个就是我们要的mod文件了。</p><p><img class="lazy" data-height="46" src="https://i1.max-c.com/imgx/2021/12/22/08a2f185f61d483e9d4f66a71f0acf2e1640162234" data-width="610" referrerpolicy="no-referrer"></p><p>6、而这款游戏的mod都是.pak文件，安装mod也不需要mod引擎，已经可以说是非常简单了，我们只需要把.pak文件放到游戏跟目录里的Paks文件夹里就可以了。具体路径如下：</p><p>XX\Epic\FFVIIRemakeIntergrade\End\Content\Paks</p><p><img class="lazy" data-height="60" src="https://i1.max-c.com/imgx/2021/12/22/77dc407b74d8425482d17d04cb614ee81640162234" data-width="827" referrerpolicy="no-referrer"></p><p>7、这样mod的安装我们就大功告成了，接下来是游戏中文语言的设置，由于某些原因游戏可能没有中文，我们只需要找到游戏的根目录按照</p><p>“Engine/Binaries/ThirdParty/EOS/epic_emu”这个路径找到并打开文件名为“epic_emu”的文件。</p><p><img class="lazy" data-height="238" src="https://i1.max-c.com/imgx/2021/12/22/b21d6fc08d764e7fb22e03e0618ebbf31640162235" data-width="1035" referrerpolicy="no-referrer"></p><p>8、用记事本打开该文件后找到Language=en 这是默认的,改成Language=cn 即可。这样我们的游戏就变成了中文。</p><p><img class="lazy" data-height="775" src="https://i1.max-c.com/imgx/2021/12/22/ee6433114ec8429eac3f96abb70f43441640162235" data-width="751" referrerpolicy="no-referrer"></p><p>9、最后我还想说一下我自己整理了一些人物mod还有一些功能型mod，其中有一个“关闭时间性抗锯齿和动态分辨率”的mod还是很推荐大家安装的，这个mod能让画面不再那么模糊，有需要的小伙伴可以在文章评论区自取。</p><p><img class="lazy" data-height="2120" src="https://i1.max-c.com/imgx/2021/12/22/567e92e77ebc484e86118380d3288be21640162236" data-width="1080" referrerpolicy="no-referrer"></p><p>那么这期的内容到这里也就结束啦，如果有什么问题或者遗漏欢迎大家评论区留言，最后祝大家都能玩到自己喜欢的游戏，我们下期再见，886。</p><hr><p><br></p><b>如果你喜欢这篇文章的话麻烦点个赞，爱你呦<span data-emoji="cube_乖" class="hb-emoji"></span></b><p>更多游戏资讯，可以搜索并关注我的公众号<b>“兔子电竞社”<span data-emoji="cube_喜欢" class="hb-emoji"></span></b></p><p><a href="heybox://open_subject" target="_blank">#神来之作第九期</a><a href="heybox://open_subject" target="_blank">#epic</a><a href="heybox://open_subject" target="_blank">#单机游戏</a><a href="heybox://open_subject" target="_blank">#最终幻想7：重制版#</a><b><br></b></p>  
+</div>
+            
