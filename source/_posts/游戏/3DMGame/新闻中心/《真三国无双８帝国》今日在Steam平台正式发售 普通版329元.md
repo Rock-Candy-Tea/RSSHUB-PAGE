@@ -14,14 +14,14 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211119/1637290898_7942
 
 <div>   
 <p style="text-indent:2em;">
-光荣特库摩新作《真<a target="_blank" href="https://www.3dmgame.com/tag/sanguo_1/">三国</a><a target="_blank" href="https://www.3dmgame.com/tag/wushuang_1/">无双</a>8帝国》今日在Steam平台正式解锁，玩家现已可以购买游戏玩，普通版价格为人民币329元，豪华版价格为557元。游戏支持简繁体中文<span></span>。
+光荣特库摩新作《真<a target="_blank" href="https://www.3dmgame.com/tag/sanguo_1/">三国</a><a target="_blank" href="https://www.3dmgame.com/tag/wushuang_1/">无双</a>8帝国》今日在Steam平台正式解锁，玩家现已可以购买游玩，普通版价格为人民币329元，豪华版价格为557元。游戏支持简繁体中文<span></span>。
 </p>
 <p align="center">
 <iframe height="480" width="640" src="https://player.youku.com/embed/XNTE5ODgyOTk0MA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
 </iframe>
 </p>
 <h4 style="text-indent:2em;">
-游戏预购页面：<a href="https://store.steampowered.com/app/1341200/_/" target="_blank">点击此处</a> 
+游戏购买页面：<a href="https://store.steampowered.com/app/1341200/_/" target="_blank">点击此处</a> 
 </h4>
 <h3>
 游戏简介
