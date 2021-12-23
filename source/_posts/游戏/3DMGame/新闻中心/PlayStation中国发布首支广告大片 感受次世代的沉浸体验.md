@@ -55,15 +55,6 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211223/1640228936_6307
 </p>
 <p style="text-indent:2em;">
 广告片现已上线，将陆续登陆全国各大视频网站、社交媒体、游戏媒体、院线、户外等多个平台。
-</p>
-<p style="text-indent:2em;">
-索尼互动娱乐（上海）有限公司作为领先的数字娱乐与互动平台领军企业，索尼互动娱
-</p>
-<p style="text-indent:2em;">
-乐（上海）有限公司(SIESH)在中国为广大消费者提供PlayStation@游戏主机及系列相关产品与服务。从1994年第一台PlayStation在日本诞生至今，Playstation系列通过创新的技术与体验设计为全球玩家不断带来惊喜。PlayStation家族系列产品及服务包含PlayStation®4,
-</p>
-<p style="text-indent:2em;">
-PlayStation®5, PlayStation@v, PRPlayStation ™Store, PlayStation@plus等,以及来自SIE全球知名工作室的广受好评的游戏软件。
 </p>          
 </div>
             
