@@ -1,0 +1,18 @@
+
+---
+title: 'Steam冬季促销：冷门国产武侠游戏——《天命奇御》&《天命奇御2》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/251570_k1HAY.jpg'
+author: 小黑盒
+comments: false
+date: Thu, 23 Dec 2021 19:03:15 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/251570_k1HAY.jpg'
+---
+
+<div>   
+<p>题外话，今天Steam开启了冬季促销，在之前两期推荐的《七日杀》及《森林》现已开启促销打折：</p><p><img data-gameid="251570" src="https://cdn.max-c.com/heybox/game/header/251570_k1HAY.jpg" referrerpolicy="no-referrer"></p><p><img data-gameid="242760" src="https://cdn.max-c.com/heybox/game/header/242760_In3ui.jpg" referrerpolicy="no-referrer"></p><p>想入手体验的盒友们可以冲一波了！！<a href="heybox://open_subject" target="_blank">#Steam冬促推荐#</a></p><hr><p>本期介绍的是一款国产武侠单机游戏——《天命奇御(Fate Seeker)》，这是一款由甲山林娱乐制作且由凤凰游戏发行的3D武侠角色扮演游戏。玩家为初入武林的少年柴朔风。经历重重遭遇后，绝处逢生的他竟成了天命之人，从此肩负起自身的江湖责任，穿梭在幽境祕地、游走于多线任务中。在该游戏中，玩家将面临武侠人生的挣扎抉择，是战或是降？是杀或是放？是睥睨天下还是淡入凡尘？每一个决定都将触发不同的爱恨纠葛的精彩奇遇。</p><p><br></p><p><img class="lazy" data-height="972" src="https://imgheybox.max-c.com/web/2021/12/23/77a68dba475baead33f444090176d59a/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="972" src="https://imgheybox.max-c.com/web/2021/12/23/b723e49bcf9dd75cf0bc508ce580c924/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p><p>现已打折37元，未到史低7元</p><p><img data-gameid="882790" src="https://cdn.max-c.com/heybox/game/header/882790_8ciKc.jpg" referrerpolicy="no-referrer"></p><h3>游戏特色：</h3><p><img class="lazy" data-height="972" src="https://imgheybox.max-c.com/web/2021/12/23/0a3e0f811220615d1a441e0134c1b5a4/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p><p><br></p><ul><li><b>多线程剧情推动，可探索自由度更广。</b>游戏采取多线程的剧情发展，使玩家自由选择合适的任务来推进主线，玩家的最终选择将会影响到整个剧情的变化。</li></ul><ul><li><b>可习得任意武学心法，自创连招战斗取胜。</b>在天命世界里，内功心法与武学招式套路都是源自于中华武学，每个玩家可以习得不同的内功心法，还可以可以自由搭配武学来修行，甚至可以自行组合连招来战斗，<b>战斗也绝非回合制，而是实时战斗。</b></li></ul><ul><li><b>拥有巨量丰富有趣的支线任务和隐藏剧情。</b>众多支线任务靠玩家自行解谜探索，解谜方式也千奇百怪。整体拥有众多精彩故事，会在玩家的探索下慢慢浮出水面。</li></ul><ul><li><b>独创八卦养成系统。</b>游戏独创的八卦养成系统，玩家可以参与到整个剧情的推动，根据玩家自身八卦养成内容触发剧情互动，一举一动将会影响到整个武林。</li></ul><ul><li><b>国内房地产商自己出资做出的武侠游戏，根正苗红的国产武侠游戏，同样是一款不可多得的优品武侠游戏，内含多女主的宅男体验，还不动心吗？</b></li></ul><h3>配置要求：</h3><p><b><br></b></p><p><img class="lazy" data-height="1207" src="https://imgheybox.max-c.com/web/2021/12/23/dfa69ddcc3caf1c9f3d088bc390093b9/thumb.jpeg" data-width="1053" referrerpolicy="no-referrer"></p><p><b>知名测评：</b></p><ol><li>游戏可供自由探索的武侠世界和足量的传闻任务，剧情环环相扣。摒弃了传统回合制的即时战斗也显现出该有的优势。喜欢国产武侠游戏的玩家不要错过。</li><li>《天命奇御》更像是现代武侠游戏中的一股“泥石流”，它冲破武侠游戏的条条框框，返璞归真，带着最纯粹、最原始的武侠魅力，洗刷了玩家们的内心，让玩家们重新拾起那份武侠热爱之情。</li></ol><h3>《天命奇御》系列作：</h3><p>《天命奇御2》已经发售，该作描写不羁少年诸葛羽为亲复仇的故事。还是由甲山林开发的原汁原味武侠3D游戏。我个人认为它保留了武侠游戏最精髓的那些内容——极具魅力的角色。结合北宋时期的一些真实情况，用爽快十足，却又不失深度的体验吸引到了当下的年轻用户用年轻化的思维，让黄金年代的武侠核心重现在了这个新的时代，他们有着一颗不迷茫的内心，非常清晰的知道“武侠”该走什么样的一条道路。<br></p><p><b>最近更新了可以自定义人物立绘的功能，会DIY的盒友们赶紧冲一波</b></p><p><img data-gameid="1559390" src="https://cdn.max-c.com/heybox/game/header/1559390_nyG2a.jpg" referrerpolicy="no-referrer"></p><p>本作虽没有打折促销，但也值得期待，目前Steam好评91%，无论是丰富且引人入胜的剧情，还是妙趣横生的支线任务，都能让我们体验到原汁原味的江湖，可比那些标榜着“会呼吸的江湖”、“高自由度的江湖”更值得一玩。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/23/7c119f01f40b9e28d99d7727345bb982/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/23/106836606420b7dd85c64f0c708ede16/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/23/960202ba68d607a0767284e661aadce7/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p>  
+</div>
+            
