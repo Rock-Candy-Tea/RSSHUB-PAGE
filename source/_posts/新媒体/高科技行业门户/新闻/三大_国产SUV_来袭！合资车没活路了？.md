@@ -1,0 +1,19 @@
+
+---
+title: '三大_国产SUV_来袭！合资车没活路了？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__bf4b7b754d929816360ebe4a8c3269b5.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 23 Dec 2021 01:46:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__bf4b7b754d929816360ebe4a8c3269b5.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">虽然说目前自主品牌在配置、设计等方面，都足以叫板，甚至超越合资品牌。不过在硬件层面，比如发动机与变速箱的匹配，如何做到动力强、油耗低，是目前大部分自主品牌车型所无法兼顾的。</p><p style="text-indent: 2em; text-align: left;">而这，恰恰是消费者最为关心的。</p><p style="text-indent: 2em; text-align: left;">在发动机匹配这块，国产品牌的经验是不足的。但其实，<span class="hrefStyle"><a href="https://www.ofweek.com/hydrogen/CAT-180825-neiranji.html" target="_blank" title="内燃机">内燃机</a></span>燃油性和动力性，天然就是一对矛盾。要解决这一短板，唯有加入电机辅助，在混合动力的加持下，油耗做低就相对简单了，特别是针对SUV车型，油耗上的优势就更为明显。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__bf4b7b754d929816360ebe4a8c3269b5.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">目前在售的国产混动SUV…能选择的确实是少，比较大牌的也只有<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E6%AF%94%E4%BA%9A%E8%BF%AA.HTM" target="_blank" title="比亚迪">比亚迪</a></span>宋系列（DM－i），还有魏派的咖啡系列（DHT混动）。不过，无需着急，接下来像吉利、奇瑞以及长安等大厂也将推出混动车型。下面，疆哥就带大家看看它们的实力到底如何！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__8fa7014b3991db8d3a78c02cee7302f1.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>1星越L混动版</strong></p><p style="text-indent: 2em; text-align: left;"><strong>混动技术：雷神智擎HI·X系统</strong></p><p style="text-indent: 2em; text-align: left;"><strong>上市时间：12月25日</strong></p><p style="text-indent: 2em; text-align: left;">星越L自推出之初，一直都是“明星车型”，月<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>基本都能稳在“万台”水平。对此，吉利也对星越L加了码，将最新推出雷神HI·X混动系统，首次配备在星越L上，并且将在12月25日正式开启预售。</p><p style="text-indent: 2em; text-align: left;">新车在外观内饰的设计上，基本与燃油版保持一致，只是在一些细节处做了调整，比如外观上的轮毂、前格栅以及徽标等，而内饰基本保持原样。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__7309851c3607976d4ae8027937f7cdec.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">星越L 混动</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__81b53293a6610bff61ef9c8d1a28076e.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最主要还是动力上，先说两个指标：百公里油耗4．3L，最大<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E9%87%8C%E7%A8%8B.HTM" target="_blank" title="续航">续航</a></span>里程1300km。</p><p style="text-indent: 2em; text-align: left;">之所以能做到如此高效，主要是搭载了一款热效率高达43．32％的DHE 15发动机（混动专属），最大功率110kW，峰值扭矩225N·m，配合电机驱动，其百公里加速成绩能去到7．9s。参考到它的尺寸（长宽高：4770＊1898＊1689mm）、油耗表现，这种加速能力，可以说令人满意了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__e5cb3901bd92f997e0aadf7533068200.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">值得一提的是，混合动力版本专属的DHT Pro变速箱，该变速箱虽然体积小（轴向354毫米），重量轻（重量120千克）、扭质比大（41N·m／kg）等优点。值得一提的是，雷神DHT Pro差速器端最大输出扭矩高达4920N·m。星越L作为一款家用SUV车型，这下子似乎也能满用户的越野需求。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member44896/202112/wx_article__23d84b9df19bddcd2896268268028da4.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作为雷神Hi·X混动系统的首款车型，遗憾的是，它并不支持插电。这也意味着它不能够上绿牌，对于部分有指标限制的消费者，它无法满足。当然，对于想要购买星越L的消费者可以再等等，低油耗、高续航这两个亮点还是相当吸引的。</p> 
+  
+</div>
+            
