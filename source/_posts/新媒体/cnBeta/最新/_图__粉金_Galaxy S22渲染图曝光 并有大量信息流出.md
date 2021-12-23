@@ -1,0 +1,21 @@
+
+---
+title: '_图__粉金_Galaxy S22渲染图曝光 并有大量信息流出'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1223/3dfdb6bd16edc9f.webp'
+author: cnBeta
+comments: false
+date: Thu, 23 Dec 2021 00:01:57 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1223/3dfdb6bd16edc9f.webp'
+---
+
+<div>   
+在分享了 Galaxy S22 Ultra 的官方宣传海报之后，<strong>荷兰科技媒体 LetsGoDigital 再次带来了“玫瑰金”版 Galaxy S22/S22+ 的高清渲染图，并提供了红色版 Galaxy S22 Ultra 的最新信息。</strong><br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1223/3dfdb6bd16edc9f.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● Galaxy S22/S22+新色叫做“粉金”</strong></p><p style="text-align: left;">一段时间以来，人们认为 S22/S22+ 将以 4 种颜色出现：黑色、白色、绿色和玫瑰金。除了比较有特别的绿色之外，最受关注的就是玫瑰金。而根据 Ahmed Qwaider（网名@AhmedQwaider888）的爆料，这第四款颜色并不叫“玫瑰金”（rose gold），而是叫做“粉金”（pink gold）。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1223/454528fc48a875a.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Ahmed 是一名在线评论员，定期发表智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>评论。他已经设法掌握了关于预期的 Galaxy S 系列的新信息，并与 LetsGoDigital 分享。除其他事项外，它涉及这种新的粉红金颜色的十六进制代码：#E2B9B3。一种新鲜的浅粉色，会很受年轻女孩欢迎。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1223/7f186f1ca2731d6.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">基于这些新信息，LetsGoDigital 设计师 Giuseppe Spinelli（又名 Snoreyn）创造了一系列<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a> Galaxy
+S22 的 3D 图像，并将其可视化为"粉金"。本周早些时候，LetsGoDigital 还制作了 Galaxy S22 Ultra
+绿色、红色和"土耳其粉"的渲染图。</p><p style="text-align: left;"><strong>● Galaxy S22 系列背面配防指纹哑光玻璃</strong></p><p style="text-align: left;">机身背面，Ahmed 表示新款 Galaxy S22 系列将采用防指纹玻璃，其保护层比应用于 Galaxy S21 / S21+ 的保护层好 12.5%。当然，新的高端机型也将具有 IP68 认证的防尘防水功能。</p><p style="text-align: left;">所有三款 S22 设备都将有一个哑光的表面。后者还向 LetsGoDigital 证实了前三星员工 Super Roader 透露的信息。例如，磨砂背板不容易沾染指纹，也感觉不那么滑。</p><p style="text-align: left;"><strong>● Galaxy S22 系列电池容量</strong></p><p style="text-align: left;">这并不是 Ahmed Qwaider 设法掌握的唯一信息。他还向我们提供了一些关于电池的信息。这方面的不确定性已经存在很长时间了。现在，我们可以确认如下。</p><p style="text-align: left;">- 三星Galaxy S22 : 3,700 mAh电池 - 25W快速充电</p><p style="text-align: left;">- 三星Galaxy S22 Plus : 4,500 mAh电池 - 45W快速充电</p><p style="text-align: left;">- 三星Galaxy S22 Ultra : 5,000 mAh电池 - 45W快速充电</p><p style="text-align: left;">这意味着谈论了这么久的65W充电器并不适用S22系列。此外，该小道消息证实了网上已经出现的关于显示屏亮度和摄像头规格的信息。</p><p style="text-align: left;"><strong>● Galaxy S22 系列屏幕</strong></p><p style="text-align: left;">Galaxy S22将获得一个6.1英寸的AM<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a>显示屏，具有1000尼特，峰值亮度为1300尼特。6.6英寸的Galaxy S22+和6.8英寸的S22 Ultra都有1200尼特的标准亮度和1750尼特的峰值亮度。</p><p style="text-align: left;"><strong>● Galaxy S22 系列相机规格</strong></p><p style="text-align: left;">在相机规格方面，Ahmed 报道说，Ultra 型号将配备一个更新的 1.08 亿像素的相机，一个 1200 万像素的超广角相机，以及两个 1000 万像素的长焦相机，具有3倍和10倍光学变焦。对于前置摄像头，将再次使用一个 4000 万像素的图像传感器。</p><p style="text-align: left;">基本款和Plus款将有一个 5000 万像素的主摄像头，一个1200万像素的超广角摄像头和一个1000万像素的长焦摄像头，带有3倍光学变焦。这两款S系列机型将有一个1000万像素的前置摄像头，就像它们的前辈一样。</p><p style="text-align: left;"><strong>● Galaxy S22 Ultra 勃艮第红回来了</strong></p><p style="text-align: left;">Ahmet Qwaider 向 LetsGoDigital 透露的另一个值得注意的细节是红色 Galaxy S22 Ultra 的官方名称。它被称为“Burgundy”。这并不是第一次在网上出现这一称呼，10 月份 @i冰宇宙在网上发布了一条推文，称“勃艮第红回来了”。这种流行的颜色也被三星用于Galaxy S8 / S9。要清楚的是，这是与三星营销海报中看到的粉色/玫瑰色/紫色变体不同的型号。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1223/cca5e7c31868dcd.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">虽然现在大部分规格和设计特点都已知道，但更多细节无疑将在未来几天和几周内出现。预计三星将在2月的第二周正式宣布新的S系列智能手机。发布会将在2月第三周或最后一周的星期五举行。</p><p>以上图片均来自于 <a href="https://nl.letsgodigital.org/smartphones/samsung-galaxy-s22-pink-gold/">https://nl.letsgodigital.org/smartphones/samsung-galaxy-s22-pink-gold/</a></p>   
+</div>
+            
