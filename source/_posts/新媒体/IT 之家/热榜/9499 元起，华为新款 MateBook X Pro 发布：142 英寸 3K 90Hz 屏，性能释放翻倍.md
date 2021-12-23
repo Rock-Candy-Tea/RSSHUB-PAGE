@@ -1,0 +1,19 @@
+
+---
+title: '9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/12/94839783-971b-473b-a620-9ed61f5691cd.png'
+author: IT 之家
+comments: false
+date: Thu, 23 Dec 2021 08:57:51 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/12/94839783-971b-473b-a620-9ed61f5691cd.png'
+---
+
+<div>   
+<p data-vmark="1311"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 12 月 23 日消息，今天，华为发布了新款 MateBook X Pro 笔记本，搭载了 14.2 英寸屏幕，搭载英特尔 i5-1155G7 和 i7-1195G7 处理器，性能释放翻倍，售价 9499 元起。</p><p data-vmark="e6b2"><img src="https://img.ithome.com/newsuploadfiles/2021/12/94839783-971b-473b-a620-9ed61f5691cd.png" w="1252" h="684" alt="笔记本" title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="1252" height="448" referrerpolicy="no-referrer"></p><p data-vmark="b3a3">华为表示，新款 MateBook X Pro 采用了迄今为止华为笔记本上最好的屏幕，92.5% 高屏占比，3120*2080 分辨率，90Hz 刷新率，500nit 亮度，P3 广色域。华为称，这款笔记本采用 3D Lut 专业校色方案，德国莱茵 TÜV 专业级双色域色准认证，色差 Delta E 小于 1。</p><p data-vmark="9441"><img src="https://img.ithome.com/newsuploadfiles/2021/12/c7cc5895-09f3-42e3-9ef1-b0d2b992a87e.png" w="982" h="364" alt title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="982" height="304" referrerpolicy="no-referrer"></p><p data-vmark="b1e1">新款 MateBook X Pro 上边框窄至 6mm，还容纳了一颗极点摄像头。</p><p data-vmark="01b5"><img src="https://img.ithome.com/newsuploadfiles/2021/12/0964d122-d607-45a3-b16a-0ffe33366e05.jpg@s_2,w_820,h_273" w="1440" h="480" alt title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" srcset="https://img.ithome.com/newsuploadfiles/2021/12/0964d122-d607-45a3-b16a-0ffe33366e05.jpg 2x" width="1440" height="273" referrerpolicy="no-referrer"></p><p data-vmark="2126">设计方面，新款 MateBook X Pro 可选皓月银、深空灰、翡冷翠配色，1.38kg 重，最厚处 15.5mm。</p><p data-vmark="3544"><img src="https://img.ithome.com/newsuploadfiles/2021/12/09b01235-ff8c-4a4e-86e9-07e3a83fe3ce.png" w="1138" h="492" alt title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="1138" height="355" referrerpolicy="no-referrer"></p><p data-vmark="06be">新款 MateBook X Pro 在性能释放上有了较大提升，双风扇、三进风口设计，配备超薄风冷 VC，散热性能提升 100%。</p><p data-vmark="0cb3"><img src="https://img.ithome.com/newsuploadfiles/2021/12/3cd1fd23-3e8e-4c9d-92ac-9baa7bed5955.png" w="882" h="488" alt title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="882" height="454" referrerpolicy="no-referrer"></p><p data-vmark="1bc3">性能方面，新款 MateBook X Pro 相比老款性能释放翻倍，达到 30W。</p><p data-vmark="9f1a"><img src="https://wx4.sinaimg.cn/mw2000/0020sXlVgy1gxnuwjd2dzj62bc0rs7b202.jpg" alt class="lazy" title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" referrerpolicy="no-referrer"></p><p data-vmark="91eb">新款 MateBook X Pro 采用压力触控板，支持多种便捷手势，隔空也能操作。</p><p data-vmark="a6ab"><img src="https://wx2.sinaimg.cn/mw2000/0020sXlVgy1gxnuwjlu2xj62bc0rsn2p02.jpg" alt class="lazy" title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" referrerpolicy="no-referrer"></p><p data-vmark="c7ab">新款 MateBook X Pro 搭载 HUAWEI SOUND 6 扬声器，背靠背设计。</p><p data-vmark="3911"><img src="https://img.ithome.com/newsuploadfiles/2021/12/5bef4ff1-cb98-44fb-86f7-3b4cf8ef9030.png?x-bce-process=image/resize,w_1218,h_404" w="1218" h="404" alt title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="1218" height="272" referrerpolicy="no-referrer"></p><p data-vmark="6c77">其他方面，这款笔记本配备 90W GaN 充电器，首发搭载华为超级终端，支持多设备一拉即合、数据流转、文件同步、硬件能力共享。</p><p data-vmark="6977">价格方面，新款 MateBook X Pro i5/16GB / 512GB 版售价 9499 元，i7/16GB / 512GB 售价 10499 元，i7+16GB+1TB 售价 12499 元。12 月 23 日预售，1 月 6 日开售。</p><p data-vmark="2a1e"><img src="https://img.ithome.com/newsuploadfiles/2021/12/c15b1117-ab3a-449d-a136-35858662ac99.png" w="1162" h="352" alt="华为笔记本" title="9499 元起，华为新款 MateBook X Pro 发布：14.2 英寸 3K 90Hz 屏，性能释放翻倍" width="1162" height="248" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
