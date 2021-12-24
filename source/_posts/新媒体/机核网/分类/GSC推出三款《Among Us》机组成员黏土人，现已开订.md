@@ -8,16 +8,16 @@ categories:
 headimg: 'https://image.gcores.com/54b7e551-4c28-4bac-81ea-dd4dfd01cbd6.jpg'
 author: 机核网
 comments: false
-date: 2021-12-24 12:13:03
+date: 2021-12-24 13:17:48
 thumbnail: 'https://image.gcores.com/54b7e551-4c28-4bac-81ea-dd4dfd01cbd6.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/54b7e551-4c28-4bac-81ea-dd4dfd01cbd6.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-53iun" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="53iun" data-offset-key="21arn-0-0"><div data-offset-key="21arn-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="21arn-0-0"><span data-text="true">2018年推出的太空狼人杀游戏《Among Us》在去年大火。除了优秀的玩法设计，游戏里机组成员的形象也为玩家所喜爱，在网上也诞生了不少Meme图。如今GSC黏土人系列将推出三款机组成员，分别是红色、青色、黑色。只能说黏土人的风格太适合《Among Us》了……</span></span></div></div>
+<img src="https://image.gcores.com/54b7e551-4c28-4bac-81ea-dd4dfd01cbd6.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-dm3jb" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="dm3jb" data-offset-key="21arn-0-0"><div data-offset-key="21arn-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="21arn-0-0"><span data-text="true">2018年推出的太空狼人杀游戏《Among Us》在去年大火。除了优秀的玩法设计，游戏里机组成员的形象也为玩家所喜爱，在网上也诞生了不少Meme图。如今GSC黏土人系列将推出三款机组成员，分别是红色、青色、黑色。只能说黏土人的风格太适合《Among Us》了……</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/2c33a19c-78d0-4563-ae98-f3c6b5a95c8e.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="53iun" data-offset-key="460a2-0-0"><div data-offset-key="460a2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="460a2-0-0"><span data-text="true">机组成员全高约10厘米，单只定价4290日元，预计将于2022年9月出货。每个机组成员都可以从中间分开，配合骨头特效件还原游戏中被害倒地的姿态。配合透明支架与手型，也可以做出“嘘”和指证动作。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="dm3jb" data-offset-key="460a2-0-0"><div data-offset-key="460a2-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="460a2-0-0"><span data-text="true">机组成员全高约10厘米，单只定价4290日元，预计将于2022年9月出货。每个机组成员都可以从中间分开，配合骨头特效件还原游戏中被害倒地的姿态。配合透明支架与手型，也可以做出“嘘”和指证动作。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/84a9e3ea-ae4b-4929-852a-04a3f10cf965.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/5) </figcaption>
@@ -127,6 +127,6 @@ thumbnail: 'https://image.gcores.com/54b7e551-4c28-4bac-81ea-dd4dfd01cbd6.jpg'
 <img src="https://image.gcores.com/70709636-bebb-446e-97bd-2c50824f2d03.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (7/7) </figcaption>
 </figure>
-            <div class="story_block-spoiler d-none" data-block="true" data-editor="53iun" data-offset-key="dkd65-0-0"><div data-offset-key="dkd65-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dkd65-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block-spoiler d-none" data-block="true" data-editor="dm3jb" data-offset-key="dkd65-0-0"><div data-offset-key="dkd65-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dkd65-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
