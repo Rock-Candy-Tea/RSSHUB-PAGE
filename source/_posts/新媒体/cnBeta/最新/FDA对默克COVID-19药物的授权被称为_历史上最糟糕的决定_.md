@@ -1,0 +1,19 @@
+
+---
+title: 'FDA对默克COVID-19药物的授权被称为_历史上最糟糕的决定_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1002/9205f4190213848.jpg'
+author: cnBeta
+comments: false
+date: Fri, 24 Dec 2021 01:59:38 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1002/9205f4190213848.jpg'
+---
+
+<div>   
+<strong>美国食品和药物管理局（FDA）已经向第二种口服COVID-19治疗药物发出紧急使用授权。这种新药被称为Molnupiravir，不如辉瑞公司最近批准的COVID抗病毒药有效</strong>，许多专家认为FDA一开始就不应该授权使用这种药物，因为它有可能产生新的SARS-CoV-2变体。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1002/9205f4190213848.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/1002/9205f4190213848.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">就在几个月前，由制药巨头默克公司开发的molnupiravir被认为是一种“改变游戏规则”的新药，可以扭转这种大流行的趋势。它是首批直接针对SARS-CoV-2的抗病毒药物之一，初步的3期试验公告表明其疗效很好。</p><p style="text-align: left;">但随着几周的时间过去，molnupiravir迅速失去了关注。辉瑞公司的新型抗病毒药片凭借令人印象深刻的临床试验数据迅速占据了领先地位，而对molnupiravir的第三阶段数据的最终分析显示，其有效性明显下降，降至接近无意义的水平。</p><p style="text-align: left;">辉瑞公司的最终试验分析报告显示，其药物可将COVID-19住院或死亡的风险降低近90%，而molnupiravir的有效性从中期分析到最终报告却奇怪地下降了。最初，默克公司宣布molnupiravir对COVID-19的住院或死亡提供了大约50%的保护，但几周后的最终试验分析显示，有效性下降到几乎不到30%。</p><p style="text-align: left;">除了令人失望的疗效数据，人们开始对该药物的安全性产生疑问，包括个人和社会层面。</p><p style="text-align: left;">Molnupiravir是一种与辉瑞公司的COVID抗病毒药物Paxlovid非常不同的药物。辉瑞公司的药物专门针对SARS-CoV-2，致力于抑制该病毒复制所需的一种关键酶的活性。另一方面，molnupiravir则针对一般的RNA病毒。它最初是在2018年开发的，作为治疗流感的工具，实验室工作显示它可能对其他RNA病毒起作用，包括埃博拉病毒和第一个SARS冠状病毒。</p><p style="text-align: left;">它的工作原理是在病毒复制时产生转录错误。这基本上是在病毒复制时产生大量的下游突变，这很快导致了病毒副本的重大功能障碍。</p><p style="text-align: left;">虽然在molnupiravir的3期临床试验中没有明显的不良反应报告，但其特殊的作用方式让一些专家感到担忧，他们认为这种诱变机制理论上可能会在一些快速生长的人类细胞中造成问题。当FDA的一个咨询小组在11月底对molnupiravir的安全性和有效性进行辩论时，他们提出的主要安全问题是该药物是否应该提供给孕妇。</p><p style="text-align: left;">独立咨询小组最终投票建议批准molnupiravir，但结果远非一致。13比10的投票结果导致默克公司的一位代表在会上申明，该公司不会建议孕妇服用这种药物。然而，该代表也表示，这些决定应该由患者和他们的医生之间的对话来做出。</p><p style="text-align: left;">据报道，默克公司的代表说：“我们不建议在怀孕期间使用该药，我们也建议育龄妇女采取避孕措施。但我认为这里的想法是，最终医生是决定他们的病人的相对风险利益的最佳人选。”</p><p style="text-align: left;">在FDA宣布molnupiravir紧急使用授权的声明中，它承认该药物可能对胎儿造成伤害，但没有完全不允许孕妇使用该药物。</p><p style="text-align: left;">FDA声明指出：“只有在开具处方的医疗服务提供者确定使用molnupiravir治疗的益处大于该病人的风险，并且开具处方的医疗服务提供者已经向孕妇传达了怀孕期间使用molnupiravir的已知和潜在益处以及潜在风险之后，molnupiravir才被授权开给孕妇。”</p><p style="text-align: left;">在 FDA 宣布molnupiravir紧急使用授权的声明中，它承认该药物可能对胎儿造成伤害，但并未完全禁止孕妇服用该药。</p><p style="text-align: left;">除了有效性或个体安全性问题外，一些专家还质疑molnupiravir的致突变作用方式是否会加速出现新变体的机会。理论上，一种有意迫使病毒变异的药物可能会产生不会杀死病毒但会使其变得更具毒性的突变。</p><p style="text-align: left;">在现阶段，这种担忧完全是理论上的，但这是一个问题。梅哈里医学院的 HIV 研究人员 James Hildreth 是 FDA 咨询小组中表达这一担忧的最有力的人之一。他投票反对推荐molnupiravir，并表示默克公司在明确量化这种潜在风险方面做得还不够。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1224/a108b4ed716c3a4.png" alt="F6`~9YC1(]Z@JK$FI$H4@NO.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">“即使可能性非常低，万分之一或十万分之一，这种药物会诱导我们拥有的疫苗没有涵盖的逃逸突变体，这对整个世界来说都是灾难性的，”Hildreth 说。</p><p style="text-align: left;">Hildreth 最近表示，他对 FDA 最终批准该药物感到困惑。Hildreth 在 Twitter 上问道，既然现在有另一种 COVID-19 药丸效果更好且没有这些风险，为什么要批准一种只有 30% 的疗效、已知的先天缺陷风险和可能导致病毒突变的药物？</p><p style="text-align: left;">斯坦福大学的神经生物学家Michael Lin在批评 FDA 的molnupiravir授权时更为坦率，称其为“其历史上最糟糕的决定”。Michael争辩说，从来没有像molnupiravir这样的药物被批准广泛使用，而且已经开发出更有效、更安全的替代品。</p><p style="text-align: left;">“我们还没有排除最坏的情况是 MOV（molnupiravir） 将导致多年的新变体，人们拼命用它来对抗它产生的新变种，形成恶性的正反馈循环，同时造成无数痛苦和死亡，”Michael在Twitter上写道。“例如，在默克令人信服地告诉我们每 1000 名患者中有多少功能性突变体被创造并传播给他们的家庭成员之前，这还不够严峻以推迟这个决定吗？”</p><p style="text-align: left;">FDA 表示，它已经权衡了molnupiravir的风险与收益，并认为值得考虑 COVID-19 大流行的当前状态。这清楚地表明，这并不是完全批准molnupiravir，而是一项有限的紧急使用授权，仅限于 18 岁以上、严重 COVID-19 高风险且无法获得替代治疗的成年人使用。</p><p style="text-align: left;">“基于 FDA 对所有可用科学证据的审查，该机构确定，当替代 COVID- FDA 授权的 19 种治疗方案无法获得或临床上不合适，”FDA 的声明中写道。“该机构还确定，当按照授权条款和条件使用时，molnupiravir 的已知和潜在益处超过了该产品的已知和潜在风险。</p>   
+</div>
+            
