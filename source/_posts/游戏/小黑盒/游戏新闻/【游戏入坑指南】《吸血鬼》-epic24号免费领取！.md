@@ -1,0 +1,18 @@
+
+---
+title: '【游戏入坑指南】《吸血鬼》-epic24号免费领取！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/427290_glghM.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 24 Dec 2021 00:42:22 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/427290_glghM.jpg'
+---
+
+<div>   
+<p>各位没睡的兄弟大家晚上好<span data-emoji="cube_乖" class="hb-emoji"></span>今天epic也是如预测一般送出了《吸血鬼》这款游戏，那么这款游戏是什么类型的游戏，评价如何呢，船在这里给大家快速介绍帮助大家了解是否值得游玩：</p><p>epic领取链接：<a href="https://www.epicgames.com/store/zh-CN/p/vampyr" target="_blank">点我免费领取《吸血鬼》</a></p><p><img data-gameid="427290" src="https://cdn.max-c.com/heybox/game/header/427290_glghM.jpg" referrerpolicy="no-referrer"></p><p>steam原价：148元</p><p>steam评价：<b>多半好评（74%好评）</b></p><p>小黑盒评分：<b>7.6分</b></p><p>游戏背景：第一次世界大战爆发后，伦敦瘟疫蔓延，死尸无数。主人公原本是一名医生，在被人谋杀后意外变成了吸血鬼，失手将妹妹杀死。为了寻找真相，主人公踏入了救人（生前发誓作为医生救人）与杀人（吸血鬼对鲜血的渴望）的矛盾冒险。</p><blockquote><p>游戏截图：</p></blockquote><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/23/9823577d797466d83175f24a3bb213fa/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/23/4d726191a9f8e057a64a9cbfc8367a33/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/23/ec8dbb1cc1fa9c14cb7d798daea39626/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2021/12/23/440b0778ad74df6c260b24c4397151a8/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>作者入坑指南：</p><ul><li>    1.游戏<b>剧情丰富</b>，从游戏背景就可以看出这个故事十分具有吸引力。同时身为医生与吸血鬼的矛盾设定使剧情精彩绝伦。</li></ul><ul><li>    2.玩法也十分有趣，游戏的剧情发展（游戏有四个结局）取决于玩家的选择。游戏中“地区健康值”的设定也让玩家在救人与血拥（吃人）之间的选择变得沉重。</li></ul><ul><li>    3.因为是吸血鬼，所以游戏时间大多在晚上，气氛阴暗。</li></ul><blockquote><p>地区健康值：健康度高时商品更加便宜，血拥NPC所获得的经验越高。健康度低时地区居民会失踪甚至变异成血魔。过低时整个区的人全部死亡，该地区变成只剩血魔的死寂残破之地。</p></blockquote><ul><li>    4.血拥了NPC后与之相关的一切任务将全部消失，这又是一个让玩家抉择的地方。</li></ul><ul><li>    5.游戏的战斗系统相比剧情逊色许多。单一（性质差不多）的武器，单调固定的攻击方式，打击感稍显不足，锁敌系统更是让人不适应。但吸血鬼隐身，以及战斗中吸血的设定还是比较有吸引力的。</li></ul><ul><li>    6.游戏跑图比较复杂麻烦</li></ul><ul><li>    7.半开放式地图</li></ul><ul><li>    8.最终boss的难度与玩家血拥人数有关。</li></ul><p>总评：《吸血鬼》是一部<b>剧情极佳</b>，引人深思的一款游戏。全游戏充满着<b>道德的抉择</b>：是做一名为良救世的医生，让伦敦摆脱瘟疫的苦痛；还是做一名为恶嗜血的吸血鬼，让伦敦成为苦痛死亡的地狱，皆在玩家一念之间。强大的力量与城市的和平不可兼得，蕴意深重。游戏中的人物形象都塑造十分饱满，每个NPC都有独属的任务，让这个游戏宛如一部电影精彩。但战斗系统僵硬的手感使游戏少了一份精彩。</p><p>如果你期待的是一场爽快的吸血鬼屠杀盛宴，可能这个游戏打不到你理想中的畅快。如果你想要体验一次深刻的夜行之旅，经历两难的抉择，那么《吸血鬼》绝对值得你细细品尝。</p><p><a href="heybox://open_subject" target="_blank">#epic特卖游戏推荐#</a>    <a href="heybox://open_subject" target="_blank">#epic#</a>   <a href="heybox://open_subject" target="_blank">#Epic喜加一#</a>  <a href="heybox://open_subject" target="_blank">#吸血鬼#</a> <br></p><p>往期游戏入坑介绍：</p><p><a href="https://www.xiaoheihe.cn/community/1/list/75629106" target="_blank">《伊森卡特的消失》入坑指南</a><br></p><p><a href="https://www.xiaoheihe.cn/community/1/list/75653391" target="_blank">《循环英雄》入坑指南</a><br></p><p><a href="https://www.xiaoheihe.cn/community/1/list/75683326" target="_blank">《二次灭绝》入坑指南</a><br></p><p><a href="https://www.xiaoheihe.cn/community/1/list/75716494" target="_blank">《突变元年：伊甸之路》入坑指南</a><br></p><p><b>文章不易，如果觉得船写的对各位有帮助的话请给一个免费的赞和电池鼓励一下船<span data-emoji="cube_感动" class="hb-emoji"></span><span data-emoji="cube_感动" class="hb-emoji"></span></b></p><h2>谢谢各位了</h2><p><img class="lazy" data-height="undefined" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" data-width="undefined" referrerpolicy="no-referrer"></p>  
+</div>
+            
