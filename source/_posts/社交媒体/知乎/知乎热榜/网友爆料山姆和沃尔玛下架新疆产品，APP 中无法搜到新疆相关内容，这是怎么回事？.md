@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-2343ac51f54a7abf53b941f89d066b10_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8371'
 author: 知乎
 comments: false
-date: Fri, 24 Dec 2021 08:00:45 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-2343ac51f54a7abf53b941f89d066b10_1440w.jpg'
+date: Fri, 24 Dec 2021 08:27:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8371'
 ---
 
 <div>   
-一只羊的回答<br><br><p data-pid="N-25OBa8">刚亲自试了一下确实是真的。</p><p data-pid="DQfdziEo">搜索新疆葡萄干，出来也是加州的。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2343ac51f54a7abf53b941f89d066b10_1440w.jpg" data-rawwidth="1170" data-rawheight="606" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-b3297c5916f1b062404c3d6dbe323233_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-2343ac51f54a7abf53b941f89d066b10_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="o9ugmC65">求求各位网友别帮他们找理由了。</p><p data-pid="hW1x64DT">有些人说他们如果不这样做将会面临罚款。</p><p data-pid="Sx3zvyMX">拜托，他们现在不就是在中国的土地上卖东西赚中国人的钱吗？</p><p data-pid="hws2Jih0"><b>还有人说人家卖什么我们也要管？</b></p><p data-pid="BW6nNrwQ">我是不知道别的渠道也能买到新疆产品？</p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-97fb4424ef36ed79eb324e554a552648_1440w.jpg" data-rawwidth="565" data-rawheight="565" data-size="small" data-default-watermark-src="https://pic3.zhimg.com/v2-5908e5e48107fb8f9b9ab8ce5dac580b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-97fb4424ef36ed79eb324e554a552648_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="dQfEjVGo">这些企业吃中国饭还要砸中国碗，你们还有脸说得出口。</p><p data-pid="KY1GJZ3Y">确实，现在的处境好像是如果他放新疆产品，那边就会惩罚他们，如果不放我们势必会不平和反对。</p><p data-pid="owunkNQH">既然他们这么无辜和矛盾，这生意就别做了。好像我们欠了他们什么一样。</p><p data-pid="SBuPxgAu">我倒是希望他们能赶紧出来回应，不要躲在背后装死。</p><p data-pid="Ij8-9SsR">麦德龙正愁不知道怎么推广呢，这机会就来了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-098b2737607cdf0307c21dc058a55950_1440w.jpg" data-rawwidth="1079" data-rawheight="1814" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic4.zhimg.com/v2-5f61a64406fd096f3ab9341546784f9c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-098b2737607cdf0307c21dc058a55950_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="VSYfKXcC">就算是抓着这点营销，我也认了，谁让它支持新疆产品呢。</p><p data-pid="bFKpZwWy">我想说的是中国超市这么多，并不是没有山姆沃尔玛就买不了东西了。</p><p data-pid="bKESt4O8">好的超市到处都是，立场有问题的我们坚决不要。</p><p data-pid="mLkOi1FS">希望大家说抵制的，不是随便说说而已，而是能真的做到。</p><h3>在中国做生意还敢整这出，886 ～</h3>  
+斯帕不爱卷的回答<br><br><p data-pid="Vz7r68KE">我个人的感觉是，希望从官方层面，改变“抵制抵制，回归过去”的现状。</p><p data-pid="zfNMKD1o">不管是intel还是沃尔玛，他们至少有个借口，就是美国政府颁布了法令要求了各种无理限制。</p><p data-pid="Wmae1X5v">也就是说，这已经到了一个抵制也没办法：</p><p data-pid="zd2WbBCA">1、让其长期低头</p><p data-pid="raKFpbx4">2、让其他企业不敢再这样。</p><p data-pid="VAUoxnbe">而会形成按下葫芦浮起瓢，此起彼伏的情况。</p><p data-pid="FSmk-F8b">人民群众的力量当然是巨大的，但是抵制需要所有人的共同努力，这其中就包括了很多不可控的因素，例如有的人不抵制，有的东西具有特殊性没法抵制。</p><p data-pid="5pVYxX2N">这时候，如果能从法理层面，要求一些企业满足“合理不歧视”的要求，方可以正常营业，应该是三赢局面</p><p data-pid="HYAeIdnJ">1、对于国内监管来说，有法可依，不用总是要解释“这是合理的”，也避免一些跪下去的汉奸混淆视听；</p><p data-pid="sNuncbKV">2、对于这些企业来说，做任何不合理的决定都需要提高成本。如山姆发生这事儿，第二天调查，第三天全国停业。你看看，你愿意下架遵守美国法律，中国法律就会让你遭受经济损失。那么这时候，企业就会从单方面寻找中国漏洞，变成寻找中美漏洞，从而实现平衡。如intel和amd，amd就更模糊，而intel就肆无忌惮。</p><p data-pid="zIU5eQ4B">3、从民众来说，买东西也不需要有太多的心理负担，不然今天抵制这个，明天抵制那个，一是心理压力大，二是有时候自己也不确定该不该抵制，毕竟不是人人时刻上网关注哪个企业做了什么。但是我相信爱国的人是大多数，应该要保护我们这些大多数。</p><p data-pid="Ruscnk03">回到本题，对于无法替代的商品和技术，我们采用模糊化的策略无可厚非，博弈本就是复杂的。总不可能用自己更大的损失去换对方小的损失。但是对于山姆这种可替代的消费渠道，完全可以从法理层面禁止其对新疆产品的歧视，让其衡量只遵守美国而不遵守所在国的经济损失是否值得他接受。</p>  
 </div>
             
