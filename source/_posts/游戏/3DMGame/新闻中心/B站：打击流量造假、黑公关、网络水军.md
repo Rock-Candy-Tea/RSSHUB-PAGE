@@ -17,10 +17,8 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211225/1640400527_4237
 昨日（12月24日），Bilibili官方发布《清朗・打击流量造假、黑公关、网络水军专项整治公告》，B站在公告中指出，为落实中央网信办关于“清朗・打击流量造假、黑公关、网络水军”的专项工作要求，在上海市委网信办指导下，即日起开展专项整治行动，深入清理违规乱象。
 </p>
 <p align="center">
-</p><p>
 <img src="https://img.3dmgame.com/uploads/images/news/20211225/1640400527_423704.jpg" alt="B站：打击流量造假、黑公关、网络水军" referrerpolicy="no-referrer">
 </p>
-<p></p>
 <p style="text-indent:2em;">
 <strong>整治的重点包括：</strong>
 </p>
