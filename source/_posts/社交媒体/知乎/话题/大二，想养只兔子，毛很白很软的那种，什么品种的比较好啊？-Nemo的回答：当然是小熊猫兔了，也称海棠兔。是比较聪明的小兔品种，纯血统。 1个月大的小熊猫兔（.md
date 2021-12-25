@@ -1,0 +1,18 @@
+
+---
+title: '大二，想养只兔子，毛很白很软的那种，什么品种的比较好啊？-Nemo的回答：当然是小熊猫兔了，也称海棠兔。是比较聪明的小兔品种，纯血统。 1个月大的小熊猫兔（...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-db78810957b2c3da630f00a26b7471da_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 25 Dec 2021 04:37:46 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-db78810957b2c3da630f00a26b7471da_1440w.jpg'
+---
+
+<div>   
+<strong>大二，想养只兔子，毛很白很软的那种，什么品种的比较好啊？</strong><br>Nemo的回答<br><p data-pid="X9Np3wPF">当然是小熊猫兔了，也称海棠兔。是比较聪明的小兔品种，纯血统。</p><p data-pid="fKpGRc_Z">1个月大的小熊猫兔（男孩）年龄小感情好培养</p><p data-pid="ezRY59v4">为兔子准备的一切已备好 </p><p data-pid="hoXHXmql">1水瓶、2水瓶托、3兔兔厕所、4兔兔吃饭吃草一体式食盆、5兔兔休息窝、6提摩西草一袋、7另一袋草忘了名字了、8第三袋草也忘了名字了混着吃没事（共三袋）、9宠物专用木屑、10宠物专用柠檬香味垫砂、11兔兔全阶段性兔粮、12兔兔果树味磨牙棒一袋、13兔兔专属磨牙饼干三袋，14最后价值280元的可食用喷漆的笼子。</p><p data-pid="yr0R7YzQ">适合新手养兔，各种物品已备全。兔兔不咬人不闹无病</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-db78810957b2c3da630f00a26b7471da_1440w.jpg" data-rawwidth="1080" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-88d6cd5fa5e75ac96a34038c8b814142_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-db78810957b2c3da630f00a26b7471da_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="yr0R7YzQ" class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-52fd6de855a5eed044cb3a9748e53eb1_1440w.jpg" data-rawwidth="2568" data-rawheight="1926" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-a642321a4beb973661ec0aa39c3ce06c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-52fd6de855a5eed044cb3a9748e53eb1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="yr0R7YzQ" class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ac3ca4d0cb1eec5f43f9c8c47dba352f_1440w.jpg" data-rawwidth="2568" data-rawheight="1926" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-f0056da5a444cac676d799d0b34dfb81_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ac3ca4d0cb1eec5f43f9c8c47dba352f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="yr0R7YzQ" class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-242cf0886c83b37f2d8e0ed671fbc62d_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-6bfd1e0a5c34ea7efeddfc3079d63858_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-242cf0886c83b37f2d8e0ed671fbc62d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="TFVdZXQo">我买的时候兔兔加全套配件14件套一共是680元，在宠物店买的，你想要的话，看你是大学生，给你便宜一百块钱，就给你吧，但是要好好对兔兔哦，不能吃它！</p><p data-pid="e9Ks7agK">⭕️现价：580rmb</p><p data-pid="JD-2FEyk">在等什么只需580就能把兔兔与兔兔大礼包带回家。尽限自提，地点天津南开区</p><p data-pid="9J2x5S75">看见的可以帮忙转发，途径可以走闲鱼，有意者请咨询微信</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-05766dc535c1010e551fe17fcc080041_1440w.jpg" data-rawwidth="1011" data-rawheight="1326" data-size="normal" data-qrcode-action="hide" data-default-watermark-src="https://pic1.zhimg.com/v2-48a59a4468a51bfbca31c21231091e70_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-05766dc535c1010e551fe17fcc080041_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="9J2x5S75"></p><p data-pid="yr0R7YzQ"></p>  
+</div>
+            
