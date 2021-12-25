@@ -24,7 +24,7 @@ Adachi其实是对CE参数进行了一些调整，玩家在使用之后便可以
 <img src="https://img.3dmgame.com/uploads/images/news/20211225/1640394951_232373.jpeg" alt="战斗更轻松 玩家自制《最终幻想7：重制版》视距MOD" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-玩家可以点此下载这款视距调整MOD，该MOD需要Cheat Engine的支持。
+玩家可以<a href="https://www.nexusmods.com/finalfantasy7remake/mods/97?tab=description" target="_blank"><strong><span style="color:#E53333;">点此下载</span></strong></a>这款视距调整MOD，该MOD需要Cheat Engine的支持。
 </p>
 <p style="text-indent:2em;">
 演示视频：
