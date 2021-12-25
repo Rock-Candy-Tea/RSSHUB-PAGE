@@ -1,0 +1,19 @@
+
+---
+title: '本田确认思域 Type R 原型将在明年 1 月亮相'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1225/742db7c3f9c85ff.webp'
+author: cnBeta
+comments: false
+date: Sat, 25 Dec 2021 01:49:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1225/742db7c3f9c85ff.webp'
+---
+
+<div>   
+<strong>本周四，本田确认思域 Type R 原型将在明年 1 月亮相。</strong>本田将在 1 月 14 日开幕的 2022 年东京汽车沙龙上展示其最热门的孵化版本。但这并不是最终商用的 Type R 版本，本田表示，它将展示一辆“穿着特殊伪装”的 Type R 原型车。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/742db7c3f9c85ff.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/0547bda59215f5b.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/8eb713f554a1568.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/75fdc54641f3a43.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/e13614a2f5d6e6b.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/395d200e57dd2b6.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/b1f9d0f959d885e.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/5389a8edc5e6ccb.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/1ee98fa5b0fcf99.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/21898949ad47786.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/2d8b542fb919056.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/be54616d9e310fd.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/09e662043a738ce.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/d5b7be4509eb1d5.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/f14182842c3fe9b.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/24f31f004a4aad1.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/350bfeae8053114.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/ce921a6876ea1bc.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/dda637704885249.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/e8efa2821209c21.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/69240cb08fbd48f.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">预计这种包装会比该公司已经展示过的东西略微露骨，但它应该留下一点想象空间。本田通常会首次推出极其接近生产的原型车，因此 1 月份的思域 Type R 应该是相当有代表性的最终产品。</p><p style="text-align: left;">本田还没有发布有关这款新车的任何官方细节，只是说它将是“有史以来性能最好的思域 Type R”。与目前的 Type R 相比，其造型肯定会有所缓和，而且它应该会像第 11 代思域系列的其他车型一样获得所有的内部改进升级。期待涡轮动力、手动变速器、限滑差速器和巨大的翼子板。</p><p style="text-align: left;">2023 年的本田思域 Type R 将于 1 月 14 日至 16 日在东京展出。预计生产版本将在今年晚些时候首次亮相。</p>   
+</div>
+            

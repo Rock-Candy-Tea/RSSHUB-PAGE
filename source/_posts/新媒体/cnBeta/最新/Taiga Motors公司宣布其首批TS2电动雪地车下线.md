@@ -1,0 +1,19 @@
+
+---
+title: 'Taiga Motors公司宣布其首批TS2电动雪地车下线'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/1225/e2705a8f5ae86cc.webp'
+author: cnBeta
+comments: false
+date: Sat, 25 Dec 2021 01:39:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/1225/e2705a8f5ae86cc.webp'
+---
+
+<div>   
+据New Atlas报道，早在2018年，总部位于加拿大魁北克省的Taiga Motors公司宣布了一款名为TS2的纯电动雪地车，百公里加速只需3秒。该公司在2019年调整了设计，并将推出了三个型号。<strong>现在，第一批可供消费者使用的车辆已经下线。</strong><br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2021/1225/e2705a8f5ae86cc.webp" alt="下载.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">“今天，随着第一批雪地车的下线，代表着我们整个组织的共同梦想和愿景即将实现。我为员工表现出的能力和毅力感到自豪，他们在我们驾驭前所未有的供应链波动时共同克服了各种挑战，”Taiga首席执行官Sam Bruneau说。“随着雪地车即将准备就绪，我们很高兴客户能够乘坐这些尖端的机器，毫不妥协地体现冬季探险。”</p><p style="text-align: left;">在获得政府机构的最终批准后，Taiga预计将于2022年年初开始向预购客户交付产品。车型阵容包括Ekko山地雪车、Atlas越野车和Nomad旅游/多功能车。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1225/ce3f5eac06250be.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1225/ce3f5eac06250be.jpg" alt="下载 (2).jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Taiga表示，骑手们可以期待即时扭矩、零油门滞后，还包括一个热管理系统，以保持电池处于最佳状态，即使温度骤降至零度以下，并支持直流快速充电。该设置还支持驱动参数的自定义调整，配套的移动应用程序可满足路线规划和跟踪。</p><p style="text-align: left;">与该系列的所有车型一样，Ekko也提供标准版和性能版。前者百公里加速时间为4.1秒，其120马力的电动传动系统包括一个复合带和一个165 x 15 x 2.5英寸（419 x 38 x 6.35厘米）的履带从后面推动。估计每次充电的续航里程是98公里（约60英里）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1225/f097b7c0728e3f3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1225/f097b7c0728e3f3.jpg" alt="下载 (3).jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">该车得益于前部具有220毫米行程的双叉式悬架和具有270毫米行程的多连杆式悬架，停止力来自Hayes盘式制动，自适应再生制动也可以在减速时将一些电荷反馈给电池组。一个高清显示屏允许GPS地图和自定义地形图。</p><p style="text-align: left;">性能版基本上是相同的雪地车，但有一个180马力的驱动器，百公里加速时间为3.3秒，每次充电的续航里程为131公里（81英里）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1225/0a7bb3955be8812.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1225/0a7bb3955be8812.jpg" alt="下载 (4).jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">标准的Atlas车型配备了120马力的电力驱动，百公里加速时间为3.7秒，其履带比Ekko更小更细，为137 x 15 x 1.6英寸（348 x 38 x 4厘米），它的前部也有相同的双叉式悬架，但后部悬架提供300毫米的行程。</p><p style="text-align: left;">高性能的Atlas配备了180马力的动力系统，百公里加速时间为2.9秒，预计每次充电的续航里程为140公里（87英里）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1225/260bd1392b348ac.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1225/260bd1392b348ac.jpg" alt="下载.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">如果用户想为工作或休闲拖动一些货物，据报道，Nomad标准型号能够拖动350公斤的货物。它有一个90马力的电力驱动，采用154 x 16 x 1.6英寸（391 x 40 x 4厘米）的钉子履带，Taiga估计每次充电的续航里程为100公里。其前部双叉式悬架的行程可达224毫米，而多连杆式悬架与Atlas车型相同。该车型还配备了两个座位，并为乘客提供背部支撑。</p><p style="text-align: left;">Nomad性能版具有120马力的驱动力，可以拖动510公斤的货物，并承诺每次充电的续航里程可达134公里（83英里）。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2021/1225/9cf905572b56341.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/1225/9cf905572b56341.jpg" alt="下载 (1).jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">所有这三种车型目前都在接受预购，价格从15000美元起。如前所述，Taiga目前正在努力确保监管部门的批准，以便在2022年年初的客户运输窗口前获得批准。</p><p style="text-align: left;">该公司最近还开始在魁北克省森林地区的一条小路上安装第一批充电站，每个充电站都有Level 2和 Level 3直流快速充电器。</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=313371397&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p>   
+</div>
+            
