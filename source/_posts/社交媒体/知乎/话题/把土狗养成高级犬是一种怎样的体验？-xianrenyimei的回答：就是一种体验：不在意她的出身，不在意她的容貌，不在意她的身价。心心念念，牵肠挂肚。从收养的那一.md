@@ -1,0 +1,18 @@
+
+---
+title: '把土狗养成高级犬是一种怎样的体验？-xianrenyimei的回答：就是一种体验：不在意她的出身，不在意她的容貌，不在意她的身价。心心念念，牵肠挂肚。从收养的那一...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-1cb742404401442865b32153befc502c_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 24 Dec 2021 23:48:36 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-1cb742404401442865b32153befc502c_1440w.jpg'
+---
+
+<div>   
+<strong>把土狗养成高级犬是一种怎样的体验？</strong><br>xianrenyimei的回答<br><p data-pid="D84fDe8m">就是一种体验：不在意她的出身，不在意她的容貌，不在意她的身价。心心念念，牵肠挂肚。从收养的那一刻，直到未来。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-1cb742404401442865b32153befc502c_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-b10e5b1aa48d8422d369898d60d51b68_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-1cb742404401442865b32153befc502c_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-de4ae1aea01c8bce49fbddfa27c558dc_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-49a2f04fa2b66f7be2935fa1bc253095_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-de4ae1aea01c8bce49fbddfa27c558dc_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-fc2fd51efa46db06c45889b95012be00_1440w.jpg" data-rawwidth="1356" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-a3431e0f7a0d047594e2b30d6a584e36_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-fc2fd51efa46db06c45889b95012be00_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-bba9729c60187da34eb87f14a20e8a18_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-3395beea1ecd1c8f8253e096710da2ba_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-bba9729c60187da34eb87f14a20e8a18_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-9f331530502b2f9678be0b81ab60670a_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-4d08944829fa16774b4989f6b88be9f9_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-9f331530502b2f9678be0b81ab60670a_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-4e7aa31bac9074e392ace0a85ee47bca_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-4f28387e56f9650fce22840ec1a616d6_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-4e7aa31bac9074e392ace0a85ee47bca_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-aee96cb6a025079c59fc340ea7130c26_1440w.jpg" data-rawwidth="864" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-c7b9bbc22c043260a7247deab510a7a2_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-aee96cb6a025079c59fc340ea7130c26_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
