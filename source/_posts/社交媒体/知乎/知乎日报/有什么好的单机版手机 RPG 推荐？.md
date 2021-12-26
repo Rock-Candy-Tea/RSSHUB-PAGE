@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-26 11:07:43
-thumbnail: 'https://pic3.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162'
+date: 2021-12-26 12:13:17
+thumbnail: 'https://pic1.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-2e32eb3d50f90445fcbbe8843cdaf8ef_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">阿豪，</span><span class="bio">9年手机单机游戏中二病晚期患者，个人公众号：阿豪游戏说，业余爱好非盈利</span>
 <a href="https://www.zhihu.com/question/36076669/answer/433910575" class="originUrl" hidden>查看知乎原文</a>
 </strong>
