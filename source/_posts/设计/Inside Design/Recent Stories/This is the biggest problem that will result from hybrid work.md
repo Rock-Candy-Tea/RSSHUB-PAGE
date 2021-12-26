@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/hybrid-work-guide-teaser/'
 author: Inside Design
 comments: false
-date: 2021-12-26 08:09:16
+date: 2021-12-26 09:08:20
 thumbnail: 'https://www.invisionapp.com/inside-design/hybrid-work-guide-teaser/'
 ---
 
