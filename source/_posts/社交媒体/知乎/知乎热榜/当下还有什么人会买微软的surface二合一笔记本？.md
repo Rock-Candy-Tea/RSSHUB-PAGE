@@ -1,0 +1,18 @@
+
+---
+title: '当下还有什么人会买微软的surface二合一笔记本？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-4524b92b6cb44811ccfccae32c6f2fe8_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 26 Dec 2021 10:59:21 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-4524b92b6cb44811ccfccae32c6f2fe8_1440w.jpg'
+---
+
+<div>   
+张师傅的回答<br><br><p data-pid="UG5bybo7">自打Surface Pro 3以来，我就没换过其他电脑作为主力机了，目前手里是一台Surface Pro 7，配置是i7+16G+256G。如果用一句话来总结，那就是：在这个体积、重量下，Surface Pro系列是你能买到的设计和性能最好平板笔记本二合一设备了。</p><p data-pid="3OM7UYUw">对比一下你买的MateBook 13s感受一下：</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-4524b92b6cb44811ccfccae32c6f2fe8_1440w.jpg" data-caption data-size="normal" data-rawwidth="554" data-rawheight="553" data-default-watermark-src="https://pic2.zhimg.com/v2-afe86b311a91fbb114689bde47617b8c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-4524b92b6cb44811ccfccae32c6f2fe8_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="OUOvIajp">数据很直接，华为这款更长、更宽、更厚、更重，即便给Surface Pro 带上键盘，也依然是这样的结果。而且我不知道是参数标错了还是真的，华为的续航竟然比微软还要短很多，这有点不可思议。Surface Pro系列的定位是【商用】，而华为MateBook的定位是【家用】，这俩定位背后所表现出的各个维度的区别是很大的。</p><p data-pid="k3lZSCD9">其实我很能理解你女朋友为什么看中了Surface Pro这种产品了，很简单，除了好看之外（现在的边框终于不用跑马了吧），还有一个因素：酷。<b>键盘和屏幕可分离，确实是一件很酷的事</b>，包括上面提到的体积和重量的优势，这些都是很酷的事，但这些事都要付出额外的成本。</p><p data-pid="Q1InROLf">当初我买Surface Pro系列，因为有大量【手写和演示】的场景，这种二合一的产品形态完美解决了这种需求，后来没有换别的是因为习惯了，而且我对这种几年才换一次的产品的性价比并不是很在意，能消费的起，喜欢就买了。我没换7+是因为没有这么重的商用场景，7就够用了。没换8是因为在我看来8相比7并没有什么本质的变化，这台7已经稳定服役2年多，懒得折腾了。</p><p data-pid="ev_xtEeI">而假设你需要考虑性价比这个因素，这种二合一设备又不是你需求必备的，那么你还真的不适合买Surface Pro，它就像一台奥迪摆在家里，你的买车、用车成本是远大于一台大众的，而你的需求如果只是出行、代步，不需要用一个车标来充面子，那你买一台大众就好了。道理就是这样的。</p><hr><blockquote data-pid="Zd61Fj8L">但是今天女朋友看到同事用的老款微软二合一笔记本，说<b>刚买的电脑不想要了。微软这种才是最喜欢的，之前不知道有。</b></blockquote><p data-pid="aL3k3Vu9">不过，话说回来，我要是有个这么不懂事的女朋友，那可能这个女朋友我就不想要了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a7ea3ef6303fc290bfbd703c9f37701a_720w.jpg" data-caption data-size="normal" data-rawwidth="360" data-rawheight="450" data-default-watermark-src="https://pic1.zhimg.com/v2-45e363a464dc88f0059c3c6fa63f7a0a_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><hr><h2>和Surface Pro有关的高赞答案：</h2><p data-pid="G7rm8CAW"><a href="https://www.zhihu.com/question/302106832/answer/1041912132" class="internal">Surface Pro有哪些值得购买的配件？</a></p><p data-pid="IbqNE-My"><a href="https://www.zhihu.com/question/314592750/answer/669166930" class="internal">有什么是你用过 Surface 才知道的？</a></p><p data-pid="vfVrrRv8"><a href="https://www.zhihu.com/question/413605379/answer/1499121889" class="internal">请问surface到底怎么样，有没有别人说的那么不堪？</a></p><p data-pid="UpQ20Iwb"><a href="https://www.zhihu.com/question/451724852/answer/1812617630" class="internal">如果只是出差使用，surface是否是最优选择？</a></p><p data-pid="FzkaUYuQ"><a href="https://www.zhihu.com/question/301105930/answer/980197631" class="internal">大学生为了记笔记应该买 Surface 还是 iPad还是其他？</a></p><p data-pid="eKQyoKGq"><a href="https://www.zhihu.com/question/350919346/answer/1363547472" class="internal">选择surface pro7还是期待surface pro8获得pro x一样的外观设计？</a></p><p data-pid="nGLI0Jje"><a href="https://www.zhihu.com/question/438988585/answer/1692455235" class="internal">如何评价微软 Surface Pro 7+，有哪些亮点和不足？</a></p><p data-pid="BxG0js4P">……</p><p data-pid="9FIq01OZ"><b>如果关于Surface Pro系列，你有什么不明白的问题，可以点击下方小卡片向我提问，粗略算一下，我用Surface Pro 系列起码有16000个小时了。</b></p><a data-draft-node="block" data-draft-type="ad-link-card" href="https://www.zhihu.com/question/507492099/answer/undefined"><p></p></a>  
+</div>
+            
