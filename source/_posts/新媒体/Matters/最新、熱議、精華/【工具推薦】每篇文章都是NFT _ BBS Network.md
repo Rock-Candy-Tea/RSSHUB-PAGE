@@ -1,0 +1,18 @@
+
+---
+title: '【工具推薦】每篇文章都是NFT _ BBS Network'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/20938d79-9072-4ab3-93d2-5da1ca84ea0e.png'
+author: Matters
+comments: false
+date: Fri, 10 Dec 2021 02:01:26 GMT
+thumbnail: 'https://assets.matters.news/embed/20938d79-9072-4ab3-93d2-5da1ca84ea0e.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/20938d79-9072-4ab3-93d2-5da1ca84ea0e.png" data-asset-id="20938d79-9072-4ab3-93d2-5da1ca84ea0e" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2><u>前言</u></h2><p>BBS Network是一個長相類似Reddit論壇的 SocialFi項目，所有人都可以設立自己的討論板，隨意Post自己想講的任何話，一旦文章發出，沒有任何人能審查或下架你的貼文，即使他是板主也一樣，所以相對地就會想到要是遇到有人要來板上惡意鬧事，甚至貼一些非法內容是不是也拿他沒轍...</p><p>隨著NFT以及更多區塊鏈應用出現，「創作有價」、「自由無監管」等等概念不斷被提出來討論，本文主角BBS Network就是另一個Web3.0的應用，Binance 幣安於12/6宣布<a href="https://www.binance.com/zh-CN/blog/all/binance-labs%E9%A0%98%E6%8A%95bbs-network-150%E8%90%AC%E7%BE%8E%E5%85%83%E7%A8%AE%E5%AD%90%E8%BC%AA%E8%9E%8D%E8%B3%87-421499824684903126" rel="noopener noreferrer" target="_blank">Binance Labs領投BBS Network 150萬美元種子輪融資</a>，我稍微研究了一下發現還蠻好玩的，就來跟大家分享一下。</p><p><br></p><h2><u>每篇文章都是一個NFT</u></h2><figure class="image"><img src="https://assets.matters.news/embed/c6351075-ce12-49b1-9f22-7946a2e292f7.png" data-asset-id="c6351075-ce12-49b1-9f22-7946a2e292f7" referrerpolicy="no-referrer"><figcaption><span>文章NFT的金流分潤機制</span></figcaption></figure><p>非常特別的是每一篇貼文都是一個NFT，在文章發布到分散式網路後起標價就是0.3元，每被競標一次，下一個人想要的話就必須使用高於前次出價30%的價格才能買下它，所以隨著文章NFT被交易次數增加，價錢也就以每次30%的漲幅不斷增值。</p><p>文章NFT的交易過程可以直接在頻道內進行，若是單看NFT拍賣的話會分為四種角色：Board Admin(板主)、Publisher(該篇文章NFT的發文者)、Previous NFT Owner(該篇文章NFT被購買前的持有者)以及NFT Owner(該篇文章NFT被購買後的持有者)。在購買後，文章的擁有人會立即轉移給新的購買者(NFT Owner)，新購買者所支付的錢會被分為三等份，分別分給板主、發文者以及前一位持有者。</p><p>範例一：先定義角色 A是板主、B是發文者、C是新購買者</p><p>B發了一篇文章到網路上幻化成NFT，起標價0.3元，C花0.3元購入成為當前文章NFT的所有人，0.3被拆分成0.15給A、0.15給B。</p><p>範例二：角色延續上題，D是新購買者</p><p>由於上次的標價是0.3元，D要購買的話就必須多花30%購入，就會是0.39元，0.39會先被拆成兩分，0.3是C之前花的錢要先還給C，新的0.09元才會平分給A、B、C，所以實際上C不僅原本購入的0.3元成本被歸還，還倒賺平分的0.03元。</p><p><br></p><h2><u>BBS Network的代幣</u></h2><p>文章NFT的金流分潤機制的圖中還有一個角色是Advertisers(廣告置入商)，看起來整個代幣經濟要玩起來還是必須要有位乾爹在背後默默支持，白皮書對廣告商似乎沒有詳細說明，所以收入是如何被建立起來，能有多少收入不太能確定。</p><p>BBS Network本身有發行自己的 BBS Token，但是每個新討論板被建立時，都還會有討論板內部的代幣，其實前面的例子我說的都是幾元，並沒有明確說幾元的單位到底是什麼加密貨幣或法幣，也就是這個原因，這個幾元並非BBS Token，而是討論板內的新代幣，那麼這個討論板代幣的價值或許就是來自廣告商的出資，如果是這樣的話，每個討論板代幣的價值都不相同了。</p><h2><u>試試看</u></h2><p>你可以建立自己的BBS討論板，我也建立了<a href="https://bbs.market/ITNOTE/posts" rel="noopener noreferrer" target="_blank">自己的BBS討論板</a>，每天登入聊天還能額外送討論板的代幣！反正註冊帳號很快又不花錢，歡迎大家來玩！</p><p>其他更詳細內容可參考資料：<a href="https://docs.google.com/document/d/1I2xYp0EKvVvNqtzngFy1k-l_B05g7wLJS5VSGL2dDcU/edit#" rel="noopener noreferrer" target="_blank">BBS Network白皮書</a>、<a href="https://www.binance.com/zh-CN/blog/all/binance-labs%E9%A0%98%E6%8A%95bbs-network-150%E8%90%AC%E7%BE%8E%E5%85%83%E7%A8%AE%E5%AD%90%E8%BC%AA%E8%9E%8D%E8%B3%87-421499824684903126" rel="noopener noreferrer" target="_blank">Binance labs 種子輪融資</a></p><p>什麼是NFT：<a href="https://matters.news/@itechnoteco/%E4%B8%80%E6%96%87%E8%AE%80%E6%87%82%E7%94%9A%E9%BA%BC%E6%98%AFnft%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8-bafyreibgrh7buyder7sstryzjis3hg5cgyoiqbfm4uwlp4ygtmsdill63i" rel="noopener noreferrer" target="_blank">一文讀懂甚麼是NFT及其應用</a></p><p><br></p><hr><p>最後，謝謝你在百忙之中願意抽空來花時間來看我的文章，如果還喜歡這些內容的話希望能獲得你的追蹤及支持，也歡迎<a href="http://linkby.tw/itechnote.co" rel="noopener noreferrer" target="_blank">點此連結在其他平台找到我</a>。</p><p>下次見嚕 o((>ω< ))o~</p><p>原文連結 <a href="https://itechnote.co/?p=626" rel="noopener noreferrer" target="_blank">ITechNote 科技隨筆</a></p>  
+</div>
+            
