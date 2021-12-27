@@ -24,7 +24,13 @@ Dring分享的消息，任天堂Switch和索尼PS5成为2021年欧洲多国最�
 Dring称Switch在欧洲多个地区的销量都是第一，不过索尼的PS5也毫不示弱，PS5即将在英国、瑞典、芬兰和丹麦获得第一名。
 </p>
 <p style="text-indent:2em;">
-游戏方面，EA的《FIFA 22》是最畅销的新游戏，击败了去年的《FIFA 21》，而在PS5畅销榜上，《FIFA 
+游戏方面，EA的《FIFA 22》是最畅销的新游戏，击败了去年的《FIFA 21》，其他进入Top 10的新游戏有《使命召唤18：先锋》、《超级马里奥3D世界+狂怒世界》、《宝可梦：晶灿钻石/明亮珍珠》（如果两个算成一个），而育碧的《孤岛惊魂6》要进入前十还需要数周时间。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20211227/1640606689_315460.jpg" alt="PS5和Switch成2021年欧洲最热卖主机 《FIFA 22》登顶游戏销量榜" referrerpolicy="no-referrer">
+</p>
+<p style="text-indent:2em;">
+而在PS5畅销榜上，《FIFA 
 22》依然是第一名，索尼第一方游戏《漫威蜘蛛侠：迈尔斯》排第二，《生化危机8》排第五。
 </p>
 <p style="text-indent:2em;">
@@ -34,8 +40,14 @@ Dring称Switch在欧洲多个地区的销量都是第一，不过索尼的PS5也
 对于Xbox平台，情况有点复杂，因为Xbox One游戏自动升级，所以你必须将Xbox One和Xbox Series结合到一起，导致《FIFA 
 22》第一，《极限竞速：地平线5》第四。
 </p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211227/1640606689_315460.jpg" alt="PS5和Switch成2021年欧洲最热卖主机 《FIFA 22》登顶游戏销量榜" referrerpolicy="no-referrer">
+<p style="text-indent:2em;">
+<strong>其他有趣数据：</strong>
+</p>
+<p style="text-indent:2em;">
+TGA年度游戏《双人成行》是今年表现最好的新IP，其次是SE的科幻射击游戏《Outriders》。
+</p>
+<p style="text-indent:2em;">
+《农场模拟22》欧洲地区的销量超过了《塞尔达传说：御天之剑HD》《瑞奇与叮当：分离》《怪物猎人：崛起》《极限竞速：地平线5》《漫威银河护卫队》等游戏。
 </p>          
 </div>
             

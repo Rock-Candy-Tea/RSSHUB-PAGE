@@ -1,0 +1,18 @@
+
+---
+title: '如何评价华为 P50 Pocket 使用 4G 版骁龙 888 芯片？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-2b5d7d20279ca393730f4bccd16612a9_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 27 Dec 2021 09:26:46 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-2b5d7d20279ca393730f4bccd16612a9_1440w.jpg'
+---
+
+<div>   
+咸蛋搞机评测的回答<br><br><p data-pid="1BQLShhJ">个人觉得手机入手看自己，你喜欢就入手，不喜欢就换。4G骁龙888华为倒是想要5G，奈何被制裁了。</p><p data-pid="_vRGlMGU">这此的华为P50折叠手机售价：8GB+256GB ——8988、12GB+512GB ——10988（艺术高定版）。</p><p data-pid="cwHhsH3u">颜值设计看个人喜好了，萝卜青菜各有所爱，有人说华为是用直男审美设计女性主力手机，但是个人觉得P50Pocket的设计还是很符合华为一贯的风格。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2b5d7d20279ca393730f4bccd16612a9_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="853" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-2b5d7d20279ca393730f4bccd16612a9_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="aBOmxEDf">其中鎏光金配色是和艾里斯·范·荷本设计师联合设计艺术高定版，采用了立体微雕工艺，将流动的脉络作为手机背面的纹理。晶钻白闪耀着的贝母光泽看，更加优雅知性。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9e6af3e755a2d07e05651f3911362df8_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="1706" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9e6af3e755a2d07e05651f3911362df8_r.jpg" referrerpolicy="no-referrer"></figure><h3>硬件配置：</h3><h3>性能：</h3><p data-pid="7jv0OCWY">骁龙888处理器（4G），性能就不用多赘述了，旗舰性能无论游戏或其他日常使用都是足够的。</p><h3>屏幕：</h3><p data-pid="IDy2mZOh">6.9英寸OLED可折叠居中打孔内屏，支持2790×1188分辨率，120Hz刷新率+300Hz采样率，1440Hz高频PWM调光，442ppi ​。1.04英寸OLED外屏（后置镜头模组下），支持340×340分辨率，60Hz刷新率+120Hz采样率，328ppi。右滑可以显示后台运行软件程序，左滑可以自定义。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-69fcea2012a6c1f371dc225e1a8db286_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="1706" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-69fcea2012a6c1f371dc225e1a8db286_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="xtR1auSn">对于折痕问题，采用了升级版的水滴铰链设计，肉眼看基本察觉无缝，折叠处同时增加了支柱。</p><p data-pid="KwK-_urH">折叠后的缝隙，相比之下Fold 3和Flip 3要做的差劲些，而P50 Pocket和Mate X2以及Find N（更好）都属于不错的了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f6928e24fa4aed8ddf0173cc45c907a8_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="1706" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f6928e24fa4aed8ddf0173cc45c907a8_r.jpg" referrerpolicy="no-referrer"></figure><h3>影像：</h3><p data-pid="iyLpl7aB">前置1070万超广角，后置4000万原色引擎+1300万超广角+3200万超光谱。</p><p data-pid="4zHoNRt8">主要亮点在于前置超光谱摄像头可拍摄紫外线灯不可见光，通过超光谱摄像头检查脸上防晒霜是否涂抹均匀，监测防晒能力。</p><h3>续航：</h3><p data-pid="ShDwLaXr">内置4000mAh，支持40w快充。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-8df71515cdc43bcf40c2603f88974302_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="1706" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-8df71515cdc43bcf40c2603f88974302_r.jpg" referrerpolicy="no-referrer"></figure><h3>其他方面：</h3><p data-pid="JNd2RLvK">190g重量，厚7.2mm，宽75.5mm。搭载HarmonyOS2操作系统，支持NFC。侧边指纹解锁方案，内外屏支持人脸解锁，铝硅玻璃后盖，铝合金边框。因为折叠原因，微信可以用平板登陆，真正实现了一号双开。</p><p data-pid="AnxfH-jW">总结，华为只要后续制裁没有结束5G是没有机会再次登场，如果真的很在意没有5G的华为，大可换其他支持5G的，例如支持5G的OPPO find N、三星Flip 3。选择在于自己不用问如何看，现在华为P50Pocket已经开启预售，好奇的就去看看：</p><p></p><p></p><p></p><p></p><p></p><p></p>  
+</div>
+            
