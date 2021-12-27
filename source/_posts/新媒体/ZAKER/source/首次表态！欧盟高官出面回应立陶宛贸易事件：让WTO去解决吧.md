@@ -1,0 +1,18 @@
+
+---
+title: '首次表态！欧盟高官出面回应立陶宛贸易事件：让WTO去解决吧'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd571928_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 26 Dec 2021 20:11:31 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd571928_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202112/61c92221b15ec011cd571928_1024.jpg" data-height="444" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd571928_1024.jpg" referrerpolicy="no-referrer"></div></div>据俄罗斯卫星通讯社此前报道称，四天前立陶宛总理希莫尼特和美国国务卿布林肯最后一次通电话时，仍然在讨论和 " 中国贸易压力 " 相关问题。俄媒猜测立陶宛是在请求美国出面施压欧盟，或者美国亲自出面替他们调解，但这件事随后也没有下文了。美国在立陶宛外长兰茨贝尔吉斯上个月到访华盛顿后就毫无动作，当然也不太可能因为一通电话就开始大力援助立陶宛。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202112/61c92221b15ec011cd571929_1024.jpg" data-height="513" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd571929_1024.jpg" referrerpolicy="no-referrer"></div></div>本周早些时候，美国政治媒体 Politico 就刊登了一篇影响力很大的新闻。该新闻针对最近热门事件立陶宛和中国的贸易问题做了简单概括后认为，种种迹象来看中国对立陶宛的反制已经在扩大，现在一些禁令正影响到使用立陶宛供应链的其他欧盟国家制成品，立陶宛企业从中遭受到了损失越来越多。所以立陶宛想尽可能避免损失扩大，就一定需要欧盟出面解决纠纷，他们并无能力；<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202112/61c92221b15ec011cd57192a_1024.jpg" data-height="397" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd57192a_1024.jpg" referrerpolicy="no-referrer"></div></div>这篇文章还放出了一个预测称，欧盟即使最终出面，但面对中国也没有多少牌可打。他们很可能直接把案件扔到 WTO 层面来解决，可惜 WTO 多个部门已经瘫痪，按照正常流程也需要数年之久。这条预测并不是空穴来风，因为欧盟贸易专员多姆布罗夫斯基斯在谈到这件事时，就透露了一个敏感的信息 " 欧盟将会在 WTO 规则下对中国的行为进行调查 "。所以文章作者意识到，欧盟最终的处理方式很大概率是直接将立陶宛 " 踢皮球 " 到世贸组织处理。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202112/61c92221b15ec011cd57192b_1024.jpg" data-height="318" data-width="485" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c92221b15ec011cd57192b_1024.jpg" referrerpolicy="no-referrer"></div></div>这条预测最终成真，昨天欧盟委员会副主席东布罗夫斯基斯出面表态称，如果无法用友好的方案解决立陶宛和中国的贸易问题，欧盟已经准备向世贸组织提起申诉。他先是用无中生有的言论评述了一番 " 其他成员国对华的贸易也出现受阻 "、" 中国正在贸易报复 " 之类话题，然后表达欧盟对成员国立陶宛的密切关注；<p></p><p>东布罗夫斯基还声称，欧盟委员会正在努力通过政治和外交渠道寻求解决方案解决这件事情，他们更希望就此问题有一个友好的解决方案。但如果用外交方式解决不了，欧盟已经收集证据且 " 不排除就此事向世贸组织起诉中国 "。欧洲媒体注意到在这次采访中，他没有提到和之前 " 反胁迫法案 " 相关的问题。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202112/61c92221b15ec011cd57192c_1024.jpg" data-height="431" data-width="639" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202112/61c92221b15ec011cd57192c_1024.jpg" referrerpolicy="no-referrer"></div></div>值得一提的还有，消息人士则认为东布罗夫斯基的言论只传达了一个清晰的信号：欧盟的所有解决方式内不包含 " 和中国翻脸强行替立陶宛出头 " 这一项，因为各个成员国利益不同，且这件事中立陶宛明显是先挑衅的一方，不占有话语权；如果在 WTO 解决这件事，不管是流程还是周期问题，立陶宛的经济都撑不到那个时间。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
