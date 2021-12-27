@@ -1,0 +1,18 @@
+
+---
+title: '我家布偶一岁了，长的这样是 纯种的吗？-HiddenMore的回答：刚好我有一只重点色布偶猫。已经一岁了，七个月的时候开始爆毛，因为过敏把脖子的毛都剃掉了，所以这...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-9764cb110d235341ede4b5226ead4791_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 27 Dec 2021 05:54:55 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-9764cb110d235341ede4b5226ead4791_1440w.jpg'
+---
+
+<div>   
+<strong>我家布偶一岁了，长的这样是 纯种的吗？</strong><br>HiddenMore的回答<br><p data-pid="-P378Rru">刚好我有一只重点色布偶猫。已经一岁了，七个月的时候开始爆毛，因为过敏把脖子的毛都剃掉了，所以这个冬天其实围脖还是没长回来，但已经好很多了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9764cb110d235341ede4b5226ead4791_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1080" data-default-watermark-src="https://pic3.zhimg.com/v2-8bc80cb840149a0936f206c6dcdd7bee_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9764cb110d235341ede4b5226ead4791_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-25b81871db37600e8a16926f1097ff11_1440w.jpg" data-caption data-size="normal" data-rawwidth="2736" data-rawheight="3648" data-default-watermark-src="https://pic1.zhimg.com/v2-2700408c6ae054b559973b06613fc330_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-25b81871db37600e8a16926f1097ff11_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="rzIZc1d_"> 刚巧十月份的时候生了一胎，给你看看。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-29eb67fa341a007d681913f02344466c_1440w.jpg" data-caption data-size="normal" data-rawwidth="1860" data-rawheight="2790" data-default-watermark-src="https://pic3.zhimg.com/v2-d85dc1388671b690ca826a47c90a41c2_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-29eb67fa341a007d681913f02344466c_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-05d4600ef280d76eb558c54cc4c323fa_1440w.jpg" data-caption data-size="normal" data-rawwidth="2288" data-rawheight="2724" data-default-watermark-src="https://pic4.zhimg.com/v2-5fbab351c41834f41f0ef6024ba00717_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-05d4600ef280d76eb558c54cc4c323fa_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-7b97044a01e7e4f3546f74fef8a196ae_1440w.jpg" data-caption data-size="normal" data-rawwidth="2736" data-rawheight="3648" data-default-watermark-src="https://pic1.zhimg.com/v2-225b151d447c2a6f098471b877798128_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-7b97044a01e7e4f3546f74fef8a196ae_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3ef3a71ce4d63f081f6096b5974dc713_1440w.jpg" data-caption data-size="normal" data-rawwidth="2736" data-rawheight="3648" data-default-watermark-src="https://pic4.zhimg.com/v2-bb2a68fd5cb431d716474c22a2e0fc3b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-3ef3a71ce4d63f081f6096b5974dc713_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="y7FZ1QBF">毛量都是爆炸的好，因为配的公猫是一只带血统的莫妮卡大爆毛，但是美中不足的是棉质毛，我方小可爱是丝质毛，从不打结，略微有点可惜。</p><p data-pid="eCJEwWyQ">猫咪是布偶猫，鉴于布偶猫的成长期缓慢，要到2岁以后开始定型，另外跟母猫和公猫的基因相关，以及往上三代的血统有关，导致毛量稀疏。公猫的影响会更大一些，比如开脸不正，毛色不均匀，毛量不好，骨量一般都会影响到小猫。反而性格之类的，会遗传母猫多一些。</p><p data-pid="rZ2OYoJ8">题主的猫咪可以确定是布偶猫，但是属于失格的那一挂，脸版偏向于传统布偶，但是又有点串了其他品种，不过属于布偶的花色。可以再养养看。</p><p data-pid="b2Wky-Rc">另外爆毛的这个问题，其实很多人都讲了，毛量一方面遗传公猫，另一方面爆不爆由气温决定，猫咪一般在冬天的时候会爆毛，因为气温低，会生长更多的毛毛来保暖，会有围脖。四月份开始气温回暖了，又会开始掉毛过夏天。</p><p data-pid="UCCo0jlY">所以不必担心。再养养看。</p>  
+</div>
+            
