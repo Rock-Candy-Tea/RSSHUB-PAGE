@@ -1,6 +1,6 @@
 
 ---
-title: '男子喝了冰箱里这个东西，直接住进ICU！医生提醒......'
+title: '男子喝了冰箱里这个东西，直接住进ICU！医生提醒'
 categories: 
  - 新媒体
  - ZAKER
@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c8fa797f780b9804000000_1024.jpg'
 author: ZAKER
 comments: false
-date: Sun, 26 Dec 2021 15:57:46 GMT
+date: Sun, 26 Dec 2021 16:31:33 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202112/61c8fa797f780b9804000000_1024.jpg'
 ---
 
