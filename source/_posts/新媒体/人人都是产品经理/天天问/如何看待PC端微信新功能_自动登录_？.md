@@ -1,0 +1,18 @@
+
+---
+title: '如何看待PC端微信新功能_自动登录_？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=8730'
+author: 人人都是产品经理
+comments: false
+date: Mon, 27 Dec 2021 04:23:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8730'
+---
+
+<div>   
+<p><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">部分用户的 PC 版本</span><a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank" style="box-sizing: border-box; margin: 0px; padding: 0px 0px 1px; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(153, 153, 153); border-image: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; -webkit-font-smoothing: antialiased; word-break: break-word; text-decoration-line: none; color: rgb(38, 38, 38); background-color: rgb(255, 255, 255); outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; overflow-wrap: break-word; text-align: justify; white-space: normal;">微信</a><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">目前已经支持自动登录，即不借助手机就可以独立登录 PC 版微信。“ 自动登录 ” 目前应处于灰度测试中。</span></p><p><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><br></span></p><p><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">据介绍，登陆 Windows 微信内测版后，在手机端的微信中，点击 “ Windows 微信已登录 ” 条幅，在出现的页面中，会新增显示 “ 自动登录该设备 ” 选项，用户只需要打勾即可。</span></p><p><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><br></span></p><p><span style="color: rgb(38, 38, 38); font-family: "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", 微软雅黑, STHeitiSC-Light, simsun, 宋体, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">此外，“ 自动登录 ” 可以在手机端打开或者关闭，在 PC 端，仅有关闭选项。PC 端设置页面显示：“ 开启后，在本机登录微信将无需手机确认，可在手机和电脑上关闭。” PC 端登录微信后，手机也会发送通知提醒。（IT之家）</span></p><p><br></p><p>这个功能你们怎么看？</p>  
+</div>
+            

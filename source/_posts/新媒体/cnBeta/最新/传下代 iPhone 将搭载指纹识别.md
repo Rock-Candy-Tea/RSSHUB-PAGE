@@ -1,0 +1,19 @@
+
+---
+title: '传下代 iPhone 将搭载指纹识别'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/transform/671/w550h121/20211227/cc6a-a3710cca12fbef7e5c0d6823f7d72819.png'
+author: cnBeta
+comments: false
+date: Mon, 27 Dec 2021 03:38:42 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/transform/671/w550h121/20211227/cc6a-a3710cca12fbef7e5c0d6823f7d72819.png'
+---
+
+<div>   
+“我可以不用，但你不能没有。”自2017年iPhone X不再附带指纹识别功能后，不少苹果手机用户就开始吐槽。新冠疫情加剧了这种不满，因为在很多场合摘掉口罩进行人脸识别既不方便也有风险，苹果肯定也注意到了这种情况。<br>
+ <p style="text-align: left;">12月27日，台湾《经济日报》报道称，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>有意让指纹识别功能回归<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>旗舰机型，可能在下一代iPhone中新增屏下指纹识别功能，合作伙伴包括<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>、高通等国际企业，台湾则由鸿海集团旗下触控厂业成供货，该功能未来不排除扩展到全系列机型。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/671/w550h121/20211227/cc6a-a3710cca12fbef7e5c0d6823f7d72819.png" alt="台湾《经济日报》报道截图" referrerpolicy="no-referrer"></p><p style="text-align: left;">台湾《经济日报》报道截图<br style="text-align: left;"></p><p style="text-align: left;">无独有偶，美国科技新闻博客GizChina近期也报道称，苹果并未放弃对Touch ID的研发，明年的iPhone 14系列机型可能会配备屏下指纹传感器。</p><p style="text-align: left;">报道指出，多年来，iPhone一直使用Face ID作为其唯一的生物识别功能。自从新冠疫情出现以来，使用面容ID变得非常不舒服。虽然苹果对此有解决方案，但它要求iPhone用户必须拥有Apple Watch。对于许多iPhone用户来说，这并不完全可行。作为补充，Touch ID对iPhone来说具有特别的意义。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/214/w550h464/20211227/98e2-bf382dad4c8e66c2bd618039e1ade895.png" alt="微博网友评论截图" referrerpolicy="no-referrer"></p><p style="text-align: left;">微博网友评论截图<br style="text-align: left;"></p><p style="text-align: left;">针对iPhone导入屏下指纹识别，台湾业成公司发言人不予置评。岛内业界人士表示，近年来苹果一直与供应链评估、测试屏下指纹识别搭载在iPhone的可能性，随着相关技术日益成熟且供应链更趋完整，苹果开始考虑此方案可行性。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/660/w550h110/20211227/3eee-0a87e74e0e1e0c20822182571f53e273.png" alt="GizChina报道截图" referrerpolicy="no-referrer"></p><p style="text-align: left;">GizChina报道截图<br style="text-align: left;"></p><p style="text-align: left;">尽管iPhone还未拿出最新的指纹识别解决方案，但目前不少国产<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>已经具备屏下指纹识别功能。</p><p style="text-align: left;">头豹研究院2020年6月的研报曾提到，中国屏下指纹行业目前已具备从关键零部件到模组的基本自制能力。伴随中国本土市场企业的不断集中，高性价比的屏下指纹方案渗透率将持续提升。</p><p style="text-align: left;">研报指出，屏下指纹产业链上游参与者主要包括屏下指纹方案提供商、CMOS图像传感器提供商、屏下指纹模组封装提供商。上游价值的重心在于识别芯片和算法，中游包含屏下指纹模组封装提供商，此类提供商将<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>组装为成品，下游包含终端手机厂商，近年来屏下指纹在终端智能手机中的应用率不断提高。</p><p style="text-align: left;">目前，屏下指纹方案提供商主要包括中国大陆的汇顶科技、思立微、中国台湾的神盾等企业。其中汇顶科技占据光学屏下指纹市场份额超75%，并在全球范围内的屏下指纹市场中，占据约57%的市场份额，思立微、神盾分别占据整体市场份额的12.2%与5.2%。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/741/w550h191/20211227/8e30-10ee207682075dda605dfcb2283d6dee.png" alt="头豹研究院2020年6月研报截图" referrerpolicy="no-referrer"></p><p style="text-align: left;">头豹研究院2020年6月研报截图<br style="text-align: left;"></p><p style="text-align: left;">台媒报道称，苹果在2017年发布的iPhone X中首度导入人脸识别功能后，至今未在后续发布的旗舰机型上搭载指纹识别，如今传出苹果有意让指纹识别回归iPhone旗舰机型，岛内分析有三大原因：</p><p style="text-align: left;">首先，用户越来越重视隐私，是促成指纹识别重新获得青睐的关键。岛内业界指出，相较于脸部识别需要高调进行解锁，指纹识别可以悄悄进行，而且解锁速度较快，还能解决疫情之下民众戴口罩无法通过人脸识别解锁的问题。</p><p style="text-align: left;">其次，指纹识别成本低，而且体积小，供应链也更趋成熟，苹果若想重新导入，在良率及设计方面都不会存在太大问题。此外，指纹识别芯片的产能也比过去高，断链风险较低。最后，指纹识别已升级到成屏下指纹识别，对苹果而言可以成为新卖点。</p>   
+</div>
+            
