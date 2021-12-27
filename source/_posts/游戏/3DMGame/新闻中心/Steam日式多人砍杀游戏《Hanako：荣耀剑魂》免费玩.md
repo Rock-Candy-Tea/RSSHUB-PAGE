@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211227/1640564165_7447
 2017年在Steam平台抢鲜体验的砍杀动作游戏《<a target="_blank" href="https://www.3dmgame.com/games/bearwithme2/">Hanako：荣耀剑魂</a>》已经免费，所有Steam用户都可以免费游玩这款带有日本武士要素的多人游戏了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211227/1640564165_744775.jpg" alt="Steam日式多人砍杀游戏《Hanako：荣耀剑魂》免费玩" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211227/1640564165_744775.jpg" alt="Steam日式多人砍杀游戏《Hanako：荣耀剑魂》免费玩" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 商店地址：<a href="https://store.steampowered.com/app/349510/Hanako_Honor__Blade/" target="_blank">点击进入</a> 
