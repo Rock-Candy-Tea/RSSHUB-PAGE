@@ -1,0 +1,18 @@
+
+---
+title: '丟掉小妓女-畫一張畫給我的DJ朋友'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/e042cc24-9903-4856-813b-5ae0084340bf.jpeg'
+author: Matters
+comments: false
+date: Mon, 27 Dec 2021 23:26:16 GMT
+thumbnail: 'https://assets.matters.news/embed/e042cc24-9903-4856-813b-5ae0084340bf.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/e042cc24-9903-4856-813b-5ae0084340bf.jpeg" data-asset-id="e042cc24-9903-4856-813b-5ae0084340bf" referrerpolicy="no-referrer"><figcaption><span>（嗨跟愛人躺在海邊濃情蜜意。）</span></figcaption></figure><p><br></p><p>2021.12.22</p><p>For my dear friend haai</p><p><br></p><p><br></p><p>1.</p><p>畫一張畫給我的DJ朋友。</p><p><br></p><p><br></p><p><br></p><p>一邊聽她的音樂一邊幫她畫一張專屬她的畫，把她的靈魂封存在畫裡，我想她是一個美好的靈魂，有著像廣闊大海的能量，總是在快樂，總是像個明亮的小太陽。</p><p><br></p><p><br></p><p>小太陽的靈魂好好的畫在紙上面，裝在畫框裡，放在信封裡寄給她。</p><p><br></p><p><br></p><p>親愛的，希望未來日子裡如果有一點點傷心，都可以看看我給你的畫，畫裡面的你如此美好善良，你是一顆太陽，別忘了發光。</p><p><br></p><p><br></p><p>（我怎麼那麼浪漫？）</p><p><br></p><p><br></p><p><br></p><p>2.</p><p>戴上耳機，聲音開大聲，我們一起去一個沒有人知道的秘密基地。</p><p><br></p><p><br></p><p>音樂拯救人，讓一些無助的人有秘密基地可以去。</p><p><br></p><p><br></p><p>她在拯救人，我家的小太陽站在DJ台上拯救人，有一天她一定會站上最多人的舞台，用一個長長的夜晚，讓那些對世界傷心的人感受到生命的炙熱，快樂的跳舞，把內在的自己跳出來。</p><p><br></p><p><br></p><p><br></p><p>我會在旁邊看著你變成全世界最亮眼的大DJ，你將輾壓那些男人，輾壓那些在音樂產業中佔滿好處跟優勢的那些人，你會成為女王，當你的音樂開始播放，整個世界都看見你像太陽一樣發光。</p><p><br></p><p><br></p><p><br></p><p>3.</p><p>我是一個實踐派，任何我想要做的事情我都會馬上去做，想著畫畫送她很久了，一直放在心裡，畢竟我不是一個專業畫家，但認識她的第一天，我就覺得這個人靈魂我絕對認識她，那種直覺太強烈，就是很篤定這個人會跟你很合。</p><p><br></p><p><br></p><p>昨天一個瞬間我就傳訊息問她會想收到畫嗎？她說當然好，還是可愛的Liwen 畫的。</p><p><br></p><p><br></p><p>我就卯起來畫了兩張，聽著她的音樂，我一筆一筆很認真很專注，畫了一張抽象畫，一張她的插畫，早上我去買畫框，裝好，拍照跟她說好囉。</p><p><br></p><p><br></p><p>她開心的樣子，說愛死了。</p><p><br></p><p><br></p><p>我看著她說著愛死的樣子，就會忍不住想要送她更多更多，又再追加一張她跟愛人的情侶插畫，我想我一直以來都是那種很認真很認真的人，我說出去的話，我就會認真地實踐自己說過的。</p><p><br></p><p><br></p><p>那些愛我的靈魂，</p><p>那些我愛過的靈魂，</p><p><br></p><p>也許這一輩子你們換了一張皮，</p><p>但是，放心，我都記得你們。</p><p><br></p><p><br></p><p>第一眼，我就知道，我們曾經深愛過。</p><p><br></p><p>我不可能忘記你們，從來沒有忘記過。</p><p><br></p><p><br></p><p><br></p><p>4.</p><p>要快樂噢，</p><p>要健康噢，</p><p>要平平安安噢，</p><p><br></p><p><br></p><p>我的小太陽要一直快快樂樂的在這個世界散播歡樂散播愛。</p><p><br></p><p><br></p><p>你是最棒的戰士，就跟我一樣。</p><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/8711502c-3bce-4ac0-a460-cf616048926c.jpeg" data-asset-id="8711502c-3bce-4ac0-a460-cf616048926c" referrerpolicy="no-referrer"><figcaption><span>（用嗨的表演照片做發想，結合她平日可愛的抖腳小習慣，這是我最可愛的浪漫，獻給可愛獨特的她。）</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/6942ca3b-dd9b-44f9-9ed1-39bce1f1e497.jpeg" data-asset-id="6942ca3b-dd9b-44f9-9ed1-39bce1f1e497" referrerpolicy="no-referrer"><figcaption><span>（抽象畫，我喜歡凝聚一個人靈魂，再把那些靈魂好好裝在畫裡。 </span></figcaption></figure><p><br></p><p>親愛的朋友們，如果你有幸收藏我的畫作，喜歡的話可以去買適合的相框畫框裝進去，放在你家喜歡的角落，我會幫你們好好愛你們的房子，我喜歡藝術，更喜歡藝術你家，藝術家。</p><p><br></p><p><br></p><p>畫畫對我來說就是生活，藝術美感對我來說也是生活，讓自己生活在美的國度，是幸福，自己為自己創造幸福，是很深很深的愛。</p><p><br></p><p><br></p><p><br></p><p>我愛你們，你們也要更愛自己，就像我一樣。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>如果你喜歡我的文字跟畫作，歡迎熱烈拍手。</p><p>謝謝你的支持與鼓勵，能斗內我，更好。</p><p><br></p><p><br></p><p>（摩羯座就是現實又勢利，重點是我立志要當個妥妥的有錢人跟好命婆，所以來吧！把你們的愛意用錢砸我，最爽。）</p><p><br></p><p><br class="smart">想知道我跟嗨如何認識，請看關聯文章。</p><p><br></p><p>想聽聽haai ，來</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/jFjnPZhF1Ek?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span>(我們家的嗨就是跟我一樣可愛又迷人。）</span></figcaption></figure><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>  
+</div>
+            
