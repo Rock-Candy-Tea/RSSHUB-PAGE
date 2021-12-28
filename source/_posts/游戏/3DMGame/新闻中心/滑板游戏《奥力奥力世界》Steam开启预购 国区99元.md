@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211228/1640691390_4757
 
 <div>   
 <p style="text-indent:2em;">
-滑板游戏《奥力奥力世界》现已在Steam开启了预购，国区99元，游戏于2022年2月8日北京时间早上7:00点发售，支持简体中文。注意该作不支持键盘操作，需要使用手柄。
+滑板游戏《奥力奥力世界》<a href="https://store.steampowered.com/app/1190170/_/" target="_blank">现已在Steam开启了预购</a>，国区99元，游戏于2022年2月8日北京时间早上7:00点发售，支持简体中文。注意该作不支持键盘操作，需要使用手柄。
 </p>
 <p style="text-indent:2em;">
 <strong>预告片：</strong> 
@@ -30,7 +30,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211228/1640691390_4757
 <img src="https://img.3dmgame.com/uploads/images/news/20211228/1640691390_475770.jpg" alt="滑板游戏《奥力奥力世界》Steam开启预购 国区99元" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>预购奖励：</strong>
+<strong>预购奖励：</strong> 
 </p>
 <p style="text-indent:2em;">
 立即预购，获享以下专属游戏内物品
