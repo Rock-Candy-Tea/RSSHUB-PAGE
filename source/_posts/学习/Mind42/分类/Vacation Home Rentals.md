@@ -1,0 +1,19 @@
+
+---
+title: 'Vacation Home Rentals'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5acc71f1-db69-437a-96eb-48f7b15c84b2&size=gallery'
+author: Mind42
+comments: false
+date: 2021-12-28 07:09:38
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5acc71f1-db69-437a-96eb-48f7b15c84b2&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=5acc71f1-db69-437a-96eb-48f7b15c84b2&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            

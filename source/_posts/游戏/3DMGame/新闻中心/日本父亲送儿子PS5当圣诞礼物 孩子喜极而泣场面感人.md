@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20211228/1640671027_621907.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 28 Dec 2021 05:59:00 GMT
+date: Tue, 28 Dec 2021 06:01:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211228/1640671027_621907.jpg'
 ---
 
@@ -30,7 +30,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211228/1640671027_6219
 <img src="https://img.3dmgame.com/uploads/images/news/20211228/1640671027_621907.jpg" alt="日本父亲送儿子PS5当圣诞礼物 孩子喜极而泣场面感人" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-许多网友表示很羡慕，甚至希望索尼能看到该视频，有人甚至想起了自己小时候，从父母手中收到的3DS、Wii、DC、PS2等主机时的激动心情。还有人认为这位老爸“有阴谋”，“为自己买的话，老婆要唠叨，买来送给孩子当礼物，老婆不会闹，之后自己也有得玩。”
+许多网友表示很羡慕，甚至希望索尼能看到该视频。有人想起了自己小时候，从父母手中收到的3DS、Wii、DC、PS2等主机时的激动心情。还有人认为这位老爸“有阴谋”，“为自己买的话，老婆要唠叨，买来送给孩子当礼物，老婆不会闹，之后自己也有得玩。”
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20211228/1640671027_486923.jpg" alt="日本父亲送儿子PS5当圣诞礼物 孩子喜极而泣场面感人" referrerpolicy="no-referrer"> 
