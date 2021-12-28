@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211228/5127a93400dc7586c628da76f6c36662.png'
 author: Dockone
 comments: false
-date: 2021-12-28 14:07:37
+date: 2021-12-28 15:08:20
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20211228/5127a93400dc7586c628da76f6c36662.png'
 ---
 
@@ -27,7 +27,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 </div>
 <br>
 好了，我们这些“CRUD仔”们了解这些基础魔法就足够了，至于SVM如何解决反射、GC等问题的高级魔法还是交给大牛们吧。现在进入我们的正题：用Spring Boot来编写一个原生应用。<br>
-<h3>制作过程</h3><h4>Step 1：安装GraalVM和依赖工具</h4>因为大家都比较熟悉JDK安装过程，所以本过程带过了一些细节，不做重点讲解。首先我们需要安装GraalVM，笔者以自己的macOS系统为例，其他系统请参考官方安装文档。比较遗憾的是，GraalVM并没有提供针对M1优化的AArch64平台的包，我们只能使用AArch64平台，下载地址<a href="https://github.com/graalvm/graalvm-ce-builds/releases">点击这里</a>，我们使用Java 17版本的darwin压缩包，解压至：<br>
+<h3>制作过程</h3><h4>Step 1：安装GraalVM和依赖工具</h4>因为大家都比较熟悉JDK安装过程，所以本过程带过了一些细节，不做重点讲解。首先我们需要安装GraalVM，笔者以自己的macOS系统为例，其他系统请参考官方安装文档。比较遗憾的是，GraalVM并没有提供针对M1优化的AArch64平台的包，我们只能使用AMD64平台，下载地址<a href="https://github.com/graalvm/graalvm-ce-builds/releases">点击这里</a>，我们使用Java 17版本的darwin压缩包，解压至：<br>
 <pre class="prettyprint">/Library/Java/JavaVirtualMachines/<br>
 </pre><br>
 并且设置JAVA_HOME：<br>
