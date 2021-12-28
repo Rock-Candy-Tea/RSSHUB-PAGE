@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211228/1640621152_5879
 Epic游戏商城圣诞促销季15天每日喜加一活动已进入第12天，今日的免费领取游戏是《秘奥法师》（Mages of Mystralia），免费领取时间为北京时间12月28日0点至12月29日0点。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211228/1640621152_587921.jpg" alt="Epic圣诞每日喜加一更新 免费领取《秘奥法师》" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211228/1640621152_587921.jpg" alt="Epic圣诞每日喜加一更新 免费领取《秘奥法师》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;"><a href="https://www.epicgames.com/store/zh-CN/p/mages-of-mystralia" target="_blank">免费领取地址</a></span></strong>
+<strong><span style="font-size:16px;"><a href="https://www.epicgames.com/store/zh-CN/p/mages-of-mystralia" target="_blank">免费领取地址</a></span></strong> 
 </p>
 <h3 style="text-indent:2em;">
 《秘奥法师》（Mages of Mystralia）
