@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2021-12-28 10:09:48
-thumbnail: 'https://pic2.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162'
+date: 2021-12-28 11:08:11
+thumbnail: 'https://pic3.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-7db16dc0d2d373b42fde36e3622e8c30_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">乌合之子但愿君，</span><span class="bio">一只二次元三头身正在路过</span>
 <a href="https://www.zhihu.com/question/508477201/answer/2287803919" class="originUrl" hidden>查看知乎原文</a>
 </strong>
