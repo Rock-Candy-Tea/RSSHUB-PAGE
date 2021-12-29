@@ -18,13 +18,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211229/1640743617_8454
 Games近日发推，他做出了一个假设：如果CDPR明天公布《巫师4》，你会预购吗？考虑到《巫师3》的大获成功，按照常理，应该有很多玩家做出正面的答复。然而令人意外的是，底下的评论全部都是不会预购，大部分给出的解释主要还是受到了《赛博朋克2077》的影响。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743617_845488.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743617_845488.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 评论获赞最多的一条是，如果在《赛博朋克2077》狗屎秀之后制作《巫师3》的原班人马还在，那么《巫师4》值多少钱？
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743630_206437.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743630_206437.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 网友Slenderfriend：不会预购，我很可能不会在首发当天买他们的游戏了，我会等打折，他们用《赛博朋克》摧毁了我，他们没有第二次了。
@@ -42,10 +42,10 @@ Games近日发推，他做出了一个假设：如果CDPR明天公布《巫师4�
 网友Alyx：我喜欢和《巫师》相关的一切，但在《赛博朋克2077》扑街之后，我不会预购。如果看起来还不错，我可能会在首发当天买。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743640_269973.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743640_269973.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743640_170052.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211229/1640743640_170052.jpg" alt="大胆假设：如果CDPR明天公布《巫师4》 你会预购吗？" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
