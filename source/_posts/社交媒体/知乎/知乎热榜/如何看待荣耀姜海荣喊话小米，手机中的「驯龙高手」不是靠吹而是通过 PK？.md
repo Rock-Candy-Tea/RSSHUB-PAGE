@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4163'
+headimg: 'https://picsum.photos/400/300?random=9377'
 author: 知乎
 comments: false
-date: Wed, 29 Dec 2021 06:39:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4163'
+date: Wed, 29 Dec 2021 07:57:47 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9377'
 ---
 
 <div>   
-叫作旺仔终结者的回答<br><br><p data-pid="UfyXy-4t">本来就不是靠说的，而是要靠实际优化情况的，所以这个喊话实属正常。</p><p data-pid="lQc11Swf">小米这边是有前车之鉴的，毕竟小米11就是着了888的道，踩了坑。肯定自己也有总结一番经验，这次骁龙8gen1，感觉应该不会重蹈覆辙 。</p><p data-pid="5zD9sY2Z">而荣耀这边，优化相对来说做的一直蛮好的，没有出现过火龙手机的情况。</p><p data-pid="qnW9g7wh">但是这次是一个几乎全新的8gen，具体怎么样还是得看后续。</p>  
+帅天下的回答<br><br><p data-pid="Nbksfszz">「训龙高手」这个比如用的非常好，训的是什么龙呢？是高通「骁龙」芯片。</p><p data-pid="k48Ueyj6">为什么要训龙？</p><p data-pid="8K2jrW25">「骁龙」芯片是支持底层系统架构最多，最广泛用于安卓高端机型的芯片，这样才尽可能的让各手机大厂商能在自己的品牌上，做出有利于品牌开发的个性化和差异化。</p><p data-pid="CtEsN6vz">所以各大手机品牌乐此不疲的「训龙」，谁能用「骁龙」把自己的高端手机做的最好，在市场表现上获得最大的成功，谁就是「训龙高手」。</p><p data-pid="xd6tfkwh">但「骁龙」芯片的性能一般，功耗高，发热厉害，高通也不可能把「骁龙」这条龙拿出来，针对任何手机厂商的任一高端品牌里的某一款高端机型，做设计上的适配优化，所以实际上是需要各大手机厂商整合优化其它硬件反过来适配它。</p><p data-pid="m1WqHXE6">美国高通培养的「骁龙」这头恶龙，会被中国公司驯服吗？恐怕是不会的。</p><p data-pid="2t_ee1gX">所谓「训龙」一说，用配龙可能是更合适的。</p><p data-pid="Gtw9nUUw">五十步笑百步，只怕谁也当不得这个「驯龙高手」吧！</p>  
 </div>
             

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/041/145/272/original/609ca4d4e780503e.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/041/146/220/original/98a0af9779fa27c1.jpeg'
 author: Mastodon
 comments: false
-date: Wed, 29 Dec 2021 07:03:14 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/041/145/272/original/609ca4d4e780503e.jpeg'
+date: Wed, 29 Dec 2021 07:59:45 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/146/220/original/98a0af9779fa27c1.jpeg'
 ---
 
 <div>   
-<hr><p>年末用の鰻</p><br><img src="https://img.pawoo.net/media_attachments/files/041/145/272/original/609ca4d4e780503e.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>新刊予定</p><br><img src="https://img.pawoo.net/media_attachments/files/041/146/220/original/98a0af9779fa27c1.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
