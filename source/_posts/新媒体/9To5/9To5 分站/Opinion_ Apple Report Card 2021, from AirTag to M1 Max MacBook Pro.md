@@ -66,7 +66,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/App
 <noscript><iframe title="What's your 2021 report card for Apple?" src="https://poll.fm/11001915/embed" frameborder="0" class="cs-iframe-embed"></iframe></noscript>
 </div>
 </figure>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3pbqQYF"><img class="aligncenter size-full wp-image-767984" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Zugu-9to5Mac-Holiday-AdV4.3.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3F0cO1K"><img class="aligncenter wp-image-775874 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/ALOGIC-T4-Banner-750x150px-V2.jpg?quality=82&strip=all" alt width="750" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
