@@ -1,0 +1,22 @@
+
+---
+title: 'Switch
+《集合啦！動物森友會》「觀光導覽製作站」年底落幕 透過新畫框回顧 2021 年時光
+ 9 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/80/15cf5a7efcd77ace36d49124af1eup05.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/80/15cf5a7efcd77ace36d49124af1eup05.JPG'
+---
+
+<div>   
+大家今年在《集合啦！動物森友會》的島嶼生活，過得如何呢？島民們一如既往的日常，能感受季節變遷的活動，還有 11 月開始稍微有新變化的生活等……。如果把這樣的《集合啦！動物森友會》回憶畫面用 Nintendo Sw...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/80/15cf5a7efcd77ace36d49124af1eup05.JPG" referrerpolicy="no-referrer">  
+</div>
+            
