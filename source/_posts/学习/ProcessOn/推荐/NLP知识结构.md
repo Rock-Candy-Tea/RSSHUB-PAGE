@@ -1,0 +1,19 @@
+
+---
+title: 'NLP知识结构'
+categories: 
+ - 学习
+ - ProcessOn
+ - 推荐
+headimg: 'https://img.processon.com/chart_image/thumb/5ec33dad7d9c08156c4d3ce2.png'
+author: ProcessOn
+comments: false
+date: 2021-12-29 07:09:44
+thumbnail: 'https://img.processon.com/chart_image/thumb/5ec33dad7d9c08156c4d3ce2.png'
+---
+
+<div>   
+<img class="thumb" alt="NLP知识结构" src="https://img.processon.com/chart_image/thumb/5ec33dad7d9c08156c4d3ce2.png" referrerpolicy="no-referrer">
+<p>NLP知识体系结构</p>  
+</div>
+            

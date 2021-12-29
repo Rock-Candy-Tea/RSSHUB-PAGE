@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://pic.yupoo.com/fotomag/da59466c/03edaa1f.jpg'
 author: iDaily 每日环球视野
 comments: false
-date: Tue, 28 Dec 2021 10:03:00 GMT
+date: Tue, 28 Dec 2021 10:59:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://pic.yupoo.com/fotomag/da59466c/03edaa1f.jpg'
 ---
 
