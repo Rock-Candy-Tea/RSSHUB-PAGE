@@ -14,7 +14,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211229/s_67c86c94b7af415fa3069d8f82
 
 <div>   
 <p>近日，有消息称，NVIDIA的新一代Ada Lovelace架构GPU将不再由三星进行代工，<span style="color:#ff0000;"><strong>而是改用台积电的5nm制程工艺制造。</strong></span></p>
-<p>据传闻，在今年第三季度，NVIDIA曾向台积电预付16.4亿美元（约合人民币104亿），并将在2022年第一季度再支付17.9亿美元（约合人民币17.9亿），<strong>整个长期订单预付款项将达到69亿美元（约合人民币439亿）。</strong></p>
+<p>据传闻，在今年第三季度，NVIDIA曾向台积电预付16.4亿美元（约合人民币104亿），并将在2022年第一季度再支付17.9亿美元（约合人民币114亿），<strong>整个长期订单预付款项将达到69亿美元（约合人民币439亿）。</strong></p>
 <p>这一预付款的金额远超往年同期，而NVIDIA这一举措的目的就是希望能够确保台积电方面的晶圆供给，并在生产上获得一定的优先权。</p>
 <p>Ada Lovelace架构将对应NVIDIA的RTX 40系显卡，<strong>该系列显卡据传闻将在2022年第四季度正式发布，将成为NVIDIA2022财年的“王炸”。</strong></p>
 <p>根据此前放出的消息，采用Ada Lovelace架构GPU的旗舰产品将配备18432个CUDA核心，搭配GDDR6X显存，且有384位位宽，并拥有2.2 GHz的核心频率，能够提供81 TFLOP的计算性能（FP32）。</p>
@@ -29,7 +29,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20211229/s_67c86c94b7af415fa3069d8f82
  <p class="bqian"><a href="https://news.mydrivers.com/tag/nvidia.htm"><i>#</i>NVIDIA</a><a href="https://news.mydrivers.com/tag/taijidian.htm"><i>#</i>台积电</a></p>
 <p class="url">
      
-<span>责任编辑：乃河</span>
+<span>责任编辑：上方文Q</span>
 </p>
         
 </div>
