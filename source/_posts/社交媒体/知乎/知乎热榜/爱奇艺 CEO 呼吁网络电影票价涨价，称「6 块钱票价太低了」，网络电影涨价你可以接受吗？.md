@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-179acc29de041d884e34a222714cf3d2_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=5060'
 author: 知乎
 comments: false
-date: Thu, 30 Dec 2021 06:42:08 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-179acc29de041d884e34a222714cf3d2_1440w.jpg'
+date: Thu, 30 Dec 2021 05:51:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5060'
 ---
 
 <div>   
-勋哥很忙的回答<br><br><p data-pid="uNtsaXYe"><b>站住，听洒家把故事讲完！！！我完全能接受网络电影涨价！！！！</b></p><p data-pid="c_71dXtQ">今天，我给大家讲个故事，牛逼的故事：</p><p data-pid="BcHuwaDH">有一记者问一农民：“如果你有一百亩地，你可以捐给国家吗？”</p><p data-pid="Lkd_hPAs">农民回答：“可以！”</p><p data-pid="k6xCo7hh">又问：“如果你有一百万，你愿意捐给国家吗？”</p><p data-pid="TNxcyIWU">农民回答：“我愿意。”</p><p data-pid="RZvBmrTY">三问：“如果你有一头牛，你愿意捐给国家吗？”</p><p data-pid="alTKbJ59">农民回答：“我不愿意。”</p><p data-pid="m0mPuino">记者疑惑：“为什么你愿意捐一百亩土地给国家，捐一百万给国家？为什么你一头牛不愿意捐呢？”</p><p data-pid="u41Ewy6f">农民窘困：<b>“因为我真的有一头牛！”</b></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-179acc29de041d884e34a222714cf3d2_1440w.jpg" data-rawwidth="498" data-rawheight="303" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-9f7888c9029a979e6b22bc0e5c958ee3_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-179acc29de041d884e34a222714cf3d2_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><p data-pid="2ryZddIv">为什么讲这个故事？</p><p data-pid="bjrOZxT-">因为我支持网络电影涨价啊！</p><p data-pid="gWUh5jpG">为什么支持？</p><p data-pid="QjvZuC2E">因为我不看啊，从来都不看。</p><p data-pid="iGVV9Kl-">我就很好奇那些骂网络电影垃圾的人，这么垃圾，为什么要看？你不看，它涨价到100万门票，跟你有啥关系？它涨到1亿的票价，我也支持啊。</p><p data-pid="7hKBPlMH">我真的支持，这样，就会有人花大价钱看网络电影了。</p><p data-pid="NWp6eYyb">嘿嘿，我就知道谁是大傻B了。</p><p data-pid="_otxatrR">多好玩？</p>  
+三叔侃侃的回答<br><br><p data-pid="e1tC4Rqe">其实，想想人家也怪不容易的。</p><p data-pid="aefMDYWA">爱奇艺跟其他网络视频平台根本就没有任何办法能够和短视频抗衡。</p><p data-pid="MX0dQBWG">过去几年，本来以为就是同行卷，最后卷出个垄断王者结束，所以烧钱眼都不眨，资本方也乐见其成。</p><p data-pid="3K8M1do0">结果短视频来个降维打击，爱奇艺们烧的钱几乎都打了水漂。</p><p data-pid="H7ivEkda">说实话这两年如果要被拉去董事会亦或者投资方那边训话，估计老龚日子会很难过。</p><p data-pid="19mo6DQ0">但能怎么办嘛，只要一天没想到好的办法辞职跑路，一天就不可能放弃各种可持续性竭泽而渔，哪怕站出来放炮，也比默默等死强得多。</p><p data-pid="ut1kaW80">会员涨价也好，如同其他两家那样以维权名头索取巨额赔偿也罢，包括现在要求票价要涨…</p><p data-pid="vZtGQqF8">能混一天是一天吧。</p><p data-pid="2VNF8Z_x">可悲的是，从目前看来即便突然有天短视频被全网封杀，但人们恐怕也不太乐意继续给爱奇艺长期买单，毕竟性价比实在是太差。</p><p data-pid="IUOWSPmw">从热炒综艺，搞各类网剧烂片起，爱奇艺走的路就一直歪了，到如今不过是咎由自取。</p>  
 </div>
             
