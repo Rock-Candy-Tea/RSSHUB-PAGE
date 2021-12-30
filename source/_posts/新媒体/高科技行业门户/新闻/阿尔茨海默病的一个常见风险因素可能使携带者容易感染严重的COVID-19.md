@@ -1,0 +1,19 @@
+
+---
+title: '阿尔茨海默病的一个常见风险因素可能使携带者容易感染严重的COVID-19'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__4a4aa0ddcc1e7906236b7007b73e458a.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 30 Dec 2021 03:30:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__4a4aa0ddcc1e7906236b7007b73e458a.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">赫尔辛基大学和赫尔辛基大学医院进行的一项研究表明，APOE4等位基因也可能增加与COVID－19相关的脑出血，并与长期COVID－19相关的精神疲劳有关。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__4a4aa0ddcc1e7906236b7007b73e458a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">赫尔辛基大学12月27日消息</p><p style="text-indent: 2em; text-align: left;">大约三分之一的芬兰人携带APOE4等位基因，这是一种使携带者易患阿尔茨海默病的基因变体。在全球范围内，研究人员报告的观察结果显示，APOE4和COVID－19之间存在联系，包括增加对SARS－CoV－2感染的易感性和COVID－19死亡率。现在，赫尔辛基大学（University of Helsinki）和赫尔辛基大学医院（HUS）的一个研究小组研究了APOE4等位基因和芬兰人口中COVID－19严重程度之间的联系。</p><p style="text-indent: 2em; text-align: left;">这个多学科小组还研究了COVID－19患者死后的显微大脑变化，以及APOE4与发病6个月后精神疲劳症状之间的联系。</p><p style="text-indent: 2em; text-align: left;">这项新发现发表在《神经病理学通讯学报》（Acta Neuropathologica Communications）上。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__3c8f587c8ed97e03efbf18810189d44b.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">研究于2021年12月23日发表在《Acta Neuropathologica Communications》（最新影响因子：7．801）杂志上</p><p style="text-indent: 2em; text-align: left;">“APOE 基因的常见 ε4 等位基因似乎与芬兰人口中严重 COVID－19 的风险增加有关。APOE4 的重要性在芬兰人群中得到了强调，这可能是由于其遗传同质性，”赫尔辛基大学和 HUS 的神经病理学家顾问 Liisa Myllykangas 说。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__7f437fd5405f014aa25b0d80c30838eb.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">Liisa Myllykangas</p><p style="text-indent: 2em; text-align: left;"><strong>APOE4等位基因使严重COVID－19的风险增加一倍以上</strong></p><p style="text-indent: 2em; text-align: left;">根据研究结果，携带APOE4等位基因的人感染需要重症监护的COVID－19的风险增加了一倍以上。此外，与其他基因携带者相比，该研究发现，由于严重的COVID－19，在这种等位基因携带者中，大脑中发现了更多微出血。</p><p style="text-indent: 2em; text-align: left;">主任医师、重症医师 Johanna H?stbacka 表示，APOE4还可能影响某些长期症状的严重程度，特别是在需要住院治疗的COVID－19病例中。</p><p style="text-indent: 2em; text-align: left;">“在这项研究中，精神疲劳（被定义为难以集中注意力）就是其中一种症状，” H?stbacka 说。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member35348/202112/wx_article__befabf6921912607dfc2adf10c65f704.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>需要更多的研究</strong></p><p style="text-indent: 2em; text-align: left;">Myllykangas 指出，在目前研究的数据集中，COVID－19患者的数量相对较少，此时必须将结果视为具有指示性。</p><p style="text-indent: 2em; text-align: left;">“为了确定我们的发现，这些现象必须在更大的数据集中进行研究，”她指出。</p><p style="text-indent: 2em; text-align: left;">该研究没有回答的一个重要问题是，COVID－19与APOE4携带者的记忆障碍发病之间的联系。</p><p style="text-indent: 2em; text-align: left;">“要回答这个问题，需要对COVID－19康复患者进行长期随访研究，也需要对APOE4和全身炎症对大脑记忆机制的联合作用进行基础研究。我们的研究小组已经在赫尔辛基大学和HUS开展了这些进一步的研究，” Myllykangas  说。</p><p style="text-indent: 2em; text-align: left;"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202112/30113310777070.png" alt="图片标题" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">免责声明</p><p style="text-indent: 2em; text-align: left;">本公众号上的<span class="hrefStyle"><a href="http://medical.ofweek.com/CAT-11102-IT.html" target="_blank" title="医疗信息">医疗信息</a></span>仅作为信息资源提供与分享，不用于或依赖于任何诊断或治疗目的。此信息不应替代专业诊断或治疗。在做出任何<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>决定或有关特定医疗状况的指导之前，请咨询你的医生。</p> 
+  
+</div>
+            
