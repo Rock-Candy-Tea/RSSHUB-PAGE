@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=1471'
+headimg: 'https://picsum.photos/400/300?random=4451'
 author: 金色财经
 comments: false
 date: Wed, 29 Dec 2021 14:31:51 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1471'
+thumbnail: 'https://picsum.photos/400/300?random=4451'
 ---
 
 <div>   

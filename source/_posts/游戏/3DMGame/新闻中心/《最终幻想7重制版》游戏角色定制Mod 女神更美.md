@@ -20,7 +20,7 @@ PC版《最终幻想7：重制过渡版》已发售，各种Mod也出现了。�
 <img src="https://img.3dmgame.com/uploads/images/news/20211230/1640822494_526199.jpg" alt="《最终幻想7重制版》游戏角色定制Mod 女神更美" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-据Mod作者介绍，该Mod目前支持克劳德、蒂法、爱丽丝、尤菲，巴雷特和RedXIII，玩家可以定制眼睛、头发、衣服和眼镜。通过使用热键，玩家可以随时用各种选项。
+据Mod作者介绍，该Mod目前支持克劳德、蒂法、爱丽丝、尤菲，巴雷特和RedXIII，玩家可以定制眼睛、头发、衣服和眼镜。通过快捷键，玩家可以循环使用各种选项。
 </p>
 <p style="text-indent:2em;">
 你可以<a href="https://www.nexusmods.com/finalfantasy7remake/mods/142?tab=files" target="_blank"><strong><span style="color:#337FE5;"><u>点击这里</u></span></strong></a>下载该Mod，注意，使用Mod之前还需要下载安装<a href="https://www.nexusmods.com/finalfantasy7remake/mods/99?tab=files" target="_blank"><strong><span style="color:#E56600;"><u>basemod 3dmigoto</u></span></strong></a>，才能发挥作用。
