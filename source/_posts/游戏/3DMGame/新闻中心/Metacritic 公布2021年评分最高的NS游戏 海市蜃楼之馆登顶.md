@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211230/1640833397_4890
 著名评分网站Metacritic公布2021年度NS上评分排名，排名顺序从高到低。在今年所发售的Switch游戏中，由日本同人社团Novectacle开发发行的《海市蜃楼之馆:亡灵之梦版》以评分96的高分夺冠，紧接着是《俄罗斯方块效应:连接》。任天堂第一方游戏排名最高的是《超级马里奥3D世界+狂怒世界》，排在第三。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211230/1640833397_489099.png" alt="Metacritic 公布2021年评分最高的NS游戏 海市蜃楼之馆登顶" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211230/1640833397_489099.png" alt="Metacritic 公布2021年评分最高的NS游戏 海市蜃楼之馆登顶" referrerpolicy="no-referrer"> 
 </p>
 <h4 style="text-indent:2em;">
 具体排名前十
