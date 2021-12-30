@@ -1,0 +1,18 @@
+
+---
+title: '原神申鹤PV放出，孤辰劫煞的她唯独中指是黑的，不如考虑留云甘雨'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2021/12/30/d8615cccc19c4b589ffb52d626d5af681640854638'
+author: 小黑盒
+comments: false
+date: Thu, 30 Dec 2021 17:39:25 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2021/12/30/d8615cccc19c4b589ffb52d626d5af681640854638'
+---
+
+<div>   
+<blockquote><p>我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。大家好，我是boyue，感谢打开这篇原神游戏文。boyue会经常分享一些原神资讯与攻略给大家，希望大家能够早日打败天理，冲出提瓦特。</p></blockquote><p>原神申鹤的PV放出了，让人看着有些心痛，那么多吃的娶不到申鹤或者甘雨的话，不拿回来怎么可以。为了两个女儿的婚事，留云仙人也是煞费苦心了，甚至让申鹤随身带好红绳以作准备。</p><p><img class="lazy" data-height="267" src="https://i1.max-c.com/imgx/2021/12/30/d8615cccc19c4b589ffb52d626d5af681640854638" data-width="640" referrerpolicy="no-referrer"></p><p>当然，<b>她身上的红绳挡住孤辰劫煞的命格，锁魂控制杀心用的（好像更戳xp了）</b>。不过这次boyue比较关注的是她的中指，之前都被身体给吸引了，这次pv关注到了唯独中指还戴了黑指套，这难道也与孤辰劫煞有关吗？</p><h2>原神申鹤PV</h2><p><img class="lazy" data-height="411" src="https://i1.max-c.com/imgx/2021/12/30/1099a6b6d5314b54a15ab26d8b8426841640854639" data-width="640" referrerpolicy="no-referrer"></p><p><b>简介</b>：申鹤是驱魔家族的分支族人（重云你居然才4星），小时候因为一些原因被留云仙人收留，属于真正的人类。后来因为天资卓越，深受留云喜爱，但由于常年居于山中，很少与人交流，也就显得越发清冷了。</p><p>这边boyue估计申鹤会离开驱魔家族，以及深居山林的原因应该就是她的孤辰劫煞所致了，话说璃月的驱魔家族感觉经常出情况，这可能与魈的情况类似？<b>驱魔者本身也被魔侵蚀，导致后代出现了变异</b>。</p><p><img class="lazy" data-height="353" src="https://i1.max-c.com/imgx/2021/12/30/47385bfb8f0f46baa3866b5c70a9c4541640854639" data-width="640" referrerpolicy="no-referrer"></p><p>PV中申鹤起床这段真是太美了，话说睡觉也要穿这身紧身衣睡吗，只能说不愧是仙人，求同款睡衣。</p><p><img class="lazy" data-height="362" src="https://i1.max-c.com/imgx/2021/12/30/6e9396516f454b7fa4ab44eacae9320b1640854640" data-width="640" referrerpolicy="no-referrer"></p><p><b>黑色指套</b>：在后续的PV中我们会注意到申鹤该剪指甲了（划掉）只覆盖了中指的奇特手套，这里面会跟红绳一样充满玄机吗？boyue我只知道<b>黑色戒指戴在中指代表了不喜欢感情激动以及情绪溢于言表</b>，那么<b>黑色指套是否有类似的寓意呢，又或者是单身仙人修行所必须的</b>。</p><p><img class="lazy" data-height="324" src="https://i1.max-c.com/imgx/2021/12/30/2abdb35087cc460fa93b3e486d1c45031640854640" data-width="640" referrerpolicy="no-referrer"></p><p><b>回眸</b>：在PV最后旅行者与申鹤就在前往留云仙人的路上偶遇了，不过这时的渣空还没注意到申鹤的样子，所以请把申鹤交给荧妹吧~嫁妆什么的都准备好了。</p><h2>申鹤的爱好</h2><p><img class="lazy" data-height="552" src="https://i1.max-c.com/imgx/2021/12/30/dba514a1018f428f83af234ce650d15f1640854641" data-width="512" referrerpolicy="no-referrer"></p><p><b>简介</b>：<b>先不管申鹤的爱好是解锁哪种姿势，在食物方面申鹤喜欢的是“那碗面”</b>，划重点是在家吃的，也就是小时候驱魔家族时的，所以要吸引申鹤的话，大家可以多从“那碗面”入手。</p><p><img class="lazy" data-height="376" src="https://i1.max-c.com/imgx/2021/12/30/a51c3327c2f74ecb9876ffc6146000121640854641" data-width="1256" referrerpolicy="no-referrer"></p><p>而申鹤自身所能做的特殊料理其实就是“那碗面”，原型是龙须面，配方需要2.4版本解锁，申鹤做出来的则叫做连心面，可见面容清冷的申鹤内心是一片火热的，确实很符合冰系神之眼的发放标准。</p><h1>留云的另外一个闺女</h1><p><img class="lazy" data-height="384" src="https://i1.max-c.com/imgx/2021/12/30/36e1d447a96d4968b9e55f9dccf55e391640854642" data-width="640" referrerpolicy="no-referrer"></p><p><b>简介</b>：可能由于留云仙人的关系，她的两个徒弟其实都是吃货，只是克制能力比较强。这一次2.4版本两个闺女分别出现在上下两期卡池，让许多玩家犯了难，这究竟要娶谁回家呢。</p><p>关于强度的分析建议在之前文章有详细写过，这边就不多说了，根据xp抽卡即可，都想要的话看下648是否充足了。当然，如果哪个都带不回家的话，记得从留云那边把吃的都拿走，或者直接带走留云仙人（我看刑）？</p><h2>总结</h2><p>孤辰劫煞的申鹤惹人怜，从小胖如球的甘雨惹人爱。留云借风真君：你这呆子，连我也惦记？</p><p>大家对于这师徒1人2兽有什么想法的欢迎留言讨论额~</p><p><a href="heybox://open_subject" target="_blank">#原神2.3激励计划#</a><br></p><p><img class="lazy" data-height="994" src="https://i1.max-c.com/imgx/2021/12/30/3c618847d9c94697a0c55e24448800631640854642" data-width="600" referrerpolicy="no-referrer"></p><blockquote><p>你是远渡重天、跨越星海之人，把历史刻在你的记忆里，就可以在未来某日，随你一同前往别的世界。关注boyue，与你一起跨越世界。</p></blockquote>  
+</div>
+            
