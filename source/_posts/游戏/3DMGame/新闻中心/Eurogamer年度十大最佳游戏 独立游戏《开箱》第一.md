@@ -17,13 +17,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211231/1640929783_6256
 近日，欧洲游戏媒体Eurogamer公布内部评选出的2021年十大最佳游戏榜单，参与该榜单评选包括网站编辑人员以及自由供稿人员，据悉，在投票期间所有人心目中的最佳游戏都不尽相同，于是最后呈现的最佳游戏结果十分混乱。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211231/1640929783_625647.jpg" alt="Eurogamer年度十大最佳游戏 独立游戏《开箱》第一" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211231/1640929783_625647.jpg" alt="Eurogamer年度十大最佳游戏 独立游戏《开箱》第一" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 根据榜单，第一名是独立休闲游戏《开箱》，该作是一款整理房间的禅意解密游戏，玩家将通过开箱整理的方式逐步了解行李主人的人生，其中第二名和第三名分别是343工作室新作《光环：无限》以及PS独占游戏《Returnal》。
 </p>
 <p style="text-indent:2em;">
-<strong>完整榜单：</strong>
+<strong>完整榜单：</strong> 
 </p>
 <p style="text-indent:2em;">
 1、《开箱（Unpacking）》
