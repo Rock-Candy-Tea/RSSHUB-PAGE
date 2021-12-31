@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FgWQtEC2ecvCs8KE_BKwvJL6oyE5'
 author: 探物
 comments: false
-date: 2021-12-31 09:09:26
+date: 2021-12-31 10:09:31
 thumbnail: 'https://resource.tanwuapp.com/FgWQtEC2ecvCs8KE_BKwvJL6oyE5'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FgWQtEC2ecvCs8KE_BKwvJL6oyE5" referrerpolicy="no-referrer"><br>
           <strong>飞宇Feiyu pocket口袋云台相机 标配</strong><br><br>
-          价格: ￥7.50 / 日<br>
+          价格: ￥6.00 / 日<br>
           评分: 0.0
           
 </div>
