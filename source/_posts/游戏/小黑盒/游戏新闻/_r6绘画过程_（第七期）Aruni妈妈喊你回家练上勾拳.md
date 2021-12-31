@@ -1,0 +1,18 @@
+
+---
+title: '_r6绘画过程_（第七期）Aruni妈妈喊你回家练上勾拳'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2021/12/30/5b54006969c73863caec48080467c884/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 31 Dec 2021 00:48:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2021/12/30/5b54006969c73863caec48080467c884/thumb.jpeg'
+---
+
+<div>   
+<p>大家好，我是年底冲业绩老年鸽子asa</p><p>今天也是填了个aruni的老坑</p><p><img class="lazy" data-height="600" src="https://imgheybox.max-c.com/web/2021/12/30/5b54006969c73863caec48080467c884/thumb.jpeg" data-width="1125" referrerpolicy="no-referrer"></p><h4 class="img-desc">封面背景和字体来自于网络</h4><hr><p><b>传送门：</b>懒得做了点我主页看吧顺便看看别的系列呗看一看又不吃亏也不上当（菜市场大喇叭）</p><hr><h2>step. 1 草稿</h2><p>这也是张年代久远的草稿了，比我们绘画过程第一期还早画出来</p><p>总之当时画了很多草稿现在还没整完</p><p><img class="lazy" data-height="3390" src="https://imgheybox.max-c.com/web/2021/12/30/bb2a2c77cfa40f2f11d36206f674fde1/thumb.jpeg" data-width="2729" referrerpolicy="no-referrer"></p><h4 class="img-desc">彼时我还在上课，现在已经是崩溃打工人了</h4><p><br></p><h2>step.2 勾线</h2><p>老样子，先确定嘴唇的表现形式</p><p>还加了个花瓣效果调节气氛</p><p><img class="lazy" data-height="2048" src="https://imgheybox.max-c.com/web/2021/12/30/d10c9e4929cf4151f0d8788617da1eb1/thumb.jpeg" data-width="2048" referrerpolicy="no-referrer"></p><p><br></p><h2>step.3 面部上色</h2><p>由于懒得找图所以不想画下面的衣服就先给脑阔上色，即使耳朵上还顶着花和耳麦的草稿</p><p>把腮红和口红整上，此时还用了偏粉色的妆容</p><p>用了眼下加鼻尖的腮红，鼻尖腮红究极可爱</p><p><img class="lazy" data-height="2048" src="https://imgheybox.max-c.com/web/2021/12/30/1b46143ca76bea864279c30bafd13c82/thumb.jpeg" data-width="2048" referrerpolicy="no-referrer"></p><p><br></p><h2>step.4 脑阔细化</h2><p>我和室友玩模拟人生唯一学会的东西就是化妆，尤其是我室友给我大为灌输了大地色系对亚洲人的适用性</p><p>所以妆面改成了偏橘色系，整个脸部也重新上了一遍颜色（），改了线稿颜色，把疤痕的质感刻画出来</p><p>花和耳麦终于有了形状，可喜可贺</p><p>还给aruni画上了白发，是谁的恋母情结又可以了，是我</p><p><img class="lazy" data-height="1606" src="https://imgheybox.max-c.com/web/2021/12/30/f4b5aa7ed5a74c806a93515bc5de2a90/thumb.jpeg" data-width="1823" referrerpolicy="no-referrer"></p><p>btw，前两天暖暖搭的女儿有种这张aruni的既视感</p><p>橘色系妆容真的好看，口红可爱到爆</p><p><img class="lazy" data-height="2360" src="https://imgheybox.max-c.com/web/2021/12/30/458d971c962827b862966a74c1d286b6/thumb.png" data-width="1640" referrerpolicy="no-referrer"></p><h4 class="img-desc">可惜这妮儿没得鼻子</h4><h2>step.5 二次勾线+细化</h2><p>感觉之前的发色太油而且颜色太杂所以重新画了一遍</p><p>前景有点空所以加了个机械手，用高斯模糊糊一下装作景深</p><p>然后打开r6，靠一晚上的死亡把衣服这个历史遗留问题解决了</p><p>然后堆上一堆特效丰富色彩就完成了美丽aruni</p><p><img class="lazy" data-height="2048" src="https://imgheybox.max-c.com/web/2021/12/30/1ce354cf675d10abcead6a79a88b0c74/thumb.jpeg" data-width="2048" referrerpolicy="no-referrer"></p><h4 class="img-desc">衣服颜色越画越像一个色</h4><p><br></p><h2>step.6 背景</h2><p>最后，再给妈咪整个背景</p><p>Aruni令人最印象深刻的莫过于cg里那一笑，迷得我那是七荤八素神魂颠倒当场去世</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2021/12/30/e0abf95762948ce36d6f34d0dcb3b562/thumb.png" data-width="2160" referrerpolicy="no-referrer"></p><h4 class="img-desc">这花倒是挺抽象艺术风格的</h4><p>所以我们也整个当初运动场的背景，刚好cg里有远景图</p><p><img class="lazy" data-height="1328" src="https://imgheybox.max-c.com/web/2021/12/30/2275a5fbbadef028120e6cb80f3fbcc1/thumb.jpeg" data-width="2360" referrerpolicy="no-referrer"></p><h4 class="img-desc">咔嚓截一张，很快啊</h4><p>加上背景后再打出阳光下的阴影和高光（随便打的，别学），远处再加点高斯模糊，弱化一下我失败的透视</p><p>亮光是素材的闪光笔刷</p><p>头发和对讲机交接处背景就是一片灰白，我一开始还以为那边没抠图留白了，所以涂了个同款海报区分一下</p><p>再用光点笔刷点一点光点让画面更有动感（然后当时开局我就点了一点就去封墙了，这是怎样的精神，为什么有的队友不画画也不封墙，到底是在干什么）</p><p><img class="lazy" data-height="2048" src="https://imgheybox.max-c.com/web/2021/12/30/f6b4cfa7801f44f2e45ca6f54fb1bd38/thumb.jpeg" data-width="2048" referrerpolicy="no-referrer"></p><p>阳光，绿茵，还有Aruni妈咪，如果世界上还有比这更幸福的事情，那必定是开出墨冰</p><hr><p>顺提我才发现投票第三是Iana，所以下期将是</p><p>Amaru</p><p>（是的也在开头那批草稿里）</p><p>和Aruni凑个amaruni的cp</p><p><a href="heybox://open_subject" target="_blank">#彩六创造营第四期#</a><br></p>  
+</div>
+            
