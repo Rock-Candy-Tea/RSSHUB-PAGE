@@ -1,0 +1,18 @@
+
+---
+title: '@MaryFranlmes_ "(CW) "'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/041/229/979/original/5add812200ad6bf6.png'
+author: Mastodon
+comments: false
+date: Sat, 01 Jan 2022 07:45:28 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/229/979/original/5add812200ad6bf6.png'
+---
+
+<div>   
+<hr><p>不是吧，我还想再挣扎一下呢</p><br><img src="https://img.pawoo.net/media_attachments/files/041/229/979/original/5add812200ad6bf6.png" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
