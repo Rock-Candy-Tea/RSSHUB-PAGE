@@ -1,0 +1,18 @@
+
+---
+title: '微信PC版终于能独自登录！微信电脑版新体验'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61cf87b58e9f09479e64240d_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 31 Dec 2021 20:09:22 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61cf87b58e9f09479e64240d_1024.jpg'
+---
+
+<div>   
+<p>最近在微信 PC 版的更新中，给用户带来了两个非常实用的功能，其中一个还是大家期盼已久的功能——独自登录电脑，另一个则让用户传输文件更方便，一起来看看吧。</p><p>无须手机了！微信 PC 版能自动登录了</p><p>许多用户一直不爽的就是微信 PC 版的登录问题。你说你一个独立的 PC 客户端，却不能像 QQ PC 版那样可以使用账号密码登录，非得用户拿手机来扫一扫进行登录操作，那真是多此一举啊。</p><p>其实微信 PC 版的账号使用账号密码登录功能并非技术问题，而可能是腾讯觉得有安全隐患或者就是不想跟 QQ 来个内卷罢了。不过在最近版本中，腾讯终于想开了，开始了微信 PC 版的账号自动登录功能测试，到现在终于可以全员使用了。现在用户只需要设置了微信 PC 版的自动登录功能，就无须拿出手机来了。</p><p>要使用微信 PC 版的账号自动登录功能，需要用户安装好最新版的手机微信以及微信 PC 版，然后在用户使用手机微信扫码登录微信 PC 时，会提示用户是否允许当前电脑设备启用自动登录功能，同意后即可实现微信 PC 版的自动登录操作。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61cf87b58e9f09479e64240d_1024.jpg" data-height="1083" data-width="500" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61cf87b58e9f09479e64240d_1024.jpg" referrerpolicy="no-referrer"></div></div>图 1 是否同意自动登录<p></p><p>然后下一次你打开微信 PC 版就无须进行扫码操作，直接点击 " 进入微信 " 即可自动登录账号了。自动登录后在手机微信中会有提示，手机微信的首页顶端也有提示横幅，点击后进入管理登录设备页面，选择已登录设备后可点击 " 退出登录 "，点击后可强制退出微信 PC 版到登录界面。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202201/61cf87b58e9f09479e64240e_1024.jpg" data-height="1083" data-width="500" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61cf87b58e9f09479e64240e_1024.jpg" referrerpolicy="no-referrer"></div></div>图 2 强制退出微信 PC 版登录<p></p><p>手机与 PC 传输文件利器 微信文件传输助手</p><p>第二个实用功能就是微信文件传输助手网页版。小编一直习惯使用文件传输助手在电脑与手机之间传输文件，而腾讯这次则做出了个网页版的文件传输助手，让用户无须登录微信 PC 版，也能完成文件传输操作。</p><p>也就是使用微信文件传输助手网页版时不会占用微信 PC 版的使用名额，你可以在这台电脑中登录微信 PC 版，另一台设备中登录微信文件传输助手网页版。</p><p>网页版文件传输助手的入口有两个，一个就是在微信 PC 版的登录界面上，这里有个 " 仅传输文件 " 选项，点击后即可打开微信文件传输助手的网页版。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61cf87b58e9f09479e64240f_1024.jpg" data-height="380" data-width="280" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61cf87b58e9f09479e64240f_1024.jpg" referrerpolicy="no-referrer"></div></div>图 3 仅传输文件<p></p><p>还有一个入口就是直接网址方式进入， 微信文件传输助手的网页版的网址为 https://filehelper.weixin.qq.com/，认准网址，千万别进入钓鱼网址了。</p><p>两种方式都需要用户扫码进行登录，登录后即可进行文件传输操作，最大文件支持 1G，传输时在文件中有饼图形式的进度显示功能，但文件传输完毕后，手机微信略有延时，只能以手机微信收到文件为准。</p><p>而从手机传输到微信文件传输助手的网页版中的文件，默认为预览图，需要用户点击下载按钮后才进行下载。</p><p>登录微信文件传输助手网页版后在手机微信中依然会有已登录提示，不过目前这个提示貌似有点问题，小编已经把登录账号的那台电脑都已经关机了，依然提示已登录。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202201/61cf87b58e9f09479e642410_1024.jpg" data-height="671" data-width="550" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61cf87b58e9f09479e642410_1024.jpg" referrerpolicy="no-referrer"></div></div>图 4 微信文件传输助手的网页版<p></p><p>不过可能最近由于使用的人多，微信文件传输助手的网页版有点撑不住了。</p><p>图 5 出错提示</p><p>总结</p><p>怎么样，微信 PC 版这次给用户带来的新功能实用吧，赶紧去更新一下，在咱电脑上也能让微信 PC 版自动登录账号呗。不过自动登录功能不需要输入密码，因此需慎用，特别是有秘密的小伙伴们。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
