@@ -30,10 +30,7 @@ thumbnail: 'https://i.guancha.cn/news/2022/01/01/20220101162424954.jpg'
 联合国贸易和发展会议（UNCTAD）一份研究报告表示，RCEP缔约国GDP总量占全球的30.5%，远超北美自贸协定（28%）、欧盟（17.9%）、非洲大陆自贸区（2.9%）和南方共同市场（2.4%），将“缔造全球贸易的新重心”。
 </p>
 <p style="text-align:center;">
-<img src="https://i.guancha.cn/news/mainland/2022/01/01/20220101162259365.jpg" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
-</p>
-<p style="text-align:center;">
-<img src="https://i.guancha.cn/news/mainland/2022/01/01/20220101162314506.jpg" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
+<img src="https://i.guancha.cn/news/mainland/2022/01/01/20220101162259365.jpg" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer">
 </p>
 <p>
 《外交官》杂志网站（thediplomat.com）分析称，RCEP于2022年1月1日实施，它将成为贸易和投资的重要引擎，推动东盟在2022年及以后更具包容性的经济复苏。
