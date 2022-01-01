@@ -1,0 +1,19 @@
+
+---
+title: '魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://wx2.sinaimg.cn/mw2000/005TTqq4gy1gxxxuublt0j60u02df4bg02.jpg'
+author: IT 之家
+comments: false
+date: Sat, 01 Jan 2022 02:36:18 GMT
+thumbnail: 'https://wx2.sinaimg.cn/mw2000/005TTqq4gy1gxxxuublt0j60u02df4bg02.jpg'
+---
+
+<div>   
+<p data-vmark="d594"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 1 月 1 日消息，新年伊始，魅蓝推出了三款充电器、充电线类产品，于 1 月 1 日 10:00 正式开售。这三款产品如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="41ec">魅蓝 30W GaN Mini 充电器，79 元</p></li><li><p data-vmark="50f6">魅蓝 双 USB-C 快充线，49 元</p></li><li><p data-vmark="fbbf">魅蓝 5A USB-C 快充线，49 元</p></li></ul><p data-vmark="3115"><img src="https://wx2.sinaimg.cn/mw2000/005TTqq4gy1gxxxuublt0j60u02df4bg02.jpg" alt="三款产品海报" class="lazy" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" referrerpolicy="no-referrer"></p><p data-vmark="5ed0">魅蓝 30W GaN Mini 充电器采用了氮化镓技术，插脚不可折叠，相比传统产品体积缩小了 60%。<span class="accentTextColor">充电器支持 PD3.0、PPS 等充电协议</span>，使用 Type-C 接口，具有智能温控功能，支持 100~240V AC。</p><p data-vmark="d6da"><img src="https://img.ithome.com/newsuploadfiles/2022/1/6cb1e2fe-ea6e-4f3c-91f0-9599cdc8c1af.jpg@s_2,w_820,h_1165" w="1440" h="2046" alt="淡绿色，边角圆润" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" srcset="https://img.ithome.com/newsuploadfiles/2022/1/6cb1e2fe-ea6e-4f3c-91f0-9599cdc8c1af.jpg 2x" width="1440" height="1165" referrerpolicy="no-referrer"></p><p data-vmark="632c"><img src="https://img.ithome.com/newsuploadfiles/2022/1/1d6d0a1f-423e-420d-b857-aec8910f3f3a.png" w="731" h="579" alt="内部结构透视图" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" width="731" height="579" referrerpolicy="no-referrer"></p><p data-vmark="c759"><img src="https://img.ithome.com/newsuploadfiles/2022/1/ca09ac4a-6b25-4627-bab3-1d540792d350.png" w="886" h="282" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" width="886" height="261" referrerpolicy="no-referrer"></p><p data-vmark="54d3">魅蓝双 USB-C 快充线支持 5A 大电流，<span class="accentTextColor">功率最高 100W，长度为 1 米</span>。产品为纯白造型，表皮覆盖环保 TPE 材料，内置 E-Marker 芯片，可以为笔记本、平板电脑等进行充电。</p><p data-vmark="4c5c"><img src="https://img.ithome.com/newsuploadfiles/2022/1/d25d2892-8b64-42f8-b6fa-3937bc587f0e.jpg" w="680" h="680" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" width="680" height="680" referrerpolicy="no-referrer"></p><p data-vmark="81b8"><img src="https://img.ithome.com/newsuploadfiles/2022/1/32fa83d9-e145-48d6-8a47-a7a0e13fbada.jpg@s_2,w_820,h_870" w="1440" h="1527" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" srcset="https://img.ithome.com/newsuploadfiles/2022/1/32fa83d9-e145-48d6-8a47-a7a0e13fbada.jpg 2x" width="1440" height="870" referrerpolicy="no-referrer"></p><p data-vmark="1bba">魅蓝 5A USB-C 快充线一端为 Type-A 接口，另一端为 Type-C 接口，长度为 1 米。产品同样支持 5A 电流，使用环保 TPE 材料。这款线的接口进行加厚处理，<span class="accentTextColor">线芯使用加粗镀锡铜芯，有着铝箔屏蔽层</span>，使得信号传输更稳定。充电线内置 PTC 保护功能。</p><p data-vmark="06a2"><img src="https://img.ithome.com/newsuploadfiles/2022/1/dc9a1d6f-4428-4997-ab58-11af64301193.jpg@s_2,w_820,h_1157" w="1440" h="2032" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" srcset="https://img.ithome.com/newsuploadfiles/2022/1/dc9a1d6f-4428-4997-ab58-11af64301193.jpg 2x" width="1440" height="1157" referrerpolicy="no-referrer"></p><p data-vmark="2f5b"><img src="https://img.ithome.com/newsuploadfiles/2022/1/558efc04-b296-4d5d-8015-ca2289dafdec.jpg@s_2,w_820,h_1157" w="1440" h="2032" title="魅蓝推出 30W GaN Mini 充电器、快充线：49 元起，今日开售" srcset="https://img.ithome.com/newsuploadfiles/2022/1/558efc04-b296-4d5d-8015-ca2289dafdec.jpg 2x" width="1440" height="1157" referrerpolicy="no-referrer"></p><p data-vmark="5051">IT之家了解到，<span class="accentTextColor">魅蓝这三款产品今日在魅族官方商城开售</span>，第三方电商同样有售。</p>
+          
+</div>
+            
