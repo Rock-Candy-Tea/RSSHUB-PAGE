@@ -1,0 +1,19 @@
+
+---
+title: '设计师分享新绿配色Galaxy S22智能机渲染图'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0101/94beb78c929e703.jpg'
+author: cnBeta
+comments: false
+date: Sat, 01 Jan 2022 02:38:12 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0101/94beb78c929e703.jpg'
+---
+
+<div>   
+早些时候，网络上流出了多种配色的 Galaxy S22 / S22+ 机型的渲染图。上周，荷兰科技博客 LetsGoDigital 更是拿到了一张官方媒体图片，展示了 Galaxy S22+ / Ultra 机型的设计。<strong>有趣的是，三星很快提出了版权删除主张、并短暂封停了爆料账户，反而从侧面印证了爆料的真实性。</strong><br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0101/94beb78c929e703.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：<a href="https://nl.letsgodigital.org/smartphones/samsung-galaxy-s22-groen/" target="_self">LetsGoDigital</a>）</p><p>即便如此，91Mobiles 还是放出了多种配色的 Galaxy S22 渲染图。消息人士指出，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>将很快推出黑、白、绿、玫瑰金等配色（或许还有更多专属配色正在筹备中）。</p><p>基于这些爆料，LetsGoDigital 再次携手平面设计师 Giuseppe Spinelli（又名 Snoreyn），打造了一组新颖绿色外观的 Galaxy S22 渲染图。</p><p><a href="https://static.cnbetacdn.com/article/2022/0101/58c0c22a6991029.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0101/58c0c22a6991029.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>近段时间，绿色外观在智能机市场相当流行。除了最近发布的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=450&euid=&t=http%3A%2F%2Fwww.mi.com%2F" target="_blank">小米</a> 12 Pro，预计 2022 年 1 月推出的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=942&euid=&t=http%3A%2F%2Fwww.oneplus.com" target="_blank">一加</a> 10 Pro 也会跟进。</p><p>至于三星，我们也不是首次见到绿色的 Galaxy S 系列智能机。比如 Galaxy S10 的“Prism Green”，以及 Galaxy S20 FE 的“Cloud Mint”。</p><p><a href="https://static.cnbetacdn.com/article/2022/0101/38a016fc84b40e5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0101/38a016fc84b40e5.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>2021 年中推出的 Galaxy Z Fold3，也有“幻影绿”的配色。跳票已久的 Galaxy S21“Fan Edition”，也将提供橄榄绿的选项。</p><p>不过这次在网络上引发热议的新绿配色，其色调与以往有所不同。甚至 Galaxy S22 / S22+ 与 Ultra 机型也略有不同，后者色调更深（更偏灰色）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0101/04dd8ba0e868824.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0101/04dd8ba0e868824.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>作为一款 6.1 英寸屏幕的智能机，Galaxy S22 相对轻巧。虽然大屏机型增至 6.6 英寸，但两者都较前代有所缩小。</p><p>习惯单手操作的用户，有望获得更加舒适的握持手感。此外后盖采用了哑光玻璃背板，流线的后摄模组与之形成了鲜明的对比。</p><p><a href="https://static.cnbetacdn.com/article/2022/0101/f739acc42ce87d3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0101/f739acc42ce87d3.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>处理器方面，Galaxy S22 新品有望搭载高通骁龙 8 Gen 1 / 三星即将于 1 月 11 日正式发布的 Exynos 2200 芯片组。</p><p>前置 10MP 打孔单摄或得到保留，后置主摄为 50MP，且 Galaxy S22 / S22+ 配备了 12MP 超广角 + 支持 3X 光学变焦的 10MP 长焦镜头。</p><p>预计电池容量为 3700 / 4500 mAh，支持 25W / 45W 有限快充（充电头需单独购买 / 与 Galaxy S21 系列一样）。</p><p>传闻称三星会在 2022 年 2 月 11 日（周五）正式发布 Galaxy S22 系列智能机，届时会开启其中一款机型的预定，辅以保护套等一系列官方<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>。</p><p>全球发布或定于 2 月 25 日（周五）开启，预计 Galaxy S22 / S22+ 的起售价不变（850 / 1050 欧元）。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1220877.htm" target="_blank">多种配色：三星Galaxy S22与Galaxy S22 Ultra渲染图曝光</a></p></div>   
+</div>
+            
