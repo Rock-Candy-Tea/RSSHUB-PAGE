@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/041/256/732/original/521112152ef535d4.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/041/257/721/original/48ed8a3fd11ef7bf.png'
 author: Mastodon
 comments: false
-date: Sun, 02 Jan 2022 10:05:01 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/041/256/732/original/521112152ef535d4.jpeg'
+date: Sun, 02 Jan 2022 11:01:18 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/257/721/original/48ed8a3fd11ef7bf.png'
 ---
 
 <div>   
-<hr><p>作中「ヴィーシャ」と呼んでもらえなかったセレブリャコーフ中尉。<br>（漫画版とアニメ版の違い）</p><br><img src="https://img.pawoo.net/media_attachments/files/041/256/732/original/521112152ef535d4.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/041/256/742/original/c6c9be3683a88af2.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>ウォーリーをさがせの若い頃。</p><br><img src="https://img.pawoo.net/media_attachments/files/041/257/721/original/48ed8a3fd11ef7bf.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
