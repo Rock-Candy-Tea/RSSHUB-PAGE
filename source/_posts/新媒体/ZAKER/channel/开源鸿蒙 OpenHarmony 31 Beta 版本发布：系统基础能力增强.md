@@ -1,0 +1,18 @@
+
+---
+title: '开源鸿蒙 OpenHarmony 3.1 Beta 版本发布：系统基础能力增强'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d19f7a8e9f097f063f0f80_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 02 Jan 2022 04:59:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d19f7a8e9f097f063f0f80_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 1 月 2 日消息，OpenAtom 社区已于 12 月 31 日发布了 OpenHarmony-v3.1-Beta 版本。</p><p>版本概述</p><p>当前版本在 OpenHarmony 3.0 LTS 的基础上，更新支持了以下能力：</p><p>标准系统 OS 基础能力增强：内核提升 CMA 利用率特性、图形新增支持 RenderService 渲染后端引擎、短距离通信支持 STA（Station）和 SoftAP 基础特性、支持地磁场的算法接口、传感器驱动模型能力增强、支持应用帐号信息查询和订阅等、全球化特性支持、编译构建支持统一的构建模板、编译运行时提供 Windows / MacOS / Linux 的前端编译工具链、JS 运行时支持预览器、新增支持 JSON 处理、Eventbus、Vcard、Protobuf、RxJS、LibphoneNumber 等 6 个 JS 三方库、新增时间时区管理、DFX 新增支持 HiSysEvent 部件提供查询和订阅接口。</p><p>标准系统分布式能力增强：包括新增支持分布式 DeviceProfile 特性、分布式数据管理支持跨设备同步和订阅、分布式软总线支持网络切换组网、分布式文件系统支持 Statfs API 能力等。</p><p>标准系统应用程序框架能力增强：新增 ArkUI 自定义绘制能力和 Lottie 动画能力、新增包管理探秘隐式查询和多 hap 包安装、事件通知支持权限管理、设置通知振动、通知声音设置和查询、通知免打扰、会话类通知等。</p><p>标准系统应用能力增强：输入法应用支持文本输入和横屏下布局显示、短信应用信息管理、联系人应用通话记录和拨号盘显示、设置应用更多设置项。</p><p>轻量系统能力增强：HiStreamer 轻量级支持可定制的媒体管线框架、Linux 版本 init 支持热插拔、OS 轻内核 & 驱动启动优化、快速启动能力支持。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61d19f7a8e9f097f063f0f80_1024.jpg" data-height="311" data-width="948" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d19f7a8e9f097f063f0f80_1024.jpg" referrerpolicy="no-referrer"></div></div>源码获取<p></p><p>IT 之家了解到，开发者现可通过 repo + ssh 下载（需注册公钥）或者通过 repo + https 下载源码，芯片及开发板适配状态请参考官方 SIG-Devboard 信息。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202110/615792718e9f09367735dd3f_1024.jpg" data-height="248" data-width="248" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/615792718e9f09367735dd3f_1024.jpg" referrerpolicy="no-referrer"></div></div>方式一（推荐）<p></p><p>通过 repo + ssh 下载（需注册公钥，请参考码云帮助中心）。</p><p>repo init -u git@gitee.com:openharmony/manifest.git -b refs/tags/OpenHarmony-v3.1-Beta --no-repo-verifyrepo sync -crepo forall -c 'git lfs pull'</p><p>方式二</p><p>通过 repo + https 下载。</p><p>repo init -u https://gitee.com/openharmony/manifest.git -b refs/tags/OpenHarmony-v3.1-Beta --no-repo-verifyrepo sync -crepo forall -c 'git lfs pull'</p><p>据公开资料，OpenHarmony 是由开放原子开源基金会（OpenAtom Foundation）孵化及运营的开源项目，目标是面向全场景、全连接、全智能时代，搭建一个智能终端设备操作系统的框架和平台，促进万物互联产业的繁荣发展。</p><p>OpenHarmony 支持如下几种系统类型：</p><p>轻量系统（mini system）</p><p>面向 MCU 类处理器例如 Arm Cortex-M、RISC-V 32 位的设备，硬件资源极其有限，支持的设备最小内存为 128KiB，可以提供多种轻量级网络协议，轻量级的图形框架，以及丰富的 IOT 总线读写部件等。可支撑的产品如智能家居领域的连接类模组、传感器设备、穿戴类设备等。</p><p>小型系统（small system）</p><p>面向应用处理器例如 Arm Cortex-A 的设备，支持的设备最小内存为 1MiB，可以提供更高的安全能力、标准的图形框架、视频编解码的多媒体能力。可支撑的产品如智能家居领域的 IP Camera、电子猫眼、路由器以及智慧出行域的行车记录仪等。</p><p>标准系统（standard system）</p><p>面向应用处理器例如 Arm Cortex-A 的设备，支持的设备最小内存为 128MiB，可以提供增强的交互能力、3D GPU 以及硬件合成能力、更多控件以及动效更丰富的图形能力、完整的应用框架。可支撑的产品如高端的冰箱显示屏。</p><p>OpenHarmony 主库组织地址：https://gitee.com/openharmony</p><p>OpenHarmonySIG 组织地址：https://gitee.com/openharmony-sig</p><p>OpenHarmony 三方库组织地址：https://gitee.com/openharmony-tpc</p><p>OpenHarmony 归档组织地址：https://gitee.com/openharmony-retired</p><p>更多内容请查阅官方站点。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
