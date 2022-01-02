@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-cc8ad69868222486a3ea0d6cdd781a4e_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=2157'
 author: 知乎
 comments: false
-date: Fri, 31 Dec 2021 10:11:24 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-cc8ad69868222486a3ea0d6cdd781a4e_1440w.jpg'
+date: Sat, 01 Jan 2022 15:50:20 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2157'
 ---
 
 <div>   
-七边形战士的回答<br><br><p data-pid="lllkKgZ8">新的MIUI游戏中心和taptap不能说完全一致，只能说一摸一样。从UI，到配色方案，都学习得非常到位。</p><p data-pid="uz6T_rmQ">不只是这个。</p><p data-pid="0Q9ceYHb">前几天的发布会，不但手机对标了苹果，发布会的编排看来也学习了苹果很多呢。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-cc8ad69868222486a3ea0d6cdd781a4e_1440w.jpg" data-size="normal" data-rawwidth="2541" data-rawheight="708" data-default-watermark-src="https://pic1.zhimg.com/v2-283b2a0d5469c6bb642b8fcca4c8eb0d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-cc8ad69868222486a3ea0d6cdd781a4e_r.jpg" referrerpolicy="no-referrer"><figcaption>对比2019 iPhone 11 发布会</figcaption></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-2e8ac72eff7171295e8d1feeda18ed9a_1440w.jpg" data-caption data-size="normal" data-rawwidth="2557" data-rawheight="711" data-default-watermark-src="https://pic4.zhimg.com/v2-ff6a586334916ee9c2263e0779e1a342_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-2e8ac72eff7171295e8d1feeda18ed9a_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="RZDd2rFA">都是围绕着Pro xx的PPT结构设计。</p><p data-pid="3lT4KEk0">看来也和三星学习了很多：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-174a0baeec8dd90f6be2cdb09c55bbeb_1440w.jpg" data-size="normal" data-rawwidth="4530" data-rawheight="1414" data-default-watermark-src="https://pic1.zhimg.com/v2-c28f6f65025292b413f1506a8c3a157c_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-174a0baeec8dd90f6be2cdb09c55bbeb_r.jpg" referrerpolicy="no-referrer"><figcaption>对比三星Galaxy S20系列海报</figcaption></figure><p data-pid="S9J_i1eW">就连堆叠的红-蓝-黑也学到了呢。</p>  
+迪迦的回答<br><br><p data-pid="QGaXyCVC">taptap喊话有两个意思</p><p data-pid="wuIglH9d">第一个意思：别抄我的。</p><p data-pid="hE_EzsiA">第二个意思：我的作业是错的。</p><p data-pid="yJ6XyE_Z">很简单，taptap采用的是百度贴吧+Google play一体的模式，大家能吐槽能下游戏。</p><p data-pid="mlaQ5M1V">但是他并不适用于内置模块，游戏模块应该是对游戏的个性化调校而不是刷攻略啥的，本身就很臃肿。</p><p data-pid="KmaUlUw6">按照taptap的理论，小米应该找rog同学要份作业，他的游戏中心才是名副其实的参考答案。</p>  
 </div>
             
