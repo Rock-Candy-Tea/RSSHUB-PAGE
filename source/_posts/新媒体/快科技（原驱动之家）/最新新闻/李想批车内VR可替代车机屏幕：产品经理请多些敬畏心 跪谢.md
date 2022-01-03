@@ -13,7 +13,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220103/s_33485060a4ae45feb6e59c8687
 ---
 
 <div>   
-<p>随着VR技术的发展，汽车内应用VR的地方也越来越多，VR-HUD类的抬头显示技术，已经在不少车型上应用，而今也有VR设备将取代车内屏幕的声音出现，对此，理想汽车创始人李想，进行了犀利的批评。</p>
+<p>随着VR技术的发展，汽车内应用VR的地方也越来越多，AR-HUD类的抬头显示技术，已经在不少车型上应用，而今也有AR设备将取代车内屏幕的声音出现，对此，理想汽车创始人李想，进行了犀利的批评。</p>
 <p><strong>李想称：最近出现一种观点，号称有了VR设备以后，车内就不需要屏幕了。</strong></p>
 <p>我的观点：不要轻易定义那些你连用都没用过的产品，<strong>作为一个合格的产品经理，在产品定义前，请务必确保自己掌握最基本的VR理论知识和足够的使用经验。</strong></p>
 <p>务必多思考一下用户基本的生活场景，并多问自己一些为什么。</p>
@@ -25,7 +25,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20220103/s_33485060a4ae45feb6e59c8687
 <p>不要轻易用概念误导消费者，更不要胡乱去定义那些自己根本没用过的产品。</p>
 <p>我支持所有车企对于VR的尝试和探索，每家企业都应该在创新体验的道路上努力。<strong>但是，在什么功能都没实现前就误导消费者屏幕无用论，我认为缺乏最基本的产品常识和敬畏心。</strong></p>
 <p><strong>对于做产品，请多一些最基本的敬畏心，跪谢！</strong></p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20220103/33485060a4ae45feb6e59c86870a3202.png" target="_blank"><img alt="李想批车内VR可替代车机屏幕：产品经理请多些敬畏心 跪谢" h="450" src="https://img1.mydrivers.com/img/20220103/s_33485060a4ae45feb6e59c86870a3202.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
