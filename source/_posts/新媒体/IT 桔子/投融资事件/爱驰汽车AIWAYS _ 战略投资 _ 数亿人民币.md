@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/628990dcb43cd257945765d6fa16d79f.png'
         <strong>爱驰汽车AIWAYS</strong><br>
         新能源汽车<br>
         战略投资 / 数亿人民币 / 1641205304<br>
-        投资方: 东柏集团
+        投资方: 广微控股、东柏集团
         
 </div>
             
