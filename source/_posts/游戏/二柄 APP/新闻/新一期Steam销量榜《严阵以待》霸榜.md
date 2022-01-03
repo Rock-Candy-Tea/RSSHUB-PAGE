@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/2/2022/01/03/0259071199.jpeg'
 author: 二柄 APP
 comments: false
-date: 2022-01-03 00:29:19
+date: 2022-01-03 01:58:26
 thumbnail: 'https://erbingeditor.diershoubing.com/2/2022/01/03/0259071199.jpeg'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/2/2022/01/03/0259071199.jpeg'
 【新一期Steam销量榜《严阵以待》夺魁】全新一期的Steam销量榜单（12月27日至1月2日）已经出炉，硬核反恐战术FPS游戏《严阵以待》再次拿下第一，连续霸榜。完整前十榜单如下：
 1.《严阵以待（Ready or Not）》
 2.《双人成行》
-3.《玩具熊的五夜后宫：安全漏洞》
+3.《玩具熊的五 夜 后 宫：安全漏洞》
 4. Valve Index VR Kit
 5.《僵尸毁灭工程》
 6.《盗贼之海》
