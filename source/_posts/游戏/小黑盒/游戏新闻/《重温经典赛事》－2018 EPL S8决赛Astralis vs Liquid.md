@@ -1,0 +1,18 @@
+
+---
+title: '《重温经典赛事》－2018 EPL S8决赛Astralis vs Liquid'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/01/03/a439e3f197711803a3df9fe13de70348/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 03 Jan 2022 17:44:30 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/01/03/a439e3f197711803a3df9fe13de70348/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p>各位小黑盒的观众朋友们大家好，欢迎收看《重温经典赛事》系列文章。</p><p>在观看本期文章之前呢，我先在这里跟小伙伴们道个歉——就是关于我停更了2期内容这件事，原因则是前两周在忙期末考试的事。13</p></blockquote><p><br></p><p><b>本期经典赛事巡礼：2018 EPL S8总决赛——Astralis vs Team Liquid  （bo5）</b></p><p>‌本场比赛对阵双方阵容：<b><br></b></p><p>Astralis：gla1ve、dupreeh、Magisk、Xyp9x、device</p><p>Team Liquid：EliGE、NAF、nitr0、Twistzz、TACO</p><p><b>赛事关键词：决赛、A队、液体</b></p><p><b>图一：Train  （16：8  Liquid获胜）</b></p><p>‌精彩镜头：冷面杀手EliGE 1v3帮助队伍强起局翻盘！<b><br></b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/03/a439e3f197711803a3df9fe13de70348/thumb.jpeg" data-width="1917" referrerpolicy="no-referrer"></p><p>上半场第14回合，进攻方liquid全队只有一把AK和一些沙鹰以及鸟狙的强起局，开局双方绿通一波混战打成2换2，时间来到25秒，进攻方2人静步摸出匪口但被红楼梯里的dupreeh侧身全部打掉，好在红楼梯上的EliGE抓时机下来打掉dupreeh，随后干拉出来打掉四库的大狙device，极限时间下完包之后又抓时机打掉准备跳包车的残局大师Xyp9x，一举完成1v3。</p><p><br></p><p><b>图二：Mirage  （16：11  Astralis获胜）</b></p><p>‌精彩镜头1：最强大脑gla1ve单人粉碎液体四人A点进攻！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/03/e67645cab95facbe57a80979f786e2f7/thumb.jpeg" data-width="1911" referrerpolicy="no-referrer"></p><p>下半场手枪局，进攻方liquid开局3人走中路2人在A1和A二楼静候队友拱门到达位置执行一波夹A战术，只见走拱门的2人组被跳台的gla1ve瞬间两枪带走，随后又转身输出打掉二楼和A1如同行云流水般的完成四杀。只能说液体战术虽好但是千算万算没有算到gla1ve犹如炮台一般的枪法发挥。</p><p>精彩镜头2：同样是来自指挥gla1ve的顶级控枪ace名场面！</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/03/65c794247b015f20496c59c237cdf968/thumb.jpeg" data-width="1913" referrerpolicy="no-referrer"></p><p>下半场第21回合进攻方liquid的eco局，对于最强大脑gla1ve必然早已算到了对方本回合的经济状况，只见他单人拿着一把M4A4前顶中路恰好撞上了进攻方五人组，随后发生的一幕便是gla1ve的顶级控枪五杀名场面。</p><p><br></p><p><b>图三：Inferno  （16：11  Astralis获胜）</b></p><p>‌精彩镜头：来自Xyp9x的anti-eco局五杀！<b><br></b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/03/6eaefc6137612e99f381476b52fe8476/thumb.jpeg" data-width="1916" referrerpolicy="no-referrer"></p><p>下半场第25回合，进攻方liquid的eco局全队只有NAF手里一颗闪，随着这颗窗户白香蕉道的闪爆以及device的大狙空枪为信号，liquid全队一拥而至想追这把大狙，但是等待着他们的不是大狙，而是Xyp9x手里的AK和一个五杀。</p><p><br></p><p><b>图四：Dust2  （16：10  Astralis获胜）</b></p><p>‌精彩镜头：来自SG553人柱力EliGE的ace时刻！<b><br></b></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/03/37b4a53690ed3d04f7410e1b585965fb/thumb.jpeg" data-width="1924" referrerpolicy="no-referrer"></p><p>上半场第14回合进攻方liquid终于迎来了对方的eco局，开局CT方的Xyp9x一把usp凭借着出生位置较好选择单人来到A门右手死点的阴人位，不过这自然逃不过进攻方的搜点，随后被EliGE很轻松的打掉，在得知对手eco局的情况后，EliGE一马当先来到A大与警家CT对枪，随着SG553的一波压枪转移一举完成五杀。</p><p><br></p><p>本场比赛对阵双方数据：</p><p><img class="lazy" data-height="1380" src="https://imgheybox.max-c.com/bbs/2022/01/03/4386baf0f8c86a9c5a47f5b6e0d4e31b/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p><b>写在最后：</b></p><ol><li>随着Astralis图四上获得的胜利，Astralis以3：1的总比分战胜Team Liquid获得了本届ESL Pro League Season8赛季的冠军。</li><li>本届ESL Pro League Season8的赛事MVP获得者是device（平均rating为1.26），而值得一提的是决赛败方Team Liquid战队的NAF在本届赛事上的平均rating为1.31。</li><li>在本届ESL Pro League Season8总决赛开赛之前，2018年双方战队共交手13次（一场bo1、十场bo3、一场bo5），而战绩方面Team Liquid在面对到Astralis时仅赢得了一场bo1。</li><li>本届ESL Pro League Season8的上一届赛事EPL S7上的决赛双方也是Astralis和Team Liquid。</li></ol><p><br></p><blockquote><p>本期《重温经典赛事》就到此为止，感谢各位观众朋友们的观看，如果你喜欢本期内容的话记得点赞充电支持一下，我们下期再见。</p></blockquote>  
+</div>
+            
