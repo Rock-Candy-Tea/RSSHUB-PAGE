@@ -1,0 +1,18 @@
+
+---
+title: '$BTSG AIRDROP STAKEDROP 已袋袋平安！教你如何領'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/ccddbc81-4b56-41be-9366-c73927de90de.png'
+author: Matters
+comments: false
+date: Sun, 02 Jan 2022 04:28:11 GMT
+thumbnail: 'https://assets.matters.news/embed/ccddbc81-4b56-41be-9366-c73927de90de.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/ccddbc81-4b56-41be-9366-c73927de90de.png" data-asset-id="ccddbc81-4b56-41be-9366-c73927de90de" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>BitSong 空投已領，做法非常簡單。以下以 Cosmos 為示範，但是 Osmosis、JUNO 也是同理。</p><p>1. 首先到 Keplr 查看自己有沒有獲得空投，就是在 Cosmos 拉去下面看看有沒有「Tokens」，如果有的話，即是已獲得空投。但是因這些空投的 Token 不在 BitSong 主網，你要把他們轉送到 BitSong 主網才可以進一步做換幣或者流動性挖礦。</p><figure class="image"><img src="https://assets.matters.news/embed/fcf63da8-4320-4317-986a-def15ae4e4dd.png" data-asset-id="fcf63da8-4320-4317-986a-def15ae4e4dd" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>2. 先把 BitSong 主網加一加。到 <a href="https://wallet.bitsong.io/" rel="noopener noreferrer" target="_blank">https://wallet.bitsong.io</a> 點「Keplr Browser Extension」即可連結 BitSong 主網。</p><figure class="image"><img src="https://assets.matters.news/embed/a49d1c20-620f-4def-a669-49f7e5d9ae1d.png" data-asset-id="a49d1c20-620f-4def-a669-49f7e5d9ae1d" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>3. 加完了以後點 Keplr 會看到多了 BitSong Mainnet 這個東西。</p><figure class="image"><img src="https://assets.matters.news/embed/c78442f7-93dc-4f89-a84f-ceb5c73652d9.png" data-asset-id="c78442f7-93dc-4f89-a84f-ceb5c73652d9" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>4. 之後到這個網址 <a href="https://bridge.bitsong.io/" rel="noopener noreferrer" target="_blank">https://bridge.bitsong.io/</a> ，因為現在需要做的是要把 Cosmos 中的 BitSong 轉到 BitSong 主網，所以上面選的就是 Cosmos -> BitSong。設置中間會彈出 Keplr 視窗要求你的 Add Connection，點「Approve」就可以了。</p><figure class="image"><img src="https://assets.matters.news/embed/7b6728c4-19b1-4ced-a063-db30704e4004.png" data-asset-id="7b6728c4-19b1-4ced-a063-db30704e4004" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>留意那個 TO ADDRESS 的錢包地址，你需要人手貼上由步驟 3 中獲得的地址。在 AMOUNT 點 MAX 抓取空投的最大數字，再選取 I have read the alert and understand the risks，然後點 SEND。 </p><p>5. 彈出確認視窗後「Approve」，留意領 Cosmos 那邊的空投是需要一點點 Gas Fee 的，領 Osmosis 的空投是完全不用付 Gas Fee，JUNO 因為我沒有就不知道了。</p><figure class="image"><img src="https://assets.matters.news/embed/cc608dd6-ad4a-4dc7-91cb-7e19edfd1440.png" data-asset-id="cc608dd6-ad4a-4dc7-91cb-7e19edfd1440" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>6. 出現此畫面代表空投領好領滿。</p><figure class="image"><img src="https://assets.matters.news/embed/ada26d87-bdc7-4afe-8c45-936bf0c94fdc.png" data-asset-id="ada26d87-bdc7-4afe-8c45-936bf0c94fdc" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>7. 回到 Keplr BitSong Mainnet，看到空投已傳到主網，可以在 Osmosis 賣掉或者做委託了。</p><figure class="image"><img src="https://assets.matters.news/embed/a62099bf-afed-4166-9b57-9343f5fd6ecb.png" data-asset-id="a62099bf-afed-4166-9b57-9343f5fd6ecb" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>8. 決定先做委託。我最愛的 #decentralizehk、佣金都只是 5%。LikeCoin 驗證人老貓和 Forbole 都在上面，大家都可以支持一下。</p><p>Cosmos 真的超多空投，早前才有過 <a href="https://matters.news/@penfarming/%E9%96%B1%E8%AE%80%E7%AD%86%E8%80%95-%E5%90%89%E5%A8%83%E5%A8%83%E5%B9%A3%E7%A9%BA%E6%8A%95-osmo-%E8%B3%AA%E6%8A%BC%E8%80%85%E5%9D%87%E6%9C%89%E4%BB%BD-%E9%99%84%E6%95%99%E5%AD%B8-bafyreicpch5ouf6sxxkjch6ykqdylei7n2k6wweb4jydgz4ixb4yaqms7u" rel="noopener noreferrer" target="_blank">吉娃娃</a> 的，我覺得真的應該留意一下這個生態系喔。</p>  
+</div>
+            
