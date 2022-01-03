@@ -21,25 +21,25 @@ thumbnail: 'https://img.36krcdn.com/20220103/v2_db4bcc90d3ee49dfa576b733dc736c3c
 <p>编辑 | 李欢欢</p> 
 <p>2022新年第一天，新势力们忙不迭发布2021年度交付数据。从官方数据来看，有四个品牌月交付量再次破万，“蔚小理”全年交付量均突破9万辆，尤其是小鹏汽车，率先向10万年交付量逼近。</p> 
 <p>腰部成员也在奋力追赶，推进新一轮融资、调整组织架构，渴望缩小与“蔚小理”之间的差距。</p> 
-<p><strong>1月3日，未来汽车日报（ID：auto-time）从多方独立信源处获悉，爱驰汽车获得新一轮融资，本轮融资方来自陈炫霖及其旗下东柏集团，融资金额达数亿美元。</strong>自2017年底至今，陈炫霖已参与爱驰汽车多轮融资。据知情人士透露，作为老股东，在本轮融资的多个投资意向方中，陈炫霖的进一步战略投资得到了现有股东和创始人团队的一致认可。</p> 
+<p><strong>1月3日，未来汽车日报（ID：auto-time）从多方独立信源处获悉，爱驰汽车获得新一轮融资，本轮融资方来自陈炫霖及其旗下东柏集团，融资金额达数亿美元。</strong>自2017年底至今，陈炫霖已参与爱驰汽车多轮融资。据知情人士透露，作为老股东，在本轮融资的多个投资意向方中，陈炫霖的进一步战略投资<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>了现有股东和创始人团队的一致认可。</p> 
 <p>陈炫霖具有丰富的汽车行业投资与运营经验，一直看好新能源汽车产业。目前，新股东已派部分工作人员进驻爱驰。</p> 
 <p><strong>伴随新的资金注入，爱驰汽车管理团队也发生了一场剧变。</strong></p> 
 <p><strong>根据爱驰汽车官网最新信息显示，创始人付强继续担任爱驰汽车总裁，陈炫霖担任爱驰汽车董事长，张洋任CEO。张洋曾担任蔚来汽车产业发展副总裁等职务，</strong>拥有丰富的行业经验和资源，是新能源汽车行业的资深管理专家。</p> 
-<p>陈炫霖现任上海中通瑞德投资集团有限公司董事长，兼任上海万象汽车制造有限公司董事长，目前执掌的中通瑞德投资集团（广微控股）是一家聚焦泛交通产业投资及产业运营的综合性集团，公司产业涉及汽车制造与商贸、通航产业及科技制造领域，主要产业公司为万象汽车、浙江中通控股、亚联公务机等。</p> 
-<p>爱驰汽车成立于2017年2月，是较晚成立的一家新势力车企，其研发总部位于上海嘉定。爱驰汽车的创始人谷峰曾任上汽集团CFO，其愿景是要做“中国特斯拉”。除了上海总部，爱驰在德国设有全资子公司爱驰恭博，在美国底特律设有前瞻技术实验室，曾经被业内称为“最靠谱造车新势力”。</p> 
+<p>陈炫霖现任上海<a class="project-link" data-id="3969191" data-name="中通" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969191" target="_blank">中通</a>瑞德投资集团有限公司董事长，兼任上海万象汽车制造有限公司董事长，目前执掌的中通瑞德投资集团（广微控股）是一家聚焦泛交通产业投资及产业运营的综合性集团，公司产业涉及汽车制造与商贸、通航产业及科技制造领域，主要产业公司为万象汽车、浙江中通控股、亚联公务机等。</p> 
+<p>爱驰汽车成立于2017年2月，是较晚成立的一家新势力车企，其研发总部位于上海嘉定。爱驰汽车的创始人谷峰曾任<a class="project-link" data-id="25201" data-name="上汽集团" data-logo="https://img.36krcdn.com/20210806/v2_ae87078b4995423e83fe4061b19f2a1e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25201" target="_blank">上汽集团</a>CFO，其愿景是要做“中国<a class="project-link" data-id="132410" data-name="特斯拉" data-logo="https://img.36krcdn.com/20200729/v2_e76e3d3d44c440138f072b13bc84a6dc_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/132410" target="_blank">特斯拉</a>”。除了上海总部，爱驰在德国设有全资子公司爱驰恭博，在美国底特律设有前瞻技术实验室，曾经被业内称为“最靠谱造车新势力”。</p> 
 <p>不过，近年来爱驰的发展并不如意。2020年爱驰在国内累计销量仅有2600辆。进入2021年，爱驰月均销量尚不足300辆。乘联会数据显示，2021年1-11月，爱驰汽车累计销量为2992辆。</p> 
 <p>目前，爱驰旗下仅有一款在售车型——爱驰U5，补贴后售价16.69万-24.99万元。接近爱驰汽车的人士透露，由于资金问题，曾计划9月上市的轿跑车型爱驰U6，并未如期而至，爱驰销售人员称预计最快2022年一季度末交车。</p> 
 <p class="image-wrapper"><img data-img-size-val="2800,1370" src="https://img.36krcdn.com/20220103/v2_b8d188ef6687407192adbb81d027b65f_img_png" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">爱驰U5；来源爱驰汽车官方 </p> 
 <p>或许是不满爱驰发展现状，资方决定接管公司，<strong>有消息称，付强有可能调离，或许将负责生产制造业务。</strong>不过该消息尚未得到证实。</p> 
 <p>据业内人士分析，2020年疫情突袭、品牌影响力不足、产品特色缺失以及营销能力和互联网思维较弱是爱驰汽车掉队的主要原因。</p> 
-<p>知情人士称，蔚来汽车是新造车公司中具有互联网思维的标杆企业，爱驰招募张洋主要是看中他在蔚来汽车的工作经验，以弥补互联网思维的短板。张洋是早期加入蔚来汽车的高管之一，他曾多次公开分享蔚来在商业模式、产业发展路径方面的探索。</p> 
-<p>公开信息显示，在这一轮融资之前，爱驰汽车已累计完成6轮融资。资方阵容包括上海百好连、广港投资、鑫劲投资、沙钢集团、明驰基金、宁德时代等，已公布的融资总额超90亿元人民币。</p> 
+<p>知情人士称，<a class="project-link" data-id="63630" data-name="蔚来汽车" data-logo="https://img.36krcdn.com/20210807/v2_69a755a63a494bd19fa2695bf4a2c439_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/63630" target="_blank">蔚来汽车</a>是新造车公司中具有互联网思维的标杆企业，爱驰招募张洋主要是看中他在蔚来汽车的工作经验，以弥补互联网思维的短板。张洋是早期加入蔚来汽车的高管之一，他曾多次公开分享蔚来在商业模式、产业发展路径方面的探索。</p> 
+<p>公开信息显示，在这一轮融资之前，爱驰汽车已累计完成6轮融资。资方阵容包括上海百好连、广港投资、鑫劲投资、<a class="project-link" data-id="465296" data-name="沙钢集团" data-logo="https://img.36krcdn.com/20210812/v2_60153ad2e0a4442bade856f6a7e2444f_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/465296" target="_blank">沙钢集团</a>、明驰基金、宁德时代等，已公布的融资总额超90亿元人民币。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,369" src="https://img.36krcdn.com/20220103/v2_b4486b438dd7474bb71ec757f6d5c7a2_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">来源：天眼查</p> 
 <p>拿到新一轮数亿美元融资，并获得新鲜血液，爱驰得到一次全力追赶的机会。从目前新造车阵营的竞争格局来看，前三甲数次生变，还远未到“终局时刻”，内卷才刚刚开始。</p> 
 <p>—————————— </p> 
-<p>如果你也关注汽车领域动态，欢迎与我们交流。交流可加作者微信，烦请备注公司及职务。</p> 
+<p>如果你也关注汽车领域动态，欢迎与我们交流。交流可加作者<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>，烦请备注公司及职务。</p> 
 <p class="image-wrapper"><img data-img-size-val="900,500" src="https://img.36krcdn.com/20200924/v2_b704f206f3a048f28fb028b8a229e561_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">请关注未来汽车日报（ID：auto-time）</p>  
 </div>
