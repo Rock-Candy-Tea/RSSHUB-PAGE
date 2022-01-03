@@ -1,0 +1,18 @@
+
+---
+title: '苹果iPhone连续第二个月登顶中国手机市场销量冠军'
+categories: 
+ - 金融
+ - 财联社
+ - 电报
+headimg: 'https://picsum.photos/400/300?random=224'
+author: 财联社
+comments: false
+date: Mon, 03 Jan 2022 06:04:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=224'
+---
+
+<div>   
+【苹果iPhone连续第二个月登顶中国手机市场销量冠军】财联社1月3日电，市场研究公司Counterpoint Research的数据显示，受iPhone 13系列成功的推动，苹果公司2021年11月份在中国市场的份额为23.6%，连续第二个月在中国登顶手机销量冠军。苹果在10月份的市场份额自2015年以来首次超越了所有其他手机品牌。Vivo11月份的市场份额为17.8%位列第二。  
+</div>
+            
