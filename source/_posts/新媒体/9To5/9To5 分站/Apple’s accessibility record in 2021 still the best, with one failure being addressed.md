@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apples-accessibility-record-still-the-best.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Accessibility.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Mon, 03 Jan 2022 12:38:59 GMT
-thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apples-accessibility-record-still-the-best.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Accessibility.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apples-accessibility-record-still-the-best.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Accessibility.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>A summary of the way that various tech giants last year sought to address the needs of people with disabilities shows that Apple’s <a href="https://9to5mac.com/guides/accessibility/" target="_blank" rel="noreferrer noopener">accessibility</a> record is better than that of most companies – but did make things worse in one respect.</p>
 <p>The piece summarizes the accessibility wins and losses of <a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple</a>, Amazon, Google, Meta, Microsoft, and Twitter …</p>
 <p><span id="more-778578"></span>

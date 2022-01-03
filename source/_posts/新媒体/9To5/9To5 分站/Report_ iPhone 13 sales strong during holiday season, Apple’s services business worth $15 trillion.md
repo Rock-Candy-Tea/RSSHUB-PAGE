@@ -21,7 +21,7 @@ thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/app
 <blockquote class="wp-block-quote">
 <p>The company has told its component suppliers that demand for the iPhone 13 lineup has weakened, people familiar with the matter said, signaling that some consumers have decided against trying to get the hard-to-find item, Bloomberg News reports.</p>
 </blockquote>
-<p>Not only that but Bloomberg had also reported that Apple cut its iPhone 13 production plans by 10 million units due to part constraints including the ongoing global chip shortage. Now, Wedbush analyst Daniel Ives says the opposite:</p>
+<p>Not only that but <em>Bloomberg</em> had also reported that Apple cut its iPhone 13 production plans by 10 million units due to part constraints including the ongoing global chip shortage. Now, Wedbush analyst Daniel Ives says the opposite:</p>
 <blockquote class="wp-block-quote">
 <p>(…) We instead are focused on the robust consumer demand story shaping up for iPhone 13 into 2022. Based on our supply chain checks over the last few weeks, we believe demand is outstripping supply for Apple by roughly 12 million units in the December quarter which now will add to the tailwinds for Cupertino in the March and June quarters as the supply chain issues ease in 1H22.’</p>
 </blockquote>
