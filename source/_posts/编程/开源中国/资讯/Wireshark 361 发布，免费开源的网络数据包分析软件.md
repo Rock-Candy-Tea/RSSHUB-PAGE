@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8328'
+headimg: 'https://picsum.photos/400/300?random=2105'
 author: 开源中国
 comments: false
-date: Mon, 03 Jan 2022 23:41:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8328'
+date: Tue, 04 Jan 2022 07:40:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2105'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Wireshark 是世界上最流行的网络协议分析器。它被用于故障排除、分析、开发和教育。Wireshark 3.6.1 发布，更新内容如下：</p> 
+                                                                    
+                                                        <p>Wireshark 是世界上最流行的网络协议分析器。它被用于故障排除、分析、开发和教育。Wireshark 3.6.1 发布，更新内容如下：</p> 
 <h3>新功能和更新功能</h3> 
 <ul> 
  <li>在 Wireshark 3.6.0 中删除了 <code>console.log.level</code> 。这个版本在 CLI 上增加了一个 <code>-o console.log.level:</code> 向后兼容的选项，映射到新的日志子系统。</li> 

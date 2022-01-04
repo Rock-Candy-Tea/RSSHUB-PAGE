@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5620'
+headimg: 'https://picsum.photos/400/300?random=4521'
 author: 开源中国
 comments: false
 date: Tue, 04 Jan 2022 07:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5620'
+thumbnail: 'https://picsum.photos/400/300?random=4521'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>KeePass 是一个免费开源的密码管理器，它帮助你以安全的方式管理密码。你可以把你所有的密码放在一个数据库中，用一个主密码或一个密钥文件锁定。因此，你只需要记住一个主密码或选择密钥文件来解锁整个数据库。数据库使用非常安全的加密算法（AES/Rijndael, Twofish）进行加密。</p> 
+                                                                    
+                                                        <p>KeePass 是一个免费开源的密码管理器，它帮助你以安全的方式管理密码。你可以把你所有的密码放在一个数据库中，用一个主密码或一个密钥文件锁定。因此，你只需要记住一个主密码或选择密钥文件来解锁整个数据库。数据库使用非常安全的加密算法（AES/Rijndael, Twofish）进行加密。</p> 
 <p>KeePass 1.40 正式发布，这是一个稳定的版本，该版本更新内容如下：</p> 
 <h3>新功能：</h3> 
 <ul> 

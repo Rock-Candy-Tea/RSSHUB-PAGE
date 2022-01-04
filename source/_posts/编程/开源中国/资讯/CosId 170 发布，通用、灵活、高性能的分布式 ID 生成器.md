@@ -8,13 +8,14 @@ categories:
 headimg: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
 author: 开源中国
 comments: false
-date: Tue, 04 Jan 2022 00:04:00 GMT
+date: Tue, 04 Jan 2022 08:04:00 GMT
 thumbnail: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p data-darkreader-inline-color style="--darkreader-inline-color:#b7b1a7; color:#40485b; margin-left:0em; margin-right:0em; text-align:center"><img src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png" width="300" referrerpolicy="no-referrer"></p> 
+                                                                    
+                                                        <p data-darkreader-inline-color style="--darkreader-inline-color:#b7b1a7; color:#40485b; margin-left:0em; margin-right:0em; text-align:center"><img src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png" width="300" referrerpolicy="no-referrer"></p> 
 <h1 style="margin-left:0; margin-right:0; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fcosid.ahoo.me%2F">CosId</a><span> </span>通用、灵活、高性能分布式 ID 生成器</h1> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">更新内容（v1.7.0） 🎉 🎉 🎉</h2> 
 <h2 style="margin-left:0em; margin-right:0em; text-align:start">📔 文档</h2> 

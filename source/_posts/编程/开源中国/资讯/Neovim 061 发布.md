@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6651'
+headimg: 'https://picsum.photos/400/300?random=2907'
 author: 开源中国
 comments: false
 date: Tue, 04 Jan 2022 07:20:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6651'
+thumbnail: 'https://picsum.photos/400/300?random=2907'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Neovim 是 Vim 的一个分支，旨在改进代码库，允许更轻松地实现 API，改善用户体验和插件实现。Neovim 的源代码比 Vim 少 30%。</p> 
+                                                                    
+                                                        <p>Neovim 是 Vim 的一个分支，旨在改进代码库，允许更轻松地实现 API，改善用户体验和插件实现。Neovim 的源代码比 Vim 少 30%。</p> 
 <p>Neovim 0.6.1 发布，更新内容如下：</p> 
 <h3>错误修复：</h3> 
 <ul> 
