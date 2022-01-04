@@ -15,7 +15,7 @@ thumbnail: 'https://upload.cfan.com.cn/2022/0104/1641260467464.jpg'
 <div>   
 <p><strong>Intel DG2独立显卡合作品牌曝光</strong></p>
 <p>Intel有望在3月份正式发布DG2 Alchemist系列游戏独立显卡，预计命名为Arc A系列，覆盖桌面、笔记本、工作站。这也是Intel Xe架构的第二个系列产品。此前的DG1系列定位超低功耗入门级市场，性能极其有限，合作伙伴也较少，目前只有华硕、技嘉、微星、蓝戟(Gunnir)。</p>
-<p>DG2系列的家族成员就壮大多了，据悉已经拿到Intel品牌授权的厂商有至少11家，涵盖各大板卡品牌：华硕、技嘉、微星、蓝戟、七彩虹、铭瑄、梅捷、索泰、影驰、耕升、翔升。上述品牌均已拿到DG2 GPU，正在进行产品研发、测试。</p>
+<p>DG2系列的家族成员就壮大多了，据悉已经拿到Intel品牌授权的厂商有至少11家，涵盖各大板卡品牌：华硕、技嘉、微星、蓝戟、七彩虹、铭瑄、梅捷、影驰、耕升、翔升。上述品牌均已拿到DG2 GPU，正在进行产品研发、测试。</p>
 <p>从目前的情况看，Intel DG2显卡最高有望达到RTX 3070 Ti的水平，但也要看驱动、游戏优化，而且进度一再推迟，据说已经让不少合作伙伴有些不耐烦了。</p>
 <p style="text-align: center; text-indent: 0;"><img src="https://upload.cfan.com.cn/2022/0104/1641260467464.jpg" border="0" alt="s_a648712182e44de9904e8ec52e96efb9" referrerpolicy="no-referrer"></p>
 <p><strong>RTX 3090 Ti恐成电老虎</strong></p>
