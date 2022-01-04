@@ -1,0 +1,18 @@
+
+---
+title: '【考据】浅谈申鹤pv剑诀及亲缘关系'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/01/04/e8ead83d710011f1fbd4ebd62d5ef00d/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: 2022-01-04 15:09:53
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/01/04/e8ead83d710011f1fbd4ebd62d5ef00d/thumb.jpeg'
+---
+
+<div>   
+<p><img class="lazy" data-height="2008" src="https://imgheybox.max-c.com/bbs/2022/01/04/e8ead83d710011f1fbd4ebd62d5ef00d/thumb.jpeg" data-width="3568" referrerpolicy="no-referrer"></p><p>各位旅行者好，我是TTL。</p><p>看完角色演示刚爆的肝哈。</p><p><br></p><p>在看完《原神》角色演示-「申鹤：闻鹤于野」后，TTL发现了有趣的一点：那就是，<b>剑诀</b>出现的次数太多次了啊喂！</p><p>其出现场景有且不仅有下图所示。</p><p><img class="lazy" data-height="844" src="https://imgheybox.max-c.com/bbs/2022/01/04/e8fb6a5e6ee8ed5ae3f7c028f72000f9/thumb.jpeg" data-width="1500" referrerpolicy="no-referrer"></p><p>看到这，可能就会有旅行者问了：为什么申鹤经常手持剑诀呢？这可不单单是为了好看。</p><p>剑诀，也叫<b>剑指</b>。它属于道教施法时需要用到的手诀，代表持剑斩邪或者破障，多用于<b>敕符</b>。</p><p><img class="lazy" data-height="1000" src="https://imgheybox.max-c.com/bbs/2022/01/04/a4a14a28f29a5786d767cc2748915c44/thumb.jpeg" data-width="1776" referrerpolicy="no-referrer"></p><blockquote><p>《道法会元》卷一百六十一中云：“诀目者，生于于神机而运化，修仙炼真，降魔制邪，莫不基之于此”。又云：“祖师心传诀目，通幽洞微，召神御鬼，要在于握诀”。<br></p></blockquote><p>也就是说，我国道教也跟佛教密宗一样存在手印、咒语，一般我们称之为“诀”或“手诀”，上面提到的剑诀就是其中之一。<br></p><p><br></p><p>手诀作为道法的基础组成之一，能起到感召鬼神、摧伏邪精的作用，是<b>促成符咒法术应验</b>的不可分割的一部分。</p><p><b>诵经、念咒、步罡、结坛、召将、气禁、收邪、治病、祈禳</b>等的各个环节都要掐相应的诀，剑诀的运用则较为广泛。</p><p><img class="lazy" data-height="992" src="https://imgheybox.max-c.com/bbs/2022/01/04/57675c0111a119435dc5e90b4c067d66/thumb.jpeg" data-width="1760" referrerpolicy="no-referrer"></p><p>其动作要领为：<b>无名指和小指弯屈，令大拇指压在指的二、三节间，食指和中指则并拢伸直</b>——因形似出鞘的直剑，从而代表剑的指形。</p><p>所谓“指的二、三节间”，就是掌指之间的那条<b>关节线</b>，从手指根部开始算，从下往上数。各位旅行者不妨自己练练，TTL觉得这个手势还是挺帅气的！</p><p><img class="lazy" data-height="844" src="https://imgheybox.max-c.com/bbs/2022/01/04/c420041a1c1a583f4a50f9c316026a14/thumb.jpeg" data-width="1500" referrerpolicy="no-referrer"></p><p>△左为十二辰文的掐法示意图，右为十二辰文的掐法的文字说明</p><p>可剑诀的意义远不仅于此，若往深往细了讲，里面藏着大学问。联系到十二辰文的掐法，“指的二、三节间”属于“<b>酉文</b>”。</p><blockquote><p>酉五行属<b>金</b>，所以“酉文”是真金之位。金，质地沉重，常用于铸造兵戈、造成杀戮，引申为沉降、肃杀、收敛等意，性质刚坚精粹，肃杀锐利。</p></blockquote><p>这与《原神》申鹤角色PV——「孤辰新梦」里，未知人士对于申鹤的评价“孤辰劫煞”有一定程度上的呼应。</p><p><img class="lazy" data-height="472" src="https://imgheybox.max-c.com/bbs/2022/01/04/1885416225987a03c6406a8911c6d17c/thumb.jpeg" data-width="840" referrerpolicy="no-referrer"></p><p>不仅如此，“酉文”在后天八卦中为<b>兑位</b>。</p><blockquote><p>《易》曰：“刚中而柔外，说以利贞，是以顺平天，而应乎人”，又言：“孚于剥，位当正也”。</p></blockquote><p>从旁说明金的本质是外阴内阳，由此能破除、剥落阴邪，顺天正道之意，与用于破邪的剑诀很是相符。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/04/8a7a513b50b4dccc9066e10a4a99470e/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>在《原神》角色演示-「申鹤：闻鹤于野」里，出场的重云也使用了剑诀（剑指）。</p><p>重云是璃月驱邪世家的年轻方士，而申鹤是璃月驱邪世家旁系之子，只是后来师从留云借风真君，长年隐修在山林间，以人类之躯修得仙法。二者都以驱邪为己业，用同款手势驱邪诛妖很是正常。</p><p><br></p><p>分析完剑诀的作用，我们再谈谈重云与申鹤之间的<b>亲缘关系</b>。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/01/04/14925b7e66f7d555a60d09f4cce754b6/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>从pv的最后我们得知，申鹤竟是重云的<b>小姨</b>。我们都知道，小姨为亲属关系称谓，用以称呼<b>母亲的姐妹</b>。换句话说，重云是申鹤的外甥。这也就解释为什么重云会在申鹤pv有不少篇幅的原因了。</p><p>TTL对此并不感到惊讶。过往的资料写明，重云和申鹤同为璃月驱邪世家出身，所以有着亲缘关系并不奇怪。只是TTL没想到，两者的关系会离得如此之近。</p><p><img class="lazy" data-height="810" src="https://imgheybox.max-c.com/bbs/2022/01/04/af1c3436909e991c3bfb29c61a1cb269/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p>申鹤的角色演示视频无疑是在为后面的剧情做铺垫。<b>重云的母亲</b>又会是什么模样呢？真是让人好奇。</p><p>感谢你的观看！</p><p><br></p><p>※图源网络侵删</p><p>～仅供参考～</p><p>～欢迎讨论～</p>  
+</div>
+            
