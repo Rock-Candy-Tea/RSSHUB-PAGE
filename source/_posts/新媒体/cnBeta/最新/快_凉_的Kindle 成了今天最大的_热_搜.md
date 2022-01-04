@@ -1,0 +1,19 @@
+
+---
+title: '快_凉_的Kindle 成了今天最大的_热_搜'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0104/772536ead3fa919.jpeg'
+author: cnBeta
+comments: false
+date: Tue, 04 Jan 2022 11:24:43 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0104/772536ead3fa919.jpeg'
+---
+
+<div>   
+2022年开工第一天大早，有网友爆料Kindle京东自营店全线缺货，消息很快冲上微博热搜榜首。@Kindle中国微博账号下，网友们在其最近发布的一条博文下集中提问：<span style>Kindle是否要退出中国市场？电子书城还能不能用？</span><br>
+ <p><a href="https://static.cnbetacdn.com/thumb/article/2022/0104/772536ead3fa919.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/772536ead3fa919.jpeg" referrerpolicy="no-referrer"></a></p><p>大约4小时后，亚马逊中国官方作出回应：我们致力于服务中国消费者。消费者可以通过第三方线上和线下零售商购买Kindle设备。亚马逊提供的高品质客户服务和保修服务不会改变。Kindle电子书阅读器深受消费者青睐，部分机型目前在中国市场售罄。</p><p><span style>虽然官方辟谣缺货是由于“缺芯”所致，但Kindle退出中国的传闻也并非空穴来风。</span>根据媒体报道，去年11月亚马逊中国的Kindle硬件团队已被裁撤。此外，有第三方渠道客服人员向极客公园表示，亚马逊此前已经在对设备和内容是否退出中国市场进行调研，但目前尚未确定。</p><p>事件至此尘埃落定，但讨论仍在继续。Kindle及其背后的亚马逊在中国节节败退，“水土不服”或许不足以解释全部。</p><p><strong><span style>昔日坎坷入华，</span><span style>今朝风光不再</span></strong></p><p>搜索各大电商平台，极客公园发现，淘宝和天猫上已无法找到Kindle官方旗舰店。一家Kindle淘宝代购店的客服表示，设备和电子书城均可正常使用，上午的新闻也没有对店铺生意产生影响。<span style>亚马逊此前已经在对设备和内容是否退出中国市场进行调研，但目前尚未确定。</span>“大概率是不好退的。”这位客服人员告诉极客公园。</p><p>同时，Kindle<a data-link="1" href="https://c.duomai.com/track.php?k=nJ9QWa1VmJxYTPklWYmYDO5IDNy0DZp9VZ0l2cmYiJt92YuQmauc3d3ZkMlYkMlE0MlMHc0RHa9Q" target="_blank">京东</a>官方自营店仍在营业，但只有青春版显示有货。极客公园咨询该店客服后得到回复：没有接到关于Kindle退出中国市场的消息。<span style>商品缺货是厂家缺少芯片所致，只是暂时没货，后期会陆续到货，但具体到货时间暂无法确定。</span>同时，电子书城业务不会受到影响。</p><p>@Kindle电子书库发布微博：“大家放心，目前只是生产商缺货，今年三月后会有所好转。Kindle书店不会关闭，安心看书吧。”</p><p style="text-align: center;"><img src="https://n.sinaimg.cn/tech/crawl/692/w550h142/20220104/801a-cb803b13a2569aa3a840b135a0f74655.jpg" alt="@Kindle 电子书库微博截图" data-link referrerpolicy="no-referrer"><br>@Kindle电子书库微博截图</p><p>虽已有官方出面辟谣，但并不能解除人们对Kindle在华处境的担忧。据新京报贝壳财经报道，<span style>亚马逊中国公司的Kindle硬件团队已于2021年11月被裁撤。</span></p><p>追溯往事，Kindle的入华之路可谓步履艰难。国内的图书消费习惯、出版机制、版权环境、政策壁垒都是Kindle入华不得不面对的现实。</p><p>2013年6月7日，经过近一年的低调筹备，Kindle正式进入中国市场。据新浪科技报道，“Kindle商店”当时在亚马逊中国的入口并不明显，但提供的图书却十分丰富，几乎覆盖所有品类。《金陵十三钗》、《乔布斯传》等畅销书籍，还有3-8折不等的折扣优惠。</p><p>入华半年后，Kindle实现盈利，亚马逊将此作为拓展中国市场的新契机，Kindle相关服务在亚马逊中国首页占据显著位置。</p><p>但好景并不长久。Kindle在中国一直被认为是小众产品，市场不温不火。随着千元智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>和平板电脑迅速铺开，用户更倾向于选择集社交、拍照、视频、阅读等需求为一体的兼容性多功能终端产品，Kindle轻易就被替代。</p><p>加之掌阅、汉王等国内电子书阅读器猛攻细分市场，Kindle本就不大的蛋糕被瓜分得所剩无几。内容源有限、门店关张、团队被撤，用户手中的“泡面盖子”越来越凉。</p><p><strong><span style>从电商到Kindle，</span><span style>亚</span><span style>马逊</span><span style>为何总在中国折戟</span></strong></p><p>因为一次商品缺货就引发大规模公众讨论的品牌并不多见。除了中国用户对于Kindle的情怀，打遍全球无敌手的亚马逊，在中国市场一再折戟，也是公众关注的焦点。</p><p>事实上，与谷歌、Facebook、Netflix等互联网媒体巨头相比，亚马逊所在的电商行业受到国内监管的限制相对较小，其业务在中国节节败退，并不能简单归纳为政策限制或者水土不服。</p><p>亚马逊是最早一批入华的海外互联网巨头之一。早在2004年，亚马逊作价7500万美元，从雷军手中买下了卓越网。一年多之后，亚马逊开始启用自身的数据库系统替代卓越网的系统，历经三年时间完成转换。2007年，卓越更名为“卓越亚马逊”。2011年，再次更名为“亚马逊中国”。</p><p>7年间，中国的电子商务市场迅猛发展，消费新天地诞生。亚马逊的“慢火烹制”已经掉队，将先机拱手让人。</p><p>2014年，亚马逊中国发力跨境网购，打造了以“亚马逊海外购”和“Prime会员服务”为核心的独特跨境业务模式。</p><p style="text-align: center;"><img src="https://n.sinaimg.cn/tech/crawl/60/w550h310/20220104/42dd-e47d4e8d258b92527c4c19d6b1612a44.jpg" alt="亚马逊 Prime 会员服务" data-link referrerpolicy="no-referrer"><br>亚马逊Prime会员服务</p><p>但在日新月异的中国市场，亚马逊的一次次调整不仅未能挽回市场份额，反而被越来越多后起之秀一一超越。阿里、京东、拼多多先后成长为市值超过千亿美金的巨头公司，垂直电商、社区团购、直播带货等新的电商模式也在中国市场蓬勃发展。</p><p>2019年7月，亚马逊最终宣布不再运营中国区的电商业务，仅保留两块：<span style>一是Kindle，二是跨境贸易。</span></p><p>而这剩下的两块业务同样风雨飘摇。如果说Kindle逐渐失利，背后还有免费阅读和智能手机兴起的客观因素，那么跨境贸易引起的争论，亚马逊纯属自找。</p><p>2021年4月，亚马逊平台上的中国卖家遭遇大面积“封号”危机。据媒体报道，这波“封店潮”席卷了超5万名中国卖家，损失预计超千亿量级，封店理由则多与卖家刷好评有关。</p><p>“向5万中国商家开战”的亚马逊再次站上风口浪尖。尽管不乏支持者，但“伤敌一万，自损八千”，平台和商家的争斗中，永远没有真正的赢家。</p><p>商家失去了自己的海外门店，而亚马逊失去的，或许是在中国市场的未来。（来源：极客公园）</p>   
+</div>
+            
