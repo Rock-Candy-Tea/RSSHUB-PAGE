@@ -1,0 +1,19 @@
+
+---
+title: 'Netgear推出Orbi Pro SXK50 AX5400中小企业无线组网新品'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0104/46dcb7ebbc15fa6.png'
+author: cnBeta
+comments: false
+date: Tue, 04 Jan 2022 07:20:31 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0104/46dcb7ebbc15fa6.png'
+---
+
+<div>   
+<strong>自 2017 年以来，Netgear Business 部门一直在努力为中小企业提供高品质的 Orbi Pro 无线组网系统。</strong>在 802.11ac（Wi-Fi）版本之后，该公司紧接着在 2020 年末推出了支持 AX6000（Wi-Fi 6）的 Orbi Pro SXK80 。而去年推出的双频入门 AX1800 机型（Orbi Pro SXK30），更是将售价拉低到了 300 美元。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0104/46dcb7ebbc15fa6.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/46dcb7ebbc15fa6.png" alt="1.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：Netgear <a href="https://www.netgear.com/business/wifi/mesh/sxk50/" target="_self">官网</a>）</p><p>随着 CES 2022 的到来，Netgear Business 隆重介绍了定位中端的 Orbi Pro SXK50 系列 AX5400 无线组网系统。</p><p><a href="https://static.cnbetacdn.com/article/2022/0104/13f490a1c73ac5c.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/13f490a1c73ac5c.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p>该系列子母无线<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,699,700" target="_blank">路由器</a>均配备了四个有线端口，Netgear 仅根据硬件对型号进行划分，并在整套产品线中保持多个网络、VLAN SSID、网络隔离 / 分段等业务功能的一致性。</p><p><a href="https://static.cnbetacdn.com/article/2022/0104/8a80881c05b8e51.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/8a80881c05b8e51.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p>SXK50 入门套件（1 主 + 1 卫星 Wi-Fi 路由器）的报价为 449.99 美元（约 2868 RMB），附带为期 5 年的 Insight 远程管理订阅服务。</p><p><a href="https://static.cnbetacdn.com/article/2022/0104/f2d9d0a24ee8b5f.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/f2d9d0a24ee8b5f.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p>尽管缺乏高端 SXK80 系列的三频特性，但仍具有极高的性价比。软件方面，Orbi Pro 系列还带来了 Insight 企业虚拟专用网的新特性。</p><p><a href="https://static.cnbetacdn.com/article/2022/0104/3f8c1bce4743733.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/3f8c1bce4743733.png" alt="6.png" referrerpolicy="no-referrer"></a></p><p>该功能允许多台设备形成具有通用 SSID 的多站点虚拟专用网连接，以便用户在家 / 办公室之间无缝漫游。</p><p><img src="https://static.cnbetacdn.com/article/2022/0104/ad170cea71914d8.png" alt="5.png" referrerpolicy="no-referrer"></p><p>在其它新硬件公告中，Netgear 还推出了一款采用无<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>式设计的 2.5Gbps PoE++ 交换机，它就是售价 440 美元的 MS108EUP（约 2796 RMB）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0104/a01e1d39fba90bc.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0104/a01e1d39fba90bc.png" alt="7.png" referrerpolicy="no-referrer"></a></p><p>其中四个端口支持高达 60W 的功率输出（PoE++），另外四个端口则支持 30W 功率输出（PoE+），但总计还是不超过 230W 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0104/b934614f496fdff.jpg" alt="2.jpg" referrerpolicy="no-referrer"></p><p>近年来，由于具有高功耗 / 带宽能力的新型 802.11ax 接入点变得愈加普及（包括 IP 摄像头、扬声器、LED 灯具），支持 NBASE-T 的 PoE++ 的商用交换机也越来越受到客户的青睐。</p><p><img src="https://static.cnbetacdn.com/article/2022/0104/4e4e4dc42bb5a02.jpg" alt="3.jpg" referrerpolicy="no-referrer"></p><p>Netgear 宣称 MS108EUP 可作为 2021 年中推出的 WAX630 AX6000 旗舰接入点产品线的一个有力补充。</p><p><img src="https://static.cnbetacdn.com/article/2022/0104/2d8525f7c0a563e.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p>该交换机支持通过单根上行链路达成 2.5 Gbps 全速率运行，网页配置很是简洁，且允许逐端口 PoE 调控。</p><p><img src="https://static.cnbetacdn.com/article/2022/0104/b8b9ed2b14cc278.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p>   
+</div>
+            
