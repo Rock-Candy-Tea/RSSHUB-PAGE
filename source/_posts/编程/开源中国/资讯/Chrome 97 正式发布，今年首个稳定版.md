@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0105/073729_eNxg_4937141.png'
 author: 开源中国
 comments: false
-date: Tue, 04 Jan 2022 23:40:00 GMT
+date: Wed, 05 Jan 2022 07:39:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0105/073729_eNxg_4937141.png'
 ---
 
@@ -31,7 +31,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0105/073729_eNxg_49371
 <p>Google 在 Chrome 94 开始测试一项 CSS 功能，以检测设备屏幕是否支持 HDR 内容。该功能现在已经在 Chrome 97 中上线。这使网页开发人员能够基于用户的显示设备来决定是否启用 HDR 内容，而此前只能全开或全不开，从而影响用户体验。</p> 
 <h3>其他功能</h3> 
 <ul> 
- <li>Keyboard Map API：Chrome 97 有一个新的 Keyboard Map API，有助于识别不同键盘布局下的按键（稍后会在综合新闻解释）。</li> 
+ <li>Keyboard Map API：Chrome 97 有一个新的 Keyboard Map API，有助于识别不同键盘布局下的按键（<a href="https://www.oschina.net/news/177029/chrome-keyboard-api">可查看综合新闻解释</a>）。</li> 
 </ul> 
 <p>更多详情可查看：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fchromestatus.com%2Froadmap" target="_blank">https://chromestatus.com/roadmap</a></p>
                                         </div>
