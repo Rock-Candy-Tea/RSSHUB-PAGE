@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220105/1641346471_8462
 
 <div>   
 <p style="text-indent:2em;">
-今日（1月5日），连姆·尼森主演的动作惊悚新片《黑金营救》（Blacklight）公布了正式预告，这次连姆·尼森化身一名神秘的FBI老特工需要去拯救自己的女儿和外孙女再查出真相。
+今日（1月5日），连姆·尼森主演的动作惊悚新片《黑金营救》（Blacklight）公布了正式预告，这次连姆·尼森化身一名神秘的FBI老特工需要去拯救自己的女儿和外孙女再查出真相，本片将于1月20日在澳大利亚上映，2月11日在美国上映。
 </p>
 <p style="text-indent:2em;">
 <strong>《黑金营救》正式预告：</strong> 
