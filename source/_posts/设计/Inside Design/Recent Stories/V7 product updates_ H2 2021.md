@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/v7-product-updates-h2-2021/'
 author: Inside Design
 comments: false
-date: 2022-01-05 12:13:02
+date: 2022-01-05 13:18:09
 thumbnail: 'https://www.invisionapp.com/inside-design/v7-product-updates-h2-2021/'
 ---
 
