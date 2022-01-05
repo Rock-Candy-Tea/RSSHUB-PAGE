@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/041/308/877/original/ec55cf20262a1a87.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/041/315/967/original/271f10e94a7ab13b.jpg'
 author: Mastodon
 comments: false
-date: Tue, 04 Jan 2022 15:03:10 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/041/308/877/original/ec55cf20262a1a87.jpg'
+date: Wed, 05 Jan 2022 00:06:08 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/041/315/967/original/271f10e94a7ab13b.jpg'
 ---
 
 <div>   
-<hr><p>Looking for a partner for Wirth on webcam, my contacts are here - <a href="https://urlz.fr/gyff" rel="nofollow noopener noreferrer" target="_blank">https://urlz.fr/gyff</a></p><br><img src="https://img.pawoo.net/media_attachments/files/041/308/877/original/ec55cf20262a1a87.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Looking for a partner for Wirth on webcam, my contacts are here - <a href="https://www.ddating.fun/" rel="nofollow noopener noreferrer" target="_blank">https://www.ddating.fun</a></p><br><img src="https://img.pawoo.net/media_attachments/files/041/315/967/original/271f10e94a7ab13b.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
