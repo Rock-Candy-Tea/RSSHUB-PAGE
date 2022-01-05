@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Wed, 05 Jan 2022 13:07:22 GMT
+date: Wed, 05 Jan 2022 13:25:15 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
@@ -25,7 +25,7 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p cms-style="font-L">　　对此，中国外交部发言人汪文斌在5日的例行记者会上表示，认识到错误是正确的一步，但更重要的是采取行动，纠正制造“一中一台”的错误情境，回到一个中国原则的轨道上来。汪文斌称，我还要指出的是中立关系受挫的是非曲直十分清楚，为自己的错误行为开脱，无助于问题的解决，也无助于中立关系的改善。我们也正告台湾当局，谋求台独分裂行径，必将以失败而告终。</p>
 <p>　　<strong>NO.4 <a target="_blank" href="https://finance.sina.com.cn/china/2022-01-05/doc-ikyamrmz3339308.shtml">官媒：企业要应对好“四差变化”带来人民币贬值风险</a></strong></p>
 <p>　　央行主管媒体《金融时报》评论员文章称，<font cms-style="font-L">2021年，人民币汇率有贬有升，双向波动，全年小幅升值2.3%。</font><font cms-style="font-L">2022年，</font><font cms-style="font-L"><font cms-style="font-L strong-Bold">人民币汇率面临“四差变化”带来的贬值压力，企业特别是进口企业、借用外债企业要树立风险中性理念，有效对冲汇率风险，谨防汇率贬值带来损失</font></font><font cms-style="font-L">。金融机构要积极为企业提供汇率避险服务，降低中小微企业汇率避险成本。</font></p>
-<p>　　<font cms-style="font-L">整体来看，全球疫情在2022年可能逐步好转，亚洲等全球主要的制造业基地、南美和中东等主要的原材料产地生产将继续恢复，中国出口订单可能被分流，出口增速回到常态。</font></p>
+<p>　　文章称，<font cms-style="font-L">整体来看，全球疫情在2022年可能逐步好转，亚洲等全球主要的制造业基地、南美和中东等主要的原材料产地生产将继续恢复，中国出口订单可能被分流，出口增速回到常态。</font></p>
 <p>　　<strong>【公司要闻】 </strong></p>
 <p>　　<strong>NO.5 <a target="_blank" href="https://finance.sina.com.cn/jjxw/2022-01-05/doc-ikyamrmz3202743.shtml">碧桂园、万科、融创…房企前三甲都没有完成2021年目标</a></strong></p>
 <p>　　尽管众多房企在2021年初纷纷调低销售目标，但全国房地产市场从上半年的高热直接进入下半年的深度调整，房企在前所未有的紧张环境下艰难去化，行业的寒意毫不留情地投射在百强房企销售成绩单上。</p>
