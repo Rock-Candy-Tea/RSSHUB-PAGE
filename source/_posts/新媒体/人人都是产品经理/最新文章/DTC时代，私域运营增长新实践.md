@@ -83,7 +83,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>在企微私域中，品牌应该如何做到有效增长呢？增长方式有很多，我给大家介绍一个用户增长模型。</p>
 <p>企业ERP或CRM系统中有很多过往用户的订单数据和消费数据，结合网易大数据能力，可以对这些数据进行整合，能对用户精准分群，如：高价值用户、新消费用户、沉没用户等。</p>
 <p>基于分群，可以根据他们特有的特征，进行诱饵设计；包括增粉组合拳，以此达到用户增长的效果。</p>
-<p><img data-action="zoom" class="size-full wp-image-5275979 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/01/oEoOLGqvWcEwtMD04jvk.jpg" alt width="900" height="720" referrerpolicy="no-referrer"></p>
 <p>接下来我分享一段实际交付的录音，大家可以感知一下：</p>
 <blockquote><p>——您好，我是XX女装的总部客服。您之前有在我们这边购买衣服，这边看到您是本月生日，对吗？</p>
 <p>——是的。</p>
