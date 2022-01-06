@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=950'
+headimg: 'https://picsum.photos/400/300?random=2164'
 author: 开源中国
 comments: false
 date: Thu, 06 Jan 2022 07:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=950'
+thumbnail: 'https://picsum.photos/400/300?random=2164'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Mongoose 是设计用于异步环境的 MongoDB 对象模型工具。Mongoose 支持 promises 和 callbacks。Mongoose 6.1.5 正式发布，本次更新内容如下：</p> 
+                                                                                            <p>Mongoose 是设计用于异步环境的 MongoDB 对象模型工具。Mongoose 支持 promises 和 callbacks。Mongoose 6.1.5 正式发布，本次更新内容如下：</p> 
 <ul> 
  <li>perf(index.d.ts)：简化查询助手和方法的 Schema 类型定义，以大大减少 TS 编译器的开销 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAutomattic%2Fmongoose%2Fissues%2F10349" target="_blank">#10349</a></li> 
  <li>fix(document)：允许将深度嵌套的模型填充为字符串 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAutomattic%2Fmongoose%2Fpull%2F11168" target="_blank">#11168</a> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAutomattic%2Fmongoose%2Fissues%2F11160" target="_blank">#11160</a></li> 

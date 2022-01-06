@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5054'
+headimg: 'https://picsum.photos/400/300?random=9743'
 author: 开源中国
 comments: false
 date: Thu, 06 Jan 2022 07:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5054'
+thumbnail: 'https://picsum.photos/400/300?random=9743'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Laravel framework 包含  PHP 框架 Laravel 的核心代码，目前更新了 8.78.0 版本，主要更新内容如下：</p> 
+                                                                                            <p>Laravel framework 包含  PHP 框架 Laravel 的核心代码，目前更新了 8.78.0 版本，主要更新内容如下：</p> 
 <h3><strong>添加</strong></h3> 
 <ul> 
  <li>添加<code>schedule:clear-mutex</code>命令 ( <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Flaravel%2Fframework%2Fpull%2F40135" target="_blank">#40135</a>)</li> 

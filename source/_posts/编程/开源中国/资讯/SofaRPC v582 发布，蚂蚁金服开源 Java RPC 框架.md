@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2255'
+headimg: 'https://picsum.photos/400/300?random=7793'
 author: 开源中国
 comments: false
 date: Thu, 06 Jan 2022 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2255'
+thumbnail: 'https://picsum.photos/400/300?random=7793'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">SOFARPC 是一个高可扩展性、高性能、生产级的 Java RPC 框架。在蚂蚁金服 SOFARPC 已经经历了十多年及五代版本的发展。</span></p> 
+                                                                                            <p><span style="color:#333333">SOFARPC 是一个高可扩展性、高性能、生产级的 Java RPC 框架。在蚂蚁金服 SOFARPC 已经经历了十多年及五代版本的发展。</span></p> 
 <p><span style="color:#333333">SOFARPC 致力于简化应用之间的 RPC 调用，为应用提供方便透明、稳定高效的点对点远程服务调用方案。为了用户和开发者方便的进行功能扩展。同时提供了丰富的模型抽象和可扩展接口，包括过滤器、路由、负载均衡等等。还围绕 SOFARPC 框架及其周边组件提供丰富的微服务治理方案。</span></p> 
 <p>SofaRPC v5.8.2 已发布，此版本带来<span style="color:#24292f">对 sofa-rpc 框架的增强和一些错误修复（需要JDK8 版本支持），完整内容如下：</span></p> 
 <h3>新功能</h3> 

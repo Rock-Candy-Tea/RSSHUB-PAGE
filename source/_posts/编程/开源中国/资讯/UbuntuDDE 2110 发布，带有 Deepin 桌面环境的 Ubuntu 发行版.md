@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0106/073344_d8fc_4937141.png'
 author: 开源中国
 comments: false
-date: Wed, 05 Jan 2022 23:35:00 GMT
+date: Thu, 06 Jan 2022 07:35:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0106/073344_d8fc_4937141.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>UbuntuDDE 是一个使用 Deepin 桌面环境的 Ubuntu flavor。它具有 Ubuntu 的所有优点，同时还拥有 Deepin 的桌面外观。</p> 
+                                                                                            <p>UbuntuDDE 是一个使用 Deepin 桌面环境的 Ubuntu flavor。它具有 Ubuntu 的所有优点，同时还拥有 Deepin 的桌面外观。</p> 
 <p>新发布的 UbuntuDDE Remix 21.10 代号为 "impish"（Impish Indri）。目前的版本是一个非 LTS 版本，将在未来九个月内得到支持。</p> 
 <p><img alt height="394" src="https://static.oschina.net/uploads/space/2022/0106/073344_d8fc_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <h3>UbuntuDDE Remix 21.10 的主要特性</h3> 

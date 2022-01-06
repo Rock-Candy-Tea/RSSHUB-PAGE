@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-b3ea5978b9931820b965cb44b16dfc0
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>datart 1.0.0 首个 Beta 测试版已发布。</p> 
+                                                                                            <p>datart 1.0.0 首个 Beta 测试版已发布。</p> 
 <p>据介绍，datart 由原 <a href="https://www.oschina.net/p/davinci" target="_blank">davinci </a>主创团队出品，是新一代数据可视化开放平台，支持各类企业数据可视化场景需求，如创建和使用报表、仪表板和大屏，进行可视化数据分析，构建可视化数据应用等。</p> 
 <p><img alt="up-b3ea5978b9931820b965cb44b16dfc07ca8.png" src="https://oscimg.oschina.net/oscnet/up-b3ea5978b9931820b965cb44b16dfc07ca8.png" referrerpolicy="no-referrer"></p> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Frunning-elephant%2Fdatart%2Freleases%2Ftag%2F1.0.0-beta.0" target="_blank">发布说明显示</a>，本次升级有数据库结构变更，需要执行数据库升级补丁。升级补丁为<span> </span><code>/bin/migrations/migration.1.0.0-beta.0.sql</code></p> 

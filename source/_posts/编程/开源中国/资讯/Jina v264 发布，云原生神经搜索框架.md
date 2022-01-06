@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1418'
+headimg: 'https://picsum.photos/400/300?random=5179'
 author: 开源中国
 comments: false
 date: Thu, 06 Jan 2022 07:12:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1418'
+thumbnail: 'https://picsum.photos/400/300?random=5179'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Jina 是一个神经搜索框架，它使任何人都可以在几分钟内构建 SOTA 和可扩展的深度学习搜索应用程序。</p> 
+                                                                                            <p>Jina 是一个神经搜索框架，它使任何人都可以在几分钟内构建 SOTA 和可扩展的深度学习搜索应用程序。</p> 
 <p>Jina v2.6.4 发布，更新内容如下：</p> 
 <h3>错误修复</h3> 
 <ul> 
