@@ -1,0 +1,18 @@
+
+---
+title: 'Devolver Digital宣布《邪恶冥刻》销量突破100万份'
+categories: 
+ - 游戏
+ - a9vgNews 游戏新闻
+ - a9vgNews 游戏新闻
+headimg: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0106/20220106152555-9167-70012.jpg'
+author: a9vgNews 游戏新闻
+comments: false
+date: Thu, 06 Jan 2022 15:25:00 GMT
+thumbnail: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0106/20220106152555-9167-70012.jpg'
+---
+
+<div>   
+Devolver Digital宣布《邪恶冥刻》销量突破100万份<img src="https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0106/20220106152555-9167-70012.jpg" referrerpolicy="no-referrer">  
+</div>
+            
