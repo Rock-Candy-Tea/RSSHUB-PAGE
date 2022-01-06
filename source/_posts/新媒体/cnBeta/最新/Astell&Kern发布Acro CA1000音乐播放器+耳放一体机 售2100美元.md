@@ -1,0 +1,19 @@
+
+---
+title: 'Astell&Kern发布Acro CA1000音乐播放器+耳放一体机 售2100美元'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0106/7a5d2455d51e3ca.jpg'
+author: cnBeta
+comments: false
+date: Thu, 06 Jan 2022 03:38:39 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0106/7a5d2455d51e3ca.jpg'
+---
+
+<div>   
+以 A&ultima SP2000T 等高端数字音频播放器，以及耳机、扬声器、功放产品线而<strong>被大家所熟知的 Astell&Kern，现又推出了一款耳放 + 播放器二合一的新设备，它就是 Acro CA1000 。</strong>该一体化系统设备采用了带有棱角的铝制底座，大小为 104.9×45×148.8 毫米（4.12×1.77×5.85 英寸），重 919 克（32.41 盎司）。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0106/7a5d2455d51e3ca.jpg" alt="0.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：A&K <a href="https://www.astellnkern.com/product/product_detail.jsp?productNo=130" target="_self">官网</a>）</p><p>该机内置了一枚四核 SoC，集成四路 ES9068AS 数模转换器（DAC），原生支持 DSD512 和 32-bit / 384 kHZ 的 PCM 音频格式。</p><p><a href="https://static.cnbetacdn.com/article/2022/0106/1651b69c0db6a1c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0106/1651b69c0db6a1c.jpg" alt="0-1.jpg" referrerpolicy="no-referrer"></a></p><p>值得一提的是，Acro CA1000 还沿用了 SE180 数字音频播放器中引入的 Teraton Alpha  音频技术。</p><p><a href="https://static.cnbetacdn.com/article/2022/0106/651e08692a69ebf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0106/651e08692a69ebf.jpg" alt="0-2.jpg" referrerpolicy="no-referrer"></a></p><p>据悉，该技术旨在借助有效的电源噪声去除、高效的电源管理、以及功放功能，为音频输出接口提供近似原始的无失真聆听体验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0106/20257fb66124ce6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0106/20257fb66124ce6.jpg" alt="0-3.jpg" referrerpolicy="no-referrer"></a></p><p>Acro CA1000 的前面板，配备了 2.5mm / 4.4mm 平衡耳机连接、以及 2.5mm / 6.35mm 的非平衡耳机输出。</p><p><a href="https://static.cnbetacdn.com/article/2022/0106/d1aa0a71523a184.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0106/d1aa0a71523a184.jpg" alt="0-4.jpg" referrerpolicy="no-referrer"></a></p><p>每个输出端子采用了物理隔离，以确保信号的清晰度。另有一组四级增益，以驱动要求严苛的发烧级音频设备。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/39a2b9d89a21682.png" alt="1.png" referrerpolicy="no-referrer"></p><p>机身右侧有个外形华丽的音量调节轮，设计灵感取自于太空时代的探索。此外背板上提供模拟 / 数字输入，用于将设备连接到外部音源。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/a430ac2edd9fcae.png" alt="2.png" referrerpolicy="no-referrer"></p><p>A&K 还为 Acro CA1000 这款耳放配备了集成的音乐播放器，虽然无法完全移除，但你可将它抬起一定的高度，以便连接 4.1 英寸 @ 720×1280 像素的触摸屏。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/fbab23ffb1f85f3.png" alt="3.png" referrerpolicy="no-referrer"></p><p>借助双频 Wi-Fi，用户可轻松从 PC / 智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>端无线传输。且 Acro CA1000 板载了 256GB ROM，并可通过 microSD 插槽扩展 1TB 存储。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/cfb3a93026168cb.png" alt="4.png" referrerpolicy="no-referrer"></p><p>此外在蓝牙 5.0 的加持下，用户可将 24-bit @ aptX HD / LDAC 编解码内容，流式传输到 Acro CA1000 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/d9be218d41e97dc.png" alt="5.png" referrerpolicy="no-referrer"></p><p>虽然看起来不太像，但 A&K 仍宣称这套系统专为便携性而设计。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/8e3ce59b7adb715.png" alt="6.png" referrerpolicy="no-referrer"></p><p>内置的 8400 mAh 大电池，可维持长达 10.5 小时的播放。快充 1 小时，即可补充 50% 的电量（充满需 2.5 小时）。</p><p><img src="https://static.cnbetacdn.com/article/2022/0106/e7ea8ca8af2023a.png" alt="7.png" referrerpolicy="no-referrer"></p><p>最后，Acro CA1000 将于下个月发售，价格为 2100 美元（约 1.34 万 RMB）。</p>   
+</div>
+            
