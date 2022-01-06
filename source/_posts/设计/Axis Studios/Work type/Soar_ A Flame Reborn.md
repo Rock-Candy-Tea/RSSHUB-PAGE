@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-01-06 11:07:18
+date: 2022-01-06 12:13:13
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 ---
 
@@ -365,7 +365,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_
 
 <p>A story of good overcoming evil, the cinematic piece uses dramatic storytelling and detailed character design to build upon what audiences know about the mobile game. Follow Talene as she meets infant Wilder Sprite Ashtar, who helps to awaken something much more extraordinary in her. </p>
 
-<p>The game has always championed artistry and stunning worldbuilding, so it was the perfect partnership to build on our team’s existing talents with stylised CG productions. More than this, with the game being downloaded over 35 million times, collaborating with Lilith to show the audience both new environments and characters in a refreshing light was something we thrived on. Eighty shots of stunning magic and fantasy animation were delivered, staying true to the game’s 2D nature, whilst also pushing to create a refined expressive aesthetic.</p>
+<p>The game has always championed artistry and stunning worldbuilding, so it was the perfect partnership to build on our team’s existing talents in stylised productions. More than this, with the game being downloaded over 35 million times, collaborating with Lilith to show the audience both new environments and characters in a refreshing light was something we thrived on. Eighty shots of stunning magic and fantasy animation were delivered, staying true to the game’s 2D nature, whilst also pushing to create a refined expressive aesthetic.</p>
                 
             
           
