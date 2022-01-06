@@ -1,0 +1,18 @@
+
+---
+title: '华为畅享 20e 高配版上市：麒麟 710A、Harmony OS、 5000mAh电池'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61d69b178e9f097f5606cde5_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 06 Jan 2022 02:07:48 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61d69b178e9f097f5606cde5_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 1 月 6 日消息，去年 10 月，华为推出了一款畅享 20e，4+64GB 版本 999 元；4GB+128GB 版本 1199 元。</p><p>但很可惜，这两款均为联发科曦力 P35 芯片（MTK6765）+EMUI 10.1 的版本，引起网友吐槽。不过好在，华为畅享 20e 高配版（麒麟 710A、Harmony OS 6GB+128GB）版本现已正式上市，支持 4G 全网通，定价 1399 元，同样首销减 50 元。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61d69b178e9f097f5606cde5_1024.jpg" data-height="1385" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61d69b178e9f097f5606cde5_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，麒麟 710A 处理器（4*Cortex-A73 2.0GHz + 4*Cortex-A53 1.7GHz）是麒麟 710（2018 年）的更新版，采用中芯国际 14nm 工艺代工，大核频率降低 0.2Ghz，且 GPU 核心有所区别。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61d69b178e9f097f5606cde6_1024.jpg" data-height="773" data-width="724" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61d69b178e9f097f5606cde6_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，该机内置了 5000mAh 电池，在超级省电模式下，手机可自主关闭非常用的 App 和耗电进程，提升续航能力，而且支持反向充电，关键时刻可化身充电宝为其他设备充电。<p></p><p>此外，这款机型采用了 6.3 英寸 HD + 窄边大屏，定制 2.65mm 小镜头，拥有 S 形全息纹理搭配双面 2.5D 玻璃机身，提供绮境森林、幻影紫、幻夜黑三种配色。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e8e_1024.jpg" data-height="708" data-width="703" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e8e_1024.jpg" referrerpolicy="no-referrer"></div></div>影像方面，该机后置 AI 双摄，包括 1300 万像素的高清主摄以及 200 万像素的景深虚化镜头，还拥有 800 万像素的高清前置摄像头，结合特置美肤方案可带来 " 肌肤透亮，细腻动人 " 的人像效果，" 每个角度都很美 "。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202110/616f65848e9f0906a9775e8f_1024.jpg" data-height="526" data-width="748" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202110/616f65848e9f0906a9775e8f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e90_1024.jpg" data-height="1036" data-width="823" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e90_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，该机还搭载 HUAWEI SuperSound 音频解决方案，最高 86dB 大音量，" 音质清亮细腻，节奏链销有力，无论玩游戏还是看大片，都可以在澎湃音浪中尽情邀游 "。<p></p><p>IT 之家了解到，这款机型还拥有 HarmonyOS 2 的万能卡片、控制中心、高清畅连通话功能，与其他 HarmonyOS 机型保持一致。</p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e91_1024.jpg" data-height="1000" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202110/616f65848e9f0906a9775e91_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
