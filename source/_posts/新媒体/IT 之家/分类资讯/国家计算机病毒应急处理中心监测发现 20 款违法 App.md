@@ -1,0 +1,19 @@
+
+---
+title: '国家计算机病毒应急处理中心监测发现 20 款违法 App'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/1/360bd0c1-ead3-403f-b6d3-c1cbca6c50c8.png'
+author: IT 之家
+comments: false
+date: Thu, 06 Jan 2022 04:29:29 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/1/360bd0c1-ead3-403f-b6d3-c1cbca6c50c8.png'
+---
+
+<div>   
+<p data-vmark="7136"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 1 月 6 日消息，国家计算机病毒应急处理中心近期通过互联网监测发现 <span class="accentTextColor">20 款移动应用存在隐私不合规行为</span>，违反《网络安全法》《个人信息保护法》相关规定，涉嫌超范围采集个人隐私信息。</p><p data-vmark="8ae7"><img src="https://img.ithome.com/newsuploadfiles/2022/1/360bd0c1-ead3-403f-b6d3-c1cbca6c50c8.png" w="1440" h="355" title="国家计算机病毒应急处理中心监测发现 20 款违法 App" width="1440" height="202" referrerpolicy="no-referrer"></p><p data-vmark="f516">1、<span class="accentTextColor">App 以默认选择同意隐私政策等非明示方式征求用户同意</span>，涉嫌隐私不合规。涉及 2 款 App 如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="866c">《猫先生》（版本 3.3.7，360 手机助手）</p></li><li><p data-vmark="1aae">《悦报销》（版本 1.7.7，应用宝）。</p></li></ul><p data-vmark="e244">2、<span class="accentTextColor">未向用户明示申请的全部隐私权限</span>，涉嫌隐私不合规。涉及 16 款 App 如下：</p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="acbf">《小雨点网贷》（版本 2.6.2，360 手机助手）</p></li><li><p data-vmark="50c0">《团车》（版本 4.5.18，360 手机助手）</p></li><li><p data-vmark="963c">《猫先生》（版本 3.3.7，360 手机助手）</p></li><li><p data-vmark="98f8">《考过》（版本 2.1.2，360 手机助手）</p></li><li><p data-vmark="37da">《云上智农》（版本 4.6.1，vivo 应用商店）</p></li><li><p data-vmark="09f7">《招联金融》（版本 6.1.1，vivo 应用商店）</p></li><li><p data-vmark="5af3">《猎云网》（版本 7.0，华为应用市场）</p></li><li><p data-vmark="cee0">《小红淘》（版本 5.2.1，华为应用市场）</p></li><li><p data-vmark="5000">《依康宝》（版本 2.8.49，华为应用市场）</p></li><li><p data-vmark="caaf">《明医》（版本 1.7.7，豌豆荚）</p></li><li><p data-vmark="f8a8">《e 龙岩》（版本 6.1.0，豌豆荚）</p></li><li><p data-vmark="f7eb">《交通眼》（版本 7.5.6，小米应用商店）</p></li><li><p data-vmark="553d">《管账宝》（版本 5.7.36，小米应用商店）</p></li><li><p data-vmark="ccf9">《货车宝货车导航》（版本 3.0.10.5，应用宝）</p></li><li><p data-vmark="e010">《悦报销》（版本 1.7.7，应用宝）</p></li><li><p data-vmark="7a5e">《科瑞泰 Q 医》（版本 4.3.7，应用宝）。</p></li></ul><p data-vmark="5c57">3、<span class="accentTextColor">App 在征得用户同意前就开始收集个人信息</span>，涉嫌隐私不合规。涉及 1 款 App 如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="7d39">《猫先生》（版本 3.3.7，360 手机助手）。</p></li></ul><p data-vmark="ac30">4、<span class="accentTextColor">未提供有效的更正、删除个人信息及注销用户账号功能，或注销用户账号设置不合理条件</span>，涉嫌隐私不合规。涉及 13 款 App 如下：</p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="d2d4">《小雨点网贷》（版本 2.6.2，360 手机助手）</p></li><li><p data-vmark="5e5c">《团车》（版本 4.5.18，360 手机助手）</p></li><li><p data-vmark="4d1f">《旺街邮》（版本 3.0.13，360 手机助手）</p></li><li><p data-vmark="56a6">《猫先生》（版本 3.3.7，360 手机助手）</p></li><li><p data-vmark="050e">《云上智农》（版本 4.6.1，vivo 应用商店）</p></li><li><p data-vmark="45a2">《猎云网》（版本 7.0，华为应用市场）</p></li><li><p data-vmark="3265">《小红淘》（版本 5.2.1，华为应用市场）</p></li><li><p data-vmark="e7dc">《依康宝》（版本 2.8.49，华为应用市场）</p></li><li><p data-vmark="0361">《悠洗》（版本 7.3.6，豌豆荚）</p></li><li><p data-vmark="26c5">《明医》（版本 1.7.7，豌豆荚）</p></li><li><p data-vmark="316c">《交通眼》（版本 7.5.6，小米应用商店）</p></li><li><p data-vmark="6546">《悦报销》（版本 1.7.7，应用宝）</p></li><li><p data-vmark="54b2">《渤海证券》（版本 9.2.2，小米应用商店）。</p></li></ul><p data-vmark="101a">5、<span class="accentTextColor">未建立公布个人信息安全投诉、举报渠道，或超过承诺处理回复时限</span>，涉嫌隐私不合规。涉及 4 款 App 如下：</p><ul class=" list-paddingleft-2"><li><p data-vmark="634d">《团车》（版本 4.5.18，360 手机助手）</p></li><li><p data-vmark="2f0f">《猫先生》（版本 3.3.7，360 手机助手）</p></li><li><p data-vmark="f184">《新娘说》（版本 3.5.2，OPPO 软件商店</p></li><li><p data-vmark="cbf2">《依康宝》（版本 2.8.49，华为应用市场）。</p></li></ul><p data-vmark="2cf9">IT之家了解到，针对上述情况，国家计算机病毒应急处理中心提醒广大手机用户首先谨慎下载使用以上违法、违规移动 App，同时要注意认真阅读 App 的用户协议和隐私政策说明，不随意开放和同意不必要的隐私权限，不随意输入个人隐私信息，定期维护和清理相关数据，避免个人隐私信息被泄露。</p>
+          
+</div>
+            

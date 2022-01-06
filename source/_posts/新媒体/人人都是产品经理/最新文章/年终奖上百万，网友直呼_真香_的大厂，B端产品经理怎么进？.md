@@ -62,9 +62,11 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/01/YOFRx57kXDe2ByGn0zLA.jpg'
 <p>为了帮助更多想系统学习B端产品知识的同学，起点课堂和腾讯、阿里等B端产品实战大咖联合推出【90天B端产品经理实战班】。</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/01/ibUG8cmWX1ZXZA1C5Zyz.png" alt referrerpolicy="no-referrer"></p>
 <p>我们希望通过这样一门实操性强、可复用、系统的B端产品体系课，帮助你：</p>
-<blockquote><p>◎ 掌握一套一线互联网大厂资深产品专家都在用的B端产品核心工作方法；</p>
+<blockquote>
+<p>◎ 掌握一套一线互联网大厂资深产品专家都在用的B端产品核心工作方法；</p>
 <p>◎ 深入B端产品实际工作场景，参与完成3个实战模拟项目，产出优质面试作品；</p>
-<p>◎ 链接来自世界500强企业的优秀B端产品人，拓展视野积累人脉资源；</p></blockquote>
+<p>◎ 链接来自世界500强企业的优秀B端产品人，拓展视野积累人脉资源；</p>
+</blockquote>
 <p>如果你不确定自己的B端产品能力段位，可扫码加顾问获取「1对1免费咨询」，帮你理清提升思路，匹配更高效的解决路径~</p>
 <p style="text-align: center">👇👇👇</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/11/nT0RUjQqhfDUdohGJiFL.png" alt width="200" height="200" referrerpolicy="no-referrer"></p>
@@ -75,7 +77,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/01/YOFRx57kXDe2ByGn0zLA.jpg'
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/01/iSYVVMok1LKx6iSAUfnC.jpg" alt width="496" height="631" referrerpolicy="no-referrer"></p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/01/mdChU4fGjZpXzUmfD6l3.jpg" alt width="499" height="635" referrerpolicy="no-referrer"></p>
 <p>以上，就是这门由多位10+年B端产品老司机线上亲授的课程：</p>
-<blockquote><p>学习内容包含：24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会，帮助你掌握一套B端产品全流程工作方法！</p></blockquote>
+<blockquote>
+<p>学习内容包含：24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会，帮助你掌握一套B端产品全流程工作方法！</p>
+</blockquote>
 <p>课程也许不能解决你的所有问题，但我们相信，它一定成为你迈向B端产品经理的关键一步。</p>
 <p>最后，我们为大家申请到了限量的优惠，赶紧长按识别下方二维码，跟我们一起 Fighting 吧！</p>
 <p style="text-align: center">扫码获取详细版课程大纲</p>
