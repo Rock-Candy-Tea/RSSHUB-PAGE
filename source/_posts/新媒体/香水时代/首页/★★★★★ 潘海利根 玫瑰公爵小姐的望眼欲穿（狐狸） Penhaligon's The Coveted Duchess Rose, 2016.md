@@ -5,16 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=4678'
+headimg: 'https://picsum.photos/400/300?random=3464'
 author: 香水时代
 comments: false
-date: Tue, 24 Aug 2021 01:18:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4678'
+date: Mon, 03 Jan 2022 15:45:13 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3464'
 ---
 
 <div>   
-刚喷出来给我吓了一跳，是那种有点刺刺的汽油玫瑰，后面玫瑰出来之后又有点挠鼻子痒痒（）是很轻盈很淡的年轻玫瑰，不靠近问基本闻不到。
-
-鼻子不灵敏感觉闻啥玫瑰都差不多，狐狸就是接受度很广的好闻吧！  
+玫瑰和荔枝，淡雅甜甜的玫瑰调，多一分甜腻少一分单调，中和的很好，一开始觉得有点普通，后面整个上瘾，木质调藏在后面，显得更有内涵。当然瓶子绝美！  
 </div>
             
