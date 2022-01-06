@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/01/06/22010613521932_u524.j
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>会开跨平台联机吗？</p>
 </div>
 
                 
