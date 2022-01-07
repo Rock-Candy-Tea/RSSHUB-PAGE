@@ -14,7 +14,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Goo
 
 <div>   
 <img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Googles-attempt-to-replicate-Apples-ecosystem-is-good-news.jpg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p><a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple’s</a> ecosystem is perhaps the most valuable asset the company possesses, after its brand, so eyebrows were raised when <a href="https://9to5mac.com/guides/google/" target="_blank" rel="noreferrer noopener">Google</a> yesterday announced plans to replicate many of the key elements of that ecosystem.</p>
+<p><a href="https://9to5mac.com/guides/aapl/" target="_blank" rel="noreferrer noopener">Apple’s</a> ecosystem is perhaps the most valuable asset the company possesses, after its brand, so eyebrows were raised when <a href="https://9to5mac.com/guides/google/" target="_blank" rel="noreferrer noopener">Google</a> yesterday <a href="https://9to5mac.com/2022/01/05/google-apple-integration-android/" target="_blank" rel="noreferrer noopener">announced plans to replicate</a> many of the key elements of that ecosystem.</p>
 <p>While some Apple fans were outraged at what they saw as blatant copying of Apple features, my view is that this is good news for Android and iPhone users alike … </p>
 <p><span id="more-779503"></span>
 </p>

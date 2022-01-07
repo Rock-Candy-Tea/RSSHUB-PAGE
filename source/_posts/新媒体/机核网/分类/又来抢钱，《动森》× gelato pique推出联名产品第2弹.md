@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/376b70a7-17fa-4b8a-bb9d-a985eec601d9.jpg'
 author: 机核网
 comments: false
-date: 2022-01-06 15:09:03
+date: 2022-01-07 00:31:08
 thumbnail: 'https://image.gcores.com/376b70a7-17fa-4b8a-bb9d-a985eec601d9.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/376b70a7-17fa-4b8a-bb9d-a985eec601d9.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-aseg6" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="aseg6" data-offset-key="epcp9-0-0"><div data-offset-key="epcp9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="epcp9-0-0"><span data-text="true">《集合啦！动物森友会》与gelato pique宣布推出第2弹联名产品，预计1月14日在线上线下开售。 </span></span></div></div>
+<img src="https://image.gcores.com/376b70a7-17fa-4b8a-bb9d-a985eec601d9.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-ajv9a" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="ajv9a" data-offset-key="epcp9-0-0"><div data-offset-key="epcp9-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="epcp9-0-0"><span data-text="true">《集合啦！动物森友会》与gelato pique宣布推出第2弹联名产品，预计1月14日在线上线下开售。 </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/de7e26f8-0113-4aad-bdba-62cb17ad346d.jpg" alt referrerpolicy="no-referrer">
 
@@ -187,6 +187,6 @@ thumbnail: 'https://image.gcores.com/376b70a7-17fa-4b8a-bb9d-a985eec601d9.jpg'
 <img src="https://image.gcores.com/135a333d-e039-4faa-b365-9953779dcd33.jpg" alt="毯子 5380日元" referrerpolicy="no-referrer">
 <figcaption> (4/4) 毯子 5380日元</figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="aseg6" data-offset-key="dpto-0-0"><div data-offset-key="dpto-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dpto-0-0"><span data-text="true">本次联名共推出了家居服、抱枕、拖鞋、袜子等多种产品，温暖的材质和可爱的设计适合陪人度过悠闲时光。图中产品所示价格均含税。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="ajv9a" data-offset-key="dpto-0-0"><div data-offset-key="dpto-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dpto-0-0"><span data-text="true">本次联名共推出了家居服、抱枕、拖鞋、袜子等多种产品，温暖的材质和可爱的设计适合陪人度过悠闲时光。图中产品所示价格均含税。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
