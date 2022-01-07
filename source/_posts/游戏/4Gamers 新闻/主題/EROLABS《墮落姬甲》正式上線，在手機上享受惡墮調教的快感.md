@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/8735a7aa-d145-4151-bab3-0331cc
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/8735a7aa-d145-4151-bab3-0331cc6c81f1.jpg" referrerpolicy="no-referrer"><p>EROLABS《墮落姬甲》正式上線，在手機上享受惡墮調教的快感 </p>  
+<img src="https://img.4gamers.com.tw/news-image/8735a7aa-d145-4151-bab3-0331cc6c81f1.jpg" referrerpolicy="no-referrer"><p>上線啦</p>  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: '大学生第一次用 iPad，是买 iPad 2021 还是直接上 Pro？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-95a759ae31c003a4ed07218301f4adc3_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 07 Jan 2022 04:42:59 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-95a759ae31c003a4ed07218301f4adc3_1440w.jpg'
+---
+
+<div>   
+木子奶爸的回答<br><br><p data-pid="Jbk4-v45">说句废话，有钱上 Pro ，没钱就入基础版，对价格敏感的话会好选一点，学生的第一任务是学习，设备只是个工具，够用就好，量力而行，切莫攀比！</p><p data-pid="sYFNOLLq">iPad 2021 最便宜的卖 2399 元，iPad Pro 2021 最便宜的卖 5799 元，这两台设备价格相差一倍还多，敢这么对比的大学生我建议你直接上 iPad Pro ，因为你敢这么对比，一定是买的起 iPad Pro ，可能就是有点舍不得而已吧</p><p data-pid="k23xmWM7">这两款平板除了系统和软件是一样的，其他硬件方面没有一点是一样的</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-95a759ae31c003a4ed07218301f4adc3_1440w.jpg" data-rawwidth="3010" data-rawheight="2100" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic4.zhimg.com/v2-3bb95929ea1c72a63f33e18bbc147d69_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-95a759ae31c003a4ed07218301f4adc3_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="q7TslSen">这里我推荐两种选择方式：</p><h3>一：<b>选择性价比高的 iPad 2021 </b></h3><p data-pid="p95FWmqW">iPad 2021 搭载的是 A13 处理器，也就是 iPhone 11 上面那颗处理器，性能方面应付一切学习肯定是没有问题，就算是打打游戏也是游刃有余</p><p data-pid="H0-IJ0ul">3G 运行内存、10.2 英寸的屏幕、支持一代 Apple Pencil ，满足日常写写画画，笔记本、看网课都可以，重点是便宜，64g 版本加上笔也到不了 3500 元</p><blockquote data-pid="aHOi6l-N">下方直接查库存奥！</blockquote><p data-pid="Rky4HAhU">不足之处就是 64g 虽然便宜但是后期可能会不够用，非全贴合屏幕观感差点意思 </p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-af6473477b7dfe79d8cc4a8038ed1fb2_1440w.jpg" data-rawwidth="6000" data-rawheight="4000" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-cf047213aa5ec3ddcdce85316175def8_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-af6473477b7dfe79d8cc4a8038ed1fb2_r.jpg" referrerpolicy="no-referrer"></figure><h3>二：<b>选择各方面都很均衡的 iPad Pro </b></h3><p data-pid="AgOqEkGR">iPad Pro 2021 搭载 M1 处理器，性能不多说了，在平板领域没有对手，搭配最低 8G 的运行内存，干啥都没有问题</p><p data-pid="73b4TMnH">亮点是 屏幕支持 120hz 高刷、大运行内存，在软件多开和流畅度方面的体验有很大的提升，4 个立体声大喇叭外放听网课也是一种享受，128g 起步的存储空间，能让你减少空间焦虑</p><p data-pid="4P6AoJJk">缺点就一个字 贵，另外续航也很一般！</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/509303001/answer/2294714015" data-image="https://pic2.zhimg.com/v2-355ca269ea95df7f81d86b48663df47b_bh.jpg" data-image-width="2173" data-image-height="1222" class="internal">ipadPro2021耗电量咋样呀，学生党买来想做笔记看网课，会不会发热和耗电厉害呢？</a><p data-pid="2UAqacYO">如果你有同样的选择困难，我建议你能根据自己的真实需求去选择，而不是只买贵的不买对的！</p><p data-pid="MVD2v0fS">像只是拿来记笔记、看网课、看文献，我觉得 iPad 2021 就很合适，性价比很高，所以对于大多数学生，我更建议选择 iPad  2021 </p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d0a7992d442561cb19b31e20352f1762_1440w.jpg" data-rawwidth="2560" data-rawheight="1444" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-0c3e0b5af96cb721cd68dda6fa65be64_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d0a7992d442561cb19b31e20352f1762_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="k03ZSUa3">如果您觉得我的回答对您有亿点点帮助，可以点赞支持一下，感谢！</p><p data-pid="B6oQ6mds">有任何疑问可以评论区里留言讨论！</p><p data-pid="iC9qQwvB"><b>相关内容推荐阅读：</b></p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/345329236" data-size="normal" class="internal">2021年大学生年货节应该选择哪一款iPad？怎么选？有哪些优惠？iPad2021、iPad Air4和iPad Pro 怎么选？</a><p><br></p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/401598359" data-size="normal" class="internal">iPad 小技巧 - Apple Pencil 怎么用？怎么关机？ Apple Pencil 使用技巧大全！ iPad Pro 最新优惠情况！</a><p></p>  
+</div>
+            
