@@ -1,0 +1,22 @@
+
+---
+title: '手機
+【TpGS 22】《少女前線》新春採購主題裝扮「新歲風物詩」登場 預告參展台北電玩展
+ 9 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/72/9d3704f4ebdb7e82e2438aef0e1exb85.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/72/9d3704f4ebdb7e82e2438aef0e1exb85.JPG'
+---
+
+<div>   
+槍械擬人戰術手機遊戲《少女前線》於今（7）日維護後推出新年採購主題「新歲風物詩」，並同步復刻 2021 年採購主題「初詣禱春」。官方亦同步預告《少女前線》於 2022 台北國際電玩展展出的相關內容，詳情請參考以下介紹。 「新歲風物...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/72/9d3704f4ebdb7e82e2438aef0e1exb85.JPG" referrerpolicy="no-referrer">  
+</div>
+            
