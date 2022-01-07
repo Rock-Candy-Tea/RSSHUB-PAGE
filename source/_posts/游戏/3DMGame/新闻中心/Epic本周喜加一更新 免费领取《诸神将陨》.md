@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220107/1641485169_5027
 Epic游戏商城的免费游戏发放已从圣诞时的日更恢复到周更，本周免费游戏为《诸神将陨》（Gods Will Fall）。免费领取时间为北京时间1月7日0点至1月14日0点。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220107/1641485169_502747.jpg" alt="Epic本周喜加一更新 免费领取《诸神将陨》" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220107/1641485169_502747.jpg" alt="Epic本周喜加一更新 免费领取《诸神将陨》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 <strong><span style="font-size:16px;"><a href="https://www.epicgames.com/store/zh-CN/p/gods-will-fall" target="_blank">免费领取地址</a></span></strong> 
@@ -41,7 +41,7 @@ Epic游戏商城的免费游戏发放已从圣诞时的日更恢复到周更，�
 下周免费游戏
 </h3>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220107/1641485219_219344.jpg" alt="Epic本周喜加一更新 免费领取《诸神将陨》" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220107/1641485219_219344.jpg" alt="Epic本周喜加一更新 免费领取《诸神将陨》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 目前公布的下周免费领取游戏：《银河文明3 》（Galactic Civilizations III），免费领取时间为北京时间1月14日0点至1月21日0点。
