@@ -19,7 +19,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20220107/s_141a24faa9874c2286d17813d1
 两天前的说法</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220107/b4c5a2a9054c4d588061af0529d3da3a.jpg" target="_blank"><img alt="Intel Arc独立显卡又跳票？！官网移除“Q1发布”" h="98" src="https://img1.mydrivers.com/img/20220107/s_b4c5a2a9054c4d588061af0529d3da3a.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a><br>
 官网突然变了</p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20220107/bb3b0534d9b14ffd87ba45f6b29883f3.png" target="_blank"><img alt="Intel Arc独立显卡又跳票？！官网移除“Q1发布”" h="264" src="https://img1.mydrivers.com/img/20220107/s_bb3b0534d9b14ffd87ba45f6b29883f3.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a><br>
 还不止一处</p>
 <p>这只能说明，Intel Arc显卡的发布时间又要跳票了，而且官方也吃不准，只能模糊地给一个年份。</p>
