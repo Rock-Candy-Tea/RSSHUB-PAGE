@@ -1,0 +1,19 @@
+
+---
+title: 'CES的_局外人_：苹果从不缺乏存在感'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0107/d4538358a00541c.jpg'
+author: cnBeta
+comments: false
+date: Fri, 07 Jan 2022 04:01:01 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0107/d4538358a00541c.jpg'
+---
+
+<div>   
+1月7日消息，自1992年以来，苹果从未正式参加过国际消费电子展（CES），但其在展会上并不缺乏存在感，苹果产品仍然对展会有很大影响力。苹果技术和产品在展会期间随处可见。目前来看，2022年度CES上最热门的新品包括与苹果“查找”功能兼容的新配件以及能用iPhone解锁的智能门锁，英特尔还专门对标苹果M1发布了新款芯片。<br>
+ <p>对于苹果来说，在CES上的这种“隐形”亮相并不是什么新鲜事。在2019年度CES上，将AirPlay 2功能整合到新<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>设备是展会一大主题。在当年展会举办期间，苹果还在拉斯维加斯附近张贴了一块巨大广告牌，强调公司在保护用户隐私方面的立场。而保护用户隐私问题一直是谷歌和亚马逊在展会期间的热门话题。</p><p>苹果影响力今年再次引人注目。这或许是因为很多第三方配件制造商基于苹果设备的“查找”功能和MagSafe等新技术发布了一系列新产品。</p><p><strong>更多适用于苹果平台的设备</strong></p><p>虽然苹果并没有在CES上发布任何新产品，但兼容苹果技术的新款背包、耳机以及智能门锁无处不在。在2022年CES上，与苹果“查找”功能、家庭互联平台和MagSafe充电系统兼容的新产品不断涌现。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0107/d4538358a00541c.jpg" referrerpolicy="no-referrer"><br>可用苹果<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>解锁的智能门锁</p><p>配件制造商Targus在展会上发布了新款背包Cypress Hero Backpack，其有一个内置的位置跟踪器，可以兼容苹果设备的“查找”功能，这样用户就可以在苹果地图上看到背包位置，无需额外购置AirTag。背包里还有一个开关按钮，如果背包被放错了地方，就会向用户<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>发出信号。</p><p>Chipolo是一家生产类似Tile蓝牙追踪产品的公司，在今年展会上也发布了一款与“查找”功能兼容的新产品。Chipolo是去年第一批兼容苹果“查找”功能的品牌之一。公司发布了一款信用卡形状的新款追踪器Chipolo Card Spot，可以让用户方便放进钱包。Chipolo表示，用户同样可以在苹果“查找”功能的物品一栏中监控Card Spot位置。这款产品售价35美元，将于今年2月份上市。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0107/6d89a9f3453022b.jpg" referrerpolicy="no-referrer"><br>兼容苹果“查找”功能的卡片式追踪器</p><p>Belkin也是去年第一批兼容“查找”功能的品牌之一，其在2022年度CES上发布了新款耳机Soundform Immerse，拥有混合主动降噪功能，也像以前的Soundform Freedom True耳机一样支持苹果“查找”功能。</p><p>苹果在去年4月份向第三方开发者开放“查找”平台，但目前这一功能还没有在配件制造商中得到广泛应用。苹果的“查找”网络可以搜索附近苹果设备的蓝牙信号，能将丢失物品的大致位置发送到云端。</p><p>今年展会上还出现首批与苹果Home Keys功能兼容的智能锁。Schlage发布了新款Encode智能锁，用户只要轻敲iPhone或按下苹果手表上的按键，就能打开家门。</p><p><strong>英特尔对标苹果芯片</strong></p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0107/a2b9ea69199a6ac.jpg" referrerpolicy="no-referrer"><br>对标苹果M1芯片的英特尔处理器</p><p>英特尔在2022年CES上宣布了一系列全球第12代处理器，旨在为各种笔记本电脑提供更多处理能力。公司声称搭载最强大芯片的笔记本电脑可以超越苹果广受欢迎的M1系列笔记本电脑。这表明英特尔正在芯片制造领域认真对待苹果。</p><p>除了与苹果竞争之外，英特尔还希望让<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a>电脑更容易与iPhone和苹果手表通信。这是英特尔Evo平台下一阶段的关键新功能之一。</p><p>英特尔展示了如何在Windows系统中查看苹果iMessages信息并进行回复。苹果手机和笔记本电脑的信息同步方式是Mac电脑在iPhone用户中如此受欢迎的一个主要原因。类似举措可以帮助Windows电脑制造商吸引更多Mac忠实用户。</p><p><strong>苹果总是CES的局外人</strong></p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0107/75a4f9e8075f950.jpg" referrerpolicy="no-referrer"><br>CES展会现场</p><p>苹果是唯一一家很少正式出席CES的大型科技公司。谷歌、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>和亚马逊等公司即使没有在展会上发布自家新产品，通常也会展示自家平台在汽车、家电、个人电脑等领域的广泛影响力。</p><p>自1992年以来，苹果就没有正式参加过CES，只是在2020年让公司首席隐私官参加了有关隐私问题的讨论。对于苹果来说，与第三方合作伙伴和开发商的关系一如既往重要，因为苹果正寻求在家用产品等新领域更深入拓展产品类别。这正是CES最大的焦点领域之一，也是苹果普遍落后于亚马逊和谷歌的地方。</p><p>很难说未来苹果是否能像谷歌、亚马逊、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>和微软那样参加CES展会。但能确定的是，CES将继续成为苹果新技术和服务有多流行的标志。（辰辰）</p>   
+</div>
+            
