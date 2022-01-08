@@ -57,7 +57,7 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/10/tim
 <blockquote class="wp-block-quote">
 <p>In 2021 we marked the 10th anniversary of Tim Cook’s leadership as CEO. It’s been a remarkable decade for Apple and in 2021 Mr. Cook was granted an equity award for the first time since he was promoted to CEO in August 2011. The structure of this award is better aligned with the performance-based and time-based RSUs awarded to our other named executive officers, while the amount recognizes his exceptional leadership and is commensurate with the size, performance, and profitability Apple has achieved during his tenure.</p>
 </blockquote>
-<p>For context, Tim Cook’s total compensation was $14.77 million in 2020, $11.55 million in 2019, </p>
+<p>For context, Tim Cook’s total compensation was $14.77 million in 2020 and $11.55 million in 2019. </p>
 <p>As always, remember that Tim Cook <a href="https://9to5mac.com/2015/03/26/cook-jobs-apple-greatest-leader-fortune/">has already said</a> he will be giving away the vast majority of his fortune — and has already started doing so. </p>
 <h2 id="h-tim-cook-s-security-and-travel-costs">Tim Cook’s security and travel costs</h2>
 <p>Other tidbits that people seem to love every year are how much Apple spends to keep Tim Cook safe and how much Apple spends on his use of a private jet for travel. As always, it’s important to remember that Apple’s board of directors implemented a policy in 2017 that requires Cook to use private aircraft for all of his business and personal travel for “security and efficiency reasons.” </p>
