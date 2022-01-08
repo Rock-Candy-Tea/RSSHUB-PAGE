@@ -1,0 +1,19 @@
+
+---
+title: '电动汽车制造商ELMS正专注于制造价格合理的电动商用车'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0108/d8cd5c9d3a6928a.png'
+author: cnBeta
+comments: false
+date: Sat, 08 Jan 2022 01:48:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0108/d8cd5c9d3a6928a.png'
+---
+
+<div>   
+据CNET报道，特斯拉、Rivian、Lucid和Fisker是抢占头条的电动车制造商。但其他无数的电动汽车制造商也在为制造电池动力汽车而努力。其中一家重要的制造商是Electric Last Mile Solutions，即ELMS。在 CES 2022上，这家公司走出了阴影--在短时间内，ELMS可能会成为一个家喻户晓的名字。这家汽车制造商的联合创始人兼首席执行官Jim Taylor告诉CNET：“我仍然称我们为相对隐蔽的公司。”他解释说：“我们是真实的，我们不是PPT（演示），也不是两年后会出现的汽车。”<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0108/d8cd5c9d3a6928a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0108/d8cd5c9d3a6928a.png" alt="R8$_@V3@@L(HSS8FU&#125;YZ7EG.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">ELMS现在正在制造和交付纯电动货车。ELMS总部设在密歇根州的特洛伊，在印第安纳州米沙瓦卡的一家旧悍马工厂设有制造工厂，该工厂被改造为制造电动汽车。Taylor曾经是通用汽车的高管：他曾负责凯迪拉克和悍马品牌。</p><p style="text-align: left;">与这两个品牌截然相反，ELMS专注于提供可靠的、可负担的商用车。Taylor说：“极端的技术不是我们的游戏，”相反，“是极端的可负担性”。该公司的Urban Delivery<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C752%2C899" target="_blank">面包</a>车是为油漆工、快递员和其他需要持久工作车辆的企业量身定做的，所以不要指望这款运输车会采用Nappa皮革、自适应悬挂系统或通风座椅。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0108/d7f7e13109fc851.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0108/d7f7e13109fc851.png" alt="_Z8GXAL~~H2$[`V8D6_96[R.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Urban Delivery的长度为186英寸，与福特Transit Connect的尺寸差不多。它的轴距为120英寸，重量为3133磅。货物空间为157立方英尺，其最大有效载荷为2100磅。至于性能，这辆车有一个由CATL提供的41千瓦时的电池组，ELMS估计它在美国环境保护局的测试中可以提供110英里的续航能力。一台电动马达可输出60kW 的动力。最高速度据称是每小时55英里，但对于市中心的送货任务来说绰绰有余。</p><p style="text-align: left;">据悉，Urban Delivery核心部分是来自中国的五菱设计。Taylor解释说，很多人指责他们只是进口中国的货车，但他强调说：“这就是我们没有做的事情。”ELMS确实从五菱提供的白车身滚动底盘开始，因为 “它已经在道路上被证明是可靠的”，但ELMS对它们进行了重大改造，增加了座椅、传感器和安全装置，新的保险杠和大灯（使车辆在美国的街道上合法的一切需要）。ELMS还安装了自己的电动动力系统。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0108/a5bbebda18f166d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0108/a5bbebda18f166d.png" alt="IESD`%SRQEN0HLQ]8XG2VMU.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">但是为什么从五菱设计开始？Taylor解释说，该公司进口了一批在中国销售的最受欢迎的商用车，并对它们进行了比较。五菱的成熟产品名列前茅，这就是ELMS选择它作为其第一款车型基础的原因。当然，从现有产品开始，而不必从头开始开发车辆，这可以节省大量的时间和成本。</p><p style="text-align: left;">第一批城市配送车已于9月移交给客户，但它们并不符合街道法规。据悉，Urban Delivery Campus Vehicle是为了在封闭的环境中使用，如大学校园。Taylor解释说，ELMS决定首先推出一个非认证产品，以解决任何生产或供应问题。但与此同时，工程师们正在开发一种适销对路的货车，一种符合所有联邦标准的货车。这款车型的工作已经完成，车辆应该在本月底前开始向客户发货，这意味着人们可能很快就会开始看到Urban Delivery悄悄地在社区里出现。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0108/49e2c6f398c60ff.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0108/49e2c6f398c60ff.png" alt="357LMGEPX~SI4XV50E1`&#123;)S.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">除了这个轻型产品，ELMS正在开发一个全电动底盘车模型，这也将是一个中国车辆的改进版。该车被称为Urban Utility，预计将在短期内上市销售，可能在2022年下半年早期上市。像这样的大型三类卡车的安全要求远不及乘用车，因此该公司能够比其他公司更早地将该产品推出市场。</p><p style="text-align: left;">ELMS Urban Delivery的起售价约为34500美元，不包括任何电动车奖励。使事情变得有趣的是，现有的7500美元的联邦税收抵免应将价格降至与内燃机对手一致。当考虑到普遍较低的电力成本和电动车大幅减少的维护费用时，它们可能会成为一个更好的交易。Taylor说，至于可用性，“我们只专注于商业方面，”。ELMS产品将通过位于美国主要市场的三个精心挑选的分销商进行销售。</p><p style="text-align: left;">Taylor没有具体透露订购量或哪些公司对其产品感兴趣，但他似乎对他的团队正在做的事情非常乐观。他说，Urban Delivery“将使我们出名”。</p>   
+</div>
+            
