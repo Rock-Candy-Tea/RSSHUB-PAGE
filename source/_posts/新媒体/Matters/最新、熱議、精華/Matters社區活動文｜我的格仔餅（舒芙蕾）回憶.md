@@ -1,0 +1,18 @@
+
+---
+title: 'Matters社區活動文｜我的格仔餅（舒芙蕾）回憶'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/edee5736-d7ab-4311-848d-5223e352a0aa.jpeg'
+author: Matters
+comments: false
+date: Sat, 08 Jan 2022 08:48:14 GMT
+thumbnail: 'https://assets.matters.news/embed/edee5736-d7ab-4311-848d-5223e352a0aa.jpeg'
+---
+
+<div>   
+<p>老實說還真的沒有格子餅（鬆餅的回憶），小時候真的沒有什麼機會吃甜點<br class="smart">（麵媽是超級健康的大廚，湯大概加半匙鹽、炒菜也是半匙鹽，完全不用味精、油蔥酥來調味，從小到大幾乎都吃食物的原味，當然我也不挑食更是從小養起的習慣，煮啥就吃啥，要不自己煮，現在我煮飯也是這樣跟我表弟說。）<br class="smart"><br class="smart">小時候極少給我們吃餅乾和糖果只有過年會出現的食物，更別說垃圾食物和速食了，在上國中以前吃麥當勞的次數大概不破十次，可以去吃麥當勞大概都是補習班一起買的。<br class="smart">當然上國高中後因為要補習，只能在外面吃就大開殺戒，<s>除了控制好自己的花費以外或是土多吃一點，</s>還是活到了現在，（當然麵媽還是很健康飲食，只是現在不管我們要吃啥了，就說：自己身體顧好。）<br class="smart"></p><p><br></p><p>甜點這個東西，小時候對我來說是只有每一年生日的時候會有一塊小小的蛋糕。<br class="smart"><s>（還要撇開麵媽忘記生日，連續兩年帶蛋糕回去麵媽問怎麼會有蛋糕的日子）</s>那為何會開啟<strong>麵麵手作甜點的道路呢，</strong>因為麵媽說外面的甜點裡面都不知道加了什麼添加劑，不要吃對身體不好。</p><blockquote><strong>機靈又可愛的我說：那如果我可以自己做吧，你給我材料錢。<br class="smart">麵媽更機靈地說：你自己存錢想辦法，我提供你空間<br class="smart">可.......惡，好吧</strong><br class="smart"><br class="smart">就這樣開啟了我的甜點之路（沒錯，所有的材料和器具都是我一點一點存起來的）<br class="smart"><em><s><u>偷偷說一個秘密，其實是在高中時有一個喜歡的人，就偷偷做甜點送給大家吃</u></s></em></blockquote><p><br></p><p><br></p><p>關於格子鬆餅對我來說記憶點很少，畢竟食譜太簡單（也沒有機器）完全沒有手做過<br class="smart">真的要很認真說的記憶可能就是以前高三去上補習班時因為要趕車，所以在路邊看到一塊只要20的巧克力格子餅就買下去了。<br class="smart">其餘都是吃甜點的配料，完全沒有深刻的印象<br class="smart">（畢竟其他甜點比格子鬆餅好吃多了）<br class="smart"><br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/edee5736-d7ab-4311-848d-5223e352a0aa.jpeg" data-asset-id="edee5736-d7ab-4311-848d-5223e352a0aa" referrerpolicy="no-referrer"><figcaption><span>來源-白鼬筆寬麵</span></figcaption></figure><p>（這是裡面包芋泥的格子鬆餅很一般，好像是港式的我印象中）<br class="smart"></p><hr><h2>既然沒有格子鬆餅的回憶，那我們就來創造一個吧</h2><p>就來一個格子鬆餅製作大計畫拉（但我們家沒有鬆餅機）<br class="smart">那格子就自己劃吧，沒有鬆餅粉，那就直接網路上找食譜拉<br class="smart"><br class="smart">這一次是還是使用我最愛的厭世甜點的配方，我喜歡鬆軟的鬆餅<br class="smart">（就用舒芙蕾的食譜吧）詳情製作請看拿拿摳老師<br class="smart"><br class="smart"></p><blockquote>食譜<br class="smart">麵糊、蛋黃 2 顆、牛奶 20g、植物油 10g、低筋麵粉 30g、香草籽醬 適量、蛋白 3顆、二號砂糖 40g、檸檬汁 些許<br class="smart"></blockquote><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/EzdFteAgi7Y?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span>來源-舒芙蕾 - 讓你舒服到升天 四大秘訣成功率翻N倍│厭世甜點店</span></figcaption></figure><hr><p>你以為我要上教學嗎並沒有這回事，就是來放毒的<br class="smart"></p><h2><br class="smart">上成品照片<br class="smart"><br class="smart">白鼬自製舒芙蕾格子鬆餅（適合家裡沒有鬆餅機的邊緣人）<br class="smart"></h2><figure class="image"><img src="https://assets.matters.news/embed/b3f52c8b-848d-4f45-a84c-a140276a27f2.jpeg" data-asset-id="b3f52c8b-848d-4f45-a84c-a140276a27f2" referrerpolicy="no-referrer"><figcaption><span>來源-白鼬筆寬麵</span></figcaption></figure><p>口感：就是鬆軟可口入可即化，加上濃濃的自製巧克力甘納許在配一點藍莓點綴。<br class="smart"><s>但為何沒有膨脹起來呢，你有看過格子鬆餅是膨的嗎（這才是格子鬆餅呀）</s></p><p><strong>絕對不是舒芙蕾鬆餅＂嚴正聲明＂，他只是長的很像舒芙蕾的格子鬆餅。</strong><br class="smart"></p><hr><p>格子餅現在對我的回憶來說就是可以自己用手做出來的甜點，我心情好時就可以做給自己吃，<s>我想任性時就叫別人做給我吃，</s>或許曾經錯過很多回憶和嘗試。<br class="smart">那為何不現在來創造呢？沒有這個回憶那就來創造一個屬於自己的專屬回憶吧</p><p><s>話說我下次一定要買一個不沾平底鍋，用炒菜鍋實在是太難用了</s><br class="smart"></p><p>以下開放報名吃現做鬆餅（但可能只能看我直播吃了，開玩笑覺得餓快去買一個吧）</p><p><br></p><h1>圍爐大家可以配這首歌吃鬆餅<a href="https://matters.news/@nk980710/%E7%99%BD%E9%BC%AC%E4%B8%8D%E5%B0%88%E6%A5%AD%E9%9F%B3%E6%A8%82%E7%B7%B4%E5%94%B1%E6%95%99%E5%AE%A4-%E8%A8%B1%E5%85%89%E6%BC%A2-greg-han-souffle-cover-bafyreicyzak55xglgmdec6k6whoqq2kprn3mazwkfmagqu26dfkaotw5hy" rel="noopener noreferrer" target="_blank"><br class="smart">白鼬不專業音樂練唱教室｜許光漢 Greg Han《Soufflé》</a></h1><h1><br></h1><p><br></p>  
+</div>
+            
