@@ -29,7 +29,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220108/1641608345_3967
 宣传片：
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTgzMjk1OTY3Ng==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTgzMjk1OTY3Ng==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
