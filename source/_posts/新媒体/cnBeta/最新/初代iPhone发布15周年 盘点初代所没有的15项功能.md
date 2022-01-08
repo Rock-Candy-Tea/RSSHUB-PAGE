@@ -1,0 +1,19 @@
+
+---
+title: '初代iPhone发布15周年 盘点初代所没有的15项功能'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0108/1c647905c6c211d.webp'
+author: cnBeta
+comments: false
+date: Sat, 08 Jan 2022 03:11:43 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0108/1c647905c6c211d.webp'
+---
+
+<div>   
+本周日，是史蒂夫·乔布斯在旧金山的 Macworld 博览会上介绍初代 iPhone 的 15 周年。虽然该设备彻底改变了智能手机行业，但人们很容易忘记 iPhone 从那时起有了多大的改进。<strong>为庆祝这一时刻的到来，科技媒体 MacRumors 列出了初代 iPhone 在刚发布时没有的 15 项功能。</strong><br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0108/1c647905c6c211d.webp" alt="sk995dee.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● App Store</strong></p><p style="text-align: left;">初代 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 预装了电话、天气、笔记、日历、照片和计算器等应用程序，但在 2008 年 7 月 App Store 推出之前，没有正式的方法来安装本地第三方应用程序。开发商能够提供基于网络的应用程序，但这是一种不合格的体验。</p><p style="text-align: left;"><strong>● 复制和粘贴</strong></p><p style="text-align: left;">这似乎很难让人相信，但复制和粘贴文本的能力直到 2009 年才被添加到iPhone上。</p><p style="text-align: left;"><strong>● 前置摄像头</strong></p><p style="text-align: left;">虽然现在自拍已经无处不在，但初代 iPhone 没有前置摄像头。事实上，直到 2010 年 iPhone 4 推出新的 FaceTime 视频通话功能之前，都没有前置摄像头。</p><p style="text-align: left;"><strong>● 视频录制</strong></p><p style="text-align: left;">初代 iPhone 只能拍摄照片，2009 年的 iPhone 3GS 推出了视频录制功能。</p><p style="text-align: left;"><strong>● 手电筒</strong></p><p style="text-align: left;">由于初代 iPhone 没有 LED 闪光灯，所以没有内置手电筒。当应用程序商店推出时，一些手电筒应用程序被发布，在最大亮度下显示一个白色屏幕，以模仿手电筒。</p><p style="text-align: left;"><strong>● 彩信（MMS）</strong></p><p style="text-align: left;">初代 iPhone 支持通过短信发送文本信息，但没有发送照片的能力。2009 年，iPhone OS 3.0 引入了彩信功能，但只适用于iPhone 3G和iPhone 3GS。</p><p style="text-align: left;"><strong>● 全球定位系统</strong></p><p style="text-align: left;">虽然初代 iPhone 预装了 Google Maps 应用程序，但由于该设备没有全球定位系统，所以没有导航功能。苹果在 2008 年的 iPhone 3G 中引入了一个内置的 GPS。</p><p style="text-align: left;"><strong>● 主屏幕壁纸</strong></p><p style="text-align: left;">直到 2010年iOS 4发布时，才有可能在 iPhone 上设置自定义的主屏幕壁纸，而且该软件更新不支持初代 iPhone。</p><p style="text-align: left;"><strong>● Verizon支持</strong></p><p style="text-align: left;">AT&T 是美国唯一的 iPhone 运营商，直到 Verizon 在2011年开始支持该设备。</p><p style="text-align: left;"><strong>● Siri</strong></p><p style="text-align: left;">苹果的语音数字助理在2011年随iPhone 4S推出。</p><p style="text-align: left;"><strong>● Touch ID 或 Face ID</strong></p><p style="text-align: left;">虽然现代 iPhone 和 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a> 都配备了Face ID或Touch ID等生物识别认证系统，但最初的iPhone只能用四位数的密码来保护。触摸ID于2013年随iPhone 5s上市，而Face ID于2017年在iPhone X上首次亮相。</p><p style="text-align: left;"><strong>● Lightning 连接器</strong></p><p style="text-align: left;">像之前的许多<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">iPod</a>一样，最初的iPhone配备了一个30针的底座连接器。随着2012年iPhone 5的发布，苹果改用了更小的闪电连接器。</p><p style="text-align: left;"><strong>● 视网膜显示屏</strong></p><p style="text-align: left;">2010年在iPhone 4上推出，视网膜显示屏的像素是原版iPhone的四倍，是当时智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>中分辨率最高的显示屏。</p><p style="text-align: left;"><strong>● 无线充电</strong></p><p style="text-align: left;">第一批支持无线充电的iPhone是2017年发布的iPhone 8、iPhone 8 Plus和iPhone X。</p><p style="text-align: left;"><strong>● 耐水性</strong></p><p style="text-align: left;">水对初代 iPhone并不友好，但最新的机型具有IP68级别的防水性能。</p>   
+</div>
+            
