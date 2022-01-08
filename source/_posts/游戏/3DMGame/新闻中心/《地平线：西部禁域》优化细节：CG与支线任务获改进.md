@@ -23,7 +23,7 @@ McCaw表示：“这种品质贯穿了整个游戏，哪怕在一些细微的场
 游戏中更加“宜居”的聚落也很关键，从最近的预告片里可以看到有很多部落的出现。McCaw提到：“我们优化了前作的人口系统，对动画和音效进行了提升，让游戏里的居民和聚落得到了升级。玩家能从游戏里体验到一种真实感和生活感。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220108/1641627138_772046.jpg" alt="《地平线：西部禁域》优化细节：CG与支线任务获改进" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220108/1641627138_772046.jpg" alt="《地平线：西部禁域》优化细节：CG与支线任务获改进" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 玩法方面，HUD变得更加整洁了一些。游戏里的极简模式就如同游戏总监Mathijs de 
