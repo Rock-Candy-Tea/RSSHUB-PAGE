@@ -1,0 +1,18 @@
+
+---
+title: '硅谷人：逃离大厂，拥抱Web3'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/content/202201/09/143138211198.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+author: 虎嗅
+comments: false
+date: Sun, 09 Jan 2022 11:17:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/content/202201/09/143138211198.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">出品｜虎嗅金融组</span></p><p><span class="text-remarks" label="备注">作者｜周舟</span></p><p><span class="text-remarks" label="备注">头图｜视觉中国</span></p><p>Web3，正在成为越来越多硅谷科学家的职业新选择。<br></p><p>1月7日，Twitter Spaces首席数据科学家Julien Gaillard宣布将加入DeFi借贷平台Aave。他在推特上留言：“之所以选择Web3，是因为其核心价值在于去中心化、创新、公平和实验。”</p><p>他表示：“Web3和数据科学是天生一对，链上数据本质上是高质量的、可追溯的、开源的。”开源和透明性，让他十分兴奋接下来要做的事业。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202201/09/143138211198.png?imageView2/2/w/1000/format/png/interlace/1/q/85" data-w="1000" data-h="775" src="https://img.huxiucdn.com/article/content/202201/09/143138211198.png?imageView2/2/w/1000/format/png/interlace/1/q/85" referrerpolicy="no-referrer"></p><p label="图片备注" class="text-img-note">Twitter截图</p><p>在Twitter的前同事和“路过”的网友们则清一色在Julien的推特下恭喜他找到了一个好的工作。一位网友则好奇寻问：“你换工作，是因为在Web3看到了巨大的机会，在传统的Web2领域难有更大突破，还是有其他原因。”</p><p>这个问题的答案或许不言自明。无论中美，以谷歌、亚马逊、阿里巴巴、腾讯为代表的Web2时代的互联网巨头发展已趋于稳定，想要和10年前一样，凭实力就能拿到超高回报的股权、薪资和职级，成为一件越来越难办到的事。</p><p>然而，在Web3公司中，这样的事情却每天都在发生。</p><h3 label="大标题" class="text-big-title">Web3，互联网人的“新出路”</h3><p>Web3和Web2最大的区别是，一个去中心化，一个中心化。</p><p>目前我们所处的互联网行业，是一个高度中心化的行业，也就是Web2时代。它经过了近20年的发展，整个行业的创新已经固化，Web2时代的互联网行业已经成为了如今最为内卷的行业之一。</p><p>然而Web3时代的互联网行业，才刚刚开始。一个趋势正在从硅谷蔓延到整个美国，这一趋势也逐渐在向全球扩散：顶尖人才，正在从中心化的公司，跳槽到去中心化的公司中。</p><p>查特吉（Chatterjee）就是其中之一，他在一年前“抛弃”了谷歌副总裁的职务，成为加密货币公司Coinbase的首席产品官。2021年4月，Coinbase上市，市值超500亿美元，查特吉的股份超过了6亿美元。</p><p>谷歌不是唯一需要担心人才流失的互联网公司，亚马逊、Twitter、脸书、苹果等一众大型中心化互联网公司都发现自己的人才并不像以往那样只是在同行范围内流转，而是涌向了区块链行业为代表的Web3世界。比如脸书的加密货币业务负责人戴维·马库斯离开了传统互联网行业，而是加入了区块链创业项目，打车公司的首席财务官Lyft加入了区块链明星公司OpenSea，这家公司在本月刚融资了3亿美元，准备上市。</p><p>资本一直是时代的风向标。曾经专门投资互联网的专业人士，也有许多加入了投资Web3赛道的团队。如红杉资本的的合伙人Matt Huang放弃了曾经的传统互联网投资赛道，而是成立了Paradigm这样重金投入Web3的风险基金。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202201/09/162406469035.png?imageView2/2/w/1000/format/png/interlace/1/q/85" data-w="640" data-h="436" src="https://img.huxiucdn.com/article/content/202201/09/162406469035.png?imageView2/2/w/1000/format/png/interlace/1/q/85" referrerpolicy="no-referrer"></p><p>2021年12月20日胡润研究所发布报告，金融科技是目前全球独角兽排名第一的行业，独角兽数量达139，总价值占比达19.5%，比软件服务、电子商务这两大行业的独角兽还要多，其中许多公司本身就是Web3中的一员，如Coinbase、OpenSea等，而有的是传统互联网巨头、Web2时代的弄潮儿比如美国的支付宝的PayPal、Square等，他们也在积极转型理解和加入去中心化的世界，以期许自己不被Web3时代抛弃。</p><h3 label="大标题" class="text-big-title">如何成为Web3人才？</h3><p>Web3并不是一个新名词，早在几年前就有人提出。而它在2021年爆火的实际原因在于NFT、DAO等概念得以广泛实践和应用。</p><p>在国外，NFT已经渗透到人们生活的方方面面，近千万的账户在交易NFT，耐克、可口可乐、纽约时报、法拉利等各行各业的明星公司深度参与到NFT的内容创作和品牌营销中；在国内，阿里腾讯京东B站......几乎所有互联网巨头都已参与到NFT的创业项目中。</p><p>DAO（去中心化组织）让人们认识到，现代化公司这种组织形式也不过是近几十年来的产物，它也在不断变化中，我们中的大多数人未来也完全可能在新的组织形式中工作和生活。我们可以通过DAO提出一个想法，然后联合全球所有持相同想法的人，合力做一件事并获得相应权益。比如我们单独一个人很难买下达芬奇的画，但是如果有一个“达芬奇的画在故宫博物馆DAO”，就会让持有这一想法的人聚集起来，用群体的力量来竞拍一幅画，并决定一幅画应该在哪里展出。</p><p>当然，无论是NFT，还是DAO，在发展过程中，都会遇到各种各样的欺诈问题，并成为社会的不稳定因素。目前国内也在禁止金融属性的Web3应用，希望能最大程度上保护广大群众的财产安全，这或许将会让Web3能更健康和安全发展。</p><p>从加密货币到Defi、NFT、DAO......Web3所描绘的去中心化世界，在日新月异的改变中，并逐渐向我们靠近。在一次次破圈中，Web3证明了自己蓬勃的生命力，即使强监管、去金融的情况下，它依然能爆发出不小的能量，并与各个传统行业相结合。</p><p>硅谷的互联网人已经在向Web3“迁徙”，随着NFT以及更多技术和项目的发展，未来国内的互联网人或许也将拥有更好的赛道选择。</p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.altoros.com/blog/wp-content/uploads/2021/12/Shell-Arrikto-distribute-energy-2030-1024x576.png'
 author: Dockone
 comments: false
-date: 2022-01-09 11:06:40
+date: 2022-01-09 12:12:08
 thumbnail: 'https://www.altoros.com/blog/wp-content/uploads/2021/12/Shell-Arrikto-distribute-energy-2030-1024x576.png'
 ---
 
