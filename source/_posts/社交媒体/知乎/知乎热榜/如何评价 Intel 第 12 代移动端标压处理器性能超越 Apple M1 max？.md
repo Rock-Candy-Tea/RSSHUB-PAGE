@@ -1,0 +1,18 @@
+
+---
+title: '如何评价 Intel 第 12 代移动端标压处理器性能超越 Apple M1 max？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-dddfc185cd8481fe9cccda25fd7b7687_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 09 Jan 2022 08:08:07 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-dddfc185cd8481fe9cccda25fd7b7687_1440w.jpg'
+---
+
+<div>   
+超合金彩虹糖的回答<br><br><p data-pid="AFGgQDro">我觉得毫无问题，因为Intel的12代酷睿移动端处理器和苹果的M1不是一个发力点</p><p data-pid="IsB7gc14">Intel的12代标压处理器是在100W以内实现尽可能高的性能，其中单核加速频率可以达到5GHz，拥有6大核8小核，这就意味着这颗处理器的多线程性能是可以非常可观的，</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-dddfc185cd8481fe9cccda25fd7b7687_1440w.jpg" data-caption data-size="normal" data-rawwidth="1536" data-rawheight="776" data-default-watermark-src="https://pic1.zhimg.com/v2-346a5047257d41b5d4652b2bec3f5681_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-dddfc185cd8481fe9cccda25fd7b7687_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="XosO3KMt">但是这需要比较大的功耗，毕竟12代酷睿用的制造工艺是Intel 7，也就是Intel 10nm esf工艺</p><p data-pid="Sv6bHK5q">在单核性能上12代酷睿比起M1 Max也是有优势的，毕竟频率高，比IPC比不过但是频率高啊，拉高频率也能拉高单核性能，毕竟体现在具体软件里的不是IPC而是实际单核性能。</p><p data-pid="g3QuHY7p">在核心数上是12900HK有优势，毕竟6大8小，还频率都高。如果打不过M1 Max那才是有问题的。</p><p data-pid="aaW33czn">对于多线程跑分来说，如果是同架构同制程的一代产品，那么限定功耗下核心数越多的那个肯定跑分越强，这里可以放一个公式给你们参考一下：</p><p data-pid="8xnHOxmL"><b>P= cv²f </b></p><blockquote data-pid="9f4TJVQ2">P是功耗，c是容性负载，v是电压，f是频率</blockquote><p data-pid="mrYTuE9r">这个公式可视化一下就是这样的：</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7affea8d75fafeb7e8bd9b4010048f5e_1440w.jpg" data-caption data-size="normal" data-rawwidth="1752" data-rawheight="1053" data-default-watermark-src="https://pic1.zhimg.com/v2-5a680210605522626b3e4eba2b401cea_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7affea8d75fafeb7e8bd9b4010048f5e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="rAvr9yI8">多核+低频对跑分是真的有用，既能突出高性能也能突出高能效，</p><p data-pid="DNMlgH_L">但少核高频就不一样了，相比之下会显得低性能和低能效</p><p data-pid="Co5SdLis">苹果的M1 Max根据我看过的评测来看，这颗SOC的CPU是在35W以内实现尽可能高的性能</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d3d1a3855c7f692276bfb7cf25d6dfed_1440w.jpg" data-size="normal" data-rawwidth="1919" data-rawheight="1068" data-default-watermark-src="https://pic3.zhimg.com/v2-a61f2695e7961ac02498f67d3be41d3a_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d3d1a3855c7f692276bfb7cf25d6dfed_r.jpg" referrerpolicy="no-referrer"><figcaption>图源极客湾</figcaption></figure><p data-pid="L3SierIg">这颗SOC本身是台积电5nm工艺制造，并且CPU的频率设计也不高，8大核全核加速频率是3GHz，2小核是频率2.06GHz，</p><p data-pid="x7jWPKeo">低频率+先进制程使得它天生就拥有着对比高频率+弱一档制程更高的能效比，这是一颗极其注重能效表现的SOC，对能效的追求要明显高于12代酷睿的移动端</p><p data-pid="nkQxNZL_">如果M1 Max拉高频率，那么性能也可以上来，但是功耗也会上来；如果把12900HK的频率降低，功耗也可以下来，只不过性能上限也下来了。</p><p data-pid="u0gc2X6a">而且要比多线程性能，X86这边也从来都不缺强者。即使是笔记本上也如此，虽然图上的5900HX性能似乎没有强过M1 Max，但是这些玩意可以啊：</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d6c863bd92d2202fafd8e2282c9045ef_1440w.jpg" data-caption data-size="normal" data-rawwidth="503" data-rawheight="652" data-default-watermark-src="https://pic1.zhimg.com/v2-49d89d3dda1d9749dba3ab76faeee568_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d6c863bd92d2202fafd8e2282c9045ef_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="sSRVLdCF">怼他丫的</p><p></p><p></p>  
+</div>
+            
