@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-01-09 05:11:05
-thumbnail: 'https://pic2.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162'
+date: 2022-01-09 06:10:56
+thumbnail: 'https://pic1.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-bcdfd003d90b226d1c7aa4b76ea9c7bf_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">TokyoRed，</span><span class="bio">Reality and fantasy</span>
 <a href="https://www.zhihu.com/question/493603586/answer/2227022791" class="originUrl" hidden>查看知乎原文</a>
 </strong>
