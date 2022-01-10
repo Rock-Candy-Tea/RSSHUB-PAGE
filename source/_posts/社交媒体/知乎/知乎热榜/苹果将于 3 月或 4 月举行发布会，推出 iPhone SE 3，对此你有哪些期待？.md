@@ -1,0 +1,18 @@
+
+---
+title: '苹果将于 3 月或 4 月举行发布会，推出 iPhone SE 3，对此你有哪些期待？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-99b716861c328f78826feba38932f69e_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 10 Jan 2022 06:26:12 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-99b716861c328f78826feba38932f69e_1440w.jpg'
+---
+
+<div>   
+太平洋电脑网的回答<br><br><h2><b>iPhone SE3最快3月发布，或成最便宜的5G iPhone</b></h2><p data-pid="iXRVSBiz">近日，据上游供应链最新消息称，苹果已经在准备新款iPhone SE的最后阶段，该款手机<b>预计最早今年3月份发布</b>，并搭载和iPhone 13同款的<b>A15芯片</b>，而售价也仅仅只需<b>3000余元</b>，这很可能是苹果旗下最便宜5G手机。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-99b716861c328f78826feba38932f69e_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="546" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-99b716861c328f78826feba38932f69e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="byA6_YSK">关于iPhone SE3或者5G版iPhone SE的消息已经传了很久，而对于iPhone SE3的外观设计，目前业内主要有两种说法。</p><p data-pid="OEJe69YX">一种是继续沿用4.7英寸的苹果经典造型，保留Home键；另一种是换成6.1英寸的刘海全面屏，就像当年的iPhone XR一样。</p><p data-pid="FaJBkx9F"><b>就目前来看，iPhone SE3沿用经典造型的可能性会更大。</b>今年将推出的iPhone 14系列很有可能将mini版本去掉，取而代之的是一款6.7英寸的全新机型。</p><p data-pid="PJNkK7l7">那么，延用经典造型的iPhone SE3，能否完美填补mini退出后小屏市场的空白呢？</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-ab35786f70c6caeeb8c18b624e21d4a8_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="494" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-ab35786f70c6caeeb8c18b624e21d4a8_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="XAwOLRcu">此前就有市调机构指出，苹果对iPhone SE3的定价设定在400美元以下，较上一代SE2进一步下调，且起步容量64GB。鉴于第二代iPhone SE国行定价3299元起，iPhone SE3的售价有望进一步下探至3000元附近。</p><p data-pid="Z4ULQ-Ku">在产品开发方面，苹果公司坚持在2022年第一季度发布第三代iPhone SE。第三代iPhone SE预计将成为苹果在中端5G智能手机市场上确立地位的主要工具，预计其2022年的产量将达到2500-3000万部。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e270a4e71330bb22f4edfd94428a01f7_1440w.jpg" data-caption data-size="normal" data-rawwidth="800" data-rawheight="769" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e270a4e71330bb22f4edfd94428a01f7_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="AZpYZQly">其实之前也有供应链爆料称，新款iPhone SE的模具已经准备开始量产，基本上还是上代产品的“套娃”，仅仅会更换摄像头的传感器和可能添加诸如夜景模式等功能而已。</p><p data-pid="ErsF1ma1">最新的爆料中提到，新款iPhone SE将配备4.7英寸的显示屏和配有实体指纹Home键，背面仍旧保留12MP单摄的设计，仅会通过更换传感器来提升拍照效果，搭载残血版的A15处理器，并拥有外挂X60M 5G基带芯片。</p><hr><p data-pid="Nt2_VyU7">码字不易，如果觉得本篇内容对你有帮助的话可以双击点赞支持一下，有什么想要了解的问题欢迎来评论区跟我交流。</p><p data-pid="5ig2H01U">延伸阅读</p><a href="https://www.zhihu.com/question/507345497/answer/2304785957" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-15ea00890502ffff3440f74bb137c3a2_bh.jpg" data-image-width="700" data-image-height="369" class="internal">苹果 15 英寸 iPad 曝光，能兼容 Mac 应用，该款产品有哪些亮点值得关注？</a><a href="https://www.zhihu.com/question/510268216/answer/2304679304" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-9dc67ef1391da8bf9194cac66c2e3fb0_bh.jpg" data-image-width="700" data-image-height="394" class="internal">英特尔挖走苹果 M1 首席芯片设计师，这将对苹果 M1 芯片设计工作产生哪些影响？</a><a href="https://www.zhihu.com/question/509803489/answer/2297294639" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-610dc4d3aa5d76ba427b4c198a77f4f2_bh.jpg" data-image-width="700" data-image-height="515" class="internal">一加 10 系列新机正式官宣将于 1 月 11 日发布，目前有哪些爆料和已知内容？</a><p></p>  
+</div>
+            
