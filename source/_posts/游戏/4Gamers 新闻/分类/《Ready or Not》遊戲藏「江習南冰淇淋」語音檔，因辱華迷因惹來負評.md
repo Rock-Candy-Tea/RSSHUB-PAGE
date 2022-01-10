@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/ae63464e-71db-4e90-8c29-63fbf5
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/ae63464e-71db-4e90-8c29-63fbf53a5436.jpg" referrerpolicy="no-referrer"><p>速度與激情速度與激情速度與激情</p>  
+<img src="https://img.4gamers.com.tw/news-image/ae63464e-71db-4e90-8c29-63fbf53a5436.jpg" referrerpolicy="no-referrer"><p>素肚與基情酒素肚與基情酒素肚與基情酒</p>  
 </div>
             
