@@ -38,7 +38,7 @@ thumbnail: 'https://img.cls.cn/images/20220110/QcCdaTP7x2.png'
 <p><img src="https://img.cls.cn/images/20220110/96Y288oM2T.png" alt="image" referrerpolicy="no-referrer"></p>
 <h3 id="-dealogic-2021-12-31-">数据来源：dealogic，统计截止日：2021年12月31日</h3>
 <p>值得一提的是，在并购领域大项目中，中资券商表现优异，身影频繁在全年港股中资私有化前十大交易中出现。其中，中金公司更是凭借绝对领先优势，参与了首创置业、创兴银行、中国机械工程、苏创燃气、龙翔集团五单私有化交易，位居中资券商之首。</p>
-<p><img src="https://img.cls.cn/images/20220110/L48a7Kdfec.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220110/PQ90y65Q4X.png" alt="image" referrerpolicy="no-referrer"></p>
 <h3 id="-2021-12-31-">统计截止日：2021年12月31日</h3></div>  
 </div>
             
