@@ -1,0 +1,18 @@
+
+---
+title: '2022 LPL 春季赛 FPX 2_1 击败 RNG 取得开门红，如何评价这场比赛？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-20fcc557bb79783efd14bdfe511ddb6e_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 10 Jan 2022 14:10:08 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-20fcc557bb79783efd14bdfe511ddb6e_1440w.jpg'
+---
+
+<div>   
+Arenase0的回答<br><br><p data-pid="vZs5hCRi">非常精彩的比赛！这版本AD的优先级很高，<b>本场比赛证明FPX的实力不比RNG弱，这还是Gori没有完全融入队伍的状态。</b></p><p data-pid="YDYwah8g"><b>从德杯一路看下来，个人认为FPX今年必进世界赛，保底LPL前三，如果不是接受爆破。</b></p><p data-pid="v806K3Wk"><b>FPX从德杯到现在，思路清晰，战术明确，全部给我保翔掌门就行了</b>，于是你看到Lwx重获新生疯狂带飞！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-20fcc557bb79783efd14bdfe511ddb6e_1440w.jpg" data-rawwidth="1173" data-rawheight="923" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-cb1b47643598e69d30d0126f8d40807f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-20fcc557bb79783efd14bdfe511ddb6e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="qbXesP8K"><b>即使RNG的策略调整得很及时，从第二把开始wei把gank重心从上半区转移到下半区拯救了RNG</b>，线上<b>春之虎帝</b>稳定压制Gori，Gala依旧表现稳定，RNG拿下FPX赢得赛季首胜。</p><p data-pid="OQBSW-TD"><b>第一局</b></p><p data-pid="-YJu3BA2">对RNG来说，无论从德杯到这一把，wei一直是找不到主心骨的状态。他和Bin根本就没有配合，小明也想去中上游走起来，这就牺牲了GALA，要知道GALA一直是队伍大核的存在。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-cf0ea9a425adf36489d78572dfa0a39c_1440w.jpg" data-rawwidth="1150" data-rawheight="866" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-d40baf74fa6e635980febc4bcbeb50db_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-cf0ea9a425adf36489d78572dfa0a39c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="EoRWMkeB">bin在苏宁就是上野亲近率倒数，现在看来真不是Sofm的锅，RNG之前真的是个很团队的队伍，看起来bin就像一把双刃剑。</p><p data-pid="h9oFqo2D">如果你买bin又不保他，那真是白买了，因为他的开团肯定没有小虎强，他喜欢打线而非抱团，wei前期几乎住在上半区，小明也频繁游走。Gala前中期几乎就是单人单线玩，这把属于是自废Gala。</p><p data-pid="YqLbscIL">再看翔掌门，Lwx真是全队的绝对核心，FPX打得是真正的四保一，翔哥也是疯狂带飞，小凤凰思路相当明确，RNG非常迷茫。</p><p data-pid="lMoN3Cdu"><b>第二局</b></p><p data-pid="OjNdh-OK">FPX的问题也很明显，当FPX下路被按死，赢比赛的方法显得不多。Gori虽然很努力的再学中文，但还是很少看到他和上野的联动。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9a93c22f0006d9fab421df44f06e9dac_1440w.jpg" data-rawwidth="1333" data-rawheight="921" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-bf750aa2668c2a519905449287b9fc2d_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9a93c22f0006d9fab421df44f06e9dac_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="DP3haV2n">RNG这局调整的非常迅速，wei得到了教练组明确的指导，直接2级抓下，之后小虎也配合wei来下路击杀FPX下路双人组。</p><p data-pid="i8wjZukh">RNG通过前期进攻思路的调整抓住了FPX的命门，而小凤凰中上本来就没有什么联动，中路Gori也在和小虎的对位中处于弱势。</p><p data-pid="LnVNSxwk">Bin使用贾克斯单杀小老虎的格温，也许这一局就是RNG今后赢比赛的方式！让Bin自己玩，wei往下路靠，Gala拿到优势后也再次证明了自身价值。</p><p data-pid="z6dXuuHB"><b>第三局</b></p><p data-pid="scfy0f_H">Gori开局五分钟后已经在中路二塔处对线了，今天小虎完全压制了Gori，这个游戏中路玩不了打野就玩不了，beichuan的野区也被反烂了。</p><p data-pid="-5fcvWm6">但翔掌门在下路关键勾引带领FPX改变了比赛走势，上中下三路纷纷在游戏的中后期站了出来，Gori虽然数据难看但伤害真不低！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-0f7a108581dbfbd36ef7220166cd859d_1440w.jpg" data-rawwidth="1639" data-rawheight="923" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-1f83a99c36120785f23a6523cc4da744_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-0f7a108581dbfbd36ef7220166cd859d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="PB-uAbQr">其实小老虎今天的发挥并不比Bin差，他的对线和打团真没什么问题，beichuan关键时刻的心态和操作都很值得信赖，FPX最后也是在Gori飞机的爆炸伤害下2:1赢下RNG。最为关键的是，翔掌门作为绝对核心是这支FPX本赛季进军世界赛的底气！</p>  
+</div>
+            
