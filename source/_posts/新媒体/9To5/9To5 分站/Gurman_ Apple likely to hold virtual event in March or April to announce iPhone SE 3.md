@@ -14,10 +14,10 @@ thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Scr
 
 <div>   
 <img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Apple is reportedly already in the midst of planing its first event of 2022. According to a new report from <a href="https://www.bloomberg.com/account/newsletters/power-on"><em>Bloomberg’s </em>Mark Gurman</a>, Apple is currently planning to hold an event in March or April to announce a new iPhone SE model with 5G connectivity. </p>
+<p>Apple is reportedly already in the midst of planing its first event of 2022. According to a new report from <a href="https://www.bloomberg.com/account/newsletters/power-on"><em>Bloomberg’s </em>Mark </a><a href="https://www.bloomberg.com/news/newsletters/2022-01-09/apple-should-develop-checking-accounts-debit-card-stock-trading-tools-ky7mf6sf">Gurman</a>, Apple is currently planning to hold an event in March or April to announce a new iPhone SE model with 5G connectivity. </p>
 <p><span id="more-780028"></span>
 </p>
-<p>In the latest edition of his <a href="https://www.bloomberg.com/account/newsletters/power-on">Power On newsletter</a>, Gurman writes that Apple is likely to hold a virtual event in March or April, based on what he’s heard from sources: </p>
+<p>In the latest edition of his <a href="https://www.bloomberg.com/news/newsletters/2022-01-09/apple-should-develop-checking-accounts-debit-card-stock-trading-tools-ky7mf6sf">Power On newsletter</a>, Gurman writes that Apple is likely to hold a virtual event in March or April, based on what he’s heard from sources: </p>
 <blockquote class="wp-block-quote">
 <p><strong>Apple gets ready for its first virtual event of 2022. </strong>Apple’s first virtual event of 2022 is coming up in just a few short months and is likely to take place in either March or April, I’m told.</p>
 <p>What should we expect? Probably a new iPhone SE, at least. It was at the beginning of the Covid-19 pandemic in April 2020 that Apple ushered in the current iPhone SE. </p>
