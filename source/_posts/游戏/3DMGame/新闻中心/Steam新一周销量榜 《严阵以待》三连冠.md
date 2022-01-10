@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220110/1641744601_570391.jpg'
 author: 3DMGame
 comments: false
-date: Sun, 09 Jan 2022 16:10:00 GMT
+date: Sun, 09 Jan 2022 22:30:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220110/1641744601_570391.jpg'
 ---
 
@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220110/1641744601_5703
 Steam公开新一周（1月4日至1月9日）销量榜，《严阵以待》再次登顶榜首，获得三连冠。《双人成行》第二，和上周持平。《怪物猎人崛起》本周第三。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220110/1641744601_570391.jpg" alt="Steam新一周销量榜 《严阵以待》三连冠" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220110/1641744601_570391.jpg" alt="Steam新一周销量榜 《严阵以待》三连冠" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>榜单详情：</strong>
+<strong>榜单详情：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《严阵以待》

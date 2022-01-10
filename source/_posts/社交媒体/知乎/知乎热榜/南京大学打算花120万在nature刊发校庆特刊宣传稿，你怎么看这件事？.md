@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-6d9fc7fe22e1daaa30e82cf868b621a9_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8960'
 author: 知乎
 comments: false
-date: Sun, 09 Jan 2022 16:29:32 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-6d9fc7fe22e1daaa30e82cf868b621a9_1440w.jpg'
+date: Sun, 09 Jan 2022 18:31:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8960'
 ---
 
 <div>   
-Mannix的回答<br><br><p data-pid="lbiHa_iY">起哄的纯属是不懂行的群众，120W就能包一本Nature，这简直天地良心，国内哪个学校出不起120W？垃圾OA动不动一万一篇，国内中文核心版面费有得也要你几千，我校要是有人家这个觉悟用一百篇MDPI换本Nature校庆专刊，大家做梦都能笑醒。120W的特刊都是广告么？非也，举例来说：<a href="http://link.zhihu.com/?target=https%3A//onlinelibrary.wiley.com/toc/15214095/2020/32/3" class=" wrap external" target="_blank" rel="nofollow noreferrer">南开大学100周年校庆AM</a>，<a href="http://link.zhihu.com/?target=https%3A//www.nature.com/collections/gijfaiaacg" class=" wrap external" target="_blank" rel="nofollow noreferrer">厦门大学100周年校庆Nature</a>里面是有学术内容的，而且全是这个学校的成果，这也就是为什么大家都有120W，却不是哪个学校校庆都敢包顶刊特刊。120W你听着不少，在学术界能正经干点啥？中科院自动化所电镜600块钱一个小时，BET全孔分析500一个样品，120W只够2000小时电镜机时，或者2400个样品孔结构分析，南京大学一年招生4000研究生，南大文科是很强的，所以我们就算这里只有2000人是需要电镜的，全校只有研一新生做实验，这样算下来人均1小时电镜还不够培训的。120W能资助多少学生，说不好听的现在120W能把你家孩子从一线城市养大成人就不错了。国家自然科学基金工程与材料科学部面上项目平均资助强度60-80w，120W可能还不够两个老师的面上本子。<b>120W换到你澎湃新闻上只够打两天App轮播广告，澎湃新闻什么影响力Nature什么影响力？退一万步讲哪怕就算是纯广告，120W上Nature去打我都觉得值。</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-6d9fc7fe22e1daaa30e82cf868b621a9_1440w.jpg" data-caption data-size="normal" data-rawwidth="925" data-rawheight="255" data-default-watermark-src="https://pic4.zhimg.com/v2-7c150367503a3e4e5be1153d301131f5_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-6d9fc7fe22e1daaa30e82cf868b621a9_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+江湖夜雨的回答<br><br><p data-pid="amlMdEyo">120万不去世界顶尖学术期刊nature上宣传，难道去这些成天除了瞎带节奏啥也不会的媒体上宣传？</p><p data-pid="slmLtihH">花区区120万去世界级顶刊宣传120年来的科研成果，相当于一年才一万，效果好还便宜，这有啥问题？120万估计还不够明星买一天的热搜。</p><p data-pid="52gxCRy3">而且顶尖高校校庆在nature宣传，本来就是常见事。</p><p data-pid="N3nXxPpp">南京大学培养了270多位两院院士，6位"两弹一星"元勋和5位国家最高科技奖获得者，这些媒体怎么不多报道？</p><p data-pid="0XyGMMuq">南大去年发了多篇ns，怎么不多报道？</p><p data-pid="wETIUri3">去年，南大引进好几十位国际顶尖人才，怎么不多报道？</p><p data-pid="vbhcZ1c2">南大去年研发的羲和号卫星，对国家科技和战略贡献那么大，怎么不多报道？</p><p data-pid="FxujK2P-">花一个亿给学生改善宿舍，怎么不多报道？</p><p data-pid="NVGuWq5r">至少南大在钻研科研，培养人才，很多学科能在全世界排名前列。</p><p data-pid="FwD-tChs">真想请问某些媒体，你们做啥贡献了，能在全世界排第几？？？？</p><p data-pid="IxsmAgEh">天天就知道乱带节奏，挑拨是非。难怪坐拥十多亿观众，却在国际上毫无影响力。</p>  
 </div>
             
