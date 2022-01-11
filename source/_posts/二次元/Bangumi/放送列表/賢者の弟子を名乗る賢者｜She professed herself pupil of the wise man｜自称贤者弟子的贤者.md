@@ -13,6 +13,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/b3/5c
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/b3/5c/307378_8zr8d.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/307378">番组计划</a></li><li><a href="https://www.youtube.com/playlist?list=PLuxqoToY7UciuRQahW5-3aPLyMX4ouyc_">木棉花 HK</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/b3/5c/307378_8zr8d.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/307378">番组计划</a></li><li><a href="https://www.youtube.com/playlist?list=PLuxqoToY7UciuRQahW5-3aPLyMX4ouyc_">木棉花 HK</a></li><li><a href="https://www.bilibili.com/bangumi/media/md28235858/">哔哩哔哩</a></li></ul>  
 </div>
             

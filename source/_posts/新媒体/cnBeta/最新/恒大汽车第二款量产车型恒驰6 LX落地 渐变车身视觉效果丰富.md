@@ -1,0 +1,19 @@
+
+---
+title: '恒大汽车第二款量产车型恒驰6 LX落地 渐变车身视觉效果丰富'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0111/8ef4208dd23b4f7.jpg'
+author: cnBeta
+comments: false
+date: Tue, 11 Jan 2022 13:26:55 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0111/8ef4208dd23b4f7.jpg'
+---
+
+<div>   
+恒大汽车首款量产车型恒驰5已于去年底下线，比原定时间提前了12天，十多天后，<strong>第二款量产车型恒驰6 LX也被拍到</strong>。从曝光的图片，可以看到其采用了贯穿式尾灯，两侧灯组内部有较为复杂的花纹，视觉效果倒是丰富，但牌照框架的位置有点奇怪，而且就造型来说确实挺一般。<br>
+ <p><a href="https://img1.mydrivers.com/img/20220111/d91751a9a6f2476c9565273eecf4b817.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/8ef4208dd23b4f7.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/8ef4208dd23b4f7.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/8ef4208dd23b4f7.jpg" referrerpolicy="no-referrer"></a></p><p>此外，<strong>让人惊讶的当属这款车使用了渐变色的配色</strong>，车身左侧为红色，而从中间开始渐变为蓝色，风格十分独特，当然了，不排除这是工厂中产出的特殊版本，后续推向市场后应该会采用常规配色方案。</p><p>比较遗憾的是，此次拍到的恒驰6 LX只露出了尾部，所以实车前脸长什么样暂时依旧未知。</p><p>早在去年8月初，恒驰汽车一口气推出了6款车型，包括两款轿车、三款SUV和一款MPV，命名也是简单粗暴，直接是恒驰1-6。</p><p>具体来看，<strong>恒驰1为豪华D级车、恒驰2为B级车、恒驰3为大型SUV、恒驰4为大7座MPV、恒驰5为A级SUV、恒驰6为跨界SUV</strong>。</p><p><a href="https://img1.mydrivers.com/img/20220111/6adb4f6d441b484eb5216424d7039c8f.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0111/ec4cd0be5f58b6e.png" referrerpolicy="no-referrer"></a></p><p>这其中恒驰5的信息最为全面，它的尺寸为4725*1925*1688mm，轴距2780mm，<strong>定位于紧凑型纯电SUV，售价20万元之下，对标奥迪Q3、宝马X1等车型</strong>。</p><p>至于说此次曝光的恒驰6，更为细节的信息未知，从此前公布的官方图片来看，它将采用轿跑SUV的造型，拥有溜背设计，前脸样式十分独特，<strong>尤其是回旋镖一样的大灯尤为瞩目</strong>。</p><p><img src="https://static.cnbetacdn.com/article/2022/0111/e2b15e9e8ef329c.gif" referrerpolicy="no-referrer"></p><p>当然了，量产后能保留多少概念车的元素犹未可知，毕竟恒大造车，不确定的因素实在是太多了。</p>   
+</div>
+            
