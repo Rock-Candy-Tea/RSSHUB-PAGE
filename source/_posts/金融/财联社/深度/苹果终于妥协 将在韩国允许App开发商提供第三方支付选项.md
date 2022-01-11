@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=1600'
+headimg: 'https://picsum.photos/400/300?random=473'
 author: 财联社
 comments: false
 date: Tue, 11 Jan 2022 09:02:36 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1600'
+thumbnail: 'https://picsum.photos/400/300?random=473'
 ---
 
 <div>   
@@ -20,6 +20,6 @@ thumbnail: 'https://picsum.photos/400/300?random=1600'
 <p>苹果公司发言人表示，期待与KCC和开发商合作，探索一种有利于韩国用户的解决方案。</p>
 <p>凭借iPhone和iPad等移动设备庞大的装机量，苹果通过App Store收取的佣金收入为其带来了巨大利润。以游戏为例，根据此前苹果在与Epic Games的诉讼中披露的数据，苹果App Store于2019年获得了123亿美元的营业利润，其中游戏可让该公司一年赚到85亿美元。</p>
 <p>据估算，苹果在游戏领域赚的钱甚至超过了索尼、微软、任天堂以及动视暴雪四家公司在该领域利润的总和。</p>
-<p>近年来，各国反垄断机构纷纷加大了对科技公司的监管力度，苹果App Store未来的赚钱效率可能要降低了，除了韩国之外，美国、欧盟和日本等国家的监管机构均采取了措施来限制其App Store的支付规则。</p></div>  
+<p>近年来，各国反垄断机构纷纷加大了对科技公司的监管力度，苹果App Store未来的赚钱效率可能要降低了，除了韩国之外，美国、欧盟和日本等地的监管机构均采取了措施来限制其App Store的支付规则。</p></div>  
 </div>
             

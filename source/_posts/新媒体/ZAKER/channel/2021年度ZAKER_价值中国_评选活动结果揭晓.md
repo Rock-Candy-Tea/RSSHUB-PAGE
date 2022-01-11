@@ -1,0 +1,18 @@
+
+---
+title: '2021年度ZAKER_价值中国_评选活动结果揭晓'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6cf_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 11 Jan 2022 01:52:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6cf_1024.jpg'
+---
+
+<div>   
+<p>告别 2021，拥抱 2022，回首过去一年，谁是大家心中的最具影响力代表？1 月 11 日，" 价值中国 · 2021 ZAKER 影响力指数榜 " 评选活动结果正式揭晓，未来科技榜、风云汽车榜、魅力文娱榜三大热门领域评选结果公布。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6cf_1024.jpg" data-height="700" data-width="1242" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6cf_1024.jpg" referrerpolicy="no-referrer"></div></div>" 价值中国 · ZAKER 影响力指数榜 " 依托价值引领、成长性、创新活力、人气关注度等多维度视角，旨在挖掘过去一年千行百业的影响力代表，展望新的一年，鼓励每个企业和个人继续负重前行、努力奔跑。<p></p><p>ZAKER 已连续第四年成功举办 " 价值中国 · 2021 ZAKER 影响力指数榜 " 系列评选活动，吸引了数百万网友参与，并逐步获得行业的认可。今年评选活动聚焦科技、汽车、文娱等热门领域，通过候选提名、大众投票、媒体评审等环节，进行公开、公平、公正的综合评定。</p><p>回顾过往，展望未来，" 价值中国 · 2021 ZAKER 影响力指数榜 " 最终揭晓，感谢 2021 每个人负重前行，期待 2022 年步履不停、再创新高。</p><p><strong>附获奖名单：</strong></p><p><strong>未来科技榜</strong></p><p>年度最受欢迎折叠屏手机：三星 Galaxy Z Flip 3</p><p>年度最受年轻人喜爱的手机品牌：真我 realme</p><p>年度影像旗舰手机：苹果 iPhone 13 Pro 系列</p><p>年度最佳新品 TWS 耳机：苹果 AirPods（第三代）</p><p>年度最佳手游外设产品：北通 G3 手游手柄</p><p>年度最具创新性智能家居产品：石头自清洁扫拖机器人 G10</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6d0_1024.jpg" data-height="931" data-width="382" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6d0_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>风云汽车榜</strong><p></p><p>年度科技价值奖：东风日产 e-POWER</p><p>年度平台 / 架构价值奖：上汽 SIGMA</p><p>年度品牌价值奖：坦克 SUV</p><p>年度车型价值奖：比亚迪宋 PLUS DM-i</p><p>年度营销价值奖：广汽传祺</p><p>年度公益价值奖：沃尔沃</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202201/61dce48e8e9f0959c012d6d1_1024.jpg" data-height="931" data-width="382" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dce48e8e9f0959c012d6d1_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>魅力文娱榜</strong><p></p><p>年度热门综艺：披荆斩棘的哥哥</p><p>年度热剧：觉醒年代</p><p>年度口碑电影：长津湖</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6d2_1024.jpg" data-height="931" data-width="382" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61dce48e8e9f0959c012d6d2_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>标杆企业榜</strong><p></p><p><strong></strong>最具探索精神企业奖：拼多多</p><p>最具社会使命感企业奖：碧桂园</p><p>最具韧性企业奖：万达集团</p><p>最佳 5G 技术普及贡献奖：高通公司</p><p>最受信赖计算基础设施企业奖：浪潮信息</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202201/61dd53378e9f094241646f34_1024.jpg" data-height="1694" data-width="750" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61dd53378e9f094241646f34_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
