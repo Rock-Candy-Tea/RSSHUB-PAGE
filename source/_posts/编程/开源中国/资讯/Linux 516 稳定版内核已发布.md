@@ -19,7 +19,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0111/072446_wyQ9_54306
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">外媒 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.phoronix.com%2Fscan.php%3Fpage%3Dnews_item%26px%3DLinux-5.16-Released" target="_blank">Phoronix</a> 对此版本进行了一些统计，运行 cloc 时，Linux  5.16 的大小为：</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><img alt height="594" src="https://static.oschina.net/uploads/space/2022/0111/072446_wyQ9_5430600.jpg" width="700" referrerpolicy="no-referrer"></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">目前 Linux  5.16 大约有 2250 万行源代码，另有 380 万行注释和另外 400 万行空白行，分布在 63.5k 个文件中。当前 Linux 的 Git 树总共大约有 3040 万行。</p> 
-<p style="color:#000000; margin-left:0; margin-right:0; text-align:start"> Linux 5.17 合并窗口已打开，包含更多有趣的新特性，不过 据 报导，Linus Torvalds 在邮件中透露自己将在 Linux 5.17 合并窗口期间出门进行家庭旅游： “我会在路上用笔记本电脑做大部分事情，不过旅行期间的主要问题是我会更多地依赖基于云的自动化构建测试”，因此 Linux 5.17 相关版本的发版时间还有待商榷。</p>
+<p style="color:#000000; margin-left:0; margin-right:0; text-align:start"> Linux 5.17 合并窗口已打开，包含更多有趣的新特性，不过 Linus Torvalds 在邮件中透露自己将在 Linux 5.17 合并窗口期间出门进行家庭旅游： “我会在路上用笔记本电脑做大部分事情，不过旅行期间的主要问题是我会更多地依赖基于云的自动化构建测试”，因此 Linux 5.17 相关版本的发版时间还有待商榷。</p>
                                         </div>
                                       
 </div>
