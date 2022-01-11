@@ -1,0 +1,20 @@
+
+---
+title: '粉丝将Duel Sense手柄改成_单手手柄_ 一个人也能玩《双人成行》'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0111/46022191dcbef29.jpg'
+author: cnBeta
+comments: false
+date: Tue, 11 Jan 2022 04:06:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0111/46022191dcbef29.jpg'
+---
+
+<div>   
+近日，一位油管博主将PS5 Duel
+Sense游戏手柄改装成“单手手柄”，并录下用单手手柄游玩《如龙0》、《火箭联盟》等游戏的视频，此外这位油管博主甚至使用这套设备自己一个人游玩合作游戏《双人成行》，据悉这款装置是其通过3D打印机制作出来的，博主还大方将3D建模文件分享在视频下方，感兴趣的玩家可以<a href="https://www.prusaprinters.org/prints/110609-one-handed-dualsense/files" target="_blank">点击此处</a>进入下载页面。<br>
+ <p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/46022191dcbef29.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/46022191dcbef29.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/46022191dcbef29.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>原视频：</strong></p><p style="text-align: left;"><iframe src="https://player.youku.com/embed/XNTIwMzM5NTY0NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;"><strong>视频截图：</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/bbdc9cf503c8c63.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/bbdc9cf503c8c63.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/bbdc9cf503c8c63.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/f837104e36d4766.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/f837104e36d4766.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/f837104e36d4766.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/fac7a1c4ffa8c2f.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/fac7a1c4ffa8c2f.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/fac7a1c4ffa8c2f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/251b71405560c24.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/251b71405560c24.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/251b71405560c24.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/215d25fd9379aaa.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/215d25fd9379aaa.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/215d25fd9379aaa.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/a32f7a2efdfa8d4.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/a32f7a2efdfa8d4.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/a32f7a2efdfa8d4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/ad5fc0b54b7caa7.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/ad5fc0b54b7caa7.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/ad5fc0b54b7caa7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0111/7b25ce2944c59ad.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0111/7b25ce2944c59ad.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0111/7b25ce2944c59ad.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
