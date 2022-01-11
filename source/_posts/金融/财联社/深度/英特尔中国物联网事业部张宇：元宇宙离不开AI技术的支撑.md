@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=2669'
+headimg: 'https://img.cls.cn/images/20220111/A7Dr67xHkW.jpg'
 author: 财联社
 comments: false
 date: Tue, 11 Jan 2022 10:16:34 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2669'
+thumbnail: 'https://img.cls.cn/images/20220111/A7Dr67xHkW.jpg'
 ---
 
 <div>   
@@ -18,6 +18,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2669'
 <p>当下，AIoT正被广泛应用于汽车、零售、金融、交通等各行各业，包括目前热炒的元宇宙也离不开AIoT技术的支撑，被称为是“连接实体与虚拟世界的桥梁”。</p>
 <p>中金公司预计，2022年人工智能与物联网的结合有望全面落地助力智慧城市、智能工厂、智能交通、智慧矿山等有望加速落地，推动ICT新基建规模落地。 但在这一轮AIoT的繁荣浪潮背后，对于其发展前景的质疑声也不绝于耳。尤其是在AI产业化方面，依然存在诸多瓶颈。</p>
 <p>近日，英特尔物联网视频事业部全球首席技术官、物联网事业部中国区首席技术官张宇博士接受《科创板日报》采访，畅谈了对AIoT以及人工智能发展的思考。</p>
+<p><img src="https://img.cls.cn/images/20220111/A7Dr67xHkW.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>张宇认为，人工智能与物联网的结合需要经过三个阶段，<strong>AIoT发展暂时还处于第一阶段，只有当机器能根据人类的需要，进行自主学习，才能实现真正的AIoT。</strong></p>
 <p>在他看来，<strong>AI是一种技术，但从最终用户的角度来看，能够体验到的是服务</strong>。所有的服务都不是依靠单一的技术来支撑的，而是一系列技术的结合，以及一系列平台的支撑。 </p>
 <p>对于AIoT的应用场景，他认为2B与2C存在区别，2B对准确度的要求很高，所使用的参数会更多。<strong>在2B方面，AI在智能制造领域应用前景广泛，一方面帮助企业提高生产效率，另一方面也为碳中和、碳达峰在做相应的贡献。</strong></p>
