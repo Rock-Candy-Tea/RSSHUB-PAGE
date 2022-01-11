@@ -1,0 +1,149 @@
+
+---
+title: '直播APP东渡记：对决日本财团，俘获日本宅男'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220111/v2_923aed4c9c014af8925faf999b164b62_img_000'
+author: 36kr
+comments: false
+date: Tue, 11 Jan 2022 04:30:21 GMT
+thumbnail: 'https://img.36krcdn.com/20220111/v2_923aed4c9c014af8925faf999b164b62_img_000'
+---
+
+<div>   
+<p><strong>过去一年里，越来越多的中国App走入国际视野。从电商到社交，从手游到网文，各行各业在“出海”中迎来高光时刻。然而受到新冠疫情、地缘政治等黑天鹅事件影响，中国企业的出海之路也走得颇为曲折。 </strong></p> 
+<p><strong>乘风破浪之后，中国企业如何逆流而上，从“新”出发？2022年伊始，澎湃号·湃客财经栏目特约优质创作者推出《破浪之后》专题，从多个维度记录中国企业出海新征程。 </strong></p> 
+<p><strong>文本为该系列第三篇，我们关注东渡日本的直播行业。 </strong></p> 
+<p>几年前，如果去问中国的互联网出海公司：最难进的市场是哪里？答案一定是日本。因为有着独特的生态和强烈的文化排他性，极少有外来产品能够在此生存。</p> 
+<p>但面对这个市场规模全球第三的庞大市场，中国的互联网出海公司始终没有放弃。</p> 
+<p>2020年，中国手游在日本的收入同比激增81%，日本正式超越美国，成为中国手游在海外收入最高的市场，一群出海人近十年的不懈努力终于有了结果。</p> 
+<p>而在另一个赛道上，也有一批吸金能力极强的中国APP，正在日本悄悄长大——直播。这是另一群“固执”的玩家啃下一个“难啃”的市场的故事。</p> 
+<h2 label="一级标题" style><strong>蛋糕变大</strong></h2> 
+<p><strong>和游戏一样，直播平台出海日本，起初并不顺利。</strong></p> 
+<p>以2017年进入日本的Bigo Live与UpLive为例，App Annie数据显示：Bigo Live在日本的收入从2017年到2019年初一直表现平淡，后来才开始表现出较强的增长趋势；UpLive则在2018年短暂地爆发过，随后又回落低谷，直到2020年重新表现出增长势头。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_923aed4c9c014af8925faf999b164b62_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：App Annie</p> 
+<p>日本市场为什么难进？《白鲸出海》曾分析过三点原因：1、市场准入门槛和本土化要求更高；2、平台的内容专业化程度更高，没有当地演艺资源的开发者无法进入；3、流量成本贵。 </p> 
+<p><strong>这几个问题确实存在。但另一个不能忽视的原因是，几年前，直播在日本还没有那么吃香。</strong></p> 
+<p>不同于文化保守、娱乐方式受限、年轻人口又众多的中东，日本本就是一个线下娱乐非常发达的市场。同时，日本社会的老龄化问题众所周知，2020年，当地65岁以上人口占比高达28.9%，人口结构进一步限制了线上社交娱乐的市场空间。</p> 
+<p>而日本的游戏产业又极其发达，占据了大部分用户的线上娱乐时间。调查显示，2010年至2019年，日本游戏市场呈现连续10年的快速增长。2019年市场规模达到1兆7330亿日元（约950亿人民币），相比2010年实现翻倍，游戏用户总数达到4793万人，占日本总人口的近40%。</p> 
+<p><strong>所以，最终留给直播社交的，只是非常有限的一小块蛋糕。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_630d693e3ba14bb99cb64751eeacd5b3_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：ファミ通ゲーム白書2020調査</p> 
+<p><strong>但疫情的到来改变了这种情况。</strong></p> 
+<p>首先是对线下娱乐文化产业的冲击。根据当地机构发布的一份调查报告，2020年2月至2021年1月，日本的音乐、戏剧、电影、体育等五类娱乐产业的市场规模，相较2019年的1兆1400亿日元（约630亿人民币）大幅缩水至2800亿日元（约150亿人民币），锐减了3/4。</p> 
+<p>民众不得不在家中度过更长时间，游戏、动漫之外，用户需要更加多元的线上娱乐方式。根据日本2020年4月的一份调查，受疫情影响，日本民众花在各种娱乐项目上的时间发生了巨大变化。近40%的受访者表示，观看蓝光电影、网络直播等所花的时间有所增加。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_3fa4b164f98a4d66ba418be132576442_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：ファミ通ゲーム白書2020調査</p> 
+<p><strong>用户需求激增的同时，主播群体也在快速扩大。</strong></p> 
+<p>二战之后，尤其是20世纪以来，日本社会的终身雇佣制度衰落明显，经济发展速度减慢，收入水平和稳定性均有下降，这样的环境催生出了日本的“零工经济”，越来越多日本人开始用<a class="project-link" data-id="127339" data-name="打零工" data-logo="https://img.36krcdn.com/20210808/v2_9dc4841087af41f4aaa5520b7085c5d1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/127339" target="_blank">打零工</a>、兼职的方式赚取收入，尤其以女性、年轻群体为主。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_c531dbba0c514f1eb260aecacf24c274_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：Garbagenews，蓝色曲线表示日本兼职、打零工人数变化</p> 
+<p>而疫情的到来，使得大量餐厅、便利店、商店等打工场所缩短了营业时间或被迫关闭。日本劳动力调查显示，2020年，日本兼职、打零工的人数相比2019年大幅减少46万。 </p> 
+<p><strong>于是，“直播”成为了许多日本“打工人”的新选择。</strong>直播平台趁机加大了招募主播的宣传，人们发现这是一个进入门槛很低的赚钱渠道，只需要一部手机，一些能够成为直播主题的才艺、技能，甚至只要一把好嗓子或者高情商的说话技巧，就可以坐在家中获得收益。</p> 
+<p>2020年，日本的主播数量迎来井喷。根据日媒报道，17LIVE在日本的签约主播数量由2019年的17000名大幅上升至2020年的32000名，一年间近乎翻倍，尤其是疫情最为严重的2~4月，其签约主播数量翻了10倍左右。</p> 
+<p><strong>行业规模也随之快速增长。</strong>据日本当地机构发布的数据，2020年，日本直播市场规模约为140亿日元；2021年预计翻倍，达到314亿日元；未来几年预计保持高速增长，2024年达到984亿日元（约54亿人民币）。可以看到，虽然目前整体的规模不算大，但增速十分可观。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_5da86c2e443b4a4e93f007ff61b6fcaf_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：CyberZ、OEN、デジタルインファクト調べ</p> 
+<p>App Annie数据显示，2021年12月，<strong>日本Google Play社交应用畅销榜Top30中，有11款是直播APP</strong>，Top10中直播APP更是占据了7席。这一比例甚至超过了直播出海的黄金市场中东。 </p> 
+<h2 label="一级标题" style><strong>分蛋糕的人</strong></h2> 
+<p>毫无疑问，这两年蛋糕在变大。不过在这个过程中，哪些中国玩家分到了蛋糕？</p> 
+<p>出海日本的直播行业从业者张凯（化名）介绍，目前日本的头部直播平台主要分成三大梯队。本土平台Pococha Live、中国台湾的17LIVE处在第一梯队，月流水能够达到上千万美金。其他中国产品中，Bigo Live处于第二梯队，Dokidoki Live、MICO、UpLive等处在第三梯队。</p> 
+<p>从上文提到的Top 30畅销排行榜中也可以看到，来自中国的产品包括17LIVE、Bigo Live、Dokidoki Live、MICO，Top 40中还有UpLive。</p> 
+<p>可以看到，与<strong>go global（从国内做到海外）</strong>的中国游戏不同，打入日本的中国直播社交APP，是一批<strong>born global（天生全球化）</strong>的玩家，而且有着强烈的<strong>global（全球本土化）</strong>属性。</p> 
+<p>比如Dokidoki Live的母公司音娱时光，自成立起就瞄准了日本市场，先后推出Dokidoki Live、Pokekara等直播、在线K歌产品，如今已经在日本站稳脚跟。根据App Annie，Pokekara在2021年12月的日本音乐类APP收入榜上排名第3，已超越YouTube Music等产品。</p> 
+<p>再如Bigo Live，虽然其所属的欢聚集团起家于国内市场，但BIGO自一开始就是独立的海外项目，由独立的出海团队打造。而且，欢聚已经卖掉了国内的<a class="project-link" data-id="3969147" data-name="虎牙" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969147" target="_blank">虎牙</a>、YY等业务，一心扑在海外市场，如今在直播出海赛道上已稳坐第一把交椅。</p> 
+<p>此外，MICO背后的<a class="project-link" data-id="48932" data-name="赤子城" data-logo="https://img.36krcdn.com/20210807/v2_30dc3f61753345d4afbf74bf4f8bf588_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/48932" target="_blank">赤子城</a>科技更是名副其实的born global玩家。这家公司2013年就开始出海，除了MICO还有Yumy、YoHo等社交APP。MICO也是一款社交产品，以直播为主要场景，此前主打中东、东南亚等市场，2020年末才正式进入日本，但上升势头很猛。</p> 
+<p>在App Annie发布的2021年11月中国非游戏厂商出海收入榜单中，欢聚集团位列第2，赤子城科技位列第4，可以看出这两家公司在全球的吸金能力。</p> 
+<p><strong>不过，即便是最擅长全球化的产品，在日本也遇到了新的挑战。</strong></p> 
+<p>“日本市场在全球范围内都是非常独特的，很封闭、很难被改变。”MICO日本市场的运营负责人Summer对「霞光社」表示。</p> 
+<p>他提到，MICO在做全球其他市场时，发现许多地区的用户很容易被教育，产品在一些市场的设计风格也会逐渐趋同。“比如欧美这几年推崇简约风，我们用简约的设计去迭代MICO的界面，再推到东南亚市场，当地用户的接受度是比较高的。但这种情况在日本很难发生。”</p> 
+<p>Summer说，“你如果看一看现在日本的直播APP，会有时光倒流的感觉。用户喜欢的依然是之前那种有色彩亮眼的贴图、贴纸的风格。就像日本的综艺节目一样，多少年过去了，字幕、转场的风格还是和以前一样。”</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_cea2a4fc5b40474498b463547f8aef6d_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：近期日本某综艺节目</p> 
+<p><strong>2017年，中国直播APP初入日本失利，大多是因为本土化做得不到位，没有越过当地的文化高墙。</strong></p> 
+<p>当时，17LIVE可以说是唯一成功的产品。它在2017年引入日本资本IVP，并在日本开设分公司、任命小野裕史为CEO，随后很快搭建了一支完善的本地团队。2018年6月，17LIVE拿下日本直播市占率第一。</p> 
+<p>但其他几家，不管在产品设计还是运营上，最初都不够适应这个市场，也没能打动当地用户。</p> 
+<p>资料显示，Bigo Live自2017年开始在日本投放广告，2018年请了日本著名主持人、歌手<a class="project-link" data-id="210228" data-name="田村" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/210228" target="_blank">田村</a>淳以及搞笑艺人永井佑一郎、大谷雅惠等众多明星入驻，并持续大手笔买量，但在收入总榜上的成绩依然距离17LIVE较远，无法撼动其地位。</p> 
+<p><strong>如今，包括欢聚集团、音娱时光、赤子城在内的几个主要玩家，都已在日本当地建立了前方办公室，借助真正熟悉当地的日本人打开市场。</strong></p> 
+<p>一方面，本地员工在产品、运营活动的设计方面必然能够给出更准确的建议。更重要的是，日本的合作方对外国人的警惕性通常很高，在与主播、公会、企业等合作的过程中，如果由本地员工去沟通、谈判，他们则很容易卸下防备，有利于合作的顺<a class="project-link" data-id="1120212" data-name="利推" data-logo="https://img.36krcdn.com/20220109/v2_93747c4aa17146bfa1ebb9e7617a82dd_img_000" data-refer-type="1" href="https://p.36kr.com/space/3838012115?mp=zzquote" target="_blank">利推</a>进。</p> 
+<p>谈到日本市场的独特，Summer还举了一个很小的例子。“日本人非常喜欢萌物、吉祥物这类形象，本土的很多APP都有相关的IP和周边。MICO刚进入市场时就推出了吉祥物Cocoちゃん，围绕这个形象设计了布偶、水杯、口罩这些周边，现在在主播和用户中很受欢迎，”他说，“但在做其他市场时，这些并不是必要的。”</p> 
+<p>在Bigo Live的Twitter官方账号上也可以看到，随着其进入日本市场时间越来越长，围绕产品吉祥物GOちゃん的海报、活动数量也在不断增加。2021年2月，Bigo Live与三丽鸥举办了卡通形象联动活动，推出GOちゃん与Hello Kitty等结合的卡通布偶等周边。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_5eb5dbbdf57847c7b6453803a1855ab1_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：Bigo Live Japan官方Twitter </p> 
+<p><strong>已知市场很难被改变，厂商们转而选择被市场改变，去适应这个环境。</strong></p> 
+<p>放下在全球其他市场积累的经验和成绩之后，中国公司开始重新看待这个独特的市场。他们用完全本地化的视角去经营，组建本地团队、更聪明地取悦用户、砸钱建立品牌认知……终于挤进了这个市场。</p> 
+<h2 label="一级标题" style>‍‍‍‍<strong> 新的较量</strong></h2> 
+<p>以目前的市场格局来看，日本的本土平台依然强势。而且，随着市场规模快速增长，难免有更多“眼红”的人进场，新的竞争和碰撞不可避免。</p> 
+<p>不过，中国公司对于接下来分到更多蛋糕普遍充满信心。封闭、固执、难以改变，日本社会的这些特点，曾经给中国的出海产品带来了很多麻烦；不过，这些特点也是日本企业普遍的弊病，为中国产品的后来居上提供了机会。</p> 
+<p><strong>中国厂商正在利用中国互联网行业灵活的架构、机制、运营策略，打破日本本土产品的垄断。</strong></p> 
+<p>在主播资源的争夺上，这种情况格外明显。</p> 
+<p>「霞光社」采访了另一家直播出海平台的业务负责人Jacky（化名），他对直播平台的核心竞争力有坚定的看法。他说：“直播平台的核心是主播。主播是内容的生产者，和端内社交关系的圆心，这在全球各个市场都是一样的。”</p> 
+<p>而在日本市场，对主播的争夺更为关键。他认为，近年中企出海日本最抢眼的领域是手游，但游戏可以理解为“打包好”的一种商品，生产环节由厂商牢牢把控，只要以强大的研发能力做出优质的作品，在日本这种成熟市场上，存在“酒香不怕巷子深”的成功概率。</p> 
+<p>直播则不同。直播的内容生产可以理解为“部分外包”，进入陌生市场时，要依附于当地的创作者群体或某些垂类行业。所以，相较于游戏，直播更需要本土化能力，需要与当地主播和行业深度链接、融合。换句话说，平台不仅要搭建端内的<a class="project-link" data-id="28851" data-name="关系网" data-logo="https://img.36krcdn.com/20210806/v2_018629e4b9fc4440aaf0f1c911685853_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28851" target="_blank">关系网</a>，线下的网络更加重要。</p> 
+<p>“很难想象把一个直播APP扔在日区应用商店，然后烧钱买量就能成功，况且日区买量成本也是不低的。”Jacky说。</p> 
+<p><strong>就是在主播这个核心资源的竞争方面，中国企业赢过了僵化、死板的本土公司。</strong></p> 
+<p>日本最大的直播平台之一Pococha Live，背后公司为DeNA——一家日本著名的网络服务集团，其最主要的业务为游戏研发发行，手握《灌篮高手》、《足球小将》等多个知名IP。</p> 
+<p>在DeNA的荫蔽下，Pococha Live从游戏直播开始，逐渐向娱<a class="project-link" data-id="137752" data-name="乐直播" data-logo="https://img.36krcdn.com/20220109/v2_54a5f149088b454db2949fb53bd9ccdb_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4691700122?mp=zzquote" target="_blank">乐直播</a>扩张，流量和资金的支持使其快速成长为头部平台。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_7f22af4b1cf741259bc4ff91314da625_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：Pococha Live官网 </p> 
+<p>然而大公司的背景，似乎让Pococha Live无法兼顾太多主播的需求。 </p> 
+<p>据了解，Pococha Live对旗下签约主播实施严格且统一的管控制度。例如，主播在平台的月直播时长需要在200小时以上，才能够赚到不错的收入，平均下来每天至少要直播6小时，只有全职主播才能达到。同时，对于没有粉丝基础的素人主播，Pococha Live没有任何扶持，流量会明显偏向那些已经在YouTube、Instagram等平台上积累了一定粉丝量的红人。</p> 
+<p>DeNA集团的主营业务和直播还算有些关联，还有其他的一些日本大财团，看到直播赛道火热后“顺手”入局，此前并没有相关的业务基因。</p> 
+<p>他们本能地以经纪公司运营艺人的方式运营主播，但实际上，很多想要成为主播的人看中的是直播行业的灵活性，并不想被经纪公司的运营规则牵制，被迫把太多时间花在直播上。</p> 
+<p><strong>这种思维僵化、自以为是的“财团病”在日本非常常见。</strong>“而中国公司，在不同市场的运营策略和方式都非常灵活，面对快速变化的市场能够及时做出反应。”Summer说。</p> 
+<p>他以MICO在日本的主播运营政策举例：</p> 
+<p>首先，MICO对主播的月播时长要求很低，月播30小时以上就可以拿到平台发放的基本工资，对主播的生活是一种保障，若主播生病或有其他事情也可以请假。有时，主播月播时长稍有不足，但粉丝增长数据表现好，平台也会灵活地酌情发放工资，鼓励他们继续播下去。</p> 
+<p>同时，MICO并不禁止旗下主播到其他直播APP上开播。这在有些平台是被严格限制的，有的甚至会对转移平台的主播收取高额罚款。</p> 
+<p>更重要的是，MICO对于没有任何粉丝基础的素人主播，会给予多方面的扶持。比如邀请前辈主播开展培训，通过banner等方式帮助新人主播宣传，给予一定的流量扶持等，对于素人主播的接纳度非常高。</p> 
+<p><strong>这一系列人性化的规则让他们培养了一批忠于自己平台的优质主播。</strong></p> 
+<p>Summer讲述了一个小故事。去年9月，一位叫做なむじゅう的主播来到MICO，她曾是Instagram的小网红，拥有一万多粉丝。成为主播一个月后，なむじゅう借口生病请假休息，一段时间后又回到MICO。</p> 
+<p>她向Summer诚恳说明，自己请假的那段时间去了一个更大的直播平台，但当她有任何需求时都无法联系到平台的运营人员，平台也不会给新人主播任何流量倾斜。开播的那段时间，她既没有观众，更拿不到什么收入。なむじゅう选择回到MICO后，MICO依然接纳了她，后来这位主播在MICO彻底安顿下来。</p> 
+<p><strong>不仅如此，为了吸引主播，中国公司采用了更多本土平台从未试过的玩法，比如“造星”。</strong></p> 
+<p>受到疫情的影响，很多立志成为偶像、从事艺人活动的年轻人失去了舞台，直播APP成为他们重新回到公众视野的一种方式。这一类才艺突出的主播，能够在直播APP的各类运营活动中斩获很好的名次，作为奖励，平台会为他们提供线下曝光、甚至定制作品的机会。</p> 
+<p>打开Bigo Live的Twitter，很容易找到各种为主播提供的线下互动、展示机会。与日本杂志《GLITTER》合作的摄影及采访、新宿街头楼宇大屏上头部主播的广告视频、年末BIGO LIVE JAPAN 2021 CEREMONY线下主播颁奖礼等，让想要拥有更高人气的主播们趋之若鹜。</p> 
+<p>MICO也是如此，去年10月，他们与大阪市政厅联合举办了“点亮大阪”活动，4位平台主播为在场和通过直播观看活动的民众带来表演；MICO还和日本手表品牌BRILLAMICO等展开合作，旗下主播成为了形象代言人。当然，这些主播都是平台各类活动的优胜者。</p> 
+<p>Summer介绍了一位叫haruno的主播，她此前曾在其他平台直播，后来，身为钢琴演奏者和歌手的她，得知MICO举办了名为Star Project的系列活动，获胜者可以在日本知名音乐人YANAGIMAN的协助下制作专属歌曲并推出唱片，于是转而签约MICO。后来她如愿在Star Project活动中获胜，发行了个人第一张单曲，“点亮大阪”的舞台上也有她的身影。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_c8e81cf6c5ed4cf197fc0fce4f807a94_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：受访者供图</p> 
+<p><strong>不得不说，这种做法非常聪明，不仅可以吸引主播，也与用户的喜好不谋而合，并且可以高效打通资源。</strong></p> 
+<p>日本的偶像产业一向发达，民众喜欢这种偶像养成的感觉，乐意为自己支持的主播花钱应援。而平台要做的，就是提供各种渠道，来加强主播与用户之间的联系，特别是线下面对面的交流机会。而且，在这一过程中，自然会有品牌看中平台和主播的流量，参与合作，这样一来，就以平台为中心编织出更加紧密的网络。</p> 
+<p>一个很有意思的现象是，日本品牌和中国公司的合作意向正在不断增强。</p> 
+<p>Summer说，他们并不避讳自己中国公司的身份，很多品牌其实被中国的巨大市场吸引，希望通过和中国公司合作，将触角延伸至中国。他也确实曾将一个日本消费品牌介绍给了国内一家MCN公司。“但沟通的过程还是需要交给日本员工负责。”他补充道。</p> 
+<p><strong>更灵活、更接地气的方式，更谦和、更人性化的服务，以及更创新、更多元的玩法，让中国直播APP在各种资源的积累，尤其是主播资源的争夺上占到了便宜。</strong></p> 
+<p>显然，在克服了最初的“水土不服”后，中国公司已经在与本土平台的新较量中找到了关键点。</p> 
+<h2 label="一级标题" style><strong>下一站</strong></h2> 
+<p>历时四年多，中国平台在日本市场完成了初步的拓荒，那么下一站呢？</p> 
+<p>2021年11月，Google、Roland Berger、大观资本联合发布了《2021移动应用全球化指南》，将直播社交归类为“云社交”赛道，定义为“以线上消磨时间为主要目的的陌生人社交”。而日韩市场为“云社交”的<strong>高用户支出规模区域，头部集中度低。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_58679a9020da4f00a059598b554bd454_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：Google、Roland Berger、大观资本《2021移动应用全球化指南》</p> 
+<p>张凯也表示，日本的直播赛道目前仍然处在比较初期的阶段，表现出平台分散、大主播和大R用户少的特点。 </p> 
+<p>这自然意味着机会，意味着市场竞争尚未达到非常激烈的程度。</p> 
+<p>一方面，这与赛道爆发时间较短有关，无论是用户还是主播，仍有较大增量可以争夺。另一方面，在平台引导或用户推动之下，各平台中，主播与用户共同建立的社区、<a class="project-link" data-id="224096" data-name="圈子" data-logo="https://img.36krcdn.com/20210809/v2_43526951c0104829ab0a8e61c39a07af_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/224096" target="_blank">圈子</a>会产生差异化属性，所以不少平台都有自己的独特受众群。</p> 
+<p>可以预想，这种情况下，符合属性的用户会因找到归属感而留下，不符合的则会离开，平台属性则会进一步<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>巩固、加强。最终，成功的平台都能够找到自己的独特定位，建立<a class="project-link" data-id="4263750" data-name="壁垒" data-logo="https://img.36krcdn.com/20210716/v2_63cfc02f48d341b99c257491f917fc19_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4226801031" target="_blank">壁垒</a>。</p> 
+<p><strong>但这个过程一定是漫长的。</strong></p> 
+<p>Dokidoki Live母公司音娱时光的产品副总裁李旭明曾表示，日本是一个让人既爱又恨的市场。出海日本的产品很难在短时间内实现爆发，只能通过长期、稳定的运营，逐渐在用户心中建立品牌认知度。但同时，一旦在这里站稳脚跟，进入门槛高、成长周期长的市场特点，也会使新玩家很难在短期内对自己造成威胁。</p> 
+<p>在接受新事物较慢的日本，互联网行业和产品的发展曲线也被拉长，直播也是一样。</p> 
+<p>Summer也有类似的看法，他认为，<strong>日本的直播赛道，多梯队的分布还将持续下去，群雄争霸的格局短期内不会改变。</strong></p> 
+<p>不过，新的变量可能很快就要出现了。</p> 
+<p>2020年末，TikTok曾试图在日本市场推进直播布局，然而此后这个计划就被搁置了。有分析认为，TikTok之所以放弃，是因为在日本尚未将短视频向直播切换的模式跑通。通常，短视频产品能够满足用户的碎片化娱乐需求，而对于直播，用户至少要一次性观看30分钟以上才会有比较完整的娱乐体验。</p> 
+<p>而最近，有消息称<a class="project-link" data-id="99343" data-name="字节跳动" data-logo="https://img.36krcdn.com/20210807/v2_c27ddd0fa41d4e56bb84411f886f75c4_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/99343" target="_blank">字节跳动</a>将在2022年重启日本直播计划，而承载这一计划的有可能是Buzz Video这个应用。</p> 
+<p>上一波由疫情催化的行业规模增长，使Bigo Live、UpLive等探索日本多年的产品迎来春天，MICO等新入局者也借着东风快速长大。字节的入局，是否会给行业带来新的变化？</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_729a1c8cc55a42aa80852c4cb4472032_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图源：Bigo Live 官方服务网站，Bigo Live上的日本主播</p> 
+<p>答案似乎是肯定的。其庞大的体量，教育市场、催化行业上下游的能力，必然会推动直播社交在当地产生更大影响力，创造更大的市场空间。 </p> 
+<p>虽然Buzz Video将无差别地对赛道上现有产品造成冲击，但在“慢工出细活”的日本，先行一步、已建立本地化团队的平台，也并非可以轻易撼动。而且，面对可能到来的变化，相比日本当地财团，更加灵活的中国企业大概率会应对得更好。</p> 
+<p>“如果字节入局，可能是冲击，也可能是又一次契机。”张凯对「霞光社」表示。</p> 
+<p><strong>而且，随着市场规模和用户体量的扩大，娱乐直播可能衍生出新的机会，比如直播带货。</strong></p> 
+<p>公开数据显示，日本的互联网渗透率高达90%以上，然而至2020年，其线上零售额只占全国零售总额的约10%，数年来日本电商渗透率年增速均为个位数，人口老龄化成为阻碍其发展的一个主要因素。</p> 
+<p>而一份由SG ENTERTAINMENT协助取材的调查发现，日本年轻的直播产品使用者和主播群体，对于直播带货已经具有较高的接受度。该调查总结道，“主播和粉丝之间能够建立比较紧密的信赖关系，粉丝对于主播推荐的商品会自然产生信任感。”</p> 
+<p>当然，直播带货在日本仍然处于非常初期的形态。目前，对于主播推荐的商品，用户通常需要跳转到其他购物平台搜索购买，整个流程远未完善。同时，日本也没有诞生如同李佳琦等专门与品牌进行合作推广的专职带货主播。</p> 
+<p>此外，直播带货的前提，在于可观的流量池，目前日本显然还不具备这<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>件。</p> 
+<p>不过，随着用户规模的快速增长，直播带货的发展条件正在逐步形成。再加上善于此道的字节跳动有望在2022开拔日本，未来可能会对当地直播带货行业的成型有不错的助推作用。</p> 
+<p>可以确定的是，下一站，中国的直播社交玩家将在日本市场扮演更加重要的角色。</p> 
+<p class="image-wrapper">本文为<a class="project-link" data-id="3968629" data-name="澎湃" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968629" target="_blank">澎湃</a>号·湃客财经 X 霞光社联合出品</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=Mzg3MDU1MDY1NQ==&mid=2247511164&idx=1&sn=17aaed48ff8412d5378eb2276ac5dbff&chksm=ce8ef16cf9f9787ae08a91723882b3c2006708c191f9b8db816f9c2b7dcf2bfa49d26b77770b#rd">“霞光社”（ID：Globalinsights）</a>，作者：千里，系列策划：丁珏汭，36氪经授权发布。</p>  
+</div>
+            
