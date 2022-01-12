@@ -1,0 +1,18 @@
+
+---
+title: '量子纠缠buff加持，雷达精度提高500倍，论文已登物理顶刊'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d2_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 12 Jan 2022 02:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d2_1024.jpg'
+---
+
+<div>   
+<p>" 量子纠缠雷达 "，听起来是不是像民科？</p><p>其实这可是物理学家正经研究的黑科技，还发表在了物理学顶刊 PRL（物理评论快报）上。</p><p>论文里说，这种雷达的精度可达普通雷达的<strong>500 倍</strong>。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61de808db15ec04c932874d2_1024.jpg" data-height="1080" data-width="1920" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d2_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△</strong>图注：雷达概念图<p></p><p>等一下，量子纠缠和雷达，这俩是怎么凑到一块去的？</p><p>简单来说就是，量子纠缠可以弥补传统雷达信号衰减太快的缺点。</p><p>传统雷达在发射信号和接收信号这两个过程中，信号强度都随距离的二次方衰减。</p><p>合在一起就导致雷达信号随距离的四次方衰减，也就是说，如果想把接收信号强度增强两倍，需要把辐射强度提高 16 倍！</p><p>这种程度的衰减是什么概念呢？我们来看一组数据就知道了：</p><p>假如一个信号发射器功率为 1kW，加上增益为 10 的天线，去探测 5 公里外一个 1 平米的物体时，收到的反射信号只有几纳瓦。</p><p>而像我们平时用的手机，在满格信号的时候都有 0.1W 的辐射功率，是上述例子中接收到信号强度的一亿倍。</p><p>于是，为了拯救这种程度的衰减，研究人员开始想办法：方向无非是两种，要么增强辐射，要么优化接收。</p><p>如果选前者，实在太不划算，根据雷达信号的四次方衰减，要想把接收信号强度增强两倍，需要把辐射强度提高 16 倍。</p><p>因此，研究人员把目光放在接收的过程上。</p><p>这时候，量子纠缠登场了。</p><p>量子纠缠如何提高精度</p><p>量子纠缠是量子力学中独有的一种现象，指的是微观粒子在一些物理性质上会有关联，天生就是配对的。</p><p>举个栗子，有一副正常的手套分装在两个盒子里，一定会有一只左手和一只右手。当确定其中一个的时候，另一个也随之确定，无论这两个盒子距离有多远。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202201/61de808db15ec04c932874d3_1024.jpg" data-height="521" data-width="926" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d3_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△</strong>图注：量子纠缠想象图<p></p><p>像这样有某种暗戳戳的联系的两个微观粒子就处于纠缠态。</p><p>于是，研究人员想：如果我们生成一些相互纠缠的光子，然后只发射一半，等到信号被反射回来时，再用剩下的一半做对比。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61de808db15ec04c932874d4_1024.jpg" data-height="549" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d4_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△</strong>图注：aS 和 aI 相互纠缠，一个用于发射，一个用于检测<p></p><p>无论信号怎么衰减，这些孪生光子都可以轻松配对，岂不是可以大大提高雷达精度？</p><p>计算结果也确实如其所料。</p><p>Quntao Zhuang 和 Jeffrey 推导出，量子雷达的均方距离延迟精度要比传统的雷达高几十个分贝。</p><p>除了理论推理，研究人员还用无人机来实际检测了一下量子雷达精度。在 100m 远处检测无人机的情境下，量子雷达比传统雷达的精度高了 60 倍。</p><p>两者的对比可以直观得从下图中看出，其中横轴代表信噪比，纵轴代表均方距离延迟精度（越低越好），红线为量子雷达的表现：</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202201/61de808db15ec04c932874d5_1024.jpg" data-height="918" data-width="1510" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de808db15ec04c932874d5_1024.jpg" referrerpolicy="no-referrer"></div></div>从图中大体可以看出，量子雷达在全部信噪比区间都比传统雷达要好。<p></p><p>在信噪比较高（达到 15-20 分贝）时，量子雷达（红线）比传统雷达（蓝线和青线）有小幅精确度优势。</p><p>在较低信噪比情况下优势更为明显，例如信噪比在 5-10 分贝之间时，量子雷达的精度大约是传统雷达的 500 倍。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
