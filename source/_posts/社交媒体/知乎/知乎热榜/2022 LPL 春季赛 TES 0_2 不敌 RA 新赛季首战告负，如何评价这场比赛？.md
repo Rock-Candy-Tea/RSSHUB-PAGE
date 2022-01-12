@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg'
+headimg: 'https://pic4.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg'
 author: 知乎
 comments: false
 date: Wed, 12 Jan 2022 11:04:36 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg'
+thumbnail: 'https://pic4.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg'
 ---
 
 <div>   
-战斗海豹兽的回答<br><br><p data-pid="YGvF9vGQ">“明年寄了”</p><p data-pid="GDDFcbhL">“那就开摆”</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg" data-caption data-size="normal" data-rawwidth="667" data-rawheight="711" data-default-watermark-src="https://pic3.zhimg.com/v2-7821f374aa7c582db60bb864ac4c3e0b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+战斗海豹兽的回答<br><br><p data-pid="YGvF9vGQ">“明年寄了”</p><p data-pid="GDDFcbhL">“那就开摆”</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_1440w.jpg" data-caption data-size="normal" data-rawwidth="667" data-rawheight="711" data-default-watermark-src="https://pic3.zhimg.com/v2-7821f374aa7c582db60bb864ac4c3e0b_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b90a20ec76437cc742ccdf5ad1e42ac9_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
