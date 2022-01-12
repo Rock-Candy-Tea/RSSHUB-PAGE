@@ -5,15 +5,15 @@ categories:
  - 博客
  - Google Sites
  - 文章更新
-headimg: 'https://picsum.photos/400/300?random=280'
+headimg: 'https://picsum.photos/400/300?random=3109'
 author: Google Sites
 comments: false
-date: Wed, 12 Jan 2022 04:09:11 GMT
-thumbnail: 'https://picsum.photos/400/300?random=280'
+date: Wed, 12 Jan 2022 05:09:23 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3109'
 ---
 
 <div>   
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div>功能：輸入已知資料，然後程式會自動為你計算餘下一項。</div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Unemployment Rate</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz4g4HRj75AANRK_SVK1hNC7GkDfmufYNnekQc1K-nh7r6ihIQ/exec?mid=ACjPJvEqHegyyf-QtNOM_T2FPSTqxPUw8jN_bHlXtXUhV0KeHubzillg-bpltw-6gUGFd1Cfy2qzUEU6dTHEzlgiqmBF1bIvyCtFbv6ZgmZNC7fG3N5amUz5VS975lYEPlQhIdwUSVo4WwPaz_Ej0WE&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Unemployment Rate" width="100%" height="250" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_60731912"></iframe></div></div></div></div><div><br></div><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div><br></div></td></tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div>功能：輸入已知資料，然後程式會自動為你計算餘下一項。</div><div><div class="sites-embed-align-left-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h4 class="sites-embed-title">Unemployment Rate</h4><div class="sites-embed-content sites-embed-type-maestro"><iframe src="https://sites.google.com/macros/s/AKfycbz4g4HRj75AANRK_SVK1hNC7GkDfmufYNnekQc1K-nh7r6ihIQ/exec?mid=ACjPJvGIIPq67vn6fd2zl2gNrsO6VICcN5GYEGnRou6QWQKab-uREYhKH-DnWucwyhViKpmIJGSPxTRqsE0_bQoRMTFS_-psbtlO8-kFu5zg0YgFEa8dqYY3NaZ-2ntDS4nMvDtN8ib5S3G15Z41fgU&bc=transparent&f=Arial,+Verdana,+sans-serif&tc=%23444444&lc=%230033cc" title="Unemployment Rate" width="100%" height="250" frameborder="0" scrolling="no" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox" id="maestro_frame_2080604421"></iframe></div></div></div></div><div><br></div><div><b style="font-size:13.3333px"><font size="4"><span style="font-size:13.3333px;font-weight:normal">若有任何錯誤或建議，歡迎電郵至<a href="mailto:outliers.hk@gmail.com" target="_blank">outliers.hk@gmail.com</a>反映。</span></font></b></div><br></div></td></tr></tbody></table>
   
 </div>
             
