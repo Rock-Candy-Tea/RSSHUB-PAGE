@@ -1,0 +1,18 @@
+
+---
+title: '售价近 5 万元，Noble 推出限量耳机 VIKING：大马士革钢_10单元'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fd_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 11 Jan 2022 20:31:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fd_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 1 月 12 日消息，国外耳机品牌 Noble Audio 于 1 月 11 日推出了世界首款大马士革钢外壳耳机：VIKING（维京）。将新品命名为 " 维京 "，寓意着该品牌在拓展高保真的声音领域，勇于开拓冒险的维京精神。</p><p>这款耳机搭载动圈 + 动铁 + 静电混合单元，售价高达 49680 元人民币，全球限量 100 副，国内限量约 10 副。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fd_1024.jpg" data-height="618" data-width="865" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fd_1024.jpg" referrerpolicy="no-referrer"></div></div>大马士革钢最早出现公元 900 年的叙利亚地区，使用两种不同材质的钢材反复折叠锻打，形成不同的花纹。VIKING 耳机采用 150 层锻锤纹的大马士革钢，外观设计及制造均由国际珠宝大师 Chris Ploof 团队负责，仅仅是大马士革钢外壳的制作，就需要横跨 3 个国家，执行 9 道生产工序。<p></p><p>通过反复锤炼，令大马士革钢的密度及硬度远超一般钢材，达到洛氏硬度 HRC60 标准。官方表示，这种外壳使得耳机的声学表现十分优异：控制谐振的能力更加强，近乎零共振；音染更少，三频还原度更加精准。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fe_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b6fe_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202201/61de414b8e9f09777d48b6ff_1024.jpg" data-height="742" data-width="866" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61de414b8e9f09777d48b6ff_1024.jpg" referrerpolicy="no-referrer"></div></div>音频方面，耳机单边内置 10 颗发声单元，采用四分频设计：<p></p><p>2 × 定制 10mm 动圈单元（低频）</p><p>2 × Knowles 动铁单元（中频）</p><p>2 × Knowles 动铁单元（高频）</p><p>4 × 静电超高音单元（超高频）</p><p>这种设计可以同时保证丰满、有深度的低音，以及通透的高音。此外，耳机内部使用纯银线作为连接线。</p><p>IT 之家了解到，Noble Audio VIKING 耳机标配八股耳机线：MAGNUS。耳机的分线器以及固定部分同样使用了大马士革钢材质打造。</p><p>这款耳机线运用石墨烯、单晶纯银、铜银合金组合而成的 1064 条线芯编织，经过特别的组合调配，线材内部有着复杂的几何布局。耳机线的单晶银采用 6N 纯度、Litz 结构，线径 22AWG，配备日本 Pentaconn 4.4mm 平衡插头。此外，耳机本体采用可换线设计，具有 0.78mm 插头。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b700_1024.jpg" data-height="608" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61de414b8e9f09777d48b700_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，VIKING 耳机阻抗 17Ω，灵敏度 112dB，频响范围 20Hz~20kHz，比较容易推。以下为详细参数：<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202201/61de414b8e9f09777d48b701_1024.jpg" data-height="840" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61de414b8e9f09777d48b701_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
