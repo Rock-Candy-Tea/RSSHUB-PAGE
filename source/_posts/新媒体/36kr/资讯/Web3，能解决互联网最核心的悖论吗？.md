@@ -1,0 +1,45 @@
+
+---
+title: 'Web3，能解决互联网最核心的悖论吗？'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220111/v2_70c68d49151d4a00a86bf3abe9b27e58_img_000'
+author: 36kr
+comments: false
+date: Wed, 12 Jan 2022 07:25:12 GMT
+thumbnail: 'https://img.36krcdn.com/20220111/v2_70c68d49151d4a00a86bf3abe9b27e58_img_000'
+---
+
+<div>   
+<p>2022 开年，加密货币因为美联储加息疑云，市场掉头向下，比特币直跌至 4 万美元大关。虽然币价下跌，但是热闹了一年的 NFT 市场依然火爆，火到周杰伦也推出了相关 NFT 并遭到热抢。</p> 
+<p>当广场舞大妈都在问 NFT、DAO 是什么时，已经证明区块<a class="project-link" data-id="640053" data-name="链行" data-logo="https://img.36krcdn.com/20210814/v2_9f2be23b411a488791f5535d3efc558e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/640053" target="_blank">链行</a>业有多出圈了。不过，当从业者打着 Web 3 旗号去推进去中心化发展的时候，也有人发现，事情其实有些不太对劲。</p> 
+<p>国外网友 Moxie 通过在全球最火的 NFT 交易平台 OpenSea 上的一个小小实验，发现目前触达人数最广的一些 Web 3 应用，其实本身几乎没有使用加密技术，更重要的是，这些应用非常依赖几家中心化的区块链基建公司——标榜去中心化的 Web 3 背后，一个中心化危机的阴影逐渐浮现出来。</p> 
+<h2 label="一级标题" style><strong>01 </strong><strong style="letter-spacing: 0px;">Web 3 应用，</strong><strong style="letter-spacing: 0px;">不太「去中心」</strong></h2> 
+<p>NFT 到底是什么，虽然加密行业爱好者经常戏称「买了一堆 JPG」，但实际上这些图片/视频内容并不会真正以代码形式存储在链上——那成本可太高了。几乎所有 NFT 都含有一个 URL 链接，后者将指定到展示的内容。</p> 
+<p>Moxie 发现，在知名 NFT 平台上，以数百万、甚至千万美元出售的 NFT 艺术品，其背后能够指定到内容的链接，居然没有用到加密技术，而是指向了某些虚拟机。这意味着，未来任何人只要买到或者侵入了这个虚拟机，就可以修改这个 NFT 指向的图像、名字、描述等信息。因为 NFT 的参数并没有说明这个图片是什么，或者「正确」的图片是什么。</p> 
+<p>由于虚拟机可以根据不同的 IP 和代理，来展示不同的图像，所以，Moxie 做了这样一个关于 NFT 的实验：在知名 NFT 交易平台 OpenSea 和 Rarible 上上传了看起来很艺术的图片，而当用户购买后，在自己的加密货币钱包里，看到的却是一个「便便」emoji 图片。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_70c68d49151d4a00a86bf3abe9b27e58_img_000" referrerpolicy="no-referrer"></p> 
+<p>（从左至右）Moxie 的 NFT 在 OpenSea、Rarible 和加密钱包中展现的图像</p> 
+<p>有意思的来了，Moxie 的作品上架不久后，OpenSea 就以「违反规定」将其下架，即便仔细浏览了这个 NFT 交易网站的所有规则，也并没有<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>说不可以让 NFT 的显示根据 IP 变化。</p> 
+<p>如果单单是指责 OpenSea「店大欺客」，那 Moxie 的这篇文章意义就不大了，毕竟在整个加密圈 OpenSea 因为接受传统机构投资、不发空投而被人们冷嘲热讽为「披着 Web 3 外衣的 Web 2」。</p> 
+<p>真正耐人寻味的是，当 OpenSea 下架 Moxie 的作品后，他发现在自己的加密钱包 MetaMask 中自己的 NFT 作品也消失了。但这是不应该的，因为 Moxie 的 NFT 作品是已经被「mint」（铸造，即登记到以太坊网络中）到以太坊的网络中的，而后者是不能消除的。</p> 
+<p>相比 OpenSea 的错误，MetaMask 中 NFT 的消失，能更好地揭示目前 Web 3 行业的一个深层问题，即标榜去中心化的 dApp（区块链应用），其实并没有能力和区块链进行直接关联，反而使用的是几家大型区块链「基建」公司的 API。</p> 
+<p>以 MetaMask 加密钱包为例，虽然它可以展示你的加密货币余额、兑换加密货币以及充值、展示用户拥有的 NFT 作品，而这些行为其实都是通过区块链大公司的 API 完成的：交易纪录调用的是以太坊地址查询网站 EtherScan 的 API、账户余额调用的是 Infura 的 API、而 NFT 展示使用的则是 OpenSea 的 API。</p> 
+<p>究其原因，是因为像 MetaMask 这样全球用户超 8000 万的超级 dApp，由于通常使用在手机和网页浏览器中，其本身并不是区块链的节点，不能和区块链直接发生关联，只能通过大公司的 API 间接展示用户在链上的信息，不是不想，而是单纯的不能。所以，当 OpenSea 下架 NFT 作品后，由于 API 查询反馈<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>的回复是「否」，所以加密钱包就默认没有该 NFT。</p> 
+<p>这就出现了文中吊诡的一幕，你明明知道自己的资产就在链上，但是最常见的加密货币客户端却无法显示其存在。这就像你知道自己有一封邮件，但是 Gmail 客户端就是不显示，<strong>那么，这封邮件还存在吗？</strong></p> 
+<h2 label="一级标题" style><strong>02 </strong><strong style="letter-spacing: 0px;">平台和协议的永恒悖论</strong></h2> 
+<p>Moxie 的文章没有仅仅停留在「讽刺」dApp 的层面，相反，他认为 MetaMask 或者其代表的 Web 3 的问题，其实是一个贯穿互联网发展史的悖论——一个技术协议要想最大程度被人们使用，必然会导致中心化平台的出现，因为只有后者通过不断迭代，将产品做到简单易用，才能让更多人用到。</p> 
+<p>平台技术和产品的迭代速度，永远遥遥领先于协议。电子邮件是一个最好的例子，当电子邮件协议出现后，仅有少<a class="project-link" data-id="2191" data-name="数极客" data-logo="https://img.36krcdn.com/20220109/v2_825242df7dc3417f92a4def91c61997b_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4895201032?mp=zzquote" target="_blank">数极客</a>会搭建自己的服务器和邮箱地址，更多人其实用的是雅虎以及后来的 Gmail 邮箱。因为即便已经非常简单了，但人们依然不会也不想自己搭建服务器，使用门户网站的邮箱简单且免费，何乐不为？最终的结果就是门户网站的崛起。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220111/v2_ffb49307204447b994099fb26f77384a_img_000" referrerpolicy="no-referrer"></p> 
+<p>MetaMask加密钱包已经有 8000 万用户，是当人不让的Web 3入口</p> 
+<p>代表了区块链的 Web 3 概念也是一样，你当然可以使用一台 PC 成为以太坊的节点（目前对普通用户来说确实不容易了），也可以通过以太坊官方钱包来进行转账操作，但除了硬核区块<a class="project-link" data-id="68700" data-name="链爱" data-logo="https://img.36krcdn.com/20210807/v2_00509d2558f3449c85e4ae0feb455956_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/68700" target="_blank">链爱</a>好者，更多普通用户显然会选择像大公司 Coinbase、OpenSea 和 MetaMask 的产品。而这些公司的崛起，恰恰形成了新的中心。</p> 
+<p>Moxie 的文章在推特被疯传，在区块链领域也引起了极大反响。以太坊创始人 Vitalik（V 神）也发文回应 Moxie 的「质疑」。Vitalik 首先承认，Moxie 所说的流行的「中心化」区块链应用，其本身甚至没有用到加密技术，而底层的区块链离普通人太远。</p> 
+<p>V 神认为造成这种现象的原因，主要因为行业人士太想做出些应用，能让更多人用起来。而在这个过程中，中心化是最快的路径。</p> 
+<p>Vitalik 认为，Web 3 现在还早期阶段，在未来 Web 3 从中心化（平台）到去中心化（私人服务器）的光谱其中的空白将会被填补上。</p> 
+<p>不过 Vitalik 的发言，其实并不能完全回答 Moxie 的疑问，因为比特币已经诞生超过 10 年的时间，而以太坊出现已经超过 6 年。另外，更因为是在早期，<strong>以中心化的形式来推广去中心化，这确实是一个合理的方式吗</strong>，这是否会让用户接受的是一个「中心化」的去中心化现实，毕竟大部分人可能从头到尾使用的都是这些中心化的 dApp，而不去探究去中心化的底层技术和思想。</p> 
+<p>在 NFT、DAO（去中心化自治组织）大热的当下，Moxie 的小小「实验」和质疑可能只是加密行业大起大落中的一个小小现象。不过，当人们高举 Web 3 大旗去宣传去中心化技术的时候，还是应该反思，是否概念先行，而实际行为其实无法匹配其最终目标，因为平台领先于协议的发展悖论仍然很难解决，对于在快速发展期的区块链行业尤其如此。</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652941959&idx=1&sn=c796ca7b4f70d0eae9cb383adad87f90&chksm=7e55d33149225a27ff20635758db7a6102051f112d60eeee06e078b0ba03f3324ccf5a6f0887#rd">“极客公园”（ID：geekpark）</a>，作者：靖宇，36氪经授权发布。</p>  
+</div>
+            
