@@ -1,0 +1,19 @@
+
+---
+title: '智同科技参评_维科杯·OFweek 2021中国机器人行业年度优秀产品奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641931752199002876.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 11 Jan 2022 20:07:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641931752199002876.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2021中国<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>行业年度评选(简称OFweek Robot Awards 2021)，是由中国高科技行业门户OFweek维科网及旗下权威的机器人专业媒体-OFweek维科网·机器人共同举办。此次活动旨在为机器人行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想机器人行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯· OFweek 2021中国机器人行业年度评选“OFweek Robot Awards 2021”将于2022年1月11日－29日为网络投票阶段，颁奖典礼将于4月20日在深圳举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。<strong>北京智同精密传动科技有限责任公司已正式参评“维科杯·OFweek 2021中国机器人行业年度优秀产品奖”。</strong></p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯·OFweek 2021中国机器人行业年度优秀产品奖</p><p style="text-indent: 2em; text-align: left;">产品名称：CRV<span class="hrefStyle"><a href="http://robot.ofweek.com/IND-8321218-jiansuji.html" target="_blank" title="减速机">减速机</a></span></p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641931752199002876.png" title="1641931752199002876.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>参评理由：</strong></p><p style="text-indent: 2em; text-align: left;">减速器开发重点涉及三个方面，CRV减速机原理的研究、核心零件制造工艺的开发、材料和热处理技术的研究。CRV减速机原理的研究通常是不被企业所掌握的，也是智同区别于其它企业最大的地方。原理的研究，涉及理论模型的建立、数学方法的运用，力学知识及计算机科学等技术，最后得到最为科学的设计图纸。这部分主要技术来源于北京工业大学。</p><p style="text-indent: 2em; text-align: left;">公司采用正向设计方法，全面掌握CRV高精密摆线减速机的设计原理，建立减速机力学模型、独有摆线齿轮修形技术保证减速机设计合理、运动平稳、磨损小；在制造工艺技术方面，公司为保证核心零部件加工，设计了专用工装，优化了精密零件的加工工艺，保证加工精度的同时还能提高效率；原材料热处理采用合作开发的热处理专用设备，解决热处理不稳定和变形等问题，提高了零件的寿命。</p><p style="text-indent: 2em; text-align: left;">公司推出量产CRV系列高精密减速机以来，经过广大客户严格测试，获得了客户的一致认可，目前公司加速生产，未来将实现更高产能，为智能制造、机器人企业提供可靠保证。</p><p style="text-indent: 2em; text-align: left;">智同减速机的量产大幅度提升我国的机器人关节减速机的设计、制造水平，为<span class="hrefStyle"><a href="https://robot.ofweek.com/CAT-8321202-GYJQR.html" target="_blank" title="工业机器人">工业机器人</a></span>领域提供更多高精度、高可靠性和高性价比的精密关节减速机。完全可实现高精密减速机进口替代，解决长期困扰工业机器人关节减速机设计、制造的卡脖子难题，对国家发展智能制造，替代进口，加强关键核心基础部件发展具有重要现实意义。</p><p style="text-indent: 2em; text-align: left;">展品技术水平及指标：</p><p style="text-indent: 2em; text-align: left;">产品重复定位精度、寿命、刚度等技术指标，已到达国际先进水平。</p><p style="text-indent: 2em; text-align: left;">产品精度、寿命、噪音等技术指标实现分别为：传动误差＜1'，回差＜1'，额定载荷下传动效率＞80%，噪声＜70分贝；平均寿命＞6000h，达到国外产品的技术水平。并且公司已获得ISO9001质量管理体系认证。</p><p style="text-indent: 2em; text-align: left;">知识产权情况：</p><p style="text-indent: 2em; text-align: left;">已获得发明专利、实用新型专利、国际专利二十余个和多个计算机软件著作权。</p><p style="text-indent: 2em; text-align: left;"><strong>企业介绍：</strong></p><p style="text-indent: 2em; text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-01/12/weining/1641931718043031387.png" title="智同科技参评“维科杯·OFweek 2021中国机器人行业年度优秀产品奖”" alt="智同科技参评“维科杯·OFweek 2021中国机器人行业年度优秀产品奖”" referrerpolicy="no-referrer"></strong></p><p style="text-indent: 2em; text-align: left;">智同科技成立于2015年，位于北京经济技术开发区，是高精密减速机产品研发试制中心，亦是国家高新技术企业。我司自主、正向研发的工业机器人用高精密摆线减速机，广泛应用于各类工业机器人、精密机床、工程装备等领域。公司以强大的定制开发能力不断拓展产品应用边界，逐步实现精密传动全场景客户覆盖。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届“OFweek Robot Awards 2021”活动将于2022年1月11日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2021/robot/vote.html</p> 
+  
+</div>
+            
