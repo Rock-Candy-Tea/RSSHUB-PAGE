@@ -19,17 +19,17 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220112/1641947209_7966
 X|S，截止到目前，出货量已经超过了1200万台。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947209_796642.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947209_796642.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Ahamd还说在供应链短缺的情况下，微软的双SKU策略已经奏效，Xbox Series S产量的增加让更多Xbox 
 Series主机上架，如果微软只推出Xbox Series X，那么情况可能不会太乐观。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947218_375202.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947218_375202.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-对此，有推主发表了回复，称自己四天之前就已经预测Xbox Series X|S的销量超过了1000万：
+对此，有推主发表了回复，称自己四天之前就已经预测Xbox Series X|S的销量超过了1100万：
 </p>
 <p style="text-indent:2em;">
 PS5:1667万5800台
@@ -38,7 +38,7 @@ PS5:1667万5800台
 Xbox Series X|S：1100万918台
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947226_439210.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947226_439210.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Spencer还在采访中表示，Xbox Series X|S和索尼PS5之所以这么难买到，并不是因为“供货太少”，而是因为“需求太多”。
@@ -51,7 +51,7 @@ Spencer还指出，从首发到现在这个时间点，他们卖出的Xbox Serie
 X|S比以往任何Xbox主机都要多，所以他们的工作就是保证供应量满足玩家的需求。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947233_796149.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220112/1641947233_796149.jpg" alt="分析师：Xbox Series X|S目前销量超过了1200万台" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
