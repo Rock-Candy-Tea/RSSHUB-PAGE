@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20220113/1642042678_281089.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220113/1642045503_877179.jpg'
 author: 3DMGame
 comments: false
 date: Thu, 13 Jan 2022 03:01:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220113/1642042678_281089.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220113/1642045503_877179.jpg'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220113/1642042678_2810
 漫威电影宇宙破天荒最烂口碑超级英雄电影《永恒族》现已正式登陆迪士尼Plus流媒体，而且是IMAX版，片长2小时36分钟，本片已于2021年11月5日在美国上映。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642042678_281089.jpg" alt="漫威新片《永恒族》现已上线迪士尼Plus流媒体平台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642045503_877179.jpg" alt="漫威新片《永恒族》现已上线迪士尼Plus流媒体平台" referrerpolicy="no-referrer">
 </p>
 <p style="text-indent:2em;">
 《永恒族》是由美国漫威影业公司出品的动作奇幻片，由赵婷执导，理查德·麦登、安吉丽娜·朱莉、库梅尔·南贾尼、马东锡、萨尔玛·海耶克联合主演。本片讲述了百万年前，当时被称为“天神”的宇宙生物创造出拥有超能力的永恒族和异常族，两个族群一直互相争斗的故事。

@@ -1,0 +1,19 @@
+
+---
+title: '撼迅发布首款ITX RX 6500 XT：好久未见如此小巧的A卡'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0113/e307ff7d54404b9.png'
+author: cnBeta
+comments: false
+date: Thu, 13 Jan 2022 04:00:52 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0113/e307ff7d54404b9.png'
+---
+
+<div>   
+AMD日前官宣了新一代入门级显卡RX 6500 XT，各家非公版也在陆续登场，其中撼迅就带来了第一款ITX迷你版本。<strong>这也是目前已知唯一的一款迷你小卡RX 6500 XT。</strong><br>
+ <p><a href="https://img1.mydrivers.com/img/20220113/9ad225312f0d4d2080c2c10ac8bc6e3c.png" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/e307ff7d54404b9.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/e307ff7d54404b9.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/e307ff7d54404b9.png" referrerpolicy="no-referrer"></a></p><p>该卡就简单直接地叫做RX 6500 XT ITX，<strong>长度只有165mm，高度为125mm，厚度则是40mm，双插槽体积。</strong></p><p>它使用了<strong>单个90mm<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a></strong>，双滚珠轴承，寿命延长4倍，并支持<strong>智能启停</strong>，核心温度低于60℃自动停转。内部还有两条热管。</p><p>核心规格1024个流处理器，频率暂未公布，搭载64-bit 4GB GDDR6显存，等效频率18GHz，单个8针辅助供电(官方渲染图误为6针)，输出接口<strong>一个HDMI 2.1、一个DisplayPort 1.4。</strong></p><p>值得一提的是，RX 6500 XT的系统接口带宽限制为PCIe 4.0 x4，但考虑到其性能、带宽有限，影响倒也不会很明显。</p><p><strong>RX 6500 XT将在本月19日正式解禁上市</strong>，届时快科技也会给大家带来首发评测。</p><p><a href="https://img1.mydrivers.com/img/20220113/5c349d56bff34d7a899af46cc9e93644.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/d0ba6a3d9af6bdd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/d0ba6a3d9af6bdd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/d0ba6a3d9af6bdd.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220113/3d14d8d9da72458c9ff264c81abf46ce.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/f2f6041f11e0382.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/f2f6041f11e0382.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/f2f6041f11e0382.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220113/0a8da3880ed64783b042c16105cb2cbc.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/d078fef5c8de0ed.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/d078fef5c8de0ed.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/d078fef5c8de0ed.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220113/5995835b147a4f43a66d22845ac83a06.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/7ab75c4491eb2e8.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/7ab75c4491eb2e8.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/7ab75c4491eb2e8.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220113/5fdcd5ee840e45ba85a53ba59d8e0786.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/eaffb75b5c2e7eb.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/eaffb75b5c2e7eb.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/eaffb75b5c2e7eb.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220113/c70f9584c06b41e6af8b03b643191e30.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0113/f5a77579b98b6b8.png"><img data-original="https://static.cnbetacdn.com/article/2022/0113/f5a77579b98b6b8.png" src="https://static.cnbetacdn.com/thumb/article/2022/0113/f5a77579b98b6b8.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
