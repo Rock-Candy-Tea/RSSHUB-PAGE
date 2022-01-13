@@ -17,6 +17,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220113/1642051898_9023
 关于爱情与<a target="_blank" href="https://www.3dmgame.com/tag/zhanzheng_1/">战争</a>的游戏《战争与玫瑰》原计划于11月推出，后来不断推迟发售日期。今日(1月13日)《战争与玫瑰》官方宣布已通过Steam审核，游戏将于1月21日发售，首发价49元，支持中文。官方还发布新演示，展示了游戏画面和要素等，一起来看看视频吧！
 </p>
 <p style="text-indent:2em;">
+<strong><span style="color:#E56600;font-size:16px;">Steam商店地址：<a href="https://store.steampowered.com/app/1786200/_/" target="_blank"><strong><span style="color:#337FE5;"><u>点击进入</u></span></strong></a></span></strong> 
+</p>
+<p style="text-indent:2em;">
 <strong>演示视频：</strong> 
 </p>
 <p style="text-align:center;">
@@ -46,9 +49,6 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220113/1642051898_9023
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220113/1642051900_984209.jpg" alt="《战争与玫瑰》Steam版1月21日发售 约会美女特工" referrerpolicy="no-referrer"> 
-</p>
-<p style="text-indent:2em;">
- 
 </p>          
 </div>
             
