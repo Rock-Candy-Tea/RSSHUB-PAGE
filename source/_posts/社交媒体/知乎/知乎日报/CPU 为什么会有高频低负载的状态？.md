@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-01-13 05:12:08
-thumbnail: 'https://pic2.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162'
+date: 2022-01-13 06:11:39
+thumbnail: 'https://pic1.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-86ea4b8b7df16d9c219613abc03b1ee5_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">老狼，</span><span class="bio">UEFI固件、服务器、嵌入式产品(公众号:UEFIblog)</span>
 <a href="https://www.zhihu.com/question/305248464/answer/556858281" class="originUrl" hidden>查看知乎原文</a>
 </strong>
