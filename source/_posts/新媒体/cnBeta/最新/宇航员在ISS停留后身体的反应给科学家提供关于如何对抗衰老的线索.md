@@ -1,0 +1,19 @@
+
+---
+title: '宇航员在ISS停留后身体的反应给科学家提供关于如何对抗衰老的线索'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0113/abbd291f0339155.jpg'
+author: cnBeta
+comments: false
+date: Thu, 13 Jan 2022 01:53:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0113/abbd291f0339155.jpg'
+---
+
+<div>   
+随着年龄的增长，我们身体的各项机能都会有所下降，在太空中更是如此。<strong>欧空局宇航员Matthias Maurer在国际空间站停留了不到两个月后身体的反应给了欧洲科学家关于如何对抗地球上衰老的不利影响的线索。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0113/abbd291f0339155.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0113/abbd291f0339155.jpg" alt="Matthias-Maurer-in-Cupola-777x339.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">视力和听力下降</p><p style="text-align: left;">大约70%的宇航员在太空中长期停留期间经历了视神经的变化，这种现象被称为太空相关神经眼部综合症 (SANS) 。这种视力病变也被认为是在未来的火星任务期间对人类健康的第二大风险。</p><p style="text-align: left;">Matthias、NASA宇航员Thomas Marshburn和 Raja Chari 参与了视网膜诊断实验。一个夹在平板电脑后面的特殊目镜使宇航员能够记录他们眼睛的图像，并将它们发送到地球。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0113/0d9ab545efdd71d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0113/0d9ab545efdd71d.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些图像将被用来训练一个人工智能模型，该模型可以检测眼部变化并自动给出诊断。该设备不仅能帮助探索深空的宇航员，还能促进我们星球上的可持续医疗保健。</p><p style="text-align: left;">国际空间站远不是一个安静的地方。嘎吱嘎吱的声音、嗡嗡作响的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>和与地面控制中心的不断会议，是Matthias太空生活中的一部分声音。声学诊断实验研究了空间站中的背景噪音对宇航员听力的影响。</p><p style="text-align: left;">虚弱的肌肉</p><p style="text-align: left;">Matthias的肌肉在轨道上变弱，就像人们变老时一样。他正在帮助地球上的一个医学科学家小组确定肌肉质量是如何损失的，以及如何防止它。</p><p style="text-align: left;">在圣诞节前收到来自SpaceX龙飞船的新的科学运送后，Matthias在库比克迷你实验室内对合成肌肉细胞进行了分类，这些细胞只有一粒米大小。这些细胞中的一部分将被电刺激以触发失重状态下的收缩，而另一部分将通过离心作用体验人工重力。</p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=318086146&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: left;">MicroAge项目的研究人员将监测该组织对微重力和加速老化过程的反应。这可能有一天会帮助人们更好地保持他们的力量和活动能力，直到年老。</p><p style="text-align: left;">另一个研究肌肉健康的实验是Myotones。Matthias在空间站上使用一种非侵入性的便携式设备，监测腿部某些肌肉的张力、僵硬度和弹性。他是参加这项研究的12名宇航员之一，目的是为许多受肌肉拉伤影响的人确定最佳对策。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0113/5a5e80a653ff1d9.jpg" alt="3.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">Matthias也在努力提升他在太空中的体能，这种锻炼方式每天大约需要两个小时。在使用跑步机和做深蹲的几次锻炼中，他穿上了一件可穿戴的肌肉电刺激（EMS）服，激活了他的肌肉。EasyMotion的研究旨在更好地了解宇航员的生理压力，并可能导致地球上的新康复治疗。</p><p style="text-align: left;">保持身体脂肪和肌肉也归结于饮食。Matthias不断记录他的膳食，以跟踪他的能量摄入并评估他的营养。NutrISS研究引入了一种新的方法，以校准在太空中长期停留的饮食和运动。地球上的科学团队希望，精心设计的高蛋白饮食可以限制典型的微重力导致的骨骼和肌肉的损失。</p><p style="text-align: left;">“太空热”和“宇宙梦”</p><p style="text-align: left;">众所周知，在太空中体温会更高。这种 “太空热”对宇航员的健康构成潜在风险。Thermo-Mini实验使用绑在</p><p style="text-align: left;">Matthias额头上的微型热传感器记录了他的核心体温和昼夜节律，在三个疗程中持续了近40小时。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0113/fdc73c1674ac6d2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0113/fdc73c1674ac6d2.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些数据将有助于理解这一现象，并证明这一小型设备可用于医院和在地球上极端环境下工作的人，如矿工或消防员。</p><p style="text-align: left;">谈到恢复，睡眠在人类健康和福祉中起着重要作用。睡眠不足或睡眠障碍会增加疾病的风险，并对人们的表现产生影响。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0113/08079021ba2b45b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0113/08079021ba2b45b.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Matthias在睡眠期间一直戴着头带进行“Dreams”实验。该设备可以提供关于不同睡眠阶段和睡眠效率的信息。这种用户友好的技术可以帮助宇航员和地球上的人们改善他们的睡眠习惯，并识别潜在的障碍。</p>   
+</div>
+            
