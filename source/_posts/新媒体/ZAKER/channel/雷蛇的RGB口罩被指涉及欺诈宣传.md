@@ -1,0 +1,18 @@
+
+---
+title: '雷蛇的RGB口罩被指涉及欺诈宣传'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33c_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 12 Jan 2022 20:14:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33c_1024.jpg'
+---
+
+<div>   
+<p>所以它只是一个炫酷的 RGB 灯面具罢了。</p><p>去年，著名外设厂商雷蛇（Razer）曾顺势推出带有 RGB 灯的 "N95" 口罩，产品一度得到广泛关注。就在今年 1 月 6 日，雷蛇又趁势推出了这个口罩的新版本 Zephyr Pro。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33c_1024.jpg" data-height="424" data-width="661" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33c_1024.jpg" referrerpolicy="no-referrer"></div></div>这款会发光的炫酷口罩，加上了独立扬声器，旨在放大人的声音，方便交流。而它并不那么显眼的关键功能似乎也依旧给力——雷蛇宣称，它使用了 N95 级过滤片，提供双向保护，还带双进气两速风扇换气室，呼吸更顺畅。宣传页上清楚的写着它的滤芯细菌过滤效率达到 99%，过滤器微小颗粒过滤效率达 95%， 所以 " 符合 N95 医用标准 "。<p></p><p>然而，近期却有消息指事实并非如此。</p><p>去年 11 月，科技博主 " 机械妖姬 "Naomi Wu 曾在 Youtube 频道中发布一个视频，视频中她拆解了老版本口罩，在详细分析和实验后，得出了它在传染病面前 " 没什么用 " 的结论。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33d_1024.jpg" data-height="461" data-width="631" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33d_1024.jpg" referrerpolicy="no-referrer"></div></div>实际上，N95 认证来自美国国家职业安全卫生研究所（NIOSH），规则要求这种面罩的呼吸器要达到过滤 95% 微颗粒的标准，而并非仅仅是过滤器。或许正是这个原因，雷蛇发布的这个口罩并未 NIOSH 批准的 N95 呼吸器名单中。<p></p><p>但是看起来雷蛇并没有说实话。在新本版推出后的宣传页面上，Zephyr Pro 被比作医疗设备、外科口罩等，雷蛇这次将其宣传为一个随身的 " 空气净化器 "。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61df8b3f8e9f09550b0bc33e_1024.jpg" data-height="263" data-width="1079" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61df8b3f8e9f09550b0bc33e_1024.jpg" referrerpolicy="no-referrer"></div></div>而这就导致了最近 Zephyr Pro 宣布后，人们对雷蛇官方宣传产生了极大的质疑。而当初拆解过口罩的 Wu 女士也在发布会后站出来质问雷蛇官方，为什么还宣传这款口罩 " 符合 N95 标准 "。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33f_1024.jpg" data-height="455" data-width="529" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc33f_1024.jpg" referrerpolicy="no-referrer"></div></div>尽管雷蛇专门发布了 Zephyr Pro 口罩的测试结果，但在人们对这款口罩的质疑声越来越大后，网友和媒体们发现，这些口罩都没有得到包括 NIOSH 在内的疾病控制预防中心，或安全和健康管理局的批准与认可。<p></p><p>对此，雷蛇至今没有给出专门声明。不过在发布会结束三天后，其官推发布了一条消息，算是回应了这起事件。声明表示，Zephyr Pro 不能替代医用口罩，不能用于医疗环境中。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc340_1024.jpg" data-height="225" data-width="515" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61df8b3f8e9f09550b0bc340_1024.jpg" referrerpolicy="no-referrer"></div></div>同时，雷蛇也悄悄的将宣传页中涉及 N95 的内容都抹去了。<p></p><p>科技博主 " 机械妖姬 "Naomi Wu 随后也发推表示，雷蛇已经主动联系了她表示已经去掉了口罩关于 N95 的营销内容。但她仍然感到一些不满，" 现在已经很难改变人们心中它可以替代 N95 这个观念了 "。</p><p><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
