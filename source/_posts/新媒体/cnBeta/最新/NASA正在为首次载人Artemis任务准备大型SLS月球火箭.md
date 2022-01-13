@@ -1,0 +1,19 @@
+
+---
+title: 'NASA正在为首次载人Artemis任务准备大型SLS月球火箭'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/01/fef3bbd4414ce69.jpg'
+author: cnBeta
+comments: false
+date: Thu, 13 Jan 2022 03:08:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/01/fef3bbd4414ce69.jpg'
+---
+
+<div>   
+随着团队继续为NASA的太空发射系统(SLS)火箭进行准备以便在发射Artemis I时进行首次飞行，NASA及其在全美的合作伙伴在为Artemis II--第一次载人Artemis任务建造火箭方面取得了巨大进展。<strong>眼下，该团队还在制造和测试Artemis任务III、IV和V的主要部件。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/fef3bbd4414ce69.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/fef3bbd4414ce69.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">位于阿拉巴马州亨茨维尔的NASA马歇尔太空飞行中心的SLS项目经理John Honeycutt说道：“SLS不仅仅是在制造一枚火箭，而是在制造几枚火箭用于探索任务和最初的Artemis发射之后的SLS飞行。Artemis I任务是一系列日益复杂的任务中的第一个，这些任务将扩展我们在月球上的存在。SLS火箭前所未有的动力和能力将把任务送到整个太阳系更远更快的地方。”</p><p style="text-align: left;">凭借其两个固体火箭助推器和四个RS-25发动机，SLS产生了超880万磅的推力，进而可以将每个Artemis任务发射到地球轨道之外并继续前往月球。该火箭具有一些有史以来为太空探索而建造的最大、最先进和最可靠的硬件元素。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/b23a32b940f7dc4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/b23a32b940f7dc4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">为了推动该机构的下一代深空任务，SLS分阶段提供推进力。在升空时，核心级及其四个RS-25发动机和双助推器发射以推动SLS离开发射台进入轨道。在进入轨道，临时低温推进级(ICPS)就会提供空间推进力，进而将NASA的猎户座飞船及其乘员送上通往月球的精确轨道。</p><p style="text-align: left;">2021年7月28日，Artemis II的第一件火箭硬件--ICPS--抵达佛罗里达。它正在首席承包商波音和联合发射联盟(ULA)的设施中进行最后的准备工作并将很快被送到NASA肯尼迪空间中心附近。ICPS发射由Aerojet Rocketdyne提供的RL10发动机，进而将猎户座航天器送往月球。ULA已经在其位于阿拉巴马州迪凯特的工厂中建造Artemis III ICPS。</p><p style="text-align: left;">马歇尔的SLS总工程师John Blevins说道：“SLS是一种能力很强的运载工具，专门设计并经过严格的测试从而将安全地将人员、大型货物和旗舰科学任务运送到深空目的地。从一开始，SLS火箭的建造首先是为了安全地将宇航员送入太空，同时，发展到更强大的配置，可以支持各种任务。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/16023b1fa270069.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/16023b1fa270069.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">NASA的每个中心和全美1000多家不同的公司都帮助建造了Artemis I SLS火箭以及将发射未来任务的SLS火箭。Artemis II和Artemis III任务的助推器和RS-25发动机--火箭的主要推进元件--正处于组装的最后阶段。在犹他州，作为助推器的主要承包商，诺斯罗普-格鲁曼的工作人员已经完成了Artemis II和Artemis III的所有助推器发动机段的铸造并开始铸造Artemis IV的段。五段式固体火箭助推器是有史以来为太空飞行建造的最大和最强大的助推器。</p><p style="text-align: left;">Aerojet Rocketdyne是RS-25的主要承包商，其正在为Artemis I之后的三个SLS飞行准备RS-25发动机。这些发动机已经过测试并将在接近最后组装时跟各自的核心级集成。Artemis II的发动机已经准备好前往NASA位于新奥尔良的米休德装配设施，在那里它们将跟SLS核心级集成。Artemis III发动机正在NASA位于密西西比州圣路易斯湾附近的斯坦尼斯航天中心的工厂进行飞行准备，而且该公司已经在为Artemis IV之后的任务制造发动机。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/18611be6aea92a8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/18611be6aea92a8.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">每个212英尺高的核心级则由波音在米丘德生产。该工厂有220万平方英尺的制造空间和最先进的制造设备，这使得团队可以同时制造多个火箭级。目前，NASA和波音（SLS正在Michoud为Artemis II、Artemis III和Artemis IV建造核心级。除了核心级之外，Michoud还已经开始制造探索上级(EUS)的测试品，该测试品将从Artemis IV任务开始为火箭的Block IB配置提供动力。</p><p style="text-align: left;">NASA负责SLS Block IB工作的经理Steve Wofford说道：“新工具已经在Michoud安装以便在生产核心级的同时制造探索上层级。EUS将把83000磅送到月球，这比早期Artemis任务中使用的ICPS多出40%的有效载荷，比任何现有的火箭多出70%。”</p><p style="text-align: left;">来自阿拉巴马州亨茨维尔的Teledyne Brown工程公司和马歇尔的工作人员正在为Artemis II和Artemis III制造锥形运载火箭级适配器和Orion级适配器。这些适配器是核心、ICPS和猎户座航天器的重要连接点。对于Artemis III以后的任务，通用级适配器将把EUS连接到Orion航天器上并作为一个有效载荷存储舱以容纳大型有效载荷。RUAG RUAG Space USA的工程师完成了通用级适配器试验品的面板并将面板交付给位于阿拉巴马州亨茨维尔的Dynetics，该公司是该适配器的主要承包商。这家公司正在组装试验品，并准备在2022年晚些时候进行测试。</p><p style="text-align: left;">有了Artemis，NASA将让第一位女性和第一位有色人种登陆月球表面，另外还将在月球上建立长期探索从而为人类的火星任务做准备。SLS和NASA的猎户座航天器以及人类登陆系统和绕月轨道上的Gateway都将成为NASA进行深空探索的基础。</p>   
+</div>
+            
