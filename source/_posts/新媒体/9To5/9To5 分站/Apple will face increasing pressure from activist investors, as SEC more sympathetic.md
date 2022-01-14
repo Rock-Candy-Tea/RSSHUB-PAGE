@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Fri, 07 Jan 2022 12:19:56 GMT
-thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Activist-investors-will-place-increasing-pressure-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>The <em>Financial Times</em> argues that Apple will face increasing pressure from activist investors, as the Securities & Exchange Commission (SEC) <a href="https://9to5mac.com/2021/12/23/embarrassing-aapl-shareholder-proposals/" target="_blank" rel="noreferrer noopener">allows more shareholder resolutions</a> to proceed to a vote.</p>
 <p>It notes that while (former) big investors like Carl Icahn once held the biggest influence on Apple, these days it is more small investors with a popular cause … </p>
 <p><span id="more-779785"></span>

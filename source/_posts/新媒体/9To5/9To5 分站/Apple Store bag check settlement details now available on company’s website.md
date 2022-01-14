@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Thu, 13 Jan 2022 12:40:29 GMT
-thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Store-bag-check-settlement-details.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>A judge last month gave provisional approval to a proposed <a href="https://9to5mac.com/guides/apple-store/" target="_blank" rel="noreferrer noopener">Apple Store</a> bag check settlement, in which the Cupertino company has agreed to pay a four-figure sum to compensate employees in California for unpaid time waiting for off-the-clock searches.</p>
 <p>Details of the settlement are now available on Apple’s website …</p>
 <p><span id="more-781067"></span>

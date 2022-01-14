@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Wed, 12 Jan 2022 20:00:07 GMT
-thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/msn-hotmail-email-hack.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>Microsoft has poached a veteran chip designer from Apple, according to a new report from <em><a href="https://www.bloomberg.com/news/articles/2022-01-12/microsoft-recruits-key-apple-engineer-to-work-on-custom-chips?utm_medium=email&utm_source=newsletter&utm_term=220112&utm_campaign=author_19842959&sref=9hGJlFio">Bloomberg</a>.</em> The report explains that Apple chip architect Mike Filippo has departed Apple to join Microsoft, signaling that the company is looking to “expand its own server-chips efforts.” </p>
 <p><span id="more-780939"></span>
 </p>

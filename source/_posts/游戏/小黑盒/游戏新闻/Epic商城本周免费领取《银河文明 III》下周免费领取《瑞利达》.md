@@ -1,0 +1,18 @@
+
+---
+title: 'Epic商城本周免费领取《银河文明 III》下周免费领取《瑞利达》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/226860_QJq06.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 14 Jan 2022 00:20:13 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/226860_QJq06.jpg'
+---
+
+<div>   
+<p>《银河文明 III》</p><p><img data-gameid="226860" src="https://cdn.max-c.com/heybox/game/header/226860_QJq06.jpg" referrerpolicy="no-referrer"></p><p>结束时间：2022年1月21日00:00</p><p>领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/galactic-civilizations-iii" target="_blank">《银河文明 III》</a></p><blockquote><p>游戏简介：</p><p>如果有一天人类突然发现，他们在宇宙中并不孤独，世界将会如何？人类把探索的脚步迈进了太空，发现了有着独立历史的外星文明，他们也渴望着在宇宙中扬名立万。选择你的种族——人类，德伦金，亚德里安，及更多其他的种族——领导你的文明在这款前所未有的4X策略游戏中进入黄金时期！</p><p>研究新型科技，设计星际飞船，直面威胁并征服来自神秘来源的挑战，殖民新世界。谈判贸易和条约，发动战争，监视你的敌人并擢升优秀的公民。当你完成了这一切，你还可以使用其它外星文明再次游玩，他们每一个都拥有自己的历史，科技树，飞船零件等等。</p><p>今天就成为银河领袖的一员吧，思考这个问题：你将会如何统治你的星系？没有两局一样的游戏每一局新游戏都会有大量的元素可以设定——选择地图尺寸，星球与资源的富裕程度，事件的频率，还有更多可以为你的每一次游戏带来独特体验的元素。《银河文明III》还移除了线性的胜利条件，为你提供了多种目标，你可以在作出选择后想办法取得胜利，例如军事占领，文化统治，科技碾压，或者政治联合。全新的多人游戏功能还允许你提高挑战难度，打败AI从而和现实中的对手对战。所有这些再加上最为丰富和具有深度的飞船设计，保证你会沉浸在这次精彩的游戏体验中，领导整个银河。</p></blockquote><p>游戏画面：</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/ba7cfb0ff9e455ff12c27e40a5385b8d/thumb.png" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1012" src="https://imgheybox.max-c.com/web/2022/01/13/c88fec5575094826f01ce0d60caa9329/thumb.png" data-width="1788" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/db026cedf406e0be1192a773dbeb2250/thumb.png" data-width="1837" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/6a064940a273642a87255918b0cad9c7/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><br></p><hr><p>下周免费领取：</p><p>《瑞利达》</p><p><img data-gameid="941570" src="https://cdn.max-c.com/heybox/game/header/941570_dxDNX.jpg" referrerpolicy="no-referrer"></p><p>开始时间：2022年1月21日00:00</p><p>届时领取地址：<a href="https://www.epicgames.com/store/zh-CN/p/relicta" target="_blank">《瑞利达》</a></p><blockquote><p>游戏简介：</p><p>《瑞利达》是一款以物理学为基础的第一人称解谜游戏，您需要发挥创造力，结合磁力和重力才能解开茜德拉基地的秘密。独自一人身处月球深处，而您的科学头脑是唯一能让自己的女儿活下来的关键……</p><p>您将在游戏中扮演一流的物理学家，受困于一座阴森的废弃月球基地。在地表形成的神秘陨石坑中寻找出路，通过将重力和磁力按自己的意愿弯曲来解决物理谜题。您会向前直冲，试图抵达安全地带，还是要花时间收集线索，解开22世纪轨道的阴谋？在月球陨石坑永恒的黑暗中，埋藏着一个可能夺走您女儿生命，或者是会永远改变人类命运的秘密。您准备好面对研究的最终后果了吗？</p></blockquote><p>游戏画面：</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/843bf5e110c77c3417274f5079f200c9/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/29f21f68cff4ec6c9f05c41b9e783ce8/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/c8b76059cc005073e1d557e218ab0609/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/13/2972b8ee08bed36cc182857419870bda/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p><br></p><hr><p><a href="heybox://open_subject" target="_blank">#游戏推荐</a><a href="heybox://open_subject" target="_blank">#游戏资讯</a><a href="heybox://open_subject" target="_blank">#Epic喜加一</a><a href="heybox://open_subject" target="_blank">#黑盒游戏节#</a><br></p>  
+</div>
+            

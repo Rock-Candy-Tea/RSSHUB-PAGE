@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Wed, 12 Jan 2022 15:19:41 GMT
-thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/2021-Mac-shipments-grew-twice-as-fast-as-overall-PC-shipments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>A new report shows that 2021 <a href="https://9to5mac.com/guides/mac/" target="_blank" rel="noreferrer noopener">Mac</a> shipments grew almost twice as fast as the PC market as a whole. Annual growth for Mac was 28.3%, against 14.6% for the global PC market.</p>
 <p>The impressive result was of course strongly driven by sales of the M1 Pro and M1 Max <a href="https://9to5mac.com/guides/macbook-pro/" target="_blank" rel="noreferrer noopener">MacBook Pro</a> models, which went on sale in October …</p>
 <p><span id="more-780812"></span>

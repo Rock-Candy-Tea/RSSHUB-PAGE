@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Sun, 09 Jan 2022 14:00:10 GMT
-thumbnail: 'https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.02.32-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>Apple is reportedly already in the midst of planing its first event of 2022. According to a new report from <a href="https://www.bloomberg.com/account/newsletters/power-on"><em>Bloomberg’s </em>Mark </a><a href="https://www.bloomberg.com/news/newsletters/2022-01-09/apple-should-develop-checking-accounts-debit-card-stock-trading-tools-ky7mf6sf">Gurman</a>, Apple is currently planning to hold an event in March or April to announce a new iPhone SE model with 5G connectivity. </p>
 <p><span id="more-780028"></span>
 </p>

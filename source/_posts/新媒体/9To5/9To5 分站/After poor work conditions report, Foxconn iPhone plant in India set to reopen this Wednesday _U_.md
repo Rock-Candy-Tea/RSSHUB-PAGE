@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Wed, 12 Jan 2022 13:07:02 GMT
-thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Foxconn-iPhone-plant-shutdown-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p><strong>Update:</strong> <em>As reported by <a href="https://www.reuters.com/world/india/foxconn-indias-iphone-plant-restarts-production-after-dec-protests-2022-01-12/" target="_blank" rel="noreferrer noopener">Reuters</a>, Foxconn India’s iPhone plant restarted production this Wednesday after three weeks closed. The publication notes that the factory reopened with one shift and 120 workers. Foxconn will take over two months for the plant to produce at full capacity again.</em></p>
 <p>Late last year, <em>9to5Mac</em> reported that Apple had ordered Foxconn in India to suspend iPhone production at a plant while placing the company on probation until it resolved problems with living conditions in Foxconn’s dormitories. Now, it appears the iPhone plant will reopen.</p>
 <p><span id="more-780434"></span>

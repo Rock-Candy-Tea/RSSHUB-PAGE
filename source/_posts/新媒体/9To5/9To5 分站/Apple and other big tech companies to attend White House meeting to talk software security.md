@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 9To5
  - 9To5 分站
-headimg: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+headimg: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 author: 9To5
 comments: false
 date: Thu, 13 Jan 2022 13:31:52 GMT
-thumbnail: 'https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
+thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1'
 ---
 
 <div>   
-<img src="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/White-House-promises-broadband-for-all.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>Apple, Google, Amazon, Meta, and IBM will attend a meeting at the White House to discuss software security after the US suffered several major cyberattacks in 2021. As reported by <a href="https://www.reuters.com/technology/white-house-will-meet-execs-apple-amazon-ibm-discuss-software-security-2022-01-13/" target="_blank" rel="noreferrer noopener">Reuters</a>, this meeting will take place today and will be hosted by deputy national security advisor for cyber and emerging technology Anne Neuberger.</p>
 <p><span id="more-781085"></span>
 </p>
