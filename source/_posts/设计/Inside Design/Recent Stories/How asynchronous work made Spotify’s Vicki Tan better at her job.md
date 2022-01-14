@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/spotify-vicki-tan-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-01-14 04:11:35
+date: 2022-01-14 05:11:22
 thumbnail: 'https://www.invisionapp.com/inside-design/spotify-vicki-tan-design-better-podcast/'
 ---
 
