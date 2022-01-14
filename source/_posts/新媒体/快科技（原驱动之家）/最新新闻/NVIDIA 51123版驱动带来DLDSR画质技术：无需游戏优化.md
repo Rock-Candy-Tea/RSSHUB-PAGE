@@ -21,6 +21,8 @@ thumbnail: 'https://img1.mydrivers.com/img/20220114/899a2dbd-f0ed-49ca-967b-ea8b
 <p>除了DLDSR，511.23版驱动还<strong>首发优化支持《战神》(God of War</strong>)，包括DLSS、Reflex，并更新优化了《彩虹六号：异种》、《杀手3：契约》、《阿纳克鲁斯》(The Anacrusis)、《GRIT》、《怪物猎人：崛起》。</p>
 <p>新特性方面，增<strong>加支持Windows 11动态刷新率、CUDA 11.6</strong>，OpenCL驱动支持新的扩展规范、编译器，也支持新发布的RTX 3080 12GB。</p>
 <p>Bug修复上，解决了12位色下文字闪烁消失、桌面应用屏幕底部随即闪烁、多屏下随机黑屏闪烁、驱动控制面板开启G-Sync或者系统控制面板开启HDR后鼠标光标卡死等问题。</p>
+<p>本地下载：</p>
+<p><a class="f14_link" href="https://drivers.mydrivers.com/drivers/568_227555.htm" target="_blank">NVIDIA英伟达Geforce Game Ready Driver显卡驱动511.23版For Win10-64/Win11</a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220114/adac0991285e41d2844b2d2d13cda8f3.jpg" target="_blank"><img alt="NVIDIA 511.23版驱动带来DLDSR画质技术：无需游戏优化" h="337" src="https://img1.mydrivers.com/img/20220114/s_adac0991285e41d2844b2d2d13cda8f3.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220114/f4e0e54ecd0941a59b5a231ab73d953f.jpg" target="_blank"><img alt="NVIDIA 511.23版驱动带来DLDSR画质技术：无需游戏优化" h="337" src="https://img1.mydrivers.com/img/20220114/s_f4e0e54ecd0941a59b5a231ab73d953f.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
@@ -31,7 +33,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220114/899a2dbd-f0ed-49ca-967b-ea8b
  <p class="bqian"><a href="https://news.mydrivers.com/tag/nvidia.htm"><i>#</i>NVIDIA</a><a href="https://news.mydrivers.com/tag/xianka.htm"><i>#</i>显卡</a><a href="https://news.mydrivers.com/tag/qudongchengxu.htm"><i>#</i>驱动程序</a></p>
 <p class="url">
      
-<span>责任编辑：上方文Q</span>
+<span>责任编辑：无心</span>
 </p>
         
 </div>
