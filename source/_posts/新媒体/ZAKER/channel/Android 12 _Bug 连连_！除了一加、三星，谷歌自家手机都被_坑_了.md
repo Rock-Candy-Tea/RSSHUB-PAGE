@@ -1,0 +1,18 @@
+
+---
+title: 'Android 12 _Bug 连连_！除了一加、三星，谷歌自家手机都被_坑_了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e15dca8e9f09581d5ed3fe_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 15 Jan 2022 04:01:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e15dca8e9f09581d5ed3fe_1024.jpg'
+---
+
+<div>   
+<p>整理 | 郑丽媛</p><p>出品 | CSDN（ID：CSDNnews）</p><p>相较于前面几个大版本，去年 10 月才问世的 Android 12 正式版稍显迟缓：2018 年 8 月 7 日谷歌发布 Android 9 正式版，之后 Android 10 正式版于 2019 年 9 月 3 日正式发布，Android 11 同样也是 2020 年 9 月 8 日发布。</p><p>但即便晚发布近一个月，目前看来 Android 12 也并非做足了准备：这三个多月来，Android 12 被曝出各种 Bug，直接被外媒 The Verge 评为 " 近几年谷歌推出的最糟糕的 Android 版本之一 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61e15dca8e9f09581d5ed3fe_1024.jpg" data-height="702" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e15dca8e9f09581d5ed3fe_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>三星、一加齐遭殃，谷歌自家手机也没能逃过</strong><p></p><p>三星</p><p>去年 12 月，许多三星用户在手机系统更新为 One UI 4.0 ( Android 12 ) 稳定版本后，不断向三星投诉他们的 Galaxy Fold 3 和 Flip 3 设备存在严重问题：手机更新系统后便自动进入了恢复模式，重启也没用；手机突然闪屏、进入黑暗模式、性能变慢；无法屏幕截图，截的图也找不到在哪；Netflix 和 YouTube 等应用突然不能在三星的高端手机上运行；一些 Galaxy Z Fold 3 屏幕刷新率只能停留在 60Hz …</p><p>对此，三星方面承认了这些问题，并率先发布了该系统的第四个测试版以修复因稳定版引入的 Bug，甚至还一度暂停了针对 Galaxy S21 系列及 Galaxy Z Fold 3 和 Flip3 基于 Android 12 的 One UI 4 的稳定更新。</p><p>一加</p><p>无独有偶，一加也遭遇类似的问题：一加在 12 月向 OnePlus 9 和 9 Pro 发布了基于 Android 12 的 OxygenOS 12，但该版本被安卓资讯网站 Android Police 评价为 " 非常糟糕 "。</p><p>仅 Android Police 了解到的问题就有：必须要来回切换设置才能确保 120Hz 的屏幕刷新率、需要修复显示过于密集和字体过小的问题、Wi-Fi 速度较慢、电话或相机应用突然消失、某些菜单更是直接崩溃等等。</p><p>面对来自用户和媒体的不断批评，一加同样选择了暂停更新：" 我们已经意识到了因 OxygenOS 12 更新引起的问题，我们的软件团队正在修复这些问题。我们将暂停这一系统更新，并尽快推出新的迭代版本。"</p><p>谷歌</p><p>就连与 Android 12 同月新发布的谷歌 Pixel 6 和 Pixel 6 Pro，也被预装的 Android 12 系统搞得 Bug 连连：指纹识别慢、闪屏、无法切换屏幕刷新率、音频和蓝牙问题等。</p><p>为解决以上 Bug，谷歌在 12 月针对 Pixel 6 和 Pixel 6 Pro 发布了一次大规模更新，共修复了几十个 Bug。没想到的是，这次发布的补丁自身也有 Bug：有用户反馈因更新系统导致了网络连接、电话掉线的问题。</p><p><strong>每年发布一个大版本，开发周期较为紧张</strong></p><p>针对 Android 12 引发的一系列问题，XDA Developers 的前主编 Mishaal Rahman 认为，这可能 " 与 Android 12 异常大的更新有关 "。</p><p>在去年 5 月谷歌 I/O 开发者大会上，谷歌就称 Android 12 经过了 "Android 历史上最大的设计变更 "，从颜色到形状、光线到动画都进行了调整，因此更具有动态感和个性化，对隐私安全也进行了大程度优化，变得更为可控及个性化。</p><p>对此，Mishaal Rahman 指出：" 包括我自己在内的许多人都称它为自 Android 5.0 Lollipop 以来的最大 Android 操作系统更新，界面和功能集都发生了巨大变化。"</p><p>Mishaal Rahman 还补充道，谷歌承诺每年发布新版本 Android 的目标可能也会 " 使事情变得更糟 "。与苹果的围墙花园不同，Android 本身就是一个 " 有点混乱 " 的碎片化生态系统，较大的开放性对其自身提出了很高的要求。</p><p>而在接下来短短一年的时间里，谷歌需要完成 " 满是 Bug" 的 Android 12 的修复及优化，还要同时着手于今年新 Android 版本的开发。但目前看来，Android 12 的 Bug 修复对谷歌而言已压力不小，由此可能导致下一版本的开发周期遭到缩减，从而引发 " 恶性循环 "。</p><p><strong>"<strong>软件开发中，Bug 不可避免</strong>"</strong></p><p>但不仅是谷歌会面临这一问题，苹果 iOS 的更新也会遇到各类问题，但相较于 iOS，Android 碎片化的另一体现是 " 没有单一实体支配硬件和软件 " ——而外媒 The Verge 认为：" 在苹果的围墙花园中，你只会在正确的时间获得它认为正确的功能，仅此而已。" 即如果有 Bug，只能被动等待着苹果的修复。</p><p>对于这一问题，许多网友也从不同角度发表了自己的看法：</p><p>@low_tech：" 软件有时真的很难。每当苹果和谷歌对各自的操作系统进行大更新时，似乎总会遇到各种问题。"</p><p>@err404：" 他们确实需要摆脱每年的操作系统发布周期。否则他们只会渴望有趣的功能，而砍掉真正有意义的功能。"</p><p>@unequivocal：" 我的确讨厌 Android 12，但我依旧还是选择 Android，因为我使用 Android 而不是 iOS 的全部原因是：Android 拥有更灵活的用户体验。"</p><p>那么，你的手机系统是否也基于 Android 12？你是否也因系统更新遭遇了各种 Bug？</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

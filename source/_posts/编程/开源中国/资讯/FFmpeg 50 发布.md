@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=470'
+headimg: 'https://picsum.photos/400/300?random=6662'
 author: 开源中国
 comments: false
 date: Sat, 15 Jan 2022 07:56:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=470'
+thumbnail: 'https://picsum.photos/400/300?random=6662'
 ---
 
 <div>   
@@ -25,6 +25,7 @@ thumbnail: 'https://picsum.photos/400/300?random=470'
  <li>Swscale slice 线程支持。</li> 
  <li>新的音频和视频过滤器。</li> 
  <li>LoongArch CPU 架构支持。 </li> 
+ <li>清除原有弃用警告</li> 
 </ul> 
 <div style="margin-left:0; margin-right:0">
  <span><span><span><span><span><span><span><span>更多详情可查看 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FFFmpeg%2FFFmpeg%2Fblob%2Fce4d459db186a7d8ac842685cd6256c9ac1b7f25%2FChangelog" target="_blank">FFmpeg 更改日志</a>，FFmpeg 5.0 可以在 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fffmpeg.org%2Freleases%2F" target="_blank">FFmpeg.org</a> 进行下载。</span></span></span></span></span></span></span></span> 
