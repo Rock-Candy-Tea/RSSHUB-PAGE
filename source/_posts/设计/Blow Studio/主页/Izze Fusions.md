@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2018/07/izze-01.jpg'
 author: Blow Studio
 comments: false
-date: 2022-01-15 13:18:10
+date: 2022-01-15 14:08:24
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2018/07/izze-01.jpg'
 ---
 
