@@ -1,0 +1,19 @@
+
+---
+title: 'Group C2 - CHINA_ Country With Vulnerable Water Supplies'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ba2e052-2a4c-4c03-aa27-8edfa99f70dc&size=gallery'
+author: Mind42
+comments: false
+date: 2022-01-15 07:08:03
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ba2e052-2a4c-4c03-aa27-8edfa99f70dc&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3ba2e052-2a4c-4c03-aa27-8edfa99f70dc&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
