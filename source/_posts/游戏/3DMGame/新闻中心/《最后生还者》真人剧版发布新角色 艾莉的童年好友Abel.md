@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220115/1642214224_9976
 
 <div>   
 <p style="text-indent:2em;">
-HBO真人电视剧《最后的生还者》今日公开了新角色，由美国00后演员Storm Reid加盟并饰演Riley Abel。这名角色于同名游戏第一部DLC《Left Behind》中登场，为艾莉的童年好友。本剧预计将于今年6月杀青，第一季共10集，每集时长约1小时播出时间未定。<span>本片</span><span>改编自同名电子游戏，</span><span>由《切尔诺贝利》的Craig Mazin和顽皮狗的Neil Druckmann担任编剧和执行制片人。</span><span></span>
+HBO真人电视剧《最后的生还者》今日公开了新角色，由美国00后演员Storm Reid加盟并饰演Riley Abel。这名角色于同名游戏第一部DLC《Left Behind》中登场，为艾莉的童年好友。本剧预计将于今年6月杀青，第一季共10集，每集时长约1小时播出时间未定。<span>本片</span><span>改编自同名电子游戏，</span><span>由《切尔诺贝利》的Craig Mazin和顽皮狗的Neil Druckmann担任编剧和执行制片人。</span><span></span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220115/1642214224_997614.png" alt="《最后生还者》真人剧版发布新角色 艾莉的童年好友Abel " referrerpolicy="no-referrer"> 
