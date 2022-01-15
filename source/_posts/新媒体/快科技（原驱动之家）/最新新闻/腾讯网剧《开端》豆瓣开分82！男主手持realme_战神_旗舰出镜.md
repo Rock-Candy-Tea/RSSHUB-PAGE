@@ -22,7 +22,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220115/s_1adfc422cce941a7bc6f75a78e
 <p>值得一提的是，剧中这款手机的配色也非常抢眼，这是realme GT战神特别版-曙光配色，其设计灵感来自于经典GT车型，其采用了极具个性的黑黄撞色，相机矩阵向下无限延伸，致敬泪痕大灯的经典仿生设计。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20210224/699a21ed-d7a5-49d7-961b-43110a1e20dd.png" style="color: rgb(0, 153, 255); font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", 濠电姵顔栭崰妤勬懌闂佽鎮傜粻鏍х暦閹邦兘鏀介悗锝庝簽椤斿﹪姊洪崨濠傚鐟滄澘鍟扮划濠囧煛閸涱喒鎷洪梺缁樺姌濡嫰宕濋妶鍛斀闁炽儱鍟块弳閬嶆懚閻愮儤鐓熼柟閭﹀枟閸も偓婵犵绱曢崗姗€寮诲鍫闂佸憡鎸诲畝鎼佸箖閻戣棄顫呴柕鍫濇噽閸旓箑顪冮妶鍡楀潑闁稿鎸婚妵鍕敃閿濆洤鈷岄梺绯曟櫇閸嬨倝寮婚妸鈺婃晬婵﹩鍋勯ˉ姘舵⒒娴ｅ憡鎯堥柛濠佺矙婵℃挳鏁撴禒瀣厱閻庯綆鍋呭畷宀勬煙椤旇娅婄€规洟浜堕獮鍥敆閿熻姤鎱ㄦ径鎰拺闂侇偆鍋涢懟顖涙櫠椤栫偞鐓冪痪顓㈩棑缁夘噣鏌熼鑲╀虎闁崇粯鎸鹃幑鍕Ω閵堝棗鈧綁姊绘担铏瑰笡缁炬澘绉堕崚鎺楁晲婢跺﹦顔嗛梺璺ㄥ櫐閹凤拷, STHeiti, "WenQuanYi Micro Hei", SimSun, sans-serif; font-size: 16px;" target="_blank"><img alt="realme GT真机视频首度公布：战神版外观吸睛！" h="783" src="https://img1.mydrivers.com/img/20210224/S699a21ed-d7a5-49d7-961b-43110a1e20dd.png" style="border: 1px solid black; vertical-align: middle;" w="618" referrerpolicy="no-referrer"></a></p>
 <p>除了配色之外，realme GT战神特别版-曙光开还创新的配备了素皮拼接工艺，做到保证素皮细腻纹理和柔和手感的同时，让双材质严密拼接，还大幅提升了素皮质感和舒适手感。</p>
-<p>至于配置方面，<strong>realme GT搭载骁龙888旗舰处理器，拥有最高12GB LPDDR5内存规格，支持65W快充，正面屏幕是一块6.8英寸的120Hz AMOLED挖孔屏。</strong></p>
+<p>至于配置方面，<strong>realme GT搭载骁龙888旗舰处理器，拥有最高12GB LPDDR5内存规格，支持65W快充，正面屏幕是一块6.43英寸的120Hz AMOLED挖孔屏。</strong></p>
 
            
            

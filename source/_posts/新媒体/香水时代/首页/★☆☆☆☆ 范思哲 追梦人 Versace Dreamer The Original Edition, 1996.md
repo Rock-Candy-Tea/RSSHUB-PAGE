@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=3533'
+headimg: 'https://picsum.photos/400/300?random=4750'
 author: 香水时代
 comments: false
 date: Wed, 15 Dec 2021 11:25:37 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3533'
+thumbnail: 'https://picsum.photos/400/300?random=4750'
 ---
 
 <div>   
@@ -17,6 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3533'
 
 前调就是烧轮胎或者烧塑料的味道，好TM难闻啊→_→我要死了，太难闻了，喷厕所都嫌弃的水平。
 
-我等等后调看看  
+我等等后调看看
+等半天闻到了中后调，只能说相对前调杀伤力没有那么大了，好闻是绝对不存在的，千万别盲撸这个啊  
 </div>
             
