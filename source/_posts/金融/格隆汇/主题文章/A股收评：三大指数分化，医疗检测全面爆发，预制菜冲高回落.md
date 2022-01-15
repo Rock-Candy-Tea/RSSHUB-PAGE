@@ -1,0 +1,18 @@
+
+---
+title: 'A股收评：三大指数分化，医疗检测全面爆发，预制菜冲高回落'
+categories: 
+ - 金融
+ - 格隆汇
+ - 主题文章
+headimg: 'https://img3.gelonghui.com/43189-d6e44bbb-0c5e-42e7-9c15-70d396a9459b.png'
+author: 格隆汇
+comments: false
+date: Fri, 14 Jan 2022 00:00:00 GMT
+thumbnail: 'https://img3.gelonghui.com/43189-d6e44bbb-0c5e-42e7-9c15-70d396a9459b.png'
+---
+
+<div>   
+<p></p><p>1月14日，A股两市主要指数涨跌不一，沪指收跌0.96%报3521.26点，深成指涨0.09%报14150.57点，创业板指涨1.18%报3119.41点。两市个股多数下跌，超3000只个股下跌，两市成交额11070亿元，较上个交易日放量135亿元。北向资金今日全天净流入2.82亿元。沪指周跌1.63%，深成指周跌1.35%，创业板指周涨0.73%。</p><p><img src="https://img3.gelonghui.com/43189-d6e44bbb-0c5e-42e7-9c15-70d396a9459b.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>盘面上，医药股大涨，细分新冠药概念暴涨，新冠检测概念股批量涨停，中药、长寿药、疫苗、抗流感等相关题材大涨；预制菜板块冲高回落，周期板块成下跌主力，煤炭、石油板块大幅领跌，金融、地产股联袂下跌。中信证券跌超5%。</p><p>今日医疗板块全面爆发，其中新冠检测板块掀起涨停潮，美康生物、奥泰生物、安旭生物、热景生物、东方生物、千红制药、九安医疗等11股涨停，博拓生物涨超16%，万孚生物涨超15%，硕生生物涨超14%，广生堂涨超13%，易瑞生物涨超12%。</p><p><img src="https://img3.gelonghui.com/d5df4-36069a75-487e-462b-a14c-e072ccbd994e.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，奥密克戎新冠病毒正进一步全球性扩散。为应战奥密克戎，美国总统指示美国政府采购额外的5亿份COVID-19检测试剂盒，以帮助满足在奥密克戎变种病毒扩散期间全国各地的需求，同时还将免费提供最具防护性的N95口罩。</p><p>幽门螺旋杆菌涨幅强势。翰宇药业、亚太药业、赛隆药业、济民医疗涨停，达安基因、众生药业九强生物涨超8%。</p><p><img src="https://img3.gelonghui.com/534eb-c246cb82-808b-4027-ba43-95699297d622.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>中药板块集体反弹、佐力药业涨近11%，以岭药业、精华制药、莱茵生物、万邦德涨停，大唐药业、众生药业涨超8%，步长制药、太极集团涨超7%</p><p><img src="https://img3.gelonghui.com/7cb06-3ec131fa-1bb3-4cf9-86cf-4d8009f35ea1.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>预制菜板块冲高回落。国联水产、得利斯、福成股份、海欣食品、金陵饭店涨停，西安饮食涨超6%。盖世食品跌逾8%，安井食品跌逾6%，千味央厨、广州酒家跌逾5%。</p><p><img src="https://img3.gelonghui.com/6a974-7d58949a-9f15-44d0-ba97-685894a133e4.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>煤炭板块集体回调。靖远煤电跌逾6%，平煤股份、云煤能源、辽宁能源、山西焦煤跌逾5%，ST安泰、陕西煤业、新集能源、开滦股份、昊华能源跌逾4%。</p><p><img src="https://img3.gelonghui.com/82958-6547958c-60a2-4342-bda6-d1bb2fb71669.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>经济日报发文《煤价齐涨应是“昙花一现》指出，从中长期看，煤价缺乏持续上涨的支撑。从供需关系看，在“双碳”目标引领下，光伏、风能等新能源对传统能源的替代效应将逐步释放，未来对煤炭的需求增速或呈下降态势；在供给端，随着前期煤炭优质产能释放和达产，后期国内煤炭供应将出现增量，煤炭结构性供给不平衡有望趋向缓解。</p><p>证券板块走弱。国联证券、中信证券跌逾5%，湘财股份跌逾4%，兴业证券、国金证券、长江证券、华鑫股份、财达证券跌逾3%。</p><p><img src="https://img3.gelonghui.com/ab685-71edf57f-d277-47a2-8d1e-ffa146ae96e2.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，中信证券在香港交易所公告称，建议按所持每10股现有H股获发1.5股H股股份为基准，以每股17.67港元供股3.4175亿股股份。中信证券还计划按所持每10股现有A股获发1.5股A股股份为基准，以每股14.43元人民币供股16亿股股份。</p><p>房地产开发板块走弱。渝开发跌近7%，嘉凯城跌逾6%，空港股份、莱茵体育、泰禾集团、津滨发展、信达地产跌逾5%，美好置业、天房发展、冠城大通跌逾4%。</p><p><img src="https://img3.gelonghui.com/48b58-2f626e9b-70c2-48f7-9a74-cd900f4a3745.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>科创板方面，科创50指数收涨1.36%。君实生物涨超15%，圣湘生物涨超10%，天奈科技涨超8%，天合光能、康希诺涨超5%。</p><p><img src="https://img3.gelonghui.com/eca32-e85154fd-b08a-40af-84ff-f28373b0f4dd.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>北向资金方面，北上资金净流入42.44亿元，其中沪股通净流入8.26亿元，深股通净流入34.18亿元。</p><p><img src="https://img3.gelonghui.com/07167-4bcf0ab5-0a2d-45f4-bfd7-01ff273ebdc9.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p><span style="font-weight: 400;">展望后市，西部证券认为，上半年宏观预期的低点可能已经出现。稳增长仍是当下主线，成长已到左侧布局期，全年主线仍是必须消费品涨价。建议投资者持续关注以养殖业、种植业、食品加工业、纺织服装、中药、橡胶制品等为代表的具有较强价格传导能力的必须消费品，这也是2022年全年来看最具确定性的投资主线。</span></p><p></p>  
+</div>
+            

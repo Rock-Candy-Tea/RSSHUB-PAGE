@@ -1,0 +1,19 @@
+
+---
+title: 'here is an interview with him 
+https___www.youtube.com_watch_v=gedw48UqMFM&t=2482s'
+categories: 
+ - 编程
+ - wolley
+ - host
+headimg: 'https://picsum.photos/400/300?random=3864'
+author: wolley
+comments: false
+date: 2022-01-15 00:28:33
+thumbnail: 'https://picsum.photos/400/300?random=3864'
+---
+
+<div>   
+via <a href="https://wolley.io/user/undefined">@undefined</a><br><a href="https://wolley.io/item/61e1d6676e1d6c4aab3938c1">Comments</a>  
+</div>
+            
