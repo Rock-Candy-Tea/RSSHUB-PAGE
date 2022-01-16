@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=191'
+headimg: 'https://picsum.photos/400/300?random=3492'
 author: 品玩
 comments: false
 date: Sat, 15 Jan 2022 11:16:23 GMT
-thumbnail: 'https://picsum.photos/400/300?random=191'
+thumbnail: 'https://picsum.photos/400/300?random=3492'
 ---
 
 <div>   
-荣耀
+不客观实验室
 
 
 万元级折叠屏荣耀Magic V，够得上“旗舰”称号吗？
