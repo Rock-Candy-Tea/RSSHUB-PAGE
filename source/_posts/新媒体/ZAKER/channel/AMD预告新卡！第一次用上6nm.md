@@ -1,0 +1,18 @@
+
+---
+title: 'AMD预告新卡！第一次用上6nm'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e3e3808e9f0905360d9108_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 16 Jan 2022 02:17:18 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e3e3808e9f0905360d9108_1024.jpg'
+---
+
+<div>   
+<p>AMD Radeon Pro 专业显卡官推今天发布了一则视频，非常隐晦地预告会在<strong>1 月 19 日</strong>发布新品。</p><p>视频中只有王冠、蓝宝石造型，看不出和实际产品有什么关联，给人的第一感觉是要出新的性能之王？</p><p>可惜，正好相反。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61e3e3808e9f0905360d9108_1024.jpg" data-height="600" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e3e3808e9f0905360d9108_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d9109_1024.jpg" data-height="600" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d9109_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910a_1024.jpg" data-height="600" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910a_1024.jpg" referrerpolicy="no-referrer"></div></div>消息称，<strong>AMD 准备的新品是 Radeon Pro W6400，入门级别，基于最新的 Navi 24 核心，也就是和刚发布的桌面卡 RX 6500 XT、RX 6400 同款，也是 6nm 工艺</strong>，但具体规格不详，或许也是 1024 个流处理器。<p></p><p>这也将是 AMD 的第一款 6nm 工艺专业卡。</p><p>Radeon Pro W6400 的对手将是 NVIDIA T600，仍然使用上代 Turing 架构，主要针对 2D 建模、视频编辑等应用。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910b_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910b_1024.jpg" referrerpolicy="no-referrer"></div></div>AMD RDNA2 家族专业显卡目前有<a class="f14_link" href="http://iphone.myzaker.com/zaker/link.php?pk=61e3e56b8e9f0907417f426d&b=aHR0cHM6Ly9uZXdzLm15ZHJpdmVycy5jb20vMS83NjIvNzYyMTg4Lmh0bQ==&bcode=46ecaeb7&target=_new" target="_blank">桌面端的 W6800、W6600，移动端的 W6600M</a>，<a class="f14_link" href="http://iphone.myzaker.com/zaker/link.php?pk=61e3e56b8e9f0907417f426d&b=aHR0cHM6Ly9uZXdzLm15ZHJpdmVycy5jb20vMS83NzMvNzczOTEyLmh0bQ==&bcode=f8597236&target=_new" target="_blank">苹果独享的 W6900X、W6800X、W6800X Duo</a>。<p></p><p>其中，W6800X Pro 还用上了双芯，拥有 120 组计算单元、7680 个流处理器、256MB 无限缓存、64GB 显存，整卡功耗 400W。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910c_1024.jpg" data-height="314" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e3e3808e9f0905360d910c_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
