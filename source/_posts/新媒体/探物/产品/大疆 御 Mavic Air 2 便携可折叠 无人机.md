@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Ftg_iY8vc7DiEGkwlyI6lkCwvRQG'
 author: 探物
 comments: false
-date: 2022-01-15 15:09:02
+date: 2022-01-16 00:31:34
 thumbnail: 'https://resource.tanwuapp.com/Ftg_iY8vc7DiEGkwlyI6lkCwvRQG'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Ftg_iY8vc7DiEGkwlyI6lkCwvRQG" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 Mavic Air 2 便携可折叠 无人机</strong><br><br>
-          价格: ￥19.00 / 日<br>
+          价格: ￥31.67 / 日<br>
           评分: 5.0
           
 </div>
