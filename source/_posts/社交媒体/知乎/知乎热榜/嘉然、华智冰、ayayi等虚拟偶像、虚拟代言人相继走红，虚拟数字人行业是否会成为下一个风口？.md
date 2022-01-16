@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7057'
+headimg: 'https://pic3.zhimg.com/v2-c135a96535a68bdae468aff42f71bc3c_1440w.jpg'
 author: 知乎
 comments: false
-date: Sat, 15 Jan 2022 12:31:42 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7057'
+date: Sat, 15 Jan 2022 13:46:42 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-c135a96535a68bdae468aff42f71bc3c_1440w.jpg'
 ---
 
 <div>   
-红护的回答<br><br><p data-pid="plxiD0Ju">我对虚拟人的理解就是模仿人的思维，能够与做出符合正常人思维的信息交互，简单来说就是造了了个脑子出来。</p><p data-pid="6tfs1ibm">那别说风口了，如果技术真的成熟，绝对是风暴了。只要稍微配合一点早就发展在前列的“类人模型”领域，稍加搭配，一个任打任骂任蹂躏，不怒不愠不反抗，没有法律地位没有人权保护的完美伙伴就此诞生！谁不想要？谁不心动？</p><p data-pid="hXVYZBwQ">技术先进了可以让他主动运动，擦桌子扫地辅导孩子做题，技术不足了躺那当个聊天解闷工具，动两下喊两声，急了还能骂两句，可以根据个人喜好设定是否急眼，多美妙啊。</p><p></p>  
+王听玄的回答<br><br><p data-pid="vN5JcsmA">现在已经是这个风口了小兄弟！</p><p data-pid="LCE1Vu-y">还搁这儿下一个呢？</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c135a96535a68bdae468aff42f71bc3c_1440w.jpg" data-caption data-size="normal" data-rawwidth="906" data-rawheight="478" data-default-watermark-src="https://pic4.zhimg.com/v2-1e3864b00218b8f2293a3ffaf2534f17_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c135a96535a68bdae468aff42f71bc3c_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
