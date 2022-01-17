@@ -1,0 +1,18 @@
+
+---
+title: '"数毛社"评测《战神》PC版：非常出色的移植游戏！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986'
+author: 小黑盒
+comments: false
+date: Mon, 17 Jan 2022 11:39:38 GMT
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986'
+---
+
+<div>   
+<p>最新登陆PC平台的《<b>战神</b>》受到大量玩家关注，这款曾获得2018TGA年度游戏的大作在PC平台也有非常出色的表现。最近知名科技博主“数毛社”也对PC版《战神》进行了测试和评价，他们称赞这是一款非常出色的移植游戏。</p><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=338171108&bvid=BV1LR4y1M72c&cid=484422726&page=1" width="480"></iframe></p><p>数毛社表示，PC版菜单提供了一系列升级，甚至超过了原始PS4 Pro以及PlayStation 5版本。PC支持Nvidia Reflex，使用DualSense手柄的输入延迟减少了11毫秒；游戏加载速度也基本更快，具体取决于硬件配置。</p><p><img data-gameid="1593500" src="https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1642175986" referrerpolicy="no-referrer"></p><p>最大的不同来自视觉升级，首先是不再使用棋盘格渲染模式，棋盘格图案、材质模糊感等都不复存在。这些方面都可以通过游戏的TAA或DLSS来改进。DLSS非常好用，某些方面的效果甚至超过原生分辨率；而DLSS性能模式所用的像素数只有PS4 Pro棋盘式模式的50%，很高兴看到索尼圣莫尼卡为PC版支持了DLSS功能。</p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/16/6c3d8a7a8ca945f2892cef67c5635b131642349526.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p>此外《战神》PC几何质量也有明显升级，有更高的细节和更圆润的物体。同时游戏动态效果也更稳定。行走和奔跑时，物体闪现加载的情况更加不明显。PC版对环境光遮蔽的改进也不错，还引入了反射光元素。体积雾质量也有所改善，可减少锯齿。屏幕空间反射质量也得到了改善，提高了分辨率。由于《战神》里没有多少反射性材质，所以这可能不容易注意到，不过当它们出现时，效果就很明显。</p><p>游戏的材质质量也比PS4 Pro原版有提升，这也主要是得益于不再使用棋盘渲染模式。此外改进的各向异性过滤也有所帮助。还有一个纹理设置可以增加远处纹理的分辨率，不过总的来说，提升效果没有想象中那么高。</p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/16/d9c287c8c9dd489a9cde408f4ee766f21642349526.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p>至于游戏设置优化，数毛社表示，可以将阴影从超高降低到高，这能将性能提高48%。反射从超高+降至超高也能提高9%，进一步降低到高则总共能提高16%。模型质量从超高降到高也能提高9%的性能。此外，他们建议为环境光遮蔽选择高。这样下来游戏的画面效果比主机版更好，而性能上也没有预设那么吃配置。</p><p>《战神》更多的问题在于吃显存，最低要求4GB，实测时1080p、超高画质需要5.5GB显存，而原生4K时需要7.2GB左右。即使有6GB显卡也应使用原版预设，而8GB以上显卡则可在任何分辨率下开启最大材质纹理。</p><p><img class="lazy" data-height="900" src="https://i1.max-c.com/imgx/2022/01/16/da17473f283c4588bcce0e8d878e9a071642349527.jpg" data-width="1600" referrerpolicy="no-referrer"></p><p>PC版发售前，配置要求显示GTX 1060可提供1080p+30帧，数毛社表示这有点令人担忧，因为1060按理说是比PS4强很多的。不过实测发现GTX 1060的运行效果更接近60fps，偶尔掉到50fps。不过Radeon RX 580的表现就比较糟糕了。而对于RTX 2060 Super或AMD Radeon RX 5700来说，1440p也能获得很好的运行效果，不过Nvidia显卡仍然具有优势，因为DX11驱动对Radeon兼容性还不够好。数毛社表示希望A卡玩家的体验能更好一点。</p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/16/997df7df6d154ef1a7720fa216a6553d1642349528.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p>《战神》对CPU的要求相对较低，Ryzen 5 3600也能稳住100-120fps，间或有些卡顿。Core i9 10900K则在大部分时间都保持160fps。然而《战神》在某些区域明显需要做大量数据传输工作，会导致帧率没法稳定。玩家可以降低阴影和模型质量，有助于缓解这种偶尔的掉帧。</p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/16/85a791a49d1e473f916fc447dd3f1e541642349528.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p>如果你有RTX GPU，那么开启DLSS是最合适的。RTX 2060也可以通过DLSS性能模式有效地提供4K60帧体验，比PS4 Pro上的棋盘式体验要好很多。开启后会有一些非常轻微的视觉问题，例如雪变形时的抖动、高对比度树叶上的一些重影问题。但这些远不足以与开启后的好处相提并论。</p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/16/a160634c6e644635aae08500a59b33391642349529.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p>总的来说，数毛社认为《战神》PC移植版非常出色，图形画质选项都很实用，可以获得超越原PlayStation版本的体验。GPU性能表现都很不错，只是CPU方面稍逊一筹，希望之后能通过更新补丁来改善。</p><blockquote><p>来源：游侠网</p></blockquote>  
+</div>
+            

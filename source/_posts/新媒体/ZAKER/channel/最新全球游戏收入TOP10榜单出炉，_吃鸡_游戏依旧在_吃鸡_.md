@@ -1,0 +1,18 @@
+
+---
+title: '最新全球游戏收入TOP10榜单出炉，_吃鸡_游戏依旧在_吃鸡_'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e4e0a4b15ec040530fe281_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 16 Jan 2022 19:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e4e0a4b15ec040530fe281_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202201/61e4e0a4b15ec040530fe281_1024.jpg" data-height="1133" data-width="1700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61e4e0a4b15ec040530fe281_1024.jpg" referrerpolicy="no-referrer"></div></div>1 月 17 日，Sensor Tower 公布了 2021 年 12 月全球热门移动游戏收入 TOP10 榜单情况。<p></p><p>Sensor Tower 榜单数据显示，2021 年 12 月腾讯《PUBG Mobile》 ( 合并《和平精英》收入 ) 在全球 App Store 和 Google Play 吸金 2.44 亿美元，相较 2020 年 12 月增长 36.7%，蝉联全球手游畅销榜冠军。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61e4e0a4b15ec040530fe282_1024.jpg" data-height="681" data-width="1075" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e4e0a4b15ec040530fe282_1024.jpg" referrerpolicy="no-referrer"></div></div>从区域市场占比来看，《PUBG Mobile》相较于依赖国内市场的营收贡献，68.3% 的收入来自其中文 iOS 版本《和平精英》。另外则是美国和土耳其市场的收入分别占 6.8% 和 5.5%。<p></p><p>相比之下，排名第二的米哈游《原神》则在全球区域市场的分配上更为均衡。</p><p>《原神》移动端以 1.34 亿美元的收入位列榜单第 2 名。来自国内 iOS 市场的收入占 28%，来自美国市场的收入占比为 23.4%，剩余的市场份额由其他海外区域市场瓜分。</p><p>榜单前五另外三款游戏为《Roblox》、Moon Active《Coin Master》和腾讯《王者荣耀》。</p><p>整体数据而言，2021 年 12 月全球手游玩家在 App Store 和 Google Play 的消费达到 74 亿美元，同比下降近 2%。</p><p>美国依然是全球移动游戏收入最高的市场，贡献了 22 亿美元，占全球总收入的 29.6%。日本市场排名第 2，占 20.3%；中国 iOS 市场排名第 3，占 15.7%。</p><p>这也意味着，对于腾讯而言，海外市场仍然是一座富矿，旗下游戏产品想要进一步提升营收规模，还需要强化在海外市场的布局，来更进一步的挖掘海外游戏消费市场的潜力来化为己用。</p><p>从游戏玩法上来看，《PUBG Mobile》所代表的 " 吃鸡 " 式玩法作品依旧在全球范围内持续火爆。除《PUBG Mobile》外，另一款 " 吃鸡 " 游戏作品 Garena 旗下的《Free Fire》同样跻身 TOP10 榜单中。</p><p>不过有意思的是，1 月 14 日 PUBG 开发商 Krafton 起诉了游戏公司 Garena，原因是 Garena 的《Free Fire》和《Free Fire Max》抄袭了 PUBG 的游戏玩法，也就是所谓的 " 吃鸡 " 模式。</p><p>Krafton 指则 Garena 开发 PUBG 的山寨游戏游戏作品《Free Fire》和《Free Fire Max》，称后者广泛地复制（抄袭）了 PUBG 的各类游戏模式和元素内容。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202201/61e4e0a4b15ec040530fe283_1024.jpg" data-height="964" data-width="646" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61e4e0a4b15ec040530fe283_1024.jpg" referrerpolicy="no-referrer"></div></div>Krafton 还附上了多张对比图来印证 " 被抄袭 " 的观点。例如游戏开场的 " 空投 " 功能，游戏结构和玩法、武器、盔甲和独特物品的选择和组合，涵盖位置以及色彩方案、材料和纹理的整体选择等等方面，均是如此。<p></p><p>值得注意的是，陷入抄袭争议风波的两大 " 吃鸡 " 作品和背后的游戏公司，都拥有腾讯投资背景。</p><p>《Free Fire》为 Garena 旗下游戏作品，而 Garena 母公司便是有着 " 东南亚小腾讯 " 称号的 Sea Limited。虽然近日腾讯减持套现了在 SEA 中的股份，但仍保持了 18.7% 的持股比例。</p><p>而 PUBG 开发商、韩国游戏公司 Krafton 去年 6 月公布的招股书显示，截止 2020 年底，Krafton 第一大股东为该公司创始人张秉炳圭，持股 16.4%；其第二大股东为腾讯，持股 15.5%。</p><p>Krafton 也在招股书中确认了与腾讯的深度合作模式，如今大火且营收排名第一的《PUBG Mobile》是由腾讯光子工作室和 Krafton 共同合作开发。</p><p>双方也签署了全球发行协议。韩国、日本以及印度的发行由 Krafton 负责，而其他海外地区的发行工作则是由腾讯来完成的。</p><p>或许基于合作及持股关系，腾讯会从中起到协调的作用，毕竟两款产品都处于风头正劲的阶段，没人愿意看到两败俱伤的局面。</p><p>不过无论这场 " 吃鸡 " 抄袭风波的发展走向和结局如何，都将成为 " 吃鸡 " 游戏在全球范围内持续大火的一个特殊注脚。</p><p></p><div class="zaker_div"><div class="zk_remark"><p>ZAKER 新闻出品</p><p></p><p>文 / 曾宪天</p></div><div class="edi_oper"></div></div><p></p>  
+</div>
+            
