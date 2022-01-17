@@ -8,7 +8,7 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FvsPQe1yD6iQPNIEiq7kTNtZoMfl'
 author: 探物
 comments: false
-date: 2022-01-17 14:09:01
+date: 2022-01-17 15:09:26
 thumbnail: 'https://resource.tanwuapp.com/FvsPQe1yD6iQPNIEiq7kTNtZoMfl'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://resource.tanwuapp.com/FvsPQe1yD6iQPNIEiq7kTNtZoMfl'
 <img src="https://resource.tanwuapp.com/FvsPQe1yD6iQPNIEiq7kTNtZoMfl" referrerpolicy="no-referrer"><br>
           <strong>索尼 PS4主机 游戏手柄</strong><br><br>
           价格: ￥2.00 / 日<br>
-          评分: 5.0
+          评分: 4.3
           
 </div>
             
