@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=5981'
+headimg: 'https://picsum.photos/400/300?random=6621'
 author: 香水时代
 comments: false
 date: Sat, 15 Jan 2022 12:47:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5981'
+thumbnail: 'https://picsum.photos/400/300?random=6621'
 ---
 
 <div>   
-這支香水的創作靈感是歌劇院中的歌伶身上綴飾著的珍珠項鍊。
-前調開場是清新的紫羅蘭葉與些許果香，而後銜接上柔軟細膩的鈴蘭白花香氣，收尾處使用的東家豆配上奶檀氣息，整體給人的感覺非常溫柔。  
+这支香水的创作灵感是歌剧院中的歌伶身上缀饰着的珍珠项链。
+前调开场是清新的紫罗兰叶与些许果香，而后衔接上柔软细腻的铃兰白花香气，收尾处使用的东家豆配上奶檀气息，整体给人的感觉非常温柔。  
 </div>
             
