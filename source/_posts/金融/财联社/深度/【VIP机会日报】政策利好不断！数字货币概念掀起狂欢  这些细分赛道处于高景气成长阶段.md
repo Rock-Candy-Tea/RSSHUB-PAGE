@@ -39,8 +39,7 @@ thumbnail: 'https://img.cls.cn/images/20220117/QRE3LgC3Wc.jpg'
 <p><img src="https://img.cls.cn/images/20220117/U11MYxAwR6.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>《盘中宝》：盘中有「宝」，快人一步！ </strong></p>
 <p>1月17日8:53《盘中宝》跟踪到全球疫情再次肆虐，疫情相关需求全面上升，随即引用券商观点解读产业链发展。上市公司中，翰宇药业防护和医用口罩产品均取得国内生产及销售许可并获得了欧盟CE认证，<strong>其股价在1月17日封住20cm涨停！</strong></p>
-<p><img src="https://img.cls.cn/images/20220117/2W45tHo5n6.jpg" alt="image" referrerpolicy="no-referrer">
-宇药业K</p>
+<p><img src="https://img.cls.cn/images/20220117/2W45tHo5n6.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>《电报解读》：第一时间推送重要资讯独家深度解析。</strong></p>
 <p>1月13日18:47《电报解读》解读机构龙虎榜，指出拓新药业用于生产新冠口服药的原料药年产能达200吨，细分中间体出口占比超9成，有望吸引资金关注，<strong>其在1月14日收获20cm涨停。</strong></p>
 <p><img src="https://img.cls.cn/images/20220117/vZCcK3u2C6.jpg" alt="image" referrerpolicy="no-referrer"></p>
