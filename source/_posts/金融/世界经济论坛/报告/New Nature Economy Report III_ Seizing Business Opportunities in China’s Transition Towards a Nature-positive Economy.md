@@ -5,11 +5,11 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=5572'
+headimg: 'https://picsum.photos/400/300?random=1316'
 author: 世界经济论坛
 comments: false
-date: 2022-01-17 11:06:51
-thumbnail: 'https://picsum.photos/400/300?random=5572'
+date: 2022-01-17 12:13:10
+thumbnail: 'https://picsum.photos/400/300?random=1316'
 ---
 
 <div>   
@@ -24,7 +24,9 @@ thumbnail: 'https://picsum.photos/400/300?random=5572'
 <div class="st__content-block st__content-block--text">
     <p>By urgently making 15 nature-positive transitions across three socio-economic systems, China could add $1.9 trillion in annual business opportunities and create 88 million resilient jobs by 2030. For each of the transitions required, the report sets out recommendations for business- and government-driven action and highlights progress to date and case studies.</p>
 </div>
-
+<h3 class="st__content-block st__content-block--heading st__content-block--heading-3" id="this-report-is-also-available-in-chinese-here">
+    This report is also available in Chinese <a href="https://cn.weforum.org/reports/new-nature-economy-report-seizing-business-opportunities-in-china-s-transition-towards-a-nature-positive-economy">here</a>.
+</h3>
       </div>
 
       

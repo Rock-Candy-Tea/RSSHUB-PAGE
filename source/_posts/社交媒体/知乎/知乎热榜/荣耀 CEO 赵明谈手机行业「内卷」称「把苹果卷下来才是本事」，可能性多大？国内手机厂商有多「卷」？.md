@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7593'
+headimg: 'https://pic2.zhimg.com/v2-b2fe2c0683ffb72661a5d09af1db7c9f_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 17 Jan 2022 07:49:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7593'
+date: Mon, 17 Jan 2022 08:23:09 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-b2fe2c0683ffb72661a5d09af1db7c9f_1440w.jpg'
 ---
 
 <div>   
-追光者的回答<br><br><p data-pid="jkoAZeGx">把苹果卷下来才是本事，这句话完全正确。但这过程，一定是艰难的，或者说，目前来看可能性不大。</p><p data-pid="kPDjeLvv">上次我就说了，手机这种东西，真不是靠点营销，靠点宣传就能成功的，更重要的还是用户体验、手机品质。</p><p data-pid="y79f6YGg">国内各大厂商卷来卷去，不依然干不过苹果。不吹不黑的说，荣耀也是内卷一员！</p><p data-pid="6eUCAeiR">光系统这一点就已经输给了苹果。(这里单单指的是隐私及广告方面)更别说芯片生态了。什么都没有，拿什么和别人比。</p><p data-pid="TYF7v5ty">价格越来越高，但体验也并没有得到很大的提升啊。苹果13能成为连续半年成为中国最畅销的智能手机不是没有原因的。</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/2311372044" data-image="https://pic3.zhimg.com/v2-ca1d32766f2589586095cb91344a37d0_bh.jpg" data-image-width="886" data-image-height="1920" class="internal">如何看待最新研究显示「苹果 iPhone 13 连续 6 周成为中国最畅销智能手机」？说明了什么问题？</a><p data-pid="TYF7v5ty"><br></p><p data-pid="M46OyEHL">总之，明哥话是对的，就看后面路怎么走，最起码敢于说真话，望能知行合一吧。</p><blockquote data-pid="tQKdnNqo">附上年货节无门槛红包，最高9999，每天三次，运气好相当于白嫖手机，不过概率应该很小。</blockquote><p></p>  
+我是零生万物的回答<br><br><h2>安卓只会卷自己，苹果只会摇旗呐喊，加油！</h2><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b2fe2c0683ffb72661a5d09af1db7c9f_1440w.jpg" data-rawwidth="1374" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-536f483294b1431389a9d73abbc0e048_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b2fe2c0683ffb72661a5d09af1db7c9f_r.jpg" referrerpolicy="no-referrer"><figcaption>双击图片领取</figcaption></figure><p data-pid="XLtOCU4p">反正高通是铁了心的躺着等华为几年，床上没有对手，日子多么无聊，算了，喂用户吃翔吧！</p><p data-pid="n-zoq-ol">反正发热严重，各家都会堆散热，面积一个比一个大，名字一个比一个花哨！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4a5aca8f0790c6e83b72c8bc121a488f_1440w.jpg" data-rawwidth="718" data-rawheight="268" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-50e95e38af756bc0a72215e72a5abd02_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4a5aca8f0790c6e83b72c8bc121a488f_r.jpg" referrerpolicy="no-referrer"></figure><h2>我看不懂，但我大受震撼！</h2><p data-pid="twcqcMyG">为了给散热腾地方，镜头就用5000万像素的JN1吧，这么大的广角用户还能不满意，成像就加点高斯模糊吧！</p><p data-pid="XWb44wbN">反正发热严重，手机厂家会给手机做透气，这样他们就不用给手机加防水了！</p><p data-pid="Qcb8yMqJ">反正功耗严重，各家自动给屏幕降规格，芯片的电屏幕省，旗舰上1080p，e5倒退到e4。</p><h2>这个内卷越卷越烂是我万万没想到的事！</h2><blockquote data-pid="sHy8TbUD">因为真正难的是做SoC芯片。“短期内我们没有做基带芯片或者SoC芯片的计划。如果要做SoC芯片，肯定是一个特别大的决策。”</blockquote><p data-pid="PuqIOsy7">这话本质就是芯片，没有芯片的国产厂商只能继续摆烂，降点价，吹性价比吧！</p><p data-pid="VK__uwr4">买苹果再添把火！</p><p><br></p><p><br></p><p data-pid="T77jQg59"><a class="member_mention" href="http://www.zhihu.com/people/fd0bdbff3182870848fff001f56eaa77" data-hash="fd0bdbff3182870848fff001f56eaa77" data-hovercard="p$b$fd0bdbff3182870848fff001f56eaa77">@我是零生万物</a> ，祝安卓阵营手机大卖！</p>  
 </div>
             
