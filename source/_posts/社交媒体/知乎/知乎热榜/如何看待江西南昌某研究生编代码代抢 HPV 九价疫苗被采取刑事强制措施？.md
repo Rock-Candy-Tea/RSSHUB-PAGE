@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-a838d4432b7ce338091cb57256732f8d_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=8565'
 author: 知乎
 comments: false
-date: Tue, 18 Jan 2022 03:14:34 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-a838d4432b7ce338091cb57256732f8d_1440w.jpg'
+date: Tue, 18 Jan 2022 04:57:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8565'
 ---
 
 <div>   
-van derek的回答<br><br><p data-pid="RfYcXrEZ">新闻报道中有很多矛盾的地方。</p><p data-pid="l2tJ0Ahr">新闻中放了一个图，这里很明显这个作者是用按键精灵做的自动化脚本，并且采用的是图像匹配进行控制，<b>似乎并不需要改内存、伪造数据包</b>。</p><p data-pid="KlNh3iG1">文中提到了“其医院系统存在被破坏干扰的痕迹”。这显然超出了这个脚本的能力。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-a838d4432b7ce338091cb57256732f8d_1440w.jpg" data-caption data-size="normal" data-rawwidth="996" data-rawheight="996" data-default-watermark-src="https://pic2.zhimg.com/v2-44ae324857ca55b8b0bbe65a754ca5ad_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-a838d4432b7ce338091cb57256732f8d_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="UuDqM00k">文中提到“小刘因涉嫌破坏计算机信息系统罪已被公安机关依法采取刑事强制措施”。如果这个作者只是做了一个模拟点击操作的脚本，没有操作修改内存、抓取伪造数据包，显然是不构成文中提到的破坏计算机信息系统罪的。</p><p data-pid="fQrTdeWY">文中信息有很多矛盾的地方。</p><p data-pid="Y6CLsO4m">当然，医院黄牛本来就是违法的。</p>  
+陈律师的回答<br><br><p data-pid="8P_sr4Xa">作为一名曾经是程序员的律师，看到新闻披露的代码内容着实很疑惑，如果研究生编写的只是按键精灵脚本模拟用户输入指令，没有严重影响医疗系统服务器正常使用的（实际上新闻已经披露没有造成系统出现故障或者瘫痪），实际上靠不了非法侵入计算机信息系统或者破坏计算机信息系统罪，最高院法官喻海松博士也在论文中针对游戏外挂问题提到过类似观点。当然，目前还在侦查阶段，后续变更罪名也是有可能的。</p><p data-pid="dN-wm8MC">具体信息新闻披露的不多，定性也需要结合法条规定进一步研究，先mark，下班后有空研究研究再更。</p>  
 </div>
             
