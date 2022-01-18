@@ -1,0 +1,19 @@
+
+---
+title: '帮女友抢九价HPV疫苗，研究生发现_商机_ 警方：犯法了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/sinakd20220117s/136/w1036h700/20220117/1bc6-5df061f1c6541edb9094ba1d108bfb18.png'
+author: cnBeta
+comments: false
+date: Tue, 18 Jan 2022 01:48:48 GMT
+thumbnail: 'https://n.sinaimg.cn/sinakd20220117s/136/w1036h700/20220117/1bc6-5df061f1c6541edb9094ba1d108bfb18.png'
+---
+
+<div>   
+适用于16-26岁女性的九价HPV疫苗“一苗难求”的现状，让不少适龄女性焦虑。甚至有人因为“代抢”疫苗，走上违法犯罪的道路。近日，江西警方公布了一起案件：一研究生为了“代抢疫苗”赚佣金编写代码，破坏医院计算机系统，目前已被采取刑事强制措施↓↓<br>
+ <p style="text-align: center;"><video src="//edge.ivideo.sina.com.cn/44440898302.mp4?KID=sina,viask&Expires=1642608000&ssig=OSavhbw4jT&reqid=" controls="controls" width="640" height="480"></video></p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/136/w1036h700/20220117/1bc6-5df061f1c6541edb9094ba1d108bfb18.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">代抢九价HPV疫苗赚佣金</p><p style="text-align: left;">研究生编代码</p><p style="text-align: left;">前段时间，江西南昌某大学研究生小刘的女友非常烦恼：大半年了，九价HPV疫苗无论如何也约不上。小刘得知此事后，在2021年11月4日登录南昌某医院app帮女友代抢疫苗，没想到一次便预约成功。小刘和女友非常高兴，在某社交平台进行炫耀，没想到引来许多同城网民私聊，询问能不能帮忙代抢。</p><p style="text-align: left;">面对高额佣金的许诺，小刘心想：自己是计算机技术的高材生，疫苗预约如此火爆，何不用“特殊手段”帮人抢疫苗赚钱呢？于是，小刘使用编码程序编写了代码。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/392/w996h996/20220117/40a6-5e231f0294f4a2375159c02906d04a15.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">随后，小刘在各大社交平台发布代抢信息，用自己编的代码“代抢”疫苗。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/770/w1080h1290/20220117/19a2-a8402e33b9b779aa053d37ee4a193f78.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">然而，医院方面很快就察觉到了系统的异常。医院工作人员发现，其院九价疫苗预约成功患者大部分都是通过黄牛途径取得挂号的，且其医院系统存在被破坏干扰的痕迹，遂立即前往南昌市公安局网安部门报案。</p><p style="text-align: left;">接报后，警方迅速立案侦查，锁定犯罪嫌疑人小刘。经警方工作，2021年12月26日晚，小刘投案自首，并对其违法行为供认不讳。目前，小刘因涉嫌破坏计算机信息系统罪已被公安机关依法采取刑事强制措施，案件还在进一步办理中。同时，警方加大了对其他“代抢疫苗”黄牛的打击力度。</p><p style="text-align: left;">对此，警方提示↓</p><p style="text-align: left;">1. 通过官方正规渠道预约疫苗，接种疫苗要到正规的医院或是社区卫生服务中心。</p><p style="text-align: left;">2. 不能盲目相信“代抢、代预约服务”，有遭遇诈骗风险。</p><p style="text-align: left;">3. 不要轻易透露个人信息，切勿向陌生人私下转账预约。</p><p style="text-align: left;">4. 通过破坏计算机系统实现抢苗，这是犯法行为！后果严重！切勿以身试法！</p><p style="text-align: left;">HPV疫苗国内市场缺口近10亿支</p><p style="text-align: left;">其实，像小刘女友这样“求九价”的年轻人不在少数。据央视财经，九价HPV疫苗自上市以来，始终处于供不应求的状态。HPV疫苗国内市场缺口近10亿支。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/734/w988h546/20220117/d475-7154b4f445dd7471cd3f47a5539b0425.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">记者了解到，我国批准上市的九价HPV疫苗是进口的，每年批签发量仅数百万支，能够接种到该疫苗的人数还不足总数的1.5%，也就造成了九价疫苗“一苗难求”的情况。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/726/w982h544/20220117/9487-865eb07fb2314c74d871430e695bf98b.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">专家：不建议盲目等待九价HPV疫苗</p><p style="text-align: left;">那么，约不到九价疫苗怎么办？专家表示，不建议为了增加保护范围等待更高价数的HPV疫苗，而错过最佳预防时机。从性价比来说，二价和四价HPV疫苗远高于九价HPV疫苗，适龄女性应早接种、早预防。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/640/w986h454/20220117/cc53-c85138ff805654a293ebc9b02199144a.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/254/w988h66/20220117/5db5-daf17b7bb28c95fb0ef0754f991d0023.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/254/w992h62/20220117/526b-f64dbd1b3266caeb5b2d9b86e761c07c.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">专家建议接种HPV疫苗应该尽早尽小，盲目等待因为多种原因暂时性缺货的九价疫苗是很多女性的接种误区。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/sinakd20220117s/666/w978h488/20220117/fd11-aabe247cf1d992fd8d1cd817b1ccb191.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">业内人士告诉记者，目前国内已经有10余家公司开展HPV疫苗研制工作，未来几年HPV疫苗产量会大幅提高。</p>   
+</div>
+            
