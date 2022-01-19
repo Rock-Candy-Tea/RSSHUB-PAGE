@@ -8,14 +8,15 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220118/8522b872d0156018a1ff8a0cc13950f6.jpg'
 author: Dockone
 comments: false
-date: 2022-01-19 06:09:12
+date: 2022-01-19 07:06:22
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220118/8522b872d0156018a1ff8a0cc13950f6.jpg'
 ---
 
 <div>   
 <br>【编者的话】本文通过Kubernetes API的方式，详细介绍了Kubernetes三大核心概念，资源、种类和对象，跟随作者，快来一睹为快吧。<br>
-<br>这是关于如何从代码中使用Kubernetes API系列文章的第一篇。Kubernetes API比一堆简单的HTTP端点要高级一些。因此，在试图从代码访问Kubernetes API结构之前，理解Kubernetes API结构并熟悉术语是至关重要的。否则，尝试将是非常痛苦的——官方的Go客户端带有很多花哨的东西，如果你试图同时理解客户端和API的概念，可能会很快就会让你不知所措。<br>
-<br>Kubernetes API是巨大的——它有数百个端点。幸运的是，它是相当一致的，所以我们只需要理解有限数量的思想，然后将这些知识外推到API的其余部分。在这里，我将尝试触及我发现的最基本的概念。我喜欢简单和易于消化的，而不是学术正确性和材料的完整性。和往常一样，我只是分享我对事物的理解和我对这个主题的思考方式——所以，这不是一个API指南，而是一个个人经验。<br>
+<br>因此，在试图使用Kubernetes API之前，理解Kubernetes API结构并熟悉术语是至关重要的。要不然，官方的Go客户端带有很多花哨的东西，如果你试图同时理解客户端和API的概念，可能会很快就会让你不知所措。  <br>
+<br>Kubernetes API是巨大的——它有数百个端点。幸运的是，它是相当一致的，所以我们只需要理解有限数量的思想，然后将这些知识外推到API的其余部分。在这里，我将尝试触及我发现的最基本的概念。<br>
+<br>我喜欢简单和易于消化的，而不是学术正确性和材料的完整性。和往常一样，我只是分享我对事物的理解和我对这个主题的思考方式——所以，这不是一个API指南，而是一个个人经验分享。<br>
 <div class="aw-upload-img-list active">
 <a href="http://dockone.io/uploads/article/20220118/8522b872d0156018a1ff8a0cc13950f6.jpg" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220118/8522b872d0156018a1ff8a0cc13950f6.jpg" class="img-polaroid" title="01.jpg" alt="01.jpg" referrerpolicy="no-referrer"></a>
 </div>
