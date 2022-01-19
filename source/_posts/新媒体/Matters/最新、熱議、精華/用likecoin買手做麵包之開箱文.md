@@ -1,0 +1,18 @@
+
+---
+title: '用likecoin買手做麵包之開箱文'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/67a3c715-b4af-4720-8ac8-1b4412dbc877.jpeg'
+author: Matters
+comments: false
+date: Wed, 19 Jan 2022 12:54:14 GMT
+thumbnail: 'https://assets.matters.news/embed/67a3c715-b4af-4720-8ac8-1b4412dbc877.jpeg'
+---
+
+<div>   
+<p><strong>第一次用likecoin購物覺得很有趣！</strong></p><p>有一天偶然看到<a class="mention" href="https://matters.news/@rednevalf" target="_blank" data-display-name="芳心慢筆" data-user-name="rednevalf" data-id="VXNlcjo1ODY3Nw">﻿<span>@芳心慢筆</span>﻿</a> 的手作歐包開放訂購，就訂了一組（羅勒歐包＋紫薯歐包），因為平常早餐就都自己在家裡簡單吃個饅頭，想說可以順便吃點不一樣的，然後就每天都早早起床弄早餐，吃了幾天很有儀式感的美味早餐。</p><p>－</p><figure class="image"><img src="https://assets.matters.news/embed/67a3c715-b4af-4720-8ac8-1b4412dbc877.jpeg" data-asset-id="67a3c715-b4af-4720-8ac8-1b4412dbc877" referrerpolicy="no-referrer"><figcaption><span>包裝細心，還附上保存教學的小紙條</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/1829d559-95d1-4c18-ada3-edd4b5dd170d.jpeg" data-asset-id="1829d559-95d1-4c18-ada3-edd4b5dd170d" referrerpolicy="no-referrer"><figcaption><span>還有小贈品</span></figcaption></figure><p>到貨之後因為剛搬到新家還一團亂，所以麵包在冷凍庫躺了兩天才被我拿出來切成小塊分裝。麵包本人很大顆！</p><figure class="image"><img src="https://assets.matters.news/embed/1650d27c-4f2d-4fd2-9acc-2e39adb0feac.jpeg" data-asset-id="1650d27c-4f2d-4fd2-9acc-2e39adb0feac" referrerpolicy="no-referrer"><figcaption><span>切片分裝（紫薯口味）</span></figcaption></figure><p>其實我也沒有研究過歐包怎麼保存或是怎麼吃（後來發現其實芳心媽咪有<a href="https://matters.news/@rednevalf/%E6%BA%AB%E6%9A%96%E5%8F%88%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%A4%A9%E7%84%B6%E9%A6%99%E6%B0%A3-%E8%8A%B3%E5%AA%BD%E5%92%AA12%E6%9C%88%E9%99%90%E5%AE%9A%E6%89%8B%E4%BD%9C%E6%AD%90%E5%8C%85-bafyreiaps4p3efg7pyuvlh677nwopk5iqyhwdmbxanutnwzwujgxplzccm" rel="noopener noreferrer" target="_blank">教學文</a>），還好芳心媽咪有附上小紙條教學，切片的時候有感受到麵包的扎實感，是真的很有份量！</p><p>－</p><figure class="image"><img src="https://assets.matters.news/embed/ef53ec19-fd05-4f83-ae54-09623a96f2e3.jpeg" data-asset-id="ef53ec19-fd05-4f83-ae54-09623a96f2e3" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>第一天拿了兩片用蒸的，因為羅勒跟紫薯兩種口味都想吃看看，所以就吃了兩片。我必須說，麵包很扎實，吃完這兩片真的超飽！用蒸的吃起來特別有嚼勁，羅勒的香氣很濃郁，越嚼越香，很推！</p><p>－</p><figure class="image"><img src="https://assets.matters.news/embed/b5d7065a-2816-4fee-a2a3-019df9ee98d0.jpeg" data-asset-id="b5d7065a-2816-4fee-a2a3-019df9ee98d0" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/3fa886a7-caa0-44e2-9fb8-38fe3c18748f.jpeg" data-asset-id="3fa886a7-caa0-44e2-9fb8-38fe3c18748f" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>第二天用烤的，一片羅勒口味的歐包搭一些配菜，鋪上起司進烤箱烤，然後在擺上番茄切片、炒蛋跟罐頭鮪魚，很好吃，這搭配超完美！</p><p>用烤的麵包比較有香氣，表皮也會有一點脆，我很喜歡。</p><p>－</p><figure class="image"><img src="https://assets.matters.news/embed/108ef449-f702-47ad-9d5a-f48823641fa9.jpeg" data-asset-id="108ef449-f702-47ad-9d5a-f48823641fa9" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/06120e4f-442a-40e1-80ed-a30a004fc9bd.jpeg" data-asset-id="06120e4f-442a-40e1-80ed-a30a004fc9bd" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>第三天也是用烤的，一片紫薯口味的歐包鋪上起司、小黃瓜以及番茄，然後煎了一些雞肉條跟炒蛋一起吃，配上咖啡，真是美好的一天。</p><p>－</p><p>因為這幾天都早起做早餐，煮的時候幫室友小芙順便也做一份，平常不會太早起的她為了吃早餐都跟我一樣時間起床，當我的室友也是很幸福的，如果我心血來潮想弄什麼吃的都會弄超多，他們就必須幫我一起吃，哈哈！</p><p>第一次用虛擬貨幣購物的經驗很棒，買到了好吃天然又健康的麵包（最喜歡健康的食物了！）。</p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.blowstudio.es/wp-content/uploads/2019/03/atsp_project_01.jpg'
 author: Blow Studio
 comments: false
-date: 2022-01-19 13:13:06
+date: 2022-01-19 14:08:18
 thumbnail: 'https://www.blowstudio.es/wp-content/uploads/2019/03/atsp_project_01.jpg'
 ---
 
