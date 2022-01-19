@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-01-19 12:11:40
-thumbnail: 'https://pic2.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162'
+date: 2022-01-19 13:11:55
+thumbnail: 'https://pica.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-73e457bafcfc4408447c75a6e1884d8a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">聆雨子，</span><span class="bio">影视文化学博士，撰稿人，高校教师</span>
 <a href="https://www.zhihu.com/question/57722183/answer/2311481514" class="originUrl" hidden>查看知乎原文</a>
 </strong>
