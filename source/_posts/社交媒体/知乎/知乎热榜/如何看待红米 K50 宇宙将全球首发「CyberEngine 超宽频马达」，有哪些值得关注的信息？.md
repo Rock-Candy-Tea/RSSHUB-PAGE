@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6253'
+headimg: 'https://picsum.photos/400/300?random=1958'
 author: 知乎
 comments: false
-date: Wed, 19 Jan 2022 05:09:07 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6253'
+date: Wed, 19 Jan 2022 04:53:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1958'
 ---
 
 <div>   
-Starry的回答<br><br><p data-pid="g-nrFkXu">Redmi：小米，老子又把你刺拉</p>  
+ZH筱崔的回答<br><br><p data-pid="MFPiw881">我始终有一个疑问，这供应链技术，咋总让小米首发呢？hov连这点钱都不舍得花吗？</p><hr><p data-pid="xQu51Q8k">马达重要不重要，不能看小米怎么吹，得看小米吹完，hov跟不跟。</p><hr><p data-pid="OEAckug8">一寸大一寸强。</p>  
 </div>
             
