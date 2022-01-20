@@ -8,7 +8,7 @@ categories:
 headimg: 'https://iximiuz.com/kubernetes-api-call-simple-http-client/kdpv.png'
 author: Dockone
 comments: false
-date: 2022-01-19 15:07:48
+date: 2022-01-20 00:32:06
 thumbnail: 'https://iximiuz.com/kubernetes-api-call-simple-http-client/kdpv.png'
 ---
 
