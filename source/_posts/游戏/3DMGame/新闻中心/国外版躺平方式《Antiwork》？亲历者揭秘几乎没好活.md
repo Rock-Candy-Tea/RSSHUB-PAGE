@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220120/1642650783_1107
 
 <div>   
 <p style="text-indent:2em;">
-想工作时就找个活干干，干够了就躺平休息？这种“美好”的生活并不是那么容易获得，近日据外媒报道，一位有着160万用户的躺平组织的管理员谈到了亲历国外版躺平方式《Antiwork》的“随机工作”，称几乎全部都是属于“屈辱”以及“刻薄”的类型。
+想工作时就找个活干干，干够了就躺平休息？这种“美好”的生活并不是那么容易获得，近日据外媒报道，一位有着160万用户的躺平组织的管理员谈到了亲历国外版躺平方式《Antiwork》的“随机工作”，称大部分几乎全部都是属于“屈辱”以及“刻薄”的类型。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220120/1642650783_110720.jpg" alt="国外版躺平方式《Antiwork》？亲历者揭秘几乎没好活" referrerpolicy="no-referrer"> 

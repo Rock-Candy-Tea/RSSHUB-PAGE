@@ -1,0 +1,18 @@
+
+---
+title: '畫話接力│食不完的晚餐 X 送虎年揮春'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/9b82b589-0855-4f10-b14c-fe9b4f6f6137.jpeg'
+author: Matters
+comments: false
+date: Wed, 19 Jan 2022 21:51:26 GMT
+thumbnail: 'https://assets.matters.news/embed/9b82b589-0855-4f10-b14c-fe9b4f6f6137.jpeg'
+---
+
+<div>   
+<p>考慮了幾天，看到弟弟傳來的食物照片，我想到了新年常聽到的聲音便是⋯⋯</p><h2><strong>「食多啲！」</strong></h2><p>（書面語即是「吃多點！」）</p><p><br></p><p>以往，每到新年的時候，家中都少不了美食。</p><p>我媽是個喜歡煮食的人，每年三十晚的團年飯都會豐富到不得了，還會邀請在香港沒有其他親人的伯公來吃飯。</p><p>但我媽煮餸的份量，是3個大人加2個青年人也吃不完。每每當有人停手時，她都會說<strong>「食多啲！」</strong>再逕自把更多食物往我們的碗裏送去。</p><p>到最後，我們都會肚皮撐得站不起來。</p><p><br></p><p>這頓晚餐吃剩下的餸，往往都可以吃到年初二！這是不是好驚人🤣</p><h2>完成圖：</h2><figure class="image"><img src="https://assets.matters.news/embed/9b82b589-0855-4f10-b14c-fe9b4f6f6137.jpeg" data-asset-id="9b82b589-0855-4f10-b14c-fe9b4f6f6137" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>後來我的弟弟開始成年後，他變得很會觀察。每當媽媽勸他「食多啲！」時，他開始吐槽<strong>「為什麼你自己卻不吃！！」</strong></p><p>從此以後，我們都會回勸媽媽吃多點。</p><p><strong>這算是一種「友善的反抗」，哈哈。</strong></p><p><br></p><p>至於有什麼好餸菜？</p><p>通常也是福建人的道地食物如「豬肉蛋捲」（金黃色的蛋捲寓意有金元寶）、大蝦（寓意哈哈大笑）、鼓汁蒸魚（寓意年年有餘）、鮑魚海參煮花膠（寓意富貴）、牛肉丸蝦丸（寓意事事圓滿）、生菜蠔豉（寓意生財好市），還會有鼓油雞和雞湯。</p><p><br></p><p>唉，寫完這篇文章，好想回家吃幾餐好西。想念美食，也想念不用自己動手做的日子。</p><p><br></p><p><br></p><p><strong>想著新年將至，早前朋友提議我畫揮春。</strong></p><p>於是畫了幾下幾張，大家可以按下面連結，下載圖案連紅色一起印出。</p><figure class="image"><img src="https://assets.matters.news/embed/dfbd1efa-228c-4509-9c0a-863b6b31abb2.png" data-asset-id="dfbd1efa-228c-4509-9c0a-863b6b31abb2" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/2c210cc9-46ba-4658-851e-6160485c2bf6.png" data-asset-id="2c210cc9-46ba-4658-851e-6160485c2bf6" referrerpolicy="no-referrer"><figcaption><span>取諧音虎＝福，祝大家也可以快樂躺平便有金 XDDD</span></figcaption></figure><p><a href="https://we.tl/t-LAIx98oj7Q" rel="noopener noreferrer" target="_blank">下載點</a></p><p>另外，我決定也發送揮春NFT送大家！</p><p><strong><em>大概是</em></strong><a href="https://opensea.io/collection/2022-chinese-tiger-year" rel="noopener noreferrer" target="_blank"><strong>OpenSea上第一個揮春系列</strong></a><strong><em>？哈哈～</em></strong></p><p>名額33個賀新春（各款11個），寓意生龍活虎！</p><p><strong>留言請說明想要長方形1號（圖左）或長方形2號（圖右），或正方形，</strong></p><h2>先到先得～～</h2><h2><strong>我的讚賞公民可以全套收藏哦！</strong></h2><p><br></p><p>NFT會分幾天發送，不要追我~~~</p><p>還有⋯⋯送太多會累死😆🙈</p><p><br></p><p><br></p><h2>語巫倫次：</h2><p>前幾天看錯時差計算的時間，結果錯過了The Space活動，飲恨！</p><hr><p>鼓勵大家留言，讓我知道我不是在孤單創作！ヽ(；▽；)ノ</p><figure class="image"><img src="https://assets.matters.news/embed/958e3707-2a16-4d3c-bab2-10f8f1f3c178.png" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><strong>§ </strong><a href="https://twitter.com/mopen_magic" rel="noopener noreferrer" target="_blank"><strong>Twitter</strong></a><strong> § </strong><a href="https://www.youtube.com/channel/UCPH0peC3sTonjAexPovaqOg" rel="noopener noreferrer" target="_blank"><strong>YouTube</strong></a><strong> § </strong><a href="https://opensea.io/mopen" rel="noopener noreferrer" target="_blank"><strong>Open Sea</strong></a><strong> § </strong><a href="https://liker.social/@mopen" rel="noopener noreferrer" target="_blank"><strong>象特市</strong></a><strong> § </strong></p><p><a href="https://liker.land/kylie1628/civic" rel="noopener noreferrer" target="_blank"><strong>成為我的讚賞公民，每月贊助一罐貓糧，助我貓長得更胖</strong></a></p>  
+</div>
+            

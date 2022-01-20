@@ -1,0 +1,26 @@
+
+---
+title: '__ The ace(r) up your sleeve!'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=5428'
+author: 每日安全
+comments: false
+date: 2022-01-20 05:08:49
+thumbnail: 'https://picsum.photos/400/300?random=5428'
+---
+
+<div>   
+<q>宏基电脑在 Windows 系统安装的 Acer Care Center 被发现本地提权漏洞</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+ Jett
+</a>
+<span class="text-muted"><small>• 38 minutes ago</small></span>
+</cite>
+  
+</div>
+            
