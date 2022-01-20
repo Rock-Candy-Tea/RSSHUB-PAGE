@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=7484'
+headimg: 'https://picsum.photos/400/300?random=2551'
 author: Paul Graham 博客
 comments: false
-date: 2022-01-20 13:13:29
-thumbnail: 'https://picsum.photos/400/300?random=7484'
+date: 2022-01-20 14:08:40
+thumbnail: 'https://picsum.photos/400/300?random=2551'
 ---
 
 <div>   
@@ -54,7 +54,7 @@ ingredient in having new ideas. What are the other ingredients?
 Are they things we could cultivate?<br><br>Because the trouble with intelligence, they say, is that it's mostly
 inborn. The evidence for this seems fairly convincing, especially
 considering that most of us don't want it to be true, and the
-evidence thus has to face a pretty stiff headwind. But I'm not going
+evidence thus has to face a stiff headwind. But I'm not going
 to get into that question here, because it's the other ingredients
 in new ideas that I care about, and it's clear that many of them
 can be cultivated.<br><br>That means the truth is excitingly different from the story I got
