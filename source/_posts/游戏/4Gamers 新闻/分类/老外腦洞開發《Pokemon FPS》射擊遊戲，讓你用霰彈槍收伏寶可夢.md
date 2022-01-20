@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/65dba4ff-71e1-4646-a739-759422
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/65dba4ff-71e1-4646-a739-7594221db9c2.jpg" referrerpolicy="no-referrer"><p>小智，這玩意比寶貝球好用</p>  
+<img src="https://img.4gamers.com.tw/news-image/65dba4ff-71e1-4646-a739-7594221db9c2.jpg" referrerpolicy="no-referrer"><p>小智，這玩意比精靈球好用</p>  
 </div>
             

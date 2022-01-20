@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220120/c5ecd07b97c13be3bdb78dffa5b6396e.png'
 author: Dockone
 comments: false
-date: 2022-01-20 02:05:00
+date: 2022-01-20 03:07:19
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220120/c5ecd07b97c13be3bdb78dffa5b6396e.png'
 ---
 
@@ -92,26 +92,26 @@ Data:<br>
 &#125; <br>
 </pre><br>
 耶！<br>
-<br><blockquote><br>提示：或者，你可以通过使用<code class="prettyprint">--insecure</code>标志或其短别名<code class="prettyprint">-k</code>来使用curl。在安全的环境中，我更喜欢不安全模式——它比试图找到颁发者证书更简单。<br>
-  <h4>使用证书向API服务器验证客户端</h4>好吧，让我们尝试一些更复杂的东西。列出集群中的所有部署怎么样？<br>
-  <pre class="prettyprint">$ curl --cacert ~/.minikube/ca.crt $KUBE_API/apis/apps/v1/deployments<br>
-  &#123;<br>
-  "kind": "Status",<br>
-  "apiVersion": "v1",<br>
-  "metadata": &#123;<br>
-  <br>
-  &#125;,<br>
-  "status": "Failure",<br>
-  "message": "deployments.apps is forbidden: User \"system:anonymous\" cannot list resource \"deployments\" in API group \"apps\" at the cluster scope",<br>
-  "reason": "Forbidden",<br>
-  "details": &#123;<br>
-  "group": "apps",<br>
-  "kind": "deployments"<br>
-  &#125;,<br>
-  "code": 403<br>
-  &#125; <br>
-  </pre><br>
-  额……再次行不通！</blockquote>与明显未受保护的/version端点不同，Kubernetes通常会限制对其API端点的访问。<br>
+<br><blockquote><br>提示：或者，你可以通过使用<code class="prettyprint">--insecure</code>标志或其短别名<code class="prettyprint">-k</code>来使用curl。在安全的环境中，我更喜欢不安全模式——它比试图找到颁发者证书更简单。</blockquote><h4>使用证书向API服务器验证客户端</h4>好吧，让我们尝试一些更复杂的东西。列出集群中的所有部署怎么样？<br>
+<pre class="prettyprint">$ curl --cacert ~/.minikube/ca.crt $KUBE_API/apis/apps/v1/deployments<br>
+&#123;<br>
+"kind": "Status",<br>
+"apiVersion": "v1",<br>
+"metadata": &#123;<br>
+<br>
+&#125;,<br>
+"status": "Failure",<br>
+"message": "deployments.apps is forbidden: User \"system:anonymous\" cannot list resource \"deployments\" in API group \"apps\" at the cluster scope",<br>
+"reason": "Forbidden",<br>
+"details": &#123;<br>
+"group": "apps",<br>
+"kind": "deployments"<br>
+&#125;,<br>
+"code": 403<br>
+&#125; <br>
+</pre><br>
+额……再次行不通！<br>
+<br>与明显未受保护的/version端点不同，Kubernetes通常会限制对其API端点的访问。<br>
 <br>从错误消息中可以清楚地看出，该请求已通过身份验证User "system:anonymous"，并且显然，该用户未授权列出部署资源。<br>
 <br>失败的请求不包括任何身份验证方式（尽管如此，它已经过身份验证，但作为匿名用户），所以我需要提供一些额外的信息来获得所需的访问级别。<br>
 <br>Kubernetes支持<a href="https://kubernetes.io/docs/reference/access-authn-authz/authentication/">多种身份验证机制</a>，我将从使用客户端证书对请求进行身份验证开始。<br>
