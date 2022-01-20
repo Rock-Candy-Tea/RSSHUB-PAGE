@@ -1,0 +1,18 @@
+
+---
+title: '大家觉得哪家宠物营养品比较靠谱？-啦啦啦的回答：Zesty Paws家的吧，我家旺旺吃的营养素就是它家的，一直吃得蛮好，旺旺被养得毛色光亮、身强体壮，拆起家来从...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-23c9622b826897bcc33a370444301dcf_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 20 Jan 2022 04:04:35 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-23c9622b826897bcc33a370444301dcf_1440w.jpg'
+---
+
+<div>   
+<strong>大家觉得哪家宠物营养品比较靠谱？</strong><br>啦啦啦的回答<br><p data-pid="ztWqKkTG">Zesty Paws家的吧，我家旺旺吃的营养素就是它家的，一直吃得蛮好，旺旺被养得毛色光亮、身强体壮，拆起家来从来不喊累！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-23c9622b826897bcc33a370444301dcf_1440w.jpg" data-rawwidth="1267" data-rawheight="1689" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-065a64945f23250c7b324d7c4b8ec28d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-23c9622b826897bcc33a370444301dcf_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="p_IIFXvh">旺旺是我在路边捡的小流浪，看它在破纸盒里缩成小小的一团，太可怜了，我就带回家了，也没来得及养狗做功课，“哪个牌子宠物营养品比较靠谱？”，刚开始我也是一头雾水。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="4x6tH7nu">本着“群众的眼睛是雪亮的”普世真理，我直接选择了Zesty Paws八合一营养素，它在北美可是养宠家庭人手一罐的，一直是美国宠物营养品的销量冠军。这么多狗吃过，应该是靠谱的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-21c8d00352cdf7c8e440c4050f508a88_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-d4c0d36a57a97bff283022cc9d6d5d9d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-21c8d00352cdf7c8e440c4050f508a88_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="InPOomBZ">而且，Zesty Paws八合一营养素营养覆盖比较全面，含有足量的维骨力（氨基葡萄糖）和软骨素，还有鱼肝油、维生素E、消化酶、益生菌、维生素B、辅酶Q10，这么多的营养成分，狗狗的关节、心脏、皮肤、肠道、肝脏等身体机能都能被照顾到。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-df0550679dea8a5e2b303c600187616a_1440w.jpg" data-rawwidth="1081" data-rawheight="1193" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-a470886cd17872cb623846c3913c6ba4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-df0550679dea8a5e2b303c600187616a_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="MDrX3xnH">Zesty Paws八合一营养素还获得了美国国家动物补充剂委员会（NASC）质量认证标识，养过宠物的人都知道这个机构吧！它一直以高标准、严透明度著称，给旺旺吃它认证过的产品我放心！</p><p class="ztext-empty-paragraph"><br></p><p data-pid="S4z3Wl3J">结果还真没让我失望，旺旺流浪时饱一顿饥一顿的营养不良、毛发干枯等等问题完全被扭转过来了，再甩一张现在的帅照~</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-b9bd4ab513a569db97189fe7abc099ca_1440w.jpg" data-rawwidth="952" data-rawheight="1269" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-364fad56ee08999e5b752314494485a7_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b9bd4ab513a569db97189fe7abc099ca_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="MSMtzE22">看不出曾经流浪的身影吧，现在这小家伙已经学会“恃宠而骄”了，仗着我妈的溺爱天天东咬一块毛巾、西扯几张纸巾的，玩得不亦乐乎，我妈说这是身强力壮的表现，不能压制狗的天性，不然旺旺会抑郁。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="pfLSIvom">我：。。。。。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="tGbFfdqe">如果你想养一只精气神好、身体强健的狗砸，不妨试试我家旺旺吃的这一款Zesty Paws八合一营养素。</p><p></p>  
+</div>
+            

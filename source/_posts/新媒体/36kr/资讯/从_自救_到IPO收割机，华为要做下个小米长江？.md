@@ -1,0 +1,52 @@
+
+---
+title: '从_自救_到IPO收割机，华为要做下个小米长江？'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220120/v2_e9e1751759af4162af1845d7aeb44a30_img_000'
+author: 36kr
+comments: false
+date: Thu, 20 Jan 2022 03:42:06 GMT
+thumbnail: 'https://img.36krcdn.com/20220120/v2_e9e1751759af4162af1845d7aeb44a30_img_000'
+---
+
+<div>   
+<p><span style="letter-spacing: 0px;">中基协信息显示，“哈勃科技创业投资有限公司”在今年1月14日完成了私募基金管理人备案登记，机构类型是私募股权、创业投资基金管理人。完成私募基金管理人备案后，哈勃投资可以成立私募基金产品，面向个人和机构合格投资者募集资金，进行股权创业投资。这意味着由<a class="project-link" data-id="25167" data-name="华为" data-logo="https://img.36krcdn.com/20210806/v2_cdf6feb963574c9cb91b2818615c6072_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25167" target="_blank">华为</a>100%控股，以企业战投为主要任务的哈勃投资，正式进军私募基金。</span><br></p> 
+<h2 label="一级标题" style>01 <strong style="letter-spacing: 0px;">“自救”却意外3年收获5个IPO</strong></h2> 
+<p>华为成立哈勃投资纯属“意外”和“被动”。2019年之前，华为一心专注于自主研发，“不投供应商”成为其一贯作风与原则，但一切随着美国对华为公司各项制裁发生了改变。美国商务部将华为纳入“实体清单”后，美国发布新规禁止华为及其供应商使用美国技术和软件，华为旗下全资子公司<a class="project-link" data-id="67255" data-name="海思半导体" data-logo="https://img.36krcdn.com/20210807/v2_5b078f4114d74cb6b3b9a3b1a4f21257_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/67255" target="_blank">海思半导体</a>停摆，华为麒麟9000芯片成了绝版。</p> 
+<p>为了应对西方技术管制，华为在2019年4月23日正式注册成立了哈勃科技创业投资有限公司，注册时资本为7亿元人民币，其后进行了两次工商变更，目前注册资本为30亿元。此外工商信息显示，目前哈勃投资仍是华为百分比控股投资公司，华为投资控股有限公司工会委员会占99.25%，华为创始人任正非个人占股0.75%。</p> 
+<p>在芯片受制裁之前，华为海思一直采用的是Fabless模式，即只负责芯片的电路设计与销售，将生产、测试、封装等环节外包。制裁后，华为不得不考虑自建晶圆厂，并从Fabless模式转为IDM（Integrated DeviceManufacture）模式，即集芯片设计、芯片制造、芯片封装和测试等多个产业链环节于一身。</p> 
+<p>华为常务董事CEO余承东曾坦言道：“当时只选择芯片研发领域，而忽视了重资产的芯片制造领域是个错误”。痛定思痛之后，华为通过成立全资投资机构华为哈勃的形式，开始对半导体产业上游材料、设备以及半导体制造工艺技术上进行布局，借以保障在芯片上从设计、生产到供应链都能够安全可控。</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>华为哈勃投资2019-2021年投资项目数量统计</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220120/v2_e9e1751759af4162af1845d7aeb44a30_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>数据来源：烯牛数据</p> 
+<p>三年来，哈勃投资进行了73起投资，其中85%以上投在了半导体领域。由于华为计划自己建立晶圆厂，因此在半导体材料、制造、封装测试上的投资企业多达14家，占比达32%。第三代半导体企业投资了包括<a class="project-link" data-id="634843" data-name="天域半导体" data-logo="https://img.36krcdn.com/20210814/v2_197125bf9b034fa59060820da39c08f0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/634843" target="_blank">天域半导体</a>、<a class="project-link" data-id="234987" data-name="天科合达" data-logo="https://img.36krcdn.com/20210809/v2_4155d70696bf4f618b4f29588bca4bf3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/234987" target="_blank">天科合达</a>、山东天岳在内的7家公司。第三代半导体生产步骤主要包括单晶生长、外延层生长以及器件/芯片制造，从目前投资情况来看，哈勃投资在第三代半导体的主要生产步骤均有布局。</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>华为哈勃半导体投资赛道情况</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220120/v2_71e2da1c2fbd4d1dacb7684a81b33a30_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>数据来源：烯牛数据</p> 
+<p>虽然华为设立哈勃投资初衷在于“自救”，但短短三年却收获颇丰，不仅收获了<a class="project-link" data-id="392102" data-name="思瑞浦" data-logo="https://img.36krcdn.com/20210811/v2_4eec82252d7349ae9ee35e47b3f625fe_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/392102" target="_blank">思瑞浦</a>、<a class="project-link" data-id="416901" data-name="灿勤科技" data-logo="https://img.36krcdn.com/20210811/v2_f25c986d1a5e4ae083a239338a2a24e9_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/416901" target="_blank">灿勤科技</a>、东芯股份、炬光科技、天岳先进5个IPO，并且包括<a class="project-link" data-id="111579" data-name="纳芯微" data-logo="https://img.36krcdn.com/20210808/v2_fabb92b713354cc28a01b53b5bc0ffe3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/111579" target="_blank">纳芯微</a>、美芯晟、<a class="project-link" data-id="595185" data-name="东微半导体" data-logo="https://img.36krcdn.com/20210814/v2_d832e379faba4dc49e20ab67abba1d84_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/595185" target="_blank">东微半导体</a>、裕大微电子、好达电子、长光华芯等在内的8家公司处于上市辅导亦或IPO申请阶段。</p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>华为哈勃投资IPO情况</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220120/v2_515544ae46cd46c684b3eb034498a0d4_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>数据来源：公开数据整理</p> 
+<p>从对华为哈勃投资成果统计看，5家IPO企业平均回报达到了16.9倍，并为哈勃投资带来超过63亿元账面收益。其中，公开信息显示2021年四季度哈勃投资已减持思瑞浦少量股份，套现6125万元，本钱已落袋为安。</p> 
+<p>作为2019年才刚刚入场投资的“小学生”，华为哈勃的投资成绩为何能够毫不逊色于在投资圈打拼、沉浮多年的老牌VC机构？</p> 
+<h2 label="一级标题" style>02 <strong style="letter-spacing: 0px;">华为哈勃怎么投的那么好？</strong></h2> 
+<p>哈勃投资登记的两位高管信息，一位是哈勃科技法定代表人、董事长、总经理白熠，目前也是华为全球金融风险控制中心总裁，自哈勃投资资立起2019年4月即担任该公司法人及CEO。哈勃投资的合规风控负责人是孔妍，也是在哈勃投资成立时开始任职哈勃投资，成为公司董事。从孔妍履历来看，也是华为的老员工，2006年2月加入华为技术有限公司，担任区域财经管理部项目财务，2012年7月成为华为经营管理部财务专家。</p> 
+<p>从投资团队来看，其实并没有太多VC以及CVC投资经验，但是哈勃投资怎么从风投门外汉直接晋身为IPO收割机的呢？这恐怕首先在于华为想投和想做的正好踩中了政策红利。受政策和市场环境变化影响，2019年开始大量资金投向了国内半导体产业，2020年投资项目数量达到534个，融资额达1536亿，是2019年投资额的4倍，而直到现在半导体行业仍处于投资热点赛道。此外，华为手中还有个杀手锏那就是懂行！</p> 
+<p><strong>1、在卡脖子技术上找突破</strong></p> 
+<p>从半导体产业竞争力来看，我国半导体材料、半导体设备以及半导体制造总体处于中等落后水平，虽然近年来在诸如抛光、刻蚀、清洗、靶材、特种气体等一些领域取得较大进步，但光刻机、高端光刻胶这样的核心技术目前仍然只能依赖于进口，对此2014年9月国家成立了国家集成电路产业投资基金，重点投资集成电路新品制造业、设备以及材料等产业。</p> 
+<p>虽然有国家的产业政策和基金对国内半导体产业关键性短板技术进行支持，但华为哈勃对处于初级阶段，投资风险很大的短板技术也进行了投资。2020年下半年到2021年9月，华为哈勃就投资了九<a class="project-link" data-id="34666" data-name="同方微电子" data-logo="https://img.36krcdn.com/20210806/v2_7c6dfc0bb3c84065a4c2ccfef62e138b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/34666" target="_blank">同方微电子</a>、无锡<a class="project-link" data-id="4262311" data-name="飞谱电子" data-logo="https://img.36krcdn.com/20210610/v2_683f8f1a76824b22be878f29bf6b9fe6_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/4262311" target="_blank">飞谱电子</a>、立芯软件、阿卡<a class="project-link" data-id="57032" data-name="思微" data-logo="https://img.36krcdn.com/20210807/v2_783e0618ee82490c8602088721bf3060_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/57032" target="_blank">思微</a>电子四家EDA软件开发公司，其中立芯软件和阿卡思微电子都2020年才成立的新公司，即获得了华为哈勃战略投资。EDA，即电子设计自动化，指的是通过计算机辅助设计软件来完成超大规模集成电路芯片功能设计，设计环节包括芯片的功能设计、综合、验证、物理设计等，也被视为“芯片之母”。虽然国内芯片设计水平达到国际水平，但由于国内EDA集成电路设计软件的落后，GPU、CPU总线设计的90%都要依靠英国ARM公司，如果没有其授权，包括海思在内的国内芯片设计、研发企业其实什么也做不了。</p> 
+<p>此外，华为哈勃还投资了<a class="project-link" data-id="500207" data-name="强一半导体" data-logo="https://img.36krcdn.com/20210813/v2_3998c9f75b2e42f8ba5eff7ade7c685b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/500207" target="_blank">强一半导体</a>，强一半导体是一家集成电路晶圆测试探针卡供应商。探针卡是芯片测试环节的核心零部件，占据整个测试治具总成本的70%。作为一种测试接口，探针卡会对裸芯片进行测试，筛选出不良品。一直以来，半导体测试探针市场一直被国外厂商垄断。<a class="project-link" data-id="384887" data-name="科益虹源" data-logo="https://img.36krcdn.com/20210811/v2_9df0a056f53a46c5a0226f176bf6d3c1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/384887" target="_blank">科益虹源</a>则是国内唯一、全球第三家具备193nm ArF准分子激光技术研究和产品化的公司，也是国内光刻机厂商上海微电子的光源系统供应商。今年8月投资的<a class="project-link" data-id="617559" data-name="博康信息" data-logo="https://img.36krcdn.com/20210814/v2_c8d48ecf93e9440b97a34185c0b6a52a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/617559" target="_blank">博康信息</a>是一家光刻胶单体产业化生产商，公司主打产品是193nm光刻胶单体以及OLED材料。可以看到华为哈勃所投资的EDA、光刻光源、探针卡、光刻胶等都是目前中国半导体产业被“卡脖子”的核心领域，是国产芯的短板。</p> 
+<p><strong>2、投芯片还有谁比华为更懂行？</strong></p> 
+<p>作为国内头部ICT企业，华为早期对国内供应商并不算友好，除其作风较为强势外，重要原因在于华为并没有给太多国内企业机会，其供应商一直以全球一流厂商为主。华为被列入美国实体清单后，华为不得不自建晶圆厂并转为IDM模式，而这恰恰给中国大陆地区半导体上、中游全产业链上的中小企业一次难得的发展机会。在产业链可控策略下，华为哈勃基金在投资过程中，华为业务部门的话语权占重要比例。华为业务部门参与华为哈勃投资决策一方面保障了被投企业与华为业务的协同；另一方面由于半导体技术门槛高，专业性极强，兼具理论、研发与市场能力的一线业务人员对项目更具判断力。从其投资企业情况也可以看出，哈勃投资的公司大多处于B轮之前的早期阶段项目，并且战略投资占了90%以上。虽然哈勃投资的公司与其各自领域中的龙头企业存在差距，但由于公司处于初创期，因此能够更好的融合到华为半导体供应链体系，并在最小成本下实现华为的供应链可控目标。</p> 
+<h2 label="一级标题" style>03 <strong style="letter-spacing: 0px;">进军私募对华为哈勃意味着什么？</strong></h2> 
+<p>依托华为自身所拥有的半导体终端市场，华为哈勃展现出与财务基金最大的不同之处：除了给予被投企业资金支持外，华为哈勃还在业务上与被投项目进行深入合作，将其纳入华为的供应商体系，给予订单甚至在技术上给予支持，具有明显的CVC产业基金特征。</p> 
+<p>以模拟芯片厂商思瑞浦为例，在其披露的招股书中，客户A是思瑞浦的第一大客户，其所占思瑞浦营业收入比例高达57.13%。根据一些关<a class="project-link" data-id="143259" data-name="联信" data-logo="https://img.36krcdn.com/20210808/v2_5eea4e55fcea4566a6fd09751ec6186d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/143259" target="_blank">联信</a>息分析，这个客户A就是华为。招股书显示，思瑞浦在2016年和华为建立合作关系，2017年，获得华为合格供应商的认证。2019年，华为旗下的哈勃投资通过定向增发，入股思瑞浦，进一步深入合作，华为成为了思瑞浦的第一大客户。另一个例子是灿勤科技，2019年，灿勤科技成为华为的战略核心供应商，也是华为5G基站滤波器的第一大供应商，其来自华为的订单占据其营业收入的91.34%。2020年，哈勃投资通过股权转让的方式入股灿勤科技，持股比例为4.58%。</p> 
+<p>服务于华为并与华为产业深度捆绑是哈勃投资最为特殊的基因，这样一只服务于自己企业的产业投资机构进军私募，从CVC向VC演化真的会那么容易吗？哈勃投资选择进入私募，想走与<a class="project-link" data-id="121888" data-name="小米" data-logo="https://img.36krcdn.com/20200729/v2_7ad3d765f1d844018b8f4e75c4c8050d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/121888" target="_blank">小米</a>长江基金类似的路，用更多社会资本进一步深化自身在产业链上的布局与协同，那么小米长江基金的路也适合华为哈勃吗？当财务投资追求回报目标与华为产业链安全可控目标相冲突时，又该怎样解决？</p> 
+<p>与华为100%控股华为哈勃不同，小米长江基金中小米出资仅占17.3%；此外，与华为投资半导体产业核心目标在于打造可控半导体供应链不同，小米投资半导体产业核心目标打<a class="project-link" data-id="69649" data-name="造物" data-logo="https://img.36krcdn.com/20210807/v2_43275c2846a240d09ea6e4c27b858a60_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/69649" target="_blank">造物</a>联网、智能家居、可穿戴设备、车联网、智能制造、工业互联网业务生态。因此，与华为的‘战略扶持’式投资相比，小米长江的投资风格更偏向市场化，但这并不代表小米长江与被投企业的关系仅停留在财务投资。小米生态链一直是小米所提倡的模式，2017年小米长江产业基金成立之前，小米已投资77家智能硬件生态公司，其中5家已成为估值超过10亿美元独角兽企业。小米及其投资的智能硬件公司可以为小米长江所投企业提供市场订单同时，还能让项目方在研发阶段就可以与企业进行充分磨合，从而形成生态效应。</p> 
+<p>由此可见，华为与小米的业务生态、模式并不相同，小米从产业投资向私募进军时，其所投企业已形成业务和投资生态并能彼此赋能，而围绕半导体产业<a class="project-link" data-id="104594" data-name="链投" data-logo="https://img.36krcdn.com/20210808/v2_2ce6782a25eb42b78400f43438a39882_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/104594" target="_blank">链投</a>资的华为哈勃是否也能形成投资生态，让所投项目可以脱离华为体系，成为行业“标品”尚需时间验证。</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MjM5MjI0Nzk5NA==&mid=2650128915&idx=2&sn=ebe610d1b3c28e3804ccf300a142469e&chksm=bea85bc689dfd2d02a714d1c0ef299fa8a7870a9d207cdaea95ae735627e77d5fe6ec7452519#rd">“融中财经”（ID：thecapital）</a>，作者：李然，编辑：吾人，36氪经授权发布。</p>  
+</div>
+            

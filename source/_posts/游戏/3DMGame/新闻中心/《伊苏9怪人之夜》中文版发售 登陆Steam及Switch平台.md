@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220120/1642647312_6435
 
 <div>   
 <p style="text-indent:2em;">
-今日（1月20日），云豹娱乐宣布繁体中文版《<a target="_blank" href="https://www.3dmgame.com/games/ys9/">伊苏9</a>：怪人之夜》已正式登陆Steam及Switch平台，目前该作Steam国区售价为351.94元，发售限时特惠316.74元，感兴趣的玩家可以点击此处进入商店页面。
+今日（1月20日），云豹娱乐宣布繁体中文版《<a target="_blank" href="https://www.3dmgame.com/games/ys9/">伊苏9</a>：怪人之夜》已正式登陆Steam及Switch平台，目前该作Steam国区售价为351.94元，发售限时特惠316.74元，感兴趣的玩家可以<a href="https://store.steampowered.com/app/1732330/IX/" target="_blank">点击此处</a>进入商店页面。
 </p>
 <p style="text-indent:2em;">
 <strong>游戏宣传片：</strong> 

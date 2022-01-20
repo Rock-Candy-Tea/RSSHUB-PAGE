@@ -5,53 +5,61 @@ categories:
  - 编程
  - 开源中国
  - 问答主题
-headimg: 'https://oscimg.oschina.net/oscnet/up-0d1c0a54ebcc6c09d1fbebdf2eac47fbf66.png'
+headimg: 'https://oscimg.oschina.net/oscnet/up-43b68600a243780793adcbaaf98ba88c471.png'
 author: 开源中国
 comments: false
 date: Sun, 20 Dec 2020 21:55:00 GMT
-thumbnail: 'https://oscimg.oschina.net/oscnet/up-0d1c0a54ebcc6c09d1fbebdf2eac47fbf66.png'
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-43b68600a243780793adcbaaf98ba88c471.png'
 ---
 
 <div>   
 <p><strong><a href="https://www.oschina.net/question/topic/weekly-news?show=time" rel="nofollow">回顾一周社区热门资讯</a></strong></p> 
-<p>第【九十三】期：20201212-20201218</p> 
-<p><img height="801" src="https://oscimg.oschina.net/oscnet/up-0d1c0a54ebcc6c09d1fbebdf2eac47fbf66.png" width="1071" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123816/google-will-close-android-things" target="_blank" rel="nofollow">谷歌将关闭物联网开发平台 Android Things</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">Android Things 是谷歌于 2016 年末推出的物联网开发平台，接替了谷歌此前推出的<span> </span></span>brillo<span style="background-color:#ffffff; color:#333333"> 项目，旨在帮助 Android 开发者打造物联网 (IoT) 设备。该平台面向智能音箱、安全摄像头、路由器设备、可穿戴设备等，支持视频与音频处理以及通过 TensorFlow 进行板载机器学习。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123603/harmonyos-2-0-dev-beta-released" target="_blank" rel="nofollow">华为发布鸿蒙 OS 2.0 手机开发者 Beta 版</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">开发者可免费申请体验 HarmonyOS 2.0 手机开发者 Beta 版本。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123834/cpp20-published" target="news" rel="nofollow">C++20 标准 (ISO/IEC 14882:2020) 正式发布</a></strong></h4> 
-<p><img src="https://static.oschina.net/uploads/space/2020/1218/115036_RVbt_2720166.png" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123623/rocky-linux-cn-launched" target="_blank" rel="nofollow">Rocky Linux 新进展：中文社区上线，发版计划公布</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">自 Rocky 项目宣布成立以来，这些中文社区的伙伴就一直积极与 Rocky Linux 官方保持沟通，目前已经获取 Gregory Kurtzer 本人的支持，未来团队将与 Rocky Linux 官方实时交换更多信息，以推动 Rocky Linux 在中文地区的落地。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123675/programming-language-security" rel="nofollow">编程语言安全漏洞报告</a></strong></h4> 
-<p><img src="https://static.oschina.net/uploads/space/2020/1217/082215_84BP_4489239.png" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123677/air-fi-can-steal-data-from-gapped-system" target="_blank" rel="nofollow">万物皆可变 Wi-Fi ？研究人员发现新型网络攻击技术</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">攻击者植入到无网络系统中的恶意代码可以操纵计算机 RAM 卡内部的电流，以产生与 Wi-Fi 信号频率一致的电磁波（2.4 GHz），从而实现数据传输。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123682/sponsoring-open-source-developers" target="_blank" rel="nofollow">Cognitect 倡议商业公司赞助开源开发人员</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">如果有持续的赞助，开源开发人员便可以心无旁骛工作，被当做是专业的、独立的手工艺人，而非仅仅使用开源的噱头，实际上贡献寥寥。同时，公司将开源贡献者当做员工一样得雇佣，才是互惠互利的模式——公司业务得到保证，开源开发人员得到报酬。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123684/gtk-4-0-released" target="_blank" rel="nofollow">GTK 4.0 发布</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">GTK (GIMP Toolkit) 是一套跨多种平台的图形工具包，最初为 GIMP 而写，GIMP 是指 GNU 图像处理程序 (GNU Image Manipulation Program)，GIMP 拥有几乎所有图象处理所需的功能，号称 Linux 下的 Photoshop。GTK 后来发展成为 Linux 下开发图形界面应用的主流开发工具。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123780/rust-survey-2020" target="_blank" rel="nofollow">Rust 语言 2020 调查报告发布：Rust 太难，生命周期更难</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">当受访者被问及对于提升 Rust 的采用率有何建议时，许多人提到的一个方案是降低 Rust 的学习难度。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123783/neverware-is-now-part-of-google" target="_blank" rel="nofollow">谷歌收购了可将旧 Windows 7 PC 变为 Chrome OS 的公司</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">与 Windows 10 相比，Chrome OS 对于机器的运行要求相较要低。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123568/cloudlinux-announcing-fork-centos" target="_blank" rel="nofollow">又一团队宣布将构建稳定版 CentOS 分支</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">CloudLinux 是一家服务器供应商，主要业务是为多租户的 Web 和服务器托管公司提供定制的高性能轻量级 Linux 服务器。其定制的 CloudLinux OS 主要是基于 RHEL 和 CentOS 的代码微调改进而来。官方资料显示，CloudLinux OS 拥有超过 200,000 个产品安装和 4,000 个客户，它的用户包括 Liquid Web，1＆1 和 Dell 等公司。 </span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123572/gtk4-macos-improved" target="_blank" rel="nofollow">GTK4 带来更好的 macOS 支持</a></strong></h4> 
-<p><img src="https://static.oschina.net/uploads/space/2020/1216/081053_Ga5z_2720166.jpg" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123567/project-reunion-0-1-0-released" target="_blank" rel="nofollow">微软 Project Reunion v0.1 发布，统一 Win32 和 UWP API</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">包括一个 Hello World 示例，用于测试 Project Reunion API 和 DirectWriteCore。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123458/oracle-linux-wants-centos-users" target="_blank" rel="nofollow">Oracle 建议 CentOS 用户投奔 Oracle Linux，并提供了辅助工具</a></strong></h4> 
-<p><img src="https://static.oschina.net/uploads/space/2020/1215/010537_nb6Y_2720166.png" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123448/finding-critical-open-source-projects" target="_blank" rel="nofollow">谷歌推出为开源项目重要性“打分”的项目</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">大多数组织，无论大小，每天都在利用开源软件来构建现代产品，但许多开源软件项目却正在为获得所需的时间、资源和关注而苦恼。</span></p> 
-<h4><strong><a href="https://www.oschina.net/news/123453/vs-code-integrated-dating-software" target="_blank" rel="nofollow">开发者在 VS Code 中集成约会软件，左滑 pass 右滑喜欢</a></strong></h4> 
-<p><img src="https://static.oschina.net/uploads/space/2020/1215/082555_SULS_4489239.gif" referrerpolicy="no-referrer"></p> 
-<h4><strong><a href="https://www.oschina.net/news/123334/risc-v-international-report-2020" target="_blank" rel="nofollow">RISC-V 基金会：确保技术不受地区边界影响</a></strong></h4> 
-<p><span style="background-color:#ffffff; color:#333333">整个 2020 年，RISC-V 的技术社区发展至 50 多个技术和特殊兴趣小组，开发者人数超过 2300 人，同比增长 66% 。</span></p> 
-<p><strong><span style="color:#d35400">上期：</span><a href="https://www.oschina.net/question/3820517_2320411" target="_blank" rel="nofollow">CentOS重开</a></strong></p> 
-<p><strong><span style="color:#d35400">往期：</span><a href="https://www.oschina.net/question/topic/weekly-news?show=time" rel="nofollow">一周热点</a></strong></p>
+<p>第【九十六】期：20210123-20210129</p> 
+<p><img height="507" src="https://oscimg.oschina.net/oscnet/up-43b68600a243780793adcbaaf98ba88c471.png" width="400" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/127619/pyston-2-1-released" target="_blank" rel="nofollow">Pyston 2.1 发布，Python 的高度兼容实现</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">Pyston 开发团队曾表示未来会把 Pyston v2.x 的代码开源，但目前由于编译器项目成本非常高，而且缺少企业赞助（此前由 Dropbox 提供赞助），所以暂时选择将 v2 闭源，与此同时会在这一阶段解决商业模式的问题。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127618/codingame-developer-survey-2021" target="_blank" rel="nofollow">求职中最吃香的编程语言</a></strong></h4> 
+<p>某些编程语言在开发人员中很流行，但在招聘公司眼中却并不受重视。</p> 
+<h4><strong><a href="https://www.oschina.net/news/127711/apache-superset-tlp" target="_blank" rel="nofollow">Apache Superset 成为 ASF 顶级项目</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">Apache Superset 是一款现代化的开源数据工具，用于数据探索和数据可视化。它提供了简单易用的无代码可视化构建器和声称是最先进的 SQL 编辑器，用户可以使用这些工具快速地构建数据仪表盘。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127714/sifive-risc-v-inventor-kit" target="_blank" rel="nofollow">SiFive 推出 RISC-V 儿童编程套件</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0125/084126_cJqx_4487475.jpeg" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/127757" target="_blank" rel="nofollow">轻量级的 Kotlin 异步 Web 框架 Next 发布 3.0.0.0</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#404040">主要变动是在升级了底层依赖、全面重构了反射、支持协程及全面实现非阻塞能力。其次是优化了 websocket 的使用和定制了很多协程相关的语法糖。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127834/apache-superset-1-0-released" target="_blank" rel="nofollow">Apache Superset 1.0 发布：增强性能和优化体验</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0124/185022_RfO0_2720166.jpg" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/127842/pip-21-drop-support-for-python2-n-3-5" target="_blank" rel="nofollow">pip 21.0 停止支持 Python 2 和 Python 3.5</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">pip 停止支持 Python 2 关联的 issue<span> </span></span>显示<span style="background-color:#ffffff; color:#333333">，此 issue 早在2019年就已提交，不过直到去年年底才真正完成。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127844/startup-failed-n-open-sourced-the-code" target="_blank" rel="nofollow">程序员开源创业失败的产品，希望能帮助到他人</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">项目的源代码当然不是对每个程序员都有用，不过这个案例对于程序员创业却有一定的参考意义，那就是程序员虽然擅长编程，但未必能够清晰地评估市场需求，甚至无法判断什么是正确的需求。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127845/mozilla-owd-published" target="_blank" rel="nofollow">Mozilla 推出 "Open Web Docs" 组织以支持 web 平台文档</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">由几个主要的 MDN 合作伙伴组织合作创建， 旨在为技术作家群体提供有关战略创建和长期维护 Web 平台技术文档的支持，以确保独立于任何单个供应商或组织的<span> </span></span>MDN Web Docs<span style="background-color:#ffffff; color:#333333"><span> </span>等开放 Web 平台文档的长期健康。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127948/twitter-new-open-source-text-editor-api-for-ios-developers" target="_blank" rel="nofollow">Twitter 为 iOS 开发者提供开源文本编辑器 API</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0127/071114_2hQF_2744687.png" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/127950/osi-say-sspl-not-open" target="_blank" rel="nofollow">开源促进会 OSI 强调 SSPL 并不是开源许可证</a></strong></h4> 
+<p><img src="https://oscimg.oschina.net/oscnet/up-adefee5ffeabcf7bd47ab5d1eb46a3ab87f.png" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/127951/oreilly-2021-programming-ai-cloud" target="_blank" rel="nofollow">2021 技术领域趋势报告：Rust 继续增长、低代码是重要趋势</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">Ruby on Rails 在经历了几年的中等稳定表现后，表现出了极强的增长，同比增长 77%；Django 也展现出了大量使用率和 63% 的增长。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/127962/redhat-refused-to-invest-centos" target="_blank" rel="nofollow">CentOS 停止维护的原因：Red Hat 拒绝为其投资</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">Red Hat 参与了许多开源项目和社区，并为他们提供赞助。CentOS Linux 属于其中被赞助的开源项目之一，Red Hat 不但为它提供了资金支持，同时也是积极的 contributor。不过 Red Hat 并没有插手 CentOS Linux 的管理，所以 CentOS Linux 一直都保持着它的独立性。同样的，CentOS 董事会也无法左右 Red Hat 的工作，这些工作当然包括 Red Hat 的投资方向以及赞助项目方面的战略。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/128085/chrome-os-88-released" target="_blank" rel="nofollow">Chrome OS 88 自定义屏保界面，可指纹登录第三方网站</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0128/070355_352Z_2744687.png" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/128091/tailwindcss-v2" target="_blank" rel="nofollow">Tailwind CSS v2.0</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0128/070911_vZSA_2720166.jpg" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/128093/webrtc-standard" target="news" rel="nofollow">WebRTC 成为 W3C 和 IETF 正式标准</a></strong></h4> 
+<p>WebRTC<span style="background-color:#ffffff; color:#333333"> 由用于 Web 实时通信的 JavaScript API 和一组通信协议构成，支持网络上的任何已连接设备成为 Web 上潜在的通信端点。WebRTC 已成为线上通信及协作服务的基石。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/128096/gcc11-support-stdcplusplus20" target="news" rel="nofollow">GCC 11 将支持使用 “-std=c++23”</a></strong></h4> 
+<h4><img src="https://oscimg.oschina.net/oscnet/up-1f3bc7e7451e7b0b8353d131cdfff311ef4.png" referrerpolicy="no-referrer"></h4> 
+<h4><strong><a href="https://www.oschina.net/news/128098/new-linux-sudo-flaw-lets-local-users-gain-root-privileges" target="_blank" rel="nofollow">新的 Linux sudo 漏洞使本地用户获得 root 权限</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">Sudo 实际上就是一个 Unix 程序，它使系统管理员可以为 sudoers 文件中列出的普通用户提供有限的 root 权限，与此同时保留其活动日志。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/128231/firefox-discontinued-pwa" target="_blank" rel="nofollow">桌面端 Firefox 将抛弃 PWA 应用</a></strong></h4> 
+<p><img src="https://static.oschina.net/uploads/space/2021/0129/080407_rGym_2744687.jpg" referrerpolicy="no-referrer"></p> 
+<h4><strong><a href="https://www.oschina.net/news/128233/linux-iouring-ioctl" target="_blank" rel="nofollow">Linux 的新补丁支持基于 io_uring 构建 ioctl</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">IO_uring 于 2019 年 1 月初提出，到 2019 年 3 月初合并到 Linux 内核主线，仅用 2 个月时间就合入了 Linux 5.1，其出色的性能堪称是近年来 Linux 内核中最激动人心的技术创新之一。</span></p> 
+<h4><strong><a href="https://www.oschina.net/news/128235/google-microdroid-for-android-vm" target="_blank" rel="nofollow">谷歌开发 MicroDroid，用于虚拟机的精简版 Android</a></strong></h4> 
+<p><span style="background-color:#ffffff; color:#333333">MicroDroid 本质上依旧是 Android 系统，不过会被精简为最小可运行的版本。XDA 认为此项目将帮助实现在 hypervisor 之上运行精简版 Android，然后用于虚拟化单个 Android 应用，从而无需提供完整的辅助桌面环境。</span></p> 
+<p><strong><span style="color:#d35400">上期：</span><a href="https://www.oschina.net/question/3820517_2321015" rel="nofollow">苹果源码出现“WeChat” | Elasticsearch改协议、AWS直呼好机会</a></strong></p> 
+<p><strong><span style="color:#d35400">往期：</span><a href="https://www.oschina.net/question/topic/weekly-news?show=time" rel="nofollow">一周热点</a></strong> </p>
                   
 </div>
             

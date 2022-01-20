@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/670f7b13cd64bf7bd29854898e4790af.png'
         <strong>店匠SHOPLAZZA</strong><br>
         海外电商B2C独立站销售平台<br>
         C轮 / 1.5亿美元 / 1642645254<br>
-        投资方: 软银愿景基金、云九资本、红杉资本中国、前海母基金、磐晟资产
+        投资方: 软银愿景基金、云九资本、红杉资本中国、前海母基金、磐晟资产、阿布扎比皇室基金、StepStone Group
         
 </div>
             
