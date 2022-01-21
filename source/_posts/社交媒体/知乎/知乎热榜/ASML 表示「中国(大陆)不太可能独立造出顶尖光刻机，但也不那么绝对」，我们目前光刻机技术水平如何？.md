@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-e41f8c3321ff32c3a99d9d0c95cb90a1_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=5998'
 author: 知乎
 comments: false
-date: Fri, 21 Jan 2022 07:39:27 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-e41f8c3321ff32c3a99d9d0c95cb90a1_1440w.jpg'
+date: Fri, 21 Jan 2022 11:17:21 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5998'
 ---
 
 <div>   
-任幻想的回答<br><br><p data-pid="PaUxfK4r">谢邀</p><p data-pid="C_TiVS-A">又是转发的路透社新闻是吧……</p><p data-pid="-HPQq7C-">这新闻内容其实来源自ASML的年度财报发布会中，附带的Q&A环节。整个QA是由ASML的CEO和CFO共同回答。</p><p data-pid="IPOk9W2h">顺便吐槽一下，这么大个国际巨头，居然会在官网把时间写错…2022年1月19日写成了2021。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e41f8c3321ff32c3a99d9d0c95cb90a1_1440w.jpg" data-rawwidth="1177" data-rawheight="1283" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-cdb921b7c62b28f4c0ba301cc2463d64_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e41f8c3321ff32c3a99d9d0c95cb90a1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="MhmZqOIH">路透社记者Toby问了一个很多人问了很多遍的问题：<b>中国的EUV技术能在未来发展出来、甚至替代掉ASML的技术吗？</b></p><p data-pid="QaIJKOvu">ASML的CEO Peter Winnick是这么回答的：</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-6efefff3210d8ad67fcd7c089fc0846c_1440w.jpg" data-rawwidth="1183" data-rawheight="678" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-df5780b20f1709f070dcfa7254658583_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6efefff3210d8ad67fcd7c089fc0846c_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="ZydNnm_h">（以下内容纯听力，大致意思）</p><blockquote data-pid="yHOxkYGu">整个先进的<b>EUV技术来自于过去15-20年的历史积累</b>，和一整个<b>生态技术</b>的累计。<br>举个例子，<b>我们和蔡司（Zeiss）合作，让他们从柏林供给玻璃模块</b>。<br>他们不是直接拿出来的，而是要精密制造，<b>整个制造过程要花费52个礼拜</b>。<br>而在这52个礼拜的背后是几十年的技术累计。<br>而像蔡司这样和我们合作的公司<b>还有好几百家</b>。<br>所以我说，我们是和一整个生态在合作，而中国如果要自己造出来，<b>需要复制一整个生态系统</b>。<br>这很困难，但<b>永远不要说不可能</b>，我相信他们肯定会尝试。<br>那对于他们追赶的速度，我们要做什么呢？<b>加快创新，保持进步</b>。<br><br><br><br><br><br><br></blockquote><p><br></p><p data-pid="1UURpz4l">作为ASML的CEO，这种问题肯定是准备了无数遍了，而回答也的确滴水不漏。</p><p data-pid="y6_0gWn2">如果光就目前看到的消息来看，我们的确难度很大，作为一个外行也非常能想象复制一整个生态系统的困难。</p><p data-pid="Yu9LFvCh">瓦森那协议的限制，让我们不仅是拿不到EUV，甚至是制造EUV相关的材料都没有，比如那个蔡司的玻璃。</p><p data-pid="6-45v63C">除非打破协议，不然未来这一块我们持续被瓶颈，会是大概率事件。</p>  
+欢乐的黄豆的回答<br><br><p data-pid="sbr83Tes">论光刻机，荷兰一直走在世界的前列，尤其是阿斯麦 ASML 几乎垄断了全球顶尖的光刻机技术，成为妥妥的「世界霸主」。</p><p data-pid="F2p74zAB">此前有媒体报道，一年出货也就 200 多台，且表示订单已经供不应求。</p><p data-pid="kATZW-SJ">这就是阿斯麦的底气。</p><p data-pid="V2ZjhKAc">但说到中国能不能，确实也要看到中国和世界的差距，中国任重道远，国产某品牌之前好像报道只能到达 17nm  的技术，而阿斯麦目前已经可以实现 5nm 的技术，并且一台光刻机的售价就是上亿美元。</p><p data-pid="DoEg_t1p">是差距，也是机会，给中国时间、给中国研发的投入，「卡脖子」的事，慢慢来吧，我们又不着急跟你比拼一时的快慢。</p>  
 </div>
             
