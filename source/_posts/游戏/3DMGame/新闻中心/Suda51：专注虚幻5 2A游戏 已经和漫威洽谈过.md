@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220121/1642728480_4785
 Manufacture和其传奇领导Suda51加盟了网易，最近日本媒体Automaton采访了Suda，曝光了工作室当前正在制作的项目。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220121/1642728480_478531.jpg" alt="Suda51：专注虚幻5 2A游戏 已经和漫威洽谈过" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220121/1642728480_478531.jpg" alt="Suda51：专注虚幻5 2A游戏 已经和漫威洽谈过" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Grasshopper正在寻求在未来10年内开发三个新原创IP，为此工作室正在扩充人手，打算从30人扩充到60人。这些游戏将使用虚幻5，整体目标是变成一个“2A”公司（也就是介于独立和3A之间）。
