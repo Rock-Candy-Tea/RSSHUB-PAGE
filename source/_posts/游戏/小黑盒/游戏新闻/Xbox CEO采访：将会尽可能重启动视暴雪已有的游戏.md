@@ -1,0 +1,18 @@
+
+---
+title: 'Xbox CEO采访：将会尽可能重启动视暴雪已有的游戏'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/21/71e8e4548bcd6366eb7918424a8a8f87/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 21 Jan 2022 15:49:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/21/71e8e4548bcd6366eb7918424a8a8f87/thumb.png'
+---
+
+<div>   
+<blockquote><p>本文译自《华盛顿邮报》对Xbox CEO菲尔·斯宾塞的采访，在采访中其声称将会尽可能重启动视暴雪已有的游戏。</p></blockquote><p>随着微软以687亿美元收购了陷入困境的游戏发行商动视暴雪，但动视暴雪此前被卷入了基于性别的歧视和性骚扰的诉讼，所以微软也将承担很多责任，当然也包括着手整合游戏工作室。</p><p _>Xbox的首席执行官菲尔·斯宾塞（Phil Spencer）同时也认为这是微软吸引玩家的机会：一系列长期被弃置的游戏IP。</p><p><img class="lazy" data-height="756" src="https://imgheybox.max-c.com/web/2022/01/21/71e8e4548bcd6366eb7918424a8a8f87/thumb.png" data-width="1439" referrerpolicy="no-referrer"></p><p _>当在接受《华盛顿邮报》采访时斯宾塞表示：“他相信这些问题将得到解决，公司也将致力于能够让员工的才华能够最大限度地展现。”<br></p><p>《使命召唤》、《魔兽世界》和《糖果传奇》这些举世闻名的IP也是微软收购动视暴雪的主要原因。</p><p _>我们在讨论关于动视暴雪旗下IP时，斯宾塞也很高兴能够看到《星际争霸》玩家的热情，他在玩家的反应中看到了玩家对这些停更游戏的爱。</p><p>“我目前还在审查IP列表，”斯宾塞说。“《国王密使》、《吉他英雄》……我记得动视暴雪好像拿到了《毁灭巫师HEXEN》的版权。”</p><p><img class="lazy" data-height="466" src="https://imgheybox.max-c.com/web/2022/01/21/2a3110a5aefe34c49be261f8d2422f44/thumb.jpeg" data-width="824" referrerpolicy="no-referrer"></p><h4 class="img-desc">《毁灭巫师HEXEN》的版权也属于动视暴雪，是一款复古风格的FPS游戏。</h4><p _>微软收购动视暴雪也意味着拥有游戏过去许多作品的版权，包括早些年索尼的吉祥物《古惑狼》，还有有极有影响力的《托尼霍克职业滑板》系列以及如紫色小龙斯派罗等倍受玩家喜爱的游戏角色。<br></p><p>Toys for Bob也是动视暴雪旗下的工作室之一，成功推出了《古惑狼4 It’s About Time》等游戏，但之后被并入《使命召唤》项目进行开发。斯宾塞也表示，Xbox团队将与开发人员探讨如何利用好这些资源。</p><p _>“我们希望在在收购完成我们能够一起合作，以确保我们能够利用好这些玩家们也是我从小就喜爱的游戏IP。” </p><p _>其谈到这笔687亿美元的收购也是试图展示微软在全球游戏领域的杰出地位，特别是在苹果、谷歌、Meta、Netflix和腾讯等巨头公司通过各种项目和投资占领游戏领域的情况下做出的。</p><p><img class="lazy" data-height="791" src="https://imgheybox.max-c.com/web/2022/01/21/2b10382f4a5565521d7562d14575a2cf/thumb.png" data-width="1439" referrerpolicy="no-referrer"></p><p>他认为和任天堂与索尼的竞争是游戏行业一直以来的现状，更担心那些非游戏行业的科技公司会闯入这个领域。</p><p _>“索尼和任天堂在游戏方面有着悠久的历史，”他说。”从长远来看，任天堂不会做任何损害游戏行业的事情，因为这也是他们所致力于发展的事业，索尼也是一样，我相信他们，当然还有V社。而我们看看微软在科技领域的其他竞争对手：谷歌有搜索引擎和Chrome、亚马逊有网络购物、Facebook有社交平台，他们有着大规模的消费者业务，但这些消费者不全是玩家。”</p><p><img class="lazy" data-height="795" src="https://imgheybox.max-c.com/web/2022/01/21/9285f7a1b36dd939bc1d8d6f91c59013/thumb.png" data-width="1440" referrerpolicy="no-referrer"></p><p _>“我同时认为我们有一个优势，就是我们的游戏不局限于必须要在某个设备或平台上运行。玩家的选择对于我们来说这是一个发展的机遇，可能也会对微软产生类似的影响，就像其他一些消费者对那些大型科技企业的影响一样。很高兴我们能从公司和董事会那里得到支持。”</p><p _>斯宾塞在推特上也发帖称，他已经与索尼的高层进行了交谈，微软打算遵守所有动视暴雪的协议，在收购获得批准后也将把这些游戏（如《使命召唤》）发行于PS平台上。</p><p><img class="lazy" data-height="326" src="https://imgheybox.max-c.com/web/2022/01/21/25a82bc7becaaa828cf9335c4501d2fe/thumb.png" data-width="553" referrerpolicy="no-referrer"></p><p>斯宾塞此举也是为公司走向元宇宙提供信息和规划的关键。Metaverse的元宇宙概念已经在游戏行业探索了几十年，但Facebook的创造者马克·扎克伯格对VR驱动的元宇宙的愿景在自去年宣布将公司更名为Meta以来，一直引发着关注。</p><p _>微软首席执行官萨蒂亚·纳德拉（SatyaNadella）甚至在扎克伯格之前就公开支持了元宇宙概念，当时他在2021年5月谈到了微软在创建“元宇宙”中可能发挥的作用。</p><p><img class="lazy" data-height="788" src="https://imgheybox.max-c.com/web/2022/01/21/974ce5a367b624dd89752f93988871bf/thumb.png" data-width="1440" referrerpolicy="no-referrer"></p><p _>“我非常希望这些游戏能够成为我们公司内部的粘合剂，我已经可以看到这些我们所从事事业对我们带来的益处，” 斯宾塞说。“我今天还与《上古卷轴》团队举行了一次会议在《上古卷轴Online》的游戏中，完全就像Zoom 或其他视频会议一样。”</p><p _>动视暴雪制作了《魔兽世界》以吸引了超过1.16亿活跃玩家通过其战网平台游玩。斯宾塞认为这类MMORPG完全就是元宇宙的基础。</p><p><img class="lazy" data-height="794" src="https://imgheybox.max-c.com/web/2022/01/21/93f380cbfac272f3fc5416cb2b892368/thumb.png" data-width="1438" referrerpolicy="no-referrer"></p><p _>“我们作为一家平台公司，多年来一直在发展Xbox和Windows，致力于为玩家提供了在不同的世界之间无缝衔接的体验。”斯宾塞说。<br></p><p _>动视暴雪的收购过程实际上在2021年年底就已经开始，公司上下都在为收购整合做出努力。</p><p _>“我们花时间与动视暴雪的团队一起整理事件，评估员工民意调查，然后与他们就他们的计划进行了很好的讨论。在漫长的收购过程中，微软不会参与动视暴雪目前的法律困境，我们有信心他们能解决这个问题。”</p>  
+</div>
+            
