@@ -22,7 +22,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Kri
 <blockquote class="wp-block-quote">
 <p>Kristin has played an instrumental role sharing Apple’s story of incredible innovation and strong values for more than 15 years. With an extraordinary depth of experience and a long track record of principled leadership, Kristin is uniquely suited for her new role overseeing worldwide communications.</p>
 </blockquote>
-<p>Apple did not provide specifics details on why Low is departing the company after less than a year, only saying she is leaving to spend more time with her family. </p>
+<p>Apple did not provide specific details on why Low is departing the company after less than a year, only saying she is leaving to spend more time with her family. </p>
 <h2 id="h-9to5mac-s-take">9to5Mac’s Take</h2>
 <p>This shakeup is particularly interesting for a number of reasons. For context, Steve Dowling was named vice president of communications for Apple in April 2015, taking the reigns from Katie Cotton. Dowling, however, then abruptly left the company in October 2020. From there, Apple fellow Phil Schiller was in charge of Apple’s public relations until Low was hired in May of 2021. </p>
 <p>When Low joined Apple, the company touted that her “remarkable experience and leadership” would help Apple “write the next chapter” on the “positive impacts” Apple makes on communities around the world. Prior to her time at networking giant Cisco, Low spent time at companies such as Unisys and Dell. </p>
