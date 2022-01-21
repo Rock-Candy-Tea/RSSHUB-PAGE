@@ -8,12 +8,12 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14555/halo_infinite_axis_studios_3.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-01-20 15:08:43
+date: 2022-01-21 00:27:32
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14555/halo_infinite_axis_studios_3.-full.png'
 ---
 
 <div>   
-<video width="100%" controls="controls" height="360" source src="http://player.vimeo.com/external/667295308.hd.mp4?s=3242e97daf8efde24dbcbd47efcf824d2bc3546a&profile_id=170&oauth_token_id=51807581" type="video/mp4"></video><br>+
++
             
                 
                     <h2 class="mb-0 c-name">
