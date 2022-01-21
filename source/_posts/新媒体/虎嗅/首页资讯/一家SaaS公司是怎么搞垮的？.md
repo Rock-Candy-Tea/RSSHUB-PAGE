@@ -1,0 +1,18 @@
+
+---
+title: '一家SaaS公司是怎么搞垮的？'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/content/202201/21/112003612969.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85'
+author: 虎嗅
+comments: false
+date: Fri, 21 Jan 2022 04:33:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/content/202201/21/112003612969.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/PUfVAYmwhmFu2Wv1RmlgbA" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">阿朱说（ID：azhushuo）</span></a><span class="text-remarks">，作者：吕建伟，题图来自：视觉中国</span></p><p>今天早上因为一则消息，让我有一点思考，给大家分享出来。</p><p>有人看好中国SaaS 订阅付费商业模式。</p><p>有人看好中国企业服务：数字业务服务+IT SaaS服务商业模式。</p><p>所以我随手画了一张图，通过这张图上的要素我来思考分析一家公司。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202201/21/112003612969.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" data-w="1000" data-h="707" src="https://img.huxiucdn.com/article/content/202201/21/112003612969.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" referrerpolicy="no-referrer"></p><h3 label="大标题" class="text-big-title">一</h3><p><strong>我最担心的是中国SaaS企业商业模式逻辑坍塌的问题。</strong></p><p>如果SaaS商业逻辑在中国就坍塌，支出永远弥补不了营收，那这个问题就大了。中国要不要搞SaaS订阅商业模式了，这就是严重问题了。</p><h3 label="大标题" class="text-big-title">二</h3><p><strong>其次我思考的是细分赛道选择的问题。</strong></p><p>在中国， 不同的赛道，市场环境不一样，比如国家政策影响和经济周期影响、客户行业市场份额结构、竞争成熟度、付费认知、IT成熟度...。所以一家SaaS公司选择不同的赛道，有的赛道在吃肉、有的赛道在吃土。甚至在同一个细分赛道，你是处于这个赛道的上游业务环节，还是中游业务环节，还是下游业务环节，也都有天壤之别。</p><p>另外，客户市场<span class="text-remarks" label="备注">（大中小）</span>的选择，也是个问题。在中国特别矛盾：大企业往往要私有部署、个性化开发，小型企业和微型企业往往没肉而且自然死亡率高。那中型企业还有很多细分层<span class="text-remarks" label="备注">（一般分为M1中大、M2中、M3中小）</span>。这样豆腐块式的刀刀切割，那留下的市场规模、竞争态势，就很值得考量了。</p><h3 label="大标题" class="text-big-title">三</h3><p><strong>依赖的底层，也是个值得考量的问题。</strong></p><p>很多人曾经抓过红利：有百度的，有阿里电商的、阿里云的、阿里钉钉的，有腾讯微信的、腾信企业微信的，有抖音快手的......</p><p>但，这些大巨头，一旦游戏规则改变，一旦平台依赖抽底，那很多事都不能干了。</p><h3 label="大标题" class="text-big-title">四</h3><p>产品体系和销售体系，这个隐私，在中国企业服务产业，一般都出不了问题。磨呗，哪块板短就补哪块板子呗。体验啊、性能啊、质量啊、安全啊，说是事，但又不是事。</p><h3 label="大标题" class="text-big-title">五</h3><p><strong>中国企业，常出现的问题往往是和资本、财务相关的。</strong></p><p>资本方<span class="text-remarks" label="备注">（创始合伙人）</span>内斗，这是常见搞垮一家公司的中国现象。不外乎就是钱和权的控制。人为财死鸟为食亡，夺人钱财如杀人父母。</p><p>还有财务出现问题，也是常见搞垮一家公司的中国现象。现金流控制、应收账款问题、银行信贷风险、费用支出，全是财务问题。有些是创始人杀红了眼、狂妄到天，妄想短短几年内造一个商业帝国，涨啊涨啊涨啊，大啊大啊大啊，没控制好节奏和资源，现金流断了。有些是创始人已经无心主业，而是抽离主业资金搞自己的另外的事去了。</p><p>还有些和中国的金融市场的资本、信贷运作机制相关。尤其是中国民营企业，想上市、想并购、想信贷，都比较难，所以经常会出现短债长投的问题。</p><h3 label="大标题" class="text-big-title">六</h3><p>人是很大的问题。这也是常见的问题。</p><p>高管团队能力不强不要紧，但出问题往往出在高管团队大内斗、各种山头、办公室政治套路。</p><p>当然，问题都在前三排，根源就在主席台。所以一个创始人有没有综合能力，Hold住这么大的盘、这么复杂的问题，Hold住多方面<span class="text-remarks" label="备注">（包含高管团队、资本方）</span>。</p><h3 label="大标题" class="text-big-title">七</h3><p><strong>资源组织不力造成资源投入了但没达到效果，这往往没啥事。出问题就纠偏呗。</strong></p><p>战略节奏不对，会出一些问题，但及时纠偏也不会出大事。战略节奏不对，比如说不该规模化销售的时候搞了规模化销售、该融资的时机没融资，这都是常见的战略节奏不对。</p><p>但战略选择出问题，这就容易出大问题。比如：</p><ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p>市场选择问题：该不该现在进军大型客户市场？</p></li><li><p>产品问题：该不该搞行业化，该不该扩产品线？<br></p></li><li><p>商业模式问题：该不该搞定制开发服务，该不该开展业务服务？<br></p></li><li><p>竞争问题：该不该和某家正面刚？<br></p></li></ul><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/PUfVAYmwhmFu2Wv1RmlgbA" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">阿朱说（ID：azhushuo）</span></a><span class="text-remarks">，作者：吕建伟</span></p>  
+</div>
+            
