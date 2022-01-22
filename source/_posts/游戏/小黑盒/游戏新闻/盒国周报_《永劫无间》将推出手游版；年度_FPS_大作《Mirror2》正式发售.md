@@ -1,0 +1,18 @@
+
+---
+title: '盒国周报_《永劫无间》将推出手游版；年度_FPS_大作《Mirror2》正式发售'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/21/154380e48923eabdf65b20b17f817728/thumb.png'
+author: 小黑盒
+comments: false
+date: Sat, 22 Jan 2022 08:21:43 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/21/154380e48923eabdf65b20b17f817728/thumb.png'
+---
+
+<div>   
+<p>《盒国日报》每日更新，欢迎各位盒国人关注小伙夫！</p><p><b>听说长按点赞三连，小伙夫中饭能加个鸡腿！</b></p><p>盒报茶话间：传奇游戏公司暴雪曾一手创造了“暗黑”、“星际”和“魔兽”等经典IP，而今动视暴雪被微软收购，<b>你最希望微软以哪些经P作为突破口重塑动视暴雪呢？（文末有投票）</b></p><p><img class="lazy" data-height="1782" src="https://imgheybox.max-c.com/web/2022/01/21/154380e48923eabdf65b20b17f817728/thumb.png" data-width="800" referrerpolicy="no-referrer"></p><p><b>头条：</b><b>《Mirror 2: Project X</b><b>》发售不到十小时，Steam玩家同时在线数达3.8万</b></p><p>年度FPS大作、LSP福报、经典三消游戏续作《Mirror 2: Project X》正式发售，<b>国区售价仅6.6元，赠送两个免费DLC。</b></p><p>发售不到十小时，Steam平台评论数逼近5000，好评率高达“96%”，<b>Steam总评“好评如潮”，<b>Steam玩家同时在线数达3.8万。</b></b><b>（目前仅开放第一张，流程短，且没有补丁）</b></p><p><img class="lazy" data-height="360" src="https://imgheybox.max-c.com/bbs/2022/01/21/716e665ee42e1efcee8cc6f0050d82c5.gif" data-width="640" referrerpolicy="no-referrer"></p><p><b>一、上帝为暴雪关了一扇门，却打开了一个Windows！</b><br></p><p>2022年1月18日晚，“微软以687亿美元收购动视暴雪”这一消息如平地惊雷，震惊了无数游戏玩家，足以载入了游戏史史册。这个曾经创造了“魔兽”、“暗黑”、“星际”等经典IP的传奇公司暴雪，<b>终究没有撑过这个冬天，迎来了它的谢幕。</b></p><p><b>微软的这一张“开年王炸”让同为“御三家”的索尼股价应声下跌13%，蒸发了200亿美元市值，创十四年来最大跌幅。</b>在拥有了“OW”、“暗黑”、“COD”、“星际”等IP加持后，微软如何重整旗鼓？被收购的动视暴雪又能否重铸昔日“暴雪出品，必属精品”的辉煌吗？</p><p><img class="lazy" data-height="960" src="https://imgheybox.max-c.com/bbs/2022/01/21/a1659c4d7aa070aacb689c6336f4aaf7/thumb.jpeg" data-width="1707" referrerpolicy="no-referrer"></p><p><b>二、《战神》移植大获成功，玩家好评如潮，首日在线超6.5万！</b></p><p>备受瞩目的《战神》PC版正式发售，让更多的玩家领略这款“TGA 年度最佳游戏”的魅力，而迎接它的也是玩家的热情和好评。<b>《战神》PC版本首发日Steam同时在线玩家达6.5万人</b>，打破了此前由《地平线：零之曙光》创造的PS移植作品的纪录，同时登上Steam周销榜榜首。</p><p>在PS发售四年后，《战神》仍不减当年勇，吸引了一大批玩家，并赢得了一致好评。<b>Steam商店1.4万条评论中好评率高达“97%”，Steam总评“好评如潮”</b>，<b>既取得“高销量”，又赢得的“好口碑”！</b></p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2022/01/21/52bf7ce9f207ab57bb363abb17010e7d/thumb.png" data-width="460" referrerpolicy="no-referrer"></p><p><b>三、国产武侠大逃杀游戏《永劫无间》将推出手游版</b><br></p><p>据不完全统计，大逃杀游戏《永劫无间》2021年的全球销量达700万套，销售额约14亿，<b>创国产买断制游戏销售额和销量双记录，占据了2021年年国产买断制游戏营收的半壁江山</b>，成为了网易在买断制端游领域的一次成功尝试。</p><p>随着端游的爆火，《永劫无间》宣布在保证提供更好端游内容的同时，将推出手游版，面向受众更多的移动端平台，有望在2022年推出。<b>《永劫无间》端游采用“买断+内购”制的收费模式，不过玩家目前最关心的问题是此次手游版会不会采用内购模式以及是否与端游数据互通。</b></p><p><img class="lazy" data-height="960" src="https://imgheybox.max-c.com/web/2022/01/21/860c9c99da2fe3b81d0dc3c62910c4d7/thumb.jpeg" data-width="1707" referrerpolicy="no-referrer"></p><p><b>四、英国法院已批准“腾讯12.7亿美元收购英国游戏公司Sumo”</b></p><p>在2021年七月，腾讯首次对外宣布：<b>将以12.7亿美元的价格收购《除暴战警3》与《麻布仔大冒险》开发商的英国母公司Sumo Group</b>。据外媒报道，该收购案已经获得美国外国投资委员会和英格兰与威尔士高等法院的批准。</p><p>据悉，Sumo 一共参与制作了60多款游戏，包<b>括《杀手2》、《除暴战警3》、《极限竞速地平线》等知名大作，另还和微软工作室、世嘉、索尼、苹果达成了战略伙伴关系</b>，并与多家知名游戏开发商合作制作3A级游戏大作。</p><p><img class="lazy" data-height="296" src="https://imgheybox.max-c.com/bbs/2022/01/21/445733f78c6e551ce485a9d71511ba3d/thumb.png" data-width="527" referrerpolicy="no-referrer"></p><p><b>五、《怪物猎人：崛起》PC版在线玩家数破十万，远远低于前作同期</b><br></p><p><b>《怪物猎人：崛起》PC版于1月13日正式发售，首日Steam玩家同时在线数仅为9.8万，截</b><b>至</b><b>今日峰值在线为“13万”</b>，而前作《怪物猎人：世界》PC版本首日玩家同时在线人数便高达24万，并在数日内冲击至33.5万峰值在线人数。</p><p>之所以数据大大不如前作，<b>一方面是因为《怪物猎人：崛起》Steam国区首发价高达“396元”，性价比过低</b>，另一方面，画面表现力仍处于“怪猎：世界”水平，落后于本世代主流大作，不过依然有着《怪物猎人》系列的优秀底子。</p><p><img class="lazy" data-height="215" src="https://imgheybox.max-c.com/bbs/2022/01/21/b11b7ff091b31325300f454c5f9fd134/thumb.png" data-width="460" referrerpolicy="no-referrer"></p><p>感谢阅读，明天再见！</p><p>听说一键三连，小伙夫中饭能加个鸡腿！<a href="heybox://open_subject" target="_blank">#盒国日报#</a></p>  
+</div>
+            
