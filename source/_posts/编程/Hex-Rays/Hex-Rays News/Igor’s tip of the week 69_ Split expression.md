@@ -5,11 +5,11 @@ categories:
  - 编程
  - Hex-Rays
  - Hex-Rays News
-headimg: 'https://picsum.photos/400/300?random=1416'
+headimg: 'https://picsum.photos/400/300?random=9625'
 author: Hex-Rays
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1416'
+thumbnail: 'https://picsum.photos/400/300?random=9625'
 ---
 
 <div>   
