@@ -8,7 +8,7 @@ categories:
 headimg: 'https://imgopt.infoq.com/fit-in/1200x2400/filters:quality(80)/filters:no_upscale()/news/2022/01/kubernetes-dockershim-removal/en/resources/1cri-containerd-1642536386693.png'
 author: Dockone
 comments: false
-date: 2022-01-22 05:06:57
+date: 2022-01-22 06:10:03
 thumbnail: 'https://imgopt.infoq.com/fit-in/1200x2400/filters:quality(80)/filters:no_upscale()/news/2022/01/kubernetes-dockershim-removal/en/resources/1cri-containerd-1642536386693.png'
 ---
 
