@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/2c24dc58-e04d-4fc3-8a86-7bc0caa92539.JPG'
 author: 机核网
 comments: false
-date: 2022-01-23 12:12:43
+date: 2022-01-23 13:11:00
 thumbnail: 'https://image.gcores.com/2c24dc58-e04d-4fc3-8a86-7bc0caa92539.JPG'
 ---
 
 <div>   
-<img src="https://image.gcores.com/2c24dc58-e04d-4fc3-8a86-7bc0caa92539.JPG" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-1oj9r" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="1oj9r" data-offset-key="43un-0-0"><div data-offset-key="43un-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="43un-0-0"><span data-text="true">在索尼公开“银河系色彩”系列 PS5 主机护盖与 DualSense 手柄配色时，我第一反应是想到了佳能为 IXUS 系列数码相机拍摄的电视广告，一首 Bee Gees 的《Stayin' Alive》配上一镜到底的拍摄确实十分抓眼球。我们在近日收到了国行版星光蓝、星幻粉和银河紫三款新配色的 DualSense 手柄，DualSense 手柄的使用体验我们此前已经分享过很多内容，今天就着重来看看这三款配色是否会成为你添置新手柄的选择。</span></span></div></div>
+<img src="https://image.gcores.com/2c24dc58-e04d-4fc3-8a86-7bc0caa92539.JPG" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-cn01t" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="cn01t" data-offset-key="43un-0-0"><div data-offset-key="43un-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="43un-0-0"><span data-text="true">在索尼公开“银河系色彩”系列 PS5 主机护盖与 DualSense 手柄配色时，我第一反应是想到了佳能为 IXUS 系列数码相机拍摄的电视广告，一首 Bee Gees 的《Stayin' Alive》配上一镜到底的拍摄确实十分抓眼球。我们在近日收到了国行版星光蓝、星幻粉和银河紫三款新配色的 DualSense 手柄，DualSense 手柄的使用体验我们此前已经分享过很多内容，今天就着重来看看这三款配色是否会成为你添置新手柄的选择。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/26b036dd-68e3-499d-84e4-66e72f52acf1.JPG" alt referrerpolicy="no-referrer">
 
@@ -53,6 +53,6 @@ thumbnail: 'https://image.gcores.com/2c24dc58-e04d-4fc3-8a86-7bc0caa92539.JPG'
 <figure>
 <img src="https://image.gcores.com/971e4bf5-67b7-490c-a64e-bfb838be21d9.JPG" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="1oj9r" data-offset-key="2b2sb-0-0"><div data-offset-key="2b2sb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2b2sb-0-0"><span data-text="true">目前这三款手柄在索尼线上官方店铺均有销售，而且国行版手柄拥有12个月的质量保证服务。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block story_block-text " data-block="true" data-editor="cn01t" data-offset-key="2b2sb-0-0"><div data-offset-key="2b2sb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="2b2sb-0-0"><span data-text="true">目前这三款手柄在索尼线上官方店铺均有销售，而且国行版手柄拥有12个月的质量保证服务。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
