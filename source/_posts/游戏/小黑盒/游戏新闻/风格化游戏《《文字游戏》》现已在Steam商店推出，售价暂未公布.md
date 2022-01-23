@@ -1,0 +1,18 @@
+
+---
+title: '风格化游戏《《文字游戏》》现已在Steam商店推出，售价暂未公布'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1109570/header.jpg?t=1642759192'
+author: 小黑盒
+comments: false
+date: Sun, 23 Jan 2022 15:33:48 GMT
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1109570/header.jpg?t=1642759192'
+---
+
+<div>   
+<p><img class="lazy" data-gameid="1109570" data-height="152" src="https://cdn.akamai.steamstatic.com/steam/apps/1109570/header.jpg?t=1642759192" data-width="100%" style="width: 100%;" referrerpolicy="no-referrer"></p><p>由Team9开发的风格化、2D游戏《《文字游戏》》现已在Steam商店推出，售价暂未公布，游戏支持简体中文/繁体中文。</p><h2>游戏简介</h2><p></p><h2>游戏机制</h2><p>在这个游戏中，你将操控着人如其名的「我」，想办法在文字的世界中找出生路。举例来说，当你走进一个密室时，尽管游戏内的叙述很明白地告诉你「这里没有门」，但因为这是一款文字游戏，所以你依旧可以走进叙述中的「门」，飒爽离去。</p><p><img class="lazy" data-height="200" src="https://i1.max-c.com/imgx/2022/01/21/86d31de76aea469e800c9f1bcc8c7d141642763465.gif" data-width="600" referrerpolicy="no-referrer"></p><h2>故事介绍</h2><p><img class="lazy" data-height="400" src="https://i1.max-c.com/imgx/2022/01/21/6ae86bb5b30448f5a838aac90d71928c1642763469.gif" data-width="600" referrerpolicy="no-referrer"></p><p>温铎历二一零二年⋯⋯</p><p>魔龙入侵王都，并且将之据为己有。</p><p>从此，便是第五大陆噩梦的开始。</p><p>终于出土年代久远的布林传说，</p><p>每当中土第五大陆面临危急存亡之秋，</p><p>便有英明的勇者为众生挺身而出。</p><p>文明诞生初期曾有中土三贤者，</p><p>打造贝克思贝斯之剑、杜尔手套、四目眼镜。</p><p>三件圣物虽散佚，至今仍流传中土，</p><p>等待着勇者举起圣物——</p><p>化坚强意志为利刃，刺进邪恶魔龙的心脏！</p><p>届时无处不是喜庆乐章，</p><p>人们脸上再燃起拥抱字句的希望。</p><p>勇者现在就要出发！</p><p><img class="lazy" data-height="400" src="https://i1.max-c.com/imgx/2022/01/21/0f6cdbe840184c98a428cf808b3941b71642763480.gif" data-width="600" referrerpolicy="no-referrer"></p><h2>游戏特色</h2><p>「文字游戏」的核心机制就是「字」，以「字」塑造游戏世界里的谜题与人事物。不仅可以走进字面上的门，更能不断解锁各种文字能力。大胆「删字」，你可以铲除「没有门」中的「没」，让门无中生有；或者用力「推字」、果断「拆字」、精心「组字」，创造解谜的丰富变化。</p><p><img class="lazy" data-height="200" src="https://i1.max-c.com/imgx/2022/01/21/684598002e9f4e2e9d412e216c2c219c1642763482.gif" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://i1.max-c.com/imgx/2022/01/21/aba3ebfcd6ee4e99a463c6a2d50c88051642763494.gif" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://i1.max-c.com/imgx/2022/01/21/bdae95b08b4f459a85b5789061f0a0fd1642763495.gif" data-width="600" referrerpolicy="no-referrer"></p><p>想探索更多文字打造的秘密吗？</p><p>欢迎兼具智慧与勇气的你踏上旅程！</p><p><img class="lazy" data-height="400" src="https://i1.max-c.com/imgx/2022/01/21/f58ae3d3a23245e7968ffd6ca4ef05731642763501.gif" data-width="600" referrerpolicy="no-referrer"></p><h2>游戏截图：</h2><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/21/abca972189bd4bde9dfd2a4f6eacc31d1642763511.jpg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/21/e745f7e09b08464d91999685a8d6c2f61642763512.jpg" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/21/37401719b2384f13a06b71c4d2f6b7021642763514.jpg" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/21/1c60b054fee4434eba9dcd4cfb511c531642763515.jpg" data-width="1728" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/01/21/23468a7d5d014ac4b6002107c8706d1a1642763518.jpg" data-width="1920" referrerpolicy="no-referrer"></p>  
+</div>
+            
