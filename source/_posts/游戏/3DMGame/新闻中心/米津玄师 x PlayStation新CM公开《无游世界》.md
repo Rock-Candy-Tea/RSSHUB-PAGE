@@ -18,7 +18,7 @@ SIE索尼互动日亚日前发布了一则30秒版本的PlayStation电视广告 
 Limits》，其中日本音乐人米津玄师出镜，新曲「POP SONG」首次披露。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220123/1642889936_435639.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220123/1642889936_435639.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 该广告在1月24日之前不会在PlayStation Japan YouTube频道上公开发布，但SIE索尼互动日亚已随机向PlayStation 5和PlayStation 4的用户发送了“123 Early Access”通知，并提供了该YouTube视频的链接。
@@ -37,19 +37,19 @@ PlayStation日本推特账户和YouTube频道的横幅也被换成了米津玄�
 </iframe>
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;">视频截图</span></strong>
+<strong><span style="font-size:16px;">视频截图</span></strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_374048.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_374048.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_859056.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"></strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_859056.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"></strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_478666.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_478666.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong> 
 </p>
 <p align="center">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_889885.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong>
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220123/1642890120_889885.jpg" alt="米津玄师 x PlayStation新CM公开《无游世界》" referrerpolicy="no-referrer"> </strong> 
 </p>          
 </div>
             
