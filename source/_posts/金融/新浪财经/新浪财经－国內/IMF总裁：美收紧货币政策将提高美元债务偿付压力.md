@@ -5,11 +5,11 @@ categories:
  - 金融
  - 新浪财经
  - 新浪财经－国內
-headimg: 'https://n.sinaimg.cn/finance/520/w260h260/20220118/ede9-896b9581818d05cba2d799af96e7e82e.png'
+headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Sun, 23 Jan 2022 05:09:05 GMT
-thumbnail: 'https://n.sinaimg.cn/finance/520/w260h260/20220118/ede9-896b9581818d05cba2d799af96e7e82e.png'
+date: Sun, 23 Jan 2022 07:13:57 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
 <div>   
@@ -24,23 +24,8 @@ thumbnail: 'https://n.sinaimg.cn/finance/520/w260h260/20220118/ede9-896b9581818d
 <p cms-style="font-L">　　美联储主席鲍威尔日前表示，美联储或将更多次地加息，并更早更快缩减资产负债表，以应对持续高通胀。</p>
 <p cms-style="font-L">　　IMF此前警告，美联储更快收紧货币政策，可能造成新兴经济体资本外流和货币贬值，经济增长前景更加不确定，新兴经济体应提前做好政策准备。数据显示，受疫情和全球经济衰退影响，2020年全球债务规模达到创纪录的226万亿美元。</p>
 <p cms-style="font-L">　　以往国际金融实践显示，美联储进入紧缩周期将冲击国际金融市场，显著影响全球跨境资本流动、资产定价和汇率稳定。美国财政和货币政策“放水”推动物价飞涨，并通过美元的国际储备货币地位向世界输出通胀，而后通过“收水”促使资本回流到逐渐恢复健康的美国市场，最终令不少国家遭受恶性通胀和资本外流的双重打击。</p>
-<p cms-style="font-L">　　上世纪80年代，美国为应对高通胀收紧货币政策，导致外债杠杆率过高的邻国墨西哥出现债务违约，拉美地区爆发债务危机。</p><!-- news_keyword_pub,stock, --><!-- 开户二维码 start -->
-<style>
-.app-kaihu-qr
-
-&#123;text-align: center;padding: 20px 0;&#125;
-.app-kaihu-qr span
-
-&#123;font-size: 18px; line-height: 31px;display: block;&#125;
-.app-kaihu-qr img
-
-&#123;width: 170px;height: 170px;display: block;margin: 0 auto;margin-top: 10px;&#125;
-</style>
-<div class="app-kaihu-qr">
-<span>集虎卡，开鸿运！最高拆522元惊喜福袋！</span>
-<img src="https://n.sinaimg.cn/finance/520/w260h260/20220118/ede9-896b9581818d05cba2d799af96e7e82e.png" referrerpolicy="no-referrer">
-</div>
-<!-- 开户二维码 end -->
+<p cms-style="font-L">　　上世纪80年代，美国为应对高通胀收紧货币政策，导致外债杠杆率过高的邻国墨西哥出现债务违约，拉美地区爆发债务危机。（完）</p>
+<!--article_adlist[<p cms-style="font-M align-right"><font cms-style="font-M align-right color240">举报/反馈</font></p>]article_adlist--><!-- news_keyword_pub,stock, -->
 
 
 
