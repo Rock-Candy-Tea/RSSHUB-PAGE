@@ -1,0 +1,20 @@
+
+---
+title: 'Win10 Mobile 短暂_重生_，微软 Lumia 950 手机运行_被砍掉_的仙女座 Andromeda OS 视频曝光'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/1/a6c494ff-0a40-4056-8141-070b50dbaa17.png'
+author: IT 之家
+comments: false
+date: Sat, 22 Jan 2022 12:52:47 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/1/a6c494ff-0a40-4056-8141-070b50dbaa17.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1380057" rel="nofollow">ThinkBou</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D789219" rel="nofollow">田牌手机首席设计师</a> 的线索投递！</div>
+            <p data-vmark="9849"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 1 月 22 日消息，据 Windows Central 报道，该媒体今天曝光了微软已经砍掉的仙女座操作系统 Andromeda OS 的早期版本，并设法让它在 Lumia 950 上运行的视频中进行了亲身体验。你可能还记得，仙女座 OS 是微软自己为 Windows Mobile 设备打造的特殊版本的 Windows 系统。这段视频展示了这一切，以及微软为什么会决定推出采用<a class="s_tag" href="https://android.ithome.com/" target="_blank">安卓</a>系统的 Surface Duo 双屏手机，并且放弃了 Windows Phone 或者 <a class="s_tag" href="https://win10.ithome.com/" target="_blank">Windows 10</a> Mobile 手机。</p><p data-vmark="462c"><img src="https://img.ithome.com/newsuploadfiles/2022/1/a6c494ff-0a40-4056-8141-070b50dbaa17.png" w="794" h="572" alt=" Lumia 950 手机" title="Win10 Mobile 短暂“重生”，微软 Lumia 950 手机运行“被砍掉”的仙女座 Andromeda OS 视频曝光" width="794" height="572" referrerpolicy="no-referrer"></p><p data-vmark="3d20"><img src="https://img.ithome.com/newsuploadfiles/2022/1/2146b373-9a45-46af-856c-12c0cba724fd.jpg" w="513" h="434" alt=" Lumia 950 手机" title="Win10 Mobile 短暂“重生”，微软 Lumia 950 手机运行“被砍掉”的仙女座 Andromeda OS 视频曝光" width="513" height="434" referrerpolicy="no-referrer"></p><p data-vmark="3dfb">在系统软件方面，有几个有趣的东西被首次展示，其中一些最终被搭载到 Surface Duo 手机中。其中第一个是锁屏，它在视觉上看起来就像 Surface Duo 版。然而，仙女座操作系统中的锁屏也允许支持电子墨迹，也可以访问 Cortana 来管理通知。</p><p data-vmark="fa97"><img src="https://img.ithome.com/newsuploadfiles/2022/1/3ef97c6f-4ca6-4b79-a50a-da7a86367213.jpg@s_2,w_820,h_485" w="1440" h="851" alt=" Lumia 950 手机" title="Win10 Mobile 短暂“重生”，微软 Lumia 950 手机运行“被砍掉”的仙女座 Andromeda OS 视频曝光" srcset="https://img.ithome.com/newsuploadfiles/2022/1/3ef97c6f-4ca6-4b79-a50a-da7a86367213.jpg 2x" width="1440" height="485" referrerpolicy="no-referrer"></p><p data-vmark="4d9e">另一个是主屏幕，它是一个电子墨水画布和日志。当然，主屏幕也有一个“开始”按钮和动态磁贴，但增加了类似安卓和 Surface Duo 的手势来关闭和切换应用程序。</p><p data-vmark="d44a"><img src="https://img.ithome.com/newsuploadfiles/2022/1/75ebef7b-d765-41f2-af0d-34df856557bc.jpg@s_2,w_820,h_485" w="1440" h="852" alt=" Lumia 950 手机" title="Win10 Mobile 短暂“重生”，微软 Lumia 950 手机运行“被砍掉”的仙女座 Andromeda OS 视频曝光" srcset="https://img.ithome.com/newsuploadfiles/2022/1/75ebef7b-d765-41f2-af0d-34df856557bc.jpg 2x" width="1440" height="485" referrerpolicy="no-referrer"></p><p data-vmark="1716"><img src="https://img.ithome.com/newsuploadfiles/2022/1/1b578c38-7cef-4c63-9361-01f671672676.jpg@s_2,w_820,h_485" w="1440" h="852" alt=" Lumia 950 手机" title="Win10 Mobile 短暂“重生”，微软 Lumia 950 手机运行“被砍掉”的仙女座 Andromeda OS 视频曝光" srcset="https://img.ithome.com/newsuploadfiles/2022/1/1b578c38-7cef-4c63-9361-01f671672676.jpg 2x" width="1440" height="485" referrerpolicy="no-referrer"></p><p data-vmark="d830">IT之家获悉，虽然这次仙女座操作系统是在 Lumia 950 手机上运行的，但它实际从来没有打算正式预装在智能手机上。相反，这款手机是微软内部用来测试仙女座操作系统的。你可以看出，Lumia 950 上的应用可以以一种双屏分割的方式打开，并可以使应用全屏显示，就像你在今天的 Surface Duo 上获得的体验一样。</p><p data-vmark="d252">对于微软的粉丝来说，这段视频提供了有趣的视角，让我们看到了微软公司的过去，以及可能的未来。让我们知道你的想法，请在下面给我们留言。</p><p data-vmark="6c2b">下面是视频：</p><p data-vmark="b581"><a class="ithome_super_player" contenteditable="false" target="_blank" data-timestamp="1642857945870" data-vpreview-url="https://f.video.weibocdn.com/o0/RosjFVOalx07TalXicLm01041204TMjh0E020.mp4?label=mp4_720p&template=1280x720.25.0&trans_finger=1f0da16358befad33323e3a1b7f95fc9&ori=0&ps=1BThihd3VLAY5R&Expires=1642861545&ssig=7CUAkrO%2BVG&KID=unistore,video" href="https://weibo.com/7518947256/LbYm9hX4O?from=page_1005057518947256_profile&wvr=6&mod=weibotime&type=comment"></a></p>
+          
+</div>
+            
