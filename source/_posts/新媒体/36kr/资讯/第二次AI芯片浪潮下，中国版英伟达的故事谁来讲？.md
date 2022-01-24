@@ -18,7 +18,7 @@ thumbnail: 'https://img.36krcdn.com/20220124/v2_5b27d47d9e434d01b3c47fceeea894a8
 <p><strong>国内的芯片热潮主要有两次，第一次是“AI芯片”</strong>——包括图形处理单元（GPU）、现场可编程门阵列（FPGA）和专门用于人工智能的特定应用集成电路（ASIC）。</p> 
 <p>2017年，成立仅17个月的寒武纪获得一亿美元A轮融资，成为AI芯片的首个独角兽；随后地平线也宣布完成了超过一亿美元的融资。与此同时，<a class="project-link" data-id="89566" data-name="深鉴科技" data-logo="https://img.36krcdn.com/20210807/v2_c2ddc92f6ffd457b88bff446b61a317e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/89566" target="_blank">深鉴科技</a>和比特大陆也分别获得了数千万美元的投资。创业公司之外，以<a class="project-link" data-id="29844" data-name="云知声" data-logo="https://img.36krcdn.com/20220120/v2_620aaac98649426ab4b743ea382cc95f_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4780401230?mp=zzquote" target="_blank">云知声</a>、依图为代表的AI公司尝试跨界造芯，以BAT为首的互联网巨头也加入造芯大潮。</p> 
 <p>时至今日，这些创业公司有的已经成为行业独角兽，有的被成功并购，还有的已经成功上市。</p> 
-<p>投资者内，除了红杉、金沙江创投、<a class="project-link" data-id="400388" data-name="创新工场" data-logo="https://img.36krcdn.com/20210811/v2_f26c8f0a2bc54259949dd9c49c0a13aa_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/400388" target="_blank">创新工场</a>这样关注科技领域的顶级VC之外，也不乏芯片行业的龙头，比如投资了地平线的英特尔，投资了深鉴科技的赛灵思、三星等。有些晚入场的投资人甚至感叹，“还没等我弄明白GPU、CPU、ASIC、FPGA的差异，别人就已经投完了”。</p> 
+<p>投资者内，除了红杉、金沙江创投、创新工场这样关注科技领域的顶级VC之外，也不乏芯片行业的龙头，比如投资了地平线的英特尔，投资了深鉴科技的赛灵思、三星等。有些晚入场的投资人甚至感叹，“还没等我弄明白GPU、CPU、ASIC、FPGA的差异，别人就已经投完了”。</p> 
 <p><strong>2020年，芯片行业掀起了第二波创业热潮，这次主要集中在GPU领域。</strong></p> 
 <p>2019年，前<a class="project-link" data-id="4465" data-name="商汤科技" data-logo="https://img.36krcdn.com/20220120/v2_740c03feabaf46538d93f33e208a0f3f_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4876801131?mp=zzquote" target="_blank">商汤科技</a>总裁张文创立了<a class="project-link" data-id="1881327" data-name="壁仞科技" data-logo="https://img.36krcdn.com/20220120/v2_bae28b16c9fe49b7a83aa1ec117044b8_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4873801111?mp=zzquote" target="_blank">壁仞科技</a>，在之后的18个月内累计融资超过47亿元，并先后邀请到华为海思GPU负责人洪洲、AMD全球副总裁李荣新等加盟；2020年，前<a class="project-link" data-id="3969182" data-name="英伟达" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969182" target="_blank">英伟达</a>全球副总裁张建中创办了摩尔线程，在100天内募资数十亿元；几乎同一时期成立的还有沐曦集成电路，创始人陈维良曾任AMD总监，一年内获得四轮融资。</p> 
 <p>融资金额巨大，创始人有英伟达、AMD等国际巨头的工作经验，是这次GPU创业公司的共同标签。</p> 
@@ -41,7 +41,7 @@ thumbnail: 'https://img.36krcdn.com/20220124/v2_5b27d47d9e434d01b3c47fceeea894a8
 <p>过往客户方如果需要用ASIC芯片替换英伟达GPU，就得按照ASIC厂商提供的新一套算法来重新部署，人力成本和试错成本都非常高，客户们望而却步。于是，新创业的GPGPU公司，都将“可兼容”CUDA作为必选项，尽量做到“能在英伟达上跑的都能在国产GPGPU上跑”，让客户更愿意尝试。</p> 
 <p><strong>最后，在国产替代的大背景下，GPU的发展也离不开政策的支持。</strong></p> 
 <p>2020年8月颁布的《新时期促进集成电路产业和软件产业高质量发展的若干政策》指出，“集成电路设计、装备、材料、封装、测试企业和软件企业，自获利年度起，第一年至第二年免征企业所得税，第三年至第五年按照25%的法定税率减半征收企业所得税”。</p> 
-<p>科创板和<a class="project-link" data-id="410967" data-name="北交所" data-logo="https://img.36krcdn.com/20210811/v2_29a28e336d5c4da1bfdb60887d0f8dd0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/410967" target="_blank">北交所</a>的开市，不再将“盈利”作为衡量上市的硬性指标，“允许符合科创板定位、尚未盈利或存在累计未弥补亏损的企业在科创板上市”，让芯片设计企业能够更好地度过盈利周期。</p> 
+<p>科创板和北交所的开市，不再将“盈利”作为衡量上市的硬性指标，“允许符合科创板定位、尚未盈利或存在累计未弥补亏损的企业在科创板上市”，让芯片设计企业能够更好地度过盈利周期。</p> 
 <p>就在2022年1月19日，上海印发的《新时期促进上海市集成电路产业和软件产业高质量发展若干政策的通知》提到，“对于符合条件的设计企业开展有利于促进本市集成电路线宽小于28纳米(含)工艺产线应用的流片服务，相关流片费计入项目新增投资，对流片费给予30%的支持，支持金额原则上不高于1亿元”。</p> 
 <p>在这样的综合影响下，可以说GPU迎来了最好的时代。</p> 
 <p>根据IDC数据，2022年全球AI芯片市场将达352亿美元。其中GPU占比最大，Goldman预计到2025年GPU占比将达到57%。</p> 
@@ -49,15 +49,15 @@ thumbnail: 'https://img.36krcdn.com/20220124/v2_5b27d47d9e434d01b3c47fceeea894a8
 <h2><strong>2.资本涌入GPU</strong></h2> 
 <p>实际上，中国的GPU企业早已有之，但这些公司的GPU主要还在“第一层”——图形计算。</p> 
 <p>成立于2006年的景嘉微是中国第一家GPU的上市公司，公司于2014年研发出第一款全知识产权的GPU芯片JM5400，打破了长期被国外垄断的局面。后续公司又推出JM7和JM9系列芯片，主要应用于军工及政府的图形显示领域。</p> 
-<p>另外还有航锦科技旗下的长沙韶光，专注于办公和娱乐领域。从CPU转向GPU的龙芯、兆芯，从IP核切入GPU的芯原微、芯动，致力于打造全国产化的芯片生态，目前也均在图形领域。</p> 
+<p>另外还有<a class="project-link" data-id="361463" data-name="航锦科技" data-logo="https://img.36krcdn.com/20210811/v2_c0702b2da180438dafd129d8e174a39e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/361463" target="_blank">航锦科技</a>旗下的长沙韶光，专注于办公和娱乐领域。从CPU转向GPU的龙芯、兆芯，从IP核切入GPU的芯原微、芯动，致力于打造全国产化的芯片生态，目前也均在图形领域。</p> 
 <p><strong>而在2020年左右成立的这些创业公司，却希望攻坚能够同时满足图形处理和AI计算的GPU，也即现在国内所说的GPGPU（通用GPU，General-purposeGPU）。</strong></p> 
 <p>根据「甲子光年」统计，仅2020~2021年，GPGPU领域就有近20起融资事件发生。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,809" src="https://img.36krcdn.com/20220124/v2_d31cb5255d9446d0bd6803ae461a5151_img_000" referrerpolicy="no-referrer"></p> 
 <p><strong>天数智芯、登临科技、壁仞科技、摩尔线程、沐曦集成电路</strong>是国产通用GPU的代表性公司，在资本市场备受关注，甚至会在一年内密集宣布三轮融资。</p> 
-<p>之所以融资速度极快，是因为GPU是一个极度花钱的行业，前期投入大，回报周期长。投资了壁仞科技的启明创投合伙人周志峰曾问其创始人张文：“你知道这事儿需要多少钱吧？”张文回答：“8到10亿美金。”</p> 
+<p>之所以融资速度极快，是因为GPU是一个极度花钱的行业，前期投入大，回报周期长。投资了壁仞科技的启明创投合伙人周志峰曾问其创始人张文：“你知道这事儿需要多少<a class="project-link" data-id="49499" data-name="钱吧" data-logo="https://img.36krcdn.com/20210807/v2_49edb32dc6b54c2a93b902b4a073c04b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/49499" target="_blank">钱吧</a>？”张文回答：“8到10亿美金。”</p> 
 <p>这可比造车还要烧钱。</p> 
 <p>贵，也是这批GPU公司的一大特点。比如，壁仞科技的A轮融资就有11亿元人民币，估值2亿美元。在这些公司的投资名单中，几乎集齐了市面上最知名的VC/PE和产业基金。</p> 
-<p>各家的投资方里均有国有资本参与投资。不同于2017年<a class="project-link" data-id="598297" data-name="资本界" data-logo="https://img.36krcdn.com/20210814/v2_8ff641049e9e4f1d8f80862924b7312a_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/598297" target="_blank">资本界</a>的速度、财力之争，在GPGPU的投资赛场上，似乎更有种“没有点实力投资不了”的意思。这一方面或许是由于政策上的优惠让国有资本更愿意承担风险，另一方面也是因为在国有资本的加持下更方便进一步推进国产化的产品落地。</p> 
+<p>各家的投资方里均有国有资本参与投资。不同于2017年资本界的速度、财力之争，在GPGPU的投资赛场上，似乎更有种“没有点实力投资不了”的意思。这一方面或许是由于政策上的优惠让国有资本更愿意承担风险，另一方面也是因为在国有资本的加持下更方便进一步推进国产化的产品落地。</p> 
 <p>此外，产业资本更早地进入投资市场。过往创业者对产业资本更倾向于保守的态度，因为选择业内龙头企业的加持往往意味着站队，意味着不能再与许多公司合作。相对应的，产业资本也更倾向于在企业有了产品之后，再进行合作和投资。</p> 
 <p>但现今的情况已经大不一样，<a class="project-link" data-id="378780" data-name="登临科技" data-logo="https://img.36krcdn.com/20210811/v2_a3ae665f982c42d283f677c48652a341_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/378780" target="_blank">登临科技</a>与安防企业、壁仞科技与平安都在B轮就铺垫了未来的合作。</p> 
 <p>随着2021年投资的热点从大消费转向科技，科技领域的热点又从模式创新转向技术创新，作为“硬科技”代表的芯片赛道，更加成为资本的焦点。云岫资本的一份统计显示，2020年半导体行业股权投资超过1400亿元人民币，相较于前一年增长近四倍，这也是中国芯片一级市场有史以来投资额最多的一年。</p> 
@@ -71,7 +71,7 @@ thumbnail: 'https://img.36krcdn.com/20220124/v2_5b27d47d9e434d01b3c47fceeea894a8
 <p>在2021年3月，天数智芯发布了首款流片成功的7nm云端训练芯片BI100；10月，壁仞科技的第一款云端训练芯片BR100流片成功，两家公司的芯片都将交于<a class="project-link" data-id="47873" data-name="台积电" data-logo="https://img.36krcdn.com/20210807/v2_7e267a93d13d4526bbc0e2324e1f85e1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/47873" target="_blank">台积电</a>代工生产。</p> 
 <p><strong>在产品侧，壁仞科技还关注“异构计算”的提前布局，</strong>与IDG资本、<a class="project-link" data-id="99343" data-name="字节跳动" data-logo="https://img.36krcdn.com/20210807/v2_c27ddd0fa41d4e56bb84411f886f75c4_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/99343" target="_blank">字节跳动</a>等共同投资了国产DPU初创企业<a class="project-link" data-id="353422" data-name="云脉" data-logo="https://img.36krcdn.com/20220120/v2_a2a3ce31de134d96824a9b5b3876bf38_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4106500024?mp=zzquote" target="_blank">云脉</a>芯联，这轮天使轮的融资达到数亿元。随后又被报道猜测与高瓴<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>，投资了国产CPU公司鸿钧微电子。</p> 
 <p>在壁仞科技看来，GPU+CPU+DPU的架构，能更好地让GPU发挥其作用。具体来说，“DPU可卸载传统由CPU承担的网络、存储和安全任务，让其效能更好地穿透到应用层；还可以加快与GPU的数据联通，强化GPU算力性能与集群能力。”</p> 
-<p><strong>两家公司的核心团队也是“众星云集”。</strong>2021年5月，曾任紫光集团联席总裁的刁石京出任天数智芯CEO；9月，曾通过天数智芯的投资方大钲资本来做技术顾问的吕坚平博士正式加<a class="project-link" data-id="447680" data-name="盟天" data-logo="https://img.36krcdn.com/20210812/v2_b5447a19d4334411af3635f1739523e7_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/447680" target="_blank">盟天</a>数智芯，担任CTO，他有在英伟达、联发科、三星的GPU从零到一的研发经验。</p> 
+<p><strong>两家公司的核心团队也是“众星云集”。</strong>2021年5月，曾任紫光集团联席总裁的刁石京出任天数智芯CEO；9月，曾通过天数智芯的投资方大钲资本来做技术顾问的吕坚平博士正式加盟天数智芯，担任CTO，他有在英伟达、联发科、三星的GPU从<a class="project-link" data-id="105273" data-name="零到一" data-logo="https://img.36krcdn.com/20210808/v2_887d1f4c98a64722b1873bfd33b1f939_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/105273" target="_blank">零到一</a>的研发经验。</p> 
 <p>壁仞科技创始人兼CEO张文曾是商汤科技的总裁，担任CTO兼首席架构师的洪洲曾担任海思自研GPU负责人和首席架构师，担任高级副总裁的陈文中曾就职于AMD等公司领导过核心产品开发团队，担任联席CEO的李新荣曾担任AMD全球副总裁、中国研发中心总经理，担任图形GPU产品线总经理的焦方国曾任高通的GPU团队负责人……</p> 
 <p><strong>采用先进工艺往往意味着更慢的商业化落地，因此第二类公司选择了7nm之上的成熟工艺，代表公司为登临科技。</strong></p> 
 <p>登临科技成立于2017年底，在2020年发布了第一代三款Goldwasser芯片，分别针对边缘计算和数据中心。与天数智芯和壁仞科技已经流片的云端“训练芯片”不同的是，登临科技的芯片选择了更为成熟的12nm工艺，以“推理”为主、兼顾训练。</p> 
@@ -86,13 +86,13 @@ thumbnail: 'https://img.36krcdn.com/20220124/v2_5b27d47d9e434d01b3c47fceeea894a8
 <p>目前看来，GPGPU的主要落地场景有安防及智慧城市、互联网数据中心、边缘计算，以及生物医药、能源等新兴领域。</p> 
 <p>虽然GPGPU正是为了打破英伟达在数据中心方面的垄断地位而发展起来的，但安防和智慧城市领域是目前各家公司优先落地的场景。</p> 
 <p>国产化需求下，终端的安防设备已经完成了替代，海思等企业已经成为终端摄像头的主要供应商。但从边缘端到云端，目前主要使用的依旧是英伟达的芯片，亟需国产化替代。</p> 
-<p>信创市场有较强的紧迫感。这从过往ASIC芯片的应用上就可以看到一二，为寒武纪2020年拿下超过80%营收的正是南京超算中心项目。同时，信创市场比较支持国产芯片，对国产替代的宽容度也较高。吕坚平说，“他们希望我们能替代现有市场需求的一部分，并逐渐扩大占有率”。</p> 
+<p>信创市场有较强的紧迫感。这从过往ASIC芯片的应用上就可以看到一二，为寒武纪2020年拿下超过80%营收的正是南京<a class="project-link" data-id="50921" data-name="超算中心" data-logo="https://img.36krcdn.com/20210807/v2_55dcf61f48d44d81b9c383a2396638cb_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/50921" target="_blank">超算中心</a>项目。同时，信创市场比较支持国产芯片，对国产替代的宽容度也较高。吕坚平说，“他们希望我们能替代现有市场需求的一部分，并逐渐扩大占有率”。</p> 
 <p>可以想象，在不久的将来，泛智慧城市领域的主要芯片就会是这一批GPGPU芯片。</p> 
 <p>数据中心是算力需求最大的地方，也是替代最难的领域。客户对算力要求大、价格敏感，且都有长期使用英伟达的习惯。在这个领域，虽然客户对能有产品替代英伟达非常欢迎，但也不会因为是国产公司就不顾成本。</p> 
 <p>能效比是成本的重要参考因素之一。李建文介绍道，由于服务器的设计限制，单卡峰值功耗一般为75瓦，“我们思考的问题就是，在75瓦合理值内，通过架构创新，做到比英伟达产品多几倍的性能，以提升产品整体的能效比”。在双碳政策下，每一家人工智能企业都将面临能效比的问题。</p> 
-<p>针对数据中心的特定的、复杂的场景，企业纷纷开始提供更完善的解决方案。投资了DPU和CPU的壁仞科技，希望以全国产化的芯片组合来服务客户。无独有偶，1月13日，在国产CPU公司龙芯中科召开的生态创新发布上，副总裁张戈提到已经与GPU公司天数智芯、登临完成适配。</p> 
+<p>针对数据中心的特定的、复杂的场景，企业纷纷开始提供更完善的解决方案。投资了DPU和CPU的壁仞科技，希望以全国产化的芯片组合来服务客户。无独有偶，1月13日，在国产CPU公司<a class="project-link" data-id="85407" data-name="龙芯中科" data-logo="https://img.36krcdn.com/20210807/v2_d94d56418f8344009d0bdc76394a67e5_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/85407" target="_blank">龙芯中科</a>召开的生态创新发布上，副总裁张戈提到已经与GPU公司天数智芯、登临完成适配。</p> 
 <p>与国内芯片厂商的合作，不仅能为客户提供全自主可控的解决方案，省去多次分步替代的麻烦，也能事先解决软件和兼容性方面的问题，让客户少一些人力成本和替代焦虑。</p> 
-<p><strong>边缘计算可能是最适合目前GPGPU做国产替代的领域。</strong>李建文介绍，“像是智慧商圈、<a class="project-link" data-id="577089" data-name="智慧园区" data-logo="https://img.36krcdn.com/20210311/v2_c3afea12d4f24041bf666bac1e3ef985_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/577089" target="_blank">智慧园区</a>、智慧社区、智慧工厂、机器人都是边缘计算的应用场景”。边缘计算对算力有一定要求，但也没有达到数据中心的水平；同时，边缘计算需要算力能够有解决不同问题的灵活性，于是要求芯片兼顾可编程性、通用性和能效比。</p> 
+<p><strong>边缘计算可能是最适合目前GPGPU做国产替代的领域。</strong>李建文介绍，“像是智慧商圈、智慧园区、智慧社区、智慧工厂、机器人都是边缘计算的应用场景”。边缘计算对算力有一定要求，但也没有达到数据中心的水平；同时，边缘计算需要算力能够有解决不同问题的灵活性，于是要求芯片兼顾可编程性、通用性和能效比。</p> 
 <p><strong>2022年将会是国内GPGPU开始量产和项目落地的一年。</strong>虽说不少人调侃GPU赛道“生死时速”，预判“赢者通吃”，“最终只能走出来一两家企业”。但作为一个足够大的赛道，每一位玩家既直接竞争，也可以做出差异化。</p> 
 <p>不同于AI和第一波AI芯片浪潮下每家公司几乎在同一时间成立，GPGPU的公司发展到现在已经有了进度的差异。天数、登临和壁仞第二款芯片已经正式研发或接近发布，摩尔和沐曦还在等待第一款芯片的诞生。后来者更应该关注先行者所在的领域，在广阔的国产化领域里以“替换英伟达”为目标，而不是以同为信创创业者为对手。</p> 
 <p>另外，信创市场之外，芯片作为大投入、盈利周期长的公司，也需要创业者更早地以商业化的视角来思考公司的长远发展。用单纯的“高算力”来展现实力固然也有价值，但一家公司真正的价值在于既为国产替代提供选择，又成为一家“自给自足”的公司。</p> 
