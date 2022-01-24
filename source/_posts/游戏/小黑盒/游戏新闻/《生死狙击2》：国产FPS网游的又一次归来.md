@@ -1,0 +1,18 @@
+
+---
+title: '《生死狙击2》：国产FPS网游的又一次归来'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/24/9e0b9921d57e1151d3cdda35d4299c10/thumb.png'
+author: 小黑盒
+comments: false
+date: Mon, 24 Jan 2022 15:54:55 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/24/9e0b9921d57e1151d3cdda35d4299c10/thumb.png'
+---
+
+<div>   
+<p>本文作者： <a data-user-id="20285185" href="https://api.xiaoheihe.cn/open_inapp/#heybox://%7B%22protocol_type%22:%22openUser%22,%22user_id%22:20285185%7D" target="_blank">@幸福小镇xx</a> </p><p>《生死狙击》对于我们来说可谓是太熟悉了，小时候在4399上与枪战开黑，要求并不是太高的配置对于我这种渣机党简直是福音。他承载我太多的欢乐，不过在flash停更，4399落寞的今天，我还有幸玩到了满血归来的《生死狙击2》，一下子把我勾回了那段时光。</p><p>《生死狙击2》首先给我最直观的感受是，画质升级了不止一点，要求内存大了不止一点，需要下载40个G。小时候配置要求低，固然画质就差了很多，而今天见到《生死狙击2》，那提升了不止一点的，就比如说人物建模与场景高清程度，还有地图细节的打磨，实在是让我高呼纽币。</p><p><img class="lazy" data-height="648" src="https://imgheybox.max-c.com/web/2022/01/24/9e0b9921d57e1151d3cdda35d4299c10/thumb.png" data-width="1152" referrerpolicy="no-referrer"></p><p>作为《生死狙击》的续作，他并非只重置了画质，而是与时俱进，学到了许多国内外知名厂商的先进理念，加入到了这款游戏之中。</p><p>就比如说枪械升级这一设计，需要你使用银币来升级解锁武器的各种配件，比如消音口、握把、开镜等配件，对你的枪械进行一个综合性的提升，长期与这把枪的磨合升级，会让你对这把枪有着更深的理解。</p><p><img class="lazy" data-height="311" src="https://imgheybox.max-c.com/web/2022/01/24/ca0ad125ccd068ee0176a78e7485bffc/thumb.png" data-width="554" referrerpolicy="no-referrer"></p><p>还有开箱系统，每次打完一局匹配就能给通行证带来经验，通行证每升一级就能获得一个箱子，八十发一个保底，每一个赛季都能白嫖一个最高品质的武器，对于平民来说友好了很多。不过开箱子还是太凭运气，能否开出自己想要的武器那就只能对天祈祷了。</p><p><img class="lazy" data-height="648" src="https://imgheybox.max-c.com/web/2022/01/24/5ce4114ed67ccffdf5392bdb4695d6a3/thumb.png" data-width="1152" referrerpolicy="no-referrer"></p><p>游戏的UI很有设计感，从备战大厅到游戏开始，整体都比《生死狙击》舒服了很多，有一种一线大厂的感觉，能带来很不错的沉浸式体验。</p><p><img class="lazy" data-height="311" src="https://imgheybox.max-c.com/web/2022/01/24/fb51d6adae9d620c2fefbb958038ade3/thumb.png" data-width="554" referrerpolicy="no-referrer"></p><p>游戏模式目前也不少，劫掠模式目前本次评测中还未体验，所以不进行相关解答。不过团队竞技、刀战、爆破、生化……都是比较经典的模式了，各个地图的对抗都做的还可，障碍物比较多，适合打冷枪，很有巷战的感觉。最让我惊喜的是，地图上有水的部分还能游泳，你可以潜入河流到对手一个意想不到的位置浮出阴人，又或者是躲入河流中逃跑，也确确实实的增强了这款游戏的竞技属性，我是很喜欢这项改动。</p><p>不过让我吐槽的地方也有，就是敌我双方人物竟然长的一样，实战中很难用皮肤来看出是敌是友，按理说两个阵营应该有比较明显的主题区分，这个游戏却没有，识别敌人的方式只有看对面的头上是否有名字或者是否是红色，反应很容易慢一拍。</p><p>游戏也带有吃鸡模式，整体体验也还不错，游玩体验就比较像绝地求生的那种吃鸡模式，并不是COD的那种吃鸡模式，搜资源的流畅度与钢枪的刺激感都把握的不错。</p><p><img class="lazy" data-height="713" src="https://imgheybox.max-c.com/web/2022/01/24/78a6c95e6bb3bab56338b9271bb456ff/thumb.png" data-width="1267" referrerpolicy="no-referrer"></p><p>不过最让我惊喜的还是大头英雄这个模式，本身采用的是刚枪加近战，每杀死一个敌人或者是持续治疗队友都会获得经验值升级，每升一级会提升一百点血量，最高五级。这个玩法比较考配合，需要一个队友在前钢枪一个队友疯狂给他加血，意外的很好玩。等到大家升级到大头英雄这一阶段，就会拥有五千滴血，用手中的铲子进行近战互殴，当然铲子命中队友也是可以回血的，一大堆人近战混斗到一起拿铲子互殴，在配上萌萌的卡通形象，实在是让人忍俊不禁。</p><p><img class="lazy" data-height="648" src="https://imgheybox.max-c.com/web/2022/01/24/1bcbd5f5b1226a1929cb21e84254f34f/thumb.png" data-width="1152" referrerpolicy="no-referrer"></p><p>不过说一句，现在的内测其实模式真的不多，大多只是一些经典模式，以后更新不妨加入一些比较有趣味的模式，就比如说躲猫猫，竞速模式。对战可以学习最近大火的《光环：无限》，也搞一些抢旗子，据点战，保卫战，并且适当的把ttk做的稍长一些，这些都是十分不错的选择。</p><p>游戏的本地化做的也十分出色，中文配音在网游里是非常好的水平，英配就略显拉胯，这点需要改进。不过最让我惊讶的是，游戏的一款贴花竟然是女仆装豪哥，直接让我笑了出来，哪个小时候玩fps游戏的不知道陈子豪呢，这下联动实在双厨狂喜。</p><p><img class="lazy" data-height="648" src="https://imgheybox.max-c.com/web/2022/01/24/982c997406cae669222995ed82506db2/thumb.png" data-width="1152" referrerpolicy="no-referrer"></p><p>综合来看，《生死狙击2》是一款比较有诚意的国产fps竞技网游，如果你带着诚意来，我肯定如实的夸，游戏的闪光点很多，比如画质、创意，目前也没有氪金武器，有的也只是皮肤，并没有属性加成。不过小毛病也不少，这些也期待后续更新能够继续完善，哪有十全十美的游戏呢？</p><p>所以，《生死狙击2》这款游戏，在国内的fps网游市场中，如果能继续保持稳定的更新，我相信其以后能越来越好。</p><hr><p><img class="lazy" data-height="null" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" data-width="null" referrerpolicy="no-referrer"></p>  
+</div>
+            
