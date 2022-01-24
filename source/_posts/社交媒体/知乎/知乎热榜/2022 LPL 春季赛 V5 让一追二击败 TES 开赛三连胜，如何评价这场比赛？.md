@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-025dcf3f4502713e80d4390055d24fe4_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=5679'
 author: 知乎
 comments: false
-date: Sun, 23 Jan 2022 14:38:49 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-025dcf3f4502713e80d4390055d24fe4_1440w.jpg'
+date: Sun, 23 Jan 2022 14:05:21 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5679'
 ---
 
 <div>   
-羊哥的回答<br><br><p data-pid="BoSiiCce">热知识，tes 唯一s+战队</p><p data-pid="VoxcxfYO">v5，米勒评级B+战队！</p><p data-pid="YspYfwgN">恭喜V5三连胜</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-025dcf3f4502713e80d4390055d24fe4_1440w.jpg" data-rawwidth="2640" data-rawheight="1200" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-8a8c6e8f82a83c0d1f02a874db2b67e0_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-025dcf3f4502713e80d4390055d24fe4_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Yzph6_8i">《莫欺少年穷》</p><blockquote data-pid="pVqf-6YK">随着TES以2-0横扫FPX战队之后（s10）Jackeylove彻底稳固了首发的位置，这也代表着Photic首发彻底无望，未来的比赛不出意外Photic将永远在TES一队没有首发位置，或许二队AD首发才是P皇更好的选择，然而P皇也是心中有气的，在明白首发无望后，Photic清空了个人所有的微博，只留下一个简介“莫欺少年穷”，这句话大家很熟悉，叫做三十年河东三十年河西，莫欺少年穷，P皇认为自己在未来某一天将成为主角，让所有人为抛弃自己而可惜。</blockquote><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-befcf0882b93acd16ea130ad14321b89_1440w.jpg" data-rawwidth="639" data-rawheight="360" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-6e3ac97f60d22a1b3317e1a5a6232570_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-befcf0882b93acd16ea130ad14321b89_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Er4csh_n">《复仇者联盟》</p><p data-pid="yWIovjgU">《单防乔丹》</p><p data-pid="DwCMktiK">《消炎药圣》</p><p data-pid="s00So8-O">《手刃！》</p><p data-pid="7zaA6Cej">《三年之约》</p><p data-pid="CpGp0quL">《杰克死了》</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-0027449c5c8dc1cc7704c2780e07feda_1440w.jpg" data-rawwidth="1000" data-rawheight="508" data-size="normal" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0027449c5c8dc1cc7704c2780e07feda_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Vx_yfAB3">有一说一，左手现在的状态有大问题</p><p data-pid="Rgp2BLg9">对线对线打不过，打团打团打不过</p><p data-pid="EkyGMgGD">拿到优势不知道怎么结束比赛</p><p data-pid="vz5YBWQM">怎么可以比赛打成这个样子？</p><p data-pid="rzT7Sv0j">只要下路没有大优势就被平推</p><p data-pid="qy_85q-n">国产第一中单怎么可以对线期被压30刀？</p><p data-pid="Zj7NrXX-">tes以前是15分钟后降智</p><p data-pid="_AjlkbQC">现在卡萨走后，15分钟对线期都打不来了</p><hr><p data-pid="OKa5wU7W">卧槽，这才是电竞春晚</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d725938128452bc74535a034cc422878_1440w.jpg" data-rawwidth="2640" data-rawheight="1200" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-a58b0a7c31f5d0d0cd3600b714abe76e_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d725938128452bc74535a034cc422878_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="8N-z-iE6">为什么tes的比赛都这么有意思啊</p><p data-pid="H9egxBRJ">《有经验啊》</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f2a288f24269deee9d41340fa002dc24_720w.jpg" data-rawwidth="349" data-rawheight="349" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-d70f86052b523e1036fccb3770b82599_720w.jpg" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="JUKyDdED">话说卡萨这个这个唇膏是不是曼秀雷敦的呀哈哈哈</p><p></p>  
+大威大德龙宝宝的回答<br><br><h2>今日肉鸡再回陆地神仙之境！</h2>  
 </div>
             
