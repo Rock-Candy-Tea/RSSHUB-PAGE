@@ -1,0 +1,18 @@
+
+---
+title: '官宣！深圳GDP突破3万亿，或超过这个欧洲发达国家！'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf2_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 25 Jan 2022 04:50:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf2_1024.jpg'
+---
+
+<div>   
+<p>1 月 25 日，深圳市委书记、市长发布 " 致广大网民朋友的拜年信 "，其中提到，深圳经济总量站上 3 万亿元新台阶。</p><p><strong>深圳经济总量突破 3 万亿</strong></p><p><strong>位列全国第三</strong></p><p>据深圳新闻网 1 月 25 日报道，深圳市委书记王伟中、市长覃伟中 1 月 25 日发布 " 致广大网民朋友的拜年信 "，信中表示，深圳经济特区、深圳先行示范区建设步履坚定，综合改革试点落地见效。</p><p>47 条 " 深圳经验 " 全国推广，前海全面深化改革开放空间更大了、责任更重了，深港合作加速推进，全球招商大会引资超 8200 亿元，3 年共计超 2.1 万亿元，<strong>深圳经济总量站上 3 万亿元新台阶</strong>。这座城市的魅力、动力、活力和创新力正不断增强 !</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf2_1024.jpg" data-height="4232" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf2_1024.jpg" referrerpolicy="no-referrer"></div></div>以 2020 年统计口径计算，据世界银行网站数据，2020 年全球 GDP 第 25 位奥地利的 GDP 约为 4332.6 亿美元（约合人民币 27409.8 亿元）。据商务部网站，奥地利属经济发达国家，人均国内生产总值在欧洲位居前列。因此，深圳 2021 年经济总量相当于跻身全球前 25 大经济体。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf3_1024.jpg" data-height="498" data-width="987" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202201/61eff1ea8e9f0911f861eaf3_1024.jpg" referrerpolicy="no-referrer"></div></div>图片来源：世界银行网站，数据单位（百万美元）<p></p><p>至此，全国 GDP 前十城都已公布 2021 年的经济数据。上海、北京以超 4 万亿的成绩排名前二，深圳超 3 万亿排名第三，其后分别是广州、重庆、苏州、成都、杭州、武汉、南京。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202201/61eff1ea8e9f0911f861eaf4_1024.jpg" data-height="1179" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202201/61eff1ea8e9f0911f861eaf4_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>从 2 万亿到 3 万亿，深圳用了 5 年</strong><p></p><p>据深圳特区报，<strong>从 2.7 亿到 1 万亿，深圳用了 30 年；从 1 万亿到 2 万亿，深圳用了 6 年；从 2 万亿到 3 万亿，深圳用了 5 年</strong>。经济总量突破万亿元后，深圳发展进入平稳上升期。按照深圳 " 十四五 " 发展规划纲要，到 2025 年深圳的经济总量将达到 4 万亿元。5 年上一个新台阶，步稳蹄疾显示出这座城市已迈入自信从容的发展期。</p><p>特别要提出的是，深圳是在应对外部发展环境极度严峻复杂、新冠疫情几度袭扰的情况取得破 3 万亿成绩的。打开这 3 万亿的成绩单，可见到的是全年战略性新兴产业实现增加值过万亿元，财政收入超万亿元；是国家级高新技术企业超过 2 万家，每千人拥有商事主体 215.7 户；是鹏城实验室、光明科学城、河套深港科技创新合作区等一批原始创新策源地加快形成，74 位全职院士集聚，在站博士后超 5000 人、科技人才超过 200 万人，各类人才总量达到 600 万人 …… 深圳的经济发展是实实在在的，是潜力巨大的。</p><p>无论对于深圳都市圈、对于广东省，还是对粤港澳大湾区、对全国来说，深圳的发展能级都在强力提升，其辐射带动作用显著增强。</p><p>当前，包括深圳、东莞、惠州全域和河源、汕尾两市都市区部分的深圳都市圈，已经有了 3 万亿量级的深圳、1 万亿量级的东莞、近 5000 亿量级的惠州，整个都市圈经济总量预计超过 4.7 万亿元。</p><p><strong>广东全省 GDP 超过 12 万亿</strong></p><p>另外，从已经公开的信息看，地方经济整体正稳定恢复。尤其<strong>广东已一省之力 GDP 总量可闯入 " 世界前十 "</strong>，另有多个省份 GDP 数据在过去一年里突破重要关口。</p><p>从经济总量看，广东（12.4 万亿元）、江苏（11.6 万亿元）前两名的地位依然稳固。其中，广东成为全国第一个，也是目前唯一一个 GDP12 万亿大省。</p><p>12.4 万亿元相当于什么水平？按年平均汇率折算，广东省去年 GDP 总量约 1.92 万亿美元。这一数字放在 2020 年可以排到全球所有国家和地区中的前十位，且高于前十名中的意大利（1.89 万亿美元）、加拿大（1.64 万亿美元）、韩国（1.64 万亿美元）等发达国家，堪称 " 富可敌国 "。</p><p>广东和江苏是去年全国仅有的两个 GDP 总量超 10 万亿元省份。其后，山东（8.3 万亿元）、浙江（7.35 万亿元）亦自成一档，且分别首次突破 8 万亿、7 万亿关口。截至目前，已公布数据省份中 GDP 总量超过 5 万亿元大关的还有河南（5.89 万亿元）、四川（5.39 万亿元）、湖北（5 万亿元），四川、湖北均首次进入 "5 万亿俱乐部 "。</p><p>2021 年，在总量上实现重要突破的还有上海和北京。沪京两地全年 GDP 总量均首次突破 4 万亿元大关，前者更达到 4.3 万亿元，是中国头两个 GDP4 万亿之城。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
