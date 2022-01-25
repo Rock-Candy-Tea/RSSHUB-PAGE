@@ -1,0 +1,19 @@
+
+---
+title: 'Las Inecuaciones.'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=54f9f87f-b434-4712-b96a-a5d0ab05a899&size=gallery'
+author: Mind42
+comments: false
+date: 2022-01-25 11:06:46
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=54f9f87f-b434-4712-b96a-a5d0ab05a899&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=54f9f87f-b434-4712-b96a-a5d0ab05a899&size=gallery" referrerpolicy="no-referrer"><p>
+                    mapa mental                </p>  
+</div>
+            

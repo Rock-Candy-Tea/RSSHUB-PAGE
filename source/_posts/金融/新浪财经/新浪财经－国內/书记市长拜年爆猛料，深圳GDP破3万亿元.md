@@ -8,12 +8,12 @@ categories:
 headimg: 'https://n.sinaimg.cn/sinakd20220125s/200/w1080h720/20220125/fdbe-de6cea482b658ffee4b2d80c3ccdeb06.jpg'
 author: 新浪财经
 comments: false
-date: Tue, 25 Jan 2022 10:05:13 GMT
+date: Tue, 25 Jan 2022 11:06:08 GMT
 thumbnail: 'https://n.sinaimg.cn/sinakd20220125s/200/w1080h720/20220125/fdbe-de6cea482b658ffee4b2d80c3ccdeb06.jpg'
 ---
 
 <div>   
-<p cms-style="font-L">　　“深圳卫视深视新闻”微信公众号</p>
+<p cms-style="font-L">　　来源：“深圳卫视深视新闻”微信公众号</p>
 <p cms-style="font-L">　　深圳GDP突破3万亿元大关。</p>
 <p cms-style="font-L">　　1月25日上午，深圳市委书记王伟中、市长覃伟中向广大网民朋友发出的拜年信里，透露了这个重要信息。</p>
 <p cms-style="font-L">　　回望深圳踏过的“万亿大台阶”，是一条美丽的跃升曲线：2010年，深圳经济总量突破万亿元大关；2016年，深圳经济总量站上2万亿元台阶；2021年，深圳经济总量突破3万亿元。</p>
@@ -57,8 +57,7 @@ thumbnail: 'https://n.sinaimg.cn/sinakd20220125s/200/w1080h720/20220125/fdbe-de6
 <p cms-style="font-L">　　经济总量方面，随着深圳经济总量破3万亿元，预计2021年粤港澳大湾区11城GDP可超过12万亿人民币，按年平均汇率粗算约合1.92万亿美元，粤港澳大湾区将坐实世界湾区第二位置，并与经济实力最夯的东京湾区有一拼。</p>
 <p cms-style="font-L">　　做强“深港一极”，对大湾区建设举足轻重。从中央到广东省，无不对深圳加强与香港的深度合作寄予厚望。</p>
 <p cms-style="font-L">　　目前在深圳与香港一线，西有前海深港现代服务业合作区、中有河套深港科技创新合作区、东有深港口岸经济带。而去年香港特区政府提出的“北部都会区”发展策略，也将为深港合作拓展出新空间。</p>
-<p cms-style="font-L">　　深港一极，现在是经济总量过5.5万亿元人民币的当之无愧的大湾区龙头。专家认为，深港发展将为大湾区建设纵深推进提供强劲动力。</p>
-<p cms-style="font-L">　<font cms-style="font-L"></font></p><!-- news_keyword_pub,stock, -->
+<p cms-style="font-L">　　深港一极，现在是经济总量过5.5万亿元人民币的当之无愧的大湾区龙头。专家认为，深港发展将为大湾区建设纵深推进提供强劲动力。</p><!-- news_keyword_pub,stock, -->
 
 
 
