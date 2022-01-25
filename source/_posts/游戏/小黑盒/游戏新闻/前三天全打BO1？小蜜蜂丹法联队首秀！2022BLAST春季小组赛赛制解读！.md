@@ -1,0 +1,18 @@
+
+---
+title: '前三天全打BO1？小蜜蜂丹法联队首秀！2022BLAST春季小组赛赛制解读！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/24/f9615d0d710343f81e284819e3afa429/thumb.png'
+author: 小黑盒
+comments: false
+date: Tue, 25 Jan 2022 09:30:43 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/24/f9615d0d710343f81e284819e3afa429/thumb.png'
+---
+
+<div>   
+<h2>前言</h2><p>2022BLAST春季小组赛将于1月28日打响。休赛期经历了人员变动的许多队伍将迎来首秀，比如转向国际阵容引入前Astralis选手dupreeh、Magisk和教练zonic的丹法联队Vitality；美国队长Nitro回归并以NAF-FLY和Elige为核心重新建队的Liquid；ropz与他的说明书Karrigan重聚的FaZe；波士顿Major冠军三人组搭档黑白胖球的EG；Aleksib和m0NESY加盟的男模队G2等等。</p><p><img class="lazy" data-height="824" src="https://imgheybox.max-c.com/web/2022/01/24/f9615d0d710343f81e284819e3afa429/thumb.png" data-width="1017" referrerpolicy="no-referrer"></p><h4 class="img-desc">由于身体原因device将会被NIP青训的phzy代替</h4><p>根据BLAST此前宣布的计划，2022年内将会有春秋季的小组赛、Showdown、决赛以及全球总决赛共七场赛事，其中四场会在线下举办。（有线下赛真的太棒了）<br></p><h2>赛制解读<br></h2><p><br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/23/fc39756dc4bd0bcd355e6e917384c7f3/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">参赛队伍分组情况</h4><p>此次的春季小组赛将由两个阶段组成，分别为GSL BO1小组赛和BO3冒泡赛（而以往为双败BO3每小组前两名晋级当季决赛）。共12支参赛队伍，其中6支晋级春季决赛，剩余两个名额将通过4月份的春季赛Showdown产生。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/01/22/95ce6edb04be236a937a619932a7efe1/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">BLAST公布的总赛程图</h4><h3>阶段一：小组赛 GSL BO1</h3><p>时间：1月28日~1月30日。12支队伍被分为3个小组，分别在<b>一天的时间内</b>进行双败BO1的对决（每天六场BO1）来决出各组内1234的名次，<b>在此阶段内并不会有队伍晋级或者淘汰。</b></p><p><img class="lazy" data-height="573" src="https://imgheybox.max-c.com/web/2022/01/22/42fc84d41305b775926c9289151eb683/thumb.jpeg" data-width="656" referrerpolicy="no-referrer"></p><h4 class="img-desc">小组赛阶段：加了一点点细节（以A组为例）</h4><h3>阶段二：淘汰赛 BO3冒泡</h3><p>时间：2月3日~2月6日。每天三场BO3。小组赛完成后每组1234名将被确定，每支队伍根据小组排名会获得自己的编号，即A1、B2、C3等等。至此组别将会被打乱（详见下图），从每组的3、4名队伍开始，<b>逐级向更高名次的队伍发起挑战，争夺晋级春季决赛的资格。</b>由于上面BLAST官方的总赛程图对战表可能不容易看懂，大家看下面我做的这个就好了，直接标注了各组相应名次队伍的赛程。（作图不易，如果喜欢的话还请大家给个大拇指赏个盒电，阿里嘎多<span data-emoji="cube_乖" class="hb-emoji"></span>）</p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/web/2022/01/22/5f29de5e9441fbc326b5a010c8acca30/thumb.jpeg" data-width="4096" referrerpolicy="no-referrer"></p><h4 class="img-desc">淘汰赛阶段赛程图@枝江发型总监</h4><p><b>淘汰赛共持续四天：</b>第一天：败者淘汰、胜者进入下一轮。第二天：败者进入最后一天的LAST CHANCE阶段、胜者进入下一轮。第三天：败者进入LAST CHANCE阶段、胜者晋级春季决赛。第四天LAST CHANCE：对战双方分别为第二天和第三天的败者，胜者晋级败者淘汰。<br></p><p>LAST CHANCE阶段的分组规则尚未可知，因此在图中无法标注，可以确定的是双方不在此前的同一个淘汰赛对战组内。</p><p>以上，本次赛制讲解完毕。</p><h2>写在后面：其他关于赛制的碎碎念</h2><p>这次的赛制和以往最大的不同体现在12支参赛队伍交叉比赛，谁都有可能遇到，这样就体现出了区分度，保证晋级到春季决赛的六支队伍是在整个系列赛里表现相对更好的而不是仅仅在自己的小组之中。不像以前只需要研究同组的其他三个对手并且仅仅在四支队伍中拿到前二即可晋级。</p><p>去年的秋季小组赛C组的比赛中有一个很有意思的现象：虽然FaZe顺利晋级，但是COL和FaZe的两场BO3中，FaZe总共赢下了两张图，而COL赢下三张图，结果却是FaZe晋级。这体现出了GSL赛制的弊端之一，而且很有可能出现重复对战的情况，区分度和观感都不是特别的好。这一点在我的另外一篇文章中有提到过，有兴趣的同学可以看看<a href="https://www.xiaoheihe.cn/community/43/list/71915850" target="_blank">从2016莫斯科震中杯到2021斯德哥尔摩Major：对完美赛制的探索</a></p><p><img class="lazy" data-height="774" src="https://imgheybox.max-c.com/web/2022/01/22/4beeea191e1fc68c7d583b1ba6cdd457/thumb.png" data-width="1089" referrerpolicy="no-referrer"></p><h4 class="img-desc">2021BLAST秋季小组赛C组</h4><p>这次春季小组赛赛制就非常有意思，都有可能遇到，谁不想看丹法联队小蜜蜂和NA'VI碰一碰呢<span data-emoji="cube_滑稽" class="hb-emoji"></span></p><h2>结语</h2><p>一开始看到有的同学不太懂赛制，总是在直播间问为什么谁打谁、下场谁打谁等等，就想着写写关于赛制的东西，自己本身也对这方面比较感兴趣。鉴于前几篇赛制科普解读的文章反响还不错，这次的BLAST春季小组赛赛制又很有意思，我就又来了。希望你在比赛看得开心的同时能更懂赛制！Peace！</p><p>最后祝大家新年快乐，心想事成、虎年虎虎生威！</p>  
+</div>
+            
