@@ -1,0 +1,19 @@
+
+---
+title: '微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/1/5b6288d2-d241-47b9-816c-9e93c3448810.jpg@s_2,w_820,h_512'
+author: IT 之家
+comments: false
+date: Mon, 24 Jan 2022 10:14:17 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/1/5b6288d2-d241-47b9-816c-9e93c3448810.jpg@s_2,w_820,h_512'
+---
+
+<div>   
+<p data-vmark="f60a"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 1 月 24 日消息，微信官方今日宣布“<a href="https://pc.weixin.qq.com/" target="_blank" class="link-instanted">微信</a> 3.5.0 for Windows 全新发布”，在更新内容中写道：新增视频号，探索喜爱的视频和直播、修复了一些已知问题，除此之外并未提及其他内容。</p><p data-vmark="b742">在新版微信中，最左侧的功能栏新增了一个“视频号”的入口，你可以从此进入微信视频号内容区。</p><p data-vmark="08de"><img src="https://img.ithome.com/newsuploadfiles/2022/1/5b6288d2-d241-47b9-816c-9e93c3448810.jpg@s_2,w_820,h_512" w="1440" h="900" alt="1.1.zh_CN.jpg" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" srcset="https://img.ithome.com/newsuploadfiles/2022/1/5b6288d2-d241-47b9-816c-9e93c3448810.jpg 2x" width="1440" height="512" referrerpolicy="no-referrer"></p><p data-vmark="b2ff">▲ 微信 3.5.0 for Windows</p><p data-vmark="2543"><img src="https://img.ithome.com/newsuploadfiles/2022/1/c3d80ef4-cd80-4df2-b258-794b0f34ea59.png" w="599" h="362" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="599" height="362" referrerpolicy="no-referrer"></p><p data-vmark="12b1"><img src="https://img.ithome.com/newsuploadfiles/2022/1/a027fac3-2d05-4e09-86f9-d4532f7a23f9.png" w="547" h="468" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="547" height="468" referrerpolicy="no-referrer"></p><p data-vmark="c448">Windows 版本的视频号与手机版本的几乎没有区别，提供了视频推荐和直播等栏目，例如娱乐、音乐、生活、知识、影视综艺、体育、旅行风景、美食、游戏等等。</p><p data-vmark="69de"><img src="https://img.ithome.com/newsuploadfiles/2022/1/16f3ee6c-7ff6-41e3-af78-ad6325df223a.png" w="877" h="895" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="877" height="837" referrerpolicy="no-referrer"></p><p data-vmark="f382">在视频号的最上方，你还可以搜索你想要的内容，例如IT之家视频号，整体框架设计十分简洁。</p><p data-vmark="a6ad"><img src="https://img.ithome.com/newsuploadfiles/2022/1/b3178f21-492c-44a9-96e2-a4fed5944854.png" w="876" h="869" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="876" height="813" referrerpolicy="no-referrer"></p><p data-vmark="7043"><img src="https://img.ithome.com/newsuploadfiles/2022/1/d14310f5-949a-49fa-9e37-1efd5cada992.png" w="875" h="895" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="875" height="839" referrerpolicy="no-referrer"></p><p data-vmark="e48a"><img src="https://img.ithome.com/newsuploadfiles/2022/1/61c93e3b-db75-4ec1-a333-2a9a691b0490.png" w="885" h="473" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="885" height="438" referrerpolicy="no-referrer"></p><p data-vmark="40fa">去年 3 月，微信更新了 Windows 微信 3.2.1 测试版，自那时起<span class="accentTextColor">用户便可以观看聊天中分享的视频号视频和视频号直播，但一直缺少视频号入口，只能被动接受，因此这一功能更新对于改善 PC 版微信使用体验有重要意义</span>。</p><p data-vmark="ad54">大家在IT之家微信号回复“<span class="font-color-red">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p data-vmark="3915"><img src="https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg" alt title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" referrerpolicy="no-referrer"> </p><hr><p data-vmark="d3e0" style="text-align: center;"><strong>IT之家官方微信公众账号</strong> </p><p data-vmark="d40b" style="text-align: center;">爱科技，爱这里。</p><p data-vmark="e3fc" style="text-align: center;">“扫一扫”二维码来关注IT之家，或者微信搜索“IT之家”并关注。</p><p data-vmark="625b">                                                        <img src="https://img.ithome.com/newsuploadfiles/2022/1/ff3924ed-b2a3-4da8-9f98-3482f67c76f7.png" w="358" h="358" title="微信 Windows 3.5.0 正式版发布：现在你可以在电脑上刷视频号了" width="358" height="358" referrerpolicy="no-referrer"> </p><p data-vmark="ad60">▲移动客户端用户：点击二维码图片并保存到手机，然后使用微信的扫一扫功能，选择相册，找到此二维码即可扫一扫。</p>
+          
+</div>
+            
