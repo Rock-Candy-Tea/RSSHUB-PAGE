@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2072'
+headimg: 'https://picsum.photos/400/300?random=7994'
 author: 知乎
 comments: false
-date: Tue, 25 Jan 2022 08:42:58 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2072'
+date: Tue, 25 Jan 2022 10:05:46 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7994'
 ---
 
 <div>   
-与光同尘的回答<br><br><p data-pid="CarkOTTK"><b>做人，待人，与人社交还是要有点数，讲点度。</b></p><p data-pid="H0nQJEKK">我脑补一下，男方只是客气点让你随意点没想到你还真死命点，心想着反正不是我付钱呗。然后男方发现没想到花了这么多。</p><p data-pid="e2G4wRSB">其实估计才开始男方是打算请客的，但是从要钱来看，男方也没打算跟这个女的再接触了。</p><p data-pid="zpRPKN_0">因为我作为女生的话也会觉得这个女的太不客气，不会过日子，吃火锅要吃1千多，也不会为对方着想。</p><p data-pid="1dG8hxpt">人还是要有点数，火锅吃到1000多真的有点超预算了。</p><p><br></p><p><br></p><p><br></p><p data-pid="BF17Rcql">一般第一次见面，男方客气点让随意点，女方就应该知道大概意思下，点两个菜，有点数，让男方再添几个基本上就可以了。</p><p data-pid="yUVXckos">都不小的人了，人与人交往有点数都做不到么。还真花人这么多钱，合着男人的钱不是钱。</p><p data-pid="WcQu5eWp">一般，我的话，男方请客，我是按照自己的预算来点。如果我自己吃，能负担的起这么多钱，我才会去点。</p><p data-pid="LFJhDIRu">如果我自己都不能接受自己吃饭的话花1000，我就不会让对方请1000的饭，因为我觉得我还不上。量力而行。</p><p data-pid="sqKzqIHd">另外，对方请我吃饭花了多少，我一般不会AA，会显得很斤斤计较，我会请他点别的，吃的喝的，看电影，或者下次吃饭再请回来。把钱平衡回来，也算比较礼貌。</p><p><br></p><p><br></p><p><br></p><p data-pid="WarvmCKn">所以，我觉得第一次见面，不用吃那么贵的，喝杯奶茶，吃个便饭都是可以的，万一看不上眼，对方又不肯给钱太亏了。</p><p data-pid="uSCcrl6m">而且照这女的这个意思，相亲七八次，都白嫖了七八次了，而且觉得很理所当然的架势，你很难保证自己相亲会遇到什么样的人。</p><p data-pid="C94L-2fE">在什么都不清楚的情况下，控制下预算比较好。</p><p><br></p><p><br></p><p><br></p><p data-pid="nWaBeZvG">另外作为女方，对方对自己客气，要听出言外之意，不是真的随意，而是适可而止。</p><p data-pid="TCLza_-a">点菜时，需要按照自己的合理预算来，想如果我打算请他我会花多少钱预算，照这这个来点。</p><p data-pid="pDYR1XNP">真的做人要有点数。</p><p><br></p><p data-pid="oMoGgxsE">相亲说白了是男女双方的交易，为了结婚目的的见面，不是真的把自己当公主，别人需要讨好，献殷勤，提供免费午餐的。</p><p data-pid="qJOYNQyT"><b>男人请客是风度，但女人死命点不管花了多少钱，是真没风度。</b></p>  
+茕茕落落的回答<br><br><p data-pid="ogZfYAVS">这种一次会点一千元餐的女人，非常明显是没看上对方的。</p><p data-pid="oKWDOQ2B">无非就是AA后拉黑。</p><p data-pid="oiJia6lg">没AA直接拉黑。</p><p data-pid="B2rU0cZG">之后又请了好几顿拉黑。</p><p data-pid="P5UqBdT4">当年几年供养者拉黑。</p><p data-pid="q9w25B--">离婚之后带走家产拉黑。</p><p data-pid="LRXwy-uK">相比之下，AA后拉黑是最好的结果了。</p>  
 </div>
             
