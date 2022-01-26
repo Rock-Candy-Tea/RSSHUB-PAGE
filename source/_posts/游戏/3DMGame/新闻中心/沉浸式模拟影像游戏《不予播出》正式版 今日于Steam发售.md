@@ -1,0 +1,117 @@
+
+---
+title: '沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220126/1643164354_982164.png'
+author: 3DMGame
+comments: false
+date: Wed, 26 Jan 2022 02:37:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220126/1643164354_982164.png'
+---
+
+<div>   
+<p style="text-indent:2em;">
+由NotGames工作室制作的沉浸式模拟影像游戏《不予播出》1.0正式版今日（1月26日）于Steam平台发售，游戏原价80元，现在至2月4日期间购买享优惠，只需60元。Steam正式版将推出最后章节第三章内容，包含3段大型新闻广播。新增超17小时的全新FMV内容，17条广告，不同结局以及全新挑战、外观奖励、成就等更多内容。游戏前两章自带中文字幕和普通话配音。该游戏还获得了全世界视频影像最多游戏的吉尼斯认证<span>（42小时57分钟52秒）。</span>
+</p>
+<p style="text-indent:2em;">
+<span></span> 
+</p>
+<h3>
+正式版预告
+</h3>
+<p align="center" style="text-indent:2em;">
+<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwMzU0MDY2OA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+</iframe>
+</p>
+<p style="text-indent:2em;">
+<strong>    吉尼斯认证</strong>
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220126/1643164354_982164.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>游戏Steam页面：</strong><a href="https://store.steampowered.com/app/1147550/__Not_For_Broadcast/" target="_blank"><strong>点击此处</strong></a> 
+</p>
+<p style="text-indent:2em;">
+游戏背景设定为平行时空1980年代的英国，激进的政府上台执政后，实行暴政并控制新闻播出，让民众丧失话语权。作为导播，控制人们的所见所闻，决定禁播内容。玩家在游戏中可以作为导播，控制人们的所见所闻，决定禁播内容，或者在电视台播放无厘头广告。玩家可以自行设定日程。在现场直播的压力下，混合录制4个摄像头直播，选择新闻提要，用哔哔声盖住污言秽语。玩家会选择审查新闻从而得到奖励，还是会揭露真相然后承担后果？国家（架空虚构）命运将由你来决定！
+</p>
+<h3>
+游戏特点
+</h3>
+<p style="text-indent:2em;">
+构图——用你的编辑技能娱乐公众。你是艺术家，广播就是你的画布。
+</p>
+<p style="text-indent:2em;">
+持续宣传——审查脏话...或“未经批准”的信息。保证新闻适宜儿童和专制政权观看。
+</p>
+<p style="text-indent:2em;">
+精心挑选新闻提要——报道对象的公众形象掌握在你的手中：讲述足球运动员恋上新男友，还是他最近在酒吧度过了不忠之夜？他的婚姻和生活都掌握在你的手中。
+</p>
+<p style="text-indent:2em;">
+提示广告——你的银行余额飙升还是突降都取决于你播放什么广告。无法保证客户满意。
+</p>
+<p style="text-indent:2em;">
+节目必须继续！—— 不惜代价，坚持广播。没人能阻止新闻播放，即使5级风暴也不行！
+</p>
+<p style="text-indent:2em;">
+让大家跟随你笑个不停——在这场扭曲的政治动荡中，顶住压力扮演角色令你沮丧吗？坐下来放松一下-国家（架空虚构）晚间新闻团队会在广告休息期间，让你告别欢笑迎接恐惧。
+</p>
+<h3>
+预告截图
+</h3>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044299_237383.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044317_374078.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044306_100813.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044323_214453.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044329_909154.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044336_307368.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044343_535999.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220113/1642044349_890907.png" alt="沉浸式模拟影像游戏《不予播出》正式版 今日于Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<h3>
+系统需求
+</h3>
+<p style="text-indent:2em;">
+<span><strong>最低配置</strong></span>
+</p>
+<p style="text-indent:2em;">
+<span>操作系统</span><span>: Windows 10</span>
+</p>
+<p style="text-indent:2em;">
+<span>处理器</span><span>: 2.7Ghz and up</span>
+</p>
+<p style="text-indent:2em;">
+<span>内存</span><span>: 8 GB RAM</span>
+</p>
+<p style="text-indent:2em;">
+<span>显卡</span><span>: Dedicated video card is required, 4gb VRAM</span>
+</p>
+<p style="text-indent:2em;">
+<span>DirectX </span><span>版本</span><span>: 11</span>
+</p>
+<p style="text-indent:2em;">
+<span>存储空间</span><span>: </span><span>需要 </span><span>50 GB </span><span>可用空间</span>
+</p>
+<p style="text-indent:2em;">
+<span>声卡</span><span>: Integrated</span>
+</p>          
+</div>
+            
