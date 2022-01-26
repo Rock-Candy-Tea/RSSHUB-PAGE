@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=678'
+headimg: 'https://picsum.photos/400/300?random=256'
 author: 知乎
 comments: false
-date: Wed, 26 Jan 2022 08:55:21 GMT
-thumbnail: 'https://picsum.photos/400/300?random=678'
+date: Wed, 26 Jan 2022 09:55:45 GMT
+thumbnail: 'https://picsum.photos/400/300?random=256'
 ---
 
 <div>   
-一直住顶楼的回答<br><br><p data-pid="opOY8eJR">可能是企业文化差异，我工作过的美国公司都是推崇善战者无赫赫之功，你说你天天加班完成工作，大家第一反应是要么你能力有问题，要么你老板能力有问题。</p><p data-pid="jkGzhSW0">是不是有人靠回家偷偷加班，然后装着没加班来惊艳众人，那我就不知道了。反正大家都是努力表现这个我随随便便就干完了的样子。大家还记得中学时代，考前学霸那个“我都没复习”的表情吗？对对对，就是那样。从硅谷到纽约，程序员们自己牛逼不牛逼两说，但怎么装b大家还是都懂的，这个玩意是跨越种族文化和国界的。</p><p data-pid="Z_UtClBv">特别要是一个组里，别人都不用加班，你一个人却有理有据的天天需要加班，那是给老板上眼药呢：他是处事不公还是工作管理能力有问题？</p><p data-pid="Cj5SBmHr">我去年年终评定还和我老板说，我这么闲，正是我工作能力强+他领导能力爆表的具体体现。老板很高兴。</p><p data-pid="WVQp5ArF">所以如果你能力不行要加班，也要悄悄的，别吵得全公司都知道，不嫌丢人。</p><p data-pid="mewPoFSp">你们不要以为这些在美国的程序员们都真的那么闲，有些人可能只是怕被笑话，其实偷偷在家加班。为什么知乎上的程序员，在美国的全都故意表现天天摸鱼，在中国的全都恨不得把自己天天996挂在嘴上，现实中的真实情况未必如此，只是暗示出不同的KPI导向。</p>  
+霍华德的回答<br><br><p data-pid="5WMWFoI9">Respect！</p><p data-pid="xj40tVpj">95后00后中国的希望</p><p data-pid="OpoGOZr-">少年自尊则国自尊，少年自爱则国自爱；</p><p data-pid="V-GSl-GZ">少年健康则国健康，少年独立则国独立；</p><p data-pid="34Cwn3p_">少年自由则国自由，少年进步则国进步；</p><p data-pid="FFsK5YVv">少年觉醒则国觉醒，少年守法则国守法；</p><p data-pid="MizWQZpH">少年反996则国无996土壤</p><p data-pid="mVFVjmUB">少年不媚上则国风气清朗。</p><p data-pid="k9mKB1_t">美哉我少年中国，与天不老！</p><p data-pid="RuvqziLh">壮哉我中国少年，与国无疆！</p><p></p><p></p>  
 </div>
             
