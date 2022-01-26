@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-01-26 11:08:15
-thumbnail: 'https://pic3.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162'
+date: 2022-01-26 12:12:51
+thumbnail: 'https://pica.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-7fe15094c7456723125d45a5093f9bc2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">唐朝，</span><span class="bio">电影</span>
 <a href="https://www.zhihu.com/question/19677674/answer/2323952693" class="originUrl" hidden>查看知乎原文</a>
 </strong>
