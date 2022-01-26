@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/202201260857123316html_img.blob'
 author: 二柄 APP
 comments: false
-date: 2022-01-26 08:10:19
+date: 2022-01-26 09:09:01
 thumbnail: 'https://erbingeditor.diershoubing.com/202201260857123316html_img.blob'
 ---
 
@@ -20,6 +20,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/202201260857123316html_img.blo
 
 龙木（ABIS搜查官）：充满正义感的菜鸟搜查官，但不是那种冲动的血性男儿，个性上其实比较内敛稳重。虽然是高学历乖宝宝，但他的双亲皆已过世，就连弟弟也不幸……背负着辛酸过往的他，将与左眼窝中的搭档“环”一起抽丝剥茧解决难解的悬案。
 
-环：与瞳绊相同，内建高性能人工智慧的AI-Ball。常驻于龙木的左眼窝，辅佐他进行工作。她就像是兼具了严厉与温柔的母亲（严厉大概占九成……），负责打龙木屁股鼓舞他向前迈进。附带一提，她的性格带有S属性，就如字面所示是真的喜欢打人屁股。<br><img src="https://erbingeditor.diershoubing.com/202201260857123316html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202201260857161210html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202201260857163641html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202201260857163643html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202201260857169759html_img.blob" referrerpolicy="no-referrer">  
+环：与瞳绊相同，内建高性能人工智慧的AI-Ball。常驻于龙木的左眼窝，辅佐他进行工作。她就像是兼具了严厉与温柔的母亲（严厉大概占九成……），负责打龙木屁股鼓舞他向前迈进。附带一提，她的性格带有S属性，就如字面所示是真的喜欢打人屁股。<br><img src="https://erbingeditor.diershoubing.com/202201260857123316html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657174644.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657174320.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657185116.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657185022.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657188982.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/01/26/1657181785.jpg" referrerpolicy="no-referrer">  
 </div>
             
