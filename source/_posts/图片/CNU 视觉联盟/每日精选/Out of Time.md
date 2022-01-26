@@ -1,0 +1,19 @@
+
+---
+title: 'Out of Time'
+categories: 
+ - 图片
+ - CNU 视觉联盟
+ - 每日精选
+headimg: 'https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/69c55706efbe3089aab8989fed88c00e.jpg'
+author: CNU 视觉联盟
+comments: false
+date: Mon, 24 Jan 2022 17:27:33 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/69c55706efbe3089aab8989fed88c00e.jpg'
+---
+
+<div>   
+<p>  來自攝影師Babak Fatholahi的一組人像作品，復古濃烈的色彩，張揚飽滿的情緒，帶來上揚的觀者情緒。<br></p>
+            <img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/69c55706efbe3089aab8989fed88c00e.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/ccd2e859aca630e3a7028ae229b03e38.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/3b71ec38deb73bfaaa599aa2bc67a1f1.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/b4f9fc4a0b3c38219a2b50ac7b15dfd0.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/f003ab08bde33dcfacd85f8f71c22d9e.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/78191ce0429c3d33a9ec91bb46894470.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/6660639f59723d039804e313bb146c9f.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/1013d727353c32448627c97ff9705e99.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/076de76fd4d230ca8de22cbf04bccdf8.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/ffa62c03a61c3654bb85069c7456269c.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/9265effe2396350d87c1a74a843ece9c.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/8bc0deb5c3e834a68d95edd4d41099ea.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/21e75ef15b553e6b85f9993db600c2dd.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/9d9cc7ad656c3a76b9bf255e712eea28.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/cd426bfc8fc8339b9ceb1a7b60a4569b.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/af292134fe92358d80a7727452da2635.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/2f45af5786dc379cbbb84f2164a6e3d3.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p><img src="https://cors.zfour.workers.dev/?http://imgoss.cnu.cc/2201/24/971f70597d313acab7aea86bb266fccd.jpg" referrerpolicy="no-referrer"><div class="img_description"></div><p></p>  
+</div>
+            
