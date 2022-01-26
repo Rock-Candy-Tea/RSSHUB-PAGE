@@ -1,0 +1,19 @@
+
+---
+title: '姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/1/f95e16ff-dcb8-4e87-8297-e840e3ee79c8.jpg'
+author: IT 之家
+comments: false
+date: Wed, 26 Jan 2022 05:49:37 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/1/f95e16ff-dcb8-4e87-8297-e840e3ee79c8.jpg'
+---
+
+<div>   
+<p data-vmark="fe1e">1 月 26 日消息，据知情人士透露，陈立杰今从 MIT 博士毕业后，将加入加州大学伯克利分校，成为该校 Miller 研究所研究员。</p><p data-vmark="861a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/f95e16ff-dcb8-4e87-8297-e840e3ee79c8.jpg" w="453" h="288" alt="演讲台正面照" title="姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员" width="453" height="288" referrerpolicy="no-referrer"></p><p data-vmark="2759">陈立杰是清华大学姚班知名校友，2016 年清华特等奖学金得主，他 16 岁时获得全国信息学奥赛金牌而被保送清华。</p><p data-vmark="c812">本科毕业后，陈立杰于 2017 年赴美国 MIT 攻读博士学位。</p><p data-vmark="0a1d">今年，27 岁的陈立杰将从 MIT 毕业，他本人已申请了 <span class="accentTextColor">UC 伯克利 Miller Fellowship</span> 并成功通过。</p><p data-vmark="6f58">Miller Fellowship 面向近期或即将获得博士学位的杰出青年科学家，每年只授予 8~10 人。Miller 研究所会邀请世界各地高校机构的系主任、教授导师等在线提名。</p><p data-vmark="f8d2">Miller Fellowship 的授予期限为 3 年。成为 Miller 研究员后，除了薪水外，第一年还将获得 6.8 万美元的津贴，以及 1 万美元的研究基金。其中津贴部分逐年递增。</p><p data-vmark="3f84">获得提名并完成申请的候选人将在 12 月中旬至 2 月中旬期间收到结果通知，并在春季对外公布获奖情况。</p><p data-vmark="28f0">历史上曾有多位诺贝尔奖得主，都曾是 Miller 研究所研究员。</p><p data-vmark="6e3c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/e1a16fb6-04a7-435f-9a43-2f93a42d61ce.png" w="1080" h="422" title="姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员" width="1080" height="320" referrerpolicy="no-referrer"></p><h2 data-vmark="0ebd">冉冉升起的理论计算机学术新星</h2><p data-vmark="2cff">陈立杰出生于 1995 年，中学之后开启了信息学奥赛的“开挂”之路：</p><ul class=" list-paddingleft-2"><li><p data-vmark="046e">2011 年 5 月，在 2011 年全国青少年信息学竞赛（NOI 2011）浙江省选拔赛中，获得全场第一名，其中二试取得满分；</p></li><li><p data-vmark="e464">2011 年 8 月，在全国青少年信息学竞赛现场赛中，以 608 分的成绩取得全国第四名，进入国家集训队；</p></li><li><p data-vmark="adf6">2013 年，以全场第一的成绩获得第 25 届国际信息学奥赛（IOI）金牌。</p></li><li><p data-vmark="ba6e">2013 年 4 月，第 25 届国际信息学奥林匹克竞赛中国队选拔赛（CTSC）中，全场第 1 名，总分 89.11 分，正式成为 IOI 国家队队员。</p></li></ul><p data-vmark="37d6" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/af63e254-eda0-48c2-a34d-3cb8fc9de039.png" w="650" h="400" title="姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员" width="650" height="400" referrerpolicy="no-referrer"></p><p data-vmark="f697">陈立杰伴随着的信息学竞赛 ID 号 WJMZBMR 成为了江湖上响当当的大神。</p><p data-vmark="2695">在清华就读期间，陈立杰就已发表了多篇学术论文。</p><p data-vmark="be40">2017 年，陈立杰在计算机科学基础年度研讨会（FOCS）上的论文，解决了计算复杂性领域的重要问题。他也成为首位在 FOCS 上发文的中国本科生。</p><p data-vmark="ee0e">之后陈立杰进入 MIT 攻读博士学位。赴美留学的第三年，陈立杰的学术成果迎来了一次大爆发。</p><p data-vmark="66aa" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/dbb16ee8-4565-46fb-b3c5-ab0daf463ce3.png" w="366" h="366" alt="正面照特写，白T恤" title="姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员" width="366" height="366" referrerpolicy="no-referrer"></p><p data-vmark="0ba6">2019 年，他拿下理论计算机科学领域最顶级会议 STOC 2019 DannyLewin 最佳学生论文奖；</p><p data-vmark="d509">同年，在 FOCS 2019 上，<span class="accentTextColor">他不仅一口气发表了 3 篇论文，还获得了最佳学生论文奖</span>。</p><p data-vmark="01dd">虽然是学霸，但陈立杰一直保持着谦逊的姿态，他说自己并不算天资聪颖的人，经常感到自己的智商被前室友范浩强“碾压”。</p><p data-vmark="e7fc">他当年的特奖答辩会也成功出圈，在B站上获得近 30 万播放量。</p><p data-vmark="2ad9" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/852b803a-05a2-471e-896b-e83dba90206f.png" w="1080" h="842" alt="在清华演讲全文" title="姚班大神陈立杰最新动向：MIT 毕业后将成为 UC 伯克利 Miller 研究员" width="1080" height="639" referrerpolicy="no-referrer"></p><p data-vmark="45e5">在答辩上，陈立杰还立下 flag：<span class="accentTextColor">立志从事理论计算机科研</span>，有生之年，一定会看到 P&NP 这个计算机界大难题被解决。</p>
+          
+</div>
+            
