@@ -1,0 +1,19 @@
+
+---
+title: '股价腰斩，_特斯拉杀手_Rivian，泡沫还是实力？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member1/202201/26093159779498.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 26 Jan 2022 01:47:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member1/202201/26093159779498.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">砺石导言：只有真正跨越特斯拉经历过的“产能魔咒”，Rivian才能真正证明自己，目前谈它是“特斯拉杀手”，明显为时尚早。</p><p style="text-indent: 2em; text-align: left;">李平｜ 作者</p><p style="text-indent: 2em; text-align: left;"><strong>1</strong></p><p style="text-indent: 2em; text-align: left;"><strong>交付量不及预期 ，Rivian股价腰斩</strong></p><p style="text-indent: 2em; text-align: left;">1月11日，美国电动皮卡制造商Rivian Automotive（RIVN．US）发布公告称，截至2021年底，公司共生产了1015辆汽车，交付量为920辆，低于其最初设定的1200辆产量目标。</p><p style="text-indent: 2em; text-align: left;">去年年底，Rivian就曾表示，由于供应链问题，预计产量将比2021年1200辆的目标“少几百辆”。</p><p style="text-indent: 2em; text-align: left;">尽管公司已提前做出<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>预警，Rivian股价在公布销量数据后仍跌跌不休。1月18日，Rivian股价报收于73．16美元，收盘价首次跌破发行价（78美元）。</p><p style="text-indent: 2em; text-align: left;">去年11月，头顶“特斯拉杀手”光环的Rivian上市后股价大幅上涨，5个交易日后股价最高涨至179．47美元，市值突破1500亿美元大关，超越福特、通用、戴姆勒、大众等汽车巨头，一跃成为（按市值计算的）全球第三大车企。</p><p style="text-indent: 2em; text-align: left;">但从股价翻倍到跌破发行价，Rivian只用了2个月时间。</p><p style="text-indent: 2em; text-align: left;">除了交付量数据不佳之外，Rivian高管团队似乎也不太稳定。美国媒体报道，Rivian首席运营官罗德·科普斯（Rod Copes）已经辞职。资料显示，自2020年3月以来，罗德·科普斯一直在Rivian担任首席运营官职位。</p><p style="text-indent: 2em; text-align: left;">此外，市场普遍认为，亚马逊的“移情别恋”也给了Rivian沉重一击。</p><p style="text-indent: 2em; text-align: left;">零收入、持续大幅亏损的Rivian之所以受到投资者青睐，一个主要的原因就是获得了电商巨头亚马逊的强力支持。资料显示，早在2019年，亚马逊曾宣布从Rivian订购了10万辆电动送货车，首批1万辆将于2022年年底交付使用。</p><p style="text-indent: 2em; text-align: left;">另外，亚马逊还是Rivian的重要金主，其2019年2月的首轮7亿美元融资，便是来自亚马逊。截至2021年年中，Rivian共获得105亿美元融资，亚马逊参与了其中四次，累计投资金额超过13亿美元。Rivian上市之后，亚马逊仍持有其18．9％的A类股及17．3％的股权，位列公司第一大股东位置。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member1/202201/26093159779498.jpg" title="“特斯拉杀手”Rivian，名不副实" alt="“特斯拉杀手”Rivian，名不副实" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不过，就当很多人认为Rivian会成为亚马逊在<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>的“代言人”之时，后者又与全球第四大<span class="hrefStyle"><a href="http://nev.ofweek.com/CAT-71008-manufacturing.html" target="_blank" title="汽车制造">汽车制造</a></span>商Stellantis集团传出“绯闻”。</p><p style="text-indent: 2em; text-align: left;">1月5日，Stellantis和亚马逊宣布了一项以汽车软件为核心的长期合作协议。根据协议，亚马逊将成为Stellantis旗下Ram Promaster电动货车的第一个商业客户。</p><p style="text-indent: 2em; text-align: left;">2021年1月，标致－雪铁龙（PSA）与菲亚特－克莱斯勒集团（FCA）两大巨头合并后成立Stellantis集团，后者也由此成为仅次于<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E5%A4%A7%E4%BC%97%E9%9B%86%E5%9B%A2.HTM" target="_blank" title="大众集团">大众集团</a></span>、丰田汽车和雷诺日产联盟的全球第四大汽车集团。目前，Stellantis集团旗下拥有菲亚特、Jeep、标致、雪铁龙、玛莎拉蒂等15个品牌，覆盖超豪华、豪华、主流<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E4%B9%98%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="乘用车">乘用车</a></span>乃至重型皮卡、SUV和轻型商务车等细分市场，另外其在货车领域也实力不俗。</p><p style="text-indent: 2em; text-align: left;">值得一提的是，亚马逊一直是Stellantis的长期客户，此前其就购置了数万辆Stellantis旗下的燃油货车。外界由此认为，Stellantis将在电动汽车领域继续跟亚马逊保持合作，进而与Rivian展开直接竞争。</p><p style="text-indent: 2em; text-align: left;">亚马逊在公布与Stellantis的交易后发布声明称，亚马逊一直打算与多家电动送货车供应商合作。“我们仍然对与Rivian的合作关系感到兴奋，这不会改变我们的投资、合作、订单规模和时间。”</p><p style="text-indent: 2em; text-align: left;">如此来看，亚马逊暂时并未有“抛弃”Rivian的打算，这也不符合公司利益。从投资回报上看，亚马逊投资Rivian已经获得数十倍的回报。而Rivian股价之所以惨遭腰斩，根本原因或许还在于估值过高。</p> 
+  
+</div>
+            

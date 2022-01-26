@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
 author: 开源中国
 comments: false
-date: Tue, 25 Jan 2022 23:43:00 GMT
+date: Wed, 26 Jan 2022 07:42:00 GMT
 thumbnail: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
 ---
 
