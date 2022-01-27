@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/11/a8b104fe8b390dbb773860082f1f5d75.
 ---
 
 <div>   
-美商藝電與 Maxis 今日宣布，全新內容組合《模擬市民 4：繽紛嘉年華套件包》，將於 2 月 3 日，在 PlayStation 4、PlayStation 5、Xbox Series X|S、Xbox One，還有 PC 與 Mac 的...
+美商藝電與 Maxis 今日宣布，全新內容組合《模擬市民 4：繽紛嘉年華套件包》將於 2 月 3 日，在 PlayStation 4、PlayStation 5、Xbox Series X|S、Xbox One，還有 PC 與 Mac 的 ...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/11/a8b104fe8b390dbb773860082f1f5d75.JPG" referrerpolicy="no-referrer">  
 </div>
