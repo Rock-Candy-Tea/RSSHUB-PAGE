@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/f5be8c69-c96e-421f-a409-1125e3
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/f5be8c69-c96e-421f-a409-1125e355eaf1.jpg" referrerpolicy="no-referrer"><p>情況從複雜變成難以理解。</p>  
+<img src="https://img.4gamers.com.tw/news-image/f5be8c69-c96e-421f-a409-1125e355eaf1.jpg" referrerpolicy="no-referrer"><p>情況從糟糕變成難以理解。</p>  
 </div>
             
