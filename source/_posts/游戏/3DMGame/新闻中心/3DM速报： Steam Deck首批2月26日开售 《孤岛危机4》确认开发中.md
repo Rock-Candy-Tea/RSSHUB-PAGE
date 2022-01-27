@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220127/1643233807_2576
 
 <div>   
 <p style="text-indent:2em;">
-<span>欢迎来到今日的三大妈速报</span>
+<span>欢迎来到今日的三大妈速报</span> 
 </p>
 <p style="text-indent:2em;">
 三分钟带你了解游戏业最新资讯
@@ -50,9 +50,9 @@ Steam Deck 2月26日正式开售，《孤岛危机4》确认开发中
 <h3>
 新闻一句话
 </h3>
-<h3>
+<p style="text-indent:2em;">
 <strong><span style="font-size:14px;">1、1688之力？国服暴雪战网今日突崩，原因未知</span></strong> 
-</h3>
+</p>
 <p style="text-indent:2em;">
 这……都买幽灵虎去了？今天不知为何，国服战网突然崩溃，上午玩家们是一登陆就卡在排队状态里进不去，甚至还有闲着没事，故意排队拱火的。这突如其来的情况……难道，战网要改成Windows自带啦？其实并不是啊，因为除了国服其他区服都没啥问题，所以，还得赖1688！
 </p>
