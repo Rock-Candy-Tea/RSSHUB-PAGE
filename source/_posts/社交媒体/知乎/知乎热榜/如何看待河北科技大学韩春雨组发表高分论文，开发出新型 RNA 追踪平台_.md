@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1662'
+headimg: 'https://picsum.photos/400/300?random=4535'
 author: 知乎
 comments: false
-date: Wed, 26 Jan 2022 11:12:59 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1662'
+date: Thu, 27 Jan 2022 00:14:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4535'
 ---
 
 <div>   
-芦中人的回答<br><br><p data-pid="Cbi_-8Kq">我觉得跟上海生科院的裴刚，耿美玉，甚至蒲慕明比，韩春雨绝逼是老实巴交了。搁大陆，韩春雨这点事根本不叫个屎。你随机挑神所的论文重复，大概率是重复不出来的，不信就去试试。</p>  
+陈同学的回答<br><br><p data-pid="WJwgK1ML">韩春雨事件已经过去六年了，时间真的过的太快了…</p><p data-pid="HRshzHQV">当年的我还会义愤填膺，这几年看到这么多妖魔鬼怪，感觉韩春雨都是难得的好人了。</p><p data-pid="UIaJk_BZ">至少他没有“图片重复”，也没“全篇抄袭”，更没有为药厂站台…</p><p data-pid="RpOg-ijI">生物医学可重复性低的文章数不胜数，只有他被架在架子上烤。</p><p data-pid="ONFxlzlo">真的太惨了。</p>  
 </div>
             
