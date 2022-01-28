@@ -1,0 +1,19 @@
+
+---
+title: '《GT赛车7》的新预告片 展示本作_震撼画面_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0128/ebb1440af734367.jpg'
+author: cnBeta
+comments: false
+date: Fri, 28 Jan 2022 02:12:50 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0128/ebb1440af734367.jpg'
+---
+
+<div>   
+<strong>PlayStation发布了《GT赛车7》的新预告片“找到你的路线”</strong>，本作支持DualSense适应性扳机，3D音频，以及藉由PS5主机强大机能而实现的震撼画面。<br>
+ <p>《GT赛车7》仍然计划在3月4日发售。</p><p><iframe src="https://player.youku.com/embed/XNTgzODMxOTYyOA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="750" height="480" frameborder="0"></iframe></p><p>预告片：</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/ebb1440af734367.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/ebb1440af734367.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/ebb1440af734367.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/bcb6ceb9ecc81b5.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/bcb6ceb9ecc81b5.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/bcb6ceb9ecc81b5.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/f750efd48757769.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/f750efd48757769.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/f750efd48757769.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/35bc41b761456da.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/35bc41b761456da.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/35bc41b761456da.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/db0d632fae281c6.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/db0d632fae281c6.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/db0d632fae281c6.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/2b929e8661a5cf2.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/2b929e8661a5cf2.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/2b929e8661a5cf2.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/a6c4cde0d7ffc5d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/a6c4cde0d7ffc5d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/a6c4cde0d7ffc5d.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/70c25ffbddab6bb.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/70c25ffbddab6bb.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/70c25ffbddab6bb.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/2abc6659a4759e8.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/2abc6659a4759e8.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/2abc6659a4759e8.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0128/1c1b5ff8bbd0eb5.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0128/1c1b5ff8bbd0eb5.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0128/1c1b5ff8bbd0eb5.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
