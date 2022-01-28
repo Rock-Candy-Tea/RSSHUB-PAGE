@@ -1,0 +1,19 @@
+
+---
+title: 'IDC公布中国智能手机市场四季度数据：苹果登顶 折叠屏热度再起'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0128/347be9400c6e053.png'
+author: cnBeta
+comments: false
+date: Fri, 28 Jan 2022 07:41:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0128/347be9400c6e053.png'
+---
+
+<div>   
+根据最新国际数据公司（IDC）手机季度跟踪报告，2021年第四季度，中国智能手机市场出货量约8,340万台，同比下降3.5%。2021年全年中国智能手机市场出货量约3.29亿台，同比微涨1.1%。<br>
+ <p>2021年全年，中国智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>市场呈现“前高后低”的节奏。在新年伊始，由于全行业预期较高，疫情稳定可控，以及相关政策刺激消费需求的背景下，第一季度国内市场呈现大幅增长。而之后的两个季度，由于消费需求回落、部分产品供应受阻、中高端产品线终端流速不及预期等原因，出货量出现较大幅度下滑。第四季度，随着12月内部分核心新产品发布的带动，下滑幅度有所收窄。</p><p><a href="https://static.cnbetacdn.com/article/2022/0128/347be9400c6e053.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0128/347be9400c6e053.png" title alt="getfile.png" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/0128/298771cdd2e1bf4.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0128/298771cdd2e1bf4.png" title alt="getfile.png" referrerpolicy="no-referrer"></a></p><p><img src="https://static.cnbetacdn.com/article/2022/0128/b118da38d20ae87.png" title alt="e0d452bd1b23e48.png" referrerpolicy="no-referrer"></p><p><strong>2021年第四季度及全年前五大智能手机厂商市场表现：</strong></p><p><strong>Apple</strong> 在第四季度出货量排名国内市场首位，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 13系列取得优异的市场的原因不仅缘于<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>高端产品供应受阻，也来自于其定价策略，良好的供应链掌控能力，和持续深入的渠道覆盖能力。全年来看，Apple在国内市场总出货量自2015年以来再次突破5,000万台，全年增幅也在前五大厂商中最高。</p><p><strong>Honor</strong> 在12月的<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">荣耀</a>60系列、X30系列等新品的带动下，第四季度延续了强劲的增长势头。荣耀经历过上半年的调整期后，主攻中高端市场的产品策略并取得了明显的成效，荣耀50系列为主的 ”爆款产品 “帮助荣耀在人民币2,500-3,500价位段市场始终占据优势地位。全年出货量达到3,860万台，相比2020年也取得了小幅增长，全年市场排名进入前五。</p><p><strong>vivo</strong> 通过其前五厂商中最丰富的产品线布局，在2021年内获取了稳定增长，全年市场份额排名国内第一。其中，X系列，以及子品牌iQOO在2021年内均取得了较明显的增长，帮助vivo在中高端市场，以及线上渠道市场获得了更大的优势。</p><p><strong>OPPO</strong>在2021年内国内市场出货量超过6,700万台，排名第二。OPPO在2021年内，K、Reno、Find三大核心产品线占比均比2020年有所提升。第四季度发布的Reno 7系列，帮助OPPO继续巩固了人民币2,000-3,000元价位段线下市场的份额。</p><p><strong>Xiaomi</strong>新品Note 11系列以及<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=450&euid=&t=http%3A%2F%2Fwww.mi.com%2F" target="_blank">小米</a>12系列在第四季度，尤其12月份成为了带动小米出货表现的主力军。而<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=450&euid=&t=http%3A%2F%2Fwww.mi.com%2F" target="_blank">Redmi</a> 9系列，K40系列整年内的稳定市场表现，帮助小米在2021年全年出货量超过5,000万台，市场份额排名进入前三。</p><p><strong>折叠屏市场热度再起</strong></p><p>根据国际数据公司（IDC）手机月度跟踪报告，2021年全年中国市场折叠屏产品规模约150万台，各厂商份额如下：</p><p><img src="https://static.cnbetacdn.com/article/2022/0128/149a5a8d2bce4c2.png" title alt="db74a6231f74564.png" referrerpolicy="no-referrer"></p><p>在2021年内，折叠屏产品在国内智能机市场中占比约0.5%，依旧是一种小众的产品形态，但近期，随着多家头部厂商新品的集中发布，折叠屏产品的市场热度再一次被推向高峰。IDC认为，近期折叠屏手机的市场关注度再次高涨由如下原因驱动：</p><p>1. 近年来，各国产品牌努力上探高端价位市场，但过程充满挑战，因此，从产品形态的角度走出不同于Apple的差异化路线，是国产品牌为了继续挑战高端市场、树立未来高端品牌形象，所进行的主动的探索。</p><p>2. 部分头部厂商主动推进折叠屏新品价格下探到万元以内，甚至八千元以内。更贴进主流高端产品的价位，同时，针对多款新品所采取的相对保守的供货策略，令市场处在供不应求的状态，这也导致了潜在购买群体的关注度居高不下。</p><p>3. 应用软件及相应使用场景的适配和开发，硬件产业链的日趋成熟化、规模化，带动了折叠屏产品的实用性、可靠性的快速提升，折叠屏产品除了其独特的社交、装饰属性外，也已经可以做到在部分使用场景为用户带来更好的体验和价值。</p><p><strong>IDC中国研究经理王希</strong>指出，2021年国内整体市场出货量虽然呈现小幅正增长，但短期内终端用户需求的层面没有展现出明显的提升。2022年，从整体市场规模的角度上将会是继续存在挑战的一年，但同样也适合各厂商专注技术储备、产品线优化、门店效率化运营等“内在实力”的提升，以迎接未来的机会。</p>   
+</div>
+            
