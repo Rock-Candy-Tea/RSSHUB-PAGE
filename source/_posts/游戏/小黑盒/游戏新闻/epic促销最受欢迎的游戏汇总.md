@@ -1,0 +1,18 @@
+
+---
+title: 'epic促销最受欢迎的游戏汇总'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/01/29/e6b315e7efd0c5091c56dfe460f54dcf/thumb.png'
+author: 小黑盒
+comments: false
+date: Sat, 29 Jan 2022 16:56:23 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/01/29/e6b315e7efd0c5091c56dfe460f54dcf/thumb.png'
+---
+
+<div>   
+<p>epic在此次促销中，不仅有众所周知的一些大作，也有不少热度没那么高的优秀作品，我在此为大家做一个比较全面的汇总，<b>这一期先给大家汇总我看了几百条评论之后看到的大家买得最多的游戏，下一期是一些大家不知道在打折的优秀游戏。</b></p><hr><p>在此之前先解决一个不少朋友盘碰到的问题，有关优惠券领取，具体位置可见下图。</p><p><img class="lazy" data-height="829" src="https://imgheybox.max-c.com/web/2022/01/29/e6b315e7efd0c5091c56dfe460f54dcf/thumb.png" data-width="1546" referrerpolicy="no-referrer"></p><p><br></p><hr><blockquote><p><b>现在进入正题，讲讲大家都在买的游戏</b></p><p>由于此次优惠券可以组合使用，所以我将只写上未用券时候的价格，<b>优惠券是满90元-65元，建议大家根据自己的需要，自行排列组合，不用强行抄作业</b></p></blockquote><hr><p><b>1.《荒野大镖客：救赎2》</b></p><p><img data-gameid="1174180" src="https://cdn.max-c.com/heybox/game/header/1174180_QlGB3.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>114元</b></p><p>大表哥2价格还是和上次圣诞促销时候一样，大家可以放心入手，用券的话是49元</p><hr><p><b>2.《赛博朋克2077》</b><br></p><p><img data-gameid="1091500" src="https://cdn.max-c.com/heybox/game/header/1091500_3olJW.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>140元</b></p><p>2077的价格同样也是和上次一样，至于买不买大家见仁见智，券后75元</p><hr><p><b>3.《GTA5》</b></p><p><img data-gameid="271590" src="https://cdn.max-c.com/heybox/game/header/271590_ia1h3.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>59元</b></p><p>2022年了，还没买gta5的朋友们可以抓住这次机会凑单拿下</p><hr><p><b>4.《巫师3》</b></p><p><img data-gameid="292030" src="https://cdn.max-c.com/heybox/game/header/292030_6x1Ub.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>33.8元</b></p><p>最经典游戏之一，这次是入手的好机会</p><hr><p><b>5.《星际拓荒》</b></p><p><img data-gameid="753640" src="https://cdn.max-c.com/heybox/game/header/753640_viqWZ.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>50.4元</b></p><p>很不错的太空探索游戏，内容很丰富，评价很高</p><hr><p><b>6.《哈迪斯》</b></p><p><img data-gameid="1145360" src="https://cdn.max-c.com/heybox/game/header/1145360_tdTDK.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>46.15元</b></p><p>优秀的肉鸽游戏，值得入手</p><hr><p><b>7.《极乐迪斯科》</b></p><p><img data-gameid="632470" src="https://cdn.max-c.com/heybox/game/header/632470_cSnkD.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>41.6元</b></p><p>好评如潮的rpg游戏，拥有庞大的世界观和丰富的文本剧情</p><hr><p><b>8.《死亡搁浅》</b></p><p><img data-gameid="1190460" src="https://cdn.max-c.com/heybox/game/header/1190460_9iZv1.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>104.65元</b></p><p>死亡搁浅券后39，和上次促销价格一样，可入手</p><hr><p><b>9.《地铁：离去》</b></p><p><img data-gameid="412020" src="https://cdn.max-c.com/heybox/game/header/412020_nSiW8.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>59.6元 （黄金版67.71元）</b></p><p>地铁系列神作，剧情与游戏性都特别不错</p><hr><p><b>10.《深海迷航》</b>（Subnautica）</p><p><img data-gameid="264710" src="https://cdn.max-c.com/heybox/game/header/264710_xaAsR.jpg" referrerpolicy="no-referrer"></p><p>现价：<b>52元</b></p><p>海洋探险巅峰之作，让你感到新奇的同时吓你一跳</p><hr><p>以上就是<b>此次促销最受欢迎</b>的一批游戏，但是这次促销的优秀游戏远不止于此，<b>下一期为大家汇总那些悄悄打折的游戏</b>，希望大家点赞充电支持一下</p><p>10元以下凑单游戏推荐：<a href="https://www.xiaoheihe.cn/community/1/list/76844473" target="_blank">epic促销凑单游戏精选</a></p><p>另外的促销游戏推荐：<a href="https://www.xiaoheihe.cn/community/1/list/76835131" target="_blank">epic促销满减推荐（精心收集）</a></p><p contenteditable="false"><img class="lazy" src="https://cdn.max-c.com/stickers/heyboxgirl/13/thumb.png" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#epic春节特惠游戏推荐</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><br></p>  
+</div>
+            
