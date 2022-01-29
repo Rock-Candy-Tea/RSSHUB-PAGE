@@ -22,7 +22,7 @@ One和NS平台。
 Exhumed》对这款第一人称射击游戏的PlayStation和世嘉土星版本进行结合，使用KEX引擎制作。本作地点设置在古埃及卡纳克，外星人降临此处封锁整座城市，断绝了这里与外界的一切接触。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220129/1643439258_902132.jpg" alt="经典游戏复刻 《PowerSlave: Exhumed》2月10日发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220129/1643439258_902132.jpg" alt="经典游戏复刻 《PowerSlave: Exhumed》2月10日发售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《PowerSlave: 
