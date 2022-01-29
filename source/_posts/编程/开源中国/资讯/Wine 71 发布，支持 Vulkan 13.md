@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6739'
+headimg: 'https://picsum.photos/400/300?random=6801'
 author: 开源中国
 comments: false
-date: Sat, 29 Jan 2022 00:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6739'
+date: Sat, 29 Jan 2022 08:00:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6801'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=6739'
                                                                                             <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Wine（Wine Is Not an Emulator）是一个能够在多种兼容 POSIX 接口的操作系统（诸如 Linux、macOS 与 BSD 等）上运行 Windows 应用的兼容层。它不是像虚拟机或者模拟器一样模仿内部的 Windows 逻辑，而是将 Windows API 调用翻译成为动态的 POSIX 调用，免除了性能和其它一些行为的内存占用，让你能够干净地整合 Windows 应用到桌面。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Wine 7.1 已经正式<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.winehq.org%2Fnews%2F2022012801" target="_blank">发布</a>，具体更新内容包括：</p> 
 <ul> 
- <li>Vulkan  1.3 支持。</li> 
+ <li>Vulkan 1.3 支持。</li> 
  <li>一些主题修复。</li> 
  <li>WebSocket 改进。</li> 
  <li>改进了 macOS 上的光标剪辑。</li> 
