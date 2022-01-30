@@ -1,0 +1,19 @@
+
+---
+title: '广电总局发布我国自研_高动态范围电视系统（HDR）_行业标准，将用于冬奥'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/1/5e6883d1-b608-4082-91de-a8fa2bc4f646.png'
+author: IT 之家
+comments: false
+date: Sun, 30 Jan 2022 01:55:03 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/1/5e6883d1-b608-4082-91de-a8fa2bc4f646.png'
+---
+
+<div>   
+<p data-vmark="cbbb"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 1 月 30 日消息，今日国家广播电视总局发布《高动态范围电视系统显示适配元数据技术要求》行业标准（GY / T 358—2022）。<span class="accentTextColor">这一标准将在 2022 北京冬奥会、冬残奥会得以应用</span>。</p><p data-vmark="d2a9" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/5e6883d1-b608-4082-91de-a8fa2bc4f646.png" w="787" h="957" alt="标准文件封面" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="787" height="957" referrerpolicy="no-referrer"></p><p data-vmark="0577">高动态范围（HDR）技术在超高清视频中的应用可实现更大曝光动态范围，能更好提取和显示高光及暗部细节，丰富色彩和层次，提升画面质感，增强纵深感，使画面更趋近自然。该标准面向超高清电视高动态范围节目的显示适配需求，<span class="accentTextColor">提出了显示适配元数据提取、封装传输及图像重构方法</span>，能适配不同显示能力终端的图像呈现要求。</p><p data-vmark="5f6b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/85cf7c52-3038-48c4-9c28-308c81acd064.png" w="608" h="536" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="608" height="536" referrerpolicy="no-referrer"></p><p data-vmark="682b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/e28b566b-8a91-4d2f-b2c9-fbc6fbfd8ca2.png" w="605" h="528" alt="HDR 视频对比，双板滑雪运动员" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="605" height="528" referrerpolicy="no-referrer"></p><p data-vmark="f589">HDR 作为高新视频领域的一项关键基础技术，过去只有少数国外企业能够提供。国家广播电视总局组织国内产学研用机构开展科技攻关，<span class="accentTextColor">实现技术突破，填补了国内空白</span>。该标准的发布，对于规范和促进我国超高清视频产业发展具有重要作用，也是科技标准服务北京冬奥的一项重要举措。</p><p data-vmark="3ee0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/50faad23-ca07-4005-8ab1-a56b0f35c509.png" w="1228" h="1023" alt="网页截图" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="1228" height="683" referrerpolicy="no-referrer"></p><p data-vmark="dfd3">IT之家了解到，目前，该标准的核心技术已实现在超高清视频内容制作、编码、接收、解码、显示等端到端的全产业链布局，<span class="accentTextColor">以“HDR Vivid”自有品牌名称开展产业化推广</span>。在内容制播方面，<span class="accentTextColor">中央广播电视总台以及腾讯、爱奇艺、咪咕等平台已率先应用</span>。在制作工具、编码器、解码芯片、显示终端等方面，业内已有成都索贝、当虹科技、数码视讯、上海海思、晶晨半导体、联发科、华为、康佳、夏普等企业应用。</p><p data-vmark="8a83">介绍视频：</p><p data-vmark="66ff"><a class="ithome_super_player" contenteditable="false" target="_blank" data-timestamp="1643508728043" data-vpreview-url="https://f.video.weibocdn.com/u0/DU92xRPDgx07Tmp1lD6o01041200lw7b0E010.mp4?label=hevc_mp4_hd&template=540x960.28.0&trans_finger=c30bc8498d895b46e35fd4ffd3b941db&ori=0&ps=1BThihd3VLAY5R&Expires=1643512330&ssig=bXaJQj3wQO&KID=unistore,video" href="https://weibo.com/7408066931/Ld7yOyIMI"></a></p><p data-vmark="9675">《高动态范电视系统显示适配元数据技术要求》原文 PDF：<a href="http://www.nrta.gov.cn/module/download/downfile.jsp?spm=chekydwncf.0.0.1.JeYvEW&classid=0&showname=%E3%80%8A%E9%AB%98%E5%8A%A8%E6%80%81%E8%8C%83%E5%9B%B4%E7%94%B5%E8%A7%86%E7%B3%BB%E7%BB%9F%E6%98%BE%E7%A4%BA%E9%80%82%E9%85%8D%E5%85%83%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E8%A6%81%E6%B1%82%E3%80%8B.pdf&filename=c5a92ccbfd3b4a9e98e18497a970f2d4.pdf" target="_blank">点击下载</a></p><p data-vmark="7c8f" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/863ed7c7-c51f-4c26-9e44-1d96eb3d6c40.png" w="1263" h="918" alt="HDR 视频制作全流程" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="1263" height="596" referrerpolicy="no-referrer"></p><p data-vmark="1ed3" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/5fdd6334-c0fd-4ea8-81fe-9e4ed17aefd7.png" w="1111" h="1039" alt="HDR 显示适配过程" title="广电总局发布我国自研“高动态范围电视系统（HDR）”行业标准，将用于冬奥" width="1111" height="767" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
