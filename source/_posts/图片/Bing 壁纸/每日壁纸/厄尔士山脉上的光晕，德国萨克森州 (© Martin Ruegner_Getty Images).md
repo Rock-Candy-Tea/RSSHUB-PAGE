@@ -5,14 +5,14 @@ categories:
  - 图片
  - Bing 壁纸
  - 每日壁纸
-headimg: 'https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+headimg: 'https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN5532759802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
 author: Bing 壁纸
 comments: false
-date: 2022-01-31 14:07:11
-thumbnail: 'https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+date: 2022-01-31 15:07:30
+thumbnail: 'https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN5532759802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
 ---
 
 <div>   
-<img src="https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" referrerpolicy="no-referrer">  
+<img src="https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN5532759802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" referrerpolicy="no-referrer">  
 </div>
             
