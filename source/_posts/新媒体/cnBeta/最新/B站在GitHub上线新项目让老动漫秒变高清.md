@@ -1,0 +1,19 @@
+
+---
+title: 'B站在GitHub上线新项目让老动漫秒变高清'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://img1.mydrivers.com/img/20220131/6acf9da4a3864bac8d9f3a28fb8904d2.png'
+author: cnBeta
+comments: false
+date: Mon, 31 Jan 2022 06:54:40 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220131/6acf9da4a3864bac8d9f3a28fb8904d2.png'
+---
+
+<div>   
+1月31日消息，哔哩哔哩弹幕网（B站）最近在GitHub上线了一项全新的项目，其名为<strong>Real-CUGAN通用动漫图像超分辨率模型</strong>，可让老旧动漫画面变高清。据了解，Real-CUGAN是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型，支持2x3x4x倍超分辨率，其中2倍模型支持 4 种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。<br>
+ <p><img alt="二次元老婆们更美了！B站放出新大招：老动漫秒变高清" h="112" src="https://img1.mydrivers.com/img/20220131/6acf9da4a3864bac8d9f3a28fb8904d2.png" w="600" referrerpolicy="no-referrer"></p><p><img alt="二次元老婆们更美了！B站放出新大招：老动漫秒变高清" h="84" src="https://img1.mydrivers.com/img/20220131/28eeeca15302473797e2e1bd7100d8da.png" w="600" referrerpolicy="no-referrer"></p><p>需要注意的是，该模型在<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 10 64位系统中测试，以及cuda10以上，可生成“降噪版”“无降噪版”“保守版” 三种图像类型。</p><p><strong>降噪版</strong>：如果原片噪声多，压得烂，推荐使用；目前 2 倍模型支持了 3 个降噪等级；</p><p><strong>无降噪版</strong>：如果原片噪声不多，压得还行，但是想提高分辨率/清晰度/做通用性的增强、修复处理，推荐使用；</p><p><strong>保守版</strong>：如果你担心丢失纹理，担心画风被改变，担心颜色被增强，总之就是各种担心AI会留下浓重的处理痕迹，推荐使用该版本。</p><p>从官方晒出的对比图来看，修复后的画面比原版要高清得多，即便是“上古画质”如《黑猫警长》等动漫也能实现高清修复，效果十分显著。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/8fa8e401446f68b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/8fa8e401446f68b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/8fa8e401446f68b.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/319bbf72e46e8b8.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/319bbf72e46e8b8.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/319bbf72e46e8b8.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/4820351ec22d76c.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/4820351ec22d76c.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/4820351ec22d76c.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/8eabdff6e317af2.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/8eabdff6e317af2.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/8eabdff6e317af2.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/abbe28b7ec60b40.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/abbe28b7ec60b40.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/abbe28b7ec60b40.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/d83cf2965df17dd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/d83cf2965df17dd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/d83cf2965df17dd.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0131/693d5578a691a4c.png"><img data-original="https://static.cnbetacdn.com/article/2022/0131/693d5578a691a4c.png" src="https://static.cnbetacdn.com/thumb/article/2022/0131/693d5578a691a4c.png" referrerpolicy="no-referrer"></a></p><p>最后放上该项目的链接，感兴趣的朋友可以去访问具体了解一番：</p><p><a href="https://github.com/bilibili/ailab/tree/main/Real-CUGAN" _src="https://github.com/bilibili/ailab/tree/main/Real-CUGAN" target="_blank">https://github.com/bilibili/ailab/tree/main/Real-CUGAN</a><br></p>   
+</div>
+            
