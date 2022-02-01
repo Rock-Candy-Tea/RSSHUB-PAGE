@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/love-death-robots-volume-2/2955774366-1621011148/ldr2_pop_stills_approved_18s.jpg'
 author: Blur Studio
 comments: false
-date: 2022-02-01 02:24:39
+date: 2022-02-01 03:10:23
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/love-death-robots-volume-2/2955774366-1621011148/ldr2_pop_stills_approved_18s.jpg'
 ---
 
