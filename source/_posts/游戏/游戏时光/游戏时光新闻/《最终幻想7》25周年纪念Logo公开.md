@@ -23,7 +23,8 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/01/31/220131201625351_u8855
 
                 
                 
-                    <div class="topicContent front_content sort_content">《最终幻想7》于今日迎来了发售25周年纪念日，Square Enix正式公布了由野村哲也设计的25周年纪念Logo。制作人北濑佳范和野村哲也于今日稍早时曾透露，在《最终幻想7重制版》之后，本系列还将有更多“新企划”面世。</div>
+                    <div class="topicContent front_content sort_content">更新：制作人北濑佳范在直播活动中透露，将在今年带来更多关于《最终幻想7 重制版》第二章的消息。
+《最终幻想7》于今日迎来了发售25周年纪念日，Square Enix正式公布了由野村哲也设计的25周年纪念Logo。在《最终幻想7 重制版》之后，本系列还将有更多“新企划”面世。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/01/31/220131201625351_u8855.jpg" src="https://img01.vgtime.com/game/cover/2022/01/31/220131201625351_u8855.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
