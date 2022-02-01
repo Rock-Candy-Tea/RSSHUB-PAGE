@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622551_753962.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 01 Feb 2022 07:25:00 GMT
+date: Tue, 01 Feb 2022 07:48:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622551_753962.jpg'
 ---
 
@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20211216/1639622551_7539
 Bungie如今也成为业界仅有的一家先后隶属于微软和索尼的开发工作室。我们不妨看看这两家公司收购Bungie所开出的价格。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20211216/1639622551_753962.jpg" alt="索尼收购Bungie比当初微软收购多花了多少钱？" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20211216/1639622551_753962.jpg" alt="索尼收购Bungie比当初微软收购多花了多少钱？" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 2000年，微软收购Bungie的价格约在2000-4000万美元之间。考虑到通胀因素，索尼的36亿美元在2000年大概相当于22亿美元。
