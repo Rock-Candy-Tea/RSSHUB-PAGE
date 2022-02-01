@@ -1,0 +1,19 @@
+
+---
+title: '古代DNA表明猛犸象在地球存活的时间比人们想象的更晚'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0201/0ae9a6e28adf10a.jpg'
+author: cnBeta
+comments: false
+date: Tue, 01 Feb 2022 06:06:07 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0201/0ae9a6e28adf10a.jpg'
+---
+
+<div>   
+2010年，阿尔伯塔大学的一个团队从育空中部克朗代克地区的金矿中收集了少量的永久冻土沉积物的核心。在麦克马斯特古DNA中心的古遗传学家应用新的基因组学技术来更好地理解约12700年前在北美达到顶峰的巨型动物的全球灭绝之前，它们一直被冷藏着。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0201/0ae9a6e28adf10a.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0201/0ae9a6e28adf10a.jpg" alt="1Genetic-Material-Woolly-Mammoths-Yukon-2048x654.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些微小的沉积物样本包含了巨大的古代环境DNA财富，这些DNA来自数千年来生活在这些环境中的无数植物和动物。这些基因微化石源自生态系统的所有组成部分--包括细菌、真菌、植物和动物--并作为久违的生态系统的时间胶囊，如约13000年前消失的猛犸草原。</p><p style="text-align: left;">这些生态系统究竟是如何大幅重组的以及为什么大型动物似乎受这种转变的影响最大自18世纪以来一直是一个活跃的科学辩论领域。</p><p style="text-align: left;">现在则可以利用环境DNA来帮助填补推动这一辩论的空白。</p><p style="text-align: left;"><strong>古老的DNA，尖端的技术</strong></p><p style="text-align: left;">细菌、真菌和无法识别的DNA占环境样本的99.99%以上。在新研究中，研究人员想要一种方法来有选择地恢复小得多的古代植物和动物的DNA，这将帮助他们能够更好地了解猛犸象草原生态系统的崩溃情况。</p><p style="text-align: left;">据悉，研究团队开发了一种新的技术，从沉积物中提取、分离、测序和识别古代DNA的微小片段。</p><p style="text-align: left;">研究人员通过对这些DNA片段的分析追踪了过去3万年中生活在育空地区的植物和动物的变化情况。他们发现了羊毛猛犸象和马在克朗代克地区晚期生存的证据，比预期的晚了约3000年。</p><p style="text-align: left;">然后，他们扩大了分析范围，包括先前从克朗代克地区的四个地点收集的21个永久冻土核心，其日期在4000年至30000年前。</p><p style="text-align: left;">通过利用目前的技术，研究人员不仅可以确定一组遗传微化石来自哪个生物体，而且还能将这些片段重新组合成基因组以研究它们的进化历史--完全来自沉积物。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/02/59d4e07e66b7db2.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/59d4e07e66b7db2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>巨大的环境变化</strong></p><p style="text-align: left;">发生在约11700年前的更新世-全新世过渡期是全球范围内的巨大变化时期。在白令亚东部，这一时期见证了猛犸象-草原生物群落的崩溃并逐渐被我们今天所知的北方森林所取代。</p><p style="text-align: left;">这带来了标志性冰河时代巨型食草动物的消失，如猛犸象、育空马和草原野牛以及美洲弯刀猫和贝林吉亚狮等掠食者。</p><p style="text-align: left;">研究人员发现了来自各种古代动物的环境DNA，包括猛犸象、马、草原野牛、驯鹿、啮齿动物、鸟类和许多其他动物。</p><p style="text-align: left;">另外，他们还能观察到生态系统是如何随着13500年前木本灌木的兴起而发生变化的以及这跟猛犸象、马和草原野牛的DNA的减少有什么关联。通过这个非常丰富的数据集，研究人员观察到了四个主要发现：</p><p style="text-align: left;">各地的信号有惊人的一致性，这表明他们的数据能代表该地区的生态趋势；</p><p style="text-align: left;">毛猛犸象的DNA在Bølling-Allerød变暖之前就已经下降了，这是最后一个冰期结束时的一个温暖时期，这表明巨型动物的损失可能是错开的；</p><p style="text-align: left;">草本植物（草本开花植物）跟草类一起构成了猛犸象草原生态系统的一个重要组成部分；</p><p style="text-align: left;">有一个一致的信号表明，在全新世，即在它们从化石记录中消失7000年之后，长毛猛犸象和育空马仍然存在。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/02/2af72674d274e79.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/2af72674d274e79.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">当跟其他记录配对时，研究人员的遗传学重建表明，最后一个冰川期的过渡可能比单单有日期的骨头所显示的要长。</p><p style="text-align: left;"><strong>跟人类一起的猛犸象</strong></p><p style="text-align: left;">研究数据表明，马和猛犸象可能一直存在于克朗代克地区，直到约9000年前--也许最近在5700年前，比它们从当地化石记录中消失的时间要长7000年。然而，古代环境的DNA有可能在侵蚀和重新沉积中幸存下来，这可能会混合不同时期的遗传信号。</p><p style="text-align: left;">直到最近，还没有证据表明猛犸象可以生存到全新世中期。但现在的研究表明，猛犸象在北极岛屿上一直生存到5500年和4000年前。</p><p style="text-align: left;">哥本哈根地理遗传学中心的研究人员发现了马和猛犸象在阿拉斯加晚期生存的证据，且一直到最近7900年前。他们还发现了猛犸象最近在3900年前在西伯利亚生存的证据，同时还有至少9800年前的毛犀牛。</p><p style="text-align: left;">被认为在更新世期间已经消失并被美洲野牛所取代的草原野牛同样被发现甚至在最近可能只有400年前还生存着。研究人员能在相同的沉积物样本中观察到毛猛犸象和草原野牛的不同遗传品系，这表明这些动物可能有不同的种群生活在同一地区。</p><p style="text-align: left;">越来越多的证据表明，许多冰河时代的巨型动物可能一直生存到有记载的人类历史，在青铜时代和建筑工人在埃及的金字塔上工作时在北方游荡。</p><p style="text-align: left;"><strong>生态历史的基因档案</strong></p><p style="text-align: left;">研究古代遗传微化石的环境DNA方法的日益成熟凸显出沉积物中埋藏着多少信息。</p><p style="text-align: left;">永冻土是保存古代DNA的理想场所，但随着这种常年冰冻的地面随着北极的变暖而解冻和退化，保存在其中的遗传物质和它们曾经拥有的进化之谜也会随之消失。</p>   
+</div>
+            
