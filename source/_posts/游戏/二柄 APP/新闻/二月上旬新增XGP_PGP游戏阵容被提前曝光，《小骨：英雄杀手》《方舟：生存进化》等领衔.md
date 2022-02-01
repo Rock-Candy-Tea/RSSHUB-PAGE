@@ -8,13 +8,13 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/2/2022/02/01/2010083428.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-02-01 12:13:31
+date: 2022-02-01 13:13:12
 thumbnail: 'https://erbingeditor.diershoubing.com/2/2022/02/01/2010083428.jpg'
 ---
 
 <div>   
 根据Dealabs用户Billbill-Kun的爆料，二月上旬新增XGP/PGP游戏阵容被提前曝光，具体名单如下：
-《方舟：生存进化》
+《方舟：生存进化》（加入PGP）
 《层层梦境》
 《地狱之魂》
 《小骨：英雄杀手》

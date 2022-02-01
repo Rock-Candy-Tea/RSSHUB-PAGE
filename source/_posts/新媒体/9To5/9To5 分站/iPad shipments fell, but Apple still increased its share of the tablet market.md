@@ -29,7 +29,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/iPa
 <p>However, shipments in the near future will remain above pre-pandemic levels as virtual learning, remote work, and media consumption remain priorities for users.</p>
 </blockquote>
 <p>Apple easily topped the tablet charts, both for Q4 and for the full year. In Q4, Apple had 38% share against second-place Samsung’s 15.9%. For the full year, it was 34.2% versus 18.3%.</p>
-<p>The value of iPads as work-from-home tools is getting a boost from <a href="https://9to5mac.com/2022/01/28/universal-control-compatible-macs-and-ipads/" target="_blank" rel="noreferrer noopener">the beta launch of universal control</a>, allowing much more seamless use of a MacBook and iPad side-by-side. <em>9to5Mac’s</em><a href="https://9to5mac.com/2022/01/28/universal-contorl-ipad-and-mac-feature/" target="_blank" rel="noreferrer noopener">Chance Miller put it to the test</a>, and was really impressed.</p>
+<p>The value of iPads as work-from-home tools is getting a boost from <a href="https://9to5mac.com/2022/01/28/universal-control-compatible-macs-and-ipads/" target="_blank" rel="noreferrer noopener">the beta launch of universal control</a>, allowing much more seamless use of a MacBook and iPad side-by-side. <em>9to5Mac’</em>s<a href="https://9to5mac.com/2022/01/28/universal-contorl-ipad-and-mac-feature/" target="_blank" rel="noreferrer noopener"> Chance Miller put it to the test</a>, and was really impressed.</p>
 <blockquote class="wp-block-quote">
 <p>In my opinion, Universal Control is perhaps one of the best software features Apple has shipped in years. The feature fundamentally underscores the deep integration between Apple’s hardware and software.</p>
 </blockquote>
