@@ -1,0 +1,18 @@
+
+---
+title: '區塊世界｜不要等到消失前一刻才backup'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/38195083-703e-413a-af7c-494b960db711.png'
+author: Matters
+comments: false
+date: Mon, 31 Jan 2022 18:11:37 GMT
+thumbnail: 'https://assets.matters.news/embed/38195083-703e-413a-af7c-494b960db711.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/38195083-703e-413a-af7c-494b960db711.png" data-asset-id="38195083-703e-413a-af7c-494b960db711" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>去年11月才知道有一個由讚賞公民共和國 Liker.Land和去中心化內容平台 Matters 共同發起的 <a href="https://likecoin.notion.site/likecoingrants/MainPage-32d790bb3d3b4b6ea9832dc0fe8bda62" rel="noopener noreferrer" target="_blank">LikeCoin Grants </a>所推出的<a href="https://www.notion.so/ISCN-ISCN-Rock-n-Roll-8ac071b773f248caa734a8660a62b11b" rel="noopener noreferrer" target="_blank">「ISCN 搖滾祭」特別獎勵計畫</a>，目的是推動文化保育計劃。</p><p>我就申了「內容元資料註冊和策展 The Amplifier」的項目計劃。計劃是精選<a href="https://www.flickr.com/photos/studioincendo/" rel="noopener noreferrer" target="_blank">Studio Incendo</a>在flickr的有關香港社會運動的新聞相片，加上綜合報導內容和一些相片EXIF不會提供的資訊，然後註冊ISCN和Arweave上傳到區塊鏈作永久保存。</p><p>在申請時須要提供示範例子，當時在整理綜合報導內容，還可以使用《立場新聞》和《眾新聞》的新聞報導材料。但到了申請獲批的時候，這兩個網上新聞媒體都相繼被迫停止運作了。</p><p>我用了還不多一個月的時間，在7千多張相片中，挑選了380張。相片記錄了2019年6月大遊行到2021年6月《蘋果日報》停刊的新聞。</p><p>整理這批相片過程最困難的地方，不是尋找相關報導和內容整理，而是有些相片很難辨識拍攝相片位置。這個時候就需要靠攝影記者的經驗，然後借助Google地圖的實景圖確認相片拍攝位置。</p><p>我在做這個新聞相片保育專案計劃的過程，有時因為有很多重複性的工序，會覺得沉悶，沒有動力。但一想到若有一天這些相片和報導可能也會不見，又會鼓勵自己要繼續努力，</p><p>肯定自己正在做有價值和意義的事。</p><p>文化、歷史保育是預防性工作，不要等到它們即將消失的前一刻才做backup工作。《蘋果》、《立場》、《眾新聞》以及港台節目，已給了我們足夠的功課。現時已可以把珍貴的資料、圖片和影片放上區塊鏈作永久保存，我們就要好好使用，為做好保育工作。</p><p>我沒有IT技術背景，不懂怎樣可以一口氣把380筆資料和相片註冊到區塊鏈。感恩有寫「<a href="https://matters.news/@edmond/%E5%A6%82%E4%BD%95%E4%B8%80%E5%8F%A3%E6%B0%A3%E8%A8%BB%E5%86%8A-%E5%94%90%E8%A9%A9%E4%B8%89%E7%99%BE%E9%A6%96-%E5%88%B0%E5%8D%80%E5%A1%8A%E9%8F%88-bafyreiautxzy4r3axckcqkks4vlq7zd4rtehagsh3f4zdinlv6zbc3nuhy" rel="noopener noreferrer" target="_blank">如何一口氣註冊《唐詩三百首》到區塊鏈</a>」的<a class="mention" href="https://matters.news/@edmond" target="_blank" data-display-name="黃牛山人" data-user-name="edmond" data-id="VXNlcjo3ODM">﻿<span>@黃牛山人</span>﻿</a> 的幫忙，省了不少時間。</p><p>「Studio Incendo Flickr 相簿去中心化保存計畫」已去到尾聲，等處理好一些技術問題後，會與大家分享成果。初步計劃會建一個網頁，繼續相關工。</p><p>祝大家虎年平安，無懼風浪！</p><p>＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊<br class="smart">邀請您贊助「一杯咖啡」，支持我的創作： <a href="https://liker.land/bamhk18/civic" rel="noopener noreferrer" target="_blank">https://liker.land/bamhk18/civic</a><br class="smart">請按拍手👏支持「創作有價」謝謝。<br class="smart">＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊<br class="smart"><strong>LikeCoin驗證人：</strong><a href="https://stake.like.co/" rel="noopener noreferrer" target="_blank"><strong>BusinessAsMiossion</strong></a><br class="smart">我們（本人和<a class="mention" href="https://matters.news/@paultsangca" target="_blank" data-display-name="保羅．真" data-user-name="paultsangca" data-id="VXNlcjo3MjcxMw">﻿<span>@保羅．真</span>﻿</a> ）是一個關心香港的團隊。我們會以「授人以漁」原則，為這城市創造有價值的項目，讓更多人可以分享到區塊鏈和密碼貨幣帶來的好處。</p><blockquote><strong>怎樣把你的LikeCoin委託給我們，請你照以下步驟：</strong><br class="smart">在Liker Land app（如沒有請下載<a href="https://liker.land/getapp" rel="noopener noreferrer" target="_blank">Liker Land App</a>） 的「我的錢包」中的按「委託」後點選「所有驗證人」，找到「BusinessAsMission」，按下「委託」，輸入你想委託的數額即可。也可以電腦上網 <a href="https://stake.like.co/" rel="noopener noreferrer" target="_blank">https://stake.like.co/</a> 委託給我們，謝謝您的支持！</blockquote><figure class="image"><img src="https://assets.matters.news/embed/34ce852b-9d71-44dd-bd0f-d73f22fbc274.png" data-asset-id="34ce852b-9d71-44dd-bd0f-d73f22fbc274" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p>  
+</div>
+            
