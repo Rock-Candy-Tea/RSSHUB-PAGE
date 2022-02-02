@@ -1,0 +1,19 @@
+
+---
+title: '设计师分享2022款iPhone SE高清概念渲染图'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0202/d08407e2e0d935c.jpg'
+author: cnBeta
+comments: false
+date: Wed, 02 Feb 2022 07:57:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0202/d08407e2e0d935c.jpg'
+---
+
+<div>   
+在 2021 年 9 月发布 iPhone 13 系列智能机后，<strong>近期又有不少传闻称苹果会在 2022 年 4 月前后，发布价格实惠的 iPhone SE 3 入门新机。</strong>上次苹果发布第二代 iPhone SE 智能机，还得质素到 2020 年。这款设备配备了小巧的 4.7 英寸 Retina LCD 屏，且在欧洲市场的建议零售价也低至 490 欧元。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0202/d08407e2e0d935c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0202/d08407e2e0d935c.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：<a href="https://nl.letsgodigital.org/smartphones/iphone-se-2022/" target="_self">LetsGoDigital</a>）</p><p>结合目前已知的所有信息，荷兰科技博客 LetsGoDigital 再次携手平面设计师 Jermaine Smit（又名 Concept Creator），制作了 2022 款 iPhone SE 一系列高清渲染图。</p><p><img src="https://static.cnbetacdn.com/article/2022/0202/bb7afc0f6c5f8b1.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>考虑到初代 iPhone SE（2016）和 iPhone SE 2（2020）相距至少 4 年，本次 iPhone SE 3（2022）却仅相隔了 2 年时间，因而预计外形方面的变化也不会太大。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=323169017&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: center;">iPhone SE 2022 - Concept Creator（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzIzMTY5MDE3LnNodG1s.html" target="_self">via</a>）</p><p>更有可能的情况是，iPhone SE 3 或增加一个后摄镜头，同时提升屏占比（减少边框厚度）。不过为了容纳前摄和听筒等组件，顶部边缘还是会有不少的空间占用。</p><p>与此同时，对于怀念实体 Home 键的 iOS 用户，配备了 Touch ID 指纹传感器的 iPhone SE 3，也将是在大流行期间、口罩 Face ID 解锁困难的一个有效缓解方案。</p><p><a href="https://static.cnbetacdn.com/article/2022/0202/a13a3e949ed430d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0202/a13a3e949ed430d.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>外形方面，iPhone SE 3 的玻璃背板和圆角矩形也将保持不变，但不少人可能会觉得这样的设计有些过时。不过在处理器上，该机有望迎来 A15 Bioni 芯片 + 5G 网络支持。</p><p>2020 年发布的 iPhone 12 系列，是<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>首批支持 5G 移动网络的机型。凭借四款机型阵容，苹果取得了相当亮眼的销售成绩，并且延续到了 2021 年发布的 iPhone 13 系列。</p><p><a href="https://static.cnbetacdn.com/article/2022/0202/0cc782ce3c34dca.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0202/0cc782ce3c34dca.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>存储方面，iPhone SE 3 可能从 64GB 翻倍到 128GB 起步，但知名苹果分析师郭明錤推测运存仍为 4GB RAM 。</p><p>拍照方面，新机或在沿用 12MP 摄像头的基础上，引入更多的拍照功能 —— 比如夜间模式、深度融合、智能 HDR、以及更多的摄影风格。</p><p><a href="https://static.cnbetacdn.com/article/2022/0202/cfb26191c21eee4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0202/cfb26191c21eee4.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>电池方面，即使 5G 新芯片优化了能效，苹果仍不可能为 iPhone SE 3 配备大太多的电池容量（iPhone SE 2 也仅为 1821 mAh / 约 10 小时续航）。</p><p>至于定价，参考 iPhone SE 2（64GB）的 490 欧元，iPhone SE 3 或以相同的价格上市、但 5G 支持也可能导致定价略有上调（正如 iPhone 12 系列那样）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0202/4b926abbb038e1e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0202/4b926abbb038e1e.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（图 via LetsGoDigital）</p><p>配色方面，预计苹果会提供经典的黑 / 白两种，此外 Product（RED）衍生版本也不是不可能。</p><p>至于真相究竟如何，还请耐心等待 3 / 4 月份的苹果春季硬件新品发布会，预计上市时间为 4 月底 / 5 月初。</p>   
+</div>
+            
