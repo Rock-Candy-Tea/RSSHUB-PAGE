@@ -1,0 +1,18 @@
+
+---
+title: 'Web3｜depub.SPACE 與傳統社交媒體的不同之處'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/2ce2c7bb-7da0-43eb-9ff8-5181b3baf1f2.png'
+author: Matters
+comments: false
+date: Tue, 01 Feb 2022 16:22:44 GMT
+thumbnail: 'https://assets.matters.news/embed/2ce2c7bb-7da0-43eb-9ff8-5181b3baf1f2.png'
+---
+
+<div>   
+<p>近來越來越多人在 <a href="https://matters.news/@makzan/iscn-%E6%87%89%E7%94%A8-%E7%99%BC%E7%8F%BE-depub-space-%E7%99%BC%E6%8E%A8%E6%96%87%E7%9B%B4%E4%B8%8A-iscn-bafyreifgwnzjqr6cdkfkvlxnwd4aydmykva3mibna5lwoxia2wem5oryay" rel="noopener noreferrer" target="_blank">depub.SPACE 上發帖</a>，除了需要連接錢包發帖及發帖需要付出少量交易費外，操作和推特等沒有太大分別。究竟 <a href="https://depub.space/" rel="noopener noreferrer" target="_blank">depub.SPACE</a> 和在推特或以往的社交媒體上發帖有什麼不同？最明顯的兩點不同之處：</p><ol><li>自己的發貼自己擁有，平台只是顯示，但不能刪除。</li><li>預設是匿名的，貼文只與地址關連，地址背後是誰可以不公開。</li></ol><h1><strong>網站只是顯示的前台，資料永遠存在</strong></h1><p>當然，考慮到資料存在如果目的是流通，例如在 OpenSea 上販賣的 NFT。那麼高流量的網站前台若選擇不顯示，是會對相關 NFT 的流通性造成很大影響。</p><figure class="image"><img src="https://assets.matters.news/embed/2ce2c7bb-7da0-43eb-9ff8-5181b3baf1f2.png" data-asset-id="2ce2c7bb-7da0-43eb-9ff8-5181b3baf1f2" referrerpolicy="no-referrer"><figcaption><span>https://support.opensea.io/hc/en-us/articles/1500010625362-Why-are-my-items-and-collections-delisted-</span></figcaption></figure><p>但如果不是流通性為主，而是社交媒體般你自己的紀錄為主，則後台的儲存比前台的顯示更重要。</p><p>有不少文章也討論過寫文章應用自己的網站還是用平台寫之優缺點比較。簡而言之，自己的網站自己控制，不會突然刪貼或整個站被刪除，但自己維護有門檻兼稍麻煩，且也不排除自己忘記續期誤刪網站。而用平台的地方寫文章，自主及個性化功能大減，卻可以獲取平台流量。這是 Web 1.0 去中心化各自架構網站及 Web 2.0 的以平台為中心發佈網站的情況。而現在，有 Web 3 的區塊鏈技術，可能我們可以兩者皆有。同時享用平台所提供的技術及服務方便寫作（前端），而儲存則使用分散式儲存的技術（後端）。</p><p>例如將每個貼都註冊上 ISCN，只要還記得地址，就能找出這地址下登記發佈的所有內容，前端無論是 <a href="https://app.like.co/" rel="noopener noreferrer" target="_blank">app.like.co</a> 或 depub.SPACE 也不區，又或者將來將整埋一些 ISCN 分類群的前台、或可以再按標籤分類的前台等。所以前後端是分開的。</p><figure class="image"><img src="https://assets.matters.news/embed/af9d5763-e824-4952-8e16-7c78ba64e502.png" data-asset-id="af9d5763-e824-4952-8e16-7c78ba64e502" referrerpolicy="no-referrer"><figcaption><span>儲放於分散式儲存媒介的內容，可以通過不同的前台來顯示，例如 app.like.co 或 depub.SPACE</span></figcaption></figure><h1><strong>預設是匿名發帖</strong></h1><p>由於使用地址作為「帳號」，而地址不能反向推算出擁有人是誰。所以 depub.SPACE 發貼預設是匿名發帖，讓作者選擇是否自願公開地址與作者的連繫。</p><p>地址預設是非公開的，只有當你公開某地址是你時，地址和你個人之間才建立起聯繫。例如當<a href="https://matters.news/@daisy/depub-space-%E5%8E%BB%E4%B8%AD%E5%8C%96%E6%8E%A8%E7%89%B9-%E9%80%A3%E7%B5%90-desmos-profile-dsm-%E5%85%8D%E8%B2%BB%E6%B4%BE-bafyreif36ldbmvjq3omwncay6mnbchrku25aeaqetsv3tu7obbjjh3azda" rel="noopener noreferrer" target="_blank">在 Desmos 中建立個人信息</a>、設定名稱、上傳頭像圖片，及<a href="https://matters.news/@diochen/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%A8%98-%E9%AB%94%E9%A9%97-depub-space-bafyreih45qmvomll3kx7i3we4ahn23yxsnmhztq7li7zl2rcopklyoppkm" rel="noopener noreferrer" target="_blank">綁定 Keplr 錢包地址</a>後，depub.SPACE 就會顯示你的頭像及名稱而不是顯示長長的地址。</p><figure class="image"><img src="https://assets.matters.news/embed/dd01e15e-7974-4430-b45a-046129af9638.png" data-asset-id="dd01e15e-7974-4430-b45a-046129af9638" referrerpolicy="no-referrer"><figcaption><span>選擇性公開個人資訊</span></figcaption></figure><p>例如<a href="https://mak.la/depub" rel="noopener noreferrer" target="_blank">我的推文流</a>顯示的就是我的個人訊息。</p><p>但這是你個人決定連接後才生效的。預設在 depub.SPACE 發帖，背後關連的就是一個地址而已。這個地址可以是一個匿名的人，或匿名的團體。亦有可能是曾經不慎透露而有人知道這地址是誰的一個（偽）匿名地址。</p><figure class="image"><img src="https://assets.matters.news/embed/81880106-af91-46d4-b47e-856142375b43.png" data-asset-id="81880106-af91-46d4-b47e-856142375b43" referrerpolicy="no-referrer"><figcaption><span>匿名發佈的例子</span></figcaption></figure><p>所以若平時我們好好的保護自己的地址，或在需要時建立新的地址，就可以利用好區塊鏈的匿名特性發貼。</p><p>— 麥麥寫的 <a href="https://mak.la/matters" rel="noopener noreferrer" target="_blank">麥誠 Makzan</a>，2022-02-02。</p>  
+</div>
+            
