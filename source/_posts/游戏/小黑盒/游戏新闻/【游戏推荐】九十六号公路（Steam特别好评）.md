@@ -1,0 +1,18 @@
+
+---
+title: '【游戏推荐】九十六号公路（Steam特别好评）'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/02/02/27a429a40c1e42fe951fec9339d4e0af1643769736.png'
+author: 小黑盒
+comments: false
+date: Wed, 02 Feb 2022 11:06:23 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2022/02/02/27a429a40c1e42fe951fec9339d4e0af1643769736.png'
+---
+
+<div>   
+<h2>游戏简介：</h2><p>1996年夏天，日期和今天一样。</p><p>你踏上了旅途。冒险。自由。逃离。奔跑。逃离这个社会。试着活下去。</p><p>在前往边界线的惊险旅途中，你将投身一场不断变化的冒险，你会遇见各种不可思议的人物，与他们产生交织与故事，并发现他们身藏的秘密。</p><p>每前进一公里都会面临一个选择。你的决定会影响之后的旅程，改变你会遇到的人，甚至影响整个世界的局势。</p><p>在这个名为皮特拉的独裁国家，道路有成千上万条。</p><p>哪一条是你要走的呢？</p><p>《九十六号公路》，疯狂而美丽的公路之旅。在这条独属自己的自由之路上，你会发现激动人心的地点，遇见非同寻常的人物。</p><p>这场不断演化，故事驱动的冒险之旅深受昆汀·塔伦蒂诺，科恩兄弟以及奉俊昊的影视作品启发。屡获殊荣的主创团队，曾出品《勇敢的心》以及《记忆重述》。作为惠普公司 OMEN Presents 计划的一部分宣布。</p><p>时而行动、时而探索、时而沉思、时而忧郁、时而处理人际交往，时而陷入怪诞场景。游戏背景则是黑暗压迫的动荡社会。</p><p>惊艳的视觉风格，90年代流行风格的背景乐，上千条可选择的道路，每位玩家都可以在《九十六号公路》上创造独属自己的故事。</p><h2>游戏评价：</h2><p>游戏整体感觉想诉说一种反乌托邦的思想，但由于游戏本体的表述形式以及篇幅的限制，导致制作着的想法不是很能传递到游戏玩家。其中略微重复的游戏形式会让玩家在游玩到游戏整体时长中途时，感到有些乏味。游戏整体的叙事手法是以各个不同，但目的（越境）却相同的青少年组成，他们每个人都会遇到一些相同的人，但却发生着不一样的故事。游戏会在每章开头以媒体的形式来串联各个青年所做的选择发生的后果，这点还是比较新颖。后续随着不同的青年带着玩家走向这片国度，其中各个角色的谜题逐渐解开能弥补不少游戏性带来的缺陷。</p><p>整体而言，游戏还是一款非常好的作品，有故事有风景。</p><h2>系统需求：</h2><ul><li><p>最低配置:</p></li><ul><li><p>操作系统:Windows 10</p></li><li><p>处理器:Intel Core i5 4460 or AMD Ryzen 3 2300U</p></li><li><p>内存:8 GB RAM</p></li><li><p>显卡:NVIDIA GTX 1060 or AMD RX 5700</p></li><li><p>DirectX 版本:11</p></li><li><p>存储空间:需要 15 GB 可用空间</p></li><li><p>附注事项:Road 96 does not support Intel Xe graphic chipset. The game needs a dedicated GPU in order to run correctly.</p></li></ul></ul><ul><li><p>推荐配置:</p></li><ul><li><p>操作系统:Windows 10</p></li><li><p>处理器:Intel Core i5 8600K or AMD Ryzen 5 3600XT</p></li><li><p>内存:16 GB RAM</p></li><li><p>显卡:NVIDIA RTX 2060 Super or RX 5700XT</p></li><li><p>DirectX 版本:11</p></li><li><p>存储空间:需要 15 GB 可用空间</p></li><li><p>附注事项:Road 96 does not support Intel Xe graphic chipset. The game needs a dedicated GPU in order to run correctly.</p></li></ul></ul><h2>游戏截图：</h2><p><img class="lazy" data-height="2160" src="https://i1.max-c.com/imgx/2022/02/02/27a429a40c1e42fe951fec9339d4e0af1643769736.png" data-width="3840" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="930" src="https://i1.max-c.com/imgx/2022/02/02/e3464794ae274c4fb55d073d9e7530ed1643769737.png" data-width="1682" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="2160" src="https://i1.max-c.com/imgx/2022/02/02/1e8bd6be573d4697a7988ad78b0c21871643769738.png" data-width="3840" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="887" src="https://i1.max-c.com/imgx/2022/02/02/c59230d6ded54a8281e4c862bb1d0c401643769739.png" data-width="1678" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="941" src="https://i1.max-c.com/imgx/2022/02/02/1f6f1ef2912a4bc5a7ca8d105295eb701643769739.png" data-width="1673" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="915" src="https://i1.max-c.com/imgx/2022/02/02/c6abfe21299e48b09ae656707780d9071643769740.png" data-width="1678" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="924" src="https://i1.max-c.com/imgx/2022/02/02/694deb199062476eba7300cb7a459bd91643769741.png" data-width="1667" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="939" src="https://i1.max-c.com/imgx/2022/02/02/293f2935a16d4c9293f9759509cdf60d1643769742.png" data-width="1682" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="941" src="https://i1.max-c.com/imgx/2022/02/02/e93fc2525dc0451b96c43db71c2b02c91643769743.png" data-width="1681" referrerpolicy="no-referrer"></p>  
+</div>
+            
