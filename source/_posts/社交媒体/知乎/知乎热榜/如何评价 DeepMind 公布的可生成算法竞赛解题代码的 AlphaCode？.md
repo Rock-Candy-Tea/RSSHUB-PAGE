@@ -1,0 +1,18 @@
+
+---
+title: '如何评价 DeepMind 公布的可生成算法竞赛解题代码的 AlphaCode？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic4.zhimg.com/v2-667f6bdea2131ee76aea6b2557938e0a_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 02 Feb 2022 20:54:28 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-667f6bdea2131ee76aea6b2557938e0a_1440w.jpg'
+---
+
+<div>   
+小岛美奈子的回答<br><br><p data-pid="sxUJW4Uw">继 <a href="http://link.zhihu.com/?target=https%3A//copilot.github.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Copilot</a> 之后，我们距离失业又前进了一步w ...<br><br>目前 CodeForces 上有几个静态的 Agent， <br><br></p><ul><li data-pid="SD8iLvaF"><a href="http://link.zhihu.com/?target=https%3A//codeforces.com/profile/AngularNumeric" class=" wrap external" target="_blank" rel="nofollow noreferrer">AngularNumeric - Codeforces</a></li><li data-pid="ArbiWYQF"><a href="http://link.zhihu.com/?target=https%3A//codeforces.com/profile/WaggleCollide" class=" wrap external" target="_blank" rel="nofollow noreferrer">WaggleCollide - Codeforces</a></li><li data-pid="j6vG48D7"><a href="http://link.zhihu.com/?target=https%3A//codeforces.com/profile/SelectorUnlimited" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">codeforces.com/profile/</span><span class="invisible">SelectorUnlimited</span><span class="ellipsis"></span></a></li></ul><p data-pid="6UaXqjsQ">它们有提交记录但是目前还没有报名参加比赛，期待它们后续像 AlphaMaster 那样真实的参加比赛，在不远的将来，就能实现参加一场 Div2 并被 AI 击败的成就了 ... </p><p data-pid="yP--wB9b">（你不会认为那一天很遥远吧？？？。。。AlphaCode 官博作为 example 的那个题。。。我就是 WA 了的。。。 囧。。）</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-667f6bdea2131ee76aea6b2557938e0a_1440w.jpg" data-caption data-size="normal" data-rawwidth="1518" data-rawheight="446" data-default-watermark-src="https://pic1.zhimg.com/v2-c93763d40a5524ec128c261a4e15c1ea_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-667f6bdea2131ee76aea6b2557938e0a_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Vwsr__W-"><br> 相比于代码查重、代码互译（<a href="http://link.zhihu.com/?target=https%3A//github.com/facebookresearch/TransCoder" class=" wrap external" target="_blank" rel="nofollow noreferrer">TransCoder</a>）、以及代码自动补全这些工作，生成算法竞赛代码最大的挑战是要去 “理解”题目本身，可以在 AlphaCode 的演示网站上看到，在代码的生成过程当中经常要回顾题目文本的上下文。<br></p><p data-pid="yS4IpZFn"><a href="http://link.zhihu.com/?target=https%3A//alphacode.deepmind.com/" class=" wrap external" target="_blank" rel="nofollow noreferrer">AlphaCode</a></p><p data-pid="EbP70muZ">按照目前 CodeForces 的规则，使用比赛开始前事先编写好的代码是符合规则的，也就是，如果这玩意开源的话，用 AlphaCode 生成的代码切水题然后自己开难题也是符合规则的，相信不远的未来 AI 辅助各种 Coding 会成为一个趋势，不知道 Mike 会不会根据此调整规则（我觉得应该不会！）。不过我还是认为长期看会是一件好事，就如同 Atcoder 内置 ATL 一样，会让出题者也更加注重考察 “intelligence“，你总不希望你的 CDE 题是 AI 也会做的吧？</p><p data-pid="C8IdNdsG">看 Github 目前放出的训练集 <a href="http://link.zhihu.com/?target=https%3A//github.com/deepmind/code_contests" class=" wrap external" target="_blank" rel="nofollow noreferrer">GitHub - deepmind/code_contests</a> 主要使用的都是 CodeForces、CodeChef、Atcoder 这些可以看到选手提交源代码的网站，其实我觉得 vjudge 如果没有做混淆的话一定也可以成为一个不错的数据源。</p><p data-pid="vg7cDoLN">看了一下几个 Agent 提交的代码，目前还只有 Cpp 和 Python，大概是因为这两种语言使用的人最多，数据最全。另外 AI 生成的 Python 代码比 Cpp 正确率更高，大概是因为 Python 的语法规则让大家的代码都长得更相似的缘故。</p><p data-pid="LrAzDSYO">不知道之后 AlphaCode 会不会去学习使用 Atcoder 的代码库（ATL），如果能学会使用这些 Template 的话势必可以进一步提高其 Rating，相比于 dp 题、数学题、构造题，显然这些图论题、数据结构题更容易被 AI 学会并掌握吧！而且 Atcoder 的代码库还有非官方的 Python 版本 ... </p><p><br></p><p><br></p><p><br></p><p><br> <br></p>  
+</div>
+            
