@@ -14,7 +14,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/app
 
 <div>   
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/app-store-scam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
-<p>Apple is once again fighting against bills that try to force the company to allow distribution of iOS apps outside the App Store. This time, the company urged U.S. lawmakers to reject an antitrust bill in the U.S. Senate that would allow users to install any apps on iPhone and iPad.</p>
+<p>Apple is once again fighting against bills that try to force the company to allow distribution of iOS apps outside the App Store. This time, the company urged US lawmakers to reject an antitrust bill in the US Senate that would allow users to install any apps on iPhone and iPad.</p>
 <p><span id="more-785081"></span>
 </p>
 <p>As reported by <em><a href="https://www.bloomberg.com/news/articles/2022-02-02/apple-urges-senate-to-reject-bill-that-allows-outside-app-stores" target="_blank" rel="noreferrer noopener">Bloomberg</a></em>, Apple has written a letter to Senate Judiciary Chair Dick Durbin and Republican Chuck Grassley claiming that the S. 2710 bill will “hurt user privacy and security” if passed. The legislation would make Apple allow “sideloading” on iOS, which is the process of installing software downloaded through the web or sources other than the official App Store.</p>
