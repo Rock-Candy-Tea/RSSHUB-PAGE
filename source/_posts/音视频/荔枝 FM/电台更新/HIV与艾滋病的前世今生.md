@@ -5,11 +5,11 @@ categories:
  - 音视频
  - 荔枝 FM
  - 电台更新
-headimg: 'https://picsum.photos/400/300?random=461'
+headimg: 'https://picsum.photos/400/300?random=4024'
 author: 荔枝 FM
 comments: false
 date: Mon, 29 Aug 2016 03:24:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=461'
+thumbnail: 'https://picsum.photos/400/300?random=4024'
 ---
 
 <div>   
