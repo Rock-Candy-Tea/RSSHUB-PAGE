@@ -1,0 +1,19 @@
+
+---
+title: '间接拯救科技股？Rivian是把双刃剑 亚马逊爆赚之后是巨亏？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2021/12/d591a09003dbcfe.jpg'
+author: cnBeta
+comments: false
+date: Fri, 04 Feb 2022 07:03:01 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2021/12/d591a09003dbcfe.jpg'
+---
+
+<div>   
+亚马逊靠Rivian爆赚，但后者的股价已经开始下跌。亚马逊第四季度财报利润大部分来自其对Rivian的投资收益。与亚马逊类似的福特汽车，也在周四晚间公布了其超预期的四季度报告。但福特股票在盘后的交易中，并没有像亚马逊一样快速攀升。<br>
+ <p><strong><a href="https://static.cnbetacdn.com/article/2021/12/d591a09003dbcfe.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2021/12/d591a09003dbcfe.jpg" referrerpolicy="no-referrer"></a></strong></p><p><strong>主要收益由Rivian贡献</strong></p><p>此前华尔街见闻已经提及第四季度亚马逊财报超预期，华尔街的预期每股收益是3.77美元，但亚马逊最终报告的每股收益为27.75美元，大幅超预期，这也带来了亚马逊在盘后的暴涨。</p><p>但收益中有一个问题，那就是143亿美元的净利润中，有113亿美元来自其持有的Rivian的投资收益——亚马逊持有约1.6亿股Rivian的股票，这是首家造出电动皮卡的制造商。Rivian11月在纳斯达克上市，发行价达到78美元，融资规模高达120亿美元，IPO首日，高开约35%，随后市值相继超过通用汽车和大众汽车，一度位居世界第三大汽车制造商。</p><p>如果去掉Rivian贡献的收益，亚马逊的每股收益约为8美元，仍然高于市场预期。</p><p>福特汽车约持有Rivian的1亿股股票，为福特汽车的营业利润增加了约82亿美元，最终福特汽车每股收益为3.03美元，而华尔街预期为1.11美元。</p><p>不过，福特汽车的股价在盘后交易中并未上涨，因为剔除Rivian收益后，福特汽车的每股收益仅为26美分，而华尔街预期为45美分。</p><p><strong>Rivian股价已经下跌</strong></p><p>但无论是亚马逊还是福特，四季度的收益中存在一个明显的隐忧。</p><p>第四季度的收益是以2021年底时Rivian的股价计算的，彼时约为104美元，但目前Rivian的股价已经降低至60美元，这就意味着亚马逊一季度已经损失了64亿美元/每股10美元收益。福特则面临着40亿美元/每股1美元的损失。</p><p>当然，目前一季度尚未结束，Rivian的股价仍有可能继续上涨或下跌。</p><p>亚马逊持有的Rivian股份价值目前约为100亿美元，占亚马逊全部市值的0.7%；福特持有的Rivian股份价值约60以美元，占福特市值约7%。</p><p>到底是风险还是收益，Rivian未来的股票价格会说明一切。</p><strong><a href="https://n.sinaimg.cn/spider20211217/787/w603h184/20211217/556c-561c82e5af15c22cf068619276502a45.jpg" target="_blank"><img src="https://n.sinaimg.cn/spider20211217/787/w603h184/20211217/556c-561c82e5af15c22cf068619276502a45.jpg" referrerpolicy="no-referrer"></a></strong>   
+</div>
+            
