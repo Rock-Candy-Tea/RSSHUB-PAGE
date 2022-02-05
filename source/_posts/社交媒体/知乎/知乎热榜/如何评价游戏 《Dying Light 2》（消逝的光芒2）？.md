@@ -1,0 +1,18 @@
+
+---
+title: '如何评价游戏 《Dying Light 2》（消逝的光芒2）？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-56df8c7a9ec96e3ba76c59dcb8b2d5e5_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 05 Feb 2022 03:06:33 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-56df8c7a9ec96e3ba76c59dcb8b2d5e5_1440w.jpg'
+---
+
+<div>   
+夏弈的回答<br><br><h3>玩到后面会继续更新，今天会补一些图。</h3><p data-pid="672U_dnJ">14个小时回答：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-56df8c7a9ec96e3ba76c59dcb8b2d5e5_1440w.jpg" data-rawwidth="1040" data-rawheight="205" data-size="normal" data-caption data-default-watermark-src="https://pic3.zhimg.com/v2-7007ac1c0276cad20dd9da2f5e8fea93_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-56df8c7a9ec96e3ba76c59dcb8b2d5e5_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><h2>操作</h2><p data-pid="IGdDCPr2"><b>整体在操作手感上其实是比上一代退步的</b>，但是这一代的地图让跑酷变得更加重要了。一开始就点出来的高跳技能让主角就像在月球上一样，观感会差，但自己体验的话也还行。</p><p data-pid="LX49zGPN">我玩的是困难模式，这个模式下人类敌人只要三下就能干掉我，而使用道具回血的速度也特别难（大概5秒左右，而且一次只能回复一格），体力也限制着我，最多连续攻击5次。所以和人类敌人战斗一定要善用弹反，弹反的判定稍微有点严格，需要一段时间的练习。和僵尸战斗就简单一点了，僵尸的伤害普遍比人类敌人低。<b>不过AI整体的攻击欲望不算高。</b></p><p data-pid="qfiPN9YZ">但是我很难受的一点是，<b>这一代取消了步行</b>，除非在集市里面，不然按下w就是跑步，shift加速被改成了一个需要消耗体力的技能。这就非常难受了，我想散个步都做不到，<b>而且取消跑步键之后，加速取消下蹲也用不了了</b>，这个在很多游戏里都会用到的操作，在这里我已经被坑了好多次了。我知道手柄可以步行，但消光的PC粉丝基数也很大的好吗？我们就值得被考虑一下？</p><h2>配音</h2><p data-pid="lDxNW-4S"><b>国区默认使用中文配音</b>，我还顺便关掉了字幕，代入感的确好了不少，里面配音的也基本都是老熟人了。游戏里有一些随机事件，比如在篝火边听NPC讲故事或者唱歌，这些内容都是没有字幕的，使用英文语音的玩家就很难受了，中配配音就完全没问题。而且值得称赞的是，我听到过几次女NPC唱歌，歌词也都被翻译成了中文，而且唱的十分好听！</p><p data-pid="XYMkPqmr">但是，在之前的演示里我就已经听出来了，<b>这次的中文配音仍然是盲配</b>，这就导致CV的演技虽然不错，但是对话中上下文的语气衔接是真的不行，上一秒主角还在狂奔，或者在僵尸群中穿过，下一秒主角就气定神闲的和人聊天，一点语气波动都没有。而且消光2的中文台词实在是太文明了，偶尔的几句脏话也改变不了什么，整个故事像在看舞台剧。还有人名，我还是喜欢2077那种人名就用英文的方式。<b>所以这一代有中文配音很好，但还是比2077差了一个台阶。</b></p><h2>画质与性能（等待后续补图）</h2><p data-pid="iQ_cg3Ga">这一代的画面风格相比这次变化了很多。整体是偏向暖色调的，而且楼顶郁郁葱葱，地面上则是一片枯黄，这大概是为了契合主题。</p><p data-pid="-91Hrl9P">画质整体很好，但据说游戏使用了大量的4k高清材质，而且极其少见的将4项光追技术都加入了游戏，想必以后又是一个性能测试游戏。不过可惜游戏没有基准测试。而且游戏不光包含DLSS，还有FSR，对玩家很友好。</p><p data-pid="vnfmIu1c"><b>游戏开场的森林地图其实帧数是最低的，进了城市以后就稳定多了</b>。我是3080ti＋5900x，最高特效＋90视野＋最高光追质量＋关闭DLSS，在旧维勒多里基本能稳定在50帧多一点。DLSS实在没法用，即使是质量档位，稍微动起来，画面就会有明显的发糊。</p><p data-pid="ojyvOLDF">游戏的画面撕裂比较严重，而且不是那种中间有一道撕裂，而是画面会像水面一样，撕裂从底部蔓延到上面，非常影响游玩。但是这种极其严重的撕裂并不是常态，可能每隔几十年秒遇到一次，其他时候都是较为常规的撕裂。</p><h2>剧情</h2><p data-pid="UkRwdg4d">我目前最想吐槽的就是剧情，集市的这些人是不是都有毛病啊？几乎每个有名有姓的集市人物都跟巨婴一样，对人的态度还特别差。而且一个两个还都极其富有<b>西方自由主义精神</b>，宁愿一团散沙朝不保夕，也不肯服从治安者，真是把“不自由、毋宁死”表现到了极致。</p><p data-pid="sdfhuuef">而治安者，就我在游戏看到了，治安者不是在巡逻、杀僵尸和强盗，就是在拯救路人，而他们的要求也仅仅就是“严格遵守秩序”。结果到了集市这些人嘴里，治安者简直就是无恶不作。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-7ddbf24020116560847109e844b8b715_1440w.jpg" data-rawwidth="3840" data-rawheight="2160" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-89f3d272c2c84c14dff5aeaa5f6146a9_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-7ddbf24020116560847109e844b8b715_r.jpg" referrerpolicy="no-referrer"><figcaption>治安者拯救路人，但路人丝毫不领情</figcaption></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3ad2d7b40f3c3fa2db55d6dfd64cc99b_1440w.jpg" data-rawwidth="3840" data-rawheight="2160" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-2da0f7805330d8354637c26dab8af610_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-3ad2d7b40f3c3fa2db55d6dfd64cc99b_r.jpg" referrerpolicy="no-referrer"><figcaption>治安者总部</figcaption></figure><p data-pid="Ral8218S">目前刚做完突袭的任务，被苏菲和她的脑残弟弟设计陷害了一波，我现在已经不想再跟集市的人套任何近乎了，反正我的目的也不是来和这些人交朋友的。而治安军的整齐风格非常符合我强迫症的口味，治安军的人也都很有礼貌，和治安军交朋友不好吗？</p>  
+</div>
+            
