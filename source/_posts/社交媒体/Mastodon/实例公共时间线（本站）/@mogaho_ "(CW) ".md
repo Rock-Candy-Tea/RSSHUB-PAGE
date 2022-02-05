@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/078/608/original/3e03af080b58ddae.png'
+headimg: 'https://picsum.photos/400/300?random=8551'
 author: Mastodon
 comments: false
-date: Sat, 05 Feb 2022 10:04:37 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/078/608/original/3e03af080b58ddae.png'
+date: Sat, 05 Feb 2022 10:50:37 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8551'
 ---
 
 <div>   
-<hr><p>☆（ゝω・）v<br><a href="https://www.melonbooks.co.jp/fromagee/circle/index.php?circle_id=108091" rel="nofollow noopener noreferrer" target="_blank">https://www.melonbooks.co.jp/fromagee/circle/index.php?circle_id=108091</a></p><br><img src="https://img.pawoo.net/media_attachments/files/042/078/608/original/3e03af080b58ddae.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>あ、そうそう最近２Dモーションはじめたからみてみて</p><br><video src="https://img.pawoo.net/media_attachments/files/042/079/555/original/27148bd3add7d536.mp4" autoplay loop>gif </video>  
 </div>
             
