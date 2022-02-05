@@ -1,0 +1,19 @@
+
+---
+title: '新iPhone Emoji表情符号包括妩媚的咬唇和一些有趣的新手势'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0205/83a8459a6baca39.png'
+author: cnBeta
+comments: false
+date: Fri, 04 Feb 2022 23:52:40 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0205/83a8459a6baca39.png'
+---
+
+<div>   
+据CNET报道，随着苹果公司上周开始面对开发者推送iOS 15.4测试版，出现了一些有趣的新表情符号。<strong>苹果总共增加了近40个新emoji表情符号，其中包括一些及时的新的面部表情、手势和一个妩媚的咬唇表情符号。</strong>基于2021年9月首次发布的Unicode Version 14，新表情符号于1月在Emojipedia上首次亮相。除了新的表情符号选项，iOS 15.4还包括一项功能，允许Face ID在戴口罩时工作。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0205/83a8459a6baca39.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/83a8459a6baca39.png" alt="HH9)8`VMOVXAI8H%8P$%&#125;RE.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在这个新emoji表情符号列表中，有七个新的笑脸。其中包括融化的脸，玩躲猫猫的脸，敬礼的脸和强忍泪水的脸。</p><p style="text-align: left;">其他值得注意的表情符号包括“怀孕的男人”、红腰豆和许多多种族的握手。下面是你可以在<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>即将到来的iOS升级中找到的表情符号的完整列表。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0205/fca4ec1a9be0715.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/fca4ec1a9be0715.png" alt=")RTK2`_ON)_T[0TOWUPIUME.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">1. 融化的脸</p><p style="text-align: left;">2. 手捂着嘴的脸</p><p style="text-align: left;">3. 眼睛从手指缝里偷看的脸</p><p style="text-align: left;">4. 敬礼的脸</p><p style="text-align: left;">5. 虚线脸</p><p style="text-align: left;">6.歪嘴脸</p><p style="text-align: left;">7. 强忍泪水的脸</p><p style="text-align: left;">8. 右手</p><p style="text-align: left;">9. 左手</p><p style="text-align: left;">10. 掌心向下的手</p><p style="text-align: left;">11. 掌心向上的手</p><p style="text-align: left;">12. 食指和拇指交叉的手</p><p style="text-align: left;">其他表情符号包括怀孕的人，空的和满的巢穴，加上珊瑚，莲花和红腰豆。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0205/480468b19f12c5f.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/480468b19f12c5f.png" alt="RK3W6JR%F)FUKFIA~4[X&#123;9C.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">13. 食指指着观众</p><p style="text-align: left;">14. 比心的手</p><p style="text-align: left;">15. 咬唇</p><p style="text-align: left;">16. 戴皇冠的人</p><p style="text-align: left;">17. 怀孕的男人</p><p style="text-align: left;">18. 怀孕的人</p><p style="text-align: left;">19. 山精</p><p style="text-align: left;">20. 珊瑚</p><p style="text-align: left;">21. 莲花</p><p style="text-align: left;">22. 空巢</p><p style="text-align: left;">23. 有蛋的巢</p><p style="text-align: left;">24.红腰豆</p><p style="text-align: left;">在新的表情符号列表中，还有许多物品，包括倾倒液体、滑梯、拐杖、X射线、气泡以及许多多种族的握手。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0205/2ba1f95d8859f21.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/2ba1f95d8859f21.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">25. 从杯子里倒出的液体</p><p style="text-align: left;">26. 梅森瓶</p><p style="text-align: left;">27. 操场上的滑梯</p><p style="text-align: left;">28. 轮子</p><p style="text-align: left;">29. 环形浮标</p><p style="text-align: left;">30. “幸运之手”</p><p style="text-align: left;">31. 迪斯科镜面球</p><p style="text-align: left;">32. 低电池</p><p style="text-align: left;">33. 拐杖</p><p style="text-align: left;">34. X射线</p><p style="text-align: left;">35. 气泡</p><p style="text-align: left;">36. 身份证</p><p style="text-align: left;">37. 加粗的等号</p><p style="text-align: left;">38. 多种族的握手</p>   
+</div>
+            
