@@ -1,0 +1,19 @@
+
+---
+title: 'NASA提出了一种可直接观察到暗物质影响的方法'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/02/98cce3af573b7b7.jpg'
+author: cnBeta
+comments: false
+date: Sat, 05 Feb 2022 03:57:40 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/02/98cce3af573b7b7.jpg'
+---
+
+<div>   
+银河系的图片显示，数十亿颗恒星以螺旋状排列并从中心向外辐射，其中间有发光的气体。但我们的眼睛只能瞥见支撑我们银河系的表面。我们银河系约95%的质量是看不见的，它们不会跟光发生作用。其是由一种叫做暗物质的神秘物质构成，这种物质从来没有被直接测量过。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/02/98cce3af573b7b7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/98cce3af573b7b7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">现在，一项新研究计算了暗物质的引力如何影响我们太阳系的物体，其中包括航天器和遥远的彗星。另外，它还提出了一种方法，即暗物质的影响可以通过未来的实验直接观察。这篇文章发表在《Monthly Notices of Royal Astronomical Society》上。</p><p style="text-align: left;">“我们预测，如果你在太阳系中走得足够远，那么你实际上有机会开始测量暗物质的力量，”这项研究报告的论文共同作者和NASA首席科学家办公室的顾问Jim Green说道，“这是关于如何做以及我们在哪里做的第一个想法。”</p><p style="text-align: left;"><strong>我们后院的暗物质</strong></p><p style="text-align: left;">在地球上，我们星球的引力使我们不会从椅子上飞起来，而太阳的引力会使我们的星球按365天的时间表运行。但航天器离太阳越远，它对太阳引力的感受也就越少，但对另一种引力来源的感受则越多：来自银河系其他地方的物质的引力，这主要是暗物质。跟对银河系暗物质含量的估计相比，我们银河系1000亿颗恒星的质量是微不足道的。</p><p style="text-align: left;">为了了解暗物质在太阳系中的影响，研究的论文第一作者Edward Belbruno计算了“星系力”，即正常物质跟整个星系的暗物质相结合的整体引力。他发现，在太阳系中，约45%的力量来自暗物质，55%来自正常的、所谓的 “重子物质”。这表明太阳系中的暗物质和正常物质的质量大致各占一半。</p><p style="text-align: left;">普林斯顿大学和耶希瓦大学的数学家和天体物理学家Belbruno说道：“我对太阳系中感受到的暗物质导致的星系力的贡献相对较小感到有点惊讶。这可以解释为大部分暗物质都在我们银河系的外围并远离我们的太阳系。”</p><p style="text-align: left;">一个被称为暗物质“光环”的大区域环绕着银河系，其代表着银河系暗物质的最大集中。晕中几乎没有正常物质。研究人员支出，如果太阳系位于离银河系中心更远的地方，它将感受到银河系中更大比例的暗物质的影响，因为它将更靠近暗物质光环。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/02/87cf517022035f5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/87cf517022035f5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>暗物质可能如何影响航天器</strong></p><p style="text-align: left;">根据这项新的研究，Green和Belbruno预测，暗物质的引力会跟NASA派出的所有航天器在通往太阳系外的路径上发生轻微的互动。</p><p style="text-align: left;">Belbruno说道：“如果航天器在暗物质中移动的时间足够长，它们的轨迹就会被改变，这对于某些未来任务的任务规划来说是非常重要的。”</p><p style="text-align: left;">这样的航天器可能包括分别于1972年和1973年发射的退役的先驱者10号(Pioneer 10)和先驱者11号(Pioneer 11)、已经探索了40多年并进入星际空间的旅行者1号(Voyager 1)和旅行者2号(Voyager 2)探测器、已经飞过冥王星和柯伊伯带的Arrokoth的新视野号(New Horizons)飞船。</p><p style="text-align: left;">但这是一个微小的影响。在行驶了数十亿英里之后，由于暗物质的影响，像先驱者10号这样的航天器的路径只会偏离大约5英尺（1.6米）。“他们确实感受到了暗物质的影响，但它是如此之小，我们无法测量它，”Green说道。</p><p style="text-align: left;"><strong>银河系的力量在哪里占据优势？</strong></p><p style="text-align: left;">在距离太阳一定距离时，银河系的力量变得比由正常物质构成的太阳的拉力更强大。Belbruno和Green计算出，这种转变发生在约3万个天文单位或说是地球到太阳距离的3万倍。这远远超出了冥王星的距离，但仍在奥尔特云内，这是一个由数百万颗彗星组成的蜂群，围绕着太阳系，延伸到10万个天文单位。</p><p style="text-align: left;">这意味着暗物质的引力可能在像奥陌陌这样的天体的轨迹中发挥了作用，这颗雪茄状的彗星或小行星来自另一个恒星系统，曾在2017年穿过了内太阳系。研究人员们指出，其异常快的速度可以用暗物质的引力对其进行数百万年的推动来解释。</p><p style="text-align: left;">如果在太阳系外围有一颗巨大的行星，即科学家近年来一直在寻找的被称为Planet 9或Planet X的假想天体，暗物质也会影响其轨道。Green和Belbruno写道，如果这颗行星存在，暗物质也许甚至可以把它从科学家目前正在寻找的区域推开。暗物质也可能导致一些奥尔特云彗星完全逃离太阳的轨道。</p><p style="text-align: left;"><strong>暗物质的引力可以被测量吗？</strong></p><p style="text-align: left;">为了测量太阳系中暗物质的影响，航天器不一定要走那么远。Green和Belbruno说，在100个天文单位的距离内，一个拥有正确实验的航天器可以帮助天文学家直接测量暗物质的影响。</p><p style="text-align: left;">具体来说，一个配备有放射性同位素动力的航天器可能能够进行这种测量，这种技术使先驱者10号和11号、旅行者号和新地平线号能飞离太阳很远。这样一个航天器可以携带一个反射球并在一个适当的距离上将其扔下。球将只感受到银河系的力，而航天器除了银河系的力之外，还将经历来自其动力系统中衰变的放射性元素的热力。减去热力后，研究人员可以观察银河系力跟球体和航天器各自轨迹的偏差之间的关系。当两个物体相互平行飞行时，这些偏差将可以用激光进行测量。</p><p style="text-align: left;">一个名为星际探测器(Interstellar Probe)的拟议任务概念--旨在前往距离太阳约500个天文单位的地方探索那个未知的环境--则是这种实验的一种可能性。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/02/72cd778da9eaca6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/72cd778da9eaca6.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

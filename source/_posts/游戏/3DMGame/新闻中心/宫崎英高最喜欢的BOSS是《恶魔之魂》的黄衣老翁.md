@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220205/1644025724_4523
 宫崎英高在接受PlayStation采访时，透露了自己在所有魂系游戏中最“自豪”的Boss是来自《恶魔之魂》的“黄衣老翁”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220205/1644025724_452316.jpg" alt="宫崎英高最喜欢的BOSS是《恶魔之魂》的黄衣老翁" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220205/1644025724_452316.jpg" alt="宫崎英高最喜欢的BOSS是《恶魔之魂》的黄衣老翁" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 宫崎英高说：“当我要用类似‘自豪’这类特定的词语去描述一个Boss的话，可能会是来自《恶魔之魂》的黄衣老翁。这是因为我们在它身上进行的那些尝试，设计它时也曾有很多的阻力。我们想把这个Boss的设计理念融入到游戏中，不管是视觉还是玩法的角度，包括多人游戏元素。
