@@ -16,7 +16,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iPa
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iPad-mini-6-note-taking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>Last week, <em>9to5Mac</em> covered<a href="https://9to5mac.com/2022/01/24/apple-supply-constraints-continue-ahead-of-q1-2022-earnings-report-on-thursday/"> that ahead of Apple’s earnings report</a>, the company was still suffering from supply constraints. Now, a new report corroborates that Apple has been prioritizing iPhone deliveries over iPads.</p>
 <p><span id="more-785188"></span>
-<!-- author ad -->
 </p>
 <p>According to <a href="https://asia.nikkei.com/Spotlight/Supply-Chain/iPad-deliveries-remain-squeezed-as-Apple-prioritizes-iPhones" target="_blank" rel="noreferrer noopener"><em>Nikkei Asia</em>‘</a>s report, Apple customers may have to wait up to nine weeks to get a new iPad. The publication says it has been tracking the delivery times for Apple products in 25 countries and regions, including the US, China, and Japan, since early November.</p>
 <p>For example, Nikkei reports that customers ordering a 64GB iPad model can wait up to 50 days to get one, although the publication notes this is a “slight improvement from the 55-day delivery times for iPad orders placed in early December.”</p>

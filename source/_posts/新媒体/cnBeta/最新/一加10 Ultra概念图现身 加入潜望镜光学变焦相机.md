@@ -1,0 +1,19 @@
+
+---
+title: '一加10 Ultra概念图现身 加入潜望镜光学变焦相机'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0205/2d363663188cc37.jpg'
+author: cnBeta
+comments: false
+date: Sat, 05 Feb 2022 13:01:55 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0205/2d363663188cc37.jpg'
+---
+
+<div>   
+上周，我们了解到了有关OnePlus 10 Ultra的信息，这是一个全新的智能手机型号，比一加已经在中国发售的旗舰机型OnePlus 10 Pro更先进。<strong>顶级的Ultra型号似乎计划在2022年下半年推出。预计它将带来一款改进的摄像头。</strong><br>
+ <p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0205/2d363663188cc37.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/2d363663188cc37.jpg" title alt="oneplus-10-ultra-periscopische-camera-770x615.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">图/<a href="https://nl.letsgodigital.org/smartphones/oneplus-10-hasselblad-camera/" _src="https://nl.letsgodigital.org/smartphones/oneplus-10-hasselblad-camera/" target="_blank">letsgodigital</a><br></p><p>有关该设计的细节尚不清楚。可能最近公布的一项专利可以提供更多的细节。TechInsiderBlog几天前通过Twitter报道，OnePlus已经为一款与10 Pro非常相似的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>申请了专利，但有着不同的相机系统。</p><p>为了更好地了解获得专利的OnePlus手机，平面设计师Jermaine Smit（又名Concept Creator）为LetsGoDigital创作了一系列产品图片，重点介绍了更新的相机系统。</p><p>概念图源自一加在2021年9月向EUIPO（欧盟知识产权局）提交的一项设计专利。该文件于2022年1月28日发布，由七张专利图片组成，从各个角度展示了该手机。2021年3月，一加已经在其中国本土注册了这一设计。</p><p><a href="https://static.cnbetacdn.com/article/2022/0205/afa44455e1004d2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/afa44455e1004d2.jpg" title alt="oneplus-10-ultra-vergelijken-oneplus-10-pro-770x615.jpg" referrerpolicy="no-referrer"></a></p><p>正面看起来一加10 Ultra与10 Pro相同。这款智能手机一如既往地有着弧形边缘的显示屏，屏幕边框很窄。机身左上角为前置摄像头开了一个打孔。左侧是音量键，右侧是电源键，当然三段式情景开关是不会缺席的。机身顶部有一个麦克风，底部有第二个麦克风，一个扬声器，SIM卡仓和USB Type-C接口。</p><p>最引人注目的无疑是背部。相机系统延伸到设备的侧面，因此具有与OnePlus 10 Pro相同的设计类型。它是一个带闪光灯的三摄系统。然而，与Pro有明显的区别的是，因为获得专利的OnePlus 10 Ultra采用了潜望式变焦相机，所以模组里带有矩形镜头。</p><p>紧挨着这个摄像头的是一个框架，据推测是用来放置文字。比如变焦范围，或者提到新的OPPO自行研发的MariSilicon NPU。顶部的两个摄像头看起来与OnePlus 10 Pro相同。它们有可能是类似4800万像素的广角相机和5000万像素的超广角相机。</p><p>截至目前，OnePlus还没有发布带有潜望镜相机的手机--与姐妹公司OPPO不同。目前的10 Pro可以放大3.3倍。遗憾的是，关于该专利模型的变焦范围的细节仍然未知。也许是5倍变焦范围--类似于OPPO Find X3 Pro和预计在4月推出的Find X5 Pro。</p><p><a href="https://static.cnbetacdn.com/article/2022/0205/7387c028252e883.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/7387c028252e883.jpg" title alt="oneplus-smartphone-zoom-camera-770x615.jpg" referrerpolicy="no-referrer"><br></a></p><p>OPPO和OnePlus公司正在进行合并，这是去年宣布的。虽然这两个品牌将继续使用自己的名字，但它们将越来越多地采用对方的技术。例如，Find X5 Pro将是第一款配备哈苏相机的OPPO手机--类似于OnePlus 9 / 10系列。</p><p>一加也在从OPPO那里取得一些现成的优势。例如，据报道，10 Ultra将是该品牌首款采用OPPO的MariSilicon成像NPU的手机。这种新的6纳米NPU将在Find X5 Pro中首次亮相。Mari Silicon X能够在不损失质量的情况下进行RAW处理。捕捉具有实时预览功能的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>人工智能夜间视频记录也将成为可能性之一。</p><p>OxygenOS也已更新，最新版本与OPPO的ColorOS包含更多相似之处。快速充电功能也是共享的。例如，10 Pro有80W的SuperVooC和50W的AirVooC--这是OPPO已经使用了很久的名字。此前，OnePlus称这为Warp Charge技术。</p><p><a href="https://static.cnbetacdn.com/article/2022/0205/310219db15094bf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0205/310219db15094bf.jpg" title alt="oneplus-10-zoom-camera-770x556.jpg" referrerpolicy="no-referrer"></a></p><p>最后，OnePlus 10 Ultra预计将配备更强大的芯片。目前的专业机型采用高通骁龙8代--这是高通目前最强大的处理器。据推测，在2022年的过程中会出现一个稍微改进的型号，它将被用于10 Ultra。在未来几个月里，无疑会有更多关于OnePlus新的顶级型号的信息被披露，我们不妨继续等待。</p>   
+</div>
+            
