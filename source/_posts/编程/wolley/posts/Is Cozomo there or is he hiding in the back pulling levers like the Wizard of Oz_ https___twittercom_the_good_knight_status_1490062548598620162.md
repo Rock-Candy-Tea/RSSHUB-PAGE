@@ -1,0 +1,18 @@
+
+---
+title: 'Is Cozomo there or is he hiding in the back pulling levers like the Wizard of Oz_ https___twitter.com_the_good_knight_status_1490062548598620162'
+categories: 
+ - 编程
+ - wolley
+ - posts
+headimg: 'https://picsum.photos/400/300?random=466'
+author: wolley
+comments: false
+date: Sun, 06 Feb 2022 01:00:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=466'
+---
+
+<div>   
+分享理由: undefined<br>via <a href="https://wolley.io/user/undefined">@undefined</a><br><a href="https://wolley.io/item/61ff1db24b7bf8366252d062">Comments</a>  
+</div>
+            
