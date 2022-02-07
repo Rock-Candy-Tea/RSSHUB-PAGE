@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3919'
+headimg: 'https://pic4.zhimg.com/v2-fd6261a52152c7d6af160265428e2eae_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 07 Feb 2022 07:12:02 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3919'
+date: Mon, 07 Feb 2022 09:08:23 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-fd6261a52152c7d6af160265428e2eae_1440w.jpg'
 ---
 
 <div>   
-劳动法堂的回答<br><br><p data-pid="4RkiOxB1">马老板看了这类新闻，还敢站出来说996是福报吗？</p><p data-pid="d29fH4rj">员工工作是为了更好的生活，不能以健康甚至生命为代价为公司的发展做贡献吧，这是不道德的，也是违法的。</p><h3>1.每天工作12小时属于超时加班</h3><p data-pid="fSU9UKc8">我国劳动法有明确规定，劳动者每日工作时间不超过八小时、平均每周工作时间不超过四十四小时。</p><p data-pid="tH_-9bWH">如果用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时。</p><p data-pid="NKq8rewe">如果因为特殊原因需要延长工作时间的，在保障劳动者身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。</p><h3>2.过年不准休，强制加班违法</h3><p data-pid="6xrHy6_u">劳动法规定，用人单位能强制劳动者加班的只有以下情形:</p><p data-pid="iKrxv8QD">（1）发生自然灾害、事故或者因其他原因，威胁劳动者生命健康和财产安全，需要紧急处理的；</p><p data-pid="_XhuRyjX">（2）生产设备、交通运输线路、公共设施发生故障，影响生产和公众利益，必须及时抢修的；</p><p data-pid="K_g-y6Yv">（3）法律、行政法规规定的其他情形。</p><p data-pid="48Kr1yKT">其他清情形下安排劳动者加班，都必须协商一致，且不能超时加班，</p><p data-pid="m3k87iMo">不管是法定加班还是协商一致加班，用人单位都应当依法支付加班报酬，</p><p data-pid="gNvErAEW">工作日加班应当支付150%的工资，休息日加班应当支付200%的工资或调休，节假日加班应当支付300%的工资。</p><h3>3.加班期间猝死属于工亡</h3><p data-pid="9tNoPdAo">《工伤保险条例(2010修订) 》第十五条规定，职工有下列情形之一的，视同工伤：（一）在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的。</p><p data-pid="TO7j_SbL">该员工如果是在加班时间、工作场所突发疾病的，如果当场就死亡了，属于工亡，</p><p data-pid="3BVmIeXy">如果突发疾病在48小时内经抢救无效死亡的，也属于工亡，</p><p data-pid="-oqHjKga">如果突发疾病抢救超过48小时才死亡的，那就不属于工亡了。</p><p data-pid="15UIUeQH">不是只有公司才可以为员工申请工伤，公司不申请的，家属可以自行去社保局申请工伤认定，提供劳动合同、死亡证明等文件就可以。</p><p data-pid="1RlH0uKs">（不知道消息真假，以上仅从题主提供的现有信息发表劳动法方面的意见，不喜勿喷）</p>  
+非著名程序员的回答<br><br><p data-pid="YvbDeuUI">逝者的表妹发声了，看来这件事是真的了，根据逝者表妹的描述，感觉 B 站这家公司不太厚道啊，连基本的慰问都没有，毕竟是加班猝死，公司有着不可推卸的责任。</p><p data-pid="fQ14MWsA">面对问题和危机最好的解决办法就是敢于承担责任，正面面对，而不是玩手段。</p><p data-pid="k27db7I4">其实，这件事情，再一次证明了中国部分资本家的劣根性，很多公司的成功可能并不是因为这家公司的领导有多厉害，而且赶上了中国大发展的好时候，遇上了最好的时代，这就像是买彩票中大奖的暴发户，本质上就是没有素质和能力，只不过是凑巧中奖了。</p><p data-pid="GqbHFuAG">财富有了，素质没跟上。</p><p data-pid="PqX_SloK">我认为时代既然给了你们这些资本家机会，你们就应该好好感谢这个时代和国家，珍惜自己的员工，做有素质，对社会有贡献的企业家，而不是投机取巧，利用时代机遇的资本家。</p><p data-pid="TlWhGQAG">另外，同学们，一定要注意休息，不要天天加班，毕竟你只是想赚钱，公司却想要你的命。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-fd6261a52152c7d6af160265428e2eae_1440w.jpg" data-rawwidth="619" data-rawheight="2286" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-1168466f318f6d51654f67bc29974338_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-fd6261a52152c7d6af160265428e2eae_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
