@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6104'
+headimg: 'https://picsum.photos/400/300?random=1857'
 author: 香水时代
 comments: false
 date: Mon, 21 Jun 2021 01:30:18 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6104'
+thumbnail: 'https://picsum.photos/400/300?random=1857'
 ---
 
 <div>   
-温暖的焚香，沉静，温柔，一种类型的香味贯穿始终，三调变化不明显，味道闻起来是只好香，只是不在我的心动点上  
+温暖的焚香，沉静，温柔，前中调的木质檀香很明显，是中性的，暖的，后调慢慢过渡出来皂感，从始至终很舒服，没有攻击性。  
 </div>
             

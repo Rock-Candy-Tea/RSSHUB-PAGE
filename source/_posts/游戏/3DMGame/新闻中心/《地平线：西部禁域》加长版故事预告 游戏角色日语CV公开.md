@@ -30,7 +30,7 @@ PS独占游戏《地平线：西部禁域》将于2月18日同步在PS4和PS5发
 <strong>日语CV</strong> 
 </p>
 <p style="text-indent:2em;">
-  Aloy：高垣彩日
+  Aloy：高垣彩阳
 </p>
 <p style="text-indent:2em;">
   Elend：宫内敦
