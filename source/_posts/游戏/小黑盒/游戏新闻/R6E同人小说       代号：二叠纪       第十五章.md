@@ -1,0 +1,18 @@
+
+---
+title: 'R6E同人小说       代号：二叠纪       第十五章'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/02/06/30d413428cd0cc569642048de1562b09/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 07 Feb 2022 00:31:13 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/02/06/30d413428cd0cc569642048de1562b09/thumb.jpeg'
+---
+
+<div>   
+<p>明天就要上班的各位加油鸭<span data-emoji="cube_感动" class="hb-emoji"></span></p><p>第十五章和第十六章将进一步完善背景设定，引出Kali、IANA两个关键角色，同时部分展现笼罩着彩虹小队和REACT组织的巨大阴云……当然，Pulse和Hibana少不了一番打情骂俏。</p><p><a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=77076088" target="_blank">第十四章（内含前十三章传送门）</a><br></p><p><a href="heybox://open_subject" target="_blank">#年味六号第二期#</a> <br></p><p>十五<br></p><p> 回到营地，Pulse、Ace和Thunderbird被带进实验室治疗，Hibana也一起进来，弄得实验室拥挤不堪。</p><p> “真是漫长的一天，不是吗。”Doc一边处理Pulse腿上的伤口一边闲聊，“尤其是对于那边两位而言。”他看了看Ace和Thunderbird。</p><p> “要不是由美子和Valkyrie来了，我们就交代在那里了。”Pulse看着身边的妻子，“不知道她们怎么找到我的。居然还带来一架直升机，”</p><p> “还有脸说这些！你为什么不告诉我？”Hibana怒气冲冲，“你觉得这样瞒着我自己出任务很聪明是吗？”</p><p> “如果我告诉你了，你肯定会跟过来，对吧。”Pulse无奈地笑笑，“真帆还需要你照顾呢。说起来，现在真帆在哪呢。”</p><p> “Thermite把一切都安排好了。”Hibana怒气未消，“什么时候你才能像你那几个同事一样靠谱。”</p><p> “也是他帮你们到这里来的？”</p><p> “他直接动用个人关系联系了第四舰队的一名准将，那位将军准许调用海豹突击队的资源来支援彩虹小队。我才能找到正在接受CBRN训练的Blackbeard和Valkyrie，他们获批使用那架直升机。”Hibana越说越气，“然后我们一路飞到这里，在你菠萝菠萝哒之前把你从那个破冷库里拖了出来。你到底要到什么时候才能承担起作为父亲的责任？我至少得有点知情权吧？哪天你不明不白就没了，你让我们怎么办？”</p><p><img class="lazy" data-height="422" src="https://imgheybox.max-c.com/bbs/2022/02/06/30d413428cd0cc569642048de1562b09/thumb.jpeg" data-width="749" referrerpolicy="no-referrer"></p><p> Pulse只能尴尬地微笑着，面对着妻子的怒火。直到Finka走进帐篷，把机枪靠在墙角。她洗手，戴上乳胶手套，拿上两套抽血工具：“Pulse、Ace，纳米机器人检测到你们体内有异常抗原反应，应该和你们被刺袭者伤到有一些关系，我需要抽取你们的血液进行化验。Yomi，能让一下吗？”</p><p> Hibana不情愿地从Pulse身边走开，给Finka让开地方，还不忘再白Pulse一眼：“我可不会这么容易原谅你，完事儿了来休息区找我！”</p><p><img class="lazy" data-height="960" src="https://imgheybox.max-c.com/bbs/2022/02/06/d29b1ad3a88ca9e2f900e86bc2c6ff52/thumb.jpeg" data-width="1358" referrerpolicy="no-referrer"></p><p> “婚姻生活真磨人啊。”Ace津津有味地看着Pulse夫妻的交流，“我还是更喜欢那个被Hibana用枪指着后脑勺的Jack。”</p><p> “如果你想要，我也可以拿把枪戳你的后脑勺。”Thunderbird微笑着说。</p><p> “可千万别在那把枪里装实弹，Mina。”Ace做了一个自己脑袋中弹的手势，把Thunderbird逗笑了。她一边笑一边咳嗽个不停，Ace轻拍她的后背，试图让她冷静下来。Ace刺激伤员的举动很快引起了Doc的注意，看到Doc愤怒的眼神，Ace立刻知趣地闭上了嘴。</p><p> 整备区里，Ash把枪机塞回步枪上机匣，然后把上下机匣合在一起，再把分解销插回原处，把弹匣装上，拉栓上膛，关上保险。接着她把面前桌子上的弹匣和榴弹一一塞进战术背心。</p><p> “我听说新任务来了，ASH。”门外走进来的是Lion、Sledge和Nomad，“而且你点了我们同行。”</p><p> “我们要修复生化隔离带，F3-F5区域的生化隔离带被破坏了。”</p><p> “明白，我十分钟后可以出发，Ash。”Sledge说。</p><p> “快去准备吧。”Ash点点头，“这漫长的一天还没结束呢。”</p><p></p><p> “六号”的办公室里，Harry静静地看着Maestro传过来的战斗录像，时不时暂停截图和做笔记。他的屏幕右下角出现了一个邮件提示。</p><p> 他点开邮件，发件人被隐藏了，邮件内容很短。</p><p> “三日内，将样本用普通航空邮件送到指定地址，已照会Kali，勿回复。”</p><p> Harry揉了揉太阳穴，向后仰躺在椅子上。</p><p> “索要古菌样本......希望这些人知道他们在做什么.....在Primain Site的这群古菌变异体和零号地区的相比有很多危险的变异......”他长叹一声。</p><p> 突然有人敲门。</p><p><img class="lazy" data-height="677" src="https://imgheybox.max-c.com/bbs/2022/02/06/b5428621e72e001ca1fbae024c0c5aa3/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><p> “进！”Harry喊。</p><p> “IANA向您报道。”门被推开了，走进来一个矮小纤细，发肤雪白，面容精致的年轻女士，她穿着定制的西装和长裤，雪白的衬衫扣到最上面一个扣子，脸上戴着浅色墨镜，一切看起来像一个普通上班族女人——除了她军人般的敏捷动作和腰带上别着的手枪套，以及浅色墨镜下几乎没有颜色的瞳孔。</p><p> “所以，五角大楼三日游，玩得还开心吗？”Harry开着玩笑，试图掩盖自己脸上深深的忧虑。</p><p> “我很抱歉，长官。”IANA摇摇头，“我们没能和那里的人达成任何实质性的共识和合作协议，我们的行为可能仍要长期处于NATO的管制下，他们的底线是保留永夜安港的存在并给予Kali实际指挥权，而且必须吸纳更多永夜安港成员加入科技研发。”</p><p> “依然没有让步，完全不出乎意料。”Harry摇摇头，“你已经尽力了，IANA，但我恐怕你还不能休息。”</p><p> “我们必须寻求NATO外的第三方帮助，只有这样，彩虹小队才能做到它应做的事情，我们都明白这点，长官。”IANA平静地说。</p><p> “所以，我会送你去另一个有希望的国家，Ying会在香港接住你，并负责安排你和中方的接触。去做你能做的事吧，IANA，机票订在明天晚上。”</p><p> “是，长官。”IANA轻轻地退出去，没有发出一丝脚步声。</p><p> Harry拿起平板电脑，点开了与Kali的聊天界面。他想了想，又把界面关闭了。</p><p> “你会怎么做呢，狙击手？”他的目光看向窗外。</p><p><a href="heybox://open_subject" target="_blank">#越战越勇，击溃异种#</a> <br></p>  
+</div>
+            
