@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-02-07 12:13:15
-thumbnail: 'https://pic1.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162'
+date: 2022-02-07 13:13:02
+thumbnail: 'https://pica.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-e188bcffc05212a2c800fca58dc43feb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">夏舞</span>
 </strong>
 
