@@ -28,7 +28,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Pel
 <p>But as strongly worded as this investor note from Wedbush is, there is still no actual evidence to indicate Apple is involved in Peloton acquisition talks. There’s also not even evidence that Peloton itself is interested in selling. As of right now, there are only reports that Nike and Amazon are internally discussing a potential offer. </p>
 <p>Do you think Apple should be considering a Peloton acquisition to boast its fitness efforts? Let us know down in the comments!</p>
 <p><em><strong>As always, be sure to <a href="https://connectthewatts.com/">follow our friends over at Connect The Watts</a> for all of the latest connected fitness news, reviews, and more. </strong></em></p>
-<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
+<div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/3B3CgSI"><img class="aligncenter wp-image-785795 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/JRNY-Native-banner.jpg?quality=82&strip=all" alt width="800" height="160" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
 <!-- youtube embed -->
   
 </div>
