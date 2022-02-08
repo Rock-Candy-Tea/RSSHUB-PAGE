@@ -25,7 +25,7 @@ thumbnail: 'https://img.shields.io/badge/WebSite-steampp.net-brightgreen.svg?sty
 </ol> 
 <h3>修复问题</h3> 
 <ol> 
- <li>修复 Steam Beta 版账号切换失效</li> 
+ <li><del>修复 Steam Beta 版账号切换失效</del></li> 
  <li>修复 ASF 在线配置文件生成器链接错误</li> 
  <li>修复 Linux 上运行时闪退</li> 
  <li>修复 Windows 7 上点击任务栏图标没有最小化</li> 
