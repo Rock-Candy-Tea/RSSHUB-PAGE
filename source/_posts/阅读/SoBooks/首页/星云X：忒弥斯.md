@@ -1,0 +1,18 @@
+
+---
+title: '星云X：忒弥斯'
+categories: 
+ - 阅读
+ - SoBooks
+ - 首页
+headimg: 'https://img2.doubanio.com/lpic/s33805012.jpg'
+author: SoBooks
+comments: false
+date: Tue, 08 Feb 2022 00:00:00 GMT
+thumbnail: 'https://img2.doubanio.com/lpic/s33805012.jpg'
+---
+
+<div>   
+<div class="book-info"> <div class="book-left"> <div class="item"> <div class="bookpic"> <img title="星云X：忒弥斯" alt="星云X：忒弥斯" src="https://img2.doubanio.com/lpic/s33805012.jpg" referrerpolicy="no-referrer"> </div> <div class="bookinfo"> <ul> <li><strong>书名：</strong>星云X：忒弥斯</li> <li><strong>作者：</strong>江波</li> <li><strong>格式：</strong>EPUB/MOBI/AZW3</li> <li><strong>标签：</strong><a href="https://sobooks.cc/books/tag/%e5%b0%8f%e8%af%b4" rel="tag">小说</a> <a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" rel="tag">科幻</a></li> <li><strong>时间：</strong>2022-02-08</li> <li><strong>评分：</strong><b class="dbpf dbpf8"></b></li> <li><strong>ISBN：</strong>9787572700217</li> <ul> </ul></ul></div> </div> </div> <div class="book-right"><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-2905666642206607" data-ad-slot="6649012791"></ins></div> </div> <h2>内容简介</h2><p>“星云”系列丛书八年之后重启，《星云Ⅹ：忒弥斯》收录了更新代的代表人物江波和阿缺，以及新人作者许刚和鲁般的新作。</p><p>江波的《最后的地球》续接《机器之魂》，为人类、智库和人工智能之间的纷争画上一个圆满的句点；阿缺的《与机器人同眠》以戏谑的笔调讲述迟暮英雄和机器人伙伴相互依偎取暖的故事；许刚的《旗人荣耀》勾勒出或然历史中一个完全不一样的清朝；鲁般的《忒弥斯》想象了一个冰封世界中仅存的赛博空间忒弥斯。</p><p>期望这些丰富多彩、各具特色的作品让读者获得不一样的阅读体验，也照亮“星云”未来的道路。</p><h2>作者简介</h2><p>江波，浙江人，生于20世纪70年代末，2003年于清华大学微电子所研究生毕业。2003年在《<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>世界》杂志上发表自己的处女作《最后的游戏》，迄今已发表中短篇小说四十余篇，中篇代表作品有《时空追缉》《湿婆之舞》《移魂有术》，著有长篇<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a><a href="https://sobooks.cc/books/tag/%e5%b0%8f%e8%af%b4" title="查看更多关于小说的文章" target="_blank">小说</a>《机器之门》《机器之魂》，以及“银河之心”三部曲。其作品多次荣获中国<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>“银河奖”。他的小说富含技术细节，想象宏大而奇特，语言风格沉稳冷静，<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>设定硬核新颖，深受资深<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>读者的喜爱。</p><p>阿缺，1990年生，毕业于四川大学，中国<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>更新代代表作家之一。2012年发表处女作后，佳作不断，多次荣获中国<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>“银河奖”，多篇作品被译为英文在海外发表。</p><p>阿缺的<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>小说糅合浪漫与残酷，立足故事与传奇，在更新代<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>作家中可谓独树一帜。目前已出版作品有《与机器人同行》《星海旅人》《神农后裔》等。</p><p>许刚，80后非典型<a href="https://sobooks.cc/books/tag/%e7%a7%91%e5%b9%bb" title="查看更多关于科幻的文章" target="_blank">科幻</a>作家。本科毕业于北京大学信息学院。现居美国硅谷，博士。2017年开始创作科幻<a href="https://sobooks.cc/books/tag/%e5%b0%8f%e8%af%b4" title="查看更多关于小说的文章" target="_blank">小说</a>，作品散见于杂志以及国内各项征文比赛作品合集，其中人工智能题材的喜剧作品《小蓝》入选《2017年中国最佳科幻作品》，《势垒》获第八届“光年奖”三等奖。</p><p>鲁般，90后，居住在南昌。一流的猫奴（还是两只），二流的策划，三流的摄影师，四流的天文爱好者，不入流的斯多葛主义者，意外地成了科幻创作者。</p><p>鲁般的作品风格浪漫绮丽，工笔精细，想象磅礴。现已出版长篇<a href="https://sobooks.cc/books/tag/%e5%b0%8f%e8%af%b4" title="查看更多关于小说的文章" target="_blank">小说</a>《未来症》。</p>    
+</div>
+            
