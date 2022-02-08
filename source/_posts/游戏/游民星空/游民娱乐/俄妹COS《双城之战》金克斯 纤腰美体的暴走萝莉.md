@@ -1,0 +1,85 @@
+
+---
+title: '俄妹COS《双城之战》金克斯 纤腰美体的暴走萝莉'
+categories: 
+ - 游戏
+ - 游民星空
+ - 游民娱乐
+headimg: 'https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_03small_06_202211923596DA.jpg'
+author: 游民星空
+comments: false
+date: Wed, 26 Jan 2022 21:33:00 GMT
+thumbnail: 'https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_03small_06_202211923596DA.jpg'
+---
+
+<div>   
+<p>《英雄联盟：双城之战》此前的热播引起许多粉丝的关注，其中的主角之一金克丝更是圈粉无数。最近，来自俄罗斯的COSER：roga_na_noge也趁热COS动漫里的金克斯，无论会性感度还是还原度都相当爆表，</p>
+<p style="text-align: center;"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_03origin_05_202211923593CE.jpg" target="_blank" style="font-size: 14px;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_03small_06_202211923596DA.jpg" original-image-width="640" original-image-height="796" border="0" referrerpolicy="no-referrer"></a></p>
+<p style="text-align: center;"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_01origin_01_202211923598C7.jpg" target="_blank" style="font-size: 14px;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_01small_02_20221192359B68.jpg" original-image-width="750" original-image-height="750" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_07origin_13_20221192359A70.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_07small_14_20221192359C12.jpg" original-image-width="867" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_08origin_15_20221192359F56.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_08small_16_202211923593CE.jpg" original-image-width="864" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_10origin_19_20221192359F08.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_10small_20_202211923591AA.jpg" original-image-width="863" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_05origin_09_20221192359F8A.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_05small_10_20221192359212.jpg" original-image-width="868" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_06origin_11_20221192359522.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_06small_12_202211923597FD.jpg" original-image-width="868" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p>
+</p>
+<p>roga_na_noge是来自俄罗斯圣彼得堡的COSER，INS已经吸引了近17万粉丝，作为一名忠实的游戏和动漫迷，此前她也曾有不少动漫和游戏角色的COS。</p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_02origin_03_20221192359D65.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_02small_04_20221192359260.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_15origin_29_2022119235983F.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_15small_30_20221192359BB4.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_04origin_07_2022119235997E.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_04small_08_20221192359B82.jpg" original-image-width="720" original-image-height="1080" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center">
+      
+                    
+                    
+                    
+                    <!--&#123;pe.begin.pagination&#125;--><span id="pe100_page_contentpage" class="pagecss"></span></p><!--&#123;pe.end.pagination&#125;-->
+                    <!--文章内容导航 开始-->
+                    
+                    <!--文章内容导航 结束--><!--<div style="padding-top:10px;text-align:center;"><iframe name="adc1" marginwidth="1" marginheight="1" height="62" width="602" scrolling="no" border="0" frameborder="0" src="https://www.gamersky.com/img/baidu_300news.htm"></iframe></div>
+-->
+                    
+            <p></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_12origin_23_20221192359B76.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_12small_24_20221192359EEE.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_13origin_25_20221192359367.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_13small_26_20221192359713.jpg" original-image-width="750" original-image-height="904" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_28origin_55_20221192359F76.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_28small_56_2022119235947E.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_14origin_27_20221192359328.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_14small_28_202211923594CA.jpg" original-image-width="750" original-image-height="750" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_20origin_39_20221192359C58.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_20small_40_20221192359DFA.jpg" original-image-width="640" original-image-height="799" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_16origin_31_20221192359F5A.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_16small_32_20221192359496.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_17origin_33_20221192359652.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_17small_34_202211923599CA.jpg" original-image-width="750" original-image-height="909" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_18origin_35_20221192359D77.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_18small_36_202211923592C0.jpg" original-image-width="640" original-image-height="787" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_19origin_37_20221192359496.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_19small_38_20221192359843.jpg" original-image-width="750" original-image-height="749" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_22origin_43_202211923598F7.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_22small_44_20221192359C6C.jpg" original-image-width="750" original-image-height="750" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center">
+      
+                    
+                    
+                    
+                    <!--&#123;pe.begin.pagination&#125;--><span id="pe100_page_contentpage" class="pagecss"></span></p><!--&#123;pe.end.pagination&#125;-->
+                    <!--文章内容导航 开始-->
+                    
+                    <!--文章内容导航 结束--><!--<div style="padding-top:10px;text-align:center;"><iframe name="adc1" marginwidth="1" marginheight="1" height="62" width="602" scrolling="no" border="0" frameborder="0" src="https://www.gamersky.com/img/baidu_300news.htm"></iframe></div>
+-->
+                    
+            <p></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_21origin_41_2022119235923E.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_21small_42_20221192359582.jpg" original-image-width="750" original-image-height="750" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_24origin_47_202211923596A2.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_24small_48_202211923599E6.jpg" original-image-width="750" original-image-height="809" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_23origin_45_20221192359112.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_23small_46_2022119235951A.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_25origin_49_20221192359CF5.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_25small_50_20221192359FD1.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_26origin_51_20221192359344.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_26small_52_202211923594E6.jpg" original-image-width="750" original-image-height="906" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_32origin_63_20221192359C74.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline;"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_32small_64_20221192359E47.jpg" original-image-width="750" original-image-height="878" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_33origin_65_202211923592BC.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_33small_66_20221192359662.jpg" original-image-width="750" original-image-height="844" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_27origin_53_2022119235985B.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_27small_54_20221192359BD0.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_29origin_57_2022119235963A.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_29small_58_2022119235997E.jpg" original-image-width="750" original-image-height="747" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_30origin_59_20221192359CC2.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_30small_60_2022119235913A.jpg" original-image-width="750" original-image-height="750" border="0" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_31origin_61_202211923594B2.jpg" target="_blank"><img class="picact" alt="游民星空" src="https://img1.gamersky.com/image2022/01/20220119_zy_red_164_7/gamersky_31small_62_2022119235985F.jpg" original-image-width="640" original-image-height="800" border="0" referrerpolicy="no-referrer"></a></p>
+        
+      
+                    
+                    
+                    
+                    <!--&#123;pe.begin.pagination&#125;--><span id="pe100_page_contentpage" class="pagecss"></span><!--&#123;pe.end.pagination&#125;-->
+                    <!--文章内容导航 开始-->
+                    
+                    <!--文章内容导航 结束-->  
+</div>
+            
