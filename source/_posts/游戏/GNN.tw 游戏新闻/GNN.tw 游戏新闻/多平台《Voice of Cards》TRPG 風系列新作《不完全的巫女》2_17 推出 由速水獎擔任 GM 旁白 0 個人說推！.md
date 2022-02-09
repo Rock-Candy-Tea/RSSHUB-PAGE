@@ -15,7 +15,7 @@ thumbnail: 'https://p2.bahamut.com.tw/S/2KU/66/78d06fae0175c39c1fb7afd9641f86q5.
 ---
 
 <div>   
-SQUARE ENIX 近日宣布，《Voice of Cards》系列最新作品《Voice of Cards 不完全的巫女（Voice of Cards できそこないの巫女）》將在 2 月 17 日（PC／Steam 版為 2 月 18 日...
+SQUARE ENIX 近日宣布，《Voice of Cards》系列最新作品《Voice of Cards 不完全的巫女（Voice of Cards できそこないの巫女 / Voice of Cards: The Forsak...
 繼續閱讀
 <img src="https://p2.bahamut.com.tw/S/2KU/66/78d06fae0175c39c1fb7afd9641f86q5.JPG" referrerpolicy="no-referrer">  
 </div>
