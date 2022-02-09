@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-02-09 10:08:58
-thumbnail: 'https://pic3.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162'
+date: 2022-02-09 11:07:12
+thumbnail: 'https://pic1.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-fa0f946ab5a67608e894bc1999457ef2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">行走的星辰，</span><span class="bio">营养饮食领域创作者</span>
 <a href="https://www.zhihu.com/question/511280820/answer/2318237222" class="originUrl" hidden>查看知乎原文</a>
 </strong>
