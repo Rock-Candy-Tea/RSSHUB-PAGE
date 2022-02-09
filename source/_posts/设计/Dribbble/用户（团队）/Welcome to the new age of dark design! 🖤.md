@@ -5,17 +5,17 @@ categories:
  - 设计
  - Dribbble
  - 用户（团队）
-headimg: 'https://picsum.photos/400/300?random=4687'
+headimg: 'https://picsum.photos/400/300?random=7839'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=4687'
+thumbnail: 'https://picsum.photos/400/300?random=7839'
 ---
 
 <div>   
 <div class="media-content">
       <div class="video-wrap">
-        <video preload="true" muted loop playsinline autoplay src="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4">
+        <video muted loop playsinline autoplay src="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4">
         </video>
         <div class="video-controls">
           <span class="mute-controls">
