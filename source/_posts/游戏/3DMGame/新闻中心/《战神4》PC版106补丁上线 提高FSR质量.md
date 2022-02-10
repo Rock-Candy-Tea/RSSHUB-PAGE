@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220210/1644457717_553548.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 10 Feb 2022 01:49:00 GMT
+date: Thu, 10 Feb 2022 01:55:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220210/1644457717_553548.jpg'
 ---
 
@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220210/1644457717_5535
 之前索尼发布《<a target="_blank" href="https://www.3dmgame.com/games/godofwar4/">战神4</a>》PC版1.05版更新补丁，修复若干问题并加入新功能。近日索尼又发布了1.06版更新补丁，提高了FSR质量，启用它后不会再出现模糊或块状图像。更新还对精准鼠标操控模式做了一些调整，将不再导致运动动画中断。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220210/1644457717_553548.jpg" alt="《战神4》PC版1.06补丁上线 提高FSR质量" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220210/1644457717_553548.jpg" alt="《战神4》PC版1.06补丁上线 提高FSR质量" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>1.06版补丁说明</strong>
+<strong>1.06版补丁说明</strong> 
 </p>
 <p style="text-indent:2em;">
 修复：
