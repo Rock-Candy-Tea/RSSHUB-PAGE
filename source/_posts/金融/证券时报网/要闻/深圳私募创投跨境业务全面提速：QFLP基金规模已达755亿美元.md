@@ -5,11 +5,11 @@ categories:
  - 金融
  - 证券时报网
  - 要闻
-headimg: 'https://picsum.photos/400/300?random=4932'
+headimg: 'https://picsum.photos/400/300?random=259'
 author: 证券时报网
 comments: false
 date: Thu, 10 Feb 2022 17:09:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4932'
+thumbnail: 'https://picsum.photos/400/300?random=259'
 ---
 
 <div>   
