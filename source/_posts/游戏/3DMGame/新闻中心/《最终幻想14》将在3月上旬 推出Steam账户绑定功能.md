@@ -26,13 +26,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220125/1643097664_6376
 3月上旬，作为强化账户安全及防止错误的指施之一，我们将导入Steam账户与SE账户的「账户绑定」功能。
 </p>
 <p style="text-indent:2em;">
-导入后，在启动Steam版FFXIV客户端时将进行账户鄉定。
+导入后，在启动Steam版FFXIV客户端时将进行账户绑定。
 </p>
 <p style="text-indent:2em;">
 <strong>Steam账户与SE账户绑定后将无法解除</strong> 
 </p>
 <p style="text-indent:2em;">
-旧版启动器无法进行账户綁定操作。使用旧版启动器的玩家请在启动器的CONFIG处切换至新版。
+旧版启动器无法进行账户绑定操作。使用旧版启动器的玩家请在启动器的CONFIG处切换至新版。
 </p>
 <p style="text-indent:2em;">
 账户是否具有FFXIV游玩权利，可以通过以下方式进行确认。
@@ -53,7 +53,7 @@ Steam方权利确认方法
 Steam客户端启动后，点击右上方Steam用户名，进入「账户明细」一「商店和消费历史记录」一「查看许可和产品序列号激活」，如拥有FFXIV游玩权利，将显示「FINALFANTASY 14」
 </p>
 <p style="text-indent:2em;">
-此外，由于账户绑定功能导入后，进行MogStationl以及Online Store的部分手续和决算行为时，需要完成账户綁定，因此在此之前请从Steam版FFXIV喜户端处完成账户绑定。
+此外，由于账户绑定功能导入后，进行MogStation以及Online Store的部分手续和结算行为时，需要完成账户绑定，因此，在此之前请从Steam版FFXIV客户端处完成账户绑定。
 </p>
 <p style="text-indent:2em;">
 感谢各位的理解和支持。
