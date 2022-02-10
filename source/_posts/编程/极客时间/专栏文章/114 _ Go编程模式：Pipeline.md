@@ -5,11 +5,11 @@ categories:
  - 编程
  - 极客时间
  - 专栏文章
-headimg: 'https://picsum.photos/400/300?random=3516'
+headimg: 'https://picsum.photos/400/300?random=4170'
 author: 极客时间
 comments: false
 date: Thu, 14 Jan 2021 10:07:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3516'
+thumbnail: 'https://picsum.photos/400/300?random=4170'
 ---
 
 <div>   
