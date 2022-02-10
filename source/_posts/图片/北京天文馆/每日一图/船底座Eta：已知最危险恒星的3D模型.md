@@ -5,11 +5,11 @@ categories:
  - 图片
  - 北京天文馆
  - 每日一图
-headimg: 'https://picsum.photos/400/300?random=6670'
+headimg: 'https://picsum.photos/400/300?random=6926'
 author: 北京天文馆
 comments: false
 date: Wed, 09 Feb 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6670'
+thumbnail: 'https://picsum.photos/400/300?random=6926'
 ---
 
 <div>   
