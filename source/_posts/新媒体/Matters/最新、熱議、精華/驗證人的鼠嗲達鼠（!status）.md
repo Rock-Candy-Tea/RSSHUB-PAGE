@@ -1,0 +1,18 @@
+
+---
+title: '驗證人的鼠嗲達鼠（!status）'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/da900c03-a00e-4356-925c-c11248ad0472.jpeg'
+author: Matters
+comments: false
+date: Fri, 11 Feb 2022 11:20:47 GMT
+thumbnail: 'https://assets.matters.news/embed/da900c03-a00e-4356-925c-c11248ad0472.jpeg'
+---
+
+<div>   
+<p>我認識達鼠的經過跟<a class="mention" href="https://matters.news/@slothlife" target="_blank" data-display-name="樹懶的生活" data-user-name="slothlife" data-id="VXNlcjo1MzQ0Nw">﻿<span>@樹懶的生活</span>﻿</a> 類似（參考<a href="https://matters.news/@slothlife/%E7%94%9F%E6%B4%BB%E8%B6%A3%E8%81%9E-%E6%A8%B9%E6%87%B6%E9%BA%BB%E7%93%9C%E9%97%96-%E5%B7%AE%E9%BB%9E%E9%97%96%E7%A6%8D-bafyreia6meexq3b33kq3kwonvabhxt4c5waxx4ufsiznz5l6bwgxb5xmsu" rel="noopener noreferrer" target="_blank">這個</a>），我只看大家逗弄達鼠，沒有狂戳牠（畢竟牠不會理我）。之前做<a href="https://scriptable.app/" rel="noopener noreferrer" target="_blank">Scriptable</a>的widget時就有想過未來想做驗證人的簡易面板，細節的資訊到<a href="https://likecoin.bigdipper.live/" rel="noopener noreferrer" target="_blank">Big Dipper</a>上面看會比較全面且即時。</p><p>我自己想到比較重要的資訊是Block height、Active status、Missed block counter、Voting Power。當然這幾個也是<a href="https://likecoin.bigdipper.live/" rel="noopener noreferrer" target="_blank">Big Dipper</a>上面就可以看到的資訊，不知道身為驗證人的各位有沒有跟我一樣懶，很多時候就只是想瞄一眼，不想要打開瀏覽器來看啊。</p><p>這時候推薦大家使用這個好物<a href="https://scriptable.app/" rel="noopener noreferrer" target="_blank">Scriptable</a>！設定安裝可以參考之前寫的<a href="https://matters.news/@ttt50966/like-coin-%E9%A4%98%E9%A1%8D%E6%9F%A5%E8%A9%A2-scriptable-widget-i-os-bafyreicvkb7ia7vyk6xk574l7yebut6q36dkckm7j3uer4tgsdjgelwowe" rel="noopener noreferrer" target="_blank">LikeCoin 餘額查詢 Scriptable widget (iOS)</a>，在widget設定的parameter改成想要讀的驗證人operator address，程式碼中更新時間（<strong>REFRESH_INTERVAL）</strong>是每10分鐘刷新一次，可以調整自己適合的時間，或是想要讀資料時跑一下script就會刷新。另外，把widget放在iPhone側邊欄甚至可以不用解鎖往右滑就查看，是不是超快？</p><p>以下附上程式碼與截圖，程式碼大家可以自行修改喜愛的顏色。如果有新的排版設計，歡迎分享！</p><figure class="embed-code"><div class="iframe-container"><iframe src="https://jsfiddle.net/ttt50966/2pcoL49x/embedded/" frameborder="0" allowfullscreen="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span>點Result，複製程式碼</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/da900c03-a00e-4356-925c-c11248ad0472.jpeg" data-asset-id="da900c03-a00e-4356-925c-c11248ad0472" referrerpolicy="no-referrer"><figcaption><span>鼠嗲達鼠保佑你的節點乖乖！</span></figcaption></figure><hr><p>這邊使用到的API：</p><p>1. <a href="https://mainnet-node.like.co/cosmos/staking/v1beta1/validators" rel="noopener noreferrer" target="_blank">https://mainnet-node.like.co/cosmos/staking/v1beta1/validators</a></p><p>利用 <strong>operator_address </strong>找尋目標驗證人，找到後紀錄<strong>status</strong>、<strong>moniker </strong>（使用者名稱）、<strong>jailed</strong>、<strong>consensus_pubkey</strong>的<strong>key</strong>值。</p><p>2. <a href="https://mainnet-node.like.co/cosmos/base/tendermint/v1beta1/validatorsets/latest" rel="noopener noreferrer" target="_blank">https://mainnet-node.like.co/cosmos/base/tendermint/v1beta1/validatorsets/latest</a></p><p>利用上一步的<strong>consensus_pubkey</strong>找這個對應驗證人<strong>address</strong>（此處是consensus address，開頭是cosmosvalcons），並記錄當時<strong>block_height</strong>、<strong>voting_power</strong>。</p><p>3. https://mainnet-node.like.co/cosmos/slashing/v1beta1/signing_infos/&#123;validator_consensus_address&#125;</p><p>可查驗證人的<strong>missed_blocks_counter</strong></p><p><br></p><p>我卡最久的部分就是驗證人operator address轉consensus address了，Big Dipper中丟任一個都可以找到同一個驗證人，而Cosmos API裡卻很難找到。</p>  
+</div>
+            
