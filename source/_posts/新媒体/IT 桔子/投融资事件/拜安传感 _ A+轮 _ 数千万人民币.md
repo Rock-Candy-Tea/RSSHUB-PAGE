@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/2a3235c343462947bb5bcd39b659f02f.png'
         <strong>拜安传感</strong><br>
         专注于高性能光纤传感器<br>
         A+轮 / 数千万人民币 / 1644547468<br>
-        投资方: 软银、山西产业基金
+        投资方: 软银中国资本、山西产业基金
         
 </div>
             
