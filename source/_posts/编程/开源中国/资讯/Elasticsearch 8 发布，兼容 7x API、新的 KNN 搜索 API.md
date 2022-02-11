@@ -14,7 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_49371
 
 <div>   
 <div class="content">
-                                                                                            <p>Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。</p> 
+                                                                                            <p>Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 曾在 2021 年更换许可协议，如今在 SSPL + Elastic License 双授权许可下作为开源软件发布。</p> 
 <p><img height="409" src="https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>时隔近三年，Elasticsearch 8 正式发布，新增的功能包括：</p> 
 <h3>7.x REST API 兼容性</h3> 
