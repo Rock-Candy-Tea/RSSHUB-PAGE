@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/e8/57/323626_U7t5I.jpg'
 author: Bangumi
 comments: false
-date: Thu, 10 Feb 2022 13:00:00 GMT
+date: Fri, 11 Feb 2022 13:00:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/e8/57/323626_U7t5I.jpg'
 ---
 

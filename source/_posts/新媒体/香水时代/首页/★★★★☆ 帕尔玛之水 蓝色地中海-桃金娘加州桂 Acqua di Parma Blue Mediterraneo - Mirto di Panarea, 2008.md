@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=2123'
+headimg: 'https://picsum.photos/400/300?random=7707'
 author: 香水时代
 comments: false
-date: Sun, 30 Jan 2022 14:32:50 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2123'
+date: Sat, 28 Nov 2020 16:48:59 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7707'
 ---
 
 <div>   
-除了留香短，没有什么缺点，每次闻她，都让我想起了大海，以及爆香柠檬汁，皂感很足的香水，很舒服，中后调微微有点脂粉味，总体很舒服的一款香水。  
+非常清新的味道，第一印象是很好闻的洗衣粉，清爽的来源感觉是柠檬，从来没有问过桃金娘的味道，搞不清楚这里面的哪种味道是桃金娘。整体很清新，前调皂感很重，中调温温柔柔的很舒服，有一丝丝奶奶的，有点上头。后调又有一点清新起来了。蛮适合夏天  
 </div>
             
