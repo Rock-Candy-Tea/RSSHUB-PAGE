@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Fri, 11 Feb 2022 13:10:16 GMT
+date: Fri, 11 Feb 2022 13:21:11 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
@@ -35,6 +35,8 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p>　　虎年开年之后，A股走势一直让投资者们欲哭无泪。</p>
 <p>　　然而在A股下跌之际，量化投资圈却惊曝大瓜。有爆料者向凤凰网《风暴眼》提供了一份中国量化投资学会理事长丁鹏在群聊中发表的一番对于孩子教育的看法，其中屡有惊人之语曝出。</p>
 <p>　　先看一下大致内容，丁鹏在群聊中称，“我对我儿子说，老爸不要求你发财，只要求你多X几个女人，多给你老爸多生几个孙子。”</p>
+<p>　　【相关回应】</p>
+<p>　　<a href="https://finance.sina.com.cn/chanjing/gsnews/2022-02-11/doc-ikyakumy5448294.shtml" target="_blank" title="知名量化投资人“渣”式教育碎三观 丁鹏回应：承认自己素质不高，称只是吹牛，并不是如此育儿">知名量化投资人“渣”式教育碎三观 丁鹏回应：承认自己素质不高，称只是吹牛</a></p>
 <p>　　<strong>NO.6  <a href="https://finance.sina.com.cn/chanjing/gsnews/2022-02-11/doc-ikyakumy5294075.shtml" target="_blank" title="喜茶否认大裁员传闻 新式茶饮行业洗牌已开始">喜茶否认大裁员传闻 新式茶饮行业洗牌已开始</a></strong></p>
 <p>　　2月9日，喜茶内部正在实施裁员的消息登上热搜，尽管喜茶方面予以否认，但出现在各社交平台的爆料依然引发关注。</p>
 <p>　　新式茶饮行业在经历大繁荣之后，开始洗牌。2021年，蜜雪冰城、沪上阿姨等多个新式茶饮企业相继融资，茶颜悦色、乐乐茶走出本土市场。奈雪的茶在港交所上市，成为新式茶饮第一股。然而，奈雪的茶日前发布的最新业绩预告，称预计2021年亏损超1亿元，茶颜悦色则试图通过涨价降本增效。</p>
