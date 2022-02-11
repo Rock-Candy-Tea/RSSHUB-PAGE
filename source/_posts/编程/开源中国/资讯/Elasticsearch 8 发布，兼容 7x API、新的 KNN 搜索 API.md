@@ -5,17 +5,18 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9443'
+headimg: 'https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png'
 author: 开源中国
 comments: false
-date: Fri, 11 Feb 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9443'
+date: Fri, 11 Feb 2022 15:02:00 GMT
+thumbnail: 'https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png'
 ---
 
 <div>   
 <div class="content">
                                                                                             <p>Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 是用 Java 开发的，并在 Apache 许可证下作为开源软件发布。官方客户端在 Java、.NET（C#）、PHP、Python、Apache Groovy、Ruby 和许多其他语言中都是可用的。</p> 
-<p>Elasticsearch 8 中新增的功能包括：</p> 
+<p><img height="409" src="https://static.oschina.net/uploads/space/2022/0211/152931_bbF7_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
+<p>时隔近三年，Elasticsearch 8 正式发布，新增的功能包括：</p> 
 <h3>7.x REST API 兼容性</h3> 
 <p>8.0 为 Elasticsearch REST APIs 引入了一些重大的变化。虽然更新你的应用程序以适应这些变化十分重要，但在升级后寻找和更新每一个 API 调用可能对开发者而言十分痛苦且容易出错。为了使这个过程变得更加容易，Elasticsearch 已经在 REST API 中增加了对 7.x 兼容性 header 的支持。这些可选的 header 文件让你向 8.0 集群发出 7.x 兼容的请求，并收到 7.x 兼容的响应。</p> 
 <p>虽然官方仍然建议开发者更新你的应用程序以使用原生的 8.0 请求和响应，但 7.x API 兼容 header 文件让你可以在更长的时间内安全地进行这些更改。</p> 
@@ -38,7 +39,7 @@ thumbnail: 'https://picsum.photos/400/300?random=9443'
 <p><code>superuser</code> 角色也不再给予系统索引的写入权限。因此，内置的 <code>elastic</code> superuser 默认不能改变系统索引。</p> 
 <p>此后，开发者应使用 Kibana 或相关的 Elasticsearch APIs 来管理某个功能的数据，而不是访问系统索引。如果你直接访问系统索引，Elasticsearch 将在 API 响应的 header 中和废弃日志中返回警告。</p> 
 <h3>新的 KNN 搜索 API</h3> 
-<p>在 Elasticsearch 8.0 中推出了 KNN 搜索 API 的技术预览版。通过使用 <code>dense_vector</code> 字段，k-nearest neighbor（KNN）搜索可以找到与查询向量最近的 k 个向量（这是由相似度指标来衡量的）。KNN 通常被用来支持推荐引擎和基于自然语言处理（NLP）算法的相关性排名。</p> 
+<p>Elasticsearch 8.0 中推出了 KNN 搜索 API 的技术预览版。通过使用 <code>dense_vector</code> 字段，k-nearest neighbor（KNN）搜索可以找到与查询向量最近的 k 个向量（这是由相似度指标来衡量的）。KNN 通常被用来支持推荐引擎和基于自然语言处理（NLP）算法的相关性排名。</p> 
 <p>以前，Elasticsearch 只支持精确的 KNN 搜索，使用带向量函数的 <code>script_score</code> 查询。虽然这种方法保证了准确的结果，但它往往导致搜索速度缓慢，而且在大型数据集上不能很好地扩展。作为对较慢的索引和不完美的准确性的交换，新的 KNN 搜索 API 让你在更大的数据集上以更快的速度运行近似的 KNN 搜索。</p> 
 <h3>为 <code>keyword</code>、 <code>match_only_text</code> 和 <code>text</code> 字段节省存储空间</h3> 
 <p>该版本更新了倒排索引，这是一个内部数据结构，可以使用更节省空间的编码。这一变化将使 <code>keyword</code>、 <code>match_only_text</code> 字段以及 <code>text</code> 字段受益。在使用应用程序日志的基准测试中，这一转变为 <code>message</code> 字段（映射为 <code>match_only_text</code>）的索引大小减少了 14.4%，总体上减少了 3.5% 的磁盘占用空间。</p> 
