@@ -1,0 +1,42 @@
+
+---
+title: 'Max Factory figma＃EX-066 初音未来 雪未来 2022 Grand Voyage Ver. 开订 8000日元含税 2022年9月出荷'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2022/01/949a29be28b84ada978f550fbf622c25.jpg?date='
+author: Hpoi 手办维基
+comments: false
+date: Sat, 12 Feb 2022 05:00:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/01/949a29be28b84ada978f550fbf622c25.jpg?date='
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>Max Factory figma＃EX-066 初音未来 雪未来 2022 Grand Voyage Ver. 开订 8000日元含税 2022年9月出荷<br>更新内容: 
+                
+                    
+                        预订时间
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2022/01/949a29be28b84ada978f550fbf622c25.jpg?date=" referrerpolicy="no-referrer">  
+</div>
+            
