@@ -1,0 +1,18 @@
+
+---
+title: 'UNSC的官方货币信用点CR(Credit)'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1240440_3hWos.jpg'
+author: 小黑盒
+comments: false
+date: Sat, 12 Feb 2022 16:57:32 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1240440_3hWos.jpg'
+---
+
+<div>   
+<p><img data-gameid="1240440" src="https://cdn.max-c.com/heybox/game/header/1240440_3hWos.jpg" referrerpolicy="no-referrer"></p><p><img data-gameid="976730" src="https://cdn.max-c.com/heybox/game/header/976730_MoWee.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1551" src="https://imgheybox.max-c.com/bbs/2022/02/10/0f5149bfc249c4482b7ec2961acc5855/thumb.jpeg" data-width="1120" referrerpolicy="no-referrer"></p><p>信用点，简称为“cR”，是UEG政府的标准货币。截至2558年，信用点仍然在使用。信用点可以用以“信用点芯片”的形式消费，这似乎与信用卡类似。人类有时会漫不经心地把信用点称为“credaroos”，类似于20世纪和21世纪的美国人将美元称作“buckaroos”（牛仔，一美元也可以叫做buck）</p><p>星盟的货币叫做“gekz”<br></p><p><b style="font-size: 19px;">已知费用</b><br></p><p>武器<br></p><p>单价<br></p><p>M6斯巴达镭射（大约2552）cR 218,000<br></p><p>ARC-920电磁炮（大约2558）cR 63,405<br></p><p>SRS99-S5AM狙击步枪（大约2558）cR 8,141<br></p><p>M363粘性雷管（大约2558）cR 8,141<br></p><p>M739轻型机枪（大约2558）cR 3,182<br></p><p>M90霰弹枪（大约2552）cR 2,200<br></p><p>BR85HB战斗步枪（约2558）cR 1,906<br></p><p>M395精确射手步枪（约2558）cR 1,833<br></p><p>MA5D突击步枪（约2558）cR 1,693<br></p><p>MA5C突击步枪（约2552）cR 1,686<br></p><p>M6G麦格农（约2552）cR 1.615<br></p><p>M7057喷火器（约2552）cR 1,520<br></p><p>M7冲锋枪（约2552）cR 1,484<br></p><p>M9破片手雷（约2552）cR 30<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/02/10/56f0f8c175c81baca8ec13274ed43aaf/thumb.jpeg" data-width="834" referrerpolicy="no-referrer"></p><h4 class="img-desc">ODST身上这一套造价也不菲啊</h4><p><b>载具</b><br></p><p>单价<br></p><p>M12疣猪（约2552）cR 52,000</p><p>2553猪-出厂配置cR 82,000<br></p><p>2553猪-标准型号cR 86,000</p><p>2553猪-手动变速器版本cR 81,000<br></p><p>2553猪-限量木饰经典版cR 91,000<br></p><p><b>(注意这里的犹猪是军用载具，而猪hog则是民用的)</b></p><p><img class="lazy" data-height="444" src="https://imgheybox.max-c.com/bbs/2022/02/10/6b3f441b674265088de3ac1c93f95ab9/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><h4 class="img-desc">民用版本的hog猪</h4><p><b><br></b></p><p>食物<br></p><p>单价<br></p><p>世界美食牌恐鸟（MOA）汉堡 cR 7.77（约2552）<br></p><p>其它<br></p><p>单价</p><p>UEG违规代码14.40.09（2）：造成飞行事故的民事处罚 cR 50,000</p><h2><b>冷知识</b></h2><p>信用点是游戏中的货币，用于在《光环：致远星》中购买新的盔甲组合和盔甲效果。它们也决定了级别。</p><p>信用点在《光环：斯巴达突袭》和《光环：斯巴达强袭》中用于购买额外的强力武器，盔甲能力和增幅器。在斯巴达突袭中，玩家可以选择通过使用XP（通过游戏获得），或者使用真实货币购买cR来购买这些升级。在斯巴达强袭中，信用点是在游戏中获得的，而不是XP，而现实货币的微交易是不存在的。</p><p>尽管UEG普遍使用信用点作为货币，但偶尔提到的“美元”是指HALO宇宙中的常备货币单位。在原版《光环：致远星的沦陷》中，有人提到“数万亿美元”已经花在了星盟文化的研究上，尽管在2010年的再版中，这个数字被改为“信用点”在《光环：焦土》中，帕兰戈斯基上将说，哈尔西博士带着“价值数十亿美元的UNSC资源”逃走了。一条信息说：“你交的税在起作用。”然而，这可以理解为一个习惯性的用法，而不是字面上的功能性货币。</p><p>哈尔西博士在《光环：致远星的沦陷》一书中第一次见到约翰-117时给他展示了一个美国古董，并说：“很久以前，当地球是我们唯一一个生活的星球时，人们就用这种硬币作为货币，”这表明26世纪没有硬币或者纸币，在《光环3：ODST》的音频日志中，有一位老妇人用硬币或纸币弄坏了自动取款机。在gameplay中发现的另一台ATM也有一个音频日志，在收集音频日志之前，ATM还会不断地吐钱。目前尚不清楚这是一种疏忽，还是货币和信用点不同。然而，根据ODST中的信息，哈尔西的评论可以理解为仅指特定类型的硬币，而不是完全指实物货币。<br></p><p>如果一个海军陆战队员在《光环3》中被友军火力杀死，另一个可能会说：“好吧，现在你欠我20信用点！”</p><p>猎头者小队的约拿(Jonah)-B283和罗兰(Roland)-B210在执行任务时会不断下注20个信贷。</p><p>《Forza Motorsport 4》的疣猪拖车将2554 M12疣猪的价格列为343,000 cR，参照了343企业本身，而不是原本的价格。请注意，Forza也使用cR作为购买车辆的货币，但不把光环系列作为参考对象。</p><p><img class="lazy" data-height="633" src="https://imgheybox.max-c.com/bbs/2022/02/10/a4c5cf7183e84a0db179f720841a667c/thumb.jpeg" data-width="1120" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#光环#</a>  <a href="heybox://open_subject" target="_blank">#UNSC#</a> <br></p>  
+</div>
+            
