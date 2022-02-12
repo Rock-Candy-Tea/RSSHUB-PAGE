@@ -1,0 +1,19 @@
+
+---
+title: '马斯克希望从FAA获得发射许可证 以进行星际飞船的首次轨道发射'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0212/145fe8cdf0d0ac9.png'
+author: cnBeta
+comments: false
+date: Sat, 12 Feb 2022 00:17:44 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0212/145fe8cdf0d0ac9.png'
+---
+
+<div>   
+据The Verge报道，SpaceX首席执行官埃隆·马斯克表示，<strong>他希望他的公司位于得克萨斯州博卡奇卡的发射设施将在3月前获得监管部门的批准，SpaceX的新星际飞船（Starship）火箭的首次轨道发射将在今年某个时候进行。</strong><br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0212/145fe8cdf0d0ac9.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0212/145fe8cdf0d0ac9.png" alt=")B&#123;D(AN(XUG&#123;5VY3Z(&#123;W9TY.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">马斯克是在自2019年以来首次就"星际飞船"发表演讲时做出上述评论的，他周四晚上在该公司位于德克萨斯州博卡奇卡的测试设施上发表了演讲。马斯克站在高高耸立的火箭原型机前，概述了该火箭的一些最新规格，他为什么要追求深空旅行，以及他预计何时能实现所有这些计划。</p><p style="text-align: left;">这是他关于星际飞船的第五次演讲，马斯克在周四晚上的演讲持续了一个多小时。然而，这位首席执行官并没有提供任何他以前没有透露过的关于星际飞船的重大更新。在活动的问答环节，一些新的细节出现了，涉及预计成本和未来的飞行计划。但是对于SpaceX的铁杆粉丝来说，这或多或少是对马斯克之前所谈内容的重复。考虑到美国联邦航空管理局（FAA）即将决定是否批准星际飞船从博卡奇卡发射进入轨道，这个时机似乎是经过精心计算的。</p><p style="text-align: left;">“生活不能只是为了解决问题，”马斯克在谈到为什么追求星际旅行是值得的时候说。“必须有激励你的东西，让你心动。”这是他过去使用过的一个理由。</p><p style="text-align: left;">星际飞船是SpaceX的下一代大型火箭，旨在将乘客和货物带到月球和火星等深空目的地。这是一个完全可重复使用的系统，星际飞船要在一个名为超级重型的巨大助推火箭上发射到太空。利用其主要的"猛禽"引擎，星际飞船将能够在其他世界的表面以及地球上降落。超级重型助推器也将能够在发射后回到地球上着陆。</p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=325356226&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: left;">也许记者们最想知道的是SpaceX在从FAA获得发射许可证方面的情况。FAA目前正在决定是否批准SpaceX从博卡奇卡发射星际飞船，因为该机构负责确保向轨道发射不会对未涉及的人员或财产造成危险。虽然审批过程中出现了严重的两极分化，一些环保人士认为FAA需要对星际飞船对周围地区的影响进行更深入的审查，但马斯克表示，他认为这个决定会对SpaceX有利。马斯克说：“我们对FAA的情况没有太多的了解。我们已经得到了某种粗略的迹象，3月份可能会有一个批准。”</p><p style="text-align: left;">The Verge向FAA征求意见，但截至发稿前没有收到回复。</p><p style="text-align: left;">过去几年，SpaceX一直在积极开发星际飞船，该公司的发射场位于博卡奇卡。在这个位于边境以北的基地，SpaceX的工程师们一直在制造一个又一个的原型，同时对飞行器进行各种测试。到目前为止，该公司已经用原型机进行了几次高空飞行，将它们发射到离地球32,000英尺以上的地方，然后再试图将它们降落到地面上。其目的是测试星际飞船使用其引擎在地球上轻轻着陆的能力，这种着陆技术最终将在其他世界上着陆时使用。在所有这些测试中，SpaceX只成功降落了一个原型机，事后没有发生爆炸。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2022/0211/9c52e2e353b77d1.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0211/9c52e2e353b77d1.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">现在，SpaceX正专注于将星际飞船发射到轨道上，以证明该飞行器确实能够进入太空。虽然SpaceX可能仍有更多的工作要做，以便为发射做好准备，但挡在这家火箭公司面前的一个大障碍是监管部门的批准。而FAA的决策过程一直充满了动荡，因为SpaceX在博卡奇卡的计划近年来已经大大扩展。</p><p style="text-align: left;">FAA早在2014 年就批准 SpaceX 从博卡奇卡发射，甚至准备了一份完整的环境影响声明（EIS），详细说明发射场将如何影响周边地区和野生动物保护区。但是，当 SpaceX 计划从该地区发射其较小的猎鹰9号和猎鹰重型火箭时，该批准又被决定了。现在 SpaceX 想要从博卡奇卡发射星际飞船，FAA必须确定该公司是否可以继续并定期发射到轨道，是否需要对站点进行更改，或者是否需要新的 EIS。后一种选择将花费大量时间，因为 FAA 会咨询更多专家并收集有关 SpaceX 在博卡奇卡的足迹及其对周围环境的潜在影响的更多数据。</p><p style="text-align: left;">FAA曾表示，它计划在 2 月底之前做出决定，这使得马斯克的谈话时机更具相关性，也许是向 FAA 施加压力的一种方式。SpaceX 确实寄希望于能够从该公司称为 Starbase 的博卡奇卡站点发射。马斯克认为，与该公司位于佛罗里达州卡纳维拉尔角的其他主要发射场相比，该远程站点允许 SpaceX 进行更多的实验飞行。马斯克说：“因为我们在卡纳维拉尔角进行了很多发射，我们不想破坏卡纳维拉尔角的活动，运营发射，以及星际飞船的先进研发。因此，将运营发布与研发发布脱钩非常重要。”</p><p style="text-align: left;">马斯克确实指出，如果 FAA不立即批准 Starbase，SpaceX 未来可能会使用卡纳维拉尔角。“我们确实有卡纳维拉尔角的替代品，”马斯克说。“我们实际上是在几年前申请了从卡纳维拉尔角发射的环境批准并收到了它。” 他指出，最坏的情况是 SpaceX 将推迟长达八个月，因为该公司为 卡纳维拉尔角开发了一个发射塔，以便星际飞船可以在那里发射。</p><p style="text-align: left;">即使 Starbase 确实获得了批准，SpaceX 何时真正准备好发射也尚不清楚。马斯克表示，他“非常有信心”星际飞船今年将进入轨道，SpaceX 希望一旦公司获得 FAA的批准，就可以进行首次轨道尝试。但他几乎没有提供有关星际飞船硬件开发最新进展的具体细节。“我认为我们已经接近准备好硬件，”马斯克说。“所以现在，我认为我们正在跟踪同时获得监管批准和硬件准备就绪。”</p>   
+</div>
+            
