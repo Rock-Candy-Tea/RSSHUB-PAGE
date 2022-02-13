@@ -19,7 +19,7 @@ Deck两周后就要发售了，看起来V社正在加速其掌机设备的测试
 Deck上“已验证”游戏来到了294款，接近300个，包括《战神4》《地平线：黎明曙光》《脑航员2》《吸血鬼幸存者》《俄罗斯方块效应》《死亡搁浅》《大神HD》和7个《如龙》游戏以及更多。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220213/1644719217_777705.jpg" alt="Steam Deck完美支持游戏接近300个 不支持游戏60个" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220213/1644719217_777705.jpg" alt="Steam Deck完美支持游戏接近300个 不支持游戏60个" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 所谓的“已验证”分级意味着这款游戏完整兼容V社基于Linux的掌机PC，玩家可以在Steam 
