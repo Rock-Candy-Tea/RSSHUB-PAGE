@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 观察者网
  - 首页
-headimg: 'https://picsum.photos/400/300?random=3873'
+headimg: 'https://picsum.photos/400/300?random=5502'
 author: 观察者网
 comments: false
 date: Thu, 10 Feb 2022 15:55:31 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3873'
+thumbnail: 'https://picsum.photos/400/300?random=5502'
 ---
 
 <div>   
