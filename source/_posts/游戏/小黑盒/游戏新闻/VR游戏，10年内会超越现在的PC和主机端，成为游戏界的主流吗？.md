@@ -1,0 +1,18 @@
+
+---
+title: 'VR游戏，10年内会超越现在的PC和主机端，成为游戏界的主流吗？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/02/13/96fb3466d8c7f7d8abe736acf7956aeb/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 13 Feb 2022 13:50:32 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/02/13/96fb3466d8c7f7d8abe736acf7956aeb/thumb.jpeg'
+---
+
+<div>   
+<p>记得在2016年的时候，就有很多人说这是VR游戏的元年。本以为16年的时候VR游戏，会爆发式的火爆，可惜没有。让后18年的电影《头号玩家》的火热，使得元宇宙这个概念第一次走向广大游戏玩家。本以为18年的时候VR游戏，会爆发式的火爆，可惜也没有。让后去年又对元宇宙概念股铺天盖地的宣传，和地毯式的洗脑。似乎让人觉得，元宇宙真的要来临了。让后是？来了吗？似乎也没有掀起多大风浪。那么我来理性讲讲几个观点，为什么VR游戏和元宇宙到目前为止，不可能成为主流的原因。</p><p></p><p><img class="lazy" data-height="330" src="https://imgheybox.max-c.com/bbs/2022/02/13/96fb3466d8c7f7d8abe736acf7956aeb/thumb.jpeg" data-width="580" referrerpolicy="no-referrer"></p><p><br></p><p>其实稍微有点资历的游戏玩家都知道，我们目前的科技和显示技术，别说什么元宇宙了。即便是模拟视觉这一款，和真正的模拟现实还大相径庭。去年facebook公司造出的廉价VR设备oculus quest2大卖，本质上这设备是亏于成本价发售的。但是即便是这火爆的VR设备其销量也只有1000万台，要知道这个数量在游戏主机界可是不及PS4的十分之一的。所以从销量上来看，要想铺开元宇宙的大门，其火候实在是勉强。</p><p><br></p><p><img class="lazy" data-height="345" src="https://imgheybox.max-c.com/bbs/2022/02/13/cb7dfd80f3dcc521444b7052960d5dca/thumb.jpeg" data-width="460" referrerpolicy="no-referrer"></p><h4 class="img-desc">败中败的WIIU主机都远超这个数</h4><p><br></p><br><p><br></p><p>那么我们来谈谈，现在VR设备的硬件成面。真正的元宇宙，让人能进入的身临其境的虚拟世界，并不只是模拟视觉这一个项目。要对味觉，嗅觉，触觉，各种做到以假乱真的地步才能真正意义上的身临其境。但即便是视觉这一项，以目前科学家主流的观点，屏幕的分辨率起码要打到8K才能勉强欺骗人眼的视觉。而目前的最高端的显卡3090TI，玩个4K《荒野大嫖客2》我都不敢保证有全程60桢。但是VR要保持最低限度流程起码90桢以上，不然各种副作用，呕吐，晕眩，卡顿。各种不良反应等着你。</p><p><br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/02/13/cfeb8fa76ee2fcfc07f647320ca6811f/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">还8K？你的电脑在2K全开试试</h4><p><br></p><br><p><br></p><p>即便是理想发展，过五到十年，显卡的技术迅速发展。那么第二项问题就是，人体的知觉感官。到目前为止，科技界的确做出了简单的触觉模拟设配，背心和手套什么的，但是说到底这玩意，最终的原理还是震动反馈，看上好像是高大上，其实科技含量并不高，你在游戏当中想要模拟现实中的触觉，痛，麻，酸，胀，冷，热等！这难度不亚于开发一个刀剑神域，不是我这边吹冷风，实际情况就是四个字，天方夜谭。</p><p><br></p><p><img class="lazy" data-height="450" src="https://imgheybox.max-c.com/bbs/2022/02/13/78899bcc3c04aaf6d67fcc1ef8078a14/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><h4 class="img-desc">模拟知觉？脑后插管都做不到这个。</h4><br><p><br></p><br><p><br></p><p>让后说一下运作感知系统，目前主流的方案分为两种，一种是基站定位，用于高端的VR设配，还有一种的廉价摄像头定位。前一种可以追踪人体全身关节和动作，精确度也很高。后一种一般只能追踪人体上半身，手和头部。而我们玩VR游戏的时候，场地要求也是非常之高的，并不能很狭小的空间游玩，你带着VR设配，更加会限制的你做的动作。比方说，翻滚，比方说，跑步。比方说，跳跃，这些最基础的动作。在VR设配里想要实现，也是比较困难的。目前最便宜的VR跑步机，售价也在5万人民币左右，你要是说自己是土豪，当我没有话说。<br></p><p><br></p><p><img class="lazy" data-height="367" src="https://imgheybox.max-c.com/bbs/2022/02/13/aab98c5397c528cb3defa6bd22ee3ec7/thumb.jpeg" data-width="500" referrerpolicy="no-referrer"></p><h4 class="img-desc">这跑步机也就6万软妹币，不贵啊？</h4><p><br></p><br><p><br></p><p>加上游戏的生态圈，目前真正意义上的VR游戏3A大作也就不到那么5款游戏，基本上都是主打轻量级的游戏。我在VR上玩的最多的游戏反倒是节奏光剑。</p><p></p><p><img class="lazy" data-height="675" src="https://imgheybox.max-c.com/bbs/2022/02/13/f7d26b13504c71d62125c74102c0094b/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><p><br></p><p>至于游戏阵容，别说主机平台，就连手机都打不过。对于VR游戏未来的发展，我乐观估计，能够有长足的进步就不错了，想要代替PC，我只能说洗洗睡吧。</p><p><br></p><p><img class="lazy" data-height="414" src="https://imgheybox.max-c.com/bbs/2022/02/13/449e6e97c6628bd4eb6f377606eb6432/thumb.jpeg" data-width="831" referrerpolicy="no-referrer"></p><h4 class="img-desc">VR游戏3A数量，是以年起步的</h4><p><br></p><br><p><br></p><p>我VR的发展更多的是在工作领域上，或者是人与人之间的交流，还有商业用途。比方VR看房，在VR里面聚集人员上课和办公。这种身临其境体验，倒是比传统PC和手机线上聚聊和视频会议强上一百倍。对画质和触觉模拟什么的也没有要求。</p><p></p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2022/02/13/48212d3784b6b2687c2ab851e83b5239/thumb.jpeg" data-width="1152" referrerpolicy="no-referrer"></p><p><br></p><p>以上仅是我个人的观点，如有不同的观点和想法，请大家评论发言表达自己的意见！</p><p><br></p><br>  
+</div>
+            

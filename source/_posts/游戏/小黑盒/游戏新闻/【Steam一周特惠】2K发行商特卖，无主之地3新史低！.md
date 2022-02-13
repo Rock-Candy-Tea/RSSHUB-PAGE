@@ -1,0 +1,18 @@
+
+---
+title: '【Steam一周特惠】2K发行商特卖，无主之地3新史低！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/397540_Y5srb.jpg'
+author: 小黑盒
+comments: false
+date: Sun, 13 Feb 2022 14:00:39 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/397540_Y5srb.jpg'
+---
+
+<div>   
+<p>大家好，这里是<a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2414422" target="_blank">@陶咩咩</a>。关注我，获得更多详细咨询。</p><hr><p>无主之地3（特别好评84%）<b>新史低39.8元</b></p><p><img data-gameid="397540" src="https://cdn.max-c.com/heybox/game/header/397540_Y5srb.jpg" referrerpolicy="no-referrer"></p><blockquote><p>射击夺宝游戏的鼻祖载誉归来，为您带来无穷无尽 的枪械和一场躁动无限的冒险旅途！选择四名全新寻宝猎人的其中一位，披挂上阵，在全新的世界中和新型敌人展开殊死之战。您可以单人游玩或是和好友一同与疯狂的敌人作战夺取成堆的战利品，并从星系最为残忍的邪教领袖手中拯救家园。</p></blockquote><hr><p>XCOM® 2（现可免费游玩 距离截至1天12小时）</p><p>幽浮2（特别好评84%）<b>新史低11.4元</b></p><p><img data-gameid="268500" src="https://cdn.max-c.com/heybox/game/header/268500_Q7haB.jpg" referrerpolicy="no-referrer"></p><blockquote><p>外星人统治着地球，为人类许诺了一个美好的未来，但却在暗中隐藏着一个阴险的计划。作为面对着重重困难的游击势力领袖，您必须点燃全球的反抗之火消灭外星威胁并阻止人类灭绝。</p></blockquote><hr><p>Sid Meier’s Civilization® VI</p><p>文明6（特别好评83%）<b>平史低</b></p><p><img data-gameid="289070" src="https://cdn.max-c.com/heybox/game/header/289070_IZNMD.jpg" referrerpolicy="no-referrer"></p><blockquote><p>最早由传奇游戏设计大师席德·梅尔创作出来的《文明》是一款回合制策略游戏，让玩家尝试建立起一个帝国，并接受时间的考验。玩家将创建及带领自己的文明从石器时代迈向信息时代，并成为世界的领导者。在尝试建立起世界上赫赫有名的伟大文明的过程中，玩家将启动战争、实行外交、促进文化，同时正面对抗历史上的众多伟大领袖。</p></blockquote><hr><p>Kingdom Come: Deliverance</p><p>天国：拯救（特别好评81%）<b>平史低</b></p><p><img data-gameid="379430" src="https://cdn.max-c.com/heybox/game/header/379430_Q3pdY.jpg" referrerpolicy="no-referrer"></p><blockquote><p>你是亨利，一位铁匠的儿子。你被卷入一场残酷的内战，你绝望的看着入侵者席卷你的镇子，屠杀你的家人和朋友。你幸运的逃过一劫，并拿起剑誓言反抗。请为你的双亲报仇！并击退侵略者！</p></blockquote><hr><p>Mortal Kombat 11</p><p>真人快打11（特别好评86%）<b>平史低</b></p><p><img data-gameid="976310" src="https://cdn.max-c.com/heybox/game/header/976310_TGLg1.jpg" referrerpolicy="no-referrer"></p><blockquote><p>全新“自定义角色模板”功能可让你以史无前例的方式自定义战士，打造完全属于你的角色。全新图形引擎将细腻呈现每个碎颅爆眼的精彩时刻，让你如同身历其境般地体验每个细节。伴随着一直以来脍炙人口的电影剧情模式，再加上一众全新以及重磅回归的经典战士，在推出25周年之际，《真人快打》这部史诗系列将迎来其新的高峰。</p></blockquote><hr><p>Diplomacy is Not an Option</p><p>要战便战（特别好评89%）<b>新史低</b></p><p><img data-gameid="1272320" src="https://cdn.max-c.com/heybox/game/header/1272320_iaufv.jpg" referrerpolicy="no-referrer"></p><blockquote><p>你将成为一个正处于中年危机的中世纪封建领主。因为你一邦之主的身份，你必须每天不断地做出一系列有关城镇管理和经济发展的决策。一日复一日，你已然厌倦了这种单调且乏味并看起来根本没有什么意义的生活！但是你的事情绝非一成不变：一大批嗜血的敌兵、海量的骇人恶兽以及摩肩接踵的农民起义军随时会给你枯燥乏味的日程表上带来几笔活力。</p></blockquote><hr><p>胶佬模拟器（特别好评80%）<b>新史低</b></p><p><img data-gameid="1164250" src="https://cdn.max-c.com/heybox/game/header/1164250_J31mk.jpg" referrerpolicy="no-referrer"></p><blockquote><p>尽情构建。挥洒创意。</p><p>紧跟模拟游戏的最新潮流，拿出你的创意，制作令人刮目相看的模型。</p><p>切割、组装、喷涂然后定制你的模型！构建飞机、坦克、船只、人物以及五花八门的其他物品。通过出售作品获利，扩展你的工具包。创作令人惊叹的史诗级比例模型，向全世界展示你的杰作。</p></blockquote><hr><p>生化奇兵：无限 完全版（好评如潮95%）<b>平史低</b></p><p><img data-gameid="8870" src="https://cdn.max-c.com/heybox/game/header/8870_tkYK2.jpg" referrerpolicy="no-referrer"></p><blockquote><p>蒸汽朋克、反乌托邦、魔法与科学、时空穿越、平行世界、祖父悖论，基本就是这个游戏的关键词。</p><p>初到浮空城真的很惊艳，在游乐场玩了好久的小游戏，没想到下一秒就打起来了。后面伊丽莎白杀了人后变装真的好看，但是性格也变了。最后从见到老年伊丽莎白开始到结局一段的剧情呈现，艺术性非常强。虽然是13年的游戏但画面很精致，从很多细节就能看出是一款用心制作的游戏，也能感觉到有很大的世界观塑造，值得慢慢研究。能把这样的故事以游戏的方式展现，可以称得上是第九艺术了。时间循环题材相关的元素该有的都有，喜欢看科幻电影和小说的一定不要错过。</p></blockquote><hr><p><a href="heybox://open_subject" target="_blank">#steam游戏</a><a href="heybox://open_subject" target="_blank">#游戏推荐</a><a href="heybox://open_subject" target="_blank">#单机游戏#</a><br></p>  
+</div>
+            
