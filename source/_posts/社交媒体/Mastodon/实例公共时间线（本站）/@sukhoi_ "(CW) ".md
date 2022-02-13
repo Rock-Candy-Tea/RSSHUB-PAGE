@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/293/521/original/441571bc6bb96b85.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/042/294/820/original/4d2030ce08cd9574.jpg'
 author: Mastodon
 comments: false
-date: Sun, 13 Feb 2022 14:06:36 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/293/521/original/441571bc6bb96b85.jpg'
+date: Sun, 13 Feb 2022 15:08:01 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/042/294/820/original/4d2030ce08cd9574.jpg'
 ---
 
 <div>   
-<hr><p>ジェネレーションギャップ</p><br><img src="https://img.pawoo.net/media_attachments/files/042/293/521/original/441571bc6bb96b85.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>2/14だからバレンタインですね</p><br><img src="https://img.pawoo.net/media_attachments/files/042/294/820/original/4d2030ce08cd9574.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
