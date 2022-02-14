@@ -5,15 +5,17 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=4864'
+headimg: 'https://picsum.photos/400/300?random=1629'
 author: 财联社
 comments: false
 date: Mon, 14 Feb 2022 01:22:24 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4864'
+thumbnail: 'https://picsum.photos/400/300?random=1629'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>2月14日 9:50</strong></p>
+<div class="m-b-10"><p><strong>2月14日 10:30</strong></p>
+<p>近期创业板块权重股此起彼伏地下跌，宁德时代在周末澄清后开始反弹，但东方财富又开始大幅下挫，盘中下跌超10%，原因或是基金发行放缓，也可能有网信证券破产重整落地，指南针或开始追赶东方财富的原因。</p>
+<p><strong>2月14日 9:50</strong></p>
 <p>新冠药大幅领涨，博腾股份、雅本化学、精华制药涨停。中药、CRO等板块也联动大涨。目前新冠治疗指数已大涨超6%，当日继续大涨也有一定的概率，但秉承这一原则，今日反弹越强烈，明日分化可能越明显。</p>
 <p><strong>2月14日 9:10</strong></p>
 <p>目前市场主线主要有2类，一是以基建为代表的“估值修复”板块，二是以数字货币为代表的数字经济概念。</p>
