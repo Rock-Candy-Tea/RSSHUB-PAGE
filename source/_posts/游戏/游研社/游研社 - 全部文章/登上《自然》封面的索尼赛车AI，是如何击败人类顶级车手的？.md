@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 全部文章
-headimg: 'https://picsum.photos/400/300?random=3995'
+headimg: 'https://picsum.photos/400/300?random=2408'
 author: 游研社
 comments: false
-date: Sun, 13 Feb 2022 04:10:24 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3995'
+date: Sun, 13 Feb 2022 05:08:56 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2408'
 ---
 
 <div>   
-“我们追求人工智能，是为了最终更好地了解人类。”  
+追求人工智能，是为了最终更好地了解人类。  
 </div>
             
