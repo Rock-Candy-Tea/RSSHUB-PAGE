@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-figma-adobe-add-on/'
 author: Inside Design
 comments: false
-date: 2022-02-14 05:08:09
+date: 2022-02-14 06:10:02
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-figma-adobe-add-on/'
 ---
 

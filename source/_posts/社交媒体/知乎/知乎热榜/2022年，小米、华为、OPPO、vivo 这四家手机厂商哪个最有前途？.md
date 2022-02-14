@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9206'
+headimg: 'https://pic4.zhimg.com/v2-426d12494d707cdf12fc277d87a23912_1440w.jpg'
 author: 知乎
 comments: false
-date: Mon, 14 Feb 2022 03:43:26 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9206'
+date: Mon, 14 Feb 2022 05:36:14 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-426d12494d707cdf12fc277d87a23912_1440w.jpg'
 ---
 
 <div>   
-大问号的回答<br><br><p data-pid="QzlxoMPo">首先，可以排除华为。</p><p data-pid="58NCFmhT">其次，可以把荣耀放进来。</p><p data-pid="OlycJx8R">这样的话，这个问题就变成了“2022年，小米、荣耀、OPPO、vivo这四家手机厂商哪个最有前途？”。</p><p data-pid="CAdNb6qf">说实话，这四个手机厂商目前的情况大同小异，或者说半斤八两。所以，真的很难说哪一个手机厂商2022年更有前途。</p><p data-pid="5ZJbp3xV">但是，如果看增长速度的话，可能荣耀相对来说会好一些。</p>  
+HTPC的回答<br><br><p data-pid="NU_5eQS0">答案已经在您心中了</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-426d12494d707cdf12fc277d87a23912_1440w.jpg" data-rawwidth="1080" data-rawheight="904" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-cb868dea0b2850c84b49f1316e70b562_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-426d12494d707cdf12fc277d87a23912_r.jpg" referrerpolicy="no-referrer"><figcaption>顺便帮你点个赞</figcaption></figure><p></p>  
 </div>
             
