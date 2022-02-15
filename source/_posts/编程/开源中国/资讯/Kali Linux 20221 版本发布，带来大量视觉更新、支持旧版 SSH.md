@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0215/075834_2oZx_5430600.png'
 author: 开源中国
 comments: false
-date: Mon, 14 Feb 2022 23:58:00 GMT
+date: Tue, 15 Feb 2022 07:57:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0215/075834_2oZx_5430600.png'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0215/075834_2oZx_54306
 <p>此外，ISO 映像中存在的启动菜单的功能、主题和布局也得到了改进，使主题保持一致性：</p> 
 <p><img alt height="263" src="https://static.oschina.net/uploads/space/2022/0215/075904_dJ1n_5430600.png" width="700" referrerpolicy="no-referrer"></p> 
 <h2 style="text-align:start">Shell 提示更改</h2> 
-<p>在编写专业的渗透测试报告，或共享终端以协作调试代码时，<strong style="color:#636363">右侧提示</strong> （包含退出代码和后台进程的数量）可能会妨碍工作。因此它<strong style="color:#636363">已从默认 shell</strong> <strong>ZSH 中删除。此外，</strong><strong style="color:#636363">根提示符中的头骨已被替换</strong>为普通的 <span style="background-color:#f6f6f6">K </span>符号：</p> 
+<p>在编写专业的渗透测试报告，或共享终端以协作调试代码时，<strong>右侧提示</strong> （包含退出代码和后台进程的数量）可能会妨碍工作。因此它<strong>已从默认 shell</strong> <strong>ZSH 中删除。</strong>此外，根提示符中的头骨已被替换为普通的 K 符号：</p> 
 <p><img height="160" src="https://static.oschina.net/uploads/space/2022/0215/075725_43YS_5430600.png" width="700" referrerpolicy="no-referrer"></p> 
 <h2>新的浏览器登陆页面</h2> 
 <p>为 Kali 中提供的默认登录页面带来了全新的外观，利用更新的文档站点（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.kali.org%2Fdocs%2F" target="_blank">Kali-Docs</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.kali.org%2Ftools%2F" target="_blank">Kali-Tools</a>），搜索功能可以搜索到 Kali 所需的任何内容。</p> 
