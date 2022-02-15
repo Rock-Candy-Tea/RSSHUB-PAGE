@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.goodrain.com/wechat/app-monitor/create_jmx.png'
 author: Dockone
 comments: false
-date: 2022-02-15 10:10:19
+date: 2022-02-15 11:06:54
 thumbnail: 'https://static.goodrain.com/wechat/app-monitor/create_jmx.png'
 ---
 
