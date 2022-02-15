@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220215/1644889332_892611.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 15 Feb 2022 01:51:00 GMT
+date: Tue, 15 Feb 2022 01:56:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220215/1644889332_892611.jpg'
 ---
 
@@ -35,7 +35,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220215/1644889332_8926
 《穿越火线X》的两段单人战役杂乱无章，令人担忧的是，本作没有展现出多少Remedy标志性的创造力，这让人不禁想知道为什么Remedy会被选中来做这样一个项目。《穿越火线X》让人觉得玩家们可能会看到一个像《控制》或者《心灵杀手》这样的故事，但是这些希望很快就破灭了，因为游戏中的两段单人战役杂甚至没有一个粗略的转折就草草结束了。无论是平淡无奇的角色，脑死亡的敌军AI，毫无存在感的关卡、还是<a target="_blank" href="https://www.3dmgame.com/tag/qiangzhan_1/">枪战</a>中非常糟糕的射击手感，这些简短的战役都都给人留下一种漫不经心的印象。
 </p>
 <p style="text-indent:2em;">
-<strong>IGN评测视频：</strong>
+<strong>IGN评测视频：</strong> 
 </p>
 <p align="center">
 <iframe src="https://player.youku.com/embed/XNTIwNTAyNzg4NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">

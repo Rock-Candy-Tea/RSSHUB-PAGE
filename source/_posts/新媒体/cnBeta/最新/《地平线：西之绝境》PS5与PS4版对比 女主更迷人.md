@@ -1,0 +1,19 @@
+
+---
+title: '《地平线：西之绝境》PS5与PS4版对比 女主更迷人'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0215/446a9519cd30bf4.jpg'
+author: cnBeta
+comments: false
+date: Tue, 15 Feb 2022 02:55:37 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0215/446a9519cd30bf4.jpg'
+---
+
+<div>   
+《地平线：西之绝境》将于2月18日发售，登陆PS4和PS5平台，该作媒体评分已解禁，MC站均分88。外媒IGN放出了《地平线：西之绝境》PS4版与PS5版对比，看看这两个版本之间的差异。一起来欣赏下视频吧！<br>
+  <p style="text-align: left;"><strong>PS4 vs PS5版对比：</strong></p><p style="text-align: left;"><iframe src="https://player.youku.com/embed/XNTIwNTAyNzA2NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="750" height="480" frameborder="0"></iframe></p><p style="text-align: left;">此外IGN还放出了《地平线：西之绝境》PS5 vs PS4 Pro vs PS4性能评测视频，看看PS5版到底有多大优势？与《地平线：零之曙光》相比，改进有多大？</p><p style="text-align: left;">PS5 vs PS4 Pro vs PS4性能评测：</p><p style="text-align: left;"><iframe src="https://player.youku.com/embed/XNTIwNTAyNzI0MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="750" height="480" frameborder="0"></iframe></p><p style="text-align: left;">《地平线：西之绝境》新增攀登、抓钩和盾翼等，还有更强大的定居点，新支线任务，新技能武器，还有超过40种以上的机械兽。该作故事长度和《地平线：零之曙光》差不多，主线<a target="_blank" href="https://www.3dmgame.com/tag/juqing_1/">剧情</a>通关大约在20-24个小时左右，完整通关至少需要60个小时。虽然游戏只有一个结局，但玩家行动会对故事有一定影响。</p><p style="text-align: left;"><strong>视频截图：</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/446a9519cd30bf4.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/446a9519cd30bf4.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/446a9519cd30bf4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/8f3b5aaef6f33e3.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/8f3b5aaef6f33e3.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/8f3b5aaef6f33e3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/5ad8ca001b3f555.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/5ad8ca001b3f555.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/5ad8ca001b3f555.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/9c0427de58fc73d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/9c0427de58fc73d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/9c0427de58fc73d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/10b29218a577253.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/10b29218a577253.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/10b29218a577253.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/7b6986419469b81.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/7b6986419469b81.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/7b6986419469b81.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0215/3daf3c12bbd83e1.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0215/3daf3c12bbd83e1.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0215/3daf3c12bbd83e1.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
