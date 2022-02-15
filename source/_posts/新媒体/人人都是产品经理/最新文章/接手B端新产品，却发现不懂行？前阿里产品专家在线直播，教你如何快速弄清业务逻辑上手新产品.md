@@ -14,21 +14,31 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/02/JWuI29PYzZ8KwQNblq9H.jpg'
 
 <div>   
 <p><strong>要说近年来比较火的产品岗位，你会想到什么？</strong></p>
-<blockquote><p>增长产品经理、策略产品经理、商业化产品经理、AI产品经理、数据产品经理、中台产品经理……</p></blockquote>
+<blockquote>
+<p>增长产品经理、策略产品经理、商业化产品经理、AI产品经理、数据产品经理、中台产品经理……</p>
+</blockquote>
 <p>在这其中，像中台产品之类的B端产品经理无疑是大家讨论最多的产品岗位。</p>
 <p><strong>但入行成为一名优秀的B端产品经理，却不是那么容易的事情。</strong></p>
-<blockquote><p>来自90天B端产品经理实战班的赵同学，已经入行B端产品1年左右了，想通过刚入职的物流公司作为进入B端的跳板。</p>
+<blockquote>
+<p>来自90天B端产品经理实战班的赵同学，已经入行B端产品1年左右了，想通过刚入职的物流公司作为进入B端的跳板。</p>
 <p>但是公司大部分的B端产品是自研的，比如ERP系统、CRM系统，客户和资源管理系统等，都是领导和研发在主导、探索，产品在里面起到很小的辅助作用。</p>
-<p>主要意见也是产品团队负责人在提，自己没有接触到很专业和复杂的系统，对B端产品以及企业应用架构体系的理解也非常浅显。<strong>之前没有接触过比较先进的相关软件平台，要如何系统的学习?</strong></p></blockquote>
+<p>主要意见也是产品团队负责人在提，自己没有接触到很专业和复杂的系统，对B端产品以及企业应用架构体系的理解也非常浅显。<strong>之前没有接触过比较先进的相关软件平台，要如何系统的学习?</strong></p>
+</blockquote>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/02/JWuI29PYzZ8KwQNblq9H.jpg" alt width="226" height="218" referrerpolicy="no-referrer"></p>
-<blockquote><p>而转岗B端产品1个月蔡同学烦恼到，自己在现代物流行业负责财务结算系统设计，产品类型是业务支撑系统、业务运作及经营管理活动等，但像物流行业中保税通关业务和供应链金融比较难渗透，<strong>根本不知如何着手?</strong></p></blockquote>
+<blockquote>
+<p>而转岗B端产品1个月蔡同学烦恼到，自己在现代物流行业负责财务结算系统设计，产品类型是业务支撑系统、业务运作及经营管理活动等，但像物流行业中保税通关业务和供应链金融比较难渗透，<strong>根本不知如何着手?</strong></p>
+</blockquote>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/02/YFDcTB65PmCJBOrChX5K.gif" alt width="223" height="221" referrerpolicy="no-referrer"></p>
-<blockquote><p>而接手了成熟项目的程同学反馈到，自己接手到的是比较成熟的项目了，目前做的工作基本上都是细节的修改，这种情况如何考虑有哪些继续优化的方向?如何体现自己的价值?</p></blockquote>
+<blockquote>
+<p>而接手了成熟项目的程同学反馈到，自己接手到的是比较成熟的项目了，目前做的工作基本上都是细节的修改，这种情况如何考虑有哪些继续优化的方向?如何体现自己的价值?</p>
+</blockquote>
 <p><strong>我们将以上同学的问题进行下简单总结，可以概括为:</strong></p>
 <p>1-新进陌生的领域，如何快速了解项目，深入理解其业务逻辑?</p>
 <p>2-B端产品经理快速上手，做出成绩体现自己的价值？</p>
 <p><strong>那为何接手B端新产品，快速上手项目这么难呢？</strong></p>
-<blockquote><p>行业的专有性，业务逻辑的复杂性。</p></blockquote>
+<blockquote>
+<p>行业的专有性，业务逻辑的复杂性。</p>
+</blockquote>
 <p>B端产品行业属性非常重，涉及到线下的场景、细节和业务逻辑。</p>
 <p>想要充分了解这些业务提高决策的有效性，一定是需要大量的项目积累的。</p>
 <p>B端产品注重系统性，需要不只是要支持当下的业务问题，更是要找到业务的底层链路，提前做好规划。</p>
