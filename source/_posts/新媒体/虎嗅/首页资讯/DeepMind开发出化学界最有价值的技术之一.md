@@ -1,0 +1,18 @@
+
+---
+title: 'DeepMind开发出化学界最有价值的技术之一'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/content/202202/15/111403705490.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85'
+author: 虎嗅
+comments: false
+date: Tue, 15 Feb 2022 05:52:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/content/202202/15/111403705490.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/X3IJ9zP5LSehueA_R8MEww" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks" label="备注">Nature Portfolio（ID：nature-portfolio）</span></a><span class="text-remarks" label="备注">，作者：Davide Castelvecchi，头图来自：unsplash</span></p><p>伦敦人工智能公司DeepMind的科学家领导的一个团队开发了一种机器学习模型，该模型能通过预测分子中电子的分布来预测分子的特性。这种方法发表于12月10日的《科学》杂志上<sup><span class="text-remarks" label="备注">[1]</span></sup>，<strong>它可以比现有技术更准确地计算一些分子的性质</strong>。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202202/15/111403705490.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" data-w="800" data-h="450" src="https://img.huxiucdn.com/article/content/202202/15/111403705490.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" referrerpolicy="no-referrer"></p><p label="图片备注" class="text-img-note">人工智能预测单个分子中电子的分布（示意图），并利用它来计算物理性质。来源：DeepMind<br label="图片备注" class="text-img-note"></p><p>维也纳大学的材料科学家Anatole von Lilienfeld说，“能做到如此精确是一项壮举。”</p><p>波兰罗兹理工大学的计算化学家Katarzyna Pernal说，这篇论文是“一项扎实的工作”。但她补充说，在能为计算化学家所用之前，机器学习模型还有很长的路要走。</p><h3 label="大标题" class="text-big-title">一、预测性质</h3><p>原则上，材料和分子的结构完全由量子力学决定，特别是由支配电子波函数行为的<strong>薛定谔方程</strong><span class="text-remarks" label="备注">（Schrödinger equation）</span>决定。这些数学工具能描述特定电子在特定空间位置出现的概率。但是DeepMind的物理学家James Kirkpatrick说，<strong>因为所有的电子之间都存在相互作用，所以根据这样的第一性原理</strong><span class="text-remarks" label="备注">（first principle）</span><strong>计算结构或分子轨道异常棘手，仅能对最简单的分子进行计算</strong>，比如苯。</p><p>为了避开这个问题，那些依赖新分子的发现或开发的研究人员——从药理学家到电池工程师，几十年来一直使用一套被称为<strong>密度泛函理论</strong><span class="text-remarks" label="备注">（DFT）</span>的技术来预测分子的物理性质。<strong>该理论并不模拟单个电子，而是计算电子负电荷在分子中的总体分布</strong>。“DFT着眼于平均电荷密度，所以它不知道单个电子的状态。”Kirkpatrick说。物质的大多数性质可以根据该密度轻易地计算出来。</p><p>自20世纪60年代DFT建立以来，它已经成为物理科学中应用最广泛的技术之一：2014年，《自然》新闻团队的一项调查发现，在被引次数最多的100篇论文中，有12篇是关于DFT的。材料性质的现代数据库，如Materials Project，很大程度上由DFT计算的数据组成。</p><p><strong>但是这种方法有局限性，而且现在已经知道它会对某些类型的分子给出错误的结果</strong>，甚至包括氯化钠这样简单的分子。尽管DFT已经比基于基本量子理论的计算要高效得多，但它们仍然很耗时，并且通常需要超级计算机。因此，在过去的十年里，理论化学家越来越多地开始用机器学习进行实验，特别是用在材料的化学反应活性或导热能力等性质的研究上。</p><h3 label="大标题" class="text-big-title">二、理想问题</h3><p>DeepMind团队可能做出了迄今为止最具野心的尝试，他们利用人工智能来计算电子密度，这是DFT计算的最终结果。“在某种程度上这属于理想的机器学习问题：<strong>你知道答案，但不知道想用什么计算公式。</strong>”理论化学家Aron Cohen说。他长期从事DFT研究，目前在DeepMind工作。</p><p><strong>该团队用薛定谔方程导出的1161个精确解数据训练了一个人工神经网络。</strong>为了提高其准确性，他们还将一些已知的物理定律硬连接进了神经网络中。von Lilienfeld说，他们随后用一组DFT计算常用的标准分子测试了训练好的系统，结果很出色。“这是研究群体目前能得到的最好结果了，而他们大获全胜。”他说。</p><p>von Lilienfeld补充说，机器学习有个优点是，尽管训练模型需要海量的计算能力，但这个过程只要做一次，之后就能在普通笔记本电脑进行独立的预测运算。与每次都从头开始计算相比，机器学习模型大大降低了成本和碳足迹。</p><p>Kirkpatrick和Cohen说，DeepMind正在发布他们训练好的系统供任何人使用。作者表示，目前该模型主要适用于分子，而不适用于材料的晶体结构计算，但之后的版本也可能会适用于材料。</p><p><span class="text-remarks" label="备注">参考文献：</span></p><p><span class="text-remarks" label="备注">1. Kirkpatrick, J. et al. Science374, 1385–1389 (2021).</span></p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/X3IJ9zP5LSehueA_R8MEww" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">Nature Portfolio（ID：nature-portfolio）</span></a><span class="text-remarks">，作者：Davide Castelvecchi</span></p>  
+</div>
+            
