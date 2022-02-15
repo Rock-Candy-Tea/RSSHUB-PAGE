@@ -16,6 +16,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Fox
 <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Foxconn-predicts-enormous-coronavirus-impact-on-smartphone-demand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" referrerpolicy="no-referrer">
 <p>The iPhone maker Foxconn will start to produce chips in India with conglomerate Vedanta. With that, Apple could be one of the companies benefiting from this partnership.</p>
 <p><span id="more-786975"></span>
+<!-- author ad -->
 </p>
 <p>As reported by <em><a href="https://www.reuters.com/technology/iphone-maker-foxconn-make-chips-india-with-vedanta-2022-02-14/" target="_blank" rel="noreferrer noopener">Reuters</a></em>, Foxconn is trying to diversify its business due to the global chip shortage. Although it’s slowly getting better, the lack of semiconductors still haunts big tech companies.</p>
 <blockquote class="wp-block-quote">
