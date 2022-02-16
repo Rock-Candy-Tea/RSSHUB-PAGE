@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorantwarmup/3015444623-1641947426/valorant_warm_up_03.jpg'
 author: Blur Studio
 comments: false
-date: 2022-02-16 10:09:12
+date: 2022-02-16 11:07:51
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorantwarmup/3015444623-1641947426/valorant_warm_up_03.jpg'
 ---
 
