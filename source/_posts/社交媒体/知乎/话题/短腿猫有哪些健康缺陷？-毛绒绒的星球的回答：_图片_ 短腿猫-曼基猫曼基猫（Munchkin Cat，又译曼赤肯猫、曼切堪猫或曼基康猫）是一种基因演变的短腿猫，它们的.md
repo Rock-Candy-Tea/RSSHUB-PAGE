@@ -1,0 +1,18 @@
+
+---
+title: '短腿猫有哪些健康缺陷？-毛绒绒的星球的回答：_图片_ 短腿猫-曼基猫曼基猫（Munchkin Cat，又译曼赤肯猫、曼切堪猫或曼基康猫）是一种基因演变的短腿猫，它们的...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-c8802c695295bb6476977cfc04a83131_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 16 Feb 2022 06:58:36 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-c8802c695295bb6476977cfc04a83131_1440w.jpg'
+---
+
+<div>   
+<strong>短腿猫有哪些健康缺陷？</strong><br>毛绒绒的星球的回答<br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c8802c695295bb6476977cfc04a83131_1440w.jpg" data-caption data-size="normal" data-rawwidth="696" data-rawheight="429" data-default-watermark-src="https://pic1.zhimg.com/v2-f64f0ccf0a49b7333f0ecda41b0e9750_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c8802c695295bb6476977cfc04a83131_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="_w9mMJpI"><b>短腿猫-曼基猫</b></p><p data-pid="cbGMeqQz">曼基猫（Munchkin Cat，又译曼赤肯猫、曼切堪猫或曼基康猫）是一种基因演变的短腿猫，它们的短腿来自一种显性遗传基因，因为腿短短、外形可爱而成为热门的宠物猫。但得意的外表下，这种短脚猫正因为腿短而容易患上关节炎、椎间盘疾病等多种疾病，寿命也比一般猫咪短。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="84nb5dNM"><b>短腿猫不被认可 猫协会不鼓励繁殖</b></p><p data-pid="0tY2odDt">国际育猫协会（TICA）认可曼切堪猫的品种，并描述短腿猫外向、聪明且互动反应良好的猫咪。世界多个猫协会，包括美国爱猫者协会（ACFA）、爱猫者协会（CFA）、英国猫迷管理委员会（GCCF）及欧洲猫协联盟（FIFe）均不承认曼基猫的品种。英国猫迷管理委员会（GCCF）甚至曾发声表示曼基猫因显性基因导致身体结构异常、有缺陷，强力观阻任何人进口。GCCF 主席 Rosemary Fisher 曾表示曼基猫有多种潜在健康问题，如脊椎前弯（lordosis），令猫咪脊柱肌肉生长不良，导致脊骨内弯。而曼基猫普遍容易夭折，即使顺利长大，亦比较容易在剧烈运动后出现呼吸困难。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="gCNe4VyI">与折耳猫不同的是曼基猫的短腿来自自然基因变异，并没有先天性的疾病，但由于腊肠猫的短腿特征会带来更多潜在健康风险，有更高的机率患上各先疾病，各大猫协会认为短腿猫是不应被繁殖。但跟折耳猫的命运一样，正因为人类觉得它们可爱而被批量繁殖，甚至与折耳猫混种，繁殖出天生百病缠身的可怜猫咪品种。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-17c438b3ae59e78daaa1eef713520c9e_1440w.jpg" data-caption data-size="normal" data-rawwidth="1170" data-rawheight="694" data-default-watermark-src="https://pic1.zhimg.com/v2-5025bab36fa1d8f1160780cf832e7a98_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-17c438b3ae59e78daaa1eef713520c9e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="0_hn3XgQ"><b>1. 致命短腿基因 1/4机会夭折</b></p><p data-pid="8MLOK8LM">曼基猫的短脚基属于显性基因，当两只曼基猫交配后，有 1/4 机会猫 BB 会从爸爸妈妈身上遗传到一对短脚基因，令猫 BB 很可能胎死腹中或夭折。想要减低猫 BB 夭折的风险，应该避免曼基猫与曼基猫交配繁殖。混种繁殖可以防止凑齐一对短腿基因减低猫 BB 夭折的风险，但就会有一半的猫 BB 不会有短脚基因（因为而有猫爸爸或猫妈妈的带来一条短脚基因）而长大成普通的猫咪。</p><p data-pid="lnI2smYJ">在讲究血统纯正的宠物繁殖中，不太接受混种繁殖，所以即使冒着每 4 只曼基猫 BB 便会有 1 只夭折死亡的风险，也会进行一对曼基猫的繁殖，这也是不提倡繁殖短腿猫的原因之一。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="zkI73EuF"><b>2. 短腿品种通病 易患关节炎</b></p><p data-pid="Y9yVR-n7">短腿猫的短腿来自自然基恩变异，而不是基因缺陷／病变，与折耳猫先天性的软骨缺陷的情况不同。曼基猫虽然腿短，但动作和反应都非常敏捷，即使与一般猫咪比较弹跳力稍为逊色，曼基猫还是能够轻松跳上跳下的。问题在于曼基猫的短腿令牠们的关节承受巨大压力，容易出现关节炎、关节退化等情况，令腊肠猫行动中承受巨大疼痛，甚至造成行动障碍、瘫痪等情况。</p><p data-pid="7KYUVsk0">为了减低猫猫患上关节炎的机会，宠主们应该控制曼基猫的体重，以免肥胖加重曼基猫的关节的负担。和狗狗们会日常散步不同，猫猫没有固定运动的习惯，所以除了日常饮食控制，宠主们也可以多和猫猫玩耍，多鼓励它们跑动，增加运动量。当短腿猫的年纪增加时，跳跃动作也会增加关节压力，所以宠主们可以在梳化、床边放置小阶梯方便猫咪上落，避免跳动。</p><p class="ztext-empty-paragraph"><br></p><p data-pid="f-imSB-c"><b>3. 易患椎间盘疾病、脊柱前凸症？</b></p><p data-pid="PTmBiqIZ">在腊肠狗和哥基狗等短腿狗狗中，椎间盘疾病（IVDD）基本上是无可避免的疾病，但幸运的是曼基猫患上椎间盘疾病的机率相较短腿狗狗们低。猫猫的骨骼构造和狗狗们不同，脊椎骨包括了 7 枚颈椎、13 枚胸椎、7 枚腰椎、3 枚荐椎和 21 – 23 枚尾椎，加上脊椎柔靭度较高，可以通过肌肉和韧带保持最安全的姿势，避免脊椎受伤，所以短腿猫的脊椎一般相较短腿狗健康。但是刚出生的曼基猫比较容易患有脊柱前凸症（Lordosis），令小猫容易在初生阶段夭折。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1d44773f77bb7f1f356321c80f0f0751_1440w.jpg" data-caption data-size="normal" data-rawwidth="1020" data-rawheight="679" data-default-watermark-src="https://pic3.zhimg.com/v2-96377bb7f78c3185acb245cf86e5cc6a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-1d44773f77bb7f1f356321c80f0f0751_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
