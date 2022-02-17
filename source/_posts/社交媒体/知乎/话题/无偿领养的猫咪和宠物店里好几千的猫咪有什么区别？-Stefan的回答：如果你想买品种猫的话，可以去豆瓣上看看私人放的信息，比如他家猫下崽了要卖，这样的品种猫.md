@@ -1,0 +1,18 @@
+
+---
+title: '无偿领养的猫咪和宠物店里好几千的猫咪有什么区别？-Stefan的回答：如果你想买品种猫的话，可以去豆瓣上看看私人放的信息，比如他家猫下崽了要卖，这样的品种猫...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-f368171a41d8ad4cd0072d197af75eca_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 17 Feb 2022 01:40:46 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-f368171a41d8ad4cd0072d197af75eca_1440w.jpg'
+---
+
+<div>   
+<strong>无偿领养的猫咪和宠物店里好几千的猫咪有什么区别？</strong><br>Stefan的回答<br><p data-pid="FcngKhhx">如果你想买品种猫的话，可以去豆瓣上看看私人放的信息，比如他家猫下崽了要卖，这样的品种猫一般都比较便宜，比猫馆便宜不少。猫馆我经常逛，看标价一个比一个离谱3000、5000、8000的美短布偶英短银渐层，而且稍微大一点的猫咪感觉精神状态都不太好，有气无力的（天天关在玻璃柜里精神状态怎么可能会好）。</p><p data-pid="7iJLh5s6">如果你对品种不是很在意的话，也可以关注一下当地的领养机构，他们一般定期会放领养活动，你可以去看看，有没有自己喜欢的。</p><p data-pid="_81hY0OD">我家这只大狸子就是两个月大的时候领养的，特别活泼，然后当场在我腿上睡着了 我们当时就签了领养协议交了200保证金把她带回家啦。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f368171a41d8ad4cd0072d197af75eca_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-e86602b05e65d0ddb926754111e2b5fb_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f368171a41d8ad4cd0072d197af75eca_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="3yCu2URz">小时候特别可爱，精力十足，第一天到家完全不怕陌生环境，到处探索，应激反应不存在的。带去体检也是非常健康。一开始从领养机构那里买了便宜点的湿猫粮，她吃了老是软便，后来换了好一点的国产猫粮就好多了，吃得毛色肉眼可见的光亮。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-beac0645d60a653d41819145223bb571_1440w.jpg" data-rawwidth="1204" data-rawheight="1640" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-0f8ea674dcc7164b8904434c32504434_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-beac0645d60a653d41819145223bb571_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-bb7fef14d4c73f852d5311e8c4d1451b_1440w.jpg" data-rawwidth="2000" data-rawheight="1500" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-3112d0bc3b8ab409f824773f30b97bca_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-bb7fef14d4c73f852d5311e8c4d1451b_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4e557426ff164cf082cad5b07dbc8e27_1440w.jpg" data-rawwidth="1093" data-rawheight="1304" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-512a052ba53b35b3bdf61549f32b96d4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4e557426ff164cf082cad5b07dbc8e27_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="oZISXBaf">看她小时候这么可爱，本来以为再过几个月就会长大长残了，结果长大之后颜值一点都没降！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-623a262da9d981199ecb393951f3f866_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-97e94fba31325788a01cb6aeec3b6ada_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-623a262da9d981199ecb393951f3f866_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4f7603161e7398947f3a7b61a405572b_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-aa96b3a23ec9e7fb329c88f925d11091_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4f7603161e7398947f3a7b61a405572b_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="gXfuRBT3">现在已经一岁多啦，很聪明，也很黏人，不是疯批状态的时候很听话。</p><p data-pid="VKJeK4M3">所以领养渠道题主也可以考虑看看。</p>  
+</div>
+            
