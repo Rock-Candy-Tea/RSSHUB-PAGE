@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220217/1645077221_2766
 
 <div>   
 <p style="text-indent:2em;">
-任天堂官方昨日宣布将于2023年3月底关闭3DS系列和WiiU的eShop商城。之后，玩家仍然可以重新下载之前购买的游戏，但无法再购买新的游戏。据VGC统计，到时候将有1000多款只有数字版的游戏将成绝版。
+任天堂官方昨日宣布将于2023年3月底关闭3DS系列和WiiU的eShop商城。之后，玩家仍然可以重新下载之前购买的游戏，但无法再购买新的游戏。据VGC统计，到时候将有1000多款只有数字版的游戏成为绝版。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220217/1645077221_276638.png" alt="3ds、WiiU的eShop关闭后 上千款数字版游戏成绝版" referrerpolicy="no-referrer"> 
