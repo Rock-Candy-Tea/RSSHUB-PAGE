@@ -1,0 +1,19 @@
+
+---
+title: '峰飞公布首款载人飞行器 首次eVTOL升空和巡航过渡测试展示'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0217/9a1d8e0ac8bb3dd.png'
+author: cnBeta
+comments: false
+date: Thu, 17 Feb 2022 12:30:18 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0217/9a1d8e0ac8bb3dd.png'
+---
+
+<div>   
+越来越多的厂家将目光投向了“载人飞行器”领域。近日，峰飞航空科技（以下简称峰飞）公布了自动驾驶eVTOL载人飞行器“V1500M盛世龙”的飞行视频。V1500M盛世龙是峰飞的首款载人飞行器，首次亮相于2021年9月举行的珠海航展，<strong>最大起飞重量1500公斤，最多可搭载4人，巡航速度200公里/时，纯电最大航程250公里</strong>，它的最大亮点在于使用了<strong>“转换飞行-Transition”技术</strong>，可以实现由常规旋翼模式切换到固定翼模式。<br>
+ <p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=326723837&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p><a href="https://img1.mydrivers.com/img/20220217/1648806eb4934ab4b56d6566ebb066a1.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0217/9a1d8e0ac8bb3dd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0217/9a1d8e0ac8bb3dd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0217/9a1d8e0ac8bb3dd.png" referrerpolicy="no-referrer"></a></p><p>根据官方公布的资料可知，V1500M盛世龙采用了垂直起降固定翼构型，顶部搭载了8个旋翼提供垂直起飞及降落阶段的升力。</p><p>当飞行高度达到150米、空速达到每小时160-180公里后，<strong>机翼可产生足够的升力，顶部旋翼停止旋转并锁定，飞机进入固定翼巡航模式，由尾部螺旋桨持续推进飞机前行</strong>。</p><p><a href="https://img1.mydrivers.com/img/20220217/2054ccf2821f4c3bba5c2fccfd2e94ab.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0217/b99c90d5574262b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0217/b99c90d5574262b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0217/b99c90d5574262b.png" referrerpolicy="no-referrer"></a></p><p>该飞行器未来将用于城市内、机场-市内、城际间或交通不便地区的出行，大幅节约出行时间，且安全性和运营成本可媲美出租车。</p><p>值得一提的是，峰飞V1500M盛世龙飞行器<strong>计划在2025年投入商业化运营</strong>。</p><p><a href="https://img1.mydrivers.com/img/20220217/88c66c1d8c8a4fbca35d3f0c6039685b.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0217/ff9c717555deadd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0217/ff9c717555deadd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0217/ff9c717555deadd.png" referrerpolicy="no-referrer"></a></p><p>最后简单了解下峰飞航空科技，它是国内最早投入大型eVTOL无人驾驶飞行器行业的科技企业之一，成功研制了全球第一款获得适航认证的电动运动飞机。</p><p><a href="https://static.cnbetacdn.com/article/2022/02/e14d219dff37521.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/e14d219dff37521.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/0ec3d16b74ed469.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/0ec3d16b74ed469.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/d8437a4932c3603.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/d8437a4932c3603.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/76936ca293da744.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/76936ca293da744.webp" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/17c18a0df8175b3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/17c18a0df8175b3.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/a1e565aa1e6cd84.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/a1e565aa1e6cd84.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://static.cnbetacdn.com/article/2022/02/bab6b573246daa5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/02/bab6b573246daa5.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
