@@ -5,18 +5,18 @@ categories:
  - 新媒体
  - DeepMind
  - Blog
-headimg: 'https://picsum.photos/400/300?random=1112'
+headimg: 'https://picsum.photos/400/300?random=8361'
 author: DeepMind
 comments: false
 date: Fri, 11 Feb 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1112'
+thumbnail: 'https://picsum.photos/400/300?random=8361'
 ---
 
 <div>   
-<p><strong>Collaborating with YouTube to optimise video compression in the open source VP9 codec.</strong></p>
+<p><strong>Collaborating with YouTube to optimise video compression in the open source VP9 codec</strong></p>
 <p>In 2016, we introduced <a href="https://deepmind.com/research/case-studies/alphago-the-story-so-far" rel="noopener" target="_blank">AlphaGo</a>, the first artificial intelligence program to defeat humans at the ancient game of Go. Its successors, <a href="https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go" rel="noopener" target="_blank">AlphaZero</a> and then <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" rel="noopener" target="_blank">MuZero</a>, each represented a significant step forward in the pursuit of general-purpose algorithms, mastering a greater number of games with even less predefined knowledge. MuZero, for example, mastered Chess, Go, Shogi, and Atari without needing to be told the rules. But so far these agents have focused on solving games. Now, in pursuit of DeepMind’s mission to solve intelligence, MuZero has taken a first step towards mastering a real-world task by optimising video on YouTube.</p>
 <p></p>
-<p>In a <a href="https://storage.googleapis.com/deepmind-media/MuZero/MuZero%20with%20self-competition.pdf" rel="noopener" target="_blank">preprint published today</a>, we detail our collaboration with YouTube to explore the potential for MuZero to improve video compression. <a href="https://www.cisco.com/c/dam/m/en_us/solutions/service-provider/vni-forecast-highlights/pdf/Global_2021_Forecast_Highlights.pdf" rel="noopener" target="_blank">Analysts predicted</a> that streaming video will have accounted for the vast majority of internet traffic in 2021. With video surging during the COVID-19 pandemic and the total amount of internet traffic expected to grow in the future, video compression is an increasingly important problem — and a natural area to apply Reinforcement Learning (RL) to improve upon the state of the art in a challenging domain. Since launching to production on a portion of YouTube’s live traffic, we’ve demonstrated an average 4% bitrate reduction across a large, diverse set of videos.</p>
+<p>In a <a href="https://arxiv.org/abs/2202.06626" rel="noopener" target="_blank">preprint published on arXiv</a>, we detail our collaboration with YouTube to explore the potential for MuZero to improve video compression. <a href="https://www.cisco.com/c/dam/m/en_us/solutions/service-provider/vni-forecast-highlights/pdf/Global_2021_Forecast_Highlights.pdf" rel="noopener" target="_blank">Analysts predicted</a> that streaming video will have accounted for the vast majority of internet traffic in 2021. With video surging during the COVID-19 pandemic and the total amount of internet traffic expected to grow in the future, video compression is an increasingly important problem — and a natural area to apply Reinforcement Learning (RL) to improve upon the state of the art in a challenging domain. Since launching to production on a portion of YouTube’s live traffic, we’ve demonstrated an average 4% bitrate reduction across a large, diverse set of videos.</p>
 <p></p>
 <p>Most online videos rely on a program called a codec to compress or encode the video at its source, transmit it over the internet to the viewer, and then decompress or decode it for playback. These codecs make multiple decisions for each frame in a video. Decades of hand engineering have gone into optimising these codecs, which are responsible for many of the video experiences now possible on the internet, including video on demand, video calls, video games, and virtual reality. However, because RL is particularly well-suited to sequential decision-making problems like those in codecs, we’re exploring how an RL-learned algorithm can help.</p>
 <p></p>

@@ -1,0 +1,19 @@
+
+---
+title: '苹果 iOS_ iPadOS 15.4 公测版 Beta 3 发布：支持通用控制、戴口罩 Face ID 等'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/6/8ff00808-67c3-446d-bfea-29f33d52279d.jpg'
+author: IT 之家
+comments: false
+date: Wed, 16 Feb 2022 23:26:11 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/6/8ff00808-67c3-446d-bfea-29f33d52279d.jpg'
+---
+
+<div>   
+<p data-vmark="7c7d"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 2 月 17 日消息，在昨日推出开发者预览版 Beta 3 后，苹果今日<span class="accentTextColor">向 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 和 <a class="s_tag" href="https://ipad.ithome.com/" target="_blank">iPad</a> 用户推送了 iOS / iPadOS 15.4 的第三个公开测试版更新</span>。</p><p data-vmark="a06f"><img src="https://img.ithome.com/newsuploadfiles/2021/6/8ff00808-67c3-446d-bfea-29f33d52279d.jpg" alt="iOS" title="苹果 iOS/ iPadOS 15.4 公测版 Beta 3 发布：支持通用控制、戴口罩 Face ID 等" referrerpolicy="no-referrer"></p><p data-vmark="4e03">iOS 15.4 Beta <span class="accentTextColor">增加了对戴口罩的 Face ID 的支持，并引入了通用控制</span>。与运行 macOS Monterey 12.3 的 Mac 配对时，通用控制允许使用单个鼠标和键盘控制多台 Mac 和 iPad。</p><p data-vmark="8197"><img src="https://img.ithome.com/newsuploadfiles/2022/1/dea29363-114d-4e3a-a00a-8e20eb638fb4.jpg" alt="通用控制" title="苹果 iOS/ iPadOS 15.4 公测版 Beta 3 发布：支持通用控制、戴口罩 Face ID 等" referrerpolicy="no-referrer"></p><p data-vmark="a6b2">在 iOS 15.4 Beta 中，<span class="accentTextColor">iPhone 的 Tap to Pay 已经启用</span>，但需要第三方供应商添加支持，目前还不能正常使用。不过，有一个新的“PaymentReceived”声音文件和图片展示了 Tap to Pay 的界面。</p><p data-vmark="63c3">在 iOS 15.4 Beta 2 中，<span class="accentTextColor">苹果新增支持“在 iPhone 上点击支付”功能</span>，该功能允许兼容 NFC 的 iPhone 通过 Apple Pay、非接触式信用卡和借记卡以及其他数字钱包接受支付，而不需要额外的硬件。目前仅支持在美国地区使用。</p><p data-vmark="10ad">iOS 15.4 Beta 还<span class="accentTextColor">带来了全新 Emoji 14 表情字符</span>，包括融化的脸、咬嘴唇、心形手、泡泡、豆子、斜嘴脸、手掌向上、鸡蛋、巨魔、低电量电池、珊瑚、莲花等 37 个新的表情符号。</p><p data-vmark="eb5b">在 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 12</a> 系列手机中，苹果已推出了使用 5G 蜂窝数据下载 iOS 系统更新的选项。目前，有 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone 13</a> 用户发现，<span class="accentTextColor">在 4G 网络下也可以使用蜂窝数据下载 iOS 系统更新</span>。软件更新界面显示，苹果会通过弹窗告知用户，可以使用蜂窝数据下载，但可能需要另行缴费。</p><p data-vmark="8391"><img src="https://img.ithome.com/newsuploadfiles/2022/2/f911aaa1-961e-4903-8476-bce0135d6e06.jpg@s_2,w_820,h_1773" alt="在 4G 网络下也可以使用蜂窝数据下载 iOS 系统更新" title="苹果 iOS/ iPadOS 15.4 公测版 Beta 3 发布：支持通用控制、戴口罩 Face ID 等" referrerpolicy="no-referrer"></p><p data-vmark="09a1">同时，苹果还<span class="accentTextColor">修复了 iOS 15 系统下 iPhone 储存空间很难打开或等太久才能打开的问题</span>。iOS 15.4 Beta 3 更新后，打开速度明显变快。</p><p data-vmark="96f7">此外，苹果可能正计划在 iOS 15.4 中推出对数字身份证和驾照的支持。目前还没有太多证据，但 PassKit 代码提到了这个功能。</p><p data-vmark="ba63">关注<a href="https://wxaurl.cn/tIhrCxgH5Kb" target="_blank" data-androidurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-iosurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-wxmpurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-wapurl="https://wxaurl.cn/tIhrCxgH5Kb">【IT之家】官方微信公众号</a>后，回复关键词“描述文件”或“苹果”，即可方便地获取当前最新版描述文件和攻略！</p><p data-vmark="ff14" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2021/7/255e69a6-bf70-4ccb-b29f-b1e1b34f48b4.png" w="813" h="604" alt="在“IT之家”微信公众号回复关键词“描述文件”或“苹果”" title="苹果 iOS/ iPadOS 15.4 公测版 Beta 3 发布：支持通用控制、戴口罩 Face ID 等" width="813" height="604" referrerpolicy="no-referrer"></p><p data-vmark="4328">描述文件、iOS 固件下载必备之完全手册：</p><p data-vmark="43c9">《<a href="https://www.ithome.com/html/iphone/342425.htm" target="_blank">苹果 iOS 描述文件下载大全 & 完全使用攻略：玩测试版 / 限制升级…… 必备</a>》</p><p data-vmark="f85b">《<a href="https://www.ithome.com/html/iphone/305514.htm" target="_blank">IT之家精华：苹果 iOS 系统发布 / 固件下载 / 升级更新大全表</a>》</p>
+          
+</div>
+            
