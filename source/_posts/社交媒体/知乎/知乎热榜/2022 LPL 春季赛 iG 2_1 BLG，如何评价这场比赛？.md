@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=905'
+headimg: 'https://picsum.photos/400/300?random=82'
 author: 知乎
 comments: false
-date: Thu, 17 Feb 2022 14:48:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=905'
+date: Thu, 17 Feb 2022 15:33:32 GMT
+thumbnail: 'https://picsum.photos/400/300?random=82'
 ---
 
 <div>   
-樱花Sama的回答<br><br><p data-pid="M1JPlSAH">很喜欢某直播间的一句话：</p><p data-pid="SQihcz5F">“BLG已经有冠军相了。”</p><p data-pid="7YRGI7-s">正经点讲，UZI首秀发挥不错。</p><p data-pid="m1n6ApCM">但是BLG的BP以及上单、打野发挥烂的不行。</p><p data-pid="dykkZd2k">恭喜IG！</p>  
+我是生的不能吃啊的回答<br><br><p data-pid="zzRZQpfB">IG队散了，我好伤心 （❌）</p><p data-pid="eAKfKfSA">天天都有IG比赛看 （✓）</p><p data-pid="4cBRM7i2">WBG2-0打赢EDG，V52-0击败RNG，新一代小IG2-1战胜BLG，仁川人集合！</p><p data-pid="XnEx2k67">TES因为打赢的是TT，就先不好讲什么了。</p><p data-pid="tAgzOWOT">我宣布本周是ig周！这周IG流动红旗的归属暂时未定。</p><p data-pid="7nEMEeDt">IG和FPX的解散真是提高了LPL整体观赛体验哈哈哈哈</p>  
 </div>
             
