@@ -1,0 +1,18 @@
+
+---
+title: 'Fami通新一周销量榜出炉：《宝可梦传说：阿尔宙斯》三连冠'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/02/18/2238ae9398ff4c4ba60f9f26dc97c1871645144982.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 18 Feb 2022 09:33:18 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2022/02/18/2238ae9398ff4c4ba60f9f26dc97c1871645144982.jpg'
+---
+
+<div>   
+<p>Fami通公开了最新一周（2月7日～2月13日）的日本游戏软硬件销量榜，软件方面，《宝可梦传说：阿尔宙斯》再次夺冠，达成了三连冠的成就，而位居第二的则是榜单常客《马力欧赛车8：豪华版》，PS4版《消逝的光芒2》则位居榜单第五，这也是榜单中唯一一个PS平台的游戏。而在硬件方面，Switch的各个机型继续遥遥领先，PS5则紧随其后。</p><h3>榜单详情如下：</h3><p><img class="lazy" data-height="338" src="https://i1.max-c.com/imgx/2022/02/18/2238ae9398ff4c4ba60f9f26dc97c1871645144982.jpg" data-width="600" referrerpolicy="no-referrer"></p><p>软件：</p><p>1.【Switch】《宝可梦传说：阿尔宙斯》：14万149份（累计192万3870份）</p><p><img data-gameid="900009845" src="https://cdn.max-c.com/console/switch/screenshot/70010000039944/c31b0e8b81624f9d94766a92fad23866?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>2.【Switch】《马力欧赛车8：豪华版》：15515份（累计442万9626份）</p><p><img data-gameid="900000090" src="https://cdn.max-c.com/console/switch/screenshot/70010000000153/587b739ca51742f4931eaefcfcee8c64?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>3.【Switch】《马力欧派对：超级巨星》：14812份（累计86万5507份）</p><p><img data-gameid="900011188" src="https://cdn.max-c.com/console/switch/screenshot/70010000042933/742aadf5f6d543399a44e200b4adc8bb?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>4.【Switch】《任天堂明星大乱斗：特别版》：11134份（累计476万4379份）</p><p><img data-gameid="900000077" src="https://cdn.max-c.com/console/switch/screenshot/70010000012085/455bb2de7cf64f1d97d5d6b62020877e?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>5.【PS4】《消逝的光芒2》：10306份（累计34466份）</p><p><img data-gameid="900009858" src="https://imgheybox.max-c.com/bbs/2021/11/05/4b9a1d2129ab64cd0a96a31899ba8542.jpeg" referrerpolicy="no-referrer"></p><p>6.【Switch】《我的世界》：9784份（累计251万4952份）</p><p><img data-gameid="900007242" src="https://cdn.max-c.com/console/switch/screenshot/70010000000311/712d518a08cb495a8916586dd9da1bab?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>7.【Switch】《宝可梦：晶灿钻石/明亮珍珠》：8163份（累计250万2926份）</p><p><img data-gameid="900009856" src="https://cdn.max-c.com/pc_game/head/f0cfd4f6830da25a858948749939ab1b?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>8.【Switch】《集合啦！动物森友会》：7779份（累计718万3331份）</p><p><img data-gameid="900004546" src="https://cdn.max-c.com/console/switch/screenshot/70010000027618/f2dc50c8340543d090ffc2d1f8785a1e?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>9.【Switch】《健身环大冒险》：7652份（累计307万4777份）</p><p><img data-gameid="900004989" src="https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/games/switch/r/Ring%20Fit%20Adventure/ring-fit-adventure-switch-hero?v=2021120201" referrerpolicy="no-referrer"></p><p>10.【Switch】《转生恶役只好拔除破灭旗标～兴风作浪的海盗～》：6676份（新）</p><p><img class="lazy" data-height="314" src="https://i1.max-c.com/imgx/2022/02/18/a1b0994fe6274d37993980fa39dd1a9a1645144983.jpg" data-width="600" referrerpolicy="no-referrer"></p><h3>硬件：</h3><p>Switch——34979台（累计1799万2188台）</p><p>Switch Lite——16934台（累计456万6776台）</p><p>Switch OLED——66152台（累计118万6491台）</p><p>PS5——5744台（累计114万9434台）</p><p>PS5数字版——674台（累计21万1210台）</p><p>Xbox Series X——2339台（累计82393台）</p><p>Xbox Series S——3616台（累计65586台）</p><p>PS4——4台（累计781万9314台）</p><p>New 2DS LL——360台（累计118万1930台）</p><blockquote><p>来源：电玩巴士</p></blockquote>  
+</div>
+            
