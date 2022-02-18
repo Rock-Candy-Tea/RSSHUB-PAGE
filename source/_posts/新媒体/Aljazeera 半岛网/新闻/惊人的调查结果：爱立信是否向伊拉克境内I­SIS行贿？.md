@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - Aljazeera 半岛网
  - 新闻
-headimg: 'https://picsum.photos/400/300?random=4941'
+headimg: 'https://picsum.photos/400/300?random=1425'
 author: Aljazeera 半岛网
 comments: false
 date: Thu, 17 Feb 2022 14:08:05 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4941'
+thumbnail: 'https://picsum.photos/400/300?random=1425'
 ---
 
 <div>   
