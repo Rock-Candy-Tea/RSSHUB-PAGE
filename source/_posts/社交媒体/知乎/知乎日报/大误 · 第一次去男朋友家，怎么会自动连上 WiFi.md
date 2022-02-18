@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-02-18 08:10:55
-thumbnail: 'https://pic3.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162'
+date: 2022-02-18 09:09:46
+thumbnail: 'https://pic1.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-f3d98006cbf1aa1221a6944bf56339e7_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">画画的花噎菜，</span><span class="bio">自由茬话师，微博同名，基础班招生看微博置顶</span>
 <a href="https://www.zhihu.com/question/464961722/answer/1943411274" class="originUrl" hidden>查看知乎原文</a>
 </strong>
