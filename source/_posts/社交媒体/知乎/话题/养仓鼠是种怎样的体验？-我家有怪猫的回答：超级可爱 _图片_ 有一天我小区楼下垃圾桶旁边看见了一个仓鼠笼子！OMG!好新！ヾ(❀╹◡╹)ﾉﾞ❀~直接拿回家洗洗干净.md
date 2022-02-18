@@ -1,0 +1,18 @@
+
+---
+title: '养仓鼠是种怎样的体验？-我家有怪猫的回答：超级可爱 _图片_ 有一天我小区楼下垃圾桶旁边看见了一个仓鼠笼子！OMG!好新！ヾ(❀╹◡╹)ﾉﾞ❀~直接拿回家洗洗干净...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-224ecf1375766ea20bbb381bd9d3ab0e_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 18 Feb 2022 05:59:49 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-224ecf1375766ea20bbb381bd9d3ab0e_1440w.jpg'
+---
+
+<div>   
+<strong>养仓鼠是种怎样的体验？</strong><br>我家有怪猫的回答<br><p data-pid="ZAhmGWbC">超级可爱</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-224ecf1375766ea20bbb381bd9d3ab0e_1440w.jpg" data-rawwidth="1500" data-rawheight="2000" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-45ce5e02be57a399f7bda95d0775c5ad_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-224ecf1375766ea20bbb381bd9d3ab0e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="RutymuEx">有一天我小区楼下垃圾桶旁边看见了一个仓鼠笼子！OMG!好新！ヾ(❀╹◡╹)ﾉﾞ❀~直接拿回家洗洗干净。</p><p data-pid="i9wTs2Kk">有笼子没有仓鼠怎么办？</p><p data-pid="5jiF6fYp">买吧！</p><p data-pid="-PPhH38X">于是去宠物店买了一只长毛熊。</p><p data-pid="OMt__7Hx">你不会以为故事就HE? №№№</p><p data-pid="mJS8iSAy">长毛熊【坨坨】竟然是带球跑，养了一周生了五只崽崽，等我发现，她只奶了两个女娃，因为七夕那天生的，一只叫七七一只叫夕夕。</p><p data-pid="4ITVbZKF">夕夕特别特别小，所以打算自己养，七七坨坨分别领养给别人，没想到后来夕夕没满月就走了【七夕出生，中秋告世】</p><p data-pid="OUyEoqqQ">随之而来七七领养人也无法接鼠子了，于是就自己养了她。</p><p data-pid="OO5pjwDD">所以她就是⑦⑦啦～</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4ac9d2798f2c371f692bfb399e028f84_1440w.jpg" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-5e64aed1d649e3c849ca53ae23e96e66_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4ac9d2798f2c371f692bfb399e028f84_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="uRpgUzsA">稍微放一放成长～</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f852e8a26ea7669c72895ccf51a8b6c5_1440w.jpg" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-9bf9bd0927735daa33f765d5305c97c7_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f852e8a26ea7669c72895ccf51a8b6c5_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-32f9d5729f7ff218c0532627e41be2ed_1440w.jpg" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-21e6a1a12dce2c88a9e086de72540278_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-32f9d5729f7ff218c0532627e41be2ed_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="HLYJUTIm">另外讲一下饲养环境一个大重点。大笼子真的必要【之前捡的是35cm，后来换了60cm的亚克力景观笼】也是不懂，B站学的那个啥德国啥标准。我看有些up主都是3m，天秀了。</p><p data-pid="-c2EkF8M">自己从小看着长大的孩子很特别的，七七从来不跑跑轮，配了一个23cm的静音跑轮，从来不去【从来不(๑‾᷅^‾᷅๑) 】，摸她要是她不开心会哼哼唧唧表示拒绝，让你把她放下去。叫名字会懂，会从窝里出来。</p><p data-pid="vyLLyw45">就是小棉袄实锤。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-65bcdc496d0109ae151becc9d7ae6e1e_1440w.jpg" data-rawwidth="1080" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-f2eaa735a35a2beb1def97cd8700bea9_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-65bcdc496d0109ae151becc9d7ae6e1e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="L3Genf-j">放一张我们小时候的照片，祝看见的人都开心（｡ò ∀ ó｡）</p>  
+</div>
+            
