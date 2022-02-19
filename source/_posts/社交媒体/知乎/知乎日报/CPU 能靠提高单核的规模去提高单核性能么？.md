@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-02-19 06:11:24
-thumbnail: 'https://pic1.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162'
+date: 2022-02-19 07:08:51
+thumbnail: 'https://pic3.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ CPU 能靠增大单核的规模去提高单核性能么？
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-80542abccf998d3e28fb986c23875088_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">ArchShineZ，</span><span class="bio">寻找CPU架构建模的工作机会</span>
 <a href="https://www.zhihu.com/question/514191573/answer/2341328052" class="originUrl" hidden>查看知乎原文</a>
 </strong>

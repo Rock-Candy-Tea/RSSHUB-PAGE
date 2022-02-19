@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220219/1645237837_3227
 
 <div>   
 <p style="text-indent:2em;">
-史克威尔艾尼克斯的《最终幻想：像素复刻版》系列收获了不少系列老粉的关注。如今这个像连续剧一样的像素复刻版终于要迎来最后一集，那就是《<a target="_blank" href="https://www.3dmgame.com/games/ff6/">最终幻想6</a>：像素复刻版》。如今，史克威尔艾尼克斯接到反馈，承诺将在游戏发售时修复预告片里一处很明显的错误。
+史克威尔艾尼克斯的《最终幻想：像素复刻版》系列收获了不少系列老粉的关注。如今这个像连续剧一样的像素复刻版终于要迎来最后一集，那就是《<a target="_blank" href="https://www.3dmgame.com/games/ff6/">最终幻想6</a>：像素复刻版》。现在，史克威尔艾尼克斯接到反馈，承诺将在游戏发售时修复预告片里一处很明显的错误。
 </p>
 <p style="text-indent:2em;">
 对比视频：

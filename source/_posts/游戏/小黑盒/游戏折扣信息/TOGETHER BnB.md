@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cdn.max-c.com/heybox/game/header/1239020_pybf1.jpg'
 author: 小黑盒
 comments: false
-date: 2022-02-19 06:11:32
+date: 2022-02-19 07:09:05
 thumbnail: 'https://cdn.max-c.com/heybox/game/header/1239020_pybf1.jpg'
 ---
 
 <div>   
 <img src="https://cdn.max-c.com/heybox/game/header/1239020_pybf1.jpg" referrerpolicy="no-referrer"> <br>
-            平台: PC<br>折扣力度: 9折<br>当前价格: 77[史低]  原价: 85<br>评分: 4.4<br><br>  
+            平台: PC<br>折扣力度: 9折<br>当前价格: 77[史低]  原价: 85<br>评分: 4.5<br><br>  
 </div>
             
