@@ -1,0 +1,18 @@
+
+---
+title: 'IEM卡托维兹：MOUZ保住出线希望，VP晋级胜者组决赛'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/02/19/8aeca90e94f6e32eea32d6289a1d2fa6/thumb.png'
+author: 小黑盒
+comments: false
+date: Sat, 19 Feb 2022 09:03:13 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/02/19/8aeca90e94f6e32eea32d6289a1d2fa6/thumb.png'
+---
+
+<div>   
+<p><b>OG 0 - 2 MOUZ</b></p><p><b>图一 OG 12 - 16 MOUZ （Nuke）</b></p><p>图一是MOUZ选择的Nuke，上半场手枪局MOUZ外场打出一换一后大部队直接转A找到了全空的A包点，丢失枪位的OG回防失败。赢下手枪局的MOUZ愈战愈勇，多次在torzsi大狙的带领下取得外场控制权，通过同步轻松攻进包点，轰出一波6-0的开局。直到第八回合MOUZ外场不封烟大胆推进被mantuu的大狙打了个一石二鸟，随后valde的大狙也在铁板方向开火，OG凭借双狙防守终于起势开始不断拿分。好景不长，MOUZ很快又用一线烟下k1的方式拿到首杀同时又断掉了匪厅想前顶的ct，随后双方交替拿分上半场以8-7结束，MOUZ领先一分。下半场手枪局OG想要A点一波但是MOUZ枪法更准，MOUZ拿下手枪局。下半场作为防守方的MOUZ做的显然比上半场的OG更好，二十二回合JDC在被大狙直架的情况下通过身法和闪光成功爬上管道并且拿下了一个难度极高的1v2残局，这个残局彻底摧毁了OG的节奏，随后MOUZ快速拿到赛点。OG虽然在大厦将倾之际开始展现他们灵性的进攻成功拿下几个回合但是MOUZ极高的容错率还是让他们在16-12时终结了比赛。</p><p><b>图二 OG 9 - 16 MOUZ （Ancient）</b><br></p><p>图二来单OG选择的Ancient，他们先做进攻方，中路控过之后直接夹A，在多个近距离对枪中他们快速用枪法解决了问题。3-0开局后MOUZ开始控制中路打开局势，同时NBK也在A点正面打赢对枪连追两分。好景不长，很快OG就用五把无甲手枪抓到了枪法失误的NBK，攻进包点后mantuu先拿双杀同时中路绕后的nexa成了敌后战场的利刃也拿到两个人头帮助OG成功翻盘，比分来到7-2后OG还是抓着A区的NBK打，这次虽然NBK直接被秒但是警家补防的frozen先混死一个又架住神庙，等待队友到来后再用一颗闪光辅助队友拿下双杀。十三回合强起的OG又想来找NBK的麻烦，虽然NBK不出意外被秒但是这次甜甜圈的torzsi快速补到包点以一个四杀将A点成功守下。比分一路被MOUZ追平，上半场最后一分OG虽然在小黑屋丢掉首杀但是香蕉道方向niko连续打出突破，先烧死一个随后又是两个爆头让OG以一分优势进入下半场。下半场手枪局OG放空A包点打回防，不过占住包点的frozen和torzsi各取双杀帮助队伍赢下手枪局，从此之后MOUZ开始了他们一帆风顺的进攻路，几个步枪手轮流carry老将NBK也时常能站出来拿到突破或打出连杀，下半场OG只用双狙守下一分，MOUZ以一个9-1的高潮轻松赢下OG保住队伍出线希望。</p><p><img class="lazy" data-height="477" src="https://imgheybox.max-c.com/web/2022/02/19/8aeca90e94f6e32eea32d6289a1d2fa6/thumb.png" data-width="802" referrerpolicy="no-referrer"></p><h4 class="img-desc">                                  </h4><p><b>VP 2 - 1 NIP</b><br></p><p><b>图一 VP 16 - 9 NIP（Overpass）</b></p><p>图一是NIP选择的Overpass，上半场手枪局NIP选择A小A大同步夹A，二换三进入包点后也将残局稳稳拿下。第三回合VP只有无甲手枪，不过他们很合理的用了厕所中多个短距离对枪的机会，赌NIP清厕所用补枪将局势带入2v2，最后FL1T帮助队伍完成翻盘。第六回合Yekindar送出首杀，随后hampus一人摸空A点后再摸进警家VP完全没有想到，NIP再拿一分。比分交替攀升到4-4后buster和Jame轮流发威，不断拿到多杀一直到上半场最后一分Yekindar厕所想退被抓到，随后NIP直接爆弹进包点拿下最后一分，上半场结束VP 10-5领先。下半场手枪局VP选择B点爆弹，可是他们二楼烟没封好又撞上了NIP的4B，闪光效果消失后他们就再难拿到击杀，NIP赢下手枪局。长枪局VP在A大拿到人数优势后灵性转点找到了全空的B点，之后的比赛中VP各点开花NIP只守下两分，最后一回合Yekindar出匪口先是三杀融化了NIP的A点防守随后VP以4v2的人头优势顺利结束比赛。</p><p><b>图<b>二 VP 12 - 16 NIP（Vertigo）</b></b></p><p>图二来到Vertigo，VP先攻，全程静音摸A抓到了想出来打信息的CT，FL1T一个四杀帮助队伍拿下手枪局。VP多次赢下长枪局以6-1开局，不过很快REZ就用一个残局三杀还以颜色。十回合Yekindar摸出A坡烟雾弹拿到首杀，但是随后VP的干拉让他们付出了代价，只剩Jame和FL1T选择分散摸牌最终被phzy以双杀收下。双方互有发挥，VP更靠个人NIP更靠团队，上半场结束VP8-7领先一分。下半场手枪局NIP在A坡集结后A点爆弹，赢下手枪局后一路拿到十二分。二十一回合NIP还是A点爆弹，他们躲过了VP的A坡反刷但是残局阶段Jame站了出来以一个1v2拿下下半场第一分。二十三回合NIP抱团打一波，plopski两个爆头瓦解VP的A点正面防守，捡起phzy大狙的REZ也先狙警家再断A坡后路拿到双杀，在这之后的NIP一路势如破竹没给VP过多挣扎的机会就赢下图二将比赛拖入决胜图。</p><p><b>图三 VP 16 - 8 NIP（Ancient）</b></p><p>图三Ancient，刀局结束后VP先攻，手枪局VP A大一波流，正面三换三后居然选择灵性转B，摸不清头脑的NIP输掉手枪局。第三回合NIP强起局，小黑屋hampus用一把沙鹰拿到双杀随后回到警家又配合鸟狙打掉了中路的Yekindar，VP再想在B外集合REZ的沙鹰也是双杀帮助队伍完成翻盘。第四回合VP准备默认后打B，buster先掉随后FL1T和Jame也因为道具失误被抓住，但是黑屋的Yekindar先打二道，hampus又自己撞到了他的枪口上，同时香蕉道的Qikert也摸进来清理掉死点的plopski，VP完成2v5翻盘。比分交替领先到4-4，接下来局势中VP的战术非常明确，第二时间送人进VIP随后配合正面的队友完成优势人头互换，再根据情况选择直接打或者转点，总是被断住回防路线的NIP打的非常难受，VP连拿七分以11-4结束上半场。下半场手枪局NIP选择A点爆弹，前点Qikert先掉，最后1v1的斗牛残局中还是hampus更胜一筹。来到长枪局后的VP基本没有给NIP任何机会，各点开花的他们只让NIP攻进一分就终结比赛。</p><p><img class="lazy" data-height="476" src="https://imgheybox.max-c.com/web/2022/02/19/d064a1684a1de5677ad2eaff5593d730/thumb.png" data-width="802" referrerpolicy="no-referrer"></p><h4 class="img-desc">                </h4>  
+</div>
+            
