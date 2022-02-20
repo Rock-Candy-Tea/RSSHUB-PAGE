@@ -84,7 +84,7 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447349" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-22.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
 <p>随着组件类型的增多，前端组件API数量也会增多。但任意一个前端组件的 API，都是基础 API 类型的组合。而前端组件 API 的基础类型只有七八个左右。只要我们完成这几个基础类型的可视化配置器，并提供类型的组合与切换能力，便能用有限个数的属性配置器，承接所有前端组件的可视化配置。</p>
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447350" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-23.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
-<p>所以利用这样的思路，我们就可以用一套<a href="https://www.uisdc.com/tag/%e8%ae%be%e8%ae%a1%e6%96%b9%e6%a1%88" class="tag_a" target="_blank">设计方案</a>，实现所有 antd 组件的可视化配置面板。</p>
+<p>所以利用这样的思路，我们就可以用一套设计方案，实现所有 antd 组件的可视化配置面板。</p>
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447351" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-24.jpg" width="800" height="377" referrerpolicy="no-referrer"></span></p>
 <p>根据我们的计划，我们将在2022年中旬实现 Ant Design 组件库初步的全覆盖。</p>
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447352" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-25.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
@@ -93,7 +93,7 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447353" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-26.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
 <p>而这个又是我们的第二个关键领域，叫做设计稿转前端代码，简称为 D2C。</p>
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447354" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-27.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
-<p>D2C在业界已经有很多实践，但大部的代码生成都是如下图所示。在我们看来，现在的D2C，只做到了样式的转译。但对于交互设计来说，真正重要的是设计意图。比如为什么采用实色填充的按钮，为什么采用无边框的警告提示。</p>
+<p>D2C在业界已经有很多实践，但大部的代码生成都是如下图所示。在我们看来，现在的D2C，只做到了样式的转译。但对于<a href="https://www.uisdc.com/tag/%e4%ba%a4%e4%ba%92%e8%ae%be%e8%ae%a1" class="tag_a" target="_blank">交互设计</a>来说，真正重要的是设计意图。比如为什么采用实色填充的按钮，为什么采用无边框的警告提示。</p>
 <p>除了「美感」以外，设计更应该关注向用户传递怎么样的「设计意图」。而单纯的像素级样式还原，最终生成的代码始终是一次性代码，缺少可维护性。</p>
 <p><span class="img-zoom"><img alt="SEE Conf 设计工程化三部曲！探索新环境下「产研协同模式」中的思考与实践" loading="lazy" class="alignnone size-full wp-image-447355" src="https://image.uisdc.com/wp-content/uploads/2022/01/seeconf-20220119-28.jpg" width="800" height="450" referrerpolicy="no-referrer"></span></p>
 <p>而下面这种代码，才是前端工程师在日常代码书写中的代码，它可以更加精准地表征设计意图。</p>
