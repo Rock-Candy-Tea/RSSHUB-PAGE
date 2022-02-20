@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 品玩
  - 话题动态
-headimg: 'https://picsum.photos/400/300?random=1002'
+headimg: 'https://picsum.photos/400/300?random=7254'
 author: 品玩
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1002'
+thumbnail: 'https://picsum.photos/400/300?random=7254'
 ---
 
 <div>   
