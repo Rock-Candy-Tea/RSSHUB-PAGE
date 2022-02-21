@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220221/1645406470_2188
 
 <div>   
 <p style="text-indent:2em;">
-日本游戏公司Idea Factory近日在Dessert de Otomate 2022粉丝活动中宣布将成立新品牌“Altergear”，该品牌将开发多款基于Switch平台的全新视觉小说。Altergear旗下游戏的故事内容将以男性为中心，关注男生之间的羁绊和友谊。
+日本游戏公司Idea Factory近日在Dessert de Otomate 2022粉丝活动中宣布将成立新品牌“Altergear”，该品牌将开发多款基于Switch平台的全新视觉小说。和主打乙女游戏的Otomate不同，Altergear旗下游戏的故事内容将以男性为中心，关注男生之间的羁绊和友谊。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220221/1645406470_218850.png" alt="Idea Factory 设立新品牌ALTERGEAR 新作描写男性的友谊" referrerpolicy="no-referrer"> 
