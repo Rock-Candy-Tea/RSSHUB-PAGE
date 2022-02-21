@@ -1,0 +1,19 @@
+
+---
+title: '英特尔展示BonanzaMine比特币ASIC挖矿系统'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0221/56874f4059f8d91.png'
+author: cnBeta
+comments: false
+date: Mon, 21 Feb 2022 10:36:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0221/56874f4059f8d91.png'
+---
+
+<div>   
+<strong>在 IEEE 近日举办的国际固态电路会议（ISSCC 2022）上，英特尔宣布了该公司最新开发的 BonazaMine 比特币加速挖矿 ASIC 处理器。</strong>作为这家芯片巨头首次涉足加密货币挖矿的试水作，英特尔还展示了包含 300 个 BonanzaMine ASIC 的矿机系统。可知其具有 40 THash/s 的算力，同时功耗也达到了 3600W 。<br>
+<p><img src="https://static.cnbetacdn.com/article/2022/0221/56874f4059f8d91.png" alt="1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：Intel <a href="https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html" target="_self">Newsroom</a>，via <a href="https://fuse.wikichip.org/news/6603/intel-unveils-bonanzamine-a-bitcoin-accelerator-asic/" target="_self">WikiChip.org</a>）</p><p>在 ISSCC 2022 会议期间首次亮相后，英特尔初代加密货币挖矿系统也已在网络上被曝光。</p><p>其实早在 2020 年，该公司就已经披露过 XPU 方面的努力，其中描述了通过专门架构，以实现计算芯片的多样化。</p><p>今年，英特尔在加速计算系统和图形（AXG）事业部内，新组建了一个定制计算团队，旨在打造针对客户工作负载而优化的定制硅平台。</p><p><img src="https://static.cnbetacdn.com/article/2022/0221/5530bedfa1d652e.png" alt="2.png" referrerpolicy="no-referrer"></p><p>英特尔称，其“区块链加速器”将于今年晚些时候发货，并正在与分享其可持续发展目标的客户展开直接接触。</p><p>据悉，BonanzaMine 的首批客户中，包括了 Argo Blockchain、BLOCK（原 Square）和 GRIID Infrastructure 。</p><p>不过 AXG 部门主管 Raja Koduri 指出，作为一种在小硅片上实现的架构，其对当前产品的供应影响相当有限。</p><p><img src="https://static.cnbetacdn.com/article/2022/0221/387f3bcd7a24124.png" alt="3.png" referrerpolicy="no-referrer"></p><p>英特尔将所有基础组件都集成到了被称作 Bonanza Mine System 的独立计算机中，该系统的外观与目前生产的大多数其它采矿计算很是相像。</p><p>上图展示的 Bonanza 挖矿参考系统，包含了四块哈希板、一个英特尔 FPGA 控制单元、四个<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>、以及一台可编程电源。</p><p>如图所示，四块板子被置于风扇系统的后部、顶部为控制单元，电源则垂直放置于内部设计的左侧。</p><p><img src="https://static.cnbetacdn.com/article/2022/0221/35f439d0b134805.png" alt="4.png" referrerpolicy="no-referrer"></p><p>系统顶部为控制单元和英特尔 FPGA 配备了托管挖矿事务的一枚 ARM Cortex 辅助芯片，后者负责分配挖矿系统的工作负载、将消息传递到 PLL 并确认结果。</p><p>与矿池之间的传输，则是通过以太网连接来实现的。而用于连接每个 BonanzaMone ASIC 系统的工作，则是基于 UART 协议实现的。</p><p>每块板子各包含了 75 个 BonanzaMine ASIC，分组为 25 个 deep voltage stack、允许将 8.875V 的输入电压分为 355 mV 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0221/fcbcf0d6a7f308f.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0221/fcbcf0d6a7f308f.png" alt="5.png" referrerpolicy="no-referrer"></a></p><p>英特尔宣称此举可让挖矿效率提升 5% 以上，单独的 BonanzaMine 芯片通过 10Mb/s UART 串行连接到控制单元，用于处理挖矿载荷与工作负载通信。</p><p>所有电路板都装有一个微控制器单元，用于扫描发热和电压水平。此外 BonanzaMine ASIC 加速器中使用了芯片电压堆叠技术，以实现更高效的供电。</p><p>BonanzaMine 的核心尺寸为 4.14×3.42 毫米（14.16 m㎡），采用未知工厂的 7nm 工艺制造，且每个系统包含了 300 个芯片（相当于 4248 m㎡ 硅芯片）。</p><p><img src="https://static.cnbetacdn.com/article/2022/0221/d48f41065c9bbc7.png" alt="6.png" referrerpolicy="no-referrer"></p><p>这些芯片仅针对 BTC 用例进行了优化，表明 ASIC 的基本构建块是双 SHA256 哈希引擎。通过一套独特的方案，其得以将面积减少 8% 。</p><p>此外为了进一步限制功耗，SHA256 数据路径中的所有触发器，都被基于三相锁存器的系统时钟和电平敏感锁存器所取代。</p><p>最终在将功耗水平降低一半的同时，BonanzaMine ASIC 允许将能效提升 10%，包括以一半频率执行双串联调度器数据路径的调度器。</p><p><img src="https://static.cnbetacdn.com/article/2022/0221/5af2f99929e5919.png" alt="7.png" referrerpolicy="no-referrer"></p><p>目前英特尔已将 256 个挖矿引擎集成到了 BonanzaMine 的每个芯片中，每个散列引擎都使用来自候选 Merkle 根的唯一散列值进行编程，且每块板子支持多达 19350 个并发工作负载（同时执行 77400 个）。</p><p>英特尔表示，哈希引擎占据了 90% 的芯片面积，其余 10% 留给了包括 PLL、传感器和 GPIO（通用输入和输出）在内的部分。在默认的 355 mV 电压下，系统可实现 1.35 - 1.6 GHz 的可靠操作。</p><p>最终拥有 300 个 BonanzaMine 的专用矿机，可在 3600W 工号下达成 40 THash/s 的算力。如有需要，这套系统显然还有进一步提升的空间。</p>   
+</div>
+            
