@@ -5,14 +5,14 @@ categories:
  - 编程
  - GitChat
  - 最新文章
-headimg: 'https://picsum.photos/400/300?random=357'
+headimg: 'https://picsum.photos/400/300?random=4976'
 author: GitChat
 comments: false
-date: Sun, 20 Feb 2022 15:08:59 GMT
-thumbnail: 'https://picsum.photos/400/300?random=357'
+date: Mon, 21 Feb 2022 00:32:25 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4976'
 ---
 
 <div>   
-<p>搞Java开发的朋友，最怕的之一就是：JVM调优。实话实说，在工作中用的不是很多，只有出现问题了才会用到（也可以在项目发布时调整好相关参数，避免线上出问题）。但是在面试中，这一块就是必须掌握的了，否则，HR都不给你谈薪的机会。  在本...</p>  
+<p>搞Java开发的朋友，最怕的技术之一就是：JVM调优。实话实说，在工作中用的确实不是很多，基本上都是出问题了才会用到（也可以在项目发布时调整好相关参数，避免线上出问题）。但是在面试中，这一块就是必须掌握的了，否则，HR都不给你谈薪的机...</p>  
 </div>
             
