@@ -15,10 +15,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220221/1645448617_5516
 <div>   
 <p style="text-indent:2em;">
 Atlus今日公布了《真女神转生》系列衍生外传《灵魂骇客》的续作《灵魂骇客2（Soul Hackers 
-2）》，将于8月26日发售，登陆PS5/PS4/Xbox Series X|S/Xbox One/PC（Steam、Windows商城）。
+2）》，将于8月25日发售，登陆PS5/PS4/Xbox Series X|S/Xbox One/PC（Steam、Windows商城）。
 </p>
 <p style="text-indent:2em;">
-<strong>首支预告片：</strong>
+<strong>首支预告片：</strong> 
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTIwNTE0ODk0OA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
