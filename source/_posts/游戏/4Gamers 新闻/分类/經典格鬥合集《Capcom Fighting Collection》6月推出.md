@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/771b5f44-b322-48f5-977c-ac7a30
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/771b5f44-b322-48f5-977c-ac7a30129612.jpg" referrerpolicy="no-referrer"><p>新作來啦</p>  
+<img src="https://img.4gamers.com.tw/news-image/771b5f44-b322-48f5-977c-ac7a30129612.jpg" referrerpolicy="no-referrer"><p>可惡有魔域幽靈...</p>  
 </div>
             

@@ -29,8 +29,11 @@ RE引擎首先被用到《生化危机7》游戏上，随后成为Capcom大部�
 <p style="text-indent:2em;">
 值得一提的是，Dusk Golem此前还爆料过Capcom尚未官宣的《龙之信条2》也会采用RE引擎。
 </p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220221/1645444915_991129.jpg" alt="《街头霸王6》可能采用RE引擎开发" referrerpolicy="no-referrer">
+<p style="text-indent:2em;">
+《猎天使魔女》制作人，《猎天使魔女2》总监以及《生化危机3》《生化危机4》首席特效师桥本佑介是《街头霸王6》的游戏设计师之一。
+</p>
+<p style="text-align:center;text-indent:2em;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220221/1645448994_439916.jpg" alt="《街头霸王6》可能采用RE引擎开发" referrerpolicy="no-referrer">
 </p>          
 </div>
             
