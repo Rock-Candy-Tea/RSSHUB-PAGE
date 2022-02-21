@@ -15,7 +15,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/d521e242eb94e321bb936a36efa2676e.png'
 <div>   
 <img src="https://cdn.itjuzi.com/images/d521e242eb94e321bb936a36efa2676e.png" referrerpolicy="no-referrer"><br><br>
         <strong>爱选科技</strong><br>
-        第三方保险技术平台<br>
+        创新保险产品生产商<br>
         A+轮 / 未透露 / 1645413704<br>
         投资方: 胜辉资本
         
