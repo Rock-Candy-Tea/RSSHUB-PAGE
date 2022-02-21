@@ -1,0 +1,19 @@
+
+---
+title: '研究：COVID-19患者在感染后一年内出现精神健康问题的风险很高'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/crawl/88/w1080h608/20201222/e452-kfnaptu9024468.jpg'
+author: cnBeta
+comments: false
+date: Mon, 21 Feb 2022 01:48:37 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/crawl/88/w1080h608/20201222/e452-kfnaptu9024468.jpg'
+---
+
+<div>   
+据New Atlas报道，<strong>一项大型研究发现，COVID-19患者在急性感染后一年内出现精神健康问题的风险很高。</strong>研究人员查看了数百万美国人的健康记录，发现COVID-19轻症或重症会增加一个人患上焦虑、抑郁、药物使用障碍、认知能力下降和睡眠障碍的风险。<br>
+<p style="text-align:center"><a href="https://n.sinaimg.cn/tech/crawl/88/w1080h608/20201222/e452-kfnaptu9024468.jpg" target="_blank"><img src="https://n.sinaimg.cn/tech/crawl/88/w1080h608/20201222/e452-kfnaptu9024468.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">“我们从以前的研究和个人经历中知道，过去两年大流行病的巨大挑战对我们的集体心理健康产生了深刻的影响，”来自华盛顿大学的高级作者 Ziyad Al-Aly说。“但是，尽管我们在大流行期间都遭受了痛苦，但患有COVID-19的人的精神状况要差得多。我们需要承认这一现实，并在这些情况膨胀为更大的心理健康危机之前，现在就解决这些问题。”</p><p style="text-align: left;">这项新研究是继Al-Aly及其同事最近发表的一项类似分析之后进行的，该分析研究了COVID-19与心血管并发症之间的关系。之前发表在《自然医学》上的那项研究发现，COVID-19的幸存者在康复后的一年内发生严重心血管事件的可能性要高出55%。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0221/96cf73c3f73efe7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0221/96cf73c3f73efe7.jpg" alt="F1.large.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">目前的研究侧重于从美国退伍军人事务部收集的医疗记录。大约15万名在2020年3月至2021年1月期间被诊断为COVID-19的受试者与两个对照组进行了比较，每个对照组由500多万人组成。一个对照组看的是在同一时间段内没有感染COVID-19的人，另一个对照组看的是跨越大流行开始前18个月的病人。</p><p style="text-align: left;">研究人员在精神健康障碍的总括下纳入了各种症状。这些病症包括临床诊断的抑郁症、焦虑症或压力症、睡眠问题和神经认知能力下降，包括痴呆症、疲劳和脑雾，以及新诊断的物质使用障碍，如阿片类药物成瘾。</p><p style="text-align: left;">总的来说，研究人员发现超过18%的COVID患者在从急性感染恢复后的一年里出现了一个或多个精神健康问题。而在对照组中，约有12%的人出现类似问题。这意味着与没有感染COVID的人相比，那些感染过COVID的人出现精神健康问题的可能性要高出50%以上。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0221/50a8429a4defaba.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0221/8b627c85a8e4118.png" referrerpolicy="no-referrer"></p><p style="text-align: left;">Al-Aly说：“从这个角度来看，COVID-19的感染很可能在全球范围内造成了超过1480万个新的精神健康障碍病例，在美国则是280万个。我们的计算没有考虑到由于心理健康的耻辱感或缺乏资源或支持而默默承受痛苦的人数，可能有数百万人。”</p><p style="text-align: left;">更具体地说，该研究发现，与那些没有COVID病史的人相比，康复的病人患抑郁症的可能性高40%，患焦虑症的可能性高35%，出现睡眠障碍的可能性高41%。COVID患者出现阿片类药物使用障碍的可能性高出34%，他们在感染后一年的某个时间点被开具抗抑郁药的可能性高出55%。</p><p style="text-align: left;">此外，COVID患者在急性感染后的一年内出现某种神经认知问题的可能性要高80%。这包括更严重的痴呆症进展情况和更温和的情况，如疲劳、困惑和脑雾。</p><p style="text-align: left;">最初的情况越严重，随后出现精神健康问题的可能性就越大。然而，Al-Aly强调，在轻度甚至是无症状的病例中仍然持续检测到这种关联。</p><p style="text-align: left;">Al-Aly最近接受《卫报》采访时说：“住院的人情况更糟，但非住院（患者）的风险很大，绝对不是微不足道的--这代表了美国和世界上的大多数人。”</p><p style="text-align: left;">英国心理学会的Julia Faulconbridge说，但要解开到底是什么导致了心理健康问题的上升将是一个挑战。Al-Aly和他的团队假设了一些病毒诱导的生理机制，这些机制似乎可以发挥作用，“包括外周T细胞对脑实质的浸润，小胶质细胞和星形胶质细胞的失调，以及上层兴奋性神经元的突触信号的干扰”。</p><p style="text-align: left;">但是Al-Aly及其同事确实认识到一些非生理机制也可能影响到心理健康问题的发展，从社会压力到饮食或体育活动的变化。Faulconbridge还指出，那些生活在贫困中或工作不稳定的人更容易出现心理健康问题，并且已知他们感染COVID的风险更高，因此需要做更多的工作来更好地了解到底是什么导致了这些问题的产生。</p><p style="text-align: left;">“目前还没有关于患有COVID对他们生活的影响的数据，例如他们的工作能力，以及随后对他们心理健康的影响，”Faulconbridge说。“鉴于对长病程COVID发病率的估计是在10%的感染者中，这一点特别重要。会有一些人在患病前正在应对各种问题，他们可能已经被疾病的影响推到了边缘。”</p><p style="text-align: left;">无论这些新出现的精神健康问题的具体原因是什么，Al-Aly说，很明显，社会将不得不在未来几个月和几年内处理这个新出现的问题。而且，他说这意味着政府和卫生服务部门要做更多的工作来诊断和治疗那些遇到这些问题的人。</p><p style="text-align: left;">“我绝对肯定的是，需要紧急关注识别和治疗患有精神健康障碍的COVID-19幸存者，”Al-Aly说。“政府、公共和私人医疗保险供应商以及卫生系统需要更多地认识到这些问题，以确保我们为人们提供公平的诊断和治疗资源。”</p><p style="text-align: left;">这项新研究发表在《<a href="https://www.bmj.com/content/376/bmj-2021-068993" target="_self">BMJ</a>》上。</p>   
+</div>
+            

@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - DeepMind
  - Blog
-headimg: 'https://picsum.photos/400/300?random=8857'
+headimg: 'https://picsum.photos/400/300?random=2078'
 author: DeepMind
 comments: false
 date: Wed, 02 Feb 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8857'
+thumbnail: 'https://picsum.photos/400/300?random=2078'
 ---
 
 <div>   
