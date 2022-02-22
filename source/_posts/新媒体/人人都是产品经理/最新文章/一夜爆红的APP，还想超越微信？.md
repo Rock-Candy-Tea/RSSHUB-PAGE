@@ -14,7 +14,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/02/Mqza2ZPTbQwWtY6Wr2td.jpg'
 
 <div>   
 <div class="bpp-post-content">
-<blockquote><p><span style="font-size: 16px;">编辑导语：啫喱在成为社交爆款app之后，却面临了声誉骤跌且麻烦不断打卡困境。本文分析了啫喱当前的现状，并讨论了其与元宇宙的关联，以及年轻人对有新鲜感社交的需求，一起来看看吧！</span></p></blockquote>
+<blockquote><p><span style="font-size: 16px;">编辑导语：啫喱在成为社交爆款app之后，却面临了声誉骤跌且麻烦不断的困境。本文分析了啫喱当前的现状，并讨论了其与元宇宙的关联，以及年轻人对有新鲜感社交的需求，一起来看看吧！</span></p></blockquote>
 <p><img data-action="zoom" class="size-full wp-image-757009 aligncenter" src="https://image.yunyingpai.com/wp/2022/02/Mqza2ZPTbQwWtY6Wr2td.jpg" alt referrerpolicy="no-referrer"></p>
 <p>昙花一现的啫喱，怎么突然成了社交爆款？</p>
 <p><strong>一夜之间，啫喱成了年轻人新的聚集地；又在一夜之间，啫喱瞬间跌下神坛。</strong></p>
