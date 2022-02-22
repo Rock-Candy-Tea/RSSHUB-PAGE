@@ -1,0 +1,18 @@
+
+---
+title: '低价小品游戏推荐——Narita Boy，蒸汽波爱好者的宝藏'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1069530_XGdgh.jpg'
+author: 小黑盒
+comments: false
+date: Tue, 22 Feb 2022 14:19:51 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1069530_XGdgh.jpg'
+---
+
+<div>   
+<p>在每期介绍之前，都有一个必要说明，系列中安利的游戏类型不限，但都有一个共同的特点，就是便宜，有些是hb包里平平无奇没被人发现的宝贝，也有些会是打折的优秀小品游戏。总之本期推荐的是Narita Boy，成田男孩，低价原因是被收录于去年九月的HB商店包。这款游戏，可以说是制作人送给蒸汽波爱好者的一封诚意满满的书信。</p><p><img data-gameid="1069530" src="https://cdn.max-c.com/heybox/game/header/1069530_XGdgh.jpg" referrerpolicy="no-referrer"></p><p><br></p><p>游戏价格：cdkey1.5元</p><p>游玩时间：6.2小时（通关）</p><p>默GN评分：7.5/10</p><p>类型：线性流程冒险游戏，蒸汽波味儿十足。</p><p>优点：本游戏最大的优点就是我一直在说的，作者很认真的把蒸汽波元素做进了这个游戏中，无论是配乐的打磨还是整体游戏的界面，动作，特效处处都体现这些元素。</p><p><img class="lazy" data-height="472" src="https://imgheybox.max-c.com/web/2022/02/21/0b7ef7e3ad2dffe7e17dea9123e5398a.gif" data-width="480" referrerpolicy="no-referrer"></p><h4 class="img-desc">开枪</h4><p><br></p><p><img class="lazy" data-height="472" src="https://imgheybox.max-c.com/web/2022/02/21/c1d09bc626a542bb298f8bd8bbaef63f.gif" data-width="480" referrerpolicy="no-referrer"></p><h4 class="img-desc">大概算是附魔</h4><p><img class="lazy" data-height="694" src="https://imgheybox.max-c.com/web/2022/02/21/a94c056eb91917d2c30901209ec50d1e.gif" data-width="480" referrerpolicy="no-referrer"></p><h4 class="img-desc">召唤滑板</h4><p>像素风格加大量红黄蓝三原色的引入，以及毫不吝啬的“光污染”处理，都称得上是这款游戏可圈可点的地方。而且有魂玩家最喜欢的闪避无敌帧环节（但是有时候的判定有些怪），打击手感个人感觉还不错，角色出手也没有那种绵软无力的感觉。尤其值得一提的是，在许多特殊剧情中，主角会变化一些形态，尽管操控很简单，改变也不是像双人成行那样完全换一种风格。但是起码能看到作者想做出一些别出心裁的点，而且在实际游玩体验上来说也很爽。（比方说游戏后期开的巨型机器人）</p><p>缺点：短板方面也是格外的明显，与其说是短板不如说是任务设计层面的不合理，也可能是制作人的孬点子，本身游戏的地图制作，关卡难度层面都没有那么难和丰富，但是作者希望把自己堆的料都充分利用上，就导致了任务流程的不合理，一个场景跑两遍算是常态，有点刻意延长游玩时间的意思。明明是找一个芯片开一个门的简单任务，非要把钥匙放在场景最左边，门在最右边。也就是这个设计导致了我的扣分<span data-emoji="cube_doge" class="hb-emoji"></span></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/02/21/5f4b5d0a9db72b7c928519c6893dc5b1/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">连蒸汽都用一些图像表现，挺喜欢做细节的</h4><p>游戏剧情：这次剧情大致上讲述了我们玩的游戏，是一款游戏里的游戏<span data-emoji="cube_doge" class="hb-emoji"></span>，在游戏的世界观中，就有一部热销的冒险游戏《成田男孩》，游戏里的这个开发者创造了红黄蓝三种代码指令，可以看作是维护游戏运行的代码。结果在一次偶然事故中，红色代码脱离了掌控，将开发者的记忆隐藏了起来，开发者就这样忘记了怎么维护代码王国的稳定。然后底层代码，暂且叫“代码之母”吧<span data-emoji="cube_doge" class="hb-emoji"></span>为了拯救代码王国，就把一个正在游玩《成田男孩》的男孩给整进来了。</p><p><img class="lazy" data-height="500" src="https://imgheybox.max-c.com/web/2022/02/21/0a9ad5a64537cebadbff57835f1e549e/thumb.jpeg" data-width="500" referrerpolicy="no-referrer"></p><p>然后这个男孩就走上了拯救数字王国，以及找回开发者回忆的征途。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/02/21/c376a6b3b1d797d14f9221577105b0fd/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">找回记忆的就是这么个东西</h4><p>当然其中再有的一些起承转合，就需要各位自己去探索了。值得一提的是，本作应该也只是开发者的一次大胆尝试，而且也许对后续剧情也有了自己的规划和理解。人话——大概率有第二部。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/02/21/fc6388cefcd93db86716ed291229bacb/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>总结：《成田男孩》抛去蒸汽波，只能算是中规中矩的一款独立游戏，但是蒸汽波元素的处理和运用，让它成为了我认为值得推荐给大家的一部佳作，本身游玩时间也就大抵等于追完一季度的番剧，耐着性子打完应该也不成问题，尤其是各种场景设计都充斥着波普，故障艺术的特色，如果你是这类艺术风格的爱好者，相信这款游戏应该会吸引到你。而且，超低的价格，买一个玩玩体验一下，你还有什么理由拒绝呢？</p><p><img class="lazy" data-height="269" src="https://imgheybox.max-c.com/web/2022/02/21/c9117329bb31d21099f79cc9fd9e954a.gif" data-width="205" referrerpolicy="no-referrer"></p><p>这里是默语，等我找到下一个宝藏游戏，就安利给你们。</p>  
+</div>
+            

@@ -1,0 +1,19 @@
+
+---
+title: '前瞻科技，_Care222DAY_的主题活动如期举办'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768412098954.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 22 Feb 2022 05:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768412098954.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由日本牛尾电机株式会社主办的以「Care222DAY」为主题的活动于2022年2月21日正式举行，本次活动为期2天，目前活动第一天的主题分享已经结束，就现场情况来看，本次主题活动的反响十分热烈，受到诸多行业关注。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768412098954.jpg" title="前瞻科技,“Care222DAY”的主题活动如期举办" alt="前瞻科技,“Care222DAY”的主题活动如期举办" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">本次活动是牛尾电机将2月22日定义为「Care222的日子」来申请，作为纪念日来举行的。在活动中，主要围绕关于Care222体验区域、Care222&reg;新运用的可能性等课题展开。活动分别邀请了国际<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>福祉大学研究院松本教授和神户大学研究院黑田教授来进行演讲，松本教授分享的课题以「with Corona以及今后的感染症对策的Care222&reg;紫外线运用」为主，黑田教授分享的课题以「院内感染対策Care222&reg;紫外线的将来展望」为主。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768512035588.jpg" title="前瞻科技,“Care222DAY”的主题活动如期举办" alt="前瞻科技,“Care222DAY”的主题活动如期举办" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>跨界联合  Ushio Care222测试效应</strong></p><p style="text-indent: 2em; text-align: left;">Ushio Care222是以波长222nm为主波长的准分子灯管，结合特殊的滤光片将对人体有害的230nm以上的有害波长过滤掉的一种抗病毒除菌的技术。该项技术是牛尾与哥伦比大学的David Brenner教授一起研发，以波长222nm为主波峰的准分子灯管和特殊的光学过滤片结合，除去对人体有害的波长区域，成功的选择性保留了对病毒、细菌有灭活效果的波长区域。因此，牛尾电机取得了这项技术在全球范围内的技术专利。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768572056291.jpg" title="前瞻科技,“Care222DAY”的主题活动如期举办" alt="前瞻科技,“Care222DAY”的主题活动如期举办" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作为Ushio Care222的效果，紫外线222nm是能够对拥有各种DNA、RNA的病毒和细菌进行灭活的。另外，与药剂不同的是紫外线222nm不会产生耐药菌。值得一提的是，关于「Care222」的测试由国立大学与广岛大学共同进行，其中广岛大学研究科病毒学坂口教授的团队和感染症科的大毛教授，一同使用牛尾的抗病毒除菌用紫外线技术「Care222」，对新型冠状病毒中变异的印度德尔塔毒株进行照射并评估确认了222nm紫外线可以灭活德尔塔变异病毒株。</p><p style="text-indent: 2em; text-align: left;"><strong>临床实验  Ushio Care222的安全性被证明</strong></p><p style="text-indent: 2em; text-align: left;">另外，关于Ushio Care222的安全性也有研究表明，Ushio Care222技术是过滤了对人体有害的波长，因为222nm紫外线被角质层和眼角膜吸收，不会引起晒伤、皮肤癌、或者白内障的伤害。并且在与神戸大学研究院黒田教授团队的共同研究中确认到，以往对于多剂耐性菌的杀菌主要是运用UVC紫外线254nm，此紫外线对人体直接照射的话只要10mJ／cm2就会对皮肤造成急性伤害，皮肤会变红出现晒伤反应（红斑），因此不能对人体直接照射，而此次通过临床照射实验，照射了牛尾的222nm（Ushio Care222），即使到达500mJ／cm2这种高照射量也没有对皮肤造成急性伤害。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768613059693.jpg" title="前瞻科技,“Care222DAY”的主题活动如期举办" alt="前瞻科技,“Care222DAY”的主题活动如期举办" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在牛尾电机和研究机构的共同开发研究过程中，已经有多所大学研究所对关于Ushio Care222的效果和安全性发表了很多的论文和报道。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/22/wenmi/1645508768666097804.jpg" title="前瞻科技,“Care222DAY”的主题活动如期举办" alt="前瞻科技,“Care222DAY”的主题活动如期举办" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>合作开发  Ushio Care222投入应用</strong></p><p style="text-indent: 2em; text-align: left;">现在Ushio Care222技术与世界各地的厂家一同合作开展业务，其中就与东芝株式会社共同开发了搭载「Care222光源模组」的紫外线除菌抗病毒的装置，并且也在一同合作开发搭载在汽车以及铁路车辆的一般照明器具。另外，与美国Acuity Brands公司也筹备了有除菌机能的照明器具的开发和销售的相关事宜。在日本以提高卫生环境为目的，在东京塔以及多家医院搭载使用了Care222的制品。</p> 
+  
+</div>
+            

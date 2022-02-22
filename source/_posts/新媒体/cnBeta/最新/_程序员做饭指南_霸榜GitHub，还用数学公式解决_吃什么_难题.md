@@ -1,0 +1,19 @@
+
+---
+title: '_程序员做饭指南_霸榜GitHub，还用数学公式解决_吃什么_难题'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0222/c6de63c26fbf419.jpg'
+author: cnBeta
+comments: false
+date: Tue, 22 Feb 2022 06:53:33 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0222/c6de63c26fbf419.jpg'
+---
+
+<div>   
+我也是没想到啊，GayHub啊不，GitHub的热榜第一，竟然让一个纯·做饭项目给占领了。（手动狗头）没错，项目如其名，「HowToCook」它真的没在标题党，就是一大份正经家常菜谱。<br>
+ <p style="text-align: left;">鱼羊 发自 凹非寺</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0222/c6de63c26fbf419.jpg" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0222/cbde5361ae3e0c2.gif" referrerpolicy="no-referrer"></p><p style="text-align: left;">当然，细节之处，可能还是跟普通菜谱略有不同……</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0222/b665a9f1c3811d0.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">这计算公式，这 1cm*1cm，真的很精准了2333。</p><p style="text-align: left;">仓库作者就开门见山地说了：</p><p style="text-align: left;">网上的菜谱对习惯了形式语言的程序员太不友好，所以他计划结合自己的经验，用<strong>更清晰精准的描述</strong>整理常见菜的做法，方便程序员们在家做饭。</p><p style="text-align: left;">并且，与许多开源项目一样，作者也非常欢迎更多小伙伴加入近来，共同维护、驱动这样一个别样的仓库。</p><p style="text-align: left;">还真别说，目前，该项目已经吸引到60+贡献者，而Pull request里也已经堆满了新菜谱：</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0222/6c87fc798cd2096.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">从<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Fcoll.jd.com%2Flist.html%3Fsub%3D1661" target="_blank">厨房</a>准备到“中午吃什么”，一站搞定</p><p style="text-align: left;">能受到这么多程序员的热捧，可见同是教做饭，还是这份指南最得程序员心。</p><p style="text-align: left;">毕竟在最开始的“厨房准备”这个序章里，除了常规的锅碗瓢盆柴米油盐，“程序员做饭指南”还提供了一个非常具有仪式感的工具方案：</p><blockquote id="0LPNSFCL" style="text-align: left;">天平、游标卡尺、量筒、停表、烧杯、测温枪、移液器。</blockquote><p style="text-align: left;">而如果你觉得以上都还不够“程序员”，那么不妨看看仓库里附带的“中午吃什么”这个世纪难题解决方案。</p><p style="text-align: left;">正如仓库作者所说：</p><blockquote id="0LPNSFCM" style="text-align: left;">如何决策吃什么也是我做菜之前一大难题，所以只能用数学描述一下了。</blockquote><p style="text-align: left;">计算方法大致是酱婶的：</p><blockquote id="0LPNSFCN" style="text-align: left;">当有人数N时，设素菜数为a，荤菜数为b。N，a，b均为整数。<p style="text-align: left;">此时有下列不等式组：</p><ul class=" list-paddingleft-2"><li><p style="text-align: left;">a + b = N + 1</p><p style="text-align: left;">a ≤ b ≤ a + 1</p></li><li><p style="text-align: left;">解得：</p></li><li><p style="text-align: left;">a=floor(N/2)</p><p style="text-align: left;">b=cell(N/2)</p></li></ul></blockquote><p style="text-align: left;">Pull Request指南</p><p style="text-align: left;">这个项目的发起者<strong>Auduin Xue</strong>，是一名<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>程序员，base苏州。</p><p style="text-align: left;">前面已经提到，Auduin希望更多人一起来建设“程序员做饭指南”这个有趣的仓库。</p><p style="text-align: left;">那么最后，如果你感兴趣，就一起来看看怎么把你手上的独门菜谱加入菜单吧~</p><p style="text-align: left;">需要注意的是，写新菜谱时，需要复制并修改已有的菜谱模板。</p><p style="text-align: left;">模板包括这几个部分：必备原料和工具、计算、操作、附加内容。</p><p style="text-align: left;">其中计算主要介绍计算公式，以便求得原料的量、重要时间参数、混合比例等。</p><p style="text-align: left;">而操作部分，不允许使用“适量”、“少量”等不精准描述的词汇。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0222/93aa8b90c7f5c9b.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;">另外，在提交Pull request之前还需要同步更新一下 README.md里的菜谱目录。</p><p style="text-align: left;">那么今日份的有趣GitHub项目就传送到这里啦~</p><p style="text-align: left;"><strong>项目传送门：</strong></p><p style="text-align: left;"><strong>https://github.com/Anduin2017/HowToCook</strong></p>   
+</div>
+            
