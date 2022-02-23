@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/539/797/original/499c9ab2bc076b73.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/042/541/087/original/fa1963f5e2f64549.jpg'
 author: Mastodon
 comments: false
-date: Wed, 23 Feb 2022 06:01:15 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/539/797/original/499c9ab2bc076b73.jpg'
+date: Wed, 23 Feb 2022 07:07:43 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/042/541/087/original/fa1963f5e2f64549.jpg'
 ---
 
 <div>   
-<hr><p>「水滴屋幼稚園」（2015）</p><p>ぷにぺど幼稚園以前に描いた物で同人誌の原型となったフリーペーパー。</p><p>こう見ると今の絵柄とそんな変わらない…と思う</p><br><img src="https://img.pawoo.net/media_attachments/files/042/539/797/original/499c9ab2bc076b73.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/042/539/798/original/2b4db754f4779dc4.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>ちなみに本当に数える程しかない商業ロリの初作品（2016）は「事案発生１」(2014)のセルフリメイク<br>正直何描けばいいか全然思いつかなくて（ぁ</p><br><img src="https://img.pawoo.net/media_attachments/files/042/541/087/original/fa1963f5e2f64549.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
