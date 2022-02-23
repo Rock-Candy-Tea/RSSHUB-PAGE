@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=8441'
+headimg: 'https://picsum.photos/400/300?random=4262'
 author: Paul Graham 博客
 comments: false
-date: 2022-02-23 00:36:40
-thumbnail: 'https://picsum.photos/400/300?random=8441'
+date: 2022-02-23 02:02:22
+thumbnail: 'https://picsum.photos/400/300?random=4262'
 ---
 
 <div>   
@@ -77,7 +77,7 @@ behaves as if the particle had a mass of <i>m</i>, then it has a mass of
 binary, but a matter of degree, depending on how much the subjects
 have in common. Particles interacting with one another are at one
 pole, but people interacting with art are not all the way at the
-other; their reactions aren't random — far from it.<br><br>Because people's responses to art aren't random, art can be designed
+other; their reactions aren't <i>random</i>.<br><br>Because people's responses to art aren't random, art can be designed
 to operate on people, and be good or bad depending on how effectively
 it does so. Much as a vaccine can be. If someone were talking about
 the ability of a vaccine to confer immunity, it would seem very
