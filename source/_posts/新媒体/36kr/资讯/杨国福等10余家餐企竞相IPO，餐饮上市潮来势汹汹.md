@@ -173,6 +173,6 @@ thumbnail: 'https://img.36krcdn.com/20220223/v2_b2850a7b0040444babf06593441b9040
 <p>3.七欣天VS捞王，谁能成为 “港股火锅第三股”？|阿尔法工场</p> 
 <p>4.<a class="project-link" data-id="113915" data-name="餐饮圈" data-logo="https://img.36krcdn.com/20210808/v2_12fe3106067f40bbb91d33905436bd26_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/113915" target="_blank">餐饮圈</a>第三波资本潮：资本还是洪水猛兽么？|漆点品牌咨询</p> 
 <p>5.盘点三次餐饮上市潮：趋势、共性与未来机遇|什么值得加盟</p> 
-<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzAwNTYxNzMxMw==&mid=2649586315&idx=1&sn=8844eccd59553308f235222a21ecb9b0&chksm=83003945b477b0538546713f8a3cf7d223f260b4bb80dd46e5a1eae7e596b340a5167268f382#rd">“餐饮品牌观察”（ID：cyppgc88）</a>，作者：语嫣，编辑：奥淇，设计：黄李辉，36氪经授权发布。</p>  
+<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzAwNTYxNzMxMw==&mid=2649586315&idx=1&sn=8844eccd59553308f235222a21ecb9b0&chksm=83003945b477b0538546713f8a3cf7d223f260b4bb80dd46e5a1eae7e596b340a5167268f382#rd">“餐饮品牌观察”（ID：cyppgc88）</a>，作者：语嫣，编辑：奥淇，设计：黄李辉，36氪经授权发布。</p>  
 </div>
             

@@ -50,6 +50,6 @@ thumbnail: 'https://img.36krcdn.com/20220223/v2_83716cf5b5cf4d6880843472a66a72bc
 <p>https://www.youtube.com/watch?v=ZTzn37Usa-U</p> 
 <p>https://github.com/LucidVR/lucidgloves</p> 
 <p>https://hackaday.io/project/178243-lucidgloves-vr-haptic-gloves-on-a-budget</p> 
-<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/s/BZGA0roTKJqAzAXcdc33zA">“青亭网”（ID:qingtinwang）</a>，编辑：Esther，36氪经授权发布。</p>  
+<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/BZGA0roTKJqAzAXcdc33zA">“青亭网”（ID:qingtinwang）</a>，编辑：Esther，36氪经授权发布。</p>  
 </div>
             

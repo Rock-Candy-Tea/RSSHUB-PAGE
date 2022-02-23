@@ -67,6 +67,6 @@ thumbnail: 'https://img.36krcdn.com/20220223/v2_1ef422400afe4e82b6b80e3366d54ac3
 <p>此外，Kwai主市场巴西面临高达60%的进口税，其中还不包括海关费用。其他有优势的新兴市场相对欧美主流市场来看，消费能力也较为有限，快手想像TikTok一样靠跨境电商寻求新增长，投入不足，增量有限。</p> 
 <p>当然，跨境电商供应链、支付、物流、售后体系、平台规则的建立并非一朝一夕能完成。当前社交媒体巨头们在跨境电商方面的竞争，都还在探索期。决定未来格局的，不是今天的流量，而是商业化转型的决心和执行力。</p> 
 <p>从这个意义上说，TikTok电商能否站稳脚跟，Kwai电商能否孕育新机，也都是未知数。</p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MjM5OTg5MzUwMQ==&mid=2650303635&idx=2&sn=0c9a1f0754304c27c103a1565c5b15f2&chksm=bf384c01884fc517b7a40de885af99e79bf2a57383468c247f9484e6cc8b4c99342d8f835e94#rd">“雨果网”（ID：cifnews）</a>，作者：雨果跨境，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MjM5OTg5MzUwMQ==&mid=2650303635&idx=2&sn=0c9a1f0754304c27c103a1565c5b15f2&chksm=bf384c01884fc517b7a40de885af99e79bf2a57383468c247f9484e6cc8b4c99342d8f835e94#rd">“雨果网”（ID：cifnews）</a>，作者：雨果跨境，36氪经授权发布。</p>  
 </div>
             
