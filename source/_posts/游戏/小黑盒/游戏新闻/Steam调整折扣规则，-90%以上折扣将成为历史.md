@@ -1,0 +1,18 @@
+
+---
+title: 'Steam调整折扣规则，-90%以上折扣将成为历史'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/02/23/6d4bb1aa79f04052979b096fe2f3e0af1645606564'
+author: 小黑盒
+comments: false
+date: Wed, 23 Feb 2022 17:15:47 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2022/02/23/6d4bb1aa79f04052979b096fe2f3e0af1645606564'
+---
+
+<div>   
+<blockquote><p><b>文/照月</b><br></p><p>但不完全是坏事。</p></blockquote><p>截止本文发布时，Steam商店里打折最狠的商品，是策略战棋游戏《XCOM2》，本体价格减免94%，国区价格仅售11.4元，达到了历史最低。</p><p><img class="lazy" data-height="460" src="https://i1.max-c.com/imgx/2022/02/23/6d4bb1aa79f04052979b096fe2f3e0af1645606564" data-width="964" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="145" src="https://i1.max-c.com/imgx/2022/02/23/5a07126f0b284746a76dffdada4763961645606565" data-width="628" referrerpolicy="no-referrer"></p><p>一个多月后，我们就看不到这种“打骨折”的游戏了，因为Steam运营商Valve即将调整Steam商店的折扣规则。</p><p>Steamworks文献库于2月2日更新了一篇博客，宣布将在3月28日对折扣规则做出变更。其中一条变动提到，商品打折后的价格不应低于原价的10%或者高于原价的90%，也就是最低1折（-90%），最高9折（-10%）。</p><p><img class="lazy" data-height="394" src="https://i1.max-c.com/imgx/2022/02/23/56bc0c761f5947a19d4473f4bebb8c621645606565" data-width="817" referrerpolicy="no-referrer"></p><p>Valve并没有给出明确答复，但这样的改动更像是在针对某些游戏发行者。</p><p>Steam的算法会给正在打折的游戏单列出一份排行榜，同时加大在首页及榜单的推荐力度。Valve限制高于9折的折扣，即可抹杀一部分发行者借助微乎其微的折扣骗推荐的可能，变相提醒这些厂商：不想打折可以不打。</p><p><img class="lazy" data-height="816" src="https://i1.max-c.com/imgx/2022/02/23/fc84736023e54b328190499e3f0c57f61645606565" data-width="962" referrerpolicy="no-referrer"></p><h4 class="img-desc">《TYRONE vs COPS》只卖6块，却频频给出-1%的折扣</h4><p>另一批发行者，会事先将游戏的原始价格抬高数倍，再发布一个“可观”的折扣，骗取Steam算法的大力推荐，从而忽悠玩家购买游戏。<br></p><p>Valve不仅取消了低于1折的折扣，还通过以下两条规则进行限制：任何产品涨价后28天内不得打折；产品促销期间或给未来的促销安排好日程后不得改变产品价格。显而易见，Valve并不希望“先涨价后打折”的电商平台常见营销策略出现在自己的平台上。</p><p><img class="lazy" data-height="221" src="https://i1.max-c.com/imgx/2022/02/23/bd08c354f5544df19ccb90111aa1828d1645606565" data-width="982" referrerpolicy="no-referrer"></p><h4 class="img-desc">《Trivia Vault: Toy Trivia》从11块涨到70块，再打个1折卖7块</h4><p>虽说限制游戏打折力度似乎会对玩家产生不利，可事实上折扣力度能够达到一折以下的精品游戏并不多。大部分的3A游戏不愿自降身价，独立游戏打骨折也不见得能给玩家省多少钱，像《XCOM2》这种又有点名气又有魄力打骨折的作品，算得上凤毛麟角。<br></p><p>同时，这项改动并不会影响那些限时免费领取的“白嫖”游戏。Steam原有规则就指出，“不得对产品进行0折优惠”，所谓的免费领取不是“-100%”折扣，而是暂时性修改定价为0。“白嫖”优惠今后仍会存在，前提是发行者有和Valve进行过协商。</p><p><img class="lazy" data-height="377" src="https://i1.max-c.com/imgx/2022/02/23/29b74ececc654d8db04f09fbd14e03031645606566" data-width="806" referrerpolicy="no-referrer"></p><h4 class="img-desc">原来的规则</h4><p>限制折扣力度只是Valve新规的一部分。剩下的规则着重于调整折扣冷却期，也就是两次打折活动的间隔时间。<br></p><p>根据调整后的具体规则，自3月28日起，间隔时间将从6周缩短为4周（28天），单次折扣活动的持续时间不得长于2周或短于1天。理论上，只要发行商有意愿打折，我们乐见的折扣活动相较之前会更加频繁。</p><p>游戏发售28天内算是一个冷却期，发行商不能打折。但在游戏首发时，发行商可以实行一次降价优惠，待到首发优惠结束后再进入28天的冷却期。</p><p>Steam一年会举办四次全商店范围的大型季节特卖：农历新年特卖、夏日特卖、秋季特卖和冬季特卖。这四次特卖属于例外，发行商可以无视冷却期限制发布促销活动。</p><p><img class="lazy" data-height="98" src="https://i1.max-c.com/imgx/2022/02/23/e1b188af64f244d6bcefec892296b5731645606566" data-width="823" referrerpolicy="no-referrer"></p><p>不过以下三种情况，属于例外中的例外：发售后28天内、首发优惠结束28天内、或者涨价后28天内的游戏，不可参与季节性特卖。因此，一些刚刚发售的心仪游戏，必定会在下一次的特卖活动中缺席，这不一定是发行商没良心，更可能是Steam规则不允许。</p><p>总的来看，Valve的折扣规则变动对玩家而言有利有“弊”，利在改善了游戏的定价机制，“弊”在提升了Steam收割玩家钱财的频率。</p><p>与规则上的调整相对应，为了让游戏厂商提前安排发售与促销事宜，Valve公布了今年上半年Steam的所有促销活动，活动日程满满当当，一直安排到6月份的夏日特卖。</p><p><img class="lazy" data-height="988" src="https://i1.max-c.com/imgx/2022/02/23/2e7c7cb2cf0e4f5fbfa9fb9f707a2cfc1645606566" data-width="994" referrerpolicy="no-referrer"></p><h4 class="img-desc">图源SteamDB网站</h4><p>当Steam的“限时特价”快要变成“限时原价”，玩家必须多加“提防”，看好自己的钱包余额，留心接下来愈发频繁的促销。</p><p><a href="heybox://open_subject" target="_blank">#游研社#</a><br></p>  
+</div>
+            
