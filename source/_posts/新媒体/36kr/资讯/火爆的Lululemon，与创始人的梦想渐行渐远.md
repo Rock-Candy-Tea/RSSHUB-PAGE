@@ -1,0 +1,109 @@
+
+---
+title: '火爆的Lululemon，与创始人的梦想渐行渐远'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220223/v2_96d4929788544c168a45b7521e457674_img_000'
+author: 36kr
+comments: false
+date: Wed, 23 Feb 2022 03:09:10 GMT
+thumbnail: 'https://img.36krcdn.com/20220223/v2_96d4929788544c168a45b7521e457674_img_000'
+---
+
+<div>   
+<p>凭借超前的审美设计，冬奥开幕式后，加拿大队服赞助商Lulu<a class="project-link" data-id="542543" data-name="LEM" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/542543" target="_blank">lem</a>on就火上了热搜。其加拿大官网甚至几度崩溃，产品的稀缺程度跟冰墩墩有得一拼。 </p> 
+<p>Lululemon最近几年风头极盛，这家品牌创立只有22年的公司，如今市值已经突破了400亿美元，要知道达到这个体量，adidas花了68年，Nike花了46年。更令人称奇的是，Lululemon几乎从不打广告。 </p> 
+<p>在竞争激烈的服装零售行业，Lululemon何以在短时间内，名利双收？ </p> 
+<p>Lululemon能有今天的辉煌，离不开其创始人Chip Wilson（下文简称Chip）的独特打法。Lululemon走的是跟Nike、adidas完全不同的品牌道路…… </p> 
+<p>Lululemon火得“出圈”，但Chip看到这一幕一定会五味杂陈，因为Lululemon的“出圈”也意味着品牌距离他的预想已经越来越远。 </p> 
+<h2>1 <strong>寻找人生的目标 </strong></h2> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_96d4929788544c168a45b7521e457674_img_000" referrerpolicy="no-referrer"></p> 
+<p>如果Chip的父母没有离婚，也许就不会有Lululemon这个品牌。他自己也没有想到，自己人生的第一次逆风翻盘，竟然源于父母的分手。 </p> 
+<p>Chip的父亲是个沉迷于运动和生命探索的足球教练。Chip的母亲作为家庭主妇，希望丈夫可以担起家庭的重担，改变一家人的窘迫，但父亲却对此漠不关心。 </p> 
+<p>母亲要照顾一家人，非常忙。Chip想要多在母亲身边待一会，就需要在缝纫机旁边，看着她左右颠倒地将一块布料的价值发挥到最大。 </p> 
+<p>Chip 13岁时，父母离婚了。母亲嫁给了一个地质学家，Chip和兄妹的生活也发生了翻天覆地的变化。他们进入了富人区，不但不用再遭受昔日邻居的算计和白眼，新邻居们还张开双臂欢迎他们。 </p> 
+<p>Chip的父亲则娶了一个空姐，而Chip作为家属，在25岁之前，获得了每年五次免费世界旅行的机会。他因此走过很多地方，拥有了广博的视野。 </p> 
+<p>Chip说他的父亲像乔布斯一样，有奇怪的生活方式。比如为了练瑜伽，甚至在退休前就请了病假，然后在一个瑜伽冥想学院做园丁。当时只有16岁的他，对父亲的种种行为不屑一顾，但他不知道这些东西此后将对他产生重大影响。 </p> 
+<p>1972年，16岁的Chip考上大学。他体形硕大，但各方面都表现平庸。大家大都笑他“大如牛，笨如冰箱”。社交恐惧之下，他把大部分时间都用来练习游泳。 </p> 
+<p>游泳<a class="project-link" data-id="633086" data-name="练了" data-logo="https://img.36krcdn.com/20210814/v2_629e80f4761842a0a85efd53a2ec3783_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/633086" target="_blank">练了</a>一段时间，Chip遇到了问题。由于体型硕大，他更适合具有爆发力的短距游泳，但1976年奥运会之前，比赛项目主要以200~400m游泳为主。他做职业运动员的职业生涯并不明朗。 </p> 
+<p>正在迷茫之时，与朋友母亲的一次简短交谈让他看到了机会。朋友母亲告诉他，阿拉斯加的石油管道工人虽然辛苦，但赚钱就像捡钱一样容易。Chip果断休学，去美国阿拉斯加淘金。 </p> 
+<p>他在阿拉斯加工作了18个月，每天工作18小时。不夸张地说他是在用命赚钱。这个工作不但危险性高，还充斥着大量的不公平。在这种极端环境下，Chip每天用纸醉金迷来庆祝自己还活着。 </p> 
+<p>但很快他发现这样的生活毫无人生意义，他戒掉了大麻，不再酗酒，让自己每天读一本小说。19岁时，他给自己定了一个目标：“20岁拥有自己的房子；30岁经营自己的生意；40岁退休。” </p> 
+<p>Chip离开阿拉斯加的时候，已经赚了15万美元。为了不让自己脱离社会，他快速回到了城市。1976年，20岁的他买了一个破旧的公寓和一辆崭新的<a class="project-link" data-id="3968560" data-name="奔驰" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968560" target="_blank">奔驰</a>车，完成了自己的第一个目标。 </p> 
+<p>1979年，读了七年大学的他，终于毕业。揣着剩下的85000美元，Chip开始向第二个目标迈进。 </p> 
+<h2>2 <strong>18年的“MBA课程” </strong></h2> 
+<p>从1979年开始经营自己的生意，到1997年把公司卖掉，Chip这段18年的商业履历，在外人看来更像是一部巨大的失败史。但Chip却感叹：这18年走过的种种弯路，是他最珍贵的“MBA课程”。</p> 
+<p>Chip的创业历史始于短裤项目。有次他给女朋友带了<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>新流行的加州紧身短裤，女友非常喜欢。他从中看到了商机，于是在报纸上招募裁缝，购买布料，开始着手制作。但第一批300条短裤，就让他感受到了服装行业的难题——库存。</p> 
+<p>事业不顺，他只能又找了一份工作。但他觉得自己依然没有跳出用命换钱的怪圈。为了自我挑战，他迷上了铁人三项。那时候没有人为这个运动设计衣服，他做了这件事。拿到短裤后他兴奋不已，只可惜这个裤子比铁人三项的流行早了8年。新项目再次以失败告终。</p> 
+<p>七八十年代，滑板开始流行，Chip把在美国学到的冲浪滑板文化以及服饰装备，带回了加拿大，创立了West Beach，主要销售一些冲浪滑板装备。这也是当时加拿大唯一一个冲浪滑板店。</p> 
+<p>West Beach不断壮大，但临近40岁，Chip离财务自由的目标还很远。为了将West Beach提高到新的阶段，1985年9月，他把66%的股份，卖给两个精通财务和贸易的朋友——Richard和Scott，开始三人掌舵的日子。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_584cdce9001f458988d24a959996d6df_img_000" referrerpolicy="no-referrer"></p> 
+<p>为了快速扩大公司规模，West Beach在自营店铺外开始以批发的方式快速扩张。公司从垂直零售模式向批发模式转变，但批发模式的坏处是巨大的资金占用，虽然他们有多个自营店，每个店的收入都超过100万美元，但依然不能摆脱负债问题。</p> 
+<p>West Beach掉到了“想要发展就必须大规模举债”的尴尬境地。</p> 
+<p>八十年代末，滑雪成为潮流，Chip兴奋地进入滑雪领域，并因此摆脱了日渐衰落的滑板冲浪业务。West Beach的业绩很快增长了两倍，并且成为世界上三家专门生产滑雪服装的公司之一。West Beach的分销网络逐渐延伸至美国、欧洲以及日本。</p> 
+<p>1991年4月，West Beach举办了“West Beach big air”大型滑雪比赛，提高产品声量。</p> 
+<p>运动品牌<a class="project-link" data-id="373292" data-name="多会" data-logo="https://img.36krcdn.com/20220118/v2_b878bc55ad6f47269fa88211291ef557_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4055601233?mp=zzquote" target="_blank">多会</a>选择顶尖的运动员进行赞助，但Chip他们却选择了六七个低于赞助水平的新运动员。Chip深知，这些缺乏赞助的运动员，才是真心爱品牌、珍惜品牌，并且态度友好的人。他们还是社群里的英雄，产生的社会影响更加真实直接。</p> 
+<p>为了避免闭门造车，Chip还组织焦点小组讨论，吸收顾客的建议。宽大或紧身，彩色或纯色，用户的喜好一年一个样。每一次Chip乖乖听话就能大卖，而自以为是的坚持，都会以滞销结束。</p> 
+<p>日本市场飞速发展后，占据了公司业务的30%。但客户告诉Chip，“我们正在烧掉你们20%的产品。即便有一点针线上的错误，我们也会烧掉它，我们不想破坏品牌。”</p> 
+<p>他了解到日本人对质量的要求，Chip知<a class="project-link" data-id="75049" data-name="道合" data-logo="https://img.36krcdn.com/20210807/v2_31f9603903ae40439f5a8449459a6c08_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/75049" target="_blank">道合</a>伙以后，他们在品控上的确没有以前严格了。</p> 
+<p>而此时，单板滑雪已经涌入大量竞争者，市场上产品开始供过于求。1995年，West Beach再次回到破产的边缘，Chip连养家都困难。一个500万的滑雪服订单需要3万美金的拉链，但他们都拿不出来。最后只能用30%的公司股份换来了这批拉链。</p> 
+<p>公司在苦苦挣扎之中，业绩差、三个合伙人沟通不畅，煎熬的Chip接触到了父亲推荐的Landmark课程（一个关于正念的课程）。通过学习，Chip重获新生。这个课程让他厌倦了外观上的美好，开始向往非凡的生活。</p> 
+<p>1997年他卖掉了West Beach，给18年的事业画上了句号。虽然赚的钱并不多，但他为自己不再被过往“绑架”，将自己“空杯”而感到高兴。</p> 
+<h2>3 <strong>开启Lululemon的新事业 </strong></h2> 
+<p>那个时候，Chip唯一想干的就是当Nike的总裁。“没有人比我更了解运动鞋子，<a class="project-link" data-id="294346" data-name="运动心" data-logo="https://img.36krcdn.com/20210810/v2_b6e9b2a32fa849159d5fb4e1f62d63ac_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/294346" target="_blank">运动心</a>理学和技术服装”，Chip信心满满。但Nike显然没有Chip的一席之地。</p> 
+<p>那段时间，Chip的后背经常不舒服。在寻找治疗疼痛的方法时，他在电线杆上看到了瑜伽运动的广告，也因此开始了瑜伽的锻炼。</p> 
+<p>瑜伽带给他的除了身体的修复，还有世界观、人生观的颠覆性塑造，正如landmark带给他的震撼一样。</p> 
+<p>他意识到自己以前游泳时，把意识带走留下身体去超越他自己的极限，以减少痛苦，这就是正念。后来，他把这种认识，转化成Lululemon的品牌理念——运动的高峰体验，促使人们忘掉过去和未来，从而活在当下。</p> 
+<p>当时在瑜伽的课程上，除了他这个42岁的男性，剩下的都是30岁左右的女性。大家或穿得松垮垮、或紧绷绷的，但汗津津的、透明的衣服，让她们的心灵很难从容地进入状态。紧身的短裤还会在女性私处勒出“骆驼趾”，令人非常尴尬。</p> 
+<p>Chip想到，如果解决骆驼趾、吸汗、防臭的功能，他就能创造出一种世界上还没有的东西。当班里的学生从6个增长到30个的时候，他意识到瑜伽最终会像滑雪一样，成为新的体育时尚。</p> 
+<p>Chip以前听<a class="project-link" data-id="4260438" data-name="了数" data-logo="https://img.36krcdn.com/20210422/v2_8e636ec7be434dd5bf7deebc8bed2b62_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/4260438" target="_blank">了数</a>以百计的有声书。他对<a class="project-link" data-id="257500" data-name="星巴克" data-logo="https://img.36krcdn.com/20210809/v2_e33e613986ca46418cbb6288104a01ae_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/257500" target="_blank">星巴克</a>、<a class="project-link" data-id="3969193" data-name="沃尔玛" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969193" target="_blank">沃尔玛</a>、通用电气增长的故事耳熟能详。他还是《从优秀到卓越》的忠实读者，书中“刺猬理念”对Chip十分受用。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_b85f3a3623544070b0406dd47a2e1414_img_000" referrerpolicy="no-referrer"></p> 
+<p>狐狸千伎百俩而有穷，刺猬无一技之长而无限，这个理念让他开始自问：</p> 
+<p>“我对什么充满激情？”“体育运动。”</p> 
+<p>“我在什么地方能成为世界上最好的？”“黑色弹力裤。”</p> 
+<p>“我的经济引擎是什么？”“垂直零售。”（他有18年的垂直零售经验，这比大多数人肯定都要多。而且卖掉上一个公司，他有比较充足的启动资金。）</p> 
+<p>他把目标定在了30岁的成功女性“super girl”身上。“super girl”一定会越来越多，因为短短十几年北<a class="project-link" data-id="131482" data-name="美的" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/131482" target="_blank">美的</a>女大学生率已经从20%提高到60%。女性避孕药开始广泛使用，她们有了更多属于自己的时间。生活和工作压力下，她们的健康呵护绝对是一片蓝海。</p> 
+<p>但该给品牌起个什么名字呢？Chip曾经买过一个叫homeless的品牌，但日本的经销商居然以非常荒谬的价格将其收购了。那是他人生中赚得最轻松的一笔钱。他觉得是日本人读不了L这个音，所以让这个品牌在日本很独特，于是Lemon这个词，进入了他的视野。1999年“super girl”们，更喜欢的三个L“Lululemon”，成了他的选择。</p> 
+<p>通过提高产品质量，让用户为三倍的价格买单，星巴克就是这么做的，Chip也坚定这条路。没有人比他更了解“暴汗”以及长时间运动中身体与服装的互动。</p> 
+<p>他拿出了全部资产的10%来研发布料。为了让布料衔接处不产生褶皱，对身体不产生摩擦，Chip花了八万美元，从日本买了两个平锁缝纫机。这笔不小的开销非常冒险，但Chip觉得这是未来20年无可逆转的趋势，他必须这么做。</p> 
+<p>Chip深知他要服务的是“super girl”，她们才是品牌的定义者，而自己只是实现者。</p> 
+<p>他组织20~40岁女性进行焦点小组讨论，征询她们最喜欢的<a class="project-link" data-id="4260022" data-name="品牌名" data-logo="https://img.36krcdn.com/20220124/v2_1f4a032acf104b67bb50c17d8063b2cf_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4394900220?mp=zzquote" target="_blank">品牌名</a>称，让她们带自己最喜欢的、认为需要改进的衣服分享，并观察她们对不同布料所做出的反应。Chip则像个小学生一样，拿着笔疯狂地记。</p> 
+<p>“如果可以在不同的活动场所之间自由切换，这就可以为我们省去至少45分钟的时间”，这是super girl的想法。于是Lululemon创造了一件可以24小时穿着的衣服，并为它此后成为时尚单品埋下了伏笔。</p> 
+<p>以前的瑜伽服要么上身紧身，要么下身紧身，不可能同时紧身。Chip改变了这个现实，露脐的紧身服让高温瑜伽的练习变得轻松。除了解决产品痛点，Chip也增加了很多“爽点”，比如增加隐形口袋、拇指洞、裤脚反光、闪光的小logo等，并且通过服装剪裁，强调让女性感到自信的东西：宽阔的肩膀、小腰翘臀。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_4ec6ee33ebdb43909c409b247cd726b8_img_000" referrerpolicy="no-referrer"></p> 
+<p>Chip在店铺的一个角落办公，衣服挂在另一个角落。这样他们可以随时听从顾客的意见，然后进行改良。店铺虽然很简陋，却给人很酷的精品店的感觉。</p> 
+<p>服务super girl的店员也得是super girl。Chip从不叫她们“售货员”而是称“educator”（教育者），而她们的工资也是本地教师的两倍。Chip要求educator永远不要跟顾客说，“你穿这件衣服很好看”。因为买东西的人比店员明白，她们不会喜欢销售员高人一等的感觉。</p> 
+<p>他还制定了6/13原则：如果顾客看一个商品6秒以上，educator才会有13秒的时间去介绍。除非顾客继续提问，否则educator就会不打扰顾客，直到她继续看一个商品超过6秒。</p> 
+<p>但比起售卖商品，Chip更在意传递Lululemon的文化。除了让员工参加landmark论坛虚席正念，拒绝满足于伟大而追求卓越，他还设置了一套详尽的激励机制，来保证员工<a class="project-link" data-id="1205494" data-name="有充" data-logo="https://img.36krcdn.com/20220120/v2_50f0393cfcdf466581acef0c1d4c024f_img_000" data-refer-type="1" href="https://p.36kr.com/space/3436012335?mp=zzquote" target="_blank">有充</a>足的发展空间。</p> 
+<p>在商业模式上，过去批发模式带来的负债问题，让Chip如鲠在喉。这次他要远离批发，拥抱垂直零售。他要保证自己对产品百分之百的控制权。批发模式中，中间商需要利润，从而吃掉了技术创新的空间，限制了品牌。Chip坚信品牌是设计驱动、买家驱动，而不是批发商驱动的。</p> 
+<p>当时镇上有名的瑜伽老师需要一个高温瑜伽教室，Lululemon的店铺承担了这项功能。这位镇上唯一的瑜伽老师，让更多人看到了这个品牌。通过社区活动，顾客会意识到他们购买的不仅是运动服，还是一种生活方式和生活圈。她们把正念的内涵印在公司的手提袋上，与人共享积极健康的生活。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_a89507e92ace416583696b68e2ce68a7_img_000" referrerpolicy="no-referrer"></p> 
+<p>2000年，Lululemon在温哥华开设第一家分店。但由于Lululemon的店铺数量太少，没有形成规模效应，所以利润率不好。就在资金耗尽，捉襟见肘的时候。他此前售出的West Beach公司问他是否愿意回去做CEO。Chip答应了，因为拿着这份工资，他就能养Lululemon了。</p> 
+<h2>4 <strong>Be Biger 寻求规模优势 </strong></h2> 
+<p>在经营企业时，Chip一直在思考一个问题，为什么加拿大很难做出大品牌，后来他总结了两个原因：一个是品牌只在加拿大，从而被美国的规模经济吃掉；另外一个是虽然走出了加拿大扩张到了美国，但产品却只在加拿大可行。</p> 
+<p>但Lululemon强调健康和长寿，这种倡导可以跨越文化，应该可以在美国扩张。想明白这点后，2003年，Chip开启了Lululemon全球化战略，在美国加州开店。</p> 
+<p>随着店铺的扩张，2005年Chip开始思考自己的下一步到底是什么，是更多的店铺吗？还是成为更大的经销商？</p> 
+<p>这么多年的创业，他把全部积蓄、利润都再次投入公司。所以他的家庭一直没有实现财务自由，考虑再三，他决定选择家庭。他以两亿美元的价格，卖掉了公司一部分股份。</p> 
+<p>Lululemon此后迎来了职业经理人时代。2007年，Lululemon在纳斯达克上市，<a class="project-link" data-id="143906" data-name="铃声" data-logo="https://img.36krcdn.com/20210808/v2_1b85d57ea6b14ceeb4045ea5652e71bb_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/143906" target="_blank">铃声</a>一响，股价就从18美元跳到了25美元。上市一年公司市值就达到了47.1亿美元。Chip也赚得盆满钵满，因为他手里有公司30%的股份。</p> 
+<p>但职业经理人还是存在着普遍的短视行为，他们不计后果的开店，只是为了拉升股票价格，以有利于自己套现。这让Chip非常不满。</p> 
+<p>2008年经济危机来临时，Lululemon有113个专卖零售店，但股价却跌到了2.25美元。但不破不立，公司却因此得以重新转换模式，不再致力于开店推高股价，而是开工作室重新走向社区教育。另外由于库存积压，Lululemon开始布局电商渠道，这也让其销量开始节节攀升。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220223/v2_5d402e0027ac4ea09c407db156a598c2_img_000" referrerpolicy="no-referrer"></p> 
+<p>2011年，Lululemon在银行有了10亿美元闲置存款。Chip希望公司收购长期合作的负责布料研发和生产的公司，或者将他心心<a class="project-link" data-id="41985" data-name="念念" data-logo="https://img.36krcdn.com/20210807/v2_aa65bdc4ab384b4bb6c7eb9e3c13288c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/41985" target="_blank">念念</a>的“正念”完全融入品牌。但公司觉得保护这笔钱的安全更重要。Chip看着Lululemon正在跟一个个机会擦肩而过，他跟公司的矛盾也越来越多。</p> 
+<p>2012-2013年Lululemon销售额仍以每年30%的速度增长，但公司对产品质量已经没有了昔日的苛刻。2013年，一批容易走光的紧身裤收到很多消费者的抱怨，Chip却在回答记者提问时说，“Lululemon并不是为所有身材的女性服务的”，这句话激怒了消费者。</p> 
+<p>尽管后来Chip公开道歉，但依旧被迫在2013年12月卸去董事长一职。2014年，他将自己所持27% Lululemon股权的一半，以8.45亿美元出售给了私募基金。2015年2月，Chip宣布辞职，离开公司董事会，彻底告别了自己一手创办的公司。</p> 
+<h2>5 <strong>Lululemon的“泡沫”会破灭？ </strong></h2> 
+<p>Chip离开公司后，Lululemon开始进行品类扩张，2015年正式增加男士产品线。</p> 
+<p>这一年，Chip建立了专门炮轰管理层的网站，吐槽道：“三年前我还是CEO的时候，Under Armour只有我们一半的市值，我当时还想要买下这间公司呢。而今安德玛已经超过Lululemon一倍多。Lululemon没能跟得上Nike和UA的步伐。”</p> 
+<p>Chip甚至扬言，“Luluemon的泡沫，迟早会破灭”。</p> 
+<p>到底是Chip的认知天花板限制了Lululemon的发展，还是职业经理人把Lululemon带跑偏了，或许还要让时间来回答。</p> 
+<p>从历史上说，运动品牌的发家史全都是这么写的，阿迪从足球开始，Nike从篮球起家，最后都成了全品类的运动服饰品牌。瑜伽起家的Lululemon做全品类拓展也应是必然。</p> 
+<p>但从另一个角度看，淡化了品牌精神的Lululemon更像一个时尚品牌，而且它的多元化路径并不一定能一帆风顺。</p> 
+<p>比如2019年，Lululemon就进军到美容个护产业，推出了名为“selfcare”的美容和身体护理产品线，包括除臭剂、唇膏、润肤霜与免洗洗发水4款产品。但从社交网络的反馈来看，效果一般。2020年6月，Lululemon还宣布以5亿美元的价格收购Mirror，押注家居健身赛道，同样收效甚微。</p> 
+<p>从过往案例来看，大多数品牌从单品类扩展到多品类及跨界业务，一向都是困难重重，即使从男装拓展到女装，或者从鞋子拓展到女装，失败案例比比皆是。</p> 
+<p>如今Lululemon在中国疯狂扩张，销量<a class="project-link" data-id="92082" data-name="一路飞" data-logo="https://img.36krcdn.com/20210807/v2_a586ba36c5f544e784432777b92b9225_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/92082" target="_blank">一路飞</a>涨的，但70%购买者都是出于时尚的魔力，Lululemon的奥运出圈也大抵如此。但时尚终归是短命的。而且Lululemon自身不生产产品或原材料，严重依赖供应商，这一方面造成了严重的产能制约，另一方面也为其他品牌的抄袭埋下了伏笔。</p> 
+<p>不解决以上问题，Lululemon短暂的辉煌后，很容易走上West Beach覆灭的轮回。</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247577961&idx=1&sn=8538b3460691b0ff4bb9310be8514316&chksm=97ce45b1a0b9cca734a06cbace0b908cca2210db5f523d62e914bacdb7874966a53a210a3ff5#rd">“砺石商业评论”（ID：libusiness）</a>，作者：金梅，36氪经授权发布。</p>  
+</div>
+            
