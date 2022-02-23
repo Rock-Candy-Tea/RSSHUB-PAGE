@@ -21,7 +21,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220223/1645586641_1907
 </p>
 <p style="text-indent:2em;">
 这位名叫Nicholas 
-Lester的开发者，因为儿子玩Switch很上头，他便叫儿子停止游玩Switch。但儿子拒绝了他的要求，并继续疯玩游戏。老爸的火气一下就上来了，他愤怒的掐儿子脖子，儿子的小脸都憋红了。还好老妈听到儿子痛苦的叫声就冲进卧室，解救了儿子。根据这位母亲的陈述，Lester当时大喊着“我要让你窒息”，并且使劲锁喉，让儿子难以呼吸。
+Lester的开发者，因为儿子玩Switch很上头，他便叫儿子停止游玩Switch。但儿子拒绝了他的要求，并继续疯玩游戏。老爸的火气一下就上来了，他愤怒的掐儿子脖子，儿子的小脸都憋红了。还好老妈听到儿子痛苦的叫声就冲进卧室，解救了儿子。根据这位母亲的陈述，Lester当时大喊着“我要掐死你”，并且使劲锁喉，让儿子难以呼吸。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220223/1645586766_939905.jpg" alt="儿子拒绝停玩NS 微软开发者老爸愤怒锁喉被判刑" referrerpolicy="no-referrer"> 
