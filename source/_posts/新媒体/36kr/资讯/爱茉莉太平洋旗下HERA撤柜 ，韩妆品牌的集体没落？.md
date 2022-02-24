@@ -53,6 +53,6 @@ thumbnail: 'https://img.36krcdn.com/20220224/v2_b925a2ee456c4bf5aeada14050d47f7f
 <p>从化妆品消费市场份额来看，有相关行业报告数据显示，国产化妆品已占56%的市场份额；从消费者购买意愿来看，42%的消费者更愿意选择国产化妆品牌，九成消费者表示未来会再次购买国产化妆品。   </p> 
 <p>可见，经过长期的市场竞争，国内美妆市场已经形成了基本稳定的格局，以花西子、<a class="project-link" data-id="6257" data-name="完美日记" data-logo="https://img.36krcdn.com/20210806/v2_bbcee9a6c3304c7291861ca02ab2bb19_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/6257" target="_blank">完美日记</a>为代表的国货品牌成为美妆新贵，以极具性价比的体验感为招牌销量屡破记录，以<a class="project-link" data-id="345216" data-name="欧莱雅" data-logo="https://img.36krcdn.com/20210811/v2_d4d3005fcafe413fb6475b60c426c1c9_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/345216" target="_blank">欧莱雅</a>、<a class="project-link" data-id="3969077" data-name="雅诗兰黛" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969077" target="_blank">雅诗兰黛</a>等欧美品牌也加速推新步伐，在细分领域不断创新，巩固产品优势。   </p> 
 <p>韩妆品牌未来的路如何走下去？     </p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer" href="https://mp.weixin.qq.com/s/4R5fN0fUtxcz3o4kvgVwOg">“鳌头财经”（ID：theSankei）</a>，记者：晓敏，见习生：佟思，36氪经授权发布。</p>  
+<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/4R5fN0fUtxcz3o4kvgVwOg">“鳌头财经”（ID：theSankei）</a>，记者：晓敏，见习生：佟思，36氪经授权发布。</p>  
 </div>
             

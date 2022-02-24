@@ -24,11 +24,11 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/02/24/220224194257269_u1628
                 
 <div class="topicContent front_content"><p>　　任天堂今日（2 月 24 日）官方发布通告，宣布将正式收购软件开发厂商“株式会社 SRD”为全资子公司，旨在强化任天堂的经营基盘，并确保今后开发过程提升资源的安定性和开发效率，本次收购将在 4 月 1 日实施。
 
-</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224194257269_u162815.jpg" class referrerpolicy="no-referrer"><br></p><p>　　事实上 SRD 公司早在 1983 年成立后（将近 40 年时间）就一直在前就在任天堂手下协助开发任天堂第一方游戏，目前公司有 139 名员工，“塞尔达传说”“马力欧”“动物森友会”“Wii Fit”“星之卡比”等系列的开发全都有他们参与的身影，甚至其公司其中一处办公地址就在任天堂京都总部大楼里，早就是任天堂实质上的子公司 。
+</p><p style="text-align: center;"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224194257269_u162815.jpg" class title referrerpolicy="no-referrer"><br></p><p>　　事实上 SRD 公司一直在任天堂手下协助开发任天堂第一方游戏持续将近 40 年时间，目前公司有 139 名员工，“塞尔达传说”“马力欧”“动物森友会”“Wii Fit”“星之卡比”等系列的开发全都有他们参与的身影，甚至其公司其中一处办公地址就在任天堂京都总部大楼里，早就是任天堂实质上的子公司 。
 
 
 
-</p><p style="text-align: center;"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195332672_u162815.jpg" referrerpolicy="no-referrer"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195341959_u162815.jpg" referrerpolicy="no-referrer"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195347435_u162815.jpg" referrerpolicy="no-referrer"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195353717_u162815.jpg" referrerpolicy="no-referrer"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195359305_u162815.jpeg" class referrerpolicy="no-referrer"><br></p></div>
+</p><p style="text-align: center;"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195332672_u162815.jpg" title referrerpolicy="no-referrer"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195341959_u162815.jpg" title referrerpolicy="no-referrer"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195347435_u162815.jpg" title referrerpolicy="no-referrer"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195353717_u162815.jpg" title referrerpolicy="no-referrer"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/02/24/220224195359305_u162815.jpeg" class title referrerpolicy="no-referrer"><br></p></div>
                 
                 
   
