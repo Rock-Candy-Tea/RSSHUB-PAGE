@@ -5,18 +5,18 @@ categories:
  - 设计
  - Dribbble
  - 用户（团队）
-headimg: 'https://picsum.photos/400/300?random=9332'
+headimg: 'https://picsum.photos/400/300?random=9901'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=9332'
+thumbnail: 'https://picsum.photos/400/300?random=9901'
 ---
 
 <div>   
 <div class="media-content">
       <div class="video-wrap">
-        <video muted loop playsinline autoplay src="https://cdn.dribbble.com/users/224485/screenshots/7104810/media/501835af954a9e2d650765a27eb4ce2a.mp4">
-        </video>
+        <video muted loop playsinline autoplay data-src="https://cdn.dribbble.com/users/224485/screenshots/7104810/media/501835af954a9e2d650765a27eb4ce2a.mp4" data-video-small="https://cdn.dribbble.com/users/224485/screenshots/7104810/media/b6d67ece36f619f132670cef3c7f6096.mp4" data-video-medium="https://cdn.dribbble.com/users/224485/screenshots/7104810/media/62f75d460ae9d7e8b6a277f6747e7600.mp4" data-video-large="https://cdn.dribbble.com/users/224485/screenshots/7104810/media/62f75d460ae9d7e8b6a277f6747e7600.mp4"></video>
+        
         <div class="video-controls">
           <span class="mute-controls">
             <button class="show-mute" rel="tipsy" title="Turn audio off">

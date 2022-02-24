@@ -15,8 +15,8 @@ thumbnail: 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTA
 <div>   
 <div class="media-content">
       <div class="video-wrap">
-        <video muted loop playsinline autoplay src="https://cdn.dribbble.com/users/332776/screenshots/17556212/media/867aaa0e76b063c2a9456f69fc690177.mp4">
-        </video>
+        <video muted loop playsinline autoplay data-src="https://cdn.dribbble.com/users/332776/screenshots/17556212/media/867aaa0e76b063c2a9456f69fc690177.mp4" data-video-small="https://cdn.dribbble.com/users/332776/screenshots/17556212/media/f0b28a3666b95ce7954a1fba1a6cace1.mp4" data-video-medium="https://cdn.dribbble.com/users/332776/screenshots/17556212/media/e0bac6497490a6872fc75059a702c450.mp4" data-video-large="https://cdn.dribbble.com/users/332776/screenshots/17556212/media/e0bac6497490a6872fc75059a702c450.mp4"></video>
+        
         <div class="video-controls">
           <span class="mute-controls">
             <button class="show-mute" rel="tipsy" title="Turn audio off">
