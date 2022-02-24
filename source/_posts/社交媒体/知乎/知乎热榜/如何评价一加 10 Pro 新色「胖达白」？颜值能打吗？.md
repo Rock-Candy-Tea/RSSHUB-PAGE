@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-6a4b31d44b141d1186bc9b9331651ed8_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=7564'
 author: 知乎
 comments: false
-date: Thu, 24 Feb 2022 02:41:55 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-6a4b31d44b141d1186bc9b9331651ed8_1440w.jpg'
+date: Thu, 24 Feb 2022 03:31:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7564'
 ---
 
 <div>   
-沈少Neo的回答<br><br><p data-pid="294euMfK">个人觉得还不错，从工业设计的角度来说，白色为主的机身，加上黑色的摄像头模组区域让整个手机的分隔比较明晰，也很好的对应了这个命名暗示的“熊猫配色”。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-6a4b31d44b141d1186bc9b9331651ed8_1440w.jpg" data-size="normal" data-rawwidth="2000" data-rawheight="1333" data-default-watermark-src="https://pic4.zhimg.com/v2-015860396f3fa229ef451e94e6998134_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-6a4b31d44b141d1186bc9b9331651ed8_r.jpg" referrerpolicy="no-referrer"><figcaption>图源：极果研究室</figcaption></figure><p data-pid="4yFeBV58">同时，熊猫的眼眶刚好也是黑色的，和手机的“眼眶”也就是镜头周围一圈的配色相得益彰。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-0a9d700e5102f3470427f08fd56b3cef_1440w.jpg" data-size="normal" data-rawwidth="2000" data-rawheight="1333" data-default-watermark-src="https://pic3.zhimg.com/v2-4b6cf9d2287903b7ef0fc92412a37080_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0a9d700e5102f3470427f08fd56b3cef_r.jpg" referrerpolicy="no-referrer"><figcaption>图源：极果研究室</figcaption></figure><p data-pid="rwCFwLuw">除了新配色，整套配置也是目前一加整个品牌的“皇帝版”，512GB的存储空间非常够用，高通骁龙8的SoC，2K + 120HZ + LPTO 2.0的柔性屏幕，哈苏影像2.0系统都属于配置拉满的玩法。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-2b1a3908558dfbd2d4ff7d8e488003f1_1440w.jpg" data-caption data-size="normal" data-rawwidth="857" data-rawheight="478" data-default-watermark-src="https://pic3.zhimg.com/v2-2330b5059e34a992169f53170dc1a8dd_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-2b1a3908558dfbd2d4ff7d8e488003f1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="541S0xkE">而且这款手机的充电续航也是目前一票安卓旗舰机里比较出色的，5000 mAh大电池和80W有线+50W无线闪充让我们用起来非常省心。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-2cda6454106ded8f391fb65e35c7aa0b_1440w.jpg" data-caption data-size="normal" data-rawwidth="715" data-rawheight="965" data-default-watermark-src="https://pic2.zhimg.com/v2-368efc8654900c95df8521bbc0576e01_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-2cda6454106ded8f391fb65e35c7aa0b_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="tqoKswXq">如果喜欢这个外观，预算也比较充足，还是很值得入手的。</p><p></p>  
+王悠的回答<br><br><p data-pid="WQOU8IsQ">既然是问颜值，我们就只说颜值。至于说性能配置参数什么的，现在的手机只要在一定的价位，性能没有不够用的。</p><p data-pid="4gY-LjYc">一句话简评，颜值很不错。话分两头↓</p><p data-pid="f-_Q0HkU">1，不犯错、通行性高。</p><p data-pid="4LmghmDN">在追求走量的商业市场上，长板往往没有短板的重要性高。电影院为什么推出爆米花？不是因为它多好吃，而是因为它被抗拒的几率低，容易被最广泛的人群接受。</p><p data-pid="N7wTMw1A">一加这款的胖达白就是这样的，整体来说和谐均衡。不会挑战人的审美底线，也不low也不落入窠臼，就在一个比较好的平衡点上。</p><p data-pid="glixtlX4">2，有辨识度。</p><p data-pid="NrZ8UNtx">比如说我手里握着的 小米 11 ultra，我当初买它是因为我喜欢摄影。后来发现身边有好多女同事也买了，我很惊喜，以为遇到影友了，后来一问才知道，她们买这款的原因是因为“觉得样子挺好看”，再问一下，为什么觉得好看呢…因为辨识度高！</p><p data-pid="-FZjcuFe">在不丑的前提下，辨识度高，这非常重要，要不然拿在手里泯然众人，这样的商品多没意思？</p><p data-pid="y3jmY7G5">一加这款在这两点上做的很不错。然后还有第3个可能的原因 —— 奇怪的名字！</p><p data-pid="7UVLVB4G">公元2022年，“鸭屎香”莫名走红。我这个多年的老茶友以为现在的年轻人的味蕾复古觉醒了…开始欣赏凤凰单丛了。后来才发现年轻人只是因为这玩意儿听起来很怪，在猎奇之下开始接触的，虽然味道是他火的基础，但是能火起来真靠了这个怪名字。</p><p><br></p><p data-pid="WCwSsr25">“胖达白”！这个名字，在一众手机配色的命名中确实显得够怪够有个性。其他手机的配色命名都是往高贵典雅酷炫美好方面去使劲的… 比如什么暗夜黑、莫兰迪青、冰川白、酷炫红… 听多了真是没个性，这个“胖达白”…很有意思。</p><p data-pid="dSVmGEuq">虽然最终的市场情况难以预测，不过他确实有足够让大众接受的基本素质，应该是一个不错的选择，前提是性能不翻车，坐等上市后的频测吧。</p>  
 </div>
             
