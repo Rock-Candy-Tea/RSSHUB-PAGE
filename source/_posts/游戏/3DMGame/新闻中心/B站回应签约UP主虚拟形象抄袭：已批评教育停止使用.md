@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220224/1645667127_927061.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 24 Feb 2022 01:49:00 GMT
+date: Thu, 24 Feb 2022 02:12:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220224/1645667127_927061.jpg'
 ---
 
@@ -17,13 +17,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220224/1645667127_9270
 昨日，微博网友@菊菊菊菊菊花猹发文称，朋友设计的vup形象被哔哩哔哩电竞官方照搬，并在反复交涉无果后，只得到傲慢的答复，此外还将up主发布的视频删除，最终无奈发博维权。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667127_927061.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667127_927061.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 @哔哩哔哩电竞官方微博之后发文回应，称此立绘形象为“染染_Ranoca”的个人约稿，已对她进行了批评教育并要求立即停止使用该立绘形象。与对方沟通的运营人员，存在严重的言论不当行为，将与负管理责任VUP艺人经纪部负责人一起，被扣除相应绩效，并通报全公司批评。 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667184_937712.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667184_937712.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 哔哩哔哩电竞官方微博回应原文：
@@ -47,7 +47,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220224/1645667127_9270
 哔哩哔哩电竞公司
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667226_591154.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220224/1645667226_591154.jpg" alt="B站回应签约UP主虚拟形象抄袭：已批评教育停止使用" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

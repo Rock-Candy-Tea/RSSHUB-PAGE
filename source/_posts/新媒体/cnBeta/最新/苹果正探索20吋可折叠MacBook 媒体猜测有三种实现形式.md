@@ -1,0 +1,21 @@
+
+---
+title: '苹果正探索20吋可折叠MacBook 媒体猜测有三种实现形式'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0224/2c49e74ce6cd11c.webp'
+author: cnBeta
+comments: false
+date: Thu, 24 Feb 2022 02:10:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0224/2c49e74ce6cd11c.webp'
+---
+
+<div>   
+报道称苹果公司正开发一款采用可折叠屏幕的笔记本。国际显示器供应链咨询机构 Display Supply Chain
+Consultants（DSCC）首席执行官 Ross Young 表示，苹果正在探索可折叠屏幕的 MacBook 笔记本，屏幕尺寸在 20
+英寸左右，可以实现 4K 或者更高的分辨率。<br>
+ <p style="text-align: left;">Ross Young 在业内有非常好的口碑，此前曾准确爆料 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a> 13 Pro 的 ProMotion 显示屏、第六代 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fipad%2F" target="_blank">iPad</a> mini 的显示屏尺寸和边框、14 和 16 英寸 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F" target="_blank">MacBook</a> Pro 的 mini LED 显示屏与 ProMotion 等等，因此他的爆料可信度非常高。</p><p style="text-align: left;">他说，可折叠笔记本可以为<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>构成一个全新的产品类别，但在这个非常早期的阶段，人们对这个神秘的新形式因素知之甚少，对于苹果如何构思该设备，似乎有三个主要选择。</p><p style="text-align: left;"><strong>● 全屏 MacBook</strong></p><p style="text-align: left;">也许最明显的可折叠苹果笔记本的实现方式是全屏 MacBook，在铰链部分也覆盖屏幕。Young 似乎猜测，这种实现方式可能会产生一种两用产品，他说，这种产品在折叠时可以作为带有全尺寸屏幕键盘的笔记本使用，而在展开后与外部键盘一起使用时，可以作为显示器使用。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0224/2c49e74ce6cd11c.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">这种设计的可能性有两个主要缺点。首先是苹果公司众所周知的对提供基于触摸屏的 Mac 的沉默，公司高管经常公开否定其提供这种设备的可能性。例如，前苹果设计总监 Jony Ive 曾说，触摸屏 Mac 不是一个特别有用或合适的多点触摸应用。</p><p style="text-align: left;">macOS 为间接触控板或鼠标输入进行了大量优化，而不是触摸。2020 年，苹果工程主管 Craig Federighi 说，苹果设计和发展 macOS 的外观，是为了让整个设备家族感觉舒适和自然，像触摸这样的东西根本没有考虑。这更不用说触屏键盘和触控板的潜在人体工程学问题了。因此，全触屏的MacBook似乎与该公司近年来的想法格格不入。</p><p style="text-align: left;"><strong>● 带物理键盘的可折叠显示屏</strong></p><p style="text-align: left;">一个更出乎意料的形式因素可能是 MacBook 的垂直加长显示屏，在铰链处折叠，与设备的物理键盘相接。这种解决方案可以提供更大的显示屏的好处，为屏幕上的外围内容提供空间，同时仍然保留物理键盘和触控板的好处。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0224/ac5d49b913d0787.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">该设计还可以提供一种在不牺牲物理功能键的情况下恢复触摸条的方法。在另一次采访中，Federighi 解释说，带有 Touch Bar 的 MacBook Pro 外形设计避免了其他触摸屏笔记本电脑造成的人体工程学问题。</p><p style="text-align: left;">他表示：“我们真的觉得，使用Mac的人体工程学是，你的手放在一个表面上，抬起你的手臂去戳屏幕是一件相当疲劳的事情”。无论Touch Bar是否恢复，以这种方式扩展MacBook的显示屏将符合苹果的人体工程学要求，即不要抬起手臂触摸屏幕，同时为触摸输入提供一个新的位置。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0224/701aebc92beae7d.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">在这种情况下，20 英寸的显示屏尺寸可能更有说服力，有可能提供一个更大的MacBook Pro，位于产品线中16英寸机型之上，类似于该公司在2006年至2011年期间提供的17英寸MacBook Pro。</p><p style="text-align: left;"><strong>● 只是折叠的 iPad Pro</strong></p><p style="text-align: left;">虽然 Young 将该设备描述为“可折叠笔记本”，但如果它是一款全屏设备，它实际上有可能是一款可折叠的 iPad Pro。毕竟，运行 macOS 的基于触摸的全屏笔记本可能会影响 iPad Pro 的发展，所以运行 iPadOS 的设备可能更有意义。</p><p style="text-align: left;">这种想法似乎也与苹果目前的前景一致。去年，当被问及触摸屏 Mac 时，苹果公司硬件工程高级副总裁约翰·特努斯（John Ternus）提到了iPad。他说：“我们在 iPad 上制造了世界上最好的触摸电脑。它完全为此进行了优化。而 Mac 则完全为间接输入而优化。我们并不觉得有什么理由要改变这一点”。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0224/f59fceab07f8b24.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">在过去也有不少关于苹果正在开发可折叠 iPad Pro 的传闻，因此苹果如果最终推出这样一款产品我们并不会感到意外。</p><p style="text-align: left;">值得注意的是，这一实施方案也可能与更大的 iPad Pro 的传言相一致。去年夏天，彭博社的马克·古尔曼(Mark Gurman)表示，苹果正在研发更大的 iPad 型号，可以进一步“模糊”平板电脑和笔记本电脑之间的界限。</p><p style="text-align: left;">他表示：“我被告知，苹果公司的工程师和设计师正在探索更大的iPad，最早可能在几年后上市。明年不太可能出现这种产品--苹果将注意力放在2022年重新设计的现有尺寸的iPad Pro上，而且有可能根本就不会出现。但是，对于包括我在内的许多人来说，大型iPad将是完<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mideajiadian.jd.com/" target="_blank">美的</a>设备，并将继续模糊平板电脑和笔记本电脑之间的界限”。</p>   
+</div>
+            
