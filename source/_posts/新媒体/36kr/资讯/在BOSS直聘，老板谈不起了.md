@@ -22,7 +22,7 @@ thumbnail: 'https://img.36krcdn.com/20220225/v2_14bd2eabab064436b3f669229c77243b
 <p>2014年，这位大龄创业者再次重操旧业，创建了一款大家耳熟能详的APP“BOSS<a class="project-link" data-id="4259666" data-name="直聘" data-logo="https://img.36krcdn.com/20210625/v2_7e9470e4787e4d49aced2c2a379fb50a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4880700102" target="_blank">直聘</a>”。</p> 
 <p>仅仅1年时间，BOSS直聘用户规模突破100万，2年后进入“2017年创新企业50强”。</p> 
 <p>随着，“找工作上BOSS直聘跟老板谈”的广告语在奥运会与电梯广告上的投放成功，BOSS直聘也成为了现在职场人员找工作的必备软件。</p> 
-<p>从此，BOSS直聘这位低调的创始人“张鹏”也进入<a class="project-link" data-id="507995" data-name="大家视野" data-logo="https://img.36krcdn.com/20210813/v2_75a0ba2f2ce74428beda8ca1d7137b2c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/507995" target="_blank">大家视野</a>。</p> 
+<p>从此，BOSS直聘这位低调的创始人“赵鹏”也进入<a class="project-link" data-id="507995" data-name="大家视野" data-logo="https://img.36krcdn.com/20210813/v2_75a0ba2f2ce74428beda8ca1d7137b2c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/507995" target="_blank">大家视野</a>。</p> 
 <p>只是，“找工作跟老板谈！”这句广告语是真的吗？我们在体验中发现，老板可能和你谈不起了。</p> 
 <h2><strong>在BOSS直聘，老板谈不起了</strong></h2> 
 <p>“BOSS直聘太贵了，所有功能都要钱，这让我们这种小企业怎么活？”</p> 
@@ -94,7 +94,7 @@ thumbnail: 'https://img.36krcdn.com/20220225/v2_14bd2eabab064436b3f669229c77243b
 <p>王欢还在微博爆料中说道，“自己去年还在网上看到新闻，说网上有人找工作被忽悠交了1.98万元，当时还在想怎么会有人这么傻，但现在他才发现自己也很傻，自己在BOSS直聘找的公司连工资都不发”。</p> 
 <p class="image-wrapper"><img data-img-size-val="550,279" src="https://img.36krcdn.com/20220225/v2_76ca9edc702c4176aa07262b88f86059_img_000" referrerpolicy="no-referrer"></p> 
 <p>甚至，<a class="project-link" data-id="41182" data-name="脉脉" data-logo="https://img.36krcdn.com/20220120/v2_8e726d50eca04fcf86b7c1fdd8efdeb3_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4777201132?mp=zzquote" target="_blank">脉脉</a>ceo林凡也在朋友圈嘲讽BOSS直聘道“到了互联网时代，招聘行业依然采用直接招和直接谈，依然处于王婆卖瓜，自卖自夸的阶段”。</p> 
-<p>不知何时，BOSS直聘再也喊不出那句“找工作，跟老板谈”。层出不穷的虚假招聘事件对业务形成的打击，或许也让张鹏失去了那句“我要跟老板谈”的底气。</p> 
+<p>不知何时，BOSS直聘再也喊不出那句“找工作，跟老板谈”。层出不穷的虚假招聘事件对业务形成的打击，或许也让赵鹏失去了那句“我要跟老板谈”的底气。</p> 
 <p>BOSS直聘，现在没有了BOSS，只剩下直聘。</p> 
 <h2><strong>暂停用户注册后，反倒赚钱了</strong></h2> 
 <p>2021年7月5日，BOSS直聘被<a class="project-link" data-id="423611" data-name="启动网" data-logo="https://img.36krcdn.com/20210812/v2_81be8712957342148c154b1819d414c0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/423611" target="_blank">启动网</a>络安全审查，在审核期间，“BOSS直聘”APP已被要求暂停中国境内新用户注册。</p> 
@@ -117,7 +117,7 @@ thumbnail: 'https://img.36krcdn.com/20220225/v2_14bd2eabab064436b3f669229c77243b
 <p>相比之下，BOSS直聘的营收模式只有招聘，仅靠求职者业务难免势单力薄，盈利来源并未实现多个业务盈利。</p> 
 <h2><strong>写在最后</strong></h2> 
 <p>“你有价值，这个世界就会打赏你”。</p> 
-<p>这是BOSS直聘CEO张鹏在电话会议中所说。</p> 
+<p>这是BOSS直聘CEO赵鹏在电话会议中所说。</p> 
 <p>只是，价值再高、用户再多的软件，也抵不过公司因噎废食的商业变现。</p> 
 <p>任何软件再有价值也只是单次价值，疯狂收割用户的招聘软件必定被用户所抛弃，最终出现新的招聘APP。</p> 
 <p>在奇偶派的体验中，我们发现，曾经那个中小公司和普通用户都爱使用的BOSS直聘不见了，它变成了又一家面貌相似的在线招聘网站。</p> 
