@@ -1,0 +1,19 @@
+
+---
+title: 'Article'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3d4f1c83-4ea3-4b14-8cba-5b03c0184b6b&size=gallery'
+author: Mind42
+comments: false
+date: 2022-02-25 09:09:36
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3d4f1c83-4ea3-4b14-8cba-5b03c0184b6b&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=3d4f1c83-4ea3-4b14-8cba-5b03c0184b6b&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
