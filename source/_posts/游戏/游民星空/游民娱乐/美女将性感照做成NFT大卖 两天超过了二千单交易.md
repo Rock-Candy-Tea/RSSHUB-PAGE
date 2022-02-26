@@ -5,21 +5,20 @@ categories:
  - 游戏
  - 游民星空
  - 游民娱乐
-headimg: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image001_S.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image002_S.jpg'
 author: 游民星空
 comments: false
 date: Wed, 23 Feb 2022 23:45:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image001_S.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image002_S.jpg'
 ---
 
 <div>   
 <p>最近NFT (非同质代币)
 在网络盛行，甚至有不少人已经凭借超前的意识赚到了第一桶金。此前印尼青年Ghozali将每天的自拍制成NFT而大卖。近日一位新加坡美女KOL——Irene
 Zhao将自己的性感照制成NTF在OpenSea上出售。</p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image001.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image001_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image002.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image002_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p>今年28岁的Irene
-Zhao来自新加坡，看似是一位网红模特，也经常在自己的社交网络上晒出美照。但是平时的她却是一位金融顾问，还在早前有从事金融和加密货币的经验，更是投身过区块链。</p>
+Zhao来自新加坡，看似是一位网红模特，也经常在自己的社交网络上晒出美照。但是平时的她却是一位金融顾问，还在早前有从事金融和货币的经验，更是投身过不少网络事业。</p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image004.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image004_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p>最近她将自己的性感照制成1106份名为IreneDAO的NFT，并上传到OpenSea发售，短短两天就超过了二千单交易，价值更是翻了10倍多。</p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image005.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image005_S.jpg" referrerpolicy="no-referrer"></a></p>
@@ -32,7 +31,6 @@ Zhao这个做法就是一个社会实验，其目的是为了她正在构建的�
 <p>尽管不少网友对于IreneDAO提出的概念有所保留，但是加密货币公司Galaxy Digital的CEO Mike
 Novogratz早前就表示对她的理念很感兴趣，并暗示自己已经入手了IreneDAO。不过目前Irene
 Zhao的NFT美照价值已经有所回落，而未来她的发展又将何去何从呢？</p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image013.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image013_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image014.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image014_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center">
       
@@ -47,7 +45,6 @@ Zhao的NFT美照价值已经有所回落，而未来她的发展又将何去何�
                     
             <p></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image015.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image015_S.jpg" referrerpolicy="no-referrer"></a></p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image016.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image016_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image017.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image017_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image018.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image018_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image019.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image019_S.jpg" referrerpolicy="no-referrer"></a></p>
@@ -68,7 +65,6 @@ Zhao的NFT美照价值已经有所回落，而未来她的发展又将何去何�
             <p></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image023.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image023_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image024.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image024_S.jpg" referrerpolicy="no-referrer"></a></p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image025.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image025_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image026.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image026_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image027.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image027_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image028.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image028_S.jpg" referrerpolicy="no-referrer"></a></p>
@@ -85,7 +81,6 @@ Zhao的NFT美照价值已经有所回落，而未来她的发展又将何去何�
 -->
                     
             <p></p>
-<p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image030.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image030_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image031.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image031_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image032.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image032_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a href="http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image033.jpg" target="_blank"><img class="picact" border="0" alt="游民星空" src="https://cors.zfour.workers.dev/?http://img1.gamersky.com/image2022/02/20220223_zy_red_164_7/image033_S.jpg" referrerpolicy="no-referrer"></a></p>
