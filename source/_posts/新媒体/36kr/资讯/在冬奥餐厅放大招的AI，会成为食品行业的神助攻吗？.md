@@ -193,6 +193,6 @@ thumbnail: 'https://img.36krcdn.com/20220226/v2_b9e97bf8644945c8ac42740b9f51be3b
 <p>[5] 越来越多的酿酒商要用人工智能酿酒，求酿酒师心理阴影面积？啤酒日报，2017年8月</p> 
 <p>[6] 如何从「深坑」中趟出一条工业AI之路？| 深度，机器之造，2020年3月</p> 
 <p> </p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzA3ODEzMjg5Mg==&mid=2652087184&idx=1&sn=75cfd45b6c2bc9e3b125988b2bad0ff6&chksm=84a06063b3d7e97561d352edd6d3fd4487386739a6f3d280d0dce653b8860ef0362c2c3c5611#rd">“FBIF食品饮料创新”（ID：FoodInnovation）</a>，作者：FBIF，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA3ODEzMjg5Mg==&mid=2652087184&idx=1&sn=75cfd45b6c2bc9e3b125988b2bad0ff6&chksm=84a06063b3d7e97561d352edd6d3fd4487386739a6f3d280d0dce653b8860ef0362c2c3c5611#rd">“FBIF食品饮料创新”（ID：FoodInnovation）</a>，作者：FBIF，36氪经授权发布。</p>  
 </div>
             
