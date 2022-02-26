@@ -1,0 +1,18 @@
+
+---
+title: '养一只很丑的布偶猫是种什么样的体验？-Ava的回答：_图片_ _图片_ _图片_ _图片_ _图片_ _图片_ _图片_ 养只丑猫什么感觉呢！应该是他两个月的时候对他满满的期...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-173533fbfd48f62d6b5cfef187136460_1440w.jpg'
+author: 知乎
+comments: false
+date: Sat, 26 Feb 2022 01:51:39 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-173533fbfd48f62d6b5cfef187136460_1440w.jpg'
+---
+
+<div>   
+<strong>养一只很丑的布偶猫是种什么样的体验？</strong><br>Ava的回答<br><p></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-173533fbfd48f62d6b5cfef187136460_1440w.jpg" data-rawwidth="3088" data-rawheight="2320" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-4fd8a25afa98f8aeb19118eea17d6496_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-173533fbfd48f62d6b5cfef187136460_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-3a6da58b844052c582271f391add4986_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-6cfbff69f9687ed76701a92f2c3ff1e0_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-3a6da58b844052c582271f391add4986_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-5bb27f412b0a954fb423aefad7b6652f_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-57b54d770bea65ac589089977e4dd436_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-5bb27f412b0a954fb423aefad7b6652f_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-08996af21c421a7e9b402926ecca3ddc_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-b4b5d81056e529a898ad25499b269243_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-08996af21c421a7e9b402926ecca3ddc_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1185bb98e7c7125e80ac71fde09eae4e_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-d39ef584308350519c72a8809df6f6a8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1185bb98e7c7125e80ac71fde09eae4e_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e89520e424f229e54df983fe4089a34f_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-a594227f36510aec1dd77806f97d11a7_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e89520e424f229e54df983fe4089a34f_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-629de4dd1ea69c3935e753ae2d2b1884_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-1d2a8a7fbebe6540fcd370016f369b01_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-629de4dd1ea69c3935e753ae2d2b1884_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="RaMF_UIk">养只丑猫什么感觉呢！应该是他两个月的时候对他满满的期待，在网络上查找他未来的样子！不断在脑子里构画他仙气飘飘，帅气十足的脸！到现在正好5个月，嗯就就这样拉倒吧！活着就好挺无奈的。</p>  
+</div>
+            
