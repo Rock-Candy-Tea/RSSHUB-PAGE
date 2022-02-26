@@ -32,7 +32,7 @@ Keighley去年12月拒绝表明立场而饱受批评之后，大型颁奖典礼�
 Miele就毫不掩饰地表示：“达不到基本标准的领导者必须离开。”但像Miller这样直接点名的还真没有，尤其是在这样一个公共平台上。
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwNTI0ODI0OA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTIwNTI0ODI0OA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">
