@@ -26,35 +26,31 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220226/1645864846_6279
 <strong>评价截图：</strong>
 </p>
 <p align="center">
-<strong>
-</strong></p><p><strong>
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_855232.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
-</strong></p><strong>
-<p>
+</p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_375853.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_526485.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_320869.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_974989.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_546522.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_215913.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_801264.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
 </p>
-<p>
+<p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220226/1645864864_291869.jpg" alt="《刀剑封魔录》现已发售 Steam综合评价“多半好评”" referrerpolicy="no-referrer">
-</p>
-</strong>
-<p></p>          
+</p>          
 </div>
             
