@@ -93,6 +93,6 @@ thumbnail: 'https://img.36krcdn.com/20220226/v2_b7a6929f9f4c461abc1e64b5039ddccb
 <p> </p> 
 <p>*题图及部分文内配图来源于视觉中国。 </p> 
 <p>*文中陈辉、李想为化名 </p> 
-<p>*免责声明：在任何情况下，本文中的信息或所表述的意见，均不构成对任何人的投资建议。本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzUyNzcxNTgxOQ==&mid=2247558732&idx=2&sn=80a5dc53e87df216a560f1aec4a3f94e&chksm=fa78fac8cd0f73defc97a8a5e3a4b9033144e5871d4c39ce75574b582ac10c4333949f6b68c0#rd">“燃次元”（ID：chaintruth）</a>，作者：燃财经工作室，36氪经授权发布。</p>  
+<p>*免责声明：在任何情况下，本文中的信息或所表述的意见，均不构成对任何人的投资建议。本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzUyNzcxNTgxOQ==&mid=2247558732&idx=2&sn=80a5dc53e87df216a560f1aec4a3f94e&chksm=fa78fac8cd0f73defc97a8a5e3a4b9033144e5871d4c39ce75574b582ac10c4333949f6b68c0#rd">“燃次元”（ID：chaintruth）</a>，作者：燃财经工作室，36氪经授权发布。</p>  
 </div>
             
