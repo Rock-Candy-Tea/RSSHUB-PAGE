@@ -64,7 +64,7 @@ thumbnail: 'https://img.36krcdn.com/20220227/v2_4de5be668cc64992a530b74b189be6c5
 <p class="img-desc">图源官方</p> 
 <p>香菜口味当然是个噱头，天然具备话题性和讨论度，包括此前麦当劳在限定地区推出的油泼辣子冰淇淋，都是意在完成吸引消费者打卡晒图、参与讨论话题的营销目的。</p> 
 <p>事实上，去年2月麦当劳中国就宣布推出“会员创异菜单”，即通过创意食材搭配打造限定新品，除了各种口味的新地，还有年糕麦旋风等混搭尝试，结合产品上新打造周期性的营销话题点。</p> 
-<p>延伸阅读：<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzkzNjI2ODk4MA==&mid=2247484832&idx=1&sn=2aa082497913abcab13efc50d60ae63c&chksm=c2a0007bf5d7896ddbbd5abf1afcecb6b2807b3605356dc8ff377a2ae1ff155b2cf8ea3f386d&scene=21#wechat_redirect">「香菜」流量进了谁的口袋？｜营销观察</a></p> 
+<p>延伸阅读：<a target="_blank" rel="noopener noreferrer" href="http://mp.weixin.qq.com/s?__biz=MzkzNjI2ODk4MA==&mid=2247484832&idx=1&sn=2aa082497913abcab13efc50d60ae63c&chksm=c2a0007bf5d7896ddbbd5abf1afcecb6b2807b3605356dc8ff377a2ae1ff155b2cf8ea3f386d&scene=21#wechat_redirect">「香菜」流量进了谁的口袋？｜营销观察</a></p> 
 <h2><strong>06. 科颜氏邀请「天才小熊猫」打造脑洞广告</strong></h2> 
 <p>年更博主「天才小熊猫」因其创作的视频个人风格突出、剧情走向出人意料同时又诙谐幽默，时常刷屏朋友圈，虽然更新频率低，仍拥有近千万粉丝，被网友戏称为博主中的“年更天花板”。</p> 
 <p>情人节期间，<a class="project-link" data-id="3969304" data-name="科颜氏" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969304" target="_blank">科颜氏</a>合作天才小熊猫打造了一支脑洞视频《千万不要自己帮孩子剪头发》，延续其过往搞笑无厘头但又真实的风格，把科颜氏白泥清洁面膜的「清洁」能力作为<a class="project-link" data-id="3969340" data-name="一条" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969340" target="_blank">一条</a>承接剧情的线索，穿插进了爸爸与儿子的生活故事中。</p> 
