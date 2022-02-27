@@ -32,6 +32,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/iPh
 <p>Counterpoint last month reported that <a href="https://9to5mac.com/2022/01/31/european-smartphone-market-2021/" target="_blank" rel="noreferrer noopener">Apple overtook Samsung in Europe</a> to hit its highest ever market share in the region. While the average growth in the European smartphone market was 8%, Apple enjoyed a massive 25% rise in its share.</p>
 <p><em>Photo: <a href="https://unsplash.com/@phuckhangmobile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phúc Khang Mobile</a>/<a href="https://unsplash.com/s/photos/iphone-13?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
