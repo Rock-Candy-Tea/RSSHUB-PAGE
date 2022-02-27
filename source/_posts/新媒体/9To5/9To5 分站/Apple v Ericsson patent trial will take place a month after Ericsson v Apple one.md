@@ -31,7 +31,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/App
 <p>Naturally, Apple in turn wants an import ban on Ericsson base stations, and it seems likely to at least succeed in getting a corresponding ITC investigation opened.</p>
 <p>All-in-all, things are getting messier.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
