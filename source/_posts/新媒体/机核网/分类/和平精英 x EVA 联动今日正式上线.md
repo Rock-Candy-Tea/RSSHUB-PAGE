@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/24c24963-940b-41f9-b06f-d5f0627e31fb.jpg'
 author: 机核网
 comments: false
-date: 2022-02-27 00:35:30
+date: 2022-02-27 01:59:11
 thumbnail: 'https://image.gcores.com/24c24963-940b-41f9-b06f-d5f0627e31fb.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/24c24963-940b-41f9-b06f-d5f0627e31fb.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-f0g1" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="f0g1" data-offset-key="9fve4-0-0"><div data-offset-key="9fve4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9fve4-0-0"><span data-text="true">和平精英 x EVA 联动今日正式上线，熟悉的初号机、绫波丽、明日香等角色皮肤也同步在和平精英上线，这五个驾驶员三套机甲，大家感觉整体还原度如何？ </span></span></div></div>
+<img src="https://image.gcores.com/24c24963-940b-41f9-b06f-d5f0627e31fb.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-3fv3e" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="3fv3e" data-offset-key="9fve4-0-0"><div data-offset-key="9fve4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9fve4-0-0"><span data-text="true">和平精英 x EVA 联动今日正式上线，熟悉的初号机、绫波丽、明日香等角色皮肤也同步在和平精英上线，这五个驾驶员三套机甲，大家感觉整体还原度如何？ </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/a0e8604f-d0fe-4ea8-bf1e-57f2760d2879.jpg" alt referrerpolicy="no-referrer">
 
@@ -102,6 +102,6 @@ thumbnail: 'https://image.gcores.com/24c24963-940b-41f9-b06f-d5f0627e31fb.jpg'
 <img src="https://image.gcores.com/890023b0-e6fc-4a25-a841-82744d710b87.gif" alt referrerpolicy="no-referrer">
 <figcaption> (4/4) </figcaption>
 </figure>
-            <div class="story_block-spoiler d-none" data-block="true" data-editor="f0g1" data-offset-key="1knp6-0-0"><div data-offset-key="1knp6-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1knp6-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block-spoiler d-none" data-block="true" data-editor="3fv3e" data-offset-key="1knp6-0-0"><div data-offset-key="1knp6-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1knp6-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             
