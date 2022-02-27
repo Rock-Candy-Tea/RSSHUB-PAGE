@@ -1,0 +1,19 @@
+
+---
+title: '上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +_中国结_LED 尾灯'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/2/e03244bd-63ae-406a-8eac-5d8fe7deef6a.png'
+author: IT 之家
+comments: false
+date: Sun, 27 Feb 2022 03:22:06 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/2/e03244bd-63ae-406a-8eac-5d8fe7deef6a.png'
+---
+
+<div>   
+<p data-vmark="388e"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 2 月 27 日消息，比亚迪官方现已发布超混旗舰汉 DM-i、汉 DM-p 的最新预告图，<span class="accentTextColor">确认新车采用 19 英寸五辐式高性能轮毂与 Nappa 真皮一体式运动座椅</span>。</p><p data-vmark="2e8f" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/e03244bd-63ae-406a-8eac-5d8fe7deef6a.png" w="1080" h="1845" alt="比亚迪汉 DM-i、DM-p 预告图" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1080" height="1401" referrerpolicy="no-referrer"></p><p data-vmark="51a0" style="text-align: center;">▲ 比亚迪汉 DM-i、DM-p 预告图 | 图源：比亚迪汽车</p><p data-vmark="d81d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/35107abb-8917-48f1-b454-bff4213ace1a.png" w="1080" h="1876" alt="比亚迪汉 DM-i、DM-p 预告图" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1080" height="1424" referrerpolicy="no-referrer"></p><p data-vmark="aeb7">官方海报显示，比亚迪汉 DM-i、DM-p 即将开启预售，并<span class="accentTextColor">采用 Dragon Face 运动前脸与贯穿式“中国结”LED 尾灯</span>。</p><p data-vmark="8436" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/20696fb9-e640-4597-8165-2b209a9d054f.png" w="1080" h="1178" alt="比亚迪汉 DM-i、DM-p 预告图" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1080" height="894" referrerpolicy="no-referrer"></p><p data-vmark="0834" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/a1f97f7b-ff26-4e14-bf87-de39e87b0733.png" w="1080" h="1172" alt="比亚迪汉 DM-i、DM-p 预告图" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1080" height="890" referrerpolicy="no-referrer"></p><p data-vmark="a490">从工信部申报信息来看，汉 DM-i 动力上将会搭载骁云全新 1.5T 发动机 + EHS145 混动系统的组合，最低申报油耗仅为 0.8L / 100km；车辆的长宽高分别为 4960/1910/1495mm，轴距 2920mm。</p><p data-vmark="c5d4" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/399368df-1158-432c-a6ae-0e6b8a70b9ad.jpg@s_2,w_820,h_175" w="1080" h="231" alt="工信部申报信息" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1080" height="175" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="588b"><img src="https://img.ithome.com/newsuploadfiles/2022/1/3889fc03-9fb7-4dba-9caa-1aa0dc1e2271.jpg@s_2,w_820,h_457" alt="比亚迪汉 DM-i" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="c594">▲ 比亚迪汉 DM-i</p><p style="text-align: center;" data-vmark="73e5"><img src="https://img.ithome.com/newsuploadfiles/2022/2/7f3f4c8f-d6ec-4914-9308-2dc241326da8.jpg@s_2,w_820,h_469" alt="图片" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" referrerpolicy="no-referrer"></p><p data-vmark="eb86">此外，比亚迪预计还会为新款汉 DM-i 提供 18.3kwh 和 37.6kwh 两个容量的电池包，让新车的纯电续航里程达到 121km、202km 和 242km。</p><p data-vmark="ed92" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/2/65b12bd6-8d60-428a-be78-59965e479865.jpg@s_2,w_820,h_162" w="1440" h="285" alt="工信部申报信息" title="上市在即，比亚迪汉 DM-i、DM-p 确认采用 19 英寸五辐式轮毂 +“中国结”LED 尾灯" width="1440" height="162" referrerpolicy="no-referrer"></p><p data-vmark="6149">IT之家了解到，销量数据显示，2022 年 1 月，比亚迪汉车型销量达 12780 辆，连续 5 个月破万。其中，汉 EV 销量为 10050 辆，连续 3 个月破万；汉 DM 销量为 2730 辆。比亚迪汉车型上市以来累计销量突破 17 万辆。</p>
+          
+</div>
+            
