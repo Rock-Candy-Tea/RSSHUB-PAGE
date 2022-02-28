@@ -24,7 +24,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/app
 <p><cite>Munger in an exclusive interview with Yahoo Finance</cite></p></blockquote>
 <p>Munger’s interview comes as rumors are heating up about potential new products we’ll see this year. An Apple event is <a href="https://9to5mac.com/2022/02/04/apple-march-8-event-iphone-se-new-mac-ipad-air/">expected in March</a> where we could possibly see a new <a href="https://9to5mac.com/2022/02/05/5g-iphone-se-3-everything-we-know/">iPhone SE</a>, an <a href="https://9to5mac.com/2022/02/14/ipad-air-5-roundup/">iPad Air 5</a>, and <a href="https://9to5mac.com/2022/02/14/apple-registers-three-new-macs-in-eurasian-database-ahead-of-rumored-march-event/">three new Macs</a>. There’s a lot speculating to arrive in coming months and we’re on our toes waiting for announcements. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

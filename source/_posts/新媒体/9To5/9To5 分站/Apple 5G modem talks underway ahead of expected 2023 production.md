@@ -32,7 +32,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/App
 <p>Apple has already dropped <a href="https://9to5mac.com/guides/samsung/" target="_blank" rel="noreferrer noopener">Samsung</a> in favor of <a href="https://9to5mac.com/2022/02/22/report-iphone-14-could-feature-improved-battery-life-as-apple-ditches-samsung-for-new-tsmc-5g-chips/" target="_blank" rel="noreferrer noopener">TSMC 5G chips</a> for some <a href="https://9to5mac.com/guides/iphone-14/" target="_blank" rel="noreferrer noopener">iPhone 14</a> models, but use of its own design will likely follow a year or two later.</p>
 <p><em>Photo: <a href="https://unsplash.com/@frederikli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Frederik Lipfert</a>/<a href="https://unsplash.com/s/photos/5g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
