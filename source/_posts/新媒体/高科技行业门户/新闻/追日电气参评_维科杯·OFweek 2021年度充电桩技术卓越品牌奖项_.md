@@ -1,0 +1,19 @@
+
+---
+title: '追日电气参评_维科杯·OFweek 2021年度充电桩技术卓越品牌奖项_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/28/qinwen/1646033172008093257.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 28 Feb 2022 07:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/28/qinwen/1646033172008093257.png'
+---
+
+<div>   
+<p style="white-space: normal; text-indent: 2em;"><strong>评选简介</strong></p><p style="white-space: normal; text-indent: 2em;">维科杯· OFweek 2021<span class="hrefStyle"><a href="https://libattery.ofweek.com/" target="_blank" title="锂电">锂电</a></span>行业优秀企业评选由中国高科技行业门户维科网主办、维科网锂电承办，是锂电行业最重要的评选活动之一。</p><p style="white-space: normal; text-indent: 2em;">OFweek携手行业协会及权威专家将对2021年锂电行业优秀企业进行评选与表彰。活动旨在表彰锂电行业具有突出贡献的优秀产品、技术及企业，鼓励更多企业投入技术创新，同时为行业输送更多创新产品、前沿技术，以提高生产力、经济效益，给用户提供更大便利，引导行业良性快速发展。</p><p style="white-space: normal; text-indent: 2em;">活动以公正、客观的评选流程备受业界广泛关注，已成为中国高科技领域最具专业性、影响力和代表性的行业评选！</p><p style="white-space: normal; text-indent: 2em;">本次颁奖典礼将于2022年5月在深圳隆重举行，活动将邀请高端科技类、财经类大众媒体以及新能源行业专业媒体参与，同时全程全网直播，从线上到线下打造营销互动交流平台，提升获奖企业的品牌知名度及影响力！</p><p style="white-space: normal; text-indent: 2em;"><strong>参评企业</strong></p><p style="white-space: normal; text-indent: 2em;">湖北追日电气股份有限公司（简称“追日电气”）参评维科杯·OFweek 2021年度<span class="hrefStyle"><a href="https://nev.ofweek.com/KW-qichechongdian.html" target="_blank" title="充电">充电</a></span>桩技术卓越品牌奖项。</p><p style="white-space: normal; text-indent: 2em;"><strong>参评理由</strong></p><p style="white-space: normal; text-indent: 2em;">追日电气参评奖项：维科杯·OFweek 2021年度充电桩技术卓越品牌。</p><p style="white-space: normal; text-indent: 2em;">追日电气拥有齐全的充电技术产品链，20余项充电产品通过CE等国际权威机构的检测、认证，在充电速度、充电效率、安全性、兼容性等方面始终保持国内领先，被列入国家火炬计划产业化示范项目。追日电气已在国内建设了600多座<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E7%AB%99.HTM" target="_blank" title="充电站">充电站</a></span>，覆盖200多个城市，成为70多家新能源车企信赖的合作伙伴，曾两度中标、承建国家重点标志性工程北京大兴国际机场飞行区快充站项目及“光储充”系统，赢得了市场的广泛认可。</p><p style="white-space: normal; text-indent: 2em;">2021年追日电气持续推进优化营销转型，在机场、工程机械、<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E5%95%86%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="商用车">商用车</a></span>企配套、海外公交场站等细分领域建立了领先优势，成功签订柳工、国机集团、中联重科等多个工程机械龙头企业配套订单，大功率充电机助力北京冬奥实现“绿色通勤”。2021年，追日电气的充电产品还成功应用于芬兰、瑞典、丹麦、以色列、阿联酋、智利等国，应用国家突破70个，是目前覆盖全球国家最多的中国桩企之一，“充”向了世界前列。</p><p style="white-space: normal; text-indent: 2em;"><strong>关于追日电气</strong></p><p style="white-space: normal; text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/28/qinwen/1646033172008093257.png" alt title referrerpolicy="no-referrer"></p><p style="white-space: normal; text-indent: 2em;">追日电气为国家火炬计划重点高新技术企业，承担了10余项国家火炬计划产业化项目、国家重点新产品等国家级项目。作为最早致力于<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>充电科技创新企业之一，追日电气自主开发出全系列充电产品以及“追日云”充电运营管理平台，为客户提供优化的充电系统解决方案及充电站“一站式”服务，产品销售及项目开发覆盖全球70多个国家，惠及十多亿人“绿色出行”。追日电气正竭力利用拥有的专业能力，助力“碳中和”目标早日实现。</p><p style="white-space: normal; text-indent: 2em;"><strong>企业参评报名</strong></p><p style="white-space: normal; text-indent: 2em;">方式1：请致电 19925234597 或发送电子邮件至yiguandi@ofweek.com索取报名表</p><p style="white-space: normal; text-indent: 2em;">方式2：扫描下图二维码在线报名</p><p style="white-space: normal; text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-02/28/qinwen/1646033185964093697.png" alt title referrerpolicy="no-referrer"></p> 
+  
+</div>
+            
