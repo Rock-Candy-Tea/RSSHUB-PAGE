@@ -34,7 +34,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/fol
 <p>More interesting than the foldable iPhone delay, however, is Young’s claim that Apple is working on a 20-inch foldable MacBook product of some sort. Details here are a bit sparse, but it sounds like an incredibly intriguing product — regardless of whatever form factor it ultimately ships with. </p>
 <p>Personally, I find the idea of a foldable MacBook or iPad much more intriguing than a foldable smartphone. What about you? Let us know down in the comments. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
