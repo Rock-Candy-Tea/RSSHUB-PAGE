@@ -51,6 +51,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Tim
 <p>You can read the <a href="https://www.prophet.com/relevantbrands-2022/" target="_blank" rel="noreferrer noopener">full findings here</a>.</p>
 <p>Do you agree with the survey? Do you think Apple is the most relevant brand?</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

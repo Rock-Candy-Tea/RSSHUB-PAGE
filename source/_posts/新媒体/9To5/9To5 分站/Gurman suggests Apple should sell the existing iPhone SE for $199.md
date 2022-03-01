@@ -34,6 +34,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/ab-
 <p>Could I see Apple do this? Maybe. Definitely not in developed markets, and probably not officially, through online or offline Apple Stores. But quietly via third-party resellers in developing countries? Not impossible, in my view. Let us know your thoughts in the comments.</p>
 <p><em>Photo: <a href="https://unsplash.com/@applefanboy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">AB</a>/<a href="https://unsplash.com/s/photos/iphone-se-2020?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             
