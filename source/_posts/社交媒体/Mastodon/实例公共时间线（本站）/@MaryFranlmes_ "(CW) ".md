@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/042/704/836/original/d0a0dea85759c510.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/042/705/559/original/dd620c746ab65e15.jpg'
 author: Mastodon
 comments: false
-date: Tue, 01 Mar 2022 06:03:38 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/042/704/836/original/d0a0dea85759c510.jpeg'
+date: Tue, 01 Mar 2022 06:56:01 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/042/705/559/original/dd620c746ab65e15.jpg'
 ---
 
 <div>   
-<hr><p>之前琢磨塑料小人都摆满格子了怎么还没到结局，于是它.....开辟了另一个格子，只能说是大意了，照这样估计床后面一整面墙都是拿来摆塑料小人的......</p><br><img src="https://img.pawoo.net/media_attachments/files/042/704/836/original/d0a0dea85759c510.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>看到了冥滩里第二次的坦克的模型，腐肉和锈蚀机械纠缠的样子很棒</p><br><img src="https://img.pawoo.net/media_attachments/files/042/705/559/original/dd620c746ab65e15.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
