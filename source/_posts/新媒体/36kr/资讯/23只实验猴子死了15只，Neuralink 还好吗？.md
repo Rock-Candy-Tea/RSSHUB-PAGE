@@ -1,0 +1,93 @@
+
+---
+title: '23只实验猴子死了15只，Neuralink 还好吗？'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220301/v2_5190b967997a4dceaa267c4a1bbb2354_img_000'
+author: 36kr
+comments: false
+date: Tue, 01 Mar 2022 04:54:46 GMT
+thumbnail: 'https://img.36krcdn.com/20220301/v2_5190b967997a4dceaa267c4a1bbb2354_img_000'
+---
+
+<div>   
+<p>最近，马斯克的 Neuralink 公司又卷入了麻烦之中。</p> 
+<p><strong>一家名为 PCRM 的非营利机构指控 Neuralink 公司虐待动物：</strong>整个脑机接口实验项目共涉及23只实验猴子，其中15只已经死亡。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_5190b967997a4dceaa267c4a1bbb2354_img_000" referrerpolicy="no-referrer"></p> 
+<p>Neuralink 由科技大佬伊隆·马斯克出资创办，可以说以一己之力开创了脑机接口的风潮，是该领域最知名、技术最领先的公司。之前，Neuralink 培育了一只能够“脑控”玩简单电脑游戏的猴子 "Pager"，震惊了全世界。该公司的终极目标是让人也能植入脑机接口，甚至每个人都能拥有自己的脑机接口。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_a1d1070476a6473c98349137781ecaa3_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">截图来源：Neuralink</p> 
+<p>正当很多人为了视频展现出来的美好前景而激动时，没想到，不久消息就被捅出来，23实验猴子中已经有15只死亡，Neuralink公司本身也反而因为动物虐待而上了头条。</p> 
+<p>让我们来深入 Neuralink 实验室，看看到底发生了什么。</p> 
+<h2><strong>01百万美金实验室，被指动物虐待“集中营”</strong></h2> 
+<p>Neuralink 在创立初期拿着马斯克的一亿美元投资，着手修建自己的动物培育基地，同时为了不影响研究进度，先和第三方动物培育研究机构展开合作。加州大学戴维斯分校 (UC Davis) 就是 Neuralink 的合作对象之一。这里的灵长类动物研究中心是美国西海岸研究环境最好的机构之一。</p> 
+<p>Neuralink 给了 UC Davis 140万美元，包下了一个实验室和配套设施，专门用来做脑机接口试验。双方的合作从2017年开始，持续到2020年 Neuralink 自营实验室修建完毕。</p> 
+<p>由于涉及私营公司，相关的实验记录本来是可以不公开的。不过正因为 UC Davis 属于纳税者资助的公校，被 PCRM “钻了空子”，迫使其公开了超过600页的实验记录……</p> 
+<p><strong>这些记录似乎指出，Neuralink 的脑机接口实验室，成了动物虐待和动物看管疏忽行为的重灾区。</strong></p> 
+<p>“由于接受了高度侵入性的脑部设备植入，以及没有<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>适当的动物护理，许多（甚至可能是所有）的猴子都经历了极大的痛苦，”PCRM 在提交给农业部的文件中写道，</p> 
+<p><strong>“为了开发 Neuralink 和马斯克所谓的‘脑机接口’，实验人员在动物的头骨上钻孔并安装了高度侵入性的植入式设备。这些设备和相关操作在动物身上产生了反复的感染，损害了动物的健康，并且影响了整个研究的正义性。”</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_7a537abede154870859366d897873294_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">图片来源：Jeff Miller/University of Wisconsin-Madison</p> 
+<p>Neuralink 和 UC Davis 方面提供的记录中，描述了该项目下多只实验用途的猕猴，经历了各种非人的待遇（具体描述太过于血腥刺激，这里我们就只举几个例子）：</p> 
+<p>有的实验猴子在生命周期里接受了多次接口植入/取出手术，造成了大脑组织和功能性损伤；而为了对抗术后感染，研究人员使用了过量的抗生素（注：抗生素过量使用在动物看护领域属于典型的疏忽行为）；</p> 
+<p>有一次植入手术期间，UC Davis 的主刀医师使用了致死剂量的生物复合粘合剂，却没有在手术记录中有所体现；后来的验尸报告显示，猴子脑部表面残留大量的粘合剂；</p> 
+<p>有一只猴子（5号）从 UC Davis 运送至 Neuralink 自营实验室后，被频繁更换笼子（属于已知的精神压力来源），导致了明显的体重降低现象；在 Neuralink 实验室期间，研究人员还曾错误地对其使用药物；</p> 
+<p>有的猴子因为每天被绑住做实验长达五个小时，产生了严重的心理创伤，甚至出现了自残的现象；</p> 
+<p>比如，有一只母猴（15号）在接受植入手术后出现了多次自残行为，比如试图拔出接口、头撞墙等等。观察人员还发现，该名母猴曾经和另一个笼子的“狱友”手牵着手……</p> 
+<p>此外，在调查发起的初期，UC Davis 还曾拒绝提供实验动物的真实编号以便进行交叉核查，后来被迫提供资料的时候也遮遮掩掩，企图蒙混过关……</p> 
+<p>UC Davis 方面指出，整个脑机接口实验室的动物研究规程是经过了相关专业人士严格审核的，符合美国《动物福利法》对于实验动物相关条文精神。</p> 
+<p><strong>然而，PCRM 直指 Neuralink/UC Davis 并不是规程有问题，而是没有贯彻规程，偏离了一系列本来应该遵守的动物保护规章制度，出现了诸如手术疏忽、看护疏忽、记录缺失等情况。</strong></p> 
+<p>相关记录显示，Neuralink 和 UC Davis 合作期间，整个项目下共有至少23只实验猴子，其中至少15只已经死亡。至于死因，除了 PCRM 指控的动物虐待行为之外，也包括被 Neuralink 称为“合法”的安乐死手术。</p> 
+<h2><strong>02Neuralink 回应：猴子在我们这很幸福</strong></h2> 
+<p>争议爆发后，Neuralink 选择在官网发文做出回应。</p> 
+<p><strong>在文章开头的第二句，Neuralink 就直接指出了整个质疑的最大漏洞：对方是极端动保。</strong></p> 
+<p>“一些近期的文章对于 Neuralink 在 UC Davis 对待研究动物的行为提出了指控。<strong>值得注意的是，这些指控来自于一群完全反对在研究中使用动物的人。</strong>目前，所有新的医疗设备和治疗方法都必须在动物身上进行测试，然后才能在人类身上进行试验。在这方面，Neuralink并非独一无二。”</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_ec328fc59bbb452289902ccd25635cca_img_000" referrerpolicy="no-referrer"></p> 
+<p>这一点上，Neuralink 说得倒是没错。</p> 
+<p>它在这次事件中的对手 PCRM，全称为 Physicians Committee for Responsible Medicine（责任医学医师协会），是一家出了名的动保机构，而且，它跟被广泛抨击为极端动保组织的 PETA 同属一个基金会 (PETA Foundation)，共享资金来源，关联非常密切，也曾被视为 PETA 的“打手”。美国医学会（AMA，一家由正经医学专业人士组成的协会）曾经多次批评 PCRM，指责其严重干扰了医学研究者对于实验动物的正常使用。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_4647086a78f3409db4673be9b0c464aa_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">PCRM 官网截图</p> 
+<p>对于 PCRM 提出的各种动物虐待和看护疏忽行为，Neuralink 也一一作出回应：</p> 
+<p>首先，这些实验猴子本身就不是完全健康的，它们大多有“既有状况”(pre-existing conditions)，意思就是来到实验室里之前就有各种各样的疾病和身体状况。</p> 
+<p>以及，作为一种族群生活的动物，猴子之间的一些冲突有可能导致肢体残疾，而实验室报告中的猴子出现各种所谓的断指、“自残”等问题，属于正常范围内的社交行为所导致的结果。</p> 
+<p>并且，Neuralink 坚称：在 UC Davis 实验室看护这些猴子期间，此类伤害从未发生过。</p> 
+<p><strong>即便如此，对于一部分实验对象猴子因为人类过失导致的死亡，Neuralink/UC Davis 还是负有不可推卸的责任:</strong></p> 
+<p>Neuralink 承认，在项目存续期间，有至少一只猴子因为前面提到的生物复合粘合剂使用过量死亡；有另外四只猴子因为植入接口设备出现感染，健康情况恶化，被动物看护专家建议进行安乐死。</p> 
+<p><strong>不过，情况在 Neuralink 自建的培育设施落成后，似乎有所好转。</strong></p> 
+<p>该公司宣称，新设施在动物住房、饮食、看护、社交等多个方面都满足《动物福利法》的要求，甚至超过了很多动物园能够达到的标准。特别是在丰容 (enrichment) 方面，Neuralink 的培育设施为包括猴子、猪等实验动物提供了丰富的食物、复杂多变的环境，以及多种多样的丰容道具，让动物能够尽量表现出最接近于大自然中的天性。</p> 
+<p>“自营实验室和动物培育设施落成之后，我们将一部分未植入设备的实验猴子接了过来。这其中就有 Pager，它后来植入了我们的设备，并且在无约束自主活动的条件下，实现了出色的脑机接口性能，”Neuralink 在回应文章中写道。</p> 
+<p>在回应文章中，Neuralink 提供了很多图片和配文，展示实验动物在其设施里生活的有多么幸福：</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_d603f612997941328e63196b2d2338ff_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">培育设施为实验猴子提供的丰容环境图片来源：Neuralink</p> 
+<p>这是实验小猪 Gertrude 的这两张照片 ：</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_89c5d537c1c64abfb2ccd39e7217df5d_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">实验猪"Gertrude"自由探索和接受按摩图片来源：Neuralink</p> 
+<p><strong>甚至，这些实验动物可以“自行选择”是否参与实验。</strong></p> 
+<p>Neuralink 宣称，研究人员会采用各种各样的方式来激励动物参与实验，对于那些不感兴趣的动物不会强行要求，也不会限制他们的水和食物以及生活环境。</p> 
+<p>对于预定实验期结束的动物，即使它们在期间没有参与实验，Neuralink 都会将其人道放归。特别是对于猕猴，该公司会自己出资修建保护区用于放归。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_1045187655204079a43250284509ff02_img_000" referrerpolicy="no-referrer"></p> 
+<h2><strong>03脑机接口，是否太“快”？</strong></h2> 
+<p>本次事件中，双方各执一词，都认为对<a class="project-link" data-id="3969212" data-name="方太" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969212" target="_blank">方太</a>过分，自己没做错。</p> 
+<p>Neuralink/UC Davis 究竟是否涉及动物虐待？由此引发的争议，实际上也存在很大的解读空间。</p> 
+<p>从被指控者的角度来看，毕竟脑机接口是一项极其前沿的技术，几乎没有任何可参照的模板，研究人员也需要不断尝试，才能发明出新的规章制度，实现脑机接口技术的创新。在此过程中，出现意外和事故，是绝对难免的。</p> 
+<p>从指控者的角度来看，根据 Neuralink/UC Davis 提供的试验记录，实验人员真的没有对实验动物提供最高水准的看护，没能百分之百地贯彻动物实验的安全规程——这样的话，说他们虐待动物也确实没什么毛病。</p> 
+<p>尽管 PCRM 这个机构的确不干净，它提出的质疑还是不应该被忽视。</p> 
+<p>在养宠<a class="project-link" data-id="224096" data-name="圈子" data-logo="https://img.36krcdn.com/20210809/v2_43526951c0104829ab0a8e61c39a07af_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/224096" target="_blank">圈子</a>里有一种比较靠谱说法：如果一个人对待动物的行为举止不端的话，他八成也不是个好人/值得信赖的人。同样的理念也可以套到此次事件当中：</p> 
+<p>如果真的如所指控的那样，脑机接口项目团队在实验动物的管理上出现了种种严重疏漏的话——<strong>当 Neuralink 在未来开展人体临床实验时，我们又该怎样相信它能够保障测试者的生命安全和心理健康呢？</strong></p> 
+<p>当然，根据合理猜测，目前 Neuralink 对于实验猴子的种种虐待行为和看护不周，其背后必然也<a class="project-link" data-id="320696" data-name="有猴" data-logo="https://img.36krcdn.com/20210810/v2_5325ae52584d4c2183a6218a078ac1d2_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/320696" target="_blank">有猴</a>子无法和看护人员正常交流的原因。</p> 
+<p>未来进入人体测试时，有各种各样的异常情况出现，退一万步讲，至少人体受试者能够准确表达出来。以及，人不会被关在笼子里，也不会像猴子一样“被迫”接受手术，从而产生后续的心理创伤……</p> 
+<p><strong>但是，在头盖骨上开个不小的口，然后直接安装一个和皮层神经相连的芯片……无论手术对象是猴子还是人，此类手术的术后感染风险都是很高的。</strong></p> 
+<p>2020年，我们曾经报道过一个脑机接口方面的重要事件：巴特尔研究所 NeuroLife“神经旁路”研究团队在《细胞》杂志发表重磅论文，通过脑机接口技术“逆转”了一位人类受试者的高位截瘫，使他在很大程度上恢复了手臂以下的运动功能和触觉。</p> 
+<p>——事实上，当时研究团队有专门提到，受试者安装脑机接口的手术安全风险还是非常高的。能够实现这次重大技术突破，幸运的成分也不可排除……</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_2336bb31eacc462fbfe871869c5838ac_img_000" referrerpolicy="no-referrer"></p> 
+<p>同年，马斯克也召开了一场别开生面的 Neuralink 发布会，宣称在未来人人都可以拥有属于自己的脑机接口装置。</p> 
+<p>他还宣称未来将用手术机器人（见下图）进行自动手术，不超过1小时就可以完成，届时用户可以“早上来手术，下午就回家”，甚至过程中都不会出血……</p> 
+<p><strong>“我们已经取得了 FDA 人体实验的许可”，马斯克说。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220301/v2_6dda23d00537494ca7720a10e287965b_img_000" referrerpolicy="no-referrer"></p> 
+<p>马斯克是个绝对的技术乐观派，毕竟他打造了全球销量最高的电动车品牌<a class="project-link" data-id="132410" data-name="特斯拉" data-logo="https://img.36krcdn.com/20200729/v2_e76e3d3d44c440138f072b13bc84a6dc_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/132410" target="_blank">特斯拉</a>、首次实现了可回收运载火箭的规模商用化、在天上挂满了互联网卫星……至于脑机接口，恐怕在他看来和其它所有技术一样，将来是必然可以实现的。</p> 
+<p>只是希望他能记得，如果脑机接口技术出问题的话，损失的可不是财产，而是人命了。</p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzI3ODg4ODEwMA==&mid=2247514481&idx=1&sn=89821ddb5ed3cd3e0c60cc9ff74cfe86&chksm=eb52d2badc255bacec4039ab5adc1015832285ad2ffde9765e6607a7b219f48280134ffc2dbe#rd">“硅星人”（ID：guixingren123）</a>，作者：光谱 杜晨，36氪经授权发布。</p>  
+</div>
+            
