@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9967'
+headimg: 'https://picsum.photos/400/300?random=9831'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 23:49:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9967'
+date: Tue, 01 Mar 2022 07:49:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9831'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000">Guava 是 Google 的一套核心 Java 库，包括新的集合类型（如 multimap 和 multiset）、图库，以及用于并发、I/O、散列、缓存、基元、字符串等实用工具。它被广泛用于 Google 内部的 Java 项目，同时也被许多其他公司广泛使用。</span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000">Guava 是 Google 的一套核心 Java 库，包括新的集合类型（如 multimap 和 multiset）、图库，以及用于并发、I/O、散列、缓存、基元、字符串等实用工具。它被广泛用于 Google 内部的 Java 项目，同时也被许多其他公司广泛使用。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">目前，Guava 31.1 已发布，该版本带来以下变更：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li><code>Base</code>：弃用<span> </span><code>lazyStackTrace</code><span style="color:#24292f"><span> </span>和<span> </span></span><code>lazyStackTraceIsLazy</code><span> </span>两个<span> </span><span style="color:#24292f"><code>Throwables</code></span><span> </span>方法。(<span> </span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fguava%2Fcommit%2F6ebd7d864830dbf615a767702bf5b0261f1a9722" target="_blank">6ebd7d8</a><span> </span>)</li> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=73'
+headimg: 'https://picsum.photos/400/300?random=424'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 23:43:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=73'
+date: Tue, 01 Mar 2022 07:43:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=424'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Electron 17.1.0 现已发布，具体更新内容如下：</p> 
+                                                                                            <p>Electron 17.1.0 现已发布，具体更新内容如下：</p> 
 <p style="text-align:start"><strong>Features</strong></p> 
 <ul> 
  <li>为 Windows  Control Overlay 添加了<code>height</code>选项。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Felectron%2Felectron%2Fpull%2F32939" target="_blank">#32939</a></li> 

@@ -1,0 +1,23 @@
+
+---
+title: '9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/3/035fe873-8a42-491b-a5c5-6e0c311a7e69.jpeg'
+author: IT 之家
+comments: false
+date: Tue, 01 Mar 2022 00:54:21 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/3/035fe873-8a42-491b-a5c5-6e0c311a7e69.jpeg'
+---
+
+<div>   
+<p data-vmark="0b10"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 3 月 1 日消息，今日 OPPO 在 2022 年 MWC 世界移动通信大会 (<a class="s_tag" href="https://www.ithome.com/tag/mwc2022/" target="_blank">MWC 2022</a>) 上正式发布 240W 超级闪充技术，9 分钟即可将等效 4500mAh 电池充至 100%，还有能将手机电池寿命提升两倍的长寿版 150W 超级闪充技术，以及全新一代 5G 智能连接中枢 OPPO 5G CPE T2。</p><p data-vmark="c5c0">OPPO 还首次同台展示了 Find X5 系列、Find N 及一加 10 Pro 等最新旗舰机型，以及自研影像专用 NPU 马里亚纳 MariSilicon X、OPPO Air Glass、伸缩式摄像头等一系列创新技术。</p><p style="text-align: center;" data-vmark="bbfb"><img src="https://img.ithome.com/newsuploadfiles/2022/3/035fe873-8a42-491b-a5c5-6e0c311a7e69.jpeg" w="1268" h="845" alt="图片 8" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="1268" height="546" referrerpolicy="no-referrer"></p><p data-vmark="7883">▲ OPPO 以“Shape the Future”为主题，参展 MWC 2022</p><p data-vmark="47b4">OPPO 推出 240W 的超级闪充充电效率再创新高：最高可支持 24V / 10A 充电，<span class="accentTextColor">9 分钟左右即可将等效 4500mAh 电池能量的手机最高充至 100%。</span></p><p style="text-align: center;" data-vmark="ada4"><img src="https://img.ithome.com/newsuploadfiles/2022/3/cf2b1845-aabf-41b3-b32d-1a4e0a764c63.jpeg" w="1440" h="810" alt="图片包含 激光, 场景, 游戏机, 灯光" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="1440" height="461" referrerpolicy="no-referrer"></p><p data-vmark="a4ee">温控散热方面，240W 超级闪充在适配器、线材、电池的充电全链路全程保证温控和安全，极大程度上减少发热，全程“冷静”闪充。</p><p data-vmark="4f32">此外，OPPO 还同时发布了长寿版 150W 超级闪充，沿用 OPPO 电荷泵直充技术，<span class="accentTextColor"> 5 分钟即可将等效 4500mAh 电池容量的手机从 1% 最高充至 50%，最快 15 分钟充至 100%。</span></p><p style="text-align: center;" data-vmark="ba0b"><img src="https://img.ithome.com/newsuploadfiles/2022/3/49752df7-9143-45ce-bb07-7513f2d06663.png" w="1110" h="776" alt="图表
+
+低可信度描述已自动生成" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="1110" height="573" referrerpolicy="no-referrer"></p><p data-vmark="cc35">▲ 长寿版 150W 超级闪充充电时间曲线图</p><p data-vmark="9f56">官方称，长寿版 150W 超级闪充在提升快速充电功率的同时，搭载 OPPO 自研的电池健康引擎，帮助手机在满充满放循环 1600 次后，电池还能拥有 80% 容量，<span class="accentTextColor">使电池的寿命达到行业标准的两倍，有效保护电池健康。</span></p><p style="text-align: center;" data-vmark="b8bf"><img src="https://img.ithome.com/newsuploadfiles/2022/3/3de34c6d-3783-4901-bad9-2c313d5ecf49.png" w="1110" h="562" alt="图表, 折线图" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="1110" height="415" referrerpolicy="no-referrer"></p><p data-vmark="4c50">▲ 充放电次数与电池健康度关系对比图</p><p data-vmark="f1aa">延续 OPPO 125W 超级闪充的领先技术架构，长寿版 150W 超级闪充进一步调优软件设计，升级了 PCB 电池保护板，最高支持 20V / 7.5A 输出。为了保障高功率充电的安全性，长寿版 150W 超级闪充还配备 13 个温度传感器实时监控充电状态，采用熔断式过压保护电路，保障全链路充电安全；线缆通过 128 位高强度硬件加密，杜绝安全隐患。</p><p data-vmark="dfaa">此外，<span class="accentTextColor">长寿版 150W 超级闪充的适配器比同等功率的常规产品更小巧</span>，仅为 58 mm*57 mm*30 mm，重量为 172 g，在兼顾高效与便携的同时，功率密度显著提升。</p><p style="text-align: center;" data-vmark="2982"><img src="https://img.ithome.com/newsuploadfiles/2022/3/515ea05f-0e08-4f03-b310-7a75bcc059a8.png" w="1064" h="782" alt="图片包含 室内, 桌子, 电脑, 烤面包" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="1064" height="603" referrerpolicy="no-referrer"></p><p data-vmark="6043">▲ 长寿版 150W 超级闪充与 65W 超级闪充适配器对比</p><p data-vmark="aa53">为了更全面的提升用户充电体验，长寿版 150W 超级闪充搭载了 OPPO 自主研发的电池健康引擎。该项技术已在 Find X5 首次搭载，基于 OPPO 定制的电池管理芯片，包括智能电池健康算法和仿生修复电解液技术两大核心技术，从底层算法和电池化学体系入手保护充放电安全，智能提升电池寿命。</p><p data-vmark="a345">官方称，未来，<span class="accentTextColor">电池健康引擎将作为快速充电的标准配置</span>，应用于 OPPO 和一加的旗舰系列手机中，为更广泛的用户提供安全、高效、耐用的充电体验。而搭载电池健康引擎的长寿版 150W 超级闪充也将于今年第二季度首先在一加手机上正式发布。</p><p data-vmark="b216">OPPO SUPERVOOC 闪充首席科学家张加亮表示，“OPPO 自 2014 年推出 VOOC 闪充以来，始终以安全和效率为核心考量，不断引领快速充电技术的发展。OPPO 持续深耕大功率快速充电、适配器小型化等领域，并积极探索充电健康等新兴议题，致力于带给消费者安全、高效、智能的闪充体验。”</p><p data-vmark="fe54">本次 MWC 大会上，OPPO 还发布了全新的 OPPO 5G CPE T2，其搭载了高通骁龙 X62 调制解调器及射频系统 、OPPO 自研的 O-Reserve 2.0 5G 智能天线解决方案，随时随地将接收到的 5G 信号转换成稳定高速的本地 Wi-Fi 信号，为用户提供极速、稳定的 5G 连接体验，OPPO 已经推出两代 CPE 产品。</p><p data-vmark="3894">IT之家了解到，OPPO 5G CPE T2 延续了 OPPO 极简但富有艺术感的设计理念 —— 白色圆柱体机身的顶部以莫比乌斯环进行装饰，象征着无限拓展的连接与融合能力；机身表面纹理设计，不仅让它更精致，还能提升防尘、抗污能力。</p><p data-vmark="0778">OPPO 5G CPE T2 将于 2022 年下半年进入亚太、中东、非洲、欧洲等市场。</p><p style="text-align: center;" data-vmark="9166"><img src="https://img.ithome.com/newsuploadfiles/2022/3/bf04889b-edfa-4f25-abf6-4008ced1c4c3.jpeg" w="800" h="579" alt="桌子上放着杯子
+
+中度可信度描述已自动生成" title="9 分钟充满电，OPPO 携两大超级闪充技术及多款旗舰产品亮相 MWC 2022" width="800" height="579" referrerpolicy="no-referrer"></p><p data-vmark="2b1c">▲ OPPO 5G CPE T2</p>
+          
+</div>
+            

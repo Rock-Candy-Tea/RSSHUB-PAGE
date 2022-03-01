@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1385'
+headimg: 'https://picsum.photos/400/300?random=7422'
 author: 开源中国
 comments: false
 date: Tue, 01 Mar 2022 07:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1385'
+thumbnail: 'https://picsum.photos/400/300?random=7422'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">TeXworks 是用于编写 TeX（LaTeX、ConTeXt 等）文档的免费开源应用程序，TeXworks 时隔近一年时间正式发布了 0.6.7 版本，更新内容如下：</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">TeXworks 是用于编写 TeX（LaTeX、ConTeXt 等）文档的免费开源应用程序，TeXworks 时隔近一年时间正式发布了 0.6.7 版本，更新内容如下：</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">新功能与改进</h3> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>在 PDF 预览器中增加了带有可拖动参考线的标尺</li> 

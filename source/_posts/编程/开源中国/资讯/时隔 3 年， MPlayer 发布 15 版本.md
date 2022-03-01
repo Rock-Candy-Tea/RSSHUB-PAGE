@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5215'
+headimg: 'https://picsum.photos/400/300?random=813'
 author: 开源中国
 comments: false
-date: Mon, 28 Feb 2022 23:44:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5215'
+date: Tue, 01 Mar 2022 07:44:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=813'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MPlayer 是 GNU/Linux 生态系统中一款优秀的开源视频播放软件，自 2019 年 4 月 发布 1.4 版本的三年后，<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fwww.mplayerhq.hu%2Fdesign7%2Fnews.html" target="_blank">Mplayer 1.5 正式发布</a>，版本代号“希望”。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MPlayer 是 GNU/Linux 生态系统中一款优秀的开源视频播放软件，自 2019 年 4 月 发布 1.4 版本的三年后，<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fwww.mplayerhq.hu%2Fdesign7%2Fnews.html" target="_blank">Mplayer 1.5 正式发布</a>，版本代号“希望”。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MPlayer 1.5 兼容最新的 FFmpeg 版本（5.0）和当前的 FFmpeg 开发版本（FFmpeg master），带来以下变更：</p> 
 <h3>解码器、分流器、流：</h3> 
 <ul style="margin-left:0; margin-right:0"> 
