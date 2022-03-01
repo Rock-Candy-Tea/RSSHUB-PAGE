@@ -1,0 +1,34 @@
+
+---
+title: '今日带货：KTC 4K电竞显示器'
+categories: 
+ - 图片
+ - 煎蛋
+ - 首页
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/0057e49ce9119873d6a0aad02cfbba71.jpg!custom'
+author: 煎蛋
+comments: false
+date: Tue, 01 Mar 2022 05:03:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/0057e49ce9119873d6a0aad02cfbba71.jpg!custom'
+---
+
+<div>   
+<blockquote><p>ZSBD</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/0057e49ce9119873d6a0aad02cfbba71.jpg!custom" referrerpolicy="no-referrer"><style type="text/css">
+.goods &#123;float:left;padding:5px 3% 3px 3%;margin:0;text-align: left; width: 44%;height: auto;line-height:1.2em;&#125;
+.goods-pic img&#123;box-sizing:border-box; border:1px solid #ddd;width: 100%;height: auto;&#125;
+.goods-title &#123;font-size: 14px; text-decoration: none;height:45px;overflow-y:hidden;&#125;
+.goods-price .text &#123;font-weight:bold;&#125;
+.goods-price &#123;color:#ee273c; text-decoration: none;padding:8px 0;&#125;
+.goods-price .quan&#123;background-color:#ee273c;color:#fff !important;padding:2px 5px; border-radius: 3px;float:right;text-decoration: none;font-size: 13px;&#125;
+.goods-price .quan&#123;background-color:#ee273c;color:#fff !important;padding:2px 5px; border-radius: 3px;float:right;text-decoration: none;font-size: 13px;&#125;
+.hongbao a&#123;background-color:#ee273c;color:#fff !important;padding:8px 10px;margin:0 5px; &#125;
+.hongbao img&#123;width:50%;height: auto;text-decoration: none!important;&#125;
+</style>
+<blockquote><p>KTC新出了一款“正常”的27寸4k显示器，参数和价格都不错<br>
+小众品牌产品优点是性价比超高，参数给你堆满<br>
+弊端是售后<br>
+比如我是第一批买KTC miniLED显示器的小白鼠<br>
+然后最近了解到它固件升级了，改善了调光<br>
+问京东售后得知升级固件必需寄回原厂</p></blockquote>  
+</div>
+            
