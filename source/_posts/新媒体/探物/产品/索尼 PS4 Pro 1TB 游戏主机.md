@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FieFQdxexib22_bUcdyYKk2b5fFE'
 author: 探物
 comments: false
-date: 2022-03-02 07:08:49
+date: 2022-03-02 08:11:05
 thumbnail: 'https://resource.tanwuapp.com/FieFQdxexib22_bUcdyYKk2b5fFE'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FieFQdxexib22_bUcdyYKk2b5fFE" referrerpolicy="no-referrer"><br>
           <strong>索尼 PS4 Pro 1TB 游戏主机</strong><br><br>
-          价格: ￥9.50 / 日<br>
+          价格: ￥5.80 / 日<br>
           评分: 5.0
           
 </div>

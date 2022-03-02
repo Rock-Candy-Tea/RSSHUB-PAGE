@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Product1486952491326'
 author: 探物
 comments: false
-date: 2022-03-02 07:08:49
+date: 2022-03-02 08:11:05
 thumbnail: 'https://resource.tanwuapp.com/Product1486952491326'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Product1486952491326" referrerpolicy="no-referrer"><br>
           <strong>日版/港版 Switch主机配单张游戏卡套餐</strong><br><br>
-          价格: ￥6.26 / 日<br>
+          价格: ￥5.93 / 日<br>
           评分: 4.9
           
 </div>
