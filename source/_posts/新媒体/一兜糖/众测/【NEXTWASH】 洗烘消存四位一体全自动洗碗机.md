@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202202/24/8764da/85516401e0cc62f0.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2022-03-02 00:36:11
+date: 2022-03-02 02:06:23
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202202/24/8764da/85516401e0cc62f0.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2022.03.06                        <br>【NEXTWASH】 洗烘消存四位一体全自动洗碗机<br>                            数量 ：5<br>                            实际价格 ：1699元<br>                            活动申请中<br>                            78人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202202/24/8764da/85516401e0cc62f0.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.03.06                        <br>【NEXTWASH】 洗烘消存四位一体全自动洗碗机<br>                            数量 ：5<br>                            实际价格 ：1699元<br>                            活动申请中<br>                            83人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202202/24/8764da/85516401e0cc62f0.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
