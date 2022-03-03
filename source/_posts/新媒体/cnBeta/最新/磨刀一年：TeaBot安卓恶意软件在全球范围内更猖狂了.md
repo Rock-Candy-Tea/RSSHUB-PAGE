@@ -1,0 +1,19 @@
+
+---
+title: '磨刀一年：TeaBot安卓恶意软件在全球范围内更猖狂了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0303/050778d9a4db71d.png'
+author: cnBeta
+comments: false
+date: Thu, 03 Mar 2022 11:07:04 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0303/050778d9a4db71d.png'
+---
+
+<div>   
+TeaBot 是一款从 2021 年初开始冒头的 Android 网银木马，旨在窃取受害者的凭证和短信。<strong>为实现这一目的，这款远程访问木马（RAT）利用了移动设备的实时流式传输（按需请求）和辅助功能，使得攻击者能够接管受害者的账户。</strong>起初 TeaBot 是通过山寨恶意软件和诈骗短信来分发的。然而近期的案例，揭示其已升级了侧载技术、甚至潜入了谷歌 Play 应用商店。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0303/050778d9a4db71d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/050778d9a4db71d.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">嵌入 Google Play 的恶意应用示例（图自：<a href="https://www.cleafy.com/cleafy-labs/teabot-is-now-spreading-across-the-globe" target="_self">Cleafy</a>）</p><p>过去数月，我们发现攻击目标有大幅增加之势。在检出的 400+ 恶意应用中，涵盖了网银、加密货币（交易所 / 钱包）、数字保险等领域，且遍布美、俄等市场区域。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/26c26366ff2a9c3.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/26c26366ff2a9c3.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">通过虚假更新方式诱骗安装的 TeaBot</p><p>早在 2021 年 5 月，Cleafy Labs 就报道了在意大利出现、主要针对欧洲银行的一款 Android 恶意软件。不过去年的 TeaBot，总给人以一种仍处于早期开发阶段的感觉。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/f99eda77e7e6ee4.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/f99eda77e7e6ee4.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">用于存储 TeaBot 示例的 Github 存储库</p><p>早期 Teabot 主要通过预先定义的“诱饵列表”来散播，比如将自己伪装成 TeaTV、VLC 媒体播放器、或者 DHL / UPS 快递等正版应用。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/219585fa245bc9a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/219585fa245bc9a.png" alt="5.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">TeaBot 感染链</p><p>直到 2022 年 2 月 21 日，Cleafy 威胁情报和事件响应团队（TIR）发现了一款混入 Google Play 官方应用商店的恶意软件，特点是将自己伪装成了 App 更新包。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/7245e5dabb1cfc3.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/7245e5dabb1cfc3.png" alt="6.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">安装阶段索取的应用权限</p><p>为了忽悠更多人下载安装，攻击者似乎还会忽悠人给自己刷好评。毕竟在明面上，它很可能只以“二维码扫描器”的面目示人。截止 Cleafy 发稿时，其下载量已超 10000+，且几乎看不到中差评。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/2e0c657dabd633d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/2e0c657dabd633d.png" alt="8.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">TabBot 添加了对更多语言的支持</p><p>但在得逞之后，恶意软件的“下崽器”（dropper）才会露出自己的真实想法 —— 与通过官方 Play 商店下载的合法 Android 应用不同，dropper 会忽悠用户下载另一款应用（检出为 TeaBot 恶意软件）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/f3a89408a280b3a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/f3a89408a280b3a.png" alt="9.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">最近样本中还看到了最新引入的反侦察手段</p><p>与 2021 上半年发现的样本相比，2022 年 2 月的新版 TeaBot 恶意软件，已经大举扩展了自己的伪装，涵盖了网银、保险、加密钱包 / 交易所等类型。</p><p><a href="https://static.cnbetacdn.com/article/2022/0303/da391776cd2897d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0303/da391776cd2897d.png" alt="10.png" referrerpolicy="no-referrer"></a></p><p>在不到一年的时间里，TeaBot 针对的应用程序数量从 60 暴涨到了 400 多个，增幅达到了惊人的 500% 。</p><p>显然，即便谷歌应用商店具有一定的反病毒检测能力，但还是拦不住 Android 用户被忽悠并侧载 TeaBot 之类的恶意软件。</p>   
+</div>
+            
