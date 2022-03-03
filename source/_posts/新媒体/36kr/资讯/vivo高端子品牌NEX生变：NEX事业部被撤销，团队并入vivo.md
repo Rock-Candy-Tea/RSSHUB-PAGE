@@ -17,7 +17,7 @@ thumbnail: 'https://img.36krcdn.com/20220303/v2_554b9b4b987a43028ff33d4b42fea192
 <p>新浪科技在vivo官网看到，NEX系列的产品标签已经被砍掉。</p> 
 <p class="image-wrapper"><img data-img-size-val="630,284" src="https://img.36krcdn.com/20220303/v2_554b9b4b987a43028ff33d4b42fea192_img_000" referrerpolicy="no-referrer"></p> 
 <h2 label="一级标题" style><strong>定位高端 已停更近两年</strong></h2> 
-<p>近年来，随着<a class="project-link" data-id="25167" data-name="华为" data-logo="https://img.36krcdn.com/20210806/v2_cdf6feb963574c9cb91b2818615c6072_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25167" target="_blank">华为</a>在高端市场的缺位，国产手机厂商纷纷发布高端市场，比如<a target="_blank" rel="noopener noreferrer nofollow" href="http://stock.finance.sina.com.cn/usstock/quotes/XIACY.html">小米</a>的MIX系列和数字系列，OPPO的FindX系列，<a class="project-link" data-id="3969307" data-name="荣耀" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969307" target="_blank">荣耀</a>的Magic系列，以及vivo的NEX系列。</p> 
+<p>近年来，随着华为在高端市场的缺位，国产手机厂商纷纷发布高端市场，比如<a target="_blank" rel="noopener noreferrer nofollow" href="http://stock.finance.sina.com.cn/usstock/quotes/XIACY.html">小米</a>的MIX系列和数字系列，OPPO的FindX系列，荣耀的Magic系列，以及vivo的NEX系列。</p> 
 <p>NEX系列为vivo于2018年6月正式推出，定位高端系列，首代产品采用了升降式摄像头设计。后来又推出了NEX双屏版、NEX 3、NEX 3S几代产品。但后来NEX系列产品便走向停更，此时距离2020年3月NEX 3S的发布已经过去了近两年时间。</p> 
 <p>实际上，2021年就有NEX系列因投入和销量不匹配而被砍掉的传闻。在2021年的一次采访中，vivo执行副总裁胡柏山曾透露，NEX的定位已经改变，vivo把新技术探索的职责放到iQOO系列上。</p> 
 <p>具体而言，vivo目前的手机产品线，iQOO系列发力方向是电竞和性能；vivo主要是影像，代表系列就是X和S系列；他表示，NEX系列进行了目标消费群定义和产品本身定义，产品会在2022年上半年发布，未来NEX将保持一年一代的节奏。</p> 
