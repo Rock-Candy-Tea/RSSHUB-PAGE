@@ -23,7 +23,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220303/1646279055_9982
 •《进击的巨人》是日本漫画家谏山创创作的漫画作品，这是他的首部连载作品，在讲谈社《别册少年Magazine》2009年10月号（创刊号）上开始连载。故事建立在人类与巨人的冲突上，人类居住在由高墙包围的城市，对抗会食人的巨人。漫画已经于去年4月完结，TV动画版正在播放最终季，一切的结局即将到来。
 </p>
 <p style="text-indent:2em;">
-•《进击的巨人》最新主题曲MV欣赏：（审核中，请稍候）
+•《进击的巨人》最新主题曲MV欣赏：
+</p>
+<p align="center">
+<iframe height="480" width="640" src="https://player.youku.com/embed/XNTIwNTMyMDYxMg==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+</iframe>
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220303/1646279063_228579.png" alt="《进击的巨人》主题曲MV 最新技术打造效果更震撼" referrerpolicy="no-referrer"> 
