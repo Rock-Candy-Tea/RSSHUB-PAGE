@@ -1,0 +1,19 @@
+
+---
+title: '三星Galaxy S22系列今晚开售：4999元起'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0303/4428c1060e36152.png'
+author: cnBeta
+comments: false
+date: Thu, 03 Mar 2022 15:00:26 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0303/4428c1060e36152.png'
+---
+
+<div>   
+上个月，三星在国内正式发布了Galaxy S22系列国行版本，作为全球首款四边做到等宽的安卓旗舰手机，同时还是首款传承了Note系列衣钵的S系列，发布之后就备受关注。<strong>根据官方消息，三星Galaxy S22系列将于今晚（3月4日零点）正式开售，其中Galaxy S22起售价5799元、Galaxy S22+起售价6599元、Galaxy S22 Ultra起售价9699元。</strong><br>
+ <p><a href="https://img1.mydrivers.com/img/20220222/47943b4b714c4df79d2eb407d1bf04db.png" style="color: red; text-decoration-line: none; font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0303/4428c1060e36152.png"><img data-original="https://static.cnbetacdn.com/article/2022/0303/4428c1060e36152.png" src="https://static.cnbetacdn.com/thumb/article/2022/0303/4428c1060e36152.png" referrerpolicy="no-referrer"></a></p><p>据悉，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>S22配备了一块6.1英寸FHD+AM<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a>屏幕，支持最高120Hz自适应动态刷新，拥有240Hz触控采样率，最高1300尼特亮度。</p><p>而三星S22屏幕尺寸升级为6.6英寸FHD+AMOLED屏幕，同样支持最高120Hz自适应动态刷新，以及240Hz触控采样率，最高1750尼特亮度。</p><p><a href="https://img1.mydrivers.com/img/20220222/a8d4da9ec26e49309095cae071b6a1a9.png" style="color: rgb(0, 153, 255); font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0303/7381378a6ff88dc.png" referrerpolicy="no-referrer"></a></p><p><strong>核心配置上，三星S22、S22+搭载高通骁龙8处理器，S22内置3700mAh容量电池，S22+为4500mAh容量电池，其中S22支持25W充电、15W无线充电，S22+支持45W快充和15W无线充电。</strong></p><p>影像方面，三星S22、S22+搭载了50MP主摄+10MP长焦镜头+12MP超广角镜头，其中主摄的传感器尺寸相比S21和S21+提升了23%的面积。</p><p><a href="https://img1.mydrivers.com/img/20220222/3b5e663da56a42e1adda0ba3b9c722fb.png" style="color: rgb(0, 153, 255); font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0303/d84d8bb7ae6eba5.png"><img data-original="https://static.cnbetacdn.com/article/2022/0303/d84d8bb7ae6eba5.png" src="https://static.cnbetacdn.com/thumb/article/2022/0303/d84d8bb7ae6eba5.png" referrerpolicy="no-referrer"></a></p><p><strong>至于顶配Galaxy S22 Ultra，采用的是6.8英寸Dynamic AMOLED 2X屏，QHD分辨率3080×1440，支持最高1750nits亮度，500ppi，微<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_92263%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D3_%25E7%2594%25B5%25E8%25A7%2586%25E7%25B1%25BB%25E5%259E%258B_%25E6%259B%25B2%25E9%259D%25A2%23J_crumbsBar" target="_blank">曲面</a>屏设计，颜值更高。</strong></p><p>刷新率方面，Galaxy S22 Ultra支持120Hz高刷，同时支持三星的LTPO动态刷新率调节，可在1-120Hz之间变化，这一直是三星的强项。</p><p><a href="https://img1.mydrivers.com/img/20220222/4eb81c6d32074f9487b7a9cd1342d6ca.jpg" style="color: red; text-decoration-line: none; font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0303/edd72c043c7241d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0303/edd72c043c7241d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0303/edd72c043c7241d.jpg" referrerpolicy="no-referrer"></a></p><p>影像方面，Galaxy S22 Ultra前置4000万像素单摄，后置采用1亿像素主摄镜头+1200万像素超广角镜头+两颗1000万像素长焦镜头，支持10x变焦，主摄和两颗长焦镜头均支持OIS光学防抖，主摄传感器是三星自家的S5KHM3，1/1.33英寸大底，支持9合1，可合成2.4um大像素。</p><p><strong>电池方面依然比较保守，Galaxy S22 Ultra内置5000mAh电池，支持45W快充及15W无线快充。</strong></p>   
+</div>
+            
