@@ -1,0 +1,19 @@
+
+---
+title: '油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/3/f46914f2-b562-4319-9cda-7abbae47b117.png'
+author: IT 之家
+comments: false
+date: Wed, 02 Mar 2022 13:54:18 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/3/f46914f2-b562-4319-9cda-7abbae47b117.png'
+---
+
+<div>   
+<p data-vmark="1de3"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 3 月 2 日消息，一位 YouTuber 成功地将苹果 M1 Mac mini 体积<span class="accentTextColor">缩小了 78%</span>，并 DIY 支持了 MagSafe 磁吸充电。</p><p data-vmark="5e50" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/f46914f2-b562-4319-9cda-7abbae47b117.png" w="761" h="429" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="761" height="429" referrerpolicy="no-referrer"></p><p data-vmark="1a18">苹果在 2020 年 11 月推出了 M1 Mac mini，该产品保留了自 2010 年以来一直使用的经典设计。随后的拆解显示，M1 Mac mini 内部<span class="accentTextColor">大量空间都没有使用</span>。</p><p data-vmark="3902" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/15e18abc-1c50-4094-83c1-c5ab1c8cd775.png" w="727" h="521" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="727" height="521" referrerpolicy="no-referrer"></p><p data-vmark="3d91">于是，Snazzy Labs 的 YouTube 主播 Quinn Nelson 动起了小心思，通过重新设计内部结构，尽可能地缩小了 M1 Mac mini，并将其放在一个全新的外壳中。</p><p data-vmark="cff5" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/7d773b30-8995-41de-b975-d277d2e5d596.png" w="527" h="564" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="527" height="564" referrerpolicy="no-referrer"></p><p data-vmark="b0ec">由于 Mac mini 的大部分空间都被 150W 电源占用，Nelson 将其替换为了<span class="accentTextColor">外部的 微软 65W Surface 电源</span>，该电源带有改装的 MagSafe 2 接口。</p><p data-vmark="e533" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/b9727969-7f6d-4cf1-930f-3bdb143d55ef.png" w="836" h="497" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="836" height="487" referrerpolicy="no-referrer"></p><p data-vmark="8a27">接着，Nelson 使用 3D 打印树脂为 Mac mini 创造了一个更小的新外壳，采用了 2019 款 Mac Pro 类似的孔洞设计来增强散热效果。此外，Nelson 将天线和电源按钮等部件重新安置到新外壳上，并<span class="accentTextColor">移除了 Mac mini 的风扇</span>。</p><p data-vmark="9d4a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/aa1d8e7f-5fbb-4869-b3c0-6b4d3449ddbb.png" w="692" h="417" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="692" height="417" referrerpolicy="no-referrer"></p><p data-vmark="c427" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/ef60b89e-25b4-4eda-a375-c078c9571f30.png" w="662" h="363" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="662" height="363" referrerpolicy="no-referrer"></p><p data-vmark="58d3" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/486a3c6f-55ac-41d9-98b2-7589db2f7ad6.png" w="844" h="448" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="844" height="435" referrerpolicy="no-referrer"></p><p data-vmark="c9d1">最后的结果令人惊讶，修改后的 M1 Mac mini 比原来<span class="accentTextColor">缩小了 78%</span>。</p><p data-vmark="9706">IT之家了解到，虽然新的设计去掉了风扇，但 Nelson 测试表明性能几乎没有变化，基准测试与原版几乎一样。</p><p data-vmark="6215" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/1f0d9951-ae46-4a32-b837-6727a1ed00a0.png" w="691" h="536" title="油管达人将苹果 M1 Mac mini 体积缩小了 78%，还支持 MagSafe 磁吸接口" width="691" height="536" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
