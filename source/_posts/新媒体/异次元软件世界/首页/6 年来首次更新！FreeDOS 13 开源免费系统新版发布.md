@@ -14,9 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2022/p/freedos/freedos.
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/parallels-bundle.html">劲省！PD17 虚拟机特惠包买一得十</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5352">刷新史低！三星 970 Plus 2T 固态硬盘</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p>用惯了 <a href="https://www.iplaysoft.com/windows11.html" target="_blank" rel="noopener">Windows 11</a> 或 <a href="https://www.iplaysoft.com/go/macos" target="_blank" rel="noopener">macOS</a> 等最新款操作系统的朋友，可能很难想象当年没有图形界面仅有<a href="https://www.iplaysoft.com/tag/%E5%91%BD%E4%BB%A4%E8%A1%8C" target="_blank" rel="noopener">命令行</a>的日子大家是怎样用电脑的，不管是好奇还是<a href="https://www.iplaysoft.com/tag/%E5%AD%A6%E4%B9%A0" target="_blank" rel="noopener">学习</a>，DOS 系统都有着另一番风味。</p><p><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2022/p/freedos/freedos.jpg" alt="FreeDOS 系统" width="680" height="453" referrerpolicy="no-referrer"></p><p>其实自从 Windows 系统问世并大卖之后，DOS 系统早就被淘汰出主流行列了，毕竟图形界面操作方便，DOS 操作太复杂。不过不少人还有 DOS 系统的需求，比如玩怀旧的 <strong>DOS 游戏</strong>，或是希望运行一些<a href="https://www.iplaysoft.com/tag/%E7%BB%8F%E5%85%B8" target="_blank" rel="noopener">经典</a>的老旧程序。</p><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">

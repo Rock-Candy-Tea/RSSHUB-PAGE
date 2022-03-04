@@ -34,6 +34,7 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/The
 <li><a href="https://9to5mac.com/2022/02/28/iphone-growth-steadies-in-europe-as-samsung-sales-shrink/">Apple sees iPhone growth in Europe while Samsung sales shrink during 2021</a></li>
 </ul>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
+<!-- youtube embed -->
   
 </div>
             

@@ -14,9 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2022/p/the-great-photo-
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/parallels-bundle.html">劲省！PD17 虚拟机特惠包买一得十</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5352">刷新史低！三星 970 Plus 2T 固态硬盘</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p>虽然现在任何人都能随手拿起<a href="https://www.iplaysoft.com/go/shouji" target="_blank" rel="noopener">手机</a>就拍照，但有一定的<a href="https://www.iplaysoft.com/tag/%E6%91%84%E5%BD%B1" target="_blank" rel="noopener">摄影</a>知识的话，你拍出来的作品绝对比别人的更加耐看有味。然而大多数「<a href="https://www.iplaysoft.com/go/sheying" target="_blank" rel="noopener">摄影书籍</a>」都比较晦涩枯燥，让刚入门的初学者望而却步。</p><p><a href="https://www.iplaysoft.com/go/sheying" target="_blank" rel="noopener"><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2022/p/the-great-photo-app/photography.jpg" alt="摄影学习教程 APP" width="680" height="450" referrerpolicy="no-referrer"></a></p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/sheying"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>传送门：摄影书籍</a></p><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">

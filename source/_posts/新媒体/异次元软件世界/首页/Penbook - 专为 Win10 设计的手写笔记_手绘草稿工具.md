@@ -14,9 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2018/p/penbook/penbook.
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/parallels-bundle.html">劲省！PD17 虚拟机特惠包买一得十</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5352">刷新史低！三星 970 Plus 2T 固态硬盘</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p><strong>Penbook</strong> 是一款 <a href="https://www.iplaysoft.com/windows11.html" target="_blank" rel="noopener">Windows 11</a> / <a href="https://www.iplaysoft.com/windows10.html" target="_blank" rel="noopener">Win10</a> / iOS 平台上非常实用的<strong>手写笔记</strong>、<strong>手绘草稿涂鸦</strong>工具，它提供了很好的手写记录体验，并完美支持触控笔(手写笔)，能让你感觉像在纸张上<a href="https://www.iplaysoft.com/tag/%E6%B6%82%E9%B8%A6" target="_blank" rel="noopener">书写</a>一样淋漓畅快。它与 <a href="https://www.iplaysoft.com/p/mind-maps-pro" target="_blank" rel="noopener">Mind Map Pro 思维导图制作工具</a>同属一个开发商。</p><p><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2018/p/penbook/penbook.jpg" alt="PenBook" width="680" height="382" referrerpolicy="no-referrer"></p><p><strong>Penbook</strong> 提供了多种纸张样式的背景，比如普通笔记本(格子、横线、分栏等排版)、日程表、代办清单、书法、乐谱，甚至是足球场、篮球场等体育模版等，可以适合你在<a href="https://www.iplaysoft.com/tag/%E5%B7%A5%E4%BD%9C" target="_blank" rel="noopener">工作</a>生活上各种不同场景下记录<a href="https://www.iplaysoft.com/tag/%E7%AC%94%E8%AE%B0" target="_blank" rel="noopener">笔记</a>信息。</p><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
