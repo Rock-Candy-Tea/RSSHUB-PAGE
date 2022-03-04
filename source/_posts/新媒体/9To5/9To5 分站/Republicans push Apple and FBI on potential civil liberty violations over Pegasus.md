@@ -30,7 +30,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Isr
 <p>NSO sells Pegasus only to governments, but its customers include countries with extremely poor human rights records – with political opponents and others targeted.</p>
 <p>That said, after a great deal of discussion following revelations about the abuse of Pegasus by other countries, the US decided against using it – and <a href="https://9to5mac.com/2021/11/03/pegasus-spyware-national-security-risk/" target="_blank" rel="noreferrer noopener">subsequently banned its import</a>. However, it does mean that a version exists which can target US phones, and we only have NSO’s word that this version has never been sold to anyone else.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

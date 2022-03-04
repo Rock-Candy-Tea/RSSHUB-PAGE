@@ -36,7 +36,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/Dut
 <div class="wp-block-file"><object class="wp-block-file__embed" data="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/22.2.28-ACM-Letter-KDA.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 22.2.28-ACM-Letter-KDA."></object><a id="wp-block-file--media-ca4c2d0e-0727-4ef6-9adc-c2ad119697bb" href="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/22.2.28-ACM-Letter-KDA.pdf">22.2.28-ACM-Letter-KDA</a><a href="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/22.2.28-ACM-Letter-KDA.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-ca4c2d0e-0727-4ef6-9adc-c2ad119697bb">Download</a></div>
 <p><em>Photo: <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a>/<a href="https://unsplash.com/s/photos/letter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em></p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

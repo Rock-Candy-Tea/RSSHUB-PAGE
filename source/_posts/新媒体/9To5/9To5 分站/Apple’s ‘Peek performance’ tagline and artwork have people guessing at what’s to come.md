@@ -28,7 +28,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/how
 <p><strong>Follow along with me</strong></p>
 <p>To keep up with more of my work, you can <a href="http://twitter.com/chancehmiller">follow me on Twitter</a>. Check out the <a href="https://cottonbureau.com/people/9to5mac">9to5Mac Merch Store </a>to help support the site. I also host a daily podcast, 9to5Mac Daily, which you can <a href="https://podcasts.apple.com/us/podcast/9to5mac-daily/id1331816080">subscribe to on Apple Podcasts</a>. </p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><a href="https://bit.ly/33Li77L"><img class="aligncenter wp-image-789035 size-full" src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/1Password-NB.png" alt width="749" height="150" referrerpolicy="no-referrer"></a></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             

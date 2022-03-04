@@ -25,7 +25,6 @@ thumbnail: 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/Cri
 <p>As a result of sanctions imposed by the US government and the European Union, <a href="https://9to5mac.com/2022/02/25/apple-pay-payments-suspended-in-russia-with-local-banks-hit-by-sanctions/" target="_blank" rel="noreferrer noopener">Apple Pay has also been suspended in Russia</a>.</p>
 <p>Apple says it will “continue to evaluate the situation” with the help of relevant governments to take further action if needed. Despite recent limitations, Apple services are still operating in Russia.</p>
 <div class="ad-disclaimer-container"><p class="disclaimer-affiliate"><em>FTC: We use income earning auto affiliate links.</em> <a href="https://9to5mac.com/about/#affiliate">More.</a></p><!-- post ad --></div><div id="after_disclaimer_placement"></div>
-<!-- youtube embed -->
   
 </div>
             
