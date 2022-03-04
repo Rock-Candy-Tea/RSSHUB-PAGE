@@ -1,0 +1,20 @@
+
+---
+title: '中信证券：央国企财管建设指导出台 ERP落地加速'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=2054'
+author: 证券时报网
+comments: false
+date: Fri, 04 Mar 2022 08:28:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2054'
+---
+
+<div>   
+<p>证券时报网讯，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600030" code="600030">中信证券</a>指出，2022年3月2日，国务院国有资产监督管理委员会印发《关于中央企业加快建设世界一流财务管理体系的指导意见》，旨在进一步深入开展对标世界一流管理提升行动，指导央企立足新发展阶段和信息技术变革大势，对其提升财务管理数字化能力提出更高要求。《意见》针对国企财务管理数字化变革提出了更高的要求，预计将推动ERP国产替代持续高景气发展，伴随着云化泛化使得ERP边界逐步打开，国内头部产品力强的优秀公司有望把握时代和政策机遇，进一步推进超大型国企央企国产替换加速落地，建议重点关注<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600588" code="600588">用友网络</a>、金蝶国际等ERP龙头企业。</p>
+
+                  
+</div>
+            

@@ -5,17 +5,17 @@ categories:
  - 设计
  - Dribbble
  - 流行
-headimg: 'https://picsum.photos/400/300?random=7170'
+headimg: 'https://picsum.photos/400/300?random=8090'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=7170'
+thumbnail: 'https://picsum.photos/400/300?random=8090'
 ---
 
 <div>   
 <div class="media-content">
       <div class="video-wrap">
-        <video muted loop playsinline autoplay data-src="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/8a1dc4cda52da2ab1d1d8f0aefbd6f82.mp4" data-video-small="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/002931bfa429e469eb28ef8f8011449f.mp4" data-video-medium="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/f7739e1a0ef1b3fb5bc4d5055aa3328b.mp4" data-video-large="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/f7739e1a0ef1b3fb5bc4d5055aa3328b.mp4"></video>
+        <video muted loop playsinline autoplay data-src="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/8a1dc4cda52da2ab1d1d8f0aefbd6f82.mp4" data-video-small="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/002931bfa429e469eb28ef8f8011449f.mp4" data-video-medium="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/f7739e1a0ef1b3fb5bc4d5055aa3328b.mp4" data-video-large="https://cdn.dribbble.com/users/141098/screenshots/17431605/media/8a1dc4cda52da2ab1d1d8f0aefbd6f82.mp4"></video>
         
         <div class="video-controls">
           <span class="mute-controls">
