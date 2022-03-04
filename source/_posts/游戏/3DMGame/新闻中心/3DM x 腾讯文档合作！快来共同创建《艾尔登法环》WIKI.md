@@ -25,6 +25,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220304/1646383672_6197
 <p style="text-indent:2em;">
 3DM 近日与腾讯文档正式合作，将推出《艾尔登法环》WIKI。通过微信或 QQ 账号登陆就可以参与编辑 WIKI，帮助引导新玩家的同时，也能在将来遇到自己找不到的物品时获得其他褪色者的帮助！赶紧来将你的游戏知识分享给大家吧！
 </p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220304/1646386016_712156.jpg" alt="3DM x 腾讯文档合作！快来共同创建《艾尔登法环》WIKI" referrerpolicy="no-referrer"> 
+</p>
 <p style="text-indent:2em;">
 <strong><span style="font-size:16px;"><span style="color:#E56600;">《艾尔登法环》WIKI编辑地址：</span><a href="https://docs.qq.com/sheet/DSG9JUFJKbWdHVUls" target="_blank">点击这里</a></span></strong> 
 </p>          
