@@ -1,0 +1,18 @@
+
+---
+title: '涉嫌财务造假，_ST新亿成今年退市第一股'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/content/202203/04/105408252483.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+author: 虎嗅
+comments: false
+date: Fri, 04 Mar 2022 03:21:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/content/202203/04/105408252483.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/lWiJ_q67ohF7PAg4Way42A" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks" label="备注">界面新闻 （ID：None）</span></a><span class="text-remarks" label="备注">，作者：赵阳戈，原文标题：《财务造假换来2300万元罚单和终身禁入，*ST新亿成今年退市第一股》，头图来自：视觉中国</span></p><p>*ST新亿<span class="text-remarks" label="备注">（600145.SH）</span>麻烦了。</p><p>3月3日公告，公司收到证监会的《市场禁入决定书》。内容显示，经查明，*ST新亿虚增2018年营业收入1338.54万元、利润总额129.11万元，占当年披露营业收入的100%、利润总额绝对值的5.24%；虚增2019年度营业收入572.36万元、营业外收入7590万元、利润总额7924.82万元，虚增营业收入、利润总额分别占当年披露营业收入和利润总额的55.13%、253.78%。</p><p>追溯调整后，<strong>*ST新亿2018年、2019年连续两年营业收入低于1000万元，2019年由盈转亏，*ST新亿2018年、2019年年度报告存在虚假记载。 </strong></p><p>此外，<strong>*ST新亿还存在重大遗漏。</strong>经查明，2020年5月24日，*ST新亿子公司喀什韩真源投资有限责任公司<span class="text-remarks" label="备注">（下称韩真源）</span>与喀什市自然资源局签署《喀什市开源市场用地规划调整开发协议》<span class="text-remarks" label="备注">（下称《调整开发协议》）</span>，约定对喀什开源市场进行规划调整并重新开发。</p><p>协议涉及的喀什开源市场资产总额为80358万元，占上市公司最近一期经审计总资产的72.36%。根据《调整开发协议》，如果韩真源2020年8月24日前未拆除完毕，视为韩真源放弃开发，喀什市自然资源局收回土地使用权，如韩真源原产权证书办理了抵押手续，应该在2020年7月20日内办理解抵押手续。<strong>但*ST新亿未及时披露该事项。 </strong></p><p>到了2020年8月28日，*ST新亿在2019年年度报告资产负债表日后事项中对 《调整开发协议》和开源市场拆迁事项进行了部分披露，<strong>但未将协议中关于“8月24日前未拆除完毕，视为韩真源放弃开发，喀什市自然资源局收回土地使用权”等风险事项予以披露，存在重大遗漏。 </strong></p><p>与此同时，<strong>*ST新亿实际控制人黄伟还通过多种手段组织、授意指使*ST新亿实施信息披露违法行为。</strong>监管层表示，黄伟作为董事长、财务总监、董事会秘书和上市公司实际控制人，在*ST新亿信息披露违法行为中居于核心地位，组织、策划及实施信息披露违法行为，并且已多次被证监会行政处罚及采取了10年市场禁入措施，黄伟违法行为情节特别严重，依据规定，<strong>证监会决定：对黄伟采取终身证券市场禁入措施。 </strong></p><p>另外，李勇作为*ST新亿监事及*ST新亿子公司负责人，涉案违法行为的发生与其职责、具体实施行为直接相关，与公司信息披露违法行为的发生具有紧密联系，并且已多次被证监会行政处罚及采取了5年市场禁入措施， 李勇违法行为情节特别严重，依据规定，证监会决定:<strong> 对李勇采取终身证券市场禁入措施。</strong></p><p>至于行政处罚，证监会决定对*ST新亿给予警告，并处以800万元的罚款；对黄伟给予警告，并处以1200万元的罚款<span class="text-remarks" label="备注">（作为直接负责的主管人员罚款400万元，作为*ST 新亿实际控制人罚款800万元）</span>；对李勇给予警告，并处以300万元的罚款。 </p><p>资料显示，*ST新亿主营业务为开发的市场房屋出租及物业管理。净利润始终在一正一负间徘徊，如果看扣非净利润的话，那已经是多年为负值。</p><p>在2020年，公司就因为经审计的归属于上市公司股东的净利润为负值且营业收入低于人民币1亿元，而在2021年4月27日被继续实施退市风险警示。最新的业绩预告显示，公司预计2021年为亏损，净利润为-2225.58万元至-3206.42万元；预计扣非净利润为-2197.98万元至-3162.53万元。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202203/04/105408252483.png?imageView2/2/w/1000/format/png/interlace/1/q/85" data-w="1000" data-h="345" src="https://img.huxiucdn.com/article/content/202203/04/105408252483.png?imageView2/2/w/1000/format/png/interlace/1/q/85" referrerpolicy="no-referrer"></p><p label="图片备注" class="text-img-note">来源：同花顺<br></p><p>3月2日晚间，*ST新亿披露，交易所下发通知，根据《股票上市规则》<span class="text-remarks" label="备注">（2022年1月修订）</span>第9.5.2条和第9.5.8 条的规定，对公司股票作出终止上市的决定。<strong>对此*ST新亿表示自己将尽快组织申辩材料，在5个交易日内向上交所提交书面听证申请。</strong></p><p><strong>3月3日，*ST新亿的股票已停牌。</strong></p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="https://mp.weixin.qq.com/s/lWiJ_q67ohF7PAg4Way42A" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks" label="备注">界面新闻 （ID：None）</span></a><span class="text-remarks" label="备注">，作者：赵阳戈</span></p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/202203040808573372html_img.blob'
 author: 二柄 APP
 comments: false
-date: 2022-03-04 03:13:21
+date: 2022-03-04 04:11:33
 thumbnail: 'https://erbingeditor.diershoubing.com/202203040808573372html_img.blob'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/202203040808573372html_img.blo
 2.PS5版《艾尔登法环》90017份（新发售）
 3.《宝可梦传说：阿尔宙斯》60754份（累计2069549份）
 4.PS4版《苏菲的炼金工房2》22104份（新发售）
-5.PS5版《苏菲的炼金工房2》18912份（新发售）
+5.NS版《苏菲的炼金工房2》18912份（新发售）
 6.《马力欧赛车8：豪华版》13055份（累计4456087份） 
 7.PS4版《地平线 西之绝境》11468份（累计59944份）
 8.《马力欧派对：超级巨星》9851份（累计886009份）

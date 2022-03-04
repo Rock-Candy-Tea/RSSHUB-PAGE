@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 推酷
  - 周刊
-headimg: 'https://picsum.photos/400/300?random=7296'
+headimg: 'https://picsum.photos/400/300?random=4155'
 author: 推酷
 comments: false
 date: Mon, 28 Feb 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7296'
+thumbnail: 'https://picsum.photos/400/300?random=4155'
 ---
 
 <div>   
