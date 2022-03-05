@@ -1,0 +1,19 @@
+
+---
+title: '《GT赛车7》发售 索尼多个第一方工作室联动祝贺'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0305/0d00a5ee9a8900b.jpg'
+author: cnBeta
+comments: false
+date: Sat, 05 Mar 2022 12:37:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0305/0d00a5ee9a8900b.jpg'
+---
+
+<div>   
+索尼第一方竞速游戏《GT赛车7》现已发售，Metacritic上收录了91家媒体评分，PS5版平均分88分。在发售的同时，索尼其他第一方工作室也纷纷发表了祝贺，为自家游戏打气和宣传。<br>
+ <p>《对马岛之鬼》开发商Sucker Punch：</p><p><img src="https://static.cnbetacdn.com/article/2022/0305/0d00a5ee9a8900b.jpg" referrerpolicy="no-referrer"></p><p>祝贺山内一典和整个GT团队在今天推出《GT赛车7》，我们非常期待游玩这款游戏。如果你们加入一个赛马模式，记得告诉我们。仁已经准备好了。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/00564d62f9bdd6f.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/00564d62f9bdd6f.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/00564d62f9bdd6f.jpg" referrerpolicy="no-referrer"></a></p><p>《战神》开发商圣莫尼卡：</p><p><img src="https://static.cnbetacdn.com/article/2022/0305/dee9f4ea42432d2.jpg" referrerpolicy="no-referrer"></p><p>我们已经准备好竞速了。祝贺我们在Polyphony Digital的朋友，推出《GT赛车7》。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/d816f3dd657dffd.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/d816f3dd657dffd.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/d816f3dd657dffd.jpg" referrerpolicy="no-referrer"></a></p><p>《往日不再》开发商Bend工作室：</p><p>祝贺Polyphony GT团队今天到达终点线，推出《GT赛车7》，这个时候我们不得不换掉我们的摩托车。路上见。</p><p><img src="https://static.cnbetacdn.com/article/2022/0305/53e83db27811b98.jpg" referrerpolicy="no-referrer"></p><p>Insomniac Games：</p><p><img src="https://static.cnbetacdn.com/article/2022/0305/d931bdaa6c2136b.jpg" referrerpolicy="no-referrer"></p><p>祝贺GT团队今天推出《GT赛车7》。我们正在环游宇宙寻找最近的世界巡回赛。赛道上见。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/10e5d75029b0f3a.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/10e5d75029b0f3a.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/10e5d75029b0f3a.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/6b9d52b4dfd32c6.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/6b9d52b4dfd32c6.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/6b9d52b4dfd32c6.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/ecd2f17e9d341a9.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/ecd2f17e9d341a9.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/ecd2f17e9d341a9.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/307fd579b06a967.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/307fd579b06a967.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/307fd579b06a967.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/fdb8028d8f07def.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/fdb8028d8f07def.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/fdb8028d8f07def.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0305/ec0f80a48812c74.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0305/ec0f80a48812c74.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0305/ec0f80a48812c74.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
