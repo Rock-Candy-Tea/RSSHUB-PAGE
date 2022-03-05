@@ -5,11 +5,11 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=9463'
+headimg: 'https://picsum.photos/400/300?random=6638'
 author: 世界经济论坛
 comments: false
-date: 2022-03-04 15:10:31
-thumbnail: 'https://picsum.photos/400/300?random=9463'
+date: 2022-03-05 00:37:56
+thumbnail: 'https://picsum.photos/400/300?random=6638'
 ---
 
 <div>   
@@ -22,7 +22,7 @@ thumbnail: 'https://picsum.photos/400/300?random=9463'
     <p>This briefing paper introduces the Building Value Framework, which aims to shift how the value of investments green buildings are perceived. The framework proposes a more holistic decision-making approach, recognizing the importance of social and environmental outcomes, as well as system performance. It incorporates a detailed description of both financial and non-financial value outcomes, as well as an operational checklist to support asset owners and investors in making future-proof investments to decarbonize buildings. </p>
 </div>
 <div class="st__content-block st__content-block--text">
-    <p><b>We welcome stakeholders to join us on this journey.</b></p> 
+    <p><b>We welcome stakeholders to join us on this journey.</b></p>
 </div>
 <div class="st__content-block st__content-block--text">
     <p>To learn more about the Net Zero Carbon Cities program, please visit the webpage <a href="https://www.weforum.org/nzcc">here</a>.</p>
