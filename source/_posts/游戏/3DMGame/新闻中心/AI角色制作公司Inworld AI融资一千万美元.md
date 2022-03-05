@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220305/1646460485_3182
 Inworld AI 在 Bitkraft Ventures 领投的一轮融资中筹集了 1000 万美元。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220305/1646460485_318294.jpg" alt="AI角色制作公司Inworld AI融资一千万美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220305/1646460485_318294.jpg" alt="AI角色制作公司Inworld AI融资一千万美元" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 公告称，该公司的创作者平台专注于构建“模仿人类认知能力”的人工智能角色。
@@ -32,7 +32,7 @@ Venture Reality Fund 也为这轮融资做出了贡献，现有投资者 Kleiner
 筹集的资金将用于扩大 Inworld AI 的团队，因为其创建者平台的测试版将于第二季度推出。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220305/1646460492_948119.png" alt="AI角色制作公司Inworld AI融资一千万美元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220305/1646460492_948119.png" alt="AI角色制作公司Inworld AI融资一千万美元" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Inworld AI 的联合创始人兼首席执行官 Ilya Gelfenbeyn 表示：“与 Unity 和 Unreal 如何让开发人员创建视觉上引人入胜的环境类似，Inworld AI 平台旨在帮助构建具有高度可配置性的虚拟角色，从而创造出更具吸引力形象和令人难忘的用户体验。”
