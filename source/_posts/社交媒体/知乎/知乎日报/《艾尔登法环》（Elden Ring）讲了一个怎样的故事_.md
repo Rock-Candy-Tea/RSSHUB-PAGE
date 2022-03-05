@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-05 09:08:42
-thumbnail: 'https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162'
+date: 2022-03-05 10:09:34
+thumbnail: 'https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">不告诉你，</span><span class="bio">惹不起惹不起</span>
 <a href="https://www.zhihu.com/question/517963071/answer/2370998644" class="originUrl" hidden>查看知乎原文</a>
 </strong>
