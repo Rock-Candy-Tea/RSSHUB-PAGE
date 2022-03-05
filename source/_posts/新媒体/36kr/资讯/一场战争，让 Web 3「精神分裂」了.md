@@ -28,7 +28,7 @@ thumbnail: 'https://img.36krcdn.com/20220303/v2_5c236afd107544b99a3a645e9046b27b
 <p>宽松的政策也让乌克兰出现不少加密货币从业者，这也在某种程度上让不少加密货币以及 NFT 领域的团体为举办各种活动以及 DAO 组织（自治组织）支持乌克兰。</p> 
 <p>根据统计，包括乌克兰官方在内的各种加密货币渠道，已经为乌克兰筹集到超过 2000 万美元的捐赠。不过，这些捐赠的加密币将会如何被利用，尚没有详细说明。</p> 
 <h2><strong>02 Make Web 3，Not War</strong></h2> 
-<p>2 月 24 日俄乌开战当天，以太坊创始人 Vitalik Buterin（V 神）就在推特上谴责「放弃和平手段」，力挺「荣耀归于乌克兰」。截至目前该推文已经获得 1.4 万次转载和 7.2 万次喜欢。</p> 
+<p>2 月 24 日俄乌开战当天，以太坊创始人 Vitalik Buterin（V 神）就在推特上谴责「放弃和平手段」，力挺「<a class="project-link" data-id="3969307" data-name="荣耀" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969307" target="_blank">荣耀</a>归于乌克兰」。截至目前该推文已经获得 1.4 万次转载和 7.2 万次喜欢。</p> 
 <p>可以说「V 神」的态度基本代表了加密货币和 NFT 圈的心声。NFT 领域最知名 IP 无聊猿（Bored Ape）创始人 David Gokhshtein 发布了一张配有乌克兰国旗颜色的无聊猿形象，并表示「我们有力量去帮助」。</p> 
 <p>Aave 公链创始人 Stani Kulechov 也表示，「Web 3 本身就是为了帮助受压迫的人而生的」。</p> 
 <p>俄罗斯知名女子朋克乐队 Pussy Riot 则成立了一个名为 UkraineDAO 的自治组织，希望「利用 Web 3 技术和社区为乌克兰的组织筹集捐款」，粉丝可以通过购买印有乌克兰国旗的 NFT 艺术品来进行捐赠。</p> 
@@ -58,6 +58,6 @@ thumbnail: 'https://img.36krcdn.com/20220303/v2_5c236afd107544b99a3a645e9046b27b
 <p><strong>以去中心化和自由为标榜的区块链和 Web 3，在面对一个特殊的情况时，从业者和参与者表现出了不同的反应，这种「去中心化自由」和「中心化正义」之间的矛盾，颇为耐人寻味。</strong></p> 
 <p>技术有没有价值倾向，但使用技术的人总是有的。</p> 
 <p>*头图来源：Twitter</p> 
-<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652945233&idx=1&sn=10d398a6d44c87a3000da571ec34e359&chksm=7e55c6e749224ff19dc517836a9cf8914a761f88601fc1524e406edf302124c7f7658ee3fc68#rd">“极客公园”（ID：geekpark）</a>，作者：靖宇，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652945233&idx=1&sn=10d398a6d44c87a3000da571ec34e359&chksm=7e55c6e749224ff19dc517836a9cf8914a761f88601fc1524e406edf302124c7f7658ee3fc68#rd">“极客公园”（ID：geekpark）</a>，作者：靖宇，36氪经授权发布。</p>  
 </div>
             
