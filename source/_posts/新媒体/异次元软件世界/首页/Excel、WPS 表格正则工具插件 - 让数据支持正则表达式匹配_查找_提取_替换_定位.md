@@ -14,9 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2022/excel-regex-tool/e
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/parallels-bundle.html">劲省！PD17 虚拟机特惠包买一得十</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5352">刷新史低！三星 970 Plus 2T 固态硬盘</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p>如果你<a href="https://www.iplaysoft.com/tag/%E5%8A%9E%E5%85%AC" target="_blank" rel="noopener">办公</a>时经常使用 Office 的 <a href="https://www.iplaysoft.com/go/officepost" target="_blank" rel="noopener">Excel</a> 或 <a href="https://www.iplaysoft.com/wps.html" target="_blank" rel="noopener">WPS</a> 表格，并且经常需要处理数据，那么相信这款由异次元读者 sixtyone 原创开发的「<strong>Excel 正则工具</strong>」插件也许会帮你一个超级大忙！</p><p><a href="https://www.iplaysoft.com/go/officepost" target="_blank" rel="noopener">Excel</a>、<a href="https://www.iplaysoft.com/wps.html" target="_blank" rel="noopener">WPS</a> 表格一直没有正则功能，对于有大 “批量” 处理数据需求的打工人士来说真的很无奈。而本软件正是把强大的正则功能完美地添加到表格中，让 <strong>Excel、WPS 支持正则表达式</strong>的<a href="https://www.iplaysoft.com/tag/%E6%90%9C%E7%B4%A2" target="_blank" rel="noopener">搜索</a>、匹配提取、替换、定位等，让数据处理能力进化一个层次！</p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/regex"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>学习正则表达式</a></p><h3>让 Office Excel、WPS 表格支持正则表达式的免费插件：</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
