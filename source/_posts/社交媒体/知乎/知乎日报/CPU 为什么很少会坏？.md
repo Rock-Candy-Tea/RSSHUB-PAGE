@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-06 00:35:38
-thumbnail: 'https://pic3.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162'
+date: 2022-03-06 02:02:22
+thumbnail: 'https://pic2.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-c085855ea40ccfdb3e70ee7bad672171_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">温戈，</span><span class="bio">想当作家的 数字芯片设计工程师 公众号：OpenIC</span>
 <a href="https://www.zhihu.com/question/20943539/answer/2365920874" class="originUrl" hidden>查看知乎原文</a>
 </strong>
