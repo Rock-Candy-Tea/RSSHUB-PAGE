@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-06 11:08:01
-thumbnail: 'https://pic2.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162'
+date: 2022-03-06 12:13:48
+thumbnail: 'https://pic1.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-0b28a51ddb8e79bbdffd2f6710501afb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">00，</span><span class="bio">设计师 - 人机交互，创意编程，可视化</span>
 <a href="https://www.zhihu.com/question/519665064/answer/2371252393" class="originUrl" hidden>查看知乎原文</a>
 </strong>
