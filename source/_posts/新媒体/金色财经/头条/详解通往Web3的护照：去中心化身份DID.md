@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=5339'
+headimg: 'https://picsum.photos/400/300?random=8330'
 author: 金色财经
 comments: false
-date: Sun, 06 Mar 2022 12:27:04 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5339'
+date: Mon, 07 Mar 2022 02:56:18 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8330'
 ---
 
 <div>   
-互联网的创建没有为人们提供本地身份验证层。由此，数字身份问题被纳入网站和应用程序范畴。  
+在本报告中，我们介绍了关键的DID概念和当前的DID生态系统，并深入研究了处于构建Web3身份基础前沿的优质项目。  
 </div>
             
