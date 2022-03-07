@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-07 08:11:39
-thumbnail: 'https://pica.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162'
+date: 2022-03-07 09:09:54
+thumbnail: 'https://pic2.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-d0eba188bb9c0c5a366e5c08dc4b1b17_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">折原临也，</span><span class="bio">没有感情的时尚穿搭干货输出机，专注帮助穿搭小白提高审美品味。</span>
 <a href="https://www.zhihu.com/question/517753635/answer/2363537950" class="originUrl" hidden>查看知乎原文</a>
 </strong>
