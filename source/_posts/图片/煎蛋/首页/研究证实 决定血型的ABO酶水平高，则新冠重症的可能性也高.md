@@ -35,6 +35,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2020/03/2
 <p>众所周知，吸引更多的白细胞可以改善血管壁的免疫反应，特别是在 COVID 中，这似乎有助于抵抗感染。</p>
 <p>识别这些风险因素可能有助于科学家开发新的治疗方法，因为这些蛋白质可能成为新药(或已被重新利用的现有药物)的靶点。</p>
 <p>它还使我们能够制定一份其他研究人员可以优先考虑的蛋白质列表，以便将来我们可以更多地了解 COVID 的生物学风险因素。</p>
-<p>https://www.sciencealert.com/giant-study-identifies-blood-proteins-that-c​​ould-increase-risk-of-severe-covid-19 </p>  
+<p>https://www.sciencealert.com/giant-study-identifies-blood-proteins-that-could-increase-risk-of-severe-covid-19</p>  
 </div>
             
