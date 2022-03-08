@@ -1,0 +1,18 @@
+
+---
+title: '恭喜！大S承认和具俊烨结婚：人生无常 珍惜当下'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6226ac67622768fcff001818_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 07 Mar 2022 17:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6226ac67622768fcff001818_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202203/6226ac67622768fcff001818_1024.jpg" data-height="1237" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6226ac67622768fcff001818_1024.jpg" referrerpolicy="no-referrer"></div></div><b>网易娱乐 3 月 8 日报道</b> 刚刚！大 S 在 ins 承认结婚。她发文：" 人生无常，我珍惜当下的幸福。感谢一切让我一步一步走到现在的所有。" 承认两人结婚了。据悉，多年前，具俊晔曾在采访中透露和大 S 交往 1 年，契机是酷龙到台湾开唱，当时大 S 看了演唱会后成了歌迷。后来他再度访台，演艺圈的朋友介绍大 S 给他认识，两人几乎是一见钟情，不久便开始交往，大 S 还在脚踝上文了男友名字。<p></p><p>相关报道：这么快？韩媒曝大 S 再婚嫁具俊烨 男方发长文官宣</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202203/6226a56f622768fcff0017cb_1024.jpg" data-height="1231" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6226a56f622768fcff0017cb_1024.jpg" referrerpolicy="no-referrer"></div></div><b>网易娱乐 3 月 8 日报道</b> 据韩媒报道，Clon 组合的具俊晔和大 S 徐熙媛最近完成了结婚登记。TV Daily 于本月初确认了两人成为合法夫妻的事实。具俊晔计划不久后前往妻子所在的中国台湾，在当地也进行结婚登记。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/6226aa63622768fcff001810_1024.jpg" data-height="995" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6226aa63622768fcff001810_1024.jpg" referrerpolicy="no-referrer"></div></div>随后，53 岁的 Clon 组合具俊烨在 Ins 宣布与大 S 结婚！宣称听到她离婚的消息找到 20 多年前的号码，再次联系起来。<p></p><p>具俊晔写道：" 我要结婚了，想和 20 年前相爱的女人延续爱情，听到她离婚的消息，我找到了 20 年前的那个号码联系了她。幸好那个号码没变，我们才能重新连接起来，时间已经过去很久，不能再浪费了，所以我提议结婚，她也接受了，决定一起生活……希望大家多多支持和祝福，谢谢。"</p><p>随后。吴佩慈点赞了这条消息。</p><p>据悉，具俊烨和徐熙媛的缘分可以追溯到几十年前。过去具俊烨曾受人气歌手苏惠伦的邀请登上过舞台。正好作为观众来到现场的徐熙媛见到具俊烨后产生了好感。</p><p>偶然再次相遇的他们很快便坠入了爱河。据悉，他们的兴趣相似。但是当时因为演艺界禁止恋爱的社会氛围和忙碌的行程，两人很少见面，恋爱一年就分手了。两人的恋爱故事后来也曾被具俊烨公开过。</p><p>2021 年 11 月 22 日，大 S 汪小菲官宣离婚。</p><p>22 日，汪小菲、大 S 发布离婚声明，" 经过汪小菲先生和徐熙媛女士认真、慎重地考虑，两人已决定和平解除婚姻关系，并与近日办理了相关手续。未来两人将以父母、朋友的身份愉快相处，也将继续共同抚养孩子。"</p><p>声明全文：</p><p>致各位关心汪小菲先生和徐熙媛女士的朋友们， 感谢各位朋友一直以来对汪小菲先生和徐熙媛女士的喜爱和支持。经过汪小菲先生和徐熙媛女士认真、慎重地考虑，两人已决定和平解除婚姻关系，并已于近日办理了相关手续。 汪小菲先生与徐熙媛女士有缘能够相识相知，共同度过了一段幸福美好的时光。即使现在选择分开，也非常感恩对方的付出。曾经，作为夫妻携手前行，未来，两人将以父母、朋友的身份愉快相处，也将继续共同扶养孩子并给予孩子全部的爱与陪伴。</p><p>希望媒体和大众能够尊重双方的选择，同时为避免对双方及其家人产生不必要的伤害，恳请各位能够给予双方更多的私人空间。</p><p>此前，小 S 本月初曾被问到姐姐的状况，她答道：" 大 S 正在追求幸福的道路上 "。</p><p>婚姻时间线盘点：</p><p>2010 年 11 月 16 日，大 S 与汪小菲在北京登记结婚。</p><p>2011 年 3 月 22 日，两人在三亚举行婚礼。</p><p>2014 年 4 月 24 日，女儿汪希玥出生。</p><p>2016 年 5 月 14 日，儿子汪希箖出生。</p><p>2019 年 3 月 6 日，汪小菲就离婚传闻发声明，要求媒体下架杂志并道歉。</p><p>2020 年 9 月 14 日，媒体曝光汪小菲在酒吧与朋友聚会，称其醉酒后搂抱陌生女子。随后，汪小菲回应：" 你哪个眼睛看见我手了，别给我配图编故事。"</p><p>2021 年 3 月 22 日，汪小菲晒出与大 S 的合照，庆祝两人结婚十周年。</p><p>2021 年 6 月 5 日，台媒爆料大 S 向媒体透露自己和汪小菲在办离婚手续。汪小菲回应 " 我不知情 "。</p><p>2021 年 6 月 6 日，汪小菲转发网友整理他的早期言论微博并表白大 S。目前，该条微博已删除。</p><p>2021 年 6 月 8 日，汪小菲被拍到与好友酒吧聚会。</p><p>2021 年 10 月 9 日，汪小菲隔离结束，返台为大 S 庆生。</p><p>2021 年 11 月初，大 S 向法院递状诉请与汪小菲离婚。</p><p>2021 年 11 月 22 日，大 S 汪小菲正式官宣离婚。</p><p> 本文来源：网易娱乐 责任编辑： 胡梦瑶 _NK5655</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
