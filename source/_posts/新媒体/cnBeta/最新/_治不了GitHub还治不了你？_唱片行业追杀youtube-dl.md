@@ -1,0 +1,19 @@
+
+---
+title: '_治不了GitHub还治不了你？_唱片行业追杀youtube-dl'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0308/f0c47fd9d3a81f8.png'
+author: cnBeta
+comments: false
+date: Tue, 08 Mar 2022 08:02:54 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0308/f0c47fd9d3a81f8.png'
+---
+
+<div>   
+YouTube 视频下载神器 youtube-dl 还在被追杀。这款在 GitHub 上累计收获 100k+ Star 的开源工具，2020 年末遭到了美国唱片协会（RIAA）的投诉而一度下架。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/f0c47fd9d3a81f8.png"><img data-original="https://static.cnbetacdn.com/article/2022/0308/f0c47fd9d3a81f8.png" src="https://static.cnbetacdn.com/thumb/article/2022/0308/f0c47fd9d3a81f8.png" referrerpolicy="no-referrer"></a></p><p>最近，索尼、华纳、环球三大唱片巨头，又在德国起诉一家名为 Uberspace 的小型网页托管服务商。Uberspace 不提供任何 youtube-dl 源代码，只是托管其官方网站，并提供链接到 GitHub。</p><p>当初 GitHub 顶住压力让 youtube-dl 重新上架，既然动不了 GitHub，唱片行业便开始把目光转向了其他公司。</p><p>三大唱片巨头在起诉文件中称，youtube-dl 绕过了 YouTube 的数字保护锁，早在 2017 年德国法院就认定这是非法的。youtube-dl 可以让用户不受限制地下载歌手的音乐视频，RIAA 认为这侵犯了他们的版权。</p><p>目前受委托的 Rasch 律师事务所已经向 Uberspace 公司发出了停止令。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/28d2db00c57b8fa.png"><img data-original="https://static.cnbetacdn.com/article/2022/0308/28d2db00c57b8fa.png" src="https://static.cnbetacdn.com/thumb/article/2022/0308/28d2db00c57b8fa.png" referrerpolicy="no-referrer"></a></p><p>网页托管商：不会屈服</p><p>对此，Uberspace 公司 CEO 向版权新闻网站 TorrentFreak 表示，诉讼很没有道理，因为软件本身不是托管在他们的系统上，让他们卷入其中是相当荒谬的。</p><p>他还举例说，封杀 youtube-dl 就像封杀 Firefox 浏览器一样。因为 YouTube 虽然有 DRM 措施保护电影和音乐版权，但实际上 youtube-dl 并没有破解它，而是相当于用一个浏览器查看在线视频。</p><blockquote></blockquote><p>你不能仅仅因为可以用 Firefox 访问 YouTube 上的音乐视频，就禁止 Firefox 吧。</p><p>Uberspace 律师称，唱片公司诉讼的目的是为了实现判决先例，一旦成功，那么其他公司在有争议的情况下，就会被采取法律措施。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/41c34e437b11067.png"><img data-original="https://static.cnbetacdn.com/article/2022/0308/41c34e437b11067.png" src="https://static.cnbetacdn.com/thumb/article/2022/0308/41c34e437b11067.png" referrerpolicy="no-referrer"></a></p><p>而 youtube-dl 的合法性确实存在争议。</p><p>虽然 YouTube 的服务条款通常不允许下载，但德国公民也有制作私人副本的权利，只要向德国音乐版权保护协会 GEMA 缴纳费用即可。</p><p>在的强大版权压力面前，德国自由权利协会（GFF）开始为 Uberspace 提供法律援助。</p><p>来自 GFF 的著名版权专家 FelixReda 说，为了确保 Uberspace 不会承担捍卫基本权利的法律风险，GFF 决定支持 Uberspace 的这些诉讼。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/1ca8616d4201d08.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0308/1ca8616d4201d08.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0308/1ca8616d4201d08.jpg" referrerpolicy="no-referrer"></a></p><p>Uberspace 也确实顶住了压力，这家公司声明：youtube-dl 只是一个不规避任何数字锁的工具，因此 Uberspace 不会被迫关闭主页。</p><p>youtube-dl 风波始末</p><p>2020 年 10 月 23 日，RIAA 援引《数字千年版权法》（DMCA）的 1201 条法规向 GitHub 发出了删除 youtube-dl 的通知。RIAA 认为 youtube-dl 破解了付费音乐的版权保护锁。</p><p>此举激怒了广大程序员，大家开始纷纷 fork 该项目，让 RIAA 很难完全删除每个代码副本。甚至还有网友把源代码转成图片到处传播，以示抗议。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/ab8144b538a7923.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0308/ab8144b538a7923.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0308/ab8144b538a7923.jpg" referrerpolicy="no-referrer"></a></p><p>24 天后，2020 年 11 月 16 日，电子前沿基金会（EFF）正式向 GitHub 发送公开信，质疑 GitHub 的下架行为。</p><p>实际上，YouTube 上的音乐视频并不是加密的，youtube-dl 下载视频的方式类似于观看视频，没有破解版权保护，其实是以不侵犯版权的方式获得下载副本。</p><p>经过讨论后，GitHub 的法律团队认定 youtube-dl 没有侵权。这件事甚至让 GitHub 的 CEO Nat Friedman 都亲自下场。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0308/edf9251bbb3ef23.png"><img data-original="https://static.cnbetacdn.com/article/2022/0308/edf9251bbb3ef23.png" src="https://static.cnbetacdn.com/thumb/article/2022/0308/edf9251bbb3ef23.png" referrerpolicy="no-referrer"></a></p><p>他当时在 Twitter 上表示，GitHub 与开发者们站在一起，恢复了 youtube-dl 的存储库，1201 法案已经过时，需要修复。</p><p>GitHub 还成立了 100 万美元的开发者防御基金，用于帮助开发者遭无端下架后的索赔。但唱片公司没有放弃，终于在今年卷土重来，不知道这次 youtube-dl 能不能顶住。</p>   
+</div>
+            
