@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220308/1646721268_8841
 
 <div>   
 <p style="text-indent:2em;">
-由开发商Smilegate制作的游戏《<a target="_blank" href="https://www.3dmgame.com/games/cfx/">穿越火线X</a>》在发售后，遭到了大量粉丝和媒体的批评，因为它的游戏玩法及其肤浅，<span>单人战役</span>单调又乏味<span>。在经历如此糟糕的开局后，Smilegate决定为游戏推送重大更新，以改善游戏体验。</span>
+由开发商Smilegate制作的游戏《<a target="_blank" href="https://www.3dmgame.com/games/cfx/">穿越火线X</a>》在发售后，遭到了大量粉丝和媒体的批评，因为它的游戏玩法及其肤浅，<span>单人战役</span>单调又乏味<span>。在经历如此糟糕的开局后，Smilegate决定为游戏推送重大更新，以改善游戏体验。</span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220308/1646721268_884115.jpg" alt="《穿越火线X》将获重大更新 修复Bug增添新内容" referrerpolicy="no-referrer"> 
