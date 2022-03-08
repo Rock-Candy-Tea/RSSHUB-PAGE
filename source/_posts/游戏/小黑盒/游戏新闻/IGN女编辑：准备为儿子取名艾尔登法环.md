@@ -1,0 +1,18 @@
+
+---
+title: 'IGN女编辑：准备为儿子取名艾尔登法环'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/03/08/2e12eb07375eaa7c11f52e61d858f05e/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 08 Mar 2022 12:00:50 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/03/08/2e12eb07375eaa7c11f52e61d858f05e/thumb.jpeg'
+---
+
+<div>   
+<p>《艾尔登法环》俘获了很多玩家的心，现在甚至有人愿意给儿子取名为“艾尔登法环”。</p><p>今天，IGN执行编辑露西.奥布莱恩在社交媒体上写道：“准备给本周三出生的儿子取名为艾尔登法环，如果法律不允许，就取名为Fromsoftware O’Brien。”</p><p><img class="lazy" data-height="421" src="https://imgheybox.max-c.com/bbs/2022/03/08/2e12eb07375eaa7c11f52e61d858f05e/thumb.jpeg" data-width="1758" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>露西是IGN特写版的执行编辑，她是新西兰人，目前在美国加州工作。下图就是露西，她看上去很阳光，充满活力。</p><p><img class="lazy" data-height="1412" src="https://imgheybox.max-c.com/bbs/2022/03/08/1edc113aa02d40daedb36ecab90534a8/thumb.jpeg" data-width="1414" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p><img class="lazy" data-height="1409" src="https://imgheybox.max-c.com/bbs/2022/03/08/461be42ac25d150c07a208801d8a84d7/thumb.jpeg" data-width="1458" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>露西做出这样的举动，足以证明她是多么喜欢《艾尔登法环》。她曾经在3月4日发帖称：“在谈论《艾尔登法环》时，我试图不依赖陈词滥调，但最终失败了。游戏太棒了，我完全着迷了。”</p><p>上个月24日，也就是《艾尔登法环》首发日前一天，露西写道：“我要么开始玩《艾尔登法环》，要么在2周内生下孩子。我没办法同时做两件事。”</p><p><img class="lazy" data-height="345" src="https://imgheybox.max-c.com/bbs/2022/03/08/24619ccdb276b267b1f190cd9d22c643/thumb.jpeg" data-width="1863" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>众所周知，IGN给了《艾尔登法环》满分，历史上IGN只给了31款游戏满分，包括《荒野大镖客2》、《极限竞速地平线5》、《最后生还者：重制版》和《微软模拟飞行》等。可以想象，在IGN内部，编辑们对《艾尔登法环》的评价之高。</p><p>露西曾经为很多游戏评分，其中不少是顶尖大作，包括《羞辱2》、《神秘海域4》、《古墓丽影崛起》、《蝙蝠侠：回到阿卡姆》、《生化危机3》和《地平线：零之黎明》等，但从未给“魂系”游戏评分。如果分类的话，她评分的游戏主要是动作冒险类。</p><p>看上去，露西喜欢并且擅长动作冒险类游戏，这一次不可自拔地爱上《艾尔登法环》，也许她是魂系游戏的萌新玩家。</p><p>《艾尔登法环》有一些争议，这很正常，圈内玩家爽得一塌糊涂，圈外玩家表示看不懂。其实，如果要知道它是否好玩，最好的办法就是自己体验一番。</p><h2>今日最佳</h2><p><img class="lazy" data-height="512" src="https://imgheybox.max-c.com/bbs/2022/03/08/5f343e0b46a9b96e4c17a7dfb30f9088/thumb.jpeg" data-width="512" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>次世代版《GTA5》价格出炉：完整版40美元，线上版20美元。</p><p><img class="lazy" data-height="2048" src="https://imgheybox.max-c.com/bbs/2022/03/08/64c721aa2d20a7288170e2266f6c584a/thumb.jpeg" data-width="1638" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>魔幻大作《Forspoken》宣布跳票到今年10月11日。</p><p><img class="lazy" data-height="899" src="https://imgheybox.max-c.com/bbs/2022/03/08/f8cb7e7aadbdcd3f32fed0f2adb8c93c/thumb.jpeg" data-width="1600" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>据VGC，微软可能在今年E3上展示传奇游戏续作——《完美黑暗》。</p><p><img class="lazy" data-height="630" src="https://imgheybox.max-c.com/bbs/2022/03/08/3db656817dafb1db6e6574b640879450/thumb.png" data-width="1200" referrerpolicy="no-referrer"></p><a href="https://api.xiaoheihe.cn/maxnews/app/share/detail/2477421" target="_blank"></a><p>据外媒gamereactor，索尼本周可能发布重大消息。</p>  
+</div>
+            
