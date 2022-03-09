@@ -1,0 +1,18 @@
+
+---
+title: '苹果发布搭载 M1 芯片的 iPad Air，有哪些亮点和不足？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic4.zhimg.com/v2-5ce4ce6fbe2f1104924bb43337565d0e_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 08 Mar 2022 21:05:13 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-5ce4ce6fbe2f1104924bb43337565d0e_1440w.jpg'
+---
+
+<div>   
+LycheeLi荔枝荔的回答<br><br><h2>iPad Air：有了最强芯 M1，但还是 Air</h2><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-5ce4ce6fbe2f1104924bb43337565d0e_1440w.jpg" data-caption data-size="normal" data-rawwidth="1280" data-rawheight="718" data-default-watermark-src="https://pic1.zhimg.com/v2-4b23bf9cb949ef0dca672fc4b427acdd_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-5ce4ce6fbe2f1104924bb43337565d0e_r.jpg" referrerpolicy="no-referrer"></figure><ul><li data-pid="9S68JlVR">最大的更新是<b>换了 M1 芯片</b></li><ul><li data-pid="QRDrMgBK">所以和 iPad Pro 一样快了，<b>CPU 比上一代 A14 快 60% GPU 翻倍</b></li><li data-pid="Kpj6joGG"><b>支持 5G（可选）</b></li></ul><li data-pid="23D8irAp"><b>前置摄像头升级为支持 Center Stage 人物居中的版本，与其它 iPad 型号一致</b></li><li data-pid="j7uMW3Uu"><b>USB Type-C 速度翻倍，但仍然没有雷电支持</b></li><li data-pid="-T_M3rqD">屏幕没有升级，还是那个 P3 60Hz TrueTone</li><li data-pid="iNvUgfbE">摄像头也没有升级，还是没有闪光灯的 12MP</li><li data-pid="di1JQkCH">仍然是 64GB 起售，有 256GB 可选</li><li data-pid="vkDaqMmJ">5 种颜色</li></ul><p data-pid="-InrSI21"><b>速评：64GB 起售真的是拉，我想大家会更想要一个 A15 + 128GB 的 iPad Air，但是又怎么会让它威胁 iPad Pro 的位置呢，无论是扩展性、屏幕（高刷/HDR）、扬声器还是摄像头，都拉开了距离，卡位很准，不过 M1 售价没涨，也还算是不错的升级。</b></p><h2><b>Air 终究还是 Air</b></h2><p data-pid="lFRbAh7p">iPad Air 上 M 系列芯片是为了和 iPad mini 拉开性能差距，然后和 Pro 形成代差，上一代 iPad Air 的销量没有想象中好，因为它的吸引力还不如 iPad Pro 2018。</p><p data-pid="M5qVoSuW">性能接近但是没有高刷，这一代直接给到 M1 就能形成对 Pro 2018/2020 的性能优势，让用户考虑 Air 的理由多一些。</p><p data-pid="bFGaIuD8">但是说到底，<b>Air 还是 Air，即使有了 Pro chip，也不代表它有 Pro Features</b>。</p><p data-pid="A9a5o_Xs">有了 M1、有了 5G，支持悬浮键盘、支持第二代 Apple Pencil，但除了这些以外，没有一点像 Pro。</p><p data-pid="G1-is5KT">屏幕：没有 120Hz ProMotion，没有 miniLED 背光，也就是告别 HDR 工作流了，这是留给 Pro 的领域</p><p data-pid="tr1gxcVy">扬声器：没有 4 扬声器</p><p data-pid="MpewIz_W">USB Type-C：M1 显然是支持雷电的，但是 Air 上只给了 20Gbps 的普通 Type-C</p><p data-pid="QdxlQsnA">摄像头：没有多摄（超广角）、没有闪光灯、没有 LiDAR</p><p data-pid="E6UrUH_2">但你这一看，似乎除了刷新率以外，都不太重要，难道一个准备 4399 买 Air 的人，会在意 HDR、4 扬声器、雷电和 LiDAR 么？不会。</p><p data-pid="LX4-ACZs">所以 Air 真的是非常适合普通用户。</p><p data-pid="vuj_Lklg">但再一看，留了一手，<b>5499 256GB，没有 128GB 选项，如果加 700，就能获得一台 iPad Pro 11 寸的 128GB——存储小一点，外设好一圈</b>。</p><p data-pid="fVBfboGj">没有 128GB 的 Air 想必还是为了不冲击 11 寸 iPad Pro 的市场，尤其是 2021 的 11 寸没有 miniLED，本身和 12.9 寸就不太像一个世代的，如果有一个 128GB A15 的 Air，大家肯定都会买 Air 去了，挤压 Pro 的生存空间。</p><p data-pid="jfEVPXzE">但对于普通人来说，4399 64GB 的 Air，可能还真的是一个不错的平板选择。</p><h2>心态稳定的我</h2><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-e2aedf7aa6e03a3d4028761119cad5d2_1440w.jpg" data-caption data-size="normal" data-rawwidth="960" data-rawheight="1280" data-default-watermark-src="https://pic3.zhimg.com/v2-2d95ff32620c5035f5f3cf1c5e548f0f_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-e2aedf7aa6e03a3d4028761119cad5d2_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="Q1nCVsMB">年初购入 12.9 寸 2021 的 M1 iPad Pro，心态非常稳定，Air 系列不会采用 12 寸屏幕，也不会在短期内上 miniLED。</p><p data-pid="RMqlIpH2">限制 M1 芯片的，其实是 iPadOS，而不是它的性能。</p><p data-pid="ReQahxpW">所以，如果你想买 12 寸的大板子，Pro 闭着眼睛买就完事了，如果想要一个小的板子，如果按照我的想法——想画画的就等等，年底的 miniLED 11 寸更值得，如果只是需要一个高品质板子 + 笔记类，那 Air 冲就是了。</p>  
+</div>
+            
