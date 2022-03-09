@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-a5c1063fd8903245978d9d787e60205c_1440w.jpg'
+headimg: 'https://picsum.photos/400/300?random=7153'
 author: 知乎
 comments: false
-date: Wed, 09 Mar 2022 08:16:53 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-a5c1063fd8903245978d9d787e60205c_1440w.jpg'
+date: Wed, 09 Mar 2022 07:46:22 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7153'
 ---
 
 <div>   
-九霄的回答<br><br><h3>不赞成对俄罗斯制裁的国家不在少数，为什么法国观众就对着我们的运动员喝倒彩？</h3><p data-pid="FAdn0UhW">美国和西欧掌握了国际媒体的话语权，再加上他们对俄罗斯的制裁，确实是史无前例的，让人误以为全世界都在谴责俄罗斯。</p><h3>但实际上，直接制裁俄罗斯的国家，就只是美欧及其一众跟班。</h3><p data-pid="1ZE0J_Nk">首先金砖国家都是反对制裁的，包括巴西、印度、中国、南非，当然还有俄罗斯自己也反对的。</p><p data-pid="7V3W_jxF">这五国总人口就超世界人口的四成了。</p><p data-pid="w5NfDakR">事实上，亚洲大部分国家，不愿意制裁俄罗斯，除了有美国驻军那几个国家，而同样情形也发生在非洲</p><p data-pid="Q_2TA-TD">甚至号称美国后院的拉丁美洲，大部分国家也拒绝制裁俄罗斯。</p><h3>那么，为什么法国观众就针对张帅喝倒彩呢？</h3><p data-pid="zd1KSONJ">你品，你细品！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a5c1063fd8903245978d9d787e60205c_1440w.jpg" data-rawwidth="1024" data-rawheight="780" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-e86d296be81ab87567151ffac5adcd84_720w.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a5c1063fd8903245978d9d787e60205c_r.jpg" referrerpolicy="no-referrer"></figure><p><br></p><hr><p data-pid="zEVGTLfm">恪守常理，回归常识，欢迎点赞关注@<a href="https://www.zhihu.com/people/jiu-xiao-guan-cha" class="internal">九霄</a>^_^</p><p></p>  
+张逸恒的回答<br><br><p data-pid="bpG0y_x3"><a href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/115806113_492607" class=" wrap external" target="_blank" rel="nofollow noreferrer">2016中网关键词：张帅扛中国大旗 观众素质待提高</a></p><p data-pid="jNOSBFsh"><a href="http://link.zhihu.com/?target=https%3A//www.sohu.com/a/115806113_492607" class=" wrap external" target="_blank" rel="nofollow noreferrer">2016中网关键词：张帅扛中国大旗 观众素质待提高</a></p><p data-pid="0O6NGVgY"><a href="http://link.zhihu.com/?target=https%3A//sports.sohu.com/20101012/n275552014.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">李娜：中网观众素质有提升空间 亚运会尽力打好</a></p><p data-pid="Fi2PczwN"><a href="http://link.zhihu.com/?target=https%3A//m.iask.sina.com.cn/b/16077457.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">中网应该对素质差得部分观众给与清理出场.. - 手机爱问</a></p><p data-pid="aJOOgGXJ">这要是在中国，不论是中国运动员还是中国媒体，还是网络反思怪，都已经把中国人架到火架上去烤了，然后以点带面对所有的中国观众进行攻击，甚至上升到中华民族劣根性加以鞭挞了。</p>  
 </div>
             
