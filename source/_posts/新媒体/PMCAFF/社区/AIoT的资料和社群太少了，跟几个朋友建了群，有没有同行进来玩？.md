@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=12'
+headimg: 'https://picsum.photos/400/300?random=183'
 author: PMCAFF
 comments: false
 date: Wed, 09 Mar 2022 18:50:44 GMT
-thumbnail: 'https://picsum.photos/400/300?random=12'
+thumbnail: 'https://picsum.photos/400/300?random=183'
 ---
 
 <div>   
-要求：必须是AIoT领域的同行，或即将加入的同行先加个人微信，审核进群我的微信号：Burned_Outtt  
+要求：必须是AIoT领域的同行，或即将加入的同行先加个人微信，审核进群我的微信号：Burned_Outtt目前有十多个人  
 </div>
             

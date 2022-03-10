@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/tier-ranking-template/'
 author: Inside Design
 comments: false
-date: 2022-03-10 06:11:06
+date: 2022-03-10 07:08:54
 thumbnail: 'https://www.invisionapp.com/inside-design/tier-ranking-template/'
 ---
 
