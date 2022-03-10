@@ -1,0 +1,19 @@
+
+---
+title: '_閒聊_ 馬特市V.S.馬鈴薯使用心得'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/5b2ab01f-0c04-41b0-90fd-813236625aae.jpeg'
+author: Matters
+comments: false
+date: Tue, 08 Mar 2022 08:56:14 GMT
+thumbnail: 'https://assets.matters.news/embed/5b2ab01f-0c04-41b0-90fd-813236625aae.jpeg'
+---
+
+<div>   
+<p>那天在亂逛馬鈴薯(Potato Media或稱根莖類平台🤣🤣)時，碰巧看到一篇由"傑克懂講"發布的文章，內容是在分析馬鈴薯與IG、痞客幫的差異性，他提到Web3是未來的趨勢，我就很好奇他會怎麼看待同是Web3的平台馬特市，於是我就在留言詢問了他對於馬鈴薯與馬特市的分析。</p><figure class="image"><img src="https://assets.matters.news/embed/5b2ab01f-0c04-41b0-90fd-813236625aae.jpeg" data-asset-id="5b2ab01f-0c04-41b0-90fd-813236625aae" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>沒想到竟然被截圖回應，我真是備感榮幸。看完能理解<a href="https://www.potatomedia.co/s/umMflJp" rel="noopener noreferrer" target="_blank">傑克的想法</a>，作為一個兩邊都有帳號的用戶我也分享一下我的使用想法(在馬鈴薯混到LV11應該算有資格分享吧!?)</p><hr><p>先說明一下我自己的使用歷程，我是在去年10/15加入了馬鈴薯，12/31升級到達LV11(等級封頂)，基本上都是靠發文跟按讚留言得到的積分升級的，因為我的戰友基本上都沒在動，馬特市則是去年12/28發了第一篇文開始半同步經營，之所以稱之為半同步，是因為放在馬特市的文章我基本還是有再精修過或將馬鈴薯的幾篇結合成一篇的，畢竟兩邊的用戶使用習性不同，因地制宜我覺得是必須的。</p><blockquote><strong>不只是烏托邦</strong></blockquote><p>馬特市的確是一個烏托邦，但它不只是烏托邦，在我加入前我也覺得平台沒有給誘因，在馬特市怎麼可能經營得起來，也不相信這世界上會有自動的使用者付費的概念，但就我在這裡打滾了幾個月的感覺是，馬特市的用戶真的會認真地閱讀自己有興趣的議題，並且會真心的互動，在這裡的留言動輒就是破百字，甚至有的都可以在馬鈴薯成一篇文了，大家還是願意只在留言交流，在馬特市的留言交流是沒有收益的，可是用戶卻願意大量的討論、激發彼此的想法。</p><p>這樣的狀況我深受感動，於是在僅僅加入馬特市2個月的時間，就成為了讚賞公民，每個月花5美元給我認同的作者們更大的鼓勵，5美元不多，卻代表著我的心意，也代表著雖然是烏托邦，但是裡面營造出來的氣氛，確實可以讓人自願掏錢支持作者。</p><blockquote><strong>極權帶來的快速進步</strong></blockquote><pre class="ql-syntax" spellcheck="false">傑克原文提到：我認為一個良好的佈局，就我在商業的角度來看。現在論壇需要一個官方，需要活動，需要激勵制度，需要小小極權，才能迎來快速更新。而不是需要完全的DAO，那是一個烏托邦。
+</pre><p>這個概念就像民主跟中央集權的比較，對岸的中央集權，不可諱言他們的經濟發展是坐火箭起飛的，但是這真的是我們要的嗎? 馬特市是由每個市民將自己的權利(Likecoin)委託給同是用戶的驗證人，驗證人依照自己受委託的比例去投票，讓自己可以代表市民發聲，這就很像我們民主制度裡面的投票選出代表，再由代表來決定平台的未來走向，民主跟中央集權我相信都各自有擁護者，但我相信在台灣的大家還是愛民主多的，還是只要自己是上位者就覺得中央集權好棒棒呢?🤣🤣</p><blockquote><strong>馬特市V.S.馬鈴薯</strong></blockquote><p>馬特市也有缺點，至少跟馬鈴薯比起來嚕幣就是比較慢(現實)，而且老實說也嚕不動，你就是得慢慢來，沒有捷徑，我自己覺得大家要清楚自己經營平台想要得到的是什麼</p><p><strong>經營馬特市</strong>：你會得到忠實讀者(粉絲)、綿長的關注，如果認真經營，對於個人整體的名氣與能見度有正面影響。</p><p><strong>經營馬鈴薯</strong>：你會得到最實質的金錢上的回饋。</p><p>沒有哪個比較好，看大家經營平台的目的是什麼。</p><p>以上小小雙馬認真使用者心得分享，供參。</p><hr><p><strong>後記<s>(最近迷上後記!?)</s></strong><br class="smart">本篇同步發布於馬鈴薯，有些話不能在那邊說怕會被查水表(畢竟是中央集權)，就寫在這裡了。</p><p>如果以我自己的使用者體驗，因為我自認是很認真的寫文章，所以我也會希望我寫的文章有人認真看，這樣子的回饋會給我很好的正向動力，讓我想要寫得更多、分享得更多，甚至有點不計成本的分享，如果一個地方我單純是為了賺錢去的，自然會很在乎他給的錢夠不夠，這是人性，我也只是個平凡人。</p><p>我很感謝馬特市經營出一個烏托邦，這也讓我看見堅持做對的事情終究能夠達到心中的烏托邦，至於烏托邦是不是究極烏托邦我不知道，但我知道馬特市的制度能讓我們都有能力去表達並影響平台的走向，而馬鈴薯就......</p><figure class="image"><img src="https://assets.matters.news/embed/12c70a10-0da1-416b-9b74-30125d3e2a1d.jpeg" data-asset-id="12c70a10-0da1-416b-9b74-30125d3e2a1d" referrerpolicy="no-referrer"><figcaption><span>圖片取自：https://movies.yahoo.com.tw/article/%E9%9A%B1%E8%97%8F%E7%89%88-%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A14g-499-599%E4%B8%8A%E7%B6%B2%E5%90%83%E5%88%B0%E9%A3%BD%E6%8F%90%E5%89%8D%E7%BA%8C%E7%B4%84%E5%B0%88%E6%A1%88%E8%88%87%E9%81%A0%E5%82%B3%E9%9B%BB%E4%BF%A1%E9%9B%BB%E9%8A%B7319%E5%90%83%E5%88%B0%E9%A3%BD%E6%96%B9%E6%A1%88-044935015.html</span></figcaption></figure><p>雖然最近因為讚賞公民制度的改變影響了大家的收益，但我相信這只是暫時的，另一方面，這裡良好的風氣更是我想留下來的原因。</p><h2><strong>只要堅持對的方向，哪怕走不到終點呢?</strong><br class="smart"></h2><p>更多資訊請追蹤<br class="smart">臉書粉絲團：<a href="https://www.facebook.com/LuzWu222" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人 </a><br class="smart">IG、TikTok：<a href="https://www.instagram.com/luzwu222/" rel="noopener noreferrer" target="_blank">LuzWu222</a><br class="smart">YouTube頻道：<a href="https://www.youtube.com/channel/UCJjVRD1tz7qNzGsH47frnfQ" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人</a><br class="smart">Podcast頻道：<a href="https://soundcloud.com/wu-pei-ju" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人</a>、<a href="https://soundcloud.com/user-46629955" rel="noopener noreferrer" target="_blank">就是那道光--Luz露思的聊聊小天地</a></p>  
+</div>
+            
