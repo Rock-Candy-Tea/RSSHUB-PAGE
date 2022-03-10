@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-4855a048dac1a04d49fdb0035c68bbd
 
 <div>   
 <div class="content">
-                                                                                            <p>Godot 4.0 第四个 Alpha 版本已发布，更新内容主要是修复错误和改进功能。</p> 
+                                                                    
+                                                        <p>Godot 4.0 第四个 Alpha 版本已发布，更新内容主要是修复错误和改进功能。</p> 
 <blockquote> 
  <p>4.0 Alpha 4 下载地址：<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgodotengine.org%2Farticle%2Fdev-snapshot-godot-4-0-alpha-4%23downloads" target="_blank">https://downloads.tuxfamily.org/godotengine/4.0/alpha4/</a>（在 Alpha 阶段的引擎仍然不完整也不够稳定，且与后续的 beta 版本会有较大的变化，建议谨慎使用。只有进入 Beta 阶段才会“冻结功能”）</p> 
 </blockquote> 

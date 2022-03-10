@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1891'
+headimg: 'https://picsum.photos/400/300?random=6731'
 author: 开源中国
 comments: false
 date: Thu, 10 Mar 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1891'
+thumbnail: 'https://picsum.photos/400/300?random=6731'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="margin-left:0">NativeScript 8.2.0 现已发布。NativeScript 使用户能够直接从 JavaScript 访问 native API。目前，该框架为丰富的移动开发提供了 iOS 和 Android 运行时，并可用于多种不同的用例。</p> 
+                                                                    
+                                                        <p style="margin-left:0">NativeScript 8.2.0 现已发布。NativeScript 使用户能够直接从 JavaScript 访问 native API。目前，该框架为丰富的移动开发提供了 iOS 和 Android 运行时，并可用于多种不同的用例。</p> 
 <p style="margin-left:0">主要更新内容如下：</p> 
 <h4><strong>Bug Fixes</strong></h4> 
 <ul> 

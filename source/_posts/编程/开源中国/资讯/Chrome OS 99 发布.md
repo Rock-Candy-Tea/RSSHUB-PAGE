@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0310/073509_4xqI_49371
 
 <div>   
 <div class="content">
-                                                                                            <p>间隔四周时间，Google 正式发布 Chrome OS 99，该版本增加了一系列方便的功能，各地用户将陆续收到更新。</p> 
+                                                                    
+                                                        <p>间隔四周时间，Google 正式发布 Chrome OS 99，该版本增加了一系列方便的功能，各地用户将陆续收到更新。</p> 
 <p><img alt height="394" src="https://static.oschina.net/uploads/space/2022/0310/073509_4xqI_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <ul> 
  <li>Chrome OS 99 改善了手掌误触的检测，显然这适用于具备触摸屏的 Chromebook 设备。新版本中降低了用户意外点击屏幕并激活应用程序和功能的概率。</li> 

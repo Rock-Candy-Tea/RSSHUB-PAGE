@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0310/071211_tFk3_49371
 
 <div>   
 <div class="content">
-                                                                                            <p>Blender 是一个免费和开源的 3D 计算机图形软件工具集，用于创建动画电影、视觉效果、艺术、3D 打印模型、交互式 3D 应用、VR 和计算机游戏。</p> 
+                                                                    
+                                                        <p>Blender 是一个免费和开源的 3D 计算机图形软件工具集，用于创建动画电影、视觉效果、艺术、3D 打印模型、交互式 3D 应用、VR 和计算机游戏。</p> 
 <p>近日，Blender 3.1 正式发布，该版本的更新内容如下：</p> 
 <h3>Apple Metal</h3> 
 <p>Blender 3.1 现在有一个 Metal GPU 后端，由苹果提供。目前支持 Metal GPU 渲染的设备有：</p> 

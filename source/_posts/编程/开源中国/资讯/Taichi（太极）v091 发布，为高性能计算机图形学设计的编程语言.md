@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0105/070330_1REO_49371
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">Taichi（太极）v0.9.1 已经发布，这是专为高性能计算机图形学设计的编程语言。</span></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">Taichi（太极）v0.9.1 已经发布，这是专为高性能计算机图形学设计的编程语言。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img height="287" src="https://static.oschina.net/uploads/space/2022/0105/070330_1REO_4937141.gif" width="512" referrerpolicy="no-referrer"></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">具体更新内容如下：</p> 
 <h4><strong><span style="background-color:#ffffff; color:#24292f">Highlights</span></strong></h4> 
