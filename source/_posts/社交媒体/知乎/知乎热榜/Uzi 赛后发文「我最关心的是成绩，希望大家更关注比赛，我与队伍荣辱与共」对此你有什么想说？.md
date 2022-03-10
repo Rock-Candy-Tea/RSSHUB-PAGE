@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6082'
+headimg: 'https://picsum.photos/400/300?random=1369'
 author: 知乎
 comments: false
-date: Thu, 10 Mar 2022 06:42:22 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6082'
+date: Thu, 10 Mar 2022 07:24:03 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1369'
 ---
 
 <div>   
-贵重物品DR的回答<br><br><p data-pid="agVPvGB9">老哥没有恶意啊，我觉得UZI复出打比赛还是很让人感到欣慰的。</p><p data-pid="wTvs3cA4">UZI答记者问。</p><p data-pid="kjKD3ttd">记者：UZI，想问一下，到目前为止你两次上场比赛都输了，到底情况怎样？</p><p data-pid="dxQgze3A">UZI：首先这次复出能够回到赛场去打比赛本身就是一件很开心的事，目前外面对我的评价不是我最关心的，作为职业选手我最关心的还是赛场和成绩。</p><p data-pid="3aOQJSFW">记者：UZI，就是想问一下，到目前为止你两次上场比赛都输了，到底情况怎样？</p><p data-pid="z3lOPlSp">UZI：其实一直以来没有大家想得那么复杂，电子竞技的世界有时候很单纯，我想要有好的表现，队伍当然也一样，抱歉让大家久等了，我们一起在努力尝试突破目前摆在我们面前的困境，留给我们的时间确实不多了，我和队伍会抓紧时间调整，也请给我的队友们多一点宽容，我和大家是一个整体，荣辱与共。</p><p data-pid="XCg5ydKm">记者：UZI，能说一下，到目前为止你两次上场比赛都输了，到底情况怎样？</p><p data-pid="7vu95lVU">UZI：我真得非常感激有那么多人关心我，但我也更希望大家同时也关注比赛本身，希望大家都能从电子竞技中里获得正向的能量，获得快乐，而不是其他什么不开心的事情，真的很感谢那么多的关心，谢谢你们一直为简自豪加油。谢谢谢谢！</p><p data-pid="KoVbbcID">记者：UZI，能说一下，到目前为止你两次上场比赛都输了，到底情况怎样？</p><p data-pid="EQoxUv5c">UZI：别讲了，别讲了……</p><p data-pid="M1AX4VzY">记者：BLG一些选手因为上不了场，导致俱乐部和选手让粉丝冲击的很厉害，你怎么看待这个事？</p><p data-pid="r17r3mgO">UZI：说不出来。</p>  
+放阿婆单车气的回答<br><br><p data-pid="FM6RKXDs">言外之意就是我是一个职业选手，希望观众关注我的比赛、队伍、场上表现而不是我这个人、这个id。我与普通职业选手没啥两样</p><p data-pid="q72AyOio">这句我最关心成绩，可能就是前天比赛的一个缩影。</p><p data-pid="WkRGmrd0">前天下午刚看了会赛程，果然黄金档又安排给了blg，果然评论又是一片骂声。</p><p data-pid="bIPCEqtf">:建议blg比赛安排到早上7点</p><p data-pid="SMly8mCa">:blg可能是为数不多不会被粉丝治队的队伍了吧，或者说还真就一个硬气。</p><p data-pid="UrDSo3sV">我也以为这场乌兹大概率又不会上了，毕竟前晚的训练赛都缺席了。</p><p data-pid="TW_G6c91">晚上八点，人在健身房撸铁，没过一会儿，群里躁动了起来，收到了几个艾特。</p><p data-pid="TpBuGVur">:卧槽，乌兹来了!决胜局乌兹上了!</p><p data-pid="cXBMqSz9">我也是被这一消息吓到了，拿上水杯就上跑步机，果然，uzi上场了。</p><p data-pid="eVGxqfjx">可能是受到了rookie超神完美表现和总击杀数超越自己的刺激，也可能是想捍卫历史击杀王这个称谓。uzi的上场确实是燃起了我的欲望</p><p data-pid="guP5Pi-z">狗和鸡这哥俩的比赛从来都是焦点中的焦点，三叉戟和四保一谁更强这种话题当时也是养活了一批又一批的自媒体。</p><p data-pid="cMBDvVNy">这两个人是我的青春，也许有一天我可能不再玩英雄联盟，但如果有一天他们还在场上打比赛并且在赛场上博弈厮杀，我还是会忍不住去看一眼，回味一波年少气盛，无忧无虑。</p>  
 </div>
             
