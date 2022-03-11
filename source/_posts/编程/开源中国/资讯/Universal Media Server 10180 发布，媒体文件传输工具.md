@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3670'
+headimg: 'https://picsum.photos/400/300?random=2024'
 author: 开源中国
 comments: false
 date: Fri, 11 Mar 2022 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3670'
+thumbnail: 'https://picsum.photos/400/300?random=2024'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Universal Media Server 是一个兼容 DLNA，UPnP 和 HTTP/S 的媒体服务器，支持所有主要操作系统，包括 Windows，Linux 和 macOS 版本，几乎不需要配置就可以流式传输或转码许多不同的媒体格式。</p> 
+                                                                                            <p>Universal Media Server 是一个兼容 DLNA，UPnP 和 HTTP/S 的媒体服务器，支持所有主要操作系统，包括 Windows，Linux 和 macOS 版本，几乎不需要配置就可以流式传输或转码许多不同的媒体格式。</p> 
 <p>自 10.17.1 以来的变化：</p> 
 <h3>常规</h3> 
 <ul> 

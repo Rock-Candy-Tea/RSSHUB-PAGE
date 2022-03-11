@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-cf8196b41f18896c203027cdc5a9a95
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Cocos Creator 3.4.2 已发布。在 v3.4.1 中开发团队完善了 2D 渲染组件的数据提交和合批策略，由于这些是触及基础的改动，所以引发了一些 Tiledmap，Graphics 的问题。并且 Spine 和 Dragonbones 在 Android 浏览器上性能没有得到提升，这些问题都在 v3.4.2 版本中得到了集中的解决。</p> 
+                                                                                            <p>Cocos Creator 3.4.2 已发布。在 v3.4.1 中开发团队完善了 2D 渲染组件的数据提交和合批策略，由于这些是触及基础的改动，所以引发了一些 Tiledmap，Graphics 的问题。并且 Spine 和 Dragonbones 在 Android 浏览器上性能没有得到提升，这些问题都在 v3.4.2 版本中得到了集中的解决。</p> 
 <p>另外，在社区的积极测试和反馈下，开发团队也修复了一些编辑器相关的体验问题，比如脚本重新编译时导致的内存泄露、大项目构建 iOS 平台时资源拷贝的卡顿问题。</p> 
 <p>请所有使用 v3.4 的用户升级到 v3.4.2，将得到更优秀的稳定性和开发体验。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-cf8196b41f18896c203027cdc5a9a95e675.png" referrerpolicy="no-referrer"></p> 

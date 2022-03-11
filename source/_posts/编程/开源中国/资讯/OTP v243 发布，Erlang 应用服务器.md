@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4385'
+headimg: 'https://picsum.photos/400/300?random=2685'
 author: 开源中国
 comments: false
 date: Fri, 11 Mar 2022 07:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4385'
+thumbnail: 'https://picsum.photos/400/300?random=2685'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">OTP 24.3 现已发布。OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器，它是一套 Erlang 库，由 Erlang 运行时系统、主要使用 Erlang 编写的许多随时可用的组件以及 Erlang 程序的一组设计原则组成。</span></p> 
+                                                                                            <p><span style="color:#333333">OTP 24.3 现已发布。OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器，它是一套 Erlang 库，由 Erlang 运行时系统、主要使用 Erlang 编写的许多随时可用的组件以及 Erlang 程序的一组设计原则组成。</span></p> 
 <p><strong>主要更新内容</strong></p> 
 <ul> 
  <li>支持在使用 gen_sctp、gen_tcp 和 gen_udp 时使用 socket:sockaddr_in() 和 socket:sockaddr_in6() ，让使用链接本地 IPv6 地址成为可能。</li> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1372'
+headimg: 'https://picsum.photos/400/300?random=3129'
 author: 开源中国
 comments: false
 date: Thu, 10 Mar 2022 15:26:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1372'
+thumbnail: 'https://picsum.photos/400/300?random=3129'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>这是 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fjuicedata%2Fjuicefs" target="_blank">JuiceFS</a> v1.0 正式发布前的第二个 beta 版本，共有 16 位社区伙伴贡献了 150+ 次提交 🎉。本次更新以 Bug 修复和稳定性提升为主，辅以大量的文档更新和测试用例优化，并带来了以下新功能：</p> 
+                                                                                            <p>这是 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fjuicedata%2Fjuicefs" target="_blank">JuiceFS</a> v1.0 正式发布前的第二个 beta 版本，共有 16 位社区伙伴贡献了 150+ 次提交 🎉。本次更新以 Bug 修复和稳定性提升为主，辅以大量的文档更新和测试用例优化，并带来了以下新功能：</p> 
 <h3>一、新增：BadgerDB 作为元数据引擎</h3> 
 <p>由社区开发者秦牧羊（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fdiluga" target="_blank">@diluga</a>）发起贡献，在 JuiceFS 插件式元数据引擎架构上新增对 BadgerDB 数据库的支持，为 JuiceFS 元数据存储引擎家族再添新成员！</p> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdgraph.io%2Fdocs%2Fbadger%2F" target="_blank">BadgerDB</a> 是一个 Go 语言开发的嵌入式、持久化的单机 Key-Value 数据库，它类似 SQLite 无需安装即可直接使用：</p> 

@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0311/070950_Xb1P_49371
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Zorin OS 16 在去年 8 月正式发布，如今时隔半年发布首个小版本更新，该版本包含了各种改进、应用程序和系统级软件的更新，以及对新硬件的支持。Zorin OS 16 系列将继续得到软件更新和安全补丁的支持，直到 2025 年 4 月。</p> 
+                                                                                            <p>Zorin OS 16 在去年 8 月正式发布，如今时隔半年发布首个小版本更新，该版本包含了各种改进、应用程序和系统级软件的更新，以及对新硬件的支持。Zorin OS 16 系列将继续得到软件更新和安全补丁的支持，直到 2025 年 4 月。</p> 
 <p>Zorin OS 16.1 的更新内容如下：</p> 
 <h3>LibreOffice 更新</h3> 
 <p>LibreOffice 是 Zorin OS 最重要的应用程序之一，Zorin OS 16.1 包含了 LibreOffice 7.3，带来的改进包括：</p> 

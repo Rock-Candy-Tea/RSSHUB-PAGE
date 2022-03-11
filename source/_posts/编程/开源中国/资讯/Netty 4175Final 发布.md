@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3478'
+headimg: 'https://picsum.photos/400/300?random=4724'
 author: 开源中国
 comments: false
 date: Fri, 11 Mar 2022 07:22:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3478'
+thumbnail: 'https://picsum.photos/400/300?random=4724'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。</p> 
+                                                                                            <p>Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。</p> 
 <p>Netty 4.1.75.Final 正式发布，虽说这个版本是一个错误修复版本，但也包含两个变化，可能会改变你的应用程序的内存使用/性能特性，具体更新内容如下：</p> 
 <ul> 
  <li>在制作域名套接字地址时避免读取未初始化的内存 (<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fnetty%2Fnetty%2Fpull%2F12085" target="_blank">#12085</a>)</li> 

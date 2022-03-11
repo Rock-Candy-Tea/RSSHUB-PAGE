@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2414'
+headimg: 'https://picsum.photos/400/300?random=4060'
 author: 开源中国
 comments: false
-date: Thu, 10 Mar 2022 23:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2414'
+date: Fri, 11 Mar 2022 07:39:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4060'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>React 18 首个 RC 版本已发布。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Freactwg%2Freact-18%2Fdiscussions%2F9" target="_blank">按照计划</a>，正式版将于 2~4 周后推出。</p> 
+                                                                                            <p>React 18 首个 RC 版本已发布。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Freactwg%2Freact-18%2Fdiscussions%2F9" target="_blank">按照计划</a>，正式版将于 2~4 周后推出。</p> 
 <p>React 18 引入了<span style="background-color:#ffffff; color:#333333"><span> </span>“并发渲染 (concurrent rendering)” 机制，它支持 React 同时准备多个版本的 UI。这个机制主要在幕后进行，但它为 React 启发了非常多新的可能性，以提升应用程序的真实与感知性能。</span>此外，React 18 还针对现有应用程序提供了渐近的采用策略。</p> 
 <p><strong>安装 React 18 RC</strong></p> 
 <p>使用 npm</p> 
