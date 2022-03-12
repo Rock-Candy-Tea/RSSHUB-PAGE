@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1996'
+headimg: 'https://picsum.photos/400/300?random=6627'
 author: 知乎
 comments: false
-date: Sat, 12 Mar 2022 08:27:21 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1996'
+date: Sat, 12 Mar 2022 09:29:45 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6627'
 ---
 
 <div>   
-勃列日涅夫的回答<br><br><p data-pid="lM-fsBDm">虚假的野性消费：买糖果巧克力伏特加。一个月总成交额恐怕远不及上海一套房。</p><p data-pid="v_wKrOga">真实的野性消费：10倍价格买天然气</p>  
+勃列日涅夫的回答<br><br><p data-pid="lM-fsBDm">虚假的野性消费：买糖果巧克力伏特加。一个月总成交额恐怕远不及上海一套房。</p><p data-pid="v_wKrOga">真实的野性消费：10倍价格买天然气</p><p data-pid="Rfx5vZ6t">补充一个数据：2021年，天猫双11销售额就高达5400多亿人民币，合800多亿美元。所以中国网友在“俄罗斯国家馆”这个店的消费，只能说，毛毛雨都不是。所以谈不上什么野性消费。</p><p data-pid="YTyhizyv">过去欧盟每年从俄罗斯进口1550亿立方米天然气。即便现在欧盟提出消减500亿立方米的数字，也有大概1000亿立方米，也就是1亿*千立方米。如果按现在的价格计算，欧盟每天要购买大约10亿美元的俄罗斯天然气。就算按俄国军机的外贸价格算，这能凑至少半个飞行中队了。</p>  
 </div>
             
