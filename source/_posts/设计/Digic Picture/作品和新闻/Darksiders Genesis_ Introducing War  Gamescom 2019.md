@@ -8,7 +8,7 @@ categories:
 headimg: 'https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
 author: Digic Picture
 comments: false
-date: 2022-03-12 07:08:34
+date: 2022-03-12 08:10:27
 thumbnail: 'https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
 ---
 
