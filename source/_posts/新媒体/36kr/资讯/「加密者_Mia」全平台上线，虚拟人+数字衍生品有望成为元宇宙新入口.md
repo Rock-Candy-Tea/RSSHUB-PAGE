@@ -13,12 +13,12 @@ thumbnail: 'https://img.36krcdn.com/20220312/v2_839777c77c5e41f9b3cc8b9a8477f13c
 ---
 
 <div>   
-<p>自2021年元宇宙（Metaverse）在全球范围内掀起讨论大潮以来，围绕<a class="project-link" data-id="42359" data-name="虚拟人" data-logo="https://img.36krcdn.com/20210807/v2_5fe9f59dd24748d79d96a82e7debce7d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/42359" target="_blank">虚拟人</a>与元宇宙的关系便成为行业讨论的热门话题。3月12日，代号「加密者Mia」的超写实虚拟数字人正式在各大社媒平台上线（抖音平台可搜索：加密者Mia）。</p> 
+<p>自2021年元宇宙（Metaverse）在全球范围内掀起讨论大潮以来，围绕虚拟人与元宇宙的关系便成为行业讨论的热门话题。3月12日，代号「加密者Mia」的超写实虚拟数字人正式在各大社媒平台上线（抖音平台可搜索：加密者Mia）。</p> 
 <p class="image-wrapper"><img data-img-size-val="820,1466" src="https://img.36krcdn.com/20220312/v2_839777c77c5e41f9b3cc8b9a8477f13c_img_png" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">图片来源：加密者Mia</p> 
 <p>Mia是由「楚门数科（南京楚门数字科技有限公司）」创作的虚拟人，她来自于银河系另外一个与地球相似的星球，这个星球的物理环境和居住者与地球相似度极高，但科技文明高出地球几个维度。Mia为了执行监测和限制地球科技发展的任务来到了人类身边，而在她与地球社会接触之后，慢慢改变了心态，开始努力尝试与人类成为朋友。 </p> 
 <p>据了解，首季影视短剧预计将推出多集正片，讲述Mia来到地球后与人类之间发生的种种故事。Mia将以抖音平台为主要上线渠道，其他社交平台同步引流，靠优质内容和故事在虚拟人市场获得关注度。</p> 
-<p>楚门数科创始团队告诉36氪，“Mia的<a class="project-link" data-id="3969467" data-name="人物" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969467" target="_blank">人物</a>定位和性格方面我们会设计一个反差，从初来地球的陌生，因为不了解而表现的高冷、疏离感，到后来与地球人接触，甚至交上朋友，Mia表现出的幽默和友善，其实并不像其表面展现得那么有距离感。”</p> 
+<p>楚门数科创始团队告诉36氪，“Mia的人物定位和性格方面我们会设计一个反差，从初来地球的陌生，因为不了解而表现的高冷、疏离感，到后来与地球人接触，甚至交上朋友，Mia表现出的幽默和友善，其实并不像其表面展现得那么有距离感。”</p> 
 <p>目前，团队聚焦于打造加密者Mia这个人物上，采用短视频+图片故事的形式产出内容。短视频侧重“以小见大”，图片则注重Mia在地球的日常，同时也是两条短视频发布空档时期的补充内容。</p> 
 <p class="image-wrapper"><img data-img-size-val="910,1512" src="https://img.36krcdn.com/20220312/v2_a610eb46abd84e98937e2f7a8976cbe7_img_jpeg" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">图片来源：加密者Mia</p> 
