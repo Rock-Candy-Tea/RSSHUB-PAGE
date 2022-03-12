@@ -34,27 +34,26 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220312/1647049920_6035
 <p style="text-indent:2em;">
 <strong>游戏截图：</strong>
 </p>
+<p style="text-indent:2em;" align="center">
+<strong> </strong>
+</p>
 <p align="center">
-<strong>
-</strong></p><p><strong>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049963_211124.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
-</strong></p><strong>
-<p>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049968_612863.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049963_211124.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
 </p>
-<p>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049974_860933.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
+<p align="center">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049968_612863.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
 </p>
-<p>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049980_692834.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
+<p align="center">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049974_860933.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
 </p>
-<p>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049985_663115.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
+<p align="center">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049980_692834.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
 </p>
-<p>
-<img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049991_350744.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer">
+<p align="center">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049985_663115.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
 </p>
-</strong>
-<p></p>          
+<p align="center">
+<strong><img src="https://img.3dmgame.com/uploads/images/news/20220312/1647049991_350744.jpg" alt="《公理边缘2》结束Epic独占 8月11日登陆Steam平台" referrerpolicy="no-referrer"> </strong>
+</p>          
 </div>
             
