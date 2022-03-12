@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 小黑盒
  - 用户动态
-headimg: 'https://picsum.photos/400/300?random=3199'
+headimg: 'https://picsum.photos/400/300?random=7062'
 author: 小黑盒
 comments: false
 date: Tue, 08 Mar 2022 01:01:02 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3199'
+thumbnail: 'https://picsum.photos/400/300?random=7062'
 ---
 
 <div>   
