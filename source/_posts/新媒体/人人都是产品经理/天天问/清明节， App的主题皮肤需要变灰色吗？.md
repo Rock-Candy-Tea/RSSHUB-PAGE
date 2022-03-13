@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://picsum.photos/400/300?random=2890'
+headimg: 'https://picsum.photos/400/300?random=3786'
 author: 人人都是产品经理
 comments: false
-date: Sat, 12 Mar 2022 15:08:13 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2890'
+date: Sun, 13 Mar 2022 00:33:59 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3786'
 ---
 
 <div>   
-<p>最近要做节假日主题皮肤，得考虑各种节假日，但是清明节好像不需要变灰色？</p>  
+清明节， App的主题皮肤需要变灰色吗？  
 </div>
             
