@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://picsum.photos/400/300?random=6315'
+headimg: 'https://picsum.photos/400/300?random=7163'
 author: 人人都是产品经理
 comments: false
-date: Sun, 13 Mar 2022 12:13:12 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6315'
+date: Sun, 13 Mar 2022 13:13:11 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7163'
 ---
 
 <div>   
-<p>你会为你的APP开发什么样的“长辈模式”</p>  
+你会为你的APP开发什么样的“长辈模式”  
 </div>
             

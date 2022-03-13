@@ -50,21 +50,21 @@ thumbnail: 'https://img.36krcdn.com/20220307/v2_dc2bdb38d3cb409f92db67d0b09769de
 <p>除了自有门店，公司的其他销售渠道还包括企业顾客，主要是金融机构、酒店、物业开发商、汽车经销商及其他企业公司，另外，公司还会有一些产品发布活动，例如在百货公司及购物中心举办展销会，展示公司最新的产品。</p> 
 <p>值得注意的是，由于OSIM绝大部分收益均来自于零售销售，2019年至2021年1-9月报告期，公司的贸易应收款项总额分别为2387.6万新加坡元、3219.1万新加坡元及2709.4万新加坡元，其中7.0%、12.9%及15.3%已逾期，3.8%、2.4%及2.8%作呆账拨备。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220307/v2_f0e3691ea50944b1ba2d42c5cff3f4f2_img_000" referrerpolicy="no-referrer"></p> 
-<p>未来公司若在收回贸易应收款项时遇到任何严重延迟或拖欠，可能对公司的现金流及营运资金构成压力，并减少可用财务资源，继而可能对公司的业务、财务状况及经营业绩造成重大不利影响。</p> 
+<p>未来公司若在收回贸易应收款项<a class="project-link" data-id="270956" data-name="时遇" data-logo="https://img.36krcdn.com/20210810/v2_820ea0fdf54b4f4f919687a193c9e5b3_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/270956" target="_blank">时遇</a>到任何严重延迟或拖欠，可能对公司的现金流及营运资金构成压力，并减少可用财务资源，继而可能对公司的业务、财务状况及经营业绩造成重大不利影响。</p> 
 <p><strong>3</strong> </p> 
 <p><strong>结语</strong></p> 
 <p>整体来看，OSIM目前的盈利情况有所好转，前期公司在营销方面也做了充足的铺垫和投入，但高端按摩椅市场最终还是要看产品的质量和创新，公司想要长远发展、进一步渗透中国市场，需要投入更多的研发，给消费者创造更多优质的产品和服务。</p> 
 <p><strong>关注公众号，回复“OSIM”获得最新招股书</strong></p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220307/v2_985c4e497b314e71932d2dc799da24a3_img_000" referrerpolicy="no-referrer"></p> 
 <p><strong>热门新股</strong></p> 
-<p>* 估值6000亿！保时捷“单飞”上市，大众等不及了！</p> 
-<p>* 赢不了外卖，干不过预制菜，谁抛弃了康师傅们？ </p> 
+<p>* 估值6000亿！<a class="project-link" data-id="584968" data-name="保时捷" data-logo="https://img.36krcdn.com/20210814/v2_b7df2fc459a1487096a9f80529127f3b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/584968" target="_blank">保时捷</a>“单飞”上市，<a class="project-link" data-id="3969555" data-name="大众" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969555" target="_blank">大众</a>等不及了！</p> 
+<p>* 赢不了外卖，干不过预制菜，谁抛弃了<a class="project-link" data-id="25844" data-name="康师傅" data-logo="https://img.36krcdn.com/20210806/v2_dd5a6e6d66764277adb66777fa8fabfd_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/25844" target="_blank">康师傅</a>们？ </p> 
 <p>* 圆梦“造娃”，这个赛道火了！ </p> 
 <p>* 估值百亿的文和友，没人抢着去了 </p> 
 <p><strong>识别下方二维码，进入专属服务社群！开户链接戳文末“阅读原文”即可噢~</strong> </p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220307/v2_47104148e57e4b5abbd2a629dd0445fe_img_000" referrerpolicy="no-referrer"></p> 
 <p><strong>本文为格隆汇新股原创作品，如需转载，请在后台回复“转载”二字，获取转载格式要求。</strong> </p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220307/v2_03fe27833eb84a61b93797c85a989cb5_img_000" referrerpolicy="no-referrer"></p> 
-<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzUzMTkwOTkzNw==&mid=2247543106&idx=4&sn=7d9893b2688efdc3ca1f7b70524eaba4&chksm=fab9351ccdcebc0ae1a2282504eada3e9c8785aa4f2aa6845894039af9940cbe116b7646ccf1#rd">“格隆汇新股”（ID：ipopress）</a>，作者：周周，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzUzMTkwOTkzNw==&mid=2247543106&idx=4&sn=7d9893b2688efdc3ca1f7b70524eaba4&chksm=fab9351ccdcebc0ae1a2282504eada3e9c8785aa4f2aa6845894039af9940cbe116b7646ccf1#rd">“格隆汇新股”（ID：ipopress）</a>，作者：周周，36氪经授权发布。</p>  
 </div>
             
