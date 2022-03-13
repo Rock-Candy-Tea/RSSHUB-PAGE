@@ -1,0 +1,18 @@
+
+---
+title: 'Stargaze NFT 上線'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/28f8a3e7-f6c2-40bd-ad03-ad043c3dbd64.jpeg'
+author: Matters
+comments: false
+date: Sun, 13 Mar 2022 03:18:09 GMT
+thumbnail: 'https://assets.matters.news/embed/28f8a3e7-f6c2-40bd-ad03-ad043c3dbd64.jpeg'
+---
+
+<div>   
+<p>較早前領了一大筆Stargaze 空投，我也發了領空投文章，當日我領到的空投值一千美金，我用去做流動性挖礦，我的pool今日值千四多美金。</p><p>發文章講領了空投的過程，當時要用$STAR做gas, 所以我要換$STAR來完成領空投的事，可惜領完後，平台不用$STAR了，沒有也可以領，於是我的文章變笑話，也被人打臉。</p><p>後來領Shade 空投，要$SCRT做gas才能領，第一天領空投，Osmosis 的SCRT IBC 塞車，我在Junoswap 換了，成功領到空投，但我想想：這種事還是不要寫，寫完Osmosis 的SCRT通了，我又要被打臉，自招煩惱。</p><p>所以我決定以後不再出Cosmos 空投文章，或者Terra或其他鏈的空投心血來潮會寫，但既然平台這麼多Cosmos 精英，我自己領空投有我自己群組資訊來源，一定領到，不會錯失，如有其他Twitter, Discord 獎勵資訊都會有組員提醒我，所以自己領空投自己開心好了，不需再出文章。</p><hr><p>上次Stargaze空投後的發展，就是到現在的NFT上線，昨晚，我們玩得很開心。</p><p>參與的組員，其中三人：我，翡翠，韮進都持有之前領到的空投$STAR, 但都用去質押和挖礦，但另一組員海男有$STAR是買的，他率先mint了NFT, 然後再借$STAR給我和翡翠，把幣轉到我們錢包，而韮進即刻去交易所買，於是我們全部可以mint NFT了。</p><p>在NFT 先選主題，然後會開到不同的圖。</p><p>我說：一人一隻Trooper吧！</p><p>看看我們的結果：</p><figure class="image"><img src="https://assets.matters.news/embed/28f8a3e7-f6c2-40bd-ad03-ad043c3dbd64.jpeg" data-asset-id="28f8a3e7-f6c2-40bd-ad03-ad043c3dbd64" referrerpolicy="no-referrer"><figcaption><span>頹廢熊的Trooper</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/e1882dfd-94fd-4e7c-b38f-3698e2f8c570.jpeg" data-asset-id="e1882dfd-94fd-4e7c-b38f-3698e2f8c570" referrerpolicy="no-referrer"><figcaption><span>海男的Trooper</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/ff82d3da-5593-4124-8757-10dc0d92d38d.jpeg" data-asset-id="ff82d3da-5593-4124-8757-10dc0d92d38d" referrerpolicy="no-referrer"><figcaption><span>翡翠的Trooper</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/6d00b544-c167-4af1-a67d-59017b3360b8.jpeg" data-asset-id="6d00b544-c167-4af1-a67d-59017b3360b8" referrerpolicy="no-referrer"><figcaption><span>韮進的Trooper</span></figcaption></figure><p><br></p><p>海男那圖有殺氣，其他的很馬賽克，好玩在每幅都不同。</p><p>另外海男和韮進mint了Punk：</p><figure class="image"><img src="https://assets.matters.news/embed/0b022cc0-7633-4a12-bcbe-0721d6973845.jpeg" data-asset-id="0b022cc0-7633-4a12-bcbe-0721d6973845" referrerpolicy="no-referrer"><figcaption><span>海男的Punk</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/0b37d6a8-d590-4b41-b226-815be6ecbafe.jpeg" data-asset-id="0b37d6a8-d590-4b41-b226-815be6ecbafe" referrerpolicy="no-referrer"><figcaption><span>韮進的Punk</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/5696c251-7980-48f3-a38b-8ef8494a3bf8.jpeg" data-asset-id="5696c251-7980-48f3-a38b-8ef8494a3bf8" referrerpolicy="no-referrer"><figcaption><span>韮進另一隻Punk</span></figcaption></figure><p>這些Punk都有details 的，有headphones, T-shirt上有大字“S” 代表Stargaze, 另外T-shirt 領有綁繩，有太空帽，都有特別的細節。</p><p>最驚嚇是韮進mint了Bad Kid:</p><figure class="image"><img src="https://assets.matters.news/embed/7009cb3d-d097-43b2-8106-7733500b041e.jpeg" data-asset-id="7009cb3d-d097-43b2-8106-7733500b041e" referrerpolicy="no-referrer"><figcaption><span>Bad Kid</span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/1b7e2b9f-afd6-4ced-8123-3e765a7971f9.jpeg" data-asset-id="1b7e2b9f-afd6-4ced-8123-3e765a7971f9" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>得到這幅醜圖，太好笑，不好意思了組員老友，我要把對話截圖，笑死我了。</p><figure class="image"><img src="https://assets.matters.news/embed/bb0b441c-3a20-4da4-931d-42dc51c9921b.jpeg" data-asset-id="bb0b441c-3a20-4da4-931d-42dc51c9921b" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>反正這次mint NFT 活動很歡樂🤣。</p>  
+</div>
+            
