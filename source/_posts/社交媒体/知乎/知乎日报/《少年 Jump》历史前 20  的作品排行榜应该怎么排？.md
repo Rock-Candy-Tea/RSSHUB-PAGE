@@ -6,11 +6,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-14 09:10:22
-thumbnail: 'https://pic3.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162'
+date: 2022-03-14 10:10:23
+thumbnail: 'https://pica.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -34,7 +34,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-f9059a19ea3cdd9512174708dcea0ec3_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">许多的小兵器，</span><span class="bio">石田龙弦.jpg</span>
 <a href="https://www.zhihu.com/question/520027181/answer/2375181576" class="originUrl" hidden>查看知乎原文</a>
 </strong>

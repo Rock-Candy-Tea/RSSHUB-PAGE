@@ -20,7 +20,7 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_0e0b48be13b244b7b4ea609d2eec0b89
 <p class="image-wrapper"><img data-img-size-val="1080,746" src="https://img.36krcdn.com/20220314/v2_0e0b48be13b244b7b4ea609d2eec0b89_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">◼︎老狼在成都小酒馆 受访者供图</p> 
 <p>某种程度上，小酒馆是国内元老级的LiveHouse。二十多年前，主理人史雷从北京来到成都，经营小酒馆至今，一路见证成都独立音乐走向蓬勃发展的同时，也伴随众多本土原创乐队成长。</p> 
-<p>在国内，存活如此多年的LiveHouse并不多见，杭州酒球会同样是少数之一。成立于2010年的酒球会，是杭州最老牌的LiveHouse。多年前，主理人王涤在北京河酒吧听民谣，那是野孩子乐队创办的一个民谣音乐人“聚集地”，万晓利、小河、张玮玮都算是那走出来的民谣歌手。</p> 
+<p>在国内，存活如此多年的LiveHouse并不多见，杭州酒球会同样是少数之一。成立于2010年的酒球会，是杭州最老牌的LiveHouse。多年前，主理人王涤在北京河酒吧听民谣，那是<a class="project-link" data-id="81912" data-name="野孩子" data-logo="https://img.36krcdn.com/20210807/v2_9fa66eb1dd114625b3a6d8b922d40830_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/81912" target="_blank">野孩子</a>乐队创办的一个民谣音乐人“聚集地”，万晓利、小河、张玮玮都算是那走出来的民谣歌手。</p> 
 <p>后来，河酒吧支撑不住而倒闭，王涤萌生了在杭州开一家LiveHouse的想法。于是，酒球会成为他心中河酒吧的另一种延续。不过，经营LiveHouse并不是一件轻松的事，酒球会也曾一度走向倒闭的边缘。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,644" src="https://img.36krcdn.com/20220314/v2_8b494d66ca3c46b59e249c9916dd1c69_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">◼︎酒球会的演出现场 受访者供图</p> 
@@ -38,7 +38,7 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_0e0b48be13b244b7b4ea609d2eec0b89
 <p>“那段时间，一般的演出大概只能卖出去三、四十张票，甚至更少，房租都不够付。”沈毅称，成立至今，7LIVEHOUSE前后投入200余万元，直到2017年才基本做到经营的收支平衡，后续逐渐盈利。</p> 
 <p>如今，7LIVEHOUSE依旧是郑州唯一一家LiveHouse。在沈毅看来，“如果没有真正的热情支撑着，做不了这个生意。”</p> 
 <p>王涤有同样的心境。2014年，王涤一手创办的酒球会处在倒闭边缘，当时距离开业已经过去4年。“最难的时候欠了接近600万元，靠着向很多朋友借钱才能维持经营。”王涤直言，那是酒球会的一次“生死关”。</p> 
-<p>后来，经历一些经营调整，酒球会的收益才逐渐稳定。但直到现在，也算不上真正赚到了钱。“酒球会每年的营收还在用来还之前的债，原本预计2020年将欠款都还清，但因为疫情影响，还款时间只能延后。”王涤说道。</p> 
+<p>后来，经历一些经营调整，酒球会的收<a class="project-link" data-id="92363" data-name="益才" data-logo="https://img.36krcdn.com/20210807/v2_1b43764c37ba46fe9a022f8ce5f1dadd_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/92363" target="_blank">益才</a>逐渐稳定。但直到现在，也算不上真正赚到了钱。“酒球会每年的营收还在用来还之前的债，原本预计2020年将欠款都还清，但因为疫情影响，还款时间只能延后。”王涤说道。</p> 
 <h2><strong>02 在生死线徘徊</strong></h2> 
 <p>曾经有一段时间，大批国内老牌LiveHouse相继关停，能存活至今的LiveHouse是幸运的。但某种程度上，幸运来源于痛定思痛后的改变。</p> 
 <p>情怀和经营，很长时间在LiveHouse主理人心中是两个矛盾的存在。体现在现实中，多数LiveHouse长期都因为只讲情怀而在生死线徘徊，直到他们开始将LiveHouse当作一门生意。</p> 
@@ -62,7 +62,7 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_0e0b48be13b244b7b4ea609d2eec0b89
 <p>7LIVEHOUSE和小酒馆也同样遇到投资机构递来的“橄榄枝”。但沈毅认为，在没有看到清晰的商业路径之前，7LIVEHOUSE并不会接受资本的进入，“这会影响我对这个事业的初衷。”</p> 
 <p>史雷则表示，与资本的谈判是双方标准走向一致的过程，如果没有达到，小酒馆选择保持独立的状态。</p> 
 <p>与资本或多或少的接触后，LiveHouse经营者们被直接或间接“教育”，开始思考关于运营、坪效、内容在内的商业化考量。</p> 
-<p>今年2月，近百家LiveHouse的主理人在合肥联合举办了“首届LiveHouse行业论坛”。大家自费参会，坐在一起，整整聊了三天——关于如何坚持下去，如何生存得更体面一些。</p> 
+<p>今年2月，近百家LiveHouse的主理人在合肥联合举办了“首届LiveHouse行业论坛”。大家自费参会，坐在<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>，整整聊了三天——关于如何坚持下去，如何生存得更体面一些。</p> 
 <p>打造一个“复合型”空间场所被反复提起。</p> 
 <p>比如，增加附加值业务，LiveHouse可以提供酒水类消费；或者做成音乐餐吧，提供餐饮服务；也可以举办Party、脱口秀，增加适合年轻人的活动。总而言之，需要把空间利用起来。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,731" src="https://img.36krcdn.com/20220314/v2_5d8f6226f79d4e22a1541d720fac1921_img_000" referrerpolicy="no-referrer"></p> 
@@ -72,6 +72,6 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_0e0b48be13b244b7b4ea609d2eec0b89
 <p>2018年，史雷在成都创建文创园区“院子文化创意园”，寻求与城市文化和独立音乐场景产生更多的连接，进一步孵化和激活年轻群体。在史雷看来，单纯做LiveHouse的竞争压力较大，这是小酒馆与城市深入连接的方式，他想以更多的方式生存。</p> 
 <p>不止是独立空间的迭代，沈毅正在专注于内容厂牌，孵化与培养本地乐队，为他们提供唱片录制及出品、宣传推广等一系列服务；而王涤准备做一个大型的音乐节策划，带年轻乐队到全国各个城市巡演，让更多新乐队能走出来。</p> 
 <p>“也许有一天，国内会有一个城市像代表戏剧的乌镇一样，是一个跟音乐相关的地方，成为一个‘音乐爱丁堡’。”王涤畅想道。</p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/WfjFKqgUJ3bmqgG4bt4IzQ">“19号商研社”（ID:time_biz）</a>，作者：涂梦莹，编辑：洪若琳 ，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/WfjFKqgUJ3bmqgG4bt4IzQ">“19号商研社”（ID:time_biz）</a>，作者：涂梦莹，编辑：洪若琳 ，36氪经授权发布。</p>  
 </div>
             
