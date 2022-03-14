@@ -91,8 +91,12 @@ GamesRadar+：5
 <p style="text-indent:2em;">
 NME：2
 </p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220314/1647258553_166220.jpg" alt="《最终幻想起源：天堂的陌生人》评分解禁 IGN 8分" referrerpolicy="no-referrer"> 
+<p style="text-indent:2em;">
+<strong>评测视频：</strong>
+</p>
+<p style="text-align:center;">
+<iframe src="https://player.youku.com/embed/XNTg1MDkyNzc0MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
 </p>
 <p style="text-indent:2em;">
 <strong>视频画面：</strong> 
