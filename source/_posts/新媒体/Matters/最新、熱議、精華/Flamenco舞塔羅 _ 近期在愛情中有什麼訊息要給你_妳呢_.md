@@ -1,0 +1,18 @@
+
+---
+title: 'Flamenco舞塔羅 _ 近期在愛情中有什麼訊息要給你_妳呢_'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/84aded08-2190-4ad7-ae98-18d76fe09207.png'
+author: Matters
+comments: false
+date: Sun, 13 Mar 2022 16:09:53 GMT
+thumbnail: 'https://assets.matters.news/embed/84aded08-2190-4ad7-ae98-18d76fe09207.png'
+---
+
+<div>   
+<p>Hello大家好，歡迎來到黃皮膚的吉普賽人，我是太陽雙子、上升處女、月亮牡羊、命主星水星、太陰坐命的顯示生產者Luz露思，我目前是一位塔羅占卜師、占星師、催眠師以及佛朗明哥歌手。</p><p>熟悉的介紹詞最對味! 好一陣子沒有跟大家分享<strong>佛朗明哥</strong>以及<strong>占卜</strong>相關的內容了，今天我們來做一些不一樣的，如同我的介紹詞說的，我同時擁有塔羅占卜師以及佛朗明哥歌手的身分，其實在我這幾年的歷程裡，一直尋找著把我每一個面向融合成為一個我的接點，在2018年的藝術自由日，我受邀加入了一個佛朗明哥占卜的活動，這也正式把我的這些面向都整合起來。</p><hr><hr><blockquote><strong>2018年台北藝術自由日</strong></blockquote><p>藝術能有多自由? 我們能整合多少自己? 我們能給自己多少接納?</p><figure class="image"><img src="https://assets.matters.news/embed/84aded08-2190-4ad7-ae98-18d76fe09207.png" data-asset-id="84aded08-2190-4ad7-ae98-18d76fe09207" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>2018年對我而言是很重要的一年，除了不斷的學習之外，也是我人生一個很大的轉捩點，當時我以<strong>佛朗明哥半職業歌手</strong>以及<strong>占卜療育師</strong>的身分活動著，那時候的我把自己分成兩半，在佛朗明哥圈不提自己的占卜專業，在占卜圈不提自己的佛朗明哥專業，因為擔心自己的斜槓太斜會不被接納。</p><p>佛朗明哥圈內有一個團體叫做<u>小野狂花樂舞合作社</u>，裡面的團長每年都會用不同的形式推廣佛朗明哥，這一年，他們想到了融合<strong>佛朗明哥的歌詞</strong>跟<strong>占卜</strong>，想到這個想法之後，自然就第一個想到在圈內同時擁有佛朗明哥歌手跟占卜師身分的我，於是那年我就受邀去參加了這個藝術自由日。</p><p>他們想到了這個點子，但是實際執行面是很模糊的，當時我用我占卜師的邏輯設計了一套執行的方法，成為這個活動第一個坐上位置的占卜師，那一刻我知道，<strong>這就是整合自己的起點，我知道所有的我都是完整的，我不需要隱藏哪一個部分，我就是我。</strong></p><figure class="image"><img src="https://assets.matters.news/embed/8a5fa3f3-5759-4a27-9f13-8aaf478801e2.png" data-asset-id="8a5fa3f3-5759-4a27-9f13-8aaf478801e2" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>帶著這樣的想法，又過了好多年，接觸了更多的知識，也經過了更多的測試，</p><h2>Flamenco舞塔羅就此誕生!</h2><hr><hr><blockquote><strong>💃Flamenco舞塔羅💃💝Tango x 愛情篇💝</strong></blockquote><p>今天就是白色情人節了，我們的Flamenco舞塔羅第一集就從愛情篇開始吧!</p><p>現在請妳/你靜下來，做3次深呼吸後看完影片，選擇你<strong>最有感覺</strong>的那個選項，就是你今天需要聽到的訊息喲! 在這邊稍作提醒，所謂的最有感覺不一定是喜歡，也有可能是不喜歡，總之請你選你有<strong>最大感受</strong>的那個喲!</p><p>策劃/舞：Lucía 佛拉明哥 <br class="smart">占卜/歌：黃皮膚的吉普賽人Luz露思<br class="smart">吉他：爆肝<br class="smart">場地支援：台北樂舞交流平台</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/MSoetCvusVQ?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p>選完了嗎? 選完請到下面這支影片看解答歐! 我很貼心在說明欄放了時間軸，如果你想直接看自己選到的選項可以到說明欄尋找歐! 但我當然是希望大家幫我看完啦! (笑)</p><p>另外如果你覺得這個占卜不錯，我也在說明欄放了拍手連結，也歡迎大家去幫我拍拍手歐!</p><figure class="embed-video"><div class="iframe-container"><iframe src="https://www.youtube.com/embed/GC0r71Qq4WI?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div><figcaption><span></span></figcaption></figure><p>不知道大家喜不喜歡這個形式的占卜，都歡迎在YT或文章下面留言告訴我歐! 如果反應不錯我們還會持續推出的，祝福大家都有一個美好的白色情人節喲!</p><p>更多資訊請追蹤<br class="smart">臉書粉絲團：<a href="https://www.facebook.com/LuzWu222" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人 </a><br class="smart">IG、TikTok：<a href="https://www.instagram.com/luzwu222/" rel="noopener noreferrer" target="_blank">LuzWu222</a><br class="smart">YouTube頻道：<a href="https://www.youtube.com/channel/UCJjVRD1tz7qNzGsH47frnfQ" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人</a><br class="smart">Podcast頻道：<a href="https://soundcloud.com/wu-pei-ju" rel="noopener noreferrer" target="_blank">黃皮膚的吉普賽人</a>、<a href="https://soundcloud.com/user-46629955" rel="noopener noreferrer" target="_blank">就是那道光--Luz露思的聊聊小天地</a></p><p><br></p>  
+</div>
+            
