@@ -64,7 +64,7 @@ thumbnail: 'https://img.cls.cn/images/20220314/uwP4eB1nPr.jpg'
 <p><strong>《研选》：从机构角度评选更有价值的研报。</strong></p>
 <p>3月14日07:12《研选》发布文章《光伏龙头大扩产，拟投建20GW硅片+30GW电池片+5GW组件产能，一体化产能持续扩张》其中提及电子身份证相关话题，引用分析师的观点详细梳理可信数字身份生态体系，指出伴随数字身份证相关政策加速推进，相关供应商有望核心受益，并提及新大陆，<strong>其在3月14日拉升，日内收涨5.86%。</strong></p>
 <p><img src="https://img.cls.cn/images/20220314/fWx5RnJ8Um.jpg" alt="image" referrerpolicy="no-referrer"></p>
-<p><img src="https://img.cls.cn/images/20220314/bf34a55DUR.jpg" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220314/nI126g7eTv.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p>如您正使用财联社APP端，订阅可点击：</p>
 <p>订阅《盘中宝》请点击此处>>></p>
 <p>订阅《风口研报》请点击此处>>></p>
