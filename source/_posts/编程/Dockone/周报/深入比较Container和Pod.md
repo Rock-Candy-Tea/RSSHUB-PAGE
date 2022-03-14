@@ -8,7 +8,7 @@ categories:
 headimg: 'https://iximiuz.com/containers-vs-pods/container-2000-opt.png'
 author: Dockone
 comments: false
-date: 2022-03-14 00:38:10
+date: 2022-03-14 02:07:45
 thumbnail: 'https://iximiuz.com/containers-vs-pods/container-2000-opt.png'
 ---
 
