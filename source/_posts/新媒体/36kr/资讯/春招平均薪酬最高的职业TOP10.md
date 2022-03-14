@@ -14,10 +14,10 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_026379f563ad42a699178d000d9ccfc7
 
 <div>   
 <p>春招，春季招聘的简称。作为一年中唯二的大型招聘时节，春招不仅吸引即将毕业的应届生，也承载想要跳槽的职场人。</p> 
-<p>如今的春招越来越卷，卷的不只是求职者，还有各种企业。为了招到更合适的员工，不少企业都会为春招保留岗位，甚至不断提前招聘时间。但找工作也并没有变得容易，被裹挟在内卷的<a class="project-link" data-id="457408" data-name="浪潮" data-logo="https://img.36krcdn.com/20210812/v2_079b6194026a457fb6ca0d50e1203979_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/457408" target="_blank">浪潮</a>中踽踽前行的求职年轻人，大抵都有这种感觉：“找个合适工作实在太难了！”</p> 
+<p>如今的春招越来越卷，卷的不只是求职者，还有各种企业。为了招到更合适的员工，不少企业都会为春招保留岗位，甚至不断提前招聘时间。但找工作也并没有变得容易，被裹挟在内卷的浪潮中踽踽前行的求职年轻人，大抵都有这种感觉：“找个合适工作实在太难了！”</p> 
 <p>DT君梳理了春招热门、高薪的行业和职业，分析了“求职难”的原因，并总结了如今求职者的四大趋势。</p> 
 <h2><strong>#01 众里寻他千百度：这些是今年春招的热门</strong></h2> 
-<p>求职从来不是简单线性的过程。大多数简历最终流向兴趣、待遇、难度和理想都相对平衡的领域，这些领域便成为热门。春节过后，<a class="project-link" data-id="6130" data-name="智联招聘" data-logo="https://img.36krcdn.com/20220120/v2_1d463f8dac29402fb68d4cddd9ae6ae2_img_000" data-refer-type="1" href="https://www.36dianping.com/space/3666010133?mp=zzquote" target="_blank">智联招聘</a>发布了《2022年春招市场行情周报（第三期）》。DT君从中梳理出热招行业的一些“端倪”。 </p> 
+<p>求职从来不是简单线性的过程。大多数简历最终流向兴趣、待遇、难度和理想都相对平衡的领域，这些领域便成为热门。春节过后，智联招聘发布了《2022年春招市场行情周报（第三期）》。DT君从中梳理出热招行业的一些“端倪”。 </p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220314/v2_026379f563ad42a699178d000d9ccfc7_img_000" referrerpolicy="no-referrer"></p> 
 <p>可以看到，在企业的招聘需求中，专业服务/咨询行业的数量最多，职位数量占比约11%。招聘需求第二的是互联网/电子商务行业，职位数占比达到10.9%，接下来是房地产/建筑/建材/工程、计算机软件、中介服务等行业。这十个行业的职位数占整个春招市场的58.4%。 </p> 
 <p>职位数量多并不代表竞争压力小。因为年轻人的求职简历，也大都流向了这些行业。 </p> 
@@ -28,7 +28,7 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_026379f563ad42a699178d000d9ccfc7
 <p>不过，面对几乎翻番的求职者，企业没有拉低工资，反而给出了更高薪酬。数据显示，在平均招聘薪酬上，2022年春招热门行业平均薪酬约10637.6元/月，高于2021年的9492.2元/月。或许，这就是求职者在“卷王大战”中能获得的最大慰藉。 </p> 
 <p>看完行业，我们再来看一下今年春招的热门职业。 </p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220314/v2_276f879b50bf498ea16ad005076b9a06_img_000" referrerpolicy="no-referrer"></p> 
-<p>可以发现，销售顾问以14.5%的职位数占比“一骑绝尘”，比第二位的普工/技工多出9.1个<a class="project-link" data-id="26435" data-name="百分点" data-logo="https://img.36krcdn.com/20220120/v2_43872fa10a814ca28f6c9380a26df32a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4852500124?mp=zzquote" target="_blank">百分点</a>。销售顾问一职流动性较大，行业宽泛，需求量大，涉及面广，是其热招的重要因素。 </p> 
+<p>可以发现，销售顾问以14.5%的职位数占比“一骑绝尘”，比第二位的普工/技工多出9.1个百分点。销售顾问一职流动性较大，行业宽泛，需求量大，涉及面广，是其热招的重要因素。 </p> 
 <h2><strong>#02 抬头是理想，脚下是生活：有关高薪行业&职业的那些事</strong></h2> 
 <p>分析行业优劣时头头是道，真的上手找工作时，工资还是很重要。老话说得好，没有物质基础，再好的理想也是空谈。DT君进一步总结了今年春招市场中高薪行业的分布情况。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220314/v2_8c1f3c4d4184402dbbd8788cf1f7e815_img_000" referrerpolicy="no-referrer"></p> 
@@ -39,7 +39,7 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_026379f563ad42a699178d000d9ccfc7
 <p>首先来看2022年的情况。可以看到，人工智能的薪酬高居榜首，达23960元/月。高级管理位列其后，二者均突破了“两万元大关”。其后分别为移动研发、投融资、软件研发等。整体来看，2022年春招的二十大高薪职业全部超过12000元。较之于去年，今年的平均薪酬普遍提升，比去年增加约2000元。</p> 
 <p>进一步对比可发现，2021年进入榜单的医生/药剂师、商务服务、合规风控/法务/律师等职业没有出现，取而代之的是汽车制造、电子/电器/半导体、能源/矿产/地质这三个职业。这或许受益于国家政策。2020年11月2日，国务院办公厅下发了关于印发《新能源汽车产业规划（2021-2035年）》的通知。作为近几年大力发展的重点，新能源产业相关的三个职业成为榜单的新晋成员。</p> 
 <h2><strong>#03 雁过留声，心下茫然：春招中的求职焦虑有哪些？</strong></h2> 
-<p>刚出校门的应届生、工作一两年的职场新人、五年以上的“职场老手”，他们对求职各有考量，求职焦虑也各不相同。DT君结<a class="project-link" data-id="227626" data-name="合智" data-logo="https://img.36krcdn.com/20210809/v2_adc18094207a457f8e06e8cb7c5e7727_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/227626" target="_blank">合智</a>联招聘发布的《2022 年春招市场行情周报（第二期）》对求职者的求职焦虑进行分析，总结出以下四个趋势。</p> 
+<p>刚出校门的应届生、工作一两年的职场新人、五年以上的“职场老手”，他们对求职各有考量，求职焦虑也各不相同。DT君结合智联招聘发布的《2022 年春招市场行情周报（第二期）》对求职者的求职焦虑进行分析，总结出以下四个趋势。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220314/v2_a76417c371934594aa09e6d0feb423bb_img_000" referrerpolicy="no-referrer"></p> 
 <p><strong>1、从我配不上工作，到工作配不上我。</strong></p> 
 <p>数据显示，对于应届生和工作1年以下的求职者来说，求职难的主要原因在于“缺乏相关实习经历／工作经历”以及“缺乏岗位要求专业技能”。因为缺少实践经历，较之对薪资的期许，他们更担心自己缺乏胜任期望岗位的经历背书和专业技能。</p> 
@@ -61,6 +61,6 @@ thumbnail: 'https://img.36krcdn.com/20220314/v2_026379f563ad42a699178d000d9ccfc7
 <p>找一份合适自己的工作，赚着差不多的钱，等着退休，是多数打工人的真实写照。将有限生命投入伟大事业的故事，属于少数人。 </p> 
 <p>工作意味着什么？也许是通往理想生活的途径，但工作也本就是生活的一部分。生活不易，求职很难，我们能做的是在形形色色的职位中找到自己心中的声音，想清楚工作的目的与意义，找到对工作的期许并将其转化为奋斗的力量。 </p> 
 <p>如果能找到理想与现实的平衡，年轻人的求职焦虑也许会少些迷茫，多点希望。 </p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA5Mzk5MDM5MA==&mid=2650944561&idx=1&sn=ae7b3db0c58d42c0fecfa1c9797892c4&chksm=8ba3e8a8bcd461bead9b0374994fdab45247b2cdd3519955897367ef4285a0443c558d81a44b#rd">“DT财经”（ID：DTcaijing）</a>，作者：董道力、赵迦东，编辑：阿文、唐也钦，设计：郑舒雅，36氪经授权发布。</p>  
+<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA5Mzk5MDM5MA==&mid=2650944561&idx=1&sn=ae7b3db0c58d42c0fecfa1c9797892c4&chksm=8ba3e8a8bcd461bead9b0374994fdab45247b2cdd3519955897367ef4285a0443c558d81a44b#rd">“DT财经”（ID：DTcaijing）</a>，作者：董道力、赵迦东，编辑：阿文、唐也钦，设计：郑舒雅，36氪经授权发布。</p>  
 </div>
             
