@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/web/topic/2022/03/15/220315180937985_u31513
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>受害者们快去反馈。</p>
 </div>
 
                 
