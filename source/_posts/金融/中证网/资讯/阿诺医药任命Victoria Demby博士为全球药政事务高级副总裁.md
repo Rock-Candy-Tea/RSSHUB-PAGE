@@ -1,0 +1,20 @@
+
+---
+title: '阿诺医药任命Victoria Demby博士为全球药政事务高级副总裁'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2796'
+author: 中证网
+comments: false
+date: Tue, 15 Mar 2022 11:24:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2796'
+---
+
+<div>   
+<p>　　<span style="letter-spacing: 0.05em">中证网讯（记者 徐金忠）3月14日，专注于肿瘤治疗领域的创新型全球生物制药公司阿诺医药集团有限公司（以下简称“阿诺医药”）宣布，任命医学领域专家Victoria Demby博士为全球药政事务高级副总裁（Senior Vice President of Global Regulatory Affairs），将全面负责阿诺医药研发管线产品的注册策略制定、注册递交、与药监机构互动等工作。</span> </p>
+<p>　　资料显示，Victoria Demby博士毕业于佛蒙特大学，取得生物化学学士学位，后于堪萨斯大学获得药理学和毒理学博士学位。Victoria Demby博士拥有逾20年的全球多元化行业经验，曾在葛兰素史克公司担任临时副总裁，负责肿瘤治疗组注册。此前，还担任默克集团执行总监和全球药政负责人，并成功获得全球多项Keytruda适应症的营销申请批准。Victoria Demby博士是一位经验丰富的注册事务专业人士，在百时美施贵宝和默克的多个治疗领域，包括肿瘤学、心肾、代谢学、神经学和免疫学，都担任重要角色。</p>
+  
+</div>
+            
