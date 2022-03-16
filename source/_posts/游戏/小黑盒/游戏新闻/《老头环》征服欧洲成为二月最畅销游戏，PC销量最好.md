@@ -1,0 +1,18 @@
+
+---
+title: '《老头环》征服欧洲成为二月最畅销游戏，PC销量最好'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1245620_EMJHO.jpg'
+author: 小黑盒
+comments: false
+date: 2022-03-16 03:14:29
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1245620_EMJHO.jpg'
+---
+
+<div>   
+<p>《艾尔登法环》在全球市场真是表现惊人，GSD发布市场报告称《艾尔登法环》是自2016年《全境封锁》发售以来欧洲卖的最好的新IP游戏，也是自去年11月《使命召唤:先锋》以来发行规模最大的游戏。</p><p><img data-gameid="1245620" src="https://cdn.max-c.com/heybox/game/header/1245620_EMJHO.jpg" referrerpolicy="no-referrer"></p><p>《艾尔登法环》在PC上的销量最好，占总销量的44%。随后是PS5 (27%)， Xbox(16%)，最后是PS4(13%)。</p><p><img class="lazy" data-height="1353" src="https://i1.max-c.com/imgx/2022/03/15/cde71ea6480145c3a4590e2a8c508e821647353533.jpg" data-width="2407" referrerpolicy="no-referrer"></p><p>《艾尔登法环》是欧洲2月份最畅销的游戏，在大多数地区都取得了第一名的好成绩，除了德国（《宝可梦传说：阿尔宙斯》）。</p><p>本月排名第二的游戏是《地平线：西之绝境》。其59%的销量来自PS5，其余则来自PS4，这也证明了索尼为何会继续在PS4上发布新游戏。不过值得注意的是，《地平线：西之绝境》PS4版本的售价略低于PS5版本，而且玩家可以免费从PS4版升级到PS5版。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/03/15/2e6484d5bbe249a2bf24b5298255cd301647353534.jpg" data-width="1280" referrerpolicy="no-referrer"></p><h3>2022年2月欧洲地区Top 15游戏（数字+实体销量）：</h3><p>1.《艾尔登法环》</p><p><img data-gameid="1245620" src="https://cdn.max-c.com/heybox/game/header/1245620_EMJHO.jpg" referrerpolicy="no-referrer"></p><p>2.《地平线：西之绝境》</p><p><img data-gameid="900006587" src="https://cdn.max-c.com/pc_game/head/70ef19b6ff2bbbd8878d411589959326.jpg?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>3.《宝可梦传说：阿尔宙斯》</p><p><img data-gameid="900009845" src="https://cdn.max-c.com/console/switch/screenshot/70010000039944/317da11e468e45c98c0c71033aae2489?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>4.《FIFA 22》</p><p><img data-gameid="1506830" src="https://cdn.max-c.com/heybox/game/header/1506830_nDFYY.jpg" referrerpolicy="no-referrer"></p><p>5.《消逝的光芒2》</p><p><img data-gameid="534380" src="https://cdn.max-c.com/heybox/game/header/534380_jlKdI.jpg" referrerpolicy="no-referrer"></p><p>6.《GTA5》</p><p><img data-gameid="271590" src="https://cdn.max-c.com/heybox/game/header/271590_ia1h3.jpg" referrerpolicy="no-referrer"></p><p>7.《全面战争：战锤3》</p><p><img data-gameid="1142710" src="https://cdn.max-c.com/heybox/game/header/1142710_A9cYg.jpg" referrerpolicy="no-referrer"></p><p>8.《马里奥派对：超级巨星》</p><p><img data-gameid="900011188" src="https://cdn.max-c.com/console/switch/screenshot/70010000042933/742aadf5f6d543399a44e200b4adc8bb?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>9.《幽浮2》</p><p><img data-gameid="268500" src="https://cdn.max-c.com/heybox/game/header/268500_Q7haB.jpg" referrerpolicy="no-referrer"></p><p>10.《马里奥赛车8：豪华版》</p><p><img data-gameid="900000090" src="https://cdn.max-c.com/console/switch/screenshot/70010000000153/587b739ca51742f4931eaefcfcee8c64?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>11.《F1 2021》</p><p><img data-gameid="1134570" src="https://cdn.max-c.com/heybox/game/header/1134570_DMFHU.jpg" referrerpolicy="no-referrer"></p><p>12.《荒野大镖客2》</p><p><img data-gameid="1174180" src="https://cdn.max-c.com/heybox/game/header/1174180_QlGB3.jpg" referrerpolicy="no-referrer"></p><p>13.《灵活脑学校：一起伸展大脑》</p><p><img data-gameid="900014505" src="https://cdn.max-c.com/console/switch/screenshot/70010000044950/8b3fc497f5d04d2689672b291c9ea3be?imageMogr2/thumbnail/!75p" referrerpolicy="no-referrer"></p><p>14.《NBA 2K22》</p><p><img data-gameid="1644960" src="https://cdn.max-c.com/heybox/game/header/1644960_xjjBE.jpg" referrerpolicy="no-referrer"></p><p>15.《刺客信条：英灵殿》</p><p><img data-gameid="900006184" src="https://cdn.max-c.com/heybox/dailynews/img/afad246341b983d3711ea1d0f4b6b4eb.jpg" referrerpolicy="no-referrer"></p><blockquote><p>来源：游侠网</p></blockquote>  
+</div>
+            
