@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220316/1647401665_609689.png'
 author: 3DMGame
 comments: false
-date: Wed, 16 Mar 2022 03:35:00 GMT
+date: Wed, 16 Mar 2022 04:02:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220316/1647401665_609689.png'
 ---
 
@@ -23,7 +23,7 @@ PS商城今日开启「三月精选优惠」活动，包括《彩六：异种》
 <strong>活动页面：</strong><a href="https://store.playstation.com/zh-hans-hk/category/e3752935-0030-452c-9da1-e678fc542cfd/1" target="_blank"><strong>点击此处</strong></a> 
 </p>
 <p style="text-indent:2em;">
-<strong>部分游戏</strong><span><strong>折扣</strong></span>
+<strong>部分游戏</strong><span><strong>折扣</strong></span> 
 </p>
 <p style="text-indent:2em;">
 《彩虹六号：异种》  -35%  200.2港币 
