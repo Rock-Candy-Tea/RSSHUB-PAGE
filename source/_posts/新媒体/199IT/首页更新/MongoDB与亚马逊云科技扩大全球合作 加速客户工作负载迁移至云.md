@@ -1,0 +1,18 @@
+
+---
+title: 'MongoDB与亚马逊云科技扩大全球合作 加速客户工作负载迁移至云'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=3947'
+author: 199IT
+comments: false
+date: Wed, 16 Mar 2022 01:55:19 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3947'
+---
+
+<div>   
+MongoDB与亚马逊云科技扩大全球合作 加速客户工作负载迁移至云  
+</div>
+            
