@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/102/188/original/21e967f3203e8ca5.png'
+headimg: 'https://picsum.photos/400/300?random=649'
 author: Mastodon
 comments: false
-date: Wed, 16 Mar 2022 09:56:08 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/102/188/original/21e967f3203e8ca5.png'
+date: Wed, 16 Mar 2022 10:56:23 GMT
+thumbnail: 'https://picsum.photos/400/300?random=649'
 ---
 
 <div>   
-<hr><p>ctrl+eのvideoexport pluginにフレームごと録画する方法はないのだろうか…<br>描き割りおいてそこにテクスチャで置くしかない？<br><a href="https://pawoo.net/tags/koikatsu" class="mention hashtag" rel="tag">#koikatsu</a></p><br><img src="https://img.pawoo.net/media_attachments/files/043/102/188/original/21e967f3203e8ca5.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>直接画面を録画した…<br>><a href="https://discord.com/channels/447114928785063977/447116302096662528/931740257194491944" rel="nofollow noopener noreferrer" target="_blank">https://discord.com/channels/447114928785063977/447116302096662528/931740257194491944</a><br><a href="https://pawoo.net/tags/koikatsu" class="mention hashtag" rel="tag">#koikatsu</a></p><br><video src="https://img.pawoo.net/media_attachments/files/043/103/252/original/282ab2a74b9dd8a3.mp4" autoplay loop>gif </video>  
 </div>
             
