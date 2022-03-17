@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220317/1647476073_539906.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 17 Mar 2022 00:21:00 GMT
+date: Thu, 17 Mar 2022 01:15:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220317/1647476073_539906.jpg'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220317/1647476073_5399
 Deck被人偷走了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647476073_539906.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647476073_539906.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 到目前为止，已经出现几起Steam Deck包裹丢失的案例。在发现自己购买的Steam 
@@ -30,14 +30,14 @@ Deck包裹。
 Deck的机会，这意味着你又要等待一段时间，直到Valve发出下一批Steam Deck。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220308/1646703309_439098.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220308/1646703309_439098.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 有人认为Steam 
 Deck的包装可能是包裹丢失原因之一，网上有开箱视频显示，在包装箱上印有一个巨大的锂电池和“易碎电子产品”标志，这让那些窃贼看见了，肯定会猜到包裹里可能有价格昂贵的高科技产品。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647476380_335177.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647476380_335177.jpg" alt="SteamDeck被盗 用户呼吁Valve使用更普通包装运送" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Valve在短期内会改变Steam Deck包装吗？这事不好说。如果有用户认为Steam 

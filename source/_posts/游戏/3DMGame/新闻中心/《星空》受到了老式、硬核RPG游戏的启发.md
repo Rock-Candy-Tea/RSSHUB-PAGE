@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220317/1647471149_3828
 B社发布了《<a target="_blank" href="https://www.3dmgame.com/games/starfield/">星空</a>》开发理念的新视频博客，游戏总监Todd Howard透漏该作受“老式和硬核RPG游戏”的启发。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647471149_382881.jpg" alt="《星空》受到了老式、硬核RPG游戏的启发" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220317/1647471149_382881.jpg" alt="《星空》受到了老式、硬核RPG游戏的启发" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在说到《星空》背后的团队如何制作游戏时，Howard解释说：“回到一些我们之前从未做过的东西上真的很开心，比如背景，性格，定义你的角色，所有这些属性。”
