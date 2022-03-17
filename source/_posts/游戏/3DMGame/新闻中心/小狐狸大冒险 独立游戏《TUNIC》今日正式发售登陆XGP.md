@@ -30,7 +30,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220317/1647481638_1521
 在 E3 公布前，该作原本名为《秘密传说（Secret Legend）》，原计划于 2018 年发售，但很显然独立制作游戏并不总是会按照计划进展。不过，今天，期待这款游戏的粉丝终于可以在 Steam 上购买这款游戏，国区售价 90 元，且支持简体中文。
 </p>
 <p style="text-indent:2em;">
-Steam商店页面：点击这里
+<strong><span style="font-size:16px;"><span style="color:#E56600;">Steam商店页面：</span><a href="https://store.steampowered.com/app/553420/TUNIC/" target="_blank">点击这里</a></span></strong>
 </p>
 <p style="text-indent:2em;">
 XGP 订阅用户可以同时在 Xbox 主机和 PC 上游玩这款游戏。目前，PlayStation 主机版本尚未宣布。
