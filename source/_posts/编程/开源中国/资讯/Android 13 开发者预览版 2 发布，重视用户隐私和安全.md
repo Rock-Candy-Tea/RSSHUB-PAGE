@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0318/073534_hSj5_5430600.png'
 author: 开源中国
 comments: false
-date: Thu, 17 Mar 2022 23:46:00 GMT
+date: Fri, 18 Mar 2022 07:46:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0318/073534_hSj5_5430600.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="margin-left:0px">Android 13 Developer Preview 2  发布了，该版本仍然围绕着 Android 13 的<strong>隐私和安全、开发者生产力以及平板电脑和大屏幕支持等核心主题构建。</strong></p> 
+                                                                                            <p style="margin-left:0px">Android 13 Developer Preview 2  发布了，该版本仍然围绕着 Android 13 的<strong>隐私和安全、开发者生产力以及平板电脑和大屏幕支持等核心主题构建。</strong></p> 
 <h3 style="margin-left:0px">隐私和用户信任</h3> 
 <ul> 
  <li><strong>通知权限 ，</strong>Android 13 引入了一个用于从应用发送通知的新<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fpermissions%2Foverview%23runtime" target="_blank">运行时权限： </a><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdeveloper.android.com%2Freference%2Fandroid%2FManifest.permission%23POST_NOTIFICATIONS" target="_blank">POST_NOTIFICATIONS</a>。</li> 

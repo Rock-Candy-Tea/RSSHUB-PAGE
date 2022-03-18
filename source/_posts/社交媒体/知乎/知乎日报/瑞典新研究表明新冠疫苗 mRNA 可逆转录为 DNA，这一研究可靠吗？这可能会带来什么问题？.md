@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-18 00:37:21
-thumbnail: 'https://pic3.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162'
+date: 2022-03-18 02:18:34
+thumbnail: 'https://pic2.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/d7af607ed3163815b1bd445ddff28e3a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">麻瓜，</span><span class="bio">基因治疗，生物科普，重度猫奴</span>
 <a href="https://www.zhihu.com/question/521923432/answer/2392490552" class="originUrl" hidden>查看知乎原文</a>
 </strong>

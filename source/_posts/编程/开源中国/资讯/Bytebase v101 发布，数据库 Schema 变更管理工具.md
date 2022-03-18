@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2757'
+headimg: 'https://picsum.photos/400/300?random=2438'
 author: 开源中国
 comments: false
 date: Fri, 18 Mar 2022 07:15:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2757'
+thumbnail: 'https://picsum.photos/400/300?random=2438'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="margin-left:0px">Bytebase 是一个基于网络、零配置、无依赖的数据库 Schema 变更和版本控制管理工具，适用于开发人员和 DBA。</p> 
+                                                                                            <p style="margin-left:0px">Bytebase 是一个基于网络、零配置、无依赖的数据库 Schema 变更和版本控制管理工具，适用于开发人员和 DBA。</p> 
 <p style="margin-left:0px">Bytebase 1.0.1 发布，更新内容如下：</p> 
 <h3 style="margin-left:0px">特性</h3> 
 <ul> 

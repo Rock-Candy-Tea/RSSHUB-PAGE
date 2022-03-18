@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-bba5443f554dffb1b6265826412df86
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">CCleaner v5.91.9537 现已发布，此版本将 cleaning rules 与 Chromium 浏览器中 cookie 存储的更改重新同步，</span><span style="background-color:#ffffff; color:#2c3e50">以便再次完全清理这些内容。</span><span style="background-color:#ffffff; color:#333333">除此之外，还增加了在应用程序中注册许可证密钥的改进流程，并修复了向文本文件导出或从文本文件导入时的一些错误。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">CCleaner v5.91.9537 现已发布，此版本将 cleaning rules 与 Chromium 浏览器中 cookie 存储的更改重新同步，</span><span style="background-color:#ffffff; color:#2c3e50">以便再次完全清理这些内容。</span><span style="background-color:#ffffff; color:#333333">除此之外，还增加了在应用程序中注册许可证密钥的改进流程，并修复了向文本文件导出或从文本文件导入时的一些错误。</span></p> 
 <p><span style="background-color:#ffffff; color:#333333"><img alt height="265" src="https://oscimg.oschina.net/oscnet/up-bba5443f554dffb1b6265826412df86248b.jpg" width="700" referrerpolicy="no-referrer"></span></p> 
 <p> </p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">CCleaner 是一款系统优化和隐私保护工具，主要用来清除 Windows 系统的垃圾文件与使用者的上网记录。CCleaner 的体积小，运行速度极快，可以对临时文件夹、历史记录、回收站、注册表等进行垃圾清理。</p> 

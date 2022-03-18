@@ -68,7 +68,7 @@ NCSOFT 表示，《王权与自由》将是以PC、家用主机为平台开发�
 NCSOFT透露，《王权与自由》的攻城战强调让玩家可以运用地形地物与周围环境优势，来体验策略性战斗，例如玩家可以透过下水道来潜入城堡，或使用巨大魔像来摧毁城墙等。
 </p>
 <p style="text-indent:2em;">
-<strong>视频画面：</strong>
+<strong>视频画面：</strong> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220318/1647559509_207301.jpg" alt="韩游《Project E》《王权与自由》新宣传片公开" referrerpolicy="no-referrer"> 

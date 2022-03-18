@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8765'
+headimg: 'https://picsum.photos/400/300?random=8350'
 author: 开源中国
 comments: false
 date: Fri, 18 Mar 2022 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8765'
+thumbnail: 'https://picsum.photos/400/300?random=8350'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">Mongoose 是设计用于异步环境的 MongoDB 对象模型工具，支持 promises 和 callbacks。</span></p> 
+                                                                                            <p><span style="color:#333333">Mongoose 是设计用于异步环境的 MongoDB 对象模型工具，支持 promises 和 callbacks。</span></p> 
 <p><span style="color:#333333">Mongoose 6.2.7 正式发布，本次更新内容如下：</span></p> 
 <ul> 
  <li>perf(document): 如果没有要运行的验证器，则避免对每个数组元素运行验证 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FAutomattic%2Fmongoose%2Fissues%2F11380" target="_blank">#11380</a></li> 

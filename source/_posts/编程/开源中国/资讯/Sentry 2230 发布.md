@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9717'
+headimg: 'https://picsum.photos/400/300?random=3475'
 author: 开源中国
 comments: false
-date: Thu, 17 Mar 2022 23:39:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9717'
+date: Fri, 18 Mar 2022 07:39:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3475'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Sentry 从根本上是一项服务，可跨平台实时监控和修复应用程序崩溃，它重点关注于错误报告。Sentry 服务器使用 Python，但它包含一个完整的 API，用于在任何应用程序中从任何语言发送事件。</p> 
+                                                                                            <p>Sentry 从根本上是一项服务，可跨平台实时监控和修复应用程序崩溃，它重点关注于错误报告。Sentry 服务器使用 Python，但它包含一个完整的 API，用于在任何应用程序中从任何语言发送事件。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索，处理 exception 是每个程序的必要部分，所以 Sentry 也几乎可以说是所有项目的必备组件。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Sentry 22.3.0 现已发布，具体更新内容如下：</p> 
 <p style="text-align:start"><strong>Various fixes & improvements</strong></p> 

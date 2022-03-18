@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220318/1647561121_4333
 
 <div>   
 <p style="text-indent:2em;">
-今日(3月18日)2K公布了恐怖新作《采石场惊魂》(The Quarry)，6月10日发售，登陆PS4/PS5/Xbox 
+今日(3月18日)2K公布了<a target="_blank" href="https://www.3dmgame.com/tag/kongbu_1/">恐怖</a>新作《采石场惊魂》(The Quarry)，6月10日发售，登陆PS4/PS5/Xbox 
 One/XSX|S/PC。现在该作已经上架Steam平台开启预售，普通版售价199元，豪华版售价229元，游戏支持中文。
 </p>
 <p style="text-indent:2em;">

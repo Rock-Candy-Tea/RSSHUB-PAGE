@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=112'
+headimg: 'https://picsum.photos/400/300?random=2413'
 author: 开源中国
 comments: false
 date: Fri, 18 Mar 2022 07:28:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=112'
+thumbnail: 'https://picsum.photos/400/300?random=2413'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p> .NET 7 Preview 2 <span style="color:#333333">已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdevblogs.microsoft.com%2Fdotnet%2Fannouncing-dotnet-7-preview-2%2F" target="_blank">发布</a>，第二个预览版包括对 RegEx 源生成器的增强、将 NativeAOT 从实验状态转移到运行时的进展，以及对“dotnet new”CLI SDK 的一系列重大改进。</span></p> 
+                                                                                            <p> .NET 7 Preview 2 <span style="color:#333333">已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdevblogs.microsoft.com%2Fdotnet%2Fannouncing-dotnet-7-preview-2%2F" target="_blank">发布</a>，第二个预览版包括对 RegEx 源生成器的增强、将 NativeAOT 从实验状态转移到运行时的进展，以及对“dotnet new”CLI SDK 的一系列重大改进。</span></p> 
 <p><span style="color:#333333">在此</span>下载适用于 Windows、macOS 和 Linux 的 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdotnet.microsoft.com%2Fdownload%2Fdotnet%2F7.0" target="_blank">.NET 7 Preview 2 。</a></p> 
 <h3>引入新的正则表达式源生成器</h3> 
 <p> 新的正则表达式源生成器（<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fdotnet%2Fruntime%2Fissues" target="_blank">Issues</a><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fdotnet%2Fruntime%2Fissues%2F44676" target="_blank"> 44676</a>）在不增加启动成本的情况下，为编译带来了性能好处，还提供了良好的调试体验。</p> 
