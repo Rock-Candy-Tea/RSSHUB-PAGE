@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220318/1647591752_458609.jpg'
 author: 3DMGame
 comments: false
-date: Fri, 18 Mar 2022 08:24:00 GMT
+date: Fri, 18 Mar 2022 09:22:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220318/1647591752_458609.jpg'
 ---
 
@@ -33,7 +33,7 @@ MOD演示视频：
 这个 MOD 不仅替代了大树守卫的马匹，但同时你也可以“骑上”属于自己的托马斯火车头。但这个 MOD 也有很大的缺点：除了需要将 DLL 文件放入游戏的 mods 文件夹、必须使用离线模式游玩以外，玩家还需要使用通过修改过的 UXM 版本来对游戏文件进行修改。如果操作不当，可能导致文件丢失。不过你依然可以通过 Nexus 下载这个 MOD。
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;"><span style="color:#E56600;">MOD下载地址</span>（NEXUS MOD）：<a href="https://www.nexusmods.com/eldenring/mods/222" target="_blank">点击这里</a></span></strong>
+<strong><span style="font-size:16px;"><span style="color:#E56600;">MOD下载地址</span>（NEXUS MOD）：<a href="https://www.nexusmods.com/eldenring/mods/222" target="_blank">点击这里</a></span></strong> 
 </p>          
 </div>
             

@@ -1,0 +1,19 @@
+
+---
+title: 'NASA Artemis I登月火箭首次推出装配大楼'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/03/eb48bb459ba5c74.jpg'
+author: cnBeta
+comments: false
+date: Fri, 18 Mar 2022 09:26:02 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/03/eb48bb459ba5c74.jpg'
+---
+
+<div>   
+<strong>美当地时间3月17日，NASA的太空发射系统(SLS)火箭顶着“猎户座”太空舱缓缓驶出该机构位于佛罗里达州肯尼迪航天中心的装配大楼，进而踏上前往39B发射场的旅程。</strong>NASA的登月火箭由履带式运输机2号运载前往发射台，以在无人驾驶的Artemis发射前展开湿式彩排。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/eb48bb459ba5c74.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/eb48bb459ba5c74.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">作为一系列日益复杂的任务中的第一个，Artemis I将在载人飞行到月球之前测试SLS和猎户座的综合系统性。通过Artemis任务，NASA将让第一位女性和第一位有色人种登陆月球表面、为长期的月球存在铺平道路并成为通往火星的垫脚石。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/0d53073106fc567.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/0d53073106fc567.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/1d671996e0d02e3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/1d671996e0d02e3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/873c4b52e7e37b1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/873c4b52e7e37b1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/ded3538748feadc.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/ded3538748feadc.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>NASA的巨型月球火箭开始向发射台前进</strong><br style="text-align: left;"></p><p style="text-align: left;">用于Artemis I任务的SLS火箭和猎户座飞船正在向佛罗里达州肯尼迪航天中心的39B发射台滚动，这是第一次。美东时间下午5点45分左右，在集成的SLS和猎户座系统之上，履带式运输机开始了从装配大楼到发射台的约4英里的旅程。在出了装配大楼的高舱门后，登月火箭将按计划暂停，从而允许团队在继续前往发射台之前重新定位乘员通道臂。在前往发射台的旅程中，爬行运输机将缓慢移动，最高巡航速度为0.82英里/小时。这段旅程预计需要6至12小时。</p><p style="text-align: left;">等到到达发射台后，工程师们将为集成火箭和猎户座飞船准备一次关键的湿式彩排测试，其中包括装载所有推进剂。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/06e4aac0bf0aba3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/06e4aac0bf0aba3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>NASA的月球火箭在飞行器装配大楼外曝光</strong></p><p style="text-align: left;">NASA Artemis I任务的火箭和航天器已经完全离开肯尼迪航天中心的飞行器装配大楼并首次前往39B发射场进行湿式彩排测试。</p><p style="text-align: left;">该团队在大楼外按计划暂停以收回乘员接入臂(CAA)。该机械臂跟堆放在SLS火箭上的猎户座航天器对接以便在装配大楼和发射台的操作过程中提供对猎户座乘员舱的访问。在从Artemis II开始的载人Artemis任务中，访问臂还将为宇航员和将在船上飞行的有效载荷提供进入和退出。在发射开始前的几天，臂膀被移到跟火箭更近的地方以适应装配大楼的门。工程师们则正在延长它从而将其锁定在旅行位置。</p><p style="text-align: left;">当CAA回收完成，团队将继续四英里的跋涉，以前往39B发射场。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/03/ea090a1c0a2f7e4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/03/ea090a1c0a2f7e4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>NASA月球火箭继续向39B发射场进发</strong></p><p style="text-align: left;">NASA的巨型月球火箭在按计划停下来调整乘员通道臂后离开装配大楼并继续其四英里的旅程。以每小时0.82英里的最高速度，履带式运输机带着SLS火箭和移动发射器上的猎户座航天器正在前往39B发射台。</p><p style="text-align: left;">等到到达发射台，团队将开始进行湿式彩排测试前的最后准备工作。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=334008069&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p>   
+</div>
+            
