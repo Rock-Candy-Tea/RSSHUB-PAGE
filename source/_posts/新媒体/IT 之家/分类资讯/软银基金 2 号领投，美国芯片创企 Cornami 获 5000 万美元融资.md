@@ -1,0 +1,19 @@
+
+---
+title: '软银基金 2 号领投，美国芯片创企 Cornami 获 5000 万美元融资'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/3/d983e69d-dcbc-4da0-9029-02736251027e.png'
+author: IT 之家
+comments: false
+date: Fri, 18 Mar 2022 22:22:09 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/3/d983e69d-dcbc-4da0-9029-02736251027e.png'
+---
+
+<div>   
+<p data-vmark="191a">据欧洲媒体 eeNews Europe 3 月 16 日报道，美国初创公司 Cornami 已经获得美国风险投资公司 Applied Ventures 对其超额认购的 C 轮融资的战略投资。本次融资由软银愿景基金 2 号领投，融资金额远超 5000 万美元（约合 3.18 亿人民币）。</p><p data-vmark="051d">Cornami 公司成立于 2011 年，总部位于美国加州，目前约有 54 名员工。Cornami 最初在 2021 年 10 月宣布融资 5000 万美元，目前该公司最新一轮融资远超 5000 万美元。</p><p data-vmark="779f">Cornami 公司的重点在全同态加密（FHE）。FHE 是一种加密算法，即使它可以由不受信任的一方运行，也不会泄露其输入和内部状态。</p><p data-vmark="acca">Applied Ventures 是美国应用材料公司（Applied Materials）的风险投资部门。应用材料是全球半导体制造设备龙头。</p><p data-vmark="76db">一、半导体行业专家 Wally Rhines 担任 Cornami 公司 CEO</p><p data-vmark="80ba">Wally Rhines 目前担任 Cornami 公司的首席执行官，他擅长半导体设计、技术软件开发、工艺工程和制造等。Rhines 被公认为半导体和电子设计自动化（EDA）行业的技术专家。</p><p data-vmark="13d8">Rhines 曾经在全球三大 EDA 产商 Mentor Graphics（美国）担任过 24 年的首席执行官，他曾在五家上市公司的董事会任职，还管理过美国半导体公司德州仪器（TI）的半导体业务。他管理美国电子公司 Mentor 时，Mentor 的收入增长超过 3 倍，企业价值增长 10 倍，后来 Mentor 被西门子收购。</p><p data-vmark="ba58">Cornami 公司提供对加密数据集的实时计算。该公司的技术可以在减少电源使用的同时降低延迟，还大大提高了云端和边缘的海量数据集的计算性能。Cornami 公司正在积极融资，全速推进 FHE 加密算法。</p><p data-vmark="1ddc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/d983e69d-dcbc-4da0-9029-02736251027e.png" w="800" h="408" alt="软银基金2号领投，美国芯片创企获5000万美元融资" title="软银基金 2 号领投，美国芯片创企 Cornami 获 5000 万美元融资" width="800" height="408" referrerpolicy="no-referrer"></p><p data-vmark="6465">▲ Cornami 公司总裁 Wally Rhines（来源：Cornami 官网）</p><p data-vmark="3157">二、Cornami 正在全速推进 FHE 加密算法</p><p data-vmark="736d">全同态加密（FHE）是支持对密文进行任意计算的密码系统。FHE 允许加密时使用数据，而且不会泄露明文。FHE 能够对加密数据集进行实时计算，这对于数据隐私和云安全至关重要。</p><p data-vmark="e332">目前，FHE 加密算法计算量太大，所以实际上它还无法应用。不过如果能够实现实用的 FHE 加密算法，将对军事、医疗和其他需要最高保密级别的数据有重要意义。FHE 最初拥有数千个内核，但未来其缩小版本将进入人工智能、自动驾驶汽车和 5G 通信等市场。</p><p data-vmark="9c66">Cornami 公司开发了一种新的计算架构 TruStream。这种新架构打破了传统 CPU 和 GPU 设计的瓶颈，具有巨大的可扩展性和灵活性，可以应用于许多终端应用程序。TruStream 新架构对于需要巨大计算能力和处理大量数据集的应用程序特别有效，能够有效推动 FHE 的开发。</p><p data-vmark="7577">英特尔等科技巨头也都致力于发展 FHE，其正在 DARPA 虚拟环境的数据保护下构建芯片。Rhines 称 Cornami 在全速推进 FHE 加密算法过程中面临巨大竞争。</p><p data-vmark="d1f9">Cornami 与美国网络安全公司 Inpher 建立了合作伙伴关系。Inpher 公司目前主要使用多方计算（MPC）技术来支持隐私保护。Inpher 的首席技术官兼联合创始人 Dimitar Jetchev 称他们期待与 Cornami 合作，为市场提供不受限制的 FHE 解决方案。Rhines 表示，Inpher 将在短期内使用 MPC，并在长期内同时使用 MPC 和 FHE，最终帮助客户利用 Cornami 硬件产品。</p><p data-vmark="a358">三、Applied Ventures 看好 Cornami，融资金额远超 5000 万美元</p><p data-vmark="6a11">Cornami 最初在 2021 年 10 月宣布融资 5000 万美元，Rhines 称目前最新一轮融资远超 5000 万美元。Cornami 本来计划在 2021 年之前开发出 FHE 芯片。但是，Cornami 公司的新一轮资金募集延迟，其 FHE 芯片开发放缓。</p><p data-vmark="e556">虽然 Applied Ventures 的投资金额暂未公布，但 Rhines 称经过本轮融资他们的产品已经有了充足的资金，不需要再进行新一轮融资，或者说公司将进入客户大量提升和评估阶段。Rhines 认为无论以上哪种方式，都会推动产品开发。</p><p data-vmark="f72e">Rhinesh 告诉外媒 EE Times，像应用材料这样的设备制造商希望晶圆厂客户可以访问他们设备上的数据，但是客户并不希望设备制造商监控他们的设备。因为设备制造商有足够的统计数据后，客户们会担心这些数据落入他们的竞争者手中。</p><p data-vmark="be43">需重视的是，应用材料之所以投资 Cornami，并非只是为了获得经济效益，更是看好 Cornami 能够让半导体设备数据更加安全。应用材料若使用制造设备上的数据进行分析和诊断，就不需要对客户的数据进行解密。这样的话，设备制造商能更好地了解机器性能，知道何时需要维护。同时，设备制造商在了解特定型号的故障点在哪里后，在未来开发的型号中可能可以避免。Cornami 的 FHE 加密算法就可以在不需要解密的情况下，帮助设备厂商使用数据进行分析和诊断。</p><p data-vmark="2a8a">Rhines 认为应用材料不仅是 Cornami 的投资者，还是 Cornami 的未来客户。Rhines 说道：“很高兴，有一位相信技术的投资者看到了商机和战略优势，而且还投资了对自己公司发展有益的业务。”</p><p data-vmark="b165">结语：FHE 加密算法获资本青睐</p><p data-vmark="9392">目前，全球半导体制造设备龙头应用材料投资 Cornami，说明应用材料十分看好 Cornami 的发展前景。这也是因为 Cornami 的专有技术 TruStream 能有效推动 FHE 加密算法的发展，从而让半导体设备数据更加安全。</p><p data-vmark="8cc8">Cornami 公司已获超 5000 万美元融资发展 FHE 加密算法，不过，该公司仍面临英特尔等科技巨头的竞争。未来，Cornami 公司将会有怎样的发展，我们拭目以待！</p>
+          
+</div>
+            
