@@ -15,7 +15,7 @@ thumbnail: 'https://img.36krcdn.com/20220318/v2_59a877f3821a49cb8c1fed17f1891f4c
 <div>   
 <p><strong>作者：苏杭</strong></p> 
 <p><strong>出品：洞察IPO</strong></p> 
-<p>2021年6月首次递交的招股书失效3个月后，子不语集团有限公司（下称“子不语”）于近日再次向港交所主板发起冲击，华泰国际、农银国际为其联席保荐人。</p> 
+<p>2021年6月首次递交的招股书失效3个月后，<a class="project-link" data-id="58278" data-name="子不语" data-logo="https://img.36krcdn.com/20210807/v2_e0e0bdcb8be84667816341957365159b_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/58278" target="_blank">子不语</a>集团有限公司（下称“子不语”）于近日再次向港交所主板发起冲击，华泰国际、农银国际为其联席保荐人。</p> 
 <p>虽然在国内知名度不高，但凭借着在亚马逊等平台销售平价女装，2021年子不语的营业额已突破20亿元。</p> 
 <p>另一方面，过度依赖亚马逊也令子不语净利率偏低、存货高企。</p> 
 <h3><strong>从淘宝店到最大的跨境电商之一</strong></h3> 
@@ -33,7 +33,7 @@ thumbnail: 'https://img.36krcdn.com/20220318/v2_59a877f3821a49cb8c1fed17f1891f4c
 <p>子不语采用的经营模式为：大批量开设品牌店，各个品牌店立足于不同定位，运营一段时间后，再根据实际销售情况决定相关网店的去留。</p> 
 <p>截至2021年12月31日，子不语共培育了200多个品牌，其中64个是年销售额超过1000万元的爆款品牌。</p> 
 <p>边开边关的模式下，其网店数量变动十分频繁。</p> 
-<p>2019年-2021年，子不语在第三方电商平台上的卖家网店的数量分别为963、1019、982，每期内关闭的门店数量分别为370、209、229，现有的第三方平台及自营网站上的1281家店铺中约有230家运营时间不足一年。</p> 
+<p>2019年-2021年，子不语在第三方电商平台上的<a class="project-link" data-id="58198" data-name="卖家网" data-logo="https://img.36krcdn.com/20210807/v2_68442efd52374fd2a1983b729d2a7b5c_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/58198" target="_blank">卖家网</a>店的数量分别为963、1019、982，每期内关闭的门店数量分别为370、209、229，现有的第三方平台及自营网站上的1281家店铺中约有230家运营时间不足一年。</p> 
 <p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220318/v2_59a877f3821a49cb8c1fed17f1891f4c_img_000" referrerpolicy="no-referrer"></p> 
 <p>另一方面，过去两年子不语的高增长也受疫情的影响，欧美等地“居家令”的实施提高了当地消费者的网购比例，率先恢复的国内供应链也帮助子不语得以抢占市场，但这种利好有逐渐消退之势。</p> 
 <p>2019年-2021年，子不语的总订单数量分别为1667.4万、2124.1万、1704.4万，除了亚马逊平台，2021年在Wish及自营网站上的订单数量均不同程度下降。</p> 
@@ -52,11 +52,11 @@ thumbnail: 'https://img.36krcdn.com/20220318/v2_59a877f3821a49cb8c1fed17f1891f4c
 <p>子不语认为，加大采购量是为了满足持续扩张的业务规模及良好的销售前景，考虑到通过亚马逊销售的产品有较长的生命周期和运输周期，为满足FBA模式下销量的可预见增长，因此需要足够的成品存货。</p> 
 <p>作为快时尚公司，子不语每年能推出超过10000种新服装款式。截至2021年12月31日，其数据库包括约53290款服饰及鞋履，其中超过12000款为2021年新增的款式。</p> 
 <p>但库存作为服装行业的天敌，尤其是对于子不语这样的快时尚品牌来说，即使不变成过季或者过时的积压，也不利于公司跟随市场快速调整产品。</p> 
-<p>此外，根据中泰证券研报，SHEIN在设计时采取的是通过技术工具抓取当下最流行的元素，再将元素进行加工处理的方法，与子不语实时收集及分析竞争对手在电商平台上的产品，将有关元素整合到设计中的方法类似。</p> 
+<p>此外，根据<a class="project-link" data-id="73338" data-name="中泰证券" data-logo="https://img.36krcdn.com/20210807/v2_0b9cf6473b2b4d32bf4fab699da4d379_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/73338" target="_blank">中泰证券</a>研报，SHEIN在设计时采取的是通过技术工具抓取当下最流行的元素，再将元素进行加工处理的方法，与子不语实时收集及分析竞争对手在电商平台上的产品，将有关元素整合到设计中的方法类似。</p> 
 <p>这种方法看似是元素整合，但背后可能存在重大的侵权问题。</p> 
 <p>据报道，美国知名潮牌Stussy在近期提起了针对SHEIN的诉讼，由于SHEIN在部分出售的服装上使用了Stussy的图案，被认为是对其商标价值的侵害，Stussy要求获得销售这些产品的利润。此前也先后有马丁靴品牌Dr.Martens、耳饰品牌Kikay、时尚品牌Elexiay质疑SHEIN侵权并公开维权。</p> 
 <p>除了平台，子不语销售地区的集中度也在逐渐提升，报告期内，其销量的58.8%、69%、85.5%都来自美国。</p> 
 <p>招股书显示，本次发行所募集的资金，子不语将用于提升销售及品牌推广能力、完善供应链管理系统、建立大型独立自营网站、沿产业链收购合适的目标品牌、提升产品研发能力、升级IT系统、营运资金及一般公司用途，具体金额未披露。</p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzU2MjAwNDU2Mw==&mid=2247489716&idx=1&sn=fcd9b154022154387e17af83fb85d135&chksm=fc714f88cb06c69ef00ea1cf0bf8597c99c989a298d743e1f23a2c6e25caca8d3c3fb08928fa#rd">“洞察IPO”（ID：dongcha-ipo）</a>，作者：苏杭，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzU2MjAwNDU2Mw==&mid=2247489716&idx=1&sn=fcd9b154022154387e17af83fb85d135&chksm=fc714f88cb06c69ef00ea1cf0bf8597c99c989a298d743e1f23a2c6e25caca8d3c3fb08928fa#rd">“洞察IPO”（ID：dongcha-ipo）</a>，作者：苏杭，36氪经授权发布。</p>  
 </div>
             
