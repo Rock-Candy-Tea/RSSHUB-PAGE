@@ -1,0 +1,19 @@
+
+---
+title: '禁完x86禁Arm RISC-V或成俄罗斯唯一选择'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0319/f1624effa258766.png'
+author: cnBeta
+comments: false
+date: Sat, 19 Mar 2022 09:01:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0319/f1624effa258766.png'
+---
+
+<div>   
+继AMD、英特尔先后停止在俄罗斯的销售业务之后，Arm也于本周六在回答外媒Lightreading提出的问题时，通过电子邮件的形式确认：“根据英国、欧盟、美国和其他政府宣布出口限制和经济制裁，Arm已暂停向俄罗斯客户和或作伙伴提供产品和支持。”<br>
+ <p>这让原本计划将Arm作为为替代方案的俄罗斯云服务器公司们猝不及防。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0319/f1624effa258766.png"><img data-original="https://static.cnbetacdn.com/article/2022/0319/f1624effa258766.png" src="https://static.cnbetacdn.com/thumb/article/2022/0319/f1624effa258766.png" referrerpolicy="no-referrer"></a></p><p>虽然Arm不生产处理器，只是将其芯片IP核出售给博通、Marvell和高通等芯片公司，其客户还包括AWS在内的数据中心巨头，但一旦Arm停止在俄罗斯的业务，依赖Arm服务器的云服务商们依然会面临困境。</p><p>俄罗斯搜索引擎公司Yandex在本月初的投资者大会上曾表示：“我们相信，我们目前的数据中心容量和其他对运营至关重要的技术将使我们能够在至少未来 12 到 18 个月内继续正常运营，”它在一份声明中表示，“如果我们的业务或产品中使用的硬件、软件或其他技术的供应长期暂停，如果我们无法获得替代来源，未来我们的运营可能会受到重大不利影响。”</p><p>x86和Arm都停止供应，目前只剩下RISC-V是俄罗斯唯一的选择。</p><p>RISC-V始于2010年加州伯克利大学，出于对潜在贸易限制的担忧，RISC-V基金会总部于2020年3月从美国迁移到“中立国家”瑞士，以寻求更加开放开源的生态。与x86和Arm相比，目前的RISC-V尚未建立起完整的生态，在IoT领域表现较好，但还没有在高性能领域取得比较突出的成绩。</p><p>此前一位致力于推广RISC-V的业内人士曾表示，RISC-V和Arm打成平手，可能还需要5至10年。</p><p>目前，俄罗斯技术投资公司Rostoc、服务器制造商Yadro和设计公司Syntacore等已经致力于RISC-V处理器的研发。</p><p>本文参考来源：</p><p><a href="https://www.lightreading.com/service-provider-cloud/arm-cuts-itself-off-from-russia-joining-intel-and-amd/d/d-id/776144" _src="https://www.lightreading.com/service-provider-cloud/arm-cuts-itself-off-from-russia-joining-intel-and-amd/d/d-id/776144" target="_blank">https://www.lightreading.com/service-provider-cloud/arm-cuts-itself-off-from-russia-joining-intel-and-</a><a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a>/d/d-id/776144<br></p>   
+</div>
+            
