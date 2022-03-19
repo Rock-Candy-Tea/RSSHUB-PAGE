@@ -1,0 +1,19 @@
+
+---
+title: '科学家揭示了不同寻常的Kagome材料奇异特性背后的深层秘密'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0319/0d4b4577be11927.jpg'
+author: cnBeta
+comments: false
+date: Sat, 19 Mar 2022 06:34:27 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0319/0d4b4577be11927.jpg'
+---
+
+<div>   
+<strong>麻省理工学院的物理学家和伯克利实验室的科学家们，已经发现了一种被称作“Kagome 金属”的新型量子材料的奇异特性背后的秘密。</strong>据悉，在冷却到室温以下时，该材料会表现出集体行为（Collective Behavior）。由此产生的特性之一是优异的导电性能（超导性），但这点长期让科学家们感到困惑。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0319/0d4b4577be11927.jpg" alt="0.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">实验材料由铯（Cs）、钒（V）、锑（Sb）三种材料组成（图自：Comin Laboratory / MIT）</p><p>来自麻省理工学院的 Riccardo Comin 及其同事们，对 Kagome 材料的零能电子态 / 又称“费米表面”开展了可视化工作。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/5f5cc1390ddcb74.png" alt="1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">扩展数据 - 1：费米表面嵌套与 vHs 填充处 Kagome 晶格中的 2×2 电荷顺序</p><p>在普通金属中，电子的行为，很像是在房间里独舞的人。而在 Kagome 超导体中，材料会在冷却到 3 开尔文（-270.15 ℃）时出现电子的成对移动 —— 就像跳舞的情侣一样。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/2ac09965b9ec1b0.png" alt="2.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">扩展数据 - 2：沿高对称方向的偏振相关 ARPES 光谱</p><p>到 100 开尔文（-173.15 ℃）的时候，Kagome 材料又会表现出另一种被称作“电荷密度波”（Charge Density Waves）的奇怪行为，此时电子以波纹的形式排列。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/05702cda3543327.png" alt="3.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">扩展数据 - 3：光子能量相关的 ARPES 光谱</p><p>由 MIT 物理学助理教授 Riccardo Comin 带领的这支研究团队发现，Kagome 电子异常同步性背后的秘密，源于另一种被称作“电子奇点”（或范霍夫奇点）的行为 —— 涉及电子之间的能量和速度关系。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/cb03cb080036830.png" alt="4.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">扩展数据 - 4：vHS 的 Kz 依赖</p><p>当材料中同时存在许多具有相同能量的电子时，它们之间的相互作用会更加强烈。由于存在这些相互作用，电子可配对并成为超导、或形成电荷密度波。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/d3e44d8549d7082.png" alt="5.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 1：Kagome 金属中的理论电子结构和电荷顺序</p><p>Comin 指出，将能量与固体中的电子速度关联起来，显然极具挑战性。研究人员需要在两个国际同步加速器研究设施中使用特殊仪器 —— 浦项光源的 Beamline 4A1、以及伯克利实验室的 ALS 先进光源（Beamline  7.0.2 / MAESTRO）。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/094db77c3cd970a.png" alt="6.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 2：CsV<sub>₃</sub>Sb₅ 材料的实验电子能带结构</p><p>作为一种粒子加速器，同步加速器可产生极亮的光束，且其光子能量范围从红外线到 X 射线。在 ALS 科学家 Chris Jozwiak 的帮助下，该团队使用了 ARPES 角分辨光电发射光谱法。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/6f65900490f175c.png" alt="7.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 3：在 CsV<sub>₃</sub>Sb₅ 中映射多个 vHS</p><p>ARPES 利用非常明亮的单色 X 射线光，来聚焦成宽度仅 10 μm 的小光束，而 MIT 研究团队得以准确地识别和测量对材料奇异特性至关重要的电子的速度。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/e39e3d3802be519.png" alt="8.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 4：K2' 带中的费米面嵌套和电荷序间隙</p><p>Jozwiak 补充道：“你需要像 ALS 这样的大型光源设施，才能对新材料开展此类复杂的实验。ALS 的 MAESTRO 光线束提供了一个非常精确和明亮的光资源，且可调谐至各种波长或能量。若这个大门不向公众开放，那么像 Comin 团队这样激动人心的发现工作，也就不可能完成了”。</p><p><img src="https://static.cnbetacdn.com/article/2022/0319/e3bc3143eb22d62.png" alt="9.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 5：K1 波段中的高阶 vHS 与电荷间隙</p><p>有关这项研究的详情，已经发表在近日出版的《<a href="https://www.nature.com/articles/s41567-021-01451-5" target="_self">Nature Physics</a>》期刊上，原标题为《Twofold van Hove singularity and origin of charge order in topological kagome superconductor CsV<sub>₃</sub>Sb₅》。</p>   
+</div>
+            

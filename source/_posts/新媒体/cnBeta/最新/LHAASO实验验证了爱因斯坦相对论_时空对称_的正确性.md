@@ -1,0 +1,19 @@
+
+---
+title: 'LHAASO实验验证了爱因斯坦相对论_时空对称_的正确性'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0319/51ccb328e591f82.jpg'
+author: cnBeta
+comments: false
+date: Sat, 19 Mar 2022 07:25:41 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0319/51ccb328e591f82.jpg'
+---
+
+<div>   
+<strong>在 2022 年 2 月出版的《物理评论快报》上，中科院高能物理研究所的一支研究团队，介绍了如何以最高精度来检验相对论的有效性。</strong>该机构在高海拔宇宙线观测站（LHAASO）的主页写道：“爱因斯坦的相对论认为，宇宙中物质运动最快的速度是光速，这一限制有没有可能被打破？这个问题可以通过洛伦兹对称性的破缺来检验”。<br>
+ <p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0319/51ccb328e591f82.jpg" alt="0.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">该天文台旨在观测伽马 / 宇宙射线引发的空气簇射（来自：<a href="http://www.ihep.cas.cn/lhaaso/zyxw/" target="_self">IHEP.CAS.CN</a>）</p><p>早些时候，位于我国四川稻城的高海拔宇宙线实验 LHAASO 合作组，利用其观测的高能伽马射线事例，对洛伦兹对称性进行了检验。</p><p>论文通讯作者之一、中科院高能物理研究所的毕效军研究院指出：实验期间，LHAASO 天文台观测到了世界上能量最高的宇宙伽马射线，而他们也借此机会开展了洛伦兹对称性的检验。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0319/43e9cb0cd3a1b0c.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">截图（来自：<a href="http://www.ihep.cas.cn/lhaaso/zyxw/202202/t20220214_6354459.html" target="_self">LHAASO</a>）</p><p>此外中科院紫金山天文台的张毅、袁强研究员也参与了这项实验合作，带领博士研究生高林青、陈恩生、赵世平等对我国 LHAASO 实验观测的高能伽马射线数据进行了分析，观测结果再次验证了洛伦兹对称性。</p><p>与之前的最佳结果相比，新实验将洛伦兹对称性的破缺能量标度提升了大约 10 倍 —— 这是迄今为止对此类洛伦兹对称性的最严格检验，也再次验证了爱因斯坦相对论“时空对称”（Space-Time Symmetry）的正确性。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0319/902b52591b7eebd.png" alt="1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 1：对比拟合结果</p><p>作为现代物理学的基石，爱因斯坦相对论要求物理定律具有洛伦兹对称性。自爱因斯坦提出相对论后的100多年时间里，洛伦兹对称性的正确性经历了无数的实验检验。</p><p>然而，描述引力的广义相对论和描述微观世界规律的量子力学之间存在着难以调和的矛盾。理论物理学家为了把广义相对论和量子力学统一起来进行了不懈的努力，提出了弦论、圈量子引力理论等不同的理论。</p><p>这些理论预言洛伦兹对称性在很高的能量下有可能被破坏，这意味着在高能量下相对论可能需要被修正。因而，在实验上寻找洛伦兹对称性破坏的迹象就成为检验相对论、寻找更基本物理规律的一个“突破口”。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0319/5b39fcc3fbca8a1.png" alt="2.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 2：排除曲线</p><p><a href="https://scitechdaily.com/einsteins-theory-of-relativity-passes-strict-test-using-large-high-altitude-air-shower-observatory/" target="_self">SCI Tech Daily</a> 指出：这些理论预测，洛伦兹对称性很可能在非常高的能量下被打破，意味着相对论可能需要在高能下加以修改。</p><p>正因如此，通过寻找洛伦兹对称性破缺的信号来检验相对论、并发展更基本的物理定律，对于回答这个问题也变得至关重要。</p><blockquote><p>根据这些理论的推断，洛伦兹对称性破坏只有在所谓的普朗克能标下才显著，这个能标高达1019GeV！（1 GeV = 10 亿电子伏特）</p><p>对于人工加速器只能达到大约104GeV能量的今天，在实验室里这种破坏产生的效应非常微弱，需要极高的实验精确度才可能被测量到，因而难以探测。</p><p>但在天体活动中存在非常高能的过程，比如，宇宙中存在能量远远高于人造加速器能够加速的能量的粒子，洛伦兹对称性破坏在这些高能粒子上的表现会更加显著，也更容易探测。</p><p>又如，尽管从天体源发射的粒子带有非常微弱的洛伦兹对称性破坏效应，但经过长距离传播的累积而变得更容易探测。因而天体物理观测就成为寻找洛伦兹对称性破坏的天然实验室。</p></blockquote><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0319/c058a2702014af4.png" alt="3.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 3：约束条件比较</p><p>位于四川稻城的高海拔大型宇宙线实验（LHAASO），是我国自主设计建造运行的宇宙线观测实验。</p><blockquote><p>在 2021 年建设还没有完成的时候，它就已经探测到迄今已知最高能量的伽马射线光子，能量达到了 1.4 拍电子伏。</p><p>在刷新这项记录的同时，也为探索基本物理规律、严格检验洛伦兹对称性正确性提供了难得的机会。</p></blockquote><p>在 LHAASO 观测中，洛伦兹对称性破坏会造成高能量的光子不再稳定，能够快速衰变为一对正负电子对或者衰变到3个伽马光子。</p><blockquote><p>换句话说，高能量的光子在飞往地球的旅程中就自动消失了！对于我们在地球上的观测者来说，即使天体源已经发出了能量更高的光子，我们测量到这个天体的光子能谱也在这个特定的能量就忽然截断了。</p><p>而LHAASO的观测数据显示，目前的伽马射线谱到拍电子伏以上都是一直向高能延续的，并没有发现任何高能伽马事例‘神秘’消失的现象，表明洛伦兹对称性在接近普朗克能标下仍然是正确的。</p></blockquote><p><strong>综上所述，当接近普朗克能量标度时，洛伦兹对称性仍然保持不变。</strong></p><blockquote><p>有关这项研究的详情，已经发表在 2 月 3 日的《<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.051102" target="_self">Physical Review Letters</a>》上。</p><p>原标题为《Exploring Lorentz Invariance Violation from Ultrahigh-Energy γ Rays Observed by LHAASO》。</p></blockquote><p>【cnBeta.com 综合】</p>   
+</div>
+            
