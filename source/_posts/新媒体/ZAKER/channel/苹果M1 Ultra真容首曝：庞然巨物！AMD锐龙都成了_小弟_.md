@@ -1,0 +1,18 @@
+
+---
+title: '苹果M1 Ultra真容首曝：庞然巨物！AMD锐龙都成了_小弟_'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f032f_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 19 Mar 2022 17:07:36 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f032f_1024.jpg'
+---
+
+<div>   
+<p>M1 Ultra 虽然是两颗 M1 Max 拼接而成，但无愧是苹果芯片的集大成者，至少在面积上无可匹敌。</p><p>Max Studio 拆解了一台苹果 Mac Studio，并贴出了 M1 Ultra 的真容照片，可见其面积之庞大，占据了整个 PCB 电路板的差不多一半。<strong>AMD 锐龙处理器与之对比都成了小弟，面积相差大约 3 倍之多。</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f032f_1024.jpg" data-height="312" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f032f_1024.jpg" referrerpolicy="no-referrer"></div></div>只可惜，M1 Ultra 芯片使用了庞大、厚实的散热顶盖，暂时无人将其开盖，看不到内核的真实样子和具体大小。<p></p><p>M1 Ultra 采用台积电 5nm 工艺制造，<strong>集成多达 1140 亿个晶体管</strong>，自带 128GB 统一内存，集成 20 个 CPU 核心、64 个 GPU 核心、32 个神经引擎核心、多媒体引擎等。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0330_1024.jpg" data-height="374" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0330_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0331_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0331_1024.jpg" referrerpolicy="no-referrer"></div></div>另外，<strong>Mac Studio 本身的设计异常紧凑，并使用了多层 PCB</strong>，自行升级是不可能的，一旦出现故障，维修也是个噩梦。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0332_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0332_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0333_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/62366dcd8e9f094c7c3f0333_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f0334_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f0334_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f0335_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/62366dcd8e9f094c7c3f0335_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220320/1647731415_9962
 外星人、机器人、外太空、未来的地球、时间旅行、巧妙地提出关于人类在浩瀚的宇宙空间中所处位置的问题，科幻小说是关于探索的亲密感和巨大的想法。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647731415_996207.jpg" alt="片荒了？IGN评选25部最伟大的科幻电影" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647731415_996207.jpg" alt="片荒了？IGN评选25部最伟大的科幻电影" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 自1902年乔治-梅里爱（Georges Méliès）执导的《月球之旅》以来，编剧和导演们一直都试图将他们对人类最终命运的精彩演绎搬上大银幕。 
@@ -69,7 +69,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220320/1647731415_9962
 12.《外星人ET》1982
 </p>
 <p style="text-indent:2em;">
-11.《异形2》19586
+11.《异形2》1986
 </p>
 <p style="text-indent:2em;">
 10.《侏罗纪公园》1993
@@ -102,7 +102,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220320/1647731415_9962
 1.《2001太空漫游》1968
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647731425_498851.jpg" alt="片荒了？IGN评选25部最伟大的科幻电影" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647731425_498851.jpg" alt="片荒了？IGN评选25部最伟大的科幻电影" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
