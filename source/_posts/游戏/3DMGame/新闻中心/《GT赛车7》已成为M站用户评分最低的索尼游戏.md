@@ -20,14 +20,14 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220320/1647744411_3434
 截至发稿时，《GT赛车7》的PS4版用户评分是3.5分，但PS5版用户评分只有2.4分，使其成为Metacritic成立27年来PlayStation工作室、SIE、SCEA、SCEE和SCEJ所发行的所有游戏中评分最低的一款。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647744411_343497.jpg" alt="《GT赛车7》已成为M站用户评分最低的索尼游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647744411_343497.jpg" alt="《GT赛车7》已成为M站用户评分最低的索尼游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《GT赛车7》已经跌破了之前由PS4版《勇士世界》（2.9分）、PSP版《NBA 
-10：深入比赛》（3.0分）和PSOne版（极限滑板2001》（3.3分）保持的下限纪录，创下了最差评分成绩。而且之前这些作品的用户评测寥寥无几，而PS5版《GT赛车7》已有四千多人参与打分。
+10：深入比赛》（3.0分）和PSOne版（极限滑板2001》（3.3分）保持的下限纪录，创下了最差评分成绩。而且之前这些作品的用户评测寥寥无几，反观PS5版《GT赛车7》已有四千多人参与打分。
 </p>
 <p style="text-indent:2em;">
-然而，尽管评分跌到2.4，但《GT赛车7》的媒体分却高达87。
+不过，尽管用户评分跌到2.4，但《GT赛车7》的媒体分却高达87。
 </p>
 <p style="text-indent:2em;">
 《GT赛车7》的大量差评主要是在3月17日之后涌现的，开发商Polyphony 
@@ -40,7 +40,7 @@ Digital新补丁备受争议，减少了多项赛事奖金，让玩家更加难�
 即便是在补丁调整之前，《GT赛车7》的车辆也要比前作贵八倍以上。而如今根据玩家分析显示，游戏里售价最高的各种车型如果想要不靠微交易买任意一辆的话，就需要刷上近20个小时的奖金，这对于一款售价70美元的游戏来说是非常难以接受的。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647744403_915999.jpg" alt="《GT赛车7》已成为M站用户评分最低的索尼游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220320/1647744403_915999.jpg" alt="《GT赛车7》已成为M站用户评分最低的索尼游戏" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
