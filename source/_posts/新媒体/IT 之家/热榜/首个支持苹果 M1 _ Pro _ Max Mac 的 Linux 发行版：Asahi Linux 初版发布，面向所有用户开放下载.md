@@ -1,0 +1,19 @@
+
+---
+title: '首个支持苹果 M1 _ Pro _ Max Mac 的 Linux 发行版：Asahi Linux 初版发布，面向所有用户开放下载'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/3/f816c59a-b55f-435f-89f3-10a0552cd2b3.png'
+author: IT 之家
+comments: false
+date: Sun, 20 Mar 2022 08:32:22 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/3/f816c59a-b55f-435f-89f3-10a0552cd2b3.png'
+---
+
+<div>   
+<p data-vmark="e3cd"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 3 月 20 日消息，Asahi Linux 是研究 Linux for Apple Silicon macs 的组织群体，3 月 18 日，Asahi Linux 宣布成功在 M1 MacBook Air 笔记本电脑上运行，并开放了 <span class="accentTextColor">Asahi Linux 的下载安装</span>。</p><p data-vmark="1254" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/f816c59a-b55f-435f-89f3-10a0552cd2b3.png" w="741" h="519" title="首个支持苹果 M1 / Pro / Max Mac 的 Linux 发行版：Asahi Linux 初版发布，面向所有用户开放下载" width="741" height="519" referrerpolicy="no-referrer"></p><p data-vmark="145f">Asahi Linux 已在<a href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/" target="_blank">官方博客平台</a>发布了<span class="accentTextColor">首个公开的 alpha 版本</span>，适用于开发人员和高级用户，支持 OTA 升级。</p><p data-vmark="7ebb">要想安装 Asahi Linux，用户需要满足以下要求：</p><ul class=" list-paddingleft-2"><li><p data-vmark="7b6d">M1、M1 Pro 或 M1 Max 电脑（Mac Studio 除外）</p></li><li><p data-vmark="3fc8">macOS 12.3 或更高版本，以管理员用户身份登录</p></li><li><p data-vmark="089a">至少有 53GB 的可用磁盘空间（桌面安装）。Asahi Linux Desktop 需要 15GB，但安装程序会在 macOS 中保留额外的 38GB 磁盘空间，以避免破坏 macOS 更新。</p></li><li><p data-vmark="5036">连接到互联网，安装程序将下载 700MB ~ 4GB 的数据。</p></li></ul><p data-vmark="c527" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/e6accb8e-20e2-4616-a9d0-967ba2b79124.png" w="637" h="448" title="首个支持苹果 M1 / Pro / Max Mac 的 Linux 发行版：Asahi Linux 初版发布，面向所有用户开放下载" width="637" height="448" referrerpolicy="no-referrer"></p><p data-vmark="177b">对于满足要求的用户，只需要在终端输入以下命令，就可以开始安装了：</p><pre class="brush:javascript;toolbar:false ai-word-checked">curl https://alx.sh | sh</pre><p data-vmark="8405" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/ac344a9a-4c6c-4fae-9536-56da7c9c78aa.png" w="1440" h="897" title="首个支持苹果 M1 / Pro / Max Mac 的 Linux 发行版：Asahi Linux 初版发布，面向所有用户开放下载" width="1440" height="511" referrerpolicy="no-referrer"></p><p data-vmark="d3a5">IT之家了解到，作为首个 alpha 版本，Asahi Linux 还有很多 Bug，对于想尝鲜的用户可以体验。</p><h2 data-vmark="f9d9">已支持的功能：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="4b97">Wi-Fi</p></li><li><p data-vmark="bde2">USB2 (雷电接口)</p></li><li><p data-vmark="817a">USB3 (Mac Mini Type A 接口)</p></li><li><p data-vmark="b8ac">屏幕 (no GPU)</p></li><li><p data-vmark="6f57">NVMe</p></li><li><p data-vmark="b4d8">笔记本盖子开合</p></li><li><p data-vmark="6672">电源按钮</p></li><li><p data-vmark="20d3">内置显示屏（仅限帧缓冲区）</p></li><li><p data-vmark="1741">内置键盘 / 触摸板</p></li><li><p data-vmark="5954">显示背光开 / 关</p></li><li><p data-vmark="6266">电池信息 / 充电控制</p></li><li><p data-vmark="72c3">RTC</p></li><li><p data-vmark="e471">以太网（台式机）</p></li><li><p data-vmark="0c2c">SD 读卡器 (M1 Pro / Max)</p></li><li><p data-vmark="4837">CPU 频率切换</p></li></ul><h2 data-vmark="23ee">未支持的功能：</h2><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="f498">DisplayPort</p></li><li><p data-vmark="f9d8">雷电接口</p></li><li><p data-vmark="9470">MacBook 上的 HDMI</p></li><li><p data-vmark="708b">蓝牙</p></li><li><p data-vmark="16b0">GPU 加速</p></li><li><p data-vmark="f14d">视频编解码加速</p></li><li><p data-vmark="8704">神经引擎</p></li><li><p data-vmark="ceff">CPU deep idle</p></li><li><p data-vmark="b1ed">睡眠模式</p></li><li><p data-vmark="a921">相机</p></li><li><p data-vmark="2473">Touch Bar</p></li></ul><h2 data-vmark="02f3">已知问题：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="0bb9">如果 Wi-Fi 不起作用，请尝试在网络管理菜单中将其关闭再打开</p></li><li><p data-vmark="d4f9">如果耳机插孔不工作或只有一个通道工作，请尝试重新启动。</p></li></ul>
+          
+</div>
+            
