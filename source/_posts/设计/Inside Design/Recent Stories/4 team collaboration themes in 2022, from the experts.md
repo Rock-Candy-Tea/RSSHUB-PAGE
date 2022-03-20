@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/remote-collaboration-themes/'
 author: Inside Design
 comments: false
-date: 2022-03-20 05:08:08
+date: 2022-03-20 06:10:45
 thumbnail: 'https://www.invisionapp.com/inside-design/remote-collaboration-themes/'
 ---
 
