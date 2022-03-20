@@ -1,0 +1,18 @@
+
+---
+title: 'Mac Studio拆解展示苹果M1 Ultra芯片封装'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b4e_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 19 Mar 2022 05:35:22 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b4e_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 3 月 19 日消息，据 Wccftech 报道，苹果最强大的小巧台式电脑 Max Studio 已经被 Max Tech 博主拆解，近距离展示了 M1 Ultra 芯片。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b4e_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b4e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b4f_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b4f_1024.jpg" referrerpolicy="no-referrer"></div></div>Mac Studio 的全面拆解显示了苹果最新的名为 M1 Ultra 的芯片到底有多大。这个多芯片模块包含两个使用 UltraFusion 技术相互连接的 M1 max 芯片。值得注意的是，这个超大型封装还包含 128GB 内存。不过，在拆解过程中看不到 Silicon 芯片，因为整个封装被一个非常大的集成散热器所覆盖。整个封装面积比 AMD Ryzen 3 3300X 芯片大近 3 倍。<p></p><p>M1 Ultra 芯片具有两个 10 核 CPU 和 32 核 GPU。整个硅片共提供 1140 亿个晶体管。根据苹果公司的基准测试，该系统应该与采用 RTX 3090 图形的高端台式机竞争。虽然该系统确实很强大，在视频编码方面有很强的性能，但在原始合成或游戏工作负载方面，它仍然比不上桌面 GPU。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b50_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b50_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b51_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b51_1024.jpg" referrerpolicy="no-referrer"></div></div>Mac Studio 系统具有多层印刷电路板，它是一个密集的系统，在设计时没有考虑到可升级性，然而通过认证服务的维护应该不是问题。<p></p><p>最便宜的基于 M1 Ultra 的 Mac Studio 价格为 4000 美元（国行 29999 元），搭载了 64GB 内存，带有 48 核 GPU。全规格的 M1 Ultra 版 Mac Studio 价格为 5800 美元。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b52_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/6235d4d08e9f09321c139b52_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b53_1024.jpg" data-height="809" data-width="1440" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/6235d4d08e9f09321c139b53_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>相关阅读：</strong><p></p><p>《苹果 Mac Studio 台式机电脑拆解视频：M1 Ultra 芯片揭晓，暗示 SSD 存储可升级》</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

@@ -31,7 +31,7 @@ thumbnail: 'https://img.36krcdn.com/20220319/v2_4c5e73b0082d4355a74b3878ea42a385
 <p>如果说SpaceX是商业航天领域中的一座城堡，那么在建造它的20年中，<strong>猎鹰1号</strong> （Falcon 1）、<strong>猎鹰9号</strong> （Falcon 9）、<strong>龙飞船</strong> （Dragon）、<strong>星舰</strong> （Starship），它们逐步的成功发射便显得极具标志性。</p> 
 <p>首先是<strong>猎鹰1号</strong> ，可以称得上是这座城堡的那块基石。</p> 
 <p>因为它是SpaceX制造的第一枚火箭，与此同时，也是<strong>世界首个</strong>由私人投资的轨道级液体燃料火箭。</p> 
-<p>猎鹰1号于2008年<strong>首次成功发射</strong>，向太空送去了165千克的虚拟有效载荷。</p> 
+<p>猎鹰1号于2008年<strong>首次成功发射</strong>，向太空送去了16<a class="project-link" data-id="62310" data-name="5千克" data-logo="https://img.36krcdn.com/20210807/v2_c7deb88b04584ef0bede26bfd059a936_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/62310" target="_blank">5千克</a>的虚拟有效载荷。</p> 
 <p class="image-wrapper"><img data-img-size-val="800,532" src="https://img.36krcdn.com/20220319/v2_c1112ae81caf48ef9560f40f2feb948c_img_000" referrerpolicy="no-referrer"></p> 
 <p>这一次的成功，可以说是为SpaceX实现低成本商业火箭发射铺好了道路。</p> 
 <p>当时，据SpaceX称，推进器的研发和试验共花费约1亿美元，而未来的发射费用，就可能在<strong>800万美元</strong>左右了。</p> 
@@ -46,7 +46,7 @@ thumbnail: 'https://img.36krcdn.com/20220319/v2_4c5e73b0082d4355a74b3878ea42a385
 <p>到2014年，SpaceX在猎鹰9号的第九次发射时，终于实现了可控海上着陆。</p> 
 <p>这一步，便成为了其日后“第一级垂直回收并多次重复使用”的关键。</p> 
 <p>而到了2018年2月，猎鹰系列运载火箭的重型版本——<strong>猎鹰重型火箭</strong>，成功完成发射任务。</p> 
-<p>据了解，猎鹰重型火箭是世界上现役推力最大的火箭，它还把一辆特斯拉成功送入了太空（不过宇宙辐射可能在1年将其毁掉）。</p> 
+<p>据了解，猎鹰重型火箭是世界上现役推力最大的火箭，它还把一辆<a class="project-link" data-id="132410" data-name="特斯拉" data-logo="https://img.36krcdn.com/20200729/v2_e76e3d3d44c440138f072b13bc84a6dc_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/132410" target="_blank">特斯拉</a>成功送入了太空（不过宇宙辐射可能在1年将其毁掉）。</p> 
 <p>这也让SpaceX成为了第一家向日心轨道发射物体的私营公司。</p> 
 <p>除了运货之外，SpaceX还有一个目标，那便是<strong>载人</strong>，这个项目便是载人版<strong>“龙飞船”</strong> （Dragon）。</p> 
 <p>早在2015年的时候，SpaceX便对外展示了其舱内的环境；时隔4年之后（2019年），载人版龙飞船进行了首次无人驾驶试飞，成功往返国际空间站。</p> 
@@ -63,7 +63,7 @@ thumbnail: 'https://img.36krcdn.com/20220319/v2_4c5e73b0082d4355a74b3878ea42a385
 <p>在商业航天领域中，可以算得上是首屈一指的存在。</p> 
 <p>那么接下来的一个问题便是，为什么SpaceX可以做到？</p> 
 <h2><strong>马斯克：从未放弃</strong></h2> 
-<p>原因自然要从SpaceX的核心人物，马斯克说起。</p> 
+<p>原因自然要从SpaceX的核心<a class="project-link" data-id="3969467" data-name="人物" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969467" target="_blank">人物</a>，马斯克说起。</p> 
 <p>2001年，30岁的马斯克刚刚被迫结束他的第二段创业生涯——一手建立的公司X.com正式更名为PayPal，而他也被排挤离开了公司。</p> 
 <p>生活工作接连受挫的马斯克，内心有了更宏大的想法：他认为，火箭飞船和太空旅行是比设计互联网服务更加伟大的使命。</p> 
 <p>这一年，马斯克提出火星绿洲（Mars Oasis）项目：计划向火星发射一个小型实验温室并种植植物。</p> 
@@ -139,6 +139,6 @@ thumbnail: 'https://img.36krcdn.com/20220319/v2_4c5e73b0082d4355a74b3878ea42a385
 <p class="image-wrapper"><img data-img-size-val="1080,928" src="https://img.36krcdn.com/20220319/v2_b02214f3b7da498dab229e4604ed6f95_img_000" referrerpolicy="no-referrer"></p> 
 <p>参考链接：[1]https://www.cnbc.com/2021/11/30/elon-musk-warning-not-first-time-spacex-has-risked-bankruptcy.html[2]https://www.chron.com/news/space/article/elon-musk-texas-house-boca-chica-16278768.php[3]https://twitter.com/SirineAti/status/1503327423097618434</p> 
 <p>— <strong>完</strong> —</p> 
-<p class="editor-note">本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/zQ00HbMl2ixRU_WhoHfiNw">“量子位”（ID:QbitAI）</a>，作者：博雯 金磊 发自 凹非寺量子位 | 公众号 QbitAI，36氪经授权发布。</p>  
+<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/zQ00HbMl2ixRU_WhoHfiNw">“量子位”（ID:QbitAI）</a>，作者：博雯 金磊 发自 凹非寺<a class="project-link" data-id="397416" data-name="量子位" data-logo="https://img.36krcdn.com/20210811/v2_1664f3547e9747f8b61dc0cac3fcd649_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/397416" target="_blank">量子位</a> | 公众号 QbitAI，36氪经授权发布。</p>  
 </div>
             
