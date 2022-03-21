@@ -1,0 +1,19 @@
+
+---
+title: '性能1.55倍于NV 350W RTX 寒武纪发布全新AI训练GPU：8卡并行'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0321/cf520c7cff21148.jpg'
+author: cnBeta
+comments: false
+date: Mon, 21 Mar 2022 10:39:15 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0321/cf520c7cff21148.jpg'
+---
+
+<div>   
+3月21日，中国本土AI创新企业寒武纪正式发布了新款训练加速卡“<strong>MLU370-X8</strong>”，搭载双芯片四芯粒封装的思元370，集成寒武纪MLU-Link多芯互联技术，主要面向AI训练任务。寒武纪MLU370-X8智能加速卡<strong>首次整合了双芯片四芯粒的思元370，也就是每张卡两颗芯片，每颗芯片内封装两个Die</strong>，因此可提供两倍于思元370加速卡的内存、编解码资源。<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/cf520c7cff21148.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/cf520c7cff21148.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/cf520c7cff21148.jpg" referrerpolicy="no-referrer"></a></p><p>架构基于Cambricon MLUarch03，支持AI训练加速中常见的<strong>FP32、FP16、BF16、INT16、INT8、INT4</strong>数据格式计算，峰值性能分别为32TFlops、96TFlops、96TFlops、128Tops、256Tops、512Tops。</p><p><strong>该卡采用7nm制造工艺，集成48GB LPDDR5内存</strong>，内存带宽614.4GB/s，<strong>PCIe 4.0 x16系统接口，整卡最大训练功耗250W</strong>，全高全长双插槽设计，系统被动散热。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/5713758f5b9ebbf.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/5713758f5b9ebbf.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/5713758f5b9ebbf.jpg" referrerpolicy="no-referrer"></a></p><p>单卡架构图</p><p><strong>通过MLU-Link多芯互联技术，提供卡内、卡间互联功能，并专门设计了MLU-Link桥接卡，可实现4张加速卡为一组、8颗思元370芯片全互联。</strong></p><p>每张加速卡通讯吞吐性能200GB/s，带宽为PCIe 4.0的大约3.1倍，可高效执行多芯多卡训练、分布式推理任务。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/14d652d01d42854.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/14d652d01d42854.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/14d652d01d42854.jpg" referrerpolicy="no-referrer"></a></p><p>4卡桥接</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/fb977c322fd5ba3.png"><img data-original="https://static.cnbetacdn.com/article/2022/0321/fb977c322fd5ba3.png" src="https://static.cnbetacdn.com/thumb/article/2022/0321/fb977c322fd5ba3.png" referrerpolicy="no-referrer"></a></p><p>单机8卡部署配置</p><p><img src="https://static.cnbetacdn.com/article/2022/0321/4e26e25f4b817ae.png" referrerpolicy="no-referrer"><br>4卡桥接拓扑</p><p>根据官方数据，Cambricon NeuWare SDK实测，<strong>在常见的4个深度学习网络模型上，MLU370-X8单卡性能与主流350W RTX GPU相当。</strong></p><p>多卡加速，借助MLU-Link多芯互联技术、Cambricon NeuWare CNCL通讯库的优化，<strong>8卡环境下达到更优的并行加速比，YOLOv3、Transformer、BERT、ResNet101训练任务中，8卡并行平均性能达350W RTX GPU的155％。</strong></p><p>寒武纪未透露对比的NVIDIA 350W RTX GPU是哪一款，从规格来看，<strong>350W功耗的目前只有RTX 3090、RTX 3080 Ti。</strong></p><p>当然，一个是专用AI加速卡，一个是GPU通用游戏卡，其实没有太大可比性。</p><p>MLU370-X8产品定位中高端，与高端训练产品思元290、玄思1000相互结合，进一步丰富了寒武纪的训练算力交付方式，同时与基于思元370芯粒(chiplet)技术构建的MLU370-X4、MLU370-S4智能加速卡协同，形成完整的云端训练、推理产品组合。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/decd66f1e88cc4c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/decd66f1e88cc4c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/decd66f1e88cc4c.jpg" referrerpolicy="no-referrer"></a></p><p>单卡性能对比</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/8a67f0df17d1d08.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/8a67f0df17d1d08.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/8a67f0df17d1d08.jpg" referrerpolicy="no-referrer"></a></p><p>8卡性能对比</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0321/074284a5c105d98.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0321/074284a5c105d98.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0321/074284a5c105d98.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
