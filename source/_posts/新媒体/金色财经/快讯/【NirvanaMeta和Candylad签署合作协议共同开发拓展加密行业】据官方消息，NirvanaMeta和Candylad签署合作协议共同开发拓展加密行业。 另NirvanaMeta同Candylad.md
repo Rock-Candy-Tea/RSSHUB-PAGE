@@ -1,0 +1,20 @@
+
+---
+title: '【NirvanaMeta和Candylad签署合作协议共同开发拓展加密行业】据官方消息，NirvanaMeta和Candylad签署合作协议共同开发拓展加密行业。 
+另NirvanaMeta同Candylad...'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=1745'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=1745'
+---
+
+<div>   
+【NirvanaMeta和Candylad签署合作协议共同开发拓展加密行业】据官方消息，NirvanaMeta和Candylad签署合作协议共同开发拓展加密行业。 
+另NirvanaMeta同Candylad糖果项目组，受邀参加迪拜AIBC区块链大会，为CANDY集团的未来应用筹集资金和技术支持。  
+</div>
+            
