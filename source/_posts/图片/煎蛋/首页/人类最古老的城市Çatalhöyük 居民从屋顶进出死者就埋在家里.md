@@ -5,20 +5,20 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
 author: 煎蛋
 comments: false
 date: Tue, 22 Mar 2022 05:16:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>逢年过节或许还要把先人遗骸请出来</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/b95e3cc654f207205c351300b3802f3d.jpg!custom" referrerpolicy="no-referrer"><p>Çatalhöyük，通常被认为是世界上最古老的城市之一，是安纳托利亚最大的新石器时代定居点之一，建于公元前7100 年左右，在鼎盛时期有多达 8000 人居住。</p>
+<blockquote><p>逢年过节或许还要把先人遗骸请出来</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a531148d055b32dd4fd40e9dfb050a40.jpg!custom" referrerpolicy="no-referrer"><p>Çatalhöyük，通常被认为是世界上最古老的城市之一，是安纳托利亚最大的新石器时代定居点之一，建于公元前7100 年左右，在鼎盛时期有多达 8000 人居住。</p>
 <p>但是，尽管这座古老的城市与现代都市中心有许多相似之处，但也有明显的不同。</p>
 <p>最明显的之一：Çatalhöyük 没有街道路口。住宅是直接并排建造的，因此进入建筑物的唯一方法是从屋顶上爬下来。</p>
 <p>Çatalhöyük 人将死者埋在家中的地板下。</p>
 <p>由第一作者和法国波尔多大学的考古人类学家 Eline Schotsmans 领导的一组研究人员分析了古代Çatalhöyük的丧葬习俗。</p>
-<p>“新生儿和婴儿被埋在房子内更多不同的位置。”</p>
+<p>“成人、新生儿和婴儿被埋在房子内更多不同的位置。”</p>
 <p>按照现代西方的标准，葬礼并不是唯一不寻常的。 Çatalhöyük 的骷髅有时会在埋葬前进行仪式性的绘画，尽管关于所用颜料的具体细节以及它们的颜色的象征意义仍有很多未知之处。</p>
 <p>在这项新研究中，Schotsmans 和其他人员检查了前 Çatalhöyük 人的骨骼遗骸，其中 800 多具自1990 年代初就已被挖掘出来；该团队还用 X 射线荧光光谱仪分析了骨骼(或相关的埋葬物品)上使用的颜料。</p>
 <p>最终，只有一小部分 Çatalhöyük 的死者(大约 6% 的研究人员)直接用颜料处理过，而 11% 的死者，墓葬物品上使用颜料，例如染色的贝壳、碗、篮子和骨头物品.</p>
