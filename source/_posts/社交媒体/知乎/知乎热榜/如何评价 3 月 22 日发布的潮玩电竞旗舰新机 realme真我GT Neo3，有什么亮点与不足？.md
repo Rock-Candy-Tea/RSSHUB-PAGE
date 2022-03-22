@@ -1,0 +1,18 @@
+
+---
+title: '如何评价 3 月 22 日发布的潮玩电竞旗舰新机 realme真我GT Neo3，有什么亮点与不足？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-af55036d5da40b23d4c465f3391f8795_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Tue, 22 Mar 2022 07:07:15 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-af55036d5da40b23d4c465f3391f8795_1440w.jpg?source=b1748391'
+---
+
+<div>   
+长亭Time的回答<br><br><h2>真我GT Neo3的配置如下：</h2><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-af55036d5da40b23d4c465f3391f8795_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="6048" data-rawheight="2016" data-default-watermark-src="https://pic1.zhimg.com/v2-afb9497f5d9b95d784dd1466078859db_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-af55036d5da40b23d4c465f3391f8795_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><h2>各版本价格如下：</h2><p data-pid="2WqEUQZ9">真我GT Neo3还有<b>4500mAh电池+150W超快闪充</b>和<b>5000mAh电池+80W有线快充</b>两个版本可选，一个快充够强，一个续航够强，可以根据个人喜好来选择。</p><ul><li data-pid="Jz9a266w">5000mAh电池+80W快充版本</li></ul><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ed5871d2d872af3c9ad5debe47e9a901_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1788" data-rawheight="903" data-default-watermark-src="https://pic3.zhimg.com/v2-aa93528957fc41200df3a6e082102176_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ed5871d2d872af3c9ad5debe47e9a901_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><ul><li data-pid="SGzcE2sv">150W超快闪充+4500mAh电池版本</li></ul><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-111eba30e92a303433b4a3d704bca7f2_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1794" data-rawheight="889" data-default-watermark-src="https://pica.zhimg.com/v2-41003acf15c6c9e25eac19d11498f779_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-111eba30e92a303433b4a3d704bca7f2_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="_o0FMIu9">经典1999，这个价格。。。只能说“性价比爆棚了”！</p><hr><h2><b>真我GT Neo3的发布，一次性拿下了好几个“最”：</b></h2><ul><li data-pid="qHIyAYXR">150W超快闪充，目前充电功率最高的机型；</li><li data-pid="BHNQvRue">同时还是搭载100W以上充电功率最便宜的机型、以及搭载100W以上充电功率机身最轻盈的机型；</li><li data-pid="iflZalUu">目前最便宜的IMX766机型；</li><li data-pid="Z3XItJLA">目前最便宜的天玑8100机型；</li><li data-pid="CZdWsT48">目前散热面积最大的realme机型。</li></ul><p data-pid="b-s_1Pbf">另外就是，得益于天玑8100强悍的性能/功耗表现，配合超大面积散热、独立显示芯片、GT模式3.0，真我GT Neo3的游戏、发热、续航等方面的表现都极为出色，下面是《原神》画质全开后的帧率走势图，可以看到基本全程稳定在60FPS左右：</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1a65ffdf043c11f6380a2f12a162ae05_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="2174" data-rawheight="929" data-default-watermark-src="https://pic2.zhimg.com/v2-7b5426ee46ee859d616429d0e1876ec5_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-1a65ffdf043c11f6380a2f12a162ae05_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><blockquote data-pid="EWY2BrHq">PS：关于真我GT Neo3这款机型的完整测评内容，稍晚一些就放出。</blockquote><p data-pid="8jcyzqMV">以上这几个方面，就是realme 真我GT Neo3这款机型的亮点之所在。</p><p data-pid="8epqgNZ5">或者我们也可以这么说，<b>真我GT Neo3成功成为目前 价格段同时兼顾快充、性价比、轻盈、性能、拍照、散热、续航等多个方面于一体。</b></p><p data-pid="bw6N1b4c">而如果要说这款机型的槽点，目前通过实测最大的槽点是不支持类DC调光，低亮度模式下防频闪效果略显一般，看重这个方面的话，建议可以更多注意一些。</p>  
+</div>
+            
