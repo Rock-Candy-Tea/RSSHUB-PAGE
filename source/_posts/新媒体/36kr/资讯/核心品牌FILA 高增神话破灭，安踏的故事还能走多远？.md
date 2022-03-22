@@ -15,9 +15,9 @@ thumbnail: 'https://img.36krcdn.com/20220322/v2_6318ddb77fda4e38b9bea1b4aa63a1d7
 <div>   
 <p>安踏体育（02020.HK）于北京时间 3 月 23 日午间的 港股盘中发布了 2021 年年度财报（截止 2021 年 12 月），<strong>要点如下：</strong></p> 
 <p>1、2021 年全年实现营收 493.28 亿元，同比增长 38.9%，归母净利润（含亚玛芬 AMER 亏损）77.2 亿元，同比增长 49.6%，略超此前的业绩预告；</p> 
-<p>2021 年安踏在中国运动鞋服市场的份额由第 3 位上升至第 2 位，达到 16.2%，约等于 2 个<a class="project-link" data-id="3969298" data-name="李宁" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969298" target="_blank">李宁</a>公司 (8.2%) 的占比，超越<a class="project-link" data-id="3969530" data-name="阿迪达斯" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969530" target="_blank">阿迪达斯</a>中国（14.8%），与<a class="project-link" data-id="3969591" data-name="耐克" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969591" target="_blank">耐克</a>中国的差距也进一步缩小。</p> 
+<p>2021 年安踏在中国运动鞋服市场的份额由第 3 位上升至第 2 位，达到 16.2%，约等于 2 个李宁公司 (8.2%) 的占比，超越阿迪达斯中国（14.8%），与耐克中国的差距也进一步缩小。</p> 
 <p>2、安踏主品牌收入增加 52.5% 至 240.1 亿元，FILA 品牌收入增加 25.1% 至 218.2 亿元，包括迪桑特、可隆体育在内的其他品牌收益增加 51.1% 至 34.9 亿元。亚玛芬体育 AMER SPORTS 期内收入已达 197 亿元人民币，亏损也大幅收窄至 1.54 亿元。</p> 
-<p>3、安踏整体线上业务占比达 29%，按绝对金额计算，较 2020 年增长 50%，在去年的高基<a class="project-link" data-id="291920" data-name="数影" data-logo="https://img.36krcdn.com/20210810/v2_7bde0702abec45af87e48d4a88356283_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/291920" target="_blank">数影</a>响下依然实现了强劲增长。</p> 
+<p>3、安踏整体线上业务占比达 29%，按绝对金额计算，较 2020 年增长 50%，在去年的高基数影响下依然实现了强劲增长。</p> 
 <p>4、2021 年公司毛利率、净利率均呈现出上升态势，销售费用率增加，管理费用率也有所上升；</p> 
 <p>5、公司预计品牌门店数量情况：2021 年全年安踏及安踏儿童门店 9403 家，FILA、FILA KIDS、FILA FUSHION 2054 家，迪桑特 182 家，可隆体育 152 家；</p> 
 <p>6、2021 年全年，安踏品牌产品零售金额同比录得 25-30% 的正增长，FILA 品牌产品零售金额同比录得 25-30% 的正增长，所有其他品牌产品零售金额同比录得 50-55% 的正增长。其中 2021 年第四季度，安踏品牌产品零售金额同比录得 10-20% 中段的正增长，FILA 品牌产品零售金额同比录得高单位数的正增长，所有其他品牌产品零售金额同比录得 30-35% 的正增长。</p> 
@@ -29,7 +29,7 @@ thumbnail: 'https://img.36krcdn.com/20220322/v2_6318ddb77fda4e38b9bea1b4aa63a1d7
 <p>安踏虽然靠收购洋品牌、转型上市、牵手奥运，俨然已经是一家大公司的代表，但依旧还需要修炼内功，以确保 FILA 及其他新并购品牌不失速掉队，2022 年预计维持在 30X~35X 左右，3 月以来的港股流动性危机曾下探至最低 26 倍，随着市场开始逐步趋于稳定，从中长期投资角度来看价值仍有上升空间。</p> 
 <p class="image-wrapper"><img data-img-size-val="1134,470" src="https://img.36krcdn.com/20220322/v2_6318ddb77fda4e38b9bea1b4aa63a1d7_img_000" referrerpolicy="no-referrer"></p> 
 <p>数据来源：Wind、长桥海豚投研</p> 
-<p>感兴趣的用户，或想获取公司业绩会纪要的，请添加<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>号"dolphinR123"加入海豚投研交流圈，<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>碰撞对投资的思考。</p> 
+<p>感兴趣的用户，或想获取公司业绩会纪要的，请添加微信号"dolphinR123"加入海豚投研交流圈，一起碰撞对投资的思考。</p> 
 <h2>一、营收、净利增速基本恢复疫情前正常水平，安踏品牌稳定、FILA 增速失色</h2> 
 <p>2021 年全年安踏体育收入再创近年来新高，公司继续朝着 2025 年实现双千亿目标迈进（安踏目前所有的品牌营收一千亿，收购的 Amer 营收一千亿），长桥海豚君认为未来 5 年公司仍有保持 21.5% 年化复合增长速度的动力。</p> 
 <p>受益于 2021 全年安踏各品牌零售终端折扣同比均收窄、DTC 模式提升毛利率以及 Amer 并表后上半年以来减亏明显，虽然公司费用投放有所增加，但归母净利润增速仍恢复至疫情前正常水平。</p> 
@@ -38,7 +38,7 @@ thumbnail: 'https://img.36krcdn.com/20220322/v2_6318ddb77fda4e38b9bea1b4aa63a1d7
 <p>值得关注的是 FILA 2021 年下半年的断崖式下跌，从 2021 年上半年的 51% 增速下落至 2021 年下半年的 6.8%，从而拉低了 FILA 全年的增速，这也是安踏下半年以来股价跌跌不休的缘故。</p> 
 <p>公司的第三高潜增长曲线——以迪桑特 DESCENTE、可隆体育 KOLON SPORT 等为核心的户外运动品牌群而言，营收成长性全年表现稳定。</p> 
 <p class="image-wrapper"><img data-img-size-val="752,452" src="https://img.36krcdn.com/20220322/v2_38b8f469331a46e58daf8b573d9344b7_img_000" referrerpolicy="no-referrer"></p> 
-<p>2021 年安踏体育毛利率提升 3.4 个<a class="project-link" data-id="26435" data-name="百分点" data-logo="https://img.36krcdn.com/20220120/v2_43872fa10a814ca28f6c9380a26df32a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4852500124?mp=zzquote" target="_blank">百分点</a>至 61.6%，净利率提升 1 个百分点至 16.7%，主要是由于 2021 全年各品牌零售终端折扣同比均收窄，以及主品牌自有产能降低成本、DTC 高毛利率模式趋于成熟，带动公司整体毛利率走高，2021 年下半年受 FILA 品牌动销遇阻，小幅拖累毛利率。</p> 
+<p>2021 年安踏体育毛利率提升 3.4 个百分点至 61.6%，净利率提升 1 个百分点至 16.7%，主要是由于 2021 全年各品牌零售终端折扣同比均收窄，以及主品牌自有产能降低成本、DTC 高毛利率模式趋于成熟，带动公司整体毛利率走高，2021 年下半年受 FILA 品牌动销遇阻，小幅拖累毛利率。</p> 
 <p class="image-wrapper"><img data-img-size-val="752,461" src="https://img.36krcdn.com/20220322/v2_25520af8a7e8443eb0723932f63f91ae_img_000" referrerpolicy="no-referrer"></p> 
 <p>销售费用开支提升明显，2021 年全年，FILA 经营利润率下降 1.3 个百分点至 24.5%，主要是由于 FILA 相较而言，安踏主品牌业务的经营利润率下降 7.3 个百分点至 21.4%，或因提供投放冬奥会运营开支（营销和研发），从而下降幅度高于 FILA 品牌，公司管理费用率小幅上升主要是安踏品牌业务因 DTC 模式转型与 FILA 及其他品牌的零售业务规模有所扩展，导致员工人数上升，使整体员工成本有所增加所造成。</p> 
 <p class="image-wrapper"><img data-img-size-val="752,452" src="https://img.36krcdn.com/20220322/v2_73a12fd9f60544f89329b0a6a00e6526_img_000" referrerpolicy="no-referrer"></p> 
