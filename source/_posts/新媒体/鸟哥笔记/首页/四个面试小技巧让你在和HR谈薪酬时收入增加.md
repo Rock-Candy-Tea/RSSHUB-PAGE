@@ -1,0 +1,20 @@
+
+---
+title: '四个面试小技巧让你在和HR谈薪酬时收入增加'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://ngbjimg.xy599.com/94988144062395b09557b80.41072101.png'
+author: 鸟哥笔记
+comments: false
+date: Tue, 22 Mar 2022 05:17:11 GMT
+thumbnail: 'https://ngbjimg.xy599.com/94988144062395b09557b80.41072101.png'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">面试的最后一步就是工资问题，很多人都不知道该怎么和HR商量工资，他们既希望得到更高的薪水，也担心自己开出的价格太高而错失了这个机会。所以你怎样在你换工作时得到你想要的薪水?这要求你具备一些在面试中交流的技能。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">在谈工资的时候，怎么才能为自己争取到一个好的薪水呢?</p><p style="text-align: center;"><img src="https://ngbjimg.xy599.com/94988144062395b09557b80.41072101.png" alt="四个面试小技巧让你在和HR谈薪酬时收入增加" class="article_img" title="四个面试小技巧让你在和HR谈薪酬时收入增加" referrerpolicy="no-referrer"></p><p><br></p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;"><strong>要想得到一个满意的薪水，你就得掌握以下四个技巧</strong></p><h2 label="二级标题" style="background-image: url("/img/article/h2_icon.png"); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 12px; font-size: 18px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px;">1、了解应聘职位的工资标准、个人能力和市场情况。</h2><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">每个职位的薪水都有自己的标准，从5K到7K,10K到15K不等，根据应聘者的能力而定，实力一般的人只能得到最低的薪水，而实力最强的人，却可以获得更多的薪水。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">首先要弄清楚招聘职位的薪酬标准，然后对自己的优势和劣势进行合理的分析，然后根据自己的工作经验、学历、行业背景、市场情况进行综合考虑。尤其是对市场的了解，对自己的实力进行合理的分析，通过多次的面试，就可以很好地判断出自己的实力。</p><h2 label="二级标题" style="background-image: url("/img/article/h2_icon.png"); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 12px; font-size: 18px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px;">2、了解应聘者的薪酬结构</h2><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">每个公司的工资组成都不一样，有的公司没有业绩评价，有的公司有奖金，有的公司没有奖金，有的公司没有年终奖。了解这些职位的薪酬结构，可以帮助你作出更好的抉择。比如，这个职位的基本工资不高，但是有比较容易达到的提成目标，这种情况可以优先考虑。</p><p style="text-align: center;"><img src="https://ngbjimg.xy599.com/6341555062395b09abeae3.89917473.jpeg" alt="四个面试小技巧让你在和HR谈薪酬时收入增加" class="article_img" title="四个面试小技巧让你在和HR谈薪酬时收入增加" referrerpolicy="no-referrer"></p><h2 label="二级标题" style="background-image: url("/img/article/h2_icon.png"); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 12px; font-size: 18px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px;">3、明确自己的底线</h2><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">合理地表达自己对雇主开出的薪水不满意时，可以向对方表达自己的感激之情，但如果是为了讨价还价，就必须表明自己的态度，并且言之凿凿。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">例如，我非常喜欢你的公司，但对于你的薪水和福利，我不太满意。然后，他就可以解释自己的理由了。比如现在的市场，再加上自己的工作经历和教育。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">如果你的工作和你的工作很般配，你可以得到更多的薪水，你可以用你的朋友跳槽来做比较。他必须要有足够的自信，才能说服别人。</p><h2 label="二级标题" style="background-image: url("/img/article/h2_icon.png"); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; margin: 25px 0px 20px; padding-left: 12px; font-size: 18px; font-weight: 600; color: rgb(33, 38, 41); line-height: 30px;">4、让HR们产生“我很抢手”的印象</h2><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">在谈话的时候，他可以暗示地说，现在有很多公司都开出了自己的offer，并且开出了不亚于这家公司的条件，以此来制造“我很抢手”的假象，让HR有一种危机感，让她能够更快地作出决定。</p><p label="正文" style="font-size: 16px; color: rgb(33, 38, 41); margin-bottom: 25px;">每个人都有一种害怕失去的感觉，就像是有人给了你一件东西，你可以轻而易举地拿到手，不用付出任何代价，而且你也不会用它，但是当你失去了它的那一天，你就会后悔莫及的。</p>                        <div style="height: 1px"></div>
+                      
+</div>
+            
