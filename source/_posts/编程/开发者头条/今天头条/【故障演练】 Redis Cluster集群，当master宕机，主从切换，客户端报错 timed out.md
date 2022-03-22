@@ -1,0 +1,18 @@
+
+---
+title: '【故障演练】 Redis Cluster集群，当master宕机，主从切换，客户端报错 timed out'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=9126'
+author: 开发者头条
+comments: false
+date: 2022-03-22 00:37:04
+thumbnail: 'https://picsum.photos/400/300?random=9126'
+---
+
+<div>   
+【故障演练】 Redis Cluster集群，当master宕机，主从切换，客户端报错 timed out  
+</div>
+            
