@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-03-22 10:10:26
-thumbnail: 'https://pica.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162'
+date: 2022-03-22 11:09:39
+thumbnail: 'https://pic1.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/0ce64377f59bba8c11e09168274f86c1_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">赵泠，</span><span class="bio">遗迹是曾经讴歌繁荣的生命留下的缺页的梦。</span>
 <a href="https://www.zhihu.com/question/522905496/answer/2397761027" class="originUrl" hidden>查看知乎原文</a>
 </strong>

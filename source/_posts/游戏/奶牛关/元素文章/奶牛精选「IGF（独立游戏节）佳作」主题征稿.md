@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 奶牛关
  - 元素文章
-headimg: 'https://picsum.photos/400/300?random=5612'
+headimg: 'https://picsum.photos/400/300?random=8257'
 author: 奶牛关
 comments: false
 date: Mon, 05 Mar 2018 11:28:08 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5612'
+thumbnail: 'https://picsum.photos/400/300?random=8257'
 ---
 
 <div>   
