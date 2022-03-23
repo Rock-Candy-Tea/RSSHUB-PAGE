@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/77/03947359db8c86438105473ffd1fo0h5.JPG?v=1648004252179'
 author: 巴哈姆特
 comments: false
-date: 2022-03-23 10:11:04
+date: 2022-03-23 11:08:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/03947359db8c86438105473ffd1fo0h5.JPG?v=1648004252179'
 ---
 
@@ -37,11 +37,23 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/03947359db8c86438105473ffd1fo0h5.
 <div>
  </div>
 <div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/vlED53nPNqw?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
+<div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%A9%E5%A0%82+2+M" target="_blank">天堂 2 M</a>》今（23）日更新「歷章 V 以血締結的決心」改版，開放競技場副本「古代之島」以及裝備新進化「神聖賦予系統」。</div>
 <div>
  </div>
 <div>
 　　「古代之島」是第一個大師副本，由 54 個伺服器的所有繼承者共同使用相同空間，70 級以上玩家可入場，入場費用 20 萬金幣。古代之島分為東南西北四個地區，位於島中央的「庫斯托勒控制室」會出沒 BOSS 庫斯托勒，擊敗 BOSS 將有機會獲得包含「艾爾納項鏈、蘊含魔力的墨水（神話）、傳說製作卷軸」等獎勵。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/mK5WH8aMjy4?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
