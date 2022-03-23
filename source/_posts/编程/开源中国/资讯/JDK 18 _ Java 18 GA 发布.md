@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3144'
+headimg: 'https://picsum.photos/400/300?random=2735'
 author: 开源中国
 comments: false
 date: Wed, 23 Mar 2022 07:32:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3144'
+thumbnail: 'https://picsum.photos/400/300?random=2735'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>JDK 18 / Java 18 GA 发布。JDK 18 是一个短期维护版本，将获得六个月的支持。尽管如此，但它仍然可用于生产环境中。根据开发计划，JDK 19 将于今年 9 月发布，而下一个 LTS 版本 JDK 21 将于 2023 年 9 月发布。</p> 
+                                                                    
+                                                        <p>JDK 18 / Java 18 GA 发布。JDK 18 是一个短期维护版本，将获得六个月的支持。尽管如此，但它仍然可用于生产环境中。根据开发计划，JDK 19 将于今年 9 月发布，而下一个 LTS 版本 JDK 21 将于 2023 年 9 月发布。</p> 
 <p>JDK 18 共包括 9 个 JEP，以及数百个较小的增强功能和一千多个错误修复。</p> 
 <table class="jeps" style="width:100%" summary="jeps"> 
  <tbody> 

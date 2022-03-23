@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7286'
+headimg: 'https://picsum.photos/400/300?random=8759'
 author: 开源中国
 comments: false
 date: Tue, 22 Mar 2022 23:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7286'
+thumbnail: 'https://picsum.photos/400/300?random=8759'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache Lucene 发布了最新的 9.1.0 版本，相比于 9.0 版本，该版本主要改进内容包括：</p> 
+                                                                    
+                                                        <p>Apache Lucene 发布了最新的 9.1.0 版本，相比于 9.0 版本，该版本主要改进内容包括：</p> 
 <h4 style="margin-left:0; margin-right:0; text-align:left">新特性</h4> 
 <ul style="margin-left:10px; margin-right:10px"> 
  <li>Lucene JAR 采用 Java 模块化方式组织，提供模块描述和依赖信息</li> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6360'
+headimg: 'https://picsum.photos/400/300?random=9393'
 author: 开源中国
 comments: false
 date: Wed, 23 Mar 2022 07:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6360'
+thumbnail: 'https://picsum.photos/400/300?random=9393'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Apache Superset 1.4.2rc1 现已发布。<span style="color:#333333">Apache Superset 是一款现代化的开源数据工具，用于数据探索和数据可视化。它提供了简单易用的无代码可视化构建器和声称是最先进的 SQL 编辑器，用户可以使用这些工具快速地构建数据仪表盘。</span></p> 
+                                                                    
+                                                        <p>Apache Superset 1.4.2rc1 现已发布。<span style="color:#333333">Apache Superset 是一款现代化的开源数据工具，用于数据探索和数据可视化。它提供了简单易用的无代码可视化构建器和声称是最先进的 SQL 编辑器，用户可以使用这些工具快速地构建数据仪表盘。</span></p> 
 <p><span style="color:#333333">公告指出，这是对发布 Apache Superset 1.4.2 版本的投票呼吁。此候选版本在 1.4.1 的基础上增加了以下内容：</span></p> 
 <ul> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fsuperset%2Fpull%2F19248" target="_blank">#19248</a>：feat：在 adhoc clauses 中添加对注释的支持</li> 

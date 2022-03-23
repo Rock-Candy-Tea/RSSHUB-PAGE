@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7423'
+headimg: 'https://picsum.photos/400/300?random=7380'
 author: 开源中国
 comments: false
 date: Wed, 23 Mar 2022 07:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7423'
+thumbnail: 'https://picsum.photos/400/300?random=7380'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Chocolatey 是一个基于 CLI 的 Windows 软件包管理器，有点像 apt-get。Chocolatey CLI 1.0.0 发布，更新内容如下：</p> 
+                                                                    
+                                                        <p>Chocolatey 是一个基于 CLI 的 Windows 软件包管理器，有点像 apt-get。Chocolatey CLI 1.0.0 发布，更新内容如下：</p> 
 <h3>重要变化</h3> 
 <ul> 
  <li>移除了弃用的 Chocolatey 命令和 Shims <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fchocolatey%2Fchoco%2Fissues%2F2468" target="_blank">#2468</a></li> 

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=711'
+headimg: 'https://picsum.photos/400/300?random=6950'
 author: 开源中国
 comments: false
 date: Wed, 23 Mar 2022 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=711'
+thumbnail: 'https://picsum.photos/400/300?random=6950'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkeepassxc.org%2F" target="_blank">KeePassXC</a>  是由 KeePass 密码管理器的一个分支发展而来的，相比原版 KeePass，KeePassXC 除了适配 Windows，还适配了 Linux 和 macOS。</p> 
+                                                                    
+                                                        <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkeepassxc.org%2F" target="_blank">KeePassXC</a>  是由 KeePass 密码管理器的一个分支发展而来的，相比原版 KeePass，KeePassXC 除了适配 Windows，还适配了 Linux 和 macOS。</p> 
 <p>通过 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkeepassxc.org%2F" target="_blank">KeePassXC</a> 可以存储和管理个人的敏感信息。保存在 KeePassXC 上的信息全部都会进行离线加密，借助于云存储服务可以实现跨平台同步。</p> 
 <p>KeePassXC 2.7.0 发布，本次更新内容如下：</p> 
 <h3>主要新增内容</h3> 
