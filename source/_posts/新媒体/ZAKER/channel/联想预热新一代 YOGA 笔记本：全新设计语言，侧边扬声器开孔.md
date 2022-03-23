@@ -1,0 +1,18 @@
+
+---
+title: '联想预热新一代 YOGA 笔记本：全新设计语言，侧边扬声器开孔'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e42_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 22 Mar 2022 23:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e42_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 3 月 23 日消息，今天，联想方面预热了新款 YOGA 笔记本，从外观上来看应该是 CES 上公布的 Yoga 9i。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e42_1024.jpg" data-height="790" data-width="1254" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e42_1024.jpg" referrerpolicy="no-referrer"></div></div>外观方面，新款 YOGA 笔记本最为突出的变化是采用了弧形边缘，而且扬声器开孔也位于侧边。<p></p><p>IT 之家了解到，Yoga 9i 型号配备 14 英寸屏幕，可选 4K（3,840 x 2,400，16:10 纵横比）触控 OLED 面板，峰值亮度为 400 尼特，100% 的 DCI-P3 色域覆盖率；也可选 2.8K（2,880 x 1,800）分辨率以及 1,920 x 1,200 分辨率的 LCD 屏。</p><p>规格方面，Yoga 9i 将搭载英特尔酷睿 i5-1240P 和酷睿 i7-1260P，配备高达 16GB 的 LPDDR5 RAM 和 1TB 的固态存储。续航方面，75Wh 电池预计可以为 LCD 版本供电长达 20 小时，为 2.8K / 4K 版本供电 14/13 小时，联想表示可以在两小时内充满电。</p><p>联想官方表示，Yoga 系列在 2022 迎来了 10 周年，全新的 Yoga 系列笔记本电脑采用全面革新的设计语言，<strong>结合了极简主义与豪华风格，具有舒适的弧形边缘，并迎来低饱和度的现代配色方案</strong>，使用更多的回收材料和精致感装饰。</p><p>另外，华韦健官方曾发文称，联想新款 Yoga 9i 翻转本将成为全球首款采用 Bowers & Wilkins（宝华韦健）定制音响系统的笔记本电脑。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f720_1024.jpg" data-height="820" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f720_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f721_1024.jpg" data-height="820" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f721_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202203/623ac42d8e9f0924c2424e43_1024.jpg" data-height="820" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202203/623ac42d8e9f0924c2424e43_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f722_1024.jpg" data-height="820" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202202/6203d9b2b15ec0781f35f722_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e44_1024.jpg" data-height="820" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202203/623ac42d8e9f0924c2424e44_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
