@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?v=1648004415079'
 author: 巴哈姆特
 comments: false
-date: 2022-03-23 03:22:49
+date: 2022-03-23 04:11:49
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?v=1648004415079'
 ---
 
@@ -24,13 +24,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.
 <div>
 <ul class="bh-grids-img" style="width:50%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 154.45%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?v=1648004415079" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 154.45%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?v=1648004415079" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/3719317cbb5f969dc5baebdae61fo0u5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　官方指出，《殞落之咒》小說由 Riot 首席作家 Anthony Reynolds 創作，故事講述殞落王者維爾戈旗下將軍為了找到拯救伊索德王后的方法，前去尋找傳說中古老魔法之地的故事。</div>
+　　官方指出，《殞落之咒》小說由 Riot 首席作家 Anthony Reynolds 創作，講述殞落王者維爾戈旗下將軍為了找到拯救伊索德王后的方法，前去尋找傳說中古老魔法之地的故事。</div>
 <div>
  </div>
 <div>
