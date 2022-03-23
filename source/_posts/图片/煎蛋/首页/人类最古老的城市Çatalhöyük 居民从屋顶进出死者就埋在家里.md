@@ -35,6 +35,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/a
 <p>“根据社会文化人类学家的说法，理性记忆是通过重复过去的行为和通过直接的对象记忆关联代代相传的，”研究人员解释说。</p>
 <p>“壁内埋葬可能是记忆保留过程的一部分，每次葬礼都通过使死者接近家庭活动的日常节奏来促进公共记忆。”</p>
 <p>研究结果发表在《科学报告》上。</p>
-<p>https://www.sciencealert.com/ancient-city-from-9-000-years-ago-buried-their-dead-in-very-mysterious-ways</p>  
+<p>https://www.sciencealert.com/ancient-city-from-9-000-years-ago-buried-their-dead-in-very-mysterious-ways</p>
+<p><iframe src="//player.bilibili.com/player.html?aid=375350201&bvid=BV1bZ4y1F7wh&cid=330173100&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>  
 </div>
             
