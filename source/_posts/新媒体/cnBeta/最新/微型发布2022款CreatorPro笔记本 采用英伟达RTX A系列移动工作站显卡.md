@@ -1,0 +1,19 @@
+
+---
+title: '微型发布2022款CreatorPro笔记本 采用英伟达RTX A系列移动工作站显卡'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0323/76530b425e142ca.jpg'
+author: cnBeta
+comments: false
+date: Wed, 23 Mar 2022 10:40:09 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0323/76530b425e142ca.jpg'
+---
+
+<div>   
+计算机硬件和解决方案领导者之一的<strong>微星（MSI），刚刚发布了采用英特尔 12 代酷睿标压处理器和英伟达 RTX A 系列显卡的新款 CreatorPro 移动工作站。</strong>在满足专业行业需求的同时，它还具有简洁优雅的整体线条设计，为商务和个人工作室提供了丰富的选择。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0323/76530b425e142ca.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/76530b425e142ca.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>在最新款 NVIDIA RTX 专业显卡和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a> 12 代酷睿标压移动处理器的加持下，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://msi-pc.jd.com/" target="_blank">MSI</a> CreatorPro 移动工作站的性能较上一代提升高达 45% 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/06104c2c0c39f8f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/06104c2c0c39f8f.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>得益于性能的巨大提升，无论是大规模复杂建模、大数据分析、渲染建筑蓝图，还是体验稳定高帧率的高保真 VR 内容，CreatorPro 移动工作站都可轻松硬度。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/cdef44bdea17400.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/cdef44bdea17400.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>值得一提的是，该系列工作站不仅延续了<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://msi-pc.jd.com/" target="_blank">微星</a>的“军规”传统、还通过了 ISV 认证，意味着用户能够将其生产力和便携性提升到一个新的水平。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/ac5be0b2e9513a9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/ac5be0b2e9513a9.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>具体型号方面，CreatorPro Z16P 和 CreatorPro Z17 机型配备了 16:10 宽高比 @ QHD+ 分辨率的 True Pixel 屏幕，可带来准确、鲜艳的色彩表现，并且支持手写笔与触屏交互。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/0b593f1c5357db9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/0b593f1c5357db9.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>值得一提的是，CreatorPro Z16P 配备了真空腔均热板散热技术，可显著提升气流与散热效率。此外两款机型都专为远程工作而设计，具有 90 Whr 大电池、支持 Wi-Fi 6E 无线网络、以及雷电 4 技术。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/8756df4f561d679.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/8756df4f561d679.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>出众的配置与性能表现，也意味着 MSI CreatorPro 产品线已经为元宇宙做好了准备（Meta-Ready），很适合开发者和从业者体验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/a7fe4c65e98ab78.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/a7fe4c65e98ab78.jpg" alt="8.jpg" referrerpolicy="no-referrer"></a></p><p>此外 CreatorPro M 系列是创意工作者和需要强大笔记本电脑性能、但预算又相对有限的用户的理想选择，可选 17.3 应粗的 M17、16 英寸的 M16、以及 15.6 英寸的 M15 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0323/5f73ffd68ead0a1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0323/5f73ffd68ead0a1.jpg" alt="9.jpg" referrerpolicy="no-referrer"></a></p><p>上述机型均拥有全新锐利的美学设计风格，并且可选英伟达 RTX A3000 12GB 移动工作站 GPU 。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1250137.htm" target="_blank">英伟达发布RTX A5500工作站显卡 面向台式机与笔记本平台</a></p></div>   
+</div>
+            
