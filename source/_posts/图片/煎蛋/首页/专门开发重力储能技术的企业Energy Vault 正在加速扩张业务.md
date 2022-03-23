@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/082c5b61452e46994938b037b62397a3.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c383b23b4646ce7265c78faf93834134.jpg!custom'
 author: 煎蛋
 comments: false
 date: Wed, 23 Mar 2022 03:45:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/082c5b61452e46994938b037b62397a3.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c383b23b4646ce7265c78faf93834134.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>上次有评论询问，升降重物存储太阳能发电的技术部署的如何了。 Energy Vault 就是这一领域里的龙头</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/082c5b61452e46994938b037b62397a3.jpg!custom" referrerpolicy="no-referrer"><p>瑞士Arbedo-Castione 市，一台 70 米的起重机高高耸立。六只机械臂从顶部伸出，将巨大的石块拉到高处。但那并非是在建筑施工。</p>
+<blockquote><p>上次有评论询问，升降重物存储太阳能发电的技术部署的如何了。 Energy Vault 就是这一领域里的龙头</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/c383b23b4646ce7265c78faf93834134.jpg!custom" referrerpolicy="no-referrer"><p>瑞士Arbedo-Castione 市，一台 70 米的起重机高高耸立。六只机械臂从顶部伸出，将巨大的石块拉到高处。但那并非是在建筑施工。</p>
 <p>这座钢塔是巨大的机械储能系统，由美国-瑞士初创公司 Energy Vault 设计，依靠重力和 35 吨重的砖块来储存和释放能量。</p>
 <p>当电力需求较低时，起重机会利用瑞士电网的剩余电力来提升砖块并将它们堆放在顶部。当电力需求增加时，砖块会降低，将动能释放回电网。</p>
 <p>这听起来像是一个学校科学项目，但随着世界向清洁能源过渡，这种形式的储能可能至关重要。</p>
@@ -26,7 +26,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/0
 <p>由于这些原因，Piconi说，虽然电池非常适合电动汽车或计算机电子产品，但它们并不是“大型公用事业规模贸易的理想选择”。</p>
 <p>相反，Energy Vault 决定将其技术基于 100 多年前开发的一种方法，该方法广泛用于存储可再生能源：抽水蓄能水电。在非高峰期，涡轮机将水从低地的水库抽到高地的水库，而在需求高峰期，水被允许向下流过涡轮机，产生电能。<br>
 Piconi 说，Energy Vault 以同样的方式依赖重力，但“我们使用的不是水，而是这些复合块。”</p>
-<p>他说，通过这种方式，该公司不依赖于地形，也不必挖掘水库或建造水坝，这会对环境产生负面影响。</p>
+<p>他说，通过这种方式，<strong>该公司不依赖于地形，也不必挖掘水库或建造水坝</strong>，这会对环境产生负面影响。</p>
 <p>自从 Energy Vault 于 2020 年在瑞士建立了成功的原型以来，该公司已经从高达 200 米的塔式模型设计转向它称为“Energy Vault Resiliency Centers”的 20 层模块化建筑。 Piconi 表示，该公司收到潜在客户的反馈，称这座塔“太高”，可能不符合国际建筑规范。</p>
 <p>中心将使用相同的砖块，由土壤和废弃垃圾制成，建筑物高约 100 米。砖块在建筑物内上下移动，由人工智能系统控制，该系统根据供需情况确定充电或放电的最佳时间。</p>
 <p>他补充说，这些中心的占地面积会有所不同，可能覆盖 1.5 到 20 英亩，具体取决于存储容量。但它们很可能安装在空间不成问题的地方，例如现有的风能或太阳能发电厂附近。</p>
