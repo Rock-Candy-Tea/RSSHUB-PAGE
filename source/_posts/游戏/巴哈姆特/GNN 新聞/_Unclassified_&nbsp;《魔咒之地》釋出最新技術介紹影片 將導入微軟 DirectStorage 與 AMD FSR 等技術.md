@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?v=1648120095031'
 author: 巴哈姆特
 comments: false
-date: 2022-03-24 13:19:32
+date: 2022-03-24 14:10:45
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?v=1648120095031'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?v=1648120095031" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?v=1648120095031" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.
 <div>
  </div>
 <div>
-　　在這段技術展示影片中，揭露了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E5%92%92%E4%B9%8B%E5%9C%B0" target="_blank">魔咒之地</a>》所採用的各種新技術，包括 AMD FidelityFX 的 3D 繪圖技術如環境光遮蔽（Ambient Occlusion）、螢幕空間反射（Screen Space Reflections）、降噪器（De<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=noise" target="_blank">noise</a>r）、超解析化（Super Resolution）、可變著色（Variable Shading），以及微軟的 DirectStorage 讀取技術等。</div>
+　　在這段技術展示影片中，揭露了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E5%92%92%E4%B9%8B%E5%9C%B0" target="_blank">魔咒之地</a>》所採用的各種新技術，包括 AMD FidelityFX 的 3D 繪圖技術如環境光遮蔽（Ambient Occlusion）、螢幕空間反射（Screen Space Reflections）、降噪器（Denoiser）、超解析化（Super Resolution）、可變著色（Variable Shading），以及微軟的 DirectStorage 讀取技術等。</div>
 <div>
  </div>
 <div>
@@ -45,7 +45,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG?v=1648120122821" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG?v=1648120122821" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/ca8b167c855520a4de6ae78ae71fp5c5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -57,7 +57,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/47/3596ef9f071c86e1a7d75f71f81fp5b5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.61%;">
-<figcaption style="padding-bottom: 30.79%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG?v=1648120172003" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 30.79%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG?v=1648120172003" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/f1743941f537170686b81901301fp5a5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
