@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8135'
+headimg: 'https://picsum.photos/400/300?random=3064'
 author: 开源中国
 comments: false
 date: Thu, 24 Mar 2022 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8135'
+thumbnail: 'https://picsum.photos/400/300?random=3064'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>QEMU 7.0 首个 RC 版本已发布，正式版计划于 4 月中旬推出。QEMU 7.0 特别增加了对 Intel AMX 的支持，此特性有助于 Linux KVM 对 Intel Advanced Matrix Extensions 的支持，目前已准备合并到主线。7.0 版本在 RISC-V 架构支持方面也完成了不少工作，此外还有多项其他变化。</p> 
+                                                                                            <p>QEMU 7.0 首个 RC 版本已发布，正式版计划于 4 月中旬推出。QEMU 7.0 特别增加了对 Intel AMX 的支持，此特性有助于 Linux KVM 对 Intel Advanced Matrix Extensions 的支持，目前已准备合并到主线。7.0 版本在 RISC-V 架构支持方面也完成了不少工作，此外还有多项其他变化。</p> 
 <p><strong>主要新特性一览</strong></p> 
 <ul> 
  <li>针对 ARM 架构的改进：引入新<span style="color:#121212">的 </span>mori-bmc board model、支持模拟其他功能<span style="color:#121212">以及改进 </span>virt board</li> 

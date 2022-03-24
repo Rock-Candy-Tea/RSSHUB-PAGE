@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0324/073249_wtvU_49371
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>GNOME Project 今天正式发布了其开源桌面环境的最新版本 —— GNOME 42。在新版本中，GNOME 带来了新的功能、UI 调整和性能提升。</p> 
+                                                                                            <p>GNOME Project 今天正式发布了其开源桌面环境的最新版本 —— GNOME 42。在新版本中，GNOME 带来了新的功能、UI 调整和性能提升。</p> 
 <h3>GNOME 42 的新特性</h3> 
 <p>在 GNOME 42 中，用户首先注意到的变化一定是视觉效果。新版本具有一个更明亮、更现代的应用程序的外观。</p> 
 <p><img alt height="394" src="https://static.oschina.net/uploads/space/2022/0324/073249_wtvU_4937141.jpg" width="700" referrerpolicy="no-referrer"></p> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8470'
+headimg: 'https://picsum.photos/400/300?random=1155'
 author: 开源中国
 comments: false
 date: Thu, 24 Mar 2022 07:30:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8470'
+thumbnail: 'https://picsum.photos/400/300?random=1155'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Jedis 是 Redis 的一个 Java 客户端库，旨在提高性能和易用性。Jedis 与 redis 2.8.x、3.xx 及更高版本完全兼容。</p> 
+                                                                                            <p>Jedis 是 Redis 的一个 Java 客户端库，旨在提高性能和易用性。Jedis 与 redis 2.8.x、3.xx 及更高版本完全兼容。</p> 
 <h3>新特性</h3> 
 <ul> 
  <li>支持 EXPIRETIME 和 PEXIRETIME 命令 (<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fredis%2Fjedis%2Fpull%2F2852" target="_blank">#2852</a>)</li> 

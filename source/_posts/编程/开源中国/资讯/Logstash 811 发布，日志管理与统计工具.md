@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=833'
+headimg: 'https://picsum.photos/400/300?random=4671'
 author: 开源中国
 comments: false
 date: Thu, 24 Mar 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=833'
+thumbnail: 'https://picsum.photos/400/300?random=4671'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">Logstash 是一个应用程序日志、事件的传输、处理、管理和搜索的平台，可用于对应用程序日志进行收集管理，提供 Web 接口用于查询和统计。</span></p> 
+                                                                                            <p><span style="color:#333333">Logstash 是一个应用程序日志、事件的传输、处理、管理和搜索的平台，可用于对应用程序日志进行收集管理，提供 Web 接口用于查询和统计。</span></p> 
 <p><span style="color:#333333">目前 Logstash 发布了 8.1.1 版本，带来如下变更：</span></p> 
 <h3><span style="color:#333333">修复</span></h3> 
 <ul> 

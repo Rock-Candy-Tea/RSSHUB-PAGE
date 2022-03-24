@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220324/1648079970_642009.jpg'
 author: 3DMGame
 comments: false
-date: Thu, 24 Mar 2022 00:15:00 GMT
+date: Thu, 24 Mar 2022 01:11:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220324/1648079970_642009.jpg'
 ---
 
@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220324/1648079970_6420
 近日FromSoftware宣布《艾尔登法环》1.03.2版更新补丁上线，该补丁修复了一些让人讨厌的Bug，一起来看看吧！
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220324/1648079970_642009.jpg" alt="《艾尔登法环》新补丁上线 修复了一些让人讨厌的Bug" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220324/1648079970_642009.jpg" alt="《艾尔登法环》新补丁上线 修复了一些让人讨厌的Bug" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#337FE5;">更新内容：</span></strong>
+<strong><span style="color:#337FE5;">更新内容：</span></strong> 
 </p>
 <p style="text-indent:2em;">
 -修复了一个有时会阻止玩家推进NPC涅斐丽·露(Nepheli Loux)任务线的Bug。
@@ -35,7 +35,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220324/1648079970_6420
 -修复了一个在多人游戏中，允许玩家将其他人传送到错误地图位置的Bug。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220324/1648079970_238529.jpg" alt="《艾尔登法环》新补丁上线 修复了一些让人讨厌的Bug" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220324/1648079970_238529.jpg" alt="《艾尔登法环》新补丁上线 修复了一些让人讨厌的Bug" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

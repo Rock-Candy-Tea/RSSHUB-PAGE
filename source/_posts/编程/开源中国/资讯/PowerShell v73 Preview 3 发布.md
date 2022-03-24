@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6073'
+headimg: 'https://picsum.photos/400/300?random=7116'
 author: 开源中国
 comments: false
 date: Thu, 24 Mar 2022 07:14:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6073'
+thumbnail: 'https://picsum.photos/400/300?random=7116'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>PowerShell Core 是一个跨平台（Windows、Linux 和 macOS）的自动化和配置工具/框架，可以很好地与你现有的工具配合，并为处理结构化数据（如 JSON、CSV、XML 等）、REST API 和对象模型而优化。它包括一个命令行 Shell、一种相关的脚本语言和一个处理 cmdlets 的框架。</p> 
+                                                                                            <p>PowerShell Core 是一个跨平台（Windows、Linux 和 macOS）的自动化和配置工具/框架，可以很好地与你现有的工具配合，并为处理结构化数据（如 JSON、CSV、XML 等）、REST API 和对象模型而优化。它包括一个命令行 Shell、一种相关的脚本语言和一个处理 cmdlets 的框架。</p> 
 <p>PowerShell v7.3 Preview 3 发布，更新内容如下：</p> 
 <h3>引擎更新和修复</h3> 
 <ul> 
