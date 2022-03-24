@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.JPG?v=1648107389518'
 author: 巴哈姆特
 comments: false
-date: 2022-03-24 09:10:44
+date: 2022-03-24 10:10:31
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.JPG?v=1648107389518'
 ---
 
@@ -35,7 +35,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.
 </ul>
 </div>
 <div>
-　　由 Insomniac Games 開發的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%89%E6%8D%B7%E7%89%B9%E8%88%87%E5%85%8B%E6%8B%89%E5%85%8B%EF%BC%9A%E6%99%82%E7%A9%BA%E8%A3%82%E7%B8%AB" target="_blank">拉捷特與克拉克：時空裂縫</a>》則同時獲得最佳視覺藝術獎與最佳技術獎，而由 Witch Beam 打造的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%86%E7%AE%B1" target="_blank">拆箱</a>（Unpacking）》則贏得最佳音效與創新獎。至於 Iron Gate Studio 研發、引發熱潮的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%93%A6%E7%88%BE%E6%B5%B7%E5%A7%86" target="_blank">瓦爾海姆</a>（Valheim）》不僅獲得最佳出道作獎項，同時得到由玩家投票的愛好者獎。</div>
+　　由 Insomniac Games 開發的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%89%E6%8D%B7%E7%89%B9%E8%88%87%E5%85%8B%E6%8B%89%E5%85%8B%EF%BC%9A%E6%99%82%E7%A9%BA%E8%A3%82%E7%B8%AB" target="_blank">拉捷特與克拉克：時空裂縫</a>》則同時獲得 GDCA 最佳視覺藝術獎與最佳技術獎，而由 Witch Beam 打造的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%86%E7%AE%B1" target="_blank">拆箱</a>（Unpacking）》則贏得最佳音效與創新獎。至於 Iron Gate Studio 研發、引發熱潮的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%93%A6%E7%88%BE%E6%B5%B7%E5%A7%86" target="_blank">瓦爾海姆</a>（Valheim）》不僅獲得最佳出道作獎項，同時得到由玩家投票的愛好者獎。</div>
 <div>
  </div>
 <div>

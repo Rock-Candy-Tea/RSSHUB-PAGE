@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 36kr
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5026'
+headimg: 'https://picsum.photos/400/300?random=9237'
 author: 36kr
 comments: false
 date: Thu, 24 Mar 2022 08:54:41 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5026'
+thumbnail: 'https://picsum.photos/400/300?random=9237'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://picsum.photos/400/300?random=5026'
 <p>2022年3月23日，全球时尚奢侈品集团Lanvin Group（复朗集团）与Primavera Capital Acquisition Corp.（PCAC）宣布，双方已达成最终合并协议，交易后复朗集团将在纽约证券交易所上市，股票代码为“LANV”。</p> 
 <p>PCAC是一家在纽约证券交易所上市的特殊目的收购公司，也是春华资本集团旗下的附属公司。2021年1月，春华资本发起了这家PCAC，募集了4.14亿美元。这意味着，经历了1年多的物色挑选，春华资本选中了复朗集团作为最终并购标的。</p> 
 <p>据悉，该交易对复朗集团的预估（pro forma）企业价值约为15亿美元，合并后预估市值约为19亿美元（约合120.98亿人民币）。作为交易的一部分，复朗集团的现有股权持有人将其100%股权转入合并公司，合计约对应合并公司65%的所有权。</p> 
-<p>本次交易募集总金额预计最高达5.44亿美元，其中包括信托账户的4.14亿美元现金，以及来自<a class="project-link" data-id="3969471" data-name="复星" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969471" target="_blank">复星</a>国际有限公司、<a class="project-link" data-id="3969371" data-name="伊藤忠商事株式会社" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969371" target="_blank">伊藤忠商事株式会社</a>、九兴控股、<a class="project-link" data-id="514207" data-name="宝尊电商" data-logo="https://img.36krcdn.com/20210813/v2_8e00369584754d38a5c28a74e16e2497_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/514207" target="_blank">宝尊电商</a>、Golden A&A、AspexMaster Fund、Sky Venture Partners L.P.等共计1.3亿美元全额承诺的公共股权私募投资（PIPE）和远期股份购买协议（FPA），交易募集款项将主要用于加速品牌增长以及满足未来收购需要，以进一步强化和丰富现有品牌组合。</p> 
+<p>本次交易募集总金额预计最高达5.44亿美元，其中包括信托账户的4.14亿美元现金，以及来自复星国际有限公司、伊藤忠商事株式会社、九兴控股、宝尊电商、Golden A&A、AspexMaster Fund、Sky Venture Partners L.P.等共计1.3亿美元全额承诺的公共股权私募投资（PIPE）和远期股份购买协议（FPA），交易募集款项将主要用于加速品牌增长以及满足未来收购需要，以进一步强化和丰富现有品牌组合。</p> 
 <p>值得一提的是，本次交易设置了一个拥有360万股合并公司股份的奖励池，将按比例分配予未赎回的PCAC股东。奖励池中的所有股份将由复星国际和Primavera Capital Acquisition LLC（PCAC的发起人）提供。</p> 
 <h2><strong>复星控股，“张小斐同款”带火了Lanvin</strong></h2> 
 <p>对于Lanvin这个品牌，相信很多人都不陌生。2022年春晚，张小斐的蓝绿色大衣被网友瞬间种草，而该大衣的所属品牌正是Lanvin。在张小斐的“春晚带货”下，Lanvin迅速火爆出圈。</p> 
@@ -34,13 +34,13 @@ thumbnail: 'https://picsum.photos/400/300?random=5026'
 <h2> </h2> 
 <p>近两年，SPAC上市模式大火。特别是在美股市场，更是成为了投资新宠，各界名流纷纷参与到了SPAC盛宴当中。据统计，2021年，美国市场IPO数量达到了1033起，其中SPAC数量为613，占比一半以上。</p> 
 <p>伴随SPAC在港股市场的推进，港股也迎来了一股SPAC上市申请的热潮，一众VC/PE纷纷入局，包括招银国际、春华资本、嘉御资本、莱恩资本、泰欣资本、龙石资本等。其中，春华资本与农银国际联合发起的Interra AcquisitionCorporation，标的目标为大中华区从事创新科技、消费及新零售、高端制造、医疗健康及气候行动等领域的高增长型公司。</p> 
-<p>作为一家管理规模约为170亿美元的老牌PE基金，连续两次布局SPAC，春华资本无疑看中了SPAC强劲且乐观的发展势头。春华资本合伙人，PCAC董事长、首席执行官兼<a class="project-link" data-id="141812" data-name="首席财务官" data-logo="https://img.36krcdn.com/20210808/v2_58ad5ec179d6426bbef935cdb4e7f751_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/141812" target="_blank">首席财务官</a>陈桐表示，SPAC 作为一种上市融资的途径有其独特的优势。相比传统的IPO，SPAC过程更简单、耗时更短、成本更低、定价更有确定性。并且，对于投资者而言，SPAC加速了上市流程，也带来了IPO之外的市场增量，这为投资者提供了更为多样化的风险回报产品选择。</p> 
+<p>作为一家管理规模约为170亿美元的老牌PE基金，连续两次布局SPAC，春华资本无疑看中了SPAC强劲且乐观的发展势头。春华资本合伙人，PCAC董事长、首席执行官兼首席财务官陈桐表示，SPAC 作为一种上市融资的途径有其独特的优势。相比传统的IPO，SPAC过程更简单、耗时更短、成本更低、定价更有确定性。并且，对于投资者而言，SPAC加速了上市流程，也带来了IPO之外的市场增量，这为投资者提供了更为多样化的风险回报产品选择。</p> 
 <p>在陈桐看来，SPAC能否成功的关键在于SPAC发起人的能力，发起SPAC的过程也是PE试水和展示资源能力的过程。言外之意，SPAC前提要能并购到优质的目标标的，这与VC/PE所有的资源能力密切相关。</p> 
 <p>而此次之所以选择复朗集团，一方面是春华资本认为随着中产阶级群体的规模扩大及消费升级的意识攀升，奢侈品行业已成为全球最具发展潜力和增长最快的行业之一，特别是在亚洲，奢侈品行业的增长尤为强劲；另一方面，春华资本还看中了复朗集团富有创新和企业家精神的管理团队。“其团队制定了去中心化和颇具灵活性的‘双引擎’战略（充分捕捉相对成熟的欧美市场与快速发展的亚洲市场），使集团旗下品牌能够满足不同市场的差异性，并在全球范围内吸引最具创意的人才和最高效的管理团队。”陈桐表示。</p> 
 <p>上市后，在具体持股方面，复朗集团原股东团队占比65%，SPAC股东占比 28%，FPA占比 5%，PIPE 投资人占比 3%。</p> 
 <p>需要指出的一点是，春华资本发起的PCAC会在合并公司董事会中占有一个董事会席位。并且，春华资本不会派人进入管理层，也不会干预企业的日常运营。“我们对公司的现有管理层非常有信心，专业的事交给专业的人去做。”</p> 
 <p>不过，基于过往在消费零售行业丰富的投资和服务经验，春华资本也会为复朗集团带来相关的增值服务，比如在公司收并购方面更专业的建议，以及通过与科技及企服领域被投的联动，为复朗集团提供优化经营管理、扩展渠道、开展数字化营销等多方面的赋能。</p> 
 <p>“我们一直在寻找机会支持一家在消费领域既具备长久全球吸引力，又富有亚洲新兴增长潜力的领军公司。复朗集团正是这样一家独特的企业。复朗与春华有着培育和重振世界级奢侈品牌的共同愿景和相似理念。我们期待着双方携手合作，共同发展复朗的全球化平台，推动其旗下品牌的可持续增长。”陈桐表示。</p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzI4MjYxMTYyNA==&mid=2247501298&idx=1&sn=444390b98657dcee363a605035a1770c&chksm=eb95df35dce25623d1eb628bdbd224f4032c7fe987893dcc11b792eab429bbc66d07b1ad5f2e#rd">“东四十条资本”（ID：DsstCapital）</a>，作者：马慕杰，36氪经授权发布。</p>  
+<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzI4MjYxMTYyNA==&mid=2247501298&idx=1&sn=444390b98657dcee363a605035a1770c&chksm=eb95df35dce25623d1eb628bdbd224f4032c7fe987893dcc11b792eab429bbc66d07b1ad5f2e#rd">“东四十条资本”（ID：DsstCapital）</a>，作者：马慕杰，36氪经授权发布。</p>  
 </div>
             
