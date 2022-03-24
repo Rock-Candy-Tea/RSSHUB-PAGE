@@ -1,0 +1,19 @@
+
+---
+title: 'AMD承诺FSR 2.0也可帮助Xbox和部分英伟达显卡提升游戏帧率'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0324/9ac379124c74b09.jpg'
+author: cnBeta
+comments: false
+date: Thu, 24 Mar 2022 03:39:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0324/9ac379124c74b09.jpg'
+---
+
+<div>   
+上周，AMD 承诺带来一项可将游戏提升到更高分辨率、或更高帧速率的新技术，而无需像竞争对手英伟达那样搞基于 GPU 硬件的花里胡哨的深度学习超级采样（DLSS）解决方案。<strong>在周三的 GTC 2022 开发者大会上，红队正式介绍了第二代 FidelityFX Super Resolution 方案（简称 FSR 2.0）。</strong>更棒的是，这项技术也将造福于 Xbox 玩家和英伟达显卡用户。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0324/9ac379124c74b09.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p>尽管 AMD 未给出 FSR 2.0 将于何时向 <a data-link="1" href="https://microsoft.pvxt.net/e4yLO" target="_blank">Xbox</a> 开发者推送新版 Xbox GDK，但至少承诺了这项技术会在<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>主机平台上得到完全支持。</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/291cb1e0a3ed7fb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/291cb1e0a3ed7fb.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>AMD 还贴心地为开发者社区列出了一份表格，上面写明了可获得 FSR 2.0 优化的 AMD / 英伟达硬件型号。</p><p><img src="https://static.cnbetacdn.com/article/2022/0324/40ea01f16a6c91d.jpg" alt="8.jpg" referrerpolicy="no-referrer"></p><p>如果你拥有绿厂 GeForce GTX 1070、红队 Radeon RX 590 / RX 6500 XT 及以上规格的显卡，便可在启用 FSR 2.0 的情况下获得畅爽的 1080p 游戏体验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/aada429a6edefaf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/aada429a6edefaf.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>不过大家最困惑的是，既然没有像英伟达那样使用基于 GPU 硬件的 DLSS 方案，AMD 又是如何在《Deathloop》等要求苛刻的游戏中，将高分辨率下的运行帧率提升一倍的呢？</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/904e8c6fda8dc00.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/904e8c6fda8dc00.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>简而言之，只有在显卡性能相对强大的情况下，FSR 2.0 才能流畅带动高要求的游戏。尽管 FSR 2.0 算法本身相当优秀 —— 官方演示案例中的延迟都在 1.5 ms 以下 —— 但它毕竟是需要耗费一定的时间去运行的。</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/5293434a56151cf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/5293434a56151cf.jpg" alt="9.jpg" referrerpolicy="no-referrer"></a></p><p>据悉，在短短的 1.5 ms 时间内，FSR 2.0 需要完成各式各样的任务 —— 包括通过计算运动向量，来取代完整的时间抗锯齿通道（消除画面边缘的锯齿）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/fe92a74aedd3322.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/fe92a74aedd3322.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>还有重新投影帧（以消除抖动）、创建遮蔽遮罩（与下一帧逐帧比较有哪些移动，以消除重影效果）、将细小的特征锁定在适当的位置（例如楼梯和细电线等难以留意到的边缘），以及防止颜色漂移并锐化整个图像等。</p><p><a href="https://static.cnbetacdn.com/article/2022/0324/8e229577b80185d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/8e229577b80185d.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>与 FSR 1.0 版本相比，FSR 2.0 还需要游戏开发者更加投入其中，所以别指望随便哪款游戏都会很快用上它 —— 目前已知的有《Deathloop》和《Forspoken》（同时也是微软 DirectStorage 直接存储演示项目的一员）。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=335495041&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: center;">AMD FidelityFX Super Resolution 2.0 First Look in DEATHLOOP（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzM1NDk1MDQxLnNodG1s.html" target="_self">via</a>）</p><p>最后，对于已经支持英伟达 DLSS 的游戏开发商，应该很容易上手部署 FSR 2.0，据说只需几天工作即可集成、并且基于虚幻 4 和虚幻 5 引擎打造的游戏也有款实用插件来轻松生效。</p>   
+</div>
+            

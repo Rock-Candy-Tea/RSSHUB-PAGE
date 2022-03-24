@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?v=1648093904569'
 author: 巴哈姆特
 comments: false
-date: 2022-03-24 04:12:56
+date: 2022-03-24 05:09:43
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?v=1648093904569'
 ---
 
@@ -18,13 +18,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.
 <div>
 <div>
 <div>
-　　獨立遊戲研發團隊 Merge Games 此次在 2022 遊戲開發者大會（GDC）中，公開旗下在以迷你生物角度進行大規模的探險遊戲《SMALLAND》的最新宣傳影片。</div>
+　　獨立遊戲研發團隊 Merge Games 此次在 2022 遊戲開發者大會（GDC）中，公開旗下在以迷你生物角度進行大規模的 PC 探險遊戲《SMALLAND》的最新宣傳影片。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?v=1648093904569" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?v=1648093904569" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/f8e398c8cb5452313e7f21547b1foq65.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
