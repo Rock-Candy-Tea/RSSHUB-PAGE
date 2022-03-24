@@ -1,0 +1,21 @@
+
+---
+title: 'GNOME 42今天发布：加速从Wayland迁移到GTK4'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0324/3391bfcfa46d192.webp'
+author: cnBeta
+comments: false
+date: Thu, 24 Mar 2022 00:01:10 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0324/3391bfcfa46d192.webp'
+---
+
+<div>   
+<strong>GNOME 42 于今天正式发布。</strong>作为目前 Linux 行业内接受度比较高的桌面环境之一，本次半年度更新在优化现有功能的基础上，为 GNOME Shell/Mutter 和应用程序引入了各种各样的新功能。各种 GNOME 组件也迁移到 GTK4 工具包上。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0324/3391bfcfa46d192.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0324/95b17ed2fd7dcd2.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0324/1c8d13bc022ad7a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0324/1c8d13bc022ad7a.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0324/0895ca8a068efec.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0324/982662b442b8482.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">GNOME 42 的亮点内容如下</p><blockquote style="text-align: left;"><p style="text-align: left;">- 支持输入事件以全速发生，而不是仅限于显示器的刷新率。</p><p style="text-align: left;">- Mutter 现在考虑 Wayland sub-<a data-link="1" href="https://microsoft.pvxt.net/9W473" target="_blank">Surface</a>s 的直接扫描能力。</p><p style="text-align: left;">- 支持 Wayland DMA-BUFF 缓冲区反馈扩展，以改善对多 GPU 的支持，并优化直接扫描处理。</p><p style="text-align: left;">- 支持 Mutter 的保持手势。</p><p style="text-align: left;">- 许多 GNOME Shell 和 Mutter 的变化，包括新的截图/截屏 UI、对暗色壁纸的支持、改进的 XWayland 自动终止处理、DRM 隐私屏幕支持，以及更多。</p><p style="text-align: left;">- GDM 登录管理器有针对 NVIDIA Wayland 支持的 udev 更新。</p><p style="text-align: left;">- GNOME 的 Epiphany 网页浏览器已经更新了其绑定的 PDF.js 和 readability.js 代码。Epiphany 网页浏览器现在也支持系统的黑暗偏好，更新了其捆绑的 PDF.js，有内存泄漏的修复，现在总是启用其加速合成模式，并有其他改进。Epiphany还为转移到GTK4做了准备。</p><p style="text-align: left;">- GJS 已经针对 SpiderMonkey 91 进行了更新，因此现在支持许多新的 JavaScript 特性。</p><p style="text-align: left;">- Glib 增加了一个异步文件移动 API。</p><p style="text-align: left;">- 包括了新的默认和补充的浅色和深色变体壁纸。</p><p style="text-align: left;">- GNOME 蓝牙现在为支持的蓝牙设备输出电池信息。</p><p style="text-align: left;">- GNOME 日历已被移植到 GTK4。</p><p style="text-align: left;">- GNOME 桌面为缩略图的创建增加了异步方法。</p><p style="text-align: left;">- GNOME 软件对其黑暗主题和各种 UI 的更新进行了改进。GNOME 软件还更新了各种用户界面元素，提供了更多关于系统更新进度的信息，允许搜索扩展，在特色旋转木马中添加了新的 GNOME Circle 应用程序，改进了对 Snaps 的元数据支持，以及其他改进。</p><p style="text-align: left;">- Nautilus 文件管理器改进了文件重命名用户界面的设计，改进了文件冲突用户界面的视觉效果，支持按文件创建时间搜索，为最近的文件添加压缩档案，并移植到 GTK4。Nautilus 文件管理器也增加了对黑暗模式设置的支持。</p><p style="text-align: left;">- GNOME Builder 为这个集成开发环境增加了一个 BuildStream 插件、Rubucop 支持、一个实验性的 Clangd 插件、Clang-Format 集成、语言服务器协议处理的改进、对 Intelphense 和 Blueprint 语言服务器的支持，以及其他各种改进。</p><p style="text-align: left;">- Baobab磁盘使用分析器已被移植到GTK4和libadwaita。</p><p style="text-align: left;">- 用于虚拟化的 GNOME Boxes 引入了一个新的首选项对话框，将一些部件移植到 libhandy，以及其他改进。</p><p style="text-align: left;">- 其他移植到 GTK4 工具包的 GNOME 程序包括 GNOME 字体查看器、GNOME 音乐、GNOME 旅游、GNOME 时钟、GNOME 蓝牙和 GNOME 天气。</p><p style="text-align: left;">- GNOME Calls 现在允许 SIP 供应商处理"tel"URI。在通话中还支持从通话历史中添加联系人。GNOME 通话现在可以在通话记录和通话显示中显示头像。</p></blockquote><p style="text-align: left;">各大 Linux 发行版本将会陆续跟进 GNOME 42。如果你希望今天就体验到新版本桌面，可以访问 Fedora 36 Beta 或者 openSUSE nightly live 镜像：</p><p style="text-align: left;"><a rel="nofollow" href="https://www.gnome.org/getting-gnome/">https://www.gnome.org/getting-gnome/</a></p><p style="text-align: left;"><a rel="nofollow" href="https://download.opensuse.org/repositories/GNOME:/Medias/images/iso/">https://download.opensuse.org/repositories/GNOME:/Medias/images/iso/</a></p><p style="text-align: left;">该网站也在提供官方安装程序镜像，用于调试和测试
+特点。这些镜像是用来在虚拟机中安装的，需要
+支持UEFI的GNOME Boxes。官方建议从flathub获取：</p><p style="text-align: left;"><a rel="nofollow" href="https://download.gnome.org/gnomeos/42.0/gnome_os_installer_42.0.iso">https://download.gnome.org/gnomeos/42.0/gnome_os_installer_42.0.iso</a></p>   
+</div>
+            
