@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.JPG?v=1648107389518'
 author: 巴哈姆特
 comments: false
-date: 2022-03-24 08:12:04
+date: 2022-03-24 09:10:44
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.JPG?v=1648107389518'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/be99f3cf2e4eff579f1fefa6391fozz5.
 <div>
  </div>
 <div>
-　　獨立遊戲節頒獎典禮與遊戲開發者優選獎頒獎典禮為遊戲開發者大會 2022 活動的一部份，在歷經疫情過後今年重返舊金山舉辦，並在同一個舞台接連舉辦頒獎。而採用獨特風格呈現毛骨悚然氛圍、基於隨機建構牌組為設計並融入心理恐怖、密室逃脫解謎等要素的策略遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B3%AD%E5%91%BD%E7%89%8C%E5%8D%A1" target="_blank">賭命牌卡</a>》在此次同時獲得了 GDCA 年度遊戲大獎、IGF 的塞尤瑪斯·麥克納利大獎肯定。</div>
+　　獨立遊戲節（IGF）頒獎典禮與遊戲開發者優選獎（GDCA）頒獎典禮為遊戲開發者大會 2022 活動的一部份，在歷經疫情過後今年重返舊金山舉辦，並在同一個舞台接連舉辦頒獎。而採用獨特風格呈現毛骨悚然氛圍、基於隨機建構牌組為設計並融入心理恐怖、密室逃脫解謎等要素的策略遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B3%AD%E5%91%BD%E7%89%8C%E5%8D%A1" target="_blank">賭命牌卡</a>》在此次同時獲得了 GDCA 年度遊戲大獎、IGF 的塞尤瑪斯·麥克納利大獎肯定。</div>
 <div>
  </div>
 <div>

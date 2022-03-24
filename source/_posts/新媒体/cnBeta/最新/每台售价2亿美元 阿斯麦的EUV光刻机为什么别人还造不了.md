@@ -1,0 +1,19 @@
+
+---
+title: '每台售价2亿美元 阿斯麦的EUV光刻机为什么别人还造不了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/01/491cbf36102f9ba.jpg'
+author: cnBeta
+comments: false
+date: Thu, 24 Mar 2022 08:12:23 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/01/491cbf36102f9ba.jpg'
+---
+
+<div>   
+<strong>3月24日消息，在荷兰南部靠近比利时边境的维尔德霍温镇，坐落着全世界唯一一家能够组装EUV（极紫外）光刻机的工厂。</strong>世界上最大的芯片制造商们都需要这种设备。在生产处理器芯片的过程中，EUV光刻机最昂贵。目前全世界只有阿斯麦（ASML）能制造出EUV光刻机。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/01/491cbf36102f9ba.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/01/491cbf36102f9ba.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">美国塔夫茨大学弗莱彻学院助理教授克里斯·米勒(Chris Miller)表示：“阿斯麦在制造EUV光刻机方面拥有市场垄断地位。EUV光刻机是最先进的光刻设备，我们今天使用的每一块先进处理器芯片都需要这种设备。”“他们生产的每一台机器都是有史以来最复杂的设备之一。”</p><p style="text-align: left;">EUV是极紫外线的缩写。阿斯麦生产的EUV光刻机可以大量产生这种波长极短的光，用于在微芯片上打印细小而复杂的图案。熔融锡在极快速度下发生微小爆炸，从而产生极紫外线，然后通过蔡司最平坦的镜面反射回来。一小部分EUV光粒子照射到硅片表面，按照芯片设计蚀刻图案。</p><p style="text-align: left;">由于全球范围内的芯片短缺问题，从游戏机到汽车等产品的订单积压，整个芯片制造行业对阿斯麦EUV光刻技术的需求大幅上升。自2018年底以来，阿斯麦股价已经飙升逾340%，这使得阿斯麦的市值超过<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>等一些顶级客户。</p><p style="text-align: left;">阿斯麦首席执行官彼得·温宁克（Peter Wennink）表示，自38年前公司成立以来，公司一直在降低芯片制造价格，并将在“未来几十年”继续这样做。</p><p style="text-align: left;">“世界需要更多的芯片，”温宁克表示。“所以我们需要制造更多的机器，顺便说一句，只要我们能降低单个晶体管的制造成本，这些机器的平均销售价格就会持续增长。”</p><p style="text-align: left;">尽管如此，温宁克表示，全球芯片短缺问题对阿斯麦来说也是挑战。</p><p style="text-align: left;">“我们收到很多来自供应商的信息，他们说，‘我们可能会推迟向你们交付模块，因为我们无法获得芯片。’我们则说，‘如果我们得不到芯片，我们就不能制造出能生产更多芯片的机器。’”</p><p style="text-align: left;">温宁克说，这对阿斯麦来说已经是常态化问题。</p><p style="text-align: left;"><strong>2亿美元的机器</strong></p><p style="text-align: left;">据温宁克说，在过去的十年时间里，阿斯麦总共售出大约140套EUV光刻机，现在每一套系统的成本高达2亿美元。其新一代高数值孔径（High NA）光刻机的价格将超过3亿美元。</p><p style="text-align: left;">市场研究公司Semico Research的芯片制造行业分析师乔安妮·伊托(Joanne Itow)表示，阿斯麦的EUV光刻机“太贵了，大多数公司都买不起”。她说：“这肯定把很多厂商赶出了市场。”由于成本太高，芯片制造商格芯在几年前就决定停止生产更先进的芯片。</p><p style="text-align: left;">如今，阿斯麦只向五家芯片制造商出售这种机器。2021年，台积电、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>和英特尔这三家芯片制造商占阿斯麦业务的近84%。台积电表示，其在2019年率先大批量交付使用EUV光刻机制造的芯片。自那以来，台积电一直处于领先地位，芯片制造技术至少比三星和英特尔领先一个工艺节点。</p><p style="text-align: left;">阿斯麦建立市场主导地位的时间相对较短。十年前，英特尔、三星以及台积电的重大投资对阿斯麦研究EUV光刻机起到了决定性的作用。</p><p style="text-align: left;">“当时我们没有钱，”1999年加入阿斯麦的温宁克回忆道。“所以我们出去寻找合作伙伴，这实际上是我们建立公司的基础。所以我们是被迫成了系统架构师和系统集成商。”</p><p style="text-align: left;">时间追溯到1984年，当时的阿斯麦是飞利浦子公司。在荷兰埃因霍温飞利浦办公大楼旁边一间漏水的小房子里，阿斯麦推出第一台用于蚀刻芯片的光刻机。这种机器是20世纪50年代在美国实验室发明问世的。</p><p style="text-align: left;">阿斯麦的EUV光刻机执行副总裁克里斯多夫·富凯（Christophe Fouquet）说：“第一台光刻机看起来就像一台投影仪。“简单说，机器上有个用来保存你想要投射图案的光罩，然后用一套光学系统把图像投射到晶圆上。”</p><p style="text-align: left;">到1988年，阿斯麦在美国已经有5个办事处，84名员工，在荷兰维尔德霍温设立了一个新的办事处，最终这里也成为阿斯麦的总部。</p><p style="text-align: left;">“在整个行业准备研究EUV光刻机的早期阶段，没有哪一个美国公司愿意冒险尝试，只有阿斯麦做到了。”科技行业作家米勒说，“阿斯麦是一家荷兰公司，但也是一家严重依赖美国零部件的荷兰公司，其光刻机尤为如此。”</p><p style="text-align: left;"><strong>全球供应链</strong></p><p style="text-align: left;">EUV光刻机由来自全球近800家供应商的多个模块和数十万个零部件组成。每个模块都在阿斯麦遍布全球的60个工厂中完成生产，然后运往维尔德霍温进行组装。每台组装好的机器经过测试后，再拆解运往芯片制造商。运输一套EUV光刻机需要20辆卡车，或者三架满载的波音747飞机。</p><p style="text-align: left;">在EUV光刻机出现之前，芯片制造商可以从阿斯麦、尼康和佳能这三家公司处购买DUV（深紫外）光刻机。虽然日本尼康仍是阿斯麦在DUV光刻机市场的主要竞争对手，但想要买EUV光刻机只能找阿斯麦。专家表示，其他公司可能需要几十年时间才能赶上，一方面是因为阿斯麦拥有专有技术，另一方面是因为它与数百家供应商达成了往往是独家的复杂合作协议。</p><p style="text-align: left;">“我们对一些客户来说是独一无二的，一些供应商对我们来说也是独一无二的，”温宁克说。“有些人说，这种近乎共生的关系比结婚还要糟糕，因为你不能离婚。”</p><p style="text-align: left;">阿斯麦让自身免受供应链风险影响的一种方式是收购部分供应商，比如公司于2012年收购了位于圣地亚哥的光源制造商Cymer，还在2020年收购了光学模组公司Berliner Glas。虽然今年1月份Berliner Glas位于德国柏林的工厂发生了一场火灾，但温宁克说，这次事故不会对今年交付设备造成重大影响。</p><p style="text-align: left;">阿斯麦预计，2022年公司销售额将增长20%；到本世纪20年代末，公司年营收将增长11%。</p>   
+</div>
+            
