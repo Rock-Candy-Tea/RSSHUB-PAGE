@@ -1,0 +1,31 @@
+
+---
+title: 'AI 智能自动生成短视频软件, 批量制作自媒体短视频利器 - 万彩微影, 送会员激活码'
+categories: 
+ - 新媒体
+ - 异次元软件世界
+ - 首页
+headimg: 'https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/wcwy.jpg'
+author: 异次元软件世界
+comments: false
+date: Mon, 21 Mar 2022 17:19:46 GMT
+thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/wcwy.jpg'
+---
+
+<div>   
+<ul id="link1111"><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5352">刷新史低！三星 970 Plus 2T 固态硬盘</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p>大家都知道现在短视频非常的火爆，很多朋友通过把短视频发到抖音以及其他短视频平台赚取了丰厚的卖货佣金 / 播放收益，还有传播吸粉。</p><p>这些<a href="https://www.iplaysoft.com/tag/%E8%A7%86%E9%A2%91" target="_blank" rel="noopener">视频</a>一般是这样的形式：动画手绘、文字字幕翻转，简单的照片视频，还有一些原来的文章自媒体博主想要转战短视频，或者同时发短视频，希望能把文章变成视频形式？以上提到的，只需一款软件即可解决，那就是——<strong>万彩微影</strong>！</p><p style="text-align: center;">「<span style="color: #ff6600;">限时免费：领取特别版激活码，先到先得</span>」</p><h3>简单好用的自动生成短视频 / 图文转视频工具</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
+  </div></div><div class="clear"></div><p>「<a href="http://www.animiz.cn/microvideo/?utm_source=iplaysoft.com&hmsr=iplaysoft.com" target="_blank" rel="noopener">万彩微影</a>」是一款AI智能全自动生成短视频的工具合集，包括图文动画视频制作工具、抖音手绘视频制作工具、文字视频制作工具、照片视频制作工具、自动剪辑工具。</p><p><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/wcwy.jpg" alt="万彩微影激活注册码" width="680" height="425" referrerpolicy="no-referrer"></p><p>其实日常制作一个视频还是要花很多时间的，但是想要通过短视频赚钱，就需要持续、大量的创作，提高爆流量的概率。而万彩微影，它作为一个人工智能的短视频创作工具，可以帮你简化制作过程，提高制作<a href="https://www.iplaysoft.com/tag/%E6%95%88%E7%8E%87" target="_blank" rel="noopener">效率</a>，节省时间成本！</p><h4>万彩微影软件截图：</h4><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/wcwy_screenshot.jpg" alt="万彩微影软件截图" width="680" height="461" referrerpolicy="no-referrer"></p><div class="imglist" id="iscroll"><table cellpadding="0" cellspacing="0"><tbody><tr align="center"><td><div><a rel="colorbox1" target="_blank" href="https://files.animiz.cn/web/mvideo/images/2021/2021112202.gif"><img style="height:auto;max-height:500px;_width:expression(this.width>650?650:true);" alt=" " src="https://files.animiz.cn/web/mvideo/images/2021/2021112202.gif" class="lazyload" referrerpolicy="no-referrer"></a></div></td><td><div><a rel="colorbox1" target="_blank" href="https://files.animiz.cn/web/mvideo/images/2021/2021112204.gif"><img style="height:auto;max-height:500px;_width:expression(this.width>650?650:true);" alt=" " src="https://files.animiz.cn/web/mvideo/images/2021/2021112204.gif" class="lazyload" referrerpolicy="no-referrer"></a></div></td><td><div><a rel="colorbox1" target="_blank" href="https://files.animiz.cn/web/mvideo/images/2021/2021112203.gif"><img style="height:auto;max-height:500px;_width:expression(this.width>650?650:true);" alt=" " src="https://files.animiz.cn/web/mvideo/images/2021/2021112203.gif" class="lazyload" referrerpolicy="no-referrer"></a></div></td><td><div><a rel="colorbox1" target="_blank" href="https://files.animiz.cn/web/mvideo/images/2021/2021112205.gif"><img style="height:auto;max-height:500px;_width:expression(this.width>650?650:true);" alt=" " src="https://files.animiz.cn/web/mvideo/images/2021/2021112205.gif" class="lazyload" referrerpolicy="no-referrer"></a></div></td></tr></tbody></table></div>  <h3>万彩微影目前包括四大功能模块：</h3><h4>1、图文动画视频制作工具 （把文章转成短视频）</h4><p>如果你采集到很多文章，那使用这个「<strong>文章转视频功能</strong>」即可伪原创为视频！<br>
+只需要简单复制粘贴文字，系统会自动编排你的文字信息及图片信息并自动加入配音及字幕，配以各种转场动画，生成生动有趣的解说视频。</p>  <h4>2、手绘视频制作工具（集成原万彩手影大师的全部功能）</h4><p>大家在抖音上看到的很火的手绘视频，就可以用它来制作。<br>
+简单四步操作：添加<a href="https://www.iplaysoft.com/tag/%E7%B4%A0%E6%9D%90" target="_blank" rel="noopener">素材</a>——添加动作动画——配音与字幕——输出与分享。</p>  <h4>3、文字视频制作工具（集成原万彩字影大师的全部功能）</h4><p>大家在抖音上看到的很火的<span style="color: #ff6600;"><strong>文字字幕翻转视频</strong></span>，就可以用它来制作。<br>
+输入文字即可生成翻转、快闪效果的文字动画，轻松打造自媒体文字动画视频。</p>  <h4>4、照片视频工制作工具</h4><p>导入照片一键生成精彩视频大片、MV，还有多种滤镜、动画特效，让你的视频更出彩。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/mv.png" alt="生成视频 MV" width="680" height="379" referrerpolicy="no-referrer"></p><p>万彩微影官方还表示，未来还将加入更多的模块，打造全方位的自媒体短视频应用。</p><h3 class="h3red">福利来了！限时送特别版会员激活码：</h3><div style="border: 2px solid;border-radius:8px; padding: 0 12px; box-sizing: border-box;border-color:#ff7d60"><p>这次为大家向官方争取到了 3个月<strong>万彩微影特别版</strong>福利！<br>
+在 <strong>2022 年 04 月 15日</strong>前，添加下面的官方客服微信号 ↓↓，即可免费领取。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/wcwy/kf_qr_v3.png" alt="客服二维码" width="198" height="198" referrerpolicy="no-referrer"></p><p>注意：所有的万彩产品免费领取激活码/会员的活动，1人只能领取一次哦。</p><p>万彩微影软件官方下载地址：<a href="https://www.animiz.cn/microvideo/download/?utm_source=iplaysoft.com&hmsr=iplaysoft.com" target="_blank" rel="noopener">http://www.animiz.cn/microvideo/download/</a><br>
+(需电脑打开下载，它是个电脑软件)</p></div><div id="post_download" class="entry-dl-area"><h3 class="entry-dl-area-head"><span class="h3_icon ipsicon ipsicon-download ipsicon-rspace"></span>相关文件下载地址</h3><p>官方网站：<a href="http://www.animiz.cn/microvideo/?utm_source=iplaysoft.com&hmsr=iplaysoft.com" target="_blank" rel="noopener">访问</a><br>
+软件性质：免费</p><p><a href="https://dl.iplaysoft.com/files/5421.html" target="_blank" rel="noopener">下载万彩微影 (Windows)</a>  |  <a href="https://www.iplaysoft.com/tag/%E8%A7%86%E9%A2%91" target="_blank" rel="noopener">更多视频相关</a></p></div>  
+</div>
+            

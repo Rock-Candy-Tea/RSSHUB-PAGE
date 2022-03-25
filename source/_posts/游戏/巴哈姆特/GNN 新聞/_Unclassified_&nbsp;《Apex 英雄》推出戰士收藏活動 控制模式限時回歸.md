@@ -1,0 +1,18 @@
+
+---
+title: '_Unclassified_&nbsp;《Apex 英雄》推出戰士收藏活動 控制模式限時回歸'
+categories: 
+ - 游戏
+ - 巴哈姆特
+ - GNN 新聞
+headimg: 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-43-52-pm.png.adapt.1920w.png'
+author: 巴哈姆特
+comments: false
+date: 2022-03-25 09:10:35
+thumbnail: 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-43-52-pm.png.adapt.1920w.png'
+---
+
+<div>   
+<div>　　EA 和 Respawn Entertainment 近期宣佈了《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D103795" target="_blank">Apex 英雄</a>》即將於 3 月 29 日 起至 4 月 12 日止舉辦的戰士收藏活動，活動內容包含「控制」模式的限時回歸、全新競技場地圖、暗碼士傳家寶和多種造型。同時，控制模式也將新增王者峽谷中的「腐蝕處理廠」區域作為新地圖。</div><div><div class="videoWrapper video-youtube"><iframe class="lazyload" style="z-index:0;" src="https://www.youtube.com/embed/5OUu_p16oe0?wmode=transparent" frameborder="0" allowfullscreen></iframe></div></div><hr><div>　　本次活動在控制模式與競技場模式中各加入了一張新地圖，其中控制模式是由王者峽谷當中的腐蝕小鎮侵略「腐蝕處理廠」作為基礎。</div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-43-52-pm.png.adapt.1920w.png" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div>　　除了新增各式各樣的物件以配合控制點模式所需的平衡調整和移動手法外，玩家也可以在腐蝕處理廠中透過 B 控制點內的可互動物件來提升毒素濃度，讓意圖進攻 B 控制點的玩家受到傷害。</div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-3-1-2022-5-49-19-pm.png.adapt.1920w.png" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div>　　而競技場模式中新增的地圖 <b>Drop-Off</b> 則改編自奧林匹斯，該地圖為漢蒙機器人公司旗下的大樓，在遊戲中會分為內部和外部，內部動線又細分為觀察甲板和運輸線，而外部則為裝配港。</div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-screenshots-s12-e01-warriors-dropoff-c-clean.png.adapt.1456w.png" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div>　　值得注意的是，運輸線上有無數個隨其移動的貨櫃，讓玩家可以將其視作移動式的掩體，為戰鬥帶來更刺激的變數。</div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/apex-legends-screenshots-s12-e01-warriors-dropoff-a-clean.png.adapt.1920w.png" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><hr><div>　　戰士收藏活動帶來了大量的獎勵與可自訂項目，這次活動提供 24 項主題化、限時的物品，這些造型能夠透過 Apex 硬幣或是合成金屬換購。</div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/warriors-ce-prize-track-v2.jpg.adapt.1920w.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div><font size="3">　　隨著活動的開展，暗碼士的專屬傳家寶 </font><b><font size="3">Biwon Blade </font></b><font size="3">也一同亮相。在活動內集齊全 24 款物品，即可解鎖傳家寶。</font></div><div><img src="https://i.imgur.com/LzMxO7k.png" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><hr>　　本次活動商店隨著週次提供不同的可購買項目，而蕾帕特與腐蝕均有專屬套組於活動內全程發售。<div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/warriors-blog-week-1-calendar-v1.jpg.adapt.1920w.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div><img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/warriors-collection-event/warriors-blog-week-2-calendar-v1.jpg.adapt.1920w.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div>  
+</div>
+            

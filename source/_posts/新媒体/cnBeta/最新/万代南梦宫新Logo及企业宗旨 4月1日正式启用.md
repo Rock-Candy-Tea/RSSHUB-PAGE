@@ -1,0 +1,19 @@
+
+---
+title: '万代南梦宫新Logo及企业宗旨 4月1日正式启用'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0325/272025313734351.jpg'
+author: cnBeta
+comments: false
+date: Fri, 25 Mar 2022 08:35:35 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0325/272025313734351.jpg'
+---
+
+<div>   
+今日（3月25日），万代南梦宫中国官方微博宣布于2022年4月1日正式启用新企业宗旨“Fun for All into the Future（万千乐趣向未来）”以及全新红色logo，同时公布新Logo宣传片。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0325/272025313734351.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>宣传片：</strong></p><p><iframe src="https://player.youku.com/embed/XNTg1NDY0ODk1Mg?client_id=5a73c0df8eb0d91d" allowfullscreen width="750" height="480" frameborder="0"></iframe></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0325/31b148d593091ae.jpg" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>视频截图：</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/edd4d6d4fb290a2.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/edd4d6d4fb290a2.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/edd4d6d4fb290a2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/43e52bcda040dc0.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/43e52bcda040dc0.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/43e52bcda040dc0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/58ef46d247ad6d4.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/58ef46d247ad6d4.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/58ef46d247ad6d4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/8ba67a2dbd5f547.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/8ba67a2dbd5f547.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/8ba67a2dbd5f547.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/4d886571a5e6eeb.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/4d886571a5e6eeb.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/4d886571a5e6eeb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/ce08987111147da.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/ce08987111147da.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/ce08987111147da.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/7b684470d4d2c34.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/7b684470d4d2c34.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/7b684470d4d2c34.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/5b89020b252e092.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/5b89020b252e092.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/5b89020b252e092.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0325/8d1aee0434445aa.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0325/8d1aee0434445aa.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0325/8d1aee0434445aa.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
