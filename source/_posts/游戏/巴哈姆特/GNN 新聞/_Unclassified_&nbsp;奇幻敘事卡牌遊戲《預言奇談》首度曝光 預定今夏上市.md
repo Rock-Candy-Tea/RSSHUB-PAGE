@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/53/f460b2e6040cf35dfcd6d79c2b1fpgl5.JPG?v=1648206130980'
 author: 巴哈姆特
 comments: false
-date: 2022-03-25 11:09:27
+date: 2022-03-25 12:16:30
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/f460b2e6040cf35dfcd6d79c2b1fpgl5.JPG?v=1648206130980'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/f460b2e6040cf35dfcd6d79c2b1fpgl5.
 <div>
 <div>
 <div>
-　　由法國獨立遊戲研發團隊 Alekemi 工作室開發的奇幻敘事卡牌遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A0%90%E8%A8%80%E5%A5%87%E8%AB%87" target="_blank">預言奇談</a>》（Foretales）此次在 2022 遊戲開發者大會（GDC）的 MIX 活動中首度曝光，為玩家呈現這款卡牌遊戲的故事及玩法機制，官方同時宣布遊戲將在 2022 年夏季在 PC Steam 與 Switch 平台上市。</div>
+　　由法國獨立遊戲研發團隊 Alekemi 工作室開發的奇幻敘事卡牌遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A0%90%E8%A8%80%E5%A5%87%E8%AB%87" target="_blank">預言奇談</a>》（Foretales）此次在 2022 遊戲開發者大會（GDC）的 MIX 活動中首度曝光，為玩家呈現這款卡牌遊戲的故事及玩法機制，官方同時宣布遊戲將在 2022 年夏季在 PC Steam 與 Nintendo Switch 平台上市。</div>
 <div>
  </div>
 <div>
