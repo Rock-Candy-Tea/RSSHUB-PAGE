@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/04/5
 ---
 
 <div>   
-<blockquote><p>gif发音为“jif”，而非“吉爱爱夫”</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/04/5d7feefb4b50bbaf486f135791e761c1.jpg!custom" referrerpolicy="no-referrer"><p>据GIF 的主要发明者Stephen Wilhite的妻子Kathaleen 称，Stephen上周因新冠去世，享年 74 岁。他去世时被家人环绕。他的讣告页面指出，“即使他取得了所有成就，他仍然是一个非常谦虚、善良和善良的人。”</p>
+<blockquote><p>gif发音为“jif”，而非“吉爱爱夫”</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/04/5d7feefb4b50bbaf486f135791e761c1.jpg!custom" referrerpolicy="no-referrer"><p>据GIF 的主要发明者Stephen Wilhite的妻子Kathaleen 称，Stephen上周因新冠去世，享年 74 岁。他去世时被家人环绕。他的讣告页面指出，“即使他取得了所有成就，他仍然是一个非常谦虚、善良和友好的人。”</p>
 <p>Stephen Wilhite 在 1980 年代受雇于 CompuServe时，创造了 GIF 或图形交换格式。GIF现在已经是互联网图片社交的主要媒介，用于传播各种笑话，新闻和meme。他在 2000 年代初退休，并把时间花在了旅行、露营和在地下室建造模型火车上。</p>
 <p><strong>发音是‘JIF’，而不是‘GIF’</strong></p>
 <p>尽管 GIF 是当今互联网动画模因的代名词，但这并不是 Wilhite 创建这种格式的原因。 CompuServe 在 1980 年代后期推出了它们，作为一种分发“高质量、高分辨率图形”的彩色方式，当时互联网速度与今天相比还很缓慢。 “他自己发明了 GIF——他实际上是在家里做的，并在完善它后将其投入到工作中。他会一个人在脑海中弄清楚所有细节，然后去城里用电脑编程。”</p>
