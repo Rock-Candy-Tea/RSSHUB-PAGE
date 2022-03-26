@@ -57,7 +57,7 @@ thumbnail: 'https://img.36krcdn.com/20220324/v2_6f93580b26d64ca4b4b2faa12c47614c
 <p><strong>消息称LG新能源与 Stellantis 将在加拿大安大略省建电池工厂。</strong>据外媒报道，一位知情人士称，LG新能源与汽车制造商 Stellantis 公司将在加拿大安大略省建造计划中的新电池厂，两家公司可能在当地时间3月23日正式宣布这一消息。知情人士称，加拿大政府对清洁能源企业的激励措施有利于吸引这些公司在该国建设工厂。</p> 
 <h3><strong>线上分享会（第三期）预告｜出海欧洲机遇解读</strong></h3> 
 <p class="image-wrapper"><img data-img-size-val="2195,1033" src="https://img.36krcdn.com/20220324/v2_6f93580b26d64ca4b4b2faa12c47614c_img_jpeg" referrerpolicy="no-referrer"></p> 
-<p><strong>4</strong>月<strong>21</strong>日（周四）下午<strong>3:00-5:00</strong>，由<strong>36</strong>氪出海旗下高端社群<strong> LET'S CHUHAI CLUB </strong>打造的线上分享会（第三期）活动将以“出海欧洲机遇解读”为主题，围绕欧洲不同国家及市场特点进行解读，探讨出海企业如何规避风险，做好本地化，共同聚焦当下中国企业出海欧洲的机遇与挑战。</p> 
+<p><strong>4月21日（周四）下午3:00-5:00，由36氪出海旗下高端社群 LET'S CHUHAI CLUB 打造的线上分享会（第三期）活动将以“出海欧洲机遇解读”为主题，围绕欧洲不同国家及市场特点进行解读，探讨出海企业如何规避风险，做好本地化，共同聚焦当下中国企业出海欧洲的机遇与挑战。</strong></p> 
 <p>欢迎感兴趣的企业决策者<a target="_blank" rel="noopener noreferrer nofollow" href="http://asia-innovation-resource-programme.mikecrm.com/0VfgI66"><strong>点击链接</strong></a>或扫码填写表单，报名参会。我们将基于话题及行业相关性，针对报名用户筛选。通过筛选的用户，会有专人联系，同步参会链接。</p> 
 <p class="image-wrapper"><img data-img-size-val="222,222" src="https://img.36krcdn.com/20220323/v2_0d4c519ed03344f6ba1501651ea42b54_img_000" referrerpolicy="no-referrer"></p> 
 <p>文｜嘉诚</p> 
