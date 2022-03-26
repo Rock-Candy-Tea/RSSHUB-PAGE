@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/372/026/original/ca4fddd89c1ca507.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/043/373/418/original/d9aeb4520f8e3fc3.jpg'
 author: Mastodon
 comments: false
-date: Sat, 26 Mar 2022 10:46:20 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/372/026/original/ca4fddd89c1ca507.jpeg'
+date: Sat, 26 Mar 2022 12:04:58 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/043/373/418/original/d9aeb4520f8e3fc3.jpg'
 ---
 
 <div>   
-<hr><p>pixivリクエスト（15000円）作品<br>ありがとうございましたン</p><br><img src="https://img.pawoo.net/media_attachments/files/043/372/026/original/ca4fddd89c1ca507.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/372/028/original/f74060cee6c4a526.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/372/030/original/44c041512a4e44c3.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/372/033/original/c820aaf89c514007.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>事案発生以前の創作本「えんじと」当時は頑張ったけど正直…ううう今これ出すのしんどい(´A`；)けどコミケ用借金したくないし・・</p><br><img src="https://img.pawoo.net/media_attachments/files/043/373/418/original/d9aeb4520f8e3fc3.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
