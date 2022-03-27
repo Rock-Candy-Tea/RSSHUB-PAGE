@@ -1,0 +1,18 @@
+
+---
+title: '苹果 iPhone14 Max 首爆，颜值有点高，对此你有哪些期待？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pica.zhimg.com/v2-f56f053ec5d1c57d587001f28c686944_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Sun, 27 Mar 2022 12:01:07 GMT
+thumbnail: 'https://pica.zhimg.com/v2-f56f053ec5d1c57d587001f28c686944_1440w.jpg?source=b1748391'
+---
+
+<div>   
+飘来荡去的回答<br><br><p data-pid="1g76iVUI">能有什么期待，与往年普通的数字旗舰一样，只是把尺寸做大而已。</p><p data-pid="-1Tl6XdE">而且你说这玩意颜值高？</p><p data-pid="jE74xrA0">哪怕P上去个感叹号刘海我都认了，这图就是一放大版的iPhone13，配个加点饱和度的远峰蓝配色，怎么看出来的颜值高？</p><figure data-size="small"><img src="https://pica.zhimg.com/v2-f56f053ec5d1c57d587001f28c686944_1440w.jpg?source=b1748391" data-rawwidth="1006" data-rawheight="1056" data-size="small" data-default-watermark-src="https://pic1.zhimg.com/v2-1aa23ea0a1a75450325e3aab4e5d838c_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-f56f053ec5d1c57d587001f28c686944_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="OcEDCeMn">只能算是把之前产品线的“bug”补上了吧：</p><p data-pid="BzdeIfyD">现在的iPhone产品线，售价近万的Pro Max之外，就没有大屏手机了，接受不了这个价格的用户，要么放弃iOS，选择安卓旗舰，要么选择6.1寸iPhone，可iPhone13这样的尺寸放在安卓阵营只能叫小屏机，而13mini……也许就是个小玩具。</p><p data-pid="AA8gU6_0">因为国内市场对大屏机情有独钟，不论是出于何种原因，总而言之，厂商喜欢推出，消费者也喜欢买单。</p><blockquote data-pid="lOFmr6VN">连6.28寸的安卓机型都能以小屏作为营销卖点。</blockquote><p data-pid="B88I10Ax">不过愿意为大屏买单的苹果用户也不占少数，一款售价近万的机器能靠着三个月的销量位居全年单机销量榜的前十，还是能说明问题的：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-0b651b02eedcd33c4ac283d45572ef41_1440w.jpg?source=b1748391" data-rawwidth="720" data-rawheight="523" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-bd5127ece8669c36cf87feddcac3cd14_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-0b651b02eedcd33c4ac283d45572ef41_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="CtDNFEsV">后知后觉，苹果终于要啃下这块肥缺，估计今年的“高端智能手机销量”中，安卓阵营这40％的份额又要缩水了，</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/523771426/answer/2409731541" data-image="https://pic2.zhimg.com/v2-c3ccc1e6744ad42790bdc30a2b85caee_720w.jpg?source=b1748391" data-image-width="1386" data-image-height="1006" class="internal">苹果 iPhone 在 2021 年高端智能手机销量中的占比首次超 60%，这一占比意味着什么？</a><p data-pid="BZw-Z-xp">一向水土不服的苹果总算把国内市场算是玩明白了。</p><p data-pid="zafIJVD2">问的是“有哪些期待”，我来反向期待一波：</p><p data-pid="kpIy17GG">能为小屏机买单的用户也不在少数，现在的SE实在没有办法满足这部分用户需求。</p><p data-pid="79ZX8Pn6">我最感兴趣的还是网传被砍掉的mini系列，在未来还会不会以另一种形式回归？</p><p data-pid="R5AorAOZ">比如，高配版SE？</p><p data-pid="k3hNitTk">或者小屏版Pro？</p><p data-pid="Y_0bIksj">或者苹果干脆不会砍掉mini，基础款iPhone14分为5.4-6.1-6.7三个尺寸？</p><p data-pid="oaPjG2qw">月初刚把12mini出掉了，万一哪年Pro系列真的出5.4寸版本，肯定要搞一台，现在这mini总觉得差了点意思，还没做到极致。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e77ba8e1b185677fcbad1e4b7d76c831_1440w.jpg?source=b1748391" data-rawwidth="480" data-rawheight="360" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-2a63083e94ef8fe280040452743379c3_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e77ba8e1b185677fcbad1e4b7d76c831_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
