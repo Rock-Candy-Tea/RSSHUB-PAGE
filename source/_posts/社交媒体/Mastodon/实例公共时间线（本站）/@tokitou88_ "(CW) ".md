@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/396/573/original/e566852aa90c9369.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/043/397/795/original/1190084fd3171d29.jpg'
 author: Mastodon
 comments: false
-date: Sun, 27 Mar 2022 08:59:29 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/396/573/original/e566852aa90c9369.png'
+date: Sun, 27 Mar 2022 09:59:52 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/043/397/795/original/1190084fd3171d29.jpg'
 ---
 
 <div>   
-<hr><p>入りが強烈過ぎる</p><br><img src="https://img.pawoo.net/media_attachments/files/043/396/573/original/e566852aa90c9369.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/396/574/original/866decab9aa4ce6b.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/396/575/original/dab35c5f27165fe5.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/396/577/original/18f01c101357c9fb.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>よろしくお願いします…はあ…ああ…ひん…</p><br><img src="https://img.pawoo.net/media_attachments/files/043/397/795/original/1190084fd3171d29.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/397/796/original/ea658d0c2196ca78.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
