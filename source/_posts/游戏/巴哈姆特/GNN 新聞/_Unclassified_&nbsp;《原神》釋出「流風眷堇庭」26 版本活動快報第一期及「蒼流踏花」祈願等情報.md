@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/06/32fd6b0b41b6e60ca16f6ed69e1fq725.JPG?v=1648454402901'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/63/97bdea372bf7d4a97a63a800861fqbf5.JPG?v=1648461871761'
 author: 巴哈姆特
 comments: false
-date: 2022-03-28 09:11:27
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/32fd6b0b41b6e60ca16f6ed69e1fq725.JPG?v=1648454402901'
+date: 2022-03-28 10:11:11
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/97bdea372bf7d4a97a63a800861fqbf5.JPG?v=1648461871761'
 ---
 
 <div>   
@@ -20,6 +20,35 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/32fd6b0b41b6e60ca16f6ed69e1fq725.
 　　由 HoYoverse 推出的開放多平台世界動作 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》（iOS / Android / PC / PlayStation 4 / PlayStation 5）釋出「流風眷堇庭」2.6 版本活動快報第一期，供玩家參考。</div>
 <div>
  </div>
+<div>
+<h3 dir="auto">
+夜蘭 ‧ 蘭生幽谷</h3>
+<div dir="auto">
+ </div>
+<div dir="auto">
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 100.00%;">
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/97bdea372bf7d4a97a63a800861fqbf5.JPG?v=1648461871761" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/97bdea372bf7d4a97a63a800861fqbf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/97bdea372bf7d4a97a63a800861fqbf5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div dir="auto">
+ </div>
+<p class="quote-box" dir="auto">
+<span style="font-size: 16px;">自稱就職於總務司的神秘人士。<br>
+<br>
+夜蘭的身分總是成謎。<br>
+她像一道幽靈，常以各種面貌出現在各色事件中心，又趕在風暴停歇前消失無蹤。<br>
+被捲入麻煩的人們期盼遇見她。不知為何，他們中的大多數都認為他會幫助自己，再不濟，也想讓他成為自己的同盟。<br>
+<br>
+可麻煩的是，他們的對手也抱有同樣的想法。這些人中的每一個都遇見過頂著不同名字身分的夜蘭，每一個都自認能與她達成合作，每一個也都被蒙在鼓裡。<br>
+<br>
+她究竟想幫助誰？她什麼時候才會說出真話？一但她開始動腦筋，混入事件，總是沒有真話的。<br>
+<br>
+而等她卸下假身分，變得坦然時，<br>
+那些渴望答案的人又未必有機會聽了。</span></p>
+<div dir="auto">
+ </div>
+</div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
