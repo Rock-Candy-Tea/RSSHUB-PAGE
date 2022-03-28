@@ -8,7 +8,7 @@ categories:
 headimg: 'https://images-cdn.fantasyflightgames.com/filer_public/7e/72/7e726164-ddab-4395-a003-80edbe05f8f3/mc28_nova_cardfan.png'
 author: 巴哈姆特
 comments: false
-date: 2022-03-28 07:10:22
+date: 2022-03-28 08:12:45
 thumbnail: 'https://images-cdn.fantasyflightgames.com/filer_public/7e/72/7e726164-ddab-4395-a003-80edbe05f8f3/mc28_nova_cardfan.png'
 ---
 
