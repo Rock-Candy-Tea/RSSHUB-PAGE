@@ -1,0 +1,18 @@
+
+---
+title: '【活動筆記與心得】NFT的前世今生...與未來'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/7a31299a-a056-4d8b-ab79-5ce4bf08cad8.jpeg'
+author: Matters
+comments: false
+date: Sun, 27 Mar 2022 12:36:11 GMT
+thumbnail: 'https://assets.matters.news/embed/7a31299a-a056-4d8b-ab79-5ce4bf08cad8.jpeg'
+---
+
+<div>   
+<p>3/26日參加了「NFT的前世今生」，原以為是給新手了解NFT 的論壇，聽完才發現更像是圈內高品質的討論，比較晚到速記了一些重點沒有很完整，有興趣可以看另外講者兩位臉書紀錄（連結放底部）。</p><p>四位講者分別為NFT藝術評論家黃豆泥、Rug pull Frens的陳慕天、Teahouse創辦人Fenix與Redreamer的Jason。後三位都是偏商業領域，因此整場論壇對於商業的評論也比較多。</p><hr><p>Teahouse：行銷應該針對NFT 大戶，而不是在web2.0地方下廣告。NFT 技術讓全球交易量快速，前所未有，以Zombie為例開賣2-3小時交易量2億台幣，24小時二手市場交易量衝到全球第一，只有證劵市場有這樣的力量。</p><p>雖然對區塊鏈的負面批評越來越多，但批評面卻反應應用越來越廣。從原本罵只能買pizza到變成罵是洗錢工具。</p><hr><blockquote><strong>如何看待ＮＦＴ在不同鏈的發展？</strong></blockquote><p>Teahouse：以太鏈升級後會幹掉其他鏈，所有鏈都只是ETH2.0的過渡期。六月若以太坊merge成功年底上看一萬美金。</p><p>豆泥：未來會多鏈共存，如果解決問題以太坊就稱霸世界。技術正在成熟，文化正在發展。Tezos非常環保，PoS有不同形式。</p><p>Teahouse：以太六月merge已經反映在Nvidia的財報，轉成POS將變得更環保。今年將可能會有L2空投。</p><p>Teahouse：solana最大的問題是想用web2的問題解決web3的問題（用超大機房解決問題，容易被攻擊）</p><hr><blockquote><strong>2050哪些東西會變成NFT？</strong></blockquote><p>豆泥：連五年後都不知道。</p><p>Redreamer：以後電商都用NFT交易，只有真正用的時候再去redeem。送人禮物也方便、轉賣也方便。</p><p>房地產NFT讓一堆人持有。台灣因為法規上無法實現，日本已經可以。</p><p>Teahouse：所有跟實體對接的都不是真正的去中心化。去中心化與中心化是光譜。虛實整合無法避免需要有實體單位去認證某件事情。</p><p>底下的NFT交易需要政府認可，如果政府不同意的話就不可行。房地產的轉移需要政府認證，不可能NFT說得算。只要有巨大經濟價值的東西都會受政府監管。</p><p>破碎化房地產交易，回收產權遇上釘子戶怎麼辦？最後一個賣的人價格會比較高，每個人都會想要當釘子戶，最後你會無法回收，最後有一堆問題。用智能合約解決問題，但發行商不配合怎麼辦。</p><p>虛實整合只要扯到中心化系統就會出現一堆弊端。</p><p>陳慕天：生活一定跟中心化有關，NFT不會消失，不會那麼去中心化，也會被政府拿去使用，也許政府會拿去做壞事。</p><p>Redreamer：多中心化。</p><hr><blockquote><strong>2022熊市牛市？</strong></blockquote><p>Teahouse：看錢是什麼？如果是台幣以太幣漲的話就應該賣掉。如果是E本位的話，以太幣漲跌就不重要，以以太幣數量為主。</p><p>人類資產至高的體現：比特幣>黃金>現金。</p><p>豆泥：希望今年是熊市，市場是一個演化的過程，可以淬煉出最好的團隊。熊市獎勵後進者，越來越多進場的團隊。OG已經夠強了。</p><p>Redreamer：樂觀與價格無關。賣很高現象不是那麼健康，</p><p>Teahouse：Ape發幣之後，頭部專案成長馬上買其他專案。賣錯幣買錯問題更大，買錯只損失0.x，賣錯會錯失好幾個。沒有資產的話就去加入團隊。</p><hr><blockquote><strong>另外兩份筆記與心得</strong></blockquote><p>陳慕天：<a href="https://www.facebook.com/RobotAI521/posts/5107808429262681" rel="noopener noreferrer" target="_blank">https://www.facebook.com/RobotAI521/posts/5107808429262681</a></p><p>Fenix：<a href="https://www.facebook.com/fenixhsu/posts/10112910529806583" rel="noopener noreferrer" target="_blank">https://www.facebook.com/fenixhsu/posts/10112910529806583</a></p><hr><blockquote><strong>個人心得</strong></blockquote><p>老實說，在聽這一場之前，下午還去聽了Tezos論壇，Tezos論壇的藝術氣氛就比較濃厚，市場上的NFT也都是以藝術類型為主。這顯示兩種NFT市場的差異，Tezos強調獨特性、藝術、創新，當然還有低廉人人可以收藏的價格。因此在Tezos論壇上有講者就評論說，NFT的出現改變了藝術創作者與收藏家之間的關係。過去藝術品賣出去之後，創作者跟藏家的聯繫就斷了，但透過NFT技術，轉賣之間創作者依舊可以收到錢，之間的關係也隨之改變。</p><figure class="image"><img src="https://assets.matters.news/embed/7a31299a-a056-4d8b-ab79-5ce4bf08cad8.jpeg" data-asset-id="7a31299a-a056-4d8b-ab79-5ce4bf08cad8" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>相較之下，以太鏈上的NFT就呈現高度商業化、專業化與工業化。</p><p>商業化體現在各種強調不同的「賦能」，也就是講說買這個NFT有什麼用處（ex:停車、吃雞排），Tezos上幾乎很少談論有什麼用，藝術就是藝術。</p><p>專業化體現在合約以及經營，智能合約寫得好不好，有沒有辦法避免掉「科學家」，讓大家mint的時候gas fee可以很低...等。（Teahouse就是寫合約的專家），經營要看Roadmap，項目方有什麼背景，以及全新冒出的新職業MOD：一個專職經營Discord的人，結合了小編、客服與行銷的新職業。</p><p>工業化則是體現在NFT的呈現上，通常都是幾千份「長得差不多，特徵不太一樣」的NFT，特色是可以一眼辨識。</p><p>個人不認為Tezos與以太坊的NFT會走上完全不同的道路，實際上NFT的應用才剛開始探索而已，想想最早只是當作發不可交易的POAP，現在已經衍生出多種應用方式，例如近來阿妹的門票可以直接兌換NFT（採用Tezos鏈）就是經典案例，並與數十位台灣藝術家合作，兼具商業化與藝術。</p><p>最後從產業的角度來看，活動當天跟潔平大大聊到，web2的時代是大國的天下，只有美國與中國這樣的技術與人口大國可以產生出科技巨頭，小國家都只能任臉書、google、抖音宰制，小國很難自己搞一個社交媒體與之抗衡。然而在web3的時代中，小國可能反而充滿機會：區塊鏈無國界的全球市場、小而精團隊快速反應的優勢、擺脫演算法中心化的束縛，這些或許在Zombie Club就得到驗證。在這波NFT市場中，台灣蓬勃發展的生態也成為亞洲先行者，而我們應該更注意其他小國的項目，或許都有可能成為全球頂尖NFT也說不定。</p><p><br></p><p><br></p><p><br></p><p><br></p>  
+</div>
+            

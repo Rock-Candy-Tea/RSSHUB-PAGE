@@ -1,0 +1,19 @@
+
+---
+title: '谷歌列出 9 款 Android 12 旗舰手机：硬件性能等级达最高要求，请 App 开发者率先优化'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2021/10/7c3f9408-077b-49e7-9956-c08ee4243a2e.jpg@s_2,w_820,h_461'
+author: IT 之家
+comments: false
+date: Sun, 27 Mar 2022 11:50:11 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2021/10/7c3f9408-077b-49e7-9956-c08ee4243a2e.jpg@s_2,w_820,h_461'
+---
+
+<div>   
+<p data-vmark="fc7f"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 3 月 27 日消息，谷歌在 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android 12</a> 中推出了一种“<span class="accentTextColor">性能等级</span>”概念，开发者可以查询到设备的硬件信息，从而将设备分为不同的性能等级。在性能等级较低的设备中，开发者就可以选择关闭一些功能或者减少一些动画，从而让设备可以流畅运行。</p><p data-vmark="a0fa" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2021/10/7c3f9408-077b-49e7-9956-c08ee4243a2e.jpg@s_2,w_820,h_461" title="谷歌列出 9 款 Android 12 旗舰手机：硬件性能等级达最高要求，请 App 开发者率先优化" referrerpolicy="no-referrer"></p><p data-vmark="4e70">谷歌近日推出了 <a href="https://redirect.viglink.com/?format=go&jsonp=vglnk_164838179246710&key=b8f771eed689587b82c4635131ce08d7&libId=l197trma01010l04000DLnm8rfspz&loc=https%3A%2F%2F9to5google.com%2F2022%2F03%2F25%2Fandroid-12-performance-class%2F&v=1&out=https%3A%2F%2Fandroid-developers.googleblog.com%2F2022%2F03%2Fusing-performance-class-to-optimize.html&ref=https%3A%2F%2F9to5google.com%2F&title=Pixel%206%2C%20others%20support%20Android%2012%20performance%20class%2C%20no%20S22%20-%209to5Google&txt=announced" target="_blank">Alpha 版 Jetpack Core Performance 库</a>，可以让 App“在运行 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android 11</a>（API 级别 30）及更高版本的设备上获得设备的性能等级。”</p><h2 data-vmark="1bdf">性能等级 12 要求为：</h2><ul class=" list-paddingleft-2"><li><p data-vmark="642d">至少 6GB 内存</p></li><li><p data-vmark="f7f3">至少 400dpi 和 1080p 分辨率屏幕</p></li><li><p data-vmark="9664">至少 120MB / s 的顺序写入、250MB / s 的顺序读取、10MB / s 的随机写入和 40MB / s 的随机读取速度</p></li><li><p data-vmark="d77d">必须（至少）配备一台 12MP 后置摄像头，能够以 4K 30 FPS 的速度进行录制</p></li><li><p data-vmark="f475">必须（至少）配备一台 4MP 前置摄像头，能够以 1080p 30 FPS 的速度进行录制</p></li></ul><p data-vmark="fb85">谷歌表示，OPPO、一加、realme、vivo 和小米等厂商的旗舰设备满足 Media Performance Class 12 要求，<span class="accentTextColor">可率先进行优化</span>：</p><ul class=" list-paddingleft-2"><li><p data-vmark="ceb7">一加 10 Pro</p></li><li><p data-vmark="f02c">OPPO Find X3 Pro</p></li><li><p data-vmark="d069">realme GT 2 Pro</p></li><li><p data-vmark="7530">vivo X60 Pro+</p></li><li><p data-vmark="0c9d">vivo X70 Pro+</p></li><li><p data-vmark="93e2">小米 12/12 Pro</p></li><li><p data-vmark="e60a">谷歌 Pixel 6/6 Pro</p></li></ul><p data-vmark="8c8c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/0bacba8e-a079-4a12-9a24-1ae49b923474.png" w="816" h="237" title="谷歌列出 9 款 Android 12 旗舰手机：硬件性能等级达最高要求，请 App 开发者率先优化" width="816" height="237" referrerpolicy="no-referrer"></p><p data-vmark="e5e3">IT之家了解到，更低一点的性能等级 11 的要求为：</p><ul class=" list-paddingleft-2"><li><p data-vmark="23b8">至少 6GB 内存</p></li><li><p data-vmark="df58">至少 400dpi 和 1080p 分辨率屏幕</p></li><li><p data-vmark="ac2c">至少 100MB / s 顺序写入、200MB / s 顺序读取、10MB / s 随机写入和 25MB / s 随机读取速度</p></li><li><p data-vmark="4af7">必须（至少）配备一台 12MP 后置摄像头，能够以 4K 30 FPS 的速度进行录制</p></li><li><p data-vmark="5d66">必须（至少）配备一台 4MP 前置摄像头，能够以 1080p 30 FPS 的速度进行录制</p></li></ul><p data-vmark="2d60">三星 Galaxy S22 系列作为新发布的旗舰，却没有出现在列表中。根据 9To5Google 晒出的截图，S22+ 确实不支持性能等级，可能是由于三星在适配谷歌 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android</a> 要求上并不是那么积极，比如一直都不支持无缝更新。</p><p data-vmark="dc97" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/44bbc291-2ed7-42fa-89a8-fcf5b764870a.png" w="945" h="731" title="谷歌列出 9 款 Android 12 旗舰手机：硬件性能等级达最高要求，请 App 开发者率先优化" width="945" height="634" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
