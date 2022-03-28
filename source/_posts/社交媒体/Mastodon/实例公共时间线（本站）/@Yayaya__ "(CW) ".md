@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/413/813/original/6a714fd4626a9a10.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/043/415/778/original/b7c0631bab173256.png'
 author: Mastodon
 comments: false
-date: Mon, 28 Mar 2022 00:26:13 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/413/813/original/6a714fd4626a9a10.png'
+date: Mon, 28 Mar 2022 02:19:07 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/043/415/778/original/b7c0631bab173256.png'
 ---
 
 <div>   
-<hr><p>頭痛酷いのに弟が朝っぱらからバカでかい声で喋ってるので死にそう<br>ということでMAXになったシルバー投げときます(？)</p><br><img src="https://img.pawoo.net/media_attachments/files/043/413/813/original/6a714fd4626a9a10.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/413/821/original/8ca7a35abc6a2855.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>だよねやっぱ高いよねかわいいけど</p><br><img src="https://img.pawoo.net/media_attachments/files/043/415/778/original/b7c0631bab173256.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/415/784/original/e84d5116e85e9ded.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/415/786/original/7abd1ec66cae80a6.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/415/795/original/ee341ee3e8f1263e.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
