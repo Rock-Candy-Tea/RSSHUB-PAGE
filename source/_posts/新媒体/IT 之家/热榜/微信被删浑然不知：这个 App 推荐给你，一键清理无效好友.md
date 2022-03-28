@@ -1,0 +1,19 @@
+
+---
+title: '微信被删浑然不知：这个 App 推荐给你，一键清理无效好友'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/3/9a3406f1-6c82-4a37-855e-8fe2f7f5b6cf.jpg'
+author: IT 之家
+comments: false
+date: Sun, 27 Mar 2022 22:32:47 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/3/9a3406f1-6c82-4a37-855e-8fe2f7f5b6cf.jpg'
+---
+
+<div>   
+<p data-vmark="9d16">前两天想要发个群发信息，才发觉不知不觉中微信里的好友已经快要突破 300 人了。</p><p data-vmark="23ed">通讯录里人数虽多，却包含了不少可以删除的联系人，这不就想着是时候清理一下微信通讯录了。那么我们就来看看如何快捷的清理通讯录，以及如何检测出已被对方删除的好友。</p><p data-vmark="1cff" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/9a3406f1-6c82-4a37-855e-8fe2f7f5b6cf.jpg" w="500" h="1083" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="500" height="1083" referrerpolicy="no-referrer"></p><p data-vmark="943f">▲ 图 1 越加越多人了</p><h2 data-vmark="6ead">微信 PC 版里的通讯录管理</h2><p data-vmark="e57e">二话不说，开始清理微信联系人。清理联系人的时候，推荐使用微信 PC 版，这里有通讯录管理工具，比起手机上来好用多了。打开微信 PC 版→通讯录→通讯录管理。</p><p data-vmark="674e" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/d2de35d5-ca99-4bfb-ac10-d7dfe438e934.png" w="329" h="225" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="329" height="225" referrerpolicy="no-referrer"></p><p data-vmark="f0a2">▲ 图 2 通讯录管理</p><p data-vmark="bb7f">在通讯录管理工具中可以根据朋友权限、标签、最近群里这些条件来筛选好友，也可以在好友列表详情中一眼看到好友的备注、标签以及朋友权限信息。通讯录管理工具支持批量操作，你可以批量删除好友。其实在添加好友的时候给个备注、加上标签是个最好的方式，但是无奈有时候匆匆忙忙加了好友后，转头就忘了这事，加的好友多了，就造成了通讯录的混乱。</p><p data-vmark="2059">通讯录管理工具筛选条件虽多，但是小编还是建议微信官方加多一个“多久没联系”的筛选条件，好让用户快速找出沉静已久的联系人。</p><p data-vmark="1dbe" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/503445a1-438d-4096-8383-9e71ca05ac54.png" w="210" h="243" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="210" height="243" referrerpolicy="no-referrer"></p><p data-vmark="a2a5">▲ 图 3 筛选条件</p><h2 data-vmark="6e94">找出已被对方删除的好友 </h2><p data-vmark="4179">在微信中删除好友，可不像 QQ 中是双向删除的。微信里即使对方删除了你，而他却依然存在于你的通讯录下，直到你发消息时才能察觉对方已经把你删除了。于是有许多网友都想要知道在自己的一大堆微信好友中，到底有哪几个已经把自己删了。</p><p data-vmark="fb41">有需求就有供应，于是乎就出现了许多检测好友状态的工具，而其中也混入了不少恶意软件趁机窃取用户隐私，所以使用这类 App 得慎之又慎。</p><p data-vmark="cda8">最近开发者 @李跳跳，就是那个推出了帮助用户跳过开屏广告 App 的作者，推出了一款新的 App——“真实好友”，就是为了帮助用户检测出已经被对方删除好友的通讯录好友的。</p><p data-vmark="50a2" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/095f3e92-dfdc-4560-8d2b-8a880b06f27c.jpg" w="500" h="1083" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="500" height="1083" referrerpolicy="no-referrer"></p><p data-vmark="8993">▲ 图 4 真实好友 App</p><p data-vmark="d800">真实好友 App 的工作原理比较的简单，就是利用<a class="s_tag" href="https://android.ithome.com/" target="_blank">安卓</a>系统的无障碍功能来进行的。没错，目前真实好友 App 只支持安卓系统。给予了真实好友 App 相关权限后，它就会模拟用户操作，一个一个好友进行转账操作，当对方已经删除或拉黑你时，转账会出错，进而进行判断。当然，并不是真实地进行转账操作，不会扣 1 分钱。</p><p data-vmark="9a2b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/868b0b16-9527-4f0d-871f-7901b08476c9.jpg" w="500" h="1083" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="500" height="1083" referrerpolicy="no-referrer"></p><p data-vmark="aa2e">▲ 图 5 给予无障碍权限</p><p data-vmark="767a">真实好友 App 的使用非常的简单，安装好真实好友 App 后，首先得给以它无障碍权限，然后点击主界面的开始检测，它就会开始进行一个好友一个好友的转账测试，并根据转账结果来得到测试结果。每个好友几秒时间，如果你的好友众多就得耐心等待了。</p><p data-vmark="d74d">检测完毕，真实好友 App 会给出检测报告，它把用户的好友分类为了“正常”与“异常”，咱点击异常好友就可以看到相关的好友情况，有被删除的，有其它情况的，还有被拉黑的。检测出来了，这些异常好友该怎么办就怎么办吧。</p><p data-vmark="7671" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/e46a4b44-8fc9-42b2-82fa-e0923ed802a3.jpg" w="500" h="1083" alt="真实好友" title="微信被删浑然不知：这个 App 推荐给你，一键清理无效好友" width="500" height="1083" referrerpolicy="no-referrer"></p><p data-vmark="1900">▲ 图 6 异常好友</p><p data-vmark="9730">检测完毕，真实好友 App 就可以退休了。</p><h2 data-vmark="4e4d">总结</h2><p data-vmark="a773">怎么样，你有用真实好友 App 的需求不，虽然它还算比较的安全，但是如果你注重隐私的话就不要使用了。另外即使要使用，也请到作者的官微去下载，别依靠搜索找到给人加了料的 App。</p>
+          
+</div>
+            
