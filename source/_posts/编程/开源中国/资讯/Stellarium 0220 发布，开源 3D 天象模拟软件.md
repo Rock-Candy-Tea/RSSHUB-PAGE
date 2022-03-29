@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-0aa6143a3e2a1325d21d488ecfd731d
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Stellarium 0.22.0 已发布。Stellarium 是一款免费开源 GPL（自由软件基金会 GNU 通用公共许可证）软件，它使用 OpenGL 图形接口对星空进行实时渲染。软件可以模拟肉眼、双筒望远镜和小型天文等观察天空，根据观测者所处时间和位置，计算出天空中太阳、月球、行星等天体位置，并将其精确地显示出来。还可以绘制星座、演示天文现象，如流星雨、日食和月食等。</p> 
+                                                                                            <p>Stellarium 0.22.0 已发布。Stellarium 是一款免费开源 GPL（自由软件基金会 GNU 通用公共许可证）软件，它使用 OpenGL 图形接口对星空进行实时渲染。软件可以模拟肉眼、双筒望远镜和小型天文等观察天空，根据观测者所处时间和位置，计算出天空中太阳、月球、行星等天体位置，并将其精确地显示出来。还可以绘制星座、演示天文现象，如流星雨、日食和月食等。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Stellarium 还被应用于天文馆中作为教学展示软件，作为天文爱好者星空望远镜观测辅助软件。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img alt height="374" src="https://oscimg.oschina.net/oscnet/up-0aa6143a3e2a1325d21d488ecfd731d4a83.png" width="500" referrerpolicy="no-referrer"></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">此版本的主要变化内容如下：</p> 

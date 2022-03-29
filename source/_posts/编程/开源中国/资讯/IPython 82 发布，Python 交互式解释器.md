@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=388'
+headimg: 'https://picsum.photos/400/300?random=1159'
 author: 开源中国
 comments: false
 date: Tue, 29 Mar 2022 07:32:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=388'
+thumbnail: 'https://picsum.photos/400/300?random=1159'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">IPython 是一个综合环境，可以帮助程序员或开发人员等高级计算机用户测试或探索各种功能。尽管 Python 附带了一个强大的交互式解释器，使用户无需在目标计算机上创建额外的文件即可运行测试，但它在用户与软件交互方面存在一些限制。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">IPython 是一个综合环境，可以帮助程序员或开发人员等高级计算机用户测试或探索各种功能。尽管 Python 附带了一个强大的交互式解释器，使用户无需在目标计算机上创建额外的文件即可运行测试，但它在用户与软件交互方面存在一些限制。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">IPython 的三个核心部分包括一个高度交互式的 Python shell，一个解耦的双进程通信模型和交互式并行计算的架构。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">IPython 8.2 是 8.0 之后的第二个小版本，更新内容如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 

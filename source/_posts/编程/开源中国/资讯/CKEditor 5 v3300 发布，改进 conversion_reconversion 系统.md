@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-9dcbe35c9f397ede38b59c828daa0ff
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CKEditor 5 v33.0.0 已发布。更新内容包括：引入了改进和扩展的 conversion/reconversion 系统、修订历史功能现在与实时协作编辑兼容，并且协作功能支持在 DLL 构建中使用。另外，通用 HTML 支持功能也有所改进，还修复了几个重要的错误。</p> 
+                                                                                            <p>CKEditor 5 v33.0.0 已发布。更新内容包括：引入了改进和扩展的 conversion/reconversion 系统、修订历史功能现在与实时协作编辑兼容，并且协作功能支持在 DLL 构建中使用。另外，通用 HTML 支持功能也有所改进，还修复了几个重要的错误。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-9dcbe35c9f397ede38b59c828daa0ffcc57.png" referrerpolicy="no-referrer"></p> 
 <p><strong>改进的 conversion/reconversion 系统</strong></p> 
 <p>CKEditor 5 编辑引擎的底层架构包括：模型和视图。conversion/reconversion 指的是两者之间的数据转换。由于更改了一些核心机制的大型清理工作，conversion 机制刚刚获得了重大、广泛的升级。最重要的是，<code>triggerBy</code>选项被替换为用于无缝重新 reconversion 的新 API，引入了新的向下转换助手，并对 conversion API 应用了一些更改。</p> 

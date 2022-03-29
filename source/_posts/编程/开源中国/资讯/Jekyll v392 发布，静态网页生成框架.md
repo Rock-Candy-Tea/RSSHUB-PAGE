@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1091'
+headimg: 'https://picsum.photos/400/300?random=3977'
 author: 开源中国
 comments: false
 date: Tue, 29 Mar 2022 07:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1091'
+thumbnail: 'https://picsum.photos/400/300?random=3977'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Jekyll 发布了 3.9.2 版本，这是一个生成静态网页的框架，不需要数据库支持，而且 jekyll 可以免费部署在 Github 上，可以绑定自己的域名。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Jekyll 发布了 3.9.2 版本，这是一个生成静态网页的框架，不需要数据库支持，而且 jekyll 可以免费部署在 Github 上，可以绑定自己的域名。</span></p> 
 <p><strong>修复</strong></p> 
 <ul> 
  <li>在 JRuby 上将 http_parser.rb gem 锁定到 v0.6.x 版本<span style="background-color:#ffffff; color:#24292f"><span> </span>(</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fjekyll%2Fjekyll%2Fpull%2F8943" target="_blank">#8943</a><span style="background-color:#ffffff; color:#24292f">)</span></li> 

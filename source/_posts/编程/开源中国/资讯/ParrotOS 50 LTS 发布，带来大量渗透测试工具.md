@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1335'
+headimg: 'https://picsum.photos/400/300?random=6272'
 author: 开源中国
 comments: false
 date: Tue, 29 Mar 2022 07:20:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1335'
+thumbnail: 'https://picsum.photos/400/300?random=6272'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Parrot 5.0 版本现已发布。Parrot 是一个基于 Debian 的 GNU/Linux 发行版，其设计上主要考虑安全性和隐私性。Parrot 通常被用于渗透测试、计算机取证、反向工程、攻击、云计算渗透测试、隐私/匿名、密码等场合。它包含你在网上开发自己的软件或保护隐私所需的一切。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Parrot 5.0 版本现已发布。Parrot 是一个基于 Debian 的 GNU/Linux 发行版，其设计上主要考虑安全性和隐私性。Parrot 通常被用于渗透测试、计算机取证、反向工程、攻击、云计算渗透测试、隐私/匿名、密码等场合。它包含你在网上开发自己的软件或保护隐私所需的一切。</span></p> 
 <p>Parrot 5.0 保留了以前的 Home 和 Security 版本，并引入了一个新的特殊 HTB 版本，其灵感来自 HackTheBox 的流行 PwnBox。KDE 和 XFCE 替代品不再可用，取而代之的是 Architect 版本，它还支持 x86 32 位和 ARMv8 64 位。该版本带来如下新特性：</p> 
 <h2>LTS 和反向移植</h2> 
 <p>Parrot 5.0 引入了新的长期支持发布模型。构成核心系统的所有软件包现在都在跟踪最新的 Debian Stable 而不是 Debian Testing，并且将保证至少 2 年内不会发生重大变化。</p> 
