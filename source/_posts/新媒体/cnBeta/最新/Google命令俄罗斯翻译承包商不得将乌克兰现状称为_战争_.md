@@ -1,0 +1,19 @@
+
+---
+title: 'Google命令俄罗斯翻译承包商不得将乌克兰现状称为_战争_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0329/6519ba798b548d5.png'
+author: cnBeta
+comments: false
+date: Mon, 28 Mar 2022 23:47:10 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0329/6519ba798b548d5.png'
+---
+
+<div>   
+据The Intercept报道，3月初，为Google工作的承包商为俄罗斯市场翻译公司文本时，收到了来自客户的最新消息。<strong>从即日起，正在进行的俄罗斯对乌克兰的战争不能再被称为“战争”，而只能被模糊地称为“特殊情况”。</strong><br>
+ <p style="text-align: left;">The Intercept获得的这封内部邮件是由一家为Google和其他客户翻译公司文本和应用程序界面的公司管理层发出的。</p><p style="text-align: left;">这封电子邮件传递了来自Google的指示，其中有新的措辞。该指示还指出，“战争”一词应继续在其他市场上使用，而且这一政策变化的目的是使Google符合俄罗斯在入侵乌克兰后刚刚颁布的审查法。</p><p style="text-align: left;">当被问及该指导意见时，Google发言人Alex Krasov告诉The Intercept：“虽然我们已经暂停了Google广告和我们在俄罗斯的绝大部分商业活动，但我们仍然关注我们当地员工的安全。正如人们广泛报道的那样，目前的法律限制了俄罗斯境内的通信。这并不适用于我们的信息服务，如搜索和YouTube。”</p><p style="text-align: left;">据一位翻译向The Intercept透露，这些命令适用于所有翻译成俄语的Google产品，包括Google地图、Gmail、AdWords，以及Google的政策和与用户的沟通。(该译员要求匿名，以避免其雇主的报复）。</p><p style="text-align: left;">这份内部备忘录有助于解释为什么一些Google网页，包括拦截组织发现的广告政策和视频帮助文件，在俄文版中使用“乌克兰的紧急情况”等委婉的术语，而在英文版中则使用“乌克兰战争”。</p><p style="text-align: left;">俄罗斯总统普京于3月4日签署的审查法设立了严厉的刑事处罚，对传播有关俄罗斯军队的所谓虚假信息的行为，最高可判处15年监禁。人们普遍认为这包括将俄罗斯对乌克兰的攻击称为战争或入侵，因为克里姆林宫此前已对此类术语划定了严格的界限。克里姆林宫称这场战争为“特殊的军事行动”，据报道，其互联网审查委员会已威胁要封锁使用“入侵”等术语的网站。</p><p style="text-align: left;">与其他许多美国公司一样，Google在攻击开始后迅速宣布支持乌克兰并反对俄罗斯的入侵。与其他几家硅谷巨头一样，它也实施了新政策，以扼制克里姆林宫的宣传能力。3月1日，Google全球事务主管 Kent Walker在公司博客上发表文章称，“我们的团队正在夜以继日地工作，通过我们的产品支持乌克兰人民，抵御网络安全威胁，并提供高质量的可靠信息。”Walker补充说，Google已经“暂停了我们在俄罗斯的绝大多数商业活动”，包括对俄罗斯广告商的销售，针对俄罗斯YouTube观众的广告销售，在俄罗斯注册 Google Cloud，以及“我们大多数服务的支付功能”。</p><p style="text-align: left;">西方评论家普遍赞扬了Google在入侵方面的相关努力。但电子邮件和Google帮助中心的翻译表明，其反对俄罗斯国家宣传的原则立场在某种程度上被该公司继续在俄罗斯开展业务的利益所抵消。</p><p style="text-align: left;">在2022年2月27日题为“敏感事件政策的更新”的Google广告政策更新说明的英文版本中，该公司解释说它正在冻结来自俄罗斯国家媒体的在线广告，因为 “目前的乌克兰战争”被视为“敏感事件”。但该帖子的俄文版只提到了 “乌克兰的紧急情况”而不是“战争”。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0329/6519ba798b548d5.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0329/6519ba798b548d5.png" alt="62`T7RDY]~&#123;8~K$C9XC_%4L.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在视频帮助中心，“受限制的产品和服务”帖子重复警告：“由于乌克兰正在进行的战争，我们将暂时暂停向位于俄罗斯的用户投放Google广告。” 在俄罗斯版本中，警告再次更改：“由于乌克兰的紧急情况，我们暂时停止向位于俄罗斯的用户投放广告。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0329/926f02e0762c3cc.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0329/926f02e0762c3cc.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">The Intercept 发现的另一个帮助帖子显示了一个符合新审查法的俄语版本：</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0329/7dd74eded859483.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0329/7dd74eded859483.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在某些情况下，俄语帮助页面既包含对“战争”的提及，也包含国家认可的委婉说法；目前还不清楚为什么。</p><p style="text-align: left;">自动翻译系统可能有问题。据译者介绍，大部分翻译都是通过软件自动完成的。在更敏感的情况下——社区规则和支持页面——通常会有人为监督以确保准确性。该消息人士补充说，在乌克兰背景下对“战争”一词的任何潜在使用都将在俄罗斯市场上仍然可用的所有Google产品中受到审查。他们还表示，委婉政策将假设适用于支持页面文本之外的其他Google产品，如地图。</p><p style="text-align: left;">此举只是Google及其主要硅谷同行默认俄罗斯审查要求的最新实例。2019 年，<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>同意在其 iOS 地图应用程序中显示克里米亚为俄罗斯领土，以应对克里姆林宫的压力。2021 年，Google披露，它已遵守了当年从俄罗斯政府收到的 75% 的内容删除请求；同年，Google和苹果都同意删除与著名普京批评者阿列克谢·纳瓦尔尼 (Aleksey Navalny) 相关的应用程序。</p>   
+</div>
+            
