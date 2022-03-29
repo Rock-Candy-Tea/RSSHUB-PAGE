@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?v=1648462512907'
 author: 巴哈姆特
 comments: false
-date: 2022-03-29 04:11:57
+date: 2022-03-29 05:10:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?v=1648462512907'
 ---
 
@@ -40,7 +40,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?v=1648462512907" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG 2x" style="max-width: unset;" title="《爐石戰記》資深遊戲設計師Chadd Nervig" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?v=1648462512907" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.PNG 2x" style="max-width: unset;" title="《爐石戰記》資深遊戲設計師Chadd Nervig" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《爐石戰記》資深遊戲設計師 Chadd Nervig</figure>
 </li>
@@ -75,7 +75,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG?v=1648462533114" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG 2x" style="max-width: unset;" title="《爐石戰記》遊戲設計師Leo Robles" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG?v=1648462533114" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/343bccb23ef4b84ddb059867191fqbq5.PNG 2x" style="max-width: unset;" title="《爐石戰記》遊戲設計師Leo Robles" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《爐石戰記》遊戲設計師 Leo Robles</figure>
 </li>
@@ -88,7 +88,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
  </div>
 <div>
-<span style="color:green;">Leo：</span>「巨型」手下的吸引人之處在於他的體積，在設計跟觀感上比一般卡牌巨大許多。那遊戲性呈現上，我們藉由海底世界呈現巨大海怪的方式，讓玩家彷彿面對巨大的怪獸，跟過往召喚許多手下的方式也會有不同的地方。</div>
+<span style="color:green;">Leo：</span>「巨型」手下的吸引人之處在於他的體積，在設計跟觀感上比一般卡牌巨大許多。遊戲性呈現上，我們藉由海底世界呈現巨大海怪的方式，讓玩家彷彿面對巨大的怪獸，跟過往召喚許多手下的方式也會有不同的地方。</div>
 <div>
  </div>
 <div>
@@ -96,13 +96,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
  </div>
 <div>
-<span style="color:blue;">Chadd：</span>當巨型手下進場時會佔據跟一般手下一樣的空格，那場上只有七個空間，如果空間不夠、巨型手下其他肢體部位就無法一起登場，所以就是牌桌上的七個空格限制，不會超過七格。 以進場順序來說 每張巨型手下肢體進場順序差不多，可以從卡牌圖面辨認進場順序，有的都在左邊，那有的像是深淵巨獸席拉格就是兩個在左邊、兩個在右邊。</div>
+<span style="color:blue;">Chadd：</span>當巨型手下進場時會佔據跟一般手下一樣的空格，那場上只有七個空間，如果空間不夠、巨型手下其他肢體部位就無法一起登場，所以就是牌桌上的七個空格限制，不會超過七格。 以進場順序來說 每張巨型手下肢體進場順序差不多，可以從卡牌圖面辨認進場順序，有的都在左邊，有的像是深淵巨獸席拉格就是兩個在左邊、兩個在右邊。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 68.39%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG?v=1648462723067" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 68.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG?v=1648462723067" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/78/3268dbae6c10530d6154ea4af81fqbu5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -118,7 +118,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 68.39%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG?v=1648462655465" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 68.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG?v=1648462655465" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/aeee4834e7e8ccbbf1902844fb1fqbt5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -128,7 +128,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
  </div>
 <div>
-<span style="color:green;">Leo：</span>每個職業都有一個巨型的傳說手下。以大小來說，我們希望做出不同變化，每隻擁有不同風格。以已經公布巨型手下來說，席拉格相當巨大，佔據五個卡牌空間，之後還有些尚未公布的巨型手下，那他的肢體如果被擊殺還會再生。</div>
+<span style="color:green;">Leo：</span>每個職業都有一個巨型的傳說手下。以大小來說，我們希望做出不同變化，每隻擁有不同風格。以已經公布巨型手下來說，席拉格相當巨大，佔據五個卡牌空間，之後還有些尚未公布的巨型手下，他的肢體如果被擊殺還會再生。</div>
 <div>
  </div>
 <div>
@@ -146,9 +146,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?v=1648462451440" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?v=1648462451440" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/14/af025442d2fb2f05dd4020d1e01fni25.PNG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?v=1648462451440" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?v=1648462451440" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/15/937c73884a86666bac96e9560b1fni35.PNG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -164,9 +164,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 138.24%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?v=1648462998086" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 138.24%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?v=1648462998086" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/87/dd4ee071318db95fe56c71a7741fqc35.PNG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 138.24%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?v=1648462998086" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 138.24%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?v=1648462998086" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/86/36a4ab0be51a42c5262e77abea1fqc25.PNG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -180,13 +180,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
  </div>
 <div>
-　　那在遊戲機制方面，我們很希望創造一個跟法術互動的手下類型，之前沒有適合的機會。那納迦是以前夜精靈，現在變成這種外型，而他們對於魔法的造詣還在，因此在此資料片，把他們設計成可以跟法術互動手下是很適合的，我們在創造手下時，也會想所謂差異性，那既然這次想要以法術為主，納迦就是很好的選擇。</div>
+　　在遊戲機制方面，我們很希望創造一個跟法術互動的手下類型，之前沒有適合的機會。那納迦是以前夜精靈，現在變成這種外型，而他們對於魔法的造詣還在，因此在此資料片，把他們設計成可以跟法術互動手下是很適合的，我們在創造手下時，也會想所謂差異性，既然這次想要以法術為主，納迦就是很好的選擇。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img" style="width:50%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 138.19%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG?v=1648463066464" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 138.19%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG?v=1648463066464" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/cc316f879a68b74fa700c526e11fqc45.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -196,7 +196,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/f193233bf337f3d75c29b0069e1fqbp5.
 <div>
  </div>
 <div>
-<span style="color:blue;">Chadd：</span>拉吉納茲詹的確是非常強大的卡，的確是很強的手下，這點我不否認。我們在平衡上會藉由調整獵人整體平衡。在此次新資料片中，獵人有如此強大手下 那可能就會藉由調整其他部分來進行整體平衡。</div>
+<span style="color:blue;">Chadd：</span>拉吉納茲詹的確是非常強大的卡，的確是很強的手下，這點我不否認。我們在平衡上會藉由調整獵人整體平衡。在此次新資料片中，獵人有如此強大手下可能就會藉由調整其他部分來進行整體平衡。</div>
 <div>
  </div>
 <h2>

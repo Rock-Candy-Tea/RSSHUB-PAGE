@@ -1,0 +1,22 @@
+
+---
+title: '手機
+「光明與黑暗」系列 IP 改編手機遊戲《光明與黑暗～光與闇的英雄～》宣布終止開發
+ 1 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/01/5c37489f0159a3a041084b218d1fqnl5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/01/5c37489f0159a3a041084b218d1fqnl5.JPG'
+---
+
+<div>   
+由 SEGA 授權、 Vespa Co., Ltd. 及其日本法人 Hive Co., Ltd.共同開發，以「光明與黑暗（SHINING FORCE シャイニング・フォース）」IP 改編的智慧型手機遊戲《光明與黑暗～光與闇的英雄～（暫）（暫...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/01/5c37489f0159a3a041084b218d1fqnl5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
