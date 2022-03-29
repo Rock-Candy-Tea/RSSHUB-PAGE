@@ -1,0 +1,103 @@
+
+---
+title: 'AirPods减产千万降库存，TWS耳机的黄金时代成历史？'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220329/v2_4875800e894b4702a140cbdcca96af62_img_000'
+author: 36kr
+comments: false
+date: Tue, 29 Mar 2022 11:00:28 GMT
+thumbnail: 'https://img.36krcdn.com/20220329/v2_4875800e894b4702a140cbdcca96af62_img_000'
+---
+
+<div>   
+<p>3月28日，据外媒报道，<a class="project-link" data-id="515922" data-name="苹果计划" data-logo="https://img.36krcdn.com/20210813/v2_08eb011d64974b128fbd24519988749d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/515922" target="_blank">苹果计划</a>在下一季度削减多款产品产量，其中就包括统治了高端TWS耳机市场的AirPods。</p> 
+<p>根据媒体报道，苹果下调AirPods产量的根本原因，是市场需求趋于放缓。考虑到当前接近饱和的产能和库存状况，苹果有必要降低库存水平，以应对市场未来可能发生的变化。</p> 
+<p>事实上，红极一时的AirPods在过去两年已经接连传出不少不利讯息：市占率下滑、TWS耳机市场整体规模增速放缓还有三星、<a class="project-link" data-id="121888" data-name="小米" data-logo="https://img.36krcdn.com/20200729/v2_7ad3d765f1d844018b8f4e75c4c8050d_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/121888" target="_blank">小米</a>等竞争对手的步步紧逼……</p> 
+<p>作为行业的领头羊，苹果的处境，很大程度上也是整个市场的缩影。向来不愁销量的苹果也走到减产、降库存这一步，难免令人对TWS耳机市场的未来萌生一丝忧虑。</p> 
+<h2><strong>苹果计划减产，AirPods为什么卖不动了？</strong></h2> 
+<p>根据日经新闻的报道，苹果预计将AirPods今年的产量下调约1000万副，减产幅度相当之大。官方数据显示，去年AirPods的销售为7700万副。</p> 
+<p>截止目前，苹果还没有对减产的传闻作出回应，但主要供应商已经受到相关消息的影响。周二开盘后，歌尔股份开跌超9%，闻泰科技、<a class="project-link" data-id="129311" data-name="东尼电子" data-logo="https://img.36krcdn.com/20210808/v2_a4b2120ae1814a9c8b130fea40a6d4ac_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/129311" target="_blank">东尼电子</a>、<a class="project-link" data-id="82694" data-name="立讯精密" data-logo="https://img.36krcdn.com/20210807/v2_99914e05961a4664b7e3c9c04043abd0_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/82694" target="_blank">立讯精密</a>和共达电声等AirPods供应链企业的股价同样应声下挫。</p> 
+<p>针对市场上的不利信息，歌尔股份表示不予置评。立讯精密则回应称，不存在公司最大客户砍单1000万的情况，目前该公司声学可穿戴产品与客户保持稳定合作关系，订单都在如期交付。</p> 
+<p>然而，外界对AirPods的前景依然抱有诸多质疑。外媒的报道中提及了两个关键词：需求疲软和库存高企，这也被认为是苹果减产砍单的主要原因。鉴于苹果方面尚未作出正面回应，坊间的猜测预计还会继续发酵。</p> 
+<p>在价值研究所（ID：jiazhiyanjiusuo）看来，在大规模减产传闻的背后，苹果自身的经营策略和市场大环境都要负一定责任。</p> 
+<h3><strong>1、苹果自身的麻烦：竞品崛起抢走大量市场份额</strong></h3> 
+<p>先说前者。<strong>专注于消费电子评测的新媒体“雷科技”主编仁梓向价值研究所（ID：jiazhiyanjiusuo）表示，AirPods减产在一定程度上是受到了竞品的影响。</strong></p> 
+<blockquote> 
+ <p>“AirPods的生态优势固然不可替代，但随着国产手机品牌陆续推出他们的TWS耳机，他们也在构建着自己的生态，并用相同的功能（降噪、音质等）、更低的售价（真我的新款旗舰手机售价才400元不到）去抵消生态上的劣势，不断从苹果的手中抢走用户。”</p> 
+</blockquote> 
+<p>在仁梓看来，归根到底AirPods还是太贵了，动辄千元甚至二千元的价格并不是大多数消费者都愿意为之付费。而且更新换代较慢、产品换代也未见明显的升级，销量下滑是必然的，也是可以预见的。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220329/v2_4875800e894b4702a140cbdcca96af62_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">（图片来自UNsplash）</p> 
+<p>AirPods真的变得不受欢迎了？价值研究所（ID：jiazhiyanjiusuo）认为<strong>，比起外媒的爆料，实打实的数据更能说明问题——高达1000万的减产规模未必是真，AirPods遭遇增长瓶颈确实有迹可循。</strong></p> 
+<p>从数据上看，AirPods库存提升的趋势，在过去两年已经显露无疑。xianluwuyi</p> 
+<p>根据CounterPoint的报告，2020年是AirPods销量由盛转衰的转折点。彼时，苹果要求供应商生产的AirPods总数在8000-9000万副之间，但全年销售额为7280万副。多出来的近1000万副AirPods，大幅推高库存率，也增加了周转难度。</p> 
+<p><strong>再来看需求端，AirPods和竞争对手比起来，确实遇到了一些麻烦。</strong></p> 
+<p>根据市场调研机构Canalys的报告显示，2021年三季度苹果TWS耳机（包括AirPods、AirPods Pro和Beats）出货量为1780万副，同比2020年的2680万副下降了33.7%。与此同时，AirPods的市占率也从2020年的37.6%下降至24.6%，三星、小米等则迎头赶上，缩小了和苹果之间的差距。</p> 
+<p>虽然四季度出现一定的反弹，但AirPods全年的表现距离巅峰时期，还是有明显距离。</p> 
+<p>在去年遭遇增长瓶颈时，坊间对AirPods的前景就有过不少猜测。</p> 
+<p>上半年，不少媒体认为是“果粉”们在等待苹果秋季发布会推出的新款产品，所以暂缓购买计划。然而，AirPods下半年销售数据依旧没有太大起色，这个论据也变得站不住脚。</p> 
+<p>更何况，就算“果粉”真的都在等新品，对于苹果来说也并不见得是一笔稳赚不赔的买卖——问题的症结恰恰是在于，如果所有人都想等新品，苹果AirPods的库存谁来消耗呢？</p> 
+<p>这当中显然有一个巨大的供需矛盾。</p> 
+<h3><strong>2、大环境的萎缩：欧洲市场首当其冲</strong></h3> 
+<p><strong>至于市场大环境的变化，不少分析人士将矛头指向俄乌危机以及随之而来的欧洲市场需求下滑。</strong></p> 
+<p>最直接的证据是，和AirPods<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>传出减产传闻的还有iPhone SE、iPhone 13等手机产品，欧洲市场需求跌至低谷是重要原因。</p> 
+<p>来自IDC的数据显示，过去一年苹果不带5G功能的iPhone SE 出货量同比骤降40%，这一款在疫情初期实现大爆发的抢手货已经褪去光环。CounterPoint也在一份调查中指出，欧洲消费电子市场正在经历一段艰难时光，但这个趋势短期内恐怕无法缓解。</p> 
+<p>把眼光放回TWS市场。<strong>价值研究所（ID：jiazhiyanjiusuo）认为，作为行业龙头的苹果陷入低谷，对整个市场来说都是一个值得警示的危机信号。</strong></p> 
+<p>同样来自Canalys的报告显示，去年三季度全球个人音频市场出货量为1.188亿，同比下滑1.2%，是近年来首次出现同比下滑。TWS耳机虽然仍是市场增长主力，但增速也已经大幅放缓。</p> 
+<p>Canalys统计的数据显示，全球TWS耳机出货量同比增速在去年二季度跌至个位数，创下近三年新低，下半年也没有太大起色。在头部厂商中，除了苹果之外，三星、小米的TWS耳机出货量同比增速也出现下滑，后者更是全年几乎全零增长。真正实现逆市增长的，只有Boat。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220329/v2_62e70ef81c1d4aea82da21e3a07c6b9f_img_000" referrerpolicy="no-referrer"></p> 
+<p class="img-desc">（图片来自Canalys）</p> 
+<p>TWS耳机市场盛极而衰，固然<a class="project-link" data-id="224203" data-name="有客" data-logo="https://img.36krcdn.com/20210903/v2_56177536054e4deeb860be005dd51492_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4802801031" target="_blank">有客</a>观因素的影响，比如疫情，还有前文提到的欧洲市场萎缩。<strong>但除去这些客观因素之外，行业内部出现的一系列问题，也无法忽视：口碑下滑、山寨产品泛滥、质量缺乏保障……</strong></p> 
+<p>俗话说千里之堤溃于蚁穴，这句话放在TWS市场无比贴切。过去这些年的高速增长掩盖了行业内部的许多问题，但现在，这些问题的危害性，已经大大超出了外界的预期。</p> 
+<h2><strong>TWS市场乱象频生：山寨产品、虚假宣传耗尽用户耐心</strong></h2> 
+<p>回顾过去这些年，AirPods的诞生，可以说直接带动了TWS耳机的兴起，造就了市场的繁荣。<strong>但和智能手机、PC等消费电子市场一样，TWS耳机行业的快速壮大和产值规模的急剧提升，也导致整个行业变得良莠不齐，给山寨厂商和伪劣产品留出了可乘之机。</strong></p> 
+<p>根据旭日大数据的报告，由于市场需求在短时间内爆发式增长，头部厂商的产品又受到产能、价格等因素制约，市场出现大量空当。而在最近两年以来，缺乏质量保证但拥有价格优势的白牌TWS耳机顺势崛起，填补了市场的空白。</p> 
+<p>根据<a class="project-link" data-id="581283" data-name="西部证券" data-logo="https://img.36krcdn.com/20210814/v2_134718a24588480f91cd8278f2fdde9e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/581283" target="_blank">西部证券</a>的研报，由于白牌TWS耳机生产工艺要求不高，单个加工厂日出货量能达到0.5-1万副，可以以最快的速度抢占市场。数据显示，在最夸张的2020年四季度和2021年上半年，中国市场的TWS耳机出货量占全球市场比例达64%，白牌TWS耳机在国内市场的占比则高达九成。</p> 
+<p>从媒体的爆料来看，在iPhone崛起之初盛极一时的<a class="project-link" data-id="256343" data-name="深圳华强" data-logo="https://img.36krcdn.com/20210809/v2_1a08c0313e574f4fa92c0401c8914b50_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/256343" target="_blank">深圳华强</a>北，因为山寨AirPods需求的飙升，在这两年间再度回春。在多家权威媒体实地探访中都可以看到，华强北的白牌TWS耳机售价普遍在200元以下，利润率高企。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220329/v2_2abcf7fe68ff4b63b84b4c2ea709efd4_img_000" referrerpolicy="no-referrer"></p> 
+<p>和苹果、三星等头部厂商复杂的生产工艺相比，左右白牌TWS耳机质量和定价的因素很单一：芯片。</p> 
+<p>“基础款”的耳机一般采用络达、杰理芯片，售价普遍在100元左右；“进阶款”采用高通芯片，售价也不过是200元级别。</p> 
+<p><strong>更值得注意的是，在白牌TWS耳机销量狂飙突进的同时，其背后的庞大供应链也逐步成型。</strong>两者相互依存，构筑了一条令苹果、三星和华米OV等品牌厂商头疼不已的“灰色产业链”。</p> 
+<p>以芯片行业为例。因为量产能力强、性价比高而长期受到各种白牌TWS耳机欢迎的络达、杰理、恒玄科技等芯片厂商，就吃到了TWS耳机市场大爆发的红利，过去几年产能、营收直线上升。</p> 
+<p>旭日大数据的报告还指出，截至目前，三线以下城市的TWS耳机市场都尚未完全打开，是国内增长潜力最大的一块市场。<strong>而拥有性价比优势的白牌TWS耳机，对下沉市场用户具有天然吸引力。</strong></p> 
+<p>在这个阶段，价格似乎仍是用户选购TWS耳机时的主要考虑因素，也是白牌TWS耳机最大的优势。</p> 
+<p>翻看一下<a class="project-link" data-id="38685" data-name="微博" data-logo="https://img.36krcdn.com/20210807/v2_2b8eedaf020b41248fe5832758ad5407_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/38685" target="_blank">微博</a>、<a class="project-link" data-id="26593" data-name="豆瓣" data-logo="https://img.36krcdn.com/20210806/v2_4e872bd063fd454fbf0f838e551acbc8_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/26593" target="_blank">豆瓣</a>、<a class="project-link" data-id="26201" data-name="知乎" data-logo="https://img.36krcdn.com/20210806/v2_ed414e6ec7c7438f89719994093ec66c_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4688601213" target="_blank">知乎</a>等社交平台的相关信息就可以发现，寻找高性价比TWS耳机的用户不在少数。</p> 
+<p>知乎答主“王多鱼”的“实测2022年真无线蓝牙耳机推荐”动态，获得了1.1万个赞和2000+条评论，另一位答主“leo soon”的“各品牌高性价比蓝牙耳机推荐”更是<a class="project-link" data-id="95377" data-name="得到" data-logo="https://img.36krcdn.com/20210807/v2_966db147ab4646ef82349f069ce61219_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/95377" target="_blank">得到</a>了2.7万个赞和5800多条评论，热度惊人。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220329/v2_15aecdd4b9fc48dc9ba8b8cc9d1d51f9_img_000" referrerpolicy="no-referrer"></p> 
+<p><strong>然而，白牌TWS耳机的横行，早已开始反噬市场——尤其是口碑的坍塌，对于整个行业来说都是一场灾难。</strong></p> 
+<p>去年7月份，央视《每周质量报告》将矛头对准白牌TWS耳机厂商，发布了一系列令人触目惊心的数字：50%的降噪耳机降噪量不足、近40%宣称有降噪功能的耳机根本不支持主动降噪。</p> 
+<p>根据<a class="project-link" data-id="6702" data-name="天眼查" data-logo="https://img.36krcdn.com/20210823/v2_921d02605dfc4180a2137ab68cbc16c4_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/6702" target="_blank">天眼查</a>的数据，目前我国共有300多家降噪耳机生产厂商，其中绝大多数都在走低价生产、批量销售的路线，白牌大军在国内的TWS耳机市场中占据绝对主力。对照这个数据，央视的调查里涉及的47家厂商、60种机型，也只是冰山一角。</p> 
+<p><strong>在价值研究所（ID：jiazhiyanjiusuo）看来，市场发展到这种阶段，要想止跌反弹，监管的全面整顿和头部厂商的主动调整，缺一不可。</strong></p> 
+<p>监管方面，有关部门已经意识到问题的严重性，且作出相应处理。在央视曝光TWS耳机质量问题之后，国家市场监管总局表示，已向相关企业发放质量安全风险告知书，督促后者消除风险、切实保障消费者权益。但考虑到主客观降噪评判标准的复杂性，要制定一套完善的产品质检法案，还需要一段时间。</p> 
+<p>在企业方面，苹果、三星和华米OV等头部厂商，也有自己的烦恼——一边要跟白牌厂商开战，一边还要不断在技术、价格上内卷，如何把握分寸显得相当重要。</p> 
+<h2>TWS耳机的未来：消费升级还是降价下沉？</h2> 
+<p>面对监管的压力以及日趋放缓的增长速度，TWS耳机厂商如今又走到了一条分岔路。</p> 
+<p><strong>第一条路，是大搞价格战，攻占下沉市场，这也是华米OV，甚至过去一直聚焦高端市场的三星等多个品牌过去一年在做的事。</strong></p> 
+<p>去年8月份，三星TWS耳机Galaxy Buds 2在发布之前数天就传出降价20%的传闻，直接打响与苹果AirPods 3的价格战。而在几乎同一时间，<a class="project-link" data-id="28215" data-name="百度" data-logo="https://img.36krcdn.com/20210806/v2_f96267de58b643faae02c0cb24debbed_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/28215" target="_blank">百度</a>高调发布了首款主动降噪TWS耳机小度智能耳机Pro，预售行情相当火爆。</p> 
+<p>价值研究所（ID：jiazhiyanjiusuo）翻查的信息显示，这一场价格战的苗头早在2020年四季度便已显现。彼时，华米OV四大头部手机厂商，以及漫步者、FIIL和万魔等传统音频行业头部玩家纷纷推出售价500元以内的高性价比TWS耳机，开启下沉之旅。直到三星入局，这一场价格战可算是来到高潮。</p> 
+<p>价值研究所（ID：jiazhiyanjiusuo）认为，下沉路线还有另外一个作用：挤压山寨伪劣商家的生存空间，能够在一定程度上净化市场环境。</p> 
+<p>Canalys的数据显示，2021年四季度，品牌TWS耳机占有率上升至48%，基本上和白牌耳机平分秋色，后者一边倒领先的日子一去不复返。事实也再次证明，下沉市场用户对TWS耳机的品牌忠诚度相当有限，市场仍处于价格导向时代。</p> 
+<p><strong>另一条路，则是继续消费升级，通过提高技术附加值打开溢价空间，以谋求更高的毛利率。</strong></p> 
+<p>这条路的坚守者，非苹果莫属。在去年三星主动降价抢市场以及AirPods 3发布的双重冲击之际，AirPods Pro和AirPods 2等产品的价格依旧坚挺。直到去年年底，AirPods 2才官宣降价，国行版首次进入千元以下时代。但999元的售价，放在一款老产品身上，依旧比三星、小米等竞争对手高出一个档次。</p> 
+<p>然而，这两条路孰优孰劣，现在好像很难给出答案。</p> 
+<p>一方面，三星、小米大搞价格战，的确取得了一定效果，2021年第三、四季度在TWS耳机市场的市占率显著提升，后者更是首次跻身前三。但另一方面，坚持走高端路线的苹果掌握了更高的利润率。</p> 
+<p>在AirPods爆发式增长的2018-2019年期间，光是这一项业务获得的利润，就足以抵过整个小米集团。根据苹果财报，AirPods在2018年的总利润约为108亿，同年小米集团净利润仅为85亿。</p> 
+<p>当然，无论AirPods这款产品，还是整个TWS耳机市场的表现都较巅峰时期明显下滑，类似的暴利情景很难重现。但AirPods这种水平的超高利润率，依然是华米OV等厂商追求的目标。</p> 
+<p>考虑到这种情况，价值研究所（ID：jiazhiyanjiusuo）认为，要降价下沉还是要消费升级这两条路，并不是一条二选一的选择题——<strong>两条路线相结合，一边通过高性价比产品抢占下沉市场份额，一边不断提高技术壁垒和科技附加值巩固自己的核心竞争力，或许才是征服市场的正确选择。</strong></p> 
+<p>降价下沉这方面，各大厂商没有太多可选路径，丰富产品线是最好的方式。至于技术升级，价值研究所（ID：jiazhiyanjiusuo）认为，<strong>TWS耳机未来可能会走和运动手环、智能手表类似的路线：从依附手机的配件向独立智能终端过渡，增强产品独立性能。</strong></p> 
+<p>将最大卖点从“真无线蓝牙”转变成“智能”，是TWS挽救口碑，以及提高溢价能力的关键。目前，市面上主流TWS耳机的功能基本停留在主动降噪、语音唤醒和助听辅听阶段，并未具备独立智能终端的要求。但在未来，借助AI等前沿技术，增强智能语音交互能力，完全是一个可以尝试的方向。</p> 
+<p><a class="project-link" data-id="47586" data-name="中信证券" data-logo="https://img.36krcdn.com/20210807/v2_18c15444b3404e2bb5d701084db01ed1_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/47586" target="_blank">中信证券</a>统计的数据显示，目前智能耳机的出货量约占智能手机的15%左右，市场渗透率尚有增长空间。机会窗口已经出现，就看谁能抓住。</p> 
+<h2><strong>写在最后</strong></h2> 
+<p>去年5月份，传统音频巨头、四大HiFi品牌之一的<a class="project-link" data-id="647526" data-name="森海塞尔" data-logo="https://img.36krcdn.com/20210814/v2_a310f575bb3f41cfaefaef2277b66e2f_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/647526" target="_blank">森海塞尔</a>宣布，将其消费电子业务部门出售给助听器制造商索诺瓦。后者是全球规模最大的助听器制造商之一，这项收购总耗资约2亿欧元，索诺瓦将获得森海塞尔消费电子业务的相关知识产权、有形资产以及近600名员工。</p> 
+<p>作为一家拥有超70年历史的消费电子巨头，森海塞尔一度贵为耳机行业的王者，打造过奥菲斯 HE90等经典产品。但面对TWS耳机的崛起，以及一众科技巨头的围剿，森海塞尔也难以抵挡时代巨轮的冲击，最终轰然倒下。</p> 
+<p>然而，森海塞尔的今天，或许也会成为很多TWS厂商的明天。</p> 
+<p>苹果、三星这样的巨头固然不会因为TWS耳机业务的一时起落而蒙受重大损失，但在这一众巨头底下的众多中腰部玩家，必然压力陡增。从长远发展的角度来讲，价格战、营销战不是长远之道，放任白牌产品野蛮生长也必将酿成苦果。</p> 
+<p>净化市场环境、提高产品品质，才是TWS的自救之道。</p> 
+<p><strong>每日话题</strong></p> 
+<p><strong>你还会为高价AirPods买单吗？</strong></p> 
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzU4NjEwNDU5MQ==&mid=2247507655&idx=1&sn=3b7bb81d051229d14b0dccfbd9026ebc&chksm=fd82f4a7caf57db1a978ee56c7a8080dab7240818581fcd6f783bba74e80bb35f3cf99e23726#rd">“价值研究所”（ID：jiazhiyanjiusuo）</a>，作者：Hernanderz，36氪经授权发布。</p>  
+</div>
+            

@@ -1,0 +1,18 @@
+
+---
+title: '可以看看大家的金渐层吗_-胥有光的回答：突然发现手机上的照片都传u盘了，只翻到了几张 _图片_ _图片_ _图片_ _图片_ _图片_ _图片_ _图片_'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-452b650765b18998be5452378067d909_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 29 Mar 2022 11:15:02 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-452b650765b18998be5452378067d909_1440w.jpg'
+---
+
+<div>   
+<strong>可以看看大家的金渐层吗?</strong><br>胥有光的回答<br><p data-pid="iAQVcgHU">突然发现手机上的照片都传u盘了，只翻到了几张</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-452b650765b18998be5452378067d909_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-a3094f925e1132abed2454140d73302c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-452b650765b18998be5452378067d909_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4b2608553821f8fc43c97cea6af1d6d7_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-cf9ace0c697b2d09d8ad691f6064d3d0_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4b2608553821f8fc43c97cea6af1d6d7_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-902aff84cf2d4af40aea288475a2ff32_1440w.jpg" data-rawwidth="1077" data-rawheight="1077" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-0cf6844a6135a5d0585082dd1c35ef59_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-902aff84cf2d4af40aea288475a2ff32_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-9c44f9e0d8cfad7edd5694777e035109_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-372d7cc3e15ac2d810c60ab705007944_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-9c44f9e0d8cfad7edd5694777e035109_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-8f989729b2d14f4dacc642e429912f50_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-795546de0f61f087707f5f93f80be146_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-8f989729b2d14f4dacc642e429912f50_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-83471186657932a0531b9d2397b7b211_1440w.jpg" data-rawwidth="2048" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-8438cecfeeb97a12997f15ee1e80ee5b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-83471186657932a0531b9d2397b7b211_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1a58d43cfc27ca98ac4353e5fe849152_1440w.jpg" data-rawwidth="1024" data-rawheight="1024" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-beeddbb27779b9f17d630ad2c2ea40c3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1a58d43cfc27ca98ac4353e5fe849152_r.jpg" referrerpolicy="no-referrer"></figure><p></p><p></p>  
+</div>
+            
