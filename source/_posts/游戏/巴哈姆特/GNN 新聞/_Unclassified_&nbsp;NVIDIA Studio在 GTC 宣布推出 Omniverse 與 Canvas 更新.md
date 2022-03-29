@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.JPG?v=1648550024599'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?v=1648550314714'
 author: 巴哈姆特
 comments: false
-date: 2022-03-29 11:25:53
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.JPG?v=1648550024599'
+date: 2022-03-29 12:16:45
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?v=1648550314714'
 ---
 
 <div>   
@@ -19,16 +19,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.
 <div>
 <div>
 　　NVIDIA 今日整理在今年 GTC 大會中的重點消息，希望未來幫助遊戲開發人員獲得創意的提升。</div>
-<div>
- </div>
-<div>
-<ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.61%;">
-<figcaption style="padding-bottom: 29.11%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.JPG?v=1648550024599" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/15d97ff95a785d5a84b538b2c21fqpd5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
-</ul>
-</div>
-<div>
- </div>
 <h3>
 NVIDIA 重點消息回顧</h3>
 <div>
@@ -83,7 +73,7 @@ NVIDIA Canvas 對風格樣式進行了更新，為藝術家提供 10 種不同�
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?v=1648550314714" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?v=1648550314714" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/fc30f99d6e9fca4b078a5e0deb1fqz35.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -99,7 +89,7 @@ NVIDIA Canvas 對風格樣式進行了更新，為藝術家提供 10 種不同�
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG?v=1648550336167" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG?v=1648550336167" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/76433dceda32ceda31cb64285a1fqz25.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
