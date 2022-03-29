@@ -1,0 +1,18 @@
+
+---
+title: '通胀一来，ESG就不香了'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://picsum.photos/400/300?random=8078'
+author: 虎嗅
+comments: false
+date: Tue, 29 Mar 2022 13:38:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8078'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="http://mp.weixin.qq.com/s?__biz=MzU3MDc5NTU0NQ==&mid=2247523448&idx=3&sn=1745d1c11f68d903919e51210bfae5e9&chksm=fceb2f0ecb9ca6183de48cc038da24dca27b5409f0f0da37ff6f5f46d45f34636a628da3b72b#rd" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">巴伦周刊 （ID：barronschina）</span></a><span class="text-remarks">，作者：劳伦 · 福斯特，编辑：吴雨婷，翻译：小彩，头图来自：视觉中国</span></p><p>通货膨胀和俄乌冲突对美国经济造成了冲击，并对环境、社会和治理<span class="text-remarks" label="备注">（简称ESG）</span>基金的表现和投资流动性造成了压力。伯恩斯坦公司<span class="text-remarks" label="备注">（Bernstein）</span>最近的一份报告显示，对于那些能源和国防类股权重较低的基金来说，影响更加明显。</p><p>报告作者指出：“ESG基金和指数今年在各个地区的表现都不佳，虽然ESG基金今年出现了正资金流入，EPFR的数据显示，ESG基金今年迄今净流入314亿美元。但3月份的第一周，ESG基金出现了罕见的资金净流出，净流出总额达到了创纪录的13亿美元，这是EPFR数据库30年历史上规模最大的单周资金流出。”</p><p>伯恩斯坦欧洲股票策略研究主管、该报告的作者之一萨拉·麦卡锡<span class="text-remarks" label="备注">（Sarah McCarthy）</span>表示，资金外流和糟糕的业绩表现挑战了有关ESG投资的传统看法，并在一定程度上揭示了一个事实，即<strong>ESG基金几乎被迫承担了巨大的宏观风险。</strong><strong>这是因为许多ESG基金倾向于将国防、烟草、能源等行业的股票排除在外，在通胀预期上升时，国防、烟草类股票通常表现不佳，而在通胀环境下，能源类股的表现通常优于其他行业。</strong></p><p>麦卡锡表示，<strong>目前的环境将推动ESG投资策略的一些变化，但ESG将长期存在。这在一定程度上是因为“气候议程将继续下去”。</strong></p><p>伯恩斯坦的数据显示，全球和美国ESG基金1月份的表现均比非ESG基金差120个基点。<span class="text-remarks" label="备注">(一个基点是百分之一）</span>同月，欧盟ESG基金的表现落后于非ESG基金50个基点。</p><p>晨星公司的数据显示，今年以来，晨星美国可持续发展TR美元指数下跌了8.7%，而晨星全球市场可持续发展NR美元指数下跌了8%。晨星欧洲可持续发展NR美元指数下跌了近13%。这三个指数的表现都不及非ESG指数。</p><p><strong>通胀可能是ESG基金最近表现不佳的最大原因。</strong>以美国消费者价格指数衡量，美国2月份的通货膨胀率折合成年率上升了7.9%，汽油、食品和住房价格涨幅居前，创40年来新高。俄乌冲突导致能源和其他大宗商品价格上涨，加剧了全球通胀。</p><p>美国联邦储备委员会主席鲍威尔此前曾表示，美联储将对通胀采取强硬行动。在回答有关俄乌冲突导致通胀的问题时，他表示：“我们希望非常谨慎地迅速采取行动，使政策达到需要的程度。”</p><p>伯恩斯坦预计，俄乌冲突将导致“更长时间的高通胀”。</p><p>报告的作者指出，ESG基金和指数之所以受到通胀预期上升和俄乌冲突的双重打击，有几个原因。主要是，这些基金的传统能源类股持仓权重较低，随着石油和其他大宗商品价格飙升，这些股票的表现“远超大盘”。</p><p>报告称：“能源权重偏低可能是ESG基金面临的最大风险。能源在历史上的高通胀时期表现非常强劲。”能源指数ETF-SPDR<span class="text-remarks" label="备注">（XLE）</span>今年迄今为止的回报率约为35.5%，包括股息。</p><p>麦卡锡说：“ESG基金为了管理投资组合的碳排放而降低能源投资比重，这意味着它们承担了巨大的宏观风险。”</p><p>对ESG基金不利的另一个原因是，它们清洁能源股的持仓权重过高，而这类股属于“长期股”，这意味着这些公司将在遥远的未来才能产生大部分现金流。从历史上看，成长型股票在利率上升时期的表现都不佳，因为它们未来的收益在当前价值更低。</p><p>然而，正如作者所指出的那样，自俄乌冲突以来，清洁能源股票的表现一直好于其他股票，这是基于“减少对俄罗斯化石燃料依赖的紧迫性已经加剧”的假设。</p><p><strong>ESG基金中的国防类股票缺乏，也影响了今年该类基金的资金流动和业绩。</strong>国防类股在2021年的表现好于标准普尔500指数，而且自从德国在2月底突然转变立场表示将大幅增加国防支出至国内生产总值的2%以来，国防类股的表现一直好于大盘。</p><p>自那以来，标准普尔航空航天国防ETF<span class="text-remarks" label="备注">（SPDR s & p Aerospace & Defense ETF，XAR）</span>上涨了约8%，而同期标准普尔500指数上涨了4%。</p><p>伯恩斯坦表示，ESG基金对价值型股的敞口不足，对能源、大宗商品和金融等较短期类股的比重较低。这意味着它们还错过了今年早些时候有利于这些行业的价值轮动。</p><p>所有这些都引出了一个问题，即<strong>在通胀环境下，ESG 投资者应该如何定位。</strong></p><p>报告称，投资者应降低持续时间风险，并增加对具有定价权公司的敞口，即那些可以通过提价将更高成本转嫁给消费者的公司。随着通胀预期的上升，对通胀不太敏感的股票往往会有更好的表现。</p><p>伯恩斯坦还建议增加对能源、大宗商品和金融行业的投资。报告作者表示：“ESG基金和指数今年表现不佳，揭示出将某些行业排除在外会带来巨大的宏观风险。”</p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="http://mp.weixin.qq.com/s?__biz=MzU3MDc5NTU0NQ==&mid=2247523448&idx=3&sn=1745d1c11f68d903919e51210bfae5e9&chksm=fceb2f0ecb9ca6183de48cc038da24dca27b5409f0f0da37ff6f5f46d45f34636a628da3b72b#rd" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">巴伦周刊 （ID：barronschina）</span></a><span class="text-remarks">，作者：劳伦 · 福斯特，编辑：吴雨婷，翻译：小彩</span></p>  
+</div>
+            
