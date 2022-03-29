@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/03/29/1610163146.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-03-29 08:12:41
+date: 2022-03-29 09:10:02
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/03/29/1610163146.jpg'
 ---
 
@@ -17,6 +17,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/03/29/1610163146.jpg'
 PS4/PS5《绿林侠盗：亡命之徒与传奇》
 PS4《杀戮尖塔》
 PS4《海绵宝宝：比基尼海滩之战 补充水分》
-领取时间为2022年4月5日~5月3日<br><img src="https://erbingeditor.diershoubing.com/6/2022/03/29/1610163146.jpg" referrerpolicy="no-referrer">  
+领取时间为2022年4月5日~5月3日<br><img src="https://erbingeditor.diershoubing.com/6/2022/03/29/1610163146.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/29/1617229139.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/29/1617223106.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/03/29/1617224911.jpg" referrerpolicy="no-referrer">  
 </div>
             
