@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=4946'
+headimg: 'https://picsum.photos/400/300?random=7457'
 author: Monotype
 comments: false
 date: Thu, 30 Jul 2020 18:59:16 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4946'
+thumbnail: 'https://picsum.photos/400/300?random=7457'
 ---
 
 <div>   
@@ -213,7 +213,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4946'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Internal branding is not meant to be this ‘top-down, we’re talking to you, this is how this thing is meant to work’ type messaging, but rather something participatory and engaging that’s more ‘we’re all in this together.’<span class="quote-Text-last-letter">”</span></span>
+                  <span>Internal branding is not meant to be this ‘top-down, we’re talking to you, this is how this thing is meant to work’ type messaging, but rather something participatory and engaging that’s more ‘we’re all in this together.’</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
@@ -259,7 +260,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4946'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>When we're designing these things, we want to box it in as much as we can to keep it safe. But that's not how the world really works.<span class="quote-Text-last-letter">”</span></span>
+                  <span>When we're designing these things, we want to box it in as much as we can to keep it safe. But that's not how the world really works.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
@@ -309,7 +311,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4946'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Internal branding has a positive impact on employee engagement, which leads to better customer engagement, greater productivity, better retention, and 21% higher profitability, according to a study done by Wrike Project Management.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Internal branding has a positive impact on employee engagement, which leads to better customer engagement, greater productivity, better retention, and 21% higher profitability, according to a study done by Wrike Project Management.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                   
@@ -356,7 +359,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4946'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Authenticity comes in when a brand talks the talk and then walks the walk. For example, a brand can’t say that it has initiatives that support disenfranchised people for the past few years and then not have some response to what's going on right now in racial justice movements. You can't say that without acting on it.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Authenticity comes in when a brand talks the talk and then walks the walk. For example, a brand can’t say that it has initiatives that support disenfranchised people for the past few years and then not have some response to what's going on right now in racial justice movements. You can't say that without acting on it.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">

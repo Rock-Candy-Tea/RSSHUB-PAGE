@@ -334,7 +334,8 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>I remember Drake and Mac Miller re-posted my portraits and Mac Miller almost put me on, because that day I got 2 or 3,000 followers in five minutes. It was insane. And I was like, ‘okay, this formula is working.’<span class="quote-Text-last-letter">”</span></span>
+                  <span>I remember Drake and Mac Miller re-posted my portraits and Mac Miller almost put me on, because that day I got 2 or 3,000 followers in five minutes. It was insane. And I was like, ‘okay, this formula is working.’</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                   

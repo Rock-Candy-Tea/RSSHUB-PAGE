@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=1107'
+headimg: 'https://picsum.photos/400/300?random=175'
 author: Monotype
 comments: false
 date: Wed, 03 Feb 2021 10:52:05 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1107'
+thumbnail: 'https://picsum.photos/400/300?random=175'
 ---
 
 <div>   
@@ -246,7 +246,8 @@ thumbnail: 'https://picsum.photos/400/300?random=1107'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Looking back is a means to graphic clarity, a one pointedness that builds on the inherent nature of service and product.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Looking back is a means to graphic clarity, a one pointedness that builds on the inherent nature of service and product.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">

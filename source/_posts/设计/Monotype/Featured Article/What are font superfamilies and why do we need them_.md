@@ -312,7 +312,8 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>You can use a superfamily in your style guide to differentiate a different product line, a different attitude or a different tone of voice that’s similar and recognizable.<span class="quote-Text-last-letter">”</span></span>
+                  <span>You can use a superfamily in your style guide to differentiate a different product line, a different attitude or a different tone of voice that’s similar and recognizable.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">

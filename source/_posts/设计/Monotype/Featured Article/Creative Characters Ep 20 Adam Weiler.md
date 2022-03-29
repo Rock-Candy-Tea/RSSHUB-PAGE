@@ -281,7 +281,8 @@ As a long-time design thinking coach,</span><span> Weiler has a wealth of experi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>One of the things that drew me to design was this question of being an effective problem solver. ‘How do I make something that, aesthetically, is compelling and that functionally works?’<span class="quote-Text-last-letter">”</span></span>
+                  <span>One of the things that drew me to design was this question of being an effective problem solver. ‘How do I make something that, aesthetically, is compelling and that functionally works?’</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
@@ -337,7 +338,8 @@ As a long-time design thinking coach,</span><span> Weiler has a wealth of experi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Part of what makes bees beautiful is that the path that they take isn‘t direct, their paths are wandering, making the environment more fruitful as they‘re pollinating.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Part of what makes bees beautiful is that the path that they take isn‘t direct, their paths are wandering, making the environment more fruitful as they‘re pollinating.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">

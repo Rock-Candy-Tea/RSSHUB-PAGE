@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=390'
+headimg: 'https://picsum.photos/400/300?random=2720'
 author: Monotype
 comments: false
 date: Tue, 30 Jun 2020 12:22:07 GMT
-thumbnail: 'https://picsum.photos/400/300?random=390'
+thumbnail: 'https://picsum.photos/400/300?random=2720'
 ---
 
 <div>   
@@ -219,7 +219,8 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Creative work, whether it’s graphic design, typography, or writing, is somewhat paradoxical in that it thrives on two things: Collaboration, and being left alone. <span class="quote-Text-last-letter">”</span></span>
+                  <span>Creative work, whether it’s graphic design, typography, or writing, is somewhat paradoxical in that it thrives on two things: Collaboration, and being left alone. </span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                   
@@ -256,7 +257,8 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Finding a quiet place to get in your zone and do some in-depth designing is so much easier at home than at the office. And I say that as a parent of a 5- and 7-year old.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Finding a quiet place to get in your zone and do some in-depth designing is so much easier at home than at the office. And I say that as a parent of a 5- and 7-year old.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
@@ -304,7 +306,8 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>Unless you’re careful, those spontaneous corridor moments in the studio or impromptu catch-ups at each other’s desks can disappear altogether.<span class="quote-Text-last-letter">”</span></span>
+                  <span>Unless you’re careful, those spontaneous corridor moments in the studio or impromptu catch-ups at each other’s desks can disappear altogether.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
@@ -348,8 +351,9 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>The desire to stay in touch can lead to an overabundance of video calls and an endless stream of chats that can sink a person’s day, essentially replicating the distractions and background noise of office life. 
-<span class="quote-Text-last-letter">”</span></span>
+                  <span>The desire to stay in touch can lead to an overabundance of video calls and an endless stream of chats that can sink a person’s day, essentially replicating the distractions and background noise of office life. 
+</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                   
@@ -396,7 +400,8 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>In many ways, the COVID-19 pandemic has accelerated trends that were already in place. <span class="quote-Text-last-letter">”</span></span>
+                  <span>In many ways, the COVID-19 pandemic has accelerated trends that were already in place. </span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                   
@@ -437,7 +442,8 @@ thumbnail: 'https://picsum.photos/400/300?random=390'
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-        <span>If COVID-19 has taught us anything, it’s that all the hand-wringing companies were doing over remote work was really for naught. It works, and it works well.<span class="quote-Text-last-letter">”</span></span>
+                  <span>If COVID-19 has taught us anything, it’s that all the hand-wringing companies were doing over remote work was really for naught. It works, and it works well.</span>
+                <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
