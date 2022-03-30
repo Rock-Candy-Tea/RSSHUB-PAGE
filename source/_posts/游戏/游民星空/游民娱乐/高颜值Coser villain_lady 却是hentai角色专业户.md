@@ -13,7 +13,7 @@ thumbnail: 'https://img1.gamersky.com/image2022/02/20220218_ls_red_141_5/13913_S
 ---
 
 <div>   
-<p>《猎人》中的西索完美的验证了「反派的迷人角色」这句话！
+<p>《猎人》中的西索完美的验证了“迷人的反派角色”！
 原本是幻影旅团的成员，成员编号No.4！是念能力专长是变化系，不性格反覆无常却该死的有魅力。</p>
 <p style="TEXT-ALIGN: center"><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/02/20220218_ls_red_141_5/13913.jpg" target="_blank" _cke_saved_href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/02/20220218_ls_red_141_5/13913.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2022/02/20220218_ls_red_141_5/13913_S.jpg" _cke_saved_src="https://img1.gamersky.com/image2022/02/20220218_ls_red_141_5/13913_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p>作为代表性角色，有不少人都出过西索，不过有人天生就是比较有优势。</p>
