@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/471/698/original/76464c937ef67103.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/043/472/618/original/f7a490654d40fbdd.png'
 author: Mastodon
 comments: false
-date: Wed, 30 Mar 2022 07:46:19 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/471/698/original/76464c937ef67103.png'
+date: Wed, 30 Mar 2022 08:40:17 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/043/472/618/original/f7a490654d40fbdd.png'
 ---
 
 <div>   
-<hr><p>有償……有償欄……ﾎﾜｧｱｱｱ………</p><br><img src="https://img.pawoo.net/media_attachments/files/043/471/698/original/76464c937ef67103.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>は？？マレウス様じゃん</p><br><img src="https://img.pawoo.net/media_attachments/files/043/472/618/original/f7a490654d40fbdd.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             

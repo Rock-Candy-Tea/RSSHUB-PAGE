@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.JPG?v=1648608030447'
 author: 巴哈姆特
 comments: false
-date: 2022-03-30 08:13:08
+date: 2022-03-30 09:10:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.JPG?v=1648608030447'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　赤燭遊戲目前正在開發中，以道龐克風格呈現的 2D 動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B9%9D%E6%97%A5" target="_blank">九日</a>》，官方於昨（29）日宣布群眾募資計畫達標的消息，而巴哈姆特也於同日體驗了遊戲的試玩 Demo 搶鮮版，以下將藉由獨家影片帶領玩家一窺遊戲目前面貌。</div>
+　　赤燭遊戲目前正在開發中，以道龐克風格呈現的 2D 動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B9%9D%E6%97%A5" target="_blank">九日</a>》，官方於昨（29）日宣布群眾募資計畫達標的消息，而巴哈姆特也於同日體驗了遊戲的試玩 Demo 搶先版，以下將藉由獨家影片帶領玩家一窺遊戲目前面貌。</div>
 <div>
  </div>
 <div>

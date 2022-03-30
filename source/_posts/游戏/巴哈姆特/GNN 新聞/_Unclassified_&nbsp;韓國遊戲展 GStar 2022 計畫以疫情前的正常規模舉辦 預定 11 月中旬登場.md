@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?v=1648627851717'
 author: 巴哈姆特
 comments: false
-date: 2022-03-30 08:13:08
+date: 2022-03-30 09:10:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?v=1648627851717'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 75.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?v=1648627851717" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?v=1648627851717" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -40,16 +40,16 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/6409f553e865d2c6dd2a310f3916uwg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 47.10%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG?v=1648627872542" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 47.10%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG?v=1648627872542" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/217191ad01b6a2a4c367d3a5831frem5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 29.51%;">
-<figcaption style="padding-bottom: 133.62%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?v=1648627933247" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG 4x" style="max-width: unset;" title="2019 年 Gstar 現場" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 133.62%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?v=1648627933247" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/15/40ee1d71d09d63c9baf1bdcf0e16uwv5.JPG 4x" style="max-width: unset;" title="2019 年 Gstar 現場" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 70.10%;">
-<figcaption style="padding-bottom: 56.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG?v=1648627933247" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG 2x" style="max-width: unset;" title="2019 年 Gstar 現場" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG?v=1648627933247" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/8ae5f0d9ed0e83d0420a155aa816v2f5.PNG 2x" style="max-width: unset;" title="2019 年 Gstar 現場" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 2019 年 Gstar 現場</figure>
