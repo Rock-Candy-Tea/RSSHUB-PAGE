@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?v=1648623895402'
 author: 巴哈姆特
 comments: false
-date: 2022-03-30 07:10:52
+date: 2022-03-30 08:13:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?v=1648623895402'
 ---
 
@@ -18,13 +18,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.
 <div>
 <div>
 <div>
-　　Cooler Master 酷碼科技今（29）日正式發表全臺首輛沉浸式遊戲體驗專車「酷玩行者」，全車搭載 10 組頂級電競級電腦設備以及高規格 LED 面板，提供直播、轉播等功能，為消費者打造最佳遊玩環境。「酷玩行者」首站將會在 4 月 2 日臺中洲際棒球場登場，未來一年也將於全臺巡迴展出，讓消費者走出戶外，獲得嶄新的娛樂體驗。</div>
+　　Cooler Master 酷碼科技於（29）日正式發表全臺首輛沉浸式遊戲體驗專車「酷玩行者」，全車搭載 10 組頂級電競級電腦設備以及高規格 LED 面板，提供直播、轉播等功能，為消費者打造最佳遊玩環境。「酷玩行者」首站將會在 4 月 2 日臺中洲際棒球場登場，未來一年也將於全臺巡迴展出，讓消費者走出戶外，獲得嶄新的娛樂體驗。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?v=1648623895402" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG 2x" style="max-width: unset;" title="「酷玩行者」是酷碼科技集團成立的娛樂媒體公司Ｍaster XP，斥資千萬打造的頂級沉浸式遊戲體驗專車" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?v=1648623895402" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.JPG 2x" style="max-width: unset;" title="「酷玩行者」是酷碼科技集團成立的娛樂媒體公司Ｍaster XP，斥資千萬打造的頂級沉浸式遊戲體驗專車" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「酷玩行者」是酷碼科技集團成立的娛樂媒體公司 Ｍaster XP，斥資千萬打造的頂級沉浸式遊戲體驗專車</figure>
 </li>
@@ -43,7 +43,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 69.16%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG?v=1648623940752" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG 2x" style="max-width: unset;" title="酷玩行者兼具創意、娛樂、機動等多功能性，移動式大舞台讓互動距離沒有設限，直播活動、DJ 派對一車搞定" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 69.16%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG?v=1648623940752" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/eb2adb6d3d580f75455bf8fe001fr8x5.JPG 2x" style="max-width: unset;" title="酷玩行者兼具創意、娛樂、機動等多功能性，移動式大舞台讓互動距離沒有設限，直播活動、DJ 派對一車搞定" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 酷玩行者兼具創意、娛樂、機動等多功能性，移動式大舞台讓互動距離沒有設限，直播活動、DJ 派對一車搞定</figure>
 </li>
@@ -70,15 +70,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/bbbf78d6b8eaab8ec6f9876bad1fr8w5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/5536c1db9ad68b1399a543bcba1fr8y5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/09e37fdf67f3a152660a30ad181fr8z5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/cf2c7841b7a3f309c3829cbf4e1fr905.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?v=1648623965216" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/73/bb5cec4c982ef49ebfb82a25f11fr915.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

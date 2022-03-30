@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.JPG?v=1648608030447'
 author: 巴哈姆特
 comments: false
-date: 2022-03-30 07:10:52
+date: 2022-03-30 08:13:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.JPG?v=1648608030447'
 ---
 
@@ -62,6 +62,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/55c514c7158c5f565f047ca4241fr3z5.
 </div>
 <div>
  </div>
+<p> </p>
+<div class="article_gamercard lazyload" data-fanspage-id="54275" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
