@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/spaces-collaboration/'
 author: Inside Design
 comments: false
-date: 2022-03-30 04:10:54
+date: 2022-03-30 05:08:46
 thumbnail: 'https://www.invisionapp.com/inside-design/spaces-collaboration/'
 ---
 
