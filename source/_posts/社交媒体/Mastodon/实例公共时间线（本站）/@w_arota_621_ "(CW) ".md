@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/043/468/754/original/49ff4d4fb3d66007.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/043/469/871/original/6088fd6a62774e86.jpeg'
 author: Mastodon
 comments: false
-date: Wed, 30 Mar 2022 04:49:57 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/043/468/754/original/49ff4d4fb3d66007.jpeg'
+date: Wed, 30 Mar 2022 05:57:46 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/043/469/871/original/6088fd6a62774e86.jpeg'
 ---
 
 <div>   
-<hr><p><a href="https://youtu.be/5bz-FNeF9dY" rel="nofollow noopener noreferrer" target="_blank">https://youtu.be/5bz-FNeF9dY</a></p><p><a href="https://youtu.be/aqXhUtwO_ZY" rel="nofollow noopener noreferrer" target="_blank">https://youtu.be/aqXhUtwO_ZY</a> </p><p><a href="https://pawoo.net/tags/exp12h" class="mention hashtag" rel="tag">#exp12h</a></p><br><img src="https://img.pawoo.net/media_attachments/files/043/468/754/original/49ff4d4fb3d66007.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>こっちの方が正直見やすい</p><br><img src="https://img.pawoo.net/media_attachments/files/043/469/871/original/6088fd6a62774e86.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/469/872/original/67ec757c89e528d5.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/469/876/original/a0f6bbea9f7cd926.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/043/469/878/original/b48fff3bb833657e.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
