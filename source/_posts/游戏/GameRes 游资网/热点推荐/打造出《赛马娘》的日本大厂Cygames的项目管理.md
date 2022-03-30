@@ -5,44 +5,41 @@ categories:
  - 游戏
  - GameRes 游资网
  - 热点推荐
-headimg: 'https://di.gameres.com/attachment/forum/202203/24/111127g2jcfwdav1vg7ctc.png'
+headimg: 'https://di.gameres.com/attachment/forum/202203/29/094505sntzfn9u7zaurn9l.jpg'
 author: GameRes 游资网
 comments: false
-date: Thu, 24 Mar 2022 00:00:00 GMT
-thumbnail: 'https://di.gameres.com/attachment/forum/202203/24/111127g2jcfwdav1vg7ctc.png'
+date: Tue, 29 Mar 2022 00:00:00 GMT
+thumbnail: 'https://di.gameres.com/attachment/forum/202203/29/094505sntzfn9u7zaurn9l.jpg'
 ---
 
 <div>   
-<font size="2"><font color="#696969">历时五年的精细研发，《赛马娘》的开发公司Cygames是如何打造出爆款的？除了“制作最好的内容”的信念与精神，正如创始人之一木村唯人所说，还依靠成熟的创意和项目管理，以及对技术的持续超前投入。那么Cygames是如何进行项目管理的以及对项目经理有和要求？让我们一瞧究竟。</font></font><br>
-<font size="2"><font color="#696969"><br>
+<i><font color="#808080">以下文章来源于腾讯游戏学堂 ，作者Rosie</font></i><br>
+<br>
+<div align="center">
+<img aid="1034952" zoomfile="https://di.gameres.com/attachment/forum/202203/29/094505sntzfn9u7zaurn9l.jpg" data-original="https://di.gameres.com/attachment/forum/202203/29/094505sntzfn9u7zaurn9l.jpg" width="570" id="aimg_1034952" inpost="1" src="https://di.gameres.com/attachment/forum/202203/29/094505sntzfn9u7zaurn9l.jpg" referrerpolicy="no-referrer">
+</div><br>
+<font size="2"><font color="#808080">历时五年的精细研发，《赛马娘》的开发公司Cygames是如何打造出爆款的？除了“制作最好的内容”的信念与精神，正如创始人之一木村唯人所说，还依靠成熟的创意和项目管理，以及对技术的持续超前投入。那么Cygames是如何进行项目管理的以及对项目经理有和要求？让我们一瞧究竟。</font></font><br>
+<font size="2"><font color="#808080"><br>
 </font></font><br>
-<font size="2"><font color="#696969">*以下内容翻译于</font></font><font size="2"><font color="#696969">https://magazine.cygames.co.jp/archives/9636#i3</font></font><br>
+<font size="2"><font color="#808080">*以下内容翻译于https://magazine.cygames.co.jp/archives/9636#i3</font></font><br>
 <br>
 游戏开发项目中，把人、物（场所）、资金、时间、信息等资源进行恰当的管理是成功的关键。<br>
 <br>
 而项目经理就是承担上述管理工作的重要成员。他们在工作现场中主要在做什么工作，在游戏开发的项目中发挥着怎么样的能力呢？下面是根据对Cygames项目管理负责人的采访进行的总结。<br>
 <br>
-1. 完成整套游戏制作的负责人<br>
-<br>
-2. 最大限度调用公司资源<br>
-<br>
-3. 必要的素养及心态<br>
-<br>
-4. 项目经理的工作价值<br>
-<br>
-<font style="background-color:black"><font color="#ffffff">1</font></font><strong>完成整套游戏制作的负责人</strong><br>
+<strong><font color="#de5650">一、完成整套游戏制作的负责人</font></strong><br>
 <br>
 项目经理（下称PM）是项目的管理者，也是负责让游戏项目完成的责任者。具体来说PM需要负责游戏开发的进度管理，开发人员的配置和给项目同学提供更好的工作环境等工作。<br>
 <br>
 <div align="center">
-<img aid="1034539" zoomfile="https://di.gameres.com/attachment/forum/202203/24/111127g2jcfwdav1vg7ctc.png" data-original="https://di.gameres.com/attachment/forum/202203/24/111127g2jcfwdav1vg7ctc.png" width="600" id="aimg_1034539" inpost="1" src="https://di.gameres.com/attachment/forum/202203/24/111127g2jcfwdav1vg7ctc.png" referrerpolicy="no-referrer">
+<img aid="1034953" zoomfile="https://di.gameres.com/attachment/forum/202203/29/094506bgaikgny4n2cjg4g.png" data-original="https://di.gameres.com/attachment/forum/202203/29/094506bgaikgny4n2cjg4g.png" width="600" id="aimg_1034953" inpost="1" src="https://di.gameres.com/attachment/forum/202203/29/094506bgaikgny4n2cjg4g.png" referrerpolicy="no-referrer">
 </div><br>
 可能根据项目情况会有所不同，但在Cygames中一般由producer负责思考会火的游戏企划和方法，director负责思考让游戏更有趣的方法。而PM则是为了实现二者心目中【会火的有趣的游戏】去管理项目。<br>
 <br>
 <div align="center">
-<img aid="1034540" zoomfile="https://di.gameres.com/attachment/forum/202203/24/111127gj0ggbjwgnvnai6w.png" data-original="https://di.gameres.com/attachment/forum/202203/24/111127gj0ggbjwgnvnai6w.png" width="600" id="aimg_1034540" inpost="1" src="https://di.gameres.com/attachment/forum/202203/24/111127gj0ggbjwgnvnai6w.png" referrerpolicy="no-referrer">
+<img aid="1034954" zoomfile="https://di.gameres.com/attachment/forum/202203/29/094506waoqo2klgof2nnc8.png" data-original="https://di.gameres.com/attachment/forum/202203/29/094506waoqo2klgof2nnc8.png" width="600" id="aimg_1034954" inpost="1" src="https://di.gameres.com/attachment/forum/202203/29/094506waoqo2klgof2nnc8.png" referrerpolicy="no-referrer">
 </div><br>
-<font style="background-color:black"><font color="#ffffff">2</font></font><strong><font color="#de5650">最大限度调用公司资源</font></strong><br>
+<strong><font color="#de5650">二、最大限度调用公司资源</font></strong><br>
 <br>
 PM的工作主要是围绕「最大限度利用公司资源来打造最好的内容」来展开的。<br>
 <br>
@@ -76,7 +73,7 @@ Cygames项目的各个详细的实装时间表是由game planner进行管理的�
 <br>
 最后是信息的管理。PM作为比谁都更了解项目的人，需要在合适时机向合适的对象分享项目相关的信息。为了让producer和director、开发同学都能顺利地做出判断，PM需要不断地向项目收集与提供情报信息。除了上述的4点以外，PM需要将与其他项目或其他部门间沟通的重要信息收集沉淀下来，在必要的适合分享给必要的同学。<br>
 <br>
-<font style="background-color:black"><font color="#ffffff">3</font></font><strong><font color="#de5650">必要的素养及心态</font></strong><br>
+<strong><font color="#de5650">三、必要的素养及心态</font></strong><br>
 <br>
 若想成为大家信赖的PM，「责任感」「平衡感」「率直」这三点是非常重要的。<br>
 <br>
@@ -104,7 +101,7 @@ PM需要对各部内专业知识都有较广，甚至较深程度的理解。在
 <br>
 但是Cygames的PM更看重意识层的素养。在工作时时常保持着上述素养及心态，并学习各种比要的技能和知识，这样才会成为一位出色的PM。<br>
 <br>
-<font style="background-color:black"><font color="#ffffff">4</font></font><strong><font color="#de5650">项目经理的工作价值</font></strong><br>
+<strong><font color="#de5650">四、项目经理的工作价值</font></strong><br>
 <br>
 自己负责的游戏被用户喜爱，倾听团队成员的问题并解决等，PM能在各种情况下感受到自己的工作价值。<br>
 <br>
@@ -112,9 +109,8 @@ PM需要对各部内专业知识都有较广，甚至较深程度的理解。在
 <br>
 「因为是PM所以我的工作只有这些」这样的分割线不存在，所以可以活跃于各种场合，这是Cygames的PM一大特长，也是可以感受到PM工作价值的部分。<br>
 <br>
-<font size="2"></font><br>
-<font size="2">来源：腾讯游戏学堂</font><br>
-<font size="2">原文：https://mp.weixin.qq.com/s/xIggRy7se_SqcX8xMjvBfA</font><br>
+<font size="2"><font color="#808080"></font></font><br>
+<font size="2"><font color="#808080">来源：腾讯游戏学堂</font></font><br>
 <br>
   
 </div>
