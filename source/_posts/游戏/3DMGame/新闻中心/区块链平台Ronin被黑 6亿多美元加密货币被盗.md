@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220330/1648606477_231240.png'
 author: 3DMGame
 comments: false
-date: Wed, 30 Mar 2022 02:15:00 GMT
+date: Wed, 30 Mar 2022 02:47:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220330/1648606477_231240.png'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220330/1648606477_2312
 当地时间29日，凭借NFT游戏《Axie Infinity》抢先占据区块链经济利益的区块链项目平台Ronin宣布被黑，约 6亿2500万美元的加密货币被盗。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220330/1648606477_231240.png" alt="区块链平台Ronin被黑 6亿多美元加密货币被盗" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220330/1648606477_231240.png" alt="区块链平台Ronin被黑 6亿多美元加密货币被盗" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 •NFT游戏《Axie Infinity》早在201/8年推出，是一款交易被称为Axie的生物以及土地的区块链类型游戏，如今深受多前卫玩家的拥护。
