@@ -5,14 +5,14 @@ categories:
  - 编程
  - GitChat
  - 最新文章
-headimg: 'https://picsum.photos/400/300?random=2506'
+headimg: 'https://picsum.photos/400/300?random=2553'
 author: GitChat
 comments: false
-date: Thu, 31 Mar 2022 02:23:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2506'
+date: Thu, 31 Mar 2022 03:22:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2553'
 ---
 
 <div>   
-<p>      插件是 WordPress 平台的关键组件，允许您在不修改wordpress核心代码的情况下，轻松扩展出更多功能。典型的例子，  WooCommerce插件将您的 WordPress 网站转换为电子商务网站，使您能够通过它...</p>  
+<p>插件是 WordPress 平台的关键组件，允许您在不修改wordpress核心代码的情况下，轻松扩展出更多功能。典型的例子，  WooCommerce插件将您的 WordPress 网站转换为电子商务网站，使您能够通过它向客户销售产...</p>  
 </div>
             
