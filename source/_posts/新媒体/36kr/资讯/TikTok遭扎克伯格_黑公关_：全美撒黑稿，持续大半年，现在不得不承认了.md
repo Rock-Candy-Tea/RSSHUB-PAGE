@@ -51,7 +51,7 @@ thumbnail: 'https://img.36krcdn.com/20220331/v2_bb90d9078e564383aa1ac81b55d8d3cc
 <p>这些行为为TikTok平台带来了额外的政治压力。</p> 
 <p>传播途径同样是各地的媒体、广播和电视节目：</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,958" src="https://img.36krcdn.com/20220331/v2_d12454dc61b34e9f88d5524dd825d8d4_img_000" referrerpolicy="no-referrer"></p> 
-<p>而这么一波信息大放出，甚至让最先报道的人声称：在报道途中遭受了很多攻击、辱骂甚至是恐吓。</p> 
+<p>而这么一<a class="project-link" data-id="217488" data-name="波信" data-logo="https://img.36krcdn.com/20210809/v2_d0a00fa83fce43bb96b90c1ceb7fdc55_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/217488" target="_blank">波信</a>息大放出，甚至让最先报道的人声称：在报道途中遭受了很多攻击、辱骂甚至是恐吓。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,577" src="https://img.36krcdn.com/20220331/v2_da3574a1fa0f4c75a4526be53def4f28_img_000" referrerpolicy="no-referrer"></p> 
 <p>那么问题就来了：</p> 
 <h2>为什么Meta要发动“围剿”？</h2> 
@@ -92,6 +92,6 @@ thumbnail: 'https://img.36krcdn.com/20220331/v2_bb90d9078e564383aa1ac81b55d8d3cc
 <p>[1]https://www.washingtonpost.com/technology/2022/03/30/facebook-TikTok-targeted-victory/</p> 
 <p>[2]https://twitter.com/TaylorLorenz/status/1509151904638517253</p> 
 <p>[3]https://twitter.com/KedronBardwell/status/1509287589790035968[4]https://www.insider.com/slap-a-teacher-challenge-TikTok-october-trend-2021-10</p> 
-<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/_cS0L5bhWj2G4ASPKP7_-A">“量子位”（ID:QbitAI）</a>，作者：博雯，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/_cS0L5bhWj2G4ASPKP7_-A">“量子位”（ID:QbitAI）</a>，作者：博雯，36氪经授权发布。</p>  
 </div>
             

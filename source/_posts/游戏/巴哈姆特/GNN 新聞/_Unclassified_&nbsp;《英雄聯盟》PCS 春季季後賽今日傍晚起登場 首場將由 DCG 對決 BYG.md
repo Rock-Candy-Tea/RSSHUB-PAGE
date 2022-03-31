@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/d1e045234930620926847a3c981fs1e5.PNG?v=1648713328836'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 08:12:54
+date: 2022-03-31 09:11:30
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/d1e045234930620926847a3c981fs1e5.PNG?v=1648713328836'
 ---
 
@@ -20,6 +20,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/d1e045234930620926847a3c981fs1e5.
 <div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》太平洋職業聯賽 PCS 2022 春季季後賽今（31）日下午 5 時起將開打，首場將由 Mega Bank Beyond Gaming（BYG） 對上 Deep Cross Gaming（DCG）。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/6w9qcv_lcRg?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
