@@ -5,14 +5,14 @@ categories:
  - 编程
  - GitChat
  - 最新文章
-headimg: 'https://picsum.photos/400/300?random=7885'
+headimg: 'https://picsum.photos/400/300?random=3336'
 author: GitChat
 comments: false
-date: Thu, 31 Mar 2022 09:10:46 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7885'
+date: Thu, 31 Mar 2022 10:10:55 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3336'
 ---
 
 <div>   
-<p>本文章是软件架构系列的第一篇，主讲最常见的软件架构模式：分层架构模式。 文章以图示的方式结合具体的实例对各层进行了细致阐述，并分析了该模式的适用场景和优缺点。  本chat主要内容包括：   1、分层模式描述   2、模式分析和变体 ...</p>  
+<p>本文章是软件架构系列的第一篇，主讲最常见的软件架构模式：分层架构模式。  文章以图示的方式结合具体的实例对各层进行了细致阐述，并分析了该模式的适用场景和优缺点。  本chat主要内容包括：    1、分层模式描述    2、模式分析和...</p>  
 </div>
             

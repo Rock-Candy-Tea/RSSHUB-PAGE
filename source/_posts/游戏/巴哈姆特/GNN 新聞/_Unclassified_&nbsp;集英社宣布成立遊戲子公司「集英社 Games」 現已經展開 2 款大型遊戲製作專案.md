@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 09:11:30
+date: 2022-03-31 10:11:41
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005'
 ---
 
@@ -30,6 +30,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.
  </div>
 <div>
 　　「集英社 Games」由集英社社長廣野真一兼任公司代表，前索尼互動娛樂日本工作室外部開發部部長山本正美擔任執行幹部統括遊戲製作。將以主機 / PC / 智慧型手機之數位遊戲，以及類比遊戲的企劃、開發、販售為主要業務。目前的兩大業務方向為「發掘有才能的獨立遊戲創作者」與「創造嶄新的大型作品」。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/uatLpsDgF5c?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
