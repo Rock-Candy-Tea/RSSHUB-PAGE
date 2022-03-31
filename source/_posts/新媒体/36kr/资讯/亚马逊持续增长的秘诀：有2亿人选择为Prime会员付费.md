@@ -15,7 +15,7 @@ thumbnail: 'https://img.36krcdn.com/20220331/v2_e56bd6f9edd24619a387c080a5688222
 <div>   
 <p data-mpa-powered-by="yiban.io">如果中国卖家要出海，第一站往往是是亚马逊。</p> 
 <p>亚马逊平台上，41%的卖家都在中国。亚马逊在今天的市值是1.72万亿，仅次于苹果，是全球最大的电商公司。</p> 
-<p>自1997 年5 月上市以来，亚马逊市值从4 亿美元一路飞升，增长了将近4000多倍。</p> 
+<p>自1997 年5 月上市以来，亚马逊市值从4 亿美元<a class="project-link" data-id="92082" data-name="一路飞" data-logo="https://img.36krcdn.com/20210807/v2_a586ba36c5f544e784432777b92b9225_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/92082" target="_blank">一路飞</a>升，增长了将近4000多倍。</p> 
 <p>亚马逊公司建于1995 年，1997 年5 月在纳斯达克交易所上市，是最早一批从事网络电子商务的公司之一，也是世界商品种类最多的网上零售企业和最大的互联网公司之一。范围涵盖了影视、图书、音乐和游戏、电子和数码产品、玩具、婴幼儿用品、食品、体育及户外用品、汽车及工业产品等。</p> 
 <p>亚马逊的成功离不开推出的Prime会员服务，致力于为用户提供极致的服务。</p> 
 <h2 label="一级标题">01 亚马逊的飞轮理论</h2> 
@@ -33,7 +33,7 @@ thumbnail: 'https://img.36krcdn.com/20220331/v2_e56bd6f9edd24619a387c080a5688222
 <p>Prime会员主要有如下权益：</p> 
 <p>1.邮寄服务：部分地区2小时送达或当日达；免费配送二日达；</p> 
 <p>2.流媒体服务：prime music（无限串流音乐）；prime video（无限串流电影和电视）；收费电视台观看；</p> 
-<p>3.购物优惠：提前进入限时快闪折扣会场；享受会员专属活动价格；参与prime day；</p> 
+<p>3.购<a class="project-link" data-id="132280" data-name="物优" data-logo="https://img.36krcdn.com/20210808/v2_c36ea15ac98649ecad2cb88dbb0e73ab_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/132280" target="_blank">物优</a>惠：提前进入限时<a class="project-link" data-id="173190" data-name="快闪" data-logo="https://img.36krcdn.com/20210808/v2_2e22e0dd1d6f45ea9f1aeedddd906faf_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/173190" target="_blank">快闪</a>折扣会场；享受会员专属活动价格；参与prime day；</p> 
 <p>4.阅读服务：kindle电子书免费下载；</p> 
 <p>5.存储服务：prime photos（无限存储照片)；</p> 
 <p>这些权益不仅针对购物场景，用户还能享受各方面的增值服务。</p> 
@@ -78,6 +78,6 @@ thumbnail: 'https://img.36krcdn.com/20220331/v2_e56bd6f9edd24619a387c080a5688222
 <p>且国内电商已进入拼存量阶段，新用户增长空间有限。与prime模式的追求更多新会员，赚会员费、增值服务费盈利的目的不同，国内各家平台的目标不同。</p> 
 <p>淘宝88VIP会员设置了非现金的准入门槛，淘气值1000分以上的消费者可以88元的价格购买获得会员资格，达不到则需付费888元。</p> 
 <p>阿里更希望通过对资源的整合、用户势能的持续孵化，去打通阿里生态内部和外部，让消费者花更多时间停留在阿里经济体内，锁定对平台黏性更强、更活跃的消费者。</p> 
-<p>本文来自微信公众号<a href="https://mp.weixin.qq.com/s/Q2kdnIR9WFLif09yhctC6w" rel="noopener noreferrer nofollow">“远哥聊电商”（ID:WebPMgrow）</a>，作者：刘志远，36氪经授权发布。</p>  
+<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a href="https://mp.weixin.qq.com/s/Q2kdnIR9WFLif09yhctC6w" rel="noopener noreferrer nofollow">“远哥聊电商”（ID:WebPMgrow）</a>，作者：刘志远，36氪经授权发布。</p>  
 </div>
             
