@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.JPG?v=1648697396572'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 10:11:41
+date: 2022-03-31 11:09:06
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.JPG?v=1648697396572'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　發行商傑仕登宣布，Tamsoft 開發，Compile Heart 發行，預定 5 月 19 日推出中文版的動作 RPG《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%96%83%E4%BA%82%E5%BF%8D%E5%BF%8D%E5%BF%8D%E8%80%85%E5%A4%A7%E6%88%B0%E6%88%B0%E6%A9%9F%E5%B0%91%E5%A5%B3+-+%E5%B0%91%E5%A5%B3%E5%80%91%E7%9A%84%E9%9F%BF%E8%89%B7+-" target="_blank">閃亂忍忍忍者大戰戰機少女 - 少女們的響艷 -</a>》（PS4 / Nintendo Switch），今日公開首發贈獎活動細節，同時揭露除了《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E6%A9%9F%E5%B0%91%E5%A5%B3" target="_blank">戰機少女</a>》與《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%96%83%E4%BA%82%E7%A5%9E%E6%A8%82" target="_blank">閃亂神樂</a>》系列以外，另外兩名可供玩家操作的角色資訊。</div>
+　　發行商傑仕登宣布，Tamsoft 開發、Compile Heart 發行、預定 5 月 19 日推出中文版的動作 RPG《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%96%83%E4%BA%82%E5%BF%8D%E5%BF%8D%E5%BF%8D%E8%80%85%E5%A4%A7%E6%88%B0%E6%88%B0%E6%A9%9F%E5%B0%91%E5%A5%B3+-+%E5%B0%91%E5%A5%B3%E5%80%91%E7%9A%84%E9%9F%BF%E8%89%B7+-" target="_blank">閃亂忍忍忍者大戰戰機少女 - 少女們的響艷 -</a>》（PS4 / Nintendo Switch）今日公開首發贈獎活動細節，同時揭露除了《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E6%A9%9F%E5%B0%91%E5%A5%B3" target="_blank">戰機少女</a>》與《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%96%83%E4%BA%82%E7%A5%9E%E6%A8%82" target="_blank">閃亂神樂</a>》系列以外，另外兩名可供玩家操作的角色資訊。</div>
 <div>
  </div>
 <div>
@@ -25,6 +25,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.
 <li class="bh-grids-img-box" style="width: 99.87%;">
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.JPG?v=1648697396572" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+</div>
+<div>
+ </div>
+<div>
+<p class="caution">
+【以下內容為廠商提供資料原文】</p>
 </div>
 <div>
  </div>
@@ -163,11 +169,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/a5c210db80bfd90b4af038bbdd1frqe5.
 <li>
 遊戲類型：超高速忍術動作角色扮演</li>
 <li>
-開發商：Tamsoft</li>
+開發廠商：Tamsoft</li>
 <li>
 發行廠商：Compile Heart</li>
 <li>
-亞洲發行商：傑仕登股份有限公司</li>
+亞洲發行：傑仕登股份有限公司</li>
 <li>
 對應平台：PlayStation 4 / Nintendo Switch</li>
 <li>

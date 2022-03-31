@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/8890121233bd2b0d8962b8d2de1frv75.JPG?v=1648701917614'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 10:11:41
+date: 2022-03-31 11:09:06
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/8890121233bd2b0d8962b8d2de1frv75.JPG?v=1648701917614'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/8890121233bd2b0d8962b8d2de1frv75.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　ATLUS 開發，SEGA 預定 8 月 25 日發售的新作 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9D%88%E9%AD%82%E9%A7%AD%E5%AE%A2+2" target="_blank">靈魂駭客 2</a>（Soul Hackers 2）》（PS5 / PS4 / Xbox Series X|S / Xbox One / PC），現公開預定陸續釋出之主要角色介紹影片的第 1 彈「Arrow」。</div>
+　　ATLUS 開發、SEGA 預定 8 月 25 日發售的新作 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9D%88%E9%AD%82%E9%A7%AD%E5%AE%A2+2" target="_blank">靈魂駭客 2</a>（Soul Hackers 2）》（PS5 / PS4 / Xbox Series X|S / Xbox One / PC），現公開預定陸續釋出之主要角色介紹影片的第 1 彈「Arrow」。</div>
 <div>
  </div>
 <h3>
