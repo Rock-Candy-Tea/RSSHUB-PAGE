@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/product-update-february-2022/'
 author: Inside Design
 comments: false
-date: 2022-03-30 15:09:41
+date: 2022-03-31 00:38:09
 thumbnail: 'https://www.invisionapp.com/inside-design/product-update-february-2022/'
 ---
 

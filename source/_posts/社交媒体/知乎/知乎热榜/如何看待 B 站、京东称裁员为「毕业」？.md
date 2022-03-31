@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=159'
+headimg: 'https://pic2.zhimg.com/v2-278af048ea65c1f234e095d7b1b076bd_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Wed, 30 Mar 2022 12:48:56 GMT
-thumbnail: 'https://picsum.photos/400/300?random=159'
+date: Wed, 30 Mar 2022 23:39:14 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-278af048ea65c1f234e095d7b1b076bd_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-乌合之子但愿君的回答<br><br><p data-pid="wJZVYtNN">首先，我觉得这不过就是一个称呼的改变而已，没有必要说的那么严重，只要后续的补偿改的给够就行了。</p><p data-pid="BH_Int5k">但这个表达还是有值得思考的地方。</p><p data-pid="YgXhGrpj">这其实是一种类“学生式表达”的用语系统。我们在很多非学生场合都能看到这种用语系统的使用，背后的社会学原因我目前还不了解，还需要其他知乎的朋友帮忙展开阐释。</p><p data-pid="m8ny4r-_">在出了通告之后，会有“敲黑板”的说法。在长串的文字发布之后，会有“划重点”的说法。在看了科普视频，甚至美食吃播视频之后，评论区里会出现“课代表”的说法。在投诉和举报这两个词里，大多数网友偏好是“举报”，也就是所谓的“告老师”。</p><p data-pid="O3oSA7wB">最近因为疫情相关的城市措施，又有“抄作业”的说法。现在裁员又有“毕业”的说法。</p><p data-pid="FC-ZwzpY">其实严格说，粉圈的很多同辈亲属表达也是这样的。XX哥哥，XX老婆，XX儿子，这种虚拟亲缘关系的称呼，就是模仿学生时候的“过家家”式的称呼。</p><p data-pid="owwAFYN6">整体来看，都是非常典型的学生式表达。</p><p data-pid="TKv0z1s1">到底是因为这种表达会给人安全感，还是因为不想长大承担责任，又或者是因为别的什么缘由呢？</p><p data-pid="KyDDbgDt">等我想出来了，写个论文看能不能投到相关的论文期刊上去。</p><p></p>  
+静枫纸鸢的回答<br><br><p data-pid="TWDFldad">我刚毕业的时候在一家家具公司上班。</p><p data-pid="iTCS-10C">老板面试时最自豪的一点：</p><h2>“成立十几年来，本司没有裁员过一人。”</h2><p data-pid="xEfyhry5">我当时就被震慑住了，四十多家门店，几百号人，流动性最强的销售行业，没裁员过一人，真是大善人来开善堂啊。</p><p data-pid="1vNM3ZKo">后面入职自己仔细研究发现不对劲。</p><p data-pid="Hc8VFFgP">因为每年都有几十人“主动离职”啊。</p><p data-pid="EWhc5Tag">最离谱的时候，一个月一百人人间蒸发，从公司毕业，蒲公英一样输送到社会，建设各大卖场的其他同行。</p><p data-pid="REXLNC7m">不对劲啊。</p><p data-pid="zd7NCgMx">而且仔细观察，这些人主动离职前都进过老板的办公室。</p><p data-pid="mvV5ZvZT">每年公司年会会把离职的人邀请回来，推杯换盏，回首当年。</p><p data-pid="yrrqQBE3">老板还年会上端着酒杯自吹：</p><p data-pid="lqlkrqm_">“我们永远都是一家人 ，去哪都是一家人！”</p><p data-pid="ijGFr6cX">直到有一天，我被叫到那个神秘的办公室，给我发了一个毕业证书。</p><p data-pid="JYto1xQK">纸质的，烫金的，正儿八经的毕业证书，宣布我毕业了，可以去北漂闯荡一番大事业了。</p><p data-pid="Gu3gl2x9">后来我想明白了，一个公司里，有人当面子，就得有人当里子。</p><p data-pid="M2IM29PZ">面子不能沾一点灰尘，流了血，里子得收着。</p><p data-pid="BY4ZzmBS">收不住，漏到了面子上，就是股价大跌的大事。</p><p data-pid="Ko4HDNSi">面子请人吃一只烟，可能里子就得毕业一个人。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-278af048ea65c1f234e095d7b1b076bd_1440w.jpg?source=b1748391" data-rawwidth="3638" data-rawheight="4096" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-7ae965f7fde9094b13239c2e5f00af41_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-278af048ea65c1f234e095d7b1b076bd_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: '【梦梦的冷门游戏推荐】《Wildfire》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/03/30/b53d7da880022e0c5597b472c53d1d93/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Thu, 31 Mar 2022 08:38:20 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/03/30/b53d7da880022e0c5597b472c53d1d93/thumb.jpeg'
+---
+
+<div>   
+<p>今天又来推荐一个冷门游戏《Wildfire》（野火），和大部分高级玩家熟知的《吸血鬼：幸存者》不同，这个作品不仅普通玩家群体未有耳闻，高级玩家群体也一样鲜为人知。</p><p><img class="lazy" data-height="538" src="https://imgheybox.max-c.com/bbs/2022/03/30/b53d7da880022e0c5597b472c53d1d93/thumb.jpeg" data-width="960" referrerpolicy="no-referrer"></p><p>一部2020年的像素风潜行解谜横版动作游戏，发售至今270评测特别好评，如果玩家足够完全可以好评如潮。<br></p><p><img class="lazy" data-height="517" src="https://imgheybox.max-c.com/bbs/2022/03/30/443c5b368d5f0c36d758a6b00e8c08f1/thumb.jpeg" data-width="973" referrerpolicy="no-referrer"></p><p>故事开始，你在和自己的小伙伴捉鸡来当晚餐，回到村子，和村民热情的聊天，顺便帮村民忙去找人，在你离开村子之后 听到了一声巨响，急切返回的你发现了村子在燃烧，村民被公爵夫人麾下的女兵抓走，而你也被包围抓住，绑在了火刑架上。</p><p><img class="lazy" data-height="750" src="https://imgheybox.max-c.com/bbs/2022/03/30/2d715a5a4aaa2feb7c6ef8e0e87657d9/thumb.jpeg" data-width="1450" referrerpolicy="no-referrer"></p><p>你在绝望中被烈焰炙烤，却不知为何的发生了爆燃，你因此获得了掌控火焰的元素之力。你将用这份力量，去拯救被掳走 的村民，调查公爵夫人烧杀掠抢的动机，并且可以根据你的选择神不知鬼不觉地万军丛中过，滴血不沾身，或是降神即灭世，火焰化红莲。</p><p><img class="lazy" data-height="750" src="https://imgheybox.max-c.com/bbs/2022/03/30/486a1d3226e162b4ddb1ab477db9f4d4/thumb.jpeg" data-width="1395" referrerpolicy="no-referrer"></p><p>该作品虽然是像素风格的，但是火焰燃烧效果非常优秀，可以很明显的看出制作组花费了大量时间打磨这点。在游戏性上 ，本作以潜行为主，但并非潜行为核心，虽然前期我兢兢业业的以潜行为主的进行游戏，但是随着关卡的进程，我也开始玩各种有趣的恶作剧，比如在敌人巡逻走到悬崖边缘的时候，站在她身后，等她回头的时候吓她一跳，然后就摔悬崖下面了。或者用火给敌人逼到死角，方便自己安全探索。也有在可以无限取火的存档点附近的敌人，利用无限火配合技能烟雾弹给敌人熏晕，然后抱着晕过去的敌人放棺材里盖上盖子（或者扔下悬崖尖刺陷阱爆炸物）。</p><p><img class="lazy" data-height="568" src="https://imgheybox.max-c.com/bbs/2022/03/30/df7867c9a37b7ce419dbb929ad7d5ac5/thumb.jpeg" data-width="966" referrerpolicy="no-referrer"></p><p>当然把s体扔到别的士兵面前可以让其惊恐的逃跑，也是我喜欢的玩法之一。尤其是夜晚关卡，别的游戏里面夜晚关卡大多比较恶心，但是这里夜晚就是你的主场，你只要不在光里面，敌人除非和你0距离面对面撞上，否则不会发现你，而你本身控制火元素的能力可以直接熄灭敌人手中的光源，然后只要吓唬一下敌人，就会全程在恐惧状态，你吹个口哨都能给她 们吓破胆。</p><p><img class="lazy" data-height="445" src="https://imgheybox.max-c.com/bbs/2022/03/30/318ab42f009e98585e3931cb4b6fafc8/thumb.jpeg" data-width="714" referrerpolicy="no-referrer"></p><p>拿着s体追着人吓唬真的很好玩_(:з」∠)_</p><p><img class="lazy" data-height="568" src="https://imgheybox.max-c.com/bbs/2022/03/30/eda6a2d10ffa56fdc45ff7b9aa2da2d4/thumb.jpeg" data-width="966" referrerpolicy="no-referrer"></p><p>在惊慌状态敌人是不会顾及你的，所以即便你把敌人吓坏了，也仍然能获得“未被发现”任务的关卡额外奖励，所以熟练 的用恶作剧吓唬人吧。</p><p>即便是像素游戏，操作感和打击感依然十足，跑酷依然行云流水，不吃配置让你体验到刺客信条般的飞檐走壁的快感。</p><p>不过这个游戏有个特点，就是不能玩成狂战士信条（至少操作主角的时候不行）。你的一切杀戮都必须基于背刺或者恶作剧。因为完全敌对的敌人你是不能正面交锋的，你扔的元素会被打飞，想跳过去会被打回去，但是随着游戏进展，加上玩家的创意，从完全敌对的敌人头上逃跑也不是做不到。</p><p><img class="lazy" data-height="541" src="https://imgheybox.max-c.com/bbs/2022/03/30/172be75bcf6589b4dbb0a05b1affd775/thumb.jpeg" data-width="951" referrerpolicy="no-referrer"></p><p>随着技能的提升，同样的地图也有不同的玩法，并且多种支线任务和固定的每个地图的挑战，让这种关卡型的游戏有反复游玩的价值，并且不同方式通关也是有完全不一样的体验，纯潜行，恶作剧吓人，背刺，总有你想不到的玩法。</p><p><br></p><p>差不多就讲到这里，剩下的在游戏里亲自体验吧，虽然是潜行类游戏但是上手并不难，不过如果有大神全关卡速通任务完 成还请多加指教。除了前面的火元素后面还可以获得其他元素之力，并且支持远程同乐，和你的小伙伴相爱相杀吧。</p><p><img data-gameid="431940" src="https://cdn.max-c.com/heybox/game/header/431940_wOBIN.jpg" referrerpolicy="no-referrer"></p><p><br></p><p><a href="heybox://open_subject" target="_blank">#steam游戏#</a>    <a href="heybox://open_subject" target="_blank">#野火#</a>   <a href="heybox://open_subject" target="_blank">#像素#</a>  <a href="heybox://open_subject" target="_blank">#类魂#</a> <br></p>  
+</div>
+            
