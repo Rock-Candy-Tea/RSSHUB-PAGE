@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220330/1648651665_751951.jpg'
 author: 3DMGame
 comments: false
-date: Wed, 30 Mar 2022 14:49:00 GMT
+date: Thu, 31 Mar 2022 02:17:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220330/1648651665_751951.jpg'
 ---
 
@@ -52,7 +52,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220330/1648651665_7519
 PC版《死亡搁浅导演剪辑版》拥有高帧率和拍照模式，并且支持超宽带鱼屏。还包括Valve Corporation的《半条命》（HALF-LIFE）系列和CD Projekt Red的《赛博朋克2077》（Cyberpunk 2077）的联动内容。使用Social Strand System™ 与全球玩家联机。
 </p>
 <p style="text-indent:2em;">
-<strong>所有游戏版本都会额外包含以下内容：</strong>
+<strong>所有游戏版本都会额外包含以下内容：</strong> 
 </p>
 <p style="text-indent:2em;">
 • 由Titan Books出版的《死亡搁浅艺术设定集》数字图书的节选
