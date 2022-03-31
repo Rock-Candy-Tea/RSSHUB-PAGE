@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/75/1b7b39d8cc68a22473fc2c95321fren5.JPG?v=1648627935744'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 06:12:48
+date: 2022-03-31 07:10:30
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/1b7b39d8cc68a22473fc2c95321fren5.JPG?v=1648627935744'
 ---
 
@@ -58,7 +58,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/1b7b39d8cc68a22473fc2c95321fren5.
 <div>
  </div>
 <div>
-　　為呈現龍之女的角色設定並展現雙手大劍的兇猛破壞力，妲卡尼亞的技能特效以電與火構成，在戰鬥過程施展<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%B7%E7%81%AB" target="_blank">雷火</a>掃蕩戰場，具有相當帥氣的色彩。</div>
+　　為呈現龍之女的角色設定並展現雙手大劍的兇猛破壞力，妲卡尼亞的技能特效以電與火構成，在戰鬥過程施展雷火掃蕩戰場，具有相當帥氣的色彩。</div>
 <div>
  </div>
 <div>

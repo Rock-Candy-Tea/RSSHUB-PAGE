@@ -16,7 +16,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_4f5b1804f39d4a43bf485aa8e645dfe5
 <blockquote> 
  <p>神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。</p> 
 </blockquote> 
-<p>编者按：做创业和风投的几乎无人不知AngelList，但它是什么大家却未必有统一的定义。一家基金？基金的基金？这是个招聘平台吗？还是资本管理服务？ 或者融资工具？如果你要向从来都没听说过AngelList的人介绍它的话，你会怎么去解释它的复杂性？这篇文章试图去弄清楚这些问题。文章来自编译，篇幅关系，我们分四部分刊出，此为第一部分。</p> 
+<p>编者按：做创业和风投的几乎无人不知AngelList，但它是什么大家却未必有统一的定义。一家基金？基金的基金？这是个招聘平台吗？还是资本管理服务？ 或者融资工具？如果你要向从来都没听说过AngelList的人介绍它的话，你会怎么去解释它的复杂性？这篇文章试图去弄清楚这些问题。文章来自编译，篇幅关系，我们分五部分刊出，此为第一部分。</p> 
 <p class="image-wrapper"><img data-img-size-val="1080,840" src="https://img.36krcdn.com/20220323/v2_4f5b1804f39d4a43bf485aa8e645dfe5_img_jpeg" referrerpolicy="no-referrer"></p> 
 <h2>可执行的建议</h2> 
 <p>如果你只有几分钟的空闲时间，以下是投资者、运营商以及创始人应该了解的有关AngelList的信息。</p> 
@@ -30,7 +30,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_4f5b1804f39d4a43bf485aa8e645dfe5
 <p>在交流的开始时，我问了 Naval Ravikant一个很简单的问题： <strong>AngelList是什么</strong>？</p> 
 <p>这个疑问的潜台词包括：这是个招聘平台吗？还是资本管理服务？ 或者融资工具？如果你要向从来都没听说过AngelList的人介绍它的话，你会怎么去解释它的复杂性？</p> 
 <p>Ravikant的回答十分简洁。 他说：“我们<strong>在创新基础设施的基础上进行创新</strong>。”</p> 
-<p>这个评价颇为巧妙有趣，尤其是在语言上。一般来说，公司属于名词领域。Uber是一项叫车服务。 Twitter是一个社交网络。<a class="project-link" data-id="3968996" data-name="谷歌" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968996" target="_blank">谷歌</a>是一个搜索引擎。我们也可以用其他术语来描述这些业企业，而且有着大量的营销活动可以体现这些定义。但是，如果你的目标清晰的话，那么用名词的效果最好； X 是什么。</p> 
+<p>这个评价颇为巧妙有趣，尤其是在语言上。一般来说，公司属于名词领域。Uber是一项叫车服务。 Twitter是一个社交网络。谷歌是一个搜索引擎。我们也可以用其他术语来描述这些业企业，而且有着大量的营销活动可以体现这些定义。但是，如果你的目标清晰的话，那么用名词的效果最好； X 是什么。</p> 
 <p>在Ravikant看来， AngelList是个动词，是一项集体行为。经过对这家公司几个月的研究，我开始觉得这个选择揭示了某种切中要害的东西。 AngelList 更像是一种方法论，而不是一家企业，是一种体现在商业企业的建设与试验方式。在它的生命历程中，公司已经生产出数十种不同的产品。时至今日，至少有六个主要实体可以被认为是这种方法的部分输出： AngelList Venture、 AngelList Talent、 AngelList India、Republic、 CoinList以及 Product Hunt。随着AngelList Venture以41亿美元的估值拿到了新一轮融资，其中至少有两家公司几乎可以肯定已达到独角兽的地位。</p> 
 <p>关于AngelList，Ravikant 的描述暗示了别的东西：没有中心。依靠动词就是省略空缺。这不是批评，而是一项观察。像谷歌如此多元化的庞然大物，我们之所以能够浓缩成为“搜索引擎”这四个字，是因为我们直觉就能感受到焦点所在。 但AngelList不是这样的。虽然我们也许会认为该公司的人才以及风投部门似乎最为耀眼，但为什么我们会这样认为的原因并不明显。</p> 
 <p>如果我们要将AngelList推入名词的世界——毕竟，正如诗人安妮·卡森（Anne Carson）所说那样，“名词命名世界”，我们也许会把它看作是风投的星座。每颗星星都在独自闪耀，但只要眯起眼睛，稍加想象，我们就能给它们找到一个形状。</p> 
@@ -46,14 +46,14 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_4f5b1804f39d4a43bf485aa8e645dfe5
 <h2>起源</h2> 
 <p>AngelList 的起源可以追溯到.com时代被炒得最火的创业公司之一，Epinions 。这是一个与高速增长、聪明脑袋以及企业谋略有关的故事。虽说AngelList是一家很独特的企业，但孕育这种独特性的，是活力与实验精神。</p> 
 <h3>Epinions</h3> 
-<p>打动 Kevin Laws 的是 Epinions 团队里的人。从商学院毕业三年后，这位麻省理工学院的毕业生到<a class="project-link" data-id="87536" data-name="博思" data-logo="https://img.36krcdn.com/20210807/v2_2dfb4e2b75a341acb6b09b46563b4679_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/87536" target="_blank">博思</a>艾伦咨询公司（Booz, Allen & Hamilton）开启了自己的职业生涯。 到该公司的旧金山办事处工作后，Laws很享受给自己安排的技术项目，如果不是一位前同事跳槽到一家新的创业公司： Epinions 的话，他可能会继续留在那里。</p> 
+<p>打动 Kevin Laws 的是 Epinions 团队里的人。从商学院毕业三年后，这位麻省理工学院的毕业生到博思艾伦咨询公司（Booz, Allen & Hamilton）开启了自己的职业生涯。 到该公司的旧金山办事处工作后，Laws很享受给自己安排的技术项目，如果不是一位前同事跳槽到一家新的创业公司： Epinions 的话，他可能会继续留在那里。</p> 
 <p>这家电商点评网站成立于 1999 年，自诩拿到了 800 万美元的 A 轮融资，而且是由硅谷其中最负盛名的VC Benchmark 与 August Capital 领投。当然，这个数字既反映了这个点子的潜力，也反映出团队的能力。尽管他们大部分的成功都姗姗来迟，但结果证明，Epinions的创始人团队是全明星阵容。</p> 
 <p>公司的初创团队包括 Nirav Tolia，后来成为了 Nextdoor 创始人兼首席执行官；Ramanathan Guha ，他是 Netscape 的主要贡献者以及 RSS 等web标准的建立者；Mike Spieser ，他是Sutter Hill Ventures 的传奇管家，以及一位很年轻的运营，名字叫 Naval Ravikant。</p> 
 <p class="image-wrapper"><img data-img-size-val="2555,894" src="https://img.36krcdn.com/20220323/v2_d022402158c64ab5bd6b2d4ab4b37d28_img_jpg" referrerpolicy="no-referrer"></p> 
 <p>Laws的前同事一直缠着他，让他一定要去Epinions那里参观一下。他告诉Laws，这个团队很特别，特别到只有看过才能理解。</p> 
-<p>巧的是，有一次Laws被派驻到一个客户的办公地点，那地<a class="project-link" data-id="318664" data-name="方正" data-logo="https://img.36krcdn.com/20210810/v2_47193c1f095e49cea6ed0894b07e672e_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/318664" target="_blank">方正</a>好在这家创业公司的街对面。于是有一天加班到很晚之后，他打电话给自己这位朋友，试探问能不能顺便过去看看，以为他们的人应该已经走了。结果，对方告知尽管过来吧。</p> 
+<p>巧的是，有一次Laws被派驻到一个客户的办公地点，那地方正好在这家创业公司的街对面。于是有一天加班到很晚之后，他打电话给自己这位朋友，试探问能不能顺便过去看看，以为他们的人应该已经走了。结果，对方告知尽管过来吧。</p> 
 <p>他走进了一间人声鼎沸的办公室。这种谈话不仅仅是盲目的闲聊或敷衍的对话——事实上，那里的氛围似乎跟座谈会更接近，随心所欲但充满智慧。从奥地利学派谈到凯恩斯主义，然后又演变成对艺术和设计的研究。 Laws对这群人的不同寻常感到震惊： “他们真的很聪明，有点文艺复兴的味道。”强烈的好奇心加上积极向上的精神，Laws认为这些尤其源自其中一位创始人：Naval Ravikant。</p> 
-<p>不光谈话的内容很吸引Laws，这里的环境也是如此。Epinions的团队不仅在讨论<a class="project-link" data-id="165447" data-name="大想" data-logo="https://img.36krcdn.com/20210808/v2_ddd2bab68ed747dcb17db719ceb1eb93_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/165447" target="_blank">大想</a>法，而且在工作的时候也会彻夜长谈。这不是他在<a class="project-link" data-id="79621" data-name="咨询界" data-logo="https://img.36krcdn.com/20210807/v2_a9a619ea4da74b1e8285f421434c3728_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/79621" target="_blank">咨询界</a>可以预期的那种行为，而就算是在他所知道的其他初创公司那里，这种情况似乎也不是常态。</p> 
+<p>不光谈话的内容很吸引Laws，这里的环境也是如此。Epinions的团队不仅在讨论大想法，而且在工作的时候也会彻夜长谈。这不是他在咨询界可以预期的那种行为，而就算是在他所知道的其他初创公司那里，这种情况似乎也不是常态。</p> 
 <p>Laws在凌晨 1:00才离开了Epinions 。不久之后，他就搬到了街对面，永久性地，加盟了这家初创公司，担任负责产品管理的副总裁。</p> 
 <p>经营一家高增长、有风投支持的初创公司的前景和风险如何呢？接下来的事情就是很好的证明。 通过在线买家用充满信任的用户点评对目的地表示感激，Epinions找到了爆炸性的产品市场契合。正如《The Almanack of Naval Ravikant》的作者、AngelList最优秀的非官方历史学家之一Eric Jorgenson所解释那样， Epinions凭借其用户生成的功能“为 Yelp 与Quora等现代公司开辟了道路”。后来，又有一种创新模式火上浇油， Epinions还把部分广告收入拿出来分给用户。到 2003 年时，已有近 600 万的用户涌入这个平台，撰写了 100 万条评论。这么快的增长足以打动投资者再向公司投资了 3700 万美元。</p> 
 <p>不过尽管流量有了，但 Epinions仍难以盈利。当时有篇文章对公司收入的描述是那只是最终收购者 Dealtime 出资 3000 万美元的“一小部分” 。时任 CEO 的Tolia指出，公司有点“小问题……我们需要一个可行的商业模式”。事实上，彼时原先的创始团队已经只剩下Tolia一个人了。 Ravikant 2000 年的时候就走了， Speiser是 2001 年，Laws也在同一年离开了。</p> 
@@ -71,11 +71,11 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_4f5b1804f39d4a43bf485aa8e645dfe5
 </blockquote> 
 <p>Ravikant介绍的企业是垂直搜索平台Vast.com。 Vast 后来将继续自己的有趣旅程，成为 CarStory 的控股公司，后者是一种利用人工智能来分析二手车的工具。 2016 年，该公司拿到了1400 万美元的融资；四年后，它以 1.2 亿美元的价格被卖给了 Vroom。</p> 
 <p>在作为Ravikant和 Arrington 的“尴尬”邂逅的旁观者的大约一周之后， Nivi又一次见到了Ravikant 。 Nivi 的朋友 Jared Kopf（后来创立了 AdRoll的创业者）邀请他参加由Ravikant本人主持的派对。 Nivi抓住了这个机会，他抛出一个紧迫问题征求Ravikant的建议：他正在做的初创企业Songbird正在进行融资， Benchmark 和红杉资本都表示了兴趣。他们的团队应该怎么做？</p> 
-<p>Nivi回忆道：“Naval给介绍了关于风投融资的<a class="project-link" data-id="26860" data-name="海量信息" data-logo="https://img.36krcdn.com/20220120/v2_35e992764cee45a0abe9df95ea437467_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4794300101?mp=zzquote" target="_blank">海量信息</a>。在那次聚会上，他还给我介绍一位很棒的律师。”</p> 
-<p>这次会面给Nivi留下了深刻印象，以至于在离开后不久，他决定要想办法让更广泛的受<a class="project-link" data-id="600450" data-name="众分享" data-logo="https://img.36krcdn.com/20210814/v2_6270fcc32282450db16ea0be283d57df_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/600450" target="_blank">众分享</a>Ravikant 的想法，即使这意味着改变职业也在所不惜。Nivi告诉自己： “替这家公司融完资之后我就走，我只想把Naval 教给我的所有这些东西都写下来……因为我觉得不把这些都记下来的话，对人类来说会是一种损失。”</p> 
+<p>Nivi回忆道：“Naval给介绍了关于风投融资的海量信息。在那次聚会上，他还给我介绍一位很棒的律师。”</p> 
+<p>这次会面给Nivi留下了深刻印象，以至于在离开后不久，他决定要想办法让更广泛的受众分享Ravikant 的想法，即使这意味着改变职业也在所不惜。Nivi告诉自己： “替这家公司融完资之后我就走，我只想把Naval 教给我的所有这些东西都写下来……因为我觉得不把这些都记下来的话，对人类来说会是一种损失。”</p> 
 <p>于是，一段历久弥坚的伙伴关系即将开始，尽管两人当时还不知晓。</p> 
 <h3>Venture Hacks</h3> 
-<p>Nivi兑现了他对自己的承诺。他设立了一个叫做“Venture Hacks”的博客，向更广泛的受众分享Ravikant 的才华。正如Nivi所说那样，两人的合作很轻松愉快。 Nivi会通过电子邮件或面对面的会议提出问题，然后把Naval 的回答记下来并提炼成帖子。在发表之前，他会把文章发给Naval审核。这种安排很适合他们的个性。Nivi说： “我希望握紧控制权，处理好细节。而 Naval 是个务虚的人，他愿意跟优秀的人<a class="project-link" data-id="81906" data-name="一起" data-logo="https://img.36krcdn.com/20210709/v2_647b9860d6f7437caf1be2501d37698a_img_000" data-refer-type="1" href="https://www.36dianping.com/space/4772100123" target="_blank">一起</a>工作，为他们指明正确的方向。” Venture Hacks 很快吸引到一批受众，成为那些想要了解如何融资的创始人的参考指南。</p> 
+<p>Nivi兑现了他对自己的承诺。他设立了一个叫做“Venture Hacks”的博客，向更广泛的受众分享Ravikant 的才华。正如Nivi所说那样，两人的合作很轻松愉快。 Nivi会通过电子邮件或面对面的会议提出问题，然后把Naval 的回答记下来并提炼成帖子。在发表之前，他会把文章发给Naval审核。这种安排很适合他们的个性。Nivi说： “我希望握紧控制权，处理好细节。而 Naval 是个务虚的人，他愿意跟优秀的人一起工作，为他们指明正确的方向。” Venture Hacks 很快吸引到一批受众，成为那些想要了解如何融资的创始人的参考指南。</p> 
 <p>尽管Ravikant很乐意分享自己的经验教训，但他的关注点并不在这里。 Venture Hacks 推出的同一年， Ravikant创立了 Hit Forge。虽然一开始的方向是做孵化器，但在意识到自己面临逆向选择后， Ravikant很快就将它调整为更传统的基金模式。去看过几次 Y Combinator 的Demo Days之后（YC创始人Paul Graham 显然把他看作自己的伪竞争对手），可能也加速了Ravikant的战略调整。同期Ravikant在Hacker News 上面发表的一篇评论曾概述过 Hit Forge 的策略调整。</p> 
 <blockquote> 
  <p>我就是 Hit Forge 背后的那个人……</p> 

@@ -16,7 +16,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_ea5339a1a5fd4c439c0a145176d8d7f7
 <blockquote> 
  <p>神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。</p> 
 </blockquote> 
-<p>编者按：做创业和风投的几乎无人不知AngelList，但它是什么大家却未必有统一的定义。一家基金？基金的基金？这是个招聘平台吗？还是资本管理服务？ 或者融资工具？如果你要向从来都没听说过AngelList的人介绍它的话，你会怎么去解释它的复杂性？这篇文章试图去弄清楚这些问题。文章来自编译，篇幅关系，我们分四部分刊出，此为第四部分。</p> 
+<p>编者按：做创业和风投的几乎无人不知AngelList，但它是什么大家却未必有统一的定义。一家基金？基金的基金？这是个招聘平台吗？还是资本管理服务？ 或者融资工具？如果你要向从来都没听说过AngelList的人介绍它的话，你会怎么去解释它的复杂性？这篇文章试图去弄清楚这些问题。文章来自编译，篇幅关系，我们分五部分刊出，此为第四部分。</p> 
 <p class="image-wrapper"><img data-img-size-val="1366,768" src="https://img.36krcdn.com/20220323/v2_ea5339a1a5fd4c439c0a145176d8d7f7_img_webp" referrerpolicy="no-referrer"></p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/preview/atE9NAO0DG68LjCYeXs_MX-VVjhG2IhbDB-TCMOxlRhSIu69GNJWpuoxB5PNbYmN">创造独角兽的独角兽：AngelList（一）</a></p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/preview/B80nIbVrCVzjomwl3ppOIPvby2xBqBsea_R7xDQFZZlbYya-rFH5WjcY1h23vNha">创造独角兽的独角兽：AngelList（二）</a></p> 
