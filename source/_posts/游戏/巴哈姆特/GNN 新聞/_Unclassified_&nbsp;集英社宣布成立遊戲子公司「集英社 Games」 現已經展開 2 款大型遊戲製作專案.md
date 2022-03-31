@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 07:10:30
+date: 2022-03-31 08:12:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005'
 ---
 
@@ -17,13 +17,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　以暢銷漫畫週刊「少年 JUMP」與眾多暢銷漫畫 IP 聞名的日本漫畫出版社集英社今日（3/31）宣布，已經於 2 月 16 日成立了自家的遊戲製作發行子公司「集英社 Games」，目前已經展開 2 款大型遊戲製作專案。</div>
+　　以暢銷漫畫週刊「少年 JUMP」與眾多人氣漫畫作品聞名的日本出版社集英社今日（3/31）宣布，已經於 2 月 16 日成立了自家的遊戲製作發行子公司「集英社 Games」，目前已投入 2 款大型遊戲開發專案。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img" style="width:40%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 121.16%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 121.16%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?v=1648709599005" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -41,24 +41,24 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 65.46%;">
-<figcaption style="padding-bottom: 74.02%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG 2x" title="《Captain Velvet Meteor: The Jump+ Dimensions》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 74.02%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/e5bc4f341bab791b4ec95769fd1frxx5.JPG 2x" title="《Captain Velvet Meteor: The Jump+ Dimensions》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《Captain Velvet Meteor: The Jump+ Dimensions》</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 34.15%;">
-<figcaption style="padding-bottom: 141.89%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG 4x" title="《ハテナの塔 －The Tower of Children－》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 141.89%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/e2bcbc4c2f7f56201ec27e39ac1frxy5.JPG 4x" title="《ハテナの塔 －The Tower of Children－》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《ハテナの塔 －The Tower of Children－》</figure>
 </li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG 4x" title="《ONI（暫稱）》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/583c1b8e901fdef0bfa51fc1191frxz5.JPG 4x" title="《ONI（暫稱）》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《ONI（暫稱）》</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG 4x" title="《浮世／Ukiyo》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?v=1648709872406" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/620d34fed07dec5924c335ba491fry05.JPG 4x" title="《浮世／Ukiyo》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《浮世／Ukiyo》</figure>
 </li>
@@ -77,7 +77,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 37.73%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG?v=1648709914681" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG 2x" style="max-width: unset;" title="針對智慧型手機的展示型遊戲" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 37.73%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG?v=1648709914681" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/73/e8d8fd9948b260f2f0314e07361fry15.JPG 2x" style="max-width: unset;" title="針對智慧型手機的展示型遊戲" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 針對智慧型手機的展示型遊戲</figure>
 </li>
@@ -86,7 +86,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/3f8ff4ac5bf9b29dfd9b0f57731frx85.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG?v=1648710113177" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG 2x" style="max-width: unset;" title="多人高速特技動作遊戲" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG?v=1648710113177" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/8d459fb6d252f7a225f9fb36d91fry25.JPG 2x" style="max-width: unset;" title="多人高速特技動作遊戲" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 多人高速特技動作遊戲</figure>
 </li>

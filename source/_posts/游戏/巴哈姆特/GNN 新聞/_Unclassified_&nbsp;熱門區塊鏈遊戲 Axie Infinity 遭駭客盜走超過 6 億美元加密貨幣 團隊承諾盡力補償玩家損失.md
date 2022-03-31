@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/31/7ea8ee87b3da723ce0a59a47621fru35.JPG?v=1648700331162'
 author: 巴哈姆特
 comments: false
-date: 2022-03-31 07:10:30
+date: 2022-03-31 08:12:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/7ea8ee87b3da723ce0a59a47621fru35.JPG?v=1648700331162'
 ---
 
@@ -17,8 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/7ea8ee87b3da723ce0a59a47621fru35.
 <!-- 新聞內容 -->
 <div>
 <div>
-<div>
-　　熱門 NFT 遊戲 Axie Infinity 所使用的區塊鏈網路 Robin Network 遭到駭客入侵，官方揭露 Robin Bridge 被盜走 173600 個以太幣與 2550 萬個 USDC，估計價值超過 6 億美元，引發各界對 NFT 遊戲安全性的關注。</div>
+　　熱門 NFT 遊戲 Axie Infinity 所使用的區塊鏈網路 Robin Network 遭到駭客入侵，官方揭露被盜走 17 萬 3600 個以太幣與 2550 萬個 USDC，估計價值超過 6 億美元，引發各界對 NFT 遊戲安全性的關注。</div>
 <div>
  </div>
 <div>
@@ -35,18 +34,15 @@ Axie Infinity</figure>
 <div>
  </div>
 <div>
-　　根據<a href="https://roninblockchain.substack.com/p/community-alert-ronin-validators" target="_blank">官方指出</a>，Robin Network 出現安全漏洞，他們發現 3 月 23 日  Sky Mavis 的 Robin 驗證者節點與 Axie DAO 驗證者節點遭到入侵，導致駭客在兩筆交易過程中盜走了 173600 個以太幣與 2550 萬個 USDC，而官方是在 3 月 29 日用戶提到他無法提取 5000 個以太幣的疑問後，才發現了此次攻擊，並強調與執法人員、密碼專家與投資者合作，希望能儘速追回相關資金。</div>
+　　<a href="https://roninblockchain.substack.com/p/community-alert-ronin-validators" target="_blank">官方指出</a>，Robin Network 出現安全漏洞，他們發現 3 月 23 日  Sky Mavis 的 Robin 驗證者節點與 Axie DAO 驗證者節點遭到入侵，導致駭客在兩筆交易的過程中盜走了 17 萬 3600 個以太幣與 2550 萬個 USDC。官方是在 3 月 29 日用戶提到他無法提取 5000 個以太幣的疑問後，才發現了此次攻擊，並強調與執法人員、密碼專家與投資者合作，希望能儘速追回相關資金。</div>
 <div>
  </div>
 <div>
-　　Aleksander Leonard Larsen 表示，遭到盜取的資金中包含玩家的存款與 Axie Infinity  的收入，被盜的以太幣中有 56000 個屬於 Axie Infinity 資產，目前公司並不認為有內部人員涉案。</div>
+　　Aleksander Leonard Larsen 表示，遭到盜取的資金中包含玩家的存款與 Axie Infinity 的收入，被盜的以太幣中有 5 萬 6000 個屬於 Axie Infinity 資產，目前公司並不認為有內部人員涉案。</div>
 <div>
  </div>
 <div>
 　　Axie Infinity 是由 Sky Mavis 開發、相當熱門的 NFT 線上遊戲，採用以太坊的加密貨幣作為主要遊戲經濟體系，玩家可以蒐集、交易 NFT 數位寵物，而寵物在遊戲中可以戰鬥與繁殖等。</div>
-</div>
-<div>
- </div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
