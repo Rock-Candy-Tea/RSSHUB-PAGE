@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.JPG?v=1648800195392'
 author: 巴哈姆特
 comments: false
-date: 2022-04-01 10:11:25
+date: 2022-04-01 11:09:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.JPG?v=1648800195392'
 ---
 
@@ -57,7 +57,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.
 <div>
  </div>
 <div>
-　　至於 T1 今日則宣布要推出愚人節 T 恤，包括 02 Faker、韓國宙斯、歷天怪 Keria（指歷代級天才怪物）等圖案，雖然誠實說是愚人節 T 恤，不過連至 T1 官網，竟然「02 Faker 」款式 T 恤真的有開放販售？！</div>
+　　至於 T1 今日則宣布要推出愚人節 T 恤，包括 02 Faker、韓國宙斯、歷天怪 Keria（指歷代級天才怪物）等圖案，雖然誠實說是愚人節 T 恤，不過連至 T1 官網，竟然「02 Faker 」款式 T 恤真的有開放販售？！（註：Faker 為 1996 年生，今年他的隊友都是 02 年的新生代，五人在春季賽打出連勝戰績，而此 T 恤指的是他是 02 年的 Faker）。</div>
 </div>
 <div>
  </div>
