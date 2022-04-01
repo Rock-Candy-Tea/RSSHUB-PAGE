@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/cd1f90be5f2684f4560c9519c0f2a232ee8.jpg'
 author: 开源中国
 comments: false
-date: Thu, 31 Mar 2022 23:54:00 GMT
+date: Fri, 01 Apr 2022 07:54:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/cd1f90be5f2684f4560c9519c0f2a232ee8.jpg'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">若依前后端分离版本<span style="background-color:#ffffff; color:#333333"> v3.8.1 已发布，更新日志：</span></p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">若依前后端分离版本<span style="background-color:#ffffff; color:#333333"> v3.8.1 已发布，更新日志：</span></p> 
 <ol style="list-style-type:decimal; margin-left:0; margin-right:0"> 
  <li>前端支持设置是否需要防止数据重复提交</li> 
  <li>开启TopNav没有子菜单情况隐藏侧边栏</li> 

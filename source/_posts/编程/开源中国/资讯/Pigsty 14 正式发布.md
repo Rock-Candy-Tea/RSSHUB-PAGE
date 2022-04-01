@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-fbdd4f0b944d8cb8c2d10b68bee3565aab1.png'
 author: 开源中国
 comments: false
-date: Thu, 31 Mar 2022 23:46:00 GMT
+date: Fri, 01 Apr 2022 07:46:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-fbdd4f0b944d8cb8c2d10b68bee3565aab1.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#222222">Pigsty v1.4 现已正式<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdKVDLcnGtaWjdARo9rZncQ" target="_blank">发布</a>。全新的模块化架构：四大内置模块 INFRA，NODES，PGSQL，REDIS 可以独立使用并自由组合；新增时序数据仓库 MatrixDB 部署与监控支持；新建设了全球 CDN 加速下载；此外，Pigsty 完成种子轮融资，产品定位与战略进行重大升级，作者表示其也将全职出来投入到此项目中。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#222222">Pigsty v1.4 现已正式<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdKVDLcnGtaWjdARo9rZncQ" target="_blank">发布</a>。全新的模块化架构：四大内置模块 INFRA，NODES，PGSQL，REDIS 可以独立使用并自由组合；新增时序数据仓库 MatrixDB 部署与监控支持；新建设了全球 CDN 加速下载；此外，Pigsty 完成种子轮融资，产品定位与战略进行重大升级，作者表示其也将全职出来投入到此项目中。</span></p> 
 <p><img height="372" src="https://oscimg.oschina.net/oscnet/up-fbdd4f0b944d8cb8c2d10b68bee3565aab1.png" width="500" referrerpolicy="no-referrer"></p> 
 <h2><span>模块化架构</span></h2> 
 <p style="margin-left:0px; margin-right:0px; text-align:start"><span>公告指出，Pigsty v1.4 中最给力的特性是对底层架构的重大重构，尽管听上去比较枯燥，但这一点确实很重要。</span></p> 

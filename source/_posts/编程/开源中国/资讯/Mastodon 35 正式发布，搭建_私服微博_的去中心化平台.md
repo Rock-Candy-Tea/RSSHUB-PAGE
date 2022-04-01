@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0401/073839_6yt1_42526
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Mastodon 是开源的社交网络服务器，任何人都可以基于它创建类似推特/微博的产品——即标题所说的搭建“私服微博”。但 Mastodon 与常见的社交网络不一样，其定位是去中心化的社交平台。</p> 
+                                                                                            <p>Mastodon 是开源的社交网络服务器，任何人都可以基于它创建类似推特/微博的产品——即标题所说的搭建“私服微博”。但 Mastodon 与常见的社交网络不一样，其定位是去中心化的社交平台。</p> 
 <p>基于 Mastodon 搭建的站点被称为“<strong>实例 (instance)</strong>”，这些“实例”既相互独立，又彼此关联（因为不同站点的用户可以毫无阻碍地交流）。</p> 
 <p><img alt height="281" src="https://static.oschina.net/uploads/space/2022/0401/073839_6yt1_4252687.jpeg" width="500" referrerpolicy="no-referrer"></p> 
 <p>举个例子，有两个分别名为「动弹」和「微博」的实例。作为「动弹」的用户，他们当然可以查看此实例中所有用户发布的公开内容（Mastodon 称之为「本站时间轴 (local timeline)」）。不过除此之外，「动弹」的用户和「微博」的用户还可以跨实例互相关注，并查看彼此发布的公开内容（Mastodon 称之为「跨站公共时间轴 (federated timeline)」）。跨实例的用户也可以互动，比如发布内容并艾特对方，对方会及时收到通知然后进行回复。</p> 

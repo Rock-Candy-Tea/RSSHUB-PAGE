@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=9187'
+headimg: 'https://picsum.photos/400/300?random=336'
 author: 香水时代
 comments: false
-date: Thu, 31 Mar 2022 12:07:29 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9187'
+date: Mon, 24 Jan 2022 03:30:34 GMT
+thumbnail: 'https://picsum.photos/400/300?random=336'
 ---
 
 <div>   
-几年前试香的时候，没有留下什么印象。今天再试，大概十几分钟过去，玫瑰味扩散开来，非常馥郁的玫瑰。是好闻的玫瑰。但是不太会买。  
+文案营销再狂，情怀弓拉到满，也挡不住本作的平凡、可替代面貌。原来无人区玫瑰是带着点枝叶绿感的麝香广藿香玫瑰，确实很好闻；扩香留香力不错，性价比不行。  
 </div>
             

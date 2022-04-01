@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6049'
+headimg: 'https://picsum.photos/400/300?random=9849'
 author: 开源中国
 comments: false
 date: Fri, 01 Apr 2022 07:29:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6049'
+thumbnail: 'https://picsum.photos/400/300?random=9849'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>AppWeb 8.3.0 现已发布，此版本被划分为“建议升级，但不是必须的”。Appweb 是一个嵌入式 HTTP Web 服务器，主要的设计思路是安全。这是直接集成到客户的应用和设备，便于开发和部署基于 Web 的应用程序和设备。</p> 
+                                                                                            <p>AppWeb 8.3.0 现已发布，此版本被划分为“建议升级，但不是必须的”。Appweb 是一个嵌入式 HTTP Web 服务器，主要的设计思路是安全。这是直接集成到客户的应用和设备，便于开发和部署基于 Web 的应用程序和设备。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">具体更新内容：</p> 
 <ul> 
  <li>修复网络非常快而 CPU 较慢的系统的内存增长问题</li> 

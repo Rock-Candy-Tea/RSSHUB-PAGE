@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3963'
+headimg: 'https://picsum.photos/400/300?random=9084'
 author: 开源中国
 comments: false
 date: Fri, 01 Apr 2022 07:29:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3963'
+thumbnail: 'https://picsum.photos/400/300?random=9084'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">Microsoft PowerToys 是 Windows 系统实用程序，供高级用户调整和简化其 Windows 体验，可最大限度地提高生产力。</span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#333333">Microsoft PowerToys 是 Windows 系统实用程序，供高级用户调整和简化其 Windows 体验，可最大限度地提高生产力。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">目前 PowerToys 发布了 v0.57.0 版本，带来如下变动：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>现有的 PowerToys Run 插件添加了其他功能和改进。</li> 
