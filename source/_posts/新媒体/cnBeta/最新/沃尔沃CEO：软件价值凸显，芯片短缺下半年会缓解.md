@@ -1,0 +1,19 @@
+
+---
+title: '沃尔沃CEO：软件价值凸显，芯片短缺下半年会缓解'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0401/8cac8af961efdcc.jpg'
+author: cnBeta
+comments: false
+date: Fri, 01 Apr 2022 06:26:17 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0401/8cac8af961efdcc.jpg'
+---
+
+<div>   
+车东西4月1号消息，据彭博社报道，<strong>近日，上周开始担任沃尔沃CEO的黑莓和戴森前高管Jim Rowan在接受彭博社采访时表示，在智能手机中执行的所有操作以后都将在车内实现。</strong><br>
+ <p style="text-align: left;"><strong><strong>作者 |  </strong></strong>地途</p><p style="text-align:center"><strong><strong><a href="https://static.cnbetacdn.com/article/2022/0401/8cac8af961efdcc.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0401/8cac8af961efdcc.jpg" alt="624687f739ade_624687f736d79_624687f736b26_头图_沃尔沃-1.jpg" referrerpolicy="no-referrer"></a></strong></strong></p><p style="text-align: left;">同时，Jim Rowan还回答了担任沃尔沃CEO的原因，沃尔沃汽车软件的开发和部署，以及半导体短缺和新环境的适应等问题，他表示会将提升汽车软件，扩展汽车功能。</p><p style="text-align: left;">而据中国经济网报道，前几日Jim Rowan在第八届电动汽车百人会论坛上发表演讲时也曾表示，塑造未来出行的将是智能互联、是可持续、安全和个性化。正如<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>可以购物、通讯、听音乐和回复邮件，给人带来无缝体验一样，汽车也会成为一个新的平台、新的设备，与生活里的其他方面紧密关联。</p><p style="text-align: left;">以下是Jim Rowan在参加彭博社采访时的问答汇总。</p><p style="text-align: left;">一、系统及芯片竞争加剧 汽车功能扩充</p><p style="text-align: left;">在过去，汽车制造商常常为谁拥有最新最好的硬件而竞争，例如最大马力的发动机、最舒适的座椅、最柔滑的扬声器。而随着制造商试图将他们的车辆变成类似智能手机的移动设备，这场竞赛将围绕着信息娱乐系统、视觉系统以及汽车控制芯片展开。</p><p style="text-align: left;">虽然从表面上看，产品并没有变。而Jim Rowan表示，无论是过去还是现在，你都可以使用手机打个电话，分享一些信息。但功能手机和智能手机之间存在差异，这种差异在很短的时间内将手机的使用方式改变了一千次。</p><p style="text-align: left;">可以说，手机不再只是手机，汽车也是一样。</p><p style="text-align: left;">“我们要做的就是在汽车中使用更多的技术，从而极大地扩展下一代汽车的功能。”Jim Rowan表示，“未来，您可以在车内执行智能手机中的所有操作。”</p><p style="text-align: left;">二、汽车软件价值凸显 算力问题亟待解决</p><p style="text-align: left;">在回答成为沃尔沃的首席执行官的原因时，Jim Rowan表示，汽车行业正在面临电气化转型，以及更大方面的转型，即软件和核心计算能力的提升，且与由激光雷达、摄像头等器件组成的主机安全系统有关。所以汽车软件的价值性凸显，因此在黑莓的工作经验符合沃尔沃要求候选人具备的消费电子背景。</p><p style="text-align: left;">之后，沃尔沃还将通过与软件供应商合作的方式，不断提升软件开发和部署能力，构建最终产品。Jim Rowan表示，对于汽车行业来说，提高汽车的算力比进行电动化转型更困难，并且更具变革性。</p><p style="text-align: left;">Jim Rowan补充道，“实际上，您将如何充分利用花费大量资金提升的汽车算力？您如何确保以最有效的方式正确使用它？” 这些都是需要思考和解决的问题。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2021/0726/a82f86435260a35.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0726/a82f86435260a35.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">▲沃尔沃纯电XC40</p><p style="text-align: left;">三、半导体供应下半年恢复 已适应工作环境</p><p style="text-align: left;">Jim Rowan表示，半导体短缺问题可能会持续到第二季度，今年下半年可以得到解决。未来沃尔沃将进一步提高供应链的稳定性，建立供应商数据体系，保证能够及时联系并获得数据，之后将通过算法决定是否在某些特定的部件上和两个供应商建立合作。</p><p style="text-align: left;">谈到<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-1000003263.html" target="_blank">戴森</a>汽车时，Jim Rowan表示，他从戴森汽车上学到了一整套的汽车知识，涉及汽车的供应链、技术、成本以及行业的发展方向。而且，这些经验帮助他在沃尔沃更快地进入工作状态。另外，和初创公司相比，沃尔沃还拥有不错的工厂、设计师、基础设施和稳固的投资等优势，帮助其不断转型成为一家电动汽车公司。</p><p style="text-align:center"><a href="https://n.sinaimg.cn/sinakd2020629s/783/w950h633/20200629/5731-ivrxcex3691024.jpg" target="_blank"><img src="https://n.sinaimg.cn/sinakd2020629s/783/w950h633/20200629/5731-ivrxcex3691024.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">▲戴森汽车</p><p style="text-align: left;">结语：Jim Rowan将助力沃尔沃技术创新</p><p style="text-align: left;">2021年，沃尔沃旗下全系车型实现电气化覆盖，当下最需要解决的是，电气化转型后沃尔沃的竞争力如何提升的问题。</p><p style="text-align: left;">所以，在沃尔沃持续推进电气化战略的同时，新任CEO Jim Rowan将结合在黑莓的软件工作经验，以及在戴森汽车上积累的专业知识，进一步提升沃尔沃的电气化转型后的系统软件，扩展汽车功能，让汽车不再仅仅是汽车。</p>   
+</div>
+            
