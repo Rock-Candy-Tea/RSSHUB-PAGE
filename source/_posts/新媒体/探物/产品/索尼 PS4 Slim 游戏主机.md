@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FpASOyldv7Vty8Kd7k8MTca-NlIn'
 author: 探物
 comments: false
-date: 2022-04-01 08:12:41
+date: 2022-04-01 09:09:34
 thumbnail: 'https://resource.tanwuapp.com/FpASOyldv7Vty8Kd7k8MTca-NlIn'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FpASOyldv7Vty8Kd7k8MTca-NlIn" referrerpolicy="no-referrer"><br>
           <strong>索尼 PS4 Slim 游戏主机</strong><br><br>
-          价格: ￥4.28 / 日<br>
+          价格: ￥4.75 / 日<br>
           评分: 5.0
           
 </div>

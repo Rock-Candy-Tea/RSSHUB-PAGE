@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.JPG?v=1648800195392'
 author: 巴哈姆特
 comments: false
-date: 2022-04-01 08:13:41
+date: 2022-04-01 09:10:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.JPG?v=1648800195392'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.
 <div>
 <div>
 <div>
-　　Garena 今（<span style="color:#ff0000;">4/1</span>)日公開《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》一日限定版本，由玩家熟悉的眾多名人包括國動、統神、丁特、HOWHOW 等來幫英雄展現語音效果新風貌。</div>
+　　Garena 今（<span style="color:#ff0000;">4/1</span>)日在台公開《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》一日限定版本，由玩家熟悉的眾多名人包括國動、統神、丁特、HOWHOW 等來幫英雄展現語音效果新風貌。</div>
 <div>
  </div>
 <div>
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/b576f06d1dab810bd94e7a48cc1fslf5.
 <div>
  </div>
 <div>
-　　另外，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》LCK 賽區明日將由 GEN.G 與 T1 進行春季季後賽總決賽，GEN.G 今（<span style="color:#ff0000;">4/1</span>）日在官方推特宣布，他們將進軍甜點界推出「甜甜圈吉拿圈」品牌，並且由旗下《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》戰隊 ADC 選手 Ruler 擔任主廚？！</div>
+　　另外，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》韓國 LCK 賽區明日將由 GEN.G 與 T1 進行春季季後賽總決賽，GEN.G 今（<span style="color:#ff0000;">4/1</span>）日在官方推特宣布，他們將進軍甜點界推出「甜甜圈吉拿圈」品牌，並且由旗下《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》戰隊 ADC 選手 Ruler 擔任主廚？！</div>
 <div>
  </div>
 <div>
