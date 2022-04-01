@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?v=1648783069534'
 author: 巴哈姆特
 comments: false
-date: 2022-04-01 03:40:04
+date: 2022-04-01 04:15:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?v=1648783069534'
 ---
 
@@ -17,13 +17,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　Razer 今日<span class="text-hightlight">（4/1）</span>發表，將推出針對元宇宙應用打造、採用 Razer 獨家研發之「HyperSense」觸覺技術的穿戴式遊戲套裝「Razer HyperSense Suit」，讓玩家進入超現實虛擬世界，感受真實的觸感與情感。</div>
+　　Razer 今日<b><span class="text-hightlight">（4/1）</span></b>發表，將推出針對元宇宙應用打造、採用 Razer 獨家研發之「HyperSense」觸覺技術的穿戴式遊戲套裝「Razer HyperSense Suit」，讓玩家進入超現實虛擬世界，感受真實的觸感與情感。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?v=1648783069534" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?v=1648783069534" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -41,9 +41,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?v=1648783086147" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?v=1648783086147" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/84/f335c0c13228aabbd02e84cc6b1fs9g5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?v=1648783086147" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?v=1648783086147" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/85/42de757ff08a815858c201684f1fs9h5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -72,7 +72,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/97e49e20dce9d39140044f9f181fs9i5.
 <div>
  </div>
 <div>
-　　HyperSense Suit 目前正在徵求測試玩家，具體上市時程與價格目前未定。</div>
+　　HyperSense Suit 目前正在徵求測試玩家，具體上市時程與價格未定。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="17751" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
