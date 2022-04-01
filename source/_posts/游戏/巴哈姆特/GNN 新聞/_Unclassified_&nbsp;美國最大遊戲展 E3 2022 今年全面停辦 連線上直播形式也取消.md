@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/13/ca479161bae95a2347973bb60011blt5.JPG?v=1648779671787'
 author: 巴哈姆特
 comments: false
-date: 2022-04-01 02:52:09
+date: 2022-04-01 03:40:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/ca479161bae95a2347973bb60011blt5.JPG?v=1648779671787'
 ---
 
@@ -17,8 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/ca479161bae95a2347973bb60011blt5.
 <!-- 新聞內容 -->
 <div>
 <div>
-<div>
-　　根據<a href="https://www.ign.com/articles/e3-2022-officially-canceled" target="_blank">知名遊戲媒體 IGN 報導</a>，美國最大電玩遊戲商展「E3 展（E3 Expo）」主辦單位 ESA（娛樂軟體協會）<span style="color:#ff0000;">美國時間 3 月 31 日</span>正式確認，2022 年 E3 展將取消，除了實體展取消外，也不會舉辦線上直播節目。</div>
+　　根據<a href="https://www.ign.com/articles/e3-2022-officially-canceled" target="_blank">知名遊戲媒體 IGN 報導</a>，美國最大電玩遊戲商展「E3 展（E3 Expo）」主辦單位「ESA（娛樂軟體協會）」於<span style="color:#ff0000;">美國時間 3 月 31 日</span>正式確認今年 E3 展將取消，除了實體展取消之外，也不會有線上直播。</div>
 <div>
  </div>
 <div>
@@ -31,6 +30,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/ca479161bae95a2347973bb60011blt5.
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　E3 展是每年國際遊戲盛會，2020 年因為疫情爆發而取消，並於 2021 年改以直播方式舉辦。根據 IGN 報導，原本主辦單位 ESA 因為 1 月爆發的 Omicron 變種所引發的疫情，今年不打算恢復 E3 實體活動，但當時尚未針對線上直播形式表達明確看法。</div>
 <div>
  </div>
@@ -40,11 +41,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/ca479161bae95a2347973bb60011blt5.
  </div>
 <div>
 　　這是 ESA 這三年來第二次沒有舉辦 E3 展，外界憂心 E3 展的重要性正不斷受到威脅，尤其在疫情發生之前，部分大廠像是 SONY、EA 等都已經開始思考不參加 E3，改以獨立的活動形式來公布與展示新作，明年 E3 究竟是何種風貌，令人關注。</div>
-<div>
- </div>
-</div>
-<div>
- </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="17759" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
