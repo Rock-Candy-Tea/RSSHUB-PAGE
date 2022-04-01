@@ -19,7 +19,7 @@ thumbnail: 'https://img.36krcdn.com/20220401/v2_f6fd529e18024579af62fa38451ca7df
 <p>带着这样的疑惑，近日一位 Medium 编辑 Stephen Moore 发声：元宇宙和 NFT 的繁荣盛世即将破灭。</p> 
 <h2><strong>元宇宙热度不再？</strong></h2> 
 <p>2021 年突然爆火的元宇宙，因 Facebook 的改名为其热度又“添了把柴”，过去一年在科技圈掀起了一股巨大的“元宇宙热潮”：</p> 
-<p>“元宇宙第一股”的开放式游戏创建平台 Roblox 上市，首日股价大涨 54%，市值突破 400 亿美元；<a class="project-link" data-id="3967413" data-name="微软" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3967413" target="_blank">微软</a> CEO Satya Nadella 曾表示，正在建立一个企业元宇宙；<a class="project-link" data-id="3969182" data-name="英伟达" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3969182" target="_blank">英伟达</a> 8 月主动爆料，其 CEO 黄仁勋在 4 月的视频发布会中有 14 秒的片段，是由实时仿真和协作平台 Omniverse 人工合成的，而英伟达希望该平台可以成为构建元宇宙的基础设施…</p> 
+<p>“元宇宙第一股”的开放式游戏创建平台 Roblox 上市，首日股价大涨 54%，市值突破 400 亿美元；微软 CEO Satya Nadella 曾表示，正在建立一个企业元宇宙；英伟达 8 月主动爆料，其 CEO 黄仁勋在 4 月的视频发布会中有 14 秒的片段，是由实时仿真和协作平台 Omniverse 人工合成的，而英伟达希望该平台可以成为构建元宇宙的基础设施…</p> 
 <p>在这之中，将公司名都改为元宇宙（Metaverse）的 Meta 更可谓全力冲击。Meta CEO Mark Zuckerberg 在更名时曾放言：“这（元宇宙）将是继移动互联网之后，互联网发展下个篇章的重要组成部分。”</p> 
 <p>但根据上个月 Meta 所公布的 2021 年第四季度财报显示，Meta 旗下负责公司元宇宙业务的部门 Reality Labs 在 2021 年的净亏损约为 102 亿美元——对此，Stephen Moore 将 Meta 所执着的元宇宙成为“反乌托邦的梦想”，并预言 Meta 还将为此“烧掉”更多的钱。</p> 
 <p>除此之外，如果查看 Chrome 浏览器中“元宇宙”的搜索趋势，可以发现其热度巅峰即为 Facebook 更名，此后整体呈跌落趋势：</p> 
@@ -36,7 +36,7 @@ thumbnail: 'https://img.36krcdn.com/20220401/v2_f6fd529e18024579af62fa38451ca7df
 <p>除了元宇宙和 NFT 热度减退，有关 Web 3 的争议也越来越大。</p> 
 <p>Web 3 也是去年突然火起来的一个概念——截止目前，它仍仅限于概念阶段。总体而言，Web 3 指的是基于边缘计算、人工智能和区块链等技术的去中心化系统和技术，旨在取代目前我们所处于的 Web 2 时代。</p> 
 <p>在这之中，“去中心化”是许多人支持 Web 3 的一大理由：用户可自行组合不同的服务，定制自己的 Web 和搜索引擎，还可以访问并控制自己的资产而无需任何提供商的许可。但目前问题在于，Web 3 真的能做到这一点吗？</p> 
-<p>Whisper Systems 联合创始人兼 CTO Moxie Marlinspike 对此进行了一项实验：他像每个初尝 NFT 的人一样做了一个图片，并将其 mint 成 NFT 放在 OpenSea（一个 NFT 市场）上卖。在发现 NFT 本身对该图片没有任何核查后，他将提供图片的 Web 服务器设置成根据不同 IP 呈现不同的图像来<a class="project-link" data-id="8712" data-name="测试" data-logo="https://img.36krcdn.com/20220318/v2_d188db412f2e4db89c6424314ac39971_img_jpg" data-refer-type="2" href="https://36kr.com/projectDetails/8712" target="_blank">测试</a> OpenSea 的反应。</p> 
+<p>Whisper Systems 联合创始人兼 CTO Moxie Marlinspike 对此进行了一项实验：他像每个初尝 NFT 的人一样做了一个图片，并将其 mint 成 NFT 放在 OpenSea（一个 NFT 市场）上卖。在发现 NFT 本身对该图片没有任何核查后，他将提供图片的 Web 服务器设置成根据不同 IP 呈现不同的图像来测试 OpenSea 的反应。</p> 
 <p>随后没几天，OpenSea 作为一个中心化平台下架了他的 NFT，这点 Moxie 可以理解，他惊讶的是他自己 metamask 小狐狸钱包里的 NFT 也消失了——说消失就消失，这岂不是违背了 Web 3 所呼吁的“去中心化”？Moxie 对此担忧道：“Web3 社区所期待的结果似乎与我们目前已看到的不同。”</p> 
 <p>国内 @木遥 曾就 Moxie 的这篇文章总结为：“这整体上体现了一个不可避免的从去中心化滑向中心化的趋势。”</p> 
 <blockquote> 
@@ -53,6 +53,6 @@ thumbnail: 'https://img.36krcdn.com/20220401/v2_f6fd529e18024579af62fa38451ca7df
 <p>https://onezero.medium.com/the-metaverse-and-nft-boom-is-about-to-go-bust-b63c52c37c94</p> 
 <p>https://moxie.org/2022/01/07/web3-first-impressions.html?continueFlag=cd19c4aaca6615fdc21f07721021affa</p> 
 <p>https://weibo.com/1644684112/L9Qq7qGfn?from=page_1005051644684112_profile&wvr=6&mod=weibotime&type=comment%20https%3A%2F%2Fmoxie.org%2F2022%2F01%2F07%2Fweb3-first-impressions.html</p> 
-<p class="editor-note">本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/NOmo9w_DUT1klG1Meev1mQ">“CSDN”（ID:CSDNnews）</a>，作者：郑丽媛 ，36氪经授权发布。</p>  
+<p class="editor-note">本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/NOmo9w_DUT1klG1Meev1mQ">“CSDN”（ID:CSDNnews）</a>，作者：郑丽媛 ，36氪经授权发布。</p>  
 </div>
             

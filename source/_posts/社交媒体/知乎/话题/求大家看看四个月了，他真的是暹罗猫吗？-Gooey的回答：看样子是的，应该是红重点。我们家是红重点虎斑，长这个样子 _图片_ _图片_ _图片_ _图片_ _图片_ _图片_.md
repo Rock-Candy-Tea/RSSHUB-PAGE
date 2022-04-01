@@ -1,0 +1,18 @@
+
+---
+title: '求大家看看四个月了，他真的是暹罗猫吗？-Gooey的回答：看样子是的，应该是红重点。我们家是红重点虎斑，长这个样子 _图片_ _图片_ _图片_ _图片_ _图片_ _图片_...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-34cac5fb4714230b289460ba55402b96_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 01 Apr 2022 04:55:46 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-34cac5fb4714230b289460ba55402b96_1440w.jpg'
+---
+
+<div>   
+<strong>求大家看看四个月了，他真的是暹罗猫吗？</strong><br>Gooey的回答<br><p data-pid="NfTWeWkQ">看样子是的，应该是红重点。我们家是红重点虎斑，长这个样子</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-34cac5fb4714230b289460ba55402b96_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-e4ee4417ac6fc0b307fb84044c469d5d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-34cac5fb4714230b289460ba55402b96_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-068aaa50517a4b1ae4f88bf5a9a26c20_1440w.jpg" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-51de215c16e7fd212d0ebaa6786eaf4a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-068aaa50517a4b1ae4f88bf5a9a26c20_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-8c0fde03e98b9149fd9fa2ba412b2d6f_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-0e44cb9f11aeb0287d3c82d4efd0d9bb_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-8c0fde03e98b9149fd9fa2ba412b2d6f_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d8072221587b869a6876d22edb28e08c_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-8270e00a7f707b2db41d061cf4dc3062_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d8072221587b869a6876d22edb28e08c_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-35b03a30ca96d99612c0b706a435fc7c_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-a6e7d588e530f2a8447e246208321d95_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-35b03a30ca96d99612c0b706a435fc7c_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-70373b271f46fa32ec7a70f51563f8f3_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-b11dba76ace225cea0f931e5bde030d7_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-70373b271f46fa32ec7a70f51563f8f3_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6929b231aa13dd79f6968d5bf8c1bc23_1440w.jpg" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-22ebe3c932ae4f6960637e6a6dcb3980_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6929b231aa13dd79f6968d5bf8c1bc23_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="wR8Vw7p4">小时候天仙一样，长大了就…可能他只是变成大人模样了吧 </p>  
+</div>
+            
