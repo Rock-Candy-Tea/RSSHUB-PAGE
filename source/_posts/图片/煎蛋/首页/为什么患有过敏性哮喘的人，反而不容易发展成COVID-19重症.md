@@ -30,6 +30,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2020/03/2
 <p>未来，治疗药物可以帮助靶向某些似乎更容易出现严重症状的部位。</p>
 <p>“它显示了涉及 ACE2 和 IL-13 的特定机制是多么重要，我们可以尽最大努力保护患者免于重症。”</p>
 <p>该研究发表在 PNAS 上。</p>
-<p>https://www.sciencealert.com/paper-reports-tragic-medical-case-of-a-man-who-injected-cocaine-into-his-penis</p>  
+<p>正确链接→https://www.sciencealert.com/research-reveals-why-some-asthma-patients-are-less-susceptible-to-severe-covid-19</p>
+<p>最开始放错了的(但推荐一看，不翻译过来了)→https://www.sciencealert.com/paper-reports-tragic-medical-case-of-a-man-who-injected-cocaine-into-his-penis</p>  
 </div>
             
