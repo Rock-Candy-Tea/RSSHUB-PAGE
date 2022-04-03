@@ -24,7 +24,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_b1e8bd44fcba4ab08c0303315edefbc9
 <p class="image-wrapper"><img data-img-size-val="1080,431" src="https://img.36krcdn.com/20220323/v2_0409097313014737bfe11518d93796df_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">光是昨天一天，“loft复式”相关视频的播放量就接近七百万/图源：飞瓜数据</p> 
 <p>两层的布局，占满整面墙的落地窗，自由的装修风格……</p> 
-<p>精<a class="project-link" data-id="131482" data-name="美的" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/131482" target="_blank">美的</a>Loft样板间，盛满了不少人对梦幻、文艺、时尚生活的想象，成了无数年轻人的梦中情房。</p> 
+<p>精美的Loft样板间，盛满了不少人对梦幻、文艺、时尚生活的想象，成了无数年轻人的梦中情房。</p> 
 <p><strong>Loft到底是什么，真的有这么好吗？</strong></p> 
 <h2>01 <strong>瞄准年轻人的Loft</strong></h2> 
 <p>提到Loft，最先想到的标签，十有八九是“年轻”。</p> 
@@ -33,7 +33,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_b1e8bd44fcba4ab08c0303315edefbc9
 <p class="image-wrapper"><img data-img-size-val="1080,720" src="https://img.36krcdn.com/20220323/v2_d683082e38254a9bafe66519c6b3215b_img_000" referrerpolicy="no-referrer"></p> 
 <p><strong>最初的Loft，没有这么多光环。</strong></p> 
 <p>它的演变，少不了艺术家与地产商的推动，伴随着城市的扩展与生存空间的压缩。</p> 
-<p>Loft这个单词的本意，是“屋顶之下，存<a class="project-link" data-id="125250" data-name="放东西" data-logo="https://img.36krcdn.com/20210808/v2_5085738c777840df8b2e1ed33fc3a764_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/125250" target="_blank">放东西</a>的阁楼”。</p> 
+<p>Loft这个单词的本意，是“屋顶之下，存放东西的阁楼”。</p> 
 <p>作为一种特殊的建筑形态，它最初诞生于纽约苏豪区，指的是<strong>“大型的、少有遮挡的、适应性强的高挑开放空间，通常由工业、商业用途等改造成住宅用途”</strong>。</p> 
 <p><strong>光是这个定义，就能嗅到一丝别扭和拧巴。</strong></p> 
 <p class="image-wrapper"><img data-img-size-val="1080,720" src="https://img.36krcdn.com/20220323/v2_75dedfe2f7274b658b488d805787d2ae_img_000" referrerpolicy="no-referrer"></p> 
@@ -74,7 +74,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_b1e8bd44fcba4ab08c0303315edefbc9
 <p>Loft公寓本身的硬伤，会带来极差的生活体验。</p> 
 <p><strong>首先，是让人“伸展不开”的层高和面积。</strong></p> 
 <p>所谓的“买一层送一层”，指的是Loft公寓层高上有一定的优势，一般在5米左右，可以分隔成两层使用。</p> 
-<p>但稍微厚一点的分隔，就足以瓜分掉<a class="project-link" data-id="27186" data-name="二楼" data-logo="https://img.36krcdn.com/20210806/v2_e142ac25202e4ad191156ab13a312630_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/27186" target="_blank">二楼</a>的站立空间，更遑论目前开发愈来愈低的4.6米、4.4米层高。</p> 
+<p>但稍微厚一点的分隔，就足以瓜分掉二楼的站立空间，更遑论目前开发愈来愈低的4.6米、4.4米层高。</p> 
 <p class="image-wrapper"><img data-img-size-val="608,700" src="https://img.36krcdn.com/20220323/v2_a5fa24a4da654d88b0a8b4d05ccda811_img_000" referrerpolicy="no-referrer"></p> 
 <p class="img-desc">作为主卧的二楼，以柜子作为参照，显得层高不足</p> 
 <p><strong>那些空间宽敞、布局疏朗的样板间，不少都是商家用小一号家具做出来的视觉假象。</strong></p> 
@@ -114,7 +114,7 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_b1e8bd44fcba4ab08c0303315edefbc9
 <h2>03 <strong>安得广厦千万间</strong></h2> 
 <p>抛开“自由”“DIY”“精致”等包装元素不谈，不少年轻人买Loft的原因很简单：</p> 
 <p><strong>想在城市里有个家。</strong></p> 
-<p>以一线城市为例，非“<a class="project-link" data-id="172986" data-name="土著" data-logo="https://img.36krcdn.com/20210808/v2_c41ef3cdf134492d918c393a87eb94eb_img_000" data-refer-type="2" href="https://36kr.com/projectDetails/172986" target="_blank">土著</a>”的打工人，需要多久才能在这里落户、买房？</p> 
+<p>以一线城市为例，非“土著”的打工人，需要多久才能在这里落户、买房？</p> 
 <p><strong>且不说钱包里的钱够不够，单从积分落户到等待购房资格，便是场持久仗，熬得人身心俱疲。</strong></p> 
 <p>租房，房子不是自己的，一边花着钱，一边面临随时被房东扫地出门的窘迫，无根浮萍一般的漂泊感，让人难以安心。</p> 
 <p>合租，除了上述问题，还可能遇上不靠谱的合租室友，以及疫情之下特有的不便：</p> 
@@ -137,6 +137,6 @@ thumbnail: 'https://img.36krcdn.com/20220323/v2_b1e8bd44fcba4ab08c0303315edefbc9
 <p><strong>只是希望，每个买下它的人，都是了解清楚后才做出决断，而不是因为盲目跟风或者被蒙骗。</strong></p> 
 <p>写作文章时，搜索“Loft”，看到的科普少，铺天盖地的营销多；能说明商住区别的商家少，拼命推销华丽样板间的中介多。</p> 
 <p><strong>别再骗年轻人买Loft了，他们只是想有个家而已。</strong></p> 
-<p>本文来自<a class="project-link" data-id="3968527" data-name="微信" data-logo="https://img.36krcdn.com/20200916/v2_811751a081924fa9af8741ce120bd7bf_img_png" data-refer-type="2" href="https://36kr.com/projectDetails/3968527" target="_blank">微信</a>公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s?__biz=MzIzNDAxNjkxOA==&mid=2650737977&idx=1&sn=deef853ce9a36c0e682f0eb4cd964b49&chksm=f0f774c0c780fdd636b8299aab794915f2239e3c13b7f0dfea149c0375f83e9dcfd64eafd65a#rd">“槽值”（ID:caozhi163）</a>，作者：槽值小妹，36氪经授权发布。</p>  
+<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s?__biz=MzIzNDAxNjkxOA==&mid=2650737977&idx=1&sn=deef853ce9a36c0e682f0eb4cd964b49&chksm=f0f774c0c780fdd636b8299aab794915f2239e3c13b7f0dfea149c0375f83e9dcfd64eafd65a#rd">“槽值”（ID:caozhi163）</a>，作者：槽值小妹，36氪经授权发布。</p>  
 </div>
             
