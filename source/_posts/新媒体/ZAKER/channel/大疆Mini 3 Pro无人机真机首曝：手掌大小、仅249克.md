@@ -1,0 +1,18 @@
+
+---
+title: '大疆Mini 3 Pro无人机真机首曝：手掌大小、仅249克'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd62_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 03 Apr 2022 05:08:36 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd62_1024.jpg'
+---
+
+<div>   
+<p>2020 年 11 月，大疆创新发布新一代航拍小飞机 Mini 2，起售价 2899 元，相比上代贵了 200 元。</p><p>时隔一年多时间，日前，大疆 Mini 3 Pro 无人机首次在网络曝光。</p><p>海外博主 @Jasper Ellens 曝光了大疆 Mini 3 Pro 无人机真机照片，同时公布了新品的主要升级参数。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd62_1024.jpg" data-height="443" data-width="596" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd62_1024.jpg" referrerpolicy="no-referrer"></div></div>据介绍，Mini 3 Pro 内置 2453mAh 电池，较上一代有所提升，同时改进了三轴云台，相机升级为 E24 F1.7，配备全新传感器，前臂后臂折叠方式互换，前臂改为转轴，后臂为折叠轴。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd63_1024.jpg" data-height="1055" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62497cfc8e9f09741555bd63_1024.jpg" referrerpolicy="no-referrer"></div></div>另外，这款无人机的重量为 249 克，与上代相同。从照片来看，无人机与手掌差不多大。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd64_1024.jpg" data-height="840" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd64_1024.jpg" referrerpolicy="no-referrer"></div></div>需要注意的是，鉴于机臂上的 Mini 3 Pro，预计还会推出 Mini 3 标准版。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd65_1024.jpg" data-height="840" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd65_1024.jpg" referrerpolicy="no-referrer"></div></div>作为对比，大疆 Mini 2 搭载 1/2.3 英寸 CMOS 传感器，有效像素为 1200 万，最高支持 4K/30fps，4 倍变焦的视频拍摄，配备三轴机械增稳系统，相比上一代不支持 4K 又没有变焦功能的 Mini 1 来说，画质和实用性得到了很大提升。<p></p><p>同时，Mini 2 还更新了 Ocusync2.0 图传技术，相比上一代的增强版 Wi-Fi 来说有了极大的进步，图传最远距离可以达到 10 公里，实时图传最大码率升级为 8 Mbps，基本不会再有刚起飞就失联的情况。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd66_1024.jpg" data-height="840" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd66_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd67_1024.jpg" data-height="501" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62497cfc8e9f09741555bd67_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
