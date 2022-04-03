@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/invision-jira-integration/'
 author: Inside Design
 comments: false
-date: 2022-04-03 06:11:04
+date: 2022-04-03 07:08:57
 thumbnail: 'https://www.invisionapp.com/inside-design/invision-jira-integration/'
 ---
 

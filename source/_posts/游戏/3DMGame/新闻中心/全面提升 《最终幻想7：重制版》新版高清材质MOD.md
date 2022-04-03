@@ -26,16 +26,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220403/1648956337_4795
 以下是部分对比截图，上图为原生版，下图为MOD版。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956337_479537.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956337_479537.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956343_590770.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956343_590770.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956349_689025.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956349_689025.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956355_306307.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220403/1648956355_306307.jpg" alt="全面提升 《最终幻想7：重制版》新版高清材质MOD" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
