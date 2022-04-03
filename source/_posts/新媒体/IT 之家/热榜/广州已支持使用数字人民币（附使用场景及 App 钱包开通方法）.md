@@ -1,0 +1,20 @@
+
+---
+title: '广州已支持使用数字人民币（附使用场景及 App 钱包开通方法）'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/87adb174-2578-46b1-8067-9ca9d34386c8.png'
+author: IT 之家
+comments: false
+date: Sat, 02 Apr 2022 13:35:11 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/87adb174-2578-46b1-8067-9ca9d34386c8.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1889477" rel="nofollow">SP_CE</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1920643" rel="nofollow">Bruce小猪</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1117646" rel="nofollow">深圳靓仔</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1649408" rel="nofollow">蓝海岸Nibiru</a> 的线索投递！</div>
+            <p data-vmark="a2c3"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 2 日消息，据广州发布，数字人民币到广州来了，广州已有个别场景可以使用数字人民币了。除了在海珠区有轨电车可以体验数字人民币支付外，正佳广场的唯品会，这里的数字人民币设备已铺设完毕。</p><p data-vmark="9013">《<a href="https://www.ithome.com/0/611/112.htm" target="_blank">央行：增加天津、重庆、广州、福州、厦门、浙江承办亚运会的 6 个城市作为数字人民币试点地区</a>》</p><p data-vmark="0d29">打开数字人民币 App，点击“收付”操作，页面切换成含有二维码和条形码的页面。紧接着，将二维码对着 POS 机一扫，页面就会显示消费金额、账户余额，并告知“付款成功”。</p><p data-vmark="44f2">据了解，近期银行已在有轨电车、唯品会、广州友谊商场广州门店等场景铺设了数字人民币的设备。据介绍，接下来很快将有更多场景可以使用数字人民币支付。</p><p data-vmark="f935" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/87adb174-2578-46b1-8067-9ca9d34386c8.png" w="874" h="1220" title="广州已支持使用数字人民币（附使用场景及 App 钱包开通方法）" width="874" height="1145" referrerpolicy="no-referrer"></p><h3 data-vmark="c540">如何使用数字人民币？</h3><p data-vmark="1a09">数字人民币 App 的下载及注册方面：</p><p data-vmark="c745">只要在应用商店下载数字人民币（试点版），然后输入手机号及验证码，设置支付密码，再输入自定义的钱包名称后，就能自行选择运营机构快速开通四类匿名钱包，整个注册过程用时不到 1 分钟，全程无需输入姓名、身份证号、银行卡号等敏感个人信息。</p><p data-vmark="f60f">目前，用户可自行选择的包括工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行、招商银行、网商银行（支付宝）、微众银行（微信支付）等 9 个运营机构。</p><p data-vmark="92a4" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/99130088-940b-4aa1-8135-60152a6738ce.jpg@s_2,w_820,h_1708" w="922" h="1920" title="广州已支持使用数字人民币（附使用场景及 App 钱包开通方法）" srcset="https://img.ithome.com/newsuploadfiles/2022/4/99130088-940b-4aa1-8135-60152a6738ce.jpg 2x" width="922" height="1708" referrerpolicy="no-referrer"></p><h3 data-vmark="b692">个人数字钱包分四个等级</h3><p data-vmark="2a95">据了解，目前个人数字钱包根据客户身份识别强度分为四种等级。</p><p data-vmark="ef7e"><strong>四类钱包</strong></p><p data-vmark="d262">只需要手机号注册即可办理，个人数字钱包余额上限 1 万元，单笔支付上限 2000 元，日累积支付上限 5000 元。</p><p data-vmark="dc34"><strong>三类钱包</strong></p><p data-vmark="2424">需要提供有效身份证件，余额上限也提升至 2 万元，单笔支付上限 5000 元，日累积支付上限 1 万元。</p><p data-vmark="a69e"><strong>二类钱包</strong></p><p data-vmark="2ec5">需要再绑定个人银行账户，钱包余额上限提高至 50 万元，单笔支付上限 5 万元，日累积支付上限 10 万元。</p><p data-vmark="a66d"><strong>一类钱包</strong></p><p data-vmark="a46a">无任何交易限制，但办理要求最为严格，除了填写手机号码、身份证、本人银行账户外，还需到运营机构现场面签。</p><p data-vmark="872d">成功开立个人数字钱包后，用户可通过银行卡充钱和手机银行转入两种方式为钱包充值。</p><ul class=" list-paddingleft-2"><li><p data-vmark="d979">通过银行卡充钱，则需要输入身份证信息、完成人脸识别和添加银行卡卡号，完成一系列操作后，四类匿名钱包也自动升级为二类钱包。</p></li><li><p data-vmark="3693">从手机银行转入，则可以跳转多个银行的 App，弹出显示有钱包编号的快捷充值页面，输入具体充值金额后即可使用。</p></li></ul><h3 data-vmark="b439">提醒：不能直接从银行账户划款，必须充值才能消费</h3><p data-vmark="2a3a">数字人民币（试点版）App 的使用界面上，钱包余额首页有“转钱”和“收付”两个按钮。</p><p data-vmark="defe">点击“转钱”，再填写手机号码，就可以向其他数字钱包转钱。</p><p data-vmark="0e07">点击“收付”，可使用付钱码向商户付款，付款码下方还有“收钱”“转钱”“扫一扫”三个按钮，点击“收钱”，就出现了收款码，他人扫码这个码可以向用户付钱。</p><p data-vmark="0761">值得一提的是，虽然数字人民币 App 可以像微信、支付宝那样注册并绑定银行卡，但必须经过充值才能有余额进行消费，不能直接从银行账户划款。</p><p data-vmark="4c84">《<a href="https://www.ithome.com/0/611/112.htm" target="_blank">央行：增加天津、重庆、广州、福州、厦门、浙江承办亚运会的 6 个城市作为数字人民币试点地区</a>》</p>
+          
+</div>
+            
