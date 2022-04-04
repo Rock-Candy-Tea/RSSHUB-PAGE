@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 author: 煎蛋
 comments: false
 date: Sun, 03 Apr 2022 15:17:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>数学家Thomas Bloom谦称：门锁早就被前人拧开，我仅仅是推开了虚掩的门</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6a691d427e51f2598a3e00fc5d502d60.jpg!custom" referrerpolicy="no-referrer"><p>你能找到若干自然数，让它们的倒数和=1吗？</p>
+<blockquote><p>数学家Thomas Bloom谦称：门锁早就被前人拧开，我仅仅是推开了虚掩的门</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/10/551dbe8547f5e93e35e90ab90883c38f.jpg!custom" referrerpolicy="no-referrer"><p>你能找到若干自然数，让它们的倒数和=1吗？</p>
 <p>没有限制的话，枚举其实还是很简单的，如1/2+1/3+1/6=1。这种叫单位分数，古埃及人很关注这些玩意，因为这涉及货币种类，如用若干小货币单位凑出大单位。(根源上还是古埃及人的分数运算方式和对进位的理解，迫使他们去记忆有哪些单位分数)</p>
 <p>现代数学家则对有特定限制的结构更感兴趣。</p>
 <p>牛津大学的Thomas Bloom刚刚证明了单位分数的重大猜想。</p>
@@ -23,7 +23,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/6
 <p>蒙特利尔大学的Andrew Granville说：“我认为这是一个不可能解决的问题，头脑正常的人不可能做到。我没有看到任何明显的工具可以用于解决它。”</p>
 <p>Bloom 进入这一领域的契机，源于读博期间的家庭作业：去年 9 月，他被要求在讨论会上解读一篇 20 年前的论文。</p>
 <p>那篇论文由一位名叫 Ernie Croot 的数学家撰写，解决了所谓的 Erdős-Graham 问题的着色版本。在那里，整数被随机分类到用颜色区分的不同桶中：一些放在蓝色桶中，另一些放在红色桶中，依此类推。 Erdős 和 Graham 预测，无论用了多少不同的桶，至少一个桶必须包含单位分数。</p>
-<p>Croot 从谐波分析(与微积分密切相关的数学分支)中引入了强大的新方法，证明了Erdős-Graham 的预言。他的论文发表在顶级期刊《数学年鉴》上。</p>
+<p>Croot 从调和分析(与微积分密切相关的数学分支)中引入了强大的新方法，证明了Erdős-Graham 的预言。他的论文发表在顶级期刊《数学年鉴》上。</p>
 <p>“Croot 的论点读起来很有趣，”乔治亚大学的 Giorgis Petridis 说。 “它需要创造力、独创性和大量的技术实力。”</p>
 <p>然而，尽管 Croot 的论文令人印象深刻，但它无法回答 Erdős-Graham 猜想的正密度版本。</p>
 <p>在将数字分类到桶中时，Croot 想要避开具有大素因数的合数。这些数字的倒数往往在通分加和时制造“不好”的分子。因此，Croot 证明了如果一个集合有足够多的成员和许多相对较小的素因数，它必须总是包含一个子集，其倒数加到 1。</p>
