@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-04-04 05:09:39
-thumbnail: 'https://pic1.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162'
+date: 2022-04-04 06:12:26
+thumbnail: 'https://pica.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-3aff6dbd998567e60686173ce84e8a0b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Jackpop，</span><span class="bio">vx：code_7steps | 公众号：平凡而诗意</span>
 <a href="https://www.zhihu.com/question/517057824/answer/2402176823" class="originUrl" hidden>查看知乎原文</a>
 </strong>
