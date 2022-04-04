@@ -83,6 +83,7 @@ thumbnail: 'https://img.36krcdn.com/20220404/v2_766a694402254cacbcfe4298e58a482e
 <p class="img-desc">▲图自 Unsplash</p> 
 <p>面对信息茧房、信息过载的问题，识区 app 也未必是足够好的解决方案——即使是简易版、兴趣版、有算法辅助的 RSS「用户自订阅」，它仍然跟人的信息组织能力有着强关联。</p> 
 <p>它的出现不过是再一次告诉我们，我们不是只能被动接受算法投喂，我们永远有拒绝让渡、保留多元开放思考的权利。如果不甘随波逐流被困在围墙里，你需要对自己摄入的内容负起责任。</p> 
-<p>目前《识区》还处于内测阶段，近期开放了邀请限额，每位注册用户可自主邀请三位朋友注册使用，如不介意欢迎在评论区分享。本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/ttQVUKvH4aE7oCckFEI7Tw">“APPSO”（ID:appsolution）</a>，作者：梁晓憧，36氪经授权发布。</p>  
+<p>目前《识区》还处于内测阶段，近期开放了邀请限额，每位注册用户可自主邀请三位朋友注册使用，如不介意欢迎在评论区分享。</p> 
+<p>本文来自微信公众号<a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/ttQVUKvH4aE7oCckFEI7Tw">“APPSO”（ID:appsolution）</a>，作者：梁晓憧，36氪经授权发布。</p>  
 </div>
             
