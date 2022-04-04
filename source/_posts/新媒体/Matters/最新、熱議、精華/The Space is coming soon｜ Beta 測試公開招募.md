@@ -1,0 +1,18 @@
+
+---
+title: 'The Space is coming soon｜ Beta 測試公開招募'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/cc94043c-3295-4ad1-bc68-b7564f75bdba.png'
+author: Matters
+comments: false
+date: Fri, 01 Apr 2022 05:38:55 GMT
+thumbnail: 'https://assets.matters.news/embed/cc94043c-3295-4ad1-bc68-b7564f75bdba.png'
+---
+
+<div>   
+<p>The Space 終於要來了。經過近三個月緊張的開發，我們已經基本完成了 The Space 上鏈的準備工作，離它正式上線的日子近了。我們有兩個消息要告訴大家。</p><blockquote>What is The Space?  <a href="https://medium.com/coinmonks/radical-markets-can-work-on-blockchain-our-web3-experiment-the-space-shows-how-1b5d49b91d27" rel="noopener noreferrer" target="_blank"><em>Radical markets can work on blockchain. Our web3 experiment–The Space–shows how.</em></a></blockquote><p>首先，在我們的設計師 Yihan 和工程師 Elk 的努力下，The Space 的<a href="http://thespace.game/" rel="noopener noreferrer" target="_blank">官方網站</a>: 終於上線了！請大家來參觀👉 <a href="https://www.thespace.game/" rel="noopener noreferrer" target="_blank">thespace.game</a>。在網站上，大家可以加入我們的 <a href="https://discord.com/invite/rbsfr4KMR7" rel="noopener noreferrer" target="_blank">Discord</a>，也可填寫自己的郵箱和（以太坊地址選填）來訂閱 The Space 的 更新。同時，The Space WiKi 也在建設中，敬請期待。</p><figure class="image"><img src="https://assets.matters.news/embed/cc94043c-3295-4ad1-bc68-b7564f75bdba.png" data-asset-id="cc94043c-3295-4ad1-bc68-b7564f75bdba" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>其次，我們將在下週末開始 The Space Beta 版本的公開測試。</p><p>在 Beta 測試中，每個像素都將在第一次交易時 mint 為 NFT。像素的顏色，座標和價格信息均直接儲存在鏈上。像素的交易過程，需要錢包簽署；像素的買賣，則需要使用我們發行在 Mumbai 測試鏈上的 $SPACE Token （STK）。另外，我們終於攻克了 The Space 計畫的精髓部分，以多個智能合約實現了哈柏格税收取和UBI發放機制，在 Beta 版本中大家可以體驗到它們。</p><p><strong>現在，我們將公開招募 Beta 版本的測試員。</strong>積極參與的測試員可提前感受 The Space 的玩法策略，並有機會獲得正式版本的 $SPACE 空投。未來，The Space 將以 SpaceDAO 作為運營實體，積極參加的玩家也將有機會成為 SpaceDAO 的主導成員。</p><h2>👉<a href="https://forms.gle/AWxLCgfFK76Sb6oS8" rel="noopener noreferrer" target="_blank">報名測試</a>👈</h2><p>我們將會以郵件通知報名者，測試邀請將視報名情況，分批發送，先報先測。第一批測試邀請和測試說明預計將在下週五發送，請大家注意查收。</p><hr><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/01e3ab13-ebc8-4c59-bc63-68325d5c3dee.png" data-asset-id="01e3ab13-ebc8-4c59-bc63-68325d5c3dee" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2><em>關於 The Space：</em></h2><p><em>The Space 是 Matters Lab 以區塊鏈技術和去中心化精神復興公共表達空間的又一嘗試。在 The Space 中，我們將以區塊鏈技術革新 2017年的像素畫布共創遊戲 </em><a href="https://www.youtube.com/watch?v=c8bp950PHZE" rel="noopener noreferrer" target="_blank"><em>Reddit Place</em></a><em>。</em></p><p><em>The Space 的公共空間中，所有內容都永久儲存在鏈上，所有邏輯以智能合約實現，這意味著 The Space 所建立的公共空間將永遠在線，成為 Web3文化的歷史畫廊。</em></p><p><em>但數據和邏輯的永續，不代表玩家願意永續遊玩。為此，我們引入金融和市場機制，實現公共表達的金融化。我們以</em><a href="https://matters.news/@septentrium/%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%A7%81%E6%9C%89%E5%88%B6-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%A9%B6%E5%93%88%E4%BC%AF%E6%A0%BC%E7%A8%8E-bafyreiflyjs4hhbet4dimxikjqpcwqle5g3qnficve4kkyc6yaa63thuuy" rel="noopener noreferrer" target="_blank"><em>哈柏格税</em></a><em>作為公共空間治理原則，促進公共利益最大化，並提高「像素市場」的流動性，並發行 $SPACE token作為交易貨幣，使創造者在創造過程中能夠獲利，而整個表達空間因而充滿活力。</em></p><p><em>此外，The Space 哈柏格税為基礎，我們將發行全民基本收入（UBI），以促進大多數創作者的利益。我們也將設立社區基金（Community Funds），The Space 上線後即以此基金為 SpaceDAO 的運作基礎。未來，The Space 將由玩家組成的 SpaceDAO 獨立運作，達到其作為公共品的完成體。</em></p><p><strong><em>The Space 將在 2022年4月進行公開測試，5月完成 $SPACE 空投並正式上鏈。</em></strong></p><p>關注我們的 <a href="https://twitter.com/thespace2022" rel="noopener noreferrer" target="_blank">Twitter</a> 了解更多信息</p><p><br></p><p><strong><em><br class="smart"></em></strong><br class="smart"></p>  
+</div>
+            
