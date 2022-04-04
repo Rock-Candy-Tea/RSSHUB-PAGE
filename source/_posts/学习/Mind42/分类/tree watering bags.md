@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6ac19d77-8aa4-4ea8-a98e-4e5b12b5e21a&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=854588d2-e254-449a-a24e-e3e51a60d2f0&size=gallery'
 author: Mind42
 comments: false
-date: 2022-04-04 06:12:06
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6ac19d77-8aa4-4ea8-a98e-4e5b12b5e21a&size=gallery'
+date: 2022-04-04 07:09:58
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=854588d2-e254-449a-a24e-e3e51a60d2f0&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=6ac19d77-8aa4-4ea8-a98e-4e5b12b5e21a&size=gallery" referrerpolicy="no-referrer"><p>
-                    Many people feel compelled to plant various trees in their gardens or in the forest in order to achieve various goals. It is, however, critical to supply these trees with the proper conditions if you want them to develop and provide you with the benefits you desire.                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=854588d2-e254-449a-a24e-e3e51a60d2f0&size=gallery" referrerpolicy="no-referrer"><p>
+                    Those who have been dealing with these issues may now take care of their plants by using tree watering bags to provide water and minerals to their crops. This type of drip irrigation has a lot of advantages.                </p>  
 </div>
             

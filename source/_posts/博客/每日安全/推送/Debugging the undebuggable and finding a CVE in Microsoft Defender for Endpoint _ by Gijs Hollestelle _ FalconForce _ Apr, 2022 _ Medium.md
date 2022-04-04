@@ -5,14 +5,22 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=2447'
+headimg: 'https://picsum.photos/400/300?random=2752'
 author: 每日安全
 comments: false
-date: 2022-04-04 06:11:57
-thumbnail: 'https://picsum.photos/400/300?random=2447'
+date: 2022-04-04 07:09:56
+thumbnail: 'https://picsum.photos/400/300?random=2752'
 ---
 
 <div>   
-Debugging the undebuggable and finding a CVE in Microsoft Defender for Endpoint | by Gijs Hollestelle | FalconForce | Apr, 2022 | Medium  
+<q>Microsoft Defender for Endpoint 的调试方法以及身份伪造漏洞分析</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 1 day ago</small></span>
+</cite>
+  
 </div>
             
