@@ -1,0 +1,18 @@
+
+---
+title: '乍见之欢（更新至 ED）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202204/01/bf0bfdcd12b81833e5046e079af35618212909.jpg'
+author: 猫耳 FM
+comments: false
+date: Fri, 01 Apr 2022 13:29:17 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202204/01/bf0bfdcd12b81833e5046e079af35618212909.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.missevan.com/dramacoversmini/202204/01/bf0bfdcd12b81833e5046e079af35618212909.jpg" referrerpolicy="no-referrer"><br><p>《乍见之欢》</p><p>——第01期</p><p>现代广播剧</p><p><br></p><p>少年刘粤：秋天都到了，孙书源，能轻点骚吗？</p><p>少年孙书源：不太能，我这个人啊，喜欢人可不分季节。</p><p><br></p><p>STAFF</p><p>出品：SN工作室</p><p>原著：不付轻狂@不付轻狂</p><p>策划：林小舟【SN工作室】@林小舟是我</p><p>导演：芃芃其麦【55号棚】@我行其野_去文莱</p><p>编剧：初小尘【SN工作室】@初尘十六芥</p><p>后期：海蓝@Ly海灆</p><p>画师、美工：Fiona@fffionaL</p><p>字幕：苏叶【SN工作室】@桃汐叶叶子</p><p><br></p><p>CAST</p><p>刘粤：沈新程@CV沈新程</p><p>孙书源：伯牙【一拍即合】@小摩托的伯牙</p><p><br></p><p>班主任：墨猫【优思铭想】@CV墨猫</p><p>奶奶：天雷无妄【SN工作室】@CV天雷无妄</p><p>护士：木南筝北【SN工作室】@楠子每天都在hshs</p><p><br></p><p>ED</p><p>《一瞬花火》</p><p>原曲：《去春天》</p><p>原词：苹果</p><p>作编曲：小吉他</p><p>原唱：大C</p><p>策划：林小舟</p><p>填词：林小舟</p><p>翻唱：苏源安@苏源安</p><p>混音：砚青@砚青君</p><p>美工：霖音【SN工作室】@归墟之玥</p>  
+</div>
+            

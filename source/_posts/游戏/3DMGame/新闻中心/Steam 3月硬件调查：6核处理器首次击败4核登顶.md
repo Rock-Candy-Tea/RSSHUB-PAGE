@@ -52,7 +52,7 @@ V社近期发布了Steam <a href="https://store.steampowered.com/hwsurvey/" targ
 </p>
 <p style="text-indent:2em;">
 不仅如此，英特尔的入门级酷睿i3也非常受玩家欢迎，这也是英特尔在Steam最新的硬件调查中获得市场份额的原因。 虽然AMD已经推出了新的Ryzen 
-55600, 5500和其他产品来对抗，但现在的主要竞争是瞄准AMD的Ryzen 7000系列处理器，而英特尔也将用13代Raptor Lake来应对。
+5600, 5500和其他产品来对抗，但现在的主要竞争是瞄准AMD的Ryzen 7000系列处理器，而英特尔也将用13代Raptor Lake来应对。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220404/1649036064_656219.jpg" alt="Steam 3月硬件调查：6核处理器首次击败4核登顶" referrerpolicy="no-referrer"> 
