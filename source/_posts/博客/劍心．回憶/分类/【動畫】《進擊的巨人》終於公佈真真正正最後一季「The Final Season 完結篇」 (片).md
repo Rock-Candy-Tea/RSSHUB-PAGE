@@ -5,15 +5,15 @@ categories:
  - 博客
  - 劍心．回憶
  - 分类
-headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202203/20220404-8.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202204/20220404-8.jpg'
 author: 劍心．回憶
 comments: false
 date: Mon, 04 Apr 2022 17:34:28 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202203/20220404-8.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202204/20220404-8.jpg'
 ---
 
 <div>   
-<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202203/20220404-8.jpg" referrerpolicy="no-referrer"></p>
+<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/jdnews/202204/20220404-8.jpg" referrerpolicy="no-referrer"></p>
 <p>
 【動畫】04/04：《進擊的巨人》終於公佈真正最後一季！在4月3日播放《進擊的巨人 The Final Season》Part 2 第87話「人類的黎明」的最後，公佈《進擊的巨人 The Final Season 完結篇》將於2023年於NHK播放。</p>
 <p>同時公開了前導視覺圖，可以看到仍然存活奮起反抗艾連滅世計劃的一眾角色站在巨人的腳印中，這5個巨人及兩個人類最強能否挽救世界？至於前導影片則只是以該視覺圖進行加工而成。《進擊的巨人》自公佈「 The Final Season」（最終季）後，一直被認為很快就完結，但因為這個最終季先有 Part 1 又有 Part 2，被網民諷刺像《銀魂》那樣說是最後但不斷又有新的最後……</p>
