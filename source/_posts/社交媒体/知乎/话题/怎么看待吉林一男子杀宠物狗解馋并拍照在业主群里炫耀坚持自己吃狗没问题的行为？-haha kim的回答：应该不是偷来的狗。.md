@@ -1,0 +1,18 @@
+
+---
+title: '怎么看待吉林一男子杀宠物狗解馋并拍照在业主群里炫耀坚持自己吃狗没问题的行为？-haha kim的回答：应该不是偷来的狗。'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://picsum.photos/400/300?random=2815'
+author: 知乎
+comments: false
+date: Mon, 04 Apr 2022 23:34:36 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2815'
+---
+
+<div>   
+<strong>怎么看待吉林一男子杀宠物狗解馋并拍照在业主群里炫耀坚持自己吃狗没问题的行为？</strong><br>haha kim的回答<br><p data-pid="WT0yXENq">应该不是偷来的狗。</p>  
+</div>
+            
