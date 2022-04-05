@@ -1,0 +1,18 @@
+
+---
+title: 'Epic_成就_功能更新，官方调侃：为公司工作效率感到_自豪_'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a773_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 05 Apr 2022 03:09:25 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a773_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 5 日消息，今日，Epic 游戏商城宣布，以 11 月推出的 " 我的成就 " 为基础，其发布了该功能的下一个迭代更新。Epic Games 用户现已拥有了属于自己的 " 我的成就 " 区域，<strong>支持公开显示自己的部分统计数据</strong>。</p><p>对此，Epic 游戏商城官微调侃称：" 伟大的 Epic 科学家经过艰苦卓绝的科研奋斗，攻克重重难关，取得了伟大的胜利 —— 你的好友终于可以看到你的成就了。"" 作为一名 Epic 的员工，我深深地为总部的工作效率感到自豪！<strong>仅仅用了三年时间我们就把功能做出来了</strong>。"</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a773_1024.jpg" data-height="776" data-width="927" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a773_1024.jpg" referrerpolicy="no-referrer"></div></div>据介绍， " 我的成就 " 功能相当于一个整合了好友中心功能的奖杯陈列盒。IT 之家了解到，<strong>玩家可以利用档案向所有用户展示 Epic 成就以及游戏进度</strong>。当玩家点击好友分页时，可以访问好友的页面，并<strong>查看他们取得的成就与进度</strong>。<p></p><p><b>以下为 Epic 游戏商城 " 成就 " 功能更新官方介绍内容：</b></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a774_1024.jpg" data-height="576" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a774_1024.jpg" referrerpolicy="no-referrer"></div></div>全部用户都会拥有一个显示其用户名首字母的档案图标。访问你的页面的用户将在右上角看到你已解锁的成就数量、已达成白金成就的游戏名称以及你的经验值。<p></p><p>我们来说得详细一点：成就分页将显示每款游戏的游玩进度、列出你已解锁的成就数量、你最近游玩的游戏以及是否已达成白金（解锁全部成就）。在点击任意游戏之后，你就可以浏览该玩家在此游戏中取得的成就。</p><p>好友标签页则会以字母表顺序显示你所有的 Epic Games 好友。如果你拥有众多好友，列表将分为数页显示。只需点击某位好友的姓名即可查看其页面。</p><p>你可以全权控制自己账户的隐私设置。例如为你的账户应用全局设置，并将有权访问你的档案的用户限制为以下四种类别之一：公开；好友的好友；仅限好友；仅限自己。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202204/624c271b8e9f096c2705a775_1024.jpg" data-height="576" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/624c271b8e9f096c2705a775_1024.jpg" referrerpolicy="no-referrer"></div></div>将档案设置为 " 公开 " 时，你的页面上的全部要素都处于对外公开状态。其他人能够看到你的成就、进度与好友列表。如果你将账户设置为仅限以上几种特定类别访问，则任何不属于以上组别的用户将只能看到你的显示名称和头像。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a776_1024.jpg" data-height="576" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/624c271b8e9f096c2705a776_1024.jpg" referrerpolicy="no-referrer"></div></div>对于未启用家长控制的玩家，其档案默认仅限好友的好友查看。而对于启用了家长控制的玩家来说，其档案默认权限是 " 仅限自己 "。 在后续版本中，玩家们将能够自定义其页面的外观，并通过与 Epic 成就系统互动来解锁额外的自定义选项。<p></p><p><strong>评分与投票 - 即将推出</strong></p><p>在你玩过某款游戏后，启动器中偶尔会弹出评分与投票的弹窗。玩家将以投票方式回答一个拥有多种选项的问题，或者用 " 是 " 或 " 否 " 来回答一个与他们刚刚玩过的游戏相关的问题。举例来说，我们会向玩家询问以下问题：" 这个游戏对你来说有多难？" 并让玩家在四个选项之中选择其一来回答。你对这些问题的回答将展示在该游戏的商城页面中，供其他玩家参考。当越来越多的人进行投票，社区的总体评分和建议就能够积少成多，以帮助玩家了解游戏的内容。</p><p>而玩家们的回答能够充实我们的类别页面，并生成更多将会显示在 Epic 游戏商城主页上的自定义类别。</p><p><strong>通知中心 - 即将推出</strong></p><p>Epic Games 启动器会为你发送各种各样的通知。例如好友邀请、愿望清单通知以及其他弹出通知等，它们会出现在启动器中的不同区域。而我们将会把这些通知集中在一个单独的通知中心内，并计划首先从社交更新与愿望清单通知开始入手。最终，所有通知都将在商城的右上角统一显示。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
