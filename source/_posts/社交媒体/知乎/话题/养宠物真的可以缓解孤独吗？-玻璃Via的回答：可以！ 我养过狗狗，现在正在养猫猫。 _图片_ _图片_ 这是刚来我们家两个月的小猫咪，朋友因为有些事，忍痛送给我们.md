@@ -1,0 +1,18 @@
+
+---
+title: '养宠物真的可以缓解孤独吗？-玻璃Via的回答：可以！ 我养过狗狗，现在正在养猫猫。 _图片_ _图片_ 这是刚来我们家两个月的小猫咪，朋友因为有些事，忍痛送给我们...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-d8a84be2f795e97e6633b7a8c069a227_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 05 Apr 2022 04:41:38 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-d8a84be2f795e97e6633b7a8c069a227_1440w.jpg'
+---
+
+<div>   
+<strong>养宠物真的可以缓解孤独吗？</strong><br>玻璃Via的回答<br><p data-pid="QKK0MXwy">可以！</p><p data-pid="Pi7MeEyD">我养过狗狗，现在正在养猫猫。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-d8a84be2f795e97e6633b7a8c069a227_1440w.jpg" data-rawwidth="2560" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-e73632605cacb443043926de98a2ae34_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-d8a84be2f795e97e6633b7a8c069a227_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-1ad7c669237bbbfe7bb2488069146137_1440w.jpg" data-rawwidth="1920" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-e789a5578dd6425bf9b942c0681b4a5d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-1ad7c669237bbbfe7bb2488069146137_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="4ptEErPY">这是刚来我们家两个月的小猫咪，朋友因为有些事，忍痛送给我们了。。小猫咪太可爱了。简直萌化我了。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-a76f414ad527d67c03a6e70ac5758ec7_1440w.jpg" data-rawwidth="1278" data-rawheight="1279" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-be218ce9a3459781b8aa604fbd11a077_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-a76f414ad527d67c03a6e70ac5758ec7_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-e58c5f4c39f2d748a31c74d40241ab18_1440w.jpg" data-rawwidth="2560" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-9ad12d00e1eeee338f2877d4741acfbd_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-e58c5f4c39f2d748a31c74d40241ab18_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="XKVKdakd">养宠物不管是猫狗，或者乌龟鱼小鸟等等。首先，对我来说都让我的生活里多了一件事儿。我们家猫咪来了之后，每天需要给他喂食，铲 ，换水，逗他玩，有时还要剪个指甲什么的。突然每天的生活就丰富了起来。让自己忙起来是缓解自己寂寞孤单的一个好方法。</p><p data-pid="gPqbiPrU">其次，看到小猫咪一天天跟我越来越熟悉，从刚开始连摸都不让摸，到现在半夜里还爬上床谁在我胳肢窝里。我自己都会偷笑。内心被宠物的一个个不经意的暖心举动所填满，再也不孤单！</p><p data-pid="ivIW2Y_z">不知道题主这么问是不是有要养宠物的打算，在我看来，养小动物会让我的心里暖暖的。虽然他有时也并不完全理解我在说什么做什么，你的心意小动物会感受到的。我觉得这就是很多人会养宠物的魅力所在吧。</p><p data-pid="1e35Aca0">自己做的我家猫猫的表情包，越看越喜欢 哈哈</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b1c7cd89d21d19b7c555eced9c3b5844_1440w.jpg" data-rawwidth="2560" data-rawheight="2560" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-bcf9fc36a6f8b716e67f79620c4aa8d4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b1c7cd89d21d19b7c555eced9c3b5844_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-0bbc60b6c1f3f849abfa19be1081d4e3_1440w.jpg" data-rawwidth="823" data-rawheight="823" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-12a0d5c311bbfa1798ea51950843ad56_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-0bbc60b6c1f3f849abfa19be1081d4e3_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
