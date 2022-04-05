@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220405/1649122069_5727
 近日外媒IGN更新了他们的“25大现代最佳PC游戏”榜单。鉴于主观性比较强，玩家看看就好了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649122069_572717.jpg" alt="《巫师3》排第二！IGN评25大最佳现代PC游戏" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649122069_572717.jpg" alt="《巫师3》排第二！IGN评25大最佳现代PC游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 IGN表示近年来，无论是在显卡和游戏显示器的技术进步方面，还是在IGN的PC游戏员工和贡献者的组成方面，PC游戏的格局都发生了变化。因此，除了一些真正的中坚游戏外，他们的现代PC游戏列表与过去几年有很大的不同。

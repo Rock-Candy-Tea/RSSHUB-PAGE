@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-04-05 02:22:08
-thumbnail: 'https://pic3.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162'
+date: 2022-04-05 03:22:17
+thumbnail: 'https://pic1.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-94772bd218d2b306df2ada2d8380d83a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">王写写，</span><span class="bio">微信公号：PictureWriter。不只爱写作</span>
 <a href="https://www.zhihu.com/question/422805752/answer/2420175081" class="originUrl" hidden>查看知乎原文</a>
 </strong>
