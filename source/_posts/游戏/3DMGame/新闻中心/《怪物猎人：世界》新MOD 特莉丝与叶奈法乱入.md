@@ -26,13 +26,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220405/1649130464_8886
 MOD截图：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_888699.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_888699.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_860771.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_860771.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_852141.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220405/1649130464_852141.jpeg" alt="《怪物猎人：世界》新MOD 特莉丝与叶奈法乱入" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
