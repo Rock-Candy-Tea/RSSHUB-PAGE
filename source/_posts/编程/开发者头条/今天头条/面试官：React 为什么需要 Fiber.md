@@ -1,0 +1,18 @@
+
+---
+title: '面试官：React 为什么需要 Fiber'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=7677'
+author: 开发者头条
+comments: false
+date: 2022-04-05 06:11:33
+thumbnail: 'https://picsum.photos/400/300?random=7677'
+---
+
+<div>   
+面试官：React 为什么需要 Fiber  
+</div>
+            
