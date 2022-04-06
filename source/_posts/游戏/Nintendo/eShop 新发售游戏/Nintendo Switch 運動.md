@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg'
 author: Nintendo
 comments: false
-date: 2022-04-06 00:41:22
+date: 2022-04-06 02:25:14
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg'
 ---
 
@@ -19,8 +19,10 @@ thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg'
 <p> </p>
 <p>揮動Joy-Con，來做體感運動！</p>
 <p><br>「Wii 運動」系列的最新作《Nintendo Switch 運動》在Nintendo Switch登場！<br>本作使用揮動Joy-Con的直感操作，不論是誰都可以愉快享受。<br><br>除了在系列作品中獲得極高人氣的保齡球、擊劍及網球，還新增了排球、羽毛球和足球。<br>進行足球運動時，可使用腿部固定帶進行踢球操作（※）。<br>此外，預定於2022年秋季發布免費更新，新增高爾夫球。<br><br>不僅能和家人朋友聚在一起遊玩，更可以與遠方的朋友和世界各地的玩家進行所有項目的線上對戰。<br>除了可以使用在線上對戰中收集到的物件自訂角色外觀，也可以參加以高級別為目標的「職業聯賽」，用實力一較高下，有著各樣不同的享受方式。<br><br>※發售時只對應部分模式。預定於夏季發布免費更新，可使用腿部固定帶享受足球的所有模式。<br>※腿部固定帶隨盒裝版遊戲軟體隨附。<br>※亦可使用《健身環大冒險》隨附的腿部固定帶。<br><br></p>
-<p>遊玩人數會因應遊玩模式而異。 <br>TV模式：1～4人 <br>桌上模式：1人</p>
-<p>足球的部份模式支援腿部固定帶（與下載版遊戲軟體分開發售）遊玩</p></div>
+<p>・使用下載版遊玩足球的「射門對決」時，需要使用與下載版分開發售的腿部固定帶。<br>
+・無法使用「Nintendo Switch Lite」遊玩。</p>
+<p> </p>
+<p>遊玩人數會因應遊玩模式而異。 <br>TV模式：1～4人 <br>桌上模式：1人</p></div>
   
 </div>
             

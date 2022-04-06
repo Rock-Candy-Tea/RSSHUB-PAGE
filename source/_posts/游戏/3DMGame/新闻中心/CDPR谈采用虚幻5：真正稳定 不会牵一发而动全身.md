@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220406/1649198911_4194
 上个月，CDPR官宣了回归《巫师》系列开发新作的消息，这倒不是什么新鲜事儿，毕竟大家都知道会开发，不过让我们惊讶的是，CDPR放弃了自己的RED引擎，转而采用虚幻5。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220406/1649198911_419408.jpg" alt="CDPR谈采用虚幻5：真正稳定 不会牵一发而动全身" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220406/1649198911_419408.jpg" alt="CDPR谈采用虚幻5：真正稳定 不会牵一发而动全身" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 <a href="https://www.3dmgame.com/news/202203/3838667.html" target="_blank">CDPR最初的公告</a>承认RED引擎进化的难度是他们进行转换的一个原因（<a href="https://www.3dmgame.com/news/202203/3838772.html" target="_blank">一位前员工证实了这一点</a>），而在最近的虚幻5开发者直播活动中，CDPR游戏总监Jason 
