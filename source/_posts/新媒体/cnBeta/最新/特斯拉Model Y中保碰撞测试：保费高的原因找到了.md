@@ -1,0 +1,19 @@
+
+---
+title: '特斯拉Model Y中保碰撞测试：保费高的原因找到了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0406/a65d0b5b794f61a.png'
+author: cnBeta
+comments: false
+date: Wed, 06 Apr 2022 07:41:58 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0406/a65d0b5b794f61a.png'
+---
+
+<div>   
+4月6日下午，沉寂了许久的中保研终于再次“活”了过来，并一口气发布了七款车型的碰撞测试成绩，其中就包含了卖得非常火的特斯拉Model Y。中保研用来进行测试的Model Y2021款标准续航后轮驱动板，值得称赞的是，该车保持了特斯拉一贯的高安全性，<strong>在车内成员安全指数、车外行人安全指数和车辆辅助安全指数三个方面均取得了“G”的好成绩</strong>。<br>
+ <p><a href="https://img1.mydrivers.com/img/20220406/51b0eaf8282a491f96c8ea6ddd4736d6.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0406/a65d0b5b794f61a.png" referrerpolicy="no-referrer"></a></p><p>其中在让不少车型望而生怯的“驾驶员侧正面25%偏置碰撞”项目中，Model Y表现尤为优秀，A柱相当稳定，发挥十分出色。</p><p>此外，在侧面碰撞、车顶强度、座椅/头枕等多项测试，它同样取得了最好成绩。</p><p><a href="https://img1.mydrivers.com/img/20220406/bba603560ae344bfb2a97f285c9c8035.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/bc3355b97102848.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/bc3355b97102848.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/bc3355b97102848.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220406/4a4db3489c8f4b43ae5f5b1f4646436e.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/8cb98bbda9bf1cd.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/8cb98bbda9bf1cd.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/8cb98bbda9bf1cd.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220406/0efbf41632014803b326e32ada8412db.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/429a1fc52972b69.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/429a1fc52972b69.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/429a1fc52972b69.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220406/aa314aa62577463daa4ddbea0de2603b.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/15ca52c5b1d56c0.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/15ca52c5b1d56c0.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/15ca52c5b1d56c0.jpg" referrerpolicy="no-referrer"></a></p><p>不过在耐撞性与维修经济性指数项目测试里，Model Y的表现就差了很多，在“结构耐撞性”、“可维修性”、“维修经济性”、“碰撞兼容性”共四个项目里，其最好的成绩为“A”（良好），而前三个项目的成绩分别为M、P、P，也就是一般、较差、较差。</p><p>换句话说，<strong>一旦发生碰撞事故，Model Y的修理费用会非常贵</strong>。</p><p><a href="https://img1.mydrivers.com/img/20220406/d69a1bef67a344eb8578fb7efaf54910.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/5ca49894ffb6cfe.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/5ca49894ffb6cfe.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/5ca49894ffb6cfe.jpg" referrerpolicy="no-referrer"></a></p><p>此前也有车主曝料称，自己倒车时不小心碰到了墙角，导致车侧受损，经过坚定，维修起来竟然要花20万。</p><p>对此，有人表示<strong>Model Y后半段车身是一体压铸而成的，一旦损坏，只能整个更换</strong>，也许这是它费用昂贵的主因。</p><p><a href="https://img1.mydrivers.com/img/20220217/b32f7977c9ff4cdf9f214cbb6d6ed030.jpg" style="color: red; text-decoration-line: none; font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0406/99132aee877e647.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0406/99132aee877e647.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0406/99132aee877e647.jpg" referrerpolicy="no-referrer"></a></p><p>而此次碰撞测试结果的出炉，也在一定程度上证明了Model Y修经济性确实不怎么好，对此，不少网友表示“<strong>保费高的原因找到了</strong>”。</p>   
+</div>
+            
