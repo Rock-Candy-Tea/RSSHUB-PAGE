@@ -8,12 +8,12 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg'
 author: Nintendo
 comments: false
-date: 2022-04-05 15:10:36
+date: 2022-04-06 00:41:22
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg'
 ---
 
 <div>   
-<img src="https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg" referrerpolicy="no-referrer"><br><strong>发售日期：</strong>2021.4.29<br><strong>价格：</strong>港币<br><strong>支持中文：</strong>是<br><strong>发行商：</strong>Nintendo<br>
+<img src="https://www.nintendo.com.hk/software/img/bnr/70010000049934.jpeg" referrerpolicy="no-referrer"><br><strong>发售日期：</strong>2022.4.29<br><strong>价格：</strong>港币<br><strong>支持中文：</strong>是<br><strong>发行商：</strong>Nintendo<br>
         <div class="value"><p><span style="color: #ff0000;"><strong>此為預購商品，可於2022年4月24日開始兌換及下載，並於2022年4月29日起開始遊玩。</strong></span></p>
 <p><span style="color: #ff0000;"><strong>(請注意 : 購買完成後會即時發出遊戲軟體下載序號，最早可於遊戲發售日5日前開始兌換及下載。)</strong></span></p>
 <p> </p>
