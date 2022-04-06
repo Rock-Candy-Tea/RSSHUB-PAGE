@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?v=1649170939436'
 author: 巴哈姆特
 comments: false
-date: 2022-04-06 02:25:21
+date: 2022-04-06 03:24:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?v=1649170939436'
 ---
 
@@ -24,13 +24,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 46.90%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?v=1649170939436" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 46.90%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?v=1649170939436" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/a6319ac2fe45bb84ca7ad255dd1fsx15.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　當初烏俄戰爭爆發時，旗下有位於烏克蘭基輔的 Persha 工作室的戰遊網就宣布要宣款百萬美元給烏克蘭紅十字協會，甚至針對旗下《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E8%BB%8A%E4%B8%96%E7%95%8C" target="_blank">戰車世界</a>》知名研發者 SERB（Sergey Burkatovskiy）公開發表支持俄羅斯聯邦武裝部隊、頓內次克、盧甘斯克的行動一事，戰遊網也立即採取行動，聲明 SERB 個人觀點與公司立場不符，並讓 SERB 離開公司。</div>
+　　當初烏俄戰爭爆發時，旗下有位於烏克蘭基輔的 Persha 工作室的戰遊網就宣布要捐款百萬美元給烏克蘭紅十字協會，甚至針對旗下《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E8%BB%8A%E4%B8%96%E7%95%8C" target="_blank">戰車世界</a>》知名研發者 SERB（Sergey Burkatovskiy）公開發表支持俄羅斯聯邦武裝部隊、頓內次克、盧甘斯克的行動一事，戰遊網也立即採取行動，聲明 SERB 個人觀點與公司立場不符，並讓 SERB 離開公司。</div>
 <div>
  </div>
 <div>

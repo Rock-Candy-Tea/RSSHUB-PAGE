@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220406/1649210293_758802.jpg'
 author: 3DMGame
 comments: false
-date: Wed, 06 Apr 2022 02:00:00 GMT
+date: Wed, 06 Apr 2022 02:03:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220406/1649210293_758802.jpg'
 ---
 
@@ -28,7 +28,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220406/1649210293_7588
 </iframe>
 </p>
 <p style="text-indent:2em;">
-在“曙光”中，MR装备可以通过完成MR（大师等级）任务获得。通过提高MR等级，会出现更强大的怪物，而由这种材料制成的装备有远超进阶装备的性能。
+完成大师等级任务才能推进《怪物猎人崛起》大型资料片“曙光”的剧情。提升大师等级后会出现更强大的怪物，用这些素材生产的装备拥有远胜于上位装备的性能。
 </p>
 <p style="text-indent:2em;">
 <strong>《怪物猎人崛起：曙光》变换翔虫展示：</strong> 
@@ -39,7 +39,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220406/1649210293_7588
 </iframe>
 </p>
 <p style="text-indent:2em;">
-变换翔虫是一种突然出现在各地的新品种翔虫，它比平时更亮，拥有治愈其他翔虫的能力，以及让铁丝虫线更坚韧的能力。深红色和金色这两张颜色各拥有一种特殊的变换能力。
+突然出没于各地的新品种翔虫。光芒与色彩比普通翔虫更为灿烂鲜艳，可以治愈手头的翔虫，还拥有令铁虫丝更为强韧的能力。有红与金2种颜色，各自拥有特殊的变幻之力。
 </p>
 <p style="text-indent:2em;">
 <strong>视频截图：</strong> 
