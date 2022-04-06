@@ -8,7 +8,7 @@ categories:
 headimg: 'https://wpassets.halowaypoint.com/wp-content/2022/04/Halo-Infinite-3_30_2022-11_40_59-PM.png'
 author: 巴哈姆特
 comments: false
-date: 2022-04-06 06:12:47
+date: 2022-04-06 07:10:40
 thumbnail: 'https://wpassets.halowaypoint.com/wp-content/2022/04/Halo-Infinite-3_30_2022-11_40_59-PM.png'
 ---
 
