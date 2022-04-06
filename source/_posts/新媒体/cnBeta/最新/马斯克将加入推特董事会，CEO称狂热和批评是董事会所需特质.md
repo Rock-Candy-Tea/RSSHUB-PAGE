@@ -1,0 +1,19 @@
+
+---
+title: '马斯克将加入推特董事会，CEO称狂热和批评是董事会所需特质'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/sinakd20220406s/278/w1560h1118/20220406/829a-f5ab1ea81422335bd66fdbc78b89908e.png'
+author: cnBeta
+comments: false
+date: Wed, 06 Apr 2022 08:55:23 GMT
+thumbnail: 'https://n.sinaimg.cn/sinakd20220406s/278/w1560h1118/20220406/829a-f5ab1ea81422335bd66fdbc78b89908e.png'
+---
+
+<div>   
+<strong>马斯克将加入推特（Twitter）董事会，此举或将为推特带来不小改变。</strong>当地时间4月5日，据推特向美国证券交易委员会（SEC）提交的文件，特斯拉CEO埃隆·马斯克将加入推特董事会，任期两年，将于2024年届满。不过文件显示，马斯克任职推特董事会期间，不得持有超过14.9%的推特股票。<br>
+ <p style="text-align: left;">澎湃新闻记者 吴遇利</p><p style="text-align:center"><img id="0" src="https://n.sinaimg.cn/sinakd20220406s/278/w1560h1118/20220406/829a-f5ab1ea81422335bd66fdbc78b89908e.png" alt="推特向SEC提交的文件" referrerpolicy="no-referrer"></p><p style="text-align: left;">推特向SEC提交的文件<br style="text-align: left;"></p><p style="text-align: left;">推特 CEO Parag Agrawal与马斯克均在推文中确认了这一任命。Parag Agrawal表示，“很高兴宣布我们已经任命马斯克为董事，经过了过去几周的探讨，我们认为马斯克加入董事会无疑会带来巨大价值。”</p><p style="text-align: left;">马斯克则回应称，将与Parag Agrawal以及董事会一道，在未来几个月致力于推特的显著进步。</p><p style="text-align:center"><img id="1" src="https://n.sinaimg.cn/sinakd20220406s/96/w1192h504/20220406/55b5-57ffe0260e25548732bda1efd5bc3e1a.png" alt referrerpolicy="no-referrer"></p><p style="text-align: left;">就在前一天，据美国证券交易委员会（SEC）披露的文件，马斯克持有推特7349万股普通股，占推特普通股的9.2%，这使得他成为了推特最大单一股东。当日，受此消息影响，推特美股4日收盘暴涨27%，创下推特自2013年首次公开募股以来的最大盘中涨幅，5日涨2%，报50.98美元/股。</p><p style="text-align: left;">“狂热信徒”和“强烈批评者”</p><p style="text-align: left;">推特的两位核心人物均对马斯克的加入表现出了热烈的欢迎。</p><p style="text-align: left;">Agrawal在推文中表示，马斯克既是推特的“狂热信徒”又是“强烈批评者”，而这正式推特及董事会所需要的，他相信马斯克的加入会令推特更加强大。</p><p style="text-align:center"><img id="2" src="https://n.sinaimg.cn/sinakd20220406s/100/w1198h502/20220406/d7bd-3785dbd9717fb4b7677d329692ec2c28.png" alt referrerpolicy="no-referrer"></p><p style="text-align: left;">推特联合创始人兼前CEO 杰克·多西也发表推文欢迎了马斯克的加入，他写道，“他非常关心我们的世界以及推特在其中所发挥的作用。Parag和埃隆将成为一支不可思议的团队。”</p><p style="text-align:center"><img id="3" src="https://n.sinaimg.cn/sinakd20220406s/82/w1184h498/20220406/c06c-f086c8f6a30c36107e8376cb00c71d1e.png" alt referrerpolicy="no-referrer"></p><p style="text-align: left;">　据美国有线<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>新闻网(CNN)报道，推特发言人Adrian Zamora于4月5日指出，即使马斯克加入董事会，他仍将遵守其规则和社区准则，并且他不会直接参与制定政策。</p><p style="text-align: left;">“推特致力于公正地制定和执行其政策和规则，”Adrian Zamora在发给 CNN的一份声明中表示，“我们的政策不是由董事会或股东决定的。一如既往，我们的董事会在我们的整个服务中发挥着重要的咨询和反馈作用。我们的日常运营和决策是由 推特 管理层和员工所做出的。”</p><p style="text-align: left;">分析人士：马斯克或正惹祸上身</p><p style="text-align: left;">不过也有不少分析人士认为，马斯克的加入或许并不都是正面的。</p><p style="text-align: left;">纽约时报在文章中表示，“推特最强大的用户之<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&aid=942&euid=&t=http%3A%2F%2Fwww.oneplus.com" target="_blank">一加</a>入了董事会，将对这一拥有超过2.17亿用户的社交网络产生影响。与其他一些推特董事会成员不同，马斯克没有签署禁止他影响公司政策的协议，这可以让他与Agrawal合作，实现社交网络‘去中心化’的愿景。”</p><p style="text-align: left;">同时，纽约时报分析认为，马斯克的加入可能会为推特带来动荡，因为他长期以来将推特作为棍棒，攻击其批评者、散布不当信息误导投资者等。</p><p style="text-align: left;">华尔街日报援引Bernstein分析师Mark Shmulik的观点表示，在获得董事会席位的同时，马斯克正在惹祸上身，“他从汽车的后座移动到了汽车的前座，事实上，他可能就是司机。”</p><p style="text-align: left;">路透社援引分析师Susannah Streeter 的观点表示，马斯克加入董事会可能会让人担心其对推特的运营产生太多影响，进而提升自己的公司和个人的品牌度。同时路透社分析认为，马斯克的新角色会进一步分散其在特斯拉、SpaceX、Neuralink等公司的工作注意力。</p><p style="text-align: left;">值得注意的是，马斯克本次投资推特的披露方式，也可能再次引燃他与SEC的冲突。SEC规定，任何人收购公司普通股5%以上均需在10日之内披露其所持有的股份。然而，该文件显示马斯克在3月14日就已达到了持股5%以上的要求，然而21天之后，他才递交文件披露。</p><p style="text-align: left;">此外，马斯克3月25日发起一项针对推特是否践行了言论自由的投票，并声称或许需要建立一个新的平台。而此时，他已成为持股达5%的推特股东，这一言行是否合规也可能成为SEC关注的焦点。</p>   
+</div>
+            
