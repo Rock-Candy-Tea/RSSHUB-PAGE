@@ -180,7 +180,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
         
               <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
                 <div class="field__item">
-        <p>This week, our host Bill Connolly chats with new media creative, Greg Lutze. Greg is a founder, advisor and artist based out of California. His company, VSCO, started as an app for photo and video, and has grown to provide tools, tips and community for creatives. Greg has a rich perspective on the evolution of the art community, the role of the artist and talks of his own creative interests (which first took shape in kindergarten!) and why he founded VSCO in Silicon Valley to show up for creators.  </p>
+        <p>This week, our host Bill Connolly chats with new media creative, Greg Lutze, a founder, advisor and artist based out of California. His company, VSCO, started as an app for photo and video editing, and has grown to provide tools, tips and a community space for creatives. Greg has a rich perspective on the evolution of the art community, the role of the artist and talks of his own creative interests (which first took shape in kindergarten!) and why he founded VSCO in Silicon Valley to show up for creators. </p>
 
 <p>“For as long as I can remember, I always have liked to make things and I’ve always liked hanging out with artists and creative people. I just feel at home there.” </p>
             </div>
@@ -247,17 +247,17 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
                 <div class="field__item">
         <p>When asked when he first knew he was interested in creative work, Lutze recalls his mother teaching him it was okay to “color outside the lines” in kindergarten. This early memory could be a metaphor for Lutze’s career. Similar to many other guests on the podcast, Lutze is not one to be pinned down when it comes to artistic endeavors. In his high school years, Lutze was interested in music, crafted his own punk-rock art zines and drew logos of sports teams. Upon graduating, he was unsure of his creative path, so he went to college for a business degree, “I went for business marketing because it had the least amount of math classes. By studying business marketing, I just started learning more about design and like campaigns.” </p>
 
-<p>With his business mindset, Lutze went all-in, learning Dreamweaver and Flash, assembling his new media toolkit. “To remain a youthful perspective, you have to be open to new things.” As he became more proficient, he pondered how to combine them into a career.  </p>
+<p>With his business mindset, Lutze went all-in, learning Dreamweaver and Flash, assembling his new media toolkit. “To remain a youthful perspective, you have to be open to new things.” As he became more proficient, he pondered how to combine his background and education into a career.  </p>
 
-<p>Lutze first fell in with an “amazing team,” at Asterisk Studio, where he applied his multi-faceted talents to work for the music industry: building Flash-based websites, designing t-shirts, running photoshoots, and so on. “I was super fortunate that almost immediately my passion for music, photography, design and art all came together at one point.” </p>
+<p>Lutze first fell in with an “amazing team,” at Asterisk Studio, where he applied his multi-faceted talents to work for the music industry: building Flash-based websites, designing t-shirts, running photoshoots, and so on. “I was super fortunate that almost immediately my passion for music, photography, design and art all came together.” </p>
 
 <p>A true maker, Lutze has since explored disciplines such as sewing, fragrance design, and pottery, allowing him to remain curious. “Candidly, sometimes I’m terrible at things. I was like, ‘oh, I’m going to do pottery,’ and I took a four-month course. I was the only person in the class who walked away with nothing. I had nothing to show for it and it’s terrible, but it doesn’t matter. That’s not the point. I tried something and I learned something. It wasn’t my thing. And that’s okay.” </p>
 
 <p><strong>The collaboration effect. </strong></p>
 
-<p>A father of three, co-founder of a company and an experimental lab, time is not particularly plentiful for Lutze. He attributes his ability to keep multiple creative projects afloat to collaboration with others to not only share the workload – but the joy of creating. </p>
+<p>As a father of three and the co-founder of a company and an experimental lab, time is not particularly plentiful for Lutze. He relies on strong collaboration with friends and colleagues to keep his many projects afloat – not only sharing the workload, but the joy of creating as well.</p>
 
-<p>Similarly, Lutze has formed an experimental lab within his company VSCO, called Plaza. It’s a “decentralized space for creators and the future of visual research, creation, and exchange (economy) within a collective context.” Lutze heads it up with Wayne Wu, members of their company, VSCO, and a handful of contractors. Last year, they launched curated NFT galleries. “We chat on a Discord channel, but what do we actually do? Through a creative perspective, we’re looking at how do you come together and generate ideas? How do you research? How do you share? Once you’ve come up with an idea, how do you put that out in the world?”  </p>
+<p>Similarly, Lutze has formed an experimental lab within his company VSCO, called Plaza. It’s a “decentralized space for creators and the future of visual research, creation, and exchange (economy) within a collective context.” Lutze heads it up with Wayne Wu, several members of VSCO, and a handful of contractors. Last year, they launched curated NFT galleries. “We chat on a Discord channel, but what do we actually do? Through a creative perspective, we’re looking at how do you come together and generate ideas? How do you research? How do you share? Once you’ve come up with an idea, how do you put that out in the world?”  </p>
             </div>
           </div>
 

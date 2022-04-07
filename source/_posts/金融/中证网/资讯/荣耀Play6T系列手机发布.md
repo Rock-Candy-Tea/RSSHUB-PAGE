@@ -1,0 +1,24 @@
+
+---
+title: '荣耀Play6T系列手机发布'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=7222'
+author: 中证网
+comments: false
+date: Thu, 07 Apr 2022 21:46:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7222'
+---
+
+<div>   
+<div class="Custom_UnionStyle">
+<p>　　中证网讯（记者 张兴旺）4月7日，荣耀举行新品发布会，发布荣耀Play6TPro和荣耀Play6T两款手机，全系标配8GB大运存。据荣耀介绍，荣耀Play6TPro搭载天玑810 5G芯片，荣耀Play6T采用天玑700芯片，配合荣耀Link Turbo X技术，进一步提升手机的画质、性能调教。</p>
+<p>　　售价方面，荣耀Play6TPro提供幻夜黑、钛空银和蔷薇金三种配色选择，荣耀Play6TPro 8+256GB版本售价1599元，将于4月12日开售；8+128GB版本售价1399元，预计4月下旬开售。荣耀Play6T提供幻夜黑、魅海蓝、钛空银三种配色，8+128GB版本售价1199元，8+256GB版本售价1399元，将于4月15日开售。</p>
+<p>　　此外，本次发布会还带来了荣耀亲选电动滑板车，售价2299元，首销期线上平台限时优惠300元，将于4月15日开售。</p>
+<p>　　</p>
+</div>
+  
+</div>
+            
