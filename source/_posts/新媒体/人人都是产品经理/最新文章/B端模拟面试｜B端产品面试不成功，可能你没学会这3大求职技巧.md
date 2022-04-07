@@ -13,14 +13,15 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/07/dp69X4odJ3XwWoT0ZNCN.png'
 ---
 
 <div>   
-<blockquote><p>产品经理，你在求职之前，会做模拟面试吗？</p></blockquote>
+<blockquote>
+<p>产品经理，你在求职之前，会做模拟面试吗？</p>
+</blockquote>
 <p>市面上，我们可以看到许多机构开设模拟面试班，证明模拟面试有一定的需求量。</p>
 <p>在知乎问答上，“面试之前来一次模拟面试是否有必要？”这个问题中，99%的人都给出了肯定的回答。</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/dp69X4odJ3XwWoT0ZNCN.png" alt width="702" height="348" referrerpolicy="no-referrer"></p>
 <p>题主自己也说到“如果能有行业大牛来给我做一次模拟面试，那该多好！”</p>
 <p>那么模拟面试到底有什么价值？又该如何获得这样一个机会呢？</p>
-<p>此前，我们邀请了前饿了么高级产品专家@Frank老师跟一位正在求职【蚂蚁金服产品岗】的学员进行线上的连麦面试。<br>
-面试过程中，有几百位学员进行线上围观“吃瓜”。</p>
+<p>此前，我们邀请了现任一号互联产品专家@王鹏老师跟一位正在求职的学员进行线上的连麦面试。<br>面试过程中，有几百位学员进行线上围观“吃瓜”。</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/07/vRCvMJuXTlpJAIrpJkNL.png" alt width="674" height="419" referrerpolicy="no-referrer"></p>
 <ul>
 <li>围观群众表示：“这场模拟面试，让我能够在上帝视角来观察，知道了自己的面试时的问题所在。”</li>
@@ -28,7 +29,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/07/dp69X4odJ3XwWoT0ZNCN.png'
 <li>甚至有学员表示：“非常羡慕被选中的人，自己是否有这样一个机会，能够跟大佬进行一场模拟面试”。</li>
 </ul>
 <p>于是应广大学员的要求，也是为了帮助正在面临求职面试或者将要求职面试的产品同学，在理解面试官提问背后的考察点、有侧重点、针对性的准备好面试，提升通过率。</p>
-<p>我们再次邀请了<strong>前饿了么高级产品专家@Frank老师担任面试官</strong>，并从起点学院的粉丝中征集了一位正在求职的同学作为面试者，双方将在4<strong>月9日（周六上午11点）</strong>进行在线连麦模拟面试。</p>
+<p>我们再次邀请了现任一号互联产品专家<strong>@王鹏老师担任面试官</strong>，并从起点课堂的粉丝中征集了一位正在求职的同学作为面试者，双方将在4<strong>月9日（周六上午11点）</strong>进行在线连麦模拟面试。</p>
 <p>内容包括：</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2021/11/mhSz5VStIqTl7VwFnY9U.png" alt referrerpolicy="no-referrer"></p>
 <p>如果你想要求职面试产品经理岗位，那一定要来听听这次的模拟面试直播课，这会大大帮助你减少在真实面试中踩坑的几率。</p>
@@ -42,7 +43,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2021/07/dp69X4odJ3XwWoT0ZNCN.png'
 <h2 id="toc-1">1、1v1在线模拟面试是怎么样的？</h2>
 <h3>（1）本次模拟面试的要点：</h3>
 <ul>
-<li>现场模拟大厂面试，看候选人如何应对</li>
+<li>直击面试现场，看候选人如何临场发挥</li>
 <li>复盘面试过程，现场支招破解妙招</li>
 <li>3大求职技巧，教你在面试中反客为主</li>
 </ul>
