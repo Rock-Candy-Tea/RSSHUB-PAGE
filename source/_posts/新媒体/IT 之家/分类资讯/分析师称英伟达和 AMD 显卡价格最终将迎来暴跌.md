@@ -1,0 +1,19 @@
+
+---
+title: '分析师称英伟达和 AMD 显卡价格最终将迎来暴跌'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/fb47b751-d753-479c-ad9d-d59adf0bab91.png'
+author: IT 之家
+comments: false
+date: Thu, 07 Apr 2022 13:51:09 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/fb47b751-d753-479c-ad9d-d59adf0bab91.png'
+---
+
+<div>   
+<p data-vmark="1c86"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 7 日消息，自从 2020 年以来，PC 行业一直处于风口浪尖之上，无论是内存、SSD、显卡还是处理器都曾出现缺货潮和涨价潮。不过随着时间的推移，大家心心念念的显卡也正在逐步迎来降价，甚至中高端型号的定价已从高点近乎砍半。</p><p data-vmark="6025">博板堂梳理发现，近期虚拟货币行情有所反弹，矿卡需求小有增长，GTX 1660 Super、GTX 1660 Ti 等个别型号小涨 50 元左右，但整体矿卡需求依然低迷，同时由于全国渠道商的存货较多，再加之疫情反复，市场需求优先，显卡实际成交价正持续走低。</p><p data-vmark="5ce5">目前来看，英伟达和 AMD 显卡现在只比 MSRP 贵了不到 50%，但恐怕没有人可以真正确切地看清事情的走向，但分析师似乎相信游戏玩家和 PC 爱好者很快就能用合理的支出买到显卡。</p><p data-vmark="98e5" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/fb47b751-d753-479c-ad9d-d59adf0bab91.png" w="737" h="707" title="分析师称英伟达和 AMD 显卡价格最终将迎来暴跌" width="737" height="707" referrerpolicy="no-referrer"></p><p data-vmark="5f80">IT之家了解到，4 月 7 日对比 3 月 28 日中几个主流显卡型号的批发价行情变化如下：</p><p data-vmark="f8ef">－ GTX 1660 Super：价格不变，2000 元左右。</p><p data-vmark="6d29">－ RTX 2060 6GB：价格不变，2200 元左右。</p><p data-vmark="390a">－ RTX 2060 12GB：价格不变，2400 元左右。</p><p data-vmark="2906">－ RTX 3060：价格下调约 100 元，3000-3100 元左右。</p><p data-vmark="92a2">－ RTX 3060 Ti：价格下调约 100 元，3500 元左右。</p><p data-vmark="4f42">－ RTX 3070 Ti：价格下调约 300 元，4500 元左右。</p><p data-vmark="f855">－ RX 6600 XT：价格下调约 100 元，2800 左右。</p><p data-vmark="1cbb">此外，技嘉已经开始执行 4 月份最新调价策略，继续全线下调，其中 RTX 3070 系列及以上高端卡甚至下调约 2200 元。</p><p data-vmark="3959" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c8a98633-0bf1-4c2d-9601-4a9a5defa052.png" w="749" h="409" title="分析师称英伟达和 AMD 显卡价格最终将迎来暴跌" width="749" height="409" referrerpolicy="no-referrer"></p><p data-vmark="01e1">值得一提的是，GPU 显卡行业权威调研机构 Jon Peddie Research 的创始人兼 CEO Jon Peddie 博士今天也撰文分析了近些年显卡市场的变化。</p><p data-vmark="8474">他认为，随着时间的推移，AMD 和 Nvidia 显卡可能会“暴跌”，因为淘客们发现自己已经越来越难以出售商品，尤其是游戏玩家拒绝以高价接盘。，未来几个月很有可能会有显着改善，即使发生的速度比预期的要慢。</p><p data-vmark="11be">他还给出了一张 2008-2021 年间关于独显平均价的趋势图。我们可以看到，2010 年前的显卡多在 200 美元之下，此后整体平稳增长，2018-2019 年的时候超过了 200 美元，而这两年像坐火箭一样往上涨甚至涨出过去十年都不止的幅度。</p><p data-vmark="9934" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/f56a564b-1466-4fbd-a2ec-58626e27f482.png" w="600" h="360" title="分析师称英伟达和 AMD 显卡价格最终将迎来暴跌" width="600" height="360" referrerpolicy="no-referrer"></p><p data-vmark="c813">2022 年 3 月，英伟达宣布推出一款新的高端显卡 ——RTX 3090Ti，但它要你 2000 美元，是五年前类似定位产品的 4 倍，无数玩家沉默了。</p><p data-vmark="6c58">与 PC 笔记本 GPU 相比，台式机独显的报价至少上涨了 2 倍，也有可能是 3 倍。因此，我们可以排除缺货是导致 PC 显卡大涨价的原因，那么剩下的无非就是挖矿、有人投机倒把和奸商炒作。</p><p data-vmark="49b3" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/a012b183-f369-4d74-94ff-2c2b738b113a.png" w="600" h="169" title="分析师称英伟达和 AMD 显卡价格最终将迎来暴跌" width="600" height="169" referrerpolicy="no-referrer"></p><p data-vmark="10aa">在这种情况下，游戏卡的定价已经超出了大多数游戏玩家的承受能力，而且除了上面提到的那款 2000 美元卡之外，GPU 供应商其实并没有享受到涨价带来的收益。同理，索尼微软也没有享受到主机涨价带来的收益。</p><p data-vmark="4ac4">那么，到底是谁在受益？很显然，是投机者，是黄牛，例如在 eBay 上有商家以比 MSRP 高 2 到 3 倍的价格出售，甚至部分时间里还有大量渠道商捂盘不出，而刚需用户不得不硬着头皮把这种亏吃下去。</p><p data-vmark="bd01">他认为，这些虚高的报价很有可能会随着游戏玩家的集体拒绝购买而崩溃，在这种情况下那些投机者和矿工就很难找到玩家接盘，因此最终成交价也会越来越低。</p><p data-vmark="1652" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/dc57ba15-f285-4c38-98ef-ea20db694294.png" w="599" h="465" title="分析师称英伟达和 AMD 显卡价格最终将迎来暴跌" width="599" height="465" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
