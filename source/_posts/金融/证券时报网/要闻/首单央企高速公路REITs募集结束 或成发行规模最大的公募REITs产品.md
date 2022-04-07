@@ -1,0 +1,20 @@
+
+---
+title: '首单央企高速公路REITs募集结束 或成发行规模最大的公募REITs产品'
+categories: 
+ - 金融
+ - 证券时报网
+ - 要闻
+headimg: 'https://picsum.photos/400/300?random=1617'
+author: 证券时报网
+comments: false
+date: Thu, 07 Apr 2022 18:19:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1617'
+---
+
+<div>   
+<p>由中国交通建设股份有限公司（以下简称“<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>“）作为发起人，中交投资有限公司（以下简称”中交投资“）作为主要原始权益人发行的“华夏<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>高速公路封闭式基础设施证券投资基金”（以下简称“中交REIT“）日前已完成询价与定价工作，在正式发售完成后，近期将挂牌上市。</p><p>这是交易所REITs市场首单央企高速公路REITs，募集结束后，中交REIT有望成为市场发行规模最大REITs。</p><p>交通是国民经济的基础性产业，也是国家重点扶持和优先发展的产业，加快布局合理、功能完善的交通基础设施及综合交通运输体系意义重大。“十四五”规划涉及新建改建高速公路里程达2.5万公里，资金需求超过3万亿元，资金缺口巨大，交通建设投融资模式亟需创新。</p><p>中国证监会和国家发改委在借鉴国外REITs成功经验基础上，结合中国国情和实际推出的基础设施REITs这一重大金融创新产品，顺应了国内基础设施建设新发展阶段的投融资需求。</p><p>中交投资总会计师江峰表示，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>作为国务院国资委控制管理的国内超大型建筑类央企，以及全球领先的公路桥梁及港口设计建设企业，在进入新发展阶段后，面临着大多数建筑类央企都要正视的发掘新发展动能、探索转型升级路径以推动企业高质量发展的难题和任务，并且意识到唯有坚持改革创新，敢于尝试，才是破解难题的不二选择。</p><p>中交REIT底层资产是湖北省境内武汉至深圳高速公路嘉鱼至通城段项目，武<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600548" code="600548">深高速</a>联通武汉经济圈、长株潭经济圈及粤港澳大湾区三大城市群，是串联我国中部和南部区域的运输大通道。</p><p>记者了解到，在申报试点项目的准备阶段，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>对体系内大量优质高速公路资产进行了集中梳理，从项目区位、区域经济活跃度、经营业绩和项目合法合规性等多方面综合考量，优选出嘉通高速项目作为首发资产，若干优质备选扩募项目的梳理工作也在有序推进。随着优质高速类资产不断通过扩募形式注入，中交REIT有望成为国内规模最大并最具成长性的高速公路资产上市平台，基金的整体价值将得到持续提升，中交REIT平台也将行稳致远。</p><p>中交投资总会计师江峰介绍，中交REIT作为<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>唯一高速公路类资产上市平台，对于<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>“十四五”战略目标的实现、核心竞争力的打造及整体产业链能力的提升具有重要意义。中交REIT发行，有利于加快推动<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>高速公路投资运营模式的转型升级与运营管理质效的优化提升，将赋能<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601800" code="601800">中国交建</a>高质量发展，持续保持行业领跑者地位。</p>
+
+                  
+</div>
+            
