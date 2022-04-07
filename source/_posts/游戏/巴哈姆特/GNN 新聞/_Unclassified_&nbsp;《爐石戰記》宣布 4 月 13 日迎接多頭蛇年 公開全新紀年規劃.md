@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/fed5319827039ab8678e03db591ft6f5.JPG?v=1649229527797'
 author: 巴哈姆特
 comments: false
-date: 2022-04-07 03:23:31
+date: 2022-04-07 04:11:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/fed5319827039ab8678e03db591ft6f5.JPG?v=1649229527797'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-olg"><a href="https://acg.gamer.com.tw/news.php?p=olg" target="_blank">PC 線上</a></li></ul>
+<ul class="platform-tag"><li class="platform-olg"><a href="https://acg.gamer.com.tw/news.php?p=olg" target="_blank">PC 線上</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
@@ -66,7 +66,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/fed5319827039ab8678e03db591ft6f5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 41.21%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG?v=1649243318006" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 41.21%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG?v=1649243318006" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/7dfbee61025fc2c08923a0c0f11ft6g5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
