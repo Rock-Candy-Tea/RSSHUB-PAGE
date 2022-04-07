@@ -1,0 +1,30 @@
+
+---
+title: '《乐高星球大战 天行者传奇》Steam同时在线峰值系列最佳'
+categories: 
+ - 游戏
+ - 游戏时光
+ - 游戏时光新闻
+headimg: 'https://img01.vgtime.com/game/cover/2022/04/07/220407103419963_u244746.jpg'
+author: 游戏时光
+comments: false
+date: Thu, 07 Apr 2022 02:52:58 GMT
+thumbnail: 'https://img01.vgtime.com/game/cover/2022/04/07/220407103419963_u244746.jpg'
+---
+
+<div>   
+<input type="hidden" id="topicId" value="1151984">
+<input type="hidden" value id="puid">
+
+
+<div class="abstract">
+<p>星战粉丝们的狂欢~</p>
+</div>
+
+                
+<div class="topicContent front_content"><p><font style="background-color: initial; letter-spacing: 1.3px;">      《</font><font style="background-color: initial; letter-spacing: 1.3px;">乐高星球大战</font><span style="background-color: initial; letter-spacing: 1.3px;"> 天行者传奇</span><font style="background-color: initial; letter-spacing: 1.3px;">》</font><font style="background-color: initial; letter-spacing: 1.3px;">于 </font><font style="background-color: initial; letter-spacing: 1.3px;">4 </font><font style="background-color: initial; letter-spacing: 1.3px;">月 </font><font style="background-color: initial; letter-spacing: 1.3px;">5 </font><font style="background-color: initial; letter-spacing: 1.3px;">日正式发售后，在 </font><font style="background-color: initial; letter-spacing: 1.3px;">Steam </font><font style="background-color: initial; letter-spacing: 1.3px;">平台热度登上系列首位，同时在线玩家峰值超过了 </font><font style="background-color: initial; letter-spacing: 1.3px;">TT Games 旗下</font><font style="background-color: initial; letter-spacing: 1.3px;">乐高系列的其它所有游戏。</font></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/04/07/220407103419963_u244746.jpg" title referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p><font face="宋体">      根据行业分析师 </font><font face="Calibri">Benji-Sales </font><font face="宋体">的<a href="https://twitter.com/BenjiSales/status/1511411135861436431">数据分析</a>，昨天 </font><font face="Calibri">Steam </font><font face="宋体">平台</font><font face="宋体">《</font><font face="宋体">乐高星球大战</font> 天行者传奇<font face="宋体">》</font><font face="宋体">的同时在线玩家数量高达 </font><font face="Calibri">82512 人</font><font face="宋体">，创下了系列的新纪录。在此之前，该系列的最佳纪录为《乐高 漫威超级英雄》（</font><font style="background-color: initial; letter-spacing: 1.3px;">5890 人</font><font style="background-color: initial; letter-spacing: 1.3px;">）。</font></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width: 480px;" src="https://img01.vgtime.com/game/cover/2022/04/07/220407103753384_u244746.jpg" class="vg_insert_img_onfocus" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/04/07/220407101100885_u244746.jpg" class="vg_insert_img_onfocus" title referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p><font style="background-color: initial; letter-spacing: 1.3px;">      和 </font><font style="background-color: initial; letter-spacing: 1.3px;">Steam </font><font style="background-color: initial; letter-spacing: 1.3px;">平台的《星球大战》相关作品相比，</font><font style="background-color: initial; letter-spacing: 1.3px;">《</font><font style="background-color: initial; letter-spacing: 1.3px;">乐高星球大战</font><span style="background-color: initial; letter-spacing: 1.3px;"> 天行者传奇</span><font style="background-color: initial; letter-spacing: 1.3px;">》</font><font style="background-color: initial; letter-spacing: 1.3px;">也名列前茅，同时在线玩家数量远超《星球大战</font><span style="background-color: initial; letter-spacing: 1.3px;"> 绝地：陨落的武士团》《星球大战：旧共和国》和《星球大战：战机中队》。</span><font style="letter-spacing: 1.3px;">目前 </font><font style="letter-spacing: 1.3px;">Steam </font><font style="letter-spacing: 1.3px;">平台游戏的同时在线玩家峰值最高纪录由《</font><font style="letter-spacing: 1.3px;">PUBG</font><font style="letter-spacing: 1.3px;">》保持（</font><font style="letter-spacing: 1.3px;">320 </font><font style="letter-spacing: 1.3px;">万人），《艾尔登法环》为近 </font><font style="letter-spacing: 1.3px;">100 </font><font style="letter-spacing: 1.3px;">万人。</font></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/04/07/220407100844550_u244746.jpg" class="vg_insert_img_onfocus" title referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p><font style="background-color: initial; letter-spacing: 1.3px;">      本作现已登陆</font><span style="background-color: initial; letter-spacing: 1.3px;"> </span><font style="background-color: initial; letter-spacing: 1.3px;">Xbox Series X|S</font><font style="background-color: initial; letter-spacing: 1.3px;">、</font><font style="background-color: initial; letter-spacing: 1.3px;">Xbox One</font><font style="background-color: initial; letter-spacing: 1.3px;">、</font><font style="background-color: initial; letter-spacing: 1.3px;">PS5</font><font style="background-color: initial; letter-spacing: 1.3px;">、</font><font style="background-color: initial; letter-spacing: 1.3px;">PS4 </font><font style="background-color: initial; letter-spacing: 1.3px;">和 </font><font style="background-color: initial; letter-spacing: 1.3px;">PC</font><font style="background-color: initial; letter-spacing: 1.3px;">。游戏以乐高形式幽默演绎了全九部《星球大战》电影的故事，玩家可以再次看到达斯维达，克隆人部队等经典桥段，并增加了不少新功能，如相机角度可以更近，内含大量支线，有超过 </font><font style="background-color: initial; letter-spacing: 1.3px;">300 </font><font style="background-color: initial; letter-spacing: 1.3px;">个可扮演角色，可以按任何顺序玩三部曲的故事，玩家可在解锁星球之间随意穿梭。</font></p><p style="text-align: right; "><font style="background-color: initial; letter-spacing: 1.3px;">信息来源：<a href="https://www.gamesradar.com/lego-star-wars-is-topping-the-series-steam-charts-and-still-climbing/">Gamesradar</a></font></p></div>
+                
+                
+  
+</div>
+            
