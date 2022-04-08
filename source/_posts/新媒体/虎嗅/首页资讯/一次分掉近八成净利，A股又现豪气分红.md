@@ -1,0 +1,18 @@
+
+---
+title: '一次分掉近八成净利，A股又现豪气分红'
+categories: 
+ - 新媒体
+ - 虎嗅
+ - 首页资讯
+headimg: 'https://img.huxiucdn.com/article/content/202204/08/084047152491.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+author: 虎嗅
+comments: false
+date: Fri, 08 Apr 2022 03:53:00 GMT
+thumbnail: 'https://img.huxiucdn.com/article/content/202204/08/084047152491.png?imageView2/2/w/1000/format/png/interlace/1/q/85'
+---
+
+<div>   
+<p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="http://mp.weixin.qq.com/s?__biz=MzAwODUyMjIzOQ==&mid=2651769621&idx=1&sn=e08ac5ddd020dfe54fec1c2e847cbbf9&chksm=8097fb85b7e07293807202344be6a4e1eb1a3a1b1d55ddea745d61fcd182ac7df76bb62a015f#rd" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">e公司 （ID：lianhuacaijing）</span></a><span class="text-remarks">，作者：证券时报 李曼宁，编辑：彭勃，题图来自：视觉中国</span></p><p>一直有着超高分红传统的吉比特，再度刷新了公司分红金额。4月7日晚间，吉比特披露2021年年报，其利润分配预案也同步出炉，公司拟每10股派发现金红利160元，总分配金额预计为11.5亿元。</p><p class="img-center-box"><img class="lazyImg" _src="https://img.huxiucdn.com/article/content/202204/08/084047152491.png?imageView2/2/w/1000/format/png/interlace/1/q/85" data-w="719" data-h="337" src="https://img.huxiucdn.com/article/content/202204/08/084047152491.png?imageView2/2/w/1000/format/png/interlace/1/q/85" referrerpolicy="no-referrer"></p><p><strong>自2017年1月上市以来，吉比特累计现金分红已达35.71亿元<span class="text-remarks" label="备注">（包括已公布但尚未实施的 2021 年度分红金额）</span>。</strong></p><p>2021年报季，亮眼分红层出不穷。同日晚间，恒力石化在年报中披露，拟向每10股派发现金红利10.10元，计划派发现金分红70.21亿元，现金分红规模创下了历史新高。此前，贵州茅台公告拟每10股派发现金红利216.75元，预计分配利润272.28亿元，公司现金分红金额亦再创新高。</p><p><strong>据东方财富Choice数据，截至4月7日，已有超过1300家公司发布2021年报，其中1030家公司在年报中预告现金分红，占比近八成。</strong></p><h3 label="大标题" class="text-big-title">一次分掉近八成净利</h3><p>2021年，吉比特实现营业收入 46.19 亿元，同比增长 68.44%；净利润为14.68 亿元，同比增长 40.34%。基本每股收益为20.43元。此外，公司经营活动产生的现金流量净额 24.18 亿元，同比增长 57.75%，现金流充沛。</p><p><strong>吉比特去年盈利增长的主要原因包括《一念逍遥（大陆版）》上线贡献了主要增量经营利润；《问道》《问道手游》利润小幅增加等。此外，《摩尔庄园》《地下城堡 3：魂之诗》《世界弹射物语》等产品受道具摊销周期及研发分成会计确认规则的影响，截至去年末尚未产生财务利润。</strong></p><p>业绩增长同时，吉比特持续高分红。公司拟每10股派发现金红利160元，总分配金额预计为11.5亿元<span class="text-remarks" label="备注">（以截至 2022 年 4 月 6 日的总股本进行计算）</span>，占2021年度公司净利润的 78.30%。</p><p>吉比特于2017年1月4日上市，是彼时国内首家在A股主板非借壳独立上市的游戏企业。公司上市后不久股价就一度摸高超越贵州茅台，短暂地坐过两市第一高价股之位。</p><p><strong>该公司另一受市场关注较高的时刻就是每年披露分红预案之际，豪气分红已经成为吉比特的标签。自2017年1月上市以来，吉比特年年保持高分红，已累计现金分红35.71亿元<span class="text-remarks" label="备注">（包括已公布但尚未实施的 2021 年度分红金额）</span>。该数字达公司首次公开发行股票融资净额的3.97倍。</strong></p><p>其余时间，吉比特则展现出低调稳健的风格。上市以来，公司未发起并购重组，未进行定增或配股；2021年报中，公司资产负债率较上年提升，但也不到29%；公司营收与净利逐年增长，并保持较高的利润率水平，2021年公司销售毛利率约85%，销售净利率约38%。另外，2021年，公司加权平均净资产收益率同比增加 4.94个百分点，达到35.97%。</p><h3 label="大标题" class="text-big-title">大手笔现金分红频现</h3><p>伴随2021年报陆续披露，一批高派现公司的现金分红方案渐次出炉。</p><p>据东方财富Choice数据，截至4月7日发稿，已有超过1300家公司发布2021年报，其中有1036家公布年度利润分配预案，而在这些公布利润分配预案的公司中，有1030家公司预告拟现金分红。</p><p><strong>从分红金额上看，有106家公司计划分红金额超过10亿元，15家超过百亿元。数据显示，分红超百亿公司以银行、保险、能源行业公司居多。其中，工商银行以超过1045亿元的现金分红总额暂列A股分红金额首位。其次是农业银行、中国银行，预计现金分红金额分别约为724亿元、415亿元。</strong></p><p>2021年业绩高位增长的贵州茅台在分红上也不手软。公司拟每10股派发现金红利216.75元，计划共分配利润272.28亿元。2021年，贵州茅台实现营业总收入1094.64亿元，同比增长11.71%；实现净利润524.60亿元，同比增长12.34%。</p><p><strong>Wind数据显示，2001年至2020年20年间，贵州茅台已实施现金分红20次，累计现金分红1213.53亿元，累计实现净利润3081.96亿元，分红率达39.38%。</strong></p><p><span class="text-remarks" label="备注">本文来自微信公众号：</span><a href="http://mp.weixin.qq.com/s?__biz=MzAwODUyMjIzOQ==&mid=2651769621&idx=1&sn=e08ac5ddd020dfe54fec1c2e847cbbf9&chksm=8097fb85b7e07293807202344be6a4e1eb1a3a1b1d55ddea745d61fcd182ac7df76bb62a015f#rd" target="_blank" rel="nofollow" style="text-decoration: none;"><span class="text-remarks">e公司 （ID：lianhuacaijing）</span></a><span class="text-remarks">，作者：证券时报 李曼宁，编辑：彭勃</span></p>  
+</div>
+            
