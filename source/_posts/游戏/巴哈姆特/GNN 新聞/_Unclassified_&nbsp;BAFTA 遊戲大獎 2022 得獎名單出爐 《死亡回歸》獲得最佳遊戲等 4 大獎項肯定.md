@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/8ba428cd8b4d10ba7d89c387c21fuge5.JPG?v=1649396857334'
 author: 巴哈姆特
 comments: false
-date: 2022-04-08 06:11:17
+date: 2022-04-08 07:09:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/8ba428cd8b4d10ba7d89c387c21fuge5.JPG?v=1649396857334'
 ---
 
@@ -476,7 +476,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/8ba428cd8b4d10ba7d89c387c21fuge5.
 <h3>
 最佳主角演出獎</h3>
 <div>
-<b><span class="text-hightlight"><span style="color:#ff0000;">得獎：Jane Perry，《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%9B%9E%E6%AD%B8" target="_blank"><span style="color:#ff0000;">死亡回歸</span></a><span style="color:#ff0000;">》飾演塞勒涅‧瓦索斯（Selene Vasso）</span></span></b></div>
+<b><span class="text-hightlight"><span style="color:#ff0000;">得獎：Jane Perry，《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%9B%9E%E6%AD%B8" target="_blank"><span style="color:#ff0000;">死亡回歸</span></a><span style="color:#ff0000;">》飾演塞勒涅‧瓦索斯（Selene Vassos）</span></span></b></div>
 <div>
 入圍：Ozioma Akagha，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%BE%AA%E7%92%B0" target="_blank">死亡循環</a>》飾演茱莉安娜‧布萊克（Julianna Blake）<br>
 　　　Jason E Kelley，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%BE%AA%E7%92%B0" target="_blank">死亡循環</a>》飾演寇特‧凡（Colt Vahn）</div>
@@ -491,9 +491,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/8ba428cd8b4d10ba7d89c387c21fuge5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG?v=1649396046753" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG 2x" style="max-width: unset;" title="Jane Perry，《死亡回歸》飾演塞勒涅‧瓦索斯（Selene Vasso）" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG?v=1649396046753" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/4ee0407f164869c2e83437ed421fugb5.JPG 2x" style="max-width: unset;" title="Jane Perry，《死亡回歸》飾演塞勒涅‧瓦索斯（Selene Vassos）" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-Jane Perry，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%9B%9E%E6%AD%B8" target="_blank">死亡回歸</a>》飾演塞勒涅‧瓦索斯（Selene Vasso）</figure>
+Jane Perry，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%BB%E4%BA%A1%E5%9B%9E%E6%AD%B8" target="_blank">死亡回歸</a>》飾演塞勒涅‧瓦索斯（Selene Vassos）</figure>
 </li>
 </ul>
 </div>
