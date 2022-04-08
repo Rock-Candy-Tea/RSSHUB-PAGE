@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=493'
+headimg: 'https://picsum.photos/400/300?random=1584'
 author: 开源中国
 comments: false
 date: Fri, 08 Apr 2022 07:11:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=493'
+thumbnail: 'https://picsum.photos/400/300?random=1584'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Kotlin 1.6.20 已经正式发布。它提供了对未来语言功能的预览，使分层结构成为多平台项目的默认结构，并为 JVM、JS 和 Native 平台带来了性能改进。</p> 
+                                                                    
+                                                        <p>Kotlin 1.6.20 已经正式发布。它提供了对未来语言功能的预览，使分层结构成为多平台项目的默认结构，并为 JVM、JS 和 Native 平台带来了性能改进。</p> 
 <p>Kotlin 1.6.20 具体更新内容如下：</p> 
 <ul> 
  <li>Kotlin/JVM 的上下文接收器原型为定义上下文相关声明提供了新的支持</li> 

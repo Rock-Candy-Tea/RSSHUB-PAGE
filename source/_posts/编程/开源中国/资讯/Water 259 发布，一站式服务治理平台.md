@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1653'
+headimg: 'https://picsum.photos/400/300?random=8584'
 author: 开源中国
 comments: false
 date: Fri, 08 Apr 2022 08:50:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1653'
+thumbnail: 'https://picsum.photos/400/300?random=8584'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <h3 style="text-align:start">Water（水孕育万物...）</h3> 
+                                                                    
+                                                        <h3 style="text-align:start">Water（水孕育万物...）</h3> 
 <p style="color:#24292e; text-align:start">Water 为项目开发、服务治理，提供一站式解决方案（可以理解为微服务架构支持套件）。基于 Solon 框架开发，并支持完整的 Solon Cloud 规范；已在生产环境奔跑了4年。</p> 
 <p style="color:#24292e; text-align:start">功能约等于：consul + rabbitmq + elk + prometheus + openFaas + quartz 等一些别的功能，并有机结合在一起。</p> 
 <p style="color:#24292e; text-align:start">或者约等于：nacos + rocketmq + PlumeLog + prometheus + magic-api + xxl-job + 等等，并有机结合在一起。</p> 

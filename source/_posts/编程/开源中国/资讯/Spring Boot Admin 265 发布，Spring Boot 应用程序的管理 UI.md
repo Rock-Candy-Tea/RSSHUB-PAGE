@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6858'
+headimg: 'https://picsum.photos/400/300?random=852'
 author: 开源中国
 comments: false
 date: Fri, 08 Apr 2022 07:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6858'
+thumbnail: 'https://picsum.photos/400/300?random=852'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Spring Boot Admin 是一个用于管理 Spring Boot 应用程序的管理界面，Spring Boot Admin 2.6.5 正式发布，自 2.6.3 版本以来的变化包括：</p> 
+                                                                    
+                                                        <p>Spring Boot Admin 是一个用于管理 Spring Boot 应用程序的管理界面，Spring Boot Admin 2.6.5 正式发布，自 2.6.3 版本以来的变化包括：</p> 
 <ul> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fcodecentric%2Fspring-boot-admin%2Fcommit%2Fe58184726652aae3712a83f8d246fa4f8a729307" target="_blank">e5818472</a> - 将 spring boot 更新至 2.6.6</li> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fcodecentric%2Fspring-boot-admin%2Fcommit%2F2f4dd01778d00991e91a15c3cfdd7240aab49b66" target="_blank">2f4dd017</a> - 修改为 2.6.5-SNAPSHOT 版本</li> 

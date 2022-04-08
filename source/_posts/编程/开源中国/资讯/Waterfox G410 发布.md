@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8925'
+headimg: 'https://picsum.photos/400/300?random=4219'
 author: 开源中国
 comments: false
 date: Fri, 08 Apr 2022 07:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8925'
+thumbnail: 'https://picsum.photos/400/300?random=4219'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000">Waterfox 是一个基于 Firefox 的开源浏览器，由 Alex Kontos 于 2011 年首次发布。目前 Waterfox 分为两个版本 —— Classic 和 Current（G4）。Waterfox 在 Firefox 的基础上，将影响用户隐私的数据收集、遥测和启动分析等功能进行了移除。</span></p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000">Waterfox 是一个基于 Firefox 的开源浏览器，由 Alex Kontos 于 2011 年首次发布。目前 Waterfox 分为两个版本 —— Classic 和 Current（G4）。Waterfox 在 Firefox 的基础上，将影响用户隐私的数据收集、遥测和启动分析等功能进行了移除。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000">Waterfox G4.1.0 现已发布，更新内容如下：</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#000000"><strong>New</strong></span></p> 
 <ul style="margin-left:0; margin-right:0"> 

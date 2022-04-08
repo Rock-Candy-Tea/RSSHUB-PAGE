@@ -14,7 +14,8 @@ thumbnail: 'https://doc.databasir.com/databasir.png'
 
 <div>   
 <div class="content">
-                                                                                            <h2 style="text-align:start"><span>简介</span></h2> 
+                                                                    
+                                                        <h2 style="text-align:start"><span>简介</span></h2> 
 <p style="color:#333333; margin-left:.8em; margin-right:.8em; text-align:start"><span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fvran-dev%2Fdatabasir" target="_blank"><span>Databasir</span></a></span><span> 是一款面向团队的在线数据库文档管理平台，提供了自动化、版本化、团队化、个性化的文档管理特性。</span></p> 
 <p style="color:#333333; margin-left:.8em; margin-right:.8em; text-align:start"><img alt="Databasir" src="https://doc.databasir.com/databasir.png" referrerpolicy="no-referrer"></p> 
 <h2 style="text-align:start"><img src="https://doc.databasir.com/README/document-diff.gif" referrerpolicy="no-referrer"></h2> 

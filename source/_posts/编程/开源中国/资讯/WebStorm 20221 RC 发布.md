@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=868'
+headimg: 'https://picsum.photos/400/300?random=4597'
 author: 开源中国
 comments: false
 date: Fri, 08 Apr 2022 07:06:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=868'
+thumbnail: 'https://picsum.photos/400/300?random=4597'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>WebStorm 2022.1 的候选版本发布，该版本的改进内容包括：</p> 
+                                                                    
+                                                        <p>WebStorm 2022.1 的候选版本发布，该版本的改进内容包括：</p> 
 <ul> 
  <li>更好的 Next.js 支持：WebStorm 2022.1 改进了使用 Next.js 的体验</li> 
  <li>支持 Volta 和 Corepack：WebStorm 现在与 Volta（一个 JavaScript 工具管理器）完全集成；它还支持 Corepack（实验性的 Node.js 工具）</li> 
