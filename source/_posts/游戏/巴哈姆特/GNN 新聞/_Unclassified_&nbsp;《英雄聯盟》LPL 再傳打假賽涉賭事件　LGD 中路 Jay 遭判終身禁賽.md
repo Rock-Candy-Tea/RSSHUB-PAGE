@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/52/361c231c29b2651b05cc58b5ed1fuv05.JPG?v=1649423566286'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795'
 author: 巴哈姆特
 comments: false
-date: 2022-04-08 13:23:50
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/361c231c29b2651b05cc58b5ed1fuv05.JPG?v=1649423566286'
+date: 2022-04-08 14:08:16
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795'
 ---
 
 <div>   
@@ -27,6 +27,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/361c231c29b2651b05cc58b5ed1fuv05.
  </div>
 <div>
 　　官方指出，LPL 於 2021 年反假賽與反賭博時就已經強調，要以更嚴格標準來處理未來的假賭賽違規行為，然而 Jay 仍違反上述規則，因此他們決定對 Jay 予以終身禁賽處罰，即刻生效，Jay 即日起不得以任何身份參與全球任何地區由騰訊、騰競及 Riot Games 舉辦的職業及半職業比賽。聯盟官方也將與各直播平台溝通，其不可在直播平台進行任何《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》相關直播。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.74%;">
+<figcaption style="padding-bottom: 50.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <div>
