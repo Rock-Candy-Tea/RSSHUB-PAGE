@@ -1,0 +1,19 @@
+
+---
+title: '微信、淘宝、B站、微博、美团、知乎等常用 App_个性化推荐_如何关闭（附前后对比）'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/cb9a2f80-b286-4068-a1c7-5d175d16a1b6.jpg'
+author: IT 之家
+comments: false
+date: Fri, 08 Apr 2022 00:57:16 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/cb9a2f80-b286-4068-a1c7-5d175d16a1b6.jpg'
+---
+
+<div>   
+<p data-vmark="7c6c"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 8 日消息，据人民邮电报报道，今年 1 月，《互联网信息服务算法推荐管理规定》出台，明确算法推荐服务提供者应当以显著方式告知用户其提供算法推荐服务的情况；向用户提供不针对其个人特征的选项，或者向用户提供便捷的关闭算法推荐服务的选项。该规定自 3 月 1 日起施行，在今年“3・15”前后，微博、微信、淘宝、哔哩哔哩、抖音、百度、大众点评、小红书等 App 陆续上线了“个性化推荐”开关。</p><p data-vmark="a6d4" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/cb9a2f80-b286-4068-a1c7-5d175d16a1b6.jpg" w="500" h="310" title="微信、淘宝、B站、微博、美团、知乎等常用 App“个性化推荐”如何关闭（附前后对比）" width="500" height="310" referrerpolicy="no-referrer"></p><p data-vmark="02d7"><strong>下面是一些常用 App“个性化推荐”关闭方法：</strong></p><p data-vmark="1494"><strong>淘宝：</strong>进入淘宝 App，点击 Tab 栏中“我的淘宝” → 点击右上角“设置”按钮，进入“隐私”选项 → 点击“推荐管理”，关闭“个性化推荐”开关。</p><p data-vmark="0066">“个性化推荐”关闭前，淘宝主页推荐通常会根据用户购买过的品类推荐相关商品，而关闭后，主页推荐的商品基本上是生活用品等。</p><p data-vmark="3358"><strong>哔哩哔哩（简称“B站”）：</strong>进入B站，点击 Tab 栏中的“我的” → 下拉点击“设置” → 下拉点击“隐私权限设置” → 下拉点击“个性化内容推荐管理” → 关闭“个性化内容推荐”。</p><p data-vmark="a5b8">关闭“个性化内容推荐”后，B站移动端首页推荐内容，多少还是会猜中用户的喜好，只是减少推荐常观看的一些细分领域的视频而已。</p><p data-vmark="6bb1"><strong>微博普通版：</strong>点击 Tab 栏中的“我” → 点击右上角的“设置” → 依次点击“隐私设置”“个人信息与权限” → 关闭“个性化内容推荐”。</p><p data-vmark="ff8b">在关闭前，我的“推荐”列表里有各类游戏领域和科技领域博主的内容，关闭后则变成娱乐圈大杂烩。从这个角度看，微博可能是最不适合关闭个性化推荐功能的。</p><p data-vmark="68c2"><strong>微信：</strong>已经是多个服务集合，而每个服务都由微信不同团队进行运营，因此微信“个性化推荐”开关相对复杂。本文以微信内常见的订阅号、视频号服务为例，介绍如何关闭“个性化推荐”开关。首先是订阅号。使用<a class="s_tag" href="https://android.ithome.com/" target="_blank">安卓</a>手机，点击“订阅号消息”右上角的菜单 → 点击“更多”按钮，在弹出菜单中选择“设置”，就可以找到“订阅号消息个性化推荐”开关，关闭即可。接下来是视频号。点击视频号右上角的“小人”标志 → 依次点击“浏览设置”中的“隐私”“个性化推荐” → 关闭“直播”和“视频”的两个“个性化推荐”开关即可。</p><p data-vmark="bc81"><strong>美团：</strong>打开美团 App 后，点击底部 Tab 栏中“我的” → 点击右上角“设置”，找到“隐私管理” → 选择“个性化内容推荐”，关闭即可。</p><p data-vmark="bec2">关闭“个性化推荐”后，美团首页相关推荐会明显减少。关闭前，会推荐用户之前浏览过的店，关闭后只是推荐“逛点”和打卡指南。值得注意的是，关闭“个性化推荐”后，美团仍会在一些推荐中标注商家与用户的距离，似乎关闭该开关对位置信息的使用没有影响。</p><p data-vmark="52ed"><strong>知乎：</strong>打开知乎 App → 点击底部“我的” → 点击右上角的“齿轮”图标 → 找到“隐私中心” → 点击“权限授权设置” → 找到“关闭个性化内容推荐”开关，将其打开。需要强调的是，开关打开，其“个性化推荐”才处于关闭状态。知乎的“个性化推荐”开关关闭前，会推荐细分领域话题内容，关闭后则消失无踪，变成热点事件相关内容。</p><p data-vmark="d392">大家在<a href="https://wxaurl.cn/tIhrCxgH5Kb" target="_blank" data-androidurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-iosurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-wxmpurl="ithome://openmp?appid=ithome&path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp" data-wapurl="https://wxaurl.cn/tIhrCxgH5Kb">IT之家微信号</a>回复“<span class="font-color-red">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p data-vmark="fa2a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg" alt title="微信、淘宝、B站、微博、美团、知乎等常用 App“个性化推荐”如何关闭（附前后对比）" referrerpolicy="no-referrer"> </p><hr><p data-vmark="eb02" style="text-align: center;"><strong><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a>官方微信公众账号</strong> </p><p data-vmark="57c2" style="text-align: center;">爱科技，爱这里。</p><p data-vmark="f7c1" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/1/10ffabb6-675e-46a9-b0f9-2a412595d4a3.png" w="250" h="250" alt="IT之家微信公众号二维码" title="微信、淘宝、B站、微博、美团、知乎等常用 App“个性化推荐”如何关闭（附前后对比）" width="250" height="250" referrerpolicy="no-referrer"> </p><p data-vmark="bd86" style="text-align: center;">▲ 微信“扫一扫”二维码关注IT之家，或者微信搜索“IT之家”并关注。</p>
+          
+</div>
+            
