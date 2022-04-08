@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/c8b4969172933b6e4559bfaf3aae7111.png'
         <strong>国工智能</strong><br>
         智能制造整体解决方案提供商<br>
         A轮 / 数千万人民币 / 1649402324<br>
-        投资方: 源禾资本
+        投资方: 毅达资本、源禾资本、山东财金、烟台财金
         
 </div>
             
