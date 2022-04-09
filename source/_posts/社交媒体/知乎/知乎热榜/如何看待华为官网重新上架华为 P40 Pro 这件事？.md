@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2591'
+headimg: 'https://pic2.zhimg.com/v2-09ea69b6c84714ac18c641e0c4c8d065_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Fri, 08 Apr 2022 11:04:10 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2591'
+date: Fri, 08 Apr 2022 15:51:34 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-09ea69b6c84714ac18c641e0c4c8d065_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-东风不便的回答<br><br><p data-pid="13mXyJHm">不知道华为从哪里挖出来的库存，连P40Pro这种老机型都能挖出一批新机出来，松山湖底下真的不知道藏了多少好东西。</p><p data-pid="YVRyTdcc">这批新上架的P40Pro就是那个P40Pro，没啥改变，配色齐全，但是只有8+128这个版本，没有主流的8+256版本，128内存放到现在绝对绝对是小了点的，毫无疑问的！！</p><p data-pid="PPFBKNnp">售价方面，8+128版本5988和P50Pro一样的售价，但是支持5G。</p><p data-pid="5haVnj6M">P40Pro这台手机吧，外观，质感，影像部分放到现在都是可以的，其它的放在现在都只能说一般，处理器是麒麟990，和我现在用的荣耀Play4Pro一个处理器，不过我的是外挂基带，P40Pro用的是集成，麒麟990放到今天日常使用还是可以的，配合上鸿蒙，流畅性也还行，对性能要求不太高的王者荣耀这些游戏流畅运行没压力，最重要的是不热，冰麒麟体验挺好，<b>但还是那个问题，一款两年前的手机，性能多少是落后的了，再加上两年后仍然以原价5988售卖，就不太推荐了！！</b></p><p data-pid="b11NOxhc">毕竟，P50Pro现在也才是这个价格，渠道价更低，拼夕夕丧心病狂的8+256能去到4870左右，虽然是4G，虽然是火龙888，但这个价格也不是不能考虑是吧！！！</p><p data-pid="DuqVV94p">很多人可能不理解为啥华为要把一台两年前的机型重新上架来买，只能说对现在的华为来说，寒冬一日没过，活下去仍然是首要目标，困扰华为其中的一个原因就是缺货，所以东拼西凑也好，组织打捞队松山湖打捞一下库存也好，能把货拿得出来再说，毕竟熬过去才能见到希望不是吗？</p><p data-pid="Bf8FIu7M">不过，你说要是华为在松山湖底捞出来的是一批Mate40那该有多好啊，即便Mate40也是一年多两年之前出的了，但是能原价买到我也愿意啊！！！！</p><p></p>  
+牛肉粉先生的回答<br><br><p></p><p data-pid="X7PUJ4_i">华为仅仅上架了一个P40Pro还只有8+128G版本，这肯定不是为了销量去的，毕竟小6000的价格能有几个人买啊，你真要很多人下单华为也不一定有这么多货啊？</p><p data-pid="nrxB-A9Y">松山湖？？？算了。。。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-09ea69b6c84714ac18c641e0c4c8d065_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="982" data-rawheight="698" data-default-watermark-src="https://pic3.zhimg.com/v2-2cb71d0ba106382758d1da91baf123b1_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-09ea69b6c84714ac18c641e0c4c8d065_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="QRfdgQE0">但你说它货不多的吧又五个配色都有货，你去官网看华为P50Pro甚至都有部分颜色缺货，华为的这个库存机比新机配色还齐全？！</p><p data-pid="1IKbelHl">其实华为这种操作应该是时不时的刷一下存在感，不管是P50Pro破天荒的九个配色、还是华为官方上架的二手机、还是又把P40Pro上架一遍、这不都是在告诉你我还没放弃，建议你多多关注等我王者归来？</p><p data-pid="MPb-IGHE">但是你问任何一位数码博主，应该都是建议你别买！对于目前的华为来说，我也仅推荐你买华为Mate40Pro系列、你现在去专卖店也是有一些货的，也才6000多的价格何乐而不为？</p><p data-pid="T02Ne10O">当然了我身边也有不在乎配置、不在乎价格、不在乎5G的，直接就买P50Pro的，我也不跟他们去巴拉巴拉一大堆？！一台手机而已嘛喜欢最重要。</p>  
 </div>
             
