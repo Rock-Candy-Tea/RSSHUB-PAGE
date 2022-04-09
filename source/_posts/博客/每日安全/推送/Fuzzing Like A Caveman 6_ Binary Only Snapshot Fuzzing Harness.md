@@ -5,18 +5,18 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=9437'
+headimg: 'https://picsum.photos/400/300?random=11'
 author: 每日安全
 comments: false
-date: 2022-04-09 02:18:43
-thumbnail: 'https://picsum.photos/400/300?random=9437'
+date: 2022-04-09 03:19:24
+thumbnail: 'https://picsum.photos/400/300?random=11'
 ---
 
 <div>   
 <q>Fuzzing Like A Caveman 6: Binary Only Snapshot Fuzzing Harness</q>
 –
 <cite>
-<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+ <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
 <span class="text-muted"><small>• 2 days ago</small></span>
