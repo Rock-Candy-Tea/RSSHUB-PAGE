@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-04-09 09:08:39
-thumbnail: 'https://pic2.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162'
+date: 2022-04-09 10:09:43
+thumbnail: 'https://pica.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-fd87084bd5373d1875e6391e90309507_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">雪峰的自由之路，</span><span class="bio">粒子天体物理 实验数据分析</span>
 <a href="https://www.zhihu.com/question/526650510/answer/2429182613" class="originUrl" hidden>查看知乎原文</a>
 </strong>
