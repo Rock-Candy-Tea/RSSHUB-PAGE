@@ -1,0 +1,18 @@
+
+---
+title: '中华狸花猫跟名贵的宠物猫差别在哪？-Stefan的回答：我从来都是把中华狸花猫看做是一种品种猫的。我根本不在意国外协会设立的那份所谓的品种猫名录。猫就是猫，...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-6d4bf5fd9f4203c33263a7fab64ab8f3_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 10 Apr 2022 01:41:39 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-6d4bf5fd9f4203c33263a7fab64ab8f3_1440w.jpg'
+---
+
+<div>   
+<strong>中华狸花猫跟名贵的宠物猫差别在哪？</strong><br>Stefan的回答<br><p data-pid="uSSRqURz">我从来都是把中华狸花猫看做是一种品种猫的。我根本不在意国外协会设立的那份所谓的品种猫名录。猫就是猫，为什么一定要有品种高低贵贱之分？人类为了满足自己私欲选育出了折耳猫、斯芬克斯猫和一些近亲繁殖的纯血猫，有什么可自豪的呢？</p><p data-pid="tbnWFDqH">我们中华田园猫中的狸花猫聪明、机灵、活泼、精力旺盛、黏人、通人性，颜值也丝毫不逊色（狸花猫很少有颜值长崩的），我有什么理由不喜欢狸花猫呢？</p><p data-pid="Ua61bV0v">看看我家大狸子。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6d4bf5fd9f4203c33263a7fab64ab8f3_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-20ac8b43ff050eb5b3d81cfe618698b5_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6d4bf5fd9f4203c33263a7fab64ab8f3_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-e64689ab710023cffec40f8366f4eca2_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-98dea8af5cd540f14dd11f05335995a3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-e64689ab710023cffec40f8366f4eca2_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-7abe3bdb8839ad7d0d3a574af663e6dd_1440w.jpg" data-rawwidth="1280" data-rawheight="2152" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-f8fa859baa6fe4ace18effc3b59dca20_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7abe3bdb8839ad7d0d3a574af663e6dd_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-246d99e316c49ed686e668666da9f6ea_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-9f0e1f5cf0b936ad760985643a5f0af3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-246d99e316c49ed686e668666da9f6ea_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-72921f0fc91f9305c969cdaa026546c7_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-cc981282bdb1bff757019191d9f2c61a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-72921f0fc91f9305c969cdaa026546c7_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4f41da1e8c281f5e8963f10a412f43f0_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-77de6ca398b3c328f515dc2f6226288f_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4f41da1e8c281f5e8963f10a412f43f0_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
