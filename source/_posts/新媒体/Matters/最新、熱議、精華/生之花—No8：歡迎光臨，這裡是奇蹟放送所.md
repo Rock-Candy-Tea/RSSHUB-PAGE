@@ -1,0 +1,20 @@
+
+---
+title: '生之花—No.8：歡迎光臨，這裡是奇蹟放送所'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/97233e93-b7fe-4c5d-8503-e83c2ff4fb4d.jpeg'
+author: Matters
+comments: false
+date: Sun, 10 Apr 2022 04:32:11 GMT
+thumbnail: 'https://assets.matters.news/embed/97233e93-b7fe-4c5d-8503-e83c2ff4fb4d.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/97233e93-b7fe-4c5d-8503-e83c2ff4fb4d.jpeg" data-asset-id="97233e93-b7fe-4c5d-8503-e83c2ff4fb4d" referrerpolicy="no-referrer"><figcaption><span>這是屬於奇蹟放送所的「生之花」，水色綻放！</span></figcaption></figure><blockquote><strong>生之花系列。在你心底，綻放一朵屬於你的生日之花～生命的旅程中，總有些事物默默守護著你，而誕生日便是其中之一，當中蘊藏了屬於生命的祝福能量。在這特別的日子，想對你說聲：生日快樂！</strong></blockquote><hr><p>今天介紹的作品，是重量級的唷～因為這可是<strong>奇蹟放送所專屬</strong>的生之花！</p><p>時間過的很快，在成立奇蹟放送所一周年、也就是2021年10月16日這天，奇蹟在FB粉專上進行了現場直播的活動，邀請探路客認識的文友們一起參加線上相聚時光，共同創作出這幅作品。</p><p>當時探路客還沒倒（才剛發布關站通知QQ），幾位平時相熟的探友們與奇蹟線上相聚，度過了快樂愜意的午後時光。靜、布恣，謝謝你們在直播中陪奇蹟聊了整個下午，很感動有你們的參與！還有小太陽，那天太忙了沒時間看群組，謝謝你還特地幫奇蹟在群組分享活動～三姐、Emerald、森林之歌、過客收藏家、Felicia菲栗夏、還有許多FB上追蹤粉專默默支持的朋友們，都一起見證了這幅畫作的創作過程。</p><p>咳咳、不好意思啦，突然間變感謝大會，哈哈哈哈！名單奇蹟都記得，一直很感恩在創作路上，身邊能有這麼多人支持鼓勵著。帶著感恩的心，雖然有些朋友現在不常出現了，但奇蹟還是在此祝大家，事事皆能平安順心～</p><p>接下來，就讓我們看看關於這次作品的介紹吧！</p><hr><h2>誕生日：10/16</h2><p><br></p><p>這次的作品，是針對<strong>奇蹟放送所</strong>繪製的客製畫。</p><p>結合了羽毛、植物、月亮、波浪、水滴、結晶等自然元素，層層疊疊構成放射狀的水之花。在羽毛輕盈的搖擺之中，逐漸連結為循環的飛翔羽翼，再陸續漫延開來，凝成華麗的扇門、最後是波瀾起伏的水紋包覆住整體輪廓，讓漫天水色的療癒能量席捲了整幅畫作。</p><p>當中也融入了奇蹟放送所頭貼的<strong>光之意象</strong>，期盼這道光能如同水波一般，為大家帶來無盡的療癒與美好～謝謝大家，讓我們一起望見奇蹟的出現！</p><p>這次的創作過程，歡迎大家至奇蹟放送所FB粉專，觀看當時直播的影片唷！由於當時中途斷線的緣故，因此影片分為 <a href="https://reurl.cc/MkLl2L" rel="noopener noreferrer" target="_blank">上集</a> 與 <a href="https://reurl.cc/aN8WX3" rel="noopener noreferrer" target="_blank">下集</a> 兩個部分，可以來看看完整的創作過程，真的是從頭畫到尾！全程現場直播繪畫，讓大家一起見證，也一起在直播中聊天陪伴～<strong>謝謝當時參與直播分享的所有朋友們，無比感恩！</strong>💙</p><figure class="image"><img src="https://assets.matters.news/embed/f85c490d-5947-4b2c-bae8-ac43af5f159d.jpeg" data-asset-id="f85c490d-5947-4b2c-bae8-ac43af5f159d" referrerpolicy="no-referrer"><figcaption><span>水色漫延開來～好像水滴在唱歌💧</span></figcaption></figure><hr><p>在完成這幅作品後，Miracle也才真正開始認真規劃生之花的客製畫服務。經過了連續四個多月的反覆測試與調整修正，終於在今年的2月26日將這項服務的 <a href="https://reurl.cc/mGaNlM" rel="noopener noreferrer" target="_blank">介紹文</a> （或可見文末關聯文章）給分享出來。</p><blockquote><strong>對我來說，能夠創作出〔生之花〕是來自上天贈予的一份禮物。</strong></blockquote><p>在繪畫的創作路上我走了許久許久，當中也發生過好多的故事，我在不斷的自我懷疑中鞭策自己，看著身邊富有天賦的眾多創作者們，甚至曾想過是否就此將所有畫具收起，不要再繼續創作。我從來不認為自己的創作已經達到心目中的「最好」，反而是永遠覺得「還不夠好」。</p><p>學生時期曾經有人評斷過我的畫面太過孤寂，我並不否認，畫作會反應一個人當下的內心狀態，當時的我確實不是為了自己而畫，只是為了交差罷了，對那時的我來說，創作甚至是痛苦的，因為我只是為了考試不斷練習技法，我所學的一切都只是為了升學，術科的分數評比又是很主觀的，完全看評審喜好。</p><p>於是大學我跳脫到不同系所，也確實將所有畫具通通收起，停筆了好一段時光。但那段時間很珍貴，使我重新認清了自己究竟是想要什麼。我終於發現，如果要創作，必須是為了我所堅持的目標而畫、為了我所想分享出去的事物而畫。<strong>當一個人終於能夠跳脫出自我的框架，為更大的善願而發心創作，那麼原先雜亂紛擾的心也就沉靜了下來。</strong></p><p>在身心的磨練中，我不斷地認清自己、調整自己，甚至是挑戰自己。如今的我知道，自己的創作是為了分享更多的善念。</p><p><br></p><blockquote><strong>香氣繪畫</strong>是要讓大家重新看見，那些在身旁始終陪伴著我們的植物們的美好；<br class="smart"><strong>能量繪畫</strong>是要讓各位發現，原來世間善法是如此閃耀著無與倫比的光輝；<br class="smart"><strong>生之花</strong>是為了使見者為之驚艷，還有這種方式能夠讓人重新與自己的內心連結。</blockquote><p><br></p><p><strong>親愛的，我願創作的是一份美好，一份屬於你、屬於我、屬於眾生的世間美好。我從心創作，我為天地而畫，我以筆墨為世界帶來祝福。</strong>不斷審視著自己的每一次創作、不停吸收著各種領域的新知、不到一定的標準絕不妥協。我所做的一切，都是為了確保品質穩定，對的起自己。</p><p>如果是只有奇蹟放送所才能做到的事，Miracle就會去做。我本一介無名小卒，除了專心創作外，未曾想過其他，在因緣際會下，才開啟了這段奇蹟放送所的旅途。這之中，我始終謹記著初心：<strong>放送奇蹟</strong>。</p><figure class="image"><img src="https://assets.matters.news/embed/35551774-a5e4-440f-92a0-dd05de69ee0c.jpeg" data-asset-id="35551774-a5e4-440f-92a0-dd05de69ee0c" referrerpolicy="no-referrer"><figcaption><span>歡迎光臨，這裡是奇蹟放送所。</span></figcaption></figure><p>如果你願意，歡迎來到奇蹟放送所。你的每一句言語、每一次支持，都鼓勵著你我，共同成就彼此。感謝有你的陪伴，讓我們一同感受奇蹟。我在這裡，與你一起。</p><h2><strong>我是Miracle，感謝讀完長篇碎念，讀到這的估計都是真愛了，趕緊給各位來個奇蹟愛心！🌈❤🧡💛💚💙💜🤍💕✨</strong></h2><hr><pre class="ql-syntax" spellcheck="false">※本文發布日期：2022/04/10。同步發於FB、Matters、方格子。
+※著作權所有，欲轉載者務必事先告知，侵權必究。
+</pre><p><strong>【關於我的出沒地點】</strong></p><p>✨ <strong>出沒處索引</strong>：<a href="https://linktr.ee/miraclewu000" rel="noopener noreferrer" target="_blank">FB｜IG｜Matters｜Vocus｜Youtube</a></p><p>✨ <strong>聯絡信箱：miraclewu000@gmail.com</strong></p>  
+</div>
+            
