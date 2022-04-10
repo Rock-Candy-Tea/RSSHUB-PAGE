@@ -1,0 +1,19 @@
+
+---
+title: '逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111440741219.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 10 Apr 2022 02:16:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111440741219.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">众所周知，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>是开放的系统，但<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span>是一个封闭的系统，不允许安装Appstore之外的APP，购买虚拟商品时，必须支持30％的佣金等。</p><p style="text-indent: 2em; text-align: left;">也正因为苹果iOS的封闭，所以一直以来，众多的企业都想咬苹果一口，称苹果的App Store 是垄断，想要把iOS变成安卓一样，随便安装APP，付费苹果不能提成之类的。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111440741219.jpg" title=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" alt=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">于是过去的这些年，围绕Appstore垄断，大家可以说是争斗了好多回合了。</p><p style="text-indent: 2em; text-align: left;">而要苹果放开这个垄断的地方，关键也有两点，第一是放开第三方支付，称要让用户有选择权，以此来绕开30％的苹果税。</p><p style="text-indent: 2em; text-align: left;">第二点则是放开第三方商店或放开侧载，让用户不必一定要从Appstore上下载，就像之前越狱了的iOS系列一样，随便下载APP，随便安装APP。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111441304678.jpg" title=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" alt=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">为何这些企业要这样要求，当然还是利益，毕竟苹果抽走了30％之后，到APP开发者手中的钱就少了，一旦放开第三方支付，APP开发者得到的钱多了。</p><p style="text-indent: 2em; text-align: left;">而放开侧载或开放第三方APP，那么30％的税当然也不用交了，还可以衍生出另外的应用商店来，抢苹果的份额。</p><p style="text-indent: 2em; text-align: left;">但要我说，苹果一旦放开了，APP厂商是开心了，但用户可未必真的开心，手机就不安全了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111441264527.jpg" title=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" alt=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">先说放开第三方支付，这个其实苹果已经在部分地区进行测试了。但一旦放开之后，苹果对这些数据、付费信息等就不再负责了，后续因为交费而产生的售后、维权等，用户就无法找苹果，得找APP厂商了，APP厂商可靠还是苹果可靠，相信大家是有答案的。</p><p style="text-indent: 2em; text-align: left;">放开侧载、放开第三方应用商店后，大家可以像安卓机一样随便安装APP了，这些APP可信么？相信大家心中也是有答案的。</p><p style="text-indent: 2em; text-align: left;">几次315晚上会曝光的WIFI管家、垃圾清理、系统管理等，全是安卓系统上的垃圾软件，一旦苹果放开，相信这些APP马上就会盯上iOS系统。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202204/09111442637402.jpg" title=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" alt=" 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">到时候大家就会有弹不完的广告窗口，清不完的垃圾，删不完的垃圾APP，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span>的所谓安全性也就一去不复返了。</p><p style="text-indent: 2em; text-align: left;">可能大家会谈到减少30％的佣金，这里主要针对的是虚拟产品，比如视频网站的VIP，或者买游戏道具等，电商平台购物、点外卖等，并不会有影响的。</p><p style="text-indent: 2em; text-align: left;">所以对于大部分而言，并不会有太多影响，并且有些VIP是可以通过网站来交费，不一定非得在iPhone上交费，也可以绕过一些，所以并没有那么严重。</p><p style="text-indent: 2em; text-align: left;">可以说对于很多用户而言，放开第三方支付、放开第三方商店、侧载都不是所需要的，更多人需要的是一个安全可靠的iPhone，而不是开放的iOS，绝大部分用iPhone，并不会付费。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 逼iOS开放？APP厂商开心了，但用户不开心，iPhone就不安全了</span></p> 
+  
+</div>
+            
