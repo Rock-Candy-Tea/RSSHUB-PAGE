@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.shields.io/github/stars/psoho/fast-poster?style=social'
 author: 开源中国
 comments: false
-date: Mon, 11 Apr 2022 03:05:00 GMT
+date: Mon, 11 Apr 2022 11:05:00 GMT
 thumbnail: 'https://img.shields.io/github/stars/psoho/fast-poster?style=social'
 ---
 
