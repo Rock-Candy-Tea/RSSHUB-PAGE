@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795'
 author: 巴哈姆特
 comments: false
-date: 2022-04-11 08:11:13
+date: 2022-04-11 09:09:13
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.
 <div>
  </div>
 <div>
-　　日前有爆料者在微博貼出截圖，爆料 Jay 在 LGD 春季例行賽最後兩場賽事中疑似打假賽，故意輸給對手，引發玩家熱烈討論。LPL 賽事紀律管理團隊今日表示，他們於 4 月 5 日接到 LGD 戰隊提報陳波（ID：Jay）涉嫌違規的第一時間，就成立專案地查小組就相關情況深入調查，結果發現，JAY 的確存在影響 LPL 比賽公平性的不正當行為、並參與非法組織的有關《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》賽事的投注，已違反 2022 賽季《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》職業聯賽相關比賽規則，包括涉及假賽、涉及賭博等。</div>
+　　日前有爆料者在微博貼出截圖，爆料 Jay 在 LGD 春季例行賽最後兩場賽事中疑似打假賽，故意輸給對手，引發玩家熱烈討論。LPL 賽事紀律管理團隊今日表示，他們於 4 月 5 日接到 LGD 戰隊提報陳波（ID：Jay）涉嫌違規的第一時間，就成立專案調查小組就相關情況深入調查，結果發現，JAY 的確存在影響 LPL 比賽公平性的不正當行為、並參與非法組織的有關《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》賽事的投注，已違反 2022 賽季《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》職業聯賽相關比賽規則，包括涉及假賽、涉及賭博等。</div>
 <div>
  </div>
 <div>
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 50.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 50.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?v=1649424565795" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/199e406476e712c5dd3917c5ec1fuv45.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
