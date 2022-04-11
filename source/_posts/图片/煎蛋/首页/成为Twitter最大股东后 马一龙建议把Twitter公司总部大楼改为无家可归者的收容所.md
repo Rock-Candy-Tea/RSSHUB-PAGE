@@ -27,6 +27,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/11/a
 <p>Twitter 首席执行官 Parag Agrawal 周二早些时候借助自家平台，透露马斯克将加入该公司的董事会。</p>
 <p>“我很高兴与大家分享@elonmusk 加入我们的董事会！”Agrawal 在推特上写道。“通过最近几周与埃隆的谈话，我们清楚地知道他将为我们的董事会带来巨大的价值。 他既是公共服务事业的热情信徒，又是强烈的批评者，这正是我们在@Twitter 和董事会中所需要的，以使我们长期变得更强大。欢迎埃隆！”</p>
 <blockquote class="wp-embedded-content" data-secret="2hVcJOAerz"><p><a href="https://sanfrancisco.cbslocal.com/2022/04/10/musk-twitter-poll-about-making-twitter-hq-a-homeless-shelter-goes-viral/">Musk Twitter Poll About Making Twitter HQ a Homeless Shelter Goes Viral</a></p></blockquote>
-<p><iframe title="“Musk Twitter Poll About Making Twitter HQ a Homeless Shelter Goes Viral” — CBS San Francisco" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://sanfrancisco.cbslocal.com/2022/04/10/musk-twitter-poll-about-making-twitter-hq-a-homeless-shelter-goes-viral/embed/#?secret=2hVcJOAerz" data-secret="2hVcJOAerz" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>  
+<p><iframe title="“Musk Twitter Poll About Making Twitter HQ a Homeless Shelter Goes Viral” — CBS San Francisco" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://sanfrancisco.cbslocal.com/2022/04/10/musk-twitter-poll-about-making-twitter-hq-a-homeless-shelter-goes-viral/embed/#?secret=2hVcJOAerz" data-secret="2hVcJOAerz" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>紧急更新 Twitter CEO 宣布马一龙不加入董事会了，但还是最大的股东。</p>  
 </div>
             
