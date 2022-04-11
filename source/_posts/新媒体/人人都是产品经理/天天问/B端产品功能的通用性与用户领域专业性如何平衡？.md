@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://wen.woshipm.com/assets/js/plugin/ueditor1.4.3/dialogs/emotion/images/ldw/w_0005.gif'
+headimg: 'https://picsum.photos/400/300?random=663'
 author: 人人都是产品经理
 comments: false
-date: Sun, 10 Apr 2022 15:09:53 GMT
-thumbnail: 'https://wen.woshipm.com/assets/js/plugin/ueditor1.4.3/dialogs/emotion/images/ldw/w_0005.gif'
+date: Mon, 11 Apr 2022 00:40:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=663'
 ---
 
 <div>   
-<p>如题<img src="https://wen.woshipm.com/assets/js/plugin/ueditor1.4.3/dialogs/emotion/images/ldw/w_0005.gif" referrerpolicy="no-referrer"></p>  
+B端产品功能的通用性与用户领域专业性如何平衡？  
 </div>
             
