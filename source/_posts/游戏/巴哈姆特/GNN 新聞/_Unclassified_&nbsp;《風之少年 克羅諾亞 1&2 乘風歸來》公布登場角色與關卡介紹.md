@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?v=1649681845797'
 author: 巴哈姆特
 comments: false
-date: 2022-04-11 13:21:48
+date: 2022-04-11 14:08:31
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?v=1649681845797'
 ---
 
@@ -21,23 +21,19 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.
 <div>
  </div>
 <div>
-<span style="color:#b22222;"><span style="font-size:13px;">※ 其他平台版本上市日期未定</span></span></div>
-<div>
- </div>
+<span style="color:#b22222;"><span style="font-size:13px;">※ 其他平台版本上市日期未定。</span></span></div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 64.52%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?v=1649681845797" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 64.52%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?v=1649681845797" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
+<h1>
+《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E5%B0%91%E5%B9%B4" target="_blank">風之少年</a> <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=door" target="_blank">door</a> to phantomile》</h1>
 <div>
  </div>
 <h2>
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E5%B0%91%E5%B9%B4" target="_blank">風之少年</a> <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=door" target="_blank">door</a> to phantomile》</h2>
-<div>
- </div>
-<h3>
-角色介紹</h3>
+角色介紹</h2>
 <div>
  </div>
 <h3>
@@ -88,8 +84,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.
 <div class="bh-grids-img-box" style="width: 99.87%;">
  </div>
 </div>
-<h3>
-關卡介紹</h3>
+<h2>
+關卡介紹</h2>
 <div>
  </div>
 <h3>
@@ -158,12 +154,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.
 <div class="bh-grids-img-box" style="width: 99.87%;">
  </div>
 </div>
-<h2>
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E5%B0%91%E5%B9%B4" target="_blank">風之少年</a> 2 Lunatea's Veil》</h2>
+<h1>
+《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E5%B0%91%E5%B9%B4" target="_blank">風之少年</a> 2 Lunatea's Veil》</h1>
 <div>
  </div>
-<h3>
-角色介紹</h3>
+<h2>
+角色介紹</h2>
 <div>
  </div>
 <h3>
@@ -197,8 +193,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.
 <div class="bh-grids-img-box" style="width: 99.87%;">
  </div>
 </div>
-<h3>
-關卡介紹</h3>
+<h2>
+關卡介紹</h2>
 <div>
  </div>
 <h3>
@@ -271,18 +267,18 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/2bb3565d0de0ce2065b335d0fc1fv815.
 <li>
 遊戲名稱：<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E5%B0%91%E5%B9%B4+%E5%85%8B%E7%BE%85%E8%AB%BE%E4%BA%9E+1%262+%E4%B9%98%E9%A2%A8%E6%AD%B8%E4%BE%86" target="_blank">風之少年 克羅諾亞 1&2 乘風歸來</a></li>
 <li>
-發售日：Nintendo Switch 版 2022 年 7 月 7 日<br>
-　　　　PlayStation 5／PlayStation 4／Xbox Series X|S／Xbox One／STEAM 版 未定</li>
+發售日期：Nintendo Switch 版 2022 年 7 月 7 日<br>
+　　　　　PlayStation 5／PlayStation 4／Xbox Series X|S／Xbox One／STEAM 版 未定</li>
 <li>
-發行商：Bandai Namco Entertainment Inc.</li>
+發行廠商：Bandai Namco Entertainment Inc.</li>
 <li>
 台灣發行：Bandai Namco Entertainment Taiwan Ltd.</li>
 <li>
 香港發行：Bandai Namco Entertainment Hong Kong Ltd.</li>
 <li>
-平台：Nintendo Switch / PlayStation 5 / PlayStation 4 / Xbox Series X|S / Xbox One / STEAM</li>
+對應平台：Nintendo Switch / PlayStation 5 / PlayStation 4 / Xbox Series X|S / Xbox One / STEAM</li>
 <li>
-類型：動作遊戲</li>
+遊戲類型：動作遊戲</li>
 <li>
 遊玩人數：離線遊玩 1～2 人 / 不支援連線遊玩</li>
 <li>
