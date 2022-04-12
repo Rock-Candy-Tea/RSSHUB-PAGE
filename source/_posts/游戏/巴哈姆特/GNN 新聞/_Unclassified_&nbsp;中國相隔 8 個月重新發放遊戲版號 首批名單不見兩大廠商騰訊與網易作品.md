@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/12/e11ef7e26bcd7387207680b2ee1fvog5.JPG?v=1649739576788'
 author: 巴哈姆特
 comments: false
-date: 2022-04-12 05:08:17
+date: 2022-04-12 06:11:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/12/e11ef7e26bcd7387207680b2ee1fvog5.JPG?v=1649739576788'
 ---
 
@@ -18,11 +18,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/12/e11ef7e26bcd7387207680b2ee1fvog5.
 <div>
 <div>
 <div>
-　　中國遊戲產業期盼許久、停擺八個月的遊戲版號重新啟動發放。<a href="https://www.nppa.gov.cn/nppa/contents/320/103799.shtml" target="_blank">中國國家新聞出版署昨（11）日晚間公告</a> 4 月網路遊戲審批訊息，共發放了 45 款遊戲版號。</div>
+　　中國遊戲產業期盼許久、停擺 8 個月的遊戲版號重新啟動發放。<a href="https://www.nppa.gov.cn/nppa/contents/320/103799.shtml" target="_blank">中國國家新聞出版署昨（11）日晚間公告</a> 4 月網路遊戲審批訊息，共發放了 45 款遊戲版號。</div>
 <div>
  </div>
 <div>
-　　中國自從去年 7 月遊戲版號停止發放以來，已經超過 8 個月停止遊戲版號審核發放作業，加上中國積極施展未成年人保護政策的壓力下，讓中國遊戲產業去年面臨嚴苛考驗。</div>
+　　中國自從去年 7 月遊戲版號停止發放以來，已經超過 8 個月停止遊戲版號審核發放作業，加上中國積極施展未成年人保護政策的壓力下，讓中國遊戲產業去年面臨嚴峻考驗。</div>
 <div>
  </div>
 <div>
