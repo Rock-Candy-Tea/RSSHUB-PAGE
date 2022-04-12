@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20220412/1649733480_651955.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220412/1649734081_613706.png'
 author: 3DMGame
 comments: false
 date: Tue, 12 Apr 2022 03:20:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220412/1649733480_651955.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220412/1649734081_613706.png'
 ---
 
 <div>   
@@ -17,7 +17,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220412/1649733480_6519
 微信作为国民级App，每次改动都会引起热议。近日有网友发现，微信在状态中偷偷上线了“农场”功能，大家可以在朋友圈养鸡鸭鹅等动物了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_651955.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649734081_613706.png" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+该操作被曝光后，引发网友激烈讨论，话题冲上微博热搜第一。这也让微信官方关注到，并通过“微信派”官方公众号发文宣布：“微信农场”开业啦(就是这么突然地)。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649734042_361719.png" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 下面是微信状态如何设置“微信农场”的简单方法：
@@ -44,16 +50,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220412/1649733480_6519
 该功能上线后，许多网友开始吐槽这是抄袭QQ，简直是“抄麻了”。不过目前该功能与QQ农场/牧场相比还是相差甚远，只是一种伪装农场的展示功能而已。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_349579.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_349579.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_692200.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_692200.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_225309.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_225309.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_149647.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220412/1649733480_149647.jpg" alt="微信农场偷偷上线你玩了吗？网友：QQ被抄麻了" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
