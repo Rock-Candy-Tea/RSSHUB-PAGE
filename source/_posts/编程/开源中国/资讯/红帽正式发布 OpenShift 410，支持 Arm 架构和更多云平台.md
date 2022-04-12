@@ -61,8 +61,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-cb3fe1d581daed3d6981352be22b5eb
 <p>新版本扩展了受支持的云平台，包括 IBM Cloud（技术预览阶段）、阿里云（技术预览阶段）和 Azure Stack Hub。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-6b5ce2f0597462ec0b81c5ecd55ab78fe75.png" referrerpolicy="no-referrer"></p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-4be7393154f6fe70b5fcbdea7f50729f20b.png" referrerpolicy="no-referrer"></p> 
-<p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Faccess.redhat.com%2Fdocumentation%2Fzh-cn%2Fopenshift_container_platform%2F4.10%2Fhtml%2Frelease_notes%2Focp-4-10-release-notes" target="_blank">详细更新内容查看 release note</a>。</p> 
-<p> </p>
+<p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Faccess.redhat.com%2Fdocumentation%2Fzh-cn%2Fopenshift_container_platform%2F4.10%2Fhtml%2Frelease_notes%2Focp-4-10-release-notes" target="_blank">详细更新内容查看 release note</a>。</p>
                                         </div>
                                       
 </div>
