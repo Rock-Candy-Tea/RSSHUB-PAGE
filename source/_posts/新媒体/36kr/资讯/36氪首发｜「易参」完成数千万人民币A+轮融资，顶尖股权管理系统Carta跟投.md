@@ -1,0 +1,36 @@
+
+---
+title: '36氪首发｜「易参」完成数千万人民币A+轮融资，顶尖股权管理系统Carta跟投'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=5682'
+author: 36kr
+comments: false
+date: Tue, 12 Apr 2022 00:30:38 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5682'
+---
+
+<div>   
+<p>36氪获悉，<strong>一站式股权激励及管理平台「易参」宣布完成数千万人民币的 A+ 轮融资，由保利资本和某产业基金领投，顶尖股权管理平台 Carta 跟投，星涵资本担任长期独家财务顾问。</strong>本轮融资前，<a class="project-link" data-id="1678479227286528" data-name="易参" data-logo="https://img.36krcdn.com/20201123/v2_a62ee58f65eb4cbd8e3e2dae246eae1a_img_000" data-refer-type="1" href="https://36kr.com/project/1678479227286528" target="_blank">易参</a>于 2021 年 3 月获得腾讯投资领投的 A 轮融资。</p> 
+<p>本轮融资的主要跟投方「Carta」是一家股权管理平台，最新估值已经超过 74 亿美金。<strong>在 Carta 的支持下，易参将进一步提升股权管理系统的服务能力和产品能力，并与 Carta 协同推进股权管理全球化布局。</strong></p> 
+<p>本轮融资后，易参将进一步提升产品服务能力，<strong>一是加大 SaaS 产品的研发投入，</strong>尤其是增值服务的产品化，实现规模化服务更<a class="project-link" data-id="1678365802427396" data-name="多客" data-logo="https://img.36krcdn.com/20220331/v2_aab2a0c12b4d4530a24a9a7cf132a59b_img_000" data-refer-type="1" href="https://36kr.com/project/1678365802427396" target="_blank">多客</a>户；<strong>二是提升推出更多增值服务，</strong>以满足不同类型客户的股权需求；<strong>三是逐步建立股权服务生态，与合作伙伴联手，</strong>为客户提供更好的一站式股权激励和管理服务。</p> 
+<p>易参<a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/1151558586500231">是36氪持续关注的创业公司</a>，成立于 2017 年，公司定位为一站式股权激励及管理服务平台，帮助企业设计股权激励方案及管理股权资产，用股权激发人的价值。</p> 
+<p>股权管理和交易服务在美国是很大的市场。根据《Carta 2021 年度股权流动性报告》，Carta 平台上完成了 129 笔股权交易，是 2020 年的 4 倍多。同时，全球独角兽公司已经超过 1000 家，这意味着员工和其他股东对股权流动性的需求将会越来越旺盛。</p> 
+<p>同时，随着国内公司治理水平的提升，股权激励以及相应管理配套正在成为企业与员工的刚需。股权激励作为一种财富分配方式，已经成为科学成果转化的重要方式。</p> 
+<p>但是相比美国市场，中国的股权服务市场相对早期。目前，市面上的产品主要分为两类：一类是将股权激励定位为“类咨询”业务，不做算法不做大数据，系统只是咨询方案中的一个工具；另一类则是将股权激励定位为纯 SaaS 业务，弱化咨询服务甚至完全放弃，而是采用咨询外包的形式。</p> 
+<p>易参创始人黄怡然告诉36氪，<strong>股权激励是一个非常复杂的流程，从授予、归属到行权、回购等各个环节都会涉及非常多的数据支持和沟通工作，每个环节的交付质量都会影响客户体验，非常考验技术壁垒和落地能力，需要企业具备真正的核心技术和服务深度。</strong>这意味着股权激励流程非常复杂，但很多公司在这些环节的管理中普遍处于蛮荒阶段，能做好的服务商也寥寥无几。</p> 
+<p>与上一轮融资相比，易参主要在几个方面有重大更新变化：</p> 
+<p><strong>在产品层面，</strong>易参认为其股权管理系统打通了一二级市场，客户公司可以直接使用易参的系统去管理上市后的 ESOP 计划，同时，易参还与境内外等多家头部券商达成了战略合作，可以支持境内外上市公司及拟上市公司在上市前后的股权管理和流通需求。</p> 
+<p>易参部分客户的体量已经达到了上市和被并购的程度，会出现股权流动性的需求。同时从股权的特性上看，股权价值的最大化通常是在上市或并购的时点，如果股权激励的体系无法和公司的高光时刻挂钩，激励效果就非常有限。</p> 
+<p>因此，打通二级市场，可以帮助企业提前完成上市需求中的股权穿透审查和激励计划梳理，不仅能满足合规性的要求，更能极大地提升管理效率。对于员工股东而言，开通了流通渠道，意味着股权价值将与收益挂钩，激励效果会更加明显。</p> 
+<p>在增值服务方面，易参在现有服务体系的基础上，基于客户需求推出了股权回购、股权架构设计、虚拟股、员工访谈、持股平台搭建等一系列新业务，可以在现有客户群体的基础上服务更多人群，同时这些新业务也相对容易标准化，便于融入易参的产品体系。</p> 
+<p><strong>在提供更丰富股权服务的同时，易参还基于核心客户的需求延展，逐步建立起股权服务生态，以满足客户的更多需求。</strong>目前，易参已逐步完成股权融资、FA、财税、人力、银行、信托、法律事务等多项服务开拓，进一步扩大服务边界，并引入了部分第三方供应商，主要以战略合作的形式，以保证服务效果。目前，易参与多家银行、券商、信托公司、律师事务所、会计师事务所等建立了深度合作关系，为客户提供全面的一站式股权服务。</p> 
+<p>2021<a href="https://36kr.com/p/1681231341797120#_msocom_1" rel="noopener noreferrer nofollow">[1]</a>年，易参在深圳、上海成立办公室，在北上广深杭等多个全国主要的一二线城市联动运营，企业需求响应更加及时。</p> 
+<p>在客户画像上，前几年易参的主<a class="project-link" data-id="1679746784514818" data-name="要客" data-logo="https://img.36krcdn.com/20220401/v2_fc1e7cb8e7ab4e108756ba96ce82b6a0_img_000" data-refer-type="1" href="https://36kr.com/project/1679746784514818" target="_blank">要客</a>户集中在科技互联网、新消费、企业服务等行业，但去年以来，易参服务了大量硬科技行业，如先进制造、医疗健康、芯片、碳中和行业的企业。黄怡然表示，硬科技行业和“专精特新”公司是国家重点支持的对象，资金密度和人才密度很高，人才竞争激烈，亟需股权激励来激发人才价值。</p> 
+<p>目前，易参已为 1500+ 企业提供咨询前置、SaaS 落地的标准化一站式股权激励解决方案，inX 系统已有 30000+ 注册用户，客单价在 5~20<a href="https://36kr.com/p/1681231341797120#_msocom_2" rel="noopener noreferrer nofollow">[2]</a>万，续约率达到 80%<a href="https://36kr.com/p/1681231341797120#_msocom_3" rel="noopener noreferrer nofollow">[3]</a>。标杆客户包括爱泊车、<a class="project-link" data-id="1679768406889225" data-name="踏歌智行" data-logo="https://img.36krcdn.com/20220329/v2_dbdeed1720f94457b0d3bf5086cb295b_img_png" data-refer-type="1" href="https://36kr.com/project/1679768406889225" target="_blank">踏歌智行</a>、<a class="project-link" data-id="1678228790866949" data-name="一手" data-logo="https://img.36krcdn.com/20190422/v2_1555918125802_img_000" data-refer-type="1" href="https://36kr.com/project/1678228790866949" target="_blank">一手</a>、<a class="project-link" data-id="1678493406442499" data-name="智慧芽" data-logo="https://img.36krcdn.com/20220331/v2_b8ff2a926c1b433abcc49abc5bd03585_img_000" data-refer-type="1" href="https://36kr.com/project/1678493406442499" target="_blank">智慧芽</a>、云鲸、<a class="project-link" data-id="1679736941073159" data-name="薪人薪事" data-logo="https://img.36krcdn.com/20220401/v2_d5da6072039d4f04a71a7c75956c1d56_img_000" data-refer-type="1" href="https://36kr.com/project/1679736941073159" target="_blank">薪人薪事</a>、易酒批、震坤行、<a class="project-link" data-id="1679799231435529" data-name="锐锢商城" data-logo="https://img.36krcdn.com/20220401/v2_3b16a13e7f7e47598dbe17c2e48d564e_img_000" data-refer-type="1" href="https://36kr.com/project/1679799231435529" target="_blank">锐锢商城</a>、百布、劳勤、众盟、<a class="project-link" data-id="1678457090929669" data-name="指掌易" data-logo="https://img.36krcdn.com/20220329/v2_dbdeed1720f94457b0d3bf5086cb295b_img_png" data-refer-type="1" href="https://36kr.com/project/1678457090929669" target="_blank">指掌易</a>、<a class="project-link" data-id="1679717532128004" data-name="艺妙神州" data-logo="https://img.36krcdn.com/20220401/v2_99265cf49b614f9ca9927e6371e59cf8_img_000" data-refer-type="1" href="https://36kr.com/project/1679717532128004" target="_blank">艺妙神州</a>、开思、<a class="project-link" data-id="1678236140352514" data-name="三节课" data-logo="https://img.36krcdn.com/20200626/v2_ba28617537474b06a47788e2bd28c903_img_000" data-refer-type="1" href="https://36kr.com/project/1678236140352514" target="_blank">三节课</a>、<a class="project-link" data-id="1679719422612226" data-name="艾柯医疗" data-logo="https://img.36krcdn.com/20220401/v2_85f9ca591945418fa8305d6b5f09bd5d_img_000" data-refer-type="1" href="https://36kr.com/project/1679719422612226" target="_blank">艾柯医疗</a>、<a class="project-link" data-id="1678350378218504" data-name="唯迈医疗" data-logo="https://img.36krcdn.com/20200909/v2_d21aef8887d24d5d890050d86690ceda_img_000" data-refer-type="1" href="https://36kr.com/project/1678350378218504" target="_blank">唯迈医疗</a>、<a class="project-link" data-id="1678523418145796" data-name="每日黑巧" data-logo="https://img.36krcdn.com/20220331/v2_41a75182e2c742fa9b10f1f3bbc0c260_img_000" data-refer-type="1" href="https://36kr.com/project/1678523418145796" target="_blank">每日黑巧</a>、<a class="project-link" data-id="1678217533977604" data-name="Mood" data-logo="https://img.36krcdn.com/20220331/v2_c794f09174ee4faca9ca83996933b02f_img_000" data-refer-type="1" href="https://36kr.com/project/1678217533977604" target="_blank">Mood</a>y、<a class="project-link" data-id="1679798423950085" data-name="锅圈食汇" data-logo="https://img.36krcdn.com/20220401/v2_26d41d991b094a00b03bb571e68fc7c7_img_000" data-refer-type="1" href="https://36kr.com/project/1679798423950085" target="_blank">锅圈食汇</a>、好特卖、小仙炖等各行业头部和各赛道独角兽企业。</p> 
+<p>保利资本副总经理李文轩表示：“随着国内创业企业股权激励意识觉醒、创业者对股权激励概念有更加清晰的认识，股权管理和交易服务将成为 HR 领域的热门赛道，专业性强、能够迅速标准化推广的企业将迎来快速发展机会。易参作为股权激励及管理领域头部企业，在客户数量、留存、复购等方面交出了一份优质的答卷，同时近几年业务线有序落地，不断深化与下游券商伙伴的合作，领先优势愈发突出。未来我们持续看好易参在股权激励管理领域的布局，期待易参与服务的初创企业共同进步，推动创业浪潮的规范化、健康化发展。”</p> 
+<p> </p>  
+</div>
+            

@@ -5,16 +5,16 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=9344'
+headimg: 'https://picsum.photos/400/300?random=2595'
 author: Paul Graham 博客
 comments: false
-date: 2022-04-11 15:11:00
-thumbnail: 'https://picsum.photos/400/300?random=9344'
+date: 2022-04-12 00:37:01
+thumbnail: 'https://picsum.photos/400/300?random=2595'
 ---
 
 <div>   
 April 2022<br><br>One of the most surprising things I've witnessed in my lifetime is
-the rebirth of the concept of heresy.<br><br>In his excellent life of Newton, Richard Westfall writes about the
+the rebirth of the concept of heresy.<br><br>In his excellent biography of Newton, Richard Westfall writes about the
 moment when he was elected a fellow of Trinity College:
 <blockquote>
   Supported comfortably, Newton was free to devote himself wholly
@@ -162,11 +162,11 @@ All we have
 to do is keep pushing back, and the wave collapses. And then we'll
 be net ahead, because as well as having defeated this wave, we'll
 also have developed new tactics for resisting the next one.<br><br><br><br><br><br><br><br><br><br><b>Notes</b><br><br>[<a name="f1n" href="http://www.paulgraham.com/undefined"><font color="#000000">1</font></a>] 
-Or more accurately, lives of Newton, since Westfall wrote
+Or more accurately, biographies of Newton, since Westfall wrote
 two: a long version called <i>Never at Rest</i>, and a shorter one called
 <i>The Life of Isaac Newton</i>. Both are great. The short version moves
 faster, but the long one is full of interesting and often very funny
-details. This passage is the same in both.<br><br>[<a name="f2n" href="http://www.paulgraham.com/undefined"><font color="#000000">2</font></a>] 
+details. This passage is the same in both.<br><br>[<a name="f2n" href="http://www.paulgraham.com/undefined"><font color="#000000">2</font></a>]
 Another more subtle but equally damning bit of evidence is
 that claims of x-ism are never qualified. You never hear anyone say
 that a statement is "probably x-ist" or "almost certainly y-ist."

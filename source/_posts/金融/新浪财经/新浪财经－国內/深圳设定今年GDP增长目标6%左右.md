@@ -1,0 +1,93 @@
+
+---
+title: '深圳设定今年GDP增长目标6%左右'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/spider20220412/360/w700h460/20220412/bc29-cb94d33c616b7e406aee1a6c9bb90c28.jpg'
+author: 新浪财经
+comments: false
+date: Tue, 12 Apr 2022 00:31:35 GMT
+thumbnail: 'https://n.sinaimg.cn/spider20220412/360/w700h460/20220412/bc29-cb94d33c616b7e406aee1a6c9bb90c28.jpg'
+---
+
+<div>   
+<p>　　原标题 深圳设定今年GDP增长目标6%左右</p>
+<div class="img_wrapper"><img id="0" src="https://n.sinaimg.cn/spider20220412/360/w700h460/20220412/bc29-cb94d33c616b7e406aee1a6c9bb90c28.jpg" alt="　　郭晨凯 制图" referrerpolicy="no-referrer"><span class="img_descr">　　郭晨凯 制图</span></div>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">力争新增境内外上市公司30家以上</font></p>
+<p cms-style="font-L">　　2022年，深圳将健全市场主体梯度培育体系，落实培育壮大市场主体30条。新增国家高新技术企业500家、国家级专精特新“小巨人”企业100家，新增境内外上市公司30家以上，新培育“独角兽”企业5家。</p>
+<p cms-style="font-L">　　“2022年深圳GDP增长预期目标是6%左右。”深圳在“重启”之后公布了今年的经济发展目标。</p>
+<p cms-style="font-L">　　经济总量迈上3万亿台阶，首次跻身世界经济前十强城市，不久前罕见地按下“慢行键”的深圳，将如何实现新的加速度呢？</p>
+<p cms-style="font-L">　　正在进行的深圳两会，给出了答案。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">全面计划护航增长目标</font></p>
+<p cms-style="font-L">　　4月11日，深圳市市长覃伟中在作政府工作报告时说，2021年，深圳经济高质量发展迈上新台阶，全市地区生产总值3.07万亿元、增长6.7%，两年平均增长4.9%。在新增减税降费734亿元基础上，深圳辖区一般公共预算收入仍增长13.5%至1.11万亿元，首次突破万亿元大关。</p>
+<p cms-style="font-L">　　2022年，深圳经济社会发展主要预期目标是：地区生产总值增长6%左右，较2021年提出的6.5%预期增速目标下调0.5个百分点，但仍高于全国GDP预期增长5.5%左右的水平，同时也高于北京、上海和广州三大一线城市。</p>
+<p cms-style="font-L">　　为了完成目标，深圳将实施推动经济社会高质量发展计划——</p>
+<p cms-style="font-L">　　抢抓“双改”示范重大机遇，纵深推进改革开放。以深圳综合改革试点牵引全面深化改革，全面完成首批授权事项，推动出台第二批授权事项清单；全面深化前海合作区改革开放，争取前海合作区新一轮总体发展规划获批。</p>
+<p cms-style="font-L">　　发挥全过程创新生态链整体效应，建设具有全球影响力的科技和产业创新高地。力争基础研究占全社会研发投入比重提高到5%以上，着力提升原始创新能力；新开展50个以上关键核心技术攻关项目，着力提升协同创新能力；推动出台河套深港科技创新合作区深圳园区发展规划，着力提升开放创新能力。</p>
+<p cms-style="font-L">　　坚持制造业立市之本，增强现代产业体系竞争力。完善金融支持战略性新兴产业政策体系，力争战略性新兴产业增加值达1.3万亿元，将分类梯次培育发展未来产业，开展前沿技术研发，开辟战略性新兴产业发展新蓝海。</p>
+<p cms-style="font-L">　　实施扩大内需战略，增强畅通国内国际双循环功能。全年基础设施投资2200亿元、新基建投资1000亿元；全年社消零总额突破1万亿元；全年进出口总额增长2%，实际利用外资100亿美元。</p>
+<p cms-style="font-L">　　深入打好污染防治攻坚战和生态文明建设持久战。有序推进港口作业机械、泥头车、环卫车辆等新能源化，新增新能源汽车11.5万辆，PM2.5年平均浓度18微克/立方米、力争更好；出台碳达峰实施方案，实施重点行业领域降碳行动；力争清洁能源占比提高1个百分点等。</p>
+<p cms-style="font-L">　　此外，深圳还计划在城市品质、民生、文化、法治、党建等领域推出一系列新举措。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">新增境内外上市公司超30家</font></p>
+<p cms-style="font-L">　　“2022年，深圳要全力落实减税降费各项政策措施，服务企业、放水养鱼，让千千万万的市场主体活力进发。”覃伟中说。</p>
+<p cms-style="font-L">　　2021年，深圳综合改革试点取得重要进展，深交所恢复主板发行上市功能，主板和中小板合并，全国首批基础设施公募不动产投资信托基金试点等改革取得突破，不断释放发展活力。</p>
+<p cms-style="font-L">　　据深圳市中小企业服务局统计，2021年深圳新增境内外上市企业47家，创年新增数量的历史新高。深圳境内外上市企业合计达495家，在深圳主板和创业板上市的企业总量连续15年排在国内大中城市首位。</p>
+<p cms-style="font-L">　　覃伟中表示，2022年，深圳将健全市场主体梯度培育体系，落实培育壮大市场主体30条，扎实推进“个转企”“小升规”“规做精”“优上市”，实施企业上市发展“星耀鹏城”计划。新增国家高新技术企业500家、国家级专精特新“小巨人”企业100家，新增境内外上市公司30家以上，新培育“独角兽”企业5家。</p>
+<p cms-style="font-L">　　覃伟中说，深圳将持续加大金融服务实体经济力度，强化投贷联动，新增小微企业首贷户2万户、普惠小微企业贷款2000亿元以上。</p>
+<p cms-style="font-L">　　“我们要通过不懈努力，稳住制造业的基本盘，让制造业空间得到更好保障，让搞实体经济的企业更有信心、更有希望。”覃伟中表示。</p>
+<p cms-style="font-L">　　2022年，深圳将加大以先进制造业为主的工业投资力度，建成投产<span id="stock_sh688981"><a href="https://finance.sina.com.cn/realstock/company/sh688981/nc.shtml" class="keyword" target="_blank" data-sudaclick="content_marketkeywords_p">中芯国际</a></span><span id="quote_sh688981"></span>12英寸线、华星光电T7二期等项目，开工建设5个百亿级、10个30亿元以上重大工业项目，全面完成工业园区转供电改造，全年工业投资增长12%以上。</p>
+<p cms-style="font-L">　　同时，深圳将推进先进制造业与工业互联网深度融合创新，推动制造业数字化转型发展，打造一批灯塔工厂，建设国家人工智能创新应用先导区和国家数字经济创新发展试验区等。</p><!-- news_keyword_pub,stock,sh688981 -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：蒋晓桐 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            
