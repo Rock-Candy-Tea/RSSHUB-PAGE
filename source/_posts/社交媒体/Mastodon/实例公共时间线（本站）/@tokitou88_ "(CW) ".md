@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/117/998/287/389/422/original/98d72b5f3cf767f3.png'
+headimg: 'https://picsum.photos/400/300?random=1966'
 author: Mastodon
 comments: false
-date: Tue, 12 Apr 2022 07:49:30 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/117/998/287/389/422/original/98d72b5f3cf767f3.png'
+date: Tue, 12 Apr 2022 08:54:03 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1966'
 ---
 
 <div>   
-<hr><p>おかしいだろ！！！！！！<br>振れ幅ホームランじゃねぇよ！！！！！！<br>なんなんだよ！！！！！！犯すぞ！！！！！！うわああああああああああああん！！！！！！！！！！</p><br><img src="https://img.pawoo.net/media_attachments/files/108/117/998/287/389/422/original/98d72b5f3cf767f3.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/117/998/355/999/938/original/d4c241287399d71f.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><br><video src="https://img.pawoo.net/media_attachments/files/108/118/251/614/821/385/original/8bb69c1a5b186553.mp4" controls loop>video </video>  
 </div>
             
