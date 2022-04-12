@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220328/19e06e38170247cda716a074a1db9692.png'
 author: Dockone
 comments: false
-date: 2022-04-12 02:29:53
+date: 2022-04-12 03:27:38
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220328/19e06e38170247cda716a074a1db9692.png'
 ---
 
@@ -37,7 +37,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 </div>
 <br>
 <em>图二 用9展示SRE</em><br>
-<br>99.9%是三个9的正常运行时间，允许每天有1.44s的停机时间。如上表所示，每周、每月和每年的停机时间分别为10.1分钟、43.8分钟和8.78小时。<br>
+<br>99.9%是三个9的正常运行时间，允许每天有1.44分钟的停机时间。如上表所示，每周、每月和每年的停机时间分别为10.1分钟、43.8分钟和8.78小时。<br>
 <br>例如，SLA可以保证电信线路99.9%的正常运行时间；因此，服务只能减少0.1%的停机时间，超过这一时间将被视为违反SLA，后果将是罚款。<br>
 <h3>减轻工作负担并控制SRE团队的工作量</h3>SRE团队中总会存在一些手动、乏味的事情需要执行。在你的日常工作中，无论你是软件开发人员还是架构师，你都需要完成自己不喜欢的这类任务。这些通常是手动的、无聊的和重复的任务也可能会导致错误。SRE团队也必须执行类似的任务。这是SRE可以使用他们的开发技能并尽可能消除手动流程的一个实例。让SRE花费多达50%的时间来改进他们管理的系统是一种很好的做法。<br>
 <h3>错误预算</h3>错误预算是SRE团队用来平衡服务可靠性的工具，计算如下：<br>

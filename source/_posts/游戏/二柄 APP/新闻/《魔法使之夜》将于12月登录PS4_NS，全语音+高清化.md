@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://erbingeditor.diershoubing.com/202204120941285251html_img.blob'
+headimg: 'https://erbingeditor.diershoubing.com/6/2022/04/12/1037424553.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-04-12 02:29:42
-thumbnail: 'https://erbingeditor.diershoubing.com/202204120941285251html_img.blob'
+date: 2022-04-12 03:27:29
+thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/04/12/1037424553.jpg'
 ---
 
 <div>   
@@ -19,6 +19,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/202204120941285251html_img.blo
 静希草十郎　CV：小林裕介
 久万梨金鹿　CV：安済知佳
 槻司鸢丸　CV：深町寿成
-木乃美芳助　CV：梶川翔平<br><img src="https://erbingeditor.diershoubing.com/202204120941285251html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941334623html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941347655html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941345326html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941347042html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941346252html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941340842html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941344257html_img.blob" referrerpolicy="no-referrer">  
+木乃美芳助　CV：梶川翔平<br><img src="https://erbingeditor.diershoubing.com/6/2022/04/12/1037424553.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941334623html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941347655html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941345326html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941347042html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941346252html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941340842html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202204120941344257html_img.blob" referrerpolicy="no-referrer">  
 </div>
             

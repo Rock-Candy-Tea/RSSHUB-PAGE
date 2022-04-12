@@ -1,0 +1,19 @@
+
+---
+title: '《任天堂Switch运动》发布新CM 游戏4月29日发售'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0412/8aecd7f4672afcd.png'
+author: cnBeta
+comments: false
+date: Tue, 12 Apr 2022 03:04:23 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0412/8aecd7f4672afcd.png'
+---
+
+<div>   
+《任天堂Switch运动》将于4月29日发售，任天堂官方今日发布了游戏新的CM“Run This House” 。此次同样是介绍游戏中网球、斗剑、保龄球、足球、排球和羽毛球等六项运动，但与前日发布的日版CM不同。日版CM侧重体现了好友，家人之间游玩游戏时的温馨快乐，而本次的CM则是让玩家体验到《任天堂Switch运动》带来运动本身的动感魅力。<br>
+<p style="text-align: left;"><strong>游戏CM</strong></p><p style="text-align: left;"><iframe height="480" width="640" src="https://player.youku.com/embed/XNTg1OTg4OTgxMg?client_id=5a73c0df8eb0d91d" frameborder="0"></iframe></p><p style="text-align: left;">在游戏中，玩家可以与家人和朋友在本地或在线联机中享受《<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.jd.com/pinpai/14671.html" target="_blank">任天堂</a>Switch运动》的六个运动项目！用一个Joy-Con手柄就可以进行的直观操控。面对远近的运动竞争对手赚取奖励，或瞄准久负盛名的职业联盟！第七项运动：高尔夫，将在今年秋季加入游戏。</p><p style="text-align: left;"><strong>视频截图</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/8aecd7f4672afcd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/8aecd7f4672afcd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/8aecd7f4672afcd.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/f87a2769494741a.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/f87a2769494741a.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/f87a2769494741a.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/34db4aea7db928b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/34db4aea7db928b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/34db4aea7db928b.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/b483835bc70caa1.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/b483835bc70caa1.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/b483835bc70caa1.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/583d50ea1e48967.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/583d50ea1e48967.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/583d50ea1e48967.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/019858c3841d2ed.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/019858c3841d2ed.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/019858c3841d2ed.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/7bb3c0417585b1d.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/7bb3c0417585b1d.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/7bb3c0417585b1d.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0412/a6246d34882c348.png"><img data-original="https://static.cnbetacdn.com/article/2022/0412/a6246d34882c348.png" src="https://static.cnbetacdn.com/thumb/article/2022/0412/a6246d34882c348.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

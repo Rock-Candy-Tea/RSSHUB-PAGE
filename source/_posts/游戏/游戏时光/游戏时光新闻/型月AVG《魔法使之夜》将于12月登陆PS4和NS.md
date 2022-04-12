@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/04/12/220412072702970_u1628
 
                 
                 
-                    <div class="topicContent front_content sort_content">型月官方杂志《TYPE-MOON Ace》透露旗下《魔法使之夜》重制版游戏将于今年12月登陆PS4和Switch平台。本作是2012年在PC平台发售的视觉小说，本次重制加入了更加高清的画面和全语音，并确认支持简繁中文，本作改编剧场版动画也将于2023年下半年上映。</div>
+                    <div class="topicContent front_content sort_content">型月官方杂志《TYPE-MOON Ace》透露旗下《魔法使之夜》高清版游戏将于今年12月登陆PS4和Switch平台。本作是2012年在PC平台发售的视觉小说，本次重制加入了更加高清的画面和全语音，并确认支持简繁中文，本作改编剧场版动画也将于2023年下半年上映。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/04/12/220412072702970_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/04/12/220412072702970_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>

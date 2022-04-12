@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/invision-kanban-boards/'
 author: Inside Design
 comments: false
-date: 2022-04-12 02:31:07
+date: 2022-04-12 03:28:49
 thumbnail: 'https://www.invisionapp.com/inside-design/invision-kanban-boards/'
 ---
 
