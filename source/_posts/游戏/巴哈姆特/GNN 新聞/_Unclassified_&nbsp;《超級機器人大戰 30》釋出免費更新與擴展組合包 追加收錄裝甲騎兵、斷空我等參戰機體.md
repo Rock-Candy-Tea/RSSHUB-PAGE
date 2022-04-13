@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684'
 author: 巴哈姆特
 comments: false
-date: 2022-04-13 05:08:36
+date: 2022-04-13 06:11:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684'
 ---
 
@@ -37,7 +37,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -93,7 +93,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG?v=1649825573672" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG?v=1649825573672" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/6a4e5278d87ffc9000d11ab9901fwat5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -241,7 +241,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 任務「購入擴展組合包」</li>
 </ul>
 <div>
-<span style="font-size:13px;">※ 可獲得強化零件：「鋼之魂」、「氣場轉化器」、「厄歐斯之櫃」；技能程式：「攻擊手」、「ExC獎勵」。</span></div>
+<span style="font-size:13px;">※ 可獲得強化零件：「鋼之魂」、「氣場轉化器」、「厄歐斯之櫃」；技能程式：「攻擊手」、「ExC 獎勵」。</span></div>
 <div>
  </div>
 <h3>
@@ -284,7 +284,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 <span style="color:#008000;"><b>追加可遊玩機體：10</b></span></div>
 <ul>
 <li>
-眼鏡鬥犬TC・LRS</li>
+眼鏡鬥犬 TC・LRS</li>
 <li>
 眼鏡鬥犬</li>
 <li>
@@ -292,15 +292,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 <li>
 RED FIVE+</li>
 <li>
-蓋特1（適者進化態）</li>
+蓋特 1（適者進化態）</li>
 <li>
-蓋特2</li>
+蓋特 2</li>
 <li>
-蓋特3</li>
+蓋特 3</li>
 <li>
-E5隼號 Mk II</li>
+E5 隼號 Mk II</li>
 <li>
-E5 MkII極限交錯阿爾法X</li>
+E5 MkII 極限交錯阿爾法 X</li>
 <li>
 超軍神</li>
 </ul>
@@ -314,7 +314,7 @@ E5 MkII極限交錯阿爾法X</li>
 <li>
 BLUE ONE：全力爆發模式</li>
 <li>
-凶鳥30th：零度分子劍・超限轟擊</li>
+凶鳥 30th：零度分子劍・超限轟擊</li>
 <li>
 SRX：SRX 全力爆發</li>
 </ul>
