@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14388/axisstudios_valorant_002.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2022-04-13 10:10:54
+date: 2022-04-13 11:08:51
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14388/axisstudios_valorant_002.-full.jpg'
 ---
 
