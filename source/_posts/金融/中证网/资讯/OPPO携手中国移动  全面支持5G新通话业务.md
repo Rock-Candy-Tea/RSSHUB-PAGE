@@ -1,0 +1,22 @@
+
+---
+title: 'OPPO携手中国移动  全面支持5G新通话业务'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2924'
+author: 中证网
+comments: false
+date: Wed, 13 Apr 2022 21:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2924'
+---
+
+<div>   
+<div class="Custom_UnionStyle">
+<p>　　中证网讯（记者 张兴旺）4月13日OPPO表示，OPPO将全面支持中国移动5G新通话业务，为广大消费者提供随时随地可视化、互动性、高感知的超清视频通话体验。</p>
+<p>　　OPPO称，近期，OPPO 5G手机能够支持中国移动面向不同用户推出的5G VoNR（Voice over New Radio）超清视话、5G视频客服、无障碍通信功能、屏幕贡献、远程协作、AR趣味通话、互动彩铃等功能。据OPPO介绍，从年初至今，OPPO与中国移动通力合作开展了VoNR的终端侧测试扫网工作。OPPO与合作伙伴紧密配合，先后完成了VoNR的遍历性测试和全国20多个城市的拉网测试，顺利推进了VoNR的成功商用。在双方联合调试VoNR的过程中，OPPO积极发现并解决端网问题，确保用户使用体验及终端品质，让用户尽享5G网络带来的全新语音、视频体验。</p>
+</div>
+  
+</div>
+            
