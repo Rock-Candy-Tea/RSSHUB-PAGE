@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0321/074211_uC5c_5430600.png'
 author: 开源中国
 comments: false
-date: Wed, 13 Apr 2022 00:03:00 GMT
+date: Wed, 13 Apr 2022 08:02:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0321/074211_uC5c_5430600.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>IntelliJ IDEA 2022.1 正式发布了，该版本的重点功能是：引入了 <em>Dependency Analyzer </em>以促进依赖关系管理和冲突解决，一个更新的 <em>New Project </em>向导来优化新项目的启动过程，以及 <em>Notifications </em>通知工具窗口，它提供了一种新的、简化的方式来接收来自 IDE 的通知。2022.1 版本还包括许多其他值得注意的改进，下面摘录部分新功能作介绍。</p> 
+                                                                                            <p>IntelliJ IDEA 2022.1 正式发布了，该版本的重点功能是：引入了 <em>Dependency Analyzer </em>以促进依赖关系管理和冲突解决，一个更新的 <em>New Project </em>向导来优化新项目的启动过程，以及 <em>Notifications </em>通知工具窗口，它提供了一种新的、简化的方式来接收来自 IDE 的通知。2022.1 版本还包括许多其他值得注意的改进，下面摘录部分新功能作介绍。</p> 
 <h2 style="margin-left:0; margin-right:0; text-align:start">关键更新</h2> 
 <ul> 
  <li> <h4 style="margin-left:0; margin-right:0; text-align:left"><em>依赖分析器 （Dependency Analyzer）</em></h4> </li> 

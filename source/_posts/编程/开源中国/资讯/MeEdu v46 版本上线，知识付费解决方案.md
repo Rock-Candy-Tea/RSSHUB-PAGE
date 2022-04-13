@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8191'
+headimg: 'https://picsum.photos/400/300?random=5372'
 author: 开源中国
 comments: false
-date: Wed, 13 Apr 2022 00:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8191'
+date: Wed, 13 Apr 2022 08:12:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5372'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>MeEdu v4.6 发布，更新内容如下：</p> 
+                                                                                            <p>MeEdu v4.6 发布，更新内容如下：</p> 
 <ul> 
  <li>增加退款功能</li> 
  <li>跑马灯增加文字内容、颜色、大小、透明度配置</li> 

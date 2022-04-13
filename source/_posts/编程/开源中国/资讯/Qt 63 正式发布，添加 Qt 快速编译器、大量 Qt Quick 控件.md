@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-86400f3b3019098ba6ded72843cb86cf2dd.webp'
 author: 开源中国
 comments: false
-date: Wed, 13 Apr 2022 00:00:00 GMT
+date: Wed, 13 Apr 2022 07:59:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-86400f3b3019098ba6ded72843cb86cf2dd.webp'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Qt 6.3 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-6.3-released" target="_blank">发布</a>了，<span style="color:#09102b">与往常一样，该版本包含许多新功能以及大量 Bug 修复：</span>自 Qt 6.2 发布以来修复了用户报告的总共 1750 个错误。下面摘录较为重要的新功能作介绍：</p> 
+                                                                                            <p>Qt 6.3 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-6.3-released" target="_blank">发布</a>了，<span style="color:#09102b">与往常一样，该版本包含许多新功能以及大量 Bug 修复：</span>自 Qt 6.2 发布以来修复了用户报告的总共 1750 个错误。下面摘录较为重要的新功能作介绍：</p> 
 <h3>Qt Quick 编译器</h3> 
 <p>新的 Qt 快速编译器是 Qt 6.3 中引入的重要新功能之一。 新的 QML 编译器由两个工具组成，QML 类型编译器 ( qmltc ) 和 QML 脚本编译器 ( qmlsc )。</p> 
 <ul> 

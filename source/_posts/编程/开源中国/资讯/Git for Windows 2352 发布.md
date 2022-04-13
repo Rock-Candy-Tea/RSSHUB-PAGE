@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6735'
+headimg: 'https://picsum.photos/400/300?random=6612'
 author: 开源中国
 comments: false
-date: Wed, 13 Apr 2022 00:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6735'
+date: Wed, 13 Apr 2022 08:02:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6612'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">Git for Windows 2.35.2 现已发布，</span>此版本解决了 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit-for-windows%2Fgit%2Fsecurity%2Fadvisories%2FGHSA-vw2c-22j4-2fh2" target="_blank">CVE-2022-24765</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit-for-windows%2Fgit%2Fsecurity%2Fadvisories%2FGHSA-gf48-x3vr-j5c3" target="_blank">CVE-2022-24767 问题</a>。<span style="background-color:#ffffff; color:#333333">主要更新内容如下：</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">Git for Windows 2.35.2 现已发布，</span>此版本解决了 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit-for-windows%2Fgit%2Fsecurity%2Fadvisories%2FGHSA-vw2c-22j4-2fh2" target="_blank">CVE-2022-24765</a> 和 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit-for-windows%2Fgit%2Fsecurity%2Fadvisories%2FGHSA-gf48-x3vr-j5c3" target="_blank">CVE-2022-24767 问题</a>。<span style="background-color:#ffffff; color:#333333">主要更新内容如下：</span></p> 
 <p style="text-align:start"><strong>New Features</strong></p> 
 <ul> 
  <li>随附 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fgit%2Fgit%2Fblob%2Fv2.35.2%2FDocumentation%2FRelNotes%2F2.35.2.txt" target="_blank">Git v2.35.2</a>。</li> 

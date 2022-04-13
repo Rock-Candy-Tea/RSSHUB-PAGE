@@ -8,14 +8,13 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0413/074357_laAK_5430600.png'
 author: 开源中国
 comments: false
-date: Tue, 12 Apr 2022 23:44:00 GMT
+date: Wed, 13 Apr 2022 07:44:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0413/074357_laAK_5430600.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>2022.1 版本是 WebStorm 今年的第一个重大更新，该版本现已正式发布，更新的重点内容包括改进了对 Next.js 的支持、与 Volta 完全集成、能够从 Markdown 文件运行命令，以及对 Docker 的更新等。</p> 
+                                                                                            <p>2022.1 版本是 WebStorm 今年的第一个重大更新，该版本现已正式发布，更新的重点内容包括改进了对 Next.js 的支持、与 Volta 完全集成、能够从 Markdown 文件运行命令，以及对 Docker 的更新等。</p> 
 <p><img height="326" src="https://static.oschina.net/uploads/space/2022/0413/074357_laAK_5430600.png" width="700" referrerpolicy="no-referrer"></p> 
 <p> </p> 
 <p><strong>v2022.1 的具体更新内容如下：</strong></p> 
