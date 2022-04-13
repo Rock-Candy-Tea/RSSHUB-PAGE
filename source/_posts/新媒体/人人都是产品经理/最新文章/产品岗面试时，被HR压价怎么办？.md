@@ -1,0 +1,167 @@
+
+---
+title: '产品岗面试时，被HR压价怎么办？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://image.yunyingpai.com/wp/2022/04/jIGDF7Jw0AELU2hYdmqN.png'
+author: 人人都是产品经理
+comments: false
+date: Wed, 13 Apr 2022 00:00:00 GMT
+thumbnail: 'https://image.yunyingpai.com/wp/2022/04/jIGDF7Jw0AELU2hYdmqN.png'
+---
+
+<div>   
+<p>最近，不少同学跟我反馈说：</p>
+<p><strong>终于找到工作了，可是一点也不开心。</strong></p>
+<p>为啥？</p>
+<p><strong>原来，终面环节，他们都不约而同地被对方压了价。</strong></p>
+<p>小婉之前在K12做产品经理，不幸被裁员后，一直失业找工作到现在。由于K12之前给到的薪资水平普遍较高，凭着1年工作经验和10K的流水，小婉觉得自己<strong>提11K的预期薪资</strong>并不为过。</p>
+<p>和部门领导、产品总监、老板陆续面完后，小婉觉得一切都挺顺利的，然而，<strong>HR把她的薪资直接压到了8K！</strong></p>
+<p>对方给出的面试反馈是：“项目经验和目前业务关联度不高，整体算是个新人”。</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/jIGDF7Jw0AELU2hYdmqN.png" alt referrerpolicy="no-referrer"></p>
+<p>收到这样的反馈，小婉觉得这个offer太烫手了，自己的价值没有被肯定，有点不想接。可是又听说2022年是互联网最难求职年，所以在纠结，是不是先入职再骑驴找马好。</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/6e3XbSiYNjqlXtSWHcuS.png" alt width="188" height="181" referrerpolicy="no-referrer"></p>
+<p>虽然市面上这种情况相当常见，但是，如果面试被HR压价，你会心甘情愿地接受吗？</p>
+<p>面对小婉的纠结，我没有给小婉什么肯定的回答，而是建议她先思考：</p>
+<h2 id="toc-1">01 首先，搞清楚HR为什么会压价？</h2>
+<h3>一、公司降本增效</h3>
+<p>HR的重点KPI之一，就是用合理的价格，招到合适的人。</p>
+<p>而疫情之下，随着互联网流量红利减少，互联网公司普遍在走向“降本增效”的主流趋势。</p>
+<p>根据智联招聘日前发布的互联网行业人员流动情况调查，49.9%的受访者表示自己所在的企业有裁员举措，接近半数。</p>
+<p>大家都在捂紧口袋，想要依靠更高质量的团队去提高效率、降低用人成本。甚至不少公司的同一个岗位，1年前能给到的薪资总包，现在只能打个七八折挂上招聘网站。</p>
+<h3>二、压力面试</h3>
+<p>到了终面谈薪阶段，很多人可能会觉得自己的能力肯定是符合要求的，所以就放松了警惕。这时候HR突然来压价，其实也是想考验你应对突发状况的处理、应变和抗压能力。</p>
+<p>所以，别慌！这种时候更应该向对方展现自己真正的实力！</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/ARXZLUHOMvJw8Aq5q3NP.png" alt width="197" height="188" referrerpolicy="no-referrer"></p>
+<h3>三、能力和岗位不匹配</h3>
+<p>这也是最重要的一点，咱们如果能站在HR的角度对应聘者做分层管理，就知道怎么回事了：</p>
+<p>①能力不完全匹配岗位+期望薪资超预算——不接受压价的话，换个人也没关系</p>
+<p>②能力不匹配岗位+期望薪资虽然没超预算——培养成本太高，但总体来说性价比低</p>
+<p>③能力很匹配岗位+期望薪资虽然超预算——不接受压价的话，和老板申请新增预算</p>
+<p>可见，HR想压价的话，多半是因为觉得你展现出的<strong>个人能力与岗位不完全匹配。</strong></p>
+<h1 id="toc-2">二、其次，明白能力+项目+作品集是谈薪的底气</h1>
+<p>产品岗无法像技术、销售、运营之类的岗位一样将能力量化，所以<strong>产品岗在面试时考察的是综合能力，而一个实际落地的项目、作品集，则是你综合实力的体现。</strong></p>
+<p>很多人有疑问了：</p>
+<p><strong>作品集在面试中是必须的吗？</strong></p>
+<p>试想一下，如果别人有作品集而你没有，要如何与他人竞争呢？如果你没有产品经验，作品集也没有，要如何证明你的产品能力呢？</p>
+<p><strong>所以作品集不是必须，但非常必要！只要你投入去做了，赢的局面就很大。</strong></p>
+<h3>小城 ：“我能拿offer是因为准备了作品集”</h3>
+<p>我毕业只有半年时间，接触产品比较晚，做的求职准备不充足，也不像很多求职达人动辄是“985211硕士”、“offer拿到手软”、“年薪几十万”。</p>
+<p><strong>现在复盘，我能拿到月薪12k产品offer是因为——我准备了项目作品。</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/0a1oZXt7UZfTErKDdwa3.png" alt referrerpolicy="no-referrer"></p>
+<p>先说一下我的观点：做“项目”的目标，是让面试官相信你能胜任初级产品经理的工作。<strong>如果你过往经历跟产品经理毫不相干，动手做个“项目”（包含产品从0到1的相关内容），可至少拿到一个以上offer。</strong></p>
+<p>首先，我在面试自我介绍中开门见山就说：“面试官您好，我虽然没有产品经验，但我为了熟悉产品经理的基础工作思路，在面试前就准备了一个项目，想和您交流探讨一下。”</p>
+<p>当时面试官脸上露出了一丝欣慰的表情，于是就听我讲了项目从0到1的过程——我做的项目作品是一个二手礼品售卖的APP，你可以理解成是“一个只卖礼品的闲鱼APP”。</p>
+<p>因为这是一个虚拟项目，所以在陈述的过程中，我先说明了自己<strong>并不是一个头脑发热就埋头苦干做出这个产品，而是用产品经理的思维和工作流程，去思考如何将这款产品从0到1打造出来的</strong>：</p>
+<p><strong>1.市场和竞品分析：</strong>分析礼物市场的供给和需求量、是否有利可图、有哪些潜在的竞争者和竞争者是如何做的；</p>
+<p><strong>2.用户研究和需求分析：</strong>定位我的产品要为哪些用户在什么场景下提供什么服务，并从用户画像和用户需求中梳理产品所需要的各类功能；</p>
+<p><strong>3.MVP功能规划和流程设计：</strong>第一版本只做最核心的功能（如注册登录、商品展示、卖家沟通、客服和支付功能），并将相关功能的用户流程和后台流程图梳理出来；</p>
+<p><strong>4.原型交互设计：</strong>根据相关流程，用axure画出每一个页面的样式，并在旁边标注用户点击的反馈状态；</p>
+<p><strong>5.PRD文档撰写：</strong>最终将上方的内容做好梳理，整合成一份美观的PRD文档 。</p>
+<p>我大概花了20几分钟讲完这个项目后，面试官基本就围绕我的项目来发问了，很多问题都是我先前的调研结论，我能做到对答如流，很顺利地通过了第一轮的专业面和第二轮的总监面。到了第三轮的HR面，薪资也给到了我期望的12k，所以我就接下了这份offer。</p>
+<p>现在回想起来，<strong>要是没有带项目作品，可能面试过程就很艰难，即使我能挺到最后的HR面，估计薪资也会被压下来。</strong></p>
+<p>我真的非常建议你们为自己留一手准备：<strong>一份有说服力的作品集。</strong></p>
+<p>一份有说服力的作品集，它可以帮助你能<strong>更有力地传达给面试官：你是具备产品思维和产品能力的，你是可以胜任这个岗位</strong>；</p>
+<p>一份有说服力的作品集，它是可以<strong>降低紧张导致的“非技术性”错误带来面试失败的风险，以及提升零经验应届生/转行者的求职通过率</strong>。</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/lN2fyXzimmYKRNJoF1xl.png" alt width="200" height="199" referrerpolicy="no-referrer"></p>
+<p>小城的故事不是个例，作为一个已经接受过超1W+位学员咨询的老司机，我想说：与其去纠结被HR压价了怎么办，不如趁早做到以下几点，防止面试时候被压价，让自己配得上心目中的目标薪资！</p>
+<ul>
+<li>01 打磨产品技能基本功，培养产品思维</li>
+<li>02 实战检验所学方法论，输出作品集</li>
+<li>03 抱紧大腿，跟着经验大佬做项目实战</li>
+<li>04 总结求职面试技巧，全面提升就业竞争力</li>
+</ul>
+<h2 id="toc-3">01 打磨产品技能基本功，培养产品思维</h2>
+<p>从零开始求职产品岗，可以做哪些准备呢？</p>
+<p>首先，读书是学习产品方法论一个相对系统一些的方法，下面就为大家献上一份<strong>产品经理读书指南：</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/LxbXN14ZWSIVI1P5SIQp.png" alt referrerpolicy="no-referrer"></p>
+<p>以上书籍推荐，<strong>涵盖了产品岗工作的四大板块，能够让你全面了解产品经理的工作内容和职责，读者也可以以此建立自己做产品的宏观框架。</strong></p>
+<p>不过，如果你觉得书本上的知识太过理论化，也感觉枯燥到难以读完，那你可以到网上看一些前人总结经验式的干货文章。</p>
+<p>但网络上的内容鱼龙混杂，如果没有很强的信息筛选能力，建议还是到<strong>比较专业的产品知识社区（如知乎、人人都是产品经理）</strong>中看一些专栏作家、在职产品经理的文章。</p>
+<p>最后，当你吸收了这么多的理论知识后，<strong>一定要学会总结将知识和技能对应进行梳理，用思维导图的形式把知识串联起来，形成体系化。</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/KclF4EIFMwIIwyTmtF8b.jpg" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center">欠缺能力，想知道怎么学习，怎么入行？</p>
+<p style="text-align: center">想学会需求的管理和提炼，掌握产品经理工作内容和流程？</p>
+<p style="text-align: center">▶扫码可领取产品经理入门学习必读清单和学习地图，提升基本功◀</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/W5yLeox0uNTCmmscq6hw.jpg" alt referrerpolicy="no-referrer"></p>
+<h2 id="toc-4">02 实战检验所学方法论，输出作品集</h2>
+<p>当你有了一定的理论知识作为沉淀，养成了一定的产品思维后，你可以<strong>试着站在一个产品经理的角度去拆解一款你常用的产品，直接用产品经理的工作流程，去思考如何将这款产品从0到1打造出来。</strong></p>
+<p><strong>1.市场和竞品分析</strong>：分析市场的供给和需求量、是否有利可图、有哪些潜在的竞争者和竞争者是如何做的；</p>
+<p><strong>2.用户研究和需求分析</strong>：定位我的产品要为哪些用户在什么场景下提供什么服务，并从用户画像和用户需求中梳理产品所需要的各类功能；</p>
+<p><strong>3.MVP功能规划和流程设计</strong>：第一版本只做最核心的功能（如注册登录、商品展示、卖家沟通、客服和支付功能），并将相关功能的用户流程和后台流程图梳理出来；</p>
+<p><strong>4.原型交互设计</strong>：根据相关流程，用axure画出每一个页面的样式，并在旁边标注用户点击的反馈状态；</p>
+<p><strong>5.PRD文档撰写</strong>：最终将上方的内容做好梳理，整合成一份美观的PRD文档 。</p>
+<p>当你有了项目作品集，就有了<strong>面试的敲门砖</strong>，就有东西去证明和辅助你和面试官继续往下谈了。而面试官也会基本围绕你的项目去发问，你也会根据自身实战检验所学的方法论，做到顺利对答如流了。</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/qHmErvitL8pV5Z8JkiIx.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/W3bP5xLGePC9IqKKFZyx.png" alt referrerpolicy="no-referrer"></p>
+<p>▲ 产品原型图示例</p>
+<p style="text-align: center">想知道产品从0到1的完整全流程长啥样？</p>
+<p style="text-align: center">想查看更多完整作品集？</p>
+<p style="text-align: center">▶扫码可领取产品经理求职项目案例◀</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/iNOrov4aFVA3OyuyY1hD.jpg" alt referrerpolicy="no-referrer"></p>
+<p>当然，以上方法论学习和作品产出都需要你有着很强的自学能力和自我驱动力。</p>
+<p>如果你觉得上述方案，对你来说很难启动、很难坚持，那你可以来看看这门我学过并且十分推荐的课程——由人人都是产品经理&起点课堂联合发起的，<strong>依据腾讯等BAT 级大厂的产品经理能力模型打造的【产品经理就业特训营】</strong>。</p>
+<p>这门课<strong>由20+一线互联网在职产品经理亲授</strong>，带领大家系统学习大厂产品知识与方法论，掌握大厂产品的工作流程，最终将这些理论知识化为实践，<strong>让大家都能收获一份用人单位认可的产品项目实战经验与产品作品集。</strong></p>
+<p>本课程已经开办了<strong>35期，帮助了2000+的产品新人拿下心目中的理想Offer！</strong>课程内容上，经过<strong>人人都是产品经理社区10年沉淀</strong>，课研部门和大厂导师几十次精心打磨，经受过市场多次严苛检验。</p>
+<p><strong>36期班级即将在5月9日开课啦！现在报名课程可享专属特惠，前10名立减800元！</strong></p>
+<p>抢先报名即可获得<strong>限量预习课程《产品经理通识十讲》</strong>，详情可以扫码咨询学习顾问老师哦~</p>
+<p style="text-align: center">仅限今天，仅限本文，限量课程优惠</p>
+<p style="text-align: center">▶扫码锁定800元立减现金优惠名额◀</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/UMuN52YYyYDMUXLXwEV1.jpg" alt referrerpolicy="no-referrer"></p>
+<h2 id="toc-5">03 抱紧大腿，跟着经验大佬做项目实战</h2>
+<p>那么你会问了，课程怎么保证教学质量？</p>
+<p><strong>往往，有经验的老司机一两句话就可以让你少走弯路少踩点坑，带你直接解决实操工作中的具体产品、业务问题。</strong></p>
+<p>特训营配备<strong>主讲导师、作业导师、就业导师、行业专家、班主任、助教</strong>等多角色对学员进行多对一辅导，保障你的“教 · 练 · 做 · 评 · 会”。</p>
+<p>导师团均来自一线互联网大厂，他们久经打磨，专业知识过硬，同时洞察行业与市场，能带领你跟上行业趋势，学到的知识永远都是从实际工作经验中反复验证得出的方法论和技巧！</p>
+<p>他们会为你带来比其他课程更多、更优质的教学服务——<strong>通过200+录播课、N次社群聊一聊、20+直播课、7次作业答疑、4次方向指导、1-6次1V1咨询等服务</strong>，将成熟的思维&方法论深入浅出地传授给你。</p>
+<p>值得一提的是，老师除了在课上带给大家底层能力的传授之外，还有以下配套服务给你提供极大的帮助：</p>
+<p><strong>4次产品方向指导，手把手带你完成产品从0到1全流程；</strong></p>
+<p><strong>7次大作业直播语音答疑课，带领小组激烈讨论；</strong></p>
+<p><strong>作业批改严格，不合格必须重做，直到及格为止；</strong></p>
+<p><strong>6次一对一的个性化求职辅导、简历修改、内推服务；</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/G0LrXeUvg1YXdCSczOnl.jpg" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center">想获得大佬帮你现场一对一解答问题的机会？</p>
+<p style="text-align: center">▶扫码预约，抢直播试听课名额◀</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Huy0Z7XPA3F70WIURxKI.jpg" alt referrerpolicy="no-referrer"></p>
+<h2 id="toc-6">04 总结求职面试技巧，全面提升就业竞争力</h2>
+<p><strong>学习的最终目的是成为企业需要的产品人才，成功就业。</strong></p>
+<p>业内其他产品课程，听完课就“戛然而止”了，导致很多学员依旧不懂互联网公司对产品经理有何要求，如何针对性优化简历，如何寻找适合自己的岗位机会，如何在面试中充分展现自己的产品能力，如何进行合理的薪资谈判……</p>
+<p>事实上<strong>，产品技能和求职技能同样重要</strong>，求职技能高低往往决定你能否拿到产品offer。</p>
+<p>因此，特训营另一个特色在于“就业”，联合互联网名企资源，基于企业招聘需求提供<strong>11项求职就业服务，由就业服务老师、招聘管家全程为你支招，知己知彼打有准备的仗，直到你能拿到Offer，成功入职为止。</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/v0RdhLl9XSvIVadba6py.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Afx8bmFM1Kf5JzkWYeFe.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/ppRFlnNTo7vbRQM6hIbI.jpg" alt referrerpolicy="no-referrer"></p>
+<p>以上，是特训营能带零基础、弱基础的你入门/转行产品的原因所在。</p>
+<h2 id="toc-7">学员奖励</h2>
+<p><strong>课程还安排了丰厚的优秀学员奖励，按时按质完成7次大作业+1次答辩，排名前三可立返现金！最高获1888元奖金+1年起点会员（价值999元）！</strong></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/onKT2JU1WP13Wq7Qe5hL.png" alt referrerpolicy="no-referrer"></p>
+<h2 id="toc-8">报名方式</h2>
+<p><strong>💥新班上线优惠！产品经理就业特训营第36期，现在报名，最高立减800元，仅限前10名，先到先得！</strong></p>
+<p style="text-align: center">▶开课时间◀</p>
+<p style="text-align: center">2022年5月9日</p>
+<p style="text-align: center"><strong>重磅！800元现金优惠！</strong></p>
+<p style="text-align: center"><strong>仅限今天，仅限本文，限量课程优惠</strong></p>
+<p style="text-align: center">▶报名方式1◀</p>
+<p style="text-align: center">如果你对课程感兴趣</p>
+<p style="text-align: center">并想在近期快速入门并顺利求职产品经理</p>
+<p style="text-align: center"><strong>添加特训营营长了解课程详情</strong></p>
+<p style="text-align: center"><strong>扫码锁定800元立减现金优惠名额</strong></p>
+<p style="text-align: center">☟☟☟</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/fi3u7ddfIn3zNfECKREb.jpg" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center">联系方式：18617039895（阿康）</p>
+<p style="text-align: center">▶报名方式2◀</p>
+<p style="text-align: center"><strong>还在犹豫，想先观望一下？</strong></p>
+<p style="text-align: center"><strong>不如先进群，和小伙伴一起交流</strong></p>
+<p style="text-align: center">☟☟☟</p>
+<p style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/DvNhyRIlV9yyumypTFPz.jpg" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center">▶最后一个福利◀</p>
+<p style="text-align: center">不知道自己适不适合转行做产品？</p>
+<p style="text-align: center">不如先做一个产品潜能测试！</p>
+<p style="text-align: center"><strong>20个免费名额<a href="https://996.pm/zOe5B">，点此或扫码测测你的产品了解程度</a></strong></p>
+<p style="text-align: center">☟☟☟</p>
+<p style="text-align: center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/ZPbNorgK1UbCUn0SHYgo.png" alt referrerpolicy="no-referrer"></p>
+                          
+</div>
+            

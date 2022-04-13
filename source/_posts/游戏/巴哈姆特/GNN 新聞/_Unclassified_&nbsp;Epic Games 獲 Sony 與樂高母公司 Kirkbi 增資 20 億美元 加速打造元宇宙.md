@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?v=1649775546483'
 author: 巴哈姆特
 comments: false
-date: 2022-04-12 15:09:55
+date: 2022-04-13 00:40:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?v=1649775546483'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 52.52%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?v=1649775546483" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 52.52%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?v=1649775546483" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.
 <div>
  </div>
 <div>
-　　Sony 表示，本次的投資將加深彼此在元宇宙領域的關係，而這正是一個創作者與使用者能分享各自時間的空間。Epic Games 的專業知識與強大的遊戲引擎將能與自家的技術結合，加速自家各領域心血的發展。</div>
+　　Sony 集團繼 2020 年與 2021 年對 Epic Games 的兩次投資之後，如今又再次加碼投資，累計達 14.5 億美元。Sony 表示，本次的投資將加深彼此在元宇宙領域的關係，這是一個創作者與使用者能分享各自時間的空間。Epic Games 的專業知識與強大的遊戲引擎將能與自家的技術結合，加速自家各領域心血的發展。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 52.52%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/382f039228173ff1ae9c398ba11fw3l5.PNG?v=1649776530431" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/382f039228173ff1ae9c398ba11fw3l5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/382f039228173ff1ae9c398ba11fw3l5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <div>
@@ -43,7 +51,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/55/47973f841f8cb2ee9f5c212dfd1fw3j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG?v=1649775525243" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG?v=1649775525243" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/97e1bf40633278b96f86d99f761fw3i5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
