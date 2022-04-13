@@ -20,7 +20,7 @@ Worlds上售虚拟产品，或向其他用户提供特定内容的付费访问�
 Worlds里发售数码物品。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_207774.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_207774.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 “Horizon Worlds”原名为“Facebook Worlds”，于2019年推出，去年Meta在改名的同时也将它改名为Horizon 
@@ -32,7 +32,7 @@ Code编程工具来“创造世界”。在此次测试中，一小部分开发�
 Store上发售。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_268208.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_268208.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 当然Meta也是会抽取分成的，而且比手机应用商店的抽成更高。除了Meta Quest Store抽取30%佣金外，Horizon 
@@ -44,7 +44,7 @@ Store分成费用。Horizon Worlds业务副总裁威韦克・沙马(Vivek
 Sharma)表示：“我们认为，这在市场上是一个非常有竞争力的价格。我们相信，其他平台也能获得他们的份额。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_249720.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220413/1649816048_249720.jpg" alt="Meta向元宇宙开发者抽成47% 比苹果商店还狠！" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
