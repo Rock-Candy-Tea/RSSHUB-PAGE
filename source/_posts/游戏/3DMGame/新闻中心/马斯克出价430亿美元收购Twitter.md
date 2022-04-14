@@ -37,6 +37,11 @@ X的CEO兼世界首富已经提出了收购这家社交媒体公司的“最好�
 </p>
 <p style="text-indent:2em;">
 鉴于我对管理层没有信心，也不相信自己能在公开市场推动必要的变革，如果交易失败，我将需要重新考虑我作为股东的立场。”
+</p>
+<p style="text-indent:2em;">
+<span>Twitter表示他们已收到马斯克提出的收购提议。受收购提议消息刺激，Twitter股票在盘前飙升。</span>
+</p>
+<p style="text-indent:2em;">
 </p>          
 </div>
             
