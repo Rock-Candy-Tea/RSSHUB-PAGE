@@ -5,11 +5,11 @@ categories:
  - 博客
  - 大侠阿木
  - 首页
-headimg: 'https://picsum.photos/400/300?random=5030'
+headimg: 'https://picsum.photos/400/300?random=6813'
 author: 大侠阿木
 comments: false
 date: Mon, 21 Mar 2022 15:50:52 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5030'
+thumbnail: 'https://picsum.photos/400/300?random=6813'
 ---
 
 <div>   

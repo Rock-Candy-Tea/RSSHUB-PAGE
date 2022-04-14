@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=2794'
+headimg: 'https://picsum.photos/400/300?random=5829'
 author: 金色财经
 comments: false
-date: Wed, 13 Apr 2022 12:18:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2794'
+date: Thu, 14 Apr 2022 00:21:51 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5829'
 ---
 
 <div>   
-伴随着扎克伯格的构想一步步搭建，Meta是如何成功转型为元宇宙公司的。  
+一年亏损超百亿美金的Meta仍毅然下注元宇宙领域，深度解析Meta的元宇宙实现路径。  
 </div>
             
