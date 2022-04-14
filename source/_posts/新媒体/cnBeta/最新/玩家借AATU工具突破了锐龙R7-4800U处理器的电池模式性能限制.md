@@ -1,0 +1,19 @@
+
+---
+title: '玩家借AATU工具突破了锐龙R7-4800U处理器的电池模式性能限制'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0414/0acea5c3f8066c6.png'
+author: cnBeta
+comments: false
+date: Thu, 14 Apr 2022 07:16:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0414/0acea5c3f8066c6.png'
+---
+
+<div>   
+尽管采用 AMD 锐龙 APU 的笔记本电脑具有相当出色的性能 / 续航表现，但不少人还是对电池模式下的过低性能表现耿耿于怀。<strong>不过近日，UID43006324 在 NGA 论坛上分享了借助 AMD APU Tuning Utility（简称 AATU）这款实用工具来突破预设性能限制的最新成果，</strong>让我们对 R7-4800U 这款低压移动处理器有了重新的认识。<br>
+<p><a href="https://static.cnbetacdn.com/article/2022/0414/0acea5c3f8066c6.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0414/0acea5c3f8066c6.png" alt="0.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（传送门：<a href="https://bbs.nga.cn/read.php?&tid=31368626&rand=773" target="_self">NGA</a> / UID：43006324）</p><p>事实上，从四代 Renior 到六代 Rembrandt APU，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 移动 APU 的不插电性能一直饱受诟病。</p><p>即使该公司声称会在 Cezanne 移动 APU 发布时做出改进，但美好的事情并没有发生。</p><p><img src="https://static.cnbetacdn.com/article/2022/0414/c9e51e264a68053.png" alt="1.png" referrerpolicy="no-referrer"></p><p>在使用 AMD 锐龙 R5-5600U 时，笔记本电脑还是会复现旧款移动 APU 上老生常谈的性能下降。</p><p>而由 @9550pro 在 Twitter 上最新分享的数据可知，AATU 可让锐龙 R7-4800U 笔记本电脑的 PCMark 10 基准测试成绩，从默认的 3225、大涨至调校后的 4177 分。</p><p><a href="https://static.cnbetacdn.com/article/2022/0414/b2f9f8c8cb37cf0.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0414/b2f9f8c8cb37cf0.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p>NGA 老哥解释称，锐龙笔记本的断电性能暴降，归咎于 AMD 移动 APU 在电池模式下的任务调度策略缺陷。</p><p>电池模式下的睿频，需要 10 秒以上的长时间负载才能正常开启，即 boost delay 延迟。</p><p><a href="https://static.cnbetacdn.com/article/2022/0414/4ba014788084ea3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0414/4ba014788084ea3.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>该调度策略在 -U 系列低压处理器上更加拖沓，-H 系列标压处理器相对好一些，此外 -U 系列 APU 的 FCLK 频率在部分时间都卡在 800 MHz 。</p><p>作为演示，NGA 老哥以 <a data-link="1" href="https://microsoft.pvxt.net/P0JMe" target="_blank">Office</a> 和视频加载为例，分析对比了 R7-4800U APU 的频率变化（低至 2.55 GHz），可知系统能够在大量工作负载下正常运行。</p><p><a href="https://static.cnbetacdn.com/article/2022/0414/38a0b5d294fc208.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0414/38a0b5d294fc208.png" alt="6.png" referrerpolicy="no-referrer"></a></p><p>在启用了由 Ryzen Controller 开发者打造的 AATU 工具之后，其尝试了对 APU 的功率限制进行调节。</p><p>软件官网描述称：AATU 支持 2xxx、3xxx、4xxx 和 5xxx 系列 Ryzen 移动处理器，并且同样适用于桌面 APU 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0414/7629f41dce25322.png" alt="7.png" referrerpolicy="no-referrer"></p><p>最终在“使用胡宝原味AATU.exe”工具的基础上，NGA 老哥成功地大幅改善了 Renoir 4800U 的电池模式运行性能。</p><p>该实用程序主要会对 APU FCLK 中的 SMU 参数进行调校，通过软件将数据传递至 SMU、以诱骗处理器当前正在插电模式下运行，从而将 CPU 的加速延迟给规避掉。</p><p><img src="https://static.cnbetacdn.com/article/2022/0414/7f4dab6f3819684.png" alt="8.png" referrerpolicy="no-referrer"></p><p>“一键调整”后，处理器的日常 FCLK 频率也可维持在 1600 MHz 。此外 AATU 还允许用户设置特定的参数来控制 APU 的 TDP、Boost Timing、温度墙、以及笔记本的 TDC 功耗。</p><p>以 2020 款联想小新 Pro 13 笔记本电脑为例，激活 AATU 可让综合性能较默认状态提升 25% —— 取消 Boost Delay 延迟让 PCMark10 总分爬到了 4177 分 / Essential 项 7313 分。</p><p><img src="https://static.cnbetacdn.com/article/2022/0414/674331481212bd1.png" alt="9.png" referrerpolicy="no-referrer"></p><p>感兴趣的朋友，可移步至 GitHub 获取 <a href="https://github.com/FlyGoat/RyzenAdj" target="_self">RyzenAdj</a> / <a href="https://github.com/JamesCJ60/AMD-APU-Tuning-Utility" target="_self">AATU</a> 。但若你的搞机经验相对有限，还请不要盲目操作，以免造成不必要的损失。</p>   
+</div>
+            
