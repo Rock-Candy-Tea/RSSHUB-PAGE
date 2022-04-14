@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/65ef7d5e-cf9e-499b-9d4b-a8e3db60f118.jpg'
 author: 机核网
 comments: false
-date: 2022-04-14 02:40:33
+date: 2022-04-14 03:33:51
 thumbnail: 'https://image.gcores.com/65ef7d5e-cf9e-499b-9d4b-a8e3db60f118.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/65ef7d5e-cf9e-499b-9d4b-a8e3db60f118.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-7rn57" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="7rn57" data-offset-key="f0t27-0-0"><div data-offset-key="f0t27-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="f0t27-0-0"><span data-text="true">优衣库在2022年推出了与《机动战士高达》的新联名产品。此次联动产品包含四款T恤，主要以 RX-78-2 和《机动战士高达 SEED》中的角色形象为主题创作，本系列设计还结合了《机动战士高达UC》中的独角兽高达与剧场版《机动战士高达：闪光的哈萨维》中标志性的视觉设计。</span></span></div></div>
+<img src="https://image.gcores.com/65ef7d5e-cf9e-499b-9d4b-a8e3db60f118.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-3m2me" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="3m2me" data-offset-key="f0t27-0-0"><div data-offset-key="f0t27-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="f0t27-0-0"><span data-text="true">优衣库在2022年推出了与《机动战士高达》的新联名产品。此次联动产品包含四款T恤，主要以 RX-78-2 和《机动战士高达 SEED》中的角色形象为主题创作，本系列设计还结合了《机动战士高达UC》中的独角兽高达与剧场版《机动战士高达：闪光的哈萨维》中标志性的视觉设计。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/8ed06311-f4af-44da-bd14-c1de4b1d639e.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (1/8) </figcaption>
@@ -133,6 +133,6 @@ thumbnail: 'https://image.gcores.com/65ef7d5e-cf9e-499b-9d4b-a8e3db60f118.jpg'
 <img src="https://image.gcores.com/b53f557c-0b62-46a0-9b42-b4decb926771.jpg" alt referrerpolicy="no-referrer">
 <figcaption> (6/6) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="7rn57" data-offset-key="1hc4-0-0"><div data-offset-key="1hc4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1hc4-0-0"><span data-text="true">四款产品均将于2022年4月18日贩售，</span></span><a class="md-link" href="https://www.uniqlo.cn/Gundam_Series.html" rel="noopener noreferrer" target="_blank" aria-label="https://www.uniqlo.cn/Gundam_Series.html"><span data-offset-key="1hc4-1-0"><span data-text="true">有兴趣的朋友可以前往官方商城自行选购</span></span></a><span data-offset-key="1hc4-2-0"><span data-text="true">。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block story_block-text " data-block="true" data-editor="3m2me" data-offset-key="1hc4-0-0"><div data-offset-key="1hc4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1hc4-0-0"><span data-text="true">四款产品均将于2022年4月18日贩售，</span></span><a class="md-link" href="https://www.uniqlo.cn/Gundam_Series.html" rel="noopener noreferrer" target="_blank" aria-label="https://www.uniqlo.cn/Gundam_Series.html"><span data-offset-key="1hc4-1-0"><span data-text="true">有兴趣的朋友可以前往官方商城自行选购</span></span></a><span data-offset-key="1hc4-2-0"><span data-text="true">。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

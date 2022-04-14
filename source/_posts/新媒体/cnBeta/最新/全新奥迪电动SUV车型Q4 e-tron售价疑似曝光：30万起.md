@@ -1,0 +1,19 @@
+
+---
+title: '全新奥迪电动SUV车型Q4 e-tron售价疑似曝光：30万起'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0414/6e3fa9182c4575d.jpg'
+author: cnBeta
+comments: false
+date: Thu, 14 Apr 2022 03:23:05 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0414/6e3fa9182c4575d.jpg'
+---
+
+<div>   
+在国内电动汽车市场，拥有多年造车经验的老牌车企，如奔驰、宝马和奥迪，反而被自主品牌和新造车势力打得找不着北，虽然急匆匆地也推出了诸如EQC、e-Tron、iX3等油改电车型，但收效甚微，甚至买过的不少车主还遇到了各种各样的问题。<br>
+<p>不过亡羊补牢，为时未晚，在BBA里，<strong>背靠大众集团的奥迪又成为了急先锋</strong>，推出了多款基于MEB模块化纯电平台打造的车型，更基于更高级PPE平台生产的车型也已在赶来的路上。</p><p>近日，网络上曝光了<strong>全新一汽-大众奥迪Q4 e-tron的疑似新车预售价：30万起</strong>。目前该车已经陆续到店，预计将于5月份正式交付。</p><p><a href="https://img1.mydrivers.com/img/20220414/efd33f7b3f934117a387e9d4be164346.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/6e3fa9182c4575d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0414/6e3fa9182c4575d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0414/6e3fa9182c4575d.jpg" referrerpolicy="no-referrer"></a></p><p>该车日前已经在工信部进行了申报，其样式与2021年广州车展亮相时没有太大变化，前脸依旧采用了六边形封闭式格栅设计，两侧使用了较为犀利的大灯。</p><p><a href="https://img1.mydrivers.com/img/20220414/35b255d5dd504915a2ee9a7591616017.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/0503f406cb7dbc5.png"><img data-original="https://static.cnbetacdn.com/article/2022/0414/0503f406cb7dbc5.png" src="https://static.cnbetacdn.com/thumb/article/2022/0414/0503f406cb7dbc5.png" referrerpolicy="no-referrer"></a></p><p>Q4 e-tron定位于紧凑型SUV，<strong>车身尺寸为4588*1865*1626毫米，轴距2765毫米，</strong>侧面采用了双腰线设计，拥有短悬长轴的比例，也符合MEB纯电平台的特性。</p><p><a href="https://img1.mydrivers.com/img/20220414/c367d2417953499f8c5910971d17cf54.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/3d69ce57ca121d7.png"><img data-original="https://static.cnbetacdn.com/article/2022/0414/3d69ce57ca121d7.png" src="https://static.cnbetacdn.com/thumb/article/2022/0414/3d69ce57ca121d7.png" referrerpolicy="no-referrer"></a></p><p>尾部造型同样比较简洁，利用贯穿式尾灯，深色的后包围等，有效地分割了车尾的视觉层次。</p><p><a href="https://img1.mydrivers.com/img/20220414/4aa365eecc914c88b2cba61245124a24.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/865e1e1c3e4aae1.png"><img data-original="https://static.cnbetacdn.com/article/2022/0414/865e1e1c3e4aae1.png" src="https://static.cnbetacdn.com/thumb/article/2022/0414/865e1e1c3e4aae1.png" referrerpolicy="no-referrer"></a></p><p>内部参考去年亮相的战车可知，<strong>新车将采用全液晶仪表盘和四辐式多功能方向盘</strong>，中控屏为内嵌结构，并偏向于驾驶员一侧，符合人工程学特征，营造了较为科幻的座舱氛围。</p><p><a href="https://img1.mydrivers.com/img/20220414/adae4bc66ae2483f8d8c08e25a97a3d7.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/abc18e89bdfb2f1.png"><img data-original="https://static.cnbetacdn.com/article/2022/0414/abc18e89bdfb2f1.png" src="https://static.cnbetacdn.com/thumb/article/2022/0414/abc18e89bdfb2f1.png" referrerpolicy="no-referrer"></a></p><p>动力方面暂时未知，不过参考海外版本来看，新车将会提供35 e-tron、40 e-tron和50 e-tron quattro共三种版本。</p><p>此前在工信部申报的正是最后一种车型，其配备了双电机四驱，<strong>前后电机功率分别为80千瓦和150千瓦，</strong>0-100km/h加速时间为7秒内。</p><p><a href="https://img1.mydrivers.com/img/20220414/1e25e511e79a484b99f1345f4b8992fe.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0414/117c7bd8b14891f.png"><img data-original="https://static.cnbetacdn.com/article/2022/0414/117c7bd8b14891f.png" src="https://static.cnbetacdn.com/thumb/article/2022/0414/117c7bd8b14891f.png" referrerpolicy="no-referrer"></a></p><p>此外，该车使用的是三元锂动力电池组，据工信部数据，<strong>其续航里程分别为543公里和605公里</strong>。</p>   
+</div>
+            
