@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/86/dad14971e5bf7446eb8cbd9ff61fx7a5.JPG?v=1649932190371'
 author: 巴哈姆特
 comments: false
-date: 2022-04-14 14:08:25
+date: 2022-04-14 15:09:11
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/dad14971e5bf7446eb8cbd9ff61fx7a5.JPG?v=1649932190371'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/dad14971e5bf7446eb8cbd9ff61fx7a5.
 <div>
 <div>
 <div>
-　　韓國電子競技協會（KESPA）公開將作為韓國國家代表隊參加 2022 年杭州亞運會《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》項目的 10 人預選名單，將疑小組委員會就 10 人名單中進行綜合研究，最終選出 6 人組隊參加亞運，而值得注意的是在 10 人預選名單中，2022 LCK 春季賽拿下 20 連勝、冠軍隊伍 T1 五人目前全部入選預備名單。</div>
+　　韓國電子競技協會（KESPA）公開將作為韓國國家代表隊參加 2022 年杭州亞運會《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》項目的 10 人預選名單，將以小組委員會就 10 人名單中進行綜合研究，最終選出 6 人組隊參加亞運，而值得注意的是在 10 人預選名單中，2022 LCK 春季賽拿下 20 連勝、冠軍隊伍 T1 五人目前全部入選預備名單。</div>
 <div>
  </div>
 <div>
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/dad14971e5bf7446eb8cbd9ff61fx7a5.
 <div>
  </div>
 <div>
-　　KESPA 表示，協會於今年 3 月成立了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》選拔委員會，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》亞運會含國家代表隊評選項目大致包括個人技能（對線、營運能力、英雄池等選手能力）、團隊合作（遊戲內領導能力、與隊友合作、勝利貢獻度）、國際大賽經驗（危機管理、國際大賽活躍經驗等）構成，並考量最近 4 年內國內外大賽成績、個人獲獎紀錄，還有 KDA、技能參與度、每分鐘傷害、每分鐘經驗值等數據來作為指標，委員會針對韓國國籍選手都進行了討論。</div>
+　　KESPA 表示，協會於今年 3 月成立了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》選拔委員會，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》亞運韓國國家代表隊評選項目大致包括個人技能（對線、營運能力、英雄池等選手能力）、團隊合作（遊戲內領導能力、與隊友合作、勝利貢獻度）、國際大賽經驗（危機管理、國際大賽活躍經驗等）構成，並考量最近 4 年內國內外大賽成績、個人獲獎紀錄，還有 KDA、技能參與度、每分鐘傷害、每分鐘經驗值等數據來作為指標，委員會針對韓國國籍選手都進行了討論。</div>
 <div>
  </div>
 <div>

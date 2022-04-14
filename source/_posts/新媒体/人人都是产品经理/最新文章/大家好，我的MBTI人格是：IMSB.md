@@ -1,0 +1,214 @@
+
+---
+title: '大家好，我的MBTI人格是：IMSB'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://image.yunyingpai.com/wp/2022/04/vTzt0PPPPXLm3YDthv3U.png'
+author: 人人都是产品经理
+comments: false
+date: Thu, 14 Apr 2022 00:00:00 GMT
+thumbnail: 'https://image.yunyingpai.com/wp/2022/04/vTzt0PPPPXLm3YDthv3U.png'
+---
+
+<div>   
+<blockquote><p>编辑导语：MBTI并非是新鲜事物。曾经它是美国五百强企业甚至军队都偏爱的人格测试，辉煌时期，大部分美国人找工作都要先过这坎。时间来到2022年，借着互联网的波动，MBTI正以全新面貌霸占年轻人的社交话语。跟着作者一起来看看吧！</p></blockquote>
+<p><img data-action="zoom" class="size-full wp-image-787930 aligncenter" src="https://image.yunyingpai.com/wp/2022/04/vTzt0PPPPXLm3YDthv3U.png" alt referrerpolicy="no-referrer"></p>
+<p>在这里，我们呈现当下年轻人的面貌、故事和态度。</p>
+<p>MBTI又火了。</p>
+<p>或许你早就做过这个测试，标榜自己和谷爱凌都是INTJ；或许你看不懂这4个字母，被16种人格类型搞得头晕目眩；或许你根本就不在乎，这玩意和星座能有多大区别？</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/EnyLWxGTUE38iRxAmss9.jpeg" alt width="751" height="912" referrerpolicy="no-referrer"></p>
+<p>不管是在深夜打开Tinder的自我介绍，还是短视频兜售的性格测试问卷，MBTI是时下火热的新话题与新生意。</p>
+<p>但它也逐渐变味儿了。</p>
+<h2 id="toc-1">一、玩字母的年轻人</h2>
+<p>对于热衷于玄学算命的人来说，MBTI是老朋友了，十年前就火过。</p>
+<p>星座星盘、生辰八字、紫微斗数、塔罗占卜——传统命理工具已经被年轻人玩腻了之后，MBTI的出现，就像是老情人换上了新马甲，4个字母的组合搭配，让它显得比星座更有理论依据，比塔罗牌更有学术支撑。</p>
+<p>MBTI测试主要分配了四个对照组：</p>
+<p>外向（Extroversion）：会偏向从与外部事物的交流促进心灵能量的流动。</p>
+<p>内向（Introversion）：会偏向从自身思索、内省的过程促进心灵能量的流动。</p>
+<p>实感（Sensing）：着眼于当前事物，惯于先使用五感来感受世界。</p>
+<p>直觉（Intuition）：着眼未来，着重可能性及预感，从潜意识及事物间的关联来理解世界。</p>
+<p>思考（Thinking）：比起人的感受更重视于事情的逻辑，自发性的批判。</p>
+<p>情感（Feeling）：比起事情的逻辑更重视于人的感受，自发性的欣赏。</p>
+<p>判断（Judging）：倾向于以结构化的方式认识世界，井然有序及有组织的生活，而且喜欢安顿一切事物。</p>
+<p>感知（Perceiving）：倾向于以非结构化的方式认识世界，始终开放选择机会，自然发生及弹性的生活。</p>
+<p>选取各类别的首字母来组成测试结果的名称，比如“INTJ”就是一个“内倾型-直觉型-思考型-判断型”人格。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/m0rNgaWM6tKaDhnwyFPN.png" alt referrerpolicy="no-referrer"></p>
+<p>做完测试，只是踏入MBTI大门的第一步。</p>
+<p>往下划拉，你会发现MBTI测试的底部，都会贴心地提供每个人格的对应名人。</p>
+<p>如果你是INTJ，那你和马斯克是同一类人。</p>
+<p>如果你是ENFJ，那你和奥巴马是同一类人。</p>
+<p>如果你是INTP，恭喜你，你和爱因斯坦和牛顿是同一类人。</p>
+<p>不得不承认，测试者很容易产生这样的心理暗示：在我的潜力之中，是否很有可能是个天才科学家？</p>
+<p>当然，牛顿和爱因斯坦不可能做过这套MBTI测试。所有名人案例，都只是方便你对号入座、找到愉悦的认同感罢了。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/n7j1rM7RBUI7amTXo1Oi.png" alt width="863" height="511" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：personality database</p>
+<p>想要真正进入MBTI的话语圈层之中，还需要对16型人格特点进行一个填鸭式恶补。</p>
+<p>MBTI信众们进化成了民间野生心理学家，在知乎帖子和豆瓣小组里流连忘返，如饥似渴地分析自己的人格特点。</p>
+<p>按照互联网流行的说法，最好辨认的就是I人（内倾型）与E人（外倾型）：</p>
+<p>I人在社交场合只能硬着头皮强颜欢笑，当聚会结束坐上出租车的那一刻，才会卸下重担长舒一口气：有这个功夫，还不如宅家里追剧。</p>
+<p>E人无法接受一分一秒的独处，每时每刻都恨不得粘在朋友们身上，典型的人来疯，社交场合中声音最吵的，是活力四射的E人。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/twtMgl4sAeEHmThe4Tjc.png" alt width="725" height="725" referrerpolicy="no-referrer"></p>
+<p>J人（计划型）与P人（展望型）也很好归类：</p>
+<p>J人有严格的时间规划表，把房间收拾得井井有条，总会把软件的新消息提示全部点掉。</p>
+<p>P人明显更随性慵懒，走一步看一步，约会总是迟到，工作总是拖延到ddl之前做完。</p>
+<p>外网甚至提供了一份简约型问卷，绕来绕去，不过就是这四道问题：</p>
+<ol>
+<li>你上学的时候受欢迎吗？</li>
+<li>你运动吗？</li>
+<li>你数学好吗？</li>
+<li>你的房间整洁吗？</li>
+</ol>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/DZQMLsZK1ObfnEWSqoCF.png" alt referrerpolicy="no-referrer"></p>
+<p>当你全面掌握了16型人格的每一个刻板印象之后，就可以加入表情包自嘲狂欢了，一场大型文艺复兴拉开序幕。</p>
+<p>在微博@MBTImemes和Reddit有关MBTI的内容里，聚集了各式人格的吐槽投稿。</p>
+<p>比如ENFP人，热衷于炫耀自己是所有人格中的“可爱小狗”，试图和所有碳基生物交朋友：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/QC2bU5ul3ph1EUTBsITD.jpeg" alt width="586" height="472" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：抖音</p>
+<p>ENFP试图向全世界表达爱意的时候，绝对不会掩饰一分一毫：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/2vRrOAsZxkaILxvKtnc8.jpeg" alt referrerpolicy="no-referrer"></p>
+<p>ENFP也可能是全世界最吵最爱侃大山的人：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/nfyUNt6xoFxUY84sXSoJ.jpeg" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：抖音</p>
+<p>而辩论家ENTP，是全世界最爱吵架和辩论的人。</p>
+<p>当你立刻同意了他的观点时：一拳打在棉花上，会让他们无比抓狂。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/6pFhka5z8uTP9Lqzkp1U.gif" alt width="476" height="387" referrerpolicy="no-referrer"></p>
+<p>和E型人相反，I型人的苦衷近似于社恐人的自白。</p>
+<p>当社恐INTJ不得不出门时：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/9i4uT7DrGYHPMDZN5jAY.gif" alt width="485" height="268" referrerpolicy="no-referrer"></p>
+<p>当ISFP意识到，自己是全世界最平凡的人格时：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/44SZrzj39pBUFRIbiAab.gif" alt width="486" height="238" referrerpolicy="no-referrer"></p>
+<p>当ENTJ（霸总CEO人格）和INFP（慵懒废物型人格）聊天时：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/paQpaf3cOibs8B99evBC.png" alt width="556" height="541" referrerpolicy="no-referrer"></p>
+<p>当不善表达的INTJ看着E人朋友们玩到一起时：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/tbY1N68wt5hiT24FzXJl.png" alt width="697" height="697" referrerpolicy="no-referrer"></p>
+<p>当社恐INTJ不敢给人打语音电话时：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/n9r0O3u0WTyEHrTGXMFX.png" alt referrerpolicy="no-referrer"></p>
+<p>分析现实生活中的人已经不够满足，MBTI的方法论还能套在虚拟角色和纸片人身上。</p>
+<p>于是，这套心理工具成为娱乐化产业的一环。</p>
+<p>哈利·波特是具有冒险精神的ISFP，赫敏是激进澎湃的管理者ESTJ，罗恩是典型的娱乐型人格ESFP，露娜是带一点神经质的INFP。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/sojuEJz95hSiNf0DHL16.png" alt width="822" height="442" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：personality database</p>
+<p>漫威里的超级英雄也可以套用MBTI大法。</p>
+<p>钢铁侠是外向型的企业家人格ESTP，蜘蛛侠是可爱小狗ENFP，奇异博士自然是智商拔群的INTJ。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/OV93Xx6Ar4UsnFDxuMcx.png" alt width="780" height="411" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：personality database</p>
+<p>甄嬛是心思缜密的INFJ，沈眉庄是具有领导力的ENFJ，安陵容是敏感细腻的ISFJ。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Abgx7A9kk5IYHa1RtKjj.png" alt width="782" height="438" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：B站@intp的试验田</p>
+<p>MBTI在互联网时代全方位起死回生，最大的荣光归于社交媒体。</p>
+<p>从传播学的角度看，普通人很难拒绝加入这场“自我定位&定义他人”的娱乐浪潮。</p>
+<p>如果一个表情包就能概括我们在社交、职场、恋爱中最想要自嘲或自夸的特点，我相信大部分人都忍不住会心一笑。</p>
+<p>但它值得相信吗？</p>
+<h2 id="toc-2">二、MBTI是新型互联网邪教吗？</h2>
+<p>问题随之而来。</p>
+<p><strong>MBTI终究是一场关于人格分类的流行文化，并不是严谨科学的心理学测试。</strong>说白了，玩MBTI就是图一乐，认真的人就输了。</p>
+<p>MBTI确实有心理学背景，但这个背景算不上严谨。</p>
+<p>它的全名是迈尔斯-布里格斯性格分类指标（Myers-Briggs Type Indicator），是一种内省的自我报告问卷，表明人们在如何看待世界和做出决定方面存在不同的心理偏好。</p>
+<p>该测试由美国的凯瑟琳·布里格斯（Katharine Briggs）和她的女儿伊莎贝尔·布里格斯（Isabel Briggs）在家中发明，她们是荣格《心理类型学》的狂热爱好者。但其实母女俩没有任何心理学学位，这也是MBTI一直被心理学界诟病的“原罪”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/97vy9karbcAkxsmpRSrC.png" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">凯瑟琳与伊莎贝尔母女</p>
+<p>看上去很科学，但事实上没有专业期刊论证过它是一个准确的测量工具。心理学界对MBTI的态度比较负面，关于MBTI是否是伪科学/民间科学的争议一直存在。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/acODcWKKKQrI5kChYyX9.png" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：知乎</p>
+<p>即使MBTI背靠的理论大树是荣格的《心理类型学》，也不代表它完全靠谱。</p>
+<p>荣格在他的理论中提出了三种维度：内向I-外向E，感觉S-直觉N（偏好感知事实/细节还是感知整体/可能性），思维T-情感F（偏好依据逻辑来做判断还是依据情感/和谐来做判断）。</p>
+<p>后来，凯瑟琳和伊莎贝尔母女在荣格的基础上加了一个维度“判断J-知觉P（偏好标准可控的生活方式还是灵活开放的生活方式）”，2x2x2x2=16种类型。</p>
+<p>但问题是，荣格的理论是从临床观察中得出的判断，但并没有经过实证检验。荣格本人也曾写信谴责凯瑟琳与伊莎贝尔母女二人对实验对象的干涉性做法。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/GD2ALSe9NWpxX3hl8xzV.png" alt width="743" height="621" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">《心理类型学》荣格</p>
+<p>撇开理论源头，实际测试过程中的问题更多。</p>
+<p>明眼人可能已经发现了，MBTI测试问的全是废话。</p>
+<p>问题：你是一个内向、有条理、情绪化的人吗？</p>
+<p>结果：你是一个内向、有条理、情绪化的人。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/XFSCTLjP1mZjyEq5M1F7.png" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/vBkU3sK2famK37VtU3Vh.png" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/gqiwDEI4B0yYVeKToXp9.png" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：16 peronalities</p>
+<p>其中学界最为质疑的，是MBTI性格测试的科学性。</p>
+<p>具体表现为<strong>信度</strong>（reliability）与<strong>效度</strong>（validity）的问题。</p>
+<p>信度指测量工具的一致性。作为衡量的尺，测量结果应该保持高度的准确性。但实际情况并非如此，“有研究发现，超过50%的人参加了两次MBTI测试，结果完全不同”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/jKbi3biBcSsNDVEblgfY.png" alt width="576" height="360" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：YouTube@Vox</p>
+<p>无论是果壳2015年的文章《MBTI测试，从头到脚不靠谱》，还是《卫报》的Nothing personal: The questionable Myers-Briggs test与《华尔街邮报》Myers-Briggs: Does it pay to know your type?，几篇文章都指出了信度差的原因：</p>
+<p>一是迫选（二选一）。根据正态分布，大部分人都是“二者皆可”的状态，总在两个极端之间反复横跳。人不总是非此即彼的，有人可以在特定情况下外向或内向。</p>
+<p>并且，不同情绪、不同场景也会影响最终答案。假设我今天异常emo，我就更有可能测出一个F型人格，如果我今天冷静平和有逻辑，测试出的结果更有可能是T型人格。</p>
+<p>二是分类有问题，无论你是90%的外向型还是51%的外向型，按照计分方式，都会被称为E型人，实际上51%的E人和49%的I人，其性格也许更接近。</p>
+<p>而效度指的是测试结果的有效性，效度是建立在信度之上的，如果连测出的结果都在不断浮动，有效性自然就薄弱。</p>
+<p>在心理学杂志Psychology Today的文章Goodbye to MBTI, the Fad That Won’t Die中，作者指出MBTI人格类型和工作之间并没有一致关系，用MBTI规划自己的职业生涯显然是缺乏效度的。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/dKQ1MC8PZFGsIXDGbR8G.png" alt referrerpolicy="no-referrer"></p>
+<p>当然，我们也不能忘记著名的心理现象：<strong>巴纳姆效应</strong>。</p>
+<p>人们会对于他们认为是为自己量身订做的一些人格描述给予高度准确的评价，而这些描述往往十分模糊及普遍，以致能够放诸四海皆准适用于很多人身上。巴纳姆效应能够对于为何不少伪科学如占星学、占卜或心理测验以及抽签掷筊等被普遍接受的现象，提供一个十分完全的解释。（维基百科）</p>
+<p>永远不要低估人们自我欺骗与自我美化的能力。你选择的人格，有可能不是你实际的人格，而是你期待成为的理想人格。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/F0spGCqLSW6GWzbL8b7j.png" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">传说中的“霸道总裁”型人格ENTJ</p>
+<p>另一种情景是，当你获得了一个四字字母头衔，就会忍不住对号入座。不断用一个念头强化自己：我就是这样的人，我应该保持这样的状态，不断自我设限，压抑了本身无限的可能性。</p>
+<p>接下来会发生什么？MBTI的信众将不断在社交群体内验证他得到的结果，并且把同样的16种标签与方法论套用在别人身上。</p>
+<p>“你看，我就知道你是一个INTP。”</p>
+<p>这种对话熟悉吗？</p>
+<p>“你这么洁癖，一定是个处女座吧？”</p>
+<p>“你脾气不好，一定是火象星座吧？”</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/9ZlaYU9YScDLuCdbDFVp.png" alt referrerpolicy="no-referrer"></p>
+<p>MBTI还衍生出一系列鄙视链。</p>
+<p>比如曾经网上流传的一张图，就揭示了人们在使用MBTI时的产生的误区与偏见。</p>
+<p>MBTI本就是刻板印象的产物，而MBTI鄙视链就是刻板印象的重灾区。ISFJ（母亲型守卫者人格）被放置在金字塔的最底层，他们就像一个社会中的工蜂，是离成功学最远的普通人。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/2m99Ugn6R6jmMwVYISo6.png" alt width="739" height="418" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：知乎@逆风玉</p>
+<p>相反，如果你有幸是一个ESTJ，那你一定会被测试结果的页面激励：他们甚至放上了一段乔布斯（著名ESTJ）的名言来激励你成为一个优秀的领导者。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/OPdCiAZnoAi8rs4jUBhE.png" alt width="869" height="312" referrerpolicy="no-referrer"></p>
+<p>那么，不符合主流期待的性格，是否会被视为一种“缺陷”？</p>
+<p>有逻辑会思考的人，是否比多愁善感emo人智商高？</p>
+<p>外向者是否比内向者更善于在社会生存？</p>
+<p>有规划的、井井有条的J人，只适合做枯燥乏味、没有创造力的工作？</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/3gxyq9cNqu1PaUxYZlYq.png" alt width="630" height="555" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：知乎@Xylitol，MBTI刻板印象全家桶</p>
+<p>这显然对沉迷其中的玩家/测试者是不公平的。</p>
+<p>即便官方解释总是在取悦测试者们：内倾的你敏锐有洞察力，外倾的你具有领导力和感染力。还记得一年前的性格色彩测试是怎么变着法夸你的吗？人们总是很难拒绝送上门来的赞赏与祝福。</p>
+<p>但在传播的过程中，这些性格元素不断被参与者解读和娱乐化。一系列排行榜诞生了：</p>
+<p>16型人格中谁的智商最高？</p>
+<p>16型人格中谁最会赚钱？</p>
+<p>16型人格中谁最花心？</p>
+<p>……</p>
+<p>再紧跟着一句“你上榜了吗”，MBTI彻底沦为了新的“星座运势”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/M1RF5F4clSUr9Rl5Itan.png" alt referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：抖音</p>
+<h2 id="toc-3">三、认识你自己</h2>
+<p>苏格拉底说：认识你自己。</p>
+<p>这是古往今来最难的事，也是人类向内探索的终极问题。</p>
+<p>在希波克拉底传统的体液学说中，人类被分为多血质、黏液质、胆汁质和抑郁质。我们总是对人格与气质充满好奇，在哪个时代都如此。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/DrdWbOXZeRrW8JFUKiia.jpeg" alt referrerpolicy="no-referrer"></p>
+<p>当然，这也是一门赚钱的好生意。</p>
+<p>MBTI人格测试背后的CPP公司，掌握着这个价值2000亿美元的生意。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/y6gOPZg1dOC4LPPP4il0.png" alt width="654" height="295" referrerpolicy="no-referrer"></p>
+<p>在CPP公司的官网，做一套正版的MBTI测试要花费49.95美元</p>
+<p>MBTI是一个非常善于营销的明星产品。</p>
+<p>从学术层面看，大五人格元素（TheFiveFactorModel，简称FFM）在学界的口碑更胜一筹，但实际上，“大五人格”并没有被大众熟知。</p>
+<p>反观MBTI的流行，与过硬的营销能力脱不了关系，毕竟CPP公司花费了大量资源培训MBTI相关的咨询师与销售人员。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Fk6Evu4x28PUpHNo0p2i.png" alt width="815" height="347" referrerpolicy="no-referrer"></p>
+<p>并且，MBTI确实具备流行元素——它让“标签化”来得更快速直接。</p>
+<p>MBTI的答题过程二元，结果足够明确。这同时也意味着：理解门槛低、轻松让测试者对号入座、也更容易产生刻板印象。</p>
+<p>它可以用来辅导就业，它可以测试你的理想伴侣，甚至在社交时，测试对方和你是否合拍——它踩准了近一百年来资本社会的需求。</p>
+<p>我们需要一个高效率工具来简化社交过程，但成为一个狂热的人格分类爱好者，并不能让你更好地了解每一个人。MBTI和其他分类工具，只不过在你眼前蒙上一层后现代滤镜：“他是INTP、太阳天枰、上升处女、985硕士，他可以交往”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/kZ8lZyvqpo04gjPf949a.jpeg" alt width="806" height="1060" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图源：小红书</p>
+<p>但全世界的人类只有16种类型吗？</p>
+<p>在过于追捧MBTI的标签分类时，不可避免地会走向对人的异化。</p>
+<p>每一个个体都是复杂的结合体，可以兼备理性与理性，孤独与热情。</p>
+<p>忽视具体的人，按照4个字母代号来模糊一个个具体的身躯与脸庞，未免太像《黑镜》中会出现的场景。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Ec4tL2cSgWymL7W8ERjI.png" alt width="667" height="443" referrerpolicy="no-referrer"></p>
+<p>在纽约客的文章What Personality Tests Deliever中，作者提到了一本1956年的美国著作《组织人》。威廉·怀特认为，各种人格测试的涌现，实际上和二战之后美国人的从众心理有关。通过人格测试，我们展示了对社会的顺从性。</p>
+<p>每一个具体的人被量化为可控制、可排序的劳动力符号，沉默寡言或是聒噪轻浮，脚踏实地或是上进内卷，这些数字出现在大厂HR的数据库中，或是一次15秒短视频的段子里——是我们共同塑造了这些荒诞的社交刻板印象。</p>
+<p>而在去掉这一系列标签之后，你我他，又是谁？</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" src="https://image.yunyingpai.com/wp/2022/04/76b0zmGe1tDnbIeJMs8f.jpeg" alt referrerpolicy="no-referrer"></p>
+<p>在标签背后，藏着人类永远无法逃脱的孤独。</p>
+<p>MBTI不过是我们向外界展示自己的又一顶帽子，无非是想让更多的人“看看我、了解我、爱我”，“我是一个有趣可爱的人，我是一个思想深邃的人，我值得被人认可和喜欢”。</p>
+<p><strong>可惜，人与人之间的交往，并不是一场标签的兑换。</strong></p>
+<p> </p>
+<p>作者：黄瓜汽水；公众号：那個NG</p>
+<p>原文链接：https://mp.weixin.qq.com/s/cB7YCRNqoO2yjP_mFeHQbg</p>
+<p>本文由@ 那個NG 授权发布于人人都是产品经理，未经许可，禁止转载。</p>
+<p>题图来自Unsplash，基于CC0协议</p>
+                      
+</div>
+            
