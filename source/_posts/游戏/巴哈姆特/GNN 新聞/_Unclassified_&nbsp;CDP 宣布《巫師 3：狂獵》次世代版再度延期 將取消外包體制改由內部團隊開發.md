@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/01/9b747887691f80f583a98a9e421fwtt5.JPG?v=1649908470347'
 author: 巴哈姆特
 comments: false
-date: 2022-04-14 04:10:27
+date: 2022-04-14 05:08:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9b747887691f80f583a98a9e421fwtt5.JPG?v=1649908470347'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9b747887691f80f583a98a9e421fwtt5.
 <div>
  </div>
 <div>
-　　CD Projekt RED 表示，由於決定改由內部團隊接手《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B7%AB%E5%B8%AB+3%EF%BC%9A%E7%8B%82%E7%8D%B5" target="_blank">巫師 3：狂獵</a>》次世代主機升級版剩餘的開發工作，目前正在評估需要完成的工作範圍，因此不得不推遲原定的上市時間，等待後續通知，並感謝玩家體諒。</div>
+　　CD Projekt RED 表示，由於決定改由內部團隊接手《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B7%AB%E5%B8%AB+3%EF%BC%9A%E7%8B%82%E7%8D%B5" target="_blank">巫師 3：狂獵</a>》次世代主機升級版剩餘的開發工作，目前正在評估需要完成的工作範圍，因此不得不推遲原定的上市時間，直到後續通知。感謝玩家的體諒。</div>
 <div>
  </div>
 <div>
@@ -44,7 +44,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9b747887691f80f583a98a9e421fwtt5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B7%AB%E5%B8%AB+3%EF%BC%9A%E7%8B%82%E7%8D%B5" target="_blank">巫師 3：狂獵</a>》次世代主機版升級原本是外包給先前經手 Nintendo Switch 版移植的 Saber Interactive，原定於 2021 年內推出，後於 2021 年 10 月宣布延期至 2022 年第 2 季。如今又突然宣布將改由內部團隊接手開發，而且因為必須重新確認剩餘的開發工作範圍，因此將無限期推遲上市時程，可說是一波三折。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B7%AB%E5%B8%AB+3%EF%BC%9A%E7%8B%82%E7%8D%B5" target="_blank">巫師 3：狂獵</a>》次世代主機版升級原本是外包給先前經手 Nintendo Switch 版移植的 Saber Interactive 開發，原定於 2021 年內推出，後於 2021 年 10 月宣布延期至 2022 年第 2 季。如今又突然宣布將改由內部團隊接手開發，而且因為必須重新確認剩餘的開發工作範圍，因此將無限期推遲上市時程，可說是一波三折。</div>
 <div>
  </div>
 <h2>
