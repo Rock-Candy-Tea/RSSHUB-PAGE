@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684'
 author: 巴哈姆特
 comments: false
-date: 2022-04-14 03:33:03
+date: 2022-04-14 04:10:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.JPG?v=1649825586684'
 ---
 
@@ -31,7 +31,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/f8295bf1518d9de2c59e76e3f01fw9w5.
 <div>
  </div>
 <div>
-　　預定於 4 月 20 日釋出的免費更新中，將追加新增故事的額外章節（共 6 章），擴展區域任務（1 章），開放能獲得「賽巴斯塔」、「SRX」等機體的 5 個預購特典限定任務，加入來自《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B6%85%E7%B4%9A%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%B0+OG" target="_blank">超級機器人大戰 OG</a>》的「古倫加斯特」與來自《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B6%85%E7%B4%9A%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%B0+X" target="_blank">超級機器人大戰 X</a>-Ω》的「梵・Ein」等系列粉絲熟悉的原創主角與機體。</div>
+　　預定於 4 月 20 日釋出的免費更新中，將追加新增故事的額外章節（共 6 章），擴展區域任務（1 章），開放能獲得「賽巴斯塔」、「SRX」等機體的 5 個預購特典限定任務，加入來自《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B6%85%E7%B4%9A%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%B0+OG" target="_blank">超級機器人大戰 OG</a>》的「古倫加斯特」與來自《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B6%85%E7%B4%9A%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%B0%20X-%CE%A9" target="_blank">超級機器人大戰 X-Ω</a>》的「梵・Ein」等系列粉絲熟悉的原創主角與機體。</div>
 <div>
  </div>
 <div>
