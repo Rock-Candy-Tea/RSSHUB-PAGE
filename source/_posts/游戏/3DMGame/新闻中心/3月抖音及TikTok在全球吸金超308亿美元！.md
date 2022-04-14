@@ -18,13 +18,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220414/1649915129_8782
 Play吸金超过3.08亿美元，是去年同期的2.1倍。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220414/1649915129_878282.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220414/1649915129_878282.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 抖音及TikTok蝉联全球移动应用(非游戏)收入榜冠军。其中大约45.6%收入来自国内抖音，美国市场排名第二，贡献了18.8%收入，沙特阿拉伯市场排名第三，贡献了4.2%收入。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220414/1649915745_331476.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220414/1649915745_331476.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 YouTube以将近1.08亿美元的收入，位列榜单第二名，相较去年同期增长 
@@ -32,7 +32,7 @@ YouTube以将近1.08亿美元的收入，位列榜单第二名，相较去年同
 One。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20200518/1589777800_231561.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20200518/1589777800_231561.jpg" alt="3月抖音及TikTok在全球吸金超3.08亿美元！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 注意，Sensor 
