@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?v=1649920335398'
 author: 巴哈姆特
 comments: false
-date: 2022-04-14 09:09:10
+date: 2022-04-14 10:09:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?v=1649920335398'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?v=1649920335398" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG 2x" style="max-width: unset;" title="「仙劍奇俠傳」李逍遙、趙靈兒時裝，4/14 聯動合作開啓" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?v=1649920335398" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.JPG 2x" style="max-width: unset;" title="「仙劍奇俠傳」李逍遙、趙靈兒時裝，4/14 聯動合作開啓" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「仙劍奇俠傳」李逍遙、趙靈兒時裝，4/14 聯動合作開啓</figure>
 </li>
@@ -49,9 +49,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 53.89%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG?v=1649920355638" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG 2x" style="max-width: unset;" title="《仙劍奇俠傳》李逍遙、趙靈兒現身《永劫無間》" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 53.89%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG?v=1649920355638" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/d22e8e68c964ed6b35c9e3894c1fx0d5.JPG 2x" style="max-width: unset;" title="《仙劍奇俠傳》李逍遙、趙靈兒現身《永劫無間》" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 53.89%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG?v=1649920355638" data-srcset="https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG 2x" style="max-width: unset;" title="《仙劍奇俠傳》李逍遙、趙靈兒現身《永劫無間》" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 53.89%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG?v=1649920355638" data-srcset="https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/38/a2b4c62910629f9f60502e1ba21fx0e5.JPG 2x" style="max-width: unset;" title="《仙劍奇俠傳》李逍遙、趙靈兒現身《永劫無間》" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 《仙劍奇俠傳》李逍遙、趙靈兒現身《永劫無間》</figure>
@@ -71,7 +71,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG?v=1649920366696" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG 2x" style="max-width: unset;" title="購買指定聯動時裝，有機會獲得全新曲面電競螢幕" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG?v=1649920366696" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/d0ceaa6e192e520f09d1b125b81fx0b5.JPG 2x" style="max-width: unset;" title="購買指定聯動時裝，有機會獲得全新曲面電競螢幕" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 購買指定聯動時裝，有機會獲得全新曲面電競螢幕</figure>
 </li>
@@ -87,15 +87,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/c544d6a1e43a7a12bd735de9cb1fx0c5.
 　　自 4 月 13 日起，邀請十位實況主輪番上陣，打造眾星雲集、與眾不同的「武林實況秀」，除了每位實況主將配合主題展現不同風格的武功技法外，也邀請豪傑們可以一起與實況主們組隊同樂、大顯身手，秀一<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E7%A5%9E" target="_blank">波神</a>技！詳細活動參與辦法請至《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B0%B8%E5%8A%AB%E7%84%A1%E9%96%93" target="_blank">永劫無間</a>》官方粉絲團查看。</div>
 <div>
  </div>
+</div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/39/e19b4be380d2f6018d4ca0d5291fx0f5.JPG?v=1649920312696" data-srcset="https://p2.bahamut.com.tw/B/2KU/39/e19b4be380d2f6018d4ca0d5291fx0f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/39/e19b4be380d2f6018d4ca0d5291fx0f5.JPG 2x" style="max-width: unset;" title="《永劫無間》將邀請十位實況主參與不同主題的直播" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/54944062958adfd7084c4fd48a1fx6q5.JPG?v=1649930336317" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/54944062958adfd7084c4fd48a1fx6q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/54944062958adfd7084c4fd48a1fx6q5.JPG 2x" style="max-width: unset;" title="《永劫無間》將邀請十位實況主參與不同主題的直播" alt="image" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《永劫無間》將邀請十位實況主參與不同主題的直播</figure>
 </li>
 </ul>
-</div>
 </div>
 <div>
  </div>
