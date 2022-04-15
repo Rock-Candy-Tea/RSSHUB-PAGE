@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-04-15 10:10:00
-thumbnail: 'https://pica.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162'
+date: 2022-04-15 11:08:11
+thumbnail: 'https://pic1.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://pica.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-5d4b94821b59be71824541e835833af8_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">对面会更惨，</span><span class="bio">游戏策划</span>
 </strong>
 
