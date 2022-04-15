@@ -15,7 +15,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220415/s_da8cd6fdbf5a4765ba2f25498d
 <div>   
 <p>今日，@SmartisanOS 官微发布长文宣布将回归，但并非与手机相关，而是一种大屏设备。</p>
 <p>与此同时，康佳电视官宣，<strong>将在4月18日举行康佳APHAEA春季战略新品发布会，</strong>海报中出现了出现了锤子科技的Logo，预计将推出搭载SmartisanOS为大屏设备准备的新系统。</p>
-<p>随后，数码博主@坚果pai 放出了一段宣称是搭载了Smartisan TV OS的康佳电视实机演示视频。</p>
+<p>随后，数码博主@坚果派pai 放出了一段宣称是搭载了Smartisan TV OS的康佳电视实机演示视频。</p>
 <p>从视频来看，<span style="color:#ff0000;"><strong>主界面上方设有精选、AI健身、影视、应用、教育、K歌等分类，支持QQ音乐、微信等App，</strong></span>多任务后台采用目前主流的卡片式设计，画面过度比较流畅。</p>
 <p class="newsinfo_vedio"><a class="mydrivers_player" href="https://weibo.com/7518750721/Lox7MonSo">视频</a></p>
 <p>另外，在电视开机画面中，还可以看到SmartisanOS的Logo。</p>
