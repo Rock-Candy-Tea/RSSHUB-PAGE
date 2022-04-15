@@ -1,0 +1,19 @@
+
+---
+title: 'Green Launch展示高超音速太空炮 据称从地面到轨道只需10分钟'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0415/1ec1535ad61345c.webp'
+author: cnBeta
+comments: false
+date: Fri, 15 Apr 2022 02:52:42 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0415/1ec1535ad61345c.webp'
+---
+
+<div>   
+据New Atlas报道，火箭昂贵、复杂，对环境不利，而且偶尔会爆炸--因此替代性发射技术正在涌现，以减少其使用。本周早些时候，SpinLaunch公司展示了其出色的动能发射系统，该系统在真空室中用长长的碳纤维臂将火箭旋转到难以置信的速度，然后以高达或超过6马赫的速度向天空释放。<strong>现在，Green Launch展示了一种简单得多的方法，该公司称其技术可以让运载火箭和坚固耐用的电子货物以几乎三倍的速度离开地面</strong>，而且周转时间更快。<br>
+<p style="text-align: left;">这一次，它基本上是一个巨大的氢动力脉冲发射炮。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0415/1ec1535ad61345c.webp" alt="下载.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Green Launch公司首席运营官和首席科学官John W. Hunter 博士在大约30年前指导了劳伦斯利弗莫尔国家实验室的超高空研究项目（SHARP）计划，并在此过程中领导了世界上最大和最强大的"氢气冲力发射器"的开发。</p><p style="text-align: left;">这实际上是一个长管子，里面装满了氢气，并混有氦气和氧气，前面有一个射弹。当这种气体大炮被发射时，气体极速膨胀，弹丸在后面受到巨大的冲击。SHARP计划在1992年建造并测试了一个400英尺（122米）的脉冲发射器，打破了所有轨道炮式电动发射器的能量和速度记录，并以高达9马赫的速度发射有效载荷（包括高超音速的喷气式试验发动机）。</p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=341088256&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align:center"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=341088226&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p><p style="text-align: left;">Green Launch业务发展总监Eric Robinson说，这种方法的规模远远大于像SpinLaunch系统那样的旋转加速器。</p><p style="text-align: left;">“用氢气推进剂发射的射弹的记录是11.2公里/秒（32.7马赫），”他在一封电子邮件中告诉New Atlas。“我们计划将我们的发射速度限制在6公里/秒（17.5马赫），以延长可重复使用的时间并防止枪管的磨损。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0415/0dca428dcd19b26.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0415/0dca428dcd19b26.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">与SpinLaunch系统一样，Green Launch将需要发射一枚小型的二级火箭，给它一个最后的加速，并将它引导到正确的轨道。但是，由于氢气炮的发射速度要快得多，这种火箭可以大大地缩小和减轻重量。</p><p style="text-align: left;">Green Launch公司估计，所涉及的加速力将达到约30,000G的峰值，而且它有一个足够简单的测试，以确定一块电子元件是否能够承受这种分流：用环氧树脂将元件粘在高尔夫球上，然后用三根木头捶打它。</p><p style="text-align: left;">该公司说，这产生了类似的加速度，甚至对许多现成的电子元件也不构成问题。小型、坚固的卫星应该是没有问题的。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0415/cb798229f80d96e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0415/cb798229f80d96e.jpg" alt="下载.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Green Launch公司说，成本将是最低的--也许是把有效载荷放在火箭上的成本的十分之一。此外，放弃一级火箭可以消除一大堆燃烧的燃料和相关的排放物，因为氢气燃烧干净，只排放水和产生非常大的爆炸声。这也将使卫星星座所有者有能力将风险分散到多次发射中，而不是在一次火箭爆炸中损失200颗卫星。</p><p style="text-align: left;">氢气炮可以每60-90分钟发射一次，将其高超音速弹丸送上天空，它将“在一分钟内穿透大气层并脱去气溶胶壳”。300-1000公里（186-621英里）的低地球轨道可在两小时内抵达，有些则更快。Robinson说：“你的卫星和物资可以在10分钟内进入轨道。”</p><p style="text-align: left;">该公司已经建造了一个54英尺（16.5米）的概念验证发射管，就在去年圣诞节前，该团队在亚利桑那州的尤马试验场将其垂直向上瞄准，进行首次垂直试射，实现了 “超过3马赫”的炮口速度，并将弹丸射入平流层。今年晚些时候，该团队的目标是提高速度，使弹丸足以越过地球上空100公里（62英里）的卡门线，并进入被称为太空的起点。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0415/3cb7d78256c9918.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0415/3cb7d78256c9918.jpg" alt="下载 (1).jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Robinson说：“我们目前的合作者和客户包括加州大学旧金山分校和哈佛大学的一个国家科学基金会赞助的项目。我们将在30公里和100公里之间的中间层取样，以确定同位素气体含量。这对地球的能量预算有很大影响，并为全世界的气候科学家提供物理数据。Green Launch是独一无二的，能够在对气球来说太高、对卫星来说太低的高度对地球的大气层进行活检。探空火箭的成本要高得多，而且污染严重。”</p><p style="text-align: left;">“基于我们最近在尤马试验场的成功，”他继续说，“我们正在为我们的亚轨道然后是第一轨道系统进入新一轮的开发。”</p><p style="text-align: center;"><iframe width="640" height="480" src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=341088530&autoplay=false&disablePlaylist=true" frameborder="0"></iframe></p>   
+</div>
+            
