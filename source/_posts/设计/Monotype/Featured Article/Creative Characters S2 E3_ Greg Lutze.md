@@ -19,7 +19,16 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
       
 
   <div class="resource-content-citation">
-                          <div class="content-field_tags ">
+              <div class="content-field_category">
+            <div class="field field--name-field-category field--type-entity-reference field--label-inline field__items">
+      <div class="field__label">Topic</div>
+                <div class="field__item" title="Expertise">
+        <a href="https://www.monotype.com/resources/expertise" hreflang="en">Expertise</a>
+            </div>
+          </div>
+
+      </div>
+                      <div class="content-field_tags ">
             <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
                 <div class="field__item">
         <a href="https://www.monotype.com/resources/podcast" hreflang="en">Podcast</a>
@@ -108,14 +117,14 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/creative-characters-s2-e3-greg-lutze&title=Creative%20Characters%20S2%20E3:%20Greg%20Lutze." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/expertise/creative-characters-s2-e3-greg-lutze&title=Creative%20Characters%20S2%20E3:%20Greg%20Lutze." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook"/>
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Creative%20Characters%20S2%20E3:%20Greg%20Lutze.+https://www.monotype.com/resources/creative-characters-s2-e3-greg-lutze" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Creative%20Characters%20S2%20E3:%20Greg%20Lutze.+https://www.monotype.com/resources/expertise/creative-characters-s2-e3-greg-lutze" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter"/>
             </svg>
@@ -128,7 +137,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
     <!-- Pinterest share button -->
     
     <!-- Linkedin share button -->
-            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/creative-characters-s2-e3-greg-lutze" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/expertise/creative-characters-s2-e3-greg-lutze" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#linkedin"/>
             </svg>
