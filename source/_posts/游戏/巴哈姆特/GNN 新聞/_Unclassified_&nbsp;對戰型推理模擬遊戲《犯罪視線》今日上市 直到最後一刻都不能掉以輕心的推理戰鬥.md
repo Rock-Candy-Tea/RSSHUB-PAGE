@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.JPG?v=1650006361760'
 author: 巴哈姆特
 comments: false
-date: 2022-04-15 14:08:25
+date: 2022-04-15 15:09:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.JPG?v=1650006361760'
 ---
 
@@ -17,8 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 <!-- 新聞內容 -->
 <div>
 <div>
-<div>
-　　由 KONAMI 推出的新作 PC 平台遊戲軟體《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8A%AF%E7%BD%AA%E8%A6%96%E7%B7%9A" target="_blank">犯罪視線</a> CRIMESIGHT》，於今（15）日正式發售。</div>
+　　由 KONAMI 推出的新作 PC 遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8A%AF%E7%BD%AA%E8%A6%96%E7%B7%9A" target="_blank">犯罪視線</a> CRIMESIGHT》於今（15）日正式發售。</div>
 <div>
  </div>
 <div>
@@ -95,7 +94,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
-　　在遊戲開始後，會出現六名殘留在被隔離的空間裡，稱為士兵（Pawn，ポーン）的角色。在這六人當中，有莫里亞提企圖要殺害的「目標（ターゲット）」，與實際要實行殺人行為的「殺手（キラー）」，但是從外觀上無法區別。</div>
+ </div>
+<div>
+　　遊戲開始後，會出現六名殘留在被隔離的空間裡，稱為士兵（ポーン）的角色。在這六人中，有莫里亞提企圖要殺害的「目標（ターゲット）」與實際執行殺戮的「殺手（キラー）」，但是從外觀上無法區別。</div>
 <div>
  </div>
 <div>
@@ -109,6 +110,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　只要殺手在持有「凶器」的狀態下與目前進入同一個區域（エリア），並且包含該區域的房間裡面沒有其他士兵存在的話，就會自動觸發犯罪事件。玩家必須要一邊注意其他士兵的行動，同時夏洛克這一方要阻止事件發生與找出殺手，而莫里亞提這一方則是要湊齊觸發事件的條件來殺害目標。</div>
 <div>
  </div>
@@ -120,6 +123,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 只要殺手和目標沒有進入「同一個區域」裡就不會觸發事件，有可以成為目擊者的士兵在「同一個房間」裡也可以防止事件發生</figure>
 </li>
 </ul>
+<div>
+ </div>
 <div>
 　　當參與玩家人數為兩人時，就會分為夏洛克和亞里亞提，但三人以上時規則會出現變化。以下首先要介紹算是遊戲基礎玩法的一對一戰鬥規則。</div>
 <div>
@@ -142,6 +147,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　這時的重點就是給予士兵的指示數量，以及在指示重複時會如何處理。因為夏洛克方一次最多可以指示三名士兵，而莫里亞提方一次最多可以指示兩名士兵的關係，就絕對數量上來說是夏洛克方佔有優勢，但是當兩方都傳送指示給同一個士兵時，一定會以莫里亞提方的指示為優先。</div>
 <div>
  </div>
@@ -159,6 +166,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　因為沒有接到夏洛克和莫里亞提雙方陣營指示的士兵會隨機採取行動，所以在指示沒有重複發生的情況下，沒有辦法判斷哪一方對哪一個士兵發下什麼指示。莫里亞提方的玩家就必須要一邊推測夏洛克對哪些士兵發下指示，同時盡可能在移動士兵時不要讓對方能找出誰是目標。</div>
 <div>
  </div>
@@ -174,6 +183,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <div>
 　　當了解到基本規則之後，筆者就產生「只要一直讓一大群人一起行動應該就不會輸了吧？」，這種有點想耍賤招的想法。相信只要是玩過這種推理遊戲的人，應該都會有一樣的想法才對。</div>
 <div>
@@ -203,6 +214,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　在經過一天（三回合）時，手上沒有糧食的士兵就會陷入空腹狀態，一次可移動的距離將會減少。而且在空腹狀態下一直無法進食的話，會更進一步陷入飢餓狀態喪失視野範圍。</div>
 <div>
  </div>
@@ -219,6 +232,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <div>
 　　話雖如此，但情況也不是對夏洛克單方面不利。在每一天最後，夏洛克都會分析所獲得的資料，讓玩家得知在這時「目標的鄰近三個區域內有沒有殺手存在」。</div>
 <div>
@@ -241,6 +256,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <div>
 　　隨著資料分析推進，嫌疑犯的範圍持續縮小，當遊戲越接近結束，就會對莫里亞提方越不利，但是也有一個讓夏洛克方直到最後都不能掉以輕心的系統。那就是莫里亞提方玩家可以利用殺手在一場遊戲中使用一次的「襲擊」指令。</div>
 <div>
@@ -287,6 +304,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <h2>
 多人遊戲會化為更複雜的「互相欺騙」？<br>
 雖然基本規則一樣，但遊玩感卻有大幅變化</h2>
@@ -322,15 +341,19 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
  </div>
 <div>
 <ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.87%;">
+<li class="bh-grids-img-box" style="width: 99.87%; text-align: left;">
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/ebd00f45a2bca2e8a82a339bda1fxlf5.JPG?v=1650006608708" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/ebd00f45a2bca2e8a82a339bda1fxlf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/ebd00f45a2bca2e8a82a339bda1fxlf5.JPG 2x" style="max-width: unset;" title="雖然圖示有許多不同種類，但基本上只要能表示出「贊成」和「反對」兩種意思就沒有問題。在多次遊玩的過程當中，玩家應該就會逐漸掌握到應該要在什麼情況下以什麼圖示和其他人溝通，以及應該要用怎樣的圖示當假動作最有效果等等的訣竅" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-雖然圖示有許多不同種類，但基本上只要能表示出「贊成」和「反對」兩種意思就沒有問題。在多次遊玩的過程當中，玩家應該就會逐漸掌握到應該要在什麼情況下以什麼圖示和其他人溝通，以及應該要用怎樣的圖示當假動作最有效果等等的訣竅</figure>
+雖然圖示有許多不同種類，但基本上只要能表示出「贊成」和「反對」兩種意思就沒有問題。在多次遊玩的過程中，玩家應該就會逐漸掌握到應該要在什麼情況下以什麼圖示和其他人溝通，以及應該要用怎樣的圖示當假動作最有效果等等的訣竅</figure>
 </li>
 </ul>
 </div>
 <div>
+ </div>
+<div>
 　　乍看之下好像會覺得必須要和其他玩家聯手行動的夏洛克方似乎是比較複雜，但因為每一個人需要操作的士兵數量減少了，所以也有能夠用來推理目前局勢的時間資源增加這個優勢存在。</div>
+<div>
+ </div>
 <div>
  </div>
 <div>
@@ -367,12 +390,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/507c999db5d71c89e0a3f323341fxl85.
 </ul>
 </div>
 <div>
-　　像是建立起理論來解謎，盡可能鎖定情報的推理要素，以及能力上並沒有任何差異的士兵等等，其實《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8A%AF%E7%BD%AA%E8%A6%96%E7%B7%9A" target="_blank">犯罪視線</a> CRIMESIGHT》這款遊戲玩起來的感覺，很接近傳統的桌上遊戲。同時又把在玩桌上遊戲時很難重現出來的部份，交給設定為人工智慧的夏洛克和莫里亞提，讓玩家可以集中在推理以及論理謎題等最美味的部份上面，正可以說是集合了傳統遊戲與電子遊戲的優點於一身。</div>
+ </div>
+<div>
+　　像是建立起理論來解謎，盡可能鎖定情報的推理要素，以及能力上並沒有任何差異的士兵等，其實《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8A%AF%E7%BD%AA%E8%A6%96%E7%B7%9A" target="_blank">犯罪視線</a>》這款遊戲玩起來的感覺，很接近傳統的桌上遊戲。同時又把在玩桌上遊戲時很難重現出來的部份，交給設定為人工智慧的夏洛克和莫里亞提，讓玩家可以集中在推理以及論理謎題等最美味的部份上面，正可以說是集合了傳統遊戲與電子遊戲的優點於一身。</div>
 <div>
  </div>
 <div>
 　　因為每一場的遊戲時間就算是多人遊戲也只要大約三十分鐘，所以很適合多次重覆遊玩也是很令人開心的地方。與回合制的設計也搭配得很好，對於喜歡《狼人殺》或者是《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Among+Us" target="_blank">Among Us</a>》這種推理與「互相欺騙」要素，而且更希望能夠仔細思考自己每一步行動的玩家來說，應該會是很讓人著迷的作品才對。對於會和家人朋友一起玩這類遊戲的人來說，本作應該也能夠成為能夠玩上好一段時間的對戰工具吧。</div>
-</div>
 <div>
  </div>
 <div>
