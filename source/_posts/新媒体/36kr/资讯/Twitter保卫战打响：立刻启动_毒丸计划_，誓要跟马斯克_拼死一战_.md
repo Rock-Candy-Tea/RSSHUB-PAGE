@@ -1,0 +1,74 @@
+
+---
+title: 'Twitter保卫战打响：立刻启动_毒丸计划_，誓要跟马斯克_拼死一战_'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220416/v2_7de5c25da8b14e2ba8b7d95d166c0034_img_000'
+author: 36kr
+comments: false
+date: Sat, 16 Apr 2022 02:44:01 GMT
+thumbnail: 'https://img.36krcdn.com/20220416/v2_7de5c25da8b14e2ba8b7d95d166c0034_img_000'
+---
+
+<div>   
+<p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;" data-mpa-powered-by="yiban.io"><span style="font-size: 15px; font-style: italic; color: #000000; font-family: DengXian; letter-spacing: 0px; text-align: justify;">世界首富<a class="project-link" data-id="1679823261733633" data-name="马斯克" data-logo="https://img.36krcdn.com/20220401/v2_c2b3411281204c4b88fe24a79ac7686e_img_000" data-refer-type="1" href="https://36kr.com/project/1679823261733633" target="_blank">马斯克</a>大臂一挥要用430亿美元买下Twitter的事，相信大家都已经听说了。但谁都没有想到的是Twitter几大股东对此并不买账，今天更是出了一个狠招—毒丸计划。事情到底是怎么样？</span></p> 
+<section powered-by="xiumi.us" style="max-width: 100%;box-sizing: border-box;font-family: -apple-system-font, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);overflow-wrap: break-word !important;"> 
+ <section powered-by="xiumi.us" style="padding-right: 12px;padding-left: 12px;max-width: 100%;box-sizing: border-box;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;text-size-adjust: auto;line-height: 1.8;color: rgb(81, 81, 81);letter-spacing: 1px;overflow-wrap: break-word !important;"> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>在宣布收购计划后，马斯克在昨天的一场公开演讲中表示，哥买Twitter绝不是为了赚钱，哥做此决定完全是为了Twitter的未来、为了人类文明的未来！</strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">他甚至略带“杀气”地直接对Twitter股东们喊话道，“（如果投资者不买账的话），理论上，我有钱可以把他们所有的股份都买断。”</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">此外，他还表示，Plan A不行还有Plan B，反正“我不喜欢失败”。给人整体感觉就是，此次马斯克已经霸道总裁上身——买Twitter这事哥已经决定了，你们就别再做无谓挣扎了。</span></p> 
+  <p style="font-size: 15px;text-align: center;margin-bottom: 0em;"><img class="rich_pages wxw-img" data-galleryid data-ratio="0.46129541864139023" data-s="300,640" data-type="jpeg" data-w="1266" style="height: auto !important;" src="https://img.36krcdn.com/20220416/v2_7de5c25da8b14e2ba8b7d95d166c0034_img_000" referrerpolicy="no-referrer"></p> 
+  <p style="font-size: 14px;text-align: center;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 12px;">图片来自于网络，版权属于原作者</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-family: 宋体;font-size: 15px;">虽然马斯克此次来势汹汹并且已经兵临城下，但Twitter这边似乎却并不想立马缴械投降、就此委身于“马家军”。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-family: 宋体;font-size: 15px;">就在今天上午，<strong>Twitter官方发布了一份声明表示，Twitter董事会已一致通过了一项股东权益计划，可在控股股东与公司董事会发生意见分歧时行使，确保其他所有股东实现价值，<strong style="color: rgb(0, 0, 0);font-family: 宋体;font-size: 15px;letter-spacing: 1px;white-space: normal;background-color: rgb(255, 255, 255);">有效期至明年4月14日。</strong>该计划又俗称“毒丸计划”。</strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">那么，到底什么是“毒丸计划”，Twitter采取该计划的原因是什么，这又会对马斯克的收购造成什么样的影响呢？</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 17px;"><strong><span style="font-size: 17px;color: #4472C4;">｜大敌当前，Twitter吞下一颗“毒丸”</span></strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">“毒丸计划”，其正式名称为“股权摊薄反收购措施”，由美国著名的并购律师马丁·利普顿于1982年发明，是一个在金融领域被广泛使用的<strong>反恶意收购工具</strong>。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">“毒丸计划”的模式是：<strong>当一个公司一旦遇到恶意收购，尤其是当收购方占有的股份已经达到10%- 20%的时候，公司为了保住自己的控股权，就会大量低价增发新股，让其他股东有机会以低价买进新股，从而让收购方手中的股份占比下降摊薄其股权，同时也增大了收购成本，从而让收购方无法完成收购。</strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">此次，Twitter“毒丸计划”设定的触发条件是股份占比15%，也就是说，在2023年4月14日以前，任何人的股份占比超过15%的话，“毒丸计划”就会启动。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">Twitter此举可以说是精准打击了马斯克此前扬言要从其他股东那买断Twitter的想法，因为一旦马斯克的持股比例超过15%，“毒丸”就会立刻发挥作用，进而阻止他的股权占比进一步扩大。</span></p> 
+  <p style="font-size: 15px;text-align: center;margin-bottom: 0em;"><img class="rich_pages wxw-img" data-galleryid data-ratio="0.6082036775106082" data-s="300,640" data-type="jpeg" data-w="1414" style="height: auto !important;" src="https://img.36krcdn.com/20220416/v2_3dc6b20591b74682a68e359eaa44a03d_img_000" referrerpolicy="no-referrer"></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;text-align: center;"><span style="color: #000000;font-family: DengXian;font-size: 12px;letter-spacing: 1px;text-align: center;background-color: #FFFFFF;">图片来自于网络，版权属于原作者</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">简单来说，“毒丸计划”会大大增加马斯克的收购流程和收购时间，同时让他430亿美元的报价根本不够买下Twitter。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>那么，为什么这种方式会称为“毒丸计划”呢？因为这几乎是一个“伤敌一千自损八百”的反收购策略。</strong>毒丸计划一旦实施，也会对公司控制权的结构造成重大的影响，一方面原持股人手中的持股比例也将被动摊薄， 另一方面“股份平等”原则会被打破，从而造成其他股东的权益受损。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">所以， 从Twitter此次快速通过“毒丸计划”的决议来看，Twitter的其他股东们目前并不满意马斯克提出的收购条件，并决意要跟马斯克斗争到底。</span></p> 
+  <p style="font-size: 14px;text-align: left;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">实际上，经过几十年的发展，“毒丸计划”已经成为了一个非常复杂、且用法多样的反收购工具，各种“毒法”也是花样百出，比如有内翻式毒丸（flip-in）、外翻式毒丸（flip-over）</span><span style="font-size: 15px;">、债务毒丸（poison debt）、投票毒丸（voting poison）等等。</span><span style="font-size: 15px;">此次，Twitter还没有透露其毒丸计划的细节，表示将在即将提交给美国证券交易委员会的文件中会提供更多信息。</span></p> 
+  <p style="font-size: 14px;text-align: left;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>但不管是哪种“毒丸”，反正就是有毒就对了。</strong>无论是通过股本结构重组来降低收购方的持股比例和表决权，还是在公司发债券的时候在协议上规定种种对己不利条款，毒丸计划就是一个理念，我把自己搞残没关系，就是不要你来搞我。</span></p> 
+  <p style="font-size: 15px;text-align: center;margin-bottom: 0em;"><img class="rich_pages wxw-img" data-galleryid data-ratio="0.6801801801801802" data-s="300,640" data-type="jpeg" data-w="888" style="height: auto !important;" src="https://img.36krcdn.com/20220416/v2_f1f2f8b3aaff4874a6026054f5dbf284_img_000" referrerpolicy="no-referrer"></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;text-align: center;"><span style="font-size: 15px;"><span style="color: #000000;font-family: DengXian;font-size: 12px;letter-spacing: 1px;text-align: center;background-color: #FFFFFF;">图片来自于网络，版权属于原作者</span></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 17px;"><strong><span style="font-size: 17px;color: #4472C4;">｜Twitter的“毒丸计划”行得通吗？</span></strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">“毒丸计划”的实施虽然给马斯克的收购增高了门槛，但也并不代表马斯克买不了Twitter，或者Twitter就不可能被其他人收购。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>请注意，“毒丸计划”针对的是防范未经请求的恶意收购行为，并不为了拒绝任何收购。</strong>像马斯克此次不提前打好招呼写封信过去就说要买，并且还到处说自己志在必得的这种情况，Twitter自然是不乐意的。做买卖嘛，连个讨价还价的机会都不给我，还各种“威胁”要买其他人的股份来逼迫我就范，这口气谁能咽下呢。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">而事实上，“毒丸计划”也通常也为进一步谈判争取了时间并且打开了大门。这就相当于Twitter其他股东们把炸弹摆桌上了，给马斯克说，你现在要给一个我们满意的Offer呢这事就成了，不满意了，咱就一起毁灭吧。</span></p> 
+  <p style="font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>也就是说，如果马斯克给出了更高报价、更好的表态对董事会来说是合理且可接受的，那么Twitter也可以立马将“毒丸”连同与马斯克的恩怨扔到一边，双方握手言和愉快成交。</strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong><img class="rich_pages wxw-img" data-galleryid data-ratio="0.9019607843137255" data-s="300,640" data-type="jpeg" data-w="612" style="color: rgb(81, 81, 81);font-family: -apple-system-font, system-ui, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;letter-spacing: 1px;text-align: center;white-space: normal;background-color: rgb(255, 255, 255);height: auto !important;" src="https://img.36krcdn.com/20220416/v2_5e639488e97643809f9f91f757455793_img_000" referrerpolicy="no-referrer"></strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">据了解，目前董事会一大不满意的地方就在于马斯克给出的报价并不够足以达到投资者的心理预期。</span><span style="font-size: 15px;">尽管马斯克提出的每股 54.20 美元的报价已经比目前Twitter股价高出不少，但仍远远低于此前 Twitter所达到的 77.63 美元的最高收盘价。</span><span style="font-size: 15px;">当时，Twitter 的估值约为 620 亿美元，而马斯克此次只给出430亿美元。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">此外，Twitter 还在此次在声明中还强调，“<strong>毒丸计划”不会阻止其董事会以更高的价格“与各方接触或接受收购提议”。所以，如果除了马斯克之外，还有公司或个人愿意以更高的价格来收购Twitter的话，Twitter也是敞开怀抱愿意跟各方来谈的。</strong>毕竟，从现在到明年4月14日，Twitter还有足够的时间来考虑接不接Offer、接谁的Offer。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">实际上，从历史案例来看，“毒丸计划”的实施常常都为被收购公司的股东争取到了更多的利益。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">比如，2003年甲骨文曾向其规模较小的竞争对手PeopleSoft 提出 51 亿美元的收购意向，PeopleSoft为了对抗收购启动了“毒丸计划”，并且将“内翻式毒丸”“债务毒丸”等多种“毒法”一口气全部启用了。<strong>两家公司缠斗了近18月后，甲骨文最后以111亿美元的价格买下了PeopleSoft，比最初的报价高出了2倍多。</strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">但值得注意的是，“毒丸计划”也不是一个万全之策，它相当于在刀尖上行走，稍有不慎也会反噬自己。在过去，“毒丸计划“就经常会导致诉讼，收购方或股东会指控公司董事会和管理团队使用这种策略来保住他们的工作，从而损害更广泛股东的最大利益。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 17px;"><strong><span style="font-size: 17px;color: #4472C4;">｜“有毒”的Twitter，马斯克还下得了口吗？</span></strong></span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">不管怎么说，Twitter启用“毒丸计划“已成定局，接下来，就要看马斯克收购Twitter的决心有多大了。虽然目前Twitter“毒丸计划”的详细执行方案还没有公开，但总体来看，现在摆在马斯克面前的大致有以下几条路。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>方案一，和谈。坐下来跟Twitter就收购方案心平气和的再谈一次，确定一个双方都满意的价格和条件。</strong>尽管之前马斯克在信<a class="project-link" data-id="1678252311933958" data-name="中表" data-logo="https://img.36krcdn.com/20220331/v2_535b99d4d48a4943a06dedba2cdf1d03_img_000" data-refer-type="1" href="https://36kr.com/project/1678252311933958" target="_blank">中表</a>示其 430 亿美元的出价是他对 Twitter 的最佳和最终报价，但从其他历史案例来看，很多收购方之前也发表了类似的声明但最终还是给出了更高的报价，而对于拥有 2650 亿美元的世界首富来说，理论上他也有足够的实力来提高他的报价。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">但这一方案能否顺利实施，一方面要看马斯克是否愿意，另一方面也要看双方能否在如何定位Twitter的未来发展上达成一致。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>方案二，硬刚。通过法律手段对“毒丸计划”对Twitter发起诉讼，或者发动“代理人之战”来接管公司。</strong>就像前文中所提到的那样，“毒丸计划”是一步险招，它可能存在着违反股东权益的问题，马斯克可以从中去抓取漏洞。或者联合其他股东，通过股东投票来决定保留或解雇公司现任董事。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;"><strong>方案三，放弃。哥不买了，你们玩去吧。</strong>但不知道已经放出“不喜欢失败”狠话的马斯克，会不会就因“毒丸计划”而止步？</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">Twitter与马斯克的世纪战斗已然拉响，可以预见的是，这场战斗并不会马上落幕。</span></p> 
+  <p style="font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="font-size: 15px;">那么，究竟马斯克最终能不能将Twitter这只“愤怒的小鸟”收入囊中呢？欢迎在评论区留下你的看法。</span></p> 
+  <p style="font-size: 14px;font-family: DengXian;color: rgb(0, 0, 0);white-space: normal;"><span style="color: #888888;font-size: 12px;text-align: start;">注：</span><span style="color: #888888;font-size: 12px;text-align: start;">封面图来自于neowin网站，版权属于原作者。</span><span style="color: #888888;font-size: 12px;text-align: start;">如果不同意使用，请尽快联系我们，我们会立即删除。</span></p> 
+  <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;"> 
+   <section data-tools="135编辑器" data-id="92648"> 
+    <section style="margin-top: 15px;margin-right: auto;margin-left: auto;"> 
+     <section style="margin-right: auto;margin-left: auto;display: -webkit-flex;justify-content: center;"> 
+      <section style="margin-top: -14px;padding-right: 5px;padding-left: 5px;width: 55px;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;box-sizing: border-box;"></section> 
+     </section> 
+    </section> 
+   </section> 
+  </section> 
+ </section> 
+</section> 
+<p>本文来自微信公众号<a href="http://mp.weixin.qq.com/s?__biz=MzI3ODg4ODEwMA==&mid=2247515786&idx=1&sn=862039ebc50d9f5a24b95e59c04ede8e&chksm=eb52d541dc255c57ee7db19d6c5ec76d4ab05de2164e945f03ed118990b416bb21e449686e0a#rd" style="color:#262626;border:solid #999;border-width:0 0 1px;padding:0 0 1px;word-wrap:break-word;" rel="noopener noreferrer nofollow">“硅星人”（ID：guixingren123）</a>，作者：Juny，36氪经授权发布。</p>  
+</div>
+            
