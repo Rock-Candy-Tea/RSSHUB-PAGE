@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/29e0bae7ced4394b2d788749071fxkn5.JPG?v=1650006039248'
 author: 巴哈姆特
 comments: false
-date: 2022-04-15 15:09:05
+date: 2022-04-16 00:39:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/29e0bae7ced4394b2d788749071fxkn5.JPG?v=1650006039248'
 ---
 
@@ -34,7 +34,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/29e0bae7ced4394b2d788749071fxkn5.
 <div>
  </div>
 <div>
-　　研發團隊表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BC%8A%E6%A0%BC%E5%88%A9%E4%BA%9E%E6%88%B0%E8%A8%98" target="_blank">伊格利亞戰記</a>》是一款以架空幻想世界為背景的輕量級 「大戰略」 遊戲，採用日式立繪和像素結合的美術風格，設計了 20 個各具特色的勢力。玩家可以成為任意勢力的領主，透過發展經濟，維護城池，外交斡旋，遊說四方，廣納英才，調兵遣將等多種手段提升整體實力，爭雄稱霸，最終一統天下。</div>
+　　研發團隊表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BC%8A%E6%A0%BC%E5%88%A9%E4%BA%9E%E6%88%B0%E8%A8%98" target="_blank">伊格利亞戰記</a>》是一款以架空幻想世界為背景的輕量級 「大戰略」 遊戲，採用日式立繪和像素結合的美術風格，設計了 20 個各具特色的勢力。玩家可以成為任意勢力的領主，透過發展經濟，維護城池、外交斡旋、遊說四方、廣納英才、調兵遣將等多種手段提升整體實力、爭雄稱霸，最終一統天下。</div>
 <div>
  </div>
 <h2>

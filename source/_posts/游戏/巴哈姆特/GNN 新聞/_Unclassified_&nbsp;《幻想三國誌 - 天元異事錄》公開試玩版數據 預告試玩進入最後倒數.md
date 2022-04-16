@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/21/e4ed308325330f32135b2d2b2e1fxjd5.JPG?v=1650004504059'
 author: 巴哈姆特
 comments: false
-date: 2022-04-15 15:09:05
+date: 2022-04-16 00:39:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/e4ed308325330f32135b2d2b2e1fxjd5.JPG?v=1650004504059'
 ---
 
@@ -184,12 +184,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/e4ed308325330f32135b2d2b2e1fxjd5.
 </div>
 <div>
  </div>
-
 <div>
 　　歷代《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BB%E6%83%B3%E4%B8%89%E5%9C%8B%E8%AA%8C" target="_blank">幻想三國誌</a>》中的紅花綠葉，彼此之間的關係錯綜複雜，分別來自截然不同的家世背景，各有各的愛恨情仇和刻骨銘心，交織出最動人的篇章，而歷代的小生花旦中，玩家們最期待誰能在新作中登場呢？</div>
 <div>
  </div>
-
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="52301" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

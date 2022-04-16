@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Fke5deja1mtyw4zccdcsgsKiivsR'
 author: 探物
 comments: false
-date: 2022-04-15 15:10:12
+date: 2022-04-16 00:40:14
 thumbnail: 'https://resource.tanwuapp.com/Fke5deja1mtyw4zccdcsgsKiivsR'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Fke5deja1mtyw4zccdcsgsKiivsR" referrerpolicy="no-referrer"><br>
           <strong>极米 NEW Z6X 1080P 家用投影仪</strong><br><br>
-          价格: ￥11.20 / 日<br>
+          价格: ￥14.00 / 日<br>
           评分: 4.8
           
 </div>
