@@ -1,0 +1,18 @@
+
+---
+title: 'vivo X80 系列即将发布：拥有蔡司、最新的自研芯片'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/625aab1c8e9f096e7d4e641f_1024.jpg'
+author: ZAKER
+comments: false
+date: Sat, 16 Apr 2022 03:49:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/625aab1c8e9f096e7d4e641f_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 16 日消息，vivo 品牌副总裁，兼品牌与产品战略总经理 @贾净东 现已开始预热 vivo 新一代旗舰机型 X80 系列，而且他也已经换上了 vivo X80 Pro 的小尾巴。</p><p>据介绍，vivo X80 系列定位是：移动影像领域的 " 天花板 "，搭载 vivo 最新的自研芯片、蔡司光学镜头、T * 镀膜、还有高质感真彩的影像系统，再过几天就会跟大家见面。</p><p>我最近时常拿着 X80 手机，反复把玩摩挲。我不是产品经理，我负责品牌。我不用多说产品方面的种种细节，因为随后大家自己会体验得更真切。把玩着 X80 以及最近的几个产品，脑海里会出现 " 设计驱动 " 这四个字，好像一种身心感应。</p><p>设计驱动，是 vivo 价值观的重要部分。很多朋友不懂内情，以为设计驱动是设计师驱动，或者仅仅看做是一种工业设计驱动。</p><p>这无疑都是不对的。</p><p>设计驱动的完整含义，是一种以用户为导向的系统思维方式：洞察用户真实的需求，哪怕它是潜在的；愿意在用户看不见但体验得到的地方，下功夫，埋头种因；让用户感受到改变，感受到新的意义，以及感受到这种改变是简单，完美和优雅的。</p><p>做品牌难道不需要设计驱动吗？做品牌，也是要洞察用户在产品与精神之间需求，哪怕它是潜在的；愿意在用户看不见的、但精神可以共鸣到的地方，下功夫！让用户不断感受到改变和新的意义，以及感受到这种改变不是洗脑，碰瓷，病毒的，而是简单，完美，优雅的，是有长久意义的。</p><p>拿 X80 系列来说，依然是最强大的 vivo 影像科技，无论是最新的自研芯片、蔡司光学镜头、T * 镀膜、还是高质感真彩的影像系统，在光学影像和计算影像的产品力层面都建立了绝对的引领。但是，我相信用户拿到 X80，他们还会获得一种超越产品之外的精神感知。X80 系列会给用户带来全新的，精神上的意义。我抛砖总结，因为它的影像科技是应对人类广阔的精神需求，是服务于人类的机器视觉。是人类之眼，机器之心。</p><p>vivo X80 联合光学巨人蔡司所研发的全场景影像系统所聚焦的地方，也许和行业有一些不一样。其背后原因，就是看到了手机摄影应该面对极为复杂多元的人类内心需求。有的是因为美、有的是因为健康、有的来自于真实的场景还原、有的来自于回忆中的色彩，有的甚至是影像背后的力量。它不应该是单一维度的需求，它要兼顾更为广阔的人类需求。所以，X80 不仅能够拍出微光的夜色、烟火的城市、真情的笑脸、友情的短聚、沧海的回忆；它还可以准确描述身体上的痣、贫血的眼睑 …… 它即可以见证成长变迁，又可以变成一份事关健康的远程问诊的影像档案，变成用户最可信赖的人类之眼，机器之心。</p><p>最古老的品牌行为，出现在公元前 2700 年的埃及，用一根滚烫的烙铁，在农场牲畜身上烫出烙印，这就是最原始的品牌行为（branding）。即使到了现在，很多人依然习惯用堆配置，纯技术导向的方式来 " 烫 " 出一个烙印。却忽视了这种古老原始、暴力熨烫的方式，其实已经不适合静水流深、差异多态的现在社会。用户的体验和感受，才是永恒不变的核心。</p><p>配置都是速朽的，而总有一种东西可以打败时间。设计驱动，可以打败时间。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202204/625aab1c8e9f096e7d4e641f_1024.jpg" data-height="1442" data-width="578" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/625aab1c8e9f096e7d4e641f_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家曾报道，据数码博主 @数码闲聊站 爆料，vivo X80 Pro 将首发 GNV 超大底主摄。爆料显示，这颗主摄基于三星 50MP GN1 传感器定制升级，拥有 50MP 分辨率、1/1.3" 大底、f / 1.57 光圈，搭配升级版 V1 + 影像芯片。<p></p><p>外观方面，vivo X80 与 X80 Pro 的区别为前者没有放置在外面的潜望镜头，IMX866 三摄均在圆形模组，两款机型的排列和闪光灯等细节布局一致。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202204/6257ecd68e9f0968f3657de9_1024.jpg" data-height="365" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6257ecd68e9f0968f3657de9_1024.jpg" referrerpolicy="no-referrer"></div></div>据悉，vivo X80 系列将包括 X80、X80 Pro 和 X80 Pro+ 三款机型。<p></p><p>Google Play 控制台信息显示，vivo X80 将搭载联发科天玑 9000（ MT6983）处理器，预装基于 Android 12 的操作系统，采用 1080x2400 分辨率屏幕。</p><p>结合此前爆料来看，vivo X80 采用真 DC 调光的 1080P 屏，搭载天玑 9000、V1 芯片，首发索尼 IMX866 ( RGBW ) 镜头，人像和超广角镜头则是 IMX663，没有微云台，配备红外、NFC、屏下光学指纹。</p><p>vivo X80 Pro 将分为天玑 9000 版和骁龙 8G1 版，采用 6.78 英寸 LTPO 2.0 E5 AMOLED 显示屏，同样 V1 芯片，后置似乎是三星 GN1+IMX598+IMX663+800 万潜望四摄，而且人像镜头还配备微云台，天玑版和骁龙版都采用了最新的广域超声波指纹。</p><p>《vivo X80 现身 Google Play：搭载联发科天玑 9000，运行安卓 12》</p><p>《消息称 vivo X80 Pro 首发 GNV 超大底主摄，基于 GN1 定制升级》</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
