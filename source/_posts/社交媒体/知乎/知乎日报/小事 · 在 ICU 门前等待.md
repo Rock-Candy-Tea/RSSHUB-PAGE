@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-04-16 03:21:03
-thumbnail: 'https://pic1.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162'
+date: 2022-04-16 04:11:03
+thumbnail: 'https://pic2.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ ICU 门口，到底是绝望还是希望？
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-a1c899a62ad0510d5b0b6c76bb73b2fb_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">chsgcxy</span>
 <a href="https://www.zhihu.com/question/464896416/answer/2325938355" class="originUrl" hidden>查看知乎原文</a>
 </strong>
