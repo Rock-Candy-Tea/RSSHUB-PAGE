@@ -1,0 +1,27 @@
+
+---
+title: '买1得5会员！喜马拉雅+京东Plus+爱奇艺+百度网盘+叮咚买菜'
+categories: 
+ - 新媒体
+ - 异次元软件世界
+ - 首页
+headimg: 'https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly.jpg'
+author: 异次元软件世界
+comments: false
+date: Sat, 16 Apr 2022 12:04:33 GMT
+thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly.jpg'
+---
+
+<div>   
+<ul id="link1111"><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5670">iSlide 插件 (PPT神器) 买二年送一年</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云每日秒杀</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/p/baiduwenku-vip">QQ音乐+百度网盘+文库等联合会员</a></li></ul><p><a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener">喜马拉雅 FM</a> 是国内专业的音频内容分享平台，它汇集了上亿的有声<a href="https://www.iplaysoft.com/tag/%E5%B0%8F%E8%AF%B4" target="_blank" rel="noopener">小说</a>、有声读物、有声书、儿童睡前故事、相声小品、鬼故事等<a href="https://www.iplaysoft.com/tag/%E9%9F%B3%E9%A2%91" target="_blank" rel="noopener">音频</a>，可以让你随时随地收听。</p><p><a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener"><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly.jpg" alt="喜马拉雅 VIP 会员" width="680" height="451" referrerpolicy="no-referrer"></a></p><p>去年喜马拉雅就推出过一个“空前的”超级「会员联合优惠」的活动！！买一送十三！！它联合了众多<a href="https://www.iplaysoft.com/tag/%E4%BA%92%E8%81%94%E7%BD%91" target="_blank" rel="noopener">互联网</a>会员服务，而今年喜马拉雅终于又再次出手<strong>“买1得5”的给力活动</strong>了！</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/xmly"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>立即前往：会员买一得五</a><br><span class="button-hint">限时限量，原价 ￥821 元，现仅需 ￥198 元</span></p>
+<span class="qrcode" qrurl="https://www.iplaysoft.com/go/xmly" qrsize="300" qrtitle colordark="#36535f" colorlight="#ffffff" style="width:150px;height:150px"></span><p style="text-align: center;"><span style="color: #ff6600;">↓如你需要百度文库或 QQ 音乐，也能看下面这个↓</span><br>
+「<a href="https://www.iplaysoft.com/p/baiduwenku-vip" target="_blank" rel="noopener">百度文库+Q音+爱奇艺等联名会员</a>」</p><h3>喜马拉雅会员买一送五活动：</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
+  </div></div><div class="clear"></div><p>这十三种会员包含了 <span style="color: #ff0000;"><strong>喜马拉雅会员 VIP 半年卡</strong></span>，还有很多人都需要的<a href="https://www.iplaysoft.com/go/jd" target="_blank" rel="noopener">京东 Plus 会员</a>年卡、<a href="https://www.iplaysoft.com/iqiyi-vip.html" target="_blank" rel="noopener">爱奇艺黄金 VIP 会员</a> (半年)、<a href="https://www.iplaysoft.com/go/baiduwangpan" target="_blank" rel="noopener">百度网盘 VIP</a> 半年卡、以及<strong>叮咚买菜</strong>年卡等。</p><p><a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener"><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly_sale_20220416b.jpg" alt="喜马拉雅会员" width="583" height="939" referrerpolicy="no-referrer"></a></p><p>这些会员加起来原价格超过 ￥821 元，<span style="color: #ff6600;">现在你只需要￥198 元即可入手，可以立省 ￥623 元，活动时间是 4 月 15 日 - 4 月 28 日截止</span>。对这些会员有需求的朋友就不要错过了。另外，还有喜马拉雅+爱奇艺 、 喜马拉雅+ WPS 、 喜马拉雅 + 京东 Plus 等会员可选。</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="http://xima.tv/1_kJF6ET?_sonic=0"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>更多喜雅联合会员组合</a></p><p>要注意的是，活动时间虽然不短， <span style="color: #ff0000;">但会员是限量的！限量的！限量的！售完即止！上次其实就有不少人来晚了，活动没截止但早已经卖完了。</span>如果你本身也是要买喜马拉雅 VIP 的，或者这些会员中有一两个能用得上，那么就能回本了！！然后，其他都当是白送的吧~~ 反正这个活动，对有刚需的人还是超值划算的~！</p><h3>喜马拉雅 VIP 会员权益：</h3><p><a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener"><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly_vip_rights.jpg" alt="喜马拉雅 VIP 会员权益" width="680" height="676" referrerpolicy="no-referrer"></a></p><h3>具体 VIP 会员内容：</h3><p><a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener"><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/p/xmly/xmly_sale_20220416a.jpg" alt="喜马拉雅联合会员促销" width="680" height="543" referrerpolicy="no-referrer"></a></p><ul><li>喜马拉雅会员半年卡 - 价值￥110</li><li><a href="https://www.iplaysoft.com/iqiyi-vip.html" target="_blank" rel="noopener">爱奇艺会员半年卡</a> - 价值￥153</li><li><a href="https://www.iplaysoft.com/go/jd" target="_blank" rel="noopener">京东会员年卡</a> - 价值￥198</li><li><a href="https://www.iplaysoft.com/go/baiduwangpan" target="_blank" rel="noopener">百度网盘会员半年卡</a> - 价值￥180</li><li>叮咚买菜年卡 - 价值￥180</li></ul><p>尽管这次缺少了<a href="https://www.iplaysoft.com/go/vqq" target="_blank" rel="noopener">腾讯视频</a>、<a href="https://www.iplaysoft.com/go/bilibili" target="_blank" rel="noopener">哔哩哔哩大会员</a>等，但含金量依然还算不错的！如果你有几个会用得到的会员，那么这是必抢的活动了，<a href="https://www.iplaysoft.com/go/xmly" target="_blank" rel="noopener">马上去看看吧</a>，可别错过哦。</p>  
+</div>
+            

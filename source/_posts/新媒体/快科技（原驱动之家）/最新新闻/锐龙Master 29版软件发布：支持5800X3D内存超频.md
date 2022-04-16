@@ -22,8 +22,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220416/e2269cdb-e5ae-41ac-abf8-1c84
 <p class="MsoNormal">添加了错误报告工具，便于反馈和问题报告</p>
 <p class="MsoNormal"><strong>为<span lang="EN-US">AMD</span>锐龙<span lang="EN-US">5000</span>处理器和锐龙<span lang="EN-US">PRO 5000WX</span>处理器引入自动曲线优化器和手动曲线优化器</strong></p>
 <p class="MsoNormal">安装<span lang="EN-US">Ryzen Master 2.9.0.2093</span>软件需要<span lang="EN-US">X570</span>芯片组及锐龙<span lang="EN-US">3000</span>及以上处理器，<span lang="EN-US">Win10 2019</span>年<span lang="EN-US">5</span>月更新及以上系统。</p>
-<p class="MsoNormal"><a class="f14_link" href="https://www.amd.com/en/support/kb/release-notes/rn-ryzen-master-2-9-0-2093" target="_blank">下载地址点此</a>。</p>
-
+<p class="MsoNormal"><a class="f14_link" href="https://www.amd.com/en/technologies/ryzen-master" target="_blank">下载地址点此。</a></p>
 <p class="MsoNormal" style="text-align: center;"><img alt="锐龙Master 2.9版软件发布：支持5800X3D内存超频" h="400" src="https://img1.mydrivers.com/img/20220416/e2269cdb-e5ae-41ac-abf8-1c84fb3b5e5c.jpg" style="text-align: center; border: 1px solid black;" w="600" referrerpolicy="no-referrer"></p>
 
            
