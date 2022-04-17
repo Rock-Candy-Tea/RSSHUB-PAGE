@@ -26,22 +26,22 @@ R星已有超过一个月的时间没有为三部曲发布任何补丁和升级�
 感兴趣的玩家可以<a href="https://www.nexusmods.com/grandtheftautothetrilogy/mods/489?tab=files" target="_blank"><strong><span style="color:#E53333;">点此下载</span></strong></a>这款HD材质包。以下是部分截图：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_367423.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_367423.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_790101.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_790101.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_188060.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158711_188060.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_153787.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_153787.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_257898.jpg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_257898.jpg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_147698.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220417/1650158712_147698.jpeg" alt="玩家自制《GTA三部曲：终极版》全新HD材质包发布" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
