@@ -8,7 +8,7 @@ categories:
 headimg: 'https://iximiuz.com/kubernetes-api-go-types-and-common-machinery/kubernetes-api-go-learning-order-2000-opt.png'
 author: Dockone
 comments: false
-date: 2022-04-17 11:07:25
+date: 2022-04-17 12:13:46
 thumbnail: 'https://iximiuz.com/kubernetes-api-go-types-and-common-machinery/kubernetes-api-go-learning-order-2000-opt.png'
 ---
 
