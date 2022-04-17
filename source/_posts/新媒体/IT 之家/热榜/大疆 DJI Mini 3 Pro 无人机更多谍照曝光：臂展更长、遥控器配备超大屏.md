@@ -1,0 +1,19 @@
+
+---
+title: '大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/e87d084e-43f5-48b6-b4f8-cc5e82105293.png'
+author: IT 之家
+comments: false
+date: Sat, 16 Apr 2022 06:54:16 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/e87d084e-43f5-48b6-b4f8-cc5e82105293.png'
+---
+
+<div>   
+<p data-vmark="72f7"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 16 日消息，近日，抖音用户 @xzlj0104 放出了号称是大疆 DJI Mini 3 Pro 无人机的照片，这次还有遥控器图片。</p><p data-vmark="3021" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/e87d084e-43f5-48b6-b4f8-cc5e82105293.png" w="1253" h="864" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="1253" height="565" referrerpolicy="no-referrer"></p><p data-vmark="7bac">从图中可以看到，大疆 DJI Mini 3 Pro 的<span class="accentTextColor">臂展更长</span>，能够支撑更大的螺旋桨，提高抗风能力，使无人机更加平稳并延长飞行时间。</p><p data-vmark="38b2" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/8dc3fa09-6a64-4b0f-9927-981b5cae4dc9.png" w="830" h="853" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="830" height="843" referrerpolicy="no-referrer"></p><p data-vmark="8f8e">此外，该无人机拥有更大的<span class="accentTextColor">云台保护装置</span>，这意味着镜头有望更大。此前有报道称，Mini 3 Pro 将采用 f / 1.7 光圈镜头，可改善弱光环境下的拍摄能力。</p><p data-vmark="5f04" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/31e71320-1545-4a8f-83b9-44b395a5a71d.png" w="763" h="845" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="763" height="845" referrerpolicy="no-referrer"></p><p data-vmark="1ad7">而该遥控器则配备了一块<span class="accentTextColor">超级大的屏幕</span>，有点像官方推出的带屏遥控器，但设计上并不相同，预计会有更多智能功能和交互体验。</p><p data-vmark="f94e">▼ 曝光的 Mini 3 Pro 遥控器</p><p data-vmark="b7ae" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/bb923d5a-ab33-4646-941c-84abb52fde98.png" w="873" h="880" alt="曝光的 Mini 3 Pro 遥控器" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="873" height="827" referrerpolicy="no-referrer"></p><p data-vmark="642b" style="text-align: justify;">▼ 大疆带屏遥控器</p><p data-vmark="f426" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/cfb0a8ad-b34f-448d-85d4-11de4b795280.png" w="625" h="512" alt="大疆带屏遥控器" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="625" height="512" referrerpolicy="no-referrer"></p><p data-vmark="5064">IT之家此前报道，爆料称，DJI Mini 3 Pro 有一个更大的 <span class="accentTextColor">2453 mAh</span> 电池，改进的三轴云台和 E24 F1.7 相机（上一代只是 F2.8）。巨大的前后传感器，以及新的后向传感器，重量为 249 克。</p><p data-vmark="918c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/9798030d-95fe-4a8c-bb5c-66790b2d22cb.png" w="598" h="834" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="598" height="834" referrerpolicy="no-referrer"></p><p data-vmark="e2dc">从图中可以看到，DJI Mini 3 Pro 正面将有两个大型传感器有助于避开障碍物，还有两个向下的传感器可以防止地面碰撞，更适合初学者。</p><p data-vmark="a461" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/1405b559-fecf-494c-a600-8a739cc3bf58.png" w="460" h="827" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="460" height="827" referrerpolicy="no-referrer"></p><p data-vmark="76c4" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/07e96aeb-6c97-4c37-99ec-c789fd634663.png" w="591" h="834" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="591" height="834" referrerpolicy="no-referrer"></p><p data-vmark="4556">目前尚不清楚 DJI Mini 3 Pro 的售价相关信息，IT之家了解到，上一代 DJI Mini 2 的售价为 2899 元，支持 4K / 30fps 视频拍摄，最大抗风 5 级，搭载 1/2.3 英寸 CMOS 传感器，续航时间 31 分钟。</p><p data-vmark="f93b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/e1c25424-4f3f-474a-9b06-1026582d6eca.png" w="593" h="829" title="大疆 DJI Mini 3 Pro 无人机更多谍照曝光：臂展更长、遥控器配备超大屏" width="593" height="829" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

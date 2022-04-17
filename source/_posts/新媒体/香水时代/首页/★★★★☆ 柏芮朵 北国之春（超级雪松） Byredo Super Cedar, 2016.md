@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6246'
+headimg: 'https://picsum.photos/400/300?random=8840'
 author: 香水时代
 comments: false
-date: Mon, 28 Mar 2022 08:22:33 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6246'
+date: Thu, 24 Mar 2022 02:08:33 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8840'
 ---
 
 <div>   
-淡淡的玫瑰清香和雪松 但是也太淡了吧…也得有个度啊 雪松太不明显了 玫瑰味相对还明显一些 但是闻起来很舒服 只能算是个自嗨香了  
+圣诞节外面下着雪，在壁炉旁烧着木头暖暖的味道。也有种蜡烛的味道，就是暖暖的。很有安全感的味道，感觉更适合当做家里的香薰味道  
 </div>
             
