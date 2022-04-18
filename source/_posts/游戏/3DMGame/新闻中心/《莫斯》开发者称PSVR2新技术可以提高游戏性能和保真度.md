@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220418/1650251276_7333
 
 <div>   
 <p style="text-indent:2em;">
-虽然索尼对PS<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a>2的细节守口如瓶，但它的一些配置细节已经开始揭晓，一位开发者称赞了其注视点渲染和眼球跟踪技术，并表示这些功能将方便开发者开发，并提高游戏<span>性能和保真度。</span>
+虽然索尼对PS<a target="_blank" href="https://www.3dmgame.com/tag/vr_1/">VR</a>2的细节守口如瓶，但它的一些配置细节已经开始揭晓，一位开发者称赞了其注视点渲染和眼球跟踪技术，并表示这些功能将方便开发者开发，并提高游戏<span>性能和保真度。</span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220418/1650251276_733394.jpg" alt="《莫斯》开发者称PSVR2新技术可以提高游戏性能和保真度" referrerpolicy="no-referrer"> 
