@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/75/e93c165379f9e0bf117eaef6df1fy9v5.JPG?v=1650276686142'
 author: 巴哈姆特
 comments: false
-date: 2022-04-18 11:08:01
+date: 2022-04-18 12:15:52
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/e93c165379f9e0bf117eaef6df1fy9v5.JPG?v=1650276686142'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/e93c165379f9e0bf117eaef6df1fy9v5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　日本平價服飾品牌 UNIQLO 宣布，將與 SQAURE ENIX 旗下代表作《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=Final%20Fantasy" target="_blank">Final Fantasy</a>》系列合作，推出以系列本傳作品為主題的 35 周年紀念Ｔ恤「Final Fantasy 35 周年 UT」，預定 4 月 29 日起開始販售。</div>
+　　日本平價服飾品牌 UNIQLO 宣布，將與 SQAURE ENIX 旗下代表作《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=Final%20Fantasy" target="_blank">Final Fantasy</a>》系列合作，推出以系列本傳作品為主題的 35 周年紀念印花Ｔ恤「Final Fantasy 35 周年 UT」，預定 4 月 29 日起開始販售。</div>
 <div>
  </div>
 <div>
