@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=3008'
+headimg: 'https://picsum.photos/400/300?random=6057'
 author: 品玩
 comments: false
 date: Mon, 18 Apr 2022 00:32:52 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3008'
+thumbnail: 'https://picsum.photos/400/300?random=6057'
 ---
 
 <div>   

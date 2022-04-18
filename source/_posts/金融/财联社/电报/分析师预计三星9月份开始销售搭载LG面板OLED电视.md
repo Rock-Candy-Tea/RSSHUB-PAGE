@@ -1,0 +1,18 @@
+
+---
+title: '分析师预计三星9月份开始销售搭载LG面板OLED电视'
+categories: 
+ - 金融
+ - 财联社
+ - 电报
+headimg: 'https://picsum.photos/400/300?random=4205'
+author: 财联社
+comments: false
+date: Mon, 18 Apr 2022 05:32:31 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4205'
+---
+
+<div>   
+【分析师预计三星9月份开始销售搭载LG面板OLED电视】财联社4月18日电，有分析师预计，三星电子在今年9月份开始销售搭载LG显示OLED面板的电视，LG显示今年将向三星供应超过100万块电视所需的OLED面板。相关人士透露，LG显示在今年将最多生产1120万块白光OLED面板，向三星供应约150万块，预计LG电子和索尼将分别获得700万块和170万块。  
+</div>
+            
