@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?v=1650218752284'
 author: 巴哈姆特
 comments: false
-date: 2022-04-18 07:09:12
+date: 2022-04-18 08:11:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?v=1650218752284'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?v=1650218752284" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG 2x" style="max-width: unset;" title="《十三機兵防衛圈》上市前最後名次為第十名" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?v=1650218752284" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.JPG 2x" style="max-width: unset;" title="《十三機兵防衛圈》上市前最後名次為第十名" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《十三機兵防衛圈》上市前最後名次為第十名</figure>
 </li>
@@ -70,13 +70,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.
 </tr>
 <tr class="single-row" data-kind="1020_159_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" referrerpolicy="no-referrer">
 <p>
 1</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/9944708087ef097aa4834dbeae1fg8b5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -99,13 +99,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.
 </tr>
 <tr class="single-row" data-kind="860_19_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" referrerpolicy="no-referrer">
 <p>
 2</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=860&dc_c2=19&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=860&dc_c2=19&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/43bbda10aedb550145283005f91f9125.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -128,13 +128,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/209f75efd90e493b676897b02d1fx305.
 </tr>
 <tr class="single-row" data-kind="1127_83_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" referrerpolicy="no-referrer">
 <p>
 3</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1127&dc_c2=83&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1127&dc_c2=83&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/0bf9bfbaea454d4b9d46257ca61f3qy5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
