@@ -1,0 +1,19 @@
+
+---
+title: '苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro _ Max 后置巨大相机模组，mini 版被终结'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/ca3ed66f-38a5-48de-ada1-472bc8b2c936.png'
+author: IT 之家
+comments: false
+date: Sun, 17 Apr 2022 23:09:25 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/ca3ed66f-38a5-48de-ada1-472bc8b2c936.png'
+---
+
+<div>   
+<p data-vmark="03bd"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 18 日消息，据 phoneArena 报道，今年的高端苹果 <a class="s_tag" href="https://iphone.ithome.com/" target="_blank">iPhone</a> 机型 6.1 英寸 iPhone 14 Pro 和 6.7 英寸 iPhone 14 Pro Max 将采用新设计，而标准机型 6.1 英寸 iPhone 14 和 6.7 英寸 iPhone 14 Max ，将沿用此前设计。微博博主 @宇宙奥特机 近期发布配件制造商发送给他们的粗略原理图，虽然它们没有显示整个精细设计，但这些图片来证实之前的一些传言。</p><p data-vmark="1880" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/ca3ed66f-38a5-48de-ada1-472bc8b2c936.png" w="711" h="518" title="苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro / Max 后置巨大相机模组，mini 版被终结" width="711" height="518" referrerpolicy="no-referrer"></p><p data-vmark="7d8c">首先，在市场表现惨淡之后，苹果已经终结了 iPhone mini 型号，并将用非 Pro Max 型号取代它，该型号将高于入门级型号。</p><p data-vmark="cbfc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/ff95bf47-884e-4409-bdd9-c97e36532e0b.jpg@s_2,w_820,h_1093" w="960" h="1280" title="苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro / Max 后置巨大相机模组，mini 版被终结" srcset="https://img.ithome.com/newsuploadfiles/2022/4/ff95bf47-884e-4409-bdd9-c97e36532e0b.jpg 2x" width="960" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="1a36">这些图像似乎证实的另一件事情是，iPhone 14 Pro 和 Pro Max 将有相当大的摄像头凸起。由于传闻新的 48MP 摄像头传感器将取代 12MP 传感器，因此摄像头凸起的尺寸明显增加。</p><p data-vmark="0684" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/89f85587-08a4-45d4-94c1-028ed4b48fc6.jpg@s_2,w_820,h_1094" w="959" h="1280" title="苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro / Max 后置巨大相机模组，mini 版被终结" srcset="https://img.ithome.com/newsuploadfiles/2022/4/89f85587-08a4-45d4-94c1-028ed4b48fc6.jpg 2x" width="959" height="1094" referrerpolicy="no-referrer"></p><p data-vmark="d986">尽管这种更高分辨率的传感器可以进一步提升 iPhone 作为最佳拍照手机之一的声誉，但它将比所取代的传感器大 35%，并且将超过 7P 镜头的高度也可能增加 5% 到 10%。</p><p data-vmark="376a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/11c48448-1497-4365-b5f7-5fbda0512384.jpg@s_2,w_820,h_1093" w="960" h="1280" title="苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro / Max 后置巨大相机模组，mini 版被终结" srcset="https://img.ithome.com/newsuploadfiles/2022/4/11c48448-1497-4365-b5f7-5fbda0512384.jpg 2x" width="960" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="1ba4">iPhone 14 和 14 Max 将配备相对较小的摄像头凸起，与配备三个摄像头的 Pro 变体相比，它们预计将搭载双摄像头系统。</p><p data-vmark="2a31">这些图像中没有准确描绘出手机的显示屏，但幸运的是有很多迹象可以推测。据称，iPhone 14 Pro 型号将具有药丸和单打孔而不是刘海凹槽，并且只有这些型号预计将具有 120Hz 刷新率屏幕，将从三星和 LG 采购。iPhone 14 Pro 系列也有望在更先进的 A16 Pro 芯片上运行。</p><p data-vmark="2bf0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/fc759d14-5d63-4bcf-95a8-8d6b0db2c901.jpg@s_2,w_820,h_1093" w="960" h="1280" title="苹果 iPhone 14 系列更多原理图泄露：iPhone 14 Pro / Max 后置巨大相机模组，mini 版被终结" srcset="https://img.ithome.com/newsuploadfiles/2022/4/fc759d14-5d63-4bcf-95a8-8d6b0db2c901.jpg 2x" width="960" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="6acf">iPhone 14 和 14 Max 型号预计将保持刘海凹槽，它们也可能保留搭载 A15 Bionic 芯片，尽管苹果可能会进行一些更改并将其重新命名为 A16 Bionic。</p><p data-vmark="b1e3">iPhone 14 新阵容还可能具有卫星联网功能，并且可以提供比当前手机更大的基本内存。</p><p data-vmark="31e8">《<a href="https://www.ithome.com/0/612/688.htm" target="_blank">消息称苹果 iPhone 14 / Pro 和未来 Apple Watch 将支持卫星网络连接，用于 SOS 求救 / 紧急短信</a>》</p>
+          
+</div>
+            

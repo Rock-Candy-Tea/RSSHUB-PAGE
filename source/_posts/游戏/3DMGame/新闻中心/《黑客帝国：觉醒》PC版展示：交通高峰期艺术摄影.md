@@ -14,10 +14,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220418/1650249090_6093
 
 <div>   
 <p style="text-indent:2em;">
-EA DICE截图大师Petri Levälahti带来了一段《黑客帝国：觉醒》PC版的展示视频——交通高峰期（Rush Hour）。
+EA DICE截图大师Petri Levälahti带来了一段《黑客帝国：觉醒》PC版的展示视频——交通高峰期（Rush Hour）。此前《黑客帝国：觉醒》登陆了新主机PS5和Xbox Series X|S，<span>让玩家一探虚幻5引擎带来的交互式叙事与娱乐的未来。</span> 
 </p>
 <p style="text-indent:2em;">
-视频：
+<strong>视频：</strong> 
 </p>
 <p style="text-align:center;">
 <iframe src="https://player.youku.com/embed/XNTg2MTg5MTU4NA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
@@ -82,10 +82,7 @@ AI系统驱动了角色和车辆，而使用Houdini构建的程序化系统生�
 <img src="https://img.3dmgame.com/uploads/images/news/20220418/1650249115_578123.jpg" alt="《黑客帝国：觉醒》PC版展示：交通高峰期艺术摄影" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220418/1650249123_319077.jpg" alt="《黑客帝国：觉醒》PC版展示：交通高峰期艺术摄影" referrerpolicy="no-referrer"> 
-</p>
-<p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220418/1650249132_903140.jpg" alt="《黑客帝国：觉醒》PC版展示：交通高峰期艺术摄影" referrerpolicy="no-referrer"> 
+<img src="https://img.3dmgame.com/uploads/images/news/20220418/1650249123_319077.jpg" alt="《黑客帝国：觉醒》PC版展示：交通高峰期艺术摄影" referrerpolicy="no-referrer">
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220418/1650249140_924313.jpg" alt="《黑客帝国：觉醒》PC版展示：交通高峰期艺术摄影" referrerpolicy="no-referrer"> 

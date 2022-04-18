@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/04/18/1027598423.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-04-18 02:49:41
+date: 2022-04-18 03:37:30
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/04/18/1027598423.jpg'
 ---
 
@@ -18,6 +18,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/04/18/1027598423.jpg'
 
 2、无中文的游戏：《斯普拉遁2》4604日元（约233元）、《真女神转生5》6914日元（约350元）、《心跳回忆Girl’s Side 4th Heart》6864日元（约347元）、《超级机器人大战30》6622日元（约335元）、《两个人！喵咪大战争！》799日元（约40元）。
 
-PS：二柄APP近期双版本更新(安卓v9.4.5/iOS v9.46），新增Switch账号绑定功能，绑定成功并完成同步后，可以更方便的查看个人游戏列表、游戏时长等，同时我们也提供了NS游玩日历、游戏价格/时长统计等功能。<br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1027598423.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028005458.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028008642.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028019977.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028018588.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028028971.jpg" referrerpolicy="no-referrer">  
+PS：二柄APP近期双版本更新(安卓v9.4.5/iOS v9.46），新增Switch账号绑定功能，绑定成功并完成同步后，可以更方便的查看个人游戏列表、游戏时长等，同时我们也提供了NS游玩日历、游戏价格/时长统计等功能。<br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1027598423.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/2/2022/04/18/1133345778.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028005458.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028008642.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028019977.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028018588.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/04/18/1028028971.jpg" referrerpolicy="no-referrer">  
 </div>
             

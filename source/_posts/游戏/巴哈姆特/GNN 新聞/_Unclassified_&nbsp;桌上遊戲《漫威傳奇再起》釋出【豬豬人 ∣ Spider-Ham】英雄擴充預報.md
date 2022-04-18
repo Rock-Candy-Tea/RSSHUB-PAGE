@@ -8,7 +8,7 @@ categories:
 headimg: 'https://images-cdn.fantasyflightgames.com/filer_public/b3/97/b397026e-5e13-4f9c-b8d6-8950e2884ae7/mc30_cardfan.png'
 author: 巴哈姆特
 comments: false
-date: 2022-04-18 02:49:48
+date: 2022-04-18 03:37:37
 thumbnail: 'https://images-cdn.fantasyflightgames.com/filer_public/b3/97/b397026e-5e13-4f9c-b8d6-8950e2884ae7/mc30_cardfan.png'
 ---
 
