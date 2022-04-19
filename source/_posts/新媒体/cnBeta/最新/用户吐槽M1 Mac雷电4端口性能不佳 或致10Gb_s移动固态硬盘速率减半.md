@@ -1,0 +1,19 @@
+
+---
+title: '用户吐槽M1 Mac雷电4端口性能不佳 或致10Gb_s移动固态硬盘速率减半'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0419/a779b5cffca2b74.jpg'
+author: cnBeta
+comments: false
+date: Tue, 19 Apr 2022 05:37:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0419/a779b5cffca2b74.jpg'
+---
+
+<div>   
+<strong>9to5Mac 援引专业用户报告称，M1 Mac 外接 SSD 的传输速率让人很是失望。</strong>无论是 2021 款 16 英寸 MacBook Pro（M1 Pro）、还是 2022 款 Mac Studio（M1 Max），两款设备都无法很好地支持 USB 3.1 Gen 2 —— 意味着它们难以实现 10 Gbps 的数据传输。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0419/a779b5cffca2b74.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（via <a href="https://9to5mac.com/2022/04/18/m1-mac-thunderbolt-4-ports-speed-tests/" target="_self">9to5Mac</a>）</p><p>此前我们已经多次吐槽过因不同 USB-C 标准、设备、线缆而造成的混乱，尤其是理论和实测最大传输速率之间也存在着显著的差异。</p><p><a href="https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/" target="_self">Eclectic Light</a> 指出：</p><blockquote><p>● USB 3.0（SuperSpeed）支持 5 Gb/s 。</p><p>● USB 3.1 Gen 2（SuperSpeed+）支持 10 Gb/s 。</p><p>● USB 3.2（SuperSpeed+）支持 10 Gb/s 。</p><p>● USB 3.2 Gen 2×2 支持 20 Gb/s 。</p></blockquote><p>然而 Howard Oakley 在对两台 M1 Mac 的雷电 4 端口展开实测后，却惊讶地发现规格有缩水。</p><blockquote><p>其中 Mac Studio（M1 Max 机型）配备了 32GB 统一内存 + 2TB 内置 SSD，并连接到了 Studio Display 。</p><p>此外 16 英寸 <a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F" target="_blank">MacBook</a> Pro（M1 Pro 机型）也配备了 32GB 统一内存 + 2TB 内置 SSD，并使用内屏来显示。</p></blockquote><p>Oakley 还特地用 Intel Mac 开展了预先测试（连接到 10 Gb/s 端口），以证明手头的 SSD 和 USB 线缆毫无兼容性问题。</p><p>线缆型号涵盖了经过认证的雷电 4 版本、以及随机提供的 USB-C 数据线，并通过系统中给出的 USB 速率信息来判断。</p><p><a href="https://static.cnbetacdn.com/article/2022/0419/1ddf5eff98d1747.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0419/1ddf5eff98d1747.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>SSD 测速软件中包括了免费的 Stibium 1.0（55），它会将总共 160 个大小从 2 MB 到 2 GB 不等的文件，写入 SSD 上的一个文件夹中、然后进行回读以评估设备的综合性能表现。</p><p>然后 Oakley 再次比较了 Intel / M1 Mac 上的 SSD 性能，结果发现 Apple Silicon 新机上的实测性能确实偏低。</p><p><a href="https://static.cnbetacdn.com/article/2022/0419/42e6600ed09a70e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0419/42e6600ed09a70e.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>Oakley 指出，问题主要是外置固态存储设备的运行速度只有预期中的一半左右，且这项限制似乎在所有 M1 Mac 上普遍存在。</p><p>若使用雷电 4 线缆，将 USB-C 设备连接到 Mac Studio（M1 Max）上的前置端口，实测速度也较预期低了 10% 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0419/a0c44e248fb0d35.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0419/a0c44e248fb0d35.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>9to5Mac 的 Ben Lovejoy 指出，自 2020 年 11 月以来，任何 M1 设备的雷电端口、似乎都无法发挥出 10 Gbps 的应有功效（至少对 SSD 而言）。</p><p>换言之，即使是最新款的 Mac Studio，也不支持 USB 3.2 Gen 2 。表现相对更好的，只有 Mac Studio（M1 Max）上的那个前置端口。</p><p><a href="https://static.cnbetacdn.com/article/2022/0419/71dba541c2e43e2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0419/71dba541c2e43e2.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>综上所述，对于常用 SATA / USB-C 外置存储来执行 Time Machine 备份的用户，性能影响相对有限 —— 不过是将预期中的 500 MB/s 传输速率、降低到 400 MB/s 左右。</p><p>只有当传输速率接近 10 Gbs 时 —— 例如带有 USB 3.1 Gen 2（而不是雷电 3）的 RAID 阵列、或 NVMe SSD —— 预期的 900 MB/s 传输速率、会砍半低于 500 MB/s（意味着读写所需时间加倍）。</p><p>目前外界主要有两种猜测：其一，假如<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>知悉该问题由 Fabric 核心固件 bug 所致，那它应该早在一年前就被修复。其二，若是 M1 系列芯片的问题，该公司也该向用户通报这些端口的兼容性缺陷。</p><p>最后，如果你正在使用最近一年半发布的 M1 Mac 设备，且不希望被这方面的短板所拖累，当下似乎也只有通过雷电 3 扩展坞（或 Studio Display 上的 USB Hub 端口）来规避。</p>   
+</div>
+            

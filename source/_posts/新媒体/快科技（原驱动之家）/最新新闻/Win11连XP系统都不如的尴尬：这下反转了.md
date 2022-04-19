@@ -17,7 +17,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220419/s_69e32a39db764320ba25c8afff
 <p><strong>正式版已经推出半年、且依然提供免费升级的Win11，却只有着1.44%的份额，甚至还不及“年老色衰”的XP系统。</strong></p>
 <p>这结果着实让微软脸上挂不住，可以说太尴尬了。</p>
 <p>对此，PCWorld特别撰文指出，这一数据以偏概全。</p>
-<p>首先，Lansweeper是一个专注于IT设备等企业级服务的公司，其商用电脑占比告。其次，Lansweeper出具该统计报告的目的在于推介自家的Win11企业级迁移部署工具，动机值得商榷。</p>
+<p>首先，Lansweeper是一个专注于IT设备等企业级服务的公司，其商用电脑占比高。其次，Lansweeper出具该统计报告的目的在于推介自家的Win11企业级迁移部署工具，动机值得商榷。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220419/69e32a39db764320ba25c8afff19945c.jpg" target="_blank"><img alt="Win11连XP系统都不如的尴尬：这下反转了" h="375" src="https://img1.mydrivers.com/img/20220419/s_69e32a39db764320ba25c8afff19945c.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>实际上，媒体也忽略了Lansweeper原报告中特别区分了Win11企业级和消费级安装率，前者是1.1%，后者是2.25%。这基本上符合实际情况，办公电脑升级Win11的热情和动力是远远不及普通个人的。</p>
 <p>另外，从“兼听则明”的角度，Statcounter基于4月份数十亿Web页面访问接口的统计结果显示，Win11的份额是8.57%，虽然的确不如Win10甚至Win7，但却是XP（0.45%）的19倍。</p>
