@@ -1,0 +1,118 @@
+
+---
+title: 'App膨胀十年：手机_空间杀手_的诞生'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220419/v2_74e43828369b41fba8516132e9098d9b_img_000'
+author: 36kr
+comments: false
+date: Tue, 19 Apr 2022 04:17:00 GMT
+thumbnail: 'https://img.36krcdn.com/20220419/v2_74e43828369b41fba8516132e9098d9b_img_000'
+---
+
+<div>   
+<p>2010年8月，知名科技杂志《Wired》发表了一篇争议巨大的文章。</p> 
+<p>这篇名为《Web已死，互联网永生》的文章自信地声称，苹果的“iTunes+App”模式将彻底改变未来互联网的形态，甚至是人们生活的方式，而这一切都会向着更美好的方向发展。</p> 
+<p>《Wired》的信心并非毫无来由，2010年，苹果先后发布了划时代的iPad和iPhone 4，并配合着App应用这一新颖的形式不断<a class="project-link" data-id="1679739192464137" data-name="蚕食" data-logo="https://img.36krcdn.com/20220401/v2_1f59cdb96eca4944ae83e5849f66abf7_img_000" data-refer-type="1" href="https://36kr.com/project/1679739192464137" target="_blank">蚕食</a>着昔日霸主诺基亚的市场。</p> 
+<p>当时的《Wired》这样写道：“我们有苹果和iPhone、iPad这样的重型卡车在前面开路，成千上万的消费者已经在用钱包为这样的App型体验投赞成票。这就让后Web时代的美好前景看起来更有说服力了。事实上，App的时代已经来临了。”</p> 
+<p>App的时代的确来临了，过去十年里，App几乎重新定义了互联网。如今所有人的智能手机里都有着无数个App，而每天打开浏览器的次数可能还不足3次。</p> 
+<p>不过，与《Wired》预言中不太相同的是，以App为代表的移动互联网时代其实并不那么美好。在过去的十年里，App也已从为人们带来生活便捷的工具，逐渐成长为吞噬人们手机空间的熔炉。</p> 
+<p>回想2011年，手机容量或许只是如今的几分之一，却几乎没有人提及手机空间不足。2021年，手机存储大幅提升，空间不足的抱怨却不绝于耳。这样的变迁背后，野蛮生长的APP们无疑首当其冲。</p> 
+<p>因此，本文将通过以下三个问题，来剖析App在这些年里发生的众多变化，以及可能的未来：</p> 
+<p><strong>1.十年膨胀100倍，现在的App有多能吞噬空间？</strong></p> 
+<p><strong>2.是什么让App从划时代的产物，变成了吃掉手机存储的“毒瘤”？</strong></p> 
+<p><strong>3.臃肿至极的App还有药可救吗？未来会如何发展？</strong></p> 
+<h2><strong>01 巨量App的“熔炉成长史”</strong></h2> 
+<p>上个月中，大学同学于冠找到了我，想让我给他推荐一款新手机。原因是“两年以前买的手机，64GB的空间不够用了”。</p> 
+<p>在给他推荐了一款符合需求的256GB手机后，我又顺口问了问他手机中是什么占据了巨大的空间。于冠的回答也不意外：“微信，QQ，淘宝，抖音这些呗，个个都是好几G”</p> 
+<p>Android和iOS系统智能手机，在出厂时系统便会占据一部分空间，于冠使用的64GB的手机，到手可用容量一般为50-55GB。如果一个App就占据2-3GB，64GB的手机也只能容下20-25个App。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_74e43828369b41fba8516132e9098d9b_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>64GB手机不够用了 图/网络</strong></p> 
+<p>但早在2017年，极光数据的报告就显示，国内手机上平均安装的App数量已经达到50个以上，2020年，这一数据进一步增加到70个以上。</p> 
+<p>一边是生活中对APP的旺盛需求，一边是手机的容量跟不上膨胀的App体积，像于冠一样觉得手机空间不够用的用户，自然变得越来越多。</p> 
+<p>那么，过去的十年里，手机App的体积究竟发生了怎样大的变化？</p> 
+<p>由于手机App的具体占据体积会随着个人使用习惯而异，但其变化大致和安装包体积的变化呈正相关。奇偶派（jioupai）以手机App的安装包体积为例，五年一个周期，来呈现国内多款热门App的安装包体积变化过程。</p> 
+<p>需要提及的是，由于目前Android客户端已普遍采取动态加载技术（点击后再下载相应模块），来缩小安装包体积，这一数字相比之前安装包体积的参考价值会有所削弱，iOS系统客户端的最新体积会更具参考价值。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_91c865fa488046d5b8ea8ee36945d579_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>App安装包体积变化 奇偶派制图</strong></p> 
+<p>可以看到，2012年4月，国内大部分主流App的安装包体积，除了微信的6.9MB以外，其它都控制在了5MB以内。而当年国内最新款的手机iPhone 5s以及三星Galaxy S3，起步存储空间都在16-32GB，显然是足够的。</p> 
+<p>2017年4月，国内App的体积已经开始明显膨胀，其中淘宝的安装包体积达到74.9MB，相比五年前膨胀了20多倍。微信，QQ的安装包都在40MB左右。功能相对单一的微博和优酷，安装包体积都突破了50MB，是之前的数十倍。</p> 
+<p>但此时的手机空间增长却远未赶上App体积增长，当年国内最新发布的iPhone 8系列，起步存储空间为64GB，华为在上半年发布的P10系列手机，存储空间也不过是64-128GB，相比五年前仅增长了1-2倍。</p> 
+<p>到了今年，我们以iOS客户端安装包体积为参考，各家App的安装包齐刷刷地突破了250MB。其中腾讯的微信和QQ以突破500MB的巨量安装包一骑绝尘。抖音，淘宝，贴吧也纷纷突破400MB。</p> 
+<p>此时再低头看了看自己的手机存储空间，占用20+GB的微信，10+GB的QQ，接近5GB的淘宝、支付宝、抖音，还有超过2GB的<a class="project-link" data-id="1679697424569094" data-name="美团" data-logo="https://img.36krcdn.com/20220401/v2_f5fe55a8ab3b42c5ac024ef17116062f_img_000" data-refer-type="1" href="https://36kr.com/project/1679697424569094" target="_blank">美团</a>、<a class="project-link" data-id="1678272160723973" data-name="京东" data-logo="https://img.36krcdn.com/20220331/v2_c05e240eba464dd28d00b16923addd7a_img_000" data-refer-type="1" href="https://36kr.com/project/1678272160723973" target="_blank">京东</a>、B站，便丝毫不觉得惊讶了。</p> 
+<p>毕竟，相比安装包体积在这十年里动辄上百倍的增长速度，App们占用空间的增长速度甚至还稍慢了点。但相比每5年仅仅增加1-2倍的手机存储空间，App无论是安装包还是占用空间，其膨胀的速度仍远远超出手机空间的承载能力。</p> 
+<p>而我们不难发现的是，这些年里App使用体验上的变化，似乎并没有App们占用的空间变化来得如此剧烈和庞大。</p> 
+<p>那么，十年里体积暴涨几十倍，数百倍，吞噬越来越多手机空间的App们，究竟胀在了哪？</p> 
+<h2><strong>02 无尽的欲望，失序的开发</strong></h2> 
+<p>“什么都想往里加，其实一大半用不着”。谈及App近些年的疯狂“膨胀”，已经转行的前App产品经理刘智并不觉得意外。</p> 
+<p>在移动互联网蓬勃发展的那几年，他曾参与到一个壁纸App的开发，更新和迭代中。为了提升用户数量，他参与的App从只有壁纸展示，更换功能的基础版本，添加进智能锁屏，新闻资讯，甚至视频播放，手办等各种新的功能，App体积也逐渐变得臃肿不堪。</p> 
+<p>这样的变迁，在国内的许多知名App中已成常态。</p> 
+<p>如今打开号称“小而美”的聊天App微信，发现页的视频号、直播、购物、游戏还有小程序吸引着人们的眼球；打开淘宝，首页的飞猪、闲鱼、好药、饿了么、淘票票，都提醒着你它早已不再只是一个单纯的购物App。</p> 
+<p>昔日造出无数神梗的贴吧，现在一不小心就能<a class="project-link" data-id="1678559336051715" data-name="点到" data-logo="https://img.36krcdn.com/20220331/v2_c3ef8aa4f89a4da584a0e5afc127a1ae_img_000" data-refer-type="1" href="https://36kr.com/project/1678559336051715" target="_blank">点到</a>小游戏和短视频；微博、美团甚至地图App里的限时领红包抽奖，0元领水果等功能，显眼到难以让人忽视到它们的存在。更别提在政策管控前，那些点击几下就能借钱，却和贷款资质毫无关联的各类App了。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_96b9e6b1d778473db52988c592312ae6_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>地图App里夺宝，聊天App里购物和贷款</strong></p> 
+<p>而这一切的开端，要追溯到2013年前后，随着用户流量从网页端向移动端大面积转移，那场被称为“移动互联网圈地运动”的变革。</p> 
+<p>2013年，当时国内最大的视频网站优酷土豆公布，移动端对总流量的贡献度已经达到50%；<a class="project-link" data-id="1679649761497857" data-name="百度" data-logo="https://img.36krcdn.com/20220401/v2_6f5b7c03c65644878d14aae7b1202ef8_img_000" data-refer-type="1" href="https://36kr.com/project/1679649761497857" target="_blank">百度</a>当年的财报也披露，移动业务的营收达到20%，相比去年大幅增长；当年的移动端网购交易额突破1000亿，淘宝客户端一年的新增用户数就突破了1亿。</p> 
+<p>智能手机的快速发展，让用户的流量成为了各家大厂争夺的焦点，而App则成了他们手中抢夺用户的利器。在激烈的竞争下，BAT等大厂们祭出了收购和入股大旗，越来越多的App被划分进大厂的势力版图。</p> 
+<p>但同派系内割裂的App，并不利于圈占更多用户流量。市场研究机构TNS在2013年调查的数据显示，iOS平台上，排名前三的APP占据了用户使用时间的38%，Android平台上，排名前五的APP就占据了用户使用时间的34%。</p> 
+<p>一个显而易见的改善方式摆在了大厂们面前——把旗下众多App的功能，集中到自己最有优势，拥有最多用户的App中，借最大的流量入口，打造出一个“超级App”圈占用户。</p> 
+<p>于是，微信、QQ、淘宝、支付宝、微博这些积累了庞大用户的App，成为了大厂倾注最多资源的前沿战场。</p> 
+<p>聊天App上开始看新闻，刷短视频，用小程序下单；支付App能点外卖，买电影票甚至卖二手，曾经只能发布限制140字短文的App上可以带货、抽奖和购物……</p> 
+<p>不管用户们是否都需要这些功能，大厂如愿以这样的形式圈占了更多的用户和流量。但这些App内的版块，也不是凭空冒出的，当越来越多的功能被集中在App中，App的体积的“野蛮生长”顺理成章。</p> 
+<p>而在App汇聚更多功能，体积变得越来越庞大的过程中，国内Android应用开发和推送生态的无序，也在为App的野蛮生长推波助澜。</p> 
+<p>在国内，由于Google早已退出中国，国内Android手机无法使用统一的GMS服务框架和FCM推送。这使得国内的App无法轻松实现统一推送，却也无需应付Google Play对应用在后台活跃，接入第三方SDK以及代码库的严格审核。</p> 
+<p>这给了国内众多App开发者及背后的平台们可乘之机，App们可以接入自有的推送框架，浏览器内核，强行在后台加载数据，相互唤醒，读取用户信息，接入大量的第三方SDK，甚至进行热更新。</p> 
+<p>以国民App微信为例，通过应用架构查看软件LibChecker，我们发现国内应用市场的微信App原生库项数达到159个，且内置了自有的X5浏览器内核。而Google Play版微信的原生库数量仅为87个，内置浏览器内核也是调用的Google的Webview。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_6ce17d648a8b4cf98db694b898bb2135_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>左/Play版微信 右/国内版微信 奇偶派截图</strong></p> 
+<p>国民级的App尚且如此，其它App在开发过程中的无序更是不难想象，而这些为了时刻保持后台活跃，获取用户信息的操作，同样进一步扩大了App的体积。</p> 
+<p>2020年4月，小米在MIUI 12中内置了观察应用敏感行为的“照明弹”功能，无论是微信、QQ、淘宝等大型App，还是王者荣耀，和平精英等手游App，抑或是虎扑，微博、<a class="project-link" data-id="1678456307217414" data-name="拼多多" data-logo="https://img.36krcdn.com/20220331/v2_9ce49a00d8fb4a2e84195a7a4b47b60d_img_000" data-refer-type="1" href="https://36kr.com/project/1678456307217414" target="_blank">拼多多</a>这类MAU略逊一筹的App，都被发现有着频繁读取，索取权限，相互唤醒等问题。</p> 
+<p>不过，这一功能并没有让App开发者和背后的公司们停下App无序开发的脚步。</p> 
+<p>2021年10月，在iOS 15更新了“记录App活动”功能后，有网友发现，微信、淘宝、QQ等App都存在反复读取相册的行为，安卓用户实测后发现，安卓端App也依然存在这样的问题。</p> 
+<p>在字节跳动的头条和抖音用算法开启了又一个新时代后，App们对用户流量，信息和活跃度的索求，更是达到了前所未有的高度。</p> 
+<p>除了获取新用户和对用户流量的需求，App们还开始试图通过用户画像，来进一步以精准推荐广告，内容的形式挖掘用户背后的更多价值。用户画像需要记录用户在使用App时的各项操作，这些功能实现背后的代码，令App又膨胀了几分。</p> 
+<p>此外，微信，QQ等即时聊天App对聊天记录，缓存的存储机制，也进一步推动着App占据的手机空间增长。</p> 
+<p>在“小众软件”论坛，有网友对QQ占据超过20GB的手机空间进行了详细拆解，分析发现，仅Chatpic（聊天图片）和Shortvideo（聊天短视频）文件夹的内容，就占据了高达8.4GB的空间。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_e33b186bc21a462daade29ab37aab95e_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>小众软件网友@Yazii解析QQ占用空间</strong></p> 
+<p>这些内容大多数来自QQ前台群聊消息默认接收的图片和短视频，尽管在使用过程中，用户对大多数群消息或许并不会看上几眼，但对存储空间的占用却不因用户不看而削减。而和QQ采用同样存储机制的微信，对手机空间的吞噬也又多了一个理由。</p> 
+<p>此时回到最开始的那个问题，膨胀的App们究竟涨在了哪？从表面上看，是越来越多的非必要功能，相互唤醒和保持活跃的需求，还有不合理的文件存储机制。</p> 
+<p>但这些东西的背后，代表的是开发者和公司们对用户价值无尽的挖掘欲望，国内一直以来都未获明显改善的失序App开发环境，是它们一起，<a class="project-link" data-id="1679782441079554" data-name="造就" data-logo="https://img.36krcdn.com/20220401/v2_ba61efd6c1574ce4981dfde670c1b1d6_img_000" data-refer-type="1" href="https://36kr.com/project/1679782441079554" target="_blank">造就</a>了如今吃掉巨量空间的畸形App。</p> 
+<h2><strong>03 谁也救不了的App，还会更大？</strong></h2> 
+<p>在App无序的膨胀过程中，有不少人曾试图扭转这一态势。</p> 
+<p>2016年，绿色守护的App开发者OasisFeng和爱范儿旗下的AppSo联合发起了Android绿色应用公约，旨在更好地接入第三方SDK的同时限制应用无序的App常驻后台耗电，避免带来手机的存储空间不足和卡顿。</p> 
+<p>但这一公约并未在此后得到广泛响应，仅有酷安、<a class="project-link" data-id="1678333241570308" data-name="即刻" data-logo="https://img.36krcdn.com/20220331/v2_185aeee0a13b4c178aca2c51edd4da52_img_000" data-refer-type="1" href="https://36kr.com/project/1678333241570308" target="_blank">即刻</a>、<a class="project-link" data-id="1679660102701827" data-name="知乎" data-logo="https://img.36krcdn.com/20220401/v2_8825cd75ab9f4ae39cc609a380d5c12a_img_000" data-refer-type="1" href="https://36kr.com/project/1679660102701827" target="_blank">知乎</a>、Flipboard等寥寥数个APP宣布支持，目前已基本处于停滞状态。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_a8a4873881144ab2b70196f97a760a3e_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>加入绿色应用公约的App寥寥无几</strong></p> 
+<p>2017年，工信部牵头成立了统一推送联盟，设想未来由终端厂商提供系统级推送服务，不再允许App 在后台保留常连接。与此同时，各终端厂商实现推送通道接口和功能统一，方便开发者接入。</p> 
+<p>如果统一推送联盟成为现实，App为了推送功能添加的代码库和模块都有望削减，其体积也有可能得到一定控制。</p> 
+<p>然而，由于国内在推送服务领域山头林立，如腾讯的TPNS推送，<a class="project-link" data-id="1689693741320199" data-name="阿里云" data-logo="https://img.36krcdn.com/20200626/v2_11b670b84ab94284b17edbaaedc803cb_img_000" data-refer-type="1" href="https://36kr.com/project/1689693741320199" target="_blank">阿里云</a>的消息推送，友盟SDK等的存在，让微信、淘宝、QQ、美团这些国内知名的应用各自为战，因为多种原因未能接入统一推送联盟。</p> 
+<p>尽管多家国产手机厂商都宣布已经支持这一服务，但统一推送联盟至今也未能正式上线。</p> 
+<p>无论是开发者号召，还是工信部这样的有关部门牵头，都未能让膨胀的APP们踩下刹车。这似乎也预示着，最终能让App轻量化的，只有App背后的公司们。</p> 
+<p>在过去几年里，有多家公司开始力推极速版App，据QuestMobile统计，腾讯推出了QQ极速版，视频极速版等多个应用，微博，<a class="project-link" data-id="1679625139262211" data-name="爱奇艺" data-logo="https://img.36krcdn.com/20220329/v2_dbdeed1720f94457b0d3bf5086cb295b_img_png" data-refer-type="1" href="https://36kr.com/project/1679625139262211" target="_blank">爱奇艺</a>，知乎也纷纷上线极速版，另外，两大短视频App抖音、<a class="project-link" data-id="1678436094489609" data-name="快手" data-logo="https://img.36krcdn.com/20220331/v2_8f7d8daa5a1d4fa68b60653170d1dae9_img_000" data-refer-type="1" href="https://36kr.com/project/1678436094489609" target="_blank">快手</a>更是将极速版视作重要阵地。</p> 
+<p>上述极速版的安装包体积，相比普通版有明显缩小，也被视作大厂们推动App轻量化的一种尝试。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220419/v2_1d3aa9f5a52748cc9d167dbd428c15fe_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style><strong>极速版App安装包体积缩小 奇偶派制图</strong></p> 
+<p>不过，QuestMobile研究报告中也表示，大厂们开发极速版的操作，或许并非是为了推动App轻量化，而是为了进一步抢占中低端手机用户代表的下沉市场，为公司业务寻找第二增长曲线。</p> 
+<p>与此同时，作为许多公司最大流量入口的普通版本App，并没有什么收敛的态势。</p> 
+<p>2022年1月，手机QQ又迎来一个大版本更新，内置游戏开发引擎虚幻4，这也导致QQ的安装包体积首度突破800MB。上周，微信推出了全新的微信农场功能，却被不少用户吐槽并不实用，但毫无疑问的是，增加了这一功能的微信体积又要大上几分。</p> 
+<p>淘宝、抖音们近两年赶上了直播带货的风口，店内的直播和产品视频甚至开启了自动播放模式，视频缓存默默地吃下了的更多手机空间。</p> 
+<p>知乎、贴吧、豆瓣这些在网页端起家的网站们，索性限制了手机网页端的功能，想要多看几篇文章动辄弹窗“打开App查看”，被App体积劝退的用户们，连退路似乎都被堵死了。</p> 
+<p>看了这些App在过去两年里的操作，我们或许很难对App的未来发展抱有信心。在增长依然遭遇瓶颈的移动互联网市场，公司们依旧在为了用户流量不断厮杀，而App注定仍然是他们争夺的工具。</p> 
+<p>至于“轻量，易用”的用户体验，给用户留出更多的手机空间，短期内依然不是这些互联网公司的优先级。App体积的膨胀，在未来几年内大概率仍将持续下去。</p> 
+<h2><strong>04 写在最后</strong></h2> 
+<p>如今被App统治的生活，显然已经与《Wired》畅想中的那个美好App时代有所出入。当App以远超手机性能和空间的增长速度变得臃肿起来，即便是广为人知的安迪-比尔定律也不足以为此辩白。</p> 
+<p>但这一切是App这一形式的错吗？回望过去十年App的发展历史，真正影响我们使用App体验的，或许并非App这一形式本身，而是不断为App添加进无用又繁杂功能的开发者和公司。</p> 
+<p>当App所承载的利益需求，已经超过了它为生活带来的便利本身。臃肿又吞噬了太多空间和时间的App，或许也难免在今后的某一刻迎来反噬。</p> 
+<p>参考资料：</p> 
+<p>1.《提升用户体验还是白嫖手机空间？手机占用空间为啥这么大？》，<a class="project-link" data-id="1678411437421573" data-name="差评" data-logo="https://img.36krcdn.com/20220331/v2_b7e7cad57c3948879e6106e25d4e6c91_img_000" data-refer-type="1" href="https://36kr.com/project/1678411437421573" target="_blank">差评</a>；</p> 
+<p>2.《App膨胀时代，谁吃掉了你的手机内存？》，雷达财经；</p> 
+<p>3.《怒探QQ手机占用存储空间之谜》，小众软件@Yazii；</p> 
+<p>4.《BAT“圈地战争”简史：巨头如何改变互联网？》，砺石<a class="project-link" data-id="1678350589932547" data-name="商业评论" data-logo="https://img.36krcdn.com/20220331/v2_f07dc02e219d4467a6c16a66777406e3_img_000" data-refer-type="1" href="https://36kr.com/project/1678350589932547" target="_blank">商业评论</a>；</p> 
+<p>5.《国产 App 里究竟塞了什么？占用空间这么大》，V2EX@ZeroSimple。</p> 
+<p>*文中于冠，刘智为化名</p> 
+<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY4NDYwNg==&mid=2247509793&idx=1&sn=a024bc2aa98100a981d109a45c2d8b0d&chksm=ce45fcf0f93275e6f292a40c27a088ea043f75c00dd93f8f227e8213104c09903bbe281bace7#rd">“奇偶派”（ID：jioupai）</a>，作者 |零九，编辑 |钊，36氪经授权发布。</p>  
+</div>
+            
