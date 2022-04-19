@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/22/c92f9f54d3161c40a4e9b2b88c1fy8e5.JPG?v=1650267255883'
 author: 巴哈姆特
 comments: false
-date: 2022-04-18 15:08:37
+date: 2022-04-19 00:39:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/c92f9f54d3161c40a4e9b2b88c1fy8e5.JPG?v=1650267255883'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li></ul>
+<ul class="platform-tag"><li class="platform-olg"><a href="https://acg.gamer.com.tw/news.php?p=olg" target="_blank">PC 線上</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
