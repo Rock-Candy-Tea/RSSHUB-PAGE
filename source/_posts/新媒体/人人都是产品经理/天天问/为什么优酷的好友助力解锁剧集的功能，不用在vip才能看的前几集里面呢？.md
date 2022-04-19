@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://picsum.photos/400/300?random=4294'
+headimg: 'https://picsum.photos/400/300?random=4077'
 author: 人人都是产品经理
 comments: false
-date: Tue, 19 Apr 2022 09:10:03 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4294'
+date: Tue, 19 Apr 2022 10:10:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4077'
 ---
 
 <div>   
-已经是vip却还需要助力才能看最新的，难道换成非vip的用户通过助力来解锁，原本只有vip能看的前面剧集不好吗？<br><br>这样的话vip可以看最新的，而原本要付费的会员视频过几周以后可以通过邀请好友助力的方式免费观看。  
+<p>现在的规则是已经是vip却还需要助力才能看最新的。换成非vip的用户通过助力来解锁提前看剧不好吗？<br><br>即，vip可以看最新的，而原本要付费的会员视频，过几周以后可以通过邀请好友助力的方式免费观看。</p>  
 </div>
             
