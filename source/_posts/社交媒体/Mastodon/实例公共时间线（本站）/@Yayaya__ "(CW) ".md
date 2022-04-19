@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/158/101/537/867/428/original/a38f55767eeb7e2c.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/158/369/195/705/805/original/bf06742ae6cedb4b.jpeg'
 author: Mastodon
 comments: false
-date: Tue, 19 Apr 2022 09:47:42 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/158/101/537/867/428/original/a38f55767eeb7e2c.jpg'
+date: Tue, 19 Apr 2022 10:56:04 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/158/369/195/705/805/original/bf06742ae6cedb4b.jpeg'
 ---
 
 <div>   
-<hr><p>見て　かわいい</p><br><img src="https://img.pawoo.net/media_attachments/files/108/158/101/537/867/428/original/a38f55767eeb7e2c.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>アナログからめっちゃ綺麗に加工できた綾部喜八郎</p><br><img src="https://img.pawoo.net/media_attachments/files/108/158/369/195/705/805/original/bf06742ae6cedb4b.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
