@@ -1,0 +1,73 @@
+
+---
+title: '显卡上越加越多的供电口 在RTX 3090 Ti上终于被_消灭_'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220419/S537ae7db-6f9e-471d-8ab9-0f1b93410fdd.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 19 Apr 2022 14:34:21 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220419/S537ae7db-6f9e-471d-8ab9-0f1b93410fdd.jpg'
+---
+
+<div>   
+<p>RTX 3090 Ti发布已有一段时间，根据之前的首发评测数据，RTX 3090 Ti顶尖的性能表现毋庸置疑。由于篇幅限制，在首测上关于RTX 3090 Ti一些新特性的详解，没能详细展开来讲。</p>
+<p>今天要聊的是首发于RTX 3090 Ti上的新接口——12VHPWR供电接口。</p>
+<p>说到供电接口，作为目前独立显卡的“动力”来源，让我们先来了解一下，目前显卡外置供电接口的总体情况。</p>
+<p>以RTX 30系列为例，NV自家的公版显卡和AIC厂商的非公显卡，虽然大家都用同一个核心，但是在外置供电接口上完全是两级分化，公版配备的是Micro-Fit 3.0 12-pin接口。</p>
+<p>这个接口的全称叫“Molex Micro-Fit 3.0 12-pin”，<span style="color:#ff0000;"><strong>它可以说是12VHPWR接口的雏形，最高能够提供600W的功耗，</strong></span>以至于公版从RTX 3060到RTX 3090，一个Micro-Fit 12-pin接口就能满足整卡的功率需求。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/537ae7db-6f9e-471d-8ab9-0f1b93410fdd.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="272" src="https://img1.mydrivers.com/img/20220419/S537ae7db-6f9e-471d-8ab9-0f1b93410fdd.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>别说，单接口满足600W功耗，Micro-Fit 12-pin看上去还是挺实用的，一个接口就能满足一张旗舰卡的功耗需求，这个接口当时只有NV的公版显卡配备，并没有相应的模组线直连电源，所以需要配合一条Micro-Fit 3.0 12-pin转PCIe 8Pin的转接线来使用。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/47fd8b6e-1aed-43df-8772-a96ef4a24475.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="400" src="https://img1.mydrivers.com/img/20220419/S47fd8b6e-1aed-43df-8772-a96ef4a24475.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>用马后炮视角来说，NV提前配备Micro-Fit 12-pin接口显然是为新的电源标准布局。但Intel在当时并没有及时跟进推出新的电源规范，加上Micro-Fit 12-pin也只是NV公版卡自家使用，没有推行到非公显卡上，所以30系这一代除了RTX 3090 Ti，非公卡都是继续沿用了8Pin/6Pin PCIe供电接口。</p>
+<p><strong>“越加越多”的供电接口</strong></p>
+<p>如果不使用新接口，那么显卡该怎么配供电接口呢？</p>
+<p>显卡配备PCIe供电接口，会考量两个因素：一个是显卡的功耗，另外一个是外置接口的供电能力。</p>
+<p><strong>以目前广泛使用的PCIe 8Pin接口为例，PCIe 8Pin接口接入的是12V电压，理论最高功率是可以跑到24A的电流，也就是288W的总功率。</strong></p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/f28b6102-fcf8-43dc-97a2-46eee27d8554.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="542" src="https://img1.mydrivers.com/img/20220419/Sf28b6102-fcf8-43dc-97a2-46eee27d8554.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>不过根据PCI-SIG给出的PCI Express规范，规范的接口功率就远小于这个值了，主要考虑到接口端子以及发热产生的电流损耗，使接口不能始终保持如此高的功率。</p>
+<p>因此在PCI Express规范中，限定了PCIe 8Pin供电接口的最高供电功率为150W，6Pin PCIe供电接口的最高供电功率则是75W。</p>
+<p>在电源功率理想的情况下，如果显卡配备一个PCIe 8Pin接口，配合主板PCIe x16插槽自带75W的功率供应，理论可以支持150W+75W=225W的功率，也就是能带动默认状态下RTX 3070。</p>
+<p><strong>为什么说是“默认状态”？</strong></p>
+<p>因为在大多数非公显卡的VBIOS设置中，默认状态下的功耗墙通常与显卡的标准TDP相同，如果是超频设计的显卡，那么这个功耗墙设定就会更高一些，225W显然就不够用，因此大多数可超频的RTX 3070会配备双PCIe 8Pin接口。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/1cf807e4-70ca-4f30-818e-44a35d6cfd14.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="400" src="https://img1.mydrivers.com/img/20220419/S1cf807e4-70ca-4f30-818e-44a35d6cfd14.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>如果是更高功耗的旗舰卡，像能给到400W功耗的RTX 3080 Ti和RTX 3090，两个8Pin加上PCIe自带供电，理论功率就是375W，显然又带不动了，于是厂商又给旗舰卡再加一个PCIe 8Pin接口，3个PCIe 8Pin供电接口基本上是旗舰卡的标配了。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/f85b6870-d936-4cab-aa1d-2574f5b69fd1.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="399" src="https://img1.mydrivers.com/img/20220419/Sf85b6870-d936-4cab-aa1d-2574f5b69fd1.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>面对显卡功耗不断拔高，在显卡上一直增加供电接口显然不是办法，有传闻下一代RTX旗舰显卡最高就能达到600W的TDP，那这样到了再下一代、再下下代…</p>
+<p>如果没有更高效的供电方案，恐怕未来的显卡上面会插满一排PCIe 8Pin供电线，既影响用户的使用效率，也显得不切实际。</p>
+<p><strong>ATX 3.0规范：定义未来PCIe硬件供电的新标准</strong></p>
+<p>不仅仅是显卡，随着整机硬件的功率提升，高性能硬件们正在等待新的供电规范到来。</p>
+<p>在RTX 3090 Ti开卖前夕，Intel正式发布ATX 3.0和ATX12VO 2.0电源规范，面向新一代PCIe硬件设备的12VHPWR接口正式亮相。之后上架的RTX 3090 Ti，正是首批应用上新接口的产品。</p>
+<p>此前NVIDIA推出的Micro-Fit 12-pin接口，只是从自家产品角度上进行推广，并没有在玩家使用较多的非公显卡上进行应用，关于沿用PCIe 8Pin还是换成Micro-Fit 12-pin接口，之前也引起过不少讨论。</p>
+<p>而新规范的推出，将一统未来的显卡供电接口，也就意味着，无论是NV自家的公版还是非公显卡都会配备新规范的12VHPWR接口。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/ce475a8a-e5db-4955-a1e2-16b3d3e4d49e.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="320" src="https://img1.mydrivers.com/img/20220419/Sce475a8a-e5db-4955-a1e2-16b3d3e4d49e.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>新接口采用的是12个供电脚位，其中1-6针脚是12V电压输入，7-12针脚为接地，与Micro-Fit 12-pin的针脚定义基本相同（Micro-Fit 12-pin的转接线可以用于12VHPWR接口）。</p>
+<p>除此之外，在12个脚位上方还增加了4个针脚，定义4个边带信号在电源和PCIe设备进行通信，功能包括向设备发送可用功率提示信号、电源良好状态指示以及连接状态指示。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/bef7ac2f-54a0-4ae1-9962-821e9e547d2e.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="219" src="https://img1.mydrivers.com/img/20220419/Sbef7ac2f-54a0-4ae1-9962-821e9e547d2e.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>根据规范，当SENSE0/ SENSE1的针脚对地时，最高功耗可达到600W。在接入符合ATX 3.0规范电源的情况下，即便是未来的旗舰卡，也能做到单接口满足600W的高功率。</p>
+<p><strong>RTX 3090 Ti的正确搭配姿势：ATX 3.0电源</strong></p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/c631f542-0034-46dd-9e9f-c36398194a52.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="436" src="https://img1.mydrivers.com/img/20220419/Sc631f542-0034-46dd-9e9f-c36398194a52.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>那么新电源什么时候来？根据消息披露，电源厂商预计在年内会推出基于新规范的电源产品，大家很快就能在市面上见到新品了。</p>
+<p>可能有同学要问了：我手里的电源还能再战五年，新接口直接用转接线就好了，电源换新的意义在哪里？</p>
+<p>以RTX 3090 Ti为例，如果是用现有的电源，只能配合附赠的3xPCIe 8Pin转接线进行外接，那么理论最高只能达到450W的功率（实际不会达到，使用转接线会有损耗），加上PCIe自带供电不能满足剩下的功率。</p>
+<p>那么在一些性能释放较为激进的显卡上（480W及以上），显卡有可能出现满载时功率不足，产生宕机卡死的状况。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220419/110e59dc-9a33-431f-b4de-7b13cad849dc.jpg" target="_blank"><img alt="显卡上越加越多的供电口 在RTX 3090 Ti上终于被“消灭”" h="400" src="https://img1.mydrivers.com/img/20220419/S110e59dc-9a33-431f-b4de-7b13cad849dc.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>俗话说得好，要想马儿跑，怎能不给马儿吃草？所以发挥出RTX 3090 Ti最佳性能的方式，就是置换基于ATX 3.0标准的新电源。</p>
+<p>虽然大家都在调侃RTX 3090 Ti“电表倒转”的高功耗，但不可否认的是，未来更高性能的显卡，需要更多的晶体管数量和规格，功耗一定会水涨船高，12VHPWR的诞生正是迎合了这样的时代趋势。未来的道路上，PCIe 6.0、7.0的显卡又会发生什么样的新变化，就让时间来见证吧。</p>
+
+           
+           
+<p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p> 
+<div style="overflow: hidden;font-size:14px;">
+             
+          <p class="url"><span style="color:#666">责任编辑：振亭</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+        </div>
+        <div class="page_article" id="bnext">
+ 
+</div>
+<p class="bqian">话题标签：<a href="https://news.mydrivers.com/tag/rtx_3090.htm">RTX 3090</a><a href="https://news.mydrivers.com/tag/rtx_3090_ti.htm">RTX 3090 Ti</a><a href="https://news.mydrivers.com/tag/xianka.htm">显卡</a>  </p>
+        
+</div>
+            
