@@ -1,0 +1,18 @@
+
+---
+title: 'covid-19人口管控下脫北者數量遽減'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/791898ef-5fd0-4b6d-8fdc-0ef09b1be3b2.jpeg'
+author: Matters
+comments: false
+date: Mon, 18 Apr 2022 04:01:24 GMT
+thumbnail: 'https://assets.matters.news/embed/791898ef-5fd0-4b6d-8fdc-0ef09b1be3b2.jpeg'
+---
+
+<div>   
+<p>根據<a href="https://www.unikorea.go.kr/unikorea/business/NKDefectorsPolicy/status/lately/" rel="noopener noreferrer" target="_blank"><strong>韓國統一院的報告</strong></a>，2021年抵達韓國的朝鮮「脫北者」創下現有數據的歷史最低（63人），2020年則是歷史第二低（229人）。這個數字在近25年內通常是每年1000-2500人。</p><p>具體數值參考如下（我標記了每一行數字代表的人口，第一行代表年度，第二行代表男性數量，第三行代表女性數量，第四行代表男女數量總和）</p><figure class="image"><img src="https://assets.matters.news/embed/791898ef-5fd0-4b6d-8fdc-0ef09b1be3b2.jpeg" data-asset-id="791898ef-5fd0-4b6d-8fdc-0ef09b1be3b2" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>這些脫北者主要來自<strong><u>咸鏡北道</u></strong>和<strong><u>兩江道</u></strong>。以<a href="https://www.nknews.org/2017/10/where-do-the-majority-of-north-korean-defectors-come-from/" rel="noopener noreferrer" target="_blank"><strong>2016年脫北者的樣本</strong></a>來看，有70%左右的脫北者都來自於這兩個地方，其中咸鏡北道更是佔據了總數的60%。</p><p>合理的解釋是，咸鏡北道和兩江道都和中國接壤，並且以<strong><u>豆滿江（圖們江）</u></strong>為界限，相較於同樣與中國依<strong><u>鴨綠江</u></strong>接壤的慈江道和平安北道來說，豆滿江的流速和河道寬度都更加適合「逃走」。（如下圖，兩江道三池淵市的<strong><u>白頭山</u></strong>是豆滿江與鴨綠江的分界點，藍色是豆滿江流域，紅色是鴨綠江流域）當然，距離平壤最遠的咸鏡北道一直是「流放之地」，被排斥在政治體制外的「<a href="https://www.secretchina.com/news/b5/2017/11/29/841635.html" rel="noopener noreferrer" target="_blank"><strong>敵對階級</strong></a>」比例也更高。</p><figure class="image"><img src="https://assets.matters.news/embed/ede3b73f-36a2-496f-a29c-02779ca62e17.png" data-asset-id="ede3b73f-36a2-496f-a29c-02779ca62e17" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>相對來說，離朝中邊境較遠的江原道、黃海南道、黃海北道的脫北者就相對很少。</p><p>「脫北」有其特定路線：與韓國相接的軍事停火線（38度線）戒備森嚴，一般人不得入內，且緩衝區是地球上地雷密度最高的地區，所以這是一條幾乎不可能的路線；海路的話，也更加不可能（省略解釋）。所以，從朝鮮境內逃出的最可行路線就是提供邊境進入中國東北地區。</p><p>然而，哪怕是冒著生命危險進入中國東北地區，也並不等於「逃出升天」。由於朝中兩國政府的特殊關係，中國並不將脫北者視為尋求庇護者，而是把這群人當作有「經濟困難」的「非法越境者」（當然，經濟也是很多脫北者離開朝鮮的原因之一），所以會將被發現的脫北者送回朝鮮。這批人通常會面臨「勞改營」/徒刑甚至死刑的處罰。</p><p>所以，進入中國之後，他們仍然需要進入例如蒙古或者泰國、緬甸等等不會遣返脫北者的「第三方」國家聯繫當地韓國領事館，再開始正式的籍貫處理程序。這個過程，並不容易，尤其是從吉林/遼寧省以地下方式抵達雲南，再出境，有時候會花上數月甚至數年前途未卜的時光。</p><p>2020年開始，中國開始實施「健康碼」制度，對人口流動管理加強，令前面提到的「逃跑路線」更加困難重重。</p><p>在2020年之前，朝鮮對人口流動的管控就很嚴格。除了一般軍事、邊境等等涉及到國家機密的地方，普通民眾的出行也是受限的。</p><p>首先，首都平壤直轄市的市民和其他地方（各個道、特別市、經濟特區）出行的權力是不同的。平壤市民除了會有一般的「身分證」，還會有一個「<a href="http://world.kbs.co.kr/special/northkorea/contents/news/closeup_view.htm?No=368739&lang=c" rel="noopener noreferrer" target="_blank"><strong>平壤市民證</strong></a>」，而其他地方的居民則只有「身分證」（居民證）。擁有「平壤市民證」的人可以去「地方」，相當於在交通途中的「通行證」，但是「地方」的人要去平壤則必須有特殊申請。</p><p>「<a href="http://draw-bruce.blogspot.com/2011/12/blog-post_6412.html" rel="noopener noreferrer" target="_blank"><strong>出行申請</strong></a>」是每個行政區域內有專門負責的機構，如果要出行（即，離開自己所屬的戶籍所在地），需要有一些理由，例如探親、奔喪等等，「我想出去看看」這種普通旅遊的理由是不太有說服力的。而且，這個「出行許可」是在旅途中車站等地方會受到檢查等。只有車票，沒有「出行許可」，檢查證人員無法放行。</p><p>另外，朝鮮實行「<a href="https://zh.m.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E7%8F%AD" rel="noopener noreferrer" target="_blank"><strong>人民班</strong></a>」制度，類似於鄰里之間「五戶為伍，十戶為什，相聯相保」這樣子。「人民班」的「班長」會檢查自己管轄範圍內每個居民的「存在」（甚至說晚上敲門進入民居，察看有沒有「窩藏」的人）。如果有人未經申請就莫名其妙消失，那這一家人很可能會成為「監視對象」，給家人帶來很大不方便。</p><p>所以，很有可能，在covid-19爆發之後，朝鮮國內幾乎暫停了所有的境內人口流動活動（他們本身的人口管理制度完全可以做到這一點），以前脫北者採取「以某種理由去朝中邊境，然後再進入中國境內」的策略有極大可能無法實現第一步。</p><p>然而，弔詭的地方在於，以上只能是猜測，脫北者數量在covid-19爆發之後劇減的因素一定是重重疊疊的，從朝鮮境內可能實施的絕對人口流動管控，到中國的「健康碼」限制，導致成功離開朝鮮抵達其他安全地方（尤其是韓國）的人數驟減。但朝鮮境內的情況，以前很大一部分消息就來源於脫北者的講述，然而目前除了朝鮮中央通訊社的官方報導，外界基本上無法知曉。換言之，正是因為「裡面」的情況很可能是一個靜止的「黑洞」，所以很少人「跑出來」，而很少人「跑出來」，也可能正是因為「裡面」是一個靜止的「黑洞」。</p><p>最後，祝各位要跑路的都能成功。</p>  
+</div>
+            
