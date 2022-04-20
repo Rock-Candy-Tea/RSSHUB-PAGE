@@ -1,0 +1,46 @@
+
+---
+title: '还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220420/s_aff25c5f63ac4ead8167ba52ea2229be.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Wed, 20 Apr 2022 19:07:49 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220420/s_aff25c5f63ac4ead8167ba52ea2229be.jpg'
+---
+
+<div>   
+<p>6980元，你甚至买不到一台iPhone 13 Pro（官网标价7999），但可以买到一台复古的、弯梁摩托！</p>
+<p>4月20日消息，近日，宗申摩托官方宣布旗下复古弯梁车——2022款YAMI正式上市，<strong>复古版（条轮）和运动版（铝轮）的售价均为6980元</strong>。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/aff25c5f63ac4ead8167ba52ea2229be.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="532" src="https://img1.mydrivers.com/img/20220420/s_aff25c5f63ac4ead8167ba52ea2229be.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/4f52190ec2f84f73a4740fda51e59aa6.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="409" src="https://img1.mydrivers.com/img/20220420/s_4f52190ec2f84f73a4740fda51e59aa6.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>外观来看，新车对比老款变化并不大，<strong>依旧提供有6种明亮活泼的配色</strong>，全身也多使用大量的镀铬装饰件，营造了复古但时尚的视觉效果。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/46c39e880fbc407abf0dbde086c006d3.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="721" src="https://img1.mydrivers.com/img/20220420/s_46c39e880fbc407abf0dbde086c006d3.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>该车前大灯为LED光源，亮度有所提升，照射范围也更广，因此增加了夜间行车安全性。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/ac34ef2d38394df4b1089ec7942209db.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="523" src="https://img1.mydrivers.com/img/20220420/s_ac34ef2d38394df4b1089ec7942209db.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>仪表盘整体造型也没有发生太大改变，依旧为指针式，相当具有怀旧感，<strong>不过新增了挡位显示以及油表功能</strong>，也因此提高了整车的使用便利性。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/d66d409344464d7cb1328771fe53cf71.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="478" src="https://img1.mydrivers.com/img/20220420/s_d66d409344464d7cb1328771fe53cf71.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>新车优化了前脚蹬，增加了限位功能，设计更合理，结构因此更加牢固，此外，<strong>前后坐垫也进行了加宽加厚处理，并保留了后座快拆功能</strong>，可有效提高乘坐舒适性。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/60ddce84a41344eaad754a8bb27be1e8.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="475" src="https://img1.mydrivers.com/img/20220420/s_60ddce84a41344eaad754a8bb27be1e8.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>如果你有改装需求，还可选装原厂风挡、前货架、边包、后靠背等，而为了提升骑行感受，宗申重新调校了该车的动力总成，其配备的107cc单缸风冷发动机<strong>最大输出功率为5千瓦，峰会扭矩6.9牛米，设计最高车速可达85公里/时</strong>。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/6f83c67281324e2da6f72f64edebbcb4.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="813" src="https://img1.mydrivers.com/img/20220420/s_6f83c67281324e2da6f72f64edebbcb4.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>如果你有短途代步的需求，那么这款弯梁、755毫米座高、97千克整备质量，关键是价格便宜的摩托车会是一个非常好的选择，毕竟才不到7000元，相比于那些动辄数万元的高档摩托而言，其用拥有较低的购入门槛。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220420/0b5152f752b248e1a709864d8f674ba1.jpg" target="_blank"><img alt="还没一部iPhone 13 Pro贵 新款国产摩托宗申YAMI上市：仅售6980元" h="707" src="https://img1.mydrivers.com/img/20220420/s_0b5152f752b248e1a709864d8f674ba1.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+           
+           
+<p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p> 
+<div style="overflow: hidden;font-size:14px;">
+           <p class="zhuanzai"><strong>如需转载请务必注明出处：快科技</strong></p>  
+          <p class="url"><span style="color:#666">责任编辑：落木</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+        </div>
+        <div class="page_article" id="bnext">
+ 
+</div>
+<p class="bqian">话题标签：<a href="https://news.mydrivers.com/tag/zongshen.htm">宗申</a><a href="https://news.mydrivers.com/tag/motuoche.htm">摩托车</a><a href="https://news.mydrivers.com/tag/guochanche.htm">国产车</a>  </p>
+        
+</div>
+            
