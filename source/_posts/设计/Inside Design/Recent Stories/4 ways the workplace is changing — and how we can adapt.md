@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/future-of-work-2022/'
 author: Inside Design
 comments: false
-date: 2022-04-20 12:17:13
+date: 2022-04-20 13:30:19
 thumbnail: 'https://www.invisionapp.com/inside-design/future-of-work-2022/'
 ---
 
