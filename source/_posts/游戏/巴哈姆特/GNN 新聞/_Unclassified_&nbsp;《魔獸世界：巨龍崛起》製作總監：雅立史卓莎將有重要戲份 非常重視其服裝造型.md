@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?v=1650460541049'
 author: 巴哈姆特
 comments: false
-date: 2022-04-20 13:29:09
+date: 2022-04-20 14:09:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?v=1650460541049'
 ---
 
@@ -18,13 +18,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.
 <div>
 <div>
 <div>
-　　Blizzard 今日公開旗下大型線上角色扮演遊戲《魔獸世界》最新資料片《魔獸世界：巨龍崛起》，首度推出《魔獸世界》歷史上第一個種族兼職業「半龍人喚能師」。遊戲製作總監 Pat Dawson 透露，紅龍女王雅立史卓莎將是新資料片重要角色，對於她的造型、研發團隊也非常重視。</div>
+　　Blizzard 今日公開旗下大型線上角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》最新資料片《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7" target="_blank">魔獸世界：巨龍崛起</a>》，首度推出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》歷史上第一個種族兼職業「半龍人喚能師」。遊戲製作總監 Pat Dawson 透露，<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B4%85%E9%BE%8D" target="_blank">紅龍</a>女王雅立史卓莎將是新資料片重要角色、她在整個資料片扮演很重要角色，對於她的造型、研發團隊也非常重視。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?v=1650460541049" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?v=1650460541049" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -36,14 +36,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/99/c6d5324292f5234a711eea32bb1fywr5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 55.81%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG?v=1650460948285" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG 2x" style="max-width: unset;" title="Pat Dawson" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 55.81%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG?v=1650460948285" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/d5e6187fb4fbc9ff1545995b0f1fzhh5.JPG 2x" style="max-width: unset;" title="Pat Dawson" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Pat Dawson</figure>
 </li>
 </ul>
 </div>
 <div>
-<span class="text-hightlight">問：這次主題選擇「龍」的原因為何？跟上個版本的故事有接續還是是一個全新的故事？ </span></div>
+<span class="text-hightlight">問：這次主題選擇「龍」的原因為何？跟上個版本的故事有接續還是是一個全新的故事？ </span></div>
 <div>
  </div>
 <div>
@@ -53,13 +53,13 @@ Pat Dawson</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG?v=1650460988269" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG?v=1650460988269" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/94d45a1e560eaf752db5e24f9c1fywx5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：團隊想賦予黑龍怒西昂在資料片怎樣的劇情定位？ </span></div>
+<span class="text-hightlight">問：團隊想賦予黑龍怒西昂在資料片怎樣的劇情定位？ </span></div>
 <div>
  </div>
 <div>
@@ -67,31 +67,31 @@ Pat Dawson</figure>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：新資料片主宣傳圖是以雅立史卓莎為主要象徵，可以跟先透露龍后雅立史卓莎對新資料片中故事而言，有什麼樣的意義，或是她可能會有怎麼樣的表現？ </span></div>
+<span class="text-hightlight">問：新資料片主宣傳圖是以雅立史卓莎為主要象徵，可以跟先透露龍后雅立史卓莎對新資料片中故事而言，有什麼樣的意義，或是她可能會有怎麼樣的表現？ </span></div>
 <div>
  </div>
 <div>
-<span style="color:blue;">Pat Dawson：</span>雅立史卓莎在新資料片將有很重要的戲份。當玩家第一次來到巨龍群島、登上海岸時，首先就會面對紅龍與雅立史卓莎，玩家會從她得知被呼喚來巨龍群島、為何巨龍群島呼喚龍這件事，她在整個資料片扮演很重要角色，雖然現在不能透露太多，但到劇情最後，她都非常重要。</div>
+<span style="color:blue;">Pat Dawson：</span>雅立史卓莎在新資料片將有很重要的戲份。當玩家第一次來到巨龍群島、登上海岸時，首先就會面對<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B4%85%E9%BE%8D" target="_blank">紅龍</a>與雅立史卓莎，玩家會從她得知被呼喚來巨龍群島、為何巨龍群島呼喚龍這件事，她在整個資料片扮演很重要角色，雖然現在不能透露太多，但到劇情最後，她都非常重要。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 61.76%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG?v=1650460647486" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 61.76%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG?v=1650460647486" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/45e7e0061c12da3e043b31d4701fyy15.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：雅立史卓莎的服裝造型變的比過去保守多了，這是有什麼考量嗎？ </span></div>
+<span class="text-hightlight">問：雅立史卓莎的服裝造型變的比過去保守多了，這是有什麼考量嗎？ </span></div>
 <div>
  </div>
 <div>
-<span style="color:blue;">Pat Dawson：</span>這個議題很重要，我們內部團隊非常重視這點，其實對於雅立史卓莎這個角色會選擇怎麼服飾，內部也有不同想法意見。我們是是傾聽所有聲音，包括團隊內的或是玩家的聲音、集合大家的想法，希望打造出大家喜歡並想要與他互動的角色，所以目前這個造型，就是我們傾聽各方意見後， 希望給大家喜歡的紅龍后造型，那未來還會持續聽玩家的聲音。</div>
+<span style="color:blue;">Pat Dawson：</span>這個議題很重要，我們內部團隊非常重視這點，其實對於雅立史卓莎這個角色會選擇怎麼服飾，內部也有不同想法意見。我們是是傾聽所有聲音，包括團隊內的或是玩家的聲音、集合大家的想法，希望打造出大家喜歡並想要與他互動的角色，所以目前這個造型，就是我們傾聽各方意見後， 希望給大家喜歡的<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B4%85%E9%BE%8D" target="_blank">紅龍</a>后造型，那未來還會持續聽玩家的聲音。</div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：玩家曾經在《燃燒的遠征》打過卡雷苟斯，也曾在面對死亡之翼時出現過，那卡雷苟斯在此次新資料片中將會如何展開他的故事呢？ </span></div>
+<span class="text-hightlight">問：玩家曾經在《燃燒的遠征》打過卡雷苟斯，也曾在面對死亡之翼時出現過，那卡雷苟斯在此次新資料片中將會如何展開他的故事呢？ </span></div>
 <div>
  </div>
 <div>
@@ -101,13 +101,13 @@ Pat Dawson</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG?v=1650460666959" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG?v=1650460666959" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/8785e2c83df2ba8bee529f91dd1fywm5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：為什麼《魔獸世界》到這個資料片才有「鴨子」？ </span></div>
+<span class="text-hightlight">問：為什麼《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》到這個資料片才有「鴨子」？ </span></div>
 <div>
  </div>
 <div>
@@ -115,11 +115,11 @@ Pat Dawson</figure>
 <div>
  </div>
 <div>
-　　其實在四、五年前《魔獸世界》的慈善晚宴上，有位與會者跟我們反應說為什麼《魔獸世界》沒有鴨子，我當時才注意到遊戲中沒有鴨子，之後研發團隊有把這件事放在心上，我們覺得鴨子很可愛、是有趣的生物，只是以前剛好沒有，現在進入新的資料片，有新的地圖，或許可以就是讓鴨子出現的好時機。</div>
+　　其實在四、五年前《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》的慈善晚宴上，有位與會者跟我們反應說為什麼《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》沒有鴨子，我當時才注意到遊戲中沒有鴨子，之後研發團隊有把這件事放在心上，我們覺得鴨子很可愛、是有趣的生物，只是以前剛好沒有，現在進入新的資料片，有新的地圖，或許可以就是讓鴨子出現的好時機。</div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：「飛龍騎術」會是進入新地區就可使用？還是如同過去玩家要先解任務才能解放翱翔內容？ </span></div>
+<span class="text-hightlight">問：「飛龍騎術」會是進入新地區就可使用？還是如同過去玩家要先解任務才能解放翱翔內容？ </span></div>
 <div>
  </div>
 <div>
@@ -133,13 +133,13 @@ Pat Dawson</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG?v=1650461070982" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG?v=1650461070982" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/e30b408314f05b6c49d19c41f01fzhk5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：飛龍騎術可以應用於過往的飛行坐騎嗎？還是只能用於這次的自訂飛龍？如果只能用於自訂飛龍，那過往的飛行坐騎在 10.0 是否就沒有太大意義了？ </span></div>
+<span class="text-hightlight">問：飛龍騎術可以應用於過往的飛行坐騎嗎？還是只能用於這次的自訂飛龍？如果只能用於自訂飛龍，那過往的飛行坐騎在 10.0 是否就沒有太大意義了？ </span></div>
 <div>
  </div>
 <div>
@@ -155,17 +155,17 @@ Pat Dawson</figure>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：這次新天賦樹和早期魔獸的天賦樹有哪些根本上的差異？過去魔獸世界因為天賦樹容易僵化玩家配點而捨棄，那麼新的天賦樹會如何避免這種狀況？ </span></div>
+<span class="text-hightlight">問：這次新天賦樹和早期魔獸的天賦樹有哪些根本上的差異？過去<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>因為天賦樹容易僵化玩家配點而捨棄，那麼新的天賦樹會如何避免這種狀況？ </span></div>
 <div>
  </div>
 <div>
-<span style="color:blue;">Pat Dawson：</span>新天賦樹與過往有根本上的不同。假設你是火法，你會有火法專精天賦樹，透過天賦樹來配點，除此之外有一般法師的天賦樹，在這裡除了像是選強化攻擊力配點外，還可選擇控場等。玩家將可根據喜好來調整天賦，讓玩家打造出自己想像中在《魔獸世界》自己想要的法師。</div>
+<span style="color:blue;">Pat Dawson：</span>新天賦樹與過往有根本上的不同。假設你是火法，你會有火法專精天賦樹，透過天賦樹來配點，除此之外有一般法師的天賦樹，在這裡除了像是選強化攻擊力配點外，還可選擇控場等。玩家將可根據喜好來調整天賦，讓玩家打造出自己想像中在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》自己想要的法師。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG?v=1650461058054" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG?v=1650461058054" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/bd3887bd5ef77a2ab5cfef13821fzhi5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -181,7 +181,7 @@ Pat Dawson</figure>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：半龍人喚能師可否以人型態的外型來戰鬥？若可以的話，和龍型態相比是不是有所不同？ </span></div>
+<span class="text-hightlight">問：半龍人喚能師可否以人型態的外型來戰鬥？若可以的話，和龍型態相比是不是有所不同？ </span></div>
 <div>
  </div>
 <div>
@@ -195,7 +195,7 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：訂單系統可以使用在採集系生產技能上嗎？如果不行的理由是？ </span></div>
+<span class="text-hightlight">問：訂單系統可以使用在採集系生產技能上嗎？如果不行的理由是？ </span></div>
 <div>
  </div>
 <div>
@@ -209,7 +209,7 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG?v=1650461041464" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG?v=1650461041464" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/f9e5bc0fdfbd90024ac03d22461fzhj5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -225,7 +225,7 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：提到使用者介面更新，團隊有沒有計畫在 10.0 加入內建傷害統計？ </span></div>
+<span class="text-hightlight">問：提到使用者介面更新，團隊有沒有計畫在 10.0 加入內建傷害統計？ </span></div>
 <div>
  </div>
 <div>
@@ -233,11 +233,11 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
  </div>
 <div>
-　　我們希望透過外觀配置，讓人玩起來有更現代化的感覺。如果玩家不想要使用擴充功能、調整使用介面，也可以照自己想要方式來玩魔獸世界。</div>
+　　我們希望透過外觀配置，讓人玩起來有更現代化的感覺。如果玩家不想要使用擴充功能、調整使用介面，也可以照自己想要方式來玩<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>。</div>
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：新版使用者介面是否有考量到 21：9 超寬螢幕、或者是 4k 解析度的使用者環境？ </span></div>
+<span class="text-hightlight">問：新版使用者介面是否有考量到 21：9 超寬螢幕、或者是 4k 解析度的使用者環境？ </span></div>
 <div>
  </div>
 <div>
@@ -245,11 +245,11 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：團隊是否會考慮舉辦與「經典版」的連動活動？ </span></div>
+<span class="text-hightlight">問：團隊是否會考慮舉辦與「經典版」的連動活動？ </span></div>
 <div>
  </div>
 <div>
-<span style="color:blue;">Pat Dawson：</span>講到連動活動，現在《魔獸世界：巨龍崛起》玩家跟經典版玩家是兩個不同的玩家社群，故事上呈現方式也不同。</div>
+<span style="color:blue;">Pat Dawson：</span>講到連動活動，現在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7" target="_blank">魔獸世界：巨龍崛起</a>》玩家跟經典版玩家是兩個不同的玩家社群，故事上呈現方式也不同。</div>
 <div>
  </div>
 <div>
@@ -257,19 +257,19 @@ Pat Dawson：半龍人喚能師機制跟現在狼人類似，大部分戰鬥都�
 <div>
  </div>
 <div>
-<span class="text-hightlight">問：團隊是否會擔心因為「經典版」而減少《魔獸世界》10.0版本的玩家？ </span></div>
+<span class="text-hightlight">問：團隊是否會擔心因為「經典版」而減少《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》10.0版本的玩家？ </span></div>
 <div>
  </div>
 <div>
-<span style="color:blue;">Pat Dawson：</span>如剛剛所說，經典版跟目前玩家社群不太一樣，我們會打造出兩個版本不同的目的，就是希望玩家依照自己喜好，其中一個是快速、現代的《魔獸世界》體驗，還是要花相當時間、慢慢累積、慢慢互動的經典版。</div>
+<span style="color:blue;">Pat Dawson：</span>如剛剛所說，經典版跟目前玩家社群不太一樣，我們會打造出兩個版本不同的目的，就是希望玩家依照自己喜好，其中一個是快速、現代的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》體驗，還是要花相當時間、慢慢累積、慢慢互動的經典版。</div>
 <div>
  </div>
 <div>
-　　好處就是，其實玩家不需要去選擇，只要是玩家有《魔獸世界》會員資格，就可以依照喜好、想要去決定，目前不管是經典版或是現行版本玩家社群都蓬勃發展，所以不會擔心兩邊互相影響。</div>
+　　好處就是，其實玩家不需要去選擇，只要是玩家有《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C" target="_blank">魔獸世界</a>》會員資格，就可以依照喜好、想要去決定玩現有版本或是經典版，目前不管是經典版或是現行版本玩家社群都蓬勃發展，所以不會擔心兩邊互相影響。</div>
 <div>
  </div>
 <div>
-　　《魔獸世界：巨龍崛起》尚未公開遊戲上市時程。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%B7%A8%E9%BE%8D%E5%B4%9B%E8%B5%B7" target="_blank">魔獸世界：巨龍崛起</a>》尚未公開遊戲上市時程。</div>
 </div>
 <div>
  </div>
