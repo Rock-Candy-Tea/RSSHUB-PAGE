@@ -13,7 +13,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/04/4lx1Ej7jE4KDnTyJCfzJ.png'
 ---
 
 <div>   
-<blockquote><p>编辑导语：SaaS厂商的战略出现偏差，往往会在成长的道路上迷失方向。SaaS就如同一个陷阱，稍有不慎就会跳下去。那本文作者就详细介绍了逃出SaaS的战略陷阱，帮助大家少走弯路，推荐做SaaS的同学阅读哦。</p></blockquote>
+<blockquote><p>编辑导语：SaaS厂商的战略出现偏差，往往会在成长的道路上迷失方向。SaaS战略隐藏着许多陷阱，稍有不慎就会跳下去。那本文作者就详细介绍了逃出SaaS的战略陷阱，帮助大家少走弯路，推荐做SaaS的同学阅读哦。</p></blockquote>
 <p><img data-action="zoom" class="size-full wp-image-790953 aligncenter" src="https://image.yunyingpai.com/wp/2022/04/4lx1Ej7jE4KDnTyJCfzJ.png" alt referrerpolicy="no-referrer"></p>
 <h2 id="toc-1">一、SaaS战略的陷阱</h2>
 <p>我们常说，战略决定企业成败。</p>

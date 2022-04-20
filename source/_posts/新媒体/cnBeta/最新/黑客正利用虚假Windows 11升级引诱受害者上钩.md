@@ -1,0 +1,19 @@
+
+---
+title: '黑客正利用虚假Windows 11升级引诱受害者上钩'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0420/2c8649957ab47da.jpg'
+author: cnBeta
+comments: false
+date: Wed, 20 Apr 2022 06:47:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0420/2c8649957ab47da.jpg'
+---
+
+<div>   
+<strong>Bleeping Computer 报道称，已有黑客在利用伪造的 Windows 11 升级安装包，来引诱毫无戒心的受害者上钩。</strong>为了将戏演得更真一些，当前正在活跃的恶意软件活动甚至会利用中毒后的搜索结果，来推送一个模仿微软 Windows 11 促销页面的网站。若不幸入套，或被恶意软件窃取浏览器数据和加密货币钱包中的资产。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0420/2c8649957ab47da.jpg" alt="1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">假冒 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 11 升级网页</p><p>在推广 Windows 11 操作系统的同时，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>也为新平台制定了更加严格的安全标准。</p><p>如果你用过兼容性检查工具，就会知道最容易被拦在门外的因素是缺乏 TPM 2.0 可信平台模块，几乎将四年前的老设备都拦在了门外。</p><p>然而并不是所有人都知晓这一硬性要求，且黑客也很快盯上了这部分想要升级至 Windows 11 的普通用户。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/131a46bb2c208ab.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/131a46bb2c208ab.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">攻击部署流程（图自：CloudSEK）</p><p>截止 <a href="https://www.bleepingcomputer.com/news/security/unofficial-windows-11-upgrade-installs-info-stealing-malware/" target="_self">Bleeping Computer</a> 发稿时，上文提到的假冒 Windows 11 升级网站仍未被有关部门拿下，可知其精心模仿了微软官方徽标、网站图标、以及诱人的“立即下载”按钮。</p><p>粗心的访问者可以通过恶意链接获得一个 ISO 文件，但该文件格式只是为可执行的恶意文件提供了庇护 —— 攻击者相当奸诈地利用了 Inno Setup Windows Windows 安装器。</p><p><a href="https://cloudsek.com/" target="_self">CloudSEK</a> 安全研究人员将之命名为 Inno Stealer，可知这款新型恶意软件与目前流通的其它信息窃取程序没有任何代码上的相似之处，且 CloudSEC 未找到它有被上传到 Virus Total 扫描平台的证据。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/bbaa714e373be20.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/bbaa714e373be20.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">Inno Stealer 感染链</p><p>基于 Delphi 的加载程序文件，是 ISO 中包含的“Windows 11 setup”可执行文件。它会在启动时转储一个名为 is-PN131.tmp 的临时文件、并创建另一个 .TMP 文件。</p><p>加载程序会在其中写入 3078KB 的数据，然后利用 CreateProcess Windows API 生成一个新的进程，实现持久驻留并植入四个恶意文件。</p><p>具体说来是，攻击者选择了通过在 Startup 目录中添加一个 .LNK（快捷方式）文件，并将 icacls.exe 设置隐藏属性以实现长期隐蔽。</p><p><img src="https://static.cnbetacdn.com/article/2022/0420/b18b9b231461474.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">被 Inno Stealer 盯上的浏览器列表</p><p>四个被删除的文件中，有两个是 Windows 命令脚本 —— 分别用于禁用注册表安全防护、添加 Defender 排除项、卸载安全产品、以及移除影子卷。</p><p>此外研究人员指出，该恶意软件还会铲掉 E<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://msi-pc.jd.com/" target="_blank">MSI</a>soft 和 ESET 的安全解决方案 —— 推测是因为这两款反病毒软件的检出能力更强。</p><p>第三个文件是一个以最高系统权限运行的命令执行工具，第四个文件则是运行 dfl.cmd 命令行所需的 VBA 脚本。</p><p><img src="https://static.cnbetacdn.com/article/2022/0420/3f504da651509fb.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">被 Inno Stealer 盯上的加密货币钱包</p><p>在感染的第二阶段，恶意软件会通过一个 .SCR 屏保文件，将自身放入受感染系统的 C:\Users\\AppData\Roaming\Windows11InstallationAssistant 路径。</p><p>它会解包出信息窃取器，并生成一个名为“Windows11InstallationAssistant.scr”的新克隆进程来执行相关代理。</p><p>不过这款恶意软件的功能，倒是没有玩出其它新的花样 —— 包括收集 Web 浏览器的 cookie 和已保存的凭据、加密货币钱包、以及文件系统中的数据。</p><p><img src="https://static.cnbetacdn.com/article/2022/0420/6d6f61046cc0036.jpg" alt="6.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">恶意软件与命令和控制服务器的通讯记录截图</p><p>最后可知 Inno Stealer 恶意软件的攻击目标相当广泛，其中包括了 Chrome、Edge、Brave、Opera、Vivaldi、360 Browser 和 Comodo 等浏览器。</p><p>所有被盗数据会被通过 PowerShell 命令复制到受感染设备上的临时目录并加密处理，然后发送到被攻击者所控制的 C2 服务器上（windows-server031.com）。</p><p>更鸡贼的是，攻击者还会只在夜间执行额外的操作，以利用受害者不在计算机身旁的时间段来巩固自身的长期隐蔽驻留。</p><p>综上所述，如果你的设备被微软官方兼容性检查工具认定不符合 Windows 11 操作系统升级要求，还请不要盲目绕过限制，否则会带来一系列缺陷和严重的安全风险。</p>   
+</div>
+            
