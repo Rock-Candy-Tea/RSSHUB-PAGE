@@ -1,0 +1,19 @@
+
+---
+title: 'Nitecore推出自带USB-C充电口的UFZ100索尼相机兼容电池'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0420/ea6ae70d08ca050.png'
+author: cnBeta
+comments: false
+date: Wed, 20 Apr 2022 00:36:20 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0420/ea6ae70d08ca050.png'
+---
+
+<div>   
+对于重度摄影用户来说，随机附带的一块原厂相机电池显然是不够用的。尽管想省钱的摄影师可以选购第三方兼容电池，但必须依赖笨重占地的充电底座一事，还是让不少人感到头疼。<strong>好消息是，Nitecore 刚刚介绍了一款自带 USB-C 充电口的 UFZ100 系列相机电池。</strong><br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0420/ea6ae70d08ca050.png" alt="0-1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：Nitecore <a href="https://photo.nitecore.com/product/ufz100" target="_self">官网</a>）</p><p>虽然尚未正式开售，但至少 Nitecore 有意适配索尼 A73 / A7R3 / A7R4 / A7S3、A9（ILCE-9）/ A9 II、A6600、A7C、A1、FX3、以及 A7 IV 等机型。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/2ceff9ec3326381.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/2ceff9ec3326381.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p>显然，自带 USB-C 口的设计，可以让你轻松摆脱索尼原厂充电底座，通过第三方电源适配器 / 充电宝来随时补充能量。</p><p><img src="https://static.cnbetacdn.com/article/2022/0420/e3c962595ce9695.png" alt="0-2.png" referrerpolicy="no-referrer"></p><p>作为一款可重复充电的锂离子电池，UFZ100 具有 7.2V 的标称电压，容量为 2250 mAh（16.2 Wh）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/7774c4c34587327.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/7774c4c34587327.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>虽然电池容量较原厂型号要略低一些（NP-FZ100 为 2280 mAh），但仅凭可避免随身携带单独的充电底座这一项优势，它就已经赢在了起跑线上。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/56472de826ebb4b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/56472de826ebb4b.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>充电时间方面，如果搭配 99.99 美元的 BC-QZ1 充电器，原厂需要大约 2.5 小时充满，而 Nitecore UFZ100 则需 4 小时左右。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/0ab6938c009b7fa.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/0ab6938c009b7fa.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>即便充电速度不占优势，但比之给相机外挂充电宝，内置 USB-C 充电口的 Nitecore UFZ100 还是更加便利。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/df76ed62a2142f6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/df76ed62a2142f6.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>此外 Nitecore UFZ100 自带了三色电量指示灯，充电时显示红色 / 满电时显示绿色。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/6072344978de89e.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/6072344978de89e.jpg" alt="5.jpg" referrerpolicy="no-referrer"></a></p><p>在闲置状态下，你还可以通过按下电量检测键，以预估剩余电量（>50% 绿色、<50 蓝色、<10% 红色）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/b0b226b9116adbd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/b0b226b9116adbd.jpg" alt="6.jpg" referrerpolicy="no-referrer"></a></p><p>遗憾的是，Nitecore 尚未披露 UFZ100 的确切售价和发布日期。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/5cbefc9434dc7a5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/5cbefc9434dc7a5.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>至于 USB-C 锂离子电池的可靠性，仍有待时间去检验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0420/7cf0427ad0c66e4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0420/7cf0427ad0c66e4.jpg" alt="9.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

@@ -5,21 +5,21 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=6680'
+headimg: 'https://picsum.photos/400/300?random=9398'
 author: 每日安全
 comments: false
-date: 2022-04-19 15:10:43
-thumbnail: 'https://picsum.photos/400/300?random=6680'
+date: 2022-04-20 00:43:52
+thumbnail: 'https://picsum.photos/400/300?random=9398'
 ---
 
 <div>   
 <q>专注工控领域的 Pwn2Own Miami 比赛的日程公布了</q>
- –
+–
 <cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
 Jett
 </a>
-<span class="text-muted"><small>• 10 hours ago</small></span>
+<span class="text-muted"><small>• 20 hours ago</small></span>
 </cite>
   
 </div>
