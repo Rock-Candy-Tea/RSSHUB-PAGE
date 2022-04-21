@@ -1,0 +1,19 @@
+
+---
+title: 'AirYacht：一个将飞艇和游艇合二为一的交通工具'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/04/3d39bf7fedae3d8.jpg'
+author: cnBeta
+comments: false
+date: Thu, 21 Apr 2022 02:46:01 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/04/3d39bf7fedae3d8.jpg'
+---
+
+<div>   
+<strong>乘坐游艇在世界各大洋上航行是非常美妙的事情，但如果你想同时在空中和水上巡航呢？--这就是AirYacht的设计初衷，因为它结合了飞艇和游艇。</strong>来自瑞士的AirYacht公司正在开发这款豪华飞机/水上飞机，该公司由工程师Guillaume Hoddé和Matthieu Ozanne创立。法国游艇设计师Franck Darnet负责了这款产品的外观和布局。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/3d39bf7fedae3d8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/3d39bf7fedae3d8.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">简单地说，AirYacht由两部分组成：一个充满氦气的飞艇和一个流线型的游艇。</p><p style="text-align: left;">飞行时，游艇作为飞艇的吊舱，容纳船员和多达12名乘客。如果船主想在海上巡航，游艇则可以从飞艇上分离出来，然后用一组缆绳降低并在到达水面后从这些缆绳上释放。当需要将游艇绞回飞艇时，这个过程就会被反过来。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/b5831cd7452b9c1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/b5831cd7452b9c1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">很显然，在这一切发生时，飞机需要合理地靠近水面盘旋。据披露，它将利用一个“空气浮力”控制系统以防止当它从底部释放出所有的重量时突然升到空中。目前还没有关于飞艇如何在大家乘坐游艇起飞时保持其位置的信息。</p><p style="text-align: left;">另外，如果船主想在陆地上待上一段时间，游艇则可以再次被放下和释放，这次是通过一组从船体上展开的支柱坐在地面上。另一方面，对于较短的地面旅行，一个类似电梯的12人电梯可以从游艇的底部通过电缆降低，而后者仍然连接在飞艇上。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/0a4946cde4d32c3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/0a4946cde4d32c3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">根据巡航速度和乘客/船员的数量等因素，AirYacht打算让船能实现长达一周的自给自足。</p><p style="text-align: left;">就基本规格而言，该飞艇将有200米长，另外它将将利用混合燃料/电力驱动系统，以高达50节（93公里/小时）的速度行驶。Ozanne告诉媒体，由于跟正在开发该飞机的合作公司签订了保密协议，所以目前可以分享的其他细节非常少。</p><p style="text-align: left;">三层楼的游艇组件规格为52米长、13米宽、11米高，其将包含五到六个舱室。除了12名乘客和3名飞行人员外，它还将能容纳12人的接待人员。它的一些其他计划中的功能包括前后甲板、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C1276%2C795" target="_blank">按摩</a>浴缸、桑拿和游泳池、一个直升机停机坪、一个可用于存放车辆如汽车、补给船或喷气滑雪板的车库。</p><p style="text-align: left;">目前还没有该游艇的性能规格释出。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/499446b58e406cb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/499446b58e406cb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据报道，AirYacht自2017年以来一直在开发中，该公司计划公司的第一艘游艇在2026年准备就绪，然后每年将生产1至4艘。Ozanne表示，价格方面他们会跟潜在买家秘密讨论。有兴趣的人可以通过其网站联系该公司。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/2d4995abb250785.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/2d4995abb250785.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/88b2e2ea11ec5a7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/88b2e2ea11ec5a7.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/6d343039c5c8ab5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/6d343039c5c8ab5.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/04/47f07d8d231e1ec.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/47f07d8d231e1ec.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/04/6d045a014687adc.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/04/6d045a014687adc.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
