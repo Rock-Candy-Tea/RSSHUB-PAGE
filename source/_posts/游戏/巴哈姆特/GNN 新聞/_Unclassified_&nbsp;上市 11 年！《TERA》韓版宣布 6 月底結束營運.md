@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/45/33931f0c1ee749517d8948bd3e1fzy55.JPG?v=1650530159882'
 author: 巴哈姆特
 comments: false
-date: 2022-04-21 09:09:26
+date: 2022-04-21 10:10:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/45/33931f0c1ee749517d8948bd3e1fzy55.JPG?v=1650530159882'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/45/33931f0c1ee749517d8948bd3e1fzy55.
 <div>
 <div>
 <div>
-　　Bluehole Studio 宣布，旗下研發與營運的知名線上遊戲《TERA》將於 6 月 30 日在韓國結束營運。</div>
+　　Bluehole Studio 宣布，旗下研發與營運的知名線上遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=TERA" target="_blank">TERA</a>》將於 6 月 30 日在韓國結束營運。</div>
 <div>
  </div>
 <div>
@@ -30,11 +30,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/45/33931f0c1ee749517d8948bd3e1fzy55.
 <div>
  </div>
 <div>
-　　《TERA》於 2011 年 1 月 11 日在韓國正式開啟服務，如今相隔 11 年遊戲將劃下句點。《TERA》當初首度公開時引發韓國業界議論，而遊戲當初一流圖像水準的表現，展現非鎖定目標攻擊的戰鬥，還有吸引人的角色設計，很快就吸引了眾多玩家的關注。遊戲不僅推出了 PC Online 版本，後來還登上 PS4、Xbox One 平台，而《TERA》也曾經在臺灣推出過、引發許多玩家討論。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=TERA" target="_blank">TERA</a>》於 2011 年 1 月 11 日在韓國正式開啟服務，如今相隔 11 年遊戲將劃下句點。《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=TERA" target="_blank">TERA</a>》當初首度公開時引發韓國業界議論，而遊戲當初一流圖像水準的表現，展現非鎖定目標攻擊的戰鬥，還有吸引人的角色設計，很快就吸引了眾多玩家的關注。遊戲不僅推出了 PC Online 版本，後來還登上 PS4、Xbox One 平台，而《TERA》也曾經在臺灣推出過、引發許多玩家討論。</div>
 <div>
  </div>
 <div>
-　　Bluehole Studio 在<a href="https://playtera.co.kr/news/notice/914?page_from=1" target="_blank">《TERA》韓國官網</a>公告了遊戲即將結束營運的消息。官方指出，雖然這段時間有很多不足的地方，但為了給予玩家滿意的體驗，研發團隊一直持續努力，但遺憾的是，考量到目前狀況、未來應該無法提供給玩家令人滿意的更新內容，因此決定《TERA》PC 版將於 6 月底結束營運，這並非一個容易的決定。</div>
+　　Bluehole Studio 在<a href="https://playtera.co.kr/news/notice/914?page_from=1" target="_blank">《TERA》韓國官網</a>公告了遊戲即將結束營運的消息。官方指出，雖然這段時間有很多不足的地方，但為了給予玩家滿意的體驗，研發團隊一直持續努力，但遺憾的是，考量到目前狀況、未來應該無法提供給玩家令人滿意的更新內容，因此決定《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=TERA" target="_blank">TERA</a>》PC 版將於 6 月底結束營運，這並非一個容易的決定。</div>
 <div>
  </div>
 <div>
