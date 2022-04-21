@@ -1,0 +1,53 @@
+
+---
+title: '拆东补西 阿斯麦CEO透露有公司买洗衣机拆芯片用'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220421/1650529910_184432.png'
+author: 3DMGame
+comments: false
+date: Thu, 21 Apr 2022 08:33:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220421/1650529910_184432.png'
+---
+
+<div>   
+<p style="text-indent:2em;">
+如今随着全球疫情不见缓解，<a target="_blank" href="https://www.3dmgame.com/games/chip/">芯片</a>荒依然在继续，那么市场芯片短缺已经到了什么地步？一个有些夸张的场景正在现实中上演：由于芯片短缺，一家制造业公司已经开始大量买洗衣机，然后拆出里面的芯片来用了。
+</p>
+<p style="text-indent:2em;">
+这件事是由芯片行业内的光刻机巨头阿斯麦CEO彼得·温宁克（Peter Wennink）透露的。他在美东时间周三的公司财报会谈到了这一情况，称已经有一家大型工业集团开始购买洗衣机，并将其中的半导体拆出来，用于自己的芯片模块。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220421/1650529910_184432.png" alt="拆东补西 阿斯麦CEO透露有公司买洗衣机拆芯片用" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+温宁克没有指名具体是哪家公司，只是说这家公司仅在前一周才向他透露了自身的困境。这一情况显然生动地展现出当前某些行业的芯片短缺严重程度，并且暗示着在可预见的未来，这一“严重缺芯”的情况还将持续。
+</p>
+<p style="text-indent:2em;">
+此外，温宁克还透露，<strong>中国一家主要芯片制造商已经售罄了到2023年底的全部产能。</strong>
+</p>
+<p style="text-indent:2em;">
+“我们目前看到的需求来自行业的很多地方，”温宁克表示，他还提到物联网的广泛应用，“这是如此广泛。我们严重低估了需求的广度。我认为这种情况不会消失。”
+</p>
+<p style="text-indent:2em;">
+当下的芯片和零部件是如此短缺，乃至于即使是芯片设备制造商自己也难以获得足够的芯片和零部件来完成订单，这意味着全球半导体行业在短期内大幅提高产能正变得更加困难。
+</p>
+<p style="text-indent:2em;">
+美国的半导体蚀刻机台供应商科林研发公司首席执行官Tim Archer在周三的财报电话会议上表示：“在需求方面，整体环境仍然非常强劲，而与供应相关的持续延误可能会限制2022年晶圆设备的投入能实际落地多少。”
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220421/1650529926_613168.png" alt="拆东补西 阿斯麦CEO透露有公司买洗衣机拆芯片用" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+在上周四的财报电话会议上，台积电CEO魏哲家强调了其供应商所面临的挑战。他说，劳动力和芯片方面的限制导致交付时间延长，其产能在2022年全年仍然紧张。
+</p>
+<p style="text-indent:2em;">
+根据Susquehanna金融集团的研究，3月份半导体交货等待周期略有上升，达到26.6周的新高。
+</p>
+<p style="text-indent:2em;">
+由于半导体供应不足，丰田本周已经将今年的产量目标下调了约10万辆。特斯拉也在本周称，公司的生产仍受到芯片短缺和关键零部件涨价的影响，大众则警告称，缺芯的负面影响可能会持续下去。
+</p>          
+</div>
+            
