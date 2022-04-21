@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehandson-whiteboard/'
 author: Inside Design
 comments: false
-date: 2022-04-21 06:12:19
+date: 2022-04-21 07:10:01
 thumbnail: 'https://www.invisionapp.com/inside-design/freehandson-whiteboard/'
 ---
 
