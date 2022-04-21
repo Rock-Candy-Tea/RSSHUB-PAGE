@@ -39,6 +39,9 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
                   <div class="field__item">
         <a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a>
             </div>
+                  <div class="field__item">
+        <a href="https://www.monotype.com/taxonomy/term/721" hreflang="en">NFTs</a>
+            </div>
           </div>
 
       </div>

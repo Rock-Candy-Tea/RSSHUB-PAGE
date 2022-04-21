@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/23/256916ca9f63df964243a6e52e1fzbb5.PNG?v=1650447879211'
 author: 巴哈姆特
 comments: false
-date: 2022-04-20 15:10:23
+date: 2022-04-21 00:43:53
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/256916ca9f63df964243a6e52e1fzbb5.PNG?v=1650447879211'
 ---
 
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/256916ca9f63df964243a6e52e1fzbb5.
 <div>
  </div>
 <div>
-　　Nuguri 於 2017 年在 I Gaming Star 戰隊正式出，後來轉到了 DAMWON 戰隊，逐步成長為 LCK 主力選手，並且於 2020 年在世界大賽中以 3：1 擊敗 SN 奪得世界冠軍，他於 2021 年賽季轉戰 LPL 賽區的 FPX 戰隊，並於 11 月離開、重返韓國，並宣布在今年春季將先休息、不加入任何戰隊。</div>
+　　Nuguri 於 2017 年在 I Gaming Star 戰隊正式出道，後來轉到了 DAMWON 戰隊，逐步成長為 LCK 主力選手，並且於 2020 年在世界大賽中以 3：1 擊敗 SN 奪得世界冠軍，他於 2021 年賽季轉戰 LPL 賽區的 FPX 戰隊，並於 11 月離開、重返韓國，並宣布在今年春季將先休息、不加入任何戰隊。</div>
 <div>
  </div>
 <div>
