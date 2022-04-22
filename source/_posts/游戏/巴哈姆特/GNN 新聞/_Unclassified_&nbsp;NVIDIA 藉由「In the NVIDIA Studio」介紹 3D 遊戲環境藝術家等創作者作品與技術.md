@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?v=1650631373643'
 author: 巴哈姆特
 comments: false
-date: 2022-04-22 13:28:56
+date: 2022-04-22 14:09:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?v=1650631373643'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 53.36%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?v=1650631373643" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG 2x" style="max-width: unset;" title="In the NVIDIA Studio_Bird House" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 53.36%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?v=1650631373643" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/0af23c070926998d7900c535591g0sq5.PNG 2x" style="max-width: unset;" title="In the NVIDIA Studio_Bird House" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 In the NVIDIA Studio　Bird House</figure>
 </li>
@@ -45,7 +45,7 @@ Habezai-Fekri 的 3D 美夢</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 37.47%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG?v=1650631434328" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG 2x" style="max-width: unset;" title="在《Old Forgotten Library》及《Shiba Statue》作品中，看見 Habezai-Fekri 運用鮮豔色彩的手法。" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 37.47%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG?v=1650631434328" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/13fb6c4a6fad4d9256d3d57ebc1g0so5.PNG 2x" style="max-width: unset;" title="在《Old Forgotten Library》及《Shiba Statue》作品中，看見 Habezai-Fekri 運用鮮豔色彩的手法。" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 在《Old Forgotten Library》及《Shiba Statue》作品中，看見 Habezai-Fekri 運用鮮豔色彩的手法。</figure>
 </li>
@@ -62,7 +62,7 @@ Habezai-Fekri 的 3D 美夢</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 41.16%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG?v=1650631505746" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG 2x" style="max-width: unset;" title="為《Bird House》製作道具。" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 41.16%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG?v=1650631505746" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/60ad7fb2cdfa6eb23d29e421061g0sn5.PNG 2x" style="max-width: unset;" title="為《Bird House》製作道具。" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 為《Bird House》製作道具。</figure>
 </li>
@@ -105,7 +105,7 @@ Habezai-Fekri 的 3D 美夢</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 41.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG?v=1650631655319" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 41.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG?v=1650631655319" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/318411275542dfd854e9889bdf1g0sr5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

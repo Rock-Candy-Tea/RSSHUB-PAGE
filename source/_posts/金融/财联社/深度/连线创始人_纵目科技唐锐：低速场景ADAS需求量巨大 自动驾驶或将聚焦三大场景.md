@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=7653'
+headimg: 'https://img.cls.cn/images/20220422/HNt4zifHpD.jpg'
 author: 财联社
 comments: false
 date: Fri, 22 Apr 2022 13:13:31 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7653'
+thumbnail: 'https://img.cls.cn/images/20220422/HNt4zifHpD.jpg'
 ---
 
 <div>   
@@ -21,6 +21,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7653'
 <p>纵目科技成立于2013年，是一家自动驾驶和高级驾驶辅助系统（ADAS）技术及产品供应商。近日，该公司完成超10亿元E轮融资，由东阳冠定领投。</p>
 <p>值得注意的是，纵目科技还是小米宣布造车后的首批投资企业之一。据悉，通过该次投资，纵目科技有望在小米智能场景应用领域展开多维度合作。</p>
 <p>天眼查信息显示，截至目前，纵目科技共获10轮融资，除上述投资方外，还包括：复星创富、科创投集团、高通创投、君联资本、联想控股等。此外，唐锐向《科创板日报》记者透露，公司正考虑今年内申报科创板IPO。</p>
+<p><img src="https://img.cls.cn/images/20220422/HNt4zifHpD.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <h1 id="-adas-">谈创业：瞄准环视ADAS起家</h1>
 <p>在创办纵目科技之前，唐锐从事了长达14年的硅谷汽车电子半导体研发管理工作。其中，包括：曾任掌微电子公司软件总监、CSR半导体（现为高通Qualcomm收购）全球资深研发总监。</p>
 <p>2013年初，汽车电子老兵唐锐意识到：“是时候创业了。”</p>
