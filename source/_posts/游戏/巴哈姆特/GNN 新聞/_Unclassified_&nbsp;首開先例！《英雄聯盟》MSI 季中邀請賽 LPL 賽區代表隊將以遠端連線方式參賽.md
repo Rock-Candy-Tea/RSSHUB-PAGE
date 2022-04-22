@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/17/2329c549c10ffcd4d3093736661g05p5.JPG?v=1650552415763'
 author: 巴哈姆特
 comments: false
-date: 2022-04-21 15:10:07
+date: 2022-04-22 00:44:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/2329c549c10ffcd4d3093736661g05p5.JPG?v=1650552415763'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/2329c549c10ffcd4d3093736661g05p5.
 <div>
 <div>
 <div>
-　　<a href="https://lolesports.com/article/mid-season-invitational-2022-update/bltd6b5a63691b4faf6" target="_blank">《英雄聯盟》Riot 電競全球負責人 Naz Aletaha 宣布</a>，受到 Covid-19 疫情影響，中國 LPL 賽區將無法前往韓國釜山現場參與《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》MSI季中邀請賽，而他們將讓 LPL 賽區代表隊在中國以遠端連線方式來參賽。</div>
+　　<a href="https://lolesports.com/article/mid-season-invitational-2022-update/bltd6b5a63691b4faf6" target="_blank">《英雄聯盟》Riot 電競全球負責人 Naz Aletaha 今日宣布</a>，受到 Covid-19 疫情影響，中國 LPL 賽區將無法前往韓國釜山現場參與《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》MSI季中邀請賽，而他們將讓 LPL 賽區代表隊在中國以遠端連線方式來參賽。</div>
 <div>
  </div>
 <div>
@@ -38,12 +38,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/2329c549c10ffcd4d3093736661g05p5.
 <div>
  </div>
 <div>
-　　他表示，在考慮包括安全、基礎設施、場地和競技公平性等諸多因素後，最終做出了這個決定。LPL 賽區擁有進行線上比賽所需的必要基礎設施，中國和韓國的延遲在可以接受的範圍之內。為了保證競技公平性，他們將會使用網路延遲工具將比賽期間所有隊伍的延遲盡量控制在 35ms 左右。 2020 MSI 期間，LPL 和 LCK 賽區曾經使用過此工具進行比賽。</div>
+　　他表示，在考慮包括安全、基礎設施、場地和競技公平性等諸多因素後，最終做出了這個決定。LPL 賽區擁有進行線上比賽所需的必要基礎設施，中國和韓國的延遲在可以接受的範圍之內。為了保證競技公平性，他們將會使用網路延遲工具將比賽期間<b>所有隊伍的延遲盡量控制在 35ms 左右</b>。 2020 MSI 期間，LPL 和 LCK 賽區曾經使用過此工具進行比賽。</div>
 <div>
  </div>
 <div>
 　　他指出，為了保證比賽公正性，所有參加 MSI 的隊伍均可以在這個延遲下進行練習和訓練賽。在整個賽事期間，他們也將會在韓國和中國同時提供裁判保障和比賽監測。</div>
 </div>
+<div>
+ </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="125" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

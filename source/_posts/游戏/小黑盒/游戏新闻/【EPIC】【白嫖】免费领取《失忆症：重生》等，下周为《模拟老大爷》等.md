@@ -1,0 +1,18 @@
+
+---
+title: '【EPIC】【白嫖】免费领取《失忆症：重生》等，下周为《模拟老大爷》等'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/999220_smgQQ.jpg'
+author: 小黑盒
+comments: false
+date: Fri, 22 Apr 2022 00:42:12 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/999220_smgQQ.jpg'
+---
+
+<div>   
+<blockquote><p>失忆症：重生<br></p></blockquote><p>游戏售价（steam售价）90元，限免领取截止到北京时间4月28日晚上11点。</p><p><img data-gameid="999220" src="https://cdn.max-c.com/heybox/game/header/999220_smgQQ.jpg" referrerpolicy="no-referrer"></p><p>领取地址：见评论区置顶</p><p><img class="lazy" data-height="779" src="https://imgheybox.max-c.com/web/2022/04/21/44ff08de745ccee0839034705ebb15f6/thumb.png" data-width="1085" referrerpolicy="no-referrer"></p><p>游戏简介：又一个堕入黑暗的后裔，来自标志性的《失忆症》系列游戏制作团队。穿越悲哀与绝望的痛彻心扉之旅，探索人类坚韧的极限。还提供了冒险模式，适合那些想要体验剧情和冒险，却不想要恐怖元素的玩家。</p><p>游戏截图：</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/97adf6a284baa6c395e46885369ef503/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/e2e27f96ca3f3e8f9f20564448f797dc/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><blockquote><p>河畔之乡（Riverbond）</p></blockquote><p>游戏售价（steam售价）78元，限免领取截止到北京时间4月28日晚上11点。<br></p><p><img data-gameid="459370" src="https://cdn.max-c.com/heybox/game/header/459370_87aDo.jpg" referrerpolicy="no-referrer"></p><p>领取地址：见评论区置顶</p><p><img class="lazy" data-height="770" src="https://imgheybox.max-c.com/web/2022/04/21/25e96ea9e0d3add21b312ac955ef2bb5/thumb.png" data-width="1101" referrerpolicy="no-referrer"></p><p>游戏简介：《河畔之乡》是一款带点疯狂趣味的休闲合作类冒险游戏。这个三位像素世界适合一至四个人一同探索。开启这趟英雄之旅，完成任务，与诸多可爱的敌人对战，把所有东西碾碎成颗粒立方体！您和您的朋友们将会是河畔之乡的传奇英雄吗？</p><p>游戏截图：</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/f4c669228c3f9fe7a2d40edc9fc3e8b6/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/cc802341182cb58bb48b5803d6a0e9c9/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><h4 class="img-desc"></h4><p><br></p><hr><blockquote><p>下周送出游戏《模拟老大爷》和《Paradigm》</p></blockquote><p>模拟老大爷</p><p>游戏售价（steam售价）50元，限免开始于北京时间4月28日晚上11点，截止到北京时间5月5日晚上11点整。</p><p><img data-gameid="979070" src="https://cdn.max-c.com/heybox/game/header/979070_GzxoB.jpg" referrerpolicy="no-referrer"></p><p>游戏简介：《模拟老大爷》是由《模拟山羊》的制作组所创作的老年人暴走沙盒游戏，无厘头就是这个游戏的哲学。身为一个刚刚被踢出养老院的老大爷(娘/妈)，你该如何在一个想要你快点死掉的世界中生存下去？是时候付诸实践让那些后浪们看看，为撒你大爷永远是你大爷！游戏支持中文。</p><p>游戏截图：</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/ae2821df60692b61432591abffa48df6/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/dd56744c2c2b1a820c7fe46924d4ad0b/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p>Paradigm</p><p>游戏售价（steam售价）48元，限免开始于北京时间4月28日晚上11点，截止到北京时间5月5日晚上11点整。<br></p><p><img data-gameid="600370" src="https://cdn.max-c.com/heybox/game/header/600370_IeK7A.jpg" referrerpolicy="no-referrer"></p><p>游戏简介：Paradigm是一款超现实的冒险游戏，背景设定在奇怪的后世界末日东欧国家克鲁斯。扮演英俊的变种人Paradigm。</p><p>游戏截图：</p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/c8f552d9cb8a8957bac52e6a486ede02/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="337" src="https://imgheybox.max-c.com/web/2022/04/21/a81ec2510290ea968fe4be043b8b5095/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p>都看到这里了，不妨给个关注评价充电转发<a href="heybox://open_subject" target="_blank">#Epic#</a><a href="heybox://open_subject" target="_blank">#白嫖#</a></p>  
+</div>
+            
