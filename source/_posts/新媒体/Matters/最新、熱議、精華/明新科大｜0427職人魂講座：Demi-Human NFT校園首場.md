@@ -1,0 +1,18 @@
+
+---
+title: '明新科大｜0427職人魂講座：Demi-Human NFT校園首場'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/d76b29be-a8c7-41e5-9e9f-b046aa039b58.jpeg'
+author: Matters
+comments: false
+date: Fri, 22 Apr 2022 10:14:04 GMT
+thumbnail: 'https://assets.matters.news/embed/d76b29be-a8c7-41e5-9e9f-b046aa039b58.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/d76b29be-a8c7-41e5-9e9f-b046aa039b58.jpeg" data-asset-id="d76b29be-a8c7-41e5-9e9f-b046aa039b58" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥繪製；NFT屬於當事人版權</span></figcaption></figure><h2>明新科大｜0427職人魂講座：Demi-Human NFT校園首場</h2><h2><strong>一、主旨：</strong></h2><p><strong><em>是的，元宇宙來了，當產業版圖重組時，你準備好重新定義自己的競爭力了嗎？</em></strong>特別是疫情衝擊的這兩年，很多產業逐步走向虛實整合，為了讓學生能有多一層的認識，如何避免不必要的風險，與其漠視阻止何不<em>open-minded</em>一起學習呢？因此，2022年石頭哥規劃《職人魂講座》系列，已經在3/29完成了第一場次的活動，緊接著就是4/27 由台灣最大的NFT社群Demi-Human的聯合創辦人，雙人聯手帶來他們精彩的故事。</p><h2><strong>二、第二場次職人魂講座：</strong></h2><p><strong>一、日期：4/27（三）</strong><br class="smart">演講時間：13:00~15:00<br class="smart">📣📣📣<a href="https://www.beclass.com/showregist.php?regist_id=MjY0ODk5YzYyMzFiMmJlNjA1NTU6U2hvd0Zvcm0=" rel="noopener noreferrer" target="_blank">點我，報名路徑</a></p><p><strong>二、地點安排：</strong><br class="smart"><strong><em>明新科技大學 管理學院 1F 哈佛講堂</em></strong><br class="smart">疫情相關管制需求，請遵循工業工程與管理系的規畫安排辦理。</p><p><strong>三、主講者安排：</strong></p><p>✅主講人：Demi- Max & Demi- Eric；台灣最大的NFT社群Demi-Human的聯合創辦人<br class="smart">✅題目初步規劃：認識Web 3.0與社群凝聚力<br class="smart">✅校園內文宣：<br class="smart">你知道狼人殺偶像陳零九、911建志…，都會在Discord的Demi-human討論區舉辦Demi-Voice嗎？你想知道如何加入Demi-DAO嗎？為何八千元的NFT盲盒，竟然能維持地板價三萬而不破嗎？你知道連續數期「天下雜誌」、「遠見雜誌」、「財經雜誌」都爭相報導，列為台灣最活躍的NFT社群嗎？</p><p><strong>千萬不要錯過～來聽聽石頭哥排隊半年，才邀請到的Demi-Human ，《首場校園演講》就獻給明新科技大學。</strong><br class="smart">附註：點選直接連結<a href="https://www.gvm.com.tw/article/87988" rel="noopener noreferrer" target="_blank">參考「遠見雜誌-前進的動力」報導連結</a>：<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/9b762d76-7a18-43b7-b98d-98ae8f20776f.png" data-asset-id="9b762d76-7a18-43b7-b98d-98ae8f20776f" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥設計；NFT為當事人版權</span></figcaption></figure><p><strong>四、主講者簡介：</strong></p><p><strong>●Demi-Eric： 任職 IT Manager / 一位被 IT業耽誤的藝術家 </strong><br class="smart">這位志氣比擬海賊王-魯夫的有為青年，只要提到漫畫雙眼無不閃亮著光芒，全身充滿漫畫魂征戰無數的校園漫畫比賽，信手捻來也都是漫畫經。<br class="smart">到底是哪一場戰役，讓他誤入歧途走上 IT的不歸路呢？聽聽這位具備CCNP證照，從網路工程師拔尖到管理20餘人的 IT manager，再次召換出心中那股魔獸般的雄心萬丈，凝聚了3萬6千人的Web 3.0超級社群。</p><p><strong>●Demi-Max：一個喪失藝術細胞，軀幹披覆著公益魂魄的怪人 - 鴉媽 </strong></p><p>人家把比特幣拿來買比薩，這有為青年相當有骨氣，沒去練九陽真經有點可惜，他竟然500元新台幣，就把比特幣給賣了...，哇，有膽識心臟強。石頭哥敬佩得為你唱一首林強的黑輪伯：只好目屎吞下腹肚底，借酒來麻西....。<br class="smart">好吧，2014、2021的墜落只為今日的重生，聽聽他再度擁抱區塊鏈後做了那些研究，如何將Demi-Human NFT 引領成為亞洲第一頂級藍籌NFT，看看他朝著Web 3.0的「不虛幻的第二人生」豪壯邁進。</p><p><strong>五、活動細節介紹：</strong></p><p>🍁活動細節請直接點選：<a href="https://www.mentorstone.com.tw/post/professional-forum-20220427" rel="noopener noreferrer" target="_blank">連結至石頭哥課輔志工《資源整合》網站🔗</a></p><h3><strong>🍁點選我直接開啟連結🔗：</strong><a href="https://p.ecpay.com.tw/0D5E673" rel="noopener noreferrer" target="_blank"><strong>我願意《一杯咖啡做公益》</strong></a><strong>，支持石頭哥！</strong></h3><figure class="image"><img src="https://assets.matters.news/embed/3a0eb64d-f317-43e0-967c-e0a28053e4b0.png" data-asset-id="3a0eb64d-f317-43e0-967c-e0a28053e4b0" referrerpolicy="no-referrer"><figcaption><span>圖片來源：石頭哥設計</span></figcaption></figure><p><br></p>  
+</div>
+            

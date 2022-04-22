@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?v=1650620261736'
 author: 巴哈姆特
 comments: false
-date: 2022-04-22 12:16:26
+date: 2022-04-22 13:28:56
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?v=1650620261736'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 52.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?v=1650620261736" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 52.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?v=1650620261736" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -63,7 +63,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
  </div>
 <div>
-　　更多天野喜孝 VR 美術館集資計畫可參閱以下網址：<a href="https://backme.tw/ref/4whZm/" target="_blank">https://backme.tw/ref/4whZm/</a></div>
+　　更多天野喜孝 VR 美術館集資計畫可參閱以下網址：<a href="https://yoshitakaamanovr.com/" target="_blank">https://yoshitakaamanovr.com/</a></div>
 <div>
  </div>
 <h2>
@@ -101,7 +101,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 50.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG?v=1650620322929" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG 2x" style="max-width: unset;" title="「天野喜孝 VR 美術館」由天野工作室授權、天野喜孝親自監修，圖為美術館大廳" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG?v=1650620322929" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/ebff593d5e62aca5e0a386525a1g0oq5.JPG 2x" style="max-width: unset;" title="「天野喜孝 VR 美術館」由天野工作室授權、天野喜孝親自監修，圖為美術館大廳" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「天野喜孝 VR 美術館」由天野工作室授權、天野喜孝親自監修，圖為美術館大廳</figure>
 </li>
@@ -120,27 +120,27 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 50.97%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG 2x" style="max-width: unset;" title="天野喜孝 VR 美術館預計將展出內容包括經典的「最終幻想館」，讓死忠粉絲一飽眼福" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.97%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/e07f096d036871537a157082b51g0or5.JPG 2x" style="max-width: unset;" title="天野喜孝 VR 美術館預計將展出內容包括經典的「最終幻想館」，讓死忠粉絲一飽眼福" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 天野喜孝 VR 美術館預計將展出內容包括經典的「最終幻想館」，讓死忠粉絲一飽眼福</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 51.30%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG 2x" style="max-width: unset;" title="斥資兩千萬打造的天野喜孝 VR 美術館的已將近八成完成，圖為「吸血鬼獵人 D 館」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 51.30%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/c7db330848c7bf8641a3e18d881g0ot5.JPG 2x" style="max-width: unset;" title="斥資兩千萬打造的天野喜孝 VR 美術館的已將近八成完成，圖為「吸血鬼獵人 D 館」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 斥資兩千萬打造的天野喜孝 VR 美術館的已將近八成完成，圖為「吸血鬼獵人 D 館」</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 51.63%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG 2x" style="max-width: unset;" title="圖為跳脫飄渺寫意風格，收藏滿滿「 Candy Girl」的女孩館" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 51.63%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/8717724f21635d26e58de723a21g0ou5.JPG 2x" style="max-width: unset;" title="圖為跳脫飄渺寫意風格，收藏滿滿「 Candy Girl」的女孩館" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 圖為跳脫飄渺寫意風格，收藏滿滿「 Candy Girl」的女孩館</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 51.63%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG 2x" style="max-width: unset;" title="時光藝廊為專門收錄天野老師「早期：80 年代」、「中期：90 年代」與「近期： 21 世紀」各時期作品" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 51.63%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/8efef828881653427b956b4e791g0ov5.JPG 2x" style="max-width: unset;" title="時光藝廊為專門收錄天野老師「早期：80 年代」、「中期：90 年代」與「近期： 21 世紀」各時期作品" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 時光藝廊為專門收錄天野老師「早期：80 年代」、「中期：90 年代」與「近期： 21 世紀」各時期作品</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 51.63%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG 2x" style="max-width: unset;" title="收藏天野老師黑暗系列的代表作品「DEVA ZAN」的「暗黑館」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 51.63%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG?v=1650620371014" data-srcset="https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/08/758be20b3782c9c34f176f820d1g0ow5.JPG 2x" style="max-width: unset;" title="收藏天野老師黑暗系列的代表作品「DEVA ZAN」的「暗黑館」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 收藏天野老師黑暗系列的代表作品「DEVA ZAN」的「暗黑館」</figure>
 </li>
@@ -171,13 +171,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG 2x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/09/b02edd3bd72728b723d3b469f81g0ox5.JPG 2x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG 4x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/10/8838b840b9a9f6a82b485a93861g0oy5.JPG 4x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG 4x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?v=1650620513628" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/11/c495e8dad15262c80807e4fbf71g0oz5.JPG 4x" title="台灣限量 AR 悠遊卡，可使用專屬 App 在掌中欣賞 2D 轉變為 3D 的神奇效果" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li style="width: 100%">
@@ -191,9 +191,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 69.07%;">
-<figcaption style="padding-bottom: 66.79%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG?v=1650620541690" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG 2x" style="max-width: unset;" title="吸血鬼獵人 D 燙金浮雕拼圖，透過世界級頂尖「「5 mm 多層次深度浮雕」工藝，精緻詮釋天野喜孝纖細的一筆一畫" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.79%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG?v=1650620541690" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/b080a10d0a54a4799e41dca7401g0p05.JPG 2x" style="max-width: unset;" title="吸血鬼獵人 D 燙金浮雕拼圖，透過世界級頂尖「「5 mm 多層次深度浮雕」工藝，精緻詮釋天野喜孝纖細的一筆一畫" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 30.67%;">
-<figcaption style="padding-bottom: 150.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?v=1650620541691" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG 4x" style="max-width: unset;" title="吸血鬼獵人 D 燙金浮雕拼圖，透過世界級頂尖「「5 mm 多層次深度浮雕」工藝，精緻詮釋天野喜孝纖細的一筆一畫" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 150.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?v=1650620541691" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/13/32b49252d789f9c5f99d1e066f1g0p15.JPG 4x" style="max-width: unset;" title="吸血鬼獵人 D 燙金浮雕拼圖，透過世界級頂尖「「5 mm 多層次深度浮雕」工藝，精緻詮釋天野喜孝纖細的一筆一畫" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 吸血鬼獵人 D 燙金浮雕拼圖，透過世界級頂尖「「5 mm 多層次深度浮雕」工藝，精緻詮釋天野喜孝纖細的一筆一畫</figure>
@@ -203,7 +203,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e68ddb8f21fec6f53efa0817f1g0om5.
 <div>
  </div>
 <div>
-　　更多集資計畫內容可參閱以下網址：<a href="https://backme.tw/ref/4whZm/" target="_blank">https://backme.tw/ref/4whZm/</a></div>
+　　更多集資計畫內容可參閱以下網址：<a href="https://yoshitakaamanovr.com/" target="_blank">https://yoshitakaamanovr.com/</a></div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="20859" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

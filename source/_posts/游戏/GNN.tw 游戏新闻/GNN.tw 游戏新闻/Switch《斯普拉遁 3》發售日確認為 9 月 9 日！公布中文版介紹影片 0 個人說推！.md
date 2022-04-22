@@ -1,0 +1,22 @@
+
+---
+title: 'Switch
+《斯普拉遁 3》發售日確認為 9 月 9 日！公布中文版介紹影片
+ 0 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/66/92e637ac551fb28912662ef9f51g0ta5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/66/92e637ac551fb28912662ef9f51g0ta5.JPG'
+---
+
+<div>   
+任天堂於今日宣布，原預定在 2022 年夏季推出的 Nintendo Switch 新作射擊遊戲《斯普拉遁 3（スプラトゥーン 3）》發售日確認為 2022 年 9 月 9 日，並公布了中文版的遊戲介紹影片以及占地對戰遊玩影片。 ...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/66/92e637ac551fb28912662ef9f51g0ta5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
