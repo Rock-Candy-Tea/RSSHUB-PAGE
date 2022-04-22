@@ -1,0 +1,19 @@
+
+---
+title: 'ORIGIN PC升级EVO17-S_NT-17_EVO15-S_NT-15 并推新EVO14-S_NT-14笔记本'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0422/b14c1a8cc6f4db2.jpg'
+author: cnBeta
+comments: false
+date: Fri, 22 Apr 2022 08:01:28 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0422/b14c1a8cc6f4db2.jpg'
+---
+
+<div>   
+ORIGIN PC 今天宣布推出了最新的轻薄型笔记本电脑，包括17.3英寸的 EVO17-S 和 NT-17 两款旗舰笔记本，15.6 英寸的 EVO15-S 和 NT-15 笔记本 以及 14 英寸的EVO14-S 和 NT-14 游戏本。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0422/b14c1a8cc6f4db2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0422/b14c1a8cc6f4db2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0422/7c5806d32df4560.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0422/7c5806d32df4560.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">EVO17-S 是一个性能强大的产品，配备了<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>酷睿 i9-12900H 14 核处理器、NVIDIA GeForce RTX 3080 Ti GPU，并支持最高 64GB 的 DDR5 DRAM，而 240Hz 的 QHD 屏幕可以显示你所有游戏的惊人细节。通过这种硬件组合，将笔记本游戏推向了全新的高度。</p><p style="text-align: left;">EVO17-S、EVO15-S、NT-17 和 NT-15 型号带来了大规模的硬件升级，以满足用户日益增长的需求。对于那些寻求扩展显示器的用户，Thunderbolt 4 和 HDMI 端口可以连接最多两个额外的显示器。</p><p style="text-align: left;">新的 EVO14-S 和 NT-14 仅重 2.4 磅，为用户提供了ORIGIN PC 系统的惊人力量和笔记本电脑的最大便携性优势。这些14英寸显示系统可以通过添加外部 GPU 进一步升级，最多可连接 NVIDIA GeForce RTX 3090或NVIDIA RTX A6000，实现顶级的桌面图形性能。</p><p style="text-align: left;">EVO17-S和NT-17的特点是。</p><blockquote style="text-align: left;"><p style="text-align: left;">● NVIDIA GeForce RTX 3080 Ti</p><p style="text-align: left;">● 最高英特尔酷睿i9-12900H 14核处理器</p><p style="text-align: left;">● 最高17.3英寸240赫兹QHD LED窄边框显示器</p><p style="text-align: left;">● 最高8TB的存储空间</p><p style="text-align: left;">● 最高64GB DDR5内存</p><p style="text-align: left;">● 兼容Wi-Fi 6</p><p style="text-align: left;">● Sound Blaster-SBC6</p><p style="text-align: left;">● 2x USB 3.1 Gen 1 Type-A, 1x USB 3.1 Gen 2 Type-A, 1x Thunderbolt 4, SD读卡器</p><p style="text-align: left;">● 1x HDMI 2.1端口</p><p style="text-align: left;">● 1x RJ-45以太网端口</p></blockquote><p style="text-align: left;">EVO15-S 和 NT-15 的特点：</p><blockquote style="text-align: left;"><p style="text-align: left;">● 最高NVIDIA GeForce RTX 3080</p><p style="text-align: left;">● 最高一个英特尔酷睿i9-12900H 14核处理器</p><p style="text-align: left;">● 15.6 英寸240赫兹QHD LED窄边框显示器</p><p style="text-align: left;">● 最高 8TB 的存储空间</p><p style="text-align: left;">● 最高 64GB DDR5 内存</p><p style="text-align: left;">● 兼容 Wi-Fi 6</p><p style="text-align: left;">●Sound Blaster-SBC6</p><p style="text-align: left;">● 2x USB 3.1 Gen 1 Type-A, 1x USB 3.1 Gen 2 Type-A, 1x Thunderbolt 4, SD读卡器</p><p style="text-align: left;">● 1x HDMI 2.1端口</p><p style="text-align: left;">● 1x RJ-45以太网端口</p></blockquote><p style="text-align: left;">EVO14-S和NT-14的特点：</p><blockquote style="text-align: left;"><p style="text-align: left;">● 最高NVIDIA GeForce RTX 3050Ti显卡</p><p style="text-align: left;">● 英特尔酷睿i7-12700H 14核处理器</p><p style="text-align: left;">● 14英寸2880×1800 90 Hz窄边框显示屏</p><p style="text-align: left;">● 最高8TB的存储空间</p><p style="text-align: left;">● 最高64GB DDR4内存</p><p style="text-align: left;">● 兼容Wi-Fi 6</p><p style="text-align: left;">● Nahimic Audio 360环绕声</p><p style="text-align: left;">● 2x USB Type-A, 1x Thunderbolt 4, 1x USB 3.1 Type-C, SD读卡器</p><p style="text-align: left;">● 1x HDMI 2.1端口</p></blockquote>   
+</div>
+            

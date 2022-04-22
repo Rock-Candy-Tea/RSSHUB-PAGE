@@ -8,7 +8,7 @@ categories:
 headimg: 'https://wpassets.halowaypoint.com/wp-content/2022/04/KOTH-scaled.jpg'
 author: 巴哈姆特
 comments: false
-date: 2022-04-22 07:08:59
+date: 2022-04-22 08:12:00
 thumbnail: 'https://wpassets.halowaypoint.com/wp-content/2022/04/KOTH-scaled.jpg'
 ---
 
