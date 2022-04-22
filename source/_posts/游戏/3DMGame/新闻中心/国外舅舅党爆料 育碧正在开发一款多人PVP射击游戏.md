@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cdn.exputer.com/wp-content/uploads/2022/04/ubioft-project-q-1-scaled.jpg'
 author: 3DMGame
 comments: false
-date: Fri, 22 Apr 2022 05:13:00 GMT
+date: Fri, 22 Apr 2022 05:34:00 GMT
 thumbnail: 'https://cdn.exputer.com/wp-content/uploads/2022/04/ubioft-project-q-1-scaled.jpg'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.exputer.com/wp-content/uploads/2022/04/ubioft-project-q-
 知名游戏业界内人士Tom Henderson今日在个人社交媒体上透露，育碧正在开发一款“开创性现代PVP竞技场游戏”，这是一款多人PVP射击游戏，暂名为《Project Q（代号Q）》。
 </p>
 <p align="center">
-<img src="https://cdn.exputer.com/wp-content/uploads/2022/04/ubioft-project-q-1-scaled.jpg" alt="国外舅舅党爆料 育碧正在开发一款多人PVP射击游戏" referrerpolicy="no-referrer">
+<img src="https://cdn.exputer.com/wp-content/uploads/2022/04/ubioft-project-q-1-scaled.jpg" alt="国外舅舅党爆料 育碧正在开发一款多人PVP射击游戏" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 据爆料，该游戏将由育碧在法国的波尔多工作室开发，最初是由Eurogamer于2021年9月从泄露的NVIDIA GeForce Now数据库中发现，但后来在育碧删除DMCA后被清除，今天已开始其首次游戏测试。《Project Q》将有两种游戏模式；一种是由两人一组的4个小队，共8人组成的大逃杀模式“对决”。第二个模式为4V4的占点模式“战斗空间”，玩家需要占领区域获得分数，玩家需要率先达到100分才能在两支四人组成的队伍中获胜。
