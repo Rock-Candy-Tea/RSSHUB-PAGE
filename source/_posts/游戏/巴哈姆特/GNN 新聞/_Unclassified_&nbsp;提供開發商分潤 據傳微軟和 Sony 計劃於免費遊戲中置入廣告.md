@@ -8,7 +8,7 @@ categories:
 headimg: 'https://imageio.forbes.com/specials-images/imageserve/5f99db896c9b99e8ad1eaaf4/The-Xbox-Series-X-and-PlayStation-5--side-by-side-/960x0.jpg'
 author: 巴哈姆特
 comments: false
-date: 2022-04-22 09:09:55
+date: 2022-04-22 10:10:36
 thumbnail: 'https://imageio.forbes.com/specials-images/imageserve/5f99db896c9b99e8ad1eaaf4/The-Xbox-Series-X-and-PlayStation-5--side-by-side-/960x0.jpg'
 ---
 
