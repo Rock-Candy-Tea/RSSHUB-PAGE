@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://picsum.photos/400/300?random=5468'
+headimg: 'https://picsum.photos/400/300?random=2415'
 author: Mastodon
 comments: false
-date: Sat, 23 Apr 2022 05:54:29 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5468'
+date: Sat, 23 Apr 2022 07:04:31 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2415'
 ---
 
 <div>   
-<hr><p>🤔</p><br><video src="https://img.pawoo.net/media_attachments/files/108/179/804/861/973/193/original/aeb959d1a450e49b.mp4" autoplay loop>gif </video>  
+<hr><p>この位置に定住したい('ω')</p><br><video src="https://img.pawoo.net/media_attachments/files/108/180/108/759/884/605/original/8c9ea83f75be1640.mp4" autoplay loop>gif </video>  
 </div>
             

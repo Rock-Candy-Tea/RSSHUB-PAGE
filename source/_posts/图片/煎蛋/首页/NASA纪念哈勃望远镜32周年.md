@@ -19,7 +19,7 @@ thumbnail: 'http://jandan.net/p/https://pic.yupoo.com/jdvip/BQSJzdk5/custom.jpg'
 <p><img src="http://wx2.sinaimg.cn/mw690/a1262f29ly1h1il0qtmb8j20m80ku75d.jpg" alt="NASA纪念哈勃望远镜32周年" referrerpolicy="no-referrer"><br>
 (美国宇航局、欧空局、STScI)</p>
 <p>虽然密集的星系群并不罕见，但它们通常位于更大的星系团的中心。</p>
-<p>Hickson Compact Group 40的特殊之处在于，这个异常密集的银河系聚集在九头蛇星座方向的某个地方，并不属于更大的星群。您可以在背景中看到许多其他的星系，在太空背景下看起来更暗。</p>
+<p>Hickson Compact Group 40的特殊之处在于，这个异常密集的银河系聚集在<del datetime="2022-04-23T07:02:11+00:00">九头蛇星座</del>长蛇座方向的某个地方，并不属于更大的星群。您可以在背景中看到许多其他的星系，在太空背景下看起来更暗。</p>
 <p>天文学家一直在追踪 Hickson Compact Group 40 的不同光谱，X 射线读数显示，由于在它们之间的空间中存在大量热气体，这些星系之间存在着引力效应。</p>
 <p>这最终将导致它们的合并，科学家们认为暗物质可能发挥了作用，在星系群周围形成了云层，并减慢了单个星系的速度。当他们失去动量时，就会像这张照片所示那样聚在一起。</p>
 <p>研究像这样密集的星系团，有助于天文学家了解星系形成的地点、时间和方式问题。</p>
