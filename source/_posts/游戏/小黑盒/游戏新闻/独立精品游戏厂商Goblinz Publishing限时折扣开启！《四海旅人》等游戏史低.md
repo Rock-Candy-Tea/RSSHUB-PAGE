@@ -1,0 +1,18 @@
+
+---
+title: '独立精品游戏厂商Goblinz Publishing限时折扣开启！《四海旅人》等游戏史低'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/978520_UdHJw.jpg'
+author: 小黑盒
+comments: false
+date: Sat, 23 Apr 2022 00:13:05 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/978520_UdHJw.jpg'
+---
+
+<div>   
+<p>逛steam商店时看到厂商搞活动就整合了一下折扣游戏，各位看官根据需求自行查看，如果可以的话请多多点赞充电支持我，谢谢<span data-emoji="cube_感动" class="hb-emoji"></span></p><p>——————————————————————————</p><blockquote><p>本期包含以下游戏</p></blockquote><blockquote><p>魔王大人，击退勇者吧 34.5 新史低</p></blockquote><blockquote><p>合集包（含本体+3DLC）80.23</p></blockquote><blockquote><p>英雄之时 54.4 新史低</p></blockquote><blockquote><p>四海旅人 23.8 新史低</p></blockquote><blockquote><p>废墟战旗 34.8 新史低</p></blockquote><blockquote><p>合集包（以上四款游戏）118</p></blockquote><blockquote><p>壁垒圣卫 40.6 新史低</p></blockquote><blockquote><p>爱丽丝与巨人 14.4 新史低</p></blockquote><blockquote><p>雪场大亨 60 新史低</p></blockquote><blockquote><p>机甲核心 9.6 新史低</p></blockquote><blockquote><p>漫漫长路 17.4 新史低</p></blockquote><blockquote><p>复苏之种 9.4 新史低</p></blockquote><blockquote><p>意识迷宫：克苏鲁卡牌 23.5 史低</p></blockquote><blockquote><p>地城进击者 4.8 史低4</p></blockquote><p>——————————————————————————</p><p><img data-gameid="978520" src="https://cdn.max-c.com/heybox/game/header/978520_UdHJw.jpg" referrerpolicy="no-referrer"></p><p>攻守互换，你将不再一如既往的扮演勇者，而是化身为魔王带领军队战胜勇者，游戏里的元素很多，玩法上因为参考了桌游的原因所以很像桌游</p><p><img data-gameid="1656780" src="https://cdn.max-c.com/heybox/game/header/1656780_u13v3.jpg" referrerpolicy="no-referrer"></p><p>屯兵，打架，升级，比较有趣的小游戏，但是平衡性不是很好</p><p><img data-gameid="1119700" src="https://cdn.max-c.com/heybox/game/header/1119700_ZmxnR.jpg" referrerpolicy="no-referrer"></p><p>画风很治愈的游戏，但是依然是平衡性不行，经常几个debuff下来就被拖垮寄了</p><p><img data-gameid="1075740" src="https://cdn.max-c.com/heybox/game/header/1075740_vETxb.jpg" referrerpolicy="no-referrer"></p><p>画风很棒的卡牌游戏，福瑞控狂喜，但是战斗冗长，难度跨越很大</p><p><img data-gameid="1531250" src="https://cdn.max-c.com/heybox/game/header/1531250_k6oe8.jpg" referrerpolicy="no-referrer"></p><p>游戏元素很多，棋盘+塔防+建造+肉鸽，这种简约的画风也很棒</p><p><img data-gameid="1127610" src="https://cdn.max-c.com/heybox/game/header/1127610_JhtNU.jpg" referrerpolicy="no-referrer"></p><p>gog前段时间送过一次，不过游戏还是不错的，卡牌+肉鸽</p><p><img data-gameid="1124260" src="https://cdn.max-c.com/heybox/game/header/1124260_df5Uw.jpg" referrerpolicy="no-referrer"></p><p>模拟经营游戏，经营你的滑雪场</p><p><img data-gameid="657090" src="https://cdn.max-c.com/heybox/game/header/657090_rH5P0.jpg" referrerpolicy="no-referrer"></p><p>回合制小游戏，价格也不贵，挂卡和打发时间还算可以</p><p><img data-gameid="856990" src="https://cdn.max-c.com/heybox/game/header/856990_wXyK7.jpg" referrerpolicy="no-referrer"></p><p>因为是卡牌游戏而且借鉴了杀戮尖塔，所以既视感可能比较强</p><p><img data-gameid="877080" src="https://cdn.max-c.com/heybox/game/header/877080_4Bfs6.jpg" referrerpolicy="no-referrer"></p><p>回合制生存游戏，缺少引导比较硬核</p><p><img data-gameid="1253860" src="https://cdn.max-c.com/heybox/game/header/1253860_W3qVm.jpg" referrerpolicy="no-referrer"></p><p>又是个卡牌游戏，这个制作组对卡牌真是情有独钟，文案看起来很有趣</p><p><img data-gameid="429620" src="https://cdn.max-c.com/heybox/game/header/429620_yf2Gj.jpg" referrerpolicy="no-referrer"></p><p>回合制小游戏，可以挂卡，无聊消遣一下也不错</p><p>——————————————————————————</p><p>本期内容就这些，如果可以的话能不能点赞充个电啊，我会给大家带来更多的资讯的<span data-emoji="cube_感动" class="hb-emoji"></span></p><p><a href="heybox://open_subject" target="_blank">#steam游戏#</a>     <a href="heybox://open_subject" target="_blank">#游戏推荐#</a>    <a href="heybox://open_subject" target="_blank">#pc游戏#</a>   <a href="heybox://open_subject" target="_blank">#单机游戏#</a>  <a href="heybox://open_subject" target="_blank">#神来之作第十期#</a> <br></p>  
+</div>
+            
