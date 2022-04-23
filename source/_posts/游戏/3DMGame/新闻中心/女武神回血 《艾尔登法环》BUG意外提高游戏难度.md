@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220423/1650676740_8307
 FromSoftware的《艾尔登法环》在2022年掀起了一阵热潮，其超高游戏难度反而让很多乐于挑战自我的玩家心向往之。虽然开发者在各个版本补丁中小心翼翼地调整BOSS难度和游戏平衡，但有时候总会出现一些意料之外的情况。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220423/1650676740_830703.jpg" alt="女武神回血 《艾尔登法环》BUG意外提高游戏难度" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220423/1650676740_830703.jpg" alt="女武神回血 《艾尔登法环》BUG意外提高游戏难度" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在《艾尔登法环》里经常对其他玩家施以援手的单挑哥“Let Me Solo 
