@@ -1,0 +1,18 @@
+
+---
+title: '爆料：华为 Mate Xs 2 将搭载 120Hz LTPS 屏幕'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626354658e9f09612e213ea9_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 22 Apr 2022 18:36:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626354658e9f09612e213ea9_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 23 日消息，华为 Mate Xs 2 折叠旗舰及全场景新品发布会官宣将于 4 月 28 日举行，这款机型现已上架京东等平台开启预约。</p><p>据显示屏分析师 Ross Young 爆料，华为 Mate Xs 2 将在屏幕方面进行升级，刷新率提升到 120Hz，但仍然采用 LTPS 屏而非 LTPO 屏，价格可能在 2500 美元（约 16275 元人民币）左右。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/626354658e9f09612e213ea9_1024.jpg" data-height="786" data-width="908" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626354658e9f09612e213ea9_1024.jpg" referrerpolicy="no-referrer"></div></div>LTPO 屏幕相比 LTPS 在电荷迁移率、像素点反应方面都有提升，可降低功耗。<p></p><p>IT 之家曾报道，数码博主 @熊猫很禿然 今日还放出了号称是华为 Mate Xs 2 的渲染图，该机拥有三款配色，采用外折设计，右上角打孔。</p><p>从曝光的渲染图可以看到，华为 Mate Xs 2 疑似和上一代的外观设计类似，将后置镜头等放在了一个长条里，前置镜头也在同样的位置。</p><p>该机的三款配色在机身内侧拥有不同的设计，但只有打开才能看到，分别为：</p><p>雅黑：十字皮纹，沉稳</p><p>锦白：自然皮纹，气质</p><p>霜紫：冰花效果，高级</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202204/6262c8498e9f095ac52950d7_1024.jpg" data-height="449" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/6262c8498e9f095ac52950d7_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，据 @看山的叔叔 爆料，该机拥有 4880mAh 电池，66W 快充，采用复合叠层结构给屏幕增加缓冲层，可能是最平的折叠手机。<p></p><p>值得一提的是，上个月有一款型号为 PAL-AL00 的华为 4G 新机通过了工信部入网审核，运行 HarmonyOS，搭载麒麟 9000 4G 芯片，预计就是 Mate Xs 2。</p><p>据微博博主 @熊猫很秃然 和 @旺仔百事通 爆料称 ，该机为 " 外折 " 方案，并且采用右侧打孔设计。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
