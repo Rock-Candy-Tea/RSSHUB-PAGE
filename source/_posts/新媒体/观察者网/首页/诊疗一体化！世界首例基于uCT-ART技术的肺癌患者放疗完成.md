@@ -22,7 +22,7 @@ thumbnail: 'https://i.guancha.cn/news/mainland/2022/04/23/20220423184312157.jpg'
 </strong> 
 </p>
 <p align="center">
-4月11日，中大肿瘤放疗科陈明教授团队为肺癌患者进行4D uCT-ART（4D CT在线自适应放疗），其中用于在线自适应调整放疗计划仅耗时10分45秒<strong><br>
+<span style="color:#666666;">4月11日，中大肿瘤放疗科陈明教授团队为肺癌患者进行4D uCT-ART（4D CT在线自适应放疗），其中用于在线自适应调整放疗计划仅耗时10分45秒</span><strong><br>
 </strong> 
 </p>
 <p>
@@ -45,6 +45,12 @@ thumbnail: 'https://i.guancha.cn/news/mainland/2022/04/23/20220423184312157.jpg'
 </p>
 <p>
 放疗科副主任黄晓延补充说：“联影医疗智能TPS大大提高了我们制定计划时的精准度。它能快速智能、精准地识别和勾画肿瘤病灶与正常器官，还可提供在线的剂量监测，让剂量计算更准确，确保患者每次都能接受到最优化的放疗方案，真正意义上实现了精准放疗。不仅如此，以往耗时数天的工作，现在十几分钟就能完成，大大提高了医生、物理师的工作效率。”
+</p>
+<p align="center">
+<img src="https://i.guancha.cn/news/official/2022/04/23/20220423192338309.jpg" title="点击查看大图" class="bigimg" width="530" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<span style="color:#666666;">放疗科主任陈明教授与团队为患者实施治疗方案</span> 
 </p>
 <p>
 <strong>产医融合创新，共同攻坚“卡脖子”难题</strong> 
