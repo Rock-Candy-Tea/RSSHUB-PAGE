@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/tips-better-presentations/'
 author: Inside Design
 comments: false
-date: 2022-04-24 13:19:56
+date: 2022-04-24 14:09:35
 thumbnail: 'https://www.invisionapp.com/inside-design/tips-better-presentations/'
 ---
 
