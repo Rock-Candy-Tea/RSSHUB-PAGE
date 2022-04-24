@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4385'
+headimg: 'https://picsum.photos/400/300?random=2097'
 author: 知乎
 comments: false
-date: Sun, 24 Apr 2022 06:04:39 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4385'
+date: Sun, 24 Apr 2022 06:26:40 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2097'
 ---
 
 <div>   
-时倾的回答<br><br><p data-pid="wmhXDcXg">鞋子平常穿的很舒服，有一天进了一粒沙磨得脚痛</p><p data-pid="okZEDnfg">后来你把沙子倒了出来，可脚还是没好</p><p data-pid="qxetDIlg">你以为是这双鞋子的问题，但鞋子还是之前的鞋子</p><p data-pid="1ZR-Vu64">系统都有bug，用舒服了体验不出小的，只要出一次大的不管是谁都难受</p><p data-pid="8-7CDd7I">我之前买100的鞋子，你突然让我买1000的，这我真的穿不起</p><p></p>  
+回望风逝的回答<br><br><p data-pid="E56rP9MM">我记得前几天还有个提问是说小米高端化最大的阻碍是米粉，今天又来说是MIUI了，猜测以后原因会变成高管、自研、生态链、造车，乃至是不是因为某天雷军是左脚迈进科技园还是右脚迈进科技园导致小米高端失败。</p><p data-pid="PlwQtez4">穷举法了属于是。。。</p>  
 </div>
             
