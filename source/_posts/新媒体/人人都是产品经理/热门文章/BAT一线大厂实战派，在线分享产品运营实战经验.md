@@ -24,135 +24,38 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <strong>想免费学习，请下滑！</strong></p>
 <p style="text-align: center;">👇👇👇</p>
 <section>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程1：适合：0-3岁运营人</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>“每天都在做重复执行工作，没什么成就感，感觉运营就是打杂的！”80%的运营人，几乎都会陷入低薪打杂的困境，只有20%成长为高薪运营人。</p>
-<p><strong>做运营，如何避免打杂，成为那稀缺的20%运营人才？</strong></p>
-<p><strong>4月20日（周三）晚8点</strong>，前腾讯高级产品运营@杨俊老师，在线直播，讲解3个核心方法论，助你告别打杂，离升职加薪更近一步！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/toGDJTKAnzZZ4GYoGP4Q.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<h3>课程2：适合：0-3岁产品经理</h3>
-</section>
-</section>
-</section>
-</section>
-<p>转行/转岗，新人入门产品经理，仅仅是安全过了面试那一关就够了吗？</p>
-<p>肯定不是！企业花费招聘成本，不是为了让你浑水摸鱼的，是需要实打实能做事的人的。过了面试那一关，你还有试用期，还有每个周期的工作考核。</p>
-<p>想要入职产品岗能尽快适应，上手新工作，并获得未来2-3年的稳步进阶，来听听<strong>周三晚20点</strong>，前百度Hi产品负责人@Alex老师 的分享吧，扫码即可报名~</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/cA1OKlFuDfiS2O9XJNqo.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程3：适合：0-2岁产品经理、想入行产品的新人</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>原型设计是产品岗必不可少的硬技能，但你知道原型设计的这4大标准流程吗？</p>
-<p><strong>4月20日（周三）晚8点</strong>，11年资深产品经理@Phoenix 老师，将实例带你拆解【产品原型的标准流程设计】，教你更高效画出规范专业原型！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/x6N13MSmvHgylUFE1hSX.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程4：适合：1-3岁B端产品经理</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>产品规划即顶层设计!</p>
-<p>对于B端产品经理而言，产品规划不只要满足当下，更要预判未来。</p>
-<p>那么究竟如何思考、设计、规划，以及落地和分阶段实现？</p>
-<p><strong>4月20日（周三）20点</strong>，企业数字化转型高级战略专家@磊叔1小时直播分享，通过4个核心7个步骤，教你做好B端产品规划！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/WZbyZzPgrRMH0NYSchfS.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程5：适合：0-3岁的电商产品经理、想入行电商产品经理的人群</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>互联网进入下半场，电商已经成为了流量变现的必然选择。而对电商产品经理而言，这也意味着广阔的前景和空间。作为新人应如何系统理解电商以及入门电商产品经理？</p>
-<p><strong>4月21日（周四）晚8点</strong>，《电商产品经理宝典》作者@刘志远老师 将从电商用户端产品出发，带大家解构电商产品能力框架，助大家快速系统入门电商产品经理。</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/Nc95G0BgcMbUw1Z4vVay.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section>
-<h3>课程6：适合：0-3岁的运营人</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>“营销信息太多，用户倍感疲倦。”</p>
-<p>你绞尽脑汁想出的创意活动，却经常没用户参加、转化惨淡？</p>
-<p>到底搞点什么新花样才能吸引用户眼球？怎样样才能打造出让用户上瘾的活动？</p>
-<p><strong>4月23日（周六）13:30</strong>，直播教你如何用游戏化思维轻松玩转活动策划，打造爆款活动，实现用户增长！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/HjZ5WIGqPgHXn9yBh83Y.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程7：适合：想转岗就业产品的大学生和职场新人</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
-<p>能进大厂、拿高薪的产品人，都具备什么技能和思维？</p>
-<p><strong>4月23日（周六）14:30</strong>，前中国电信集团资深产品经理@明瑞 主讲【产品经理必知必会的技能和思维有哪些？】。课程将以大厂为例，拆解高薪产品经理能力标准/模型/要求，为分享绝绝子入行秘诀！</p>
-<p>限时免费，前50名听课送《产品求职学习资料包》，直播无回放，抓紧扫码抢占名额吧！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/yyRYEu6F85t81IZRwq09.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section>
-<h3>课程8：适合：0-3岁产品经理</h3>
-</section>
-</section>
-</section>
-</section>
-</section>
+<h2 id="toc-1">01 0-3岁产品经理</h2>
 <p>#做好竞品分析，实现高薪</p>
-<p>如何选取正确的竞品不跑偏？如何获取真实的数据不虚假？如何输出有效的结论不堆砌？</p>
-<p><strong>4月24日（周日）晚8点</strong>，大厂资深产品专家出招！攻克竞品分析常见三大难题，扫码免费报名！！！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/qdPeUQef5p6TqLDSeusJ.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
-<p style="text-align: center;">最后如果不知道哪门课程更适合你</p>
-<p style="text-align: center;">扫描下方二维码</p>
-<p style="text-align: center;">起点课堂小姐姐/小哥哥将在线帮你解决！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/K1ezde0UtTc6KC9dN0QE.jpg" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
+<p>正确选取竞品的方法和原则有哪些？哪里可以获取真实又靠谱的数据？如何保障结论输出有效不堆砌？明晚8点，大厂资深产品专家出招！攻克竞品分析常见三大难题，扫码免费报名！！！</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/DODWExePQViNugeIwfCD.jpeg" referrerpolicy="no-referrer"></p>
+<h2 id="toc-2">02 0-3岁产品经理</h2>
+<p>想转岗产品，但没作品、没经验，怎么求职那么难！</p>
+<p>拒绝走弯路，揭秘转岗产品最优路径！！</p>
+<p>前美团产品专家@James 教大家利用过往优势成为高阶的π型产品人才，提高转岗成功率！</p>
+<p>扫码免费报名啦！限前30名~~</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/tbNZU3L3wJuYaOJFM4jy.jpeg" referrerpolicy="no-referrer"></p>
+<h2 id="toc-3">03 0-3岁运营人</h2>
+<p>“用户至上、增长困难”的互联网时代，KEEP是怎样做到让4000万用户每天在线举铁的？！</p>
+<p>KEEP为激励用户做了哪些“深思熟虑”？我们该怎样学习？4月27日（下周三）晚八点，带你拆解KEEP的用户运营之道，教你如何打造产品运营策略，实现用户增长！扫码免费报名</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/ibnW3tHOSMD3jZudsXMq.jpeg" referrerpolicy="no-referrer"></p>
+<h2 id="toc-4">04 1-3岁B端产品经理</h2>
+<p>#小公司、没人带的B端产品，如何高效成长？</p>
+<p>周三晚8点，前美的金融产品总监@Gina老师，1个小时直播分享，教你2招能力提升方法，带你突破基础执行都会，但复杂问题解决不了的职场困局~</p>
+<p>长按识别下方二维码，获取免费听课链接↓↓↓</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/8bsOGFrC7pLEwFAkLZ9E.jpeg" referrerpolicy="no-referrer"></p>
+<h2 id="toc-5">05 想转岗就业产品的大学生和职场新人</h2>
+<p>想入行产品经理，不知道当前风口行业，你最适合哪个？捡漏机会来啦！</p>
+<p>周四晚上8点，产品老司机—某头部社交公司产品总监@Kira 带你解读四大风口行业，稳抓产品经理入局新机遇！</p>
+<p>限时免费，前50名听课送《产品求职学习资料包》，直播无回放，抓紧扫码抢占名额吧！</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/wu3udTR0mEqPPRhAHN22.jpeg" referrerpolicy="no-referrer"></p>
+<h2 id="toc-6">06 想入行电商产品经理的人，0-3岁电商产品经理</h2>
+<p>在IT互联网类目下，【电商】是第一大行业。对电商产品新人而言，想要系统入门电商产品，交易增长是重中之重。而实现增长的主要手段则是活动。</p>
+<p>4月28日（周四）晚8点，前天猫/京东产品经理@王伟老师，将以大厂618与双11等大促产品设计案例，解析大厂电商产品经理能力体系，助你系统入门电商产品经理！限时免费报名，仅限前150人，扫码立抢！！</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/vELODPjkIGy4S2QKdlVo.jpeg" referrerpolicy="no-referrer"></p>
+<p>如果你不知道自己该学哪个，或者想学习其他课程，起点课堂小姐姐、小哥哥在线帮你解决！</p>
+<p>扫描下方二维码添加好友</p>
+<p>让我们来帮你挑选更适合你的课程吧~</p>
+<p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/i1NcD72RMYI42AYz9mtX.jpeg" referrerpolicy="no-referrer"></p>
 <p>你想要的课程，我们都有！</p>
 <p>你想学的内容，我们都有！</p>
 <p>因为我们是— —</p>
@@ -163,10 +66,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p><img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/faUY4ZUsLf3fu9p4SbiE.png" alt width="1080" height="446" referrerpolicy="no-referrer"></p>
 <section>希望课程可以帮你收获更多专业知识呀~</section>
 </section>
-<p class="paragraph text-align-type-justify pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt pap-right-indent-7.5pt">如果你不知道自己该学哪个，或者 想学习其他课程，小问题！</p>
-<p class="paragraph text-align-type-justify pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt pap-right-indent-7.5pt">起点课堂小姐姐、小哥哥在线帮你解决！</p>
-<p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt pap-right-indent-7.5pt">扫描下方二维码添加好友</p>
-<p class="paragraph text-align-type-center pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt pap-right-indent-7.5pt">让我们来帮你挑选更适合你的课程吧~<img data-action="zoom" class="aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/04/LB8vV1M7MO2VoLNrnam0.png" alt width="1080" height="608" referrerpolicy="no-referrer"></p>
                       
 </div>
             

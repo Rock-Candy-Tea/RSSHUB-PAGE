@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220424/1650758342_1364
 《艾尔登法环》1.04更新本周三上线，带来了大量调整、改进和bug修复，但没有做的事情是PC上的卡顿问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220424/1650758342_136451.jpg" alt="PC Gamer：《艾尔登法环》发售两个月了 PC优化仍然是一大拖累" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220424/1650758342_136451.jpg" alt="PC Gamer：《艾尔登法环》发售两个月了 PC优化仍然是一大拖累" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 自2月24日发售以来，已经过去了两个月时间，开发商FromSoftware依旧没有指出何时或是否修复PC版的性能问题。
