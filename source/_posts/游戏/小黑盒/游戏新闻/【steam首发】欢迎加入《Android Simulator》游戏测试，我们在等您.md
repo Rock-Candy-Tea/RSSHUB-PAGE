@@ -1,0 +1,18 @@
+
+---
+title: '【steam首发】欢迎加入《Android Simulator》游戏测试，我们在等您'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/04/23/eb2dd2c91a02259556836e98acf90ce9/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 24 Apr 2022 01:01:51 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/04/23/eb2dd2c91a02259556836e98acf90ce9/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p><b><br></b></p><p><b>仿生机器人模拟器是一款未来概念的FPS游戏，</b></p><p><b>在游戏中你将扮演一个负责操控宇宙殖民飞船的仿生机器人。</b></p><p><b>你的职责是在完成主线任务的同时，尽可能减少损失。</b></p><p><b>除了主线活动之外，每部分游戏都会有随机事件发生，</b></p><p><b>每部分新的环节都有不同的游戏过程。</b></p><p><b>祝您旅途愉快~</b></p></blockquote><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/web/2022/04/23/eb2dd2c91a02259556836e98acf90ce9/thumb.jpeg" data-width="864" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><b>视频观看地址：↓</b></p><ul><li>https://media.st.dl.pinyuncloud.com/steam/apps/256871047/movie480_vp9.webm?t=1650459528</li></ul><p><br></p><p><b>steam商店地址：↓</b></p><ul><li>https://store.steampowered.com/app/1891250/Android_Simulator/<br></li></ul><p><b>》》》》申请测试方式：↓《《《</b></p><ul><li><b>登录自己的steam账号后↓</b></li></ul><p><img class="lazy" data-height="326" src="https://imgheybox.max-c.com/web/2022/04/23/72e902cca7d38dc0219371507d68eb5c/thumb.png" data-width="659" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="465" src="https://imgheybox.max-c.com/web/2022/04/23/386b612b9b73a9d109f699079faeb7aa/thumb.png" data-width="938" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="500" src="https://imgheybox.max-c.com/web/2022/04/23/d2d3d2b60639c0179f8c8b4d30b977c3/thumb.png" data-width="939" referrerpolicy="no-referrer"></p><p><br></p><hr><p><img class="lazy" data-height="1054" src="https://imgheybox.max-c.com/web/2022/04/23/48388884a88fe0e1bc43bd55dd2af43d/thumb.jpeg" data-width="862" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="360" src="https://imgheybox.max-c.com/web/2022/04/23/f97baaac9258b58df31f298ba96d5b52/thumb.jpeg" data-width="862" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="942" src="https://imgheybox.max-c.com/web/2022/04/23/0ff09984aa0e160aa35cb1c777d5f6ff/thumb.jpeg" data-width="862" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1361" src="https://imgheybox.max-c.com/web/2022/04/23/1664f5069046964b3af5f8a083ed9210/thumb.jpeg" data-width="862" referrerpolicy="no-referrer"></p><p><br></p><p><img class="lazy" data-height="100" src="https://imgheybox.max-c.com/web/2022/04/23/bdbbf47bdb422a7d86feb80a3213a8e1/thumb.png" data-width="1280" referrerpolicy="no-referrer"></p><h4 class="img-desc">我是分割线</h4><ul><li><a data-link-type="text" href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=79970878" target="_blank">《Trek to Yomi》黄泉之路—黑白横向卷轴游戏（5月推出）</a><br></li></ul><p><br></p><hr><p><a href="heybox://open_subject" target="_blank">#机器人#</a><a href="heybox://open_subject" target="_blank">#宇宙#</a><a href="heybox://open_subject" target="_blank">#steam游戏单机游戏#</a><a href="heybox://open_subject" target="_blank">#steam游戏#</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><a href="heybox://open_subject" target="_blank">#模拟太空飞行#</a><a href="heybox://open_subject" target="_blank">#未来#</a><a href="heybox://open_subject" target="_blank">#科幻#</a><a href="heybox://open_subject" target="_blank">#冒险#</a><a href="heybox://open_subject" target="_blank">#仿生机器人#</a><a href="heybox://open_subject" target="_blank">#支持中文#</a><a href="heybox://open_subject" target="_blank">#宇宙飞船x计划#</a><a href="heybox://open_subject" target="_blank">#热爱fps#</a><a href="heybox://open_subject" target="_blank">#第一人称游戏#</a><a href="heybox://open_subject" target="_blank">#steam首发#</a><br></p>  
+</div>
+            
