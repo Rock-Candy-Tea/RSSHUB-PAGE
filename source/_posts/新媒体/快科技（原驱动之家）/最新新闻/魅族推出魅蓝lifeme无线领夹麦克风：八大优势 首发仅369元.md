@@ -20,6 +20,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220425/s_9edb7c38d0c441a48dec274b29
 <p>这款麦克风能够在录播和直播模式之间切换，无论是实时直播还是Vlog录播都能够有针对性的调整效果；同时，它能够适配市面上大部分的设备，并支持3.5mm接口连接。</p>
 <p>此外，作为一款领夹式麦克风，<strong>lifeme的尺寸为47*47*14.5mm，重量仅30.8g</strong>，能够满足用户长时间佩戴的要求，并有一颗450mAh的电池，能够提供13小时的续航。</p>
 <p>目前，lifeme无线领夹麦克风已经在各大电商平台上架，<strong>原价699元，首发价369元。</strong></p>
+<p>京东魅族官方旗舰店：<a class="f14_link" href="https://dt.mydrivers.com/zt.ashx?gp=3v46" target="_blank">点击查看</a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220425/c538212350f94814b337cff656967814.jpg" target="_blank"><img alt="魅族推出魅蓝lifeme无线领夹麦克风：八大优势 首发仅369元" h="5833" src="https://img1.mydrivers.com/img/20220425/s_c538212350f94814b337cff656967814.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            

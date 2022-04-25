@@ -1,0 +1,18 @@
+
+---
+title: '又来一家，今年大厂沉迷换logo？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8996_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 25 Apr 2022 01:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8996_1024.jpg'
+---
+
+<div>   
+<p>年年都有企业换 Logo，今年好像特别多。</p><p>继比亚迪、爱奇艺、钉钉后，哈啰出行也在 4 月 24 日宣布更换 Logo 标识，将名称 " 哈啰出行 " 更改为 " 哈啰 "，取消了图案元素，更注重文字。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8996_1024.jpg" data-height="934" data-width="812" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8996_1024.jpg" referrerpolicy="no-referrer"></div></div>大厂换 Logo 时常会因为变化不够明显引起网友的调侃。<p></p><p>以小米的新 Logo 为例，虽然设计师讲解了很多理念或体现美感之处，但在网友看来，这个 Logo 唯一的不同只有背景框更圆润了，因此戏称小米是被 " 生活磨平了棱角 "。米粉们甚至纷纷表示，为雷总的 200 万设计费感到心疼。</p><p>钉钉的新 Logo 同样让人傻傻分不清楚，看上去只是翅膀的倾斜角度有轻微调整。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8997_1024.jpg" data-height="954" data-width="982" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/62666ce38e9f0954ad5a8997_1024.jpg" referrerpolicy="no-referrer"></div></div>当然，也有品牌的 Logo 调整幅度会比较大。<p></p><p>爱奇艺的 Logo 更换后，最明显的差别就是原本在方框内的 "iQIYI" 破框而出，字体大小与 " 爱奇艺 " 三个中文一样；哈啰出行则直接将 " 出行 " 二字删去。</p><p>" 设计师的钱真好赚 "、" 换了又好像没换 "、" 某米看了直呼血亏 "......</p><p>每次伴随品牌更换 Logo 而来的，都有网友的各种神调侃。当然，还有背后企业在经营策略或方向上的升级。</p><p>哈啰出行此次将 " 出行 " 二字去掉，即是为了强调多元化的业务布局。哈啰靠共享单车起家，从与摩拜和 OFO 的大战中存活下来并成功上市，2019 年开始逐渐试水两轮车以外的业务，如顺风车、电动车和本地生活业务等等。</p><p>在哈啰的官方 App 首页的一级入口中，可以看到包括酒店、景点门票、火车票等分类，更像是一个综合性服务平台。" 不止出行 "，在回答网友 " 不做出行了吗？" 的问题时，哈啰官方微博给出了这样的回答。</p><p>从哈啰单车到哈啰出行，再到如今的哈啰，两次更名均象征着哈啰业务的大拓展。</p><p>比亚迪在今年 2 月发布了集团新 Logo，距离上一次换标仅过去了一年多。直观来看，与小米类似，比亚迪的 Logo 也主要是外部形状有变化，因此有网友直言，" 是和小米撞设计师了吗？"</p><p>但实际上，比亚迪换标的真正意图，或许是想让自己的业务范围和经营面更加清晰，向外界展示 " 家大业大 " 的实力。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202204/62666ce38e9f0954ad5a8998_1024.jpg" data-height="1282" data-width="2028" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62666ce38e9f0954ad5a8998_1024.jpg" referrerpolicy="no-referrer"></div></div>电子、新能源、轨道交通和汽车产业构成了比亚迪的四大主营业务。其中汽车板块在 2021 年迎来大爆发，新能源车的销量达到 60 万辆，遥遥领先于其他传统车企和新势力，今年 3 月的销量甚至首次突破 10 万辆，超过蔚来、小鹏们一年的交付量。<p></p><p>随后的四月，比亚迪直接宣布停产燃油车，成为首家彻底告别燃油车的车企。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202204/62666ce38e9f0954ad5a8999_1024.jpg" data-height="1154" data-width="1558" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/62666ce38e9f0954ad5a8999_1024.jpg" referrerpolicy="no-referrer"></div></div>除了汽车业务出彩，比亚迪的手机部件和组装业务同样十分吸金，去年的总营收达到 864.54 亿元，与汽车业务接近，占总营收的 40%。<p></p><p>爱奇艺换新 Logo 则是为自己的 12 岁生日造势。长视频平台集体 " 过冬 " 之际，爱奇艺需要尝试打破常规、用创意为自己找到出路，新 Logo 英文文字 "iQIYI" 的破框而出大概率就象征着这一点。</p><p>有的品牌换 Logo 花费 200 万（如小米），有的可能没花钱，却让自家设计师 " 秃了个头 "（如哈啰），但每次更换基本都能让这些企业迎来了一波流量小高峰，无异于为自己创造了一个营销业务和展示实力的窗口。</p><p>所以，新旧 Logo 差别不大也没什么要紧的。</p><p>ZAKER 新闻出品</p><p>文 / 鲍星娃</p><p>编辑 / 曾宪天</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
