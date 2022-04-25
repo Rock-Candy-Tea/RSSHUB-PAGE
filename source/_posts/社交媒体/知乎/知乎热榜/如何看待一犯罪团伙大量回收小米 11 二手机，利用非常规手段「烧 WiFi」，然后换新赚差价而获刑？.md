@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-c563ecd97e9a44172d78756fd5e457ff_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=7578'
 author: 知乎
 comments: false
-date: Sun, 24 Apr 2022 12:19:04 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-c563ecd97e9a44172d78756fd5e457ff_1440w.jpg?source=b1748391'
+date: Mon, 25 Apr 2022 01:55:36 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7578'
 ---
 
 <div>   
-浑沌的回答<br><br><p data-pid="e3DYHXLW">这个我听说过，之前就看到有人在酷安里专门刷烧WIFI，用来换机。</p><p data-pid="JY-tIE4a">说实话，最开始的人发现这个BUG，可能是觉得好玩，后面有一部分跟风的，是脑残。</p><p data-pid="0k4ahZ05">但是拿来当成犯罪的，那是真的NB。</p><p data-pid="j_hAijtJ">虽然我们都在说厂商的售后有的时候水准不一，但是当傻子去捞钱，那是真的蠢。</p><p data-pid="i7FXkjIm">其实之前我就感觉到不对劲了，尤其是小米11退出这个专门针对WIFI的服务后。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c563ecd97e9a44172d78756fd5e457ff_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="640" data-rawheight="745" data-default-watermark-src="https://pica.zhimg.com/v2-19d99790aa4285290b2a60ad2a6b5712_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c563ecd97e9a44172d78756fd5e457ff_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="Vq0zEN20">酷安有人弄出来一个软件，只要按照步骤，就能稳定触发这个WIFI问题。</p><p data-pid="kvGzpnOL">所有有的人就专门去烧了。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-6fee93b0cef12f64d6b3f11cf38c524a_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="720" data-rawheight="470" data-default-watermark-src="https://pica.zhimg.com/v2-66b98c3af8f857b568ee74a25c8f4cfe_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-6fee93b0cef12f64d6b3f11cf38c524a_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="CItycXnZ">前几天小米说，研究了一个新罪名，其实就是针对酷安老哥的，有人给了一套方案，包括删温控，刷入高发热APP等等。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4a19f5b2f9816e29c324184cab2ac9da_720w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="270" data-rawheight="1882" data-default-watermark-src="https://pica.zhimg.com/v2-a56eda225cd243318f74d46c36a9007c_720w.jpg?source=b1748391" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="cjyWvff7">我有一种预感，像这个老哥。。。其实很大几率会被抓紧去，就看小米针对否。</p><p data-pid="OhdrD3Lc">好的售后政策本质上是为用户服务的，你拿这个来牟利，是真的不怕死。。。</p>  
+张弛有道的回答<br><br><p data-pid="5ZKncWdy">首先，介绍一下小米11怎么百分百烧wifi。</p><p data-pid="-THPhbIt">1：root，获得最高权限【目前全行业只有一加小米root后依然保修。未来就不一定了，参考苹果售后的国内遭遇】删除温控。</p><p data-pid="rK8uuOPD">2：刷入烤机软件。</p><p data-pid="61ZnA3x8">3：xxxxxxxx【教唆别人违法犯罪也属于犯罪，我就不写这么详细了】</p><p data-pid="atvy97eh">总之，酷安老哥技术高超【本意或许只是炫技】，使用这些方法可以做到百分百烧wifi（非常规使用场景）</p><p data-pid="ym1eVHC1">这个团伙（其实很多个人也这么干，闲鱼大佬不少用这办法挣钱的）规模较大，有点离谱了，小米也不是伞兵，一直在收集证据，法务部胜诉率还是蛮高的。但这不是重点！</p><p data-pid="s-iDhA9T">很多莫名其妙的人把违法犯罪当做验证真理的方法也是挺离谱的，当初苹果主板问题保内凭借小票售后换新【我的iphone4s进水喇叭劈了，直接换新……检测都没检测。】，被部分人用手段各种以旧换新。</p><h2>苹果叫停了部分宽松的售后政策，得利的是这些钻漏洞的“坏人”，受伤害的是全体消费者。现在苹果售后变成全行业最拉之一他们负有最大的责任。</h2><p data-pid="6jU8YSpr">还洗，细腻马戏。黑小米黑魔怔了？</p>  
 </div>
             
