@@ -5,15 +5,15 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=9316'
+headimg: 'https://picsum.photos/400/300?random=3006'
 author: 财联社
 comments: false
 date: Mon, 25 Apr 2022 06:32:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9316'
+thumbnail: 'https://picsum.photos/400/300?random=3006'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>《科创板日报》4月25日讯（编辑郑远方），</strong>28日美股盘后，苹果便将发布一季度财报，iPhone 13系列销售及其营收影响也成为各方的关注焦点。</p>
+<div class="m-b-10"><p><strong>《科创板日报》4月25日讯（编辑 郑远方），</strong>28日美股盘后，苹果便将发布一季度财报，iPhone 13系列销售及其营收影响也成为各方的关注焦点。</p>
 <p>而日前消息显示，iPhone 13系列销量强劲，<strong>苹果由此决定大幅上调Q2产量目标，Pro系列产量增幅超过2倍。</strong></p>
 <p>同时，该系列的销售表现也影响了iPhone 14规划，<strong>iPhone 14非Pro产品线将首次迎来大屏幕，</strong>卫星网络通讯功能也蓄势待发。</p>
 <p><strong>▍销量超预期 iPhone 13系列敲定增产计划</strong></p>
