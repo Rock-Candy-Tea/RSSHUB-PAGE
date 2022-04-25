@@ -1,0 +1,19 @@
+
+---
+title: 'Databricks 崛起启示录'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member47287/202204/wx_article__369b80b6e7fbef96baef0acdf0259f9f.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 25 Apr 2022 06:26:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member47287/202204/wx_article__369b80b6e7fbef96baef0acdf0259f9f.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member47287/202204/wx_article__369b80b6e7fbef96baef0acdf0259f9f.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">新眸大公司研究组作品</p><p style="text-indent: 2em; text-align: left;">作者｜叶静</p><p style="text-indent: 2em; text-align: left;">编辑｜桑明强</p><p style="text-indent: 2em; text-align: left;">在数据库领域，如果问当下谁最火，那Databricks一定排得上号。</p><p style="text-indent: 2em; text-align: left;">去年8月，距离10亿美元的G轮融资刚过去7个月，Databricks再次获得16亿美元H轮融资，身价摇身一变成380亿美元，成为外界一致认为的超级独角兽。一直以来，数据领域备受关注，如果从2007年开始计算，全球的数据量至今已经膨胀了近200倍，数字化被写入战略规划成了各类行业的共识。</p><p style="text-indent: 2em; text-align: left;">在数据量井喷的背景下，上云趋势也越来越明确，以Snowflake、Databricks为代表的大数据公司应运而生，前者基于AmazonS3打造了云端的数据仓库，后者除了推出Lakehouse（湖仓一体），现在又押宝机器学习，试图包管数据在抵达机器学习之前的所有流程。</p><p style="text-indent: 2em; text-align: left;">不同的是，Databricks已经从原来的infra向更广泛场景延伸，和昔日的伙伴Snowflake同台竞技。与此同时，以AWS为代表的云巨头，也都曾战略性投资过Databricks，但现在也都在自研数据分析套件，竞合关系渐趋白热化，让数据基础设施的战火扑朔迷离。</p><p style="text-indent: 2em; text-align: left;"><strong>01从0到1</strong></p><p style="text-indent: 2em; text-align: left;">企业的性格往往被它的创始人和技术背景所决定。</p><p style="text-indent: 2em; text-align: left;">十几年前在UC Berkley的AI实验室里，Ghodsi和伙伴发起Spark项目：做一个能够更轻松处理大量数据和机器算法的引擎，并且开源了代码。相比较多数开源项目，面向的都是底层技术性强要求的infra工程师，spark面向更广泛的客户群，同时在上层加了很多的新的API，降低了技术门槛。</p><p style="text-indent: 2em; text-align: left;">因为没有优秀的开发者社区运营和推广团队，Spark变现比较难，之后团队成员决定成立Databricks，以商业化方式推动Spark社区发展。即便Spark是过去硅谷的顶流产品，但这并没有让AWS等巨头买账，他们选择绕过Databricks，直接将Spark集成到自己的产品里。在Databricks卖产品还不如办Spark峰会收入高的时候，Amazon EMR已经针对Spark实现了几亿营收。</p><p style="text-indent: 2em; text-align: left;">Databricks创始团队走了一条不被大众熟知的激进的路：云。</p><p style="text-indent: 2em; text-align: left;">虽然不管对公司还是客户来说，云可以更快部署，也更容易维护，但正如联合创始人Reynold Xin所说，大部分的人知道云是未来，但绝不是现在。当时只有小部分风投注资这家初创企业，New Enterprise Associates的投资者Pete Sonsini说：“我们在Databricks的软件收入为零时投资，认为他们会在大流行中加速发展，也许是一两个月，每个人都无法及时知道会发生什么”。和Databricks一样，他们也在赌未来。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member47287/202204/wx_article__635c821273b235e81bc10724462cebba.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图：Databricks年度融资及估值变动</p><p style="text-indent: 2em; text-align: left;">2013到2015这三年，虽然有硅谷风投支持，Databricks也借力这些资金吸引人才，推出了基于云端的简化大数据处理平台Databricks Cloud，但不管是招主管、找融资还是见客户，Databricks都会被质疑：真的不支持on－prem吗？</p><p style="text-indent: 2em; text-align: left;">因为背靠Spark，很多客户甚至愿意年付几千万美金让Databricks提供咨询定制化项目，但Databricks做的是一个给数据工程师的平台，这是当时大部分公司闻所未闻的玩法，也是前几年商途不顺的原因之一。值得一提的是，彼时的云界开源前辈Cloudera曾改名“Cloud Era”，可在当时的市场情况下，最终还是转向了on－prem做定制和售后支持才得以存活。</p><p style="text-indent: 2em; text-align: left;">在这种逻辑下，云厂商把开源软件拿来经过简单的封装，再作为服务卖出去。由于这个过程只需要简单的部署和调试，工程成本极低，定价也不高，巨头从中赚走了大部分，这对Databricks来说相当于吸血，怎样和有钱有人的云巨头对抗，是Databricks亟需在技术上打造的壁垒。</p><p style="text-indent: 2em; text-align: left;">他们赌的另一条路，是不做数仓。</p><p style="text-indent: 2em; text-align: left;">彼时数据仓库竞争过于激烈，以亚马逊为首的巨头占据了大部分市场份额，Databricks继续小众打法：避开红海，尝试切入一个新兴却可能会有爆炸性增长的小市场，针对数据科学家、数据工程师和AI的方向做产品。</p><p style="text-indent: 2em; text-align: left;">开源小公司的优势在于更懂项目，迭代更快，能够聚焦、死磕产品性能，而公有云大厂很难在单一方向投入最好的工程师。随着数据量的爆发，云的生态优势逐渐被认可，加上当时市面上也没有大量竞品，这给Databricks的产品带来了机会。</p><p style="text-indent: 2em; text-align: left;">另一方面，在2019年微软投资Databricks之前，正巧CEO纳德拉推动云为先的战略，两家合作的Azure Databricks进入了微软的企业许可协议。微软从一个大数据竞争劣势的云产品摇身成为业界领先，形成了云巨头三足鼎立的局面；因为几乎所有大企业都和微软有ELA，共生效应之下，客户原本买云买Office的预算自然流向了Databricks。</p><p style="text-indent: 2em; text-align: left;">有人将Databricks创始团队比作一群幸运的加州嬉皮士RD，他们信仰技术，信仰来源，信仰共享和长期主义，这些也都成为了Databricks的底色。</p> 
+  
+</div>
+            

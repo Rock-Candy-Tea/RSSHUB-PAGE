@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391'
+headimg: 'https://pica.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
 date: Mon, 25 Apr 2022 04:38:22 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391'
+thumbnail: 'https://pica.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-张弛有道的回答<br><br><p data-pid="5ZKncWdy">首先，介绍一下小米11怎么百分百烧wifi。</p><p data-pid="-THPhbIt">1：root，获得系统最高权限【类似于iphone越狱，目前全行业只有一加小米root后依然保修。未来就不一定了，参考苹果售后的国内遭遇】删除温控。</p><p data-pid="rK8uuOPD">2：刷入烤机软件。持续运行让手机无限发热（一般核心温度能达到150度）</p><p data-pid="61ZnA3x8">3：xxxxxxxx【教唆别人违法犯罪也属于犯罪，我就不写这么详细了】</p><p data-pid="atvy97eh">总之，酷安老哥技术高超【本意或许只是炫技】，使用这些方法可以做到百分百烧wifi（非常规使用场景，其实就是cpu部分焊脚脱焊导致wifi功能损坏）</p><p data-pid="ym1eVHC1">这个团伙（其实很多个人也这么干，闲鱼大佬不少用这办法挣钱的）规模较大，有点离谱了，小米也不是伞兵，一直在收集证据，法务部胜诉率还是蛮高的。但这不是重点！</p><p data-pid="s-iDhA9T">很多莫名其妙的人把违法犯罪当做验证真理的方法也是挺离谱的，当初苹果主板问题保内凭借小票售后换新【我的iphone4s进水喇叭劈了，直接换新……检测都没检测。】，被部分人用手段各种以旧换新。</p><h2>苹果叫停了部分宽松的售后政策，得利的是这些钻漏洞的“坏人”，受伤害的是全体消费者。现在苹果中国售后变成全行业最拉之一他们负有最大的责任。</h2><p data-pid="6jU8YSpr">还洗，细腻马戏。黑小米黑魔怔了？</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391" data-rawwidth="637" data-rawheight="236" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-ff9539cedc9e615b21fb61eaaed8a8d1_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+张弛有道的回答<br><br><p data-pid="5ZKncWdy">首先，介绍一下小米11怎么百分百烧wifi。</p><p data-pid="-THPhbIt">1：root，获得系统最高权限【类似于iphone越狱，目前全行业只有一加小米root后依然保修。未来就不一定了，参考苹果售后的国内遭遇】删除温控。</p><p data-pid="rK8uuOPD">2：刷入烤机软件。持续运行让手机无限发热（一般核心温度能达到150度）</p><p data-pid="61ZnA3x8">3：xxxxxxxx【教唆别人违法犯罪也属于犯罪，我就不写这么详细了】</p><p data-pid="atvy97eh">总之，酷安老哥技术高超【本意或许只是炫技】，使用这些方法可以做到百分百烧wifi（非常规使用场景，其实就是cpu部分焊脚脱焊导致wifi功能损坏）</p><p data-pid="ym1eVHC1">这个团伙（其实很多个人也这么干，闲鱼大佬不少用这办法挣钱的）规模较大，有点离谱了，小米也不是伞兵，一直在收集证据，法务部胜诉率还是蛮高的。但这不是重点！</p><p data-pid="s-iDhA9T">很多莫名其妙的人把违法犯罪当做验证真理的方法也是挺离谱的，当初苹果主板问题保内凭借小票售后换新【我的iphone4s进水喇叭劈了，直接换新……检测都没检测。】，被部分人用手段各种以旧换新。</p><h2>苹果叫停了部分宽松的售后政策，得利的是这些钻漏洞的“坏人”，受伤害的是全体消费者。现在苹果中国售后变成全行业最拉之一他们负有最大的责任。</h2><p data-pid="6jU8YSpr">还洗，细腻马戏。黑小米黑魔怔了？</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_1440w.jpg?source=b1748391" data-rawwidth="637" data-rawheight="236" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-ff9539cedc9e615b21fb61eaaed8a8d1_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-59e89b321ad39ea94c88ca1c7ad57d02_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
