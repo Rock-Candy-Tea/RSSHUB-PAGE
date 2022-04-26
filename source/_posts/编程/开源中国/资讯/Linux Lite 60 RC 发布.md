@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-86e41144d6de948087cf9d53d838d49
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Linux Lite 是一个基于 Debian 和 Ubuntu 的 Linux 发行版，该发行版通过定制的 Xfce 桌面环境提供了轻量级的桌面体验。它包括一套 Lite 应用程序，使 Linux 新手更容易操作。Linux Lite 的创建是为了让用户从 Windows 到基于 Linux 的操作系统的过渡尽可能顺利。</p> 
+                                                                                            <p>Linux Lite 是一个基于 Debian 和 Ubuntu 的 Linux 发行版，该发行版通过定制的 Xfce 桌面环境提供了轻量级的桌面体验。它包括一套 Lite 应用程序，使 Linux 新手更容易操作。Linux Lite 的创建是为了让用户从 Windows 到基于 Linux 的操作系统的过渡尽可能顺利。</p> 
 <p>Linux Lite 6.0 的代号为 Fluorite，近日该版本发布了 RC 版，正式版将于 2022 年 6 月 1 日发布。</p> 
 <p><img alt height="394" src="https://oscimg.oschina.net/oscnet/up-86e41144d6de948087cf9d53d838d49dbcb.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>Linux 6.0 RC 的更新内容如下**：**</p> 

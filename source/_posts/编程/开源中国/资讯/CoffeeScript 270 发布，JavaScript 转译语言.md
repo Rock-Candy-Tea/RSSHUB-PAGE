@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8544'
+headimg: 'https://picsum.photos/400/300?random=6081'
 author: 开源中国
 comments: false
 date: Tue, 26 Apr 2022 07:42:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8544'
+thumbnail: 'https://picsum.photos/400/300?random=6081'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>CoffeeScript 2.7.0 发布了。CoffeeScript 是一套 JavaScript 转译语言，它会将类似 Ruby 语法的代码编译成 JavaScript，而且大部分结构都相似。CoffeeScript 拥有更严格的语法。</p> 
+                                                                                            <p>CoffeeScript 2.7.0 发布了。CoffeeScript 是一套 JavaScript 转译语言，它会将类似 Ruby 语法的代码编译成 JavaScript，而且大部分结构都相似。CoffeeScript 拥有更严格的语法。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">此版本更新内容包括：</p> 
 <ul> 
  <li>现在支持<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Ftc39%2Fproposal-import-assertions" target="_blank">导入断言语法</a>。这允许像<code>export &#123; version &#125; from './package.json' assert &#123; type: 'json' &#125;</code><span style="background-color:#ffffff; color:#212529"><span> </span></span>这样的语句或像<code>import('./calendar.json', &#123; assert &#123; type: 'json' &#125; &#125;)</code><span style="background-color:#ffffff; color:#212529">这样的表达式。</span></li> 

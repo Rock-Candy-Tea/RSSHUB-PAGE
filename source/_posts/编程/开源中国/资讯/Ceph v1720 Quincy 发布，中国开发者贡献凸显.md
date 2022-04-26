@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3164'
+headimg: 'https://picsum.photos/400/300?random=5971'
 author: 开源中国
 comments: false
 date: Tue, 26 Apr 2022 07:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3164'
+thumbnail: 'https://picsum.photos/400/300?random=5971'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#222222">Ceph v17.2.0 Quincy 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiQLW9cLomavN7Y61ZsPPMg" target="_blank">发布</a>。Quincy<span> </span>是 Ceph 的第 17 个稳定版本</span><span style="background-color:#ffffff; color:#222222">，</span><span style="background-color:#ffffff; color:#222222"><span> </span>它以海绵宝宝的章鱼 </span><span style="background-color:#ffffff; color:#222222">Quincy </span><span style="background-color:#ffffff; color:#222222">触</span><span style="background-color:#ffffff; color:#222222">手</span><span style="background-color:#ffffff; color:#222222">命名，</span><span style="background-color:#ffffff; color:#222222">这是 Ceph Quincy 的第一个稳定版本。</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#222222">Ceph v17.2.0 Quincy 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiQLW9cLomavN7Y61ZsPPMg" target="_blank">发布</a>。Quincy<span> </span>是 Ceph 的第 17 个稳定版本</span><span style="background-color:#ffffff; color:#222222">，</span><span style="background-color:#ffffff; color:#222222"><span> </span>它以海绵宝宝的章鱼 </span><span style="background-color:#ffffff; color:#222222">Quincy </span><span style="background-color:#ffffff; color:#222222">触</span><span style="background-color:#ffffff; color:#222222">手</span><span style="background-color:#ffffff; color:#222222">命名，</span><span style="background-color:#ffffff; color:#222222">这是 Ceph Quincy 的第一个稳定版本。</span></p> 
 <p style="color:#222222; margin-left:0; margin-right:0; text-align:justify"><span style="color:#000000"><strong>相比于 Pacific 版本的大变化有：</strong></span></p> 
 <ul> 
  <li> <p style="margin-left:0; margin-right:0"><span>FileStore在 Quincy 中已被弃用。BlueStore 成为 Ceph 的默认存储引擎。</span></p> </li> 

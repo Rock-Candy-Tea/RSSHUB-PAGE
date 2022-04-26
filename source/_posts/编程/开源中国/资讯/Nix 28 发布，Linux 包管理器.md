@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1462'
+headimg: 'https://picsum.photos/400/300?random=1204'
 author: 开源中国
 comments: false
 date: Tue, 26 Apr 2022 07:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1462'
+thumbnail: 'https://picsum.photos/400/300?random=1204'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Nix 是一个操作系统包管理器。同 RPM、APT 和许多其它的软件包管理系统一样，它可以用来控制软件包的安装。Nix 可以用来管理 NixOS 操作系统中包括 Linux 内核在内的所有部分。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Nix 是一个操作系统包管理器。同 RPM、APT 和许多其它的软件包管理系统一样，它可以用来控制软件包的安装。Nix 可以用来管理 NixOS 操作系统中包括 Linux 内核在内的所有部分。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Nix 2.8 正式发布，更新内容如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>新的实验性命令：<span> </span><code>nix fmt</code>，它将<span> </span><code>formatter.<system></code><span> </span>flake 输出所定义的 formatter 应用于 flake 中的 Nix 表达式。</li> 

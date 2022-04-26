@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9118'
+headimg: 'https://picsum.photos/400/300?random=8619'
 author: 开源中国
 comments: false
 date: Tue, 26 Apr 2022 07:32:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9118'
+thumbnail: 'https://picsum.photos/400/300?random=8619'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="margin-left:0px"><span style="color:#333333">SeaweedFS 是一个简单且高度可扩展的分布式文件系统，主要有两个目标：存储数十亿的文件和快速响应。</span></p> 
+                                                                                            <p style="margin-left:0px"><span style="color:#333333">SeaweedFS 是一个简单且高度可扩展的分布式文件系统，主要有两个目标：存储数十亿的文件和快速响应。</span></p> 
 <p style="margin-left:0px"><span style="color:#333333">目前 </span>SeaweedFS 发布 3.0 版本，此版本删除了编译时不常用的大尺寸库，包括：“elastic、gocdk、sqlite、hdfs”。如果需要，请直接使用 Makefile 编译这些库。其他改动如下：</p> 
 <p><strong>Shell</strong></p> 
 <ul> 
