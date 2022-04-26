@@ -1,0 +1,19 @@
+
+---
+title: '世界知识产权日，盘点 OPPO 的那些专利护城河'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/c1d0be76-ae2c-46de-bbb6-188484414c54.png'
+author: IT 之家
+comments: false
+date: Tue, 26 Apr 2022 10:31:05 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/c1d0be76-ae2c-46de-bbb6-188484414c54.png'
+---
+
+<div>   
+<p data-vmark="4634">每年 4 月 26 日，是“世界知识产权日”，目的是在世界范围内树立尊重知识、崇尚科学和保护知识产权的意识，营造鼓励知识创新的法律环境。</p><p data-vmark="2374">直观了解一个科技企业的研发投入和创新能力，专利数量是最“简单粗暴”的了解方式，每年这个时候，国内科技企业都会秀一波肌肉，而专利大厂的 OPPO 同样也不例外。</p><p style="text-align: center;" data-vmark="a19c"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c1d0be76-ae2c-46de-bbb6-188484414c54.png" w="1440" h="800" title="世界知识产权日，盘点 OPPO 的那些专利护城河" width="1440" height="456" referrerpolicy="no-referrer"></p><p data-vmark="8dd5">近些年来，OPPO 专利产权布局方面持续突破，特别是在诸如 5G、AI、影像、快充等关键专利领域，已经打造出了属于自己的专利护城河，而在 OPPO 的专利池中，已经有相当多的专利落地到了手机等智能终端产品上，为 OPPO 的精品爆款策略、高端化布局提供了强有力的技术支持，也为 OPPO 的全球化市场扩张保驾护航。</p><p data-vmark="e815">据了解，OPPO 在 2014 年正式组建专门的知识产权部。从 2016 年开始，OPPO 专利申请量连年进入全国前 10，2017 年始专利授权量进入全国前 10，2018 年-2021 年连续两年发明专利授权量进入全国前 3。</p><p style="text-align: center;" data-vmark="d35f"><img src="https://img.ithome.com/newsuploadfiles/2022/4/e4181d3a-0cf9-470d-b0a8-cbd254603c2c.png" w="1440" h="387" title="世界知识产权日，盘点 OPPO 的那些专利护城河" width="1440" height="220" referrerpolicy="no-referrer"></p><p data-vmark="239e">△ 2019 年国际 PCT 专利排行 Top10，OPPO 排名第五</p><p data-vmark="22b2">根据世界知识产权组织（WIPO）公布的数据，OPPO 在 2019-2021 连续三年国际 PCT 专利申请排名前十，连续三年排名中国企业申请人第二。</p><p data-vmark="c1a5">2021 年，OPPO 在美国专利授权量排行中位列全球前 50 位。</p><p style="text-align: center;" data-vmark="8dd3"><img src="https://img.ithome.com/newsuploadfiles/2022/4/fb121ebf-a24b-42d4-88c2-c73e81588619.png" w="1418" h="778" title="世界知识产权日，盘点 OPPO 的那些专利护城河" width="1418" height="450" referrerpolicy="no-referrer"></p><p data-vmark="e24c">目前，OPPO 在全球 40 多个国家及区域布局专利。截至 2022 年 3 月 31 日，OPPO 全球专利申请量超过 77000 件，全球授权数量超过 38000 件。其中，发明专利申请数量超过 69000 件，发明专利申请在所有专利申请中占比 90%。</p><p data-vmark="cfb5">不舍成本的研发投入、前瞻性的技术布局以及以“科技为人”的技术创新，让 OPPO 在 5G、AI、影像、闪充等领域积累了丰富的知识产权和专利资产。</p><p data-vmark="b2da">具体到技术领域，在 5G 方面，截至 2022 年 3 月 31 日，OPPO 在全球 30 多个国家和地区布局 5G 通信标准专利，共完成 4600 + 族全球专利申请，并在 ETSI 宣称 2000 + 族 5G 标准专利。</p><p data-vmark="a090">据德国领先研究机构 IPlytics 发布 2021 年全球 5G 标准必要专利宣称数量报告，OPPO 全球排名第 9；OPPO 在 3GPP 提交标准文稿数量累计超过 5000 件。</p><p style="text-align: center;" data-vmark="a624"><img src="https://img.ithome.com/newsuploadfiles/2022/4/39878216-2192-4c50-b2a3-6fd24fba3aa9.png" w="1440" h="1638" title="世界知识产权日，盘点 OPPO 的那些专利护城河" width="1440" height="933" referrerpolicy="no-referrer"></p><p data-vmark="0180">此外，在中国信通院最新发布的《全球 5G 专利活动报告》中，OPPO 持有的有效 5G 全球专利族占比 4.5%，位列全球前十。</p><p data-vmark="ad38">此外，在 AI 领域，截至 2022 年 3 月 31 日，OPPO 在 AI 领域的全球专利申请超过 2650 件；影像专利全球申请 10191 件，授权超过 4258 件；快充领域，OPPO 快充专利全球申请约 3365 件，累计授权约 1866 件，以累计向 40 余家企业开放闪充专利许可，新增 ODM / OEM 类授权厂商 8 家；折叠屏领域，OPPO 折叠手机在全球范围内布局超过 1000 件，其中，OPPO Find N 精工拟椎式铰链设计及水滴形态铰链设计，专利布局超过 200 件。</p><p data-vmark="0cc3">不仅如此，OPPO 以扎实的专列布局和诉讼应对能力维护自身合法权益，保障全球业务安全运营。</p><p data-vmark="548e">OPPO 尊重知识产权并倡导合理收费，另一方面，OPPO 坚决反对专利不合理高价收费，坚决反对以诉讼胁迫被许可人谈判和接受不合理高价许可费的恶意行为。</p><p data-vmark="92f7">自 2020 年以来，OPPO 成功化解来自 Fractus、西门子、Sisvel、夏普等域外专利权人的不合理专利费要求，而 OPPO 在应对夏普、Sisvel 等相关案件中的表现也获得业界高度评价，对于中国法院后续审理同类案件具有巨大的示范和指导作用。值得一提的是，2021 年 4 月，OPPO 与夏普专利诉讼案入选 2020 年深圳市知识产权十大事件。</p><p style="text-align: center;" data-vmark="353a"><img src="https://img.ithome.com/newsuploadfiles/2022/4/6de1993c-ce44-43f4-9d04-132a49c84b06.png" w="924" h="744" title="世界知识产权日，盘点 OPPO 的那些专利护城河" width="924" height="660" referrerpolicy="no-referrer"></p><p data-vmark="71c1">作为全球领先的科技企业，OPPO 向来重视自身的专利积累，不断加强前沿技术的投入和探索，消费者最终享受到这些专利所带来的技术福利，而 OPPO 也实现“科技为人，以善天下”的美好景愿。</p>
+          
+</div>
+            
