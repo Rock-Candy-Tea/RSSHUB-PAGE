@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?v=1650871132431'
 author: 巴哈姆特
 comments: false
-date: 2022-04-25 15:10:33
+date: 2022-04-26 00:43:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?v=1650871132431'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?v=1650871132431" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?v=1650871132431" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -61,7 +61,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG?v=1650871169006" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG?v=1650871169006" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/a2a79c7c59cb7deb6ccb255bb51g1235.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -269,7 +269,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 164.77%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG?v=1650871329644" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG 2x" style="max-width: unset;" title="復仇的半殭屍「里德（リッド）」  配音：武內駿輔" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 164.77%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG?v=1650871329644" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/8e61d117d63c710a45f2d3c4341g12q5.JPG 2x" style="max-width: unset;" title="復仇的半殭屍「里德（リッド）」  配音：武內駿輔" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 復仇的半殭屍「里德（リッド）」<br>
 配音：武內駿輔</figure>
@@ -341,7 +341,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 97.55%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG?v=1650871412499" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG 2x" style="max-width: unset;" title="虛假的救世主「涅普隆（ネブロン）」  配音：三宅健太" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 97.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG?v=1650871412499" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/13/edfc191bc96cf3295f4218aa8a1g12x5.JPG 2x" style="max-width: unset;" title="虛假的救世主「涅普隆（ネブロン）」  配音：三宅健太" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 虛假的救世主「涅普隆（ネブロン）」<br>
 配音：三宅健太</figure>
@@ -442,11 +442,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/91bfbd8687ad23176078fd2dfa1g1225.
 <li>
 遊戲名稱：<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%89%B5%E5%B1%8D%E7%B4%80" target="_blank">創屍紀</a></li>
 <li>
-對應機種：Nintendo Switch / PlayStationR5 /playStationR4 / SteamR / Xbox Series X|S / Xbox One（下載專賣）</li>
+對應機種：Nintendo Switch / PlayStation 5 / PlayStation 4 / Steam / Xbox Series X|S / Xbox One（下載專賣）</li>
 <li>
 遊戲類型：殭屍生存動作遊戲</li>
 <li>
-推出日期：Nintendo Switch / PlayStationR5 /playStationR4 / Xbox Series X|S / Xbox One:2022 年 5 月 19 日、Steam：2022 年 5 月 20 日</li>
+推出日期：Nintendo Switch / PlayStation 5 / PlayStation 4 / Xbox Series X|S / Xbox One:2022 年 5 月 19 日、Steam：2022 年 5 月 20 日</li>
 <li>
 遊戲售價：通常版：2980 日圓（未稅）<br>
 　　　　　限定版：4980 日圓（未稅）</li>

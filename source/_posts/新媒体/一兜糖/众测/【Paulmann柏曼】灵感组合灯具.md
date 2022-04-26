@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202204/18/8764da/bd0887a4dffe9cd6.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2022-04-25 15:11:33
+date: 2022-04-26 00:44:34
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202204/18/8764da/bd0887a4dffe9cd6.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2022.04.25                        <br>【Paulmann柏曼】灵感组合灯具<br>                            数量 ：3<br>                            实际价格 ：4667元<br>                            活动申请中<br>                            264人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202204/18/8764da/bd0887a4dffe9cd6.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.04.25                        <br>【Paulmann柏曼】灵感组合灯具<br>                            数量 ：3<br>                            实际价格 ：4667元<br>                            名单确认中<br>                            265人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202204/18/8764da/bd0887a4dffe9cd6.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
