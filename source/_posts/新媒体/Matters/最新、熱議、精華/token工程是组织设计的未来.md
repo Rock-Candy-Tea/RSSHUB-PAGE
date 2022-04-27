@@ -1,0 +1,20 @@
+
+---
+title: 'token工程是组织设计的未来'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=2060'
+author: Matters
+comments: false
+date: Tue, 26 Apr 2022 11:34:50 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2060'
+---
+
+<div>   
+<h1>组织想象力的失败</h1><p>政府、公司和非营利组织似乎无法应对社会最大的挑战。</p><p>诚然，这些实体在世界上做了很多好事，但它们也存在严重的结构缺陷。政府可能反应迟钝，容易受到特殊利益的影响。非营利组织难以产生有意义的影响，因为他们的慈善支持通常不可靠且难以扩展。企业擅长创新，但越来越多地被金融体系所俘获，将它们视为财富榨取机器。</p><p>简单地更好地管理这些机构并不能解决问题。为了维持公共利益的大规模创新，我们将不得不改变我们组织自己的方式。为此，我们需要新型组织。</p><h1>重新构想区块链上的价值</h1><p>建立这些新组织需要重新考虑有关组织目的和经济价值的一些基本假设。好消息是，我们正处于技术革命的早期阶段，这将帮助我们做到这一点。</p><p>区块链代表了互联网的第三波浪潮——“价值互联网”。这项新技术分散了计算，因此谷歌、亚马逊和摩根大通等中介机构很难充当经济交易的看门人。由此产生的自由不仅仅是公平的竞争环境。它创造了空间来重新定义我们认为有价值的概念。区块链让我们有能力将交易转移到新的经济网络中，这些网络围绕着某种东西组织起来，而不仅仅是为股东带来最大的回报。</p><h1>加速组织设计</h1><p>质疑价值假设的能力是推动其他类型组织目标的巨大杠杆。当与基于区块链的工具结合使用时，该杠杆打开了一组经济“构建块”，从根本上扩展了组织设计的可能性。</p><p>增加的灵活性降低了组织实验的时间和成本，这很重要，因为我们现在没有时间。气候变化和生物多样性崩溃等挑战不会等待人类齐心协力。我们需要进行大量实验来重新调整人类组织的用途，以更好地应对这些危机——我们急需它们。</p><h1>模块化作为新颖性的催化剂</h1><p>模块化是我们这样做的方式。它是迭代设计的非凡力量。通过它，我们将有用的部分组合在一起以创建新功能，而无需每次都重新发明轮子。</p><p>在<a href="https://www.wikiwand.com/en/Endless_Forms_Most_Beautiful_(book)" rel="noopener noreferrer" target="_blank"><em>无尽的最美丽的形式</em></a>中，肖恩·B·卡罗尔教授探索了一个类似乐高的调节基因的古老“工具包”。这个工具包使寒武纪大爆发成为可能——并且有了它，存在的大多数动物的基本体型。快进几亿年，科技也会发生类似的事情。在<a href="https://www.the-vital-edge.com/the-nature-of-technology/" rel="noopener noreferrer" target="_blank"><em>《技术的本质》一书中</em></a>，经济学家布赖恩·亚瑟展示了技术如何通过他称之为“组合进化”的过程从更基本的构建块中出现。将这些块拼接在一起，我们站在巨人的模块上。</p><p>模块化创造了无限的可能性，作为一种新奇的力量，它与进化本身一样强大。</p><h1>区块链模块化</h1><p>模块化适用于区块链中的多个级别：</p><p>代币将各种资产——​​金钱、驾驶执照、汽车所有权、公司股权，甚至艺术品——转化为可以轻松存储在区块链上的虚拟对象。代币代表经济价值，可以通过称为智能合约的基于区块链的软件轻松操纵。</p><p>智能合约的工作方式类似于早期计算平台的软件库和应用程序编程接口 (API)。这些软件开发的模块化方法允许一个程序安全地访问另一个程序中的功能，而无需重新发明轮子。将智能合约放在公共区块链上允许任何人在未经许可的情况下使用它，这进一步扩展了它的模块化。</p><p>下一级区块链模块化混合了代币、智能合约和组织流程。这些“<a href="https://blog.coinbase.com/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10" rel="noopener noreferrer" target="_blank">加密经济原语</a>”用作抽象工作流的可重用模式，因此它们可以在组织之间轻松复制。示例包括<a href="https://www.wikiwand.com/en/Prediction_market" rel="noopener noreferrer" target="_blank">预测市场</a>、<a href="https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7" rel="noopener noreferrer" target="_blank">代币管理的注册表</a>和<a href="https://commonsstack.org/abc" rel="noopener noreferrer" target="_blank">增强的联合曲线</a>。这些构建块利用融合经济资产、工作流和软件的协同作用，进一步放大了区块链的模块化。加密经济学原语使去中心化自治组织 (DAO) 和我们今天甚至无法想象的未来经济协调形式成为可能。</p><h1>代币工程</h1><p>总之，新一波技术模块化正在帮助我们克服当今组织如何创造和识别经济价值的缺陷。但是谁将使用这些新的组织设计构建块？</p><p>“代币工程”是运用区块链模块化的跨学科实践。这是一个结合了软件工程、数学、经济学、机器学习、法律、治理和<a href="https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome" rel="noopener noreferrer" target="_blank">许多其他专业领域的领域</a>。</p><p>在过去的几个月里，我很幸运地参与了我只能形容为社区驱动的代币工程的历史实验。在共同探索加密经济参数数月后，<a href="https://tecommons.org/" rel="noopener noreferrer" target="_blank">Token Engineering Commons</a>确定了一个名为“ <a href="https://forum.tecommons.org/t/commons-upgrade-parameter-runoff-goldilocks-1-bet-for-1-mil-to-advance-token-engineering-127/778" rel="noopener noreferrer" target="_blank">Goldilocks</a> ”的组合（你知道，因为它是<em>正确</em>的）。这种设计为投资者如何通过完全自动化的“<a href="https://medium.com/commonsstack/the-augmented-bonding-curve-part-1-a-web3-way-to-fund-public-goods-7c9d1a871ae2" rel="noopener noreferrer" target="_blank">增强联合曲线”</a>将资金进出我们的组织设定了条款。</p><p>这种协作设计过程让我不仅对代币工程感到乐观，而且完全看好。它向我表明，我们可以利用这个新领域来设计真正为社区的目的和价值服务的组织。</p><h1>打造更美好的未来</h1><p>当然，将这些希望变为现实很重要。像许多早期的工具一样，区块链可以很容易地用于集中财富和权力。风险投资已经在重要的区块链项目中拥有大量股权，这些项目可用于尝试集中控制，就像Web1 和Web.2 一样。</p><p>同样重要的是要注意，令牌工程本身不会产生我们需要的更改。组织工作流程很复杂。它们与许多系统相互作用——包括我们称之为人类的那些神秘的社会生物学系统。这就是为什么我们还需要在治理、社区、文化和专业发展等方面进行投资，仅举几例。</p><p>不过不要搞错，代币工程对于改变我们组织人类的方式至关重要。这些类似乐高的积木将破解定义组织的潜在经济模型和价值流。是的，将需要其他学科，但代币工程是我们将这些其他实践连接到价值互联网的方式。它是人类用来将我们最深刻的价值观和希望注入我们的机器网络的接口。它是我们将通过它编写当前危机的解决方案以及为非凡的新文明奠定基础的接口。</p><pre class="ql-syntax" spellcheck="false">                                                   作者：Gideonro
+                                                   翻译：Hoodrh
+</pre>  
+</div>
+            
