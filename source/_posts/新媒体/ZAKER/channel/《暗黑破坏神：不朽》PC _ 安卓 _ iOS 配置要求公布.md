@@ -1,0 +1,18 @@
+
+---
+title: '《暗黑破坏神：不朽》PC _ 安卓 _ iOS 配置要求公布'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6267e2f18e9f093a79122b60_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 26 Apr 2022 18:07:46 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6267e2f18e9f093a79122b60_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 26 日消息，昨晚，《暗黑破坏神：不朽》官方宣布该作将在<strong> 6 月 2 日上线 iOS 和安卓平台</strong>，并同时开启 PC 端公测。6 月下旬在亚太指定地区开放。</p><p>现在，暴雪官网已经公布了该作的配置要求。</p><p><strong>PC 版（1080p）</strong></p><p>最低 i3 / FX 8100 + 4GB 内存 + GTX 460 / HD6850 / HD 530；推荐 i5 / R5 + 8GB 内存 + GTX 770/ RX 470。</p><p><strong>iOS 版</strong></p><p>iPhone 6s 或更新机型，iOS 11 或更新系统</p><p><strong>安卓版</strong></p><p>骁龙 660 / Exynos 9611 或更新型号，2GB 内存或更高，安卓 5.0 以上</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/6267e2f18e9f093a79122b60_1024.jpg" data-height="540" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6267e2f18e9f093a79122b60_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202204/6267e2f18e9f093a79122b61_1024.jpg" data-height="540" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/6267e2f18e9f093a79122b61_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202204/6267e2f18e9f093a79122b62_1024.jpg" data-height="540" data-width="960" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/6267e2f18e9f093a79122b62_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，<strong>《暗黑破坏神：不朽》是暴雪娱乐与网易联合出品的一款游戏</strong>，官方称不仅传承了经典暗黑画风和恢弘的世界观，还原了畅爽的战斗体验和沉浸的探索乐趣，还针对移动平台，创造了全新的故事剧情和玩法。官方曾多次强调《暗黑破坏神：不朽》是一款<strong>免费游戏</strong>，会免费向所有用户开放。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202204/6266cbfbb15ec06a132ecc9e_1024.jpg" data-height="462" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6266cbfbb15ec06a132ecc9e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202204/6266cbfbb15ec06a132ecc9f_1024.jpg" data-height="462" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/6266cbfbb15ec06a132ecc9f_1024.jpg" referrerpolicy="no-referrer"></div></div>游戏介绍：<p></p><p>《暗黑破坏神：不朽》继承了 " 暗黑 " 系列的独有哥特式风格，<strong>利用 TAA 与 MSAA 两大技术，冒险者们将拥有次世代视听体验</strong>。无论是野外荒废的小村还是宏伟的威斯特玛城，或是人物角色的皮肤纹理、面部彩绘等，每一处都雕琢入微。冒险足迹从宁静的沃桑小镇，到无人的遗忘高塔，再到诡异的夏斯尔沙海，一路的神秘、哥特、复古，更给冒险者们带来移动端上原汁原味的 " 暗黑 " 体验。</p><p>作为 " 暗黑破坏神 " 系列的首款移动端作品，《暗黑破坏神：不朽》为冒险者们准备了丰富的挑战：<strong>地下城、野外首领、上古秘境等均在移动端再现</strong>。无论是击败野外小怪还是挑战上古秘境，都能收获无穷尽的传奇装备、套装、宝石、护身符 ...... 值得一提的是，玩家们还可以为角色自由捏脸，创造出更有个性的冒险者。</p><p>《暗黑破坏神：不朽》中不仅能够和好友并肩作战，也可以相互较量！城镇中自由交流、野外一起挑战强大的首领，还有 " 地狱骨匣 " 等团队地下城、" 永恒纷争 " 等丰富的多人玩法供冒险者们体验，享受随时随地与好友 " 开刷 " 的冒险乐趣。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
