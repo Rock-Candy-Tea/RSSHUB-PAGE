@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 14系列颜色曝光：苹果新配色很诱人'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607415_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 27 Apr 2022 02:08:17 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607415_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f096045607415_1024.jpg" data-height="338" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607415_1024.jpg" referrerpolicy="no-referrer"></div></div>之前有消息称，iPhone 14 和 iPhone 14 Max 将有黑色、白色、蓝色、红色和紫色，而 iPhone 14 Pro 和 iPhone 14 Pro Max 据称将有石墨色、金色、银色和紫色。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f096045607416_1024.jpg" data-height="573" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607416_1024.jpg" referrerpolicy="no-referrer"></div></div>据称，iPhone 14 和 iPhone 14 Pro 的紫色款表面经过独特的表面处理，可以根据光线条件改变色调。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f096045607417_1024.jpg" data-height="525" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607417_1024.jpg" referrerpolicy="no-referrer"></div></div>消息人士透露，iPhone 14 机型将采用新的 True Tone 闪光灯，看起来像 " 一个大圆圈中的小圆圈 "，而目前的设计是在两个独立的半球中包含两个小 LED。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f096045607418_1024.jpg" data-height="530" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607418_1024.jpg" referrerpolicy="no-referrer"></div></div>现在就有达人送出了 iPhone 14 系列紫色的模样，看起来还是很诱人的，不知道是否符合大家的胃口？目前 iPhone 系列的颜色如下：<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f096045607419_1024.jpg" data-height="571" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f096045607419_1024.jpg" referrerpolicy="no-referrer"></div></div>iPhone 13 Pro 和 iPhone 13 Pro Max：苍岭绿、银色、金色、石墨色和远峰蓝色；<p></p><p>iPhone 13 和 iPhone 13 Mini：绿色、粉色、蓝色、午夜色、星光色、红色；</p><p>iPhone 12 Pro 和 iPhone 12 Pro Max：银色、石墨色、金色、海蓝色；</p><p>iPhone 12 和 iPhone 12 Mini：紫色、黑色、白色、红色、绿色、蓝色；</p><p>iPhone 11：白色、黑色、红色、紫色、黄色；</p><p>而最新消息称 iPhone 14 和 iPhone 14 Max 会有白色、黑色、蓝色、红色和紫色这 5 种颜色。紫色是名单上更有趣的颜色，特别是考虑到去年紫色 iPhone 12 受到的赞誉。iPhone 14 Pro 和 iPhone 14 Pro Max 将有银色、石墨色、银色、金色和紫色。</p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202204/6269083b8e9f09604560741a_1024.jpg" data-height="569" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/6269083b8e9f09604560741a_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
