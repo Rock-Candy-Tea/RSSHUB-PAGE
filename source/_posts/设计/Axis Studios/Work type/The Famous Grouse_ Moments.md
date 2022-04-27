@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14215/axistudios_grouse_2.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2022-04-27 09:10:41
+date: 2022-04-27 10:11:20
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14215/axistudios_grouse_2.-full.jpg'
 ---
 
@@ -61,7 +61,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14215/axistudios_grou
                                 </span>
                             </span>
                             <span class="listing-details semni">
-                                    <a href="https://axisstudiosgroup.com/people/ross-gilbert/">Ross Gilbert</a>: 
+                                    Ross Gilbert:
                                 <span class="detail">
                                          CG Supervision
                                 </span>
