@@ -1,0 +1,18 @@
+
+---
+title: '有没有什么办法可以让猫咪多喝水呢？-猫太郎CATTARO的回答：我们首先要知道，在被完全家养以前，猫科动物获取水源的方式，几乎都是从猎物身上获取（猎物含有约60...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-1e9a9bc84bfbd91d94d31f862e5576d9_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 27 Apr 2022 07:57:15 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-1e9a9bc84bfbd91d94d31f862e5576d9_1440w.jpg'
+---
+
+<div>   
+<strong>有没有什么办法可以让猫咪多喝水呢？</strong><br>猫太郎CATTARO的回答<br><p data-pid="GghlaeLX">我们首先要知道，在被完全家养以前，猫科动物获取水源的方式，几乎都是从猎物身上获取（猎物含有约60%-70%的水分），或者是寻找领地范围内更新鲜的水源（流动的水源）。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-1e9a9bc84bfbd91d94d31f862e5576d9_1440w.jpg" data-size="normal" data-rawwidth="176" data-rawheight="178" class="content_image" referrerpolicy="no-referrer"><figcaption>猫：让我喝 我还能喝</figcaption></figure><p data-pid="nhUV8ZKa">所以根据这一特性，总结出一份超实用的骗水大法分享给各位猫咪家长。记得每天帮助猫咪补充水分的摄入哦。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-3deb35d4140f95c896403fd4cea65e25_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic1.zhimg.com/v2-fbc5b32c3a97a1502f8ef5f6172ed358_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-3deb35d4140f95c896403fd4cea65e25_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9659544563a6769bc775b98746fe7a7c_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic1.zhimg.com/v2-8e1dcc2c8a5ce8e9e00bb0c091b542c8_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9659544563a6769bc775b98746fe7a7c_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-86aee1d5b32babba43afd9eca385cacc_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic2.zhimg.com/v2-190530e75bae12ab49ae8d2bd53708a9_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-86aee1d5b32babba43afd9eca385cacc_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-511f19847589cdf0579da7d0754aac1a_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic4.zhimg.com/v2-fcd1bf2857413515b57e56e979f94df3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-511f19847589cdf0579da7d0754aac1a_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c893fa1f07850f34ce5cee6ab513cb66_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic2.zhimg.com/v2-48c32cc04b3dc8b24979a255649b498d_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c893fa1f07850f34ce5cee6ab513cb66_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-39a3640bc3bfaab3107d7902032d5b0e_1440w.jpg" data-caption data-size="normal" data-rawwidth="1242" data-rawheight="1660" data-default-watermark-src="https://pic3.zhimg.com/v2-cd4869d45b196b374596e575155fc2a6_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-39a3640bc3bfaab3107d7902032d5b0e_r.jpg" referrerpolicy="no-referrer"></figure>  
+</div>
+            
