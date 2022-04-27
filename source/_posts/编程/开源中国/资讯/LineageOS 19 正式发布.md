@@ -28,7 +28,6 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0427/073452_CiWo_54306
  <li>编译内核的默认工具链采用 AOSP Clang</li> 
  <li><code>adb_root</code>服务不再与构建类型属性绑定</li> 
 </ul> 
-<p>……</p> 
 <p>新版本还为更多的新设备提供了支持，<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Flineageos.org%2FChangelog-26%2F" target="_blank">详情查看 Changelog</a>。</p> 
 <p>LineageOS 是一个面向智能手机和平板电脑的自由、免费、开源的 Android 系统分支。它是深受欢迎的定制 ROM CyanogenMod 的继任者。</p>
                                         </div>
