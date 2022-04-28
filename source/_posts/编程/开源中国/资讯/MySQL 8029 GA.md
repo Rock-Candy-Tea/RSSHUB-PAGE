@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=637'
+headimg: 'https://picsum.photos/400/300?random=1143'
 author: 开源中国
 comments: false
 date: Thu, 28 Apr 2022 07:39:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=637'
+thumbnail: 'https://picsum.photos/400/300?random=1143'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>MySQL 的最新版本 8.0.29 于 2022 年 4 月 26 日正式发行（GA）。<span>MySQL8.0 发布至今已经历 4 年（2018 年 4 月 19 日 GA），已经进入了标准生命周期的末期，如果你还在继续使用 MySQL 5.7 版本，甚至是 5.6 版本，现在应该认真考虑未来的数据库安全问题。</span></p> 
+                                                                    
+                                                        <p>MySQL 的最新版本 8.0.29 于 2022 年 4 月 26 日正式发行（GA）。<span>MySQL8.0 发布至今已经历 4 年（2018 年 4 月 19 日 GA），已经进入了标准生命周期的末期，如果你还在继续使用 MySQL 5.7 版本，甚至是 5.6 版本，现在应该认真考虑未来的数据库安全问题。</span></p> 
 <p style="color:#222222; margin-left:0; margin-right:0; text-align:left"><span>MySQL 8.0.29 是一个维护版本，在这个版本里面做了大量的缺陷修复以及少数的改进，让我们快速浏览一下。</span></p> 
 <p style="color:#222222; margin-left:0; margin-right:0; text-align:left"><strong>缺陷修复</strong></p> 
 <p style="color:#222222; margin-left:0; margin-right:0; text-align:left">MySQL8.0.29修复了160个缺陷与错误，特别感谢Yuhui Wang和中国移动的Bin Wang，他们为MySQL贡献了两处修复代码。欢迎广大爱好者持续为MySQL提交错误报告和缺陷修复。</p> 

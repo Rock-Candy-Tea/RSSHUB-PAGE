@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1658'
+headimg: 'https://picsum.photos/400/300?random=4512'
 author: 开源中国
 comments: false
 date: Thu, 28 Apr 2022 07:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1658'
+thumbnail: 'https://picsum.photos/400/300?random=4512'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Bitwarden 是一款开源的密码管理服务，使用者可在加密的保管库中储存敏感信息。Bitwarden 平台提供有多种客户端应用程式，包括 Web 版本、桌面应用，浏览器扩展、移动端应用和 CLI 版本等。</p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Bitwarden 是一款开源的密码管理服务，使用者可在加密的保管库中储存敏感信息。Bitwarden 平台提供有多种客户端应用程式，包括 Web 版本、桌面应用，浏览器扩展、移动端应用和 CLI 版本等。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">日前 Bitwarden 更新了 Desktop 1.330、Browser Extension 1.58.0、Mobile 2.18.0、CLI 1.22.1、Directory Connector 2.10.1、Server 1.48.0 和 Web 2.28.0 版本，带来了以下多项更新内容：</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">支持性公告</h3> 
 <blockquote> 

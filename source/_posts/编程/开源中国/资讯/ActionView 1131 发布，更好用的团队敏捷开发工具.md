@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8990'
+headimg: 'https://picsum.photos/400/300?random=4256'
 author: 开源中国
 comments: false
 date: Thu, 28 Apr 2022 07:37:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8990'
+thumbnail: 'https://picsum.photos/400/300?random=4256'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">ActionView 1.13.1 新版本已发布，docker镜像同步发行，新版本做了以下内容的更新：</span></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">ActionView 1.13.1 新版本已发布，docker镜像同步发行，新版本做了以下内容的更新：</span></p> 
 <ol style="list-style-type:decimal; margin-left:0; margin-right:0"> 
  <li>1. Basic认证增加了ldap用户认证；<br> 2. 修复了gantt图列表最后一个问题依赖连线无法显示问题；<br> 3. 修复了问题编辑时图片上传后没有触发内容改变事件；<br> 4. 规范了子问题类型的名字；<br> 5. 文档页面增加了backtop功能；<br> 6. 优化了一些其他小问题； <p> </p> </li> 
 </ol> 

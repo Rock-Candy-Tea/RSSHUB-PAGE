@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9668'
+headimg: 'https://picsum.photos/400/300?random=4505'
 author: 开源中国
 comments: false
 date: Thu, 28 Apr 2022 07:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9668'
+thumbnail: 'https://picsum.photos/400/300?random=4505'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。</p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">目前 Semi Design 发布了 v2.9.1 版本，此版本带来如下更新内容：</p> 
 <ul> 
  <li>【Fix】 

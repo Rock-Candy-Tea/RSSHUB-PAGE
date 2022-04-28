@@ -94,6 +94,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/04/KZPNS5XEIqIZrLWZWCfY.png'
 <p>于是，我们在一线互联网公司产品专家/总监以上职位，且有操盘过丰富大体量项目的候选导师中，不断筛选、寻找最合适的人选。</p>
 <p>最终确保课程知识点都是从底层出发，经多业务场景和案例反复验证抽象出来的，这也是老师们用过往10来年经验，深度总结提炼出来的。</p>
 <p>B端产品很重要的便是具备行业理解力，如果有行业的资深玩家带路，可以极大的缩短对于行业理解的难度，所以我们选取的、老师分别在不同细分领域有深耕经验，分别深耕于电商、新零售、金融、企业信息化、物流、saas、数字化转型等等行业领域。</p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/02/vqHtb0au91L5fL4kn3o9.jpg" alt width="903" height="890" referrerpolicy="no-referrer"></p>
 <p style="text-align: center">如果你想了解本期授课导都来自哪些领域</p>
 <p style="text-align: center">可扫描下方二维码 进行详细咨询</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/fuf3lVua979ssWgK7S8F.jpg" alt width="630" height="252" referrerpolicy="no-referrer"></p>
@@ -113,8 +114,10 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/04/KZPNS5XEIqIZrLWZWCfY.png'
 <p>相对于录播，采用直播模式对于我们来说更耗时耗力，付出的成本也更高，为什么我们还会采用直播模式呢？</p>
 <p>这是因为我们考虑到采用直播模式，老师可以根据市场发展的最新动态来和同学分享最新的案例，同时同学和同学之间，同学和老师之前可以有更直接的互动，听课过程中有任何课程疑问可以当堂解决。</p>
 <p>同时拒绝短期填鸭式的学习，通过90天循序渐进的学习让学员更好的消化课程内容。</p>
-<blockquote><p>以上，就是这门由多位10+年B端产品老司机线上亲授的课程：</p>
-<p>学习内容包含：24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会，帮助你掌握一套B端产品全流程工作方法！</p></blockquote>
+<blockquote>
+<p>以上，就是这门由多位10+年B端产品老司机线上亲授的课程：</p>
+<p>学习内容包含：24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会，帮助你掌握一套B端产品全流程工作方法！</p>
+</blockquote>
 <p>课程自上线以来，已经有1600+名学员完成学习啦，学员都表示这是一门实操性极高的课程，帮助他们系统化搭建B端产品知识体系，从0-1解决面临的产品难题，<strong>实现转岗/跳槽/涨薪/系统提升的目标。</strong></p>
 <p>今天特地为大家申请了少量优惠，想报名学习的小伙伴抓紧时间，前5位报名，课程价格为3099元，超出名额，恢复3499元/每人。</p>
 <p style="text-align: center">扫描下方二维码领取优惠吧！</p>
