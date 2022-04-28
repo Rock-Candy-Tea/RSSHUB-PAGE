@@ -34,9 +34,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-31e9aff8c5e7a4afa3559eeba78fd37
  <p style="margin-left:0; margin-right:0"><img alt src="https://oscimg.oschina.net/oscnet/up-0edb1159260079a9a7c85bc31c2eb811107.png" referrerpolicy="no-referrer"></p> 
  <p style="margin-left:0; margin-right:0">下图显示 .NET MAUI 的应用架构：</p> 
  <p style="margin-left:0; margin-right:0"><img alt src="https://oscimg.oschina.net/oscnet/up-465aab1363e22ca525220d1abfb2e166d47.png" referrerpolicy="no-referrer"></p> 
-</blockquote> 
-<p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>.NET MAUI RC 版本包含什么？</strong></p> 
-<p> </p>
+</blockquote>
                                         </div>
                                       
 </div>

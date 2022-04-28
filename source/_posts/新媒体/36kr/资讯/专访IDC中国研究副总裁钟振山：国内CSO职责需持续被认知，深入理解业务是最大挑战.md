@@ -83,6 +83,6 @@ thumbnail: 'https://img.36krcdn.com/20220428/v2_afb6911708ae4fa8aedf517140fcb936
 <h3>相关阅读：</h3> 
 <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/KjUnQBWaNjN93J3fbLFIgQ"><strong>IDC发布最新版网络安全支出指南：2025年中国网络安全市场规模将超214亿美元</strong></a></p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://36kr.com/p/1460025782127362"><strong>36氪新风向｜300万年薪招不到人，谁能胜任首席安全官？</strong></a></p> 
-<h2><a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/gimzPu55pBv6I_7ua796vw"><strong>关注 | 聚焦数据安全，IDC 2022 CSO全球网络安全峰会落地中国</strong></a></h2>  
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://mp.weixin.qq.com/s/gimzPu55pBv6I_7ua796vw"><strong>关注 | 聚焦数据安全，IDC 2022 CSO全球网络安全峰会落地中国</strong></a></p>  
 </div>
             
