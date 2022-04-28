@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/14/d3a0ac8bf8f5f5920c41a7ea0e1g2xm5.JPG?v=1651122117785'
 author: 巴哈姆特
 comments: false
-date: 2022-04-28 05:39:35
+date: 2022-04-28 06:13:53
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/d3a0ac8bf8f5f5920c41a7ea0e1g2xm5.JPG?v=1651122117785'
 ---
 
@@ -26,7 +26,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/d3a0ac8bf8f5f5920c41a7ea0e1g2xm5.
 <div>
  </div>
 <div>
-　　目前參與 MSI 比賽的各地區代表戰隊（除了 LPL 將以線上形式參賽）開始動身前往韓國，越南代表隊 SGB 昨日抵達韓國、開始進行隔離，而 G2、PSG 今日也抵達韓國，T1 也於今日動身前往釜山。所有戰隊預定 29 日前抵達韓國、進行自我隔離後參加比賽。</div>
+　　目前參與 MSI 比賽的各地區代表戰隊（除了 LPL 代表隊 RNG 將以線上形式參賽）開始動身前往韓國，越南代表隊 SGB 昨日抵達韓國、開始進行隔離，而 G2、PSG 今日也抵達韓國，T1 也於今日動身前往釜山。所有戰隊預定 29 日前抵達韓國、進行自我隔離後參加比賽。</div>
 <div>
  </div>
 <div>
