@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/5a87d53fdde41b99916e048af31g32l5.JPG?v=1651131201553'
 author: 巴哈姆特
 comments: false
-date: 2022-04-28 09:11:34
+date: 2022-04-28 10:11:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/5a87d53fdde41b99916e048af31g32l5.JPG?v=1651131201553'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/5a87d53fdde41b99916e048af31g32l5.
 <div>
 <div>
 <div>
-　　Gameloft 今日公開生活模擬冒險遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A2%E5%85%89%E8%B0%B7" target="_blank">迪士尼夢光谷</a>（Disney Dreamlight Valley）》，主打讓玩家與迪士尼、皮克斯等知名角色一起擁有夢幻生活的體驗，遊戲預定今年夏季展開搶先體驗，並於 2023 年以免費制方式上市。</div>
+　　Gameloft 今日公開生活模擬冒險遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A2%E5%85%89%E8%B0%B7" target="_blank">迪士尼夢光谷</a>（Disney Dreamlight Valley）》，主打讓玩家與迪士尼、皮克斯等知名角色一起擁有夢幻生活的體驗，遊戲預定今年夏季展開搶先體驗，並於 2023 年以基本遊玩免費制方式上市。</div>
 <div>
  </div>
 <div>

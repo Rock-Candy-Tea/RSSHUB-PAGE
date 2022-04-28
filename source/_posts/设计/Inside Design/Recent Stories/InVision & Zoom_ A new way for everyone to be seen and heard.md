@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/invision-zoom-integration/'
 author: Inside Design
 comments: false
-date: 2022-04-28 09:09:58
+date: 2022-04-28 10:10:01
 thumbnail: 'https://www.invisionapp.com/inside-design/invision-zoom-integration/'
 ---
 
