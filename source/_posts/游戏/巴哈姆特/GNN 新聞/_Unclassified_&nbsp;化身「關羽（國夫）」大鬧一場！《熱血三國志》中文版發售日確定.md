@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/05/5bb4e47e6a46c2e1cd277291141g35p5.JPG?v=1651134537557'
 author: 巴哈姆特
 comments: false
-date: 2022-04-28 11:10:16
+date: 2022-04-28 12:17:31
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/5bb4e47e6a46c2e1cd277291141g35p5.JPG?v=1651134537557'
 ---
 
@@ -17,8 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/5bb4e47e6a46c2e1cd277291141g35p5.
 <!-- 新聞內容 -->
 <div>
 <div>
-<div>
-　　亞克系統（ARC SYSTEM WORKS）亞洲分店宣布，《熱血》系列 35 週年最新作品《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%86%B1%E8%A1%80%E4%B8%89%E5%9C%8B%E5%BF%97" target="_blank">熱血三國志</a>》官方中文實體盒裝版將於 2022 年 7 月 21 日（四）上市，並公開遊戲內容「三國英雄錄～赤壁之章～」的詳細資訊。</div>
+　　亞克系統（Arc System Works）亞洲分店宣布，《熱血》系列 35 週年最新作品《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%86%B1%E8%A1%80%E4%B8%89%E5%9C%8B%E5%BF%97" target="_blank">熱血三國志</a>》官方中文實體盒裝版將於 2022 年 7 月 21 日（四）上市，並公開遊戲內容「三國英雄錄～赤壁之章～」的詳細資訊。</div>
 <div>
  </div>
 <div>
@@ -191,9 +190,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/5bb4e47e6a46c2e1cd277291141g35p5.
 <li>
 語言字幕：繁體中文、簡體中文、<span class="text-hightlight"><b>英文</b></span>、韓文（未收錄日文）</li>
 </ul>
-</div>
-<div>
- </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="50130" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">© ARC SYSTEM WORKS</p>
