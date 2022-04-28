@@ -1,0 +1,18 @@
+
+---
+title: '国产类魂单机动作《深沉之火》5月3号开启Steam免费试玩'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/04/28/5bf6a0ec05870e7492c7e9746ddfe9ac/thumb.png'
+author: 小黑盒
+comments: false
+date: Thu, 28 Apr 2022 16:53:14 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/04/28/5bf6a0ec05870e7492c7e9746ddfe9ac/thumb.png'
+---
+
+<div>   
+<p>国产类魂动作单机游戏《深沉之火》即将参加steam“向死而生 屡战屡败游戏节”，5月3号在steam开放免费试玩，搜索游戏即可参与。作为一款类魂游戏，在剧情、难度、画面、地图、战斗上都魂味十足。这款游戏由单人开发完成，喜欢的可以加心愿单支持一下。</p><p><b>《深沉之火》STEAM页面：</b><a href="https://store.steampowered.com/app/1642790/" target="_blank">https://store.steampowered.com/app/1642790/</a></p><p><img class="lazy" data-height="986" src="https://imgheybox.max-c.com/web/2022/04/28/5bf6a0ec05870e7492c7e9746ddfe9ac/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">添加至您的愿望单</h4><h2>游戏剧情——隐藏细节、多结局</h2><p>世界濒临崩溃，时空开始扭曲，家园破碎，王国消亡，复苏的战士在废墟中寻找往日的一切。世界观描写了三个国度，他们彼此对立，纷争不息。你可以选择不同的出身，在十多个氛围各异的场景里探求历史，揭示真相。每一个关卡都有丰富的隐藏元素，别错过任何一处可疑的细节！</p><h2>游戏场景——沉浸探索折磨升级</h2><p>目前游戏游戏非常多的场景，每个场景都有很多的机关、陷阱、隐藏、小怪、BOSS等的设置，每个NPC都有自己的故事，你需要不断的通过试错来探索。暗黑的画风加上有节奏的BGM和音效，沉浸式探索氛围感拉满。</p><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/b3c8ad1cc834563e5c6f1bdfba3be4d4.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">探索未知世界</h4><p>BOSS的设计上，是游戏中最大的特色之一，原创BOSS不管是在造型还是招式上都别具一格，双形态BOSS更是加大了游戏难度，很激动地打完了BOSS，却发现只是打败了其中一种形态，BOSS马上变幻出了更难打的形态，折磨难度升级。</p><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/f347aae40d1907cd999925a9f8051825.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">BOSS发起猛攻</h4><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/d77fed3e340d899d6b5354bf575ea09d.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">BOSS难度高</h4><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/bacb3db120bbfe0201516fbc6500d5fa.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">小怪也可以很拉风</h4><h2>战斗——策略与操作的碰撞</h2><p>游戏的战斗核心，依靠的就是装备、铭火的策略搭配以及精准的操作<br></p><p>拳套、大剑、重斧、法杖、长枪等十余种套装可以在探索过程中的得到，不同的套装有其不同定位与针对效果，取决于对地图的理解以及熟练程度，例如在黑暗的环境中，使用夜视套，能更好的通关。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/04/28/c587100f270ad42d75d2c6a35f54507d/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">套装策略搭配</h4><p>游戏的主要战斗方式就是是普攻、重攻、跳劈等这些，纯靠操作，不像其他游戏一样可以释放技能。但格挡的收益是非常大的，也是主要的战斗手段，普通格挡能大大减少掉血，精准格挡之后更是会触发铭火技能，多次精准格挡还会让BOSS进入虚弱状态，不管是攻击还是格挡，都需根据画面以及音效精准预判BOSS的动作，做出相应的应对。</p><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/425ae11c2ddb089d9fbf7b8ad4e93727.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">精准格挡带来巨大收益</h4><p><img class="lazy" data-height="359" src="https://imgheybox.max-c.com/web/2022/04/28/692f0af527a17844c3761a8a5d520dfc.gif" data-width="727" referrerpolicy="no-referrer"></p><h4 class="img-desc">套装、铭火的搭配以及操作的高要求，让游戏的难度升级</h4><p>当然简单的几段文字概括不了游戏内容长达几十个小时的游戏，喜欢类魂游戏的玩家可以在5月3日加入免费试玩，当然没玩过类似游戏的也可以来尝鲜，也希望能加心愿单支持一下~</p><p><a href="heybox://open_subject" target="_blank">#steam游戏#</a><a href="heybox://open_subject" target="_blank">#类魂#</a><a href="heybox://open_subject" target="_blank">#单机游戏#</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><a href="heybox://open_subject" target="_blank">#国产游戏#</a><a href="heybox://open_subject" target="_blank">#pc游戏#</a><br></p>  
+</div>
+            
