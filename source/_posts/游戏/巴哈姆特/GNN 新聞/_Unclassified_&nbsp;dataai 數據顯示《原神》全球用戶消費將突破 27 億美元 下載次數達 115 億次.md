@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/54/d8c117368cf01dd87e324db0081eyau5.JPG?v=1651115857727'
 author: 巴哈姆特
 comments: false
-date: 2022-04-28 03:37:35
+date: 2022-04-28 04:59:02
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/d8c117368cf01dd87e324db0081eyau5.JPG?v=1651115857727'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/d8c117368cf01dd87e324db0081eyau5.
 <div>
  </div>
 <div>
-　　在變現方面，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》憑藉免費大型 MMORPG 玩法以及轉蛋機制，成為 2021 年 iOS 及 Google Play 用戶消費第二名的作品，同時也在 2022 年第一季排名第一。</div>
+　　在變現方面，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》憑藉免費大型 RPG 玩法以及轉蛋機制，成為 2021 年 iOS 及 Google Play 用戶消費第二名的作品，同時也在 2022 年第一季排名第一。</div>
 <div>
  </div>
 <ul class="bh-grids-img">
