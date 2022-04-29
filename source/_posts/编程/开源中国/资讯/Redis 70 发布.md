@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-cbc85e68c90d75b35341b7b0616a6fa
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="color:#000000">Redis 7.0 现已正式发布，<span style="background-color:#ffffff">该版本已经开发了将近一年，之前经历了三个候选版本。现如今，开发团队认为它已经足够稳定，可以应用于生产。</span></span></p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="color:#000000">Redis 7.0 现已正式发布，<span style="background-color:#ffffff">该版本已经开发了将近一年，之前经历了三个候选版本。现如今，开发团队认为它已经足够稳定，可以应用于生产。</span></span></p> 
 <p style="text-align:start"><span style="background-color:#ffffff"><span style="color:#000000">简而言之，</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fredis.com%2Fblog%2Fredis-7-first-release-candidate%2F" target="_blank">Redis 7.0</a><span style="color:#000000"> 几乎包括了对各个方面的增量改进。其中最值得注意的是 Redis Functions、ACLv2、command introspection 和 Sharded Pub/Sub，它们代表了基于用户反馈和生产经验教训的现有功能的重大演变。</span></span></p> 
 <p style="text-align:start"><img height="145" src="https://oscimg.oschina.net/oscnet/up-cbc85e68c90d75b35341b7b0616a6fa9729.png" width="700" referrerpolicy="no-referrer"></p> 
 <p style="text-align:start"><span style="color:#000000"><span style="background-color:#ffffff">7.0 版添加了近 50 个新命令和选项来支持这种演变并扩展 Redis 的现有功能。例如，位图、列表、集合、排序集合和流数据类型都添加了支持其数据管理用例的功能。此外，缓存语义已扩展为支持 existential 和 comparative modifiers。</span></span></p> 

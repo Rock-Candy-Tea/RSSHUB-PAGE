@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2995'
+headimg: 'https://picsum.photos/400/300?random=94'
 author: 开源中国
 comments: false
 date: Fri, 29 Apr 2022 07:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2995'
+thumbnail: 'https://picsum.photos/400/300?random=94'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#333333">NativeScript 8.2.3 现已发布。NativeScript 使用户能够直接从 JavaScript 访问 native API。目前，该框架为丰富的移动开发提供了 iOS 和 Android 运行时，并可用于多种不同的用例。</span></p> 
+                                                                                            <p><span style="color:#333333">NativeScript 8.2.3 现已发布。NativeScript 使用户能够直接从 JavaScript 访问 native API。目前，该框架为丰富的移动开发提供了 iOS 和 Android 运行时，并可用于多种不同的用例。</span></p> 
 <p style="margin-left:0px; margin-right:0px; text-align:left"><strong>Bug 修复</strong></p> 
 <ul> 
  <li><strong>android：</strong>确保在设置监听器之前创建 android 应用程序 ( <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FNativeScript%2FNativeScript%2Fissues%2F9876" target="_blank">#9876</a> ) ( <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FNativeScript%2FNativeScript%2Fcommit%2F54f454f881204ec2a02ab1695819cf344c70dffe" target="_blank">54f454f</a> )</li> 

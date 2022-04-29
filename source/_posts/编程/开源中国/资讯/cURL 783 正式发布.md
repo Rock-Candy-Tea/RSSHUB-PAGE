@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=8922'
+headimg: 'https://picsum.photos/400/300?random=3294'
 author: 开源中国
 comments: false
 date: Fri, 29 Apr 2022 07:13:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8922'
+thumbnail: 'https://picsum.photos/400/300?random=3294'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>cURL 是一个计算机软件项目，提供一个库（libcurl）和命令行工具（curl），用于使用各种网络协议传输数据。这个名字代表了 "Client URL"。</p> 
+                                                                                            <p>cURL 是一个计算机软件项目，提供一个库（libcurl）和命令行工具（curl），用于使用各种网络协议传输数据。这个名字代表了 "Client URL"。</p> 
 <p>cURL 7.83 正式发布，更新内容如下：</p> 
 <h3>安全修复</h3> 
 <ul> 

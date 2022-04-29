@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-0275c0e621d2882b0fb2569bc219dba
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>基于 Chromium 的 Brave 浏览器已发布 1.38 版本，该版本引入了 <span style="color:#43414e">De-AMP 重定向功能，以及重新设计的 Shields 面板。</span></p> 
+                                                                                            <p>基于 Chromium 的 Brave 浏览器已发布 1.38 版本，该版本引入了 <span style="color:#43414e">De-AMP 重定向功能，以及重新设计的 Shields 面板。</span></p> 
 <h2><span style="color:#43414e">De-AMP 隐私保护</span></h2> 
 <p><span style="color:#43414e">Brave 浏览器认为谷歌的 AMP 功能对用户隐私、安全和体验有害，因此推出了 De-AMP 功能，该功能会试图将 Google 的 AMP 页面重定向倒最初的内容站点。</span></p> 
 <blockquote> 

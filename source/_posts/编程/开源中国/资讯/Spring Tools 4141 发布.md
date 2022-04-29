@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9540'
+headimg: 'https://picsum.photos/400/300?random=6235'
 author: 开源中国
 comments: false
 date: Fri, 29 Apr 2022 07:26:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9540'
+thumbnail: 'https://picsum.photos/400/300?random=6235'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fspring.io%2Fblog%2F2022%2F04%2F26%2Fspring-tools-4-14-1-released" target="_blank">Spring Tools 4.14.1 已发布</a>。<span style="color:#333333">Spring Tools 4 是由 Spring 团队打造的 Spring 开发工具，从零开始构建，融合了现代技术和开发者工具架构。它在单独的进程中运行，从构建之初就考虑到了性能问题，并且支持最新的 Spring 技术，为开发基于 Spring 的企业应用提供世界级支持。同时，全新版本的 Spring Tools 与 IDE 无关，可在各种编码环境中使用，支持 Eclipse、Visual Studio Code 与 Theia。</span></p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fspring.io%2Fblog%2F2022%2F04%2F26%2Fspring-tools-4-14-1-released" target="_blank">Spring Tools 4.14.1 已发布</a>。<span style="color:#333333">Spring Tools 4 是由 Spring 团队打造的 Spring 开发工具，从零开始构建，融合了现代技术和开发者工具架构。它在单独的进程中运行，从构建之初就考虑到了性能问题，并且支持最新的 Spring 技术，为开发基于 Spring 的企业应用提供世界级支持。同时，全新版本的 Spring Tools 与 IDE 无关，可在各种编码环境中使用，支持 Eclipse、Visual Studio Code 与 Theia。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">更新内容包括错误修复和功能增强：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li><em>(Spring Boot)</em> fixed: 使用<code>startupSnapshot</code>代替<code>startup</code> 计时器调用，以避免清除底层数据</li> 

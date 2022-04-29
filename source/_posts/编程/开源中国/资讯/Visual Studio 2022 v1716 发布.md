@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4593'
+headimg: 'https://picsum.photos/400/300?random=2026'
 author: 开源中国
 comments: false
 date: Fri, 29 Apr 2022 07:08:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4593'
+thumbnail: 'https://picsum.photos/400/300?random=2026'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Visual Studio 2022 v17.1.6 正式发布，更新内容如下：</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Visual Studio 2022 v17.1.6 正式发布，更新内容如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>修复了 C++ 编译器（CL.exe）在运行代码分析位值枚举检查时有时会崩溃的问题；</li> 
  <li>修正了 iPhone Sumulator 中的一个严重错误：无法加载文件 "System.Memory"；</li> 
