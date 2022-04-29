@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?v=1651202711282'
 author: 巴哈姆特
 comments: false
-date: 2022-04-29 08:14:02
+date: 2022-04-29 09:10:42
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?v=1651202711282'
 ---
 
@@ -47,7 +47,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?v=1651202711282" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?v=1651202711282" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -87,7 +87,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG?v=1651202716521" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG?v=1651202716521" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/356c6a37f4a4dc19996d502a5a1g3ke5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -135,7 +135,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 55.94%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG?v=1651202726058" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 55.94%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG?v=1651202726058" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/2808fac3d4a1b4f5fcdd89c85b1g3kf5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -177,7 +177,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/cc6b4278bc09dadfbb073ad0181g3kd5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.07%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG?v=1651202733168" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.07%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG?v=1651202733168" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/ddd613f9505f29546d9a9eb5551g3kg5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -275,17 +275,17 @@ Steam</h3>
 <ul>
 <li>
 <span style="color:#000000;"><b>Nintendo Switch</b></span><br>
-於 2021 年 5 月19 日 （四）23:59 前預購或購買本遊戲的玩家。</li>
+於 2022 年 5 月19 日 （四）23:59 前預購或購買本遊戲的玩家。</li>
 </ul>
 <ul>
 <li>
 <span style="color:#000000;"><b>PlayStation 5、PlayStation 4</b></span><br>
-於 2021 年 5 月11 日 （三）23:59 前預購本遊戲的玩家。</li>
+於 2022 年 5 月11 日 （三）23:59 前預購本遊戲的玩家。</li>
 </ul>
 <ul>
 <li>
 <span style="color:#000000;"><b>Steam</b></span><br>
-於 2021 年 5 月20 日 （五）00:59 前預購或購買本遊戲的玩家。</li>
+於 2022 年 5 月20 日 （五）00:59 前預購或購買本遊戲的玩家。</li>
 </ul>
 <div>
  </div>

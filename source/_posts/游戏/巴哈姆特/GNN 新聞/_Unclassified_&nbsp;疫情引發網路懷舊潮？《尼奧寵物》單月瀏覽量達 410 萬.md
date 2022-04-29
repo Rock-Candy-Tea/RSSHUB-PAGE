@@ -1,0 +1,18 @@
+
+---
+title: '_Unclassified_&nbsp;疫情引發網路懷舊潮？《尼奧寵物》單月瀏覽量達 410 萬'
+categories: 
+ - 游戏
+ - 巴哈姆特
+ - GNN 新聞
+headimg: 'https://pbs.twimg.com/media/FRYzzuEWYAY7YFj.jpg'
+author: 巴哈姆特
+comments: false
+date: 2022-04-29 09:10:42
+thumbnail: 'https://pbs.twimg.com/media/FRYzzuEWYAY7YFj.jpg'
+---
+
+<div>   
+　　對八年級生而言，上網遊玩《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》是許多人共同的回憶。這個由 Adobe Flash Player 驅動大量小遊戲的網站，並沒有因為 Adobe 於 2021 年停止服務而就此消失在大眾眼前。根據 <a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.pcgamer.com%2Fneopets-jumps-to-41m-visits-per-month-but-is-now-unsurprisingly-wracked-with-cheaters%2F" target="_blank">PC Gamer 的報導</a>，該網站甚至在近幾個月達到了單月破 410 萬瀏覽量的驚人成績，再創近幾年以來的高峰。<div><br><div align="center"><img src="https://pbs.twimg.com/media/FRYzzuEWYAY7YFj.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div align="left"><br></div><div align="left">　　《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》以上網飼養寵物為核心的玩法，搭配遊玩小遊戲賺取尼奧點數、兌換物品的模式，在 2000 年代初獲得許多青少年的青睞，但隨著網路的發展與遊戲產業的變遷，該網站也逐漸於 2010 年後漸漸沒落。<font size="3">儘管如此，網站本身持續舉辦活動、更新內容，甚至面對 Flash Player 停止支援時也決心改版，讓遊戲得以在 HTML5 環境下重現於玩家眼前，讓其始終維持著一定的熱度。</font></div><div align="left"><font size="3"><br></font></div><div align="left"><font size="3">　　事實上，《</font><a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank"><font size="3">尼奧寵物網</font></a><font size="3">》的玩法提供了玩家較高的黏著度，在</font><a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2021%2F11%2F03%2Farts%2Fdesign%2Fneopets.html" target="_blank"><font size="3">《紐約時報》的專訪</font></a><font size="3">中，玩家便提到了：「儘管我的寵物們只是呈現在螢幕上的幾幅小圖畫，我還是非常地愛他們。」、「就算我的寵物只是在螢幕上的 </font><font size="3">0 </font><font size="3">跟 1組合而成，我也沒辦法放棄他們。」</font></div><div align="left"><font size="3"><br></font></div><div align="center"><img src="https://cdn.vox-cdn.com/thumbor/ohZLuvRkjT5YJooIBpybngcVWog=/0x0:1338x638/1920x0/filters:focal(0x0:1338x638):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22375531/waterfaerie.jpg" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div align="left"><br></div><div align="left">　　然而，已維持 2 年多的 COVID-19 疫情嚴重影響了全球人類的現實生活，這使得網路上開始引發一陣懷舊潮，《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》作為許多人的童年回憶，也理所當然地成為了該懷舊潮的其中一站。根據多家媒體的報導，雖然無法與全盛時期共 2500 萬玩家的數量相比，但該網站在近幾個月創下了單月 410 萬瀏覽人次的成績，已經超越了 2020 年時持續下降的 340 萬人次。</div><div align="left"><br></div><div align="left">　　面對現代遊戲產業的變遷，《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》也順勢推出多種企劃，包括<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.polygon.com%2F22722915%2Fneopets-nft-controversy-noneonfts-metaverse" target="_blank">飽受爭議</a>的 NFT。同時，網站本身也面臨著黑市與作弊者的挑戰。許多玩家回報自己在小遊戲中所創下的高分並不被系統接受，因此無法獲得獎勵。這是因為黑市中的玩家會使用腳本，甚至繞過遊戲本身的機制修改帳號內容，使得《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》必須以較為激進的方式進行整治。</div></div><div align="left"><br></div><div align="left">　　黑市中的駭客在高分無法再讓遊戲提供獎勵以後，轉而將矛頭指向玩家群體。有消息稱駭客已開始盜竊非活躍用戶身上的稀有物品，以維持黑市的運作。目前《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Facg.gamer.com.tw%2FacgDetail.php%3Fs%3D17953" target="_blank">尼奧寵物網</a>》並沒有具體的解決方案。若是對該網站抱有一定懷舊情感的用戶，不妨帶著自己的帳號密碼回歸尼奧世界，看看自己的寵物，也可以多加確認自己的物品是否有被盜竊的問題。</div><br>  
+</div>
+            

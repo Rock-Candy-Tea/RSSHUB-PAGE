@@ -1,0 +1,18 @@
+
+---
+title: '微软 Xbox 苏格兰庆祝 20 周年，推出苏格兰格纹 Xbox 手柄'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f4_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 29 Apr 2022 00:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f4_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 4 月 29 日消息，微软 Xbox 制作了一款苏格兰格纹 Xbox 手柄，以纪念原版 Xbox 在苏格兰推出 20 周年。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f4_1024.jpg" data-height="648" data-width="992" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f4_1024.jpg" referrerpolicy="no-referrer"></div></div>据介绍，该手柄是微软与 Gordon Nicolson Kiltmakers 合作设计的，后者曾设计过苏格兰国家足球队、凯尔特人足球俱乐部和流浪者足球俱乐部的格纹。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f5_1024.jpg" data-height="893" data-width="893" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f5_1024.jpg" referrerpolicy="no-referrer"></div></div>苏格兰格纹 Xbox 手柄由苏格兰最古老的织布厂 Lochcarron 编织而成，格纹使用了五种颜色 —— RV Green、Viv Green、Apple 13、Black 和 White —— 来呼应 Xbox 品牌的官方颜色。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202204/626b8a78b15ec0225420c6f6_1024.jpg" data-height="893" data-width="900" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202204/626b8a78b15ec0225420c6f6_1024.jpg" referrerpolicy="no-referrer"></div></div>Xbox EMEA 社交媒体营销经理 Graeme Boyd 补充说：" 我们很高兴能够以一种有趣、真正苏格兰的方式在苏格兰庆祝 Xbox 周年纪念日。<p></p><p>IT 之家了解到，这款手柄与其他纪念款相同，并不会公开售卖，只能在社交媒体上通过活动获得。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f7_1024.jpg" data-height="896" data-width="897" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f7_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f8_1024.jpg" data-height="895" data-width="893" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f9_1024.jpg" data-height="830" data-width="1244" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6f9_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6fa_1024.jpg" data-height="816" data-width="1255" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202204/626b8a78b15ec0225420c6fa_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
