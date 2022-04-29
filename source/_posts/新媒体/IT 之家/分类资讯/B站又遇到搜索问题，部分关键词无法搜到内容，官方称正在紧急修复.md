@@ -1,0 +1,20 @@
+
+---
+title: 'B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/9d9385ac-30b3-4077-a486-6a626951bbfe.png'
+author: IT 之家
+comments: false
+date: Fri, 29 Apr 2022 05:55:04 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/9d9385ac-30b3-4077-a486-6a626951bbfe.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1749726" rel="nofollow">J土豆</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1769432" rel="nofollow">手搓火球</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1243572" rel="nofollow">natengub</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D264769" rel="nofollow">特別喜歡二哈</a> 的线索投递！</div>
+            <p data-vmark="0271"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 29 日消息，据多位IT之家小伙伴投稿，<span class="accentTextColor">B站哔哩哔哩的搜索功能出现问题</span>，部分关键词无法搜索到内容，影响网页端、客户端等多个平台软件。</p><p style="text-align: center;" data-vmark="5684"><img src="https://img.ithome.com/newsuploadfiles/2022/4/9d9385ac-30b3-4077-a486-6a626951bbfe.png" w="1440" h="625" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" width="1440" height="356" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="c4ea"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/8f84dcc6-5161-423b-a0ce-152fa859bf53.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p style="text-align: center;" data-vmark="cf51"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/ce7e966d-a565-428c-a718-4a956ce1278b.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p style="text-align: center;" data-vmark="89a2"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/9c747a0a-9016-4a2e-88d3-6587c8f2e4a9.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p style="text-align: center;" data-vmark="1e00"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/947e8177-41ca-4289-b256-3a46c379b48f.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p style="text-align: center;" data-vmark="6748"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/1dd1875e-008a-446b-b5e4-d9a88004c61b.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p style="text-align: center;" data-vmark="f173"><span class="post-img-item"><img src="https://qimg.ithome.com/newfiles/2022/4/7ed02312-5f0b-4363-9389-4e94c2a1c476.jpg" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" referrerpolicy="no-referrer"></span></p><p data-vmark="b0f1"><span class="post-img-item">B站官方已在客服页发出通知，<span class="accentTextColor">搜索问题已在核实修复中</span>，大家还请耐心等待吧。</span></p><p data-vmark="e26e"><span class="post-img-item"></span></p><p style="text-align: center;" data-vmark="ddb7"><img src="https://img.ithome.com/newsuploadfiles/2022/4/a5dd1e07-b83e-4800-805e-318390561753.png" w="886" h="204" title="B站又遇到搜索问题，部分关键词无法搜到内容，官方称正在紧急修复" width="886" height="189" referrerpolicy="no-referrer"></p><p data-vmark="cb74"><span class="post-img-item"></span></p><p data-vmark="f9d5"><span class="post-img-item">IT之家了解到，这不是B站的搜索功能第一次出问题。在 </span><span class="accentTextColor">2 月 26 日、3 月 25 日</span><span class="post-img-item">，B站的搜索功能就两次出现了问题，似乎还比较“有规律”，平均约一个月一次。</span></p><p data-vmark="f683">《<a href="https://www.ithome.com/0/604/947.htm" target="_blank">（更新：已修复）B站搜索功能出现问题，官方回应：已在核实修复中</a>》</p><p data-vmark="fd8e">《<a href="https://www.ithome.com/0/609/643.htm" target="_blank">B站搜索崩了，官方回应：已紧急修复完毕</a>》</p>
+          
+</div>
+            
