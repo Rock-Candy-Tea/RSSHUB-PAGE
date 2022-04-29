@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/40/1086338df319d85ec3e2607fa81g3vo5.PNG?v=1651229193489'
 author: 巴哈姆特
 comments: false
-date: 2022-04-29 11:09:25
+date: 2022-04-29 12:16:59
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/1086338df319d85ec3e2607fa81g3vo5.PNG?v=1651229193489'
 ---
 
@@ -31,12 +31,22 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/1086338df319d85ec3e2607fa81g3vo5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 211.61%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG?v=1651229750935" data-srcset="https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG 2x" style="max-width: unset;" title="真好玩董事長 周玄昆" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 211.61%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG?v=1651229750935" data-srcset="https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/75/5f35c4913a7564011dc1b6618d1f0bn5.JPG 2x" style="max-width: unset;" title="真好玩董事長 周玄昆" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 真好玩董事長 周玄昆</figure>
 </li>
 </ul>
 </div>
+<div>
+ </div>
+<h3>
+官方公告<span style="font-size:13px;">（2022/4/29 20:02 補充）</span></h3>
+<div>
+ </div>
+<p class="quote-box">
+<span style="font-size:16px;">　　除感謝各界關心外，真好玩表示，針對媒體報導內容真好玩雖不認同，但基於誠信及資訊公開原則，並尊重司法，將全力配合調查，且目前案件進入司法程序中，恕無法對外界表達任何評論。<br>
+<br>
+　　公司營運一切正常，此案件對於公司業務及財務面皆無影響，且真好玩自研產品《吞食天地 3：放置版》上市表現成績亮眼，至今仍維持高人氣熱度。真好玩全體同仁仍將盡全力經營遊戲市場，提供玩家最好的遊戲服務與內容。更將對全體股東負起最大之責任，確保所有股東之權益。</span></p>
 <div>
  </div>
 <h3>
