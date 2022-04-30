@@ -23,25 +23,25 @@ MOD作者D0M4K0M4近日为《<a target="_blank" href="https://www.3dmgame.com/ga
 作者还公布了这款MOD的部分截图，一起来欣赏一下：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_451955.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_451955.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_294912.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_294912.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_445931.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_445931.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_895389.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_895389.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_335222.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303433_335222.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303434_639864.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303434_639864.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303434_356615.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220430/1651303434_356615.jpg" alt="《黑暗之魂：重制版》画质MOD 所有武器升至4K" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
