@@ -1,0 +1,19 @@
+
+---
+title: '微软称 Win11 开始菜单是充分听取了反馈意见开发的，但用户却不买账'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/4/ae5e8c25-8947-4cd3-9548-e92e31cef851.jpg'
+author: IT 之家
+comments: false
+date: Fri, 29 Apr 2022 14:18:11 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/4/ae5e8c25-8947-4cd3-9548-e92e31cef851.jpg'
+---
+
+<div>   
+<p data-vmark="29b6"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 4 月 29 日消息，Win11 发布已有大半年的时间了，但到目前来看人们对它仍是褒贬不一，而且很多人对这款操作系统的评价都很差。</p><p data-vmark="c8a9">那么，人们为什么这么讨厌 Win11 呢? 从各大社区和反馈中心的声音来看，主要原因还是缺少了很多网友认为很有用的功能以及微软之前一直在没必要的功能和更新上下功夫，尤其是新加的硬件限制。</p><p data-vmark="7edf">此外，Windows 11 的另一个问题是 Win10 中生动有趣、充满交互性的开始菜单消失了，取而代之的却是 Windows 10X 和类似 Android 的静态开始菜单。用户认为它失去了 Windows 7 或 Windows 10 的灵魂，也没有带来任何个性化的功能。</p><p data-vmark="8584">简单地说，Windows 11 开始菜单界面只是一个简单的图标集合，而且默认是随机固定的，不过有一个推荐的活动列表，里面包含了你最近的文件或文档相关活动。</p><p data-vmark="1266" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/ae5e8c25-8947-4cd3-9548-e92e31cef851.jpg" w="696" h="377" alt="Windows 11 开始菜单更新" title="微软称 Win11 开始菜单是充分听取了反馈意见开发的，但用户却不买账" width="696" height="377" referrerpolicy="no-referrer"></p><p data-vmark="74b4">当然，你可以通过“开始”菜单顶部的搜索框或者“所有应用”查找你想要的应用，而且也可以更改图标顺序，添加或删除应用程序，但也就仅此而已了。</p><p data-vmark="2101">微软官方对此表示，Windows 11 不允许您更改开始菜单的大小和对齐方式，因为这会中断 Win11 界面的“流动 / 连贯性”。</p><p data-vmark="37f3">此外，微软现在还向 Win11 预览体验成员发送电子邮件，提醒他们新版“开始菜单”是根据用户之前的反馈构建的。</p><p data-vmark="17af" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/bfea9e58-e8a8-44ff-b243-bfbc1d17ca88.jpg@s_2,w_820,h_634" w="1097" h="848" alt="Windows 11 Start Menu" title="微软称 Win11 开始菜单是充分听取了反馈意见开发的，但用户却不买账" srcset="https://img.ithome.com/newsuploadfiles/2022/4/bfea9e58-e8a8-44ff-b243-bfbc1d17ca88.jpg 2x" width="1097" height="634" referrerpolicy="no-referrer"></p><p data-vmark="f200">通过这封题为《我们如何构建“开始”》的邮件中写道:“Windows 11 的开始菜单围绕着“你”。我们依赖于“你”的反馈来引导我们前行”。邮件中还包含了一个一年前发布的视频链接。恐怕要不是微软的时事通讯，大多数人到今天都不会注意到它。</p><p data-vmark="70c0">“设计 (开始菜单) 的过程是基于（我们对用户的）研究。理解（用户）是一件具有挑战性的事情。你遇到了一个设计问题，但那里却总是存在盲点。设计自己喜欢的东西确实很容易，但这并不一定意味着它对每个人都适用，”微软解释说。</p><p data-vmark="a6a1">微软表示，他们听取了用户的反馈意见，并就“应该从左到中”等问题进行了大量研究。，“应该有一个搜索框和开始吗?”、“是否要设计一个全部应用列表?”</p><p data-vmark="6921">在充分考虑了这些问题之后，微软表示它通过搜索栏、文档和您的应用程序将所有这些结合在一起，从而为大家创造了一种熟悉的“开始”体验。</p><p data-vmark="e8ed" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/f12b9471-6211-40c8-b237-3dcf719ee5ff.jpg@s_2,w_820,h_561" w="1346" h="921" alt="开始菜单设计" title="微软称 Win11 开始菜单是充分听取了反馈意见开发的，但用户却不买账" srcset="https://img.ithome.com/newsuploadfiles/2022/4/f12b9471-6211-40c8-b237-3dcf719ee5ff.jpg 2x" width="1346" height="561" referrerpolicy="no-referrer"></p><p data-vmark="56d4">微软表示:“微软设计师设计的产品符合我们的想法，这给了我们很大的信心，相信我们正走在正确的道路上，正在打造人们真正喜欢的产品。”</p><h2 data-vmark="ad58">用户不同意微软关于开始菜单的说法</h2><p data-vmark="a9a0">然而，很多用户表示不同意这种说辞，大多数人在评论中批评微软开发出了一个无趣的开始菜单，没有任何自定义选项，实在是烦。</p><p data-vmark="c27c">“Windows 10 的开始菜单令人难以置信，因为它提供了许多的可能性，你可以调整图标的大小和分组，设置宽度和高度，并选择菜单中图标的数量，这可以加快我的工作进展。Win11 的开始菜单则非常有限，我是真的要生气啦。”</p><p data-vmark="e2b4">另一名用户回应了上述观点，并补充说，消费者只是想要“个性化的能力”。</p><p data-vmark="c9d9" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/0ea51f37-1272-45e4-8dbd-81d36c91b4d0.gif" w="600" h="338" alt title="微软称 Win11 开始菜单是充分听取了反馈意见开发的，但用户却不买账" width="600" height="338" referrerpolicy="no-referrer"></p><p data-vmark="071a">“Windows 10 的开始菜单并非最好的设计，但至少你可以对其进行更多的个性化设置，并根据需要对其进行调整。现在你有了一个看起来像移动设备的应用抽屉，所以你只能固定 App。然而... 为小部件制作整个菜单有什么意义呢？”，一位沮丧的 Windows 11 用户吐槽道。</p><p data-vmark="3deb">“给我们更多的选择，不要总是随便删除它们或改变用户想要或不想要的东西”。</p>
+          
+</div>
+            
