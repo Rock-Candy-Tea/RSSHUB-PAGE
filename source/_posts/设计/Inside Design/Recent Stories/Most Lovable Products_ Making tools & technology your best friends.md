@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/most-lovable-products-part2/'
 author: Inside Design
 comments: false
-date: 2022-04-30 12:13:58
+date: 2022-04-30 13:18:18
 thumbnail: 'https://www.invisionapp.com/inside-design/most-lovable-products-part2/'
 ---
 
