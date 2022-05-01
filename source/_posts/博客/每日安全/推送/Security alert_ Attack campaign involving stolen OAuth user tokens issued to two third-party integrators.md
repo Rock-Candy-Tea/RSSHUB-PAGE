@@ -5,22 +5,14 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=2089'
+headimg: 'https://picsum.photos/400/300?random=6402'
 author: 每日安全
 comments: false
-date: 2022-05-01 12:16:12
-thumbnail: 'https://picsum.photos/400/300?random=2089'
+date: 2022-05-01 13:20:53
+thumbnail: 'https://picsum.photos/400/300?random=6402'
 ---
 
 <div>   
-<q>GitHub 发表安全公告，有攻击者窃取 GitHub 颁发给第三方的 OAuth，从 GitHub 上下载了很多私有 Repo 的数据</q>
-–
-<cite>
-<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
- Jett
-</a>
-<span class="text-muted"><small>• 2 days ago</small></span>
-</cite>
-  
+Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators  
 </div>
             
