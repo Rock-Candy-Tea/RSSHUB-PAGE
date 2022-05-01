@@ -1,0 +1,18 @@
+
+---
+title: '遛猫是怎样一种体验？-zan的回答：建议，别轻易溜猫，因为它会变野。即使有个缝都想挤出去。 比如会变成这样 _图片_ 然后每天没空带他出去玩就会被喵叫轰炸，还...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-bc382c311588352357bb08c02fc9e075_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 01 May 2022 04:44:22 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-bc382c311588352357bb08c02fc9e075_1440w.jpg'
+---
+
+<div>   
+<strong>遛猫是怎样一种体验？</strong><br>zan的回答<br><p data-pid="Ej2WWsgc">建议，别轻易溜猫，因为它会变野。即使有个缝都想挤出去。</p><p data-pid="FqjU2MMB">比如会变成这样</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-bc382c311588352357bb08c02fc9e075_1440w.jpg" data-rawwidth="1010" data-rawheight="1357" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-82b0f63210922c956cd3c4b3958423d3_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-bc382c311588352357bb08c02fc9e075_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="JvWJSE1M">然后每天没空带他出去玩就会被喵叫轰炸，还要时刻担心纱窗会不会被挠破</p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1504074835718619136" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic3.zhimg.com/v2-a325d5c693f5241f467add6116f49a78.jpeg" data-lens-id="1504074835718619136"><img class="thumbnail" src="https://pic3.zhimg.com/v2-a325d5c693f5241f467add6116f49a78.jpeg" referrerpolicy="no-referrer"><span class="content"><span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1504074835718619136</span></span></span></span></span></a><p data-pid="pEL6w6O7">谁能想到她会从最开始戴绳就会趴着动不了，甚至不吃不喝闹脾气。到现在一看到我拿绳就兴奋地跑到门口喵喵。</p><p data-pid="XaeYU-pN">出了门就不认识你了，教过的指令也不遵守了，只沉浸在自己的世界里。你就得想着法买更贵的能让她听话的零食。</p><p data-pid="lFB3UVh5">不过另一方面，如果得法能大幅度增加主子幸福感，附些我家小猫出去的照片和视频，虽说走不出100米以外的范围，我觉得她倒是很开心。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-990246722faa1af814a6c79ecd91b525_1440w.jpg" data-rawwidth="2000" data-rawheight="1500" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-15fdedd182569f225d35bbd5189a5e9b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-990246722faa1af814a6c79ecd91b525_r.jpg" referrerpolicy="no-referrer"></figure><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1504077345833607168" target="_blank" data-video-id data-video-playable data-name data-poster="https://pic1.zhimg.com/v2-9cc61ae6135fbcc400b3da000a850852.jpeg" data-lens-id="1504077345833607168"><img class="thumbnail" src="https://pic1.zhimg.com/v2-9cc61ae6135fbcc400b3da000a850852.jpeg" referrerpolicy="no-referrer"><span class="content"><span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1504077345833607168</span></span></span></span></span></a><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1504077396978774016" target="_blank" data-video-id data-video-playable data-name data-poster="https://pica.zhimg.com/v2-2c49f6b49d0228c891425c9c36771ab8.jpeg" data-lens-id="1504077396978774016"><img class="thumbnail" src="https://pica.zhimg.com/v2-2c49f6b49d0228c891425c9c36771ab8.jpeg" referrerpolicy="no-referrer"><span class="content"><span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1504077396978774016</span></span></span></span></span></a><p></p>  
+</div>
+            
