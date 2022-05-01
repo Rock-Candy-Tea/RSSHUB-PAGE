@@ -5,23 +5,23 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://img.cls.cn/images/20220501/8a22vbZ5w1.png'
+headimg: 'https://img.cls.cn/images/20220501/JW3QQ35q4F.png'
 author: 财联社
 comments: false
 date: Sun, 01 May 2022 08:06:01 GMT
-thumbnail: 'https://img.cls.cn/images/20220501/8a22vbZ5w1.png'
+thumbnail: 'https://img.cls.cn/images/20220501/JW3QQ35q4F.png'
 ---
 
 <div>   
 <div class="m-b-10"><p><strong>财联社5月1日讯（记者 吴昊）</strong>一季度行情波动低迷，A股成交金额缩量，“怕打开APP、怕打开账户”的用户心智投射在了券商APP月活跃用户人数（MAU）数据上，呈现整体性的下滑。</p>
 <p>易观统计，今年1-3月，券商APP MAUCR10（排名前10的券商APP月活）环比下降2.65%；CR5环比下降1.57%；CR3则环比下降0.76%。华泰证券未延续上季度千亿级MAU规模，降至943.2万。另有银河证券掉出MAU 500万梯队、东莞证券掉出MAU 200万梯队。</p>
-<p><img src="https://img.cls.cn/images/20220501/8a22vbZ5w1.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220501/JW3QQ35q4F.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>从排名座次上看，相较于11至20名而言，MAU排在前10名的券商APP较量相对激烈，其中有2家券商一季度MAU座次上提升，包括广发证券、招商证券；2家券商排名下滑，包括中信建投和中信证券。</p>
 <p>为何一季度券商APP月活量遭遇集体冷却？多位业内人士对记者表示，用户对于券商APP的关注度基本与行情走势基本上呈正相关关系，一位中型券商网络金融部人士表示，“其实很好理解，市场环境低迷后，新股民或者关注市场的人自然也会减少，场内客户也安静了下来。”</p>
 <p>数据层面似乎也间接使人联想到网友流传的段子：只要我不打开APP，股票就不会跌。而另一边，券商也在不断琢磨着如何通过更为丰富的运营形式，弱化用户关注度与行情之间的强正相关关系，这当中，内容运营与社区构建是重要的趋势。</p>
 <p><strong>4家券商APP排名发生轮动</strong></p>
 <p>根据易观统计，华泰证券的涨乐财富通APP在今年一季度的MAU依然保持行业领先优势，以943.2万位居榜首。国泰君安、平安证券以680.7万、625.77万继续企稳MAU 600万梯队，分列第二、三名。</p>
-<p><img src="https://img.cls.cn/images/20220501/vO437AXyYZ.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220501/BHO2333s0n.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>在这之外，MAU超过500万的券商APP还有6个，由高到低依次来自海通证券、方正证券、广发证券、招商证券、中信建投、中信证券。</p>
 <p>环比上季度有所不同的是，银河证券在今年一季度退出MAU 500万梯队，环比减少3.43%至480.52万；东莞证券则退出MAU 200万梯队，环比减少4.42%至195.33万。不过从排名来看，两家券商的座次则保持稳定，仍然分别位居第10和第17名。</p>
 <p>从排名次序来看，排在前10名的券商APP中，有4家座次发生了轮动。</p>
@@ -29,7 +29,7 @@ thumbnail: 'https://img.cls.cn/images/20220501/8a22vbZ5w1.png'
 <p>相应的，也有2家券商位次出现下滑。其中中信证券一季度平均MAU为520.17万，排名环比下滑3个位次，由上季度的第6名下降至第9名；中信建投一季度平均MAU为528.04。排名环比下滑1个位次，由上季度的第7名下降至第8名。</p>
 <p><strong>多重影响下，整体MAU回落</strong></p>
 <p>尽管从整体来看，MAU排在前20名的券商APP基本保持了竞争格局的稳定，但相较于上季度，则能看到排在前20名的券商APP中，仅除国泰君安、平安证券分别实现0.76%、0.11%的环比微增外，其余18家券商APP MAU均出现了不同程度的回落，尤其是在去年12月末，券商APP整体冲上制高点的MAU的映衬下，这种收缩尤为明显。</p>
-<p><img src="https://img.cls.cn/images/20220501/38xXXkhk2I.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><img src="https://img.cls.cn/images/20220501/5UWdV6qpqp.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>这当中，华西证券今年一季度的平均MAU为157.92，环比减少7.39%，在前20中降速居首；安信证券一季度MAU为327.45万，环比减少7.17%；国信证券一季度MAU为330.6万，环比减少6.56%。</p>
 <p>另有银河证券、光大证券、中信证券等3家券商APP一季度MAU环比减少超过5%；中泰证券、方正证券、中信建投、海通证券、招商证券等5家券商APP一季度MAU环比减少超过3%。</p>
 <p>对此，记者咨询的多位专业人士均表示，券商APP在今年一季度MAU的集体下滑，与同期市场环境表现有直接关联，但除此之外，也应当更全方面、多维度地看待这一数据指标。</p>
