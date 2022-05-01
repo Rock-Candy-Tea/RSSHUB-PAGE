@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/trends-product-managers/'
 author: Inside Design
 comments: false
-date: 2022-05-01 03:09:16
+date: 2022-05-01 04:27:34
 thumbnail: 'https://www.invisionapp.com/inside-design/trends-product-managers/'
 ---
 

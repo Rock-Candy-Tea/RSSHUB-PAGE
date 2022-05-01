@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220501/1651366523_7046
 一名前《<a target="_blank" href="https://www.3dmgame.com/games/starfield/">星空</a>》开发者爆料《星空》有着海量的内容，B社有可能会砍掉其中一些才能确保它按时发售。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220501/1651366523_704650.jpg" alt="《星空》“内容过多” B社可能砍掉一些才能按时发售" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220501/1651366523_704650.jpg" alt="《星空》“内容过多” B社可能砍掉一些才能按时发售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 本周早些时候，ResetEra上一名用户Hevy008曝光了《星空》的一些细节。Hevy008称赞了B社的工作环境，他说B社是一个“安全的工作地方”，称游戏总监Todd 
