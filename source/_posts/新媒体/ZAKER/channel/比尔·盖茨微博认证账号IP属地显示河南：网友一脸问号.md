@@ -1,0 +1,18 @@
+
+---
+title: '比尔·盖茨微博认证账号IP属地显示河南：网友一脸问号'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/626f932e8e9f097a844d550e_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 02 May 2022 01:08:32 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/626f932e8e9f097a844d550e_1024.jpg'
+---
+
+<div>   
+<p>日前，微博、抖音、知乎、微信公众号等平台纷纷宣布开启或已经开始 IP 属地展示功能。</p><p>按照平台的初衷，此举旨在更透明底想用户呈现阵势情况，也可在一定程度上遏止冒充当事人、恶意造谣、蹭流量等不良行为。</p><p>不过，属地显示功能上线后，一些知名博主、明星账号的 " 秘密 " 被发现，代运营、冒充老外等情况纷纷被扒出，让人直呼凌乱。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/626f932e8e9f097a844d550e_1024.jpg" data-height="294" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/626f932e8e9f097a844d550e_1024.jpg" referrerpolicy="no-referrer"></div></div>今晚，<strong>有网友发现，比尔</strong><b>·</b><strong>盖茨微博认证账号的 IP 属地为河南</strong>，让人一脸问号，大家猜测这应该是代运营方的归属地在河南所致。毕竟，虽然是认证账号，但盖茨并不精通中文，应该是授权给了国内某公司或机构在帮忙管理。<p></p><p>类似的情况还有苹果 CEO 蒂姆 · 库克（IP 属地：上海）、特斯拉 CEO ElonMusk（IP 属地：北京）等。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202205/626f932e8e9f097a844d550f_1024.jpg" data-height="214" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/626f932e8e9f097a844d550f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/626f932e8e9f097a844d5510_1024.jpg" data-height="413" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/626f932e8e9f097a844d5510_1024.jpg" referrerpolicy="no-referrer"></div></div><b>相关阅读：</b><p></p><p><b>显示 IP 后 " 梅西 " 在上海？网友直呼翻车：" 海外 " 网红纷纷现原形</b></p><p>近日，微博、微信、抖音、小红书、今日头条、知乎等各大图文、视频社交平台都上线了 IP 属地功能，而且强制开启无法关闭，结果不少网红博主的 " 秘密 " 被网友发现，众多网友直呼大型 " 翻车 " 现场。</p><p>那些带你看世界的国外博主，" 人在美国 "" 人在日本 "" 人在乌克兰 " 等实际上 IP 属地都在国内各省，比如 " 小雪梨在日本 "IP 属地为辽宁；" 英国报姐 "IP 属地为山东；" 来酱在东京 "IP 属地显示为上海；" 王药师在英国 "IP 属地为天津 ……</p><p>国内一批网红资讯博主也被暴露在跨地域经营账号，比如 " 北京人的那些事 "IP 属地在湖南，" 乐游成都 "IP 属地在湖南，" 西安吃喝玩乐资讯 "IP 地址也在湖南 …… 果然，宇宙娱乐的尽头在湖南。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/626f932e8e9f097a844d5511_1024.jpg" data-height="1160" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/626f932e8e9f097a844d5511_1024.jpg" referrerpolicy="no-referrer"></div></div>有趣的是，<strong>正在法国巴黎圣日耳曼效力的著名阿根廷足球明星梅西，其微博账号 " 梅西 LeoMessi10" 的 IP 属地，却显示在上海 ……</strong><p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/626f932e8e9f097a844d5512_1024.jpg" data-height="1025" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/626f932e8e9f097a844d5512_1024.jpg" referrerpolicy="no-referrer"></div></div>针对公布 IP 属地的做法，多数网友认为可以有效减少造谣、传谣的内容，打击 " 键盘侠 "，清朗和净化网络环境，也有网友表示以后发表言论会更小心和谨慎。<p></p><p>但也有网友了疑是否会暴露个人隐私，不过<strong>IP 属地不等于 IP，不涉及具体位置。</strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
