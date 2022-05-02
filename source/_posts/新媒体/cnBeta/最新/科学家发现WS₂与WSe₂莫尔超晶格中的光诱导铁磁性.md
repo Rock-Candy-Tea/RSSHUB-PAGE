@@ -1,0 +1,19 @@
+
+---
+title: '科学家发现WS₂与WSe₂莫尔超晶格中的光诱导铁磁性'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0502/120126f0bbf29ea.jpg'
+author: cnBeta
+comments: false
+date: Mon, 02 May 2022 08:52:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0502/120126f0bbf29ea.jpg'
+---
+
+<div>   
+在 2022 年 4 月 20 日发表于《自然》杂志上的一篇文章中，<strong>华盛顿大学与香港大学的科学家们发现，激光可在非磁性材料中触发某种形式的铁磁性。</strong>据悉，这种“磁性”主要体现在电子的行为上。而得益于亚原子粒子所具有的“自旋”特性，其在量子计算领域也具有潜在的应用前景。<br>
+<p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0502/120126f0bbf29ea.jpg" alt="0-1.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（图自：Xi Wang / University of Washington）</p><p>研究人员发现，在被激光的光子照射时，超薄二硒化钨和二硫化钨材料中的电子会朝着相同的方向自旋。</p><p>论文资深合著者之一、来自华盛顿大学物理材料与工程系、兼波音特聘的许晓栋教授指出：</p><blockquote><p>在该系统中，我们基本上可使用光子来控制被困在半导体材料中的电荷的‘基态’特性 —— 比如磁性。</p><p>此外得益于如此精细度的水平控制与电子自旋对齐，该平台还有望在量子模拟领域发挥作用。</p></blockquote><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0502/c53084e51a045c8.jpg" alt="0-2.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">压电响应力显微镜拍摄的二硒化钨堆叠层的顶视图（来自：<a href="https://www.nature.com/articles/s41586-022-04472-z" target="_self">Nature</a>）</p><p>作为该校清洁能源研究所与分子研究所的研究员，许晓栋补充道：“这是为量子计算和其它应用开发某些类型的‘量子比特’而必要的控制水平”。</p><p>香港大学物理学教授 Wang Yao（论文资深合著者）、威斯康星大学物理材料科学与工程教授 Di Xiao（身兼 PNNL 职务）、以及该校分子工程材料中心主任兼化学教授 Daniel Gamelin 也参与了这项研究，其团队致力于为研究结果提供理论支撑。</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/bb72ac7e5d2996a.png" alt="1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 1：WS₂ / WSe₂ 异质双层的莫尔填充依赖</p><p>研究团队选用了超薄的二硒化钨 / 二硫化钨薄片，每层厚度仅相当于三个原子。电子以介于全导电金属和绝缘体之间的速度穿过实验材料，并在光子学和太阳能电池中具有潜在用途。</p><p>有趣的是，研究人员将两层叠成所谓的“莫尔超晶格”—— 这是一种由重复单元组成的堆叠结构，且超晶格能够将激子保持在适当的位置，因而这种堆叠薄片可作为量子物理学和材料研究的强大平台。</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/976df41278a360d.png" alt="2.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 2：在 v  = -1/3 填充附近观察到的光致铁磁性</p><p>所谓“激子”特指成对受激的电子、以及与之相关的正电荷，科学家们可测量它们在不同超晶格配置中的性质与行为变化。在研究材料内激子特性时，他们惊奇地在正常非磁性材料内发现了关键的光诱导铁磁性。</p><p>激光提供的光子，会在激光束路径内“激发”激子，而这些激子在其它电子之间引发了一种长程相关性 —— 都朝着同一方向自旋！</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/689bfa7df9c253c.png" alt="3.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 3：稀空穴气中的光致铁磁性</p><p>许表示：这就像是超晶格中的激子开始了与空间分离电子的“对话”，然后电子通过激子建立了交互作用，从而形成了具有对其自旋特性的所谓“有序状态”。</p><p>据悉，作为铁等材料的固有磁性方式，我们无法在常规状态下的二硒化钨和二硫化钨上看到。然而莫尔超晶格中的每个重复单元，本质上都可视作一个“捕获”电子自旋的量子点。</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/d6bfc56b5de5fba.png" alt="4.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">研究配图 - 4：使用光激发功率和填充因子调整磁态</p><p>能够相互“交谈”的被困电子自旋，奠定了一种量子比特的基础。作为量子计算机的基本单元，它可利用量子力学的独特特性开展计算。</p><p>此外在 2021 年 11 月 25 日发表于《科学》杂志的另一篇论文中，许与合著者也介绍过由超薄的（扭曲二维）三碘化铬形成的莫尔超晶格中的磁特性。</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/a3eb4bff4234720.png" alt="5.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">截图（来自：<a href="https://www.science.org/doi/10.1126/science.abj7478" target="_self">Science</a>）</p><p>与二硒化钨和二硫化钨不同的是，三碘化铬是一种固有磁性材料（即使是单层原子片），而堆叠的碘化铬层又形成了交替的磁畴。</p><p>其中一面具有铁磁性（拥有相同方向的自旋排列），另一面则是反铁磁性的（超晶格相邻层之间指向相反、且基本互相抵消）。</p><p><img src="https://static.cnbetacdn.com/article/2022/0502/f3cabf4e58ea0b6.png" alt="6.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">截图（来自：<a href="https://www.nature.com/articles/s41586-022-04472-z" target="_self">Nature</a>）</p><p>最后，许晓栋表示新研究还阐明了材料结构与其磁性之间的关系，或有助于推动计算、数据存储和其它领域的未来发展。</p><p>有关这项研究的详情，已经发表在 2022 年 4 月 20 日出版的《自然》期刊上，原标题为《Light-induced ferromagnetism in moiré superlattices》。</p>   
+</div>
+            
