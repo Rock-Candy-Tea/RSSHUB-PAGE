@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/best-tech-design-conferences/'
 author: Inside Design
 comments: false
-date: 2022-05-02 03:16:57
+date: 2022-05-02 04:43:12
 thumbnail: 'https://www.invisionapp.com/inside-design/best-tech-design-conferences/'
 ---
 
