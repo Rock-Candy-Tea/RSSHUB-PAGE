@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/96/ece3307d4618b08a2d087b84a01g4m85.JPG?v=1651581375557'
 author: 巴哈姆特
 comments: false
-date: 2022-05-03 13:33:26
+date: 2022-05-03 14:09:45
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/96/ece3307d4618b08a2d087b84a01g4m85.JPG?v=1651581375557'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/96/ece3307d4618b08a2d087b84a01g4m85.
 <div>
  </div>
 <div>
-　　這個事件發生在 Virtus.pro 與 Mind Games 的比賽，當比賽暫停時，可以明顯看到 Pure 在小地圖劃上了 Z 字符號，隨後他的隊友發現、快速地藉由塗鴉希望能掩蓋那個符號。</div>
+　　這個事件發生在 Virtus.pro 與陣中有俄羅斯、白俄羅斯與烏克蘭選手的戰隊 Mind Games 比賽，當比賽暫停時，可以明顯看到 Pure 在小地圖劃上了 Z 字符號，隨後他的隊友發現、快速地藉由塗鴉希望能掩蓋那個符號。</div>
 <div>
  </div>
 <div>
