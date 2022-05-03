@@ -1,0 +1,18 @@
+
+---
+title: '基于 Flink 构建实时数仓场景化实践'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=2778'
+author: 开发者头条
+comments: false
+date: 2022-05-03 02:57:25
+thumbnail: 'https://picsum.photos/400/300?random=2778'
+---
+
+<div>   
+基于 Flink 构建实时数仓场景化实践  
+</div>
+            
