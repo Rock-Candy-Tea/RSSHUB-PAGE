@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/bb110e6ef8922d6ee73310e8a91g4af5.JPG?v=1651556148131'
 author: 巴哈姆特
 comments: false
-date: 2022-05-03 12:19:01
+date: 2022-05-03 13:33:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/bb110e6ef8922d6ee73310e8a91g4af5.JPG?v=1651556148131'
 ---
 
@@ -74,7 +74,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/bb110e6ef8922d6ee73310e8a91g4af5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Thymesia%EF%BC%9A%E8%A8%98%E6%86%B6%E9%82%8A%E5%A2%83" target="_blank">Thymesia：記憶邊境</a>》今日起至 5 月 10 日凌晨在 Steam 開放全新試玩版本，研發團隊也預告將於本週陸續公開關於遊戲的更多消息。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Thymesia%EF%BC%9A%E8%A8%98%E6%86%B6%E9%82%8A%E5%A2%83" target="_blank">Thymesia：記憶邊境</a>》今日起至 5 月 10 日凌晨在 Steam 開放全新試玩版本（5 月 9 日晚上 12 點整結束，試玩版本也會在那時候下架），研發團隊也預告將於本週陸續公開關於遊戲的更多消息。</div>
 <div>
  </div>
 <div>
