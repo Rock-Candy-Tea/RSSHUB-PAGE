@@ -1,0 +1,19 @@
+
+---
+title: 'AV-C最新测试发现Microsoft Defender对系统性能影响较大'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0503/76500d9a04b79a0.jpg'
+author: cnBeta
+comments: false
+date: Tue, 03 May 2022 11:55:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0503/76500d9a04b79a0.jpg'
+---
+
+<div>   
+也许我们可以说，Microsoft Defender最近的日子并不好过。几天前，有报道称Defender for Endpoint在客户的Windows 10系统上造成各种问题。<strong>而现在，又有一条坏消息传出，测试结果显示，微软的内置反恶意软件产品会对配置不佳的计算机上的Windows系统造成严重性能影响。</strong><br>
+<p><a href="https://static.cnbetacdn.com/article/2022/0503/76500d9a04b79a0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0503/76500d9a04b79a0.jpg" title alt="1651573716_av-comparatives_final_rating_system_performance_may_2022.jpg" referrerpolicy="no-referrer"></a></p><p>在AV-C的评级中，Defender勉强能够获得"标准"评级，因为它在评估中与Total Defense Anti-Virus一起排在倒数第二。本次测试主要面向以下反恶意软件产品进行：</p><ul style="list-style-type: disc;" class=" list-paddingleft-2"><li><p>Avast Free Antivirus 22.3</p></li><li><p>AVG Free Antivirus 22.3</p></li><li><p>Avira Prime 1.1</p></li><li><p>Bitdefender Internet Security 26.0</p></li><li><p>ESET Internet Security 15.1</p></li><li><p>G Data Total Security 25.5</p></li><li><p>K7 Total Security 16.0</p></li><li><p>Kaspersky Internet Security 21.3</p></li><li><p>Malwarebytes Premium 4.5</p></li><li><p>McAfee Total Protection 25.5</p></li><li><p>Microsoft Defender 4.18</p></li><li><p>NortonLifeLock Norton 360 Deluxe 22.22</p></li><li><p>Panda Free Antivirus 21.01</p></li><li><p>TotalAV Antivirus Pro 5.16</p></li><li><p>Total Defense Essential Antivirus 13.0</p></li><li><p>Trend Micro Internet Security 17.7</p></li><li><p>VIPRE Advanced Security 11.0</p></li></ul><p>实际测试是使用最新的<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 10 21H2 64位系统进行的，该系统配有<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>Core-i3、4GB内存和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a>。i3和4GB内存是用来模拟典型的低端电脑，这些电脑一般受反病毒程序的影响最大。</p><ul style="list-style-type: disc;" class=" list-paddingleft-2"><li><p>文件复制</p></li><li><p>压缩/解压缩</p></li><li><p>安装/卸载应用程序--使用静默安装模式</p></li><li><p>启动应用程序--<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a><a data-link="1" href="https://microsoft.pvxt.net/P0JMe" target="_blank">Office</a>（Word、Excel、PowerPoint）和Adobe Acrobat Reader</p></li><li><p>下载文件</p></li><li><p>浏览网站--使用Google浏览器</p></li></ul><p>在上述测试中得到的总分数被称为"AV-C分数"。除了上面列出的实际测试外，还运行了PC Mark 10专业测试套件的合成基准测试。</p><p>以下是所有产品在测试中的表现。上边的图片显示了AV-C的表现，下边的图片显示了总分，其中也包括PC Mark的分数。</p><p><a href="https://static.cnbetacdn.com/article/2022/0503/bab6fff66625b23.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0503/bab6fff66625b23.jpg" title alt="1651575133_av-c_score_april_2022_performance_impact.jpg" referrerpolicy="no-referrer"></a><a href="https://static.cnbetacdn.com/article/2022/0503/3307a3437c52fe9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0503/3307a3437c52fe9.jpg" title alt="1651575127_total_impact_score_of_april_2022_performance_impact_test_by_av-comparatives.jpg" referrerpolicy="no-referrer"></a></p><p>这一栏基本上代表了所获得的总分与190分的满分有多大差距。因此，影响分数越大，反恶意软件程序对测试系统的性能影响就越大。例如，如果我们以Microsoft Defender为例，它的影响得分是24.6，这意味着它的得分比190分的满分少24.6分，即165.4分。</p><p>您可以在这里阅读AV-Comparatives网站的原始报告文本:</p><p><a href="https://www.av-comparatives.org/tests/performance-test-april-2022/" _src="https://www.av-comparatives.org/tests/performance-test-april-2022/" target="_blank">https://www.av-comparatives.org/tests/performance-test-april-2022/</a><br></p>   
+</div>
+            
