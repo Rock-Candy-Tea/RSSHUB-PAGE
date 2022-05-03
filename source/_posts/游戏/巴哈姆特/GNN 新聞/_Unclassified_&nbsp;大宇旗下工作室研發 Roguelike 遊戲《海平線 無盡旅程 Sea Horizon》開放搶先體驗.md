@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?v=1651554180765'
 author: 巴哈姆特
 comments: false
-date: 2022-05-03 07:10:29
+date: 2022-05-03 08:13:25
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?v=1651554180765'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?v=1651554180765" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?v=1651554180765" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -70,7 +70,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG?v=1651554250569" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG 2x" style="max-width: unset;" title="全新角色「薩滿」擁有強大的 AOE 技能" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG?v=1651554250569" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/cd2126ab5ef9f5831168787f1e1g4aa5.JPG 2x" style="max-width: unset;" title="全新角色「薩滿」擁有強大的 AOE 技能" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 全新角色「薩滿」擁有強大的 AOE 技能</figure>
 </li>
@@ -93,7 +93,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG?v=1651554242652" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG 2x" style="max-width: unset;" title="搶先體驗版將新增薩滿、祭司等 5 個角色" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG?v=1651554242652" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/2ff8800bfecdcb9f2d908c1ac91g4a95.JPG 2x" style="max-width: unset;" title="搶先體驗版將新增薩滿、祭司等 5 個角色" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 搶先體驗版將新增薩滿、祭司等 5 個角色</figure>
 </li>
@@ -120,7 +120,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG?v=1651554271269" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG 2x" style="max-width: unset;" title="所有地圖將隨機生成，每趟冒險都是全新的體驗" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG?v=1651554271269" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/7f34d632a4979c544e675ca7181g4a75.JPG 2x" style="max-width: unset;" title="所有地圖將隨機生成，每趟冒險都是全新的體驗" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 所有地圖將隨機生成，每趟冒險都是全新的體驗</figure>
 </li>
@@ -138,7 +138,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/4bbd665d0cc28d7394a1eb41b61g4a65.
  </div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG?v=1651554311753" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG 2x" style="max-width: unset;" title="面對全新 Boss 需要採取不同戰略" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG?v=1651554311753" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/6197231120bc2961c33062190b1g4a85.JPG 2x" style="max-width: unset;" title="面對全新 Boss 需要採取不同戰略" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 面對全新 Boss 需要採取不同戰略</figure>
 </li>
