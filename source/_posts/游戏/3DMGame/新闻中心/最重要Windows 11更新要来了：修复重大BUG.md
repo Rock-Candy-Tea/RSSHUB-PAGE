@@ -21,7 +21,7 @@ Windows 11 Build 22610编译版本发布之后，微软已在该系统新预览�
 目前微软已经向Dev和Beta通道推送了一个更新，其中包含了大量的改进。不过在RTM与正式推送期间，我们还有望见到更多重大更新与改进。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220503/1651546091_859863.jpg" alt="最重要Windows 11更新要来了：修复重大BUG" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220503/1651546091_859863.jpg" alt="最重要Windows 11更新要来了：修复重大BUG" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Windows Latest 指出，当前 Windows 11 22H2 预览属于 Nickel 
@@ -40,7 +40,7 @@ Windows 11的首次更新还待回了拖放支持，以及在“开始”菜单�
 22H2会带来较视觉风格/Bug修复更多的小改进。至于这个周年更新的确切发布日期，也许会在8月或更晚。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220503/1651546099_448172.jpg" alt="最重要Windows 11更新要来了：修复重大BUG" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220503/1651546099_448172.jpg" alt="最重要Windows 11更新要来了：修复重大BUG" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
