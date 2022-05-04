@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/70d29bc7a7d9f85e6b0d9da56b145cd3.png'
         <strong>尚德药缘</strong><br>
         靶向癌症干细胞创新药物研发商<br>
         C轮 / 数亿人民币 / 1651389624<br>
-        投资方: 恒健控股、创谷投资
+        投资方: 国中创投-国家中小企业发展基金、恒健控股、创谷投资
         
 </div>
             
