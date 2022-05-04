@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/36/7360350e407ddadee48ea8a6771g5185.JPG?v=1651651651226'
 author: 巴哈姆特
 comments: false
-date: 2022-05-04 08:13:44
+date: 2022-05-04 09:10:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/7360350e407ddadee48ea8a6771g5185.JPG?v=1651651651226'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/36/7360350e407ddadee48ea8a6771g5185.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　由 Coconut Island Games 發行的現實主義模擬遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%AD%E5%9C%8B%E5%BC%8F%E5%AE%B6%E9%95%B7" target="_blank">中國式家長</a>》近日已於 Google Play 商店開放預先註冊。</div>
+　　由中國研發團隊墨魚玩遊戲研發，Coconut Island Games 發行的現實主義模擬遊戲《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%AD%E5%9C%8B%E5%BC%8F%E5%AE%B6%E9%95%B7" target="_blank">中國式家長</a>》近日已於 Google Play 商店開放預先註冊。</div>
 <div>
  </div>
 <div>

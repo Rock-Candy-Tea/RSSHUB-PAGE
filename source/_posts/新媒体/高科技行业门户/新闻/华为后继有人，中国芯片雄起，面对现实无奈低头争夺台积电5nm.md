@@ -1,0 +1,19 @@
+
+---
+title: '华为后继有人，中国芯片雄起，面对现实无奈低头争夺台积电5nm'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202205/01104035236022.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 04 May 2022 02:27:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202205/01104035236022.jpg'
+---
+
+<div>   
+<article><p style="text-indent: 2em; text-align: left;">据媒体报道指，新年以来，中国芯片的发展达到新阶段，涌现一大批技术领先的国产芯片，它们纷纷给台积电投单，争夺台积电的5nm工艺产能，显示出经过两年时间的发展，国产芯片正在积极替代华为留下的空缺，带领国产芯片崛起。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">一、中国芯片大举增加对台积电的投单量</span></strong></p><p style="text-indent: 2em; text-align: left;">据统计数据显示今年Q1中国大陆芯片企业给台积电贡献的营收猛增八成多，从2021年的6％提高到11％，采用的工艺多数都是台积电当下的6nm、5nm先进工艺，显示出国产芯片在犹豫了一年多时间之后，无可选择之下还是只能选择台积电。</p><p style="text-indent: 2em; text-align: left;">以华为海思主要从事的手机芯片为例，当下逐渐取代华为海思的紫光展锐，2021年的手机芯片出货量同比增长百倍，市场份额增至11％，它就大举采用台积电6nm工艺生产芯片，以较强的性能和优秀的功耗表现获得了中国手机企业的青睐，今年Q1进一步加大了对台积电的下单量。</p><p style="text-indent: 2em; text-align: left;">中兴通信是中国第二大、全球前四大通信设备商，中兴通信也在大举增加7nm、5nm的基站芯片，因为先进工艺制程有助于降低中兴通信的5G基站功耗，而中国大陆当前仍然在继续大举建设5G基站。</p><p style="text-indent: 2em; text-align: left;">国产手机四强之中的小米、OPPO、vivo等都认识到了研发自主芯片的重要性，当下也在积极推进芯片研发，其中OPPO研发的马里亚纳X芯片就采用了台积电的6nm工艺，据悉这几家手机企业未来会有更多芯片推出，而手机所用的芯片都需要高性能、低功耗，它们选择台积电的先进工艺是必然的。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">除此之外，当下正加速发展的自动驾驶、AI芯片为了进一步增强性能，也在加速采用更先进工艺，这些芯片行业已成为中国芯片产业的希望，它们甚至有望赶超欧美，更是只能选择拥有先进工艺制程的台积电。</span></p><p style="text-indent: 2em; text-align: left;"><strong>二、诸多压力迫使中国芯片不得不选择台积电</strong></p><p style="text-indent: 2em; text-align: left;">2020年9月15日之后台积电无法再为华为代工生产芯片，由此中国大陆的芯片企业都产生了疑虑，它们担忧过于依赖台积电可能会重蹈华为的覆辙，因此一度大幅缩短对台积电的下单量，它们为台积电贡献的营收也从22％急速下降至6％。</p><p style="text-indent: 2em; text-align: left;">中国大陆的芯片企业在减少了对台积电的投单量之后，将订单转交给中芯国际等中国大陆芯片制造企业，由此中芯国际等大陆芯片制造企业的业绩激增，中芯国际公布的业绩显示2021年营收增长29．7％，净利润倍增－－同比增长147．7％，净利润率达到30％，可见中国大陆芯片企业大举增加对中芯国际的投单量后让中芯国际赚得盆满钵满。</p><p style="text-indent: 2em; text-align: left;">然而中芯国际当下的最先进工艺制程不过是14nm，远远无法与台积电当下量产的5nm工艺相比，今年下半年台积电更将投产3nm工艺 ，中芯国际的先进工艺制程差距将进一步被拉远；同时中芯国际的代工价格也不实惠，从中芯国际的业绩可以看到，伴随着全球芯片代工价格的上涨，中芯国际也在跟随大涨。</p><p style="text-indent: 2em; text-align: left;">另外国际芯片行业的竞争，也在迫使中国大陆芯片企业必须采用更先进的工艺，自动驾驶、AI等新兴技术领域的发展可谓一日千里，如果中国大陆的芯片企业在先进工艺方面落后，将可能进一步导致中国芯片企业在全球处于不利地位。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202205/01104035236022.jpg" alt="华为后继有人，中国芯片雄起，面对现实无奈低头争夺台积电5nm" title="华为后继有人，中国芯片雄起，面对现实无奈低头争夺台积电5nm" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">自动驾驶、AI芯片行业的领先者无疑是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-NVIDIA.HTM" target="_blank" title="NVIDIA">NVIDIA</a></span>，NVIDIA本来就有领先优势，再有<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>的先进工艺助力，让NVIDIA的领先优势日益稳固，作为后来者的<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E4%B8%AD%E5%9B%BD%E8%8A%AF.HTM" target="_blank" title="中国芯">中国芯</a></span>片只有加速追赶，然而<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85.HTM" target="_blank" title="中芯国际">中芯国际</a></span>等中国大陆芯片制造企业的芯片制造工艺实在与台积电差距太远了。</p><p style="text-indent: 2em; text-align: left;">于是在经过一年多时间的犹豫之后，诸多中国芯片企业最终还是不得不向现实妥协，再度向台积电大举投单，以求依靠台积电的先进工艺帮助它们加速追赶国际芯片同行，让台积电成为大赢家。</p></article><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : <span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>后继有人，中国芯片雄起，面对现实无奈低头争夺台积电5nm</span></p> 
+  
+</div>
+            
