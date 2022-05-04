@@ -1,0 +1,18 @@
+
+---
+title: 'steam向死而生游戏节，精选十款折扣游戏推荐'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/367520_sIVyD.jpg'
+author: 小黑盒
+comments: false
+date: Wed, 04 May 2022 08:52:08 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/367520_sIVyD.jpg'
+---
+
+<div>   
+<p>上期稿件推荐了一些肉鸽游戏供新人入坑，这期来说几个打折的好游戏</p><p>上期稿件那几个叫我出涩涩游戏推荐的，说出了就给我充电，你们粗来，这种东西真的能讲吗，我怕号无了<span data-emoji="cube_喷水" class="hb-emoji"></span></p><p>————————————————————————————</p><blockquote><p>本期包含以下游戏</p><p>空洞骑士</p><p>死亡细胞</p><p>杀戮尖塔</p><p>noita</p><p>挺进地牢</p><p>赤痕：夜之仪式</p><p>星战绝地：陨落的武士团</p><p>仁王</p><p>仁王2</p><p>只狼</p></blockquote><p>————————————————————————————</p><p><img data-gameid="367520" src="https://cdn.max-c.com/heybox/game/header/367520_sIVyD.jpg" referrerpolicy="no-referrer"></p><p>首先是新史低的空洞骑士啦，精美的画风，可爱的虫虫，不错的剧情，还有那要了命的难度，反正我这个手残玩起来是痛并快乐着</p><p>话说空洞骑士新史低了是不是意味着丝之鸽要出来了<span data-emoji="cube_滑稽" class="hb-emoji"></span></p><p><img data-gameid="588650" src="https://cdn.max-c.com/heybox/game/header/588650_ALIaT.jpg" referrerpolicy="no-referrer"></p><p>尽管不是史低但是游戏还是相当好玩的，很棒的打击感，和丰富的武器可选，就是剧情略显薄弱，以及刷久了没有新内容比较乏味，不过我本来就是来爽的剧情就是加分项</p><p><img data-gameid="646570" src="https://cdn.max-c.com/heybox/game/header/646570_Givz5.jpg" referrerpolicy="no-referrer"></p><p>卡牌肉鸽真神，无论是摸鱼开两把还是打法时间都是不错的选择，支持创意工坊有非常丰富的第三方卡组可以游玩</p><p><img data-gameid="881100" src="https://cdn.max-c.com/heybox/game/header/881100_gcMzJ.jpg" referrerpolicy="no-referrer"></p><p>比较好玩的魔法题材游戏，元素组合起来会有意想不到的效果，死法一次比一次绚丽，同样支持创意工坊可以游玩第三方的道具</p><p><img data-gameid="311690" src="https://cdn.max-c.com/heybox/game/header/311690_r0Bs3.jpg" referrerpolicy="no-referrer"></p><p>也是老肉鸽游戏了，我总觉得元气骑士借鉴了他，难度变态但是非常好玩</p><p><img data-gameid="692850" src="https://cdn.max-c.com/heybox/game/header/692850_kWCnh.jpg" referrerpolicy="no-referrer"></p><p>与其说是恶魔城精神续作不如说就是恶魔城正统续作，恶魔城的味道很重，3D地图和模型制作精良，立绘好看，还有漂亮的小姐姐可以看，很棒</p><p><img data-gameid="1172380" src="https://cdn.max-c.com/heybox/game/header/1172380_D9N3m.jpg" referrerpolicy="no-referrer"></p><p>虽然很多人诟病地图不行引导太差，但是我觉得这是星战题材改编成游戏做的最好的一个了，解密确实拉垮但是看看故事剧情还是不错的</p><p><img data-gameid="485510" src="https://cdn.max-c.com/heybox/game/header/485510_3vCwA.jpg" referrerpolicy="no-referrer"></p><p><img data-gameid="1325200" src="https://cdn.max-c.com/heybox/game/header/1325200_KdJof.jpg" referrerpolicy="no-referrer"></p><p>一二两作放在一起说了，一作epic送过，我个人还是蛮喜欢这种日本武士题材游戏的，游戏的怪物和BOSS表现力真的很强很有压迫感</p><p>仁王不是类魂，更像是动作RPG，用魂的思维玩只会觉得堆怪堆数值，为了难而难</p><p>当年和黑魂血源作为PS4吧萌新入坑三部曲，如今就剩血源没上pc端了<span data-emoji="cube_哭泣" class="hb-emoji"></span></p><p><img data-gameid="814380" src="https://cdn.max-c.com/heybox/game/header/814380_Wqt1y.jpg" referrerpolicy="no-referrer"></p><p>只狼也很棒，作为面向大众的类魂还是成功的，当然也成功的吸引了一批打不过就骂太难的圈外人，打铁还是蛮好玩的，玩熟了之后就可以整一些花活偷袭boss，游戏的剧情也很棒，武士守护主子的设定很带感</p><p>————————————————————————————</p><p>本期推荐就这些，想玩肉鸽游戏的可以看看我上期的推荐，我就不过多讲了</p><p>如果可以的话请点赞充电多多支持我，感谢大家<span data-emoji="cube_感动" class="hb-emoji"></span></p><p><a href="heybox://open_subject" target="_blank">#火眼金睛逛大促第三期#</a>        <a href="heybox://open_subject" target="_blank">#steam游戏#</a>       <a href="heybox://open_subject" target="_blank">#游戏推荐#</a>      <a href="heybox://open_subject" target="_blank">#单机游戏#</a>     <a href="heybox://open_subject" target="_blank">#pc游戏#</a>    <a href="heybox://open_subject" target="_blank">#死亡细胞#</a>   <a href="heybox://open_subject" target="_blank">#空洞骑士#</a>  <a href="heybox://open_subject" target="_blank">#杀戮尖塔#</a> <br></p><p><a href="heybox://open_subject" target="_blank">#星球大战#</a>   <a href="heybox://open_subject" target="_blank">#仁王2#</a>  <a href="heybox://open_subject" target="_blank">#只狼#</a> <br></p>  
+</div>
+            
