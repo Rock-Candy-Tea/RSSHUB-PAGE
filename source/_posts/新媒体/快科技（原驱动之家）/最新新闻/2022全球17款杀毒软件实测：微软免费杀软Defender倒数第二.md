@@ -38,7 +38,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220504/S027815fd-42bf-4291-bea9-e47
 <p>AV-Comparatives的评测除了AV-C杀毒相关的评分之外，还有PCMark分数，模拟杀软对性能的影响，两个分数总和有190分，评分与之差距越小就说明综合能力更好。</p>
 <p><span style="color:#ff0000;"><strong>微软的defender吃亏之处就在杀毒能力上，68分的水平很一般，而PCMark分数还不错，综合下来倒数第二。</strong></span></p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220504/2bd6201d-5c7a-4d2a-8e1e-877ff1a49b8f.jpg" target="_blank"><img alt="2022全球17款杀毒软件实测：微软免费杀软Defender倒数第二" h="484" src="https://img1.mydrivers.com/img/20220504/S2bd6201d-5c7a-4d2a-8e1e-877ff1a49b8f.jpg" style="border:black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
-<p>不过名词虽然不太好看，但微软defender是免费软件，而且跟系统集成，对大部分人来说选择它也没啥不好的。</p>
+<p>不过名次虽然不太好看，但微软defender是免费软件，而且跟系统集成，对大部分人来说选择它也没啥不好的。</p>
 <p style="text-align: center"><img alt="2022全球17款杀毒软件实测：微软免费杀软Defender倒数第二" h="331" src="https://img1.mydrivers.com/img/20220504/a0fb3fe9-c3a2-4bf7-95aa-018120d6c1e6.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></p>
 
            

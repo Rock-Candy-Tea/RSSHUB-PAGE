@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/10/95d3d0004180ec4bb86dfbd5351g50i5.JPG?v=1651650347173'
 author: 巴哈姆特
 comments: false
-date: 2022-05-04 12:18:46
+date: 2022-05-04 13:33:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/95d3d0004180ec4bb86dfbd5351g50i5.JPG?v=1651650347173'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/95d3d0004180ec4bb86dfbd5351g50i5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E6%B2%99+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">波斯王子：時之沙 重製版</a>》是 2003 年 10 月推出的經典動作冒險遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E7%A0%82" target="_blank">波斯王子：時之砂</a>》配合現代標準重新製作的版本，包含內容與系統都配合現代標準重建與更新，讓玩家再次以波斯王子的身分展開旅程，重溫以時間之沙逆轉、加速、凍結和減緩時間來戰鬥與解謎，從背信棄義的維齊爾手中拯救自己的王國。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E6%B2%99+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">波斯王子：時之沙 重製版</a>》是 2003 年 10 月推出的經典動作冒險遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E7%A0%82" target="_blank">波斯王子：時之砂</a>》配合現代標準重新製作的版本，包含內容與系統都配合現代標準重建與更新。讓玩家再次以波斯王子的身分展開旅程，重溫以時間之沙逆轉、加速、凍結和減緩時間來戰鬥與解謎，從背信棄義的維齊爾手中拯救自己的王國。</div>
 <div>
  </div>
 <div>
@@ -41,11 +41,55 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/95d3d0004180ec4bb86dfbd5351g50i5.
 <div>
  </div>
 <div>
+<div class="banner-container">
+<div class="gnn-slick-banner-horizontal-1651669933866 header-banner ">
+<div class="header-banner-main center slider banner-horizontal">
+<a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/add0d67b60d4f47dba7663445c19uay5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/add0d67b60d4f47dba7663445c19uay5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/add0d67b60d4f47dba7663445c19uay5.JPG 2x" referrerpolicy="no-referrer">
+</a><a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/3ff2e10e5a75695ab80d1b77a119uaz5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/3ff2e10e5a75695ab80d1b77a119uaz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/3ff2e10e5a75695ab80d1b77a119uaz5.JPG 2x" referrerpolicy="no-referrer">
+</a><a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/90c7287e64ddac5e81a3dee67a19ub05.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/90c7287e64ddac5e81a3dee67a19ub05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/96/90c7287e64ddac5e81a3dee67a19ub05.JPG 2x" referrerpolicy="no-referrer">
+</a><a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/1ffc335cdd6345fd504592c6d119ub15.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/1ffc335cdd6345fd504592c6d119ub15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/97/1ffc335cdd6345fd504592c6d119ub15.JPG 2x" referrerpolicy="no-referrer">
+</a><a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/3414ca93375bd41e26b00271cd19ub25.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/3414ca93375bd41e26b00271cd19ub25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/3414ca93375bd41e26b00271cd19ub25.JPG 2x" referrerpolicy="no-referrer">
+</a><a href="javascript:;">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/84400dd498c01d65737fc6665819ub45.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/84400dd498c01d65737fc6665819ub45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/84400dd498c01d65737fc6665819ub45.JPG 2x" referrerpolicy="no-referrer">
+</a>
+</div>
+<div class="slider-nav-block products-slider-scroll-area">
+<div class="slider-nav products-slider-items-area horizontal-nav">
+<div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/94/add0d67b60d4f47dba7663445c19uay5.JPG" referrerpolicy="no-referrer">
+</div><div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/95/3ff2e10e5a75695ab80d1b77a119uaz5.JPG" referrerpolicy="no-referrer">
+</div><div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/96/90c7287e64ddac5e81a3dee67a19ub05.JPG" referrerpolicy="no-referrer">
+</div><div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/97/1ffc335cdd6345fd504592c6d119ub15.JPG" referrerpolicy="no-referrer">
+</div><div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/98/3414ca93375bd41e26b00271cd19ub25.JPG" referrerpolicy="no-referrer">
+</div><div class="products-items-content-block">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/00/84400dd498c01d65737fc6665819ub45.JPG" referrerpolicy="no-referrer">
+</div>
+</div>
+</div>
+<div class="slider-count" data-length="6">
+<span class="slider-count-span">1/6</span>
+</div>
+</div>
+</div>
+
+</div>
+<div>
+ </div>
+<div>
 　　遊戲最初由 Ubisoft 位於印度浦那與孟買的兩家工作室主導開發，原定 2021 年 1 月 21 日推出，之後宣布延期至同年 3 月 18 日。雖然官方後續沒有再次宣布延期的消息，但遊戲並未如期上市，一路拖延至今。</div>
 <div>
  </div>
 <div>
-　　時隔一年多，如今官方終於宣布，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E6%B2%99+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">波斯王子：時之沙 重製版</a>》的開發工作將改由《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%99%82%E4%B9%8B%E6%B2%99" target="_blank">時之沙</a>》三部曲起源的 Ubisoft 蒙特婁工作室接手主導開發。會在 Ubisoft 浦那與孟買工作室所奠定的開發基礎上，花費必要的時間檢視並重組遊戲的規模，並在準備萬全之際，將這款歷久不衰經典作品的最佳重製版遊戲體驗帶給玩家。</div>
+　　時隔一年多，如今官方終於宣布，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B3%A2%E6%96%AF%E7%8E%8B%E5%AD%90%EF%BC%9A%E6%99%82%E4%B9%8B%E6%B2%99+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">波斯王子：時之沙 重製版</a>》的開發工作將改由《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%99%82%E4%B9%8B%E6%B2%99" target="_blank">時之沙</a>》三部曲起源的 Ubisoft 蒙特婁工作室接手主導開發。會在 Ubisoft 浦那與孟買工作室所奠定的開發基礎上，花費必要的時間檢視並重組遊戲的規模。並在準備萬全之際，將這款歷久不衰經典作品的最佳重製版遊戲體驗帶給玩家。</div>
 <div>
  </div>
 <div>
