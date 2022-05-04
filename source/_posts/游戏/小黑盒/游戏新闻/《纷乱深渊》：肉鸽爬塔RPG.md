@@ -1,0 +1,18 @@
+
+---
+title: '《纷乱深渊》：肉鸽爬塔RPG'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/628770_sryvk.jpg'
+author: 小黑盒
+comments: false
+date: Wed, 04 May 2022 00:51:27 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/628770_sryvk.jpg'
+---
+
+<div>   
+<h3>一． 前言</h3><p>Hello大家好哇！这里是阿叉，这期为大家带来评测的游戏是《纷乱深渊》。近期steam游戏开启了肉鸽游戏大促，最近可能会继续为大家带来几款可玩性高的肉鸽游戏的介绍，欢迎关注哈！</p><p><img data-gameid="628770" src="https://cdn.max-c.com/heybox/game/header/628770_sryvk.jpg" referrerpolicy="no-referrer"></p><p>《纷乱深渊》是一款由ImpactGameworks开发的肉鸽回合制日式RPG游戏。光是听到这三个词条，我的肝已经开始隐隐作痛了。制作人表示，希望致敬超任黄金年代JRPG。整体游玩下来，本作并没有对某一部作品的大规模借鉴，而是巧妙地借助游戏设计，音效以及16bit的画面表现，向玩家展示了一个充满古典风味的JRPG。至于这股风味是否在今天仍然历久弥新，香醇四溢，就看诸位玩家自己的口味了。</p><p><img class="lazy" data-height="936" src="https://imgheybox.max-c.com/web/2022/05/03/b10b461c96002ad7b389c32c86336dd9/thumb.png" data-width="1918" referrerpolicy="no-referrer"></p><p><br></p><hr><p><br></p><h3>二． 经典日式RPG</h3><p>在游戏中，玩家将选择一个职业，在纷乱深渊之中进行探索和发现。在一个生命轮回中，玩家会接取任务，在随机生成的地牢中自由探索。深渊分为若干大关卡，每个关卡风格各异，怪物种类也各不相同，给玩家截然不同的视觉体验。</p><p><img class="lazy" data-height="934" src="https://imgheybox.max-c.com/web/2022/05/03/733ad2dbd88148621fff2fecba0ea06d/thumb.png" data-width="1913" referrerpolicy="no-referrer"></p><p>怪物在地图中随机生成，不断刷新，并且随着流程的推进，怪物的难度也逐渐增加。战斗部分为回合制，如果操作得当，玩家可以精巧地控制自己的行动点数，巧妙地放怪物风筝，游走于刀剑之上。但是由于纷乱深渊的战斗数量极多，而且时间通常较短，笔者在游玩时通常没那么多仔细的考虑，只会躲一躲怪物有范围标识的技能，整体的战斗体验更类似于伪即时制。</p><p><img class="lazy" data-height="940" src="https://imgheybox.max-c.com/web/2022/05/03/53c0079fd285cef0db871572dd7008c1/thumb.png" data-width="1917" referrerpolicy="no-referrer"></p><p>同时，经典RPG游戏中的各种要素一应俱全，玩家有五种能力，补给，各种词条属性的装备，甚至还有宠物和召唤物。数目繁多，目不暇给的物品缺乏足够的说明和引导。设计者试图让玩家在一次次的尝试逐渐学习这些词条的含义和搭配，这就使得本作前期的游戏体验不佳，新手容易在各种词条中迷茫，这也是我觉得本作有待提高的地方。而当玩家熟悉了职业的技能，构筑了自己的装备build后，战斗的体验会顺滑许多。</p><p>在Rougulike方面，我认为纷乱深渊还有更多可以探索的地方。正如我前边所说，玩家每条生命的新手期相对无聊，乐趣较少。而开发者为了使得过度更加平滑，宽宏大量的把死亡的惩罚降到非常低，在普通难度下死亡，只会掉落部分金币和经验，身上的装备甚至都不会掉，你只需要刷刷级再去挑战即可。因此，本作的肉鸽要素主要体现在随机生成的装备和地图上，而这些东西，只要玩家肯多打一些怪物，迟早都能得到。所以在整体的游玩体验上，本作不同轮回之间的游戏体验差异主要基于角色性能，更类似于“为了体验不同性能的角色而开的多周目”。打个比方，就好像是老头环一周目用法师玩通了，二周目尝试近战莽夫一样。肉鸽要素本身在其中所起的作用并不明显。</p><p><br></p><p><img class="lazy" data-height="null" src="https://imgheybox.max-c.com/web/2022/05/03/5855a3039cb128ce3c5707d04d051273/thumb.png" data-width="null" referrerpolicy="no-referrer"></p><hr><p><br></p><p><b>三． 所谓致敬</b><br></p><p>在本作的标题中，开发者非常“勇”的写上了致敬超任黄金年代JRPG。下面咱们来聊聊本作中致敬的表现。</p><p>正如我前面所提到的，玩家在游戏中的体验总体是偏向RPG的，但是我总觉得少了点味道。到底是什么味道呢？就是任务线带来的引导。为了方便玩家探索，游戏为玩家设置了基地，你可以在这里接取任务，培养宠物，购买物品，甚至种树。但是任务上整体缺乏设计和层次，大都是简单的去某地杀某个怪物，玩家对角色没有剧情上的代入感。</p><p><img class="lazy" data-height="936" src="https://imgheybox.max-c.com/web/2022/05/03/c0b24c74ec4cf903622a9b9340191132/thumb.png" data-width="1918" referrerpolicy="no-referrer"></p><p>我的理解中，制作组是希望在肉鸽和JRPG的天平上拿捏住平衡，兼顾两者的游玩体验。但是肉鸽带来的随机性削弱了在一个周目中玩家所能接收到的引导，使得主线剧情不那么有趣，21层的战斗也很难传达一个足够吸引人的故事。而另一方面，JRPG带有的装备，技能等升级要素，让随机生成的奖励种类花样繁多，但是也限制了在不同周目之间的流程中玩家所能感受到的差异化体验。</p><p><img class="lazy" data-height="937" src="https://imgheybox.max-c.com/web/2022/05/03/8f135bcae446d4d3dbc4547820bd9331/thumb.png" data-width="1919" referrerpolicy="no-referrer"></p><p>最后聊一聊本作的画面表现。作为一部致敬的作品，纷乱深渊在画风上采取了16bit风格，但是对各种人物和物品的建模做出了大规模的精细化，使得其更具区别度。但是整体画面在今天看来不能算是强项。基于当今玩家电脑的性能，其实开发组可以更大胆些，采用32bit甚至更加高精度的画面。而且迷宫探索时，大部分地图不可见，屏幕上一大片的黑色区域也影响观感。</p><p><b>四． 总结</b></p><p>最后总结，《纷乱深渊》这部作品很好的继承了JRPG的传统味道，并在将其与rouguelike要素融合的道路上做出了一大步探索。游戏虽然小品，但是毕竟定价也不高啊，不能要求过多是不是。喜欢JRPG,喜欢肉鸽游戏，或者是单纯喜欢库存加一的玩家，推荐尝试一下这款游戏。</p><p> </p><p><img class="lazy" data-height="930" src="https://imgheybox.max-c.com/web/2022/05/03/4d87aed94f96f80a26571c3e0f262a0f/thumb.png" data-width="1917" referrerpolicy="no-referrer"></p>  
+</div>
+            
