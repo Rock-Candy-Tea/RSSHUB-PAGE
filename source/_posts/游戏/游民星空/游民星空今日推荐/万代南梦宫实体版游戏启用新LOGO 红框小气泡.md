@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 游民星空
  - 游民星空今日推荐
-headimg: 'https://picsum.photos/400/300?random=6359'
+headimg: 'https://picsum.photos/400/300?random=3170'
 author: 游民星空
 comments: false
 date: Thu, 05 May 2022 11:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6359'
+thumbnail: 'https://picsum.photos/400/300?random=3170'
 ---
 
 <div>   
-今日据新浪游戏消息，万代南梦宫实体游戏右下角的商标已变为最新版。  
+近日有国外网友购买后发现，万代南梦宫实体游戏右下角的商标已变为最新版LOGO。  
 </div>
             
