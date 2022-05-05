@@ -1,0 +1,110 @@
+
+---
+title: '高端大气的谷歌AI，学术黑暗的_名利场_'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://img.36krcdn.com/20220505/v2_551549b1d98c42bc905bca049d525d70_img_000'
+author: 36kr
+comments: false
+date: Thu, 05 May 2022 02:34:13 GMT
+thumbnail: 'https://img.36krcdn.com/20220505/v2_551549b1d98c42bc905bca049d525d70_img_000'
+---
+
+<div>   
+<p><span style="letter-spacing: 0px;"></span></p> 
+<p>在美国学术圈，种种围绕论文发表的黑暗事情并不少见。一些人为了逃避这种学术黑暗，加上科技公司抛出的高薪橄榄枝，选择加入工业界，跳槽谷歌这样的科技大公司。然而令人没想到的是：就连谷歌居然也叛变了，也成为了 AI 学术界的一个黑暗角落。</p> 
+<p>根据《纽约时报》独家报道：谷歌在今年3月低调开除了一位 AI 研究员，因为他长期以来都和自己的同事们对着干，对公司发表的高知名度论文横加质疑批判。</p> 
+<p>Google AI 在去年6月发表论文A Graph Placement Methodology for Fast Chip Design，提出采用 EdgeGNN 强化学习算法设计一些芯片组件的能力已经超过了人类。这篇论文（以下简称“芯片论文”）刊登于《自然》，在业界影响力极大，并且谷歌 AI 事业的总负责人 Jeff Dean 也是作者之一。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_551549b1d98c42bc905bca049d525d70_img_000" referrerpolicy="no-referrer"></p> 
+<p>而这位研究员 Satrajit Chatterjee 对于芯片论文心存疑虑，所以率领了一支队伍写了一篇论文（简称为“驳斥论文”），试图证伪前述论文中的一些重要的宣称。</p> 
+<p><strong>然而根据四位匿名谷歌员工透露的情况，就在这篇驳斥论文已经写完的时候，公司先是拒绝了发布，然后很快就将 Chatterjee 开除出了公司。</strong></p> 
+<p>“我们对驳斥论文里面提出的一些宣称进行了严格的检查，最终认定它未达到我们的发表标准。”谷歌研究部门副总裁 Zoubin Ghahramani 对《纽约时报》表示。</p> 
+<p>Chatterjee 似乎也已经退出了 AI 研究的一线岗位，加入了一家风投公司（未经本人证实)。</p> 
+<h2 label="一级标题" style><strong>除名作者、封口威胁：谷歌学术竟也如此黑暗？</strong></h2> 
+<p>事情经过大概是这样的：</p> 
+<p>在前述的芯片论文刊登于《自然》之前，谷歌在2020年4月发表了一篇基本同题的预印本论文 Chip Placement with <a class="project-link" data-id="1713072453200137" data-name="Deep" data-logo="https://img.36krcdn.com/20210203/v2_06f591c995654cb28c3252e17946822e_img_png" data-refer-type="1" href="https://36kr.com/project/1713072453200137" target="_blank">Deep</a> Reinforcement Learning。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_73ef0cc8f1464844b5e18a184b6602a3_img_000" referrerpolicy="no-referrer"></p> 
+<p>据《纽约时报》援引几位匿名知情人士描述的情况，当时谷歌对 AI 设计芯片的研究方向非常重视，<strong>并且有很急切的欲望想要将自家研究的这项技术尽快变现。</strong></p> 
+<p>这篇预印本论文发布的时候，谷歌找到 Chatterjee 咨询能否将这项技术直接出售出售或授权给芯片设计公司。</p> 
+<p><strong>然而，这位曾在英特尔工作，在芯片行业拥有丰富经验的研究员，却直接给 Jeff Dean 泼了一盆冷水。</strong>他发邮件告诉同事，自己对于这篇预印本论文当中的一些宣称表示“保留意见”，并且质疑所采用的技术没有经过严格的测试。</p> 
+<p>在团队中，Chatterjee 并不是唯一对这项研究表示质疑的谷歌员工。就在这篇预印本论文中，还有两位合作作者——谷歌 AI Kernel 团队的创始人 Anand Babu 和软件工程师 Sungmin Bae也支持 Chatterjee 的意见。</p> 
+<p><strong>与此同时，谷歌已经等不及想要用这篇论文来赚钱了。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_e12044d6299b4da4bf0d0b67269ba87b_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>Satrajit Chatterjee图片来源：个人网站 </p> 
+<p>Google AI 把这篇预印本论文重新调整了一下，换了个标题，直接提交到了学术界最久负盛名的《自然》期刊，并且成功得到了发表（即前述的芯片论文）。</p> 
+<p>然而据硅星人了解，这次论文改题删名重发事件，在 Google AI 内部引发了不小的争议。有员工感到事情很诡异：</p> 
+<ul style="list-style-type: disc;" class=" list-paddingleft-2"> 
+ <li><p>首先，这论文为什么改个题又发一遍？</p></li> 
+ <li><p>其次，既然要重新发一个版本，为什么没有经过公司内部论文评议委员会的重新审核？</p></li> 
+ <li><p><strong>最后，也是最诡异的地方：为什么这个发到《自然》的新版本，除掉了对本次研究发表不同意见的两位作者名字？</strong>意思是他们俩对新版本没有贡献，所以就直接消除掉他们存在过的痕迹，就像从未对此次研究做出过贡献一样？</p></li> 
+</ul> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_d397add91e9d431a98546bac35fb2e9d_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>上图：2020年4月的预印本论文版本；下图：2021年6月的《自然》版本（“芯片论文”），后者删除了两位作者的名字图片来源：arXiv, Nature </p> 
+<p>为了平息争议，Jeff Dean 批准包括 Chatterjee、Bae、Babu 等在内的员工对芯片论文进行挑战，并且允诺他们事后出来的报告（即驳斥论文）会按照公司既定的政策，走论文发表审批委员会的流程。</p> 
+<p>没过多久，Chatterjee 等人就把驳斥论文写出来了，标题为 <strong>Stronger Baselines for Evaluating Deep Reincorcement Learning in Chip Placement</strong>（点击文末“阅读原文”按钮查看）。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_81a8f6759f1048aa82c8c0523e36ab87_img_000" referrerpolicy="no-referrer"></p> 
+<p>在驳斥论文中，作者们提出了几种新的基线，也即基准参照算法，意思就是比这个基线效果还差的即不能接受，没有发论文的必要。</p> 
+<p>结果，作者所提出的比谷歌芯片论文中所采用算法的实现的效果还好，并且运行所依赖的算力小得多。消融研究结果指出了芯片论文中算法的弱点。</p> 
+<p>不仅如此，作者还进一步指出，人类芯片设计师的设计能力并不能够作为强有力的基线，也即芯片论文里拿强化学习算法跟人作为对比是很没本事的行为。</p> 
+<p><strong>带着这些调查结果，Chatterjee 等人把驳斥论文提交到了谷歌的论文发表审核委员会，等了几个月的时间，最后却被拒绝发表。Google AI 方面高管的回应是这篇驳斥论文未满足发表标准。</strong></p> 
+<p>作者们甚至找到了公司 CEO Sundar Pichai 和 Alphabet 董事会，指出这篇驳斥论文被拒绝发表的情况，可能涉嫌违反了公司的 AI 研究发表和道德方面的原则。</p> 
+<p>然而，他们的反抗很快就被打压了下来。没过多久，Chatterjee 就收到了自己被解雇的通知。</p> 
+<p>与此同时，芯片论文的联合第一作者 Anna Goldie 却有不同声音。她告诉《纽约时报》 Chatterjee 在三年前曾经试图夺权，自从那之后自己就成为了后者“虚假信息”攻击的受害者。</p> 
+<p>我们不知道这位表达不同声音的 Chatterjee，被公司解雇的直接理由究竟是什么。<strong>但硅星人从谷歌员工那里了解到， 一些员工认为 Chatterjee 被解雇的真实原因，是站在了公司利益，以及 Google AI 部分核心高管力推项目的对立面。</strong></p> 
+<p><strong>在一些人看来，即使如谷歌这样架构扁平、制度公平的大公司，也难免为了保护公司利益和高管的颜面，而暂时改变自己的规矩，把唱反调的人一脚踹开。</strong></p> 
+<h2 label="一级标题" style><strong>利益冲突遭开除，员工“改名”表抗议</strong></h2> 
+<p>这确实不是 Google AI 内部第一次因为学术见解不同和办公室政治而出现抓马 了。</p> 
+<p>在行业里影响力颇大的斯坦福 AI 实验室成员、前谷歌研究员 Timnit Gebru，在两年前遭到谷歌突然开除的事情，当时就已经给很多同行留下了非常差的印象。</p> 
+<p><strong>并且巧合的是，Gebru 当时被谷歌开除的原因和 Chatterjee 一模一样：跟公司利益对着干，被公司拒绝发表论文。</strong></p> 
+<p>（事先声明：Timnit Gebru 本人在行业里是 AI 偏见方面的专家，但她本人具有一定争议性。有很多人认为她的“社会正义战士”性格强于作为学者的公允性，遭到部分同行质疑。）</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_a367e889a1e7429189ffc98afadeef73_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>Timnit Gebru 图片来源：Wikipedia Commons 知识共享授权 </p> 
+<p>2020年，Gebru 在网上和图灵奖得主，人称 AI “三教父”之一的 Yann LeCun 之间展开了一场对峙。</p> 
+<p>当时，有人采用低分辨率人脸还原模型 PULSE 还原奥巴马照片，出现了白人结果。LeCun 对此发表了自己的观点，认为是数据集的固有偏差导致了 AI 偏见的结果。</p> 
+<p>这一表示遭到了包括 Gebru 在内很多人的批评。Gebru 表示对 LeCun 的发言很失望，因为 AI 算法中的偏见不只是来自数据。她本人在此方面做了很多研究，发表了一些论文。她的观点一直是：AI 的偏见不止来自于数据集，光解决数据集并不能彻底解决 AI 偏见问题。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_4a6e5e2c921949dd925e16bfac00dea3_img_000" referrerpolicy="no-referrer"></p> 
+<p>LeCun 进一步发了十几条推文，进一步解释自己的观点，结果却被 Gebru 以及她的支持者当成了“班门弄斧”——虽然 LeCun 是”AI 教父“，但 Gebru 本人才是 AI 偏见方面的权威专家。</p> 
+<p>LeCun 和包括 Gebru 在内的批评者之间的骂战持续了半个月，结果以前者“退推"告一段落。</p> 
+<p><strong>Gebru 在社交网络上直言抨击 LeCun 这种机器学习元老级专家的行为，却在谷歌内部被一些高层人士认为破坏了公司和学术界/行业之间的友善关系。</strong>虽然 Gebru 获得了阶段性的“胜利”，可是她当时并没有完全意识到事情的严重性，以及阴云已经笼罩在自己的头上。</p> 
+<p>大家应该知道最近几年大模型（以超大参数量的语言模型为代表）在 AI 研究领域有多火，包括谷歌、OpenAI、微软、亚马逊、BAAI 等机构都在这方面投资巨大，诞生了 BERT、T5、GPT、Switch-C、GShard 等在内的一系列超大规模语言向神经网络模型和相关技术。</p> 
+<p>也是在2020年，Gebru 的团队撰写了一篇论文 On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 希望揭露超大规模语言模型在实际使用中的危险性，批评其可能在 AI 偏见方面造成的影响。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_7711c2e00c39449ea1b2b055f6418314_img_000" referrerpolicy="no-referrer"></p> 
+<p>这一方向的研究并不小众，毕竟在此之前已经有研究发现，GPT-2/3 等超大语言模型在真实场景中使用<a class="project-link" data-id="1713104514689286" data-name="时会" data-logo="https://img.36krcdn.com/20200103/v2_9ac06d30da1047ec996cab602b3b0405_img_jpg" data-refer-type="1" href="https://36kr.com/project/1713104514689286" target="_blank">时会</a>强化已经存在的社会偏见和歧视（包括性别、族裔），对实际用户造成伤害。</p> 
+<p>Gebru 团队的这篇文章，主要表达的观点确实都没什么毛病。然而在 Jeff Dean 看来，篇幅很短，叙述和引述多于基于实验的结果，缺乏科学实证的要素，不构成谷歌公开冠名发表论文的条件，因此将其驳回不予发表。</p> 
+<p><strong>可能更接近本质的原因在于：这篇论文如果发表出来，等于是在和谷歌近几年在大语言模型方面的努力唱反调，在谷歌 AI 管理层看来会非常影响士气。</strong></p> 
+<p>Gebru 坚持就算公司不批准，自己也要想办法把论文发出去。谷歌要求她在论文里去掉作者的谷歌从属关系，意思就是这篇文章是几个作者私下做的，公司并不认可。这一要求也被 Gebru 严词拒绝。</p> 
+<p>对于 Gebru 的离开，谷歌表示她是自己辞职的（内部员工透露，Gebru 当时确实曾以辞职作为威胁）。但是 Gebru 对外透露的是自己被公司开除了。</p> 
+<p>Gebru 在谷歌的汇报对象 Samy Bengio 在当时表示自己感到非常震惊。Bengio 曾获得谷歌杰出科学家的殊荣，是公司14年元老，原谷歌大脑团队的创始成员之一（也是 AI 三教父之一 Yoshua Bengio 的胞弟），后来也直接因为对解雇 Gebru 不满，在2021年离开了谷歌。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_e20498d485d143bc95f3735552bf037e_img_000" referrerpolicy="no-referrer"></p> 
+<p>后来，Gebru 团队的论文后来还是在2021年3月在 ACM 旗下的跨学科会议 FAccT（公平、责任和透明度大会）上得以发表，只是四位作者当中的两位，无法以谷歌员工的身份出现在作者名单里。</p> 
+<p><strong>值得一提的是：虽然 Gebru 在论文发表前就已经和谷歌掰了，另一位作者 Margaret Mitchell 在文章发表的时候仍然供职于谷歌（后来也还是被开除了）。</strong></p> 
+<p><strong>在发表版本的论文里，她“改名换姓”，在自己的名字前面加上了“Sh”，以讽刺公司对自己的噤声：</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_d949828cb9384c548a5f6203728fa9ae_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_d9ae8bc282f84568a27d74a3f2d8e5c0_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>图片来源：Wikipedia Commons 知识共享授权 </p> 
+<p><strong>但是更离谱的事情还在后面。</strong></p> 
+<p>就在上个月初，谷歌AI 发表了另一篇论文，介绍了团队开发的一个全新的5400亿密集激活参数的超大规模语言模型 PaLM。</p> 
+<p>在模型架构解释 (Model Architecture) 和道德思考 (Ethical Considerations) 部分，<strong>PaLM 论文曾经先后至少两次引用了前年被谷歌拒绝发表的那篇 Gebru 团队的论文。</strong></p> 
+<p>在道德思考的部分，论文写道，由于从训练数据和模型中完全消除社会偏见的可行性不高，因此分析模型中可能出现的相关偏见和风险是至关重要的，并且也引用和参考了 Gebru 等人在那篇被拒发论文中采用的分析方法。</p> 
+<p><strong>更何况 Jeff Dean 也是 PaLM 论文的作者。这就属实非常尴尬了。</strong></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_2c4016d40b9c49a0823cf37d03509926_img_000" referrerpolicy="no-referrer"></p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_e15f8f9300864cecaf6515b20330ed31_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>上图：讽刺的是，引用列表中还留下了前员工 Mitchell 影射公司的记录。 </p> 
+<p>Gebru 对此表示，</p> 
+<p>“这些（谷歌的）AI大佬们完全可以为所欲为。他们完全不用考虑我是被公司开除的，我的论文是被公司被评为不及格的。他们完全不用思考后果，他们恐怕早就忘了当年的事了。”</p> 
+<p><strong>最后，可能很多人都想知道：为什么最近几年谷歌 AI 研究部门的闹剧如此之多，而且还都是员工研究方向和公司利益冲突相关？</strong></p> 
+<p>一位了解 Google AI 情况的前谷歌员工对硅星人做出如下评价：</p> 
+<p><strong>“一边要靠放卫星吸引更多 HR 和 PR 关注度，一边要尽快把 AI 这边的研究成果投产，一边又因为某些有争议的项目要改善社会责任感。鱼和熊掌不可兼得。”</strong></p> 
+<p>（注：关于"放卫星"的部分，这位前员工指的是谷歌的一些超大模型研究在发布当时并未达到 State-of-the-Art 的水平。比如谷歌的1.6万亿参数量 Switch Transformers 模型，性能并未超过有效参数量更少的类似模型，并且 API 方面的易用性也很差，所以没法像 GPT-3 那样做出很令人印象深刻的演示。）</p> 
+<p>毫无疑问，Google AI 已经成为业界科技公司里从事 AI 的基础和应用科研方面的标杆机构。</p> 
+<p>考虑到 Google AI 的许多研究成果能够更快地投入到各种谷歌核心产品当中，而这些产品的用户量又是数亿甚至数十亿级别的，可以说 Google AI 的研究对于世界也有着十分重大的意义。</p> 
+<p>与此同时，不可否认的是谷歌/Alphabet 仍然是一家营利性质的上市公司，需要对股东负责，需要稳定持续的增长。而 AI 在今天作为一个不算新，商业化的程度和可行性已经非常高的技术，谷歌公司内部对于 AI 产学研结合的期待肯定是日益提升的。</p> 
+<p>考虑到以上背景，就不难理解为什么 Jeff Dean 等研究部门的大佬们，要不顾一切保护公司在 AI 研究方面的投资和名誉了。</p> 
+<p>必须承认的是，这些大佬们原本也都是在 AI 学术界建功立业的先驱，说他们不认可学术伦理，也是一种侮辱。但很遗憾，在现如今公司利益的面前，只能在其位谋其政。大难临头的时候，也许学术上的正直，也只好暂时往边上稍稍了。</p> 
+<p class="image-wrapper"><img data-img-size-val src="https://img.36krcdn.com/20220505/v2_0173ebcc7d114a13b1652080430e48de_img_000" referrerpolicy="no-referrer"></p> 
+<p label="图片描述" classname="img-desc" class="img-desc" style>Jeff Dean 在谷歌开发者大会上演讲图片来源：杜晨 | 硅星人/品玩 </p> 
+<p>本文来自微信公众号 <a target="_blank" rel="noopener noreferrer nofollow" href="http://mp.weixin.qq.com/s?__biz=MzI3ODg4ODEwMA==&mid=2247516306&idx=1&sn=de6a790e98fe83347c99c6399d819359&chksm=eb52eb59dc25624fcdeb188ff15810932b7c9736449f8fa88eb66b3f6be7b052723760680b42#rd">“硅星人”（ID：guixingren123）</a>，作者：杜晨，编辑：Lianzi ，36氪经授权发布。</p>  
+</div>
+            
