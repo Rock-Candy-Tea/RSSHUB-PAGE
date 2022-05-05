@@ -1,0 +1,18 @@
+
+---
+title: '《浩劫前夕（The Day Before）》跳票至2023年3月1日'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1372880_ERzQR.jpg'
+author: 小黑盒
+comments: false
+date: Thu, 05 May 2022 21:09:30 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1372880_ERzQR.jpg'
+---
+
+<div>   
+<blockquote><p>来自IGN最新资讯<br></p></blockquote><h3>原计划2022年6月21日发布大型MMO 沙盒 The Day Before</h3><p><b>打算中途更换虚幻5引擎所以游戏跳票到2023年3月1日</b><br></p><p><img data-gameid="1372880" src="https://cdn.max-c.com/heybox/game/header/1372880_ERzQR.jpg" referrerpolicy="no-referrer"></p><p><b>官方声明：</b>“数百万人将《前一天》添加到他们的愿望清单中，使《前一天》成为世界上最受期待的游戏之一。 “感受到并理解我们所面临的重大责任，怀着无比的感激之情，我们很高兴地宣布 The Day Before 正在切换到新的虚幻引擎 5 技术！过渡到更先进和适应性更强的开放世界引擎，将使The Day Before的游戏玩法更加精彩。 “对此，我们通知您，游戏的新发售日期为2023年3月1日。”<br></p><p><img class="lazy" data-height="518" src="https://imgheybox.max-c.com/web/2022/05/05/3b3db84efbed9c9d1cab8a0571001949/thumb.png" data-width="684" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="785" src="https://imgheybox.max-c.com/web/2022/05/05/5a4c6eb5c7bd46fa332f040094006f45/thumb.png" data-width="787" referrerpolicy="no-referrer"></p><p><b>steam商店信息已修改</b></p><p><img class="lazy" data-height="924" src="https://imgheybox.max-c.com/web/2022/05/05/039478e186c79311becaf6f0e654897e/thumb.jpeg" data-width="1255" referrerpolicy="no-referrer"></p><p><b>关于这款游戏</b></p><p><img class="lazy" data-height="338" src="https://imgheybox.max-c.com/web/2022/05/05/aed3845fe294b6271276a6432e28a8ca.gif" data-width="600" referrerpolicy="no-referrer"></p><p>《The Day Before》是一款开放世界生存类网络游戏，背景设置在疫情后充满杀机的美国，那里食人的感染者肆虐，幸存者为了食物、武器和车辆而与之残杀。<b><br></b></p><p><img class="lazy" data-height="225" src="https://imgheybox.max-c.com/web/2022/05/05/e5cbdb90801bc67559db9557f6a0fea8/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><p><b>不惜一切代价生存</b> 搜索废弃车辆、房屋和摩天大楼来觅取资源。<br></p><p><img class="lazy" data-height="225" src="https://imgheybox.max-c.com/web/2022/05/05/48b928bb60416587b632b83bcea03c8e/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><b>进入无人敢去的地方</b> 用现实中的武器击倒感染者和其他玩家，成为新世界的传奇。<br></p><p><img class="lazy" data-height="225" src="https://imgheybox.max-c.com/web/2022/05/05/f294f819a72db5aff52ffa70f565ce92/thumb.jpeg" data-width="600" referrerpolicy="no-referrer"></p><p><b>探索疫情后的广阔世界</b> 驾驶细节惊人的车辆，探索美丽而又危险的地方。<br></p><p><img class="lazy" data-height="225" src="https://imgheybox.max-c.com/web/2022/05/05/297e3e09dd9f621f8d20ad234959fa4d/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><p><b>找到幸存者聚居地</b> 参与重建疫情发生前的社会，以免为时过晚。你可以在幸存者聚居地出售你的战利品，并与其他玩家安全沟通。</p><hr><h3>个人想法</h3><p>这款游戏自从发售以来我就很期待，一直在我的愿望单里。</p><p>因为这是第一款让我觉得比全境封锁1更像全境封锁的游戏，为什么这么说，虽然全境封锁1玩了将近700小时，除了游戏的末世背景和雪天效果，其他方面很少能体会到末日的感觉，毕竟这款游戏本质是刷刷刷的TPS游戏，敌人都是不同阵营的人类，而且爆头不会出现秒杀的情况，只是比打身体伤害数值高一些。</p><p>第一次看到the day before的宣传片，觉得这才是我真正想要的全境封锁游戏。同样背景也是纽约，天气也是下雪天，有枪支，可以搜刮装备，可以和好友多人联机，从宣传片还可以看出有和全境1类似的安全区。以上的内容和全境封锁1基本一致，不同的地方在于，全境封锁1的敌人是人类，而the day before的敌人都是丧尸，还多了载具系统。所以特别期待能玩到。</p><p><img data-gameid="365590" src="https://cdn.max-c.com/heybox/game/header/365590_FNm8J.jpg" referrerpolicy="no-referrer"></p><p>结果现在又看到了这条消息，真的很不是滋味，还真应了那句调侃的话，<b>没人会记得那些按时发售的垃圾游戏。</b></p><hr><p>愿望单里的原本今年发售的部分游戏都要推迟了</p><p><b>首先是5月的森林续作森林之子跳票到了10月份，</b>当时想想也无所谓，反正还有其他游戏，<b>结果6月的这个the day before也跳了，还跳的更远。</b></p><p>跳票原因官方说是因为游戏引擎换成了虚幻5，我都感到很奇怪，做到一半了又换了个引擎，那和重做区别吗，原来的引擎是达不到预期还是什么样。其他跳票的游戏原因大多是制作周期太短，需要优化啥的。有点怀疑这个真实性。不过我们只是普普通通的玩家，想玩的游戏出了肯定会掏钱买，游戏跳票了我们也毫无办法，只能干等着。我有点担心我愿望单里的哥谭骑士了，怕是也会跳票<span data-emoji="cube_捂脸哭" class="hb-emoji"></span>能玩到按时发售的游戏都是种奢望。</p>  
+</div>
+            
