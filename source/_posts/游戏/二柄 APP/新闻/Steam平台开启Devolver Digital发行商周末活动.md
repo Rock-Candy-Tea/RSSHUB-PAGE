@@ -8,14 +8,14 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/05/06/1411102576.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-05-06 06:14:28
+date: 2022-05-06 07:10:15
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/05/06/1411102576.jpg'
 ---
 
 <div>   
-【Steam平台开启Devolver Digital发行商周末活动】Steam平台今日开启了Devolver Digital发行商周末活动，活动持续时间为5月5日至5月16日，发行的多款游戏将参与活动，例如有：
+【Steam平台开启Devolver Digital发行商周末活动】Steam平台今日开启了Devolver Digital发行商周末活动，活动持续时间为5月5日至5月16日，多款游戏将参与活动，例如有：
 《诡野西部》折后价111元
-《循环勇者》折后价23.1元
+《循环英雄》折后价23.1元
 《邪恶冥刻》折后价61.6元
 《死亡之门》折后价52.8元
 《影子武士3》折后价112.8元
