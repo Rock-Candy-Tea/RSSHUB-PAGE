@@ -1,0 +1,18 @@
+
+---
+title: '请问我这只布偶猫是传统系布偶猫吗？-阿九品种猫的回答：请问我这只布偶猫是传统系布偶猫吗？ _图片_ Hello，题主! 教你怎么判断，主要看头版以及毛质。 下面就...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-da1d5051d991a37db4a7182dfa541923_1440w.jpg'
+author: 知乎
+comments: false
+date: Fri, 06 May 2022 10:07:23 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-da1d5051d991a37db4a7182dfa541923_1440w.jpg'
+---
+
+<div>   
+<strong>请问我这只布偶猫是传统系布偶猫吗？</strong><br>阿九品种猫的回答<br><h2>请问我这只布偶猫是传统系布偶猫吗？</h2><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-da1d5051d991a37db4a7182dfa541923_1440w.jpg" data-caption data-size="normal" data-rawwidth="447" data-rawheight="279" data-default-watermark-src="https://pic4.zhimg.com/v2-d7c2b76e7db64eecc984be25c0452b5f_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-da1d5051d991a37db4a7182dfa541923_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="dHbeSky8">Hello，题主!</p><p data-pid="GOQWGh9E">教你怎么判断，主要看头版以及毛质。</p><p data-pid="JGjbXKKK">下面就来详细说说。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-60b28e88c88b33a4bb6225f26cc8f2e2_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="3131" data-default-watermark-src="https://pic4.zhimg.com/v2-fef177da1f01948690a94767dc735567_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-60b28e88c88b33a4bb6225f26cc8f2e2_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-10e5fffeae4df7aac1d60e7d71354125_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="3032" data-default-watermark-src="https://pic4.zhimg.com/v2-253eda5700f0eb34bd7ba6ec1681124f_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-10e5fffeae4df7aac1d60e7d71354125_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-1cd0deacb255a8e88ea151652125917a_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2273" data-default-watermark-src="https://pic4.zhimg.com/v2-913a423578c33f8bfc98679b123d138f_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-1cd0deacb255a8e88ea151652125917a_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-e964ff81d2579ca8f1d0b256fa34eba3_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2671" data-default-watermark-src="https://pic2.zhimg.com/v2-50e2e366f0cd5a420a8fda0c0d1bc539_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-e964ff81d2579ca8f1d0b256fa34eba3_r.jpg" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f5b4dcd562adf7661d938196c9bae963_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2971" data-default-watermark-src="https://pic1.zhimg.com/v2-95c2fdbb37dedffa5a21a5d45dceaa8c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f5b4dcd562adf7661d938196c9bae963_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="II1lSMGu">​</p><p data-pid="r6f6jXtP">希望阿九品种猫的解答能够解决题主的问题。</p><h2>这个问题​更详细的关联知识干货，看看这个文章，阿九品种猫基本将养猫过程可能掉的雷区都预先填好了。</h2><a href="https://zhuanlan.zhihu.com/p/163624912" data-draft-node="block" data-draft-type="link-card" data-image="https://pic3.zhimg.com/v2-ba411397b3878d06eec031900ac7874a_180x120.jpg" data-image-width="2494" data-image-height="746" class="internal">阿九品种猫：如何购买布偶猫？一篇文章掌握所需全部知识！</a><p></p>  
+</div>
+            
