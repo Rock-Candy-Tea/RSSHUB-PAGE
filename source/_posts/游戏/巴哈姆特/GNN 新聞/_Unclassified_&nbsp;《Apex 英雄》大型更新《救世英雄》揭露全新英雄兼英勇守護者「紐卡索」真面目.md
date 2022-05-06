@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/0d6d389b3b0fa08f55510616621g6f55.JPG?v=1651818512686'
 author: 巴哈姆特
 comments: false
-date: 2022-05-06 08:13:14
+date: 2022-05-06 09:11:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/0d6d389b3b0fa08f55510616621g6f55.JPG?v=1651818512686'
 ---
 
@@ -117,7 +117,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/0d6d389b3b0fa08f55510616621g6f55.
 <div>
  </div>
 <h3>
-被動技能 - 救治傷者</h3>
+被動技能 - 拯救危機</h3>
 <div>
  </div>
 <div>
