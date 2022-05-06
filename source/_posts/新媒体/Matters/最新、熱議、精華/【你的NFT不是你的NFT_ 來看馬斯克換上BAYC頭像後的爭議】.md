@@ -1,0 +1,20 @@
+
+---
+title: '【你的NFT不是你的NFT_ 來看馬斯克換上BAYC頭像後的爭議】'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/c9a18510-5bb4-4cd8-84fe-afb0bff45211.jpeg'
+author: Matters
+comments: false
+date: Fri, 06 May 2022 06:07:59 GMT
+thumbnail: 'https://assets.matters.news/embed/c9a18510-5bb4-4cd8-84fe-afb0bff45211.jpeg'
+---
+
+<div>   
+<p>昨天Tesla創辦人馬斯克在Twitter上的一翻操作，又引起了一波NFT著作權與擁有權的討論。</p><p>馬斯克在他的推特，換上由許多BAYC(無聊猿俱樂部)頭像圖片組成的大頭照。</p><figure class="image"><img src="https://assets.matters.news/embed/c9a18510-5bb4-4cd8-84fe-afb0bff45211.jpeg" data-asset-id="c9a18510-5bb4-4cd8-84fe-afb0bff45211" referrerpolicy="no-referrer"><figcaption><span>你的NFT不是你的NFT? 來看馬斯克換上BAYC頭像後的爭議</span></figcaption></figure><p>由於目前BAYC可說是NFT中最藍籌也最有話題性的項目，一瞬間就炒熱氣氛，並連帶造成Ape coin上漲20%。(馬投顧又要割韭菜了XD)</p><p><br></p><h2>【BAYC所有權的爭議】</h2><p>隨著換頭貼的暴漲，一項爭議也隨之發生。Larry Cermak, The Block的研究總監聲稱Musk的其中一張猴子圖像是他本人擁有的，並請律師發函警告馬斯克撤下大頭照。</p><p>而馬斯克也在不到一天的時間內換下頭貼，並留了一則推特:</p><blockquote><strong>I dunno... seems kinda fungible (我不確定，感覺還是很同質化呢)。</strong></blockquote><figure class="image"><img src="https://assets.matters.news/embed/64d58473-daae-40a0-ae90-68e9a3776926.png" data-asset-id="64d58473-daae-40a0-ae90-68e9a3776926" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>結果Ape coin又應聲跌回去XD。</p><p>但有趣的是，我們可以討論看看，馬斯克的這波操作到底有沒有<strong>「侵權」</strong>?</p><p><br></p><h2>【NFT的著作權與所有權，其實是分開的】</h2><p><strong>在NFT大未來一書有提到，NFT著作權與所有權、冠名權之差別。</strong></p><p>著作權包含了資產再生、複製、衍生著作權、公開展示權等等。</p><p>然而NFT在售出之後，只有「所有權 或 冠名權」轉移給購買者，著作權仍是原作者所有。(除非合約有說明連同著作權轉移，但很少見，我想大部分買家也不會留意這個。)</p><p>如此一來，昨天Larry Cermak提出的馬斯克侵權行為，看似就不大合理，畢竟他也不擁有猴子全部的權利。</p><p>我想馬斯克可能也想趁這個機會，嘲諷一下目前的NFT市場現況吧(很符合他一貫風格)。</p><p>目前的高價NFT隨著不斷炒作與轉手，大家在這個過程各自換上新買的NFT。由於目前驗證NFT真偽的技術還不普及，沒有人能確定這張到底是不是你的，更何況討論NFT的著作權與所有權。</p><h2><br></h2><h2>【區塊鏈律師怎麼看?】</h2><p>我曾經在一次的區塊鏈法律座談會中與幾位加密貨幣律師討論過有關著作權與持有權的問題，也提到有許多創作者有聲稱購買其NFT可獲得他的經紀分潤這樣是否有法律效力?</p><blockquote><strong>我的問題: 買NFT，獲得的其實是"所有權"。但"著作權"是否還屬於創作者的? 如果屬實，那著作權的權利應該比所有權大，那會不會其實NFT持有者實際的權利，沒他想像的這麼大了? (展示權、二創權等等?)</strong></blockquote><p>律師們是這麼回答的：是的，持有者是沒有著作權的。而持有者的權利，也端看創作者當初在交易時有聲明要給你多少權利。至於那種說要給經紀分潤的，大部分可能都是「話題>實際」。一但牽扯到法幣的金流，一定有稅法相關的問題，沒那麼簡單。</p><p><br></p><h2>【總結】</h2><p>雖然最後Larry Cermak說大家對他的留言太認真了，馬斯克也在一天內換上新的頭貼，這波爭議就隨著Ape coin的跌勢結束，不過關於NFT的法律權利常識，卻是所有買賣家都需要了解的!</p><p><strong>最後，這篇有關NFT著作與所有權的討論文章，響應 <a class="mention" href="https://matters.news/@hi176" target="_blank" data-display-name="Matty" data-user-name="hi176" data-id="VXNlcjo4MQ">﻿<span>@Matty</span>﻿</a> 舉辦之NFT寫作基金活動。再麻煩看完文章有收穫的朋友給與小小支持與花一點時間仔細地閱讀吧! 謝謝!</strong></p><blockquote>激勵方式：</blockquote><ul><li>當一篇文章在發布的一週內獲得的<strong>閱讀時長超過1小時，就可以獲得配捐</strong>：</li></ul><pre class="ql-syntax" spellcheck="false">配捐金額=支持次數（發布的一週內）x 100 Likecoin。例如獲得10次支持，就可以獲得 1000 likecoin。
+⚠️注：支持次數指的是讀者通過「支持作者」按鈕，給作者捐贈Likecoin或港幣的次數。
+</pre><p>資料參考: <a href="https://twitter.com/lawmaster/status/1521812659791974401" rel="noopener noreferrer" target="_blank">https://twitter.com/lawmaster/status/1521812659791974401</a> / NFT大未來 / 果殼Mr.shell</p><p><br></p><hr><ul><li>想要知道更多的內容的話，歡迎持續追蹤更新！</li><li>成為我的讚賞公民，每月贊助一杯咖啡，助我走得更遠。 <a href="https://liker.land/william53241/civic?utm_source=dashboard&utm_medium=app&utm_campaign=sponsor_link_cta" rel="noopener noreferrer" target="_blank">https://liker.land/william53241/civic?utm_source=dashboard&utm_medium=app&utm_campaign=sponsor_link_cta</a></li><li>Lemonway每日學習筆記FB粉專：<a href="https://www.facebook.com/profile.php?id=100055469826072" rel="noopener noreferrer" target="_blank">https://www.facebook.com/profile.php?id=100055469826072</a></li><li>Lemonway每日學習筆記IG粉專：<a href="https://www.instagram.com/learning_lemonway/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/learning_lemonway/</a></li><li>想合作可以來這找我：william5324144@gmail.com</li><li>加入我區塊鏈文章分享Telegram: <a href="https://t.me/lemonwaylearning" rel="noopener noreferrer" target="_blank">https://t.me/lemonwaylearning</a></li></ul><p><br></p>  
+</div>
+            
