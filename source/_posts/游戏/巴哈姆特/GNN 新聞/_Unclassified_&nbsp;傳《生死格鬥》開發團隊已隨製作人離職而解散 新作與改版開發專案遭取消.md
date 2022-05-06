@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/92/760237d1fd7bcb1be7f13de8fe1g6jk5.PNG?v=1651828494044'
 author: 巴哈姆特
 comments: false
-date: 2022-05-06 11:09:18
+date: 2022-05-06 12:17:07
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/760237d1fd7bcb1be7f13de8fe1g6jk5.PNG?v=1651828494044'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/760237d1fd7bcb1be7f13de8fe1g6jk5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　根據署名 KOEI TEMCO Games Team NINJA 程式設計師森田宏明的用戶日前（5/3）在 Twitter 上的<a href="https://twitter.com/Hiroaki_Morita2/status/1521413543480143879" target="_blank">推文</a>指出，Team NINJA 旗下格鬥遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%94%9F%E6%AD%BB%E6%A0%BC%E9%AC%A5" target="_blank">生死格鬥</a>（Dead or Alive）》的開發團隊已經解散，新作專案遭取消。</div>
+　　根據一位署名 KOEI TEMCO Games 程式設計師森田宏明的 Twitter 用戶日前（5/3）的一篇<a href="https://twitter.com/Hiroaki_Morita2/status/1521413543480143879" target="_blank">推文</a>指出，Team NINJA 旗下格鬥遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%94%9F%E6%AD%BB%E6%A0%BC%E9%AC%A5" target="_blank">生死格鬥</a>（Dead or Alive）》的開發團隊已經解散，新作專案遭取消。</div>
 <div>
  </div>
 <div style="text-align: center;">
