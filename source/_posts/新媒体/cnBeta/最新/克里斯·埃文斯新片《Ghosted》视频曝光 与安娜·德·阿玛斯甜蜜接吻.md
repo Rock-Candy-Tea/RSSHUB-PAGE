@@ -1,0 +1,19 @@
+
+---
+title: '克里斯·埃文斯新片《Ghosted》视频曝光 与安娜·德·阿玛斯甜蜜接吻'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0506/4e2754116ae414d.jpg'
+author: cnBeta
+comments: false
+date: Fri, 06 May 2022 05:56:35 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0506/4e2754116ae414d.jpg'
+---
+
+<div>   
+今日，克里斯·埃文斯新片《Ghosted》片场路透曝光新片段，安娜·德·阿玛斯和克里斯·埃文斯倚栏接吻，甜度爆表。据悉，此前有消息称寡姐约翰逊与埃文斯将合作新片《Ghosted》，但后来约翰逊因档期冲突退出，换成了安娜·德·阿玛斯。<br>
+<p style="text-align: center;"><iframe src="//player.bilibili.com/player.html?bvid=BV16v4y1K7UK&page=1" width="640" height="480" frameborder="0"></iframe></p><p>视频画面：</p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154008738.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/4e2754116ae414d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/4e2754116ae414d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/4e2754116ae414d.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154026662.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/fd2fa78fafcb16c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/fd2fa78fafcb16c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/fd2fa78fafcb16c.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154024337.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/885fa14e6e8dfc6.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/885fa14e6e8dfc6.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/885fa14e6e8dfc6.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154047987.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/6a3450b11e9ef5d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/6a3450b11e9ef5d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/6a3450b11e9ef5d.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154058828.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/7056f2a33a8f8c4.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/7056f2a33a8f8c4.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/7056f2a33a8f8c4.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154063686.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/ac76ad64b3ad810.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/ac76ad64b3ad810.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/ac76ad64b3ad810.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/upimg/pic/2022/05/06/origin_202205061154199403.jpg"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0506/c097e7fd1094dbd.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0506/c097e7fd1094dbd.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0506/c097e7fd1094dbd.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
