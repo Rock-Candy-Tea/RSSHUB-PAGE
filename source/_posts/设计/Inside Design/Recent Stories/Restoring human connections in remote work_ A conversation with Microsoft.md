@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/restoring-human-connections-microsoft/'
 author: Inside Design
 comments: false
-date: 2022-05-06 12:15:33
+date: 2022-05-06 13:27:40
 thumbnail: 'https://www.invisionapp.com/inside-design/restoring-human-connections-microsoft/'
 ---
 
