@@ -19,16 +19,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
       
 
   <div class="resource-content-citation">
-              <div class="content-field_category">
-            <div class="field field--name-field-category field--type-entity-reference field--label-inline field__items">
-      <div class="field__label">Topic</div>
-                <div class="field__item" title="Case studies">
-        <a href="https://www.monotype.com/resources/case-studies" hreflang="en">Case studies</a>
-            </div>
-          </div>
-
-      </div>
-              <div class="content-field_designers">
+                  <div class="content-field_designers">
             <div class="field field--name-field-designers field--type-entity-reference field--label-inline field__items">
       <div class="field__label">Designers</div>
                 <div class="field__item" title="Emilios Theofanous.">
@@ -129,14 +120,14 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/case-studies/monotype-x-limerick&title=Monotype%20x%20Limerick." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/monotype-x-limerick&title=Monotype%20x%20Limerick." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook"/>
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Monotype%20x%20Limerick.+https://www.monotype.com/resources/case-studies/monotype-x-limerick" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Monotype%20x%20Limerick.+https://www.monotype.com/resources/monotype-x-limerick" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter"/>
             </svg>
@@ -149,7 +140,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
     <!-- Pinterest share button -->
     
     <!-- Linkedin share button -->
-            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/case-studies/monotype-x-limerick" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/monotype-x-limerick" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#linkedin"/>
             </svg>
