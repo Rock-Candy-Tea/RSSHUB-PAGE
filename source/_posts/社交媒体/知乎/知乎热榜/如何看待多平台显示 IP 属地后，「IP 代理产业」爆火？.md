@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-d2c82df819564da0ff34eea7901a1c07_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=6366'
 author: 知乎
 comments: false
-date: Fri, 06 May 2022 22:37:10 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-d2c82df819564da0ff34eea7901a1c07_1440w.jpg?source=b1748391'
+date: Sat, 07 May 2022 02:18:50 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6366'
 ---
 
 <div>   
-狼狈的回答<br><br><p></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d2c82df819564da0ff34eea7901a1c07_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="666" data-rawheight="225" data-default-watermark-src="https://pica.zhimg.com/v2-dd65413707e682a24fafb6b7e2954d2c_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d2c82df819564da0ff34eea7901a1c07_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d36216f46699fdd783bf409fdcfaec0a_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="580" data-rawheight="315" data-default-watermark-src="https://pic2.zhimg.com/v2-e6a35708707cee77b2f8bb7e98d8e89b_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d36216f46699fdd783bf409fdcfaec0a_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="fRAJHJX-">搞新闻的能不能有点新闻道德，网上找了半天，就找到这么点玩意，一个6个浏览，一个60个浏览，然后就开始炒作“IP代理产业”火爆？？</p><p data-pid="KXmeBCRk">当年搞谷歌，好歹还要出动人手刷了几天的关键词，现在倒好，外包几家自媒体炮制一条新闻，然后热搜一推，就当完成任务了，搁着糊弄傻子呢？</p><p data-pid="uie6hulY">不过敷衍到这个程度，也可以看出来这应该不是什么顶要紧的任务，显示IP这事多半就到此为止了，应该不会再层层加码了。</p><p></p>  
+Van静石的回答<br><br><p data-pid="4oDSLgGB">更改ip，多少有网络诈骗的嫌疑。</p><p data-pid="rLvSj6D4">要么是带货的，主打厂家直销，海外直销什么的，要么是虚假移民机构，要么是冒充欧美，北上广玩杀猪盘的…</p><p data-pid="vfCQPEc7">要么伪装身份造谣的，包括但不限于国内装国外，国外装国内，大陆装台湾，台湾装大陆，假装美国友人，印度友人，日本友人，假装自己在热点所外地的，假装外人的，假装患者家属的，假装受害人朋友的……</p><p data-pid="knIe6Xxa">像手机号码都是显示注册地的，某些境外手机号打过来的，基本可以确定九成是诈骗电话了，显示位置还是有价值的。</p><p data-pid="AtpCZjiK">其实造谣这种事，很多时候都是随口造的，那些传播最广的谣言，大多不是专业造谣的人搞出来的，ip一显，大批随口造谣的就发挥不了创造力了，谣言也就止于ip了。</p><p data-pid="3_MsFKXr">没了口口相传，谣言是没有生命力的，那些领钱的，创造力其实是很差的，远没有路人创造力强。</p><p data-pid="aJ4CMuxG">当然，你说被迫害必须隐姓埋名的人是不是有呢，或许有，但即使这种情况，最好的建议也是建议去报警。</p><p data-pid="aiD8qBok">最后建议上线相关功能，提示“该用户有使用ip代理行为”，这样你既能满足隐姓埋名的需求，也可以不让人受骗。</p><p data-pid="0e7ZEEnG">否则以后因为ip修改，导致三四线不清楚这一套的民众受骗，平台也是有责任的。</p><p data-pid="vvITUm7M">而且ip代理机构也要负责任，如果给广告类机构或个人提供服务，涉嫌虚假宣传。</p><p data-pid="qiuG_CmX">闲着没事就看看这类问题，把那些变ip玩的全拉黑掉，反正看他们发的东西也没什么用。</p><p data-pid="fPJbRLFQ">至于裸奔说，知乎最牛逼的时候不就是接近实名制的时候吗，对于知乎这个平台来说，越接近实名制，平台水准越高，文艺复兴了属于是。</p><p data-pid="JV78658I">明明是勃勃生机，万物竞发的态势，有什么不可接受的呢。</p>  
 </div>
             
