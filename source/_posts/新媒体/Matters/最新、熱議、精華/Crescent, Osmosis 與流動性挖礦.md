@@ -1,0 +1,18 @@
+
+---
+title: 'Crescent, Osmosis 與流動性挖礦'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/298a8d6a-e50b-4e9d-bfff-c893bb0eb1b7.png'
+author: Matters
+comments: false
+date: Sat, 07 May 2022 10:01:24 GMT
+thumbnail: 'https://assets.matters.news/embed/298a8d6a-e50b-4e9d-bfff-c893bb0eb1b7.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/298a8d6a-e50b-4e9d-bfff-c893bb0eb1b7.png" data-asset-id="298a8d6a-e50b-4e9d-bfff-c893bb0eb1b7" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>近一週，我已完成將部份在 Osmosis 上的約三分一的 LP 資產轉移至 Crescent，令組合更加健康。雖然我不認為 Osmosis 會被動挨打，但 Crescent 至今有一些結構性的優勢，令我認為要將部份資產轉移。有一些因素已在<a href="https://matters.news/@terence/274666-%E5%86%8D%E8%AB%87-crescent-bafyreigcw3ptqphplwkngch4loukd64majhgfbidowdawvi4yvdj3addi4" rel="noopener noreferrer" target="_blank">上篇</a>說過，我就不多重複，我當大家已看了亦已明白。這篇主要想表達我轉移資產的思考過程，及補充一些上文的要點。</p><ol><li>DEX 的 LP 回報的確是不能持續，但不能單憑此點否定做 LP 的誘因。例如，Osmosis 至今已運作了十個月，它的一些最大的 pool 例如 ATOM/OSMO，UST/OSMO，LUNA/OSMO 等，仍有逾 70% 的 APR，雖然 OSMO 幣價走弱，但流動性亦有顯著下降，所以整體 APR 的下跌幅度已較平台上線初期緩慢，我暫時認為這是流動性挖礦的發展規律 - 即 APR 在一開始時很高，因為流動性低，少競爭對手攤薄 APR；然後隨著更多人做 LP，平台幣 (如 OSMO，CRE) 的幣價升幅跑輸 LP 的增長幅度，APR 就會下跌得較快，然後當平台幣的幣價已連續下跌而跌幅開始少過 LP 的跌幅，APR 跌勢就會放緩甚至止跌。</li><li>Crescent 目前只有幾款大幣 (LUNA，ATOM，UST) 加上 bCRE 自身所互相組成的六個 pool，目前流動性只有約 $5,000 萬，其流動性挖礦加上 liquid staking 的回報總體約為 APR 125%。簡單數學上，如果流動性變成十倍至 $5 億的級別，APR 就會變為十分一至 12.5%。但實情不會這麽簡單，因為多了 $4.5 億的流動性，按目前比例計，有四成即 $1.8 億的流動性是 bCRE，按 $1.6 相當於逾 1.1 億 bCRE，我先假設 1 bCRE = 1 CRE，而每年釋放的新的 CRE 才只有 6,800 萬，不足以提供上述的流動性，所以最終是會推高 bCRE/CRE 的幣價。<br class="smart"></li><li>從估值上 (不是幣價，因為兩者目前的 token 供應並不相等)，CRE 是值得對 OSMO 有溢價，因為 Crescent 有兩個非常大的優勢。一，Crescent 並不設不同的 LP 綁定期的要求，劃一採用 epoch 計算。簡單點說，epoch 是由 UTC 開始計，即香港時間08:00， 如我現在 (5 月 7 日 17:00) 在 Crescent 上做 LP 然後開始 farm，這些流動性挖礦並不會立即生效，而是在排隊的狀態，要到 5 月 8 日的 08:00 才生效，然後到 5 月 9 日的 08:00 才會看到第一筆的流動性挖礦的奬勵。即，其實我現在  (5 月 7 日 17:00) farm，還是在 5 月 8 日的 07:59 farm，都是要排隊等到 5 月 8 日的 08:00 才生效。若我不是在 5 月 7 日 17:00 farm，而「不幸」睡過了頭到 5 月 8 日的 08:01 才 farm，我就錯過了 5 月 8 日的 08:00 開始的 epoch，要排隊到 5 月 9 日的 08:00 才正式開始 farm，然後到5 月 10 日的 08:00 才會看到第一筆的流動性挖礦奬勵，即花了大概兩日時間。</li><li>所以嚴格上來說， Crescent 的綁定要求只是 24 小時多一點，你就已享受到目前大部份逾 100% 的 APR，舉例，LUNA/bCRE 的 APR 是 166%，而 Osmosis 上的 LUNA/OSMO 的 1/7/14 天綁定期的 APR 是 38%，61% 及 92%。</li><li>另一相關的重要分別是「綁定」的性質，兩個平台是採用完全不同的理念。在 Osmosis，你是要先決定綁定期然後享受相對應的奬勵，那怕你只選了 1 天，你要 unbond 就要等一天才能自由移動你的幣；在 Crescent 做 farm，你毋須「決定」綁定期，你可以隨時 unfarm 並立即自由移動你的幣，只是當你在未完成排隊然後 farming 的時間就 unfarm，你就會失去奬勵，我會說 Crescent 的理念是「逆綁定」。你聽起來可能完全摸不著頭腦，但我可以說這是翻天覆地的不同理念，Crescent 提供的這樣的彈性，在波動甚大的幣市來說，是殺手級的設計，單憑這個設計，它已值得比 Osmosis 的估值有 50% 以上的溢價。</li><li>當我進一步考慮 Crescent 及 Osmosis 所提供的 APR 的分別，加上上述的的剎手級設計，我大膽亂估，Crescent 的市值較 Osmosis 值得有一倍溢價。</li><li>當然，兩個項目的 TVL 仍差接近 20 倍，直接以現況比較意義不大，我就假設 Crescent 在半年後能達 $4.5 億 TVL，即是 Osmosis 的一半，已能令 Crescent 享用與目前的 Osmosis 一樣的估值 ($13.4 億)，假設半年後 CRE 的供應上升至 2.41 億，CRE 幣價目標為 13.4/2.41 ＝$5.6，以此推算，屆時的整體流動性挖礦 (+liquid staking 流動性質押) APR 仍有 48.6%^，聽起來亦算是合理的水平。<br class="smart"><br class="smart">(^ 可能是充滿漏洞的計法：125%/9 * ($5.6/$1.6)，125% 是現在的 APR，/9 的意思是 TVL 成為了 $5,000 萬的 9 倍即 $4.5 億，$1.6 是現 CRE 幣價，$5.6 是經上述 (7) 中分析得出的目標幣價)<br class="smart"></li><li>這些只是簡單分析，幣圈天天在變，不知道 Crescent 之後再有甚麽規劃，但無論是 Crescent 還是 Osmosis，早起的鳥兒有蟲吃，雖然 OSMO 幣價由高位跌了很多，應該有七成了，但想想過去 10 個月的挖礦回報，其實總回報仍然非常好，尤其考慮到現在其實已是熊市中段甚至末段。</li><li>我不會將全部資產由 Osmosis 轉去 Crescent，因為 Osmosis 有強大先行者優勢，而從風險角度考慮，適度分散在兩個平台賺取不同的幣作回報，然後又再換成一些 ATOM 或 LUNA 進行挖礦，是我覺得較為理想的組合。</li></ol><p><br></p>  
+</div>
+            
