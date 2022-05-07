@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8602'
+headimg: 'https://picsum.photos/400/300?random=8680'
 author: 知乎
 comments: false
-date: Sat, 07 May 2022 04:31:07 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8602'
+date: Sat, 07 May 2022 04:44:04 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8680'
 ---
 
 <div>   
-不想上吊王承恩的回答<br><br><p data-pid="xYY3orFm">众所周知，航天口待遇很差，导致年轻人流失严重，中国航天事业的发展难以为继，这一定是体制问题。</p><p data-pid="3BhDarXi">希望NASA本着实事求是的态度，多上知乎看看，不要编造虚假新闻。</p><a href="https://www.zhihu.com/question/487636960" data-draft-node="block" data-draft-type="link-card" class="internal">为什么航空航天待遇不好，但国家在航空航天技术上依然取得飞速发展？</a><a href="https://www.zhihu.com/question/481355127" data-draft-node="block" data-draft-type="link-card" class="internal">为什么航空航天待遇不高？</a><a href="https://www.zhihu.com/question/408704259" data-draft-node="block" data-draft-type="link-card" class="internal">都2020年了，航天单位待遇还是那么差吗？</a><a href="https://www.zhihu.com/question/389791443" data-draft-node="block" data-draft-type="link-card" class="internal">航天工作者真的工资比其他行业低很多，并且特别辛苦吗？</a><p></p>  
+大海的回答<br><br><p data-pid="PvXRJJQQ">真正的好团队是有梯次有传承的团队。</p><p data-pid="TXGXO6Ob">要有少部分做事沉稳见多识广，压得住阵脚的老将。</p><p data-pid="tSYf5JL7">要有一批年富力强经验丰富，挑得起大梁的中年专家。</p><p data-pid="HW2KMMfZ">要有一批思路不受限制 ，有冲劲有激情的年轻人。</p><p data-pid="pQecIVsV">这样既不会因循守旧固步自封，也不会盲目自信在同一个地方多次跌倒，人才的合理生态有道理的。</p><p data-pid="_rLzwHKt">中国航天不仅要有严格的制度管理和文档管理，更可以有师父带徒弟的言传身教，把好的经验和风格传下去。</p><p data-pid="6nLZFqyp">只要待遇上去，年轻人年入20万以上，中年人能看到薪资进步的空间，管理模式科学合理，团队氛围积极向上，好的人才梯队真可以有。</p>  
 </div>
             
