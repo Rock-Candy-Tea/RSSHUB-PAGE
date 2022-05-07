@@ -1,0 +1,18 @@
+
+---
+title: '腾讯申请QQ元宇宙商标被驳回'
+categories: 
+ - 金融
+ - 财联社
+ - 电报
+headimg: 'https://picsum.photos/400/300?random=7843'
+author: 财联社
+comments: false
+date: Sat, 07 May 2022 04:48:42 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7843'
+---
+
+<div>   
+【腾讯申请QQ元宇宙商标被驳回】财联社5月7日电，天眼查显示，近日，腾讯科技（深圳）有限公司申请注册的多个“QQ元宇宙”商标状态均变更为“驳回通知发文”。另外，该公司申请的“幻核元宇宙”“QQ音乐元宇宙”“光夜元宇宙”等多个元宇宙商标也被驳回，以上商标均申请于2021年9月。  
+</div>
+            
