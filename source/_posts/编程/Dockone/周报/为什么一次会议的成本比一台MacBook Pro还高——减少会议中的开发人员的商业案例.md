@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220508/3dc64cc060bfe061f6b279a4eab5a339.jpeg'
 author: Dockone
 comments: false
-date: 2022-05-08 08:12:13
+date: 2022-05-08 09:10:08
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220508/3dc64cc060bfe061f6b279a4eab5a339.jpeg'
 ---
 
@@ -19,7 +19,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <ul><li>我们如何为减少日程表上无意义的会议做一个商业案例？</li><li>我们怎样才能为我们参加的会议增加更多的价值？</li><li>我们怎样才能减少无意义的会议，而增加有价值的会议？</li></ul><br>
 <br><h3>机会成本</h3>我之前曾经是一名会计，所以我想给一次会议的具体成本算个数。下面是我对一次会议对公司的机会成本的大致计算，不管它是否毫无意义。<br>
 <br>以下是我的假设：这些是以美国为中心的，你可以根据当地的市场情况进行调整。<br>
-<ul><li>会议时间为<em>1小时</em>，涉及一名项目经理和一个由<em>4名开发人员</em>组成的团队；</li><li>开发人员的平均总薪酬为20万美元，有2周的休假时间；</li><li>平均来说，一个员工要花费雇主<em>1.5倍于其报酬</em>的其他福利；</li><li>一个普通的开发人员平均每天有4-6个小时处于最大的生产状态（根据心理学的心流理论，我们也成为沉浸状态），我们使用<em>5小时</em>来计算；</li><li>根据<a href="https://en.wikipedia.org/wiki/Pareto_principle">帕累托原则</a>，每个开发人员产生的业务增值的80%来自<a href="https://zh.wikipedia.org/wiki/%E5%BF%83%E6%B5%81%E7%90%86%E8%AB%96">沉浸状态</a>，20%来自非沉浸状态；</li><li>在一个已经有太多会议的组织中，这是一个糟糕的会议安排——削减了流动状态的时间。每个开发人员在会议前后平均浪费了30分钟的时间来进行上下文切换，而这些时间是不增值的。(关于上下文切换的成本，见<a href="https://www.researchgate.net/publication/317989659_Impact_of_task_switching_and_work_interruptions_on_software_development_processes#pf2">本研究</a>）。</li></ul><br>
+<ul><li>会议时间为<em>1小时</em>，涉及一名项目经理和一个由<em>4名开发人员</em>组成的团队；</li><li>开发人员的平均总薪酬为20万美元，有2周的休假时间；</li><li>平均来说，一个员工要花费雇主<em>1.5倍于其报酬</em>的其他福利；</li><li>一个普通的开发人员平均每天有4-6个小时处于最大的生产状态（根据心理学的心流理论，我们也成为沉浸状态），我们使用<em>5小时</em>来计算；</li><li>根据<a href="https://en.wikipedia.org/wiki/Pareto_principle">帕累托原则</a>，每个开发人员产生的业务增值的80%来自<a href="https://zh.wikipedia.org/wiki/%E5%BF%83%E6%B5%81%E7%90%86%E8%AB%96">沉浸状态</a>，20%来自非沉浸状态；</li><li>在一个已经有太多会议的组织中，这是一个糟糕的会议安排——削减了流动状态的时间。每个开发人员在会议前后平均浪费了30分钟的时间来进行上下文切换，而这些时间是不增值的。（关于上下文切换的成本，见<a href="https://www.researchgate.net/publication/317989659_Impact_of_task_switching_and_work_interruptions_on_software_development_processes#pf2">本研究</a>）。</li></ul><br>
 <br>使用这些假设，我们看到每个开发者每小时的处于沉浸状态对公司的成本是(200,000美元 * 1.5 * 0.8)/((52-2) *5 *5)=192美元/“沉浸小时”。<br>
 <br>以每个开发人员2小时的“沉浸时间”为代价，4个开发人员参加这次会议，会议的开发人员的机会成本是<strong>1536美元</strong>。这个会议的机会成本高于一个全新的M1 MacBook Pro的价格。如果这个会议毫无意义，还不如取消它，让其中一个开发人员飞到巴厘岛。<br>
 <br>根据我的经验，拥有最多会议的公司往往在开发设备和教育/培训费用方面也是最吝啬的——这是一个典型的聪明反被聪明误的例子。<br>
