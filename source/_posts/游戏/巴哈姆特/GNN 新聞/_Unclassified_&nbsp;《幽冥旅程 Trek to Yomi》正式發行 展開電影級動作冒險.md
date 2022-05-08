@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692'
 author: 巴哈姆特
 comments: false
-date: 2022-05-08 09:10:52
+date: 2022-05-08 10:11:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li></ul>
+<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
