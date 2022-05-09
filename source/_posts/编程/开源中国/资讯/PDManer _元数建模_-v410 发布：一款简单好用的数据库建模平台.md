@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6730'
+headimg: 'https://picsum.photos/400/300?random=1043'
 author: 开源中国
 comments: false
-date: Mon, 09 May 2022 00:34:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6730'
+date: Mon, 09 May 2022 08:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1043'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>[PDManer 元数建模 - v4]</strong>，历时四年，持续升级，工匠精神，做一款简单好用的数据库建模平台。</p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>[PDManer 元数建模 - v4]</strong>，历时四年，持续升级，工匠精神，做一款简单好用的数据库建模平台。</p> 
 <blockquote> 
  <p style="margin-left:0; margin-right:0">元数建模平台，使用 React+Electron+Java 技术体系构建。</p> 
 </blockquote> 

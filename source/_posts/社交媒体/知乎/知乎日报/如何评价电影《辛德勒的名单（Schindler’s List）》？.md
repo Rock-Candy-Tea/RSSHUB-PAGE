@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-05-09 00:45:42
-thumbnail: 'https://pic3.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162'
+date: 2022-05-09 02:53:45
+thumbnail: 'https://pic2.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-123e16e52701234780988f35787abe03_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">电影榨汁，</span><span class="bio">经典/热点 影视干货解析 知识型影视答主</span>
 <a href="https://www.zhihu.com/question/35286182/answer/2458430485" class="originUrl" hidden>查看知乎原文</a>
 </strong>
