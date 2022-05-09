@@ -29,7 +29,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220509/1652082471_7239
 <img src="https://img.3dmgame.com/uploads/images/news/20220509/1652082421_626218.jpg" alt="传闻：百万粉丝油管主爆料《GTA6》即将到来" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-随后，推特用户NEWSLEAKSGTAS发现KRYPTO9095的油管封面横幅变成了《GTA6》的概念图片，他猜测KRYPTO9095可能参与了《GTA6》的制作。在评论中，另一位推特用户ElNitrO56称他“很接近真相了”，这位ElNitrO56自称是KRYPTO9095的同事，并且ElNitrO56还在KRYPTO9095原推文评论中表示“预告片即将到来<span>”。</span>
+随后，推特用户NEWSLEAKSGTAS发现KRYPTO9095的油管封面横幅变成了《GTA6》的概念图片，他猜测KRYPTO9095可能参与了《GTA6》的制作。在评论中，另一位推特用户ElNitrO56称他“很接近真相了”，这位ElNitrO56自称是KRYPTO9095的同事，并且ElNitrO56还在KRYPTO9095原推文评论中表示“预告片即将到来<span>”。</span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220509/1652082427_967877.jpg" alt="传闻：百万粉丝油管主爆料《GTA6》即将到来" referrerpolicy="no-referrer"> 

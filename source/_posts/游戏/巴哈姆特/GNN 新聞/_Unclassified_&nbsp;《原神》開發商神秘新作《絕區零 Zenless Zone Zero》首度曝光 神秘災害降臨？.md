@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/64b453398d75bfc9ad4deeb2141g7365.JPG?v=1652077251770'
 author: 巴哈姆特
 comments: false
-date: 2022-05-09 08:13:46
+date: 2022-05-09 09:11:23
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/64b453398d75bfc9ad4deeb2141g7365.JPG?v=1652077251770'
 ---
 
@@ -52,7 +52,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/64b453398d75bfc9ad4deeb2141g7365.
 <div>
  </div>
 <div>
-　　根據先前的外電報導指出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》開發商米哈遊（miHoYo）已在 2021 年時於加拿大蒙特婁設立了工作室分部，預計將打造以栩栩如生的超自然世界為舞台、基於射擊玩法的 3A 級開放世界動作冒險遊戲，至於日否為本作則尚待確認。</div>
+　　根據先前的外電報導指出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》開發商米哈遊（miHoYo）已在 2021 年時於加拿大蒙特婁設立了工作室分部，預計將打造以栩栩如生的超自然世界為舞台、基於射擊玩法的 3A 級開放世界動作冒險遊戲，至於是否為本作則尚待確認。</div>
 <div>
  </div>
 <div>
