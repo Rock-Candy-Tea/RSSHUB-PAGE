@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692'
 author: 巴哈姆特
 comments: false
-date: 2022-05-09 04:23:08
+date: 2022-05-09 05:15:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.JPG?v=1651859735692'
 ---
 
@@ -76,6 +76,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/85bfbb030e20ff5c1276bcd49f1g6g35.
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BD%E5%86%A5%E6%97%85%E7%A8%8B" target="_blank">幽冥旅程</a>》於多平台同步上市，Steam 上購買可享 9 折優惠，售價新台幣 340 元。想要獲得更多關於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B9%BD%E5%86%A5%E6%97%85%E7%A8%8B" target="_blank">幽冥旅程</a>》的遊戲資訊，可以追蹤遊戲官網、Devolver Digital（@devolverdigital）和和開發團隊 Flying Wild Hog（@Flying_Wild_Hog）、Leonard Menchiari（@LMenchiari）的 Twitter 帳號。</div>
 </div>
+<div>
+ </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="22614" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
