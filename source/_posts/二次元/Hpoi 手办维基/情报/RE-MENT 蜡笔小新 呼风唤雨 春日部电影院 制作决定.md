@@ -1,0 +1,42 @@
+
+---
+title: 'RE-MENT 蜡笔小新 呼风唤雨 春日部电影院 制作决定'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2022/05/68ae7d8303044f7f82695a51c178fb3c.jpg?date='
+author: Hpoi 手办维基
+comments: false
+date: Mon, 09 May 2022 06:11:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/05/68ae7d8303044f7f82695a51c178fb3c.jpg?date='
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>RE-MENT 蜡笔小新 呼风唤雨 春日部电影院 制作决定<br>更新内容: 
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                        制作决定
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2022/05/68ae7d8303044f7f82695a51c178fb3c.jpg?date=" referrerpolicy="no-referrer">  
+</div>
+            
