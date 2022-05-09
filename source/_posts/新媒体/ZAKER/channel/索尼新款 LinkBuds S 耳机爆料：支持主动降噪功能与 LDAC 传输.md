@@ -1,0 +1,18 @@
+
+---
+title: '索尼新款 LinkBuds S 耳机爆料：支持主动降噪功能与 LDAC 传输'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6278dfd78e9f0903247f86cb_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 09 May 2022 03:24:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6278dfd78e9f0903247f86cb_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 9 日消息，据索尼爆料大 V"ZACKBUKS" 消息，索尼在 5 月 13 日发布 WH-1000XM5 头戴式耳机之后，将在 5 月 18 日推出新款真无线耳机 LinkBuds S 耳机。</p><p>据报道，索尼 LinkBuds S 可以自适应学习用户使用习惯并自动无缝切换环境音与降噪场景，<strong>支持主动降噪功能与索尼 LDAC 高解析度无线音频传输技术</strong>。</p><p>不久前， SnoopyTech 曝光了这款耳机的渲染图：</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202205/6278dfd78e9f0903247f86cb_1024.jpg" data-height="336" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6278dfd78e9f0903247f86cb_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86cc_1024.jpg" data-height="336" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86cc_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86cd_1024.jpg" data-height="498" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86cd_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86ce_1024.jpg" data-height="498" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6278dfd78e9f0903247f86ce_1024.jpg" referrerpolicy="no-referrer"></div></div>推特爆料人 Jon Prosser 表示索尼新款<strong> LinkBuds S 耳机售价 199 美元</strong>（约 1323.35 元人民币）。<p></p><p>IT 之家此前报道，索尼将于北京时间 2022 年 5 月 13 日早 8 点举行新品发布会，预计将发布新款 WH-1000XM5 降噪耳机。</p><p>索尼 WH-1000XM5 的外观和包装已经曝光：</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/62748e218e9f097f7c344fd8_1024.jpg" data-height="1256" data-width="820" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62748e218e9f097f7c344fd8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202205/62723f358e9f0972ff6c9ffc_1024.jpg" data-height="1054" data-width="1192" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62723f358e9f0972ff6c9ffc_1024.jpg" referrerpolicy="no-referrer"></div></div>索尼 WH-1000XM5 头戴式耳机的包装确认这款耳机支持索尼最新的<strong> 360RA 空间音频，并拥有 30 小时续航</strong>。<p></p><p>据此前爆料，这款耳机将支持蓝牙 5.2 连接，保留 3.5 毫米音频插孔和 USB-C 接口；降噪方面，<strong>消息称该耳机搭载了两个专用芯片和三个麦克风来消除噪音</strong>。此外，这款耳机的开关似乎已被滑块取代，而 " 自定义 " 按钮已重命名为 "NC / Ambient"。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
