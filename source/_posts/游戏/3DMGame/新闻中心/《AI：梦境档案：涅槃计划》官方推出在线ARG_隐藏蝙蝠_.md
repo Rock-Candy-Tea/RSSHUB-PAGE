@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220509/1652079000_8662
 
 <div>   
 <p style="text-indent:2em;">
-<strong><span style="color:#E53333;">更新：</span></strong>目前已有两个谜题出现再推特上，分别由两名失踪人员发布。
+更新：目前已有两个谜题出现再推特上，分别由两名失踪人员发布。
 </p>
 <p style="text-indent:2em;">
 谜题的答案来自于官方发布的“Bats489”视频中提供的对应线索。
@@ -48,7 +48,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220509/1652079000_8662
 <img src="https://img.3dmgame.com/uploads/images/news/20220509/1652079030_197116.png" alt="《AI：梦境档案：涅槃计划》官方推出在线ARG“隐藏蝙蝠”" referrerpolicy="no-referrer"> 
 </p>
 <h3>
-以下为原新闻：<br>
+解答方法：
+</h3>
+<p style="text-indent:2em;">
+以第二个谜题为例，根据动物和颜色的对照表可以得出数字 4、1、3、4，而 N、E、W、S 实则为英文中北、东、西、南的简写。将数字和单词对应，可以得出字母 norTh、East、weSt、SouTh。最终答案为 TEST。将答案输入至<a href="https://sunaiku-foundation.com/en/hiddenbats/" target="_blank"><span></span><strong>官方网站</strong></a><span></span>中，即可获得最终的九位数字。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220509/1652080673_610623.png" alt="《AI：梦境档案：涅槃计划》官方推出在线ARG“隐藏蝙蝠”" referrerpolicy="no-referrer"> 
+</p>
+<h3>
+以下为原新闻：
 </h3>
 <p style="text-indent:2em;">
 继上周晚些时候推出倒计时网站后，Spike Chunsoft 宣布推出《隐藏的蝙蝠（Hidden Bats）》，这是一个实时谜题，邀请用户帮助解决失踪人员案件，并将在推特和其他网站上实时展开。

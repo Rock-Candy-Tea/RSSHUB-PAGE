@@ -1,0 +1,19 @@
+
+---
+title: 'Intel VCA2视频卡拆解：三颗至强、六条内存排排坐'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0509/8ddd2fc0f8eb6df.jpg'
+author: cnBeta
+comments: false
+date: Mon, 09 May 2022 07:18:50 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0509/8ddd2fc0f8eb6df.jpg'
+---
+
+<div>   
+德国硬件大神Roman "Der8auer" Hartung最近搞到了一个特殊的玩意儿，Intel VCA2视频卡，立刻大卸八块。VCA的全称是“<strong>Visual Compute Accelerator</strong>”，视觉计算加速器的意思，说白了就是一块视频转码加速卡。<br>
+<p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0509/8ddd2fc0f8eb6df.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0509/8ddd2fc0f8eb6df.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0509/8ddd2fc0f8eb6df.jpg" referrerpolicy="no-referrer"></a></p><p>Intel VCA视频卡只有两代产品，初代发布于2015年，第二代诞生于2017年，已经在2020年停产退市。</p><p>Intel VCA2造型上是一块标准的PCIe扩展卡，PCIe 3.0 x16系统接口，双涡轮<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>，搭载<strong>三颗特别的至强E3-1585L v5处理器</strong>，整卡功耗235W。</p><p>这颗处理器采用14nm工艺，Skylake架构，4核心8线程，主频3.0-3.8GHz，集成Iris Pro P580核芯显卡、eDRAM嵌入式缓存，热设计功耗45W。</p><p><strong>H.264编码格式下，它支持最多44条1080p视频流，或者14条<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>视频流。</strong></p><p>它的输出接口也很特殊，不是HDMI，也不是DisplayPort，而是两个RJ-45网口。</p><p><img src="https://static.cnbetacdn.com/article/2022/0509/8aa6e38ea007737.png" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2022/0509/a60b1d6819eab7a.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2022/0509/aea2ef4d106a005.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2022/0509/3e5169f632fc9a9.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2022/0509/d5dc12bc7d8d1b5.jpg" referrerpolicy="no-referrer"></p><p>拆解后可以看到，<strong>内部是密集的散热片和粗壮的热管，覆盖一字排开的三颗至强处理器，并且都和对应的芯片组封装在一块基板上。</strong></p><p><strong>每颗处理器还都对应两条DDR4 SO-DIMM内存插槽，一共六条，最大容量64GB。</strong></p><p>三颗处理器连接一颗<strong>PLX桥接芯片</strong>，然后接入系统。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0509/b57162ae0c5380e.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0509/b57162ae0c5380e.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0509/b57162ae0c5380e.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0509/167fafe89a47928.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0509/167fafe89a47928.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0509/167fafe89a47928.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0509/c383875e2b1a0c5.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0509/c383875e2b1a0c5.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0509/c383875e2b1a0c5.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0509/2531f4a22b69059.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0509/2531f4a22b69059.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0509/2531f4a22b69059.jpg" referrerpolicy="no-referrer"></a></p><p>Intel VCA系列产品已经终结，目前Intel正在使用Xe GPU打造全新的视频转码加速卡，比如DG2 Arctic Sound-M，今年年中出货，业界首发集成AV1编码器，AI分析算力150TOPS，支持8条4K视频、30多条4K视频的同步转码流传输。</p><p><img src="https://static.cnbetacdn.com/article/2022/0509/57be493ac3aa0a7.jpg" referrerpolicy="no-referrer"></p><p><img src="https://static.cnbetacdn.com/article/2022/0509/d8ac34938c5e23d.jpg" referrerpolicy="no-referrer"></p>   
+</div>
+            

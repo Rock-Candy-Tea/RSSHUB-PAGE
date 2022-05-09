@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=2847'
+headimg: 'https://picsum.photos/400/300?random=5002'
 author: 金色财经
 comments: false
-date: Mon, 09 May 2022 04:27:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2847'
+date: Mon, 09 May 2022 07:26:09 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5002'
 ---
 
 <div>   
-在当前监管环境下，Web3.0在中国是否存在生根发芽的可能？原样照搬还是改头换面？合规的代价又是什么？  
+Web3.0，会成为主导世界未来20年的关键吗？  
 </div>
             
