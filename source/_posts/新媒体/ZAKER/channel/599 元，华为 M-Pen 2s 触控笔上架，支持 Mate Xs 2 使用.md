@@ -1,0 +1,18 @@
+
+---
+title: '599 元，华为 M-Pen 2s 触控笔上架，支持 Mate Xs 2 使用'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cd_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 08 May 2022 15:44:34 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cd_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 8 日消息，华为近日上架了一款 M-Pen 2s 触控笔，可配合 Mate Xs 2 折叠屏手机使用，售价 599 元，将于 6 月 1 日开售。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cd_1024.jpg" data-height="1062" data-width="917" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cd_1024.jpg" referrerpolicy="no-referrer"></div></div>据介绍，华为 M-Pen 2s 触控笔采用独特的嵌入式 USB Type-C 接头设计，拥有华为闪连快充技术，只需插入设备 USB Type-C 接口，便可连接设备，并快速充电。充电 5 分钟，书写 2 小时，最长书写 10 小时，待机最多 40 天。<p></p><p>▼ 有点像初代苹果 Apple Pencil 的充电方式</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202205/62779d95b15ec0550246c8ce_1024.jpg" data-height="746" data-width="416" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/62779d95b15ec0550246c8ce_1024.jpg" referrerpolicy="no-referrer"></div></div>该触控笔侧面配备多功能按键，配合多种笔势操作，带来更加便捷、灵活多变的操控体验：<p></p><p><strong>熄屏下：</strong></p><p>用笔点击屏幕：调出备忘录</p><p><strong>亮屏下：</strong></p><p>按住多功能按键 + 用笔点击屏幕：调出备忘录</p><p>按住多功能按键 + 用笔双点屏幕：全局截屏</p><p>按住多功能按键 + 用笔画圈：局部截屏</p><p>按住多功能按键 + 用笔滑 S 型：截长屏</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cf_1024.jpg" data-height="664" data-width="841" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8cf_1024.jpg" referrerpolicy="no-referrer"></div></div>书写体验方面，该触控笔支持侧锋倾斜绘画，4096 级压感，可以写出不同粗细的线条。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/62779d95b15ec0550246c8d0_1024.jpg" data-height="737" data-width="1368" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/62779d95b15ec0550246c8d0_1024.jpg" referrerpolicy="no-referrer"></div></div>该触控笔还支持手写笔批注模式，多种笔刷与颜色，丰富选择，多彩表达，轻松做批注。批注内容跟随书本保存，可同步到华为阅读云端，支持多设备查看。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8d1_1024.jpg" data-height="740" data-width="992" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8d1_1024.jpg" referrerpolicy="no-referrer"></div></div>外观设计方面，该触控笔采用了类似传统笔的设计，上方配有磁吸笔帽，整体为一体化磨砂防滑材质，笔尖也可以更换，附带一个备用笔尖。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8d2_1024.jpg" data-height="778" data-width="1400" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/62779d95b15ec0550246c8d2_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，华为 M-Pen 2s 触控笔重量约 17g，目前官方称支持 Mate Xs 2 折叠屏手机，对其他设备的支持要等到后续通知，售价为 599 元，已开启预约。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
