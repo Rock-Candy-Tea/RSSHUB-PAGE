@@ -1,0 +1,19 @@
+
+---
+title: 'Aviation H2计划2023年展开首次以氨为动力的喷气机飞行'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/05/8d8311fac87d952.webp'
+author: cnBeta
+comments: false
+date: Mon, 09 May 2022 04:07:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/05/8d8311fac87d952.webp'
+---
+
+<div>   
+整个航空业需要在未来几十年内停止使用喷气燃料--但它仍在购买极其昂贵的喷气飞机，而这些飞机预计将在20多年内不断带来收益。<strong>澳大利亚公司Aviation H2希望通过改造现有的飞机使其燃烧绿色的氨而非标准的Jet-A喷气燃料来净化商业飞行。</strong><br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/8d8311fac87d952.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/8d8311fac87d952.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">为此，它计划在明年年中之前让一架9座的客机在空中使用氨气飞行。</p><p style="text-align: left;">氨是一种相当有发展前景的能源载体和未来的燃料，它在航运和铁路等部门的去碳化方面具有有趣的潜力。作为目前世界上产量第二大的化学品，它主要被用作肥料，但随着清洁能源革命的启动，它将开始被有效地用作移动和储存绿色氢气的一种更简单的方式。</p><p style="text-align: left;">可再生能源并不是在你想要的地方和时间生产的。通常情况下，清洁能源的潜力跟需求所在的地方有一段不方便的距离。如果这种清洁能源被用来电解水和生产氢气，它则可以被储存和运输。但氢气还可以跟大气中的氮气混合以产生氨气，这比气态或低温液体H2的运输效果好得多。</p><p style="text-align: left;">“氢气对于它所拥有的能量来说非常轻，而液态氢甚至更轻，”航空H2主管Christof Mayer在视频聊天中告诉媒体，“但（氢）罐子又大又重。我们当然不会忽视液态氢或任何其他形式的氢气作为一种选择。我们不会关闭这些东西。我们现在只是要用氨。这是最简单的转换，从本质上讲，这将使它最可靠，这本身就使它本质上最安全。”</p><p style="text-align: left;">目前有几种不同的方法可以从氨中获取能量作为电力，不过Aviation H2已经将其作为燃烧燃料的潜力锁定。通过一些修改，一个普通的喷气发动机可以被改造成以氨为燃料，然后消除掉其所有二氧化碳排放。该操作将比氢燃料电池的转换快得多，也便宜得多，这是因为氢燃料电池需要使用者扔掉涡轮<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>发动机，转而使用电动马达来取代它们，与此同时还需要开除燃料储存系统并放入一些完全不同的东西。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/39eaf2fe24329fe.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/39eaf2fe24329fe.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">“我们需要将燃料储存系统改造成基本上类似于液化石油气罐的东西。所以是燃料储存、发动机控制和发动机，这些是我们需要开发的大项目。但我们并没有真正改变发动机的设计，”Mayer说道。</p><p style="text-align: left;">当然，在整个清洁航空革命中，安全问题将受到极大的关注，为此，Aviation H2和其他类似的公司最终将不得不使其所有的动力系统来得到相关航空当局的认证。另外，排放物也将被置于显微镜下，在这里，氨燃烧遇到了一个问题。当氨中的氢被分解并跟大气中的氧结合形成水时，一定比例的氮也在火焰中被氧化进而造成对环境有害的氮氧化物。</p><p style="text-align: left;">Mayer表示，该公司正在研究解决方案。</p><p style="text-align: left;">据悉，这家公司的最初目标是建造一架小型区域性九座喷气机并进行飞行测试。经过三个月的可行性研究，它已经跟包机运营商FalconAir签署了一项协议，从而使Aviation H2能使用FalconAir的机库、设施和运营许可证。猎鹰航空则将帮助获得用于地面测试的涡轮风扇发动机及飞机本身，最有可能是Dassault Falcon 50公务机，因为它有三个发动机，但可以用两个发动机运行。</p><p style="text-align: left;">就航程而言，最初的计划是建造一架能够进行一小时飞行的飞机，其发动机推力和性能特征跟喷气式飞机-A上得到的相同。Mayer指出，这将是一个有用的开始，比其他零碳选择更好，并且随着一些进一步的发展，该公司相信它可以使氨燃料的飞行达到传统燃料的范围。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/27efd0dc6b55736.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/27efd0dc6b55736.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Aviation H2计划在2023年中期让一架飞机在空中飞行，其中至少有一个引擎以氨为动力以此来证明这一概念--这可能是喷气动力航空的第一次，尽管从更广泛的角度来看，NASA的X-15早在1959年就以氨和液氧为动力的火箭进行飞行。然后，该公司将在证券交易所上市以筹集所需资金，进而使氨动力系统获得专利、认证并作为产品商业化。最终，Aviation H2希望开始改装现有的飞机以作为寻求脱碳的航空公司的一个过渡步骤。</p><p style="text-align: left;">长期而言，该公司设想了一种落地式机库服务，公司可以将他们的飞机放置几个星期，然后取回，之后它们就能开始无碳运行。</p><p style="text-align: left;">实际上，Aviation H2并不是唯一一家致力于氨基航空的公司。值得注意的是，英国的Reaction Engines公司即SABRE火箭发动机背后的公司，也正在进行一个类似的项目。他们似乎都已经为他们的发动机预冷器进行了台架测试，并且正在考虑高超音速的工作。另外，中佛罗里达大学已经跟波音、通用电气和其他合作伙伴合作开始了一个为期五年的氨气航空项目。据悉，该项目由NASA资助1000万美元。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=347061958&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p>   
+</div>
+            
