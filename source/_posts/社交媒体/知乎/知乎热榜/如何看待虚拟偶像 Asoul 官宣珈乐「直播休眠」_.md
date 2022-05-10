@@ -1,0 +1,18 @@
+
+---
+title: '如何看待虚拟偶像 Asoul 官宣珈乐「直播休眠」_'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-45aa11ef63ef6ca10049140e8ba8cc5c_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Tue, 10 May 2022 12:27:28 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-45aa11ef63ef6ca10049140e8ba8cc5c_1440w.jpg?source=b1748391'
+---
+
+<div>   
+猎魔杀手洛勃特的回答<br><br><p data-pid="f_mV1lfj">为大家提供更多消息，以下内容和开盒消息以及珈乐动态符合(例如送嘉然鹅肝手握)，其中宝=嘉然，大宝=乃琳。请点赞让更多朋友看到！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-45aa11ef63ef6ca10049140e8ba8cc5c_1440w.jpg?source=b1748391" data-rawwidth="720" data-rawheight="751" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-93bdce6c2824ce01e90458c36a9dc9c3_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-45aa11ef63ef6ca10049140e8ba8cc5c_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-cbda7475c957281ec5a6945b2e478c5b_1440w.jpg?source=b1748391" data-rawwidth="720" data-rawheight="4096" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-e8154d413353a411dfe49d37536f6b77_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-cbda7475c957281ec5a6945b2e478c5b_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-e690ecdd546dd19f8baa58392164cf5e_1440w.jpg?source=b1748391" data-rawwidth="960" data-rawheight="902" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-0162e82176a6717e813512c3739f9f6b_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-e690ecdd546dd19f8baa58392164cf5e_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-59909d99d75bca3dcfcaa8710a3c2887_1440w.jpg?source=b1748391" data-rawwidth="947" data-rawheight="4421" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-2bf030b13e49f418f39c1b9b70a5969a_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-59909d99d75bca3dcfcaa8710a3c2887_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-ae024e2ddaed5329c6c810e798e50337_1440w.jpg?source=b1748391" data-rawwidth="960" data-rawheight="1051" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-6ac3a99f34f79ea242f4d013d48f1ea3_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-ae024e2ddaed5329c6c810e798e50337_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="aViTa7-9">根据现在的消息，显然是珈乐身体在高强度的工作压力下状态很差，工作氛围也比较差，和运营存在一定矛盾。(这也解释了为什么直播里主动叫大它老师，恐怕不只是玩笑)</p><p data-pid="1Zir_Khk">从嘉然中之人手机现在还是很旧的款式，珈乐家人提到经济问题，可能这个企划收入也不高。(知名炒作狗乐府也如此表示)</p><p data-pid="LMz4E81m">这是符合逻辑的，众所周知asoul一开始就是个试水项目。按照一般互联网公司重技术轻运营的习惯，可能asoul几个姑娘初试合同确实工资很低，甚至远低于技术人员。</p><p data-pid="Aguu0dgG">项目组在初始合同到期后要续约</p><p data-pid="dYN4FlZZ"><b>关键来了，互联网公司HR怎么玩工资合同怎么裁员大家不清楚吗？珈乐提到的各种PUA行为不是互联网公司的老套路？</b></p><p data-pid="72HOKXkz">后面肯定是彻底谈崩盘了。asoul项目组到目前为止，我相信也认为技术>>人，这何尝不是文化工业的悲哀。</p><p data-pid="uVIPqiRh">再见了，小狼公主。</p>  
+</div>
+            
