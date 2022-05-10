@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/gdzWork/jpower-ui/raw/master/docs/image/logo.png'
 author: 开源中国
 comments: false
-date: Tue, 10 May 2022 09:11:00 GMT
+date: Tue, 10 May 2022 17:11:00 GMT
 thumbnail: 'https://gitee.com/gdzWork/jpower-ui/raw/master/docs/image/logo.png'
 ---
 

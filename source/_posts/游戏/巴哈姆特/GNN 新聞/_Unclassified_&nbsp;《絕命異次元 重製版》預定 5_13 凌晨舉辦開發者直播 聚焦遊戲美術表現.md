@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/10/809e40f236faa0a5d0f1806c6c1g7va5.JPG?v=1652175165498'
 author: 巴哈姆特
 comments: false
-date: 2022-05-10 10:11:28
+date: 2022-05-10 11:09:56
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/809e40f236faa0a5d0f1806c6c1g7va5.JPG?v=1652175165498'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/809e40f236faa0a5d0f1806c6c1g7va5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　EA 美商藝電今日（5/10）預告，開發中的科幻生存恐怖遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%91%BD%E7%95%B0%E6%AC%A1%E5%85%83+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">絕命異次元 重製版</a>（Dead Space）》（PS5 / Xbox Series X|S / PC）將於台灣時間 5 月 13 日凌晨 2 時舉辦開發者直播，揭露遊戲的美術。</div>
+　　EA 美商藝電今日（5/10）預告，開發中的科幻生存恐怖遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%91%BD%E7%95%B0%E6%AC%A1%E5%85%83+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">絕命異次元 重製版</a>（Dead Space）》（PS5 / Xbox Series X|S / PC）將於台灣時間 5 月 13 日凌晨 2:00 舉辦開發者直播，揭露遊戲的美術。</div>
 <div>
  </div>
 <div>

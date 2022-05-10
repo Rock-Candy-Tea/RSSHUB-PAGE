@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/54/67a015ad917d19fafedbfeb0fa1g71y5.JPG?v=1652070538573'
 author: 巴哈姆特
 comments: false
-date: 2022-05-10 10:11:28
+date: 2022-05-10 11:09:56
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/67a015ad917d19fafedbfeb0fa1g71y5.JPG?v=1652070538573'
 ---
 
@@ -335,7 +335,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/67a015ad917d19fafedbfeb0fa1g71y5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%99%BE%E8%8B%B1%E9%9B%84%E5%82%B3%EF%BC%9A%E5%B4%9B%E8%B5%B7" target="_blank">百英雄傳：崛起</a>》已於 5 月 10 日在 PC／PS5／PS4／Xbox Series X|S／Xbox One／Nintendo Switch 平台推出，首日同步登陸 Xbox Game Pass。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%99%BE%E8%8B%B1%E9%9B%84%E5%82%B3%EF%BC%9A%E5%B4%9B%E8%B5%B7" target="_blank">百英雄傳：崛起</a>》預計 5 月 11 日在 PC／PS5／PS4／Xbox Series X|S／Xbox One／Nintendo Switch 平台推出，首日同步登陸 Xbox Game Pass。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="22432" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
