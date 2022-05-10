@@ -1,0 +1,22 @@
+
+---
+title: '多平台
+《仙劍奇俠傳七》即將登陸 PS4 _ PS5 平台 家用主機版宣傳影片曝光
+ 4 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/62/c6bb5c1145dc755ed8eef6d9501g7ty5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/62/c6bb5c1145dc755ed8eef6d9501g7ty5.JPG'
+---
+
+<div>   
+Game Source Entertainment（GSE）今日宣布，由軟星科技（北京）有限公司開發的《仙劍奇俠傳七》即將登陸 PS4 及 PS5 平台，並由 GSE 發行。  官方表示，《仙劍奇俠傳七》採用 Unrea...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/62/c6bb5c1145dc755ed8eef6d9501g7ty5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
