@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=4586'
+headimg: 'https://picsum.photos/400/300?random=4468'
 author: 金色财经
 comments: false
-date: Mon, 09 May 2022 14:46:38 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4586'
+date: Tue, 10 May 2022 00:47:18 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4468'
 ---
 
 <div>   
-目前大多数主流的单体区块链的架构的平台，它们实际上将难以承受DeFi巨大的吞吐量。  
+从长远来看，我们预计，大多数应用将建立在rollup之上，因为这是唯一可持续的方案。  
 </div>
             
