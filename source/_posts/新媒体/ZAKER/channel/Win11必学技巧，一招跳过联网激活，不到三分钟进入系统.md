@@ -1,0 +1,18 @@
+
+---
+title: 'Win11必学技巧，一招跳过联网激活，不到三分钟进入系统'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6279d1e77f780bd559000000_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 09 May 2022 23:12:35 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6279d1e77f780bd559000000_1024.jpg'
+---
+
+<div>   
+<p>如果你是预装 Win11 或者升级到 Win11 的笔记本用户，在首次激活系统的时候，你有没有被它繁琐的激活流程劝退了一波？联网激活必须绑定微软账户，连接微软服务器的时间漫长也就罢了，要是没有账户还得花费时间去注册，设备名、邮箱、电话、密码等信息还要填写，一套组合拳下来少说也有五六分钟了。更重要的是新购买的笔记本，如果经历了上述联网注册过程则意味着电脑会被自动激活，而电商平台对于已经激活过的笔记本是不提供 7 天无理由退货的，因此对于 Win11 的用户显然非常不友好。那么有没有办法跳过联网，直接激活系统呢？答案是有的，而且非常简单，跟着操作，至少为你节省一半的时间。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202205/6279d1e77f780bd559000000_1024.jpg" data-height="478" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6279d1e77f780bd559000000_1024.jpg" referrerpolicy="no-referrer"></div></div>当新机或重置操作系统后的机子进入到联网画面后，此时你会发现界面没有任何按钮让你直接跳过这个步骤（包括开机重启），甚至说当你身边没有网络时，你甚至连激活步骤都无法完成，更不用说进入操作系统桌面使用电脑了。<p></p><p>此时，在联网界面时你只需要按下 Alt+F4 或者 Fn+Alt+F4 组合键，直接关闭联网的窗口就可以了，这种方法适用于大部分机型。但是对于部分操作无效的机型来说，可以尝试下面这种办法跳过，即进入任务管理器结束后台联网进程。操作方法是：</p><p>首先按下 Shift+F10 或者是 Fn+Shift+F10 快捷键调出命令提示符窗口，然后输入 taskmgr 命令，并按下回车键。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/6279d1e77f780bd559000001_1024.jpg" data-height="342" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6279d1e77f780bd559000001_1024.jpg" referrerpolicy="no-referrer"></div></div>接下来调出任务管理器页面后，我们默认看到的是简略信息状态，此时需要我们点击软件界面顶端的 " 详细信息 "。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202205/6279d1e77f780bd559000002_1024.jpg" data-height="633" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6279d1e77f780bd559000002_1024.jpg" referrerpolicy="no-referrer"></div></div>然后找到 "Network Connection Flow" 进程或者是 " 网络连接流 " 进程，选中后点击 " 结束任务 "，这样就可以跳过联网了。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202205/6279d1e77f780bd559000003_1024.jpg" data-height="569" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6279d1e77f780bd559000003_1024.jpg" referrerpolicy="no-referrer"></div></div>进入桌面后，在开始菜单中可能有部分图标显示空白或者灰色，这时候连接网络，会自动下载这部分内容，并且联网后也不需要绑定微软账号。<p></p><p>此外需要提醒大家，在进行到第二步输入 taskmgr 命令时，我们也可以只输入 "taskkill /F /IM</p><p>oobenetworkconnectionflow.exe" 命令，按下回车键即可快速结束联网进程，只是这个命令有点长容易输错，还是建议大家直接通过任务管理器来结束联网过程吧。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/6279d1e77f780bd559000004_1024.jpg" data-height="334" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6279d1e77f780bd559000004_1024.jpg" referrerpolicy="no-referrer"></div></div>看到这里，相信大家已经记住了 Win11 跳过联网注册快速进入桌面的过程吧，根据实测，从开机到进入 Win11 桌面，只花费了 2 分 52 秒，测试机型为搭载 Win11 操作系统的华硕无双 14，相比联网注册再进入桌面，足足节约了 5 分 11 秒，因此效率可谓杠杠的。如果大家还希望看到笔记本的其他使用技巧也欢迎留言。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
