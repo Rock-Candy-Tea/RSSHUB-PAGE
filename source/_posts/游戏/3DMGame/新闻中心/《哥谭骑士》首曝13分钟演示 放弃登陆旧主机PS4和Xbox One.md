@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 3DMGame
  - 新闻中心
-headimg: 'https://img.3dmgame.com/uploads/images/news/20220510/1652188761_642429.jpg'
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220510/1652190228_566886.png'
 author: 3DMGame
 comments: false
 date: Tue, 10 May 2022 13:17:00 GMT
-thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220510/1652188761_642429.jpg'
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220510/1652190228_566886.png'
 ---
 
 <div>   
@@ -24,13 +24,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220510/1652188761_6424
 </iframe>
 </p>
 <p style="text-indent:2em;">
-<strong>《哥谭骑士》将放弃旧主机（PS4和Xbox One），仅登陆PC，PS5和Xbox Series X|S，官方表示这是为了给玩家带来尽可能最好的体验。</strong> 
+<strong>《哥谭骑士》将放弃旧主机（PS4和Xbox One），仅登陆PC(Steam/Epic)</strong><strong>，PS5和Xbox Series X|S，官方表示这是为了给玩家带来尽可能最好的体验。</strong> 
 </p>
 <p style="text-indent:2em;">
 <strong> </strong> 
 </p>
 <p style="text-align:center;">
-<strong><img src="https://img.3dmgame.com/uploads/images/news/20220510/1652188761_642429.jpg" alt="《哥谭骑士》首曝13分钟演示 放弃登陆旧主机PS4和Xbox One" referrerpolicy="no-referrer"> </strong> 
+<img src="https://img.3dmgame.com/uploads/images/news/20220510/1652190228_566886.png" alt="《哥谭骑士》首曝13分钟演示 放弃登陆旧主机PS4和Xbox One" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 <strong>13分钟演示的官方描述：</strong> 

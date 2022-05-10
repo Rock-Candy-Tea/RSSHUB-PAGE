@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/90/36468313232f9721217c5dc75a1g85u5.JPG?v=1652189400991'
 author: 巴哈姆特
 comments: false
-date: 2022-05-10 13:42:00
+date: 2022-05-10 14:15:42
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/36468313232f9721217c5dc75a1g85u5.JPG?v=1652189400991'
 ---
 
@@ -75,7 +75,7 @@ G2（照片來源：Riot Games）</figure>
 </ul>
 </div>
 <div>
-　　今日最後一場賽事，由 PSG 對上 RED，PSG 前期人頭數就呈現落後態勢，16 分鐘 RED 在中路打出零換四，拉大雙方差距，PSG 在團戰失利、小龍遭搶、塔數也落後的劣勢下，RED 在 22 分鐘已經踏上 PSG 的高地，而 PSG 抵擋不住 RED 的攻勢，吞下首敗。</div>
+　　今日最後一場賽事，由 PSG 對上 RED，PSG 前期人頭數就呈現落後態勢，16 分鐘 RED 在中路打出零換四，拉大雙方差距，PSG 在團戰失利、小龍遭搶、塔數也落後的劣勢下，RED 在 22 分鐘已經踏上 PSG 的高地，而 PSG 抵擋不住 RED 的攻勢，以 0：13 人頭數、經濟差距落後超過一萬的狀態吞下首敗。</div>
 <div>
  </div>
 <div>

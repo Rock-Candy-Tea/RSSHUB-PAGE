@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/6cab01255f369932d682ade980f62257.png'
         <strong>KuCoin库币</strong><br>
         数字货币交易所<br>
         战略投资 / 1.5亿美元 / 1652186634<br>
-        投资方: Circle、IDG资本、经纬创投
+        投资方: Jump Crypto、Circle、IDG资本、经纬创投
         
 </div>
             
