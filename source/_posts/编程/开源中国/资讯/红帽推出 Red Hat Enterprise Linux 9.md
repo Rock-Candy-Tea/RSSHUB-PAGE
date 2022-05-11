@@ -1,0 +1,40 @@
+
+---
+title: '红帽推出 Red Hat Enterprise Linux 9'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://oscimg.oschina.net/oscnet/up-9af938abee2d7e937512efed597d6eceac7.png'
+author: 开源中国
+comments: false
+date: Wed, 11 May 2022 00:16:00 GMT
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-9af938abee2d7e937512efed597d6eceac7.png'
+---
+
+<div>   
+<div class="content">
+                                                                    
+                                                        <p><span style="color:#000000">红帽公司宣布推出 Red Hat Enterprise Linux 9。官方表示，RHEL 9 旨在推动企业转型，同时在自动化和分布式 IT 世界中与不断变化的市场力量和客户需求同步；其预计将在未来几周内普遍可用。“从庞大的公共云和微型边缘设备到简单的容器化应用程序和复杂的人工智能工作负载，现代 IT 从 Linux 开始。”</span></p> 
+<p><img height="288" src="https://oscimg.oschina.net/oscnet/up-9af938abee2d7e937512efed597d6eceac7.png" width="700" referrerpolicy="no-referrer"></p> 
+<p><span style="color:#000000">RHEL 9 是红帽基于 CentOS Stream 开发构建的第一个生产版本。IDC 研究指出，全球 Red Hat Enterprise Linux 经济预计在 2022 年将超过 13 万亿美元。并预测，到 2023 年，40% 的 G2000[公司]将重新设置云计算选择流程，以专注于业务成果而非 IT 需求，重视从设备到边缘以及从数据到生态系统对供应商组合的访问。</span></p> 
+<p><span style="color:#000000">“对红帽来说，这表明一个能够覆盖所有这些足迹并提供针对创新和生产稳定性优化的体验的标准化平台至关重要。RHEL 9 旨在满足这些需求以及更多需求，使运营团队和开发人员能够在不放弃现有工作负载或系统的情况下部署新计划。”</span></p> 
+<p><span style="color:#000000">RHEL 9 包含了专为满足</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.redhat.com%2Fen%2Fabout%2Fpress-releases%2Fred-hat-introduces-new-cross-portfolio-edge-capabilities" target="_blank">不断变化的边缘 IT 需求</a><span style="color:#000000">而设计的关键增强功能。包括：</span></p> 
+<ul style="list-style-type:disc; margin-left:0px; margin-right:0px"> 
+ <li><strong>全面的边缘管理</strong>，以服务形式提供，通过更强大的控制和安全功能来监督和扩展远程部署，包括零接触配置、系统健康可见性和更快速响应的漏洞缓解，所有这些都来自一个界面。</li> 
+ <li><strong>使用 Red Hat Enterprise Linux 的集成容器管理技术 Podman 自动回滚</strong>容器，它可以自动检测新更新的容器是否无法启动，然后将容器回滚到之前的工作版本。</li> 
+</ul> 
+<p><span style="color:#000000">RHEL 9 </span>还强调了红帽将操作系统的关键功能作为服务提供的努力，首先是一个新的图像生成器服务。该服务支持核心平台的现有功能，支持为定制文件系统和主要的云提供商和虚拟化技术创建图像，包括 AWS、谷歌云、微软 Azure 和 VMware。 </p> 
+<p style="text-align:start"><span style="color:#000000">RHEL 9 </span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>提供了可处理最敏感工作负载的强化 Linux 平台，并将创新与扩展的安全功能相结合。</span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>除了所有 Red Hat Enterprise Linux 版本都经过强化、测试和漏洞扫描之外，</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#000000">RHEL 9 </span><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>还包含有助于解决诸如 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.redhat.com%2Fen%2Fblog%2Fwhat-are-meltdown-and-spectre-heres-what-you-need-know" target="_blank">Spectre 和 Meltdown</a> 等硬件级安全漏洞的功能，以及帮助用户空间进程创建内存区域的功能潜在的恶意代码无法访问。该平台还可以满足客户的安全要求，支持 PCI-DSS、HIPAA 等。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span style="color:#000000">RHEL 9 </span><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>还引入了<strong>完整性测量架构 (IMA) </strong>数字哈希和签名。通过完整性测量架构，用户可以通过数字签名和哈希验证操作系统的完整性。这有助于检测恶意基础设施修改，从而更容易限制系统受到损害的可能性。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span style="color:#000000">RHEL 9 </span><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>将在 IBM Cloud 上提供进一步支持企业在跨开放混合云的架构和环境中的选择，并补充 IBM Power Systems 和 IBM Z 系统的关键安全特性和功能。将 IBM 架构中以安全为中心的硬件功能与 Red Hat Enterprise Linux 9 中的安全增强功能相结合，提供了许多组织在混合云计算中所需的创新、实力和安全功能。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>另一方面，</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#000000">RHEL 9 </span><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>可帮助 IT 组织在混合云中实现自动化，其功能旨在帮助降低复杂性并增强可管理性。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span>该平台引入了一组扩展的 Red Hat Enterprise Linux System Roles，它们提供了用于创建特定系统配置的自动化工作流程。Red Hat Enterprise Linux 9 进一步扩展了这一选择，为 Postfix、高可用性集群、防火墙、Microsoft SQL Server、Web 控制台等添加了新的系统角色。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span style="color:#000000">RHEL 9</span><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span> 还支持从 Red Hat Enterprise Linux Web 控制台实时修补内核，进一步自动化 IT 组织如何大规模解决关键任务。这使 IT 运营团队能够在大型分布式系统部署中应用更新，而无需访问命令行工具，从而更轻松地解决从核心数据中心到多个云再到边缘的影响生产的问题。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 
+<p style="text-align:start"><span><span><span><span><span><span style="color:#151515"><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>基于 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.redhat.com%2Fen%2Fabout%2Fpress-releases%2Fmicrosoft-and-red-hat-deliver-new-standard-enterprise-cloud-experiences" target="_blank">2015 年与 Microsoft</a> </span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="color:#000000"><span style="background-color:#ffffff">扩大的战略联盟，</span></span></span></span></span></span></span><span style="color:#000000">RHEL 9<span style="background-color:#ffffff"> 可在 Microsoft Azure 上发布，为 Microsoft SQL Server 等关键 Microsoft 技术奠定了基础。同时，</span>RHEL<span style="background-color:#ffffff"> 9 还继续全面支持 .NET 开发和应用程序。</span></span></p> 
+<p style="text-align:start"><span style="color:#000000">RHEL 9 计划将在未来几周内通过</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Faccess.redhat.com%2Fproducts%2Fred-hat-enterprise-linux%2F" target="_blank">红帽客户门户</a><span style="color:#000000">和主要云提供商市场全面上市，可通过免费的</span><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdevelopers.redhat.com%2Fproducts%2Frhel%2Foverview" target="_blank">红帽开发者计划</a><span style="color:#000000">访问 RHEL 9。</span></p> 
+<p style="text-align:start"><span style="color:#000000">更多详情可<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.redhat.com%2Fen%2Fabout%2Fpress-releases%2Fred-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9" target="_blank">查看官方公告</a>。</span></p>
+                                        </div>
+                                      
+</div>
+            

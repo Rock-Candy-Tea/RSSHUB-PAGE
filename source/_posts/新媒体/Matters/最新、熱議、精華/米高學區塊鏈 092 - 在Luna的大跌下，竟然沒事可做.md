@@ -1,0 +1,18 @@
+
+---
+title: '米高學區塊鏈 #092 - 在Luna的大跌下，竟然沒事可做'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/17c5e849-9178-4d98-b111-7f7df4806053.png'
+author: Matters
+comments: false
+date: Tue, 10 May 2022 23:39:10 GMT
+thumbnail: 'https://assets.matters.news/embed/17c5e849-9178-4d98-b111-7f7df4806053.png'
+---
+
+<div>   
+<p>在區塊鏈的加密貨幣儲蓄中，我追求的部份是「穩健增長」。但在 Luna 受的追擊下，我昨天望著屏幕數小時，並且思考了一天。我發覺，竟然「沒事可做」。</p><p>「沒事可做」有幾個原因，透過此文做記錄:</p><p><strong>1. 在 Osmosis 存在OSMO / UST 的穩定幣組合</strong></p><p>我基本上都是存在這一個池，在假設UST會與美元掛勾1比1下，這一個池是安全。可是，當UST脫勾，甚至有機會死亡時。發現形同虛設。</p><p><strong>2. 整個Cosmos生態同時極速下滑</strong></p><p>除了存放LP，我也有不少的部份是存在於不同驗證人的 Staking 中，目的是為了空投及利息。</p><p>可是，今次不單Luna受到攻擊，連帶整個 Cosmos 生態項目也受損。</p><figure class="image"><img src="https://assets.matters.news/embed/17c5e849-9178-4d98-b111-7f7df4806053.png" data-asset-id="17c5e849-9178-4d98-b111-7f7df4806053" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>在寫這文章的一個小時，UST又再受追擊，再度從 0.91 被壓至 0.77 的情況，下跌速度奇快。而LUNA跌得更快，現時已到16美元。</p><figure class="image"><img src="https://assets.matters.news/embed/8a4298e3-69ed-4274-bdd0-145f97fd5681.png" data-asset-id="8a4298e3-69ed-4274-bdd0-145f97fd5681" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><figure class="image"><img src="https://assets.matters.news/embed/db1b9e08-cb66-42f1-82b6-06801ecb6cfd.png" data-asset-id="db1b9e08-cb66-42f1-82b6-06801ecb6cfd" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>昨天，我只能將收到的不同利息，轉為EEUR (E-money 的歐元穩定幣)。之後，我就沒事可以做。很多人也是這樣做，但是 EEUR 也是難逃下跌的命運。</p><figure class="image"><img src="https://assets.matters.news/embed/a77e94dd-69cf-4f7b-a0c9-cb442c198f64.png" data-asset-id="a77e94dd-69cf-4f7b-a0c9-cb442c198f64" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>在以為很安全的情況下，原來已變得不安全。</p><p>第二天的 Luna 及 UST 受壓，比第一天更厲害及嚴重。</p><p><strong>這一波，我可以考慮的事情只有一個，就是決定是否從 UST 的池中「離場」？</strong></p><p>在 OSMOSIS 的池裡，離場需要十四天時間，不過，我相信有不少人已做了離場決定。但是，我又走不到那裡。只有換回 USDC 一條路。</p><p>今天，LUNA 及 UST 會跌得更凶。因為在排著買便宜的UST掛單，數量越來越多。</p><figure class="image"><img src="https://assets.matters.news/embed/2a3ae946-a11c-47be-9317-ef932fb9783c.png" data-asset-id="2a3ae946-a11c-47be-9317-ef932fb9783c" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><p>這樣的情況，我又嘗試回想過往的經歷，了解自己怎樣跨過。</p><p>我在 Steem 裡經歷過一次。在 Steem 至高峰的9美元 (2018年1月)，下跌至2美元時 (2018年3月)，大家仍滿有瞳景，可是最終跌至 0.08美元 (2020年3月)。</p><p>這一個過程最痛苦是能否捱過低谷的時期。按道理，Steem 或 Hive 應該也很容易選擇「放棄」。不過，最後活了下來，並且，那些陪著活下來的人，在低谷時，慢慢儲了不少的 Token。</p><p>我當時走過Steem低谷時，就是看到身邊的朋友一個又一個放棄。而我仍在傻傻的慢慢收集，結果從最初的三百個 Steem，慢慢累積至八萬多個Steem。但是歷時要三年時間。</p><p>這一次，能否也如此的心情況?</p><p>Terra (LUNA) 的價值比 Steem 重要得多，當年我也擔心 Steem 會隨時倒下。現時，LUNA 的情況，我也有同樣的擔心。</p><p>LUNA 內，雲集的，應該是一班數學家。數學家看事情很直接，就是遇到難題，就想方法去破解難題。而今次的難題，就是UST的生死存亡。</p><p>我從火幣的買賣掛單中，看到與昨天很不一樣的列表。昨天是一種恐慌性的拋售，在買入單上，機乎被清空，甚至只有很少人願意掛單買入。</p><p>不過，今天很不一樣，買入掛單是滿滿的，甚至是 0.4 或 0.5 美元也有大量掛單。</p><p>在經過一天的思考下，有一些人看到這「美元 套 美元」的套利機制。看到項目方最重要是將 UST 穩定在 1美元。所以，最終金額必然會朝著 1美元的方向。因而，就在比較低的價錢，不斷吸納 UST。這或許就是在負面環境下，唯一的正面思考吧。</p><p>這到底能否代表 LUNA 仍有生存機會? 不過，LUNA 若能繼續生存，未來的一段路會相當難走，要吸引回用戶的信心，真的很難。</p><p>我手上的 LUNA 大約有3000美元，這一次的跌幅，相當巨大。 <strong>現時已無意賣出了，反而是在想，怎樣將這一筆的 LUNA 增加數量，多數決定是放在 Crescent 裡收 LP 利息。</strong></p><p>心裡期盼 UST 能跨過這一個熊市及受攻擊外，最希望是在幾年時間裡，手上會儲更多的 ETH 及 LUNA。ETH 能從兩年前的 80美元，也能走出低谷。而 LUNA 上，仍有不少人為這項目打氣及推出Terra生態項目，實在不希望 LUNA 就此倒下。只要不倒下，未來就有機會。</p><p>最後，也報一報今天的恐慌指數，現時是10：</p><figure class="image"><img src="https://assets.matters.news/embed/ecd37883-5bc7-4893-ad0e-cc3423610f8f.png" data-asset-id="ecd37883-5bc7-4893-ad0e-cc3423610f8f" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p>  
+</div>
+            

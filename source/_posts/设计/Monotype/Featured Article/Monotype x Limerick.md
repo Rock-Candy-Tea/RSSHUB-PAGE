@@ -670,13 +670,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-                  <span>It's great for the the students to be able to go out to industry and say, ‘we've worked with these people, we've worked with Monotype,’ amongst others - it's fantastic experience for them.</span>
+                  <span>It’s great for the the students to be able to go out to industry and say, ‘we’ve worked with Monotype.’ It’s fantastic experience for them.</span>
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
                 <div class="field__item">
-        <p>Eamon Spelman, Senior Lecturer at Limerick. </p>
+        <p>Eamon Spelman, Senior Lecturer at Limerick.</p>
             </div>
           </div>
 
