@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/49/2620161d738fb2bffe20b47cb21g8d15.JPG?v=1652195477281'
 author: 巴哈姆特
 comments: false
-date: 2022-05-11 10:11:40
+date: 2022-05-11 11:08:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/49/2620161d738fb2bffe20b47cb21g8d15.JPG?v=1652195477281'
 ---
 
@@ -143,13 +143,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/49/2620161d738fb2bffe20b47cb21g8d15.
 <li>
 發售日期：2022 年 10 月 25 日</li>
 <li>
-建議售價：未定</li>
+建議售價：標準版 新台幣 2090 元，豪華版 新台幣 2615 元</li>
 <li>
-語言版本：英文（其餘待定）</li>
+語言版本：繁體中文 / 英文 / 韓文等</li>
 <li>
 遊玩人數：1 人（連線 2 人）</li>
 <li>
-年齡分級：未定</li>
+年齡分級：輔 15 級</li>
 <li>
 開發廠商：Warner Bros. Games Montréal</li>
 <li>
