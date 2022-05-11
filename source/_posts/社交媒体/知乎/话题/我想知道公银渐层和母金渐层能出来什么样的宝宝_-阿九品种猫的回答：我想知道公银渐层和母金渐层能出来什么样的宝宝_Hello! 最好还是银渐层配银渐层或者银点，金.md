@@ -1,0 +1,18 @@
+
+---
+title: '我想知道公银渐层和母金渐层能出来什么样的宝宝_-阿九品种猫的回答：我想知道公银渐层和母金渐层能出来什么样的宝宝_Hello! 最好还是银渐层配银渐层或者银点，金...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-336d7fbafd18dc4ac43ae00da42a7c9f_1440w.jpg'
+author: 知乎
+comments: false
+date: Wed, 11 May 2022 08:10:33 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-336d7fbafd18dc4ac43ae00da42a7c9f_1440w.jpg'
+---
+
+<div>   
+<strong>我想知道公银渐层和母金渐层能出来什么样的宝宝?</strong><br>阿九品种猫的回答<br><h2>我想知道公银渐层和母金渐层能出来什么样的宝宝?</h2><p data-pid="99heRYkU">Hello!</p><p data-pid="P32FRbbL">最好还是银渐层配银渐层或者银点，金渐层配金渐层或者金点，混搭出来的后代颜色会比较杂乱。</p><p data-pid="NO-3HRuo">比如颜色较深，斑纹比较明显，看着有点像狸花猫。</p><p data-pid="H-lEHvrH">实际出现的颜色五花八门，银的，金的，黑的，橘的，如下图便是一只金渐层搭配银渐层后代</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-336d7fbafd18dc4ac43ae00da42a7c9f_1440w.jpg" data-caption data-size="normal" data-rawwidth="476" data-rawheight="388" data-default-watermark-src="https://pic3.zhimg.com/v2-d1387b3e22e36fb50b09a6d0b08642be_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-336d7fbafd18dc4ac43ae00da42a7c9f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="nGpj4kPu">可能出现金虎斑</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-77783455857421798567be69e9ceedc6_1440w.jpg" data-caption data-size="normal" data-rawwidth="547" data-rawheight="412" data-default-watermark-src="https://pic2.zhimg.com/v2-03d3ae04ae52ed6103e695a315747d59_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-77783455857421798567be69e9ceedc6_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="JLKoCSTH">而金虎斑的价格相对金渐层会低一些，主要分为以下三种斑纹</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-533dd525ca0645063783986105842c7f_1440w.jpg" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2034" data-default-watermark-src="https://pic2.zhimg.com/v2-294e565290c0c797fa06a0242dc12e75_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-533dd525ca0645063783986105842c7f_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="-xXIbdM-">再说说怎么看小家伙的眼睛色素好坏，</p><p data-pid="56xjfLmn">金渐层和银渐层都以绿色为佳，</p><p data-pid="dN_dqNn0">从黄色到墨绿色，越绿越好</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-4081963478c984c9b05898d7158f7b27_1440w.jpg" data-caption data-size="normal" data-rawwidth="1601" data-rawheight="1004" data-default-watermark-src="https://pic1.zhimg.com/v2-75966576a8dd737040e2de4cedce928c_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-4081963478c984c9b05898d7158f7b27_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="tuT9S9hD">希望阿九品种猫的回答能破除题主的疑惑。要是还有不理解处就追问喔。</p><h2>题目更详尽的相关知识干货，就看这篇整理了一个月的文章，一次性搞懂英短猫！</h2><a href="https://zhuanlan.zhihu.com/p/453862038" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-3ff47f918e5b7a547ae0d93ba64ba28b_180x120.jpg" data-image-width="555" data-image-height="236" class="internal">阿九品种猫：金渐层，银渐层，乳白，蓝白，蓝猫，英短最新市场行情价格，在哪里购买，如何看血统是否纯正，存在失格的现象？</a>  
+</div>
+            
