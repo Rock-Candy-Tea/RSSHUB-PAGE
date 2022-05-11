@@ -1,0 +1,18 @@
+
+---
+title: '增强版 UFS 3.1 到底有多强？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd3_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 10 May 2022 18:08:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd3_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd3_1024.jpg" data-height="607" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd3_1024.jpg" referrerpolicy="no-referrer"></div></div>首先明确一个概念，UFS 3.1 是闪存，要搞懂增强版 UFS 3.1 相比于非增强版、非超频版强了多少，那我们就得先从 UFS 3.1 标准的发布开始聊起了。<p></p><p>UFS 3.1 规范（又名 JESD220E）最早发布于 2019 年 6 月，我们现在常用的 UFS 3.1 规范其实是更新版，加入 HPB，发布于 2020 年 1 月。</p><p>看名字就知道和 UFS 3.0 规范不会有太差异。实际也正是如此，UFS 3.1 在速度上其实和 UFS 3.0 规范一致，只不过 JEDEC 在 UFS 3.0 的基础上又提出了三项强制性要求以及一项可选要求：</p><p><strong>1、写增强（Write Booster），使用伪 SLC 缓存来提高写入速度；</strong></p><p><strong>2、深度睡眠（Deep Sleep），设备能有一种新的低功耗状态；</strong></p><p><strong>3、性能限制通知（Performance Throttling Notification），设备在过热时通知主机有关性能限制的信息；</strong></p><p><strong>4、主机性能增强技术（Host Performance Booster），解决长期使用后的卡顿问题（可选要求）。</strong></p><p>第一款使用 UFS 3.1 的机型是 iQOO 3，闪存是三星供货，硬件型号和此前一些 UFS 3.0 一致，但固件有所更新。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd4_1024.jpg" data-height="900" data-width="900" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd4_1024.jpg" referrerpolicy="no-referrer"></div></div>实测顺序读取速度为 1721.49MB/s、顺序写入速度为 732.91MB/s、随机读取速度为 260.37MB/s、随机写入速度为 241.88MB/s，顺序读写相比 UFS 3.0 有 200-300MB/s 的提升，随机读写提升则不是很明显。<p></p><p>而所谓增强版 UFS 3.1 闪存，则是相对于最初 UFS 3.1 标准闪存芯片而言的，例如三星目前总共有三代 UFS 3.1 标准闪存，第二代和第三代都能被称之为增强版 UFS 3.1。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd5_1024.jpg" data-height="1235" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd5_1024.jpg" referrerpolicy="no-referrer"></div></div>而比较早用到「增强版 UFS 3.1」这个名词的比如有 2021 年初的 iQOO 7，随机写入速度比 iQOO 5 的 UFS 3.1 快 17.3%。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd6_1024.jpg" data-height="635" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627b14208e9f097e8b1ebcd6_1024.jpg" referrerpolicy="no-referrer"></div></div>真正的提升还要看最新一代的 UFS 闪存。<p></p><p>刚刚过去的 5 月 4 日，三星发布了 1TB UFS 4.0 闪存芯片，顺序读取速度可达 4200MB/s、顺序写入速度可达 2800MB/s，读写速率相比于 UFS 3.0、UFS 3.1 有质的提升，甚至比隔壁 UFS 3.1 + SSD 磁盘阵列还高。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd7_1024.jpg" data-height="548" data-width="1061" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627b14208e9f097e8b1ebcd7_1024.jpg" referrerpolicy="no-referrer"></div></div>而至于何时应用，目测最早要等到年底的骁龙 8 Gen2 机型上才能看到，我们耐心等待即可。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
