@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714'
 author: 巴哈姆特
 comments: false
-date: 2022-05-11 04:28:32
+date: 2022-05-11 05:22:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG 2x" style="max-width: unset;" title="《國際足盟大賽 22》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714" data-srcset="https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG 2x" style="max-width: unset;" title="《國際足盟大賽 22》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%9B%9F%E5%A4%A7%E8%B3%BD+22" target="_blank">國際足盟大賽 22</a>》</figure>
 </li>
@@ -103,27 +103,27 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.
 <div>
  </div>
 <div>
-<span style="font-size:16px;">英格蘭足球超級聯賽：「EA SPORTS 是英格蘭足球超級聯賽長期且重要的夥伴，我們期待與 EA SPORTS FC 在嶄新時代持續合作。」——英格蘭足球超級聯賽行政總裁 Richard Masters</span></div>
+<span style="font-size:16px;">英格蘭足球超級聯賽「EA SPORTS 是英格蘭足球超級聯賽長期且重要的夥伴，我們期待與 EA SPORTS FC 在嶄新時代持續合作。」——英格蘭足球超級聯賽行政總裁 Richard Masters</span></div>
 <div>
  </div>
 <div>
-<span style="font-size:16px;">西班牙足球甲級聯賽：「EA SPORTS 代表著當今和未來互動式足球體驗的巔峰，20 多年一路走來，能與他們繼續合作是我們的榮幸。」西班牙足球甲級聯賽總裁 Javier Tebas 表示。「我們致力於與 EA SPORTS FC 合作，提供創新和真實的體驗，並於未來數年在世界各地攜手培養人們對足球的熱愛。」</span></div>
+<span style="font-size:16px;">西班牙足球甲級聯賽「EA SPORTS 代表著當今和未來互動式足球體驗的巔峰，20 多年一路走來，能與他們繼續合作是我們的榮幸。」西班牙足球甲級聯賽總裁 Javier Tebas 表示。「我們致力於與 EA SPORTS FC 合作，提供創新和真實的體驗，並於未來數年在世界各地攜手培養人們對足球的熱愛。」</span></div>
 <div>
  </div>
 <div>
-<span style="font-size:16px;">德國甲級足球聯賽：「我們與美商藝電有著出色的合作夥伴關係，」德國甲級足球聯賽執行長 Donata Hopfen 表示。「EA SPORTS 被公認是足球世界寶貴的一員，我們對於彼此間創新合作夥伴關係所帶來的一切感到非常興奮。我們期待能目睹德國甲級足球聯賽和德國乙級足球聯賽併入 EA SPORTS FC 的景象。」</span></div>
+<span style="font-size:16px;">德國甲級足球聯賽「我們與美商藝電有著出色的合作夥伴關係，」德國甲級足球聯賽執行長 Donata Hopfen 表示。「EA SPORTS 被公認是足球世界寶貴的一員，我們對於彼此間創新合作夥伴關係所帶來的一切感到非常興奮。我們期待能目睹德國甲級足球聯賽和德國乙級足球聯賽併入 EA SPORTS FC 的景象。」</span></div>
 <div>
  </div>
 <div>
-<span style="font-size:16px;">歐足聯：「我們共同致力於為世界各地的球迷提供服務，我們期待與 EA SPORTS FC 繼續合作，為玩家提供他們喜愛的俱樂部比賽以及真實遊戲體驗。」- Guy-Laurent Epstein，歐足聯營銷總監</span></div>
+<span style="font-size:16px;">歐足聯「我們共同致力於為世界各地的球迷提供服務，我們期待與 EA SPORTS FC 繼續合作，為玩家提供他們喜愛的俱樂部比賽以及真實遊戲體驗。」</span>——<span style="font-size:16px;">Guy-Laurent Epstein，歐足聯營銷總監</span></div>
 <div>
  </div>
 <div>
-<span style="font-size:16px;">南美洲足球協會：「透過數位體驗，將足球粉絲與自己所喜愛的球會、球員、比賽以及隊友玩家進行連接，這對足球愛好者的未來意義非凡。我們很榮幸能與 EA SPORTS FC 合作，為世界各地的粉絲提供這些沉浸式的體驗。」——南美洲足球協會行銷與貿易總監 Juan Emilio Roa</span></div>
+<span style="font-size:16px;">南美洲足球協會「透過數位體驗，將足球粉絲與自己所喜愛的球會、球員、比賽以及隊友玩家進行連接，這對足球愛好者的未來意義非凡。我們很榮幸能與 EA SPORTS FC 合作，為世界各地的粉絲提供這些沉浸式的體驗。」——南美洲足球協會行銷與貿易總監 Juan Emilio Roa</span></div>
 <div>
  </div>
 <div>
-<span style="font-size:16px;">NIKE：「我們在體育、遊戲與文化領域上為運動員提供服務，因此很榮幸能與 EA SPORTS 持續並肩前行並拓展我們長久的夥伴關係。」NIKE 執行副總裁兼行銷執行長 DJ van Hameren 表示。「我們與 EA SPORTS FC 的夥伴關係將讓我們社群以更豐富且真實的方式參與體育並遊玩。」</span></div>
+<span style="font-size:16px;">NIKE「我們在體育、遊戲與文化領域上為運動員提供服務，因此很榮幸能與 EA SPORTS 持續並肩前行並拓展我們長久的夥伴關係。」NIKE 執行副總裁兼行銷執行長 DJ van Hameren 表示。「我們與 EA SPORTS FC 的夥伴關係將讓我們社群以更豐富且真實的方式參與體育並遊玩。」</span></div>
 </td>
 </tr>
 </tbody>
