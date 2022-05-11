@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/282/467/239/063/186/original/84810ccd690a38e2.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/282/727/040/388/213/original/cfc682893cb1e837.png'
 author: Mastodon
 comments: false
-date: Wed, 11 May 2022 08:55:56 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/282/467/239/063/186/original/84810ccd690a38e2.png'
+date: Wed, 11 May 2022 10:01:39 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/282/727/040/388/213/original/cfc682893cb1e837.png'
 ---
 
 <div>   
-<hr><p>そういえば今朝フィーチャーでさくまれ(星5)(被り)出したキレた死ぬ<br>PUのさくまれ(星4)は出てない</p><br><img src="https://img.pawoo.net/media_attachments/files/108/282/467/239/063/186/original/84810ccd690a38e2.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>来やがった…………………………………</p><br><img src="https://img.pawoo.net/media_attachments/files/108/282/727/040/388/213/original/cfc682893cb1e837.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
