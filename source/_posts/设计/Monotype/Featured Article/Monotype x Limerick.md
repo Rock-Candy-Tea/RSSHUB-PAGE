@@ -201,11 +201,11 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
         
               <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
                 <div class="field__item">
-        <p>Over the past four years, we’ve been lucky to forge a close partnership with the Limerick School of Art and Design in Ireland. The school is Creative Type Director Tom Foley’s alma mater, and since joining Monotype in 2018, Foley and his teammates have worked on several workshops and course modules with the leading fine art, design and creative media school.   </p>
+        <p>Over the past four years, we’ve been lucky to forge a close partnership with the Limerick School of Art & Design/TUS in Ireland. The school is Creative Type Director Tom Foley’s alma mater, and since joining Monotype in 2018, Foley and his teammates have worked on several workshops and course modules with the leading fine art, design and creative media school.   </p>
 
 <p>Pre-COVID, Foley was able to visit the school and provide an interactive, in-person workshop to kick off the curriculum. “Spending time on site with students and educators is so valuable. For them it humanizes the sometimes intimidating subject of typography, and for us it provides context and feedback on what we are teaching and showing to students. Their response to our teaching is as valuable to us as our experience is to them. It’s a two-way street. We were already planning the brief for 2020 when COVID hit. Given that the students had already faced unprecedented disruption, we were determined to find a way to adapt our brief to give them as good an experience as possible via a ‘virtual’ experience,” says Foley.</p>
 
-<p>So in 2020 and 2021, Foley and his teammate Emilios Theofanous worked with Limerick to create a fully virtual offering. It was important that the brief was engaging and worthwhile for the fourth-year students. Eamon Spelman, senior lecturer at the school of Graphic Design Communication, and our partner in the program, talked of the importance of this type of partnership, “It is important for us educators too, because we see how important typography and typographic practice is. We see it as central to what we do as graphic designers. I always say that we own it; that typography is ours, because we share so many other disciplines with others: like animation or illustration. I really value the importance of putting typography into the central aspect of what the students learn here on the course.”   </p>
+<p>So in 2020 and 2021, Foley and his teammate Emilios Theofanous worked with Limerick to create a fully virtual offering. It was important that the brief was engaging and worthwhile for the fourth-year students. Eamon Spelman, Lecturer for the graphic for the Graphic Design Communication Course, and our partner in the program, talked of the importance of this type of partnership, <span><span><span><span><span>“As educators, we know how important typography and good typographic practice is. We see it as central to what we do as graphic designers. I sometimes say that we own it; that typography is ours. We share so many other areas of design practice with others: like animation or illustration and I value the importance of putting typography as the central aspect of what the students learn here on the course.”</span></span></span> </span></span></p>
 
 <p>Teaching virtually required us to adjust what we ask of students, and how we support them. Pre-COVID we focused primarily on print and the craft of digital typesetting. These aspects of typography are still vital but did not translate well to the ‘new normal’ that students and teachers were facing. We decided to adapt our brief to incorporate other, equally important aspects of our typographic business that would enrich the experience of learning online.   </p>
             </div>
@@ -670,13 +670,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-                  <span>It’s great for the the students to be able to go out to industry and say, ‘we’ve worked with Monotype.’ It’s fantastic experience for them.</span>
+                  <span>It’s great for the the students to be able to go out to industry and say, ‘we’ve worked with Monotype’ and it’s been a fantastic experience for them.</span>
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
                       <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
                 <div class="field__item">
-        <p>Eamon Spelman, Senior Lecturer at Limerick.</p>
+        <p><span><span><span><span><span>Eamon Spelman, Lecturer at Limerick School of Art and Design / TUS.</span></span></span></span></span></p>
             </div>
           </div>
 

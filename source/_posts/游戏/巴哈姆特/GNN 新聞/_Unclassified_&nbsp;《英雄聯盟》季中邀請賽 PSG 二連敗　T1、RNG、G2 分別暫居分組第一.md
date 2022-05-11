@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/61/c265c24e76048562cde3c3e88a1g9555.PNG?v=1652277422407'
 author: 巴哈姆特
 comments: false
-date: 2022-05-11 14:10:29
+date: 2022-05-11 15:11:16
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/c265c24e76048562cde3c3e88a1g9555.PNG?v=1652277422407'
 ---
 
@@ -93,6 +93,18 @@ G2</figure>
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/ZN4HBZ7OqA0?wmode=transparent" width="100%"></iframe></div>
 </div>
+<div>
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/79/3eb25ee778f95bca37ac29d9c71g95n5.JPG?v=1652278309504" data-srcset="https://p2.bahamut.com.tw/B/2KU/79/3eb25ee778f95bca37ac29d9c71g95n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/79/3eb25ee778f95bca37ac29d9c71g95n5.JPG 2x" style="text-align: center; max-width: unset;" title="圖片來源：Riot Games" alt="image" referrerpolicy="no-referrer"></div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figure class="pic-desc">
+圖片來源：Riot Games</figure>
+</li>
+</ul>
+</div>
+<div>
+ </div>
 <div>
  </div>
 <div>
