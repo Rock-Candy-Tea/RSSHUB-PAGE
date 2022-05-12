@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-05-12 08:11:52
+date: 2022-05-12 09:10:45
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.
  </div>
 </div>
 <div>
-　　他在訪談中表示，如果是在戰隊宿舍比賽，可以用自己姿態來比賽（不緊張），但在比賽舞台的時候感覺非常緊張，對於設備也特別要注意，有時候不太順利就覺得很累。</div>
+　　他在訪談中表示，如果自己是在戰隊宿舍比賽，可以用自己姿態來比賽（不緊張），但在比賽舞台的時候感覺非常緊張，對於設備也特別要注意，有時候不太順利就覺得很累。</div>
 <div>
  </div>
 <div>
@@ -46,7 +46,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.
 　　對於接下來要面對對手 IW，Bay 表示，他會盡量彌補前兩場的失誤，目標希望能夠進入對抗賽（Rumble Stage）。</div>
 <div>
 <br>
-<img border="0" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG 2x" alt="image" referrerpolicy="no-referrer"></div>
+<img alt="image" border="0" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/7b83f7601473b9cdeedd4810af1g9gz5.JPG 2x" referrerpolicy="no-referrer"></div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="125" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

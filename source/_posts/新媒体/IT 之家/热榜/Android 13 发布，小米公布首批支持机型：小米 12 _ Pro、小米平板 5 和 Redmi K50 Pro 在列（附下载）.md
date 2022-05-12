@@ -1,0 +1,20 @@
+
+---
+title: 'Android 13 发布，小米公布首批支持机型：小米 12 _ Pro、小米平板 5 和 Redmi K50 Pro 在列（附下载）'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/253272c4-6bbc-4f6b-8042-6cb0cc8ea7cc.jpg'
+author: IT 之家
+comments: false
+date: Wed, 11 May 2022 23:30:48 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/253272c4-6bbc-4f6b-8042-6cb0cc8ea7cc.jpg'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1734279" rel="nofollow">liyi820</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1303143" rel="nofollow">草莓可鲤饼</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1227804" rel="nofollow">西洋武士</a> 的线索投递！</div>
+            <p data-vmark="27b6"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 5 月 12 日消息，今日凌晨，在谷歌 I / O 开发者大会上，Android 13 正式发布。随后，小米 MIUI 官方宣布，<strong>小米 12、小米 12 Pro、小米平板 5 和 Redmi K50 Pro 首批支持 Android 13 Beta 1</strong>。</p><p style="text-align: center;" data-vmark="9b65"><img src="https://img.ithome.com/newsuploadfiles/2022/5/253272c4-6bbc-4f6b-8042-6cb0cc8ea7cc.jpg" w="690" h="920" alt="小米12/Pro支持Android 13 Beta 1" title="Android 13 发布，小米公布首批支持机型：小米 12 / Pro、小米平板 5 和 Redmi K50 Pro 在列（附下载）" width="690" height="920" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="0d0b"><img src="https://img.ithome.com/newsuploadfiles/2022/5/89dd284e-fd03-4ca8-8272-3564f1432191.jpg" w="690" h="920" alt="小米平板5支持Android 13 Beta 1" title="Android 13 发布，小米公布首批支持机型：小米 12 / Pro、小米平板 5 和 Redmi K50 Pro 在列（附下载）" width="690" height="920" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="c6c0"><img src="https://img.ithome.com/newsuploadfiles/2022/5/7aa8c9a1-d216-40a4-8691-2bc5f767d9ee.jpg" w="690" h="920" alt="Redmi K50 Pro支持Android 13 Beta 1" title="Android 13 发布，小米公布首批支持机型：小米 12 / Pro、小米平板 5 和 Redmi K50 Pro 在列（附下载）" width="690" height="920" referrerpolicy="no-referrer"></p><p data-vmark="99cc">小米表示，开发者们现在可以使用这些机型，体验 Android 13 开发者预览版，试用新 API 并测试平台变更，让应用为 Android 13 做好准备。</p><p data-vmark="610a">IT之家了解到，目前，小米 12、小米 12 Pro、小米平板 5 和 Redmi K50 Pro 可通过以下链接，<strong>线刷 Android 13 Beta</strong>。</p><p data-vmark="c06a">小米 12 Android 13 Beta：<a href="https://cdn.cnbj1.fds.api.mi-img.com/build/2.05.06.native.user.dpp/cupid_dpp_android_images_2.05.06.native.user.dpp_20220506.0000.00_13.0_6b22432307.tgz?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=UlwgstnEXD8ADt5/Wa4C5NKouSY=" target="_blank">点击下载</a></p><p data-vmark="47f4">小米 12 Pro Android 13 Beta：<a href="https://cdn.cnbj1.fds.api.mi-img.com/build/2.05.06.native.user.dpp/zeus_dpp_android_images_2.05.06.native.user.dpp_20220506.0000.00_13.0_46d74c6abf.tgz?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=VKXl6WMlNkm0J7GtL4uEiKpvv00=" target="_blank">点击下载</a></p><p data-vmark="ba0f">Redmi K50 Pro Android 13 Beta：<a href="https://cdn.cnbj1.fds.api.mi-img.com/build/2.04.28.native.user.dpp/matisse_dpp_android_images_2.04.28.native.user.dpp_20220428.0000.00_13.0_95dc9b1d3f.tgz?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=+8Dbauki7/fFGbXoFkNW+C/Al7c=" target="_blank">点击下载</a></p><p data-vmark="ee66">小米平板 5 Android 13 Beta：<a href="https://cdn.cnbj1.fds.api.mi-img.com/build/2.05.07.native.user.dpp/nabu_dpp_android_images_2.05.07.native.user.dpp_20220507.0000.00_13.0_4a3b03edc2.tgz?GalaxyAccessKeyId=5151729087601&Expires=9223372036854775807&Signature=oFTJtcl828NpEHacZTfpUPcfVXs=" target="_blank">点击下载</a></p><p style="text-align: left;" data-vmark="f0b7">需要注意的是，<strong>以上为原生 Android 13 Beta 系统包（非 MIUI 版本）</strong>，小米提醒称其他机型请勿下载安装。</p><p style="text-align: left;" data-vmark="25d3">此外，小米平板 5 Pro 5G、小米平板 5 Pro、小米平板 5 Android 12 开发版内测<strong>预计将于 6 月 6 日起逐步推送</strong>。</p>
+          
+</div>
+            

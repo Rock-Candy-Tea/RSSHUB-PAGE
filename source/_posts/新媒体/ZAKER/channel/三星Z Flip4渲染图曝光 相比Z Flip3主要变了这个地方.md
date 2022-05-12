@@ -1,0 +1,18 @@
+
+---
+title: '三星Z Flip4渲染图曝光 相比Z Flip3主要变了这个地方'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627c7f158e9f090af975001d_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 12 May 2022 00:46:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627c7f158e9f090af975001d_1024.jpg'
+---
+
+<div>   
+<p>【手机中国新闻】根据惯例，三星将在不久后更新 Galaxy Z Fold 和 Galaxy Z Flip 产品线，可能是在 8 月的 Unpacked 活动中。Z Fold 4 和 Z Flip4 的到来，将进一步巩固三星在可折叠领域的主导地位。日前，三星 Z Fold 4 的渲染图已经被曝光了。5 月 12 日，91mobiles 又带来了 Z Flip4 的渲染图。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/627c7f158e9f090af975001d_1024.jpg" data-height="315" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627c7f158e9f090af975001d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/627c7f158e9f090af975001e_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627c7f158e9f090af975001e_1024.jpg" referrerpolicy="no-referrer"></div></div>三星 Z Flip4 渲染图曝光<p></p><p>从外观上看，三星 Z Flip4 看起来与前代产品相差不大，只是尺寸略有变化。手机还应该有多种颜色可供选择。</p><p>三星 Z Flip4 将继续采用窄边框和翻盖式设计，与其前身一样。展开后可以看到一个高大的柔性显示屏，带有用于容纳自拍相机的打孔切口和可能更好的铰链设计。这款手机似乎有一个铝制框架和一个玻璃背板。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/627c7f158e9f090af975001f_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627c7f158e9f090af975001f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/627c7f158e9f090af9750020_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627c7f158e9f090af9750020_1024.jpg" referrerpolicy="no-referrer"></div></div>三星 Z Flip4 渲染图曝光<p></p><p>USB Type-C 端口、主麦克风、SIM 托盘部分和扬声器格栅位于设备底部。电源按钮兼指纹传感器和音量按键位于右侧。在背面，Z Flip4 配备了两颗摄像头、一个显示时间的辅助屏幕，可以展示音乐、通知等，以及一个 LED 闪光灯。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202205/627c7f158e9f090af9750021_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627c7f158e9f090af9750021_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202205/627c7f158e9f090af9750022_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627c7f158e9f090af9750022_1024.jpg" referrerpolicy="no-referrer"></div></div>三星 Z Flip4 渲染图曝光<p></p><p>据 OnLeaks 透露，三星 Z Flip4 设计差不多与 Z Flip3 相同，只是尺寸不同。据说这款手机配备了一块 6.7 英寸显示屏，尺寸约为 165.1×71.9×7.2mm。Z Flip4 的规格目前处于保密状态，但我们推测它可能将配备骁龙 8 Gen 1 Plus 移动平台。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
