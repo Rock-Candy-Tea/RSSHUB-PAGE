@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-05-12 06:14:46
-thumbnail: 'https://pic2.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162'
+date: 2022-05-12 07:11:20
+thumbnail: 'https://pic3.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-5ec4bfbe496169d0ae8f4a91fcce0c06_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Simonlee8000，</span><span class="bio">家道酬和</span>
 </strong>
 
