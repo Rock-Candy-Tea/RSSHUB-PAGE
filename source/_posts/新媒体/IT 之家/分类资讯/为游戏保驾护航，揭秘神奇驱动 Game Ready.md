@@ -1,0 +1,19 @@
+
+---
+title: '为游戏保驾护航，揭秘神奇驱动 Game Ready'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/81189f23-661a-4b33-af90-4dc4bd3c5e39.jpeg'
+author: IT 之家
+comments: false
+date: Thu, 12 May 2022 09:39:08 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/81189f23-661a-4b33-af90-4dc4bd3c5e39.jpeg'
+---
+
+<div>   
+<p data-vmark="4843">优秀的游戏表现力往往离不开高端显卡的强劲性能支持，国创新生代高端硬件品牌 iGame 长期以来为游戏玩家提供众多性能卓越的硬件潮品，为玩家创造高帧率，低延迟的游戏体验。当然，除了显卡本身的性能之外，还有能够与硬件互相配合的重要搭档 ——NVIDIA GeForce Game Ready 驱动。它能让玩家在游玩游戏的过程中感受飞跃式的体验，那么究竟神奇的 Game Ready 驱动究竟是什么呢？</p><p style="text-align: center;" data-vmark="cf2f"><img src="https://img.ithome.com/newsuploadfiles/2022/5/81189f23-661a-4b33-af90-4dc4bd3c5e39.jpeg" w="1267" h="845" alt="A7302495" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="547" referrerpolicy="no-referrer"></p><p data-vmark="7f37">Game Ready 是由 NVIDIA 与开发者合作的驱动程序，并针对数以千计的硬件配置进行了广泛的测试，根本目的在于实现出色的性能及可靠性，让 GeForce 游戏玩家在畅玩喜爱游戏的同时，获得出色的体验。自 2014 年启动 Game Ready 计划以来，NVIDIA 已推出了超 150 款驱动程序，共为超 400 余款游戏提供了首发日支持。每当有崭新的游戏推出，玩家总会留意是否会有新的驱动更新，这就是 Game Ready 驱动深入人心的魅力。</p><p style="text-align: center;" data-vmark="3df7"><img src="https://img.ithome.com/newsuploadfiles/2022/5/ce7db41a-b7a2-48ab-afd7-f295db2bf8ba.jpeg" w="1267" h="713" alt="未标题-1" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="7d3e">那么这个能够提升游玩体验的图形驱动究竟有什么用途呢？</p><p data-vmark="a523">我们所熟知的 Windows 操作系统，分为“用户模式”及“内核模式”两种运行模式。玩家们所玩的游戏就是在“用户模式”下运行的，对关键系统资源的访问会受到限制。相反，在“内核模式”下运行就能够完全访问系统资源和硬件。而 GeForce 显卡驱动则同时具备两种模式的组件，驱动的用户模式部分处理与游戏的直接通信；内核模式部分则处理与 GeForce GPU 的最终通信。</p><p data-vmark="a691">游戏与 GPU 之间出现若存在任何的通信不畅的情况，都可能导致比如游戏报错、闪退、崩溃等令玩家抓狂的问题。为了保持整个流程的通畅，NVIDIA 需要针对每款游戏相对应的驱动进行变成及测试。这就是保证玩家能够获得优秀游戏体验的关键所在，在保持游戏稳定性的同事，有能够让显卡获得最佳的运行状态。</p><p style="text-align: center;" data-vmark="2e44"><img src="https://img.ithome.com/newsuploadfiles/2022/5/772e22fc-4889-4cdb-b0da-7cf215a23f58.jpeg" w="1267" h="713" alt="未标题-2" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="d1ed">对于玩家的游戏体验而言，帧率是一项重要的指标，全程保持在稳定的帧率下运行游戏能够获得良好的游戏体验。而“低延迟”也同样重要，Game Ready 驱动程序成为了降低系统延迟的关键，PC 及显示器能够以更高的鼠标响应及键盘输入做出反应。特别对于玩 FPS 游戏的玩家而言，低延迟能够更快更精准的进行射击。</p><p style="text-align: center;" data-vmark="08fc"><img src="https://img.ithome.com/newsuploadfiles/2022/5/7d6963ff-6466-47fb-8e59-3be6e61e4203.jpeg" w="1267" h="713" alt="QQ截图20220510100811" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="1188">在加入 Game Ready 驱动计划之前，NVIDIA 与开发者密切合作，设置了单独的工作流程，可独立优化并发布游戏驱动。而通过 Game Ready 的驱动流程，现已确立交换先行版游戏版本和驱动的固定节奏。测试和优化方案，并进行相应的版本迭代，助于确保游戏和 Game Ready 驱动程序在发布时便能实现卓越的质量和性能。</p><p style="text-align: center;" data-vmark="c102"><img src="https://img.ithome.com/newsuploadfiles/2022/5/0c041ffa-9097-4d2c-a735-3f4c356ebc5a.jpeg" w="1267" h="713" alt="nvidia-geforce-game-ready-driver-program-developer-relationship" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="ca93">从游戏开发者对图形 API 规则的使用方式到对某 API 的调用时长，各种因素都会对性能和稳定性造成显著的影响。而通过使用合适的工具，可以查看游戏的每一个细微差别。比如 NVIDIA Nsight Graphics 等工具，便于游戏开发者和驱动工程师能够检查游戏的方方面面，深入探究性能指标，并检查硬件单元的吞吐量、SM 占用率、指令和内存吞吐量等。达到消除瓶颈，提高性能并更大成都的提升稳定性的作用。每款 Game Ready 驱动都通过广泛测试实现了出色的可靠性。</p><p style="text-align: center;" data-vmark="6e2d"><img src="https://img.ithome.com/newsuploadfiles/2022/5/1e429795-ad84-4180-93c0-3ba68c9c0192.jpeg" w="1267" h="713" alt="nvidia-geforce-game-ready-driver-program-nsight-graphics" title="为游戏保驾护航，揭秘神奇驱动 Game Ready" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="6839">综上所述，GeForce Game Ready 驱动可谓是游戏玩家的福音，它还可支持并增强最新游戏中的 NVIDIA 技术，并引进新特性和功能。其中就包括了能够使游戏帧数大幅提升的 NVIDIA DLSS（深度学习超级采样）技术，还有能够降低游戏延迟的 NVIDIA Reflex 的技术，这些功能都需要游戏与功能方面的编码，通过驱动及代码体现，从而让玩家享受更快的帧率及减少系统延迟。除此之外，驱动还支持对直播工作者及视频剪辑师有极高实用性的 NVIDIA Broadcast 的 AI 增强音视频效果，真正的做到了多面应用。</p>
+          
+</div>
+            
