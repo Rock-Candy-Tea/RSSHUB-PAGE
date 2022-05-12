@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cdn.max-c.com/heybox/game/header/1341290_cERNE.jpg'
 author: 小黑盒
 comments: false
-date: 2022-05-12 05:17:55
+date: 2022-05-12 06:14:53
 thumbnail: 'https://cdn.max-c.com/heybox/game/header/1341290_cERNE.jpg'
 ---
 
 <div>   
 <img src="https://cdn.max-c.com/heybox/game/header/1341290_cERNE.jpg" referrerpolicy="no-referrer"> <br>
-            平台: PC<br>折扣力度: 9折<br>当前价格: 56[史低]  原价: 62<br>评分: 7.5<br><br>  
+            平台: PC<br>折扣力度: 9折<br>当前价格: 56[史低]  原价: 62<br>评分: 7.4<br><br>  
 </div>
             
