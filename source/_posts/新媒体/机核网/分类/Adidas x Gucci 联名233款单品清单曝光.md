@@ -8,20 +8,20 @@ categories:
 headimg: 'https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg'
 author: 机核网
 comments: false
-date: 2022-05-12 03:39:12
+date: 2022-05-12 04:18:10
 thumbnail: 'https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-7f2n" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true">
+<img src="https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-at367" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true">
 <figure>
 <img src="https://image.gcores.com/ff037816-244e-4203-9b78-95457c1ec065.jpeg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="7f2n" data-offset-key="5ik92-0-0"><div data-offset-key="5ik92-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5ik92-0-0"><span data-text="true">2022年5月11日，Adidas x Gucci 联名目前全系单品已悉数公开。相关型录也完全释出，并确认将在6月7日起正式发售。 </span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="at367" data-offset-key="5ik92-0-0"><div data-offset-key="5ik92-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5ik92-0-0"><span data-text="true">2022年5月11日，Adidas x Gucci 联名目前全系单品已悉数公开。相关型录也完全释出，并确认将在6月7日起正式发售。 </span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/3996db8a-72fe-4f56-8a84-8808231e504d.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block story_block-text " data-block="true" data-editor="7f2n" data-offset-key="bjebc-0-0"><div data-offset-key="bjebc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bjebc-0-0"><span data-text="true">关于整个联名的全系产品，共计提供多达233款单品，其中包含不少基于adidas经典运动服的改造款式。以及众多灵感来自70年代，充满怀旧复古风的各式服饰及配件，设计上也都是将Gucci和adidas的当家元素进行结合。</span></span></div></div>
+</figure><div class="story_block story_block-text " data-block="true" data-editor="at367" data-offset-key="bjebc-0-0"><div data-offset-key="bjebc-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bjebc-0-0"><span data-text="true">关于整个联名的全系产品，共计提供多达233款单品，其中包含不少基于adidas经典运动服的改造款式。以及众多灵感来自70年代，充满怀旧复古风的各式服饰及配件，设计上也都是将Gucci和adidas的当家元素进行结合。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/02f785c5-5e6f-43e0-8752-31a4fedcfc4e.jpg" alt referrerpolicy="no-referrer">
 <figcaption>目录详情 (1/7) </figcaption>
@@ -56,7 +56,7 @@ thumbnail: 'https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg'
 <img src="https://image.gcores.com/16c94109-988e-498e-85d1-59393e0b00d8.jpg" alt referrerpolicy="no-referrer">
 <figcaption>目录详情 (7/7) </figcaption>
 </figure>
-            <div class="story_block story_block-text " data-block="true" data-editor="7f2n" data-offset-key="eqh49-0-0"><div data-offset-key="eqh49-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="eqh49-0-0"><span data-text="true">adidas × Gucci系列产品即将在6月7日起，</span></span><a class="md-link" href="https://www.gucci.com/us/en/st/capsule/adidas-gucci" rel="noopener noreferrer" target="_blank" aria-label="https://www.gucci.com/us/en/st/capsule/adidas-gucci "><span data-offset-key="eqh49-1-0"><span data-text="true">通过Gucci官网</span></span></a><span data-offset-key="eqh49-2-0"><span data-text="true">、门店及adidas Confirmed App等渠道正式发售。 </span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="7f2n" data-offset-key="3jiob-0-0"><div data-offset-key="3jiob-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3jiob-0-0"><span data-text="true">彩蛋：</span></span></div></div>
+            <div class="story_block story_block-text " data-block="true" data-editor="at367" data-offset-key="eqh49-0-0"><div data-offset-key="eqh49-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="eqh49-0-0"><span data-text="true">adidas × Gucci系列产品即将在6月7日起，</span></span><a class="md-link" href="https://www.gucci.com/us/en/st/capsule/adidas-gucci" rel="noopener noreferrer" target="_blank" aria-label="https://www.gucci.com/us/en/st/capsule/adidas-gucci "><span data-offset-key="eqh49-1-0"><span data-text="true">通过Gucci官网</span></span></a><span data-offset-key="eqh49-2-0"><span data-text="true">、门店及adidas Confirmed App等渠道正式发售。 </span></span></div></div><div class="story_block story_block-text " data-block="true" data-editor="at367" data-offset-key="3jiob-0-0"><div data-offset-key="3jiob-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3jiob-0-0"><span data-text="true">彩蛋：</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/b33ae218-c77f-4930-a3c7-c884d02bd59b.jpg" alt referrerpolicy="no-referrer">
 <figcaption>不防水的雨伞 (1/6) </figcaption>
@@ -86,6 +86,6 @@ thumbnail: 'https://image.gcores.com/f23cbef5-4ba1-4fc5-9630-db214d15ce0e.jpeg'
 <img src="https://image.gcores.com/82f9b0ce-cc58-4298-bccf-a43fba1d5c26.jpg" alt referrerpolicy="no-referrer">
 <figcaption>不防水的雨伞 (6/6) </figcaption>
 </figure>
-            <div class="story_block-spoiler d-none" data-block="true" data-editor="7f2n" data-offset-key="90mlg-0-0"><div data-offset-key="90mlg-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="90mlg-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+            <div class="story_block-spoiler d-none" data-block="true" data-editor="at367" data-offset-key="90mlg-0-0"><div data-offset-key="90mlg-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="90mlg-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

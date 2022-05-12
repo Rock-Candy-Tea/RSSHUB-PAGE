@@ -13,7 +13,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220512/s_d2a0203543bd4d689312d4be81
 ---
 
 <div>   
-<p>近日，任天堂发布2021-2022财年年度财报，其中数据显示，<strong>Wsitch主机销量达到1.7亿台，成为全球第七款销量破亿的主机。</strong></p>
+<p>近日，任天堂发布2021-2022财年年度财报，其中数据显示，<strong>Switch主机销量达到1.7亿台，成为全球第七款销量破亿的主机。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220512/d2a0203543bd4d689312d4be81060ca9.png" target="_blank"><img alt="Switch全球销量超1亿台！Switch 2发布时间曝光" h="440" src="https://img1.mydrivers.com/img/20220512/s_d2a0203543bd4d689312d4be81060ca9.png" style="border: black 1px solid;" w="539" referrerpolicy="no-referrer"></a></p>
 <p>今天，知名分析师Piers Harding-Rolls根据这份财报，对Switch的后续销量，以及Switch 2的发布时间做出了推测。</p>
 <p>Piers认为，作为一款推出6年的主机，<strong>目前Switch的销量已经达到了顶点，在后续即便有着《塞尔达传说：旷野之息2》这样的重磅新作，也难以避免销量逐步下滑的趋势。</strong></p>

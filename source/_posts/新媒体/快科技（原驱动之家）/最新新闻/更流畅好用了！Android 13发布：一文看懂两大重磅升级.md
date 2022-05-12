@@ -29,22 +29,19 @@ thumbnail: 'https://img1.mydrivers.com/img/20220512/s_9ef73f44c4624cafb11e3e6735
 <p><span style="color:#ff0000;"><strong>重要升级点</strong></span></p>
 <p><strong>一、隐私和安全是重中之重</strong></p>
 <p><strong>1、新增隐私信息中心</strong></p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20220512/a2c1a99dcc11442d9b07f47e6918cafd.png" target="_blank"><img alt="更流畅好用了！Android 13发布：一文看懂两大重磅升级" h="653" src="https://img1.mydrivers.com/img/20220512/s_a2c1a99dcc11442d9b07f47e6918cafd.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>Android 13将过去散落在各处的隐私相关设置进一步整合，成了新的“隐私信息中心”，供用户直接检查最多过去一周各项权限的使用情况，包括系统应用在内的权限使用都可以在这里看到详细到分钟的权限使用记录。</p>
 <p><strong>2、独立的照片选择器</strong></p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20220512/177cd6d3b96542098be97b2e1083367b.png" target="_blank"><img alt="更流畅好用了！Android 13发布：一文看懂两大重磅升级" h="415" src="https://img1.mydrivers.com/img/20220512/s_177cd6d3b96542098be97b2e1083367b.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>你想在某个聊天软件中给朋友分享一组照片，但却又不想授予软件访问你手机中所有照片的权限，在Android 13中，可使用新加入的照片选择器手动选出你需要分享的照片内容，并仅将你所选中的照片的访问权限授予聊天应用，最大限度降低隐私泄露的风险。</p>
 <p><strong>3、媒体文件被分门别类</strong></p>
 <p style="text-align: center;"><img alt="更流畅好用了！Android 13发布：一文看懂两大重磅升级" h="381" src="https://img1.mydrivers.com/img/20220512/091ce85b-a9a8-467c-af8f-4230487da123.png" style="text-align: center; border: 1px solid black;" w="446" referrerpolicy="no-referrer"></p>
 <p>在安卓13上，三方应用程序访问照片、视频或者音乐等三种媒体文件时，都必须由用户确认分别开启对应类型的权限。</p>
 <p><strong>4、应用程序通知权限</strong></p>
-
 <p align="center"><a href="https://img1.mydrivers.com/img/20220512/c5c0092684bf4d38a5fe1fc2d186ea42.png" target="_blank"><img alt="更流畅好用了！Android 13发布：一文看懂两大重磅升级" h="600" src="https://img1.mydrivers.com/img/20220512/s_c5c0092684bf4d38a5fe1fc2d186ea42.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>iOS上任一款APP想要发送通知，都必须得到用户手动许可，Android 13中也出现了类似选项。</p>
 <p><strong>二、大屏、折叠屏及小内存手机优化</strong></p>
-<p>Android已经覆盖30亿设备，它们的配置各不相同，不仅有低配的老爷机，也有新奇的超大屏、折叠屏设备。在Android 13中，针对折叠屏不同场景使用/不同屏幕尺寸的显示模式加入了更多深层的改进，一边在多屏幕切换之间获得更好的显示效果；例如屏幕0度展开状态的“桌面模式”。</p>
+<p>Android已经覆盖30亿设备，它们的配置各不相同，不仅有低配的老爷机，也有新奇的超大屏、折叠屏设备。在Android 13中，针对折叠屏不同场景使用/不同屏幕尺寸的显示模式加入了更多深层的改进，一边在多屏幕切换之间获得更好的显示效果；例如屏幕90度展开状态的“桌面模式”。</p>
 <p align="center"><img alt="更流畅好用了！Android 13发布：一文看懂两大重磅升级" h="397" src="https://img1.mydrivers.com/img/20220512/8d1fda62f1eb4362be40d4c58ed5b840.gif" style="border: 1px solid black; height: 298px; width: 450px;" w="600" referrerpolicy="no-referrer"></p>
 <p>此外，Android 13的AOSP源码中还添加了对MGLRU（Multi-Generational Least Recently Used）即多页面回收策略的支持，谷歌实测，虚拟内存管理进程的CPU使用率降低了40%、在75%内存占用时减少了85%的后台误杀情况、在50%的内存占用时降低了18%的渲染延迟。</p>
 <p><span style="color:#ff0000;"><strong>新功能特性</strong></span></p>
