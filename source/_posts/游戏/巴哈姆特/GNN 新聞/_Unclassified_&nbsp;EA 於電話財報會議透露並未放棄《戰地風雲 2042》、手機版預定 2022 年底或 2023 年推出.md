@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?v=1652339038714'
 author: 巴哈姆特
 comments: false
-date: 2022-05-12 07:11:37
+date: 2022-05-12 08:11:52
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?v=1652339038714'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?v=1652339038714" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG 2x" style="max-width: unset;" title="《戰地風雲 2042》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?v=1652339038714" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.JPG 2x" style="max-width: unset;" title="《戰地風雲 2042》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《戰地風雲 2042》</figure>
 </li>
@@ -42,7 +42,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/0bc242237cfa9a9323534a7ef01g9ek5.
 <div>
  </div>
 <div>
-　　除此之外，DICE 工作室也坦言從 2001 年 11 月推出的《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B2+2042" target="_blank">戰地風雲 2042</a>（Battlefield 2042）》吸取了寶貴的經驗以及教訓。</div>
+　　除此之外，DICE 工作室也坦言從 2021 年 11 月推出的《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B2+2042" target="_blank">戰地風雲 2042</a>（Battlefield 2042）》吸取了寶貴的經驗以及教訓。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="49765" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
