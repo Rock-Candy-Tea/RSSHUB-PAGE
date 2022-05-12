@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714'
 author: 巴哈姆特
 comments: false
-date: 2022-05-11 15:11:16
+date: 2022-05-12 00:45:56
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.JPG?v=1652241706714'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/22c97ef61920a7f50723effbe71dad25.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　EA 美商藝電於美國時間 5 月 10 日（二）宣布，旗下由國際足球總會（FIFA）官方獨家授權名近 30 年的暢銷足球遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%9B%9F%E5%A4%A7%E8%B3%BD" target="_blank">國際足盟大賽</a>（FIFA）》系列，自明年起將改名為《EA Sports FC》，不再使用 FIFA 名稱。</div>
+　　EA 美商藝電於美國時間 5 月 10 日（二）宣布，旗下由國際足球總會（FIFA）官方獨家授權名稱的老牌暢銷足球遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%9B%9F%E5%A4%A7%E8%B3%BD" target="_blank">國際足盟大賽</a>（FIFA）》系列，自明年起將改名為《EA Sports FC》，不再使用 FIFA 名稱。</div>
 <div>
  </div>
 <div>
