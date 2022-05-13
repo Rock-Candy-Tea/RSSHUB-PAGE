@@ -1,0 +1,19 @@
+
+---
+title: 'Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/e1798577-9a73-4413-8cc6-7b00e6c1c4ed.png'
+author: IT 之家
+comments: false
+date: Thu, 12 May 2022 14:47:17 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/e1798577-9a73-4413-8cc6-7b00e6c1c4ed.png'
+---
+
+<div>   
+<p data-vmark="156c"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 5 月 12 日消息，今晚，Netflix 发布了《生化危机》剧集首个预告片。该剧将在 7 月 14 日上线。</p><p data-vmark="ab4a" style="text-align: center;"><a class="ithome_super_player" contenteditable="false" target="_blank" data-timestamp="1652366768814" data-vpreview-url="https://f.video.weibocdn.com/o0/oHcDHH97lx07VZXoyoz601041200ppFp0E010.mp4?label=mp4_720p&template=1280x720.25.0&ori=0&ps=1BThihd3VLAY5R&Expires=1652370368&ssig=6JV%2B00K6GL&KID=unistore,video" href="https://weibo.com/5394952951/LsIfwAzFo?pagetype=profilefeed"></a></p><p data-vmark="138b">视频截图：</p><p data-vmark="5b84" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/e1798577-9a73-4413-8cc6-7b00e6c1c4ed.png" w="1264" h="674" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1264" height="437" referrerpolicy="no-referrer"></p><p data-vmark="242a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/9c75f7a6-a28b-4ee6-be5e-8ef84be5dea0.png" w="1180" h="726" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1180" height="505" referrerpolicy="no-referrer"></p><p data-vmark="a1ee" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/00434047-96ec-4f73-90e8-628392d86461.png" w="1400" h="694" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1400" height="406" referrerpolicy="no-referrer"></p><p data-vmark="49ba" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/99b9cac0-282e-49bb-ab92-77424b84f5fe.png" w="952" h="700" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="952" height="603" referrerpolicy="no-referrer"></p><p data-vmark="c45b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/cceed635-797c-44ef-9af2-62a9ac993c9c.png" w="938" h="700" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="938" height="612" referrerpolicy="no-referrer"></p><p data-vmark="694c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/0d8b9898-3540-4be2-a182-2948f8f0481b.png" w="1102" h="702" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1102" height="522" referrerpolicy="no-referrer"></p><p data-vmark="0667">IT之家曾报道，今年 3 月份，Netflix 公布了《生化危机》剧集的海报。</p><p data-vmark="cda2" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/35025254-b47f-47e1-bb78-15dfef8ff7a8.jpg@s_2,w_820,h_1025" w="1080" h="1350" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1080" height="1025" referrerpolicy="no-referrer"></p><p data-vmark="0f97" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/1a2745aa-66d1-4308-81ac-3d4156b00624.jpg@s_2,w_820,h_1025" w="1080" h="1350" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1080" height="1025" referrerpolicy="no-referrer"></p><p data-vmark="c420" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/94b5c5f5-7f0a-4be3-bd4c-176e8d1c4cd2.jpg@s_2,w_820,h_1025" w="1080" h="1350" title="Netflix《生化危机》剧集首个预告片公布，7 月 14 日上线" width="1080" height="1025" referrerpolicy="no-referrer"></p><p data-vmark="4385">Netflix 于 2020 年 8 月首次宣布该剧集，<strong>并表示该剧将跨越两个时间线</strong>，一个是十几岁的 Jade Wesker 和 Billie Wesker 搬到新浣熊市；另一个是在未来，Jade 和其他人在僵尸肆虐的地球上生存。</p><p data-vmark="907e">该剧第一季有 8 集，主演包括 Lance Reddick、Ella Balinska、Tamara Smart、Siena Agudong 等。该剧集由康斯坦丁影业出品。</p><p data-vmark="c96b">官方简介：</p><blockquote><p data-vmark="b8f9">2036 年 —— 在致命病毒导致全球末日之后 14 年后，Jade Wesker 在满是恐怖生物的世界中战斗、生存，但 Jade 仍难以走出新浣熊市给她留下的阴影……</p></blockquote>
+          
+</div>
+            
