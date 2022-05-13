@@ -1,0 +1,19 @@
+
+---
+title: 'TerraUSD的崩溃动摇了整个_币圈_ 加密货币版_银行挤兑危机_出现了'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/finance/transform/427/w550h677/20220513/d1d1-e88e76d2cded2a1f1ba16ed4cbb4fffe.png'
+author: cnBeta
+comments: false
+date: Fri, 13 May 2022 08:50:55 GMT
+thumbnail: 'https://n.sinaimg.cn/finance/transform/427/w550h677/20220513/d1d1-e88e76d2cded2a1f1ba16ed4cbb4fffe.png'
+---
+
+<div>   
+加密货币TerraUSD有一个任务：将其价值保持在1美元。自2020年推出以来，它基本上做到了这一点，很少大幅偏离其预期价格。这使它成为了一个稳定的避风港，交易员和投资者可以在此存储资金。但本周，该币的稳定性崩溃，周一暴跌超过三分之一，周三跌至23美分。<br>
+<p style="text-align: center;"><img src="https://n.sinaimg.cn/finance/transform/427/w550h677/20220513/d1d1-e88e76d2cded2a1f1ba16ed4cbb4fffe.png" alt="TerraUSD暴跌" referrerpolicy="no-referrer"><br>TerraUSD暴跌</p><p>崩盘给投资者带来了数十亿美元的损失。波动进一步影响到了其他加密货币，导致比特币价格也大幅下跌。另一种稳定货币tether周四小幅下跌至96美分，然后重新与美元挂钩。</p><p>美国最大的加密货币交易所Coinbase Global的股价今年下跌了75%以上。该公司周二表示，它正在失去用户和交易量。</p><p>加密货币市场近年来已经成熟，作为一个与各大银行平行的金融系统运行，演化出了自成体系的“银行”和“贷款”功能。这些特点吸引了更多的华尔街人参与并进行风险投资，使加密货币初创公司赚得盆满钵满。加密货币公司将其中一部分资金用于广告宣传和游说，描绘了一个不断发展的市场。</p><p>然而，TerraUSD的暴跌引发了关于加密货币开发者建立一种新金融形式的野心的紧迫问题。它表明，尽管大肆宣传，但新生的密码系统仍然容易出现非数字世界中发生的那种破坏稳定的银行挤兑。</p><p>TerraUSD的诚恳的创造者Do Kwon指示花费巨额资金试图拯救他的项目。在Twitter上，他试图团结他的追随者。</p><p>“Terra恢复常态将是一个值得期待的景象，”他在周三上午写道，当时他的稳定币交易价格为预期价值的一半，“我们会留在这里。我们会继续我们的事业。”</p><p style="text-align: center;"><img src="https://n.sinaimg.cn/finance/734/w1400h934/20220513/b56e-bbd85c73adbcabdbb0c9b90ce36aa0ee.jpg" alt="Do Kwon，Terraform Labs公司的CEO，摄于首尔" data-link referrerpolicy="no-referrer"><br>Do Kwon，Terraform Labs公司的CEO，摄于首尔</p><p>“稳定币”是加密货币金融系统的支柱。虽然加密货币的追随者仍需要与政府背书的传统金融货币保持联系，如在传统金融体系中，支付租金，购买汽车，支付账单。但他们只想在加密货币的世界里交易和投资，而不是使用美元、欧元或英镑。因此，stablecoins充当了一种储备货币，一种具有公认价值的资产。</p><p>专业交易者和个人投资者都使用稳定币，截至周二，他们已经在稳定币中投资了约1800亿美元。交易者可以将比特币卖给TerraUSD，然后使用TerraUSD购买另一种加密货币以太，而不必接触美元或银行账户。</p><p>加密公司试图说服国会，稳定币是投资者投资的安全场所。但TerraUSD的崩溃动摇了这一假设，也动摇了加密货币技术中可能存在任何安全场所的想法。</p><p>稳定币试图解决一个难题：在一个动荡的金融体系中，怎样才能让某些东西保持稳定？</p><p>一些稳定币试图通过在一种储备账户中持有国库券等安全资产来实现这一点：对于创建的每一个稳定币，1美元的国库券都会存入该账户。赎回稳定币，1美元的国库券就会从账户中取出。</p><p>TerraUSD有一个更复杂的方法。这是一种算法稳定，依靠金融工程来维持与美元的联系。许多加密货币交易员相信了这种技术，TerraUSD的人气飙升。然而，尽管TerraUSD的规模已经膨胀到180多亿美元，但几天之内就崩溃了。</p><p>交易员表示，从周末开始并在周一滚雪球式下跌的催化剂是从Anchor Protocol的一系列大额提款。Anchor Protocol是一种加密银行，由Kwon的公司Terraform Labs的开发商创建。这些平台允许稳定币投资者通过出借硬币来赚取利息。</p><p>在过去的一年里，Anchor通过提供TerraUSD存款近20%的高额回报，激发了人们对TerraUSD的兴趣。这远远高于传统银行美元账户的存款利息，也高于加密投资者从其他更传统的稳定币贷款中获得的利率。</p><p>Anchor和其他加密借贷协议一样，将TerraUSD借给有需要的借款人。批评人士，包括在社交媒体上攻击Kwon的加密货币投资者，质疑这种收益率是否可持续。不过，根据该平台的网站，截至上周晚些时候，投资者已在Anchor中存入超过140亿美元。</p><p>但上周末的大宗交易使TerraUSD开始从1美元贬值。这种不稳定促使Anchor的投资者抛售TerraUSD。这反过来又导致更多的投资者从Anchor中撤出，产生了更多撤出和更多抛售的连锁效应。协议的网站显示，截至周四，Anchor的TerraUSD存款降至约20亿美元，较峰值下降86%。</p><p>“银行挤兑出现了，”加密对冲基金公司Fortis Digital Value LLC的管理合伙人迈克尔·鲍罗斯（Michael Boroughs）说。</p><p>巴克莱银行的研究分析师乔·阿巴特（Joe Abate）说：“一旦人们失去信心，我们以前在货币市场的基金和商业票据交易中看到过这种情况，他们就会竞相退出。”。</p><p>TerraUSD危机对毕业于斯坦福大学的Kwon的声誉是一个打击。Kwon在研究加密技术之前曾在<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>公司（Apple Inc．）和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>公司（Microsoft Corp．）工作。他在社交媒体上直言不讳，经常攻击加密社区的批评者。</p><p>TerraUSD的麻烦可能会给所有稳定币蒙上一层怀疑的阴影，或是至少将客户转向其竞争对手。</p><p><img src="https://n.sinaimg.cn/finance/750/w1890h1260/20220513/5fc2-c348423c2d7ec1ff69dc7005fd84571b.jpg" alt data-link referrerpolicy="no-referrer"><br></p><p>财政部长珍妮特·耶伦（ Janet Yellen）周二告诉参议院议员，TerraUSD的暴跌加剧了政府的担忧，即稳定币，包括传统货币背书和算法支持两种技术手段，可能会受到投资者的踩踏，需要一个监管框架。</p><p>digital money platform Support区块链和加密研究负责人马丁·希斯博克（Martin Hiesboeck）表示，许多匆忙进行TerraUSD交易的投资者可能根本不知道自己在做什么。</p><p>“你可以让一群开发人员编写一个算法，他们自己可能100%清楚它是如何工作的，”希斯博克说，“但普通的投资者不会读代码。他们不读细则。”</p>   
+</div>
+            
