@@ -8,12 +8,12 @@ categories:
 headimg: 'https://image.gcores.com/28a4ff62-c9f5-4c9b-954d-ff44b9a142fc.jpg'
 author: 机核网
 comments: false
-date: 2022-05-13 09:10:06
+date: 2022-05-13 10:10:53
 thumbnail: 'https://image.gcores.com/28a4ff62-c9f5-4c9b-954d-ff44b9a142fc.jpg'
 ---
 
 <div>   
-<img src="https://image.gcores.com/28a4ff62-c9f5-4c9b-954d-ff44b9a142fc.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-fbj0s" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="fbj0s" data-offset-key="j39l-0-0"><div data-offset-key="j39l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="j39l-0-0"><span data-text="true">由上海钛核（TiGames） 研发的类银河恶魔城游戏《暗影火炬城》继去年发布 PlayStation4 和 PlayStation5 版本后，正式宣布游戏数字版将在今年7月12日登陆 Nintendo Switch️ 全球平台。届时，GSE 将同步发售游戏 Switch 亚洲实体版。欧美版实体版将由 Microids 在今年第三季度进行海外发售。</span></span></div></div>
+<img src="https://image.gcores.com/28a4ff62-c9f5-4c9b-954d-ff44b9a142fc.jpg" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-r92t" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="r92t" data-offset-key="j39l-0-0"><div data-offset-key="j39l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="j39l-0-0"><span data-text="true">由上海钛核（TiGames） 研发的类银河恶魔城游戏《暗影火炬城》继去年发布 PlayStation4 和 PlayStation5 版本后，正式宣布游戏数字版将在今年7月12日登陆 Nintendo Switch️ 全球平台。届时，GSE 将同步发售游戏 Switch 亚洲实体版。欧美版实体版将由 Microids 在今年第三季度进行海外发售。</span></span></div></div>
 <figure>
 <img src="https://image.gcores.com/ea00fe62-a012-46ec-a495-a87f20317be6.png" alt referrerpolicy="no-referrer">
 
@@ -65,6 +65,6 @@ thumbnail: 'https://image.gcores.com/28a4ff62-c9f5-4c9b-954d-ff44b9a142fc.jpg'
 <figure>
 <img src="https://image.gcores.com/012f07ed-bb27-4c9e-a0e3-73831ee60775.jpg" alt referrerpolicy="no-referrer">
 
-</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="fbj0s" data-offset-key="fstnf-0-0"><div data-offset-key="fstnf-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fstnf-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</figure><div class="story_block-spoiler d-none" data-block="true" data-editor="r92t" data-offset-key="fstnf-0-0"><div data-offset-key="fstnf-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fstnf-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
 </div>
             

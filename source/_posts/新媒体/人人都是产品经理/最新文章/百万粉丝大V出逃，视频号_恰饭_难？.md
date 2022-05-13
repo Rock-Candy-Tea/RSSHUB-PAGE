@@ -5,16 +5,16 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://image.yunyingpai.com/wp/2022/05/gqonxli9OANQ18xPDtrl.png'
+headimg: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/05/sTmnSCughIR5bI091Cux.jpg'
 author: 人人都是产品经理
 comments: false
 date: Fri, 13 May 2022 00:00:00 GMT
-thumbnail: 'https://image.yunyingpai.com/wp/2022/05/gqonxli9OANQ18xPDtrl.png'
+thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/05/sTmnSCughIR5bI091Cux.jpg'
 ---
 
 <div>   
 <blockquote><p>编辑导语：近几年，微信的视频号成为人们的关注点。虽然视频号以肉眼可见的速度发展，但是视频号的很多创作者不见了身影。本文从创作者的角度分析了视频号流失原创内容作者的原因，一起来看看吧，</p></blockquote>
-<p><img data-action="zoom" class="size-full wp-image-803920 aligncenter" src="https://image.yunyingpai.com/wp/2022/05/gqonxli9OANQ18xPDtrl.png" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="size-full wp-image-5438052 aligncenter" src="https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/2022/05/sTmnSCughIR5bI091Cux.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p>两年时间，视频号成为微信生态里最具关注度的一极。背靠着微信生态，视频号也以肉眼可见的速度在成长。</p>
 <p>据视灯研究院数据，2021年12月微信视频号DAU已达5亿水平，同比增长78%，其用户体量已介于抖音与快手（主站+极速版）之间；同时使用时长已达35分钟，同比增长84%。</p>
 <p>巨大的流量让视频号不愁内容，新人创作者不断涌入视频号。据视灯发布的报告，2021年TOP 500 的创作者年内更替率近90%，替换率之高十分惊人。</p>
