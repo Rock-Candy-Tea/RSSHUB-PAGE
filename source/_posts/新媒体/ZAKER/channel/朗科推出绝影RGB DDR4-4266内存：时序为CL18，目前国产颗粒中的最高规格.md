@@ -1,0 +1,18 @@
+
+---
+title: '朗科推出绝影RGB DDR4-4266内存：时序为CL18，目前国产颗粒中的最高规格'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627e394bb15ec02328562146_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 13 May 2022 07:09:56 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627e394bb15ec02328562146_1024.jpg'
+---
+
+<div>   
+<p>绝影是朗科去年推出的高端 RGB 内存产品线，主要面向电竞用户。其名称延续了朗科之前的命名方式，与过往的越影和超光系列一样，皆为中国古代良驹。绝影系列首先推出的是 DDR4 产品，随着英特尔发布第 12 代酷睿系列处理器，又推出了 DDR5 产品，我们也曾进行过评测（《》）。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202205/627e394bb15ec02328562146_1024.jpg" data-height="697" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627e394bb15ec02328562146_1024.jpg" referrerpolicy="no-referrer"></div></div>目前业界正处于 DDR4 和 DDR5 之间的过渡期，英特尔的 Alder Lake 甚至下一代 Raptor Lake 都能支持两种内存，高频 DDR4 内存因不俗的性能及相对较低的价格，仍受到不少玩家的青睐。<p></p><p>近日，朗科宣布推出绝影 RGB DDR4-4266 内存，以满足这部分玩家搭建高性能 PC 平台的需求，采用了国产长鑫的颗粒，这也是目前国产颗粒中的最高规格。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/627e394bb15ec02328562147_1024.jpg" data-height="304" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627e394bb15ec02328562147_1024.jpg" referrerpolicy="no-referrer"></div></div>绝影 RGB DDR4-4266 内存采用了经过严苛筛选的国产长鑫 A-Die 颗粒，8 层 PCB，支持 XMP，时序为 CL18-22-22-42，支持四大主板厂商的灯光同步软件。其整体尺寸为 145 x 44.3 x 8.1 mm，散热材料采用的是 0.8mm 5052 铝材，经冲压工艺一体成型，再使用电镀银工艺处理。<p></p><p>朗科在绝影系列内存的外形设计上花费了不少心思，运用了对称设计理念，结合了硬朗的线条，同时融入了电竞和时尚元素。其整体造型棱角分明，独特的梯状配搭中部镂空设计让整体设计感更强，个性化的镭雕绝影系列图腾让产品有了更高的辨识度。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202205/627e394bb15ec02328562148_1024.jpg" data-height="581" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627e394bb15ec02328562148_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202205/627e394bb15ec02328562149_1024.jpg" data-height="581" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/627e394bb15ec02328562149_1024.jpg" referrerpolicy="no-referrer"></div></div>图：内部测试中可超频至 4600MHz<p></p><p>朗科内存实验室通过与主流主板厂商的深度合作，针对国产长鑫颗粒在不同频率段多次调试 / 验证，在朗科实验室达到超频至 DDR4-4600 19-21-21 1.4V 并通过稳定性压力测试的超频性能。同时朗科产品经理表示，当主流主板厂商解开国产长鑫颗粒的超频限制问题后，不仅仅是朗科内存产品，所有的内存条品牌都将同步受益（产品使用长鑫颗粒）。</p><p>据了解，绝影 RGB DDR4-4266 内存将提供 8GB x2 套装，上市时间大概会在今年的 6 月份，官方提供的价格为 799 元，有兴趣的玩家届时可以留意一下。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202205/627e394bb15ec0232856214a_1024.jpg" data-height="593" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/627e394bb15ec0232856214a_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
