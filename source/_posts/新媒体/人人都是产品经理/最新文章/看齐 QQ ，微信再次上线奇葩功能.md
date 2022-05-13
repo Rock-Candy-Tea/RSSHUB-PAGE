@@ -66,7 +66,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.woshipm.com/wp-files/20
 <p>既然做不到，不如专注做好自己，哪怕不完美，不符合所有人的口味，但我们更愿意看到它是属于某一部分人的“小而美”。</p>
 <p> </p>
 <p>作者：老狐；编辑：猪肉丸；公众号：科技狐</p>
-<p>原文链接：<a href="https://mp.weixin.qq.com/s/fZcW_BsJauSZ3-47pqRuzQ" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/hIjiHS6s4E4j8MIIXmp6Og</a></p>
+<p>原文链接：https://mp.weixin.qq.com/s/hIjiHS6s4E4j8MIIXmp6Og</p>
 <p>本文由 @科技狐 授权发布于人人都是产品经理。未经许可，禁止转载。</p>
 <p>题图来自 Unsplash，基于CC0协议。</p>
                       

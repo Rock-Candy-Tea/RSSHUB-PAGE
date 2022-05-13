@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/23/b3b7c23d2f9082737a57578b101gafb5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-05-13 10:11:23
+date: 2022-05-13 11:09:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/b3b7c23d2f9082737a57578b101gafb5.JPG'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/b3b7c23d2f9082737a57578b101gafb5.
 <div>
  </div>
 <div>
-　　Meta 自從併購掀起 VR 虛擬實境熱潮的 Oculus 之後，就積極發展 VR 業務，並於 2021 年將公司名稱從 Facebool 更名為代表元宇宙的 Meta。目前旗下的 VR 主力產品為獨立 VR 頭戴裝置「Meta Quest」系列。</div>
+　　Meta 自從併購掀起 VR 虛擬實境熱潮的 Oculus 之後，就積極發展 VR 業務，並於 2021 年將公司名稱從 Facebook 更名為代表元宇宙的 Meta。目前旗下的 VR 主力產品為獨立 VR 頭戴裝置「Meta Quest」系列。</div>
 <div>
  </div>
 <div>
