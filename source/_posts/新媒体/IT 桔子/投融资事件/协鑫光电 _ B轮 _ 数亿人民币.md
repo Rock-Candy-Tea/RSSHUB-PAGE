@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/72df39045df0bf533a742107cb65e664.png'
+headimg: 'https://cdn.itjuzi.com/images/77b696334b3f8398036870414f7caa06.jpg'
 author: IT 桔子
 comments: false
 date: Tue, 20 Jan 1970 03:00:12 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/72df39045df0bf533a742107cb65e664.png'
+thumbnail: 'https://cdn.itjuzi.com/images/77b696334b3f8398036870414f7caa06.jpg'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/72df39045df0bf533a742107cb65e664.png" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/77b696334b3f8398036870414f7caa06.jpg" referrerpolicy="no-referrer"><br><br>
         <strong>协鑫光电</strong><br>
         钙钛矿太阳能组件供应商<br>
         B轮 / 数亿人民币 / 1652412912<br>

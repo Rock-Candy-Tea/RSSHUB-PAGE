@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/53/ccdf035bc292ed0745c8a4733b1ga515.PNG?v=1652424637953'
 author: 巴哈姆特
 comments: false
-date: 2022-05-13 07:11:59
+date: 2022-05-13 08:11:31
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/ccdf035bc292ed0745c8a4733b1ga515.PNG?v=1652424637953'
 ---
 
@@ -42,9 +42,18 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/ccdf035bc292ed0745c8a4733b1ga515.
 <div>
  </div>
 <div>
-　　PSG 27 分鐘展現完美團戰，再次打出零換五後，直上對手高地、拿下小組賽第二勝，目前戰績 2 勝 1 敗（註：因 Riot 宣布前三日 B 組的 RNG 三場將重賽）。</div>
+　　PSG 27 分鐘展現完美團戰，再次打出零換五後，直上對手高地、拿下小組賽第二勝，目前戰績 2 勝 1 敗（註：因 Riot 宣布前三日 B 組的 RNG 三場將重賽，可參考此篇新聞「<a href="https://gnn.gamer.com.tw/detail.php?sn=231798" target="_blank">MSI 史無前例！Riot 宣布《英雄聯盟》季中邀請賽 RNG 三場小組賽賽事將重賽</a>」）。PSG 中路選手 Bay 在賽後訪問表示，第一次參加 MSI 國際比賽，現場有些表現是不如訓練賽，的確是有緊張感；針對在經歷第一天的挫敗後，目前 PSG 看似有調整回來這個問題，Bay 指出，他們在賽後有針對比賽內容分析調整，大家彼此打氣說像訓練賽那樣去打、不要太緊張就好。</div>
 <div>
  </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 74.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/ce56de2007468e9e35cacee1d31ga5u5.JPG?v=1652426346150" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/ce56de2007468e9e35cacee1d31ga5u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/ce56de2007468e9e35cacee1d31ga5u5.JPG 2x" style="max-width: unset;" title="Bay（照片來源：Riot Games）" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+Bay（照片來源：Riot Games）</figure>
+</li>
+</ul>
+</div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
