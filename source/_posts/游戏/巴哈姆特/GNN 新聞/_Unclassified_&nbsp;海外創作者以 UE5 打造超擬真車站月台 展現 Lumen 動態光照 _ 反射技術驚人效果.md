@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/85/62b0af902410ab1778d856e0ea1g9xl5.JPG?v=1652360940161'
 author: 巴哈姆特
 comments: false
-date: 2022-05-13 06:16:40
+date: 2022-05-13 07:11:59
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/85/62b0af902410ab1778d856e0ea1g9xl5.JPG?v=1652360940161'
 ---
 
@@ -133,7 +133,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/85/62b0af902410ab1778d856e0ea1g9xl5.
 <div>
  </div>
 <div>
-　　作者表示，之所以會選擇越中大門站為主題，是因為自己喜歡鄉下的氛圍，但自己其實沒有去過富山縣。</div>
+　　作者表示，之所以會選擇越中大門站為主題，是因為喜歡鄉下的氛圍，但自己其實沒有去過富山縣。</div>
 <div>
  </div>
 <div>
