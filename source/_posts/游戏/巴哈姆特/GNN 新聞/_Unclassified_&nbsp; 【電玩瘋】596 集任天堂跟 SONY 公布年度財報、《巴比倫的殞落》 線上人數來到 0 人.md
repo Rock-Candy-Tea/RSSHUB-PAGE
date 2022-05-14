@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://picsum.photos/400/300?random=8145'
+headimg: 'https://picsum.photos/400/300?random=3257'
 author: 巴哈姆特
 comments: false
-date: 2022-05-14 11:09:22
-thumbnail: 'https://picsum.photos/400/300?random=8145'
+date: 2022-05-14 12:17:51
+thumbnail: 'https://picsum.photos/400/300?random=3257'
 ---
 
 <div>   
@@ -26,7 +26,9 @@ thumbnail: 'https://picsum.photos/400/300?random=8145'
 <b>【巴哈姆特電玩瘋 第 596 集】</b></div>
 <div style="text-align: center;">
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/jeCjkNuwXgg?wmode=transparent" width="100%"></iframe></div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/HA2kghdTw9U?wmode=transparent" width="100%"></iframe></div>
+</div>
 </div>
 <div>
  </div>
