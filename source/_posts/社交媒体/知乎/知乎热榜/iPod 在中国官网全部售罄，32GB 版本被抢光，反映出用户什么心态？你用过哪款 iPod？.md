@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2059'
+headimg: 'https://pic1.zhimg.com/v2-519d663d83ab529321feb0ce8a5f67e1_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Sat, 14 May 2022 08:16:35 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2059'
+date: Sat, 14 May 2022 09:26:52 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-519d663d83ab529321feb0ce8a5f67e1_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-青山布衣的回答<br><br><p data-pid="fbGhL77b">iPod的纪念意义最起码不亚于纪念邮票和纪念币那种人为创造的“纪念物”，然而技术含量甩邮票和币不知道几百万条街，</p><p data-pid="y3FtquBG">一个布娃娃都让无数人聚集到王府井排几个小时队，甚至找黄牛高价购买，</p><p data-pid="qXHb-2xa">而动动鼠标在苹果官网以正常价格得到一个划时代的科技纪念品，</p><p data-pid="dxff9Z4u">很难理解吗？</p><hr><p></p>  
+资深90后的回答<br><br><p data-pid="alQ7uWlm">那这东西是不是更值钱了？</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-519d663d83ab529321feb0ce8a5f67e1_1440w.jpg?source=b1748391" data-rawwidth="2268" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-d70b2ad4bd7cdd8d87a88f4ece0e0491_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-519d663d83ab529321feb0ce8a5f67e1_r.jpg?source=b1748391" referrerpolicy="no-referrer"><figcaption>这个还有点纪念意义，多年前第一次上邮轮玩，在邮轮赌场玩推币机赢的，花了好多钱才推下来，肯定比这东西本身花的多……</figcaption></figure><p data-pid="U4JLV9so">黄牛的手段似乎有点老，应对年轻人似乎没那么有效了吧，囤货多的你可别都砸手里呀……</p><p data-pid="1JbVNsxV">黄牛也要与时俱进吧，你说这东西我买来能干嘛？人家搞收藏的肯定早就买了（一些玩收藏的朋友出新品都是直接买2个以上的），不搞收藏的买来有啥用？</p>  
 </div>
             
