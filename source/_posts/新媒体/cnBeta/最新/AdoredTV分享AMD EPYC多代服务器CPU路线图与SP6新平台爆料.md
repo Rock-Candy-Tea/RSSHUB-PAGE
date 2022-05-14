@@ -1,0 +1,19 @@
+
+---
+title: 'AdoredTV分享AMD EPYC多代服务器CPU路线图与SP6新平台爆料'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2021/0917/53f467c080713b4.jpg'
+author: cnBeta
+comments: false
+date: Sat, 14 May 2022 06:43:30 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2021/0917/53f467c080713b4.jpg'
+---
+
+<div>   
+在最近一期油管视频中，Adored TV 分享了与 AMD 下一代服务器芯片相关的路线图信息。<strong>爆料中不仅涵盖了 Genoa、Bergamo、Genoa-X 和 Turin 架构的霄龙（EPYC）CPU，还提到了 SP6 新平台。</strong>虽然暂时无法验明这组演示文稿的真实性，但我们也不是首次听到相关爆料。<br>
+<p><a href="https://static.cnbetacdn.com/article/2021/0917/53f467c080713b4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2021/0917/53f467c080713b4.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（via <a href="https://wccftech.com/amd-epyc-genoa-bergamo-genoa-x-turin-for-sp5-sp6-server-cpu-platforms-leak-out/" target="_self">WCCFTech</a>）</p><p>首先是 2021-2023 年的 EPYC 服务器 CPU + 配套主板平台的路线图，比如 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 最近推出的 EPYC 7003X“Milan-X”就通过 Zen 3 内核 + 3D V-Cache 给 SP3 平台划上了一个圆满的句号。</p><p><a href="https://static.cnbetacdn.com/article/2022/0514/4d387f63945acbe.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0514/4d387f63945acbe.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>接下来，AMD 将把注意力放到基于 LGA 6096 插槽的 SP5 平台上，辅以至少两代处理器阵容 —— 即 Genoa 和 Bergamo 。</p><p>前者具有最高 96 个 Zen 4 核心 / 200-400W SKU，后者则具有最高 128 个 Zen 4 核心 / 320-400W SKU 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0514/89e229fe3019908.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0514/89e229fe3019908.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>作为一套高端平台，SP5 还有单路 / 双路服务器选项，支持 12 通道 DDR5 内存、多达 160 条 PCIe 5.0 和 64 条 CXL V1.1+ 通道、以及 12 条 PCIe 3.0 。</p><p>与 Moore's Law Is Dead 在前日分享的视频一样，Adored TV 也在其分享的路线图中提到了 Genoa-X 。预计该系列霄龙 CPU 会在 2023 年 1-3 季度末生产，并于 2023 年中前后推出。</p><p><a href="https://static.cnbetacdn.com/article/2022/0514/c5b9849caba36f1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0514/c5b9849caba36f1.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p>它们采用了与 3D V-Cache 版 Milan-X 芯片类似的设计方法，超大的 L3 缓存将是该系列 SKU 的一个亮点。这样总的来说，SP5 平台有望最终兼容三系 EPYC CPU 。</p><p>至于 SP6，据说只是面向边缘服务器的成本优化版 SP6 —— 提供单路方案、6 通道内存、96 条 PCIe 5.0 + 48 条 CXL V1.1+ 通道、以及 8 条 PCIe 3.0 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0514/e7a5686c6dcfb9d.jpg" alt="5.jpg" referrerpolicy="no-referrer"></p><p>预计 SP6 会用上 Zen 4 霄龙处理器，但仅限于入门级 SKU 选项 —— 最多 32 核 Zen 4 / 64 核 Zen 4C，热设计功耗（TDP）介于 70-225W 之间。</p><p>此外 SP6 有望支持 Genoa、Bergamo、甚至 Turin 系列的入门级衍生型号，主打注重计算密度和每瓦特性能优化的边缘 / 电信等领域。</p><p><img src="https://static.cnbetacdn.com/article/2022/0514/4abe2fcc1e8cf19.jpg" alt="6.jpg" referrerpolicy="no-referrer"></p><p>此外在 @Olrak 找到的泄露文档中，可知 SP6 插槽看起来和 SP3 很像（58.5×75.4），因而我们推测它与现有 EPYC CPU 的封装布局也类似。</p><p>不过该系列芯片可能不会像 Bergamo 那样拥有完成的 12 组小芯片、而是沿用成熟的 8 组小芯片方案，同时内部引脚布局也从 LGA 4096（SP3）改成 LGA 4844 。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=348466806&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: center;">Adored is back with some new AMD leaks（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzQ4NDY2ODA2LnNodG1s.html" target="_self">via</a>）</p><p>最后，这些产品中的大多数，预计会在 2022 下半年 - 2024 上半年期间到来。而随着 5 月下旬台北电脑展（Computex 2022）的临近，AMD 也有望很快正式宣布新的路线图。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1255885.htm" target="_blank">AMD SP5插槽曝光：LGA 6096针脚 支持新一代96+核心霄龙CPU</a></p></div>   
+</div>
+            
