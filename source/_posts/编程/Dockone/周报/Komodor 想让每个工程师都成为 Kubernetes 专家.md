@@ -5,19 +5,14 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220513/61b8ccfdfa4ab0c80fbe932ad14885ab.png'
+headimg: 'https://picsum.photos/400/300?random=4266'
 author: Dockone
 comments: false
-date: 2022-05-14 03:16:22
-thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220513/61b8ccfdfa4ab0c80fbe932ad14885ab.png'
+date: 2022-05-14 05:11:01
+thumbnail: 'https://picsum.photos/400/300?random=4266'
 ---
 
 <div>   
-<br><strong>原文链接：<a href="https://techcrunch.com/2022/05/12/komodor-is-building-kubernetes-troubleshooting-platform-for-the-masses/">Komodor wants to make every engineer a Kubernetes troubleshooting expert</a>  （翻译：钟涛）</strong><br>
-<br><div class="aw-upload-img-list active">
-<a href="http://dockone.io/uploads/article/20220513/61b8ccfdfa4ab0c80fbe932ad14885ab.png" target="_blank" data-fancybox-group="thumb" rel="lightbox"><img src="https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220513/61b8ccfdfa4ab0c80fbe932ad14885ab.png" class="img-polaroid" title="1.png" alt="1.png" referrerpolicy="no-referrer"></a>
-</div>
-<br>
 <br>开源容器管理平台 Kubernetes 一度炙手可热，随着时间的推演，Kubernetes 已经成长为主流的成熟技术。随着越来越多的公司采用容器化和微服务，那么就需要一个完备的工具，例如 Kubernetes，来管理底层复杂的微服务组件。<br>
 <br>Komodor 的两位创始人，在谷歌和eBay工作时就开始研究 Kubernetes 这类管理平台，他们经历了许多企业将面临的 Kubernetes 的问题。<br>
 <br>两年前，Ben Ofiri 和 Itiel Shwartz 离开了谷歌和eBay，创办了 Komodor，旨在为 Kubernetes 提供一个故障排查平台，这个平台可以帮助企业发现和解决安装 Kubernetes 中遇到的问题。<br>
@@ -28,12 +23,9 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <br>他们在 2020 年成立了 Komodor，并在大约半年后，为潜在客户提供了一份草案。到目前为止，他们已经有了一套成熟的解决方案。该公司目前有45名员工，Ofiri 表示，他会招聘来自不同背景的员工，并培训他们，使其成为具备开发经验的人。<br>
 <br>Ofiri 说：”我们非常重视多样性和包容性，我们确保所有人都能在 Komodor 得到工作机会。我们甚至雇佣没有任何编程经验的员工。<br>
 <br>虽然培训开发人员非常具有挑战性，好在我们现在已经有了一套完整的培训流程，使培训可以更快的进行。虽然大部分初创公司普遍不愿在办公室里工作，但我仍然认为在同一间办公室里一起工作很有价值，我希望随着公司的发展，能够提供这样的体验。”<br>
-<br>今天，Komodor 宣布，已经在 B 轮融资中获得 4200 万美元的投资。投资由 Tiger Global 牵头，Felicis、Accel、NFX Capital、OldSlip Group、Pitango、First and Vine Ventures 等现有投资者也参与其中。到目前为止，初创公司 Komodor 总共筹集了 6700 万美元的投资。
-                                                                <div class="aw-upload-img-list">
-                                                                                                                                </div>
+<br>今天，Komodor 宣布，已经在 B 轮融资中获得 4200 万美元的投资。投资由 Tiger Global 牵头，Felicis、Accel、NFX Capital、OldSlip Group、Pitango、First and Vine Ventures 等现有投资者也参与其中。到目前为止，初创公司 Komodor 总共筹集了 6700 万美元的投资。<br>
+<br><strong>原文链接：<a href="https://techcrunch.com/2022/05/12/komodor-is-building-kubernetes-troubleshooting-platform-for-the-masses/">Komodor wants to make every engineer a Kubernetes troubleshooting expert</a>  （翻译：钟涛）</strong>
                                 
-                                                                <ul class="aw-upload-file-list">
-                                                                                                                                            </ul>
                                                               
 </div>
             
