@@ -1,0 +1,20 @@
+
+---
+title: '光大证券：5月LPR调降可期'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=4271'
+author: 证券时报网
+comments: false
+date: Sun, 15 May 2022 08:25:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4271'
+---
+
+<div>   
+<p>证券时报e公司讯，<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS601788" style="color: #2f67d1;text-decoration: none;" code="601788" target="_blank">光大证券</a>认为，4月新增社融明显低于市场预期和往年同期水平，表内信贷同比大幅收缩是主要拖累来源，尤其是居民住房、消费以及经营贷款均呈现同比大幅收缩态势。展望：政策料将全面提速，5月LPR调降可期。货币政策有望通过存量和增量政策工具，加快引导LPR报价利率下行，5月LPR有望调降。4月，央行通过降准、上缴结存利润以及建立存款利率市场化调整机制，已经对金融机构负债成本进行了明显压降。向前看，央行有望继续多措并举降低金融机构负债成本，引导社会融资成本继续下行。</p>
+
+                  
+</div>
+            
