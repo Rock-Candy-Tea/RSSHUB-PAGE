@@ -22,7 +22,7 @@ Market超市中开火。根据当地媒体报道，一位目击证人称事发�
 Gendron在超市停车，并立即在停车场向四人射击，杀死其中三人。随后，Gendron进入超市，向多人射击，其中包括一位在超市担任保安的当地退休警察。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220515/1652585170_546317.jpg" alt="美国水牛城枪击案凶手用Twitch全程直播行凶过程" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220515/1652585170_546317.jpg" alt="美国水牛城枪击案凶手用Twitch全程直播行凶过程" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Gendron来自距水牛城东南方200英里远的康克林镇。当地警方公布的消息称，事发时Gendron身穿重甲，拥有“战术装甲、战术头盔，还有用于直播的摄像头”。虽然枪击过程已经分享到凶手的Twitch频道，但平台方接到消息之后已第一时间将这一频道删除。
