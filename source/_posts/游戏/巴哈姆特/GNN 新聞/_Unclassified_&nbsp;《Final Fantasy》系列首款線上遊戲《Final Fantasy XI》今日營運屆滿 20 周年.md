@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/c42ebdaffe1eefb1f90171662f1gbec5.JPG?v=1652703354175'
 author: 巴哈姆特
 comments: false
-date: 2022-05-16 13:35:10
+date: 2022-05-16 14:11:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/c42ebdaffe1eefb1f90171662f1gbec5.JPG?v=1652703354175'
 ---
 
@@ -55,6 +55,17 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/c42ebdaffe1eefb1f90171662f1gbec5.
 <div>
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/-CUepYCA4c8?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 36.90%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/57eedd0754b1da51dd526715561gbek5.JPG?v=1652709202073" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/57eedd0754b1da51dd526715561gbek5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/92/57eedd0754b1da51dd526715561gbek5.JPG 2x" style="max-width: unset;" title="《Final Fantasy XI》登場職業一覽" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=Final%20Fantasy%20XI" target="_blank">Final Fantasy XI</a>》登場職業一覽</figure>
+</li>
+</ul>
 </div>
 <div>
  </div>

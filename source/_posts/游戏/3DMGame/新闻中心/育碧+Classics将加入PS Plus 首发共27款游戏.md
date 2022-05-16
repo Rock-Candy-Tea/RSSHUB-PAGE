@@ -144,6 +144,9 @@ PS经典游戏阵容：包括第一方游戏和第三方游戏
 <p style="text-indent:2em;">
 <span>PS+ Extra & Premium/Deluxe：将在每个月中旬加入新游戏，每月加入的游戏数量不定</span> 
 </p>
+<p style="text-indent:2em;">
+<span>更多详情点此：<a href="https://blog.zh-hant.playstation.com/2022/05/16/20220516-psplus/" target="_blank">https://blog.zh-hant.playstation.com/2022/05/16/20220516-psplus/</a></span> 
+</p>
 <p style="text-align:center;text-indent:2em;">
 <span><img src="https://img.3dmgame.com/uploads/images/news/20220516/1652706562_556804.jpg" alt="育碧+Classics将加入PS Plus 首发共27款游戏" referrerpolicy="no-referrer"><br>
 </span> 
@@ -153,6 +156,9 @@ PS经典游戏阵容：包括第一方游戏和第三方游戏
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220516/1652706577_634284.jpg" alt="育碧+Classics将加入PS Plus 首发共27款游戏" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220516/1652708658_411151.jpg" alt="育碧+Classics将加入PS Plus 首发共27款游戏" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
