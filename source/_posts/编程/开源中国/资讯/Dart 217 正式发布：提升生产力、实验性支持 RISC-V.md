@@ -37,7 +37,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-f7b03daab8aa9c2768ffa6a4a50c856
 </ol> 
 <p>Dart 2.17 通过引入一个新结构来表示在超类中指定了一个参数来解决此问题。官方称将此特性应用到 Flutter 框架时，总共<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter%2Fpull%2F100905%2Ffiles" target="_blank">减少了近 2000 行代码</a>。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-b7bd2f0e703618a2bdd0a989af44cc44ae6.png" referrerpolicy="no-referrer"></p> 
-<p>向 Flutter 插件添加<code>dart:ffi</code><span style="background-color:#ffffff; color:#494949">模板</span></p> 
+<p><strong>向 Flutter 插件添加<code>dart:ffi</code><span style="background-color:#ffffff; color:#494949">模板</span></strong></p> 
 <p>在 Flutter 中，<span style="background-color:#ffffff; color:#1b1b1d">FFI 是构建使用宿主平台原生 API（例如 Windows win32 API）插件的主流方法。在 Dart 2.17 和 Flutter 3 中，官方向</span><code>flutter</code><span style="background-color:#ffffff; color:#1b1b1d">工具添加了 FFI 模板，开发者现在可以轻松地创建 FFI 插件，这些插件具有通过</span><code>dart:ffi</code><span style="background-color:#ffffff; color:#1b1b1d">调用原生代码支持的 Dart API。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdocs.flutter.dev%2Fdevelopment%2Fpackages-and-plugins%2Fdeveloping-packages%23dart-only-platform-implementations" target="_blank">详情信息</a></span></p> 
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmedium.com%2Fdartlang%2Fdart-2-17-b216bfc80c5d" target="_blank">更多内容查看发布公告</a>。</p>
                                         </div>
