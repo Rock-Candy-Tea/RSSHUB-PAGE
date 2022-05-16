@@ -5,15 +5,15 @@ categories:
  - 博客
  - 每日安全
  - 推送
-headimg: 'https://picsum.photos/400/300?random=4840'
+headimg: 'https://picsum.photos/400/300?random=8527'
 author: 每日安全
 comments: false
-date: 2022-05-16 02:30:29
-thumbnail: 'https://picsum.photos/400/300?random=4840'
+date: 2022-05-16 03:32:31
+thumbnail: 'https://picsum.photos/400/300?random=8527'
 ---
 
 <div>   
-<q>将 Windows EventID 映射到 MITRE <a href="https://sec.today/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f9b88d8db992">[email protected]</a> 攻击矩阵的工具</q>
+<q>将 Windows EventID 映射到 MITRE <a href="https://sec.today/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f3e0b0b3f14">[email protected]</a> 攻击矩阵的工具</q>
 –
 <cite>
 <a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
