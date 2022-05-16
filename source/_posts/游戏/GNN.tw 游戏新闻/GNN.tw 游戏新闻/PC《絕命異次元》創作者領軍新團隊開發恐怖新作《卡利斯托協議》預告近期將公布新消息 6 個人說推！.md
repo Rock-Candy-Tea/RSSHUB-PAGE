@@ -1,0 +1,22 @@
+
+---
+title: 'PC
+《絕命異次元》創作者領軍新團隊開發恐怖新作《卡利斯托協議》預告近期將公布新消息
+ 6 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/96/34103821fc1a417a8ec0c6b2231gbeo5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/96/34103821fc1a417a8ec0c6b2231gbeo5.JPG'
+---
+
+<div>   
+由原本《絕命異次元（Dead Space）》遊戲製作人 Glen Schofield 所創立的遊戲開發工作室 Striking Distance Studios，透過個人 Twitter 預告，旗下開發中恐怖新作《卡利斯托協議（暫譯，The...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/96/34103821fc1a417a8ec0c6b2231gbeo5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
