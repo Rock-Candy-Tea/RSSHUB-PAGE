@@ -1,0 +1,22 @@
+
+---
+title: '手機
+《摩爾莊園手遊》事前預約啟動 首度公開回歸 PV 預告開啟「重逢」測試
+ 7 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/23/58b265534add079fc180769bff1ga1f5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/23/58b265534add079fc180769bff1ga1f5.JPG'
+---
+
+<div>   
+由淘米遊戲開發，魔方數位獨家代理的《摩爾莊園手遊》於近日開啟事前預約，同時首度公開回歸宣傳片，官方同時預告計劃開啟「重逢」測試，玩家招募企劃也即將啟動。  【以下內容為廠商提供資料原文】  摩爾莊園回...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/23/58b265534add079fc180769bff1ga1f5.JPG" referrerpolicy="no-referrer">  
+</div>
+            

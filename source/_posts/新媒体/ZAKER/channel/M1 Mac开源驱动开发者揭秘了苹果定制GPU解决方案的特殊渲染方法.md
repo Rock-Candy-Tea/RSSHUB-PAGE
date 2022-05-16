@@ -1,0 +1,18 @@
+
+---
+title: 'M1 Mac开源驱动开发者揭秘了苹果定制GPU解决方案的特殊渲染方法'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9d9_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 15 May 2022 20:23:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9d9_1024.jpg'
+---
+
+<div>   
+<p><strong>尽管苹果一直在 M1 系列定制处理器的内部细节守口如瓶，但为 M1 Mac 硬件打造开源驱动程序的 Asahi Linux 发行版开发团队，还是努力在对其展开逆向工程。</strong>可知在艰苦的逆向工作期间，他们也发现了一些相当古怪且酷炫的地方。以 M1 开源图形驱动程序为例，Alyssa Rosenzweig 最近就在 M1 GPU 渲染管道中发现了一个化解错误的关键点。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9d9_1024.jpg" data-height="393" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9d9_1024.jpg" referrerpolicy="no-referrer"></div></div>据悉，问题始于 GPU 对内存访问的不畅。作为一款性能超强的 GPU，它与 iPhone 上的 A 系列移动 SoC 一样，需要通过走一些捷径来保持高效率。<p></p><p>可知与独显相比，M1 没有直接渲染到帧缓冲区，而是对帧进行两次传递 —— 首先找到顶点，然后搞定其它更加密集的事务。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9da_1024.jpg" data-height="549" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/6281c1b58e9f0910da7dd9da_1024.jpg" referrerpolicy="no-referrer"></div></div>为此，苹果利用了专用硬件将帧分割成小块（基本上是迷你帧），并于二传时一次取一个小块来处理。<p></p><p>平铺方案很好地化解了缓存资源不足的问题，但为了稍后将之凑成完整的一帧，GPU 需要保留每个顶点数据的缓冲区。</p><p>结果 Rosenzweig 发现，每当这个缓冲区溢出时、渲染就无法正常进行下去。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9db_1024.jpg" data-height="567" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9db_1024.jpg" referrerpolicy="no-referrer"></div></div>苹果在某个演示文稿中解释称，当缓冲区已满时，GPU 只会输出部分渲染（本例中为半只兔子）。<p></p><p>在第一方应用程序中，苹果称之为参数缓冲区，且这个名词术语似乎取自 Imagination 的 PowerVR 文档。</p><p>作为一家总部位于英国的、与 ARM 类似的芯片设计公司，Imagination 于 2020 年初与苹果签署了一项广泛的知识产权许可协议。</p><p>而 2020 下半年上市的 M1 定制 SoC，就以该公司的 PowerVR GPU 架构为其图形硬件的基础。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9dc_1024.jpg" data-height="547" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9dc_1024.jpg" referrerpolicy="no-referrer"></div></div>言归正传，正如你可能已经猜到的那样，软件可通过将各部分渲染叠加到一起、以完成整只兔子的渲染（当然中间还有十几个额外的步骤）。<p></p><p>遗憾的是，这种渲染方式仍然不太准确（仔细留意兔子的足部）。Rosenzweig 指出，这是因为帧的不同部分在颜色 / 深度缓冲区之间被分割，而后者在加载部分渲染时会出现异常行为。</p><p>好消息是，得益于苹果驱动程序的逆向工程参考配置，Asahi Linux 开发团队最终搞定了这个问题，最终渲染输出的兔子如图所示。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9dd_1024.jpg" data-height="549" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/6281c1b58e9f0910da7dd9dd_1024.jpg" referrerpolicy="no-referrer"></div></div>TechSpot 总结道：不仅 Rosenzweig 的 M1 开源图形驱动程序跳过了相关环节来渲染图像，而是该 GPU 在架构设计之初就没有考虑到此类 3D 渲染应用场景。<p></p><p>即便如此，苹果还是相当巧妙地让 PowerVR 图形 IP 成为了可与独显相媲美的软硬件解决方案。即便在许多方面都没有实现完全的超越，其表现依然相当酷炫。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

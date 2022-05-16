@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?v=1652671671807'
 author: 巴哈姆特
 comments: false
-date: 2022-05-16 04:15:17
+date: 2022-05-16 05:16:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?v=1652671671807'
 ---
 
@@ -17,13 +17,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　由上海散爆網路（MICAteam，又稱雲母組）開發的策略角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%80%86%E5%90%91%E5%9D%8D%E5%A1%8C%EF%BC%9A%E9%BA%B5%E5%8C%85%E6%88%BF%E8%A1%8C%E5%8B%95" target="_blank">逆向坍塌：麵包房行動</a>》（PC / Nintendo Switch / iOS / Android）今日於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%91%E5%A5%B3%E5%89%8D%E7%B7%9A" target="_blank">少女前線</a>》六週年特別企劃線上直播活動中，公佈一系列全新內容，並帶來了最新的實機開發進展。</div>
+　　由上海散爆網路（MICAteam，又稱雲母組）開發的策略角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%80%86%E5%90%91%E5%9D%8D%E5%A1%8C%EF%BC%9A%E9%BA%B5%E5%8C%85%E6%88%BF%E8%A1%8C%E5%8B%95" target="_blank">逆向坍塌：麵包房行動</a>》（PC / Nintendo Switch / iOS / Android）近日公佈一系列全新內容，並帶來了最新的實機開發進展。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?v=1652671671807" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?v=1652671671807" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -49,7 +49,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/08e607938661a940b03f06afeb1gay85.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 141.55%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG?v=1652670514338" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 141.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG?v=1652670514338" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/25d817add72f98fd7f2969b8231gaxo5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
