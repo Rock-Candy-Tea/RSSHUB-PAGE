@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/a2f36cb39c098bfacbae5bfd3a6c7c99.png'
         <strong>CellX</strong><br>
         细胞培养肉技术及产品研发商<br>
         A轮 / 近亿人民币 / 1652667487<br>
-        投资方: Lever VC、Agronomics、佳沃创投、Better Bite Ventures
+        投资方: Lever VC、Agronomics、佳沃集团、Better Bite Ventures
         
 </div>
             
