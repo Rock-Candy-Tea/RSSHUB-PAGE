@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/317/500/013/769/159/original/520c2807b740a599.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/317/676/304/201/781/original/07fc99f3fa18d0a5.jpg'
 author: Mastodon
 comments: false
-date: Tue, 17 May 2022 13:26:08 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/317/500/013/769/159/original/520c2807b740a599.jpg'
+date: Tue, 17 May 2022 14:10:02 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/317/676/304/201/781/original/07fc99f3fa18d0a5.jpg'
 ---
 
 <div>   
-<hr><p>※violence <a href="https://pawoo.net/tags/%E3%81%8A%E3%81%9D%E6%9D%BE%E3%81%95%E3%82%93" class="mention hashtag" rel="tag">#おそ松さん</a> <a href="https://pawoo.net/tags/osomatsusan" class="mention hashtag" rel="tag">#osomatsusan</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/317/500/013/769/159/original/520c2807b740a599.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/317/501/316/480/266/original/bf7215165628c6f1.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p><a href="https://pawoo.net/tags/%E3%82%A8%E3%83%AC%E3%82%A8%E3%83%AC" class="mention hashtag" rel="tag">#エレエレ</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/317/676/304/201/781/original/07fc99f3fa18d0a5.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/317/676/316/910/658/original/1b7a3dd8c9bf37df.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
