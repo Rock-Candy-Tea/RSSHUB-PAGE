@@ -1,0 +1,26 @@
+
+---
+title: 'SMM Callouts in HP Products'
+categories: 
+ - 博客
+ - 每日安全
+ - 推送
+headimg: 'https://picsum.photos/400/300?random=3434'
+author: 每日安全
+comments: false
+date: 2022-05-17 03:50:46
+thumbnail: 'https://picsum.photos/400/300?random=3434'
+---
+
+<div>   
+<q>HP ProBook G4 650 笔记本固件被发现 SMM Callout 提权漏洞</q>
+–
+<cite>
+<a class="text-muted" href="https://sec.today/user/8b825634-50dd-43e3-a401-88096c2f8709/pushes/">
+Jett
+</a>
+<span class="text-muted"><small>• 2 minutes ago</small></span>
+</cite>
+  
+</div>
+            
