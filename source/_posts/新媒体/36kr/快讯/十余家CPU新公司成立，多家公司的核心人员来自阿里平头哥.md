@@ -1,0 +1,18 @@
+
+---
+title: '十余家CPU新公司成立，多家公司的核心人员来自阿里平头哥'
+categories: 
+ - 新媒体
+ - 36kr
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=3170'
+author: 36kr
+comments: false
+date: Tue, 17 May 2022 08:25:42 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3170'
+---
+
+<div>   
+英特尔和 AMD 多年来主导了服务器CPU和电脑CPU，但从去年至今，中国市场上已涌现了十几家CPU新公司，多数是做Arm架构的CPU，包括启灵芯、西芯、鸿钧微、此芯、遇贤微等。其中部分头部公司的估值为2-3亿美元。多家公司的核心人员来自阿里平头哥，吸引了高瓴资本、五源资本、启明创投等多家机构，其中善于融资者者，在半年内已估值翻倍。（晚点 LatePost）  
+</div>
+            
