@@ -1,0 +1,19 @@
+
+---
+title: '_被黑_多年，微软IE说再见 那考试报名、网银怎么办？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/crawl/788/w550h238/20220517/7909-beb89f8d01200989178f48bdd8c254c0.png'
+author: cnBeta
+comments: false
+date: Tue, 17 May 2022 06:25:53 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/crawl/788/w550h238/20220517/7909-beb89f8d01200989178f48bdd8c254c0.png'
+---
+
+<div>   
+微软IE浏览器真的进入退役倒计时了。昨日（5月16日）0时，微软Edge浏览器官方宣布，微软IE浏览器6月16日正式退役，之后其功能将由Edge浏览器接棒。至此，这个诞生于1995年，有着27年历史的浏览器落下帷幕。<br>
+<p><img id="1" src="https://n.sinaimg.cn/tech/crawl/788/w550h238/20220517/7909-beb89f8d01200989178f48bdd8c254c0.png" alt referrerpolicy="no-referrer"><br></p><p><strong>“IE要正式说再见啦”</strong></p><p>“终于，被黑了这么多年，IE要正式跟大家说再见啦。” <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>Edge浏览器的官方微博于5月16日0点发文官宣，微博提及，IE 27年的旅程，从今以后，这条路由Edge替IE继续走下去。</p><p><img id="2" src="https://n.sinaimg.cn/tech/crawl/495/w550h745/20220517/b279-9b7880c2c5749d986a2c26ca94ba206f.png" alt referrerpolicy="no-referrer"><br></p><p>据悉，微软给出了IE浏览器桌面应用程序的具体“退役计划”：自2021年8月17日起，Microsoft365、outlook等app将停止支持IE11，2022年6月15日，停止支持IE11桌面应用程序。</p><p>这条官宣消息下，有不少网友评论称，“一个时代结束了。”还有网友表示，“我们永远爱他，就像爱童年的自己一样。”</p><p><img id="3" src="https://n.sinaimg.cn/tech/crawl/476/w523h753/20220517/f5d4-d47216b45e288609c8cfd8c3df834526.png" alt referrerpolicy="no-referrer"><br></p><p>IE浏览器的巅峰时期，曾稳占全球市场份额第一。据官方微博消息，1995年8月，微软历史上最成功的操作系统之一——<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 95正式发布，作为Windows 95的默认浏览器，IE飞速占领市场，三年后成功成为全球市场份额第一的浏览器，更在2003年走上巅峰，占据全球市场95%份额。那是属于IE浏览器的黄金时代，IE浏览器承载了不少80后和90后的青春，是他们的“启蒙浏览器”。</p><p>此后，随着时代的发展，消费者的需求在不断变化，微软对IE浏览器的更新却没有与时俱进。渐渐的，这款浏览器饱受诟病，用户常常吐槽其功能单一、反应迟钝、兼容性差等等。与此同时，火狐、Chrome、Safari等更加快捷安全的浏览器先后问世，分走了大量市场份额。到2015年IE浏览器市场占有率跌破20%，仅有 15.71%，并仍旧逐步下滑。</p><p><img id="4" src="https://n.sinaimg.cn/tech/crawl/48/w550h298/20220517/39c3-4d837931af748dc57276432997cb5eff.png" alt referrerpolicy="no-referrer"><br></p><p>早在2015年3月微软确认将放弃IE品牌，自此以后，微软逐步放弃对IE浏览器的支持，并转向Microsoft Edge浏览器。2021年5月19日，微软公司曾宣布，IE浏览器将在2022年退出市场。根据分析机构Statcounter此前公布的数据，截至2021年4月，IE浏览器全球市场份额不到1%。</p><p><strong>考试报名、网银怎么办？</strong></p><p>随着IE浏览器的落幕，一系列问题也衍生出来。</p><p>微博评论中有网友表示，目前有部分考试网站在线报名系统依然规定必须使用IE浏览器，一些公司的系统，银行网银同样只能用IE浏览器。</p><p><img id="5" src="https://n.sinaimg.cn/tech/crawl/304/w541h563/20220517/655a-43f507f726cc49cc1a6a20253ed780aa.png" alt referrerpolicy="no-referrer"><br></p><p>在一条“公司网银怎么办”的评论下，微软Edge浏览器官方微博评论称，Edge浏览器有IE模式。</p><p><img id="6" src="https://n.sinaimg.cn/tech/crawl/15/w550h265/20220517/292a-330a9a60adb043aa2393ed612e642c2c.png" alt referrerpolicy="no-referrer"><br></p><p>据了解，目前一些国内浏览器保持了对IE内核的兼容。360浏览器技术负责人对中新财经称，360浏览器仍将长期继续保持双内核支持能力，即同时支持Chrome内核及IE内核，可针对网站适配情况自动切换更合适的内核。</p><p>另外，即便IE浏览器退役，微软仍会为Edge浏览器的“IE 兼容模式”带来持续的改进。即使在IE浏览器停用后，Edge中的IE模式仍可扩展旧应用程序的使用。有媒体认为，微软仍要在浏览器这块“蛋糕”上进行博弈。IE 浏览器官宣退役的微博中提及，“不久前Edge浏览器桌面市场份额终于突破10%”。</p><p>那么对于仍能使用IE浏览器的用户而言，是否存在安全漏洞？若出现用户权益受损的情况，微软是否需承担责任？</p><p>IE官宣退役后，有微软客服人员向媒体表示，微软官方不再对IE浏览器提供补丁更新等服务。对此，中国互联网协会法工委副秘书长胡钢表示，目前，几乎所有的软件服务都有类似的免责条款，即软件服务提供商因各种不可抗力因素、技术发展、网络攻击等随时停止服务，其不承担责任。但从我国《消费者权益保护法》来说，对于经营者单方规定的免责条款、加重了消费者责任的条款，可能会被认定为无效，经营者的免责条款到底多大程度上能够免责，需根据具体个案进行判断。</p><p>同时，胡钢也表示，根据历史经验，对于IE浏览器的退役，用户不必过度焦虑。“以微软操作系统更新换代的经验来看，虽然原有的软件不再升级，但用以替代的产品相对成熟，还是可以应对绝大多数情况。”</p><p>据微软2022财年第三季度财报，微软该季度营收为494亿美元，同比增长18%。按照美国通用会计准则（GAAP），微软该季度净利润为167亿美元，同比增加8%；在非美国通用会计准则（non-GAAP）下，微软该季度净利润为167亿美元，同比增长13%。在财报会议上，微软将该季度增长的很大程度归功于云计算相关业务。其服务器和云服务板块收入增长达到29%，而微软云增长了32%，合计达到234亿美元。</p><p><img id="7" src="https://n.sinaimg.cn/tech/crawl/121/w527h394/20220517/32e3-7893fc92d4521a817e849963cba64632.png" alt referrerpolicy="no-referrer"><br></p><p>而从微软的股价来看，虽然今年以来跌幅近30%，但30多年来，股价还是整体呈现上涨趋势。最新市值近2万亿美元。</p><p><img id="8" src="https://n.sinaimg.cn/tech/crawl/226/w402h624/20220517/591d-d5f0d8559b01cee99abb040aba248a1d.png" alt referrerpolicy="no-referrer"><br></p>   
+</div>
+            

@@ -22,8 +22,8 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.qdaily.com/drama/drama_co
 <p class></p>
 <ul><li><b><a href="https://mp.weixin.qq.com/s/-8Wm5YRDcroKKBCz4FjbhA" rel="nofollow">更为详细的主创名单</a></b></li></ul>
 <p></p>
-<p></p>
 <p>舞者：蕭瑀(中国台湾)、AlexGomar(英国)、Aviv Asulin(以色列)、Sam Vaherlehto(芬兰)、Nadezhda Gudenko(俄罗斯)、Anneliese Charek (美国)</p>
+<p></p>
 <p>编舞：: Anneliese Charek</p>
 <p>音乐 : Sebastiano Rossi</p>
 <div class="com-insert-images"><figure style="margin:0;">
