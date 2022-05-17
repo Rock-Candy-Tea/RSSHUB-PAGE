@@ -1,0 +1,20 @@
+
+---
+title: '小米 12 Ultra _ MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了，全部搭载骁龙 8 Gen 1+'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/945f5928-0583-408a-aa14-8070f5bd1ad5.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExOC5wbmc=,g_3,x_12,y_12,a_0,t_100'
+author: IT 之家
+comments: false
+date: Mon, 16 May 2022 08:32:55 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/945f5928-0583-408a-aa14-8070f5bd1ad5.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExOC5wbmc=,g_3,x_12,y_12,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1155351" rel="nofollow">和泉紗霧</a> 的线索投递！</div>
+            <p data-vmark="a536"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 5 月 16 日消息，小米的三款新机今日通过了工信部无线电核准，型号分别为 <span class="accentTextColor">2203121C、2206123SC、2206122SC</span>，根据之前的爆料，分别为小米 MIX 5、小米 12S 和小米 12 S Pro。</p><p data-vmark="9d8a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/945f5928-0583-408a-aa14-8070f5bd1ad5.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExOC5wbmc=,g_3,x_12,y_12,a_0,t_100" w="769" h="943" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" width="769" height="943" referrerpolicy="no-referrer"></p><p data-vmark="00ba" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/a473c877-514d-4c5e-bfe3-8c2574dbe773.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNy5wbmc=,g_3,x_12,y_12,a_0,t_100" w="759" h="966" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" width="759" height="966" referrerpolicy="no-referrer"></p><p data-vmark="2dd0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/594163ad-6bf9-42d6-9ada-7d924c8003f2.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNy5wbmc=,g_3,x_12,y_12,a_0,t_100" w="760" h="936" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" width="760" height="936" referrerpolicy="no-referrer"></p><p data-vmark="746f">根据之前的爆料，小米 12S 和小米 12S Pro 是小米 12 系列的小迭代机型，搭载 SM8475，即骁龙 8 Gen 1 + 芯片。小米 12S Pro 还将有搭载<span class="accentTextColor">天玑 9000</span> 的版本，型号为 2207122MC，也已经通过工信部无线电核准。</p><p data-vmark="6210" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/0b7086f4-d590-4687-ac44-4185519e332c.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNi5wbmc=,g_3,x_12,y_12,a_0,t_100" w="755" h="963" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" width="755" height="963" referrerpolicy="no-referrer"></p><p data-vmark="5c94">而型号为 2203121C 的新机此前爆料为小米 MIX 5，而数码博主 @李昂昂昂啊 称该机为<span class="accentTextColor">代号 L1 的小米 12 Ultra</span>。不管是哪款，预计都将搭载骁龙 8 Gen 1+ 处理器。</p><p data-vmark="bf84" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/1a453846-54a8-49e6-b5da-ee791256ce31.png" w="763" h="469" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" width="763" height="469" referrerpolicy="no-referrer"></p><p data-vmark="e709">此前，2203121C 已经出现在 Geekbench 5 跑分中，单核 1257，多核 3456，拥有 12GB 内存。</p><p data-vmark="78b8" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/3/6f8c9a6a-b4ba-4ded-b381-b23fedd1d032.jpg" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" referrerpolicy="no-referrer"></p><p data-vmark="21d5">IT之家了解到，小米 12 Ultra 的渲染图显示，该机将搭载超大的圆盘后置镜头，与徕卡联名，主摄将有望搭载 2 亿超高像素。</p><p data-vmark="62a5" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/be273bab-59d6-4616-bb33-2c0a94014252.png" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" referrerpolicy="no-referrer"></p><p data-vmark="2869">而有消息称小米 MIX 5 今年不发布，因此小米 12 Ultra 的可能性要大一些。</p><p data-vmark="2852" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/0bb2af9d-be6d-4275-ad77-245cc81cfcb4.png" title="小米 12 Ultra / MIX 5、12S、12S Pro 入网工信部，新款旗舰机终于来了" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
