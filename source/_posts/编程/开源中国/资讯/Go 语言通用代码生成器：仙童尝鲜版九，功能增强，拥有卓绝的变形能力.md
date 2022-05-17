@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-611d40c6f6fcaab1904dbfdac89099c
 
 <div>   
 <div class="content">
-                                                                                            <p><strong>Go语言通用代码生成器：仙童尝鲜版九，功能增强，拥有卓绝的变形能力</strong></p> 
+                                                                    
+                                                        <p><strong>Go语言通用代码生成器：仙童尝鲜版九，功能增强，拥有卓绝的变形能力</strong></p> 
 <p>Go语言通用代码生成器：仙童，已公布尝鲜版九已有重大功能增强，新增弹性登录模块 SimpleAuth。实现了基本的登录认证功能。<br> Go语言通用代码生成器：仙童尝鲜版九拥有卓绝的变形能力。支持三大变形功能群即动态椰子树功能群，动词否定功能群和字段否定功能群。其SimpleAuth弹性登录模块是全自动的弹性登录模块，高度可配置。其三个模块的域对象都可以动态配置。系统自动完成编译检查，并生成符合要求的登录模块。<br> 现在仙童已支持前端和后端复杂版面和图形报表功能。现已支持 Vue 和 ElementUI 的独立前端，一键生成双系统。现在支持 MariaDB,MySQL8,PostgreSQL 和 Oracle 四种数据库。多惊喜等着您去发现。<br> 弹性登录模块SimpleAuth 弹性模块包含了前端和后端功能，实现了基本登录认证功能。密码，角色权限功能都有自动数据增强。一键生成。在今后的几个尝鲜版中，会实现完整的角色和权限功能。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="background-color:#ffffff; color:#333333">仙童的项目地址：</span><a href="https://gitee.com/jerryshensjf/Fairchild">https://gitee.com/jerryshensjf/Fairchild</a></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">二进制版本下载地址：<a href="https://gitee.com/jerryshensjf/InfinityJEEEU/attach_files">https://gitee.com/jerryshensjf/InfinityJEEEU/attach_files</a></p> 

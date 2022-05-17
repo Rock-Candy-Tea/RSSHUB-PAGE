@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0517/071023_keOe_49371
 
 <div>   
 <div class="content">
-                                                                                            <p>DeaDBeeF 是一个模块化的跨平台音频播放器，可在 Linux、macOS、Windows 和类 Unix 系统上运行。该播放器于 2009 年首次发布。</p> 
+                                                                    
+                                                        <p>DeaDBeeF 是一个模块化的跨平台音频播放器，可在 Linux、macOS、Windows 和类 Unix 系统上运行。该播放器于 2009 年首次发布。</p> 
 <p>自 DeaDBeeF 1.8 发布后，如今时隔三年，1.9 版本正式发布，更新内容如下：</p> 
 <p><img height="1018" src="https://static.oschina.net/uploads/space/2022/0517/071023_keOe_4937141.png" width="1412" referrerpolicy="no-referrer"></p> 
 <h3>修复：</h3> 

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/38/9c617d9529472b2e7e07132ef61fxmm5.PNG?v=1650020747474'
 author: 巴哈姆特
 comments: false
-date: 2022-05-17 05:16:16
+date: 2022-05-17 06:14:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/38/9c617d9529472b2e7e07132ef61fxmm5.PNG?v=1650020747474'
 ---
 
@@ -17,7 +17,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/38/9c617d9529472b2e7e07132ef61fxmm5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　將日本刀以戰士「刀劍男士」的模樣現世的刀劍養成模擬遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" target="_blank">刀劍亂舞</a> -ONLINE-》與 KOEI TECMO GAMES 旗下動作遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%84%A1%E9%9B%99" target="_blank">無雙</a>》系列合作誕生的動作遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E%E7%84%A1%E9%9B%99" target="_blank">刀劍亂舞無雙</a>》繼今年 2 月初在 Nintendo Switch 推出中文版後，日前宣布也將會在 Steam 平台上提供玩家們下載遊玩，讓各位審神者們多了另一種選擇。在臺灣光榮特庫摩的邀請下，巴哈姆特獲得了搶先體驗 Steam 版的機會，以下就要來介紹這款遊戲的特色，並帶來 Steam 版的實機遊玩畫面。</div>
+　　將日本刀以戰士「刀劍男士」的模樣現世的刀劍養成模擬遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" target="_blank">刀劍亂舞</a> -ONLINE-》與 KOEI TECMO GAMES 旗下動作遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%84%A1%E9%9B%99" target="_blank">無雙</a>》系列合作誕生的動作遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E%E7%84%A1%E9%9B%99" target="_blank">刀劍亂舞無雙</a>》繼今年 2 月初在 Nintendo Switch 推出中文版後，今日宣布將會在 Steam 平台上提供玩家們下載遊玩，讓各位審神者們多了另一種選擇。在臺灣光榮特庫摩的邀請下，巴哈姆特獲得了搶先體驗 Steam 版的機會，以下就要來介紹這款遊戲的特色，並帶來 Steam 版的實機遊玩畫面。</div>
+<div>
+ </div>
+<ul>
+<li>
+<b>相關報導：</b><a href="https://gnn.gamer.com.tw/detail.php?sn=231913" target="_blank">《刀劍亂舞無雙》Steam 版確認發售並推出體驗版 「八拾捌茶輪番所」聯名活動登場</a></li>
+</ul>
 <div>
  </div>
 <div>
@@ -65,9 +71,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/38/9c617d9529472b2e7e07132ef61fxmm5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?v=1652760555892" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?v=1652760555892" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/65/04d2bb4f1cc5a6b32953b0d9731gbm55.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?v=1652760555892" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?v=1652760555892" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/78/0afe89b05d8e178685d46e3f8b1fy1m5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -167,7 +173,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/38/9c617d9529472b2e7e07132ef61fxmm5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.07%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG?v=1652760618038" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.07%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG?v=1652760618038" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/29091636011c6a50d48da9b26d1fxnk5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -259,7 +265,7 @@ Nintendo Switch 版畫面</figure>
 <div>
  </div>
 <div>
-　　Steam 版的入門門檻較低，擁有電腦跟 Steam 帳號即可遊玩（沒有網路也可以玩），只要電腦容量夠大就可以玩好玩滿。筆者是用搭載 intel Core-i7 CPU 和 GeForce GTX 1650 的筆電來遊玩，若是電腦配備夠好則效能跟解析度可以調到最高，不管是講究畫質的玩家還是只想體驗的玩家，都可以好好地享用這款遊戲。</div>
+　　Steam 版的入門門檻較低，擁有電腦跟 Steam 帳號即可購買遊玩（沒有網路也可以玩），只要電腦容量夠大就可以玩好玩滿。筆者是用搭載 intel Core-i7 CPU 和 GeForce GTX 1650 的筆電來遊玩，若是電腦配備夠好則效能跟解析度可以調到最高，不管是講究畫質的玩家還是只想體驗的玩家，都可以好好地享用這款遊戲。</div>
 <div>
  </div>
 <ul>
@@ -341,6 +347,8 @@ PC Steam 版畫面（顯卡：GTX1650 筆電版）</figure>
 </div>
 <div>
  </div>
+<div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E%E7%84%A1%E9%9B%99" target="_blank">刀劍亂舞無雙</a>》Steam 版預定於 2022 年 5 月 24 日（二）發售，遊戲將支援繁體中文，Steam 版 DLC 也將同時發售。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="23016" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

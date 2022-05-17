@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1868'
+headimg: 'https://picsum.photos/400/300?random=5919'
 author: 开源中国
 comments: false
 date: Tue, 17 May 2022 07:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1868'
+thumbnail: 'https://picsum.photos/400/300?random=5919'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="margin-left:0em">FreeBSD 13.1 已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.freebsd.org%2Freleases%2F13.1R%2Frelnotes%2F" target="_blank">发布</a>，该版本提供了性能上的改进，以及更好的 RISC-V 支持。下面是一些较为重要的更改项：</p> 
+                                                                    
+                                                        <p style="margin-left:0em">FreeBSD 13.1 已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.freebsd.org%2Freleases%2F13.1R%2Frelnotes%2F" target="_blank">发布</a>，该版本提供了性能上的改进，以及更好的 RISC-V 支持。下面是一些较为重要的更改项：</p> 
 <h3 style="margin-left:0em"><strong>用户态应用程序更改</strong></h3> 
 <ul> 
  <li><span style="color:#000000">对于 64 位架构，基础系统默认启用了与位置无关的可执行文件 (PIE) 支持。</span></li> 

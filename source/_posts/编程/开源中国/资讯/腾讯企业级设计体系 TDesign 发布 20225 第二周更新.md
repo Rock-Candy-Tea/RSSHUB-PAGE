@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=834'
+headimg: 'https://picsum.photos/400/300?random=9068'
 author: 开源中国
 comments: false
 date: Tue, 17 May 2022 07:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=834'
+thumbnail: 'https://picsum.photos/400/300?random=9068'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="margin-left:0px">TDesign 是一款诞生于腾讯内部、拥有完整的设计价值观和视觉风格指南的企业级设计体系，同时提供了丰富的设计资源，在设计体系基础上产出基于 Vue、React、小程序等业界主流技术栈的组件库解决方案，适合用于构建设计统一 / 多端覆盖 / 跨技术栈的企业级前端应用。</p> 
+                                                                    
+                                                        <p style="margin-left:0px">TDesign 是一款诞生于腾讯内部、拥有完整的设计价值观和视觉风格指南的企业级设计体系，同时提供了丰富的设计资源，在设计体系基础上产出基于 Vue、React、小程序等业界主流技术栈的组件库解决方案，适合用于构建设计统一 / 多端覆盖 / 跨技术栈的企业级前端应用。</p> 
 <p style="margin-left:0px">目前，TDesign 发布了 2022 年 5 月的第二周更新，带来如下变更：</p> 
 <h2 style="margin-left:0px"><strong>组件库</strong></h2> 
 <h2><strong>Vue2 for Web 发布 </strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2FTencent%2Ftdesign-vue%2Freleases%2Ftag%2F0.41.3" target="_blank"><strong>0.41.3 版</strong></a></h2> 

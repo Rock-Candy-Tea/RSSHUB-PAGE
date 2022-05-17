@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0517/073206_pnhR_49371
 
 <div>   
 <div class="content">
-                                                                                            <p>Kali Linux 2022.2 正式发布，该版本也是 Kali Linux 今年的第二个版本，上一个版本为今年 2 月发布的 Kali Linux 2022.1。</p> 
+                                                                    
+                                                        <p>Kali Linux 2022.2 正式发布，该版本也是 Kali Linux 今年的第二个版本，上一个版本为今年 2 月发布的 Kali Linux 2022.1。</p> 
 <p><img alt height="366" src="https://static.oschina.net/uploads/space/2022/0517/073206_pnhR_4937141.jpg" width="700" referrerpolicy="no-referrer"></p> 
 <h3>GNOME 42</h3> 
 <p>Kali Linux 2022.2 带来了 GNOME 的最新版本 GNOME 42，在之前 40 和 41 版本的基础上，该版本更加完善。</p> 

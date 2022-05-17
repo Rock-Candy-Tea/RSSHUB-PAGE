@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1315'
+headimg: 'https://picsum.photos/400/300?random=9711'
 author: 开源中国
 comments: false
 date: Tue, 17 May 2022 07:11:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1315'
+thumbnail: 'https://picsum.photos/400/300?random=9711'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="margin-left:0px; margin-right:0px; text-align:start">D 语言 / DLang 2.100.0 已正式发布。此版本包<span style="background-color:#ffffff; color:#663333">含 22 个主要更改和 179 个已修复的 Bugzilla 问题。</span></p> 
+                                                                    
+                                                        <p style="margin-left:0px; margin-right:0px; text-align:start">D 语言 / DLang 2.100.0 已正式发布。此版本包<span style="background-color:#ffffff; color:#663333">含 22 个主要更改和 179 个已修复的 Bugzilla 问题。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">主要变化</p> 
 <ul> 
  <li style="text-align:left">改进<span style="background-color:#ffffff; color:#333333"><span> </span>C++ header gen</span></li> 

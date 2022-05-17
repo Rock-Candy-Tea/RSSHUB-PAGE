@@ -14,7 +14,8 @@ thumbnail: 'https://gitee.com/fuhai/bs-form-builder/raw/master/assets/images/bsf
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">bsFormBuilder v1.0.3 发布了，bsFormBuilder 是一个基于 Bootstrap  v4.x 表单构建工具。这次主要是新增了 3 个新的组件，并提供了演示站点：<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fbsformbuilder.jpress.cn" target="_blank">http://bsformbuilder.jpress.cn</a></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">bsFormBuilder v1.0.3 发布了，bsFormBuilder 是一个基于 Bootstrap  v4.x 表单构建工具。这次主要是新增了 3 个新的组件，并提供了演示站点：<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fbsformbuilder.jpress.cn" target="_blank">http://bsformbuilder.jpress.cn</a></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>bsFormBuilder 的特点：</strong></p> 
 <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
  <li>1、基于 Bootstrap (v4.x) + JQuery，简单易用</li> 
