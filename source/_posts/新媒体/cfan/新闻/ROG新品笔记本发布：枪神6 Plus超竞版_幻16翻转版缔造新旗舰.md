@@ -24,11 +24,6 @@ thumbnail: 'https://upload.cfan.com.cn/2022/0517/1652797021505.png'
 <p><strong>ROG Slash 2022潮品上新 唤醒夏季时尚新风向</strong></p>
 <p>除了硬核的笔记本产品外，本次发布会ROG还带来了Slash 2022夏季新品，有全新的斜挎包、腰包、双肩背包、内胆包，以及两款时尚百搭的棒球帽和渔夫帽。ROG Slash电竞潮品的设计灵感来源于构成数字世界的基础——代码，将虚拟世界的电竞精神和现实世界的时尚潮流完美结合，极具未来感，本次夏季新品在延续这一潮酷设计基因的同时，在设计性及功能性上大胆创新，即可满足日常携带应用，穿搭加身也是百搭潮品，尽享ROG极客的赛博朋克范。</p>
 <p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0517/1652797065156.png" border="0" alt="图片4" referrerpolicy="no-referrer"></p>
-<p>搜索</p>
-<p>复制</p>
-<div id="qb-sougou-search" style="display: block; opacity: 1; left: 575.736px; top: 3524.67px;">
-<p>搜索</p>
-<p class="last-btn">复制</p>
-<iframe></iframe></div>　  
+<p> </p>　  
 </div>
             

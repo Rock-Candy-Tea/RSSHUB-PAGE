@@ -25,10 +25,6 @@ thumbnail: 'https://upload.cfan.com.cn/2022/0517/1652769715805.png'
 <p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0517/1652769749774.png" border="0" alt="图片4" referrerpolicy="no-referrer"></p>
 <p style="text-align: center; font-size: 12px; text-indent: 0;"><span>OPPO灵动美学家周冬雨带来Reno8系列微醺配色</span></p>
 <p>融汇缤纷色彩的微醺，源于人们小酌时的多种情感。它将代表着害羞、大胆、神秘与奔放的色彩调和在一起，呈现出不可预知的多变色彩。为实现这一视觉奇观，Reno8系列创新地使用了流光特调工艺，让后盖在拥有深邃景深感的同时，呈现出流动的光影效果，磨砂质地更提供不沾指纹的温润触感。</p>
-<p>更多OPPO Reno8系列新品信息，敬请期待5月23日19:00的新品发布会，届时可前往OPPO官网进行观看。</p>
-<div id="qb-sougou-search" style="display: block; opacity: 1; left: 575.736px; top: 4496.67px;">
-<p>搜索</p>
-<p class="last-btn">复制</p>
-<iframe></iframe></div>　  
+<p>更多OPPO Reno8系列新品信息，敬请期待5月23日19:00的新品发布会，届时可前往OPPO官网进行观看。</p>　  
 </div>
             
