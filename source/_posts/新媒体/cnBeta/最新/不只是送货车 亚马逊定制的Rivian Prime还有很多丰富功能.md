@@ -1,0 +1,19 @@
+
+---
+title: '不只是送货车 亚马逊定制的Rivian Prime还有很多丰富功能'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0518/58a349d0554f53e.webp'
+author: cnBeta
+comments: false
+date: Wed, 18 May 2022 07:05:16 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0518/58a349d0554f53e.webp'
+---
+
+<div>   
+尽管在外观上，Rivian 为亚马逊定制的环保 Prime 送货车和此前的亚马逊送货车并没有什么太大的区别，但除了促进环保运动之外，Prime 送货车还提供了很多丰富的功能。<br>
+<p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/58a349d0554f53e.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/b1ba029a3c9fe3e.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/259433119fc28b5.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/5d4041985a4935c.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/a3bf743723b876e.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/f0669edee600378.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/bb8d768973adadf.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/03ec4069c0c0924.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/aef3a7d7bb84ee9.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0518/952305b365c7cf4.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">此前，亚马逊的配送车队主要由汽油燃料车型组成，如梅赛德斯-奔驰 Sprinter、Ram ProMaster 和福特 Transit。虽然这些车辆当然有足够的能力完成工作，但对于亚马逊的气候承诺来说，它们并没有完全使事情变得简单，该承诺的目标是在 2040 年之前实现净零碳排放。</p><p style="text-align: left;">2020 年，亚马逊与电动汽车初创公司 Rivian 合作，订购了 10 万辆定制送货车。到 2021 年，这些全电动货车被部署到洛杉矶的街道上，进行一些初步的交付。当然，Rivian 的亚马逊送货车确实有一些特点，让人想起该公司的老车队，特别是它的框架和颜色方案。</p><p style="text-align: left;">对于一辆主要功能是将包裹从 A 点运送到 B 点的车辆来说，Rivian 的 Prime <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C752%2C899" target="_blank">面包</a>车装了很多豪华的设施。由于 Rivian 与亚马逊自己的送货司机合作构思，最终产品的设计使运输包裹的工作变得更加容易和方便。</p><p style="text-align: left;">● 车顶未来可配无人机系统</p><p style="text-align: left;">据报道，Rivian 的送货车考虑的更多未来的功能之一包括一个无人机系统，可以从车顶部署包裹。虽然这还不是 Rivian Prime 目前车队的一部分，但它确实配备了带有气候控制功能的座椅作为标准配置，包括加热的扶手和方向盘。</p><p style="text-align: left;">● 电动除霜</p><p style="text-align: left;">它的挡风玻璃上还嵌入了网格状的电线，能够在下雪的情况下进行除霜。</p><p style="text-align: left;">● 强大的中控系统</p><p style="text-align: left;">然而，在内部，这款电动送货车拥有一个由多个数字触摸显示屏组成的现代设计，作为其仪表盘和信息娱乐系统。这些面板不仅显示车辆后面的情况，还显示其侧面，使司机更容易在狭窄的情况下进行操作。</p><p style="text-align: left;">● 内置 Alexa 语音助手</p><p style="text-align: left;">让这辆面包车更酷的是，它的内部配备了一个集成的亚马逊 Alexa 虚拟助手，在亚马逊的YouTube展示中，当被告知要关闭车内灯光时，它就会这样做。考虑到亚马逊将 Alexa嵌入其许多产品中，这就很有意义。</p><p style="text-align: left;">● 注重安全</p><p style="text-align: left;">亚马逊的全电动送货车在制造时不仅考虑到了环境，还考虑到了司机和周围行人的安全。据Rivian公司称，首先，它们配备了各种摄像头、雷达和超声波传感器，可以实现自动紧急制动和备用援助。它的刹车灯是"超大的"，以使其附近的行人和其他车辆有更好的视野。</p><p style="text-align: left;">根据亚马逊的概念设计YouTube视频，其他扩大的功能包括Rivian Prime面包车的巨大挡风玻璃和侧窗，提供了最大的能见度，更不用说车顶的空间足以让司机站在里面，对于快速进入、退出和背面的包裹处理非常有用。</p><p style="text-align: left;">正如MotorTrend所指出的，为了确保更好地保护司机和客户的货物，电动Prime送货车采用了钢制框架，这比Rivian的豪华R1s SUV使用的铝制车身要坚固得多。</p><p style="text-align: left;">据Rivian公司透露，它从一个概念到一个完整的原型，只用了不到一年的时间。凭借其加固的底盘、传感器阵列和舒适的设施，Rivian的亚马逊送货车看起来就像一辆旨在提供保护和服务的车辆，它的微笑与亚马逊的商标标识相得益彰。</p>   
+</div>
+            

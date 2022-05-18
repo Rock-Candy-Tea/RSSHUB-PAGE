@@ -1,0 +1,20 @@
+
+---
+title: '拒绝继续注资后，阿里、蚂蚁集团双双撤出印度最大电商企业 Paytm Mall'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/2e861a61-e930-402d-94c5-56bda0d29e10.png'
+author: IT 之家
+comments: false
+date: Wed, 18 May 2022 06:48:07 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/2e861a61-e930-402d-94c5-56bda0d29e10.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D667021" rel="nofollow">娃哈哈纯净水</a> 的线索投递！</div>
+            <p data-vmark="a429">印度最大电商企业 Paytm Mall 发布公告称，<span class="accentTextColor">阿里巴巴集团和蚂蚁集团退出该公司股东</span>。</p><p data-vmark="698c">因其战略重点从传统的实体商品电子商务转向 B2B 出口和开放网络数字商务 (ONDC)，随着战略调整，PEPL 的股东也发生变化，<span class="accentTextColor">阿里集团和蚂蚁集团退出 PEPL</span>。</p><p data-vmark="062d">与此同时，“印度版支付宝”Paytm 的上市主体 One 97 Communications Limited 和公告中的 PEPL 没有直接或间接股权关系，<span class="accentTextColor">阿里和蚂蚁集团对 Paytm 的持股不变</span>。</p><p data-vmark="463a">目前，Paytm 电子商务已提议减少公司的股本和证券溢价账户，并表示将在 5 月 23 日召开临时股东大会。</p><p data-vmark="0c7e">根据该公司文件，Paytm 电子商务以 4.2 亿卢比的价格回购了阿里（28.34%）和 Antfin（荷兰）控股（14.98%）的全部股权，总计 43.32%。</p><p data-vmark="8188">随着蚂蚁金服和阿里退出，<span class="accentTextColor">Paytm Mall 的估值从 30 亿美元降至 1300 万美元</span>，下降了 99.5%。2019 年 7 月该公司的估值一度高达 30 亿美元。按照该估值，当时蚂蚁金服和阿里在 Paytm Mall 的持股价值分别约为 4.83 亿美元和 6.84 亿美元。</p><p data-vmark="d9f1">Paytm Mall 曾是印度第三大电子公司，在上线 14 个月后，从日本 SoftBank 和阿里获得了共 4.5 亿美元的投资，估值高达 20 亿美元，由此晋升印度电商独角兽行列。</p><p data-vmark="9583">Paytm Mall 成立之时，印度市场已是亚马逊和当时尚未被沃尔玛收购的 Flipkart 的天下，因此 Paytm Mall 也一度被视为阿里巴巴与亚马逊在印度厮杀的排头兵。</p><p data-vmark="784f">然而，<span class="accentTextColor">Paytm Mall 的烧钱返利模式使其陷入增长的困境</span>。</p><p data-vmark="e3d9">据悉，Paytm Mall 在 2018 财年净亏损 2.4565 亿美元（180 亿印度卢比），几乎是上 2017 年 186 万美元（1.363 亿印度卢比）净亏损的 150 倍。该公司的财务成本也成倍地增长，从 66852 美元（490 万卢比）增加到 600 万美元（4.4 亿卢比）。</p><p data-vmark="3a44">但是，烧钱并没有帮助它在亚马逊和沃尔玛旗下 Flipkart 主导的大电商领域取得进展。Paytm Mall 在印度的市场份额，反而从 2017 年的 5.6% 下降到 2018 年的 3%，收缩近一半。</p><p data-vmark="d3c6">这些巨额亏损和不对等回报，让 Paytm Mall 董事会和主要投资者阿里意识到，<span class="accentTextColor">Paytm 的交易量在很大程度上是由返现活动驱动的</span>，而这并不是一项可持续的业务。</p><p data-vmark="39ec">在投资者的施压下，Paytm Mall 开始采取补救措施，包括关闭印度电子商务货运服务、削减返利活动。</p><p data-vmark="af1a">这一改变无可避免地带来了用户流失。此后 Paytm Mall 的日发货量从 2018 年 10 月的 15 万件，缩水到 2019 年 3 月的 3.5 万件。</p><p data-vmark="3765">随着订单数量和市场份额开始下降，2019 年初 Paytm Mall 着手进行高管团队的重组，总共约有 100 多名员工被裁撤或是转岗。</p><p data-vmark="7849">其中，Paytm Mall 的首席运营官 Amit Sinha 辞去了其批发业务的职务，公司的其他老员工包括 Amit Bagaria、Saurabh Vashistha 和 Shankar Nath 也辞职创办了一家社交电商企业 SimSim。</p><p data-vmark="2602">据 Forrest Inc. 发布的一份报告显示，Paytm Mall 在经历 2018-2019 巨额亏损后，阿里拒绝进一步向 Paytm Mall 注资，而是将投资重点转移到 Paytm 的云计算和支付平台上。在这一年 7 月，eBay 向 Paytm Mall 注资 1.5 亿美金，但未见阿里身影，软银也未继续跟投。</p><p data-vmark="184e">近几年，印度市场一直被认为是香饽饽，中国企业也一度非常看好，且投资额巨大。</p><p data-vmark="d864">从行业分布来看，印度的独角兽主要集中在电商、金融科技、 物流和生活服务等领域。超过的一半印度独角兽背后，都是来自中国的金主爸爸，尤其以阿里和腾讯为主导。而软银则是在印度市场出手最多的投资者。</p><p data-vmark="d78c">据不完全统计，阿里共投资了印度本土 9 家科技公司，出手 21 次，这些公司涉及电商、政府、文娱、出行等高频领域，其中有 3 个项目是阿里着重押注投资 4 次以上的，包括支付工具 Paytm 及旗下在线零售网站 Paytm Mall、在线杂货商 BigBasket、餐厅点评与外卖配送平台 Zomato；这几家公司也都已经发展成为了印度独角兽。</p><p data-vmark="d6c4">IT 桔子数据显示，2020 年阿里公开披露的在印度投资仅有 2 笔。1 月，蚂蚁金服以 1.5 亿美元战略投资印度「美团点评」Zomato；4 月，阿里巴巴以 6000 万美元战略投资印度「网上商超」Bigbasket。</p><p data-vmark="a666" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/2e861a61-e930-402d-94c5-56bda0d29e10.png" w="640" h="940" alt="拒绝继续注资后，阿里、蚂蚁集团双双撤出印度最大电商企业" title="拒绝继续注资后，阿里、蚂蚁集团双双撤出印度最大电商企业 Paytm Mall" width="640" height="940" referrerpolicy="no-referrer"></p><p data-vmark="15a0">但近两年，因地缘政治原因，<span class="accentTextColor">印度市场面临着不确定性</span>。</p><p data-vmark="ae70">如小米公司一度被扣押几十亿元资金，华为、中兴通讯被强制赶出 5G 网络投标等事件。</p><p data-vmark="7edf">早在 2020 年，市场就有消息称阿里已经暂时停止了对印度公司的投资计划，未来至少六个月内都不会再向印度投出一分钱。</p><p data-vmark="54a2">此外，由于政府抵制，阿里也停止了 UCWeb 及其他创新业务在印度的服务，并裁减了印度员工甚至完全解散相关团队。</p>
+          
+</div>
+            
