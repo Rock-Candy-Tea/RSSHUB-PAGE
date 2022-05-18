@@ -1,0 +1,21 @@
+
+---
+title: '@milcho1129_ "
+株式会社ケイブ様『ゴシックは魔法乙女～さっさと契約しなさい！～ 』にて描かせていただきました。
+メヌエットちゃんの積み木保育……！
+公式サ...'
+categories: 
+ - 社交媒体
+ - Mastodon
+ - 实例公共时间线（本站）
+headimg: 'https://img.pawoo.net/media_attachments/files/108/320/975/844/718/491/original/91bad49abef356cc.jpeg'
+author: Mastodon
+comments: false
+date: Wed, 18 May 2022 04:08:59 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/320/975/844/718/491/original/91bad49abef356cc.jpeg'
+---
+
+<div>   
+<hr><p>株式会社ケイブ様『ゴシックは魔法乙女～さっさと契約しなさい！～ 』にて描かせていただきました。<br>メヌエットちゃんの積み木保育……！<br>公式サイト⇒<a href="https://gomaotsu.jp/" rel="nofollow noopener noreferrer" target="_blank">https://gomaotsu.jp/</a></p><p>１枚目：【保育士】メヌエット<br>２枚目：【保育士】メヌエット +1<br>３枚目：【積保育】メヌエット</p><p><a href="https://pawoo.net/tags/%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E3%81%AF%E9%AD%94%E6%B3%95%E4%B9%99%E5%A5%B3" class="mention hashtag" rel="tag">#ゴシックは魔法乙女</a><br><a href="https://pawoo.net/tags/%E3%82%B4%E9%AD%94%E4%B9%99" class="mention hashtag" rel="tag">#ゴ魔乙</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/320/975/844/718/491/original/91bad49abef356cc.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/320/976/322/263/896/original/0ba3d65193dbb400.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/320/976/737/010/027/original/05840ae4f650ae4d.jpeg" alt="image " referrerpolicy="no-referrer">  
+</div>
+            
