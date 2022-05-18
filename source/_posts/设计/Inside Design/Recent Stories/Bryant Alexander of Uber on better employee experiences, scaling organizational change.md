@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/uber-on-employee-experiences/'
 author: Inside Design
 comments: false
-date: 2022-05-18 13:36:45
+date: 2022-05-18 14:12:13
 thumbnail: 'https://www.invisionapp.com/inside-design/uber-on-employee-experiences/'
 ---
 
