@@ -1,0 +1,18 @@
+
+---
+title: 'Epic本周将送神秘大作，玩家猜测：无人深空或者无主之地3'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/05/18/1f7ec6a997bf4cdc0807e2ed85d9b370/thumb.png'
+author: 小黑盒
+comments: false
+date: Wed, 18 May 2022 18:52:52 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/05/18/1f7ec6a997bf4cdc0807e2ed85d9b370/thumb.png'
+---
+
+<div>   
+<p><img class="lazy" data-height="212" src="https://imgheybox.max-c.com/web/2022/05/18/1f7ec6a997bf4cdc0807e2ed85d9b370/thumb.png" data-width="813" referrerpolicy="no-referrer"></p><p>Epic每周四送一款游戏的活动已经持续了好几年了，相信很多玩家都已经白嫖到了上百款游戏，但是真正玩过的其实少之又少，大多数玩家都是抱着“白嫖不能没有，领了从未下载”的心态每周领取游戏。我也有玩家领取之后会下载下来玩一玩，玩的话就打了通关不好玩的话直接卸载。其实无论是对于哪一种玩家，Epic每周送游戏这个活动都是非常棒的，真正意义上的免费谁不爱呢？</p><p><img class="lazy" data-height="332" src="https://imgheybox.max-c.com/web/2022/05/18/17d2c6f5dc5b842fb5e2070450370ebc/thumb.png" data-width="690" referrerpolicy="no-referrer"></p><p>早期送出的游戏都是还没有送过的游戏，今天送出的都是好几年前发行的老游戏了，那对于没玩过这些游戏的玩家来说还是天大的福音，可以免费试玩一下，好玩通关不好玩删掉，游戏体验成本还是比较低的。但是随着活动送出的游戏越来越多，每次都能送出不重复的新游戏已经不现实了，到现在Epic也已经开始重复送之前送过的游戏了。</p><p><img class="lazy" data-height="545" src="https://imgheybox.max-c.com/web/2022/05/18/e883e71e5e8e82f6d543583c460af7fd/thumb.png" data-width="1080" referrerpolicy="no-referrer"></p><p>当然，老送重复的游戏或是过气的游戏玩家也会越来越不买账，所以Epic聪明的选择适当的时机偶尔会送一款神秘3A大作。本周，Epic就打算送出一款神秘3A大作，按照一贯的套路，送大作之前可是要卖足了关子。此举好处多多，一方面炒热话题，很多不了解Epic玩家知道送游戏的活动，从而增加玩家的群体数量。另一方面也可以让玩家有参与和互动感，通过不断释放出的谜题让玩家参与讨论，活跃玩家社群，而玩家面也乐此不疲的按照给出的线索进行猜测讨论。可以说，Epic把中国玩家社群“又喜欢免费又喜欢炫耀”特点拿捏的死死的。</p><p>Epic先后给出了几波线索，第一条线索给出了一张截图，预示着本周要送出一款神秘大作，而且明确给出了这款作品将是一个拥有未来科幻风格的游戏。</p><p><img class="lazy" data-height="511" src="https://imgheybox.max-c.com/web/2022/05/18/69fd58541a1775ba05224885a983af82/thumb.png" data-width="911" referrerpolicy="no-referrer"></p><p>5月17号，Epic又给出了第2个线索</p><p><img class="lazy" data-height="412" src="https://imgheybox.max-c.com/web/2022/05/18/888e786675421b23a9fb7a66e91d8438/thumb.png" data-width="545" referrerpolicy="no-referrer"></p><p>是一段8秒的视频，视频中明确给出了2022年5月19日的日期，也就是本周四送出免费游戏的日期。视频中出现了三个符号，而且视频中的声音有点像某种飞船起飞或者降落的音效，而根据这三个符号来看，答案呼之欲出。</p><p><img class="lazy" data-height="226" src="https://imgheybox.max-c.com/web/2022/05/18/ccf0a1d55559dcda615071868a671ab1/thumb.png" data-width="400" referrerpolicy="no-referrer"></p><p>未来科幻风格＋三个神秘符号+飞船音效，不少认真猜测的玩家猜测送出的应该是《无人深空》开放世界沙盒未来科幻游戏。我也觉得《无人深空》可能性更高一些，毕竟符号提示跟《无人深空》很契合，当然也有一些玩家持反对意见，认为送出的将会是《无主之地3》。</p><p><img class="lazy" data-height="423" src="https://imgheybox.max-c.com/web/2022/05/18/9fc287319dcf57ed8e1f95f225245af7/thumb.png" data-width="850" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="360" src="https://imgheybox.max-c.com/web/2022/05/18/8375b835f159eb0445d339127fb70121/thumb.png" data-width="640" referrerpolicy="no-referrer"></p><p>当然还有一些玩家调侃凑热闹，什么QQ网游、大表哥、王者荣耀的，甚至还有说是gta6的。</p><p><img class="lazy" data-height="707" src="https://imgheybox.max-c.com/web/2022/05/18/6c2a4247dbf62985f423d946a0325d61/thumb.png" data-width="439" referrerpolicy="no-referrer"></p><p>各位玩家小伙伴们你觉得本周四将会送出哪一款大作呢？现在下方写下你的答案，周四揭晓答案看看你猜的准不准。还没关注的玩家小伙伴关注一波，我们下期见。</p><p><img class="lazy" data-height="361" src="https://imgheybox.max-c.com/web/2022/05/18/3ce31981db97d261924f21c6e2d6f9f1/thumb.png" data-width="858" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="269" src="https://imgheybox.max-c.com/web/2022/05/18/c8bf096cca6e11f6457db4573a0ddad9/thumb.png" data-width="639" referrerpolicy="no-referrer"></p>  
+</div>
+            
