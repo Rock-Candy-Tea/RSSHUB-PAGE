@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?v=1652847673466'
 author: 巴哈姆特
 comments: false
-date: 2022-05-18 04:22:33
+date: 2022-05-18 05:16:11
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?v=1652847673466'
 ---
 
@@ -18,11 +18,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.
 <div>
 <div>
 <div>
-　　<a href="https://www.police.vic.gov.au/police-arrest-two-people-re-esports-investigation" target="_blank">澳洲維多利亞州警方發表官方公告</a>指出，澳洲體育誠信調查單位（ Sporting Integrity Intelligence Unit，簡稱 SIIU）的探員調查後，發現兩名男子疑似涉及 2021 年《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》中國職業聯賽 LPL 操控比賽罪行，警方宣稱這兩名 25 歲男子安排假賽，導致許多賽事都受到了影響。</div>
+　　<a href="https://www.police.vic.gov.au/police-arrest-two-people-re-esports-investigation" target="_blank">澳洲維多利亞州警方發表官方公告</a>指出，澳洲體育誠信調查單位（ Sporting Integrity Intelligence Unit，簡稱 SIIU）的探員調查後，發現兩名男子疑似涉及 2021 年《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》中國職業聯賽 LPL 操控比賽罪行，警方宣稱這兩名 25 歲男子安排假賽，導致許多賽事都受到了影響，警方已將其逮捕。</div>
 <div>
  </div>
 <div>
-　　維多利亞警方表示，他們從去年 6 月 8 日接獲博奕機構提供關於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》中國職業聯賽 LPL 多場比賽相關消息後開始展開調查，具稱有選手被安排進行假賽，且相信有些比賽因此受到了影響。</div>
+　　維多利亞警方表示，他們從去年 6 月 8 日接獲博奕機構提供關於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》中國職業聯賽 LPL 多場比賽相關消息後開始展開調查，據稱有選手被安排進行假賽，且相信有些比賽因此受到了影響。</div>
 <div>
  </div>
 <div>
@@ -36,7 +36,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 132.39%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?v=1652847673466" data-srcset="https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG 2x" style="max-width: unset;" title="澳洲警方公告" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 132.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?v=1652847673466" data-srcset="https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/18/ef168e1886b0c1e1933f67397c1gccm5.PNG 2x" style="max-width: unset;" title="澳洲警方公告" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 澳洲警方公告</figure>
 </li>
