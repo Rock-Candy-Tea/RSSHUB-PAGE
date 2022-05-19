@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/2e64b4295bd85b2afcf0ea5a6d1gajf5.JPG?v=1652435240067'
 author: 巴哈姆特
 comments: false
-date: 2022-05-19 06:13:26
+date: 2022-05-19 07:10:57
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/2e64b4295bd85b2afcf0ea5a6d1gajf5.JPG?v=1652435240067'
 ---
 
@@ -58,7 +58,9 @@ Understand？換句話說，你就是老子的獵物啦！</figure>
 <figcaption style="padding-bottom: 130.49%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/6657d2cbd03af9eb7e8d8e6efb1gajh5.JPG?v=1652435281747" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/6657d2cbd03af9eb7e8d8e6efb1gajh5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/73/6657d2cbd03af9eb7e8d8e6efb1gajh5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/73/6657d2cbd03af9eb7e8d8e6efb1gajh5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/73/6657d2cbd03af9eb7e8d8e6efb1gajh5.JPG 4x" style="max-width: unset;" title="此鐮刀與自豪的獵物──由冥府之神賜予的許可。  以人身踏入輪迴天理，是赦免亦是寬恕。  消散吧惡魂。萬死雙瞳已看清汝之終焉──  ──太棒了，我簡直帥呆啦！配角，Thank you！" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 此鐮刀與自豪的獵物──由冥府之神賜予的許可。<br>
-以人身踏入輪迴天理，是赦免亦是寬恕。 消散吧惡魂。萬死雙瞳已看清汝之終焉── ──太棒了，我簡直帥呆啦！配角，Thank you！</figure>
+以人身踏入輪迴天理，是赦免亦是寬恕。<br>
+消散吧惡魂。萬死雙瞳已看清汝之終焉──<br>
+──太棒了，我簡直帥呆啦！配角，Thank you！</figure>
 </li>
 </ul>
 <p> </p>
