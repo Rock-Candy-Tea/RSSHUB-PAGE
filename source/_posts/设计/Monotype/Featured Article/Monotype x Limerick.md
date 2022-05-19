@@ -205,7 +205,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
 
 <p>Pre-COVID, Foley was able to visit the school and provide an interactive, in-person workshop to kick off the curriculum. “Spending time on site with students and educators is so valuable. For them it humanizes the sometimes intimidating subject of typography, and for us it provides context and feedback on what we are teaching and showing to students. Their response to our teaching is as valuable to us as our experience is to them. It’s a two-way street. We were already planning the brief for 2020 when COVID hit. Given that the students had already faced unprecedented disruption, we were determined to find a way to adapt our brief to give them as good an experience as possible via a ‘virtual’ experience,” says Foley.</p>
 
-<p>So in 2020 and 2021, Foley and his teammate Emilios Theofanous worked with Limerick to create a fully virtual offering. It was important that the brief was engaging and worthwhile for the fourth-year students. Eamon Spelman, Lecturer for the graphic for the Graphic Design Communication Course, and our partner in the program, talked of the importance of this type of partnership, <span><span><span><span><span>“As educators, we know how important typography and good typographic practice is. We see it as central to what we do as graphic designers. I sometimes say that we own it; that typography is ours. We share so many other areas of design practice with others: like animation or illustration and I value the importance of putting typography as the central aspect of what the students learn here on the course.”</span></span></span> </span></span></p>
+<p>So in 2020 and 2021, Foley and his teammate Emilios Theofanous worked with Limerick to create a fully virtual offering. It was important that the brief was engaging and worthwhile for the fourth-year students. Eamon Spelman, lecturer on the Graphic Design Communication Course, and our partner in the program, talked of the importance of this type of partnership, <span><span><span><span><span>“</span></span></span></span></span>As educators, we know how important typography and good typographic practice is. We see it as central to what we do as graphic designers. I sometimes say that we own it; that typography is ours. We share so many other areas of design practice with others, like animation or illustration, and we value the importance of putting typography at the centre of what the students learn here on the course.<span><span><span><span><span>”</span></span></span> </span></span></p>
 
 <p>Teaching virtually required us to adjust what we ask of students, and how we support them. Pre-COVID we focused primarily on print and the craft of digital typesetting. These aspects of typography are still vital but did not translate well to the ‘new normal’ that students and teachers were facing. We decided to adapt our brief to incorporate other, equally important aspects of our typographic business that would enrich the experience of learning online.   </p>
             </div>
@@ -239,7 +239,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
                 <div class="field__item">
         <h3>Message Platform. </h3>
 
-<p>“The students loved the process of developing the message platform. That was really effective, because we like to see how industry works, and how it’s used at Monotype.” says Spelman. “Students are aware that companies in various places, have different means working and producing different things, using varied terminology sometimes around the same thing, and it’s fantastic for them to understand that as well.” </p>
+<p>“The students learned a lot from working with Monotype’s message platform and seeing how it’s used at Monotype,” says Spelman. “They were made aware that companies can have different working practices and means of production.” </p>
             </div>
           </div>
 
@@ -670,7 +670,7 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
   <div class="component-quote">
           <div class="quote-Text">
         <span class="quote-Text-first-letter">“</span>
-                  <span>It’s great for the the students to be able to go out to industry and say, ‘we’ve worked with Monotype’ and it’s been a fantastic experience for them.</span>
+                  <span>It’s great for the the students to be able to go into industry and say, ‘We’ve worked with Monotype.’ Plus, it’s been a fantastic experience for them.</span>
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
