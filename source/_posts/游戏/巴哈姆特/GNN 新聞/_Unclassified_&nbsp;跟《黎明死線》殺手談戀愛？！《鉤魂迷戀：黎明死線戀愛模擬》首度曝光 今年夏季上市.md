@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/49/8d087e03b250dfa03eb0cd8eff1gcdh5.PNG?v=1652851193005'
 author: 巴哈姆特
 comments: false
-date: 2022-05-19 02:59:35
+date: 2022-05-19 03:52:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/49/8d087e03b250dfa03eb0cd8eff1gcdh5.PNG?v=1652851193005'
 ---
 
@@ -58,7 +58,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/49/8d087e03b250dfa03eb0cd8eff1gcdh5.
 <div>
  </div>
 <div>
-　　《鉤魂迷戀》是 Behaviour Interactive 與紅極一時的戀愛模擬遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%91%E6%84%9B%E4%BD%A0%EF%BC%8C%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%BA%E7%88%BA%EF%BC%81%E5%90%AE%E6%8C%87%E5%9B%9E%E5%91%B3%E7%B4%84%E6%9C%83%E5%A4%A7%E6%A8%A1%E6%93%AC" target="_blank">我愛你，肯德基爺爺！吮指回味約會大模擬</a>（暫譯，I Love You, Colonel Sanders! A Finger Lickin’Good Dating Simulator）》研發團隊 Psyop 合作，而《鉤魂迷戀》以海島的浪漫為背景，因此將會有豔陽、沙灘與泳裝等設定。</div>
+　　《鉤魂迷戀》是 Behaviour Interactive 與紅極一時的戀愛模擬遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%91%E6%84%9B%E4%BD%A0%EF%BC%8C%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%88%BA%E7%88%BA%EF%BC%81%E5%90%AE%E6%8C%87%E5%9B%9E%E5%91%B3%E7%B4%84%E6%9C%83%E5%A4%A7%E6%A8%A1%E6%93%AC" target="_blank">我愛你，肯德基爺爺！吮指回味約會大模擬</a>（暫譯，I Love You, Colonel Sanders! A Finger Lickin’Good Dating Simulator）》研發團隊 Psyop 合作，而《鉤魂迷戀》以浪漫海島為背景，因此將會有豔陽、沙灘與泳裝等設定。</div>
 <div>
  </div>
 <div>
