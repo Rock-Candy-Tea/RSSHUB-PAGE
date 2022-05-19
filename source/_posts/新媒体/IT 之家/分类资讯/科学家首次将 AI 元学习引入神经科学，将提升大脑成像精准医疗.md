@@ -1,0 +1,19 @@
+
+---
+title: '科学家首次将 AI 元学习引入神经科学，将提升大脑成像精准医疗'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/9ec25674-333d-47a5-808e-b0af1e643ff9.png'
+author: IT 之家
+comments: false
+date: Thu, 19 May 2022 10:18:39 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/9ec25674-333d-47a5-808e-b0af1e643ff9.png'
+---
+
+<div>   
+<p data-vmark="3da2">凤凰网科技讯 5 月 19 日消息，近期，一项技术成果在神经生物学顶级期刊 Nature Neuroscience 上发布。这项研究首次将人工智能领域的元学习方法引入到神经科学及医疗领域，<span class="accentTextColor">能在有限的医疗数据上训练可靠的 AI 模型，提升基于脑成像的精准医疗效果。</span></p><p style="text-align: center;" data-vmark="5833"><img src="https://img.ithome.com/newsuploadfiles/2022/5/9ec25674-333d-47a5-808e-b0af1e643ff9.png" w="1440" h="763" title="科学家首次将 AI 元学习引入神经科学，将提升大脑成像精准医疗" width="1440" height="434" referrerpolicy="no-referrer"></p><p data-vmark="66ba">脑成像技术是神经科学发展的一个重要领域，能够直接观察大脑在信息处理和应对刺激时的神经化学变化、从而对疾病的诊断和治疗提供重要参照。理论上，基于脑成像的 AI 模型可应用于预测个人的一些表征特性，例如，智商、对于某种药物或某项治疗产生的临床效果等，从而促进针对个人的精准医疗，提高社会的医疗与护理水平。</p><p data-vmark="1166">一个现实的问题在于，虽然现在已经有英国生物银行（UK Biobank）这样的大规模人类神经科学数据集，在研究临床人群或解决重点神经科学的问题时，几十到上百人的小规模数据样本依旧是常态。在精确标注的医疗数据量有限的情况下，如何训练出可靠的 AI 模型，在神经科学和计算机科学领域正在成为焦点问题。</p><p data-vmark="aa92">在 Nature Neuroscience 发布的最新研究成果中，研究者们首次提出，使用机器学习领域的元学习（meta learning）来解决上述难题。元学习（meta learning）是一种让机器学会更好地学习的方法，目的是让机器面对全新的任务时能更好地利用在先前的任务中获取的“知识”。</p><p data-vmark="2409">研究者通过对先前的小样本数据分析发现，个体的认知、心理健康、人口统计学和其他健康属性等表征特性与大脑成像数据之间存在一种内在的相关性。基于小样本数据和大数据集之间的这种相关性，研究者提出名为元匹配（meta-matching）的方法。这一方法可以将大数据集上训练出来的机器学习模型迁移到小数据集上，从而训练出更可靠的模型，以更准确地预测新的表型。</p><p data-vmark="3bed">这一新方法已经在英国生物银行（UK Biobank）和人类连接组计划（Human Connectome Project）的数据集上完成了测评，测评结果显示，新方法相较于传统方法体现出更高的准确率。</p><p data-vmark="9e98">实验显示，这项新的训练框架非常灵活，可以与任何机器学习算法相结合，在小规模的数据集上，也可以有效地训练泛化性能好的 AI 预测模型。</p><p data-vmark="7dcc">Nature Neuroscience 是全球最具影响力的学术期刊 Nature 的子刊，也是神经生物学领域最顶级的刊物之一，该杂志发表的论文涉及神经科学的各个领域，包括分子、细胞、系统、行为、认知和计算研究。</p>
+          
+</div>
+            
