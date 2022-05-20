@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?v=1652937458677'
 author: 巴哈姆特
 comments: false
-date: 2022-05-19 15:14:01
+date: 2022-05-20 00:45:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?v=1652937458677'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?v=1652937458677" data-srcset="https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?v=1652937458677" data-srcset="https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div style="text-align: center;">
@@ -44,12 +44,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/89675294cc1d82f09726a17afb1gd285.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG?v=1652937568613" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG 2x" style="max-width: unset;" title="3 vs 3 模式" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG?v=1652937568613" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/598e2a5eb63fd5db77cbbc2b201gd2b5.JPG 2x" style="max-width: unset;" title="3 vs 3 模式" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 3 vs 3 模式</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG?v=1652937568613" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG 2x" style="max-width: unset;" title="2 vs 2 模式" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG?v=1652937568613" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/4e9421e2bec53cc5a55fe6fc831gd2a5.JPG 2x" style="max-width: unset;" title="2 vs 2 模式" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 2 vs 2 模式</figure>
 </li>

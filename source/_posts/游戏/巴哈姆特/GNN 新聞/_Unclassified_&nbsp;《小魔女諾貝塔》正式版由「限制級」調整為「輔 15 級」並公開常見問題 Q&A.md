@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?v=1652960726843'
 author: 巴哈姆特
 comments: false
-date: 2022-05-19 15:14:01
+date: 2022-05-20 00:45:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?v=1652960726843'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 125.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?v=1652960726843" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 125.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?v=1652960726843" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -36,7 +36,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 60.59%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG?v=1652960718427" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 60.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG?v=1652960718427" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/c9b6da1f48fcf9d882be5e41311gdhi5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -48,7 +48,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 70.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG?v=1652960709356" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 70.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG?v=1652960709356" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/597f5e870e44f916b2cbdc98bd1gdhb5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -145,7 +145,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/ee50c2bf96b93316c29b6d79601gdhh5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 163.10%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG?v=1652960824920" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 163.10%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG?v=1652960824920" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/d4eace535e76bff6dbd867f0451gdhj5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -183,7 +183,7 @@ Steam 實體豪華聯名版 新台幣 3390 元</li>
 <li>
 遊玩人數：1 人</li>
 <li>
-年齡分級：限制級</li>
+年齡分級：輔 15 級</li>
 <li>
 開發廠商：Pupuya Games</li>
 <li>
