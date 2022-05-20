@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0520/072124_u8iu_49371
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>TensorFlow 是一个用于机器学习的端到端开源平台。它有一个全面灵活的工具、库和社区资源所组成的生态，让开发人员轻松建立和部署由 ML 驱动的应用程序。TensorFlow 最初用于进行机器学习和深度神经网络研究。但该系统具有足够的通用性，也适用于其他广泛的领域。</p> 
+                                                                                            <p>TensorFlow 是一个用于机器学习的端到端开源平台。它有一个全面灵活的工具、库和社区资源所组成的生态，让开发人员轻松建立和部署由 ML 驱动的应用程序。TensorFlow 最初用于进行机器学习和深度神经网络研究。但该系统具有足够的通用性，也适用于其他广泛的领域。</p> 
 <p><img alt height="394" src="https://static.oschina.net/uploads/space/2022/0520/072124_u8iu_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>TensorFlow 2.9 近日正式发布，更新内容包括 oneDNN 的性能改进，以及 DTensor 的发布，其中后者是一个用于模型分布的 API，可以用来无缝地从数据并行迁移到模型并行。</p> 
 <p>TensorFlow 还对核心库进行了改进，包括 Eigen 和 <code>tf.function</code> 的统一，以及对 Windows 的 WSL2 的支持。最后，新版本还为 <code>tf.function retracing</code> 和 <code>Keras Optimizers</code> 发布了新的实验性 API。</p> 

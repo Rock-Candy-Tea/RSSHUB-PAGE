@@ -8,7 +8,7 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb'
 author: 探物
 comments: false
-date: 2022-05-20 00:46:24
+date: 2022-05-20 02:48:57
 thumbnail: 'https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb'
 <img src="https://resource.tanwuapp.com/FqZXcDF-szHIyRovlUy8UyDp1RTb" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 Mavic 2 Zoom 便携无人机 变焦版</strong><br><br>
           价格: ￥29.00 / 日<br>
-          评分: 4.9
+          评分: 5.0
           
 </div>
             

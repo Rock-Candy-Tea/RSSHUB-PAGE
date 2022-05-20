@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2043'
+headimg: 'https://picsum.photos/400/300?random=1408'
 author: 开源中国
 comments: false
 date: Fri, 20 May 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2043'
+thumbnail: 'https://picsum.photos/400/300?random=1408'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#000000"><span style="background-color:#ffffff">Red Hat Enterprise Linux 9 现已全面上市。此版本</span>为支持混合云创新提供了灵活性、稳定性和可靠性。在物理、虚拟、私有和公共云和边缘部署中提供一致的体验，更快地部署应用程序和关键工作负载。</span></p> 
+                                                                                            <p><span style="color:#000000"><span style="background-color:#ffffff">Red Hat Enterprise Linux 9 现已全面上市。此版本</span>为支持混合云创新提供了灵活性、稳定性和可靠性。在物理、虚拟、私有和公共云和边缘部署中提供一致的体验，更快地部署应用程序和关键工作负载。</span></p> 
 <p><strong>下载地址：</strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Faccess.redhat.com%2Fdownloads%2F" target="_blank">https://access.redhat.com/downloads/</a></p> 
 <p><span style="color:#000000">更新亮点包括：</span></p> 
 <ul> 

@@ -14,8 +14,7 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0519/191129_5sdQ_27201
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Deno 1.22 已发布，主要变化如下：</p> 
+                                                                                            <p>Deno 1.22 已发布，主要变化如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdeno.com%2Fblog%2Fv1.22%23default-type-checking-behavior-has-been-updated" target="_blank">更新默认的类型检查模式</a></li> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdeno.com%2Fblog%2Fv1.22%23removal-of-unstable-denoemit-denoformatdiagnostics-and-denoapplysourcemap-apis" target="_blank">移除不稳定的<code>Deno.emit()</code>,<span> </span><code>Deno.formatDiagnostics()</code>和<code>Deno.applySourceMap()</code>API</a></li> 

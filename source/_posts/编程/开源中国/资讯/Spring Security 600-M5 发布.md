@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=679'
+headimg: 'https://picsum.photos/400/300?random=485'
 author: 开源中国
 comments: false
 date: Fri, 20 May 2022 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=679'
+thumbnail: 'https://picsum.photos/400/300?random=485'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Spring Security 是一个 Java/Java EE 框架，为企业应用提供认证、授权和其他安全功能。该项目于 2004 年 3 月在 Apache 许可下公开发布。随后被纳入 Spring 组合，成为 Spring 的官方子项目。</p> 
+                                                                                            <p>Spring Security 是一个 Java/Java EE 框架，为企业应用提供认证、授权和其他安全功能。该项目于 2004 年 3 月在 Apache 许可下公开发布。随后被纳入 Spring 组合，成为 Spring 的官方子项目。</p> 
 <p>Spring Security 6.0.0-M5 现已正式发布，这个版本包括依赖性升级、错误修复和小的改进，以及对 <code>StrictHttpFirewall</code> 错误地拒绝有效 CJKV 字符的修复。</p> 
 <p>这个版本还包含了以下这些值得注意的变化：</p> 
 <ul> 

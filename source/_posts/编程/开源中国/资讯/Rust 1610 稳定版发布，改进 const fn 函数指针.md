@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4430'
+headimg: 'https://picsum.photos/400/300?random=4368'
 author: 开源中国
 comments: false
 date: Fri, 20 May 2022 07:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4430'
+thumbnail: 'https://picsum.photos/400/300?random=4368'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Rust 1.61.0 已正式发布。此版本包含多项重要的语法变更，以及编辑器和标准库方面的改动。</p> 
+                                                                                            <p>Rust 1.61.0 已正式发布。此版本包含多项重要的语法变更，以及编辑器和标准库方面的改动。</p> 
 <p style="text-align:start"><strong>语言特性</strong></p> 
 <ul> 
  <li><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Frust-lang%2Frust%2Fpull%2F93827%2F" target="_blank"><code>const fn</code><span> 签名已引入通用 trait 边界</span></a></li> 
