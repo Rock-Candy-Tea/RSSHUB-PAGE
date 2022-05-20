@@ -1,0 +1,443 @@
+
+---
+title: 'CosId 1.10.2 发布，通用、灵活、高性能的分布式 ID 生成器'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
+author: 开源中国
+comments: false
+date: Fri, 20 May 2022 09:17:00 GMT
+thumbnail: 'https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png'
+---
+
+<div>   
+<div class="content">
+                                                                                            <p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="CosId Logo" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/logo.png" width="300" referrerpolicy="no-referrer"></p> 
+<h1 style="margin-left:0; margin-right:0; text-align:left">CosId<span> </span>通用、灵活、高性能分布式 ID 生成器</h1> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><img alt="License" src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg" referrerpolicy="no-referrer"><span> </span><img alt="GitHub release" src="https://img.shields.io/github/release/Ahoo-Wang/CosId.svg" referrerpolicy="no-referrer"><span> </span><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/dfd1d6237a1644409548ebfbca300dc1" referrerpolicy="no-referrer"><span> </span><img alt="codecov" src="https://codecov.io/gh/Ahoo-Wang/CosId/branch/main/graph/badge.svg?token=L0N51NB7ET" referrerpolicy="no-referrer"></p> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">更新内容（v1.10.2） 🎉 🎉 🎉</h2> 
+<h2 style="margin-left:0; margin-right:0; text-align:start"><img alt="⭐" height="14" src="https://assets.gitee.com/assets/emoji/star-1862a7dd379953410da6c9a141e8d95e.png" width="14" referrerpolicy="no-referrer"> 更新内容</h2> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><strong>重构：</strong>默认开启机器号守卫 (<code>MachineIdGuarder</code><span> ) 模式</span>(<span> </span><code>cosid-spring-boot-starter</code><span> )</span>。 
+  <ul> 
+   <li><img alt="MachineIdGuarder" src="https://images.gitee.com/uploads/images/2022/0508/224741_e29d24c0_384561.png" referrerpolicy="no-referrer"></li> 
+  </ul> </li> 
+ <li><strong>修复：</strong>号段ID生成器自定义配置失效(<span> </span><code>cosid-spring-boot-starter</code><span> )。</span></li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">简介</h2> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><em><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId">CosId</a></em><span> </span>旨在提供通用、灵活、高性能的分布式 ID 生成器。</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><code>SnowflakeId</code><span> </span>:<span> </span><em>单机 TPS 性能：409W/s</em><span> </span><a href="https://gitee.com/link?target=https%3A%2F%2Fcosid.ahoo.me%2Fguide%2Fperf-test.html">JMH 基准测试</a><span> </span>, 主要解决<span> </span><em>时钟回拨问题</em><span> </span>、<em>机器号分配问题</em><span> </span>并且提供更加友好、灵活的使用体验。</li> 
+ <li><code>SegmentId</code>: 每次获取一段 (<code>Step</code>) ID，来降低号段分发器的网络 IO 请求频次提升性能。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><code>IdSegmentDistributor</code>: 号段分发器（号段存储器） 
+    <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+     <li><code>RedisIdSegmentDistributor</code>: 基于<span> </span><em>Redis</em><span> </span>的号段分发器。</li> 
+     <li><code>JdbcIdSegmentDistributor</code>: 基于<span> </span><em>Jdbc</em><span> </span>的号段分发器，支持各种关系型数据库。</li> 
+     <li><code>ZookeeperIdSegmentDistributor</code>: 基于<span> </span><em>Zookeeper</em><span> </span>的号段分发器。</li> 
+    </ul> </li> 
+  </ul> </li> 
+ <li><code>SegmentChainId</code>(<strong>推荐</strong>):<code>SegmentChainId</code><span> </span>(<em>lock-free</em>) 是对<span> </span><code>SegmentId</code><span> </span>的增强。性能可达到近似<span> </span><code>AtomicLong</code><span> </span>的<span> </span><em>TPS 性能：12743W+/s</em><span> </span><a href="https://gitee.com/link?target=https%3A%2F%2Fcosid.ahoo.me%2Fguide%2Fperf-test.html">JMH 基准测试</a><span> </span>。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><code>PrefetchWorker</code><span> </span>维护安全距离 (<code>safeDistance</code>), 并且支持基于饥饿状态的动态<span> </span><code>safeDistance</code><span> </span>扩容 / 收缩。</li> 
+  </ul> </li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">背景（为什么需要<em>分布式 ID</em>）</h2> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">在软件系统演进过程中，随着业务规模的增长 (TPS / 存储容量)，我们需要通过集群化部署来分摊计算、存储压力。 应用服务的无状态设计使其具备了伸缩性。在使用<span> </span><strong>Kubernetes</strong><span> </span>部署时我们只需要一行命令即可完成服务伸缩 (<code>kubectl scale --replicas=5 deployment/order-service</code>)。</p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">但对于有状态的数据库就不那么容易了，此时数据库变成系统的性能瓶颈是显而易见的。</p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">分库分表</h3> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">从微服务的角度来理解垂直拆分其实就是微服务拆分。以限界上下文来定义服务边界将大服务 / 单体应用拆分成多个自治的粒度更小的服务，因为自治性规范要求，数据库也需要进行业务拆分。 但垂直拆分后的单个微服务依然会面临 TPS / 存储容量 的挑战，所以这里我们重点讨论水平拆分的方式。</p> 
+</blockquote> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="分库分表" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/shardingsphere/sharding-db.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">数据库分库分表方案是逻辑统一，物理分区自治的方案。其核心设计在于中间层映射方案的设计 (上图<span> </span><strong>Mapping</strong>)，即分片算法的设计。 几乎所有编程语言都内置实现了散列表 (java:<code>HashMap</code>/csharp:<code>Dictionary</code>/python:<code>dict</code>/go:<code>map</code><span> </span>...)。分片算法跟散列表高度相似 (<code>hashCode</code>)，都得通过<span> </span><code>key</code>/<code>shardingValue</code><span> </span>映射到对应的槽位 (<code>slot</code>)。</p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">那么<span> </span><code>shardingValue</code><span> </span>从哪里来呢？<strong>CosId</strong>！！！</p> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">当然还有很多分布式场景需要<em>分布式 ID</em>，这里不再一一列举。</p> 
+</blockquote> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">分布式 ID 方案的核心指标</h2> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><strong>全局（相同业务）唯一性</strong>：唯一性保证是<span> </span><strong>ID</strong><span> </span>的必要条件，假设 ID 不唯一就会产生主键冲突，这点很容易可以理解。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>通常所说的全局唯一性并不是指所有业务服务都要唯一，而是相同业务服务不同部署副本唯一。 比如 Order 服务的多个部署副本在生成<span> </span><code>t_order</code><span> </span>这张表的<span> </span><code>Id</code><span> </span>时是要求全局唯一的。至于<span> </span><code>t_order_item</code><span> </span>生成的<span> </span><code>ID</code><span> </span>与<span> </span><code>t_order</code><span> </span>是否唯一，并不影响唯一性约束，也不会产生什么副作用。 不同业务模块间也是同理。即唯一性主要解决的是 ID 冲突问题。</li> 
+  </ul> </li> 
+ <li><strong>有序性</strong>：有序性保证是面向查询的数据结构算法（除了 Hash 算法）所必须的，是<strong>二分查找法</strong><span> </span>(分而治之) 的前提。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>MySq-InnoDB B + 树是使用最为广泛的，假设 Id 是无序的，B+ 树 为了维护 ID 的有序性，就会频繁的在索引的中间位置插入而挪动后面节点的位置，甚至导致频繁的页分裂，这对于性能的影响是极大的。那么如果我们能够保证 ID 的有序性这种情况就完全不同了，只需要进行追加写操作。所以 ID 的有序性是非常重要的，也是 ID 设计不可避免的特性。</li> 
+  </ul> </li> 
+ <li><strong>吞吐量 / 性能 (ops/time)</strong>：即单位时间（每秒）能产生的 ID 数量。生成 ID 是非常高频的操作，也是最为基本的。假设 ID 生成的性能缓慢，那么不管怎么进行系统优化也无法获得更好的性能。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>一般我们会首先生成 ID，然后再执行写入操作，假设 ID 生成缓慢，那么整体性能上限就会受到限制，这一点应该不难理解。</li> 
+  </ul> </li> 
+ <li><strong>稳定性 (time/op)</strong>：稳定性指标一般可以采用<strong>每个操作的时间进行百分位采样</strong>来分析，比如<span> </span><em><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId">CosId</a></em><span> </span>百分位采样<span> </span><strong>P9999=0.208 us/op</strong>，即<span> </span><strong>0% ~ 99.99%</strong><span> </span>的单位操作时间小于等于<span> </span><strong>0.208 us/op</strong>。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><a href="https://gitee.com/link?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%2599%25BE%25E5%2588%2586%25E4%25BD%258D%25E6%2595%25B0">百分位数 WIKI</a><span> </span>：统计学术语，若将一组数据从小到大排序，并计算相应的累计百分点，则某百分点所对应数据的值，就称为这百分点的百分位数，以 Pk 表示第 k 百分位数。百分位数是用来比较个体在群体中的相对地位量数。</li> 
+   <li>为什么不用平均<em>每个操作的时间</em>：马老师的身价跟你的身价能平均么？平均后的值有意义不？</li> 
+   <li>可以使用最小<em>每个操作的时间</em>、最大<em>每个操作的时间</em>作为参考吗？因为最小、最大值只说明了零界点的情况，虽说可以作为稳定性的参考，但依然不够全面。而且<em>百分位数</em>已经覆盖了这俩个指标。</li> 
+  </ul> </li> 
+ <li><strong>自治性（依赖）</strong>：主要是指对外部环境有无依赖，比如<strong>号段模式</strong>会强依赖第三方存储中间件来获取<span> </span><code>NexMaxId</code>。自治性还会对可用性造成影响。</li> 
+ <li><strong>可用性</strong>：分布式 ID 的可用性主要会受到自治性影响，比如<span> </span><strong>SnowflakeId</strong><span> </span>会受到时钟回拨影响，导致处于短暂时间的不可用状态。而<strong>号段模式</strong>会受到第三方发号器（<code>NexMaxId</code>）的可用性影响。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><a href="https://gitee.com/link?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E5%258F%25AF%25E7%2594%25A8%25E6%2580%25A7">可用性 WIKI</a><span> </span>：在一个给定的时间间隔内，对于一个功能个体来讲，总的可用时间所占的比例。</li> 
+   <li>MTBF：平均故障间隔</li> 
+   <li>MDT：平均修复 / 恢复时间</li> 
+   <li>Availability=MTBF/(MTBF+MDT)</li> 
+   <li>假设 MTBF 为 1 年，MDT 为 1 小时，即<span> </span><code>Availability=(365*24)/(365*24+1)=0.999885857778792≈99.99%</code>，也就是我们通常所说对可用性 4 个 9。</li> 
+  </ul> </li> 
+ <li><strong>适应性</strong>：是指在面对外部环境变化的自适应能力，这里我们主要说的是面对流量突发时动态伸缩分布式 ID 的性能， 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><strong>SegmentChainId</strong><span> </span>可以基于<strong>饥饿状态</strong>进行<strong>安全距离</strong>的动态伸缩。</li> 
+   <li><strong>SnowflakeId</strong><span> </span>常规位分配方案性能恒定 409.6W，虽然可以通过调整位分配方案来获得不同的 TPS 性能，但是位分配方法的变更是破坏性的，一般根据业务场景确定位分配方案后不再变更。</li> 
+  </ul> </li> 
+ <li><strong>存储空间</strong>：还是用 MySq-InnoDB B + 树来举例，普通索引（二级索引）会存储主键值，主键越大占用的内存缓存、磁盘空间也会越大。Page 页存储的数据越少，磁盘 IO 访问的次数会增加。总之在满足业务需求的情况下，尽可能小的存储空间占用在绝大多数场景下都是好的设计原则。</li> 
+</ul> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">不同分布式 ID 方案核心指标对比</h3> 
+<table cellspacing="0" style="-webkit-text-stroke-width:0px; background-color:#ffffff; border-collapse:collapse; border-spacing:0px; border:none; box-sizing:border-box; color:#40485b; display:block; font-family:-apple-system,"system-ui","Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Liberation Sans","PingFang SC","Microsoft YaHei","Hiragino Sans GB","Wenquanyi Micro Hei","WenQuanYi Zen Hei","ST Heiti",SimHei,SimSun,"WenQuanYi Zen Hei Sharp",sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:inherit; margin:0px 0px 16px; max-width:100%; orphans:2; overflow:auto; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; white-space:normal; widows:2; word-break:initial; word-spacing:0px"> 
+ <thead> 
+  <tr> 
+   <th>分布式 ID</th> 
+   <th>全局唯一性</th> 
+   <th>有序性</th> 
+   <th>吞吐量</th> 
+   <th>稳定性（1s=1000,000us）</th> 
+   <th>自治性</th> 
+   <th>可用性</th> 
+   <th>适应性</th> 
+   <th>存储空间</th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">UUID/GUID</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">是</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">完全无序</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">3078638(ops/s)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">P9999=0.325(us/op)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">完全自治</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">100%</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">否</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">128-bit</td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">SnowflakeId</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">是</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">本地单调递增，全局趋势递增 (受全局时钟影响)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">4096000(ops/s)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">P9999=0.244(us/op)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">依赖时钟</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">时钟回拨会导致短暂不可用</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">否</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">64-bit</td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">SegmentId</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">是</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">本地单调递增，全局趋势递增 (受 Step 影响)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">29506073(ops/s)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">P9999=46.624(us/op)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">依赖第三方号段分发器</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">受号段分发器可用性影响</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">否</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">64-bit</td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">SegmentChainId</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">是</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">本地单调递增，全局趋势递增 (受 Step、安全距离影响)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">127439148(ops/s)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">P9999=0.208(us/op)</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">依赖第三方号段分发器</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">受号段分发器可用性影响，但因安全距离存在，预留 ID 段，所以高于 SegmentId</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">是</td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px">64-bit</td> 
+  </tr> 
+ </tbody> 
+</table> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">有序性 (要想分而治之・二分查找法，必须要维护我)</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">刚刚我们已经讨论了 ID 有序性的重要性，所以我们设计 ID 算法时应该尽可能地让 ID 是单调递增的，比如像表的自增主键那样。但是很遗憾，因全局时钟、性能等分布式系统问题，我们通常只能选择局部单调递增、全局趋势递增的组合（就像我们在分布式系统中不得不的选择最终一致性那样）以获得多方面的权衡。下面我们来看一下什么是单调递增与趋势递增。</p> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">有序性之单调递增</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="单调递增" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/monotonically-increasing.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">单调递增：T 表示全局绝对时点，假设有 Tn+1>Tn（绝对时间总是往前进的，这里不考虑相对论、时间机器等），那么必然有 F (Tn+1)>F (Tn)，数据库自增主键就属于这一类。 另外需要特别说明的是单调递增跟连续性递增是不同的概念。 连续性递增：<code>F(n+1)=(F(n)+step)</code><span> </span>即下一次获取的 ID 一定等于当前<span> </span><code>ID+Step</code>，当<span> </span><code>Step=1</code><span> </span>时类似于这样一个序列:<code>1->2->3->4->5</code>。</p> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">扩展小知识：数据库的自增主键也不是连续性递增的，相信你一定遇到过这种情况，请思考一下数据库为什么这样设计？</p> 
+</blockquote> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">有序性之趋势递增</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="趋势递增" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/trend-increasing.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">趋势递增：Tn>Tn-s，那么大概率有 F (Tn)>F (Tn-s)。虽然在一段时间间隔内有乱序，但是整体趋势是递增。从上图上看，是有上升趋势的（趋势线）。</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>在<span> </span><strong>SnowflakeId</strong><span> </span>中 n-s 受到全局时钟同步影响。</li> 
+ <li>在号段模式 (<strong>SegmentId</strong>) 中 n-s 受到号段可用区间 (<code>Step</code>) 影响。</li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">分布式 ID 分配方案</h2> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">UUID/GUID</h3> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><img alt="👍" height="14" src="https://assets.gitee.com/assets/emoji/thumbsup-f866ad23f6584fa15376ddb4738e53cf.png" width="14" referrerpolicy="no-referrer">不依赖任何第三方中间件</li> 
+ <li><img alt="👍" height="14" src="https://assets.gitee.com/assets/emoji/thumbsup-f866ad23f6584fa15376ddb4738e53cf.png" width="14" referrerpolicy="no-referrer">性能高</li> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer">完全无序</li> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer">空间占用大，需要占用 128 位存储空间。</li> 
+</ul> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">UUID 最大的缺陷是随机的、无序的，当用于主键时会导致数据库的主键索引效率低下（为了维护索引树，频繁的索引中间位置插入数据，而不是追加写）。这也是 UUID 不适用于数据库主键的最为重要的原因。</p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">SnowflakeId</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Snowflake 雪花算法" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/Snowflake-identifier.png" referrerpolicy="no-referrer"></p> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0"><em>SnowflakeId</em><span> </span>使用<span> </span><code>Long</code>（64-bit）位分区来生成 ID 的一种分布式 ID 算法。 通用的位分配方案为：<code>timestamp</code>(41-bit)+<code>machineId</code>(10-bit)+<code>sequence</code>(12-bit)=63-bit。</p> 
+</blockquote> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>41-bit<code>timestamp</code>=(1L<<41)/(1000/3600/365)，约可以存储 69 年的时间戳，即可以使用的绝对时间为<span> </span><code>EPOCH</code>+69 年，一般我们需要自定义<span> </span><code>EPOCH</code><span> </span>为产品开发时间，另外还可以通过压缩其他区域的分配位数，来增加时间戳位数来延长可用时间。</li> 
+ <li>10-bit<code>machineId</code>=(1L<<10)=1024，即相同业务可以部署 1024 个副本 (在 Kubernetes 概念里没有主从副本之分，这里直接沿用 Kubernetes 的定义)。一般情况下没有必要使用这么多位，所以会根据部署规模需要重新定义。</li> 
+ <li>12-bit<code>sequence</code>=(1L<<12)*1000=4096000，即单机每秒可生成约 409W 的 ID，全局同业务集群可产生<span> </span><code>4096000*1024=419430W=41.9亿(TPS)</code>。</li> 
+</ul> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">从<span> </span><em>SnowflakeId</em><span> </span>设计上可以看出:</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><img alt="👍" height="14" src="https://assets.gitee.com/assets/emoji/thumbsup-f866ad23f6584fa15376ddb4738e53cf.png" width="14" referrerpolicy="no-referrer"><code>timestamp</code><span> </span>在高位，单实例<span> </span><em>SnowflakeId</em><span> </span>是会保证时钟总是向前的（校验本机时钟回拨），所以是本机单调递增的。受全局时钟同步 / 时钟回拨影响<span> </span><em>SnowflakeId</em><span> </span>是全局趋势递增的。</li> 
+ <li><img alt="👍" height="14" src="https://assets.gitee.com/assets/emoji/thumbsup-f866ad23f6584fa15376ddb4738e53cf.png" width="14" referrerpolicy="no-referrer"><em>SnowflakeId</em><span> </span>不对任何第三方中间件有强依赖关系，并且性能也非常高。</li> 
+ <li><img alt="👍" height="14" src="https://assets.gitee.com/assets/emoji/thumbsup-f866ad23f6584fa15376ddb4738e53cf.png" width="14" referrerpolicy="no-referrer">位分配方案可以按照业务系统需要灵活配置，来达到最优使用效果。</li> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer">强依赖本机时钟，潜在的时钟回拨问题会导致 ID 重复、处于短暂的不可用状态。</li> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer"><code>machineId</code><span> </span>需要手动设置，实际部署时如果采用手动分配<span> </span><code>machineId</code>，会非常低效。</li> 
+</ul> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">SnowflakeId 之机器号分配问题</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">在<span> </span><strong>SnowflakeId</strong><span> </span>中根据业务设计的位分配方案确定了基本上就不再有变更了，也很少需要维护。但是<span> </span><code>machineId</code><span> </span>总是需要配置的，而且集群中是不能重复的，否则分区原则就会被破坏而导致 ID 唯一性原则破坏，当集群规模较大时<span> </span><code>machineId</code><span> </span>的维护工作是非常繁琐，低效的。</p> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">有一点需要特别说明的，<strong>SnowflakeId</strong><span> </span>的<span> </span><strong>MachineId</strong><span> </span>是逻辑上的概念，而不是物理概念。 想象一下假设<span> </span><strong>MachineId</strong><span> </span>是物理上的，那么意味着一台机器拥有只能拥有一个<span> </span><strong>MachineId</strong>，那会产生什么问题呢？</p> 
+</blockquote> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">目前<span> </span><em><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId">CosId</a></em><span> </span>提供了以下五种<span> </span><code>MachineId</code><span> </span>分配器。</p> 
+</blockquote> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>ManualMachineIdDistributor: 手动配置<span> </span><code>machineId</code>，一般只有在集群规模非常小的时候才有可能使用，不推荐。</li> 
+ <li>StatefulSetMachineIdDistributor: 使用<span> </span><code>Kubernetes</code><span> </span>的<span> </span><code>StatefulSet</code><span> </span>提供的稳定的标识 ID（HOSTNAME=service-01）作为机器号。</li> 
+ <li>RedisMachineIdDistributor: 使用<span> </span><strong>Redis</strong><span> </span>作为机器号的分发存储，同时还会存储<span> </span><code>MachineId</code><span> </span>的上一次时间戳，用于<strong>启动时时钟回拨</strong>的检查。</li> 
+ <li>JdbcMachineIdDistributor: 使用<strong>关系型数据库</strong>作为机器号的分发存储，同时还会存储<span> </span><code>MachineId</code><span> </span>的上一次时间戳，用于<strong>启动时时钟回拨</strong>的检查。</li> 
+ <li>ZookeeperMachineIdDistributor: 使用<span> </span><strong>ZooKeeper</strong><span> </span>作为机器号的分发存储，同时还会存储<span> </span><code>MachineId</code><span> </span>的上一次时间戳，用于<strong>启动时时钟回拨</strong>的检查。</li> 
+</ul> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Redis MachineId Distributor" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/RedisMachineIdDistributor.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Machine Id Safe Guard" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/Machine-Id-Safe-Guard.png" referrerpolicy="no-referrer"></p> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">SnowflakeId 之时钟回拨问题</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">时钟回拨的致命问题是会导致 ID 重复、冲突（这一点不难理解），ID 重复显然是不能被容忍的。 在<span> </span><strong>SnowflakeId</strong><span> </span>算法中，按照<span> </span><strong>MachineId</strong><span> </span>分区 ID，我们不难理解的是不同<span> </span><strong>MachineId</strong><span> </span>是不可能产生相同 ID 的。所以我们解决的时钟回拨问题是指当前<span> </span><strong>MachineId</strong><span> </span>的时钟回拨问题，而不是所有集群节点的时钟回拨问题。</p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><strong>MachineId</strong><span> </span>时钟回拨问题大体可以分为俩种情况：</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>运行时时钟回拨：即在运行时获取的当前时间戳比上一次获取的时间戳小。这个场景的时钟回拨是很容易处理的，一般<span> </span><strong>SnowflakeId</strong><span> </span>代码实现时都会存储<span> </span><code>lastTimestamp</code><span> </span>用于运行时时钟回拨的检查，并抛出时钟回拨异常。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>时钟回拨时直接抛出异常是不太好地实践，因为下游使用方几乎没有其他处理方案（噢，我还能怎么办呢，等吧），时钟同步是唯一的选择，当只有一种选择时就不要再让用户选择了。</li> 
+   <li><code>ClockSyncSnowflakeId</code><span> </span>是<span> </span><code>SnowflakeId</code><span> </span>的包装器，当发生时钟回拨时会使用<span> </span><code>ClockBackwardsSynchronizer</code><span> </span>主动等待时钟同步来重新生成 ID，提供更加友好的使用体验。</li> 
+  </ul> </li> 
+ <li>启动时时钟回拨：即在启动服务实例时获取的当前时钟比上次关闭服务时小。此时的<span> </span><code>lastTimestamp</code><span> </span>是无法存储在进程内存中的。当获取的外部存储的<strong>机器状态</strong>大于当前时钟时钟时，会使用<span> </span><code>ClockBackwardsSynchronizer</code><span> </span>主动同步时钟。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>LocalMachineStateStorage：使用本地文件存储<span> </span><code>MachineState</code>(机器号、最近一次时间戳)。因为使用的是本地文件所以只有当实例的部署环境是稳定的，<code>LocalMachineStateStorage</code><span> </span>才适用。</li> 
+   <li>RedisMachineIdDistributor：将<span> </span><code>MachineState</code><span> </span>存储在<span> </span><strong>Redis</strong><span> </span>分布式缓存中，这样可以保证总是可以获取到上次服务实例停机时<strong>机器状态</strong>。</li> 
+  </ul> </li> 
+</ul> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">SnowflakeId 之 JavaScript 数值溢出问题</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><code>JavaScript</code><span> </span>的<span> </span><code>Number.MAX_SAFE_INTEGER</code><span> </span>只有 53-bit，如果直接将 63 位的<span> </span><code>SnowflakeId</code><span> </span>返回给前端，那么会产生值溢出的情况（所以这里我们应该知道后端传给前端的<span> </span><code>long</code><span> </span>值溢出问题，<strong>迟早</strong>会出现，只不过 SnowflakeId 出现得更快而已）。 很显然溢出是不能被接受的，一般可以使用以下俩种处理方案：</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>将生成的 63-bit<code>SnowflakeId</code><span> </span>转换为<span> </span><code>String</code><span> </span>类型。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>直接将<span> </span><code>long</code><span> </span>转换成<span> </span><code>String</code>。</li> 
+   <li>使用<span> </span><code>SnowflakeFriendlyId</code><span> </span>将<span> </span><code>SnowflakeId</code><span> </span>转换成比较友好的字符串表示：<code>&#123;timestamp&#125;-&#123;machineId&#125;-&#123;sequence&#125; -> 20210623131730192-1-0</code></li> 
+  </ul> </li> 
+ <li>自定义<span> </span><code>SnowflakeId</code><span> </span>位分配来缩短<span> </span><code>SnowflakeId</code><span> </span>的位数（53-bit）使<span> </span><code>ID</code><span> </span>提供给前端时不溢出 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>使用<span> </span><code>SafeJavaScriptSnowflakeId</code>(<code>JavaScript</code><span> </span>安全的<span> </span><code>SnowflakeId</code>)</li> 
+  </ul> </li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">号段模式（SegmentId）</h2> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Segment Id" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/SegmentId.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left">从上面的设计图中，不难看出<strong>号段模式</strong>基本设计思路是通过每次获取一定长度（Step）的可用 ID（Id 段 / 号段），来降低网络 IO 请求次数，提升性能。</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer">强依赖第三方号段分发器，可用性受到第三方分发器影响。</li> 
+ <li><img alt="👎" height="14" src="https://assets.gitee.com/assets/emoji/thumbsdown-da41668c7715a2e470f020d398f74f74.png" width="14" referrerpolicy="no-referrer">每次号段用完时获取<span> </span><code>NextMaxId</code><span> </span>需要进行网络 IO 请求，此时的性能会比较低。</li> 
+ <li>单实例 ID 单调递增，全局趋势递增。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>从设计图中不难看出<span> </span><strong>Instance 1</strong><span> </span>每次获取的<span> </span><code>NextMaxId</code>，一定比上一次大，意味着下一次的号段一定比上一次大，所以从单实例上来看是单调递增的。</li> 
+   <li>多实例各自持有的不同的号段，意味着同一时刻不同实例生成的 ID 是乱序的，但是整体趋势的递增的，所以全局趋势递增。</li> 
+  </ul> </li> 
+ <li>ID 乱序程度受到 Step 长度以及集群规模影响（从趋势递增图中不难看出）。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>假设集群中只有一个实例时<strong>号段模式</strong>就是单调递增的。</li> 
+   <li><code>Step</code><span> </span>越小，乱序程度越小。当<span> </span><code>Step=1</code><span> </span>时，将无限接近单调递增。需要注意的是这里是无限接近而非等于单调递增，具体原因你可以思考一下这样一个场景： 
+    <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+     <li>号段分发器 T1 时刻给<span> </span><strong>Instance 1</strong><span> </span>分发了<span> </span><code>ID=1</code>,T2 时刻给<span> </span><strong>Instance 2</strong><span> </span>分发了<span> </span><code>ID=2</code>。因为机器性能、网络等原因，<code>Instance 2</code><span> </span>网络 IO 写请求先于<span> </span><code>Instance 1</code><span> </span>到达。那么这个时候对于数据库来说，ID 依然是乱序的。</li> 
+    </ul> </li> 
+  </ul> </li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">号段链模式（SegmentChainId）</h2> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><a href="https://gitee.com/link?target=https%3A%2F%2Fcosid.ahoo.me%2Fguide%2Fsegment-chain.html">分布式 ID (CosId) 之号段链模式性能 (1.2 亿 /s) 解析</a></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Segment Chain Id" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/SegmentChainId.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:left"><strong>SegmentChainId</strong><span> </span>是<span> </span><strong>SegmentId</strong><span> </span>增强版，相比于<span> </span><strong>SegmentId</strong><span> </span>有以下优势：</p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>稳定性：<strong>SegmentId</strong><span> </span>的稳定性问题（P9999=46.624 (us/op)）主要是因为号段用完之后同步进行<span> </span><code>NextMaxId</code><span> </span>的获取导致的（会产生网络 IO）。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><strong>SegmentChainId</strong><span> </span>（P9999=0.208 (us/op)）引入了新的角色<span> </span><strong>PrefetchWorker</strong><span> </span>用以维护和保证<strong>安全距离</strong>，理想情况下使得获取 ID 的线程几乎完全不需要进行同步的等待<span> </span><code>NextMaxId</code><span> </span>获取，性能可达到近似<span> </span><code>AtomicLong</code><span> </span>的<span> </span><em>TPS 性能：12743W+/s</em><span> </span><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId%2Fblob%2Fmain%2FREADME.zh-CN.md%23jmh-benchmark">JMH 基准测试</a><span> </span>。</li> 
+  </ul> </li> 
+ <li>适应性：从<span> </span><strong>SegmentId</strong><span> </span>介绍中我们知道了影响<span> </span><strong>ID 乱序</strong>的因素有俩个：集群规模、<code>Step</code><span> </span>大小。集群规模是我们不能控制的，但是<span> </span><code>Step</code><span> </span>是可以调节的。 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li><code>Step</code><span> </span>应该近可能小才能使得<span> </span><strong>ID 单调递增</strong>的可能性增大。</li> 
+   <li><code>Step</code><span> </span>太小会影响吞吐量，那么我们如何合理设置<span> </span><code>Step</code><span> </span>呢？答案是我们无法准确预估所有时点的吞吐量需求，那么最好的办法是吞吐量需求高时，Step 自动增大，吞吐量低时 Step 自动收缩。</li> 
+   <li><strong>SegmentChainId</strong><span> </span>引入了<strong>饥饿状态</strong>的概念，<strong>PrefetchWorker</strong><span> </span>会根据<strong>饥饿状态</strong>检测当前<strong>安全距离</strong>是否需要膨胀或者收缩，以便获得吞吐量与有序性之间的权衡，这便是<span> </span><strong>SegmentChainId</strong><span> </span>的自适应性。</li> 
+  </ul> </li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">集成</h2> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">CosIdPlugin（MyBatis 插件）</h3> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">Kotlin DSL</p> 
+</blockquote> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span>    <strong style="color:#cccccc"><span style="color:#d73a49"><span style="color:#d73a49">implementation</span></span></strong><span style="color:#eeeeee">(</span><span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">"me.ahoo.cosid:cosid-mybatis:$&#123;cosidVersion&#125;"</span></span></span><span style="color:#eeeeee">)</span></span>
+</pre> 
+ </div> 
+</div> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span><strong><span style="color:#d73a49"><span style="color:#d73a49">public</span></span></strong> <strong><span><span style="color:#d73a49"><span><span style="color:#d73a49">class</span></span></span></span></strong><span><span> </span></span><strong style="color:#cccccc"><span><span style="color:#6f42c1"><span><span style="color:#6f42c1">Order</span></span></span></span></strong><span><span> </span></span><span>&#123;</span></span>
+
+<span>    <span><span style="color:#6a737d"><span style="color:#6a737d">@CosId</span></span></span><span><span style="color:#6a737d"><span style="color:#6a737d">(</span></span></span><span><span style="color:#6a737d"><span style="color:#6a737d">value</span></span></span><span style="color:#6a737d"><span style="color:#6a737d"> </span></span><span><span style="color:#6a737d"><span style="color:#6a737d">=</span></span></span><span style="color:#6a737d"><span style="color:#6a737d"> </span></span><span style="background-color:transparent; color:#00aadd"><span style="color:#6a737d"><span><span style="color:#6a737d"><span>"order"</span></span></span></span></span><span><span style="color:#6a737d"><span style="color:#6a737d">)</span></span></span></span>
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">private</span></span></strong> <strong style="color:#cccccc"><span><span>Long</span></span></strong> <span>orderId</span><span>;</span></span>
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">private</span></span></strong> <strong style="color:#cccccc"><span><span>Long</span></span></strong> <span>userId</span><span>;</span></span>
+
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">public</span></span></strong> <strong style="color:#cccccc"><span><span>Long</span></span></strong> <strong style="color:#cccccc">getOrderId</strong><span>()</span> <span>&#123;</span></span>
+<span>        <strong style="color:#cda869"><span style="color:#d73a49"><span style="color:#d73a49">return</span></span></strong> <span>orderId</span><span>;</span></span>
+<span>    <span>&#125;</span></span>
+
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">public</span></span></strong> <strong style="color:#445588">void</strong> <strong style="color:#cccccc">setOrderId</strong><span>(</span><strong style="color:#cccccc"><span><span>Long</span></span></strong> <span>orderId</span><span>)</span> <span>&#123;</span></span>
+<span>        <strong style="color:#cda869"><span style="color:#d73a49"><span style="color:#d73a49">this</span></span></strong><span>.</span><span style="color:#008080">orderId</span> <span>=</span> <span>orderId</span><span>;</span></span>
+<span>    <span>&#125;</span></span>
+
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">public</span></span></strong> <strong style="color:#cccccc"><span><span>Long</span></span></strong> <strong style="color:#cccccc">getUserId</strong><span>()</span> <span>&#123;</span></span>
+<span>        <strong style="color:#cda869"><span style="color:#d73a49"><span style="color:#d73a49">return</span></span></strong> <span>userId</span><span>;</span></span>
+<span>    <span>&#125;</span></span>
+
+<span>    <strong><span style="color:#d73a49"><span style="color:#d73a49">public</span></span></strong> <strong style="color:#445588">void</strong> <strong style="color:#cccccc">setUserId</strong><span>(</span><strong style="color:#cccccc"><span><span>Long</span></span></strong> <span>userId</span><span>)</span> <span>&#123;</span></span>
+<span>        <strong style="color:#cda869"><span style="color:#d73a49"><span style="color:#d73a49">this</span></span></strong><span>.</span><span style="color:#008080">userId</span> <span>=</span> <span>userId</span><span>;</span></span>
+<span>    <span>&#125;</span></span>
+<span><span>&#125;</span></span>
+</pre> 
+ </div> 
+</div> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">ShardingSphere 插件</h3> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0"><code>CosIdKeyGenerateAlgorithm</code>、<code>CosIdModShardingAlgorithm</code>、<code>CosIdIntervalShardingAlgorithm</code><span> </span>已合并至<span> </span><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fapache%2Fshardingsphere%2Fpull%2F14132">ShardingSphere</a><span> </span>官方，未来<span> </span><em><a href="https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FAhoo-Wang%2FCosId%2Ftree%2Fmain%2Fcosid-shardingsphere">cosid-shardingsphere</a></em><span> </span>模块的维护可能会以官方为主。</p> 
+</blockquote> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">Kotlin DSL</p> 
+</blockquote> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span>    <strong style="color:#cccccc"><span style="color:#d73a49"><span style="color:#d73a49">implementation</span></span></strong><span style="color:#eeeeee">(</span><span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">"me.ahoo.cosid:cosid-shardingsphere:$&#123;cosidVersion&#125;"</span></span></span><span style="color:#eeeeee">)</span></span>
+</pre> 
+ </div> 
+</div> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">CosIdKeyGenerateAlgorithm (分布式主键)</h4> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span><span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">spring</span></span></span><span>:</span></span>
+<span>  <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">shardingsphere</span></span></span><span>:</span></span>
+<span>    <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">rules</span></span></span><span>:</span></span>
+<span>      <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">sharding</span></span></span><span>:</span></span>
+<span>        <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">key-generators</span></span></span><span>:</span></span>
+<span>          <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">cosid</span></span></span><span>:</span></span>
+<span>            <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">type</span></span></span><span>:</span> <span style="background-color:transparent; color:#00aadd">COSID</span></span>
+<span>            <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">props</span></span></span><span>:</span></span>
+<span>              <span style="color:#008080"><span style="color:#005cc5"><span style="color:#005cc5">id-name</span></span></span><span>:</span> <span style="background-color:transparent; color:#00aadd">__share__</span></span>
+</pre> 
+ </div> 
+</div> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">基于间隔的时间范围分片算法</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="CosId Interval Sharding Algorithm" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/CosIdIntervalShardingAlgorithm.png" referrerpolicy="no-referrer"></p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>易用性：支持多种数据类型 (<code>Long</code>/<code>LocalDateTime</code>/<code>DATE</code>/<span> </span><code>String</code><span> </span>/<span> </span><code>SnowflakeId</code>)，而官方实现是先转换成字符串再转换成<span> </span><code>LocalDateTime</code>，转换成功率受时间格式化字符影响。</li> 
+ <li>性能：相比于<span> </span><code>org.apache.shardingsphere.sharding.algorithm.sharding.datetime.IntervalShardingAlgorithm</code><span> </span>性能高出<span> </span><em>1200~4000</em><span> </span>倍。</li> 
+</ul> 
+<table cellspacing="0" style="-webkit-text-stroke-width:0px; background-color:#ffffff; border-collapse:collapse; border-spacing:0px; border:none; box-sizing:border-box; color:#40485b; display:block; font-family:-apple-system,"system-ui","Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Liberation Sans","PingFang SC","Microsoft YaHei","Hiragino Sans GB","Wenquanyi Micro Hei","WenQuanYi Zen Hei","ST Heiti",SimHei,SimSun,"WenQuanYi Zen Hei Sharp",sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:inherit; margin:0px 0px 16px; max-width:100%; orphans:2; overflow:auto; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; white-space:normal; widows:2; word-break:initial; word-spacing:0px"> 
+ <thead> 
+  <tr> 
+   <th><strong>PreciseShardingValue</strong></th> 
+   <th><strong>RangeShardingValue</strong></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px"><img alt="Throughput Of IntervalShardingAlgorithm - PreciseShardingValue" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/sharding/Throughput-Of-IntervalShardingAlgorithm-PreciseShardingValue.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px"><img alt="Throughput Of IntervalShardingAlgorithm - RangeShardingValue" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/sharding/Throughput-Of-IntervalShardingAlgorithm-RangeShardingValue.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+ </tbody> 
+</table> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>CosIdIntervalShardingAlgorithm 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>type: COSID_INTERVAL</li> 
+  </ul> </li> 
+ <li>SnowflakeIntervalShardingAlgorithm 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>type: COSID_INTERVAL_SNOWFLAKE</li> 
+  </ul> </li> 
+</ul> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span><span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">spring</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>  <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">shardingsphere</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>    <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">rules</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>      <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">sharding</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>        <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">sharding-algorithms</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>          <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">alg-name</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>            <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">type</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">COSID_INTERVAL_&#123;type_suffix&#125;</span></span></span></span>
+<span>            <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">props</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">logic-name-prefix</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">logic-name-prefix</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">id-name</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">cosid-name</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">datetime-lower</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span><span>2021</span></span><span><span>-12</span></span><span><span>-08</span></span> <span><span>22</span></span><span style="color:#032f62"><span style="color:#032f62">:00:00</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">datetime-upper</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span><span>2022</span></span><span><span>-12</span></span><span><span>-01</span></span> <span><span>00</span></span><span style="color:#032f62"><span style="color:#032f62">:00:00</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">sharding-suffix-pattern</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">yyyyMM</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">datetime-interval-unit</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">MONTHS</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">datetime-interval-amount</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <strong style="color:#0000dd"><span><span>1</span></span></strong></span>
+</pre> 
+ </div> 
+</div> 
+<h4 style="margin-left:0; margin-right:0; text-align:left">取模分片算法</h4> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="CosIdModShardingAlgorithm" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/design/CosIdModShardingAlgorithm.png" referrerpolicy="no-referrer"></p> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>性能：相比于<span> </span><code>org.apache.shardingsphere.sharding.algorithm.sharding.mod.ModShardingAlgorithm</code><span> </span>性能高出<span> </span><em>1200~4000</em><span> </span>倍。并且稳定性更高，不会出现严重的性能退化。</li> 
+</ul> 
+<table cellspacing="0" style="-webkit-text-stroke-width:0px; background-color:#ffffff; border-collapse:collapse; border-spacing:0px; border:none; box-sizing:border-box; color:#40485b; display:block; font-family:-apple-system,"system-ui","Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Liberation Sans","PingFang SC","Microsoft YaHei","Hiragino Sans GB","Wenquanyi Micro Hei","WenQuanYi Zen Hei","ST Heiti",SimHei,SimSun,"WenQuanYi Zen Hei Sharp",sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:inherit; margin:0px 0px 16px; max-width:100%; orphans:2; overflow:auto; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; white-space:normal; widows:2; word-break:initial; word-spacing:0px"> 
+ <thead> 
+  <tr> 
+   <th><strong>PreciseShardingValue</strong></th> 
+   <th><strong>RangeShardingValue</strong></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px"><img alt="Throughput Of ModShardingAlgorithm - PreciseShardingValue" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/sharding/Throughput-Of-ModShardingAlgorithm-PreciseShardingValue.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dfe2e5; border-style:solid; border-width:1px"><img alt="Throughput Of ModShardingAlgorithm - RangeShardingValue" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/sharding/Throughput-Of-ModShardingAlgorithm-RangeShardingValue.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+ </tbody> 
+</table> 
+<div style="text-align:left"> 
+ <div> 
+  <pre style="margin-left:0; margin-right:0"><span><span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">spring</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>  <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">shardingsphere</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>    <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">rules</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>      <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">sharding</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>        <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">sharding-algorithms</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>          <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">alg-name</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>            <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">type</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">COSID_MOD</span></span></span></span>
+<span>            <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">props</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">mod</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <strong style="color:#0000dd"><span><span>4</span></span></strong></span>
+<span>              <span style="color:#008080"><span style="color:#6f42c1"><span style="color:#6f42c1">logic-name-prefix</span></span></span><span><span style="color:#6f42c1"><span style="color:#6f42c1">:</span></span></span> <span style="background-color:transparent; color:#00aadd"><span style="color:#032f62"><span style="color:#032f62">t_table_</span></span></span></span>
+</pre> 
+ </div> 
+</div> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">性能测试报告</h2> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">SegmentChainId - 吞吐量 (ops/s)</h3> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Throughput-Of-SegmentChainId" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/Throughput-Of-SegmentChainId.png" referrerpolicy="no-referrer"></p> 
+<h3 style="margin-left:0; margin-right:0; text-align:left">SegmentChainId - 每次操作耗时的百分位数 (us/op)</h3> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0"><a href="https://gitee.com/link?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E7%2599%25BE%25E5%2588%2586%25E4%25BD%258D%25E6%2595%25B0">百分位数</a><span> </span>，统计学术语，若将一组数据从小到大排序，并计算相应的累计百分点，则某百分点所对应数据的值，就称为这百分点的百分位数，以 Pk 表示第 k 百分位数。百分位数是用来比较个体在群体中的相对地位量数。</p> 
+</blockquote> 
+<p style="color:#40485b; margin-left:0; margin-right:0; text-align:center"><img alt="Percentile-Sample-Of-SegmentChainId" src="https://gitee.com/AhooWang/CosId/raw/main/document/docs/.vuepress/public/assets/perf/Percentile-Sample-Of-SegmentChainId.png" referrerpolicy="no-referrer"></p> 
+<p> </p>
+                                        </div>
+                                      
+</div>
+            
