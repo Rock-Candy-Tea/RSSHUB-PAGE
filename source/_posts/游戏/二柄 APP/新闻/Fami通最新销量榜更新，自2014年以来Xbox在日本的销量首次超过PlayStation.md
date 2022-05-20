@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/05/20/1508331016.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-05-20 07:09:28
+date: 2022-05-20 08:12:55
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/05/20/1508331016.jpg'
 ---
 
@@ -34,6 +34,6 @@ PS5数字版 ：453台（累计235710台）
 Xbox Series X：105台（累计99469台）
 Xbox Series S：6120台（累计105408台）
 PS4：22台（累计7819548台）
-New 2DSLL：235台（累计1185959台）<br><img src="https://erbingeditor.diershoubing.com/6/2022/05/20/1508331016.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202205192226390902html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202205192226424141html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202205192226466549html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202205192226476149html_img.blob" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/202205192226477792html_img.blob" referrerpolicy="no-referrer">  
+New 2DSLL：235台（累计1185959台）<br><img src="https://erbingeditor.diershoubing.com/6/2022/05/20/1508331016.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/05/20/1511475991.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/05/20/1511474214.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/05/20/1511479753.jpg" referrerpolicy="no-referrer">  
 </div>
             

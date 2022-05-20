@@ -1,0 +1,18 @@
+
+---
+title: '博弈（更新至 Tame Game）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202205/19/fe874c1c38dcd71604b28023cfe500f9221010.jpg'
+author: 猫耳 FM
+comments: false
+date: Fri, 20 May 2022 07:52:33 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202205/19/fe874c1c38dcd71604b28023cfe500f9221010.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202205/19/fe874c1c38dcd71604b28023cfe500f9221010.jpg" referrerpolicy="no-referrer"><br><p>“小时候那么护着我，不会就是为了长大了?我吧”</p><p>“是啊，替你挨了那么多打，也该还回来了”</p><p><br></p><p>只只原著，耳听时光制作组出品，现代广播剧《博弈》上期</p><p><br></p><p>制作组</p><p>策导：甜宝</p><p>原作：橙汁</p><p>编后：啊啾阿宁</p><p>画师：羊屁Y</p><p>题字：由吾七十</p><p><br></p><p>配音组</p><p>刑厌：獊貅</p><p>刑路：酒嗔</p><p>周森：沛之儿</p><p>班主任：张三</p><p>林诺：昱阳</p><p>女下属：茗以</p><p>小弟：言名海</p><p>同学1：良良木</p><p>同学2：覆卿辞</p><p><br></p><p>ED：《Tame Game》</p><p>歌策/英文填词：布丁</p><p>原曲：《Heaven》</p><p>原唱：Julia Michaels</p><p>翻唱：遥昇</p><p>后期：正直团</p><p>海报：遥之之之</p><p><br></p>  
+</div>
+            
