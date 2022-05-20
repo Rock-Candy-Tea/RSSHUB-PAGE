@@ -1,0 +1,19 @@
+
+---
+title: '海信 Micro LED 一体机正式发布：国内首款可量产且采用真正 Micro LED 芯片'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/2d12ada3-adf7-4e14-af9f-5afd4bbab683.jpeg'
+author: IT 之家
+comments: false
+date: Fri, 20 May 2022 10:08:37 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/2d12ada3-adf7-4e14-af9f-5afd4bbab683.jpeg'
+---
+
+<div>   
+<p data-vmark="7f7a">5 月 20 日，主题为“大视界 大智慧”的海信商用显示 2022 新品发布会举行，通过线上直播，面向全球发布海信旗舰款 Micro LED 一体机、专业款 2K 一体机和星图系列 COB 小间距模组三个新品。50 多年来，海信一直贯彻“技术立企”的战略理念，始终以显示和图像处理技术为核心，在显示产业生态链纵深布局，积极拥抱信息化和智能化的浪潮，打通了从底层技术、终端设备、场景应用、云端支撑到内容服务的全产业链条。</p><p data-vmark="4180"><strong>国内首款可量产且采用真正 Micro LED 芯片</strong></p><p data-vmark="2681">众所周知，Micro LED 是最近几年 LED 行业新的增长动力，是目前最大的风口。行业公认的 Micro LED 是 LCD 液晶、OLED 之后的主流显示技术，根据第三方的预测，未来 Micro LED 全球市场将快速增长，2027 年将超过 105 亿美元，年复合增长率达 126%，市场前景广阔。而随着 5G+8K 超高清推广和普及，小间距之后，微间距时代必然到来，未来成长非常可观。</p><p style="text-align: center;" data-vmark="1c17"><img src="https://img.ithome.com/newsuploadfiles/2022/5/2d12ada3-adf7-4e14-af9f-5afd4bbab683.jpeg" w="1265" h="639" alt="WechatIMG328" title="海信 Micro LED 一体机正式发布：国内首款可量产且采用真正 Micro LED 芯片" width="1265" height="414" referrerpolicy="no-referrer"></p><p data-vmark="bc7b">海信 Micro LED 一体机具有“沉浸式的深黑显示”优势，采用了比头发丝还精细的小于 75μm Micro LED 发光芯片，芯片周边全部采用精密喷涂的深黑密封技术，高达 98% 的黑色表面占比，可呈现沉浸式的纯黑显示效果，实现高达百万比一的对比度。即使是熄屏状态下，也是一面墨玉般深邃大气的装饰品。同时，它采用行业独有的双重混 Bin 技术，在 LED 封装和固晶前后两个环节进行两次不同的 LED 混 Bin，确保不同灯板之间 LED 的颜色一致；加持海信独有的广播级色彩还原技术，以及逐台的图像校正，能为用户呈现出色彩更加纯净自然的真实视界。</p><p data-vmark="12eb">在打造旗舰画质的同时，海信的 Micro LED 一体机具有“节能冷屏”的优势。整体系统功耗较同类产品降低超过 30%。如果以一天工作 12h 算，一年可节省超过 4000 度电，符合当下碳中和的国家战略。同时长时间工作屏体表面温升小于 15℃，在屏前面几乎不会感受到热辐射，真正的舒适冷屏体验，解决了室内普通大屏对周围环境热辐射过高的尴尬。</p><p style="text-align: center;" data-vmark="eda0"><img src="https://img.ithome.com/newsuploadfiles/2022/5/e27ed951-b778-4a0d-95a3-fe51c3f20043.png" w="1268" h="415" alt="WechatIMG1497" title="海信 Micro LED 一体机正式发布：国内首款可量产且采用真正 Micro LED 芯片" width="1268" height="268" referrerpolicy="no-referrer"></p><p data-vmark="459c"><strong>行业首创 SOC+ASIC 系统方案 —— 星图 COB 产品</strong></p><p data-vmark="0423">海信的全新 SOC+ASIC 系统方案，跟传统的 FPGA 系统方案相比，取消了接收卡和发送卡，对于一个 4K 模块来说，只需要一根 HDMI 线即可，给客户节省了大量空间。信号链路简单，可靠性更高。更重要的是，从传统的网线带宽 20M，升级到 ELVDS 传输高达 350M 的带宽，让海信的产品具备了智能化的可能。</p><p data-vmark="f636">类似 monitor 显示器、新能源汽车等行业，LED 屏的未来，也必须向智能化发展，具备智能化才有更广阔的市场前景，这是存量市场竞争的必然选择。可是传统的 FPGA 系统方案开发周期长、灵活度低、集成度差、成本高，很难实现智能化。依赖网线传输，只有 20M 的带宽，就像一个单向一车道的马路，传输图像数据就已经把马路挤满了。所以传统的方式就很难实现智能化。而海信的 SOC+ASIC 方案，开发出了 ELVDS 高速链路，带宽高达 350M，就是双向八车道的马路，具备了前后端数据交互、AI 深度学习的基础。</p><p data-vmark="5eb6">基于这套平台，海信的 COB 小间距具备了如下四大优势：更清晰、更可靠、更节能和更智能。</p><p style="text-align: center;" data-vmark="0c57"><img src="https://img.ithome.com/newsuploadfiles/2022/5/d0049c9c-3c02-4375-b851-6992acc54dd4.png" w="1268" h="418" alt="WechatIMG1499" title="海信 Micro LED 一体机正式发布：国内首款可量产且采用真正 Micro LED 芯片" width="1268" height="270" referrerpolicy="no-referrer"></p><p data-vmark="4e56"><strong>VISION ONE 专业款 P 系列 LED 一体机</strong></p><p data-vmark="2671">新一代海信小间距 LED 一体机在出色的显示效果、高效的协同办公及共阴节能设计的基础上，紧扣客户需求，对产品形态进行了音质、系统、外观三项全面升级。</p><p data-vmark="7b5e">海信小间距 LED 一体机首先从音质上进行创新，搭载 Dolby&DTS 音效双解码，给您身临其境的立体环绕音效，再加上 60W 大功率音响的加持，使得低音更震撼，高音更明亮，全方位打造影院级的震撼音效。在系统方面，新一代产品搭载海信自主研发全场景会议解决方案，操作便捷，快速上手。外观上，28mm 超薄机身，搭配简洁稳重的金属前饰和星云框架，视觉感受更震撼。</p><p style="text-align: center;" data-vmark="3a7d"><img src="https://img.ithome.com/newsuploadfiles/2022/5/cda20afe-50a8-4625-8d87-c22adaa04eed.png" w="1268" h="416" alt="WechatIMG1498" title="海信 Micro LED 一体机正式发布：国内首款可量产且采用真正 Micro LED 芯片" width="1268" height="269" referrerpolicy="no-referrer"></p><p data-vmark="ab94">面向指挥中心、安防监控、会议室、展览展示、广电演播室等应用场景，海信已经拥有了完整的 LED 产品线，旗下产品包括 Micro LED 一体机、小间距 LED 一体机、COB 小间距、LED 模组等。海信凭借出色的显示、优异的图像处理技术和稳定可靠的产品赢得了客户的认可，目前已在青岛司法局、长沙公安局、重庆南岸公安局、菏泽学院、崂山二中、齐鲁医院、德州欢乐谷、上海虹桥高铁站等场所打造了多个成功案例。</p>
+          
+</div>
+            

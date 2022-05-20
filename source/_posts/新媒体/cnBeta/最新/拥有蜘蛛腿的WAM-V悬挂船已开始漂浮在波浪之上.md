@@ -1,0 +1,19 @@
+
+---
+title: '拥有蜘蛛腿的WAM-V悬挂船已开始漂浮在波浪之上'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/05/1195b2fe2b3feaf.webp'
+author: cnBeta
+comments: false
+date: Fri, 20 May 2022 10:13:59 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/05/1195b2fe2b3feaf.webp'
+---
+
+<div>   
+加利福尼亚的Marine Advanced Robotics近日在其卓越的波浪适应性模块船(WAM-V)上取得了相当大的进展。据悉，巨大的100英尺Proteus为该公司现在正在制造的更小、更智能的机器奠定了基础。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/1195b2fe2b3feaf.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/1195b2fe2b3feaf.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">WAM-V是一种超轻的双体船，船体安装在巧妙的悬挂腿上，利用弹簧、减震器和球形关节随波逐流，并帮助稳定它们的俯仰和滚动从而使这些船适用于其他相同大小的船只根本无法操作的海况。由于螺旋桨始终在水中，所以它们具有高度的可操作性且几乎能在自己的脚下旋转360度。</p><p style="text-align: left;">这是波浪适应性的部分，它们同时还是模块化的，并有快速连接接口进而使操作人员能快速更换推进系统、有效载荷和传感器/仪器包以完成不同的任务。另外，它们还是可运输的，为快速组装和拆卸而建造，并且它们可以分解得非常小，四个16英尺的WAM-V可以装在一个标准的运输集装箱中。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/fd36a95e82f9b74.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/fd36a95e82f9b74.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">如果它们足够大，WAM-Vs可以运行一个载人舱。或它们可以自主运行，或通过远程控制。Marine Advanced Robotics现在已经制造并交付了各种尺寸的产品，从气势恢宏的100英尺的Proteus到小巧的自主8英尺船，由于这种设计的超浅吃水，它们身子可以在6英寸的水中运行。</p><p style="text-align: left;">即使不拆解它们，它们也能将其顶部平台降至跟水面持平，从而可以轻松地在空中改变有效载荷或让人们跳上船。如果需要的话，它们还可以将腿折叠起来，从而使自己从一侧到另一侧更加紧凑。另外，它们可以根据手头任务的性质选择使用内燃机或电动马达运行。</p><p style="text-align: left;">所有这些使得这些东西成为研究、测绘、测量、资产检查、国防和机器人研究领域各种应用的绝佳平台。自2014年以来，WAM-V一直是Maritime RobotX挑战赛使用的平台。这是一个专注于合作自主的国际学生机器人竞赛，参赛队伍在竞赛中对他们的船进行编程从而完成一系列不同的任务，如根据视觉提示进行导航、模拟搜索和救援行动、无人机支持、在指定的海湾自我停靠等等。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/a3f134bd545c2ed.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/a3f134bd545c2ed.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Marine Advanced Robotics以8英尺、16英尺和22英尺（2.4米、4.8米、6.7米）的尺寸现成销售，不过也提供定制更大的船的选项。但该公司也将它们作为一项服务出租，无论是单独还是在船队。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=350079256&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/bd3c1c26c39d52b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/bd3c1c26c39d52b.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/faff4f044e6a1ba.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/faff4f044e6a1ba.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/3b68c1329c44d28.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/3b68c1329c44d28.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/5395ad4487d2c04.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/5395ad4487d2c04.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/09ac91d4629f3a9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/09ac91d4629f3a9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/05/a1c04ae0679ab3d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/a1c04ae0679ab3d.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
