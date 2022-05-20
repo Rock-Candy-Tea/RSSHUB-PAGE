@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/38c00e0ee0f46f8af4937fd9b01ged25.PNG?v=1653044386609'
 author: 巴哈姆特
 comments: false
-date: 2022-05-20 11:08:45
+date: 2022-05-20 12:17:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/38c00e0ee0f46f8af4937fd9b01ged25.PNG?v=1653044386609'
 ---
 
@@ -67,6 +67,12 @@ Bay</figure>
 </div>
 </div>
 <div>
+<div>
+<div>
+　　PSG 輔助 Kaiwing 在賽後訪問時表示，他們面對越南 SGB 下路雙人線，打得比較小心一點；那這場比賽中期遇上亂流，差點被翻，還好有穩住回來。他希望今天最後一場要面對強敵 T1 時能打出精彩比賽，不要一面倒。</div>
+<div>
+ </div>
+</div>
 <div>
 　　六強對抗賽首日賽程還在進行中， 接下來將由目前都取得一勝的 G2 與 RNG 對決，接著 SGB 將對上 EG，而 PSG 預定 9 時將對上強敵 T1。</div>
 <div>

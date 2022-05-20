@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14532/crimsonvow_axisstudios_024.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-05-20 11:08:28
+date: 2022-05-20 12:16:55
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14532/crimsonvow_axisstudios_024.-full.png'
 ---
 
@@ -50,7 +50,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14532/crimsonvow_axis
                                 </span>
                             </span>
                             <span class="listing-details semni">
-                                    Alvaro Montenegro:
+                                    <a href="https://axisstudiosgroup.com/people/alvaro-montenegro/">Alvaro Montenegro</a>: 
                                 <span class="detail">
                                         Producer
                                 </span>
