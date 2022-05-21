@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6219'
+headimg: 'https://picsum.photos/400/300?random=3385'
 author: 知乎
 comments: false
-date: Sat, 21 May 2022 06:50:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6219'
+date: Sat, 21 May 2022 09:39:21 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3385'
 ---
 
 <div>   
-Playhood的回答<br><br><p data-pid="pldWMHmD">没有什么帮助</p><p data-pid="D4xZ6pij">国外已经按照毒性减弱的办法处理了。</p><p data-pid="IEgRNSWn">国内也定了性坚决动态清零了，对一切质疑要坚决斗争。政策制定和病毒毒性没有相关性。</p>  
+盛京剑客的回答<br><br><p data-pid="B1j6d5iY">境外势力又要动摇我们动态清零不动摇的决心了。</p><p data-pid="bDI2PJCc">必须与这些狗东西斗争到底！！！</p>  
 </div>
             
