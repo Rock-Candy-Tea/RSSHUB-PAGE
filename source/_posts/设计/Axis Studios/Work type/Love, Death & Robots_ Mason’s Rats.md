@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_1_final.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2022-05-20 15:10:30
+date: 2022-05-21 00:40:20
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_1_final.-full.jpg'
 ---
 
@@ -74,7 +74,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
                             <a class="toggle collapsed" data-toggle="collapse" href="https://axisstudiosgroup.com/work/love-death-robots-vol-3/#fullCreditDetails" role="button" aria-expanded="false" aria-controls="fullCreditDetails">Full credits </a>
                         </h3>
                         
-                            Lucie Parola, Adam Lindsey, Ahmed Nasri, Alberto Garcia, Alejandro Delgado Rubianes, Alejandro More, Alex Stratulat, Altug Yilmazer, Alvaro Zabala de Lope, Amy Ash, Amz Rattan, Andrew Clunes, Angus Dunn, Baptiste Jaquemet, Bartlomiej Gawel, Bojin Shi, Bram Sels, Brenainn Jordan, Camille Fourniols, Chloe Campbell, Chris Livesey, Cyriel Verkuijlen, Darren Paul, David Lewander, Didac Ruiz, Dmitry Kremiansky, Duncan Formosa, Emanuel Strixner, Eric Paquet, Fraser Littlejohn, Georg-Sebastian Dressler, Hamish Mitchell, Hudson Martins Ribeiro, Huy Ho, Jakub Javora, James Hodgart, James W Cain, Javier Sanz, John Barclay, Jonas Bergholm Larsson, Josan Grimaldo Gómez, Jose Vicente de Maria Martinez, Joseph Nickson, Justin Dolan, Katarzyna Olszewska, Lara Cores, Laura MacMahon, Liam Corrie, Louise McGregor, Luke Smith, Maeve Eydmann, Mariam Hamed, Mario Aquaro, Markus Hadinger, Meghan Hamilton, Mike McCain, Nicolas Cevrero, Nicole Stockley, Pablo Conca Bosch, Peter Driscoll, Peter Mullan, Philipp Buschauer, Richard Wright, Rishab Chitroda, Ruaraidh Gillies, Ryan Federman, Ryan Hartmann, Scott Yorke, Sergey Kolesov, Sofia Guix, Stephen King, Stephen Mulholland, Steven Buntin, Tamas Sarffi, Thomas Katsikoudis, Tom Nelson, Veronika Vajdova, Victoria Durand, William Liu, Yannic Kawan
+                            Lucie Parola, Adam Lindsey, Ahmed Nasri, Alberto Garcia, Alejandro Delgado Rubianes, Alejandro More, Alex Stratulat, Altug Yilmazer, Alvaro Zabala de Lope, Amy Ash, Amz Rattan, Andrew Clunes, Angus Dunn, Baptiste Jaquemet, Bartlomiej Gawel, Bojin Shi, Bram Sels, Brenainn Jordan, Camille Fourniols, Chloe Campbell, Chris Livesey, Cyriel Verkuijlen, Darren Paul, David Lewander, Didac Ruiz, Dmitry Kremiansky, Duncan Formosa, Emanuel Strixner, Eric Paquet, Fraser Littlejohn, Georg-Sebastian Dressler, Hamish Mitchell, Hudson Martins Ribeiro, Huy Ho, Jakub Javora, James Hodgart, James W Cain, Javier Sanz, John Barclay, Jonas Bergholm Larsson, Josan Grimaldo Gómez, Jose Vicente de Maria Martinez, Joseph Nickson, Justin Dolan, Katarzyna Olszewska, Lara Cores, Laura MacMahon, Liam Corrie, Louise McGregor, Luke Smith, Maeve Eydmann, Mariam Hamed, Mario Aquaro, Markus Hadinger, Meghan Hamilton, Mike McCain, Nicolas Cevrero, Nicole Stockley, Pablo Conca Bosch, Peter Driscoll, Peter Mullan, Philipp Buschauer, Richard Wright, Rishab Chitroda, Ruaraidh Gillies, Ryan Federman, Ryan Hartmann, Scott Yorke, Sergey Kolesov, Sofia Guix, Stephen King, Stephen Mulholland, Steven Buntin, Tamas Sarffi, Thomas Katsikoudis, Tom Beattie, Tom Nelson, Veronika Vajdova, Victoria Durand, William Liu, Yannic Kawan
                         
                     
                 

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/44/874a231e4ba5c71dc7a84d13cb1gej45.JPG?v=1653055650367'
 author: 巴哈姆特
 comments: false
-date: 2022-05-20 15:10:48
+date: 2022-05-21 00:40:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/874a231e4ba5c71dc7a84d13cb1gej45.JPG?v=1653055650367'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/874a231e4ba5c71dc7a84d13cb1gej45.
 <figcaption style="padding-bottom: 70.48%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/d388fad5723b5fe514f4394a8a1gej55.JPG?v=1653055650367" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/d388fad5723b5fe514f4394a8a1gej55.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/d388fad5723b5fe514f4394a8a1gej55.JPG 2x" style="max-width: unset;" title="G2 今日接連擊敗 T1 與 RNG，以二連勝戰績在首日居第一" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
-G2 今日接連擊敗 T1 與 RNG，以二連勝戰績在首日居第一</figure>
+G2 今日接連擊敗 T1 與 RNG，以二連勝戰績在首日居第一（照片來源：Riot Games）</figure>
 </li>
 </ul>
 </div>
@@ -67,7 +67,7 @@ PSG</figure>
  </div>
 <div>
 <div>
-　　KERIA 在賽後採訪先以中文向玩家問候，他提到今天輸給 G2，有點可惜，後來能贏下一場比賽非常開心。他覺得這個版本很適合拿出很多輔助選擇，要看對方與自己的陣容來決定拿出什麼英雄；對於 T1 ADC Gumayusi 的狀態，他表示不管自己或他都會有失誤，他不會太擔心的狀況，他覺得 Gumayusi 是可以自我消化處理的選手，賽後檢討都有在進行，會知道彼此怎麼做。</div>
+　　KERIA 在賽後採訪先以中文向玩家問候，他提到今天輸給 G2，有點可惜，後來能贏下一場比賽非常開心。他覺得這個版本很適合拿出很多輔助選擇，要看對方與自己的陣容來決定拿出什麼英雄；對於 T1 ADC Gumayusi 的狀態，他表示不管自己或他都會有失誤，他不會太擔心 Gumayusi 的狀況，他覺得 Gumayusi 是可以自我消化處理的選手，賽後檢討都有在進行，會知道彼此怎麼做。</div>
 <div>
  </div>
 <div>
