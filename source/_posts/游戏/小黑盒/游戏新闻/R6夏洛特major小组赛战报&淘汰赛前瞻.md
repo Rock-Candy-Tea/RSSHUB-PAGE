@@ -1,0 +1,18 @@
+
+---
+title: 'R6夏洛特major小组赛战报&淘汰赛前瞻'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/05/19/f092fcd380d3ef30203439f8daca0461/thumb.png'
+author: 小黑盒
+comments: false
+date: Sat, 21 May 2022 09:02:47 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/05/19/f092fcd380d3ef30203439f8daca0461/thumb.png'
+---
+
+<div>   
+<p>历时3天的小组赛目前告一段落，下面是各组积分和详细比分。</p><p><img class="lazy" data-height="274" src="https://imgheybox.max-c.com/bbs/2022/05/19/f092fcd380d3ef30203439f8daca0461/thumb.png" data-width="947" referrerpolicy="no-referrer"></p><p>A组：随着亚太第一阶段冠军Elevate因签证问题的遗憾退赛，Oxygen的小组第一名没有任何阻力，4场干净利落的胜利，小场分13分，Nuers更是拿到3次MVP并列小组赛第一。而在赛前收到很多关注的Dire Wolves只拿下了一场加时胜利而遗憾结束本次major。</p><p><img class="lazy" data-height="273" src="https://imgheybox.max-c.com/bbs/2022/05/19/cfa3bbf06961a56cb70e9d647f05b098/thumb.png" data-width="1023" referrerpolicy="no-referrer"></p><p>B组：这一组也是满满的看点。老牌强队Team Liquid在第一阶段冠军的加持下拿到小组第一，感觉全队状态都很不错，不过来自北美第一阶段第4名的XSET只因小场分不够而位居第二，DiasLucasBr拿到2次MVP并列小组赛第二。拉美第一阶段第3名FURIA和日本强队CAG遗憾出局。</p><p><img class="lazy" data-height="274" src="https://imgheybox.max-c.com/bbs/2022/05/19/db64a2d0fa2df82535c5d6520fc198dd/thumb.png" data-width="1023" referrerpolicy="no-referrer"></p><p>C组：赛前普遍认为的死亡之组，没想到欧洲第一Heroic也太拉了，来之前暴打G2来了major被G2暴打。北美老牌强队DarkZero则出乎意料的拿到了小组第一，njr和Panbazou都是2次MVP并列小组赛第二。G2的状态还是起起伏伏，2场7-3Heroic但也能2次输给拉美第一阶段第二的w7m，还是要看接下来的磨合。</p><p><img class="lazy" data-height="274" src="https://imgheybox.max-c.com/bbs/2022/05/19/cecd16e7ea55fbba27bcbd3579e174e9/thumb.png" data-width="1022" referrerpolicy="no-referrer"></p><p>D组：本组的竞争并没有我想象中的那么激烈，北美第一阶段冠军的Astralis拿到第一，而欧洲劲旅BDS因为小场分只差2分屈居第二。A队的iconic和BDS的Shaiiko都拿到3次MVP并列小组赛第一。改名后的Wolves（LFO）成绩并不算太好，只能欺负一下最后一只亚太队伍Chiefs了，后者在小组赛中一场未胜。</p><p><img class="lazy" data-height="808" src="https://imgheybox.max-c.com/bbs/2022/05/19/ea164472d9461069d492eab14f434033/thumb.png" data-width="734" referrerpolicy="no-referrer"></p><h4 class="img-desc">小组赛总积分</h4><p>小组赛总积分方面，北美和欧洲展现出出色的实力包揽前四，D组双雄更是包揽前二。2支拉美战队紧随其后。</p><p><img class="lazy" data-height="430" src="https://imgheybox.max-c.com/bbs/2022/05/19/dedd3b25fb30f00daedac0f139e5b83c/thumb.png" data-width="748" referrerpolicy="no-referrer"></p><h4 class="img-desc">淘汰赛对阵图</h4><p>TL对阵G2，我觉得最具看点的一场比赛提前上演了。两支传统强队的碰撞绝对会很精彩，不过鉴于G2目前的状态，笔者认为TL获胜的几率大一些。</p><p>DZ目前状态正好，感觉应该能赢下Team oNe。</p><p>A队和XSET，又是很难预测的一场比赛，这个真不好说我就不瞎猜了。</p><p>Oxygen对阵BDS，应该也是非常激烈的一场比赛。从感情上我更支持BDS，这次全队的状态都还不错，Elemzje和Renshiro各有1次MVP，尤其是枪男Shaiiko状态非常火热，小组赛第二日爆头率56%，总KD28/16。小组赛第三日更是单场22杀，总KD30/19。</p><p><img class="lazy" data-height="573" src="https://imgheybox.max-c.com/bbs/2022/05/19/356f09970f6182e4107aefc1b76d0e34/thumb.png" data-width="625" referrerpolicy="no-referrer"></p><h4 class="img-desc">干员BanPick情况</h4><p>进攻方方面，emp仍是居高不下，而Flores位列第二，Maverick和Hibana紧随其后。防守方方面，Mira和Kaid并列第一，女武神终于从第二的位置上下来了，同时可以看出Wamai的Ban率也很高。</p><p><img class="lazy" data-height="480" src="https://imgheybox.max-c.com/bbs/2022/05/19/bb4a7677cd8f07c07f242fa1be280fd6/thumb.png" data-width="945" referrerpolicy="no-referrer"></p><h4 class="img-desc">地图BanPick和胜率情况</h4><p>银行是被选取最多的地图达到8次，俱乐部和咖啡馆各有7次和6次。同时，摩天大楼的Ban率是最高的达到40次，看来大家都不愿意玩新加入的图。木屋，主题乐园和庄园并列39次。</p><p>防守方胜率高的日子应该快要结束了，9张地图中有4张进攻方胜率更高，摩天大楼更是达到惊人的59.1%，防守方胜率最高的是庄园达到恐怖的65.7%。</p><p><img class="lazy" data-height="673" src="https://imgheybox.max-c.com/bbs/2022/05/19/998ac13287ec5369ee529343ec4ee179/thumb.png" data-width="575" referrerpolicy="no-referrer"></p><h4 class="img-desc">淘汰赛赛程</h4><p>淘汰赛第一场：LiquidvsG2，北京时间5月20日22：00</p><p>淘汰赛第二场：DZvsoNe，北京时间5月21日1：00</p><p>淘汰赛第三场：OXGvsBDS，北京时间5月21日4：00</p><p>淘汰赛第四场：ASTvsXSET，北京时间5月21日7：00</p><p>希望大家多多点赞支持<a href="heybox://open_subject" target="_blank">#夏洛特major#</a>  ，谢谢大家！<a href="heybox://open_subject" target="_blank">#彩虹六号#</a> <br></p>  
+</div>
+            
