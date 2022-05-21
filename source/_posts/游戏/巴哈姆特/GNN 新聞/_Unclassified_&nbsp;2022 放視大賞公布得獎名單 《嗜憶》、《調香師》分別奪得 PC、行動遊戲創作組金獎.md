@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/03/034e35a2cbc30d9f3faa79d85a1geqb5.JPG?v=1653140229385'
 author: 巴哈姆特
 comments: false
-date: 2022-05-21 14:08:19
+date: 2022-05-21 15:09:53
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/034e35a2cbc30d9f3faa79d85a1geqb5.JPG?v=1653140229385'
 ---
 
@@ -50,14 +50,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/034e35a2cbc30d9f3faa79d85a1geqb5.
 <div>
  </div>
 <div>
-<div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/T4meJk9HUXE?wmode=transparent" width="100%"></iframe></div>
-</div>
+　　其中，獲得金獎的《嗜憶》是款第一人稱心理恐怖遊戲，為真人真事改編，描述一起發生在孤島上的懸案，背景參考二十世紀的英國，在荒蕪的孤島上似乎有人在密謀著什麼，玩家將扮演一位守塔人去揭曉故事真相。</div>
 <div>
  </div>
 <div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/c7rQzfs6dYs?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/T4meJk9HUXE?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
@@ -99,6 +97,18 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/034e35a2cbc30d9f3faa79d85a1geqb5.
 <li>
 優選：寧芙</li>
 </ul>
+<div>
+ </div>
+<div>
+　　其中，獲得金獎的《調香師》為一款 3D 劇情機關解謎遊戲。玩家將扮演擁有「視香能力」的調香師後裔－桃莉，在收到家中女傭來信後得知父母消聲匿跡，奔波回到家中只剩下一只機關，其中隱藏的秘密也隨著桃莉解開的密盒呼之欲出……</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/c7rQzfs6dYs?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
 <div>
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/IV6Ec26KobU?wmode=transparent" width="100%"></iframe></div>
