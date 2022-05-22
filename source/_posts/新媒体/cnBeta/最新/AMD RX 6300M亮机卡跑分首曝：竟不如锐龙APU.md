@@ -1,0 +1,19 @@
+
+---
+title: 'AMD RX 6300M亮机卡跑分首曝：竟不如锐龙APU'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0522/60e82da3183b7bd.png'
+author: cnBeta
+comments: false
+date: Sun, 22 May 2022 14:29:10 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0522/60e82da3183b7bd.png'
+---
+
+<div>   
+如果你对MX450这样的鸡肋显卡不屑一顾，其实还有更弱的，AMD年初就发布了一款RX 6300M，现在第一次出现在了跑分平台上。RX 6300基于Navi 24核心，<strong>只有12个执行单元、768个流处理器、8MB无限缓存，参考核心频率不过区区1512MHz，而且仅支持2GB GDDR6显存</strong>，唯一好处就是功耗特别低，最高不超过25W。<br>
+<p>这样的规格到底有多弱鸡呢？要知道，<strong>锐龙6000H/6000U系列集成的Radeon 680M，都有768个流处理器，而且频率高达2.4GHz</strong>，就是没有独立显存而已。</p><p><a href="https://img1.mydrivers.com/img/20220522/5f6fbe074c7d4e9ea4e2509d97c74c8d.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/60e82da3183b7bd.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/60e82da3183b7bd.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/60e82da3183b7bd.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220522/0422f8b5860e4f138fdf520ba7df3fce.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/8e6cf936290f0c1.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/8e6cf936290f0c1.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/8e6cf936290f0c1.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220522/940f96d9f48d474d86c1f4e1d57c70be.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/fa0a634b2835673.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/fa0a634b2835673.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/fa0a634b2835673.png" referrerpolicy="no-referrer"></a></p><p>GeekBench 5测试数据里有一台<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://mall.jd.com/index-1000000155.html" target="_blank">惠普</a>战66 Pro G9一体机，配备了i7-12700处理器、RX 6300M显卡，实测OpenCL跑分为30044、Vulkan跑分为24371。</p><p>这当然比Intel核显强不少，<strong>OpenCL成绩略超MX450 29000分，但是Vulkan成绩又略输MX450 24688分。</strong></p><p>如果对比RTX 3070，它要弱足足76.7％。</p><p>GeekBench跑分对于衡量显卡性能当然参考价值不大，但也不会太离谱。显然，RX 6300M又是那种“拔掉独显提升性能”的类型。</p><p><a href="https://img1.mydrivers.com/img/20220522/4fd149b7c96e45359ad4f58966b164a1.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0522/ad425ca046535e3.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220522/9b710599b7dd419682b7a118593ca7f6.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/453ba70d6c2910f.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/453ba70d6c2910f.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/453ba70d6c2910f.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220522/7156ce8eac754f28a9802f3563281a4f.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/f792e4717dd391b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/f792e4717dd391b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/f792e4717dd391b.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220522/fbe1cebe9d9340a696b1d2a1147e5126.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0522/88a11f4efcef792.png"><img data-original="https://static.cnbetacdn.com/article/2022/0522/88a11f4efcef792.png" src="https://static.cnbetacdn.com/thumb/article/2022/0522/88a11f4efcef792.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
