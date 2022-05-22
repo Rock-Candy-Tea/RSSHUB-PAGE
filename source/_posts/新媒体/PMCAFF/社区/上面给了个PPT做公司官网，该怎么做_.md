@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - PMCAFF
  - 社区
-headimg: 'https://picsum.photos/400/300?random=7966'
+headimg: 'https://picsum.photos/400/300?random=4624'
 author: PMCAFF
 comments: false
 date: Sun, 22 May 2022 17:18:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7966'
+thumbnail: 'https://picsum.photos/400/300?random=4624'
 ---
 
 <div>   
-这个思路应该是什么样的，PPT里就是一些标准而已，没有多余的东西，是要画个原型给到ui吗？  
+这个思路应该是什么样的，PPT里就是一些标准而已，没有多余的东西，是要画个原型给到ui吗？按我的理解不应该前端去写代码吗  ，怎么公司直接让我给 UI设计  
 </div>
             
