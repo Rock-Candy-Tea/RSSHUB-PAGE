@@ -5,11 +5,11 @@ categories:
  - 金融
  - 世界经济论坛
  - 报告
-headimg: 'https://picsum.photos/400/300?random=1424'
+headimg: 'https://picsum.photos/400/300?random=8919'
 author: 世界经济论坛
 comments: false
-date: 2022-05-22 08:12:28
-thumbnail: 'https://picsum.photos/400/300?random=1424'
+date: 2022-05-22 09:10:02
+thumbnail: 'https://picsum.photos/400/300?random=8919'
 ---
 
 <div>   
@@ -26,7 +26,7 @@ thumbnail: 'https://picsum.photos/400/300?random=1424'
 </div>
 <div class="st__content-block st__content-block--list">
     <ul>
-        <li><b>Agree on the destination:</b> Identify and agree on priority sectors or value chains in need of greater coherence and investment </li>
+        <li><b>Agree on the destination:</b> Identify and agree on priority sectors or value chains in need of greater coherence and investment</li>
         <li><b>Agree on how to get there and what the obstacles are:</b> Determine the risks and barriers, and identify policies, innovative solutions and financing mechanisms to move capital at scale</li>
         <li><b>Agree on “who and what” is needed:</b> Define and agree on the necessary actions to complete the formulation of an actionable SIP</li>
     </ul>
