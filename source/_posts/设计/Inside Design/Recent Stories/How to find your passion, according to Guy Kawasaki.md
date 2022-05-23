@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/how-to-find-your-passion-according-to-guy-kawasaki/'
 author: Inside Design
 comments: false
-date: 2022-05-23 03:49:16
+date: 2022-05-23 04:24:48
 thumbnail: 'https://www.invisionapp.com/inside-design/how-to-find-your-passion-according-to-guy-kawasaki/'
 ---
 
