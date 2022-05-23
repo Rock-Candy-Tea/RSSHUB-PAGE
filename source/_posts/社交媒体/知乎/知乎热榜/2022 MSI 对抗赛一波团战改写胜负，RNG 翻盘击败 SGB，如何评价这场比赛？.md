@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=452'
+headimg: 'https://pic1.zhimg.com/v2-7a9359479587c7ffe25bd75000831d43_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Mon, 23 May 2022 11:10:27 GMT
-thumbnail: 'https://picsum.photos/400/300?random=452'
+date: Mon, 23 May 2022 10:52:24 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-7a9359479587c7ffe25bd75000831d43_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-ky满级姜川页的回答<br><br><p data-pid="whHT1wbc">今天晚上真就【庄家之夜】呗？</p><p data-pid="ugD8qgrK">G2被PSG双杀、T1负于EG、再加上RNG最后一波团才翻盘成功（有的是可以半路加码的）。今天这一天庄家真的恰饱饱了。</p><p data-pid="lPyM4mvj">另外，除了输了的几支队伍，现场观众应该也麻了：先是G2被PSG双杀，可能大部分观众还挺开心；紧接着就是最支持的T1输给了EG；再接着最讨厌的RNG明明差一点就被SGB掀翻了，结果比赛后半段的掌声白拍了、提前开的香槟也白开了，愣挑逗现场观众30多分钟，最后告诉你：“不好意思，我们是正规场所。”别说【沉默】了，现场观众能哭出来我都信。</p><p data-pid="ARoUDs_6">SGB能倒数第一，对抗赛未尝一胜也是有道理的，RNG全场大部分时间都不拿西贡水牛当人看，打的就突出一个随意，总是想当然的觉得能随便打，不拿对面当人了接近30分钟的结果就是RNG自己被逼到了悬崖上，也得亏对面菜点了，要不上路上高地那一波，RNG就直接被一波了。</p><p data-pid="qhfqBJyv">但SGB只要有一波不拿RNG当人他们就没了，没办法，这就是弱队和强队之间的差距，明明最后直截了当的拿大龙就算了，远古龙那边一片漆黑，SGB凭什么觉得RNG会在那边老老实实的打龙不埋伏，结果就是输了团被一波。</p><p data-pid="Z-3ENq_V">接下来要打EG了，万一真再跟G2一样连败，小组第一再没了就好玩了。</p>  
+saralolita的回答<br><br><p data-pid="V0DeFX2X">今天是爆冷日，全是节目效果……</p><p data-pid="A4HzGIad">RNG险些落败被鱼杀，但SGB一胜难求是有道理的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-7a9359479587c7ffe25bd75000831d43_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="987" data-rawheight="546" data-default-watermark-src="https://pic1.zhimg.com/v2-1ff9469359e96fbf48b8864a2c22143a_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7a9359479587c7ffe25bd75000831d43_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="2uZsI-Mu">SGB在拿到大龙后给予不少机会，他们的纪律性和运营不够强，也小看了RNG的后期韧性。尤其瞎子前中期的Q很准，打出成效后就过于自信，连续死亡两次给了RNG翻盘的机会，尤其高地上那个Q让佛耶戈砍起来。其实SGB一直没有拉开经济差距，龙魂也是在RNG的手里。</p><p data-pid="JLyO7tAL">只能说外卡队伍就是这样，操作不算很差，游戏的思路也能玩，但滚雪球和终结比赛能力，就远不如主要赛区了。GAM在上周的东南亚运动会，打出了10-0的战绩，如果是GAM来打这场比赛的话，RNG可能有点悬，但SGB在越南赛区也是不会打后期的队伍，所以RNG还是有足够的发挥空间。</p><p data-pid="VNW96Ecb">RNG第二轮先抢泰坦可能会更好，GALA今天有点迷，小虎的手感也没有昨天好。但幸亏RNG的上野成功复健，在后期团战站出来了。RNG这把放阿狸，试图用薇古丝对抗，目前看起来成效一般。</p><p data-pid="bSyFtnBN">看到转播的现场画面，RNG成功气到釜山现场的韩国观众，想一想就很好笑。</p><p></p>  
 </div>
             
