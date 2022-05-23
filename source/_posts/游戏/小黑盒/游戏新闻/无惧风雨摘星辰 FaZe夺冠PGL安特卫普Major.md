@@ -1,0 +1,18 @@
+
+---
+title: '无惧风雨摘星辰 FaZe夺冠PGL安特卫普Major'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/05/22/e12e525d1c9f656cfa5e14084705c731/thumb.png'
+author: 小黑盒
+comments: false
+date: 2022-05-23 11:13:11
+thumbnail: 'https://imgheybox.max-c.com/web/2022/05/22/e12e525d1c9f656cfa5e14084705c731/thumb.png'
+---
+
+<div>   
+<blockquote><p>本文来源：5EPlay</p><p>作者：LAN_DOG</p></blockquote><p>战舰冲风起怒涛，踏破银河凌九霄。FaZe Clan站在PGL安特卫普Major决赛的舞台上，他们无惧风雨、一往无前，经历图一Inferno的加时大战后，他们在Nuke上稳扎稳打，最终捧得冠军奖杯！</p><p><img class="lazy" data-height="400" src="https://imgheybox.max-c.com/web/2022/05/22/e12e525d1c9f656cfa5e14084705c731/thumb.png" data-width="600" referrerpolicy="no-referrer"></p><p><b>FaZe 2-0 NaVi（Inferno 19-16；Nuke 16-10）</b></p><p><b>地图BP情况：</b></p><p><img class="lazy" data-height="447" src="https://imgheybox.max-c.com/web/2022/05/22/254dfb50129028b70f8f69e89f76cc03/thumb.png" data-width="638" referrerpolicy="no-referrer"></p><p><b>图一：Inferno</b></p><p>图一是Inferno，NaVi先做防守，手枪局双方稳得出奇，最终FaZe凭借拿下连接首杀得分。NaVi刚枪无果，FaZe先取3-0领先。第一个长枪局，FaZe默认后最后一波打B，s1mple虽然完成多杀但是FaZe的补枪质量非常高，不仅如此今日FaZe的枪也架得很死，完全不给对手机会。6-0后，NaVi叫出暂停但依旧不能解决问题，随着FaZe众人手感打开，在进入包点的路上他们已经无人可挡。终于，在第九回合s1mple起到大狙，配合electroNic的A1掩护他们成功拿到首分。有狙击枪的NaVi追回些局势。关键时刻FaZe半起局飞二楼，闪光效果出色，帮助他们半场10-5领先。</p><p><img class="lazy" data-height="270" src="https://imgheybox.max-c.com/web/2022/05/22/7b0b057f470b7f1fc81ff8a7059c2db0/thumb.png" data-width="480" referrerpolicy="no-referrer"></p><p>来到下半场，NaVi手枪局慢控图，但是FaZe的手枪不给你机会，一波ACE点燃了现场气氛。NaVi直接刚枪打B，收下残局之后下一分又凭借抱团摸连接拿分把FaZe打入ECO。来到长枪局，NaVi先拿首杀，Twistzz在连接双杀也给予回应，乱战之后是b1t和Twistzz的1v1，时间紧急的情况下b1t顶住压力打赢单挑帮助队伍继续追分。</p><p><img class="lazy" data-height="270" src="https://imgheybox.max-c.com/web/2022/05/22/8c8d7c44a7587a7c664b17dd9a2331dc/thumb.png" data-width="480" referrerpolicy="no-referrer"></p><p>FaZe这边也终于等到自己的狙击枪，ropz接住第一个人头后FaZe迅速完成人数互换重新拿分。来到关键局，NaVi集合一波打B，rain接住三人但Perfecto和b1t站了出来完成了残局追平比分。手感起来的b1t持续为NaVi带来关键击杀，打崩FaZe经济的他们率先拿到赛点，但是karrigan和ropz拒绝就这么输掉图一，一人一回合硬生生把FaZe抗进加时赛。</p><p><img class="lazy" data-height="270" src="https://imgheybox.max-c.com/web/2022/05/22/e70482ee13ac4d26a4810d6423869b90/thumb.png" data-width="480" referrerpolicy="no-referrer"></p><p>来到加时赛，karrigan继续发挥作用，FaZe防守2-1开。再次来到进攻，FaZe果断直接爆A，二楼karrigan找到关键击杀，FaZe收获赛点。最后的关键局，经典再现！20秒转点成功，ropz断掉最关键的人头，FaZe拿下图一！</p><p><img class="lazy" data-height="378" src="https://imgheybox.max-c.com/web/2022/05/22/6a6b8e8eccaf2f436792d7572019291d/thumb.png" data-width="640" referrerpolicy="no-referrer"></p><p><b>图二：Nuke</b></p><p>图二来到Nuke，FaZe先做防守方。手枪局rain再次发挥，打掉关键人头后FaZe获得首分。全ECO一局后NaVi起到步枪，electroNic在K1找到首杀为NaVi首开纪录。但强硬的内场防守和rain火热的状态把NaVi再次打入ECO。养好经济后NaVi连续提内场，不过rain的灵性混烟拒绝了NaVi的连续拿分，不仅如此，rain在外场控制上持续压制电子哥。8-2之后，NaVi叫出暂停可s1mple的英雄大狙被broky单防，FaZe持续扩大优势。NaVi在14回合通过提内场拿分，FaZe经济见底翻盘失败，半场10-5领先。</p><p><img class="lazy" data-height="270" src="https://imgheybox.max-c.com/web/2022/05/22/5aa7de639b22de96031bebda0d486d6e/thumb.png" data-width="480" referrerpolicy="no-referrer"></p><p>来到下半场，FaZe一路开下K1打赢了所有对枪，但是b1t的沙鹰发挥让局势再次扑朔迷离。ECO之后再次来到长枪局，rain单摸K1击杀Boombl4，FaZe迅速形成优势补枪循环拿下关键一分。NaVi这边加强内场防守追回些分数，紧接着FaZe又通过内场RUSH拿分，稳住局势的他们持续给到NaVi内场压力，在rain火热手感加持下FaZe来到14-10。</p><p><img class="lazy" data-height="270" src="https://imgheybox.max-c.com/web/2022/05/22/3f1b19e300e2e33293b098d8df9f2ff1/thumb.png" data-width="480" referrerpolicy="no-referrer"></p><p>NaVi选择刚枪，但开局就被ropz混死正门s1mple，稳健的FaZe四人抱团摸K1，合理、快速的补枪让他们成功拿到赛点。经济见底的NaVi只能继续强起，枪械劣势的情况下他们无力回天。<b>FaZe Clan，Our PGL Major Champion！</b></p><p><img class="lazy" data-height="377" src="https://imgheybox.max-c.com/web/2022/05/22/13cf75524977d441019815c19cdc2192/thumb.png" data-width="638" referrerpolicy="no-referrer"></p>  
+</div>
+            
