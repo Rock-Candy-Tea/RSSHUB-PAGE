@@ -1,0 +1,19 @@
+
+---
+title: '日本三菱K-Car_eK X EV_官图发布：续航180公里 售价约合人民币9.7万元'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0523/40c6f8e26c98028.png'
+author: cnBeta
+comments: false
+date: Mon, 23 May 2022 03:30:15 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0523/40c6f8e26c98028.png'
+---
+
+<div>   
+近日消息，三菱发布了一款名为“eK X EV”的纯电动K-Car，据悉，新车将会在日本市场推出，并将于2022年夏季海外上市，<strong>售价为1848000日元（约合人民币9.7万元左右）</strong>。该车与日产的Sakura互为姊妹车型，后者日前也已发布，感兴趣的朋友不妨跳转阅读。<br>
+<p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/40c6f8e26c98028.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/40c6f8e26c98028.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/40c6f8e26c98028.png" referrerpolicy="no-referrer"></a></p><p>外观来看，其使用了典型的三菱设计语言，有媒体称其为“被拍扁了的欧蓝德”，倒也十分贴切。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/e9bc214feb26f3b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/e9bc214feb26f3b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/e9bc214feb26f3b.png" referrerpolicy="no-referrer"></a></p><p>由于其与日产Sakura本质上就是同一款车，所以二者在车身尺寸、空间和造型方面大差不差，作为参考，<strong>日产Sakura长宽高为3395/1475/1655mm</strong>，比国内的宏光MINI EV大了一些。</p><p>三菱eK X EV采用了时下流行的分体式灯组，上方LED日行灯与镀铬装饰线连接，形成了贯穿式设计，而大灯则被放置在了两侧，展现出较为动感的设计。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/4b7ddd1ec163a0e.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/4b7ddd1ec163a0e.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/4b7ddd1ec163a0e.png" referrerpolicy="no-referrer"></a></p><p>侧面使用了撞色处理，其中外后视镜与悬浮式车顶颜色保持一致，而车门上扬的腰线则提升了其动感视觉效果，同时该车还用上了黑色轮眉、花瓣式双色轮圈，时尚感更强。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/f4116a1e0982ac2.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/f4116a1e0982ac2.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/f4116a1e0982ac2.png" referrerpolicy="no-referrer"></a></p><p>车尾造型相当方正，车顶上是大尺寸的扰流板，尾灯采用了纵向布局，下方为双色包围，层次感十足。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/234ac0a4e816453.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/234ac0a4e816453.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/234ac0a4e816453.png" referrerpolicy="no-referrer"></a></p><p>内饰设计也与日产Sakura保持一致，<strong>其配备有7英寸全液晶仪表盘、9英寸中控屏、多个储物空间及杯架</strong>，兼具了科技感和实用性。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/bc23566830fb005.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/bc23566830fb005.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/bc23566830fb005.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/8dc961b39fcc61f.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/8dc961b39fcc61f.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/8dc961b39fcc61f.png" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/6f682030d46d2ab.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/6f682030d46d2ab.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/6f682030d46d2ab.png" referrerpolicy="no-referrer"></a></p><p>作为K-Car车型，内部空间是一大亮点，后排座椅可以被放倒，配合方盒子造型，因此其拥有不错的装载能力。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0523/b7711523c377387.png"><img data-original="https://static.cnbetacdn.com/article/2022/0523/b7711523c377387.png" src="https://static.cnbetacdn.com/thumb/article/2022/0523/b7711523c377387.png" referrerpolicy="no-referrer"></a></p><p>动力方面，<strong>新车搭载了一台最大功率为47千瓦（63马力）的电动机，峰值扭矩195牛米，电池组容量为20kWh，满电状态下最大续航里程为180公里(WLTC工况下)</strong>，支持快慢充，快充至80%仅需40分钟，慢充充满则需要8个小时。</p>   
+</div>
+            
