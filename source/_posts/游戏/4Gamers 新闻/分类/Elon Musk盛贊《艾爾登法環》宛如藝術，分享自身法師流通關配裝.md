@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/ad5ba125-8c62-4351-840c-0f67cf
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/ad5ba125-8c62-4351-840c-0f67cfe54355.jpg" referrerpolicy="no-referrer"><p>夜與火之歌依然好用</p>  
+<img src="https://img.4gamers.com.tw/news-image/ad5ba125-8c62-4351-840c-0f67cfe54355.jpg" referrerpolicy="no-referrer"><p>智力流馬斯克。</p>  
 </div>
             
