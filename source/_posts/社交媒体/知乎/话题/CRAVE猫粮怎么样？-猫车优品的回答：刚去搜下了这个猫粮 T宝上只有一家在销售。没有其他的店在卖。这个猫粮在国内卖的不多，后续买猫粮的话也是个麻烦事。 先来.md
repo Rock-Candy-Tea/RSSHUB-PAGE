@@ -1,0 +1,18 @@
+
+---
+title: 'CRAVE猫粮怎么样？-猫车优品的回答：刚去搜下了这个猫粮 T宝上只有一家在销售。没有其他的店在卖。这个猫粮在国内卖的不多，后续买猫粮的话也是个麻烦事。 先来...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-c172b0c7f2161b1720e82129a3fbd1a1_1440w.jpg'
+author: 知乎
+comments: false
+date: Tue, 24 May 2022 10:02:32 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-c172b0c7f2161b1720e82129a3fbd1a1_1440w.jpg'
+---
+
+<div>   
+<strong>CRAVE猫粮怎么样？</strong><br>猫车优品的回答<br><p data-pid="BoQ9edYs">刚去搜下了这个猫粮</p><p data-pid="Q5WgnIPq">T宝上只有一家在销售。没有其他的店在卖。这个猫粮在国内卖的不多，后续买猫粮的话也是个麻烦事。</p><p data-pid="Tpw70u5R">先来看下原料和成分值</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c172b0c7f2161b1720e82129a3fbd1a1_1440w.jpg" data-caption data-size="normal" data-rawwidth="761" data-rawheight="393" data-default-watermark-src="https://pic1.zhimg.com/v2-36993c71299c39c7af8218496e207e88_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c172b0c7f2161b1720e82129a3fbd1a1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="eKNrD1BL">这款猫粮主打高蛋白40%以上，高肉含量，无谷。</p><p data-pid="cuCK419x">可以看到原料中的没有谷类作物。肉主要是鸡肉和鸡肉粉。</p><p data-pid="nYIYTLRX">粗蛋白是40%，很高的数据。属于高端猫粮</p><p data-pid="KqJNn4Pp"><b>想要高性价比猫粮、<a href="https://www.zhihu.com/search?q=%E7%BD%90%E5%A4%B4&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2232832907%7D" class="internal">罐头</a>的可以到猫车来看看！猫咪用品节省50%</b></p><p data-pid="4RQbl2LT"><b>猫粮、<a href="https://www.zhihu.com/search?q=%E7%8C%AB%E7%A0%82&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2259438634%7D" class="internal">猫砂</a>、罐头、冻干、猫条、玩具、用品等等全都有、国产进口的应有尽有！</b></p><p data-pid="2WRox7k_">点击下方的链接，一键加入猫车群！</p><p data-pid="ZcDQ2Ylz"><a href="https://zhuanlan.zhihu.com/p/418327938" class="internal">养猫省钱大攻略！铲屎官必备技能</a></p><a href="https://zhuanlan.zhihu.com/p/418327938" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-725657ae25baded9b2605cbaca45a1e1_ipico.jpg" class="internal">养猫省钱大攻略！铲屎官必备技能！猫车群3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章3 赞同 · 0 评论文章4 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章5 赞同 · 0 评论文章6 赞同 · 0 评论文章6 赞同 · 0 评论文章6 赞同 · 0 评论文章6 赞同 · 0 评论文章6 赞同 · 0 评论文章6 赞同 · 0 评论文章7 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章9 赞同 · 0 评论文章10 赞同 · 0 评论文章10 赞同 · 0 评论文章</a><p></p>  
+</div>
+            
