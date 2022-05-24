@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?v=1653378654725'
 author: 巴哈姆特
 comments: false
-date: 2022-05-24 08:13:16
+date: 2022-05-24 09:10:23
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?v=1653378654725'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?v=1653378654725" data-srcset="https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?v=1653378654725" data-srcset="https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -35,7 +35,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.23%;">
-<figcaption style="padding-bottom: 16.49%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG?v=1653378659806" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 16.49%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG?v=1653378659806" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/c46eb1a27996012937532f00bb1gfo55.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -95,7 +95,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 47.93%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG?v=1653379214811" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 47.93%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG?v=1653379214811" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/109be0d4a5bce1c4e6bbc4f19c1gfoe5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -125,9 +125,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.
 <li style="font-size: 16px;">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BE%8D%E9%AD%82+%E6%9B%89" target="_blank">侍魂 曉</a>》</li>
 <li style="font-size: 16px;">
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Breaker" target="_blank">Breaker</a>s Revenge》</li>
+《Breakers Revenge》</li>
 <li style="font-size: 16px;">
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+2" target="_blank">快打旋風 2</a> X -Grand Master Challenge-》</li>
+《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B6%85%E7%B4%9A%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8%202X" target="_blank">超級快打旋風 2X -Grand Master Challenge-</a>》</li>
 <li style="font-size: 16px;">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+3+3rd+STRIKE" target="_blank">快打旋風 3 3rd STRIKE</a>》</li>
 <li style="font-size: 16px;">
@@ -143,13 +143,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3e819ba3464baf3f61b0bd83961gfo35.
 <div>
  </div>
 <div>
-　　暱稱小胖的台灣選手 Tim119 則是參加了 5 月 22 日舉辦的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E9%A8%8E%E5%A3%AB%E4%B9%8B%E6%88%B0+-%E5%A5%AE%E6%88%B0-" target="_blank">聖騎士之戰 -奮戰-</a>》比賽，順利打進前八強之後，一路在勝部連續擊敗法國選手 Crillou、Orochi，最後再次擊敗敗部復活的 Orochi 拿下冠軍。</div>
+　　暱稱小胖的台灣選手 Tim119 則是參加了 5 月 22 日舉辦的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E9%A8%8E%E5%A3%AB%E4%B9%8B%E6%88%B0+-%E5%A5%AE%E6%88%B0-" target="_blank">聖騎士之戰 -奮戰-</a>》比賽，順利打進前八強之後，一路在勝部連續擊敗法國選手 Crillou、Orochi，最後再次擊敗敗部復活的 Orochi 成功拿下冠軍。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG?v=1653378926974" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG?v=1653378926974" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/82ef2b9eebaba32104b53088f61gfo45.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
