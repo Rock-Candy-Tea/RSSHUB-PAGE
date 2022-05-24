@@ -1,0 +1,18 @@
+
+---
+title: '罗技推出MX Master 3S鼠标和两款MX Mechanical键盘'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13c_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 24 May 2022 05:10:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13c_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 24 日消息，近日罗技推出了 MX Mechanical、MX Mechanical Mini 两款键盘和 MX Master 3S 鼠标，售价分别为 169.99 美元（约 1132.13 元人民币）、149.99 美元（约 998.93 元人民币）和 99 美元（约 659.34 元人民币），将于本月开始发货。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13c_1024.jpg" data-height="650" data-width="988" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13c_1024.jpg" referrerpolicy="no-referrer"></div></div>新的 MX Master 3S 鼠标是对现有的 MX Master 3 鼠标的一个小更新，鼠标点击更安静，且拥有更灵敏的传感器。MX Master 3S 的外观与 MX Master 3 非常相似，为惯用右手的用户设计，配有两个滚动（一个用于左右，一个用于上下），以及 3 个拇指按键。新鼠标最大的变化是使用了 8000DPI 传感器，比前代的 4000DPI 有所提高，而且据罗技称，现在左右两边的鼠标点击更安静，声音减少了 90%。当点击鼠标时，仍然有一种触觉冲击，但更加柔和。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202205/628c96118e9f097f4429e13d_1024.jpg" data-height="337" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/628c96118e9f097f4429e13d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13e_1024.jpg" data-height="450" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13f_1024.jpg" data-height="400" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e13f_1024.jpg" referrerpolicy="no-referrer"></div></div>尽管有更高分辨率的传感器，但由于其相对较低的 125Hz 轮询率，新鼠标仍然是一款针对办公室和生产力工作而非针对游戏的鼠标。相比之下，游戏鼠标的轮询频率通常为 1,000Hz，在某些情况下甚至高达 8,000Hz。<p></p><p>其它方面，MX Master 3S 继续采用 MagSpeed 电磁滚轮（阻尼和无阻尼双模式，1 秒滑动 1000 行）、底部按键可在三台连接设备之间切换、续航 70 天，USB-C 充电（充电 1 分钟续航 3 小时）、支持 2.4G / 蓝牙双模连接等。</p><p>罗技表示，MX Master 3S 更高的 DPI 传感器有助于应对越来越高分辨率的显示器，比如人们在电脑上使用的 4K 甚至 8K 显示器，而更安静的点击声音有利于在共享办公环境中使用鼠标。</p><p>罗技 MX Mechanical、MX Mechanical Mini 两款键盘使用的是 Kailh 公司的 Choc V2 矮轴，可用的款式包括触感安静的茶轴、咔哒咔哒的青轴和红轴，它们没有 Cherry MX 那样长的行程，但它们具有机械开关的一些优点，其中包括更多的触觉和更大的可靠性。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/628c96118e9f097f4429e140_1024.jpg" data-height="657" data-width="974" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628c96118e9f097f4429e140_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家了解到，这两款键盘都是无线的，拥有罗技标志性的超长电池续航。键盘的背光开启时，可以获得 15 天的电池续航，关闭时则可达到 10 个月。键盘配备了传感器，当手在附近时，背光可以自动打开，采用 USB-C 端口充电。新的键盘和鼠标都能记住它们所配对的三个设备（可以通过蓝牙或附带的 USB 无线适配器连接），按下一个按钮就可以在它们之间切换。<p></p><p>显然，这两款产品都不是作为高性能的游戏外设，而是作为许多工人在办公室和家里使用的标准键盘和鼠标的升级版。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
