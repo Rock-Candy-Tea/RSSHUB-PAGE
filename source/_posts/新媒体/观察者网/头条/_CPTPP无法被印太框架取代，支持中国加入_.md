@@ -102,7 +102,7 @@ IPEF启动的同一天，中国外交部则回应称：中方同地区国家一�
 据观察者网统计，RCEP（区域全面经济伙伴关系协定）15个成员中的11个、以及CPTPP（全面与进步跨太平洋伙伴关系协定）11个成员中的7个此次签约加入IPEF。有7个国家（马来西亚、新加坡、澳大利亚、新西兰、越南、文莱、日本）同时是RCEP、CPTPP、IPEF三个框架下的成员。
 </p>
 <p style="text-align:center;">
-<img src="https://i.guancha.cn/news/social/2022/05/24/20220524101840984.jpg" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
+<img src="https://i.guancha.cn/news/social/2022/05/24/20220524145430292.jpg" title="点击查看大图" width="530" class="bigimg" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-align:center;">
 <span style="color:#666666;">观察者网整理制图</span> 
