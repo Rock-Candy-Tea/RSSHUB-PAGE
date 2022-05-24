@@ -1,0 +1,19 @@
+
+---
+title: '指标在手如何选车？极狐阿尔法T给你夏季惬意出行体验'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364787366061046.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 24 May 2022 03:58:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364787366061046.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">伴随着小满节气的过去，国内各地都开始出现了高温天气，甚至不少城市气温直接飙升至30℃以上。对很多人来说，夏天用车是一件备受煎熬的事情：比如进入晒过的车内，那种烤炉般的感觉想必很多人都深有体会；再比如顶着烈日下了楼却发现忘带车钥匙，那种烦恼和无奈瞬间涌上心头……这个时候，要是有一个贴心靠谱的小助手就好了。</p><p style="text-indent: 2em; text-align: left;">今天，小编就为大家介绍一款自带“最强大脑”的纯电SUV——极狐阿尔法T，看看这位移动的“智能管家”如何让你的夏日出行更惬意。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364787366061046.png" title="1653364787366061046.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>一键备车，足不出户让凉爽先行一步</strong></p><p style="text-indent: 2em; text-align: left;">正如开头所提到的，在夏天最令人感到崩溃的肯定是出门上车的瞬间。经过阳光的炙烤、高温的熏陶，车内的温度往往令你一秒都不想多待。对于这个问题，极狐阿尔法T自有解决的“妙招”。</p><p style="text-indent: 2em; text-align: left;">在炎热的夏天，你可以提前通过手机打开极狐APP，通过一键备车功能，即可远程操控车辆打开车窗换气，并启动空调降温。这样一来，上车时就能够享受扑面而来的清凉，与以前的闷热不适彻底告别。同时，你还可以根据自己的习惯设置具体备车方案，比如空调温度、座椅通风档位等。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364809976069592.png" title="1653364809976069592.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>手机当备用钥匙，省去夏日折返跑</strong></p><p style="text-indent: 2em; text-align: left;">夏天出门最不幸的莫过于忘带车钥匙，来回取钥匙不但折腾，还需要忍受汗流浃背的酸爽，更影响一天的好心情。而极狐阿尔法T的车主却没有这个烦恼，因为他们平时几乎不带车钥匙。车主通过自己手机里极狐APP的手机钥匙功能，输入控制密码，就能实现无钥匙进入和启动车辆了。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364821071054454.png" title="1653364821071054454.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">顺便说一句，手机钥匙还可以控制车窗、车门和天窗的开启关闭，对于临时有事不能下楼取快递的车主，则可以让快递小哥前往停车场，根据你的指示和远程操控，将快递放入车里，既能完成快递签收，还实现了“零接触”，一举两得。</p><p style="text-indent: 2em; text-align: left;"><strong>智慧空气环境管理，不用担心“空调病”</strong></p><p style="text-indent: 2em; text-align: left;">夏季开车自然要开空调，而内循环的时间一长，加上冷风直吹，很容易出现所谓的车内空气不新鲜、肚子着凉等所谓的“空调病”。对于这一问题，极狐阿尔法T的车主同样不必担心。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364832279067065.png" title="1653364832279067065.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">极狐阿尔法T配备智慧空气环境管理系统，车内空调采用隐藏式出风口设计，配合12个电机与智能系统，能够实现电动化气流控制，精准调节出风方向，还拥有一键“快速降温（对人 吹）”、“微风拂面（避人吹）”两大模式。并且可自动判断车内环境，在车内温差较大、湿度较高时，自动开启空调除雾逻辑，避免玻璃起雾提升驾驶安全性。也就是说，不论是在晴天还是下雨天，极狐阿尔法T都能为你营造一个舒适健康而又安全的车内环境。</p><p style="text-indent: 2em; text-align: left;"><strong>APP遥控驾车，再也不用踩水坑上车</strong></p><p style="text-indent: 2em; text-align: left;">夏季下雨过后，如果车身周围有积水，那么上车便会成为难题，如果身边没有合适的东西垫脚，那么踩着水坑上车就成为了必选项，不仅湿了鞋还脏了车，心情瞬间不好了。</p><p style="text-indent: 2em; text-align: left;">对于这一问题，极狐阿尔法T同样有解。在下雨天如果不方便上车，则可以打开极狐APP找到遥控驾驶功能，通过手机遥控将车辆开到干净的地方再上车，简单又方便。当然，对于新手司机停入狭窄的停车位来说这一功能同样适用。同时，你也不必担心安全问题，在操控时，车辆的车速会很慢，并且有提示音，能做到智能精准、安全高效。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-05/24/xihong/1653364840832084958.png" title="1653364840832084958.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">清风无力屠得热，落日着翅飞上山。气温的升高让寻找清凉成为了所有人的心声，极狐阿尔法T以丰富多样的智能黑科技为用户“智慧”降温，同时为雨天出行排忧解难，让你拥有绝佳的夏日用车体验。即日起到6月底，购买极狐阿尔法T可享受15％超低首付，至高5年低息，至高8万0息定额贷、0首付享融资租赁方案等多种诚意满满的购车金融政策，还有丰富的用车权益。特别是北京地区的新能源准车主，随着5月26日新一轮的新能源指标即将发放，不妨先去极狐4S店体验一下，早日开启夏日出行新体验。</p> 
+  
+</div>
+            
