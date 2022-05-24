@@ -5,19 +5,15 @@ categories:
  - 游戏
  - 游戏动力
  - 游戏资讯
-headimg: 'https://picsum.photos/400/300?random=796'
+headimg: 'https://picsum.photos/400/300?random=2250'
 author: 游戏动力
 comments: false
 date: Mon, 23 May 2022 10:41:21 GMT
-thumbnail: 'https://picsum.photos/400/300?random=796'
+thumbnail: 'https://picsum.photos/400/300?random=2250'
 ---
 
 <div>   
-Steam特惠游戏推荐《主播女孩重度依赖》新史低，折后48.6元，支持中文，特别好评。
-《古诺希亚》新史低，折后64元，支持中文，特别好评。
-《冒险村物语》新史低，折后32.3元，支持中文，特别好评。
-《游戏开发物语》新史低，折后34.2元，支持中文，特别好评。
-《幸福公寓物语DX》新史低，折后29.64元，支持中文，多半好评。Steam一周销量排行榜公开，吸血鬼生存游戏《V Rising》登顶详细名单：1.《V Rising》
+Steam特惠游戏推荐《主播女孩重度依赖》新平史低，折后48.6元，支持中文，特别好评。《古诺希亚》新史低，折后64元，支持中文，特别好评。《冒险村物语》新史低，折后32.3元，支持中文，特别好评。《游戏开发物语》新史低，折后34.2元，支持中文，特别好评。《幸福公寓物语DX》新史低，折后29.64元，支持中文，多半好评。Steam一周销量排行榜公开，吸血鬼生存游戏《V Rising》登顶详细名单：1.《V Rising》
 2.Steam Deck掌机
 3.《Arma Reforger》
 4.《艾尔登法环》
