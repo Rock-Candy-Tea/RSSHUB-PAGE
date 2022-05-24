@@ -5,14 +5,14 @@ categories:
  - 游戏
  - a9vgNews 游戏新闻
  - a9vgNews 游戏新闻
-headimg: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524030847-4866-92031.png'
+headimg: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524103617-6865-88763.jpg'
 author: a9vgNews 游戏新闻
 comments: false
-date: Tue, 24 May 2022 03:08:00 GMT
-thumbnail: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524030847-4866-92031.png'
+date: Tue, 24 May 2022 10:36:00 GMT
+thumbnail: 'https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524103617-6865-88763.jpg'
 ---
 
 <div>   
-上周曾有一款神秘RPG新游戏发表，但是游戏名称和详情暂为公开。今天，日本电商提前泄露了这款ARPG游戏，游戏名为《圣塔神记 Trinity Trigger》，9月15日推出，平台为PS4（可升级为PS5版）、PS5和NS。<img src="https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524030847-4866-92031.png" referrerpolicy="no-referrer">  
+ARPG《圣塔神记 Trinity Trigger》提前泄露 9月15日推出<img src="https://img2.a9vg.com/i/a9-article-list_x256/cms3.0/2022/0524/20220524103617-6865-88763.jpg" referrerpolicy="no-referrer">  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: 'LikeCoin _ 讚賞公民 1👏 = 1 LIKE 對我有影響嗎？'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/a637d642-9fb2-4026-bb74-4c7e1ebfbb9a.png'
+author: Matters
+comments: false
+date: Tue, 24 May 2022 04:53:00 GMT
+thumbnail: 'https://assets.matters.news/embed/a637d642-9fb2-4026-bb74-4c7e1ebfbb9a.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/a637d642-9fb2-4026-bb74-4c7e1ebfbb9a.png" data-asset-id="a637d642-9fb2-4026-bb74-4c7e1ebfbb9a" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>LikeCoin 昨天發出了這個訊息。老實說我平日是不多 check 自己拍手/被讚賞的情況（為免做人有分別心），所以當 <a href="https://matters.news/@daisy/277720-liker-land-app-authcore-%E8%A8%BB%E5%86%8A-liker-id-%E5%8F%AF%E5%8C%AF%E5%87%BA%E5%8A%A9%E8%A8%98%E8%A9%9E-bafyreiepz4dlssbkhmkvfugaawwjhw7t6g2zk4t35abnuj2ctwcjr7i62q" rel="noopener noreferrer" target="_blank">可以導出 Liker Land app 助記詞</a> 之後因為懶我只會在 Keplr 查看讚賞成就並定時定候委託給讚賞公民節點。不過有這個新功能的話我就查查 Liker Land app：</p><p>1. 有關安排應該是上星期六 5 月 21 日 經已開始，因為我的 App 顯示整數一拍=1LIKE 就是從那日開始。</p><figure class="image"><img src="https://assets.matters.news/embed/e1aaeb9d-58d5-4290-b04b-cdb64be488cd.png" data-asset-id="e1aaeb9d-58d5-4290-b04b-cdb64be488cd" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>2. 上圖顯示昨天拍了 閱讀筆耕 後應該就是中午之前的拍手用完了，所以他只會得到 4.8266 而不是滿拍。</p><p>3. 然後 洛洛 是我知道這個 policy 之後晚上再拍來試試做對比，確實是一拍就是一 LIKE。</p><p>4. Liker Social 的拍和 Matters 的拍是一樣的，都是一拍=一 LIKE。</p><p>5. 依照 <a href="https://docs.like.co/v/zh/user-guide/civic-liker/be-a-civic-liker" rel="noopener noreferrer" target="_blank">如何成為讚賞公民</a> 的算式是：</p><blockquote>以目前約 15% 的委託回報率計算，5000 LIKE 可產生的每月收益等於 5000*0.15/12 = 62.5 LIKE，按現匯價約每月 1.5 美元左右。委託愈多，化讚為賞的金額也愈多。</blockquote><p>套用現時的 APR 是 23.87%</p><figure class="image"><img src="https://assets.matters.news/embed/98f8238d-4289-404d-844c-c3318565bc02.png" data-asset-id="98f8238d-4289-404d-844c-c3318565bc02" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>所以我現在委託了 35,000 LIKE</p><figure class="image"><img src="https://assets.matters.news/embed/d2934f9a-ef43-4ac8-b020-eff52dfc136b.png" data-asset-id="d2934f9a-ef43-4ac8-b020-eff52dfc136b" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>就是每月產生：35,000*0.2387/12 = 696 LIKE</p><p>696/30 = 每日可以派 23.2 LIKE 出去</p><hr><h2>自問自答</h2><p>Q. 我會不會因為這樣而改變拍手模式，令拍手更謹慎？<br class="smart">A. 不會啦，有貓就讚是宗旨。</p><p>Q. 我會不會因為這樣而改變發文時間？<br class="smart">A. 也不會啦，無定向風是我宗旨，例如這篇 Lunch Time 立即寫好就發出去。</p><hr><p>以後很久沒拍，一拍就發出幾十 LIKE 不能控制的情況再也不會有，相信將有助讚賞公民們更好地利用自己的影響力投放於心儀作品，也許這樣才更貼近「讚賞」的本意。</p><hr><h2>其他 LikeCoin 相關<br class="smart"></h2><p><a href="https://matters.news/@daisy/257702-%E9%97%9C%E6%96%BC%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91-web3-%E6%88%91%E6%83%B3%E8%AA%AA-bafyreicoargkduus2rfarxb4biqnot7gnklqzk5tpcm4lmiigzyvisbraa" rel="noopener noreferrer" target="_blank">關於讚賞公民 Web3，我想說…</a><a href="https://matters.news/@daisy/241563-%E8%B3%BC%E8%B2%B7-like-coin-%E5%83%B9%E6%A0%BC%E8%B3%87%E8%A8%8A-%E7%9B%A4%E9%BB%9E%E5%A0%B4%E5%A4%96%E4%BA%A4%E6%98%93%E5%95%86-%E7%82%BA%E8%AE%9A%E8%B3%9E%E5%85%AC%E6%B0%91web3-%E5%81%9A%E6%BA%96%E5%82%99-bafyreig6p7dfzvb2v74qcb2fk3b6dxyxkgmjzycnomxaizsmcxmmjxx3b4" rel="noopener noreferrer" target="_blank"><br class="smart">購買 LikeCoin、價格資訊、盤點場外交易商，為讚賞公民Web3 做準備</a><a href="https://matters.news/@daisy/277720-liker-land-app-authcore-%E8%A8%BB%E5%86%8A-liker-id-%E5%8F%AF%E5%8C%AF%E5%87%BA%E5%8A%A9%E8%A8%98%E8%A9%9E-bafyreiepz4dlssbkhmkvfugaawwjhw7t6g2zk4t35abnuj2ctwcjr7i62q" rel="noopener noreferrer" target="_blank"><br class="smart">Liker Land app / Authcore 註冊 Liker ID 可匯出助記詞</a></p>  
+</div>
+            
