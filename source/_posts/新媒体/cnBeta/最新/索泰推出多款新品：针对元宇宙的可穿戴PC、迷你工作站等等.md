@@ -1,0 +1,19 @@
+
+---
+title: '索泰推出多款新品：针对元宇宙的可穿戴PC、迷你工作站等等'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0525/03a240a17a724b5.webp'
+author: cnBeta
+comments: false
+date: Wed, 25 May 2022 04:16:25 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0525/03a240a17a724b5.webp'
+---
+
+<div>   
+在 COMPUTEX 2022 大展上，索泰（ZOTAC）通过虚拟展位宣布了多款新品。其中包括针对元宇宙的可穿戴 PC、专业的迷你工作站、最小的全功能系统和多款极致显卡。通过这些创新新品，索泰邀请所有参观者重新想象如何在数字宇宙中创造、游戏和工作。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/03a240a17a724b5.webp" alt="nc6f30if.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● <a href="https://www.zotac.com/hk/product/mini_pcs/vr-go-40-windows-11-pro" target="_blank">ZOTAC VR GO 4.0</a></p><p style="text-align: left;">新一代 ZOTAC VR GO 4.0 带来了前所未有的行动自由和最可靠的连接，这是当前无线 VR 设备都无法提供的。全新的 VR GO 4.0 背包电脑现在配备了更先进的技术，使个人开发者和3D设计师能够在虚拟现实（VR）、增强现实（AR）或混合现实（MR）中可视化并实现所有的创意，用于VR内容开发、虚拟娱乐和更多技术场景。而对于其他人来说，增加更强大的硬件可以实现更多的视觉保真度和沉浸式VR体验。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/60f6c830d51442f.webp" alt="22vk3h2c.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● <a href="https://www.zotac.com/hk/page/zbox-q-series-with-nvidia-rtx" target="_blank">ZBOX 迷你工作站</a></strong></p><p style="text-align: left;">索泰推出了 ZBOX QTG7A4500，使设计师、工程师、数据科学家和创造者在最薄的空间内完成更多的工作。ZBOX 迷你电脑首次装备了专业级 NVIDIA RTX A4500 GPU，该 GPU 采用 NVIDIA Ampere 架构，具有实时光线追踪、仿真和人工智能的能力。专业级的 GPU 由多核多线程的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>酷睿 i7 处理器支持，具有处理内存密集型工作负载的高性能，并加速图形性能，以获得流畅的多任务和响应体验。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/b4cbc70a785bca9.webp" alt="pexs8knk.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● <a href="https://www.zotac.com/in/product/mini_pcs/zbox-pi336-pico-windows-11-pro#spec" target="_blank">ZBOX PI336 pico</a></p><p style="text-align: left;">这款超级便携的 SFF PC 预先安装了 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 11，具有 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a> 功能的 ZBOX pico 采用了最新的设计，同时它仍然可以舒适地滑入你的口袋。支持双4K显示，通过微型SDXC扩展存储，桌面大小的扩展端口和板载内存和存储，世界上最小的成熟的计算机能够支持基于云的应用程序，解决现场或从远程位置的轻型日常任务，并推动业务的发展。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/1cb9f8e3a10e1f2.webp" alt="7trbid25.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Zbox PI336 Pico（Zbox PI335的继任者）是世界上最小的全功能台式电脑之一。它的机身尺寸为 115毫米x76毫米x20.7毫米（4.53英寸x2.99英寸x0.81英寸），人们可以通过附带的 VESA 支架轻松地将其安装在任何显示器后面。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/d6cb8cdbbe4d0ec.webp" alt="lostmum2.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Zotac Zbox PI336 Pico 使用低功耗的英特尔赛扬N6211处理器。它是一个两核两线程的Elkhart Lake处理器，TDP为6.5瓦，基础/增强时钟为1.5/3GHz。英特尔UHD iGPU处理图形，它可以通过附带的HDMI 2.0和DP 1.4端口向两个屏幕输出4K 60 FPS信号。这种功能使Zbox PI336 Pico成为理想的多媒体机器，特别是在空间有限的环境中。</p><p style="text-align: left;">● ZOTAC GAMING GeForce RTX 30 系列显卡</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0525/6a53fa850a7458f.webp" alt="vs4d42h2.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">最新的ZOTAC GAMING GeForce RTX 30系列具有强大的性能，为世界上流行的游戏和创意应用程序提供最佳体验。基于NVIDIA Ampere架构，该显卡系列配备了高达快速的GDDR6X内存，用于光线追踪的第二代RT核心，以及用于新的尖端AI功能的第三代Tensor核心，包括NVIDIA DLSS、NVIDIA Reflex、NVIDIA Broadcast技术，并在一大批创意应用中支持广泛的GPU加速。</p>   
+</div>
+            
