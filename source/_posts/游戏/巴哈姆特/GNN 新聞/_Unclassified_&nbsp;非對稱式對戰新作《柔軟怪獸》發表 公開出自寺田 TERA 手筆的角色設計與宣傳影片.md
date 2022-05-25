@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/76/a0ac9106a2fe6ec330e252bfde1gfsg5.JPG?v=1653384418718'
 author: 巴哈姆特
 comments: false
-date: 2022-05-25 10:12:06
+date: 2022-05-25 11:09:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/76/a0ac9106a2fe6ec330e252bfde1gfsg5.JPG?v=1653384418718'
 ---
 
@@ -68,7 +68,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/76/a0ac9106a2fe6ec330e252bfde1gfsg5.
 <div>
  </div>
 <div>
-　　另外還公開了請來野上翔、迎田梨香子、杉田智和等配音員陣容飾演的角色情報，詳情請參閱以下公開新聞稿。</div>
+　　另外還公開了請來野上翔、逢田梨香子、杉田智和等配音員陣容飾演的角色情報，詳情請參閱以下公開新聞稿。</div>
 <div>
  </div>
 <h2>
@@ -268,7 +268,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/76/a0ac9106a2fe6ec330e252bfde1gfsg5.
  </div>
 <h3>
 史涅爾（スネイル）<br>
-配音：迎田梨香子</h3>
+配音：逢田梨香子</h3>
 <div>
  </div>
 <div>
