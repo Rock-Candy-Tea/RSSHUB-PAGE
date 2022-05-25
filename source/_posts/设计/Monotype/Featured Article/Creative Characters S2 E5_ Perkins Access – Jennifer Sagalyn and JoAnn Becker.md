@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=MeVwSpfc'
+headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=WoFnhyFU'
 author: Monotype
 comments: false
 date: Tue, 17 May 2022 21:15:37 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=MeVwSpfc'
+thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=WoFnhyFU'
 ---
 
 <div>   
@@ -210,26 +210,26 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.webp?itok=MeVwSpfc 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_04_2_59.webp?itok=7l2CzgQe 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_04_2_59.webp?itok=oH_LPfl9 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=MeVwSpfc 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_04_2_59.jpg?itok=7l2CzgQe 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_04_2_59.jpg?itok=oH_LPfl9 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=MeVwSpfc" alt="Image descriptions. Add alternative text to images, charts and graphs, to help screen-reader users understand their context and meaning. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Image descriptions. Add alternative text to images, charts and graphs, to help screen-reader users understand their context and meaning. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.webp?itok=WoFnhyFU 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_04_2_59.webp?itok=-JB_WVx3 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_04_2_59.webp?itok=vrR4I5WS 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=WoFnhyFU 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_04_2_59.jpg?itok=-JB_WVx3 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_04_2_59.jpg?itok=vrR4I5WS 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_04_2_59.jpg?itok=WoFnhyFU" alt="Image descriptions. Add alternative text to images, charts and graphs, to help screen-reader users understand their context and meaning. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Image descriptions. Add alternative text to images, charts and graphs, to help screen-reader users understand their context and meaning. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.webp?itok=X--EVCs- 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_05_2_65.webp?itok=w1D0D80A 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_05_2_65.webp?itok=iytFu4RA 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.jpg?itok=X--EVCs- 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_05_2_65.jpg?itok=w1D0D80A 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_05_2_65.jpg?itok=iytFu4RA 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.jpg?itok=X--EVCs-" alt="Put your formatting to work. Use titles and headings for easy navigation and pick fonts that are easy to read. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Put your formatting to work. Use titles and headings for easy navigation and pick fonts that are easy to read. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.webp?itok=hTIrtGtc 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_05_2_65.webp?itok=VTOandiH 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_05_2_65.webp?itok=VNZLeo9v 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.jpg?itok=hTIrtGtc 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_05_2_65.jpg?itok=VTOandiH 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_05_2_65.jpg?itok=VNZLeo9v 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_05_2_65.jpg?itok=hTIrtGtc" alt="Put your formatting to work. Use titles and headings for easy navigation and pick fonts that are easy to read. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Put your formatting to work. Use titles and headings for easy navigation and pick fonts that are easy to read. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -275,39 +275,39 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.webp?itok=fKgSmZNx 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_01_49_43.webp?itok=o6xafcs7 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_01_49_43.webp?itok=Dl7L1jnQ 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.jpg?itok=fKgSmZNx 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_01_49_43.jpg?itok=o6xafcs7 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_01_49_43.jpg?itok=Dl7L1jnQ 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.jpg?itok=fKgSmZNx" alt="Accessibility check tools. Run the Microsoft Office Accessibility Checker and the Adobe Acrobat Accessibility Checker to fix accessibility issues before sending files. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Accessibility check tools. Run the Microsoft Office Accessibility Checker and the Adobe Acrobat Accessibility Checker to fix accessibility issues before sending files. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.webp?itok=xf2Bp6So 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_01_49_43.webp?itok=PxifQGev 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_01_49_43.webp?itok=0ji3__XL 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.jpg?itok=xf2Bp6So 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_01_49_43.jpg?itok=PxifQGev 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_01_49_43.jpg?itok=0ji3__XL 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_01_49_43.jpg?itok=xf2Bp6So" alt="Accessibility check tools. Run the Microsoft Office Accessibility Checker and the Adobe Acrobat Accessibility Checker to fix accessibility issues before sending files. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="Accessibility check tools. Run the Microsoft Office Accessibility Checker and the Adobe Acrobat Accessibility Checker to fix accessibility issues before sending files. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.webp?itok=S4yD1J5V 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_02_17_44.webp?itok=BtZkVyCe 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_02_17_44.webp?itok=vM9NK7H- 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.jpg?itok=S4yD1J5V 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_02_17_44.jpg?itok=BtZkVyCe 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_02_17_44.jpg?itok=vM9NK7H- 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.jpg?itok=S4yD1J5V" alt="High contrast. When using colors, select text colors that have enough contrast against the background color to ensure readability. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="High contrast. When using colors, select text colors that have enough contrast against the background color to ensure readability. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.webp?itok=QgaU7qRK 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_02_17_44.webp?itok=WlT_ZTgT 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_02_17_44.webp?itok=HKHTI5Ts 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.jpg?itok=QgaU7qRK 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/social_graphic_02_17_44.jpg?itok=WlT_ZTgT 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/social_graphic_02_17_44.jpg?itok=HKHTI5Ts 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/social_graphic_02_17_44.jpg?itok=QgaU7qRK" alt="High contrast. When using colors, select text colors that have enough contrast against the background color to ensure readability. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." title="High contrast. When using colors, select text colors that have enough contrast against the background color to ensure readability. The Global Shapers Community New York logo and Perkins School for the Blind logo sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.webp?itok=72ce_E9p 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/Social%20Graphic_03_100.webp?itok=Yy4Dit3A 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/Social%20Graphic_03_100.webp?itok=BR9OhESC 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.jpg?itok=72ce_E9p 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/Social%20Graphic_03_100.jpg?itok=Yy4Dit3A 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/Social%20Graphic_03_100.jpg?itok=BR9OhESC 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.jpg?itok=72ce_E9p" alt="Meaningful hyperlinks. Hyperlink meaningful language like “Subscribe to our newsletter” instead of “Click here.” The Global Shapers Community New York logo and Perkins School for the Blind logos sit side by side." title="Meaningful hyperlinks. Hyperlink meaningful language like “Subscribe to our newsletter” instead of “Click here.” The Global Shapers Community New York logo and Perkins School for the Blind logos sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.webp?itok=hgzjipF7 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/Social%20Graphic_03_100.webp?itok=8wReZYmy 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/Social%20Graphic_03_100.webp?itok=3v3e5LEc 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.jpg?itok=hgzjipF7 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-05/Social%20Graphic_03_100.jpg?itok=8wReZYmy 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-05/Social%20Graphic_03_100.jpg?itok=3v3e5LEc 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-05/Social%20Graphic_03_100.jpg?itok=hgzjipF7" alt="Meaningful hyperlinks. Hyperlink meaningful language like “Subscribe to our newsletter” instead of “Click here.” The Global Shapers Community New York logo and Perkins School for the Blind logos sit side by side." title="Meaningful hyperlinks. Hyperlink meaningful language like “Subscribe to our newsletter” instead of “Click here.” The Global Shapers Community New York logo and Perkins School for the Blind logos sit side by side." typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

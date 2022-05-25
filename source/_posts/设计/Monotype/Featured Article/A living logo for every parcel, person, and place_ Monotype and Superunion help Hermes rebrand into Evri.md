@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=AxhxVKcp'
+headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=rgAXdafS'
 author: Monotype
 comments: false
 date: Wed, 30 Mar 2022 19:54:01 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=AxhxVKcp'
+thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=rgAXdafS'
 ---
 
 <div>   
@@ -225,13 +225,13 @@ There is an unwritten rule that brands and designers live by; one golden rule: y
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=AxhxVKcp 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=Gz1TAP5v 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=dsHxyLGx 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=AxhxVKcp 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=Gz1TAP5v 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=dsHxyLGx 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=AxhxVKcp" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=rgAXdafS 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=OtDUZcIR 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=5Jz9n6r2 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=rgAXdafS 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=OtDUZcIR 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=5Jz9n6r2 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2824%29.gif?itok=rgAXdafS" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -269,39 +269,39 @@ There is an unwritten rule that brands and designers live by; one golden rule: y
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.webp?itok=DWuomO8H 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/1.%20Truck_86_35.webp?itok=hL1tRBP5 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/1.%20Truck_86_35.webp?itok=q-x9zQcq 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.jpg?itok=DWuomO8H 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/1.%20Truck_86_35.jpg?itok=hL1tRBP5 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/1.%20Truck_86_35.jpg?itok=q-x9zQcq 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.jpg?itok=DWuomO8H" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.webp?itok=7bsosRid 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/1.%20Truck_86_35.webp?itok=5ifnu-4N 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/1.%20Truck_86_35.webp?itok=7vQKq69T 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.jpg?itok=7bsosRid 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/1.%20Truck_86_35.jpg?itok=5ifnu-4N 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/1.%20Truck_86_35.jpg?itok=7vQKq69T 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/1.%20Truck_86_35.jpg?itok=7bsosRid" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=-QW0rLQS 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=J0mg1BNs 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=UNNbqbcd 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=-QW0rLQS 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=J0mg1BNs 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=UNNbqbcd 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=-QW0rLQS" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=C8pKUCFj 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=o2qewLJk 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/08.21.22_0820-1%20V1_88_39.webp?itok=S87Ru7w5 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=C8pKUCFj 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=o2qewLJk 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=S87Ru7w5 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/08.21.22_0820-1%20V1_88_39.jpg?itok=C8pKUCFj" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=JN0igenC 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=097RsyFc 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=hC-fNGv- 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=JN0igenC 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=097RsyFc 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=hC-fNGv- 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=JN0igenC" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=ThK1r2wc 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=16srahh1 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/8.%20Businesss%20cards_111_181.webp?itok=X6D88OPB 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=ThK1r2wc 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=16srahh1 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=X6D88OPB 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/8.%20Businesss%20cards_111_181.png?itok=ThK1r2wc" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -345,13 +345,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=rWB7a6fH 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=r4QxJZsL 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=uHMQ-Tge 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=rWB7a6fH 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=r4QxJZsL 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=uHMQ-Tge 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=rWB7a6fH" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=rn612cSR 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=AiEZmRm5 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.webp?itok=YpViMtZC 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=rn612cSR 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=AiEZmRm5 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=YpViMtZC 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Evri_QuickStartGuide_v8-1%20%28dragged%29_48_34.jpg?itok=rn612cSR" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -390,13 +390,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=vU2hxmpO 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=R14l4nuI 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=dMQs1tBa 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=vU2hxmpO 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=R14l4nuI 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=dMQs1tBa 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=vU2hxmpO" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=4RtjT6hm 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=zhGqhJ17 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=yBOx0h6h 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=4RtjT6hm 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=zhGqhJ17 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=yBOx0h6h 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Trends%20webinar%20teaser%20square-high.gif?itok=4RtjT6hm" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -430,26 +430,26 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.webp?itok=3WpGRUT_ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8863_web_38_42.webp?itok=zk6AYSMI 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8863_web_38_42.webp?itok=tC1XbHRz 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.jpg?itok=3WpGRUT_ 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8863_web_38_42.jpg?itok=zk6AYSMI 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8863_web_38_42.jpg?itok=tC1XbHRz 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.jpg?itok=3WpGRUT_" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.webp?itok=0zlIfcaM 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8863_web_38_42.webp?itok=9p6Gv0G0 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8863_web_38_42.webp?itok=kaimikhE 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.jpg?itok=0zlIfcaM 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8863_web_38_42.jpg?itok=9p6Gv0G0 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8863_web_38_42.jpg?itok=kaimikhE 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/DSCF8863_web_38_42.jpg?itok=0zlIfcaM" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=IBpv3ogh 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Logo_Glyph_Overlay.gif?itok=DTEwBthw 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Logo_Glyph_Overlay.gif?itok=R6X06jPu 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=IBpv3ogh 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Logo_Glyph_Overlay.gif?itok=DTEwBthw 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Logo_Glyph_Overlay.gif?itok=R6X06jPu 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=IBpv3ogh" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=9w0yrG3q 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Logo_Glyph_Overlay.gif?itok=cS_AMGtM 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Logo_Glyph_Overlay.gif?itok=jFGAEcgi 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=9w0yrG3q 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Logo_Glyph_Overlay.gif?itok=cS_AMGtM 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Logo_Glyph_Overlay.gif?itok=jFGAEcgi 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/Logo_Glyph_Overlay.gif?itok=9w0yrG3q" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -476,13 +476,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=0xwVLDc1 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=wdi0NPLG 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=FE80bqw9 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=0xwVLDc1 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=wdi0NPLG 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=FE80bqw9 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=0xwVLDc1" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=tXHovJ4s 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=bIuFjXGm 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=m49E5KcX 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=tXHovJ4s 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=bIuFjXGm 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=m49E5KcX 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2823%29.gif?itok=tXHovJ4s" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -517,13 +517,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=cqKXxFEl 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=ryQVT_Dn 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=8v6LTq3x 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=cqKXxFEl 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=ryQVT_Dn 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=8v6LTq3x 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=cqKXxFEl" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=qFECYj_T 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=DLAwhGhm 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.webp?itok=iABg0vja 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=qFECYj_T 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=DLAwhGhm 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=iABg0vja 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%202.59.37%20PM_121_136.png?itok=qFECYj_T" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -566,13 +566,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=yiudlmr- 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=8SKoWupy 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=VoYg32lZ 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=yiudlmr- 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=8SKoWupy 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=VoYg32lZ 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=yiudlmr-" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=zqaqchT8 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=8nWJK5-f 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.webp?itok=E3-JEfCC 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=zqaqchT8 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=8nWJK5-f 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=E3-JEfCC 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.01.09%20PM_139_124.png?itok=zqaqchT8" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -611,13 +611,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=MJ3StKa- 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=AXUAx8_o 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=OjGjsk3e 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=MJ3StKa- 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=AXUAx8_o 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=OjGjsk3e 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=MJ3StKa-" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=nN3g8bf2 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=IimMjGQu 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.webp?itok=pVU_-Q_z 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=nN3g8bf2 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=IimMjGQu 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=pVU_-Q_z 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Screen%20Shot%202022-03-30%20at%203.03.48%20PM_136_139.png?itok=nN3g8bf2" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -651,39 +651,39 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.webp?itok=j0ZeU2Lu 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q7987_71_87.webp?itok=IF_z2xr7 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q7987_71_87.webp?itok=R13-QT70 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.jpg?itok=j0ZeU2Lu 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q7987_71_87.jpg?itok=IF_z2xr7 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q7987_71_87.jpg?itok=R13-QT70 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.jpg?itok=j0ZeU2Lu" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.webp?itok=mlFPODaE 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q7987_71_87.webp?itok=-jJHwEUR 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q7987_71_87.webp?itok=EU4Aydbl 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.jpg?itok=mlFPODaE 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q7987_71_87.jpg?itok=-jJHwEUR 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q7987_71_87.jpg?itok=EU4Aydbl 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q7987_71_87.jpg?itok=mlFPODaE" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.webp?itok=hzwfRpBw 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q5143_98_50.webp?itok=l1V3d-Lj 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q5143_98_50.webp?itok=12Jyd7Yd 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.jpg?itok=hzwfRpBw 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q5143_98_50.jpg?itok=l1V3d-Lj 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q5143_98_50.jpg?itok=12Jyd7Yd 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.jpg?itok=hzwfRpBw" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.webp?itok=Vs19sm82 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q5143_98_50.webp?itok=kZYAQy8n 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q5143_98_50.webp?itok=6KPfvdjy 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.jpg?itok=Vs19sm82 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q5143_98_50.jpg?itok=kZYAQy8n 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q5143_98_50.jpg?itok=6KPfvdjy 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q5143_98_50.jpg?itok=Vs19sm82" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.webp?itok=72GRqMu7 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q2829_76_10.webp?itok=GOFRLMpN 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q2829_76_10.webp?itok=cnbpDZwN 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.jpg?itok=72GRqMu7 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q2829_76_10.jpg?itok=GOFRLMpN 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q2829_76_10.jpg?itok=cnbpDZwN 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.jpg?itok=72GRqMu7" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.webp?itok=wzz9NfrH 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q2829_76_10.webp?itok=bMhnl58V 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q2829_76_10.webp?itok=a67V9Lq8 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.jpg?itok=wzz9NfrH 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/_Q6Q2829_76_10.jpg?itok=bMhnl58V 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/_Q6Q2829_76_10.jpg?itok=a67V9Lq8 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-03/_Q6Q2829_76_10.jpg?itok=wzz9NfrH" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -767,13 +767,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.webp?itok=16ruGBkQ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8860.webp?itok=lVQ-2Tkj 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8860.webp?itok=RoQy9M0Q 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.JPG?itok=16ruGBkQ 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8860.JPG?itok=lVQ-2Tkj 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8860.JPG?itok=RoQy9M0Q 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.JPG?itok=16ruGBkQ" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.webp?itok=tho9AKuk 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8860.webp?itok=Gr15vBcv 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8860.webp?itok=zMdE-hIv 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.JPG?itok=tho9AKuk 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/DSCF8860.JPG?itok=Gr15vBcv 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/DSCF8860.JPG?itok=zMdE-hIv 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/DSCF8860.JPG?itok=tho9AKuk" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -794,13 +794,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=PshMw4CA 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=7zV4DOoQ 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=dz45XNn- 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=PshMw4CA 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=7zV4DOoQ 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=dz45XNn- 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=PshMw4CA" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=43B3sYeu 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=lUa3x31j 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=iZVyuwax 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=43B3sYeu 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=lUa3x31j 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=iZVyuwax 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-04/ezgif.com-gif-maker%20%2821%29.gif?itok=43B3sYeu" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -835,13 +835,13 @@ Brands are learning to flex their voice and speak to customers as individuals ba
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PzJ1A0z_ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=_bpxboia 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=p45Xxo5h 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PzJ1A0z_ 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=_bpxboia 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=p45Xxo5h 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PzJ1A0z_" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PZ4RKYL5 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=O23g4Wos 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=WLGkJtyp 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PZ4RKYL5 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=O23g4Wos 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=WLGkJtyp 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-03/Evri%20Letters%20Only%20Slow-high.gif?itok=PZ4RKYL5" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

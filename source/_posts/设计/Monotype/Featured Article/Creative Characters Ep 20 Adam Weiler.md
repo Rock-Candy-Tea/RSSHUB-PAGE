@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=XcFM0Z0R'
+headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH'
 author: Monotype
 comments: false
 date: Mon, 06 Dec 2021 23:48:34 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=XcFM0Z0R'
+thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH'
 ---
 
 <div>   
@@ -232,13 +232,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.webp?itok=XcFM0Z0R 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.webp?itok=IJEwXheA 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.webp?itok=qVcgse1O 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=XcFM0Z0R 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.png?itok=IJEwXheA 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.png?itok=qVcgse1O 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=XcFM0Z0R" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.webp?itok=NgRpKTvH 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.webp?itok=6i8-h70n 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.webp?itok=ooR-U5Kt 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.png?itok=6i8-h70n 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.png?itok=ooR-U5Kt 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

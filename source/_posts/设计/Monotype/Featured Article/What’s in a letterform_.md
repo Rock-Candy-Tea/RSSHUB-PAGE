@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=wtMRbm3l'
+headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=sd4_McIA'
 author: Monotype
 comments: false
 date: Wed, 11 Mar 2020 16:02:04 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=wtMRbm3l'
+thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=sd4_McIA'
 ---
 
 <div>   
@@ -197,13 +197,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=wtMRbm3l 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=r4_4I16k 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=CrcTsnKW 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=wtMRbm3l 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=r4_4I16k 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=CrcTsnKW 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=wtMRbm3l" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=sd4_McIA 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=0zZ5u8Ke 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=XQF13Ykx 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=sd4_McIA 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=0zZ5u8Ke 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=XQF13Ykx 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.jpg?itok=sd4_McIA" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

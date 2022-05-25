@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=BvmoAA95'
+headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=ysES0_UK'
 author: Monotype
 comments: false
 date: Wed, 06 Apr 2022 18:31:16 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=BvmoAA95'
+thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=ysES0_UK'
 ---
 
 <div>   
@@ -210,26 +210,26 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.webp?itok=BvmoAA95 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets_106_152.webp?itok=RKeBES4s 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets_106_152.webp?itok=-qvCrcYb 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=BvmoAA95 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets_106_152.png?itok=RKeBES4s 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets_106_152.png?itok=-qvCrcYb 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=BvmoAA95" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.webp?itok=ysES0_UK 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets_106_152.webp?itok=KQh7KCJl 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets_106_152.webp?itok=CAzI41Zb 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=ysES0_UK 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets_106_152.png?itok=KQh7KCJl 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets_106_152.png?itok=CAzI41Zb 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets_106_152.png?itok=ysES0_UK" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.webp?itok=7OnTvBDQ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets3_117_127.webp?itok=tZ7x-AuC 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets3_117_127.webp?itok=PXU4-0MT 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.png?itok=7OnTvBDQ 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets3_117_127.png?itok=tZ7x-AuC 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets3_117_127.png?itok=PXU4-0MT 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.png?itok=7OnTvBDQ" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.webp?itok=5nLTpYCn 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets3_117_127.webp?itok=G1XTZCNj 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets3_117_127.webp?itok=dIWP96QB 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.png?itok=5nLTpYCn 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Lutze%20Assets3_117_127.png?itok=G1XTZCNj 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Lutze%20Assets3_117_127.png?itok=dIWP96QB 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Lutze%20Assets3_117_127.png?itok=5nLTpYCn" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -285,26 +285,26 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=IlicFjVI 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=ZM-c0SYT 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=PBL53UYn 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=IlicFjVI 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=ZM-c0SYT 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=PBL53UYn 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=IlicFjVI" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=2KUekuUs 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=lYk5udF_ 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.webp?itok=CI1_668Y 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=2KUekuUs 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=lYk5udF_ 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=CI1_668Y 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.52%20PM_149_120.png?itok=2KUekuUs" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=B8SfdoU3 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=lF_CkYDJ 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=N5NpykrS 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=B8SfdoU3 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=lF_CkYDJ 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=N5NpykrS 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=B8SfdoU3" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=daKm-ksK 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=4kKNqtAJ 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.webp?itok=5zpTPbLM 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=daKm-ksK 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=4kKNqtAJ 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=5zpTPbLM 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/Screen%20Shot%202022-04-06%20at%2012.05.31%20PM_184_171.png?itok=daKm-ksK" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
