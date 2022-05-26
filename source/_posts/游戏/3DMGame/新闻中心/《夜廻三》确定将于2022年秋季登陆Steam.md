@@ -17,13 +17,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220526/1653535929_5197
 NIS 美国宣布，将于今年秋季为 PlayStation 4、Switch （仅限欧美）和 PC Steam 商店发布生存<a target="_blank" href="https://www.3dmgame.com/tag/kongbu_1/">恐怖</a>游戏《夜廻三》。国际版名为《夜廻：黑暗迷失（Yomawari: Lost in the Dark）》。游戏发售时将仅支持日文语音和英文字幕。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220526/1653535929_519795.jpg" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220526/1653535929_519795.jpg" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《夜廻三》最早于 2022 年 4 月 21 日在日本推出了 PS4 和 Switch 版本。PC 版于近日公布。目前游戏的 Steam 商店已经上线。
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;"><span style="color:#E56600;">Steam商店页面：</span><a href="https://store.steampowered.com/app/1998330/Yomawari_Lost_in_the_Dark/" target="_blank">点击这里</a></span></strong>
+<strong><span style="font-size:16px;"><span style="color:#E56600;">Steam商店页面：</span><a href="https://store.steampowered.com/app/1998330/Yomawari_Lost_in_the_Dark/" target="_blank">点击这里</a></span></strong> 
 </p>
 <h3>
 游戏介绍：
@@ -50,22 +50,22 @@ NIS 美国宣布，将于今年秋季为 PlayStation 4、Switch （仅限欧美�
 游戏截图：
 </h3>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_0fada7c5eb0c0586015e16cbf95aef802e660f62.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_0fada7c5eb0c0586015e16cbf95aef802e660f62.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_bc7376c597d04905de787c86de3f635706fcce14.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_bc7376c597d04905de787c86de3f635706fcce14.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_23808d1b9ad7ac2f2353c2f8520620278bfa0d99.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_23808d1b9ad7ac2f2353c2f8520620278bfa0d99.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_392321570aa220721f019885b018c1da4d9c497e.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_392321570aa220721f019885b018c1da4d9c497e.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_e4fb642be10459661c70171a3bfd2c268201bf41.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_e4fb642be10459661c70171a3bfd2c268201bf41.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_467944cae4e368c753c2716ae47cbde5559896a9.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer">
+<img src="https://media.st.dl.pinyuncloud.com/steam/apps/1998330/ss_467944cae4e368c753c2716ae47cbde5559896a9.1920x1080.jpg?t=1653499372" alt="《夜廻三》确定将于2022年秋季登陆Steam" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
