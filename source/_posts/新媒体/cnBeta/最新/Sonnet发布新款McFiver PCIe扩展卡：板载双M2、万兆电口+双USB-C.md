@@ -1,0 +1,19 @@
+
+---
+title: 'Sonnet发布新款McFiver PCIe扩展卡：板载双M.2、万兆电口+双USB-C'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0526/67237c65c2f05c4.jpeg'
+author: cnBeta
+comments: false
+date: Thu, 26 May 2022 07:09:06 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0526/67237c65c2f05c4.jpeg'
+---
+
+<div>   
+Sonnet Technologies 刚刚推出了新款 McFiver PCIe 扩展卡，<strong>尽管高度仅占据了一个挡板位，但它还是别出心裁了提供了两个 M.2 NVMe SSD 插槽、且在背板接口上提供了万兆（10GbE）以太网 + 两个 10Gbps 的 USB-C 端口。</strong>通过 x8 的 PCIe 插槽，新款 McFiver 扩展卡不仅兼容 Mac、Windows、Linux 平台，还支持雷电转 PCIe 的扩展系统。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0526/67237c65c2f05c4.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/67237c65c2f05c4.jpeg" alt="0.jpeg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：Sonnet <a href="https://www.sonnettech.com/product/mcfiver-pcie-card" target="_self">官网</a>）</p><p>首先，McFiver 的固态安装位支持单面或双面 M.2 NVMe <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,677,11303" target="_blank">SSD</a>（需另行购买）。以市面上能够买到的单盘 8TB 为例，双盘即可组成 16TB（支持 RAID 阵列）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/3aaa2ad27d54ce6.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/3aaa2ad27d54ce6.png" alt="1.png" referrerpolicy="no-referrer"></a></p><p>为保持长久高速运行，Sonnet 不仅为 McFiver 配备了厚实的板载 SSD 散热片，挡板上还有密集的通风圆孔，而万兆电口与两个 10Gbps USB-C 端口并不那么占地方。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/259b4ff1c2fd72e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/259b4ff1c2fd72e.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p>对于广大创作者来说，无论是从板载存储、外部驱动器的移入 / 移出、还是通过网络来访问，快速移动文件的能力，都可极大地提升其生产力。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/308e532d906d064.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/308e532d906d064.jpeg" alt="3.jpeg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">板载 M.2 NVMe SSD 供电模块采用了可隔离故障的单独分区设计</p><p>尽管市面上也有单独的适配卡可供选择，但某些系统的扩展插槽可能并没有那么富余。而这，就是 Sonnet McFiver PCIe 扩展卡能够大放异彩的地方。</p><p><img src="https://static.cnbetacdn.com/article/2022/0526/69b216a7056710b.png" alt="4.png" referrerpolicy="no-referrer"></p><p>除了全面兼容主流平台，这款 PCIe 扩展卡还无需为 M.2 NVMe SSD、10G BASE-T 以太网和 3.2 Gen 2 USB-C 提供辅助供电。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/60dd45f03ce7c88.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/60dd45f03ce7c88.png" alt="5.png" referrerpolicy="no-referrer"></a></p><p>得益于板载的 x8 PCIe 3.0 桥接芯片（兼容 PCIe 3.0 / 4.0 系统），该卡还无需绑定特殊的 SSD 或主板，即可轻松体验各项功能。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/f2fcfb44b23d1b4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/f2fcfb44b23d1b4.jpg" alt="7.jpg" referrerpolicy="no-referrer"></a></p><p>板载 SSD 的理论读速可达 3400 MB/s，若选择 RAID 0 阵列模式，更是可以达到 6600 MB/s 。而背板上的 RJ45 万兆电口，则可通过 Cat 6 / 6A 铜缆网线，实现 55 / 100 米的高速连接。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/6e2fac1c3021aec.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/6e2fac1c3021aec.jpg" alt="8.jpg" referrerpolicy="no-referrer"></a></p><p>如果搭配多千兆交换机（5 或 2.5 GbE）一起使用，则可通过超五类（Cat 5e）及以上的网线，实现长达百米的高速数据传输。</p><p><a href="https://static.cnbetacdn.com/article/2022/0526/0640c06a26541d2.jpeg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0526/0640c06a26541d2.jpeg" alt="9.jpeg" referrerpolicy="no-referrer"></a></p><p>最后，Sonnet McFiver PCIe 扩展卡（部件号 G10-USBC-M2-E）将于 6 月第二周上市，建议零售价为 399.99 美元（约合 2693 RMB）。</p>   
+</div>
+            

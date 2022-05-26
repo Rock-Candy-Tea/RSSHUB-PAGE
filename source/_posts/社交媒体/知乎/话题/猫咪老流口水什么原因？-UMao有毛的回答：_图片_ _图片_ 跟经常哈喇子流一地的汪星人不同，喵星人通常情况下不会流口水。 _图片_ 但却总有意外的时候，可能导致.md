@@ -1,0 +1,18 @@
+
+---
+title: '猫咪老流口水什么原因？-UMao有毛的回答：_图片_ _图片_ 跟经常哈喇子流一地的汪星人不同，喵星人通常情况下不会流口水。 _图片_ 但却总有意外的时候，可能导致...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-41abbea4de1be769477715495a3088b6_1440w.jpg'
+author: 知乎
+comments: false
+date: Thu, 26 May 2022 06:54:06 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-41abbea4de1be769477715495a3088b6_1440w.jpg'
+---
+
+<div>   
+<strong>猫咪老流口水什么原因？</strong><br>UMao有毛的回答<br><p></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-41abbea4de1be769477715495a3088b6_1440w.jpg" data-size="normal" data-rawwidth="640" data-rawheight="262" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-41abbea4de1be769477715495a3088b6_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure><figure data-size="small"><img src="https://pic3.zhimg.com/v2-a4dd98649fd1e62fdfbd686bc022c3ce_1440w.jpg" data-size="small" data-rawwidth="1080" data-rawheight="608" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a4dd98649fd1e62fdfbd686bc022c3ce_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure><p data-pid="uXzOMGyt">跟经常哈喇子流一地的汪星人不同，喵星人通常情况下不会流口水。</p><figure data-size="small"><img src="https://pic2.zhimg.com/v2-d6168fcecad80f73ce83b0f46dc91429_1440w.jpg" data-size="small" data-rawwidth="1080" data-rawheight="669" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d6168fcecad80f73ce83b0f46dc91429_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure><p data-pid="SPALq4ul">但却总有意外的时候，可能导致猫咪流口水的原因有很多，基本可以分为三个类型：</p><p data-pid="pLAGaPM1"><b>1</b>  炎症、疼痛或无法吞咽的疾病</p><p data-pid="pHLOtl2j"><b> 2  </b>用口水“清理”口腔中的不适感</p><p data-pid="Z1j-88EY"><b> 3  </b>情绪波动大，受外界刺激强烈</p><p data-pid="f97uh-8Q">今天毛毛就跟大家聊一下猫咪流口水的几个常见原因！</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-79e0048b64bc38a2fbbe4ed46422b6ba_1440w.jpg" data-size="normal" data-rawwidth="1004" data-rawheight="8556" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-79e0048b64bc38a2fbbe4ed46422b6ba_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-73845b4b15c2b53679786b5ae15f0148_1440w.jpg" data-size="normal" data-rawwidth="1004" data-rawheight="6347" data-qrcode-action="none" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-73845b4b15c2b53679786b5ae15f0148_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure><p data-pid="DQFm28Bq">大多数情况下，猫咪流口水都是间歇性的少量唾液，如果猫咪过度流口水，最好尽快就医检查，因为其中一些病因可能非常严重，早发现早治疗总是最好的。</p><p data-pid="_k1B7mPk"><b>有毛讨论 </b></p><p data-pid="PEIthf7C">最后</p><p data-pid="4_hGICgc">你家小猫咪流过口水吗</p><p data-pid="YFYr7qI6">是什么原因呢</p><p data-pid="6z45cIf-">评论区里说说吧</p><p class="ztext-empty-paragraph"><br></p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-d37c3e8d63c7fdcc7dcece29ce8db2ba_1440w.jpg" data-size="small" data-rawwidth="1080" data-rawheight="1083" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-d37c3e8d63c7fdcc7dcece29ce8db2ba_r.jpg" referrerpolicy="no-referrer"><figcaption>毛：你在吃什么？吧唧吧唧 </figcaption></figure><p class="ztext-empty-paragraph"><br></p><b><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a582eae674352c1f14492a69316a6600_1440w.jpg" data-size="normal" data-rawwidth="1080" data-rawheight="66" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a582eae674352c1f14492a69316a6600_r.jpg" referrerpolicy="no-referrer"><figcaption> </figcaption></figure></b><p class="ztext-empty-paragraph"><br></p><p data-pid="J0RwTO1Q">图文均为UMao有毛原创</p><p data-pid="qvqC2jw6">转载请后台召唤有毛君</p>  
+</div>
+            
