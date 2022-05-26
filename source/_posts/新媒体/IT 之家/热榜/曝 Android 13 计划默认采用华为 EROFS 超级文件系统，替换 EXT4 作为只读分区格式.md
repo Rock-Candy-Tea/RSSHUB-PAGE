@@ -1,0 +1,20 @@
+
+---
+title: '曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/5/98808b40-0e8a-41c5-9e7a-8b3df16935f6.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_9,x_22,y_22,a_0,t_100'
+author: IT 之家
+comments: false
+date: Wed, 25 May 2022 08:23:14 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/5/98808b40-0e8a-41c5-9e7a-8b3df16935f6.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_9,x_22,y_22,a_0,t_100'
+---
+
+<div>   
+<p data-vmark="9137"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 5 月 25 日消息，根据 Esper 的 Mishaal Rahman 发现的信息，<span class="accentTextColor">Android 13 正计划采用华为 EROFS 超级文件系统作为只读分区的默认文件系统</span>。Mishaal Rahman 在 Android 系统新功能的爆料方面非常可靠。</p><p data-vmark="a8b0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/98808b40-0e8a-41c5-9e7a-8b3df16935f6.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_9,x_22,y_22,a_0,t_100" w="1440" h="707" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" width="1440" height="403" referrerpolicy="no-referrer"></p><p data-vmark="48c4">EROFS 超级文件系统是华为推出的文件系统，旨在为只读文件提供比其他只读 Linux 文件系统实现更好的性能以及存储 / 压缩。华为在其智能手机中使用 EROFS 超级文件系统，在专利压缩算法的加持下，经过华为实测，能够使得系统分区随机读取性能平均提升 20%，并减少 14% 系统空间占用。</p><p data-vmark="858a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2019/11/20191128_151710_127.jpg" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" referrerpolicy="no-referrer"></p><p data-vmark="6b90" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2019/11/20191128_151717_580.jpg" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" referrerpolicy="no-referrer"></p><p data-vmark="5f85">据 Mishaal Rahman 爆料，<span class="accentTextColor">谷歌计划对 Android 13 启动设备的所有只读分区强制使用 EROFS</span>。自去年 12 月左右以来，谷歌已公开表示其意图，因此有可能看到这一举措即将到来。</p><p data-vmark="0e19">早在去年 12 月，一位谷歌工程师在实施新的 system_dlkm 分区时重复了一位同事告诉他的有关 Android 即将出现的文件系统要求，该分区为系统分区保存可动态加载的内核模块。据他介绍，system_dlkm 分区的文件系统应该是 EROFS 而不是 EXT4。</p><p data-vmark="ffc7">上个月的 AOSP 补丁增加了对使用 EROFS 构建 GSI 的支持，称“<span class="accentTextColor">EROFS 计划取代…… EXT4 作为只读分区的文件系统格式</span>。”</p><p data-vmark="bbc6" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/70619d8b-2ecd-43aa-b41e-07623b3b9696.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE5My5wbmc=,g_9,x_19,y_19,a_0,t_100" w="1252" h="663" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" width="1252" height="434" referrerpolicy="no-referrer"></p><p data-vmark="9e0c">更加明显的证据是，最新 Android 13 测试版中的 PackageManager 包括两个新功能声明：</p><pre class="brush:javascript;toolbar:false">android.software.erofs
+android.software.erofs_legacy</pre><p data-vmark="c172" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/73c4a01b-c740-45d8-825c-f09de20b946a.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExOC5wbmc=,g_3,x_12,y_12,a_0,t_100" w="767" h="102" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" width="767" height="102" referrerpolicy="no-referrer"></p><p data-vmark="4989">这些功能声明尚未出现在 AOSP 中，不过 Pixel 6 Pro 的内核是在支持 EROFS 的情况下编译的，目前还没有使用 EROFS 作为分区格式。</p><p data-vmark="c1bf" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/5/1e631258-4933-41d6-bfb6-fc1b2fcfeebf.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1NC5wbmc=,g_3,x_15,y_15,a_0,t_100" w="998" h="369" title="曝 Android 13 计划默认采用华为 EROFS 超级文件系统，替换 EXT4 作为只读分区格式" width="998" height="303" referrerpolicy="no-referrer"></p><p data-vmark="9829">IT之家了解到，Linux 内核 5.4 已经正式将华为 EROFS 超级文件系统合并到了主线，OPPO、小米的一些新设备也已经用上了 EROFS。</p>
+          
+</div>
+            
