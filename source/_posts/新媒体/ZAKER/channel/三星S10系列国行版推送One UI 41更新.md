@@ -1,0 +1,18 @@
+
+---
+title: '三星S10系列国行版推送One UI 4.1更新'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e023_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 25 May 2022 16:41:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e023_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 25 日消息，据网友反馈，近期，三星 S10 系列国行版开始推送 One UI 4.1 更新。三星日志称，One Ul 4.1 为你带来 Galaxy 设备的最新功能。比以往更直观、更有趣、更安全、更便捷。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e023_1024.jpg" data-height="1520" data-width="720" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e023_1024.jpg" referrerpolicy="no-referrer"></div></div>具体更新内容如下：<p></p><p>相册</p><p><strong>添加了人像效果</strong></p><p>现在你可以在任何带有人物的照片中添加虚化调节。</p><p><strong>将不必要的动态照片转换为静止照片</strong></p><p>将动态照片转换为静止照片可以节省存储空间。相册会建议一些无需保持动态的照片，如文件。</p><p><strong>以链接形式分享相册</strong></p><p>无需再单独邀请他人加入分享的相册。只需创建一个可以与任何人 ( 即使没有三星帐户或 Galaxy 设备 ) 分享的链接。</p><p><strong>你的所有邀请集中于一处</strong></p><p>即使错过通知，你也可以轻松接受分享的相册邀请。你尚未回应的邀请将显示在分享的相册列表的顶部。</p><p><strong>创建延时视频</strong></p><p>将照片转换为鲜活的 24 小时延时视频。拍摄风景图片 ( 包括天空、水 流、山脉或城市 ) 时，将会出现一个按钮。延时视频看起来像是经历了一整天。</p><p>AR 区</p><p>在增强现实中，以全新的方式表达自己。创建你自己的表情符号、贴纸、涂鸦等。</p><p><strong>面具模式下的背景颜色</strong></p><p>将动态萌拍用作面具时，可以将关注点集中在它上面。从各种颜色中选择你的背景颜色。</p><p><strong>智能小组件</strong></p><p>主屏幕小组件更加智能。你只需选择自己想要的小组件，剩下的就交给 Galaxy 吧。</p><p><strong>将小组件组合在一起</strong></p><p>你可以将多个小组件组合到一个智能小组件中，从而节省主屏幕上的空间。向左或向右滑动可滚动浏览小组件，你也可以将其设置为自动切换，从而根据你的活动显示最相关的信息。</p><p>三星健康</p><p>最新版本的三星健康提供更深入的健康分析，并增强了锻炼追踪。</p><p><strong>获得你的身体成分健康分析</strong></p><p>设定你的体重、 体脂百分比和骨骼肌含量目标。你将获得提示，助你实现目标。</p><p><strong>养成良好的睡眠习惯</strong></p><p>追踪你的睡眠情况，并根据你的睡眠模式提供指导。</p><p><strong>增强了锻炼追踪</strong></p><p>你可以在开始跑步或骑自行车之前在 Galaxy Watch4 上设置间隔训练目标。完成后，你将在手机上收到一份报告。你的手表还可以提供有关跑步时的汗液流失情况和有 氧运动时心率恢复的信息。</p><p>S 换机助手</p><p>可以将旧手机或平板电脑上的联系人、 照片、信息和设置传输到新的 Galaxy 设备。One Ul 4.1 可以让你比以往传输更多内容。</p><p><strong>更多传输选项</strong></p><p>将内容传输到新 Galaxy 时，你有 3 种选择。你可以选择传输所有内 容，或者仅传输你的帐户、联系人、 通话记录和信息，或者通过自定义 准确选择你要传输的内容。</p><p>分享</p><p>One Ul 4.1 为你提供更多与他人分享的方式。</p><p><strong>分享你的 WLAN 网络</strong></p><p>你可以使用 S 互传功能与其他人分享你当前的 WLAN 网络。你与之分享的个人无需输入密码即可自动连接你的网 络。</p><p><strong>与其他人分享提示</strong></p><p>在提示应用程序中发现有用内容 ? 点击分享图标将其发送给朋友。</p><p>更多功能和改进</p><p><strong>调色板</strong></p><p>根据你的壁纸，使用独特颜色自定义你的手机。你自定义的调色板现在可出现在更多应用程序中。</p><p><strong>在日历中添加表情符号</strong></p><p>除了贴纸，你现在还可以在日历的日期中添加表情符号来表达自己的感受。</p><p><strong>自定义你的声音平衡</strong></p><p>在辅助功能设置中，你可以分开调整连接设备 ( 如扬声器或耳机 ) 的左 / 右声音平衡和手机扬声器的声音平衡。这可以让你的耳机声音实现完美的平衡，同时也不会影响铃声和扬声器的声音。</p><p><strong>浏览时快速做笔记</strong></p><p>你可以使用三星笔记的新剪切选项来追踪内容来源。使用快捷面板或任务侧屏幕面板创建笔记时，你可以添加三星浏览器或相册中的内容。</p><p><strong>Bixby 日常程序的新操作</strong></p><p>你现在可以创建更改表盘或打开高级设置 ( 如保护电池 ) 的日常程序。</p><p><strong>自定义虚拟内存</strong></p><p>你可以在设备维护使用 RAM Plus 选择手机虚拟内存的大小。选择更多 内存可提高性能，选择更少内存可节省存储空间。</p><p><strong>游戏优化服务</strong></p><p>游戏初始时不限制 CPU / GPU 性能。（基于设备温度来维护性能管理功能。 ) 在游戏助推器中提供了 " 备用游戏性能管理模式 "。允许第三方应用程序绕开游戏优化服务。</p><p>一些应用程序需要在 One Ul 4.1 更新后单独更新。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e024_1024.jpg" data-height="5040" data-width="648" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/628e3f7c8e9f096cbc03e024_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
