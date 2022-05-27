@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/b3281ef690425b05e0280243671gidp5.JPG?v=1653644226826'
 author: 巴哈姆特
 comments: false
-date: 2022-05-27 12:19:08
+date: 2022-05-27 13:32:09
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/b3281ef690425b05e0280243671gidp5.JPG?v=1653644226826'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/b3281ef690425b05e0280243671gidp5.
 <div>
 <div>
 <div>
-　　寧意科技今（27）日宣布，即將於 6 月 9 日推出的《戰意》（Conqueror’s Blade）最新賽季「怒潮」將加入兩大維京傳奇掠奪者「海姆達爾禁衛」與「瓦蘭吉衛隊」，今日釋出相關介紹資訊和兵團宣傳影片。</div>
+　　寧意科技今（27）日宣布，即將於 6 月 9 日推出的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E6%84%8F" target="_blank">戰意</a>》（Conqueror’s Blade）最新賽季「怒潮」將加入兩大維京傳奇掠奪者「海姆達爾禁衛」與「瓦蘭吉衛隊」，今日釋出相關介紹資訊和兵團宣傳影片。</div>
 <div>
  </div>
 <div>
