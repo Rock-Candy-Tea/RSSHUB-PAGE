@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2815'
+headimg: 'https://picsum.photos/400/300?random=8900'
 author: 开源中国
 comments: false
-date: Thu, 26 May 2022 23:45:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2815'
+date: Fri, 27 May 2022 07:45:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8900'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Android Studio 是 Android 开发的官方 IDE，包括构建 Android 应用程序所需的一切。半个月前 Android 团队发布了 Android Studio Chipmunk 的稳定版本，解决了超过 175 个问题。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Android Studio 是 Android 开发的官方 IDE，包括构建 Android 应用程序所需的一切。半个月前 Android 团队发布了 Android Studio Chipmunk 的稳定版本，解决了超过 175 个问题。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">近日 Android Studio Chipmunk 发布了首个补丁更新，你可以通过点击帮助 > 检查更新（Android Studio > macOS 上检查更新）来获得更新。</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">常规修复和功能</h3> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>Android App Bundles</strong></p> 

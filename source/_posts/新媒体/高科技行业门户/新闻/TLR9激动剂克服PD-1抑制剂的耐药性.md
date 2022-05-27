@@ -1,0 +1,19 @@
+
+---
+title: 'TLR9激动剂克服PD-1抑制剂的耐药性'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46893/202205/wx_article__6a2256e778995899320f6d5a42c0ff5a.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 27 May 2022 02:37:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46893/202205/wx_article__6a2256e778995899320f6d5a42c0ff5a.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">模式识别受体（PRRs）是启动和维持天然免疫的核心分子，PRRs主要包括TLRs、RGR家族和cGAS－STING等。他们检测局部感染和／或组织损伤，从而防止全身感染，监视恶性细胞产生。在癌症患者中，对PD－1抑制剂产生积极响应的那些CD8＋T细胞浸润并表达干扰素反应信号（如PD－L1）的肿瘤，I型干扰素反应对诱导抗肿瘤免疫至关重要。</p><p style="text-indent: 2em; text-align: left;">对病毒感染产生I型干扰素的主要天然免疫细胞是浆细胞样树突状细胞（pDC），其表达Toll样受体7（TLR7）和TLR9，并且经常以失活状态存在于肿瘤中。TLR7可被大多数RNA序列激活，而TLR9则被非甲基化CpG二核苷酸特异性激活，肿瘤内注射TLR激动剂可诱导干扰素反应信号和抗肿瘤CD8＋T细胞，从而改善对PD－1抑制剂的耐药。因此，将TLR9激动剂与经批准的PD－1阻断疗法相结合是靶向癌症免疫逃避的有效方法。</p><p style="text-indent: 2em; text-align: left;">CpG－A、CpG－B和CpG－C寡核苷酸是三大类TLR9激动剂，它们的分子结构、体内运输、下游TLR－9信号传导和pDC激活模式不同。CpG－A寡核苷酸诱导pDC分化能力最强，其主要负责I型干扰素应答。Vidutolimod（CMP－001）是一种CpG－a寡核苷酸，包装在由噬菌体外壳蛋白Qβ形成的病毒样颗粒内。在临床前研究中，瘤内注射Vidutolimod已证明可诱导局部肿瘤消退，并限制了非靶向毒性。</p><p style="text-indent: 2em; text-align: left;">在最近公布的一项1b期临床研究（NCT02680184）中，评估了肿瘤内注射Vidutolimod联合pembrolizumab的疗效和安全性，显示出克服晚期黑色素瘤患者的PD－1抑制剂耐药性的潜力。</p><p style="text-indent: 2em; text-align: left;">在本研究的剂量递增阶段，有44名曾接受抗PD－1治疗的晚期黑色素瘤患者入组。44名患者中有11名（25％；95％ CI，13％–40％）在使用RECIST v1．1的疗效评估标准进行评估时获得部分响应（PR）或完全响应（CR），其中4名CR，7名PR。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46893/202205/wx_article__6a2256e778995899320f6d5a42c0ff5a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在有响应的患者中，每个受试者的平均反应持续时间（DOR）为19．5个月，包括5例反应＞23个月的患者。中位缓解时间为2．5个月，中位无进展生存期（PFS）为2．8个月（95％ CI， 2．7－5．4）。</p><p style="text-indent: 2em; text-align: left;">CXCL10是一种I型干扰素诱导的趋化因子，介导T细胞迁移，是TLR9诱导体内pDC激活的主要药效学标志物。在第一次注射Vidutolimod后，血清CXCL10水平没有显著增加。然而，CXCL10水平在第三次和随后的Vidutolimod注射后2小时即升高，并在24小时达到峰值。此外，相比IL－6水平，在CR／PR／SD患者与PD患者中观察到CXCL10血清水平升高的趋势。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46893/202205/wx_article__23c7f24f2c6351c338ac30165e5aac60.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此外，PD和PR患者的基线和治疗后肿瘤活检显示，与基线相比，PR患者的CD8＋T细胞浸润、PD－L1表达和干扰素－γ相关基因的表达增加。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46893/202205/wx_article__2acd37aeaae2ff2bfeb34182ba239639.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">安全性方面，两名患者因TRAEs停止治疗，两名患者因PD相关不良事件停止治疗。最常见的TRAEs（≥25％） 为流感样症状、低血压、注射部位疼痛和关节痛，这些都是模式识别受体激活的预期副作用。最常报告的3／4级TRAE是低血压（16％，n＝7）。不良事件或TRAE的严重程度和发生率没有明显的剂量关系。</p><p style="text-indent: 2em; text-align: left;">目前，除了Vidutolimod外，还有几个TLR9激动剂处于在研阶段。</p><p style="text-indent: 2em; text-align: left;">Tilsotolimod是另外一个非常有希望的TLR9激动剂，由Idera Pharmaceuticals开发，获得了美国FDA的快速通道，联合Ipilimumab用于治疗抗PD－1抗体难治性黑色素瘤，以及孤儿药物资格指定用于治疗IIb－IV期黑色素瘤。在I／II期临床试验中，客观应答率（ORR）为22％，疾病控制率为71％，中位总生存期（OS）为21个月。目前处于黑色素瘤的关键3期临床（NCT03445533）阶段。</p><p style="text-indent: 2em; text-align: left;">D－101是另一个TLR9激动剂，在黑色素瘤和头颈部鳞癌（NCT02521870）、淋巴瘤（NCT02266147）中都进行了临床研究，显示增加了肿瘤浸润淋巴细胞数量。目前主要和免疫检查点抑制剂联用，处于临床2期阶段。</p><p style="text-indent: 2em; text-align: left;">此外，还有MGN1703，是由Mologen AG研发的TLR9激动剂，目前招募的临床包括HIV和晚期实体瘤。PF－3512676是Pfizer在10多年前开发的TLR9B型激动剂，但是因为III期试验阴性结果，已经终止开发。</p><p style="text-indent: 2em; text-align: left;">与SD－101和tilsotolimod相比，vidutolimod是一种CpG－A寡脱氧核苷酸，可诱导pDC分化的独特模式，导致I型干扰素分泌量更大，并在体外对CD4＋和CD8＋T细胞产生更大的刺激。将抗PD－1药物与TLR9激动剂联合使用至关重要，TLRs激动剂激活天然免疫，是适应性免疫活化的基石，因而他们具有联合PD－1治疗的天然属性。此外，TLRs激动剂全身使用，可能会导致全身炎症，产生不良的治疗相关副作用，因而目前临床开发的重点是局部瘤内注射，将炎症局限在肿瘤局部。</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : TLR9激动剂克服PD-1抑制剂的耐药性</span></p> 
+  
+</div>
+            

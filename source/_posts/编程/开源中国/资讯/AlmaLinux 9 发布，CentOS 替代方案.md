@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-91e9330d365a4321fd716b3ccd7dcd74728.png'
 author: 开源中国
 comments: false
-date: Thu, 26 May 2022 23:52:00 GMT
+date: Fri, 27 May 2022 07:52:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-91e9330d365a4321fd716b3ccd7dcd74728.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>AlmaLinux 9  已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Falmalinux.org%2Fblog%2Falmalinux-9-now-available%2F" target="_blank">发布</a>，代号 "Emerald Puma"。</p> 
+                                                                                            <p>AlmaLinux 9  已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Falmalinux.org%2Fblog%2Falmalinux-9-now-available%2F" target="_blank">发布</a>，代号 "Emerald Puma"。</p> 
 <blockquote> 
  <p><span style="color:#333333">AlmaLinux 是开放源码的、社区驱动的项目，它从红帽企业版 Linux (RHEL) 的源码编译而来。AlmaLinux 跟 RHEL 8 完全在二进制上兼容，它由 CloudLinux OS 的创建者打造。AlmaLinux 团队承诺永久免费提供 AlmaLinux 操作系统，项目永久开源且不采取任何限制，不收取任何费用，支持至 2029 年。</span></p> 
 </blockquote> 

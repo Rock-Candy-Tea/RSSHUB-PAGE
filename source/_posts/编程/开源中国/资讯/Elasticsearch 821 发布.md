@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9860'
+headimg: 'https://picsum.photos/400/300?random=9057'
 author: 开源中国
 comments: false
 date: Fri, 27 May 2022 07:31:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9860'
+thumbnail: 'https://picsum.photos/400/300?random=9057'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 基于 Java 开发，并在 SSPL + Elastic License 双重授权许可下作为开源软件发布。</p> 
+                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 基于 Java 开发，并在 SSPL + Elastic License 双重授权许可下作为开源软件发布。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">Elasticsearch 8.2.1 现已发布，该版本更新内容如下：</p> 
 <h4><strong>Bug fixes</strong></h4> 
 <p><strong>Aggregations</strong></p> 

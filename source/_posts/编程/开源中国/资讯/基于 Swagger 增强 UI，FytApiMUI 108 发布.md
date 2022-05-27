@@ -14,8 +14,7 @@ thumbnail: 'https://gitee.com/feiyit/fytapi.mui/raw/master/image/up-0526.gif'
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="background-color:#ffffff; color:#333333">FytApi.MUI  支持 netcore 3.1/5.0/6.0</span></p> 
+                                                                                            <p><span style="background-color:#ffffff; color:#333333">FytApi.MUI  支持 netcore 3.1/5.0/6.0</span></p> 
 <h4 style="margin-left:0; margin-right:0; text-align:left">更新内容</h4> 
 <blockquote> 
  <p style="margin-left:0px; margin-right:0px; text-align:left">【新增】返回值Jsno示例，支持多层级嵌套</p> 

@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9693'
+headimg: 'https://picsum.photos/400/300?random=7930'
 author: 开源中国
 comments: false
 date: Fri, 27 May 2022 07:40:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9693'
+thumbnail: 'https://picsum.photos/400/300?random=7930'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.mybatis.org%2F2022%2F05%2Fmybatis-3510-released.html" target="_blank">MyBatis 3.5.10 已发布</a>，MyBatis 的前身为 iBatis，是一个数据持久层（ORM）框架，它提供的持久层能力包括 SQL Maps 和 Data Access Objects（DAO）。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.mybatis.org%2F2022%2F05%2Fmybatis-3510-released.html" target="_blank">MyBatis 3.5.10 已发布</a>，MyBatis 的前身为 iBatis，是一个数据持久层（ORM）框架，它提供的持久层能力包括 SQL Maps 和 Data Access Objects（DAO）。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>主要变化</strong></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><span style="color:#222222">Bugfix</span></p> 
 <ul style="margin-left:0; margin-right:0"> 

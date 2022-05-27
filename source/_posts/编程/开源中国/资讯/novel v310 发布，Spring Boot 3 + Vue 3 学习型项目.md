@@ -8,14 +8,13 @@ categories:
 headimg: 'https://s3.ax1x.com/2020/12/27/r5400A.png'
 author: 开源中国
 comments: false
-date: Fri, 27 May 2022 00:22:00 GMT
+date: Fri, 27 May 2022 08:22:00 GMT
 thumbnail: 'https://s3.ax1x.com/2020/12/27/r5400A.png'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#222222; margin-left:0; margin-right:0; text-align:justify"><span style="background-color:#ffffff">novel v3.1.0 发布，主要改变如下：</span></p> 
+                                                                                            <p style="color:#222222; margin-left:0; margin-right:0; text-align:justify"><span style="background-color:#ffffff">novel v3.1.0 发布，主要改变如下：</span></p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li> <p style="margin-left:0; margin-right:0"><span style="color:#ce7f2d"><strong>[架构]</strong></span><span style="color:#222222"> 集成 Elasticsearch 8.2.0，实现小说全文高级搜索</span></p> </li> 
  <li> <p style="margin-left:0; margin-right:0"><span style="color:#ce7f2d"><strong>[架构]</strong></span><span style="color:#222222"><span> </span>集成 Spring AMQP，使用 RabbitMQ 刷新小说副本数据</span></p> </li> 

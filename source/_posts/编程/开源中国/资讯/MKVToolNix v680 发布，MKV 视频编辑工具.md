@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4493'
+headimg: 'https://picsum.photos/400/300?random=5908'
 author: 开源中国
 comments: false
 date: Fri, 27 May 2022 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4493'
+thumbnail: 'https://picsum.photos/400/300?random=5908'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MKVToolNix 是一套功能强大的 mkv(Matroska)格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>MKVToolNix v68 版本中的大量工作是将 GUI 中的图标替换为可扩展的版本（使用 SVG 而不是 PNG），改善了对奇怪的缩放系数的支持，如 125%。</strong></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><strong>注：由于上述变化，现在需要 Qt 的 SVG 库。</strong></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">MKVToolNix 68.0 正式发布，更新内容如下：</p> 

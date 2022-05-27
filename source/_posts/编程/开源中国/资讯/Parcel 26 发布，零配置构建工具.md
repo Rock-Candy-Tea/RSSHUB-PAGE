@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-87db2f336c2f018ef54e39ba499ac52
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#000000">Parcel 是用于 Web 的零配置构建工具。它将出色的开箱即用开发体验与可扩展的体系结构相结合，可将你的项目从零发展为大规模生产应用程序。</span></p> 
+                                                                                            <p><span style="color:#000000">Parcel 是用于 Web 的零配置构建工具。它将出色的开箱即用开发体验与可扩展的体系结构相结合，可将你的项目从零发展为大规模生产应用程序。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="color:#000000">Parcel v2.6.0 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fparceljs.org%2Fblog%2Fv2-6-0%2F" target="_blank">发布</a>。此版本包含的新功能包括 React 的 error overlay、对 HMR 中 source maps 的支持以及 CSS 模块中的本地范围变量，以及许多错误修复和改进。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong><span style="color:#000000">React error overlay</span></strong></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><span style="color:#000000">Parcel 现在包含了 React 的 runtime error overlay，它显示了漂亮的堆栈跟踪，并带有高亮的代码帧，自动省略了 React framework internals。</span></p> 
