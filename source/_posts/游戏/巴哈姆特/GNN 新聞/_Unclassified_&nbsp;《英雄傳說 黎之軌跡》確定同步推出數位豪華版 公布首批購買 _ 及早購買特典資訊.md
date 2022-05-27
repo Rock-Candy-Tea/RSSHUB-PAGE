@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/90/c07ecc02618a64421889486da31g2zq5.JPG?v=1653554549202'
 author: 巴哈姆特
 comments: false
-date: 2022-05-27 06:13:14
+date: 2022-05-27 07:09:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/c07ecc02618a64421889486da31g2zq5.JPG?v=1653554549202'
 ---
 
@@ -72,7 +72,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/c07ecc02618a64421889486da31g2zq5.
 <li>
 4spg UNITED・亞妮艾絲</li>
 <li>
-4spg UNITED・菲莉・《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA+%E9%BB%8E%E4%B9%8B%E8%BB%8C%E8%B7%A1" target="_blank">英雄傳說 黎之軌跡</a>》遊戲本篇・《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA+%E9%BB%8E%E4%B9%8B%E8%BB%8C%E8%B7%A1" target="_blank">英雄傳說 黎之軌跡</a>》季票 3</li>
+4spg UNITED・菲莉</li>
 <li>
 4spg UNITED・亞倫</li>
 <li>
