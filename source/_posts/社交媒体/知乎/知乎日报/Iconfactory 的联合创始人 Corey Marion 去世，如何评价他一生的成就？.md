@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-05-27 03:50:18
-thumbnail: 'https://pic3.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162'
+date: 2022-05-27 04:23:31
+thumbnail: 'https://pic2.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/2e9364991b175126e94c8e01575e799b_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">JJ Ying，</span><span class="bio">Anyway.FM 主播</span>
 <a href="https://www.zhihu.com/question/534507381/answer/2502738966" class="originUrl" hidden>查看知乎原文</a>
 </strong>
