@@ -5,14 +5,14 @@ categories:
  - 游戏
  - 4Gamers 新闻
  - 分类
-headimg: 'https://img.4gamers.com.tw/news-image/1a5e6539-3e2f-48bc-9d2a-32db441568bb.jpg'
+headimg: 'https://img.4gamers.com.tw/news-image/13a28bfe-e494-4348-bf65-0cda57c83ba0.jpg'
 author: 4Gamers 新闻
 comments: false
 date: Fri, 27 May 2022 02:32:58 GMT
-thumbnail: 'https://img.4gamers.com.tw/news-image/1a5e6539-3e2f-48bc-9d2a-32db441568bb.jpg'
+thumbnail: 'https://img.4gamers.com.tw/news-image/13a28bfe-e494-4348-bf65-0cda57c83ba0.jpg'
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/1a5e6539-3e2f-48bc-9d2a-32db441568bb.jpg" referrerpolicy="no-referrer"><p>來囉</p>  
+<img src="https://img.4gamers.com.tw/news-image/13a28bfe-e494-4348-bf65-0cda57c83ba0.jpg" referrerpolicy="no-referrer"><p>來囉</p>  
 </div>
             

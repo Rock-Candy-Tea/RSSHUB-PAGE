@@ -1,0 +1,22 @@
+
+---
+title: '《初音未来：歌姬计划 MEGA39’s》现已在Steam发售，国区售价239元'
+categories: 
+ - 新媒体
+ - 机核网
+ - 分类
+headimg: 'https://image.gcores.com/37d362d3-dd71-440f-9b4c-d12b0b2d1864.png'
+author: 机核网
+comments: false
+date: 2022-05-27 03:51:35
+thumbnail: 'https://image.gcores.com/37d362d3-dd71-440f-9b4c-d12b0b2d1864.png'
+---
+
+<div>   
+<img src="https://image.gcores.com/37d362d3-dd71-440f-9b4c-d12b0b2d1864.png" referrerpolicy="no-referrer"><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-bdd68" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="story_block story_block-text " data-block="true" data-editor="bdd68" data-offset-key="15cf8-0-0"><div data-offset-key="15cf8-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="15cf8-0-0"><span data-text="true">由世嘉开发及发行，“Project DIVA”系列集大成之作《初音未来 Project DIVA MEGA39's+》现已在 Steam 平台发售，国区售价239元。伴随着 PC 专属强化功能，初音未来历史上的众多名曲也第一次能够在PC平台游玩。  </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="bdd68" data-offset-key="30kgq-0-0" contenteditable="false"><div class="story_embed story_embed-video"><div class="story_embed-video_inner"><div class="story_embed-video_video"><iframe allowfullscreen="true" frameborder="0" framespacing="0" border="0" width="100%" height="378px" src="https://v.miaopai.com/iframe?scid=PenMV6sxMlgA4h424TqOOB-eVHIVb2qVjeG-ag__"></iframe></div></div></div></figure><div class="story_block story_block-text " data-block="true" data-editor="bdd68" data-offset-key="dhqsp-0-0"><div data-offset-key="dhqsp-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dhqsp-0-0"><span data-text="true">本作收录了超过170首歌曲，加上DLC则可以游玩的曲目将超过240首。不论是使用初音3D模型的 PV ，还是原曲的 PV ，都能在本作中尽情体验。此外，本作的 3D PV 画面还可以在接近现实的“Future Tone”风格与接近动画的“MEGA39's”风格之间进行切换。  </span></span></div></div>
+<figure>
+<img src="https://image.gcores.com/e86d64cc-648d-46a0-9b11-72f8ae2d142e.jpg" alt referrerpolicy="no-referrer">
+
+</figure><div class="story_block story_block-text " data-block="true" data-editor="bdd68" data-offset-key="1l5vi-0-0"><div data-offset-key="1l5vi-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1l5vi-0-0"><span data-text="true">不仅如此，本作还收录了400个以上的模型（服装）。为玩家带来造型多变，可爱而又帅气的初音未来。目前，游戏在 Steam 的评价为“特别好评”，感兴趣的读者朋友可以在下方了解详情。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" data-block="true" data-editor="bdd68" data-offset-key="f674c-0-0" contenteditable="false"><div class="story_embed"><iframe frameborder="0" framespacing="0" border="0" width="100%" height="200px" src="//store.steampowered.com/widget/1761390"></iframe></div></figure><div class="story_block story_block-text " data-block="true" data-editor="bdd68" data-offset-key="dan2n-0-0"><div data-offset-key="dan2n-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="dan2n-0-0"><span data-text="true">商店地址：</span></span><a class="md-link" href="https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/" rel="noopener noreferrer" target="_blank" aria-label="https://store.steampowered.com/app/1761390/_Project_DIVA_MEGA39s/"><span data-offset-key="dan2n-1-0"><span data-text="true">点我进入</span></span></a></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="bdd68" data-offset-key="bk6qt-0-0"><div data-offset-key="bk6qt-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bk6qt-0-0"><span data-text="true"> </span></span></div></div><div class="story_block-spoiler d-none" data-block="true" data-editor="bdd68" data-offset-key="bjn7t-0-0"><div data-offset-key="bjn7t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bjn7t-0-0"><br data-text="true"></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>  
+</div>
+            
