@@ -1,0 +1,18 @@
+
+---
+title: '2022 MSI 半决赛 RNG 3_0 EG 晋级决赛，如何评价这场比赛？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-874c4fad30a36bcdc1ed1f869874886e_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Fri, 27 May 2022 11:06:06 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-874c4fad30a36bcdc1ed1f869874886e_1440w.jpg?source=b1748391'
+---
+
+<div>   
+两老儿辩日的回答<br><br><p data-pid="D7n9qYRh">恭喜RNG，<b>距离MSI之王只差一个BO5了。</b></p><p data-pid="zHJVpA9X">虽然赢了，但是我还是想说：</p><p data-pid="Q4BrI5Hq"><b>如果你RNG决赛还是今天这个diao状态（特指二三局），那趁早别想创造历史了。</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-874c4fad30a36bcdc1ed1f869874886e_1440w.jpg?source=b1748391" data-rawwidth="2400" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-a13156db0c1c54cb469a6541b400943e_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-874c4fad30a36bcdc1ed1f869874886e_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="dNdZkZsK">之前我在写这个回答的时候说：</p><p data-pid="hZj2wp_C"><b>找不到任何EG能赢RNG的理由，除非是RNG想让EG赢。</b></p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/2502638528" data-image="https://pic2.zhimg.com/v2-de56fc6b434a4b1a8764500f29670746_720w.jpg?source=b1748391" data-image-width="898" data-image-height="613" class="internal">2022 MSI 淘汰赛 EG vs RNG 你看好谁晋级决赛？</a><p data-pid="HNlI18au">有些兄弟评论和我说不能太飘了<b>，要想想当年的IG，想想当年的RNG。</b></p><p data-pid="Vi_w_HqR">其实我很理解大家的担忧，半场开香槟的事情咱们经历太多了，不过直到赛前那一刻，我的观点还是不变的<b>，最后的比赛结果也验证了我这一点 </b></p><p data-pid="-iJi_PoR">但是我之所以这么认为，<b>并不是基于RNG有多么多么的无敌，而是是基于EG这个队伍有多“菜”</b></p><p data-pid="jynjUi_n"><b>拿第二局比赛举例：</b></p><p data-pid="QIS-pIzC">这局比赛RNG真的给了EG够多机会了，Bin导的<b>“平A流”</b>船长依然还是火气大大，很想通过大招在线上干死奥恩。</p><p data-pid="1fwfKdoh">特别是26分钟这一波，Bin导在线上交了大招想干掉奥恩，<b>但是干了个寂寞。</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c9a7cb911891f0b539b239cd46db109a_1440w.jpg?source=b1748391" data-rawwidth="2400" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-8eb144b37b46b4f35dcdfe8a2527d469_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c9a7cb911891f0b539b239cd46db109a_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="te58yYcJ">反而是知道船长没大招之后，EG直接开大龙逼团，<b>这波团但凡Bin有大招，或者Bin的桶子能炸的好一点，RNG都不至于溃败。</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-52977dfb783b1113ff4d77312a49530b_1440w.jpg?source=b1748391" data-rawwidth="2400" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-d698295cd69a6c1087a6f23e076e101f_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-52977dfb783b1113ff4d77312a49530b_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="dJp41CxC">这波团之后，EG算是拿到了一些优势。</p><p data-pid="T4MGn3sf">可是EG是真的不中用啊，给机会他们都把握不住，<b>拿到优势之后不但不会运营，反而做出各种脑瘫决策，直接送掉了比赛。</b></p><p data-pid="at-TsI2y">第三局就更别说了，<b>我敢说如果把EG换成T1或者G2，RNG这么给机会真赢不了</b>，可是他们是EG。</p><p data-pid="4UoaYViC"><b>EG是一个被动挨打的队伍，他们压根儿就不适合现在这个版本；就算RNG给了EG机会，EG也不知道怎么去利用机会滚雪球。</b></p><p data-pid="K7vMU3jT">多的就不说了，<b>我是上班偷偷看的，后两局看的我直冒汗，领导问我是不是发烧了，RNG你坏事做尽。。。</b></p><p data-pid="XaszW-HC">最后还是那句话：</p><p data-pid="EGY_IzUA"><b>恭喜RNG，距离MSI之王只差一个BO5了。</b></p><p data-pid="TlKKbgzw"><b>但是G2和T1不是EG，</b>你RNG如果再像今天一样给机会，那你到时候准备挨喷吧。</p><p data-pid="rd6te37C">最后再加一句：</p><p data-pid="8Z9VIcSM"><b>距离决赛还有两天时间，朱开给我狠狠地骂他们，骂到认识错误为止。</b></p>  
+</div>
+            

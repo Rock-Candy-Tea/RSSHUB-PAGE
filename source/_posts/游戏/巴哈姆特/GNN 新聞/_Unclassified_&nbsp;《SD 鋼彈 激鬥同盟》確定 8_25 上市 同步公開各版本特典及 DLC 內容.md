@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?v=1653629990344'
 author: 巴哈姆特
 comments: false
-date: 2022-05-27 10:10:54
+date: 2022-05-27 11:09:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?v=1653629990344'
 ---
 
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 70.80%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?v=1653629990344" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 70.80%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?v=1653629990344" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -93,7 +93,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG?v=1653630067119" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG?v=1653630067119" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/26/e8a392c3b696a547498f597e181gi565.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -143,7 +143,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/49194eae61f44534e4febd27ca1gi555.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG?v=1653630080191" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG?v=1653630080191" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/7e1c0fc2444e67a74e839456d01gi575.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -260,7 +260,7 @@ DLC 內容公開</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG?v=1653630107347" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG?v=1653630107347" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/661a3ae4fe2a1346716582fe8a1gi585.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -307,9 +307,9 @@ DLC 內容公開</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?v=1653630120940" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?v=1653630120940" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/2df7d6a950bc12954e045bb00f1gi595.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?v=1653630120940" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?v=1653630120940" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/30/b311c4ce172f48ce7a08e8a5111gi5a5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -351,7 +351,7 @@ DLC 內容公開</h3>
 <div>
  </div>
 <div>
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG?v=1653630149401" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG 2x" style="float: left; width: 33%;margin-right: 2%" alt="image" referrerpolicy="no-referrer"><b>Powerless 簡介</b></div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG?v=1653630149401" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/31/9c2567c3bd4b4f4f8aa10875d51gi5b5.JPG 2x" style="float: left; width: 33%;margin-right: 2%" referrerpolicy="no-referrer"><b>Powerless 簡介</b></div>
 <div>
 自 2009 年起，以「無力P」的名義開始製作 Vocaoid 的樂曲，</div>
 <div>

@@ -32,7 +32,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220527/1653644132_8787
 <img src="http://datafanthfuloss.oss-cn-shanghai.aliyuncs.com/cpsupload/pic/20220526005300030240.jpg?x-oss-process=image/resize,m_pad,h_600,w_600" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>《艾尔登法环》主题 黑金法环 外套229元</strong> 
+<strong>《艾尔登法环》主题 黑金法环 外套299元</strong> 
 </p>
 <p align="center">
 <img src="http://datafanthfuloss.oss-cn-shanghai.aliyuncs.com/cpsupload/pic/20220526012203715152.jpg?x-oss-process=image/resize,m_pad,h_600,w_600" referrerpolicy="no-referrer"> 
@@ -65,7 +65,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220527/1653644132_8787
 <img src="http://datafanthfuloss.oss-cn-shanghai.aliyuncs.com/cpsupload/pic/20220526011105033475.jpg?x-oss-process=image/resize,m_pad,h_600,w_600" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>《艾尔登法环》主题 手机壳 “白狼战鬼” 58元</strong> 
+<strong>《艾尔登法环》主题 手机壳 “白狼战鬼” 59元</strong> 
 </p>
 <p align="center">
 <img src="http://datafanthfuloss.oss-cn-shanghai.aliyuncs.com/cpsupload/pic/20220526011800982211.jpg?x-oss-process=image/resize,m_pad,h_600,w_600" referrerpolicy="no-referrer"> 
