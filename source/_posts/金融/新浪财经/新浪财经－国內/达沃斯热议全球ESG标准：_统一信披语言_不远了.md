@@ -8,7 +8,7 @@ categories:
 headimg: 'https://n.sinaimg.cn/sinakd20220528s/241/w700h341/20220528/d50d-ae95459e3aed5e00d523dabb99048a0d.jpg'
 author: 新浪财经
 comments: false
-date: Sat, 28 May 2022 12:59:31 GMT
+date: Sat, 28 May 2022 13:39:16 GMT
 thumbnail: 'https://n.sinaimg.cn/sinakd20220528s/241/w700h341/20220528/d50d-ae95459e3aed5e00d523dabb99048a0d.jpg'
 ---
 
@@ -33,7 +33,23 @@ thumbnail: 'https://n.sinaimg.cn/sinakd20220528s/241/w700h341/20220528/d50d-ae95
 <p cms-style="font-L">　　吉莲表示，企业的这类ESG举措还有一个意想不到的结果，即此类法务审计为企业提供了企业与供应商关系的详尽信息，而这正是应对新冠疫情等冲击所需要的。Gigaton平台不仅减少了碳排放，而且在更广泛的层面提高了沃尔玛的韧性。</p>
 <p cms-style="font-L">　　具体而言，应用最为广泛的国际排放核算工具温室气体（GHG）核算体系，将温室气体排放分为三类或三个“范围”。范围一，用于核算企业拥有或控制的排放源产生的直接排放量；范围二，用于核算企业外购电力、蒸汽、供热或制冷的生产而产生的间接排放量；范围三，包含企业价值链中产生的所有其他间接排放量。</p>
 <div class="img_wrapper"><img id="1" src="https://n.sinaimg.cn/sinakd20220528s/193/w700h293/20220528/6cf2-6863c4e775e2a880754bdc6a09faeadf.jpg" alt referrerpolicy="no-referrer"><span class="img_descr"></span></div>
-<p cms-style="font-L">　　这一问题对中国企业亦有不少启示。多家第三方ESG评级人士此前对记者提及，一些海外上市的国际中大型制造业企业，其总部在环境方面的减碳承诺必定会施加到全球的工厂及供应链中，需对自身供应链发起问卷调查，要求位于国内供应链上的企业也能提供碳排放信息，这给相关企业造成不小的压力。基于不同的区域，排放源和排放系数都不尽相同，达成统一披露标准颇有难度。此外，由于大量制造业公司处在供应链的上中游，其下游的上市公司也对其提出了披露环境信息及减排的要求。中国作为制造业大国，出口在中国GDP中占了较大比重，因而中国企业也面临着越来越多来自海外下游客户的披露要求。</p><!-- news_keyword_pub,stock, -->
+<p cms-style="font-L">　　这一问题对中国企业亦有不少启示。多家第三方ESG评级人士此前对记者提及，一些海外上市的国际中大型制造业企业，其总部在环境方面的减碳承诺必定会施加到全球的工厂及供应链中，需对自身供应链发起问卷调查，要求位于国内供应链上的企业也能提供碳排放信息，这给相关企业造成不小的压力。基于不同的区域，排放源和排放系数都不尽相同，达成统一披露标准颇有难度。此外，由于大量制造业公司处在供应链的上中游，其下游的上市公司也对其提出了披露环境信息及减排的要求。中国作为制造业大国，出口在中国GDP中占了较大比重，因而中国企业也面临着越来越多来自海外下游客户的披露要求。</p><!-- news_keyword_pub,stock, --><!-- 开户二维码 start -->
+<style>
+.app-kaihu-qr
+
+&#123;text-align: center;padding: 20px 0;&#125;
+.app-kaihu-qr span
+
+&#123;font-size: 18px; line-height: 31px;display: block;&#125;
+.app-kaihu-qr img
+
+&#123;width: 170px;height: 170px;display: block;margin: 0 auto;margin-top: 10px;&#125;
+</style>
+<div class="app-kaihu-qr">
+<span>股民福利来了！十大金股送给你，带你掘金“黄金坑”！点击查看>></span>
+<img src="https://n.sinaimg.cn/finance/200/w500h500/20220216/303e-b2864e7bf4f7e5ecede113b90b5a53c9.png" referrerpolicy="no-referrer">
+</div>
+<!-- 开户二维码 end -->
 
 
 
