@@ -1,0 +1,18 @@
+
+---
+title: 'The Space 白皮書正式公開，「烏塗邦計劃」將空投2千萬枚＄SPACE'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=7806'
+author: Matters
+comments: false
+date: Fri, 27 May 2022 06:40:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7806'
+---
+
+<div>   
+<ul><li>領取日期 : 2022年 5月27日 12:00 UTC+8 — 6月6日, 12:00 UTC+8</li><li>首輪將空投代幣總額 20,004,500 $SPACE</li><li>空投對象：專屬給前三輪The Space測試鏈參與者和早期貢獻者、Matters Lab長期生態系統的用戶與Traveloggers PFP持有者。 若你符合條件，請至<a href="https://matters.news/@hi176/the-space-%E7%99%BD%E7%9A%AE%E6%9B%B8%E6%AD%A3%E5%BC%8F%E5%85%AC%E9%96%8B-%E7%83%8F%E5%A1%97%E9%82%A6%E8%A8%88%E5%8A%83-%E5%B0%87%E7%A9%BA%E6%8A%952%E5%8D%83%E8%90%AC%E6%9E%9A-space-bafyreidkxy6t4kb6wn6eomlrmx7aqg7lhsgqbqsvfnhizte6x63tfhtc7i" rel="noopener noreferrer" target="_blank">www.thespace.game/claim</a> 領取。</li></ul><hr><p><strong>向馬特市宣布一個重要消息，Matters 的 The Space 烏塗邦計畫今天開始空投！</strong></p><p>The Space 是全球首個結合 NFT 藝術、激進市場經濟規則的共創遊戲，日前公布白皮書，並在5月27日開啟第一輪代幣空投。任何玩家都可以通過 $SPACE，在區塊鏈空間上創作彩色像素，合作完成繪制，以經濟規則彼此競爭。</p><p>The Space 項目總共會發行10 億個 $SPACE 代幣。分配比例為激勵早期社區(13.74%)、社區基金 (66.26%)、資金流動池 (5%) 和 Matters Lab 團隊 (15%)。 更多關於$SPACE 代幣願景和資金分配資訊，請閱讀我們公告的代幣白皮書：<a href="https://wiki.thespace.game/introducing-space-token" rel="noopener noreferrer" target="_blank">Introducing $SPACE</a>。</p><p>The Space 首輪空投對象為The Space的早期參與和貢獻者以及Matters Lab生態的活躍用戶，總計空投20,004,500 枚 $SPACE，占代幣總供應量的<strong>2%</strong>。</p><p>初始 $SPACE 空投將按比例分配給 The Space 社區：PoC 參與者、3 輪測試網參與者、測試網BETA反饋提供者、早期核心貢獻者； 以及 Matters Lab 社區和 Traveloggers PFP持有者，共有 <strong>5,224</strong> 合資格的 ETH 地址。用戶可通過<a href="https://wiki.thespace.game/space-initial-airdrop" rel="noopener noreferrer" target="_blank"><strong>此網址</strong></a>了解是否符合空投條件。</p><h3>如何從2千萬枚空投池中領取你的 $SPACE</h3><p>所有符合上述條件的合格地址，均於<strong>2022 年 5 月 26 日 13:00 UTC+8</strong> 快照確認。</p><p>本次空投領取期間為10天，從<strong>2022年5月27日12:00 UTC+8</strong>到<strong>2022年6月6日12:00 UTC+8</strong>；如符合上述類別，現在可以在 <a href="https://matters.news/@hi176/the-space-%E7%99%BD%E7%9A%AE%E6%9B%B8%E6%AD%A3%E5%BC%8F%E5%85%AC%E9%96%8B-%E7%83%8F%E5%A1%97%E9%82%A6%E8%A8%88%E5%8A%83-%E5%B0%87%E7%A9%BA%E6%8A%952%E5%8D%83%E8%90%AC%E6%9E%9A-space-bafyreidkxy6t4kb6wn6eomlrmx7aqg7lhsgqbqsvfnhizte6x63tfhtc7i" rel="noopener noreferrer" target="_blank">www.thespace.game/claim</a> 上領取<strong>$SPACE</strong> 代幣，以及我們也準備了些<strong>$MATIC </strong>空投給大家作Gas fee補貼，在遊戲上線當日，各位即可連結錢包，在鏈上創作。</p><p>（如果不知道如何領取空投，社區的熱心用戶 Daisy 已經為大家寫了一篇教學 <a href="https://matters.news/@daisy/288973-the-space-%E7%A9%BA%E6%8A%95%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A-travelogger-%E6%8C%81%E6%9C%89%E8%80%85-%E6%95%85%E4%BA%8B%E6%8E%A5%E9%BE%8D%E5%8F%83%E5%8A%A0%E8%80%85-metamask-%E9%8C%A2%E5%8C%85%E7%99%BB%E5%85%A5%E8%80%85%E9%83%BD%E5%8F%AF%E9%A0%98-bafyreiafihpdymf3ibsjk5kgtfkj7ftvnojlyvig7b47t77yiqjwc62al4" rel="noopener noreferrer" target="_blank">The Space | 空投正式上線、Travelogger 持有者、故事接龍參加者、Metamask 錢包登入者都可領</a>）</p><p>The Space 將於 5 月 31 日正式啟動，閱讀<a href="https://wiki.thespace.game/" rel="noopener noreferrer" target="_blank">The Space WIKI</a>了解更多項目訊息，讓我們一同在烏塗邦相見！</p><blockquote>⭐下一輪空投將在The Space正式上線後啟動，所有人皆可領取。<strong>關注後續空投消息，請加入我們的 </strong><a href="https://twitter.com/thespace2022" rel="noopener noreferrer" target="_blank"><strong>Twitter</strong></a><strong> 和 </strong><a href="https://discord.com/invite/thespace" rel="noopener noreferrer" target="_blank"><strong>Discord</strong></a><strong> 。</strong></blockquote><blockquote>新聞聯繫： Emilie Hsu : eh@matters.news<br class="smart">合辦AMA或其他合作: 官方信箱: thespace@matters.news</blockquote>  
+</div>
+            

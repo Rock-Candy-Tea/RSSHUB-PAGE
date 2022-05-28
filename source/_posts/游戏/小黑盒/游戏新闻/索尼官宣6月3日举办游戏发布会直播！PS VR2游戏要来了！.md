@@ -1,0 +1,18 @@
+
+---
+title: '索尼官宣6月3日举办游戏发布会直播！PS VR2游戏要来了！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/05/28/178e74b5e140c78e60372aed1d2621af.gif'
+author: 小黑盒
+comments: false
+date: Sat, 28 May 2022 21:03:22 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/05/28/178e74b5e140c78e60372aed1d2621af.gif'
+---
+
+<div>   
+<p><img class="lazy" data-height="300" src="https://imgheybox.max-c.com/web/2022/05/28/178e74b5e140c78e60372aed1d2621af.gif" data-width="750" referrerpolicy="no-referrer"></p><p>昨天，索尼PlayStation官方突然发推宣布，将于北京时间6月3日上午6点，举行State of Play游戏直播活动。</p><p><br></p><p><img class="lazy" data-height="1839" src="https://imgheybox.max-c.com/web/2022/05/28/feaf880ae8432c4656c7062a48f64d20/thumb.jpeg" data-width="1239" referrerpolicy="no-referrer"></p><p>根据详情来看，这次发布会上索尼将展示部分第三方游戏，<b>以及几款针对PS VR2开发的游戏，预计直播时长半小时。</b></p><p><br></p><p><img class="lazy" data-height="2220" src="https://imgheybox.max-c.com/web/2022/05/28/962501ebfcc7efab198b3581ba645f6f/thumb.jpeg" data-width="1239" referrerpolicy="no-referrer"></p><p>不少玩家在评论区表示，我已经准备好了。</p><p><br></p><p><img class="lazy" data-height="1706" src="https://imgheybox.max-c.com/web/2022/05/28/e9940a82fc53cf63fa0ffdab3b9d6644/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><p>也有玩家希望能见到《战神：诸神黄昏》的新消息。</p><p><br></p><p><img class="lazy" data-height="1871" src="https://imgheybox.max-c.com/web/2022/05/28/1383dcb11bd43166f573e3461f9f2773/thumb.jpeg" data-width="1239" referrerpolicy="no-referrer"></p><p><br></p><p>顺带一提，近日《战神：诸神黄昏》已经在韩国通过评级。</p><p><br></p><p>另外一条线索是，英国在线商店Geeky Zone上架了一系列的战神周边衣帽产品，商品页面显示，其预购时限为126天，结合时区误差换算的话，126天之后正好是9月30日，<b>和去年年底推特博主PlayStation Game Siz</b></p><p><b>曝光的发售日一致，当然最后什么时候发，还得看官方。<span data-emoji="cube_doge" class="hb-emoji"></span></b></p><p><br></p><p><img class="lazy" data-height="853" src="https://imgheybox.max-c.com/bbs/2022/05/28/ce1ebaa8ec5f9350477557fd0a0fbbc2/thumb.png" data-width="596" referrerpolicy="no-referrer"></p><p>更让我在意的是索尼这次的速度还挺快，因为5月初就有爆料称，6月会有一场关于PS VR2的实机演示。</p><p><br></p><p>而这台设备，最初正式曝光是在今年2月份，索尼上线了PSVR2的官网，官网介绍为，采用两块2000*2040分辨率的OLED显示器，支持120Hz高刷，并可使用一根USB-C线连接至PS5主机。</p><p><img class="lazy" data-height="333" src="https://imgheybox.max-c.com/bbs/2022/05/28/489bb56169316a4f263da20b9fe1dac8/thumb.jpg" data-width="500" referrerpolicy="no-referrer"></p><p><br></p><p><img class="lazy" data-height="333" src="https://imgheybox.max-c.com/bbs/2022/05/28/627d7b044575ab4ded7fa9d29ef0b606/thumb.jpg" data-width="500" referrerpolicy="no-referrer"></p><p><br></p><p><img class="lazy" data-height="2730" src="https://imgheybox.max-c.com/bbs/2022/05/28/5c02a9e7c14620d4df5fb43f9fcd7950/thumb.jpg" data-width="4095" referrerpolicy="no-referrer"></p><p><br></p><p>SIE总裁吉姆·瑞恩更是亲口表示，<b>他们已经为PS VR2的发售准备了至少20款游戏作品。</b></p><p><br></p><p>希望他真的能兑现承诺，而不是一款独占移植，外加一堆辣鸡游戏来敷衍。<span data-emoji="cube_笑cry" class="hb-emoji"></span>毕竟初代PS VR的用户们已经吃灰很久了……</p><p><br></p><p>另外，如果能有《半条命》、《生化危机4VR版》等游戏登场，我也会很开心。<span data-emoji="cube_感动" class="hb-emoji"></span></p><p><br></p><p><img class="lazy" data-height="529" src="https://imgheybox.max-c.com/bbs/2022/05/28/9f9449f700f8b193cdbd13e905e92c20/thumb.png" data-width="947" referrerpolicy="no-referrer"></p><p>目前PS VR 2正式发售日期待定，但根据显示器供应链咨询公司CEO Ross Young的说法，新头戴式设备可能将在明年发售。</p><p><br></p><p>希望这些不要再是索尼给的“画饼”，还有把PSN的游戏库问题赶紧解决才是真。</p><hr><p>谢谢大家的阅读！<br></p><p>内容如果有不对的地方，欢迎评论区指出，我会立即修改！还有还有，<b>长按点赞、电池一键三连！</b><a href="heybox://open_subject" target="_blank">#鸭先知#</a></p><p><img class="lazy" data-height="826" src="https://imgheybox.max-c.com/bbs/2022/05/28/eca5e1ba8db2231941e06f38ac5a47ab.gif" data-width="1920" referrerpolicy="no-referrer"></p>  
+</div>
+            
