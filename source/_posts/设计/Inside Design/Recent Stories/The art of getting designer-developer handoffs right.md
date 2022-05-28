@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-design-handoff-inspect/'
 author: Inside Design
 comments: false
-date: 2022-05-28 06:12:10
+date: 2022-05-28 07:09:02
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-design-handoff-inspect/'
 ---
 
