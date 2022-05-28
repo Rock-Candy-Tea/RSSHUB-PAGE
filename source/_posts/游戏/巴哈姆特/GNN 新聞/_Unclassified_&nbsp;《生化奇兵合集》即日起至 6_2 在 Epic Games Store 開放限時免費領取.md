@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?v=1653644908919'
 author: 巴哈姆特
 comments: false
-date: 2022-05-27 15:10:07
+date: 2022-05-28 00:44:42
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?v=1653644908919'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 62.50%"><a href="https://store.epicgames.com/zh-Hant/bundles/bioshock-the-collection" target="_blank"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?v=1653644908919" data-srcset="https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></a></figcaption></li>
+<figcaption style="padding-bottom: 62.50%"><a href="https://store.epicgames.com/zh-Hant/bundles/bioshock-the-collection" target="_blank"><img alt="image" name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?v=1653644908919" data-srcset="https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/40/3501070a41effab4301f21e9c81gidw5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></a></figcaption></li>
 </ul>
 </div>
 <div>
