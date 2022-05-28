@@ -1,0 +1,19 @@
+
+---
+title: '余承东：AITO问界M7六月底上市、舒适性超雷克萨斯LM'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0528/568e6cd0838aa27.jpg'
+author: cnBeta
+comments: false
+date: Sat, 28 May 2022 07:55:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0528/568e6cd0838aa27.jpg'
+---
+
+<div>   
+5月28日，在粤港澳大湾区车展上，华为终端BG CEO、华为智能汽车解决方案BU CEO余承东透露了AITO旗下第二款车型问界M7的相关信息。其表示，问界M7同样会有增程版和纯电版两种，<strong>其中增程版6月底发布，7月交付</strong>；纯电版9月发布，10月上市。<br>
+ <p>同时他还表示问界M7内部空间会很大，大6座，有信心让老板、领导们坐得非常舒服，要超越埃尔法，要超越百万豪车，原话为“<strong>我们的新车，舒适性要超过埃尔法那个凌志版</strong>”（注：指雷克萨斯LM）。</p><p><a href="https://img1.mydrivers.com/img/20220528/8c599e6d17b84ab2aa77fefcbdea73c8.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0528/568e6cd0838aa27.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0528/568e6cd0838aa27.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0528/568e6cd0838aa27.jpg" referrerpolicy="no-referrer"></a></p><p>目前问界M7已经出现在AITO官网，定位“豪华智慧大型电动SUV”，同时<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>商城也已经亮出广告：问界M7即将重磅发布，敬请期待。</p><p><a href="https://img1.mydrivers.com/img/20220528/434bc6042aee47388e32f168765e7c14.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0528/243fbb7004061d4.png"><img data-original="https://static.cnbetacdn.com/article/2022/0528/243fbb7004061d4.png" src="https://static.cnbetacdn.com/thumb/article/2022/0528/243fbb7004061d4.png" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220528/41c156f37ac14215925632c7f4c4fd5c.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0528/877d9e2ad3bd41c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0528/877d9e2ad3bd41c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0528/877d9e2ad3bd41c.jpg" referrerpolicy="no-referrer"></a></p><p>该车虽然未正式发布，但其已经在工信部进行零申报，数据显示，<strong>问界M7搭载了40.06千瓦时的动力电池，纯电续航里程为150公里（与M5相同），亏电油耗为6.85升/100公里</strong>。</p><p>其定位于中大型SUV，车身尺寸为5020*1945*1775毫米，与理想ONE（5030*1960*1760毫米）几乎相当，但轴距仅2820毫米，不如理想ONE的2935毫米。</p><p><a class="impage" href="https://img1.mydrivers.com/img/20220506/90d57a29ad5d41ad86c37a6390bbae81.jpg" style="color: red; text-decoration-line: none; font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_self"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0528/74bc659338e104d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0528/74bc659338e104d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0528/74bc659338e104d.jpg" referrerpolicy="no-referrer"></a></p><p>内部设计看齐问界M5，预计也会使用相似的设计语言，<strong>最大的亮点在于搭载了华为鸿蒙座舱</strong>，在智能化方面绝对属于国内甚至是世界范围内第一梯队水平。</p><p><a class="impage" href="https://img1.mydrivers.com/img/20220413/da6f500661824c8496ad832401470b8b.jpg" style="color: red; text-decoration-line: none; font-family: " open hiragino sans microsoft wenquanyi micro font-size: target="_self"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0528/ea4d8e633182c13.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0528/ea4d8e633182c13.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0528/ea4d8e633182c13.jpg" referrerpolicy="no-referrer"></a></p><p>动力方面，该车依旧搭载了一台1.5T四缸发动机作为增程器，其最大功率92千瓦，<strong>同时配有前后双电机，峰值功率分别为72千瓦和200千瓦</strong>。</p><p>由于只是车展预热，所以余承东并未透露更多关于问界M7的相关信息，所以具体该车如何，还是等到下月底正式发布时再见分晓吧。</p>   
+</div>
+            
