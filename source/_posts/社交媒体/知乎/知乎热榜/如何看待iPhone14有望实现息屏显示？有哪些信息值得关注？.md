@@ -1,0 +1,18 @@
+
+---
+title: '如何看待iPhone14有望实现息屏显示？有哪些信息值得关注？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-ec15387c57cb81665a16743e417722d2_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Sun, 29 May 2022 13:45:46 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-ec15387c57cb81665a16743e417722d2_1440w.jpg?source=b1748391'
+---
+
+<div>   
+梁子宁的回答<br><br><p data-pid="T5T1NwtJ">安卓：又是俺们玩剩下的。</p><p data-pid="0SUg3b4h">在iPhone 13 Pro和Pro Max上，显示屏仅限于在10Hz和120Hz之间调节刷新率。而其他品牌的一些旗舰已经可以降至1Hz。14如果能做到这项技术的话，可以带来更长的续航时间还有可能会支持息屏显示。不过去年就有记着报道13可能应用这一技术，13一出来，不还是那样吗。现在都是猜想，老八实的等九月验证吧。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ec15387c57cb81665a16743e417722d2_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="530" data-rawheight="276" data-default-watermark-src="https://pic3.zhimg.com/v2-8517cf67ec1bc88c48a3998ef80d9f0e_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ec15387c57cb81665a16743e417722d2_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="vp1eM422">618，还是考虑怎么买13更便宜。记得领红包，有可能白嫖一个13p。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f57c78ec1659da87ffcc3dcfcd43d6a4_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2400" data-default-watermark-src="https://pica.zhimg.com/v2-e681d2d7f67779ee875e78254ff26ce7_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f57c78ec1659da87ffcc3dcfcd43d6a4_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><blockquote data-pid="VudN-ItT">iPhone13 128G，凑1元享跨店满减100元，叠加200元专享券，到手4799元。</blockquote><p data-pid="yqGGTgD9">iPhone13 256G，凑101元享跨店满减1150元，叠加200元专享券，到手5499元。</p><p data-pid="czwh8GjA">iPhone13 Pro 256G，领100元专享券，叠加600直降优惠，到手8099元。推广成功可得知乎单单奖励150元。</p><p data-pid="69mFTLdV">Apple Store 官方旗舰店这次还参与跨店满减。iPhone13跨店每满300减50元，领券再减200元，再加上13期免息，抓住机会啦！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-6cb930c74e4b0a17875c2f57c5c5e048_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2194" data-default-watermark-src="https://pic2.zhimg.com/v2-cd384eac786f1e318e55445fcd7f6622_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-6cb930c74e4b0a17875c2f57c5c5e048_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="6l93gMwi">狗东今天有券，不知道大家领到没。128GB的13只需4798就能到手，不过只限于今明两天。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a3f339b12b8f4f64390fb9f679e703a4_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="720" data-rawheight="855" data-default-watermark-src="https://pica.zhimg.com/v2-1c13a9e43e695d6a36b09be157e9b0f5_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a3f339b12b8f4f64390fb9f679e703a4_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="x1QV_7kr">ps.京东真的难抢，，淘宝稳点。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-7699be4e3e537a8cdc45afa5ee42ad6b_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1226" data-default-watermark-src="https://pic2.zhimg.com/v2-043f3c0f8793b14080334cd1343bea6f_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-7699be4e3e537a8cdc45afa5ee42ad6b_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
