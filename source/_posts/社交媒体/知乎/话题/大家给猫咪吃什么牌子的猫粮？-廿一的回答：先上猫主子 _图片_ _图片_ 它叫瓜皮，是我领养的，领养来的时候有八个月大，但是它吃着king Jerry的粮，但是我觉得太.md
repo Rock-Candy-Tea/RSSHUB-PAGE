@@ -1,0 +1,18 @@
+
+---
+title: '大家给猫咪吃什么牌子的猫粮？-廿一的回答：先上猫主子 _图片_ _图片_ 它叫瓜皮，是我领养的，领养来的时候有八个月大，但是它吃着king Jerry的粮，但是我觉得太...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-08030c774efd3c7ca7cc7c3fa7e2a74c_1440w.jpg'
+author: 知乎
+comments: false
+date: Sun, 29 May 2022 06:47:21 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-08030c774efd3c7ca7cc7c3fa7e2a74c_1440w.jpg'
+---
+
+<div>   
+<strong>大家给猫咪吃什么牌子的猫粮？</strong><br>廿一的回答<br><p data-pid="_4fHyLcz">先上猫主子</p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-08030c774efd3c7ca7cc7c3fa7e2a74c_1440w.jpg" data-rawwidth="2048" data-rawheight="1536" data-size="small" data-default-watermark-src="https://pic2.zhimg.com/v2-250ccf5e058b302d4060f1510045a941_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-08030c774efd3c7ca7cc7c3fa7e2a74c_r.jpg" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="small"><img src="https://pic4.zhimg.com/v2-7100605c80bfc47744bb28e55403609b_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="small" data-default-watermark-src="https://pic2.zhimg.com/v2-df73154a9ab32c56cc5b21c76ff84de5_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-7100605c80bfc47744bb28e55403609b_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="bRAH6aYA">它叫瓜皮，是我领养的，领养来的时候有八个月大，但是它吃着king Jerry的粮，但是我觉得太便宜了（可能是因为在宠物医院上班的原因觉得便宜的粮不好）</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-4a3236369ec6fa9c4c251a65c257c50e_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="small" data-default-watermark-src="https://pic4.zhimg.com/v2-d08727abca6518e43b5f065fbb2758af_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-4a3236369ec6fa9c4c251a65c257c50e_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="7q6kD2Ro">刚领养来就先给它吃着店里面贵族的试用装还有一些罐头，它吃的也挺好的，当时还在纠结给它换什么粮</p><figure data-size="small"><img src="https://pic2.zhimg.com/v2-7666542443edd6d1175f7db55ec3ded1_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="small" data-default-watermark-src="https://pic1.zhimg.com/v2-25452f71cc684ac7bbeafd07fa905774_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-7666542443edd6d1175f7db55ec3ded1_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="EZZCkh6h">但是它太吃得了，胃里面全是吃的，就想少喂点，一出来玩就跑去别的猫笼子里面吃其它猫的粮，就很离谱，吃的是另外一个同事的粮，冠能的，感觉它吃的也挺好，啊哈哈哈哈哈哈</p><p data-pid="G-z-0fZF">最后就给它买了冠能的，前两天吃完了我又给它买了伯纳天纯</p><p data-pid="PuBg7oC2">主要是最近毒猫粮太多了，猫粮还是换着换着喂吧，一直吃一种我也不放心</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-e410f2ed803f184edbaea7201e4a0c1a_1440w.jpg" data-rawwidth="1536" data-rawheight="2048" data-size="small" data-default-watermark-src="https://pic3.zhimg.com/v2-b64cca2981203174bf9c976ad70425d6_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-e410f2ed803f184edbaea7201e4a0c1a_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="GZhms53_">但是我突然发现现在皇家的粮做活动，可惜了</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3e2aecaa629fdc4313066f6ce447ee08_1440w.jpg" data-rawwidth="866" data-rawheight="1383" data-size="normal" data-qrcode-action="none" data-default-watermark-src="https://pic3.zhimg.com/v2-2fee99656c6e5dc588e392b102b72f5a_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3e2aecaa629fdc4313066f6ce447ee08_r.jpg" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
