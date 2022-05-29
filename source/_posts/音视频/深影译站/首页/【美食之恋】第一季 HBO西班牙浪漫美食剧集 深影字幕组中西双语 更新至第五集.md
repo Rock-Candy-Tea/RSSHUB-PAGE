@@ -1,0 +1,120 @@
+
+---
+title: '【美食之恋】第一季 HBO西班牙浪漫美食剧集 深影字幕组中西双语 更新至第五集'
+categories: 
+ - 音视频
+ - 深影译站
+ - 首页
+headimg: 'https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-scaled.jpg'
+author: 深影译站
+comments: false
+date: Sun, 01 May 2022 00:00:00 GMT
+thumbnail: 'https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-scaled.jpg'
+---
+
+<div>   
+<div data-elementor-type="wp-post" data-elementor-id="4295" class="elementor elementor-4295" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-39ceb983 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="39ceb983" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3dbc405a" data-id="3dbc405a" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-53a584d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53a584d5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47aff97" data-id="47aff97" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-68bb7768 elementor-widget elementor-widget-text-editor" data-id="68bb7768" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p><img class="size-full wp-image-4293" src="https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-scaled.jpg" alt width="1737" height="2560" srcset="https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-scaled.jpg 1737w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-204x300.jpg 204w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-695x1024.jpg 695w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-768x1132.jpg 768w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-1042x1536.jpg 1042w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-1390x2048.jpg 1390w, https://sub.shinybbs.vip/wp-content/uploads/2022/04/foodie-love_org-ed-1140x1680.jpg 1140w" sizes="(max-width: 1737px) 100vw, 1737px" referrerpolicy="no-referrer"></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-766782d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="766782d1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e4fec50" data-id="4e4fec50" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4e29964d elementor-widget elementor-widget-text-editor" data-id="4e29964d" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<div style="-en-clipboard: true;"><span style="color: #333333;">【译     名】：美食之恋</span></div><div><span style="color: #333333;">【原     名】：Foodie Love</span></div><div><span style="color: #333333;">【年     代】：2019年</span></div><div><span style="color: #333333;">【国     家】：西班牙</span></div><div><span style="color: #333333;">【类     别】：爱情 喜剧 剧情 烹饪</span></div><div><span style="color: #333333;">【语     言】：西班牙语</span></div><div><span style="color: #333333;">【字     幕】：深影字幕组 中西双语</span></div><div><span style="color: #333333;">【海     报】：jiaju</span></div><div><span style="color: #333333;">【撰     文】：K叔&抱枕&长长天</span></div><div><span style="color: #333333;">【首     播】：2019年12月4日</span></div><div><span style="color: #333333;">【电 视 台】: HBO西班牙</span></div><div><span style="color: #333333;">【官     网】：<a style="color: #333333;" href="https://foodielove.hboespana.com/">https://foodielove.hboespana.com/</a></span></div><div><span style="color: #333333;">【IMDb链接】：<a style="color: #333333;" href="https://www.imdb.com/title/tt9894488/">https://www.imdb.com/title/tt9894488/</a></span></div><div><span style="color: #333333;">【季     数】：第一季</span></div><div><span style="color: #333333;">【集     数】：8</span></div><div><span style="color: #333333;">【片     长】：平均 30 分钟</span></div><div><span style="color: #333333;">【导     演】：伊萨贝尔·科谢特</span></div><div><span style="color: #333333;">【编     剧】：伊萨贝尔·科谢特</span></div><div><span style="color: #333333;">【演     员】：拉娅·科斯塔，吉列尔莫·费宁，托尼·索恩伯格，阿涅丝·雅维，纳塔利娅·德·莫利纳，格蕾塔·费尔南德斯，约兰达·拉莫斯，费兰·阿德里亚，娜乌西卡娅·邦宁，玛丽娜·坎波斯，埃洛伊·科斯塔，卢恰娜·利提泽托</span></div><div> </div><div><span style="color: #333333;">【简     介】：</span></div><div><span style="color: #333333;">两位热衷美食的陌生人通过美食爱好者APP相识并约会。带着对确立关系的第一步中惯有的疑问，对当下充满不确定性和怀着以往恋爱中受到的情感创伤，在尝试不同的餐馆过程中两个人相互了解。 一段恋情的苦味可以持续很长时间，但总有新的美食等着被发现，然后感情就会重新出现。 恐惧，欲望，沉醉。 爱情，就像烹饪一样，就是闭着眼睛跳进虚无。</span></div></div>
+</div>
+</div>
+<div class="elementor-element elementor-element-72200a0 elementor-widget elementor-widget-html" data-id="72200a0" data-element_type="widget" data-widget_type="html.default">
+<div class="elementor-widget-container">
+<iframe src="//player.bilibili.com/player.html?aid=939007166&bvid=BV18T4y1B7Zu&cid=719326954&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" height="550" allowfullscreen="true"> </iframe></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-7b8071a5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b8071a5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10a5f394" data-id="10a5f394" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-38b64d0 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="38b64d0" data-element_type="widget" data-settings="&#123;"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","speed":500&#125;" data-widget_type="image-carousel.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+<div class="elementor-image-carousel swiper-wrapper">
+<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-3-1024x576.jpg" alt="foodielove-img-3" referrerpolicy="no-referrer"></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-6-1024x576.jpg" alt="foodielove-img-6" referrerpolicy="no-referrer"></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-2-1024x576.jpg" alt="foodielove-img-2" referrerpolicy="no-referrer"></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-4-1024x576.jpg" alt="foodielove-img-4" referrerpolicy="no-referrer"></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-1-1024x576.jpg" alt="foodielove-img-1" referrerpolicy="no-referrer"></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://sub.shinybbs.vip/wp-content/uploads/2022/05/foodielove-img-5-1024x576.jpg" alt="foodielove-img-5" referrerpolicy="no-referrer"></figure></div></div>
+<div class="swiper-pagination"></div>
+<div class="elementor-swiper-button elementor-swiper-button-prev">
+<i aria-hidden="true" class="eicon-chevron-left"></i><span class="elementor-screen-only">上一页</span>
+</div>
+<div class="elementor-swiper-button elementor-swiper-button-next">
+<i aria-hidden="true" class="eicon-chevron-right"></i><span class="elementor-screen-only">下一页</span>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-34b50e9b elementor-tabs-view-horizontal elementor-invisible elementor-widget elementor-widget-tabs" data-id="34b50e9b" data-element_type="widget" data-settings="&#123;"_animation":"fadeIn"&#125;" data-widget_type="tabs.default">
+<div class="elementor-widget-container">
+<div class="elementor-tabs">
+
+<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
+<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-8841" aria-expanded="false">网盘下载</div>
+<div id="elementor-tab-content-8841" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-8841" tabindex="0" hidden="false"><p><span style="font-family: Tahoma, &quot;"><span style="font-size: medium;"><strong>S01E01</strong><br><strong><a href="https://pan.baidu.com/s/1pXPhpDELfFOxVpkxA19HeQ?pwd=qric" target="_blank" rel="noopener">720P 百度网盘</a>密码：qric    |  </strong></span></span><strong><span style="font-family: Tahoma, &quot;"><span style="font-size: medium;"><a href="https://pan.baidu.com/s/1fqdA59XKovFbmaw5v7Kiyg?pwd=2zaz" target="_blank" rel="noopener">1080P 百度网盘</a>密码：2zaz  </span></span><br><span style="font-family: Tahoma, &quot;"><span style="font-size: medium;"><a href="https://www.aliyundrive.com/s/BjXDubAHJNo" target="_blank" rel="noopener">720P 阿里云盘</a>                     |  <a href="https://www.aliyundrive.com/s/Gs359BVPitx" target="_blank" rel="noopener">1080P 阿里云盘</a><br><a href="https://pan.quark.cn/s/dfa6b6557369" target="_blank" rel="noopener">720P 夸克网盘</a>                     |  <a href="https://pan.quark.cn/s/8a8426253665" target="_blank" rel="noopener">1080P 夸克网盘</a><br>S01E02<br><a href="https://pan.baidu.com/s/1_9GoZhgmLeeX5qu9k2KBrA?pwd=r7zs" target="_blank" rel="noopener">720P 百度网盘</a>密码：r7zs   |  <a href="https://pan.baidu.com/s/1NWUFwEF-XQTjnMuRbDy0Dg?pwd=3rpb" target="_blank" rel="noopener">1080P 百度网盘</a>密码：3rpb  <br><a href="https://www.aliyundrive.com/s/aCFbq2w3Hw7" target="_blank" rel="noopener">720P 阿里云盘</a>                     |  <a href="https://www.aliyundrive.com/s/Umki1TrtxV9" target="_blank" rel="noopener">1080P 阿里云盘</a><br><a href="https://pan.quark.cn/s/8988fd3ffde6" target="_blank" rel="noopener">720P 夸克网盘</a>                     |  <a href="https://pan.quark.cn/s/14300fd6e254" target="_blank" rel="noopener">1080P 夸克网盘</a><br>S01E03<br><a href="https://pan.baidu.com/s/1ZkSSm5n7Fjb3mhRwXQ-JVA?pwd=rmyb" target="_blank" rel="noopener">720P 百度网盘</a>密码：rmyb  |  <a href="https://pan.baidu.com/s/1yzoS0Nn6MzhUDJp-xi5XhA?pwd=2jws" target="_blank" rel="noopener">1080P 百度网盘</a>密码：2jws   <br><a href="https://www.aliyundrive.com/s/YadnXW6R6t5" target="_blank" rel="noopener">720P 阿里云盘</a>                     |  <a href="https://www.aliyundrive.com/s/U5iNmB7iuGb" target="_blank" rel="noopener">1080P 阿里云盘</a><br><a href="https://pan.quark.cn/s/86f84adf6776" target="_blank" rel="noopener">720P 夸克网盘</a>                     |  <a href="https://pan.quark.cn/s/d69fc6d52e33" target="_blank" rel="noopener">1080P 夸克网盘</a><br>S01E04<br><a href="https://pan.baidu.com/s/1ew9rewezplUY1cktyb4wTw?pwd=zpjm" target="_blank" rel="noopener">720P 百度网盘</a>密码：zpjm  |  <a href="https://pan.baidu.com/s/1Bzj6M65rtfhJutVSFPcpsw?pwd=pssm" target="_blank" rel="noopener">1080P 百度网盘</a>密码：pssm   <br><a href="https://www.aliyundrive.com/s/F3cpbA9Jfps" target="_blank" rel="noopener">720P 阿里云盘</a>                     |  <a href="https://www.aliyundrive.com/s/TDv194sCsyQ" target="_blank" rel="noopener">1080P 阿里云盘</a><br><a href="https://pan.quark.cn/s/9ab242e56720" target="_blank" rel="noopener">720P 夸克网盘</a>                     |  <a href="https://pan.quark.cn/s/529449efeeb2" target="_blank" rel="noopener">1080P 夸克网盘</a></span></span></strong></p></div>
+<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-8842" aria-expanded="false">电驴下载</div>
+<div id="elementor-tab-content-8842" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-8842" tabindex="0" hidden="hidden"><p>=============720P MP4版本===============<br><a id="ed2k_osS" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E01.720p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mp4|570048874|525C0C98BA4A2FBBF22FB6FD62CB4E58|h=QQ5VJH4HVVTDOUQDCAZML7PVA2LMUTCL|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E01.720p.WEBRip.x264.中西字幕-深影字幕组.mp4 (543.64 MB)</a><br><a id="ed2k_n9H" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E02.720p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mp4|572530842|7DEF716E1A7D4E19538D648CB79636BC|h=5NLXGAUEFVTPS7WFDDCC3MRKBB3IMZ7F|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E02.720p.WEBRip.x264.中西字幕-深影字幕组.mp4 (546.01 MB)</a><br><a id="ed2k_J1w" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E03.720p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mp4|577057826|6261B8E037C1A4B0C34D5B23BACA2F4F|h=BYX6VLL4KL7TL5QNZUDLLFM2QVVV62ZX|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E03.720p.WEBRip.x264.中西字幕-深影字幕组.mp4 (550.33 MB)</a><br><a id="ed2k_s3q" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E04.720p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mp4|577217139|00823B3AF2D38E4DDADD8422E22AB24C|h=5QD4D6IYAWNLWNKVRX2HH7QNP4S52GT2|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E04.720p.WEBRip.x264.中西字幕-深影字幕组.mp4 (550.48 MB)</a><br><br>============1080P MKV版本===============<br><a id="ed2k_vaF" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E01.1080p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mkv|877440967|2F9AF171874452D3CA4863F2B22187E5|h=WMDWDPWKYDI5UJOWEXEAIIEYS7UKOYKX|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E01.1080p.WEBRip.x264.中西字幕-深影字幕组.mkv (836.79 MB)</a><br><a id="ed2k_Rn0" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E02.1080p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mkv|881471138|9598C430215AEBC26912E3A9FD3BFDE4|h=2LSN44ZKFDDKKEDEQKIMSV7NIGLOLAZL|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E02.1080p.WEBRip.x264.中西字幕-深影字幕组.mkv (840.64 MB)</a><br><a id="ed2k_dVk" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E03.1080p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mkv|890269611|207235A502F4ACBEC1197466F4321D74|h=S6TZER6SDQWJZTF5LSNYIIOIBSABQAKE|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E03.1080p.WEBRip.x264.中西字幕-深影字幕组.mkv (849.03 MB)</a><br><a id="ed2k_irT" href="ed2k://|file|%E7%BE%8E%E9%A3%9F%E4%B9%8B%E6%81%8B.Foodie.Love.S01E04.1080p.WEBRip.x264.%E4%B8%AD%E8%A5%BF%E5%AD%97%E5%B9%95-%E6%B7%B1%E5%BD%B1%E5%AD%97%E5%B9%95%E7%BB%84.mkv|890585263|FD93E7C04275D804A79B882CAAE85741|h=LW6Q54A4FNVJFR2SIPYE7A4ZI2LSMLMO|/" target="_blank" rel="noopener">美食之恋.Foodie.Love.S01E04.1080p.WEBRip.x264.中西字幕-深影字幕组.mkv (849.33 MB)</a></p></div>
+<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-8843" aria-expanded="false">磁力下载</div>
+<div id="elementor-tab-content-8843" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-8843" tabindex="0" hidden="hidden"><p><a href="magnet:?xt=urn:btih:14C9D4F6090A91891B655EE8343E05E0F0F38D35&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E01.720p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E01  720p</a></p><p><a href="magnet:?xt=urn:btih:3482733FFC69C2A115F83FF9BE7B9167E7172C82&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E01.1080p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E01  1080p</a></p><p><a href="magnet:?xt=urn:btih:3DBA822D6DDB712CA098369CD0FC6F63A30BD9B4&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E02.720p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E02  720p</a></p><p><a href="magnet:?xt=urn:btih:B4F1F5B877C966052BC74C12F7DA154FE755B63C&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E02.1080p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E02  1080p</a></p><p><a href="magnet:?xt=urn:btih:2F05979920FA0B7BFB7FDC61AF576CDB93F4FFC7&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E03.720p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E03  720p</a></p><p><a href="magnet:?xt=urn:btih:EF89F4F020814DA1A03C6CACDCC316C70CEBE17A&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E03.1080p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E03  1080p</a></p><p><a href="magnet:?xt=urn:btih:9BC0AACD47FC53053A6E2169430D0FD996D0FA37&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E04.720p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E04  720P</a></p><p><a href="magnet:?xt=urn:btih:B1A9875D06D85AFBB63569BF59F9DAFDB184834F&dn=%e7%be%8e%e9%a3%9f%e4%b9%8b%e6%81%8b.Foodie.Love.S01E04.1080p.WEBRip.x264.%e4%b8%ad%e8%a5%bf%e5%ad%97%e5%b9%95-%e6%b7%b1%e5%bd%b1%e5%ad%97%e5%b9%95%e7%bb%84.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">S01E04  1080p</a></p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+</div>
+</div>
+</div>
+  
+</div>
+            
