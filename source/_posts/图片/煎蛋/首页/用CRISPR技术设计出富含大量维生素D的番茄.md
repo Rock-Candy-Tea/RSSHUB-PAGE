@@ -14,7 +14,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/4
 
 <div>   
 <blockquote><p>好吃吗</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/4f9acaaa910a0cd19af2f79d07cd2c50.jpg!custom" referrerpolicy="no-referrer"><p>通过CRISPR 技术编辑一些基因，科学家们设计出一种特殊的可晒番茄，在叶子上装满了维生素 D。</p>
-<p>水果的果肉和果皮经过基因工程改造，含有与两个鸡蛋或 28 克金枪鱼相同的维生素 D 水平，这两种都是目前推荐的重要营养素来源。</p>
+<p><strong>水果的果肉和果皮</strong>经过基因工程改造，含有与两个鸡蛋或 28 克金枪鱼相同的维生素 D 水平，这两种都是目前推荐的重要营养素来源。</p>
 <p>当暴露在紫外线下一个小时后，这些维生素原很容易转化为维生素 D3。</p>
 <p>维生素原和维生素都具有潜在的健康收益。</p>
 <p>“我们已经证明，你可以使用基因编辑对番茄进行维生素 D3 的生物强化，这意味着番茄可以被开发为一种基于植物的、可持续的维生素 D3 来源。”在独立研究机构英国植物研究中心John Innes中心工作的植物学家 Cathie Martin 说。</p>
