@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/77/af297066baf1ace3ccca3d95ce1gj3x5.JPG?v=1653894515277'
 author: 巴哈姆特
 comments: false
-date: 2022-05-30 10:09:35
+date: 2022-05-30 11:08:58
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/af297066baf1ace3ccca3d95ce1gj3x5.JPG?v=1653894515277'
 ---
 
@@ -67,11 +67,11 @@ eFootball Championship Pro</h3>
 <div>
  </div>
 <div>
-　　eFootball Championship Pro 還將看到由參與俱樂部開展的一系列活動，球迷們可以根據比賽結果為自己贏得俱樂部禮物。</div>
+　　eFootball Championship Pro 還將看到由參與俱樂部展開的一系列活動，球迷們可以根據比賽結果為自己贏得俱樂部禮物。</div>
 <div>
  </div>
 <div>
-　　有關 eFootball Championship Pro 活動期間的更多詳細信息，請查看俱樂部的官方公告和 <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=eFootball+2022" target="_blank">eFootball 2022</a> 的遊戲內新聞。</div>
+　　有關 eFootball Championship Pro 活動期間的更多詳細資訊，請查看俱樂部的官方公告和 <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=eFootball+2022" target="_blank">eFootball 2022</a> 的遊戲內新聞。</div>
 <div>
  </div>
 <h3>
@@ -105,7 +105,7 @@ eFootball Championship Open</h3>
 <div>
  </div>
 <div>
-　　eFootball Championship 2022 將使用遊戲模「Dream Team」進行。這是一種全新的遊戲模式，玩家可已透過使用遊戲內物品（例如由參加不同的遊戲內比賽和活動）並與來自世界各地的玩家進行較量。</div>
+　　eFootball Championship 2022 將使用遊戲模式「Dream Team」進行。這是一種全新的遊戲模式，玩家可已透過使用遊戲內物品（例如由參加不同的遊戲內比賽和活動）並與來自世界各地的玩家進行較量。</div>
 <div>
  </div>
 <div>
@@ -119,7 +119,7 @@ eFootball Championship Open</h3>
 <div>
  </div>
 <div>
-　　有關 2022 年 eFootball 錦標賽的更多信息，可參考比賽的官方網站：</div>
+　　有關 2022 年 eFootball 錦標賽的更多資訊，可參考比賽的官方網站：</div>
 <div>
  </div>
 <ul>
