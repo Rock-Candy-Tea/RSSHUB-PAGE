@@ -1,0 +1,19 @@
+
+---
+title: '英雄联盟赛事RNG夺冠，股东虎牙赚了流量还没赚钱'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/transform/40/w550h290/20220530/cb29-c9dd08fc1f962ef0b7b52827039d2b5e.jpg'
+author: cnBeta
+comments: false
+date: Mon, 30 May 2022 08:56:11 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/transform/40/w550h290/20220530/cb29-c9dd08fc1f962ef0b7b52827039d2b5e.jpg'
+---
+
+<div>   
+5月29日，<strong>2022英雄联盟季中冠军赛（即MSI）中国赛区代表队RNG战胜韩国T1队夺冠，这是RNG队史上的第三座MSI冠军。</strong>继去年11月EDG夺冠后，电竞赛事也再次刷屏朋友圈并登上微博热搜第一。<br>
+ <p style="text-align: left;">作者/刘晓洁</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/40/w550h290/20220530/cb29-c9dd08fc1f962ef0b7b52827039d2b5e.jpg" alt data-link referrerpolicy="no-referrer"></p><p style="text-align: left;">MSI是是英雄联盟赛事体系中仅次于S级全球总决赛的级别，也是每年中旬的世界级赛事，含金量和话题度不可谓不高。截至发稿，#RNG夺冠#微博话题阅读超36亿人次，讨论约90万。</p><p style="text-align: left;">此次RNG夺冠背后，不得不提作为游戏直播龙头的<a href="http://stock.finance.sina.com.cn/usstock/quotes/HUYA.html" target="_blank">虎牙</a>，其不仅拥有此次英雄联盟赛事的独播权，还是冠军战队RNG的股东之一。</p><p style="text-align: left;">天眼查资料显示，RNG全称皇族电子竞技俱乐部，成立于2012年5月，所属公司为上饶市乐游网络科技，2018年11月，虎牙通过其持股99.9%的管理咨询合伙企业入股乐游网络，获得10.27%股权，而RNG战队成员也全员签约虎牙直播。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/tech/transform/698/w550h148/20220530/32ac-237e994b7d3762d09d729d5a1c6ca29f.png" alt data-link referrerpolicy="no-referrer"></p><p style="text-align: left;">RNG曾获得5次LPL冠军，微博粉丝约为860万，战队关注度仅次于IG俱乐部。此次赞助商队伍也颇为庞大，包括梅赛德斯奔驰、东鹏特饮、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://logitech.jd.com/" target="_blank">罗技</a>、娃哈哈等公司均为其赞助商，其中东鹏特饮已是自2018年以来连续第五年赞助RNG电竞战队。</p><p style="text-align: left;">截至发稿，虎牙平台界面显示，约有1500万人订阅了这场决赛，在转播的<a href="http://stock.finance.sina.com.cn/usstock/quotes/BILI.html" target="_blank">B站</a>直播平台，同样也有上千万人次的观看量。</p><p style="text-align: left;">就在2021年初，虎牙斥资约20亿元拿下英雄联盟职业联赛（LPL）五年独播权，破版权赛事价格历史记录，也成为国内唯一集齐英雄联盟5大赛区版权的直播平台，目前来看这笔投入或许不亏。</p><p style="text-align: left;">去年11月，拳头游戏官方公布，2021年10月《英雄联盟》IP 系列产品月活跃数已超1.8亿。同时，直播平台数据挖掘服务商头榜数据报告显示，2021年直播十大热门游戏中，《英雄联盟》的日均开播主播数为19.42万，仅次于《王者<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">荣耀</a>》，而其日均活跃观众数为全平台最多，达到了345.94万。</p><p style="text-align: left;">对于游戏直播来说，拥有赛事版权就等于拥有用户，虎牙这两年也一直在赛事版权方面布局。2021年11月，虎牙与ESL公司签署了为期两年的中文独家赛事直播版权协议，涵盖CS:GO、Dota2、星际争霸II等赛事。目前，虎牙已基本涵盖包括王者荣耀、和平精英等电竞品类在内的头部游戏直播版权。</p><p style="text-align: left;">此外，作为虎牙全资持股的大股东，<a href="http://stock.finance.sina.com.cn/hkstock/quotes/00700.html" target="_blank">腾讯</a>可以给予虎牙最充分的内容资源支持。游戏直播平台的热门产品几乎都归属于腾讯旗下，其在内容端拥有绝对优势。</p><p style="text-align: left;">今年一季度，虎牙直播了约80项版权赛事，这些赛事的收看人次超7亿次。第一季度通常不是版权赛事旺季，但本季度赛事的总收看人次超过了上个季度。</p><p style="text-align: left;">顶级赛事不仅能吸引广告商入驻，还可以通过分销获利。5月17日虎牙发布其2022年一季度财报，显示2022第一季度虎牙的广告和其他收入逆势增长约47.2%，达3.1亿元，财报解释称这主要受内容分许可收入增加的推动。</p><p style="text-align: left;">丰富的内容布局也驱动了平台用户增长。今年一季度，虎牙直播移动端MAU(月均活跃用户数)达8190万，同比增长8.5%；直播服务的付费用户数为590万，与去年同期相比持平。</p><p style="text-align: left;">虎牙一季度主营业务直播服务的营收下滑了约10%至21.5亿元。虎牙财报表示，受宏观经济影响，虎牙直播的每位付费用户平均支出下降。成本方面，由于收入分成费用和电子竞技版权支出同比上升了3.4%达约18.1亿元，虎牙当期营收成本为21.3亿元，同比增长1.9%。</p><p style="text-align: left;">2022年第一季度，虎牙总收入为24.6亿元，同比下滑0.5%；归属于虎牙的净亏损为330万元，同比转亏，去年同期为净利润1.855亿元；在非美国通用会计准则下，虎牙本季度净利润为4660万元，同比下滑82.47%，但环比扭亏。2021年第四季度，虎牙Non-GAAP净利润首次转亏2.42亿元。</p><p style="text-align: left;">虎牙财务副总裁吴欣曾表示，尽管经营环境波动较大，但虎牙继续在内容投资和电竞方面的战略努力，以扩大产品和推动用户的持续增长。</p><p style="text-align: left;">在完善顶尖直播资源储备的同时，虎牙还储备了不少电竞头部主播和战队资源，持续押注电竞。</p><p style="text-align: left;">除持股RNG外，虎牙在2018年成立了自己的战队“成都猎人”，直接参与《守望先锋》电竞赛事。官网显示，虎牙直播还签下了众多世界冠军级战队与主播，如英雄联盟版块签约了RNG、FPX等，主播方面拥有全明星Solo冠军Uzi、原职业选手mlxg等；王者荣耀版块签约了KPL五冠王QGhappy，以及Hero等9支职业战队，拥有张大仙、孤影等主播。</p><p style="text-align: left;">以电竞入亚、《英雄联盟》总决赛夺冠等事件为契机，电子竞技产业的社会影响还在持续扩大。中国音数协游戏工委《2021年中国游戏产业报告》显示， 2021年国内电子竞技市场销售收入1401.81亿元，同比增长2.65%。用户规模达到4.89亿，同比增长0.27%，“全民电竞”时代，这个领域还有很多可能。</p>   
+</div>
+            
