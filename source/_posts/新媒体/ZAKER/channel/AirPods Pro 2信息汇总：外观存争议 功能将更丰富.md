@@ -1,0 +1,18 @@
+
+---
+title: 'AirPods Pro 2信息汇总：外观存争议 功能将更丰富'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629433d48e9f09421641d80e_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 29 May 2022 20:31:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629433d48e9f09421641d80e_1024.jpg'
+---
+
+<div>   
+<p>国外科技媒体 BGR 在最新文章中汇总了现阶段关于苹果 AirPods Pro 2 的所有信息。综合各方面的信息，这款旗舰无线耳机在多个方面会有不小的升级，会让人产生强烈的购买和升级欲望。</p><p><strong>● 外观设计</strong></p><p>关于下一代 AirPods Pro 2 耳塞的设计存在一些争论。一些谣言表明，整体设计将与当前模型几乎相同。然而，其他谣言表明苹果希望为 AirPods Pro 耳机带来无柄设计。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/629433d48e9f09421641d80e_1024.jpg" data-height="864" data-width="1536" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629433d48e9f09421641d80e_1024.jpg" referrerpolicy="no-referrer"></div></div>外媒表示，Apple 的目标是采用更紧凑的设计，形状更圆润，这可以使耳机具有类似于 Google Pixel Buds 的设计。当然，这会改变 AirPods 目前的工作方式。现有的柄允许用户通过挤压来控制 AirPods Pro，而且它使它们更容易识别。<p></p><p><strong>● 端口</strong></p><p>此前有传言称 AirPods Pro 2 将配备用于有线充电的 USB-C 端口，但苹果分析师 Ming-Chi Kuo 的一份新报告称，耳机将保留 Lightning 端口。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/629433d48e9f09421641d80f_1024.jpg" data-height="717" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629433d48e9f09421641d80f_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>● 更丰富的功能</strong><p></p><p>AirPods Pro 的功能总是比标准 AirPods 多一点，下一代机型可能也不会有什么不同。 AirPods Pro 2 可能会提供许多新功能，使其在竞争中处于领先地位。</p><p>除了我们已经讨论过的健身追踪功能之外，有传言称，AirPods Pro 2 将提供在检测到声音时自动关闭降噪功能的功能，例如您的伴侣或配偶的声音。当然，它们还将支持无线充电、通透模式等。</p><p>新的 AirPods Pro 2 也可能对 Find My 有更好的支持。耳机已经支持 Find My，但有传言称，除了耳塞之外，该机壳可能还支持 Find My。</p><p>根据苹果分析师 Ming-Chi Kuo 的说法，它们可能还支持无损音频，这将带来更好的音频质量。这可能意味着 Apple 将取消蓝牙连接，或者仅将蓝牙用于不支持 Apple 实施的任何新标准的设备。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202205/629433d48e9f09421641d810_1024.jpg" data-height="1479" data-width="598" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/629433d48e9f09421641d810_1024.jpg" referrerpolicy="no-referrer"></div></div>AirPods Pro 2 可能会在苹果大力推动健身追踪方面发挥作用。根据最近的许多传言，AirPods Pro 2 将通过内置传感器提供某种健身追踪功能。也就是说，我们还不知道这些传感器将通过 AirPods Pro 2 追踪什么。<p></p><p><strong>● 发售日期</strong></p><p>据报道，苹果的目标是在 2022 年推出，苹果分析师郭明錤预计这款耳机将于 2022 年第四季度推出。它们可能会在 2022 年 10 月与 iPhone 14 系列一起推出。 Kuo 的推文指出，Apple 可能最终会在 AirPods Pro 2 之后停产 AirPods Pro 系列。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202205/629433d48e9f09421641d811_1024.jpg" data-height="1125" data-width="2000" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629433d48e9f09421641d811_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>● 售价</strong><p></p><p>预计新款 AirPods Pro 的价格与当前的 AirPods Pro 相似，这意味着它们的价格应该在 250 美元左右。然而，如果苹果设法在耳机中加入更多功能，它最终可能会提高耳机的价格。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
