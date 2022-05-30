@@ -1,0 +1,18 @@
+
+---
+title: 'PC 平台首个 PS4_PS5 模拟器_Kyty_问世，目前已可运行部分游戏'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b39_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 30 May 2022 04:17:20 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b39_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 5 月 30 日消息，PS5 于 2020 年 11 月 12 日正式上市，距离现在已有一年半的时间，也是目前最火的世代主机，不过疫情肆虐导致缺货严重，家用游戏机产品也长期处于涨价状态，目前想要以原价购得 Playstation 5 更是难上加难。</p><p>开发商 InoriRus 最近就发布了首个 PC 平台的主机模拟器「Kyty」，而且还开源，可游玩 PS4 / PS5 游戏。当然，「Kyty」模拟器目前还处于非常早期的开发阶段，但它已目前经可以运行一些 PS4 游戏了。</p><p>目前来看，「Kyty」模拟器仍有不完善的地方，对 Playstation 5 的支持尚未完全到位，因此会出现锯齿、崩溃、冻结或者掉帧等问题，目前尚待完善的功能还包括音讯输入、输出、MP4 影像、网络、多用户切换等，而且虽然是 PS5 模拟器但暂时还不能显示 / 运行任何 Playstation 5 游戏。</p><p>IT 之家了解到，开发商也先行公布了「Kyty」运行 PS4 游戏《百战天虫 WMD》的实机画面，让我们一起来看看吧。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b39_1024.jpg" data-height="360" data-width="720" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b39_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b3a_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b3a_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3b_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3b_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3c_1024.jpg" data-height="720" data-width="1280" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3c_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b3d_1024.jpg" data-height="862" data-width="1301" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202205/629476b78e9f097f7e776b3d_1024.jpg" referrerpolicy="no-referrer"></div></div>当然了，目前这款模拟器也还无法运行最新的 PS4 游戏，所以他目前和已经非常成熟的 PS3 模拟器 RPCS3 还有相当大的差距，你最好不要抱太大希望。<p></p><p>值得一提的是，「Kyty」已经是目前正在积极开发中的第三个 PS4 模拟器了，另外两个 PS4 模拟器是「Spine」和「GPCS4」，但「Kyty」可以模拟 PS5 主机，这一点尤为特别。</p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3e_1024.jpg" data-height="442" data-width="800" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202205/629476b78e9f097f7e776b3e_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
