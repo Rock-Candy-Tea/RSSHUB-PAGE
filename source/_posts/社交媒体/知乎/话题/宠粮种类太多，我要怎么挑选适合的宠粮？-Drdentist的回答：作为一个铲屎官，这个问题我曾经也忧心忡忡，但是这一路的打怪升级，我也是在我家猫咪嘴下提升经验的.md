@@ -1,0 +1,18 @@
+
+---
+title: '宠粮种类太多，我要怎么挑选适合的宠粮？-Drdentist的回答：作为一个铲屎官，这个问题我曾经也忧心忡忡，但是这一路的打怪升级，我也是在我家猫咪嘴下提升经验的...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-0ad8cf0f4d170d40450fca0b47586138_1440w.jpg'
+author: 知乎
+comments: false
+date: Mon, 30 May 2022 06:03:06 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-0ad8cf0f4d170d40450fca0b47586138_1440w.jpg'
+---
+
+<div>   
+<strong>宠粮种类太多，我要怎么挑选适合的宠粮？</strong><br>Drdentist的回答<br><p data-pid="r16LMOMP">作为一个铲屎官，这个问题我曾经也忧心忡忡，但是这一路的打怪升级，我也是在我家猫咪嘴下提升经验的。</p><p data-pid="TdjN50Nt">猫咪本身是食肉动物，最爱吃的莫过于生骨肉之类的食物。由于最开始我没有什么养猫经验，就直接带它去宠物店在买了一些宠物店商家推荐的猫罐头和冻干。当时不知道猫咪会喜欢吃哪个，所以就买了好几种带回家。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-0ad8cf0f4d170d40450fca0b47586138_1440w.jpg" data-caption data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-qrcode-action="none" data-default-watermark-src="https://pic1.zhimg.com/v2-b772b1fce217a678a0ef3c76bcce57a4_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-0ad8cf0f4d170d40450fca0b47586138_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="xwA5TqJw">在众多猫粮中，我发现我家猫咪好像更爱吃新西兰k9的冻干。其他的猫粮可能吃五六口就没兴趣了，但是k9基本上都能见底。</p><p data-pid="on9V6lY0">看猫咪吃的这么香就知道适口性不错了~每次吃完之后还会心满意足的用舌头舔舔嘴边。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d7e11988ab73a39b4850cc0b51909d48_1440w.jpg" data-caption data-size="normal" data-rawwidth="4032" data-rawheight="3024" data-default-watermark-src="https://pic3.zhimg.com/v2-26fa08fefee74df46b76d840a851c6fe_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d7e11988ab73a39b4850cc0b51909d48_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="GUuqQ0Ky">在这期间，我发现有的猫冻干成分表里加什么谷物啊，诱食剂啊，猫咪也能吃，但是整个状态不太对，甚至偶尔还会吃坏肚子，猫咪真的太金贵了，真的，比起去医院花的钱不如就给它买点好粮~</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c0ffa9af580c31775ffc6a79ca215851_1440w.jpg" data-size="normal" data-rawwidth="2949" data-rawheight="3933" data-default-watermark-src="https://pic4.zhimg.com/v2-37364505d6b7eb80054663beefb7473b_b.jpg" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c0ffa9af580c31775ffc6a79ca215851_r.jpg" referrerpolicy="no-referrer"><figcaption>突然变的贼老实</figcaption></figure><p data-pid="aAd86Ocj">虽然说我是买来的经验，多花了一点钱，却是很值得的，能够发现适合自己猫咪的猫粮也算有所收获。在品质上来讲，K9的猫粮要更加纯粹一些，也更加丰富一些，毕竟是大牌，也有保障~</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c7377771418f65d2012f53383c705000_1440w.jpg" data-caption data-size="normal" data-rawwidth="802" data-rawheight="40" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c7377771418f65d2012f53383c705000_r.jpg" referrerpolicy="no-referrer"></figure><p data-pid="DbhNbJYb"><b>更多帮助你改善生活难题解除顾虑而又涨知识的回答，使劲戳：↓↓↓</b></p><p class="ztext-empty-paragraph"><br></p><a href="https://zhuanlan.zhihu.com/p/430053839" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-362ebe22aa542572faff24c7af2a26b4_ipico.jpg" class="internal">每天早上起来刷牙都会牙齿出血，有什么办法呢？47 赞同 · 9 评论文章</a><p class="ztext-empty-paragraph"><br></p><a href="https://zhuanlan.zhihu.com/p/404953679" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-2953dddd8fa07bc1fe9e339cc0b824d7_ipico.jpg" class="internal">你一开口变成整个办公楼最有名的人。牙龈出血，口臭，蛀牙。你明白了什么是冲牙器吗？41 赞同 · 15 评论文章</a><p class="ztext-empty-paragraph"><br></p><a href="https://zhuanlan.zhihu.com/p/496735111" data-draft-node="block" data-draft-type="link-card" data-image="https://pic2.zhimg.com/v2-3c6e5285eeab099f7c26094a0e00a379_ipico.jpg" class="internal">牙膏片在Instagram上传疯了，你还不知道？0 赞同 · 0 评论文章</a><p></p>  
+</div>
+            
