@@ -1,0 +1,18 @@
+
+---
+title: '「每日PC游报」一起看看今天游戏圈发生了什么吧！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/05/28/9a9eb8df7ef0e06f39a79dfad0eb0db4/thumb.png'
+author: 小黑盒
+comments: false
+date: 2022-05-30 15:11:18
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/05/28/9a9eb8df7ef0e06f39a79dfad0eb0db4/thumb.png'
+---
+
+<div>   
+<blockquote><p>每日新鲜事，新闻短回顾</p></blockquote><h1>《碳酸危机》：为了快乐水，我全副武装大战外星人</h1><blockquote><p>本文作者：<a href="heybox://open_subject" target="_blank">#老实人评测#</a>slan</p></blockquote><p>《碳酸危机》是一款<b>横版平台射击游戏</b>，一个用各种高科技装备全副武装拥有惊人战斗力的神秘角色要与敌人展开殊死大战，<b>只为那一罐冰可乐</b>。</p><p>独特风格的画面、动感的音秀的操作手感，配合游戏中大量的武器、道具达到一种<b>喝冰可乐的爽快感</b>。    </p><img class="lazy" data-height="819" src="https://imgheybox.max-c.com/bbs/2022/05/28/9a9eb8df7ef0e06f39a79dfad0eb0db4/thumb.png" data-width="738" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82109899">点击查看新闻详情 >></a></p><h1>「Steam一周数据」销量榜首和在线最多的游戏是哪些？</h1><p>5月23日-5月29日Steam一周数据统计现已出炉，我们会从一周销量排行榜、一周日均在线人数和一周新增愿望单数量这三个方面进行统计汇总，来向玩家展示过去的一周里Steam上最受欢迎和关注的游戏都是哪些。</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82170630">点击查看新闻详情 >></a></p><h1>《数码宝贝：绝境求生》新CM公开！7月正式发售</h1><p>万代南梦宫官方公开了《数码宝贝：绝境求生》的新CM，该作将于7月正式发售，登陆PS4、Xbox One、Switch、PC平台，支持中文。</p><p>剧情简介：</p><p>传说中在某个地方存在着一位兽神，会定时要求人们献祭童子。</p><img class="lazy" data-height="1500" src="https://i1.max-c.com/imgx/2022/05/30/0827ee3f7c304ae29ce646f94ee0aa311653881538.jpg" data-width="923" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82176311">点击查看新闻详情 >></a></p><h1>国产单机《古剑奇谭三》将改编MMORPG手游和VR游戏</h1><p>《古剑奇谭三》是上海烛龙于2018年开发的一款单机ARPG游戏，得到了许多国内玩家的好评，在海外也取得不错的销量成绩。富春科技股份有限公司发布公告，宣布旗下全资子公司上海骏梦网络科技有限公司拿下了《古剑奇谭三》的游戏改编权，<b>计划推出一款MMORPG手游，以及一款VR游戏。</b></p><img class="lazy" data-height="467" src="https://i1.max-c.com/imgx/2022/05/30/dd480f6129f849e581815a251057dfdb1653872525.png" data-width="653" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82171716">点击查看新闻详情 >></a></p><h1>《英雄联盟》2022年5月30日 不停机更新公告</h1><p>亲爱的召唤师：</p><p>我们将于5月30日17:30左右进行不停机更新，以进行一些平衡性调整和BUG修复。</p><p><b>英雄耐久度后续改动</b></p><p>《英雄联盟》团队对耐久度更新进行了第一套调整，目标是那些在版本发布后超出了通常的胜率范围的英雄们和产生了不成比例的改变的英雄们。</p><img class="lazy" data-height="120" src="https://i1.max-c.com/imgx/2022/05/30/fb1a1f9845fe4745b3d3fbe7dfed122b1653901448" data-width="120" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82191063">点击查看新闻详情 >></a></p><h1>Petr1k：客观来说，失去胖球以后NAVI短时间内很难重返第一</h1><blockquote><p>本文来源：完美世界电竞APP</p><p>作者：[别不送]</p></blockquote><p>独联体分析师Petr1k在个人播客中谈到了NAVI的变阵。Petr1k认为NAVI找不到合适的人选替代Boombl4，NAVI的实力也将因此受损。节目里Petr1k还提供了几个合适的人选以供参考。</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82178525">点击查看新闻详情 >></a></p><h1>成为18世纪的赌圣吧！《Card Shark》愿望单活动开启</h1><p>“我们今晚的对手？是一群无耻的恶棍和流氓，听说他们手里有源源不断的赌资。只要我们能按部就班地使出你学过的策略，赢过他们轻而易举。”——圣日耳曼伯爵</p><p>由卡牌游戏《王权》的开发商Nerial带来的卡牌类冒险游戏《Card Shark》（又名千爵史诗）将于6月2日正式发售，在这个尔虞我诈的18世纪中，你要玩的不是纸牌，而是你的对手们。</p><img class="lazy" data-height="194" src="https://imgheybox.max-c.com/web/2022/05/30/b67f6bafee4021f9f7a1c76aa41bad14.gif" data-width="620" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82183109">点击查看新闻详情 >></a></p><h1>完全休闲！《小黄鸭模拟器》啥也不干漂着就行！</h1><p>复古休闲游戏《小黄鸭模拟器（Placid Plastic Duck Simulator）》将于7月2日上线Steam商店，暂不支持中文。</p><p>游戏的玩法非常简单，化身各式各样的塑料小黄鸭，伴随着清爽的音乐漂浮在泳池中。</p><img class="lazy" data-height="1080" src="https://i1.max-c.com/imgx/2022/05/30/94715a6b4c5e4f0eb9a979676d6bd5411653882723.jpg" data-width="1920" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=82176935">点击查看新闻详情 >></a></p>  
+</div>
+            
