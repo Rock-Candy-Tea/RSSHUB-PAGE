@@ -1,0 +1,19 @@
+
+---
+title: 'Tau Herculids或会成为近些年来最强大的流星暴'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/05/766d934cf85f750.jpg'
+author: cnBeta
+comments: false
+date: Tue, 31 May 2022 06:32:32 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/05/766d934cf85f750.jpg'
+---
+
+<div>   
+天文学家们对5月30-31日可能出现的壮观的新流星雨感到兴奋。它是否壮观取决于地球穿越彗星轨道的时间。随着这一事件的到来，让我们来看看流星雨的前景、以往的流星暴中发生了什么等信息。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/766d934cf85f750.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/766d934cf85f750.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>Tau Herculids到目前为止的故事</strong></p><p style="text-align: left;">流星雨的来源是短周期彗星73P/Schwassmann-Wachmann 3。尽管有这个名字，但tau Herculids的辐射点实际上现在已经从武仙座漂移到了相邻的牧羊人星座Boötes。不过将这个流星雨重新命名为Boötids也是有问题的，因为六月已经有一个同名的流星雨。日前，这个流星雨的辐射点位于距离明亮的星体Arcturus约8度的地方，在球状星团Messier 3和Alkaid的方向，位于北斗七星柄的顶端。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/1a55bc412bff760.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/1a55bc412bff760.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">而真正让流星雨科学家们兴奋的是地球在2022年跟该彗星1995年的碎裂流相遇。在这次事件中，彗星的亮度急剧增加了400倍。现在，这颗彗星还没有接近地球，实际上它离地球有1.4个天文单位(AU)的距离，但1995年的事件应该为我们这个美丽的星球奠定了一个体面的粒子流。</p><p style="text-align: left;">截至发稿时，美国流星协会(AMS)已经将关键的相遇时间调整为世界时间(UT)4:45-5:17/美国东部时间(EDT)上午12:45-1:17或太平洋时间(PDT)周一晚9:45-10:17。在这个时候，辐射将正好位于下加利福尼亚的天顶，尽管大部分北美和南美都将很好地见证任何流星活动的上升。月亮在5月30日的前一天也达到了新月--这是另一个好处。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/21858adf2ba481b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/21858adf2ba481b.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">如果从tau Herculids中得到10倍的增长，那么可能会看到每小时140颗流星的天顶速率(ZHR)--类似于每年的双子座或英仙座。如果我们达到100倍或更高的增幅，那么事情就会变得有趣。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/9263f6ea0bb6642.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/9263f6ea0bb6642.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">不过首先要注意的是，一些注意事项是必要的。在1995年的事件中，73P彗星喷出了多少碎片、向哪个方向喷出这都是未知数：这可能会使风暴比预期的更强或更弱。另外，tau Herculid流从后面接近地球，这使它们成为一个较慢的阵雨，需要比平时更大的颗粒来照亮天空。最后要记住的是，ZHR数字是一个理想的比率，假设在黑暗的天空中，辐射物直接在头顶上--大多数观察者在现实中会看到更少。</p><p style="text-align: left;"><strong>流星风暴的解剖</strong></p><p style="text-align: left;">通常情况下，1000或更高的ZHR被认为是流星暴的非正式分界线，而不是一场微不足道的流星雨。通常在每年的双子座或英仙座期间，大家会看到每分钟左右就有一两颗流星；在每小时超过一千颗的速度下每几秒钟就会看到一颗流星，这包括明亮的火球。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/f204fb02f9af848.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/f204fb02f9af848.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据了解，2022年的tau Herculids的解剖结构跟过去的另一场大风暴有一些相似之处：现在已经不存在的Andromedids。这个流星雨的源头是现在已经不存在的“失落彗星 ”3D/Biela，它被认为在19世纪末曾分裂并产生了一些伟大的流星暴。</p><p style="text-align: left;"><strong>观察流星雨</strong></p><p style="text-align: left;">好消息是，你不需要任何特殊的设备来观察流星雨：只需要晴朗的天空和耐心。通常采取的策略是观察约十分钟。你甚至可以通过调到调频盘上的空闲频率的收音机来聆听流星的声音。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/05/03d0f271564a32d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/05/03d0f271564a32d.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">截至发稿时，美国毗连地区的云层覆盖前景看起来大部分是有利的。如果被云层遮挡，那么也许值得在NASA的全天空流星相机网络上检查一下行动。</p><p style="text-align: left;">拍摄流星雨就像设置一个安装在三脚架上的数码单反相机和一个广角镜头一样简单，将焦点和优先权设置为手动/亮度设置，然后快速试拍几张从而使ISO/曝光/光圈设置适合的天空条件，最后看看会出现什么。</p><p style="text-align: left;">另外，一定要数数流星并把看到的东西报告给国际流星组织(IMO)。这些数据对未来的流星科学和模拟流星群和流星雨都会有很大的帮助。</p><p style="text-align: left;">最后，对守望要有耐心。你可能什么都看不到，也可能目睹一生中的奇观。或许能做的就是祈祷这一切如期到来。</p>   
+</div>
+            
