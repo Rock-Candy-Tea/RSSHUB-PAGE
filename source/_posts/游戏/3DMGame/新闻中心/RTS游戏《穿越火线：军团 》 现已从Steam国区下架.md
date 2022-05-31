@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220531/1653977153_4856
 
 <div>   
 <p style="text-indent:2em;">
-RTS游戏《穿越火线：军团（Crossfire: Legion）》现已在国区Steam下架，游戏由《家园》的制作工作室Blackbird Interactive打造，并于5月24日EA发售，游戏延续了《穿越火线》的世界观，是一款快节奏的战略游戏。此外，将于6月28日发售的《地下城勇士：决斗》也在前几天短暂的上线Steam国区后便匆匆下架，两款游戏均支持中文字幕和语音。
+RTS游戏《穿越火线：军团（Crossfire: Legion）》现已在国区Steam下架，游戏由《家园》的制作工作室Blackbird Interactive打造，并于5月25日EA发售，游戏延续了《穿越火线》的世界观，是一款快节奏的战略游戏。此外，将于6月28日发售的《地下城勇士：决斗》也在前几天短暂的上线Steam国区后便匆匆下架，两款游戏均支持中文字幕和语音。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220531/1653977153_485617.png" alt="RTS游戏《穿越火线：军团 》 现已从Steam国区下架" referrerpolicy="no-referrer"> 
