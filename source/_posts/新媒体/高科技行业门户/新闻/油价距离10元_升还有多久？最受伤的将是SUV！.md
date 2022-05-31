@@ -1,0 +1,19 @@
+
+---
+title: '油价距离10元_升还有多久？最受伤的将是SUV！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095140348257.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 31 May 2022 03:21:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095140348257.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">昨晚上12点，国内油价再次上涨，导致国内很多地方92＃汽油进入9元时代，川渝两地的92＃汽油价格分别达到9．10元和9．06元每升。那么，持续上涨的油价，会对车市带来哪些不利影响？您还开得起燃油车吗？</p><p style="text-indent: 2em; text-align: left;"><strong>油价上涨前加油站排长龙加油</strong></p><p style="text-indent: 2em; text-align: left;">据统计，在今年10次油价调价中，就有9次上涨，按照涨多跌少的推算，未来国内92＃汽油价格是不是很快会突破10元每升的大关。目前，国内的燃油车都以92＃和95＃汽油为主，油价的持续上涨，必将影响到国内传统燃油车。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095140348257.png" title="油价距离10元/升还有多久？最受伤的将是SUV!" alt="油价距离10元/升还有多久？最受伤的将是SUV!" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">车轱辘编辑昨晚得知油价要上涨，于是开车去加油站看排队加油的情况和加油，结果排起了长龙，加油站的生意超级好。按照中国人买涨不买跌的心理，每次油价的上涨都必然让加油站排起长龙加油，普通燃油车一箱油能省10多元，或20多元，能省则省啊，毕竟现在各种物价上涨，但收入只能呵呵不涨，多数行业挣钱越来越难！</p><p style="text-indent: 2em; text-align: left;"><strong>复工复产后车市还面临不利的高油价冲击</strong></p><p style="text-indent: 2em; text-align: left;">回到油价上涨对车市的影响上来，每次油价的上调都能让加油站排长龙加油，频繁的油价上调，也必将影响到国内车市。从乘联会公布的数据来看，今年4月份国内SUV市场批发<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>仅44．2万辆，而去年4月为81．1万辆，同比下跌45．5％；与今年3月批发量的87．0万辆相比，环比大跌49．2％。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095141390793.png" title="油价距离10元/升还有多久？最受伤的将是SUV!" alt="油价距离10元/升还有多久？最受伤的将是SUV!" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不管是环比还是同比，4月国内SUV销量进入低谷，而4月销量过万辆的SUV只有7款车型，依次是<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E6%AF%94%E4%BA%9A%E8%BF%AA.HTM" target="_blank" title="比亚迪">比亚迪</a></span>宋、本田CR－V、哈弗H6、长安CS75、本田XR－V、比亚迪唐、<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%83.HTM" target="_blank" title="比亚迪元">比亚迪元</a></span>PLUS，7款月销万辆的SUV其中有3款是比亚迪车型，因为比亚迪超级混动DM－i车型馈电下很省油，比一般的纯燃油SUV省油一半，特别是纯电<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E9%87%8C%E7%A8%8B.HTM" target="_blank" title="续航">续航</a></span>超100公里车型在短途代步时可以纯电行驶。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095142941544.png" title="油价距离10元/升还有多久？最受伤的将是SUV!" alt="油价距离10元/升还有多久？最受伤的将是SUV!" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>油价上涨维持接近10元每升将影响燃油车市场</strong></p><p style="text-indent: 2em; text-align: left;">如果国内油价持续上涨，是不是利好比亚迪！从4月畅销的SUV来看，都是以相对节油的车型为主，曾经月销超8万辆的哈弗H6，因为持续上涨的油价，导致4月销量下滑到1．46万辆。未来，油价必然会持续上涨，这将对传统燃油车带来很不利的负面影响，反而让比亚迪旗下车型会越来越畅销。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member3800/202205/31095143396088.png" title="油价距离10元/升还有多久？最受伤的将是SUV!" alt="油价距离10元/升还有多久？最受伤的将是SUV!" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在国际上，美联储货币政策继续收紧，以及受制于俄乌冲突的影响，未来国际油价或呈现高价位震荡，也就是国际油价可能持续高油价。在国内，国内疫情影响后的复工复产，以及7月份后疫情旗舰的公共运输全面恢复，各行各业对汽柴油的需求将在下半年大幅增长，油价可能会持续上涨，甚至可能维持在10元左右每升，至少不会跌，编辑预测！</p><p style="text-indent: 2em; text-align: left;"><strong>写在最后</strong></p><p style="text-indent: 2em; text-align: left;">如果油价持续上涨，甚至是维持在9－10元每升的价格，将对国内燃油车是带来很不利的影响，不仅油耗相对偏高的SUV会受到影响，那些油耗相对较高的轿车和MPV都将受到影响，唯有节油的车型将越来越吃香，传统燃油车领域的日系车将变得畅销，而插电混动领域最成熟的比亚迪旗下车型还会越来越畅销！那么，准备买车的网友们，您还会买燃油车吗？</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 油价距离10元/升还有多久？最受伤的将是SUV!</span></p> 
+  
+</div>
+            
