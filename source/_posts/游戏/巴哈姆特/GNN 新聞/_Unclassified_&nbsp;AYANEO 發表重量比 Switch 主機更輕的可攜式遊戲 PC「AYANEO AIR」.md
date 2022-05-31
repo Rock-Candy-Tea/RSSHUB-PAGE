@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/63/4acd9acc1c62a4333ecc2a12151gjen5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-05-31 04:24:48
+date: 2022-05-31 05:16:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/4acd9acc1c62a4333ecc2a12151gjen5.JPG'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/4acd9acc1c62a4333ecc2a12151gjen5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　中國 3C 硬體廠商 AYANEO 日前正式發表旗下可攜式 Windows 遊戲 PC 產品「AYANEO AIR」，採用 AMD Ryzen 5 處理器，搭配 8～16GB 記憶體與 128GB～2TB 儲存空間，以及 5.5 吋 1080p AMOLED，預定 2022 年夏季推出，價格人民幣 3399 元起（折合新台幣約 14800 元起） ，並提供早鳥價折扣優惠。</div>
+　　中國 3C 硬體廠商 AYANEO 日前正式發表旗下可攜式 Windows 遊戲 UMPC 產品「AYANEO AIR」，採用 AMD Ryzen 5 處理器，搭配 8～16GB 記憶體與 128GB～2TB 儲存空間，以及 5.5 吋 1080p AMOLED，預定 2022 年夏季推出，價格人民幣 3399 元起（折合新台幣約 14800 元起） ，並提供早鳥價折扣優惠。</div>
 <div>
  </div>
 <div>
@@ -75,7 +75,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/4acd9acc1c62a4333ecc2a12151gjen5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 54.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG?v=1653913357016" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 54.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG?v=1653913357016" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/1bb67d7f9a0d19bd46bf1b688e1gjer5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
