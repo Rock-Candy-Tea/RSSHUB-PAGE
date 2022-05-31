@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5470'
+headimg: 'https://picsum.photos/400/300?random=1880'
 author: 开源中国
 comments: false
 date: Tue, 31 May 2022 07:29:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5470'
+thumbnail: 'https://picsum.photos/400/300?random=1880'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>近日 Ember 项目发布了 Ember.js、Ember Data 和 Ember CLI 的 4.4 版本，各个项目的更新内容如下：</p> 
+                                                                    
+                                                        <p>近日 Ember 项目发布了 Ember.js、Ember Data 和 Ember CLI 的 4.4 版本，各个项目的更新内容如下：</p> 
 <h2>Ember.js 4.4 的变化</h2> 
 <p>Ember.js 4.4 是一个增量的、向后兼容的 Ember 版本。</p> 
 <h3>特性</h3> 

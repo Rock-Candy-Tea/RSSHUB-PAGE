@@ -8,13 +8,14 @@ categories:
 headimg: 'https://static.oschina.net/uploads/space/2022/0531/083437_7BSi_4937141.png'
 author: 开源中国
 comments: false
-date: Tue, 31 May 2022 00:38:00 GMT
+date: Tue, 31 May 2022 08:37:00 GMT
 thumbnail: 'https://static.oschina.net/uploads/space/2022/0531/083437_7BSi_4937141.png'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Ubuntu 22.10（代号 "Kinetic Kudu"）是 Canonical 正在开发的下一个系统版本。在本月<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdiscourse.ubuntu.com%2Ft%2Fproposal-gnome-text-editor-as-default-text-editor%2F28286" target="_blank">月初</a>，Ubuntu 核心开发者 Jeremy Bicha 就曾提议使用 Text Editor 作为系统默认文本编辑器，替换已使用多年的 Gedit。如今不到一个月的时间，开发团队就已完成了相关工作。</p> 
+                                                                    
+                                                        <p>Ubuntu 22.10（代号 "Kinetic Kudu"）是 Canonical 正在开发的下一个系统版本。在本月<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdiscourse.ubuntu.com%2Ft%2Fproposal-gnome-text-editor-as-default-text-editor%2F28286" target="_blank">月初</a>，Ubuntu 核心开发者 Jeremy Bicha 就曾提议使用 Text Editor 作为系统默认文本编辑器，替换已使用多年的 Gedit。如今不到一个月的时间，开发团队就已完成了相关工作。</p> 
 <p><img alt height="131" src="https://static.oschina.net/uploads/space/2022/0531/083437_7BSi_4937141.png" width="700" referrerpolicy="no-referrer"></p> 
 <p>Text Editor 是一个 GTK4 应用程序，自 3 月份 GNOME 42 发布以来一直作为 GNOME 核心应用程序集合的一部分。这个新的应用程序的包名是 <code>gnome-text-editor</code>，它取代了 Ubuntu 中包名为 <code>gedit</code> 的文本编辑器。</p> 
 <p>后者 Gedit 在 2004 年发布的首个 Ubuntu 版本中就已内置在系统中，已沿用 18 年之久。如今 Gedit 将被新版文本编辑器 Text Editor 取代。</p> 

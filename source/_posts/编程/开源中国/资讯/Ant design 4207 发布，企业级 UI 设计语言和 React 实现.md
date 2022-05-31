@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5863'
+headimg: 'https://picsum.photos/400/300?random=3680'
 author: 开源中国
 comments: false
 date: Tue, 31 May 2022 07:04:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5863'
+thumbnail: 'https://picsum.photos/400/300?random=3680'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Ant Design 4.20.7 现已发布，主要变化如下：</p> 
+                                                                    
+                                                        <p>Ant Design 4.20.7 现已发布，主要变化如下：</p> 
 <ul> 
  <li>修复 Drawer 打开时 form 实例为 null 的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fant-design%2Fant-design%2Fpull%2F35706" target="_blank">#35706</a></li> 
  <li>修复 Segmented 组件中选项使用 icon 属性时图标与文字之间的间距失效问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fant-design%2Fant-design%2Fpull%2F35701" target="_blank">#35701</a></li> 

@@ -67,12 +67,12 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/05/U8Pji1eODdWKH9zEd3Ot.png'
 <p style="text-align: center">今天也特地为大家申请了少量购课福利，先到先得。</p>
 <p style="text-align: center">《90天B端产品经理实战班》</p>
 <p style="text-align: center">粉丝专项福利</p>
-<p style="text-align: center"><strong>今天报名，可赠送价值400元课程包</strong></p>
+<p style="text-align: center"><strong>今天报名，立减400元</strong></p>
 <p style="text-align: center"><strong>数量有限 先得先得</strong></p>
 <p style="text-align: center">▼▼▼</p>
 <p style="text-align: center"><strong>扫码添加顾问老师详细咨询</strong></p>
 <p style="text-align: center">👇👇👇</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/0CqyNDbQPzMJ2evs4rK4.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/QQWtOZhihRJHzDsiPVL4.png" alt referrerpolicy="no-referrer"></p>
 <p>课程具体从下列四步开展四步帮助大家实现转岗/跳槽/涨薪/系统提升目标，</p>
 <p>步骤1：掌握一套系统的B端产品工作方法</p>
 <p>步骤2：实战模拟B端产品项目落地产出</p>
@@ -88,10 +88,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/05/U8Pji1eODdWKH9zEd3Ot.png'
 <p>老师的课程讲解，将从具体问题分析出发→抽象总结解决方法→拆解案例演示运用，帮帮助你解决B端产品工作中的具体问题，进而落地运用到自己的工作去。</p>
 <p>以下是课程知识地图~</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/04/Lkq7vttQRI1GOchlLfbH.png" alt width="1173" height="477" referrerpolicy="no-referrer"></p>
-<p style="text-align: center">如果你想按照课程学习地图 分析自己的能力现状</p>
-<p style="text-align: center">可扫描下方海报二维码</p>
-<p style="text-align: center">获取职业规划诊断</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/ONyjMacqAFIzcgdH5szK.jpg" alt referrerpolicy="no-referrer"></p>
+<p> </p>
 <h3>2. 真正帮助你解决实际工作中遇到的问题</h3>
 <p>由于B端产品的封闭属性，B端产品经理在实际工作中会存在的个性化问题，很难通过竞品（难找到）或者参考网络资料得到解决。</p>
 <p>所以<strong>《90天B端产品经理实战班》除了底层能力的传授之外，还配有解决个性化问题的12场产品业务咨询会。</strong></p>
@@ -108,7 +105,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/05/U8Pji1eODdWKH9zEd3Ot.png'
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/YCsuSRmYGtU0OHONQPfl.jpg" alt referrerpolicy="no-referrer"></p>
 <p style="text-align: center">如果你想了解本期授课导都来自哪些领域</p>
 <p style="text-align: center">可扫描下方二维码 进行详细咨询</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/LX05GkrK6UHagtSkrEJ0.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/OdnmwpFGKl02MbpTzQU1.png" alt referrerpolicy="no-referrer"></p>
 <h3>4. 实战模拟B端产品项目落地产出</h3>
 <p>实战项目可以帮助我们解决2个问题，一个是在面试时通过实际的作品产出来向面试官证明自己的产品能力，第二个是真正的把学习的知识落地，实际地去帮助自己提升工作产出能力。</p>
 <p>《90天B端产品经理实战班》围绕所学的不同模块组织同学们进行3次实战，3<strong>次实战作业包括业务调研报告、需求分析列表和产品PRD。</strong></p>
@@ -120,13 +117,16 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/05/U8Pji1eODdWKH9zEd3Ot.png'
 <p>相对于录播，采用直播模式对于我们来说更耗时耗力，付出的成本也更高，为什么我们还会采用直播模式呢？</p>
 <p>这是因为我们考虑到采用直播模式，老师可以根据市场发展的最新动态来和同学分享最新的案例，同时同学和同学之间，同学和老师之前可以有更直接的互动，听课过程中有任何课程疑问可以当堂解决。</p>
 <p>同时拒绝短期填鸭式的学习，通过90天循序渐进的学习让学员更好的消化课程内容。</p>
-<blockquote><p>以上，就是这门由多位10+年B端产品老司机线上亲授的课程：</p>
-<p>学习内容包含：<strong>24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会</strong>，帮助你掌握一套B端产品全流程工作方法！</p></blockquote>
+<blockquote>
+<p>以上，就是这门由多位10+年B端产品老司机线上亲授的课程：</p>
+<p>学习内容包含：<strong>24节直播课+7大内容模块+5大行业案例拆解+12场产品业务咨询会+12场学习成果交流会</strong>，帮助你掌握一套B端产品全流程工作方法！</p>
+</blockquote>
 <p>课程自上线以来，已经有1600+名学员完成学习啦，学员都表示这是一门实操性极高的课程，帮助他们系统化搭建B端产品知识体系，从0-1解决面临的产品难题，<strong>实现转岗/跳槽/涨薪/系统提升的目标。</strong></p>
-<p>今天特地为大家申请了少量优惠，想报名学习的小伙伴抓紧时间，<strong>前5位报名，可增加价值400元的AI产品经理课。</strong></p>
+<p>今天特地为大家申请了少量优惠，想报名学习的小伙伴抓紧时间，<strong>前5位报名，享受早鸟特惠立减400元！</strong></p>
 <p style="text-align: center">扫描下方二维码领取优惠吧！</p>
 <p style="text-align: center">👇👇👇</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/dlcaL8nuCJjTx2lYhVFT.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/05/zbEVhtOFkXeaIzEXyMhq.png" alt referrerpolicy="no-referrer"></p>
+<p> </p>
                           
 </div>
             

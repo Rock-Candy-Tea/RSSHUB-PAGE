@@ -1,0 +1,19 @@
+
+---
+title: '微软评选Microsoft Store最佳应用：截图应用ShareX等获奖'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0531/754edcf44d3325a.webp'
+author: cnBeta
+comments: false
+date: Tue, 31 May 2022 02:06:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0531/754edcf44d3325a.webp'
+---
+
+<div>   
+<strong>微软近日评选出了 Windows 10/11 平台上的最佳应用。值得注意的是，本次评选是全球范围的，是根据用户投票之后才最终确定的。</strong>在实用程序类别中，截图应用 ShareX 和网络测速应用 Speedtest by Ookla 获奖。<br>
+ <p style="text-align: left;"><strong>在实用程序类别中的入围名单中包括：</strong></p><p style="text-align: left;">● Ffast - 支持 TOTP 的双因素认证器</p><p style="text-align: left;">● Fluent Screen Recorder - 记录你屏幕的应用程序。</p><p style="text-align: left;">● My<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">ASUS</a> - 管理你的<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">华硕</a>设备的应用程序，当你的设备出现问题时，可以联系公司的支持。MyASUS还可以让你管理你的WiFi设置，提高电池寿命和更多。</p><p style="text-align: left;">● Screenbits - 屏幕记录器。这是一个新的屏幕录像机，有基本和高级控制。</p><p style="text-align: left;">● ShareX - ShareX 是我们最喜欢的开源应用，可以捕捉屏幕截图、GIF等。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0531/754edcf44d3325a.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● Speedtest by Ookla - 一个简单的应用程序来测试你的互联网连接的性能。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0531/6e545be99eacc27.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● Torrex Lite - Torrent下载器。</p><p style="text-align: left;">● Visum Photo Viewer -  一个现代的 Photos 应用程序的替代品。</p><p style="text-align: left;">● WiFi Analyzer - 一个新的应用程序，用于监测和改善无线连接。</p><p style="text-align: left;"><strong>文件管理类入围应用名单</strong></p><p style="text-align: left;">● 8 Zip - 一个简单的存档和提取压缩文件的应用程序。</p><p style="text-align: left;">● Files App - 一个强大的文件管理应用程序。它带有标签支持、全黑暗模式、WinUI控制、圆角和Mica。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0531/ac9c4e91f2762bf.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● HEIC to JPEG - 一个将HEIC转换成JPEG的简单应用。</p><p style="text-align: left;">● IrfanView64 - 这是一个非常快速、紧凑和创新的<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a>图像查看器/转换器。</p><p style="text-align: left;">● Metro Commander - 又一个Windows的现代文件管理器。</p><p style="text-align: left;">● Mp3tag - 一个功能强大且易于使用的应用程序，可以改变音频文件的元数据，如ID3v1、ID3v2.3、ID3v2.4、iTunes MP4、WMA等。</p><p style="text-align: left;">● NanaZip - 7Zip的第三方替代品，具有现代化的界面和更多。</p><p style="text-align: left;">● One Commander</p><p style="text-align: left;">● QuickLook - 这个应用程序可以为 Windows 11 实现类似 macOS 的 QuickView 功能。</p><p style="text-align: left;">● Rufus -</p><p style="text-align: left;">● Shrestha Files Pro - 一个新的、现代的文件管理器。</p><p style="text-align: left;">最终投票成功获奖的是 Files 和 Rufus。Files 是一个成熟的UWP和现代的文件资源管理器的替代品，而 Rufus 可以让你创建 Windows 的可启动安装介质。</p><p style="text-align: left;"><strong>Open Platform 类目入围名单</strong></p><p style="text-align: left;">这个类别特别致力于开放源码项目。在开放平台类别中，有三个获奖者--Auto Dark Mode、EarTrumpet和Modern Flyouts。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0531/9f58e60b107c297.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Auto Dark Mode 是一个简单的应用程序，可以根据你的本地时间自动启用黑暗模式；EarTrumpet 是一个强大的开源项目，可以替代 Windows 任务栏上的音量混合器。第三个是 Modern Flyouts，它以现代的外观取代了当你调整音量或亮度时出现的小弹出窗口。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0531/9fc91ee62450613.webp" referrerpolicy="no-referrer"></p>   
+</div>
+            

@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2890'
+headimg: 'https://picsum.photos/400/300?random=1339'
 author: 开源中国
 comments: false
 date: Tue, 31 May 2022 07:18:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2890'
+thumbnail: 'https://picsum.photos/400/300?random=1339'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>FileZilla 是一个免费和开源的跨平台 FTP 应用程序，由 FileZilla Client 和 FileZilla Server 组成。客户端可用于 Windows、Linux 和 macOS，服务器仅可用于 Windows。服务器和客户端都支持 FTP 和 FTPS（FTP over SSL/TLS），而客户端还可以连接到 SFTP 服务器。</p> 
+                                                                    
+                                                        <p>FileZilla 是一个免费和开源的跨平台 FTP 应用程序，由 FileZilla Client 和 FileZilla Server 组成。客户端可用于 Windows、Linux 和 macOS，服务器仅可用于 Windows。服务器和客户端都支持 FTP 和 FTPS（FTP over SSL/TLS），而客户端还可以连接到 SFTP 服务器。</p> 
 <p>FileZilla Client 3.60.0 正式发布，更新内容包括：</p> 
 <h3>新功能：</h3> 
 <ul> 
