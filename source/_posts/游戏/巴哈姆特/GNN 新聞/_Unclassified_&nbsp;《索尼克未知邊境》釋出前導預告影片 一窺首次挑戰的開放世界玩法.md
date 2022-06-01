@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-06-01 07:12:09
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG'
+date: 2022-06-01 08:15:47
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG'
 ---
 
 <div>   
@@ -31,41 +31,41 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B4%A2%E5%B0%BC%E5%85%8B%E6%9C%AA%E7%9F%A5%E9%82%8A%E5%A2%83" target="_blank">索尼克未知邊境</a>》是《索尼克（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90" target="_blank">音速小子</a>）》系列首款開放世界架構的動作冒險遊戲，玩家將操作熟悉的藍色刺蝟主角索尼克，在神祕的「星墜群島（Starfall Islands）」高速自由奔馳，展開探索與戰鬥的冒險。穿越茂密的森林、泛濫的瀑布、炙熱的沙漠、古老的遺跡和各式各樣的風景，挑戰奇形怪狀的強大。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B4%A2%E5%B0%BC%E5%85%8B%E6%9C%AA%E7%9F%A5%E9%82%8A%E5%A2%83" target="_blank">索尼克未知邊境</a>》是《索尼克（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90" target="_blank">音速小子</a>）》系列首款開放世界架構的動作冒險遊戲，玩家將操作熟悉的藍色刺蝟主角索尼克，在神祕的「星墜群島（Starfall Islands）」高速自由奔馳，展開探索與戰鬥的冒險。穿越茂密的森林、泛濫的瀑布、炙熱的沙漠、古老的遺跡和各式各樣的風景，挑戰奇形怪狀的強大敵人。</div>
 <div>
  </div>
 <div>
 <div class="banner-container">
-<div class="gnn-slick-banner-horizontal-1654057125380 header-banner ">
+<div class="gnn-slick-banner-horizontal-1654070976290 header-banner ">
 <div class="header-banner-main center slider banner-horizontal">
 <a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG 2x" referrerpolicy="no-referrer">
 </a><a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/9c9cfcdc5d9a5ce6b382e30ca21en0c5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/9c9cfcdc5d9a5ce6b382e30ca21en0c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/9c9cfcdc5d9a5ce6b382e30ca21en0c5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/7ffec51f3bec2ed420a286c7ed1gkhn5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/7ffec51f3bec2ed420a286c7ed1gkhn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/7ffec51f3bec2ed420a286c7ed1gkhn5.JPG 2x" referrerpolicy="no-referrer">
 </a><a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/995a707b1fc8512d3f541f75eb1en0d5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/995a707b1fc8512d3f541f75eb1en0d5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/995a707b1fc8512d3f541f75eb1en0d5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/bbcbc50fa08556263199b1d4001gkho5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/bbcbc50fa08556263199b1d4001gkho5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/bbcbc50fa08556263199b1d4001gkho5.JPG 2x" referrerpolicy="no-referrer">
 </a><a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/9e666fe7d069b233f79f2f09d21en0e5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/9e666fe7d069b233f79f2f09d21en0e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/9e666fe7d069b233f79f2f09d21en0e5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/4cf625786a2ddc7085867cafc61gkhp5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/4cf625786a2ddc7085867cafc61gkhp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/4cf625786a2ddc7085867cafc61gkhp5.JPG 2x" referrerpolicy="no-referrer">
 </a><a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/a1003469bc9965d2b66476e3651en0f5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/a1003469bc9965d2b66476e3651en0f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/a1003469bc9965d2b66476e3651en0f5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/5e677ef403f310abf8c43d856b1gkhq5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/5e677ef403f310abf8c43d856b1gkhq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/5e677ef403f310abf8c43d856b1gkhq5.JPG 2x" referrerpolicy="no-referrer">
 </a><a href="javascript:;">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/11b1283c37e75f42f0437dbf011en0g5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/11b1283c37e75f42f0437dbf011en0g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/11b1283c37e75f42f0437dbf011en0g5.JPG 2x" referrerpolicy="no-referrer">
+<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/46741d4a87dd81c8b9beb6348a1gkhr5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/46741d4a87dd81c8b9beb6348a1gkhr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/46741d4a87dd81c8b9beb6348a1gkhr5.JPG 2x" referrerpolicy="no-referrer">
 </a>
 </div>
 <div class="slider-nav-block products-slider-scroll-area">
 <div class="slider-nav products-slider-items-area horizontal-nav">
 <div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/19/e60a275eb6abde57089f608d921en0b5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/66/418f3800953b667ef435ed25c31gkhm5.JPG" referrerpolicy="no-referrer">
 </div><div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/20/9c9cfcdc5d9a5ce6b382e30ca21en0c5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/67/7ffec51f3bec2ed420a286c7ed1gkhn5.JPG" referrerpolicy="no-referrer">
 </div><div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/21/995a707b1fc8512d3f541f75eb1en0d5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/68/bbcbc50fa08556263199b1d4001gkho5.JPG" referrerpolicy="no-referrer">
 </div><div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/22/9e666fe7d069b233f79f2f09d21en0e5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/69/4cf625786a2ddc7085867cafc61gkhp5.JPG" referrerpolicy="no-referrer">
 </div><div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/23/a1003469bc9965d2b66476e3651en0f5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/70/5e677ef403f310abf8c43d856b1gkhq5.JPG" referrerpolicy="no-referrer">
 </div><div class="products-items-content-block">
-<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/24/11b1283c37e75f42f0437dbf011en0g5.JPG" referrerpolicy="no-referrer">
+<img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/S/2KU/71/46741d4a87dd81c8b9beb6348a1gkhr5.JPG" referrerpolicy="no-referrer">
 </div>
 </div>
 </div>
