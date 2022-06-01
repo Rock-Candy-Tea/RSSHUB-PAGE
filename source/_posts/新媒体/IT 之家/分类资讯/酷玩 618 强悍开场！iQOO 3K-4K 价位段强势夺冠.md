@@ -1,0 +1,21 @@
+
+---
+title: '酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/440b4500-3140-4d0b-a1a1-9be4f9c7d0aa.jpeg'
+author: IT 之家
+comments: false
+date: Wed, 01 Jun 2022 09:50:16 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/440b4500-3140-4d0b-a1a1-9be4f9c7d0aa.jpeg'
+---
+
+<div>   
+<p data-vmark="c41f">6 月 1 日，iQOO 手机官微发布 618 首日的销售战绩，获得京东安卓手机品牌销量 & 销售额 TOP3、天猫安卓手机品牌销售额 TOP3，以及苏宁易购安卓手机自营店销量 & 销售额 TOP2，而且 vivo 官方商城 iQOO 销售额也为去年的 2 倍。</p><p style="text-align: center;" data-vmark="7c3a"><img src="https://img.ithome.com/newsuploadfiles/2022/6/440b4500-3140-4d0b-a1a1-9be4f9c7d0aa.jpeg" w="952" h="3628" alt="图片包含 文本" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="952" height="3125" referrerpolicy="no-referrer"></p><p data-vmark="2167">此外，单品表现也十分强势，其中，iQOO9 在成为天猫 618 预售榜第一名的同时，斩获了天猫 / 苏宁手机品牌 3K-4K 价位段销量 & 销售额双冠军，iQOO Neo6 SE 斩获天猫 1500 元档手机热卖榜 TOP3。618 开门红，代表了众多用户对 iQOO 手机的认可和喜爱，一方面离不开 iQOO 手机全档位出色的产品体验，另一方面也离不开此次 iQOO 618 空前的优惠福利。</p><p style="text-align: center;" data-vmark="8561"><img src="https://img.ithome.com/newsuploadfiles/2022/6/3ce85ef6-f00f-4bee-ba1c-d714c71c90a5.jpeg" w="1068" h="3627" alt="图片包含 文本" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="1068" height="2785" referrerpolicy="no-referrer"></p><p data-vmark="442a">iQOO 9 领衔：巅峰性能 档位王者</p><p style="text-align: center;" data-vmark="da18"><img src="https://img.ithome.com/newsuploadfiles/2022/6/0d0d88ce-0cc1-4a1f-9c2f-c33658af1966.jpeg" w="944" h="531" alt="电脑主机
+
+中度可信度描述已自动生成" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="944" height="461" referrerpolicy="no-referrer"></p><p data-vmark="5418">作为众多年轻人心中的顶级旗舰，iQOO 9 系列手机，在性能输出、散热效率、游戏交互等方面都有着非常出色的表现。其搭载全新一代骁龙 8 处理器和独立显示芯片 Pro，使得游戏插帧可以达到 120fps，超越了原生帧率，从而减少了画面拖影、卡顿感，带来更加丝滑的游戏体验。120W 的超级闪充与 50W 的无线闪充，也让用户摆脱了电量焦虑。而且针对日常使用和游戏体验，在多项优化技术的加持下，为 iQOO 9 系列手机带来了速度与稳定性的双重提升。成为 KPL 官方比赛用机以及众多游戏玩家的首选。</p><p style="text-align: center;" data-vmark="4396"><img src="https://img.ithome.com/newsuploadfiles/2022/6/ca5130c8-1570-4bea-b4af-8c4b00b24d86.gif" w="946" h="469" alt="图片 5" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="946" height="407" referrerpolicy="no-referrer"></p><p data-vmark="47a1">顶级旗舰之下，iQOO 还拥有能够带来出色操控体验的游戏性能旗舰 iQOO Neo 系列手机。其中，最新发布的 iQOO Neo6 搭载全新一代骁龙 8 芯片，搭配独显芯片 Pro 的组成旗舰双芯，保障了强悍性能的稳定输出，同时，E4 材质 OLED 柔性直屏、120Hz 高刷以及叠瀑稀土散热系统等旗舰配置，也是大大的增强了游戏体验。同系列机型 iQOO Neo6 SE 与 iQOO Neo5s 也堪称性能神机，游戏体验同样出众。</p><p style="text-align: center;" data-vmark="1b4d"><img src="https://img.ithome.com/newsuploadfiles/2022/6/1d6c398c-56e7-40ef-855b-cc50cbc2d2c7.png" w="942" h="496" alt="图片 7" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="942" height="432" referrerpolicy="no-referrer"></p><p data-vmark="8095">而作为 iQOO 旗下的千元轻旗舰手机 iQOO Z5 系列，则拥有天玑 900 高性能芯、5000 毫安大电池、120Hz 高刷屏以及 44W 闪充等次旗舰性能配置，无论是日常使用，还是主流游戏，体验一样出色。</p><p data-vmark="420b">iQOO 史上最大福利：至高直降 1400 元</p><p data-vmark="70da">除去产品自身的硬核实力，此次 iQOO 618 的优惠力度也做到了史无前例。其中，炙手可热的 iQOO 9 Pro 至高直降 1100 元，至高 24 期免息，而作为 KPL 官方比赛用机的 iQOO9 也是至高直降 1000 元，至高 24 期免息。</p><p style="text-align: center;" data-vmark="7cb6"><img src="https://img.ithome.com/newsuploadfiles/2022/6/a809a62b-1894-4aad-b91b-f39d8c765a92.gif" w="750" h="1144" alt="图片 2" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="750" height="1144" referrerpolicy="no-referrer"></p><p data-vmark="6ded">拥有出色操控体验的游戏性能旗舰 iQOO Neo6 则 2799 元起，享 12 期免息，2000 元价位段全面优越的性能神机 iQOO Neo6 SE 则 1999 元起，享 6 期免息，而 iQOO Neo 5s 至高直降 800 元，享 6 期免息。</p><p style="text-align: center;" data-vmark="ba8f"><img src="https://img.ithome.com/newsuploadfiles/2022/6/98239cfd-a1e4-4d75-b196-e5d3c5374396.gif" w="750" h="1148" alt="图片 3" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="750" height="1148" referrerpolicy="no-referrer"></p><p data-vmark="db2b">同价位段“续航王者”iQOO Z5 至高直降 500 元，3 期免息；同系列的 iQOO Z5x 则至高直降 400 元，1299 元起。一代神机 iQOO8 至高直降 1400 元，享 12 期免息，而千元神机 iQOO U5 则至高直降 300 元，并赠送 XE160 耳机。</p><p style="text-align: center;" data-vmark="045a"><img src="https://img.ithome.com/newsuploadfiles/2022/6/43cec7cc-44b4-40cb-a17e-18aa8122230e.gif" w="527" h="1347" alt="图片 4" title="酷玩 618 强悍开场！iQOO 3K-4K 价位段强势夺冠" width="527" height="1347" referrerpolicy="no-referrer"></p><p data-vmark="53d5">此外，在 618 活动期间，iQOO 手机全程价保，而且手机配件低至 3.3 折，爆款手机五折秒杀，至高 1000 元的大额购机神券，正是入手的好时候，有换机需求的朋友不妨重点关注一下。</p>
+          
+</div>
+            
