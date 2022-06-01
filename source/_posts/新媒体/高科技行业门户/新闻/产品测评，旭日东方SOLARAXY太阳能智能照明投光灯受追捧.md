@@ -1,0 +1,19 @@
+
+---
+title: '产品测评，旭日东方SOLARAXY太阳能智能照明投光灯受追捧'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134322_1654062202781120444.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 01 Jun 2022 05:39:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134322_1654062202781120444.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">随着新能源技术的不断发展，绿色节能的太阳能灯也越来越被人们所推崇，不仅仅是太阳能路灯的使用率变高，许多人都喜欢往自己的院子里装上一些太阳能灯具，这种天黑自动亮灯，天亮就熄灯的高科技获得了老百姓的认可。在物联网技术高速发展的现在，<span class="hrefStyle"><a href="https://smarthome.ofweek.com/" target="_blank" title="智能家居">智能家居</a></span>的风潮愈演愈烈，智能舒适和低碳节能的健康生活方式也成为了人们追求的潮流。旭日东方SOLARAXY以独特的“纯无线”新能源＋智能的理念进入室外庭院<span class="hrefStyle"><a href="https://smarthome.ofweek.com/CATList-91000-8400-smarthome.html" target="_blank" title="智能家居市场">智能家居市场</a></span>，那么旭日东方SOLARAXY智能太阳能投光灯到底具有哪些特色功能，今天小编就来评测下旭日东方SOLARAXY最近推出的新品太阳能智能投光灯。</p><center><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134322_1654062202781120444.png" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">首先在外观设计上，旭日东方SOLARAXY太阳能智能投光灯采用线型造型，灯体棕灰色全金属压铸铝材质，质感厚实，用料充足，表层采用的是DuriGrip Plus海洋级防腐工艺，具备IP66防水等级，抗盐抗潮湿，做工材质可以算是无可挑剔。旭日东方SOLARAXY太阳能智能投光灯采用的是单晶硅太阳能板（现在市面上常用的是太阳能板分为单晶硅和多晶硅两种，单晶硅板比多晶硅板电池性能转换效率更高一些，单晶硅的成本也相对较高）。同时太阳能板和灯体之间用延长线连接，可以上下不同角度的调节，既可作为一体太阳能灯使用，也可以使太阳能板和灯体分离安装，这个设计充分考虑了不同场景下安装需求。</p><center><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134322_1654062202817731072.png" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">在灯珠设计上，旭日东方SOLARAXY太阳能智能投光灯用了112颗LED灯珠，灯珠用的是著名的欧司朗品牌，最大光通量3000流明，具有双色温可调功能；同时旭日东方SOLARAXY提供了两种透镜供选择，适合更多场景应用。灯珠下面白色的半球形是人体红外感应器，可以实现人来高亮及各种场景的触发。灯体旁边安装蓝牙天线，方便灯具快速连接智能系统手机APP，实现手机APP对灯具的控制及调整。</p><center><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134322_1654062202883185775.png" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">旭日东方SOLARAXY在产品选材用料方面可以算是非常用心，接下来就一起来评测下在功能上怎么样吧！旭日东方SOLARAXY主打的“纯无线”智能家居理念，在这里小编先测了下智能APP连接太阳能智能投光灯的速度，手机打开蓝牙及智能系统，很快就能搜索到设备，一键连接。灯具连接设备后可以在APP上对灯具进行控制开关灯，调整色温，建立场景，智能投光灯有3000K暖光和5700K白光两种色温调节，亮度可以0％－100％调整，当调到100％亮度的时候，就非常亮了，可以照亮周围150平方米左右的地方；智能系统APP还可以选择打开或关闭人体红外感应功能，打开人体红外感应后，可以对人体感应进行设置，无人不亮或是微亮自由设定，人来感应亮度也可以自由设定，感应距离可以达到8米左右。同时可以设置不同亮度的亮灯时长，每天甚至可以根据不同时间设置不同的亮度，非常人性化。</p><center><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134323_1654062203319708600.png" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">在旭日东方SOLARAXY智能APP上我们可以看到太阳能智能投光灯的电池状态等信息，同时也可以设置早、中、晚不同亮灯时间，方便日常的使用和管理。智能APP上默认有省电、入侵、迎宾、错峰等智能模式，只需将设备添加进去设置一下亮灯效果就可以，当然也可以自己自定义模式，实现自动模式和场景的快速切换。如需要远程控制可接入旭日东方SOLARAXY的4G网关进行配合，远程实现对灯具的色温、亮度、定时等调节，充分的实现自动化运行各种场景。</p><center><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/1/surong/20220601134323_1654062203308759393.jpeg" referrerpolicy="no-referrer"></p></center><p style="text-indent: 2em; text-align: left;">经过一系列的评测，小编觉得旭日东方SOLARAXY太阳能智能投光灯不仅具有<span class="hrefStyle"><a href="https://smarthome.ofweek.com/CAT-91102-smartlighting.html" target="_blank" title="智能照明">智能照明</a></span>控制功能，还提供多种安装方式及场景应用，可以适用于庭院照明，商业照明，工业照明，景观照明等领域，同时还提供5年质保是非常值得拥有的。</p> 
+  
+</div>
+            
