@@ -1,0 +1,18 @@
+
+---
+title: '对于想从事产品经理岗的实习生，是找一份b端产品的实习还是c端的更好呢，这个选择对后面的职业生涯影响大吗？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=3737'
+author: 人人都是产品经理
+comments: false
+date: Wed, 01 Jun 2022 12:20:20 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3737'
+---
+
+<div>   
+b端的会不会门槛高 从事起来较难  
+</div>
+            

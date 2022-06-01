@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6215'
+headimg: 'https://pic1.zhimg.com/v2-5349153863f7959f56c4f0fc5683ed57_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Wed, 01 Jun 2022 08:25:59 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6215'
+date: Wed, 01 Jun 2022 11:06:03 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-5349153863f7959f56c4f0fc5683ed57_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-Rtlgx的回答<br><br><p data-pid="Gepyh8K7">翻译有问题。应当是：4s列入<b>停产产品</b>，6s的16/64GB版本列入过时产品。</p><p data-pid="WRpkHdSA"><b>4s早就是过时产品了</b>，此番列入停产产品（停止销售7年以上），意味着任何情况下都不再提供官方维修。</p><p data-pid="cw7iJvmx">6s的32G版本是和iPhone7一起上市的（2016年9月），2018年9月之前一直在官网售卖，且有证据表明至少2020年初还在生产，必不可能列为过时产品。这次列入过时产品的应该是16/64G的6s。32/128G的6sp大概会在明年9月列入过时产品，而32G的6s至少能坚挺到2025年。128G 6s不清楚。</p><p data-pid="76yFomMe">初代iPad Pro在二代发布后（2017年6月）停产，到现在正好五年，列入很正常。其中12.9寸版A9X+4G内存的配置现在还非常能打，是否还支持iOS16是个很有意思的问题，值得关注。</p>  
+追光者的回答<br><br><p data-pid="fY_kykEL"> iPhone 4S 和6S列入过时产品很正常吧。</p><p data-pid="Q48ysvr8">2011年10月05日苹果公司在美国加利福尼亚州库比提诺总部发布了iPhone 4S，现在都有11年了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5349153863f7959f56c4f0fc5683ed57_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="560" data-rawheight="560" data-default-watermark-src="https://pic2.zhimg.com/v2-fe0a6cc998870b25d106e70dbaf14c13_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5349153863f7959f56c4f0fc5683ed57_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="IdPNdCNx">2015年9月25日苹果公司在旧金山比尔·格拉汉姆公民大礼堂发布了iPhone6s，距今7年了。</p><p data-pid="WWBXmyrg">印象最深的是iPhone6s，我人生的第一部苹果手机，虽然是二手的，也早坏了，但可是陪伴了我整整三年。其实电池如果耐用点的话，还是能继续用的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-37a9362abb47d8520e9f69d2c87087e1_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="4096" data-rawheight="3072" data-default-watermark-src="https://pic1.zhimg.com/v2-9be4b6b38a51a54d1741240652184cdd_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-37a9362abb47d8520e9f69d2c87087e1_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="3Q-GVq_f">现在虽然都出iPhone13了，14也就这几个月的事，但当初的那些人和事，或许只能留在回忆里了吧。</p><p data-pid="YpP68E9K">每每想起，仿佛就在昨天。回头一看爷的青春就这么结束了啊，不知当年玩在一起的小伙伴现在过得可还好~</p><hr><blockquote data-pid="s6T7EVOM">最后附上618京东、淘宝无门槛红包，最高22888，<b>最近13已经降到4799了</b>，运气好可直接白嫖</blockquote><p data-pid="ysPEBOzJ">推荐阅读：</p><a href="https://www.zhihu.com/answer/2473189804" data-draft-node="block" data-draft-type="link-card" data-image="https://pic1.zhimg.com/v2-ee07abe04ffefb78b9f1e3546999c98a_l.jpg?source=b1748391" data-image-width="720" data-image-height="762" class="internal">2022 年 618 买手机有什么推荐?</a><p></p>  
 </div>
             
