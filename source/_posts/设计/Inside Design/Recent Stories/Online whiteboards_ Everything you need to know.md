@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/online-whiteboards/'
 author: Inside Design
 comments: false
-date: 2022-06-01 06:17:32
+date: 2022-06-01 07:12:00
 thumbnail: 'https://www.invisionapp.com/inside-design/online-whiteboards/'
 ---
 
