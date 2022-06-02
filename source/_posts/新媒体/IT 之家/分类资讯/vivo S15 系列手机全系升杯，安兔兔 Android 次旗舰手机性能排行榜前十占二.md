@@ -1,0 +1,19 @@
+
+---
+title: 'vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/0c8d955d-f3c5-4675-bce2-fb03d4354010.jpeg'
+author: IT 之家
+comments: false
+date: Thu, 02 Jun 2022 07:17:20 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/0c8d955d-f3c5-4675-bce2-fb03d4354010.jpeg'
+---
+
+<div>   
+<p data-vmark="1f11">6 月 2 日，安兔兔官方公布了 5 月份 Android 次旗舰手机性能排行榜，刚刚发布的 vivo S15 系列手机在前十中占有两个席位。其中，vivo S15 Pro 位居第一，vivo S15 则排在第九位。</p><p style="text-align: center;" data-vmark="dbd3"><img src="https://img.ithome.com/newsuploadfiles/2022/6/0c8d955d-f3c5-4675-bce2-fb03d4354010.jpeg" w="1030" h="775" alt="图形用户界面" title="vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二" width="1030" height="617" referrerpolicy="no-referrer"></p><p data-vmark="686a">一直主打影像和外观设计的 vivo S 系列，此次在性能方面能有如此出色的表现，主要得益于 vivo S15 系列在性能方面的全面升级，其全系搭载旗舰芯片，搭配 12GB+256GB 超大存储空间和电竞级液冷散热等，最终实现手机性能和游戏体验的双重突破。</p><p data-vmark="c6c5"><strong>电竞级游戏体验：双芯协同 性能拉满</strong></p><p data-vmark="ae97">vivo S15 Pro 从芯片、散热到闪充设计，都实现了飞跃式升级，尤其是双芯加持带来的旗舰性能和电竞级游戏体验获得了媒体一致好评。“驯帧高手”天玑 8100 拥有旗舰级性能和入门级功耗，搭配专为游戏设计的独显芯片 Pro，组成了极为强悍的混合动力架构，完全达到很多主打游戏的中高端机型水平。</p><p style="text-align: center;" data-vmark="f95c"><img src="https://img.ithome.com/newsuploadfiles/2022/6/befbad68-8b68-43a8-afd3-f80ea30fd520.jpeg" w="691" h="1276" alt="屏幕上写着字" title="vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二" width="691" height="1276" referrerpolicy="no-referrer"></p><p data-vmark="d57b">而 vivo S15 则选择搭载一代神 U 骁龙 870 处理器，搭配 vivo 自研内存增强技术，其性能也得到了最大程度上的释放，安兔兔跑分也领先搭载同款芯片的手机，刷新了 870 跑分天花板。</p><p data-vmark="8203">此外，电竞级仿生散热系统也是人们对 vivo S15 系列感知最强的升级点之一。vivo S15 系列全系都内置电竞级仿生散热系统，整机共有 26 层散热结构。超大 VC 均热板 + 超大石墨烯散热片。在手机散热技术进入瓶颈的今天，能为手机换来最高 1.2℃ 的温度改善。在游戏过程中，能够有效保障 vivo S15 系列稳定高帧运行。</p><p data-vmark="1d26">影棚级人像 每一拍都有电影感</p><p data-vmark="e080">人像是 vivo S 系列的拿手好戏，vivo S15 系列自然更加出色，进阶“人像之王” 。vivo S15 系列从百年电影工业中汲取灵感，融合了电影式的迷人质感和叙事方式，让人们像拍摄电影主角一样，记录每一个闪光时刻。</p><p style="text-align: center;" data-vmark="18a0"><img src="https://img.ithome.com/newsuploadfiles/2022/6/c0cc9613-2108-48b8-a6e3-c4674c3b874e.jpeg" w="690" h="1038" alt="图片 1" title="vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二" width="690" height="1038" referrerpolicy="no-referrer"></p><p data-vmark="d502">vivo S15 系列全系标配大底传感器和 OIS 光学防抖。vivo S15 Pro 更是直接搭载索尼定制版 IMX766V 传感器，带来更强的感光性能和更丰富的细节。与此同时，vivo S15 系列也在影像技术上突破，结合影棚级人像算法，使得整体景深效果更有层次感。</p><p data-vmark="efe2"><strong>高颜值设计 即刻开启夏日畅想</strong></p><p data-vmark="49d8">vivo S15 系列外观设计融合了更具科技感的设计工艺与饱含人文思考的色彩，不仅能呈现一种色彩联想，还能还原你对夏天的特殊情感，成为当下最“应季”的选择。</p><p style="text-align: center;" data-vmark="520e"><img src="https://img.ithome.com/newsuploadfiles/2022/6/bd09ec54-88ff-4a0e-a068-a4e120dc1870.png" w="1034" h="689" alt="图片 2" title="vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二" width="1034" height="546" referrerpolicy="no-referrer"></p><p data-vmark="0b6d">不一样的设计风格，一样的高颜值。vivo S15 Pro 采用曲面屏设计，温润柔和；vivo S15 经典直屏设计是采用了一体航空铝的金属中框，既轻盈又坚固。精工细作的直边工艺，亮面锐利透亮，哑面柔和舒适，搭配 2.5D 玻璃后盖尽显独特质感。</p><p style="text-align: center;" data-vmark="c39d"><img src="https://img.ithome.com/newsuploadfiles/2022/6/a30e6d23-5d47-4eda-ae5b-e50be211e83b.jpeg" w="690" h="828" alt="https://wx2.sinaimg.cn/mw690/001Ytvrtly1h2s2s2a91hj60xc140wlh02.jpg" title="vivo S15 系列手机全系升杯，安兔兔 Android 次旗舰手机性能排行榜前十占二" width="690" height="828" referrerpolicy="no-referrer"></p><p data-vmark="9890">性能、影像和设计，年轻人全都要，vivo S15 系列都可以。618 首日，vivo S15 Pro 登顶天猫 3000 元档位手机热销榜。目前，vivo S15 系列持续热销中，vivo S15 8GB+128GB 版本，2699 元；8GB+256GB 版本，2999 元；12GB+256GB 版本，3299 元。vivo S15 Pro 8GB+256GB 版本，3399 元；12GB+256GB 版本，3699 元。</p>
+          
+</div>
+            
