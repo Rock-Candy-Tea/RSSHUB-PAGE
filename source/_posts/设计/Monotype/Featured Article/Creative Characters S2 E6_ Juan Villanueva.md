@@ -238,38 +238,11 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
 
 <p>Juan ended up with a double major in illustration and graphic design. His early graphic design studies exposed an interest in typography. “I realized that typography is a subject that takes a long time to learn. You can’t do it in one or two semesters. You can get a good introduction. My instructor in typography at Montclair state was really amazing. Up until this day, we stay in touch because he was one of the people who inspired me to really like type and see the value in it.” </p>
 
-<p>Juan continued to study at Type @ Cooper and became active in the NYC type community by joining events, lectures and taking the train into the city whenever he could to learn about fonts and the history of type.  </p>
+<p>Juan continued to study at Type @ Cooper and became active in the NYC type community by joining events, lectures and taking the train into the city whenever he could to learn about fonts and the history of type.</p>
             </div>
           </div>
 
           </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
-                    
-<div class="main-wrapper-quotation ">
-  
-      
-  <div class="component-quote">
-          <div class="quote-Text">
-        <span class="quote-Text-first-letter">“</span>
-                  <span>That’s when I realized type design has the creativity of design, the artistic aspects of art, and the more technical, software-oriented aspects of engineering. I found the perfect trifecta there, and that's what led me to realize this is the thing I want to do, and that’s that – there’s no turning back, I have no doubts.</span>
-                <span class="quote-Text-last-letter">”</span>
-      </div>
-              <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Juan Villanueva.</p>
-            </div>
-          </div>
-
-              </div>
-      </div>
-  
-</div>
-            </div>
 
 
             </div>
