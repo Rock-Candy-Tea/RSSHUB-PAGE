@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/2e38f60d3295d7cf0fc8ba2c231gkla5.JPG?v=1654076865208'
 author: 巴哈姆特
 comments: false
-date: 2022-06-02 03:07:27
+date: 2022-06-02 04:40:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e38f60d3295d7cf0fc8ba2c231gkla5.JPG?v=1654076865208'
 ---
 
@@ -186,7 +186,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/2e38f60d3295d7cf0fc8ba2c231gkla5.
 <li>
 遊戲字幕：日文／繁體中文／簡體中文</li>
 <li>
-遊戲售價：未定</li>
+ 遊戲售價：新台幣 1,690 元 / 港幣 428 元</li>
 <li>
 遊戲人數：單機 1 人</li>
 <li>
