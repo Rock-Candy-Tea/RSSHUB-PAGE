@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?v=1654088289396'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/80/285d335f2321cd490fd87d62c91gknk5.JPG?v=1654107016588'
 author: 巴哈姆特
 comments: false
-date: 2022-06-01 15:11:10
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?v=1654088289396'
+date: 2022-06-02 00:52:11
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/285d335f2321cd490fd87d62c91gknk5.JPG?v=1654107016588'
 ---
 
 <div>   
@@ -18,6 +18,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.
 <div>
 <div>
 　　線上電玩遊戲慶典「夏季遊戲節（Summer Game Fest，SGF）」主辦人喬夫‧基斯利（Geoff Keighley）今日（6/1）宣布今年將有超過 30 家合作夥伴參與，包含 PlayStation、Xbox、Steam、Epic Games 四大遊戲平台廠商，以及 Activision、BANDAI NAMCO、CAPCOM、EA、SEGA、WB Games 等主要遊戲發行商。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/80/285d335f2321cd490fd87d62c91gknk5.JPG?v=1654107016588" data-srcset="https://p2.bahamut.com.tw/B/2KU/80/285d335f2321cd490fd87d62c91gknk5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/80/285d335f2321cd490fd87d62c91gknk5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <div>
@@ -38,7 +46,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 133.42%"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?v=1654088289396" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG 2x" style="max-width: unset;" title="喬夫‧基斯利（右）" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 133.42%"><img alt="image" name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?v=1654088289396" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.PNG 2x" style="max-width: unset;" title="喬夫‧基斯利（右）" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 喬夫‧基斯利（右）</figure>
 </li>
@@ -53,15 +61,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/7cbf91b9f4d3bbc9d272ff73491gknt5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/53/3274fc09a73d1a16a030cf0d901g6ih5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/86/a2f90750a9406d9c10507a1d441gknq5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/88/413d4c28f24bcf645d75223e681gkns5.PNG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?v=1654088160789" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/55/2ae3c8856802debcd8ab92f2211g6ij5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
