@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/68/dc30f5a11d33a9adba221f65db1gkkg5.JPG?v=1654076434224'
 author: 巴哈姆特
 comments: false
-date: 2022-06-02 00:52:11
+date: 2022-06-02 03:07:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/dc30f5a11d33a9adba221f65db1gkkg5.JPG?v=1654076434224'
 ---
 
@@ -100,11 +100,10 @@ Legion 5i Pro 和 IdeaPad Gaming 3i 機種提供全新冰川白顏色選項</fig
 <figure class="pic-desc">
 Yoga Slim 9i 採用再生鋁製成，同時是 Lenovo 首款碳中和認證筆電</figure>
 </li>
-
 </ul>
 </div>
 <h3>
-產品規格定價與上市資訊 專業售後服務設身處地為消費者著想</h3>
+產品規格定價與上市資訊</h3>
 <div>
  </div>
 <div>
