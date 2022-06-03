@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/042b7f6bcee686b5231c7ec8221gltl5.JPG?v=1654209859933'
 author: 巴哈姆特
 comments: false
-date: 2022-06-03 00:37:29
+date: 2022-06-03 02:45:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/042b7f6bcee686b5231c7ec8221gltl5.JPG?v=1654209859933'
 ---
 
@@ -44,13 +44,33 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/042b7f6bcee686b5231c7ec8221gltl5.
 <div>
  </div>
 <div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/8e4f126cb6618292fcd08f51201glwu5.JPG?v=1654218293374" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/8e4f126cb6618292fcd08f51201glwu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/10/8e4f126cb6618292fcd08f51201glwu5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+　　而邁爾斯・摩拉斯也遇到了同樣的困境，他得扛下責任、成為新一代蜘蛛人，為自己的社區和城市挺身而出。《漫威蜘蛛人：邁爾斯摩拉斯》已推出 PS4 和 PS5 版本，遊戲中的邁爾斯一邊努力適應搬到東哈林區後的新生活，一邊追隨導師彼得・帕克的腳步。與此同時，邁爾斯的新家園卻面臨一股強大勢力的威脅，隨時毀於一旦，使他領悟到「能力越大，自然責任越大」。為了拯救漫威宇宙紐約，邁爾斯必須扛下重責大任，成為獨當一面的蜘蛛人。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/b132863e331837bd21c43eb2691glwv5.JPG?v=1654218302157" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/b132863e331837bd21c43eb2691glwv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/11/b132863e331837bd21c43eb2691glwv5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%BC%AB%E5%A8%81%E8%9C%98%E8%9B%9B%E4%BA%BA" target="_blank">漫威蜘蛛人</a> 重製版》PC 版已確認支援滑鼠和鍵盤，以及可調整的渲染設定和光線追蹤反射等，更多功能和細節將在日後公布。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/568106729f1b455b2aba83ad391gltm5.JPG?v=1654209868933" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/568106729f1b455b2aba83ad391gltm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/568106729f1b455b2aba83ad391gltm5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/7c016a2349d0e9f82a064729e01glww5.JPG?v=1654218320670" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/7c016a2349d0e9f82a064729e01glww5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/7c016a2349d0e9f82a064729e01glww5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

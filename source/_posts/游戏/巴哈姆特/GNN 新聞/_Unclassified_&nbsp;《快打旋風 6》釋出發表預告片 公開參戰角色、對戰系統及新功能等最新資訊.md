@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/443b53d106759c5ed73445b6e61gluh5.JPG?v=1654212894390'
 author: 巴哈姆特
 comments: false
-date: 2022-06-03 00:37:29
+date: 2022-06-03 02:45:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/443b53d106759c5ed73445b6e61gluh5.JPG?v=1654212894390'
 ---
 
@@ -274,6 +274,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/443b53d106759c5ed73445b6e61gluh5.
  </div>
 <h2>
 遊戲資訊</h2>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/ba70ff3ac24beab1a7cf52fe511glv35.JPG?v=1654222979081" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/ba70ff3ac24beab1a7cf52fe511glv35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/ba70ff3ac24beab1a7cf52fe511glv35.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <ul>
 <li>
 遊戲名稱：<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+6" target="_blank">快打旋風 6</a></li>

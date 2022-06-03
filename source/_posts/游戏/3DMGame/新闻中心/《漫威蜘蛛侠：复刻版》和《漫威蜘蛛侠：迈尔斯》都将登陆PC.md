@@ -16,7 +16,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220603/1654210727_1228
 <p style="text-indent:2em;">
 在今早的State of Play直播上，SIE和开发商Insomniac Games、Nixxes 
 Software宣布《<a target="_blank" href="https://www.3dmgame.com/tag/manwei_1/">漫威</a><a target="_blank" href="https://www.3dmgame.com/games/spiderman/">蜘蛛侠</a>：复刻版（Marvel’s Spider-Man 
-Remastered）》将于2022年8月12日登陆PC（Steam和Epic）平台，收录三款DLC。同时，索尼还表示<span>《漫威蜘蛛侠：迈尔斯》将于今年秋季登陆PC。</span>
+Remastered）》将于2022年8月12日登陆PC（Steam和Epic）平台，收录三款DLC。同时，索尼还表示<span>《漫威蜘蛛侠：迈尔斯》将于今年秋季登陆PC。</span> 
 </p>
 <p style="text-indent:2em;">
 <strong>PC版预告片：</strong> 

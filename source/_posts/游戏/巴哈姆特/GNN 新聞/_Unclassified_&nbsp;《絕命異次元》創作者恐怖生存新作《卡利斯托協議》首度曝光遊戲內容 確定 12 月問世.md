@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/8c5f579b147aba76700e89759d1glvt5.JPG?v=1654215442208'
 author: 巴哈姆特
 comments: false
-date: 2022-06-03 00:37:29
+date: 2022-06-03 02:45:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/8c5f579b147aba76700e89759d1glvt5.JPG?v=1654215442208'
 ---
 
@@ -41,7 +41,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/8c5f579b147aba76700e89759d1glvt5.
 <div>
  </div>
 <div>
-　　Striking Distance Studios 執行長、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%91%BD%E7%95%B0%E6%AC%A1%E5%85%83" target="_blank">絕命異次元</a>》創作者 Glen Schofield 表示，他很高興能回歸到自己的起源、展示這款全新科幻生存恐怖遊戲，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8D%A1%E5%88%A9%E6%96%AF%E6%89%98%E5%8D%94%E8%AD%B0" target="_blank">卡利斯托協議</a>》是以 2320 年木衛四為背景，講述在黑鐵監獄中的一名囚犯 Jacob Lee 的故事。當神秘事件引發一切混亂，整個監獄的獄警與囚犯不知為何開始變異成恐怖的怪物，Jacob Lee 得在這恐怖的環境下想辦法生存下來，並且試圖揭發聯合木星公司背後的黑暗秘密。</div>
+　　Striking Distance Studios 執行長、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%91%BD%E7%95%B0%E6%AC%A1%E5%85%83" target="_blank">絕命異次元</a>》創作者 Glen Schofield 表示，他很高興能回歸到自己的起源、展示這款全新科幻生存恐怖遊戲，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8D%A1%E5%88%A9%E6%96%AF%E6%89%98%E5%8D%94%E8%AD%B0" target="_blank">卡利斯托協議</a>》是以 2320 年木衛四為背景，講述在黑鐵監獄中的一名囚犯 Jacob Lee 的故事。當神秘事件引發一切混亂，整個監獄的獄警與囚犯不知為何開始變異成想要吞噬的怪物，Jacob Lee 得在這恐怖的環境下想辦法生存下來，並且試圖揭發聯合木星公司背後的黑暗秘密。</div>
 <div>
  </div>
 <div>
@@ -65,7 +65,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/8c5f579b147aba76700e89759d1glvt5.
 <div>
  </div>
 <div>
-　　他表示，研發團隊在遊戲設計了戰略作戰系統，迫使玩家與可怕的生物近距離接觸，並結合近戰、獨特的重力武器等設計，例如玩家可以想辦法凍結奔馳而來的敵人，或是將敵人扔進附近的渦輪風扇中，以存活下來。遊戲本質是個生存恐怖遊戲，且 Jacob Lee 並不是士兵，所以每次他遇上怪物都將是攸關生死的戰鬥，不管是彈藥、武器與他的生命都很寶貴，要盡可能把握身邊能找到的資源。</div>
+　　他表示，研發團隊在遊戲設計了戰略作戰系統，迫使玩家與可怕的生物近距離接觸，並結合近戰、獨特的重力武器等設計，例如玩家可以想辦法凍結奔馳而來的敵人，或是將敵人扔進附近的渦輪風扇中，以讓自己存活下來。遊戲本質是個生存恐怖遊戲，且 Jacob Lee 並不是士兵，所以每次他遇上怪物都將是攸關生死的戰鬥，不管是彈藥、武器與他的生命都很寶貴，要盡可能把握身邊能找到的資源。</div>
 <div>
  </div>
 <div>
