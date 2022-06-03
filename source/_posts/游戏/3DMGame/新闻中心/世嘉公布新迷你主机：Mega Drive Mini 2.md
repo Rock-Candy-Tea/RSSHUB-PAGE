@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220603/1654257370_4585
 CD游戏，这其中有街机移植作品，也有“神秘新作”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220603/1654257370_458580.jpg" alt="世嘉公布新迷你主机：Mega Drive Mini 2" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220603/1654257370_458580.jpg" alt="世嘉公布新迷你主机：Mega Drive Mini 2" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Mega Drive Mini 2将于10月27日在日本推出，售价9980日元，世嘉暂未宣布是否会在欧美地区发售。
@@ -51,7 +51,7 @@ Bonanza Bros (Mega Drive)
 Shining in the Darkness (Mega Drive)
 </p>
 <p style="text-indent:2em;">
-Mega Drive Mini 2019年发售，收录了42款游戏，每个地区的游戏都不同。
+Mega Drive Mini 2019年发售，收录了42款游戏，游戏因地区而异。
 </p>          
 </div>
             
