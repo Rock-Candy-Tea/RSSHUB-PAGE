@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/32/c9481666604de08002a4dfd64f1gl5o5.JPG?v=1654154216704'
 author: 巴哈姆特
 comments: false
-date: 2022-06-02 15:09:47
+date: 2022-06-03 00:37:29
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/c9481666604de08002a4dfd64f1gl5o5.JPG?v=1654154216704'
 ---
 
@@ -70,6 +70,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/c9481666604de08002a4dfd64f1gl5o5.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3%EF%BC%9A%E5%A4%A7%E5%B8%AB%E5%90%88%E8%BC%AF" target="_blank">忍者外傳：大師合輯</a>》是 KOEI TECMO Games 暢銷動作遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3" target="_blank">忍者外傳</a>》系列三部曲的合輯，收錄《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3%20%CE%A3" target="_blank">忍者外傳 Σ</a>》、《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3%20%CE%A32" target="_blank">忍者外傳 Σ2</a>》與《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%E5%A4%96%E5%82%B3+3%EF%BC%9A%E5%88%A9%E5%88%83%E9%82%8A%E7%B7%A3" target="_blank">忍者外傳 3：利刃邊緣</a>》共 3 款作品。除了讓玩家能在最新遊戲平台上體驗到懷舊又不失魅力的動作之外，還一舉收錄了之前發布過的服裝、遊戲模式等各種下載內容。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/WKeTCQxMzgQ?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <h3>
