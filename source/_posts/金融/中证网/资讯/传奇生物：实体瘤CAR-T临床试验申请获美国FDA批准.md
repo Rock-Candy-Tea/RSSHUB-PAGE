@@ -1,0 +1,21 @@
+
+---
+title: '传奇生物：实体瘤CAR-T临床试验申请获美国FDA批准'
+categories: 
+ - 金融
+ - 中证网
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=8058'
+author: 中证网
+comments: false
+date: Fri, 03 Jun 2022 22:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8058'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">中证网讯（记者 傅苏颖）6月3日，传奇生物在美国新泽西州萨默塞特宣布，美国食品药品管理局（FDA）批准了其新药临床试验（IND）申请，以评估在美国进行的LB1908的I期临床试验。</p>
+<p style="text-indent: 2em; text-align: left;">据悉，LB1908是一种通过高亲和力VHH抗体选择性靶向Claudin 18.2的自体嵌合抗原受体T细胞（CAR-T）疗法，用于治疗复发性或难治性胃癌、食管癌（包括胃食管连接部）或胰腺癌成人患者。Claudin 18.2是一种在上述癌症亚型患者中均表达的紧密连接蛋白。</p>
+<p style="text-indent: 2em; text-align: left;">传奇生物称，这项I期多中心临床研究旨在评估LB1908的安全性和耐受性，并确定II期的推荐剂量，评估其初步疗效。该研究将分为剂量递增和剂量扩大阶段。入组的患者必须Claudin 18.2高表达。一项由研究者发起的评估LB1908治疗晚期胃癌的I期临床试验在中国同步进行（NCT04467853）。</p>
+  
+</div>
+            

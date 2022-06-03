@@ -1,0 +1,19 @@
+
+---
+title: '5月SUV投诉排行：宝马问题最多，功夫牛继续上榜'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224507567881.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 03 Jun 2022 03:07:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224507567881.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">文魏无羡</p><p style="text-indent: 2em; text-align: left;">5月份的《车质网》SUV投诉排行其实很有意思，从投诉量上说宝马X3以绝对优势拿下第一，而几何功夫牛EX3继续进入前三之位，投诉前十车型中也有一半是自主品牌，其问题也五花八门。下面我们来具体盘点一下。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224507567881.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>NO．1宝马X3</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224507566633.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作为华晨宝马最畅销的SUV之一，宝马X3的<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>还是很不错的，月均销量在万台左右，但眼下频发的投诉问题或许会对宝马X3的销量造成一定冲击。消费者主要反馈的问题有车机与宣传不符、发动机烧机油、影音系统故障以及转向系统异响。</p><p style="text-indent: 2em; text-align: left;"><strong>NO．2 EX3 功夫牛</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224508663564.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">如果不是宝马问题遭到车主集中投诉而爆发，那么EX3功夫牛将继续问鼎5月SUV投诉排行榜。而且值得关注的是，眼下功夫牛的问题和以前单纯的“提不到车”不同，部分提车的用户称车子存在车联网与宣传不符等问题，而这也涉及到了产品层面，需要厂家重视。</p><p style="text-indent: 2em; text-align: left;"><strong>NO．3星越L</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224509705942.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">星越L也是SUV投诉排行榜的常客了，主要问题依然是迟迟未给消费者备用钥匙以及5G网络等与宣传不符，这主要是受芯片荒影响所致，随着疫情缓解，其境况或许会有所好转。</p><p style="text-indent: 2em; text-align: left;"><strong>NO．4皇冠陆放</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224509321751.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">作为汉兰达的姊妹车型，皇冠陆放的问题包括发动机抖动、噪音大、车身共振等问题，据部分车主投诉称，该问题在北美市场同样发生，但北美为车主更换了发动机<span style="--tt-darkmode-color: #A3A3A3;">后机脚垫从而解决问题，车主质疑丰田存在双标嫌疑，这也导致陆放投诉上升。</span></p><p style="text-indent: 2em; text-align: left;"><strong>NO．5 宝马X4</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member12164/202206/02224510936226.jpg" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">进口宝马X4也登上了5月的排行榜真是活久见。毕竟这款车销量并不高，属于相对小众的产品，而其之所以上榜，主要还是和车机功能与宣传不符有关，期待宝马能够早日帮车主解决问题吧。</p><p style="text-indent: 2em; text-align: left;">除了上述5款车型外，5月份进入SUV投诉排行榜TOP10的车型还有沃尔沃XC60、<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E6%AF%94%E4%BA%9A%E8%BF%AA.HTM" target="_blank" title="比亚迪">比亚迪</a></span>宋Pro新能源、广汽丰田汉兰达、宋PLUS新能源、瑞虎8等车型，其问题也大多是老生常谈，我们就不再一一赘述了。但是对于车企而言，即使问题看上去不怎么大，也应本着为消费者负责为企业信誉负责的态度加以解决，以免因小失大。</p><p style="text-indent: 2em; text-align: left;"><strong>写在最后：</strong></p><p style="text-indent: 2em; text-align: left;">从5月份SUV投诉排行来看，宝马问题最为突出，亟需厂家关注，功夫牛、星越L等车型的问题则属于“慢性病”，受芯片短缺影响，即使厂家想解决恐怕也得慢慢来，至于皇冠陆放的问题也在慢慢发酵，我们将保持关注。</p><p style="text-indent: 2em; text-align: left;">（本文由【车界】新媒体编辑部原创出品，本文作者魏无羡，转载需注明出处）</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 5月SUV投诉排行：宝马问题最多，功夫牛继续上榜</span></p> 
+  
+</div>
+            

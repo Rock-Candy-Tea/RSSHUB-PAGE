@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8678'
+headimg: 'https://picsum.photos/400/300?random=6530'
 author: 知乎
 comments: false
-date: Fri, 03 Jun 2022 13:09:07 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8678'
+date: Fri, 03 Jun 2022 11:29:17 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6530'
 ---
 
 <div>   
-听风的回答<br><br><p data-pid="FM8cv3Ly">荣华富贵可是底层老百姓毕生或者好几代追求的生活，到张的嘴里就成了不是人过的日子。</p><p data-pid="HEUNmG6T">张早已不需要考虑生活成本，住房成本以及各种成本的，也就是财务自由了。</p><p data-pid="WUqmTQy1">做个假设，他一夜醒来，他所有的荣华富贵的钱都没了，然后存款只有10万，每个月还要还接近万元的房贷，还有娃在上学，每个月也就拿着几千块的薪水。</p><p data-pid="T2pYQ-gR">就这样，他要还是能说，荣华富贵不是人过的日子，他是一个底层打工人的角色，他有义务当好这个角色，并且要出色地完成底层打工人的义务，那就是不停地被压榨。</p><p data-pid="bADM4D_T">不对，他还没过上荣华富贵的日子，哪里有他说话的资格，根本就没有他说话的份，好吧。</p><p data-pid="F5kpg4_7">所以，只有你过上了荣华富贵的日子，在这个社会，你才会有话语权，否则正是因为这些过着荣华富贵的人的存在，你屁都不是，你说的一百句真理都顶不过人家的一句屁话。</p><p></p>  
+风轻轻吹的回答<br><br><p data-pid="L9MPblC0">没有必要冷嘲热讽，因为张朝阳亲身实践了一遍他说的话。</p><p data-pid="RmVZnUXK">张成为大富翁之后，海滩嫩模，荒唐过一段很长的时光，但是并没有想象中的快乐，后来反而得了抑郁症。</p><p data-pid="cbeZ7tm0">实践证明，人是要有充分的精神生活的，人要觉得自己的生活有意义，才不容易抑郁。</p>  
 </div>
             
