@@ -46,6 +46,36 @@ Freya是一个居住在日本的模特，目前经营一个Patreon和Instagram�
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220604/1654347238_698211.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p style="text-indent:2em;">
+更多美图：
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_926326.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_706991.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_424655.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_296316.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_993855.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_782519.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_311508.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_342125.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220604/1654350287_263901.jpg" alt="《生化危机4：重制版》美国总统千金Ashely的脸模曝光" referrerpolicy="no-referrer">
 </p>          
 </div>
             
