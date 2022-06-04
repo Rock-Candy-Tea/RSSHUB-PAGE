@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/remote-onboarding-successful/'
 author: Inside Design
 comments: false
-date: 2022-06-04 06:10:23
+date: 2022-06-04 07:08:48
 thumbnail: 'https://www.invisionapp.com/inside-design/remote-onboarding-successful/'
 ---
 
