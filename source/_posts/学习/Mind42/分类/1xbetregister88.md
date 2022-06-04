@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=9a79ad3e-4643-4306-a7e3-9b8d2c148453&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=0c8ebb07-95ef-41fe-a001-97cf7f793765&size=gallery'
 author: Mind42
 comments: false
-date: 2022-06-04 07:10:22
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=9a79ad3e-4643-4306-a7e3-9b8d2c148453&size=gallery'
+date: 2022-06-04 08:11:31
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=0c8ebb07-95ef-41fe-a001-97cf7f793765&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=9a79ad3e-4643-4306-a7e3-9b8d2c148453&size=gallery" referrerpolicy="no-referrer"><p>
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=0c8ebb07-95ef-41fe-a001-97cf7f793765&size=gallery" referrerpolicy="no-referrer"><p>
                     1xbetregister88                </p>  
 </div>
             
