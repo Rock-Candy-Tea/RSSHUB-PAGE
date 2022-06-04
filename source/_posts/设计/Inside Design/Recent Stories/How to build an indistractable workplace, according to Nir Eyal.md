@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/nir-eyal-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-06-04 00:42:52
+date: 2022-06-04 02:41:07
 thumbnail: 'https://www.invisionapp.com/inside-design/nir-eyal-design-better-podcast/'
 ---
 
