@@ -1,0 +1,68 @@
+
+---
+title: '如何扩展K8s API-K8s与Django'
+categories: 
+ - 编程
+ - Dockone
+ - 周报
+headimg: 'https://iximiuz.com/kubernetes-api-how-to-extend/controller-2000-opt.png'
+author: Dockone
+comments: false
+date: 2022-06-05 06:10:56
+thumbnail: 'https://iximiuz.com/kubernetes-api-how-to-extend/controller-2000-opt.png'
+---
+
+<div>   
+<br><blockquote><br>声明：Django是一个通用的web框架，而Kubernetes则是一个容器编排器。显然，不同的项目根本不应该进行比较。然而，在本系列文章中，我试图揭开Kubernetes的神秘面纱，并展示它的API是一个非常普通的HTTP API，并且可以以相当熟悉的方式进行扩展。因此，对于这个标题来说，不好意思，下面你找不到Kubernetes和Django的真正对比:)</blockquote>有很多方法可以用自定义功能扩展Kubernetes，从编写kubectl插件到实现调度器扩展。详细的扩展点列表可以在官方文档中找到，但如果有一个基于这种方法的排名，我敢打赌开发自定义控制器或操作符，如果你愿意的话，会胜出。<br>
+<br>Kubernetes控制器背后的思想很简单，但很强大——你描述系统的理想状态，将其持久化到Kubernetes，然后等待控制器完成它们的工作，使集群的实际状态足够接近理想状态(或报告故障)。<br>
+<br>然而，虽然控制器得到了很多媒体的关注，但在我看来，编写自定义控制器大多数时候应该被视为扩展Kubernetes API更广泛任务的一部分(可能是可选的)。但是要注意到这一点，需要对典型的工作流有相当的熟悉。<br>
+<br><h4>自定义控制器</h4>虽然Kubernetes社区提供了一个更广泛、更通用的控制器定义，但在与Kubernetes控制器打交道一年多后，我提出了以下解释，涵盖了迄今为止我见过的大多数自定义控制器：<br>
+- 控制器实际上是一个主动协调过程(读取:无限循环)，它读取所需的状态并相应地更新实际状态。<br>
+- 然而，一个控制器通常被绑定到单一的Kubernetes资源类型。我们称它为控制器的主要资源。<br>
+- 控制器侦听系统事件：最重要的是，创建或修改主资源对象，但也改变其他(次要或拥有)资源，计时器事件，等等。<br>
+- 无论事件的性质如何，总是可以将事件归因于一个或多个主资源类型的对象。<br>
+- 事件后，控制器读取(一个接一个地)相应的主要资源对象的API，检查他们的规格属性(例如所需的状态)，试图将更改应用到系统使它更接近理想的状态，并更新对象状态的尝试。<br>
+<br><blockquote><br>控制器可以将任何资源类型作为其主要资源，包括pods、作业或服务等内置资源。问题是，大多数(如果不是所有的话)内置资源已经有相应的内置控制器。因此，定制控制器通常是为定制资源编写的，以避免多个控制器更新共享对象的状态。</blockquote>但从本质上讲，什么是资源?用Kubernetes自己的话说:<br>
+<br><blockquote><br>资源是Kubernetes API中的一个端点，它存储特定类型的API对象集合；例如，内置的pods资源包含一个Pod对象的集合。</blockquote>因此，如果资源仅仅是Kubernetes API端点，那么为资源编写控制器只是一种将请求处理程序绑定到API端点的奇特方式!??<br>
+<br>每当有对主要资源端点的创建或修改请求时，控制器的逻辑就会被触发(特别是)。触发控制循环迭代的主资源类型的实例作为请求参数(对象的规格字段)和响应状态(对象的状态字段)的数据传输对象。<br>
+<br><img src="https://iximiuz.com/kubernetes-api-how-to-extend/controller-2000-opt.png" alt referrerpolicy="no-referrer"><br>
+<br>基于控制器的处理程序与更传统的请求处理程序之间的主要区别在于处理与实际的API请求是异步发生的。创建或修改Kubernetes对象的API请求(如POST, PUT, PATCH)只是为控制器调度工作(通过记录意图)，而获取对象的API请求(GET, WATCH)用于返回处理状态。<br>
+<br><h4>自定义资源</h4>如果向Kubernetes API添加请求处理程序是通过编写控制器进行的，那么如何添加新的API端点呢?<br>
+<br>在回答这个问题之前，重要的是要理解Kubernetes API中有两种类型的端点:<br>
+- 第一种类型是服务于Kubernetes对象集合(即持久的Kubernetes实体)的端点，如Pods、ConfigMaps、Services等。绝大多数API端点都属于这种类型。<br>
+- 第二种基本上是其他所有东西。像/metrics、/logs或/apis这样的端点是其他类型端点的最突出的例子。这些端点要么被嵌入到Kubernetes API服务器中，要么使用API聚合层实现。<br>
+<br>控制器通常使用第一种类型的端点。那么，如何将服务于用户定义对象类型的新端点添加到API中呢?<br>
+<br>首先，需要编写CustomResourceDefinition (CRD)。CRD本身是一个描述新的自定义资源的对象。最重要的是，CRD应该包含新资源类型的名称和版本化对象模式(即字段)。<br>
+<br>然后，需要将CRD提交给集群。将CRD应用到集群会创建一个服务于自定义资源类型的新的Kubernetes API端点。就这么简单!<br>
+<br>自定义资源类型的对象的外观和行为很像内置的Kubernetes对象，它们受益于常见的API特性(CRUD、字段验证、发现等)，同时，它们具有解决自定义用例所需的属性。<br>
+<br><blockquote><br>自定义资源本身可能很有用。-通过注册一个新的资源，你立即获得(一些有限的)持久性，开箱即用的字段验证，RBAC，等等。然而，大多数情况下，自定义资源的创建伴随着自定义控制器。</blockquote><h4>准入钩子(Webhooks)</h4>回到请求处理…<br>
+<br>Kubernetes控制器的超能力归因于它们的异步特性，但这也是它们最大的局限性。对Kubernetes API的创建、修改或删除对象的请求作为意图的记录工作——实际的处理逻辑被延迟到下一次控制循环迭代。但是如果需要同步请求处理呢?<br>
+<br>这在Kubernetes也是可能的!但为此，你需要介入Kubernetes API服务器的资源请求处理。<br>
+<br>当请求到达API服务器时，在更改持久化到etcd(或类似的)之前，会经过以下几个阶段：<br>
+<ul><li>身份验证和授权</li><li>准入控制</li><li>对象模式验证</li><li>验证许可</li></ul><br>
+<br>上面的大部分(或者全部?)阶段都可以用自定义逻辑进行扩展!<br>
+<br><img src="https://iximiuz.com/kubernetes-api-how-to-extend/webhooks-2000-opt.png" alt referrerpolicy="no-referrer"><br>
+<br>因此，配置一个许可webhook将使Kubernetes API服务器在实际持久化它之前，将资源实例(包装在一个称为AdmissionReview的信封中)发送到一个自定义HTTPS端点。<br>
+<br>调用一个许可webhook端点会阻塞Kubernetes API服务器的请求处理。准入webhook的实现可以执行任意的验证逻辑，用非平凡的默认值填充对象的属性，对对象进行标签或注释，甚至修改其他Kubernetes资源或对外部系统进行更改!<br>
+<br><blockquote><br>一般来说，应该避免webhook处理程序中的副作用。在webhook中，不可能知道对象实际上是会被处理链持久化还是拒绝。如果对资源的操作被其中一个检查拒绝，则需要以某种方式恢复前面步骤所做的任何更改。</blockquote>因此，webhook是将同步请求处理程序绑定到Kubernetes API端点的一种简单方法。这就完成了Kubernetes API与任何其他传统HTTP API在特性上的同一性。<br>
+<br><h4>总结</h4>让我们试着把所有东西都放在一张图上。下面是Kubernetes API扩展工作流的描述:<br>
+<br><img src="https://iximiuz.com/kubernetes-api-how-to-extend/extending-kubernetes-api-2000-opt.png" alt referrerpolicy="no-referrer"><br>
+<br>希望大家现在已经清楚，自定义控制器只是扩展Kubernetes API这一更大任务的一部分。<br>
+<br>我希望，在以上的解释之后，你也注意到Kubernetes与我们都熟悉的老式技术没有什么不同：<br>
+- Kubernetes自定义资源只是一种向API添加新的HTTP端点的方法。<br>
+- Kubernetes自定义控制器是一种将异步处理程序绑定到API端点的方法。<br>
+- Kubernetes Admission Webhooks是一种将同步处理程序绑定到相同API端点的方法。<br>
+<br>所以，Kubernetes和Django并没有太大的不同。??<br>
+<br>不过，认真地说，用熟悉的东西做类比通常能帮助我更快地理解新概念。但是，当仅仅理解是不够的，需要流利的表达时，练习通常会帮助我将概念内化为真正的概念。然而，这是另一篇文章的主题。请继续关注!<br>
+<br><h4>扩展资源</h4>资源<br>
+<a href="https://kubernetes.io/docs/concepts/extend-kubernetes/">Kubernetes文档-扩展Kubernetes</a><br>
+<a href="https://github.com/kubernetes/community/blob/2e3d491ca40d05233362b125a0e756ad3223a51f/contributors/devel/sig-api-machinery/controllers.md">Kubernetes社区-编写控制器</a><br>
+<a href="https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/">Kubernetes文档-自定义资源</a><br>
+<a href="https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation">Kubernetes文档- API聚合层</a><br>
+<a href="https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation">Kubernetes文档-动态准入控制</a><br>
+<br><strong>原文链接</strong>：<a href="https://iximiuz.com/en/posts/kubernetes-api-how-to-extend/">How To Extend Kubernetes API - Kubernetes vs. Django</a><br>
+<br><strong>译者</strong>：Mr.lzc，高级工程师、DevOpsDays、HDZ深圳核心组织者，目前供职于华为，从事云计算工作，专注于K8s、微服务领域。
+                                
+                                                              
+</div>
+            
