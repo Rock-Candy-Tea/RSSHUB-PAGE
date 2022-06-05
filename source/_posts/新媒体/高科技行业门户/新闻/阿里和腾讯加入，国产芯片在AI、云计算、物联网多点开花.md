@@ -1,0 +1,19 @@
+
+---
+title: '阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202206/05100835906505.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 05 Jun 2022 02:54:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202206/05100835906505.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87.HTM" target="_blank" title="国产芯片">国产芯片</a></span>的发展已到了关键时刻,如今国内两大互联网巨头阿里巴巴、腾讯都已先后加入,它们也已先后发布各自的芯片,介入了AI、云计算、物联网、服务器等芯片行业,在这两大实力强大的巨头支持下,国产芯片得到了加速发展。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202206/05100835906505.jpg" title="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" alt="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">阿里平头哥最先开发物联网芯片,它采用RISC-V架构开发的玄铁系列芯片获得广泛认可,国内诸多物联网芯片企业获取它的授权开发物联网芯片,在它和国内众多芯片企业的共同努力下,数年时间玄铁系列芯片出货数十亿颗。</p><p style="text-indent: 2em; text-align: left;">在物联网芯片市场打开局面之后,去年阿里平头哥又介入了<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%8A%AF%E7%89%87.HTM" target="_blank" title="服务器芯片">服务器芯片</a></span>市场,采用<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-ARM.HTM" target="_blank" title="ARM">ARM</a></span>架构开发了倚天710系列,据它公布的数据显示倚天710达到了当时ARM架构服务器芯片的顶尖水平,比同行业服务器芯片的性能强许多,依靠阿里云在国内市场的领先优势,倚天710可望迅速抢占市场。</p><p style="text-indent: 2em; text-align: left;">腾讯其实早几年也已开始研发服务器芯片,不过它研发的偏向AI方面,推出了紫霄、沧海、玄灵三款自主研发的AI芯片,这可能是因为它基于社交软件的优势,积累了巨量与人相关的数据,希望依靠AI技术为人类提供更好的服务。</p><p style="text-indent: 2em; text-align: left;">为了推动AI技术的发展,腾讯提出了“泛在智能”的概念,希望以AI技术推动医疗、自动驾驶、数字内容等技术的发展,其实腾讯云在国内市场也位居第二名,它开发自己的AI芯片与它拥有的技术优势相结合,可望进一步增强自己在相关领域的技术优势。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202206/05100835136294.jpg" title="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" alt="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">国产芯片的发展是当下国内科技行业发展的焦点,而自主研发更是提高到了战略高度,在各方面的强力支持下,这几年国产芯片可谓全面开花。</p><p style="text-indent: 2em; text-align: left;">或许是由于手机与消费者关系密切,因此国内消费者对于<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87.HTM" target="_blank" title="手机芯片">手机芯片</a></span>的关注度更高,由此<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%B5%B7%E6%80%9D.HTM" target="_blank" title="海思">海思</a></span>、紫光展锐等手机芯片企业更为消费者所熟悉,不过芯片其实用途非常广泛,而服务器、AI等芯片更是对未来科技的发展具有决定性意义。</p><p style="text-indent: 2em; text-align: left;">此前发展服务器芯片的主要就是华为海思,不过由于芯片代工厂为华为海思代工芯片受到阻碍,华为海思开发的鲲鹏920停留在7nm工艺上,这颇为让人遗憾,如今阿里、腾讯等接棒,将继续推动国产服务器芯片、AI芯片的发展。</p><p style="text-indent: 2em; text-align: left;">阿里平头哥的倚天710、腾讯紫霄等芯片都已用到了先进的5nm工艺,它们拥有强大的资金实力和技术研发实力,依托于它们在各自所在的电商、社交行业积累的技术,将继续推动国产芯片在新兴科技领域抢占优势,为国产芯片的发展带来源源不断推动力。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202206/05100836460541.jpg" title="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" alt="阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">中国是全球最大制造国,也是全球最大的市场,对芯片的需求多种多样,更多科技企业的加入才能支撑国产芯片多点开花,开发出满足不同领域差异化需求的芯片,这种多样性对国产芯片的发展显然是非常有利的,相信在各方的共同努力下,国产芯片终究会赶超海外芯片同行。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 阿里和腾讯加入，国产芯片在AI、云计算、物联网多点开花</span></p> 
+  
+</div>
+            
