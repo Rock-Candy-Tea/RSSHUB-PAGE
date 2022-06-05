@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=4193'
+headimg: 'https://img.cls.cn/images/20220605/LYMdP812Zq.jpg'
 author: 财联社
 comments: false
 date: Sun, 05 Jun 2022 00:57:52 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4193'
+thumbnail: 'https://img.cls.cn/images/20220605/LYMdP812Zq.jpg'
 ---
 
 <div>   
@@ -21,6 +21,7 @@ thumbnail: 'https://picsum.photos/400/300?random=4193'
 <p>RPA，全称机器人流程自动化，这是一种软件技术，本质上是让计算机通过学习和记录人在电脑上的操作轨迹，再进行重复和模仿，最终实现计算机流程操作的自动化，达到利用技术手段降低企业人力成本、提高工作效率的效果。</p>
 <p>而AI的加入，则让这个本就火热的赛道更加充满想象空间。通过文本资料处理、图像识别等AI能力的加持，RPA开始从机械化的任务执行，逐步演进到到拥有认知和决策的能力，成为公司里的“机器人白领”。</p>
 <p>“机器人白领在规则明确的岗位可以显著提高效率。目前，计算机处理文字资料的速度比人要快200-300倍，而且准确性要高很多。”达观数据CEO陈运文在接受《科创板日报》记者专访时表示。</p>
+<p><img src="https://img.cls.cn/images/20220605/LYMdP812Zq.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>让软件成为“数字白领”</strong></p>
 <p>达观数据是国内RPA赛道入局较早的玩家之一。但在采访中，陈运文更乐意强调达观数据文本数据处理的AI能力，而非近两年风头更劲的RPA技术。“达观做的，是人工智能领域的文本数据处理细分，再结合RPA技术，最后落地到企业服务的应用场景。”</p>
 <p>今年3月，达观数据完成最新一轮融资，总金额5.8亿元。除深创投、襄禾资本、弘卓资本、联想之星等投资机构外，达观还吸引了中信证券、招商证券、广发证券、中信建投四家券商的出资。据陈运文介绍，四家券商均为达观数据的客户。</p>

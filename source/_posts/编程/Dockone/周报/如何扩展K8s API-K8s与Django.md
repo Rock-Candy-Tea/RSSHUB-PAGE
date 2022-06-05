@@ -8,7 +8,7 @@ categories:
 headimg: 'https://iximiuz.com/kubernetes-api-how-to-extend/controller-2000-opt.png'
 author: Dockone
 comments: false
-date: 2022-06-05 06:10:56
+date: 2022-06-05 07:09:01
 thumbnail: 'https://iximiuz.com/kubernetes-api-how-to-extend/controller-2000-opt.png'
 ---
 
