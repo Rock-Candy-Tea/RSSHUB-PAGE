@@ -1,0 +1,18 @@
+
+---
+title: '浅谈女玩家四年的CSGO时光'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/06/05/2c413e59f8807ab9329c3f77eda61ea4/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Sun, 05 Jun 2022 11:53:14 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/06/05/2c413e59f8807ab9329c3f77eda61ea4/thumb.jpeg'
+---
+
+<div>   
+<p>大家好，我是猫颜，猫哥给大家带来新一篇文章了<span data-emoji="cube_赞" class="hb-emoji"></span></p><p>CSGO是我入坑的第一个FPS游戏，从入坑到退坑也发生了很多事，认识了很多朋友。</p><p>这个游戏也是我steam在线时间最长的游戏。</p><p><img class="lazy" data-height="100" src="https://imgheybox.max-c.com/web/2022/06/05/2c413e59f8807ab9329c3f77eda61ea4/thumb.jpeg" data-width="417" referrerpolicy="no-referrer"></p><h4 class="img-desc">我的游戏时间</h4><p>这四年以来我见证了我喜欢的战队从顶峰到逐渐解体，我是Astralis的粉丝，图是2019年北京海淀的比赛签名</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/b7735ada7b1c6cb9e69daef35df21f55/thumb.jpeg" data-width="0" referrerpolicy="no-referrer"></p><p>那时候的大家还没分散，现在只能扼腕叹息。</p><p><br></p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/a9b48f138682b472711f8b13f3fd45b1/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">造了一把和Xyp9x同磨损的AK</h4><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/177c5bc02a1b10088a169354d84a4a50/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">后面喜欢玩沙鹰，于是天天练</h4><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/078201d07d55dc7f1acbf11d358516f6/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">二西莫夫yyds</h4><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/7ab4b55a19a38a5eb8f88d8539e6e12d/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">我第一个开出来的音乐盒</h4><p><br></p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/1555b6d348aa8d846ef890759ce8402c/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">最喜欢的音乐盒</h4><p><br></p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/3ff229f83adb98dabbe9115f03f7f7ca/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">刚接触CSGO最喜欢玩的就是P90</h4><p>我从来都没接触过PFS游戏，CSGO我一开始连地图之类的都记不清楚，而且我刚入坑的时候不喜欢玩竞技模式，就喜欢玩死斗和休闲模式，因为喜欢大家热热闹闹的，我声音不是很好听，但是很能接上话茬，也逐渐有了一群朋友，包括好多到现在还在一起玩游戏。</p><p>之后打竞技的时候是因为我前男友在分手的时候说我这辈子就是一个白银二，于是直接发愤图强了（？）那段时间冲分是真的猛。</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/4f0881043ee6152d1b147a933a1480e9/thumb.jpeg" data-width="0" referrerpolicy="no-referrer"></p><p>之后靠自己冲上了AK二，那时候又被守望先锋吸引了，入坑守望先锋了。</p><p>之后就一直卡在黄金左右，CSGO对于我只有转载A队的视频了，但是当时BB站有个比我转载的还快的转载机，我就专心沉迷OW了。</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/06/05/fdf2565dce9e622490eb977c15a77a86/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">彻底摆烂了</h4><p>CSGO真的给我带来了很多东西，认识了很多的朋友，也给我之后的玩FPS游戏打下了基础，在之后的其他游戏中给到了很好的帮助，有时候还会聚一聚玩一会csgo，不得不说现在官匹的外挂真的是很多，大部分玩家都转去5e或者b5去了。</p><p>之前打CSGO的时候也遇到过性别歧视，打的好说我是外挂，打的菜就是女生不配玩这个游戏，虽然近几年是好多了，社会在发展，人类在进步（？）有时候我就装是一个男的，这样可以避免很多的冲突，最根本是我声音不好听，听起来像小学生，有时闹着闹着就成好朋友了，有趣的的灵魂在哪里都是会发光的<span data-emoji="heygirl_敲开心" class="hb-emoji"></span></p><p>我也想听你们的故事！！评论区见！</p><p>祝大家生活愉快，一生被爱</p><p contenteditable="false"><img class="lazy" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" referrerpolicy="no-referrer"></p><p><br></p><p><a href="heybox://open_subject" target="_blank">#csgo</a><a href="heybox://open_subject" target="_blank">#cs：go#</a><a href="heybox://open_subject" target="_blank">#cs饰品#</a></p>  
+</div>
+            
