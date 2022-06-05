@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220605/7cbe1da4ba3712114130d4246957924a.png'
 author: Dockone
 comments: false
-date: 2022-06-05 12:14:44
+date: 2022-06-05 13:17:08
 thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20220605/7cbe1da4ba3712114130d4246957924a.png'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <br>Kubernetes控制器背后的思想很简单，但很强大——你描述系统的理想状态，将其持久化到Kubernetes，然后等待控制器完成它们的工作，使集群的实际状态足够接近理想状态（或报告故障）。<br>
 <br>然而，虽然控制器得到了很多媒体的关注，但在我看来，编写自定义控制器大多数时候应该被视为扩展Kubernetes API更广泛任务的一部分（可能是可选的）。但是要注意到这一点，需要对典型的工作流相当的熟悉。<br>
 <h3>自定义控制器</h3>虽然Kubernetes社区提供了一个更广泛、更通用的控制器定义，但在与Kubernetes控制器打交道一年多后，我提出了以下解释，涵盖了迄今为止我见过的大多数自定义控制器：<br>
-<ul><li>控制器实际上是一个主动协调过程（读取：无限循环），它读取所需的状态并相应地更新实际状态。</li><li>然而，一个控制器通常被绑定到单一的Kubernetes资源类型。我们称它为控制器的主要资源。</li><li>控制器侦听系统事件：最重要的是，创建或修改主资源对象，但也改变其他（次要或拥有）资源、计时器事件，等等。</li><li>无论事件的性质如何，总是可以将事件归因于一个或多个主资源类型的对象。</li><li>事件后，控制器读取（一个接一个地）相应的主要资源对象的API，检查他们的规格属性（例如所需的状态），试图将更改应用到系统使它更接近理想的状态，并更新对象状态的尝试。</li></ul><br>
+<ul><li>控制器实际上是一个主动协调过程（读取：无限循环），它读取所需的状态并相应地更新实际状态。</li><li>然而，一个控制器通常被绑定到单一的Kubernetes资源类型。我们称它为控制器的主要资源。</li><li>控制器侦听系统事件：最重要的是，创建或修改主资源对象，但也改变其他（次要或拥有）资源、计时器事件，等等。</li><li>无论事件的性质如何，总是可以将事件归因于一个或多个主资源类型的对象。</li><li>事件发生后，控制器会从API中逐一读取相应的主要资源对象，检查各对象的规范属性（即所需状态），应用变更来让系统更接近于所需状态，再使用此状态反过来更新各个对象。</li></ul><br>
 <br><blockquote><br>控制器可以将任何资源类型作为其主要资源，包括pods、jobs或services等内置资源。问题是，大多数（如果不是所有的话）内置资源已经有相应的内置控制器。因此，定制控制器通常是为定制资源编写的，以避免多个控制器更新共享对象的状态。</blockquote>但从本质上讲，什么是资源？用Kubernetes自己的话说：<br>
 <br><blockquote><br>资源是Kubernetes API中的一个端点，它存储特定类型的API对象集合；例如，内置的Pods资源包含一个Pod对象的集合。</blockquote>因此，如果资源仅仅是Kubernetes API端点，那么为资源编写控制器只是一种将请求处理程序绑定到API端点的奇特方式！<br>
 <br>每当有对主要资源端点的创建或修改请求时，（特别是）控制器的逻辑就会被触发。触发控制循环迭代的主资源类型的实例作为请求参数（对象的规格字段）和响应状态（对象的状态字段）的数据传输对象。<br>
@@ -34,7 +34,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <br>首先，需要编写CustomResourceDefinition（CRD）。CRD本身是一个描述新的自定义资源的对象。最重要的是，CRD应该包含新资源类型的名称和版本化对象模式（即字段）。<br>
 <br>然后，需要将CRD提交给集群。将CRD应用到集群会创建一个服务于自定义资源类型的新的Kubernetes API端点。就这么简单！<br>
 <br>自定义资源类型的对象的外观和行为很像内置的Kubernetes对象，它们受益于常见的API特性（CRUD、字段验证、发现等），同时，它们具有解决自定义用例所需的属性。<br>
-<br><blockquote><br>自定义资源本身可能很有用。通过注册一个新的资源，你立即获得（一些有限的）持久性，开箱即用的字段验证，RBAC，等等。然而，大多数情况下，自定义资源的创建伴随着自定义控制器。</blockquote><h3>准入钩子(Webhooks)</h3>回到请求处理……<br>
+<br><blockquote><br>自定义资源本身可能很有用。通过注册一个新的资源，你立即获得（一些有限的）持久性，开箱即用的字段验证，RBAC，等等。然而，大多数情况下，自定义资源的创建伴随着自定义控制器。</blockquote><h3>准入钩子（Webhooks）</h3>回到请求处理……<br>
 <br>Kubernetes控制器的超能力归因于它们的异步特性，但这也是它们最大的局限性。对Kubernetes API的创建、修改或删除对象的请求作为意图的记录工作——实际的处理逻辑被延迟到下一次控制循环迭代。但是如果需要同步请求处理呢？<br>
 <br>这在Kubernetes也是可能的！但为此，你需要介入Kubernetes API服务器的资源请求处理。<br>
 <br>当请求到达API服务器时，在更改持久化到etcd（或类似的）之前，会经过以下几个阶段：<br>
@@ -57,7 +57,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://dockone.io/uploads/article/20
 <ul><li>Kubernetes自定义资源只是一种向API添加新的HTTP端点的方法。</li><li>Kubernetes自定义控制器是一种将异步处理程序绑定到API端点的方法。</li><li>Kubernetes Admission Webhooks是一种将同步处理程序绑定到相同API端点的方法。</li></ul><br>
 <br>~~所以，Kubernetes和Django并没有太大的不同。~~<br>
 <br>不过，认真地说，用熟悉的东西做类比通常能帮助我更快地理解新概念。但是，当仅仅理解是不够的，需要流利的表达时，练习通常会帮助我将概念内化为真正的概念。然而，这是另一篇文章的主题。请继续关注！<br>
-<br><strong>原文链接</strong>：<a href="https://iximiuz.com/en/posts/kubernetes-api-how-to-extend/">How To Extend Kubernetes API - Kubernetes vs. Django</a><br>
+<br><strong>原文链接：<a href="https://iximiuz.com/en/posts/kubernetes-api-how-to-extend/">How To Extend Kubernetes API - Kubernetes vs. Django</a></strong><br>
 <br><strong>译者</strong>：Mr.lzc，高级工程师、DevOpsDays、HDZ深圳核心组织者，目前供职于华为，从事云计算工作，专注于Kubernetes、微服务领域。
                                                                 <div class="aw-upload-img-list">
                                                                                                                                                                                                                                                                 </div>
