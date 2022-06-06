@@ -1,0 +1,19 @@
+
+---
+title: '《欧洲卡车模拟2》新DLC_西巴尔干半岛_上架Steam'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0606/f071f6ad876c288.jpg'
+author: cnBeta
+comments: false
+date: Sun, 05 Jun 2022 23:50:42 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0606/f071f6ad876c288.jpg'
+---
+
+<div>   
+《欧洲卡车模拟2》新DLC《西巴尔干半岛（West Balkans）》现已上架Steam，价格暂未公开，支持简体中文。该DLC需要拥有本体游戏《欧洲卡车车模拟2》才能运行。《欧洲卡车模拟2》2012年10月8日发售，获得玩家“好评如潮”评价。<br>
+ <p style="text-align: center;"><iframe src="//player.youku.com/embed/XNTg3NTk1OTEyOA==?client_id=5a73c0df8eb0d91d" width="640" height="480" frameborder="0"></iframe></p><p><strong>关于这款DLC：</strong></p><p>探索，运输和拓展你的货车公司到阿尔巴尼亚，波斯尼亚和黑塞哥维那，克罗地亚，科索沃，黑山，北马其顿，塞尔维亚和斯洛文尼亚国家。</p><p>从繁华的大城市到充满美丽自然的乡村，您将能够探索西巴尔干地区所提供的一切。</p><p>你可以期待这些国家提供的许多新东西：工业，自然，地标，道路网络，或是许多其他令人兴奋的内容！</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/f071f6ad876c288.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/f071f6ad876c288.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/f071f6ad876c288.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/44482ab1158f799.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/44482ab1158f799.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/44482ab1158f799.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/df05eeba88d3804.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/df05eeba88d3804.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/df05eeba88d3804.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/671e837ca3203fc.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/671e837ca3203fc.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/671e837ca3203fc.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/28ecd20aca053d3.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/28ecd20aca053d3.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/28ecd20aca053d3.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/ab81b480d2e62e8.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/ab81b480d2e62e8.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/ab81b480d2e62e8.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/d495d2c35ab819b.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/d495d2c35ab819b.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/d495d2c35ab819b.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/931fe09d798fa78.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/931fe09d798fa78.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/931fe09d798fa78.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/dfeeed3d6de5d6e.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/dfeeed3d6de5d6e.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/dfeeed3d6de5d6e.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0606/0afd005abe977b3.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0606/0afd005abe977b3.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0606/0afd005abe977b3.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
