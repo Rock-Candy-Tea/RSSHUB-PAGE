@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-20e3e397b7ab1021d152dc00573bd11
 
 <div>   
 <div class="content">
-                                                                                            <p>Cocos Creator 3.5.1 已发布，此版本在不影响原有功能稳定性的前提下加入了两项影响深远的实验性功能，<strong>一是智能导入 FBX 中的 DCC 默认材质，</strong>还原美术在各类 DCC 工具中使用的材质和外观；<strong>二是内置了一系列 Surface Shader 材质资源，</strong>这将成为未来支撑材质定制的基石。</p> 
+                                                                    
+                                                        <p>Cocos Creator 3.5.1 已发布，此版本在不影响原有功能稳定性的前提下加入了两项影响深远的实验性功能，<strong>一是智能导入 FBX 中的 DCC 默认材质，</strong>还原美术在各类 DCC 工具中使用的材质和外观；<strong>二是内置了一系列 Surface Shader 材质资源，</strong>这将成为未来支撑材质定制的基石。</p> 
 <p style="color:#3e3e3e; margin-left:0; margin-right:0; text-align:justify"><span>除此之外，还完成了一系列关键性的问题修复、体验优化和大量的文档优化，建议所有 v3.x 用户升级。</span></p> 
 <h2 style="margin-left:0px; margin-right:0px"><strong>重要更新 </strong></h2> 
 <h3 style="margin-left:0px; margin-right:0px"><strong>实验性：FBX 智能材质导入</strong></h3> 

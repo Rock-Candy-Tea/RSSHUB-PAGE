@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5248'
+headimg: 'https://picsum.photos/400/300?random=548'
 author: 开源中国
 comments: false
 date: Sun, 05 Jun 2022 07:02:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5248'
+thumbnail: 'https://picsum.photos/400/300?random=548'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 4 旨在满足新手和有经验的 Postgres 用户的需求，提供强大的图形界面，简化了数据库对象的创建、维护和使用。</p> 
+                                                                    
+                                                        <p>pgAdmin 是 PostgreSQL 领先的开源图形化管理工具。pgAdmin 4 旨在满足新手和有经验的 Postgres 用户的需求，提供强大的图形界面，简化了数据库对象的创建、维护和使用。</p> 
 <p>这个版本的 pgAdmin 4 包括错误修复和新功能，主要更新内容如下：</p> 
 <h3>功能</h3> 
 <ul> 

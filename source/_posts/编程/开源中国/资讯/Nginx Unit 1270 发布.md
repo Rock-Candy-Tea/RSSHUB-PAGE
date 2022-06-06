@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1083'
+headimg: 'https://picsum.photos/400/300?random=3726'
 author: 开源中国
 comments: false
 date: Mon, 06 Jun 2022 07:03:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1083'
+thumbnail: 'https://picsum.photos/400/300?random=3726'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Nginx Unit 是一个动态应用服务器，能够与 Nginx Plus 和 Nginx 开源版并行或独立运行。Nginx Unit 支持 RESTful JSON API，可以在不中断服务的情况下更改配置，并可运行基于多种语言和架构的应用。Nginx Unit 生来就是为满足分布式应用的需求而设计的，可为您的服务网格奠定坚实的基础。</p> 
+                                                                    
+                                                        <p>Nginx Unit 是一个动态应用服务器，能够与 Nginx Plus 和 Nginx 开源版并行或独立运行。Nginx Unit 支持 RESTful JSON API，可以在不中断服务的情况下更改配置，并可运行基于多种语言和架构的应用。Nginx Unit 生来就是为满足分布式应用的需求而设计的，可为您的服务网格奠定坚实的基础。</p> 
 <p>Nginx Unit 1.27.0 正式发布，更新内容如下：</p> 
 <h3>将 HTTP 请求重定向到 HTTPS</h3> 
 <p>自从在 Unit 中加入了 TLS 支持和证书管理，就被要求简化将纯文本 HTTP 请求重定向到启用 TLS 的监听器。现在可以通过配置路由 action 的 <code>location</code> 值来实现这一功能。事实上，现在有一个新的变量， <code>$request_uri</code>，它包含了原始 URI 的路径和查询部分，完整的例子如下：</p> 

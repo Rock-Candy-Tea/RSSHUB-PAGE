@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0606/072901_xckj_27201
 
 <div>   
 <div class="content">
-                                                                                            <p>Eclipse 和 Equinox 4.24 (2022-06) <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.eclipse.org%2Flists%2Feclipse-dev%2Fmsg12027.html" target="_blank">发布</a>了第二个 RC 版本。</p> 
+                                                                    
+                                                        <p>Eclipse 和 Equinox 4.24 (2022-06) <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.eclipse.org%2Flists%2Feclipse-dev%2Fmsg12027.html" target="_blank">发布</a>了第二个 RC 版本。</p> 
 <ul> 
  <li><span style="background-color:#ffffff"><span style="color:#333333">Eclipse 下载地址</span></span><br> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdownload.eclipse.org%2Feclipse%2Fdownloads%2Fdrops4%2FS-4.24RC2-202206011800%2F" target="_blank">https://download.eclipse.org/eclipse/downloads/drops4/S-4.24RC2-202206011800/</a></li> 
  <li><span style="background-color:#ffffff"><span style="color:#333333">更新内容</span></span><br> <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.eclipse.org%2Feclipse%2Fnews%2F4.24%2F" target="_blank">https://www.eclipse.org/eclipse/news/4.24/</a></li> 

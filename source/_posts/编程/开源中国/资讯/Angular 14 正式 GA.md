@@ -14,7 +14,8 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0604/090812_0TiT_27201
 
 <div>   
 <div class="content">
-                                                                                            <p>Angular 14 已正式 GA。值得关注的新特性包括：</p> 
+                                                                    
+                                                        <p>Angular 14 已正式 GA。值得关注的新特性包括：</p> 
 <ul> 
  <li>引入更加严格的类型化表单</li> 
  <li>Angular CLI 支持自动补全</li> 

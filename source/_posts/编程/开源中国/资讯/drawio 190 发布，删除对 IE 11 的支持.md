@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1013'
+headimg: 'https://picsum.photos/400/300?random=230'
 author: 开源中国
 comments: false
 date: Mon, 06 Jun 2022 07:15:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1013'
+thumbnail: 'https://picsum.photos/400/300?random=230'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>draw.io 是一款以 HTML5 和 JavaScript 开发的免费开源跨平台图形绘制软件。可用于创建流程图、线框图、UML 图、组织结构图和网络图等图表。</p> 
+                                                                    
+                                                        <p>draw.io 是一款以 HTML5 和 JavaScript 开发的免费开源跨平台图形绘制软件。可用于创建流程图、线框图、UML 图、组织结构图和网络图等图表。</p> 
 <p>draw.io 可以作为在线的跨浏览器网络应用，以及 Linux、macOS 和 Windows 的离线桌面应用。其离线应用使用 Electron 框架构建。</p> 
 <p>draw.io 19.0 正式发布，自 18.0 版本以来的主要变化包括：</p> 
 <ul> 

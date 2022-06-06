@@ -14,7 +14,8 @@ thumbnail: 'https://img-blog.csdnimg.cn/img_convert/44fce0865cc8cca093c5e9b8846b
 
 <div>   
 <div class="content">
-                                                                                            <p>Jeecg-Boot v3.2.0 已经发布，基于代码生成器的 J2EE 开发平台</p> 
+                                                                    
+                                                        <p>Jeecg-Boot v3.2.0 已经发布，基于代码生成器的 J2EE 开发平台</p> 
 <p>此版本更新内容包括：</p> 
 <h3>项目介绍</h3> 
 <blockquote> 

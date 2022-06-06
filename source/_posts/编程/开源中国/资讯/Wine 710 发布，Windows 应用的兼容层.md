@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3829'
+headimg: 'https://picsum.photos/400/300?random=6467'
 author: 开源中国
 comments: false
 date: Sun, 05 Jun 2022 07:01:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3829'
+thumbnail: 'https://picsum.photos/400/300?random=6467'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Wine（Wine Is Not an Emulator）是一个能够在多种兼容 POSIX 接口的操作系统（诸如 Linux、macOS 与 BSD 等）上运行 Windows 应用的兼容层。它不是像虚拟机或者模拟器一样模仿内部的 Windows 逻辑，而是将 Windows API 调用翻译成为动态的 POSIX 调用，免除了性能和其它一些行为的内存占用，让你能够干净地整合 Windows 应用到桌面。</p> 
+                                                                    
+                                                        <p>Wine（Wine Is Not an Emulator）是一个能够在多种兼容 POSIX 接口的操作系统（诸如 Linux、macOS 与 BSD 等）上运行 Windows 应用的兼容层。它不是像虚拟机或者模拟器一样模仿内部的 Windows 逻辑，而是将 Windows API 调用翻译成为动态的 POSIX 调用，免除了性能和其它一些行为的内存占用，让你能够干净地整合 Windows 应用到桌面。</p> 
 <p>Wine 7.10 已经正式发布，该版本中值得关注的更新内容包括：</p> 
 <ul> 
  <li>macOS 驱动转换为 PE</li> 
