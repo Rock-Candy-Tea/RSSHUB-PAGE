@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-06-06 04:24:18
-thumbnail: 'https://pic3.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162'
+date: 2022-06-06 05:13:42
+thumbnail: 'https://pic2.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-e0d81952d84d2e22b9a23245b4312c1e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">九尾龙牙，</span><span class="bio">妖怪博士    日漫    日剧</span>
 <a href="https://www.zhihu.com/question/350330532/answer/2509852756" class="originUrl" hidden>查看知乎原文</a>
 </strong>

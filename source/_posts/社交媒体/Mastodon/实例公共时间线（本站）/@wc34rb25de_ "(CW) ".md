@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/428/598/882/355/072/original/3ae2f7960bc79c4e.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/428/696/279/776/403/original/4a6671c998a08b3f.png'
 author: Mastodon
 comments: false
-date: Mon, 06 Jun 2022 04:18:39 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/428/598/882/355/072/original/3ae2f7960bc79c4e.png'
+date: Mon, 06 Jun 2022 04:43:25 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/428/696/279/776/403/original/4a6671c998a08b3f.png'
 ---
 
 <div>   
-<hr><p>今日も我が家の冷蔵庫は安泰です</p><br><img src="https://img.pawoo.net/media_attachments/files/108/428/598/882/355/072/original/3ae2f7960bc79c4e.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>家から出るのめんどくさいし…いいよね？</p><br><img src="https://img.pawoo.net/media_attachments/files/108/428/696/279/776/403/original/4a6671c998a08b3f.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
