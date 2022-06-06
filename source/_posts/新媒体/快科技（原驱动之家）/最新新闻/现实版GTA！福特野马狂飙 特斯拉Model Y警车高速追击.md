@@ -20,8 +20,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220606/s_11b744adf0be44d4ab66c5cb83
 <p>不过从视频中来看，特斯拉Model Y警车表现也是相当可靠，动力加速迅猛，丝毫不亚于野马跑车，只不过出于安全原因，警车也追逐的有些保守，也没有用上经典的“美式拦截”。</p>
 <p>目前，暂不知晓野马驾驶员是否被抓捕，保持关注。</p>
 <p>不过此前，美国警察对Model Y当作警用巡逻车有过不少吐槽，车身空间太小，成为不少警员的最多槽点。</p>
-<p>报道称，Model Y车内如果放入值勤用的笔记型电脑，<strong>其支架会影响到副驾驶座的腿部空间，使得十分拥挤，而笔记型电脑的屏幕又挡到了车内中控屏幕，一切都变的很不方便。</strong></p>
-
+<p>报道称，Model Y车内如果放入值勤用的笔记型电脑，<strong>其支架会影响到副驾驶座的腿部空间，使得十分拥挤，而笔记本电脑的屏幕又挡到了车内中控屏幕，一切都变的很不方便。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220606/11b744adf0be44d4ab66c5cb83c01f9a.jpg" target="_blank"><img alt="现实版GTA！福特野马狂飙 特斯拉Model Y警车高速追击" h="300" src="https://img1.mydrivers.com/img/20220606/s_11b744adf0be44d4ab66c5cb83c01f9a.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
            
