@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/0f5d607e81ba2f12eaa432200311c17c.jpg'
         <strong>燧光XIMMERSE</strong><br>
         移动VR交互解决方案提供商<br>
         A+轮 / 1.25亿人民币 / 1654507248<br>
-        投资方: 动平衡资本、三七互娱、电信方舟、中原前海、宏太精鹰
+        投资方: 动平衡资本、三七互娱、前海母基金、电信方舟、宏太精鹰
         
 </div>
             
