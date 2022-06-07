@@ -1,0 +1,18 @@
+
+---
+title: 'iOS 16 来了！新增个性化锁屏和消息撤回'
+categories: 
+ - 音视频
+ - 开眼
+ - 每日精选
+headimg: 'https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/bcbc95aab93982a6b21f1dd628909506.jpeg?imageMogr2/quality/60/format/jpg'
+author: 开眼
+comments: false
+date: Tue, 07 Jun 2022 03:14:05 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/bcbc95aab93982a6b21f1dd628909506.jpeg?imageMogr2/quality/60/format/jpg'
+---
+
+<div>   
+Apple 发布了一段由 Serenity Caldwell 主持的视频，该视频回顾了 WWDC 2022 的第一天。Apple 宣布，将于 6 月 6 日至 10 日以在线形式举办年度全球开发者大会 「WWDC」，所有开发者均可免费参加。在过去两年虚拟活动取得成功的基础上，WWDC22 将展示 iOS、iPadOS、macOS、watchOS 和 tvOS 的最新创新，同时让开发者接触 Apple 工程师和技术，学习如何创建突破性的应用程序和互动体验.<br><img src="https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/bcbc95aab93982a6b21f1dd628909506.jpeg?imageMogr2/quality/60/format/jpg" referrerpolicy="no-referrer"><br><video src="https://cors.zfour.workers.dev/?http://baobab.kaiyanapp.com/api/v1/playUrl?vid=310480&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=" controls="controls"></video>  
+</div>
+            
