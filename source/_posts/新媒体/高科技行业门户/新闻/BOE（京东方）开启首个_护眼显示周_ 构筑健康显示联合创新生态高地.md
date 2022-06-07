@@ -1,0 +1,19 @@
+
+---
+title: 'BOE（京东方）开启首个_护眼显示周_ 构筑健康显示联合创新生态高地'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=4770'
+author: 高科技行业门户
+comments: false
+date: Tue, 07 Jun 2022 05:52:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4770'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">6月6日是第27个全国“爱眼日”，BOE（京东方）联手荣耀、AOC、创维等一众领先智能终端消费品牌，开启了以“Eye如珍宝 E起守护”为主题的首个线上“护眼<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>周”系列活动。自6月6日开始为期一周的时间内，搭载BOE（京东方）健康护眼显示解决方案的荣耀系列高端旗舰手机、AOC高端Mini <span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>器、创维240Hz超高清电视，及BOE（京东方）类纸护眼显示等一系列绿色健康高端<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8200-display.html" target="_blank" title="显示产品">显示产品</a></span>相继亮相，通过多形式、多角度、多渠道的展现形式，提升社会大众对当下健康<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8300-display.html" target="_blank" title="显示技术">显示技术</a></span>的了解和关注。这一举措打造了聚焦单一专业显示技术领域的全新市场推广模式，更协同产业链合作伙伴共同引领行业健康显示的创新发展风潮。</p><p style="text-indent: 2em; text-align: left;">BOE（京东方）总裁高文宝博士表示，当前，用户获取信息的方式已全面迈入“读屏时代”，高频次、多场景、多形态的屏幕交互，使得基于护眼功能显示产品的市场需求空前释放。凭借对用户体验的高度关注与消费市场的精准洞察，BOE（京东方）推出了高频调光、低蓝光、自然光显示、类纸护眼显示等一系列全球领先，拥有自主知识产权的护眼技术产品，并与荣耀等众多一线智能终端品牌强强联合，深度协同，着力构建健康、绿色的联合创新生态。我们很高兴此次携手众多一线品牌发起“护眼显示周”活动，也期待更多产业链合作伙伴的加入，凭借技术突破，源源不断地为全行业的绿色健康应用发展注入创新动力，极大满足用户的视觉健康和护眼需求的同时，为消费者带来更优质、更美好的视觉体验。</p><p style="text-indent: 2em; text-align: left;">作为本次“护眼显示周”的首秀活动，BOE（京东方）率先携手荣耀，以高端柔性显示技术品牌f－<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321321-OLED.html" target="_blank" title="OLED">OLED</a></span>赋能的高频调光、低蓝光等领先护眼显示技术，带来健康绿色的移动终端产品使用体验，以创新科技为万千用户守护“睛”彩视界。针对此次合作，荣耀产品线总裁方飞表示，荣耀致力于用创新科技为用户体验保驾护航。荣耀基于对用户体验需求的洞察和显示技术的前瞻，不断与供应链伙伴进行协同创新，推动<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8100-display.html" target="_blank" title="显示行业">显示行业</a></span>不断进步。近年来，荣耀与BOE（京东方）的合作日益紧密，双方不断携手共创，在荣耀的多款高端旗舰新品上应用了业界领先的健康显示技术，并以独家屏幕驱动芯片的方式，在业界首次实现了 1920Hz 调光频率和 LTPO 屏幕材质的共存，兼顾了续航、色准和护眼。</p><p style="text-indent: 2em; text-align: left;">近年来，各年龄段消费者使用移动电子设备的时间均有大幅增长，而在暗光环境下，手机等终端显示设备的光源接近于照明状态，显示屏幕的PWM调光频率越低，屏幕闪动越容易被人眼的视觉细胞感知，长时间使用将产生明显的用眼不适。目前主流手机柔性OLED屏幕闪动频率普遍在480Hz左右，而BOE（京东方）通过行业领先的超高频PWM调光技术，可将调光频率大幅提升至1920Hz 业界首创超高水平，最高还可实现行业领先的2160Hz超高频调光，在暗光环境下最大程度降低屏幕频闪对眼睛的潜在危害。作为业内最早推出超高频PWM调光技术的科技企业，BOE（京东方）高频调光技术自2020年开始就已应用于多款一线品牌高端旗舰产品，正在向更多国内外头部品牌全面普及。</p><p style="text-indent: 2em; text-align: left;">有害蓝光是当前危害用眼健康的另一大诱因。研究表明，400－440nm波段范围内的有害蓝光会抑制褪黑素自然释放，造成睡眠质量降低，长时间接触电子设备产生的蓝光可能损害视网膜，带来一系列眼部问题。BOE（京东方）行业领先的柔性OLED低蓝光技术通过迁移OLED光谱的有害蓝光峰值位置减轻蓝光危害，将415－ 455nm波段光比值控制在18％以内，大幅降低屏幕产生的有害蓝光至6．3％的极低水平，有效降低有害蓝光对眼睛的伤害，已通过德国莱茵TüV、SGS等全球权威监测机构低蓝光认证，成为移动终端显示产品健康护眼的行业新标杆。</p><p style="text-indent: 2em; text-align: left;">多年来，BOE（京东方）一直将绿色健康作为技术创新和产品研发的重要标准，去年底BOE（京东方）重磅发布中国半导体显示产业的首个技术品牌，就将健康护眼作为ADS Pro、f－OLED、α－MLED三大子品牌的核心技术优势之一。BOE（京东方）不仅是首批通过德国莱茵TüV低蓝光认证的企业，还联合这一国际权威认证机构发布了中国显示领域首个权威健康护眼标准，加速推动全行业绿色健康应用能力的升级。目前，BOE（京东方）已联手荣耀、OPPO、华硕、AOC、创维等众多一线品牌，将全球领先的护眼显示技术应用于系列柔性OLED高端旗舰手机、可折叠 OLED笔记本、超高刷新率电竞电视及Mini LED<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-8321305-tv.html" target="_blank" title="显示器">显示器</a></span>等全新一代智能终端产品，并持续拓展<span class="hrefStyle"><a href="http://display.ofweek.com/KW-dianzizhi.html" target="_blank" title="电子纸">电子纸</a></span>、类纸护眼显示等创新应用领域，不断引领技术趋势及市场发展的行业风向标。</p><p style="text-indent: 2em; text-align: left;">新一代信息技术引领的数字经济浪潮下，多元化智能终端的全场景覆盖让显示全面融入人类生活的各个领域，作为全球半导体显示龙头和物联网创新企业，BOE（京东方）始终致力于用最前沿先进的显示技术更好服务于最广泛的终端应用消费者，并不断满足消费端对健康美好生活的不懈追求。通过“护眼显示周”系列活动，BOE（京东方）希望向社会各界诠释健康显示的重要意义，携手全球合作伙伴共同打造数字经济时代健康显示的协同创新生态高地。</p> 
+  
+</div>
+            
