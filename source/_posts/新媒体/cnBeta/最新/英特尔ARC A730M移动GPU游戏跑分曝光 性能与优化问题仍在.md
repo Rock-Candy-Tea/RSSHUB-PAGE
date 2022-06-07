@@ -1,0 +1,19 @@
+
+---
+title: '英特尔ARC A730M移动GPU游戏跑分曝光 性能与优化问题仍在'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0607/b609fc91d361c19.jpg'
+author: cnBeta
+comments: false
+date: Tue, 07 Jun 2022 08:06:57 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0607/b609fc91d361c19.jpg'
+---
+
+<div>   
+过去一段时间，英特尔图形软件部门的工作进度已严重滞后于该公司的硬件设计团队。<strong>自去年以来，我们已经获知了与 ARC GPU 有关的诸多规格细节，但驱动软件团队迟迟未能全面释放其硬件潜力。</strong>而近日，@金猪升级包 又在社交媒体上分享了英特尔 ARC A730M 移动 GPU 的多项跑分数据。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0607/b609fc91d361c19.jpg" alt="0.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">（via <a href="https://wccftech.com/intel-high-end-arc-a730m-gpu-is-barely-faster-than-an-nvidia-rtx-3050-in-gaming/" target="_self">WCCFTech</a>）</p><p>尴尬的是，ARC A730M 实际体验仍未全面超越英伟达 RTX 3050，且 Beta 版驱动程序暂时无法以 DX12 模式启动某些游戏。</p><p><img src="https://static.cnbetacdn.com/article/2022/0607/f36d7965479869c.png" alt="-1.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">截图（来自 @<a href="https://weibo.com/3219724922/LwwomE5uU" target="_self">金猪升级包</a> 的微博）</p><p>综合基准测试成绩显示，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a> ARC A730M 的跑分与英伟达 RTX 3070M 相仿，且 DX12 表现优于 DX11 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/ff7216022a4575b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/ff7216022a4575b.jpg" alt="1-1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">《地铁：离去》1080p</p><p>然而在游戏项目上，ARC A730M 甚至无法运行《古墓丽影：暗影》（DX11 能跑但成绩无意义）。</p><p>不过只要跑起来，GPU 的 TDP 还是可以达到 92W（80-120W 之间），频率也有 2050 MHz 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/a384e708f6e572b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/a384e708f6e572b.jpg" alt="1-2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">《地铁：离去》1440p</p><p>最终游戏测试选择了《刺客信条：奥德赛》、《地铁：离去》和《F1 2020》等比较有代表性的作品。</p><p>比如在《地铁：离去》中，ARC A730M 能够在 1080 / 1440p 高质量预设下，分别达成 70 / 55 fps 的帧率 —— 接近 RTX 3060 移动独显。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/73401e29c346a8c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/73401e29c346a8c.jpg" alt="1-3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">《F1 2020》1080p</p><p>其它基准测试显示 ARC A730M 的性能接近、或略快于 RTX 3050 。但在四年前发布的《刺客信条：奥德赛》上，其平均帧率只有让人失望的 38 fps 。</p><p>更糟糕的是，RTX 3050 Mobile 是绿厂 Ampere GPU 家族中的入门 SKU、而 ARC A730M 却是蓝厂 ARC Alchemist 家族中的高端 SKU 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/d56ed8f94de0c47.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/d56ed8f94de0c47.jpg" alt="1-4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">《F1 2020》1440p</p><p>目前尚不清楚这些游戏基准测试是否在禁用（或启用）DTT 的情况下运行，因为这项设置会通过限制 TDP 功耗以延长笔记本电脑的续航时间。</p><p>除此之外，英特尔 ARC A730M GPU 的实际“可玩性”也是乏善可陈，因为用户报告了不稳定的游戏体验、以及前文提到的 DX12 兼容性问题。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/755826c3d582c77.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/755826c3d582c77.jpg" alt="1-5.jpg" referrerpolicy="no-referrer"></a></p><p>《刺客信条：奥德赛》1080p</p><p>WCCFTech 指出：或许正因驱动软件尚未准备就绪，英特尔才将 ARC Alchemist 高端 PGU 阵容以“限时独占”的形式在中国市场推出。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/bff8c17c0898a29.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/bff8c17c0898a29.jpg" alt="1-6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">《刺客信条：奥德赛》1440p</p><p>但愿到今年夏末的时候，英特尔能够妥善解决软件优化方面的问题。否则 ARC A5 / A7 台式机独显在全球市场的上市，也将成为一场让英特尔无地自容的营销灾难。</p>   
+</div>
+            
