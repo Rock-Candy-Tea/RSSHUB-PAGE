@@ -1,0 +1,22 @@
+
+---
+title: '手機
+《陽春白雪》團隊公開新作音樂遊戲《Gadvia》預計 2022 年底進行封測
+ 0 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/58/616d1ff26041177d354cd4fcc51gmn65.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/58/616d1ff26041177d354cd4fcc51gmn65.JPG'
+---
+
+<div>   
+曾製作《陽春白雪》的獨立遊戲團隊 RNOVA Studio 成立的「浮光遊戲」，與長期致力於多元音樂製作與推廣原住民文化的「漢創國際音樂」攜手合作，推出以民族風為主題的音樂遊戲《Gadvia》，以南島原住民傳說與神話為基底，加入奇幻與科幻要...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/58/616d1ff26041177d354cd4fcc51gmn65.JPG" referrerpolicy="no-referrer">  
+</div>
+            
