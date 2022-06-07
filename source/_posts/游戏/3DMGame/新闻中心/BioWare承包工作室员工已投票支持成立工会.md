@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220607/1654582006_7805
 正在承包 BioWare 项目的 Keywords Studios 今天在一份声明中证实，其员工现已投票支持成立工会。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220607/1654582006_780575.jpg" alt="BioWare承包工作室员工已投票支持成立工会" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220607/1654582006_780575.jpg" alt="BioWare承包工作室员工已投票支持成立工会" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 该公司表示：“Keywords Studios 接受了 16 名选择加入工会的埃德蒙顿员工的投票。”
@@ -35,7 +35,7 @@ Polygon 报道说，组建工会的投票全员都是一致支持。
 作为外部开发合作伙伴，Keywords 提供 QA、本地化和资产创建等服务，尤其是 Keywords QA 人员此前曾批评公司对待他们的方式。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220607/1654582028_669636.jpg" alt="BioWare承包工作室员工已投票支持成立工会" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220607/1654582028_669636.jpg" alt="BioWare承包工作室员工已投票支持成立工会" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在疫情开始时，测试人员指责该公司不顾公共卫生问题，不允许员工在家工作，也不允许生病的 QA 团队成员回家。
