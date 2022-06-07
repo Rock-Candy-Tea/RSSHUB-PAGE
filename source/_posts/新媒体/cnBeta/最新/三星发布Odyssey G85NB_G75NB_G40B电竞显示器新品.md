@@ -1,0 +1,19 @@
+
+---
+title: '三星发布Odyssey G85NB_G75NB_G40B电竞显示器新品'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0607/ea46c05145d0f15.jpg'
+author: cnBeta
+comments: false
+date: Tue, 07 Jun 2022 02:06:27 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0607/ea46c05145d0f15.jpg'
+---
+
+<div>   
+<strong>三星刚刚刷新了三条线的 Odyssey 显示器家族新品，并将于本月开始向全球市场推出。</strong>其中包括了具有 1000R 曲率的 G85NB（G8）和 G75NB（G7）机型，以及采用平面屏的 GB40B（G4）机型。值得一提的是，G8 和 G4 机型都支持 240Hz 高刷新率、而 G7 机型最高仅支持 165Hz 。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0607/ea46c05145d0f15.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/ea46c05145d0f15.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（来自：Samsung <a href="https://news.samsung.com/global/samsung-electronics-launches-worlds-first-240hz-4k-gaming-monitor-odyssey-neo-g8-globally" target="_self">Newsroom</a>）</p><p>首先介绍 Odyssey Neo G8，该显示器采用了 32 英寸 @ <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>（3840×2160）分辨率的 1000R <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_92263%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D3_%25E7%2594%25B5%25E8%25A7%2586%25E7%25B1%25BB%25E5%259E%258B_%25E6%259B%25B2%25E9%259D%25A2%23J_crumbsBar" target="_blank">曲面</a> VA 面板。</p><p>另有量子矩阵技术（Quantum Matrix Technology）加持，覆盖 95% 的 DCI-P3 色域、辅以 240Hz 刷新率 / 1-ms 灰阶响应时间（GtG）。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=354694709&autoplay=false&disablePlaylist=true" width="720" height="480" frameborder="0"></iframe></p><p style="text-align: center;">Odyssey Neo G8 The best created the best Samsung（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzU0Njk0NzA5LnNodG1s.html" target="_self">via</a>）</p><p>三星视觉显示业务执行副总裁 Hyesung Ha 评论道：</p><blockquote><p>我们很高兴推出业内速度领先的 4K 电竞显示器，向市场释放更多创新机会，辅以让人难以置信的身临其境的体验。</p><p>得益于 Odyssey 显示产品线卓越的功能和逼真的画质，玩家有望获得与其游戏角色相仿的刺激场景体验。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0607/ec14d3d69ebc1a3.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/ec14d3d69ebc1a3.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p>其次是 Odyssey Neo G7，该显示器沿用了 32 英寸 @ 4K 分辨率的 1000R 曲面 VA 面板，但最高仅支持 165Hz 刷新率，辅以 1-ms 灰阶响应时间。</p><p>显然，曲面屏可带来更深的沉浸感，且 G7 与 G7 都支持 Quantum HDR 2000、FreeSync Premium Pro 和 CoreSync Lighting 技术。</p><p><a href="https://static.cnbetacdn.com/article/2022/0607/c7f1fe32a9acca9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0607/c7f1fe32a9acca9.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p>最后是 Odyssey G4，该显示器可选 25 / 27 英寸 @ FHD （1920×1080）分辨率的 IPS 平面屏，最高支持 240Hz 刷新率 / 1-ms 灰阶响应时间。</p><p>与 VA 面板不同的是，IPS 面板具有更宽广的可视角度，支持 HDR10 高动态范围。此外该系列显示器兼容 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> FreeSync Premium / 英伟达 G-Sync 自适应刷新率技术。</p><p><img src="https://static.cnbetacdn.com/article/2022/0607/9ef91558e1eddc6.png" alt="4.png" referrerpolicy="no-referrer"></p><p>端口方面，G8 与 G7 机型均提供了 DisplayPort 1.4 + HDMI 2.1 视频输入、以及 USB 3.0 集线器。而 G4 机型则是 DisplayPort 1.2 + HDMI 2.0 的组合。</p><p>此外所有显示器都配有可调支架，支持高度、倾角、俯仰、以及旋转调节。如有需要，你也可以将它们壁挂安装。</p><p>最后，三星尚未披露该系列 Odyssey 电竞显示器的确切售价和发布日期，但最终定价肯定会因不同的市场区域而异。</p>   
+</div>
+            
