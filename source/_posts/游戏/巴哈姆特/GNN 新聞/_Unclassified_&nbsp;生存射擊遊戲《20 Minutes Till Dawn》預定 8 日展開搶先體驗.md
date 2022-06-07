@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/44/55a75c3f52984200fc6057ceb01gm8w5.JPG?v=1654501727947'
 author: 巴哈姆特
 comments: false
-date: 2022-06-06 15:09:15
+date: 2022-06-07 00:37:58
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/55a75c3f52984200fc6057ceb01gm8w5.JPG?v=1654501727947'
 ---
 
@@ -42,7 +42,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/55a75c3f52984200fc6057ceb01gm8w5.
 <div>
  </div>
 <div>
-　　官方表示，搶先體驗版遊戲 10 分鐘後，將有龐大且強大的敵人出現，它擁有更多的血量和數量，分分鐘挑戰玩家的極限，同時遊戲內更多的角色，槍械，以及局內局外養成，都足以讓玩家沈迷。</div>
+　　官方表示，搶先體驗版遊戲 10 分鐘後，將有龐大且強大的敵人出現，它擁有更多的血量和數量，挑戰玩家的極限，同時遊戲內更多的角色，槍械，以及局內局外養成，都足以讓玩家沈迷。</div>
 <div>
  </div>
 <h3>
@@ -56,14 +56,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/55a75c3f52984200fc6057ceb01gm8w5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG?v=1654514486350" data-srcset="https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG?v=1654514486350" data-srcset="https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/76/7c71efcf97b8fe322bc919d8e11gmck5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG?v=1654514510267" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG?v=1654514510267" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/2537a89ae76782cf3c664f5c011gmcl5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
