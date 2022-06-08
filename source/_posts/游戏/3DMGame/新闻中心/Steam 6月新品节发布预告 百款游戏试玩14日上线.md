@@ -33,7 +33,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220608/1654660679_2446
 完整的试玩参与游戏列表尚未公布，但V社已经分享了几款参与的游戏。这些作品都已经在预告中展示，包括《Arksync》、《私家侦探布罗格》、《咩咩启示录》、《白日梦：被遗忘的悲伤》、《恐惧症》、《Exophobia》、《Foretales》、《格式塔：蒸汽与煤渣》、《微光之镜》、《奥德赛之和谐》、《帽子之王》、《乐高：积木传说》、《Misc. A Tiny Tale》、《Eyes in the Dark》、《Fays Factory》以及《Ghost Song》。
 </p>
 <p style="text-indent:2em;">
-<strong><span style="font-size:16px;"><span style="color:#E56600;">Steam新品节官方网页：</span><a href="https://store.steampowered.com/sale/nextfest" target="_blank">点击这里</a></span></strong>
+<strong><span style="font-size:16px;"><span style="color:#E56600;">Steam新品节官方网页：</span><a href="https://store.steampowered.com/sale/nextfest" target="_blank">点击这里</a></span></strong> 
 </p>          
 </div>
             
