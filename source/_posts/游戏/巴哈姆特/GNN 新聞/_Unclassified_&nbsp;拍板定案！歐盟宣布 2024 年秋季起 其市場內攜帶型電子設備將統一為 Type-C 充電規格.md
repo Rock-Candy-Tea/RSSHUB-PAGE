@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/60/263f56abdc9a8c98948421ddf31gn9g5.JPG?v=1654662485285'
 author: 巴哈姆特
 comments: false
-date: 2022-06-08 06:11:18
+date: 2022-06-08 07:08:56
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/263f56abdc9a8c98948421ddf31gn9g5.JPG?v=1654662485285'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/263f56abdc9a8c98948421ddf31gn9g5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　根據 The Verge 外電報導指出，歐盟立法者在今日已立法達成協議，自 2024 年秋季起於歐盟銷售的智慧型手機（包含蘋果的 iPhone）將強制配備 Type-C 端口進行有線充電。而這樣的規格也將適用於其他電子設備，包含像是平板電腦、數位相機、耳機、手持電子遊樂器以及電子閱讀器。而筆記型電腦在往後也將必須遵循此規範。</div>
+　　歐盟立法者在今日已立法達成協議，自 2024 年秋季起於歐盟銷售的智慧型手機（包含蘋果的 iPhone）將強制配備 Type-C 端口進行有線充電。而這樣的規格也將適用於其他電子設備，包含像是平板電腦、數位相機、耳機、手持電子遊樂器以及電子閱讀器。而筆記型電腦在往後也將必須遵循此規範。</div>
 <div>
  </div>
 <div>
