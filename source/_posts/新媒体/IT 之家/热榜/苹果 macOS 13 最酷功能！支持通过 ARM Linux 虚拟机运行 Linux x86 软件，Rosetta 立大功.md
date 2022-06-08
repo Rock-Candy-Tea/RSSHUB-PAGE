@@ -1,0 +1,20 @@
+
+---
+title: '苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/0ff54a0b-0959-4a9c-add8-5fd0581bd21e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE0MC5wbmc=,g_3,x_14,y_14,a_0,t_100'
+author: IT 之家
+comments: false
+date: Tue, 07 Jun 2022 07:41:53 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/0ff54a0b-0959-4a9c-add8-5fd0581bd21e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE0MC5wbmc=,g_3,x_14,y_14,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D810653" rel="nofollow">梦造</a> 的线索投递！</div>
+            <p data-vmark="74b3"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 7 日消息，苹果 macOS 13 今日正式发布，除了面向普通用户的体验改进，该系统为 Linux 用户们带来了一项非常酷的功能，那就是<span class="accentTextColor">把自家的转译工具 Rosetta 带到了 ARM Linux 虚拟机</span>。</p><p data-vmark="2ee6">Rosetta 2 是苹果在 macOS Big Sur 中推出的转译技术，可以让采用苹果芯片（如 M1 / M2 芯片）的 Mac 运行为搭载英特尔处理器的 Mac 打造的 x86 应用，IT之家此前推出过一篇科普文章。</p><p data-vmark="aaa3">《<a href="https://www.ithome.com/0/526/714.htm" target="_blank">一文看懂苹果 Rosetta 2 技术原理：这个 “翻译”有点本事</a>》</p><p data-vmark="1e19">而在今日更新的开发者文档中，苹果宣布，当更新到 macOS 13 及之后，用户将可以在 ARM Linux 虚拟机中<span class="accentTextColor">通过 Rosetta 运行 Linux 的 x86_64 应用</span>。</p><p data-vmark="b000" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/0ff54a0b-0959-4a9c-add8-5fd0581bd21e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE0MC5wbmc=,g_3,x_14,y_14,a_0,t_100" w="913" h="638" title="苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功" width="913" height="573" referrerpolicy="no-referrer"></p><p data-vmark="64c3">目前尚不清楚该工具的效果如何，如果真的可以正常转译大部分软件，那么对于苹果 M1 / M2 Mac 电脑使用 Linux 将是一项巨大的体验提升。</p><p data-vmark="24da">不过，这一功能预计会依赖于 macOS，想要直接在 Mac 的 ARM Linux 或者 Asahi Linux 上转译 x86_64 应用应该是不可能的。</p><p data-vmark="e7ad">苹果也在开发者文档中指出，<span class="accentTextColor">M1 / M2 Mac 不支持通过 Rosetta 直接运行英特尔 Linux 发行版</span>，而是需要先安装 ARM Linux 虚拟机，再转译 x86_64 应用。</p><p data-vmark="5deb" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/cff28346-5a7a-4fc4-8218-24cada4c7569.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNC5wbmc=,g_3,x_11,y_11,a_0,t_100" w="739" h="283" title="苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功" width="739" height="283" referrerpolicy="no-referrer"></p><p data-vmark="bd1b">IT之家了解到，用户需要在 ARM Linux 虚拟机中挂载 Rosetta 共享，并将 Rosetta 安装为系统用于运行 x86_64 二进制文件的应用，具体使用方法大家可以<a href="https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta" target="_blank">点击此处查看官方文档</a>。</p><p data-vmark="ab41">这一功能也是引发了一众开发者狂喜，还有人设想以后能在 M1 / M2 Mac 上用 Docker 运行 x86 / x64 容器。</p><p data-vmark="d06a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/42436922-2434-4100-b2e2-3fe6e1c42886.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExMi5wbmc=,g_3,x_11,y_11,a_0,t_100" w="731" h="156" title="苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功" width="731" height="156" referrerpolicy="no-referrer"></p><p data-vmark="8098" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/2f42ee74-289e-4eab-af48-260751855b04.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExMy5wbmc=,g_3,x_11,y_11,a_0,t_100" w="736" h="170" title="苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功" width="736" height="170" referrerpolicy="no-referrer"></p><p data-vmark="9020" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/7f71b0fd-1074-4076-ac50-db236e824151.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExMy5wbmc=,g_3,x_11,y_11,a_0,t_100" w="735" h="242" title="苹果 macOS 13 最酷功能！支持通过 ARM Linux 虚拟机运行 Linux x86 软件，Rosetta 立大功" width="735" height="242" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

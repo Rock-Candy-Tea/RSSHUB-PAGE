@@ -36,7 +36,6 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/06/Cqf03cmuzz55NZ8rqLBL.png'
 <p>到了今年1月1日，Kindle在中国各平台旗舰店的库存基本清空，官方线上渠道京东自营店的产品大面积缺货，仅剩下一款“青春版”在售。当时还有媒体报道称，“Kindle正在撤退”。</p>
 <p>不过，当时亚马逊中国给出的回应是“供应链短缺问题，并不存在退出。”</p>
 <p>但时至今日，Kindle已将退出路线图汇制完毕。</p>
-<p class="image-wrapper"><img data-action="zoom" class="aligncenter" data-img-size-val src="http://www.woshipm.com/it/undefined" referrerpolicy="no-referrer"></p>
 <p>当下，Kindle在中国的大撤退真正到来，它的中国时代也正式宣告结束。</p>
 <h2 id="toc-2">二、Kindle 这些年经历了什么？</h2>
 <p>目光回到2012年12月，亚马逊中国网站正式上线Kindle商店，Kindle用户终于可以购买中文版Kindle书籍。当时Kindle商店推出的书籍达到数万册，在价格方面，10元以下的特惠专区极其受欢迎，其中0元区也有上千本。</p>

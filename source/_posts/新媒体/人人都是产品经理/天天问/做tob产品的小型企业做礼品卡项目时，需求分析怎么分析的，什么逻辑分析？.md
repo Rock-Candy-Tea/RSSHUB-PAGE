@@ -1,0 +1,18 @@
+
+---
+title: '做tob产品的小型企业做礼品卡项目时，需求分析怎么分析的，什么逻辑分析？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=7410'
+author: 人人都是产品经理
+comments: false
+date: Wed, 08 Jun 2022 02:54:45 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7410'
+---
+
+<div>   
+需求分析实际操作的步骤  
+</div>
+            
