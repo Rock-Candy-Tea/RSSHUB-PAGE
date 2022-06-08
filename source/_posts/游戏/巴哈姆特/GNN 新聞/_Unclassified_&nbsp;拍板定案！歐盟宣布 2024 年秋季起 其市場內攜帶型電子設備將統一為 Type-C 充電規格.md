@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/60/263f56abdc9a8c98948421ddf31gn9g5.JPG?v=1654662485285'
 author: 巴哈姆特
 comments: false
-date: 2022-06-08 08:12:59
+date: 2022-06-08 09:08:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/263f56abdc9a8c98948421ddf31gn9g5.JPG?v=1654662485285'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li></ul>
+<ul class="platform-tag"><li class="platform-other"><a href="https://gnn.gamer.com.tw/undefined">其他</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
