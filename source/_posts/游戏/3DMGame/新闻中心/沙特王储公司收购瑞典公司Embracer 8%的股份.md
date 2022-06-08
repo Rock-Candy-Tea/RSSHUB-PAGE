@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220608/1654687691_4943
 据Gamesindustry报道，沙特王储公司购买了瑞典游戏公司Embracer Group 10亿美元的股票，大约相当于该公司8.1%的股份。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220608/1654687691_494352.png" alt="沙特王储公司收购瑞典公司Embracer 8%的股份" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220608/1654687691_494352.png" alt="沙特王储公司收购瑞典公司Embracer 8%的股份" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 据悉这些股份是通过Savvy Gaming 

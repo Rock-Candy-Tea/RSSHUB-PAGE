@@ -1,0 +1,18 @@
+
+---
+title: 'B站为什么越来越多竖版短视频了？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 天天问
+headimg: 'https://picsum.photos/400/300?random=3272'
+author: 人人都是产品经理
+comments: false
+date: Wed, 08 Jun 2022 13:33:38 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3272'
+---
+
+<div>   
+<p>打开首页，在信息流里面刷到的竖版短视频变多了，一直觉得横屏是b站特色，竖屏像在刷抖音</p>  
+</div>
+            
