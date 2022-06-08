@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 今日热榜
  - 榜单
-headimg: 'https://picsum.photos/400/300?random=698'
+headimg: 'https://picsum.photos/400/300?random=1294'
 author: 今日热榜
 comments: false
-date: 2022-06-07 15:14:52
-thumbnail: 'https://picsum.photos/400/300?random=698'
+date: 2022-06-08 00:43:57
+thumbnail: 'https://picsum.photos/400/300?random=1294'
 ---
 
 <div>   
