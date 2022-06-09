@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/446/228/787/141/473/original/b2529dfd19ee63af.png'
+headimg: 'https://picsum.photos/400/300?random=4124'
 author: Mastodon
 comments: false
-date: Thu, 09 Jun 2022 07:02:17 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/446/228/787/141/473/original/b2529dfd19ee63af.png'
+date: Thu, 09 Jun 2022 07:52:57 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4124'
 ---
 
 <div>   
-<hr><p>ツイステでいう蜜みたいな</p><br><img src="https://img.pawoo.net/media_attachments/files/108/446/228/787/141/473/original/b2529dfd19ee63af.png" alt="image " referrerpolicy="no-referrer">  
+<hr><br><video src="https://img.pawoo.net/media_attachments/files/108/446/423/868/265/446/original/6b0b62d36b8a8a41.mp4" controls loop>video </video>  
 </div>
             
