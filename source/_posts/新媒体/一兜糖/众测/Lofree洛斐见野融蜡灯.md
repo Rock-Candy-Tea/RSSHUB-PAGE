@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202206/01/8764da/10acbc635eeefb68.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2022-06-09 02:55:29
+date: 2022-06-09 03:48:57
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202206/01/8764da/10acbc635eeefb68.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2022.06.05                        <br>Lofree洛斐见野融蜡灯<br>                            数量 ：5<br>                            实际价格 ：249元<br>                            名单确认中<br>                            44人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202206/01/8764da/10acbc635eeefb68.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.06.05                        <br>Lofree洛斐见野融蜡灯<br>                            数量 ：5<br>                            实际价格 ：249元<br>                            活动体验中<br>                            44人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202206/01/8764da/10acbc635eeefb68.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
