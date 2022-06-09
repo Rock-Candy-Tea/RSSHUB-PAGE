@@ -8,12 +8,12 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/372a756438dacc5f688a0dc8f81gnus5.JPG?v=1654707082406'
 author: 巴哈姆特
 comments: false
-date: 2022-06-09 00:45:15
+date: 2022-06-09 02:54:04
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/372a756438dacc5f688a0dc8f81gnus5.JPG?v=1654707082406'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
+<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
 <!-- 新聞內容 -->
 <div>
 <div>
