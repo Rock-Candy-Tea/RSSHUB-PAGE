@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://picsum.photos/400/300?random=4124'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/446/618/628/959/846/original/c1ab06593e3c163f.png'
 author: Mastodon
 comments: false
-date: Thu, 09 Jun 2022 07:52:57 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4124'
+date: Thu, 09 Jun 2022 08:43:31 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/446/618/628/959/846/original/c1ab06593e3c163f.png'
 ---
 
 <div>   
-<hr><br><video src="https://img.pawoo.net/media_attachments/files/108/446/423/868/265/446/original/6b0b62d36b8a8a41.mp4" controls loop>video </video>  
+<hr><p>まほやくはポイントでSSRが貰えるわけじゃないからゴールはここ　635万<br>金の花びらは1つでSSR、SR、R、全ランクを対象に1凸できるよ<br>でもRは銅、SRは銀でも凸できるからSSRに使うのが主流</p><br><img src="https://img.pawoo.net/media_attachments/files/108/446/618/628/959/846/original/c1ab06593e3c163f.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
