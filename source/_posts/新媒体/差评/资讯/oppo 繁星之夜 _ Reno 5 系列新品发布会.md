@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 差评
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=9536'
+headimg: 'https://picsum.photos/400/300?random=1051'
 author: 差评
 comments: false
 date: Thu, 10 Dec 2020 08:16:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9536'
+thumbnail: 'https://picsum.photos/400/300?random=1051'
 ---
 
 <div>   
