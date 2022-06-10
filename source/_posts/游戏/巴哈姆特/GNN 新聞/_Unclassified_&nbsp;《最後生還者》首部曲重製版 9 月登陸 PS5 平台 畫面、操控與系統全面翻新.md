@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/81/ef59318aace8ce1b086be9abfb1goz55.JPG?v=1654808535383'
 author: 巴哈姆特
 comments: false
-date: 2022-06-10 11:08:22
+date: 2022-06-10 12:16:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/81/ef59318aace8ce1b086be9abfb1goz55.JPG?v=1654808535383'
 ---
 
@@ -127,7 +127,7 @@ PS4 Remastered 版（左）與 PS5 重製版（右）畫面比較</h3>
 <li class="bh-grids-img-box" style="width: 53.61%;">
 <figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/1fd1cf302da91db0a44436a7ca1gozt5.JPG?v=1654844143966" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/1fd1cf302da91db0a44436a7ca1gozt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/1fd1cf302da91db0a44436a7ca1gozt5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 46.26%;">
-<figcaption style="padding-bottom: 115.88%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?v=1654844143966" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?v=1654844043&w=500 1x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?v=1654844043&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?v=1654844043&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 115.88%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?v=1654844143966" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/06/869e0ea999ccaf2495ccf45d3c1gozu5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
