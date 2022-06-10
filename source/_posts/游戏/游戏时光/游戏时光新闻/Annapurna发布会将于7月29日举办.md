@@ -23,16 +23,14 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/06/10/220610102531729_u1628
 
                 
                 
-                    <div class="topicContent front_content sort_content">曾推出《星际拓荒》《十二分钟》《艺术逃亡》等作品的发行商Annapurna Interactive宣布，将于北京时间7月29日凌晨3点举行发布会活动，并将在活动中宣布《太阳灰国》的发售日、《寻路者》Steam版、《星际拓荒》最新DLC等情报。</div>
+                    <div class="topicContent front_content sort_content">曾推出《星际拓荒》《十二分钟》《寻路者》《艺术逃亡》等作品的发行商Annapurna Interactive宣布，将于北京时间7月29日凌晨3点举行发布会活动。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610102531729_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610102531729_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
                         
-                            <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610102628343_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610102628343_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
+                            <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610111440376_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610111440376_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
                         
-                            <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610102532414_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610102532414_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
-                        
-                            <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610102532148_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610102532148_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
+                            <li><img alt="https://img01.vgtime.com/game/cover/2022/06/10/220610111825918_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/06/10/220610111825918_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
                         
                     </ul>
                 
