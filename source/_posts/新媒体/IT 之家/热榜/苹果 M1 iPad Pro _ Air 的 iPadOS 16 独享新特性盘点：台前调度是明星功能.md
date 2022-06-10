@@ -1,0 +1,19 @@
+
+---
+title: '苹果 M1 iPad Pro _ Air 的 iPadOS 16 独享新特性盘点：台前调度是明星功能...'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/29a35973-2532-497a-988f-f2c967dbc308.jpg@s_2,w_820,h_410'
+author: IT 之家
+comments: false
+date: Fri, 10 Jun 2022 03:06:19 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/29a35973-2532-497a-988f-f2c967dbc308.jpg@s_2,w_820,h_410'
+---
+
+<div>   
+<p data-vmark="a0a4"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 6 月 10 日消息，苹果发布了 iOS 16、iPadOS 16 系统，并且已经发布了首个开发者预览版 Beta。</p><p data-vmark="775f">iPadOS 16 带来了一些新功能，尤其是针对 M1 iPad 用户。如果你想知道如何充分利用即将推出的操作系统以及是否值得升级到 M1 iPad Air 或 M1 iPad Pro，以下是它们在 iPadOS 16 上的独享功能。</p><p style="text-align: center;" data-vmark="bfcf"><img src="https://img.ithome.com/newsuploadfiles/2022/6/29a35973-2532-497a-988f-f2c967dbc308.jpg@s_2,w_820,h_410" w="1440" h="720" title="苹果 M1 iPad Pro / Air 的 iPadOS 16 独享新特性盘点：台前调度是明星功能..." srcset="https://img.ithome.com/newsuploadfiles/2022/6/29a35973-2532-497a-988f-f2c967dbc308.jpg 2x" width="1440" height="410" referrerpolicy="no-referrer"></p><h3 data-vmark="c671">台前调度是明星功能</h3><p data-vmark="821a">台前调度将仅适用于 M1 iPad Air 和 M1 iPad Pro。以下是可以使用 iPadOS 16 功能执行的操作：</p><ul class=" list-paddingleft-2"><li><p data-vmark="5c00">可调整大小的窗口：调整窗口大小，使它们适合你的任务；</p></li><li><p data-vmark="ac0b">中心应用程序：专注于你正在使用的应用程序，而无需全屏显示；</p></li><li><p data-vmark="a5be">快速访问窗口和应用程序：你正在工作的应用程序的窗口在中心突出显示，其他应用程序按最近使用的顺序排列在左侧；</p></li><li><p data-vmark="59de">重叠窗口：在单个视图中创建不同大小的重叠窗口，你可以控制安排理想的工作空间；</p></li><li><p data-vmark="be1e">将应用组合在一起：从侧面拖放窗口或从 Dock 栏打开应用程序以创建你可以随时返回的应用程序集。</p></li></ul><p data-vmark="cd26">如果拥有 M1 iPad Pro / Air，你可以在 iPadOS 16 上利用此功能：</p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="9d1b">虚拟内存交换：<span class="accentTextColor">iPad 存储可用于扩展所有应用程序的可用内存，并为要求最苛刻的应用程序提供高达 16GB 内存。</span></p></li></ul><h3 data-vmark="47b6">提供外部显示器支持</h3><p data-vmark="044e">运行 iPadOS 16 的 M1 iPad 用户的另一个重要功能是能够获得适当的外部显示器支持。</p><p style="text-align: center;" data-vmark="5e2b"><img src="https://img.ithome.com/newsuploadfiles/2022/6/a060900e-d9f9-4336-a429-81cfd17a5263.jpg@s_2,w_820,h_458" w="1440" h="805" title="苹果 M1 iPad Pro / Air 的 iPadOS 16 独享新特性盘点：台前调度是明星功能..." srcset="https://img.ithome.com/newsuploadfiles/2022/6/a060900e-d9f9-4336-a429-81cfd17a5263.jpg 2x" width="1440" height="458" referrerpolicy="no-referrer"></p><p data-vmark="8a5b">正如苹果解释的那样，配备 M1 芯片的 iPad Pro 完全支持外接显示器，分辨率高达 6K，这意味着你可以在 iPad 和外接显示器上使用不同的应用程序。运行 iPadOS 16，你还可以：</p><ul class=" list-paddingleft-2"><li><p data-vmark="1ae8">在外接显示器上访问应用程序：从 Dock 栏访问你喜爱的应用程序和最近使用的应用程序，或使用应用程序库更快地找到想要的应用程序；</p></li><li><p data-vmark="7de1">在 iPad 和外部显示器之间拖放：运行 iPadOS 16 的 M1 iPad 用户可以将文件和窗口从其 iPad Pro 拖放到外部显示器，反之亦然。</p></li></ul><h3 data-vmark="aeab">12.9 英寸 M1 iPad Pro 拥有专属功能</h3><p style="text-align: center;" data-vmark="4bcb"><img src="https://img.ithome.com/newsuploadfiles/2022/6/25006c65-c13e-45dd-98a4-6f4bf605fca3.jpg@s_2,w_820,h_458" w="1440" h="805" title="苹果 M1 iPad Pro / Air 的 iPadOS 16 独享新特性盘点：台前调度是明星功能..." srcset="https://img.ithome.com/newsuploadfiles/2022/6/25006c65-c13e-45dd-98a4-6f4bf605fca3.jpg 2x" width="1440" height="458" referrerpolicy="no-referrer"></p><p data-vmark="8703">即使你拥有 M1 iPad，也并不意味着将拥有 iPadOS 16 上可用的所有功能，因为苹果将一项功能保留到具有新显示模式的更大 iPad 上：</p><ul class="ai-word-checked list-paddingleft-2"><li><p data-vmark="fd8d">参考模式：使配备 Liquid Retina XDR 显示屏的 12.9 英寸 iPad Pro 能够为流行的色彩标准和视频格式提供参考色彩；</p></li><li><p data-vmark="04ca">带 Sidecar 的参考模式：将 iPad Pro 用作 Mac 的辅助参考显示器。</p></li></ul><h3 data-vmark="47b4">2020 款 iPad Pro 和 iPad Air 4 也有闪耀功能</h3><p data-vmark="e396">仅适用于 2020 年 iPad Pro 用户或更新型号的 iPadOS 16 上的放大镜具有独家辅助功能：</p><ul class=" list-paddingleft-2"><li><p data-vmark="0ad5">放大镜中的检测模式：使用包含门检测、人员检测和图像描述的新放大镜模式，获得对周围环境的丰富描述；</p></li><li><p data-vmark="0fec">放大镜中的门检测：找到一扇门，阅读其周围的标志或标签，并获取有关如何打开门的说明。</p></li></ul>
+          
+</div>
+            
