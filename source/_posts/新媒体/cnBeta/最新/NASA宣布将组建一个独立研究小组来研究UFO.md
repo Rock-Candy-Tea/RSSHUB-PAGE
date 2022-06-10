@@ -1,0 +1,19 @@
+
+---
+title: 'NASA宣布将组建一个独立研究小组来研究UFO'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0610/8f311e1bd8765c6.jpg'
+author: cnBeta
+comments: false
+date: Fri, 10 Jun 2022 00:37:05 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0610/8f311e1bd8765c6.jpg'
+---
+
+<div>   
+据The Verge报道，美国宇航局（NASA）周三宣布，<strong>该机构正在组建一个独立的研究小组，在今年秋天研究不明飞行物的目击事件，或称不明空中现象（UAPs）</strong>，这是现在用来指代UFO的最新术语。该航天局表示，它计划从科学角度研究这些目击事件，但也强调 “没有证据表明UAPs是地外之物”。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2022/0610/8f311e1bd8765c6.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0610/8f311e1bd8765c6.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">该研究小组将由NASA科学任务局下属的天体物理学家David Spergel领导，将试图确定目前有哪些关于UAPs的数据，并找出未来如何最好地获取UAPs的数据。NASA指出，由于目击的局限性，很难对UAPs的来源得出合理的结论。根据NASA的一篇博客文章，研究人员还将尝试确定 “NASA如何利用这些数据来推进对UAPs的科学理解”。据NASA科学副局长Thomas Zurbuchen说，这项研究将是公开的、非保密的。</p><p style="text-align: left;">NASA表示，研究UAPs目击事件确实与该航天局的利益一致，尽管外星人不太可能是任何UAPs的来源。辨别由自然现象或也许是某种技术引起的UAPs对于NASA的一个不太知名的目标至关重要：保护航空安全。尽管NASA因其在太空探索方面的努力而闻名，但毕竟NASA的第一个"A"代表航空。“我们在NASA思考这个问题的方式与我们的公开性、透明度和科学完整性的原则是一致的，”Zurbuchen在国家科学院空间研究委员会会议的直播谈话中说。“我们并不回避声誉风险。”</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0610/c401f1a007b924e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0610/c401f1a007b924e.png" alt="Screen_Shot_2022_06_09_at_10.12.38_AM.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这项研究的消息是在媒体对UAPs目击事件进行了多年的炒作和报道之后传出的。2017年，《纽约时报》的一篇报道披露，五角大楼有一个名为高级航空航天威胁识别计划（AATIP）的机密项目，据称该项目调查了经常由军事飞行员看到的UAPs。2020年，美国国防部在海军内部成立了不明空中现象特别工作组（UAPTF），以更好地了解UAPs的起源。</p><p style="text-align: left;">虽然NASA尚未以官方身份涉足UAPs辩论，但NASA局长比尔·纳尔逊已经对这些目击事件发表了许多评论，甚至暗示对所看到的东西可能有一些其他世界的解释。“我已经和那些飞行员谈过了，他们知道他们看到了什么，他们的雷达锁定了它，”纳尔逊在弗吉尼亚大学举办的直播聊天中说。“但他们不知道那是什么。我们也不知道它是什么。我们希望它不是地球上拥有这种技术的对手。但它是一种东西。”</p><p style="text-align: left;">去年6月，五角大楼就UAPs的潜在来源发布了自己的报告，为飞行员在天空中看到的东西列出了五种可能的解释。虽然许多解释是比较良性的--如空中杂波和自然大气现象--但五角大楼也为其无法解释的事件和目击事件列出了第五种分类，即"其他"。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/0610/fa5da2880e31f0d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0610/fa5da2880e31f0d.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">5月17日，众议院情报委员会的一个小组委员会举行了一次听证会，以检查UAPs工作组的情况，这是美国国会50多年来第一次就UFO举行公开听证会。在听证会上，美国海军情报局副局长Scott Bray声称，UAPs工作组已经收集了400份UAPs目击报告。他还展示了两段关于UAPs的视频，其中一段只有几秒钟，显示一个小型球形物体在镜头前快速移动。Bray用它作为例子，说明飞行员在目击UAP时有时能得到的细节是多么的少。</p><p style="text-align: left;">然而，Bray也认为，外星人并不是答案。Bray说：“当涉及到我们拥有的材料时，我们没有任何材料--我们在UAPs特别小组内没有检测到任何可以表明它是非地球起源的发射物。”</p><p style="text-align: left;">去年在一次新闻发布会上，纳尔逊提到他曾与Zurbuchen谈过NASA可能从科学角度研究UAPs的问题。周三，Zurbuchen在新闻发布会上证实，形成这项研究的动力来自于五角大楼的UAPs工作在过去几年中受到的所有关注。NASA估计这项研究的预算将在几万美元到10万美元之间。</p><p style="text-align: left;">NASA表示，其研究与UAPs工作组或其继任者--机载物体识别和管理同步小组（AOIMSG）没有关系。然而，在周三宣布这项研究时，Zurbuchen还指出，UAPs对国家安全和反间谍构成了威胁，这两个领域并不完全属于NASA的职权范围。“那不是我们的工作，”Zurbuchen说。“我们也不打算在NASA研究这个。那是其他人负责的事情。但是，作为一个国家，作为一个政府，很明显，这里有多种重要的东西，而其中有少数的东西似乎展示了先进的技术。”</p><p style="text-align: left;">研究团队可能会在某些时候获得机密信息，尽管重点将放在公开的数据上。“我没有分类许可，我们希望这是一项公开的研究，”Spergel在新闻发布会上说。“所以我们将依靠的是，委员会的一些成员将拥有我们可以获得的许可和见解，这可能会有所帮助，但主要是我认为我们将真正尝试看看我们可以从公开数据中了解到什么。”</p><p style="text-align: left;">NASA表示，这项研究将需要大约9个月的时间来完成。最终，Zurbuchen认为，NASA通过观察夜空中的潜在危险小行星或从太空中观察地球所收集的数据，可以有助于更好地了解UAPs。他说：“我们能否利用现有的数据集，并使用方法来寻找那些短暂的事件--与其他一些目击事件相一致，有时是重叠的？”</p><p style="text-align: left;">尽管NASA强调没有证据表明UAPs具有外星性质，但Zurbuchen并没有对这种可能性关闭大门。“如果有人问我，我是否真的认为在这些现象中存在无可辩驳的智慧生命的证据，我会给出一个作为科学家绝对可以接受的答案，”Zurbuchen说，“那就是，‘我不知道’。”</p>   
+</div>
+            
