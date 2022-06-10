@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://erbingeditor.diershoubing.com/2/2022/06/10/0118264794.jpg'
+headimg: 'https://erbingeditor.diershoubing.com/19/2022/06/10/0927402.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-06-10 00:46:29
-thumbnail: 'https://erbingeditor.diershoubing.com/2/2022/06/10/0118264794.jpg'
+date: 2022-06-10 02:52:57
+thumbnail: 'https://erbingeditor.diershoubing.com/19/2022/06/10/0927402.jpg'
 ---
 
 <div>   
@@ -17,6 +17,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/2/2022/06/10/0118264794.jpg'
 
 【《最后生还者》9月2日登PS5，稍后上PC】PlayStation Direct线上商店“意外”泄露了《最后生还者》高清重制版的版本信息及内容，本作正式定名为《最后生还者 第一部（The Last of Us Part 1）》，包含本体及遗落DLC。目前该页面已经下线，估计官方会“很快”正式官宣。
 
-本作将于9月2日登录PS5，PC版正在开发之中。普通版售价69.99美元，带有铁盒且拥有特殊封面的火萤版售价99.99美元。<br><img src="https://erbingeditor.diershoubing.com/2/2022/06/10/0118264794.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/2/2022/06/10/0118264767.jpg" referrerpolicy="no-referrer">  
+本作将于9月2日登录PS5，PC版正在开发之中。普通版售价69.99美元，带有铁盒且拥有特殊封面的火萤版售价99.99美元。<br><img src="https://erbingeditor.diershoubing.com/19/2022/06/10/0927402.jpg" referrerpolicy="no-referrer">  
 </div>
             
