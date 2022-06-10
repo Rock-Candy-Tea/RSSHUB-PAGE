@@ -1,0 +1,19 @@
+
+---
+title: '豪威集团发布超高耐压天线调谐器和Sub-6G射频开关'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855306481056867.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 10 Jun 2022 09:59:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855306481056867.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">随着5G技术逐渐走向成熟，5G智能手机全面普及。专门负责手机等终端设备收发无线电磁波的射频系统在迈向5G新时代中面临全新挑战。</p><p style="text-indent: 2em; text-align: left;">射频系统分为射频前端（RFFE，Radio Frequency Front－End）、天线、射频收发器三部分。其中RFFE包括功率放大器（PA）、低噪声放大器（LNA）、滤波器（Filter）、天线开关（Switch）、天线调谐器（Tuner）等。</p><p style="text-indent: 2em; text-align: left;">5G大面积部署，一方面终端设备需要支持越来越多的通信频段，MIMO技术的应用使天线数量剧增，因而需要更多的射频器件完成系统搭建；另一方面，更高带宽，将引入更多噪声，对射频系统的要求更加严格。如果设计不合理或元件性能不佳，将直接影响手机的无线信号收发能力，具体表现为无线信号差，通信距离短，网络速率慢等各种问题。</p><p style="text-indent: 2em; text-align: left;">如何在更高带宽、更多频段、更小空间设计中，进一步提升性能是工程师们必须直面的关键。近日，豪威集团发布国内最高耐压（＞80Vp）4路单刀单掷开关WS77881L－10／TR和低插损、高线性度双刀四掷开关WS7824LMB－16／TR，为5G天线调谐、5G SRS等应用提供先进射频解决方案，为全面迈进5G时代赋能。</p><p style="text-indent: 2em; text-align: left;">WS77881L－10／TR 超高射频耐压 专为高性能天线调谐应用设计</p><p style="text-indent: 2em; text-align: left;">增加设计灵活性。5G手机RF tuner需要具备宽带天线应用中高射频电压的处理能力。WS77881L－10／TR具有超高的射频电压处理能力（＞80Vp），在国内处于领先行列，较高的射频耐压能力使得该产品灵活应对多种输出环境。当前全面屏盛行，天线空间受挤压，WS77881L－10／TR采用1．5mmx1．1mm小封装，可以解决板级空间不足的痛点，使得芯片摆放位置更加灵活。单电源供电（仅VIO）增加了走线的灵活性，与主流的产品Pin－to－Pin，可直接替换，降低BOM成本。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855306481056867.png" title="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" alt="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">高性能。WS77881L－10／TR允许创建高级调谐拓扑结构，优化了射频前端与天线之间的传输效率，同时降低了天线与射频前端之间的失配损耗，在空间有限的应用中可以最大限度地提高TRP和TIS性能，从而降低调试难度，减少调试时间。其低导通<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%94%B5%E9%98%BB.HTM" target="_blank" title="电阻">电阻</a></span>（2．1?）、低关断电容（110fF）和超高射频电压处理能力的特性使得射频路径的性能都得到提升。</p><p style="text-indent: 2em; text-align: left;">宽频段适用。5G终端的射频系统需要支持多个通信频段，该芯片应用频率范围广，覆盖617MHz～7125MHz，适用于天线调谐、阻抗调谐、频段转换等多个应用场景。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855324064033783.png" title="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" alt="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">WS77881L－10／TR参数</p><p style="text-indent: 2em; text-align: left;">WS7824LMB－16／TR通用5G Sub－6G SRS开关 针对传输路径应用优化</p><p style="text-indent: 2em; text-align: left;">5G应用频段和天线数量的增多以及SRS天线轮询的需求，对射频开关提出了更高功率、更高频率、更快切换的要求。</p><p style="text-indent: 2em; text-align: left;">WS7824LMB－16／TR针对传输路径应用进行了性能优化。芯片内部集成了一个与RFFE标准兼容的串行控制系统，USID选择线（SID）使得在同一RFFE总线上最多可以放置两个WS7824LMB－16／TR。单电源供电（仅VIO）减少了电源线的铺设，增加走线的灵活性。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855337414025573.png" title="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" alt="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">该产品支持多频段运行（617－5000MHz），适用于多模GSM、CDMA、WCDMA、LTE和NR，包括n77、n78和n79频段，与市场上同类产品兼容，可为客户提供灵活选择。优异性能（低插入损耗、高隔离度、高线性度）与高设计灵活性有助于OEM厂商更好应对射频前端的复杂性。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/10/baichuan/1654855350604091127.png" title="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" alt="豪威集团发布超高耐压天线调谐器和Sub-6G射频开关" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">WS7824LMB－16／TR参数</p><p style="text-indent: 2em; text-align: left;">5G大规模普及，对国内射频厂商既是挑战，也是弯道超车的机遇。豪威集团多年来深耕低噪放（LNA）、射频开关（RF Switch）、天线调谐器（Tuner）等射频前端领域，将持续创新，不断优化射频解决方案。</p> 
+  
+</div>
+            

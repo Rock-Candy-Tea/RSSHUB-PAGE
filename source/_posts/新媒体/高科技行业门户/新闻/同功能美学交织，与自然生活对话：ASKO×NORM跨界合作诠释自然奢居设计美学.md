@@ -1,0 +1,19 @@
+
+---
+title: '同功能美学交织，与自然生活对话：ASKO×NORM跨界合作诠释自然奢居设计美学'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172325_165485300589967713.jpeg'
+author: 高科技行业门户
+comments: false
+date: Fri, 10 Jun 2022 09:21:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172325_165485300589967713.jpeg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">设计是一种语言，更是一种美学，它成为了产品与人之间的联结。而家具更需要借由设计诉说故事，上演爱与美的设计遐思。暌违多时，2022国际米兰家具展以”颂扬美与可持续发展”为主题，对家具品牌们发出关乎生活与自然的提问。对ASKO而言，与自然的对话早已在百年沉淀中锤炼成熟。在本次米兰家具展中，ASKO选择与NORM建筑合作，共同秉承极简至奢的理念，以精益求精、以人为本的设计灵感，注重形式与功能的统一，共创理性与柔性美学的和鸣：以美学与功能相融的设计思路，诉说着对自然的独到理解。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172325_165485300589967713.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">2022米兰家具展台上，ASKO与NORM的合作展现出独特的斯堪的纳维亚设计风格</p><p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 2em;">ASKO以自然之力，发敬畏之情：一次对“可持续”的完美回答</strong></p><p style="text-indent: 2em; text-align: left;">自然是斯堪的纳维亚的非凡灵感。漫长而黑暗的冬季使得斯堪的纳维亚气候恶劣、资源稀缺。正因如此，自然造就了如今的斯堪的纳维亚人，让他们意识到自己所拥有之物来之不易。作为拥有百年历史的北欧奢华家电品牌，ASKO始终珍视自然，用可持续的方式诠释对自然的敬畏之情。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172326_1654853006011990891.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">ASKO米兰家具展以自然为灵感，构建极简奢居</p><p style="text-indent: 2em; text-align: left;">此次展出的ASKO产品采用了全新配色珍珠灰色，以斯堪的纳维亚的自然为灵感起源：以火山岩与珍珠灰代表的雄伟峡湾，带来以人为本的北欧设计无限灵感。珍珠灰色以柔和的灰色彩绘玻璃配以微妙的金属点缀，为高端厨房都增添了温暖低调的优雅和设计独创性。作为绝佳的的家庭配色，珍珠灰与木材，花岗岩，大理石或陶瓷等家居质感都能完美适配，轻松融入当代厨房设计。</p><p style="text-indent: 2em; text-align: left;">ASKO对自然的理解也反映在了展出的最新产品中。作为荣获2022年 iF 设计大奖殊荣的全新产品，ASKO全新一代洗碗机采用医用级不锈钢，减少了塑料的使用，可持续更环保。除节约时间外，ASKO 全新一代洗碗机延续了以人为本的环保理念，产品能有效节约水与能源，以尽量减少对环境的影响。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172326_165485300652089983.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">ASKO 全新一代洗碗机，以环保可持续的设计获得2022iF设计大奖</p><p style="text-indent: 2em; text-align: left;">在展厅上，ASKO 研发的Celsius°Cooking&trade;系统也保证了更健康的烹饪过程。ASKO Celsius°Cooking&trade;系统避免了由于烹饪不足和过度烹饪带来的影响食物的营养价值和健康风险的风险，为用户带来更加便捷与健康的烹饪方式。除此之外，所有配件都通过蓝牙相互连接和通信，这项独特的技术由智能炊具的创造者 Hestan Cue 开发，并以高科技智能技术获得了2021年 iF设计大奖。</p><p style="text-indent: 2em; text-align: left;"><strong>ASKO内外兼备，知行合一：一场美学与功能的完美融合</strong></p><p style="text-indent: 2em; text-align: left;">生活美学与功能的融合是斯堪的纳维亚 DNA 的一部分。ASKO是拥有百年历史的全球顶级奢品家电，源自北欧，秉承斯堪的纳维亚设计理念，从北欧多个国家的自然风光和艺术氛围之中汲取灵感，兼顾设计美学与功能主义。本次米兰家具展中，ASKO将科技与艺术的交织融合，以高端科技为极简美学的展现保驾护航，让优雅沁入产品的每一个角落。</p><p style="text-indent: 2em; text-align: left;">此次展出的还有同获2022年 iF DESIGN AWARD设计大奖的ASKO 集成式电磁灶，通过全新研发的升降塔台设计完成一次电磁灶的极简革新。根据下沉气流工作原理，其独一无二的升降塔台设计使电磁灶的吸烟口更接近锅具，可以在非常安静的情况下更高效地吸走烹饪烟气，减少油烟扩散，协助用户烹饪既美味又健康的菜肴，为开放式厨房空间提供人性化解决方案。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/10/surong/20220610172326_1654853006006137806.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">ASKO创新升降塔台设计，更新电磁灶抽吸维度</p><p style="text-indent: 2em; text-align: left;">ASKO本次米兰展中的产品展现了顶级厨房空间的设计角度，也是行业领域内前沿技术的一次完整展示——以温暖的极简主义，以斯堪的纳维亚设计美学呈现出了人性化的高端厨电产品，表达了对自然的珍视之情。通过与NORM的合作，将理想之居以更具象的形式呈现在大众面前，诉说着ASKO的故事，让人们在自然的启发下，看见属于美学与功能的奢居艺术。</p><p style="text-indent: 2em; text-align: left;"><strong>关于ASKO：</strong></p><p style="text-indent: 2em; text-align: left;">ASKO 成立于1918年 ，全球顶级奢华家电品牌 ，源自瑞典。拥有百年历史的ASKO秉承北欧斯堪的纳维亚设计，注重设计美学与实用主义，兼顾人文情调。 ASKO是截至2022年全球获得北欧节能标签The Nordic Ecolabel“天鹅标”的唯一家电品牌。ASKO涉及厨电、制冷、洗护系列产品，为塔尖消费者带来更高品质的生活方式。</p> 
+  
+</div>
+            
