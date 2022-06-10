@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/invision-product-updates-may-2022/'
 author: Inside Design
 comments: false
-date: 2022-06-10 03:41:54
+date: 2022-06-10 04:17:13
 thumbnail: 'https://www.invisionapp.com/inside-design/invision-product-updates-may-2022/'
 ---
 

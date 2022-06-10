@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/bca838a3afddcb8a9abb705d0f1gp0d5.JPG?v=1654813868582'
 author: 巴哈姆特
 comments: false
-date: 2022-06-10 03:41:53
+date: 2022-06-10 04:17:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/bca838a3afddcb8a9abb705d0f1gp0d5.JPG?v=1654813868582'
 ---
 
@@ -72,8 +72,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/bca838a3afddcb8a9abb705d0f1gp0d5.
 <li>
 發售日期：2022 年 8 月 23 日</li>
 <li>
-建議售價：家用主機數位 一般版 新台幣 1790 元 / 黃金版 新台幣 2690 元 / 白金版 新台幣 2990 元<br>
-　　　　　家用主機實體 一般版 新台幣 1790 元 / 惡名昭彰版 新台幣 2690 元<br>
+建議售價：家用主機數位 一般版 新台幣 1890 元 / 黃金版 新台幣 2690 元 / 白金版 新台幣 2990 元<br>
+　　　　　家用主機實體 一般版 新台幣 1890 元 / 惡名昭彰版 新台幣 2690 元<br>
 　　　　　PC 數位 一般版 新台幣 1290 元 / 黃金版 新台幣 1590 元 / 白金版 新台幣 1690 元</li>
 <li>
 支援語言：繁體中文、簡體中文、英文、葡萄牙文（巴西）、捷克文、法文、德文、義大利文、<br>
@@ -87,7 +87,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/bca838a3afddcb8a9abb705d0f1gp0d5.
 <li>
 發行廠商：Deep Silver</li>
 <li>
-代理經銷：傑仕登</li>
+代理經銷：EGI 躍進科技</li>
 <li>
 官方網站：<a href="https://saintsrow.com/" target="_blank">https://saintsrow.com/</a></li>
 </ul>
