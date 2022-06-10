@@ -5,14 +5,14 @@ categories:
  - 二次元
  - Bangumi
  - 放送列表
-headimg: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_6hH6I.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_GPzp4.jpg'
 author: Bangumi
 comments: false
 date: Fri, 10 Jun 2022 16:52:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_6hH6I.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_GPzp4.jpg'
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_6hH6I.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/365297">番组计划</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/72/40/365297_GPzp4.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/365297">番组计划</a></li></ul>  
 </div>
             

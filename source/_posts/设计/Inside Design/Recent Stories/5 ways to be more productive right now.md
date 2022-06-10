@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/5-ways-to-increase-productivity/'
 author: Inside Design
 comments: false
-date: 2022-06-10 04:17:13
+date: 2022-06-10 05:07:53
 thumbnail: 'https://www.invisionapp.com/inside-design/5-ways-to-increase-productivity/'
 ---
 
