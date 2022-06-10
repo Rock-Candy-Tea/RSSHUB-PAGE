@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/27/7bfb6d7bcc6cecac04b6f4e90f1gp0f5.JPG?v=1654813852554'
 author: 巴哈姆特
 comments: false
-date: 2022-06-10 06:11:13
+date: 2022-06-10 07:09:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/7bfb6d7bcc6cecac04b6f4e90f1gp0f5.JPG?v=1654813852554'
 ---
 
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/7bfb6d7bcc6cecac04b6f4e90f1gp0f5.
 <div>
  </div>
 <div>
-　　在今日公布的宣傳影片中，除了確認遊戲將於下週四 6 月 16 日推出之外，同時揭露遊戲中將加入第六名玩家可操縱角色「凱西‧瓊斯（Casey Jones）」。他是名全身裝備著各式各樣運動用品的自命正義使者，雖然很少在 1987 年的改編動畫中登場，不過是忍者龜最令人難忘的盟友，廣受《忍者龜》粉絲的喜愛。</div>
+　　在今日公布的宣傳影片中，除了確認遊戲將於下週四 6 月 16 日推出之外，同時揭露遊戲中將加入第七名玩家可操縱角色「凱西‧瓊斯（Casey Jones）」。他是名全身裝備著各式各樣運動用品的自命正義使者，雖然很少在 1987 年的改編動畫中登場，不過是忍者龜最令人難忘的盟友，廣受《忍者龜》粉絲的喜愛。</div>
 </div>
 <div>
  </div>

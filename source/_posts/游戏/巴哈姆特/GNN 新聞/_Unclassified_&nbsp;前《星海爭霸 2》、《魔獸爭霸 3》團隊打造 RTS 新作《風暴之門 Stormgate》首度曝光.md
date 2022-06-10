@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/61/7fb71a9f57c10a48bb6318cf161govt5.JPG?v=1654802563053'
 author: 巴哈姆特
 comments: false
-date: 2022-06-10 06:11:13
+date: 2022-06-10 07:09:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/7fb71a9f57c10a48bb6318cf161govt5.JPG?v=1654802563053'
 ---
 
@@ -48,7 +48,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/61/7fb71a9f57c10a48bb6318cf161govt5.
 <div>
  </div>
 <div>
-　　隨著可扮演的煉獄之主回歸並重啟浩劫之時，地球捍衛者必須鼓起勇氣，爬進他們二十英高度的機甲，勉力拯救世界。玩家需要選邊站，收集資源、建立基地、指揮強大的軍隊，以取得成果。</div>
+　　隨著可扮演的煉獄之主回歸並重啟浩劫之時，地球捍衛者必須鼓起勇氣，爬進他們機甲，奮力拯救世界。玩家需要選邊站，收集資源、建立基地、指揮強大的軍隊，以取得成果。</div>
 <div>
  </div>
 <div>
