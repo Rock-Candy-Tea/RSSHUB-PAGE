@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/detria-williamson-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-06-11 08:10:38
+date: 2022-06-11 09:08:28
 thumbnail: 'https://www.invisionapp.com/inside-design/detria-williamson-design-better-podcast/'
 ---
 
