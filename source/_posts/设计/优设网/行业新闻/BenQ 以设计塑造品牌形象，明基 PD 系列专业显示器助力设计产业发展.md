@@ -28,10 +28,10 @@ thumbnail: 'https://image.uisdc.com/wp-content/uploads/2022/05/benq-pd-20220527-
 <p><span style="color: #999999"><em>明基PD系列M-Book模式家族照</em></span></p>
 <h4>扶持新兴力量，助力设计行业发展</h4>
 <p>自PD系列推出以来，从PD2500Q到PD2705U再到PD3220U，明基专业设计显示器不断与时俱进，为设计行业用户研发出一件件专业的生产力工具。不仅如此，明基更拾级而上，致力于扶持新兴设计力量，助力设计行业更上一层楼。</p>
-<p>一方面，明基BenQ推出了“设计力，改变一切”设计师专访栏目，定期邀请设计行业拓荒级别的大佬分享自己的从业经历，给予业内人士一定的指引，著名<a href="https://www.uisdc.com/tag/%e5%8c%85%e8%a3%85%e8%ae%be%e8%ae%a1" class="tag_a" target="_blank">包装设计</a>师潘虎、顶级动态设计师烧麦SOMEI、《雾山五行》导演林魂、《悬崖之上》影视概念设计师俊霊、《长安十二时辰》角色设计师鬼猿和如视设计创始人沙锋等大咖赫然在列。</p>
+<p>一方面，明基BenQ推出了“设计力，改变一切”设计师专访栏目，定期邀请设计行业拓荒级别的大佬分享自己的从业经历，给予业内人士一定的指引，著名包装设计师潘虎、顶级动态设计师烧麦SOMEI、《雾山五行》导演林魂、《悬崖之上》影视概念设计师俊霊、《长安十二时辰》角色设计师鬼猿和如视设计创始人沙锋等大咖赫然在列。</p>
 <p><span class="img-zoom"><img alt="BenQ 以设计塑造品牌形象，明基 PD 系列专业显示器助力设计产业发展" loading="lazy" class="alignnone size-full wp-image-461095" src="https://image.uisdc.com/wp-content/uploads/2022/05/benq-pd-20220527-4.jpg" width="800" height="1429" referrerpolicy="no-referrer"></span></p>
 <p><span style="color: #999999"><em>潘虎老师专访海报</em></span></p>
-<p>另一方面，明基更是举办了各种设计大赛，积极为广大设计爱好者与从业者搭建开放的创意交流平台。从2020年的“视界很大，一起来造”CINEMA 4D设计竞赛、“让灵感成真”全国高校创意征集大赛到2021年的“风潮由我”明基设计大赛，明基为中国设计新生力量提供了一个又一个展示自我的舞台。</p>
+<p>另一方面，明基更是举办了各种设计大赛，积极为广大设计爱好者与从业者搭建开放的创意交流平台。从2020年的“视界很大，一起来造”CINEMA 4D设计竞赛、“让灵感成真”全国高校创意征集大赛到2021年的“风潮由我”明基<a href="https://www.uisdc.com/tag/%e8%ae%be%e8%ae%a1%e5%a4%a7%e8%b5%9b" class="tag_a" target="_blank">设计大赛</a>，明基为中国设计新生力量提供了一个又一个展示自我的舞台。</p>
 <p><span class="img-zoom"><img alt="BenQ 以设计塑造品牌形象，明基 PD 系列专业显示器助力设计产业发展" loading="lazy" class="alignnone size-full wp-image-461096" src="https://image.uisdc.com/wp-content/uploads/2022/05/benq-pd-20220527-5.jpg" width="800" height="342" referrerpolicy="no-referrer"></span></p>
 <p><span style="color: #999999"><em>2021年明基设计大赛</em></span></p>
 <h4>“风潮由我”大赛，展现中国设计力</h4>

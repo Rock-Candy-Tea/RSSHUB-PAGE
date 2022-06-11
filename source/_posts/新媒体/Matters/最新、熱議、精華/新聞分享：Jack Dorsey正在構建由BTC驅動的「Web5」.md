@@ -1,0 +1,18 @@
+
+---
+title: '新聞分享：Jack Dorsey正在構建由BTC驅動的「Web5」'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/0fe5bbae-eb16-4dd4-aca3-a5abb239be1d.png'
+author: Matters
+comments: false
+date: Sat, 11 Jun 2022 06:56:23 GMT
+thumbnail: 'https://assets.matters.news/embed/0fe5bbae-eb16-4dd4-aca3-a5abb239be1d.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/0fe5bbae-eb16-4dd4-aca3-a5abb239be1d.png" data-asset-id="0fe5bbae-eb16-4dd4-aca3-a5abb239be1d" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Cointelegraph</span></figcaption></figure><p>新聞來源媒體：<a href="https://cointelegraph.com/" rel="noopener noreferrer" target="_blank">Cointelegraph</a></p><p>原文連結：<a href="https://cointelegraph.com/news/jack-dorsey-is-building-web5-powered-by-bitcoin" rel="noopener noreferrer" target="_blank">點我看文章</a></p><h2><strong>【重點摘要】</strong></h2><p>Block子公司TBD已宣布計劃建立一個以BTC為中心的新去中心化網絡，這突顯了創始人Jack Dorsey的信念，即最大的區塊鏈網絡將在網際網路的發展中發揮重要作用。 <br class="smart">這個名為「Web5」的新項目代表了Dorsey自2021年11月卸任Twitter 首席執行官以來以比特幣為中心的最新努力。<br class="smart">Web3 結合了區塊鏈技術和代幣化來分散網際網路，而Web5被設想為一個基於身份的系統，它只使用一個區塊鏈：BTC。Twitter用戶Namcios在一個推文討論串中詳細描述了Web5的概念，這些推文描述了幾個軟體組件協同工作以增強用戶體驗並實現去中心化身份管理。</p><figure class="image"><img src="https://assets.matters.news/embed/7c7f4f2e-2e8d-427a-9981-f2f8105413b4.jpeg" data-asset-id="7c7f4f2e-2e8d-427a-9981-f2f8105413b4" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Block</span></figcaption></figure><p>根據Namcios的說法，Web5利用了ION，他們將其描述為「在BTC區塊鏈上運行的開放、公共和無需許可的 DID 網絡。」<br class="smart">Web3基金會將Decentralized Identifiers(DID)描述為能夠實現「可驗證、去中心化的數位身份」的去中心化標誌。<br class="smart">根據TBD的文件，Web5本質上是一個去中心化的 Web平台或Decentralized Web Node(DWP)，它允許開發人員通過DID和去中心化節點創建去中心化的Web應用程式。Web還將擁有一個以BTC為中心的貨幣網絡，這反映了 Dorsey的信念，即數位資產有朝一日將成為網際網路的原生貨幣。</p><figure class="image"><img src="https://assets.matters.news/embed/715ed3ee-b9d4-4d4f-a15a-ad1aab4bf20c.png" data-asset-id="715ed3ee-b9d4-4d4f-a15a-ad1aab4bf20c" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Namcios Twitter</span></figcaption></figure><p>Dorsey追求新的Web開發模式的動機可能源於他認為Web3永遠不會實現真正的去中心化。Block CEO 公開批評了Web3和支持其發展的風險投資社區。2021年12月，Dorsey在推特上表示：「個人不擁有Web3，而風險投資及其有限合夥人擁有。它永遠不會逃脫他們的魔爪，Web3最終是一個帶有不同標籤的中心化實體。」</p><figure class="image"><img src="https://assets.matters.news/embed/a49848b4-bcf0-454b-8198-c4c09cedf2d6.png" data-asset-id="a49848b4-bcf0-454b-8198-c4c09cedf2d6" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Jack Dorsey Twitter</span></figcaption></figure><h2><strong>【想法】</strong></h2><p>昨天本來還在想說為什麼Twitter很多人在問Web4呢？看完這一篇新聞後，終於恍然大悟，也對Jack Dorsey充滿了佩服，不愧是BTC的信仰者，一直都努力在替BTC社群努力。<br class="smart">雖然這個概念很好，期望可以透過去中心化的網路平台和分散式節點，並採用BTC的區塊鏈網路，去做到完全去中心化的身份驗證機制；但是目前看起來BTC可以做到的部分，ETH的機制也可以做到，加上之前有提過的NFT3，其實也是要做到去中心化的身份驗證機制，表示這一套機制並非一套要透過BTC網路才能完成；所以，到底Web5的概念，到底是真的可以改變網路身份驗證的新機制，還是一個宣傳的噱頭而已呢？就持續觀望後續發展吧。</p><h3><strong>【延伸閱讀】</strong></h3><p><a href="https://twitter.com/namcios/status/1535302090360250368?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1535302090360250368%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fjack-dorsey-is-building-web5-powered-by-bitcoin" rel="noopener noreferrer" target="_blank">Namcios Twitter討論串</a></p><p><a href="https://cointelegraph.com/news/jack-dorsey-s-block-hits-1-3b-in-q1-profits-43m-in-btc-trading-revenue" rel="noopener noreferrer" target="_blank">Jack Dorsey’s Block hits $1.3B in Q1 profits, $43M in BTC trading revenue</a></p><p><a href="https://cointelegraph.com/news/jack-dorsey-still-thinks-bitcoin-is-the-strongest-contender-for-an-internet-native-currency" rel="noopener noreferrer" target="_blank">Jack Dorsey still thinks Bitcoin is the strongest contender for an internet-native currency</a></p><p><br></p>  
+</div>
+            
