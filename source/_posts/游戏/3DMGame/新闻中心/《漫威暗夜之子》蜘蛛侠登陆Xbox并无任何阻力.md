@@ -21,7 +21,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220611/1654919909_7626
 Solomon表示，尽管像《<a target="_blank" href="https://www.3dmgame.com/tag/manwei_1/">漫威</a>复仇者联盟》这样的第三方作品也只能让蜘蛛侠登陆PlayStation主机，但在《漫威暗夜之子》的Xbox版本中不需要考虑这个问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220611/1654919909_762612.jpg" alt="《漫威暗夜之子》蜘蛛侠登陆Xbox并无任何阻力" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220611/1654919909_762612.jpg" alt="《漫威暗夜之子》蜘蛛侠登陆Xbox并无任何阻力" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Solomon表示：“他会登陆Xbox的，没有任何问题。我们有幸成为长时间以来第一款做到这件事的游戏。蜘蛛侠将成为这款游戏中的一员，我们也从没有收到来自漫威的任何反对意见。”
