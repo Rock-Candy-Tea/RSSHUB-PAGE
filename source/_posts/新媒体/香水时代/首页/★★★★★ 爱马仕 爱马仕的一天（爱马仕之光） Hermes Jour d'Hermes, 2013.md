@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6771'
+headimg: 'https://picsum.photos/400/300?random=8180'
 author: 香水时代
 comments: false
 date: Tue, 22 Mar 2022 14:45:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6771'
+thumbnail: 'https://picsum.photos/400/300?random=8180'
 ---
 
 <div>   
@@ -21,6 +21,6 @@ thumbnail: 'https://picsum.photos/400/300?random=6771'
 睡前试的香，睡醒后发现这玩意在我皮上居然有 XJ鸢尾的影子？？？震惊了，大致就是室内温度20左右，睡着后体温降低，在这条件下，居然有鸢尾气息？？爱马仕商业线确实能打。JCE牛逼！
 又是一个4星改5星的香。
 ——
-给自己码一下，价格不高，可以送人的高大尚礼物。  
+给自己码一下，价格不高，可以香水小白的高大尚礼物。  
 </div>
             
