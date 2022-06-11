@@ -1,0 +1,18 @@
+
+---
+title: '如果我们能和狗交谈，你会告诉你的小狗哪三件事？-xiiii的回答：1.外面的东西真的不能吃你永远不知道你会吃到什么我的祖宗啊 你都因为这个拉了三次肚子了 你已经...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-78baeb6d5c9ff0f2e1d93c5ac56ead92_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 11 Jun 2022 00:36:09 GMT
+thumbnail: 'https://pica.zhimg.com/v2-78baeb6d5c9ff0f2e1d93c5ac56ead92_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>如果我们能和狗交谈，你会告诉你的小狗哪三件事？</strong><br>xiiii的回答<br><p data-pid="vzmVHQGs">1.外面的东西真的不能吃你永远不知道你会吃到什么我的祖宗啊 你都因为这个拉了三次肚子了 你已经是一个成熟的拉布拉多了 马上一周岁了 能不能稳重一点</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-78baeb6d5c9ff0f2e1d93c5ac56ead92_1440w.jpg?source=1940ef5c" data-rawwidth="1278" data-rawheight="1706" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-a3feb7f86f02c6e16b047fb280c13ccc_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-78baeb6d5c9ff0f2e1d93c5ac56ead92_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>这是刚来我们家的时候</figcaption></figure><p data-pid="j4uqjCFu">2.我非常明白你也爱我 but你能不能别一见我就给我一脚（就是他见到我会扑我舔我的脸哈哈哈哈哈哈哈哈哈）</p><p data-pid="EwcV_eAT">3.茂哥 我会照顾好你的 你别担心自己的命运</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-b0e36051e82b0740ffe802a8eb47db48_1440w.jpg?source=1940ef5c" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-82af8cc1b8abb0fd6709b163ff35bb70_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-b0e36051e82b0740ffe802a8eb47db48_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-db767b3cd505c81f279c00bbff26e59a_1440w.jpg?source=1940ef5c" data-rawwidth="1009" data-rawheight="1793" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-e588df95aede0c4f6072a5fdfed59401_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-db767b3cd505c81f279c00bbff26e59a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4eb06a992f33d3c0a2e422ce5831b0fe_1440w.jpg?source=1940ef5c" data-rawwidth="810" data-rawheight="1440" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-272c5692b1b9fdd67cd2da1e8d94d306_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4eb06a992f33d3c0a2e422ce5831b0fe_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f8857133ec9e70e45df38e2c40ef7d31_1440w.jpg?source=1940ef5c" data-rawwidth="821" data-rawheight="1461" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-b799120cf81c0e6b6a1a9c32e94b7314_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f8857133ec9e70e45df38e2c40ef7d31_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-df67687566d821d3a43196714dba0178_1440w.jpg?source=1940ef5c" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2baf34dd089ff840be2ed36ac0f733cb_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-df67687566d821d3a43196714dba0178_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
