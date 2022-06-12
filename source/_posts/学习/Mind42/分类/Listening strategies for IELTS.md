@@ -1,0 +1,19 @@
+
+---
+title: 'Listening strategies for IELTS'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c9956f9d-b780-4389-9947-29df1c5c6036&size=gallery'
+author: Mind42
+comments: false
+date: 2022-06-12 03:00:05
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c9956f9d-b780-4389-9947-29df1c5c6036&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c9956f9d-b780-4389-9947-29df1c5c6036&size=gallery" referrerpolicy="no-referrer"><p>
+                    Listening IELTS                </p>  
+</div>
+            
