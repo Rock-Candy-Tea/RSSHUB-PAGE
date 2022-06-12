@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 即刻
  - 圈子
-headimg: 'https://picsum.photos/400/300?random=4516'
+headimg: 'https://picsum.photos/400/300?random=10000'
 author: 即刻
 comments: false
 date: Fri, 10 Jun 2022 01:58:52 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4516'
+thumbnail: 'https://picsum.photos/400/300?random=10000'
 ---
 
 <div>   

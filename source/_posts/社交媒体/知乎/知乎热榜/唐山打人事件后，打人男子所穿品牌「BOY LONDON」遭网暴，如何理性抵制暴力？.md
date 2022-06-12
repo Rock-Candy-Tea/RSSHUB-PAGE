@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7975'
+headimg: 'https://picsum.photos/400/300?random=3426'
 author: 知乎
 comments: false
-date: Sun, 12 Jun 2022 10:02:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7975'
+date: Sun, 12 Jun 2022 11:17:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3426'
 ---
 
 <div>   
-1111的回答<br><br><p data-pid="UhDKBjNN">真逗，他们在吃烧烤，建议这些人都不要再吃烧烤了。</p><p data-pid="tFwmGrx9">他们打人的时候在喘气，建议这些人以后也不要喘气了。</p>  
+关工的回答<br><br><p data-pid="p1ZtPF55">1、这行为有点二，发起网暴的人有几个正常的？</p><p data-pid="d98u4MgN">2、有一说一，这牌子真是又low又丑…… 白送都不要，跟有没有烧烤摊这事没关系。</p>  
 </div>
             
