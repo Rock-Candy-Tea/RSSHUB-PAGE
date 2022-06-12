@@ -8,7 +8,7 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FsHArLovCvPxFW-AG2uRTHy0Wpnv'
 author: 探物
 comments: false
-date: 2022-06-12 11:08:12
+date: 2022-06-12 12:14:44
 thumbnail: 'https://resource.tanwuapp.com/FsHArLovCvPxFW-AG2uRTHy0Wpnv'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://resource.tanwuapp.com/FsHArLovCvPxFW-AG2uRTHy0Wpnv'
 <img src="https://resource.tanwuapp.com/FsHArLovCvPxFW-AG2uRTHy0Wpnv" referrerpolicy="no-referrer"><br>
           <strong>索尼 PS4 Slim游戏主机配两张游戏光盘套餐</strong><br><br>
           价格: ￥5.90 / 日<br>
-          评分: 4.7
+          评分: 4.8
           
 </div>
             
