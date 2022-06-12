@@ -1,0 +1,19 @@
+
+---
+title: '半导体设备被美日垄断，Top10中没有中国企业'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112733653615.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 12 Jun 2022 01:41:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112733653615.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">我们知道，芯片是砂子制作的，但从砂子到芯片，是一条漫长的产业链，远比大家想象中的复杂。</p><p style="text-indent: 2em; text-align: left;">砂子先要提纯处理，然后变成晶圆。然后再要将晶圆进行扩散、薄膜沉积、光刻、刻蚀、离子注入、CMP抛光、金属化、测试等等，最终形成加工好的晶圆。</p><p style="text-indent: 2em; text-align: left;">再切割成Die裸芯片，再封装成芯片，中间牵涉到上百道工序，上百种<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>设备。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112733653615.jpg" alt="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" title="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而这上百种半导体设备，就是制约各大晶圆厂发展的关键之一。</p><p style="text-indent: 2em; text-align: left;">比如EUV<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%89%E5%88%BB%E6%9C%BA.HTM" target="_blank" title="光刻机">光刻机</a></span>，目前全球只有ASML能够生产，如果ASML不卖给晶圆厂，那么这家晶圆厂，在没有第二家生产EUV光刻机的厂商出来之前，就无法进入10nm以下，只能在10nm之上止步不前，比如中芯。</p><p style="text-indent: 2em; text-align: left;">类似的设备还有很多，一个晶圆厂的建设成本里面，半导体设备占到总成本的60％左右，比如一条100亿美元的12寸晶圆生产线，需要对外购买约60亿美元的半导体设备。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112734332063.jpg" alt="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" title="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但是，目前半导体设备厂商，基本上是被美国、日本垄断的，换句话来说，就是美国、日本其实是卡住了全球晶圆厂的脖子，只要美国、日本不卖设备给晶圆厂，晶圆厂很可能就建不下去。</p><p style="text-indent: 2em; text-align: left;">如上图所示，这是某机构统计的2021年，全球Top15的半导体设备厂商的排名情况。</p><p style="text-indent: 2em; text-align: left;">从图中可以看出来，Top10的企业中，美国占了4家，日本也占了4家，另外两家一家是荷兰的，一家是韩国的，中国一家都没有。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112734318508.jpg" alt="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" title="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而Top15的企业中，也仅一家中国企业上榜，还排在第14名。另外14家中，美国4家，日本7家，荷兰2家，韩国1家。可见，在半导体设备领域，中国是严重落后于世界顶尖水平。</p><p style="text-indent: 2em; text-align: left;">而从营收来看，Top5的5家企业总营收高达880亿美元左右，占全球2021年半导体设备营收的1026亿美元的85％。</p><p style="text-indent: 2em; text-align: left;">可见，不管是从数量，还是从营收占比来看，美国是最强的，然后是日本，他们垄断全球半导体设备。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202206/11112735233404.jpg" alt="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" title="形势很严峻：半导体设备被美日垄断，Top10中没有中国企业" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这对我们有什么影响？影响大了，我们一直在努力的发展<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A.HTM" target="_blank" title="芯片产业">芯片产业</a></span>，特别是芯片制造，想要自己能够制造先进的芯片，不被卡脖子。</p><p style="text-indent: 2em; text-align: left;">但芯片制造就需要半导体设备，现在这些设备被美国、日本垄断，你说形势严峻不严峻？如果美国、日本不卖设备给你，你能发展么？</p><p style="text-indent: 2em; text-align: left;">所以国产半导体设备厂商，真的要加油了，只有半导体设备发展了，跟上世界水平，<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87.HTM" target="_blank" title="国产芯片">国产芯片</a></span>制造产业才能发展，跟上世界水平。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 形势很严峻：半导体设备被美日垄断，Top10中没有中国企业</span></p> 
+  
+</div>
+            

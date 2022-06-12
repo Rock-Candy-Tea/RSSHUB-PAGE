@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=6755'
+headimg: 'https://picsum.photos/400/300?random=8541'
 author: 香水时代
 comments: false
 date: Wed, 06 Apr 2022 18:52:39 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6755'
+thumbnail: 'https://picsum.photos/400/300?random=8541'
 ---
 
 <div>   
-我有一个“糖果康康”-“French Cancan”，玫粉色的。
+我有一个“糖果康康”-“Candy Cancan”，玫粉色的。
 
 因为没有对应条目，就写到这里了。谁会加条目呀？帮帮我鸭。
 
