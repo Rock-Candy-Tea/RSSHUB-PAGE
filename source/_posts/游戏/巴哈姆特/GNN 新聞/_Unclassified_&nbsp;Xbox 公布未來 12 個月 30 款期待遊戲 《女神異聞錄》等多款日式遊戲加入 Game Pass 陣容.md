@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.JPG?v=1655110639754'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?v=1655121283941'
 author: 巴哈姆特
 comments: false
-date: 2022-06-13 11:07:34
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.JPG?v=1655110639754'
+date: 2022-06-13 12:17:13
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?v=1655121283941'
 ---
 
 <div>   
@@ -17,7 +17,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.
 <!-- 新聞內容 -->
 <div>
 <div>
-　　Xbox 在今日（6/13）凌晨舉行的 Xbox & Bethesda Games Showcase 遊戲發表會上，除了揭露玩家期待已久、將於首發當日同步登陸 Game Pass 的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%98%9F%E7%A9%BA" target="_blank">星空</a>（Starfield）》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A1%80%E8%89%B2%E9%99%8D%E8%87%A8" target="_blank">血色降臨</a>（Redfall）》等多款遊戲的實機遊玩畫面外，還公布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A5%B5%E9%99%90%E7%AB%B6%E9%80%9F" target="_blank">極限競速</a>（Forza）》 及《我的世界（Minecraft）》系列等本家遊戲全新作品。</div>
+　　Xbox 在今日（6/13）凌晨舉行的 Xbox & Bethesda Games Showcase 遊戲發表會上，除了揭露玩家期待已久、將於首發當日同步登陸 Game Pass 的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%98%9F%E7%A9%BA" target="_blank">星空</a>（Starfield）》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A1%80%E8%89%B2%E9%99%8D%E8%87%A8" target="_blank">血色降臨</a>（Redfall）》等多款遊戲的實機遊玩畫面外，還公布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A5%B5%E9%99%90%E7%AB%B6%E9%80%9F" target="_blank">極限競速</a>（Forza）》 及《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C" target="_blank">我的世界</a>（Minecraft）》系列等本家遊戲全新作品。</div>
 <div>
  </div>
 <div>
@@ -27,7 +27,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.JPG?v=1655110639754" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/92/73bed36ed626d9fcd9c27e540d1gq2c5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?v=1655121283941" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -49,7 +49,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG?v=1655110646816" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG?v=1655110646816" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/7a9b1a1e49770f0c9aafe135ca1gq2p5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -125,7 +125,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG?v=1655110986600" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG?v=1655110986600" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/b43a095de802d3265e8abaaeaa1gq2o5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -139,7 +139,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655110680883" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655109824&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655110680883" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655109824&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -153,7 +153,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG?v=1655111212479" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG?v=1655111212479" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/529d04449122ceeb6d80a091331gpsa5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -169,7 +169,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG?v=1655111023143" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG?v=1655111023143" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/704acf1be765b5810337464f1b1gq2m5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
