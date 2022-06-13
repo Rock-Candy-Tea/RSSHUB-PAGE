@@ -1,0 +1,18 @@
+
+---
+title: '挑选猫咪的时候，要注意什么？-ii米米的回答：注意猫咪的外形在挑选猫咪的时候，一定要注意好猫咪的外形， 有一些无良的商家会采取各种手段改变猫咪的外形，从而...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-722d6ba8b1847b53cd248a6035756ae9_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Mon, 13 Jun 2022 07:05:19 GMT
+thumbnail: 'https://pica.zhimg.com/v2-722d6ba8b1847b53cd248a6035756ae9_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>挑选猫咪的时候，要注意什么？</strong><br>ii米米的回答<br><h2><b>注意猫咪的外形</b></h2><p data-pid="kr5r2JgG">在挑选猫咪的时候，一定要注意好猫咪的外形，</p><p data-pid="7U90l2Hy">有一些无良的商家会采取各种手段改变猫咪的外形，从而卖出更高的价格，</p><p data-pid="vmCJkF_z">比如把折耳的猫咪用橡皮筋扎起来，装成立耳的样子，</p><p data-pid="860RgwIV">还有的会给猫咪染色等等，所以在挑选猫咪的时候一定要擦亮眼睛。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-722d6ba8b1847b53cd248a6035756ae9_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="640" data-rawheight="446" data-default-watermark-src="https://pic2.zhimg.com/50/v2-7e0b2d7341137cd16734342df935877b_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-722d6ba8b1847b53cd248a6035756ae9_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><h2>注意猫咪的年龄</h2><p data-pid="QWGyI3jA">一般来说，猫咪3个月龄以内最好还是让它留在猫妈妈身边比较好，</p><p data-pid="8pbFbcn7">因为幼猫的抵抗力弱，此时的疫苗也没有接种完成，</p><p data-pid="0lI9Xzvc">如果是新手铲屎官，把这种猫咪接回家后是很难养活的，</p><p data-pid="I37_Eqek">挑选猫咪时可以根据猫咪的牙齿来判断，未满三个月的猫咪乳牙都是没有长齐的。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/50/v2-95b24cc9d3a91d7083ebcdc9c1254b63_720w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="358" data-rawheight="342" data-default-watermark-src="https://pic1.zhimg.com/50/v2-31f573c13c3853f710ed616ffff2b3b1_720w.jpg?source=1940ef5c" class="content_image" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><h2>注意猫咪的毛发</h2><p data-pid="4HsUZWF3">猫咪的毛发可以体现猫咪的健康状况，这是挑选猫咪时需要重视的一点，</p><p data-pid="s7r2f6er">当你拨开猫咪的毛发观察时，如果毛发上出现黑色的颗粒物或是猫咪有成片的掉毛问题，</p><p data-pid="FBLY0iqn">这就说明这只猫咪感染寄生虫或是患有猫藓了，这种猫咪最好不要选。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-364cf38ef16c0f8931bfbc8f77ae60e8_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="586" data-rawheight="544" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d0f0bf29fa89c8a915fa54ad42adbd07_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-364cf38ef16c0f8931bfbc8f77ae60e8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><h2>注意猫咪的精神状态</h2><p data-pid="-S4dI9Av">挑选猫咪时还要观察一下猫咪的精神状态，健康的猫咪应该是神采奕奕的，</p><p data-pid="VZb3nL97">倘若有些猫咪经常趴在角落上，无精打采的，所以挑选猫咪的时候需要注意一下，</p><p data-pid="A-f1Po9U">这种猫咪多半是患病的，就算你给它喂猫咪零食也不为所动的，那么就不要选它了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a2aea757cb635d7ad90fb68ceefd94ec_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="640" data-rawheight="398" data-default-watermark-src="https://pic1.zhimg.com/50/v2-bac645d0337678203f76c0c3b2933526_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a2aea757cb635d7ad90fb68ceefd94ec_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="oRy0qopk">当你把心爱的猫咪接回家后，一定要多注意猫咪饮食方面的问题，幼猫时期的猫咪每天都需要补充足够的营养才能满足它的成长所需，所以给猫咪选择一款营养丰富的猫粮就很重要了！</p>  
+</div>
+            
