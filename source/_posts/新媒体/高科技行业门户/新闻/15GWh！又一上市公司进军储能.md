@@ -1,0 +1,19 @@
+
+---
+title: '15GWh！又一上市公司进军储能'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=7485'
+author: 高科技行业门户
+comments: false
+date: Mon, 13 Jun 2022 10:14:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7485'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">近日，湖南领湃达志科技股份有限公司（简称：达志科技）公告称，公司于近日与东方旭能（山东）科技发展有限公司（简称：山东旭能）签署《战略合作协议》，双方将开展在<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>、综合能源、智慧能源等相关产品方面的合作。</span></p><p style="text-indent: 2em; text-align: left;">资料显示，山东旭能是一家专注于综合能源管理、储能、锂离子<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>梯次利用等领域的技术研发、生产、销售和服务公司，其大股东为山东零碳智慧能源科技有限公司，所属集团为国家电投。</p><p style="text-indent: 2em; text-align: left;">具体来看，两家公司将从三个方面进行合作：</p><p style="text-indent: 2em; text-align: left;">1、利用各自优势加强在发电侧、 电网侧、用户侧储能领域的信息交流与合作，达志科技根据市场需求研发、制造储能电芯及系统产品，由山东旭能集成后进行销售；</p><p style="text-indent: 2em; text-align: left;">2、展开实际项目合作，未来五年开展总容量为15GWh的储能项目合作；</p><p style="text-indent: 2em; text-align: left;">3、共同构建储能产业生态链，参与产业上下游协调创新，探索新商业模式，优化布局新业务领域。</p><p style="text-indent: 2em; text-align: left;">同时双方约定，在电池价格及技术相近的情况下，山东旭能优先选择达志科技作为储能项目的电池系统供应商；在商务条件相近的情况下，达志科技优先选择山东旭能作为储能项目集成服务商。</p><p style="text-indent: 2em; text-align: left;">达志科技（300530）成立于2002年，是国内最早从事新型环保表面工程化学品生产的企业之一。公司业务覆盖<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="动力电池">动力电池</a></span>及表面工程化学品两大板块。</p><p style="text-indent: 2em; text-align: left;">维科网储能注意到，达志科技曾因存在“最近一个会计年度经审计的净利润为负值且营业收入低于1亿元”的情形，被深交所实施退市风险警示。</p><p style="text-indent: 2em; text-align: left;">今年5月25日，达志科技公告称，公司自2022年5月26日开市起撤销退市风险警示，股票简称由“*ST达志”变更为“达志科技”，股票代码仍为“300530”，股票交易的日涨跌幅限制仍为20%。</p><p style="text-indent: 2em; text-align: left;">至此，达志科技正式摘星脱帽。</p><p style="text-indent: 2em; text-align: left;">此次与山东旭能达成合作，意味着达志科技正式进军储能。维科网储能注意到，相较于储能，达志科技在动力电池板块的布局更早。</p><p style="text-indent: 2em; text-align: left;">在动力电池板块，2018年成立的子公司“领湃新能源”已在江苏昆山市建立高性能动力电池研发中心，拥有专业化、多元化、国际化的管理团队和技术团队。目前，达志科技拥有苏州领湃、湖南领湃、四川领湃、衡阳领湃等多家全资和控股子公司。</p><p style="text-indent: 2em; text-align: left;">在产品端，领湃新能源以<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="磷酸铁锂">磷酸铁锂</a></span>和中镍高电压三元两条技术路线并行，主要产品有动力电池及模组等，产品应用场景为<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>及储能等市场。</p><p style="text-indent: 2em; text-align: left;">在产能端，领湃新能源在湖南省衡阳市、四川省绵阳市建设动力电池生产基地，规划总产能有30GWh，将逐步释放产能。</p><p style="text-indent: 2em; text-align: left;">在客户端，今年4月27日，达志科技公告称，控股子公司衡阳领湃与北京汽车制造厂签署《项目合作意向书》。衡阳领湃将向后者供应产品磷酸铁锂79148102（135Ah）电池包（IP35S），电量为15. 12KWh。双方同意在8月30日启动量产交付，量产产品售价与主要<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E9%94%82%E7%94%B5%E6%B1%A0%E6%9D%90%E6%96%99.HTM" target="_blank" title="材料">材料</a></span>价格变动联动。</p><p style="text-indent: 2em; text-align: left;">除北京汽车制造厂外，达志科技客户还包括河南御捷时代、苏州科易新动力（上汽通用五菱E50项目）、江苏金派克、恒天领锐等。</p><p style="text-indent: 2em; text-align: left;">2021年，达志科技实现营收约为1.46亿元，同比增长29.96%；归属于上市公司股东的净利润约为-1.25亿元，同比增长-147.57%，其中动力电池系统业务板块实现营收2078万元，占营收比重达14.23%。</p><p style="text-indent: 2em; text-align: left;">达志科技解释称，全年业绩亏损主要原因系报告期内持续加大对新能源电池的生产及研发投入，研发及运营费用有较大幅度增加。</p><p style="text-indent: 2em; text-align: left;">值得注意的是，达志科技去年迎来一位造车新势力股东。去年7月，达志科技完成公司控制权变更，衡帕动力成为股东之一，占股29.95%，而衡帕动力背后的势力则是造车新势力威马汽车。</p><p style="text-indent: 2em; text-align: left;">摘星脱帽之后，达志科技迅速将业务拓展至储能领域，有利于公司公司储能电池产<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>的扩大，进一步提高公司产品市场竞争力，促进公司长远发展。</p> 
+  
+</div>
+            
