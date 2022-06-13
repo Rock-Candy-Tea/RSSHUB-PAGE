@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/79/ac1431e6e2f9d892ac0339477a1efc75.PNG?v=1655129216921'
 author: 巴哈姆特
 comments: false
-date: 2022-06-13 14:12:48
+date: 2022-06-13 15:11:58
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/ac1431e6e2f9d892ac0339477a1efc75.PNG?v=1655129216921'
 ---
 
@@ -60,17 +60,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/ac1431e6e2f9d892ac0339477a1efc75.
  </div>
 <div>
 　　為了平息這些質疑，小島製作在與 Xbox 的合作消息曝光之後，隨即發布了兩則簡短聲明訊息，表示作為一家獨立的創作工作室，小島製作將持續追求為粉絲進行創作。透過隨著時間與技術不斷進展的平台，來探索遊戲、電影與音樂的各種可能性。在宣布將與微軟展開活用雲端技術的合作關係後，有許多人對小島製作與 SIE 的合作關係提出詢問，對此小島製作請大家放心，他們將繼續與 PlayStation 維持良好的合作關係。</div>
-<div>
- </div>
-<div>
-<div class="social_embed_tweet" style="text-align: center;">
-<blockquote class="twitter-tweet tw-align-center" data-lang="zh-tw" style="margin:auto">
-<a href="https://twitter.com/KojiPro2015_EN/status/1536227587705696256">[[https://twitter.com/KojiPro2015_EN/status/1536227587705696256]]</a>
-<p>
-無法取得此篇推文，可能推文已移除或更改隱私設定。</p>
-</blockquote>
-</div>
-</div>
 <div>
  </div>
 <div>
