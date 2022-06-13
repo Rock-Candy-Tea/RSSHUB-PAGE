@@ -21,10 +21,13 @@ Game Pass、Xbox Series X|S，Xbox One和Windows PC的消息。
 <img src="https://img.3dmgame.com/uploads/images/news/20220613/1655121859_372361.jpg" alt="《女神异闻录5R》《女神异闻录4黄金版》等还将登Steam和PS5" referrerpolicy="no-referrer">
 </p>
 <p style="text-indent:2em;">
-根据官方，这三款游戏还将登陆Steam和PS5。
+根据官方，这三款游戏还将登陆Steam和PS5，并支持简体和繁体中文。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220613/1655121809_941588.jpg" alt="《女神异闻录5R》《女神异闻录4黄金版》等还将登Steam和PS5" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220613/1655122737_142759.jpg" alt="《女神异闻录5R》《女神异闻录4黄金版》等还将登Steam和PS5" referrerpolicy="no-referrer">
 </p>          
 </div>
             
