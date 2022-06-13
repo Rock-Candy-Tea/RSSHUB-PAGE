@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6398'
+headimg: 'https://picsum.photos/400/300?random=1701'
 author: 知乎
 comments: false
-date: Sun, 12 Jun 2022 11:17:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6398'
+date: Mon, 13 Jun 2022 00:45:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1701'
 ---
 
 <div>   
-关工的回答<br><br><p data-pid="p1ZtPF55">1、这行为有点二，发起网暴的人有几个正常的？</p><p data-pid="d98u4MgN">2、有一说一，这牌子真是又low又丑…… 白送都不要，跟有没有烧烤摊这事没关系。</p>  
+关工的回答<br><br><p data-pid="p1ZtPF55">1、这行为有点二，发起网暴的人有几个正常的？</p><p data-pid="d98u4MgN">2、有一说一，衣服真是又low又丑…… 白送我都不要，跟有没有烧烤摊这事没关系。</p>  
 </div>
             
