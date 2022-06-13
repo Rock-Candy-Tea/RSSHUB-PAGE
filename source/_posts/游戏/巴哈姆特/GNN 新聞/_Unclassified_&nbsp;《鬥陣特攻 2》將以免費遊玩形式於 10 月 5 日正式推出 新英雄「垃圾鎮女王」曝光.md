@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.JPG?v=1655057708197'
 author: 巴哈姆特
 comments: false
-date: 2022-06-13 03:55:50
+date: 2022-06-13 04:31:16
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.JPG?v=1655057708197'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.
 <div>
 <div>
 <div>
-　　Blizzard 於今日凌晨舉行的「Xbox & Bethesda Games Showcase」直播發表會中宣布，旗下線上射擊遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》（Windows PC / Xbox Series X|S / Xbox One / PlayStation 5 / PlayStation 4 / Nintendo Switch）將以免費遊玩的形式在 10 月 5 日正式推出。</div>
+　　Blizzard 於今日凌晨舉行的「Xbox & Bethesda Games Showcase」直播發表會中宣布，旗下線上射擊遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》（Windows PC / Xbox Series X|S / Xbox One / PlayStation 5 / PlayStation 4 / Nintendo Switch）將以免費遊玩的形式在台灣時間 10 月 5 日正式展開全新 PvP 內容搶先體驗，為這款團隊取向射擊遊戲開啟全新篇章。</div>
 <div>
  </div>
 <div>
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》是《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》有史以來最重大的更新版本，本次更新會以搶先體驗打頭陣，讓玩家遊玩全新的 PvP 體驗、全新英雄與地圖以及前所未見的免費遊玩模式。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》是《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》有史以來最重大的更新版本，本次更新會以搶先體驗打頭陣，讓玩家遊玩全新的 PvP 體驗、全新英雄與地圖以及前所未見的免費遊玩模式，主打全新五對五多人遊戲模式，並支援跨平台連線遊玩和跨平台進度共享。製作團隊強調，《鬥陣特攻 2》的PvP 體驗將透過全新的免費遊玩架構，帶來令人耳目一新的對戰玩法設計，並推出大幅更新遊戲內容，例如新英雄、英雄重製、地圖、模式及酷炫造型物品。</div>
 <div>
  </div>
 <div>
@@ -44,7 +44,25 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.
 <div>
  </div>
 <div>
-　　此外，官方也將於 6 月 17 日凌晨 1 點舉辦《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》的線上揭露活動，內容包含目前線上版本的營運模式、賽季內容規劃、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》第 34 名英雄「垃圾鎮女王」，以及即將到來的遊戲封測階段等資訊。</div>
+　　遊戲推出時，玩家將有機會使用最新加入的肉盾型英雄：垃圾鎮女王，她出身於澳洲，是統治垃圾鎮的殘酷暴君。垃圾鎮女王是第二個在《鬥陣特攻 2》上推出的新英雄，也是遊戲的第 34 位英雄。上一個推出的英雄是索潔恩，具有超高機動性、手持磁軌槍且經過生化改造的前任捍衛者隊長。遊戲正式推出時，也將於遊戲中追加全新的全球知名場景地圖，例如多倫多白雪靄靄的新皇后街，以及曼哈頓繁華喧鬧的中城區。此外，《鬥陣特攻 2》也將加入全新遊戲模式「推進」，雙方隊伍必須在對稱型的地圖中相互廝殺，以便控制並推進位置居中的機器人，使其深入敵對方的地盤。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG?v=1655094293896" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+<div>
+ </div>
+<div>
+　　暴雪娛樂總裁 Mike Ybarra 表示：「我們十分期待 10 月 5 日的到來，讓玩家開始體驗《鬥陣特攻 2》，並推出我們對全新緊湊對戰的願景，許多精采絕倫的新內容、引人入勝的原版經典英雄、地圖及玩法都經過重新設計。這將是此系列邁入持續推出新內容與求新求變紀元的開始，同時也是我們對玩家的承諾，日後將規劃頻繁且實質的更新，確保《鬥陣特攻 2》帶來持續數年的的遊戲樂趣。」</div>
+</div>
+<div>
+ </div>
+<div>
+　　此外，官方也將於台灣時間 6 月 17 日凌晨 1 點舉辦《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》的線上揭露活動，內容包含目前線上版本的營運模式、賽季內容規劃、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》第 34 名英雄「垃圾鎮女王」，以及即將到來的遊戲封測階段等資訊。</div>
 <div>
  </div>
 <div>
@@ -55,14 +73,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/a22cfd9f231bedf3d9c4d909f21gpqj5.
  </div>
 <div>
 　　今天在「Xbox & Bethesda Games Showcase 2022」的活動中，官方也稍微透露了遊戲中即將到來的新英雄「垃圾鎮女王」，這位英雄準備帶領玩家勇闖荒地。影片中也展示了這幾年來不斷成長茁壯的熟悉英雄們，還小小洩露了一個率領小隊戰鬥的神祕狐狸。</div>
-<div>
- </div>
-<div>
-<ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG?v=1655057675690" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/49ddc98e8f41cec5aa718712ec1gpqf5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
-</ul>
-</div>
 <div>
  </div>
 <div>
