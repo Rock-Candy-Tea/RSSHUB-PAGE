@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-06-14 07:08:57
+date: 2022-06-14 08:12:07
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.JPG'
 ---
 
@@ -245,12 +245,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的訊息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的訊息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
-在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。<br>
+在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的訊息引導困惑的蘿絲。<br>
 蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？</figure>
 </li>
 </ul>
