@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?v=1655121283941'
 author: 巴哈姆特
 comments: false
-date: 2022-06-14 00:53:17
+date: 2022-06-14 03:07:50
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/2d5f996e1cb20cf48bc13b33491gq7z5.JPG?v=1655121283941'
 ---
 
@@ -139,7 +139,7 @@ Xbox 與 Bethesda 旗下多家工作室新作、新內容重磅登場</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655110680883" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655109824&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?v=1655110680883" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/4222c1106f21b900b60357728a1gq2n5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

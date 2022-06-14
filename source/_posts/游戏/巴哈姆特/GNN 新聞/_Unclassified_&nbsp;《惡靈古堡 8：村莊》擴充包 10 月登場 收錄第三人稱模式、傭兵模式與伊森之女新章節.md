@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-06-14 00:53:17
+date: 2022-06-14 03:07:50
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.JPG'
 ---
 
@@ -90,7 +90,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG?v=1655164910523" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG?v=1655166310&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG?v=1655164910523" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/b5b6b298c0a44c84ec76c701cf1gqko5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -115,7 +115,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG?v=1655164919269" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG?v=1655166544&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG?v=1655164919269" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/8cdee19052b359e9a0e3f07bf61gqkp5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -129,7 +129,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
  </div>
 <div>
-<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG?v=1655161349889" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG?v=1655165918&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG 2x" style="width: 50%; float: left; margin-right: 3%;" title="克里斯·雷德菲爾" referrerpolicy="no-referrer"></div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG?v=1655161349889" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/51/776546498ce272d522266079b21gqhv5.JPG 2x" style="width: 50%; float: left; margin-right: 3%;" title="克里斯·雷德菲爾" referrerpolicy="no-referrer"></div>
 <div>
  </div>
 <div>
@@ -145,7 +145,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
  </div>
 <div>
-<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG?v=1655161443677" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG?v=1655165923&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG 2x" style="float: left; width: 50%;margin-right: 3%" title="海森伯格" referrerpolicy="no-referrer"></div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG?v=1655161443677" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/f7b5d8439b7a37e4e0f5980f111gqhw5.JPG 2x" style="float: left; width: 50%;margin-right: 3%" title="海森伯格" referrerpolicy="no-referrer"></div>
 <div>
  </div>
 <div>
@@ -161,7 +161,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
  </div>
 <div>
-<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG?v=1655161498195" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG?v=1655165929&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG 2x" style="float: left; margin-right: 3%; width: 50%;" title="阿契娜·蒂米特雷斯庫" referrerpolicy="no-referrer"></div>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG?v=1655161498195" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/33dde03d7c44b354d5eaabf3651gqhx5.JPG 2x" style="float: left; margin-right: 3%; width: 50%;" title="阿契娜·蒂米特雷斯庫" referrerpolicy="no-referrer"></div>
 <div>
  </div>
 <div>
@@ -185,7 +185,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG?v=1655165048291" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG?v=1655166394&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG?v=1655165048291" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/da756cc34c1d11d7c9b39790081gqkq5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -223,9 +223,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?v=1655165143888" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?v=1655166031&w=500 1x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?v=1655166031&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?v=1655166031&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG 4x" style="max-width: unset;" title="蘿絲因某事件而進入意識世界。她在那裡遇上了和她長得一模一樣的謎之少女。" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?v=1655165143888" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/55/6e9eefc65e4fa1c161fab574d41gqkr5.JPG 4x" style="max-width: unset;" title="蘿絲因某事件而進入意識世界。她在那裡遇上了和她長得一模一樣的謎之少女。" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?v=1655165143888" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?v=1655165947&w=500 1x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?v=1655165947&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?v=1655165947&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG 4x" style="max-width: unset;" title="蘿絲因某事件而進入意識世界。她在那裡遇上了和她長得一模一樣的謎之少女。" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?v=1655165143888" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/60/99b7c2c4844206f2f6a7182db21gqkw5.JPG 4x" style="max-width: unset;" title="蘿絲因某事件而進入意識世界。她在那裡遇上了和她長得一模一樣的謎之少女。" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 蘿絲因某事件而進入意識世界。她在那裡遇上了和她長得一模一樣的謎之少女。</figure>
@@ -235,7 +235,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG?v=1655165173255" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG?v=1655165964&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG 2x" style="max-width: unset;" title="「蘿絲之影」將以第三人稱視角進行遊玩，請各位充分享體驗被整個意識世界盯上的恐怖感吧。在這個世界中也能買到彈藥和回復藥等，但數量非常有限。 因此資源管理比本篇變得更為重要。" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG?v=1655165173255" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/e77aed7ccf4668b84e9076b4bf1gqky5.JPG 2x" style="max-width: unset;" title="「蘿絲之影」將以第三人稱視角進行遊玩，請各位充分享體驗被整個意識世界盯上的恐怖感吧。在這個世界中也能買到彈藥和回復藥等，但數量非常有限。 因此資源管理比本篇變得更為重要。" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「蘿絲之影」將以第三人稱視角進行遊玩，請各位充分享體驗被整個意識世界盯上的恐怖感吧。<br>
 在這個世界中也能買到彈藥和回復藥等，但數量非常有限。 因此資源管理比本篇變得更為重要。</figure>
@@ -245,9 +245,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165955&w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165955&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165955&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/784211dbd2ae9aad5025fa294c1gqkx5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165971&w=500 1x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165971&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165971&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?v=1655165200272" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/63/9323d356b5f39bac8d153dea231gqkz5.JPG 4x" style="max-width: unset;" title="在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。蘿絲那股不思議的力量似乎也可以在這處使用，她到底會如何發揮這力量呢？" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 在充滿危險的意識世界中，來自自稱「米迦勒」的神秘存在用不同的信息引導困惑的蘿絲。<br>
@@ -258,7 +258,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/40e1a2cb48798ee941a923cbf01gqi15.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG?v=1655165215029" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG?v=1655165979&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG 2x" style="max-width: unset;" title="一個接一個地放出怪物的面具男。 使人感到一股邪惡的氣息……" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG?v=1655165215029" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/13c651e6bf470bdda85f43bdb61gql05.JPG 2x" style="max-width: unset;" title="一個接一個地放出怪物的面具男。 使人感到一股邪惡的氣息……" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 一個接一個地放出怪物的面具男。 使人感到一股邪惡的氣息……</figure>
 </li>
