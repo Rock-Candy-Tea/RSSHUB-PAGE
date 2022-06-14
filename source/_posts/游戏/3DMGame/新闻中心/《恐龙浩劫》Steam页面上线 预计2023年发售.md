@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220614/1655177530_906845.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 14 Jun 2022 03:37:00 GMT
+date: Tue, 14 Jun 2022 03:45:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220614/1655177530_906845.jpg'
 ---
 

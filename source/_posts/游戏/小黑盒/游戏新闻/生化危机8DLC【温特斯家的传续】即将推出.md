@@ -1,0 +1,18 @@
+
+---
+title: '生化危机8DLC【温特斯家的传续】即将推出'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/06/13/85b30c5f2db7faabe502b4eb461afa45/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 14 Jun 2022 10:19:25 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/06/13/85b30c5f2db7faabe502b4eb461afa45/thumb.jpeg'
+---
+
+<div>   
+<p>《生化危机 村庄》追加内容“温特斯家的传续”将于2022年10月28日推出，包含3大追加内容！<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/85b30c5f2db7faabe502b4eb461afa45/thumb.jpeg" data-width="1924" referrerpolicy="no-referrer"></p><p>让大家久等了！追加内容“温特斯家的传续”包含3大内容：</p><p>■“第三视角模式”：从另一角度再次体验“伊森的死亡之旅”；</p><p><img class="lazy" data-height="1078" src="https://imgheybox.max-c.com/bbs/2022/06/13/13e0dcb4b5df90895df0c67187d6fb85/thumb.jpeg" data-width="1914" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/8302e906ca2cf604ace1957b1e84439e/thumb.jpeg" data-width="1904" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/42f34508eadcf91f19677da52b8890a4/thumb.jpeg" data-width="1924" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/5dc419ec812706d5445df9dff58139af/thumb.jpeg" data-width="1918" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/d3231974ee185a71c80ad0f637771622/thumb.jpeg" data-width="1918" referrerpolicy="no-referrer"></p><p>■“佣兵模式：后续命令”：除追加关卡外，克里斯·雷德菲尔德、海森伯格与蒂米特雷斯库夫人也会作为可操作角色参战！<br></p><p><img class="lazy" data-height="1079" src="https://imgheybox.max-c.com/bbs/2022/06/13/517c1822cf90d19faa425c45df966f4f/thumb.jpeg" data-width="1926" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/d414726f207fb21958b54c835ddbc334/thumb.jpeg" data-width="1926" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/722967b7d73d004e2101ea44ffb93562/thumb.jpeg" data-width="1908" referrerpolicy="no-referrer"></p><p>■“萝丝魅影”：在《村庄》主线故事的十六年后，由伊森的爱女萝丝玛丽·温特斯担任主角的全新剧情。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/2962490407bb1755a0b4653619ecab0c/thumb.jpeg" data-width="1928" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/6fbfdfa7b4763ac474cdd7e240cea79b/thumb.jpeg" data-width="1948" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/a2f7f2bdb5e22b9345f2adf122b5f68b/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/678253468d2515f7585eda3a5c09941b/thumb.jpeg" data-width="1912" referrerpolicy="no-referrer"></p><p>包含本篇与追加内容的《生化危机 村庄 黄金版》也将于同日推出。而由系列经典角色与怪物展开极限战斗的线上专用游戏《Resident Evil Re:Verse》也计划于10月28日开放。<a href="heybox://open_subject" target="_blank">#火眼金睛逛大促第四期#</a>  <a href="heybox://open_subject" target="_blank">#游戏推荐#</a> <br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/12de5d4e41ff3d263d0d4ee7ecb80c67/thumb.jpeg" data-width="1912" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/06/13/425ba2ba59d0718b60b848db7758cca1/thumb.jpeg" data-width="1906" referrerpolicy="no-referrer"></p>  
+</div>
+            

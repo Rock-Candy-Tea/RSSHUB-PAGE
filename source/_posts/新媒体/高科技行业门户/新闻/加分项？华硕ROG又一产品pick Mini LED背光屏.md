@@ -1,0 +1,19 @@
+
+---
+title: '加分项？华硕ROG又一产品pick Mini LED背光屏'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46490/202206/wx_article__3e4de47d7ca1e1d65ff4495064cfd2a8.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 14 Jun 2022 06:33:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46490/202206/wx_article__3e4de47d7ca1e1d65ff4495064cfd2a8.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">2022·06·13</p><p style="text-indent: 2em; text-align: left;">行家说快讯：</p><p style="text-indent: 2em; text-align: left;">近日，华硕旗下ROG品牌在变形电竞笔电ROG Flow 产品线推出大尺寸版本的 ROG Flow X16，除了尺寸扩大、GPU 提升至NVIDIA GeForce RTX 3070 Ti，还引进Mini <span class="hrefStyle"><a href="http://display.ofweek.com/KW-ledbeiguangyuan.html" target="_blank" title="LED背光">LED背光</a></span>的ROG Nebula HDR屏幕。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202206/wx_article__3e4de47d7ca1e1d65ff4495064cfd2a8.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">ASUS ROG Flow X16</p><p style="text-indent: 2em; text-align: left;">据介绍，这块16 吋的ROG Nebula HDR 屏幕比例为16：10，下缘边框做得较窄，可塞进一般 15 吋笔电机身，解析度为2560x1600，更新率达165 Hz，并因应触控操作而以康宁Gorilla Glass 3 玻璃覆盖。</p><p style="text-indent: 2em; text-align: left;">该产品搭载了Mini LED 背光技术，且具备512 块分区控光，最高亮度可达1100 nits，显色能力覆盖100％ DCI－P3、支援Dolby Vision，通过VESA DisplayHDR 1000 和Pantone 认证。</p><p style="text-indent: 2em; text-align: left;">过往 ROG Flow X13 ／ Z13 因受限于机身散热尺寸，GPU 只能使用较入门的 NVIDIA GeForce RTX 3050 Ti。这回 ROG Flow X16 既然都拓展到接近16 吋，GPU 也就可提升至 GeForce RTX 3070 Ti，搭配NVIDIA Dynamic Boost 技术的最大功耗来到125W，同样配备MUX 晶片让视讯不走内显，提升效能表现。</p><p style="text-indent: 2em; text-align: left;">CPU 维持在AMD 当前薄型笔电最高阶的Ryzen 9 6900HS，同样使用液态金属导热。搭配薄型化、噪音可低至3db 的5 热导管3 风扇散热模组，以及 90 Wh 电池，机身厚度控制在19．4 mm，重2 公斤。</p><p style="text-indent: 2em; text-align: left;">从华硕近期动作来看，可发现华硕对Mini LED技术的关注度持续提升。</p><p style="text-indent: 2em; text-align: left;">4月中旬，华硕ROG星云原画屏的 ROG 冰刃 6 双屏正式开启预售，全新的星云原画屏拥有应用双屏设计，其中16英寸的主屏搭载了Mini LED面板。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46490/202206/wx_article__f061386e0fbd39d1c0b73b25ab2ae6e7.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">面板方面，ROG 冰刃 6应用的16英寸Mini LED主屏幕，拥有 512 个背光分区，屏幕比例为 16：10，分辨率4K，更拥有 165Hz 高刷新率和 Free Sync 防撕裂技术。主屏幕峰值亮度达到 1100 尼特，并拥有 100000：1 的动态对比度，支持 10bit 色深，色彩范围覆盖 100％ DCI－P3 广色域，并通过莱茵低蓝光认证、Pantone 色彩认证以及杜比视界 HDR 认证。</p><p style="text-indent: 2em; text-align: left;">副屏幕部分，ROG 冰刃 6 双屏副屏部分采用 14．1 英寸的触控屏，为IPS 面板支持手写笔，副屏采用了全新的铰链设计，可自动抬升副屏，让主屏和副屏观感更为紧密。</p><p style="text-indent: 2em; text-align: left;">官网资料<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>，该产品已于 4 月 24 日正式开售，首发价 55999 元。</p><p style="text-indent: 2em; text-align: left;">据悉，ROG星云原画屏采用友达的 AmLED 技术，以及 ROG 自研的背光算法。这种自适应控制技术利用图像处理，以及动态调光和增强来打造准确的局部调光，能减少在部分 HDR 面板上看到的光晕效果。随着 Mini LED 密度增加，将能获得更生动的画面。</p><p style="text-indent: 2em; text-align: left;">另外，华硕ROG在年初的CES展会上也重点展示了其搭载Mini LED面板双屏幕电竞笔记本ROG Zephyrus Duo 16产品。</p><p style="text-indent: 2em; text-align: left;">实际上不止华硕，AOC、泰坦军团等<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-8321305-tv.html" target="_blank" title="显示器">显示器</a></span>品牌大厂也密集推出多款搭载Mini LED的新品。据行家说Display不完全统计，2022年至今，Mini LED上新提速，品类繁多，目前已有超过25款产品。</p><p style="text-indent: 2em; text-align: left;">这一方面佐证了Mini LED 技术的可行性，另一面也反映了品牌厂商的策略与选择。</p><p style="text-indent: 2em; text-align: left;">目前，Mini LED背光产品的市场仍在逐渐打开，品牌厂商的动作是否推动Mini LED市场的增长？在这增长背景之下，供应链是否也随之出现变化？</p><p style="text-indent: 2em; text-align: left;">7月28日，2022行家说Mini LED背光量产与应用趋势大会将在深圳举行。行家说将围绕着产业链的渗透、Mini LED的技术渗透及供应链进展，应用场景的发展趋势，一同碰撞交流，通过传递有价值的产业信息，加速Mini LED BLU技术的商业化进程和产业的整合升级。</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 加分项？华硕ROG又一产品pick Mini LED背光屏</span></p> 
+  
+</div>
+            

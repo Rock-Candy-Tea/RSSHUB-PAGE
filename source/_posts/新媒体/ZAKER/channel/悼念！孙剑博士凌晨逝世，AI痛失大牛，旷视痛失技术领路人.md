@@ -1,0 +1,18 @@
+
+---
+title: '悼念！孙剑博士凌晨逝世，AI痛失大牛，旷视痛失技术领路人'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e74_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 13 Jun 2022 22:31:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e74_1024.jpg'
+---
+
+<div>   
+<p>旷视首席科学家、旷视研究院院长孙剑博士，今日凌晨因病不幸离世。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e74_1024.jpg" data-height="853" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e74_1024.jpg" referrerpolicy="no-referrer"></div></div>孙剑博士 1976 年 10 月出生，今年 45 岁。他曾任微软亚研院首席研究员，此前两次获 CVPR 最佳论文奖。<p></p><p>他最为人所熟知的成就，是带领何恺明等人做出的残差网络 ResNet。ResNet 在 2015 年提出之后，拿下过 ImageNet 冠军，并斩获了 CVPR 2016 最佳论文奖。</p><p>孙剑的博士研究生专业是模式识别与智能控制专业，作为微软亚洲研究院和西安交通大学联合培养的研究生，他曾师从沈向洋博士。</p><p>沈向洋博士是顶级计算机视觉和图形学专家，也是微软中国研究院（现微软亚洲研究院）联合创办人。</p><p>2001 年，孙剑和沈向洋完成了利用置信传播（belief propagation）进行立体重建的项目，他也成为业界第一个将贝叶斯置信传播用来解决立体视觉问题的学者。</p><p>2003 年，孙剑博士毕业于西安交通大学人工智能与机器人研究所。</p><p>随后，孙剑博士加入微软亚洲研究院，随后带领团队完成了一系列 AI 相关的研究。</p><p>2009 年，他带领团队完成的 " 去雾 " 论文 Single Image Haze Removal Using Dark Channel Prior 获得了亚洲第一个 CVPR 最佳论文奖。</p><p>2016 年，ResNet 又拿下这一奖项。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e75_1024.jpg" data-height="657" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e75_1024.jpg" referrerpolicy="no-referrer"></div></div>2016 年 7 月，孙剑正式加入旷视，任首席科学家、旷视研究院院长，全面负责旷视技术研发。<p></p><p>旷视研究院推出的多项代表性工作，均在他的带领下完成。</p><p>包括移动端高效卷积神经网络 ShuffleNet、开源深度学习框架天元 MegEngine、AI 生产力平台 Brain++ 等。</p><p>Google Scholar 数据显示，孙剑博士论文引用量达到 284559 次，h-index 为 121。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202206/62a81e728e9f0963241a2e76_1024.jpg" data-height="850" data-width="724" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62a81e728e9f0963241a2e76_1024.jpg" referrerpolicy="no-referrer"></div></div>前几天，孙剑博士领衔的研究团队，还发了两篇最新的学术研究论文。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e77_1024.jpg" data-height="818" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62a81e728e9f0963241a2e77_1024.jpg" referrerpolicy="no-referrer"></div></div>对于孙剑博士的离世，旷视联合创始人兼 CEO 印奇发布朋友圈悼念：<p></p><p>未竟的事业一定会完成的。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202206/62a81e728e9f0963241a2e78_1024.jpg" data-height="475" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62a81e728e9f0963241a2e78_1024.jpg" referrerpolicy="no-referrer"></div></div>旷视也在讣告中表达了对孙剑博士离去的痛心：<p></p><p>他的不幸离世，让旷视失去了一位在人工智能技术领域探索和创新的领路人。每一位和他共事过的旷视同学，失去了一位智慧谦和的师长。</p><p>旷视研究院的墙上一直挂着孙剑博士奠定的研究使命：持续创新拓展认知边界，非凡科技成就产品价值。这句话将永远激励我们，勇攀科研高峰！</p><p>孙剑博士，一路走好。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
