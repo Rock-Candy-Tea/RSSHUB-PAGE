@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4544'
+headimg: 'https://pic1.zhimg.com/v2-04c08a41ae58a185951d3487aa6c0c45_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Tue, 14 Jun 2022 10:08:57 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4544'
+date: Tue, 14 Jun 2022 10:25:58 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-04c08a41ae58a185951d3487aa6c0c45_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-两郭炖不下的回答<br><br><p data-pid="8SE88a7L">以前我还不理解，社交网络上怎么会有这么多二极管，</p><p data-pid="c8yUX3YE">现在可以窥见一二了，</p><p data-pid="gl6mqHeV">前天朋友圈也有一位朋友说了这种话，</p><p data-pid="XBXlnjVg">po文：以后看到这种衣服的走远点</p><p data-pid="BIM4pr89">？</p><p data-pid="YZKfzTDM">说实话，人的问题，因为人穿了衣服，所以衣服也有问题吗</p><p data-pid="VviYaYVF">品牌还有直播间的主播也没做错啥要被你们刷屏网暴啊</p><p><br></p><p data-pid="0PNmtxi-">往前数一些年头，我们把快手上胡乱配搭一身的名牌衣着，穿戴一些自认为很有个性的衣服与首饰的人叫精神小伙</p><p data-pid="HGOfwIqc">再往前数一些年头，杀马特家族染头戴鼻钉耳钉，因为怪诞的青年形象够叛逆，够非主流，受到一群人追捧，</p><p data-pid="o_ycfp7S">目的是啥呢，一部分是赶潮流，他们眼里的审美，就认为那东西时髦好看，</p><p data-pid="94YJk4NO">第二是“伪装自己”，作了那个打扮，你去背个蛇皮袋去外地打工，</p><p data-pid="mzVsV6Oo">看起来不太会让人欺负，这种打扮，说到底是自卑感驱使的。</p><p data-pid="bVucviDi">像映着“boy”的T恤衫，也有偏爱这种大logo，英文字符的，配个粗链子的群体，</p><p data-pid="B_JbUy_y"><b>但是喜欢一个品牌一种审美的就是一种人？</b>是不是以后大街上看到穿boy的就报警啊，</p><p data-pid="R8DQr3l_">我不认为把这种衣服的用户，归结为和唐山这群地头蛇划等号的存在，是一种正确，</p><p data-pid="E6jVAWhn">但是理解这种心态是一种恐惧愤怒心理无处安放所以需要一个着力点，可以立即见效的着力点，</p><p data-pid="1X9isL8P">所以这群人把矛头瞄准了在营业的直播间的品牌。</p><p data-pid="IaB6gn7U">这也是一种霸凌。</p>  
+苏格拉深不见底的回答<br><br><p data-pid="oq_tIDAZ"><b>施暴者穿boy：</b></p><p data-pid="w6Gm8_tz"><b>去网暴boy直播间</b></p><p><br></p><p data-pid="yKmdgtJl"><b>施暴者开迈巴赫</b></p><p data-pid="wy3uPrJs"><b>怎么不见你网暴迈巴赫？</b></p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-04c08a41ae58a185951d3487aa6c0c45_1440w.jpg?source=b1748391" data-rawwidth="1080" data-rawheight="1052" data-size="small" data-default-watermark-src="https://pic3.zhimg.com/v2-ad77afd7c69a7dc2e10a97c4a281a233_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-04c08a41ae58a185951d3487aa6c0c45_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="OVY8TWU3"><b>什么奇葩脑回路</b></p><p data-pid="wpaIKUYd">照着逻辑，</p><blockquote data-pid="y6KdIg0D"><b>施暴者呼吸空气，你们要抵制空气！</b><br><br><b>施暴者穿了衣服裤子，你们要不穿衣服裤子！</b><br><br><b>施暴者有头发，你们要剃个光头？</b><br><br><br><br></blockquote><p><br></p><p data-pid="Tc6Ya650">滑天下之大稽</p><p data-pid="cyXk_Gdb">有种去唐山扫黑除恶去</p><p data-pid="3LGhXXvm">跑到豪不想干的直播间</p><p data-pid="4M76jHhr">网暴一小姑娘是怎么回事？</p><p><br></p><p data-pid="OMkDdhdr"><b>这种行为和施暴者也没啥区别了</b></p><figure data-size="small"><img src="https://pic1.zhimg.com/v2-e1026fe13aa242dfeaf88c86f628bad2_720w.jpg?source=b1748391" data-rawwidth="294" data-rawheight="292" data-size="small" data-default-watermark-src="https://pic2.zhimg.com/v2-3dc2fd101d96e0e5d08a08083ab1cad2_720w.jpg?source=b1748391" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
