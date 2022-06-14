@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/476/204/145/888/060/original/8d8069941916c34d.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/476/436/077/958/731/original/b8adfd339dd4bb45.png'
 author: Mastodon
 comments: false
-date: Tue, 14 Jun 2022 14:06:12 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/476/204/145/888/060/original/8d8069941916c34d.png'
+date: Tue, 14 Jun 2022 15:05:19 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/476/436/077/958/731/original/b8adfd339dd4bb45.png'
 ---
 
 <div>   
-<hr><p>後細かく演技させてこんな感じの構図(^o^)</p><br><img src="https://img.pawoo.net/media_attachments/files/108/476/204/145/888/060/original/8d8069941916c34d.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>されている側の目線の構図もいいよね(^o^)<br>3Dモデルのカメラアングルかえれるのいい☆</p><br><img src="https://img.pawoo.net/media_attachments/files/108/476/436/077/958/731/original/b8adfd339dd4bb45.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
