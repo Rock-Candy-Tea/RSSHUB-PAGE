@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/44/e56be7122488468610edfeca721gqkg5.JPG?v=1655163369990'
 author: 巴哈姆特
 comments: false
-date: 2022-06-14 09:08:53
+date: 2022-06-14 10:10:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/e56be7122488468610edfeca721gqkg5.JPG?v=1655163369990'
 ---
 
@@ -72,6 +72,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/e56be7122488468610edfeca721gqkg5.
  </div>
 <div>
 　　原為新人警察，在「拉昆市事件」六年後成為直屬於總統的特務。在經歷一連串事件後，成長了不少。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/rCYWQdZ6K_I?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
@@ -174,7 +180,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/44/e56be7122488468610edfeca721gqkg5.
 <li>
 代理經銷：未定</li>
 <li>
-官方網站：<a data-browser-rel-hosei="JS" href="https://www.residentevil.com/re4/" rel="noopener" target="_blank">https://www.residentevil.com/re4/</a></li>
+官方網站：<a href="https://www.residentevil.com/re4/zh-hant/" target="_blank">https://www.residentevil.com/re4/zh-hant/</a></li>
 </ul>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="54652" data-from="web_gnn"></div>
