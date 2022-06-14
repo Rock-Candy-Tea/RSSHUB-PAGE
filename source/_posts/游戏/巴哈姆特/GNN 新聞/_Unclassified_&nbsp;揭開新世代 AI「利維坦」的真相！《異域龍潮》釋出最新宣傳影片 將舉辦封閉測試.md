@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/969c64231cd871718f045f19491fj195.PNG?v=1655157248454'
 author: 巴哈姆特
 comments: false
-date: 2022-06-14 08:12:07
+date: 2022-06-14 09:08:53
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/969c64231cd871718f045f19491fj195.PNG?v=1655157248454'
 ---
 
@@ -99,7 +99,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/969c64231cd871718f045f19491fj195.
 <div>
  </div>
 <div>
-　　艾比奧斯公司開發的新世代AI「利維坦」，會利用語音導航和AR等方法引導玩家進行遊戲。它會以巨大的人形姿態或利用稱為「監視機」的無人機在玩家面前出現。</div>
+　　艾比奧斯公司開發的新世代 AI「利維坦」，會利用語音導航和 AR 等方法引導玩家進行遊戲。它會以巨大的人形姿態或利用稱為「監視機」的無人機在玩家面前出現。</div>
 <div>
  </div>
 <div>
