@@ -1,0 +1,18 @@
+
+---
+title: '为什么人们总习惯说猫有九条命，而不是八条命或者十条命？-Makrembolitissa的回答：猫有_九_条命的说法不是随便找个数字乱说，而是确实具有一定历史渊源。如有...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-6ce099f5268836b5825e8f2fad35437b_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Wed, 15 Jun 2022 13:58:32 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-6ce099f5268836b5825e8f2fad35437b_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>为什么人们总习惯说猫有九条命，而不是八条命或者十条命？</strong><br>Makrembolitissa的回答<br><p data-pid="1kx3FdJa">猫有“九”条命的说法不是随便找个数字乱说，而是确实具有一定历史渊源。如有错误欢迎指出。。</p><p data-pid="4l-Kzm5C">古埃及人早在第五王朝就形成了一种观念，即“九”作为三和三的乘积，是“多”的表现，所以埃及人会把几个庞大的神祇组合叫做“九柱神（enneads）”。根据<i>The Cat in Magic</i>一书的说法，出于对猫的喜爱，猫和“九”的联系可能在此时就已经产生了。古埃及人还将狮子作为太阳的标志，而公元前两千年的亚非野猫（African wildcat）神似狮子，猫就被莫名其妙的与太阳联系到了一起；同样的，由于古埃及人认为猫是小狮子，而月亮则是“小太阳”，所以猫又象征月亮。</p><p data-pid="JvVwMG1S">不知道是不是受到古埃及人的影响，古希腊人也将月神狄阿娜（Diana）和猫以及“九”建立起了某种关联。诗人夸尔斯（Quarles）后来还将女巫形容为“两条腿的猫有三次九条命（Two-legged cats with thrice nine lives，这里的thrice翻译存疑）”。庞波尼乌斯·梅拉（Pomponius Mela）是这样描述的：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-6ce099f5268836b5825e8f2fad35437b_1440w.jpg?source=1940ef5c" data-rawwidth="1183" data-rawheight="398" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9188e26452a8a9f2bac52aefe2faad94_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-6ce099f5268836b5825e8f2fad35437b_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>The cat in Religion and Magic</figcaption></figure><p data-pid="Zi91G7ZC">将视角转向北欧，我们会发现萨克森女神赫尔（Hel）也与数字“九”密切相关。我们可以在《埃达》中读到奥丁如何赋予她对九个世界的权力，或者根据另一个版本的说法，即对第九个世界的权力。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-62f437d333615c50cc07b8432f71c24b_1440w.jpg?source=1940ef5c" data-rawwidth="1144" data-rawheight="517" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-a5be0cee8a38476b18fa574822bad07d_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-62f437d333615c50cc07b8432f71c24b_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>The cat&#39;s nine lives</figcaption></figure><p data-pid="SH8KwBqK">上面这段关于猫的 "洗礼 "的叙述表明，女巫的崇拜并非没有受到时代的影响。但是尽管如此，与古埃及时期被神化的猫密切相关的数字“九”及其象征物，却被基督教会所采用，并被纳入他们的仪式中。</p><p data-pid="sB-ToHYb">最后，还有一个很重要的事情被我们忽略了——九点是基督的死亡时间。基督，公义的太阳，在早期基督教的象征主义中，像他的埃及原型奥西里斯和荷鲁斯一样，以猫作为象征，以展示自己是新生的、上升的太阳，是世界的光。</p><hr><p data-pid="fBnfFGWz">相关阅读：</p><ul><li data-pid="cHd5bcXN">" The Rare and Singuler Work of Pomponius Mela, that excellent and worthy Cosmographer," Book IiI, Chapter VI.Trans. into English by Arthur Golding, Gentleman, London, 1500.</li><li data-pid="r90xk3nK">" Universal Historical Dictionary." By George Crabb, A.M. Printed for Baldwin & Cradock, London, 1833.</li><li data-pid="gtG1TaR9">" Criminal Trials," Vol. II, p. 542. By Robert Pitcairn. Pub. Edin-burgh, 1833.</li><li data-pid="cLaPTvCb">" Plutarch's Lives," p. 52. Trans. from the original Greek, by John Langhorne, D.D., and William Langhorne, A.M. Pub. by Rout-ledge & Sons, London, 1879.</li><li data-pid="S-VLyenZ">" The Pantheon," p. 286. By Andrew Tooke, A.M. Printed in London.</li><li data-pid="F80QWO1d">" Asgard and the Gods." Adapted from Dr. W. Wagner, by M. W. Macdowall. Pub. by Swan, Sonnenschein, Le Bas & Lowrey, 1886.</li><li data-pid="mtdzX8qj">" The Secret Doctrine," and edition, Vol. II, p. 552. By H. P. Blavatsky. Pub. by the Theosophical Publishing Company, Ltd., London, 1888.</li></ul>  
+</div>
+            
