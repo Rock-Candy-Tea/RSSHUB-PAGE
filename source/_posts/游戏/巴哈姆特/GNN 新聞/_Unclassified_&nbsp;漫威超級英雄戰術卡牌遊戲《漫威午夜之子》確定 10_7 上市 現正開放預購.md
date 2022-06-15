@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?v=1655279226503'
 author: 巴哈姆特
 comments: false
-date: 2022-06-15 09:08:44
+date: 2022-06-15 10:09:20
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?v=1655279226503'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?v=1655279226503" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?v=1655279226503" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -35,7 +35,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG?v=1655279234637" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG?v=1655279234637" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/49887926288c5cc97a13b2431b1gqmx5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -158,7 +158,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.
 </ul>
 <div>
  </div>
-<h2 style="background-color: rgb(255, 255, 255);">
+<h2>
 遊戲資訊</h2>
 <ul>
 <li>
@@ -171,7 +171,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/3d6e205e3692e30226ba04fee81gqmy5.
 對應平台：PlayStation 5 / PlayStation 4 / Xbox Series X|S / Xbox One / Nintendo Switch<br>
 　　　　　Windows PC（Steam / Epic Games Store）</li>
 <li>
-發售日期：2022 年 10 月 2 日（Switch 版稍晚）</li>
+發售日期：2022 年 10 月 7 日（Switch 版稍晚）</li>
 <li>
 建議售價：標準版 新台幣 1790 元，加強版 新台幣 2090 元<br>
 　　　　　數位 Plus 版 新台幣 2390 元，傳奇版 新台幣 2990 元</li>
