@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7742'
+headimg: 'https://picsum.photos/400/300?random=2568'
 author: 开源中国
 comments: false
 date: Wed, 15 Jun 2022 07:05:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7742'
+thumbnail: 'https://picsum.photos/400/300?random=2568'
 ---
 
 <div>   
@@ -31,7 +31,7 @@ thumbnail: 'https://picsum.photos/400/300?random=7742'
  <li>[Fix] [markLine] 修复 markLine 标签显示错误的 tooltip content 的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F16971" target="_blank">#16971</a></li> 
  <li>[Fix] [markArea] 修复 markArea 可能被意外过滤的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F16861" target="_blank">#16861</a></li> 
  <li>[Fix] [axis] 修复<code>&#123;yy&#125;</code>没有被填充到 2 digits。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F17064" target="_blank">#17064</a></li> 
- <li>[Fix] [axis] 修复将一年分成 4 个季度而不是 3 个季度的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F17073" target="_blank">#17073</a></li> 
+ <li>[Fix] [axis] 修复了应该将一年分成 4 个季度而不是 3 个季度的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F17073" target="_blank">#17073</a></li> 
  <li>[Fix] [axis]] 修复自定义系列不适用于 singleAxis 的问题。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F16850" target="_blank">#16850</a></li> 
  <li>[Fix] [graphic] 修复某些选项可能在更新时被意外重置。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F17007" target="_blank">#17007</a></li> 
  <li>[Fix] [decal] 修复设置<code>legend.itemStyle.decal</code>为<code>'none'</code>后图案不变化。<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fapache%2Fecharts%2Fissues%2F16922" target="_blank">#16922</a></li> 
