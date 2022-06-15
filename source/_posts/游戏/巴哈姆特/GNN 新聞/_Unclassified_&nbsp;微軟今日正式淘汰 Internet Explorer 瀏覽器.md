@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?v=1655291136598'
 author: 巴哈姆特
 comments: false
-date: 2022-06-15 11:08:00
+date: 2022-06-15 12:15:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?v=1655291136598'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.61%;">
-<figcaption style="padding-bottom: 29.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?v=1655291136598" data-srcset="https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 29.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?v=1655291136598" data-srcset="https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -36,13 +36,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/18/ed4d13b4e1a35444bc7b4fbf6d1gs0i5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 35.27%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG?v=1655291143240" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 35.27%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG?v=1655291143240" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/07635b8b5a474bb425afe1bbf41gs0h5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　微軟表示，未來 Microsoft Edge 是微軟推薦的瀏覽器，將提供比 Internet Explorer 更快速、更現代的體驗，其不僅擁有更高的相容度，還有一些 IE 找不到的現代功能與更好的瀏覽器安全性等，如果使用者為使用 IE 的消費者，建議能夠在今日前轉換到  Microsoft Edge。</div>
+　　微軟表示，未來 Microsoft Edge 是微軟推薦的瀏覽器，將提供比 Internet Explorer 更快速、更現代的體驗，其不僅擁有更高的相容度，還有一些 IE 找不到的現代功能與更好的瀏覽器安全性等，如果目前仍為使用 IE 的消費者，建議能夠在今日前轉換到  Microsoft Edge。</div>
 <div>
  </div>
 </div>
