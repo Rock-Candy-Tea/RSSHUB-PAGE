@@ -5,11 +5,11 @@ categories:
  - 编程
  - 顺丰
  - 顺丰丰桥开放平台公告
-headimg: 'https://picsum.photos/400/300?random=1283'
+headimg: 'https://picsum.photos/400/300?random=4407'
 author: 顺丰
 comments: false
-date: 2022-06-15 07:09:33
-thumbnail: 'https://picsum.photos/400/300?random=1283'
+date: 2022-06-15 08:12:05
+thumbnail: 'https://picsum.photos/400/300?random=4407'
 ---
 
 <div>   

@@ -1,0 +1,20 @@
+
+---
+title: '★★★☆☆ 凯文克莱 炫金 Calvin Klein CK One Gold, 2016'
+categories: 
+ - 新媒体
+ - 香水时代
+ - 首页
+headimg: 'https://picsum.photos/400/300?random=3011'
+author: 香水时代
+comments: false
+date: Tue, 22 Mar 2022 14:45:01 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3011'
+---
+
+<div>   
+这个价格，你就别想太好了，味道OK就已经很棒了，那我可以告诉你，它的味道OK。
+无花果带来的奶感是最明显的，其次有一定脂粉感，橙花感，以及轻微的木质感。
+说实话，啥都有，啥都不出众，不算特别好闻，也不算不好闻，但是这个价格，他不差，不考虑价格给3星，考虑价格能给个4星。  
+</div>
+            

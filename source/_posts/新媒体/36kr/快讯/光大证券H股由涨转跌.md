@@ -1,0 +1,18 @@
+
+---
+title: '光大证券H股由涨转跌'
+categories: 
+ - 新媒体
+ - 36kr
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=4269'
+author: 36kr
+comments: false
+date: Wed, 15 Jun 2022 07:24:05 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4269'
+---
+
+<div>   
+36氪获悉，截至发稿，光大证券H股由涨转跌，盘中最高时涨近14%。  
+</div>
+            
