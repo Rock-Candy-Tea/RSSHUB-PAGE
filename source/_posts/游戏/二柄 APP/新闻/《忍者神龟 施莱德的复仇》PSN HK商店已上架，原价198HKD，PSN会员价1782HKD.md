@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/3/2022/06/16/1142109864.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-06-16 03:47:42
+date: 2022-06-16 04:24:06
 thumbnail: 'https://erbingeditor.diershoubing.com/3/2022/06/16/1142109864.jpg'
 ---
 
@@ -19,7 +19,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/3/2022/06/16/1142109864.jpg'
 
 同时此游戏之前已经上架NS商店，其中MX区折后价最低约68元，HK区折后价约152元，仅HK区支持中文。
 
-Steam商店国区将于今晚21:00解锁，目前价格还未出。
+Steam商店国区将于今晚21:00解锁，之前已公布售价为76元，首发享受9折优惠。
 
 Xbox商店XGP阵容暂未更新此游戏，预计今晚21:00上架XGP。
 
