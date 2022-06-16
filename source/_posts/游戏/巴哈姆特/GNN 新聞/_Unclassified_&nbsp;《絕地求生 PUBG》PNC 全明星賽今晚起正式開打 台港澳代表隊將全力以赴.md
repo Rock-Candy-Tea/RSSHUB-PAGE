@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?v=1655377108058'
 author: 巴哈姆特
 comments: false
-date: 2022-06-16 11:07:31
+date: 2022-06-16 12:17:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?v=1655377108058'
 ---
 
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?v=1655377108058" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?v=1655377108058" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -127,6 +127,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/03/714da298a20a8914a3919a07b41gt075.
  </div>
 <div>
 　　官方指出，PNC 全明星賽賽事地圖為 PUBG 最經典的 Erangel (求生島) 和 Miramar (沙漠)，每天進行 5 回合，四天共累積 20 回合，採用「積分制 (S.U.P.E.R)」賽制，隊伍累積的所有擊殺和排名積分排定名次，最終總積分最高的隊伍成為 PNC 2022 全明星賽冠軍。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/iqeIT1zEcT8?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
