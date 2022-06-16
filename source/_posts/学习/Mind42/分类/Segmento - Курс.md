@@ -1,0 +1,19 @@
+
+---
+title: 'Segmento - Курс'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=32ae46d2-51cb-4188-bdd6-e3fea70f934e&size=gallery'
+author: Mind42
+comments: false
+date: 2022-06-16 05:14:03
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=32ae46d2-51cb-4188-bdd6-e3fea70f934e&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=32ae46d2-51cb-4188-bdd6-e3fea70f934e&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
