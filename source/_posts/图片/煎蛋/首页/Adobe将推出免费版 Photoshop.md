@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/583c970ee09b23f27d9036ee1312911e.jpg!custom'
 author: 煎蛋
 comments: false
 date: Thu, 16 Jun 2022 05:11:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/583c970ee09b23f27d9036ee1312911e.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>关闭一些为付费订阅者独有的功能</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/ae87833012da7a01410433e3058ab9fd.jpg!custom" referrerpolicy="no-referrer"><p>Adobe 已开始在网络上测试免费使用的 Photoshop 版本，并计划向所有人开放该服务，以此向更多用户推广该应用。</p>
+<blockquote><p>关闭一些为付费订阅者独有的功能</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/583c970ee09b23f27d9036ee1312911e.jpg!custom" referrerpolicy="no-referrer"><p>Adobe 已开始在网络上测试免费使用的 Photoshop 版本，并计划向所有人开放该服务，以此向更多用户推广该应用。</p>
 <p>该公司现在正在加拿大测试免费PS版本，用户可以通过免费注册的 Adob​​e 帐户访问网络版Photoshop。 Adobe 将该服务描述为“免费增值”，并最终计划关闭一些为付费订阅者独有的功能。但Adob​​e认为的核心功能将免费提供给用户。</p>
 <p>“我们想让 [Photoshop] 更易于使用，让更多人更容易试用和体验产品。”Adobe 数字成像副总裁 Maria Yap 说。</p>
 <p>Adobe 于去年10月首次发布其网络版 Photoshop，提供了可用于处理基本编辑的简化版应用程序。图层和核心编辑工具取得了飞跃，但该服务并没有包括应用程序的全部功能。相反，Adobe 主要将其设计为一种协作工具——一种艺术家与他人分享图像并让他们参与进来、留下一些注释并进行一些小调整，然后将其交还给他人的方式。</p>
