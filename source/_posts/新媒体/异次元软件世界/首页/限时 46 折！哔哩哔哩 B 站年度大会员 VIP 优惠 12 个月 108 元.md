@@ -14,9 +14,9 @@ thumbnail: 'https://img.iplaysoft.com/axdres/home/618/618hb_btn_jd_v1.png'
 
 <div>   
 <ul id="link1111"><li>
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD 17 虚拟机官网 “限时史低” 优惠</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a>  |  
-<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/5716">多款正版软件 618 激活码优惠</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/618-apps-sale.html">618 正版软件 / 会员打折活动汇总</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD17 虚拟机限时官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/baiduwangpan">百度网盘 SVIP 年卡 188 送 QQ 音乐月卡</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a>  |  
 <a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云 618 秒杀</a></li></ul><style>.hb618btn&#123;width:250px;height:90px;display:block;overflow:hidden;position:absolute;top:20px;&#125;.hb618btn:hover&#123;top:18px&#125;</style><div style="background:#fcf0ef;width:680px;height:130px;border-radius:8px;margin-top:28px;position:relative">
