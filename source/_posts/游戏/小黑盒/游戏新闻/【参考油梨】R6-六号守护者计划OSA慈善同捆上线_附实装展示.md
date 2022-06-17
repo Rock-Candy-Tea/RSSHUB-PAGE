@@ -1,0 +1,18 @@
+
+---
+title: '【参考油梨】R6-六号守护者计划OSA慈善同捆上线_附实装展示'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/06/17/57070a3a5f4e3bf19e9312069a8bc49b/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 17 Jun 2022 12:44:42 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/06/17/57070a3a5f4e3bf19e9312069a8bc49b/thumb.png'
+---
+
+<div>   
+<p>111</p><p>大家好！</p><p>油梨是我<span data-emoji="heygirl_敲开心" class="hb-emoji"></span></p><p>今天上午育碧上线了新的慈善同捆干员OSA的专属套装</p><p>废话不多说让油梨给大家分享它的相关信息吧！</p><blockquote><p>理性消费，警惕消费陷阱</p></blockquote><hr><h2>目录</h2><ul><li>慈善同捆介绍</li><li>同捆内容速览</li><li>实装速览视频版</li></ul><hr><h3>慈善同捆介绍：</h3><p><b>问：</b>什么是六号守护者计划？</p><p><b>答：</b>旨在通过销售游戏内捆绑包来支持慈善机构，100% 的净收益（每售出捆绑包至少 6 美元）将捐给慈善机构。您的购买有助于直接支持慈善机构并帮助各种事业。我们希望一起团结彩虹六号围攻社区，并在我们的游戏之外做出积极的改变。</p><p><b>官方介绍：</b></p><p>我们的最新合作伙伴是出色的慈善机构ILGA World在 Vector Glare 行动和接下来的赛季中，玩家将能够购买这个 Osa Sixth Guardian 捆绑包</p><p><img class="lazy" data-height="540" src="https://imgheybox.max-c.com/web/2022/06/17/57070a3a5f4e3bf19e9312069a8bc49b/thumb.png" data-width="960" referrerpolicy="no-referrer"></p><p><br></p><hr><p><b>同捆内容速览介绍：</b></p><p><b>价格：1200R6点</b></p><p><b>包含：OSA专属头饰、制服、通用挂件和背景板</b></p><blockquote><p><b>此同捆不包含枪皮！</b></p></blockquote><p><img class="lazy" data-height="634" src="https://imgheybox.max-c.com/web/2022/06/17/3a34e5c733982cc373d4a936d6b4f6e6/thumb.png" data-width="1023" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><img class="lazy" data-height="491" src="https://imgheybox.max-c.com/web/2022/06/17/39ab291fcbf7a8d827c35697cda46a66.gif" data-width="921" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="491" src="https://imgheybox.max-c.com/web/2022/06/17/756cf18ee86cc96f5e9dfba89f30599e.gif" data-width="921" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="491" src="https://imgheybox.max-c.com/web/2022/06/17/2073a84a3a80910e0a20c14740e4c696.gif" data-width="921" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="491" src="https://imgheybox.max-c.com/web/2022/06/17/7e6a19dd05a88f16ae52f3b65035fc2e.gif" data-width="921" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><b>通用背景板：</b></p><p><img class="lazy" data-height="632" src="https://imgheybox.max-c.com/web/2022/06/17/05bba4613f0db5c923ec0d8f676aa9c8/thumb.png" data-width="1020" referrerpolicy="no-referrer"></p><p><b><br></b></p><hr><p><b>实机视频演示：</b></p><p><b>游戏对局实装参考，大伙可以看看再考虑是否入手<span data-emoji="heygirl_秃" class="hb-emoji"></span></b></p><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=812555104&bvid=BV1i34y157mi&cid=748830839&page=1" width="480"></iframe></p><hr><p><b>以上就是本次的全部内容了！</b></p><p><b>感谢大伙的观看<span data-emoji="heygirl_敲开心" class="hb-emoji"></span></b></p><p><b>感谢大家对油梨的支持！</b></p><p><b>可以点个赞再走吧吗<span data-emoji="heygirl_哭" class="hb-emoji"></span></b></p><p contenteditable="false"><img class="lazy" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#steam游戏</a><a href="heybox://open_subject" target="_blank">#pc游戏</a><a href="heybox://open_subject" target="_blank">#彩虹六号：围攻</a><a href="heybox://open_subject" target="_blank">#彩虹六号</a><a href="heybox://open_subject" target="_blank">#油梨分享</a><a href="heybox://open_subject" target="_blank">#油梨速报</a><a href="heybox://open_subject" target="_blank">#男酮#</a><b><br></b></p><p><b><br></b></p>  
+</div>
+            
