@@ -1,0 +1,19 @@
+
+---
+title: 'IAR Embedded Workbench for Arm集成开发环境已全面支持芯驰科技9系列SoC和E3系列MCU'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=5214'
+author: 高科技行业门户
+comments: false
+date: Fri, 17 Jun 2022 07:30:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5214'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">最新版IAR Embedded Workbench for Arm全面支持芯驰科技9系列SoC和E3 <span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span> 芯片，帮助中国汽车行业开发者打造强大的<span class="hrefStyle"><a href="http://ee.ofweek.com/KW-qianrushikaifa.html" target="_blank" title="嵌入式开发">嵌入式开发</a></span>解决方案</p><p style="text-indent: 2em; text-align: left;">中国上海—2022年6月17日——全球领先的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F.HTM" target="_blank" title="嵌入式">嵌入式</a></span>开发软件工具和服务提供商IAR Systems日前宣布：其最新发布的IAR Embedded Workbench for Arm 9．30版本已全面支持芯驰科技9系列SoC和E3 MCU芯片。</p><p style="text-indent: 2em; text-align: left;">国内领先的车规芯片企业芯驰科技致力于为未来智慧出行提供高性能、高可靠的车规芯片，是国内首个‘四证合一’的车规芯片企业，先后完成了ISO26262 ASIL D最高功能安全等级流程认证、AEC－Q100可靠性认证、ISO26262功能安全产品认证以及国密认证。</p><p style="text-indent: 2em; text-align: left;">IAR Embedded Workbench for Arm为芯驰科技9系列SoC和E3芯片中的高可靠Cortex－R5内核提供完整的工具链。该工具链包括高度优化的编译器以及高级调试功能，例如灵活的代码和数据断点、运行时堆栈分析、调用堆栈可视化。借助代码分析工具C－STAT和C－RUN，开发人员能够在日常开发过程中提高代码质量。</p><p style="text-indent: 2em; text-align: left;">对于有功能安全要求的公司，IAR Embedded Workbench for Arm提供经过T?V S?D认证的版本，符合ISO 26262的要求。对于使用持续集成（CI）工作流和自动化构建和测试流程的公司，IAR Embedded Workbench的构建工具也可用于支持基于Linux框架的版本。</p><p style="text-indent: 2em; text-align: left;">IAR的配套硬件调试器I－jet可以帮助开发人员进行多核调试。此外，IAR Systems的技术支持、培训服务和灵活的授权模式使所有客户都能找到适合其特定需求的解决方案，并且顺利使用IAR<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2818-DevelopmentToolsAlgorithms.html" target="_blank" title="开发工具">开发工具</a></span>。</p><p style="text-indent: 2em; text-align: left;">芯驰科技董事长张强表示：“IAR System 是全球领先的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="嵌入式系统">嵌入式系统</a></span>开发工具和服务厂商，其工具链满足行业对高性能和高可靠开发工具的需求。非常感谢IAR System的大力支持。芯驰于今年4月12日发布高性能高可靠车规MCU E3系列产品，目前已获得IAR System最著名的IAR Embedded Workbench? for Arm 9．30的全面支持，这无疑将有助于芯驰更好地服务国内外的客户。‘百花齐放春满园’，作为致力于赋能汽车行业的芯片企业，芯驰科技始终秉持开放的态度，与产业链上的企业合作创新，构建全栈生态。目前，芯驰科技已覆盖超过200家生态合作伙伴。”</p><p style="text-indent: 2em; text-align: left;">IAR Systems亚太区副总裁Kiyo Uemura表示：“芯驰科技作为中国自主的汽车芯片企业，研发创新能力令人印象深刻，成功推出9系列SoC和E3系列MCU芯片IAR Systems作为全球领先的嵌入式开发工具厂商，非常重视中国市场。我们非常高兴与芯驰科技合作，在新版的IAR Embedded Workbench for Arm中实现了对芯驰科技9系列SoC和E3系列MCU芯片的全面支持，兑现了我们对中国客户和市场的长期承诺。IAR Systems公司将继续与全球生态系统伙伴进行合作，帮助其共同客户充分释放和利用芯片的全部潜力。”</p><p style="text-indent: 2em; text-align: left;">芯驰高性能高可靠车规MCU E3系列产品可全面应用于线控底盘、制动控制、BMS、ADAS／自动驾驶运动控制、液晶仪表、HUD、流媒体视觉系统CMS等对安全性和可靠性要求极高的应用。E3 MCU在设计之初就设定了非常高的稳定性和安全性目标：车规可靠性标准达到AEC－Q100 Grade 1级别，功能安全标准达到ISO 26262 ASIL D级别。E3系列产品主频高达800MHz，具有高达6个<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CPU.HTM" target="_blank" title="CPU">CPU</a></span>内核，其中4个内核可配置成双核锁步或独立运行，填补国内高端高安全级别车规MCU市场的空白。</p><p style="text-indent: 2em; text-align: left;"><strong>关于芯驰</strong></p><p style="text-indent: 2em; text-align: left;">芯驰科技致力于为未来智慧出行提供高性能、高可靠的车规芯片，是国内首个“四证合一”的车规芯片企业，先后完成ISO26262 ASIL D最高功能安全等级流程认证、AEC－Q100可靠性认证、ISO26262功能安全产品认证以及国密认证。</p><p style="text-indent: 2em; text-align: left;">芯驰科技产品和解决方案覆盖智能座舱、自动驾驶、中央网关和高性能MCU四大业务，面向未来智能汽车各项核心应用场景。芯驰的车规芯片已实现大规模量产，服务客户超过260家，覆盖中国70％以上的车厂。</p><p style="text-indent: 2em; text-align: left;"><strong>关于IAR Systems</strong></p><p style="text-indent: 2em; text-align: left;">IAR Systems为嵌入式开发提供世界领先的软件和服务，帮助世界各地的公司创造满足当前需求和未来趋势的创新产品。自1983年以来，IAR Systems的解决方案已被用在100多万个嵌入式应用的开发中，保证了其质量、可靠性和效率。IAR Systems总部位于瑞典，并在世界各地设有销售分公司和支持办事处。自2018年起，深耕设备安全、嵌入式系统和生命周期管理领域的国际领先企业Secure Thingz成为IAR Systems集团旗下企业。目前，IAR Systems集团已在在纳斯达克OMX斯德哥尔摩交易所上市。</p> 
+  
+</div>
+            
