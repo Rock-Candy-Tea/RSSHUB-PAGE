@@ -1,0 +1,18 @@
+
+---
+title: '这只猫是英短重点色吗？-阿九品种猫的回答：这只猫是英短重点色吗？Hi~ 这只不是英短重点色。 英短的头版会更圆润，耳朵也没有那么宽大 _图片_ _图片_ _图片_ _...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-44a2894531b9bb27f02b754ddc959075_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Fri, 17 Jun 2022 07:07:35 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-44a2894531b9bb27f02b754ddc959075_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>这只猫是英短重点色吗？</strong><br>阿九品种猫的回答<br><h2>这只猫是英短重点色吗？</h2><p data-pid="IVGvkGNr">Hi~</p><p data-pid="3g1iv9GE">这只不是英短重点色。</p><p data-pid="6gSizQl3">英短的头版会更圆润，耳朵也没有那么宽大</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-44a2894531b9bb27f02b754ddc959075_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1730" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ab2d40af439195712ef9f1a735f8488c_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-44a2894531b9bb27f02b754ddc959075_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a03f0f18c6678c87887a0d7ba2cae8e6_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1132" data-default-watermark-src="https://pic1.zhimg.com/50/v2-1c3083d418cd137842dd16f96bafd546_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a03f0f18c6678c87887a0d7ba2cae8e6_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9fa03045031e4185e2c3d26caf4c10e3_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1605" data-default-watermark-src="https://pica.zhimg.com/50/v2-57151cabf5f2f2c63f3b81ebfa1c21c9_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9fa03045031e4185e2c3d26caf4c10e3_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/v2-03b88e7007c4535e22b1f818fa883555_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1612" data-default-watermark-src="https://pic2.zhimg.com/50/v2-c356f6e8409d939f8260cc80c5548de3_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-03b88e7007c4535e22b1f818fa883555_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/v2-92bf7b4bd65ff7403897b78d84d7c4c4_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2347" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9cb6bbdf162dd3ac2bc82820266f6feb_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-92bf7b4bd65ff7403897b78d84d7c4c4_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="QDfpeIDy">希望阿九品种猫的回答能破除你的疑惑。</p><h2>这个问题更详尽的相关知识，就看这个文章，阿九品种猫基本将养猫时可能踩的坑都给你提前填好了。</h2><a href="https://zhuanlan.zhihu.com/p/513923412" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-8a663d51f5ffce2b286a0e96316aee23_180x120.jpg" data-image-width="720" data-image-height="502" class="internal">阿九品种猫：一篇文章掌握英短的所有知识！</a><p></p>  
+</div>
+            

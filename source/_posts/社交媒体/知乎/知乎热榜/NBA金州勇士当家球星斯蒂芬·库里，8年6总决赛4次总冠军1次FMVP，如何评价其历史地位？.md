@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6272'
+headimg: 'https://picsum.photos/400/300?random=9317'
 author: 知乎
 comments: false
-date: Fri, 17 Jun 2022 04:16:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6272'
+date: Fri, 17 Jun 2022 05:12:01 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9317'
 ---
 
 <div>   
-Iron Man的回答<br><br><p data-pid="E5KZONkB">大声的告诉我一人一城四冠军 和换三队四冠军哪个难！！！ 库里的前三个冠军在谁头上拿的！</p>  
+烈焰双雄的回答<br><br><p data-pid="CN-nOhCv">对于库里而言，这个总冠军给他带来的最大加成在于使其彻底摆脱了与杜兰特之间的历史地位争议——</p><p data-pid="DdNaINyN">“格林公式”闭环导致杜兰特夺冠的道德合法性被破坏殆尽。</p><p data-pid="EDTOX3d0">总决赛MVP的到手填补了荣誉最大空白，双MVP一边三个，杜兰特最大底牌被兑子。</p><p data-pid="-qw_yREB">第四个总冠军到手导致杜兰特的“顺风车”冠军更显碍眼，两边都没太多一阵一防，我比你多两个总冠军显然是无情的荣誉碾压。</p><p data-pid="NLUChBSP">综上所述，考虑到篮网队本赛季的混乱，下赛季接下来行将末路的前景，以及杜兰特自己较为严重的伤病史。可以说这二人历史地位的卡位战已经基本落下帷幕。奥拉朱旺、科比，这二人的名字将在未来对库里的评价中被反复提及。</p><p data-pid="amsF3N-P">而且很显然，库里的增肌效果如此明显，34岁的他还有机会让自己的历史地位与伟大程度更进一步。再来一个总冠军，再得一次总决赛MVP，一旦522的荣誉单到手，那么历史前十的万神殿无论如何都必须接受这个小个子的入列。身体天赋最差，身高又是最矮，却和你们一样甚至更加伟大。此种逆天而行胜天半子的故事，难道不是已经远远超越了只论弱肉强食的历史地位概念吗？</p><p data-pid="G7yZnHEm">如果那一天到来，那么把库里称之为篮球运动层面（非竞技层面）的历史第二，也并无不妥。</p><p data-pid="aPkeez4N">34岁正年轻。</p><p data-pid="ouvCUJGn">库里，还在星夜兼程。</p>  
 </div>
             
