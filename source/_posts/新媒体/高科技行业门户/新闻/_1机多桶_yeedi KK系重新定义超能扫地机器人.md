@@ -1,0 +1,19 @@
+
+---
+title: '_1机多桶_yeedi KK系重新定义超能扫地机器人'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163354_165545483488344388.jpeg'
+author: 高科技行业门户
+comments: false
+date: Fri, 17 Jun 2022 08:32:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163354_165545483488344388.jpeg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近年来，随着人工智能AI技术的不断突破，扫地机器人产品也迎来了新一轮的技术革新。近日，科沃斯旗下全资子品牌yeedi一点发布了全新扫地机器人KK系列，不仅在颜值外观上进行了升级，还搭载了超前的3D面阵TOF技术，顺利实现导航、避障2合1等功能，成功解决了传统LDS凸起带来的机身厚重、低效导航等弊端。同时，KK系列扫地机器人还支持充电基站、集尘基站、自洗基站3种基站选配。KK系列扫地机器人重新定义超能扫地机器人标准，以创新技术和全新的营销模式开启行业变革新篇章，致力于成为更懂年轻人的轻智能生活方式探索者。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163354_165545483488344388.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>全新一代3D面阵TOF，告别传统LDS</strong></p><p style="text-indent: 2em; text-align: left;">在技术配置上，yeedi一点依托母公司科沃斯在扫地机器人行业24年来的技术沉淀，及1000多项专利实力，得以使其一改传统LDS和红外激光物理组合所存在的包括精度差、距离近、机身厚重等弊端。基于全新一代3D面阵TOF技术，成功实现建图更快、识别更多、避障更准等优势。不仅结构小巧易集成，而且无马达，无传送皮带，寿命远高于机械式雷达。一颗<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>便可满足导航＋避障的“二合一”需求，让年轻人感受到“轻”科技带来的丝滑享受。</p><p style="text-indent: 2em; text-align: left;">使用体验上，相较于传统LDS和红外激光物理组合，在全新一代3D面阵TOF的加持下，yeedi KK系扫地机器人可以带来业内首屈一指的更快、更准、更薄的使用体验。其5min快速精准建图与0．1s扫描间隔，可实现精准分区及导航定位，实时可知所处位置，带来室内无人驾驶般的智能体验。值得一提的是，其更精准3D智能避让单次扫描达17㎡，将达到9倍识别障碍效果，为使用者带来媲美AI级精准避障体验，轻松避开常见的拖鞋、垃圾桶等30＋地面障碍物。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163354_1655454834842839148.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">得益于高度集成带来的结构优化，yeedi KK系列取消了传统LDS凸起，将扫地机器人机身高度大幅降低至84mm，相比于市面上机身高度100mm以上的同类型产品，家具底部的通过率明显提升，从而带来更高的地面清洁覆盖率。</p><p style="text-indent: 2em; text-align: left;">在2K价位段，yeedi KK系列还具备目前行业最高标准的5100Pa天花板级别大吸力和双盘280次／min高速旋转擦地系统，前扫中吸后拖，真正做到走一遍就干净。</p><p style="text-indent: 2em; text-align: left;">作为兼具颜值与实力的新锐扫地机首选，全新yeedi KK系列扫地机器人还别出心裁地定制了扫地机器人届“轻奢级”外观。12000目苹果级抛光工艺、马卡龙元素融入、玫瑰金配色，是名副其实地既符合年轻人艺术审美需求又能实力清洁地面的得力助手。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163354_1655454834900994070.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>1机配多桶，告别传统扫地机捆绑销售</strong></p><p style="text-indent: 2em; text-align: left;">在硬核技术实力之外，全新yeedi KK系列扫地机器人支持选配3种基站，告别“捆绑式”全能，以全新一代“自定义超能”扫地机器人，可以让使用体验更加灵活。配置方面，yeedi KK系列扫地机器人单机可独立购买，用户可以自由选购3种基站，拒绝市面扫地机必须单机与基站一对一捆绑销售的老套路，KK系列升级只需单独换基站。且其单机可在集尘、洗抹布基站之间自由切换，整机生命周期更长、灵活度更高，用户可随心升级，不怕淘汰，轻松享受更高性价比使用体验。</p><p style="text-indent: 2em; text-align: left;">同时，全新yeedi KK系扫地机器人还为宠物家庭量身定制了自集尘基站，一改以往“凵”型风道，创新“L”型风道更短更少弯折，大大减少卡毛几率。3．2L大容量尘袋无需频繁倒灰，真正做到解放双手75天。值得一提的是，yeedi KK系在基站两侧特意增设了隔音棉，减少集尘噪音给宠物带来不舒适体验，在宠物友好方面又迈出了轻巧的一步。</p><p style="text-indent: 2em; text-align: left;">此外，在最大5100Pa吸力刷新极限之余，yeedi KK系扫地机器人还拥有超大5200mAh锂电池，省电低功耗带来强劲续航。升级清扫性能适合硬质地面、地毯等多重地面清洁，并支持多楼层地图存储（后续软件升级）及低矮台阶越障，一键智能续扫即可放心无忧。搭配yeedi App的多档模式功能设计，可进行远程控制、语音操控与预约清洁。出门在外也可根据需要预约自动或区域清洁功能，到家即能纵享洁净家居环境，get智能清洁体验。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-6/17/jihui/20220617163355_1655454835154723771.jpeg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">创新技术带来性能大升级，细节设计全面优化使用感。经得起感性选择和理性批判的全新yeedi KK系列，为年轻人带来了更合心意的清洁方案，提供了一款集高颜值、强实力、宽自由度三方优势于一身的自定义超能扫地机器人作为家居生活的全新选择。</p> 
+  
+</div>
+            
