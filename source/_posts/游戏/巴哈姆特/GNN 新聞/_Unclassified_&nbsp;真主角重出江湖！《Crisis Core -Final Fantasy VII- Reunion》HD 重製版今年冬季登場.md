@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.JPG?v=1655420114342'
 author: 巴哈姆特
 comments: false
-date: 2022-06-17 09:09:48
+date: 2022-06-17 10:09:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.JPG?v=1655420114342'
 ---
 
@@ -41,7 +41,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 44.39%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456861323" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456848&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 44.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456861323" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456848&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -187,7 +187,7 @@ Reunion 版畫面</figure>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG?v=1655453296470" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG?v=1655424776&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG?v=1655453296470" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/015c0923534f182d60257786d11gtbt5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -219,7 +219,7 @@ Reunion 版畫面</figure>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG?v=1655453416249" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG?v=1655424783&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG?v=1655453416249" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/35f9987681cc937e309a4535131gtbu5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -255,7 +255,7 @@ Reunion 版畫面</figure>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG?v=1655453499185" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG?v=1655424790&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG?v=1655453499185" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/1124f21bf9677480b33c9ba5821gtbv5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -289,7 +289,7 @@ Reunion 版畫面</figure>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG?v=1655453542389" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG?v=1655424796&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG?v=1655453542389" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/cd6300e5085003981abc3a45d81gtbw5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -325,7 +325,7 @@ Reunion 版畫面</figure>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG?v=1655453586210" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG?v=1655424803&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG?v=1655453586210" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/88acfa015b1c77726e2bdc79f91gtbx5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -405,8 +405,6 @@ D.M.W（虛擬情緒波動）是本作獨有的系統，戰鬥時輪軸會自動
 <figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/c6519b57f406c9c8ffc65d993b1gtor5.JPG?v=1655454560511" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/c6519b57f406c9c8ffc65d993b1gtor5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/87/c6519b57f406c9c8ffc65d993b1gtor5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/87/c6519b57f406c9c8ffc65d993b1gtor5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/87/c6519b57f406c9c8ffc65d993b1gtor5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
-<div>
- </div>
 <div>
  </div>
 <div>
