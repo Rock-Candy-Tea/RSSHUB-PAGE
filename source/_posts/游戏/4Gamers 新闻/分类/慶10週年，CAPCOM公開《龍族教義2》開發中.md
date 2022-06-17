@@ -13,6 +13,6 @@ thumbnail: 'https://img.4gamers.com.tw/news-image/650d1796-a776-420f-a17e-22e88d
 ---
 
 <div>   
-<img src="https://img.4gamers.com.tw/news-image/650d1796-a776-420f-a17e-22e88d28cf3b.jpg" referrerpolicy="no-referrer"><p>DMC要暫時沉睡了吧</p>  
+<img src="https://img.4gamers.com.tw/news-image/650d1796-a776-420f-a17e-22e88d28cf3b.jpg" referrerpolicy="no-referrer"><p>期待二代的進化</p>  
 </div>
             
