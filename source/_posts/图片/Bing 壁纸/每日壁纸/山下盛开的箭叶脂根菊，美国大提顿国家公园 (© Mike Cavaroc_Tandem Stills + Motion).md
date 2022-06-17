@@ -1,0 +1,18 @@
+
+---
+title: '山下盛开的箭叶脂根菊，美国大提顿国家公园 (© Mike Cavaroc_Tandem Stills + Motion)'
+categories: 
+ - 图片
+ - Bing 壁纸
+ - 每日壁纸
+headimg: 'https://cn.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+author: Bing 壁纸
+comments: false
+date: 2022-06-17 00:41:35
+thumbnail: 'https://cn.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+---
+
+<div>   
+<img src="https://cn.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" referrerpolicy="no-referrer">  
+</div>
+            
