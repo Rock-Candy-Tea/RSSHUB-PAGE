@@ -28,6 +28,36 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220618/1655554518_9699
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220618/1655554527_616997.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_994938.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_835223.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_728154.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_126765.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_200382.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_160530.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_170409.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_483544.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_876265.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220618/1655559819_921830.jpg" alt="《银翼杀手：增强版》6月23日发售 登陆Steam和主机" referrerpolicy="no-referrer">
 </p>          
 </div>
             
