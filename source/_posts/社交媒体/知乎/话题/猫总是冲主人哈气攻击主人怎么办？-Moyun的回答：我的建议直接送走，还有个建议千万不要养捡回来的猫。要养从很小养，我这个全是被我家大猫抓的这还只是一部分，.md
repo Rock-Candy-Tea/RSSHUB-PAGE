@@ -1,0 +1,18 @@
+
+---
+title: '猫总是冲主人哈气攻击主人怎么办？-Moyun的回答：我的建议直接送走，还有个建议千万不要养捡回来的猫。要养从很小养，我这个全是被我家大猫抓的这还只是一部分，...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-ce43949a00f6eb6c5f12c5e8e9cc9c94_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 18 Jun 2022 04:36:19 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-ce43949a00f6eb6c5f12c5e8e9cc9c94_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>猫总是冲主人哈气攻击主人怎么办？</strong><br>Moyun的回答<br><p data-pid="034Z_OkD">我的建议直接送走，还有个建议千万不要养捡回来的猫。要养从很小养，我这个全是被我家大猫抓的这还只是一部分，去年高考时候胳膊直接被抓7个伤口影响写字。冲主人哈气就是害怕感受到了恐惧。不是每个猫都和主人性格搭，好聚好散。大猫已经送人了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ce43949a00f6eb6c5f12c5e8e9cc9c94_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-16448a8f133ccdf0dad1ce6dcaed00a8_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ce43949a00f6eb6c5f12c5e8e9cc9c94_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-6b68f1a574912fc81e29f2b130ee8ed5_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9a9e1b99e8e58d9c6ca7fd52ce797cf0_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-6b68f1a574912fc81e29f2b130ee8ed5_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a3de031e101e4065953e984f87d84ad8_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-c3ca2ba54a520142d9b5db9de98cb475_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a3de031e101e4065953e984f87d84ad8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-0f1d466754ecabea9727e397a746e17c_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-b49cb776b0fcc2e3fdde9dd2e48cd08a_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-0f1d466754ecabea9727e397a746e17c_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-063b674fa18d56bcac2ffbec2b8ae3f3_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-88bced6c420d162cb87428eed537b213_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-063b674fa18d56bcac2ffbec2b8ae3f3_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-f4a7beacba8e59d0457af6f66abfc347_1440w.jpg?source=1940ef5c" data-rawwidth="1262" data-rawheight="1009" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-8aea7d8677af4526fce3aa97b1bbffe1_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-f4a7beacba8e59d0457af6f66abfc347_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
