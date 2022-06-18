@@ -5,11 +5,11 @@ categories:
  - 游戏
  - psnine
  - 数折 - 折扣信息推送
-headimg: 'https://picsum.photos/400/300?random=2961'
+headimg: 'https://picsum.photos/400/300?random=1588'
 author: psnine
 comments: false
-date: 2022-06-18 10:08:57
-thumbnail: 'https://picsum.photos/400/300?random=2961'
+date: 2022-06-18 11:07:11
+thumbnail: 'https://picsum.photos/400/300?random=1588'
 ---
 
 <div>   
