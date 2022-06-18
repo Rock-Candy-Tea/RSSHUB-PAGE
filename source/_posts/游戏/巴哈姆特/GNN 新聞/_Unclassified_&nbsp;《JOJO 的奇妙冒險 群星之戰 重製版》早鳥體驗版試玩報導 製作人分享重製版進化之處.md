@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/62/41ccd20dd065ac7e82c7718d831gtii5.JPG?v=1655449711776'
 author: 巴哈姆特
 comments: false
-date: 2022-06-17 15:09:17
+date: 2022-06-18 00:46:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/41ccd20dd065ac7e82c7718d831gtii5.JPG?v=1655449711776'
 ---
 
@@ -89,7 +89,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/62/41ccd20dd065ac7e82c7718d831gtii5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG?v=1655458572031" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG?v=1655458509&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG 2x" style="max-width: unset;" title="《JOJO 的奇妙冒險 群星之戰 重製版》製作人又野健太郎" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG?v=1655458572031" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/c4f8386fe712b7ef58bb24bb311gtjf5.JPG 2x" style="max-width: unset;" title="《JOJO 的奇妙冒險 群星之戰 重製版》製作人又野健太郎" alt="image" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=JOJO%20%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA%20%E7%BE%A4%E6%98%9F%E4%B9%8B%E6%88%B0%20%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">JOJO 的奇妙冒險 群星之戰 重製版</a>》製作人又野健太郎</figure>
 </li>

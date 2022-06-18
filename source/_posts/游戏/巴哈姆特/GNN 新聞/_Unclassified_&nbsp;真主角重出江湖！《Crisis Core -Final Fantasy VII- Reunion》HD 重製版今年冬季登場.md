@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.JPG?v=1655420114342'
 author: 巴哈姆特
 comments: false
-date: 2022-06-17 15:09:16
+date: 2022-06-18 00:46:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.JPG?v=1655420114342'
 ---
 
@@ -41,7 +41,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 44.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456861323" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456848&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 44.39%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?v=1655456861323" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/b9bd7c9da54b90b31c529e77ef1gtrh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -53,7 +53,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/7fc73b9e61f73b8e1d093d53761gtbe5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.74%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?v=1655455761117" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?v=1655455738&w=500 1x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?v=1655455738&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?v=1655455738&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG 4x" style="max-width: unset;" title="PSP 原版畫面" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.74%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?v=1655455761117" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/90/29fb146a11a3d9567c700f471d1gtou5.JPG 4x" style="max-width: unset;" title="PSP 原版畫面" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 PSP 原版畫面</figure>
 </li>

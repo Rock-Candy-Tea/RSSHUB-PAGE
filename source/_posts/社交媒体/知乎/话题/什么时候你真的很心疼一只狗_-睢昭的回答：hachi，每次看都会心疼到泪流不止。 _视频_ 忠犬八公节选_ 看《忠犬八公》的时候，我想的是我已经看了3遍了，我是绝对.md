@@ -1,0 +1,18 @@
+
+---
+title: '什么时候你真的很心疼一只狗_-睢昭的回答：hachi，每次看都会心疼到泪流不止。 _视频_ 忠犬八公节选_ 看《忠犬八公》的时候，我想的是我已经看了3遍了，我是绝对...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-9dbb0220ecb8380ac5b13898d81daaf9.png'
+author: 知乎
+comments: false
+date: Sat, 18 Jun 2022 00:30:58 GMT
+thumbnail: 'https://pica.zhimg.com/v2-9dbb0220ecb8380ac5b13898d81daaf9.png'
+---
+
+<div>   
+<strong>什么时候你真的很心疼一只狗?</strong><br>睢昭的回答<br><p data-pid="Mbl5MMDf">hachi，每次看都会心疼到泪流不止。</p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1521409210117611520" target="_blank" data-video-id data-video-playable data-name="忠犬八公节选" data-poster="https://pica.zhimg.com/v2-9dbb0220ecb8380ac5b13898d81daaf9.png" data-lens-id="1521409210117611520"><img class="thumbnail" src="https://pica.zhimg.com/v2-9dbb0220ecb8380ac5b13898d81daaf9.png" referrerpolicy="no-referrer"><span class="content"><span class="title">忠犬八公节选<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1521409210117611520</span></span></span></span></span></a><p data-pid="N87Um1Wt">看《忠犬八公》的时候，我想的是我已经看了3遍了，我是绝对不会再哭的，但是眼泪还是不争气的流了下来。</p><p data-pid="3FrVKlyC">今天，想着没事，可以做一个电影的剪辑解说，这个时候我想到了忠犬八公，因为已经看过3遍，比较熟悉，就把视频下载了下来，剪辑前，看了一遍，结果就哭的稀里哗啦的，眼泪就唰唰的流个不止。</p><p data-pid="EghXkqWK">忠犬八公的故事要从一只小秋田Hachi说起，hachi被送往新家途中，经过一个火车站，看着外面热闹的场景，hachi用手扒拉着笼子，可能是长时间的颠簸，笼子就这样在小hachi的扒拉下被弄开了，小hachi带着好奇，从笼子里跳了出来，这一跳，意味着一段缘分的结束，也意味着另一段缘分的开始。</p><p data-pid="f1_5f1lw">就在小hachi转转悠悠走的时候，恰巧碰到了赶着回家的教授帕克，教授出于好心的抱起了它，拿到车站警卫那里，想着找到他原本的主人，可是车站工作人员却说将hachi放到角落，看看明天会不会有人来认领，听到这的教授于心不忍，抱着hachi就回到了自己家。</p><p data-pid="UDVjKquH">教授家之前也养过一条狗，去世之后妻子再也不想重新养一只，教授只能偷偷摸摸把hachi放到一楼书房，便向着妻子走去，刚来到新家的hachi不知道出于好奇还是缺乏安全感，循着教授在空气中留下的味道就追了过去，妻子被hachi舔到脚，吓得大叫，看到是一只小狗后，直接让拿出去。。。就这样，hachi在远处的杂物间度过了一晚。</p><p data-pid="kvpKsDge">第二天，教授带着hachi到处张贴寻人启事，问朋友，问学生，看有没有人想养hachi，但是所有的方法都没有结果，教授只好带着hachi继续住在自己家。</p><p data-pid="PC4c7pG3">过了几天，教授教着hachi学捡球，可是小hachi却是说什么也不捡回来，教授爱狗心切，亲自趴在地上叼着球给hachi示范，与此同时，妻子那边接到了一个电话，原来是之前贴的寻人启事有人看到想要领养，妻子刚想留下对方联系时，看到了教授和hachi玩耍的一幕，回绝道:“狗狗已经有主人了”，就这样，hachi留在了教授家里</p><p data-pid="_ERJ12Ir">事件飞逝，几个月过去，hachi也长大了，一天，教授出门上班，hachi就偷偷在围墙边挖了个洞钻了出去，一路追着教授直到车站，上车后的教授看向窗外才发现，hachi怎么出现在了车站，急匆匆走下车，想要赶hachi回去，hachi却说什么也不走，无奈的教授只好带着hachi一起回家。</p><p data-pid="8Ud3bcQQ">到家后，妻子帮忙把围墙边稍微加固了一下，hachi是不能钻出去了，但是围墙太低，他还可以跳出去。</p><p data-pid="92Zg1tXK">快到五点时，这个时间也是教授下班回家的时间，hachi仿佛是有未卜先知的能力一般，翻过围墙就往车站飞奔而去，果然，没两分钟教授走了出来，看到教授的hachi高兴的直接扑进怀里，一起嬉戏的走回家，就这样每天早上送走教授，每天晚上按时接教授回家，日复一日，雷打不变</p><p data-pid="PVSE12PA">然而呢有一天，像往常一样，教授要去上班，向着hachi招手示意一块走，hachi只是在那站着，甚至有些急躁的叫喊，一边叫一边转圈，教授叫了几次hachi只是在那里叫，没有一丝想跟他走的想法，教授觉得可能是hachi不舒服，就自顾自的先走了。</p><p data-pid="9RM3kj3v">看到这一幕的hachi更是着急，叼起来以前从未咬过的玩具球就追上去，另一边，教授三步一回头的走着，期待看到hachi的身影，果然走到车站时看到急匆匆跑来的hachi，看到这一幕的教授脸上情不自禁的浮现出笑容，看到hachi嘴里的球更是喜出望外，教授尝试了一下把球扔出去，不知为何，一向抗拒的hachi这次很顺从的把球捡了过来，教授看到开心的跟个孩子一样，到处跟人炫耀:“看到没，他会捡球了，这是第一次。”说完，再次把球扔了出去…</p><p data-pid="bRp9RiOJ">玩了一会后，临近上班，教授就要跟hachi道别，hachi一看教授要走，又开始急躁的叫唤，教授也搞不明白今天hachi的反常，像往常一样告别了hachi去往教室，讲课中途，教授感觉心跳加速，整个人跌跌撞撞坐到底下座位上，想要缓一下，却怎么也缓不过来了，最后因心脏病突发去世。</p><p data-pid="ShWfxW8z">五点钟，hachi站起身来期待的望向站门口，可是人都走光了，还没有看到想要见到的那个身影，失落的hachi又慢慢走回老地方趴着，等着下一趟火车…然而等到最后一班车也没有教授的身影…</p><p data-pid="qMgGEpgD">它也不知道为什么那个每天陪自己的“父亲”为什么突然就不在了，它只知道它要一直等在这里，从白天等到晚上，从春等到冬，不知过了多少个春秋，十年如一日的它依旧每天在那里等着，原本健硕的身躯也随着时间变得苍老无力，但不变的依旧是那一份等待，直到生命的终点，它终于等来了那个日夜思念的身影，他们团聚了</p><p data-pid="hFdBeoe2">故事到这里结束，可是hachi的故事并没有结束。</p>  
+</div>
+            
