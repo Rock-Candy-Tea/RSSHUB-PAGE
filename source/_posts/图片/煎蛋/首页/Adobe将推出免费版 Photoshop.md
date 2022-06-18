@@ -22,6 +22,9 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/03/5
 <p>“我希望看到 Photoshop 满足用户现在的需求。”Yap 说。“ Photoshop 不需要高端机器。”</p>
 <p>Adobe 没有提供免费增值版本何时更广泛推出的时间表。与此同时，该公司正在继续更新网页版 Photoshop，包括细化边缘、曲线、doge 和刻录工具，以及转换智能对象的能力。网络版还获得了用于查看和评论图像的移动支持。</p>
 <p>Adobe 今天还提供了一款新的 AI 驱动的神经滤镜的预览功能，该滤镜即将在 Photoshop 中使用。新的“照片修复”滤镜可以给泛黄的老照片，自动清理划痕并恢复其部分颜色。当与 Adob​​e 现有的用于为黑白照片添加颜色的彩色滤镜结合使用时，这两个滤镜可以快速使旧照片栩栩如生，即使最终结果看起来有点卡通。</p>
-<p>https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe</p>  
+<p>https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe</p>
+<p>celk:<br>
+怎么会有[doge]，PS又怎么会有刻录功能？<br>
+看了下原文the doge and burn tools，这应该是文章作者的笔误或者私货玩梗吧，是dodge and burn，意思是“减淡和加深”工具</p>  
 </div>
             
