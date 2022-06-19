@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?v=1655526014200'
 author: 巴哈姆特
 comments: false
-date: 2022-06-18 15:08:38
+date: 2022-06-19 00:45:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?v=1655526014200'
 ---
 
@@ -32,9 +32,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 56.44%;">
-<figcaption style="padding-bottom: 102.28%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?v=1655526014200" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG 2x" style="max-width: unset;" title="G535 Wireless 電競無線耳機麥克風外包裝" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 102.28%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?v=1655526014200" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/d72aac541c19625ea477cfe3391gu6z5.JPG 2x" style="max-width: unset;" title="G535 Wireless 電競無線耳機麥克風外包裝" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 43.43%;">
-<figcaption style="padding-bottom: 132.94%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?v=1655526014200" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG 4x" style="max-width: unset;" title="G535 Wireless 電競無線耳機麥克風外包裝" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 132.94%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?v=1655526014200" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/44/272eec90566968149ff1718b771gu705.JPG 4x" style="max-width: unset;" title="G535 Wireless 電競無線耳機麥克風外包裝" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 G535 Wireless 電競無線耳機麥克風外包裝</figure>
@@ -44,15 +44,15 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 38.53%;">
-<figcaption style="padding-bottom: 150.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 150.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/45/5ac3f18fafa6da8111efb17b8d1gu715.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 61.21%;">
-<figcaption style="padding-bottom: 94.95%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG 2x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 94.95%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/98421cb9ceeaca3f4b32999a241gu725.JPG 2x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 51.93%;">
-<figcaption style="padding-bottom: 106.70%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG 2x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 106.70%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/e7f7c3e519b638c16680a9362e1gu735.JPG 2x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 47.81%;">
-<figcaption style="padding-bottom: 115.90%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 115.90%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?v=1655526046765" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/40188a3e65c7c40ce713b030ab1gu755.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -64,24 +64,24 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 44.33%;">
-<figcaption style="padding-bottom: 98.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG 4x" title="耳機本體" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 98.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/5a0cd6da43bc80c45eb630d1ec1gu745.JPG 4x" title="耳機本體" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 耳機本體</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 55.28%;">
-<figcaption style="padding-bottom: 78.79%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG 2x" title="藉同樣為紫色的初號機來當模特兒一下" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 78.79%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/5a871492175eb96ebcc5b82a051gu795.JPG 2x" title="藉同樣為紫色的初號機來當模特兒一下" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 藉同樣為紫色的初號機來當模特兒一下</figure>
 </li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 74.61%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG 4x" title="頭帶" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 74.61%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/59/8f854ece50375ecf837e9354c51gu7f5.JPG 4x" title="頭帶" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 頭帶</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 74.61%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG 4x" title="頭帶" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 74.61%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?v=1655526312392" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/58/b9ab0626c8ef1671620f06bad81gu7e5.JPG 4x" title="頭帶" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 頭帶</figure>
 </li>
@@ -94,11 +94,11 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 21.39%;">
-<figcaption style="padding-bottom: 137.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 137.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/57/4b8298154c9a78933f45d2e0721gu7d5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 39.05%;">
-<figcaption style="padding-bottom: 75.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/60/facb9c697bf301ecdf1fe158801gu7g5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 39.05%;">
-<figcaption style="padding-bottom: 75.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?v=1655526121927" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/61/00a9182ea9dfe6d550cc214c951gu7h5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -110,18 +110,18 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 48.20%;">
-<figcaption style="padding-bottom: 83.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 83.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/56/2f12ce5ca6a737eb2c64095ccd1gu7c5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 51.68%;">
-<figcaption style="padding-bottom: 77.81%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG 2x" title="把麥克風往上翻折" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 77.81%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/39e1b729d9a43751a4818206fe1gu7b5.JPG 2x" title="把麥克風往上翻折" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 把麥克風往上翻折</figure>
 </li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.58%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/52/b3cb49a477066c77d4cf58cc1a1gu785.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.58%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?v=1655526175811" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/830ac6c7f1826f2f20c5f184291gu775.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -133,7 +133,7 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 66.54%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG?v=1655526195050" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.54%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG?v=1655526195050" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/e6a7098d4a1c5f6b458aa354e61gu765.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -145,17 +145,17 @@ G535 Wireless 電競無線耳機麥克風外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 51.77%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG 2x" style="max-width: unset;" title="G413 SE 機械式遊戲鍵盤外包裝" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 51.77%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/8a4ed8dd8f9ac98dad5a9974c71gu7i5.JPG 2x" style="max-width: unset;" title="G413 SE 機械式遊戲鍵盤外包裝" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 G413 SE 機械式遊戲鍵盤外包裝</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 73.37%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG 2x" style="max-width: unset;" title="開箱" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 73.37%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/42e700163ee89bbd85c67066261gu7j5.JPG 2x" style="max-width: unset;" title="開箱" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 開箱</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 50.17%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG 2x" style="max-width: unset;" title="鍵盤本體" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.17%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG?v=1655526352744" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/51774226392765c390f50292bc1gu7k5.JPG 2x" style="max-width: unset;" title="鍵盤本體" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 鍵盤本體</figure>
 </li>
@@ -168,7 +168,7 @@ G413 SE 機械式遊戲鍵盤外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 75.10%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG?v=1655526403729" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.10%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG?v=1655526403729" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/51915b52117429cc1e49174d851gu7l5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -180,9 +180,9 @@ G413 SE 機械式遊戲鍵盤外包裝</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 55.51%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG?v=1655526429028" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 55.51%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG?v=1655526429028" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/962b83a8aa6e1854117ce81ac71gu7m5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 75.08%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG?v=1655526429028" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.08%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG?v=1655526429028" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/954c1cb7985bcc9db316260fc21gu7n5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
