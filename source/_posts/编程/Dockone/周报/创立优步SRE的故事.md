@@ -5,18 +5,18 @@ categories:
  - 编程
  - Dockone
  - 周报
-headimg: 'https://picsum.photos/400/300?random=3562'
+headimg: 'https://picsum.photos/400/300?random=6629'
 author: Dockone
 comments: false
-date: 2022-06-19 08:10:38
-thumbnail: 'https://picsum.photos/400/300?random=3562'
+date: 2022-06-19 09:08:46
+thumbnail: 'https://picsum.photos/400/300?random=6629'
 ---
 
 <div>   
 <br>【编者的话】SRE是指Site Reliability Engineer（网站可靠性工程师）。他是软件工程师和系统管理员的结合，SRE工程师需要掌握很多知识：算法、数据结构、编程能力、网络编程、分布式系统、可扩展架构、故障排除等。Uber在早期意识到SRE的重要性，下面文章是作者回顾Uber初期网站运营的问题，以及搭建SRE的过程。<br>
-<br>这是我个人在优步创立SRE组织的故事。如果你想要建议而不是回忆，可以看看《 <a href="https://infraeng.dev/trunk-and-branches/">Trunk and Branches Model</a> 》和《<a href="https://lethain.com/productivity-in-the-age-of-hypergrowth/">Productivity in the age of hypergrowth</a>》。<br>
+<br>这是我个人在优步创立SRE组织的故事。如果你想要建议而不是回忆，可以看看《<a href="https://infraeng.dev/trunk-and-branches/">Trunk and Branches Model</a>》和《<a href="https://lethain.com/productivity-in-the-age-of-hypergrowth/">Productivity in the age of hypergrowth</a>》。<br>
 <br>在2014年离开SocialCode后，我花了一个月时间在几家公司面试，试图弄清楚下一步该做什么。我在两条不同的道路上纠结：（1）在一家非常小的初创公司领导工程开发，或者（2）在一家快速增长的公司担任一个小得多的角色，并期望它的增长可以给我创造机会。经过一番考虑，我选择了后者，加入了优步。<br>
-<br>我忘记了我在优步的确切面试时间线，但大致是 “周二面试，周三录用，下周一开始上班” （这不是我在优步见过的最快的周转速度！我曾经在星期五下午5：00左右给一个人发了offer，他立刻回复， 并在两天后的星期一开始上班） 。 我被聘用的职位是“DevOps经理”，最初我很紧张， 我不太清楚DevOps是什么意思。在开始工作的前一个周末，我焦急地阅读了《<a href="https://www.amazon.com/dp/B078Y98RG8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">The Phoenix Project</a> 》，试图对我刚刚被雇佣去做的事情进行复盘。<br>
+<br>我忘记了我在优步的确切面试时间线，但大致是 “周二面试，周三录用，下周一开始上班” （这不是我在优步见过的最快的周转速度！我曾经在星期五下午5:00左右给一个人发了offer，他立刻回复， 并在两天后的星期一开始上班） 。 我被聘用的职位是“DevOps经理”，最初我很紧张， 我不太清楚DevOps是什么意思。在开始工作的前一个周末，我焦急地阅读了《<a href="https://www.amazon.com/dp/B078Y98RG8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">The Phoenix Project</a> 》，试图对我刚刚被雇佣去做的事情进行复盘。<br>
 <br>开始的时候，有五个团队在做“基础设施”工作。数据和地图工程团队也归入基础设施组织，但他们非常专注于其他工作，因此为了叙述方便我将省略他们。基础设施团队包括：<br>
 <ol><li>开发工具 </li><li>专注于超越PostgreSQL索引对磁盘空间的需求的基础激光设施工程</li><li>丹麦的一个团队，主要专注于部署工具</li><li>Techops，负责订购和安装服务器以及网络设备</li><li>InfraOps团队，负责其他的所有工作</li></ol><br>
 <br>在一个由200名工程师组成的工程组织中（人数每6个月就会增加一倍）， 这些团队加起来大约有20人。<br>
@@ -56,7 +56,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3562'
 <br>名字没变，但很快就变成了一个截然不同的团队。这个名字的延续掩盖了一个重要的领导和文化转变的开始，这一转变在Susan Rigetti的《<a href="https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber">反思Uber， 非常奇怪的一年</a>》中达到高潮。几个月后，我两年内的第五个老板出局了，我也紧随其后。（有点令人困惑的是，这位老板并不是新的基础设施主管。相反，他们是另一位新领导，与新的基础设施主管几乎同时加入，并在加入后六个月内离开。）<br>
 <br>SRE组织仍然存在。我们建立的SRE组织消失了。<br>
 <h3>反思</h3>当讲述像这样的故事或《<a href="https://lethain.com/digg-v4/">Digg V4发布</a>》时，总是有一种以最好的方式展示自己的倾向，但我尽量忠实地讲述这些事情。如果我可以重来一次，我会做很多不同的事情。也就是说，优步对我来说是一个突破性的角色，如果没有我最初在优步学到的一切，我就不会在后来的工作中取得成功。没有什么比我们一起完成的事情更让我自豪的了。对我在优步共事和学习的同事们：谢谢你们，你们让我的生活变得更好。<br>
-<br>这并不是说这次经历完全是好的。在那个优步时代工作是要付出代价的。许多的其他人付出了更大的代价；我也是。作为一个领导者，我已经不知所措了，为此我很挣扎。在去优步立陶宛办事处的一次工作旅行中，我七年的伙伴打电话告诉我他们已经搬走了。写作曾是我最大的爱好，但我在那里的时候放弃了写作。有些章节丰富了我们的生活，却没有重复，对我来说，优步无疑是其中之一。<br>
+<br>这并不是说这次经历完全是好的。在那个优步时代工作是要付出代价的。许多的其他人付出了更大的代价；我也是。作为一个领导者，我已经不知所措了，为此我很挣扎。在去优步立陶宛办事处的一次工作旅行中，我七年的伙伴打电话告诉我他们已经搬走了。写作曾是我最大的爱好，但我在那里的时候放弃了写作。有些章节丰富了我们的生活，但我们不会去重复，对我来说，优步无疑是其中之一。<br>
 <br>2022年4月28日发布。<br>
 <br><strong>原文链接：<a href="https://lethain.com/founding-uber-sre/">Founding Uber SRE.</a>（翻译：张亚龙）</strong>
                                 
