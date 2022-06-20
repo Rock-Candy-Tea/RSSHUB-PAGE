@@ -1,0 +1,19 @@
+
+---
+title: '奇怪想法走进现实：AI工具_Dall-E Mini_走红网络'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/06/17712d3599da47f.png'
+author: cnBeta
+comments: false
+date: Mon, 20 Jun 2022 04:14:31 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/06/17712d3599da47f.png'
+---
+
+<div>   
+Dall-E Mini是一个AI工具，其从文本提示中创造出奇怪的、有趣的、偶尔令人不安的图像的能力使其在社交媒体上引起关注。据了解，Dall-E Mini会让人们输入一个描述图像的短语，然后，算法会在几秒钟内将该图像显示在屏幕上。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/17712d3599da47f.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/17712d3599da47f.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">实际上，这并不是艺术和AI第一次吸引互联网的注意力。看到一个算法如何处理像艺术这样主观的东西有一定的吸引力。像2016年，演员Thomas Middleditch根据算法编写的剧本拍摄了一部短片。Google已经制作了多个将艺术和AI联系在一起的工具。2018年，其艺术与文化应用让用户在名画中找到自己的二重身。另外，Google的AutoDraw还会找出人们想涂鸦的东西并为其修改。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/abfe0c13cfc136d.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/abfe0c13cfc136d.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">此外，还有其他的文字转图像系统，如OpenAI的Dall-E 2和GoogleImagen，不过它们都还没有向大众提供。</p><p style="text-align: left;">以下是你需要知道的关于Dall-E Mini及其AI生成的艺术的情况。</p><p style="text-align: left;"><strong>什么是Dall-E Mini？</strong></p><p style="text-align: left;">Dall-E Mini是一个AI模型，它会根据人们给它的提示来创造图像。在接受出版物《I》的采访时，程序员Boris Dayma介绍称，作为Google和一个名为Hugging Face的AI社区举行的比赛的一部分，他最初在2021年7月建立了这个程序。</p><p style="text-align: left;"><strong>它是如何运作的？</strong></p><p style="text-align: left;">任何人都可以输入提示信息并点击“运行”按钮。Dall-E Mini将以3x3网格的形式吐出其结果，其中包含9张图片。其网站上关于该工具的说明指出，它是在“未经过滤的互联网数据”上训练的。</p><p style="text-align: left;"><strong>这个AI有多好？</strong></p><p style="text-align: left;">不出所料，Dall-E Mini有点一发不可收拾。在接受I News采访时，Dayma称，AI在抽象画方面比较好，但在人脸方面比较差。</p><p style="text-align: left;">不过，Dayma表示，这个模型正在训练，这意味着它可以随着时间的推移而改进。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/5db80a6dc872cf9.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/5db80a6dc872cf9.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">另外，Dall-E还有一个说明--图像生成可能有不那么有趣的一面，它们可能会被用来加剧社会偏见。</p><p style="text-align: left;"><strong>Dall-E Mini跟Dall-E 2有关吗？</strong></p><p style="text-align: left;">不，它们没有关联。Dall-E 2也是一个生成AI图像的工具，今年以一个研究项目的身份被推出。它是由AI研究和部署公司OpenAI创建的并没有被广泛使用。</p><p style="text-align: left;">人们在创造什么类型的图像？</p><p style="text-align: left;">在社交媒体上，你可以发现大量奇怪的Dall-E Mini创作，从Thanos在沃尔玛寻找他的母亲到Jar Jar Binks赢得英国大烘烤节目。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/1365360e670737c.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/1365360e670737c.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/628a6eb11122459.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/628a6eb11122459.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/890ab3a969ff5cf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/890ab3a969ff5cf.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/06/50d9f9de7b7e322.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/50d9f9de7b7e322.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/06/d8b0194b7e66ba1.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/06/d8b0194b7e66ba1.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
