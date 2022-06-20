@@ -17,7 +17,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220620/s_dc69ca69f82f47b3baed4fb39d
 <p>金泰克TP3500 SE是标准的M.2 2280 SSD，<strong>搭载长江存储的3D TLC闪存颗粒，Xtacking架构，动态和静态磨损平衡结合，延长使用寿命，平均故障间隔时间超过150万小时。</strong></p>
 <p><strong><span style="color:#ff0000;">容量256GB、512GB、1TB，写入寿命分别为150TB、300TB、600TB，质保5年，相当于每天0.33次全盘写入。</span></strong></p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220620/dc69ca69f82f47b3baed4fb39d66ba0a.jpg" target="_blank"><img alt="金泰克新SSD用上长江存储国产闪存：1TB只要699元！" h="285" src="https://img1.mydrivers.com/img/20220620/s_dc69ca69f82f47b3baed4fb39d66ba0a.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
-<p>支持PCIe 3.0 x4、NVMe 1.3，实测连续读写性能最高可<strong>超过3.6TB/s、3.2GB/s</strong>，另外随机读取速度最高450K IOPS，属于PCIe 3.0 SSD中的旗舰水准。</p>
+<p>支持PCIe 3.0 x4、NVMe 1.3，实测连续读写性能最高可<strong>超过3.6GB/s、3.2GB/s</strong>，另外随机读取速度最高450K IOPS，属于PCIe 3.0 SSD中的旗舰水准。</p>
 <p>该SSD没有外置DRAM缓存，不过<strong>支持HMB</strong>(主机内存缓冲)，可以直接调用部分内存作为缓存，既能节省成本，也降低了性能损失。</p>
 <p>另外还支持动态温控技术、LDPC除错机制，无需散热片即可保证温度控制在合理水平。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220620/0dc9ad3731fc49b88cf1b668103e5347.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="金泰克新SSD用上长江存储国产闪存：1TB只要699元！" h="400" src="https://img1.mydrivers.com/img/20220620/s_0dc9ad3731fc49b88cf1b668103e5347.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
@@ -33,7 +33,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220620/s_dc69ca69f82f47b3baed4fb39d
 
            
            
-           <p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p>
+           [MD:ArticleEnd]
 <div style="overflow: hidden;font-size:14px;">
            <p class="zhuanzai"><strong>如需转载请务必注明出处：快科技</strong></p>  
           <p class="url"><span style="color:#666">责任编辑：上方文Q</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
