@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14686/a1625_seconddinner_cube_01.png'
 author: Axis Studios
 comments: false
-date: 2022-06-20 04:17:14
+date: 2022-06-20 05:13:22
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14686/a1625_seconddinner_cube_01.png'
 ---
 
@@ -76,7 +76,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14686/a1625_seconddin
                             <a class="toggle collapsed" data-toggle="collapse" href="https://axisstudiosgroup.com/work/marvel-snap/#fullCreditDetails" role="button" aria-expanded="false" aria-controls="fullCreditDetails">Full credits </a>
                         </h3>
                         
-                            Adrian Fijalek, Alan MacEachern, Alejandro More, Alexandre Berger, Andrew Clunes, Andrew Van Der Walt, Anjin Anhut, Ayse Aktas, Bart Skrzypiec, Benoit Filippin, Bojin Shi, Borislav Mitkov, Carl Fosberg, Carlo Kasongo, Carol Canovas, Catarina Goncalves, Chloe Campbell, Chris Ostrowski, Ciaran Dempsey, Claudio Quarro Sacco, Daria Rashev, Diego Llorens, Dulce Lopez, Duncan Farmosa, Eamonn Grady, Eilidh Brown, Ekaterina Pushkarova, Elina Karimova, Emma Nathan, Friedl Jooste, Gao Heng, Gary Erskine, Gio Simonato, Hamish Mitchell, Henri Morain, Iain Beeston, Ivan Pinan, Ivan Shavrin, Izabela Poznanska, Jan Jinda, Joan Buhigas Rosillo, Joe Burns, Jose Domato, Josh Rizzo, Julia Pishtar, Kartik Gupta, Laura MacMahon, Louise McGregor, Lukas Jankovcin
+                            Adrian Fijalek, Alan MacEachern, Alejandro More, Alexandre Berger, Andrew Clunes, Andrew Van Der Walt, Anjin Anhut, Ayse Aktas, Bart Skrzypiec, Benoit Filippin, Bojin Shi, Borislav Mitkov, Carl Fosberg, Carlo Kasongo, Carol Canovas, Catarina Goncalves, Chloe Campbell, Chris Ostrowski, Ciaran, Claudio Quarro Sacco, Daria Rashev, Diego Llorens, Dulce Lopez, Duncan Farmosa, Eamonn Grady, Eilidh Brown, Ekaterina Pushkarova, Elina Karimova, Emma Nathan, Friedl Jooste, Gao Heng, Gary Erskine, Gio Simonato, Hamish Mitchell, Henri Morain, Iain Beeston, Ivan Pinan, Ivan Shavrin, Izabela Poznanska, Jan Jinda, Joan Buhigas Rosillo, Joe Burns, John Tanner Wilde, Jose Domato, Josh Rizzo, Julia Pishtar, Kartik Gupta, Laura MacMahon, Louise McGregor, Lukas Jankovcin, Lukasz Przybytek, Marco D'Ambros, Marton Adam, Mateo Bernard, Mateusz Mizak, Matthew Bilton, Michael Lu, Michal Gradziel, Nils Allely, Omid Moradi, Oscar Loch, Pauline Coogans, Piotr Orlinski, Rafael Migliorini, Rishab Chitroda, Robert Filipowicz, Rosealee Higgins, Ryan Federman, Ryan Millard, Salah Hussein, Sergio Grana, Stephen Cunningham, Stephen King, Stevie Gill, Tahira Curreno, Thomas Katsikoudis, Thomas Poole, Torben MacRae, Vania Alban-Zapata, Viktor Fillo, Viktor Saghy, Xabier Urrutia, Yannic Kawan
                         
                     
                 
