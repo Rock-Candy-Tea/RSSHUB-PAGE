@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655472309347'
 author: 巴哈姆特
 comments: false
-date: 2022-06-19 15:08:33
+date: 2022-06-20 00:44:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655472309347'
 ---
 
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 133.29%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655472309347" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 133.29%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655472309347" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -109,7 +109,7 @@ AI: THE SOMNIUM FILES –nirvanA Initiative– Complete Soundtrack</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG?v=1655473628837" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG?v=1655473628837" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/439b3727d10030e29c252ee9fd1gtth5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -137,9 +137,9 @@ DLC「和服套組」</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG?v=1655473661102" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG?v=1655473661102" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/f0ba1296a95ac7cbaeeac824c21gttg5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG?v=1655473661102" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG?v=1655473661102" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/d590c64ac00d8e4c77c469db2a1gttf5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -159,9 +159,9 @@ DLC「黑白反轉套組」</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG?v=1655473703537" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG?v=1655473703537" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/5d2b3579f75bb8fec411d452341gtte5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG?v=1655473703537" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG?v=1655473703537" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/a3b158c6b1cd1dcac3a2b1745b1gttd5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -258,7 +258,7 @@ Steam 售價：TWD 200／HKD 53</li>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG?v=1655473912245" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG?v=1655473912245" data-srcset="https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/36/3b063429893500284f598591381ftds5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
