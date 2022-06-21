@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/672147da0c5dd22013427fbe801guhu5.JPG?v=1655714337907'
 author: 巴哈姆特
 comments: false
-date: 2022-06-21 02:59:15
+date: 2022-06-21 03:57:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/672147da0c5dd22013427fbe801guhu5.JPG?v=1655714337907'
 ---
 
@@ -61,7 +61,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/672147da0c5dd22013427fbe801guhu5.
 <div>
  </div>
 <div>
-　　近年來 Treasure 團隊規模縮小，以昔日作品的移植版為銷售主力，最後一款完全新作是 2014 年 9 月由 CAPCOM 發行的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9D%88%E8%A3%9D%E6%88%B0%E5%A3%AB+%E7%A5%9E%E7%AB%A0" target="_blank">靈裝戰士 神章</a>》。近期則是於今年 5 月將經典射擊遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%91%E9%B3%A9" target="_blank">斑鳩</a>》移植到 Steam 平台。</div>
+　　近年來 Treasure 團隊規模縮小，以昔日作品的移植版為銷售主力，最後一款完全新作是 2014 年 9 月由 CAPCOM 發行的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9D%88%E8%A3%9D%E6%88%B0%E5%A3%AB+%E7%A5%9E%E7%AB%A0" target="_blank">靈裝戰士 神章</a>》。近期則是於今年 5 月將經典射擊遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%91%E9%B3%A9" target="_blank">斑鳩</a>》移植到 Epic 平台。</div>
 <div>
  </div>
 <div>
