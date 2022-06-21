@@ -1,0 +1,19 @@
+
+---
+title: '70MHz到70GHz，TekScope打通泰克示波器全家族'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807812398087719.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 21 Jun 2022 10:35:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807812398087719.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">泰克示波器包括2系示波器MSO2、3系示波器MDO3、4系示波器MSO4、5系示波器MSO5B、6系示波器MSO6B、70K示波器DPO／MSO70000DX、ATI示波器DPO70000SX。从日常的轻薄便携70MHz带宽的小型示波器到70GHz带宽高性能大带宽ATI实时示波器，示波器的型号和系列越来越多，功能越来越强大，操作界面也不一样，操作越来越复杂，工程师要灵活操作和使用示波器越来越费时费力，如何实现会操作一个系列的示波器，就会操作泰克所有的系列的示波器，不需要花时间去学习新型号的示波器的使用呢？怎么破？</p><p style="text-indent: 2em; text-align: left;"><strong>70MHz到70GHz，泰克示波器全家福</strong></p><p style="text-indent: 2em; text-align: left;">泰克（Tektronix）是商用示波器的创始者，同时也是示波器的革新者，从1946年第一台商用示波器，到早期的模拟示波器，再到80年代数字存储示波器、90年代数字荧光示波器、2015年发布的第一台ATI 带宽70GHz实时示波器。</p><p style="text-indent: 2em; text-align: left;"><span style="color: rgb(0, 112, 192);">泰克实时示波器带宽范围从70MHz的2系示波器到70GHz的ATI示波器，带宽高低各不同。示波器全系列包括2系示波器、3系示波器、4系示波器、5系示波器、6系示波器、70KDX示波器、ATI示波器。</span></p><p style="text-align:center"><span style="color: rgb(0, 112, 192);"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807812398087719.png" referrerpolicy="no-referrer"></span></p><p style="text-indent: 2em; text-align: left;">DPO70000SX高性能大带宽ATI示波器，带宽从13GHz到70GHz。最高200GS／s超高采样率，紧凑的仪器封装，并能够灵活地扩展及简便地重新进行配置，采用UltraSync多台时间同步总线，提供精确的可扩展的性能，实现了功能最广泛的多通道示波器系统，可以满足高速光通信系统、PCIE5／6和从事先进前沿尖端研究等测试需求。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807821068018999.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">2022年6月泰克推出全新2系MSO混合信号示波器，带宽从70MHz至500MHz，轻薄便携的新2系示波器ScopePad，小型示波器新2系可以在工作台与测试现场之间无缝移动，为传统示波器扩展出全新的应用场景。可以装到小背包中，提供了无可比拟的性能和便携性，协助工程师把测试工作的自由度提升到全新水平。</p><p style="text-indent: 2em; text-align: left;">2017年至2021年期间，泰克陆续推出示波器MDO3系、MSO4系、MSO5B系、MSO6B系，这一系列具有出色性能的中端示波器，带宽从100MHz到10GHz，模拟通道从2通道到8通道，从而满足不同测试需求。</p><p style="text-indent: 2em; text-align: left;"><strong>一个平台全覆盖，TekScope软件打通所有</strong></p><p style="text-indent: 2em; text-align: left;">有时候，在家里或者出差在外需要查看示波器波形，可是示波器不在身边，怎么利用示波器去debug一下信号呢？疫情下，居家办公或远程办公情况下，如何随时随地查看和分析示波器的波形？示波器不在身边，如何远程操控示波器并分析数据？怎么解？</p><p style="text-indent: 2em; text-align: left;">工程师测试时，经常需要保存测试数据和测试报告，但是有些公司因为保密要求，禁用USB接口；另外U盘拷来拷去，容易中毒，简单的保存数据变得如此费劲！有什么好的解决办法吗？怎么存？</p><p style="text-indent: 2em; text-align: left;">现在的系统越来越复杂，项目组越来越多地分散到不同地域，甚至是合作伙伴和供应商。许多工程师到示波器以外的环境中工作，很多公司是跨地区合作一个项目，如何随时随地安全访问示波器测试数据、达到即时共享和访问、协调办公、快速完成项目？怎么办？</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807860822039071.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">为了让工程师把宝贵的时间和精力用于研发，而不是花费大量的时间和精力研究示波器的使用和操作，为了增强示波器平台的通用性和远程操控以及协调办公，安全数据共享和访问，提高测试效率，即使示波器不在身边，利用TekScope PC软件帮助工程师能够随时随地远程操控泰克主流的所有示波器，从而实现不同型号示波器操作界面一致，让操作自由，并随时随地查看和分析示波器的波形。</p><p style="text-indent: 2em; text-align: left;">TekScope软件可以远程连接泰克所有主流示波器，从带宽70MHz轻薄便携新2系示波器到70GHz带宽的ATI示波器，可以随时随地实时采集和分析波形数据，让示波器随时触手可及。TekScope软件帮助工程师高效地处理、分析和共享数据，而不必靠近示波器或就在实验室测试环境里。TekScope软件能够在实验室以外的地方运行和测量，利用各种方式把实验室测量与仿真结果关联起来。</p><p style="text-indent: 2em; text-align: left;">TekScope PC软件支持多台示波器同时采集和分析，将多台不同系列或同系列的示波器同时采集并在同一个屏幕上查看和分析数据。重新排列通道信息，对多通道波形进行缩放和测量，提高查看更多通道数量的能力，所有通道波形都在一个视图中显示和分析，大大加快工作效率。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-06/21/zhijian/1655807883649030016.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">TekScope PC 软件帮助工程师把示波器的波形数据直接保存到TekDrive云端，并支持调用TekDrive云端的波形数据，利用示波器进行查看和分析，达到即时共享和访问，协调办公。</p> 
+  
+</div>
+            
