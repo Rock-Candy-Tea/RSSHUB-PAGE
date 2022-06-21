@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220621/1655784375_7256
 
 <div>   
 <p style="text-indent:2em;">
-于 2018 年推出后不久，合作生存冒险游戏《Raft》迅速流行起来，并获得了大量粉丝。这让当时仅有 3 人的开发商 Redbeet Interactive 感到非常吃惊，因为这部游戏仅是他们大学课程制作的作品。但如今，他们已经将这意想不到的成功转化为一部正式的游戏作品。
+于 2018 年推出后不久，合作<a target="_blank" href="https://www.3dmgame.com/tag/shengcun_1/">生存</a>冒险游戏《Raft》迅速流行起来，并获得了大量粉丝。这让当时仅有 3 人的开发商 Redbeet Interactive 感到非常吃惊，因为这部游戏仅是他们大学课程制作的作品。但如今，他们已经将这意想不到的成功转化为一部正式的游戏作品。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220621/1655784375_725653.png" alt="好评如潮求生游戏《Raft》今日退出抢先体验正式版发售" referrerpolicy="no-referrer"> 
