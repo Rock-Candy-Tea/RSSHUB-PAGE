@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=5897'
+headimg: 'https://picsum.photos/400/300?random=5944'
 author: 开源中国
 comments: false
 date: Tue, 21 Jun 2022 07:24:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5897'
+thumbnail: 'https://picsum.photos/400/300?random=5944'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Magisk 是一套开放源代码的 Android（5.0 以上版本）自定义工具套件，内置了 Magisk Manager（图形化管理界面）、Root、启动脚本、SElinux 补丁和启动时认证 /dm-verity/ 强制加密移除功能。Magisk 同时提供了在无需修改系统文件的情况下更改 /system 或 /vendor 分区内容的接口，利用与 Xposed 类似的模块系统，开发者可以对系统进行修改或对所安装的软件功能进行修改等。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Magisk 是一套开放源代码的 Android（5.0 以上版本）自定义工具套件，内置了 Magisk Manager（图形化管理界面）、Root、启动脚本、SElinux 补丁和启动时认证 /dm-verity/ 强制加密移除功能。Magisk 同时提供了在无需修改系统文件的情况下更改 /system 或 /vendor 分区内容的接口，利用与 Xposed 类似的模块系统，开发者可以对系统进行修改或对所安装的软件功能进行修改等。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Magisk 25.1 发布，更新内容如下：</p> 
 <ul style="margin-left:0; margin-right:0"> 
  <li>[MagiskBoot] 修正 ramdisk 备份被错误跳过的问题</li> 

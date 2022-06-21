@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3558'
+headimg: 'https://picsum.photos/400/300?random=5330'
 author: 开源中国
 comments: false
-date: Mon, 20 Jun 2022 23:52:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3558'
+date: Tue, 21 Jun 2022 07:51:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5330'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p><span style="color:#000000">Spring Tools 4.15.1 现已发布。Spring Tools 4 是由 Spring 团队打造的 Spring 开发工具，从零开始构建，融合了现代技术和开发者工具架构。它在单独的进程中运行，从构建之初就考虑到了性能问题，并且支持最新的 Spring 技术，为开发基于 Spring 的企业应用提供世界级支持。同时，全新版本的 Spring Tools 与 IDE 无关，可在各种编码环境中使用，支持 Eclipse、Visual Studio Code 与 Theia。</span></p> 
+                                                                                            <p><span style="color:#000000">Spring Tools 4.15.1 现已发布。Spring Tools 4 是由 Spring 团队打造的 Spring 开发工具，从零开始构建，融合了现代技术和开发者工具架构。它在单独的进程中运行，从构建之初就考虑到了性能问题，并且支持最新的 Spring 技术，为开发基于 Spring 的企业应用提供世界级支持。同时，全新版本的 Spring Tools 与 IDE 无关，可在各种编码环境中使用，支持 Eclipse、Visual Studio Code 与 Theia。</span></p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong><span><span style="color:#191e1e"><span><span><span><span><span><span><span><span><span><span><span><span><span><span>修复和改进</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></p> 
 <ul> 
  <li>(Spring Boot) fixed：VScode 错误地建议从方法中删除 @Autowired 注解 ( <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fsts4%2Fissues%2F787" target="_blank">#787</a> )</li> 

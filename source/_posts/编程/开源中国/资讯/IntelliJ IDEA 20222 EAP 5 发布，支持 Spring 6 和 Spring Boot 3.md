@@ -8,14 +8,13 @@ categories:
 headimg: 'https://oscimg.oschina.net/oscnet/up-88f3d8db55184a034f4d3ff537f869599f3.gif'
 author: 开源中国
 comments: false
-date: Mon, 20 Jun 2022 23:54:00 GMT
+date: Tue, 21 Jun 2022 07:53:00 GMT
 thumbnail: 'https://oscimg.oschina.net/oscnet/up-88f3d8db55184a034f4d3ff537f869599f3.gif'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>IntelliJ IDEA 2022.2 EAP 5 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fidea%2F2022%2F06%2Fintellij-idea-2022-2-eap-5%2F" target="_blank">发布</a>了，此版本带来了许多特定于框架的更新，包括对 Spring 6 和 Spring Boot 3 功能的支持、对 Websocket 和 GraphQL 请求的支持、对 HTTP 客户端的改进等等，还包括 Docker 和 Kubernetes 的一些新功能。</p> 
+                                                                                            <p>IntelliJ IDEA 2022.2 EAP 5 <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.jetbrains.com%2Fidea%2F2022%2F06%2Fintellij-idea-2022-2-eap-5%2F" target="_blank">发布</a>了，此版本带来了许多特定于框架的更新，包括对 Spring 6 和 Spring Boot 3 功能的支持、对 Websocket 和 GraphQL 请求的支持、对 HTTP 客户端的改进等等，还包括 Docker 和 Kubernetes 的一些新功能。</p> 
 <h2>框架和技术</h2> 
 <p><strong>Spring 6 和 Spring Boot 3</strong></p> 
 <p style="margin-left:0; margin-right:0; text-align:start"><span><span><span><span><span style="color:#27282c"><span><span><span><span><span><span><span><span><span><span><span><span style="background-color:#ffffff"><span><span><span>IntelliJ IDEA 2022.2 完全支持 Spring 6 和 Spring Boot 3 功能，包括新的<em>@AutoConfiguration </em>类和<em>@ConfigurationProperties </em>类。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> 

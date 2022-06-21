@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=4917'
+headimg: 'https://picsum.photos/400/300?random=7459'
 author: 开源中国
 comments: false
-date: Tue, 21 Jun 2022 00:20:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4917'
+date: Tue, 21 Jun 2022 08:19:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7459'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>unity-XCharts v3.0.1 已经发布，基于 UGUI 的数据可视化图表插件。</p> 
+                                                                                            <p>unity-XCharts v3.0.1 已经发布，基于 UGUI 的数据可视化图表插件。</p> 
 <p>此版本更新内容包括：</p> 
 <ul> 
  <li>(2022.06.16) 发布<code>v3.0.1</code>版本</li> 

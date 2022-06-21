@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-5870be6c84e0221bb80b4e3c21c84e1
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Pigsty v1.5.1 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3KcwPfxPs5UTgNY0tNx5ng" target="_blank">发布</a>，具体更新内容如下：</p> 
+                                                                                            <p>Pigsty v1.5.1 现已<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3KcwPfxPs5UTgNY0tNx5ng" target="_blank">发布</a>，具体更新内容如下：</p> 
 <h3><span><strong>内核</strong></span></h3> 
 <p><span>在PostgreSQL 14.0 至 14.3 中，出现了一个BUG。当你使用​​​​</span></p> 
 <pre><strong>CREATE INDEX CONCURRENTLY </strong>| <strong>REINDEX CONCURRENTLY</strong></pre> 
