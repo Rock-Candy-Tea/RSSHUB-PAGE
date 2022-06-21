@@ -1,0 +1,19 @@
+
+---
+title: 'LG NOVA再投资20家初创公司 每家10万美元'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0621/958319d47f37d4e.webp'
+author: cnBeta
+comments: false
+date: Tue, 21 Jun 2022 00:39:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0621/958319d47f37d4e.webp'
+---
+
+<div>   
+LG 北美创新中心（North American Innovation Center，简称 NOVA）是电子电器巨头 LG 旗下的内部创业孵化器，<strong>为了迎接全球挑战今天该机构宣布新选择了 20 家初创公司。每家公司都将获得 10 万美元的启动资金，用于与 LG 合作创建业务框架，加速商业化进程。</strong><br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0621/958319d47f37d4e.webp" alt="dtst00vq.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">LG 电子创新高级副总裁 Sokwoo Rhee 博士表示：“在过去的几个月里，我们与业内领先的 50 家初创公司的合作帮助我们继续完善对未来的愿景，因为我们着眼于 LG 的新增长领域”。</p><p style="text-align: left;">他继续说道：“迄今为止，所有参与者都以开创性、深思熟虑的技术创新推动并为我们的协作社区和‘由外而内’创新的指导原则做出贡献，我们深受鼓舞。通过此公告，我们将分享我们与初创企业和企业家社区合作的持续工作成果，以创造将引领社会走向未来的有影响力的技术”。</p><p style="text-align: left;">进入“智能生活方式和创新影响力”领域的下一阶段，LG Nova 选择的初创公司方向是“通过个性化服务改善生活”</p><p style="text-align: left;">● <a href="https://digbihealth.com/" target="_blank">Digbi</a>，一家探索肠道和遗传微生物组领域的医疗保健相关公司。</p><p style="text-align: left;">● <a href="https://www.akin.com/" target="_blank">a.kin</a>，用于智能家居的人工智能，旨在减轻医疗困难家庭的任务。</p><p style="text-align: left;">● <a href="https://chefling.com/" target="_blank">Chefling</a> 是一款智能<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Fcoll.jd.com%2Flist.html%3Fsub%3D1661" target="_blank">厨房</a>助手，可根据您的杂货收据中的成分提供烹饪食谱。</p><p style="text-align: left;">在互联健康领域，随着过去两年新技术在医疗保健领域的采用步伐加快，创新中心正在转向以患者为中心的护理和健康。 LG Nova 专注于开发提供服务的先进技术平台，选择：</p><p style="text-align: left;">● <a href="https://www.mayamd.ai/" target="_blank">May</a><a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 是一个对话式数字人类人工智能健康助手，利用人工智能为患者和提供者提供更多信息，以提供更好的健康服务。</p><p style="text-align: left;">● <a href="https://www.lifenome.com/" target="_blank">LifeNome</a> 是一个由基因组学和人工智能驱动的精准生物个性化企业健康平台。</p><p style="text-align: left;">● <a href="https://mindsetmedical.com/" target="_blank">Mindset Medical</a> 是一个基于摄像头传感器的技术平台，可以通过您的个人设备获取健康和生物读数，供医生远程进行医疗诊断。</p><p style="text-align: left;">在 XR 类别中，LG Nova 挑选了三家通过 XR/VR/AR 环境为患者提供“健康和保健服务的有效替代方案”的公司。</p><p style="text-align: left;">● <a href="https://www.xr.health/" target="_blank">XRHealth</a> 是一家虚拟护理诊所，通过 VR/AR 与临床医生和实时数据分析相结合，提供患者护理和康复服务。</p><p style="text-align: left;">● <a href="https://www.tripp.com/" target="_blank">TRIPP </a>是一个 XR 健康平台，开创了创新的健康和健康技术，通过完全沉浸式的替代现实加深与自我的联系。</p><p style="text-align: left;">● <a href="https://neurotrainer.com/" target="_blank">NeuroTrainer</a> 通过虚拟现实大脑训练提高注意力和表现。</p><p style="text-align: left;">在元宇宙领域，LG 正在寻求各种应用，旨在推动更广泛地采用新的沉浸式、交互式技术并创造更大的商机。入选者：</p><p style="text-align: left;">● <a href="https://iq3connect.com/" target="_blank">iQ3Connect</a> 提供了一个无代码平台，使企业能够在任何 AR、VR 或 2D 设备上的 Web 浏览器中创建、交付和使用元界中复杂的 3D 企业应用程序。</p><p style="text-align: left;">● <a href="https://snickerdoodlelabs.io/" target="_blank">Snickerdoodle Labs</a> 正在构建一个不可知论的数据共享层，使下一个网络中的个人能够通过完全数字化世界中的标记化数据架构控制并可能将其个人数据货币化。</p><p style="text-align: left;">● <a href="https://docs.google.com/spreadsheets/u/1/d/1RaXsgcTeAQIOG7AHGZ_ecZH0L9T7kiNr-oEVH2USNPM/edit" target="_blank">YBVR</a> 使用该技术为粉丝带来现场活动，以快速将流媒体直播视频内容转变为身临其境的体验。</p><p style="text-align: left;">最后，LG 的“Energizing Mobility”类别侧重于电动汽车领域和 EV 充电基础设施生态系统，这对于实现更可持续的未来至关重要：</p><p style="text-align: left;">● <a href="https://www.sparkcharge.io/" target="_blank">SparkCharge</a> 为电动汽车车主提供了一种经济实惠且方便的方式来为他们的电动汽车充电，而无需在家中或路上使用直接接入充电器。</p><p style="text-align: left;">● <a href="https://driivz.com/" target="_blank">Driivz</a> 提供了一个能源管理软件平台，该平台消除了商业地产向其客户提供电动汽车充电功能的复杂性。</p>   
+</div>
+            
