@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/27/a94f86637174a1dc1294c5362d1gu9b5.JPG?v=1655698084445'
 author: 巴哈姆特
 comments: false
-date: 2022-06-21 03:57:21
+date: 2022-06-21 04:30:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/a94f86637174a1dc1294c5362d1gu9b5.JPG?v=1655698084445'
 ---
 
@@ -221,7 +221,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/27/a94f86637174a1dc1294c5362d1gu9b5.
 <div>
  </div>
 <div>
-<b><span style="color:#ff8c00;">中山：</span></b>如果能夠成為傳統操作和 Modern Control Type 雙方，都可以在大賽當中存在的世界，那當然是在好也不過了。</div>
+<b><span style="color:#ff8c00;">中山：</span></b>如果能夠成為傳統操作和 Modern Control Type 雙方，都可以在大賽當中存在的世界，那當然是再好也不過了。</div>
 <div>
  </div>
 <div>

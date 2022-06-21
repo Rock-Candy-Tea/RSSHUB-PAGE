@@ -1,0 +1,18 @@
+
+---
+title: '【Steam】【福利】订阅邮件免费领取《Armor Of Heroes》，内涵详细教程'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1368440_j6Dcq.jpg'
+author: 小黑盒
+comments: false
+date: Tue, 21 Jun 2022 08:14:15 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1368440_j6Dcq.jpg'
+---
+
+<div>   
+<blockquote><p>订阅新闻邮件免费领取STEAM平台的《Armor Of Heroes》</p></blockquote><p><img data-gameid="1368440" src="https://cdn.max-c.com/heybox/game/header/1368440_j6Dcq.jpg" referrerpolicy="no-referrer"></p><p>领取方法：</p><p>1. 打开网页：https://community.companyofheroes.com/</p><p><img class="lazy" data-height="1093" src="https://imgheybox.max-c.com/web/2022/06/20/ed81ca168ca5d804be710d421e3a73b2/thumb.png" data-width="1397" referrerpolicy="no-referrer"></p><p>2. 右上角，登录/注册</p><p><img class="lazy" data-height="1093" src="https://imgheybox.max-c.com/web/2022/06/20/c158a856be60a8316fdc2b98af190266/thumb.png" data-width="1397" referrerpolicy="no-referrer"></p><p>3. 依次点击</p><p><img class="lazy" data-height="1162" src="https://imgheybox.max-c.com/web/2022/06/20/845549ac8e13f86e892cddc32e31b557/thumb.png" data-width="1630" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1153" src="https://imgheybox.max-c.com/web/2022/06/20/db511de48494b46983bd5a188603265e/thumb.png" data-width="1628" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1153" src="https://imgheybox.max-c.com/web/2022/06/20/8d924bfb4eeba9978891c28b3fb8e97a/thumb.png" data-width="1628" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1152" src="https://imgheybox.max-c.com/web/2022/06/20/8ad08337e2f333a2038f8424f395c046/thumb.png" data-width="1629" referrerpolicy="no-referrer"></p><p>4. 点击登录</p><p><img class="lazy" data-height="747" src="https://imgheybox.max-c.com/web/2022/06/20/86278a4adcee88bb78df6f0e4896504f/thumb.png" data-width="1625" referrerpolicy="no-referrer"></p><p>绑定成功</p><p><img class="lazy" data-height="1083" src="https://imgheybox.max-c.com/web/2022/06/20/32f6aa33792e8861d9fa68e7aadefbe1/thumb.png" data-width="1633" referrerpolicy="no-referrer"></p><p>5. 点击这里回到首页</p><p><img class="lazy" data-height="1083" src="https://imgheybox.max-c.com/web/2022/06/20/87660aa9d866bae444ecd58a7f633fe4/thumb.png" data-width="1633" referrerpolicy="no-referrer"></p><p>6. 点击“在STEAM上解锁（UNLOCK ON STEAM）”</p><p><img class="lazy" data-height="1329" src="https://imgheybox.max-c.com/web/2022/06/20/ace6a6aa7061f9eb73ccdce4acdc8d44/thumb.png" data-width="1632" referrerpolicy="no-referrer"></p><p>登录</p><p><img class="lazy" data-height="654" src="https://imgheybox.max-c.com/web/2022/06/20/402fdf8a89a8f2fec8abc388ecf57c80/thumb.png" data-width="1631" referrerpolicy="no-referrer"></p><p>允许</p><p><img class="lazy" data-height="576" src="https://imgheybox.max-c.com/web/2022/06/20/19a19e834d97940b98c3e6c3f38decb7/thumb.png" data-width="1641" referrerpolicy="no-referrer"></p><p>领取成功</p><p><img class="lazy" data-height="1079" src="https://imgheybox.max-c.com/web/2022/06/20/bcf30214afe355cb1edd0393b324b589/thumb.png" data-width="1632" referrerpolicy="no-referrer"></p><p>游戏简介：勾起无限情怀的坦克大战，如今焕然一新！现可 4 人 PVP 离线合作游戏，还可破坏周围场景，更有 9 种游戏模式等精彩内容等你体验。为庆祝 SEGA 60 周年，SEGA 在经典刺激的坦克大战游戏基础上，从 Relic Entertainment 的 Company of Heroes 系列导入图像素材和模型，制作出Armor of Heroes这款焕然一新的游戏。</p><p>都看到这里了，不妨给个关注评价充电转发<a href="heybox://open_subject" target="_blank">#steam游戏#</a><a href="heybox://open_subject" target="_blank">#单机游戏#</a><a href="heybox://open_subject" target="_blank">#pc游戏#</a><br></p>  
+</div>
+            
