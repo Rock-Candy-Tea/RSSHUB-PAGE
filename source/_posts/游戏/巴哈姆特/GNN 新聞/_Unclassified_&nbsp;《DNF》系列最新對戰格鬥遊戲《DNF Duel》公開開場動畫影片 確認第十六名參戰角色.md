@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/14/d4549597b900548224cc6aacf81gv925.PNG?v=1655809436019'
 author: 巴哈姆特
 comments: false
-date: 2022-06-21 11:13:16
+date: 2022-06-21 12:18:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/d4549597b900548224cc6aacf81gv925.PNG?v=1655809436019'
 ---
 
@@ -18,7 +18,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/d4549597b900548224cc6aacf81gv925.
 <div>
 <div>
 <div>
-　　以 NEXON 旗下知名線上動作遊戲《DNF（Dungeon & Fighter）》IP 為主題、由ARC SYSTEM WORKS 與 NEOPLE 共同開發製作的對戰格鬥遊戲《DNF Duel》今（21）日公開遊戲開場動畫影片。</div>
+　　以 NEXON 旗下知名線上動作遊戲《DNF（Dungeon & Fighter）》IP 為主題、由 ARC SYSTEM WORKS 與 NEOPLE 共同開發製作的對戰格鬥遊戲《DNF Duel》今（21）日公開遊戲開場動畫影片。</div>
 <div>
  </div>
 <div>
