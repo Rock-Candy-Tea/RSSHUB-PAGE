@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/99/1a8f6b409903fa286f4ff84d521guxj5.JPG?v=1655787681213'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:45
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/99/1a8f6b409903fa286f4ff84d521guxj5.JPG?v=1655787681213'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 <div>

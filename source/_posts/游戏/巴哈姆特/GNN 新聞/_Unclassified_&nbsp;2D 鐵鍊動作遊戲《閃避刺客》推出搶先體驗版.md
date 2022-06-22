@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/2452599e68c4818a9fa55cf3961gutz5.JPG?v=1655779167626'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/2452599e68c4818a9fa55cf3961gutz5.JPG?v=1655779167626'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 <div>

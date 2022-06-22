@@ -8,34 +8,32 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?v=1655826525491'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?v=1655826525491'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-ns"><a href="https://acg.gamer.com.tw/news.php?p=ns" target="_blank">Switch</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
-　　SQUARE ENIX 今日（6/21）宣布，預定今年夏季推出的角色扮演遊戲《勇者鬥惡龍 10 覺醒的五個種族 Offline（ドラゴンクエスト X 目覚めし五つの種族 オフライン）》（PS5 / PS4 / Switch / PC），現確定將於 9 月 15 日上市，超大型擴充 DLC「沉睡的勇者與指引的盟友」的推出時間順延至 2023 年春季。</div>
+　　SQUARE ENIX 今日（6/21）宣布，預定今年夏季推出的角色扮演遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20%E8%A6%BA%E9%86%92%E7%9A%84%E4%BA%94%E5%80%8B%E7%A8%AE%E6%97%8F%20Offline" target="_blank">勇者鬥惡龍 10 覺醒的五個種族 Offline</a>（ドラゴンクエスト X 目覚めし五つの種族 オフライン）》（PS5 / PS4 / Switch / PC），現確定將於 9 月 15 日上市，超大型擴充 DLC「沉睡的勇者與指引的盟友」的推出時間順延至 2023 年春季。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 64.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?v=1655826525491" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 64.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?v=1655826525491" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《勇者鬥惡龍 10 覺醒的五個種族 Offline》是以營運中的多人線上角色扮演遊戲《勇者鬥惡龍 10》1.0 版《覺醒的五個種族》的故事內容為基礎，製作成不需要連線就可以遊玩的單機 RPG。提供更平易近人、更容易上手的體驗。採用結合 2D 點陣圖與 3D Q 版角色的「DD 轉描」風格呈現，表現出懷舊又柔和的氛圍。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20%E8%A6%BA%E9%86%92%E7%9A%84%E4%BA%94%E5%80%8B%E7%A8%AE%E6%97%8F%20Offline" target="_blank">勇者鬥惡龍 10 覺醒的五個種族 Offline</a>》是以營運中的多人線上角色扮演遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010" target="_blank">勇者鬥惡龍 10</a>》1.0 版《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A6%BA%E9%86%92%E7%9A%84%E4%BA%94%E5%80%8B%E7%A8%AE%E6%97%8F" target="_blank">覺醒的五個種族</a>》的故事內容為基礎，製作成不需要連線就可以遊玩的單機 RPG。提供更平易近人、更容易上手的體驗。採用結合 2D 點陣圖與 3D Q 版角色的「DD 轉描」風格呈現，表現出懷舊又柔和的氛圍。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG?v=1655826607027" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG?v=1655826607027" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/a5645c14cb03a4fac11b9e69de1gvay5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -47,13 +45,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/90dc1c4814ce17381ac43289161dw3t5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG?v=1655826612075" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG?v=1655826612075" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/264a08b4538fbdc38a89e41a611gvaz5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　繼去年底宣布發售日從 2022 年 2 月延期至 2022 年夏季之後，如今官方終於確定《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20%E8%A6%BA%E9%86%92%E7%9A%84%E4%BA%94%E5%80%8B%E7%A8%AE%E6%97%8F%20Offline" target="_blank">勇者鬥惡龍 10 Offline</a>》將於稍晚的 9 月 15 日上市。此外，以《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20Online" target="_blank">勇者鬥惡龍 10 Online</a>》2.0 版資料片為主題的超大型擴充 DLC「沉睡的勇者與指引的盟友」，上市日期亦從先前延期時宣布的 2022 年秋季延後至 2023 年春季。</div>
+　　繼去年底宣布發售日從 2022 年 2 月延期至 2022 年夏季之後，如今官方終於確定《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20%E8%A6%BA%E9%86%92%E7%9A%84%E4%BA%94%E5%80%8B%E7%A8%AE%E6%97%8F%20Offline" target="_blank">勇者鬥惡龍 10 Offline</a>》將於稍晚的 9 月 15 日上市。此外，以《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%2010%20Online" target="_blank">勇者鬥惡龍 10 Online</a>》2.0 版資料片為主題的超大型擴充 DLC《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B2%89%E7%9D%A1%E7%9A%84%E5%8B%87%E8%80%85%E8%88%87%E6%8C%87%E5%BC%95%E7%9A%84%E7%9B%9F%E5%8F%8B" target="_blank">沉睡的勇者與指引的盟友</a>》，上市日期亦從先前延期時宣布的 2022 年秋季延後至 2023 年春季。</div>
 <div>
  </div>
 <h2>

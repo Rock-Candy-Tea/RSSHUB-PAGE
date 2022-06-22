@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/48/293305bcb5a51d4345c3dfb4681gva05.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/293305bcb5a51d4345c3dfb4681gva05.JPG'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-comic"><a href="https://acg.gamer.com.tw/news.php?p=comic" target="_blank">漫畫</a></li><li class="platform-anime"><a href="https://acg.gamer.com.tw/news.php?p=anime" target="_blank">動畫</a></li><li class="platform-novel"><a href="https://acg.gamer.com.tw/news.php?p=novel" target="_blank">輕小說</a></li><li class="platform-psp"><a href="https://acg.gamer.com.tw/news.php?p=psp" target="_blank">PSP</a></li><li class="platform-other"><a href="https://gnn.gamer.com.tw/undefined">其他</a></li><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-ns"><a href="https://acg.gamer.com.tw/news.php?p=ns" target="_blank">Switch</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　BANDAI NAMCO Entertainment 宣布，由 CyberConnect2 開發、2002 年 6 月 20 日在 PS2 主機問世的角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%89%B5%E4%B8%96%E7%B4%80%E5%82%B3%E8%AA%AA" target="_blank">創世紀傳說</a>（.hack ）》，於昨日（6/20）迎接上市 20 周年，並同步公開紀念宣傳影片。</div>

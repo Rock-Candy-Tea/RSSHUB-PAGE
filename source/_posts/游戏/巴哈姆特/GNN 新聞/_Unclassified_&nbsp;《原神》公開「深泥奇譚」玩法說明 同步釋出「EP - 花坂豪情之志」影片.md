@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/57/e56ac8342780e7cd6758f6631b1guz55.JPG?v=1655793810695'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/e56ac8342780e7cd6758f6631b1guz55.JPG?v=1655793810695'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-olg"><a href="https://acg.gamer.com.tw/news.php?p=olg" target="_blank">PC 線上</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　由 HoYoverse 推出的開放多平台世界動作 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8E%9F%E7%A5%9E" target="_blank">原神</a>》（iOS / Android / PC / PlayStation 4 / PlayStation 5）於近日釋出「EP - 花坂豪情之志」影片。此外，官方也公開「深泥奇譚」玩法說明。</div>

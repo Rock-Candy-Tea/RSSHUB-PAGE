@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/41/58529f23d13aa840509906d3f91gvfd5.JPG?v=1655868225036'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/41/58529f23d13aa840509906d3f91gvfd5.JPG?v=1655868225036'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ns"><a href="https://acg.gamer.com.tw/news.php?p=ns" target="_blank">Switch</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　Epic Games 近日宣布，旗下大逃殺遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A6%81%E5%A1%9E%E8%8B%B1%E9%9B%84" target="_blank">要塞英雄</a>（Fortnite）》將再次與集英社、Studio Pierrot 合作，推出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85+%E7%96%BE%E9%A2%A8%E5%82%B3" target="_blank">火影忍者 疾風傳</a>》的第二波合作，並帶來四名全新角色「我愛羅」、「日向雛田」、「大蛇丸」、「宇智波鼬」。</div>

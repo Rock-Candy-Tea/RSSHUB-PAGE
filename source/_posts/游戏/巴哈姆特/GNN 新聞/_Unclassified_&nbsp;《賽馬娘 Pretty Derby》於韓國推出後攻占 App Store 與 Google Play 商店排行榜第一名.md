@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-web"><a href="https://acg.gamer.com.tw/news.php?p=web" target="_blank">Web</a></li><li class="platform-ios"><a href="https://acg.gamer.com.tw/news.php?p=ios" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i>iOS</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　根據 <a href="https://www.4gamer.net/games/414/G041434/20220622005/" target="_blank">4Gamer</a> 報導指出，由 Kakao Games 代理發行，Cygames 開發的《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B3%BD%E9%A6%AC%E5%A8%98+Pretty+Derby" target="_blank">賽馬娘 Pretty Derby</a>（ウマ娘プリティーダービー）》（iOS / Android / PC）韓國版本在 2022 年 6 月 20 日發行後，迅即在韓國的 App Store 與 Google Play 商店排行榜上登上第一名的位置。</div>

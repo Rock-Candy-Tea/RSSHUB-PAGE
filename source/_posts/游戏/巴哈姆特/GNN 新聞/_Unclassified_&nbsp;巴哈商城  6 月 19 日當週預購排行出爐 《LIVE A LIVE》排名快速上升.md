@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/31/971052413e74748b7be70b583e1gl5n5.JPG?v=1655755690281'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:45
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/971052413e74748b7be70b583e1gl5n5.JPG?v=1655755690281'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-other"><a href="https://gnn.gamer.com.tw/undefined">其他</a></li><li class="platform-pc"><a href="https://acg.gamer.com.tw/news.php?p=pc" target="_blank">PC 單機</a></li><li class="platform-ps4"><a href="https://acg.gamer.com.tw/news.php?p=ps4" target="_blank">PS4</a></li><li class="platform-xbone"><a href="https://acg.gamer.com.tw/news.php?p=xbone" target="_blank">Xbox One</a></li><li class="platform-ns"><a href="https://acg.gamer.com.tw/news.php?p=ns" target="_blank">Switch</a></li><li class="platform-ps5"><a href="https://acg.gamer.com.tw/news.php?p=ps5" target="_blank">PS5</a></li><li class="platform-xbsx"><a href="https://acg.gamer.com.tw/news.php?p=xbsx" target="_blank">Xbox SX</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　每週公布的遊戲資訊繁多，相信有不少巴友都想知道哪些遊戲已經可以預購了？哪些遊戲快要推出了？其他玩家最期待哪款新作？為了幫助玩家更加便利地選購遊戲，GNN 將每週定期刊載巴哈商城當週的實體預購排行榜，供玩家參考。</div>

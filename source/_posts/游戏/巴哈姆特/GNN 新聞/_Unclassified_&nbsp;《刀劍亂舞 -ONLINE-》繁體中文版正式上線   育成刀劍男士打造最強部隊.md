@@ -8,13 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/09/bd70710ce008468dc211d98b831gveh5.JPG?v=1655866492584'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 07:08:44
+date: 2022-06-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/09/bd70710ce008468dc211d98b831gveh5.JPG?v=1655866492584'
 ---
 
 <div>   
-<ul class="platform-tag"><li class="platform-web"><a href="https://acg.gamer.com.tw/news.php?p=web" target="_blank">Web</a></li><li class="platform-android"><a href="https://acg.gamer.com.tw/news.php?p=android" target="_blank"><i class="fa fa-android" aria-hidden="true"></i>Android</a></li></ul>
-<!-- 新聞內容 -->
 <div>
 <div>
 　　知名擬人化日本刀題材作品《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" target="_blank">刀劍亂舞</a> -ONLINE-》繁體中文版正式在日系遊戲平台「Johren」登場。遊戲中玩家將育成名刀、名槍化身而成的「刀劍男士」，打造最強部隊，為了維護「歷史正確性」穿越時空，馳騁知名戰場，與「歷史修正主義者」展開殊死對決。</div>
