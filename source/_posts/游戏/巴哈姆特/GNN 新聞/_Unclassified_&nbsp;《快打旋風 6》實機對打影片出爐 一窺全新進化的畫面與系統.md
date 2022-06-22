@@ -8,12 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/32/09da4cce119f6cdcd2ea2d88361gvcc5.JPG?v=1655832613436'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 09:08:51
+date: 2022-06-22 10:11:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/09da4cce119f6cdcd2ea2d88361gvcc5.JPG?v=1655832613436'
 ---
 
 <div>   
-<div>
 <div>
 <div>
 　　CAPCOM 旗下對戰格鬥遊戲代表作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8" target="_blank">快打旋風</a>（Street Fighter）》系列最新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+6" target="_blank">快打旋風 6</a>（Street Fighter 6）》確定將於 2023 年在 PS5、PS4、Xbox Series X|S 與 Steam 平台推出。在官方的協助下，巴哈姆特取得了最新的實機試玩影片，展示不同的角色及戰鬥方式，亦能聽到英文及日文版本的即時旁白。</div>
@@ -53,8 +52,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/09da4cce119f6cdcd2ea2d88361gvcc5.
 </div>
 <div>
  </div>
-</div>
-<div>
 <div>
 　　這次的新作中新增名為「Drive System」的全新對戰系統，透過使用動力槽和 5 種對戰系統，可增加戰術的自由度和充分發揮玩家的個性，讓對戰中的策略更為白熱化。</div>
 <div>
@@ -93,7 +90,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/09da4cce119f6cdcd2ea2d88361gvcc5.
 遊戲資訊</h2>
 <ul>
 <li>
-遊戲名稱：<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+6" target="_blank">快打旋風 6</a></li>
+遊戲名稱：<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+6" target="_blank">快打旋風 6</a></li>
 <li>
 遊戲原名：Street Fighter 6</li>
 <li>
@@ -119,9 +116,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/32/09da4cce119f6cdcd2ea2d88361gvcc5.
 <li>
 官方網站：<a href="https://www.streetfighter.com/6/" target="_blank">https://www.streetfighter.com/6/</a></li>
 </ul>
-</div>
-<div>
- </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="53779" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 09:08:51
+date: 2022-06-22 10:11:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161'
 ---
 
@@ -21,13 +21,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 68.48%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 68.48%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?v=1655867150161" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/dab1bb5403483e99133534a5611gvf65.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 148.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG?v=1655867194784" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG 2x" style="max-width: unset;" title="圖片來源：4Gamer" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 148.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG?v=1655867194784" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/8902cebd814ecec45e72c00ff41gvf75.PNG 2x" style="max-width: unset;" title="圖片來源：4Gamer" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 圖片來源：4Gamer</figure>
 </li>
