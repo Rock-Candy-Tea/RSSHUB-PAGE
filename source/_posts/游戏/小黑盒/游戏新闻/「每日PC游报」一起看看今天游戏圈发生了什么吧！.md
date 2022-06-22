@@ -1,0 +1,21 @@
+
+---
+title: '「每日PC游报」一起看看今天游戏圈发生了什么吧！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/06/22/5a3a4284dc1e4bbd9401ce6e0a8d41481655866809.jpg'
+author: 小黑盒
+comments: false
+date: 2022-06-22 15:10:44
+thumbnail: 'https://i1.max-c.com/imgx/2022/06/22/5a3a4284dc1e4bbd9401ce6e0a8d41481655866809.jpg'
+---
+
+<div>   
+<blockquote><p>每日新鲜事，新闻短回顾</p></blockquote><h1>《星空》拥有更丰富的手工打造内容 有经典开场</h1><blockquote><p>来源：3DMGame</p></blockquote><p>B社旗下RPG大作《星空》是一款雄心勃勃的游戏，这是全新的IP，拥有充满独特传说的广阔星系。该作有超过1000个星球供玩家探索，但很多星球都是程序随机生成的，并非全部都由手工打造。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/06/22/5a3a4284dc1e4bbd9401ce6e0a8d41481655866809.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p>许多玩家担心《星空》充斥着由程序随机生成的重复内容。Todd 
+Howard声称《星空》里也有大量手工打造的内容，比以往任何一部B社游戏都多。Howard表示《星空》的程序生成系统非常有活力，足以应付上百个星系。他还强调《星空》里有清晰明确、贯穿全局的主线路径，代表了B社粉丝想要的那种完整、手工打造的RPG内容。</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83503181">点击查看新闻详情 >></a></p><h1>《瘟疫传说：安魂曲》官方公布最新美术概念图</h1><p>近日，Asobo Studio为了预热将在6月24日举办的《瘟疫传说：安魂曲》情报直播活动，放出了本作的最新美术概念图，并配文：“每一束光，都是一线希望。”</p><p>此前官方确认，将于该直播活动上公开最新的游戏情报，包括具体发售日和正式预告等内容。</p><img class="lazy" data-height="338" src="https://i1.max-c.com/imgx/2022/06/22/2fb4918ee61046abb94899109fe4f0dd1655860988.jpg" data-width="600" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83487296">点击查看新闻详情 >></a></p><h1>DICE称将负荆请罪！专注于《战地2042》，没时间做别的</h1><p>随着《2042》第一赛季的更新，该作的游玩人数逐渐回暖。近日，DICE新任总经理接受采访表示，该工作室“没有时间”去开发非《战地》项目，因为他们希望在FPS游戏市场中确立自己的领先地位，并且尽全力弥补游戏的不足！</p><img class="lazy" data-height="309" src="https://i1.max-c.com/imgx/2022/06/22/e543f1ae10134a568864cffac4bc0f4b1655859126.png" data-width="550" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83486455">点击查看新闻详情 >></a></p><h1>《最终幻想16》不是开放世界游戏 能同时让粉丝和新玩家满意</h1><blockquote><p>来源：3DMGame</p></blockquote><p>《最终幻想16》首次曝光时，许多粉丝以为该作会追随前作脚步，成为一款大规模的开放世界RPG。然而制作人吉田直树明确表示，《最终幻想16》不会是一款开放世界游戏。</p><p><img class="lazy" data-height="506" src="https://i1.max-c.com/imgx/2022/06/22/b577e4cf999d4a8695dee67837a2d9df1655884831.jpg" data-width="900" referrerpolicy="no-referrer"></p><p>近日吉田直树接受外媒IGN采访，他说《最终幻想16》将专注于区域化设计，类似于《宝可梦：阿尔宙斯》。虽然《最终幻想16》不是开放世界游戏，但吉田直树表示他们从许多3A级开放世界RPG游戏那获得了很多灵感。</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83520420">点击查看新闻详情 >></a></p><h1>XGP六月下旬新增游戏公布 ，含《永劫无间》、《全战：三国》</h1><p>微软于近日公布了Xbox Game Pass订阅服务在6月下旬的新增游戏阵容，本次的入库阵容非常不错，包含了《FIFA 22》、《永劫无间》以及《全面战争：三国》等知名游戏。</p><p><img class="lazy" data-height="338" src="https://i1.max-c.com/imgx/2022/06/22/f694898632184c8288b5bfca63c311f01655858582.jpg" data-width="600" referrerpolicy="no-referrer"></p><p>XGP六月下旬新增游戏阵容如下：</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83486283">点击查看新闻详情 >></a></p><h1>索尼PlayStation确认不会参加今年的科隆展</h1><blockquote><p>来源：3DMGame</p></blockquote><p>近日据外媒VGC报道，索尼PlayStation确认不会参加今年的科隆国际游戏展。此外，包括任天堂、动视暴雪和Take-Two在内的其他厂商都表示不会参加此次展会。</p><p><img class="lazy" data-height="420" src="https://i1.max-c.com/imgx/2022/06/22/9ac1163716884cb5ab69bf873106cdc51655857809.jpg" data-width="800" referrerpolicy="no-referrer"></p><p>在发给Games 
+Wirtschaft的声明中，PlayStation发言人证实公司不会参加今年的科隆展。这也意味着PSVR2或《战神：诸神黄昏》不会在科隆展上亮相并公布新消息。</p><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83486049">点击查看新闻详情 >></a></p><h1>《卧龙》制作人：这回没有残心！也不用满地刷装备了</h1><p>由Team Ninja制作，以三国为题材的游戏新作《卧龙：苍天陨落（Wo Long: Fallen Dynasty）》近期受到了国内外玩家的关注。最近，该游戏的制作人安田文彦与山际真晃也接受了日媒采访，以下为部分要点总结：</p><img class="lazy" data-height="450" src="https://i1.max-c.com/imgx/2022/06/22/1307cdda71a146129f006e2f77f7cdfd1655883123.jpg" data-width="800" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83518277">点击查看新闻详情 >></a></p><h1>《对马岛之鬼》团队开放世界新作包含潜行近战要素</h1><blockquote><p>来源：游久网</p></blockquote><p>此前开发了《对马岛之鬼》的索尼旗下工作室Sucker 
+Punch，通过这款游戏向玩家展示了自身的开放世界游戏设计实力，获得口碑和销量双丰收的同时，也开始为新作招募制作人员。从该工作室最新的招聘信息来看，这款新作不单是开放世界，而且还有潜行要素。</p><img class="lazy" data-height="309" src="https://i1.max-c.com/imgx/2022/06/22/ba2a1e744e60426788c32112bfcb53e61655865032.jpg" data-width="550" referrerpolicy="no-referrer"><p><a href="https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=83492569">点击查看新闻详情 >></a></p>  
+</div>
+            
