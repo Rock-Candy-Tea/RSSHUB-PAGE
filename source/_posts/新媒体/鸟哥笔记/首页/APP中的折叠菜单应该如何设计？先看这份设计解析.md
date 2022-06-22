@@ -1,0 +1,78 @@
+
+---
+title: 'APP中的折叠菜单应该如何设计？先看这份设计解析'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://ngbjimg.xy599.com/3813620862b2b282b68a67.81689189.png'
+author: 鸟哥笔记
+comments: false
+date: Wed, 22 Jun 2022 06:19:59 GMT
+thumbnail: 'https://ngbjimg.xy599.com/3813620862b2b282b68a67.81689189.png'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <div id="js_content">
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-darkmode-bgcolor-16444203398483="rgb(25, 25, 25)" data-darkmode-original-bgcolor-16444203398483="#fff|rgb(255, 255, 255)" data-darkmode-color-16444203398483="rgb(163, 163, 163)" data-darkmode-original-color-16444203398483="#fff|rgb(163, 163, 163)">大家好，这里是设计夹，今天为大家分享的是「折叠菜单」。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">折叠菜单(Accordion)，又称手风琴菜单，是在页面中垂直堆叠的菜单列表，通过展开/折叠来显示或隐藏更多菜单内容。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">接下里通过讲解折叠菜单的构成、样式和设计解析来更进一步了解折叠菜单的运用～</p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">折叠菜单的构成</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">状态</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">折叠菜单的状态包括收起、展开、悬停、选中、禁用状态等。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/3813620862b2b282b68a67.81689189.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">展开图标的位置</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">在折叠菜单中，通常用“V形”图标表示菜单展开/收起的状态。“V形”图标可以在左侧，也可以放在右侧，用来表示状态。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/196810602462b2b28305ad14.13041376.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">除了使用最常见的“V形”图标，还可以用以下图标来代替：上/下填充图标；加号/减号；向上/向下箭头。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/186797349162b2b2833fefb2.16734667.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">附加图标</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">当我们把展开图标放在右侧的情况下，我们可以面板左侧设计一些图标，来增强菜单的含义，并让页面看起来更精致。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/163637915262b2b28390ecf6.69474949.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">在某些场景下，还可以通过使用不同的颜色，更加直观地分隔每个菜单。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/135338165362b2b283cc7555.72780446.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">折叠菜单的样式</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>封闭式折叠菜单</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">在页面设计中，大多数情况下都是使用封闭式折叠面板。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">通过一条浅色的的分隔线将不同的菜单分隔开，这种样式的优点是可以节省一些竖向的屏幕空间，尤其是在移动端屏幕尺寸较小的情况下。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/67090071462b2b2841a8657.35566584.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>分离式折叠菜单</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">分离式折叠面板常用在桌面端中，每个菜单的展示更清晰，设计样式更简洁。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/197979010862b2b2845a81e7.63806980.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>突出显示展开菜单</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">突出显示菜单展开的状态，这样在多个折叠菜单打开的情况下，用户也能清晰找到需要的信息。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">常用的突出显示的方式有：增加阴影、背景填充、轮廓描边等。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"> </p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/91133875862b2b28496f262.25762816.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">例如在页面背景是白色的情况下，我们可以使用透明度很低的灰色作为下拉菜单的背景，更清晰地展示展开的菜单。另外，还可以为下来菜单填充和品牌色一致的颜色描边，起到强调品牌的效果。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/25984632262b2b284e53f75.56528222.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">折叠菜单设计解析</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>展示预览</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">通过在主菜单的下面添加已选择的内容，这样在不需要展开面板的情况下，用户就能知道选择了哪些内容，进一步提高操作效率。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/186062379662b2b2853334b4.70553066.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>数字徽标</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">当已选内容太多时，我们不可能将这些内容全部在主菜单罗列出来，在这样的情况下，可以使用数字徽标的形式来展示已选择的菜单数。这样的设计有点像购物车中不断变化的数字徽标，告诉用户加购的数量。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/33502594662b2b285875479.47324896.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong>提示文案</strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">通过在折叠面板中添加提示文案，起到辅助作用，展示更多和菜单相关的信息。这种设计形式更适合用在移动端中，在有限的屏幕尺寸上尽可能多的展示内容。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/134265422762b2b285c31c44.88223907.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">移动端应用样式</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">等宽使用：在移动端中使用等宽的折叠菜单，方方便用户点击操作。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/203062645162b2b2860d2ef3.16839066.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">侧边栏：将折叠菜单放在侧边的导航抽屉中，点击左上角的图标来展开菜单项。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/119874110862b2b286656645.69220434.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">菜单筛选：将侧边栏与折叠面板配合使用，实现菜单筛选的功能。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/11374730962b2b286a34695.35049163.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">桌面端应用样式</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">侧边导航：和移动端类似，桌面端最常用的方法是把折叠菜单放到页面左侧，作为网页的侧边导航使用。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/88833395362b2b286dd34a7.78736877.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">过滤器：根据桌面端的页面布局结构，折叠菜单可以放在页面左侧或右侧，实现精确查找、内容过滤等功能。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/188725434862b2b28721a048.83018913.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">最后</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">以上就是折叠菜单的设计解析及设计应用，希望通过这些知识能帮你进一步了解折叠菜单的用法。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/51747278662b2b287747c10.10024731.png" title="APP中的折叠菜单应该如何设计？先看这份设计解析" alt="APP中的折叠菜单应该如何设计？先看这份设计解析" referrerpolicy="no-referrer"></p>
+</div>                        <div style="height: 1px"></div>
+                      
+</div>
+            
