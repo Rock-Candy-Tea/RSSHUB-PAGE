@@ -5,11 +5,11 @@ categories:
  - 金融
  - 格隆汇
  - 主题文章
-headimg: 'https://picsum.photos/400/300?random=2989'
+headimg: 'https://picsum.photos/400/300?random=583'
 author: 格隆汇
 comments: false
 date: Tue, 21 Jun 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2989'
+thumbnail: 'https://picsum.photos/400/300?random=583'
 ---
 
 <div>   
