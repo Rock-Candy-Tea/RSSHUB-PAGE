@@ -271,8 +271,8 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
 <a href="https://www.3dmgame.com/news/202206/3845005.html" target="_blank"><i></i>谷歌创始人布林申请离婚：妻子华裔 岳母是中国人</a>
 <a href="https://www.3dmgame.com/news/202206/3845000.html" target="_blank"><i></i>暴雪团队：《暗黑破坏神4》是给玩家的一封情书</a>
 <a href="https://www.3dmgame.com/news/202206/3845186.html" target="_blank"><i></i>腾讯《三体》电视剧预告及海报 实力派演员阵容强大</a>
-<a href="https://www.3dmgame.com/news/202206/3845075.html" target="_blank"><i></i>《暗黑破坏神：不朽》延期公告 亚服7月8日推出</a>
 <a href="https://www.3dmgame.com/news/202206/3845243.html" target="_blank"><i></i>《魔兽世界：巨龙时代》开启预购 国服238元起</a>
+<a href="https://www.3dmgame.com/news/202206/3845075.html" target="_blank"><i></i>《暗黑破坏神：不朽》延期公告 亚服7月8日推出</a>
 <a href="https://www.3dmgame.com/news/202206/3845076.html" target="_blank"><i></i>传《生化4重制版》艾达王换动捕演员 华裔美女引热议</a>
 <a href="https://www.3dmgame.com/news/202206/3845192.html" target="_blank"><i></i>新版《仙剑》阵容官宣：何与饰李逍遥 杨雨潼饰赵灵儿</a>
 </div>

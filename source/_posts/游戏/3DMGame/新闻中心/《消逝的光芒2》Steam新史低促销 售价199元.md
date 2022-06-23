@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220623/1655989956_5318
 <a target="_blank" href="https://www.3dmgame.com/tag/kaifangshijie_1/">开放世界</a>僵尸<a target="_blank" href="https://www.3dmgame.com/tag/paoku_1/">跑酷</a>游戏《<a target="_blank" href="https://www.3dmgame.com/games/dyinglight2/">消逝的光芒2</a>》现已在Steam开启促销，标准版原价299元，现价199元，为新史低。豪华版原价399元，现价299元。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220623/1655989956_531851.jpg" alt="《消逝的光芒2》Steam新史低促销 售价199元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220623/1655989956_531851.jpg" alt="《消逝的光芒2》Steam新史低促销 售价199元" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 官方表示在过去的几个月中他们在游戏中加入了非常有趣的免费内容，这包括服装和武器包、新游戏+、照片模式或游戏中事件等等。这些只是Techland 
@@ -26,8 +26,11 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220623/1655989956_5318
 <p style="text-indent:2em;">
 《消逝的光芒2》2022年2月4日发售，Steam多半好评。
 </p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220623/1655991428_781699.jpg" alt="《消逝的光芒2》Steam新史低促销 售价199元" referrerpolicy="no-referrer"> 
+</p>
 <p style="text-indent:2em;">
-官方新闻稿：
+<strong>官方新闻稿：</strong> 
 </p>
 <p style="text-indent:2em;">
 以超低折扣价购入《消逝的光芒 2 人与仁之战》
