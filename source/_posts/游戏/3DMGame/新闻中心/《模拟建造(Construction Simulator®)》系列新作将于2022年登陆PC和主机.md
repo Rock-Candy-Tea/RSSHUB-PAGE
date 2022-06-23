@@ -378,6 +378,14 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
         <div class="lin"></div>
     </div>
     <div class="list">
+                    <a href="https://www.3dmgame.com/original/3743642.html" target="_blank">
+                <img data-original="https://img.3dmgame.com/uploads/images/thumborigfirst/20220623/1655990526_895011.png">
+                <div class="tex">
+                    <p>为什么人人都爱“变身”?</p>
+                    <span class="sp1"><i></i></span>
+                    <span class="sp2"><i></i>廉颇</span>
+                </div>
+            </a>
                     <a href="https://www.3dmgame.com/original/3743641.html" target="_blank">
                 <img data-original="https://img.3dmgame.com/uploads/images/thumborigfirst/20220622/1655911528_829713.jpg">
                 <div class="tex">
@@ -400,14 +408,6 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
                     <p>年轻人的第一款飞机杯，何必是飞机杯</p>
                     <span class="sp1"><i></i>事件</span>
                     <span class="sp2"><i></i>ROOT</span>
-                </div>
-            </a>
-                    <a href="https://www.3dmgame.com/original/3743639.html" target="_blank">
-                <img data-original="https://img.3dmgame.com/uploads/images/thumborigfirst/20220621/1655798378_237181.jpg">
-                <div class="tex">
-                    <p>在这款武侠游戏里，你甚至可以易容成NPC</p>
-                    <span class="sp1"><i></i>事件</span>
-                    <span class="sp2"><i></i>廉颇</span>
                 </div>
             </a>
             </div>

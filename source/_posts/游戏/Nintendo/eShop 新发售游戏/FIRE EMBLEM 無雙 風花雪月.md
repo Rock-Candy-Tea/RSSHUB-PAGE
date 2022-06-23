@@ -8,16 +8,13 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/70010000050752.jpeg'
 author: Nintendo
 comments: false
-date: 2022-06-23 14:09:09
+date: 2022-06-23 15:12:24
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000050752.jpeg'
 ---
 
 <div>   
 <img src="https://www.nintendo.com.hk/software/img/bnr/70010000050752.jpeg" referrerpolicy="no-referrer"><br><strong>发售日期：</strong>2022.6.24<br><strong>价格：</strong>港币<br><strong>支持中文：</strong>是<br><strong>发行商：</strong>Nintendo<br>
-        <div class="value"><p><span style="color: #ff0000;"><strong>此為預購商品，可於2022年6月19日開始兌換及下載，並於2022年6月24日起開始遊玩。</strong></span></p>
-<p><span style="color: #ff0000;"><strong>(請注意 : 購買完成後會即時發出遊戲軟體下載序號，最早可於遊戲發售日5日前開始兌換及下載。)</strong></span></p>
-<p> </p>
-<p>※遊戲畫面為英文版遊戲內容，本作對應中文。</p>
+        <div class="value"><p>※遊戲畫面為英文版遊戲內容，本作對應中文。</p>
 <p>三個國家、三種命運，以及您的另一個故事。</p>
 <p> </p>
 <p>以由三股勢力所統治的大地――芙朵拉作為舞台，<br>描繪了彼此的正義互相交錯的戰場的《Fire Emblem 風花雪月》。<br>本作繼承了原作的世界與人物角色，<br>交織出或許同樣在芙朵拉大地中發生過的全新故事。</p>
@@ -35,7 +32,9 @@ thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/70010000050752.jpeg'
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;">【下載版購買特典】貓頭鷹的棲木<br>在前哨基地自己的房間前，貓頭鷹會定期出現。<br>與貓頭鷹交談，便可得到禮物「傳信貓頭鷹的羽毛」。<br>使用「傳信貓頭鷹的羽毛」，與使用對象的支援值便會提升。</td>
+<td style="width: 100%;">
+<p>【下載版購買特典】貓頭鷹的棲木<br>在前哨基地自己的房間前，貓頭鷹會定期出現。<br>與貓頭鷹交談，便可得到禮物「傳信貓頭鷹的羽毛」。<br>使用「傳信貓頭鷹的羽毛」，與使用對象的支援值便會提升。</p>
+</td>
 </tr>
 </tbody>
 </table>
