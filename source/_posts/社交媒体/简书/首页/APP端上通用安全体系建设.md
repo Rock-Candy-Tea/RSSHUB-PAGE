@@ -1,0 +1,181 @@
+
+---
+title: 'APP端上通用安全体系建设'
+categories: 
+ - 社交媒体
+ - 简书
+ - 首页
+headimg: 'https://upload-images.jianshu.io/upload_images/1460468-fb9520073aedff2d.png'
+author: 简书
+comments: false
+date: Invalid Date
+thumbnail: 'https://upload-images.jianshu.io/upload_images/1460468-fb9520073aedff2d.png'
+---
+
+<div>   
+<h3>1、背景：APP端上安全在谈什么</h3>
+<p>APP的每个业务场景都有其既定的运行模式，若被人为破坏就可认为是不安全的。举个栗子，比如秒杀场景：大量用户在特定时间点，通过点击抢购来秒杀优惠商品，从而营造一种紧迫而有噱头的营销场景，但如果能通过非法手段自动抢购、甚至提前开始刷接口抢购，那就彻底破坏了业务的玩法，这就是一种不安全的运行模式。再比如常用的用户拉新场景：新客获取成本高达200左右，所有产品的拉新投入都蛮高，如何获得真正的新用户而不是羊毛党也是拉新必须处理的事，一般而言，新设备+新账户是新用户的基本条件，但新账户的成本其实不高，大部分是要靠新设备来识别的，但如果能通过非法手段不断模拟新设备，那拉新投入获取的可能大部分都是无效的羊毛党，这也可看做是一种不安全的运行场景，甚至还有二次篡改，构建马甲APP等各种场景。而APP端上安全要做的就是甄别并防范这种异常场景的发生，简而言之它就是：一种确保<strong>官方APP</strong>在<strong>既定业务模型</strong>中运行的能力。</p>
+<h3>2、APP端上安全体系应该具备哪些能力</h3>
+<p>一个安全体系要具备哪些能力呢，简单说两块：<strong>风险甄别与风险防御</strong>。即一：甄别运行环境是否安全的能力，二：针对不同的场景作出不同的防御的能力，场景千变万化，所以防御手段也没有一剑破万法的能力，基本都要根据具体的风险场景，产出不同的应对方案，但是整体涉及的流程基本一致，如下：</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="976" data-height="294"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-fb9520073aedff2d.png" data-original-width="976" data-original-height="294" data-original-format="image/png" data-original-filesize="34927" src="https://upload-images.jianshu.io/upload_images/1460468-fb9520073aedff2d.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">1 流程.png</div>
+</div>
+<p>要做的事情就是围绕四个阶段构建不同的能力。先看第一阶段：风险场景的假设，预判有哪些风险场景，从AppStore或者官方应用市场下载，安装、正常使用，这是理想中的运行模式，但不安分的用户千千万，异常场景也多变，不存在一剑破万法的说法，这里人为做了一些场景归类：</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1124" data-height="1297"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-4910a72b0cbe20a4.png" data-original-width="1124" data-original-height="1297" data-original-format="image/png" data-original-filesize="239089" src="https://upload-images.jianshu.io/upload_images/1460468-4910a72b0cbe20a4.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">2 APP 安全场景.png</div>
+</div>
+<p>从实践来看，安全模型必须覆盖的场景包含上述四类，即</p>
+<blockquote>
+<p>一： 运行的APP非官方应用</p>
+</blockquote>
+<p>这种情况一般是非法用户为了谋求特定的权益，对原装APP进行魔改二次打包后发布，这对于一些广告类、离线付费类APP是一种毁灭性的打击，最常见的就是一些APP会在闪屏页面投放广告，从而获取收益，但一旦这个业务逻辑被篡改绕过，那么广告收益直接归零；还有些情况APP被碰瓷，魔改一些功能，跳转到非官方设定的网站，比如在比较火的APP添加劫持逻辑，跳转到一些黄赌网站，这给官方APP带来的负面影响是难易估量的，如果不能自证清白，甚至还会面临法律上的追责。</p>
+<blockquote>
+<p>二：业务的运转模型被篡改</p>
+</blockquote>
+<p>简单的讲就是没有按照产品的既定玩法进行，就像文章开头的秒杀场景【电商平台的茅台抢购】，如果能通过API直接组单，那APP里点击的那批用户无论如何也抢不过插件；再比如有些签到的场景是为了促活，如果通过自动签到工具自动打卡，那促活的目的也无法达到，这也是要重点防控的一个场景。</p>
+<blockquote>
+<p>三：运行的设备非目标设备</p>
+</blockquote>
+<p>这种场景主要影响一些拉新、优惠权益等，甚至直接影响整体运营策略，简单举个例子，拉新场景中会投放大量的新人免单、直减券，基本等于免费领取权益，比如我们都经历过的打车软件、外卖软件、新电商产品上线等。全国有无数的专业羊毛党专注于这一场景，他们掌握大量手机号，可以注册大量新账号，同时能通过虚拟机、应用多开、复刻设备等手段无限冒充新设备，如果不加反制，优惠策略一上线，各种券基本全被这批人掠夺，被这种手段折磨致死的产品数不胜数，也几乎是每个电商平台的噩梦。</p>
+<blockquote>
+<p>四：一些核心逻辑的泄漏</p>
+</blockquote>
+<p>这不是端上特有的风险，比如代码泄漏这种，各方都有这种风险，只不过端上风险更高，因为APP是要上架发出去的，虽然经历过各种混淆与保护，但是用户最终还是能拿到可执行的APP包的，里面各种的核心的逻辑、秘钥都有潜在泄漏的风险，一旦泄漏，也是一种毁灭性的打击，比如某些音视频软件特有滤镜、转场、特效，这些算法是一个产品的核心，一旦破解，产品优势不再，如果防止逻辑代码的泄漏与破解也是安全必须关注的点。</p>
+<p>覆盖上述场景的意思是要提供甄别的能力，<strong>针对不同的场景，抽象特征值并搜集上报，建立特定的模型，推导C端操作环境是否安全</strong>，之后上线不同的应对策略：比如直接退出应用、标记为风险用户等。</p>
+<h3>3、建设方案</h3>
+<p>甄别与防御是体系的核心，建设方案主要是围绕这两个主题展开，虽说名称是“端上安全体系”，但只依靠端自己是无法解决所有问题的，也无法将价值发挥到最大，仍需多端系统配合来完成整个体系的搭建，分工的基本原则是：<strong>端上侧重特征信息的搜集，云端负责整体策略的执行</strong>，根据上述场景，搭建示意如下：</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1162" data-height="639"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-ab430e2bf98641a2.png" data-original-width="1162" data-original-height="639" data-original-format="image/png" data-original-filesize="130748" src="https://upload-images.jianshu.io/upload_images/1460468-ab430e2bf98641a2.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">3 建设方案.png</div>
+</div>
+<p>按层次跟功能大致分四块，端、网关、业务后台、数据风控中心：</p>
+<ul>
+<li>端是信息的来源，负责信息采集上报，是安全体系建设的基石，所以端上采集信息的真实性、为完整性至关重要，同时端上也可以执行部分风险低，但收益高的拦截略，比如对于一些已经侦测到的马甲包，在上报用户信息之后，可以选择Crash，对于一些机器点击类的签到、秒杀场景，可以主动拦截请求，降低带宽压力。</li>
+<li>网关是第二层，一般处理一些具体规则类的拦截与信息采集，比如有些简单的规则检验，Header里是否携带必备的校验字段，如多开标识、模拟器标志等，如果携带则可以在这一层直接拦截，并沉淀到数据中心，既保证了信息的采集，又能减轻业务后台的压力，尤其对于一些秒杀类的场景非常有效。</li>
+<li>业务后台跟数据平台可以一起看做第三层，负责更复杂的模型建设跟业务落地，比如在什么样的节点，才有什么样的策略，比如在组单的时候，业务后台可根据风控侧的判断决定用户的优惠力度等</li>
+</ul>
+<p>针对各个具体的场景会有具体的建设方案，</p>
+<blockquote>
+<p>如何应对非官方APP：APP包识别</p>
+</blockquote>
+<p>非法人员总是出于自己的权益来破解官方APP，定制一些逻辑再二次打包发布，比如对一些付费类APP，含广告类工具APP等，通过破解代码，并二次打包后就可以官方造成冲击，甚至是毁灭性的打击，对于这种场景如何甄别，又如何处理呢？拿Android为例，检测手段有签名校验、文件校验、包完整性校验等，一旦检测到风险就可以做出响应处理，在处理方式上也需要根据不同产品不同场景随机变动，比如工具类APP就Crash阻断，而对于一些有用户体系类的APP则可以先回传用户信息，用作用户画像，再做响应的处理，而处理的手段也可以根据风险等级的不同再做定制，甄别的技术手段可能是死的，但获取的收益一定要灵活。</p>
+<blockquote>
+<p>如何应对非理想设备：设备识别与设备指纹</p>
+</blockquote>
+<p>非理想设备最经典的就是文章开头的场景，拉新拉来一堆老羊毛党，说到底其实就是对于用户设备的定位追踪能力不足，对于这种场景的如何应对？这里单独说说<strong>设备指纹</strong>，设备指纹主要解决的如何定位一台设备的问题，在理想情况下，一台设备只有一个身份信息，它不因APP卸载、升级、HOOK伪装所改变，这在现在的互联产品生态中是非常困难的，困难主要来源于两个方面：一技术上的、一是法规上的，从技术上来讲，以Android端为例，它是一个开源的系统，每一行代码都不可信，任何通过官方API拿到的信息都可以被HOOK篡改，而指纹很大程度依赖API获得的设备特征信息，如果这些信息都不可信，那指纹的可信程度也会降低。另一方面，从法规上来讲，现在注重保护个人隐私，不可以随意获取用户信息，这一点有利于用户【包括羊毛党】，但是对于运营方却是不利的，信息越少越难定位到，因此，在隐私合规的前提下，仍需要多维度的获取更多的用户信息，从更多的维度定位到该用户。</p>
+<p>具体如何执行？以Android为例，定位一台设备的信息有MAC、IMEI、IMSI、序列号、AndroidID、IP+UA、OAID、各种设备型号等，虽然信息很多，但单独任何一条的可信度都不高，比如之前的某盾、某盟都曾用MAC地址作为指纹，甚至有些产品直接用IMEI作为指纹，但网上利用XPOSED来篡改的插件比比皆是，通过官方API获取的分分钟被破解，但是可以对多种信息进行整合生成一个唯一可信的ID，这种方式获取的ID的稳定性要比单一的稳定性要高，原理示意如下：</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1206" data-height="392"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-e9790ea771dfdfc6.png" data-original-width="1206" data-original-height="392" data-original-format="image/png" data-original-filesize="100708" src="https://upload-images.jianshu.io/upload_images/1460468-e9790ea771dfdfc6.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">4 设备指纹.png</div>
+</div>
+<p>简单来说：只有篡改了全部的设备特征信息，才会导致设备指纹更新，这会大幅提高设备逃逸的难度。设备指纹的另一个难题是如何识别虚拟设备，这里特指模拟器，每个新开的模拟器都可以看做是新设备，如果不能识别，同样无法解决设备跟踪的问题，尤其对于国内的Android生态来讲，问题更加严重，各种游戏厂商都有对应的手游模拟器，不仅支持多开，还原生支持篡改各种设备特征信息，可以算得上助纣为虐，在模拟器甄别与防控的层面能做的有如下几种：</p>
+<ul>
+<li>通过特征信息甄别【容易绕过】</li>
+<li>通过CPU架构甄别【ARM与SimpleX86】</li>
+<li>限定APP的运行平台</li>
+</ul>
+<p>这里简单介绍下通过CPU架构甄别方式，就目前的硬件市场，几乎99.9%以上的手机设备都是基于ARM处理，而模拟器大部分是面向x86平台设计的，采用的是simplex86架构，两者采用的不一样缓存机制，ARM采用的哈弗架构将指令存储跟数据存储分开，分为I-Cache（指令缓存）与D-Cahce（数据缓存），CPU无法直接修改I-Cache【同步延迟导致不一致】，但Simpled X86架构的模拟器只有一块缓存，这一点导致两者在运行Self-Modifying Code【自修改代码】时会有不同的表现，可以借助这个特性进行甄别，示意如下</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1155" data-height="405"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-a69cb61cfc5480e6.png" data-original-width="1155" data-original-height="405" data-original-format="image/png" data-original-filesize="51590" src="https://upload-images.jianshu.io/upload_images/1460468-a69cb61cfc5480e6.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">5 一种模拟器甄别方式.png</div>
+</div>
+<p>至此，设备的定位与跟踪能力基本已经具备，在用户在领券的节点，就可以从更多维度判断他当前的设备是否有资格享受这个权益，保障业务按既定模型运转。</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1165" data-height="630"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-3286228f3ad612e7.png" data-original-width="1165" data-original-height="630" data-original-format="image/png" data-original-filesize="116457" src="https://upload-images.jianshu.io/upload_images/1460468-3286228f3ad612e7.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">6 设备指纹服务.png</div>
+</div>
+<p>当然还有更多的场景，比如应用多开、应用分身等，都要具体问题具体分析，但思路一致：特征搜集、甄别、防控，因为所有的不轨行为一定有迹可循，</p>
+<blockquote>
+<p>如何应对非设定业务场景：场景识别与校验</p>
+</blockquote>
+<p>每种业务都有其既定的运行模式，只有照章办事，运营才能获取最大的收益，这里特指一些可以通过自己的参与获得收益的场景，比如秒杀、签到、预约摇号等。一般而言，在这类场景下，破坏者可钻的空子有两个方向，一个是便利：通过插件自动预约，免得用户自己操作，适合摇号、签到类【签到领积分】；一个是速度，通过插件直接API请求，抢跑下单，获得收益，适合限时秒杀类的场景【各大平台强茅台】。以秒杀为例，通过营造紧迫而又刺激的氛围可以让活动更有意思，但如果能直接刷接口/或者通过插件抢跑，那就会破坏其公平性，影响用户的参与感，造成资产及口碑受损，这类场景如何应对？其实要做的事情分两块：一 <strong>识别请求是从APP发出来</strong> ， 二 <strong>识别是真实用户操作的</strong>，这两快一般会整体考虑，非APP端的请求往往伴随着非用户触发，多归结于脚本，所以识别“人”与识别“场景”殊途同归，具体有哪些手段可以用呢？</p>
+<ul>
+<li>扩展核心API接口的能力，承载更多逻辑</li>
+<li>通过埋点、用户操作轨迹分析识别用户</li>
+<li>启用端上特有能力校验，如短信验证码、行程码分析</li>
+</ul>
+<p>如何拓展API接口的能力？比如预约接口其基础能力就是预约，如不特殊处理，PC上就完全可以复制APP端发出的请求，进而通过脚本预约，如要加以限制就必须拓展端上API能力，让其携带更多端上独有特征，同时服务端可以完成校验，形成一个闭环，比较容易理解的就是让APP端与服务端协商一套加解密通信协议，并假定协议无法破解，避免接口直刷，从而确保请求是从APP发出的，即使不是从APP发出的，也能被甄别出来，进而提高APP与服务端通信阶段的安全性。当然，无法破解只是理论上，实际上只要舍得投入成本，暴力破解并不是问题，这种就需要通过更多元的手段，不断更新迭代，持续做攻防，例如，为了保证加密算法的保密性，可以将其用c实现，并通混淆、加固、防探测等手段保证这个策略的正确执行；暴力堆积加密的类型、节点，提升秘钥的更新频率也是一种应对手段，而且，惩罚手段上也可以多元，同直接拦截相比，隐秘的搜捕，诱捕也是一种灵活收益的手段。</p>
+<p>其次，基于埋点、用户操作行为的大数据分析是另一种更高级的防御手段，对于识别用户操作场景更加科学，正常的用户轨迹与插件类的访问轨迹会有很大的差异，直刷的目标明确，主攻几个关键接口，但正常用户访问会有一系列的曝光、点击等行为，并且每次的点击也会有各种零零散散的活体特征可以采集，比如点击的点位置、数量、力度、频率等，这些维度为用户识别提供了更广的操作空间。基于以上几点的模型示意如下：</p>
+<div class="image-package">
+<div class="image-container">
+<div class="image-container-fill"></div>
+<div class="image-view" data-width="1058" data-height="529"><img data-original-src="//upload-images.jianshu.io/upload_images/1460468-7e74d4a8d0e2ad7c.png" data-original-width="1058" data-original-height="529" data-original-format="image/png" data-original-filesize="85918" src="https://upload-images.jianshu.io/upload_images/1460468-7e74d4a8d0e2ad7c.png" referrerpolicy="no-referrer"></div>
+</div>
+<div class="image-caption">7 业务场景识别.png</div>
+</div>
+<p>最后一点，启用端上特有的校验能力，这个已经是最终的防御手段，在实在没有办法的情况才会采用的，因为这种手段很影响用户体验，由于采用的是端上特有的能力，比如短信验证码，必须真机才能收到，这就从根本上避免了插件类的直刷，所以可靠性确实所有手段中最高的，但体验差，成本高，所以算是最后一道防线。</p>
+<blockquote>
+<p>如何应对核心逻辑的泄漏</p>
+</blockquote>
+<p>这一块主要关注的是APP端的一些核心逻辑的破解或泄密，可以分两个方向，对外与对内，对外主要是APP包的逆向与破解，不法人员从发布上架的APP包中获取核心业务实现或其他敏感信息；而对内主要指工程安全，核心源码或秘钥的泄漏、误改等。</p>
+<p>相应的防范策略也是分两块，<strong>对外的线上防破解</strong>可以从以下几点入手：</p>
+<ul>
+<li>利用代码混淆防APP逆向，一般而言官方会提供相应的能力，也可借助三方加固来提高混淆的力度</li>
+<li>核心源码、秘钥下沉，采用更难破解的方式实现，同时增加防外部调用的防范策略，比如Android采用C+混淆来处理</li>
+<li>为线上APP添加防调试与HOOK的能力，防止动态调试探测，</li>
+<li>添加防止代理与中间人劫持的能力，例如SSLPING等技术，避免被抓包探测</li>
+<li>从二次打包入手，添加签名、完整性检测的能力，防止被探测、篡改</li>
+</ul>
+<p>而对内主要从工程安全角度推进，主要是做好代码的权责管理</p>
+<ul>
+<li>采用组件化开发模式，不同等级的基础能力、业务、核心逻辑做好隔离</li>
+<li>仓库单独部署，同时做好权责划分，代码、文档做好权限隔离</li>
+<li>加强秘钥、KEY的管控，开发与生产环境严格隔离</li>
+</ul>
+<p>上述手段基本涵盖大部可预见的风险场景，即使未覆盖，也大概有类似的手段作为参考，无非就是抽象、搜集、判断、处理。</p>
+<h3>4、线上执行方案</h3>
+<p>最后一步是上线执行，上述的手段多种多样，但相互之间并非孤立运行，彼此可以相互穿插，灵活配合，不存在特定的章法，全看使用方的意图，如何探测，探测之后如何处理，是全杀还是放一部分，都看操刀者自己的运作，以应用多开场景为例，除了利用多开基础的多开检测手段，还可以配合设备指纹做更多的事情，有时虽然没有检测到多开，但是基于设备指纹的补刀，也能定位到问题设备，而在最后一步惩治处理中，不同处理手段也会获得不一样的收益：</p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>处理方式</th>
+<th>最终收益优缺点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>被动拦截</td>
+<td>端上部署检测规则，检测到风险，100%在端上拦截处理【如Crash】</td>
+<td>效果明显，但易被发现，徒增防御成本</td>
+</tr>
+<tr>
+<td>被动捕获</td>
+<td>检测到风险，在端上不处理，只上报，后端隐形标记或拦截</td>
+<td>不易被发现，但长期运行收益比较局限</td>
+</tr>
+<tr>
+<td>主动诱捕</td>
+<td>人为制造有迹可循的漏洞，捕获后在端上不拦截或部分拦截，并上报，后端隐形标记</td>
+<td>不易被发现，虚虚实实，操作空间更大，收益更大</td>
+</tr>
+</tbody>
+</table>
+<p>理论上讲，APP技术层面不存在100%有效的安防策略，虚虚实实才是王道，敬畏，才是最有效的防御手段</p>
+<h3>5、 总结与展望</h3>
+<p>目前国内APP的生态环境并不健康，甚至可以说野蛮，随着隐私策略收紧，APP所能获取的信息越来越少，安防也越来越难做，反之，刷子却越活越滋润，技术所面临的的挑战也更加棘手，安防注定是一个长期攻防的领域。最后，技术不能解决所有问题，最终还是要依赖法律的健全与全民意识提升。</p>
+<p>作者：看书的小蜗牛<br>
+原文链接: <a href="https://www.jianshu.com/p/cd63552eea05" target="_blank">APP端上通用安全体系建设</a></p>
+  
+</div>
+            
