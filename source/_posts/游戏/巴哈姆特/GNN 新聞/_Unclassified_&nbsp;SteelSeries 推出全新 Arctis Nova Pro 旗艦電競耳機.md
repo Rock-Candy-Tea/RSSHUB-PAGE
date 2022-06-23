@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/45/af23f1f20104d70dcfd59ca7961gvfh5.PNG?v=1655869093547'
 author: 巴哈姆特
 comments: false
-date: 2022-06-22 15:10:54
+date: 2022-06-23 00:42:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/45/af23f1f20104d70dcfd59ca7961gvfh5.PNG?v=1655869093547'
 ---
 
@@ -95,7 +95,7 @@ Arctis Nova Pro 專為各種遊戲類型及平台設計，滿足你所有遊戲�
 <ul>
 <li>
 不間斷的電力系統 – 遊戲，不設限。Arctis Nova Pro 無線耳機提供永續的電池壽命，透過雙電池系統讓玩家可持續暢玩，只需在第一顆電池使用時為第二顆充電。<br>
-<span style="font-size:16px;">＊僅適用於無線版 </span></li>
+<span style="color:#b22222;"><span style="font-size:16px;">＊僅適用於無線版 </span></span></li>
 </ul>
 <ul>
 <li>
@@ -108,21 +108,23 @@ Arctis Nova Pro 專為各種遊戲類型及平台設計，滿足你所有遊戲�
 <ul>
 <li>
 無線的 OLED 控制站 – 所有控制盡在一指輕觸間。控制面板可說是跨平台的操控中心，可針對 EQ、輸入設備、音量、ChatMix 等進行調整，且無需離開遊戲即可調整。該操控中心可記住個人設定，多功能的 OLED 顯示面板讓電池壽命和其他功能一目瞭然。<br>
-<span style="font-size:16px;">＊僅適用於無線版</span></li>
+<span style="color:#b22222;"><span style="font-size:16px;">＊僅適用於無線版</span></span></li>
 </ul>
 <ul>
 <li>
 全新二代 GameDAC – 除了增加控制能力和強化音效表現外，Arctis Nova Pro 還推出全新二代 GameDAC ，透過認證的高解析度音訊和內建的擴大器帶來「頂尖音訊」體驗。新型 ESS Sabre Quad-DAC 以 78% 更純粹的訊號增強遊戲音質，帶來極低的雜訊和失真度。Arctis Nova Pro 將音頻解析度提升到極致的原生 96 千赫 / 24 位元。此外，GameDAC 還可當成跨平台的操控中心。玩家可以使用多功能 OLED 顯示面板輕鬆為家用主機或 PC 設置絕佳音訊，並儲存個人設定，只需動動手指即可調整 EQ、輸入設備、音量、ChatMix 等<br>
-<span style="font-size:16px;">＊僅適用於有線版</span></li>
+<span style="color:#b22222;"><span style="font-size:16px;">＊僅適用於有線版</span></span></li>
 </ul>
 <div>
  </div>
 <div>
 　　以下為 SteelSeries 賽睿的全新旗艦耳機 Arctis Nova Pro 公布的官方售價：</div>
 <div>
-＊Arctis Nova Pro 官方建議售價為 $8,990</div>
+ </div>
 <div>
-＊Arctis Nova Pro Wireless 官方建議售價為 $13,590</div>
+<span style="color:#b22222;">＊Arctis Nova Pro 官方建議售價為 $8,990</span></div>
+<div>
+<span style="color:#b22222;">＊Arctis Nova Pro Wireless 官方建議售價為 $13,590</span></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
