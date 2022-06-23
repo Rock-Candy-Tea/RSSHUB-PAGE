@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/95/5e78ea80a8aa8a78789bfaf4af1gw8n5.JPG?v=1655956761864'
 author: 巴哈姆特
 comments: false
-date: 2022-06-23 05:16:46
+date: 2022-06-23 06:12:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/5e78ea80a8aa8a78789bfaf4af1gw8n5.JPG?v=1655956761864'
 ---
 
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/5e78ea80a8aa8a78789bfaf4af1gw8n5.
 <div>
  </div>
 <div>
-　　官方指出，玩家可以在官方網站進行事前預約：https://g123.jp/game/51?lang=zh-TW。根據參與事前預約的人數，遊戲上線時所有玩家可獲得豪華獎勵。事前預約人數累計達到 5 萬人時即可獲得免費 30 連轉蛋與 ★5 角色「素食者」！</div>
+　　官方指出，玩家可以在官方網站進行事前預約：<a href="https://g123.jp/game/51?lang=zh-TW" target="_blank">https://g123.jp/game/51?lang=zh-TW</a>。根據參與事前預約的人數，遊戲上線時所有玩家可獲得豪華獎勵。事前預約人數累計達到 5 萬人時即可獲得免費 30 連轉蛋與 ★5 角色「素食者」！</div>
 <div>
  </div>
 <ul>
