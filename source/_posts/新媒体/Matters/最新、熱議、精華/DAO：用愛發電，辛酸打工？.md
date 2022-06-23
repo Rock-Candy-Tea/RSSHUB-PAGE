@@ -1,0 +1,18 @@
+
+---
+title: 'DAO：用愛發電，辛酸打工？'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=5592'
+author: Matters
+comments: false
+date: Thu, 09 Jun 2022 23:50:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5592'
+---
+
+<div>   
+<p>2018 年我找了幾個朋友，<a href="https://grants.g0v.tw/projects/5a49255d8b4d8d001efe2e6a" rel="noopener noreferrer" target="_blank">提案</a>做了一個 g0v 公民科技獎助金的案子。當時是我第一次遇到「發錢」的問題：經費該如何分配才對？</p><p>我不敢說當時自己做出的分配決策，究竟是否合理 —— 或者說根本沒有「合理」可言，畢竟<a href="http://chenglap-blog.logdown.com/posts/184032-payroll-is-the-bargain-force" rel="noopener noreferrer" target="_blank">薪資本來就不是生產力，而是議價力</a>，只要盡力讓大家都滿意就可以了。</p><p>那麼對於一個組織來說，最重要的是能完成目標或持續走下去，資源的分配是為了服務這樣的目標。</p><h2>Matters 學習會的寶庫</h2><p><a href="https://discord.gg/matterslab" rel="noopener noreferrer" target="_blank">Matters Lab Discord</a> 每週五早上 11:00 UTC+8 有線上學習會直播，<strong>錄影則僅限於 Travelogger 持有者才能在 YouTube 上觀看</strong>（需至 Discord 認證並填表），這些學習會錄影應該就是近期最常被忽視的寶庫了。</p><p>近期三次學習會是以 DAO（Decentralized Autonomous Organization，分散式自治組織）為主題，這是在 Web3 運用 token 來治理的一種組織形式。</p><p>我對 DAO 最早的看法是：「Web3 的崛起，包含以 DAO 的形式去重新探索協作模式，其實是要追求其他更重要的(人文)價值。」（<a href="https://discord.com/channels/902816652347977758/954082992337342505/954392078186586143" rel="noopener noreferrer" target="_blank">出處</a>）</p><p><strong>1. DAO的治理難題：投票、治理與決策 by Ricky Wang</strong>（<a href="https://docs.google.com/presentation/d/1I50utdIuzflS3nqKv15PEX7FyU7WtWh50K3Db1Qwjto" rel="noopener noreferrer" target="_blank">Slides</a> / <a href="https://youtu.be/mUNuetY7oZY" rel="noopener noreferrer" target="_blank">YouTube</a>）</p><p>在這些新興 DAO 治理模式中，雖然有許多新名詞，仍不難理解其概念是出自傳統組織（股份公司、合作社等）或民主制度的經驗。譬如「治理代幣」類似於具投票權的股份；「質押鎖定代幣」一段時間，則類似於鎖定股份；聲望制度是為了承載對人的信任。</p><p>這裏大概很難會有「最佳制度解」，就像不會有適合每間公司的治理方式，而治理爭議（類似公司派 vs 市場派）也免不了。制度是為了服務每個不同組織的不同治理目標。</p><p><strong>2. 在 DAO 當核心貢獻者 by Shawn</strong>（<a href="https://docs.google.com/presentation/d/1gpTyNl-lSfI89Q8CwnVYtLtX1SBz260Zdo0YTLh9lF0" rel="noopener noreferrer" target="_blank">Slides</a> / <a href="https://youtu.be/4VOk0US9It4" rel="noopener noreferrer" target="_blank">YouTube</a>）</p><p>這是我最推薦一聽的場次，Shawn 提出了許多近身觀察與現實數據。Shawn 明白說了(27:50)，多數 DAO 在 2020 年都是「用愛發電」，到今年 (2022) 則有 GitCoin 和 Bankless DAO 對 422 個 DAO 貢獻者進行調查，其中 40% 貢獻者表示 DAO 已是主要收入來源，但大多數人收入是來自多個 DAO。該份報告相當有意思，可以前往閱讀：<a href="https://newsletter.banklesshq.com/p/the-ultimate-dao-report?s=r" rel="noopener noreferrer" target="_blank">The Ultimate DAO Report</a></p><p><strong>3. 淺談三種 DAO 的經營模式 by Erica</strong>（<a href="https://cdn.discordapp.com/attachments/978554288781541387/979595871920468058/rhizomedao-matters.pdf" rel="noopener noreferrer" target="_blank">Slides</a> / <a href="https://youtu.be/gaEoZmA0r3o" rel="noopener noreferrer" target="_blank">YouTube</a>）</p><p>關於 Erica，先前有篇訪談值得一看：<a href="https://tian.mirror.xyz/iBJk2pk8AUXQLKU91HASuMdGSfGfg-_AdHJP3zRrR-M" rel="noopener noreferrer" target="_blank">Mirror中文社区会议之Erica分享</a></p><p>Erica 在該次學習會中，分享了眾多 DAO 的分析、親身實踐與主觀見解，可能也最需要時間消化……。</p><h2>感想</h2><p>目前許多新興的 DAO，就是 Web3 自發組織的進化，然而就像多數新創公司早期一樣，許多人都是基於熱情而來，卻也未必能保證最終能獲得足夠價值的回報，無論是以金錢形式、話語權、甚至榮譽感。</p><p>Matters 是一間股份有限公司，而圍繞在 Matters.news 主站、Matters Lab Discord、The Space 專案周圍的社區與人們，或招募、或自發而起的組織，活絡了整個生態圈。若以 DAO 為名，如何將這些活力帶向下一個階段呢？</p><p>作為一個親身經歷了蘋果生態圈崛起（與收割）的軟體開發者，我深深體會真正健康的生態圈，不能只求共存共榮，還需要有足夠的權力制衡，否則我們只會再次面臨 Web2 時代巨頭壟斷的窘境。</p><p>Web3 DAO 是以公開為原則、認真看待治理權力與利益分配的組織模式，我們無需過度天真樂觀看待，只要能夠一同前行。</p><p>The journey will be the reward.</p>  
+</div>
+            
