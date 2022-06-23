@@ -129,12 +129,12 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
             </div>
     <div class="warp_">
         <ul class="clear">
+    <li><a href="https://www.3dmgame.com/news/202206/3845391.html" target="_blank">日本玩家数字游戏现状调查 七成玩家坚守实体版</a></li>
     <li><a href="https://www.3dmgame.com/news/202206/3845387.html" target="_blank">战棋+卡牌+肉鸽 《召唤命途》正式上线</a></li>
     <li><a href="https://www.3dmgame.com/news/202206/3845348.html" target="_blank">中国美术学院学生打造 国产独立游戏《蜀道行》实机演示</a></li>
     <li><a href="https://www.3dmgame.com/news/202206/3845341.html" target="_blank">美少女恋爱经典《悠久的风铃花》9月29日登陆Switch</a></li>
     <li><a href="https://www.3dmgame.com/news/202206/3845320.html" target="_blank">世嘉与CA公布新多人FPS《HYENAS》 登陆各大平台</a></li>
     <li><a href="https://www.3dmgame.com/news/202206/3845305.html" target="_blank">职业车手在《使命召唤：战区》中爆粗口 车队直接宣布禁赛</a></li>
-    <li><a href="https://www.3dmgame.com/news/202206/3845294.html" target="_blank">《部落冲突》开发商将与channel37合作 开发PC游戏</a></li>
         </ul>
     </div>
 </div>
@@ -288,21 +288,58 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
     </div>
         <div class="shlis_0">
             <div class="lis">
+            <div class="p_top"><a>索狗牛逼，天下第一</a></div>
+            <div class="bq"><a class="name">azel</a>  <a class="time">6月23日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845374.html" target="_blank">《光环：无限》多人合作战役实机 8月正式上线</a></div>
+        </div>
+            <div class="lis">
+            <div class="p_top"><a>是莎比第一人称射击游戏，都别玩，谁玩谁**！ </a></div>
+            <div class="bq"><a class="name">我是喜只狼</a>  <a class="time">6月23日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845329.html" target="_blank">《红霞岛》英雄介绍 四人都可以选择任何角色</a></div>
+        </div>
+            <div class="lis">
             <div class="p_top"><a>还好意思说618带头调降，台W的3070卖4000的时候，淘宝和京东带头涨价，淘宝拉到了4800，京东拉到了5300，然后把台W的价格也拉倒了5000左右。。全球开始降价的时候，淘宝和京东还在高位死撑，还有脸说618带头降价 </a></div>
             <div class="bq"><a class="name">aaaaa2a</a>  <a class="time">6月22日</a></div>
             <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845307.html" target="_blank">矿卡时代过去 板卡三巨头加快显卡清仓：降价10%以上</a></div>
         </div>
+        </div><div class="shlis_1" style="display: none;">
             <div class="lis">
             <div class="p_top"><a>中国的户籍就是温和版的印度种姓</a></div>
             <div class="bq"><a class="name">瑞典口音东百山东人学伴乐善好施</a>  <a class="time">6月22日</a></div>
             <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845308.html" target="_blank">每5个韩国年轻人就有1个在炒币：出人头地的唯一机会</a></div>
         </div>
             <div class="lis">
+            <div class="p_top"><a>不会还是二十年前那个画面吧，谁玩谁**！ </a></div>
+            <div class="bq"><a class="name">我是喜只狼</a>  <a class="time">6月22日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845287.html" target="_blank">日本Falcom社长访谈 《伊苏X》新游情报透露</a></div>
+        </div>
+            <div class="lis">
+            <div class="p_top"><a>白左狗们已经不认为自己是个人了。</a></div>
+            <div class="bq"><a class="name">申公豹</a>  <a class="time">6月22日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845274.html" target="_blank">《魔戒：咕噜》新情报：咕噜弱爆 但游戏会更有趣</a></div>
+        </div>
+        </div><div class="shlis_2" style="display: none;">
+            <div class="lis">
+            <div class="p_top"><a>我想问能不能插入[怀疑] </a></div>
+            <div class="bq"><a class="name">3dm00000</a>  <a class="time">6月22日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845269.html" target="_blank">东京大学世界首次研发成功植皮手指机器人 真仿真机器人或将至</a></div>
+        </div>
+            <div class="lis">
+            <div class="p_top"><a>死亡空间也是要上去踩 </a></div>
+            <div class="bq"><a class="name">不死鸟 </a>  <a class="time">6月22日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845247.html" target="_blank">《木卫四协议》几乎一半战斗是肉搏战 新视频展示</a></div>
+        </div>
+            <div class="lis">
+            <div class="p_top"><a>恶心到家的玩意</a></div>
+            <div class="bq"><a class="name">梗哥</a>  <a class="time">6月22日</a></div>
+            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845233.html" target="_blank">强尼凯奇扮演者暗示《真人快打12》制作中</a></div>
+        </div>
+        </div><div class="shlis_3" style="display: none;">
+            <div class="lis">
             <div class="p_top"><a>教培行业就是被新东方这种莎比企业弄倒闭的，英语这种毫无技术含量的学科你mlgb要七八百块钱一个小时，你是有多黑！莎比新东方，莎比俞敏洪，臭不要脸的在这里当nmd人生导师呢。 </a></div>
             <div class="bq"><a class="name">我是喜只狼</a>  <a class="time">6月21日</a></div>
             <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845206.html" target="_blank">新东方直播带货爆火后 俞敏洪称主播需文化培训</a></div>
         </div>
-        </div><div class="shlis_1" style="display: none;">
             <div class="lis">
             <div class="p_top"><a>看到“仙剑”2个字，就不想看 </a></div>
             <div class="bq"><a class="name">zhangyuling</a>  <a class="time">6月21日</a></div>
@@ -312,43 +349,6 @@ X|S版54.99欧元/54.99美元(SRP)。在预购阶段，该版本可在官方下�
             <div class="p_top"><a>有些人就喜欢吃屎，有人喜欢自然有人拉给他们吃 </a></div>
             <div class="bq"><a class="name">月似空楼</a>  <a class="time">6月21日</a></div>
             <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845192.html" target="_blank">新版《仙剑》阵容官宣：何与饰李逍遥 杨雨潼饰赵灵儿</a></div>
-        </div>
-            <div class="lis">
-            <div class="p_top"><a>索狗，你不买你逼你妈了个逼</a></div>
-            <div class="bq"><a class="name">azel</a>  <a class="time">6月21日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845126.html" target="_blank">《极限竞速8》Xbox Series S目标是1080P/60FPS</a></div>
-        </div>
-        </div><div class="shlis_2" style="display: none;">
-            <div class="lis">
-            <div class="p_top"><a>被疫情病毒吃就业人口，而且又加班，哪有敢去送死做事，难道尼玛去？</a></div>
-            <div class="bq"><a class="name">3dm00000</a>  <a class="time">6月21日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845127.html" target="_blank">自动驾驶卡车潮即将来袭 美国50万卡车司机准备好了吗</a></div>
-        </div>
-            <div class="lis">
-            <div class="p_top"><a>你 我  500[坏笑] </a></div>
-            <div class="bq"><a class="name">深蓝忧郁</a>  <a class="time">6月20日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845123.html" target="_blank">显卡价格雪崩！千万小心矿渣：保有规模高达上千亿</a></div>
-        </div>
-            <div class="lis">
-            <div class="p_top"><a>希望他孩子送他一个高尔夫球杆 </a></div>
-            <div class="bq"><a class="name">ykw159357</a>  <a class="time">6月20日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845111.html" target="_blank">父亲节快乐！尼尔晒《最后的生还者2》乔尔与艾莉温馨时刻</a></div>
-        </div>
-        </div><div class="shlis_3" style="display: none;">
-            <div class="lis">
-            <div class="p_top"><a>中国的户籍就是温和版的印度种姓</a></div>
-            <div class="bq"><a class="name">瑞典口音东百山东人学伴乐善好施</a>  <a class="time">6月22日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845308.html" target="_blank">每5个韩国年轻人就有1个在炒币：出人头地的唯一机会</a></div>
-        </div>
-            <div class="lis">
-            <div class="p_top"><a>中国的户籍就是温和版的印度种姓</a></div>
-            <div class="bq"><a class="name">瑞典口音东百山东人学伴乐善好施</a>  <a class="time">6月22日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845308.html" target="_blank">每5个韩国年轻人就有1个在炒币：出人头地的唯一机会</a></div>
-        </div>
-            <div class="lis">
-            <div class="p_top"><a>教培行业就是被新东方这种莎比企业弄倒闭的，英语这种毫无技术含量的学科你mlgb要七八百块钱一个小时，你是有多黑！莎比新东方，莎比俞敏洪，臭不要脸的在这里当nmd人生导师呢。 </a></div>
-            <div class="bq"><a class="name">我是喜只狼</a>  <a class="time">6月21日</a></div>
-            <div class="p_but"><a href="https://www.3dmgame.com/news/202206/3845206.html" target="_blank">新东方直播带货爆火后 俞敏洪称主播需文化培训</a></div>
         </div>
         </div>
     </div>
