@@ -8,7 +8,7 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220624/1656053164_764200.png'
 author: 3DMGame
 comments: false
-date: Fri, 24 Jun 2022 06:48:00 GMT
+date: Fri, 24 Jun 2022 07:24:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220624/1656053164_764200.png'
 ---
 
@@ -23,7 +23,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220624/1656053164_7642
 何不趁此机会与僵尸一起享受杀伐生活呢?
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053164_764200.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053164_764200.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 优惠时间：2022年6月24日(星期五)1:00~2022年7月8日(星期五)0:59 (北京时间)
@@ -35,7 +35,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220624/1656053164_7642
 促销价格：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053195_819678.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053195_819678.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ※优惠期间可能会有无预告的变更。
@@ -54,7 +54,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 在本作主打的
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_352643.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_352643.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 工艺要素中，不仅能制作普通武器，还能从尸体中培养出听话的“ 仆从僵尸”。 带领最强的不死军团，在充满僵尸的世界尽情游玩序章!
@@ -66,10 +66,10 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 ※在PS商店，需要信用卡付款(0元)才能证明您已年满 18 岁。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_577566.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_577566.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_566468.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_863912.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_718567.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_566468.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_863912.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053163_718567.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 <商品概要>
@@ -90,7 +90,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 与小镇居民和不法分子们时而合作时而相互敌对，在充满杀戮末日世界，生存下去!
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_853400.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_690603.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_826298.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_853400.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_690603.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_826298.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ■人类僵尸统统杀无赦!“僵尸动作”
@@ -103,7 +103,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 僵尸也好，人类也罢，与我为敌者，通通杀无赦!
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_205944.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_269869.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_205944.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_269869.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ■尸体也能活用?用“僵尸工艺”，打造最强不死军团!
@@ -112,7 +112,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 通过改造战斗中获得的尸体并将其埋在地里，就能诞生听命于主角的“仆从僵尸”。 仆从僵尸可以作为同伴被带到战场!
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_602120.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_495234.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053162_602120.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_495234.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 此外，您可以使用收集到的材料制作各种武器、道具、料理等。 如果把仆从僵尸作为工艺素材，还可以做出具有特殊效果的物品。
@@ -133,7 +133,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 用何种手段，取决于你。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_655589.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_913684.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_655589.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_913684.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ■故事
@@ -157,10 +157,10 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 他
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_396008.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_396008.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_251428.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053160_323471.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053161_251428.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053160_323471.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 藏身于方舟郊外的贫民窟，发誓要向涅布伦报仇……
@@ -175,61 +175,61 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 【主角】
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_397015.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_397015.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_200495.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_200495.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 【城里的人们】
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_114277.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_114277.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_112705.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_112705.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_587696.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_587696.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_299104.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053255_299104.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_562938.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_562938.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_878017.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_878017.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_334521.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_334521.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_630196.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_630196.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_250495.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_250495.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 【方舟的支配者们】
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_876144.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_876144.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_130852.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_130852.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_646946.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_646946.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_678296.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053254_678296.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053253_992579.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053253_992579.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053253_166269.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053253_166269.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ■《创尸纪(DEADCRAFT)数字豪华版》
@@ -241,7 +241,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 其中包含：2种新增内容的季票，只能由此获得的限定服装，以及游戏初期可派上用场的道具!
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053295_638203.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053295_638203.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 【套装内容】
@@ -259,7 +259,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 ・追加内容“死亡世界的来访者”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_958434.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_883375.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_958434.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_883375.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 你能奋起对抗试图以压倒性力量入侵城镇的死界之王和僵尸军团，来拯救城市吗!?
@@ -274,7 +274,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 ※本追加内容的追加剧情可以在游戏正篇通关后游玩。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_461677.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_461677.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ・追加内容“努力赚钱吧!洁西”
@@ -283,7 +283,7 @@ Store开放的体验版里，不仅能体会到爽快的僵尸动作，还能享
 收集材料制作工艺并在商店出售以创造收益，向心爱的“杜娜小姐”上贡钱财。与主线故事不同，您可以享受以主角“洁西”为中心的全新故事以及诸多新任务。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_429932.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_899078.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_429932.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"><img src="https://img.3dmgame.com/uploads/images/news/20220624/1656053294_899078.png" alt="《创尸纪》(DEADCRAFT)限时优惠进行中！Steam版首次最大25%OFF促销！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 ※本追加内容可单独购买。 请注意避免重复购买。

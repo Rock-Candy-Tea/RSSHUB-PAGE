@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?v=1656046897977'
 author: 巴哈姆特
 comments: false
-date: 2022-06-24 07:10:08
+date: 2022-06-24 08:12:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?v=1656046897977'
 ---
 
@@ -26,17 +26,17 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG 2x" style="max-width: unset;" title="技能卡面更新" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/aa859e09c4049e912e19a153b71gx265.JPG 2x" style="max-width: unset;" title="技能卡面更新" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 技能卡面更新</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG 2x" style="max-width: unset;" title="事典可檢視技能" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/59/37a3badf9ed8c54409205d8f371gx275.PNG 2x" style="max-width: unset;" title="事典可檢視技能" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 事典可檢視技能</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG 2x" style="max-width: unset;" title="角色附魔技能" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG?v=1656046897977" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/c14c34d639e5d48f77e286aa421gx255.JPG 2x" style="max-width: unset;" title="角色附魔技能" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 角色附魔技能</figure>
 </li>
