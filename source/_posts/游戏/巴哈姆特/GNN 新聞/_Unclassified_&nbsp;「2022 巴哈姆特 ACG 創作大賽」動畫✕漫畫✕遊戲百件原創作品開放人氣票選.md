@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830'
 author: 巴哈姆特
 comments: false
-date: 2022-06-24 11:09:12
+date: 2022-06-24 12:18:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830'
 ---
 
@@ -74,11 +74,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.
  </p>
 <ul>
 <li>
-<b>動畫組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=1">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=1</a></li>
+<b>動畫組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=1" target="_blank">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=1</a></li>
 <li>
-<b>漫畫組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=2">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=2</a></li>
+<b>漫畫組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=2" target="_blank">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=2</a></li>
 <li>
-<b>遊戲組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=3">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=3</a></li>
+<b>遊戲組投票頁面：</b><a href="https://prj.gamer.com.tw/acgaward/2022/vote.php?t=3" target="_blank">https://prj.gamer.com.tw/acgaward/2022/vote.php?t=3</a></li>
 </ul>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
