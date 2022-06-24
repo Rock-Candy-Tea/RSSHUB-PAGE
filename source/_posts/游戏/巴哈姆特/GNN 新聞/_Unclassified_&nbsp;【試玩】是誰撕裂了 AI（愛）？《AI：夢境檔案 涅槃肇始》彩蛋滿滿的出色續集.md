@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655892036581'
 author: 巴哈姆特
 comments: false
-date: 2022-06-24 03:05:04
+date: 2022-06-24 04:29:19
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.JPG?v=1655892036581'
 ---
 
@@ -301,7 +301,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/04/105e7e3b9e4f6765b089d853651gtbc5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG?v=1656003450604" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG 2x" style="max-width: unset;" title="伊達和他的「力量泉源」都依然會登場" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG?v=1656003450604" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/6a6325ccd8aa67b52b08de04701gwwt5.JPG 2x" style="max-width: unset;" title="伊達和他的「力量泉源」都依然會登場" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 伊達和他的「力量泉源」都依然健在，將以可靠的（？）前輩身份照顧兩個後輩</figure>
 </li>
@@ -543,13 +543,18 @@ Wink Psync 可視為簡易版的潛入夢境，不用帶回家睡（？）也能
  </div>
 <div>
 <ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?v=1655893669604" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG 2x" style="max-width: unset;" title="探索夢界場景中越多東西，就能解鎖越多關鍵法則的提示，讓時間不會白花" referrerpolicy="no-referrer"></figcaption>
-<figure class="pic-desc">
+<li class="bh-grids-img-box" style="width: 49.87%;">
+<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/16/1fa6671b021e5aefe83e1a90ac1gx105.JPG?v=1656043703087" data-srcset="https://p2.bahamut.com.tw/B/2KU/16/1fa6671b021e5aefe83e1a90ac1gx105.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/16/1fa6671b021e5aefe83e1a90ac1gx105.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/16/1fa6671b021e5aefe83e1a90ac1gx105.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/16/1fa6671b021e5aefe83e1a90ac1gx105.JPG 4x" style="max-width: unset;" title="探索夢界場景中越多東西，就能解鎖越多關鍵法則的提示，讓時間不會白花" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 49.87%;">
+<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?v=1656043703087" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/67/dd36dc52953476fba3fdfc6f3d1gvtz5.JPG 4x" style="max-width: unset;" title="探索夢界場景中越多東西，就能解鎖越多關鍵法則的提示，讓時間不會白花" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<li style="width: 100%">
+<figure class="common-desc">
 探索夢界場景中越多東西，就能解鎖越多關鍵法則的提示，讓時間不會白花</figure>
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <div>
 <h2>
 收錄小遊戲與額外內容！在辦案之餘調劑心靈</h2>
@@ -664,7 +669,7 @@ Wink Psync 可視為簡易版的潛入夢境，不用帶回家睡（？）也能
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG?v=1656003344277" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG 2x" style="max-width: unset;" title="也請期待一下不可或缺的歌舞場面！" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG?v=1656003344277" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/d67d65ca64bc9ae759d8136fe31gwwv5.JPG 2x" style="max-width: unset;" title="也請期待一下不可或缺的歌舞場面！" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 也請期待一下不可或缺的歌舞場面！</figure>
 </li>
