@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830'
 author: 巴哈姆特
 comments: false
-date: 2022-06-24 10:11:34
+date: 2022-06-24 11:09:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830'
 ---
 
 <div>   
 <div>
 <p>
-　　由巴哈姆特電玩資訊戰舉辦、今年已經邁入第 11 年的「巴哈姆特 ACG 創作大賽」，已經於 6 月 20 日（一）起開放玩家人氣投票，至 7 月 15 日（五）止。歡迎玩家踴躍投票來給予自己支持的創作者鼓勵。</p>
+　　由巴哈姆特電玩資訊戰舉辦、今年已經邁入第 11 年的「巴哈姆特 ACG 創作大賽」，於 6 月 20 日（一）起至 7 月 15 日（五）止開放玩家人氣投票，歡迎玩家踴躍投票來給予自己支持的創作者鼓勵。</p>
 <p>
  </p>
 <p>
@@ -24,7 +24,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.
  </p>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?v=1656060220830" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/10/2ca915aa926c947b41c09268791gxby5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <p>
  </p>

@@ -1,0 +1,1380 @@
+
+---
+title: '_Unclassified_&nbsp;「SEGA Steam 夏季特賣 2022」開跑　超過 40 款 Steam 遊戲特價'
+categories: 
+ - 游戏
+ - 巴哈姆特
+ - GNN 新聞
+headimg: 'https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?v=1656060617778'
+author: 巴哈姆特
+comments: false
+date: 2022-06-24 11:09:12
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?v=1656060617778'
+---
+
+<div>   
+<div>
+<p>
+　　世雅股份有限公司今（24）日宣布，今日起舉辦期間限定的「SEGA Steam 夏季特賣 2022」，部分於 Steam 販售中的 PC 版遊戲將以優惠價販售。</p>
+<div>
+<div>
+ </div>
+<div>
+　　官方指出，本次有超過 40 款遊戲加入特賣行列，包括《初音未來 Project DIVA MEGA39’s+》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+4+%E7%84%A1%E6%95%B5%E7%A9%B6%E6%A5%B5%E8%83%8C%E6%A9%8B%E6%91%94" target="_blank">女神異聞錄 4 無敵究極背橋摔</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83+%E7%81%AB%E4%B9%8B%E7%A5%9E%E8%A1%80%E9%A2%A8%E8%AD%9A" target="_blank">鬼滅之刃 火之神血風譚</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+7+%E5%85%89%E8%88%87%E9%97%87%E7%9A%84%E5%8E%BB%E5%90%91+%E5%9C%8B%E9%9A%9B%E7%89%88" target="_blank">人中之龍 7 光與闇的去向 國際版</a>》等作品。</div>
+<div>
+ </div>
+<h2>
+SEGA Steam 夏季特賣 2022</h2>
+<div>
+ </div>
+<h3>
+活動期間</h3>
+<div>
+ </div>
+<div>
+　　即日起至 2022 年 7 月 8 日（五）0：59</div>
+<div>
+ </div>
+<div>
+　　SEGA Steam 夏季特賣 2022 特設網站：<a href="https://store.steampowered.com/publisher/Sega">https://store.steampowered.com/publisher/Sega</a></div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 49.87%;">
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?v=1656060617778" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/22/67541d89adf77c707a0a65fb791gxca5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 49.87%;">
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/a49cdc0c992cf01f1e664e8c9c1gxcb5.JPG?v=1656060617778" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/a49cdc0c992cf01f1e664e8c9c1gxcb5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/23/a49cdc0c992cf01f1e664e8c9c1gxcb5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/23/a49cdc0c992cf01f1e664e8c9c1gxcb5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/23/a49cdc0c992cf01f1e664e8c9c1gxcb5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+<h3 align="left" class="cjk" style="margin-bottom: 0cm; line-height: 0.49cm;">
+SEGA／ATLUS　特價遊戲一覽</h3>
+<div>
+ </div>
+<table border="1" cellpadding="1" cellspacing="0" class="gnn-table" style="width: 620.797px;" width="582">
+<colgroup>
+<col width="481">
+<col width="71">
+</colgroup>
+<tbody>
+<tr>
+<td bgcolor="#b6dde8">
+<p style="text-align: center;">
+<span style="font-size: 16px;">遊戲名稱</span></p>
+</td>
+<td bgcolor="#b6dde8">
+<p style="text-align: center;">
+<span style="font-size: 16px;">折扣率</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">初音未來 Project DIVA MEGA39’s+</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">20%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83+%E7%81%AB%E4%B9%8B%E7%A5%9E%E8%A1%80%E9%A2%A8%E8%AD%9A" target="_blank">鬼滅之刃 火之神血風譚</a></span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">35%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83+%E7%81%AB%E4%B9%8B%E7%A5%9E%E8%A1%80%E9%A2%A8%E8%AD%9A" target="_blank">鬼滅之刃 火之神血風譚</a> 豪華版</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">40%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Shining Resonance Refrain（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%85%89%E6%98%8E%E4%B9%8B%E9%9F%BF+%E9%BE%8D%E5%A5%8F%E5%9B%9E%E9%9F%B3" target="_blank">光明之響 龍奏回音</a>）</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Super Monkey Ball: Banana Blitz HD+E4:G4（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8F%BE%E5%9A%90%E5%A5%BD%E6%BB%8B%E5%91%B3%EF%BC%81%E8%B6%85%E7%B4%9A%E7%8C%B4%E5%AD%90%E7%90%83" target="_blank">現嚐好滋味！超級猴子球</a>）</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">70%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Sonic Forces</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Sonic Mania</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8F%BE%E5%9A%90%E5%A5%BD%E6%BB%8B%E5%91%B3%EF%BC%81%E8%B6%85%E7%B4%9A%E7%8C%B4%E5%AD%90%E7%90%83+1%262+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">現嚐好滋味！超級猴子球 1&2 重製版</a></span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">40%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8F%BE%E5%9A%90%E5%A5%BD%E6%BB%8B%E5%91%B3%EF%BC%81%E8%B6%85%E7%B4%9A%E7%8C%B4%E5%AD%90%E7%90%83+1%262+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">現嚐好滋味！超級猴子球 1&2 重製版</a> 數位豪華版</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Team Sonic Racing</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=2020+%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B+The+Official+Video+Game" target="_blank">2020 東京奧運 The Official Video Game</a></span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">65%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Valkyria Chronicles 4 Complete Edition（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%A0%B4%E5%A5%B3%E6%AD%A6%E7%A5%9E+4" target="_blank">戰場女武神 4</a>）</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">80%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">VANQUISH</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">PUYO PUYO CHAMPIONS（魔法氣泡 eSports）</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">70%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;"><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E6%B3%95%E6%B0%A3%E6%B3%A1+%E7%89%B9%E8%B6%A3%E6%80%9D+%E4%BF%84%E7%BE%85%E6%96%AF%E6%96%B9%E5%A1%8A+2" target="_blank">魔法氣泡 特趣思 俄羅斯方塊 2</a></span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">65%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Puyo Puyo™Tetris</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">50%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">BAYONETTA</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza 0</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza Kiwami</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">65%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza Kiwami 2</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">65%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza 3 Remastered</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza 4 Remastered</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza 5 Remastered</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Yakuza 6: The Song of Life</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+7+%E5%85%89%E8%88%87%E9%97%87%E7%9A%84%E5%8E%BB%E5%90%91+%E5%9C%8B%E9%9A%9B%E7%89%88" style="font-size: 16px;" target="_blank">人中之龍 7 光與闇的去向 國際版</a></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">55%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+7+%E5%85%89%E8%88%87%E9%97%87%E7%9A%84%E5%8E%BB%E5%90%91+%E5%9C%8B%E9%9A%9B%E7%89%88" style="font-size: 16px;" target="_blank">人中之龍 7 光與闇的去向 國際版</a><span style="font-size: 16px;"> Hero Edition</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">60%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+7+%E5%85%89%E8%88%87%E9%97%87%E7%9A%84%E5%8E%BB%E5%90%91+%E5%9C%8B%E9%9A%9B%E7%89%88" style="font-size: 16px;" target="_blank">人中之龍 7 光與闇的去向 國際版</a><span style="font-size: 16px;"> Legendary Hero Edition</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">63%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">真・女神轉生 III NOCTURNE HD REMASTER</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">45%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">真・女神轉生 III NOCTURNE HD REMASTER 數位豪華版</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">55%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Persona 4 Golden</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">25%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Persona 4 Golden - Digital Deluxe Edition</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">30%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Persona 4 Arena Ultimax</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">25%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">女神異聞錄 5 亂戰：魅影攻手</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">50%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">女神異聞錄 5 亂戰：魅影攻手 - Digital Deluxe Edition</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">55%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">HUMANKIND</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">33%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">TWO POINT HOSPITAL</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War: WARHAMMER</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War: WARHAMMER II</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">66%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War: WARHAMMER III</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">10%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War: ROME II - Emperor Edition</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">75%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War: THREE KINGDOMS</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">50%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War Rome Remastered</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">33%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Total War Saga: Troy</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">33%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Company of Heroes</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">80%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Company of Heroes 2</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">80%OFF</span></p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>
+<span style="font-size: 16px;">Football Manager 2022</span></p>
+</td>
+<td>
+<p>
+<span style="font-size: 16px;">50%OFF</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+ </div>
+<div>
+<span style="color:#a52a2a;"><span style="font-size:13px;">※ 購買前請務必確認特價遊戲品項，以及售價是否為優惠價。</span></span></div>
+<div>
+<span style="color:#a52a2a;"><span style="font-size:13px;">※ 以上促銷列表中包含不支持中文的作品，關於遊戲的支持語言請至 Steam 商店頁面確認。</span></span></div>
+</div>
+<div>
+ </div>
+<p style="font-size: 12px; padding: 10px 0;">©SEGA 
+©ATLUS ©SEGA All rights reserved.
+</p>
+</div>
+<!-- 新聞內容結束 -->
+  
+</div>
+            
