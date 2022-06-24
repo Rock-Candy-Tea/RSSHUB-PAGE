@@ -1,0 +1,19 @@
+
+---
+title: '武汉首开复兴号智能动车组：商务座一人一舱 二等座增加USB充电接口'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0624/6d9c2f135bc3955.jpg'
+author: cnBeta
+comments: false
+date: Fri, 24 Jun 2022 02:17:22 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0624/6d9c2f135bc3955.jpg'
+---
+
+<div>   
+6月20日，京广高铁京武段，由时速310公里达标运营提升至时速350公里高标运营，该区段整体运输能力将提升7%，相当于每日可最多增开15列北京至武汉的高铁列车、增加1.8万个席位。北京到武汉高铁缩短至4小时内京广高铁京武段本线，北京西至石家庄、郑州东、武汉最快旅行时间分别压缩至1小时01分、2小时11分、3小时48分。<br>
+ <p>据中国铁路消息，随着京广高铁京武段常态化按时速350公里高标运营，<strong>武汉局集团公司首次开行复兴号智能动车组，此次从武汉站始发的G66次列车，使用的是“瑞龙智行”涂装的CR400AF-Z型复兴号智能动车组。</strong></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/6d9c2f135bc3955.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/6d9c2f135bc3955.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/6d9c2f135bc3955.jpg" referrerpolicy="no-referrer"></a></p><p><strong>商务座采用全新的“鱼骨式”布局用流畅大S曲线实现区域分隔，一人一舱</strong>，提升了私密性，同时还提供信息娱乐、无线投屏、无线充电等智能交互服务。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/82143d81209e9ba.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/82143d81209e9ba.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/82143d81209e9ba.jpg" referrerpolicy="no-referrer"></a></p><p><strong>一等座席增加电动调节腿托以及USB接口数量</strong>，在座椅后背设置抽拉式小桌板，让旅客使用更方便。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/b5c2f7e49eafb9c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/b5c2f7e49eafb9c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/b5c2f7e49eafb9c.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/2580c3202158a83.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/2580c3202158a83.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/2580c3202158a83.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/caa82e6a1491fd5.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/caa82e6a1491fd5.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/caa82e6a1491fd5.jpg" referrerpolicy="no-referrer"></a></p><p><strong>二等座席在座椅后方增加了USB充电接口，方便旅客充电。</strong>同时加深小桌板杯托凹槽深度，提高水杯放置的稳定性。</p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/76c05891bf86fc2.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/76c05891bf86fc2.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/76c05891bf86fc2.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/c3f744e1a184ff7.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/c3f744e1a184ff7.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/c3f744e1a184ff7.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/64c5dbb1658abaf.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/64c5dbb1658abaf.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/64c5dbb1658abaf.jpg" referrerpolicy="no-referrer"></a></p><p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0624/e83b54e44e8a649.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0624/e83b54e44e8a649.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0624/e83b54e44e8a649.jpg" referrerpolicy="no-referrer"></a></p><p>在车厢里增加盲文标识，同时无障碍车厢配备更宽的通过门，无障碍卫生间、轮椅放置等区域，满足不同人群出行需求。</p>   
+</div>
+            

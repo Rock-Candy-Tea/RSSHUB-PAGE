@@ -1,0 +1,59 @@
+
+---
+title: '单品数据线销量1.5万件，Anker 如何布局 TikT'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://qnssl.niaogebiji.com/802b85a4f462cbdab3223a8ba0ca53c5.png'
+author: 鸟哥笔记
+comments: false
+date: Thu, 23 Jun 2022 10:11:00 GMT
+thumbnail: 'https://qnssl.niaogebiji.com/802b85a4f462cbdab3223a8ba0ca53c5.png'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">据 GoodSpy 数据显示，Anker 在印尼小店已累计上架近160件商品，在近期的 TikTok 印尼销量总榜中，Anker 凭借一款数据线强势登上榜首，总销量近1.5万！这也意味已经有不少行业头部大卖关注到 TikTok 电商这块赛道。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/802b85a4f462cbdab3223a8ba0ca53c5.png" width="1080" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1080px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：GoodSpy </h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">Anker 是全球高品质智能充电的头部品牌，主营产品涵盖移动电源、充电器、数据线、蓝牙外设等智能数码周边。此前，Anker 的重心一直放在北美和欧洲市场，但近年来，其在一些新兴市场如东南亚、南美等市场的投入也逐渐加大。</p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; padding-left: 12px; background-position: 0px 5px; background-repeat: no-repeat no-repeat;">01、入局东南亚，从平台电商到社交电商</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">提起 Anker，大部分跨境人对其印象似乎还停留在亚马逊大卖中，然而随着海外流量格局变化，以 TikTok 为代表的流量新贵崛起以及“品牌＋私域”、“社交电商”等新玩法的冲击，Anker 也在尝试拓展一些新平台或新渠道以减少对传统电商的依赖，同时提高抗风险能力。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">从 Anker 公布的财报来看，2021年 Anker 在亚马逊营收占比同比下降明显，贡献率不足六成。同时在独立站和其它平台收入占比上升，增速分别为83%和92%。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/c3ed31739b29f96d34453737578aadec.png" width="878" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:878px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：Anker</h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">除了拓展新渠道外，在市场投入上也有变化。据了解，Anker在一些新兴市场，如东南亚、拉美等新市场的收入贡献同比增长约75%，未来还会继续发力。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">印尼是 Anker 布局东南亚市场的重点，从收集到的信息来看，Anker在印尼基于“线上＋线下”全渠道布局，在当地有14间实体门店。在线上更是几乎覆盖了印尼老牌和新兴的电商平台，如 Tokopedia、Shopee、Lazada、JDid 等。此外，Anker 还较早地搭建了印尼独立站，并有一定的流量访问。 </p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/c80c6b904687d24e2913abe1c1f6cd9b.png" width="554" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:554px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：linktr.ee/ankerindonesia</h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">除了拓展销售渠道外，私域流量的获取也是 Anker 入局东南亚的重点策略。目前，Anker 已建立起一批针对印尼用户的社媒账号矩阵，其中TikTok最为突出，仅用一年多的时间，粉丝量就累积突破65万。其次是 Instagram 和Facebook。由此也可以得知，TikTok 是 Anker 私域流量获取的主阵地。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/0b49a9811e1fc2a3b5eebf2411061887.png" width="1061" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1061px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：公开信息整理</h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">社交电商在印尼发展趋势向好，相较电商平台 Shopee、Lazada等，TikTok 有着更高的流量变现潜力。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">从今年新出炉的几组数据来看： </p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">1. 2021年TikTok下载量超过30亿次，超过 Instagram 和 Facebook，流量规模大；</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">2. 好物推荐 #TikTokmademebuyit 标签下的作品，总播放量已经超过109亿次；</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">3. 2022年4月，TikTok 电商单日全球GMV增至640万美金，双月环比增长81%。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">目前 TikTok 用户习惯已逐渐被市场“调教”并初具成效。虽然国内抖音电商玩法放在 TikTok 上仍过于“先进”，但在一些市场，尤其是在东南亚，短视频和直播带货正逐渐被认可且流行，TikTok电商未来仍有很大爆发空间，这也是Anker较早布局TikTok电商的原因之一。</p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; padding-left: 12px; background-position: 0px 5px; background-repeat: no-repeat no-repeat;">02、小试牛刀，TikTok 单品销量超1.5万 </h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">GoodSpy 数据显示，近期Anker在印尼TikTok电商上的一款 B8133 数据线有着较高的出单量，目前产品已经告罄。该款产品单价为99,000印尼（约6.76美元），包含三根不同线长的数据线（1ft、3ft和6ft），通过组合销售来提高客单价，同时得益 Anker 品质保障，因此在主打“性价比”的TikTok电商上也能取得不错的成绩，销量数据甚至超过一些电商平台。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">能玩转营销也是 Anker 能在 TikTok 电商出单的重要原因之一。Anker 在TikTok 上邀请大量的 KOL 和 KOC 进行长期合作，粉丝数量从数千到数万甚至更高不等。主要内容为开箱测评、同类产品对比等直观展现产品的优势。除此之外还善用标签并引导用户参与，如在标签 #ankerindonesia 下，播放量已累计突破6900万。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/13df767e7d036df612c3a3e18794b8d2.png" width="1080" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1080px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：TikTok </h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">除了短视频发力外，Anker 还通过直播带货来积极促单，通过丰富的直播创意玩法，如新品直降，爆款秒杀，下单抽奖等调动直播间气氛，刺激用户下单。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">另一方面，据 GoodSpy 数据显示，Anker 在 TikTok 上也有不少广告投放，但投放地区主要集中在以美国、英国为代表的欧美市场，目前在东南亚重点还是放在免费流量上。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/50c45774cf4d1319a09d83a70321e130.png" width="1080" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1080px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：GoodSpy</h4>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; padding-left: 12px; background-position: 0px 5px; background-repeat: no-repeat no-repeat;"> 03、印尼 TikTok，走“品牌化”还是“性价比”？ </h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">印尼是东南亚人口最多的国家且市场体量最大，互联网渗透率高，近年电商基建也在不断完善，电商环境快速发展。但目前人均购买力仍较低，消费群体趋于年轻化，对品牌依赖度低于欧美发达国家，在产品上更追求性价比。</p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/64b58a5276d49b4edc95e2e3c49951af.png" width="1080" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1080px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：GoodSpy东南亚电商报告</h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">对比Anker在印尼其它电商平台，可以发现，Anker采取的是“阶梯式”的销售策略，不同平台主打的产品会更有针对性。比如在独立站，Anker走的是精品模式，重产品，客单价相较其它渠道会更高，价格低于20美元的产品仅占5%。而在 TikTok 电商、Lazada 和 Tokopedia 上，商品量以及价格分布都有很大差异。在 TikTok 上的商品量为161件，价格低于20美元的产品占比为38%，因此Anker 在 TikTok 电商上仍是走低价策略。 </p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://qnssl.niaogebiji.com/fedd8047d1721f2e52b590144837d220.png" width="1080" title="单品数据线销量1.5万件，Anker 如何布局 TikT" alt="单品数据线销量1.5万件，Anker 如何布局 TikT" style="width:1080px;height:auto;" referrerpolicy="no-referrer"> </p>
+<h4 style="background-image: none; font-size: 14px; color: #818386; text-align: center; font-weight: 300; line-height: 30px; margin: 25px 0px;">来源：公开资料整理</h4>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">虽如此，但 Anker 的单价在 TikTok 上仍相对较高。以手机数据线为例，印尼TikTok 电商上约有56%的同类产品低于3美元，价格较 Anker 推出的B8133低了一倍多。但该款产品还是做到的近1.5万的出单，这得益于 Anker 强大的品牌背书，以及硬核产品品质支撑。据了解，Anker 每年投入研发的费用近8亿元，并将持续提升产品品质把控能力作为工作规划的重心。因此，入局印尼TikTok电商，除了价格吸引外，另一个关键点还是要回到提升产品品质上。</p>
+<p class="MsoNormal" style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;">以上为《单品数据线销量1.5万件，Anker 如何布局TikTok印尼电商？》。<span style="mso-spacerun: 'yes'; font-family: Calibri; mso-fareast-font-family: 宋体; mso-bidi-font-family: 'Times New Roman'; font-size: 10.5000pt; mso-font-kerning: 1.0000pt;"></span></p>                        <div style="height: 1px"></div>
+                      
+</div>
+            
