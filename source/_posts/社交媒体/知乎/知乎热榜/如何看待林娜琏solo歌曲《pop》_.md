@@ -1,0 +1,18 @@
+
+---
+title: '如何看待林娜琏solo歌曲《pop》_'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic2.zhimg.com/v2-c870a548e552e67bd441ee4fa5c24d46_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Fri, 24 Jun 2022 07:56:06 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-c870a548e552e67bd441ee4fa5c24d46_1440w.jpg?source=b1748391'
+---
+
+<div>   
+ZNZHANG的回答<br><br><p data-pid="ofsoNdJR">完全为她量身定做的歌曲和MV</p><p><br></p><p data-pid="OQIwtEFh">虽然不是娜琏的唯粉 但是最近也有在关注着回归动向</p><p data-pid="bqhO5LHp">当时看了预告照 心里有种不妙的感觉 </p><p data-pid="k_VwIDq4">不过整曲出来之后 完全反转</p><p><br></p><p data-pid="cc1WLfyt">什么叫量身定做</p><p data-pid="d14CXW3m">你尝试一下 把其他idol代入进这个mv和歌曲</p><p data-pid="DoqAw4yY">能有这个效果吗?</p><p data-pid="7LY2xnSu">至少在我这 没有 </p><p data-pid="CyVN-Kdm">林娜琏平时给大众什么印象</p><p data-pid="1TzSRW2U">是这样的</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c870a548e552e67bd441ee4fa5c24d46_1440w.jpg?source=b1748391" data-rawwidth="1080" data-rawheight="1620" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-82ce962192a6b4a4ee77294678fb5f7d_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c870a548e552e67bd441ee4fa5c24d46_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-4c7ea9596ae65bdbd2f3adf0132f5fb4_1440w.jpg?source=b1748391" data-rawwidth="2048" data-rawheight="1378" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-a489a050d87d5986315675169f7d965b_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-4c7ea9596ae65bdbd2f3adf0132f5fb4_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-d6fe1cc90f5bd80483c2b376f273858b_1440w.jpg?source=b1748391" data-rawwidth="2000" data-rawheight="1333" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-9eca816fb8d8ba23e9c145a7e16344b0_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-d6fe1cc90f5bd80483c2b376f273858b_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="kEzIYAJU">台上和私底下都是活泼灵动可爱的特性</p><p data-pid="cSWN7nYA">这跟momo的运动性感 mina的易碎感 sana的钓系不同 这就是只属于娜琏自己的特性</p><p data-pid="eupjwkSa">所以这也就是元气兔时期为啥娜琏成为twice代表的原因</p><p><br></p><p data-pid="RnrDEuLQ">这次不是idol去适应企划 </p><p data-pid="TrCeOS29">而是企划本身去贴合idol</p><p data-pid="J8Igu1w9">jype总算对twice做了一次好事</p><p><br></p><p data-pid="GCAq6Fu5">整个曲子 虽然对于我来说 还是那种“为了洗脑而洗脑”的范畴</p><p data-pid="gj0gGX9-">听完之后除了“pop pop pop”好像也没有记得什么</p><p data-pid="vnNuuUGu">但是因为本身歌曲和mv跟娜琏适配度太高了</p><p data-pid="nUf4SuFH">所以竟然让我有点忽略这个事情</p><p data-pid="lX8TiV6T">而且整首歌其他先不说 风格是统一的</p><p data-pid="GjOXqdz3">背后的音色乃至主歌副歌的结构和风格</p><p data-pid="C5vOeaLn">都是统一的 </p><p data-pid="ArQ8Nxlh">这个在我眼里就赢过很多拼接曲</p><p><br></p><p data-pid="ncJcJU7V">所以总结一下就是</p><p data-pid="9dRaZ9-U">歌曲一般 但是跟idol本人匹配度太高 一次成功的solo出道</p><p><br></p><p data-pid="Im-dP5Il">而且会让我想到后续twice的发展</p><p data-pid="u6iLqHjq">其实元气风对于twice来说 是登神之梯 也是绊脚石</p><p data-pid="2uLU1WCq">本来到了一定的年份 进行转型是很正常的事</p><p data-pid="mxuKnZhJ">但是jype始终无法割舍元气风</p><p data-pid="xPusBS_c">这几年转型转的极其混乱 一会转型其他风格</p><p data-pid="dG7QaffW">一会儿又回去了</p><p><br></p><p data-pid="1u-NEZZJ">现在元气风被娜琏接手 </p><p data-pid="Ysb5FFZn">那就代表 大队现在可以尝试探索更多不同的风格了</p>  
+</div>
+            
