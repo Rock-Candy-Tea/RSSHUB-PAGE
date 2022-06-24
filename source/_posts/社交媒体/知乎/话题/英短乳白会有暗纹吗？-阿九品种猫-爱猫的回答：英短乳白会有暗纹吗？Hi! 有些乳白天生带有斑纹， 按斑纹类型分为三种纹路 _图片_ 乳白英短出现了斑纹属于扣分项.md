@@ -1,0 +1,18 @@
+
+---
+title: '英短乳白会有暗纹吗？-阿九品种猫-爱猫的回答：英短乳白会有暗纹吗？Hi! 有些乳白天生带有斑纹， 按斑纹类型分为三种纹路 _图片_ 乳白英短出现了斑纹属于扣分项...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-909f9e750a55800b6b4924e45c452334_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Fri, 24 Jun 2022 04:49:28 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-909f9e750a55800b6b4924e45c452334_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>英短乳白会有暗纹吗？</strong><br>阿九品种猫-爱猫的回答<br><h2>英短乳白会有暗纹吗？</h2><p data-pid="56nxuvix">Hi!</p><p data-pid="x2orIIuu">有些乳白天生带有斑纹，</p><p data-pid="ZHcBjVQW">按斑纹类型分为三种纹路</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-909f9e750a55800b6b4924e45c452334_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="3334" data-rawheight="6280" data-default-watermark-src="https://pic2.zhimg.com/50/v2-ccf024475d14650369b93b3303903f00_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-909f9e750a55800b6b4924e45c452334_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="-Rr0R7ea">乳白英短出现了斑纹属于扣分项。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c29b79b87e27eb20ecec8cdab42774ec_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2354" data-default-watermark-src="https://pic1.zhimg.com/50/v2-97e84606b87e64554fe35b5cfcf35be9_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c29b79b87e27eb20ecec8cdab42774ec_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://picx.zhimg.com/v2-ac847c323c349518ba899d572969ed2f_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2087" data-default-watermark-src="https://pica.zhimg.com/50/v2-9ced2729cf21d5930d51e4fadeee54be_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-ac847c323c349518ba899d572969ed2f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-e0a5de3d64ca07e862f007296a6de067_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="2593" data-default-watermark-src="https://pic4.zhimg.com/50/v2-7c779feec6d84c850b2a212e3fe55dec_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-e0a5de3d64ca07e862f007296a6de067_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/v2-004e6b738838479d1f287817372b0416_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="473" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2c6e7831ee988ed3bd5304a5a687aae9_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-004e6b738838479d1f287817372b0416_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="1VitNneK">希望阿九品种猫的解答能够解决你的疑惑。如果答案还有疑惑的地方可以追问哦!</p><h2>题目​更详细相关干货，在这篇整理了一个月的文章，一次性搞懂英短小猫咪！</h2><a href="https://zhuanlan.zhihu.com/p/453862038" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-3ff47f918e5b7a547ae0d93ba64ba28b_180x120.jpg" data-image-width="555" data-image-height="236" class="internal">阿九品种猫-爱猫：金渐层，银渐层，乳白，蓝白，蓝猫，英短最新市场行情价格，在哪里购买，如何看血统是否纯正，存在失格的现象？</a><p></p>  
+</div>
+            
