@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220625/1656106155_4415
 《神秘海域：盗贼传奇合辑》PC版最初于2021年9月公布。不过从那以后索尼并没有放出更多关于这一合集性质游戏的信息。虽然之前有传言称Metacritic显示PC版于6月20日推出，但随着该日期已经过去，也证实了这一传言并不准确。Steam的数据库网站SteamDB显示了该游戏的新发行日期，为10月19日。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220625/1656106155_441570.jpg" alt="根据SteamDB《神秘海域：盗贼传奇合辑》PC版10月推出" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220625/1656106155_441570.jpg" alt="根据SteamDB《神秘海域：盗贼传奇合辑》PC版10月推出" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《神秘海域：盗贼传奇合辑》SteamDB官方页面已经更新了新的发行日期。根据信息，这款游戏将于10月19日发行。SteamDB之前标记的发行日期为7月15日（Epic Games商城中标记发行日期为6月20日)。
