@@ -13,10 +13,10 @@ thumbnail: 'https://img1.mydrivers.com/img/20220625/s_59c4207e31204e0db9a4f1e222
 ---
 
 <div>   
-<p>今天上午，知名爆料博主@数码闲聊站 发文称，vivo阵营将落地20V/10A 200W规格的充电器，这就意味着2000W级快充即将问世。</p>
+<p>今天上午，知名爆料博主@数码闲聊站 发文称，vivo阵营将落地20V/10A 200W规格的充电器，这就意味着200W级快充即将问世。</p>
 <p>结合此前多方爆料来看，<span style="color:#ff0000;"><strong>即将在下个月登场的iQOO 10 Pro极大可能会首发200W快充。</strong></span></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220625/59c4207e31204e0db9a4f1e2226b6aa4.png" target="_blank"><img alt="曝iQOO 10 Pro将首发200W快充：12分钟就能完全充满！" h="157" src="https://img1.mydrivers.com/img/20220625/s_59c4207e31204e0db9a4f1e2226b6aa4.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-<p>根据外网的消息显示，iPhone 10 Pro的200W快充让手机充电时间进一步缩减，<strong>仅需12分钟就能将电池从0充到100%，可以火速回血。</strong></p>
+<p>根据外网的消息显示，iQOO 10 Pro的200W快充让手机充电时间进一步缩减，<strong>仅需12分钟就能将电池从0充到100%，可以火速回血。</strong></p>
 <p>除了快充之外，iQOO 10系列在性能上也做到了业内顶级，将首批搭载高通骁龙8+旗舰处理器。</p>
 <p>这颗处理器的Cortex-X2超大核最高主频提升到了3.2GHz，峰值性能更强，由于更换了台积电工艺，并且针对功耗和发热做了专门的优化，性能发挥应该会比骁龙8更加稳定。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220625/e17bd675206f427c8fea6f4f1bada444.jpg" target="_blank"><img alt="曝iQOO 10 Pro将首发200W快充：12分钟就能完全充满！" h="514" src="https://img1.mydrivers.com/img/20220625/s_e17bd675206f427c8fea6f4f1bada444.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
@@ -30,7 +30,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220625/s_59c4207e31204e0db9a4f1e222
            <p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p>
 <div style="overflow: hidden;font-size:14px;">
            <p class="zhuanzai"><strong>如需转载请务必注明出处：快科技</strong></p>  
-          <p class="url"><span style="color:#666">责任编辑：建嘉</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+          <p class="url"><span style="color:#666">责任编辑：宪瑞</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
         </div>
         <div class="page_article" id="bnext">
  
