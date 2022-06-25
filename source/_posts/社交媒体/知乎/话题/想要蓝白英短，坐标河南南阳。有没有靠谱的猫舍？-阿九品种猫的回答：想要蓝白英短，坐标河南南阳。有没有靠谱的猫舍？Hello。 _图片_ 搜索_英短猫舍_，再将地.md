@@ -1,0 +1,18 @@
+
+---
+title: '想要蓝白英短，坐标河南南阳。有没有靠谱的猫舍？-阿九品种猫的回答：想要蓝白英短，坐标河南南阳。有没有靠谱的猫舍？Hello。 _图片_ 搜索_英短猫舍_，再将地...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-c54bc3f52cf6c67cc13430c5f2ea38e1_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 25 Jun 2022 04:55:35 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-c54bc3f52cf6c67cc13430c5f2ea38e1_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>想要蓝白英短，坐标河南南阳。有没有靠谱的猫舍？</strong><br>阿九品种猫的回答<br><h2>想要蓝白英短，坐标河南南阳。有没有靠谱的猫舍？</h2><p data-pid="7avMeBS9">Hello。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c54bc3f52cf6c67cc13430c5f2ea38e1_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="803" data-rawheight="638" data-default-watermark-src="https://pica.zhimg.com/50/v2-3ff031dc2ec52a8f436007a32917ab4e_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c54bc3f52cf6c67cc13430c5f2ea38e1_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="ewMPpdgV">搜索“英短猫舍”，再将地区设置为“河南”，任君选择</p><p data-pid="1mEidR6b">在说说怎么看猫舍靠谱与否，</p><p data-pid="X-tI-XvR">从售前（卖家耐心与否、小猫是否带证书、猫舍环境）</p><p data-pid="OoowLlEA">售后（健康包多久，出现了遗传病如何处理，运输过程出问题如何处置）</p><p data-pid="W7aVVmzM">小猫价格是否合理等多方面来判断</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-ebd1ce29e0e7a9d819e8045437326769_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1601" data-rawheight="3909" data-default-watermark-src="https://picx.zhimg.com/50/v2-f153f5be803c542e91f9c989dfb42ece_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-ebd1ce29e0e7a9d819e8045437326769_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f7ae5270e182463b1f8bffcb3e1bd4ff_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1601" data-rawheight="4312" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f37eb79bccd570548ad1fa80d1d5b743_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f7ae5270e182463b1f8bffcb3e1bd4ff_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/v2-ddd363fed113ee2650dc4614da03664b_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1601" data-rawheight="4336" data-default-watermark-src="https://pic3.zhimg.com/50/v2-56f62c16e9d6d402c78d0d85f48f00d8_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-ddd363fed113ee2650dc4614da03664b_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-a823ddb6beab6ae0838d51e42279a23a_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1601" data-rawheight="2744" data-default-watermark-src="https://pica.zhimg.com/50/v2-ce90cbfdcdcfab40261f18d357e7b469_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-a823ddb6beab6ae0838d51e42279a23a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="cQpUAx8Y">​希望这个解答能消除题主的疑问。</p><h2>此问题更详尽英短猫相关知识，就看这一篇整理了一个月的文章，已经将养猫的时候可能掉的雷区全部先行填好了。</h2><a href="https://zhuanlan.zhihu.com/p/513923412" data-draft-node="block" data-draft-type="link-card" data-image="https://pic4.zhimg.com/v2-8a663d51f5ffce2b286a0e96316aee23_180x120.jpg" data-image-width="720" data-image-height="502" class="internal">阿九品种猫：一篇文章掌握英短的所有知识！</a><p></p>  
+</div>
+            
