@@ -1,0 +1,19 @@
+
+---
+title: '充一次电跑 1202km、时速 140 公里 _ 小时，奔驰最强概念车 VISION EQXX 正式公布'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/deaeb368-8eb7-4cfe-9493-f40d2b18a7dc.png'
+author: IT 之家
+comments: false
+date: Fri, 24 Jun 2022 13:39:08 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/deaeb368-8eb7-4cfe-9493-f40d2b18a7dc.png'
+---
+
+<div>   
+<p data-vmark="5af2">6 月 24 日消息，今日，奔驰拿出了自家下个时代的产物 ——VISION EQXX 概念车。</p><p style="text-align: center;" data-vmark="80a3"><img src="https://img.ithome.com/newsuploadfiles/2022/6/deaeb368-8eb7-4cfe-9493-f40d2b18a7dc.png" w="654" h="675" title="充一次电跑 1202km、时速 140 公里 / 小时，奔驰最强概念车 VISION EQXX 正式公布" width="654" height="675" referrerpolicy="no-referrer"></p><blockquote><p style="text-align: center;" data-vmark="4257">突破自我！1,202 续航里程，达成！<br>VISION EQXX 概念车 夏季公路旅行，续航再创纪录！<br>VISION EQXX 本次自德国斯图加特至英国银石赛道的长途旅行中，单次充电行驶了 1,202 公里。抵达银石赛道后，电动方程式赛车手 尼克・德・弗里斯 (Nyck de Vries) 还在赛道上以最高时速 140 公里 / 小时行驶了 11 圈。<br>同时，这段为期两天，14 小时 30 分钟的路程，EQXX 更以其创新的热能管理系统，在交通繁忙及夏季高达 30 摄氏度气温的情况下，实现了 8.3 千瓦时 / 百公里 的平均耗能。<br>凭借两次成功的 1,000 公里以上的公路旅行，EQXX 充分证明了它是梅赛德斯-奔驰史上最高效的车。<br>梅赛德斯-奔驰也将保持创新精神，将更多技术应用于未来的量产车。<br>未来，无所设限。</p></blockquote><p style="text-align: center;" data-vmark="7825"><img src="https://img.ithome.com/newsuploadfiles/2022/6/ad32ca05-111e-4db6-a94b-3d6f2e5cbf1c.jpg@s_2,w_820,h_1458" w="1080" h="1920" title="充一次电跑 1202km、时速 140 公里 / 小时，奔驰最强概念车 VISION EQXX 正式公布" srcset="https://img.ithome.com/newsuploadfiles/2022/6/ad32ca05-111e-4db6-a94b-3d6f2e5cbf1c.jpg 2x" width="1080" height="1458" referrerpolicy="no-referrer"></p><p data-vmark="f72b">奔驰概念纯电汽车 VISION EQXX 在最近的一次赛事中，再次打破自身的续航里程纪录。满电续航由此前的 1000km 刷新为 1202km，成为奔驰史上最节能的一款车型。</p><p style="text-align: center;" data-vmark="fa2b"><img src="https://img.ithome.com/newsuploadfiles/2022/6/ee5e4609-371b-44e1-a337-e83d125b5399.jpg" w="640" h="296" title="充一次电跑 1202km、时速 140 公里 / 小时，奔驰最强概念车 VISION EQXX 正式公布" width="640" height="296" referrerpolicy="no-referrer"></p><p data-vmark="9712">据介绍，奔驰 VISION EQXX 这次从德国斯图加特出发，前往英国银石赛道。为期两天的行程中汽车共行驶了 14 小时 30 分钟，行驶路况与大多数车主日常驾驶路况相似，有高速路、拥堵路段等，期间空调使用时长超过 8 小时。汽车抵达银石赛道后还跑了 11 圈，最高时速达到 140km / h。</p><p data-vmark="98b4">在这样的驾驶环境下，奔驰 VISION EQXX 的实测续航达到 1202km，最终在维修区电量耗尽停车。整个过程中，该车的平均速度为 83km / h，平均能耗为 8.3kWh / 100km，1 度电大约能开 12 公里，这样的表现远远超越市面上绝大多数的电动汽车。</p><p style="text-align: center;" data-vmark="4e12"><img src="https://img.ithome.com/newsuploadfiles/2022/6/c8415490-63c3-4d59-904e-044052cdb3e9.jpg" w="640" h="360" title="充一次电跑 1202km、时速 140 公里 / 小时，奔驰最强概念车 VISION EQXX 正式公布" width="640" height="360" referrerpolicy="no-referrer"></p><p data-vmark="2dce">特斯拉在 2021 影响力报告中指出，Model Y 是目前最高效的纯电 SUV 之一，1 度电能开 6.4 公里，而其他品牌正常都只能开 5 公里左右。如此节能的特斯拉，在奔驰面前依旧只是弟弟，VISION EQXX 的能效几乎是 Model Y 的两倍，这续航真的是无人能敌。</p><p data-vmark="ab60">奔驰 VISION EQXX 能有如此强的续航表现，主要得益于强悍的配置及车身设计。该车的设计灵感来源于空气动力学概念车 Concept IAA，并搭载了轻质 F1 副车架纯电动底盘，整车重量仅 1750kg。车身内饰还引入轻量化的环保材料，为了减重不惜一切。</p><p style="text-align: center;" data-vmark="d877"><img src="https://img.ithome.com/newsuploadfiles/2022/6/88d96c8a-b416-4d89-941d-e6e468d433d7.jpg@s_2,w_820,h_462" w="1080" h="608" title="充一次电跑 1202km、时速 140 公里 / 小时，奔驰最强概念车 VISION EQXX 正式公布" srcset="https://img.ithome.com/newsuploadfiles/2022/6/88d96c8a-b416-4d89-941d-e6e468d433d7.jpg 2x" width="1080" height="462" referrerpolicy="no-referrer"></p><p data-vmark="4ac7">该车还搭载基于 AMG Project ONE 超级跑车动力装置改造的电力驱动系统，最大功率 150kW，电池包高达 100kWh。车顶还配备太阳能电池系统，可提供 25km 的额外续航。轻量化机身配合超大的电池包，才带来 1202km 的超长续航表现，这绝对是常规电动汽车都无法做到的。</p><p data-vmark="14c9">遗憾的是，VISION EQXX 是奔驰为了测试电池效率而打造的一款概念车，量产版车型肯定无法达到如此表现。不过，随着电池技术不断进步，电动汽车续航破 1200km 应该也很快就能实现了。</p>
+          
+</div>
+            
