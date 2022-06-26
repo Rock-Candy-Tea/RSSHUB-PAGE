@@ -8,7 +8,7 @@ categories:
 headimg: 'https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ba3c972-8372-453a-9a89-0dc8e7c2ad8b_1024x572.jpeg'
 author: Dockone
 comments: false
-date: 2022-06-26 10:09:02
+date: 2022-06-26 11:07:50
 thumbnail: 'https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ba3c972-8372-453a-9a89-0dc8e7c2ad8b_1024x572.jpeg'
 ---
 
