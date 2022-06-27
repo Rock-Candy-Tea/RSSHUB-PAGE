@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=8760'
+headimg: 'https://picsum.photos/400/300?random=1880'
 author: 知乎
 comments: false
-date: Mon, 27 Jun 2022 07:03:13 GMT
-thumbnail: 'https://picsum.photos/400/300?random=8760'
+date: Mon, 27 Jun 2022 06:41:24 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1880'
 ---
 
 <div>   
-秋冬夜的回答<br><br><p data-pid="fzQ69tIP">自己的过错只字不提把锅甩给用户，二维码扫码登录不会设置一定时间过期吗？不会设置游戏扫码或者其他扫码登录跟qq列表联系人隔绝开只留登录接口吗？</p><p data-pid="6GMvqCGt"> 普通用户就两种登录方式qq电脑跟手机，如果用其他方式登录并且可以向好友发消息发图片的都应该严格限制才对，短信验证码跟手机qq上都得确认才行，而且得让用户知道自己qq还在什么设备登录了。在用户毫不知情的情况下自己手机qq在线而且禁止了电脑同时在线，而其他设备登录了自己qq获取了联系人列表，还能随意发送消息自己还毫不知情，这就是漏洞。</p>  
+南国小汉子的回答<br><br><p data-pid="o8mUbKkV">这就是我们高科技行业的民族企业家。</p><p data-pid="r7jtdr8u">个人账号说封就封，解封路上困难重重一波九折，流程也非常搞笑堪比证明你妈是你妈。而诈骗犯却可以轻松绕过各种安全锁。</p><p data-pid="JoX3J-j7">说是地表最垃圾的互联网服务商一点都不冤枉。</p>  
 </div>
             
