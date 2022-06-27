@@ -1,0 +1,18 @@
+
+---
+title: '从Windows 98到Mars 2022：19岁的火星探水者迎来重大升级'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f869_1024.jpg'
+author: ZAKER
+comments: false
+date: Sun, 26 Jun 2022 20:02:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f869_1024.jpg'
+---
+
+<div>   
+<p><strong>欧航局 ( ESA ) Mars Express 上的 MARSIS 仪器因其在发现红色星球上的液态水迹象中的作用而闻名，现在它正在接受一次重大的软件升级</strong>，这将使它能比以往更详细地看到火星及其卫星火卫一的表面之下。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f869_1024.jpg" data-height="1707" data-width="2560" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f869_1024.jpg" referrerpolicy="no-referrer"></div></div>Mars Express 是 ESA 的第一个前往红色星球的任务。这个于 19 年前即 2003 年 6 月 2 日发射的轨道飞行器花了近 20 年时间研究地球的邻居并彻底改变了科学家们对火星的历史、现在和未来的认识。<p></p><p><strong>MARSIS - 红色星球上的水</strong></p><p>Mars Express 上的火星地下和电离层探测高级雷达 ( MARSIS ) 仪器在寻找和发现火星上的液态水迹象方面至关重要，包括在南极地区 1.5 公里的冰层下埋藏的一个疑似 20×30 公里的咸水湖。</p><p>MARSIS 由意大利国家天体物理研究所 ( INAF ) 操作并由意大利航天局 ( ASI ) 提供全部资金，其利用其 40 米长的天线向火星发送低频无线电波。</p><p><strong>火星表面下的水</strong></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f86a_1024.jpg" data-height="1728" data-width="2560" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202206/62b91e418e9f0940ad40f86a_1024.jpg" referrerpolicy="no-referrer"></div></div>这些电波大部分从行星的表面反射出来，但大量的电波会穿过地壳并在表面以下不同材料层 -- 包括冰、土壤、岩石和水的边界处反射。<p></p><p>通过检查反射信号，科学家可以绘制红色星球表面以下几公里深度的结构图并研究其属性，如极地冰盖的厚度和组成及火山和沉积岩层的属性。</p><p>从 Windows 98 到 Mars 2022</p><p>MARSIS 副主任和 INAF 的运营经理 Andrea Cicchetti 表示，经过几十年富有成效的科学研究以及对火星有了很好的了解，他们希望推动仪器的性能超越任务开始时的一些限制。据悉，他负责领导了升级的开发工作。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202206/62b91e418e9f0940ad40f86b_1024.jpg" data-height="630" data-width="454" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62b91e418e9f0940ad40f86b_1024.jpg" referrerpolicy="no-referrer"></div></div>正在部署升级的 Enginium 公司 MARSIS 机载软件工程师 Carlo Nenna 指出：" 为了提高 MARSIS 的性能，我们面临许多挑战。特别是由于 MARSIS 软件最初是在 20 多年前设计的，使用的是基于微软 Windows 98 的开发环境！"<p></p><p>新软件是由 INAF 团队和 Carlo 共同设计，现在正由 ESA 在 Mars Express 上实施。它包括一系列的升级，从而改善信号接收和机载数据处理以提高发送到地球的科学数据的数量和质量。</p><p>" 以前，为了研究火星上最重要的特征以及研究它的卫星 Phobos，我们依靠一种复杂的技术存储了大量的高分辨率数据并很快填满了仪器的机载存储器，"Andrea 说道，" 通过丢弃我们不需要的数据，新的软件使我们能将 MARSIS 开启五倍的时间并在每次通过时探索更大的区域。"</p><p>ESA Mars Express 科学家 Colin Wilson 说道：" 在火星南极附近有许多区域，我们可能已经在低分辨率数据中看到了显示液态水的信号。新软件将帮助我们更迅速和广泛地研究这些区域的高分辨率并确认它们是否是火星上新的水源所在地。这真的就像 Mars Express 在发射近 20 年后仍有一台全新的仪器。"</p><p><strong>火星工作母机</strong></p><p>Mars Express 将在继续提供惊人科学的同时仍保持着 ESA 成本最低的飞行任务之一的地位。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202206/62b91e418e9f0940ad40f86c_1024.jpg" data-height="730" data-width="2560" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202206/62b91e418e9f0940ad40f86c_1024.jpg" referrerpolicy="no-referrer"></div></div>"Mars Express 和 MARSIS 仍非常繁忙，" 欧空局 ESOC 任务运行中心的 Mars Express 航天器运行经理 James Godfrey 说道，" 团队在设计新软件方面做得很好，在保持补丁尽可能小的情况下将其影响最大化，并帮助我们继续从这个老旧的航天器中获得最大的收益。"<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

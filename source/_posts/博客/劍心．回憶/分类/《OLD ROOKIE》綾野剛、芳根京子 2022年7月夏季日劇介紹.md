@@ -69,6 +69,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t
 
 
 <hr>
- <div class="page-link">Pages: 1 <a href="http://kenshin.hk/2022/06/26/%e3%80%8aold-rookie%e3%80%8b%e7%b6%be%e9%87%8e%e5%89%9b%e3%80%81%e8%8a%b3%e6%a0%b9%e4%ba%ac%e5%ad%90-2022%e5%b9%b47%e6%9c%88%e5%a4%8f%e5%ad%a3%e6%97%a5%e5%8a%87%e4%bb%8b%e7%b4%b9/2/">2</a></div>   
+  <div class="page-link">Pages: 1 <a href="http://kenshin.hk/2022/06/26/%e3%80%8aold-rookie%e3%80%8b%e7%b6%be%e9%87%8e%e5%89%9b%e3%80%81%e8%8a%b3%e6%a0%b9%e4%ba%ac%e5%ad%90-2022%e5%b9%b47%e6%9c%88%e5%a4%8f%e5%ad%a3%e6%97%a5%e5%8a%87%e4%bb%8b%e7%b4%b9/2/">2</a></div>   
 </div>
             
