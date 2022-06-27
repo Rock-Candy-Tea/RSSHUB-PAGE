@@ -1,0 +1,19 @@
+
+---
+title: '复合移动机器人(AGV_AMR)，如何快速构建？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27110631435554.gif'
+author: 高科技行业门户
+comments: false
+date: Mon, 27 Jun 2022 06:14:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27110631435554.gif'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">在<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>、智能化、信息化方向的发展，智能制造成为我国工业制造的趋势，复合移动<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>（也称之为<span class="hrefStyle"><a href="https://robot.ofweek.com/KW-xiezuojiqiren.html" target="_blank" title="协作机器人">协作机器人</a></span>、移动协作机器人等）作为人与机器人在同时间、同空间作业的方案，在智能制造中有着广泛的应用前景。</p><p style="text-indent: 2em; text-align: left;">特别自2020 年由于全球新冠疫情的蔓延，越来越多的企业考虑通过使用机器人配合员工提高生产质量和降低人工使用成本。复合移动机器人相比于传统<span class="hrefStyle"><a href="https://robot.ofweek.com/CAT-8321202-GYJQR.html" target="_blank" title="工业机器人">工业机器人</a></span>也具有更加安全、简单的工作优势，具备较强的发展潜力。</p><p style="text-indent: 2em; text-align: left;">机器人<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="控制系统">控制系统</a></span>是机器人的大脑，是决定机器人功能和性能的主要因素。复合移动机器人所需的控制器和工业机器人相比要求较高，需要帮助复合移动机器人的安全性、操作的简洁性、灵活性以及柔顺<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310002-sifuyuyundongkongzhi.html" target="_blank" title="运动控制">运动控制</a></span>得到充分发挥。</p><p style="text-indent: 2em; text-align: left;"><strong>行业应用</strong></p><p style="text-indent: 2em; text-align: left;">复合移动机器人的安全性和操作的简洁性、灵活性不断提高，优势得到了充分发挥，在越来越多的领域得到了应用， 包括焊接、无人零售、装配、物流、医疗、教育等。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27110631435554.gif" alt="复合移动机器人(AGV/AMR)，如何快速构建？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">行业需求旺盛，如何快速拥有适合自己的复合移动机器人？如何快速抢占复合移动机器人市场？科聪移动机器人整体解决方案，快速构造复合移动机器人简单、方便，用户可更加注重功能开发和应用。</p><p style="text-indent: 2em; text-align: left;"><strong>科聪方案：</strong></p><p style="text-indent: 2em; text-align: left;">基于MRC5000系列导航控制器，控制器支持各种导航方式，自带丰富的接口，导航精度±5mm，适用市场上各种场景需求下复合移动机器人的应用。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27110812407045.png" title="27110812407045.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27111129280482.png" title="27111129280482.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>功能实现：</strong></p><p style="text-indent: 2em; text-align: left;">科聪控制系统负责车体导航移动，结合对应导航方式的到点精度；车载工业机器人负责抓取操作物料。当机械手操作精度要求小于AGV导航到点精度，需要在机械手端部加入视觉识别等寻位<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>。</p><p style="text-indent: 2em; text-align: left;">复合移动机器人优势：人机协作给未来工厂的工业生产和制造带来了根本性的变革，具有决定性的重要优势</p><p style="text-indent: 2em; text-align: left;">① 生产过程中的灵活性最大 。</p><p style="text-indent: 2em; text-align: left;">② 承接以前无法实现自动化且不符合人体工学的手动工序，减轻员工负担 。</p><p style="text-indent: 2em; text-align: left;">③ 降低受伤和感染危险，例如使用专用的人机协作型夹持器 。</p><p style="text-indent: 2em; text-align: left;">④ 高质量完成可重复的流程，而无需根据类型或工件进行投资。</p><p style="text-indent: 2em; text-align: left;">⑤ 采用内置的传感系统，提高生产率和设备复杂程度 。</p><p style="text-indent: 2em; text-align: left;">基于人机协作的优点，顺应市场需求，更加灵活的复合移动机器人成为一种承担组装和提取工作的可行性方案。它可以把人和机器人各自的优势发挥到极致，让机器人更好地和工人配合，能够适应更广泛的工作挑战。</p><p style="text-indent: 2em; text-align: left;"><strong>实际应用：</strong></p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member99954743/202206/27111356353435.gif" alt="复合移动机器人(AGV/AMR)，如何快速构建？" referrerpolicy="no-referrer"></p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 复合移动机器人(AGV/AMR)，如何快速构建？</span></p> 
+  
+</div>
+            

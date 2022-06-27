@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220627/1656301984_6734
 
 <div>   
 <p style="text-indent:2em;">
-Atlus宣布《女神异闻录5皇家版》的Xbox Series X/S、Xbox One、Windows版将收录原版的40多个DLC，玩家在初始状态下即可直接使用。游戏将于今年10月21日发售，首发加入xgp服务，此外还将登录PS5和Steam平台。
+Atlus宣布《女神异闻录5皇家版》的Xbox Series X/S、Xbox One、Windows版将收录原版的40多个DLC，玩家在初始状态下即可直接使用。游戏将于今年10月21日发售，首发加入xgp服务，此外还将登录PS5和Steam平台，支持简体中文。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220627/1656301984_673465.png" alt="《女神异闻录5 皇家版》Xbox、Win版 将收录原版40多个DLC" referrerpolicy="no-referrer"> 
