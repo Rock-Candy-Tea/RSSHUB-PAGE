@@ -1,0 +1,19 @@
+
+---
+title: '推荐一个物联网IoT系统集成平台，支持开源，低代码二次开发实现数据采集、组态大屏和3D数字孪生'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220120358970.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 27 Jun 2022 03:02:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220120358970.png'
+---
+
+<div>   
+<p style="line-height: 1.75em; text-indent: 2em; text-align: left;">数据接入→界面搭建→应用开发，驱动及应用模块化扩展，IOTOS中间件平台低成本二次开发，可广泛用于建筑工业等<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-IoT.HTM" target="_blank" title="IoT">IoT</a></span>多系统数据融合与集成！（百度搜索：IOTOS<span class="hrefStyle"><a href="https://iot.ofweek.com/" target="_blank" title="物联网">物联网</a></span>中间件平台）</p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>1）平台有什么功能？</strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">基于采集接入，提供数据展示和应用扩展能力！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220120358970.png" title="26220120358970.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>2）采集如何接入？</strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">核心能力，由物联中台提供数据底座，打通接口协议！可以作为软网关给数据到第三方。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220022359302.png" title="26220022359302.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>3）<strong>数据如何展示？</strong></strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">物联组态拖拽编辑、数据绑定，实现大屏和应用界面搭建！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220042780379.png" title="26220042780379.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>4）应用如何开发？</strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">应用平台提供应用基座，接口调用数据分析及2／3D功能交互！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220058608144.png" title="26220058608144.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>5）接口协议怎么开发？</strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">提供驱动引擎，支持python、java、c＋＋、c＃来开发驱动包，打通接口协议！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220145198242.png" title="26220145198242.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>6）物联应用怎么开发？</strong></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;">提供应用框架，内置ht．js一站式图形引擎，支持js开发应用包，实现界面交互、数据处理等功能！</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220154978050.png" title="26220154978050.png" alt="图片.png" referrerpolicy="no-referrer"></p><p style="line-height: 1.75em; text-indent: 2em; text-align: left;"><strong>6）能用在哪些地方？</strong></p><p style="text-indent: 2em; text-align: left;">智能楼宇集成、工业互联网、环保能源监测等</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member50406/202206/26220839506678.png" title="26220839506678.png" alt="图片.png" referrerpolicy="no-referrer"></p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 推荐一个物联网IoT系统集成平台，支持开源，低代码二次开发实现数据采集、组态大屏和3D数字孪生</span></p> 
+  
+</div>
+            
