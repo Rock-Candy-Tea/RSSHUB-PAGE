@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3014'
+headimg: 'https://picsum.photos/400/300?random=8760'
 author: 知乎
 comments: false
-date: Mon, 27 Jun 2022 04:44:40 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3014'
+date: Mon, 27 Jun 2022 07:03:13 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8760'
 ---
 
 <div>   
-风筝哥的回答<br><br><p data-pid="yWaN_PVB">说实话，腾讯是真没有一点担当，这次很明显是自己出了漏洞，把责任全推到到用户身上，和以前出事就怪网络波动完全一样，真已经是不要脸的巅峰了。公告描述也是因为扫游戏二维码，大概率和网友爆料wegame被攻破吻合，后续点聊天图片的是另一个劫持cookie或者什么key导致，两个都是腾讯自己的问题。至于没有扫码二维码很久没有登录的用户也被盗号的问题，这个问题就不好说了，QQ就像一条破船，漏洞的地方太多了。</p>  
+秋冬夜的回答<br><br><p data-pid="fzQ69tIP">自己的过错只字不提把锅甩给用户，二维码扫码登录不会设置一定时间过期吗？不会设置游戏扫码或者其他扫码登录跟qq列表联系人隔绝开只留登录接口吗？</p><p data-pid="6GMvqCGt"> 普通用户就两种登录方式qq电脑跟手机，如果用其他方式登录并且可以向好友发消息发图片的都应该严格限制才对，短信验证码跟手机qq上都得确认才行，而且得让用户知道自己qq还在什么设备登录了。在用户毫不知情的情况下自己手机qq在线而且禁止了电脑同时在线，而其他设备登录了自己qq获取了联系人列表，还能随意发送消息自己还毫不知情，这就是漏洞。</p>  
 </div>
             
