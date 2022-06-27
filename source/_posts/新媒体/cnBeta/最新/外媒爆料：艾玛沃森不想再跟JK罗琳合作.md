@@ -1,0 +1,19 @@
+
+---
+title: '外媒爆料：艾玛沃森不想再跟JK罗琳合作'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0627/033534c6efbaf07.jpg'
+author: cnBeta
+comments: false
+date: Mon, 27 Jun 2022 03:56:27 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0627/033534c6efbaf07.jpg'
+---
+
+<div>   
+据外媒报道，知情人士爆料，艾玛·沃森考虑回归哈利波特系列电影，但前提是JK罗琳不得参与，也就是说她不想再跟JK罗琳合作。该言论也引起了国外网友的热议，显然，这与 JK 罗琳的恐跨言论有关。目前，J.K.罗琳和艾玛·沃森均没有对此事在社交网络上公开回应，华纳也没有对此事表态。<br>
+ <p><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/06/20220626_zy_red_164_9/gamersky_05origin_09_20226262333C1D.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline; font-size: 14px;"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0627/033534c6efbaf07.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0627/033534c6efbaf07.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0627/033534c6efbaf07.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/06/20220626_zy_red_164_9/gamersky_03origin_05_20226262333F7A.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline; font-size: 14px;"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0627/dc7267c55f415d6.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0627/dc7267c55f415d6.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0627/dc7267c55f415d6.jpg" referrerpolicy="no-referrer"></a></p><p>艾玛·沃森在2001年主演个人首部电影 《哈利·波特与魔法石》，成为一名童星。此后10年间，一直出演《哈利波特》系列赫敏一角。从2019年的《小妇人》上映后，艾玛·沃森至今还没有电影作品。</p><p><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/06/20220626_zy_red_164_9/gamersky_04origin_07_202262623335FD.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline; font-size: 14px;"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0627/d4b60e401a984cc.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0627/d4b60e401a984cc.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0627/d4b60e401a984cc.jpg" referrerpolicy="no-referrer"></a></p><p>前段时间的英国电影学院奖BAFTA颁奖仪式上，主持人瑞贝尔·威尔森介绍说：“颁发下一个奖项的是艾玛·沃特森，她自称自己是女权者，但我们都知道她是个女巫”。而当艾玛登台时她接着瑞贝尔的话说：“我是为所有的女巫而来的！“。</p><p>艾玛特意强调了“所有的女巫”，这也成为了社交媒体上热议的话题，不少人指出，她这是在用巧妙的方法，抨击了J.K.罗琳。</p><p><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/06/20220626_zy_red_164_9/gamersky_02origin_03_20226262333BA7.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline; font-size: 14px;"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0627/76ce2be1e661e8d.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0627/76ce2be1e661e8d.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0627/76ce2be1e661e8d.jpg" referrerpolicy="no-referrer"></a></p><p>2020年罗琳看到了一篇标题为《新冠疫情之下，我们为有月经的人创造一个更平等的世界》，罗琳当即发表看法：我记得有个专门的词汇用来形容「有月经的人」，是什么来着？Wumben？Wimpund？还是Woomud？</p><p>她的言论也被网友认为是否认了跨性别者的存在，引起了众多网友的声讨。随后《哈利·波特》三位主演：丹尼尔·拉德克里夫、艾玛·沃特森、鲁伯特·格林特也表示了不支持罗琳的看法。</p><p><a href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/06/20220626_zy_red_164_9/gamersky_01origin_01_202262623335CC.jpg" target="_blank" style="color: rgb(225, 29, 3); text-decoration-line: underline; font-size: 14px;"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0627/c4763726d3d2a7a.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0627/c4763726d3d2a7a.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0627/c4763726d3d2a7a.jpg" referrerpolicy="no-referrer"></a></p><p>尽管罗琳随后又发了数条推文解释，但已经被扣上了“恐跨”的帽子。</p>   
+</div>
+            
