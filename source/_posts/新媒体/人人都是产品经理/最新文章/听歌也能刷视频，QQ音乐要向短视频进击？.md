@@ -1,0 +1,68 @@
+
+---
+title: '听歌也能刷视频，QQ音乐要向短视频进击？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://image.yunyingpai.com/wp/2022/06/nnZKub3wl46EBMAI6cHQ.jpg'
+author: 人人都是产品经理
+comments: false
+date: Mon, 27 Jun 2022 00:00:00 GMT
+thumbnail: 'https://image.yunyingpai.com/wp/2022/06/nnZKub3wl46EBMAI6cHQ.jpg'
+---
+
+<div>   
+<blockquote><p>编辑导语：最近，QQ音乐动起来了！在近日正式发布的QQ音乐11.5.5升级版本中，原本的歌曲播放界面背景变成了MV视频的播放界面，这一改动流露出QQ音乐向短视频进击的野心。一起来看看吧！</p></blockquote>
+<p><img data-action="zoom" class="size-full wp-image-829419 aligncenter" src="https://image.yunyingpai.com/wp/2022/06/nnZKub3wl46EBMAI6cHQ.jpg" alt referrerpolicy="no-referrer"></p>
+<p>“听我说谢谢你，因为有你温暖了四季。”伴随着魔性的舞蹈，这首歌从短视频平台火到了在线音乐平台。而当你打开QQ音乐播放这首歌的时候，你便会发现，原本的歌曲播放界面背景是MV视频的播放界面。</p>
+<p><img data-action="zoom" class=" wp-image-829376 aligncenter" src="https://image.yunyingpai.com/wp/2022/06/1h5odFmFvh16oTmJzTxc.jpg" alt width="600" height="562" referrerpolicy="no-referrer"></p>
+<p>QQ音乐动起来了。</p>
+<p>近日，QQ音乐11.5.5升级版本正式发布，全新推出了“个性化歌单”“专注电台”两大功能，同时升级分享音乐卡片、分享音乐视频、歌词特效、歌词海报、黑胶唱机播放器等功能的视觉呈现。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/2eYf79gWo3GF6bvSVuKH.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="600" height="606" referrerpolicy="no-referrer"></p>
+<p>虽然从表面上这些新增或升级的功能依旧还是音乐平台的老本行，但是在实质上各个功能中间都流露出QQ音乐向短视频进击的野心。</p>
+<h2 id="toc-1">一、升级后的QQ音乐，无处不在的视频化路线</h2>
+<p>在QQ音乐的这次升级中，这一版本的主题设定为“看见音乐的美”，其实从主题中也能听出一丝视频化的意味，“看见”二字代替常用的“听见”，这并不是文学修辞手法上的通感，而是QQ音乐真的想要用户看见音乐。</p>
+<p>首先，在这次升级被主推的两大全新功能“个性化歌单”和“专注电台”，无一例外不是将视频元素作为功能的突破点。</p>
+<p>所谓个性化歌单，即是在以往QQ音乐歌单功能的基础之上开启个性化模式，具体可以分为动态头图、歌单背景、歌单音效三种新玩法。其中，动态头图正是在歌单详情页，支持GIF动图或视频，也是与传统歌单在视觉呈现上最大的区别所在。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/sXoA1Yzw4Cti1BP4oJmO.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="600" height="818" referrerpolicy="no-referrer"></p>
+<p>所谓专注电台，即是采用视频化的方式承载着轻音乐，主要设定成了学习工作、睡前放松、冥想三种，每一种又有多种场景可供用户选择，可以将其类比为一些轻音乐短视频，不过整体时长相较于短视频要长不少，均是在20分钟以上，甚至超过1个小时也很常见。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/4VGXuJCLTHaCWThuUUK8.png" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="600" height="639" referrerpolicy="no-referrer"></p>
+<p>值得一提的是，专注电台的界面设计也类似于短视频平台，可以采用信息流上下滑进行切换，并且在左上角显示计时功能，显示用户当前已专注时长，右上角会显示当前正在专注的人数，虽然单一重复循环的场景符合用户对轻音乐的诉求，但是视频略显累赘，甚至会让用户觉得浪费手机电量。</p>
+<p>除此之外，QQ音乐的这次升级中，在分享音乐卡片、分享音乐视频、歌词特效、歌词海报等功能上也进行了优化和调整，尤其是在歌词视频功能中，为了让用户更好地完成歌词视频制作，音乐平台成为了精简版“剪辑软件”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/zNeuZAfzhVNxkRboBXQk.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="600" height="529" referrerpolicy="no-referrer"></p>
+<p>当用户选择想要分享的歌词后，进入歌词视频编辑界面，除了平台提供的数十种视频背景模板，用户可以相册上传视频或者拍摄30秒视频，并且针对视频也可以增加动效和滤镜，基本功能上已经可以和一些手机剪辑软件不相上下。</p>
+<p>不过相对而言，QQ音乐的歌词视频功能相对独立，站内视频量相对有限，并没有形成良性的社区交流氛围，从而也就导致歌词视频和歌词卡片并没有实质上的区别，其视频化探索也没有跨越式发展。</p>
+<h2 id="toc-2">二、QQ音乐的视频路，从歌曲MV到TMElive</h2>
+<p>作为在线音乐平台，QQ音乐对于视频化的探索其实很早便已起步，早在2014年时，QQ音乐的3.9.6新版本中，便新增了MV观看功能，将当时最火的歌曲、最流行的歌手MV纳入了站内，实现了音乐内容的又一次丰富和拓展。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/KCpaMN39iYOLpBvlrXmj.png" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" referrerpolicy="no-referrer"></p>
+<p>MV作为随音乐录像带、音乐电视、音乐专辑等一路发展而来，成为了诠释音乐、展示歌手、与歌曲相得益彰的最佳拍档，而这也是音乐平台视频化道路的起点。</p>
+<p>随后几年里，迎来了短视频的飞速崛起，用户数量激增，根据第48次《中国互联网络发展状况统计报告》显示截至2021年6月，我国短视频用户规模已达到8.88亿。正是短视频平台的崛起，让行业内掀起了“万物皆可短视频”的浪潮。</p>
+<p>在2018年时，QQ音乐也开启了大规模的征集短视频创作者，发布了面向原创视频作者的“地心引力”计划，向全球招募拥有唱歌、跳舞、弹奏等才华，以及具备视频剪辑、字幕制作等能力的原创视频作者，致力于在音乐垂直类别短视频上有所突破。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/Xe2G9Y0hKzkiF0LS9fKb.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" referrerpolicy="no-referrer"></p>
+<p>后来，在QQ音乐更新的版本中，在站内的发现板块之下，音乐MV、歌曲表演舞台、以及一些音乐人幕后的故事均以流媒体短视频的方式呈现。如今，这一功能也被融入到了扑通社区的广场之中，在使用方式上已与短视频平台无异。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/LXsBPBNtOgBL5tSVkjiH.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" referrerpolicy="no-referrer"></p>
+<p>另外，QQ音乐在站内也多次进行了自制视频内容的尝试，像是音乐类电台脱口秀节目《见面吧电台》、为粉丝带来独家明星和歌曲资讯的《乐见大牌》、专注聚焦于不同风格原创音乐人的自制节目《大象房间》等。</p>
+<p>不过这些节目体量相对较小，主要服务于站内社区用户，而真正让QQ音乐在视频化道路中成为焦点的便要从TMElive说起。</p>
+<p>近两年来，TMElive逐步成长为日益完善的综合演出平台，为腾讯音乐构建起线上线下的立体内容布局。仅是2021年，TMElive便举办了56场演出，平均一周便是一场。近期，张国荣热情演唱会的超清修复版，又一次给QQ音乐带来了不少的流量。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/onJe6XqU5C7H2s97cie9.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" referrerpolicy="no-referrer"></p>
+<p>整体而言，不同于TMElive这种大型直播活动的专业内容生产，音乐平台想要真正走向视频化，还是要依赖于用户内容生产，形成相对活跃的音乐社区氛围则显得格外重要。</p>
+<h2 id="toc-3">三、短视频向左，音乐向右，各自跨界也是双向奔赴</h2>
+<p>在音乐平台视频化的探索中，离不了短视频的推波助澜，当前许多热歌新歌大多是从短视频中走红，而这一现状既为华语乐坛带来新的契机，也给在线音乐平台带来了不小的挑战。</p>
+<p>以近期大热的歌曲《孤勇者》为例，在短视频平台上流传着中小学生合唱这首歌的视频，后又因陈奕迅回应儿歌，持续登陆热点榜，在积攒了大量热度的同时，也使得这首歌在QQ音乐热歌榜历史在榜22周，年后持续霸占榜首。</p>
+<p>短视频为音乐所带来的热度有目共睹，因此无论是短视频平台，还是音乐平台都在想着有所跨界，因此也就出现了音乐平台在向短视频探索，短视频平台也向音乐探索的现象。</p>
+<p>对于短视频平台，抖音不仅上线“听全曲”功能，在站内打造音乐播放器，放大音乐属性，同时在去年4月份，字节跳动宣布成立音乐事业部，在海外推出了音乐产品Resso，大获成功。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/C5oprtKacAFZkjCzSo8i.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="550" height="609" referrerpolicy="no-referrer"></p>
+<p>快手则是在2018年便成立了独立音乐部门，陆续与超过400家的音乐公司签署合作协议，并且于去年发布了短视频行业里的首个版权结算规则，也正式打响了短视频音乐版权规范化的第一枪。</p>
+<p>面对短视频平台的来势汹汹，音乐平台也没有选择无动于衷，将抖音视作为自身的一个引流渠道，QQ音乐和网易云音乐等平台均是直接在排行榜中开辟抖音音乐榜，增设一键捕获抖音BGM功能，以此来应对短视频平台带来的冲击。</p>
+<p>在《2021年中国在线音乐行业概览》中，将中国在线音乐产业链分为了音乐版权供给、音乐宣发、商业变现、消费者四个环节，其中音乐宣发是其中的核心所在。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="听歌也能刷视频，更新后的QQ音乐向短视频进击？" src="https://image.yunyingpai.com/wp/2022/06/feCndSV23pmshm6aCFyX.jpeg" alt="听歌也能刷视频，更新后的QQ音乐向短视频进击？" width="600" height="498" referrerpolicy="no-referrer"></p>
+<p>而无论是在线音乐平台还是短视频平台（社交娱乐平台），其实都是共同服务于音乐宣发环节。换句话说，在线音乐平台和短视频平台如同在并肩作战，各自跨界也是为了一场“双向奔赴”。</p>
+<p> </p>
+<p>作者：风北 ；编辑：朴芳；公众号：犀牛娱乐（ID：piaofangtoushijing）</p>
+<p>原文链接：https://mp.weixin.qq.com/s/BE9fJNUU7JSypvXuwKUCPA</p>
+<p>本文由 @犀牛娱乐 授权发布于人人都是产品经理，未经许可，禁止转载。</p>
+<p>题图来自 Pexels，基于CC0协议。</p>
+                      
+</div>
+            

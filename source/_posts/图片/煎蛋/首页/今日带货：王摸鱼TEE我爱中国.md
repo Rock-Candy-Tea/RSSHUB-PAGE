@@ -27,8 +27,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2021/04/0
 <p>煎蛋的淘宝店叫<strong>王摸鱼</strong>，地址是 <strong>wangmoyu</strong>.taobao.com</p>
 <p>王摸鱼TEE又发新款了<br>
 灵感来自之前<a target="_blank" href="http://jandan.net/p/110810" rel="noopener noreferrer">一篇文章</a><br>
-设计师SENZ用复古画风创作了这次的图案<br>
-至于我爱中国几个字为什么是繁体，因为设计师实在手写不出复古感，能找到的这个免费字体只有繁体字库</p>
-<p><img src="https://cors.zfour.workers.dev/?http://tva1.sinaimg.cn/mw1024/00745YaMgy1h3moiez98rj31la0uwn4m.jpg" alt="今日带货：王摸鱼TEE#我爱中国#" referrerpolicy="no-referrer"></p>  
+设计师SENZ用复古画风创作了这次的图案</p>
+<p><img src="https://cors.zfour.workers.dev/?http://tva1.sinaimg.cn/mw1024/00745YaMgy1h3n0ro2kp6j31la0uwjys.jpg" alt="今日带货：王摸鱼TEE#我爱中国#" referrerpolicy="no-referrer"></p>  
 </div>
             
