@@ -8,13 +8,14 @@ categories:
 headimg: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 author: 新浪财经
 comments: false
-date: Mon, 27 Jun 2022 10:06:53 GMT
+date: Mon, 27 Jun 2022 10:33:24 GMT
 thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 ---
 
 <div>   
-<p cms-style="font-L align-Center"><video src="/eportal/immovableDir/goutongjiaoliu/resource/cms/2022/06/2022062716484810477.mp4"></video></p>
-<p cms-style="font-L">　　Recently， Governor Yi Gang of the People’s Bank of China （PBOC） was interviewed by China Global Television Network （CGTN） on issues related to mobilizing the financial system to support green transition， climate information disclosure， international cooperation in green finance and monetary policy． The transcript of the interview can be found below．</p>
+<div class="video-2017" id="videoList0" style></div>
+
+<!--/video-list-->
 <p cms-style="font-L">　　近日，中国人民银行行长易纲就金融支持绿色转型、绿色信息披露、绿色金融国际合作、货币政策等问题接受了中国国际电视台（CGTN）记者专访，以下为采访实录。</p>
 <p cms-style="font-L">　　<font cms-style="font-L strong-Bold">CGTN： Green transition requires massive capital， and the financial system can play an important role in this process． In recent years， what measures has the PBOC taken to encourage financial institutions to support green transition？</font></p>
 <p cms-style="font-L">　　<font cms-style="font-L strong-Bold">记者：绿色转型需要大量资金投入，金融体系可在其中发挥重大作用。近年来，人民银行推出了哪些措施，鼓励金融机构支持绿色转型？</font></p>

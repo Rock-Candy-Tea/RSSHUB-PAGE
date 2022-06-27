@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.JPG?v=1656298195763'
 author: 巴哈姆特
 comments: false
-date: 2022-06-27 10:11:43
+date: 2022-06-27 11:09:57
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.JPG?v=1656298195763'
 ---
 
@@ -147,7 +147,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.
 <div>
  </div>
 <div>
-<span class="text-hightlight"><b>媒體：</b>在 2018 年的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9A%BB%E7%8B%BC" target="_blank">隻狼</a>》相關專訪時，有提到當時公司內有 3.5 條產線正在運作，其中兩款還沒有正式發表。沒有發表的其中一款是《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>》，那另外一款現在是否還在開發當中呢？</div>
+<span class="text-hightlight"><b>媒體：</b>在 2018 年的《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9A%BB%E7%8B%BC" target="_blank">隻狼</a>》相關專訪時，有提到當時公司內有 3.5 條產線正在運作，其中兩款還沒有正式發表。沒有發表的其中一款是《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>》，那另外一款現在是否還在開發當中呢？</span></div>
 <div>
  </div>
 <div>
@@ -315,7 +315,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.
 <div>
  </div>
 <div>
-<span class="text-hightlight"><b>媒體：</b>那麼想要請教宮崎總監站在遊戲總監角度上的目標是什麼？在《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>》當中完成了一款集大成之作，那未來有什麼想要去做或者是令人在意的事情嗎？</div>
+<span class="text-hightlight"><b>媒體：</b>那麼想請教宮崎總監站在遊戲總監角度上的目標是什麼？在《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>》中完成了一款集大成之作，那未來有什麼想要去做或者是令人在意的事情嗎？</span></div>
 <div>
  </div>
 <div>

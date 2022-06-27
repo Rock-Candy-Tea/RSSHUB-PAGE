@@ -1,0 +1,19 @@
+
+---
+title: '游戏开发者Cliffski对代码膨胀感到无限惆怅 可能有99%的内容都是垃圾'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0627/dd096b53a81637a.webp'
+author: cnBeta
+comments: false
+date: Mon, 27 Jun 2022 10:19:47 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0627/dd096b53a81637a.webp'
+---
+
+<div>   
+作为一名从事游戏设计和编程业务的个体户，<strong>克里夫斯基（Cliffski）在本月早些时候的一篇博客文章中吐槽道 —— 这年头的“代码膨胀”，已经到了令人发指的地步。</strong>以某项服务为例，Cliffski 有时必须在某处上传基本没差的文件 —— 基本上指向了本地驱动器上的一个文件夹，并将内容复制到远程服务器上。<br><br>
+ <p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0627/dd096b53a81637a.webp" alt="image.png.webp" referrerpolicy="no-referrer"></p><p style="text-align: center;">（来自：Cliffski's <a href="https://www.positech.co.uk/cliffsblog/2022/06/05/code-bloat-has-become-astronomical/" target="_self">Blog</a>）</p><p>服务商可能会在远程服务器上做一些与数据库相关的事务，来为这堆文件分配一个名称、并验证都有谁去下载了。</p><p>作为一家大企业，服务商有着相当庞杂繁复的流程、且难免被黑客入侵给盯上，所以必须落实较高的安全性策略，并在 Cliffski 从本地上传、到服务器远程接收的过程中验证文件未被篡改。</p><blockquote><p>基本上，我们是在谈论枚举一些文件，读取后上传、接着用一个日志文件来结束连接，并给出它是否有效（或出了什么岔子）的结论。</p><p>尽管没有火箭科学那么复杂，但事实上我自己从头开始编写了这些代码，并在与 MySQL 数据库通信的服务器上使用了 wininet API 和 php 。</p></blockquote><p>与企业级事务相比，Cliffski 的产品可能没有那么健壮，但它确实支持着数十万上传的文件，以及相关验证、下载和日志记录，一位程序员可能需要维持工作 2-3 周。</p><blockquote><p>而他当天必须使用特殊的上传工具，去提交大约 230MB 的客户端文件 —— 里面设计 2700 个不同的文件来管理该流程。</p><p>你可能会认为这是一个让人尴尬的错字，但 Cliffski 本人很是清楚，他只是将这些鸡零狗碎的内容从本地复制到了远程服务器而已。</p></blockquote><p>问题在于，Cliffski 怀疑这个上载器与这些天来自任何其它大公司的同类产品基本没差。顺道一提，它已经报错提示不起效了。</p><blockquote><p>我见过不少程序员在干这种烂活，我知晓这种情况是怎么发生的。</p><p>因为我们的工作不涉及通过底层的高效代码来完成工作，且许多人甚至从未写过所谓的好代码。</p><p>当他们明白自己根本没这个能力的时候，我们又该如何期待他们可以做到更好呢？</p></blockquote><p>你可以编写一个精湛的程序，它的代码量小到只有 1/20，足以将文件安全、快速地上传到服务器。它可以是一个单独的 .exe 可执行文件，无需成百上千的动态链接库（DLL）。</p><p>不仅可行，而且简单、可靠、高效、易于调试。只需稍微努力那么一下，它就会起到切实的作用。然而在代码日渐臃肿的当下，许多程序员的心态也变得老态龙钟、暴躁且易怒。</p><blockquote><p>在这种情况下，代码可能因为膨胀了 50% 而运行缓慢。我甚至可以断定，你 PC 文件中有 99.9% 的代码没个屁用。</p><p>它们甚至永远都不会被执行，但就杵在那里。在一套 65 个 DLL 中，很多都涉及一些琐碎的事情，比如原本可以简单集成的一个位图保存功能。</p></blockquote><p>虽然要克制住不对年轻程序员的这种行为大发雷霆，但他们本该学会这些。遗憾的是，他们没有意识到何谓高性能或基于约束的开发。</p><p>举个例子，当年一个仅 6<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a>b 的《Elite》游戏，就包含了庞大的星系、3D 太空战斗、职业发展系统、交易、以及数千颗可供探索的行星。如此巨大的落差，着实让我们有些绷不住。</p><blockquote><p>诚然，现如今的计算机速度已经快到可以忽略。但当我点击<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>新款 <a data-link="1" href="https://microsoft.pvxt.net/9W473" target="_blank">Surface</a> 笔记本电脑上的音量图标，然后等着标称 60Hz 刷新率的屏幕上慢慢弹出 UI 元素时，卡顿的感觉依然很不好受。</p><p>在你在怀疑自己到底有没有点下去的这半秒钟时间里，频率动辄数 GHz 的处理器世界里，早已过去了数十亿年。我们浪费了个人计算机 99% 的算力和能耗，这甚至可以说是一种犯罪。<br></p></blockquote><p>想象一下，在你急着想要在资源管理器中快速检索目标内容的时候，任务管理器却在那搞一堆废话，天知道 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 里那 102 个后台进程在干什么！</p><blockquote><p>在装了英伟达显卡驱动的设备上，Cliffski 看到有 6 个进程，且其中甚至附带了一些子任务。</p><p>让人不解的是，我们此时明明还没有运行任何游戏，且显卡的功能集和 20 年前相比都大致相同。</p><p>Microsoft Edge Web View 竟然也在那杵着 —— 即便 Cliffski 根本就不用 Microsoft Edge 浏览器。</p><p>我猜测昨天可能在其中打开了一个 SVG 文件，结果另外 12 段无用的代码浪费了不少内存和 CPU 轮询资源。<br></p></blockquote><p>或许正因如此，我们才在几乎没有干任何事情的情况下，设备的一切响应都还是那么迟钝。</p><p>你甚至需要每年都换一部新<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>、新<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_76344%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">电视</a>，以运行那些臃肿不堪的流媒体 App —— 只因为它们依赖运行的代码是如此糟糕！</p><blockquote><p>更让人感到绝望的是，以 Facebook、Twitter 和 Reddit 为代表的科技企业，无一例外地都陷入了这种糟糕的趋势。</p><p>相比之下，在编程的黄金时代，程序员们对内存和 CPU 的限制了如指掌。而现如今，我们被迫生活在了一个效率极其低下、但浪费又如此夸张的泥潭里。</p><p>光是想到这些，就足以让我们产生无尽的感伤。</p></blockquote>   
+</div>
+            

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic2.zhimg.com/v2-5de43569ff154c043edd89b3818bc86b_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=5108'
 author: 知乎
 comments: false
-date: Mon, 27 Jun 2022 07:23:47 GMT
-thumbnail: 'https://pic2.zhimg.com/v2-5de43569ff154c043edd89b3818bc86b_1440w.jpg?source=b1748391'
+date: Mon, 27 Jun 2022 10:07:15 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5108'
 ---
 
 <div>   
-苏格拉深不见底的回答<br><br><p data-pid="fHs6FKwA"><b>一个深表歉意就完了吗</b></p><p data-pid="6knkMRtD"><b>造成的不可挽回的损失怎么算？</b></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-5de43569ff154c043edd89b3818bc86b_1440w.jpg?source=b1748391" data-rawwidth="1079" data-rawheight="1856" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-eaa119d09f0617a44f5292e1885f762e_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-5de43569ff154c043edd89b3818bc86b_r.jpg?source=b1748391" referrerpolicy="no-referrer"><figcaption>图源网络</figcaption></figure><p data-pid="K-nMRxi0">你们可能道个歉就完事了</p><p data-pid="FN2B3mvH">但是耽误的是用户的利益啊</p><p data-pid="rviZ2PsF">社死就算了</p><p data-pid="tU6LVFOm">还要被各种拉黑</p><p data-pid="_iiSLpda">失去正常的竞争资格</p><p data-pid="S7ndimbi">太tm混蛋了</p><p data-pid="S0wmwu5Y">用心做皮肤，用脚做系统</p><p data-pid="1qmXqt8I">就这尿性</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-ed34bd323469c3fdbecb7d3763d1db1d_1440w.jpg?source=b1748391" data-rawwidth="690" data-rawheight="690" data-size="small" data-default-watermark-src="https://pica.zhimg.com/v2-eda5c08db61f2fa366fb28165bf0f340_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-ed34bd323469c3fdbecb7d3763d1db1d_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+秋冬夜的回答<br><br><p data-pid="fzQ69tIP">自己的过错只字不提把锅甩给用户，难道不会设置游戏扫码登录或者其他扫码登录跟qq列表联系人隔绝开只留登录接口吗？</p><p data-pid="LbJ8ejcI">通过二维码扫码登录或者密码登录第三方应用网站，不应该给客户端才有权限尤其是独立给好友发消息的权限。</p><p data-pid="6GMvqCGt"> 普通用户就两种登录方式电脑跟手机，如果用其他方式登录并且可以向好友发消息发图片的都应该严格限制才对，短信验证码跟手机qq上都得确认才行，而且得让用户知道自己qq还在什么设备登录了。在用户毫不知情的情况下自己手机qq在线而且禁止了电脑同时在线，而其他设备登录了自己qq获取了联系人列表，还能随意发送消息自己还毫不知情，这就是漏洞。</p><p data-pid="kJn7HV98">在一些游戏里的邀请分享确实不需要通过登录qq就能给好友发送qq消息。比如我玩某个游戏我一个好友很久没上线，这时候我邀请他上线邀请他回归这游戏，确实不需要通过登录qq就能给他发送游戏默认的邀请信息。这就给了很大的操作空间。</p>  
 </div>
             
