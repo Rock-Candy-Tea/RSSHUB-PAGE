@@ -1,0 +1,18 @@
+
+---
+title: '拒绝千篇一律，这套Go错误处理的完整解决方案值得一看！'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=3296'
+author: 开发者头条
+comments: false
+date: 2022-06-28 03:05:10
+thumbnail: 'https://picsum.photos/400/300?random=3296'
+---
+
+<div>   
+拒绝千篇一律，这套Go错误处理的完整解决方案值得一看！  
+</div>
+            
