@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3198'
+headimg: 'https://picsum.photos/400/300?random=661'
 author: 知乎
 comments: false
-date: Tue, 28 Jun 2022 03:45:20 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3198'
+date: Tue, 28 Jun 2022 08:52:40 GMT
+thumbnail: 'https://picsum.photos/400/300?random=661'
 ---
 
 <div>   
-默默的回答<br><br><p data-pid="_SCDMiPv">这个企业参与抵制新疆棉，在中国不好混了，上海又封控了这么久，日子更难过了，但更主要的因素恐怕是世界经济衰退，风口少了，猪更难飞起来了。</p><p data-pid="4xOYQSaJ">咱说句实话，中国14亿，总有那么一大批反贼，或者不长心眼的人，只要经济繁荣，那HM怎么都有生意做，现在的经济形势恐怕是不容乐观了。</p><p></p>  
+我叫不堵车的回答<br><br><p data-pid="seU3U-97">一般来说，首店对于品牌的意义重大，不仅肩负着门店本身的展示、形象、交易等服务，更是品牌价值传播的重要承载，国外品牌的首店则更有拥抱中国市场的意思。</p><p data-pid="uRHEJOKG">这次H&M的关闭，带来的信号或许是——他们终于将放弃中国市场。</p><p data-pid="_r7AmQyZ">背后的原因不难理解，当年轰轰烈烈的“新疆棉”事件，将这个曾经的口碑品牌一度推向风口浪尖。在这场政治立场中，品牌站队向左，国人站队向右，注定渐行渐远。</p><p data-pid="l1k3WWlr">其实这个结果也在意料之中，大家对于此新闻的第一反应大多是：还以为H&M早关了。</p>  
 </div>
             
