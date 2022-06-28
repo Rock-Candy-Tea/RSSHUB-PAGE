@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220628/1656387464_7136
 
 <div>   
 <p style="text-indent:2em;">
-根据热门漫画改编的VR冒险游戏《五等分的花嫁 回忆VR ~五月~（The Quintessential Quintuplets OMOIDE VR ~ITSUKI~）》现已上线Steam，游戏将基于原作，玩家将扮演上杉风太郎与中野五月享受悠闲时光。这次是“五月党”的胜利。
+根据热门漫画改编的VR冒险游戏《五等分的花嫁 回忆VR ~五月~（The Quintessential Quintuplets OMOIDE VR ~ITSUKI~）》现已上线Steam，游戏发售时间未定，暂不支持中文。游戏将基于原作，玩家将扮演上杉风太郎与中野五月享受悠闲时光。这次是“五月党”的胜利。
 </p>
 <h3>
 游戏预告

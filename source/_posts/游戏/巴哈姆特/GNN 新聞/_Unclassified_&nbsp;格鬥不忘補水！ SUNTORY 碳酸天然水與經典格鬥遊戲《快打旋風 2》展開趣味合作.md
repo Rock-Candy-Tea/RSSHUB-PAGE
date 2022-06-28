@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/86/3ae9320fea0eb62a4278b8f5801gygy5.JPG?v=1656387705992'
 author: 巴哈姆特
 comments: false
-date: 2022-06-28 04:35:25
+date: 2022-06-28 05:21:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/3ae9320fea0eb62a4278b8f5801gygy5.JPG?v=1656387705992'
 ---
 
@@ -63,7 +63,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/3ae9320fea0eb62a4278b8f5801gygy5.
 <div>
  </div>
 <div>
-　　官方同時公布合作活動宣傳音樂影片「Strong Fighter Strong 必殺技」篇，使用知名音樂人前山田健一（ヒャダイン）於 2008 年創作公開、以《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+2" target="_blank">快打旋風 2</a>》遊戲音效作為節奏音效的同人創作歌曲「The World Warrior」，並將 The Strong 天然水 Sparkling 的主題趣味融入《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+2" target="_blank">快打旋風 2</a>》的經典遊戲畫面中。</div>
+　　官方同時公布合作活動宣傳音樂影片「Strong Fighter Strong 必殺技」篇，使用知名音樂人前山田健一（ヒャダイン）於 2008 年創作公開、以《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+2" target="_blank">快打旋風 2</a>》遊戲音效作為節奏音效的同人創作歌曲「The World Warrior」，並將 The Strong 天然水 Sparkling 的主題逗趣地融入《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+2" target="_blank">快打旋風 2</a>》的經典遊戲畫面中。</div>
 <div>
  </div>
 <div>
