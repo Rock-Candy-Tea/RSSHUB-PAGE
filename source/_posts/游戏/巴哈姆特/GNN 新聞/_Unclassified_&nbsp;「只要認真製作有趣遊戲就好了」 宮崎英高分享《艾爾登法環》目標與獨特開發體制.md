@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.JPG?v=1656298195763'
 author: 巴哈姆特
 comments: false
-date: 2022-06-28 03:06:31
+date: 2022-06-28 04:35:25
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.JPG?v=1656298195763'
 ---
 
@@ -203,7 +203,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/33/8ec0339106d1e9a8c713387c3d1gxqh5.
 <div>
  </div>
 <div>
-<span class="text-hightlight"><b>媒體：</b>不不不，這次也想要教請從社長角度出發的話題啊（笑）。</span></div>
+<span class="text-hightlight"><b>媒體：</b>不不不，這次也想要請教從社長角度出發的話題啊（笑）。</span></div>
 <div>
  </div>
 <div>

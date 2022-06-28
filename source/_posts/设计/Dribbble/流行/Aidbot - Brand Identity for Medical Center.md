@@ -1,0 +1,21 @@
+
+---
+title: 'Aidbot - Brand Identity for Medical Center'
+categories: 
+ - 设计
+ - Dribbble
+ - 流行
+headimg: 'https://picsum.photos/400/300?random=8071'
+author: Dribbble
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=8071'
+---
+
+<div>   
+<br>
+                        <br>
+                        0 likes<br>
+                        0 saves  
+</div>
+            
