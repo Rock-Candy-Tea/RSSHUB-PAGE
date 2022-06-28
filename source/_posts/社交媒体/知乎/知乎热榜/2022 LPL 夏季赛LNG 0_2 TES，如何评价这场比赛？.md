@@ -1,0 +1,18 @@
+
+---
+title: '2022 LPL 夏季赛LNG 0_2 TES，如何评价这场比赛？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic1.zhimg.com/v2-252e8793f9ece10fb87d1d8e0ac5f061_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Tue, 28 Jun 2022 12:42:07 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-252e8793f9ece10fb87d1d8e0ac5f061_1440w.jpg?source=b1748391'
+---
+
+<div>   
+清人风的回答<br><br><p data-pid="R-YCVtE6">今天这场就是两队近况的写照了，第二场比赛TES直接把LNG给碾了过去，LNG究竟怎么了？上赛季还能开局七连胜，这赛季怎么一路俯冲？TES又是咋回事，上赛季还要北伐出征，怎么这赛季开局状态火热？</p><p data-pid="QgzAejWv">武器大师有一句经典台词：最强的武器是什么，是补丁！</p><p data-pid="9mMThHEo">没有人能逆着版本玩，就算有也走不远，所以适应版本是每个战队的必修课。</p><p data-pid="ZafT7V1R"><b>众所周知，这是一个需要发育的版本，因此所有战队不能只会进攻</b>。</p><h2>一、不适应版本的LNG</h2><p data-pid="mLBi33cs">按理来说，LNG应该是那个常规赛下限很高的队伍，不管在什么版本，中野一定会是前中期进攻的主轴，Doinb+Tarzan，这个组合的节奏不需要过多去质疑吧？</p><p data-pid="V6gdP5AR">但是近期Tarzan迷失在野区里了，以今天这把比赛为例，你可以看到小天的存在感拉满，要么在控龙，要么在下半区打保护，要么在打入侵，而Tarzan仿佛是公式化进攻，下路需要反蹲我就去，先锋到时间了该打我就打，小龙队友来不了该放我就放，一切看起来都很合理，但合理不代表正确，打野位本来就是要不断博弈，抢时间，抓节奏，不冒风险，往往意味着没有收益。</p><p data-pid="e7On_Po5">Tarzan如此不适应节奏的重要原因之一在于：<b>发育的周期变长了，抓人的成本变高了，控图的比重增加了</b>。</p><p data-pid="lXWMF7Iz">上赛季LNG最大的问题之一是什么？是他们不怎么控图。</p><p data-pid="P5_bDd_q">虽说这赛季拥有指挥体系的Doinb来到了LNG，但Tarzan这名选手，骨子里还是那个进攻型拉满的抓人型打野，你要他打控图，他就会开始迷茫。</p><p data-pid="JWNPcaPg">再看看Doinb最近的英雄使用情况：</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-252e8793f9ece10fb87d1d8e0ac5f061_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1024" data-rawheight="576" data-default-watermark-src="https://pic3.zhimg.com/v2-60f0671428b24724d8baa4ab3af73de0_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-252e8793f9ece10fb87d1d8e0ac5f061_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="56dLmxN0">看得出来，他的飞机使用效果最好的，但对方也不傻，最近开始在前三手疯狂针对Doinb的飞机，所以你可以看到Doinb截止目前，也没有其他英雄能拿出来回应对方的针对，他亟需飞机以外的另一个替代品。</p><p data-pid="muOJ7muK">中野都有问题，加上Light没有上赛季那么火热的状态，阿乐神神鬼鬼的，整个LNG就感觉很不对劲。</p><h2>二、开始打运营的TES？</h2><p data-pid="2s1j00Yn">有的朋友会说了：<b>不对啊，TES也是进攻战队啊，怎么他们最近成绩就很好呢</b>？</p><p data-pid="xOXszkUS">是的，这两年的TES都是那种前中期进攻热情似火，中后期给你整波大的，往往意味着被翻。</p><p data-pid="hxZHhXFy">但近期的TES不太一样，他们开始打起了运营，是的你没看错，他们真的会运营了。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-c462414d7aa8c6763d0f5b8ff6ee3da1_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1024" data-rawheight="312" data-default-watermark-src="https://pic1.zhimg.com/v2-3ce1a4f73040f5eafabd22c22045fb32_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-c462414d7aa8c6763d0f5b8ff6ee3da1_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="pcchkgOF">看看小天最近的英雄池情况，除了痛，依旧很痛之外，他开始大量选巨魔了。</p><p data-pid="28Ah6vtL">以往的小天骨子里是一个猎手，他擅长盲僧、蜘蛛、奇亚娜等节奏型英雄，但这赛季以来，我哦已经不知道是第几次看到他先控下第一条小龙了，小天在这个偏运营的版本里，也在玩控图。</p><p data-pid="RgQLY7Wq">另外一点，TES整体队伍的协同性在增强，尤其是边带这一选项。上赛季春决，Wayward少年老成，在对线期打得像一名老上单，但到了中期边带屡次被抓死，现在你还能看到大黄经常被抓死吗？反倒是第一把，阿乐在边路疯狂被抓死。</p><p data-pid="axjtaeHa">同时更重要的是：<b>TES不是不进攻了，而是换种模式在进攻了</b>。</p><p data-pid="kI_gfW3b">进攻并不意味着一直干架，RNG也是进攻强队，但有人会说RNG不会运营吗？</p><p data-pid="_ZnpzdFK">上赛季的TES是通过对线，入侵等显性操作来打进攻，而这赛季是通过转线、运营、推塔、控龙这些隐性操作来打进攻，他们不是不进攻了，只是进攻手段更加多样化了。</p><p data-pid="HGHvJzYL">所以第二把打LNG，你可以看到拿到优势后的TES是怎么滚需求的？他们把LNG的所有外塔给全拆了，怎么做到的？靠先锋，靠兵线，靠转线，靠TP，这些隐形的团队协同，他们在成长，于是滚出了爆炸高的经济差，加上水手两人顶尖的操作，狐狸和EZ直接把比赛给接管了。</p><p data-pid="Ld8uWUoq">真让人非常好奇，这样的TES能走多远呢？</p>  
+</div>
+            
