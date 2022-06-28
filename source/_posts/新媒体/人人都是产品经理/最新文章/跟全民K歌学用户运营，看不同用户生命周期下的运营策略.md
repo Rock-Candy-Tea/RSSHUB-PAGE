@@ -25,7 +25,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/06/V8xmgycAcqncJIJsoPln.png'
 <p align="center"><strong>福利直播课限时免费</strong></p>
 <p align="center">扫码<strong>立即报名</strong></p>
 <p align="center"><strong>▼▼▼</strong></p>
-<p align="center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/06/FW59LpMinDBM0fvDFZ9l.png" alt width="252" height="252" referrerpolicy="no-referrer"></p>
+<p align="center"><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/06/geDYY3iyj4HZOenCOVJM.jpg" alt width="507" height="901" referrerpolicy="no-referrer"></p>
 <p>接下来给大家具体介绍一下这节直播课：</p>
 <p style="text-align: center"><strong>01</strong></p>
 <p style="text-align: center" align="center"><strong>这是一门什么样的课程？</strong></p>
