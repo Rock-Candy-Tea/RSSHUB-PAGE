@@ -27,12 +27,12 @@ thumbnail: 'https://img.cls.cn/images/20220628/7IA7B6TcnT.png'
 <p><strong>首批八家碳中和ETF今日获批</strong></p>
 <p>首批八家碳中和ETF今日获批，包括招商基金、南方基金等。据悉，碳中和指数从沪深市场中选取清洁能源、储能等深度低碳领域中市值较大的，以及火电、钢铁等高碳减排领域中碳减排潜力较大的合计100只上市公司证券作为指数样本，以反映沪深市场中对碳中和贡献较大的上市公司证券的整体表现。 (证券时报)</p>
 <p><strong>深度：</strong></p>
-<p><a href="https://api3.cls.cn/share/article/1055648?os=ios&sv=2.1.4&app=stib">汽车产业链掘金不止！芯片自主提上议程 五大核心品类指明投资方向</a>
-<a href="https://api3.cls.cn/share/article/1055180?os=ios&sv=2.1.4&app=stib">智能网联汽车生态大会召开 充换电、芯片自主之外 线控底盘亦成重要议题</a>
-<a href="https://api3.cls.cn/share/article/1055760?os=ios&sv=2.1.4&app=stib">借“擎天柱”一双“慧眼” 机器视觉方兴未艾 哪些公司有望受惠？</a></p>
+<p><a href="https://api3.cls.cn/share/article/1055648?os=ios&sv=2.1.4&app=stib">汽车产业链掘金不止！芯片自主提上议程 五大核心品类指明投资方向</a></p>
+<p><a href="https://api3.cls.cn/share/article/1055180?os=ios&sv=2.1.4&app=stib">智能网联汽车生态大会召开 充换电、芯片自主之外 线控底盘亦成重要议题</a></p>
+<p><a href="https://api3.cls.cn/share/article/1055760?os=ios&sv=2.1.4&app=stib">借“擎天柱”一双“慧眼” 机器视觉方兴未艾 哪些公司有望受惠？</a></p>
 <p><a href="https://api3.cls.cn/share/article/1055783?os=ios&sv=2.1.4&app=stib">抖音快手视频号争夺巨星流量 短视频演出商业大幕正在开启</a></p>
-<p><a href="https://api3.cls.cn/share/article/1055174?os=ios&sv=2.1.4&app=stib">百亿面板项目“停摆”背后：产业基金未按期注资 引发现金流危机|调查</a>
-<a href="https://api3.cls.cn/share/article/1055948?os=ios&sv=2.1.4&app=stib">腾讯确认成立XR业务线 未来推动游戏技术“进厂”</a></p>
+<p><a href="https://api3.cls.cn/share/article/1055174?os=ios&sv=2.1.4&app=stib">百亿面板项目“停摆”背后：产业基金未按期注资 引发现金流危机|调查</a></p>
+<p><a href="https://api3.cls.cn/share/article/1055948?os=ios&sv=2.1.4&app=stib">腾讯确认成立XR业务线 未来推动游戏技术“进厂”</a></p>
 <p><strong>【科创板公告】</strong></p>
 <p><strong>安博通：拟定增募资不超过1.74亿元</strong></p>
 <p>安博通公告，拟定增募资不超过1.74亿元，用于数据安全防护与溯源分析平台研发及产业化项目。</p>
@@ -52,8 +52,8 @@ thumbnail: 'https://img.cls.cn/images/20220628/7IA7B6TcnT.png'
 <p><strong>10家科创板拟上市公司发审状态更新</strong></p>
 <p>截至发稿，共有778家公司科创板上市申请获受理，10家公司发审状态更新。</p>
 <p>其中，百利天恒、恒普科技已问询；赛芯电子、天极科技、新相微、聚威新材、聚威新材、捷氢科技已受理；有研硅已过会；敏实集团中止科创板IPO申请（财报更新）。</p>
-<p><img src="https://img.cls.cn/images/20220628/7IA7B6TcnT.png" alt="image" referrerpolicy="no-referrer">
-<strong>【创投风向标】</strong></p>
+<p><img src="https://img.cls.cn/images/20220628/7IA7B6TcnT.png" alt="image" referrerpolicy="no-referrer"></p>
+<p><strong>【创投风向标】</strong></p>
 <p><strong>工业互联网服务商恒远科技完成5000万元Pre-B轮融资</strong></p>
 <p>工业互联网服务商恒远科技宣布完成5000万元Pre-B轮融资，投资方为达晨财智、源禾资本、华实资本。本轮融资将主要用于进一步加大核心技术的自研深度，升级迭代国产高端装备软件产品，加速军工、能源及矿业装备市场布局等，帮助中国高端装备制造企业数字化转型。</p>
 <p><strong>千顾科技完成数千万元Pre-A轮融资</strong></p>
