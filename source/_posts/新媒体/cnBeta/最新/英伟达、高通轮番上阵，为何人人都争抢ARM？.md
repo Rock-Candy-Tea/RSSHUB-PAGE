@@ -1,0 +1,19 @@
+
+---
+title: '英伟达、高通轮番上阵，为何人人都争抢ARM？'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0121/1a69a561c10ce82.jpg'
+author: cnBeta
+comments: false
+date: Tue, 28 Jun 2022 00:05:40 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0121/1a69a561c10ce82.jpg'
+---
+
+<div>   
+科技巨头、政府、反垄断监管者、投资者……所有人都在聚焦英国芯片设计公司ARM的IPO。尽管科技股最近大幅下跌，但软银仍然计划在明年3月前推动ARM上市。ARM虽然规模不大，却能成众人追捧的对象。软银斥资320亿美元收购ARM。<br>
+ <p>今年5月底，高通CEO克里斯蒂亚诺·安蒙（Christiano Amon）对《金融时报》表示，将与<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>或<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://samsung.jd.com/" target="_blank">三星</a>等竞争对手成立一个财团，对ARM进行控股，或者将其全盘收购。英伟达也曾在2020年尝试过以400亿美元收购ARM，但未能成功。</p><p><a href="https://static.cnbetacdn.com/thumb/article/2022/0121/1a69a561c10ce82.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0121/1a69a561c10ce82.jpg" referrerpolicy="no-referrer"></a></p><p>部分英国政客认为，ARM拥有极其重要的战略地位，所以政府应当持有"黄金股"，掌握控制权。或许为回应此事，6月14日有报道称软银考虑在纽约之外，将伦敦作为ARM的二次上市地。</p><p>分析ARM的财务状况，会发现投资者对它的兴趣似乎令人费解。该公司去年的销售额为27亿美元，增长35%，看起来不错，但和其重要地位相比却微不足道。按照英伟达出价来看，该公司估值在6年间增长四分之一。与此同时，尽管最近的市场遭遇重创，但高通的市值依然增长一半，英伟达更是暴涨13倍。</p><p>ARM的规模和外界对它的浓厚兴趣何以出现如此大的反差？《经济学人》撰文称，目前有两种解释。<strong>首先是其产品的普遍性。</strong></p><p>1990年，ARM从英国台式机制造商Acorn Computers分拆出来。经过几十年的发展，如今几乎所有大型科技公司都在使用该公司的芯片架构，多数现代<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>都至少搭载一个基于ARM架构设计的芯片，这使之成为5000亿美元芯片行业的基石。<strong>第二个卖点是潜力。</strong>经过多年的尝试，该公司的设计逐渐进入PC和数据中心等利润丰厚的市场。从汽车到灯泡，各种日常用品都可以借助ARM的芯片架构成为微型电脑。</p><p>先来看普遍性。与英特尔同时设计和生产芯片的模式不同，ARM只出售知识产权。只要给钱就能买到其现成的芯片设计，然后根据需要修改，再出售成品芯片。除了<strong>授权收入</strong>外，ARM还会从所有基于其技术生产的芯片中抽取很小比例的<strong>销售分成</strong>。该公司2021年的授权收入超过10亿美元，销售分成达到15亿美元。</p><p>在芯片设计日趋复杂且高度专业化的背景下， ARM的现成设计广受欢迎。据分析公司New Street Research，ARM在250亿美元的智能手机芯片市场中占据99%的份额；其产品被广泛应用于无人机、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C880%26ev%3D998_605429%26JL%3D3_%25E4%25BA%25A7%25E5%2593%2581%25E7%25B1%25BB%25E5%259E%258B_%25E6%25BB%259A%25E7%25AD%2592%23J_crumbsBar" target="_blank">洗衣机</a>、智能手表等各类产品。ARM称，自创办以来只出售了不到2000份授权。然而，基于ARM架构生产的芯片出货量却超过2250亿个，2035年预计将突破1万亿个。</p><p>ARM客户众多，英伟达的洽购遭抵制也就不足为奇。今年卸任ARM CEO的西蒙·赛加斯（Simon Segars）曾将该公司称作"科技行业的瑞士"，以凸显中立地位。市场研究公司CCS Insight分析师吉奥夫·布雷博（Geoff Blaber）表示，其它芯片制造商担心，倘若ARM被竞争对手掌控，其中立地位会削弱。反垄断机构也持有相同观点，所以才会阻挠这笔交易。尽管英伟达CEO黄仁勋一再坚称不会用ARM来阻碍竞争对手的发展，但却很少有人真正放心。</p><p>Arm战胜对手的一大原因是<strong>价格低。</strong>New Street估计，Arm从一款高端智能手机中的抽成仅为1.5美元，中低端款的抽成可能得按美分算。</p><p>New Street分析师皮埃尔·法拉古（Pierre Ferragu）表示，ARM已多次上调销售佣金，通常都发生在新设计架构发布时。内部人士透露，软银希望进一步上调佣金比率，但遭到ARM高管反对。他们担心此举会激怒现有客户，而且还会威胁到ARM进军新市场的计划。</p><p>2020年，长期在<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>中使用ARM架构的<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>，开始在笔记本和台式机中使用ARM架构的设计替代英特尔芯片。尽管苹果在PC市场的影响力不及智能手机那么大，但仍然在这个陌生的领域给ARM投了一张信任票。</p><p>ARM还在积极抢占服务器、高端计算机等利润丰厚的市场。该市场几十年来一直被英特尔主导，但ARM最近也取得了一些令人瞩目的进展。亚马逊旗下的AWS云计算部门现在就使用基于ARM架构的graviton芯片。美国数据中心芯片公司Ampere也开始基于ARM架构设计产品，多家在网络管理等专业领域从事处理器开发业务的公司也采取了同样的措施。市场研究公司TrendForce预计，到2025年，ARM处理器将在服务器芯片装机量中占据22%的份额。</p><p>布雷博表示，背靠软银这课大树，ARM投入大量研发资金，将有助于在技术上保持领先。然而，由于新的挑战者risc-v的出现，它的收费仍然受到限制。这种新的芯片架构完全不收取销售提成和授权费。2020年，之前已经获得ARM授权的瑞萨电子宣布将在新一代产品中使用risc-v。英特尔、高通和三星等企业也在关注这种技术。无论ARM的命运如何，无论是作为上市公司、国家控股公司，还是被芯片巨头组成的财团控制，它在未来恐怕仍会延续过去的命运：至关重要，但按硅谷的标准来看却"微不足道"。</p>   
+</div>
+            
