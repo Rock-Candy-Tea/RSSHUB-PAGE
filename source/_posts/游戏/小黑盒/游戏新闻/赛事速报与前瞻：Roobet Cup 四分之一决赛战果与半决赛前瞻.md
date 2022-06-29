@@ -1,0 +1,18 @@
+
+---
+title: '赛事速报与前瞻：Roobet Cup 四分之一决赛战果与半决赛前瞻'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/06/29/51f948e10d4dad169a74840d6503e45a/thumb.png'
+author: 小黑盒
+comments: false
+date: Wed, 29 Jun 2022 17:18:00 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/06/29/51f948e10d4dad169a74840d6503e45a/thumb.png'
+---
+
+<div>   
+<p>Roobet Cup昨夜今晨进行了两场四分之一决赛的争夺。FaZe 2-0 击败ENCE，对舰宝具这次没有击沉战舰。图一Ancient，FaZe上半场11-4领先，下半场成功克服choke，以16-10拿下比赛。图二Overpass，broky发挥神勇拿下30击杀，rain在0-10的情况下，通过两轮三杀找回状态，以18-18结束比赛，ENCE在CT方拿下11分，奈何在进攻端几乎没有什么办法，除了通过对枪拿下回合胜利外，其余进攻基本被karrigan参透，最终FaZe 16-12，总分2-0拿下ENCE，晋级四强。</p><p>Astralis 2-0 击败forZe。blameF继续神勇表现，两图rating为1.37，拿下60个总击杀。图一mirage，Astralis压力较小拿下比赛。图二来到nuke，forZe与Astralis打进加时，最终Astralis更胜一筹，以2-0晋级四强。</p><h3>昨日战报</h3><p><img class="lazy" data-height="142" src="https://imgheybox.max-c.com/web/2022/06/29/51f948e10d4dad169a74840d6503e45a/thumb.png" data-width="1130" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="694" src="https://imgheybox.max-c.com/web/2022/06/29/31feddd38288f14a6d3ca84fbf58433c/thumb.png" data-width="1162" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="694" src="https://imgheybox.max-c.com/web/2022/06/29/bbcebfdf0f8a4d385adc75c04fc78308/thumb.png" data-width="1166" referrerpolicy="no-referrer"></p><h3>今日赛程</h3><h2>BIG（11）vs Cloud9（4）</h2><p>比赛时间：北京时间6月29日 21:00</p><p>赛制：BO3，胜者晋级决赛，败者淘汰。</p><p>看点：sh1ro与syrsoN的对位，krimbo能否神勇发挥？近期8连胜的Cloud9能否进入决赛？</p><h3>关键队员数据对比</h3><p><img class="lazy" data-height="396" src="https://imgheybox.max-c.com/web/2022/06/29/c4ab152473983322696d7dd401547089/thumb.png" data-width="1150" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="396" src="https://imgheybox.max-c.com/web/2022/06/29/4381605ea963068fcd1f9a4ad4c3355c/thumb.png" data-width="1148" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="398" src="https://imgheybox.max-c.com/web/2022/06/29/113dc3080da610b986de04a6edc362c9/thumb.png" data-width="1146" referrerpolicy="no-referrer"></p><p>sh1ro本次比赛发挥神勇，目前以1.44的rating排名第一，这次对胃排名前列的syrsoN，能否继续神勇表现？BIG能否赢下比赛，小将krimbo的发挥十分重要。同时最近tabseN与nafany最近也有不错的表现。</p><h3>队伍地图池对比</h3><p><img class="lazy" data-height="854" src="https://imgheybox.max-c.com/web/2022/06/29/23407c943a2f65d9813ecabea7bebca4/thumb.png" data-width="1168" referrerpolicy="no-referrer"></p><p>两队一边不打nuke，一边不打inferno。因此bp较为简单，BIG依旧拿出dust2，虽然在达拉斯被C9小分拿下，但是我认为BIG会继续选择，C9拿出Ancient。图三可能是mirage或overpass。</p><h3>近期交锋记录</h3><p><img class="lazy" data-height="768" src="https://imgheybox.max-c.com/web/2022/06/29/2b2a45676c811bdb972395434e9aef6b/thumb.png" data-width="1170" referrerpolicy="no-referrer"></p><p>BIG在达拉斯被让一追二，且两把都是小分，BIG能否干回来？</p><h2>FaZe（1）vs Astralis（12）</h2><p>比赛时间：北京时间6月30日 01:00</p><p>赛制：BO3，胜者晋级决赛，败者淘汰。</p><p>看点：karrigan与gla1ve的指挥对决，blameF与ropz的自由人交锋</p><h3>关键队员数据对比</h3><p><img class="lazy" data-height="392" src="https://imgheybox.max-c.com/web/2022/06/29/42bef1d9d849a7f7b39d231b868b6af7/thumb.png" data-width="1146" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="396" src="https://imgheybox.max-c.com/web/2022/06/29/5fd7dc680817934b035aff6e3ce6d2f5/thumb.png" data-width="1152" referrerpolicy="no-referrer"></p><p>两支队伍的近况大家差不多都了解。Astralis依旧是大壮扛着队伍前进，而FaZe状态不佳，急需找回状态。听说ropz换了鼠标，才导致近期对枪严重下滑。大家可以去看看昨晚ropz在Ancient土匪方的一把A区对枪，我直呼饱了（我的ropz）。</p><h3>队伍地图池比较</h3><p><img class="lazy" data-height="852" src="https://imgheybox.max-c.com/web/2022/06/29/2facf3d438ae014fdd2bcdc15f83d02e/thumb.png" data-width="1170" referrerpolicy="no-referrer"></p><p>这是Astralis与FaZe在2022年的第一次交手。</p>  
+</div>
+            
