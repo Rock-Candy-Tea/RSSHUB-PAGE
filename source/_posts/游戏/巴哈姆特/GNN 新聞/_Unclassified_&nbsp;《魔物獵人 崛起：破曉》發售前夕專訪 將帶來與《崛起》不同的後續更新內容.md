@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380'
 author: 巴哈姆特
 comments: false
-date: 2022-06-29 14:10:10
+date: 2022-06-29 15:43:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.58%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG 2x" style="max-width: unset;" title="《魔物獵人》系列製作人辻本良三（Tsujimoto Ryozo）和《魔物獵人 崛起：破曉》總監鈴木佳剛（Suzuki Yoshitake）" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG 2x" style="max-width: unset;" title="《魔物獵人》系列製作人辻本良三（Tsujimoto Ryozo）和《魔物獵人 崛起：破曉》總監鈴木佳剛（Suzuki Yoshitake）" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA" target="_blank">魔物獵人</a>》系列製作人辻本良三（右）和《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA+%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89" target="_blank">魔物獵人 崛起：破曉</a>》總監鈴木佳剛（左）</figure>
 </li>
@@ -37,8 +37,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 133.55%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG?v=1656507929424" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 133.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG?v=1656507929424" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/ad9cc3fea6df780b60ae3121131h0935.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/Rn8rhRvmYhE?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
@@ -73,7 +79,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG?v=1656508494502" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG?v=1656508494502" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/ecf1a82470ce1bd6a4ddcb97871fl4e5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -97,7 +103,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG?v=1656508552597" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG?v=1656508552597" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/25aba08c3ff07d9f5523d476691g8gz5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -121,7 +127,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG?v=1656508290645" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG?v=1656508290645" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/9e9b2883875be42f550b88b9fb1gz0m5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -174,9 +180,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?v=1656508233852" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG 4x" style="max-width: unset;" title="除了火芽與水藝之外，教官倪泰也確認能作為盟友一起出戰" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?v=1656508233852" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/99/554ddc6699a99025393e25f30a1g8h75.JPG 4x" style="max-width: unset;" title="除了火芽與水藝之外，教官倪泰也確認能作為盟友一起出戰" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?v=1656508233852" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG 4x" style="max-width: unset;" title="除了火芽與水藝之外，教官倪泰也確認能作為盟友一起出戰" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?v=1656508233852" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/17/4d7800bb5a2bf92f8c50e24bf61gzf55.JPG 4x" style="max-width: unset;" title="除了火芽與水藝之外，教官倪泰也確認能作為盟友一起出戰" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 除了火芽與水藝之外，教官倪泰也確認能作為盟友一起出戰</figure>
