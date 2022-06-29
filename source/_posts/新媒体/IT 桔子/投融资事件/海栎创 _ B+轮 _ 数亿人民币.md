@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/a2d1a3aa17c5689e5d64bf545cb29feb.png'
+headimg: 'https://cdn.itjuzi.com/images/b604a0561ffb826cb72c179e0fc47abd.png'
 author: IT 桔子
 comments: false
 date: Tue, 20 Jan 1970 04:08:08 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/a2d1a3aa17c5689e5d64bf545cb29feb.png'
+thumbnail: 'https://cdn.itjuzi.com/images/b604a0561ffb826cb72c179e0fc47abd.png'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/a2d1a3aa17c5689e5d64bf545cb29feb.png" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/b604a0561ffb826cb72c179e0fc47abd.png" referrerpolicy="no-referrer"><br><br>
         <strong>海栎创</strong><br>
         电容触控芯片研发生产商<br>
         B+轮 / 数亿人民币 / 1656488299<br>

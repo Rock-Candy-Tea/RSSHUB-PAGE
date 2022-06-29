@@ -1,0 +1,19 @@
+
+---
+title: 'RTI公司宣布推出软件定义汽车生产级互连框架Connext Drive 2.0'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=4293'
+author: 高科技行业门户
+comments: false
+date: Wed, 29 Jun 2022 08:13:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4293'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">Connext Drive 2.0新功能加速与AUTOSAR和ROS 2直接集成</p><p style="text-indent: 2em; text-align: left;">最大的智能机器及应用系统软件框架提供商RTI公司近日宣布推出RTI Connext Drive? 2.0软件定义<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="汽车">汽车</a></span>生产级互联框架,加速与AUTOSAR Classic和ROS 2的直接集成,使开发人员能够利用熟悉的生态系统架构实现以数据为中心的网络互连。由此支持开发人员在熟悉的平台上更快地开始Biuld,并消除了定制编程的工作,同时将总体系统复杂度和成本降至最低,构建经得起未来考验并不断发展的系统。</p><p style="text-indent: 2em; text-align: left;">Connext Drive 2.0提供了加速途径以便通过安全认证组件和远程操作插件输出高性能计算能力。Connext Drive基于数据分发服务(DDS?) 标准和领先的数据互连标准,已被<span class="hrefStyle"><a href="https://www.ofweek.com/auto/tag-%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A.HTM" target="_blank" title="汽车工业">汽车工业</a></span>标准组织、AUTOSAR和ROS采用,帮助OEM厂商为任何特定应用场景推出最佳特色功能,快速开发多种车辆架构。新的Connext Drive 2.0具体功能包括:</p><p style="text-indent: 2em; text-align: left;">· Connext Integration Toolkit for AUTOSAR Classic:包括将AUTOSAR Classic ECU建模和配置工作流与RTI Connext Drive 2.0协同起来的工具,用于快速、可扩展的嵌入式、实时安全系统通信。这种集成能力简化了基于DDS的汽车ECU的设计和开发。</p><p style="text-indent: 2em; text-align: left;">· Connext ROS 2工具包:包括一个不断扩充的工具库,可简化ROS 2和Connext Drive生态系统的集成,为ROS 2开发人员提供通向生产级系统的途径。通过这种集成能力,开发者可以借助于RTI的自定义ROS中间件容器来减少ROS 2系统延迟。</p><p style="text-indent: 2em; text-align: left;">· Connext Drive Launcher:帮助开发者根据特定应用场景来设计车辆,包括下一代E/E、ADAS、远程操作、模拟或高性能计算。支持为特定应用选择最佳功能,帮助开发人员提高生产效率并加快上市速度。RTI用户现在可以直接应用Connext Drive中提供的全套实用程序、服务和工具,从而简化项目开发。</p><p style="text-indent: 2em; text-align: left;">此次发布的Connext Drive 2.0包含已经通过TUV SUD的ASIL D级安全认证组件,这是软件认证的最高层级,从而确保从ECU到中央网关在内的每个独立组件都达到汽车功能安全性要求。此外,其中还包括与两种流行实时操作系统的互操作性——面向armv8安全性的QNX以及面向Infineon TriCore的AUTOSAR Classic OS,由此为开发具备安全性的生产级汽车开辟了一条可靠且低成本的道路。Connext Drive 2.0已在美国、欧洲和亚洲的公路上投入生产运营。</p><p style="text-indent: 2em; text-align: left;">英飞凌硅谷汽车创新中心(SVIC)负责人Nelson Quintana表示:“RTI Connext Drive提供以数据为中心的体系结构,帮助开发人员解决未来车辆面临的根本挑战。我们认识到此项技术的独特价值,并期待着扩大与RTI的合作,将其基于DDS的技术与英飞凌领先的AURIX)?汽车微控制器产品相结合,以支持下一代E/E架构。"</p><p style="text-indent: 2em; text-align: left;">RTI公司<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CATList-7000-8400-auto.html" target="_blank" title="汽车市场">汽车市场</a></span>开发总监Pedro Lopez Estepa指出:“Connext Drive 2.0开创了应用场景驱动型产品,强化了RTI公司在市场中的地位。RTI公司致力于帮助客户突破当今汽车业的架构局限。我们的产品连年稳步发展,是包括长期安全认证的模块化解决方案,为<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CAT-70109-automaticdriving.html" target="_blank" title="自动驾驶">自动驾驶</a></span><span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="电动汽车">电动汽车</a></span>创新提供了有力支持。”</p><p style="text-indent: 2em; text-align: left;">有关Connext Drive的更多信息和新功能的完整内容,请参阅:www.rti.com/Drive。</p><p style="text-indent: 2em; text-align: left;"><strong>上市和定价</strong></p><p style="text-indent: 2em; text-align: left;">Connext Drive现已公开上市。有关价格和软件许可证相关事宜,请联系sales@rti.com.</p><p style="text-indent: 2em; text-align: left;"><strong>RTI公司简介</strong></p><p style="text-indent: 2em; text-align: left;">Real-Time Innovations (RTI) 是自主系统软件框架的最大提供商。RTI Connext? 是用于开发智能分布式系统的世界领先架构。最独特的是,Connext可直接共享数据,将人工智能算法连接到设备实时网络,用以构建自动自治系统。</p><p style="text-indent: 2em; text-align: left;">RTI公司是全球最佳首选提供商,致力于确保我们客户所部署的生产系统取得全面成功。RTI在全球众多行业拥有超过1700个量产项目,其中和自动驾驶有关的项目超过250个。RTI的软件被用于北美最大发电厂的管控、美国海军舰艇作战管理、新一代医疗机器人、飞行汽车,并为医院和急救医疗提供全天候智能系统。RTI致力于运行一个更智能的世界。RTI推动着智能化世界。</p><p style="text-indent: 2em; text-align: left;">RTI公司是Object Management Group? DDS标准的领先供应商。RTI是一家私有控股公司,总部位于美国加州Sunnyvale市,在西班牙和新加坡设有区域办公室。</p> 
+  
+</div>
+            
