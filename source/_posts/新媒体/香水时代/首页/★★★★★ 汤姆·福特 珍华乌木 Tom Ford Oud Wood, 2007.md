@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=834'
+headimg: 'https://picsum.photos/400/300?random=8635'
 author: 香水时代
 comments: false
-date: Mon, 06 Jun 2022 16:45:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=834'
+date: Tue, 28 Jun 2022 20:17:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8635'
 ---
 
 <div>   
-最开始是买了瓶假香，十分像奶油话梅糖，我还寻思乌木呢？后面入正后发现，哦🙄这么成熟的味道，我还小而且也不抽烟呀  
+是我自己很喜欢的木头的味道，它的香评其实非常准确，就是深沉内敛的男士，一开始闻到可能不太喜欢，但是上手之后，嗯，过一段时间就会发现他确实很好闻。不轻浮，不具有挑逗性就是要等。自己拥有才会发现的那种内敛深沉的味道。  
 </div>
             

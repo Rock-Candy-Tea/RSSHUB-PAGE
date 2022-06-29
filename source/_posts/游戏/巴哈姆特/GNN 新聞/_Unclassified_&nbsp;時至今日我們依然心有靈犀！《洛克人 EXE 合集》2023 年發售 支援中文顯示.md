@@ -8,12 +8,11 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/46/b7a59dca250c439433e641c8a51gz225.JPG?v=1656425677314'
 author: 巴哈姆特
 comments: false
-date: 2022-06-28 15:11:10
+date: 2022-06-29 00:45:06
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/b7a59dca250c439433e641c8a51gz225.JPG?v=1656425677314'
 ---
 
 <div>   
-<div>
 <div>
 <div>
 　　CAPCOM 於今日的「Nintendo Direct mini Soft Maker Lineup 2022.6.28」中宣布，收錄《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B4%9B%E5%85%8B%E4%BA%BA+EXE" target="_blank">洛克人 EXE</a>》系列 10 款遊戲的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B4%9B%E5%85%8B%E4%BA%BA+EXE+%E5%90%88%E9%9B%86" target="_blank">洛克人 EXE 合集</a>》預定於 2023 年發售。</div>
@@ -504,7 +503,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/b7a59dca250c439433e641c8a51gz225.
 <div>
  </div>
 <div>
-　　於《Mega Man X Legacy Collection》等獲得好評的高畫質化濾鏡。使用平滑的繪圖方法令畫面不易失真，更能享受遊戲樂趣。玩家亦可隨意開關濾鏡。</div>
+　　在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B4%9B%E5%85%8B%E4%BA%BA%20%E5%82%B3%E5%A5%87%E5%90%88%E8%BC%AF" target="_blank">洛克人 傳奇合輯</a>》等獲得好評的高畫質化濾鏡。使用平滑的繪圖方法令畫面不易失真，更能享受遊戲樂趣。玩家亦可隨意開關濾鏡。</div>
 <div>
  </div>
 <div>
@@ -544,15 +543,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/46/b7a59dca250c439433e641c8a51gz225.
 <div>
  </div>
 <div>
-<span style="font-size:13px;"><span style="color:#a9a9a9;">※ 除了《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B4%9B%E5%85%8B%E4%BA%BA+EXE+%E5%90%88%E9%9B%86" target="_blank">洛克人 EXE 合集</a></span><span style="color:#a9a9a9;">》外，同時提供合集 1 和合集 2 可分別購買（僅限下載版）。</span></div>
+<span style="font-size:13px;"><span style="color:#a9a9a9;">※ 除了《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B4%9B%E5%85%8B%E4%BA%BA+EXE+%E5%90%88%E9%9B%86" target="_blank">洛克人 EXE 合集</a><span style="color:#a9a9a9;">》外，同時提供合集 1 和合集 2 可分別購買（僅限下載版）。</span></span></div>
 <div>
 <span style="color:#a9a9a9;"><span style="font-size:13px;">※ 詳情請瀏覽官方網站。</span></span></div>
-</div>
-<div>
- </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="54944" data-from="web_gnn"></div>
-<p style="font-size: 12px; padding: 10px 0;">©CAPCOM CO., LTD. ALL RIGHTS RESERVED.</p>
+<p style="font-size: 12px; padding: 10px 0;">© CAPCOM CO., LTD. ALL RIGHTS RESERVED.</p>
 </div>
 <!-- 新聞內容結束 -->
   
