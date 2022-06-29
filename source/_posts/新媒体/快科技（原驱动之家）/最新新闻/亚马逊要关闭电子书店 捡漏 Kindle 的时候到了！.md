@@ -1,0 +1,67 @@
+
+---
+title: '亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220629/S0b825353-85f8-4a30-a5ec-2bc45a25296c.png'
+author: 快科技（原驱动之家）
+comments: false
+date: Wed, 29 Jun 2022 19:03:23 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220629/S0b825353-85f8-4a30-a5ec-2bc45a25296c.png'
+---
+
+<div>   
+<p>事情的起因是这样的。明年亚马逊将要在国内停止电子书店运营这事相信很多差友都已经听说了吧？</p>
+<p>世超也在前两天写过一篇文章教大家怎么避免让 Kindle 吃灰（ 传送门 ）。<strong>结果在留言区里，我注意到很多人都以为亚马逊电子书店停服后， Kindle 上原先买的书就不能看了。</strong></p>
+<p>实际上，亚马逊在通知里写得很清楚，只要我们在书店停服之前把书下载到本地就能继续看书，后续我们也可以选择通过电脑把书导到 Kindle 来看书：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/0b825353-85f8-4a30-a5ec-2bc45a25296c.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="277" src="https://img1.mydrivers.com/img/20220629/S0b825353-85f8-4a30-a5ec-2bc45a25296c.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>要是你再注册一个其它地区的亚马逊账号，那么我们照样可以在 Kindle 上买新书，只是能买到的中文书籍比较少罢了，不过好在还能够用邮箱来推书。</p>
+<p>亚马逊的邮箱推书功能有多好用想必用过的差友都知道，我们只要把从网上找到的电子书资源发送到绑定的邮箱，它就会自动帮把书推送到 Kindle 上：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/83c5bdac-9466-4802-8236-ce17230d5d80.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="350" src="https://img1.mydrivers.com/img/20220629/S83c5bdac-9466-4802-8236-ce17230d5d80.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>所以理论上只要 Kindle 转区后还支持邮箱推书这个功能，那么我们基本就不用担心没书看。从另一个角度讲，等到亚马逊在国内正式停服之后，应该就是我们捡漏 Kindle 的最好时机。</p>
+<p style="text-align: center"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="40" src="https://img1.mydrivers.com/img/20220629/a5f24b87-0cee-4a57-b896-59e968a189a2.png" style="border: black 1px solid" w="37" referrerpolicy="no-referrer"></p>
+<p> 不，也许我们不用等到那个时候，因为最近我发现无论是各大电商平台在售的全新 Kindle 还是闲鱼、转转上的二手 Kinlde，它们的价格都贼便宜。</p>
+<p><strong>就拿原价 558 的入门版 Kindle 来说，它的价格几乎腰斩，只要两百出头就能买到一台拥有亚马逊和咪咕两大书城的墨水屏阅读器，简直不要太香好吧！</strong></p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/707bf08b-ff90-4abb-b97d-cad7f1df344d.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="305" src="https://img1.mydrivers.com/img/20220629/S707bf08b-ff90-4abb-b97d-cad7f1df344d.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>其它型号的 Kindle 比如 PaperWhite5、Oasis3，它们的优惠也挺大的。</p>
+<p style="text-align: center"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="34" src="https://img1.mydrivers.com/img/20220629/6bede803-a598-44a4-8b57-f3dd7dbd3236.png" style="border: black 1px solid" w="33" referrerpolicy="no-referrer"></p>
+<p> 尤其是二手，得知亚马逊停服想转手 Kindle 的大有人在，要是你平时就有看书的习惯，这时候考虑收台价格合适的 Kindle 绝对是一个不错的选择。</p>
+<p>如果你要买二手，在亚马逊推出的众多型号里，我个人最推荐各位入手带阅读灯的青春版 Kindle 或者 Kindle PaperWhite 3。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/78a75904-ee04-497f-9905-6122133a95af.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="285" src="https://img1.mydrivers.com/img/20220629/S78a75904-ee04-497f-9905-6122133a95af.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>目前它们价格都在三百出头，平时拿来看书足够，有阅读灯的加持晚上看书也是妥妥的。两者最大的区别，就在于 Kindle PaperWhite 3 分辨率高一些，只不过它只有 4GB 容量，而青春版 Kindle 则有 8GB 的版本，就看你更在意哪个了：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/a9696ae0-1ba9-4267-bd39-9327dd5b4488.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="434" src="https://img1.mydrivers.com/img/20220629/Sa9696ae0-1ba9-4267-bd39-9327dd5b4488.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>如果你有八九百的预算，那我觉得还是考虑其它品牌国产墨水屏阅读器吧，这价位你已经可以买到搭载开放式系统的阅读器，根本不用担心资源问题：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/15460d32-b0de-4f94-ab6d-db7e217a89dc.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="661" src="https://img1.mydrivers.com/img/20220629/S15460d32-b0de-4f94-ab6d-db7e217a89dc.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>接下来世超就跟各位差友仔细讲讲，Kindle 收过来之后该如何转区以及到底怎么传书，如果你已经有一台 Kindle，那就直接跟着演示一步步操作就行。转区的第一步就是选择你要注册哪个地区的账号，这里我建议你注册美区账号，毕竟亚马逊的总部就在美国，人家再怎么停服应该也不会把总部关停~在浏览器上打开亚马逊官网后，直接划到最底部选择美国地区，此时它会跳转到亚马逊美国官网：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/c312af5a-3bd9-49c1-98b5-ce61c30e160d.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="276" src="https://img1.mydrivers.com/img/20220629/Sc312af5a-3bd9-49c1-98b5-ce61c30e160d.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>网页右上角点击注册，按照正常流程通过邮箱或者手机号注册完账号后，我们就有了一个美区账号：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/49fe22e9-2a0a-4585-9d52-8c7b404f1c57.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="380" src="https://img1.mydrivers.com/img/20220629/S49fe22e9-2a0a-4585-9d52-8c7b404f1c57.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>接着我们要去 Kindle 设置里点击 “ 注销设备 ”，然后选择以美区账号登录，根据提示完成登录后，你就会看到它在最底下有一个邮箱地址方便你传书：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/0586e577-fc0d-4704-92e5-52659c5521be.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="442" src="https://img1.mydrivers.com/img/20220629/S0586e577-fc0d-4704-92e5-52659c5521be.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>这个时候，我们的 Kindle 就已经可以使用美区的电子书城以及美区的邮箱推书功能了。世超也是亲自测试了一下它的邮箱推书功能，我先是从网上找了一本电子书，然后以附件的形式把这本书通过网易邮箱发到了前面的 Kindle 邮箱：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/789bcb52-e807-46d6-b037-0d5825cb49a0.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="360" src="https://img1.mydrivers.com/img/20220629/S789bcb52-e807-46d6-b037-0d5825cb49a0.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p style="text-align: center"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="30" src="https://img1.mydrivers.com/img/20220629/f3708fa2-c665-471e-962b-0448c77dd405.png" style="border: black 1px solid" w="44" referrerpolicy="no-referrer"></p>
+<p> 等到邮箱显示 “ 邮件成功到达对方服务器 ” 后，只要在 Kindle 上点击 “ 同步您的 Kindle ”，没过一会，刚刚那本书就推送到了我的 Kindle 上：</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220629/75ff99c6-911e-42e6-b073-312291acf6a9.png" target="_blank"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="440" src="https://img1.mydrivers.com/img/20220629/S75ff99c6-911e-42e6-b073-312291acf6a9.png" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>除了自己找书自己传，其实你也可以通过那些提供邮箱推书服务的公众号来传书，我们只要把接收电子书的 Kindle 邮箱提前绑定到这些公众号就行。</p>
+
+<p>在亚马逊停服前，邮箱推书功能可以正常使用；停服之后，我们就只能转区后再使用它的邮箱推书功能，所以差友们可以趁着这段时间多传几本书。</p>
+<p style="text-align: center"><img alt="亚马逊要关闭电子书店 捡漏 Kindle 的时候到了！" h="37" src="https://img1.mydrivers.com/img/20220629/a6bd4333-92bf-44f2-a5b0-75bfebceb238.png" style="border: black 1px solid" w="59" referrerpolicy="no-referrer"></p>
+<p> 总之就一句话，别人恐惧我贪婪，当很多人都觉得现在买 Kindle 是 49 年入国军的时候，恰恰就是我们捡漏的最好时机~感谢大家的观看！</p>
+
+           
+           
+           <p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p>
+<div style="overflow: hidden;font-size:14px;">
+             
+          <p class="url"><span style="color:#666">责任编辑：若风</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
+        </div>
+        <div class="page_article" id="bnext">
+ 
+</div>
+<p class="bqian">话题标签：<a href="https://news.mydrivers.com/tag/yamaxun.htm">亚马逊</a><a href="https://news.mydrivers.com/tag/kindle.htm">kindle</a><a href="https://news.mydrivers.com/tag/dianzhishu.htm">电纸书</a>  </p>
+        
+</div>
+            
