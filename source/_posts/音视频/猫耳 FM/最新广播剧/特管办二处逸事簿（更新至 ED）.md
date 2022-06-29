@@ -1,0 +1,18 @@
+
+---
+title: '特管办二处逸事簿（更新至 ED）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202206/28/0c9b7669981c29253b5a45c41d8ffdeb154913.jpg'
+author: 猫耳 FM
+comments: false
+date: Wed, 29 Jun 2022 05:45:54 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202206/28/0c9b7669981c29253b5a45c41d8ffdeb154913.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202206/28/0c9b7669981c29253b5a45c41d8ffdeb154913.jpg" referrerpolicy="no-referrer"><br><p>《特管办二处逸事簿》上期</p><p><strong>原著：侠总攻</strong></p><p>制作组</p><p>策划：水芜鱼</p><p>编导：暖气片片儿【一拍即合】</p><p>后期：微小柯【小脸通黄工作室】</p><p>美工：大花【羽落有声】</p><p>字幕：羿清泽【梦启天明】</p><p>画师：沄鲤</p><p>配音组</p><p>沈默：Forsaken【昆仑班】</p><p>谷雨：归期</p><p>李保乐：水芜鱼</p><p>小鬼：洛小叉sicver</p><p>淫鬼：李白</p><p>王大爷：马善人</p><p>路人A：海绵茜茜</p><p>路人B：壮汉炒饭</p><p>师傅：银角大王YJ【音韵工作室】</p><p>司机/老头：枫翎秋【笙笙入耳】</p><p>大学生爸爸：何处见桑田【濯声文化】</p><p>大学生妈妈：爱普布拿拿【水钋梁彡工作室】</p><p>ED</p><p>《三人行必有我事儿》</p><p>原曲：《天津快板》</p><p>填词：水芜鱼</p><p>后期：可可</p><p>海报：狗娃/半夜三更制作组</p><p>翻唱：</p><p>Forsaken/昆仑班</p><p>水芜鱼</p><p>归期</p>  
+</div>
+            
