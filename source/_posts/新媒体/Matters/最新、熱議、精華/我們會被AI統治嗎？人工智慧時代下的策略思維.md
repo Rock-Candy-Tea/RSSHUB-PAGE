@@ -1,0 +1,18 @@
+
+---
+title: '我們會被AI統治嗎？人工智慧時代下的策略思維'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/815e4970-12ee-42fe-afd2-9f63e33ae51b.jpeg'
+author: Matters
+comments: false
+date: Thu, 30 Jun 2022 04:51:26 GMT
+thumbnail: 'https://assets.matters.news/embed/815e4970-12ee-42fe-afd2-9f63e33ae51b.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/815e4970-12ee-42fe-afd2-9f63e33ae51b.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><blockquote><strong>AI帶給我們的經濟意義是什麼？</strong></blockquote><p>許多人可能會想到當世界圍棋高手敗給了人工智慧這代表什麼？在本書中作者認為的AI帶來的重大經濟意義是它讓某些重要的東西變便宜了！那麼，什麼是重要的「東西」呢？在AI時代，這個重要的產物就是「<strong>預測</strong>」，預測變便宜這意味著決策的成本變低，每一個決策背後所承擔的風險值也下降了。</p><p>AI的應用諸多，例如自動化倉儲系統，然而本書提及<strong>未來的AI運用則指的是不再僅限於執行策略提高生產力，而是AI有機會改變決策</strong>。以一個案例來說，AI促成預測準確度大幅提升，進而可能改變商業模式，從「購物後出貨」變成「出貨後購物(shipping-then-shopping)」，這是一個垂直整合的概念，不但降低存貨成本，也有可能更符合顧客需求。</p><p><br></p><blockquote><strong>現代工程師都在學什麼？</strong></blockquote><p><strong>看到一個問題並將問題重新組合成一個預測問題的能力稱之為「AI洞見(AI Insight)」</strong>，這樣的能力不只是AI在學，當今工程師更致力於此。為什麼有了AI科技人還需要學習重新組織並思考問題呢？因為電腦依然無法替我們思考，思考的價值不管在什麼時後都不會也不該被否定，作者也指出當今世代唯有「<strong>思考不會變便宜</strong>」，這讓我想到那麼工作若能選擇，理應從事具有思考附加價值的產業，才不至於被時代淘汰。</p><figure class="image"><img src="https://assets.matters.news/embed/01852e2f-076d-4ef4-91ee-8ff90ae0b0a8.jpeg" referrerpolicy="no-referrer"><figcaption><span>即便有了過去的資料，我們也無法完全精確預測出下一次地震會在哪發生？何時發生？所以我們說這樣的預測是有難度的，是困難的，這也是目前許多地震專家努力的方向。</span></figcaption></figure><p><br></p><blockquote><strong>迎接大數據世代</strong></blockquote><p>預測機器的價值為增加「判斷」本身的價值。判斷是用來決定成果、效用、報酬或利益的技能。為使判斷本身更加精確，AI則需要input<strong>有用</strong>的「數據」，這個過程大概可以解釋為：輸入資料（input data）→訓練資料（trainning data）→回饋資料（feedback data）。<strong>這些數據被稱為「新石油」，是預測重要的互補品</strong>，這也就是為什麼現在光是看個youtube就可能在其中看見你有興趣的商品問卷或行銷廣告的緣故。數據很神，它會替你說話，並讓預測更神，判斷更準。</p><p>前一小段提到「有用」的數據，而非「大量」的數據，是因為首先大量而無用的資訊，並不會使預測變好，其二則是因為現實情況下我們未必有辦法擁有這麼多足夠且充分的數據，因此這種時候思考如何用少量數據盡量做出精準預測就是很重要的議題。這邊想舉個少量數據預測的例子，例如預測地震何時會在發生？即便過去發生過很多次地震，但每次地震的成因或發生地點都不盡相同，這可能很複雜，我也不是地質學家，因此不多談免得說錯，但我想表達的是地震這回事是「已知的未知(known unknown)」，<strong>即便有了過去的資料，我們也無法完全精確預測出下一次地震會在哪發生？何時發生？所以我們說這樣的預測是有難度的，是困難的，這也是目前許多地震專家努力的方向。</strong></p><figure class="image"><img src="https://assets.matters.news/embed/dcabe841-ecb0-43c8-b0bc-b9ba35ae6a08.jpeg" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p><blockquote><strong>我們會被AI統治嗎？</strong></blockquote><p>「我們會被AI統治嗎？」請容我下了一個如此聳動的標題來吸引您，作者的觀點是「不會」。因為即便有了AI，人還是有其存在的價值。尤其是在現在AI環境都還不夠完善的狀態下，唯有人才能使AI更加完善。AI也像是人一樣需要有成長的過程，而讓AI從嬰兒時期邁向成人的關鍵就是「人」，這裡說的人指的更像是「<strong>專家</strong>」這類的人，在預測機器完全準確可靠前，<strong>投入大量數據和藉由專家累積時間去訓練預測機器是必須的，因為鮮少有AI投入某一領域馬上就能完善使用的例子。</strong></p><p><strong>人類和預測機器必須分工合作</strong>，我們和AI的關係應該像是截長補短的合作伙伴，各式各樣的工作也有可能在未來因為AI工具而重新設計，我們該思考如何和AI互動，並創造出更多效益及價值來。</p><p>談了許多都僅是書中我能吸收的概念，如果想要了解更深入的資訊，還是建議您可以直接去看這本《AI經濟的策略思維》。我很喜歡書中的一段話：「<strong>如果你選擇不做決定，你還是做了選擇</strong>」，這世界就是這麼奇妙，連你站著不動，事情還是不斷的在發生，AI固然可以幫助我們下決策，但是最後那個決定還是必須由人來下，因為只有人才會清楚明白什麼情況下做什麼決定才是可能的「最理想」，<strong>唯有人才能對自己定下的目標有充分的理解</strong>。所以結論是人類仍不可或缺，我們也不會被AI統治，因為人能在決策中做出取捨（trade-off）和權衡，並藉由預測促成這社會上新的行動。</p><p><br></p><p>________________________________________________________________________________________</p><p>謝謝您在一日珍貴的時光中，撥空閱讀我的文章。</p><p>如果您喜歡我的文字創作，請幫我<u>點擊文章下方綠色的拍手按鈕</u>，您的肯定將成為我的創作基金，鼓勵我持續創作。</p><p>假若您願意且有多的餘裕，亦可<a href="https://liker.land/l0924ily23204/civic" rel="noopener noreferrer" target="_blank">成為我的讚賞公民</a>，或按下「<strong>支持作者</strong>」贊助我，感謝您支持創作有價，再此獻上誠摯的謝意！</p><p>我將於Matters上持續發布文章，期待我們能以文會友。祝福您日日好日，順心平安 : )</p><p>___________________________________________________________________________________________</p>  
+</div>
+            
