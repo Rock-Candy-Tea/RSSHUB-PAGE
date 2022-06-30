@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?v=1656579639255'
 author: 巴哈姆特
 comments: false
-date: 2022-06-30 13:32:35
+date: 2022-06-30 14:09:37
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?v=1656579639255'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?v=1656579639255" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?v=1656579639255" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -37,7 +37,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG?v=1656579676787" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG?v=1656579676787" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/046ccffa48c16e32ed94795fd21h0wu5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -53,7 +53,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.
 <div>
  </div>
 <div>
-　　珍對雷神之錘的獨特天賦從新本能「All-Mother’s Blessing」與新超載「God Tempest」開始嶄露鋒芒。All-Mother’s Blessing 是透過近戰攻擊來累積它的超載量表，填滿後，她就能釋放God Tempest，可提高遠程鐵錘傷害並在每次擊中時產生衝擊波。</div>
+　　珍對雷神之錘的獨特天賦從新本能「All-Mother’s Blessing」與新超載「God Tempest」開始嶄露鋒芒。All-Mother’s Blessing 是透過近戰攻擊來累積它的超載量表，填滿後，她就能釋放 God Tempest，可提高遠程鐵錘傷害並在每次擊中時產生衝擊波。</div>
 <div>
  </div>
 <div>
@@ -63,7 +63,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/5a851b380e60458be0a862297d1h0ws5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG?v=1656579686354" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG?v=1656579686354" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/51/605f10bcb2098a21b266396be81h0wv5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
