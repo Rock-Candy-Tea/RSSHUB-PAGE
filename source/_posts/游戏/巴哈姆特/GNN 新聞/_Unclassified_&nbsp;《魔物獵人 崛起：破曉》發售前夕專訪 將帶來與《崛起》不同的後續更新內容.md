@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380'
 author: 巴哈姆特
 comments: false
-date: 2022-06-30 03:09:03
+date: 2022-06-30 04:30:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.JPG?v=1656507776380'
 ---
 
@@ -44,8 +44,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
  </div>
 <div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/Rn8rhRvmYhE?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/2rb9BQv0194?wmode=transparent" width="100%"></iframe></div>
 </div>
+<p class="pic-desc">
+為了紀念遊戲發行，在日本新宿街頭現正播放「爵銀龍」登場的 3D 影像，期間至 7 月 7 日為止</p>
+<div>
 <div>
  </div>
 <div>
@@ -54,6 +57,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
  </div>
 <div>
 <span style="color:#0071ff;">辻本：</span>一開始要做《破曉》的時候，我們也是在猶豫究竟要從《崛起》繼承多少要素，團隊內部也討論過是不是要這樣和風一直線下去；然而還是想帶給玩家更多的新鮮感，也為了要拓展靈感的範圍，所以結論是採用了不同世界觀、不同主題性的方案，強化了《破曉》本身帶給人的印象。</div>
+</div>
 <div>
  </div>
 <div>
@@ -231,6 +235,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/f815dca637b7d71ff2900a1bf21h0925.
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/v81z7uo05uo?wmode=transparent" width="100%"></iframe></div>
 </div>
+</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/Rn8rhRvmYhE?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>

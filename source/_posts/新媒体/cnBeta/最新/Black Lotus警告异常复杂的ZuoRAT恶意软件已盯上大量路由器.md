@@ -1,0 +1,19 @@
+
+---
+title: 'Black Lotus警告异常复杂的ZuoRAT恶意软件已盯上大量路由器'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0630/c25377fb2837d4c.webp'
+author: cnBeta
+comments: false
+date: Thu, 30 Jun 2022 03:28:44 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0630/c25377fb2837d4c.webp'
+---
+
+<div>   
+周二有报道称：<strong>一个技术异常先进的黑客组织，花了将近两年时间用恶意软件感染北美和欧洲的各种路由器，进而完全控制了 Windows、macOS 和 Linux 联网设备的运行。</strong>Lumen Technologies 旗下 Black Lotus 实验室的研究人员指出，其已确认至少 80 款被隐形恶意软件感染的目标，且涉及思科、Netgear、华硕和 GrayTek 等品牌的路由器型号。<br>
+ <p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0630/c25377fb2837d4c.webp" alt="1.webp" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 1 - ZuoRAT 活动概述（来自：<a href="https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/" target="_self">Black Lotus Labs</a>）</p><p>安全研究人员指出，针对<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://list.jd.com/list.html?cat=670,699,700" target="_blank">路由器</a>的 ZuoRAT 攻击的幕后操盘手，或有着深厚且复杂的背景。作为更广泛的黑客活动的一部分，这款远程访问木马的活动，至少可追溯到 2020 年 4 季度。</p><p>看到专为 MIPS 架构编写的定制恶意软件，这项发现为无数小型和家庭办公室（SOHO）路由器用户敲响了安全的警钟。</p><p><img src="https://static.cnbetacdn.com/article/2022/0630/6c0d8b6c3c97eaa.jpg" alt="2.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 2 - 命令与控制服务器上托管的默认登录页面</p><p>尽管很少被报道，但通过路由器来隐匿意图，恶意软件不仅能够枚举连接到受感染路由器的所有设备，还可以收集其收发的 DNS 查询与网络流量。</p><p>同时涉及 DNS 和 HTTP 劫持的中间人攻击也相当罕见，这进一步表明 ZuoRAT 背后有着相当高水准的复杂威胁参与者的身影。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0630/421b8a912d73aa7.png" alt="3.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 3 - 通讯跳板示意</p><p>Black Lotus 至少在这轮恶意软件活动期间揪出了四个可疑的对象，且其中有三个都看得出是从头精心编制的。</p><p>首先是基于 MIPS 的 ZuoRAT，它与 Mirai 物联网恶意软件极其相似，曾涉及破纪录的分布式拒绝服务（DDoS）攻击，但它通常是利用未及时修补的 SOHO 设备漏洞来部署的。</p><p><img src="https://static.cnbetacdn.com/article/2022/0630/39e5240ee432fc0.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 4 - ZuoRAT 恶意软件的全球分布</p><p>安装后，ZuoRAT 会枚举连接到受感染路由器的设备。接着威胁参与者可利用 DNS / HTTP 劫持，引导联网设备安装其它特别定制的恶意软件 —— 包括 CBeacon 和 GoBeacon 。</p><p>前者采用 C++ 编程语言，主要针对 <a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 平台。后者使用 Go 语言编写，主要针对 Linux / macOS 设备。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0630/a90462163783d73.png" alt="5.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 5 - 恶意软件附带的三无证书</p><p>ZuoRAT 还可借助泛滥的 Cobalt Strike 黑客工具来感染联网设备，且远程的命令与控制基础设施也被可疑搞得相当复杂，以掩盖其真实目的。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0630/8e0a24eef29a366.png" alt="6.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 6 - CBeacon 在实验室环境中生成的流量截图</p><p>期间 Black Lotus 安全研究人员留意到了来自 23 个 IP 地址的路由器和 C&C 服务器建立了持久连接，意味着攻击者正在执行初步调查以确定目标是否有深入攻击的价值。</p><p style="text-align: center;"><img src="https://static.cnbetacdn.com/article/2022/0630/31059c474e5620c.png" alt="7.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 7 - Go 代理的网络流量截图</p><p>庆幸的是，与大多数路由器恶意软件一样，ZuoRAT 无法在设备重启后留存（由存储在临时目录中的文件组成）。此外只需重置受感染的设备，即可移除最初的 ZuoRAT 漏洞利用。</p><p><a href="https://static.cnbetacdn.com/article/2022/0630/6e467659a679d91.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0630/6e467659a679d91.png" alt="6-2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">CBeacon 包含的八个预构建函数的功能调用</p><p>即便如此，我们还是推荐大家及时检查长期联网设备的固件更新。否则一旦被感染其它恶意软件，终端设备用户还是很难对其展开彻底的消杀。</p><p><img src="https://static.cnbetacdn.com/article/2022/0630/e17848b7b79f809.png" alt="9.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">图 8 - 在 CBeacon / GoBeacon 上运行的 C2.Heartbeat 比较</p><p>有关这轮恶意软件活动的更多细节，还请移步至 Black Lotus Labs 的 <a href="https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt" target="_self">GitHub</a> 主页查看。</p>   
+</div>
+            
