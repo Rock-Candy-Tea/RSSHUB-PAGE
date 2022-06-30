@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-06-30 05:18:19
-thumbnail: 'https://pic1.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162'
+date: 2022-06-30 06:12:26
+thumbnail: 'https://pic3.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-f3ca086455a065c801c6604b8073bf99_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">庆晓筱，</span><span class="bio">英语词源，用法，发音，语法，习得。还会写点音韵和其他东西。</span>
 <a href="https://www.zhihu.com/question/19773803/answer/2549689260" class="originUrl" hidden>查看知乎原文</a>
 </strong>
