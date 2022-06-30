@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游戏时光
  - 游戏时光游戏发售表
-headimg: 'https://picsum.photos/400/300?random=3402'
+headimg: 'https://picsum.photos/400/300?random=6491'
 author: 游戏时光
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=3402'
+thumbnail: 'https://picsum.photos/400/300?random=6491'
 ---
 
 <div>   
