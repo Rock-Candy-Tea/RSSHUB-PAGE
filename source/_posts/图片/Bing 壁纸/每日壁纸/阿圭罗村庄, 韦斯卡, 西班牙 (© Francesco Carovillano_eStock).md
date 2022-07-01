@@ -1,0 +1,18 @@
+
+---
+title: '阿圭罗村庄, 韦斯卡, 西班牙 (© Francesco Carovillano_eStock)'
+categories: 
+ - 图片
+ - Bing 壁纸
+ - 每日壁纸
+headimg: 'https://cn.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+author: Bing 壁纸
+comments: false
+date: 2022-07-01 00:52:38
+thumbnail: 'https://cn.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'
+---
+
+<div>   
+<img src="https://cn.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" referrerpolicy="no-referrer">  
+</div>
+            

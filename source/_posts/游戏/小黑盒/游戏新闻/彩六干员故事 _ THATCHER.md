@@ -1,0 +1,18 @@
+
+---
+title: '彩六干员故事 _ THATCHER'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/06/29/ef58bf2dc8291f55dd7fda0f3eda6f07/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 01 Jul 2022 08:38:26 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/06/29/ef58bf2dc8291f55dd7fda0f3eda6f07/thumb.png'
+---
+
+<div>   
+<h2>代号：THATCHER双关语：</h2><p>①撒切尔（英国第49任首相）（最后会做解释）</p><p>②盖茅草屋的人，指THATCHER的技能能把被电子设备强化的铜墙铁壁的堡垒变成茅草屋</p><h2>个人简介：</h2><p>THATCHER，原名Mike Baker 来自英国S.A.S的一位资深干员，1961年出生于英国，比迪福德，身高180cm，体重72kg，出身于工人家庭，18岁放弃其了家里安排的稳定工作，选择了应征入伍在多次武装冲突中表现优异，后加入S.A.S。可能许多人没有听说过老爷子的家乡，比迪福德是英国的一个小港口城市，位于英国西南部的德文郡托里奇区托里奇河河口，工业以<b>船舶</b>制造、混凝土生产和皮革制品为主。老爷子的退休生活就是想把他的船——铁娘子（撒切尔夫人的外号也叫铁娘子）修好然后四处旅游。</p><p><img class="lazy" data-height="1095" src="https://imgheybox.max-c.com/web/2022/06/29/ef58bf2dc8291f55dd7fda0f3eda6f07/thumb.png" data-width="2560" referrerpolicy="no-referrer"></p><h4 class="img-desc">老爷子和铁娘子号</h4><p>老爷子的专属装备是EG MK 0-电磁脉冲手雷，其命名方式个人猜测EG代表England，MK代表MIke（老爷子的名字），这件装备的强度.....半径大得离谱，范围里什么电箱、电爪、摄像头、瞄准镜全给你扬了，简单有效，这很老爷子。但这件装备的杀伤力之强，以至于让负责评测这件装备的心跳小哥倍感头疼，记录这玩意儿的数据需要电子设备，但它能把电子设备给扬了，就很怪<span data-emoji="cube_摊手" class="hb-emoji"></span>，老爷子之所以成为反电子战专家应该就是归功于这件装备吧（用魔法打败魔法是吧<span data-emoji="cube_微笑" class="hb-emoji"></span>）</p><p><img class="lazy" data-height="1600" src="https://imgheybox.max-c.com/web/2022/06/29/8866ec1910da7f1cb03e73e9146570f1/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><p>老爷子的cg还提到他的另一个宝贝<span data-emoji="cube_喜欢" class="hb-emoji"></span>——“一把用不出错的六英寸匕首”，从外观上来应该看是S.A.S的标配匕首，老爷子称它为最值得信赖的朋友，但实际上......老爷子的近战攻击并没有用这把匕首，游戏里可以清楚地看到那把匕首还装在手臂上，很怪<span data-emoji="cube_摊手" class="hb-emoji"></span>，熟练使用这把匕首的老爷子是一个近战格斗技术专家（指在cg里被女鬼小姐姐裸绞，姐姐~老头子多没意思~来绞我！来绞我！<span data-emoji="cube_喜欢" class="hb-emoji"></span>）</p><p><img class="lazy" data-height="1600" src="https://imgheybox.max-c.com/web/2022/06/29/1f4f04fa6019c31c332aabc6e6c88000/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><h4 class="img-desc">那把匕首并没有从手臂上抽出</h4><h2>性格特点：</h2><p>在深入地了解老爷子之前，仅从cg和技能来看，我以为老爷子就是那种极端保守，顽固不化，对现代技术有偏见的长辈，但深入了解了老爷子的档案后发现他并不是那种拒绝进步的人。他所反感的不是现代技术，因为老头子本身就是一个动手能力强的人，帮大锤造锤子，给自己修船，自己研发了emp手雷这样的黑科技，他的理念是技术本该以工具的形式存在，但越来越多的人把技术当作拐杖，没了现代技术就走不动道了。作为老一辈的他还十分反感那些自以为是的年轻人，先前和彩虹小队中的美羊羊之间的矛盾尤其的大，但在邀请赛中被美羊羊救下后，老爷子也认可了这位年轻人。但他所反感的年轻人中有一个例外——wifi，这老爷子也是双标，看别的青年才俊都是哪哪不好，看自己家的后辈就是“wifi这孩子聪明得很，哪哪都好。”是有点长辈护短的意思了。</p><p><img class="lazy" data-height="1600" src="https://imgheybox.max-c.com/web/2022/06/30/f169b47d17e0d82312d77baaf3eb7493/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><h2>人物原型：</h2><p><img class="lazy" data-height="1600" src="https://imgheybox.max-c.com/web/2022/06/30/2dc5e01eed2f530ad095aeb258324851/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><p>老爷子的精英皮可以说是把啥都说明白了，他的人物原型就是当年伊朗大使馆人质救援行动中的一位S.A.S干员，至于为什么老头子的代号是THACHER，可以看到他精英皮胸前挂着一枚勋章，就是撒切尔夫人为此次救援行动颁发的”Queen's Gallantry Medal——女王英勇勋章“。老爷子原始皮肤和当时参加此次行动的S.A.S干员的装备几乎完全一致（这个歪嘴面罩莫名很萌<span data-emoji="cube_微笑" class="hb-emoji"></span>）<br></p><p><img class="lazy" data-height="697" src="https://imgheybox.max-c.com/web/2022/06/30/772d85ccd3a6d73b8aa7a2ca19e54163/thumb.png" data-width="1202" referrerpolicy="no-referrer"></p><h4 class="img-desc">撒切尔夫人与S.A.S成员的合影</h4><p>都看到这里啦点个赞吧<span data-emoji="cube_喜欢" class="hb-emoji"></span></p><p><img class="lazy" data-height="400" src="https://imgheybox.max-c.com/web/2022/06/30/8cae5d09125af1cf3a948930d05c70a6/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><h4 class="img-desc">关注一下嘛~<span data-emoji="cube_喜欢" class="hb-emoji"></span></h4>  
+</div>
+            
