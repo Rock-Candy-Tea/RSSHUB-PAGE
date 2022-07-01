@@ -1,0 +1,19 @@
+
+---
+title: '财经大V诱导交易被三罪公诉 证监会提醒不要轻信所谓财经大V'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0511/4f062e8fcfdc3a5.jpg'
+author: cnBeta
+comments: false
+date: Fri, 01 Jul 2022 12:01:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0511/4f062e8fcfdc3a5.jpg'
+---
+
+<div>   
+据证监会7月1日消息，近日，上海某坐拥400万微博粉丝的财经大V徐某，因涉嫌在微博、直播间发布虚假投资平台广告信息、忽悠投资者在黑平台交易50ETF期权，被上海市浦东新区检察院以涉嫌非法经营罪、帮助网络信息犯罪活动罪、虚假广告罪提起公诉。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0511/4f062e8fcfdc3a5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0511/4f062e8fcfdc3a5.jpg" referrerpolicy="no-referrer"></a></p><p>2021年以来，徐某利用自身财经大V的影响力，在微博、直播间等自媒体上大量发布含有“几千元即可开户做期权”“多空双向交易”“高杠杆、高盈利”等诱惑性词汇的广告信息，忽悠粉丝添加助理的QQ号或微信号，并下载“上证ETF期权APP”开户交易期权。然而，该APP并非证监会批准设立的合法平台，而是徐某等人私自搭建的黑平台，投资者在该平台上开户交易，无法保障自身合法权益，往往损失惨重、血本无归。</p><p>经证监会上海监管局核查，徐某等人搭建黑平台，利用自身大V影响力发布虚假广告，在不到一年的时间里累计诱导350余名投资者入金，涉案金额超3000万元，已涉嫌构成犯罪。目前徐某已被上海市浦东新区检察院以涉嫌非法经营罪、帮助网络信息犯罪活动罪、虚假广告罪提起公诉。</p><p>证监会在此郑重提醒广大投资者，不要轻信所谓财经大V推荐，要选择合法机构，远离非法平台，坚持理性投资，谨防上当受骗。</p>   
+</div>
+            
