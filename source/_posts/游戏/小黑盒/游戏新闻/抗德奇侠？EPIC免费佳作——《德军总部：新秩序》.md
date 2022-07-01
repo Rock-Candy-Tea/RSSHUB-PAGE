@@ -1,0 +1,18 @@
+
+---
+title: '抗德奇侠？EPIC免费佳作——《德军总部：新秩序》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/07/01/d65407cc3131bc93097583f858d8c9fa/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 01 Jul 2022 09:23:49 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/07/01/d65407cc3131bc93097583f858d8c9fa/thumb.png'
+---
+
+<div>   
+<p>前不久epic免费送出，发行于2014年的大作《德军总部：新秩序》，是《德军总部》系列的第九部作品。作为老牌FPS系列，《新秩序》没有让人失望，在笔者看来，这是笔者上半年玩过的质量最高的一款游戏。<br></p><p>从1981年的第一款《德军总部》开始，经过四十余年的进化升级，MachineGames为玩家们打造出了一款集大成之作，品质扎实，绝对值得一玩。<br></p><p>四十年风云变幻，唯一不曾更改的是对抗德国纳粹的永恒主题。在本作中，玩家将继续扮演B.J.布拉斯科维奇，上演一场荡气回肠的抗德神剧。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/d65407cc3131bc93097583f858d8c9fa/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h3>1.天马行空的剧情</h3><p>《新秩序》的剧情很像一部美国大片——主角一人单刷敌方整个军团，拥有超强的战斗力和生命力，历经种种波折，最终杀死反派老大。没有太过深奥和发人深省的部分，简单粗暴，爽就完事。<br></p><p>不过，《新秩序》的剧情，仍有很多有趣的地方。<br></p><p><img class="lazy" data-height="1024" src="https://imgheybox.max-c.com/web/2022/07/01/fa531a603e6814cc13c784286f8b395c/thumb.png" data-width="2410" referrerpolicy="no-referrer"></p><p>在游戏设定中，德国对美国投下了核弹，迫使美国投降，纳粹势力得以无限扩张。如果说这还不够天马行空，那么更玄的还在后面。<br></p><p>有一群避世隐居的超级科学家，研究了无数高科技，却被纳粹发现，使纳粹掌握了电动机器人、特殊混凝土等超级科技，建立了令人惊叹的帝国。游戏染上了浓浓的柴油朋克色彩。<br></p><p>笔者在玩到这里的时候，有些懵懵的。这种微妙的扯淡感是怎么回事？但是逻辑似乎又能自洽。像是编剧在写到一半时发现，纳粹势力实在过于强大，于是机械降神给主角团送来了一位可以扭转乾坤的科学家。<br></p><p>不过毕竟是大片式游戏，对于剧情的转折不必太过在意。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/ff1ac8d44a59e00f3a14747eb19eea2a/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>值得一提的是，《新秩序》对一众人物的刻画相当精彩。冷静理智，临危不惧的帅气主角；温柔干练的女主角安雅；热爱摇滚，最终选择直面命运的吉他男；有情有义的大小孩马克思……甚至仅靠几段文本，就刻画出安雅表妹这个伟大的英雄女性形象。<br></p><p>不仅如此，通过开头的抉择，游戏还分为了两条路线，尽管结局相同，但过程却有变化，也就是说，玩家可以游玩两个周目，且游戏体验并不重复。<br></p><p>总之，作为一款以“爽快”为主要目标的游戏，《新秩序》的剧情绝对合格，燃点泪点皆有，值得细细品味。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/9f69d7755afb2b3c486c8a8c63ff4693/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h3>2.潜行or刚正面？我都要</h3><p>至于游戏机制方面，可说的点也很多。<br></p><p>《新秩序》将潜行完美地融入了游戏，在很多时候，玩家可以选择一路潜行，也可以选择大杀特杀，颇为自由。不过，如果潜行暗杀掉敌方的指挥官，就可以获得收集品的具体位置。<br></p><p>游戏有诸多收集品，收集密码可以解锁特殊游戏模式，除此之外，还有角色传记，概念画，护甲升级等等，非常丰富。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/dc3a436093e110d36fe14763fe2ece3e/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>通过完成条件，玩家还可以解锁不同的能力，虽然技能树比较简陋，但FPS游戏加入这种养成机制还是很新颖，可以选择偏向正面或偏向潜行。<br></p><p>在游戏中，玩家可以体验海陆空甚至月面战斗！驾驶机器人、潜水艇，使用花样繁多的武器与敌人激战，玩法很多。笔者印象最深刻的就是第十三章的超巨大机器人boss，相当壮观有趣。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/6213ec3b80efaa56bec551a92a6d21cc/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><h3>3.上佳的游戏品质</h3><p>作为一款2014年的游戏，《新秩序》的画质不算太好，但也绝对不差。在很多地方，能很明显地看出只是贴了张贴图而没有相应的模型，但出彩的地方也同样不少，一些大场面该有的张力都有，给人极大震撼。<br></p><p>特别要说的是音乐部分。作为一款战争题材的游戏，游戏的配乐并没有使用常规的大编制弦乐，而是大胆地采用了以失真效果为主的编曲，如果没听错的话，还有dubstep常用的回响贝斯，实在是让笔者感到惊奇。战争的残酷、血腥、紧张感被表达得很好。<br></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/01/376506d9a9094ec58c9a484b3a199661/thumb.png" data-width="1920" referrerpolicy="no-referrer"></p><p>总之，《新秩序》总体质量上佳，玩法新颖。这次领到免费版的小伙伴，可是赚大发了。唯一的遗憾是没有官方中文。令笔者感到不解的是，质量这么高的《新秩序》，IGN才给了7.8分，这个分数属实有点低了。<br></p><p><br></p><p><a href="heybox://open_subject" target="_blank">#pc游戏</a><a href="heybox://open_subject" target="_blank">#单机游戏</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><br></p>  
+</div>
+            
