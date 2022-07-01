@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?v=1656666556999'
 author: 巴哈姆特
 comments: false
-date: 2022-07-01 09:10:50
+date: 2022-07-01 10:12:17
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?v=1656666556999'
 ---
 
@@ -22,13 +22,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?v=1656666556999" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?v=1656666556999" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%AA%E7%A9%BA%E6%88%B0%E5%A3%AB+VII%EF%BC%9A%E9%99%8D%E8%87%A8%E7%A5%9E%E5%AD%90" target="_blank">太空戰士 VII：降臨神子</a>》最初是在 2005 年上映，隨後在 2009 年發行 BD 導演剪輯版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%AA%E7%A9%BA%E6%88%B0%E5%A3%AB+VII%EF%BC%9A%E9%99%8D%E8%87%A8%E7%A5%9E%E5%AD%90" target="_blank">太空戰士 VII：降臨神子</a> 完全版》，修改部分鏡頭、畫面及替換部分舊版場景，共增加約 26 分鐘的片長。根據預購頁面說明，4K UHD 藍光版內容與 2009 年推出的 BD 完全版相同，支援 HDR10、杜比全景聲、5.1 DTS-HD Master Audio，可選擇日語、英語、德語、法語、西班牙語等 5 種配音，其中更搭載繁體中文字幕。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%AA%E7%A9%BA%E6%88%B0%E5%A3%AB+VII%EF%BC%9A%E9%99%8D%E8%87%A8%E7%A5%9E%E5%AD%90" target="_blank">太空戰士 VII：降臨神子</a>》最初是在 2005 年上映，隨後在 2009 年發行 BD 導演剪輯版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A4%AA%E7%A9%BA%E6%88%B0%E5%A3%AB+VII%EF%BC%9A%E9%99%8D%E8%87%A8%E7%A5%9E%E5%AD%90" target="_blank">太空戰士 VII：降臨神子</a> 完全版》，修改部分鏡頭、畫面及替換部分舊版場景，共增加約 26 分鐘的片長。</div>
 <div>
  </div>
 <div>
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8a909d2321e1a24e88444ac1721c24j5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG?v=1656666565093" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG?v=1656666565093" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/d8f2ab8085249629a64f4846151c24l5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
