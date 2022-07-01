@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/22/064a95ea2af9f543319c7e2c651h0nq5.PNG?v=1656563943047'
 author: 巴哈姆特
 comments: false
-date: 2022-07-01 07:10:14
+date: 2022-07-01 08:13:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/064a95ea2af9f543319c7e2c651h0nq5.PNG?v=1656563943047'
 ---
 
@@ -66,6 +66,32 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/064a95ea2af9f543319c7e2c651h0nq5.
  </div>
 <div>
 <span style="color:#a52a2a;"><span style="font-size:13px;">※ 數位豪華版目前在 PS Store 好評發售中。</span></span></div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 100.00%;">
+<figcaption style="padding-bottom: 56.48%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/13d75c1d76c2782c699a40c5361h0n35.JPG?v=1656661635660" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/13d75c1d76c2782c699a40c5361h0n35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/13d75c1d76c2782c699a40c5361h0n35.JPG 2x" style="max-width: unset;" title="新的強敵「巴哈姆特」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+新的強敵「巴哈姆特」</figure>
+</li>
+<li class="bh-grids-img-box" style="width: 100.00%;">
+<figcaption style="padding-bottom: 56.48%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/ce7f3d8119af63ba57b95a103c1h0n45.JPG?v=1656661635660" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/ce7f3d8119af63ba57b95a103c1h0n45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/ce7f3d8119af63ba57b95a103c1h0n45.JPG 2x" style="max-width: unset;" title="光之戰士終於現身於傑克面前" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+光之戰士終於現身於傑克面前</figure>
+</li>
+<li class="bh-grids-img-box" style="width: 100.00%;">
+<figcaption style="padding-bottom: 56.48%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/4b315dfc0d2f26d403049373761h0n55.JPG?v=1656661635660" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/4b315dfc0d2f26d403049373761h0n55.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/4b315dfc0d2f26d403049373761h0n55.JPG 2x" style="max-width: unset;" title="新職業「杖術士」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+新職業「杖術士」</figure>
+</li>
+<li class="bh-grids-img-box" style="width: 100.00%;">
+<figcaption style="padding-bottom: 56.48%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/f0d6dbae585a9fbc46cca734851h0n65.JPG?v=1656661635660" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/f0d6dbae585a9fbc46cca734851h0n65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/02/f0d6dbae585a9fbc46cca734851h0n65.JPG 2x" style="max-width: unset;" title="新裝配種類「配件」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+新裝配種類「配件」</figure>
+</li>
+</ul>
+</div>
 <div>
  </div>
 <h2>

@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220701/1656658122_7940
 据报道，这位投资者是任天堂的粉丝，并在2月份从另一家公司出售股票后，花费约4万美元（560万日元）购买了100支任天堂股票，他表示自己是《零式赛车》的铁杆粉丝，并希望保持匿名状态，目前只知道他的推特账号名为“Momiji”。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658122_794065.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658122_794065.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 Momiji表示虽然他已经购买了足够的股份以获得参加股东大会的机会，但他告诉知情人士，他不能保证一定会提出问题，因为提问是一种“额外奖励”。任天堂后来向媒体证实，参加年度股东大会需要100股或更多的股份。
@@ -32,10 +32,10 @@ Momiji表示虽然他已经购买了足够的股份以获得参加股东大会�
 任天堂的常务执行官高桥伸也表现的稍微乐观一些，但也没有做出任何承诺。他表示，在2019年的79次股东大会上，他们被问到是否有重制《Famicom侦探俱乐部》的意愿，幸运的时，公司当时恰好真的有这个计划。高桥表示，他们无法告诉玩家未来是否有任何特定游戏的重制计划，但是，在开发过程中，公司一直在积极的考虑玩家的想法。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658198_750585.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658198_750585.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658130_419573.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656658130_419573.png" alt="粉丝购买4万美元任天堂股票 只为询问老IP会不会重启" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

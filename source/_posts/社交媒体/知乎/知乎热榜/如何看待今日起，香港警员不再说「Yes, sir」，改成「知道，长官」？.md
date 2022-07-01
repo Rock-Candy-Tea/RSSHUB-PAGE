@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-7a5f3b6292a6a3f68bafd3ee54f94d98.jpeg'
+headimg: 'https://picsum.photos/400/300?random=3365'
 author: 知乎
 comments: false
-date: Fri, 01 Jul 2022 06:07:23 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-7a5f3b6292a6a3f68bafd3ee54f94d98.jpeg'
+date: Fri, 01 Jul 2022 07:25:44 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3365'
 ---
 
 <div>   
-中国警方在线的回答<br><br><p data-pid="YbWRNJ8f">“Yes sir”改明白，长官！</p><p data-pid="XWbpuutp"><span class="nolink">香港警察训练换中式口令</span>！</p><p data-pid="LjG5W1Br">香港回归25周年即将到来，从今年7月1日起，香港警队的步操口令、对答都将使用普通话、广东话。“Yes sir”改成“知道，长官”或“明白，长官”！</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1526162321978568704" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pic3.zhimg.com/v2-7a5f3b6292a6a3f68bafd3ee54f94d98.jpeg" data-lens-id="1526162321978568704">              <img class="thumbnail" src="https://pic3.zhimg.com/v2-7a5f3b6292a6a3f68bafd3ee54f94d98.jpeg" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1526162321978568704</span>              </span>            </span></span></span></a>            <p><br></p><p data-pid="BA2XJ3Og">近日，香港金石楼挂满国旗及区旗，满眼中国红。一名8岁小男孩在楼栋前敬礼拍照。男孩父亲表示，孩子说他长大后想当警察保护香港，做建设祖国的点点星火。</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1526205026602618880" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pic1.zhimg.com/v2-bc4191cf52c980848032049d7c5016d3.jpg?source=382ee89a" data-lens-id="1526205026602618880">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-bc4191cf52c980848032049d7c5016d3.jpg?source=382ee89a" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1526205026602618880</span>              </span>            </span></span></span></a>            <p></p>  
+光頭警長的回答<br><br><p data-pid="ugrAZeN1">谢邀，我是光头警长刘泽基，人在香港，刚值完勤。国庆70周年庆祝大会时，我在现场；香港回归25周年的日子，我又在现场。看到这个问题时，我们警队已经全面改为“知道，长官”。此时此刻，内心无比激动自豪，很多往事又出现在脑中。</p><p data-pid="E05kM6FA">我是一个1973在香港出生的中国人。上小学的时候，身边无论同学或老师都是黄皮肤黑头发的中国人，但课室上总挂有一张外国女士相片，相片中的女士，我们叫她“英女皇”。当时脑海中有很多疑问，为什么她和我们的肤色头发都不一样？为什么我说中文她说英文？</p><p data-pid="Gp0emHwf">后来长大了点，多了去图书馆，从书本中得知因为百多年前我们国家太弱，外国人恃强将香港由祖国手中夺去，这让拿着历史书的我两眼湿透。</p><p data-pid="HKvjnIJ3">1993年我加入了警队，当时警帽上的徽章仍然是英国的皇冠。虽然当时的“老闆”是英女皇，但我知道“香港”是“中国的香港”，这片土地总有一日回归祖国，这片土地的主人是中国人。</p><p data-pid="oNthczFK">1997年7月1日香港回归祖国，凌晨零时一分，我们从警帽上摘下旧徽章，换上香港特区警队徽章。当时心情激动，满怀感触。“激动”是因为香港终于回归祖国怀抱，我的“老闆”不再是英国人，香港终于由中国人当家作主。“感触”是因为从前的游子今天终于可以回家。</p><p data-pid="6b1uuOmE">回归后的香港并不是一帆风顺，有一些人已经忘记了自己是中国人，他们阻碍香港的发展，最终引发2019年的风波。警队没有任何动摇，我们的职责就是保护香港。幸好凭香港国安法的实施，香港警队不负所托将乱局平定下来。</p><p data-pid="WFmNAO5Q">香港回归祖国怀抱已经25周年，身在香港的我，见证了她的繁荣发展，也经历了她的浴火重生。在这个时刻，还有一件有让我无比激动的事：香港警队从今天（7月1日）起正式使用中式步操，香港警察也不再说“Yes, sir”，而是改成 “知道，长官”。这些是具有重要象征意义的事，更是一种归属感的体现。</p><p data-pid="sNbZP1CV">在这个全港庆贺的日子里，我只想说，我以身为中国人为荣，以身为香港警察为荣。我坚信，有国家的大力支持，有港人善拼敢赢的精神，香港明天定会更美好。</p>  
 </div>
             
