@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/35/4195176b2171abd634b9041d891h0o35.PNG?v=1656569404211'
 author: 巴哈姆特
 comments: false
-date: 2022-07-01 08:13:35
+date: 2022-07-01 09:10:50
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/4195176b2171abd634b9041d891h0o35.PNG?v=1656569404211'
 ---
 
@@ -96,7 +96,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/4195176b2171abd634b9041d891h0o35.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E9%AC%BC%E6%A9%8B%20%E9%96%8B%E9%AD%82%E8%B7%AF" target="_blank">女鬼橋 開魂路</a>》將在 8 月 25 日正式於 Steam 平台販售，遊戲支援繁體中文、簡體中文、泰語、英語、日語、德語、西班牙語與多種語言，普通版售價為新台幣 299 元；另有數位豪華版，內容附贈遊戲製作紀錄書，內含遊戲美術圖、概念設計圖、幕後花絮等。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E9%AC%BC%E6%A9%8B%20%E9%96%8B%E9%AD%82%E8%B7%AF" target="_blank">女鬼橋 開魂路</a>》將在 8 月 25 日正式於 Steam 平台販售，遊戲支援繁體中文、簡體中文、泰語、英語、日語、德語、西班牙語等多種語言，普通版售價為新台幣 299 元；另有數位豪華版，內容附贈遊戲製作紀錄書，內含遊戲美術圖、概念設計圖、幕後花絮等。</div>
 </div>
 <div>
  </div>
