@@ -1,0 +1,19 @@
+
+---
+title: 'Check Point：打造金融行业分支机构 SD-WAN 安全连接'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/01/Zyong/1656654724937032197.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 01 Jul 2022 05:49:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/01/Zyong/1656654724937032197.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近些年来，随着金融机构不断通过云端迁移提升整体架构的灵活性，其面临的安全挑战也随之变得复杂、严峻。其中就包括将分支机构直接连接到云端带来的恶意文件、恶意软件、零日攻击、Bot、病毒、APT 等威胁风险。为了降低这些风险，许多金融机构正在逐步通过 SD－WAN 将分支机构连接到互联网和云端，以确保增强安全性。近日，全球领先的网络安全解决方案提供商Check Point公司分享一家位于欧洲的投资公司客户的真实案例、以及他们所面临的挑战及其为克服挑战和增强安全性所采用的解决方案。</p><p style="text-indent: 2em; text-align: left;">客户案例：一家欧洲投资公司在不影响安全性的情况下使用 SD－WAN 连接数十家分支机构</p><p style="text-indent: 2em; text-align: left;">这家欧洲投资公司选择了在 VeloCloud 设备上部署 Quantum Edge —Check Point 的高性能和隐私保护本地虚拟安全网关。借助此解决方案，该公司通过执行便捷的部署并辅以简化的日常管理，为其联网设施提供了先进的威胁防御能力。</p><p style="text-indent: 2em; text-align: left;">在 VeloCloud 上部署的虚拟安全网关</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/01/Zyong/1656654724937032197.jpg" title="Check Point：打造金融行业分支机构 SD-WAN 安全连接" alt="Check Point：打造金融行业分支机构 SD-WAN 安全连接" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">通过Check Point Quantum Edge 解决方案，该用户可以使用Velocloud SD－WAN 轻松实现高可用性部署，并且能够通过云管理平台（Smart－1）实施统一管理。在这套安全解决方案投入使用后，Check Point不仅为该用户提供了高达1Gbps 的威胁防御吞吐量，并且提供了防火墙、URL 过滤、IPS、防 Bot 程序、杀毒软件、威胁模拟功能保护出入站连接等业内先进的威胁防御能力。此外，由于Check Point解决方案的出色兼容性与灵活性，用户可以在几分钟内完成思科、Velocloud、Versa、Aryaka、Oracle、Citrix 等主流SD－WAN方案的部署。</p><p style="text-indent: 2em; text-align: left;">为进一步增强金融行业分支机构的安全能力，Check Point的安全专家同时建议用户可以采用 Check Point Harmony Connect 防火墙即服务 （FWaaS） 解决方案增强对 SD－WAN 连接的保护。该解决方案为金融用户提供经过全面测试、业内领先 SD－WAN 产品的集成能力，能够保护从分支机构到互联网的连接，在支持快速设置的同时，确保总部与分支机构一致的安全性。</p><p style="text-indent: 2em; text-align: left;">防火墙即服务 （FWaaS）</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/01/Zyong/1656654753027059104.jpg" title="Check Point：打造金融行业分支机构 SD-WAN 安全连接" alt="Check Point：打造金融行业分支机构 SD-WAN 安全连接" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">Check Point 公司安全解决方案可确保与互联网和云的安全 SD－WAN 连接，保护银行的远程分支机构免遭各种威胁。Check Point Quantum Edge 能够为本地的金融企业互联设施提供先进的威胁防御能力。Check Point Harmony Connect 支持企业通过由 Check Point 部署和管理的强大云服务，轻松集成任何 SD－WAN 平台，保护连接的安全性。</p><p style="text-indent: 2em; text-align: left;">在今年下半年，Check Point Quantum 安全网关将再次进行扩展，以提供更加完善的 SD－WAN 安全功能，其中包括：</p><p style="text-indent: 2em; text-align: left;">? 丰富的 SD－WAN 功能 — 通过不断自动将流量引导到最佳路径来优化企业的 WAN 性能；</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1em; color: rgba(0, 0, 0, 0.85); white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em; text-align: left;">? 毫不折衷的安全性和性能 —安全性是任何 SD－WAN 部署的必备条件，因此Check Point将为企业的 WAN 基础设施提供非凡的威胁防御功能以及出色的性能；</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1em; color: rgba(0, 0, 0, 0.85); white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em; text-align: left;">? 无与伦比的简单性和管理，帮助用户轻松进行大规模配置和部署。</p><p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1em; color: rgba(0, 0, 0, 0.85); white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em; text-align: left;">Check Point 支持金融机构通过 Check Point Quantum、CloudGuard、Harmony 及 Infinity 产品为其用户提供安全的信息化服务，并为其网络、云端、用户及访问提供最高级别的安全保护。通过采用基于 Check Point Infinity 架构 和服务的综合安全方法，金融机构可实现针对第五代复杂攻击的前瞻性防护，同时将运营效率提高 50％并将安全成本降低 20％。Check Point 广泛的网络安全解决方案和服务产品正助力全球 6，500 家金融机构轻松应对当今最严峻的挑战。</p> 
+  
+</div>
+            
