@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220702/1656733953_5373
 
 <div>   
 <p style="text-indent:2em;">
-据日媒消息，知名动漫IP<a target="_blank" href="https://www.3dmgame.com/games/slamdunkmod/">灌篮高手</a>最新电影信息正式确认，电影名为《灌篮高手The First》，电影将于12月3日正式上映，原作者井上雄彦 担任编剧及导演。此外，日本当地部分电影现已出现角色实体宣传海报。
+据日媒消息，知名动漫IP<a target="_blank" href="https://www.3dmgame.com/games/slamdunkmod/">灌篮高手</a>最新电影信息正式确认，电影名为《灌篮高手The First》，电影将于12月3日正式上映，原作者井上雄彦 担任编剧及导演。此外，日本当地部分电影院现已出现角色实体宣传海报。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220702/1656733953_537337.jpg" alt="动画电影《灌篮高手The First》 12月3日正式上映" referrerpolicy="no-referrer"> 
