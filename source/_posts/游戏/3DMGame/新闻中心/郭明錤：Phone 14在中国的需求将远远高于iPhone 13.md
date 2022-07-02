@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220701/1656683594_3405
 13系列更强。郭明錤在周四的推文中称，他对中国经销商和零售商的最新调查显示，他们不得不为iPhone 14支付有史以来最高的预付定金，以确保稳定供应。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656683594_340547.png" alt="郭明錤：Phone 14在中国的需求将远远高于iPhone 13" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220701/1656683594_340547.png" alt="郭明錤：Phone 14在中国的需求将远远高于iPhone 13" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 郭明錤指出，预付定金是在上市前确保即将到来的智能手机供应的费用，比iPhone 13“明显高”，在一些地区，它比之前的产品阵容高一倍之多。
