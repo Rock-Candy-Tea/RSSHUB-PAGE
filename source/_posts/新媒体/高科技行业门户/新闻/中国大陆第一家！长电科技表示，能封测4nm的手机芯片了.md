@@ -1,0 +1,19 @@
+
+---
+title: '中国大陆第一家！长电科技表示，能封测4nm的手机芯片了'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202207/02103550439881.jpg'
+author: 高科技行业门户
+comments: false
+date: Sat, 02 Jul 2022 03:15:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202207/02103550439881.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">众所周知，芯片制造过程分为三个主要环节，分别是设计、制造、封测。</p><p style="text-indent: 2em; text-align: left;">以前的芯片企业大多是能够设计、制造、封测一条龙全部搞定，比如intel、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%BE%B7%E5%B7%9E%E4%BB%AA%E5%99%A8.HTM" target="_blank" title="德州仪器">德州仪器</a></span>等，称之为IDM企业。</p><p style="text-indent: 2em; text-align: left;">后来<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>崛起，只负责制造这一环节，将IDM形式分拆开后，于是后来慢慢就形成了设计、制造、封测这么三大环节，很多企业只负责其中一个环节，IDM企业越来越少。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/02103550439881.jpg" alt=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" title=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不得不说，这种大家专注于某一个环节的方式，极大的促进了全球的分工合作，也极大的推动了芯片技术的向前发展，毕竟只负责一个环节，更精更专，比IDM企业更有优势。</p><p style="text-indent: 2em; text-align: left;">所以我们看到台积电的工艺超过intel，日月光的封测技术全球第一，设计方面更是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>等崛起，超过传统的IDM企业。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/02103550493400.jpg" alt=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" title=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而在设计、制造、封测这三个环节上面，中国大陆除了在制造上落后很多之外，在设计、封测上还是基本达到全球顶尖水平的。</p><p style="text-indent: 2em; text-align: left;">比如设计，华为<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E6%B5%B7%E6%80%9D.HTM" target="_blank" title="海思">海思</a></span>与苹果、高通等同步进入5nm，还有一些矿机公司，设计能力也是一直处于世界顶尖水平，近日传出<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>3nm工艺下，中国大陆企业就是首批客户，很明显，设计是不差的。</p><p style="text-indent: 2em; text-align: left;">而封测也不差的，大陆有三大封测巨头，分别是长电科技、通富微电、天水华天，这三大封测企业在全球排在第3、5、6名。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/02103551469054.jpg" alt=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" title=" 中国大陆第一家！长电科技表示，能封测4nm的手机芯片了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">这三大企业的封测能力早就进入到了5nm，昨天长电科技在互动平台表示，公司已经可以可以实现4nm手机<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E5%B0%81%E8%A3%85.HTM" target="_blank" title="芯片封装">芯片封装</a></span>，以及<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CPU.HTM" target="_blank" title="CPU">CPU</a></span>，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-GPU.HTM" target="_blank" title="GPU">GPU</a></span>和射频芯片的集成封装。</p><p style="text-indent: 2em; text-align: left;">这意味着长电科技是大陆第一家公开表示能够封测4nm芯片的厂商，也是达到了当前最顶尖的水平，毕竟三星3nm才量产，4nm其实是当前最顶尖技术。</p><p style="text-indent: 2em; text-align: left;">不过大家在兴奋之余，也要清醒的认识到，在设计、制造、封测这三个环节中，封测应该是门槛最低的，制造是门槛最高的，如果封测、设计都达到了全球顶尖水平，那么制造这一环节也要努力提升上来才行。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 中国大陆第一家！长电科技表示，能封测4nm的<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87.HTM" target="_blank" title="手机芯片">手机芯片</a></span>了</span></p> 
+  
+</div>
+            
