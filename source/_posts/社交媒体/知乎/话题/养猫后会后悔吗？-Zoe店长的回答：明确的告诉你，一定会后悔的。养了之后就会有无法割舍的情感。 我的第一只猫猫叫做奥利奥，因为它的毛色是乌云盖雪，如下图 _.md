@@ -1,0 +1,18 @@
+
+---
+title: '养猫后会后悔吗？-Zoe店长的回答：明确的告诉你，一定会后悔的。养了之后就会有无法割舍的情感。 我的第一只猫猫叫做奥利奥，因为它的毛色是乌云盖雪，如下图 _...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-f9cb8230b3358c974cac2f59f1ed8f97_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sun, 03 Jul 2022 11:00:12 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-f9cb8230b3358c974cac2f59f1ed8f97_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>养猫后会后悔吗？</strong><br>Zoe店长的回答<br><p data-pid="kdUwlAZn">明确的告诉你，一定会后悔的。养了之后就会有无法割舍的情感。</p><p data-pid="lBZw15d1">我的第一只猫猫叫做奥利奥，因为它的毛色是乌云盖雪，如下图</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-f9cb8230b3358c974cac2f59f1ed8f97_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="3000" data-rawheight="4000" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2f5fbdee84ada281c3cecddfd72eb1a2_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-f9cb8230b3358c974cac2f59f1ed8f97_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>我家的憨憨猫</figcaption></figure><p data-pid="vVeAuGAJ">在奥利奥还没来我家的时候，我没有任何想要养宠物的想法，甚至还屡屡跟朋友表明，逗逗别人家的毛孩子是乐趣，自己养肯定是灾难。</p><p data-pid="CYUmcDSm">那会儿跟朋友一起合租房子，他带回来一只猫猫，说是刚出生一个月，原主人就给了半瓶舒化奶和一把猫粮，然后我朋友就把猫猫扔在客厅的公共区域，最开始我找了一个箱子，算是给它置一个窝，不过它一点都不喜欢。</p><p data-pid="ytvOniOS">我知道猫猫拉粑粑都是会找个地方先刨个坑，拉完之后再埋起来的，所以那时候我就委托朋友在工地上去帮我装一点沙子回家，谁知道朋友找沙子找了两天也没有给我送到家，我其实已经做好了收拾屎尿的准备的。</p><p data-pid="a3Yli0pL">奥利奥来两天之后，那一点点粮食和奶就喝光了，我跑去超市给它买粮食，就在猫粮的旁边我看到了猫砂，都怪之前没经验，完全不知道还有专门卖猫砂的。</p><p data-pid="OYb1KqBB">买好回家，赶紧先找了个纸盒子装了一点猫砂，再把猫拧进去，很快它刨了几下就先尿了，再拉了粑粑。那时候已经两天，看来是憋坏了。</p><p data-pid="9KR2cpjb">也就是因为这件事情，我在心底里开始觉得奥利奥是个很有分寸的猫猫，可能缘分就从那里开始的，结果可想而知，原本以为我只是替朋友照看一下他带回来的猫猫，没成想他见我照顾了猫猫之后，就彻底不管不问了。</p><p data-pid="2ruOLa_h">奥利奥成了我的猫，它跟随我一路从西安到苏州到湖州，整整十年的时间，这十年是我人生里面最起起落落的十年，自始至终身边都只有奥利奥，我经常笑着说可不敢给它扔出家门去，奥利奥离不开我，因为它胆小肯定在外边活不过几个小时，实际上我一点也离不开它。</p><p data-pid="cmhJ_Hoa">去年，当它满十岁了，我就总是在心里隐隐的担忧，有时候想着想着还会鼻头一酸，它慢慢变老，总有一天会离开我，想想就有点接受不了。于是，为了缓冲这种担忧，我又养了一只三个月大的小猫猫。</p><p data-pid="EXXq3JfS">在这里我得讲一下，我特别相信别人说的，宠物很主人的性格会越来越像，因为我的两只猫猫都跟我一样特别的安静，且脸大脸圆。每天晚上我睡，它们也睡了，第二天我醒了，它们也醒了，这种感觉真的很棒。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3f281708b7f0bbfb239e0c4b7a93526b_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1080" data-rawheight="1440" data-default-watermark-src="https://pic1.zhimg.com/50/v2-781612b759c54fe64625569bdbdc9e5e_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3f281708b7f0bbfb239e0c4b7a93526b_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>相爱相杀的一对儿</figcaption></figure><p data-pid="-BVI_bw2">我的第二只猫猫，名字叫如果。</p><p data-pid="8XT4iEVh">如果刚来我家的时候，朋友就劝我赶紧去给奥利奥做绝育，我没有打算让它们生一窝，但好像我也没有很积极的阻止这件事情的发生，总归一切都顺其自然，并且也有朋友质疑一只年迈的老猫猫可能已经没有生育能力了，哈，往往现实打脸来的很快，如果的肚子一天比一天大，看着她每天只知道躺在太阳底下睡觉，心里突然升腾起很多很多的温暖。</p><p data-pid="90AazKbs">很遗憾的，我没有能陪着如果生产。</p><p data-pid="DmVNsDF8">那天从一打开家门，我就心道完蛋了，一股浓烈的血腥味扑鼻而来，门口玄关就出现了两坨血印子，往里走我发现床上有两大摊血迹，如果就躺在其中一摊怀里有三只小猫猫，可能因为太累了，它还把另一个娃生在了离它们很远的地上。过程肯定很惨烈很辛苦，但是结果却是幸福的。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-9de86ec68c324c170218a8e03b57f1ff_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1706" data-rawheight="1280" data-default-watermark-src="https://pica.zhimg.com/50/v2-b507e3e4290dedf1ca0f89a05d6f37e7_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-9de86ec68c324c170218a8e03b57f1ff_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>完美的一大家子</figcaption></figure><p></p>  
+</div>
+            
