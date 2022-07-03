@@ -26,7 +26,7 @@ B站官微近日宣布，7月6日中午12:00，杰威尔音乐将在B站发布�
 据了解，周杰伦自出道以来在金曲奖共入围50次，获得15座金曲奖项。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220703/1656830476_306652.png" alt="B站与杰威尔达成版权合作！周杰伦发文：哥要出来了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220703/1656830476_306652.png" alt="B站与杰威尔达成版权合作！周杰伦发文：哥要出来了" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 值得注意的是，杰威尔旗下周杰伦、袁咏琳、邱凯伟、叶怀佩、派伟俊、曹杨等歌手的作品都将陆续上架B站。
@@ -38,7 +38,7 @@ B站官微近日宣布，7月6日中午12:00，杰威尔音乐将在B站发布�
 按照此前消息称，这张新专辑收录了12首新歌，除老搭档方文山外，与五月天等都有合作，并且12首歌曲的作曲都是周杰伦。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220703/1656830486_567094.jpg" alt="B站与杰威尔达成版权合作！周杰伦发文：哥要出来了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220703/1656830486_567094.jpg" alt="B站与杰威尔达成版权合作！周杰伦发文：哥要出来了" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
