@@ -1,0 +1,18 @@
+
+---
+title: '_Unclassified_&nbsp;籃球網頁遊戲《BasketPulse》比賽引擎更新時程確定'
+categories: 
+ - 游戏
+ - 巴哈姆特
+ - GNN 新聞
+headimg: 'https://truth.bahamut.com.tw/s01/202207/20c2adc410b401b641ae060bc2769100.JPG'
+author: 巴哈姆特
+comments: false
+date: 2022-07-04 10:21:18
+thumbnail: 'https://truth.bahamut.com.tw/s01/202207/20c2adc410b401b641ae060bc2769100.JPG'
+---
+
+<div>   
+<div><font style="background-color:#FFFFFF;">熱門籃球網頁遊戲《<a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.basketpulse.com%2Ftw%2Fregister%2F81287" target="_blank"><font size="4"><b>BasketPulse</b></font></a>》官方於上週六宣佈，</font></div><div><font style="background-color:#FFFFFF;">已經測試許久的新比賽引擎將在下個賽季，也就是<b><font color="#0000FF">第89賽季</font></b>正式套用到遊戲中的所有比賽。</font></div><div><font style="background-color:#FFFFFF;"><br></font></div><div><img src="https://truth.bahamut.com.tw/s01/202207/20c2adc410b401b641ae060bc2769100.JPG" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div><font style="background-color:#FFFFFF;">(BasketPulse比賽進行中計分板)</font></div><div><font style="background-color:#FFFFFF;"><br></font></div><div><font style="background-color:#FFFFFF;">由於目前使用的引擎存在一些小問題，例如上場人數和疲勞度，</font></div><div><font style="background-color:#FFFFFF;">讓經驗豐富的老玩家經常會利用技能較高但較少的人數來主宰比賽，</font></div><div><font style="background-color:#FFFFFF;">導致遊戲中的比賽實況和現實籃球比賽不太相符，</font></div><div><font style="background-color:#FFFFFF;">因此，BasketPulse官方計劃更新</font><font style="background-color:#FFFFFF;">比賽引擎已有相當久的時間。</font></div><div><font style="background-color:#FFFFFF;"><br></font></div><div><font style="background-color:#FFFFFF;">新的比賽引擎從去年開始在玩家自訂的友誼賽進行第一階段測試，</font></div><div><font style="background-color:#FFFFFF;">今年年初開始套用在國內聯賽進行第二階段測試，</font></div><div><font style="background-color:#FFFFFF;">在官方經過不斷的模擬與反覆調整之後，終於決定在下個賽季正式應用到兵家必爭的國際聯賽，</font></div><div><font style="background-color:#FFFFFF;">也就就全部遊戲都將使用新比賽引擎。</font></div><div><font style="background-color:#FFFFFF;"><br></font></div><div><font style="background-color:#FFFFFF;"><b><font color="#FF0000"><font size="4">而新比賽引擎主要有哪些改變呢？</font></font></b></font></div><div><font style="background-color:#FFFFFF;">最主要就是疲勞度的調升，習慣使用少於10名球員的玩家可能要頭痛了。</font></div><div><font style="background-color:#FFFFFF;">官方的目的是讓遊戲更貼近現實，希望每支球隊都擁</font>有12-14名球員。</div><div>所以如何在聯賽限制的薪資上限中組出足夠人數的最佳陣容，將考驗未來每位玩家的智慧。</div><div><br></div><div>另一個重大變化是<font color="#FF0000"><b>戰術設定</b></font>的選項改變。</div><div>現在的引擎只能設定要使用人盯人或3-2區域聯防等的球隊戰術。</div><div>而在新引擎則可以做更細部<b><font color="#0000FF">進攻重點</font></b>和<b><font color="#0000FF">防守重點</font></b>的戰術設定，</div><div>例如進攻可以指定由哪個位置發動進攻，防守也可以設定針對對手的強項去防守。</div><div>如此一來，在比賽前如果有深入研究對手陣容和比賽的玩家將會更有優勢。</div><div><br></div><div><font style="background-color:#FFFFFF;">其他的改變還包括：內外線投籃機率和進球的平衡性，球員進攻防守判斷的AI調整，進攻流程新增更多事件使比賽過程</font>變得更加真實等。</div><div><br></div><div>總之，所有BasketPulse玩家對新引擎應該都是既期待又怕受傷害，</div><div>在開始套用到兵家必爭的國際聯賽之後，會不會造成遊戲中比賽排名和實力的大洗牌呢？</div><div>快點加入遊戲看好戲吧！下個賽季揭曉！</div><div><br></div><div><font size="5"><b><a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.basketpulse.com%2Ftw%2Fregister%2F81287" target="_blank">新玩家遊戲註冊請按此！</a></b></font></div><div><b><br></b></div><div><font size="4"><b>BasketPulse台灣FB粉絲專頁：</b></font></div><div><a href="https://ref.gamer.com.tw/redir.php?url=https%3A%2F%2Fwww.facebook.com%2FBasketPulseTaiwan" target="_blank"><font size="4">https://www.facebook.com/BasketPulseTaiwan</font></a></div><div><br></div><div><img src="https://truth.bahamut.com.tw/s01/202207/48bd9cf763a833980624cd04e478152d.JPG" class="gallery-image" border="0" referrerpolicy="no-referrer"></div><div>(BasketPulse比賽實況)</div>  
+</div>
+            
