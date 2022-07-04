@@ -1,0 +1,19 @@
+
+---
+title: '华为 P50 Pocket 发布全新_夏日_配色，再次定义折叠屏色彩艺术高地'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/7fdec4b2-f493-472f-9aa2-c22d97c06bc3.jpeg'
+author: IT 之家
+comments: false
+date: Mon, 04 Jul 2022 07:52:20 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/7fdec4b2-f493-472f-9aa2-c22d97c06bc3.jpeg'
+---
+
+<div>   
+<p data-vmark="3f79">7 月 4 日，在华为新品发布会上，华为再度为“折叠宝盒”华为 P50 Pocket 带来了两款拼接材质的全新配色 —— 云锦白、天青蓝。加上已经发布了采用了双面立体微雕工艺的晶钻白、镜面工艺的曜石黑，以及鎏光金艺术定制版，目前华为 P50 Pocket 已经拥有 5 款丰富配色可供用户选择。</p><p data-vmark="9811">在这个炎炎夏日，华为 P50 Pocket 推出的云锦白、天青蓝配色，从自然中撷取灵感，为用户在炎炎夏日带来了几丝凉爽气息。</p><p style="text-align: center;" data-vmark="8046"><img src="https://img.ithome.com/newsuploadfiles/2022/7/7fdec4b2-f493-472f-9aa2-c22d97c06bc3.jpeg" w="1440" h="1079" title="华为 P50 Pocket 发布全新“夏日”配色，再次定义折叠屏色彩艺术高地" width="1440" height="614" referrerpolicy="no-referrer"></p><p data-vmark="d67b">“云锦白”是云与锦的相互碰撞，有一种流动梦幻的光感美学，云锦白如同白色云锦，雅致百搭，低调奢华，搭配纤薄的机身，手感轻盈，也给用户带来了夏日里特有的清新。</p><p data-vmark="27f3">而“天青蓝”，如雨后一碧如洗的天空，呈现出一种清新透亮的质感，“天青蓝”所传递的活力积极的态度，清爽且不张扬，时刻彰显着这个季节里，万物流动的节奏和韵律。</p><p data-vmark="cd92">两款全新的配色还采用了“拼接”设计，一面是高级光感玻璃，通过现代工法让传统材质焕发新生，尽显优雅；一面是富有质感的亲肤素皮，素皮质地柔软，触感亲肤丝滑，也兼顾了耐刮防滑等实用性。</p><p style="text-align: center;" data-vmark="223b"><img src="https://img.ithome.com/newsuploadfiles/2022/7/a9376e0c-cb46-4f43-aa87-8f3a31209ee3.png" w="1080" h="1946" title="华为 P50 Pocket 发布全新“夏日”配色，再次定义折叠屏色彩艺术高地" width="1080" height="1478" referrerpolicy="no-referrer"></p><p data-vmark="ca9e">华为 P50 Pocket 全新的云锦白、天青蓝色彩 ID，是华为在设计领域的再一次将科技和艺术融合的探索与创新，用硬核科技打造令消费者感到赏心悦目的时尚美学单品。</p><p data-vmark="9e50">华为 P50 Pocket 的双拼不止于颜值，更是颜值与实力的双拼。</p><p data-vmark="4afc">夏日来临，不少用户出街的第一件事，就是“防晒”准备，借助华为 P50 Pocket 的超光谱超级影像单元，华为 P50 Pocket 为用户带来了超全面的夏日防护功能，从环境紫外线检测到防晒检测再到 AI 健康测肤功能，时时刻刻守护你的美丽。其中新增的环境光紫外线检测功能，可以智能分析环境紫外线强弱值，根据测量结果提供合理的防晒建议，让你夏日出门不愁。AI 测肤不同于传统的第三方测肤软件，华为超光谱健康测肤是通过超光谱超级影像单元，进行深层检测皮肤状态，系统会根据更精准的测量结果为用户提供智能化、全体候的护肤建议，成为女性朋友身边可靠、精准的护肤管家，这简直就是为女性朋友量身打造。</p><p style="text-align: center;" data-vmark="144e"><img src="https://img.ithome.com/newsuploadfiles/2022/7/6e36e71a-a982-4880-ae7a-fad0930232d9.jpeg" w="1440" h="1919" title="华为 P50 Pocket 发布全新“夏日”配色，再次定义折叠屏色彩艺术高地" width="1440" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="3248">打破边界是这次华为超光谱影像系统带来的最直接技术认知，除了超光谱健康测肤功能之外，华为 P50 Pocket 超光谱影像系统还拥有趣味性十足的荧光摄影模式，可以捕捉大自然中可见光下不可被捕捉的内容与细节，发现物体上从未见过的斑斓图案和色彩，让用户的每一次拍摄，都是一次物质与光的碰撞之美，捕捉肉眼看不到的奇幻之美。</p><p data-vmark="14a0">借助折叠形态优势，华为 P50 Pocket 还解锁了多种自拍方式。通过背面万象双环的创新设计，一镜一相可将后摄镜头直接用于自拍，并通过外屏实时预览，让后摄最强的自拍硬件为人像摄影带来更好的摄影交互体验。同时得益于全新特别调校后摄人像自拍算法，结合超光谱影像系统的大底优势增强暗态解析力，可以给用户提供最自然、最真实的人像自拍效果。</p><p style="text-align: center;" data-vmark="3162"><img src="https://img.ithome.com/newsuploadfiles/2022/7/cab467f4-8819-42fd-bbcc-959e352f3076.jpeg" w="1440" h="1920" title="华为 P50 Pocket 发布全新“夏日”配色，再次定义折叠屏色彩艺术高地" width="1440" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="3235">不仅如此，华为 P50 Pocket 背面的圆环显示屏，还可以用来显示通知、导航、路线查询等等功能，不用开盖，即可通过外屏实时预览。</p><h2 data-vmark="f3cc">总结</h2><p data-vmark="c97e">从华为 P20 系列的极光色，到 P30 系列的天空之境，再到华为 P50 系列的“初春系”配色，以及华为 P50 Pocket 云锦白、天青蓝等等，这些色彩 ID 以及工艺不断升级引领的背后，是华为对消费者审美，以及美学独特设计、色彩的把控能力的体现。毋庸置疑，如今的华为已经成为数码圈、科技圈的潮流指向标。</p><p data-vmark="2395">不仅如此，诸如近一年来，华为陆续推出的 FreeBuds Lipstick“口红耳机”、华为 WATCH GT 3 Pro 小瓷表等产品，也能够深刻感受到，华为在吸引女性市场上做足了洞察和功夫，产品设计、功能越来越懂女性，这也是华为洞察消费者刚性、隐性需求，通过持续不断的技术投入，打造“双轮驱动”式创新产品的深刻体现。</p><p style="text-align: center;" data-vmark="a8ce"><img src="https://img.ithome.com/newsuploadfiles/2022/7/dabf263a-4062-4e25-81df-cf47d9555223.jpeg" w="1440" h="1075" title="华为 P50 Pocket 发布全新“夏日”配色，再次定义折叠屏色彩艺术高地" width="1440" height="612" referrerpolicy="no-referrer"></p><p data-vmark="1020">华为 P50 Pocket 云锦白、天青蓝新配色的发布，在色彩 ID 上不仅能够引发女性群体在审美上的共鸣，轻巧便携的折叠设计，以及超光谱健康测肤这些务实的功能，更是华为对女性群体内在的科技、人文关怀，这是真正的颜值与实力兼备，这是华为 P50 Pocket “双拼”实力的最好诠释。</p>
+          
+</div>
+            
