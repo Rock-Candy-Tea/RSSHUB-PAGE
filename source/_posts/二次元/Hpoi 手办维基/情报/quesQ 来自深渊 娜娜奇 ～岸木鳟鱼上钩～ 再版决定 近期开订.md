@@ -1,0 +1,42 @@
+
+---
+title: 'quesQ 来自深渊 娜娜奇 ～岸木鳟鱼上钩～ 再版决定 近期开订'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2019/10/d0c16d64deee493c9c2ba229ef69399f.jpg?date=1656906722'
+author: Hpoi 手办维基
+comments: false
+date: Mon, 04 Jul 2022 03:57:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2019/10/d0c16d64deee493c9c2ba229ef69399f.jpg?date=1656906722'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>quesQ 来自深渊 娜娜奇 ～岸木鳟鱼上钩～ 再版决定 近期开订<br>更新内容: 
+                
+                    
+                    
+                    
+                    
+                        再版确定
+                    
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2019/10/d0c16d64deee493c9c2ba229ef69399f.jpg?date=1656906722" referrerpolicy="no-referrer">  
+</div>
+            
