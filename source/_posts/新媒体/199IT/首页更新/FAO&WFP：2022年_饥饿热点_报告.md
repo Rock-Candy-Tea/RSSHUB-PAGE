@@ -1,0 +1,18 @@
+
+---
+title: 'FAO&WFP：2022年_饥饿热点_报告'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=8974'
+author: 199IT
+comments: false
+date: Sun, 03 Jul 2022 20:30:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8974'
+---
+
+<div>   
+FAO&WFP：2022年“饥饿热点”报告  
+</div>
+            

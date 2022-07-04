@@ -1,0 +1,19 @@
+
+---
+title: '消息称苹果放缓 iPhone 芯片改进速度，全力做 Mac 芯片'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/6/e6f55136-22d1-4a12-830e-4ff03b430284.png'
+author: IT 之家
+comments: false
+date: Mon, 04 Jul 2022 00:11:34 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/6/e6f55136-22d1-4a12-830e-4ff03b430284.png'
+---
+
+<div>   
+<p data-vmark="814c">7 月 4 日消息，自从开始自主研发芯片以来，苹果已经取得了巨大成功，其 iPhone、iPad、Mac 等几乎所有产品都开始搭载自家处理器。不过，<strong>苹果现在似乎正集中力量改进 Mac 芯片</strong>，而 iPhone 等产品所用芯片的改进速度则在放缓。</p><p data-vmark="9eab">苹果自主研发的 Mac 芯片无疑撼动了个人电脑处理器行业，提振了该公司台式机和笔记本电脑的销量，并促使竞争对手不断寻找新的解决方案。</p><p data-vmark="8dc5">在过去一年半的时间里，苹果推出了五种主要类型的 Mac 芯片，从 M1 到 M1 Ultra 再到 M2。但苹果资深爆料专家马克・古尔曼（Mark Gurman）预计，在接下来的一年左右里，苹果将推出更多产品，<strong>包括 M2 Pro、M2 Max、M2 Ultra 和 M3</strong>。</p><p data-vmark="4a95">为了实现上述目标，<strong>苹果芯片团队不得不将许多测试、开发和生产资源转移到 Mac 芯片上</strong>。问题是，这是否会影响到其他产品。再加上供应瓶颈，这种关注可能导致 iPhone、Apple Watch 甚至手机调制解调器的开发进展放缓。</p><p data-vmark="c567" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/6/e6f55136-22d1-4a12-830e-4ff03b430284.png" w="1437" h="1253" alt="苹果 iPhone 14 Pro 渲染图" title="消息称苹果放缓 iPhone 芯片改进速度，全力做 Mac 芯片" width="1437" height="715" referrerpolicy="no-referrer"></p><p data-vmark="dfd1" style="text-align: center;">▲ 苹果 iPhone 14 Pro 渲染图</p><p data-vmark="156a">自苹果开始设计自己的处理器以来，<strong>该公司今年将首次不会升级其主打新款 iPhone 芯片</strong>。今年秋季发布的入门级 iPhone 14 将继续搭载去年推出的 A15 芯片，<strong>只有 iPhone 14 Pro 版采用新的 A16 处理器</strong>。</p><p data-vmark="470e">预计 Apple Watch 的处理性能也将连续第三年保持不变，这是以前从未发生过的事情。古尔曼最近发现，Apple Watch Series 8 内置的 S8 芯片将在性能上与 2021 年的 S7 芯片类似，与 2020 年推出的 S6 芯片也大致相当。</p><p data-vmark="480a">近年来，苹果 iPhone 处理器的年度性能增长也有所放缓。尽管 iPhone 13 上搭载的 A15 芯片无疑更先进，包括改进的图形处理器、效率更高的新 CPU 设计和升级的视频编码器，但苹果甚至没有费心地将其速度与 A14 进行比较。</p><p data-vmark="9598">相反，该公司开始专注于将 A15 与竞争对手的处理器对比，更多时候强调其芯片性能高于对手 50%。这与过去不同，苹果以前更喜欢将其新款 iPhone 芯片与自家前代产品对比，通常性能会提高 20% 到 50%。</p><p data-vmark="6b98">苹果开发蜂窝调制解调器的战略显然也遇到了困难，此举旨在取代高通公司提供的组件。苹果知名分析师郭明𫓹最近表示，苹果的调制解调器项目暂时“失败”。古尔曼也称，在过去一年左右的时间里，<strong>他听说苹果始终在为应对芯片过热问题而苦恼</strong>。</p><p data-vmark="9129">对于苹果真正计划何时推出自己的调制解调器，各方意见不一。有些分析师推测或许在 2023 年，但古尔曼始终认为 2024 年是苹果调制解调器亮相的最早日期，因为该公司在 2019 年左右才开始研发这个项目。考虑到构建一款全新芯片的复杂性，同时在性能上还能与高通同类产品相媲美，这无疑将面临着巨大挑战。</p><p data-vmark="485a">考虑到几年前 Mac 销量开始减缓，苹果当然需要加大投入力度。但忽视非 Mac 芯片开发并不是明智之举。不要忘记，<strong>苹果 60% 的收入仍然来自尚未搭载 M1 或 M2 芯片的设备</strong>，尽管 Mac 芯片中使用的技术最终可能会应用到其他设备上。</p><p data-vmark="1b7f">更广泛的问题是，苹果的芯片部门是否变得过于分散，从而加剧了员工的职业倦怠感。许多工程师说，该公司的运作非常精准，这使得它成为一个要求很高的工作场所。尽管苹果的芯片业务在世界各地持续增长，但在过去的几年里，该团队失去了许多工程师，其水平高于正常的自然离职。</p><p data-vmark="ecdf">苹果已经采取行动整合其芯片业务，包括选择在 iPad 和即将推出的混合现实（MR）头盔中安装 Mac 芯片。同时，苹果还在 HomePod 中使用 Apple Watch 处理器。这意味着，苹果不必为 iPad、MR 头盔和 HomePod 构建特定的芯片。</p><p data-vmark="b06c">但有些事情苹果并不能完全控制，其中最值得注意的是全球芯片的生产和供应。苹果依靠台积电生产芯片，它需要台积电采用改进后的 3 纳米节点工艺生产大量半导体。这种依赖可能阻碍了苹果的芯片研发努力。</p><p data-vmark="e47f">第二个因素是成本问题。<strong>芯片供应短缺大大增加了零部件的制造和运输成本</strong>。将 A16 芯片用于价格更高、利润率更高的 iPhone 14 Pro 系列，这样苹果就更容易承受价格上涨的代价，而不会把它转移给消费者。同样，在 Apple Watch 中保留相同的通用处理器也有助于降低成本。</p>
+          
+</div>
+            
