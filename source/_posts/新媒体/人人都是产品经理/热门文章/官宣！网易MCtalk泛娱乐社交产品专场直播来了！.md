@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 热门文章
-headimg: 'https://image.yunyingpai.com/wp/2022/06/W9WjHMI2mIsDsE0kJfcn.jpg'
+headimg: 'https://image.yunyingpai.com/wp/2022/07/ZUuUoTtHuoiR2oVIULh2.jpg'
 author: 人人都是产品经理
 comments: false
 date: Tue, 28 Jun 2022 00:00:00 GMT
-thumbnail: 'https://image.yunyingpai.com/wp/2022/06/W9WjHMI2mIsDsE0kJfcn.jpg'
+thumbnail: 'https://image.yunyingpai.com/wp/2022/07/ZUuUoTtHuoiR2oVIULh2.jpg'
 ---
 
 <div>   
@@ -18,7 +18,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/06/W9WjHMI2mIsDsE0kJfcn.jpg'
 <p>从图文社交到音频社交，技术的发展一步步拉近社交的距离。5G技术的逐渐落地，元宇宙的大门被推开，泛娱乐社交的场景不断延展，带来<strong>更多创新机会和发展空间。</strong></p>
 <p>面对国内白热化的竞争趋势，不少企业选择了向外寻求机会，出海成为大家关注的新方向。泛娱乐社交产品要出海，如何拆解国外市场环境，分析出海的路径与可能，成为迫在眉睫的问题。</p>
 <p><strong>7月7日，由网易智企、人人都是产品经理联合主办的网易MCtalk泛娱乐社交产品专场直播，将围绕泛娱乐社交APP展开探讨。在数字化新场景下，如何解锁社交新玩法，来聊聊你的想法！</strong></p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/06/W9WjHMI2mIsDsE0kJfcn.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/ZUuUoTtHuoiR2oVIULh2.jpg" alt referrerpolicy="no-referrer"></p>
 <h3>分享嘉宾</h3>
 <p><strong>本次直播，邀请到了4位重量级嘉宾，他们将会从自身的工作实践出发，为泛娱乐产品的发展带来新的观点和思考。</strong></p>
 <ul>
@@ -34,7 +34,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/06/W9WjHMI2mIsDsE0kJfcn.jpg'
 </ul>
 <h3>直播议程</h3>
 <p>本次直播分享干货满满，更有各种精彩福利！同时我们将会建立社交产品交流群，让大家可以同好交流，还能领取社交产品的行业报告等专属资料哦~ 一键报名<a href="https://996.pm/Y2PgJ"> https://996.pm/Y2PgJ </a> ，直播活动详情速览！</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/06/7zpQa9fL8OUORoDBwk7a.jpg" alt referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/FfSW6371CLBMhPp4Krn1.jpg" alt referrerpolicy="no-referrer"></p>
                           
 </div>
             
