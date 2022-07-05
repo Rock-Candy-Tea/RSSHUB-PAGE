@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/12/e878ccc0adea9b8c9b178596731h2i45.JPG?v=1656927179646'
 author: 巴哈姆特
 comments: false
-date: 2022-07-05 08:23:37
+date: 2022-07-05 09:11:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/12/e878ccc0adea9b8c9b178596731h2i45.JPG?v=1656927179646'
 ---
 
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/12/e878ccc0adea9b8c9b178596731h2i45.
 <div>
  </div>
 <div>
-　　故事以涉谷發生的連續獵奇殺人事件為主軸，展開複數視點進行故事。在女主角們的固有路線中，玩家將化身有能將妄想具現化變成真實的「giga-lo-maniac」（ギガロマニアックス）能力者「西條拓巳」，挑戰解開發生在澀谷一連串連續獵奇殺人事件的真相。</div>
+　　故事以澀谷發生的連續獵奇殺人事件為主軸，展開複數視點進行故事。在女主角們的固有路線中，玩家將化身有能將妄想具現化變成真實的「giga-lo-maniac」（ギガロマニアックス）能力者「西條拓巳」，挑戰解開發生在澀谷一連串連續獵奇殺人事件的真相。</div>
 <div>
  </div>
 <div>
