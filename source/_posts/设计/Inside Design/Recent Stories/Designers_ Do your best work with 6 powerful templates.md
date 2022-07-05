@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-templates-for-designers/'
 author: Inside Design
 comments: false
-date: 2022-07-05 12:17:34
+date: 2022-07-05 13:43:26
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-templates-for-designers/'
 ---
 

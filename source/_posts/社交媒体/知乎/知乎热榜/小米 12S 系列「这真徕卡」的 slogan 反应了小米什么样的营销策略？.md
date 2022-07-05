@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7401'
+headimg: 'https://pic3.zhimg.com/v2-c5445adf34f95dc448aaad7e74de4bf6_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Tue, 05 Jul 2022 11:32:56 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7401'
+date: Tue, 05 Jul 2022 11:36:10 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-c5445adf34f95dc448aaad7e74de4bf6_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-小道黑科技的回答<br><br><p data-pid="ue517k8L">之前说好的是莱卡主动找小米合作，但这句slogan感觉是小米主动找莱卡合作的即视感，莱卡变成了主角。</p>  
+匿名用户的回答<br><br><p></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-c5445adf34f95dc448aaad7e74de4bf6_1440w.jpg?source=b1748391" data-rawwidth="1024" data-rawheight="846" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-c5445adf34f95dc448aaad7e74de4bf6_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-c5445adf34f95dc448aaad7e74de4bf6_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
