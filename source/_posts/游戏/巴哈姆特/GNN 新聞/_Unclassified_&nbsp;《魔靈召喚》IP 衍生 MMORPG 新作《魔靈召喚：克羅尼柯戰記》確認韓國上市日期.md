@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/53/fb8a11812f27fcd66f6a909fdc1h2ud5.PNG?v=1656993661709'
 author: 巴哈姆特
 comments: false
-date: 2022-07-05 09:11:01
+date: 2022-07-05 10:11:18
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/fb8a11812f27fcd66f6a909fdc1h2ud5.PNG?v=1656993661709'
 ---
 
@@ -20,6 +20,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/53/fb8a11812f27fcd66f6a909fdc1h2ud5.
  </div>
 <div>
 　　由於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E9%9D%88%E5%8F%AC%E5%96%9A%EF%BC%9A%E5%85%8B%E7%BE%85%E5%B0%BC%E6%9F%AF%E6%88%B0%E8%A8%98" target="_blank">魔靈召喚：克羅尼柯戰記</a>》是首款以《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E9%9D%88%E5%8F%AC%E5%96%9A" target="_blank">魔靈召喚</a>》IP 製作而成的 MMORPG 遊戲，由於原作的全球下載量突破 1.5 億次，因此也被預期能在全球取得不錯的成績。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/Wecab3Jp_6s?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
