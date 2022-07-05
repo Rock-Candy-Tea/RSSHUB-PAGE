@@ -8,16 +8,14 @@ categories:
 headimg: 'https://img.3dmgame.com/uploads/images/news/20220705/1656991949_738713.jpg'
 author: 3DMGame
 comments: false
-date: Tue, 05 Jul 2022 03:37:00 GMT
+date: Tue, 05 Jul 2022 03:53:00 GMT
 thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220705/1656991949_738713.jpg'
 ---
 
 <div>   
-<p style="text-indent:2em;">
-</p><p>
-在2022年上半年中，<span>多款优秀的游戏作品相继亮相，而外媒IGN已经迫不及待的开启了年度最佳游戏投票活动。截止撰稿，已有超过1.9万名玩家投票，这其中《艾尔登法环》以44%的投票占比高居榜首。</span>
+<p>
+在2022年上半年中，<span>多款优秀的游戏作品相继亮相，而外媒IGN已经迫不及待的开启了年度最佳游戏投票活动。截止撰稿，已有超过1.9万名玩家投票，这其中《艾尔登法环》以44%的投票占比高居榜首。</span> 
 </p>
-<p></p>
 <p style="text-indent:2em;">
 投票详情：
 </p>
