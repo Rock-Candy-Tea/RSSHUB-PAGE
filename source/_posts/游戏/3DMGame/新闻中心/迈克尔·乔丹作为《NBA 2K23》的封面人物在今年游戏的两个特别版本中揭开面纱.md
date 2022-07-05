@@ -23,6 +23,14 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220705/1657028676_9868
 乔丹的职业生涯将NBA推向了全球，使其转变为一种现象，而乔丹也成为了一个家喻户晓的名字，并对篮球世界留下了不可磨灭的影响。在《NBA 2K》的第24年，乔丹是今年活动主题--响应号召的完美化身。作为一个总是迎难而上的运动员，乔丹回到了《NBA 2K23》的两个封面上，给新老球迷一个机会来庆祝这位在整个职业生涯中给世界留下敬畏的天才。
 </p>
 <p style="text-indent:2em;">
+游戏预告：
+</p>
+<p align="center">
+<iframe src="https://player.youku.com/embed/XNTg4NDQ2MDY3Mg
+==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
+<p style="text-indent:2em;">
 “在使23成为体育界最具辨识度的数字之后，我们再来为《NBA 2K23》引入迈克尔·乔丹版是再合适不过的了。”NBA 2K全球营销战略副总裁Alfie Brody说“此外，我们很高兴通过《NBA 2K23》冠军版推出一个全新的高级版游戏，因为没有其他球员能像乔丹一样为'冠军'这个词代言。我们期待着在9月9日发布时与社区一起庆祝这款游戏的上线"。
 </p>
 <p style="text-indent:2em;">
