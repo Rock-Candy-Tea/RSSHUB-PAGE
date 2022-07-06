@@ -1,0 +1,18 @@
+
+---
+title: '仓鼠真的适合当宠物吗？-于也航的回答：Ps，有人知道我们家仓鼠是什么品种的吗？ 太适合当宠物啦！ 好可爱啊！ 而且省事，超级省事！ 而且省钱！ 而且需要的地方...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-fa708fd0aed91ee6455fb24ab7e82eb2_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Wed, 06 Jul 2022 12:27:37 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-fa708fd0aed91ee6455fb24ab7e82eb2_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>仓鼠真的适合当宠物吗？</strong><br>于也航的回答<br><p data-pid="aHYwgJhP">Ps，有人知道我们家仓鼠是什么品种的吗？</p><p class="ztext-empty-paragraph"><br></p><p data-pid="OjgI6ImE">太适合当宠物啦！</p><p data-pid="rGMt8y_v">好可爱啊！</p><p data-pid="xWSiGJdo">而且省事，超级省事！</p><p data-pid="JeLmjPRt">而且省钱！</p><p data-pid="UvxQzwPI">而且需要的地方小！</p><p data-pid="ByaBd0WK">而且也不吵闹！</p><p data-pid="TRsBTDX_">而且不用遛！</p><p data-pid="VM0NT94m">你平常都不用管他，让他自己玩就好。你想他了，再去rua他，或者偷偷的看他就好。一举一动都好可爱。</p><p data-pid="YKA_B1_e">软绵绵的，热乎乎的，可爱的不得了，身上的味道也很好闻，粑粑也不臭，小小的干干的也不恶心。甚至就连尿都有种清香的味道。</p><p data-pid="FATPhfBN">我本来没养过仓鼠的，我小外甥在游乐园玩游戏，用胡萝卜钓了个仓鼠，就花15块钱给买下来了。买下来了又不想养，就让我带回家，随便找个人送出去。</p><p data-pid="b_xB239N">我回家以后问了我家楼下的小孩，他们家也不想养，我就暂时放我们家放着。</p><p data-pid="LWqYuK4w">但是那个装仓鼠的笼子太小啦！我怕仓鼠难受，我就把仓鼠拿出来放在床上，想让他散散步，然后我就rua他，越看他越可爱，然后就不想送走了，很担心送给别人别人不好好对待他，那样就是我的罪过了，于是决定自己养。</p><p data-pid="bEQp9CK3">然后我就在在网上简单查了一下，买了一个47的笼子，17.5的跑轮。</p><p data-pid="dRjEkdKd">但是收到以后，我觉得笼子好小啊。我就想不然就让仓鼠在我们家自由活动算了。就把仓鼠给放到地上了。结果他一下子就钻到床底下了…我又开始担心，怕他太小，人走动不小心踩到他，于是废了九牛二虎之力又给他抓了回来。</p><p data-pid="TFOp1pvV">后来我想到一个好办法，就是用纸壳在阳台给他圈了一块地，把笼子放进去，把那块地当做他的家。现在他就那么养着了。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-fa708fd0aed91ee6455fb24ab7e82eb2_1440w.jpg?source=1940ef5c" data-rawwidth="1080" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-044972d05d50be4a4334a75e3338cb1d_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-fa708fd0aed91ee6455fb24ab7e82eb2_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="Petr-v4h">仓鼠本来用的是锯末子，我看网上说不太好，我现在给换成玉米核什么的垫料了。快递应该明天就能到，明天给换上。</p><p data-pid="Kn_EY_E1">还有浴沙。我没有买浴盆，因为他之前有个小笼子，大概20厘米，我准备用那个笼子装浴沙就行。</p><p data-pid="UPgFtK1-">饲料我买的是那种啥都有的仓鼠粮，格外又买了面包虫和奶酪，因为我觉得仓鼠好像很爱吃。</p><p data-pid="s_soqAyW">没买啥玩具，就自己用那个纸壳子给他搭了点洞，我发现他特别爱钻洞。</p><p data-pid="8Hq99Vyl">我们家仓鼠可可爱了，白天一直睡觉，侧身躺着睡，像个小宝宝。还会缩在角落里仰壳儿睡，胖乎乎的，憨态可掬。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-b26567c37cb3a39683f508f1a68974ae_1440w.jpg?source=1940ef5c" data-rawwidth="978" data-rawheight="1738" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-46b4853b2edf3dec41872165a5bfc338_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-b26567c37cb3a39683f508f1a68974ae_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="09PmTmHK">还会站起来！</p><p data-pid="FkUPLXrX">还会用两个前爪洗脸！</p><p data-pid="UsUBhJ7i">他也咬过我，我之前给他放床上玩，他还啃我脚指头，肯定是把我当成能吃的东西了吧！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-51b4af089c2b81e40f5bfc9d4f26f08a_1440w.jpg?source=1940ef5c" data-rawwidth="1170" data-rawheight="2532" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-59d8dd525e1d8afe3ceb8bca9a37ec05_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-51b4af089c2b81e40f5bfc9d4f26f08a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="XBMnunrm">之前我犯了个大错误，我把水瓶的管给装反了，导致我家仓鼠两天没喝到水！我给他换水的时候才发现这个问题！我一动水瓶他就扒着来喝水，我也不敢动，就给他挤水瓶，都看到他红红的小舌头了。幸亏一直给他胡萝卜了，才没渴死。好可怜。</p><p data-pid="zepgWhaC">他每天晚上出来跑轮，能跑好久呢。白天就躲起来睡觉，晚上就特别活泼的出来到处跑，上蹿下跳。</p>  
+</div>
+            
