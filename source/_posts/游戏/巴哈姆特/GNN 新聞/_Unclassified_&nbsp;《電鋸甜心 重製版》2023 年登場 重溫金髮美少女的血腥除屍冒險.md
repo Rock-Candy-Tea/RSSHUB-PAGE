@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?v=1657080557960'
 author: 巴哈姆特
 comments: false
-date: 2022-07-06 04:41:07
+date: 2022-07-06 05:22:45
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?v=1657080557960'
 ---
 
@@ -21,13 +21,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?v=1657080557960" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?v=1657080557960" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%8B%B8%E7%94%9C%E5%BF%83" target="_blank">電鋸甜心</a>》是角川 Games 於 2016 年 6 月在 PS3 / Xbox 360 推出的 3D 動作遊戲，由曾經手過《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%83%E9%9D%A2%E6%AE%BA%E6%89%8B" target="_blank">七面殺手</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E4%B8%8D%E5%86%8D" target="_blank">英雄不再</a>》等異色風格遊戲的 Grasshopper Manufacture 負責製作。遊戲中玩家將扮演手持電鋸、腰掛人頭的金髮美少女殭屍獵人茱麗葉，展開一場融合青春洋溢可愛美少女與血腥殘暴殺人殭屍的冒險。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%8B%B8%E7%94%9C%E5%BF%83" target="_blank">電鋸甜心</a>》是角川 Games 於 2012 年 6 月在 PS3 / Xbox 360 推出的 3D 動作遊戲，由曾經手過《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%83%E9%9D%A2%E6%AE%BA%E6%89%8B" target="_blank">七面殺手</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E4%B8%8D%E5%86%8D" target="_blank">英雄不再</a>》等異色風格遊戲的 Grasshopper Manufacture 負責製作。遊戲中玩家將扮演手持電鋸、腰掛人頭的金髮美少女殭屍獵人茱麗葉，展開一場融合青春洋溢可愛美少女與血腥殘暴殺人殭屍的冒險。</div>
 <div>
  </div>
 <div>
@@ -45,7 +45,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/bbfd36e4cbb4423c3de9f6bfd51h3hu5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 157.55%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG?v=1657080566384" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 157.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG?v=1657080566384" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/1cb2c34718d30b2addd9d06e651h3hv5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
