@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=458'
+headimg: 'https://pic1.zhimg.com/v2-23e8a2c1dd16da98beaba0afef96d874_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Tue, 05 Jul 2022 15:04:06 GMT
-thumbnail: 'https://picsum.photos/400/300?random=458'
+date: Tue, 05 Jul 2022 14:21:52 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-23e8a2c1dd16da98beaba0afef96d874_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-帅天下的回答<br><br><p data-pid="4ImGmlGQ">这句话可以理解成两种意思，一是在说莱卡才是主角，小米12S 系列手机就是为了凸显「这真徕卡」存在的，二是似乎在说，小米 12S 系列搭载的才是真的拉卡，那以前华为搭载的是假莱卡？所以不管怎么解读，都显得小米12S 系列「这真徕卡」的 slogan 很不聪明。</p>  
+养猫的哈士奇的回答<br><br><p data-pid="tRovqHWM">现在已经到处都是讨论了，很多人还在用其它型号手机装徕卡包，从这点上来说小米的这个营销是成功的。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-23e8a2c1dd16da98beaba0afef96d874_1440w.jpg?source=b1748391" data-rawwidth="1176" data-rawheight="2372" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-1ee8a39c061a0d502cfb2580b5663bff_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-23e8a2c1dd16da98beaba0afef96d874_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="GS2KuJMa">但是，不是应该更多的营销小米，徕卡站台背书吗？</p><p data-pid="-0mCGreD">这么做好不好我没法判断，因为我不知道小米这个是不是一套组合拳，下面要怎么出招，但是就目前来看徕卡应该是最大赢家。</p><p></p>  
 </div>
             

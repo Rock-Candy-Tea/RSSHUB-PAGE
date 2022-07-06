@@ -8,7 +8,7 @@ categories:
 headimg: 'https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/c3/HubCoin_Beta.png'
 author: 巴哈姆特
 comments: false
-date: 2022-07-05 15:15:35
+date: 2022-07-06 00:54:33
 thumbnail: 'https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/c3/HubCoin_Beta.png'
 ---
 
