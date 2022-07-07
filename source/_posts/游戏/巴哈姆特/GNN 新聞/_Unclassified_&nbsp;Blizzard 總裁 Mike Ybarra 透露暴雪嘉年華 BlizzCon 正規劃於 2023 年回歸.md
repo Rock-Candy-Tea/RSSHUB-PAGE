@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/13/21bdea2ff919680eb5d9ba33f91h4ct5.JPG?v=1657167504469'
 author: 巴哈姆特
 comments: false
-date: 2022-07-07 04:39:57
+date: 2022-07-07 05:20:37
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/21bdea2ff919680eb5d9ba33f91h4ct5.JPG?v=1657167504469'
 ---
 
@@ -20,7 +20,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/13/21bdea2ff919680eb5d9ba33f91h4ct5.
 <div>
  </div>
 <div>
-　　BlizzCon 過往是 Blizzard 每年在美國安納漢國際會議中心舉辦、以粉絲為核心的嘉年華活動，研發團隊透過此活動向粉絲公開遊戲新作或重大更新消息等。但 2020 年由於疫情關係、官方決定取消舉辦 BlizzCon 實體活動，並改於 2021 年 2 嘔舉辦線上暴雪嘉年華 BlizzConline，讓全球玩家跨越阻礙共襄盛舉。然而，在美國加州公平就業與居住部門控訴 Activision Blizzard 職場性歧視等案件持續延燒下，今（2022）年的線上暴雪嘉年華又被取消。</div>
+　　BlizzCon 過往是 Blizzard 每年在美國安納漢國際會議中心舉辦、以粉絲為核心的嘉年華活動，研發團隊透過此活動向粉絲公開遊戲新作或重大更新消息等。但 2020 年由於疫情關係、官方決定取消舉辦 BlizzCon 實體活動，並改於 2021 年 2 月舉辦線上暴雪嘉年華 BlizzConline，讓全球玩家跨越阻礙共襄盛舉。然而，在美國加州公平就業與居住部門控訴 Activision Blizzard 職場性歧視等案件持續延燒下，今（2022）年的線上暴雪嘉年華又被取消。</div>
 <div>
  </div>
 <div>
