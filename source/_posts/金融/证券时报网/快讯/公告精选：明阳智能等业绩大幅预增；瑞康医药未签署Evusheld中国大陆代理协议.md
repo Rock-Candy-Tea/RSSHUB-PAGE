@@ -1,0 +1,20 @@
+
+---
+title: '公告精选：明阳智能等业绩大幅预增；瑞康医药未签署Evusheld中国大陆代理协议'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=8655'
+author: 证券时报网
+comments: false
+date: Thu, 07 Jul 2022 21:57:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8655'
+---
+
+<div>   
+<p>证券时报e公司讯，7月7日晚间公告精选：<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ002466" style="color: #2f67d1;text-decoration: none;" code="002466" target="_blank">天齐锂业</a>确定H股发行价格为每股82港元；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ300603" style="color: #2f67d1;text-decoration: none;" code="300603" target="_blank">立昂技术</a>参股公司元道通信7月8日创业板上市；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ002589" style="color: #2f67d1;text-decoration: none;" code="002589" target="_blank">瑞康医药</a>未签署任何Evusheld（恩适得）中国大陆代理协议；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS603236" style="color: #2f67d1;text-decoration: none;" code="603236" target="_blank">移远通信</a>获悉337调查终裁结果，公司产品仍可正常出口至美国；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS600121" style="color: #2f67d1;text-decoration: none;" code="600121" target="_blank">郑州煤电</a>控股子公司新郑煤电停产；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ300571" style="color: #2f67d1;text-decoration: none;" code="300571" target="_blank">平治信息</a>与浙江移动杭州分公司签订虚拟<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=NEEQ835670" style="color: #2f67d1;text-decoration: none;" code="835670" target="_blank">数字人</a>合作协议；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ300919" style="color: #2f67d1;text-decoration: none;" code="300919" target="_blank">中伟股份</a>拟收购DHPL股权，合资投建低冰镍含镍金属项目；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ300791" style="color: #2f67d1;text-decoration: none;" code="300791" target="_blank">仙乐健康</a>拟募资不超13.5亿元，收购Best Formulations股权；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ000691" style="color: #2f67d1;text-decoration: none;" code="000691" target="_blank">亚太实业</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ000560" style="color: #2f67d1;text-decoration: none;" code="000560" target="_blank">我爱我家</a>终止非公开发行股票事项；<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ002955" style="color: #2f67d1;text-decoration: none;" code="002955" target="_blank">鸿合科技</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS601225" style="color: #2f67d1;text-decoration: none;" code="601225" target="_blank">陕西煤业</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS603329" style="color: #2f67d1;text-decoration: none;" code="603329" target="_blank">上海雅仕</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS601615" style="color: #2f67d1;text-decoration: none;" code="601615" target="_blank">明阳智能</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ300233" style="color: #2f67d1;text-decoration: none;" code="300233" target="_blank">金城医药</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS600784" style="color: #2f67d1;text-decoration: none;" code="600784" target="_blank">鲁银投资</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS600416" style="color: #2f67d1;text-decoration: none;" code="600416" target="_blank">湘电股份</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SS600063" style="color: #2f67d1;text-decoration: none;" code="600063" target="_blank">皖维高新</a>、<a class="trsHotWords" href="https://info.stcn.com/dc/stock/?stockcode=SZ002597" style="color: #2f67d1;text-decoration: none;" code="002597" target="_blank">金禾实业</a>等上半年业绩大幅预增。</p>
+
+                  
+</div>
+            

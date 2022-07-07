@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/07/07/220707174951507_u524.
 
                 
                 
-                    <div class="topicContent front_content sort_content">根据日媒报道，《战神 诸神黄昏》PS5版将有两种画面模式，分别为原生4K+30帧/秒和拉伸4K+目标60帧/秒。游戏将会在11月9日发售，登陆PS4/PS5平台。</div>
+                    <div class="topicContent front_content sort_content">根据日媒报道，《战神 诸神黄昏》PS5版将有两种画面模式，分别为原生4K+目标30帧/秒和拉伸4K+目标60帧/秒。游戏将会在11月9日发售，登陆PS4/PS5平台。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/07/07/220707174951507_u524.jpg" src="https://img01.vgtime.com/game/cover/2022/07/07/220707174951507_u524.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>

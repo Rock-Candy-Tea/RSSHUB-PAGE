@@ -1,0 +1,18 @@
+
+---
+title: '七年之痒，终是离别——我与FIFA Online 3的分分合合'
+categories: 
+ - 游戏
+ - 游研社
+ - 游研社 - 全部文章
+headimg: 'https://picsum.photos/400/300?random=1488'
+author: 游研社
+comments: false
+date: Thu, 07 Jul 2022 13:54:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1488'
+---
+
+<div>   
+感谢它陪伴了我那7年最好的青春。  
+</div>
+            
