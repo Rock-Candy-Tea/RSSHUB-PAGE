@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657176392093'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657185828391'
 author: 巴哈姆特
 comments: false
-date: 2022-07-07 09:10:35
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657176392093'
+date: 2022-07-07 10:11:19
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657185828391'
 ---
 
 <div>   
@@ -22,14 +22,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657176392093" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG 2x" style="max-width: unset;" title="聽說女扮男裝的劍皇傳人「譚花靈」是最強紅將？連三國好漢都不放在眼裡！" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?v=1657185828391" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/1ac25b3e7991a710599484392a1h4ex5.JPG 2x" style="max-width: unset;" title="1.看見美女就眼睛發亮的「韓飛官」，是否能不為貂蟬美色所惑，全心守護「譚花靈」呢？" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-聽說女扮男裝的劍皇傳人「譚<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8A%B1%E9%9D%88" target="_blank">花靈</a>」是最強紅將？連三國好漢都不放在眼裡！</figure>
+看見美女就眼睛發亮的「韓飛官」，是否能不為貂蟬美色所惑，全心守護「譚花靈」呢？</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG?v=1657176392094" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG 2x" style="max-width: unset;" title="聽說女扮男裝的劍皇傳人「譚花靈」是最強紅將？連三國好漢都不放在眼裡！" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG?v=1657185828391" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/1e22e6e529eb29e0eedf8ceb181h4ey5.JPG 2x" style="max-width: unset;" title="2.聽說女扮男裝的劍皇傳人「譚花靈」是最強紅將？連三國好漢都不放在眼裡！" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-聽說女扮男裝的劍皇傳人「譚<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8A%B1%E9%9D%88" target="_blank">花靈</a>」是最強紅將？連三國好漢都不放在眼裡！</figure>
+聽說女扮男裝的劍皇傳人「譚花靈」是最強紅將？連三國好漢都不放在眼裡！</figure>
 </li>
 </ul>
 </div>

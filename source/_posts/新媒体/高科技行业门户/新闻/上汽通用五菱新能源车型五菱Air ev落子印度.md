@@ -1,0 +1,19 @@
+
+---
+title: '上汽通用五菱新能源车型五菱Air ev落子印度'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175653655010.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 07 Jul 2022 10:00:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175653655010.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img alt height="383" src="https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175653655010.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>1、上汽通用五菱<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源车">新能源车</a></span>型五菱Air ev落子印度</strong></p><p style="text-indent: 2em; text-align: left;">7月6日，上汽通用五菱名爵印度公司新能源产品五菱Air ev技术许可协议云签约仪式在柳州举行。</p><p style="text-indent: 2em; text-align: left;">上汽通用五菱表示，本次技术许可协议包括公司自主研发的首款全球新能源车型五菱Air ev相关产品、生产、质量和售后服务等方面的多项技术。以本次许可的技术为基础，名爵印度公司将在印度生产和销售<span class="hrefStyle"><a href="https://nev.ofweek.com/CAT-71101-BEV.html" target="_blank" title="纯电动汽车">纯电动汽车</a></span>，相关产品将于2023年上半年在印度市场投产。</p><p style="text-indent: 2em; text-align: left;"><strong>2、售价不变，小鹏P7部分车型部分配置调整</strong></p><p style="text-indent: 2em; text-align: left;">近日，从小鹏汽车官方配置表获悉，小鹏P7的480G、670G的版本车型，自2022年5月9日起下订的，将不配备高毫米波雷达、高感知摄像头、AEB自动紧急制动、FCW前向碰撞预警、LDW车道偏离预警。与此同时，车型价格保持不变。480G售价为23．99万元，670G为27．29万元。</p><p style="text-indent: 2em; text-align: left;">目前，小鹏汽车针对此次配置调整已在官方配置表的备注部分说明。</p><p style="text-indent: 2em; text-align: left;"><strong>3、吉利旗下RADAR品牌将于7月12日发布</strong></p><p style="text-align:center"><img alt height="394" src="https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175654798792.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">日前，从官方获悉，RADAR品牌将于7月12日迎来品牌发布会和首款车型的亮相。此次发布会的主题为“每个人心中的雷达”。</p><p style="text-indent: 2em; text-align: left;">根据此前信息，此款纯电皮卡车型的售价或将在20－30万元的价格区间。不过目前新车还没有更多信息。</p><p style="text-indent: 2em; text-align: left;"><strong>4、蔚来800V高压平台开放／500kW超充桩即将上线</strong></p><p style="text-indent: 2em; text-align: left;">7月6日，在NIO Power Day 2022上，蔚来正式发布了其最新的补能规划以及全新产品更新。其中包括，到2025年的建设规划以及500kW超快充、第三代换电站、800V电池及配套设施等产品更新预告。</p><p style="text-indent: 2em; text-align: left;"><strong>5、<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E6%AF%94%E4%BA%9A%E8%BF%AA.HTM" target="_blank" title="比亚迪">比亚迪</a></span>高端品牌首款车型谍照曝光</strong></p><p style="text-align:center"><img alt height="481" src="https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175654732789.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">日前，有微博网友拍摄到了一组比亚迪高端品牌车型的实车谍照，从谍照中可以看到，新车就是之前一直在传言中出现的那款硬派SUV车型。</p><p style="text-indent: 2em; text-align: left;">从谍照来看，新车属于一款硬派SUV车型，并且尺寸方面也不会小，可以参考路虎的卫士110车型。车头目前能看到外覆盖件基本还是用的其他车型的，而车门则已经换上专属的外观件。</p><p style="text-indent: 2em; text-align: left;"><strong>6、高合汽车回应销售欺诈：产品理解偏差</strong></p><p style="text-indent: 2em; text-align: left;">近日，有一份“高合汽车车主起诉该品牌存在欺诈销售、要求退一赔三”的律师函在国内社交平台处引发热议。随后，高合品牌官方做出回应，表示是产品理解偏差，将与用户做细致沟通。</p><p style="text-indent: 2em; text-align: left;"><strong>7、预售17．9万，恒大汽车恒驰5开启预售</strong></p><p style="text-align:center"><img alt height="312" src="https://mp.ofweek.com/Upload/News/Img/member2589/202207/07175655677741.jpg" width="700" title referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">7月6日，恒驰5正式开启预售，新车只公布了一款车型的预售价格，豪华版预售17．9万元，新车定位为紧凑型纯电SUV，新车CLTC综合<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E9%87%8C%E7%A8%8B.HTM" target="_blank" title="续航">续航</a></span>里程602km。</p><p style="text-indent: 2em; text-align: left;">－END 电车汇 2022／7／7</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 上汽通用五菱新能源车型五菱Air ev落子印度等7条快讯</span></p> 
+  
+</div>
+            

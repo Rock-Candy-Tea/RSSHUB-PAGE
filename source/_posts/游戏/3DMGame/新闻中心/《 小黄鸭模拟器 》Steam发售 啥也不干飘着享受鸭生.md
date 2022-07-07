@@ -17,10 +17,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220707/1657181552_4620
 一款休闲放置类游戏《 小黄鸭模拟器 》于7月6日登陆Steam发售，玩家将化身这位澡堂子知名玩具静静漂浮在池塘中，啥也不用干享受鸭生即可。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220707/1657181552_462016.jpg" alt="《 小黄鸭模拟器 》Steam发售 啥也不干飘着享受鸭生" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220707/1657181552_462016.jpg" alt="《 小黄鸭模拟器 》Steam发售 啥也不干飘着享受鸭生" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>•《 小黄鸭模拟器 》：<a href="https://store.steampowered.com/app/1999360/Placid_Plastic_Duck_Simulator/" target="_blank">Steam地址。</a></strong>
+<strong>•《 小黄鸭模拟器 》：<a href="https://store.steampowered.com/app/1999360/Placid_Plastic_Duck_Simulator/" target="_blank">Steam地址。</a></strong> 
 </p>
 <p style="text-indent:2em;">
 •复古休闲游戏《小黄鸭模拟器（Placid Plastic Duck Simulator）》游戏的玩法非常简单，化身各式各样的塑料小黄鸭，伴随着清爽的音乐漂浮在泳池中，游戏只有单纯的漂浮，可以享受日光浴或者在夜晚时仰望星空。在黑暗中聆听水波涌动，休闲惬意，享受这慢慢的幸福。
