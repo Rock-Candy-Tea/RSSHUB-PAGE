@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/c183f21dcd6105d535bcf5bdc61h4d55.JPG?v=1657168773890'
 author: 巴哈姆特
 comments: false
-date: 2022-07-07 08:13:07
+date: 2022-07-07 09:10:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/c183f21dcd6105d535bcf5bdc61h4d55.JPG?v=1657168773890'
 ---
 
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/c183f21dcd6105d535bcf5bdc61h4d55.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%80%E8%B5%B7%E4%BE%86%E7%8E%A9%E5%90%A7%EF%BC%81Oink+Games" target="_blank">一起來玩吧！Oink Games</a>》除了讓玩家可以在線上隨機與玩家配對遊玩外，部分遊戲也支援離線與 CPU 電腦來進行遊戲。</div>
+　　官方表示，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%80%E8%B5%B7%E4%BE%86%E7%8E%A9%E5%90%A7%EF%BC%81Oink+Games" target="_blank">一起來玩吧！Oink Games</a>》除了讓玩家可以在線上隨機與玩家配對遊玩外，部分遊戲也支援離線與 CPU （註：指電腦角色）來進行遊戲。</div>
 <div>
  </div>
 <div>
