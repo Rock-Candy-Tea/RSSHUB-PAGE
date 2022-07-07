@@ -19,7 +19,6 @@ thumbnail: 'https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-165695
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-1656953629.jpg" alt referrerpolicy="no-referrer">
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-1656953632.jpg" alt referrerpolicy="no-referrer">
 </p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-1656953634.jpg" alt referrerpolicy="no-referrer">
-</p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-1656953630.jpg" alt referrerpolicy="no-referrer">
-</p>  
+</p><p><img src="https://socialbeta.oss-cn-hangzhou.aliyuncs.com/upload/199521-1656953630.jpg" alt referrerpolicy="no-referrer"></p>  
 </div>
             
