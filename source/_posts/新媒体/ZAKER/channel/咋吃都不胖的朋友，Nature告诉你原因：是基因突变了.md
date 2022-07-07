@@ -1,0 +1,18 @@
+
+---
+title: '咋吃都不胖的朋友，Nature告诉你原因：是基因突变了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219e_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 06 Jul 2022 22:02:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219e_1024.jpg'
+---
+
+<div>   
+<p>你身边有没有那种怎么吃都不胖的朋友？</p><p>即使胡吃海塞，不运动，也能轻轻松松保持苗条身材？</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219e_1024.jpg" data-height="402" data-width="442" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219e_1024.jpg" referrerpolicy="no-referrer"></div></div>世界顶级学术期刊 Nature 最新发表的一篇论文，为我们揭示了这些占人群 2%-4% 的 " 天生瘦子 " 的基因秘密。<p></p><p>研究表明，一种名为<strong>肌苷</strong>（inosine）的代谢物能够加速脂肪燃烧。</p><p>小鼠实验中，如果让小鼠在摄入高能量饮食的同时补充肌苷，就会变成 " 吃不胖 " 的类型，同时还能避免糖尿病的风险。</p><p>要了解肌苷如何产生这种神奇效果，就要先介绍一种特殊的脂肪。</p><p><b>脂肪也有 " 好 " 脂肪？</b></p><p>人体内的脂肪分为白色脂肪和棕色脂肪。</p><p>前者就是我们通常认识的那种脂肪，广泛分布于皮下组织和内脏周围，其作用是将多余的能量以脂肪的形式储藏起来；</p><p>棕色脂肪的功能则是通过它细胞内大量的线粒体将食物中的能量转化成热能，简而言之，就是燃烧自己、给身体供暖。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219f_1024.jpg" data-height="194" data-width="259" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62c67636b15ec0397c62219f_1024.jpg" referrerpolicy="no-referrer"></div></div><strong>△</strong>棕色脂肪<p></p><p>因此，激活棕色脂肪这种 " 好 " 脂肪、增加脂肪燃烧就就成为了研究人员的目标。</p><p>但这并不容易。</p><p>作者之一、波恩大学教授 Alexander Pfeifer 指出：</p><p>如今，即使在冬天，我们也很温暖。因此，我们 " 身体里的炉子 " 不再被需要了。</p><p>与此同时，我们吃的食物越来越丰富、运动量却越来越少。</p><p>这三个因素会对棕色脂肪细胞产生致命打击：它们的功能会因此逐渐消失，甚至最终死亡。</p><p>这时候，就需要肌苷来发挥作用。</p><p><b>" 肌苷 "：脂肪燃烧加速器</b></p><p>众所周知，垂死的细胞会释放出一种影响邻居功能的信使分子混合物。</p><p>为了研究这种机制是否也存在于棕色脂肪中，研究人员对濒临死亡的棕色脂肪细胞进行观察，发现它们在分泌大量名为 " 肌苷 " 的代谢物。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202207/62c67636b15ec0397c6221a0_1024.jpg" data-height="700" data-width="733" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62c67636b15ec0397c6221a0_1024.jpg" referrerpolicy="no-referrer"></div></div>更有趣的是，这些被分泌出的肌苷，不仅能激活周围健康的棕色脂肪细胞，增强能量消耗，还可以诱导白色脂肪组织 " 褐变 " 为棕色脂肪。<p></p><p>可以说是一举两得了。</p><p>但堪称 " 脂肪燃烧加速器 " 的肌苷也有不好使的时候。</p><p>肌苷转运蛋白的存在，将肌苷输送到细胞内，降低了细胞外肌苷浓度，因此肌苷也不能再发挥其促进脂肪燃烧的作用。</p><p>有趣的一点是，有些人可以靠自身的基因来抑制肌苷转运蛋白的产生。</p><p>莱比锡大学的研究人员对 900 多名志愿者进行了基因分析，结果显示，人群中有 2% 到 4% 的人，由于基因变异，转运蛋白不那么活跃，而这些人也要比其他人瘦很多。</p><p><b>人为干预 " 肌苷 " 靠谱吗？</b></p><p>除了这种天生的基因优势，研究人员试着把一种本来针对凝血障碍开发的药物，用于抑制肌苷转运蛋白的产生，产生了立竿见影的效果——随着细胞外肌苷浓度的上升，棕色脂肪开始继续燃烧。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202207/62c67636b15ec0397c6221a1_1024.jpg" data-height="810" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62c67636b15ec0397c6221a1_1024.jpg" referrerpolicy="no-referrer"></div></div>以该药物为起点，研究人员正在试图开发其他专门的药物，来抑制转运蛋白的生长，这一研究结果将可能适用于肥胖症的治疗。<p></p><p>但波恩大学教授 Alexander Pfeifer 表示，在全球蔓延的肥胖症不会单靠一颗药丸就能解决，我们还需要进一步研究来如何使肥胖患者的能量平衡正常化。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
