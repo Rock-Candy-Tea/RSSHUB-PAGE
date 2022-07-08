@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - IT 桔子
  - 投融资事件
-headimg: 'https://cdn.itjuzi.com/images/2a0066e8aa4a96614b3feea3b6558c4c.png'
+headimg: 'https://cdn.itjuzi.com/images/947ebc6b1b2b31a6da6d9e0c14931b46.png'
 author: IT 桔子
 comments: false
 date: Tue, 20 Jan 1970 04:20:58 GMT
-thumbnail: 'https://cdn.itjuzi.com/images/2a0066e8aa4a96614b3feea3b6558c4c.png'
+thumbnail: 'https://cdn.itjuzi.com/images/947ebc6b1b2b31a6da6d9e0c14931b46.png'
 ---
 
 <div>   
-<img src="https://cdn.itjuzi.com/images/2a0066e8aa4a96614b3feea3b6558c4c.png" referrerpolicy="no-referrer"><br><br>
+<img src="https://cdn.itjuzi.com/images/947ebc6b1b2b31a6da6d9e0c14931b46.png" referrerpolicy="no-referrer"><br><br>
         <strong>新樾生物</strong><br>
         药物研发及科技服务商<br>
         Pre-A轮 / 数千万人民币 / 1657258773<br>
