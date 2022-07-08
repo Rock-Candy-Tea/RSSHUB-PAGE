@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?v=1657255983887'
 author: 巴哈姆特
 comments: false
-date: 2022-07-08 08:14:28
+date: 2022-07-08 09:10:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?v=1657255983887'
 ---
 
@@ -26,7 +26,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E6%88%92%EF%BC%9A%E5%92%95%E5%9A%95" target="_blank">魔戒：咕嚕</a>》是根據 J.R.R.托爾金的經典奇幻小說《魔戒》三部曲所改編的匿蹤冒險遊戲，遊戲描述行動敏捷、鬼祟狡猾，咕嚕是《魔戒》世界知名角色之一，他渴望再次將失去的東西握在手中。他看到了別人無法想像的事物，在他人沒有勇氣提及的事件中生存下來。由於個性分裂，他有著咕嚕的惡毒卑鄙，也有著史麥戈的善於交際與謹慎小心。</div>
+　　官方指出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E6%88%92%EF%BC%9A%E5%92%95%E5%9A%95" target="_blank">魔戒：咕嚕</a>》是根據 J.R.R.托爾金的經典奇幻小說《魔戒》三部曲所改編的匿蹤冒險遊戲，遊戲描述行動敏捷、鬼祟狡猾，咕嚕是《魔戒》世界知名角色之一，他渴望再次將失去的東西握在手中。他看到了別人無法想像的事物，在他人沒有勇氣提及的事件中生存下來。由於個性分裂，他有著咕嚕的惡毒卑鄙，也有著史麥戈的善於交際與謹慎小心。</div>
 <div>
 　</div>
 <div>
@@ -36,7 +36,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?v=1657255983887" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?v=1657255983887" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/eef621ff0b27778ef917ffab071ggk45.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

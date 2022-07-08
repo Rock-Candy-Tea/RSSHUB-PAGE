@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/22/df1d5fab4ee2e7c957722279811h5fy5.JPG?v=1657261319259'
 author: 巴哈姆特
 comments: false
-date: 2022-07-08 08:14:28
+date: 2022-07-08 09:10:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/df1d5fab4ee2e7c957722279811h5fy5.JPG?v=1657261319259'
 ---
 
 <div>   
 <div>
 <div>
-　　遊戲發行商 Nacon 今日在 Nacon Connect 2022 線上直播發表會中，釋出了與 KT Racing 共同製作的競速賽車遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD" target="_blank">車魂：無限賽</a>（Test Drive Unlimited）》系列新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD+%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>（Test Drive Unlimited: <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Sola" target="_blank">Sola</a>r Crown）》（PC / PS5 / PS4 / Xbox X|S / Xbox One）的最新宣傳影片。《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD%20%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>》原訂於 今年 9 月登場，但官方於今年 5 月時宣布將推遲至 2023 年發布。</div>
+　　遊戲發行商 Nacon 今日在 Nacon Connect 2022 線上直播發表會中，釋出了與 KT Racing 共同製作的競速賽車遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD" target="_blank">車魂：無限賽</a>（Test Drive Unlimited）》系列新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD+%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>（Test Drive Unlimited: <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Sola" target="_blank">Sola</a>r Crown）》（PC / PS5 / PS4 / Xbox Series X|S / Xbox One）的最新宣傳影片。《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD%20%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>》原訂於今年 9 月登場，但官方於今年 5 月時宣布將推遲至 2023 年發布。</div>
 <div>
  </div>
 <div>
@@ -46,7 +46,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/22/df1d5fab4ee2e7c957722279811h5fy5.
 </div>
 <div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD%20%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>》預計於 2023 年在 PC、PS5、PS4、Xbox X|S、 Xbox One 等平台推出。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BB%8A%E9%AD%82%EF%BC%9A%E7%84%A1%E9%99%90%E8%B3%BD%20%E6%97%A5%E5%86%95" target="_blank">車魂：無限賽 日冕</a>》預計於 2023 年在 PC、PS5、PS4、Xbox Series X|S、 Xbox One 等平台推出。</div>
 </div>
 <div>
  </div>
