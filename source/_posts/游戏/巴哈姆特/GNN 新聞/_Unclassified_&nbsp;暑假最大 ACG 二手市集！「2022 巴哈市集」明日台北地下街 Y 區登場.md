@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/20/f227c2ef746ddf6a3b5f7574771h5fw5.JPG?v=1657261440944'
 author: 巴哈姆特
 comments: false
-date: 2022-07-08 09:10:39
+date: 2022-07-08 10:12:57
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/f227c2ef746ddf6a3b5f7574771h5fw5.JPG?v=1657261440944'
 ---
 
@@ -16,7 +16,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/f227c2ef746ddf6a3b5f7574771h5fw5.
 <div>
 <div>
 <div>
-<span class="text-hightlight"><b>※為落實防疫，敬請來場逛攤玩家全程配戴口罩，若有身體不適狀況請勿入場，自我防疫從你我做起。</b></span></div>
+<p class="caution">
+※為落實防疫，敬請來場逛攤玩家全程配戴口罩，若有身體不適狀況請勿入場，自我防疫從你我做起。</p>
+</div>
 <div>
  </div>
 <div>
