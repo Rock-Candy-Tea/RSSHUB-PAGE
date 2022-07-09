@@ -1,0 +1,18 @@
+
+---
+title: '巨贵犬价格怎么样，好喂养吗？-可爱萌宠联盟的回答：巨型贵宾犬（以下统称巨贵）也称之为泰迪Plus，目前也是很受人们喜欢的犬种之一，但是关于巨贵的这些优点和...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://picx.zhimg.com/v2-3ecc1dee0df526e9425519331a4e4cf8_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 09 Jul 2022 04:54:14 GMT
+thumbnail: 'https://picx.zhimg.com/v2-3ecc1dee0df526e9425519331a4e4cf8_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>巨贵犬价格怎么样，好喂养吗？</strong><br>可爱萌宠联盟的回答<br><p data-pid="jGbfbGcW">巨型贵宾犬（以下统称巨贵）也称之为泰迪Plus，目前也是很受人们喜欢的犬种之一，但是关于巨贵的这些优点和缺点，你知道多少？让我们抱着一颗好奇的心，一起往下看吧~</p><p data-pid="awYfzK5a">一、巨贵的优点</p><p data-pid="nq0FWuLD">1.气质高贵</p><p data-pid="7-eF62Ny">巨贵就如它的名字一样，拥有着贵族的气质。步态向前小跑时，步伐轻快有力，头部高昂，尾巴上翘，因主要依靠后肢发力,所以看着姿态高傲，非常灵敏、聪慧、自信。</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-3ecc1dee0df526e9425519331a4e4cf8_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1280" data-rawheight="666" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-3ecc1dee0df526e9425519331a4e4cf8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>图取自网络，如侵删</figcaption></figure><p data-pid="8ipC-I4i">2.智商高</p><p data-pid="Nfo1Y8Fg">巨贵是全世界所有犬种类中智商排名第二的狗狗，仅次于边境牧羊犬。智商高带来的好处就是更通人性，更容易训练，比如教上厕所、握手之类的，并且还很忠诚。</p><p data-pid="jph5A5gy">3.几乎不掉毛没有体味</p><p data-pid="yoXAlEoM">巨贵作为长毛犬竟然不容易掉毛，而且可塑性好，造型做起来都好看。虽然体型大，但运动量少所以身上没有什么味道，只要定期洗澡就可以了。</p><p data-pid="98x8ddHU">4.性格温顺</p><p data-pid="J6-_FwKA">巨贵的性格温顺在狗界排名绝对是第一的，性格特别的好，不容易被激怒，对人没有攻击性，属于玩具犬，几乎不用担心会咬人。不论是对主人和家里的小朋友或者是其他的狗狗也是非常的友善，所以很受人们的喜爱。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-26e48cd4e14e45061e5a1078480020d0_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1080" data-rawheight="1024" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-26e48cd4e14e45061e5a1078480020d0_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>图取自网络，如侵删</figcaption></figure><p data-pid="ZL0wOau_">5.运动需求量低</p><p data-pid="U259ByP6">巨贵犬虽然体型比较大，但是运动量相较于其他大型犬类来说需求量低，平时在家里陪它玩耍就可以基本消耗它的精力，所以即便是身材小巧的女生也是考虑饲养的。</p><p data-pid="ParguZgL">二、巨贵的缺点</p><p data-pid="sKlnz1fz">1.价格高</p><p data-pid="kq1wItb8">品相毛发及血统对巨贵的价格也有很大关系，便宜的也要在三千上下，有些品相好、血统更为纯正的巨贵就更高了，甚至可以高达5位数，确实是名副其实的“巨贵”了。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-8d0b86af2d27b060ad990b1470f0d617_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1280" data-rawheight="768" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-8d0b86af2d27b060ad990b1470f0d617_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>图取自网络，如侵删</figcaption></figure><p data-pid="W23-bXBw">2.开销大</p><p data-pid="KkriNooz">巨贵体型庞大，饭量自然也大，每天都需要吃很多，仅仅在狗粮方面，开销就不小，有网友说每月光狗粮大约在500元，还没有加上狗狗其他的必要开销。另外巨贵的毛发是天然卷，一天不梳理就会卷在一起，很影响颜值，需要经常美容修剪，而美容的费用不低。如果真的想要养巨贵，要有经济基础，要是经济一般的，不推荐饲养。</p><p data-pid="8dRFcdoF">3.好奇心重</p><p data-pid="FBsa2aT6">巨贵天生就有强烈的好奇心，主人在家陪它玩耍还能分散注意力，如果将它单独关在家里，主人要注意它也是有可能会拆家的。</p><p data-pid="2xnQ7lMO">4.居住空间要大</p><p data-pid="fkAMw6kS">巨贵属于大型犬，对居住空间还是有要求的，至少能保证它活动自如，要是居住空间太小，令它无法伸展开的话，巨贵很容易抑郁。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-d0652355ab2944ad98c46e8f2240e076_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="1148" data-rawheight="702" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-d0652355ab2944ad98c46e8f2240e076_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>图取自网络，如侵删</figcaption></figure><p data-pid="Lpk0vQWB">5.不适合大城市养</p><p data-pid="oHYVWKJV">在知名一点的城市里可能不让饲养大型犬，狗证也基本上很难办下来，所以从源头上，就不太容易被准备养狗狗的人选择了。因此，我们一般很难在城市看见有人养巨贵，和这个原因有一定关系。</p><p data-pid="oqZdH6cc">最后，爱狗的亲们，你还知道哪些巨贵的优点和缺点呢？欢迎在评论区，分享与交流~</p>  
+</div>
+            
