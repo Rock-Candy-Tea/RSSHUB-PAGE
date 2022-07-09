@@ -1,0 +1,22 @@
+
+---
+title: 'OLG
+《暴雪英霸》未來將不再有重大更新計畫
+ 48 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/85/5d2e8143c7ae106ad20a83bebe1h6155.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/85/5d2e8143c7ae106ad20a83bebe1h6155.JPG'
+---
+
+<div>   
+Blizzard 今日說明屆滿七週年的線上遊戲《暴雪英霸》未來計畫，文中指出遊戲未來將不會再有新付費購買項目內容的重大更新計畫。  Blizzard 今日透過官方部落格，說明對《暴雪英霸》的想法，文中提到他們未來會比照《...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/85/5d2e8143c7ae106ad20a83bebe1h6155.JPG" referrerpolicy="no-referrer">  
+</div>
+            
