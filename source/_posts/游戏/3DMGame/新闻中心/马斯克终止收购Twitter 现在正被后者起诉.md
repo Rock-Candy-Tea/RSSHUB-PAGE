@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220709/1657327117_6586
 埃隆•马斯克终究不会收购Twitter。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220709/1657327117_658656.jpg" alt="马斯克终止收购Twitter 现在正被后者起诉" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220709/1657327117_658656.jpg" alt="马斯克终止收购Twitter 现在正被后者起诉" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 据彭博社Ed Ludlow报道，根据美国证券交易委员会一份新文件，马斯克将终止他收购社交媒体巨头Twitter的协议。
@@ -34,7 +34,7 @@ Taylor）在一条推文中写道：“Twitter董事会致力于按照与马斯�
 我们有信心在特拉华州衡平法院获胜。”
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220709/1657327124_994961.jpg" alt="马斯克终止收购Twitter 现在正被后者起诉" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220709/1657327124_994961.jpg" alt="马斯克终止收购Twitter 现在正被后者起诉" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
