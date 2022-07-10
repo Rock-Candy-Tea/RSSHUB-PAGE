@@ -1,0 +1,19 @@
+
+---
+title: '和iPhone拼高端，为啥国产手机都输了？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member36126/202207/09164913440642.png'
+author: 高科技行业门户
+comments: false
+date: Sun, 10 Jul 2022 02:26:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member36126/202207/09164913440642.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">说起国产手机这么多年来的崛起之路，基本上都遵循了中低端机型入场抢用户、站稳脚跟后再发力高端的路子，此方法虽然降低了入场难度，但后续也会被其所拖累，因为以中低端机型入场就等于一开始就将品牌价值定了性，当用户增长速度放缓之后，前期入场优势反而成了营收增长的阻碍，想要继续向前，发力高端旗舰就是必须要走的路，这点当局者心里应该很清楚，但说着容易，做起来可就没那么容易了。</p><p style="text-indent: 2em; text-align: left;">国产手机想要在高端旗舰领域突围，最大的对手不是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>，而是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>，因为<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span>以高端旗舰入场，深耕相关领域已有10多年，已经在全球用户心目中形成了极其深刻的品牌印象，对于iPhone一直以来的高价，大多数人都渐渐习惯了。</p><p style="text-indent: 2em; text-align: left;">但对于国产手机近些年的价格疯涨，很多人会想：怎么前些年价格还算合理的国产手机，近两年价格怎么涨得这么快？同样甚至更低的价格，我为什么不去买iPhone？各位别急着否认，因为有类似想法的人真的不在少数。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member36126/202207/09164913440642.png" title="和iPhone拼高端，为啥国产手机都输了？" alt="和iPhone拼高端，为啥国产手机都输了？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在今年刚过去的618购物节上，iPhone几乎以一骑绝尘的姿态，在高端旗舰领域对友商形成了碾压式的销量优势，甚至比大部分中低端手机卖的都多，为什么iPhone会如此受用户青睐，个人认为有以下几个原因：</p><p style="text-indent: 2em; text-align: left;">1、同质化严重</p><p style="text-indent: 2em; text-align: left;">如今<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>手机，不管是高、中、低端，在功能配置上有太多相似之处，零部件使用方面大家也都差不多，系统都是基于安卓开发而来，即便风格上会有所不同，但使用体验上不会有太大差异，不同厂商的手机感觉不到有什么区别，如果某款安卓机用腻了，除了换iPhone，否则永远都是同一种感觉。</p><p style="text-indent: 2em; text-align: left;">2、生态碎片化</p><p style="text-indent: 2em; text-align: left;">虽然不同安卓机之间有太多相似之处，但生态方面又各自为政，特别是系统更新方面根本无法跟上<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%B0%B7%E6%AD%8C.HTM" target="_blank" title="谷歌">谷歌</a></span>的脚步，苹果就不同了，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iOS.HTM" target="_blank" title="iOS">iOS</a></span>系统统一推送机制，使得在系统普及方面有更高效率，只要用户愿意，随时可以在第一时间体验到新系统带来的变化，部分优质应用程序甚至只在苹果商店推出。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member36126/202207/09164913694351.png" title="和iPhone拼高端，为啥国产手机都输了？" alt="和iPhone拼高端，为啥国产手机都输了？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">3、售价落差大</p><p style="text-indent: 2em; text-align: left;">近几年安卓手机涨价幅度有目共睹，特别是高端旗舰机型那叫涨的一个厉害，苹果却反其道行之，iPhone 13不但不涨价，反而还降价，这就给用户造成了心理落差：iPhone大幅降价，安卓手机却反了过来，前者使用寿命还更长，似乎买iPhone变得更划算了。</p><p style="text-indent: 2em; text-align: left;">4、疯狂堆料没达到应有效果</p><p style="text-indent: 2em; text-align: left;">部分安卓旗舰在用料方面确实肯下本钱，但整合能力欠佳，铺天盖地的广告将手机宣传的天花乱坠，但到用户手中的实际使用体验却和厂商宣传有一定差距，这导致安卓高端旗舰只能吸引用户，却难以留住用户，反观iPhone有数以亿计用户基础，这就是对iPhone最好的宣传。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member36126/202207/09164914490641.png" title="和iPhone拼高端，为啥国产手机都输了？" alt="和iPhone拼高端，为啥国产手机都输了？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">国产高端旗舰想要追上iPhone，真的还有很长很长一段路要走。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 和iPhone拼高端，为啥国产手机都输了？</span></p> 
+  
+</div>
+            
