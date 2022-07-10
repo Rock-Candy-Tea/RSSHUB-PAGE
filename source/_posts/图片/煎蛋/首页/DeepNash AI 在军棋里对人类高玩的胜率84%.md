@@ -16,8 +16,8 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <blockquote><p>军棋和围棋象棋不一样，是信息不透明的游戏</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7b50a4e1e7245c57fc5e29a982c96792.jpg!custom" referrerpolicy="no-referrer"><p>军棋和围棋、象棋存在本质上的不同。军棋是一种信息不完全公开的博弈游戏。</p>
 <p>西洋陆军棋Stratego和国内留下的陆军棋有微小的差别：棋子更多且没有快速通行的铁路。</p>
 <p>最近几年，Stratego 一直被认为是人工智能最有前途的热点之一。 游戏有两个主要挑战。</p>
-<p>1) Stratego 博弈树中有 10535 个潜在状态。 </p>
-<p>2)本游戏中的每位玩家必须在游戏开始时考虑 1066 种可能的部署。由于游戏结构的各种复杂配置，人工智能研究社区在这方面取得的进展微乎其微。</p>
+<p>1) Stratego 博弈树中有 10^535 个潜在状态。 </p>
+<p>2)本游戏中的每位玩家必须在游戏开始时考虑 10^66 种可能的部署。由于游戏结构的各种复杂配置，人工智能研究社区在这方面取得的进展微乎其微。</p>
 <p>AI领域的领航者DeepMind提出了 DeepNash——一种无需人类演示、以无模型(model-free)从零开始在不完美信息游戏 Stratego 中学习的Stratego自我博弈的智能体。DeepNask击败了以往的SOTA AI，并在最复杂的变体Stratego Classic中达到了专家级人类玩家的水平。</p>
 <p>正则化纳什动力学 (R-NaD) 是一种有原则的、无模型的强化学习技术，是 DeepNash 的主要支柱。DeepNash通过将R-NaD与深度神经网络架构集成来实现ε-Nash平衡。纳什均衡确保即使面对最坏情况的对手，代理也能表现良好。</p>
 <p>DeepNash 包含三个部分：基本训练组件 R-NaD、微调学习策略和测试时后处理。 R-NaD 取决于三个重要阶段：奖励转换、动态和更新。此外，DeepNash的R-NaD学习方法建立在收敛的正则化概念之上。</p>
