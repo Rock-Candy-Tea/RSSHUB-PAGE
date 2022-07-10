@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-07-10 05:10:44
-thumbnail: 'https://pic3.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162'
+date: 2022-07-10 06:11:24
+thumbnail: 'https://pica.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-fa8237c3a9d604638f58e0280b69793a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">海布里de酋长，</span><span class="bio">体育写手/专栏作家/ 好物开箱分享</span>
 <a href="https://www.zhihu.com/question/541256423/answer/2564983783" class="originUrl" hidden>查看知乎原文</a>
 </strong>
