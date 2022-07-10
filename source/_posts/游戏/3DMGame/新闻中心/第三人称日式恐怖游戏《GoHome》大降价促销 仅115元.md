@@ -19,11 +19,9 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220710/1657411919_7253
 <p style="text-indent:2em;">
 这是以2000年代的日本住宅街为舞台的，怀旧恐怖动作类游戏！！ 没有猎奇画面，小朋友也可以放心玩！！
 </p>
-<p style="text-indent:2em;">
-</p><p style="text-align:center;">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411919_725344.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer">
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411919_725344.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer"> 
 </p>
-<p></p>
 <h3 style="text-indent:2em;">
 关于这款游戏
 </h3>
@@ -49,7 +47,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220710/1657411919_7253
 虽然可能很苦闷、很恐怖、很难受，但我希望这会成为美好的回忆。
 </p>
 <p style="text-indent:2em;">
-<strong>基本操作</strong>
+<strong>基本操作</strong> 
 </p>
 <p style="text-indent:2em;">
 移动:WSAD
@@ -70,16 +68,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220710/1657411919_7253
 自动存档
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_799360.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_799360.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_890598.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_890598.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_325981.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_325981.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_322004.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657411886_322004.jpg" alt="第三人称日式恐怖游戏《GoHome》大降价促销 仅11.5元" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

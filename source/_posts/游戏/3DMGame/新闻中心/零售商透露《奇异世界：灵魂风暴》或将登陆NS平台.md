@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220710/1657420120_7850
 《<a target="_blank" href="https://www.3dmgame.com/games/oddworlds/">奇异世界：灵魂风暴</a>》是一款平台跳跃冒险游戏。在这款游戏中，玩家将扮演救世英雄阿比，在一段艰险的旅程中探索真相。如今，NS平台玩家很快就有机会体验到这款作品了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657420120_785097.jpg" alt="零售商透露《奇异世界：灵魂风暴》或将登陆NS平台" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657420120_785097.jpg" alt="零售商透露《奇异世界：灵魂风暴》或将登陆NS平台" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 《奇异世界：灵魂风暴》一开始是PlayStation平台独占的作品，还曾作为赠品送给PS5平台的PS 

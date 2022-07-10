@@ -22,7 +22,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220710/1657416358_7714
 2K23》游戏中，厂商又推出了多个版本，其中包括标准版、WNBA版、迈克尔·乔丹版、数字豪华版和冠军版。每个版本都有不同的数字内容和奖励。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657416358_771402.jpg" alt="赢在起跑线上！《NBA 2K23》各版本奖励汇总" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220710/1657416358_771402.jpg" alt="赢在起跑线上！《NBA 2K23》各版本奖励汇总" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 预购任意版本的《NBA 2K23》游戏均可获得：
