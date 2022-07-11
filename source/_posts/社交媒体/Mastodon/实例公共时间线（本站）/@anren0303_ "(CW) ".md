@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/628/104/409/393/073/original/d91ef2dfc482e8bf.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/628/328/082/372/770/original/8750638ef7e76a66.jpg'
 author: Mastodon
 comments: false
-date: Mon, 11 Jul 2022 09:57:42 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/628/104/409/393/073/original/d91ef2dfc482e8bf.jpg'
+date: Mon, 11 Jul 2022 10:52:28 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/628/328/082/372/770/original/8750638ef7e76a66.jpg'
 ---
 
 <div>   
-<hr><p>最近经常出现在视频网站推荐页的这个<br>因为刚好在杭州所以去超市买了<br>发现实体店2.6r/1，线上6r/1<br>怖い……让我尝尝……</p><br><img src="https://img.pawoo.net/media_attachments/files/108/628/104/409/393/073/original/d91ef2dfc482e8bf.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>いい捏。。。</p><br><img src="https://img.pawoo.net/media_attachments/files/108/628/328/082/372/770/original/8750638ef7e76a66.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
