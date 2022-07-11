@@ -1,0 +1,18 @@
+
+---
+title: '彩六干员故事 _ ASH'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/07/11/5056048e4d9b87d8766566b7a72400ff/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 11 Jul 2022 14:47:56 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/07/11/5056048e4d9b87d8766566b7a72400ff/thumb.jpeg'
+---
+
+<div>   
+<h2>代号：ASH（灰烬）</h2><h2>个人简介：</h2><p>ASH原名Eliza Cohen来自FBI SWAT的一名干员，1983年12月24日出生于以色列，耶路撒冷，身高170cm，体重63kg，因为其出生地的文化多元，ash除了希伯来语之外，Cohen还可以流利运用阿拉伯语、英语、法语和希腊语。妈妈是一位很有声望的的犹太政治家和教授，她的巴勒斯坦父亲是中东研究领域的教授（有不少人认为这两个职业存在对立关系....我去查了一下好像并没有<span data-emoji="cube_微笑" class="hb-emoji"></span>.....欢迎有懂的老哥在下面科普），ash不太愿意与harry提及她的童年，只表达了她对于其喜欢品头论足的祖母的厌恶，她认为服役对于她来说是一种对于紧张家庭关系的逃离，个人推测是父母都是大人物比较忙，ash主要跟着祖母，而ash又十分讨厌祖母，以她的性格可能会与祖母正面对抗而导致的紧张，而并非父母之间的矛盾。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/07/11/5056048e4d9b87d8766566b7a72400ff/thumb.jpeg" data-width="1792" referrerpolicy="no-referrer"></p><h4 class="img-desc">二刺螈长腿ash prprpr<span data-emoji="cube_喜欢" class="hb-emoji"></span></h4><p>ash一个以色列人是如何加入fbi的捏？在她取得了以色列特拉维夫大学结构工程学的学位之后作为交换生在波士顿大学进修了几个学期，毕业后便回国应征入伍，她的工程学历背景使她成为机械化维护与拆除任务的首要人选，她接受了为期两年的艰苦训练之后，ash进入了以色列空军的精英小队翠鸟突击队。</p><blockquote><p>“翠鸟”部队(Sayeret Shaldag，番号5101部队)是以色列空军最优秀的特种部队之一，其作战能力仅次于以色列参谋本部侦搜队和Shayetet 13。该部队经常被以色列国防军派往中东各地执行机密任务。在以国防军特种部队内部也把它称为特殊空地指示小队(希伯来语“T’zevet Simun KarkaAvir”简称“TSKA”)。该部队是最后一个被以色列公众所知晓的特种部队。在1994年一本招募特种部队队员的小册子中正式公布了该部队的名称和概况。该部队连同669部队和5707部队一起，接受位于帕尔马欣(Palmachim)空军基地的空军特种部队司令部(KAHAM)指挥</p></blockquote><p>在果园行动中ash表现优异，被fbi看中，被邀请与fbi军方合作交流，在这段时间里，ash利用她在工程学领域的知识和在结构抗力方面的天赋，制定先进的爆破战术，开发先进的爆破设备。然后捏？然后就加入fbi了？！只要铲子硬没有墙角挖不穿是吧！阿育这里就有点敷衍了吧。</p><p><img class="lazy" data-height="1600" src="https://imgheybox.max-c.com/web/2022/07/11/d1843ed5175b0740ed86f12ec13f3cd0/thumb.jpeg" data-width="2560" referrerpolicy="no-referrer"></p><h4 class="img-desc">祖母发射器</h4><p>上面所提到的先进的爆破设备就是这个看似普通的榴弹发射器，在cg中就可以看出其发射的榴弹破坏力惊人，这种特性得益于其爆破弹前端的钛合金钻头设计得像穿线的针一样，可以把导爆索插进表面，所以破坏范围才那么广。尽管负责评测这件装备的黑镜主管对于其设计精良十分赞叹。但她还是守住了一个傲娇的底线”Ash好像担心我会对它动手脚。她的装备我碰都不用碰一下，就能赢她。<span data-emoji="heygirl_偷看" class="hb-emoji"></span>”</p><p><img class="lazy" data-height="1081" src="https://imgheybox.max-c.com/web/2022/07/11/96d14a1bc2d77e12e5f0ee1500da4814/thumb.png" data-width="2560" referrerpolicy="no-referrer"></p><p>这只榴弹炮从出生到现在几乎一直在削弱</p><p>Y5S4：榴弹伤害由90下降到50，但数量从2增加到3，爆炸范围从3.5米到2米</p><p>榴弹的伤害机制：爆破弹如果击中人体会直接造成50点伤害并掉落，且掉落后不会引爆。击中干员盾牌不会对干员造成伤害，会弹飞且不会引爆</p><p>Y6S3：榴弹数量回调至2</p><h2>性格特点：</h2><p>Smoke与bandit认为Ash“过于严肃”，其他人则说她“盛气凌人”队友们的评价表现出ash并不是一个很好相处的人，但ash并非没有自知之明，她知道自己的性格不怎么讨人喜欢，就像她不在意她祖母对她的看法一样，她也不怎么在意队友们对她的看法，她觉得自己这样很好，她不需要队友喜欢她，她只需要确保她的队友尊重她，而她精密的行动计划，冷静高效的指挥能力也的确赢得了队员们的尊重。</p><p>ash很谨慎并不太愿意培养过多的亲密关系，但她与黑鼠鼠的关系十分要好，这份关系也对她十分重要，ash总是喜欢把责任揽到自己身上，在高压下她催促自己不断成长、学习，相应的她总是表现地十分暴躁，但与龙鳞板在一起时，她会被黑叔叔温顺的性格感染，变得平静下来，harry主管认为他们的关系不仅对ash个人、对这个团队也十分重要。</p><h2>补充：</h2><p>ash是彩虹六号最先设计的女性干员，只是设计组想要加入这么一个火箭筒的元素，从她平凡的背景和不太出彩的性格也可以看出，设计组当初并不打算让ash成为彩六主线中的重要的角色，但在上线后，ash因为其技能简单粗暴强度高，枪好头小还露脸，在玩家中很受欢迎，r6组见ash人气那么高就让她当个主角吧！设计组知道“无头怪”这个称号后还在游戏中加了彩蛋：干员Maestro在训练场的炸弹模式中有一句台词“How does anyone manage to shoot Ash? Her head is so small.<span data-emoji="cube_汗" class="hb-emoji"></span>”（怎么会有人尝试去射ash呢，她的头太小了！）</p><p><img class="lazy" data-height="400" src="https://imgheybox.max-c.com/web/2022/07/11/b2bc3c57cc3e7e418c6505f38100cfeb/thumb.png" data-width="720" referrerpolicy="no-referrer"></p><h4 class="img-desc">点个赞！r4c墨冰到你家！<span data-emoji="cube_喜欢" class="hb-emoji"></span></h4><p>上一期传送门：<a href="https://www.xiaoheihe.cn/community/5220/list/87023011" target="_blank">彩六干员故事 | MUTE</a></p>  
+</div>
+            
