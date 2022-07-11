@@ -14,7 +14,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 
 <div>   
 <blockquote><p>军棋和围棋象棋不一样，是信息不透明的游戏</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7b50a4e1e7245c57fc5e29a982c96792.jpg!custom" referrerpolicy="no-referrer"><p>军棋和围棋、象棋存在本质上的不同。军棋是一种信息不完全公开的博弈游戏。</p>
-<p>西洋陆军棋Stratego和国内留下的陆军棋有微小的差别：棋子更多且没有快速通行的铁路。</p>
+<p>西洋陆军棋Stratego和国内流行的陆军棋有微小的差别：棋子更多且没有快速通行的铁路。</p>
 <p>最近几年，Stratego 一直被认为是人工智能最有前途的热点之一。 游戏有两个主要挑战。</p>
 <p>1) Stratego 博弈树中有 10^535 个潜在状态。 </p>
 <p>2)本游戏中的每位玩家必须在游戏开始时考虑 10^66 种可能的部署。由于游戏结构的各种复杂配置，人工智能研究社区在这方面取得的进展微乎其微。</p>
