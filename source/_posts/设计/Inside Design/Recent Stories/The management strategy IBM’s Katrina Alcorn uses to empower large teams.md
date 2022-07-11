@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/katrina-alcorn-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-07-11 12:19:38
+date: 2022-07-11 13:45:13
 thumbnail: 'https://www.invisionapp.com/inside-design/katrina-alcorn-design-better-podcast/'
 ---
 
