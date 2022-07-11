@@ -50,7 +50,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220711/1657526784_8761
 <strong>游戏截图：</strong>
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220711/1657526731_873299.jpg" alt="《夜幕降临前》7月14日上线Steam 支持简中" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220711/1657527343_928581.jpg" alt="《夜幕降临前》7月14日上线Steam 支持简中" referrerpolicy="no-referrer">
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220711/1657526731_191519.jpg" alt="《夜幕降临前》7月14日上线Steam 支持简中" referrerpolicy="no-referrer">

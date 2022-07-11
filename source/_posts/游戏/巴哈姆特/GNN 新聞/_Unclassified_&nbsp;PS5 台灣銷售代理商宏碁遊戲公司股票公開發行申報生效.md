@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?v=1657523636082'
 author: 巴哈姆特
 comments: false
-date: 2022-07-11 08:13:57
+date: 2022-07-11 09:20:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?v=1657523636082'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 37.98%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?v=1657523636082" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 37.98%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?v=1657523636082" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/20/3780c15cb5c3c815ceebda668c1h6is5.
 <div>
  </div>
 <div>
-　　宏碁遊戲股份有限公司於 2020 年 7 月成立，根據公告指出，其為宏碁集團拓展遊戲及電競的品牌延伸，提供電腦及遊戲機娛樂軟硬體全方位產品與服務，旨在提供遊戲玩家線上線下完整的生活體驗。宏碁遊戲表示，自 2020 年取得 Sony PlayStation 5 遊戲主機軟硬體設備台灣銷售代理權後，在今年亦陸續取得羅技賽車模擬設備、ASTRO 遊戲耳機麥克風、SEGA 遊戲及日本遊戲周邊品牌 HORI 在台代理權，希望積極滿足玩家所需。</div>
+　　宏碁遊戲股份有限公司於 2020 年 7 月成立，根據公告指出，其為宏碁集團拓展遊戲及電競的品牌延伸，提供電腦及遊戲機娛樂軟硬體全方位產品與服務，旨在提供遊戲玩家線上線下完整的生活體驗。宏碁遊戲表示，自 2020 年取得 Sony PlayStation 5 遊戲主機軟硬體設備台灣銷售代理權後，在今年亦陸續取得羅技賽車模擬設備、ASTRO 遊戲耳機麥克風及日本遊戲周邊品牌 HORI 在台代理權，另也獲 SEGA 授權經銷遊戲 ，希望積極滿足玩家所需。</div>
 <div>
  </div>
 <ul>
