@@ -5,11 +5,11 @@ categories:
  - 设计
  - Axis Studios
  - Work type
-headimg: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_1_final.-full.jpg'
+headimg: 'https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_002.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-07-11 15:10:21
-thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_1_final.-full.jpg'
+date: 2022-07-12 00:53:04
+thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_002.-full.png'
 ---
 
 <div>   
@@ -108,7 +108,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_1_final.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_002.-full.png" alt referrerpolicy="no-referrer">
 
 
 
@@ -134,7 +134,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_2_final.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_010.-full.png" alt referrerpolicy="no-referrer">
 
 
 
@@ -160,7 +160,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_4_final.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_006.-full.png" alt referrerpolicy="no-referrer">
 
 
 
@@ -186,7 +186,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_5_final.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_011.-full.png" alt referrerpolicy="no-referrer">
 
 
 
@@ -212,7 +212,345 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
 
 
-<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstlookimage_6_final.-full.jpg" alt referrerpolicy="no-referrer">
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/love-death-and-robots-masons_rats.-full.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_007.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_008.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_001.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_009.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_005.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_003.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/axisstudios_masonsrats_004.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/mrats_rats_06.-full.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/mrats_rats_01.-full.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/mrats_characters_05.-full.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/ldr3_victorcalleja_tt16_12.-full.png" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/mrats_environments_03.-full.jpg" alt referrerpolicy="no-referrer">
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" src="https://axisstudiosgroup.com/site/assets/files/14628/farmhouseporch02.-full.jpg" alt referrerpolicy="no-referrer">
 
 
 
@@ -222,7 +560,11 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14628/ldr_v3_firstloo
 
     
                 
-                    <p>Volume 3, streaming now on Netflix.</p>
+                    <p>Welcome to the Ratpocalypse!  Mason’s Rats, directed by <a href="https://axisstudiosgroup.com/people/carlos-stevens/">Carlos Stevens</a> is Axis’ third episode for the Emmy award-winning series Love, Death and Robots.  LDR Vol 3 is the third series of animated shorts created by Tim Miller and David Fincher, showcasing the work of multiple animation studios.</p>
+
+<p>Mason’s Rats is based on the short story written by Neal Asher and adapted to the screen by Joe Abercrombie. Farmer Mason knows he has a real pest problem when they start shooting back. The grumpy farmer takes drastic steps to deal with the invasion of hyper-evolved rodents and over-the-top head-rolling bloodshed ensues. With the sweetly sentimental resolution which comes off as a pleasant surprise, the short encapsulates all the themes of love, death, and robots.</p>
+
+<p>As ever the team set out to create something unique, a style that complements the story and promotes dark humour in all of its glory. Creating stylised characters set against the straightforward, dry depiction of life on the farm with real real-world textures, gritty, high-fidelity render and rich lighting. Each character's personality was infused into the stylised body types with distinct angular features which gave the characters mature yet inherently comedic appearances that carries the tone. </p>
                 
             
           
