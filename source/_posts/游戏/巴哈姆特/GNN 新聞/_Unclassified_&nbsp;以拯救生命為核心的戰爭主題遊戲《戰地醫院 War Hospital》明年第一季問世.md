@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/48/557c43447187096ec2ea23cb711h6rw5.JPG?v=1657540402953'
 author: 巴哈姆特
 comments: false
-date: 2022-07-12 00:53:21
+date: 2022-07-12 03:21:13
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/557c43447187096ec2ea23cb711h6rw5.JPG?v=1657540402953'
 ---
 
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/557c43447187096ec2ea23cb711h6rw5.
 <div>
  </div>
 <div>
-　　玩家在遊戲中將掌管一家一戰時期的<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%86%AB%E9%99%A2" target="_blank">戰地醫院</a>，身為<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%86%AB%E9%99%A2" target="_blank">戰地醫院</a>指揮官，玩家的使命將是全力拯救戰爭受傷者，在砲彈爆炸聲中搭建設施來醫治他們。玩家將使用真實的一戰設備，記由醫療器械和一戰時期的醫療技術，來挑戰策略與道德的考驗。</div>
+　　玩家在遊戲中將掌管一家一戰時期的<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%86%AB%E9%99%A2" target="_blank">戰地醫院</a>，身為<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%B0%E9%86%AB%E9%99%A2" target="_blank">戰地醫院</a>指揮官，玩家的使命將是全力拯救戰爭受傷者，在砲彈爆炸聲中搭建設施來醫治他們。玩家將使用真實的一戰設備，藉由醫療器械和一戰時期的醫療技術，來挑戰策略與道德的考驗。</div>
 <div>
  </div>
 <div>

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/collaborative-iq-innovative-collaboration/'
 author: Inside Design
 comments: false
-date: 2022-07-12 00:52:59
+date: 2022-07-12 03:20:49
 thumbnail: 'https://www.invisionapp.com/inside-design/collaborative-iq-innovative-collaboration/'
 ---
 
