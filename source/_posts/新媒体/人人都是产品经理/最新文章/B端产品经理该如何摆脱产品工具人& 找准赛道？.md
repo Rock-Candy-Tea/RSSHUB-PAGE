@@ -30,7 +30,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/07/0FzevF2aRW8ahgW0p5i8.png'
 <p style="text-align: center"><strong>前100个报名的同学可免费听课！</strong></p>
 <p style="text-align: center"><strong>扫码立即获取 免费激活听课权限链接</strong></p>
 <p style="text-align: center">↓↓↓</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/zPGaEXuuPQy68qbSLYNp.png" alt width="265" height="265" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/0sshIm4WPknYvUIVOvB5.png" alt referrerpolicy="no-referrer"></p>
 <h2 id="toc-1">一、课程将由拥有13年互联网产品经验的前阿里产品专家主讲</h2>
 <p>@Martin老师</p>
 <p>前阿里产品专家，13年互联网产品经验</p>
@@ -70,7 +70,7 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/07/0FzevF2aRW8ahgW0p5i8.png'
 <p style="text-align: center"><strong>扫码添加顾问老师 抢占名额</strong></p>
 <p style="text-align: center"><strong>获取免费听课权限</strong></p>
 <p style="text-align: center">▼▼▼</p>
-<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/F59FL4PsKWwqJll5zr2Q.png" alt width="275" height="275" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/XbB9nUMtODwun1PIteEi.png" alt referrerpolicy="no-referrer"></p>
                           
 </div>
             
