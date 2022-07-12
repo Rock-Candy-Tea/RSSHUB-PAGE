@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=_NvRWIi1'
+headimg: 'https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=T890nVz4'
 author: Monotype
 comments: false
-date: Wed, 20 Apr 2022 00:59:47 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=_NvRWIi1'
+date: Invalid Date
+thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=T890nVz4'
 ---
 
 <div>   
@@ -255,7 +255,8 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
                 <div class="field__item">
         <h3>The Typefaces.  </h3>
 
-<ul><li>FF Attribute Text  </li>
+<ul>
+<li>FF Attribute Text  </li>
 <li>FF Casus  </li>
 <li>FF Nort  </li>
 <li>FF Unit  </li>
@@ -322,127 +323,52 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.webp?itok=_NvRWIi1 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-02_34_67.webp?itok=9eqkw-Uu 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-02_34_67.webp?itok=SXCokUjq 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=_NvRWIi1 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-02_34_67.jpg?itok=9eqkw-Uu 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-02_34_67.jpg?itok=SXCokUjq 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=_NvRWIi1" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.webp?itok=T890nVz4 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-02_34_67.webp?itok=62jd3wzI 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-02_34_67.webp?itok=mobdvtaF 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=T890nVz4 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-02_34_67.jpg?itok=62jd3wzI 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-02_34_67.jpg?itok=mobdvtaF 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-02_34_67.jpg?itok=T890nVz4" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.webp?itok=F2VABWpC 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-01_18_48.webp?itok=ibH-8T4f 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-01_18_48.webp?itok=o9lg6xwC 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.jpg?itok=F2VABWpC 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-01_18_48.jpg?itok=ibH-8T4f 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-01_18_48.jpg?itok=o9lg6xwC 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.jpg?itok=F2VABWpC" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.webp?itok=p1wRwQOf 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-01_18_48.webp?itok=_7Vhjy6g 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-01_18_48.webp?itok=-_R4L8sv 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.jpg?itok=p1wRwQOf 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-01_18_48.jpg?itok=_7Vhjy6g 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-01_18_48.jpg?itok=-_R4L8sv 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-01_18_48.jpg?itok=p1wRwQOf" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.webp?itok=YOHbha3j 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-16_0_27.webp?itok=Xs8hWeCd 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-16_0_27.webp?itok=Mtho8Wku 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.jpg?itok=YOHbha3j 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-16_0_27.jpg?itok=Xs8hWeCd 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-16_0_27.jpg?itok=Mtho8Wku 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.jpg?itok=YOHbha3j" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.webp?itok=411FEmOH 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-16_0_27.webp?itok=WF1XfzKE 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-16_0_27.webp?itok=bMEu-3Mg 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.jpg?itok=411FEmOH 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-16_0_27.jpg?itok=WF1XfzKE 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-16_0_27.jpg?itok=bMEu-3Mg 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-16_0_27.jpg?itok=411FEmOH" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.webp?itok=yFRc2KbJ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-09_14_72.webp?itok=vWlSKgwM 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-09_14_72.webp?itok=wVBj1tYg 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.jpg?itok=yFRc2KbJ 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-09_14_72.jpg?itok=vWlSKgwM 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-09_14_72.jpg?itok=wVBj1tYg 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.jpg?itok=yFRc2KbJ" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
-
-  </picture>
-
-                              </div>
-                      </div>
-        </div>
-        <div class="slider-nav slider field--name-field-description">
-                      <div>
-                           </div>
-                      <div>
-                           </div>
-                      <div>
-                           </div>
-                      <div>
-                           </div>
-                  </div>
-      
-      </div>
-
-
-
-            </div>
-                  <div class="field__item">
-        
-  <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
-                              <div id="mainSlider" class="font-carousel">
-          <div class="slider-gallery slider">
-                          <div>
-                                    <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.webp?itok=HsR7rbl5 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-10_98_38.webp?itok=AlgtCPZo 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-10_98_38.webp?itok=MEbrXHWV 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.jpg?itok=HsR7rbl5 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-10_98_38.jpg?itok=AlgtCPZo 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-10_98_38.jpg?itok=MEbrXHWV 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.jpg?itok=HsR7rbl5" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
-
-  </picture>
-
-                              </div>
-                          <div>
-                                    <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.webp?itok=WytERXkm 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-03_26_22.webp?itok=ItT_QtuI 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-03_26_22.webp?itok=y-j28ZgR 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.jpg?itok=WytERXkm 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-03_26_22.jpg?itok=ItT_QtuI 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-03_26_22.jpg?itok=y-j28ZgR 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.jpg?itok=WytERXkm" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
-
-  </picture>
-
-                              </div>
-                          <div>
-                                    <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.webp?itok=NSUGxf_X 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-05_95_8.webp?itok=KyeZAsca 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-05_95_8.webp?itok=AXrtT5Nh 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.jpg?itok=NSUGxf_X 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-05_95_8.jpg?itok=KyeZAsca 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-05_95_8.jpg?itok=AXrtT5Nh 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.jpg?itok=NSUGxf_X" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
-
-  </picture>
-
-                              </div>
-                          <div>
-                                    <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.webp?itok=Pxz2xQIo 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-04_31_63.webp?itok=Gjklff_R 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-04_31_63.webp?itok=1kHw4LXj 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.jpg?itok=Pxz2xQIo 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-04_31_63.jpg?itok=Gjklff_R 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-04_31_63.jpg?itok=1kHw4LXj 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.jpg?itok=Pxz2xQIo" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.webp?itok=aE9BwXTi 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-09_14_72.webp?itok=lX1YT_Ai 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-09_14_72.webp?itok=IJ4VNd9b 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.jpg?itok=aE9BwXTi 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-09_14_72.jpg?itok=lX1YT_Ai 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-09_14_72.jpg?itok=IJ4VNd9b 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-09_14_72.jpg?itok=aE9BwXTi" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -472,65 +398,140 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.webp?itok=PlpVCRqL 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-14_79_74.webp?itok=a8A-Ot6y 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-14_79_74.webp?itok=rfbv-48y 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.jpg?itok=PlpVCRqL 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-14_79_74.jpg?itok=a8A-Ot6y 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-14_79_74.jpg?itok=rfbv-48y 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.jpg?itok=PlpVCRqL" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.webp?itok=PBI3Qd9_ 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-10_98_38.webp?itok=2cmT1zJG 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-10_98_38.webp?itok=HK-MmO-w 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.jpg?itok=PBI3Qd9_ 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-10_98_38.jpg?itok=2cmT1zJG 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-10_98_38.jpg?itok=HK-MmO-w 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-10_98_38.jpg?itok=PBI3Qd9_" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.webp?itok=m-ly_4NU 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-13_8_90.webp?itok=r_rr-qDb 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-13_8_90.webp?itok=_eRsnGAy 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.jpg?itok=m-ly_4NU 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-13_8_90.jpg?itok=r_rr-qDb 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-13_8_90.jpg?itok=_eRsnGAy 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.jpg?itok=m-ly_4NU" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.webp?itok=dqLKNzX8 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-03_26_22.webp?itok=RkUV_rSZ 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-03_26_22.webp?itok=MTA6l13k 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.jpg?itok=dqLKNzX8 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-03_26_22.jpg?itok=RkUV_rSZ 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-03_26_22.jpg?itok=MTA6l13k 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-03_26_22.jpg?itok=dqLKNzX8" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.webp?itok=UGpvZJ7D 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-12_8_47.webp?itok=VRp4LLKe 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-12_8_47.webp?itok=8MX5dBy- 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.jpg?itok=UGpvZJ7D 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-12_8_47.jpg?itok=VRp4LLKe 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-12_8_47.jpg?itok=8MX5dBy- 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.jpg?itok=UGpvZJ7D" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.webp?itok=lPVKhMXc 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-05_95_8.webp?itok=_sZgg5Sj 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-05_95_8.webp?itok=4jltm5xz 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.jpg?itok=lPVKhMXc 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-05_95_8.jpg?itok=_sZgg5Sj 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-05_95_8.jpg?itok=4jltm5xz 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-05_95_8.jpg?itok=lPVKhMXc" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.webp?itok=ri1AN9LG 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-11_73_35.webp?itok=92LU7a9x 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-11_73_35.webp?itok=lqyhdn1h 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.jpg?itok=ri1AN9LG 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-11_73_35.jpg?itok=92LU7a9x 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-11_73_35.jpg?itok=lqyhdn1h 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.jpg?itok=ri1AN9LG" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.webp?itok=HsZkUGGP 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-04_31_63.webp?itok=g6QrmOC0 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-04_31_63.webp?itok=M57IbWaA 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.jpg?itok=HsZkUGGP 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-04_31_63.jpg?itok=g6QrmOC0 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-04_31_63.jpg?itok=M57IbWaA 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-04_31_63.jpg?itok=HsZkUGGP" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+
+  </picture>
+
+                              </div>
+                      </div>
+        </div>
+        <div class="slider-nav slider field--name-field-description">
+                      <div>
+                           </div>
+                      <div>
+                           </div>
+                      <div>
+                           </div>
+                      <div>
+                           </div>
+                  </div>
+      
+      </div>
+
+
+
+            </div>
+                  <div class="field__item">
+        
+  <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
+                              <div id="mainSlider" class="font-carousel">
+          <div class="slider-gallery slider">
+                          <div>
+                                    <picture>
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.webp?itok=WenUIaCI 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-14_79_74.webp?itok=JPXlLlze 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-14_79_74.webp?itok=Qv2NfTDD 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.jpg?itok=WenUIaCI 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-14_79_74.jpg?itok=JPXlLlze 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-14_79_74.jpg?itok=Qv2NfTDD 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-14_79_74.jpg?itok=WenUIaCI" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.webp?itok=6ud6ioC4 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-06_49_85.webp?itok=EIjo03Zw 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-06_49_85.webp?itok=QHqJHyn8 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.jpg?itok=6ud6ioC4 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-06_49_85.jpg?itok=EIjo03Zw 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-06_49_85.jpg?itok=QHqJHyn8 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.jpg?itok=6ud6ioC4" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.webp?itok=lKOsE0dU 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-13_8_90.webp?itok=RbYADMsV 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-13_8_90.webp?itok=hRM5Mjh0 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.jpg?itok=lKOsE0dU 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-13_8_90.jpg?itok=RbYADMsV 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-13_8_90.jpg?itok=hRM5Mjh0 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-13_8_90.jpg?itok=lKOsE0dU" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+
+  </picture>
+
+                              </div>
+                          <div>
+                                    <picture>
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.webp?itok=hcB-knxS 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-12_8_47.webp?itok=pNakqWyO 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-12_8_47.webp?itok=4HMRmlzV 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.jpg?itok=hcB-knxS 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-12_8_47.jpg?itok=pNakqWyO 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-12_8_47.jpg?itok=4HMRmlzV 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-12_8_47.jpg?itok=hcB-knxS" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+
+  </picture>
+
+                              </div>
+                          <div>
+                                    <picture>
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.webp?itok=RzpubxIL 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-11_73_35.webp?itok=NMbhD7FA 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-11_73_35.webp?itok=tyVa0Yt7 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.jpg?itok=RzpubxIL 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-11_73_35.jpg?itok=NMbhD7FA 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-11_73_35.jpg?itok=tyVa0Yt7 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-11_73_35.jpg?itok=RzpubxIL" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+
+  </picture>
+
+                              </div>
+                          <div>
+                                    <picture>
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.webp?itok=N7xsYgV6 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-06_49_85.webp?itok=xPbAL5vE 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-06_49_85.webp?itok=mdad0CMh 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.jpg?itok=N7xsYgV6 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-06_49_85.jpg?itok=xPbAL5vE 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-06_49_85.jpg?itok=mdad0CMh 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-06_49_85.jpg?itok=N7xsYgV6" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -562,65 +563,65 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_910/publi
           <div class="slider-gallery slider">
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=A7fSd8ok 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-18.gif?itok=wCF6DqXp 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-18.gif?itok=kUoYG-hp 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=A7fSd8ok 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-18.gif?itok=wCF6DqXp 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-18.gif?itok=kUoYG-hp 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=A7fSd8ok" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=qx_olEZy 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-18.gif?itok=_vR4kAYL 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-18.gif?itok=GahKp1qH 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=qx_olEZy 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-18.gif?itok=_vR4kAYL 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-18.gif?itok=GahKp1qH 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-18.gif?itok=qx_olEZy" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.webp?itok=1KOQOFRq 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-17_68_26.webp?itok=QDM9x8A0 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-17_68_26.webp?itok=bABCNz5c 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.jpg?itok=1KOQOFRq 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-17_68_26.jpg?itok=QDM9x8A0 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-17_68_26.jpg?itok=bABCNz5c 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.jpg?itok=1KOQOFRq" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.webp?itok=l-SthNAz 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-17_68_26.webp?itok=xME66g_t 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-17_68_26.webp?itok=VPagWUN_ 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.jpg?itok=l-SthNAz 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-17_68_26.jpg?itok=xME66g_t 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-17_68_26.jpg?itok=VPagWUN_ 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-17_68_26.jpg?itok=l-SthNAz" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.webp?itok=VN_06JQJ 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-08_88_95.webp?itok=MH-tNnBI 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-08_88_95.webp?itok=wCyJbRlz 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.jpg?itok=VN_06JQJ 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-08_88_95.jpg?itok=MH-tNnBI 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-08_88_95.jpg?itok=wCyJbRlz 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.jpg?itok=VN_06JQJ" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.webp?itok=U-8XFd_p 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-08_88_95.webp?itok=U81-Xzp_ 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-08_88_95.webp?itok=d-DF230g 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.jpg?itok=U-8XFd_p 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-08_88_95.jpg?itok=U81-Xzp_ 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-08_88_95.jpg?itok=d-DF230g 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-08_88_95.jpg?itok=U-8XFd_p" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.webp?itok=_6Na5wNM 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-07_70_67.webp?itok=gT1iLkCz 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-07_70_67.webp?itok=e84bex01 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.jpg?itok=_6Na5wNM 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-07_70_67.jpg?itok=gT1iLkCz 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-07_70_67.jpg?itok=e84bex01 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.jpg?itok=_6Na5wNM" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.webp?itok=Qqz2Dpr5 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-07_70_67.webp?itok=WxkOxlm- 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-07_70_67.webp?itok=ETkBD_eT 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.jpg?itok=Qqz2Dpr5 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-07_70_67.jpg?itok=WxkOxlm- 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-07_70_67.jpg?itok=ETkBD_eT 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-07_70_67.jpg?itok=Qqz2Dpr5" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
                               </div>
                           <div>
                                     <picture>
-                  <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.webp?itok=bSr1H4tp 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-15_44_21.webp?itok=2iMouyb1 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-15_44_21.webp?itok=24dOaJiU 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.jpg?itok=bSr1H4tp 1x" media="all and (min-width: 768px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-04/LSAD_selection-15_44_21.jpg?itok=2iMouyb1 1x" media="all and (min-width: 450px)" type="image/jpeg">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-04/LSAD_selection-15_44_21.jpg?itok=24dOaJiU 1x" media="all and (min-width: 320px)" type="image/jpeg">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.jpg?itok=bSr1H4tp" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.webp?itok=7ed_q0GT 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-15_44_21.webp?itok=vxGx-l4w 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-15_44_21.webp?itok=6Q5ay3UW 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.jpg?itok=7ed_q0GT 1x" media="all and (min-width: 768px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-04/LSAD_selection-15_44_21.jpg?itok=vxGx-l4w 1x" media="all and (min-width: 450px)" type="image/jpeg">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-04/LSAD_selection-15_44_21.jpg?itok=6Q5ay3UW 1x" media="all and (min-width: 320px)" type="image/jpeg">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_910/public/2022-04/LSAD_selection-15_44_21.jpg?itok=7ed_q0GT" alt title typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

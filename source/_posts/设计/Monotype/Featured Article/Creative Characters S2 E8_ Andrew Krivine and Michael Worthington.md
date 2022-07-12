@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart_198.png?itok=sXX0nLkK'
+headimg: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart_198.png?itok=6rjWQ5qI'
 author: Monotype
 comments: false
-date: Wed, 29 Jun 2022 04:21:36 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart_198.png?itok=sXX0nLkK'
+date: Invalid Date
+thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart_198.png?itok=6rjWQ5qI'
 ---
 
 <div>   
@@ -221,13 +221,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart_198.webp?itok=sXX0nLkK 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart_198.webp?itok=d8o-WNrT 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart_198.webp?itok=z0Din8Lo 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart_198.png?itok=sXX0nLkK 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart_198.png?itok=d8o-WNrT 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart_198.png?itok=z0Din8Lo 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart_198.png?itok=sXX0nLkK" alt="Joe Strummer Poster " typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart_198.webp?itok=6rjWQ5qI 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart_198.webp?itok=Q19czK1W 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart_198.webp?itok=RPUf-2lV 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart_198.png?itok=6rjWQ5qI 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart_198.png?itok=Q19czK1W 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart_198.png?itok=RPUf-2lV 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart_198.png?itok=6rjWQ5qI" alt="Joe Strummer Poster " typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -274,13 +274,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart2_196.webp?itok=_iUqsy8e 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart2_196.webp?itok=igc60lgv 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart2_196.webp?itok=1QzBRdx9 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart2_196.png?itok=_iUqsy8e 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart2_196.png?itok=igc60lgv 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart2_196.png?itok=1QzBRdx9 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart2_196.png?itok=_iUqsy8e" alt="Torn Apart 2" typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart2_196.webp?itok=ZFcDgl4B 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart2_196.webp?itok=iFMSlv6R 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart2_196.webp?itok=0UcdEEHq 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart2_196.png?itok=ZFcDgl4B 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart2_196.png?itok=iFMSlv6R 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart2_196.png?itok=0UcdEEHq 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart2_196.png?itok=ZFcDgl4B" alt="Torn Apart 2" typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -327,13 +327,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart3_191.webp?itok=v9i1kIMR 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart3_191.webp?itok=w5qBNsYx 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart3_191.webp?itok=jV69SwMF 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart3_191.png?itok=v9i1kIMR 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart3_191.png?itok=w5qBNsYx 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart3_191.png?itok=jV69SwMF 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart3_191.png?itok=v9i1kIMR" alt="Torn Apart Posters 3" typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart3_191.webp?itok=jwMPPskt 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart3_191.webp?itok=e6pvGm5G 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart3_191.webp?itok=Bj3Pq7lJ 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart3_191.png?itok=jwMPPskt 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart3_191.png?itok=e6pvGm5G 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart3_191.png?itok=Bj3Pq7lJ 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart3_191.png?itok=jwMPPskt" alt="Torn Apart Posters 3" typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -382,13 +382,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart4_199.webp?itok=BlF1SFye 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart4_199.webp?itok=9REWp0dV 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart4_199.webp?itok=a_F2qAmo 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2022-06/TornApart4_199.png?itok=BlF1SFye 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2022-06/TornApart4_199.png?itok=9REWp0dV 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2022-06/TornApart4_199.png?itok=a_F2qAmo 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2022-06/TornApart4_199.png?itok=BlF1SFye" alt="Torn Apart Posters 4" typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart4_199.webp?itok=1WgHVf9S 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart4_199.webp?itok=Hu32KDH2 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart4_199.webp?itok=G04ZftAy 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart4_199.png?itok=1WgHVf9S 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart4_199.png?itok=Hu32KDH2 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart4_199.png?itok=G04ZftAy 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2022-06/TornApart4_199.png?itok=1WgHVf9S" alt="Torn Apart Posters 4" typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

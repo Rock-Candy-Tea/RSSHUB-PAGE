@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=XVD7D28u'
+headimg: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r'
 author: Monotype
 comments: false
-date: Tue, 05 May 2020 12:47:23 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=XVD7D28u'
+date: Invalid Date
+thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r'
 ---
 
 <div>   
@@ -216,13 +216,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=XVD7D28u 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=8t0oQmE_ 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=bV-W3eMs 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=XVD7D28u 1x" media="all and (min-width: 768px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=8t0oQmE_ 1x" media="all and (min-width: 450px)" type="image/gif">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=bV-W3eMs 1x" media="all and (min-width: 320px)" type="image/gif">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=XVD7D28u" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=smn56V7s 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=DTWWs_t3 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r 1x" media="all and (min-width: 768px)" type="image/gif">
+              <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=smn56V7s 1x" media="all and (min-width: 450px)" type="image/gif">
+              <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=DTWWs_t3 1x" media="all and (min-width: 320px)" type="image/gif">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -263,13 +263,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=0sx8eHJd 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=cckQNpWV 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=qWi9N-VC 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=0sx8eHJd 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=cckQNpWV 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=qWi9N-VC 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=0sx8eHJd" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=MVu7RoVM 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=XiC7ywPr 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=XAD8gq-a 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=MVu7RoVM 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=XiC7ywPr 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=XAD8gq-a 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.png?itok=MVu7RoVM" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 

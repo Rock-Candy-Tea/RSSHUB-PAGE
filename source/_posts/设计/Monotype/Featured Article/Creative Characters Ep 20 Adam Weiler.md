@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH'
+headimg: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=s4fPeVnd'
 author: Monotype
 comments: false
-date: Mon, 06 Dec 2021 23:48:34 GMT
-thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH'
+date: Invalid Date
+thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=s4fPeVnd'
 ---
 
 <div>   
@@ -232,13 +232,13 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
           <div class="field field--name-image field--type-image field--label-hidden field__items">
                 <div class="field__item">
             <picture>
-                  <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.webp?itok=NgRpKTvH 1x" media="all and (min-width: 768px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.webp?itok=6i8-h70n 1x" media="all and (min-width: 450px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.webp?itok=ooR-U5Kt 1x" media="all and (min-width: 320px)" type="image/webp">
-              <source srcset="/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH 1x" media="all and (min-width: 768px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/720x360/public/2021-12/Artboard%204_168_125.png?itok=6i8-h70n 1x" media="all and (min-width: 450px)" type="image/png">
-              <source srcset="/sites/monotype/files/styles/450x225/public/2021-12/Artboard%204_168_125.png?itok=ooR-U5Kt 1x" media="all and (min-width: 320px)" type="image/png">
-                  <img src="https://www.monotype.com/sites/monotype/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=NgRpKTvH" alt typeof="foaf:Image" referrerpolicy="no-referrer">
+                  <source srcset="/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.webp?itok=s4fPeVnd 1x" media="all and (min-width: 768px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/720x360/public/2021-12/Artboard%204_168_125.webp?itok=SsZ8v1qa 1x" media="all and (min-width: 450px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/450x225/public/2021-12/Artboard%204_168_125.webp?itok=XZuYTryx 1x" media="all and (min-width: 320px)" type="image/webp">
+              <source srcset="/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=s4fPeVnd 1x" media="all and (min-width: 768px)" type="image/png">
+              <source srcset="/sites/default/files/styles/720x360/public/2021-12/Artboard%204_168_125.png?itok=SsZ8v1qa 1x" media="all and (min-width: 450px)" type="image/png">
+              <source srcset="/sites/default/files/styles/450x225/public/2021-12/Artboard%204_168_125.png?itok=XZuYTryx 1x" media="all and (min-width: 320px)" type="image/png">
+                  <img src="https://www.monotype.com/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.png?itok=s4fPeVnd" alt typeof="foaf:Image" referrerpolicy="no-referrer">
 
   </picture>
 
@@ -263,7 +263,8 @@ thumbnail: 'https://www.monotype.com/sites/monotype/files/styles/width_810/publi
 
 <p><span><span><span>While the internet has clearly opened worlds and transformed access to opportunities, the two discuss the flip side as well, which is the overwhelming mass of information flooding our eyeballs on a day-to-day basis. </span></span></span></p>
 
-<p><span><span><span>“There’s the potential for the Internet to be this beautiful, vibrant thing that connects and helps build communal health in a really great way. And the flip side of that is it also has the potential to be disconnecting and disassociating of our body or our experience or our geographies.</span> <span>The internet is weirdly both an empathy machine and an apathy machine.”<br><br>
+<p><span><span><span>“There’s the potential for the Internet to be this beautiful, vibrant thing that connects and helps build communal health in a really great way. And the flip side of that is it also has the potential to be disconnecting and disassociating of our body or our experience or our geographies.</span> <span>The internet is weirdly both an empathy machine and an apathy machine.”<br>
+<br>
 As a long-time design thinking coach,</span><span> Weiler has a wealth of experience community building, running strategy for social services and using empathy and curiosity as the foundation for creative problem-solving. </span></span></span></p>
             </div>
           </div>

@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=9167'
+headimg: 'https://picsum.photos/400/300?random=3583'
 author: Monotype
 comments: false
-date: Wed, 03 Feb 2021 10:52:05 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9167'
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=3583'
 ---
 
 <div>   
@@ -292,7 +292,10 @@ thumbnail: 'https://picsum.photos/400/300?random=9167'
                 <div class="field__item">
         <p><em>Phil Garnham is Senior Creative Type Director at Monotype and a type designer with many years of experience in the design and engineering of fonts for global brands. Working in collaboration with design studios and global clients, Phil understands the creative and business needs of brands looking to build continuity with type.</em></p>
 
-<p><strong>Credits</strong><br><em>Brand Identity:</em><strong> </strong>Jones Knowles Ritchie<br><em>Logotype Refinement:</em><strong> </strong>Miles Newlyn<br><em>Custom Type: </em>Colophon</p>
+<p><strong>Credits</strong><br>
+<em>Brand Identity:</em><strong> </strong>Jones Knowles Ritchie<br>
+<em>Logotype Refinement:</em><strong> </strong>Miles Newlyn<br>
+<em>Custom Type: </em>Colophon</p>
             </div>
           </div>
 

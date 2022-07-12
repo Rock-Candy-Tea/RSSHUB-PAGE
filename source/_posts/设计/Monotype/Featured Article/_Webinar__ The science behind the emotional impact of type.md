@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=4785'
+headimg: 'https://picsum.photos/400/300?random=9184'
 author: Monotype
 comments: false
-date: Thu, 26 May 2022 14:39:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4785'
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=9184'
 ---
 
 <div>   
@@ -177,7 +177,8 @@ thumbnail: 'https://picsum.photos/400/300?random=4785'
                 <div class="field__item">
         <p><span><span><span><span><span><span>Monotype partnered with applied neuroscience company Neurons to put our deepest held beliefs to the test to discover if different typefaces really do affect our emotional state. Watch our webinar to hear about the research and learn:</span></span></span></span></span></span></p>
 
-<ul><li>
+<ul>
+<li>
 <p>how fonts drive experiences, associations and feelings</p>
 </li>
 <li>
