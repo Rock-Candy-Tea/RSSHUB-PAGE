@@ -1,0 +1,18 @@
+
+---
+title: '【菜鸟游报】R星要超越玩家对GTA6的预期，《梦三国2》即将登陆Steam'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/07/11/11a36c3274f2196c67af710e5f00684b/thumb.png'
+author: 小黑盒
+comments: false
+date: Tue, 12 Jul 2022 02:01:10 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/07/11/11a36c3274f2196c67af710e5f00684b/thumb.png'
+---
+
+<div>   
+<h2>菜鸟游报：全网最菜的新闻评论节目。</h2><p>本人将以不专业、不客观的方式和大家聊聊游戏届最近发生的新闻，并聊聊自己的看法。喜欢的小伙伴可以点个关注！</p><p>在小黑盒加速器中输入会员兑换码XZT1050，即可得三天加速时长。<br></p><p><img class="lazy" data-height="383" src="https://imgheybox.max-c.com/bbs/2022/07/11/11a36c3274f2196c67af710e5f00684b/thumb.png" data-width="900" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://imgheybox.max-c.com/bbs/2022/07/11/9d0f872bc7a64b346c86979f4ff312a0.gif" data-width="1080" referrerpolicy="no-referrer"></p><h2>一、R星明白GTA6需要超越玩家的预期</h2><p>R星表示他们“比以往任何时候都更明白”《GTA6》需要超越玩家的预期。</p><p>“在过去的几年里，我们一直在稳步地将更多的开发资源用于《GTA》系列的下一部作品，比以往任何时候都更明白需要超越玩家的期望，并希望它成为尽可能最好的作品。”</p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2022/07/11/d0f20bba90bddd611fa7c477e24ed666/thumb.png" data-width="1280" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://imgheybox.max-c.com/bbs/2022/07/11/a154061c5d3b0fd10c1f27a71fdcece1.gif" data-width="1080" referrerpolicy="no-referrer"></p><h2>二、索尼SIE宣布正式完成对Haven工作室的收购！</h2><p>索尼SIE宣布正式完成对Haven工作室的收购！成为PlayStation大家庭的一员。目前Haven工作室正在为PS5与PC打造一款“能够长线运营，具备扩展性”的线上游戏。</p><p><img class="lazy" data-height="589" src="https://imgheybox.max-c.com/bbs/2022/07/11/f2fd96cd9aace510f75f03ef921f805f/thumb.png" data-width="1129" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://imgheybox.max-c.com/bbs/2022/07/11/cc0ca3b757cbab322c0443ce1dcbf2bd.gif" data-width="1080" referrerpolicy="no-referrer"></p><h2>三、腾讯发布暑期未成年人限玩日历</h2><p>今日，腾讯游戏正式公开了《2022年暑假期间未成年人限玩日历》，在2022年暑假7月-8月期间仅可在周五、六、日的晚上20-21点游玩。</p><p><img class="lazy" data-height="1410" src="https://imgheybox.max-c.com/bbs/2022/07/11/3f2145a77a7e05bc0402f65f84675587/thumb.png" data-width="1126" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://imgheybox.max-c.com/bbs/2022/07/11/65b48991a009ccee13979f107d90d0ba.gif" data-width="1080" referrerpolicy="no-referrer"></p><h2>四、《塞尔达传说 旷野之息》林克配音高梨谦吾宣布结婚</h2><p>《塞尔达传说 旷野之息》林克的配音演员高梨谦吾今日宣布，与同为声优的有贺友利惠结婚，他曾为多款任天堂游戏中出现的“旷野之息”林克进行过配音。<br></p><p><img class="lazy" data-height="620" src="https://imgheybox.max-c.com/bbs/2022/07/11/ec69de45aefa6601c20f33427c8deb63/thumb.png" data-width="1129" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="826" src="https://imgheybox.max-c.com/bbs/2022/07/11/6fd54b16539f7906747240207d4e74b8/thumb.png" data-width="1129" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="200" src="https://imgheybox.max-c.com/bbs/2022/07/11/02a3088911b81c06c5e06af9ec89c9b5.gif" data-width="1080" referrerpolicy="no-referrer"></p><h2>五、《梦三国2》登陆Steam</h2><p>战略网游《梦三国2》上架Steam平台，上线时间尚未公布。另外本游戏也已经正式入选杭州亚运会电竞比赛项目。</p><p><img class="lazy" data-height="532" src="https://imgheybox.max-c.com/bbs/2022/07/11/299d4911ae6f6a1eb72466b7c67f92f4/thumb.png" data-width="1129" referrerpolicy="no-referrer"></p><p>在梦三国游戏中玩家选择不同的三国英雄，参与各种PVP的竞技场的挑战或三国背景的PVE副本，通过团队、国家的配合以及个人的操作意识来击败对手，取得最终胜利。 梦三国2世界里，诸位三国名将的命运，历史如何演变，这一切将由玩家来亲身体验和作出抉择。<br></p><p><img class="lazy" data-height="637" src="https://imgheybox.max-c.com/bbs/2022/07/11/e8de423c44cd2a6f0618374993605c0e/thumb.png" data-width="1129" referrerpolicy="no-referrer"></p>  
+</div>
+            

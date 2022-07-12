@@ -13,7 +13,7 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/07/q297Uo4qACuGhWw80fo7.jpg'
 ---
 
 <div>   
-<blockquote><p>编辑导语：随着用户对简洁页面的需求越来愈大，大厂应用们也开始逐渐进行“瘦身”管理，比如近来支付宝便支持用户管理编辑APP首页栏目。除了前面说的用户需求，为什么APP们逐渐走向“瘦身”》不妨来看看作者的解读。</p></blockquote>
+<blockquote><p>编辑导语：随着用户对简洁页面的需求越来愈大，大厂应用们也开始逐渐进行“瘦身”管理，比如近来支付宝便支持用户管理编辑APP首页栏目。除了前面说的用户需求，为什么APP们逐渐走向“瘦身”？不妨来看看作者的解读。</p></blockquote>
 <p><img data-action="zoom" class="size-full wp-image-5522113 aligncenter" src="https://image.woshipm.com/wp-files/2022/07/q297Uo4qACuGhWw80fo7.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p>此前，支付宝一度希望摆脱自己作为“支付工具”的定位，并且在诸如社交、内容等领域的不断尝试，可谓是屡败屡战、屡战屡败。事实上就在不久前，支付宝APP的首页还保持着下滑“根本拉不到底”的状态，连续滑动后还能看到“支付宝地下室”等功能。</p>
 <p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="支付宝再次“出手”，超级APP都开始“瘦身”了？" src="https://image.woshipm.com/wp-files/2022/07/GDaOar5X99sFcHUc09RU.jpeg" alt="支付宝再次“出手”，超级APP都开始“瘦身”了？" referrerpolicy="no-referrer"></p>
