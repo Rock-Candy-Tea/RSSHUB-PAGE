@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/203bfa6a951dc657ca4702c8511h7565.JPG?v=1657594665693'
 author: 巴哈姆特
 comments: false
-date: 2022-07-12 05:34:10
+date: 2022-07-12 06:13:18
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/203bfa6a951dc657ca4702c8511h7565.JPG?v=1657594665693'
 ---
 
@@ -53,7 +53,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/203bfa6a951dc657ca4702c8511h7565.
 <div>
  </div>
 <div>
-　　本作改編自 Netflix 首部韓國自製劇，由朱智勛、柳承龍及裴斗娜主演的《屍戰朝鮮》是一部懸疑驚悚劇，劇情設定在 16 世紀末壬辰倭亂數年後的朝鮮王朝，王世子李蒼想見臥病在床十多天的父王，卻一直被宮人阻撓，直覺宮中有不可告人秘密。為追尋真相，李蒼微服暗訪醫治其父王的醫員，卻發現一場恐怖瘟疫正全國擴散，染疫的人會死而復活，變得非常嗜血及人肉，整個朝鮮正陷入一場滅亡危機。</div>
+　　本作改編自 Netflix 首部韓國自製劇，由朱智勛、柳承龍及裴斗娜主演的《屍戰朝鮮》是一部懸疑驚悚劇，劇情設定在 16 世紀末壬辰倭亂數年後的朝鮮王朝，故事描述關於國王染疾的各種奇怪謠言四起，同時間神秘瘟疫席捲朝鮮，而王世子成為抵禦疫病的唯一希望。。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="23158" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
