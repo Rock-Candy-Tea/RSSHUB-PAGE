@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-910a330c702bcede62e6ad78526d2e3
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:center"><img src="https://oscimg.oschina.net/oscnet/up-910a330c702bcede62e6ad78526d2e34276.png" referrerpolicy="no-referrer"></p> 
+                                                                    
+                                                        <p style="text-align:center"><img src="https://oscimg.oschina.net/oscnet/up-910a330c702bcede62e6ad78526d2e34276.png" referrerpolicy="no-referrer"></p> 
 <div style="text-align:left"> 
  <p style="margin-left:0; margin-right:0; text-align:center"><strong><span>值得信赖</span></strong></p> 
  <p style="margin-left:0; margin-right:0; text-align:center"><img alt height="545" src="https://oscimg.oschina.net/oscnet/up-9782877bbfdcfcc1beeaac4bd5a259a8de6.png" width="860" referrerpolicy="no-referrer"></p> 

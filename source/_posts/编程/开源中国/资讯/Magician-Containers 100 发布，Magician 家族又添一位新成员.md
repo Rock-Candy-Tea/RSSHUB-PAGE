@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3255'
+headimg: 'https://picsum.photos/400/300?random=7494'
 author: 开源中国
 comments: false
 date: Wed, 13 Jul 2022 10:54:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3255'
+thumbnail: 'https://picsum.photos/400/300?random=7494'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>最近在使用Magician开发项目的过程中，发现了一些问题，有时候想对某些方法做监听，或者 想启动一个定时任务做轮询，会比较麻烦一点，因为Magician暂时没有对应的解决方案，但是 我又不想在现有的Magician里添加功能，因为这样会让项目变得越来越大，最后逐渐变成一个大胖子，失去灵活性，开发者在使用的时候，不管需不需要的功能 都会被一股脑的引入到项目中，这是我无法接受的。 而且也违背了Magician一开始的初衷，所以最后我们决定以一个新组建的形式来发布。 把用不用的权利交给用户。</p> 
+                                                                    
+                                                        <p>最近在使用Magician开发项目的过程中，发现了一些问题，有时候想对某些方法做监听，或者 想启动一个定时任务做轮询，会比较麻烦一点，因为Magician暂时没有对应的解决方案，但是 我又不想在现有的Magician里添加功能，因为这样会让项目变得越来越大，最后逐渐变成一个大胖子，失去灵活性，开发者在使用的时候，不管需不需要的功能 都会被一股脑的引入到项目中，这是我无法接受的。 而且也违背了Magician一开始的初衷，所以最后我们决定以一个新组建的形式来发布。 把用不用的权利交给用户。</p> 
 <h2>Magician-Containers 带来了什么</h2> 
 <ol> 
  <li>Bean管理（没有IOC，只是为了在bean上面绑定功能，解决一些麻烦）</li> 

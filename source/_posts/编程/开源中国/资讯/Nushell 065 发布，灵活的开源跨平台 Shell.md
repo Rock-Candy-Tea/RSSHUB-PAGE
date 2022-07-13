@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3480'
+headimg: 'https://picsum.photos/400/300?random=4791'
 author: 开源中国
 comments: false
 date: Wed, 13 Jul 2022 07:14:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3480'
+thumbnail: 'https://picsum.photos/400/300?random=4791'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p>Nushell，简称 Nu，是一个新的 shell，它对你的命令行采取了一种现代的、结构化的方法。它与你的文件系统、操作系统和越来越多的文件格式的数据无缝衔接。</p> 
+                                                                    
+                                                        <p>Nushell，简称 Nu，是一个新的 shell，它对你的命令行采取了一种现代的、结构化的方法。它与你的文件系统、操作系统和越来越多的文件格式的数据无缝衔接。</p> 
 <p>近日 Nu 0.65 版本正式发布，这个版本包括对二进制数据的更好支持，检查源文件正确性的新方法，改进的命令统一性等内容。</p> 
 <h3>更好地支持二进制数据(hustcer、jt、CBenoit)</h3> 
 <p>Nushell 的二进制支持一直在稳步提高，在这个版本中，它得到了更进一步的改善，新的功能包括：</p> 

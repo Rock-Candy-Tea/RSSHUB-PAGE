@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-be2fb3dc03a9b3ac3112ef0a30ba6a9
 
 <div>   
 <div class="content">
-                                                                                            <p style="text-align:center"><img height="383" src="https://oscimg.oschina.net/oscnet/up-be2fb3dc03a9b3ac3112ef0a30ba6a95751.png" width="900" referrerpolicy="no-referrer"></p> 
+                                                                    
+                                                        <p style="text-align:center"><img height="383" src="https://oscimg.oschina.net/oscnet/up-be2fb3dc03a9b3ac3112ef0a30ba6a95751.png" width="900" referrerpolicy="no-referrer"></p> 
 <p style="margin-left:0; margin-right:0"><span><strong>版本发布</strong></span><span style="background-color:#5f91b7"> 2022/7/12 </span></p> 
 <blockquote> 
  <p style="margin-left:0; margin-right:0"><span>近日，Apache Dolphin Scheduler 迎来了 2.0.6 版本发布。新版本对依赖和任务分布功能进行了重要改动，并针对 2.0.5 进行了 bug 修复，具体更新详见下文。</span></p> 

@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-d45a598afc978d43da7fca634a2c65f
 
 <div>   
 <div class="content">
-                                                                                            <h2>Vue2 Opitons api to Vue 3 Composition api</h2> 
+                                                                    
+                                                        <h2>Vue2 Opitons api to Vue 3 Composition api</h2> 
 <h2><img alt src="https://oscimg.oschina.net/oscnet/up-d45a598afc978d43da7fca634a2c65f7ec4.png" referrerpolicy="no-referrer"></h2> 
 <h2>在线使用</h2> 
 <p><strong>网站</strong></p> 

@@ -14,7 +14,8 @@ thumbnail: 'https://img-blog.csdnimg.cn/img_convert/8e4ff033bcaf9df466a9e8308b94
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">以匠心持续更新，</p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">以匠心持续更新，</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">以至诚优化不停。</p> 
 <h2 style="margin-left:0; margin-right:0; text-align:left">国产开源数据可视化 datart</h2> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left">datart （数艺）是面向业务人员、数据工程师、数据分析师、数据科学家，致力于提供一站式数据可视化解决方案。既可以作为公 有云 / 私有云部署使用，也可作为可视化插件集成到三方系统。用户只需在可视化 UI 上简单配置即可服务多种数据可视化应 用，并支持高级交互 / 行业分析 / 模式探索 / 社交智能等可视化功能。</p> 

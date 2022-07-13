@@ -5,16 +5,17 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2613'
+headimg: 'https://picsum.photos/400/300?random=9327'
 author: 开源中国
 comments: false
 date: Wed, 13 Jul 2022 07:19:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2613'
+thumbnail: 'https://picsum.photos/400/300?random=9327'
 ---
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Python 3.11.0 第四个 Beta 版本<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdiscuss.python.org%2Ft%2Fthe-cursed-release-of-python-3-11-0b4-is-now-available%2F17274" target="_blank">已发布</a>。按照此前的发布日程，Beta4 原本是 Beta 阶段的最后一个版本，但目前计划出现了变动，开发团队表示还需要再发布 Beta5，<span style="color:#333333">目标是在 Beta5 之后没有 ABI 更改，并且在第一个候选版本 3.11.0rc1 之后尽可能少地更改代码。为实现这一目标，在 Beta 阶段尽可能多地进行测试非常重要</span><strong>。</strong></p> 
+                                                                    
+                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">Python 3.11.0 第四个 Beta 版本<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdiscuss.python.org%2Ft%2Fthe-cursed-release-of-python-3-11-0b4-is-now-available%2F17274" target="_blank">已发布</a>。按照此前的发布日程，Beta4 原本是 Beta 阶段的最后一个版本，但目前计划出现了变动，开发团队表示还需要再发布 Beta5，<span style="color:#333333">目标是在 Beta5 之后没有 ABI 更改，并且在第一个候选版本 3.11.0rc1 之后尽可能少地更改代码。为实现这一目标，在 Beta 阶段尽可能多地进行测试非常重要</span><strong>。</strong></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">在候选版发布之前，功能可能会被修改或在极少数情况下被删除。因此<span style="color:#333333">不建议在生产环境中使用 Beta 版本。</span></p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">与 3.10 相比，Python 3.11 的主要变化</p> 
 <ul style="margin-left:0; margin-right:0"> 
