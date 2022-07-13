@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-07-13 11:08:27
-thumbnail: 'https://pic2.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162'
+date: 2022-07-13 12:16:10
+thumbnail: 'https://pica.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ NASA 公布韦伯空间望远镜第一张全彩深空照片，照片传递了哪
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-b0785862eab4b0f660b276542450e604_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">太空僧，</span><span class="bio">和尚洗头用飘柔</span>
 <a href="https://www.zhihu.com/question/542809229/answer/2570111326" class="originUrl" hidden>查看知乎原文</a>
 </strong>
