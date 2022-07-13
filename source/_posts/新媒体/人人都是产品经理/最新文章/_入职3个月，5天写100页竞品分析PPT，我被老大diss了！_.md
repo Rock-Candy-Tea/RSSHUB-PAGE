@@ -26,7 +26,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/07/9y38KRnAbZ9JkAr9vvIG.png'
 <p>这时候，阿平才发现：<strong>自己并不懂得如何做出一份合格的竞品分析。</strong></p>
 <p>竞品分析作为产品经理的基本功，是对产品进行更新迭代提供思路最常用的方式。</p>
 <p>但很多产品人在做竞品分析时还是会容易陷入误区。</p>
-<blockquote><p>本篇文章一起来盘点：<strong>竞品分析都有哪些误区？以及作为产品新人，我们该如何规避？</strong></p></blockquote>
+<blockquote>
+<p>本篇文章一起来盘点：<strong>竞品分析都有哪些误区？以及作为产品新人，我们该如何规避？</strong></p>
+</blockquote>
 <h2 id="toc-1">01 竞品分析常见的三种误区</h2>
 <h3>易踩误区一：未明确目的，盲目去做</h3>
 <p>假设你的老板说：<strong>调研下微信视频号的玩法？你会怎么做这份竞品分析报告？</strong></p>
@@ -64,7 +66,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/07/9y38KRnAbZ9JkAr9vvIG.png'
 <p>这也是为什么有些人在做了一段时间的产品之后，仍然会有<strong>“产品打杂”的感觉。</strong></p>
 <p>没有系统的梳理，没有从整体和系统出发形成体系和框架时，做的单个流程，吸收的很多东西只能是零散的，无法完善进入体系和框架内，也难怪会有打杂的感觉。</p>
 <p>所以，像阿平这样的产品新人来说，需要的是：<strong>先建立一个完整而系统的产品知识框架，不断完善和丰富自己的产品知识框架，逐渐形成一套正确的产品全流程的思维模式</strong>，沉淀属于自己的产品方法论，这样才能成为一名真正合格的产品经理。</p>
-<blockquote><p>基于此，诚心推荐你学习<strong>《90天产品经理实战班》</strong>。</p></blockquote>
+<blockquote>
+<p>基于此，诚心推荐你学习<strong>《90天产品经理实战班》</strong>。</p>
+</blockquote>
 <p><strong>《90天产品经理实战班》</strong>是由腾讯课堂&起点课堂，联合打造的课程，经过人人都是产品经理社区<strong>10年</strong>沉淀，课研部门和大厂导师几十次精心打磨。</p>
 <p>经受过市场多次严苛检验，专为产品人打造的培养系统思维的一门能力进阶课。</p>
 <p>该课程依据<strong>BAT大厂的产品经理能力模型</strong>，为你从0-1梳理产品全流程，构建系统的产品思维。</p>
@@ -93,7 +97,9 @@ thumbnail: 'https://image.yunyingpai.com/wp/2022/07/9y38KRnAbZ9JkAr9vvIG.png'
 <p style="text-align: center"><strong>以及获取课程优惠</strong></p>
 <p style="text-align: center"><strong>▼▼▼</strong></p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/XWkEvN3EihAIMcmwjWoH.png" alt width="724" height="288" referrerpolicy="no-referrer"></p>
-<blockquote><p><strong>这个课程还能给你什么？</strong></p></blockquote>
+<blockquote>
+<p><strong>这个课程还能给你什么？</strong></p>
+</blockquote>
 <h2 id="toc-3">1）求职敲门砖，打造完整作品集</h2>
 <p>对于正在入行或转岗路上的产品人来说，可能会面临以下困扰：</p>
 <ul>
