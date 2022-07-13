@@ -1,0 +1,48 @@
+
+---
+title: '减省 Java 小半内存，Solon v1.9.2 发布'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2510'
+author: 开源中国
+comments: false
+date: Wed, 13 Jul 2022 09:14:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2510'
+---
+
+<div>   
+<div class="content">
+                                                                                            <h4 style="text-align:start">相对于 Spring Boot 和 Spring Cloud 的项目：</h4> 
+<ul> 
+ <li>启动快 5 ～ 10 倍。<span> </span><strong>（更快）</strong></li> 
+ <li>qps 高 2～ 3 倍。<span> </span><strong>（更高）</strong></li> 
+ <li>运行时内存节省 1/3 ~ 1/2。<span> </span><strong>（更少）</strong></li> 
+ <li>打包可以缩小到 1/2 ~ 1/10；比如，90Mb 的变成了 9Mb。<span> </span><strong>（更小）</strong></li> 
+ <li>基于服务 name 进行注册发现 与 k8s svc 相互对应</li> 
+ <li>支持 Service Mesh 架构部署方案</li> 
+</ul> 
+<h4 style="text-align:start">本次更新：</h4> 
+<ul> 
+ <li>新增 solon.vault 插件（可对敏感配置进行加密处理）</li> 
+ <li>增加 请求上下文路径对'/'去重处理</li> 
+ <li>增加 状态码快捷代理模式 app.onStatus(code,handler);</li> 
+ <li>增加 实体接收 UploadedFile 的支持</li> 
+ <li>解决 jlhttp 的 queryString 里不能出现多个'/'的问题（最好还是编码下）</li> 
+ <li>调整 ModelAndView 为非Map类</li> 
+ <li>调整 Context::autoMultipart 默认为 true</li> 
+ <li>优化 sa-token-solon-plugin 适配</li> 
+</ul> 
+<h4 style="text-align:start">进一步了解 Solon：</h4> 
+<ul> 
+ <li><a href="https://my.oschina.net/noear/blog/4980834">《想法与架构笔记》</a></li> 
+ <li><a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fsolon.noear.org%2Farticle%2Ffamily-preview" target="_blank">《生态预览》</a></li> 
+ <li><a href="https://my.oschina.net/noear/blog/4863844">《与 Spring Boot 的区别？》</a></li> 
+ <li><a href="https://my.oschina.net/noear/blog/5039169">《与 Spring Cloud 的区别？》</a></li> 
+</ul> 
+<p> </p>
+                                        </div>
+                                      
+</div>
+            
