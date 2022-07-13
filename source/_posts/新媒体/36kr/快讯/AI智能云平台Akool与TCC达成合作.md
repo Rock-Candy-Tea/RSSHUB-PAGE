@@ -1,0 +1,18 @@
+
+---
+title: 'AI智能云平台Akool与TCC达成合作'
+categories: 
+ - 新媒体
+ - 36kr
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=1418'
+author: 36kr
+comments: false
+date: Wed, 13 Jul 2022 07:44:09 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1418'
+---
+
+<div>   
+36氪获悉，近日，AI智能云平台Akool宣布与智能解决方案提供商TCC正式达成合作，成立为期五年的独家合作伙伴关系。本次合作Akool将以沙特市场为基点辐射周边地区提供人工智能解决方案，包括生物识别身份、智能工厂、智能机场、AI医疗保健等与当地生活密切相关的板块。  
+</div>
+            
