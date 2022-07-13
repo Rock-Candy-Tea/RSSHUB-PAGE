@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.JPG?v=1657696993181'
 author: 巴哈姆特
 comments: false
-date: 2022-07-13 10:12:38
+date: 2022-07-13 11:08:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.JPG?v=1657696993181'
 ---
 
@@ -32,7 +32,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.
 <div>
  </div>
 <div>
-　　Mark Venturelli 不僅只是將 NFT 稱為噩夢，而是詳細闡述了它們對遊戲的不利影響，並且講述了 NFT 與他對遊戲設計未來的願景背道而馳。話題圍繞於在電子遊戲中引入 NFT 和「以遊戲賺錢」的掠奪性作法將攻擊整個遊戲創作環境，以及 NFT 如何把遊戲變成血汗工廠的事實。此演講一出，也很快在網路上引起熱議。</div>
+　　Mark Venturelli 不僅只是將 NFT 稱為噩夢，而是詳細闡述了它們對遊戲的不利影響，並且講述了 NFT 與他對遊戲設計未來的願景背道而馳。話題圍繞於在電子遊戲中引入 NFT 和「以遊戲賺錢」的掠奪性作法將攻擊整個遊戲創作環境，以及 NFT 如何把遊戲產業變成血汗工廠的事實。此演講一出，也很快在網路上引起熱議。</div>
 <div>
  </div>
 <div>
@@ -44,7 +44,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.
 <div>
  </div>
 <div>
-　　根據外媒 PC Gamer 採訪，Mark Venturelli 表示：「這些人都是局外人，他們不重要。他們只是試圖買下他們（在遊戲產業上的）的關聯性，因為他們對我們的產業未來沒有任何實際的影響力。如果你給了他們在這個產業不受爭議的空間，那就給了他們想要的了，讓他們買到了擁有影響力的發言權。」</div>
+　　根據外媒 PC Gamer 採訪，Mark Venturelli 表示：「這些人都是局外人，他們不重要。他們只是試圖買下他們（在遊戲產業上的）的關聯性，因為他們對我們的產業未來沒有任何實際的影響力。如果你給了他們在這個產業不受爭議的空間，那就正中他們的下懷，讓他們買到了擁有影響力的發言權。」</div>
 <div>
  </div>
 <div>
@@ -53,7 +53,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.
 <div>
  </div>
 <div>
-　　而 Mark Venturelli 在受訪時補充道：「我聽說贊助商很生氣，他們試圖中斷我的演講，但主辦方沒有讓他們這麼做。我並不感到意外，因為主辦單位從沒有審查過我，也沒有阻止我把想要談的內容放在簡報裡。在演講之前我給他們看了簡報檔，但他們沒有做出任何要我閉嘴或做類似的動作。」</div>
+　　而 Mark Venturelli 在受訪時補充道：「我聽說贊助商很生氣，他們當時試圖中斷我的演講，但主辦方沒有讓他們這麼做。我並不感到意外，因為主辦單位從沒有審查過我，也沒有阻止我把想要談的內容放在簡報裡。在演講之前我給他們看了簡報檔，但他們沒有做出任何要我閉嘴或做類似的動作。」</div>
 <div>
  </div>
 <div>
@@ -97,7 +97,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/ae23927ff6c653b2ee0055c7e61h84a5.
  </div>
 <div>
 <div>
-　　而於演講的最後，Mark Venturelli 還是重新將話題帶到「遊戲設計的未來」，其獨立遊戲工作室 Rogue Snail 目前正致力於開發一款掠奪動作射擊遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%81%BA%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%82%B3%E8%AA%AA" target="_blank">遺物獵人傳說</a>（暫譯，原名：Relic Hunters Legend）》。</div>
+　　而於演講的最後，Mark Venturelli 還是重新將話題帶回「遊戲設計的未來」，透露其獨立遊戲工作室 Rogue Snail 目前正致力於開發一款掠奪動作射擊遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%81%BA%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%82%B3%E8%AA%AA" target="_blank">遺物獵人傳說</a>（暫譯，原名：Relic Hunters Legend）》。</div>
 </div>
 <div>
  </div>

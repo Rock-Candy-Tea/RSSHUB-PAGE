@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?v=1657705798076'
 author: 巴哈姆特
 comments: false
-date: 2022-07-13 10:12:38
+date: 2022-07-13 11:08:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?v=1657705798076'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?v=1657705798076" data-srcset="https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?v=1657705798076" data-srcset="https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -101,22 +101,24 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/75/c340832bb9391c1a7c145bb4661h8ez5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG 2x" style="max-width: unset;" title="《FAMILY BATTLE 團隊競技場（暫譯，FAMILY BATTLE タッグアリーナ）》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/4f4fc88e6e8ff8228bb155332f1h8ff5.JPG 2x" style="max-width: unset;" title="《FAMILY BATTLE 團隊競技場（暫譯，FAMILY BATTLE タッグアリーナ）》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《FAMILY BATTLE 團隊競技場》</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.64%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG 2x" style="max-width: unset;" title="《不同冬天下的我們（暫譯，違う冬のぼくら）》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.64%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/1b9eaa61d9f21a2ab593ca785a1h8fe5.JPG 2x" style="max-width: unset;" title="《不同冬天下的我們（暫譯，違う冬のぼくら）》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《不同冬天下的我們》</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.42%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG 2x" style="max-width: unset;" title="《十三月的雙子姬（暫譯，十三月のふたり姫）》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.42%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG?v=1657706768650" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/ad6f76095620a5c1ed15deacda1h8fd5.JPG 2x" style="max-width: unset;" title="《十三月的雙子姬（暫譯，十三月のふたり姫）》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8D%81%E4%B8%89%E6%9C%88%E7%9A%84%E9%9B%99%E5%AD%90%E5%A7%AC" target="_blank">十三月的雙子姬</a>》</figure>
 </li>
 </ul>
 </div>
+<div>
+ </div>
 <div>
 　　對作品感興趣的玩家不妨前往 Steam 商店頁面查看各遊戲的詳情。</div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/639/466/317/889/611/original/18ae40c606b5f7a8.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/639/712/310/565/740/original/49179d31af610e15.jpeg'
 author: Mastodon
 comments: false
-date: Wed, 13 Jul 2022 10:07:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/639/466/317/889/611/original/18ae40c606b5f7a8.jpg'
+date: Wed, 13 Jul 2022 11:07:42 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/639/712/310/565/740/original/49179d31af610e15.jpeg'
 ---
 
 <div>   
-<hr><p>Ain't misbehavin' <br> <a href="https://pawoo.net/tags/shota" class="mention hashtag" rel="tag">#shota</a><br> <a href="https://pawoo.net/tags/spank" class="mention hashtag" rel="tag">#spank</a><br> (any more than normal)</p><br><img src="https://img.pawoo.net/media_attachments/files/108/639/466/317/889/611/original/18ae40c606b5f7a8.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Le Déjeuner sur l'herbe<br> <a href="https://pawoo.net/tags/loli" class="mention hashtag" rel="tag">#loli</a> <a href="https://pawoo.net/tags/shota" class="mention hashtag" rel="tag">#shota</a> <a href="https://pawoo.net/tags/incest" class="mention hashtag" rel="tag">#incest</a> <a href="https://pawoo.net/tags/pedomom" class="mention hashtag" rel="tag">#pedomom</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/639/712/310/565/740/original/49179d31af610e15.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
