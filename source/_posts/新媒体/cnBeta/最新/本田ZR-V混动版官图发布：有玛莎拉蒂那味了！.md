@@ -1,0 +1,19 @@
+
+---
+title: '本田ZR-V混动版官图发布：有玛莎拉蒂那味了！'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0714/4de2b0fd823f8bd.jpg'
+author: cnBeta
+comments: false
+date: Thu, 14 Jul 2022 11:59:10 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0714/4de2b0fd823f8bd.jpg'
+---
+
+<div>   
+7月14日，本田官方发布了旗下全新紧凑SUV车型<strong>ZR-V e:HEV（混动版）</strong>的官图。新车在燃油版ZR-V的基础上，更换了全新样式的进气格栅，同时也使用了按键式换机构，值得注意的是，目前在国内，广汽本田ZR-V致在燃油版已经发布，不排除未来引进混动版的可能性。<br>
+ <p>接着看新车官图，说实话，第一眼看到混动版ZR-V的时候，我脑海中第一个蹦出来的竟然是<strong>玛莎拉蒂全新入门SUV车型Grecale</strong>，它们有多像呢？看下各自的图片就明白了。</p><p><img src="https://static.cnbetacdn.com/article/2022/0714/4de2b0fd823f8bd.jpg" referrerpolicy="no-referrer"><br>本田ZR-V混动</p><p><img src="https://static.cnbetacdn.com/article/2022/0714/ccf081b4cd017ad.png" referrerpolicy="no-referrer"><br>玛莎拉蒂全Grecale</p><p>混动版的ZR-V基本上延续了燃油版的设计风格，不过原有的六边形蜂窝网状进气格栅更换为了全新的直瀑式设计，同时前包围两侧运动装饰也进行了优化，显得非常具有特点，而且格栅上方的蓝底本田LOGO也彰显了其不一样的身份。</p><p><a href="https://img1.mydrivers.com/img/20220714/431a324c6db64781b32f97e25f0e0993.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0714/e03ddf3a9915b21.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0714/e03ddf3a9915b21.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0714/e03ddf3a9915b21.jpg" referrerpolicy="no-referrer"></a></p><p>侧面倒是没有发生太大的改变，甚至连轮圈造型也与燃油版的ZR-V保持一致。</p><p>尾部依旧保留了双边共两出排气，不同与燃油版，新车<strong>配备了e:HEV标识和与车头相同的专属LOGO</strong>。</p><p><a href="https://img1.mydrivers.com/img/20220714/c0832ace22924bdda34ae7d4fc5c5a64.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0714/a2ce589afebce91.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0714/a2ce589afebce91.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0714/a2ce589afebce91.jpg" referrerpolicy="no-referrer"></a></p><p><a href="https://img1.mydrivers.com/img/20220714/0bed3e2fb84c4bc7b51e27fc9daaf257.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0714/b301706b493871b.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0714/b301706b493871b.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0714/b301706b493871b.jpg" referrerpolicy="no-referrer"></a></p><p>进入到车内，由于此次发布的是日规版，所以其采用了右舵设计，将图片水平翻转之后，会看的更为顺眼些。</p><p><a href="https://img1.mydrivers.com/img/20220714/d4ac5dee4be7434ba7e0cf89ae1b51f2.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0714/a3fd6787e76cd6e.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0714/a3fd6787e76cd6e.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0714/a3fd6787e76cd6e.jpg" referrerpolicy="no-referrer"></a></p><p>可以看到该车使用了类似<strong>新一代思域同款的中控</strong>，其配有全液晶仪表盘、悬浮式中控屏、隐藏式<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C870%26ev%3D1554_584894%26JL%3D3_%25E7%25A9%25BA%25E8%25B0%2583%25E7%25B1%25BB%25E5%2588%25AB_%25E7%25AB%258B%25E6%259F%259C%25E5%25BC%258F%25E7%25A9%25BA%25E8%25B0%2583%23J_crumbsBar" target="_blank">空调</a>出风口等，更是换上了按键式的换挡机构，因此显得更为规整。</p><p><a href="https://img1.mydrivers.com/img/20220714/3908797b96de44b892d129b5e8c561a5.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0714/6b78437b0dc12a1.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0714/6b78437b0dc12a1.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0714/6b78437b0dc12a1.jpg" referrerpolicy="no-referrer"></a></p><p>此外，新车还将提供双色内饰可选，从而提升内部质感，显得不那么廉价。</p><p>动力方面，新车将提供与新一代思域e:HEV相同的混动动力总成，<strong>由2.0L自然吸气发动机与内置双电机的E-CVT组合而成</strong>，并且提供四驱版本。</p>   
+</div>
+            

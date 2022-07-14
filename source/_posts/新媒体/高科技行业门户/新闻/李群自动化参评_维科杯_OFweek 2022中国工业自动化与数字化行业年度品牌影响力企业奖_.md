@@ -1,0 +1,19 @@
+
+---
+title: '李群自动化参评_维科杯_OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/chenting/1657800769889078144.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 12:07:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/chenting/1657800769889078144.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">维科杯·OFweek 2022中国</span><a href="https://gongkong.ofweek.com/" title="工业自动化" style="text-indent: 2em;">工业自动化</a><span style="text-indent: 2em;">及</span><a href="http://robot.ofweek.com/KW-shuzihua.html" title="数字化" style="text-indent: 2em;">数字化</a><span style="text-indent: 2em;">行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业</span><a href="https://gongkong.ofweek.com/" title="自动化" style="text-indent: 2em;">自动化</a><span style="text-indent: 2em;">及</span><a href="http://robot.ofweek.com/KW-shuzihua.html" title="数字化" style="text-indent: 2em;">数字化</a><span style="text-indent: 2em;">行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。</span></p><p style="text-indent: 2em; text-align: left;">此次活动旨在为<a href="https://gongkong.ofweek.com/" title="工业自动化">工业自动化</a>和<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想<a href="https://robot.ofweek.com/" title="机器人">机器人</a>行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2022中国工业<a href="https://gongkong.ofweek.com/" title="自动化">自动化</a>与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳会展中心举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。东莞市李群<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>技术有限公司已正式参评“维科杯?OFweek 2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>与数字化行业年度品牌影响力企业奖”。</p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯?OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖</p><p style="text-indent: 2em; text-align: left;">企业介绍：</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/chenting/1657800769889078144.png" width="400" height="131" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">全球第二家国内首家拥有全品类<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>的企业</p><p style="text-indent: 2em; text-align: left;">2021年获得上市后备企业认定</p><p style="text-indent: 2em; text-align: left;">2021年成为专精特新“重点小巨人”企业</p><p style="text-indent: 2em; text-align: left;">2021年获得中国专利优秀奖</p><p style="text-indent: 2em; text-align: left;">2021年获批设立技师工作站</p><p style="text-indent: 2em; text-align: left;">参评理由：</p><p style="text-indent: 2em; text-align: left;">一家专注于轻量型高端智能机器人研发、生产、销售与应用的国家级高新技术企业。总部设在东莞松山湖高新区，拥有行业内轻量型最全系列产品，包括 SCARA、六轴、并联和协作等机器人。2021年成为国家专精特新“重点小巨人”企业并荣获国家专利优秀奖。作为粤港澳大湾区内的科技创新型代表企业，从华南出发，现已实现布局全国、辐射东南亚和欧洲的战略覆盖。</p><p style="text-indent: 2em; text-align: left;">自2011年成立以来，李群以「提供智能机器人，为企业优化劳动力配置，提升竞争力」使为命，坚持长期主义，全自主研发软硬件操作系统，突破传统机器人使用方式，让中小企业、普通工人、柔性场景中都能简单、便捷地使用机器人，把人从低附加价值和危险劳动中解放出来。致力于为客户提供智能化的机器人产品， 助力制造业的转型升级，共同构建机器人生态平台。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2022/im/vote.html#vote-rules</p> 
+  
+</div>
+            

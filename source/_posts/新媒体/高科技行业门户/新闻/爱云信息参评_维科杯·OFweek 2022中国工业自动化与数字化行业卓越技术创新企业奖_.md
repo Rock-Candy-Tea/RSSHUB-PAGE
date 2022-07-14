@@ -1,0 +1,19 @@
+
+---
+title: '爱云信息参评_维科杯·OFweek 2022中国工业自动化与数字化行业卓越技术创新企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=7080'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 10:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7080'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">维科杯·OFweek 2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。</span><br></p><p style="text-indent: 2em; text-align: left;">此次活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳会展中心举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。深圳市爱云信息科技有限公司已正式参评“维科杯?OFweek 2022中国工业自动化与数字化行业卓越技术创新企业奖”。</p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯?OFweek 2022中国工业自动化与数字化行业卓越技术创新企业奖</p><p style="text-indent: 2em; text-align: left;">成绩说明：</p><p style="text-indent: 2em; text-align: left;">AIOT智慧物流信息平台（中国农行，3大上市公司）</p><p style="text-indent: 2em; text-align: left;">AIOT PAAS物联网平台（<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongyehulianwang.html" target="_blank" title="工业互联网">工业互联网</a></span>，智慧交通，智慧园区）</p><p style="text-indent: 2em; text-align: left;">GPS高精度定位产品（电动车，自动驾）</p><p style="text-indent: 2em; text-align: left;">AIOT DaaS数字孪生平台</p><p style="text-indent: 2em; text-align: left;">AIOT智慧供应链物流信息平台V1.0；；</p><p style="text-indent: 2em; text-align: left;">智慧社区AIOT SaaS物联网信息平台V1.0；</p><p style="text-indent: 2em; text-align: left;">硬件产品：</p><p style="text-indent: 2em; text-align: left;">Al智能机器人软硬件平台</p><p style="text-indent: 2em; text-align: left;">工业控制软硬件平台</p><p style="text-indent: 2em; text-align: left;">智能Al核酸检测仪平台</p><p style="text-indent: 2em; text-align: left;">Al自动驾驶 芯片模组</p><p style="text-indent: 2em; text-align: left;">自研发知识产权：</p><p style="text-indent: 2em; text-align: left;">国家发明专利 已公布（28件）</p><p style="text-indent: 2em; text-align: left;">实用新型专利 已下证（50件） 初审通过（19件）</p><p style="text-indent: 2em; text-align: left;">国家鼓励企业认证 软件企业认证（1件）</p><p style="text-indent: 2em; text-align: left;">PCT国际发明 （13件）</p><p style="text-indent: 2em; text-align: left;">计算机软件著作权 已下证（38件）</p><p style="text-indent: 2em; text-align: left;">集成电路设计布图专利 等下证（9件）</p><p style="text-indent: 2em; text-align: left;">软件产品认证 平台认证（6件）</p><p style="text-indent: 2em; text-align: left;">参评理由：</p><p style="text-indent: 2em; text-align: left;">公司被深圳市软件协会和国家软件协会评估为【国家鼓励的软件企业证书】，公司是“智慧城市连接者，<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>创新者”的一家软件研发公司。公司有多种平台的合作业务和单独的软件产品的合作业务；能帮助众多的中小微企业和传统产业实现科技赋能，使其共同实现科技强企梦。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2022/im/vote.html#vote-rules</p> 
+  
+</div>
+            
