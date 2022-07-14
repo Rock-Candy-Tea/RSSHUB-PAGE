@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/644/099/989/048/022/original/ef099af088bea3b7.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/644/426/331/680/179/original/11dd19770f1bc7da.jpeg'
 author: Mastodon
 comments: false
-date: Thu, 14 Jul 2022 05:44:28 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/644/099/989/048/022/original/ef099af088bea3b7.jpeg'
+date: Thu, 14 Jul 2022 07:06:42 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/644/426/331/680/179/original/11dd19770f1bc7da.jpeg'
 ---
 
 <div>   
-<hr><p>呜呜呜！</p><br><img src="https://img.pawoo.net/media_attachments/files/108/644/099/989/048/022/original/ef099af088bea3b7.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/644/101/383/403/242/original/86ed551a41610d6f.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/644/102/665/487/202/original/5eccafe3f135d968.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>笑死啊</p><br><img src="https://img.pawoo.net/media_attachments/files/108/644/426/331/680/179/original/11dd19770f1bc7da.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/644/426/922/246/077/original/dcc1ae63400cedea.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             

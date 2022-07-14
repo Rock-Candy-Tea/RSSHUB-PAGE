@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?v=1657773218275'
 author: 巴哈姆特
 comments: false
-date: 2022-07-14 06:12:26
+date: 2022-07-14 07:09:29
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?v=1657773218275'
 ---
 
@@ -16,8 +16,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.
 <div>
 <div>
 　　CAPCOM 宣布，將於 8 月 24 日以遊戲音樂專門品牌「CASSETRON」的名義推出旗下經典格鬥遊戲《快打旋風》35 周年紀念的 3 套原聲 CD，分別收錄《快打旋風》系列初代與二代家用版的配樂。</div>
-<div>
- </div>
 <div>
  </div>
 <div>
@@ -31,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 99.23%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?v=1657773218275" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 99.23%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?v=1657773218275" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -109,7 +107,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 99.23%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG?v=1657773231949" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 99.23%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG?v=1657773231949" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/f924177e4db6c4a5aab8df61a61h9765.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -211,7 +209,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/78998f990b6a1923855f8583831h9755.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 99.23%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG?v=1657773240975" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 99.23%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG?v=1657773240975" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/d7b47901258242e1ccdf11435c1h9775.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
