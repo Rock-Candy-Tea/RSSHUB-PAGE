@@ -1,0 +1,19 @@
+
+---
+title: '上海时新达参评_维科杯·OFweek 2022中国智能制造数字化工厂年度标杆企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657805213438092645.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 13:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657805213438092645.png'
+---
+
+<div>   
+<p>       维科杯?OFweek2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。此次活动旨在为工业自动化和数字化行业的产品、技术和企业品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳举办。目前，活动正处于火热的网络投票阶段，业内企业积极响应。</p><p>      上海时新达电气股份有限公司已正式参评“维科杯?OFweek 2022中国智能制造数字化工厂年度标杆企业奖”。</p><p>      <strong>参评奖项：</strong>维科杯?OFweek 2022中国智能制造数字化工厂年度标杆企业奖</p><p>     <strong> 企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657805213438092645.png" title="上海时新达参评“维科杯?OFweek 2022中国智能制造数字化工厂年度标杆企业奖”" alt="上海时新达参评“维科杯?OFweek 2022中国智能制造数字化工厂年度标杆企业奖”" width="300" height="163" referrerpolicy="no-referrer"></strong></p><p>      上海新时达电气股份有限公司创建于1995年，是国家重点支持的高新技术企业、全国创新型企业。 2010年在深交所A股上市，股票简称：新时达，证券代码：002527。 </p><p>      新时达的产品与解决方案广泛应用于3C电子、锂电、半导体、光伏、物流、食品饮料、医疗、 汽车、点胶、激光、机床、PCBA测试、电梯、水泵、暖通空调、橡胶塑料、通用节能、工程 机械、金属制品、化工制品、家俱等行业与细分领域，服务于全球110多个国家与地区。 </p><p>       新时达注重研发，在上海、深圳、西安、杭州、德国和日本设立研发中心，拥有博士后科研工 作站，企业技术中心实验室具有国家CNAS认可资质。 </p><p>       新时达总部位于上海，分别在上海、苏州、杭州、深圳、安徽设立生产基地，20多个业务网点 遍布全国。基于全球化战略，新时达在海外设立德国子公司、日本子公司及马来西亚合资公司 并将布局设立更多的全球业务网点，持续开拓全球市场。</p><p>      <strong> 参评理由：</strong></p><p>       新时达智能工厂：</p><p>       2020年入选上海首批 20 家智能工厂之一；</p><p>       2021年获评国家工信部智能制造示范工厂；</p><p>       数字化和智能化程度领先业界，为客户提供高品质<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>产品与解决方案；</p><p>       拥有中国先进的全自动化、数字化、高效率的智能装配线。端对端数字化产线，<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongye4.html" target="_blank" title="工业4.0">工业4.0</a></span>线体，设计年产能20万台。涵盖5大类型16种型号的产品，关键部件采用世界顶级供应商产品，柔性装配，每80秒下线一个产品，工业级±0.1mm，利用信息技术打造智慧工厂，全面实现生产自动化、信息化、智能化。</p><p>     <strong>  智能装配线项目概况：</strong></p><p>       时间：2021年</p><p>       生产方式：批量切换，订单式柔性生产；</p><p>       硬件数量：3台6轴机器、2台SCARA、1台协作机械手、4台AGV送料小车。</p><p>       软件配置：MES系统，订单系统，质量管理系统；</p><p>       技术优势：<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310020-jiqishijue.html" target="_blank" title="机器视觉">机器视觉</a></span>、精密浮动多功能抓手、板间多针连接器精密柔顺装配、多机型切换自动化测试探针连接、订单拉动精准配料。</p><p>       智能装配线项目价值：</p><p>       在检验、装配、包装等工位提升制造效率；</p><p>       节拍：5分钟/台，单班年产能 26,000台；</p><p>       高效质量管理，产品合格率高。</p><p>       机器人、AGV大幅替代人工，目前整条装配线只需配备2名接线工人、1名配料工人，较传统生产方式大幅减少人工。</p><p>  <strong>    投票时间：</strong></p><p>      本届“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票。</p><p>   <strong>    投票地址：</strong></p><p>      <a href="https://www.ofweek.com/award/2022/im/vote.html#vote-rules">https://www.ofweek.com/award/2022/im/vote.html#vote-rules</a></p> 
+  
+</div>
+            

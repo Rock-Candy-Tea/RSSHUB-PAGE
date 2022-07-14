@@ -1,0 +1,19 @@
+
+---
+title: '广州致景信息参评_维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657801965149048433.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 12:27:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657801965149048433.jpg'
+---
+
+<div>   
+<p>      维科杯·OFweek2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。此次活动旨在为工业自动化和数字化行业的产品、技术和企业品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。<br></p><p>       维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳举办。目前，活动正处于火热的网络投票阶段，业内企业积极响应。</p><p>      <strong> 广州致景信息科技有限公司已正式参评“维科杯?OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”。</strong></p><p>       <strong>参评奖项：</strong>“维科杯?OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”</p><p>      <strong>企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657801965149048433.jpg" title="广州致景信息参评“维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”" alt="广州致景信息参评“维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”" width="300" height="302" referrerpolicy="no-referrer"></strong></p><p>      致景科技成立于2013年12月，是领先的纺织产业互联网企业，国家高新技术企业。旗下拥有“百布”、“全布”、“天工”、“飞梭智纺”、“致景金条”、“致景智慧仓物流园”、“致景纺织智造园”等业务板块，致力于通过大数据、云计算、物联网等新一代信息技术，全面打通纺织服装行业的信息流、物流和资金流，帮助行业实现协同化、柔性化、智能化的升级，构建纺织服装纵向一体化的数智化综合服务平台。</p><p>     <strong>  参评理由：</strong></p><p>       致景科技在推出纺织<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongyehulianwang.html" target="_blank" title="工业互联网">工业互联网</a></span>数字化解决方案之前，已经在行业积累了诸多资源，纱线生产型企业有盛虹、 恒力、恒逸、华祥、新凤鸣、桐昆、荣盛等，纱线贸易型企业有广东丰宝、 杭州棉超、苏州俊祁等，客户如新冬日纺织，嘉鸿纺织，新合盛、恒铭纺织 等大型客户，在服务这些大型客户的同时，公司更加深入地了解了纺织行业, 针对纺织业面临的生产过程不透明、库存无法实时统计、排产难、生产管理 效率低、交易成本高、物流仓储成本高、中小企业周转资金紧张等主要问题, 打造了飞梭智纺工业互联网数字化系统，推出了生产制造、经营管理、运营管理等 数字化管理解决方案以及B2B交易、仓储物流、供应链金融、设备租售等工业电子商务服务，建立了致景科技在纺织行业的品牌和口碑。</p><p>       通过<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>解决方案的实施，一方面，实现了生产过程透明化和智 能化管控，实现了坯布生产过程在线质量监测和质量追溯，减少织机异常停机时间至少15%,机台利用率提高至少22%,员工平均产量提高至少9%,坯布出库失误减少至少76%,生产质量问题降低至少32%,减少产量工资统计工作量至少78%。实现企业内进产销存互联互通以及上下游企业间库存与物流信息共享，实现供需精准对接和供应链协同管理，提高市场响应速度，提高订单交付准时率，订单延误率降低至少65%,原料库存管理损耗减少至少5%。另一方面，实现线上闭环交易，有效化解企业资金周转困难，帮助企业快速打开市场，降低企业的资金压力，服务订单量增加了至少56%,订单平均单价提升了至少13%,工厂原料釆购成本下降至少8%,原料交期平均降低至少1.3天，仓储成本较使用飞梭WMS系统和集中仓之前，仓储支出降低至少15%,仓储盘点工作量降低至少35%,物流支出降低至少15%。</p><p>      <strong> 解决方案的创新性</strong></p><p>      1. 超高性价比</p><p>       传统行业软件企业通过提供一套完善的ERP系统和完善的MES系统， 帮助织布企业解决问题，软件售价高达10万元/套，织厂根本无力承受。 致景科技秉承工业互联网普惠技术才具有推广价值的理念，通过不断升级迭代，用SAAS解决方案将软件售价降至每台设备100元，AI边织边检设备降至3000元，织厂总共花费不到一万元就可进入数字化时代。</p><p>      2.SaaS标准化</p><p>      以解耦和耦合为核心的积木式设计思路，将解决方案各功能模块解耦成一个个独立的具有高度的耦合能力的SaaS化标准产品，除可以与飞梭各独立SaaS产品耦合外，还可以与第三方产品快速耦合，满足用户全面解决方案和局部碎片化需求等个性化需求。SAAS可以自动升级，当发生硬件故障和人为的操作失误时，也不会丢失数据。同时，致景科技还可以根据从IT部门获得的可用数据不断迭代和升级产品能力。</p><p>      3.客户成功体系</p><p>      传统软件软件的L2C （线索到现金）是一个市场到交付的过程，而致景科技的L2C,是从市场到续约。致景科技秉承“以客户为中心”的经营 理念，建立了完善的客户成功体系。      </p><p>  <strong>    投票时间：</strong></p><p>      本届“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票。</p><p><strong>      投票地址：</strong></p><p>      https://www.ofweek.com/award/2022/im/vote.html#vote-rules</p><p><br></p> 
+  
+</div>
+            
