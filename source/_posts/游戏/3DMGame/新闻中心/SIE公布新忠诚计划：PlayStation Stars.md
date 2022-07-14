@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220714/1657804879_4643
 索尼刚刚公布了PlayStation Stars，这是一个新的忠诚计划，面向PlayStation用户。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220714/1657804879_464301.jpg" alt="SIE公布新忠诚计划：PlayStation Stars" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220714/1657804879_464301.jpg" alt="SIE公布新忠诚计划：PlayStation Stars" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 玩家可以免费加入
@@ -26,16 +26,16 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220714/1657804879_4643
 通过完成战役，活动，奖杯等获得奖励
 </p>
 <p style="text-indent:2em;">
-忠诚度点数可被兑换成PSN钱包资金
+忠诚度点数可被兑换成PSN钱包
 </p>
 <p style="text-indent:2em;">
 将在今年晚些时候上线
 </p>
 <p style="text-indent:2em;">
-数字收藏品，包括游戏和其他娱乐形式的角色也会来到PlayStation Stars中。不过SIE表示，数字收藏品并不是NFT。
+数字收藏品(包括游戏和其他娱乐形式的角色)也会来到PlayStation Stars中。不过SIE表示，数字收藏品并不是NFT。
 </p>
 <p style="text-indent:2em;">
-<strong>奖励系统细节：</strong>
+<strong>奖励系统细节：</strong> 
 </p>
 <p style="text-indent:2em;">
 PS+订阅玩家将获得额外点数，可在PS商城消费
