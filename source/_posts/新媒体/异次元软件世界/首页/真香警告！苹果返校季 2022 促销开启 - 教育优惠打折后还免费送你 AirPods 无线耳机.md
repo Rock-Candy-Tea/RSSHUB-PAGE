@@ -1,0 +1,31 @@
+
+---
+title: '真香警告！苹果返校季 2022 促销开启 - 教育优惠打折后还免费送你 AirPods 无线耳机'
+categories: 
+ - 新媒体
+ - 异次元软件世界
+ - 首页
+headimg: 'https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_2021.jpg'
+author: 异次元软件世界
+comments: false
+date: Thu, 14 Jul 2022 05:15:53 GMT
+thumbnail: 'https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_2021.jpg'
+---
+
+<div>   
+<ul id="link1111"><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/news/4313">爱奇艺年卡 + 京东 Plus = 123元</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/pdpost">PD17 虚拟机限时官网史低</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/windows11.html">Win11 专业版立减 150</a></li><li>
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/baiduwangpan">百度网盘 SVIP 年卡 188 送 QQ 音乐月卡</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/setapp.html">SetApp 1 年订阅 6.5 折</a>  |  
+<a target="_blank" rel="nofollow" href="https://www.iplaysoft.com/go/qcloud">腾讯云 618 秒杀</a></li></ul><p>苹果 Apple 的产品一向都比其他品牌相对“保值”一些，除非发布新品旧型号才降价，否则官网价格几乎雷打不动，这也是很多同学愿意花钱买 <a href="https://www.iplaysoft.com/go/iphone" target="_blank" rel="noopener">iPhone</a>、<a href="https://www.iplaysoft.com/go/mac" target="_blank" rel="noopener">Mac</a> 等商品的原因之一。</p><p>尽管<a href="https://www.iplaysoft.com/go/apple" target="_blank" rel="noopener">苹果官网</a>很少搞促销或降价活动，但每年都有一次针对学生和教师推出的 “Back to school”「<a href="https://www.iplaysoft.com/go/applebacktoschool" target="_blank" rel="noopener">返校季优惠 2022</a>」。今年依然可在教育优惠价的基础上 ，<span style="color: #ff6600;">免费赠送一副 ¥1000 元的 AirPods 无线耳机</span>，还有 8 折的 Apple Care+、Apple Pencil 和智能键盘优惠 ！优惠相当给力……</p><p class="aligncenter"><a class="button button_orange" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/applebacktoschool"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>前往：Apple 中国教育商店</a><br><span class="button-hint">折后还送 AirPods 耳机，可补差价升级 3 或 Pro</span></p><p style="text-align: center;">「<a href="https://www.iplaysoft.com/macos-ventura.html" target="_blank" rel="noopener">macOS Ventura</a>  |  <a href="https://www.iplaysoft.com/ios-beta.html" target="_blank" rel="noopener">iOS 16</a>  |  <a href="https://www.iplaysoft.com/go/pdpost" target="_blank" rel="noopener">PD 17 虚拟机</a>」</p><h3 class="h3red">2022 最新苹果中国官网返校教育优惠：</h3><div style="margin:40px auto 50px auto;overflow:hidden;"><div style="float:left;width:336px;height:280px;">  </div><div class="_0m2z60jvil9q" style="float:left;width:336px;height:280px;margin-left:10px">
+  </div></div><div class="clear"></div><p>今年<a href="https://www.iplaysoft.com/go/applestoreedu" target="_blank" rel="noopener">苹果中国官网</a> 跟 <a href="https://www.iplaysoft.com/go/applestorehk" target="_blank" rel="noopener">香港官网</a> 的返校优惠力度基本相同，时间将持续到 9 月 26 日，参与活动产品包括 <a href="https://www.iplaysoft.com/go/mac" target="_blank" rel="noopener">MacBook Pro</a>、MacBook Air、iMac，以及 <a href="https://www.iplaysoft.com/go/ipad" target="_blank" rel="noopener">iPad Pro</a>、iPad Air、<a href="https://www.iplaysoft.com/go/applepencil" target="_blank" rel="noopener">Apple Pencil</a> 也都参加了！</p><p><a href="https://www.iplaysoft.com/go/applebacktoschool" target="_blank" rel="noopener"><img loading="lazy" class="aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_2021.jpg" alt="苹果返校优惠 2021" width="680" height="450" referrerpolicy="no-referrer"></a></p><p>这次苹果的赠品主要为<strong>价值 ¥999 元的 <a href="https://www.iplaysoft.com/go/airpods" target="_blank" rel="noopener">AirPods</a> 第二代无线耳机</strong>，并且你可以选择补差价升级至 AirPods 3 或者更换为带<strong>主动降噪</strong>功能的 AirPods Pro，可以说是非常人性化了。</p><p>作为一上市就第一时间入手的人来说，AirPods 系列耳机是真香！真香！真香！最重要的是方便，个人认为比以前送 <a href="https://www.iplaysoft.com/go/beats" target="_blank" rel="noopener">Beats 头戴式耳机</a>更加实用。<span style="color: #ff6600;">这次无疑也是苹果官网一年中最大幅度的优惠了！有购机需求的请抓紧此机会入手。</span></p><p><a href="https://www.iplaysoft.com/go/applebacktoschool" target="_blank" rel="noopener"><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_mac_2020.png" alt="Apple 苹果官网教育优惠" width="680" height="450" referrerpolicy="no-referrer"></a></p><h3>为什么有那么多人吹 AirPods？来看看这评测：</h3>  <p>除了硬件，购买 Apple Care+，<a href="https://www.iplaysoft.com/go/applemusic" target="_blank" rel="noopener">订阅 Apple Music</a> 等都同样有学生折扣。</p><h3>支持 6 期免息分期</h3><p>除了教育优惠价格以及送 AirPods 的优惠之外，实测下单还支持<strong>最高 6 期免息分期</strong>！对于<a href="https://www.iplaysoft.com/tag/%E5%AD%A6%E4%B9%A0" target="_blank" rel="noopener">学生</a>党或手头比较紧的朋友来说都是非常好的消息。</p><p><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_ipad_2020.png" alt="Apple 苹果教育优惠" width="680" height="450" referrerpolicy="no-referrer"></p><p>此外，本次的返校优惠还推出 AppleCare+ 服务 8 折优惠加购，部分配件商品也会有一定折扣。综合来看，值得重点关注的有 iPad Air、iPad Pro，送耳机的话性价比非常高。当然，具体买哪款得看你个人的需求，反正无论是 Mac 还是 iPad 都是好价。</p><p><a href="https://www.iplaysoft.com/go/applebacktoschool" target="_blank" rel="noopener"><img class="lazyload aligncenter size-medium" src="https://img.iplaysoft.com/wp-content/uploads/2020/apple-back-to-school/apple_bts_products_2022.png" alt="Apple 返校季打折产品列表" width="680" height="668" referrerpolicy="no-referrer"></a></p><h3>关于 UNiDAYS 验证的方法：</h3><p>从今年起，苹果教育商店强制需要进行 <strong>UNiDAYS 验证资格</strong>后才能享受教育优惠了。这个验证的过程其实不难，如果你有 edu 教育邮箱，那么推荐使用教育邮箱快速进行验证！</p><p>如无法使用邮箱验证，则可以使用相关证明（教工证、学生证、高校录取通知书或其他学术证明）、CHSI 学信网在线验证码并上传相关资料，同样可以通过验证的。另外，如果遇到困难，也可以发邮件到 <code>help@myunidays.com</code> 进行手工处理：</p><blockquote><p>邮件标题：Apple 学生认证申请<br>
+邮箱内容：<br>
+（1）姓名<br>
+（2）学校名称/学校官网<br>
+（3）学院名称<br>
+（4）Apple ID 绑定的邮箱（否则默认发送邮件的邮箱账户）<br>
+附件里上传资料：学生证正反面（有截止日期），或者是学信网在线认证报告的截图</p></blockquote><h3 class="h3red">学生、家长、教师均可享受优惠</h3><p>和往年一样，返校优惠但适用的人群与<a href="https://www.iplaysoft.com/go/applestoreedu" target="_blank" rel="noopener">苹果教育商店</a>的一贯的规定相同，就是在校学生、教职员工以及学生家长都有资格获得“返校优惠”，当然即将入学的新生也能享受的。</p><p class="aligncenter"><a class="button" target="_blank" isconvert="1" href="https://www.iplaysoft.com/go/applestoreedu"><i class="ipsicon ipsicon-link ipsicon-rspace"></i>访问：苹果中国教育商店</a></p><p>总的来说，这肯定是一年一度入手 Mac 或 iPad 的最佳时机了！如果你正好有需求，或还在持币观望的话，那么别等啦，现在就是你该出手的时候了。</p>  
+</div>
+            
