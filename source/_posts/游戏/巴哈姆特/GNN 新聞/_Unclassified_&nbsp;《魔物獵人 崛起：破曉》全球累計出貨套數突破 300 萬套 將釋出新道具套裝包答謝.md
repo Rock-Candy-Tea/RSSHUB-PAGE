@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?v=1657714498451'
 author: 巴哈姆特
 comments: false
-date: 2022-07-14 05:23:40
+date: 2022-07-14 06:12:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?v=1657714498451'
 ---
 
@@ -21,7 +21,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?v=1657714498451" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?v=1657714498451" data-srcset="https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/19a98fdbb3fc96e12c440c1d421h97u5.JPG?v=1657776307382" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/19a98fdbb3fc96e12c440c1d421h97u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/19a98fdbb3fc96e12c440c1d421h97u5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -37,9 +45,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/35/ea4cac01e3b3784a21ac3435621h8m75.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?v=1657714565960" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG 4x" style="max-width: unset;" title="先前紀念出貨突破 200 萬套時所釋出的 2 波道具套裝包" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?v=1657714565960" data-srcset="https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/31/d52788ee481d685bbd6dc994101h8m35.JPG 4x" style="max-width: unset;" title="先前紀念出貨突破 200 萬套時所釋出的 2 波道具套裝包" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?v=1657714565960" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG 4x" style="max-width: unset;" title="先前紀念出貨突破 200 萬套時所釋出的 2 波道具套裝包" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?v=1657714565960" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/32/3bdf727851523bda2a58c61cde1h8m45.JPG 4x" style="max-width: unset;" title="先前紀念出貨突破 200 萬套時所釋出的 2 波道具套裝包" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc" style="width:782px;">
 先前紀念出貨突破 200 萬套時所釋出的 2 波道具套裝包</figure>
