@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/9ab58923f63747d141b32559d21h27m5.JPG?v=1657701089034'
 author: 巴哈姆特
 comments: false
-date: 2022-07-14 03:16:13
+date: 2022-07-14 04:39:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/9ab58923f63747d141b32559d21h27m5.JPG?v=1657701089034'
 ---
 
@@ -43,7 +43,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/9ab58923f63747d141b32559d21h27m5.
  </div>
 <ul>
 <li>
-活動時間：7 月 14 日 10：00 至 8 月14 日 09：59</li>
+活動時間：7 月 14 日 10：00 至 8 月14 日 23：59</li>
 <li>
 活動注意事項：此活動無須連續登入，只要在一個月內有符合獎勵資格的登入天數即可。</li>
 </ul>
@@ -65,12 +65,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/9ab58923f63747d141b32559d21h27m5.
 <div>
  </div>
 <div>
-　　遊戲開發組表示，希望玩家都能玩到自己喜歡的角色，然後把自己的命中注定之人帶回家。《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9B%A1%E7%95%8C%E6%88%B0%E7%B7%9A" target="_blank">盡界戰線</a>》開服後一個月內的五六日全英雄免費，只要在死鬥模式中遊玩同一隻角色達 15 場，即可將該角色帶回家。</div>
+　　遊戲開發組表示，希望玩家都能玩到自己喜歡的角色，然後把自己的命中注定之人帶回家。《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9B%A1%E7%95%8C%E6%88%B0%E7%B7%9A" target="_blank">盡界戰線</a>》開服後一個月內的五六日全英雄免費遊玩，只要在死鬥模式中遊玩同一隻角色達 15 場，即可將該角色帶回家。</div>
 <div>
  </div>
 <ul>
 <li>
-活動時間：7 月 14 日 10：00 至 8 月 14 日 09：59</li>
+活動時間：7 月 14 日 10：00 至 8 月 14 日 23：59</li>
 <li>
 活動注意事項：命運羈絆之人共可兌換兩隻角色，活動結束後仍有兩週可兌換角色的時間，若超過兌換時限則視同放棄。</li>
 </ul>

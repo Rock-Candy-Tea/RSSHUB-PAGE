@@ -17,7 +17,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/8b9deeb0d6ac4f44d2a0366f19310bf2.png'
         <strong>爱科百发arkbio</strong><br>
         抗病毒创新药研发商<br>
         D轮 / 未透露 / 1657766175<br>
-        投资方: 正心谷资本、龙大食品、元禾控股、启明创投、上海自贸区基金、东方富海、建发新兴投资
+        投资方: 正心谷资本、龙大食品、元禾控股、启明创投、上海自贸区基金、东方富海、建发集团
         
 </div>
             
