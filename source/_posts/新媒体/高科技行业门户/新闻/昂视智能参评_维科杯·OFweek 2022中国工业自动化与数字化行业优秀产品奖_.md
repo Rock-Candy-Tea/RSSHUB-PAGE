@@ -1,0 +1,19 @@
+
+---
+title: '昂视智能参评_维科杯·OFweek 2022中国工业自动化与数字化行业优秀产品奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810183405029172.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 14:45:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810183405029172.png'
+---
+
+<div>   
+<p>       维科杯·OFweek2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。此次活动旨在为工业自动化和数字化行业的产品、技术和企业品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳举办。目前，活动正处于火热的网络投票阶段，业内企业积极响应。</p><p>       昂视智能（深圳）有限公司已正式参评维科杯?OFweek 2022中国工业自动化与数字化行业优秀产品奖。</p><p><strong>       参评奖项：</strong>维科杯?OFweek 2022中国工业自动化与数字化行业优秀产品奖</p><p>       <strong>参评企业：</strong>昂视智能（深圳）有限公司</p><p>       <strong>参选产品：</strong>3D激光轮廓仪，Visionet智能视觉系统</p><p>       <strong>产品介绍：</strong></p><p>       Visionet智能视觉系统</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810183405029172.png" title="1657810183405029172.png" alt="1657810183405029172.png" width="300" height="400" referrerpolicy="no-referrer"></p><p>       Visionet智能视觉系统，一款基于昂视完全独立自主算法平台，针对工业检测应用开发的智能视觉检测系统。</p><p>       1.无需编程，通过简单参数配置，快速实现视觉检测；</p><p>       2.自主的算法，符合工业应用场景，快速解决应用难题。</p><p><br></p><p>      <strong>昂视3D激光轮廓仪</strong></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810202335037522.png" title="1657810202335037522.png" alt="1657810202335037522.png" width="300" height="400" referrerpolicy="no-referrer"></p><p>      昂视3D激光轮廓仪，一款能够测量产品表面轮廓数据的产品，通过昂视在线3D检测软件，软件内置了13种关于高度的算法工具，轻松便捷完成产品检测的功能设定轮廓数据可以进行高度、平（共）面度、产品表面瑕疵等检测。</p><p>      1.轮廓仪直接连接PC，数据传输时间减少，节省安装空间以及节约成本；</p><p>      2.可以支持多台轮廓仪组网使用，且不同轮廓仪在不同时间点开始工作；</p><p>      3.具备宽泛的动态范围，在同一光轴下即使有不同反射率的材料混合，也能清晰成像。</p><p>      <strong>企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810157226006175.png" title="1657810157226006175.png" alt="image.png" width="208" height="117" referrerpolicy="no-referrer"></strong></p><p>      昂视是国内<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310020-jiqishijue.html" target="_blank" title="机器视觉">机器视觉</a></span>产品系列最全的企业，产品线包括2D产品-Visionet系列智能视觉处理系统、镜头、光源；3D产品-在线3D激光检测系统，读码器、<span class="hrefStyle"><a href="https://sensor.ofweek.com/" target="_blank" title="传感器">传感器</a></span>产品”。</p><p>      昂视深耕机器视觉与自动化行业多年，依托于工业自动化行业项目实战的算法积累，对工业细分场景深入调研, 面对工业领域复杂的场景、定制化的要求，将积极深入工业领域，围绕工业企业设备、生产管理、业务与运营优化、社会化资源协作等应用场景，提供软件系统赋能，加快工业数字化、自动化、智能化的转型升级进程。</p><p>      <strong>参评理由：</strong></p><p>      机器视觉技术使机器具有感知外界的眼睛，使机器具有与人类相同的视觉功能，从而实现各种检测，判断，识别和测量功能，它已成为产品生产和制造各阶段的重要组成部分。很多自动化公司需要集成的生产自动化系统，需要集合机器视觉与多种工业生产器械共同协同运作,它广泛应用于状态监测，成品检验和质量控制等多领域。工业自动化的快速发展，视觉技术的成熟，使生产效率大幅提升，在工业制造应用中也得到越来越广泛的应用。昂视国产化系列产品能满足不同行业视觉检测应用需求，为企业实现降本增效。</p><p>      <strong>投票时间：</strong></p><p>      本届“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票。</p><p><strong>      投票地址：</strong></p><p>      <a href="https://www.ofweek.com/award/2022/im/vote.html#vote-rules">https://www.ofweek.com/award/2022/im/vote.html#vote-rules</a> </p><p><br></p> 
+  
+</div>
+            

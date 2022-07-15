@@ -1,0 +1,19 @@
+
+---
+title: '劢微机器人参评_维科杯·OFweek2022中国工业自动化与数字化行业优秀产品奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657811833046014707.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 15:13:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657811833046014707.png'
+---
+
+<div>   
+<p>       维科杯·OFweek2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweekIndustrialAutomation&DigitizationAwards2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。此次活动旨在为工业自动化和数字化行业的产品、技术和企业品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       维科杯·OFweek2022中国工业自动化与数字化行业年度评选“OFweekIndustrialAutomation&DigitizationAwards2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳举办。目前，活动正处于火热的网络投票阶段，业内企业积极响应。</p><p>       劢微<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>科技（深圳）有限公司已正式参评维科杯?OFweek2022中国工业自动化与数字化行业优秀产品奖。</p><p>       <strong>参评奖项：</strong>维科杯?OFweek2022中国工业自动化与数字化行业优秀产品奖</p><p>       <strong>参评企业：</strong>劢微机器人科技（深圳）有限公司</p><p>       <strong>参选产品：</strong>劢喆伦α1</p><p>      <strong> 产品介绍：</strong></p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657811833046014707.png" title="劢微机器人参评“维科杯·OFweek2022中国工业自动化与数字化行业优秀产品奖”" alt="劢微机器人参评“维科杯·OFweek2022中国工业自动化与数字化行业优秀产品奖”" width="400" height="226" referrerpolicy="no-referrer"></p><p>       开发背景：在密集型仓储物流中，出入库的托盘输送设备是固定式的，当进行长距离运输时，不仅影响了密集仓储的空间，而且还输送方向不易变化，成本还比较高。托盘密集摆放，无论是人工叉车还是自动搬运小车，每次运输数量只是一托，效率低下，满足不了日益增长的物流需求。如果加大搬运效率，就要增加搬运小车数量，运营成本加大，维护成本增高，加大了调度系统的工作难度。人工操作叉车，叉取地面托盘和对接输送线，占用大量的操作通道来满足人工操作及其叉车叉取托盘时的空间需求。随着社会的发展，用工难度增加，成本也不断加大。</p><p>       针对以上原因，开发单次两拖的托盘式无人叉车劢喆伦α1。为更高效的进行搬运作业，劢微机器人研发团队不再拘泥于传统叉车外形设计，采用双托设计，单次可运输2托货物。单机的投入，双倍的收益，对追求成本和效率的客户来说，极具吸引性，是满足创新需求与经济效益的新产品。</p><p>       结构创新，取缔人工驾驶位，采取单次两托设计，「劢喆伦α1」展现惊艳硬核实力：业内首创的“单次二托”，自带升降机构最高可举升至1000mm，单托负载可1500kg，满载双托可达3000kg。外形创新，简洁流畅的外观线条、工业质感的色彩与轻快灵动的机器表情相得益彰，彰显产品科技魅力，高效满足企业对美学、性能和效率的三重追求。定位系统创新，采用混合导航方式，支持惯性导航，二维码，反光板和激光SLAM中的两种或者多种混合使用，一次定位精度可达±5mm，二次定位精度±2mm。<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="控制系统">控制系统</a></span>创新，在控制系统上基于现代控制理论研发的最优控制算法，并采用了深度学习的横向误差补偿；支持各种驱动方式的车体普适、鲁棒的控制算法赋能。</p><p>       企业介绍：</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657811858889027852.png" title="劢微机器人参评“维科杯·OFweek2022中国工业自动化与数字化行业优秀产品奖”" alt="劢微机器人参评“维科杯·OFweek2022中国工业自动化与数字化行业优秀产品奖”" width="400" height="141" referrerpolicy="no-referrer"></p><p>       劢微机器人是一家领先的场内智能物流解决方案提供商。总部位于中国深圳，在华东、华中、华北、西南、东北等地均设有办事处，并且成立了海外运营中心，业务销售、运营和服务覆盖国内外各地区。劢微机器人专注于先进的机器人与人工智能技术，为客户提供完整的智能制造及智慧物流解决方案。硬件产品包括：各类型无人叉车、AMR、无人牵引车及四向穿梭车；软件系统包括：劢微云、WMS、WCS、现场管理系统及多种视觉解决方案，已在工厂、仓储、物流等领域交付了大量标杆项目，成为行业领先客户信赖的合作伙伴。</p><p>       <strong>参评理由：</strong></p><p>       劢喆伦α1<span class="hrefStyle"><a href="https://robot.ofweek.com/CAT-8321202-GYJQR.html" target="_blank" title="工业机器人">工业机器人</a></span>产品，具有自主研发和创新概念，产品技术获得重大突破，为行业发展提供一定的借鉴意义；并且针对往年发布产品进行技术改进后产品质量、安全、使用性能、盈利性等有明显提高。</p><p>       <strong>投票时间：</strong></p><p>       本届“OFweekIndustrialAutomation&DigitizationAwards2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票。</p><p>     <strong> 投票地址：</strong></p><p>      <a href="https://www.ofweek.com/award/2022/im/vote.html#vote-rules">https://www.ofweek.com/award/2022/im/vote.html#vote-rules</a> </p><p><br></p> 
+  
+</div>
+            

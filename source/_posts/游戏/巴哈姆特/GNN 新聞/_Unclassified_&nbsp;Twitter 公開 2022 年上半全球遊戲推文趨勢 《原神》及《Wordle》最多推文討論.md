@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/15/ab964e1e3004b6c02aae3b07621h9iz5.JPG?v=1657791718573'
 author: 巴哈姆特
 comments: false
-date: 2022-07-14 15:09:55
+date: 2022-07-15 00:56:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/ab964e1e3004b6c02aae3b07621h9iz5.JPG?v=1657791718573'
 ---
 
 <div>   
 <div>
 <div>
-　　　社群網路服務平台 Twitter 在今日公開了 2022 年上半全球遊戲趨勢，其中約有 15 億條關於遊戲的推文，這也是繼 2021 年創紀錄的遊戲相關推文數量後的新紀錄。關於遊戲的推文較 2021 年同期成長 36%，包含像是《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>（Elden Ring）》、電競聯盟《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>》聯盟（Call of Duty League）、《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》冠軍巡迴賽（VALORANT Champions Tour，VCT）、《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%B0%8D%E6%AD%A6%E5%8A%9B%EF%BC%9A%E5%85%A8%E7%90%83%E6%94%BB%E5%8B%A2" target="_blank">絕對武力：全球攻勢</a>（Counter-Strike: Global Offensive）》職業玩家聯盟以及全球性的遊戲活動如 Xbox Showcase、Playstation 的 State of Play 和 Summer Game Fest 等都是玩家關注的話題。</div>
+　　社群網路服務平台 Twitter 在今日公開了 2022 年上半全球遊戲趨勢，其中約有 15 億條關於遊戲的推文，這也是繼 2021 年創紀錄的遊戲相關推文數量後的新紀錄。關於遊戲的推文較 2021 年同期成長 36%，包含像是《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>（Elden Ring）》、電競聯盟《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>》聯盟（Call of Duty League）、《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》冠軍巡迴賽（VALORANT Champions Tour，VCT）、《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%B0%8D%E6%AD%A6%E5%8A%9B%EF%BC%9A%E5%85%A8%E7%90%83%E6%94%BB%E5%8B%A2" target="_blank">絕對武力：全球攻勢</a>（Counter-Strike: Global Offensive）》職業玩家聯盟以及全球性的遊戲活動如 Xbox Showcase、Playstation 的 State of Play 和 Summer Game Fest 等都是玩家關注的話題。</div>
 <div>
  </div>
 <div>

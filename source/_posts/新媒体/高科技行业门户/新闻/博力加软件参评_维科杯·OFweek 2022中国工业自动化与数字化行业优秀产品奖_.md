@@ -1,0 +1,19 @@
+
+---
+title: '博力加软件参评_维科杯·OFweek 2022中国工业自动化与数字化行业优秀产品奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-7/14/tianyun/20220714225622_1657810582192848346.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 14 Jul 2022 14:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-7/14/tianyun/20220714225622_1657810582192848346.png'
+---
+
+<div>   
+<p>       维科杯?OFweek2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。此次活动旨在为工业自动化和数字化行业的产品、技术和企业品牌传播展示平台，并借助OFweek平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p>       维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳举办。目前，活动正处于火热的网络投票阶段，业内企业积极响应。</p><p>       博力加软件（上海）有限公司已正式参评维科杯?OFweek 2022中国工业自动化与数字化行业优秀产品奖</p><p>     <strong>  参评奖项：</strong>维科杯?OFweek 2022中国工业自动化与数字化行业优秀产品奖</p><p>    <strong>   参评企业：</strong>博力加软件（上海）有限公司</p><p>       <strong>参选产品：</strong>3D测量软件PolyWorks</p><p>    <strong>   产品介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-7/14/tianyun/20220714225622_1657810582192848346.png" width="400" height="266" title alt referrerpolicy="no-referrer"></strong></p><p>       全面企业解决方案：3D尺寸分析和质量控制解决方案，通用的3D测量软件平台；工业数字化管理解决方案；数字协作平台。</p><p>       通用3D测量软件平台：不仅支持所有点云扫描技术，并且支持主要品牌的接触式便携探测设备，从而提高设备利用率、减少人员培训、提高生产效率。</p><p>       工业数字化管理解决方案：在这个企业内共享3D测量数据和结果，进一步帮助企业进行<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-shuzihuazhuanxing.html" target="_blank" title="数字化转型">数字化转型</a></span>，提供一个数字协作平台，用过连接所有获取或需要访问3D测量数据的团队成员，促进团队合作。</p><p>       <strong>企业介绍：</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/14/tianyun/1657810630246019476.png" width="260" height="91" referrerpolicy="no-referrer"></strong></p><p>       PolyWorks Shanghai(博力加软件)助力各种规模的制造企业进行 3D 测量流程的数字化转型，并最大限度地提高其工程设计和生产应用中的3D测量数据的价值。PolyWorks Shanghai中国总部位于上海，并在长春、沈阳、天津、西安、重庆、广州配置了本地化技术支持工程师，为中国的工业制造商提供PolyWorks智能3D测量软件解决方案和技术服务，包括技术支持、培训、测量流程咨询和软件定制等。</p><p>       PolyWorks Shanghai是InnovMetric集团在中国的全资子公司。InnovMetric是一家总部位于加拿大的跨国软件开发公司，拥有500多名员工，致力于让3D测量数据成为企业制造流程的核心。</p><p>       前25年的发展过程中，将PolyWorks定位为3D扫描的进一步深入，提供了高级的三角化建模方法并能处理其他软件不能处理的大点云数据。</p><p>       开创了基于点云技术的检测方法，发明了“通用的3D测量软件平台”的概念，并引入了有史以来对用户最友好的CMM测序工作流程。</p><p>       现在，正大力投资研发新一代数据管理和流程管控技术，将3D测量数据共享于企业生产流程的各个环节，帮助用户显著缩短产品上市时间，降低生产制造成本。</p><p>     <strong>  参评理由：</strong></p><p>       PolyWorks在制造领域拥有世界上最大的高密度点云软件客户群，全球100家规模最大的制造企业中有98家使用我们的软件。多年来，我们与世界最大的汽车，航空和消费品制造商广泛合作，不断打磨提升产品。我们的智能3D数字化生态系统可以帮助企业节约成本，且节省的金额随着企业规模的扩大显著增加，正因如此，大型组织都将PolyWorks作为标准化的配置。</p><p>   <strong>    投票时间：</strong></p><p>       本届“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票。</p><p>      <strong> <span style="background-color: white; font-family: 微软雅黑, sans-serif; font-size: 14px; letter-spacing: 1px;">投票地址：</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;line-height:150%;background:white"><span style="font-size:14px;line-height:150%;font-family:'微软雅黑',sans-serif;color:black;letter-spacing: 1px;background:white">      <a href="https://www.ofweek.com/award/2022/im/vote.html#vote-rules">https://www.ofweek.com/award/2022/im/vote.html#vote-rules</a></span></p><p><br></p> 
+  
+</div>
+            
