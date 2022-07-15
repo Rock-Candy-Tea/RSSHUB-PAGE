@@ -8,20 +8,83 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.JPG?v=1657870165474'
 author: 巴哈姆特
 comments: false
-date: 2022-07-15 09:08:53
+date: 2022-07-15 10:09:57
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.JPG?v=1657870165474'
 ---
 
 <div>   
 <div>
 <div>
-　　臺灣光榮特庫摩今日（7/15）公布了預定 7 月 20 日釋出的動作角色扮演遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%82%E5%9C%92%E7%9A%84%E7%95%B0%E9%84%89%E4%BA%BA%20Final%20Fantasy%20%E8%B5%B7%E6%BA%90" target="_blank">樂園的異鄉人 Final Fantasy 起源</a>（Stranger of Paradise Final Fantasy Origin）》（PS5 / PS4 / Xbox Series X|S / Xbox One / PC）季票內容第一彈追加任務「龍王巴哈姆特的考驗」的最新宣傳影片予詳細內容介紹，供玩家參考。</div>
+　　臺灣光榮特庫摩今日（7/15）公布了預定 7 月 20 日釋出的動作角色扮演遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%82%E5%9C%92%E7%9A%84%E7%95%B0%E9%84%89%E4%BA%BA%20Final%20Fantasy%20%E8%B5%B7%E6%BA%90" target="_blank">樂園的異鄉人 Final Fantasy 起源</a>（Stranger of Paradise Final Fantasy Origin）》（PS5 / PS4 / Xbox Series X|S / Xbox One / PC）季票內容第一彈追加任務「龍王巴哈姆特的考驗」的最新宣傳影片與詳細介紹，供玩家參考。</div>
 <div>
  </div>
 <div>
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/JhL6GLlg-_4?wmode=transparent" width="100%"></iframe></div>
 </div>
+<div>
+ </div>
+<div>
+ </div>
+<h3>
+《樂園的異鄉人 Final Fantasy 起源》官方直播節目</h3>
+<div>
+ </div>
+<div>
+　　7 月 20 日（三）20:00～21:30（UTC＋8）其將會播出「龍王巴哈姆特的考驗」發布紀念官方直播節目。節目將季票內容第一波·追加任務「龍王巴哈姆特的考驗」的最新情報，並穿插與嘉賓一同實機遊玩的環節。</div>
+<div>
+ </div>
+<div>
+　　節目詳情請見下方連結：</div>
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=m5DlBc5vB6s" target="_blank">https://www.youtube.com/watch?v=m5DlBc5vB6s</a><br>
+<span style="font-size:13px;">※ 直播節目只對應日文。</span></li>
+</ul>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/m5DlBc5vB6s?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
+<h3>
+Xbox Series X|S / Xbox One、Epic Games Store 下載版 7 折優惠實施中！ </h3>
+<div>
+ </div>
+<div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%82%E5%9C%92%E7%9A%84%E7%95%B0%E9%84%89%E4%BA%BA%20Final%20Fantasy%20%E8%B5%B7%E6%BA%90" target="_blank">樂園的異鄉人 Final Fantasy 起源</a>》Xbox Series X|S / Xbox One、Epic Games Store 下載版目前正實施優惠。Standard Edition 與 Digital Deluxe Edition 均以 7 折的優惠價格發售。</div>
+<div>
+ </div>
+<div>
+<b>Xbox Series X|S / Xbox One</b></div>
+<div>
+優惠期間：7 月 14 日 ～ 8 月 1 日</div>
+<ul>
+<li>
+Standard Edition：<a href="https://www.xbox.com/zh-TW/games/store/stranger-of-paradise-final-fantasy%02origin/9p90pc10bzw8" target="_blank">https://www.xbox.com/zh-TW/games/store/stranger-of-paradise-final-fantasyorigin/9p90pc10bzw8</a></li>
+<li>
+Digital Deluxe Edition：<a href="https://www.xbox.com/zh-TW/games/store/stranger-of-paradise-final-fantasy-origin%02digital-deluxe-edition/9PNBM7K445CM" target="_blank">https://www.xbox.com/zh-TW/games/store/stranger-of-paradise-final-fantasy-origindigital-deluxe-edition/9PNBM7K445CM</a></li>
+</ul>
+<div>
+ </div>
+<div>
+<b>Epic Games Store</b></div>
+<div>
+優惠期間：7 月 15 日 ～ 7 月 28 日</div>
+<ul>
+<li>
+Standard Edition：<a href="https://store.epicgames.com/zh-Hant/p/stranger-of-paradise-final-fantasy%02origin?lang=zh-Hant" target="_blank">https://store.epicgames.com/zh-Hant/p/stranger-of-paradise-final-fantasyorigin?lang=zh-Hant</a></li>
+<li>
+Digital Deluxe Edition：<a href="https://store.epicgames.com/zh-Hant/p/stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition?lang=zh-Hant" target="_blank">https://store.epicgames.com/zh-Hant/p/stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition?lang=zh-Hant</a></li>
+</ul>
+<div>
+<span style="font-size:13px;">※ 請在購買前確認銷售價格已變更為優惠價格。</span></div>
+<div>
+<span style="font-size:13px;">※ 請直接在各平台商城查詢優惠實施期間與優惠價格。</span></div>
+<div>
+ </div>
 <div>
  </div>
 <h2>
@@ -31,7 +94,47 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.
 <div>
  </div>
 <div>
-　　這個男人經歷過多次死亡，多次在時光中輪迴， 最終墮落為擁有再創生之力的混沌之神。 但一切都是這個男人為了將科內利亞從魯飛因的詛咒中解救出來而制定的計劃。這個男人還制定了另外一個計劃，即是在無限的時光中輪迴，找到光之戰士。並引導其成為更強大的「光」，就像「朋友」曾經引導自己那樣。斬斷一切因果的「光」。能夠真正引導世界走向正確方向的「光」究竟會不會出現在他面前？</div>
+<div>
+　　季票內容第一波·追加任務「龍王巴哈姆特的考驗」中將會追加新劇情、新場景、新職業「杖術士」與新增武器種類「杖」。</div>
+<div>
+ </div>
+<div>
+　　此外，還將新增防具類別「配件」。裝備「配件」可以強化角色狀態，還能夠獲得各種特殊效果。裝備組合的自由度增加，遊玩方式也更為多樣化。</div>
+<div>
+ </div>
+<div>
+　　已購入 Digital Deluxe Edition※因此持有季票的玩家可以直接擁有「龍王巴哈姆特的考驗」，之前只購入了遊戲本篇的玩家可以追購季票，季票將在追加任務第一波發布時發售。</div>
+<div>
+ </div>
+<div>
+　　不過，還請注意遊玩部分追加任務前需要通關遊戲本篇。</div>
+<div>
+ </div>
+</div>
+<div>
+<table align="center" border="1" cellpadding="3" cellspacing="1" class="gnn-table" style="width: 90%">
+<tbody>
+<tr>
+<td style="background-color: rgb(240, 240, 240); padding: 3%;">
+<div style="text-align: center;">
+<span style="font-size:16px;">這個男人經歷過多次死亡，多次在時光中輪迴，</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">最終墮落為擁有再創生之力的混沌之神。</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">但一切都是這個男人為了將科內利亞從魯飛因的詛咒中解救出來而制定的計劃。</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">這個男人還制定了另外一個計劃，即是在無限的時光中輪迴，找到光之戰士。</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">並引導其成為更強大的「光」，就像「朋友」曾經引導自己那樣。</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">斬斷一切因果的「光」。</span></div>
+<div style="text-align: center;">
+<span style="font-size:16px;">能夠真正引導世界走向正確方向的「光」究竟會不會出現在他面前？</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 <div>
  </div>
 <div>
@@ -109,9 +212,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 35.95%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?v=1657873100866" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?v=1657873064&w=500 1x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?v=1657873064&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?v=1657873064&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?v=1657873100866" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/02/a20d6e98115ebad23e45a8fea41ha4u5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 63.92%;">
-<figcaption style="padding-bottom: 56.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG?v=1657873100866" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG?v=1657873100866" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/97/83e5c345714b5572f314acf0561ha4p5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -127,9 +230,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 35.95%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?v=1657873113473" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?v=1657873058&w=500 1x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?v=1657873058&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?v=1657873058&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?v=1657873113473" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/01/919fbe93f68b3f355c004b0d5e1ha4t5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 63.92%;">
-<figcaption style="padding-bottom: 56.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG?v=1657873113474" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG?v=1657873113474" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/50c89664c705129f95ff5a4f7f1ha4q5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -145,9 +248,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/84/19d2799fc52ce144808b03fa641ha4c5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 35.95%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?v=1657873126022" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?v=1657873070&w=500 1x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?v=1657873070&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?v=1657873070&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?v=1657873126022" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/03/faec81cbadbc7ef7b5c9c107391ha4v5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 63.92%;">
-<figcaption style="padding-bottom: 56.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG?v=1657873126022" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG?v=1657873126022" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/55974784ffe4ed9645d88d641e1ha4r5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
