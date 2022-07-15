@@ -1,0 +1,18 @@
+
+---
+title: '云养猫是什么样的体验？-Bee.N的回答：当然是既体会养猫的快乐，又不用花费太多金钱和时间成本啦我应该5DVR真实立体云养猫，虽然我自己没有猫但是每天都有六只可...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-39dfffce61e1a812a563c9572c3c49f9.jpg?source=382ee89a'
+author: 知乎
+comments: false
+date: Fri, 15 Jul 2022 13:49:58 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-39dfffce61e1a812a563c9572c3c49f9.jpg?source=382ee89a'
+---
+
+<div>   
+<strong>云养猫是什么样的体验？</strong><br>Bee.N的回答<br><p data-pid="jPu4suzS"><b>当然是既体会养猫的快乐，又不用花费太多金钱和时间成本啦</b></p><hr><p data-pid="R7YLSdJ0">我应该5DVR真实立体云养猫，虽然我自己没有猫但是每天都有六只可爱的猫猫让我撸，因为我们的老板是深度猫奴，在我们职场放了六只可爱的小猫咪，每到中午的时候我饭都来不及吃就开始冲去猫房撸猫&#123;多亏了猫的福我一个月瘦了6斤&#125; 因为保密因素我就不一 一放六只猫啦，放一只另我一眼万年的小猫团吧。</p><a class="video-box" href="https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1531384473127583745" target="_blank" data-video-id data-video-playable="true" data-name="小猫球" data-poster="https://pic4.zhimg.com/v2-39dfffce61e1a812a563c9572c3c49f9.jpg?source=382ee89a" data-lens-id="1531384473127583745"><img class="thumbnail" src="https://pic4.zhimg.com/v2-39dfffce61e1a812a563c9572c3c49f9.jpg?source=382ee89a" referrerpolicy="no-referrer"><span class="content"><span class="title">小猫球<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span><span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1531384473127583745</span></span></span></span></span></a><p data-pid="LvLvvWiI">总的来说撸猫是我中午的最佳解压方式，由衷感谢老板，他付我薪水还让我撸猫我除了用好的业绩报答他之外，还可以顺便帮他给小猫咪喂个午饭，看到小猫咪一个一个被养的这么富态，我当时心想：”老板的猫吃的一定都是高端猫粮”出于好奇我就跟经常喂它们的助理小姐姐打听它们是吃的什么牌子猫粮，打听了之后没想到老板的猫吃的这么接地气，顿时觉得觉得下面这款猫粮性价比很高。</p><p data-pid="Y5G4FtSa">看到这些猫，我想好好给老板打工多攒钱也可以想养一只属于我自己的小猫咪，，猫粮就选老板猫同款猫粮，听说含肉量达70%和40%的高蛋白，还有0谷物低敏配方对小猫咪肠胃很友好，我觉得好东西要分享给大家，就是下面这里啦~ </p><p class="ztext-empty-paragraph"><br></p><a data-draft-node="block" data-draft-type="ad-link-card" data-ad-id="ZhiTask_745427752659849216" href="https://www.zhihu.com/question/43204035/answer/undefined"><p data-pid="H-F48mOW">其实说到完全云养猫，那我一定要说说我最爱的一只</p><p data-pid="qp2FFrum">就是朋友家的——忧郁的小初八</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-55ef594a639320244d2482584654227f_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="961" data-rawheight="1280" data-default-watermark-src="https://pic1.zhimg.com/50/v2-1bd7dfcc32434ccf6a4e8b02607e5a67_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-55ef594a639320244d2482584654227f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="McUcXLms">它既有脱了毛的沧桑</p><p data-pid="kjpZvOUt">也有穿上红装的娇羞</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-2142d96d3cbad32d501d15eed79d34d2_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="960" data-rawheight="960" data-default-watermark-src="https://pica.zhimg.com/50/v2-d7d2d2504f04277e8b2dd5a86af5d70a_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-2142d96d3cbad32d501d15eed79d34d2_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="3zzlYrXd">虽然摸不到初八，但是被助理小姐姐安利后，也给远方的初八，寄上了我的猫粮，因为它是独立分装防潮缩鲜做的比较好，而朋友家在湿气比较重的南方，所以刚好适合，后来猫粮寄到了，初八表示</p><p data-pid="PbUEKwb8">“非常美味，吃的很习惯，忘记了之前猫粮的味道，最后谢谢人类的关心”</p><p data-pid="1huC1OBF">——初八回信</p></a><a data-draft-node="block" data-draft-type="ad-link-card" data-ad-id="ZhiTask_745437202355490816" href="https://www.zhihu.com/question/43204035/answer/undefined"><p data-pid="cGrnnDhN">希望我热爱的小猫咪，健康成长</p></a>  
+</div>
+            
