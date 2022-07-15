@@ -5,25 +5,24 @@ categories:
  - 游戏
  - GameRes 游资网
  - 列表
-headimg: 'https://di.gameres.com/attachment/forum/202205/13/104147n096ywsi2nz0vyjz.png'
+headimg: 'https://di.gameres.com/attachment/forum/202205/20/092318wxgqg5tnqb4nzb4q.jpg'
 author: GameRes 游资网
 comments: false
-date: Fri, 13 May 2022 00:00:00 GMT
-thumbnail: 'https://di.gameres.com/attachment/forum/202205/13/104147n096ywsi2nz0vyjz.png'
+date: Fri, 20 May 2022 00:00:00 GMT
+thumbnail: 'https://di.gameres.com/attachment/forum/202205/20/092318wxgqg5tnqb4nzb4q.jpg'
 ---
 
 <div>   
-<strong>//导语：</strong>《地平线：西部禁域》是Guerrilla Games在2022年推出的一款备受关注的续作游戏，在游戏当中主角埃洛伊踏上了前往西方未知土地的冒险，为了实现广阔世界的种种表现效果，研发团队对其渲染管线进行了升级优化，其中就包括了Deferred Texture技术。本文内容源于在GDC 2022上Guerrilla Games团队所做的分享，原题为Adventures with Deferred Texturing in 'Horizon Forbidden West' 。<br>
+导语：《地平线：西部禁域》是Guerrilla Games在2022年推出的一款备受关注的续作游戏，在游戏当中主角埃洛伊踏上了前往西方未知土地的冒险，为了实现广阔世界的种种表现效果，研发团队对其渲染管线进行了升级优化，其中就包括了Deferred Texture技术。本文内容源于在GDC 2022上Guerrilla Games团队所做的分享，原题为Adventures with Deferred Texturing in 'Horizon Forbidden West' 。<br>
 <br>
 <div align="center">
-<img aid="1039398" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104147n096ywsi2nz0vyjz.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104147n096ywsi2nz0vyjz.png" width="600" id="aimg_1039398" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104147n096ywsi2nz0vyjz.png" referrerpolicy="no-referrer">
+<img aid="1040218" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092318wxgqg5tnqb4nzb4q.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092318wxgqg5tnqb4nzb4q.jpg" width="600" id="aimg_1040218" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092318wxgqg5tnqb4nzb4q.jpg" referrerpolicy="no-referrer">
 </div><br>
-<strong><font color="#de5650">overview</font></strong><br>
-<br>
+<div align="center"><font color="#de5650">overview</font></div><br>
 <div align="center">
-<img aid="1039399" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104149zqtjaqqacjtxtxav.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104149zqtjaqqacjtxtxav.png" width="600" id="aimg_1039399" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104149zqtjaqqacjtxtxav.png" referrerpolicy="no-referrer">
+<img aid="1040219" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092319n3l3rbnr3eplu7un.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092319n3l3rbnr3eplu7un.jpg" width="600" id="aimg_1040219" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092319n3l3rbnr3eplu7un.jpg" referrerpolicy="no-referrer">
 </div><br>
-<strong><font color="#de5650">#01关于visibility buffer</font></strong><br>
+<strong><font color="#de5650">一、关于visibility buffer</font></strong><br>
 <br>
 visibility buffer其实出来很长时间了，近期通过nanite被大家熟知。它有很多变种，如文章中所列，Intel（原版）、Dawn Engine(Eidos)、UE5、Activision都有不同的做法。<br>
 <br>
@@ -33,56 +32,42 @@ visibility buffer其实出来很长时间了，近期通过nanite被大家熟知
 <br>
 我们以最标准的vs-rasterize-ps流程来看，这里有若干问题：<br>
 <br>
-•ps总是以2x2 quad来渲染，对于tiny triangle的case，overhead非常高。<br>
-<br>
-•渲染管线非常的“死”，导致很多时候出现大量gap，比如做shadow depth pass的时候，gpu中大量单元非常空闲；老的流程在面临现在更加复杂的case，真的是越来越不给力了。<br>
-<br>
-• async compute等需要进一步挖掘来提升gpu利用率。<br>
-<br>
+<ul><li>ps总是以2x2 quad来渲染，对于tiny triangle的case，overhead非常高。</li><li>渲染管线非常的“死”，导致很多时候出现大量gap，比如做shadow depth pass的时候，gpu中大量单元非常空闲；老的流程在面临现在更加复杂的case，真的是越来越不给力了。</li><li>async compute等需要进一步挖掘来提升gpu利用率。<br>
+</li></ul><br>
 <strong>visibility buffer的优势</strong><br>
 <br>
-• 实际shading更少的pixel。<br>
-<br>
-• 可以各种batch，大幅度提升cache效率。<br>
-<br>
-• 可以使用compute shader，async compute，进一步提升gpu的利用率。<br>
-<br>
-<strong><font color="#de5650">#02Guerrilla Games的做法</font></strong><br>
+<ul><li>实际shading更少的pixel。</li><li>可以各种batch，大幅度提升cache效率。</li><li>可以使用compute shader，async compute，进一步提升gpu的利用率。<br>
+</li></ul><br>
+<strong><font color="#de5650">二、Guerrilla Games的做法</font></strong><br>
 <br>
 <strong>overview亮点</strong><br>
 <br>
-•用于植被，相比很多visibility buffer做法用于static mesh，这里是多了一个进步。<br>
-<br>
-•使用IndirectDispatch来进一步做了batch，大幅度提升了wave的利用率。<br>
-<br>
-• 融合了自己实现的VRS（不是使用硬件的）。<br>
-<br>
-• 完整的管线介绍，和足够有说服力的性能提升。<br>
-<br>
+<ul><li>用于植被，相比很多visibility buffer做法用于static mesh，这里是多了一个进步。</li><li>使用IndirectDispatch来进一步做了batch，大幅度提升了wave的利用率。</li><li>融合了自己实现的VRS（不是使用硬件的）。</li><li>完整的管线介绍，和足够有说服力的性能提升。<br>
+</li></ul><br>
 <strong>植被</strong><br>
 <br>
 首先guerrilla在horizon里是把visibility buffer用于植被的。<br>
 <br>
 <div align="center">
-<img aid="1039400" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104150lk5uzr3xrc3hx88m.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104150lk5uzr3xrc3hx88m.png" width="600" id="aimg_1039400" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104150lk5uzr3xrc3hx88m.png" referrerpolicy="no-referrer">
+<img aid="1040220" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092319e59uw9ox33oqaxfs.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092319e59uw9ox33oqaxfs.jpg" width="600" id="aimg_1040220" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092319e59uw9ox33oqaxfs.jpg" referrerpolicy="no-referrer">
 </div><br>
 因为植被是一直动的，而且风动动画也一直比较消耗，所以在整个过程中带来挑战：降低vertex transform就格外的重要。<br>
 <br>
-<strong>•技术细节</strong><br>
+<strong>技术细节</strong><br>
 <br>
 visibility buffer的格式：<br>
 <br>
 <div align="center">
-<img aid="1039401" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104150p5rrdkddgr6k2kdi.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104150p5rrdkddgr6k2kdi.png" width="466" id="aimg_1039401" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104150p5rrdkddgr6k2kdi.png" referrerpolicy="no-referrer">
+<img aid="1040221" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092319szl49u9h4lbv4hgz.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092319szl49u9h4lbv4hgz.jpg" width="466" id="aimg_1040221" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092319szl49u9h4lbv4hgz.jpg" referrerpolicy="no-referrer">
 </div><br>
 存的是一个32bit的信息，相比ue和activision的都更小。<br>
 <br>
-<strong><font color="#ffffff"><font style="background-color:darkred">pipeline & batch</font></font></strong><br>
+<strong><font color="#de5650">pipeline & batch</font></strong><br>
 <br>
 <strong>batch</strong><br>
 <br>
 <div align="center">
-<img aid="1039402" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104151vwi2ni3jmiu8m322.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104151vwi2ni3jmiu8m322.png" width="600" id="aimg_1039402" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104151vwi2ni3jmiu8m322.png" referrerpolicy="no-referrer">
+<img aid="1040222" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092319ijnl8awkvmwkabli.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092319ijnl8awkvmwkabli.jpg" width="600" id="aimg_1040222" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092319ijnl8awkvmwkabli.jpg" referrerpolicy="no-referrer">
 </div><br>
 如果我们建好visibility buffer，然后一个compute shader上去算，那么就会出现大量的divergence，导致性能很差。<br>
 <br>
@@ -103,28 +88,27 @@ visibility buffer的格式：<br>
 <strong>pipeline</strong><br>
 <br>
 <div align="center">
-<img aid="1039403" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104151pd9usafv9abaa8az.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104151pd9usafv9abaa8az.png" width="600" id="aimg_1039403" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104151pd9usafv9abaa8az.png" referrerpolicy="no-referrer">
+<img aid="1040223" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092320hzbfkaeuz1iui5ak.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092320hzbfkaeuz1iui5ak.jpg" width="600" id="aimg_1040223" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092320hzbfkaeuz1iui5ak.jpg" referrerpolicy="no-referrer">
 </div><br>
 整个过程拆得比较细，用到的时候再查就好，道理就是如此。<br>
 <br>
 <div align="center">
-<img aid="1039404" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104152lz6r00zowuomupof.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104152lz6r00zowuomupof.png" width="600" id="aimg_1039404" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104152lz6r00zowuomupof.png" referrerpolicy="no-referrer">
+<img aid="1040224" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092320rvkl3vpzyp4pm84z.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092320rvkl3vpzyp4pm84z.jpg" width="600" id="aimg_1040224" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092320rvkl3vpzyp4pm84z.jpg" referrerpolicy="no-referrer">
 </div><br>
 在pipeline中间可以看到，基本都用async compute把计算给hide起来了。<br>
 <br>
-<strong>• 性能</strong><br>
+<strong>性能</strong><br>
 <br>
 <div align="center">
-<img aid="1039405" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104152sm066b746mjxjbgx.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104152sm066b746mjxjbgx.png" width="535" id="aimg_1039405" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104152sm066b746mjxjbgx.png" referrerpolicy="no-referrer">
-</div><div align="center">
-<img aid="1039406" zoomfile="https://di.gameres.com/attachment/forum/202205/13/104152vceu4wdgpcmu0pm8.png" data-original="https://di.gameres.com/attachment/forum/202205/13/104152vceu4wdgpcmu0pm8.png" width="532" id="aimg_1039406" inpost="1" src="https://di.gameres.com/attachment/forum/202205/13/104152vceu4wdgpcmu0pm8.png" referrerpolicy="no-referrer">
+<img aid="1040225" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092320jp5f3xfaf23fq88p.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092320jp5f3xfaf23fq88p.jpg" width="535" id="aimg_1040225" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092320jp5f3xfaf23fq88p.jpg" referrerpolicy="no-referrer">
+</div><br>
+<div align="center">
+<img aid="1040226" zoomfile="https://di.gameres.com/attachment/forum/202205/20/092320x2ll4x5teeuwz5b0.jpg" data-original="https://di.gameres.com/attachment/forum/202205/20/092320x2ll4x5teeuwz5b0.jpg" width="532" id="aimg_1040226" inpost="1" src="https://di.gameres.com/attachment/forum/202205/20/092320x2ll4x5teeuwz5b0.jpg" referrerpolicy="no-referrer">
 </div><br>
 可以看到在这个管线里，性能提升还是很可观的。<br>
 <br>
-<font size="2"></font><br>
-<font size="2">来源：腾讯游戏学堂</font><br>
-<font size="2">原文：https://mp.weixin.qq.com/s/HuV5swIGWgXQes63zABmyg</font><br>
-<br>
+<font size="2"><font color="#808080"></font></font><br>
+<font size="2"><font color="#808080">来源：腾讯游戏学堂</font></font><br>
 <br>
   
 </div>
