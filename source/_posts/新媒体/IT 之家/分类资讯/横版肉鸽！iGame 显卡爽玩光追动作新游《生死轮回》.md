@@ -1,0 +1,19 @@
+
+---
+title: '横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/4b928aab-8e8a-450c-a9de-b054e5c10edd.jpeg'
+author: IT 之家
+comments: false
+date: Fri, 15 Jul 2022 09:10:36 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/4b928aab-8e8a-450c-a9de-b054e5c10edd.jpeg'
+---
+
+<div>   
+<p data-vmark="d28e">国产赛博朋克题材横版动作新游《生死轮回》于 7 月 14 日正式发行，对赛博朋克题材感兴趣的玩家相信是期盼已久。该款游戏采用 NVIDIA RTX 光线追踪技术，无论在任何场景之下都有着优秀的光影表现，NVIDIA DLSS 技术的支持让玩家能够高帧爽玩该游戏。配合国创新生代高端硬件品牌 iGame 的超验装备，为喜爱横版动作游戏的玩家提供绝佳的游玩体验！</p><p style="text-align: center;" data-vmark="9b9c"><img src="https://img.ithome.com/newsuploadfiles/2022/7/4b928aab-8e8a-450c-a9de-b054e5c10edd.jpeg" w="1266" h="712" alt="A7302576" title="横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》" width="1266" height="461" referrerpolicy="no-referrer"></p><p data-vmark="e908">《生死轮回》是由 eBrain Studio 所研发的 3D 横版动作游戏，故事发生在 2046 年的的龙城，遍布脑机接口及纳米生物技术的世代，玩家将扮演私家侦探项子戌进行任务调查。UE4 引擎的使用让传统的横版动作游戏充满了生机，游戏采用 NVIDIA RTX 光线追踪反射等多项特性，为龙城增添五光十色的惊艳光效，打造如幻如真的赛博朋克世界。</p><p style="text-align: center;" data-vmark="23c2"><img src="https://img.ithome.com/newsuploadfiles/2022/7/d0f4d17f-63e0-450a-827a-fe632f0dcb6d.jpeg" w="1267" h="713" alt="对比1" title="横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="cad2">即便是在未开启光线追踪的情况下，游戏的光影表现足够亮眼，但如图所示在图中地面积水的倒影还是可以看出车灯的观感缺乏真实，在清晰度上也相对较弱。而在 RTX ON 后，水面的倒影表现直接上了一个台阶。就连背景招牌的文字都能够在水中的倒影清晰可见，并且画面整体的光源更为纯净，观感明显优于 RTX OFF。</p><p style="text-align: center;" data-vmark="8dde"><img src="https://img.ithome.com/newsuploadfiles/2022/7/46ec97ba-bdcf-474c-8320-bdcc94f16c12.jpeg" w="1267" h="713" alt="对比2" title="横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="a8e1">而在这张图片对比则更加明显，在 RTX OFF 的情况下室内的整体环境较为暗淡，顶部灯光及周围环境缺乏真实感，尤其是映射在玻璃墙上的光线倒影出现了扭曲，无法还原真实的光效。而在 RTX ON 的情况下，情况发生了转变。玻璃墙不仅映射出了室内天花板矩形灯带的形状，并且还出现了人物映射的细节。整体环境都更加真实，灯光由上而下照射的整体氛围及反光反射做到了完美还原。</p><p data-vmark="8eef">开启光线追踪选项，会带来游戏光影效果的大幅度增加，也因此对硬件有着一定的需求。在开启了光线追踪效果下，游戏帧率会出现一定程度的降低。若要保证高质量的游戏画面及高帧率则必定需要开启 NVIDIA DLSS 选项，实现画质与帧率的平衡，大幅度提升帧率保证游戏流畅度。</p><p style="text-align: center;" data-vmark="7844"><img src="https://img.ithome.com/newsuploadfiles/2022/7/e5214229-a478-4d5e-8a2f-e75702385db6.jpeg" w="1267" h="634" alt="gf-cn-naraka-perf-chart-social-2160-2048x1024-zhCN-2380339" title="横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》" width="1267" height="410" referrerpolicy="no-referrer"></p><p data-vmark="602d">以 GeForce RTX 3070 / 3080 / 3080 Ti 为例，在 4K 分辨率开启光追、DLSS OFF 的情况下，帧数分别为 22.6 / 28.7 / 32.6，尚未达到正常游玩的标准，可见在 4K 分辨率下的最高特效即便是高性能的显卡也较为吃力。在 DLSS 开启后，游戏帧数得到大幅度提升，变为 86.3 / 84.3 / 60.8，毫无压力的流畅运行。</p><p data-vmark="c184">强大的黑科技 DLSS 已经为超过 200 款游戏带来了性能的提升，对于游戏玩家而言这是重大利好。在今后会有更多的新游加入到 DLSS 的阵列当中，配合国创新生代高端硬件品牌 iGame 的一众系列的潮流显卡，实现更优秀的游戏表现。眼下正是更换 iGame GeForce RTX 30 系列显卡的绝佳时机，型号涵盖甜品级显卡 RTX 3050 至高端旗舰 RTX 3090 Ti，能够满足绝大部分用户的全场景需求！</p><p style="text-align: center;" data-vmark="9006"><img src="https://img.ithome.com/newsuploadfiles/2022/7/790ab853-16c2-492d-929a-f7ee047e6a9f.jpeg" w="1262" h="709" alt="消暑愿望单kv" title="横版肉鸽！iGame 显卡爽玩光追动作新游《生死轮回》" width="1262" height="461" referrerpolicy="no-referrer"></p><p data-vmark="e649">手持 GTX 10 系列或者 RTX 20 系列旧型号显卡的玩家应该已经察觉到手中的装备无法因对当下的游戏大作。暑期来临，七彩虹为玩家带来买显卡赢游戏的夏季福利活动「消暑愿望单」，有机会获得游戏愿望金或价值 50 元的京东 E 卡。</p><p data-vmark="abaf">玩家在指定店铺购买任意型号并美评晒单，再发微博带话题#消暑愿望单#，图片 + 文字写下你对新显卡的体验及感受，并许愿玩家想玩的游戏。最后到七彩虹公众号提交用户信息及产品资料，七彩虹官方就会在活动结束的七个工作日之后抽取合格用户送出好礼。部分型号产品也将有神秘赠品提供给玩家，数量有限先到先得，赶紧来下单吧！</p><p data-vmark="80ac">指定店铺：</p><p data-vmark="b6bd">七彩虹京东自营旗舰店：<a href="https://qchshop.jd.com/" target="_blank">点此前往</a></p><p data-vmark="bdd7">镭风（Colorfire）京东自营旗舰店：<a href="https://mall.jd.com/index-1000417209.html" target="_blank">点此前往</a></p>
+          
+</div>
+            
