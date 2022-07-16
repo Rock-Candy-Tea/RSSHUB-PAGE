@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220716/1657931488_6973
 英特尔现已通知客户他们计划在今年晚些时候提高很多CPU和外设芯片产品的价格，某些情况下，涨幅可能超过20%。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657931488_697330.jpg" alt="英特尔宣布旗下CPU将涨价 最高超过20%" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657931488_697330.jpg" alt="英特尔宣布旗下CPU将涨价 最高超过20%" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 据日经亚洲报道，涨价产品看起来将是英特尔的旗舰产品，比如适用于服务器和电脑的CPU以及适用于WiFi和其他连接的芯片。

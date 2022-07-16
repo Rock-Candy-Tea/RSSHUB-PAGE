@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220716/1657938055_1461
 Unity 回应了有关其与 IronSource 合并的批评，许多软件开发人员在社交媒体上均表示 IronSource 就是一款恶意软件。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657938055_146125.png" alt="Unity回应IronSource收购：恶意软件之名是滥用软件者导致" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657938055_146125.png" alt="Unity回应IronSource收购：恶意软件之名是滥用软件者导致" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 根据《商业周刊》最新的报道，此次收购花费 44 亿美元，同时引发了有关 IronSource 的第一款产品被归类为恶意软件的许多投诉。
@@ -32,7 +32,7 @@ Unity 回应了有关其与 IronSource 合并的批评，许多软件开发�
 Unity 发言人在给 GamesIndustry.biz 的一份声明中保证 IronSource 不再提供这样的程序。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657938064_695947.png" alt="Unity回应IronSource收购：恶意软件之名是滥用软件者导致" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657938064_695947.png" alt="Unity回应IronSource收购：恶意软件之名是滥用软件者导致" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 该公司表示：“我们看到开发人员负面谈论 IronSource 参与恶意软件活动或支持恶意软件传播，引用有关几年前已经过时无关的历史桌面活动的旧文章。”
