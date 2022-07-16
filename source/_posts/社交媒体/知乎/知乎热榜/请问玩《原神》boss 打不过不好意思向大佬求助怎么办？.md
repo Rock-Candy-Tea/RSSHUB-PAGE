@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=1990'
+headimg: 'https://picsum.photos/400/300?random=4453'
 author: 知乎
 comments: false
-date: Sat, 16 Jul 2022 04:25:54 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1990'
+date: Sat, 16 Jul 2022 03:45:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4453'
 ---
 
 <div>   
-鱼龙之主的回答<br><br><p data-pid="qQpWu5N7">每次萌新进我世界请我帮他们打那些我随便秒的boss时，我都会故作淡然说：“哦，那个啊…”</p><p data-pid="6YB5hcSQ">然后内心狂喜立马传送到boss那，就等萌新过来我给他展示一下什么叫七进七出！（因为我的1命胡桃一次e的时间只能打7次重击）</p><p data-pid="HaBjn0FQ">作为“大佬”，我也不好意思跟萌新说我想装比的心情已经饥渴难耐了！</p><p data-pid="18ZKGrKY">所以你完全可以好意思地邀请大佬进你的世界。</p>  
+十二的回答<br><br><p data-pid="hIQSrdJm">把你的签名改成“来个大佬带带我”就行了，会有大佬源源不断的来，我当初就是这样过来的</p>  
 </div>
             
