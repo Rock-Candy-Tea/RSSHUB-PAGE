@@ -1,0 +1,18 @@
+
+---
+title: '只需1个操作，iPhone就能一秒变凉'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e37_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 15 Jul 2022 18:14:15 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e37_1024.jpg'
+---
+
+<div>   
+<p>夏天来了，估计不少机友的手机也开始烫起来了。</p><p>今天机哥就以 iPhone 为例，教教大家怎么 " 一秒变凉 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e37_1024.jpg" data-height="416" data-width="440" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e37_1024.jpg" referrerpolicy="no-referrer"></div></div>首先，我们需要一个叫做「iScreen」的 App，这是一个 iOS 小组件集合的 App。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e39_1024.jpg" data-height="506" data-width="508" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e39_1024.jpg" referrerpolicy="no-referrer"></div></div>然后在里面找到这个「空调」小组件，按照我们的喜好设置好。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e3b_1024.jpg" data-height="2250" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e3b_1024.jpg" referrerpolicy="no-referrer"></div></div>接着把小组件拖到桌面，就大功告成了！<p></p><p>瞧瞧，炎炎夏意，一台空调在手机桌面吹着，是不是感觉心头涌上一阵凉意呢？</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e3d_1024.jpg" data-height="2337" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e3d_1024.jpg" referrerpolicy="no-referrer"></div></div>机哥旁边的小伙伴，纷纷讨论起应该在空调下放什么。<p></p><p>有说《原神》的，也有说真 · 3A 大作《QQ》的 ……</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e3f_1024.jpg" data-height="203" data-width="397" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e3f_1024.jpg" referrerpolicy="no-referrer"></div></div>呐，如果觉得太冷或者太热，还能够在 App 里调整空调的温度呢 ~<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e41_1024.jpg" data-height="1101" data-width="1052" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62d1843cb15ec04d58033e41_1024.jpg" referrerpolicy="no-referrer"></div></div>最后机哥提醒大家，为了环保，记得在不用的时候关空调哦 ~<p></p><p></p><div class="img_box" id="id_imagebox_6" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_6" data-original="http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e43_1024.jpg" data-height="990" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62d1843cb15ec04d58033e43_1024.jpg" referrerpolicy="no-referrer"></div></div>怎么样，今天这个小技巧实用吗？<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
