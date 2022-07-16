@@ -13,7 +13,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220716/1657952072_9814
 ---
 
 <div>   
-<span></span>
+<span></span> 
 <p style="text-indent:2em;">
 WPS删除用户本地文件这一话题引爆热搜，有博主曝光称自己的文件被WPS官方删除。
 </p>
@@ -24,7 +24,7 @@ WPS删除用户本地文件这一话题引爆热搜，有博主曝光称自己�
 官方也第一时间对此进行回应，称该用户提到的文件并不是本地文件，而是一份在线文档，因为涉嫌违规，所以禁止了他人访问链接。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657952072_981482.png" alt="金山办公CEO回应WPS删文档争议：没有做错！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657952072_981482.png" alt="金山办公CEO回应WPS删文档争议：没有做错！" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在线文档与本地文件不同，其实是被上传到WPS云端的，就像百度网盘一样，网盘App通常在上传违规文件后，也会禁止分享，甚至是直接删除，属于符合法律规定内的操作。
@@ -50,7 +50,7 @@ WPS删除用户本地文件这一话题引爆热搜，有博主曝光称自己�
 你觉得这次WPS事件能理解吗?
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657952079_393821.png" alt="金山办公CEO回应WPS删文档争议：没有做错！" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220716/1657952079_393821.png" alt="金山办公CEO回应WPS删文档争议：没有做错！" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             

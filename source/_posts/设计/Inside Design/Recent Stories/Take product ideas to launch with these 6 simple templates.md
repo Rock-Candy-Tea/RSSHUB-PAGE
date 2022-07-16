@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-templates-for-product-managers/'
 author: Inside Design
 comments: false
-date: 2022-07-16 07:09:16
+date: 2022-07-16 08:11:57
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-templates-for-product-managers/'
 ---
 
