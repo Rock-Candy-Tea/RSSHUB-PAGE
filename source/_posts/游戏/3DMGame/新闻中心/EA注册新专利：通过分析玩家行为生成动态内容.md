@@ -23,7 +23,7 @@ EA将会把这个框架与玩家的游戏数据结合起来，比如玩法信息
 EA的这组框架将侦测多款游戏的玩法数据，包括玩家的游戏风格。内置的追踪器可以收集信息种类包括战斗耗时、探索耗时、难度选择倾向、主线剧情通关时间等等。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220717/1658040729_592042.jpg" alt="EA注册新专利：通过分析玩家行为生成动态内容" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220717/1658040729_592042.jpg" alt="EA注册新专利：通过分析玩家行为生成动态内容" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 通过收集玩家的数据，这套框架可以对拥有不同行为习惯的玩家进行画像，比如竞争型、探索型和完成型等等。
