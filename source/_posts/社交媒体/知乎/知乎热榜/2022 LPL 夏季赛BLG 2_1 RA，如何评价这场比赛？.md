@@ -1,0 +1,18 @@
+
+---
+title: '2022 LPL 夏季赛BLG 2_1 RA，如何评价这场比赛？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pica.zhimg.com/v2-320aee6c43a24fb89d9daa6ddcd94da8_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Sat, 16 Jul 2022 12:36:06 GMT
+thumbnail: 'https://pica.zhimg.com/v2-320aee6c43a24fb89d9daa6ddcd94da8_1440w.jpg?source=b1748391'
+---
+
+<div>   
+刃鸣的回答<br><br><p data-pid="kYm1bQJ9">写在最前面，首先我觉得网络问题确实是每一个俱乐部应该解决的一个问题，这点规则上面可以说是合理吧，但我的观点就是这样的规则虽然合理，但这样的规则很不电子竞技也很恶心，恶心队伍，恶心观众。</p><p data-pid="DKyYTr5L">因为网络问题它本身是比较特殊的，它很有可能在99.9%的时间里面都是正常的，唯独在很小的时刻里面出现问题，这种情况下即便是赛前的测试，也很难测试出来。说到底网络波动只是小概率的事件。</p><p data-pid="SQV29Ep8">至于说可能会有的队伍利用网络波动来赚取优势，这显然是不合理的，因为你并不知道官方会如何的判罚，其次，你当周围的裁判都是傻子吗？时间回溯最多也就给你回溯到掉线的时候，但即使这样对于今天的RA来说也已经足够了。</p><p data-pid="gOLe1Tde">说以后会有队伍主动拉闸，这压根没有操作空间，你就算被开的一瞬间让你拉闸了，首先你怎么拉闸？拉闸完你能知道裁判怎么判？回溯到啥时候？我真的不觉得会有队伍故意这么搞，搞了的话可以交给裁判判罚嘛。</p><p data-pid="j1BnVbXX"><b>但问题在于现在裁判或是官方，就是直接一刀切，这不是偷懒是什么？</b></p><p data-pid="9RPrMCG2">官方的时间裂缝这个东西本身就应该是来为这些小概率事件兜底的，而不是简单的把这样的后果直接甩给俱乐部。咱还笑MSI的时候连个延迟都搞不明白，那现在这个岂不是连演都不演了，直接什么也不做。那我要你这个腾井体育干什么呢？就来吃流量吗？</p><p data-pid="5vnntAqT"><b>在一些小概率的突发事件面前，尽可能的维持比赛的竞技性和流畅性，这要求应该不算太高或者太过分吧。</b></p><p data-pid="UpYj19nN">下面的内容都是我看到一半的时候写的，所以会有些信息没同步。</p><p data-pid="8Em4wxIt">这就我一些个人观点，我属于理想主义一点，你觉得这种规则合理也ok，在评论区讨论就行，骂ra骂官方都行，别骂我就好。</p><hr><p data-pid="dIEv7jbx">第1局比赛22分45秒的时候出现了一个暂停， RA因为网络波动全部掉线了。</p><p data-pid="clfpwuuU">这时候这个时间点正好是ra的强势期，正准备争夺第3条火龙。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-320aee6c43a24fb89d9daa6ddcd94da8_1440w.jpg?source=b1748391" data-rawwidth="1487" data-rawheight="835" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-2d665a774a00b046a2802edd2a5b5468_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-320aee6c43a24fb89d9daa6ddcd94da8_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="W-zoKqZO">刚开始维克托看到的时候上去打了飞机一套，这个时候fofo上去打是没有问题的，因为也不知道ra掉线了对吧。</p><p data-pid="G4H5t1KZ">这时候连解说都觉得要用时光裂痕了。他很神奇的是只隔了3~4分钟游戏又马上恢复了，给到画面的时候差不多是22分53秒。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-b535703d1e55ef9686564ef27edce91c_1440w.jpg?source=b1748391" data-rawwidth="1491" data-rawheight="833" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-c2809d142717a86b9eab1514886f642c_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-b535703d1e55ef9686564ef27edce91c_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="aHDWbRVr">可以合理的猜测，游戏是直接恢复的，并没有时间回溯。而且这7秒钟里面可以看到飞机和落的血量都下降了非常多。掉线之前飞机是满血，然后因为网络波动，卡住被fofo打到半血，等回来的时候只剩下一个血皮了。</p><p data-pid="RFmkZzPa">那么毫无疑问，这一条火龙ra就完全争夺不了。这就特别特别的恶心人，因为网络波动本来能争的火龙完完全全争不了。</p><p data-pid="kTEv4lu-">如果这条火龙ra能够拿下，那么ra很可能在之后很快就会结束比赛。</p><p data-pid="_HWvGaF_">而且看一下恢复回来两边的血量和蓝量，可以发现塞拉斯和塞纳的蓝量都少了一些，所以我也可以合理的猜测，在恢复的瞬间塞拉斯和塞纳可能又打了飞机和洛一套把血量打低。</p><p data-pid="rSTxSAB7">台上的解说可能不太敢说，但我作为一个观众，我真的想问：</p><p data-pid="cSfgGdu3"><b>首先最大的问题是官方这种情况下为什么没有时间回溯？</b>队伍因为网络波动的问题遭到损失是合理的吗？</p><p data-pid="nVxlXXmP">其次是blg，恢复之后，明明已经知道对面是因为断线，所以站在那一个位置的，为什么还要上去打一套？难道不觉得这样胜之不武吗？</p><p data-pid="lWdFtzqx">虽然说恢复了游戏，你当然可以操作，但是这样的做法还是挺没品的。还好RA最后把比赛拿下了，算是正义执行了吧。</p><p><br></p><p data-pid="pxe8O4tH">更新：又掉线了。</p><p data-pid="1izYIxYK">RA本来能打的团，双C直接倒了，游戏也是直接恢复。这我真的想问问官方了：</p><p data-pid="LbIddAxT"><b>时空裂缝到底是干嘛用的？自适应的吗？</b></p><p data-pid="TO-tCGYx">更新：规则介绍网络波动由队伍自行承担责任，不能说没有道理吧。但有一说一，蛮没劲的，又不是说没有这个技术能力，这种情况也不算太多，可能我理解里电子竞技就是在游戏内的比拼，而不是游戏外的东西，RA今天输给了网络不好，算技不如人吗？BLG逮住对面掉线时候翻盘成功，真的是我们想看到的电竞吗？</p><p data-pid="wseeaSBI"><b>可以说这样的规则合理，但真的很恶心人</b></p><p data-pid="5j_1tMW1"><b>对RA对观众都是一种折磨。</b></p>  
+</div>
+            
