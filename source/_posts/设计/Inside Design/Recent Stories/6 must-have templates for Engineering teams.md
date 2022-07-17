@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-templates-for-engineers/'
 author: Inside Design
 comments: false
-date: 2022-07-17 09:10:05
+date: 2022-07-17 10:09:50
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-templates-for-engineers/'
 ---
 
