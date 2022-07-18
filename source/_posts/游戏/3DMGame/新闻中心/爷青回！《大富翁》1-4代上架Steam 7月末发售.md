@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220718/1658112085_8625
 <img src="https://img.3dmgame.com/uploads/images/news/20220718/1658112085_862589.jpg" alt="爷青回！《大富翁》1-4代上架Steam 7月末发售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#E53333;font-size:16px;">《典藏大富翁》</span></strong>
+<strong><span style="color:#E53333;font-size:16px;">《典藏大富翁》</span></strong> 
 </p>
 <p style="text-indent:2em;">
 《典藏大富翁》将于7月29日发售，包含《大富翁》《大富翁2》《大富翁3》。1989年大宇将大富翁<a target="_blank" href="https://www.3dmgame.com/tag/bg_1/">桌游</a>搬上计算机屏幕，首次发布了《大富翁》作品。而后几十年间，《大富翁》系列逐渐成为华语地区脍炙人口的休闲游戏。
@@ -68,7 +68,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220718/1658112085_8625
 <img src="https://img.3dmgame.com/uploads/images/news/20220718/1658112085_942239.jpg" alt="爷青回！《大富翁》1-4代上架Steam 7月末发售" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#337FE5;">游戏特色：</span></strong>
+<strong><span style="color:#337FE5;">游戏特色：</span></strong> 
 </p>
 <p style="text-indent:2em;">
 坐骑升级 乐趣多多
