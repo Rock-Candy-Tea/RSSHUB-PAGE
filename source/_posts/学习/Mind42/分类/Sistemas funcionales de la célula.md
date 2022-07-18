@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=488daed1-995b-4642-9c8e-0c7ab540f22b&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=b77fbc94-cf8e-4f6c-8612-a9997a16ecfb&size=gallery'
 author: Mind42
 comments: false
-date: 2022-07-18 00:50:12
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=488daed1-995b-4642-9c8e-0c7ab540f22b&size=gallery'
+date: 2022-07-18 03:05:26
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=b77fbc94-cf8e-4f6c-8612-a9997a16ecfb&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=488daed1-995b-4642-9c8e-0c7ab540f22b&size=gallery" referrerpolicy="no-referrer"><p>
-                    Fisiología                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=b77fbc94-cf8e-4f6c-8612-a9997a16ecfb&size=gallery" referrerpolicy="no-referrer"><p>
+                    Mapa mental sobre las características de la célula                </p>  
 </div>
             
