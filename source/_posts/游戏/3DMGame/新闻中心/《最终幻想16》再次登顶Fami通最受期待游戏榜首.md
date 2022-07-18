@@ -14,13 +14,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220717/1658069741_4263
 
 <div>   
 <p style="text-indent:2em;">
-《<a target="_blank" href="https://www.3dmgame.com/games/ff16/">最终幻想16</a>》占据Fami通最受期待游戏榜已经有一段时间了，尽管该作曾被《喷射战士3》取代，但在最新一起期待榜中，该作再次回到榜首的位置。
+《<a target="_blank" href="https://www.3dmgame.com/games/ff16/">最终幻想16</a>》占据Fami通最受期待游戏榜已经有一段时间了，尽管该作曾被《喷射战士3》取代，但在最新一期期待榜中，该作再次回到榜首的位置。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220717/1658069741_426307.jpg" alt="《最终幻想16》再次登顶Fami通最受期待游戏榜首" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220717/1658069741_426307.jpg" alt="《最终幻想16》再次登顶Fami通最受期待游戏榜首" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong>详细排名如下：</strong>
+<strong>详细排名如下：</strong> 
 </p>
 <p style="text-indent:2em;">
 1.《最终幻想16》——636票
