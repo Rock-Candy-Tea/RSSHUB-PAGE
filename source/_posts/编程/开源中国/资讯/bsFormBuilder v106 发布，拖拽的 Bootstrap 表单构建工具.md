@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/fuhai/bs-form-builder/raw/master/assets/images/bsformbuilder.png'
 author: 开源中国
 comments: false
-date: Mon, 18 Jul 2022 04:03:00 GMT
+date: Mon, 18 Jul 2022 12:03:00 GMT
 thumbnail: 'https://gitee.com/fuhai/bs-form-builder/raw/master/assets/images/bsformbuilder.png'
 ---
 
