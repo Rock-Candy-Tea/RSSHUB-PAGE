@@ -1,0 +1,19 @@
+
+---
+title: 'OPPO 与欧冠达成全球合作，或推出联名科技产品'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/40f55e88-90f8-4523-b7d9-5f6ef5a14a4b.png'
+author: IT 之家
+comments: false
+date: Mon, 18 Jul 2022 08:40:56 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/40f55e88-90f8-4523-b7d9-5f6ef5a14a4b.png'
+---
+
+<div>   
+<p data-vmark="0cd0"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 18 日消息，OPPO 今日宣布与欧足联顶级俱乐部比赛 —— <span class="accentTextColor">欧洲冠军联赛</span>开启全球合作。</p><p data-vmark="30f1" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/40f55e88-90f8-4523-b7d9-5f6ef5a14a4b.png" w="780" h="606" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="780" height="606" referrerpolicy="no-referrer"></p><p data-vmark="3d66">OPPO 称，OPPO 是全新的与欧足联顶级俱乐部比赛 —— 欧洲冠军联赛进行全球合作的中国科技品牌。在 2022-23 及 2023-24 两个赛季，OPPO 将与欧足联展开紧密的合作，<span class="accentTextColor">通过最新的科技产品见证、倾听、分享那些赛场奇迹背后鼓舞人心的时刻</span>，鼓舞每一位热爱足球的你克服困境，逆风前行。</p><p data-vmark="a51e" style="text-align: center;"><a class="ithome_super_player" contenteditable="false" target="_blank" data-timestamp="1658133950780" data-vpreview-url="https://f.video.weibocdn.com/u0/opw4u8ddgx07XIgz8mdy0104120096bg0E010.mp4?label=mp4_720p&template=1280x720.25.0&ori=0&ps=1BThihd3VLAY5R&Expires=1658137549&ssig=a0EUAgzYsD&KID=unistore,video" href="https://weibo.com/1710173801/LCQYvxI8l"><img src="https://wx4.sinaimg.cn/large/001RJIkpgy1h4b2450f1xj60ru0fowfv02.jpg" class="lazy" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" referrerpolicy="no-referrer"></a></p><p data-vmark="63f5" style="text-align: justify;">欧冠市场总监 Guy-Laurent Epstein 表示，<span class="accentTextColor">8 月份</span>新的赛季就要开始，到时候我们应该就能在赛场上看到 OPPO 的身影了。</p><p data-vmark="4a5a" style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220718/73454c7d409f4bcc8beb1643c2f9a3cc.png" target="_blank"><img h="337" src="https://img.ithome.com/newsuploadfiles/2022/7/d3fcfc14-da39-4a3f-b8a3-ec03a5f2815c.png" w="600" alt="八月球场见！OPPO官宣与欧冠达成战略合作" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="600" height="337" referrerpolicy="no-referrer"></a></p><p data-vmark="97cf" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/f120c891-93f2-44f8-9786-ecc7c72475a9.png" w="1253" h="732" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="1253" height="479" referrerpolicy="no-referrer"></p><p data-vmark="89d7">IT之家了解到，OPPO 早在 2015 年就和巴萨达成了合作关系，发布了 OPPO R7 Plus 巴萨定制版手机，此后又接连推出了 OPPO R9、OPPO R11、OPPO Reno 的巴萨定制版。官方称“通过最新的科技产品见证、倾听、分享那些赛场奇迹背后鼓舞人心的时刻”，可能也将推出联名欧冠的一些产品，我们共同期待一下。</p><p data-vmark="ce27">▼ OPPO R7 Plus 巴萨定制版</p><p data-vmark="c6ae" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2015/9/20150908_163108_699.jpg" w="600" h="418" alt="OPPO R7 Plus 巴萨定制版" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="600" height="418" referrerpolicy="no-referrer"></p><p data-vmark="8b13">▼ OPPO R9 巴萨定制版</p><p data-vmark="a700" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/086eb1e2-af53-40e7-8eec-8b08f4191f1a.jpg" w="550" h="366" alt="OPPO R9 巴萨定制版" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="550" height="366" referrerpolicy="no-referrer"></p><p data-vmark="d0dc">▼ OPPO R11 巴萨定制版</p><p data-vmark="07dc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2017/8/20170822_114831_702.jpg@s_2,w_600,h_400" w="600" h="400" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="600" height="400" referrerpolicy="no-referrer"></p><p data-vmark="37d1">▼ OPPO Reno 巴萨定制版</p><p data-vmark="ea02" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2019/7/20190723_100318_972.png" w="546" h="545" title="OPPO 与欧冠达成全球合作，或推出联名科技产品" width="546" height="545" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
