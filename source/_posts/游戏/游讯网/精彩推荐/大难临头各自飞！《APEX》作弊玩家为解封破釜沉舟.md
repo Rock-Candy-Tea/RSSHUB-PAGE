@@ -25,7 +25,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img4.yxdimg.com/2022/7/18/KDY
 
 <p style="text-align: center;"><a href="http://img4.yxdimg.com/2022/7/18/9e83da4c-41fd-4f15-9cdb-f1142ff536c0.jpg" style="text-align: center;" target="_blank"><img alt="游迅网www.yxdown.com" src="https://cors.zfour.workers.dev/?http://img4.yxdimg.com/2022/7/18/KDYwMHgp/9e83da4c-41fd-4f15-9cdb-f1142ff536c0.jpg" style="opacity: 0.9;" title="大难临头各自飞！《APEX》作弊玩家为解封破釜沉舟" referrerpolicy="no-referrer"></a></p>
 
-<p>   大致意思就是，我（被封禁玩家）很喜欢玩Apex，我承认在竞技场利用漏洞进行游戏，然后被你们（重生）Ban了。若果你们看到这条留言，做个交易，我可以供出更多的违规玩家，以此作为交换请解封我和我朋友的账号，求求你们了。</p>
+<p>   大致意思就是，我（被封禁玩家）很喜欢玩Apex，我承认在竞技场利用漏洞进行游戏，然后被你们（重生）Ban了。如果你们看到这条留言，做个交易，我可以当内鬼供出更多的违规玩家，以此作为交换请解封我和我朋友的账号，求求你们了。</p>
 
               
 </div>
