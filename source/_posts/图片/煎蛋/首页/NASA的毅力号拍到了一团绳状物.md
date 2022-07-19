@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/02/f
 ---
 
 <div>   
-<blockquote><p>大家猜猜是啥</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/02/fdd4d48905e9e78ddf868d55b3cc058e.jpg!custom" referrerpolicy="no-referrer"><p>最好的证据：NASA的毅力号火星车在火星上看到了一堆乱七八糟的绳子，看起来就像一个沮丧的垂钓者留下的钓鱼线。哪里可以钓鱼，哪里就有水，对吧？</p>
+<blockquote><p>大家猜猜是啥</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/02/fdd4d48905e9e78ddf868d55b3cc058e.jpg!custom" referrerpolicy="no-referrer"><p>最好的证据：NASA的毅力号火星车在火星上看到了一团乱七八糟的绳子，看起来就像一个沮丧的垂钓者留下的钓鱼线。哪里可以钓鱼，哪里就有水，对吧？</p>
 <p>实际上，这一小团垃圾很可能是毅力号的降落伞、甚至是后壳遗留下来的东西。</p>
 <p>我们的主要图像来自毅力号的机载右前避险摄像头A的缠结细绳的特写视图。</p>
 <p><img src="https://cors.zfour.workers.dev/?http://wx2.sinaimg.cn/mw1024/a1262f29ly1h4c6g538edj20jn09swfy.jpg" alt="NASA的毅力号拍到了一团绳状物" referrerpolicy="no-referrer"><br>

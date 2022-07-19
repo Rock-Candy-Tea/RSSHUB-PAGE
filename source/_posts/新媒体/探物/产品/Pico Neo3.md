@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Fr6Nr2g5WTtoJCRZ75FConpm91M9'
 author: 探物
 comments: false
-date: 2022-07-19 06:16:20
+date: 2022-07-19 07:09:19
 thumbnail: 'https://resource.tanwuapp.com/Fr6Nr2g5WTtoJCRZ75FConpm91M9'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Fr6Nr2g5WTtoJCRZ75FConpm91M9" referrerpolicy="no-referrer"><br>
           <strong>Pico Neo3</strong><br><br>
-          价格: ￥29.00 / 日<br>
+          价格: ￥0.01 / 日<br>
           评分: 0.0
           
 </div>
