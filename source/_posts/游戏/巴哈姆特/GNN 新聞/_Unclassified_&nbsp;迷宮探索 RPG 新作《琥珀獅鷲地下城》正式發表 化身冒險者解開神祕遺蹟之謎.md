@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.JPG?v=1658201385766'
 author: 巴哈姆特
 comments: false
-date: 2022-07-19 07:08:23
+date: 2022-07-19 08:11:59
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.JPG?v=1658201385766'
 ---
 
@@ -60,7 +60,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.
 <div>
  </div>
 <div>
-　　於本作中，玩家可透過探索迷宮來獲取武器、盔甲、神器、魔法卷軸、黃金、糧食等各類資源來壯大自己的隊伍，並將與在迷宮徘徊的怪物或魔物戰鬥，藉此累積經驗來解鎖更加強大的魔咒或技能。官方表示，遊戲中還存在許多有趣的 NPC，玩家可以與這些 NPC 交談來做物品交易或接受任務的委託。</div>
+　　於本作中，玩家可透過探索迷宮來獲取武器、盔甲、神器、魔法卷軸、黃金、糧食等各類資源來壯大自己的隊伍，並將與在迷宮徘徊的怪物或魔物戰鬥，藉此累積經驗來解鎖更加強大的魔咒或技能。官方表示，遊戲中還存在許多有趣的 NPC，玩家可以與這些 NPC 交談來做物品交易或接受任務委託。</div>
 <div>
  </div>
 <div>
