@@ -1,0 +1,18 @@
+
+---
+title: 'XGP7月下旬新增游戏一览'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/07/19/c1c03ff32ac500bfe05ddf35595ab758/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Tue, 19 Jul 2022 09:02:26 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/07/19/c1c03ff32ac500bfe05ddf35595ab758/thumb.jpeg'
+---
+
+<div>   
+<p><img class="lazy" data-height="675" src="https://imgheybox.max-c.com/web/2022/07/19/c1c03ff32ac500bfe05ddf35595ab758/thumb.jpeg" data-width="1200" referrerpolicy="no-referrer"></p><p>微软XBOX官方新闻正式公布了7月下旬XGP订阅新增游戏，其中<b>PC端5款</b>，<b>主机端5款</b>。一起看看都有哪些游戏吧。</p><p><a href="https://www.xiaoheihe.cn/community/66740/list/86716141" target="_blank">▶XGP7月上旬新增游戏一览</a><br></p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/217376cb5a7c325aa0fc4369739112da/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>1、《黄昏降临时》——7月19日（PC、主机、云游戏）</p><p><img data-gameid="1341820" src="https://cdn.akamai.steamstatic.com/steam/apps/1341820/header.jpg?t=1657825354" referrerpolicy="no-referrer"></p><p><b>交互式剧情游戏</b>，故事从1998年在美国西南部的亚利桑那州小镇发生的一起抢劫案开始，讲述了跨越数十年的故事。这款游戏是前段时间XBOX+Bethesda发布后发售的第一款新游，值得期待。</p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/530a9dd4ae3877d070b12b4379e8c0b6/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>2、《奇点灰烬：拓展版》——7月19日（PC）</p><p><img data-gameid="507490" src="https://cdn.max-c.com/heybox/game/header/507490_2Vqq2.jpg" referrerpolicy="no-referrer"></p><p>一款<b>RTS游戏</b>，背景设定在人类已经征服了银河系的未来，但是也面临着一个叫做“基体”的AI敌人，企图推翻人类在宇宙之中的统治地位。拓展版在原版的基础上进行了优化并新增了一些新功能，游戏暂无中文。</p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/465c9423f4bb86f9fad510ed59d04246/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>3、《看门狗2》——7月19日（PC、主机、云游戏）</p><p><img data-gameid="447040" src="https://cdn.max-c.com/heybox/game/header/447040_WlmxW.jpg" referrerpolicy="no-referrer"></p><p><b>开放世界剧情游戏</b>《看门狗2》将黑客和美国街头、嘻哈风格结合起来，讲述了一群有志青年在旧金山和黑客公司DedSec斗智斗勇的故事。作为盛产“<b>旅游模拟器</b>”的育碧游戏，看门狗自然是拥有当年绝美的画质，甚至游戏内自带“网红圣地”打卡APP。《看门狗2》在剧情上和1代没太大关联，剧情也不如1代，但是探索感、自由度和游戏玩法还是相当丰富的，如果还没玩过这款游戏的一定要尝试一下。</p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/49b4b32dde92e879f935970ee05e4a21/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>4、《摩托GP 22》——7月21日（PC、主机、云游戏）</p><p><img data-gameid="1710580" src="https://cdn.akamai.steamstatic.com/steam/apps/1710580/header.jpg?t=1653577846" referrerpolicy="no-referrer"></p><p>年货游戏。MotoGP（世界摩托车锦标赛）最为世界上最顶尖的摩托车赛事，自然少不了游戏公司的青睐。《摩托GP 22》共17个章节，包含了超过120名车手和20条官方赛道，游戏受众小，适合喜欢<b>竞速游戏</b>和摩托车的玩家，游戏支持<b>本地分屏游玩</b>。</p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/58861ffc48df33ae2aab34a3c86857e4/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>5、《折磨：扭蒙拉之潮》——7月21日（主机、云游戏）</p><p><img data-gameid="272270" src="https://cdn.max-c.com/heybox/game/header/272270_fmdUu.jpg" referrerpolicy="no-referrer"></p><p>游戏玩法类似《永恒之柱》，在<b>CRPG</b>如此稀缺的游戏环境下，这款游戏一直不温不火，很大一部分原因应该在于游戏包含了大量文本但没有官方中文，民间汉化也并不完善。<b>重度CRPG爱好者</b>朋友可以尝试一下这款硬核游戏。</p><p><img class="lazy" data-height="18" src="https://imgheybox.max-c.com/web/2022/07/19/900ca5a764df39257534e444342bbeea/thumb.png" data-width="677" referrerpolicy="no-referrer"></p><p>6、《深入》——7月29日（PC、主机、云游戏）</p><p><img data-gameid="304430" src="https://cdn.max-c.com/heybox/game/header/304430_zyyVk.jpg" referrerpolicy="no-referrer"></p><p>一款发行于2016年的<b>独立游戏</b>。一经发行就荣获了多个奖项，也收获了玩家的诸多好评。玩家操作一个小男孩，一边躲避各种敌人，一边进行解谜。游戏类型为<b>横版冒险解谜</b>，画风相对阴暗，不同的玩家游玩之后都会有不同的感触和理解。</p><p><a href="heybox://open_subject" target="_blank">#xgp</a><a href="heybox://open_subject" target="_blank">#pc游戏#</a></p>  
+</div>
+            

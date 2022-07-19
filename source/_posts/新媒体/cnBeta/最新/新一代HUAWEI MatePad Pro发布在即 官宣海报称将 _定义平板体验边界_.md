@@ -1,0 +1,19 @@
+
+---
+title: '新一代HUAWEI MatePad Pro发布在即 官宣海报称将 _定义平板体验边界_'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0719/1bbc82f4876cf0a.webp'
+author: cnBeta
+comments: false
+date: Tue, 19 Jul 2022 02:33:15 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0719/1bbc82f4876cf0a.webp'
+---
+
+<div>   
+北京时间2022年7月19日，华为终端官方微博发布预热海报，官宣以“定义平板体验边界”为主题的新一代HUAWEI MatePad Pro将正式发布，此次HUAWEI MatePad Pro 预计将借力“黑科技”实现平板使用体验上的突破，进一步提升生产力与创造力。<br>
+<p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0719/1bbc82f4876cf0a.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>优秀基因既在，不惧挑战</strong></p><p style="text-align: left;">自2010年初代产品上市至今，<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>平板业务已走过了十多个年头。十年时间不多不少，可用于钻研某一技术，也可用于创新某处外观……过程中，华为发布了不少令人印象深刻的作品。</p><p style="text-align: left;">以M系列为例，作为华为平板的第一张名片，其贡献在于打出了华为平板影音娱乐强的名号，使不少用户成功入坑，尽情享受利用平板刷剧、听音乐等非凡体验。进入2019年，HUAWEI MatePad一系列旗舰新品的到来，预示着华为平板进军高端的野心。事实上，该系列平板也确实在用户口碑上积累了不少成就，逐渐形成了“华为平板定位生产力和创造力”的大众认知。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0719/0a9db9219a61aa3.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">2020年初，随着5G技术的不断成熟和发展，全球首款5G平板HUAWEI MatePad Pro 5G应运而生。5G与平板，两个概念相结合会擦出什么样的火花？对此，HUAWEI MatePad Pro5G给出的答案是高速率、低延迟的顶级网络状态；更快更高数据量的传送水平；跟手无迟滞感的游戏体验......</p><p style="text-align: left;">去年，华为方面更是发布了首款搭载HarmonyOS 2的旗舰平板，延伸使用功能的同时，该款平板也使得华为平板的创造力来到新的阶段。由此，华为平板的优秀基因已奠定，在稳扎稳打的发展过程中，自然也不惧挑战和创新。</p><p style="text-align: left;"><strong>三大品类连接 不负期待</strong></p><p style="text-align: left;">每次华为平板上新，身边总会围绕着各种讨论和评价的声音。究其原因，无外乎两种，一是期待看到全新的突破，二是想要在具体的使用体验上有所感知。具体到此次的HUAWEI MatePad Pro而言，从目前公布的海报上可以看到“定义平板体验边界”七个大字，整体的海报设计语言也呈现出一种“黑科技”满满的风格。</p><p style="text-align: left;">针对海报图上出现的三个数码产品，具体指向大概率为平板、PC、<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>三个品类。根据华为官方目前公布的全新MatePad将首发搭载HarmonyOS 3等信息来看，新一代的MatePad Pro或将迎来重大黑科技更新，可能是在还原PC生态和提升移动体验上迎来较大突破。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0719/39ecdb8f2ee7e0d.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">聚焦“还原PC生态”这一点，简单来说就是开启平板秒变PC的使用体验。从配合键盘鼠标操作，到同时打开和操作多个应用界面，再到文件管理过程中快速保存内容至桌面……PC所具备的功能，华为平板正在一项项实现。搭配HUAWEI M-pencil手写笔、智能吸磁键盘等硬件<a data-link="1" href="https://microsoft.pvxt.net/Xx07X" target="_blank">配件</a>，无纸化操作是基础，在HUAWEI MatePad Pro的身上，可以期待看到的是更加智慧化、协同化的操作。不管是学习还是办公，效率稳步提升。</p><p style="text-align: left;">再强调“提升移动体验”，紧抓“移动”这个关键词，HUAWEI MatePad Pro会更加迎合当下办公人群的真实需求，即在办公室之外，仍有稳定快捷处理工作任务的环境。这当然不能从单方面的功能提升来看，需结合续航、鸿蒙生态系统、性能，甚至是外观设计等多个层面进行考虑。根据目前华为官方提供的信息，无线传输的速率、可承载的文件大小；手机、平板、PC三大品类之间的互联互通能力、快捷性；平板电池容量水平；整体的轻薄程度、机身重量等都是可以跟进的方向，具体可等待新品发布会对一一验证和对照。</p><p style="text-align: left;">总的来说，平板使用过程中能为用户提供的生产力和创造力仍是目前华为平板持续努力的方向，自然也不会轻易辜负用户期待。</p><p style="text-align: left;"><strong>生态融合推进 不畏将来</strong></p><p style="text-align: left;">如何实现“1+1＞2”的效果？这个问题抛给了不同行业，回到平板业务来说，就是要求其要做到不断突破不同设备和系统之间的壁垒，持续推动生态之间的融合。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0719/e6d366ae4c82dc3.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">对此，华为平板站在鸿蒙系统的基础上，不断尝试打开与其他设备之间的链接，进一步便利用户使用过程的各个场景。以运动来例，高帧率、高屏占比等优势使华为平板成为不少健身达人在家跟着刘耕宏做操的得力助手，为使健身情况能够被实时记录，可以搭配华为手环来进行监控；以学习为例，华为手机上接收的作业或资料可在课后快速传输到华为平板，完成后再拖动回手机，整个过程一气呵成，超级终端的组合使学习更高效；以工作设计为例，华为平板可与华为笔记本进行多屏协同，笔记本上播放视频等资料，平板上利用手写笔进行简单的创作，并且我们可以在平板端控制笔记本屏幕，或者反过来利用笔记本控制平板……</p><p style="text-align: left;">当然，以上种种均是针对用户个人体验，将华为平板此举放在整个行业，这无疑打开了国产平板业务的新维度：不再只是刷剧娱乐的放大版“手机”，而是与手机、笔记本电脑相互连接的生产力工具。又或者结合平板体型小、易携带的特点来看，它更像是中枢神经，一边实现着手机无法实现的功能，一边满足着用户在PC 端的各种要求。</p><p style="text-align: left;">未来，我们是不是可以只携带一个平板就能安心出门，依靠其完成办公、娱乐等各种需求？华为平板正在这条路上不断前进，并力求找到肯定的答案。期待HUAWEI MatePad Pro发布后的表现。</p>   
+</div>
+            
