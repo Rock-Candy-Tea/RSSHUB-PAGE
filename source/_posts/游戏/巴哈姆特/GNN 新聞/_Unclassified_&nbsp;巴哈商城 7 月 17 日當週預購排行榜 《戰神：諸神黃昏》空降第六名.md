@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?v=1658137303677'
 author: 巴哈姆特
 comments: false
-date: 2022-07-18 15:09:55
+date: 2022-07-19 00:55:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?v=1658137303677'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?v=1658137303677" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG 2x" style="max-width: unset;" title="《蓓優妮塔 3（舊譯：魔兵驚天錄 3）》上週正式公布發售日" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?v=1658137303677" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.JPG 2x" style="max-width: unset;" title="《蓓優妮塔 3（舊譯：魔兵驚天錄 3）》上週正式公布發售日" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%93%93%E5%84%AA%E5%A6%AE%E5%A1%94+3" target="_blank">蓓優妮塔 3</a>（舊譯：魔兵驚天錄 3）》上週正式公布發售日</figure>
 </li>
@@ -51,7 +51,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 <div>
  </div>
 <div>
-<span style="font-size:13px;"><span style="color:#a9a9a9;">※ 遊戲本體已上市的《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a></span><span style="color:#a9a9a9;">》是因為未發售的周邊商品暢銷之故而拿下第五名。</span></div>
+<span style="font-size:13px;"><span style="color:#a9a9a9;">※ 遊戲本體已上市的《</span><a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a><span style="color:#a9a9a9;">》是因為未發售的周邊商品暢銷之故而拿下第五名。</span></span></div>
 <div>
  </div>
 <div>
@@ -122,7 +122,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 67.31%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG?v=1658135396123" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG 2x" style="max-width: unset;" title="《蓓優妮塔 3》除了普通版之外，隨附各種特典的特別版《蓓優妮塔 3 Trinity Masquerade Edition》（日文版）亦同時發售" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 67.31%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG?v=1658135396123" data-srcset="https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/37/af485e9cb909b1703c4f62304c1h8p15.JPG 2x" style="max-width: unset;" title="《蓓優妮塔 3》除了普通版之外，隨附各種特典的特別版《蓓優妮塔 3 Trinity Masquerade Edition》（日文版）亦同時發售" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%93%93%E5%84%AA%E5%A6%AE%E5%A1%94+3" target="_blank">蓓優妮塔 3</a>》除了普通版之外，隨附各種特典的特別版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%93%93%E5%84%AA%E5%A6%AE%E5%A1%94+3" target="_blank">蓓優妮塔 3</a> Trinity Masquerade Edition》（日文版）亦同時發售</figure>
 </li>
@@ -161,7 +161,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG?v=1658137213429" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG?v=1658137213429" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/c919928141dbcdb8149fffc9961dm995.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -217,7 +217,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 52.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG?v=1658136473014" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 52.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG?v=1658136473014" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/92/d8f63a5624a739bf17d0e6a6781gf3w5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -266,13 +266,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 </tr>
 <tr class="single-row" data-kind="1020_159_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" referrerpolicy="no-referrer">
 <p>
 1</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/11/1a9ea856c96155afa39af0fb961gkwr5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -295,13 +295,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 </tr>
 <tr class="single-row" data-kind="860_19_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" referrerpolicy="no-referrer">
 <p>
 2</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=860&dc_c2=19&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=860&dc_c2=19&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/171f202a4fa91646e2b488be4b1fz2x5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -324,13 +324,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/15/0edc197d2c48d829751dc68aa11h8of5.
 </tr>
 <tr class="single-row" data-kind="22394_3_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" referrerpolicy="no-referrer">
 <p>
 3</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=22394&dc_c2=3&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=22394&dc_c2=3&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/519ddf173bb1b59f402cfa14131g0tc5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>

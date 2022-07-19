@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/668/879/029/730/977/original/685dfa9dbfed4e3c.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/671/179/312/474/404/original/2c3961a35fd4e4b3.png'
 author: Mastodon
 comments: false
-date: Mon, 18 Jul 2022 14:45:04 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/668/879/029/730/977/original/685dfa9dbfed4e3c.jpeg'
+date: Tue, 19 Jul 2022 00:30:02 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/671/179/312/474/404/original/2c3961a35fd4e4b3.png'
 ---
 
 <div>   
-<hr><p>【投稿記事を更新しました】<br>[漫画] 鋼の錬金術師 第20巻（荒川弘）<br>投稿日：2018.10.1<br>更新日：2022.7.17<br>作品名：鋼の錬金術師<br>巻数　：第20巻<br>作家名：荒川弘<br>出版社：スクウェア・エニックス (2008/8/22)<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%AC%E3%83%99%E3%83%83%E3%82%AB" class="mention hashtag" rel="tag">#レベッカ</a>・カタリナ<br><a href="https://pawoo.net/tags/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB" class="mention hashtag" rel="tag">#鋼の錬金術師</a><br><a href="https://www.a-legend.net/wordpress/?p=9503" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=9503</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/668/879/029/730/977/original/685dfa9dbfed4e3c.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/668/879/097/082/532/original/49be661e0c3302b6.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[漫画] 【R-18】ママならないオンナたち （おとちち）<br>投稿日：2018.3.5...<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%81%8A%E3%81%A8%E3%81%A1%E3%81%A1" class="mention hashtag" rel="tag">#おとちち</a><br><a href="https://www.a-legend.net/wordpress/?p=8906" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=8906</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/671/179/312/474/404/original/2c3961a35fd4e4b3.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
