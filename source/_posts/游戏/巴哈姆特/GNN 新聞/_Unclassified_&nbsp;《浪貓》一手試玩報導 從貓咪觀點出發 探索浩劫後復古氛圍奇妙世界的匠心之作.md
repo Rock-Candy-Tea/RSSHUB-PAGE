@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.JPG?v=1658211045742'
 author: 巴哈姆特
 comments: false
-date: 2022-07-19 12:18:56
+date: 2022-07-19 13:34:29
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.JPG?v=1658211045742'
 ---
 
 <div>   
 <div>
 <div>
-　　由 BlueTwelve Studio 開發的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B5%AA%E8%B2%93%EF%BC%88" target="_blank">浪貓（</a>Stray）》，是一款以流浪貓為題材的第三人稱動作冒險遊戲，已於今日（7/19）在 PS5、PS4 與 Steam 平台正式推出，並同步加入 PlayStation Plus 訂閱制遊戲陣容。</div>
+　　由 BlueTwelve Studio 開發的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B5%AA%E8%B2%93%EF%BC%88" target="_blank">浪貓（</a>Stray）》，是一款以流浪貓為題材的第三人稱動作冒險遊戲，已於今日（7/19）推出 PS5 / PS4 版（Steam 版 7/20 上市），並同步加入 PlayStation Plus 訂閱制遊戲陣容。</div>
 <div>
  </div>
 <div>
@@ -345,7 +345,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B5%AA%E8%B2%93" target="_blank">浪貓</a>》作為一款遊玩時間約 8～10 小時的獨立製作小品遊戲來說，雖然就玩法來說中規中矩，不過有著獨具巧思且賞心悅目的風格與氛圍，加上讓貓奴高度共鳴的主題，是一款很適合細細品味慢慢體會的作品。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B5%AA%E8%B2%93" target="_blank">浪貓</a>》作為一款遊玩時間約 6～8 小時的獨立製作小品遊戲來說，雖然就玩法來說中規中矩，不過有著獨具巧思且賞心悅目的風格與氛圍，加上讓貓奴高度共鳴的主題，是一款很適合細細品味慢慢體會的作品。</div>
 <div>
  </div>
 <div>
@@ -362,10 +362,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.
 <li>
 遊戲類型：第三人稱動作冒險</li>
 <li>
-對應平台：PlayStation 4 / PlayStation 5 / PC（Steam）<br>
+對應平台：PlayStation 5 / PlayStation 4 / PC（Steam）<br>
 　　　　　<span style="font-size:13px;">※ 支援 PlaySation Plus 遊戲訂閱服務</span></li>
 <li>
-發售日期：2022 年 7 月 19 日</li>
+發售日期：PS5 / PS4 版 2022 年 7 月 19 日，Steam 版 2022 年 7 月 20 日</li>
 <li>
 建議售價：PS5 / PS4 版 新台幣 890 元<br>
 　　　　　Steam 版 新台幣 479 元<span style="font-size: 13px;">（上市前預購享 10% 折扣） </span></li>
