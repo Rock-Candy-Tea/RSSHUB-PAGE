@@ -1,0 +1,90 @@
+
+---
+title: 'vivo这三支概念片，拍得很高级'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://ngbjimg.xy599.com/74959996862d40a951ba624.63753302.png'
+author: 鸟哥笔记
+comments: false
+date: Tue, 19 Jul 2022 03:48:25 GMT
+thumbnail: 'https://ngbjimg.xy599.com/74959996862d40a951ba624.63753302.png'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <div id="js_content">
+<section data-role="paragraph" data-width="92%">
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-mpa-powered-by="yiban.io"><span>巴菲特说：<strong>“每个人终其一生，只需要专注做好一件事就可以了。</strong>”</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-mpa-powered-by="yiban.io"><span>这个道理听起来简单，做起来却并不容易。信息碎片化时代，我们很容易被外界干扰，无法专注做好一件事。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>最近，<span><a href="https://www.niaogebiji.com/tag/vivo" target="_blank">vivo</a></span>发</span><span>布了全新品牌态度片《一阵风》，将“专注”这个概念讲得很高级。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong><span>视频文案：</span></strong></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>风，不会停下来<br><br>概念<br>指数<br>钱<br>机会<br>都是风<br><br>刚开始<br>风总会找到我<br>吹向我<br><br>风贴近耳朵说：</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>抓住一切可以抓住的<br>我不回答<br><br>风接着说：</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>跟紧我，别落下</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>我不回答<br><br>风大声说：<br>看看别人的动向<br>我不回答<br><br>风翻动数字<br>吹乱想法<br>打破平静<br><br>我向前时风会说：</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>难道你不需要点顺风<br><br>风暴来临时用呼啸提醒我：</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>抓住一切可以抓住的<br><br>我站的地方成了风口<br>微风<br>狂风<br>风雨交加<br><br>风换着语言<br>我继续做自己的事情<br>用沉默回答了风<br><br>在满是风向的世界里<br>风继续风的<br>我继续我的<br><br>在不确定的世界里<br>做确定的事<br><br>专注一件事，vivo</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"> </p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">01</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>三支概念短片<br></span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>凸显一个主题</span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>以上看到的这支概念宣传片《一阵风》，是<span>VI</span><span>VO</span>拍摄的 「ONETHING」系列短片中的其中一支。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/74959996862d40a951ba624.63753302.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>在这支两分多中的短片里，可以看到很多关于风的意象。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>概念、指数、钱、机会，都是风，风会主动诱惑，让你抓住机会、紧跟步伐、看看别人的动态；风会扰乱人的想法，打破内心的平静。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>“风”对“我”说各种话，而“我”始终沉默，展现的是我不为所动，内心坚定的态度，表现了一种和混乱环境的对峙。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>在风暴来临的时候气定神闲，大有苏东坡“一蓑烟雨任平生，也无风雨也无晴”这种处变不惊的超脱人生观。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>曾经看到一句话：<strong>“成年人最大的自律是，在不确定的世界，做确定的自己。”</strong>再难，生活还要继续。所有的艰难险阻，都是惊喜的铺垫。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>《一阵风》这支短片，也是想传达出这个人生态度，即：<strong>「在不确定的世界里，做确定的事」。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: center; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://ngbjimg.xy599.com/93133826162d40a9581bd08.10806734.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>“风继续风的，我继续我的<span>”</span>，<strong>同时也暗示品牌不跟风，专注做产品的态度。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>在《一阵风》之后，<strong>vivo又推出了同系列的《一块砖》、《一颗心》。同样用充满质感的故事来表现品牌匠心精神。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>一块砖讲的是一个建筑师的故事，他漂洋过海来到一座小岛上，只为了成为一名伟大的建筑师，当他和砖对话问砖想要成为什么时，砖却回答想成为一个拱。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>这里设置了一段富有深意的对话，建筑师自言自语说道他也想做一个拱，可是拱花钱多又不好做，其实混泥土也一样好，虽然砖可以将就，可是他还是想要一个拱。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/128049047462d40a9645ad71.63139628.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong><span>借助砖的意象来形容vivo手机不愿将就，成就好品质的精神。</span></strong><span></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>最后落脚的文案是：<strong>「与其索要结果， 不如成为原因」</strong>，通过这支片子传达出，在索要结果之前，不如先努力成就更好的自己。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>《一颗心》是科幻片题材，在视频一开始，机器人便直言主人公焦虑又看起来很疲惫，而男主的回答是“要么赢，要么被替代，我们追求的，不是平常的人生”。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>男主表示自己经常失眠，吃饭的时候开会，开会的时候赶路，赶路的时候睡觉，心累。</span><span></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/186594120462d40a96c60f32.55830745.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>机器人则恰恰相反，他吃饭时吃饭，开会时开会，睡觉时睡觉，心不累。</span><span></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/179225745262d40a97562d79.22017804.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>在打球比赛中，机器人却输了，因为他想的不是赢对方，而是把每一个球打在球台上。因为机器人心无杂念，没想输赢，只专注做事。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>同样，这支短片也有一段很有深意的对话，男主说“你和我的心不一样”，机器人却回答“我的心和平常一样”，从而引出文案<strong>“不做平常人，有颗平常心”。</strong></span><span></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/32191990162d40a9830edb4.65256415.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><strong><span>平常人常有，而平常心不常有。</span></strong><span>保持平常心，不受外界诱惑的干扰，这也<strong>体现了vivo始终坚持的长期主义。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>vivo通过洞察职场人社会现状，推出这支富有内涵的高科技短片，提醒人们摆脱焦虑和疲惫，保持平常心，专注做事。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"> </p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">02</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>以电影质感拍广告<br></span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>诠释品牌匠心精神</span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>近年来越来越多的品牌将广告拍出电影质感。比如华为的“华为影业”，五芳斋的“五芳影业”，中国银联的“银联影业......</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>这些大片级广告，通过丰富的人物故事线、考究的场景拍摄，震撼的特效，带给观众更完美的观看体验，同时通过故事，将品牌主张和产品卖点植入受众心智。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>回看vivo这三支片子，导演都是<strong>丁雨晨</strong>，如果是广告行业的朋友，即便你不熟悉这个名字，那你也一定看过他拍的广告。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>从中国银联的</span><span>《大唐漠北最后一次转账》</span><span>到杰克琼斯《8000公里T台秀》、再到自然堂的《冲吧！小朋友》、哔哩哔哩的《放焰火》等等作品，</span><span>都让人们见识到了这位新锐导演不凡的功力。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/213322647762d40a98984ae8.84241931.jpeg" width="444" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>vivo这三支大片同样拍得很有水平，无论是演员、旁白、特效、文案、场景都很有质感，短片震撼的特效更拍出了电影大片的质感。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/212949445662d40a990fbec2.77920536.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/55878892962d40a99868373.12868854.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>如果把这三支片子放在一起看，就能看出vivo一贯的品牌策略，<strong>通过契合时代情绪的故事，高级有质感的画面，引发受众共鸣，来传达品牌的专注、品质、匠心。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>不难看出，这三支视频中都植入vivo折叠手机，凸显产品的工艺和强大卖点。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/12465171062d40a9a41eec1.67497605.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/28989730262d40a9b1b2d11.38121274.png" width="555" referrerpolicy="no-referrer"></p>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); font-size: 18px; color: #212629; text-align: left; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; padding-left: 12px;">03</h2>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>以价值观为驱动</span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong><span>专注做好一件事</span></strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>徐悲鸿一生钟情画马，齐白石毕生专注画虾，</span><span>一个人最大的成功，就是把一件事情专注做到极致。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>观察这三支短片，<strong>「专注」，是vivo这支大片想主要传达的品牌诉求点</strong>，因此，在品牌策略上，vivo选择通过大风的「狂」，与人物的「稳」，来表现人和混乱环境的对峙，并用人物与大风的对抗，来凸显专注。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>在视频结尾的落脚的文案是：「专注一件事，vivo 」，即永远保持平常心，坚持做正确的事，以及力求把事情做正确。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ngbjimg.xy599.com/130482969962d40a9bed9ab5.76640539.png" width="555" referrerpolicy="no-referrer"></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span><strong>对于</strong><strong>来说，价值观亦是企业一切行事的基础，“专注”的价值观影响了<span><span>vivo</span></span>的方方面面。</strong></span><span>「专注」是一个企业持续增长十分重要的因素，专注做好手机产品，才能立于不败之地。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>今年是<span><span>vivo</span></span>走过的第27个年头，回顾<span><span>vivo</span></span>这二十多年的时间里，<strong>其似乎只做了一件事——专注做手机。</strong></span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>正因为专注，使得<span><span>vivo</span></span>手机产品能够拥有更高质量的标准，并在用户心智中抢占手机领先品牌的印象。</span></p>
+<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><span>只有在自己擅长的领域精耕细作，不断提升自己的核心竞争力，品牌才能越走越远。专注到极致，是通往成功的最佳捷径。</span></p>
+</section>
+</div>                        <div style="height: 1px"></div>
+                      
+</div>
+            
