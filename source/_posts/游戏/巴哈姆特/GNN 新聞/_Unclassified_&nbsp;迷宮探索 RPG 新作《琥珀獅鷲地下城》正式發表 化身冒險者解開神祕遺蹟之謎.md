@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.JPG?v=1658201385766'
 author: 巴哈姆特
 comments: false
-date: 2022-07-19 05:00:13
+date: 2022-07-19 05:45:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.JPG?v=1658201385766'
 ---
 
@@ -52,7 +52,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/e18dbf30011d10d839cdb67a991hbvx5.
 </div>
 </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%90%A5%E7%8F%80%E7%8D%85%E9%B7%B2%E5%9C%B0%E4%B8%8B%E5%9F%8E" target="_blank">琥珀獅鷲地下城</a>》 是一款以黑暗世界為背景的迷宮探索類 RPG ，以 90 年代的迷宮冒險遊玩機制、融合波蘭北部真實存在的「卡舒比亞」（Kashubia）傳說典故為其遊戲特色；玩家將化身成為追求財富和名聲的世界探險團的一員，試圖解開神祕遺蹟之謎。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%90%A5%E7%8F%80%E7%8D%85%E9%B7%B2%E5%9C%B0%E4%B8%8B%E5%9F%8E" target="_blank">琥珀獅鷲地下城</a>》 是一款以黑暗世界為背景的迷宮探索類 RPG ，以 90 年代的迷宮冒險遊玩機制、融合波蘭北部地區真實存在的「卡舒比亞」（Kashubia）傳說典故為其遊戲特色；玩家將化身成為追求財富和名聲的世界探險團的一員，試圖解開神祕遺蹟之謎。</div>
 <div>
  </div>
 <div>
