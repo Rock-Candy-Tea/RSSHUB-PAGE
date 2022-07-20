@@ -13,7 +13,7 @@ thumbnail: 'https://img.cls.cn/images/20220720/cl69B055Dy.png'
 ---
 
 <div>   
-<div class="m-b-10"><p><strong>《科创板日报》7月20日讯（编辑 宋子乔）</strong>那厢，马斯克刚丢出一个爆炸性话题——自己已“上传大脑至云端”，引发A股脑科学相关概念股大涨；这厢，其脑机接口公司Neuralink就被挖出：创始团队已经分崩离析。</p>
+<div class="m-b-10"><p><strong>《科创板日报》7月20日讯（编辑 宋子乔）</strong>那厢，马斯克刚丢出一个爆炸性话题——<a href="https://api3.cls.cn/share/article/1075560?os=android&sv=2.1.5&app=stib">自己已“上传大脑至云端”</a>，引发A股脑科学相关概念股大涨；这厢，其脑机接口公司Neuralink就被挖出：创始团队已经分崩离析。</p>
 <p><strong>Neuralink的创始成员之一Paul Merolla在其个人网站上透露，自己要去“开始新的冒险”，“我决定离开Neuralink去追求另一个项目（目前仍处于保密状态）。” </strong></p>
 <p><img src="https://img.cls.cn/images/20220720/cl69B055Dy.png" alt="image" referrerpolicy="no-referrer"></p>
 <p>据Teslarati援引路透社消息，Paul Merolla已在最近几周离职。此前，包括马斯克和Merolla在内的8个人创立了Neuralink，随着Merolla的离开，<strong>除了马斯克之外，该公司只剩下一位创始成员</strong>——植入工程师Dongjin“DJ”Seo。</p>
@@ -54,6 +54,6 @@ thumbnail: 'https://img.cls.cn/images/20220720/cl69B055Dy.png'
 <p>想想看，只需要接入外部设备，便能让残障人士借助机械臂重获行动力、瘫痪患者摆脱轮椅、神经性失聪失明患者重拾感官……</p>
 <p>医疗健康领域外，伴随技术的逐渐成熟，教育、游戏、智能家居、军事等均是脑机接口的潜在应用领域。</p>
 <p>麦肯锡公司在2020年发布的报告估算，脑机接口设备在未来10-20年内将产生700亿-2000亿美元的年市场价值。</p>
-<p>可以预见的是，即便Neuralink倒下，脑机接口领域发相关突破依然会层出不穷。</p></div>  
+<p>可以预见的是，即便Neuralink倒下，脑机接口领域相关突破依然会层出不穷。</p></div>  
 </div>
             

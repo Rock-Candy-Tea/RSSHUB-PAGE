@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/60/04b03020d8f8ba6790ce5692741hcvo5.JPG?v=1658292151457'
 author: 巴哈姆特
 comments: false
-date: 2022-07-20 10:10:22
+date: 2022-07-20 11:08:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/04b03020d8f8ba6790ce5692741hcvo5.JPG?v=1658292151457'
 ---
 
@@ -41,7 +41,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/04b03020d8f8ba6790ce5692741hcvo5.
 <div>
 <ul class="bh-grids-img" style="width:50%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 162.06%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG?v=1658310245667" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 162.06%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG?v=1658310245667" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/bb6b5fda94bd50b0bf71ee399d1hcvp5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -95,8 +95,6 @@ CUBE 券 20 枚</li>
 <div>
  </div>
 <div>
- </div>
-<div>
 <ul class="bh-grids-img" style="width:50%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
 <figcaption style="padding-bottom: 206.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/7e0f9664a7ffc21e36b6e2d7921hcvu5.JPG?v=1658292818731" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/7e0f9664a7ffc21e36b6e2d7921hcvu5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/7e0f9664a7ffc21e36b6e2d7921hcvu5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
@@ -110,8 +108,6 @@ CUBE 券 20 枚</li>
  </div>
 <h2>
 付費大型擴充 DLC 後篇「Matricaria」</h2>
-<div>
- </div>
 <div>
  </div>
 <div>

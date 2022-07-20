@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/07/2c4fbc971ac358f8a54faf37051h1q75.JPG?v=1658288794948'
 author: 巴哈姆特
 comments: false
-date: 2022-07-20 10:10:22
+date: 2022-07-20 11:08:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/07/2c4fbc971ac358f8a54faf37051h1q75.JPG?v=1658288794948'
 ---
 
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/07/2c4fbc971ac358f8a54faf37051h1q75.
 <div>
  </div>
 <div>
-　　在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%80%B2%E6%93%8A%E7%BE%94%E7%BE%8A%E5%82%B3%E8%AA%AA" target="_blank">進擊羔羊傳說</a>》中，玩家將扮演一隻被附身的小羊，在詭異恐怖的陌生人幫助下逃過了死劫。為了報達其救命之恩，小羊必須以救命恩人之名募集忠誠的追隨者。玩家將能在假先知之境裡創立屬於自己的教團，冒險深入多個神祕地區，讓追隨者們壯大成為一個忠心不移的群體，傳播「箴言」，最終成為一個真正的邪教。</div>
+　　在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%80%B2%E6%93%8A%E7%BE%94%E7%BE%8A%E5%82%B3%E8%AA%AA" target="_blank">進擊羔羊傳說</a>》中，玩家將扮演一隻被附身的小羊，在詭異恐怖的陌生人幫助下逃過了死劫。為了報達其救命之恩，小羊必須以救命恩人之名募集忠誠的追隨者。玩家將在假先知之境裡創立屬於自己的教團，冒險深入多個神祕地區，讓追隨者們壯大成為一個忠心不移的群體，傳播「箴言」，最終成為一個真正的邪教。</div>
 <div>
  </div>
 <div>
