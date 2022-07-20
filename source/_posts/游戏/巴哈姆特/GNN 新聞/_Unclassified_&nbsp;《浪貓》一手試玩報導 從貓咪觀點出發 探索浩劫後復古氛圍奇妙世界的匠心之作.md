@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.JPG?v=1658211045742'
 author: 巴哈姆特
 comments: false
-date: 2022-07-20 04:31:37
+date: 2022-07-20 05:18:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.JPG?v=1658211045742'
 ---
 
@@ -231,7 +231,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/caca0e69448a966c072a1fed541glxy5.
 <div>
  </div>
 <div>
-　　遊戲中還加入了許多單純滿足愛貓玩家的趣味要素。像是抓地毯、抓木板，喝水，睡覺，蹭腳邊等，重現貓咪日常習性的設計，在 PS5 版還會透過觸覺回饋來重現貓咪的呼嚕聲，相信貓奴玩家應該都會很有感。</div>
+　　遊戲中還加入許多單純滿足愛貓玩家的純趣味要素。像是抓地毯、抓木板，喝水，睡覺，蹭腳邊等，重現貓咪日常習性的設計。PS5 版還會透過觸覺回饋來重現貓咪睡覺時的呼嚕聲，相信貓奴玩家應該會很有感。</div>
 <div>
  </div>
 <div>
