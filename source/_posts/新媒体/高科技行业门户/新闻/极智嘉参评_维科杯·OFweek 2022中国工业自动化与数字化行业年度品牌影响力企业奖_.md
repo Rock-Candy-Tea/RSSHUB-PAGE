@@ -1,0 +1,19 @@
+
+---
+title: '极智嘉参评_维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/20/chenting/1658297093125087754.jpeg'
+author: 高科技行业门户
+comments: false
+date: Wed, 20 Jul 2022 05:59:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/20/chenting/1658297093125087754.jpeg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">维科杯·OFweek 2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>及<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>及数字化行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。</span><br></p><p style="text-indent: 2em; text-align: left;">此次活动旨在为工业自动化和数字化行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业自动化及数字化行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳会展中心举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。北京极智嘉科技股份有限公司已正式参评“维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”。</p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖</p><p style="text-indent: 2em; text-align: left;">企业介绍：</p><p style="text-indent: 2em; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/20/chenting/1658297093125087754.jpeg" title="极智嘉参评“维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”" alt="极智嘉参评“维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖”" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">2021年极智嘉全新上市新一代拣选解决方案PopPick是一支由50人组成的专业技术研发团队共同协作完成，颠覆行业实现全新创新。全能型一站式货到人拣选解决方案PopPick，货箱或货物存于可移动的货架上→由P系列潜伏式<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>将可移动货架搬运至PopPick工作站→工作站将货箱自动取下并送至操作人员的面前→操作人员轻松地完成拣货。传统的解决方案很难协调效率和成本之间的冲突，效率高的解决方案成本很高，性价比低；成本低的解决方案效率也很难提升，达不到业务的要求。</p><p style="text-indent: 2em; text-align: left;">PopPick第一大创新，自动化货箱拣选/智能理货工作站，通过人机工学设计，双点工位舒适拣，效率大大提升，较人工仓提升4倍；闲时智能无人自动理货，提高货架订单命中率，一次搬运可命中10箱以上，搬运效率大幅提升，最高达650/箱/小时/工位。第二大创新，高密度、全品类混合存取，支持货箱、货架、托盘混合存储，一排12列货箱，箱间距极致压缩是2cm，实现超密集存储。第三大创新，PopPick还可搭配四向车实现上存下拣，将存储能力轻松扩展至天花板。通过这些创新设计，PopPick的效率与传统解决方案相似，但成本仅是传统方案的50%。真正实现降本增效。</p><p style="text-indent: 2em; text-align: left;">除此之外，传统箱式自动化方案中，大件、异形件等不适合放在料箱里的物品没有办法处理，只能通过其他方式拣选之后再与中小件的部分合并，操作很复杂还需要占用大量的成本；通过超高兼容的PopPick可以解决这个问题，避免了仓库后续额外增加环节来做合单作业，仓库运营更便捷、更高效同时更节省。</p><p style="text-indent: 2em; text-align: left;">参评理由：</p><p style="text-indent: 2em; text-align: left;">PopPick是现有仓库运营一种全新的革命性方案，它实现了让仓库中最复杂、成本最高的拣选环节从未如此的简单、高效，性价比高，运营成本大大降低，只要有仓库运营的企业都将从这种技术中受益；人性化的拣货体验设计，大大降低了仓库操作人员的劳动强度，改善仓库环境，让操作人员可以安全、轻松的拣货；因为该方案具有的超高兼容性和柔性，还可以支持客户企业进行灵活的商业模式创新，柔性的方案可以在供应链侧提供强大的支持。</p><p style="text-indent: 2em; text-align: left;">未来，PopPick将成为一个标准的仓库拣选单元，广泛的集成到不同的物流方案中，无论是租赁的仓库还是自有的仓库，都可以做出最优的整仓方案；PopPick还将进一步赋能更广泛的应用场景，比如集货、分拣、冷库等，都将从这种技术中获得革命性的效能提升；最终让机器人可以在仓库的各个环节中将人从繁重的体力劳动中彻底解放出来，让全世界的仓库中都跑满机器人。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2022/im/vote.html#vote-rules</p> 
+  
+</div>
+            
