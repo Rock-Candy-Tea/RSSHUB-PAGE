@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.JPG?v=1658225050316'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/28/1aa0f8c354f51419777daabe801hd345.JPG?v=1658303261720'
 author: 巴哈姆特
 comments: false
-date: 2022-07-20 07:09:15
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.JPG?v=1658225050316'
+date: 2022-07-20 08:13:19
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/1aa0f8c354f51419777daabe801hd345.JPG?v=1658303261720'
 ---
 
 <div>   
@@ -21,8 +21,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.
  </div>
 <div>
 <ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.JPG?v=1658225050316" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.JPG 2x" style="max-width: unset;" title="進入「時空扭曲」，還能活著回去嗎？" referrerpolicy="no-referrer"></figcaption>
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/1aa0f8c354f51419777daabe801hd345.JPG?v=1658303261720" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/1aa0f8c354f51419777daabe801hd345.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/1aa0f8c354f51419777daabe801hd345.JPG 2x" style="max-width: unset;" title="進入「時空扭曲」，還能活著回去嗎？" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 進入「時空扭曲」，還能活著回去嗎？</figure>
 </li>
@@ -34,8 +34,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/bpnfh8K_6Gg?wmode=transparent" width="100%"></iframe></div>
 </div>
-<div>
- </div>
 <div>
  </div>
 <h3>
@@ -57,7 +55,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 50.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/37f013a209c3ee60e3721fbecd1hcfc5.JPG?v=1658225267578" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/37f013a209c3ee60e3721fbecd1hcfc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/72/37f013a209c3ee60e3721fbecd1hcfc5.JPG 2x" style="max-width: unset;" title="特版佛朗明哥舞裙 & 特版鬥牛士套裝" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/61a2de826dedcc50128b7086ec1hd325.JPG?v=1658303285010" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/61a2de826dedcc50128b7086ec1hd325.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/26/61a2de826dedcc50128b7086ec1hd325.JPG 2x" style="max-width: unset;" title="特版佛朗明哥舞裙 & 特版鬥牛士套裝" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 特版佛朗明哥舞裙 & 特版鬥牛士套裝</figure>
 </li>
@@ -68,7 +66,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a8789992512a314c1cd58d9ece1hcfb5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 50.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/29b682cb880eade4cc2531bb771hcfa5.JPG?v=1658225774684" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/29b682cb880eade4cc2531bb771hcfa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/29b682cb880eade4cc2531bb771hcfa5.JPG 2x" style="max-width: unset;" title="夏日草帽，陪你尋找瑪英大秘寶" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/2925229b92219979454b6e1c481hd335.JPG?v=1658303299256" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/2925229b92219979454b6e1c481hd335.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/2925229b92219979454b6e1c481hd335.JPG 2x" style="max-width: unset;" title="夏日草帽，陪你尋找瑪英大秘寶" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 夏日草帽，陪你尋找瑪英大秘寶</figure>
 </li>

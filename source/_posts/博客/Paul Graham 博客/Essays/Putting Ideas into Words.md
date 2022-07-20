@@ -5,11 +5,11 @@ categories:
  - 博客
  - Paul Graham 博客
  - Essays
-headimg: 'https://picsum.photos/400/300?random=9266'
+headimg: 'https://picsum.photos/400/300?random=3039'
 author: Paul Graham 博客
 comments: false
-date: 2022-07-20 07:09:46
-thumbnail: 'https://picsum.photos/400/300?random=9266'
+date: 2022-07-20 08:13:59
+thumbnail: 'https://picsum.photos/400/300?random=3039'
 ---
 
 <div>   

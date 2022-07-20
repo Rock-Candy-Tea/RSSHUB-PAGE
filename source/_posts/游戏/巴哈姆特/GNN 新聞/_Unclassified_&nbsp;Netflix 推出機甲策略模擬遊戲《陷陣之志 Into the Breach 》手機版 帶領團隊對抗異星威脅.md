@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/60/399e59deb40bbb6bfd8d2c9bcc1hcsw5.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-07-20 07:09:15
+date: 2022-07-20 08:13:19
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/399e59deb40bbb6bfd8d2c9bcc1hcsw5.JPG'
 ---
 
 <div>   
 <div>
 <div>
-　　Netflix 今（20）日宣布，推出由 Subset Games 開發的會員獨享智慧型手機遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%99%B7%E9%99%A3%E4%B9%8B%E5%BF%97" target="_blank">陷陣之志</a>（Into the Breach）》（iOS / Android）。官方表示，本作描述文明來到存亡關頭，而玩家則是最後希望。 在這款回合制戰略遊戲中需帶領團隊對抗異星威脅，拯救世界。</div>
+　　Netflix 今（20）日宣布，推出由 Subset Games 開發的會員獨享智慧型手機遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%99%B7%E9%99%A3%E4%B9%8B%E5%BF%97" target="_blank">陷陣之志</a>（Into the Breach）》（iOS / Android / PC / Switch）。官方表示，本作描述文明來到存亡關頭，而玩家則是最後希望。 在這款回合制戰略遊戲中需帶領團隊對抗異星威脅，拯救世界。</div>
 <div>
  </div>
 <div>
