@@ -45,7 +45,7 @@ thumbnail: 'https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png'
 <p cms-style="font-L">　　<em>【相关报道】</em></p>
 <p cms-style="font-L">　　<em><a href="https://finance.sina.com.cn/jjxw/2022-07-20/doc-imizirav4548724.shtml" target="_blank" title="央企添员！中国矿业集团总公司成立，注册地雄安新区， 高管构成......">央企添员！中国矿业集团总公司成立，注册地雄安新区</a></em></p>
 <p>　　<strong>NO.7  <a href="https://finance.sina.com.cn/chanjing/gsnews/2022-07-20/doc-imizirav4507419.shtml" target="_blank" title="世纪佳缘“失联”高管已被警方控制 老牌婚恋平台如何破局Z世代">世纪佳缘“失联”高管已被警方控制 老牌婚恋平台如何破局Z世代</a></strong></p>
-<p>　　7月18日晚，有消息称，世纪佳缘CEO、COO、CFO和以及多位VP（高层副级人物）失联。7月19日，《每日经济新闻》记者从世纪佳缘公关负责人、复星国际（HK00656，股价6.89港元，市值574.8亿港元）等多处证实到，“失联”高管涉嫌职务侵占已被公安机关采取强制措施。</p>
+<p>　　7月18日晚，有消息称，世纪佳缘CEO、COO、CFO和以及多位VP（高层副级人物）失联。7月19日，记者从世纪佳缘公关负责人、复星国际（HK00656，股价6.89港元，市值574.8亿港元）等多处证实到，“失联”高管涉嫌职务侵占已被公安机关采取强制措施。</p>
 <p cms-style="font-L">　　2014年，吴琳光接棒CEO，将世纪佳缘的线下业务线扩展至“一对一红娘”、“线下相亲店”等方面。赚钱的同时，这类“野蛮生长”的线下模式成为了世纪佳缘口碑大面积“崩盘”的温床。</p>
 <p cms-style="font-L">　　记者查询发现，目前微博、贴吧等平台均有不少对世纪佳缘的投诉；黑猫投诉<a href="https://tousu.sina.com.cn/" target="_blank">【投诉入口】</a><a href="https://tousu.sina.com.cn/" target="_blank">【投诉入口】</a>平台上有关世纪佳缘的投诉量为5172条，包含线下门店及红娘诱导消费、合同欺骗、拒不退款等。</p>
 <p>　　<em>【相关报道】</em></p>
