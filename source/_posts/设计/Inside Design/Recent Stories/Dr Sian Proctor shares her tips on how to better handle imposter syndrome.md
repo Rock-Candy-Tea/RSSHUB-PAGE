@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/sian-proctor-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-07-20 12:16:35
+date: 2022-07-20 13:35:05
 thumbnail: 'https://www.invisionapp.com/inside-design/sian-proctor-design-better-podcast/'
 ---
 
