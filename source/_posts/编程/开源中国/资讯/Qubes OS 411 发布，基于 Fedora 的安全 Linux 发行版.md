@@ -14,8 +14,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-dcd6216a314cb106c302e75303163f9
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>Qubes OS 4.1.1 稳定版已发布。Qubes OS 是面向安全的、基于 Fedora 的桌面 Linux 发行版，其主要理念是基于隔离的安全，而这靠轻量级的 Xen 虚拟机来实现隔离域。它旨在结合两个貌似矛盾的目标：如何使不同域之间的隔离尽可能强，这主要靠能够使可信代码尽量小的更灵巧的结构，以及如何使这种隔离尽可能无缝和容易。</p> 
+                                                                                            <p>Qubes OS 4.1.1 稳定版已发布。Qubes OS 是面向安全的、基于 Fedora 的桌面 Linux 发行版，其主要理念是基于隔离的安全，而这靠轻量级的 Xen 虚拟机来实现隔离域。它旨在结合两个貌似矛盾的目标：如何使不同域之间的隔离尽可能强，这主要靠能够使可信代码尽量小的更灵巧的结构，以及如何使这种隔离尽可能无缝和容易。</p> 
 <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img alt src="https://oscimg.oschina.net/oscnet/up-dcd6216a314cb106c302e75303163f91b2f.png" referrerpolicy="no-referrer"></p> 
 <p>4.1.1 是一个补丁版本，主要变化：</p> 
 <ul style="margin-left:0px"> 

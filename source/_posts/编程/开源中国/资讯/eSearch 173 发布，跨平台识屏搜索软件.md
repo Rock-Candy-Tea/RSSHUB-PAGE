@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=6588'
+headimg: 'https://picsum.photos/400/300?random=5476'
 author: 开源中国
 comments: false
 date: Wed, 20 Jul 2022 07:43:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6588'
+thumbnail: 'https://picsum.photos/400/300?random=5476'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p>eSearch 是一款跨平台的识屏搜索软件，可通过开源的离线 Paddle OCR 或在线 OCR 对屏幕上的文字进行识别，并利用可自定义的搜索引擎对文字进行搜索、翻译。或者直接对屏幕上的图片进行以图搜图。它还拥有二维码扫描、滚动截屏、截屏标注、取色器、贴图、录屏等额外功能。</p> 
+                                                                                            <p>eSearch 是一款跨平台的识屏搜索软件，可通过开源的离线 Paddle OCR 或在线 OCR 对屏幕上的文字进行识别，并利用可自定义的搜索引擎对文字进行搜索、翻译。或者直接对屏幕上的图片进行以图搜图。它还拥有二维码扫描、滚动截屏、截屏标注、取色器、贴图、录屏等额外功能。</p> 
 <p>目前 eSearch 1.7.3 版本已发布，带来如下内容：</p> 
 <h2><strong>主要更新</strong></h2> 
 <ul> 

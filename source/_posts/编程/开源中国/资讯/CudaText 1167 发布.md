@@ -5,17 +5,16 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=1307'
+headimg: 'https://picsum.photos/400/300?random=314'
 author: 开源中国
 comments: false
 date: Wed, 20 Jul 2022 07:35:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1307'
+thumbnail: 'https://picsum.photos/400/300?random=314'
 ---
 
 <div>   
 <div class="content">
-                                                                    
-                                                        <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CudaText 是一个跨平台的文本编辑器，用 Object Pascal 编写。它是开源项目，启动速度相当快，它可以通过 Python 插件进行扩展，借助 EControl 引擎还带来了功能丰富的语法分析器。</p> 
+                                                                                            <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CudaText 是一个跨平台的文本编辑器，用 Object Pascal 编写。它是开源项目，启动速度相当快，它可以通过 Python 插件进行扩展，借助 EControl 引擎还带来了功能丰富的语法分析器。</p> 
 <p style="color:#000000; margin-left:0; margin-right:0; text-align:start">CudaText 1.167 正式发布，更新内容如下：</p> 
 <h3 style="margin-left:.6em; margin-right:0; text-align:start">新增</h3> 
 <ul style="margin-left:0; margin-right:0"> 
