@@ -1,0 +1,19 @@
+
+---
+title: '目标替代 C++，谷歌宣布开源编程语言 Carbon'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/2f3a725b-4f14-400d-beb6-2f79dba09ef1.png'
+author: IT 之家
+comments: false
+date: Wed, 20 Jul 2022 11:10:55 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/2f3a725b-4f14-400d-beb6-2f79dba09ef1.png'
+---
+
+<div>   
+<p data-vmark="0586"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 20 日消息，谷歌工程师 Chandler Carruth 近日在 CppNorth 大会上宣布，<span class="accentTextColor">Carbon 编程语言已在 GitHub 开源</span>，该语言将是 C++ 的实验性继任者。</p><p style="text-align: center;" data-vmark="6fcc"><img src="https://img.ithome.com/newsuploadfiles/2022/7/2f3a725b-4f14-400d-beb6-2f79dba09ef1.png" w="1440" h="1080" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="1440" height="615" referrerpolicy="no-referrer"></p><p data-vmark="bce2">谷歌此前已经创造了多种编程语言，包括 Golang、Dart 等，新语言 Carbon 的目标是替代 C++。</p><p data-vmark="b4e7">Chandler Carruth 将其与 Rust 进行了对比，并称 Rust 与 C++ 并不具备“双向互操作性”，因此很难稳定迁移。然而，<span class="accentTextColor">Carbon 旨在与现有的 C++ 代码完全互操作</span>，目标是尽可能轻松地从 C++ 迁移到 Carbon。</p><p style="text-align: center;" data-vmark="721b"><img src="https://img.ithome.com/newsuploadfiles/2022/7/55b6ab34-9aa0-4416-8ea0-4bc86045b499.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNC5wbmc=,g_3,x_11,y_11,a_0,t_100" w="741" h="232" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="741" height="232" referrerpolicy="no-referrer"></p><p data-vmark="96e2">另据 Carbon 的 GitHub 仓库页面，Carbon 从根本上来说是一种后继语言方法，而不是逐步发展 C++ 的尝试。它是围绕与 C++ 的互操作性，以及现有 C++ 代码库和开发者的大规模采用和迁移而设计的，包含以下特性：</p><ul class=" list-paddingleft-2"><li><p data-vmark="879e">Introducer 关键字和简单语法</p></li><li><p data-vmark="86d1">函数输入参数为只读值</p></li><li><p data-vmark="97a6">指针提供间接访问和变体</p></li><li><p data-vmark="7b52">使用表达式来命名类型</p></li><li><p data-vmark="6cb8">软件包为 root 命名空间</p></li><li><p data-vmark="c3ac">通过包名导入 API</p></li><li><p data-vmark="e579">用显式对象参数进行方法声明</p></li><li><p data-vmark="0a44">单继承、默认使用最终类</p></li><li><p data-vmark="4ab3">强大且经过定义检查的泛型</p></li><li><p data-vmark="3622">类型可显式实现接口</p></li></ul><p style="text-align: center;" data-vmark="1037"><img src="https://img.ithome.com/newsuploadfiles/2022/7/a39beb4a-5a63-4cfa-bbac-c9e7c7a2e599.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEzNS5wbmc=,g_3,x_14,y_14,a_0,t_100" w="879" h="738" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="879" height="688" referrerpolicy="no-referrer"></p><p data-vmark="bbc2">IT之家了解到，谷歌将 Carbon 类比为 <span class="accentTextColor">TypeScript、Kotlin</span>，后两者是 JavaScript 和 Java 的增强。</p><p style="text-align: center;" data-vmark="cc00"><img src="https://img.ithome.com/newsuploadfiles/2022/7/5327073e-e99c-4277-bb27-3bc69c9a824c.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE0OS5wbmc=,g_9,x_15,y_15,a_0,t_100" w="968" h="247" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="968" height="209" referrerpolicy="no-referrer"></p><p data-vmark="3f4c">除了语言本身的特性之外，Carbon 团队还关注将塑造 Carbon 未来的开发过程。该项目的代码公开托管在 GitHub 上，并且开放 PR。</p><h2 data-vmark="cfa8">C++ 代码和 Carbon 代码对比：</h2><p style="text-align: center;" data-vmark="875d"><img src="https://img.ithome.com/newsuploadfiles/2022/7/a975d457-6240-42f0-9b21-d50a2a538ef2.png" w="691" h="758" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="691" height="758" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="91f8"><img src="https://img.ithome.com/newsuploadfiles/2022/7/b18c8f9e-0bab-478a-bcaa-1c566a6c790c.png" w="692" h="752" title="目标替代 C++，谷歌宣布开源编程语言 Carbon" width="692" height="752" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="4c1a"><strong>Carbon 的 GitHub 仓库：</strong><a href="https://github.com/carbon-language/carbon-lang" target="_blank">点此查看</a></p>
+          
+</div>
+            
