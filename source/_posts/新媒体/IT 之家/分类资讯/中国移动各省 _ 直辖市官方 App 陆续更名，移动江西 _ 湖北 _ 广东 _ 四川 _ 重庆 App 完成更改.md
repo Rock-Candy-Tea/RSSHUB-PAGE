@@ -1,0 +1,20 @@
+
+---
+title: '中国移动各省 _ 直辖市官方 App 陆续更名，移动江西 _ 湖北 _ 广东 _ 四川 _ 重庆 App 完成更改'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/76826060-edbb-4d4b-aa22-97a80d6770f0.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEzMy5wbmc=,g_7,x_13,y_13,a_0,t_100'
+author: IT 之家
+comments: false
+date: Thu, 21 Jul 2022 07:31:12 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/76826060-edbb-4d4b-aa22-97a80d6770f0.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEzMy5wbmc=,g_7,x_13,y_13,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1222702" rel="nofollow">CMCC</a> 的线索投递！</div>
+            <p data-vmark="ecd7"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 21 日消息，据网友反馈，中国移动各省 / 直辖市官方客户端 App 本月起陆续更名为中国移动（省市名），比如中国移动云南 App、中国移动江西 App、中国移动上海 App 等。已经完成更名的有中国移动江西 App、中国移动湖北 App、中国移动广东 App、中国移动四川 App、中国移动重庆 App 等。这样做是为了给用户提供更加统一的移动通信服务体验。</p><p data-vmark="96f9">中国移动江西表示，“和我信 App 于 7 月 19 日正式更名为中国移动江西 App (部分应用软件下载平台更新可能略有延迟)，<span class="accentTextColor">除名称变动外，该应用软件的原有产品功能、 服务及用户已获权益等内容会继续保留，不会影响已开通的通信套餐等业务内容</span>，请放心使用。”</p><p data-vmark="3b95" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/76826060-edbb-4d4b-aa22-97a80d6770f0.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEzMy5wbmc=,g_7,x_13,y_13,a_0,t_100" w="866" h="1538" title="中国移动各省 / 直辖市官方 App 陆续更名，移动江西 / 湖北 / 广东 / 四川 / 重庆 App 完成更改" width="866" height="1456" referrerpolicy="no-referrer"></p><p data-vmark="f733">中国移动浙江表示，“浙江移动手厅营业厅 App 于 7 月 31 日正式更名为中国移动浙江 App (部分用于软件下载平台更新可能略有延迟)，除名称变动外，该应用软件的原有产品功能、服务及用户已获权益等内容会继续保留，不会影响已开通的通信套餐等业务内容，请放心使用。”</p><p data-vmark="217d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/5ba55a3e-0677-4414-98a9-494ea8b30b7d.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1My5wbmc=,g_7,x_15,y_15,a_0,t_100" w="994" h="2151" title="中国移动各省 / 直辖市官方 App 陆续更名，移动江西 / 湖北 / 广东 / 四川 / 重庆 App 完成更改" width="994" height="1774" referrerpolicy="no-referrer"></p><p data-vmark="eea4">中国移动上海表示，“上海移动和你 App 于近期更名为中国移动上海 App (部分应用软件下载平台更新可能略有延迟)，除名称变动外，该应用软件的原有产品功能、服务及用户已获权益等内容会继续保留，不会影响已开通的通信套餐等业务内容，请放心使用。”</p><p data-vmark="6ef8" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/7ad3a01e-69d8-4676-9408-59cae4a4008d.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1My5wbmc=,g_7,x_15,y_15,a_0,t_100" w="994" h="1767" title="中国移动各省 / 直辖市官方 App 陆续更名，移动江西 / 湖北 / 广东 / 四川 / 重庆 App 完成更改" width="994" height="1458" referrerpolicy="no-referrer"></p><p data-vmark="f399">中国移动云南表示，“云南移动和生活 App 于 2022 年 7 月 22 日正式更名为中国移动云南 App (部分应用软件下载平台更新可能略有延迟)。功能不变：应用软件的原有产品功能、 服务及用户已获权益等内容继续保留，不会影响已开通的通信套餐等业务内容，请放心使用。”</p><p data-vmark="f940" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/199f7e39-eac2-4702-aefd-f795a4797e4a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1My5wbmc=,g_7,x_15,y_15,a_0,t_100" w="994" h="1308" title="中国移动各省 / 直辖市官方 App 陆续更名，移动江西 / 湖北 / 广东 / 四川 / 重庆 App 完成更改" width="994" height="1079" referrerpolicy="no-referrer"></p><p data-vmark="78c2">中国移动湖北表示，“和悦会 App 于 2022 年 7 月 20 日正式更名为中国移动湖北 App (部分应用软件下载平台更新可能略有延迟)，除名称变动外，该应用软件的原有产品功能、服务及用户已获权益等内容会继续保留，不会影响已开通的通信套餐等业务内容，请放心使用。”</p><p data-vmark="6df0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/f8c2f96a-9c04-4ee1-8e28-9e8586a700af.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwOS5wbmc=,g_7,x_11,y_11,a_0,t_100" w="710" h="1538" title="中国移动各省 / 直辖市官方 App 陆续更名，移动江西 / 湖北 / 广东 / 四川 / 重庆 App 完成更改" width="710" height="1538" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
