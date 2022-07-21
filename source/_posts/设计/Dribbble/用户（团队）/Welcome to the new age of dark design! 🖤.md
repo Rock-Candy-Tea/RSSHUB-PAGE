@@ -5,15 +5,15 @@ categories:
  - 设计
  - Dribbble
  - 用户（团队）
-headimg: 'https://picsum.photos/400/300?random=8942'
+headimg: 'https://picsum.photos/400/300?random=173'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=8942'
+thumbnail: 'https://picsum.photos/400/300?random=173'
 ---
 
 <div>   
-<div class="media-content">
+<div class="media-content" style="--largest-width: 800px;">
       <div class="video-wrap">
         <video muted loop playsinline autoplay data-src="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4" data-video-small="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4" data-video-medium="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4" data-video-large="https://cdn.dribbble.com/users/131989/videos/31592/social_dribble_v01.mp4"></video>
         

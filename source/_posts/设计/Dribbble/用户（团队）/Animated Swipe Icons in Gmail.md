@@ -13,7 +13,7 @@ thumbnail: 'https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd9
 ---
 
 <div>   
-<div class="media-content">
+<div class="media-content" style="--largest-width: 800px;">
       <img alt="Animated Swipe Icons in Gmail" width="732" height="558" data-id="15471187" data-animated-url="https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif" skip_resize="true" srcset="https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 320w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 400w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 450w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 640w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 700w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 800w, https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif 768w" sizes="(max-width: 919px) 100vw, max(768px, 98vh)" src="https://cdn.dribbble.com/users/497199/screenshots/15471187/media/cd943369f51c58997359774d347dac26.gif" referrerpolicy="no-referrer">
 
   </div>
