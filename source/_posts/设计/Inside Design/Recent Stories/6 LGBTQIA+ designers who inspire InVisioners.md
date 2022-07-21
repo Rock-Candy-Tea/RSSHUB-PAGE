@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/6-lgbtqia-designers-who-inspire-invisioners/'
 author: Inside Design
 comments: false
-date: 2022-07-21 11:07:56
+date: 2022-07-21 12:17:09
 thumbnail: 'https://www.invisionapp.com/inside-design/6-lgbtqia-designers-who-inspire-invisioners/'
 ---
 
