@@ -1,0 +1,23 @@
+
+---
+title: '一加 OnePlus 10T 将于8月3日公布'
+categories: 
+ - 新媒体
+ - 品玩
+ - 实时要闻
+headimg: 'https://picsum.photos/400/300?random=9850'
+author: 品玩
+comments: false
+date: Wed, 20 Jul 2022 15:32:07 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9850'
+---
+
+<div>   
+一加
+
+
+一加 OnePlus 10T 将于8月3日公布
+据 Cnbeta 报道，一加透露，新手机一加 OnePlus 10T 将会在当地时间8月3日纽约举办的活动中发布。
+  
+</div>
+            
