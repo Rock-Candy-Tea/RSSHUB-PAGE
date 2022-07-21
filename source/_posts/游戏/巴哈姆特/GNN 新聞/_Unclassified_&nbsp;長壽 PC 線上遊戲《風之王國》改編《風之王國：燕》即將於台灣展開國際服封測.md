@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/d713617f82cbfbcebc9bdd30b81he1j5.JPG?v=1658395378884'
 author: 巴哈姆特
 comments: false
-date: 2022-07-21 10:10:43
+date: 2022-07-21 11:08:25
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/d713617f82cbfbcebc9bdd30b81he1j5.JPG?v=1658395378884'
 ---
 
 <div>   
 <div>
 <div>
-　　NEXON 旗下長壽線上遊戲《風之王國》的改編衍生手機版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E7%8E%8B%E5%9C%8B%EF%BC%9A%E7%87%95" target="_blank">風之王國：燕</a>》即將在台灣進行國際服的封閉測試自即日起至 8 月 17 日止將先行舉辦 CBT 搶先預約活動，並正式於 8 月 18 日起進行為期九天的封閉測試，一起了解更多這款歷史悠久且持續營運的 MMORPG 手遊版的獨特與魅力之處吧！</div>
+　　NEXON 旗下長壽線上遊戲《風之王國》的改編衍生手機版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E4%B9%8B%E7%8E%8B%E5%9C%8B%EF%BC%9A%E7%87%95" target="_blank">風之王國：燕</a>》即將在台灣進行國際服的封閉測試自即日起至 8 月 17 日止將先行舉辦 CBT 搶先預約活動，並正式於 8 月 18 日起進行為期九天的封閉測試。</div>
 <div>
  </div>
 <div>
