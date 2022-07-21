@@ -1,0 +1,19 @@
+
+---
+title: '大众美国 CEO 将领导全新纯电皮卡品牌，首款车明年亮相'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/89c3f1ad-62b3-4525-9f02-c44695ce601c.png'
+author: IT 之家
+comments: false
+date: Thu, 21 Jul 2022 06:04:50 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/89c3f1ad-62b3-4525-9f02-c44695ce601c.png'
+---
+
+<div>   
+<p style="text-align: center;" data-vmark="7113"><img src="https://img.ithome.com/newsuploadfiles/2022/7/89c3f1ad-62b3-4525-9f02-c44695ce601c.png" w="850" h="449" alt="大众美国CEO将领导全新皮卡品牌，首款车明年亮相" title="大众美国 CEO 将领导全新纯电皮卡品牌，首款车明年亮相" width="850" height="433" referrerpolicy="no-referrer"></p><p data-vmark="b43d">据《欧洲汽车新闻》报道，<strong>现任大众美国 CEO 的 Scott Keogh 成为大众新 Scout 品牌负责人</strong>。大众美国 CEO 兼大众汽车北美区首席执行官一职将由负责大众汽车南美业务的 Pablo Di Si 接任。</p><p data-vmark="10f1">今年 5 月，<strong>大众集团表示将使标志性的美国品牌 Scout 电气化</strong>，打造成独立品牌，其产品将专为美国市场设计、打造。</p><p data-vmark="7b80">而 Scout 品牌的新负责人也是首位领导大众美国业务的美国人，此前已经将美国市场的业务扭亏为盈。</p><p data-vmark="0afc">让这位美国人来领导具有美国“血统”的纯电皮卡品牌，或许能够让大众在美国的皮卡业务迅速发展，在电动化转型中取得一定优势。</p><h2 data-vmark="4f75">一、首位领导美国业务的美国人 曾将美国业务扭亏为盈</h2><p data-vmark="4251">Scott Keogh 现年 53 岁，<strong>先前曾担任奥迪美国总裁一职，自 2018 年 11 月起担任大众美国 CEO</strong>。值得一提的是，当时他是 25 年来首位领导大众品牌美国业务的美国人。</p><p style="text-align: center;" data-vmark="0287"><img src="https://img.ithome.com/newsuploadfiles/2022/7/0e22fe2e-3d5c-4247-b84b-745c6246e79d.png" w="850" h="510" alt="大众美国CEO将领导全新皮卡品牌，首款车明年亮相" title="大众美国 CEO 将领导全新纯电皮卡品牌，首款车明年亮相" width="850" height="492" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="e1d7">▲ Pablo Di Si（左）和 Scott Keogh（右）</p><p data-vmark="ae44">大众集团 CEO 赫伯特・迪斯在一份书面声明中表示： “Scott Keogh 和 Pablo Di Si 都在各自负责的市场（北美、南美的业务）业务中扭亏为盈发挥了关键作用。在他们未来的职位上，他们将成为帮助集团抓住美国历史性市场机遇的关键，将我们在该地区的增长战略提升到一个新的水平。”</p><p data-vmark="7aa0">大众表示，<strong>Keogh 将于 9 月 1 日卸任大众美国 CEO，正式接管 Scout 品牌</strong>。此外，大众南美业务的负责人将在不久后公布。</p><h2 data-vmark="a1d7">二、全新技术平台打造 专为美国市场推出</h2><p data-vmark="91a0">今年 5 月，大众集团在其官网发布公告，确认将 Scout 作为独立品牌，<strong>专为美国市场推出纯电皮卡以及纯电 SUV</strong>。</p><p style="text-align: center;" data-vmark="ea40"><img src="https://img.ithome.com/newsuploadfiles/2022/7/52ec2683-4640-44b7-8a95-09e5873347f0.png" w="850" h="415" alt="大众美国CEO将领导全新皮卡品牌，首款车明年亮相" title="大众美国 CEO 将领导全新纯电皮卡品牌，首款车明年亮相" width="850" height="400" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="b431">▲ 大众集团公告</p><p data-vmark="4cd5">其第一批原型车将于明年亮相，<strong>并计划于 2026 年开始生产</strong>，电气化的 Scout 品牌将建立在一个新的技术平台之上，将为现有的大众汽车集团产品组合带来新的皮卡和越野 SUV。</p><p data-vmark="66f5">大众集团 CEO 赫伯特・迪斯认为，大众集团可以占据美国汽车市场 10% 的市场份额，而越野 SUV 和皮卡领域的成功是提高大众集团在美国盈利的关键。“电气化为大众集团进入受欢迎的皮卡和越野 SUV（rugged SUV）领域提供了历史性机会，这一决定也突显了大众扩张美国市场的决心。”迪斯表示。</p><p data-vmark="aee5">大众集团美国公司总裁兼 CEO Scott Keogh 此前曾表示，<strong>皮卡市场占美国整个汽车市场的 15%</strong>，如果大众不“参与”皮卡领域，将很难实现这一（10% 市场份额）目标。</p><p style="text-align: center;" data-vmark="aa2a"><img src="https://img.ithome.com/newsuploadfiles/2022/7/4d76d9f5-9598-4960-bc2c-9650ca3e229d.png" w="850" h="552" alt="大众美国CEO将领导全新皮卡品牌，首款车明年亮相" title="大众美国 CEO 将领导全新纯电皮卡品牌，首款车明年亮相" width="850" height="533" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="9858">▲ Scout 首批产品设计草图</p><p data-vmark="c77e">一直以来，因美国独特的地域情况，其皮卡市场需求庞大，谁占领了皮卡市场的高地，就能在美国的汽车市场取得优势。大众集团此次在美国市场布局纯电皮卡，扩充产品序列，也反映出其关注美国汽车市场，全面向电动化变革的决心。</p><h2 data-vmark="c3f4">结语：大众加紧布局美国市场</h2><p data-vmark="0ddd">作为全球头部的车企，<strong>大众集团在美国的销量成绩一直不如其在欧洲和中国的市场</strong>。2021 年大众集团在美国市场扭亏为盈后，大众也趁热打铁，想要继续保持在美国市场的盈利局面。</p><p data-vmark="cef1">对于此，大众采取了“因材施教”的战略，在特殊的市场采用特殊的战略，皮卡在美国市场广受欢迎，大众也想要在这一市场中分一杯羹。</p><p data-vmark="52be">复活 Scout 品牌，推出纯电皮卡，大众的每一步棋都走得稳健。</p>
+          
+</div>
+            
