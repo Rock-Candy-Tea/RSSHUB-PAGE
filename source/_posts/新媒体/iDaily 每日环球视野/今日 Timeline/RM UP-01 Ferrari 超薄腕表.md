@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://pic.yupoo.com/fotomag/66e6db69/c0efcc4e.jpg'
 author: iDaily 每日环球视野
 comments: false
-date: Wed, 20 Jul 2022 06:40:00 GMT
+date: Thu, 21 Jul 2022 10:40:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://pic.yupoo.com/fotomag/66e6db69/c0efcc4e.jpg'
 ---
 
