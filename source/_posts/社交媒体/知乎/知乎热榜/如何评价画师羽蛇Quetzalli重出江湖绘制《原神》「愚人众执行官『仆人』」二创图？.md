@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=9709'
+headimg: 'https://pic1.zhimg.com/v2-16dfd0ebde84aee3b44c228b5ef4fdba_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Wed, 20 Jul 2022 16:17:18 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9709'
+date: Wed, 20 Jul 2022 17:53:50 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-16dfd0ebde84aee3b44c228b5ef4fdba_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-大脑在颤抖的神的回答<br><br><p data-pid="2X-NmdGv">正如我之前写的答案，这名画师就是想恰流量罢了<a href="https://www.zhihu.com/answer/2571556304" class="internal"><span class="invisible">https://www.</span><span class="visible">zhihu.com/answer/257155</span><span class="invisible">6304</span><span class="ellipsis"></span></a></p><p data-pid="NU_hNszo">网暴→玉玉→退网→复活一气呵成，结果一帮人真信他的小作文了，开始主持公道，结果先是没“私信网暴”的截图，爆出截图后又发现全是在他“自称被网暴”后，甚至有好几个反串<a href="https://zhuanlan.zhihu.com/p/542784515" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/54</span><span class="invisible">2784515</span><span class="ellipsis"></span></a></p><p data-pid="roXKseaw">基本可以定性这事就是RPG了，不过动机并不是抹黑原神，就是想靠自称“被网暴”博网友同情，好光明正大地恰内鬼流量罢了。结果后来被反米人士裹挟，差点成反米画师，于是立马删动态装死。</p><p data-pid="Irfb2VKb">结果最后还是舍不得原神的流量回来了，那我就要来那句了</p><p data-pid="DxKjGTLw">“我折磨你的时候你大可可以走，我看你也挺乐在其中的啊”</p><p data-pid="rf7EXBMi">既然还想恰原神的流量，那就少跟观众对着干，该道歉就道歉，而不是嘴上说着道歉，然后在道歉信里写“我是被网暴才道歉”的小作文。</p><p data-pid="x3yrcjM8">这次还能有一帮人真的信他，下次还来就直接当武见妙，幽城夜同款低能儿处理。</p>  
+辉夜的回答<br><br><p data-pid="obUilaE1">有粥友说是压稿</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-16dfd0ebde84aee3b44c228b5ef4fdba_1440w.jpg?source=b1748391" data-rawwidth="640" data-rawheight="180" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-b628504b578053b7296bae255d0b4b14_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-16dfd0ebde84aee3b44c228b5ef4fdba_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="wqKNJuD8">去掉pv时长的四分钟，羽圣只需一刻钟就能完成一幅画作</p><p data-pid="J4ai2IT9">建议对唯w发动御前决斗，省的再出批脸陈和顶胯</p>  
 </div>
             
