@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/74/8b72503547d37c46989d20abc31hd1m5.JPG?v=1658301628632'
 author: 巴哈姆特
 comments: false
-date: 2022-07-21 14:11:03
+date: 2022-07-21 15:10:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/8b72503547d37c46989d20abc31hd1m5.JPG?v=1658301628632'
 ---
 
@@ -45,14 +45,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/74/8b72503547d37c46989d20abc31hd1m5.
 <li class="bh-grids-img-box" style="width: 100.00%;">
 <figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/b8d5cd0d7044653b6f87b3041f1hd195.JPG?v=1658301659391" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/b8d5cd0d7044653b6f87b3041f1hd195.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/b8d5cd0d7044653b6f87b3041f1hd195.JPG 2x" style="max-width: unset;" title="超細節的捏角系統" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-超細節的捏角系統</figure>
+超細節的捏角系統（馬賽克是遊戲內建的效果）</figure>
 </li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　如果是沒有接觸過系列作的玩家，或許很容易會誤以為這只是一款換皮的《俠盜獵車手（GTA）》，不過這可就大錯特錯了，相較於最近追求寫實的 GTA 系列，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BB%91%E8%A1%97%E8%81%96%E5%BE%92" target="_blank">黑街聖徒</a>》系列可是一直以各種惡搞元素以及誇張的遊戲風格而聞名，而這幾個元素也很棒的在新作中表現了出來。</div>
+　　如果是沒有接觸過系列作的玩家，或許很容易會誤以為這只是一款換皮的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BF%A0%E7%9B%9C%E7%8D%B5%E8%BB%8A%E6%89%8B" target="_blank">俠盜獵車手</a>（GTA）》，不過這可就大錯特錯了，相較於最近追求寫實的 GTA 系列，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BB%91%E8%A1%97%E8%81%96%E5%BE%92" target="_blank">黑街聖徒</a>》系列可是一直以各種惡搞元素以及誇張的遊戲風格而聞名，而這幾個元素也很棒的在新作中表現了出來。</div>
 <div>
  </div>
 <div>
