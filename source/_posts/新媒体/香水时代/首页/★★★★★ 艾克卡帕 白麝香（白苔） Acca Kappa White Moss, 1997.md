@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=3099'
+headimg: 'https://picsum.photos/400/300?random=3868'
 author: 香水时代
 comments: false
-date: Thu, 10 Mar 2022 23:49:42 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3099'
+date: Wed, 31 Mar 2021 06:24:53 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3868'
 ---
 
 <div>   
-皂感薰衣草，干净的刚沐浴过后的味道，麝香带上一点点的香柠檬味道，伪体香之王了，男生女生都可不过感觉还是更推荐男生，整体就是干净清爽的感觉  
+入手的第二款香，到现在也很喜欢，温柔清新又低调的侍寝香，我个人不觉得皂感，比较适合冷天喷，夏天感觉还是有点厚重了  
 </div>
             
