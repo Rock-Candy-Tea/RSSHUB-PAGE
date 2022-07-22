@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/19/b48fd28990730f68fa04fe327d1heur5.JPG?v=1658465517993'
 author: 巴哈姆特
 comments: false
-date: 2022-07-22 07:10:35
+date: 2022-07-22 08:14:00
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/b48fd28990730f68fa04fe327d1heur5.JPG?v=1658465517993'
 ---
 
 <div>   
 <div>
 <div>
-　　TORCH TORCH 在美國聖地牙哥舉辦的國際漫畫展（Comic-Con）前夜祭宣布，將推出以暢銷動作角色扮演遊戲《艾爾登法環（Elden Ring）》關鍵登場角色「魔女菈妮（Ranni The Witch）」為主題的雕像。</div>
+　　TORCH TORCH 在美國聖地牙哥舉辦的國際漫畫展（Comic-Con）前夜祭宣布，將推出以暢銷動作角色扮演遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0" target="_blank">艾爾登法環</a>（Elden Ring）》關鍵登場角色「魔女菈妮（Ranni The Witch）」為主題的雕像。</div>
 <div>
  </div>
 <div>
