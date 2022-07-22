@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=2628'
+headimg: 'https://picsum.photos/400/300?random=6239'
 author: 开源中国
 comments: false
-date: Fri, 22 Jul 2022 07:27:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2628'
+date: Fri, 22 Jul 2022 15:27:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6239'
 ---
 
 <div>   
@@ -21,7 +21,7 @@ thumbnail: 'https://picsum.photos/400/300?random=2628'
  <li>支持 Flyway 9</li> 
  <li>支持 Hibernate 6.1</li> 
  <li>AOT 支持 Actuator</li> 
- <li>移除 Actuator</li> 
+ <li>移除 YamlJsonParser</li> 
  <li>升级 Kotlin 最低支持版本为 1.7</li> 
  <li>升级 Gradle 最低支持版本为 7.5</li> 
  <li><span style="background-color:#ffffff; color:#24292f">删除对运行多个 Spring Batch 作业的支持</span></li> 
