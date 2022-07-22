@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://picx.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-07-22 00:53:49
-thumbnail: 'https://picx.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162'
+date: 2022-07-22 03:13:33
+thumbnail: 'https://pic2.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://picx.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://picx.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-ad3b43978a77cf1727d64dfed10ce61a_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">TEDCJK，</span><span class="bio">法律</span>
 <a href="https://www.zhihu.com/question/296407080/answer/2582122572" class="originUrl" hidden>查看知乎原文</a>
 </strong>
