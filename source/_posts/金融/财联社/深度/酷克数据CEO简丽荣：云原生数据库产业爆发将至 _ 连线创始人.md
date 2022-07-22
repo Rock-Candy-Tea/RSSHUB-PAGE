@@ -5,11 +5,11 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=5755'
+headimg: 'https://img.cls.cn/images/20220722/cyo40vcIxg.jpg'
 author: 财联社
 comments: false
 date: Fri, 22 Jul 2022 13:28:04 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5755'
+thumbnail: 'https://img.cls.cn/images/20220722/cyo40vcIxg.jpg'
 ---
 
 <div>   
@@ -23,6 +23,7 @@ thumbnail: 'https://picsum.photos/400/300?random=5755'
 <p><strong>不过，站在数据库技术迭代的角度来看，尤其是考虑到近些年云原生、分布式、 存算分离、湖仓一体等技术对数据库技术发展方向的显著改变，加上国内云基础设施的建设完善，共同使得我国数据库产业发展“慢一拍”，反而成为一件“亦祸亦福”的事情。</strong></p>
 <p>“社会正在面临全新的IT技术变革，很多基础软件和基础设施，都在向云计算靠拢。许多行业用户使用的传统外企数据库产品，包括IBM、Oracle、Teradata，并非诞生在云时代，尽管他们的产品功能和性能的已经较为完善，但设计理念并没有考虑太多云计算本身的特点。”</p>
 <p>北京酷克数据科技有限公司联合创始人兼CEO简丽荣，在接受《科创板日报》记者专访时表示，传统企业尽管也在积极调整产品、进行转型，但背负天然历史负担，一些海外厂商甚至出现了向云原生转型速度，慢于微软、谷歌等重要云服务厂商发展的情况。</p>
+<p><img src="https://img.cls.cn/images/20220722/cyo40vcIxg.jpg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>以酷克数据这样面向云原生的后发者为例来看，“产品自创生起就围绕云计算去构建，在扩展性、易用性、弹性乃至成本等方面，都要远远优于海外产品”，这也迎来了国内数据库行业轻体量、快转型的历史发展机遇。</strong></p>
 <p>此外，云计算趋势也让云原生数据库厂商的身份变为相对于客户、云服务厂商之外的独立第三方，对金融、能源、电力等行业客户来说，前期部署以及自由选配、调整云服务环节中的成本优势，也是未来数据库国产化的重要驱动力。</p>
 <p><strong>Pivotal前核心团队创业 B轮融资数亿元</strong></p>
