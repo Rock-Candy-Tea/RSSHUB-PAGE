@@ -1,0 +1,18 @@
+
+---
+title: '元气森林发布可乐，项目代号YYDS'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=9823'
+author: 36kr
+comments: false
+date: Sat, 23 Jul 2022 09:00:18 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9823'
+---
+
+<div>   
+元气森林发布可乐，项目代号YYDS  
+</div>
+            
