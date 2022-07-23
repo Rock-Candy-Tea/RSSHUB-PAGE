@@ -17,7 +17,7 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/07/aqHoxrwUHsmTGnweIkr1.jpg'
 <p><img data-action="zoom" class="size-full wp-image-5536230 aligncenter" src="https://image.woshipm.com/wp-files/2022/07/aqHoxrwUHsmTGnweIkr1.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p>刚刚进入B2B行业，很多人总是会问：什么是MQL？为什么要有MQL？怎么筛选MQL呢？</p>
 <p>今天我们就一起盘一盘那些关于MQL的问题。</p>
-<h2 id="toc-1">什么是MQL？</h2>
+<h2 id="toc-1">一、什么是MQL？</h2>
 <p>MQL（ Marketing-Qualified Leads ）即营销合格线索，指的是在营销投入的基础上，表现出对企业的产品或服务感兴趣的线索，或是相比于其他线索，更容易转变成客户的线索。换句话说，MQL 是被认为更有可能成为企业客户的线索，判断标准比 Leads 要严格，比如需要企业名称、联系方式、明确需求等。</p>
 <p><img data-action="zoom" class="aligncenter" src="https://image.woshipm.com/wp-files/2022/07/ukdbLjvUXVSIO2pikdph.png" alt width="965" height="367" referrerpolicy="no-referrer"></p>
 <p>本文中可能出现的其他英文缩写及释义如下：</p>
@@ -27,10 +27,10 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/07/aqHoxrwUHsmTGnweIkr1.jpg'
 <li>商机（Opportunity）：客户展示了强烈的购买意愿或邀请投标，明确预算、需求、采购流程的成熟线索。</li>
 <li>成单客户（Account）：客户达成购买，开始使用产品或服务。</li>
 </ol>
-<h2 id="toc-2">为什么要有MQL？</h2>
+<h2 id="toc-2">二、为什么要有MQL？</h2>
 <p>从注册产生的众多线索中，能被市场部转给销售部的MQL只是少数。市场部门会对线索做出定向和定量分析，即通过打标签和线索打分的方式，筛选符合“合格”客户画像且展现出足够兴趣和参与度，值得销售接触的线索。</p>
 <p>通过MQL的设置，极大地节省了销售的时间，不用把时间浪费在筛选线索上面，专注于和意向大的用户进行直接联系，极大地提高了效率。同时，MQL与企业的触点一定程度上也显示了潜在用户关注的是哪些内容，可以对市场部之后的内容策略进行指导。</p>
-<h2 id="toc-3">MQL在各行业之间有什么区别？</h2>
+<h2 id="toc-3">三、MQL在各行业之间有什么区别？</h2>
 <p>MQL并不是一个统一的标准，而是因行业、人群、企业性质而进行变化的。</p>
 <p>对于 B2C 公司，MQL 是可能具有以下条件的消费者：</p>
 <ul>
@@ -46,7 +46,7 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/07/aqHoxrwUHsmTGnweIkr1.jpg'
 <li>注册参加网络研讨会</li>
 </ul>
 <p>所有这些行为都表明潜在客户有这方面的需求，以及对您的公司和产品有真正的兴趣，只是当下还没有进行最后的决策。因此，对于企业来讲，是时候来让您的营销团队开始接近这些线索，从而把他们转化为自己的客户了。</p>
-<h2 id="toc-4">如何更好地识别MQL？</h2>
+<h2 id="toc-4">四、如何更好地识别MQL？</h2>
 <p>每个企业都会以不同的方式来处理MQL，但总的来讲，都会以一定的标准流程来发现、管理MQL，将他们成功转移给销售，并使之成为客户。</p>
 <h3>（1）确定MQL转出的标准</h3>
 <p>对MQL要有一个明确的定义，这样市场部和销售部可以严格按照这个标准进行协作，极大避免了之后因为标准不明确而出现互相推诿的情况。</p>
