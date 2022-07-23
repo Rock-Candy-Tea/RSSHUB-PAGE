@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-07-23 11:08:01
+date: 2022-07-23 12:15:46
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14573/a_flame_reborn_axis_studios_8.-full.png'
 ---
 
