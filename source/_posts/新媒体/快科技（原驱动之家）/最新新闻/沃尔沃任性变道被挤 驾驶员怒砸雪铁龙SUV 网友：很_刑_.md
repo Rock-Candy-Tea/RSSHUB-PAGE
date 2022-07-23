@@ -19,14 +19,14 @@ thumbnail: 'https://img1.mydrivers.com/img/20220723/s_91d30f5a4b3f4b0bb7507de926
 <p>事情发生在北京，视频车是一台雪铁龙SUV，正常行驶在中间车道，突然一台沃尔沃从右后方杀出，<strong>直接侵占了视频车的行驶路线</strong>，并导致了两车发生剐蹭。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/91d30f5a4b3f4b0bb7507de9265c3857.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="334" src="https://img1.mydrivers.com/img/20220723/s_91d30f5a4b3f4b0bb7507de9265c3857.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>然而事故发生后，沃尔沃驾驶员非但没有意识到自己的错误，反而直接下车，对着雪铁龙SUV驾驶员咆哮了起来，面目十分狰狞，口中说着脏话，接着直接动起了手。</p>
-<p>除了敲打沃尔沃SUV的玻璃，他本人更是直接上脚，踹坏了视频车的外后视镜。</p>
+<p>除了敲打玻璃之外，他本人更是直接上脚，踹坏了视频车的外后视镜。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/ce3b45c7d89545a3967e751ee76cf817.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="379" src="https://img1.mydrivers.com/img/20220723/s_ce3b45c7d89545a3967e751ee76cf817.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>而从后续雪铁龙驾驶员放出的视频来看，<strong>这台车的车窗、后视镜、漆面等多处均受到了破坏，损失十分严重</strong>。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/83696b9683d24f51a4e40529c97ae428.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="419" src="https://img1.mydrivers.com/img/20220723/s_83696b9683d24f51a4e40529c97ae428.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/8a6242b33ba349b6b95940d27533daa4.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="406" src="https://img1.mydrivers.com/img/20220723/s_8a6242b33ba349b6b95940d27533daa4.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/6580a595aac14a8f9e6a1c22b61007cc.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="432" src="https://img1.mydrivers.com/img/20220723/s_6580a595aac14a8f9e6a1c22b61007cc.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/55d5163b611a4c5cb34bcc7633c0d1f4.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="463" src="https://img1.mydrivers.com/img/20220723/s_55d5163b611a4c5cb34bcc7633c0d1f4.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
-<p>此事曝光后，引起了网友的关注和热议，不少人表示有被沃尔沃驾驶员吓到。</p>
+<p>此事曝光后，引起了网友的关注和热议，不少人表示被沃尔沃驾驶员吓到。</p>
 <p>还有网友表示，这损失绝对超过了5000元，而且从破坏的痕迹来看，对方应该是使用了什么工具，<strong>已经触犯了刑法，并建议雪铁龙驾驶员坚决不和解</strong>。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220723/bf06721653ba4ebba5c328851cbea21f.png" target="_blank"><img alt="沃尔沃任性变道被挤 驾驶员怒砸雪铁龙SUV 网友：很“刑”" h="790" src="https://img1.mydrivers.com/img/20220723/s_bf06721653ba4ebba5c328851cbea21f.png" style="border: black 1px solid;" w="592" referrerpolicy="no-referrer"></a></p>
 <p>这里也提醒大家，开车上路如果遇到路怒的人，且对方做出了违法行为，一定要首先确保自身安全，留下证据，并及时报警。</p>
