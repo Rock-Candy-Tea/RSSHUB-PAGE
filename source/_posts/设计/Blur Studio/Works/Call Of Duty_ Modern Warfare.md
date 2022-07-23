@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/call-of-duty/2753542686-1571942215/sc060_safehouseintro_v00000001818.jpg'
 author: Blur Studio
 comments: false
-date: 2022-07-23 12:15:43
+date: 2022-07-23 13:21:19
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/call-of-duty/2753542686-1571942215/sc060_safehouseintro_v00000001818.jpg'
 ---
 
