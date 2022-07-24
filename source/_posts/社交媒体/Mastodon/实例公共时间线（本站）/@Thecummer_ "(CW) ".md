@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/701/934/392/280/701/original/2e82b6b2953c4523.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/702/243/098/338/392/original/928c062a9d8c2d4b.jpg'
 author: Mastodon
 comments: false
-date: Sun, 24 Jul 2022 10:52:14 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/701/934/392/280/701/original/2e82b6b2953c4523.png'
+date: Sun, 24 Jul 2022 12:10:55 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/702/243/098/338/392/original/928c062a9d8c2d4b.jpg'
 ---
 
 <div>   
-<hr><p>When they loli looses a bet. <a href="https://pawoo.net/tags/loli" class="mention hashtag" rel="tag">#loli</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/701/934/392/280/701/original/2e82b6b2953c4523.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/701/935/503/549/839/original/10d78fbef7cba88e.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Would love to see something. 🥵💗</p><br><img src="https://img.pawoo.net/media_attachments/files/108/702/243/098/338/392/original/928c062a9d8c2d4b.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
