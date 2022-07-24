@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=4258'
+headimg: 'https://picsum.photos/400/300?random=5995'
 author: 香水时代
 comments: false
-date: Fri, 22 Jul 2022 19:31:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4258'
+date: Sat, 23 Jul 2022 19:40:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5995'
 ---
 
 <div>   
-炒栗子还是烤红薯不知道，总之高糖分植物表皮细胞被烤。甜但不齁，闻着很饿。就是太甜了不好穿，只能在家闻着馋自己  
+像是在闻一杯放了很多焦糖的的焦糖可可，焦糖味特别特别浓，还带有咖啡豆的香味。给人很甜很温暖的很幸福的感觉。后调有淡淡的麝香味。  
 </div>
             
