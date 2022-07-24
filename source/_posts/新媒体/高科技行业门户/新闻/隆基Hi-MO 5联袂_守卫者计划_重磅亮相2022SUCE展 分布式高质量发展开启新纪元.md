@@ -1,0 +1,19 @@
+
+---
+title: '隆基Hi-MO 5联袂_守卫者计划_重磅亮相2022SUCE展 分布式高质量发展开启新纪元'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/23/qifei/1658577490263006906.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 24 Jul 2022 00:30:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/23/qifei/1658577490263006906.jpg'
+---
+
+<div>   
+<p>　　7月23日，第十七届中国（济南）<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span>利用大会暨综合能源展览会（SUCE）在济南高新国际会展中心拉开帷幕。本次大会，隆基以大尺寸明星产品Hi-MO 5及聚焦电站安全的“守卫者计划”项目惊艳亮相，高效高可靠的产品方案与电站全生命周期价值的无忧保障，为分布式行业的高质量发展开启了新纪元。</p><p>　　<strong>人气之星Hi-MO 5单品<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>超30GW，更高价值提升屋顶“含金量”</strong></p><p>　　作为一款高效、高可靠的分布式“旗舰”产品，Hi-MO 5自上市以来就以其绝佳的收益价值和多元的应用场景受到终端用户的广泛青睐。Hi-MO 5系列高效产品采用M10掺镓<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>片，正面功率可以高达550W，光电转化效率为21.3%。此外，该产品结合隆基先进的组件封装技术，实现了功率和发电效率的双重突破，能够切实有效的提高客户发电收益。经测评，在分布式市场的实际应用当中，Hi-MO 5能显著降低支架、电缆、汇流箱成本，以及屋顶、人工安装成本，客户的投资收益可以得到更好的保障。品质成就价值。上市两周年以来， Hi-MO 5已畅销全球94个国家，覆盖6大洲。截至2022年7月，全球出货突破30GW。下图为本次展会展出的Hi-MO 5高效组件，现场人气爆棚——</p><p style="TEXT-ALIGN: center"><img alt="隆基Hi-MO 5联袂“守卫者计划”重磅亮相2022SUCE展 分布式高质量发展开启新纪元" src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/23/qifei/1658577490263006906.jpg" referrerpolicy="no-referrer"></p><p style="TEXT-ALIGN: center">现场人气爆棚（图）</p><p>　　<strong>守护全生命周期价值，隆基与创维携手前行</strong></p><p>　　<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-8320297-fenbushifadian.html" target="_blank" title="分布式光伏">分布式光伏</a></span>是清洁能源走进千家万户的一张“名片”，大众对其的接受认可程度对新能源未来的普及应用意义重大，因此分布式电站的安全和收益问题不容忽视。近年来，由于部分低效、低质的<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>产品和系统服务进入到终端消费市场，导致分布式户用、工商业项目安全事故频发，给业主及投资方带来了巨大的利益损失，也给分布式行业的健康长远发展带来了不良影响。众所周知，一旦打破安全底线，<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-solardianzhan.html" target="_blank" title="分布式光伏电站">分布式光伏电站</a></span>的价值收益都是“无本之源”。为了守护终端市场的客户价值，切实保障客户权益，隆基率先发布了行业首个“产品全生命周期标准”。该标准从设计、选材、制造、论证、服务、售后6个环节出发，以领先于行业的技术标准与全方位的质量管控体系，保障客户需求，实现终端价值。隆基“以客户价值为中心”的理念也得到了业界同仁创维的大力支持，本次展会，南京创维光伏科技有限公司与隆基成功签署了2Gw组件采购合同框架协议，双方将在分布式项目的开发与建设领域建立深度合作关系，共同推进行业健康可持续发展。</p><p style="TEXT-ALIGN: center"><img alt="隆基Hi-MO 5联袂“守卫者计划”重磅亮相2022SUCE展 分布式高质量发展开启新纪元" src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/23/qifei/1658577490622023418.jpg" referrerpolicy="no-referrer"></p><p style="TEXT-ALIGN: center">签约仪式（图）</p><p>　　未来，隆基愿与更多的行业同仁携手前行，在”LONGi Inside”理念的牵引下，互利共赢，为更多用户打造更多更具价值的品质电站，为双碳目标的早日实现助力加油。</p><p>　　<strong>“守卫者计划”重磅发布，全力保障分布式电站质量安全</strong></p><p>　　作为隆基“产品全生命周期标准”的自然延伸，隆基在本次展会重磅发布了“分布式电站守卫者计划”。该计划旨在呼吁行业同仁以守卫者的姿态保障分布式电站的全生命周期安全，为终端市场全力打造精品电站。据悉，隆基将通过一系列举措对已建成电站和待建电站的组件产品、发电系统等进行全方位的安全问题排查。同时，隆基也将派出专业技术人员持续加强和丰富相关人员的安全意识和安全行为培训，全力保障分布式电站质量安全。</p><p style="TEXT-ALIGN: center"><img alt="隆基Hi-MO 5联袂“守卫者计划”重磅亮相2022SUCE展 分布式高质量发展开启新纪元" src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-07/23/qifei/1658577490780034968.jpg" referrerpolicy="no-referrer"></p><p style="TEXT-ALIGN: center">活动现场（图）</p><p>　　随着该计划的正式发布，隆基2022年的“守卫者电站巡检暨光芒照万家活动”也正式开启。这一行业闻名的“售后IP”经过多年的沉淀，受到了不少合作伙伴和终端用户的点赞和追捧。相信在不久的将来“好电站 隆基芯”的认知将会根植在每一位合作伙伴和终端用户的心中。全民减碳之路正在脚下不断延展，隆基将以行业引领者之姿，不断下沉终端市场，以更高品质的产品和服务让绿色能源惠及千家万户，助力行业发展实现高质量。中国国际太阳能利用大会暨展览会始创于2007年， 经过十多年的发展沉淀，已成为业界规格高、影响大、参展企业多的全国性光伏行业盛会。 本次展会将持续到7月25日，欢迎各位参展人士、行业同仁莅临隆基展位（VIP 4）指导交流。</p><p><br></p> 
+  
+</div>
+            

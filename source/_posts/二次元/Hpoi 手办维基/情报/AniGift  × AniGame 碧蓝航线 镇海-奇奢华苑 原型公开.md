@@ -1,0 +1,42 @@
+
+---
+title: 'AniGift  × AniGame 碧蓝航线 镇海-奇奢华苑 原型公开'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2022/07/54ad5734a98049ccbcb8dfe5d4d5daea.jpg?date=1658631031'
+author: Hpoi 手办维基
+comments: false
+date: Sun, 24 Jul 2022 02:52:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/07/54ad5734a98049ccbcb8dfe5d4d5daea.jpg?date=1658631031'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>AniGift  × AniGame 碧蓝航线 镇海-奇奢华苑 原型公开<br>更新内容: 
+                
+                    
+                    
+                    
+                    
+                    
+                        官图更新
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2022/07/54ad5734a98049ccbcb8dfe5d4d5daea.jpg?date=1658631031" referrerpolicy="no-referrer">  
+</div>
+            
