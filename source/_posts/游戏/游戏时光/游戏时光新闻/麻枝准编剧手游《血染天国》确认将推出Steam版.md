@@ -23,8 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/07/25/220725143634580_u1628
 
                 
                 
-                    <div class="topicContent front_content sort_content">
-KEY旗下由知名脚本家、作曲家麻枝准负责的手游RPG《血染天国》（Heaven Burns Red）已于今年2月推出，官方现发推宣布本作即将登陆Steam，支持4K画面游玩，具体发售日期未定，仅支持日服用户游玩，允许手机版本数据互通。</div>
+                    <div class="topicContent front_content sort_content">KEY旗下由知名脚本家、作曲家麻枝准负责的手游RPG《血染天国》（Heaven Burns Red）已于今年2月推出，官方现发推宣布本作即将登陆Steam，支持4K画面游玩，具体发售日期未定，仅支持日服用户游玩，允许手机版本数据互通。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/07/25/220725143634580_u162815.jpg" src="https://img01.vgtime.com/game/cover/2022/07/25/220725143634580_u162815.jpg?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>

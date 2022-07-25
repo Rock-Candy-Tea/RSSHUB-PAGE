@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pica.zhimg.com/v2-a4415f9fdd5f1e536fdefbcdd1e1b8bd_1440w.jpg?source=b1748391'
+headimg: 'https://pic1.zhimg.com/v2-1039ba6c00e306329a70420627c88e52_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Mon, 25 Jul 2022 08:52:02 GMT
-thumbnail: 'https://pica.zhimg.com/v2-a4415f9fdd5f1e536fdefbcdd1e1b8bd_1440w.jpg?source=b1748391'
+date: Mon, 25 Jul 2022 10:32:18 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-1039ba6c00e306329a70420627c88e52_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-木子奶爸的回答<br><br><p data-pid="QPSSsnZb">苹果官网产品降价大陆地区独有真的史无前例啊</p><p data-pid="t9RFz7V3">一般也就iPhone新品发布之后老款会降一点，但基本没有半路出来降价的，今年很反常啊</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-a4415f9fdd5f1e536fdefbcdd1e1b8bd_1440w.jpg?source=b1748391" data-rawwidth="1170" data-rawheight="901" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-48fd8f9333feb334d93c4434cec579c5_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-a4415f9fdd5f1e536fdefbcdd1e1b8bd_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="sD6s2a4W">这次的降价最高只有600元，并且是限定支付平台，并且时间只有4天</p><p data-pid="O6SKzoCR">苹果这么突然的降价搞活动不得不让人遐想到底是经济不行没人买东西了还是苹果为了清理库存给新品让路？</p><h3>参与降价的苹果产品：</h3><p data-pid="udly5rUk">iPhone 13 Pro Max 或iPhone 13 Pro 立省RMB 600.</p><p data-pid="YtSAeLqL">iphone 13 或 iphone 13 mini, 可立省 RMB 600。</p><p data-pid="of0Tyklq">iPhone SE (第三代）可立省 RMB 200。</p><p data-pid="rD6_xWNE">iPhone 12 或 iPhone 12 mini, 可立省 RMB 500。</p><p data-pid="I9-NFjZA">Apple Watch SE 可立省 RMB 200.</p><p data-pid="f6Wcq9ft">AirPods Pro 可立省 RMB 250。</p><p data-pid="VeFP0bJP">AAirPods （第三代） 可立省 RMB 150。</p><p data-pid="BzQ38Hjn">在结账时选择使用指定支付方式即可获得立减优惠同时还可享最高 12 个月免息分期.</p><p data-pid="6vnOiTxS">这里面我觉得最值的是AirPods二代，其他的还是不如电商平台优惠力度大</p>  
+毅种循环的回答<br><br><p data-pid="NwZRVxVw">我正好要送女朋友一个Macbook Air M2（星光色），看到降价消息的时候我很兴奋，笑得像一个200斤的孩子。</p><p><br></p><p data-pid="bRYL3zR3">结果点进去看发现只有手机耳机降价。顿时失望。</p><p data-pid="fQkN7Trp">而且降价后依然比天猫/京东活动价要贵，失望*2</p><p data-pid="y65o5WmK">在iphone 14即将发布的时间点，这种力度的优惠要了有啥用？</p><p data-pid="oOHCa5Ap">给我一种兰博基尼10元优惠券的感觉。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-1039ba6c00e306329a70420627c88e52_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="809" data-qrcode-action="none" data-default-watermark-src="https://pic2.zhimg.com/v2-8e37cf968dafe50e32c9126ed9c9802b_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-1039ba6c00e306329a70420627c88e52_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
