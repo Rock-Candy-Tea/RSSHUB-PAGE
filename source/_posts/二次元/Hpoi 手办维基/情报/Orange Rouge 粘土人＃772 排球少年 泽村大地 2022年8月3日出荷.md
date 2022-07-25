@@ -1,0 +1,42 @@
+
+---
+title: 'Orange Rouge 粘土人＃772 排球少年 泽村大地 2022年8月3日出荷'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2017/05/f41a6e43eb2e4d2a8c1c01a6bd8b4c30.jpg?date=1649130166'
+author: Hpoi 手办维基
+comments: false
+date: Mon, 25 Jul 2022 06:30:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2017/05/f41a6e43eb2e4d2a8c1c01a6bd8b4c30.jpg?date=1649130166'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>Orange Rouge 粘土人＃772 排球少年 泽村大地 2022年8月3日出荷<br>更新内容: 
+                
+                    
+                    
+                    
+                        出荷时间
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2017/05/f41a6e43eb2e4d2a8c1c01a6bd8b4c30.jpg?date=1649130166" referrerpolicy="no-referrer">  
+</div>
+            
