@@ -1,0 +1,18 @@
+
+---
+title: '新聞分享：Epic Games「絕對不會」遵循Minecraft NFT禁令'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/494a7bc1-f671-485a-9db9-54acd42997d4.png'
+author: Matters
+comments: false
+date: Fri, 22 Jul 2022 07:25:32 GMT
+thumbnail: 'https://assets.matters.news/embed/494a7bc1-f671-485a-9db9-54acd42997d4.png'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/494a7bc1-f671-485a-9db9-54acd42997d4.png" data-asset-id="494a7bc1-f671-485a-9db9-54acd42997d4" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Fast Company</span></figcaption></figure><p>新聞來源媒體：<a href="https://cointelegraph.com/" rel="noopener noreferrer" target="_blank">Cointelegraph</a></p><p>新聞連結：<a href="https://cointelegraph.com/news/epic-games-definitely-won-t-follow-minecraft-nft-ban" rel="noopener noreferrer" target="_blank">點我看文章</a></p><h2><strong>【重點摘要】</strong></h2><p>Epic Games創始人兼首席執行Tim Sweeney表示，他的公司「絕對不會」跟隨Minecraft的開發者禁止NFT。<br class="smart">正如之前報導的那樣，Minecraft開發商Mojang Studios於7月20日禁止了NFT集成，因為它認為NFT的投機方面，以及與NFT相關的稀缺性和風險，與遊戲相關的騙局都違反了遊戲的原則。<br class="smart">此舉在NFT社區中被視為極具爭議性，同時也得到了加密貨幣懷疑論者群體的讚揚。<br class="smart">Sweeney的公司是大獲成功的大逃殺遊戲Fortnite的創造者，該遊戲也被視為Metaverse平台。雖然Epic Games不一定支持加密貨幣或NFT，但首席執行官表示，該公司並不打算將任何關於該主題的觀點強加給用戶：「開發者應該可以自由決定如何構建他們的遊戲，而你可以自由決定是否玩它們。我相信商店和操作系統製造商不應該通過將他們的觀點強加給他人來進行干預。我們絕對不會。」</p><figure class="image"><img src="https://assets.matters.news/embed/720fde9f-524e-44ee-bef9-44326771240c.png" data-asset-id="720fde9f-524e-44ee-bef9-44326771240c" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Low5ive Twitter</span></figcaption></figure><p>作為對該帖子的回應，Twitter用戶「@Low5ive」詢問 Sweeney Epic Games關於禁止「仇恨/歧視性內容」的政策與此不同。作為回應，Sweeney建議Epic Games確實做出「更改」，但 NFT 目前不屬於此範疇。<br class="smart">Sweeney表示：「一家商店可以選擇不做這樣的判斷並託管任何合法的東西，或者選擇像我們一樣按照主流可接受的規範劃清界限，或者只接受符合所有者個人信仰的遊戲。」<br class="smart">Mojang Studios的NFT禁令給「NFT Worlds」留下了一個需要解決的主要問題，因為它是建立在Minecraft的一個開源服務器上的。</p><p>由社群驅動的P2E平台圍繞它構建了一個完整的加密貨幣和NFT生態系統，其NFT產生了51,000 ETH，迄今為止價值 8,080萬美元的交易量。然而，自從消息傳出後，其NFT的底價在撰寫本文時已從3.33 ETH降至1.01 ETH，而其原生代幣 WRLD在此期間下跌了55%。<br class="smart">在Mojang宣布之後，NFT Worlds團隊表示現在正在「集思廣益解決方案」，以了解如何前進。該團隊提到，它正在努力與Minecraft取得聯繫，看看是否可以找到可能的解決方案，否則將轉向「類似Minecraft的遊戲引擎」或「GameFi平台」作為可能的選擇。</p><figure class="image"><img src="https://assets.matters.news/embed/3dda1946-60d0-4b79-85a1-f32baa13493e.png" data-asset-id="3dda1946-60d0-4b79-85a1-f32baa13493e" referrerpolicy="no-referrer"><figcaption><span>圖片來源：NFT Worlds Twitter</span></figcaption></figure><h2><strong>【想法】</strong></h2><p>Minecraft的NFT禁令，相信昨天很多人都看到相關新聞，畢竟這則禁令，直接讓NFT Worlds原本的計畫崩盤，讓持有者信心盡失的情況下，價格當然也隨之下墜；這個狀況跟當初Steam禁止所有區塊鏈遊戲發佈的狀況類似，當初也讓「MyNeighbor Alice」和其代幣ALICE面臨沒有平台上架的問題。</p><p>而Epic Games對於區塊鏈遊戲一直都蠻友善的，所以之前Gala Games才會讓旗下遊戲進駐該平台；我也認同Tim Sweeney的觀點，在這個自由的世界，在符合法規的前提條件下，開發者應該有權自由決定如何構建他們的遊戲，而平台不應該通過將觀點強加給他人來進行干預。</p><p>當然，最直接的方式，還是自建平台，雖然成本高，但至少不用寄人籬下，因外在的變數而打亂自己本身的計劃。</p><figure class="image"><img src="https://assets.matters.news/embed/2cdff43d-4837-4bd8-a8e6-79dd5154c0f5.jpeg" data-asset-id="2cdff43d-4837-4bd8-a8e6-79dd5154c0f5" referrerpolicy="no-referrer"><figcaption><span>圖片來源：Cointelegraph</span></figcaption></figure><h2><strong>【延伸閱讀】</strong></h2><blockquote><a href="https://cointelegraph.com/news/mojang-studios-bans-minecraft-nft-integrations" rel="noopener noreferrer" target="_blank">Mojang Studios bans Minecraft NFT integrations</a></blockquote><blockquote><a href="https://cointelegraph.com/news/delphi-digital-how-to-get-gamers-to-accept-the-integration-of-nfts" rel="noopener noreferrer" target="_blank">Delphi Digital: How to get gamers to accept the integration of NFTs</a></blockquote>  
+</div>
+            
