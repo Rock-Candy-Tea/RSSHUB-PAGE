@@ -1,0 +1,19 @@
+
+---
+title: 'Mars Express发布巨大火星峡谷的最新图像'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/07/1240e48e564b5d0.jpg'
+author: cnBeta
+comments: false
+date: Mon, 25 Jul 2022 02:48:07 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/07/1240e48e564b5d0.jpg'
+---
+
+<div>   
+<strong>ESA的Mars Express最新发布的图像将我们带到火星地壳上的两个断裂处，它们构成了强大的火星谷系统的一部分。</strong>水手峡谷(Valles Marineris)横穿火星的方式类似于大峡谷横穿美国的方式，只不过后者与之相比是很小的。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/1240e48e564b5d0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/1240e48e564b5d0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">水手峡谷长4000公里，宽200公里，深达7公里，非常壮观。它的长度、宽度以及深度几乎是大峡谷的10倍、20倍和5倍。作为我们太阳系中最大的峡谷系统，它横跨从挪威的北端到西西里岛南端的距离。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/57eb888baa569cf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/57eb888baa569cf.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">两者之间还有一个显著的区别：大峡谷是由于岩石被科罗拉多河侵蚀而形成，而水手峡谷被认为是通过构造板块的漂移而形成。</p><p style="text-align: left;">第一张图片显示的则是构成水手峡谷西部的一部分的两个沟（或称岩浆）。左边（南）是840公里长的Ius Chasma，右边（北）是805公里长的Tithonium Chasma。虽然这些高分辨率的图像显示了令人难以置信的表面细节，但只有当看到海拔地图时才会让人们意识到这些鸿沟有多么令人难以置信的深--长达7公里！在这些鸿沟中，有许多地方都有一个小的裂缝。阿尔卑斯山最高的山峰勃朗峰海拔4809米，如果把它放在Tithonium Chasma内就显得相形见绌了。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/31e13f5c92f62e4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/31e13f5c92f62e4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在Tithonium Chasma的顶部，一片黑沙给图像带来了色彩对比。这种沙子可能来自附近的Tharsis火山地区。</p><p style="text-align: left;">在深色沙丘旁边则是两个浅色调的小丘（其中一个被图像上方的边界切成两半）。这些小丘更像是山，高度超过了3000米。它们的表面被火星的强风强烈侵蚀，这表明它们是由一种比周围岩石更脆弱的材料形成。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/e61d13b625160fb.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/e61d13b625160fb.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在这两个土丘之间可以看到一系列较小的凸起，如第二张透视图所示。Mars Express的调查在这个区域发现了含水的硫酸盐矿物。这表明，这些凸起可能是在曾经充满血浆的液体蒸发时形成，尽管这一理论仍存在激烈的争论。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/7f34f90c0f21df2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/7f34f90c0f21df2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在我们完全看到的土丘的右下方（第二个透视图的右上方）可以看到平行线和碎石堆，这表明最近那里发生了山体滑坡。这在下面的地形图中也可以看到一大片紫色区域。山体滑坡是由右边的峡谷墙壁倒塌造成，并且可能是最近发生的，这是因为它没有受到强烈的侵蚀。</p><p style="text-align: left;">Ius Chasma的参差不齐的地面同样令人着迷。随着构造板块的拉开，它们似乎造成了锯齿状的三角形岩石的形成，看起来像一排鲨鱼的牙齿。随着时间的推移，这些岩层已经坍塌和侵蚀。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/07/3f66acd7dfb7486.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/3f66acd7dfb7486.jpg" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
