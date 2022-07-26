@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/6da841944fcdfacdc5caab2db41hgdl5.JPG?v=1658810239318'
 author: 巴哈姆特
 comments: false
-date: 2022-07-26 08:12:12
+date: 2022-07-26 09:10:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/6da841944fcdfacdc5caab2db41hgdl5.JPG?v=1658810239318'
 ---
 
@@ -42,7 +42,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/6da841944fcdfacdc5caab2db41hgdl5.
 <div>
  </div>
 <div>
-　　團隊透露：「作為一款揉合 RPG 及模擬賽車的遊戲，形形式式的對手將集結在各段賽道上，玩家需不斷磨練自己的技術以戰勝不同的對手，讓自己成為賽車界的最速；而故事模式中設有主角群、敵對車隊的爭鬥故事及不同任務讓玩家推進劇情及解鎖車輛。官方也表示遊戲的音樂聲效均由香港本地音樂團隊製作，亦將會不定期推出限時活動或比賽，讓玩家增加交流，並會推出不同多人遊戲模式。」</div>
+　　團隊透露：「作為一款揉合 RPG 及模擬賽車的遊戲，形形式式的對手將集結在各段賽道上，玩家需不斷磨練自己的技術以戰勝不同的對手，讓自己成為賽車界的最速；而故事模式中設有主角群、敵對車隊的爭鬥故事及不同任務讓玩家推進劇情及解鎖車輛。遊戲的音樂聲效均由香港本地音樂團隊製作，亦將會不定期推出限時活動或比賽，讓玩家增加交流，並會推出不同多人遊戲模式。」</div>
 <div>
  </div>
 <div>
@@ -142,6 +142,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/6da841944fcdfacdc5caab2db41hgdl5.
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Rev+to+Vertex" target="_blank">Rev to Vertex</a>》將在 2022 年 12 月 16 日於 PC Steam 平台推出，預計 9 月下旬將推出遊戲測試版。</div>
 </div>
+<div>
+ </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55363" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
