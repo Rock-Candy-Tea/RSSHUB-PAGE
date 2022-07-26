@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220726/1658840820_9768
 在沉寂了6个月之后，《暗黑之魂3》的PC服务器似乎又要上线了。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220726/1658840820_976875.jpg" alt="沉寂半年后 《黑暗之魂3》PC服务器似乎要上线了" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220726/1658840820_976875.jpg" alt="沉寂半年后 《黑暗之魂3》PC服务器似乎要上线了" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 油管用户Lance McDonald发现，《<a target="_blank" href="https://www.3dmgame.com/games/darksouls3/">黑暗之魂3</a>》SteamDB页面展示了一个更新，现已向玩家推出，允许玩家访问游戏的调试分支。
