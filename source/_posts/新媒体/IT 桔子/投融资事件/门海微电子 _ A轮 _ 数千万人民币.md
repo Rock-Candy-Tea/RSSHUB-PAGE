@@ -15,7 +15,7 @@ thumbnail: 'https://cdn.itjuzi.com/images/1447c6b5c57435dd93adc5f66e202d7c.png'
 <div>   
 <img src="https://cdn.itjuzi.com/images/1447c6b5c57435dd93adc5f66e202d7c.png" referrerpolicy="no-referrer"><br><br>
         <strong>门海微电子</strong><br>
-        电子设备制造商<br>
+        新能源和智能电网芯片供应商<br>
         A轮 / 数千万人民币 / 1658825617<br>
         投资方: 元禾原点、中汇金、沃赋资本、中肃资本、铂鸿资本
         
