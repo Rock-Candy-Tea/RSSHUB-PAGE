@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://static.oschina.net/uploads/space/2022/0727/070409_vtWa_4937141.png'
+headimg: 'https://oscimg.oschina.net/oscnet/up-dac2ca86ff5ac04ad10b7e5c5cf75291dae.png'
 author: 开源中国
 comments: false
 date: Wed, 27 Jul 2022 07:04:00 GMT
-thumbnail: 'https://static.oschina.net/uploads/space/2022/0727/070409_vtWa_4937141.png'
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-dac2ca86ff5ac04ad10b7e5c5cf75291dae.png'
 ---
 
 <div>   
@@ -25,15 +25,15 @@ thumbnail: 'https://static.oschina.net/uploads/space/2022/0727/070409_vtWa_49371
 <p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fseed7%2Fcomments%2Fw7i8vw%2Fseed7_version_20220724_released_on_github_and_sf%2F" target="_blank">点此查看详细更新内容</a>。</p> 
 <p style="margin-left:0">与 Ada、C/C++ 和 Java 相比，Seed7 是一种比它们更高级的编程语言。Seed7 <a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Ffaq.htm%23interpreter">解释器</a>和<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Fscrshots%2Findex.htm">示例程序</a>是开源软件，还有一个开源 Seed7 <a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Fscrshots%2Fs7c.htm">编译器</a>。编译器将 Seed7 程序翻译成 C 程序，然后编译成机器代码。<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Findex.htm">详细介绍</a>。</p> 
 <p style="margin-left:0">下面是一段用 Seed7 编写的代码：</p> 
-<pre><span>$</span> <span>include</span> <span>"seed7_05.s7i"</span><span>;</span>
+<pre><code class="language-lua">$ include "seed7_05.s7i";
 
- <span>const</span> <span>proc:</span> <span>main</span> <span>is</span> <span>func</span>
-   <span>begin</span>
-     <span>writeln</span><span>(</span><span>"hello world"</span><span>)</span><span>;</span>
-   <span>end</span> <span>func</span><span>;</span></pre> 
+ const proc: main is func
+   begin
+     writeln("hello world");
+   end func;</code></pre> 
 <p style="margin-left:0">下面是一些用 Seed7 开发的程序的界面截图：</p> 
-<p style="margin-left:0"><img height="162" src="https://static.oschina.net/uploads/space/2022/0727/070409_vtWa_4937141.png" width="200" referrerpolicy="no-referrer"><img height="158" src="https://static.oschina.net/uploads/space/2022/0727/070409_VBWo_4937141.png" width="201" referrerpolicy="no-referrer"></p> 
-<p style="margin-left:0">更多的程序界面截图请看：<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Fscrshots%2Findex.htm" target="_blank">http://seed7.sourceforge.net/scrshots/index.htm</a></p>
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><img alt src="https://oscimg.oschina.net/oscnet/up-dac2ca86ff5ac04ad10b7e5c5cf75291dae.png" referrerpolicy="no-referrer"><span> </span><img alt src="https://oscimg.oschina.net/oscnet/up-70ba8daff491b46bdaef0b8cd248565009f.png" referrerpolicy="no-referrer"></p> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">更多的程序界面截图请看：<a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fseed7.sourceforge.net%2Fscrshots%2Findex.htm" target="_blank">http://seed7.sourceforge.net/scrshots/index.htm</a></p>
                                         </div>
                                       
 </div>

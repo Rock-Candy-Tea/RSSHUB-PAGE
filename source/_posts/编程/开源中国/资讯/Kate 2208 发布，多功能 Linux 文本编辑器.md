@@ -26,8 +26,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-d5cdda8a77fc0d8ec4a6b51cacdf0ee
 <p>除了上面提到的内容，值得一提的还有 KWrite——现在已变成“瘦身版”的 Kate。它使用了 Kate 代码库，通过一些内部选项将其精简为一个不支持插件的瘦身版本。</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-71e7f45be2a113481a93db84696984169df.png" referrerpolicy="no-referrer"></p> 
 <p>如上方屏幕截图所示，KWrite 支持选项卡和拆分视图、快速打开、用于命令的 HUD 和更多漂亮的 Kate 功能。由于这是第一个使用统一代码库的版本，因此肯定会有一些尚未被发现的错误。</p> 
-<p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkate-editor.org%2Fpost%2F2022%2F2022-07-24-kate-22.08%2F" target="_blank">详情查看发布公告</a>。</p> 
-<p> </p>
+<p><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fkate-editor.org%2Fpost%2F2022%2F2022-07-24-kate-22.08%2F" target="_blank">详情查看发布公告</a>。</p>
                                         </div>
                                       
 </div>
