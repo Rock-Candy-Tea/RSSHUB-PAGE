@@ -1,0 +1,18 @@
+
+---
+title: '分析师称未来至少有五种苹果产品和配件切换到USB-C接口'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454363_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 26 Jul 2022 20:43:29 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454363_1024.jpg'
+---
+
+<div>   
+<p>新酷产品第一时间免费试玩，还有众多优质达人分享独到生活经验，快来新浪众测，体验各领域最前沿、最有趣、最好玩的产品吧 ~！下载客户端还能获得专享福利哦！</p><p>大家都知道，虽然 iPhone 目前仍在使用 Lightning 接口，但其实苹果近年来一直在将其许多设备转换为 USB-C。</p><p>苹果现在在其目前销售的每台 Mac 上都提供了 USB-C 端口，从 MacBook Air 到 MacBook Pro。还有其他配备 USB-C 端口的设备包括 2018 年更新的 iPad Pro、2020 年更新的 iPad Air、第六代 iPad mini、Studio Display 和 Pro Display XDR。</p><p>近日有传言称，未来至少还有五种苹果产品和配件也将切换到 USB-C。</p><p><strong>iPhone 15</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454363_1024.jpg" data-height="354" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454363_1024.jpg" referrerpolicy="no-referrer"></div></div>据苹果分析师郭明錤说，iPhone 14 预计将继续使用 Lightning 接口，但就在郭分享这一信息后不久，外媒记者报道称，苹果确实在测试带有 USB-C 端口的 iPhone。<p></p><p>就在上个月，欧盟宣布达成协议，将引入一项新法律，到 2024 年秋季，将会让 USB-C 成为所有新智能手机、平板电脑、耳机和其他电子产品的通用充电端口。</p><p><strong>入门级 iPad</strong></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454364_1024.jpg" data-height="419" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454364_1024.jpg" referrerpolicy="no-referrer"></div></div>Gurman 称，苹果计划用 USB-C 端口更新其入门级的 iPad 。苹果可能会在 9 月发布第 10 代 iPad。随着第 10 代 iPad 的推出苹果将在四年后完成整个 iPad 产品线到 USB-C 的过渡。<p></p><p><strong>AirPods 充电盒</strong></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454365_1024.jpg" data-height="419" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202207/62e0b18f8e9f095b3a454365_1024.jpg" referrerpolicy="no-referrer"></div></div>若一旦 iPhone 切换到 USB-C，郭表预计其他苹果配件未来也将采用 USB-C 接口其中就包括 AirPods 充电盒。<p></p><p>预计苹果将在今年晚些时候发布第二代 AirPods Pro，但关于新充电盒是继续使用 Lightning 接口还是改用 USB-C 端口的传闻一直存在争议。</p><p><strong>MagSafe 电池组</strong></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454366_1024.jpg" data-height="354" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454366_1024.jpg" referrerpolicy="no-referrer"></div></div>郭明錤预测预计未来将从 Lightning 切换到 USB-C 的另一个配件是适用于 iPhone 12 及更新版本的 MagSafe 电池组。<p></p><p>最后，郭明錤还说预计苹果公司为 Mac 提供的妙控键盘、妙控板和妙控鼠标这三个配件也将在未来采用 USB-C 端口。但目前这三款配件都配备了用于充电的 Lightning 接口。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454367_1024.jpg" data-height="354" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202207/62e0b18f8e9f095b3a454367_1024.jpg" referrerpolicy="no-referrer"></div></div>除了 2023 年下半年推出的 iPhone 15 之外，其他苹果产品转向 USB-C 还没有明确的时间表。<p></p><p>专注苹果新闻报道，每日推送最新苹果资讯。扫描下方二维码关注苹果汇官方微信 ( 或微信中搜：appleinc2012 ) 。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

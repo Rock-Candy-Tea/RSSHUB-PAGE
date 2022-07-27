@@ -1,0 +1,19 @@
+
+---
+title: '苹果全面_去intel化_，连一颗小芯片都不放过'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114645116037.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 27 Jul 2022 03:58:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114645116037.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日，有媒体报道称，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>将Macbook中使用的最后一颗intel芯片都换掉了，这颗芯片是一颗微不足道的小芯片USB4／雷电3计时器芯片，原本使用的是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span> JHL8040R ，但现在换成了不知名的其它品牌。</p><p style="text-indent: 2em; text-align: left;">一时之间，让网友们唏嘘不已，称10多年的合作，最终也将彻底分手，连一颗小芯片都不放过，不和对方有任何关联。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114645116037.jpg" title="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" alt="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">事实上，苹果与intel的合作，其实在乔布斯时代就开始了，最早可以追溯到2005年。</p><p style="text-indent: 2em; text-align: left;">在2005年的WWDC大会上，苹果CEO乔布斯就表示了对当时Mac采用的PowerPC芯片非常不满。6月份，苹果宣布终止与IBM和摩托罗拉（Motorola）的合作关系，不再采用PowerPC架构的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CPU.HTM" target="_blank" title="CPU">CPU</a></span>了。</p><p style="text-indent: 2em; text-align: left;">然后苹果正式转投Intel x86，2006年推出的Mac，换上了intel的X86芯片。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114645505742.jpg" title="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" alt="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">于是苹果、intel的甜蜜时代开始了，Mac用上了X86的芯片之后，为Mac设备提高自身品质、扩展消费市场奠定了良好的基础，再加上使用X86的Mac，还可以装windows，于是Mac销量大增。</p><p style="text-indent: 2em; text-align: left;">后来当苹果推出<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span>，对<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>越来越不满时，也求助intel，在iPhone7时，使用上了intel的4G基带，当然是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B1%E7%89%B9%E5%B0%94.HTM" target="_blank" title="英特尔">英特尔</a></span>、高通的4G基带一半一半。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114646755917.jpg" title="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" alt="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不过，使用英特尔的4G基带，让用户非常满，因为intel的基带不如高通的基带。特别是在5G到来时，intel的5G基带无法推出，导致iPhone的5G版落后了。</p><p style="text-indent: 2em; text-align: left;">没办法，苹果不得不与高通和解，抛弃掉了intel的<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%9F%BA%E5%B8%A6%E8%8A%AF%E7%89%87.HTM" target="_blank" title="基带芯片">基带芯片</a></span>，从iPhone12开始，又全部用上了高通的基带，在iPhone实现了去intel化。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202207/27114646223153.jpg" title="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" alt="从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而在Mac上，苹果也觉得intel的CPU一直在挤牙膏，也对intel非常不满，于是也开始自研芯片，要替代掉intel。</p><p style="text-indent: 2em; text-align: left;">后来苹果果然推出了M1，再从M1到M1 Pro、再到M1 Max、M1 Ultra，再到M2，终于也全面替代掉了X86的CPU，使用上了自研的芯片。</p><p style="text-indent: 2em; text-align: left;">如今，不管是iPhone，还是Mac，已经彻底和intel说再见了，不仅是CPU、基带这样的核心器件，甚至连一颗小小的USB4／雷电芯片都不放过，实在是太“无情”了点吧。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 从iPhone，到Mac，苹果全面“去intel化”，连一颗小芯片都不放过</span></p> 
+  
+</div>
+            
