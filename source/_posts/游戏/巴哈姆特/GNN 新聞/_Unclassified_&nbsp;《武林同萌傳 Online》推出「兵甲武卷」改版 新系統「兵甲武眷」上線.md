@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/88/434dd17369092e3f540d98040c1hh585.JPG?v=1658894565804'
 author: 巴哈姆特
 comments: false
-date: 2022-07-27 09:09:33
+date: 2022-07-27 10:10:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/434dd17369092e3f540d98040c1hh585.JPG?v=1658894565804'
 ---
 
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/434dd17369092e3f540d98040c1hh585.
 <div>
  </div>
 <div>
-　　曾經捨不得放棄的舊武器、盔甲現在有了新的長眠之處，還能發揮餘熱提供更多的能力給予玩家，讓玩家有更充足的準備面對日益顯惡的環境。</div>
+　　曾經捨不得放棄的舊武器、盔甲現在有了新的長眠之處，還能發揮餘熱提供更多的能力給予玩家，讓玩家有更充足的準備面對日益險惡的環境。</div>
 <div>
  </div>
 <div>
@@ -162,7 +162,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/434dd17369092e3f540d98040c1hh585.
 <li>
 活動對象：等級 40 以上的玩家</li>
 <li>
-活動內容：皮皮快要開學了、但是忘記這暑假發生的有趣事情，請在六小時內幫助他完成回憶。</li>
+活動內容：皮皮快要開學了，但是忘記這暑假發生的有趣事情，請在六小時內幫助他完成回憶。</li>
 </ul>
 <ol style="margin-left: 40px;">
 <li>
@@ -320,7 +320,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/88/434dd17369092e3f540d98040c1hh585.
  </div>
 <div>
 　　更多有關《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%AD%A6%E6%9E%97%E5%90%8C%E8%90%8C%E5%82%B3%20Online" target="_blank">武林同萌傳 Online</a>》的更新資訊及內容，玩家可透過官方網站查詢。</div>
-</div><p> </p>
+</div>
+<div>
+ </div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="56" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
