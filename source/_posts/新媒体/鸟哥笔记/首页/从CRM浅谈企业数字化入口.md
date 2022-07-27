@@ -1,0 +1,92 @@
+
+---
+title: '从CRM浅谈企业数字化入口'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 首页
+headimg: 'https://image.yunyingpai.com/wp/2022/07/4fsyujLy6YoTrT0OkErQ.png'
+author: 鸟哥笔记
+comments: false
+date: Wed, 27 Jul 2022 06:59:00 GMT
+thumbnail: 'https://image.yunyingpai.com/wp/2022/07/4fsyujLy6YoTrT0OkErQ.png'
+---
+
+<div>   
+<div style="height: 6px"></div>
+                        <section>我们讲到了企业数字化，这是个非常庞大的话题，据研究数据表明，在进行数字化转型的企业中，仅仅只有12%的企业成功转型。这是个非常低的比例，我们今天从数字营销这一入口来交流。</section>
+<section>同时我也带来一些自己的观察和实践分享，希望能和大家共鸣。</section>
+<section></section>
+<h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 20px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: center;"><em>—</em><em><strong> </strong></em><em><strong>01</strong></em> <em>—</em></h1>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 18px; padding-left: 12px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: left;"><strong>并不是所有的企业都适合数字化</strong></h2>
+<p>我们希望企业有这样的认知，不要为了跟风而做数字化转型。<strong>很多企业甚至往往没有区分清楚信息化和数字化。</strong></p>
+<p><strong>信息化≠数字化</strong></p>
+<p>2015年之前，我们接触到更多的传统软件以内部信息化管理为核心展开；2015年之后，从传统软件转型、到更多SaaS厂商，明显的发现关注企业内部的业务和商业创新，关注以客户、业务增长为核心的管理。</p>
+<p>信息化偏重于对数据的静态处理，更多是记录分析。信息化期望通过信息化手段来实现企业业务流程规范化管理，ERP、OA、CRM都是较早期的信息化工具。</p>
+<p><strong>信息化阶段，更多是人管系统。</strong></p>
+<p>数字化偏重于对已有数据的动态处理，如何作用到业务管理中。从数字化开始，数据变活了，可以从数据来驱动业务的优化、创新发展。如BI分析、产业数字化等等。</p>
+<p><strong>数字化阶段，开始有系统管人的趋势。</strong></p>
+<p><img class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/4fsyujLy6YoTrT0OkErQ.png" alt referrerpolicy="no-referrer"></p>
+<p>从这个角度出发，我们可以发现一个事实：<strong>信息化基本上适用于所有企业，但是数字化并不普适。 </strong></p>
+<p>我们来看看什么样的企业具备数字化条件：</p>
+<p>（1）中腰部以上企业，小微企业一般并不具备规模和落地执行力</p>
+<p>（2）企业必须具备信息化基础，达到一定业务规模，或是有产业升级的诉求，或是进行第二曲线业务的探索</p>
+<p>（3）在转型的组织变革中，具备人才梯队和持续运营保障</p>
+<h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 20px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: center;"><em>—</em><em><strong> </strong></em><em><strong>0</strong></em><em><strong>2</strong></em> <em>—</em></h1>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 18px; padding-left: 12px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: left;"><strong>企业希望在数字化的过程中解决什么问题</strong></h2>
+<p>对数字化有研究和实践的朋友知道，数字化的目标不仅仅是一个，但最后会集中落在<strong>业务、组织、技术</strong>三个板块的转型。</p>
+<p>其中，我认为数字化转型的关键动作是，<strong>解决业务流程的数字化。</strong>我们从下图能够看出来，从业务流为出发点，涵盖了工作流等内容，业务流程是公司必不可少的核心内容。</p>
+<p><img class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/kQaFfUR6eDijbHVLpqye.png" alt referrerpolicy="no-referrer"></p>
+<p>我们在做数字化的过程中，也有多端入口可以去探索。</p>
+<p>比如：</p>
+<p><strong>从业务端入手</strong>，销售、产研、生产制造、采购、供应链管理都是关注点；</p>
+<p><strong>从组织入手</strong>，还可以涉及培训、绩效、团队、文化等方面的内容；</p>
+<p><strong>从技术入手</strong>，工业企业还更注重软硬件的结合。</p>
+<section></section>
+<h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 20px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: center;"><em>—</em><em><strong> </strong></em><em><strong>03</strong></em> <em>—</em></h1>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 18px; padding-left: 12px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: left;"><strong>数字化的入口在哪里</strong></h2>
+<article 4 data-content="[&#123;" type":"block","id":"q6cr-1651761962577","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"z5mx-1651761962575","leaves":[&#123;"text":"该把哪些产品功能放在免费试用的范围内，这里给出的答案是：","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"qvts-1651936667189","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"ipjr-1651936667187","leaves":[&#123;"text":"能完整传递解决方案的产品功能都应该在试用版本中。","marks":[&#123;"type":"bold"&#125;]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"fpy1-1651936650403","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"81mc-1651936650386","leaves":[&#123;"text":"好用的功能要免费，传递出直接价值；","marks":[&#123;"type":"bold"&#125;]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"p5uf-1651978954555","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"et2v-1651978954553","leaves":[&#123;"text":"重要的功能要做阶梯收费，运用好锚定效应。","marks":[&#123;"type":"bold"&#125;]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"qvnf-1652106017593","name":"image","data":&#123;"url":" note.youdao.com yws res webresource3d894958b79ed2c9b70fcb6b30cbd9e4","version":1,"width":636,"height":278&#125;,"nodes":[],"state":&#123;"rendersource":" webresource3d894958b79ed2c9b70fcb6b30cbd9e4","initialsize":&#123;"width":636,"height":278&#125;,"loading":false&#125;&#125;,&#123;"type":"block","id":"bzj2-1651918075618","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"qhl0-1651918075606","leaves":[&#123;"text":"例如在线设计软件中的&rdquo;一键抠图&ldquo;功能，要比使用传统ps软件去抠图便捷很多，这个好用的功能基本上是开放给免费试用的用户，以便能够直接触达用户的需求点，但是想多次甚至不限次使用，就要购买不同付费版本。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"gpnm-1652055636215","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"pgxv-1652055636211","leaves":[&#123;"text":"关于产品收费的板块又是个很大的话题，以后有机会再展开讨论。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;]">
+<article 8 9 data-content="[&#123;" type":"block","id":"e5ac-1653829691247","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"qmnm-1653829691246","leaves":[&#123;"text":"（1）不一定能完全承载复杂的业务场景","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"bfmc-1653829742420","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"lcwb-1653829742418","leaves":[&#123;"text":"①业务场景的拆分","marks":[&#123;"type":"bold"&#125;]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"smeo-1653836693439","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"gi1r-1653836693435","leaves":[&#123;"text":"saas产品的移动化，不是简单的将pc端内容照搬到移动端就可以。","marks":[&#123;"type":"bold"&#125;]&#125;,&#123;"text":"我们需要注意业务场景的拆分。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"1wjo-1653838313735","name":"image","data":&#123;"url":" note.youdao.com yws res webresource7406b44b2123f3b763430300d955fb98","version":1,"width":526,"height":230&#125;,"nodes":[],"state":&#123;"rendersource":" webresource7406b44b2123f3b763430300d955fb98","initialsize":&#123;"width":526,"height":230&#125;,"loading":false&#125;&#125;,&#123;"type":"block","id":"lna8-1653831419646","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"uuqp-1653831419645","leaves":[&#123;"text":"由于tob业务场景的复杂，并不是所有的saas产品都适合做移动化。相对来讲，泛行业saas产品移动化的可能性要大于垂直行业saas。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"88do-1653831561969","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"7azh-1653831561965","leaves":[&#123;"text":"以泛行业的crm（客户关系管理系统）为例，其核心功能（拓客线索、客资管理、销售管理、合同管理）在pc端和移动端都有一致的呈现和较好的用户体验。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"myp6-1653832009200","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"dicg-1653832009185","leaves":[&#123;"text":"但是诸如垂直行业的aps（高级计划排程系统），实现全功能的移动化就会有非常大的挑战，甚至是不可能，而且移动端更多偏向于终端设备的数据采集反馈，况且一线生产工人边做生产还边看手机操作的行为也不符合生产安全规定。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"twih-1653836843404","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"spsq-1653836843390","leaves":[&#123;"text":"这让我想到一个值得思考的场景：","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"q3uu-1653836863740","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"2z4q-1653836863739","leaves":[&#123;"text":"笔者过往在做医药新零售saas产品的客户成功服务过程中，在面向连锁药店的店员做新零售私域运营工具实施时，店员和我们反馈说移动端在门店不好落地，因为公司领导刚刚宣布上班期间不得使用手机。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"ze32-1653837049670","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"as37-1653837049668","leaves":[&#123;"text":"虽然最后问题得以解决，但是这也侧面说明b端业务场景的多面化。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"ddtf-1653837099854","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"k5x6-1653837099852","leaves":[&#123;"text":"②移动端产品设计","marks":[&#123;"type":"bold"&#125;]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"gtob-1653837156443","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"m6nt-1653837156431","leaves":[&#123;"text":"由于saas产品的信息量比较大，我们在pc端可以较好呈现的内容，转换到移动端时就可能凸显冗余和复杂。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"o0b9-1653837247885","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"jti3-1653837247872","leaves":[&#123;"text":"要怎么样在有限的移动端屏幕空间内呈现saas产品信息量，是需要产品人加以深思熟虑的。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"wma3-1653837340498","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"cibz-1653837340484","leaves":[&#123;"text":"我们更多秉承&ldquo;精、减、藏&rdquo;的原则，精挑已确认移动化的功能做开发；字段、内容等做删减提炼展示；过多信息则隐藏。减少客户使用移动端办公的抵触情绪和增加上手容易度。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"5piv-1653831383652","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"4bw3-1653831383650","leaves":[&#123;"text":"","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"64oy-1653829742857","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"e79l-1653829742855","leaves":[&#123;"text":"（2）用户学习成本高","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"bqdp-1653829776843","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"wisd-1653829776841","leaves":[&#123;"text":"saas产品的落地应用，离不开客户成功团队的系统实施。不同于c端移动化产品，如果是即时通讯类、电商类移动端，因为用户长期对c端产品的高频使用，用户对产品是有着一定熟悉度的，哪怕摸索着使用都可以自行展开。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"vucf-1653831028327","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"gcka-1653831028313","leaves":[&#123;"text":"但是垂直saas产品的移动端，往往因为强关联企业的业务流、工作流、审批流等关键业务场景，用户是需要在saas厂商客户成功团队的培训下学习和熟练，必然会增加用户的学习成本。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"pbfz-1653838527688","name":"image","data":&#123;"url":" webresource30268623cc8258569db97e0b86721019","version":1,"width":526,"height":230&#125;,"nodes":[],"state":&#123;"rendersource":" webresource30268623cc8258569db97e0b86721019","initialsize":&#123;"width":526,"height":230&#125;,"loading":false&#125;&#125;,&#123;"type":"block","id":"rbld-1653829777456","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"unqr-1653829777454","leaves":[&#123;"text":"（3）推广和维护成本高","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"rkn8-1653830075932","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"pwsv-1653830075928","leaves":[&#123;"text":"如果是pc端，你可能只需要一套产品设计方案就可以，同时兼顾好各大主流浏览器的适配。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"hb5e-1653830131751","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"xima-1653830131735","leaves":[&#123;"text":"如果是做移动端，saas产品会面临安卓和ios系统操作平台的开发，以及应用平台投放和维护。在产研开发和市场营销费用上都将会是一笔不小的支出。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"j0zi-1653830830160","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"up8z-1653830830155","leaves":[&#123;"text":"由此，我们有很多saas厂商选择了去做wap端及小程序，这不失为一种比较好的方法，让使用者即用即走，既满足企业用户的使用需求，也在成本可控范围内。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"aojg-1653807719200","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"save-1653807719198","leaves":[&#123;"text":"时间紧、预算少的创业团队更适合第二种（wap端及小程序）方式。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"t8mv-1653830863214","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"r4ub-1653830863213","leaves":[&#123;"text":"","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"ozxh-1653838887360","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"ucar-1653838887358","leaves":[&#123;"text":"最后的话","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"32jw-1653839045583","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"v9za-1653839045581","leaves":[&#123;"text":"","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"mwmh-1653817387100","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"a76i-1653817387097","leaves":[&#123;"text":"不同于toc短链路的业务场景，tob的业务场景往往比较复杂，在使用saas产品的时候，企业经常会围绕业务流、工作流、审批流这三个维度的内容展开。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"0m8t-1653825995066","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"jgwh-1653825995064","leaves":[&#123;"text":"首先，作为saas厂商要明确的是，并不是所有saas产品都适合做移动端；","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"md2v-1653839101576","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"lexl-1653839101574","leaves":[&#123;"text":"其次，做产品移动化的过程中，需要调研清楚用户的业务场景，不能仅仅只是照搬pc端的功能；","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"hmzt-1653839200457","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"wl3n-1653839200443","leaves":[&#123;"text":"最后，要考虑移动化的载体，是app，还是小程序，再或者wap端等，不同的承载入口，对于saas厂商的开发成本、服务成本、推广运维成本都是有很大差异的。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"jxta-1653826319492","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"s1gn-1653826319490","leaves":[&#123;"text":"毫无疑问，saas产品移动化是正在发生的事实，在未来的移动化过程中还会遇到很多难题，相信能给你带来一点启发。","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"903e-1653839598991","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"e9ek-1653839598989","leaves":[&#123;"text":"","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;,&#123;"type":"block","id":"hufc-1653839599954","name":"paragraph","data":&#123;&#125;,"nodes":[&#123;"type":"text","id":"1x08-1653839599952","leaves":[&#123;"text":"对话框回复&ldquo;加群&rdquo;，与作者畅聊观点","marks":[]&#125;]&#125;],"state":&#123;&#125;&#125;]">
+<p>在这里，我们今天谈到了数字营销，更希望是从业务端作为入口，<strong>因为大家在业务上的认知较为统一，而且内部的认知差壁垒较低。</strong></p>
+<p>在分阶段落地的过程中要注意节奏。</p>
+<p>以下这句话我觉得非常好，和大家分享：<strong>总体规划、局部先行、快速验证。</strong></p>
+<p>从营销端入手，到业务数字化、数字化协同、最终走向数字化管理。</p>
+<p><img class="aligncenter" src="https://image.yunyingpai.com/wp/2022/07/DtJERwawzgkXMUEq4EgI.png" alt referrerpolicy="no-referrer"></p>
+<h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 20px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: center;"><em>—</em><em><strong> </strong></em><em><strong>04</strong></em> <em>—</em></h1>
+<h2 style="background-image: url('https://qnssl.niaogebiji.com//6cdd60ea0045eb7a6ec44c54d29ed402.png'); background-size: 8px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 18px; padding-left: 12px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: left;"><strong>CRM的选型和落地</strong></h2>
+<p>CRM的产品类别很多，严格意义上讲<strong>并不是所有的CRM都是数字化入口，因为有的CRM产品可能还是停留在信息化的阶段。</strong></p>
+<p>我们以CRM选型为案例，简单展开营销销售端的数字化板块。</p>
+<p>CRM选型过程中经常遇到<strong>不了解、不会选、不会用</strong>的三个问题。在我往期的文章中有详细讲解，可以点击《从入门到放弃？CRM选型困局怎么破》查看。</p>
+<p>从选型要点上来讲，我归纳了5类：</p>
+<p><strong>（1）工具定位</strong></p>
+<p>工具是对过程管理的赋能。要用工具来实现更好的管理而不是颠覆现有模式。甚至可以在一定程度上补足一线人员的能力短板，便于制度的落地。</p>
+<p><strong>（2）明确目标</strong></p>
+<p>审视清楚CRM选型目的是什么？引流获客、客户管理、销售管理、内部协作。</p>
+<p>是要解决规范化、标准化、还是个性化问题等等。</p>
+<p><strong>（3）市场调研</strong></p>
+<p>粗略的分类，可以分为通用型和垂直型厂商。这里有足够多的行业产品进行调研。尽可能选择延展性更强的厂商。</p>
+<p><strong>（4）产品试用</strong></p>
+<p>关注产品的功能满足度和易用度。</p>
+<p>小微团队关注规范化；</p>
+<p>中型团队关注标准化；</p>
+<p>中大型团队关注定制化。</p>
+<p>如果在试用期间就能很快速低门槛的熟悉产品，实际上线使用效果会更好。</p>
+<p><strong>（5）预算把控</strong></p>
+<p>合适的预算把控，没有一分钱买两样货的可能，在可选范围内要把控好。</p>
+<p><strong>在落地过程中的难点，常有以下几项：</strong></p>
+<p>（1）决策者和使用者关注点不一样，但是没有对系统上线目标和期望达成一致认知，甚至互相制约。</p>
+<p>（2）好马配好鞍，选型之后缺少内部人员的持续运营，较好的厂商甚至还可以提供客户成功服务来支撑基础比较薄弱的企业。</p>
+<p>（3）产品自身功能弱，易用度不好，这个是硬伤</p>
+<h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat; color: #212629; font-size: 20px; margin: 25px 0px 20px; font-weight: 600; line-height: 30px; text-align: center;"><strong>最后的话</strong></h1>
+<p>在提及SCRM产品对企业<strong>是协同还是社交</strong>。我认为：</p>
+<p>CRM偏重于对客户关系以及衍生商业机会的管理。</p>
+<p>SCRM除了以上需求之外，如果让我讲的话，可能就是<strong>增加了商业温</strong><strong>度</strong>，让私域用户的连接更有温度，和用户走得更近。</p>
+<p><strong>如果B端企业的用户群体也是B端客户，企业更喜欢把SCRM作为CRM的延申</strong>，可能一个企微助手之类的延申功能就能满足使用，不管怎么做都是在连接私域客户。</p>
+<p><strong>如果B端企业的用户群体是C端客户，</strong>典型如B端连锁药店购买SCRM产品之后，他们是要用系统去触达C端低频刚需消费者以及高频刚需的慢病消费者，<strong>那这个时候SCRM的S，发挥的社交功能作用就非常明显了。</strong></p>
+<p><strong>总体规划、局部先行、快速验证，</strong>或许在企业数字化进程中，CRM/SCRM会是比较好的切入口。</p>
+<p>今天我给大家带来的就是以上分享，希望能给你更多的思考和帮助。</p>
+</article>
+</article>                        <div style="height: 1px"></div>
+                      
+</div>
+            
