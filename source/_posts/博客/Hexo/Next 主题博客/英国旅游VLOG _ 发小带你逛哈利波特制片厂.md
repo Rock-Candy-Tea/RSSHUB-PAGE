@@ -5,11 +5,11 @@ categories:
  - 博客
  - Hexo
  - Next 主题博客
-headimg: 'https://picsum.photos/400/300?random=4295'
+headimg: 'https://picsum.photos/400/300?random=8874'
 author: Hexo
 comments: false
 date: Sun, 24 Jul 2022 02:21:34 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4295'
+thumbnail: 'https://picsum.photos/400/300?random=8874'
 ---
 
 <div>   
