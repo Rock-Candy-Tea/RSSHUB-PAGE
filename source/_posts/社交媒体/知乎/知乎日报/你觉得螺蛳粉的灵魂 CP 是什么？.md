@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162'
+headimg: 'https://pic3.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-07-27 07:09:19
-thumbnail: 'https://pic2.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162'
+date: 2022-07-27 08:12:02
+thumbnail: 'https://pic3.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic3.zhimg.com/v2-696937b19c05bff15f3b1a289caf1d95_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">卫小妖GOGOGO，</span><span class="bio">｜爱写蔬菜分类和厨房原理的设计师｜聊美食聊人生</span>
 <a href="https://www.zhihu.com/question/543071846/answer/2593693028" class="originUrl" hidden>查看知乎原文</a>
 </strong>
