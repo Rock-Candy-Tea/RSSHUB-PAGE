@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/how-to-thrive-according-to-forrester/'
 author: Inside Design
 comments: false
-date: 2022-07-27 05:26:05
+date: 2022-07-27 06:11:46
 thumbnail: 'https://www.invisionapp.com/inside-design/how-to-thrive-according-to-forrester/'
 ---
 
