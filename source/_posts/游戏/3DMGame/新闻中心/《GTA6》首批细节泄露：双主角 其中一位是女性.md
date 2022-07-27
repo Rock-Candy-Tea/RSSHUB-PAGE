@@ -55,11 +55,27 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220727/1658928289_8274
 <p style="text-indent:2em;">
 员工的时间更加灵活
 </p>
+<p style="text-indent:2em;">
+R星花了过去4年时间彻底改革了其工作室文化，正在努力变成一家更友善更进步的公司。但实际效果如何，这对《GTA6》意味着什么?
+</p>
+<p style="text-indent:2em;">
+彭博社记者Jason 
+Schreier刊文称，R星的改革始于2018年，当时员工称R星的公司文化是加班、欺凌和兄弟会搞怪。公司已经解雇了被指控滥用职权的经理，承诺减少加班。一名员工称赞R星从一个男孩俱乐部变成了真正的公司。
+</p>
+<p style="text-indent:2em;">
+R星从最近重新发售的《GTA5》游戏中移除了跨性别玩笑，在乔治·弗洛伊德抗议后，悄悄地取消了一个叫做Cops 'n' Crooks 的在线模式。
+</p>
+<p style="text-indent:2em;">
+《GTA6》的开发比预期地慢很多，主要是疫情原因，但也受以上变动影响，因为员工们逐渐习惯了这一新的R星。很多人说目前R星的士气比以往任何时候都要高，这次的文化改动非常值。
+</p>
 <p style="text-align:center;">
 <img src="https://img.3dmgame.com/uploads/images/news/20220727/1658928504_982011.jpg" alt="《GTA6》首批细节泄露：双主角 其中一位是女性" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-align:center;">
 <img src="https://img.3dmgame.com/uploads/images/news/20220727/1658928512_308015.jpg" alt="《GTA6》首批细节泄露：双主角 其中一位是女性" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220727/1658930063_272584.jpg" alt="《GTA6》首批细节泄露：双主角 其中一位是女性" referrerpolicy="no-referrer"> 
 </p>          
 </div>
             
