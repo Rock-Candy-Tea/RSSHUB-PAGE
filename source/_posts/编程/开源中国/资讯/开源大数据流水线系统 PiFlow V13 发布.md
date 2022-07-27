@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/opensci/piflow/raw/master/doc/piflow-logo2.png'
 author: 开源中国
 comments: false
-date: Wed, 27 Jul 2022 10:49:00 GMT
+date: Wed, 27 Jul 2022 18:49:00 GMT
 thumbnail: 'https://gitee.com/opensci/piflow/raw/master/doc/piflow-logo2.png'
 ---
 
