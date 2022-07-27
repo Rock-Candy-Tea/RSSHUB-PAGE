@@ -1,0 +1,18 @@
+
+---
+title: 'BFC詐騙_操作失敗帳號被鎖_手續費保管費_解鎖另收錢_陳總監_策劃-玲'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/28d56cb3-6c93-408a-b83f-c9df44c2dbb2.jpeg'
+author: Matters
+comments: false
+date: Wed, 27 Jul 2022 13:12:32 GMT
+thumbnail: 'https://assets.matters.news/embed/28d56cb3-6c93-408a-b83f-c9df44c2dbb2.jpeg'
+---
+
+<div>   
+<p>收到李女士舉報稱最近參與虛擬幣平台bfcwoz，和之前一樣一開始有得賺後面無意間操作失敗，導致帳號被鎖，經過協商花20萬解鎖，然後到要提領的部分，平台客服又把李女士的銀行帳號打錯導致李女士不能提款，如果要提款的話要先付獲利的1%手續費及保管費，李女心有懷疑，後搜尋網路爬文發現我之前曝光的這篇：<a href="https://matters.news/@chunz1990/298263-bfcwoz%E6%98%AF%E8%A9%90%E9%A8%99-bfc%E8%A9%90%E9%A8%99-%E5%85%BC%E8%81%B7%E8%A9%90%E9%A8%99-%E9%99%B3%E6%BC%A2%E5%AE%97-%E8%99%9B%E6%93%AC%E5%B9%A3%E8%A9%90%E9%A8%99-%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3%E8%A9%90%E9%A8%99-bafyreicprwx3g52hwpxi4bp27dr3rta6ki7qgsts3qjkxjflk6nlype5ce" rel="noopener noreferrer" target="_blank">bfcwoz是詐騙/bfc詐騙/兼職詐騙/陳漢宗/虛擬幣詐騙/數位貨幣詐騙</a>，才警覺上當受騙，被騙後不要驚慌，要先看這篇：<a href="https://matters.news/@chunz1990/bfc%E8%A9%90%E9%A8%99-%E6%93%8D%E4%BD%9C%E5%A4%B1%E6%95%97%E5%B8%B3%E8%99%9F%E8%A2%AB%E9%8E%96-%E6%89%8B%E7%BA%8C%E8%B2%BB%E4%BF%9D%E7%AE%A1%E8%B2%BB-%E8%A7%A3%E9%8E%96%E5%8F%A6%E6%94%B6%E9%8C%A2-%E9%99%B3%E7%B8%BD%E7%9B%A3-%E7%AD%96%E5%8A%83-%E7%8E%B2-bafyreicgmnxwsa3xrxklsvfixzkuazt2lqx4pjuc2hw5ciah5aumgrmlla" rel="noopener noreferrer" target="_blank">【被騙後資金挽回必看步驟】為什麼我會被騙？我要怎麼面對？被騙了我該怎麼辦？遭網路詐騙怎麼辦？</a>這篇文有詳細的教程，教你怎麼拿回被騙的錢，也可以寫信箱給我<a href="http://mason09068@gmail.com/" rel="noopener noreferrer" target="_blank">mason09068@gmail.com</a>我來幫你分析是否遇到詐騙，這個辦法並不能保證適用每個人，也不能保證100%的成功率，僅給大家被騙之後最好的參考辦法。</p><figure class="image"><img src="https://assets.matters.news/embed/28d56cb3-6c93-408a-b83f-c9df44c2dbb2.jpeg" data-asset-id="28d56cb3-6c93-408a-b83f-c9df44c2dbb2" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/6622a04e-f103-4b31-80eb-756c7cff8a3c.jpeg" data-asset-id="6622a04e-f103-4b31-80eb-756c7cff8a3c" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/670beea9-42c2-4ac2-a94a-8787a897e54f.jpeg" data-asset-id="670beea9-42c2-4ac2-a94a-8787a897e54f" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/93d46e8f-5b41-423c-a10b-268a3dda47ea.jpeg" data-asset-id="93d46e8f-5b41-423c-a10b-268a3dda47ea" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/7dd13822-18d5-4b8e-ac6d-ace808eec951.jpeg" data-asset-id="7dd13822-18d5-4b8e-ac6d-ace808eec951" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/31d97d9f-eab5-4b2c-8d47-224e9039fda1.jpeg" data-asset-id="31d97d9f-eab5-4b2c-8d47-224e9039fda1" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/dd32a014-e6cd-431f-a57e-bbefab05f3db.jpeg" data-asset-id="dd32a014-e6cd-431f-a57e-bbefab05f3db" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/6084eb16-e096-4e2b-8575-269e2fc03f47.jpeg" data-asset-id="6084eb16-e096-4e2b-8575-269e2fc03f47" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><figure class="image"><img src="https://assets.matters.news/embed/a33ee21b-caeb-49aa-a68e-831a2b9d760d.jpeg" data-asset-id="a33ee21b-caeb-49aa-a68e-831a2b9d760d" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><br></p>  
+</div>
+            
