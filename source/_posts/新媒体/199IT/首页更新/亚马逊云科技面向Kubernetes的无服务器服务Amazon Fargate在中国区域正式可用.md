@@ -1,0 +1,18 @@
+
+---
+title: '亚马逊云科技面向Kubernetes的无服务器服务Amazon Fargate在中国区域正式可用'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=1367'
+author: 199IT
+comments: false
+date: Thu, 28 Jul 2022 01:46:22 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1367'
+---
+
+<div>   
+亚马逊云科技面向Kubernetes的无服务器服务Amazon Fargate在中国区域正式可用  
+</div>
+            
