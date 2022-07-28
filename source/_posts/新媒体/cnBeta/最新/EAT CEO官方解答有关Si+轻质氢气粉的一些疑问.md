@@ -1,0 +1,19 @@
+
+---
+title: 'EAT CEO官方解答有关Si+轻质氢气粉的一些疑问'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/07/965e1735c40a597.png'
+author: cnBeta
+comments: false
+date: Thu, 28 Jul 2022 07:23:45 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/07/965e1735c40a597.png'
+---
+
+<div>   
+于上周披露的氢气运输和生成粉末Si+引起了相当大的轰动，这是因为它承诺使可再生能源的运输将变得非常便宜、方便和安全，这跟以气体、低温液体或嵌入氨中的方式运输氢气所涉及的费用、低效和困难形成鲜明对比。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/965e1735c40a597.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/965e1735c40a597.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">世界上很多地方似乎都在关注着绿色氢气，并将其作为储存、运输和出口可再生能源的一种清洁方式，但压缩和容纳气体、低温冷却和储存液体或将其转化为氨所涉及的高成本可能会在成本天平上留下一个沉重的拇指。如果成本高到经济无法承受其重量，绿色能源转型就不可能发生。</p><p style="text-align: left;">至于固态氢气粉，无论是迪肯大学的球磨氮化硼还是EPRO Advance technology(EAT)的多孔硅，这些粉末都可以使用更便宜、更常规的方式有效地运输绿色能源。在卡车或海运集装箱里装上这两种材料然后用普通货船送去，而另一端的人可以用它来释放氢气并随时可以使用。</p><p style="text-align: left;">迪肯大学的解决方案需要热量来释放氢气，EAT的Si+产品则需要水和氢氧化钠。两者都提供了一个零排放的途径并为用户留下可回收或可能有用的副产品。两者都称从根本上比纯氢更便宜，尤其是当运输和储存成本被考虑在内时。</p><p style="text-align: left;">不过EAT的Si+粉末据称提供了比迪肯粉末更高的单位重量储能密度且一旦跟碱性水结合产生氢气，它除了留下二氧化硅之外什么都没有，可以出售用于制造混凝土。因此，它具有特别的意义。</p><p style="text-align: left;">很显然，读到这儿大家肯定会有一些问题，NewAtlas亦是如此，于是他们通过电子邮件联系了EAT执行董事兼CEO Albert Lau。这家媒体向他提出了以下问题并将Lau的答案以编辑过的形式呈现在下面：</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/07/f9b574c17c7c86e.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/07/f9b574c17c7c86e.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">1）制造Si+粉末的能量效率是多少？跟释放的能量相比，进入的能量有多少？</p><p style="text-align: left;"><em>标准Si+的往返效率（使用电网电力从沙子/石英与碳源开始）达到约48%。这也包括在氢气生成过程中施加的放热。48%的比例低于电解器系统给出的比例，但当有运输和储存的要求时，Si+获胜。</em></p><p style="text-align: left;">2）跟气态氢相比，你对它的成本有一个认识吗？无论是在材料本身还是在出口运输的情况下？</p><p style="text-align: left;"><em>成本将在很大程度上取决于氢气的生产地点和它必须被运输到哪里使用。通常情况下，可再生能源资源是偏远的，这就需要运输。</em></p><p style="text-align: left;"><em>为了提供一些关于H2交付成本的观点，川崎重工的液态氢船的成本为3.62亿美元，预计往返需要60天左右。计算很简单：让我们使用30年的折旧，这艘8818吨的船每吨500美元的废品价值，60天作为每次往返运输的长度，让我们假设在60天的运输过程中没有沸腾，这样，这艘船实际交付了整整88.5吨的氢气。简单计算一下，在最理想的假设下，仅折旧费就高达22.1美元/公斤氢气，且不包括任何船舶的运营成本和/或相关公司的利润也不包括任何陆地上的成本。</em></p><p style="text-align: left;"><em>澳大利亚和日本并不是唯一在液态氢方面取得进展的国家。荷兰壳牌新能源公司、ENGIE、Vopak和Anthony Veder都已经签署了一项协议以共同研究从葡萄牙生产、液化和运输绿色氢气到荷兰的可行性。</em></p><p style="text-align: left;">3）Si+粉末是否会跟空气中的水分发生反应？如果是这样必须如何储存和处理？</p><p style="text-align: left;"><em>是的，Si+会跟空气中的水分发生反应。但如果没有氢氧化钠（NaOH），这种反应就不能持续。Si+将在表面形成一个被动的氧化层，保护Si+颗粒的内芯不发生进一步反应。另外，如果没有基本条件氢气生成反应是非常缓慢的。</em></p><p style="text-align: left;"><em>Si+将被真空包装或在某些情况下用惰性气体如氮气或氩气进行吹扫。</em></p><p style="text-align: left;">4）它需要多少水？假设携带7.4公斤的Si+粉末来释放1公斤的氢气，你需要添加多少水？水的纯度需要多少？</p><p style="text-align: left;"><em>这是一个复杂的化学和分子动力学问题。为了简化回答，30L的水可以在几个小时内跟7.4公斤的Si+反应。水可以是过滤后的地表水。</em></p><p style="text-align: left;">5）制造Si+粉末需要什么样的设备和材料投入？这是否可以很容易地在风电场和太阳能电池组中推广以实现即时停机发电？</p><p style="text-align: left;"><em>Si+是通过冶金手段生产的，即在高温下运行的大型铸造炉。一个Si+铸造厂绝对可以被建立起来以应对这些被削减和未被充分利用的可再生能源。</em></p><p style="text-align: left;">6）释放反应会释放多少热量？它可以被管理或使用吗？</p><p style="text-align: left;"><em>每产生一公斤H2将产生约24千瓦时的低品位热量（高达70℃）。这种热能可以通过热交换器回收，然后可以用于空间加热、家庭或商业水加热等。在一些极端的情况下，这种热能可以通过热电联供重新转化为电能。</em></p><p style="text-align: left;">很显然，所需水的重量和释放的热能将是如何使用Si+的重要考虑因素。水分显然将是运输中的一个因素，这意味着很多这种粉末最终可能被包装在塑料中。</p><p style="text-align: left;">至于效率，NEL Hydrogen称其A系列电解器可仅用3.8千瓦时的能量就能生产出正常立方米的氢气（储存约3千瓦时的可用能量），这意味着效率约为79%--但这显然没有考虑到将气体压缩到700多个大气压或冷却到20开尔文低温（-253℃）以便储存和运输所产生的大量能源成本。因此，在清洗过程中，它的效率很可能会大大增加。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=367533089&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p>   
+</div>
+            

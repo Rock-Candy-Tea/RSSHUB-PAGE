@@ -1,0 +1,19 @@
+
+---
+title: '英特尔演示Arc A750限量版显卡的VRR、HDR与HDMI 2.1功能'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0728/099300085359e4c.jpg'
+author: cnBeta
+comments: false
+date: Thu, 28 Jul 2022 07:22:00 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0728/099300085359e4c.jpg'
+---
+
+<div>   
+英特尔 Arc Graphics 市场营销主管 Ryan Shrout，<strong>刚刚在官方 YouTube 频道上分享了一段视频，演示了 Arc A750“限量款”独显的可变刷新率（VRR）、宽动态范围（HDR）、以及 HDMI 2.1 特性。</strong>此外在《死亡搁浅》游戏中，该显卡竟也能够在 4K 分辨率下达成 100+ FPS 的帧率。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0728/099300085359e4c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0728/099300085359e4c.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p>可变刷新率（VRR）也被许多人称作“自适应同步”技术，旨在通过让显示器的刷新率与显卡帧率同步，以带来更加平滑流畅的游戏体验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0716/833927bc05406b4.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0716/833927bc05406b4.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p>在近日的演示中，Ryan Shrout 选用了一台<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://acer-pc.jd.com/" target="_blank">宏碁</a>（Acer）<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_110018%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">4K</a> 120Hz 显示器。并在搭配 Arc A750 显卡的情况下，实现了 80-100 FPS 的《死亡搁浅》游戏体验。</p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=369251643&autoplay=false&disablePlaylist=true" width="720" height="480" frameborder="0"></iframe></p><p style="text-align: center;">Intel Arc Intel Arc A750 Limited Edition Graphics Card Showcase（<a href="https://tv.sohu.com/v/dXMvODIyMjQwNTMvMzY5MjUxNjQzLnNodG1s.html" target="_self">via</a>）</p><p>此外<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>宣称将在 100 多台 VRR 显示器上展开测试，以便即将推出的 Arc A700 系列显卡能够提供出色的游戏体验。</p><p><a href="https://static.cnbetacdn.com/article/2022/0728/5bc5908698a33f1.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0728/5bc5908698a33f1.jpg" alt="3-1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">左上为渲染帧率，右上为显示器刷新率。</p><p>至于 HDR，其能够带来更震撼的视觉保真度和游戏体验。（本例使用了 Alienware HDR QD<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a> 显示器来玩《死亡搁浅》）</p><p><a href="https://static.cnbetacdn.com/article/2022/0728/1da23e95bf2c35f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0728/1da23e95bf2c35f.jpg" alt="3-2.jpg" referrerpolicy="no-referrer"></a></p><p>最后聊聊 Arc 显卡的 HDMI 功能。Ryan Shrout 表示，全系 Arc GPU（台式 / 笔记本 SKU）都原生支持 HDMI 2.0 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0716/2e6865d970b7005.jpg" alt="4.jpg" referrerpolicy="no-referrer"></p><p>但要用上 HDMI 2.1，AIB 厂商可集成 PCON，以将 DisplayPort 转换为 HDMI 2.1。（Arc A770 与 Arc A770 Limited Edition 都采用了该方案）</p><p><img src="https://static.cnbetacdn.com/article/2022/0716/41a05d002157328.png" alt="5.png" referrerpolicy="no-referrer"></p><p style="text-align: center;">（via <a href="https://wccftech.com/intel-demos-arc-a750-limited-edition-graphics-card-vrr-hdr-hdmi-2-1-capabilities-runs-death-stranding-100-fps-4k/" target="_self">WCCFTech</a>）</p><p>最后，在 Intel 官宣的关键技术中，最值得称道的，反而是对标英伟达 DLSS 和 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> FSR 的 XeSS 技术 —— 其能够为《死亡搁浅》等游戏，带来相当显著的流畅度提升。</p>   
+</div>
+            
