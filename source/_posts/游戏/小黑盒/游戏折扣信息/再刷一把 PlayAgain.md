@@ -8,12 +8,12 @@ categories:
 headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/2059790/header.jpg?t=1658812903'
 author: 小黑盒
 comments: false
-date: 2022-07-28 13:35:43
+date: 2022-07-28 14:11:44
 thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/2059790/header.jpg?t=1658812903'
 ---
 
 <div>   
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/2059790/header.jpg?t=1658812903" referrerpolicy="no-referrer"> <br>
-            平台: PC<br>折扣力度: 7折<br>当前价格: 25[史低]  原价: 35<br>评分: 5.8<br><br>  
+            平台: PC<br>折扣力度: 7折<br>当前价格: 25[史低]  原价: 35<br>评分: 5.9<br><br>  
 </div>
             
