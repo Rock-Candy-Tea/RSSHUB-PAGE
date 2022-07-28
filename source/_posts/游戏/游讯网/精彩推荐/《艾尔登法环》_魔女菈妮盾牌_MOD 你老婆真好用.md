@@ -13,7 +13,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img4.yxdimg.com/2022/7/27/KDY
 ---
 
 <div>   
-<p>   虽然不少王者在登基之后很快就云游四方，任由刚刚平静的交界地自生自灭，但是还有很多了“艾尔登之王”选择留下整治不法刁民，尤其是在MOD作者的帮助下还就是那个花样百出。最近MOD制作者ApolloHoo为《艾尔登法环》的王者们打造了一个“魔女菈妮盾牌”MOD，平叛也要带老婆。</p>
+<p>   虽然不少王者在登基之后很快就云游四方，任由刚刚平静的交界地自生自灭，但是还有很多的“艾尔登之王”选择留下整治不法刁民，尤其是在MOD作者的帮助下还就是那个花样百出。最近MOD制作者ApolloHoo为《艾尔登法环》的王者们打造了一个“魔女菈妮盾牌”MOD，平叛也要带老婆。</p>
 
 <p style="text-align: center;"><a href="http://img4.yxdimg.com/2022/7/27/09a9ca85-ec63-44fa-b63a-21a68f365318.jpg" style="text-align: center;" target="_blank"><img alt="游迅网www.yxdown.com" src="https://cors.zfour.workers.dev/?http://img4.yxdimg.com/2022/7/27/KDYwMHgp/09a9ca85-ec63-44fa-b63a-21a68f365318.jpg" style="opacity: 0.9;" title referrerpolicy="no-referrer"></a></p>
 
