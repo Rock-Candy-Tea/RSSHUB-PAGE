@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-07-29 13:32:17
-thumbnail: 'https://pica.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162'
+date: 2022-07-29 14:08:30
+thumbnail: 'https://pic1.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-e5cd04cc35616866997e298063506223_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">Frank Wang，</span><span class="bio">HR专家，Nanyang MBA</span>
 <a href="https://www.zhihu.com/question/40813869/answer/2597184200" class="originUrl" hidden>查看知乎原文</a>
 </strong>
