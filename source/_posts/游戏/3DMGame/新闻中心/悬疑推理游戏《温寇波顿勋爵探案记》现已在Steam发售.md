@@ -1,0 +1,135 @@
+
+---
+title: '悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220705/1656986739_872083.png'
+author: 3DMGame
+comments: false
+date: Fri, 29 Jul 2022 08:19:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220705/1656986739_872083.png'
+---
+
+<div>   
+<p style="text-indent:2em;">
+由Cave Monsters开发的英式<a target="_blank" href="https://www.3dmgame.com/tag/xuanyi_1/">悬疑</a>推理点击冒险游戏《温寇波顿勋爵探案记》现已上在Steam发售，支持中文。<span>首发期间购买享9折优惠，只需60.3元</span><span>。</span> 
+</p>
+<p style="text-indent:2em;">
+20世纪20年代，全球首屈一指的侦探即将接手一桩空前棘手的案子。这个世界与我们的世界不同，这位大侦探的身份也不同凡响——长颈鹿绅士温寇波顿勋爵，他的探案能力也是傲视全球。
+</p>
+<h3>
+游戏预告
+</h3>
+<p align="center">
+<iframe height="480" width="640" src="https://player.youku.com/embed/XNTg4NDI4Nzg0OA?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+</iframe>
+</p>
+<p style="text-indent:2em;">
+<strong>游戏Steam页面：</strong><a href="https://store.steampowered.com/app/1024160/Lord_Winklebottom_Investigates/" target="_blank"><strong>点击此处</strong></a> 
+</p>
+<h3>
+游戏简介
+</h3>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986739_872083.png" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+《温寇波顿勋爵探案记》这款谋杀悬疑指向点击冒险游戏以20世纪20年代为背景，主角是一个颇具魅力的长颈鹿侦探！
+</p>
+<p style="text-indent:2em;">
+游戏<a target="_blank" href="https://www.3dmgame.com/tag/juqing_1/">剧情</a>受阿加莎·克里斯蒂的作品及《福尔摩斯》的启发，堪称古典派的英式谋杀悬疑作品！
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986757_914811.png" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+20世纪20年代，全球首屈一指的侦探即将接手一桩空前棘手的案子。神秘的邀请，与世隔绝的海岛，丧心病狂的命案，只有争分夺秒，才能抓住凶手。虽然这个世界与我们的世界不同，所幸这位大侦探的身份不同凡响——长颈鹿绅士温寇波顿勋爵，他的探案能力也是傲视全球。
+</p>
+<p style="text-indent:2em;">
+化身温寇波顿勋爵与他忠实的同伴佛伦坡博士，一同调查老友的惨案。寻觅线索，讯问可疑动物，破<a target="_blank" href="https://www.3dmgame.com/tag/jiemi_1/">解谜</a>题，发现案件的真相，抓住凶手，揭露犬魔岛深处丧尽天良的阴暗之事！
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986768_324787.png" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+全程英文配音。
+</p>
+<p style="text-indent:2em;">
+现场录制的1920年代风格原创器乐音轨。
+</p>
+<p style="text-indent:2em;">
+化身长颈鹿绅士！
+</p>
+<p style="text-indent:2em;">
+与众不同的2D手绘美术。
+</p>
+<p style="text-indent:2em;">
+动物角色大小、体型各异！
+</p>
+<p style="text-indent:2em;">
+指向点击界面简约明了。
+</p>
+<p style="text-indent:2em;">
+光怪陆离的角色等你讯问！
+</p>
+<p style="text-indent:2em;">
+几十环谜题等你破解！
+</p>
+<h3>
+游戏截图
+</h3>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986598_591177.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986604_550255.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986611_101640.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986617_851886.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986624_872243.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986630_851479.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986636_646885.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986642_538004.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220705/1656986648_888989.jpg" alt="悬疑推理游戏《温寇波顿勋爵探案记》现已在Steam发售" referrerpolicy="no-referrer"> 
+</p>
+<h3>
+系统需求
+</h3>
+<p style="text-indent:2em;">
+最低配置
+</p>
+<p style="text-indent:2em;">
+操作系统: Windows 7 or above
+</p>
+<p style="text-indent:2em;">
+处理器: SSE2 instruction set support
+</p>
+<p style="text-indent:2em;">
+内存: 4 GB RAM
+</p>
+<p style="text-indent:2em;">
+显卡: Graphics card with DX10 (shader model 4.0) capabilities.
+</p>
+<p style="text-indent:2em;">
+DirectX版本: 10
+</p>
+<p style="text-indent:2em;">
+存储空间:需要4 GB可用空间
+</p>          
+</div>
+            
