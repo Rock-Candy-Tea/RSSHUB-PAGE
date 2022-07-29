@@ -1,0 +1,20 @@
+
+---
+title: '首批沪市公司GDR登陆瑞士市场 上交所表态_继续落实资本市场高水平对外开放_'
+categories: 
+ - 金融
+ - 证券时报网
+ - 要闻
+headimg: 'https://picsum.photos/400/300?random=8437'
+author: 证券时报网
+comments: false
+date: Fri, 29 Jul 2022 10:38:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8437'
+---
+
+<div>   
+<p style="text-align: left;">7月28日，中国证监会副主席方星海与瑞士财政部国务秘书斯托菲尔共同宣布中瑞证券市场互联互通存托凭证业务正式开通并致辞。中国驻瑞士大使王世廷出席开通仪式并致辞，上海证券交易所总经理蔡建春、深圳证券交易所总经理沙雁和瑞士SIX集团交易所负责人托马斯·西伊伯分别发言，国家外汇管理局资本项目管理司副司长王国建、中国证券登记结算有限责任公司总经理孔庆文出席仪式。</p><p style="text-align: left;">随着中瑞证券市场互联互通存托凭证业务的正式开通，沪市上市公司<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600499" code="600499">科达制造</a>股份有限公司（600499.SH，以下简称<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600499" code="600499">科达制造</a>）、宁波<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600884" code="600884">杉杉股份</a>有限公司（600884.SH，以下简称<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600884" code="600884">杉杉股份</a>）在瑞士证券交易所成功发行并上市全球存托凭证（GDR）。这是互联互通存托凭证业务范围拓展至瑞士市场后，首批登陆瑞交所的沪市上市公司。其中，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600499" code="600499">科达制造</a>GDR发行价格为每份GDR 14.43美元，募集资金总额1.73亿美元；<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600884" code="600884">杉杉股份</a>GDR发行价格为每份GDR 20.64美元，募集资金总额3.19亿美元。相关募集资金将用于公司海外业务的拓展。</p><p style="text-align: left;"><strong>有利于扩展境外业务并丰富股东结构</strong></p><p style="text-align: left;">自2019年沪伦通业务正式落地以来，上交所一直和市场保持沟通，听取他们的意见和建议，开展业务机制的持续优化工作。今年3月，在中国证监会的统筹部署下，上交所正式发布存托凭证互联互通规则。新规发布后，上交所也收到了积极的市场反馈。瑞士市场首批GDR成功发行，这不仅标志着中瑞证券市场互联互通项目的顺利通航，更为国内资本市场与瑞士资本市场深化合作开启了全新篇章。</p><p style="text-align: left;">截至目前，已经有数家公司依托互联互通存托凭证业务在海外市场成功发行融资。</p><p style="text-align: left;">对于公司而言，发行GDR首先可以为中国公司扩展境外业务，走向国际市场。GDR发行人在境外市场进行融资，募集资金快速、使用便捷。相关募集资金可为公司扩大海外市场业务规模、开展跨境并购等提供支持。</p><p style="text-align: left;">其次，可以提高公司品牌的国际知名度。伦敦、苏黎士和法兰克福均是欧洲知名金融中心，要素市场完备、投资者多元化程度高，通过互联互通业务在对方交易所上市，能够帮助公司获得更多国际投资者的关注，提升公司海外影响力。前期，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS600900" code="600900">长江电力</a>，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601615" code="601615">明阳智能</a>等公司就获得了伦交所绿色经济标识，对公司在海外清洁能源的业务发展提供了很多帮助。</p><p style="text-align: left;">再次，可以丰富股东结构，提升公司治理水平。公司通过发行GDR的方式在海外市场直接上市，直接面向更多地国际投资者，其中不乏很多专业机构投资者，例如，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS601601" code="601601">中国太保</a>通过发行GDR引入了瑞士再保险作为战略投资者，进一步丰富了自身的投资者结构。</p><p style="text-align: left;">此外，GDR还能成为公司对海外员工进行股权激励的有效途径，有助于帮助公司进一步吸引国际化人才助力全球化发展。</p><p style="text-align: left;"><strong>上交所与瑞士市场建立合作机制</strong></p><p style="text-align: left;">相比于其他的境外上市机制，发行GDR具备以下三方面的优势。一是GDR的机制性安排可以有效降低发行人成本。在双方监管机构跨境监管合作的框架下，GDR提供了许多便利化安排。比如，会计和审计方面，英国、瑞士、德国均认可使用中国准则；信息披露方面，上述市场也要求公司按现有A股的安排，同步披露即可。这些机制性的安排可以有效减轻境内发行人的负担，降低境内发行人发行上市GDR的时间成本和合规成本。</p><p style="text-align: left;">二是GDR业务由多方专业机构各司其责，可以降低境内发行人适应难度。例如，对于境内发行人来说，其GDR签发、利润分配、股东大会等需要境外投资者参与的事项，可都由专业、成熟的存托人参与履行职责，可以大幅降低境内发行人适应境外市场、管理境外投资者的难度。</p><p style="text-align: left;">三是在交易机制上，GDR和境内的A股可以跨境转换。那么对于投资者而言，通过跨境转换，可以动态实现双方市场的互联互通；对于发行人来说，也可以提高其发行定价效率。</p><p style="text-align: left;">瑞士作为世界领先的国际金融中心，具有完备的市场制度和多元化的投资者。依托互联互通项目，上交所与瑞士市场建立合作机制，双方团队经验共享、紧密交流，将在跨境产品、优势资源互换等方面探索合作机会。相信通过与瑞交所更紧密地交流互通，将为上交所加快建设世界一流交易所、支持上海国际金融中心建设增添助力。</p><p style="text-align: left;">未来，上交所也将继续落实资本市场高水平对外开放的任务部署，在持续做好跨境上市服务的同时，积极沟通境外优质上市公司，争取早日实现中国存托凭证（CDR）业务突破。</p>
+
+                  
+</div>
+            

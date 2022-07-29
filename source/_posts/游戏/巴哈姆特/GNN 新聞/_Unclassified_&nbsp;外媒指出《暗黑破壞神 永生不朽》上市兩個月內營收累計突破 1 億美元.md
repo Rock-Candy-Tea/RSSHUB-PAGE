@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?v=1659063642597'
 author: 巴哈姆特
 comments: false
-date: 2022-07-29 03:18:16
+date: 2022-07-29 04:40:49
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?v=1659063642597'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 35.53%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?v=1659063642597" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 35.53%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?v=1659063642597" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/70e02b72a93de3935952389f1f1gu8b5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 66.28%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG?v=1659062569882" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG 2x" style="max-width: unset;" title="圖片來源：Sensor Tower" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.28%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG?v=1659062569882" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/7a2f920d8a13fde1bc5ac13ee31hiyq5.JPG 2x" style="max-width: unset;" title="圖片來源：Sensor Tower" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 圖片來源：Sensor Tower</figure>
 </li>
