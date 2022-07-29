@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5466'
+headimg: 'https://pic2.zhimg.com/v2-f0620f176c7d2fffc2c9b8e3de72ce6b.jpg'
 author: 知乎
 comments: false
-date: Fri, 29 Jul 2022 01:57:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5466'
+date: Fri, 29 Jul 2022 03:13:02 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-f0620f176c7d2fffc2c9b8e3de72ce6b.jpg'
 ---
 
 <div>   
-中国网的回答<br><br><p data-pid="H9ockYuz">据港媒，MIRROR香港红馆演唱会发生严重事故，两名舞者被坠落的电视屏幕砸中，两人立即送院，一人颈部受伤情况严重，另一人头部受伤情况稳定，两人都一度送入ICU急救。凌晨，公司代表鞠躬致歉并透露，伤者阿峯为轻伤，另一位伤者阿Mo虽然清醒但仍留在ICU。此外，公司发布公告道歉并宣布MIRROR后续演唱会取消。</p><p data-pid="iaJPEQdy">据港媒报道，约22时30分，两名歌手合唱时与大批舞蹈员走到小舞台，此时台中央上方的电子屏幕突然跌落，砸中舞蹈演员李启言和张梓峯。有现场观众称，当时其他人尝试搬走电子屏幕，但没有成功。<br></p><p data-pid="e2bkqHg6">28日晚，香港特首李家超表示：“我对事故感到震惊。我向伤者致以慰问，希望他们早日康复。我已联络文化体育及旅游局局长，指示康乐及文化事务署联同相关部门全面调查事件，并检视同类表演活动的安全要求，以保障表演者、工作人员及公众安全。”</p><p data-pid="5JwO4ZZM">特区政府文体旅局局长杨润雄表示非常关注事件，并已要求康文署成立一个由助理署长统筹的小组，联同劳工处及有关人士调查意外成因以及做跟进工作。他对意外伤者表示慰问，希望他们能早日康复。由于该起意外，特区政府已指示演唱会暂停举行，直至舞台结构证实安全。</p><p data-pid="5i_3TOC3">据悉，上述男团25日起连续四天在红馆举办演唱会，第一天和第二天都曾发生过意外。康文署、劳工处27日曾就近日发生的舞台事件联络演唱会主办机构，并要求其检视情况并进行改善。</p><p></p><p></p>  
+KWOK的回答<br><br><p data-pid="Ft0Na9mt">香港离谱！！而且查阅资料，我国安全管理的相关文件当中，也并没有提及到制定演出场所安全管理体系的相关内容。</p><p data-pid="ZUJEJX0M">相关法规明确了所有行业安全体系的方法，却唯独没有针对演出制作行业的相关规定，也没有说明在黑暗处和高空作业时，应采取的安全措施，以及如何防止物体坠落和人员坠落的措施。这种情况下，哪怕香港有类似的规定，也基本上形同虚设。不管是大陆还是香港这方面监管都很弱（相比于游戏监管）</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1536238693228048384" target="_blank" data-video-id data-video-playable data-name="可怜的孩子" data-poster="https://pic2.zhimg.com/v2-f0620f176c7d2fffc2c9b8e3de72ce6b.jpg" data-lens-id="1536238693228048384">              <img class="thumbnail" src="https://pic2.zhimg.com/v2-f0620f176c7d2fffc2c9b8e3de72ce6b.jpg" referrerpolicy="no-referrer">              <span class="content">                <span class="title">可怜的孩子<span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1536238693228048384</span>              </span>            </span></span></span></a>            <p data-pid="yJYG5FRK">而很多所谓的剧场、演出场地根本没有配套的安全措施，演出活动日渐复杂，但协作机制却没有跟上节奏，安全管理体系不完善，相关的人员并没有形成一定的安全意识，再加上很多场地都年久失修，这些是致使安全事故频发的主要原因，</p><p data-pid="VMNHGyKY">本身这些高密度的装置，灯光设施都是为了美观简化了承重。而且各种设备很复杂，稍有疏忽就会出事故。</p><p data-pid="W7lvyWgE">随便百度一下出了多少演出事故，要么摔下来要么不小心砸到，黄家驹黄建福也都殒命于舞台……林子祥当场摔昏迷、潘玮柏缝十几针、陈奕迅下体受伤、蔡依林、王菲舞台坍塌，多人死亡受伤等等……还有很多没有大碍主办方就私了了，但安全隐患这么多，意外如此频发，教训如此之多，还不该多督查自查吗？</p>  
 </div>
             
