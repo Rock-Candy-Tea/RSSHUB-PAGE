@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/05/fb778b87cbd5e00df9c8580da91hj355.JPG?v=1659069487604'
 author: 巴哈姆特
 comments: false
-date: 2022-07-29 04:40:49
+date: 2022-07-29 05:22:45
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/fb778b87cbd5e00df9c8580da91hj355.JPG?v=1659069487604'
 ---
 
@@ -52,7 +52,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/fb778b87cbd5e00df9c8580da91hj355.
 <div>
  </div>
 <div>
-　　Coffee Stain North 創意總監 Santiago Ferrero 說：「大家都叫我們不要白費氣力，但我們還是要「羊羊」得意地公開《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B1%B1%E7%BE%8A+3" target="_blank">模擬山羊 3</a>》的發售日期！我不想說，我們為著在 11 月把 Pilgor 的離奇帶回玩家身旁而感到「自豪」，但這正正就是我們將會做的事。屆時你將足不出戶，你應該會在遊玩最新的山羊模擬遊戲。」</div>
+　　Coffee Stain North 創意總監 Santiago Ferrero 說：「大家都叫我們不要白費力氣，但我們還是要「羊羊」得意地公開《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B1%B1%E7%BE%8A+3" target="_blank">模擬山羊 3</a>》的發售日期！我不想說，我們為著在 11 月把 Pilgor 的離奇帶回玩家身旁而感到「自豪」，但這正正就是我們將會做的事。屆時你將足不出戶，你應該會在遊玩最新的山羊模擬遊戲。」</div>
 <div>
  </div>
 <div>
