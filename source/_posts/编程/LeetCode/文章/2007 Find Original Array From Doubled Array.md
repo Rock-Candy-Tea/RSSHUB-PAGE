@@ -5,11 +5,11 @@ categories:
  - 编程
  - LeetCode
  - 文章
-headimg: 'https://picsum.photos/400/300?random=955'
+headimg: 'https://picsum.photos/400/300?random=2813'
 author: LeetCode
 comments: false
 date: Thu, 28 Jul 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=955'
+thumbnail: 'https://picsum.photos/400/300?random=2813'
 ---
 
 <div>   

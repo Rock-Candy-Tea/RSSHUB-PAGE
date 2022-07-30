@@ -1,0 +1,19 @@
+
+---
+title: '小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/47725219-a33e-40e2-b924-1dcadc421744.jpg@s_2,w_820,h_546'
+author: IT 之家
+comments: false
+date: Sat, 30 Jul 2022 04:31:36 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/47725219-a33e-40e2-b924-1dcadc421744.jpg@s_2,w_820,h_546'
+---
+
+<div>   
+<p data-vmark="3bfe"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a>7 月 30 日消息，小米 12S Ultra 于今年 7 月 4 日正式发布，其中一英寸大底索尼 IMX989 传感器再加上徕卡加持成了此次新机的主打宣传卖点，也有人好奇这个一英寸传感器是不是真正的一英寸，所以近日“杀手哥”JerryRigEverything 就对这个一英寸大底处理器进行了拆解测量。</p><p data-vmark="a02c"><img src="https://img.ithome.com/newsuploadfiles/2022/7/47725219-a33e-40e2-b924-1dcadc421744.jpg@s_2,w_820,h_546" w="1200" h="799" alt="Xiaomi 12S Ultra's main camera sensor gets measured on video" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" srcset="https://img.ithome.com/newsuploadfiles/2022/7/47725219-a33e-40e2-b924-1dcadc421744.jpg 2x" width="1200" height="546" referrerpolicy="no-referrer"></p><p data-vmark="e341" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/6bb056e0-75df-46fe-bf25-0893cbb2208a.png" w="1314" h="898" alt="图片 1" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" width="1314" height="560" referrerpolicy="no-referrer"></p><p data-vmark="9ac1" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/433d1238-c38d-4414-befc-e7ae0cbdcf17.png" w="1440" h="760" alt="图片 9" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" width="1440" height="433" referrerpolicy="no-referrer"></p><p data-vmark="400d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/11d09753-921c-4dd1-8ac3-bdb08f832bb1.png" w="1440" h="764" alt="图片 3" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" width="1440" height="435" referrerpolicy="no-referrer"></p><p data-vmark="633a">JerryRigEverything 使用两张一英寸的纸片对这个一英寸传感器进行了对比，发现传感器的尺寸是差了一些，之后用数显游标卡尺发现，<span class="accentTextColor">长大约 0.54 英寸（13.7mm），对角线大概 0.66 英寸（16.7mm）</span>，这与宣传的一英寸相差甚远。</p><p data-vmark="6a86">但实际上这个一英寸是与我们理解的有些不同，一英寸转化为公制单位应该是 25.4mm，但一英寸的传感器无论是长、宽、高还是对角线，都不是 25.4mm，市面上的一英寸底的规格为 13.2×8.8mm，对角线长度 15.9mm，也就是 0.63 英寸。</p><p data-vmark="e867">也不能说所有的相机厂商和手机厂商都是在虚假宣传，之所以有这种情况，原因是因为在上世纪五、六十年代，那时候电子成像技术刚刚出现，感光电子元件都是用真空管制作的，现在数码相机上的 CCD 和 CMOS 传感器在那时候肯定是不存在的，而真空管在表面有一个玻璃罩子，<span class="accentTextColor">在计算外径的时候要把玻璃罩子也算进去</span>，但这个玻璃罩子本身不能成像，<span class="accentTextColor">所以做出来的感光电子元件的实际成像尺寸要小于一英寸的真空管外直径</span>，实际成像区域对角线只有 16mm 左右，所以这个就成了一种约定或者说是标准，现在数码相机的 1 英寸传感器也是按照了这种说法，一英寸 = 16mm，这是一个长期以来一直存在的问题，而且任何一家生产传感器的公司都没有去改变它，所以我们要习惯：有的时候一英寸不等于真正的一英寸。</p><p data-vmark="2b7b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/c04cda85-6cd0-470b-9c0d-b0a9f3d80aa8.png" w="1440" h="886" alt="图片 7" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" width="1440" height="505" referrerpolicy="no-referrer"></p><p data-vmark="fa74" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/f65f6419-603e-466d-8401-047f0d3d4dcb.png" w="1440" h="1076" alt="图片 6" title="小米 12S Ultra 摄像头拆解测量：一英寸传感器到底有多大" width="1440" height="613" referrerpolicy="no-referrer"></p><p data-vmark="8fbd">IT之家了解到，小米不是首先应用一英寸传感器的手机厂商，在他前面还有夏普 Aquos R6、索尼 Xperia PRO-I，这两款都是 2021 发布的产品，夏普这款主摄的焦距为 35mm，等效换算下来只有 19mm，这个焦段更接近我们日常熟悉的超广角镜头（0.6-0.8 倍变焦），不符合我们日常的拍摄习惯 ，如果想要换算成变成常见的 24mm 焦距，就只能通过裁切传感器使用面积来实现 。而索尼一英寸也是裁切过的，真正使用的只有 1/1.33 英寸。</p><p data-vmark="52d3" style="text-align: center;"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?aid=898913512&page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p>
+          
+</div>
+            
