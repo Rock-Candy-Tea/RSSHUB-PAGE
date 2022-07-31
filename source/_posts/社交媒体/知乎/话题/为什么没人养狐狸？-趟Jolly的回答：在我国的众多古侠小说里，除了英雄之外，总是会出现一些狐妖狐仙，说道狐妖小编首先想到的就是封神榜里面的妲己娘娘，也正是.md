@@ -1,0 +1,18 @@
+
+---
+title: '为什么没人养狐狸？-趟Jolly的回答：在我国的众多古侠小说里，除了英雄之外，总是会出现一些狐妖狐仙，说道狐妖小编首先想到的就是封神榜里面的妲己娘娘，也正是...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic4.zhimg.com/v2-3863d76101e0e852a94e0634e6991a67_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sun, 31 Jul 2022 04:21:34 GMT
+thumbnail: 'https://pic4.zhimg.com/v2-3863d76101e0e852a94e0634e6991a67_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>为什么没人养狐狸？</strong><br>趟Jolly的回答<br><p data-pid="zcfuVggk">在我国的众多古侠小说里，除了英雄之外，总是会出现一些狐妖狐仙，说道狐妖小编首先想到的就是封神榜里面的妲己娘娘，也正是由于小说书籍，电视电影里面经常出现狐狸，且给人有种不好的印象，导致大家多狐狸始终有隔阂。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-3863d76101e0e852a94e0634e6991a67_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="818" data-rawheight="543" data-default-watermark-src="https://pic1.zhimg.com/50/v2-469bb02f5176f8b42fec8b815ee560e2_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-3863d76101e0e852a94e0634e6991a67_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="4bSC6-ut">到了现代，虽说养宠物的人越来越多，但很多人有疑问，为什么宠物店没有狐狸，难道狐狸不算宠物吗?养狐狸也算还原了古侠小说的梦。在我们的印象里狐狸具备着骚气和狡猾的特质，还有狐狸精一说，说明狐狸这种动物也不是吃素的，那狐狸到底能不能作为宠物来给我们喂养呢?</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-070eedafa96d676b45b5fcf961db8486_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="818" data-rawheight="543" data-default-watermark-src="https://pic1.zhimg.com/50/v2-56883cd0b2cd3aa476bd5460190e89f1_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-070eedafa96d676b45b5fcf961db8486_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="_NgwWilP">狐狸有很多种类，比如北极狐、赤狐，它们都有着很美丽的毛皮，所以现代很多女生的貂皮大衣都是由狐狸毛做成的。狐狸虽然看似美丽，但它们内心却比较邪恶。狐狸在它小时候是比较狡猾的，如果有人要养狐狸的话，最好从小开始养，不然长大后就成老狐狸了，这时主人就斗不过它了。令我们惊讶的是狐狸居然咬人，所以领养之前必须经过特定的训练。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-cd4b066eba8c834dc17ff3023fb69e1f_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="818" data-rawheight="543" data-default-watermark-src="https://pic1.zhimg.com/50/v2-8063d19579efeb9e9d99cce95d056541_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-cd4b066eba8c834dc17ff3023fb69e1f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="K9otOct0">那为什么那么多人不养狐狸呢?狐狸排泄没有宠物狗那么乖，就算主人再三交代不能乱拉，它还是随着自己的性子来，如果是拉在地板上还能擦干净，要是拉在沙发、床上或衣服上就难办了。上面说过狐狸是有骚气的，它们的排泄物也比一般宠物的排泄物要骚。如果决定要养狐狸的话，还要找个比较通风的房间来养它。我们接触狐狸后自己身上也会有一股骚气，如果接受不了这个味道也可以在领养之前把狐狸的臭腺切掉。</p><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-9670d8031901e255f072add433af4454_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="818" data-rawheight="539" data-default-watermark-src="https://pica.zhimg.com/50/v2-34cd2e1f319732ff72e6f02628fa19ef_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-9670d8031901e255f072add433af4454_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><p data-pid="Of7v2UoW">除了狐狸自身的问题之外，它们的性格也是比较差的，不像宠物猫、宠物狗还能偶尔和主人撒撒娇，狐狸可能还会冲着主人发脾气。这些都是人们比较排斥狐狸的原因。因为狐狸都是生活在原始环境下，如果没有考虑清楚到底要不要养狐狸，就不要轻易把狐狸带回家，这也是对它的不负责任。</p>  
+</div>
+            
