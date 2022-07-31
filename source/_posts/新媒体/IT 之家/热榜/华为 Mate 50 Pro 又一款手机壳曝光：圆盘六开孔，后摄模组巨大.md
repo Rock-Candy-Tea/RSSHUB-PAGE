@@ -1,0 +1,19 @@
+
+---
+title: '华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/f17c5cb2-8f55-47eb-abc1-e82ce42ff169.jpeg'
+author: IT 之家
+comments: false
+date: Sat, 30 Jul 2022 15:09:53 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/f17c5cb2-8f55-47eb-abc1-e82ce42ff169.jpeg'
+---
+
+<div>   
+<p data-vmark="fcc9"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 30 日消息，此前有博主爆料了<a href="https://www.ithome.com/0/627/512.htm" target="_blank">华为 Mate 50/50 Pro 系列的手机壳</a>，显示该系列配备圆盘后摄模组，四个圆形开孔，还有两个或用于闪光灯和传感器的小孔。</p><p data-vmark="ad65" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/f17c5cb2-8f55-47eb-abc1-e82ce42ff169.jpeg" w="690" h="629" alt="图片 1" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="690" height="629" referrerpolicy="no-referrer"></p><p data-vmark="3c7f">今日，博主 @鹏鹏君驾到 晒出了华为 Mate 50 Pro 的又一款手机壳，可以更清晰地看到后置镜头的开孔以及手机侧边过渡，与上方爆料的基本一致。</p><p data-vmark="342a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/69259555-1820-4c55-a70c-741bb3fd4c1b.jpg@s_2,w_820,h_754" w="1175" h="1080" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" srcset="https://img.ithome.com/newsuploadfiles/2022/7/69259555-1820-4c55-a70c-741bb3fd4c1b.jpg 2x" width="1175" height="754" referrerpolicy="no-referrer"></p><p data-vmark="4b4a" style="text-align: justify;">相比华为 Mate 50，手机壳图片显示华为 Mate 50 Pro 的机身尺寸更大，比例更细长，<span class="accentTextColor">并且整个后置模组也是 Mate 50 Pro 更为巨大</span>，二者在影像方面应该有着不小的差距。</p><p data-vmark="f91a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/3d22c405-1929-44d5-8004-a2d30e0935f2.jpeg" w="690" h="628" alt="图片 3" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="690" height="628" referrerpolicy="no-referrer"></p><p data-vmark="68b6" style="text-align: justify;">IT之家了解到，此前有爆料称，华为 Mate 50 系列将在 9 月 5 日-9 日当周发布，直面苹果 iPhone 14 系列手机（预计将在 9 月 13 日发布），会在影像方面带来新东西 (支持华为影像 XMAGE)，同时搭载鸿蒙 HarmonyOS 3.0 系统，整体配置要强于 P50 系列，但依然是 4G 机型。<span class="accentTextColor">其中 Mate 50 Pro 采用双曲面的刘海屏，后置星环相机模组，前置支持人脸识别解锁相机，功能更加丰富。</span></p><p data-vmark="19d4">▼ 基于爆料制作的概念图，不代表真机效果</p><p data-vmark="dfa7" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/feaee02f-5a6e-48e0-bed2-0f7b75ae4097.png" w="928" h="676" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="928" height="597" referrerpolicy="no-referrer"></p><p data-vmark="3192" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/3bae3b88-256f-40ef-80a3-c9dc4ce9e268.jpg@s_2,w_820,h_741" w="1200" h="1085" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="1200" height="741" referrerpolicy="no-referrer"></p><p data-vmark="4351" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/7ba15af4-ec2c-404a-a649-d10866ce9263.jpg" w="546" h="1024" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="546" height="1024" referrerpolicy="no-referrer"></p><p data-vmark="fb55" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/25aa47ea-5fac-4998-81c7-08879820df22.jpg@s_2,w_820,h_544" w="1440" h="956" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="1440" height="544" referrerpolicy="no-referrer"></p><p data-vmark="3828" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/58d095ea-9a37-4169-b5d9-e1f5844e32b2.jpg@s_2,w_820,h_478" w="1440" h="840" title="华为 Mate 50 Pro 又一款手机壳曝光：圆盘六开孔，后摄模组巨大" width="1440" height="478" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

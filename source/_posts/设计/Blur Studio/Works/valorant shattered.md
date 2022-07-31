@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorant-shattered/1323438567-1657558455/valorant_shattered_03.jpg'
 author: Blur Studio
 comments: false
-date: 2022-07-31 04:25:51
+date: 2022-07-31 05:12:26
 thumbnail: 'https://cors.zfour.workers.dev/?http://blur.com/media/pages/projects/valorant-shattered/1323438567-1657558455/valorant_shattered_03.jpg'
 ---
 
