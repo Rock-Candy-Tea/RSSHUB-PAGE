@@ -16,7 +16,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220731/s_9d5157b59d174052a2116d51e4
 <p>本月早些时候，由前一加联合创始人裴宇创立的Nothing推出了首款智能手机：Nothing Phone 1，这款手机凭借独特的外观设计，一经发布就成为了“爆款”。</p>
 <p>近日，有报道称Nothing正在研发Nothing Phone 1的Lite版，<strong>该版本会采用与Nothing Phone 1相同的处理器、屏幕与摄影模组，并搭载基于Android 12开发的Nothing OS系统。</strong></p>
 <p>但这款新机会采用普通的玻璃背板，<span style="color:#ff0000;"><strong>这意味着Nothing Phone 1堪称“灵魂”的LED灯带设计，在Lite版本中将会被移除。</strong></span></p>
-<p>同时，这款新机还会一并取消无线充电功能，但将电池从5400mAh提升到了5000mAh。</p>
+<p>同时，这款新机还会一并取消无线充电功能，但将电池从4500mAh提升到了5000mAh。</p>
 <p>在去掉了LED灯带和无线充电后，该版本的售价有望获得一定的下降，<strong>但失去了主要卖点后，消费者是否还会买账就是另一个问题了。</strong></p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220731/9d5157b59d174052a2116d51e46f890b.png" target="_blank"><img alt="背部灯带“灵魂”没了：Nothing Phone 1将推出Lite版" h="478" src="https://img1.mydrivers.com/img/20220731/s_9d5157b59d174052a2116d51e46f890b.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
