@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220730/1659188605_9959
 据IGN东南亚报道，印尼政府已经禁了Steam，PayPal，战网，Epic和其他站点，此举将导致数以千万的玩家无法访问他们的游戏库。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220730/1659188605_995933.png" alt="Steam、Epic、战网、Paypal等在印尼被禁" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220730/1659188605_995933.png" alt="Steam、Epic、战网、Paypal等在印尼被禁" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在此之前，印尼刚通过了一项新法律，要求在线平台和服务机构申请许可证才能继续在该国运营。没有成功申请的本土和国外科技公司都面临着在线服务被封锁的风险。
@@ -35,7 +35,13 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220730/1659188605_9959
 由于大量玩家无法访问他们的游戏库，在社交媒体上，大量印尼玩家建议通过更改DNS或使用科学手段来规避这个问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220730/1659187351_862545.jpg" alt="Steam、Epic、战网、Paypal等在印尼被禁" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220730/1659187351_862545.jpg" alt="Steam、Epic、战网、Paypal等在印尼被禁" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220731/1659228493_853140.jpg" alt="Steam、Epic、战网、Paypal等在印尼被禁" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-align:center;">
+腾讯的FPS活了下来
 </p>          
 </div>
             

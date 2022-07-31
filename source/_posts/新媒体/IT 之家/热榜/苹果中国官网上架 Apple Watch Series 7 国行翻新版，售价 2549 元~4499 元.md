@@ -1,0 +1,20 @@
+
+---
+title: '苹果中国官网上架 Apple Watch Series 7 国行翻新版，售价 2549 元~4499 元'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/7/f6711e8e-d021-482a-8572-318155c50ba8.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE5NS5wbmc=,g_7,x_19,y_19,a_0,t_100'
+author: IT 之家
+comments: false
+date: Sat, 30 Jul 2022 07:34:41 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/7/f6711e8e-d021-482a-8572-318155c50ba8.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE5NS5wbmc=,g_7,x_19,y_19,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1062317" rel="nofollow">想个好名字</a> 的线索投递！</div>
+            <p data-vmark="51ab"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 7 月 30 日消息，据网友反馈，近期苹果认证翻新商店已经上架了 Apple Watch Series 7 国行翻新版，售价 2549 元~4499 元，一般享受 15% 的折扣优惠。</p><p data-vmark="9e2c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/f6711e8e-d021-482a-8572-318155c50ba8.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE5NS5wbmc=,g_7,x_19,y_19,a_0,t_100" w="1265" h="882" title="苹果中国官网上架 Apple Watch Series 7 国行翻新版，售价 2549 元~4499 元" width="1265" height="572" referrerpolicy="no-referrer"></p><p data-vmark="f53a"><span class="accentTextColor">苹果 Apple Watch Series 7 手表最初发布于 2021 年 10 月，配备 64 位双核处理器的 S7 芯片，容量 32GB，陶瓷和蓝宝石玻璃表背。</span>手表支持电极式心率传感器 (移动心电图房颤提示软件)，采用第三代光学心率传感器，加速感应器：量程最高可达 32 g-force，支持摔倒检测；陀螺仪，环境光传感器，支持 50 米防水，搭载 LTPO OLED 全天候视网膜显示屏 (1000 尼特亮度)，支持 802.11b / g / n 2.4GHz 和 5GHz，蓝牙 5.0，内置锂离子充电电池 (续航最长可达 18 小时)。</p><p data-vmark="0ded" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/a5723b47-7ed6-4d09-8e9f-3979ab0012f2.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_7,x_22,y_22,a_0,t_100" w="1440" h="2269" title="苹果中国官网上架 Apple Watch Series 7 国行翻新版，售价 2549 元~4499 元" width="1440" height="1292" referrerpolicy="no-referrer"></p><ul class=" list-paddingleft-2"><li><p data-vmark="f0d7">翻新 Apple Watch Series 7 (GPS)；41 毫米星光色铝金属表壳；星光色运动型表带 售价 RMB 2549（原价 RMB 2999）</p></li><li><p data-vmark="d41c">翻新 Apple Watch Series 7 (GPS)；45 毫米星光色铝金属表壳；星光色运动型表带售价 RMB 2719（原价 RMB 3199）</p></li><li><p data-vmark="caf7">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；41 毫米蓝色铝金属表壳；深邃蓝色运动型表带 售价 RMB 3229（原价 RMB 3799）</p></li><li><p data-vmark="2332">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；41 毫米午夜色铝金属表壳；午夜色运动型表带 售价 RMB 3229</p></li><li><p data-vmark="90f7">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；41 毫米星光色铝金属表壳；星光色运动型表带 售价 RMB 3229</p></li><li><p data-vmark="efb3">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；45 毫米午夜色铝金属表壳；午夜色运动型表带 售价 RMB 3399（原价 RMB 3999）</p></li><li><p data-vmark="a455">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；45 毫米星光色铝金属表壳；星光色运动型表带 售价 RMB 3399</p></li><li><p data-vmark="5957">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；41 毫米银色不锈钢表壳；星光色运动型表带 售价 RMB 4249（原价 RMB 4999）</p></li><li><p data-vmark="8342">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；41 毫米石墨色不锈钢表壳；深邃蓝色运动型表带 售价 RMB 4249</p></li><li><p data-vmark="2bda">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；45 毫米金色不锈钢表壳；绛樱桃色运动型表带 售价 RMB 4499（原价 RMB 5299）</p></li><li><p data-vmark="ffbe">翻新 Apple Watch Series 7 (GPS + 蜂窝网络)；45 毫米石墨色不锈钢表壳；深邃蓝色运动型表带 售价 RMB 4499</p></li></ul><p data-vmark="00d1">苹果表示，Apple 认证的翻新产品销售前经过严格的翻新流程处理，享受 Apple 提供的一年有限保修服务，享受 Apple 提供的 14 日退货政策。可另外购买 AppleCare 产品。镌刻及礼品包装服务不适用于翻新产品。限量供应。</p><p data-vmark="7569">包装内容包括：翻新 Apple Watch Series 7、磁力充电器转 USB‑C 连接线 (1 米)</p><p data-vmark="801c">Apple Watch Series 7 需要使用 iPhone 6s 或后续机型，并安装 iOS 15 或更新系统。功能可能会有所变化。某些功能、应用软件和服务仅适用于部分地区或语言。</p><p data-vmark="b3d4">点击访问：<a href="https://apple.pvxt.net/c/1255290/435400/7639?u=https://www.apple.com/cn/" target="_blank">苹果中国官方在线商店</a></p>
+          
+</div>
+            
