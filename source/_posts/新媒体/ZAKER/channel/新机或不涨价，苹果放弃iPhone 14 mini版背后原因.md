@@ -1,0 +1,18 @@
+
+---
+title: '新机或不涨价，苹果放弃iPhone 14 mini版背后原因'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2c_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 01 Aug 2022 00:10:58 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2c_1024.jpg'
+---
+
+<div>   
+<p>之前有说过 iPhone 14 系列或许会涨价，iPhone 14 Pro 和 iPhone 14 Pro Max 售价分别为 1099 美元、1199 美元，这比去年的 iPhone 13 Pro 系列都贵上了 100 美元，顶配版的 iPhone 14 Pro Max 或将卖到 1699 美元，国行版可能会更贵一些，这可能会使 iPhone 14 Pro Max 成为历史上最贵的 iPhone。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2c_1024.jpg" data-height="233" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2c_1024.jpg" referrerpolicy="no-referrer"></div></div>不过根据 Mark Gurman 近期的透露，苹果方面打算叫停对 iPhone 14 涨价 100 美元的原计划，目的可能是确保销量方面的万无一失。不过因为 mini 机型被砍，iPhone 14 系列的平均售价仍会整体有所提高，按照正常预期，账面营收数据绝不会难看。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2d_1024.jpg" data-height="700" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2d_1024.jpg" referrerpolicy="no-referrer"></div></div>说到 mini 机型被砍，之前已经确定 iPhone 14 系列将会推出 iPhone 14、iPhone 14 Max、iPhone 14 Pro 以及 iPhone 14 Pro Max 共 4 款机型，但是直到现在也没有出现 mini 版的信息，不管是行业内外都议论纷纷。最近就有供应链爆料称，iPhone 14 mini 早就已经被苹果 " 放弃 " 了。<p></p><p>至于 " 放弃 " 的原因，有知情人士称是因为 mini 版的销量不太乐观，有数据显示 iPhone 12 mini 在上市两个月后其销量仅占 iPhone 总销量的 6%，之后苹果还是不信邪再推 iPhone 13 mini 版，结果惨过上一代，销售额仅占 3%。苹果如今及时止损取消 mini 版也算是正确的做法。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202208/62e779b58e9f0954ba11cf2e_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62e779b58e9f0954ba11cf2e_1024.jpg" referrerpolicy="no-referrer"></div></div>在大屏手机盛行的时代，小屏手机面临的考验十分艰难，即使是苹果的旗舰也不例外。不可否认的是，虽然苹果的小屏旗舰一直拥有着用户，但也仅是小部分。对比小屏手机的优势，其劣势显然是更大的。一方面，受限于小屏手机的体积，其电池的含量并不会太大，并且 iPhone 的充电功率较小。在 " 电量焦虑 " 的今天，即使屏幕再小，也基本无法满足用户一天的重度使用。另一方面，小屏手机的多重体验不佳，例如游戏体验，游戏操作不便，同时基本没有双卡双待。与苹果的其他版本手机相比，并没有多少优势，众多用户在同系列选择中，自然会将 mini 版本排除在外。再加上其性价比太低，价格并没有比标准版便宜多少，用户宁愿去选择大屏且速度更快的旧型号。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2f_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e779b58e9f0954ba11cf2f_1024.jpg" referrerpolicy="no-referrer"></div></div>当然这也不会忽略了 " 小屏 " 市场需求，虽然取消 mini 版多少都有点遗憾，但是作为 iPhone 布局中端市场的次旗舰产品，iPhone SE 系列继承了 mini 版本的小屏，同时又具备 iPhone 系列的高性能，降低了普通大众使用上 iPhone 的门槛，是一款体验型的产品。如果哪一天，iPhone SE 系列被取消，那可能就是真正意义上小屏时代的结束了。<p></p><p>另外，根据目前的综合消息来看，秋季发布会大概会如期举行，但是多少受到一些大环境和供应链的影响，首批货源可能不足。不过作为一名果粉按照多年的经验来看，其实大家大可不必争着做第一批用户，再等两三个月去买，没必要当个大冤种多花一些钱，大家懂的都懂。已经到 8 月了，大家可以期待一下这次的新品发布会，除了 iPhone 14 系列之外，全新 Apple Watch  和  AirPods  都即将问世。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
