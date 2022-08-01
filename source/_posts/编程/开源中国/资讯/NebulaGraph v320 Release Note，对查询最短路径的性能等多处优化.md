@@ -8,7 +8,7 @@ categories:
 headimg: 'https://nebula-website-cn.oss-cn-hangzhou.aliyuncs.com/nebula-blog/3.2_%E7%94%BB%E6%9D%BF%201.0%20release%20notes.jpg'
 author: 开源中国
 comments: false
-date: Mon, 01 Aug 2022 08:50:00 GMT
+date: Mon, 01 Aug 2022 16:50:00 GMT
 thumbnail: 'https://nebula-website-cn.oss-cn-hangzhou.aliyuncs.com/nebula-blog/3.2_%E7%94%BB%E6%9D%BF%201.0%20release%20notes.jpg'
 ---
 
