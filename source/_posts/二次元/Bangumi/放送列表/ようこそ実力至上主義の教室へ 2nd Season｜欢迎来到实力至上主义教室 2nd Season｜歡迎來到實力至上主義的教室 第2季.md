@@ -8,11 +8,11 @@ categories:
 headimg: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/c8/8a/371546_Df9ri.jpg'
 author: Bangumi
 comments: false
-date: Sun, 31 Jul 2022 12:00:00 GMT
+date: Mon, 01 Aug 2022 12:00:00 GMT
 thumbnail: 'https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/c8/8a/371546_Df9ri.jpg'
 ---
 
 <div>   
-<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/c8/8a/371546_Df9ri.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/371546">番组计划</a></li><li><a href="https://acg.gamer.com.tw/acgDetail.php?s=122954">動畫瘋</a></li><li><a href="https://www.viu.com/ott/hk/zh-hk/vod/443581/">Viu</a></li></ul>  
+<img src="https://cors.zfour.workers.dev/?http://lain.bgm.tv/pic/cover/l/c8/8a/371546_Df9ri.jpg" referrerpolicy="no-referrer"><ul><li><a href="https://bangumi.tv/subject/371546">番组计划</a></li><li><a href="https://acg.gamer.com.tw/acgDetail.php?s=122954">動畫瘋</a></li><li><a href="https://www.viu.com/ott/hk/zh-hk/vod/443581/">Viu</a></li><li><a href="https://www.bilibili.com/bangumi/media/md28338550/">哔哩哔哩（港澳台）</a></li></ul>  
 </div>
             

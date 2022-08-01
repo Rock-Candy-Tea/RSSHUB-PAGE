@@ -78,7 +78,7 @@ There are 6 ways to get a sum of 7: 1+6, 2+5, 3+4, 4+3, 5+2, 6+1.
 <li>Return the value <code>ways</code> and also store it in the memoization table <code>memo</code> corresponding to the current state, which is defined by <code>diceIndex</code> and <code>currSum</code>.</li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/7bAyR3RJ/shared" frameborder="0" width="100%" height="500" name="7bAyR3RJ"></iframe>
+<iframe src="https://leetcode.com/playground/iL4pkHEU/shared" frameborder="0" width="100%" height="500" name="iL4pkHEU"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Here, $$N$$ is the number of dice, $$K$$ is the number of faces each dice have, and $$T$$ is the <code>target</code> value.</p>
 <ul>
@@ -104,7 +104,7 @@ There are 6 ways to get a sum of 7: 1+6, 2+5, 3+4, 4+3, 5+2, 6+1.
 <li><p>Return the value <code>memo[0][0]</code>.</p></li>
 </ol>
 <p><strong>Implementation</strong></p>
-<iframe src="https://leetcode.com/playground/TtpLddj8/shared" frameborder="0" width="100%" height="480" name="TtpLddj8"></iframe>
+<iframe src="https://leetcode.com/playground/8R9uJ32R/shared" frameborder="0" width="100%" height="480" name="8R9uJ32R"></iframe>
 <p><strong>Complexity Analysis</strong></p>
 <p>Here, $$N$$ is the number of dice, $$K$$ is the number of faces each dice have, and $$T$$ is the <code>target</code> value.</p>
 <ul>

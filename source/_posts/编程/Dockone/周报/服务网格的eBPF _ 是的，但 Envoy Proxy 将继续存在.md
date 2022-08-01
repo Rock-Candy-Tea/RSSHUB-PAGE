@@ -8,12 +8,12 @@ categories:
 headimg: 'https://www.solo.io/wp-content/uploads/2021/12/Img1-1.png'
 author: Dockone
 comments: false
-date: 2022-07-31 15:09:51
+date: 2022-08-01 01:00:14
 thumbnail: 'https://www.solo.io/wp-content/uploads/2021/12/Img1-1.png'
 ---
 
 <div>   
-<br><h1>服务网格的eBPF ? 是的，但 Envoy Proxy 将继续存在</h1><a href="http://solo.io/">Solo.io</a> 的目标是为<a href="https://www.solo.io/customers/">我们的客户</a>提供有关<a href="https://www.solo.io/products/gloo-mesh/">应用程序网络和服务连接</a>相关的解决方案。<a href="https://servicemeshconna21.sched.com/event/mH1h">早在10月</a>，我们就宣布了使用 eBPF 增强我们的企业服务网格产品(Gloo Mesh Enterprise)的计划，以优化网络、可监测性和安全性方面的功能。eBPF在服务网格中能发挥多大的作用呢？服务代理的角色如何变化？在这篇博客中，我们将深入探讨eBPF在服务网格数据平面的作用以及各种数据层架构之间的权衡。<br>
+<br><a href="http://solo.io/">Solo.io</a> 的目标是为<a href="https://www.solo.io/customers/">我们的客户</a>提供有关<a href="https://www.solo.io/products/gloo-mesh/">应用程序网络和服务连接</a>相关的解决方案。<a href="https://servicemeshconna21.sched.com/event/mH1h">早在10月</a>，我们就宣布了使用 eBPF 增强我们的企业服务网格产品(Gloo Mesh Enterprise)的计划，以优化网络、可监测性和安全性方面的功能。eBPF在服务网格中能发挥多大的作用呢？服务代理的角色如何变化？在这篇博客中，我们将深入探讨eBPF在服务网格数据平面的作用以及各种数据层架构之间的权衡。<br>
 <br><h3>告别服务代理？</h3>服务网格为服务提供复杂的应用网络行为，例如服务发现、流量路由、弹性（超时/重试/断路）、身份验证/授权、可监测性（日志记录/指标/跟踪）等。我们可以用 eBPF 将所有这些功能重写到内核中吗？<br>
 <br>简单回答：这将非常困难，可能不是正确的方法。eBPF 是一个事件处理模型，对它的运行方式有一些限制。你可以将 eBPF 模式视为内核的“功能即服务”。例如，在内核中安全执行之前，必须完全了解和验证 eBPF 执行路径。eBPF 程序不能有任意循环，其中的验证者不知道程序何时停止执行。简而言之，eBPF 是图灵不完整的。<br>
 <br>七层协议（如各种协议编码器、重试、数据头操作等）单独在 eBPF 中实现可能非常复杂，并且没有更好的内核原生支持。也许这种支持会有，但这可能需要数年时间，并且不会在旧版本上提供。在许多方面，eBPF 是 O(1) 复杂度的理想选择（例如检查数据包、操作一些数据位并在途中发送它）。实现像 HTTP/2 和 gRPC 这样的复杂协议可能是O(n)复杂度并且非常难以调试。那么这些7层功能可以驻留在哪里呢？<br>
@@ -46,7 +46,7 @@ thumbnail: 'https://www.solo.io/wp-content/uploads/2021/12/Img1-1.png'
 <br>由于uProxy仍与工作负载实例一起部署，因此该模型结合了隔离性和安全性的sidecar代理优势。<br>
 <br>从升级的角度来看，我们可以将L7代理无感的更新到应用程序，但是我们现在有更多的移动组件。我们还需要协调uProxy的升级，它与我们在第一模式中讨论的sidecar架构有一些相同的缺点。<br>
 <br><h3>其他的想法</h3>正如在 Service Mesh Con 2019 上的“<a href="https://www.youtube.com/watch?v=bmf0JQtDJL4">关于服务网格数据平面的真相</a>”中所讨论的，代表数据平面的架构可能会有所不同，并且有不同的权衡利弊。在Solo.io，我们将eBPF视为优化服务网格的强大方法，并将Envoy代理视为数据平面的基石。与我们的许多客户（不同规模，包括世界上一些最大的服务网格部署）合作，我们处于一个独特的位置，可以帮助平衡优化、功能、可扩展性、可调试性和用户体验之间的权衡利弊。<br>
-<br>原文链接: <a href="https://www.solo.io/blog/ebpf-for-service-mesh/">eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay</a>
+<br><strong>原文链接：<a href="https://www.solo.io/blog/ebpf-for-service-mesh/">eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay</a></strong>
                                 
                                                               
 </div>
