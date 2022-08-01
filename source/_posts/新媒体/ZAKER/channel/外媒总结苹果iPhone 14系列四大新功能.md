@@ -1,0 +1,18 @@
+
+---
+title: '外媒总结苹果iPhone 14系列四大新功能'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90c_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 01 Aug 2022 02:50:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90c_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90c_1024.jpg" data-height="540" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90c_1024.jpg" referrerpolicy="no-referrer"></div></div>按照惯例，苹果公司将于 9 月发布 iPhone 14 系列手机。随着传闻消息越来越多，新手机的新功能得到了证实。外媒 9To5Mac 总结了 iPhone 14 相关的四个传闻，我们一起来看一下：<p></p><p><strong>iPhone 14 将有一个 Max 版</strong></p><p>有消息称，iPhone mini 系列的销量没能达到苹果的预期，而从 9To5Mac 消息人士处得来的消息表明，今年不会再有 iPhone 14 mini。最新消息显示，iPhone 14（代号 D27 和 D28）将拥有 6.1 英寸和 6.7 英寸两个版本，而 Pro（代号 D73 和 D74）的屏幕可能会更大一下，以适应打孔 + 药丸的设计。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90d_1024.jpg" data-height="313" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62e79d37b15ec0227309b90d_1024.jpg" referrerpolicy="no-referrer"></div></div>所以如果你是小屏爱好者，你现在就可以出手了，选择 iPhone 13 mini 或者 iPhone 12 mini，甚至是 iPhone SE 系列。<p></p><p><strong>标准版和 Pro 版的设计不同</strong></p><p>iPhone 14 Pro 将采用全新的打孔 + 药丸设计。这将是苹果第一次从 iPhone X 的外观转向全新设计。换句话说，这种新设计将是 Pro 机型独有的，因为标准版可能会保持与 iPhone 13 相同的 " 刘海 " 设计，这个设计比 iPhone 12 上的 " 刘海 " 小 30%。</p><p>分析师 Ross Young 也证实了这份报告，他说所有型号将在 2023 年再次采用相同的设计。在那之前，如果你想要最新的设计，你将不得不选择 Pro 型号。</p><p><strong>不同型号不同 " 芯 "</strong></p><p>9to5Mac 独立消息人士和分析师郭明錤（Ming-Chi Kuo）表示，苹果今年可能会打破传统，发布于 iPhone 13 系列相同芯片的 iPhone 14。也就是说，A15 芯片将为 6.1 英寸 iPhone 14 和 6.7 英寸 iPhone 14 Max 提供动力，而新机的 RAM 将从 4GB 升级到 6GB。新的 A16 芯片将保留给更高端、更昂贵的 14 Pro 和 14 Pro Max 型号。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202208/62e79d37b15ec0227309b90e_1024.jpg" data-height="331" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62e79d37b15ec0227309b90e_1024.jpg" referrerpolicy="no-referrer"></div></div>截至目前，尚不清楚苹果是否会为 iPhone 14 系列重新命名 A15 芯片（例如 A15X），或者通过微调做出一个更强的版本。<p></p><p><strong>全新后置摄像头和前置镜头</strong></p><p>iPhone 14 Pro 的另一个重要改进是 4800 万像素传感器。这一消息最早由分析师郭明錤提出，而后马克 · 古尔曼（Mark Gurman）也爆料了这一消息。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202208/62e79d37b15ec0227309b90f_1024.jpg" data-height="313" data-width="630" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62e79d37b15ec0227309b90f_1024.jpg" referrerpolicy="no-referrer"></div></div>虽然 4800 万像素可以解锁新功能，但苹果很可能会通过算法，输出 1200 万像素照片。而 iPhone 14 系列的所有镜头都将配备 1200 万像素传感器。<p></p><p>今年 6 月，郭明錤说 iPhone 14 将具备苹果多年来最重要的前置摄像头升级。分析师预测，新相机将具有自动对焦功能，与目前的定焦镜头相比，这将显著提高拍摄照片和视频的质量。此外，他还期待该镜头拥有更大的 f/1.9 光圈。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
