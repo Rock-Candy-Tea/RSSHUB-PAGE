@@ -1,0 +1,19 @@
+
+---
+title: 'New EHR Considerations'
+categories: 
+ - 学习
+ - Mind42
+ - 分类
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=721e6697-dd0d-4cd2-aa9f-e03450158784&size=gallery'
+author: Mind42
+comments: false
+date: 2022-08-01 12:18:54
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=721e6697-dd0d-4cd2-aa9f-e03450158784&size=gallery'
+---
+
+<div>   
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=721e6697-dd0d-4cd2-aa9f-e03450158784&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
+</div>
+            
