@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/78/c5e5dd82041ecad375fca24a591hk2i5.JPG?v=1659334090717'
 author: 巴哈姆特
 comments: false
-date: 2022-08-01 06:26:33
+date: 2022-08-01 07:16:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/78/c5e5dd82041ecad375fca24a591hk2i5.JPG?v=1659334090717'
 ---
 
@@ -20,7 +20,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/78/c5e5dd82041ecad375fca24a591hk2i5.
 <div>
  </div>
 <div>
-　　印度政府於 2020 年 11 月發表新規定，該規定將允許當局命令各平台刪除被視為違法或擾亂公共秩序的內容；若被認為是緊急的內容，將限時 4 小時內刪除，若是不急迫的內容，則限時 24 小時內。</div>
+　　印尼政府於 2020 年 11 月發表新規定，該規定將允許當局命令各平台刪除被視為違法或擾亂公共秩序的內容；若被認為是緊急的內容，將限時 4 小時內刪除，若是不急迫的內容，則限時 24 小時內。</div>
 <div>
  </div>
 <div>
@@ -47,8 +47,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/78/c5e5dd82041ecad375fca24a591hk2i5.
  </div>
 <div>
 　　目前印尼政府的行為遭受到許多人在網路上批評，認為這樣的舉動傷害了印尼線上遊戲產業和使用 PayPal 的自由職業者。</div>
-</div>
-<p style="font-size: 12px; padding: 10px 0;"></p>
+</div><p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
   

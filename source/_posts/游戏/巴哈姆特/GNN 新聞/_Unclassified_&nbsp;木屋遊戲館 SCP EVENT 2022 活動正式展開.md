@@ -8,7 +8,7 @@ categories:
 headimg: 'https://indiecabin.net/img/jam/SCP_EVENT_2022_Detail_IndieCabin.jpg'
 author: 巴哈姆特
 comments: false
-date: 2022-08-01 06:26:33
+date: 2022-08-01 07:16:04
 thumbnail: 'https://indiecabin.net/img/jam/SCP_EVENT_2022_Detail_IndieCabin.jpg'
 ---
 

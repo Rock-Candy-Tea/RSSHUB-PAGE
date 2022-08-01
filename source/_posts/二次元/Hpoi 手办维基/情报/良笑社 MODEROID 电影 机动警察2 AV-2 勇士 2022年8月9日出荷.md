@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703'
+headimg: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703'
 author: Hpoi 手办维基
 comments: false
-date: Mon, 01 Aug 2022 06:12:00 GMT
-thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703'
+date: Mon, 01 Aug 2022 06:15:50 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c06
                     
                 
                     
-                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/01/62dfa5cd746e44699394037c0665fff1.jpg?date=1642741703" referrerpolicy="no-referrer">  
 </div>
             
