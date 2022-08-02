@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/56/6bebae9ccd6d3ee2ae1350319e1hko45.PNG?v=1659410551560'
 author: 巴哈姆特
 comments: false
-date: 2022-08-02 03:29:00
+date: 2022-08-02 05:02:47
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/6bebae9ccd6d3ee2ae1350319e1hko45.PNG?v=1659410551560'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/6bebae9ccd6d3ee2ae1350319e1hko45.
 <div>
 <div>
 <div>
-　　美商藝電與旗下研發團隊 Maxis 的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B8%82%E6%B0%91+4" target="_blank">模擬市民 4</a>》日前為因應新資料片《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B8%82%E6%B0%91+4" target="_blank">模擬市民 4</a> 高中歲月》登場，釋出了主遊戲更新內容加入了遊戲中電話系統更新、身體毛髮、性取向轉換等內容，但玩家卻發現這個更新不僅出現讓年輕模擬市民快速老化的 Bug，甚至還會產生模擬市民想對家人亂倫的情感表現。</div>
+　　美商藝電與旗下研發團隊 Maxis 的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B8%82%E6%B0%91+4" target="_blank">模擬市民 4</a>》日前為因應新資料片《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B8%82%E6%B0%91+4" target="_blank">模擬市民 4</a> 高中歲月》登場，釋出了主遊戲更新、加入了遊戲電話系統更新、身體毛髮、性取向轉換等內容，但玩家卻發現這個更新不僅出現讓年輕模擬市民快速老化的 Bug，甚至還會產生模擬市民想與家人亂倫的情感表現。</div>
 <div>
  </div>
 <div>
@@ -52,6 +52,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/6bebae9ccd6d3ee2ae1350319e1hko45.
 <div>
 　　依照官方的公告，可以預期在美國時間 8 月 7 日左右，研發團隊應該會應該會釋出更新檔，來解決此次更新導致的相關問題，以努力恢復《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%B8%82%E6%B0%91+4" target="_blank">模擬市民 4</a>》遊戲世界的狀態。</div>
 </div>
+<div>
+ </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="6703" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
