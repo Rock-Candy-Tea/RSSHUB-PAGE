@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/72/604fa281d68e9210dba8ae6a041hkok5.JPG?v=1659412006366'
 author: 巴哈姆特
 comments: false
-date: 2022-08-02 08:13:07
+date: 2022-08-02 09:09:11
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/72/604fa281d68e9210dba8ae6a041hkok5.JPG?v=1659412006366'
 ---
 
@@ -86,7 +86,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/72/604fa281d68e9210dba8ae6a041hkok5.
 <div>
  </div>
 <div>
-　　本次特賣活動於 8 月 2 日（二）至 8 月 5 日（五）期間舉辦。普通版將以 25% OFF（八五折）的優惠價販售；數位豪華版「VIP Edition」則將以 30% OFF（七折）的優惠價販售。</div>
+　　本次特賣活動於 8 月 2 日（二）至 8 月 5 日（五）期間舉辦。普通版將以 25% OFF（七五折）的優惠價販售；數位豪華版「VIP Edition」則將以 30% OFF（七折）的優惠價販售。</div>
 <div>
  </div>
 <div>
