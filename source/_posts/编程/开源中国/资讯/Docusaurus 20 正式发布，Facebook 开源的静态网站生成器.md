@@ -31,6 +31,14 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-effd4994a788e4f9bab74f97689180f
  <li>Markdown 支持数学方程式、实时代码块</li> 
  <li>支持 PWA</li> 
 </ul> 
+<p>在 Docusaurus 2 中，现在支持通过 MDX 在 Markdown 中插入 React 组件，轻松构建交互式文档。</p> 
+<p>示例：</p> 
+<p><span style="background-color:#ffffff; color:#262626">docs/my-document.mdx</span></p> 
+<pre><code class="language-markdown">### Give it a try: press that button!
+
+import ColorModeToggle from '@theme/ColorModeToggle';
+
+<ColorModeToggle/></code></pre> 
 <p>虽然 Docusaurus 2 现在才正式发布，但它早已处于稳定状态，并被广泛使用，因此 Docusaurus 2 在 npm 的下载量很快就超过了 Docusaurus 1：</p> 
 <p><img alt src="https://oscimg.oschina.net/oscnet/up-aee1e73f4e72f11a3e2919238e8c325f2a6.png" referrerpolicy="no-referrer"></p> 
 <p><strong>使用案例</strong></p> 
