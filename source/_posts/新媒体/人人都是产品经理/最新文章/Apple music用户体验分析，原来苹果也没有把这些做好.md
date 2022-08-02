@@ -1,0 +1,109 @@
+
+---
+title: 'Apple music用户体验分析，原来苹果也没有把这些做好'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://image.yunyingpai.com/wp/2022/08/kfbO1AlA20tvyOSLRs8U.png'
+author: 人人都是产品经理
+comments: false
+date: Tue, 02 Aug 2022 00:00:00 GMT
+thumbnail: 'https://image.yunyingpai.com/wp/2022/08/kfbO1AlA20tvyOSLRs8U.png'
+---
+
+<div>   
+<blockquote><p>编辑导语：Apple Music是苹果推出的一款具有付费订阅流媒体服务功能的新音乐产品，但是用户体验似乎并没有想象中优秀，本文作者整理了一些Apple music存在的体验问题，感兴趣的朋友一起来看看吧。</p></blockquote>
+<p><img data-action="zoom" class="size-full wp-image-845860 aligncenter" src="https://image.yunyingpai.com/wp/2022/08/kfbO1AlA20tvyOSLRs8U.png" alt referrerpolicy="no-referrer"></p>
+<p>Hi，我是彩云。</p>
+<p>我自从在2014年入手了第一台苹果本后，就把身边常用的手机，耳机之类的常用设备都换成了苹果系列，也算是资深果粉了。对于苹果的软件产品，也非常信任，毕竟是业界的体验标杆了。但即使如此，它们也并不完美，我个人觉得最失败的就是苹果鼠标的设计，充电的时候居然要插在底部，每次没电了就不能工作了，不知道你怎么看？</p>
+<p>当然，今天这篇文章是以国外一位产品设计leader的视角来分析Apple music的很多体验问题，看看他是如何分析一个标杆产品的使用体验吧。</p>
+<h2 id="toc-1">一、Apple Music诞生的原因？</h2>
+<p>我是果粉，在过去的10年里一直在用苹果产品，很欣赏乔布斯早在那时就倡导的优秀设计理念。在那些年里，我迷上了苹果的生态系统，因为对我来说，“它太好用了”。</p>
+<p>其中一个便是iTunes。我会花大量的时间仔细整理我的音乐库，并将它同步到我的iPod上。</p>
+<p>在中间，我发现了Spotify，几年后，我曾经喜欢的iTunes乐库已经积灰了。</p>
+<p>在大量的猜测和谣言之后，苹果最终加入了流媒体竞争——完全放弃iTunes，并推出他们的新音乐产品，带有付费订阅流媒体服务的可选功能，名为“Apple Music”。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/4mNFimOArycSLxSEAhQU.jpeg" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="438" height="185" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">Source: Apple</p>
+<p>在用了Spotify多年后，我决定给苹果一个机会，重新尝试用苹果的音乐产品，到现在用了苹果音乐大概一年。</p>
+<p>不多废话了，以下是我作为一个产品设计师和一个想听音乐的普通用户整理的一些想法，分析下Apple music存在哪些体验问题。</p>
+<h2 id="toc-2">二、Apple Music存在的体验问题</h2>
+<h3>1. 搜索</h3>
+<p>音乐APP的一个关键功能就是搜索，在APP中它的使用频率很容易排到前三。那么，Apple music的搜索功能我觉得做的还不够好。</p>
+<p>假设我们想要搜索一个知名的摇滚乐队Weezer，他们是一个很酷的乐队。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/TGUebi1fVL6daIHeJx8l.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="485" height="303" referrerpolicy="no-referrer"></p>
+<p>我们正确输入了Weezer，自动提示似乎已经出现了。但是等等——这是自动提示吗?</p>
+<p>让我们试着输入“Wezer”，假装我们拼错了乐队的名字，以再次确认这确实是一个自动提示，帮助我们确认它与苹果库中的Weezer匹配。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/b4lcKRdik53I5tGlYOUZ.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="452" height="282" referrerpolicy="no-referrer"></p>
+<p>看到这个结果，我猜这应该不是一个很好的自动提示。为了确定是否真的做了自动提示功能，我们换一个关键词，这次选另一个非常受欢迎的摇滚乐队-Queen。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/gM5sAN1avfadn93se9M3.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="433" height="475" referrerpolicy="no-referrer"></p>
+<p>这次好像终于是有自动提示了，但为什么Queen能快速出关联结果而Weezer没有？</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/z1Ea3OOO8OjrcnVn8Cij.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="491" height="306" referrerpolicy="no-referrer"></p>
+<p>好吧，让我们继续寻找线索。点击那个下拉列表，看看它将带我们去哪里。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/In9DCfXff9IxxzUG7a3v.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="485" height="348" referrerpolicy="no-referrer"></p>
+<p>结果出现了一个全新的“结果页面”。如果能够完全跳过这一页就好了(就像我们搜索Queen的时候)，因为我真正想做的是直接进入Weezer的音乐。</p>
+<p>此时想想我们下一步要做什么。我不记得我最后去了哪里，但我知道我想回到最初的位置。我们该怎么做呢?可能像我们在浏览器一样有一个后退按钮，对吧？但没有找到。</p>
+<p>事实证明，没有后退按钮。至少，它没有通用的后退按钮来撤消你所做的任何导航操作。你能猜到为什么吗?</p>
+<h3>2. 导航</h3>
+<p>我不知道你怎么想，但我发现Apple Music的导航是它最令人困惑的方面之一。优秀应用不会让你思考你在哪里，每一个页面都会是清晰的且可以很容易撤消和回到你之前的地方。</p>
+<p>苹果iOS的人机界面指南为应用提供了三种类型的导航，苹果似乎也在macOS中使用了这些概念，苹果音乐就使用了平行导航。</p>
+<p>（彩云注：这里我跟大家解释下iOS的三种类型导航模式）</p>
+<ol>
+<li><strong>层级导航</strong>（Hierarchical navigation）。这个导航模式只能在每个屏幕做一个选择到达一个目的地。为了到达另外的目的地，你必须重新开始你的步骤或者从起点重新开始，做出不同的选择。设置和邮箱就使用这种导航样式。</li>
+<li><strong>平行导航</strong>（Flat navigation）。这个导航模式允许在多个内容目录之间转换。Music和AppStore使用这种导航样式。</li>
+<li><strong>内容驱动或者体验驱动导航</strong>（Content-driven or experience-driven navigation）。这个导航模式在内容间自由移动，或者依据内容本身定义导航。游戏，图书和其他沉浸式app基本使用这种导航方式。）</li>
+</ol>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/Eo0jPoyABF6xgEgqrvMj.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="401" height="472" referrerpolicy="no-referrer"></p>
+<p>Apple music有一个侧边栏，但我觉得这样意义不大。平行导航在移动端体验中非常好用，因为屏幕面积很小。如果你经常使用导航栏，你可以知道你在哪个标签页上，还可以独立于其他选项卡更深入地探索一个选项卡。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/oljW9Uj0eo58jbSxUmlX.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="506" height="316" referrerpolicy="no-referrer"></p>
+<p>这是一个自iPhone发布以来一直保持的惯例，人们不会轻易混淆自己在哪里。那么这在桌面上是如何工作的呢?</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/Ok6GON2HotpJdLXCeIE2.gif" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="494" height="347" referrerpolicy="no-referrer"></p>
+<p>简而言之，这也意味着侧边栏中的每一项都有自己独立的导航。现在让我们看看Spotify是如何处理桌面导航的。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/z5Rnl4WTGecNVW97KqgE.gif" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="479" height="312" referrerpolicy="no-referrer"></p>
+<p>注意到了吗？Spotify似乎结合了侧边栏的优点，无论你点击应用的哪个位置，它都允许你轻松地回溯你的步骤。</p>
+<p>为什么在我看来这比苹果的设计更好?</p>
+<p>它可以减少认知负荷。人们没有时间去记住他们上次在应用中的位置。人们习惯于使用他们的浏览器的后退键。Spotify利用了这一点，使新用户的行为符合心理预期。</p>
+<p>它还降低了用户焦虑感，允许用户自由探索，而不用担心搞砸或无法解决问题。</p>
+<h3>3. 系统反馈与探索</h3>
+<p>点击是任何应用的一个重要部分，因为你需要点击来操作。但Apple music的点击体验有点糟糕。</p>
+<p>就拿这个正在播放的状态来说吧。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/1DKrdtFrW9EvFcGmO7S8.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="492" height="307" referrerpolicy="no-referrer"></p>
+<p>自从iTunes诞生以来，这在很大程度上保持着相同的功能一致性，一种查看当前正在播放的歌曲的方式。</p>
+<p>当你听着Weezer的一首新歌，然后想，“嗯，这支乐队太棒了，让我看看他们其他的目录!”让我们从这里点击Weezer !</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/NDCJi2Wvipr9m2qjKW3i.gif" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="409" height="180" referrerpolicy="no-referrer"></p>
+<p>当我们点击了标题和专辑，但毫无效果。你能猜到这里具体要怎么操作才能达到我们想要的效果吗？</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/5yZRJVNlmHbQHH1Ii3zi.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="498" height="291" referrerpolicy="no-referrer"></p>
+<p>你猜不到的是居然要点击“更多”菜单，浏览列表，然后在列表底部看到“在Apple music中显示”。</p>
+<p>但在应用的其他地方呢?你可以点击歌曲、专辑或艺术家吗?好像也不行。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/nPYe6QfUNqziDKnc2HiR.gif" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="496" height="406" referrerpolicy="no-referrer"></p>
+<p>在这一点上，你可能会想，我为什么要在这个问题上做文章？因为我认为音乐应用的全部意义，尤其是在一个巨大的流媒体库中寻找新音乐的意义：是点击、探索，并轻松地找到歌曲、专辑和艺术家。</p>
+<p>我认为用户不应该因为不遵守应用希望使用它的方式而受到阻碍。</p>
+<p>（彩云注：这里作者想要表达的问题是交互上不应该让用户去遵循产品的规则，而应该尽可能的满足用户的心智模型，用户在这里的需求很清晰，打通这里的流程问题很重要）。</p>
+<h3>4. 响应时间</h3>
+<p>一款好的应用不会让你等待。我们知道加载时间会极大地影响网页的跳出率，我不认为我们必须区别对待本地应用。</p>
+<p>这让我想到了使用Apple Music时最大的痛苦之一：</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/fCHQnBGROm7tN3cY9UqT.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="469" height="346" referrerpolicy="no-referrer"></p>
+<p>在页面之间等待，等待。想知道下一个糟糕的行为会是什么？失去当前的状态提示。因为延迟，无响应的问题，不知道当我点击“播放”时，我的歌曲是否会真正播放。</p>
+<h2 id="toc-3">三、总结</h2>
+<p>我相信好的设计应该是令人向往的。我想喜欢Apple music，更重要的是，我相信苹果仍然有很强的设计原则。但我这次在apple music中没有让我享受到该有的好体验。这是一个遗憾，因为作为一项服务，Apple music还是有很多优点。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="Apple music用户体验分析，原来苹果也没有把这些做好" src="https://image.yunyingpai.com/wp/2022/08/JskV4arAtaXGOqtp0HBo.png" alt="Apple music用户体验分析，原来苹果也没有把这些做好" width="501" height="398" referrerpolicy="no-referrer"></p>
+<ul>
+<li>从策划的角度来看，我发现苹果选择的曲目质量很高。从人工挑选的歌曲(比如上面显示的播放列表)到算法根据我的听歌习惯为我提供优秀的音乐。这感觉非常像苹果，我一直惊讶于它的选择是多么的好。</li>
+</ul>
+<ul>
+<li>从音频的角度来看，我实际上更喜欢音乐的质量，这一点要Spotify要好。</li>
+</ul>
+<p>这些优点反而让我更加失望，因为这个产品本身不容易使用。</p>
+<p>说到底，真正的问题在于苹果没有明确定义他们的产品是什么。如果说音乐应用是iTunes的继承者，那么不幸的是，它没有达到目标，因为他们试图将流媒体服务(Apple music)嵌入到传统模式中。如果Apple Music是他们的重点，他们并没有让它作为一个独立的服务脱颖而出。</p>
+<p>有一件事是肯定的，桌面版的Apple Music如果要达到一个像样的可用性水平，还有很多工作要做。</p>
+<p>你觉得呢? 你在体验苹果产品时，还遇到哪些痛点？</p>
+<p> </p>
+<p>原文作者：Jake Dragash</p>
+<p>原文链接：https://uxdesign.cc/apple-musics-ux-problem-e8f5fac756de</p>
+<p>译者：彩云Sky，腾讯高级视觉设计师；公众号：彩云译设计</p>
+<p>本文由@彩云sky 翻译发布于人人都是产品经理，未经许可，禁止转载。</p>
+<p>题图来自 Unsplash，基于CC0协议。</p>
+<div class="support-author"><div class="support-title">给作者打赏，鼓励TA抓紧创作！</div><button class="button--pay" data-post-id="5550065" data-author="640471" data-avatar="https://image.woshipm.com/wp-files/2021/01/QypwsEo6WCZX4KRT7beL.jpg"><svg width="13" height="16" class="svgIcon--use" viewBox="0 0 13 16"><path d="M9.113,4.571 C9.951,3.771 10.895,2.742 10.685,2.057 C10.475,1.485 10.056,0.799 9.427,0.571 C8.903,0.342 8.379,0.456 7.750,0.799 C7.540,0.342 7.016,0.114 6.596,-0.001 C5.863,-0.001 5.234,0.228 4.814,0.914 C4.080,0.571 3.451,0.685 2.927,1.028 C2.613,1.256 2.298,1.713 2.298,2.628 C2.298,3.542 3.137,4.228 3.766,4.685 C2.508,5.599 -0.218,7.885 -0.008,12.228 C-0.218,15.656 2.613,15.999 2.613,15.999 L10.371,15.999 C11.314,15.885 12.991,14.971 12.991,12.571 L12.991,12.228 C13.201,7.771 10.371,5.371 9.113,4.571 L9.113,4.571 ZM8.932,11.835 L6.940,11.835 L6.940,13.207 C6.940,13.435 6.731,13.549 6.521,13.549 C6.311,13.549 6.102,13.435 6.102,13.207 L6.102,11.835 L4.110,11.835 C3.900,11.835 3.795,11.606 3.795,11.378 C3.795,11.149 3.900,10.921 4.110,10.921 L6.102,10.921 L6.102,10.121 L4.949,10.121 C4.739,10.121 4.634,9.892 4.634,9.664 C4.634,9.435 4.739,9.206 4.949,9.206 L5.892,9.206 L4.739,7.950 C4.634,7.835 4.739,7.606 4.949,7.492 C5.158,7.378 5.368,7.264 5.473,7.378 L6.521,8.635 L7.674,7.264 C7.779,7.149 7.989,7.264 8.198,7.378 C8.408,7.492 8.408,7.721 8.408,7.835 L7.150,9.321 L8.094,9.321 C8.303,9.321 8.408,9.549 8.408,9.778 C8.408,10.007 8.303,10.235 8.094,10.235 L6.940,10.235 L6.940,11.035 L8.932,11.035 C9.142,11.035 9.247,11.264 9.247,11.493 C9.247,11.606 9.037,11.835 8.932,11.835 L8.932,11.835 Z"/></svg>
+赞赏</button></div>                      
+</div>
+            

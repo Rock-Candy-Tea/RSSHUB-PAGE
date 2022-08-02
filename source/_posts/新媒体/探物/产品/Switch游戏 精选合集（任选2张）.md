@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Product1490352993855'
 author: 探物
 comments: false
-date: 2022-08-02 07:10:39
+date: 2022-08-02 08:13:50
 thumbnail: 'https://resource.tanwuapp.com/Product1490352993855'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Product1490352993855" referrerpolicy="no-referrer"><br>
           <strong>Switch游戏 精选合集（任选2张）</strong><br><br>
-          价格: ￥1.20 / 日<br>
+          价格: ￥1.50 / 日<br>
           评分: 5.0
           
 </div>
