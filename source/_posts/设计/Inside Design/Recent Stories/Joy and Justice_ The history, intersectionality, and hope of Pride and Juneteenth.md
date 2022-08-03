@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/joy-and-justice-the-history-intersectionality-and-hope-of-pride-and-juneteenth/'
 author: Inside Design
 comments: false
-date: 2022-08-03 11:08:30
+date: 2022-08-03 12:17:47
 thumbnail: 'https://www.invisionapp.com/inside-design/joy-and-justice-the-history-intersectionality-and-hope-of-pride-and-juneteenth/'
 ---
 
