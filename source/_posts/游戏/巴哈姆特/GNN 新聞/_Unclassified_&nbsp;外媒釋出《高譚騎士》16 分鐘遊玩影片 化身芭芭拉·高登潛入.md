@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?v=1659523916766'
 author: 巴哈姆特
 comments: false
-date: 2022-08-03 12:18:06
+date: 2022-08-03 13:34:09
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?v=1659523916766'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?v=1659523916766" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?v=1659523916766" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -43,7 +43,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/573b98e00734c4320262a3bb4d1hf9z5.
 <div>
 <div>
 　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AB%98%E8%AD%9A%E9%A8%8E%E5%A3%AB" target="_blank">高譚騎士</a>》預定 2022 年 10 月 25 日在 PlayStation 5、Xbox Series X|S 及 PC 上全球發售。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="19449" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">All rights reserved. 版權所有，保留一切權利</p>
 </div>
