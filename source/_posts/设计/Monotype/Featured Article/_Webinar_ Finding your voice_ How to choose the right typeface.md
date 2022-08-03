@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=920'
+headimg: 'https://picsum.photos/400/300?random=2241'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=920'
+thumbnail: 'https://picsum.photos/400/300?random=2241'
 ---
 
 <div>   
@@ -19,7 +19,16 @@ thumbnail: 'https://picsum.photos/400/300?random=920'
       
 
   <div class="resource-content-citation">
-                            <div class="content-social-share-button-field">
+              <div class="content-field_category">
+            <div class="field field--name-field-category field--type-entity-reference field--label-inline field__items">
+      <div class="field__label">Topic</div>
+                <div class="field__item" title="Webinars">
+        <a href="https://www.monotype.com/resources/webinars" hreflang="en">Webinars</a>
+            </div>
+          </div>
+
+      </div>
+                        <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
   
       <h2>Share</h2>
@@ -94,14 +103,14 @@ thumbnail: 'https://picsum.photos/400/300?random=920'
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/webinar-finding-your-voice-how-choose-right-typeface&title=[Webinar]%20Finding%20your%20voice:%20How%20to%20choose%20the%20right%20typeface." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.monotype.com/resources/webinars/webinar-finding-your-voice-how-choose-right-typeface&title=[Webinar]%20Finding%20your%20voice:%20How%20to%20choose%20the%20right%20typeface." target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook"/>
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=[Webinar]%20Finding%20your%20voice:%20How%20to%20choose%20the%20right%20typeface.+https://www.monotype.com/resources/webinar-finding-your-voice-how-choose-right-typeface" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=[Webinar]%20Finding%20your%20voice:%20How%20to%20choose%20the%20right%20typeface.+https://www.monotype.com/resources/webinars/webinar-finding-your-voice-how-choose-right-typeface" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter"/>
             </svg>
@@ -114,7 +123,7 @@ thumbnail: 'https://picsum.photos/400/300?random=920'
     <!-- Pinterest share button -->
     
     <!-- Linkedin share button -->
-            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/webinar-finding-your-voice-how-choose-right-typeface" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.monotype.com/resources/webinars/webinar-finding-your-voice-how-choose-right-typeface" target="_blank" title="Share to Linkedin" aria-label="Share to Linkedin" class="social-sharing-buttons__button" rel="noopener">
             <svg width="30px" height="30px" style="border-radius:3px;">
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#linkedin"/>
             </svg>
