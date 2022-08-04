@@ -8,21 +8,20 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?v=1659605687663'
 author: 巴哈姆特
 comments: false
-date: 2022-08-04 10:10:38
+date: 2022-08-04 11:08:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?v=1659605687663'
 ---
 
 <div>   
 <div>
 <div>
-<div>
-　　SQUARE ENIX 於今日宣布，戰略 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%A3%AB%E5%9C%98+2%EF%BC%9A%E9%87%8D%E7%94%9F" target="_blank">皇家騎士團 2：重生</a>（暫譯，原名：タクティクスオウガ リボーン / Tactics Ogre: Reborn）》預計將於 11 月 11 日在 PlayStation 5 / PlayStation 4 / Nintendo Switch 平台推出，Steam（PC）版發售日為 2022 年 11 月 12 日，皆支援繁體中文。</div>
+　　SQUARE ENIX 今日（8/4）宣布，戰略 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%A3%AB%E5%9C%98+2%EF%BC%9A%E9%87%8D%E7%94%9F" target="_blank">皇家騎士團 2：重生</a>（暫譯，原名：タクティクスオウガ リボーン / Tactics Ogre: Reborn）》預計將於 11 月 11 日在 PlayStation 5 / PlayStation 4 / Nintendo Switch 平台推出，Steam（PC）版發售日為 2022 年 11 月 12 日，皆支援繁體中文。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?v=1659605687663" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?v=1659605687663" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -34,12 +33,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/a737538d84d780e871937549dc1hmvw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 48.45%;">
-<figcaption style="padding-bottom: 182.98%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?v=1659606083102" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG 4x" style="max-width: unset;" title="SFC 版《皇家騎士團 2》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 182.98%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?v=1659606083102" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/daa1925b8154a3431b4a96188f1hmvx5.JPG 4x" style="max-width: unset;" title="SFC 版《皇家騎士團 2》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 SFC 版《皇家騎士團 2》</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 51.29%;">
-<figcaption style="padding-bottom: 172.86%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG?v=1659606083102" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG 2x" style="max-width: unset;" title="PSP 版《皇家騎士團 2：命運之輪》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 172.86%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG?v=1659606083102" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/532ad16246d1ac7d0cb75cc8f61hmvq5.JPG 2x" style="max-width: unset;" title="PSP 版《皇家騎士團 2：命運之輪》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 PSP 版《皇家騎士團 2：命運之輪》</figure>
 </li>
@@ -112,9 +111,9 @@ PSP 版《皇家騎士團 2：命運之輪》</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?v=1659605784877" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?v=1659605784877" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/17/2a6352027451459e9dbb4d14211hmvl5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?v=1659605784877" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?v=1659605784877" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/20/73dc02f70f01b0207da5e7cad51hmvo5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -126,9 +125,9 @@ PSP 版《皇家騎士團 2：命運之輪》</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?v=1659605898658" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?v=1659605898658" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/27/0bcdaa2f96b4cc41b54f902c6d1hmvv5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?v=1659605898658" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?v=1659605898658" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/25/e3e73d360bb5f223cf8ea53e2e1hmvt5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -140,9 +139,9 @@ PSP 版《皇家騎士團 2：命運之輪》</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?v=1659605884281" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?v=1659605884281" data-srcset="https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/02/fa9e950d7e54c4a948fe15d6781hmv65.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?v=1659605884281" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?v=1659605884281" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/01/3fac6ba1142f7f38877dc792531hmv55.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -154,9 +153,9 @@ PSP 版《皇家騎士團 2：命運之輪》</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?v=1659605850328" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?v=1659605850328" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/4e2bf8287e21d884d9e6e7f44f1hmvu5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?v=1659605850328" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?v=1659605850328" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/23/99af0a1c4aa47c7aec8ebc27271hmvr5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -176,22 +175,21 @@ PSP 版《皇家騎士團 2：命運之輪》</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?v=1659605948936" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?v=1659605948936" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/11/69b204451baef4616fe5da6f561hmvf5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?v=1659605948936" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?v=1659605948936" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/00/6adb43e86c46c0e98d9d93e5f01hmv45.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%A3%AB%E5%9C%98+2%EF%BC%9A%E9%87%8D%E7%94%9F" target="_blank">皇家騎士團 2：重生</a>》預計 11 月 11 日在 PlayStation 5 / PlayStation 4 / Nintendo Switch 平台推出（Steam 版發售日為 2022 年 11 月 12 日），根據商店頁面顯示將支援繁體中文、簡體中文、日文、英文、韓文等語系。</div>
-</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 50.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG?v=1659606150549" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG 2x" style="max-width: unset;" title="日本實體豪華版內容物" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 50.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG?v=1659606150549" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/dc71a3b478d03aa34634913f281hmw05.JPG 2x" style="max-width: unset;" title="日本實體豪華版內容物" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 日本實體豪華版內容物</figure>
 </li>
