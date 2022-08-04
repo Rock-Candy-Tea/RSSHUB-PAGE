@@ -29,7 +29,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220804/11ad883c-1700-449f-84f0-8dfb
            
            <p class="end"><img src="https://icons.mydrivers.com/news/end_article.png" referrerpolicy="no-referrer"></p> 
 <div style="overflow: hidden;font-size:14px;">
-           <p class="zhuanzai"><strong>如需转载请务必注明出处：快科技</strong></p>  
+             
           <p class="url"><span style="color:#666">责任编辑：建嘉</span><a href="javascript:;" class="jiucuo" id="leftjiucuo">文章纠错</a></p>
         </div>
         <div class="page_article" id="bnext">
