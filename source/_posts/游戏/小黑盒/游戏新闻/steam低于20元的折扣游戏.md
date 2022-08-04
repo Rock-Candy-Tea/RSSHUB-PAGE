@@ -1,0 +1,18 @@
+
+---
+title: 'steam低于20元的折扣游戏'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/322330_DiBjK.jpg'
+author: 小黑盒
+comments: false
+date: Thu, 04 Aug 2022 03:04:42 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/322330_DiBjK.jpg'
+---
+
+<div>   
+<p>steam生存游戏节</p><p><b>饥荒联机版</b></p><p>‌原价24折扣12<b><br></b></p><p>这款就不用说了，好玩确实好玩，就是肝。</p><p><img data-gameid="322330" src="https://cdn.max-c.com/heybox/game/header/322330_DiBjK.jpg" referrerpolicy="no-referrer"></p><p>叫上几个朋友能玩很久。</p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2022/08/03/b19b2754617a44b9d2602a547ed5603e/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><p><b>堆叠大陆</b></p><p>原价22史地16</p><p><img data-gameid="1948280" src="https://cdn.akamai.steamstatic.com/steam/apps/1948280/header.jpg?t=1657626123" referrerpolicy="no-referrer"></p><p>卡牌轻肉鸽游戏，流程不长，适合休闲的时间玩一玩。通过找到主意卡牌来扩展知识面，有点像以前玩蜘蛛卡牌那种感觉，但是性质还是不一样的，毕竟可以攻击，战斗。一款村庄建设游戏，你可以在那里堆叠卡牌以收集食物，修建建筑，并与各种生物战斗。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/08/03/e3fa21186b744712b7751283ed3923d0/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><b>黎明前20分钟</b></p><p>‌原价15折扣13.5<b><br></b></p><p><img data-gameid="1966900" src="https://cdn.akamai.steamstatic.com/steam/apps/1966900/header.jpg?t=1659361648" referrerpolicy="no-referrer"></p><p>非常上头的动作类肉鸽游戏，目前还在更新中，想起来的时候刺激20分钟，已经出了无尽模式，挑战自己的生存极限。可以称之为爽游，除了可能部分人有密集恐惧症。50种升级选择，从刮痧到无敌。</p><p><img class="lazy" data-height="1070" src="https://imgheybox.max-c.com/bbs/2022/08/03/578a5d0d3ce176d309f18bdb80ce9810/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><b>星界边境</b></p><p>原价48史地12</p><p><img data-gameid="211820" src="https://cdn.max-c.com/heybox/game/header/211820_EdOKx.jpg" referrerpolicy="no-referrer"></p><p>太空版的泰拉瑞亚，有创意工坊，你将扮演一个刚刚从自己女星中逃离，便在另一个星球坠毁的角色。从此你就开始了自己的冒险生涯，在这个无垠的宇宙中探索，发现挣扎求存。</p><p><img class="lazy" data-height="519" src="https://imgheybox.max-c.com/bbs/2022/08/03/b2016839b515dbc83caaa0ed81668c53/thumb.jpeg" data-width="921" referrerpolicy="no-referrer"></p><p><b>安抚</b></p><p>原价22折扣15</p><p><img data-gameid="967050" src="https://cdn.max-c.com/heybox/game/header/967050_Rshkw.jpg" referrerpolicy="no-referrer"></p><p>胆子大单排都没问题，胆子小好友联机也没问题，刚开始会害怕一点，知道你遇到女鬼，害怕什么的都不存在，存在的就只有爱。农场老大爷也老好玩了，爱吃鸡，没想到连绿鸡也下得去口，脸都绿了，生前也是个体面人。你是超自然公司的帮手，你的目的就是解决灵异事件。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/08/03/39e09666d0f8275516d1e41c109afa10/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><b>小偷模拟器</b></p><p>原价70史地17.5</p><p><img data-gameid="704850" src="https://cdn.max-c.com/heybox/game/header/704850_hqhmS.jpg" referrerpolicy="no-referrer"></p><p>让说话又好听游戏里体验一把，估计现实就没想法。前期有趣后期无聊，心里愧疚，灵魂窒息。好玩确实好玩，上头也确实上头，比恐怖游戏还让我心惊胆战。你可以自由地在沙盒街闲逛偷东西。观察你的目标，收集帮你行窃的信息。</p><p><img class="lazy" data-height="1027" src="https://imgheybox.max-c.com/bbs/2022/08/03/ae267c4186517c6e2df54b07685f3eb0/thumb.jpeg" data-width="1843" referrerpolicy="no-referrer"></p><p><b>阴暗森林</b></p><p>原价48史地14</p><p><img data-gameid="274520" src="https://cdn.max-c.com/heybox/game/header/274520_aICf5.jpg" referrerpolicy="no-referrer"></p><p>我的内心想法，看宣传图片：一看就不好玩，玩上游戏之后，这有点上头啊，俯视角生存游戏，好想知道主角这边发生什么了。危机四伏的森林，搜刮物资，制作武器，发现新的秘密。藏入庇护所，设置障碍物和陷阱，与变异生物战斗等等。</p><p><img class="lazy" data-height="810" src="https://imgheybox.max-c.com/bbs/2022/08/03/d398f75de65b4e5330179d976a0ad7c5/thumb.jpeg" data-width="1440" referrerpolicy="no-referrer"></p>  
+</div>
+            
