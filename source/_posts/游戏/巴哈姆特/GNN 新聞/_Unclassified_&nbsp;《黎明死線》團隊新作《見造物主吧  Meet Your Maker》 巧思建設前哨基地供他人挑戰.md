@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?v=1659596193820'
 author: 巴哈姆特
 comments: false
-date: 2022-08-04 07:09:12
+date: 2022-08-04 08:15:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?v=1659596193820'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?v=1659596193820" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?v=1659596193820" data-srcset="https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -34,9 +34,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 35.95%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?v=1659596209086" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?v=1659596209086" data-srcset="https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/29/33986373ee6c40a574e30bb23b1hmkt5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 63.79%;">
-<figcaption style="padding-bottom: 56.36%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG?v=1659596209086" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.36%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG?v=1659596209086" data-srcset="https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/28/132434ada05cabe2f915798cef1hmks5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -126,7 +126,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/c6f8fa123219873fadfeda0ad71hmku5.
 <div>
  </div>
 <div>
-　　PC、PS4/PS5/Xbox One/Xbox Series X|S《見造物主吧》預定 2023 年問世，</div>
+　　PC、PS4/PS5/Xbox One/Xbox Series X|S《見造物主吧》預定 2023 年問世。</div>
 </div>
 <div>
  </div>
