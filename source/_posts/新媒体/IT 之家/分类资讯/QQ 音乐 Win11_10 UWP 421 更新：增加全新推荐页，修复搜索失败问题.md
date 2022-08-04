@@ -1,0 +1,20 @@
+
+---
+title: 'QQ 音乐 Win11_10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/4029d49b-a83b-4237-989d-f446b6c17083.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzIyMi5wbmc=,g_6,x_22,y_0,a_0,t_100'
+author: IT 之家
+comments: false
+date: Thu, 04 Aug 2022 14:55:34 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/4029d49b-a83b-4237-989d-f446b6c17083.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzIyMi5wbmc=,g_6,x_22,y_0,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1297186" rel="nofollow">肖战割割</a> 的线索投递！</div>
+            <p data-vmark="7644"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 4 日消息，QQ 音乐 Win11/10 UWP 版近日迎来 <span class="accentTextColor">4.2.1 版本更新</span>，添加了全新的“推荐页”，且修复了搜索失败问题。</p><p style="text-align: center;" data-vmark="8e6f"><span class="post-img-item"><img src="https://img.ithome.com/newsuploadfiles/2022/8/4029d49b-a83b-4237-989d-f446b6c17083.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzIyMi5wbmc=,g_6,x_22,y_0,a_0,t_100" w="1440" h="876" title="QQ 音乐 Win11/10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题" width="1440" height="499" referrerpolicy="no-referrer"></span></p><p data-vmark="c1af">从 QQ 音乐 UWP 4.2.1 版本主页面可以看到，<span class="accentTextColor">当用户登录 QQ 音乐后，推荐页就会成为默认页面</span>，而此前的音乐馆放到了第二栏。</p><p data-vmark="f402">用户可在该页面使用<span class="accentTextColor">个性电台、每日 30 首、歌单推荐</span>等。不过IT之家测试，个性电台功能还无法使用，显示歌曲信息异常。</p><p style="text-align: center;" data-vmark="2f7b"><span class="post-img-item"><img src="https://img.ithome.com/newsuploadfiles/2022/8/c11e8a64-e56c-4fb4-9031-4cca1e1aff9c.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_2,x_0,y_57,a_0,t_100" w="1440" h="952" title="QQ 音乐 Win11/10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题" width="1440" height="542" referrerpolicy="no-referrer"></span></p><p style="text-align: justify;" data-vmark="bd19"><span class="post-img-item"></span></p><p style="text-align: center;" data-vmark="5378"><img src="https://img.ithome.com/newsuploadfiles/2022/8/018666c5-3cc1-4278-a980-c74d4df3adb8.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyOC5wbmc=,g_2,x_0,y_13,a_0,t_100" w="833" h="528" title="QQ 音乐 Win11/10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题" width="833" height="520" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="7b0d"><span class="post-img-item"></span>此外，上一版 4.2.0 已支持<span class="accentTextColor">搜索 MV、歌手</span>，功能进一步补全。</p><p style="text-align: center;" data-vmark="d2d8"><img src="https://img.ithome.com/newsuploadfiles/2022/8/1001f5f6-78e5-494d-99fc-ec5e774b8540.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIyMi5wbmc=,g_5,x_0,y_0,a_0,t_100" w="1440" h="994" title="QQ 音乐 Win11/10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题" width="1440" height="566" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="8e87">IT之家了解到，QQ 音乐 UWP 正在<a href="https://www.ithome.com/0/589/203.htm" target="_blank">测试更多改进</a>，包括<span class="accentTextColor">暗色模式、侧边栏、搜索菜单半透明</span>等等。</p><p style="text-align: center;" data-vmark="875d"><img src="https://img.ithome.com/newsuploadfiles/2021/11/c7963d6f-f7af-4032-bfec-517192119a26.png" w="1440" h="1124" title="QQ 音乐 Win11/10 UWP 4.2.1 更新：增加全新推荐页，修复搜索失败问题" width="1440" height="640" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="e622">据商店介绍，QQ 音乐是腾讯公司推出的网络音乐平台，是中国互联网领域领先的正版数字音乐服务的领先平台，同时也是一款免费的音乐播放器，向广大用户提供流畅的在线音乐和丰富多彩的音乐社区服务。海量乐库在线试听、卡拉 ok 歌词模式、最流行新歌在线首发、超好用的音乐管理，绿钻用户还可享受高品质音乐试听、正版音乐下载、免费空间背景音乐设置、MV 观看等特权。</p><p style="text-align: justify;" data-vmark="65c9">此前，Windows 商店版 QQ 音乐改名为了 QQ 音乐 UWP，同时上架 Win32 版的 QQ 音乐。<span class="accentTextColor">并且 QQ 音乐 UWP 将从 Xbox 下架，后续预计也不会再更新。</span></p>
+          
+</div>
+            

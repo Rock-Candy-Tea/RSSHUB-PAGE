@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/08/93ad66e84e181a00f18fce2db01hm0s5.JPG?v=1659532288516'
 author: 巴哈姆特
 comments: false
-date: 2022-08-04 14:08:11
+date: 2022-08-04 15:11:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/08/93ad66e84e181a00f18fce2db01hm0s5.JPG?v=1659532288516'
 ---
 
@@ -16,6 +16,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/08/93ad66e84e181a00f18fce2db01hm0s5.
 <div>
 <div>
 　　Valve 宣布與獨立遊戲開發、發行團隊 Komodo 合作，將把旗下攜帶型遊戲主機 Steam Deck 帶給臺灣、香港、日本、韓國玩家。巴哈姆特編輯部此次趁 Steam Deck 將進軍臺灣之際，受邀深入 Valve 總部採訪，帶領玩家一窺這個創造出《戰慄時空》等知名 PC 遊戲與強大 PC 遊戲平台 Steam 的地方，感受他們特立獨行、沒有頂頭上司的扁平公司文化。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/w9LPgNQXRa0?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
