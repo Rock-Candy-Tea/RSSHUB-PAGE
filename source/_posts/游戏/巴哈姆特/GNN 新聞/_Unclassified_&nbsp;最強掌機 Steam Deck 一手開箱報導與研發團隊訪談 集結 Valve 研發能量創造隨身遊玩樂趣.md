@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/31/e9b6a5f89e86478f85933d5dcc1hlyn5.JPG?v=1659534464743'
 author: 巴哈姆特
 comments: false
-date: 2022-08-04 09:09:18
+date: 2022-08-04 10:10:37
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/e9b6a5f89e86478f85933d5dcc1hlyn5.JPG?v=1659534464743'
 ---
 
@@ -296,7 +296,7 @@ Steam Deck 一開機最先映入眼簾的，就是 Steam 的登入畫面，登�
 <div>
  </div>
 <div>
-　　而在玩家關注的執行效能部分，編輯自己使用前不久推出的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E7%A5%9E" target="_blank">戰神</a>（God of War）》PC 版來測試。最初執行起來不太流暢，原本編輯還想說這款移植自 PS4 的 3A 級遊戲對這種可攜式裝置來說果然還是太沉重了，不過切換到畫質設定時，才發現原來 Steam 自動把之前在 PC 上的高畫質設定給帶過來了。在調回預設的原始畫質後，整個遊戲的運作就變得非常流暢，不亞於在 PS4 上執行的效果，完全是可以順暢遊玩的狀態。</div>
+　　而在玩家關注的執行效能部分，編輯自己使用前不久推出的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E7%A5%9E" target="_blank">戰神</a>（God of War）》PC 版來測試。最初執行起來不太流暢，原本編輯還想說這款移植自 PS4 的 3A 級遊戲對這種可攜式裝置來說果然還是太沉重了。不過切換到畫質設定時，才發現原來 Steam 自動把之前在 PC 上的高畫質設定給帶過來了。在調回預設的原始畫質後，整個遊戲的運作就變得非常流暢，不亞於在 PS4 上執行的效果（實測約 37 FPS），完全是可以順暢遊玩的狀態。</div>
 <div>
  </div>
 <div>
