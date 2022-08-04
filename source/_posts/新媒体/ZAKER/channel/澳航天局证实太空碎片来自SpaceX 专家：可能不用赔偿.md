@@ -1,0 +1,18 @@
+
+---
+title: '澳航天局证实太空碎片来自SpaceX 专家：可能不用赔偿'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2d_1024.jpg'
+author: ZAKER
+comments: false
+date: Thu, 04 Aug 2022 00:53:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2d_1024.jpg'
+---
+
+<div>   
+<p>8 月 4 日消息，澳大利亚航天局证实，在新南威尔士州南部雪山地区发现的数片太空碎片来自 SpaceX 公司建造的飞船。天体物理学家预计，未来几年该地区将会发现更多碎片，估计来自 2020 年发射升空的 SpaceX 龙飞船。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2d_1024.jpg" data-height="633" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2d_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2e_1024.jpg" data-height="619" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62eb84e28e9f0975fa042b2e_1024.jpg" referrerpolicy="no-referrer"></div></div>澳大利亚航天局技术专家上周六造访了这处偏远地区。当地放羊的米克 · 米纳斯（Mick Miners）和乔克 · 华莱士（Jock Wallace）都在各自农场里发现了一块太空碎片。<p></p><p>澳大利亚国立大学天体物理学家布拉德 · 塔克（Brad Tucker）警告称，他发现太空碎片下落的时间和位置与 SpaceX 龙飞船于今年 7 月 9 日上午 7 点再入地球大气层的时间相吻合，这距离飞船于 2020 年 11 月发射升空已经过去了 20 个月。</p><p>塔克认为，这些碎片来自 SpaceX 龙飞船的非加压后备箱，在起飞过程中很关键，但但在飞船返回地球时会被丢弃。</p><p>澳大利亚航天局一名发言人表示：" 我们已经证实，这些碎片来自 SpaceX 任务。我们会继续与我们的美国同行以及其他机构进行适当接触。"</p><p>发言人说：" 如果在社区发现任何疑似碎片，不要自行处理或回收。"" 应该联系 SpaceX 公司的碎片问题热线或碎片回收网站。"</p><p>塔克说，自从宣布发现前两块太空碎片以来，人们又在更西边的地方发现了第三块碎片。</p><p>他预计，既然人们知道这里有碎片，" 未来几周、几个月甚至几年 " 会有更多的人报告发现来自太空的碎片。</p><p>澳大利亚航天局发言人表示，公司 " 根据澳大利亚政府的太空再入碎片计划开展工作，这一计划概述了澳大利亚政府主要机构在如何处理太空再入碎片方面的工作角色和责任 "。</p><p>塔克表示，目前他们正在讨论 SpaceX 是否会收集这些太空碎片。他说，收集相关信息很重要，其中可能涉及到责任划分和损害赔偿界定。</p><p>塔克表示，在他看来，可能出现的情况是，鉴于没有造成损害，SpaceX 就不需要支付费用，这与上世纪 80 年代苏联核动力卫星在加拿大坠毁的情况完全不同。</p><p>塔克说，因为那颗卫星是核动力的，加拿大花费了数百万美元来清理残骸。加拿大要求苏联赔偿 600 万加元（约合 467 万美元），但最终只得到了其中的一半。</p><p>塔克还解释了为什么太空碎片在撞击地面时没有形成一个巨大的陨石坑。</p><p>当飞船重新返回地球大气层时，由于大部分能量被大气层吸收，飞船会急剧减速从而解体。塔克说，" 就像你把一个球扔进窗户，（被砸碎的）玻璃碎片不一定会以球的速度移动。由于能量的传递，它们的速度会变慢。"</p><p>斯威本大学天体物理学家萨拉 · 韦伯（Sara Webb）解释说，这些太空碎片也有可能从最初着陆的地方弹出很远。</p><p>韦伯说，1908 年的通古斯事件能很好说明这一点：" 这样一个巨大的陨石坠入西伯利亚森林。东西伯利亚周围的人们都听到了这一巨大的爆炸，冲击波将当地成千上万的树木夷为平地，但他们一直无法完全确定真正的撞击坑。"</p><p>塔克说，这些太空碎片并不热，因为它们在太空中的大部分时间都很冷。而在穿过地球大气层时，升温的时间相对很短。</p><p>塔克解释，" 这有点像你把一个冷冻披萨从冰箱里拿出来，放到微波炉里加热三秒钟，然后再把它放回冰箱，实际上并不会变热。"</p><p>韦伯说，任何在重返大气层时没有燃烧殆尽的太空碎片都应该溅落到太平洋上一个叫做 " 尼莫点 " 的地方，这里是地球表面距离陆地最偏远的地点。</p><p>美国国家航空航天局发言人表示：" 我们致力于外层空间活动的长期可持续性，包括减少太空碎片。"（辰辰）</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
