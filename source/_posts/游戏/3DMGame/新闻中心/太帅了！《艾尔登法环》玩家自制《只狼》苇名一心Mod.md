@@ -33,7 +33,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220805/1659667590_6226
 想要使用这个 Mod 的玩家需要按照 Hotbite 指定的顺序装备太刀“长牙”、重弩和长矛并安装 Mod，玩家的角色将采用苇名一心的控制方式，和《艾尔登法环》中的双持武器攻击方式有些类似。
 </p>
 <p style="text-indent:2em;">
-新的招式包括闪电斩击、长毛的大范围横扫，以及使用太刀的快速攻击。当然，燧发枪也是可以使用的。
+新的招式包括闪电斩击、长矛的大范围横扫，以及使用太刀的快速攻击。当然，燧发枪也是可以使用的。
 </p>
 <p style="text-indent:2em;">
 <strong><span style="font-size:16px;color:#E56600;">Mod下载地址：</span></strong><a href="https://www.nexusmods.com/eldenring/mods/1956" target="_blank"><strong><span style="font-size:16px;">点击这里</span></strong></a> 

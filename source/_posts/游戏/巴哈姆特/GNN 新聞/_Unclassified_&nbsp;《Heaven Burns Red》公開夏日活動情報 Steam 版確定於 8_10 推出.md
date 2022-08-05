@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/afdd04f9c7ddc29fbfc2584cc81hn615.JPG?v=1659670389181'
 author: 巴哈姆特
 comments: false
-date: 2022-08-05 05:28:05
+date: 2022-08-05 06:12:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/afdd04f9c7ddc29fbfc2584cc81hn615.JPG?v=1659670389181'
 ---
 
@@ -119,7 +119,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/afdd04f9c7ddc29fbfc2584cc81hn615.
 <div>
  </div>
 <div>
-　　先前發表的 Steam 版也決定於 8 月 10 日上市，Steam 版支援鍵盤操作以及 PC、手機的遊玩，並且能互相繼承資料，Steam 版下載頁面也即將於近日公開。</div>
+　　先前發表的 Steam 版也決定於 8 月 10 日上市，Steam 版支援鍵盤操作以及 PC、手機的跨平台遊玩，並且能互相繼承資料，Steam 版下載頁面也即將於近日公開。</div>
 <div>
  </div>
 <div>

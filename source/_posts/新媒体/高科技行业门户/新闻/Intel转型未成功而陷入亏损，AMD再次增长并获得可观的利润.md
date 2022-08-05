@@ -1,0 +1,19 @@
+
+---
+title: 'Intel转型未成功而陷入亏损，AMD再次增长并获得可观的利润'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=9718'
+author: 高科技行业门户
+comments: false
+date: Fri, 05 Aug 2022 05:35:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9718'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;"><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span>和<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-AMD.HTM" target="_blank" title="AMD">AMD</a></span>这对老冤家都公布了二季度的业绩，ADM可谓喜事连连，而Intel则陷入了20多年来的最大阴霾，创下了自1999年以来的最大亏损，而且Intel尚未见到希望。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">AMD公布的二季度业绩显示营收增长70％至65．5亿美元，净利润则同比增长119％至17．07亿美元，创下历史新高纪录，净利润率也达到了26％，摆脱了2016年之前持续多年的阴霾，此前它曾不得不卖出办公大楼以维持zen架构的研发。</span></p><p style="text-indent: 2em; text-align: left;">Intel公布的业绩则颇为糟糕，二季度营收同比下滑17％至153亿美元，利润则变为亏损5亿美元，而去年同期可是盈利51亿美元，可见这一年多时间衰退多么迅速。</p><p style="text-indent: 2em; text-align: left;">导致两家企业发生业绩重大变化的主要是它们的两项业务，分别是PC<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%A4%84%E7%90%86%E5%99%A8.HTM" target="_blank" title="处理器">处理器</a></span>和<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%8A%AF%E7%89%87.HTM" target="_blank" title="服务器芯片">服务器芯片</a></span>业务。在PC处理器市场，AMD已在桌面PC处理器市场超越Intel，不过在整体PC（包括桌面PC、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E7%AC%94%E8%AE%B0%E6%9C%AC.HTM" target="_blank" title="笔记本">笔记本</a></span>，Intel在笔记本电脑市场占据绝对优势）处理器市场仍然由Intel居于第一名，整体PC处理器市场Intel、AMD的市场份额分别为72．3％、27．7％。</p><p style="text-indent: 2em; text-align: left;">在服务器芯片市场则仍然由Intel占据绝对优势，Intel大约占八成多市场份额，AMD则占大约一成多的市场份额。AMD虽然在服务器芯片市场占有的份额不高，但是由于AMD的竞争导致服务器芯片价格快速下滑，而服务器芯片是Intel的主要利润来源，这是导致Intel该季度利润大跌的重要原因。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">自2007年Intel开启tick－tock战术之后，AMD由于资金实力弱小，无法同时在芯片制造工艺和芯片架构方面进行研发，与Intel的差距越拉越大，最终迫使AMD出售了芯片制造业务，该部分业务被阿布扎比投资公司收购并成立了如今的格芯。</span></p><p style="text-indent: 2em; text-align: left;">但是AMD出售了芯片制造业务之后仍然继续衰落，到2014年苏姿丰担任CEO后下定决心研发Zen架构，为了加快Zen架构的研发，当时AMD自身的资金情况也已捉襟见肘，AMD甚至不得不出售办公楼然后再回租的方式筹集资金，最终在2016年推出了Zen架构，由此开始打响翻身仗。</p><p style="text-indent: 2em; text-align: left;">同时Intel在2014年量产14nm之后却陷入芯片工艺研发难以进展的僵局，而为AMD代工的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>却不断取得工艺的突破，也帮了AMD大忙，从那时候起AMD在PC处理器和服务器芯片市场就开始发起了攻势并不断抢占市场。</p><p style="text-indent: 2em; text-align: left;">面对窘境，Intel在2021年委任前CTO基辛格担任CEO，这一年多时间以来Intel在核心架构方面取得了进展推出了12代酷睿，12代酷睿处理器性能得到了大幅提升；但是在芯片制造工艺方面依然难以突破，7nm工艺预计今年下半年量产，然而能否如期量产存在疑问，相比之下台积电下半年将量产3nm工艺，或许是Intel对自家的7nm工艺信心不足，据说Intel已包下了台积电3nm工艺较大比例的产能，当然这也是为了阻止AMD取得台积电的先进工艺产能。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">如今的Intel不仅在PC处理器和服务器芯片市场遭受同样是X86架构的AMD狙击，它被<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>踢出供应链更是让它大受打击。苹果研发的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-ARM.HTM" target="_blank" title="ARM">ARM</a></span>架构处理器M系列在性能方面追上了X86架构，打破了ARM架构的性能桎梏，这对于Intel和AMD都是打击，只不过对Intel的打击更大。</span></p><p style="text-indent: 2em; text-align: left;">如今的Intel就如困兽，芯片制造工艺难以突破，占据优势的X86架构又被ARM迫近，面对诸多困难，Intel除了继续推进芯片制造工艺研发外，还表示与西班牙研发同样是精简指令集的RISC－V架构，似乎Intel也开始寻找新的出路了。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : Intel转型未成功而陷入亏损，AMD再次增长并获得可观的利润</span></p> 
+  
+</div>
+            
