@@ -36,7 +36,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-ba379879e68a96850b67ffb05fd8f5e
  <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_tree-find-control" target="_blank">树视图搜索和过滤</a></strong></li> 
 </ul> 
 <p>树视图例如文件资源管理器，现在支持查找控件。可以在树内按 Ctrl+F 以弹出 Find 控件。可以使用 Find 控件突出显示匹配的元素，或切换 Filter 按钮以隐藏所有与搜索词不匹配的元素。</p> 
-<p><img alt src="https://oscimg.oschina.net/oscnet/up-03a95c1a9479f5f7b9351d5f7a96cc54208.gif" width="500" referrerpolicy="no-referrer"><img alt src="https://oscimg.oschina.net/oscnet/up-f595c919d8d76c34af1a36445ccc4191541.gif" width="600" referrerpolicy="no-referrer"></p> 
+<p><img alt src="https://oscimg.oschina.net/oscnet/up-f595c919d8d76c34af1a36445ccc4191541.gif" width="600" referrerpolicy="no-referrer"></p> 
 <ul> 
  <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_terminal" target="_blank">终端改进</a></strong></li> 
 </ul> 
@@ -63,7 +63,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-ba379879e68a96850b67ffb05fd8f5e
 [mergetool "code-insiders"]
   cmd = code-insiders --wait --merge $REMOTE $LOCAL $BASE $MERGED</code></pre> 
 <ul> 
- <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_go-to-most-recently-failed-cell" target="_blank">NoteBook：转到最近失败的单元格</a></strong>- 直接跳转到笔记本。</li> 
+ <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_go-to-most-recently-failed-cell" target="_blank">NoteBook：转到最近失败的单元格</a></strong></li> 
 </ul> 
 <p>有一个按钮可以跳转到运行失败的 NoteBook 单元格。也可以运行 Notebook: Go to Most Recent Failed Cell<strong style="color:#444444"> </strong>来执行相同的操作。</p> 
 <p><img alt height="232" src="https://oscimg.oschina.net/oscnet/up-4ddd44c7c38dfd83c853610ae7154a1448f.gif" width="600" referrerpolicy="no-referrer"></p> 
@@ -77,7 +77,7 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-ba379879e68a96850b67ffb05fd8f5e
 <p>该扩展识别 Django、Flask 和 FastApi 项目，以及简单的 Python 文件。</p> 
 <p> </p> 
 <ul> 
- <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_editor-sticky-scroll" target="_blank">粘性滚动预览</a></strong>-</li> 
+ <li><strong><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_70%23_editor-sticky-scroll" target="_blank">粘性滚动预览</a></strong>（stickyScroll）</li> 
 </ul> 
 <p>新的滚动 UI 会显示当前源代码的范围，将显示编辑器顶部所在的类/接口/命名空间/函数/方法/构造函数。</p> 
 <p>使用 <code>editor.experimental.stickyScroll.enabled</code>设置启用粘性滚动。</p> 

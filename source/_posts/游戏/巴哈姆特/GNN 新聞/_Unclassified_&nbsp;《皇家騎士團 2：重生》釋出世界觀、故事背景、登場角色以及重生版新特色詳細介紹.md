@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.PNG?v=1659612516550'
 author: 巴哈姆特
 comments: false
-date: 2022-08-05 06:12:39
+date: 2022-08-05 07:08:49
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.PNG?v=1659612516550'
 ---
 
 <div>   
 <div>
 <div>
-　　SQUARE ENIX 宣布，戰略模擬角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%A3%AB%E5%9C%98+2%EF%BC%9A%E9%87%8D%E7%94%9F" target="_blank">皇家騎士團 2：重生</a>（Tactics Ogre: Reborn）》預計將於 11 月 11 日在 PS5 / PS4 / Nintendo Switch 平台、11 月 12 日在 Steam（PC）平台推出，皆支援繁體中文。官方同時公布遊戲世界觀、故事背景、登場角色以及重製版新特色等詳細資訊，供玩家參考。</div>
+　　SQUARE ENIX 宣布，戰略模擬角色扮演遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%A3%AB%E5%9C%98+2%EF%BC%9A%E9%87%8D%E7%94%9F" target="_blank">皇家騎士團 2：重生</a>（Tactics Ogre: Reborn）》預計將於 11 月 11 日在 PS5 / PS4 / Nintendo Switch 平台、11 月 12 日在 Steam（PC）平台推出，皆支援繁體中文。官方同時公布遊戲世界觀、故事背景、登場角色以及重生版新特色等詳細資訊，供玩家參考。</div>
 <div>
  </div>
 <div>
@@ -91,7 +91,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 182.58%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG?v=1659671512042" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 182.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG?v=1659671512042" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/24/d77a26d52e70a7921e523045fb1hmyk5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -103,7 +103,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 172.90%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG?v=1659671525465" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 172.90%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG?v=1659671525465" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/22/05a9cbb3c61d89eb859ba4764a1hmyi5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -297,7 +297,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 168.52%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG?v=1659671840226" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG 2x" style="max-width: unset;" title="「我能為了理想，讓這雙手染上鮮血嗎……？」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 168.52%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG?v=1659671840226" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/7da2025f3b073373ebf8c0c8c01hmv35.JPG 2x" style="max-width: unset;" title="「我能為了理想，讓這雙手染上鮮血嗎……？」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「我能為了理想，讓這雙手染上鮮血嗎……？」</figure>
 </li>
@@ -320,7 +320,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 174.45%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG?v=1659671855801" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG 2x" style="max-width: unset;" title="「答應姐姐，別離開我身邊，好嗎？ 」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 174.45%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG?v=1659671855801" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/98/af3faa008aa7f0ce9039526f1a1hmv25.JPG 2x" style="max-width: unset;" title="「答應姐姐，別離開我身邊，好嗎？ 」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「答應姐姐，別離開我身邊，好嗎？ 」</figure>
 </li>
@@ -343,7 +343,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 187.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG?v=1659672200851" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG 2x" style="max-width: unset;" title="「我又不是喜歡戰鬥，只是不想白白浪費生命。」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 187.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG?v=1659672200851" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/305b827d70e3d36a16a2ba58a81hmzo5.PNG 2x" style="max-width: unset;" title="「我又不是喜歡戰鬥，只是不想白白浪費生命。」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「我又不是喜歡戰鬥，只是不想白白浪費生命。」</figure>
 </li>
@@ -368,7 +368,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 176.65%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG?v=1659673799400" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 176.65%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG?v=1659673799400" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/bf53e5d26f41560a625bb57a8f1hmzp5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -388,7 +388,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 230.58%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG?v=1659673823138" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG 2x" style="max-width: unset;" title="「你在擔心什麼？放心吧，瓦瑞利亞的眾神與我們同在。 」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 230.58%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG?v=1659673823138" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/fc9396b3552158c0d3c6e9643b1hmzq5.PNG 2x" style="max-width: unset;" title="「你在擔心什麼？放心吧，瓦瑞利亞的眾神與我們同在。 」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「你在擔心什麼？放心吧，瓦瑞利亞的眾神與我們同在。 」</figure>
 </li>
@@ -411,7 +411,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 207.10%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG?v=1659673839010" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG 2x" style="max-width: unset;" title="「這世上才沒有『公平』這個字眼！人打從一出生就是『不公平』的！」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 207.10%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG?v=1659673839010" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/67/750bb5d3f2c9e6e56ae3d1b9ab1hmzr5.PNG 2x" style="max-width: unset;" title="「這世上才沒有『公平』這個字眼！人打從一出生就是『不公平』的！」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「這世上才沒有『公平』這個字眼！人打從一出生就是『不公平』的！」</figure>
 </li>
@@ -434,7 +434,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:66%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 214.45%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG?v=1659673854388" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG 2x" style="max-width: unset;" title="「他們想宣洩不滿，才置自身於弱者地位。他們是自願成為『弱者』的啊。」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 214.45%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG?v=1659673854388" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/68/7005521c78a21a0cd3b55dfccc1hmzs5.PNG 2x" style="max-width: unset;" title="「他們想宣洩不滿，才置自身於弱者地位。他們是自願成為『弱者』的啊。」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「他們想宣洩不滿，才置自身於弱者地位。他們是自願成為『弱者』的啊。」</figure>
 </li>
@@ -457,7 +457,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:50%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 299.61%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG?v=1659673893053" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG 2x" style="max-width: unset;" title="「你以為我會屈服於卑賤的威斯塔人嗎！」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 299.61%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG?v=1659673893053" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/eb42001f1f8b3c936729eda1ed1hmzt5.PNG 2x" style="max-width: unset;" title="「你以為我會屈服於卑賤的威斯塔人嗎！」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 「你以為我會屈服於卑賤的威斯塔人嗎！」</figure>
 </li>
@@ -484,7 +484,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/b68d5ab56e20961bbb5e8eb2a01hmyl5.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG?v=1659673914630" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG?v=1659673914630" data-srcset="https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/78/bd2ba622a50e2f96a9b6c7b1081hn025.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -510,7 +510,7 @@ Digital Premium Edition</h3>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG?v=1659673934044" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG?v=1659673934044" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/826a463e0809b8ea5ba5af6e181hn015.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

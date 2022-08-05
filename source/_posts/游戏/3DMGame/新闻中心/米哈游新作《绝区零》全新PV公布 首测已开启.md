@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220805/1659669535_6476
 今日(8月5日)米哈游宣布《绝区零》首次测试“调律测试”已正式开启，支持iOS和PC平台，拥有测试资格的玩家可以下载游玩了。官方还公布了全新PV，一起来看看吧！
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#E56600;font-size:16px;">官网地址：<a href="https://zzz.mihoyo.com/?utm_source=pcadbdpz" target="_blank"><strong><span style="color:#337FE5;"><u>点击进入</u></span></strong></a> </span></strong> 
+<strong><span style="color:#E56600;font-size:16px;">官网地址：<strong><span style="color:#337FE5;"><u><a href="https://zzz.mihoyo.com/?utm_source=oopp3dm" target="_blank">点击进入</a></u></span></strong> </span></strong> 
 </p>
 <p style="text-indent:2em;">
 <strong>全新PV：</strong> 
