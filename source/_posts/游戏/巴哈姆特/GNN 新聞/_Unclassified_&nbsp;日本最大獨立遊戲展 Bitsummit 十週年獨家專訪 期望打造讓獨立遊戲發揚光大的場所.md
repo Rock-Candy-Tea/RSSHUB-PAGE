@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/41/644389d1084c2e9ce0db1e202c1hlcp5.JPG?v=1659498175214'
 author: 巴哈姆特
 comments: false
-date: 2022-08-05 00:58:23
+date: 2022-08-05 03:13:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/41/644389d1084c2e9ce0db1e202c1hlcp5.JPG?v=1659498175214'
 ---
 
@@ -56,7 +56,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/41/644389d1084c2e9ce0db1e202c1hlcp5.
 <li class="bh-grids-img-box" style="width: 59.79%;">
 <figcaption style="padding-bottom: 66.81%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/f67feda7699197e936999e7b1d1hlo75.JPG?v=1659515480118" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/f67feda7699197e936999e7b1d1hlo75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/f67feda7699197e936999e7b1d1hlo75.JPG 2x" title="John Davis" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
-John Davis</figure>
+John 理事</figure>
 </li>
 </ul>
 </div>
