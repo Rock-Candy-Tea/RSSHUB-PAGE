@@ -1,0 +1,18 @@
+
+---
+title: '奇幻卡牌《预言奇谈》上线Steam：售价68！支持简中！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1170080/header_schinese.jpg?t=1658307263'
+author: 小黑盒
+comments: false
+date: 2022-08-05 11:08:50
+thumbnail: 'https://cdn.akamai.steamstatic.com/steam/apps/1170080/header_schinese.jpg?t=1658307263'
+---
+
+<div>   
+<blockquote><p>来源：游侠网</p><p><a href="https://www.ali213.net/news/html/2022-8/696527.html" target="_blank">点击此处查看原文>>></a></p></blockquote><p><img data-gameid="1170080" src="https://cdn.akamai.steamstatic.com/steam/apps/1170080/header_schinese.jpg?t=1658307263" referrerpolicy="no-referrer"></p><p>法国Alekemi工作室发布了奇幻叙事卡牌游戏《预言奇谈》宣传片，游戏将于9月15日于Steam平台正式发售。</p><p><img class="lazy" data-height="215" src="https://i1.max-c.com/imgx/2022/08/05/0377d31429e5404483f1cce687c3b2d31659681729.jpg" data-width="460" referrerpolicy="no-referrer"></p><p><a href="https://store.steampowered.com/app/1170080/_/?utm_source=gamersky&utm_medium=CN_Media" target="_blank">Steam商城>>></a></p><p><b>宣传视频：</b></p><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=599205917&bvid=BV1MB4y1k7nK&cid=794140918&page=1" width="480"></iframe></p><p>法国Alekemi工作室联合Dear Villager在《预言奇谈》中，尝试将叙事与卡牌探索以全新方式结合，创造出玩法独特的卡牌游戏，打造独特的“桌上游戏“氛围。其中故事的走向全部由您来定夺！<br></p><p>《预言奇谈》将于9月15日上线Steam，您可以演绎出只属于自己的冒险！游戏本体售价68元，豪华版首周八折，折后售价89.6元，其中包括《预言奇谈》的OST和电子艺术集。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/08/05/8cf1613a760b4707bb3f4ea8efef52f31659681730.jpg" data-width="1280" referrerpolicy="no-referrer"></p><p><b>游戏简介：</b></p><p>《预言奇谈》是一款剧情丰富的回合制卡牌战斗游戏。在世界因一个邪恶的预言而注定毁灭之时，玩家将扮演一个名为沃尔佩恩的小偷，他将和好友一起探明邪恶诅咒的真相，踏上决定世界命运的奇幻之旅。亦正亦邪间，沃尔佩恩到底是拯救还是毁灭世界？一切由你定夺。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/08/05/11583d10790f4465a59a8cf65bd1cce51659681730.png" data-width="1280" referrerpolicy="no-referrer"></p><p><b>游戏特点：</b></p><p>-极具复玩性的策略玩法，多结局的故事分支，每个选择都至关重要</p><p>-奇幻派艺术风格卡牌，搭配合作棋盘玩法，打造独特的“桌上游戏”氛围</p><p>-由曾经为《雷曼》、《超越善恶》编曲的的法国著名作曲家Christophe Héral打造原创配乐</p><p>-《关键角色》、《机械之声的传奇》配音演员Travis Willingham全程配音</p><p>-支持简体中文等多种语言</p><p><img class="lazy" data-height="2160" src="https://i1.max-c.com/imgx/2022/08/05/75b5356bfce549cf978db8369542411e1659681732.png" data-width="3840" referrerpolicy="no-referrer"></p><p><b>开发者访谈：</b></p><p>“《预言奇谈》与市面上的所有游戏不一样，卡牌的运用不仅仅是在于战斗期间或者与敌人讨价还价，卡牌的选择也决定了故事的走向。例如，决定了如何渗透进敌方要塞，及招募哪位角色。”Alkemi工作室创始人Alain Puget说到，“《预言奇谈》不仅仅是一个卡牌游戏，它代表一段冒险。我们迫不及待的想在9月15日游戏上线时，把这段冒险与你们分享。”</p><p>“《预言奇谈》不仅仅是一个CCG游戏，它更类似一个桌面冒险游戏。游戏音乐由作曲家Christophe Héral原创打造，配音则是由行业老兵Travis Willingham倾情演绎。《预言奇谈》强调自由、多分支选择和其独特的魅力。”</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/08/05/b7d32deca00a4942bde6ad306c3084721659681733.png" data-width="1280" referrerpolicy="no-referrer"></p><p><b>关于Alkemi工作室：</b></p><p>Alkemi是一家成立超过10年的独立游戏研发工作室。多年以来深耕于游戏制作与视觉工作中，致力于打造中体量、让人耳目一新的游戏产品。工作室同样为其他游戏厂商提供技术及美术方面的解决方案。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/08/05/e83bc4dee0674c0494936b6d27fbbced1659681734.png" data-width="1280" referrerpolicy="no-referrer"></p><p><b>关于Dear VillagersDear：</b></p><p>Villagers是Plug In Digital的发行品牌。该工作室专为PC和主机平台玩家服务，提供让人回味无穷而又独特的单机游戏体验。Dear Villagers旗下的游戏包括屡获殊荣的《遗忘之城》、《纳赫鲁博王国地下城》、《灾厄逆刃》和《永恒边缘》。</p><p><img class="lazy" data-height="720" src="https://i1.max-c.com/imgx/2022/08/05/6aff0ade1949448fb77cdc95f868a5311659681735.png" data-width="1280" referrerpolicy="no-referrer"></p>  
+</div>
+            
