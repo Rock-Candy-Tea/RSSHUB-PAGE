@@ -1,0 +1,94 @@
+
+---
+title: 'APP网购维权，难辨经营者？法院：公示不清楚，开发者担责！'
+categories: 
+ - 金融
+ - 新浪财经
+ - 新浪财经－国內
+headimg: 'https://n.sinaimg.cn/sinakd20220806s/300/w1080h1620/20220806/ef75-3408faf1be41c3c1d94fd866589bad07.jpg'
+author: 新浪财经
+comments: false
+date: Sat, 06 Aug 2022 13:53:57 GMT
+thumbnail: 'https://n.sinaimg.cn/sinakd20220806s/300/w1080h1620/20220806/ef75-3408faf1be41c3c1d94fd866589bad07.jpg'
+---
+
+<div>   
+<p cms-style="font-L color210">　　网购订单被无故取消，维权时被告辩称“告错了人”．．．．．．电商APP经营主体公示模糊，违约责任该由谁来承担？近日，北京互联网法院审结了一起网络服务合同纠纷案，判令被告A公司于判决生效后7日内将涉案商品交付原告，并给付原告经济损失1元，原告于判决生效后7日内支付货款。一审判决后，被告上诉，二审维持原判，现判决已生效。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">案情回顾</font></p>
+<p cms-style="font-L">　　原告刘先生诉称，其在某商城上的某自营店铺预约抢购了涉案商品并已支付成功，商城向其发送了收到订单的确认邮件，但之后某商城单方取消并删除了该订单。当刘先生与商城客服人员沟通时，客服人员称，订单取消是系统审核自动拦截，而非人工操作，订单取消后无法恢复，建议刘先生重新预约抢购。刘先生向12315消费者投诉<a href="https://tousu.sina.com.cn/" target="_blank">【进入黑猫投诉】</a>举报专线投诉后，协商和解未果。</p>
+<p cms-style="font-L">　　刘先生认为，某商城单方取消并删除已经支付完成的订单，构成违约，故将该商城APP的开发者A公司诉至法院，要求A公司继续履行合同，并赔偿经济损失1元。</p>
+<p cms-style="font-L">　　被告A公司辩称，其不属于适格被告。A公司不是某商城APP的经营者及销售者，该APP的实际经营者为其关联公司B公司。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">争议焦点</font></p>
+<p cms-style="font-L">　　A公司是否是适格被告？A公司是否应当承担违约责任？</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">法院经审理认为</font></p>
+<p cms-style="font-L color210">　　<font cms-style="font-L strong-Bold color210">1.A公司是本案适格被告</font></p>
+<p cms-style="font-L">　　本案中，刘先生在某商城APP上的自营店铺购买涉案商品，并提供了证据证明APP的开发者为A公司。打开该商城APP后未能见到APP对其实际经营者有清晰、显著的公示。经在商城APP上查询《隐私政策》，显示为“本政策仅适用于B公司及其关联公司（包括但不限于A公司）提供的产品和服务及其延伸的功能……”由此可见，虽然A公司辩称商城APP的实际经营者为B公司，但A公司与其关联公司对“自营”的销售主体信息披露不充分。对于消费者而言，获知APP运营主体的方式主要通过查看APP的开发者和供应商，在A公司未提供相反证据的情况下，应当认定其为某商城APP的运营者，应当对涉案自营商品承担经营者和销售者的责任。</p>
+<p cms-style="font-L color210">　　<font cms-style="font-L strong-Bold color210">2.A公司应当承担违约责任</font></p>
+<p cms-style="font-L">　　本案中，刘先生按照商品抢购规则成功抢购商品并付款后，与A公司之间成立信息网络买卖合同关系，该合同系当事人之间真实的意思表示，不违反法律行政法规的强制性规定，应为有效。A公司无正当理由单方面取消订单拒绝发货的行为，构成违约。刘先生要求被告继续履行发货义务的诉讼请求，有事实基础和法律依据，予以支持。就涉案订单而言，刘先生与被告客服人员协商，后又向相关部门投诉，A公司仍未及时解决涉案纠纷，应对其违约行为进行一定的赔偿，刘先生主张经济损失1元在合理范围内，予以支持。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">裁判结果</font></p>
+<p cms-style="font-L">　　北京互联网法院一审判决，被告A公司于判决生效后7日内将涉案商品交付原告，并给付原告经济损失1元。原告于判决生效后7日内支付货款。一审判决后，被告上诉，二审维持原判，现判决已生效。</p>
+<p cms-style="font-L">　　<font cms-style="font-L strong-Bold">法官提示</font></p>
+<div class="img_wrapper"><img id="0" src="https://n.sinaimg.cn/sinakd20220806s/300/w1080h1620/20220806/ef75-3408faf1be41c3c1d94fd866589bad07.jpg" alt referrerpolicy="no-referrer"><span class="img_descr"></span></div>
+<p cms-style="font-L align-Center">　　北京互联网法院法官刘书涵</p>
+<p cms-style="font-L">　　根据相关法律法规，电子商务平台经营者对其标记为自营的业务依法承担商品销售者或者服务者的民事责任。电子商务经营者发布的商品或者服务信息符合要约条件的，用户选择该商品或者服务并提交订单成功，合同成立。经营者应诚信经营，单方无故随意取消订单将构成合同违约。</p>
+<p cms-style="font-L">　　随着互联网和智能手机的发展，网络购物的渠道也日益丰富，通过手机APP下单日渐成为人们常用的消费方式。但当前手机APP商品或服务的进入端口纷繁复杂，有电商平台自营店铺提供商品或服务，有第三方店铺在电商平台进行经营，有通过公众号宣传导流、社交短视频平台跳转方式提供商品或服务，还有一订单多服务商的集合式服务等。而手机APP在公示商品或服务的提供者身份方面存在较多问题，如APP在应用市场公示的主体、服务条款显示的主体与实际运营主体不一致，同款APP在不同应用市场中公示的主体不相同，在服务条款中公示多个关联公司导致实际运营主体不易区分，以及集合式服务中一笔订单存在多个服务提供者但公示不明晰等，在出现纠纷时，上述问题往往增大了消费者的维权难度。</p>
+<p cms-style="font-L">　　APP有义务采用清晰、显著、合理的方式告知消费者明确的经营主体，以保障消费者维权路径的畅通。在公示平台经营者身份方面，在无显著、清晰的方式标示经营者及销售者的情况下，作为APP的开发商和供应商，对自营商品及服务要承担平台经营者的责任，不能以关联公司的方式模糊公示经营者，亦不能在发生纠纷时，以主体选择错误为由，延长消费者的维权周期，增加消费者的维权成本。</p>
+<p cms-style="font-L color0">　　<font cms-style="font-L strong-Bold color210">法条链接</font></p>
+<p cms-style="font-L">　　<font cms-style="font-L color210"><font cms-style="font-L strong-Bold color210">《中华人民共和国电子商务法》第三十七条</font></font><font cms-style="font-L"> 电子商务平台经营者在其平台上开展自营业务的，应当以显著方式区分标记自营业务和平台内经营者开展的业务，不得误导消费者。</font></p>
+<p cms-style="font-L">　　电子商务平台经营者对其标记为自营的业务依法承担商品销售者或者服务提供者的民事责任。</p>
+<p cms-style="font-L">　　<font cms-style="font-L color210"><font cms-style="font-L strong-Bold color210">《中华人民共和国电子商务法》第四十九条</font></font> 电子商务经营者发布的商品或者服务信息符合要约条件的，用户选择该商品或者服务并提交订单成功，合同成立。当事人另有约定的，从其约定。</p>
+<p cms-style="font-L">　　电子商务经营者不得以格式条款等方式约定消费者支付价款后合同不成立；格式条款等含有该内容的，其内容无效。</p>
+<p cms-style="font-L">　　<font cms-style="font-L color210"><font cms-style="font-L strong-Bold color210">《中华人民共和国民法典》第五百七十七条</font></font>  当事人一方不履行合同义务或者履行合同义务不符合约定的，应当承担继续履行、采取补救措施或者赔偿损失等违约责任。</p>
+<p cms-style="font-L">　　<font cms-style="font-L color210"><font cms-style="font-L strong-Bold color210">《中华人民共和国民法典》第五百八十三条</font></font>  当事人一方不履行合同义务或者履行合同义务不符合约定的，在履行义务或者采取补救措施后，对方还有其他损失的，应当赔偿损失。</p><!-- news_keyword_pub,stock, -->
+
+
+
+
+
+
+
+<!-- 正文下iframe -->
+
+
+<!-- 正文下iframe -->
+
+<!-- 总声明-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- 总声明-->
+
+<!-- 文末二维码 start -->
+
+
+            <!-- 文末二维码 start -->
+            <style>
+            .appendQr_wrap&#123;border:1px solid #E6E6E6;padding:8px;&#125;
+            .appendQr_normal&#123;float:left;&#125;
+            .appendQr_normal img&#123;width:74px;&#125;
+            .appendQr_normal_txt&#123;float:left;font-size:20px;line-height:74px;padding-left:20px;color:#333;&#125;
+            </style>
+            <div class="clearfix appendQr_wrap">
+                <div class="appendQr_normal"><img src="https://n.sinaimg.cn/finance/cece9e13/20200514/343233024.png" referrerpolicy="no-referrer"></div>
+                <div class="appendQr_normal_txt">海量资讯、精准解读，尽在新浪财经APP</div>
+            </div>
+            <!-- 文末二维码 start -->
+
+            <!-- 文末二维码 start -->
+
+<!-- 编辑姓名及工作代码 -->
+
+<p class="article-editor">责任编辑：余坤航 </p>
+<!-- 编辑姓名及工作代码-->
+
+  
+</div>
+            
