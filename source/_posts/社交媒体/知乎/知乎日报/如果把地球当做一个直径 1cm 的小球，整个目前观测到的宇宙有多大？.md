@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162'
+headimg: 'https://pic2.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-08-07 09:08:41
-thumbnail: 'https://pic1.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162'
+date: 2022-08-07 10:09:21
+thumbnail: 'https://pic2.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic2.zhimg.com/v2-252e3ec916cb64d6a6669d3ecbe21219_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">兔先</span>
 <a href="https://www.zhihu.com/question/311937174/answer/601606537" class="originUrl" hidden>查看知乎原文</a>
 </strong>
