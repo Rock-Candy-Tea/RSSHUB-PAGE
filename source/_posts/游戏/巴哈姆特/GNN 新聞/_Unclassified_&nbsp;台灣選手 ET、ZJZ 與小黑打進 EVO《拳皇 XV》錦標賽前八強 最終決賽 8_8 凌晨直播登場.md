@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/41/cb433b3017c95377041b9df1f91hdv95.JPG?v=1659877949081'
 author: 巴哈姆特
 comments: false
-date: 2022-08-07 14:08:37
+date: 2022-08-07 15:09:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/41/cb433b3017c95377041b9df1f91hdv95.JPG?v=1659877949081'
 ---
 
 <div>   
 <div>
 <div>
-　　台灣格鬥遊戲選手 ET 林家弘、ZJZ 曾家鎮與小黑陳大寶，在 8 月 5～7 日在美國拉斯維加斯舉辦的世界最大規模格鬥遊戲大賽「Evolution Championship Series 2022（EVO 2022）」《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%B3%E7%9A%87%20XV" target="_blank">拳皇 XV</a>》錦標賽中，成功打進前八強勝部，將於台灣時間 8 月 8 日凌晨 1:00 在大舞台展開最終八強決賽，全程透過 Twitch 直播。</div>
+　　台灣格鬥遊戲選手 ET 林家弘、ZJZ 曾家鎮與小黑陳大寶，在 8 月 5～7 日在美國拉斯維加斯舉辦的世界最大規模格鬥遊戲大賽「Evolution Championship Series 2022（EVO 2022）」《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%B3%E7%9A%87%20XV" target="_blank">拳皇 XV</a>》錦標賽中，成功打進前八強，將於台灣時間 8 月 8 日凌晨 1:00 在 EVO 主舞台展開最終八強決賽，全程透過 Twitch 直播。</div>
 <div>
  </div>
 <div>
@@ -27,7 +27,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/41/cb433b3017c95377041b9df1f91hdv95.
 <div>
  </div>
 <div>
-　　本次 EVO 2022《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%B3%E7%9A%87%20XV" target="_blank">拳皇 XV</a>》錦標賽中，台灣選手 ET、ZJZ 與小黑從前上百名參賽選手中脫穎而出，一路以無敗的成績過關斬將拿下前八強勝部三個名額，是本次表現最亮眼的地區。台灣選手小寶則是在八強決定戰敗部敗給日本選手 mok 止步第九。ET、ZJZ 與小黑將於台灣時間 8 月 8 日凌晨 1:00 舉辦的決賽中，與勝部的韓國選手 Lacid、敗部的日本選手 Score、mok 及墨西哥選手 Seis mx、Pako 共同角逐最後的冠軍寶座。</div>
+　　在本次 EVO 2022《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%B3%E7%9A%87%20XV" target="_blank">拳皇 XV</a>》錦標賽中，台灣選手 ET、ZJZ 與小黑從數百名參賽選手中脫穎而出，一路以無敗的成績過關斬將拿下前八強勝部三個名額，是本次表現最亮眼的地區。台灣選手小寶則是在八強決定戰敗部敗給日本選手 mok 止步第九。ET、ZJZ 與小黑將於台灣時間 8 月 8 日凌晨 1:00 舉辦的決賽中，與勝部的韓國選手 Lacid、敗部的日本選手 Score、mok 及墨西哥選手 Seis mx、Pako 共同角逐最後的冠軍寶座。</div>
 <div>
  </div>
 <div>
