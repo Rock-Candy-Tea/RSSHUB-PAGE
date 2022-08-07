@@ -21,10 +21,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220807/1659838647_5147
 Wire在最新的博客文章里并没有提到这些，而是单独把桃子和黄瓜的图片摆出来，让玩家感觉似乎别有用意：
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838647_514734.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838647_514734.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838647_118831.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838647_118831.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在之前的介绍中，SE表示玩家细心照料农作物的话会得到奖励，但对于玩家与NPC之间的关系能发展到哪一步，似乎有些语焉不详。
@@ -33,7 +33,7 @@ Wire在最新的博客文章里并没有提到这些，而是单独把桃子和�
 在本作中，玩家可以将作物直接卖到市场，也可以在加工成产品之后以高价卖出。当然，本作还会有钓鱼系统。玩家可以升级鱼竿，从而获得更高级的获物。本作还有迷宫系统，玩家可以与NPC组队探索战斗。招募队友还可获得转职其特殊职业的机会，帮助NPC解决生活当中的问题就可以增进关系，获得全新奖励。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838639_586141.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220807/1659838639_586141.jpg" alt="SE种田游戏《Harvestella》发布新图 让人浮想联翩" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 但《Harvestella》也不是那么休闲。本作除春夏秋冬四季之外，还有第五季。在第五季中，所有作物将会死亡，致命尘埃迫使人们留在室内。玩家需要提前规划好季节变换，并为第五季做好准备，同时也要准备好解开这个死亡季节背后的谜团。
