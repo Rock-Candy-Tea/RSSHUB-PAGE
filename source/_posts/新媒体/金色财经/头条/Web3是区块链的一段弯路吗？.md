@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=4024'
+headimg: 'https://picsum.photos/400/300?random=6050'
 author: 金色财经
 comments: false
-date: Mon, 08 Aug 2022 05:13:18 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4024'
+date: Mon, 08 Aug 2022 07:37:41 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6050'
 ---
 
 <div>   
-将技术主义与蒙昧资本主义的结合，不仅会带来资本主义的过度膨胀，还会进一步加深人在资本主义中的异化。  
+本篇文章，我们将进一步讨论web3背后的技术悖论——为什么这种意义上的web3不仅对于社会是有害的，对于他们所捍卫的区块链技术同样也是一种损害。  
 </div>
             
