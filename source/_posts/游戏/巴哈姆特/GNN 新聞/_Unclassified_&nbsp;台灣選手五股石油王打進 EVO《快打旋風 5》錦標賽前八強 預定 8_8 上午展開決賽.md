@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/56/8ec783a0278eadcbde9b48f4711ho2c5.JPG?v=1659881500008'
 author: 巴哈姆特
 comments: false
-date: 2022-08-07 15:09:10
+date: 2022-08-08 00:45:22
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/8ec783a0278eadcbde9b48f4711ho2c5.JPG?v=1659881500008'
 ---
 
@@ -62,7 +62,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/56/8ec783a0278eadcbde9b48f4711ho2c5.
 <div>
  </div>
 <div>
-　　本次 EVO 2022《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+5+%E5%86%A0%E8%BB%8D%E7%89%88" target="_blank">快打旋風 5 冠軍版</a>》錦標賽由 Gachikun、梅原大吾、Kawano、Tokodo 四位日本好手包辦前八強勝部，次之為美國選手的敗部兩個名額與法國、台灣選手的敗部一個名額。詳細資訊如下：</div>
+　　本次 EVO 2022《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8+5+%E5%86%A0%E8%BB%8D%E7%89%88" target="_blank">快打旋風 5 冠軍版</a>》錦標賽前八強由日本好手 Gachikun、梅原大吾、Kawano、Tokido 包辦勝部四個名額，敗部四個名額則分別為美國選手 Justakid、iDom，法國選手 Mister Crimson 與台灣選手五股石油王拿下。詳細資訊如下：</div>
 <div>
  </div>
 <div>
