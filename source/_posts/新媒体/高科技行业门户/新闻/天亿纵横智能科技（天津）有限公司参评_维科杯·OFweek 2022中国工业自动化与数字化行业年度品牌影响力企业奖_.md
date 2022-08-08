@@ -1,0 +1,19 @@
+
+---
+title: '天亿纵横智能科技（天津）有限公司参评_维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/8/lisha/20220808174010_1659951610096516612.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 08 Aug 2022 09:37:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/8/lisha/20220808174010_1659951610096516612.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2022中国<a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a>及<a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a>行业年度评选（简称OFweek Industrial Automation & Digitization Awards 2022），是由中国高科技行业门户OFweek维科网主办的中国工业<a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a>及<a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a>行业的一大品牌盛会，亦是高科技行业具有专业性、影响力的评选之一。</p><p style="text-indent: 2em; text-align: left;">此次活动旨在为<a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a>和<span class="hrefStyle"><a href="http://robot.ofweek.com/KW-shuzihua.html" target="_blank" title="数字化">数字化</a></span>行业的产品、技术和企业搭建品牌传播展示平台，并借助OFweek维科网平台资源及影响力，向行业用户和市场推介创新产品与方案，鼓励更多企业投入技术创新；同时为行业输送更多创新产品、前沿技术，一同畅想工业<a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a>及数字化行业的未来。</p><p style="text-indent: 2em; text-align: left;">维科杯·OFweek 2022中国<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”将于2022年7月18日－8月19日为网络投票阶段，颁奖典礼将于9月27日在深圳会展中心举办。</p><p style="text-indent: 2em; text-align: left;">目前，活动正处于火热的网络投票阶段，业内企业积极响应。天亿纵横智能科技（天津）有限公司已正式参评“维科杯·OFweek 2022中国工业<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>与数字化行业年度品牌影响力企业奖”。</p><p style="text-indent: 2em; text-align: left;">参评奖项：维科杯·OFweek 2022中国工业自动化与数字化行业年度品牌影响力企业奖</p><p style="text-indent: 2em; text-align: left;">企业介绍：</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/8/lisha/20220808174010_1659951610096516612.png" width="400" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">天亿纵横智能科技（天津）有限公司于 2021 年 11月，在经开区注册成立。是人工智能、<span class="hrefStyle"><a href="https://robot.ofweek.com/" target="_blank" title="机器人">机器人</a></span>、铁路智能装备研发生产单位，从事中国铁路、地铁机器人、智能检修装备的研发，具备资深铁路背景，在铁路人工智能、机器人领域具有垄断地位；</p><p style="text-indent: 2em; text-align: left;">目前高铁故障检测机器人已经在西安铁路局集团有限公司动车段、成都铁路局集团有限公司动车段投入应用。</p><p style="text-indent: 2em; text-align: left;">铁路、地铁智能检修检测领域未来10年市场份额近千亿，天亿纵横是中国铁路智能检修装备领域准独角兽。</p><p style="text-indent: 2em; text-align: left;">参评理由：</p><p style="text-indent: 2em; text-align: left;">铁路（高铁、普客、重载机车、普货等）、<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310025-randaojiaotong.html" target="_blank" title="轨道交通">轨道交通</a></span>（地铁机车、城轨机车等）需要大量的智能检修装备，尤其故障检测机器人、故障检修机器人等AI智能装备，目前尚处于市场细分阶段，市场没有被划分。</p><p style="text-indent: 2em; text-align: left;">以故障检测机器人为例，全中国约为120亿级市场，普客及</p><p style="text-indent: 2em; text-align: left;">货车约为300亿市场，轨道交通约为200级亿市场，而检修AI智能装备基建投资更为惊人。</p><p style="text-indent: 2em; text-align: left;">陆东福在2021年1月4日说，“2020年全国铁路完成固定资产</p><p style="text-indent: 2em; text-align: left;">投资7819亿元，其中基本建设投资完成5550亿元以上”，也就是说2020年装备投资完成了2269亿元。即便算上维修投资，这也是一个匪夷所思的数字。</p><p style="text-indent: 2em; text-align: left;">历史上，装备投资能到1500-1600亿元已经算逆天了。实际上， 2020年装备投资是极小年，新造投资或不到800亿元。如果年度装备投资真的可以超过2000亿元。</p><p style="text-indent: 2em; text-align: left;">投票时间：本届维科杯·OFweek 2022中国工业自动化与数字化行业年度评选“OFweek Industrial Automation & Digitization Awards 2022”活动将于7月18日进入投票阶段，欢迎各位踊跃投票！</p><p style="text-indent: 2em; text-align: left;">投票地址：https://www.ofweek.com/award/2022/im/vote.html#vote-rules</p> 
+  
+</div>
+            
