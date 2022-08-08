@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/credit-suisse/'
 author: Inside Design
 comments: false
-date: 2022-08-08 06:12:18
+date: 2022-08-08 07:08:42
 thumbnail: 'https://www.invisionapp.com/inside-design/credit-suisse/'
 ---
 

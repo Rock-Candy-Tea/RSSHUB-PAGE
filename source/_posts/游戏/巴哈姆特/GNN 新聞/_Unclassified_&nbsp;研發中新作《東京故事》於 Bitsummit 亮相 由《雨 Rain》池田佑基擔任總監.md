@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/86/f60a66468883a1e659111975471hoh25.JPG?v=1659934924897'
 author: 巴哈姆特
 comments: false
-date: 2022-08-08 06:12:44
+date: 2022-08-08 07:09:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/f60a66468883a1e659111975471hoh25.JPG?v=1659934924897'
 ---
 
@@ -54,7 +54,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/86/f60a66468883a1e659111975471hoh25.
  </div>
 <div>
 　　研發中新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9D%B1%E4%BA%AC%E6%95%85%E4%BA%8B" target="_blank">東京故事</a>》預計 2023 年推出 PC 與家用主機版本。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55490" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
