@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/57/3c75b6739783340d4996bc70171ho555.JPG?v=1659906446836'
 author: 巴哈姆特
 comments: false
-date: 2022-08-08 03:03:47
+date: 2022-08-08 04:27:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/3c75b6739783340d4996bc70171ho555.JPG?v=1659906446836'
 ---
 
@@ -57,7 +57,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/3c75b6739783340d4996bc70171ho555.
 <div>
  </div>
 <div>
-　　在決賽結果出爐後，官方緊接著公布第四波 DLC 角色包為「侍魂隊（Team Samurai）」，將收錄來自 SNK 經典格鬥遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BE%8D%E9%AD%82+%E6%9B%89" target="_blank">侍魂 曉</a>》的角色霸王丸、娜考露露與妲麗‧刀伽，預定 2022 年秋季釋出。此外還預告了下一賽季的內容，即將登場的 DLC 追加角色包括矢吹真吾、金甲喚等，並預定支援跨平台連線遊玩。</div>
+　　在決賽結果出爐後，官方緊接著公布第四波 DLC 角色包為「侍魂隊（Team Samurai）」，將收錄來自 SNK 經典格鬥遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BE%8D%E9%AD%82+%E6%9B%89" target="_blank">侍魂 曉</a>》的角色霸王丸、娜考露露與妲麗‧刀伽，預定 2022 年秋季釋出。此外還預告了下一賽季的內容，即將登場的 DLC 追加角色包括矢吹真吾、金家藩等，並預定支援跨平台連線遊玩。</div>
 <div>
  </div>
 <div>
