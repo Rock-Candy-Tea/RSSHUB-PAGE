@@ -18,6 +18,8 @@ thumbnail: 'https://img.cls.cn/images/20220808/96Ctca2yxO.png'
 <p>公告一出，便引起投资者在财联社APP上热议。有人表示，“<strong>核按钮又开始</strong>”，“今天明显封单资金出逃”；也有人表示，“<strong>chiplet的重要组成就是tsv</strong>”，“有Chiplet技术储备，没有Chiplet业务”。</p>
 <p><img src="https://img.cls.cn/images/20220808/lVzD98lff3.png" alt="image" referrerpolicy="no-referrer">
 <img src="https://img.cls.cn/images/20220808/oe87C0XyhY.png" alt="image" referrerpolicy="no-referrer"></p>
+<p>晚间最新消息，大港股份<strong>收到深交所关注函，要求确认是否存在应披露而未披露的重大信息</strong>。</p>
+<p><img src="https://img.cls.cn/images/20220808/72PTkhh156.png" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>无独有偶</strong>，力合科创晚间在互动平台表示，<strong>公司投资孵化业务目前暂未涉足chipset芯片领域</strong>。</p>
 <p>从二级市场表现来看，今日Chiplet板块通富微电涨停，大港股份开盘一字板，短暂开板后快速封死涨停直至收盘并拿下五连板，<strong>成为当前市场连板高标</strong>。</p>
 <p><img src="https://img.cls.cn/images/20220808/JSrN2kU73z.png" alt="image" referrerpolicy="no-referrer"></p>
