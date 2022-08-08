@@ -5,16 +5,16 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 最新文章
-headimg: 'https://image.woshipm.com/wp-files/2022/08/FLv9g6MgIVk0WqEPDPcY.jpg'
+headimg: 'https://image.woshipm.com/wp-files/2022/08/0cgAOp9Ozozit8a2yYE4.jpg'
 author: 人人都是产品经理
 comments: false
 date: Mon, 08 Aug 2022 00:00:00 GMT
-thumbnail: 'https://image.woshipm.com/wp-files/2022/08/FLv9g6MgIVk0WqEPDPcY.jpg'
+thumbnail: 'https://image.woshipm.com/wp-files/2022/08/0cgAOp9Ozozit8a2yYE4.jpg'
 ---
 
 <div>   
 <blockquote><p>编辑导语：随着互联网的流量增长趋于饱和，以抖音、B站为代表的视频平台的收入增长也开始陷入滞缓。为了打开更多内容增量和用户增长空间，抖音和B站纷纷转战新的赛道，在经过多次破圈后，他们终于将触角伸向了对方。</p></blockquote>
-<p><img data-action="zoom" class="aligncenter size-full wp-image-5557910" src="https://image.woshipm.com/wp-files/2022/08/FLv9g6MgIVk0WqEPDPcY.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p><img data-action="zoom" class="aligncenter size-full wp-image-5558111" src="https://image.woshipm.com/wp-files/2022/08/0cgAOp9Ozozit8a2yYE4.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
 <p>随着国内移动互联网的流量增长趋于饱和，以抖音、B站为代表的视频平台的收入增长也开始陷入滞缓，于是为了打开更多内容增量和用户增长空间，抖音和B站纷纷转战新的赛道，试图寻找新的机会。</p>
 <p>作为头部短视频平台，抖音已经具有了覆盖全民各个圈层的影响力，这正是以二次元起家的B站所需要的推广和宣传渠道。而作为国内知名文化社区及视频平台，B站内容的容量和价值已经实现闭环，这也是过度娱乐化的抖音所需要的多元化增量途径。于是，B站和抖音在经过多次破圈后，终于将触角伸向了对方。</p>
 <h2 id="toc-1"><strong>01 B站“模仿”抖音</strong></h2>
