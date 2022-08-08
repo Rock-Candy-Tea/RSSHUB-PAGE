@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/2c32c37617f083d668280891cc1ho7j5.JPG?v=1659931654706'
 author: 巴哈姆特
 comments: false
-date: 2022-08-08 04:27:35
+date: 2022-08-08 05:16:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/2c32c37617f083d668280891cc1ho7j5.JPG?v=1659931654706'
 ---
 
@@ -74,6 +74,8 @@ DLC 角色包「裏大蛇隊」8 月 8 日 15:00 上線！</h3>
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/9e335c7537376f0cb71e63b0ce1ho7l5.JPG?v=1659932100631" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/9e335c7537376f0cb71e63b0ce1ho7l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/9e335c7537376f0cb71e63b0ce1ho7l5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
+<div>
+ </div>
 <h3>
 2023 年新賽季正式揭露！「矢吹真吾」、「金家藩」等人氣角色將陸續登場</h3>
 <div>
