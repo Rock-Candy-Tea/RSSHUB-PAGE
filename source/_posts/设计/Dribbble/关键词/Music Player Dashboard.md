@@ -5,11 +5,11 @@ categories:
  - 设计
  - Dribbble
  - 关键词
-headimg: 'https://picsum.photos/400/300?random=1990'
+headimg: 'https://picsum.photos/400/300?random=1260'
 author: Dribbble
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1990'
+thumbnail: 'https://picsum.photos/400/300?random=1260'
 ---
 
 <div>   
