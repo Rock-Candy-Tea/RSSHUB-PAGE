@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?v=1659952441421'
 author: 巴哈姆特
 comments: false
-date: 2022-08-08 10:11:14
+date: 2022-08-08 11:08:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?v=1659952441421'
 ---
 
@@ -39,7 +39,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?v=1659952441421" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?v=1659952441421" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -69,7 +69,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/ee552db1208a9f8d5b2099a3f61hoor5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG?v=1659952446380" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG?v=1659952446380" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/6b09ee4b45e26969f64dccc7ba1hoos5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
