@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?v=1659964644544'
 author: 巴哈姆特
 comments: false
-date: 2022-08-09 00:54:31
+date: 2022-08-09 03:08:06
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?v=1659964644544'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?v=1659964644544" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?v=1659964644544" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -31,6 +31,16 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/07/52664dc48201c9ea35967b68cd1hovj5.
 <div>
 <div class="video-container">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/BWOUBwWMakg?wmode=transparent" width="100%"></iframe></div>
+</div>
+<div>
+ </div>
+<div>
+　　此外，官方還釋出了《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E9%A8%8E%E5%A3%AB%E4%B9%8B%E6%88%B0%20-%E5%A5%AE%E6%88%B0-" target="_blank">聖騎士之戰 -奮戰-</a>》上市一周年的紀念原創 MV。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/gp4-n_u-qM0?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
