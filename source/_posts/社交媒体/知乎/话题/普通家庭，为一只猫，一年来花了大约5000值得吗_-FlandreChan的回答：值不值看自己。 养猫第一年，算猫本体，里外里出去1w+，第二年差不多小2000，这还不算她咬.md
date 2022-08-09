@@ -1,0 +1,18 @@
+
+---
+title: '普通家庭，为一只猫，一年来花了大约5000值得吗_-FlandreChan的回答：值不值看自己。 养猫第一年，算猫本体，里外里出去1w+，第二年差不多小2000，这还不算她咬...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic3.zhimg.com/v2-5ed9c7b063f6920ec3199637831768a0_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Tue, 09 Aug 2022 08:57:49 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-5ed9c7b063f6920ec3199637831768a0_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>普通家庭，为一只猫，一年来花了大约5000值得吗?</strong><br>FlandreChan的回答<br><p data-pid="6hlh5qzC">值不值看自己。</p><p data-pid="1Q5JrVI6">养猫第一年，算猫本体，里外里出去1w+，第二年差不多小2000，这还不算她咬坏挠坏打坏的东西。</p><p data-pid="cnfZHk1d">每每想到这个事，我都把我家崽子捞过来多吸几口，没办法谁叫她撸起来舒服呢</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-5ed9c7b063f6920ec3199637831768a0_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ddcf3dea5211b0c5bd654ead4e304a20_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-5ed9c7b063f6920ec3199637831768a0_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3dd5026f1ddacc687f837c24c8b64ea5_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-4993090a9483e3d5ea69f7b2dc9e408b_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3dd5026f1ddacc687f837c24c8b64ea5_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-6bf5336f1be21e264a904895ac74e344_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-2ab728d5be1fe55c0f9247c67112de93_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-6bf5336f1be21e264a904895ac74e344_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-c6b4ea11eaa4d97f244c0f0f13c3ae07_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-47ca0c359d0074fb4e6da41b27bef808_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-c6b4ea11eaa4d97f244c0f0f13c3ae07_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-0e9c71a7b11336cd10ff1fb170f6b932_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-d1b99507ca8703a257d86105fa308df3_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-0e9c71a7b11336cd10ff1fb170f6b932_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-a7a7edbaad3e8b84272b17bb35bd9180_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4428358001a273bd81b9c2b4f79ccc8c_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-a7a7edbaad3e8b84272b17bb35bd9180_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
