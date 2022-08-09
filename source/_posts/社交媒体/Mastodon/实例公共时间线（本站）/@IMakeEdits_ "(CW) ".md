@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/791/615/807/702/730/original/46c85156c595e012.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/791/821/916/047/585/original/2365c33b208c33d1.jpeg'
 author: Mastodon
 comments: false
-date: Tue, 09 Aug 2022 07:00:36 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/791/615/807/702/730/original/46c85156c595e012.jpeg'
+date: Tue, 09 Aug 2022 07:51:25 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/791/821/916/047/585/original/2365c33b208c33d1.jpeg'
 ---
 
 <div>   
-<hr><p>My first Loli edit</p><br><img src="https://img.pawoo.net/media_attachments/files/108/791/615/807/702/730/original/46c85156c595e012.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/791/616/555/316/016/original/3c2a651ea8077671.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Mother And Daughter Fun <a href="https://pawoo.net/tags/loli" class="mention hashtag" rel="tag">#loli</a> <a href="https://pawoo.net/tags/caption" class="mention hashtag" rel="tag">#caption</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/791/821/916/047/585/original/2365c33b208c33d1.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/791/822/682/890/944/original/0e42aa3eb5b2c1b8.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
