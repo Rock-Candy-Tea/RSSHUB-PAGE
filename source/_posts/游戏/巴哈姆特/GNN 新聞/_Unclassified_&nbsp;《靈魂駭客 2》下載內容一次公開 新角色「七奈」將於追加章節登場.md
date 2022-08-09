@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.JPG?v=1660019555020'
 author: 巴哈姆特
 comments: false
-date: 2022-08-09 14:14:29
+date: 2022-08-09 15:10:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.JPG?v=1660019555020'
 ---
 
@@ -16,11 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <div>
 <div>
 <div>
- </div>
-<div>
- </div>
-<div>
- </div>
+　　由 ATLUS 開發、SEGA 預定 8 月 25 日發售的新作 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9D%88%E9%AD%82%E9%A7%AD%E5%AE%A2+2" target="_blank">靈魂駭客 2</a>（Soul Hackers 2）》（PS5 / PS4 / Xbox Series X|S / Xbox One / PC）今日宣布追加下載內容（DLC）詳情，供有興趣的玩家參考。</div>
 <div>
  </div>
 <h2>
@@ -32,7 +28,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <div>
  </div>
 <div>
-　　主角林檎作為嶄新的生命體 Aion 之一，與「惡魔召喚師」們聯手合作，為了迴避世界毀滅而四處奔波。使用惡魔召喚師的專用道具「COMP」，召喚惡魔掃蕩敵人！在一般人無法察覺的隱匿都市界域中，也有能夠改造 COMP 與進行惡魔合體的設施。在酒吧與秘密基地進行交流，或是進行與召喚師們過去記憶體驗有關的視象任務，即可加深與夥伴們之間的羈絆。</div>
+　　主角林檎作為嶄新的生命體 Aion 之一，與「惡魔召喚師」們聯手合作，為了迴避世界毀滅而四處奔波。使用惡魔召喚師的專用道具「COMP」，<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8F%AC%E5%96%9A%E6%83%A1%E9%AD%94" target="_blank">召喚惡魔</a>掃蕩敵人！在一般人無法察覺的隱匿都市界域中，也有能夠改造 COMP 與進行惡魔合體的設施。在酒吧與秘密基地進行交流，或是進行與召喚師們過去記憶體驗有關的視象任務，即可加深與夥伴們之間的羈絆。</div>
 <div>
  </div>
 <div>
@@ -138,18 +134,18 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <div>
  </div>
 <h3>
-真‧女神轉生 Ⅳ 服裝＆BGM 套組</h3>
+真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ 服裝＆BGM 套組</h3>
 <div>
  </div>
 <div>
-　　此為和「真‧女神轉生 Ⅳ」合作的追加下載內容。可將戰鬥中的服裝及 BGM 更換為「真‧女神轉生 Ⅳ」的樣式，並且還有專用飾品。</div>
+　　此為和「真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ」合作的追加下載內容。可將戰鬥中的服裝及 BGM 更換為「真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ」的樣式，並且還有專用飾品。</div>
 <div>
  </div>
 <ul>
 <li>
 套組內容<br>
 服裝：武士制服（林檎 / Arrow/Milady/Saizo）<br>
-戰鬥 BGM：真‧女神轉生 Ⅳ　BGM<br>
+戰鬥 BGM：真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ　BGM<br>
 飾品：武士圍巾</li>
 </ul>
 <ul>
@@ -277,7 +273,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <ul>
 <li>
 套組內容<br>
-泳裝：單色調小可愛（林檎）/ 積極衝浪者（Arrow）/ 花草圖案沙灘裙泳裝（Milady）/ 都會情調（Saizo）<br>
+泳裝：單色調<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E5%8F%AF%E6%84%9B" target="_blank">小可愛</a>（林檎）/ 積極衝浪者（Arrow）/ 花草圖案沙灘裙泳裝（Milady）/ 都會情調（Saizo）<br>
 飾品：漂漂游泳圈</li>
 </ul>
 <ul>
@@ -319,7 +315,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <ul>
 <li>
 套組內容<br>
-靈魂駭客 服裝＆BGM 套組／葛葉雷道 服裝＆BGM 套組／真‧女神轉生 Ⅳ 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+4" target="_blank">女神異聞錄 4</a> 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+5" target="_blank">女神異聞錄 5</a> 服裝＆BGM 套組／原創泳裝套組</li>
+靈魂駭客 服裝＆BGM 套組／葛葉雷道 服裝＆BGM 套組／真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+4" target="_blank">女神異聞錄 4</a> 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+5" target="_blank">女神異聞錄 5</a> 服裝＆BGM 套組／原創泳裝套組</li>
 </ul>
 <ul>
 <li>
@@ -723,7 +719,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/40/15158b9e7441269554923d6c941fhw05.
 <ul>
 <li>
 套組內容<br>
-盡情換錢／盡情換香／經驗講究計畫／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+4" target="_blank">女神異聞錄 4</a> 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+5" target="_blank">女神異聞錄 5</a> 服裝＆BGM 套組／靈魂駭客 服裝＆BGM 套組／葛葉雷道 服裝＆BGM 套組／真‧女神轉生 Ⅳ 服裝＆BGM 套組／原創泳裝套組／追加惡魔「Nemissa」／追加惡魔「藏王權現」／追加惡魔「撒旦」／追加惡魔「茲茲米特爾」／追加惡魔「魔羅」／追加惡魔「阿爾邁蒂」／追加惡魔「阿娜希塔」／追加惡魔「將門」／追加劇情「Lost Numbers」</li>
+盡情換錢／盡情換香／經驗講究計畫／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+4" target="_blank">女神異聞錄 4</a> 服裝＆BGM 套組／<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84+5" target="_blank">女神異聞錄 5</a> 服裝＆BGM 套組／靈魂駭客 服裝＆BGM 套組／葛葉雷道 服裝＆BGM 套組／真‧<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F" target="_blank">女神轉生</a> Ⅳ 服裝＆BGM 套組／原創泳裝套組／追加惡魔「Nemissa」／追加惡魔「藏王權現」／追加惡魔「撒旦」／追加惡魔「茲茲米特爾」／追加惡魔「魔羅」／追加惡魔「阿爾邁蒂」／追加惡魔「阿娜希塔」／追加惡魔「將門」／追加劇情「Lost Numbers」</li>
 </ul>
 <div>
  </div>
