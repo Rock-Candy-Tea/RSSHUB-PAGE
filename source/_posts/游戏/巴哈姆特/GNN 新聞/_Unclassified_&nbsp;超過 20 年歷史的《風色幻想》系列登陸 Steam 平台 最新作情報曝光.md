@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?v=1660032668153'
 author: 巴哈姆特
 comments: false
-date: 2022-08-09 10:11:48
+date: 2022-08-09 11:08:26
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?v=1660032668153'
 ---
 
@@ -16,13 +16,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.
 <div>
 <div>
 <div>
-　　弘煜科技旗下 PC 單機《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E8%89%B2%E5%B9%BB%E6%83%B3" target="_blank">風色幻想</a>》系列遊戲於今日起正式在 Steam 平台上架，玩家將可重溫最初代至第六代的故事冒險。</div>
+　　弘煜科技旗下 PC 單機《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%A2%A8%E8%89%B2%E5%B9%BB%E6%83%B3" target="_blank">風色幻想</a>》系列遊戲於今日起正式在 Steam 平台上架，玩家將可重溫最初代至第六代的冒險故事。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 32.82%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?v=1660032668153" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 32.82%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?v=1660032668153" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -96,7 +96,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/2767fe222daec381e97c0c96481hp8v5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 44.57%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG?v=1660032648858" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 44.57%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG?v=1660032648858" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/c939b980a1bfd701f45d0718dd1hp8u5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
