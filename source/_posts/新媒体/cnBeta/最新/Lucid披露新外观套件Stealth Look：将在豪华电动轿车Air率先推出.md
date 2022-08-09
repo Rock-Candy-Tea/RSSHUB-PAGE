@@ -1,0 +1,19 @@
+
+---
+title: 'Lucid披露新外观套件Stealth Look：将在豪华电动轿车Air率先推出'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/08/e6dc3bd58fa8d95.jpg'
+author: cnBeta
+comments: false
+date: Tue, 09 Aug 2022 00:00:06 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/08/e6dc3bd58fa8d95.jpg'
+---
+
+<div>   
+<strong>Lucid正在通过一个名为Stealth Look的新套件以向黑暗面倾斜。这个低调的造型选项，总共有35个新的外观设计线索，将从本周开始在全系列的Air电动汽车上推出。</strong>这些变化包括后视镜盖、玻璃车顶装饰及头灯和尾灯周围的框架。铂金漆则被换成了“深色隐形抛光漆(Stealth Polished)”。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/e6dc3bd58fa8d95.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/e6dc3bd58fa8d95.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Lucid称，目标是为该公司在生产中的唯一车型Air注入更黑暗和明显的运动个性。</p><p style="text-align: left;">Stealth Look将作为Air Grand Touring Performance、Air Grand Touring和Air Touring的一个选项。根据不同的车型，Lucid提供了20英寸或21英寸的轮毂并配有缎面黑色嵌条。买家还可以将Stealth Look跟任何外部颜色搭配，不过现在仅限于白色、黑色、银色、灰色和红色。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/715d13a1c65d0c4.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/715d13a1c65d0c4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/e43bab572f2e6f9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/e43bab572f2e6f9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/23b8a50b82c37b0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/23b8a50b82c37b0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/d26e3041116f9b9.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/d26e3041116f9b9.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/52bbbcd3b25e524.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/52bbbcd3b25e524.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/057ec2f8bd8fcd0.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/057ec2f8bd8fcd0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/488ec9ae3a4fd64.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/488ec9ae3a4fd64.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/7cb5f96103180e2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/7cb5f96103180e2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/f5fac483a4eca61.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/f5fac483a4eca61.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/5326108a3e9c3dd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/5326108a3e9c3dd.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/0276cd1a927337f.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/0276cd1a927337f.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Lucid从2023年第一季度开始提供Stealth Look，价格将需要额外支付6000美元。新的外观造型将于8月17日周三在蒙特雷汽车周期间在Motorlux公开亮相。<br style="text-align: left;"></p><p style="text-align: left;">新套件是在Lucid可以说是一个艰难的时刻公布的。这家位于加州纽瓦克的公司最近在今年第二次削减了其生产预测--将其2022年的预期调整为6000至7000辆。</p>   
+</div>
+            
