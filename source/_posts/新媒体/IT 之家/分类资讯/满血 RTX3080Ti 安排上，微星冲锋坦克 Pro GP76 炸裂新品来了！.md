@@ -1,0 +1,19 @@
+
+---
+title: '满血 RTX3080Ti 安排上，微星冲锋坦克 Pro GP76 炸裂新品来了！'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/9b132e57-2297-4459-8488-333c389aa321.png'
+author: IT 之家
+comments: false
+date: Tue, 09 Aug 2022 06:06:44 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/9b132e57-2297-4459-8488-333c389aa321.png'
+---
+
+<div>   
+<p data-vmark="3bd4">微星笔记本暑促火热进行中，其中定位硬核高性能的冲锋坦克 Pro GP 系列，凭借满血性能释放的强悍性能，是玩家口碑推荐的明星单品！更让人激动的消息来了，冲锋坦克 Pro GP76 推出新品配置：安排上 175W 满血 RTX3080Ti 版本，再次拉高该系列的性能天花板，快来感受堪称旗舰游戏性能的强横实力吧！</p><p style="text-align: center;" data-vmark="67ba"><img src="https://img.ithome.com/newsuploadfiles/2022/8/9b132e57-2297-4459-8488-333c389aa321.png" w="1152" h="565" alt="图片 6" title="满血 RTX3080Ti 安排上，微星冲锋坦克 Pro GP76 炸裂新品来了！" width="1152" height="402" referrerpolicy="no-referrer"></p><p data-vmark="3dd6"><strong>冲锋坦克 Pro GP76 12UHSO-870CN（12 代酷睿 i7-12700H + 满血 RTX3080Ti 版本）</strong></p><p data-vmark="7fb1"><strong>购买链接：<a href="https://item.jd.com/100032534575.html" target="_blank">点此前往</a></strong></p><p data-vmark="ad44">正如微星笔记本一直所追求的，冲锋坦克 Pro GP76 的进化从未停止！暑促期间再应发烧玩家的诉求，满血 RTX3080Ti 显卡强势加入：针对于需求性能的大型 3A 单机游戏，想要画质拉满的同时，还保证更流畅的画面、更高的游戏帧数，这款新品真的非常推荐！</p><p style="text-align: center;" data-vmark="f0c2"><img src="https://img.ithome.com/newsuploadfiles/2022/8/dc331e94-dc63-4c31-9d55-0ce6427d6754.png" w="750" h="985" alt="图片 2" title="满血 RTX3080Ti 安排上，微星冲锋坦克 Pro GP76 炸裂新品来了！" width="750" height="985" referrerpolicy="no-referrer"></p><p data-vmark="1042">配置上，搭载 12 代英特尔酷睿 i7-12700H 处理器，14 核心 20 线程的高规格，单线程和多核综合实力这一代提升相当大，完全可以匹配移动端的高端显卡。如果说原有的 150W 满血性能释放 RTX3070Ti 让玩家体验到高端游戏本的实力，那么 175W 满血的 RTX3080Ti 显卡就是各位高玩目前能追求的旗舰了！微星超增压模式设计，更让整机 CPU+GPU 实现 220W 的强悍性能释放，可以说是当之无愧的高性能游戏本代表！</p><p style="text-align: center;" data-vmark="2362"><img src="https://img.ithome.com/newsuploadfiles/2022/8/ffd4faab-df5f-481b-83b6-ba6214320f11.png" w="750" h="692" alt="图片 4" title="满血 RTX3080Ti 安排上，微星冲锋坦克 Pro GP76 炸裂新品来了！" width="750" height="692" referrerpolicy="no-referrer"></p><p data-vmark="a6b8">为了实现旗舰级的游戏性能表现，少不了 Cooler Boost 5 微星酷寒散热系统背后的保驾护航，双风扇 6 热管豪华规格，运行任何 3A 大作都能长时间稳定输出。DDR5-4800MHz 双通道高速内存 + PCI-E 4.0 高规固态硬盘 + Wi-Fi 6E 先进的无线网卡支持，超高速硬件组合，让玩家每一局游戏都能及时抵达战场，成为 Carry 团队的靠谱大神！</p><p data-vmark="370c">充满力量感的机身外观下，赛睿单键 RGB 背光键盘则营造出浓郁的电竞氛围，多达 1680 万色彩可自定义设置。充满可玩性的同时，无需外接键盘，也能有把把超神的操作手感。</p><p style="text-align: center;" data-vmark="1c19"><img src="https://img.ithome.com/newsuploadfiles/2022/8/cc27dc02-061f-41d5-9b7e-0d2f009da0ee.png" w="749" h="346" alt="图片 1" title="满血 RTX3080Ti 安排上，微星冲锋坦克 Pro GP76 炸裂新品来了！" width="749" height="346" referrerpolicy="no-referrer"></p><p data-vmark="2221">目前这款全新配置的冲锋坦克 Pro GP76 火热首发中，晒单还能赢取 Stealth 双肩包，数量有限，先到先得哦！</p><p data-vmark="f54f">暑促活动多多，还有强袭 GE、绝影 GS 系列、武士系列、神枪手 15 彩虹六号：异种联名款等多款游戏本均带来不同程度的优惠。各位龙骑士们，感兴趣的可以移步到微星游戏本京东自营官方旗舰店，以及微星 MSI 官方网站进一步了解详情。马上行动起来吧！</p><p data-vmark="9019">微星科技官网：<a href="https://cn.msi.com/" target="_blank"><span class="link-text-start-with-http">https://cn.msi.com/</span></a></p><p data-vmark="c0bf">微星游戏本京东自营官方旗舰店：<a href="https://mall.jd.com/index-1000000653.html" target="_blank"><span class="link-text-start-with-http">https://mall.jd.com/index-1000000653.html</span></a></p><p data-vmark="90c7">微星微旭专卖店（品牌直营）：<a href="https://msiweixu.tmall.com/" target="_blank"><span class="link-text-start-with-http">https://msiweixu.tmall.com/</span></a></p><p data-vmark="372d">微星游戏本天猫旗舰店：<a href="https://msiyxb.tmall.com/" target="_blank"><span class="link-text-start-with-http">https://msiyxb.tmall.com/</span></a></p><p data-vmark="1a01">* 具体活动价格 & 规则以店铺实际公告为准</p>
+          
+</div>
+            

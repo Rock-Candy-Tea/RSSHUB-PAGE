@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/world-emoji-day/'
 author: Inside Design
 comments: false
-date: 2022-08-09 06:12:19
+date: 2022-08-09 07:08:26
 thumbnail: 'https://www.invisionapp.com/inside-design/world-emoji-day/'
 ---
 

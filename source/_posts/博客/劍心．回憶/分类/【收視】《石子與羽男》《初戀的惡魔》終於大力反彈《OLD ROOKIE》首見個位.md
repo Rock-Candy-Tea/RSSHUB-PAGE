@@ -15,7 +15,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t
 <div>   
 <p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-ishiko.jpg" referrerpolicy="no-referrer"></p>
 <p>【收視】08/08：週末收視，好劇終於見曙光，《石子與羽男》經過頭3週的無力後終於明顯上升，期待一口氣衝上雙位數。《初戀的惡魔》沒有了富士播大電影的對手後也大力反彈，但距離合格水平仍遠。相反《OLD ROOKIE》首度跌至個位數，《新．信長公記》持續直插式下跌沒救。晨間劇大河劇天與地之別，《鎌倉殿的13人》再破新低的同時，《心胸咚咚》則在5月後首度升破17%，有望末段發力。送上最新收視排名。</p>
-<p>TBS金22｜石子與羽男｜6.8% > 7.4% (+0.6%) *創新高<br>
+<p>TBS金22｜石子與羽男｜6.8% > 8.4% (+1.6%) *創新高<br>
 NTV土22｜初戀的惡魔｜3.8% > 5.2% (+1.4%)<br>
 TBS日21｜OLD ROOKIE｜10.6% > 9.5% (-1.1%) *破新低<br>
 NTV日22｜新．信長公記｜5.4% > 4.2% (-1.2%)</p>

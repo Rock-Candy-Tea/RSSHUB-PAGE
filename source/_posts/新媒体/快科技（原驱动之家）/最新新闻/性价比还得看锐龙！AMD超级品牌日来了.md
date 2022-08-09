@@ -18,8 +18,6 @@ thumbnail: 'https://img1.mydrivers.com/img/20220809/S1f33100f-7e3a-45b5-a680-082
 <p>目前市面上有大量AMD锐龙处理器的笔记本可选，有锐龙5000系列的，也有今年推出的锐龙6000系列的，它们都使用了先进的7nm/6nm制程工艺及Zen3/Zen3+架构，起步就是6核甚至8核，搭配高性能Radeon集显，<strong>哪怕3000多元的价位也能轻松买到高性能锐龙笔记本。</strong></p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220809/1f33100f-7e3a-45b5-a680-0827c19b4c67.png" target="_blank"><img alt="性价比还得看锐龙！AMD超级品牌日来了" h="398" src="https://img1.mydrivers.com/img/20220809/S1f33100f-7e3a-45b5-a680-0827c19b4c67.png" style="border:black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p>这个月还会迎来AMD京东超级品牌日，AMD更是喊出了“买电脑，选锐龙”的口号，并带来超多福利给大家，<span style="color:#ff0000;"><strong>8月16日当天限量五折秒杀、部分商品爆款直降、下单晒图评论还可返100元京东E卡的优惠活动，，整体限量5000张，仅限活动期间下单并付款的订单。</strong></span></p>
-<p>APP链接：<a class="f14_link" href="https://pro.m.jd.com/mall/active/3hE1mUMdRBWJdDruSkz2CXARQbpW/index.html" target="_blank">京东</a></p>
-<p>PC链接<b>：</b><a class="f14_link" href="https://pro.jd.com/mall/active/TAmYEcFuN5UwUMJCy1bjfFFRwTT/index.html" target="_blank">京东</a></p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220809/57d87541-f893-48a9-95f8-bd0cf163b7c1.jpg" target="_blank"><img alt="性价比还得看锐龙！AMD超级品牌日来了" h="337" src="https://img1.mydrivers.com/img/20220809/S57d87541-f893-48a9-95f8-bd0cf163b7c1.jpg" style="border:black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
 <p>此外，这一次的活动中多家搭载AMD处理器的机型参与促销，这里给大家推荐几款从适合网课到办公、游戏等不同定位的笔记本，大家可以根据自己的需要来选择。</p>
 <p><strong>清华同方 然14：超高性价比、1.4千克轻薄便携</strong></p>
