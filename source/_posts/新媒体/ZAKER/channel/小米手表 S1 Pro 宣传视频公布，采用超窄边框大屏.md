@@ -1,0 +1,18 @@
+
+---
+title: '小米手表 S1 Pro 宣传视频公布，采用超窄边框大屏'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a36_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 10 Aug 2022 05:52:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a36_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 8 月 10 日消息，小米手表 S1 Pro 于昨日下午官宣将在 8 月 11 日雷军年度演讲上发布。今日，小米创始人雷军公布了该手表的宣传视频。</p><p></p><div class="zaker_div"><div id="zkvideo16601252941195" class="zk_upvideo" data-zkinfo="%7B%22status%22%3A%22finished%22%2C%22imgUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2F2022%2F08%2F10%2F1660125291294_W1280H720S.jpeg%22%2C%22videoUrl%22%3A%22http%3A%2F%2Fzkres.myzaker.com%2Fimg_upload%2Feditor%2Farticle_video%2F2022%2F08%2F10%2F16601252901600.mp4%22%2C%22name%22%3A%2216601252901600.mp4%22%2C%22width%22%3A1280%2C%22height%22%3A720%7D"></div></div><p></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a36_1024.jpg" data-height="674" data-width="741" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a36_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a37_1024.jpg" data-height="1080" data-width="1920" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a37_1024.jpg" referrerpolicy="no-referrer"></div></div>据雷军微博介绍，小米手表 S1 Pro 在设计、质感和体验三个方面表现不俗。具体来说，<strong>小米手表 S1 Pro 采用超窄边框大屏</strong>，拥有优雅流线机身。质感方面，小米手表 S1 Pro 将采用银色机身和皮质表带，让其观感手感尽显品质感。体验方面，小米手表 S1 Pro 将拥有许多新功能，雷军声称“远超想象”。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a38_1024.jpg" data-height="698" data-width="1259" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a38_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a39_1024.jpg" data-height="695" data-width="1261" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f37f088e9f0936fe1d8a39_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a3a_1024.jpg" data-height="695" data-width="1269" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f37f088e9f0936fe1d8a3a_1024.jpg" referrerpolicy="no-referrer"></div></div>从宣传视频中可以看出，小米手表 S1 Pro 采用圆形表盘，拥有蓝色、棕色和黑色三款配色。<strong>表身右侧拥有两个实体按键</strong>，其中右上方为可旋转表冠，右下方为按压式按键。此外，在手表表扣上，印有“ xiaomi ”字样。<p></p><p>IT 之家了解到，小米一款智能手表于 6 月 20 日通过了 3C 认证，该手表型号为 M2134W1，支持 5W 充电，并且认证显示其“具有音频播放和存储功能”。</p><p>微博博主 @数码闲聊站 此前爆料称，小米新款智能手机不支持 eSIM，并表示“大号手环警告”。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
