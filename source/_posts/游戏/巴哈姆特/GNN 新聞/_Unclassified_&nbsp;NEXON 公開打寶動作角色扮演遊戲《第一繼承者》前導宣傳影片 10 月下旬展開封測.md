@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?v=1660104216636'
 author: 巴哈姆特
 comments: false
-date: 2022-08-10 04:11:58
+date: 2022-08-10 05:09:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?v=1660104216636'
 ---
 
@@ -22,9 +22,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?v=1660104216636" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?v=1660104216636" data-srcset="https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG?v=1660104216636" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG?v=1660104216636" data-srcset="https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/20/994a9fad8c55570678d62e72701hpt85.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -36,7 +36,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG?v=1660104271160" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG?v=1660104271160" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/456e6e5772b5ac5a91d5e295fa1h6rh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -47,14 +47,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/21/5e9da980dceb7e89964fd0127f1hpt95.
  </div>
 <div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/N_BFcyEHhV4?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/Q9_gvnQgFrM?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%AC%AC%E4%B8%80%E7%B9%BC%E6%89%BF%E8%80%85" target="_blank">第一繼承者</a>》原本計畫於 9 月 28 日在 Steam 展開封測，但如今宣布將延期至 10 月 20 日起舉辦，而目前仍在 Steam 平台開放玩家申請測試資格；NEXON 表示，未來將公開完整版宣傳影片。</div>
-<div>
- </div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%AC%AC%E4%B8%80%E7%B9%BC%E6%89%BF%E8%80%85" target="_blank">第一繼承者</a>》原本計畫於 9 月 28 日在 Steam 展開封測，但如今宣布將延期至 10 月 20 日起舉辦，而目前仍在 Steam 平台開放玩家申請測試資格；NEXON 表示，預定將於即將到來的歐洲遊戲展 2022 Gamescom 公開完整版宣傳影片。</div>
 </div>
 <div>
  </div>
