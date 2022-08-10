@@ -1,0 +1,20 @@
+
+---
+title: '大神自制 AR 传送门，不同空间任意开洞穿梭 网友直呼魔法'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/spider20220810/115/w600h315/20220810/4c22-35b2b46c26caf4cc2c2f788921802d6f.png'
+author: cnBeta
+comments: false
+date: Wed, 10 Aug 2022 06:50:15 GMT
+thumbnail: 'https://n.sinaimg.cn/spider20220810/115/w600h315/20220810/4c22-35b2b46c26caf4cc2c2f788921802d6f.png'
+---
+
+<div>   
+不知道大家有没有玩过一款叫做 Portal（传送门）的游戏？
+在游戏中，玩家可以使用一把枪作为传送门设备，<strong>在两个空间平面之间创建一个人体大小的“虫洞”连接。经由传送门，玩家可以在空间中任意穿梭。</strong><br>
+ <p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/115/w600h315/20220810/4c22-35b2b46c26caf4cc2c2f788921802d6f.png" id="0" referrerpolicy="no-referrer"></p><p style="text-align: left;">作者 | 李梅</p><p style="text-align: left;">编辑 | 陈彩娴</p><p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/750/w480h270/20220810/2acd-fa2ec4b625a82548d1254326f26dc517.gif" id="1" referrerpolicy="no-referrer"></p><p style="text-align: left;">传送门可以说是人类最想拥有的超能力之一了，要想在现实中体验，那确实只能想一想了。不过，利用虚拟现实、增强现实等技术，可以从视觉上实现传送门，这在游戏和电影中都经常能见到，比如电影《奇异博士》中的传送门特效：</p><p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/680/w480h200/20220810/51f6-8916c3b6adecb5ffa22e2e1904c20bf4.gif" alt="最近，一位数字艺术设计师竟把传送门搬到了现实世界，准确来讲是增强现实。" id="2" referrerpolicy="no-referrer"></p><p style="text-align: left;">最近，一位数字艺术设计师竟把传送门搬到了现实世界，准确来讲是增强现实。<br style="text-align: left;"></p><p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/753/w598h155/20220810/9e41-5e564bc6c27ae9510c96713a2c816c48.png" id="3" referrerpolicy="no-referrer"></p><p style="text-align: left;">大神将虚拟信息与真实世界巧妙融合，用一把与游戏中类似的虚拟传送枪，在墙壁、天花板以及各种物体上都可以召唤出一个带红色或蓝色光圈的传送门，传送门的另一头是房间的别处或者其他房间，还可以从室外传送到室内。</p><p style="text-align:center"><img src="http://f.sinaimg.cn/spider20220810/256/w576h1280/20220810/e3d8-15d31e3776bad9035faefa98ac735e38.gif" alt="在室外的一堵墙壁上打出一枪，传送门的那头是房间内的画面：" id="4" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="http://f.sinaimg.cn/spider20220810/256/w576h1280/20220810/6a97-95089303baf61a755bbab8a61b8fd790.gif" alt="在室外的一堵墙壁上打出一枪，传送门的那头是房间内的画面：" id="5" referrerpolicy="no-referrer"></p><p style="text-align: left;">在室外的一堵墙壁上打出一枪，传送门的那头是房间内的画面：<br style="text-align: left;"></p><p style="text-align:center"><img src="http://f.sinaimg.cn/spider20220810/256/w576h1280/20220810/af01-0809dfaf1c08f37930fcc0ab8b3b17f1.gif" alt="可以看到，墙壁被打上传送门后，光圈边缘的砖块形状扭曲和画面的光线变化都做得非常真实。" id="6" referrerpolicy="no-referrer"></p><p style="text-align: left;">可以看到，墙壁被打上传送门后，光圈边缘的砖块形状扭曲和画面的光线变化都做得非常真实。<br style="text-align: left;"></p><p style="text-align: left;">不仅如此，《传送门》游戏里的经典套娃悖论也被他实现了：</p><p style="text-align:center"><img src="http://f.sinaimg.cn/spider20220810/256/w576h1280/20220810/fcc6-1ca6c0b8c9cfb24fe2f7b62b6ec632ca.gif" id="7" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="http://f.sinaimg.cn/spider20220810/256/w576h1280/20220810/737b-4365b9bd23ba9ab4c24bcb3d17ca2747.gif" id="8" referrerpolicy="no-referrer"></p><p style="text-align: left;">传送门里开传送门，这操作不禁让人开起了脑洞: 如果在正上方的天花板上打出一个传送门，地板上再打出一个传送门，那岂不是会无限掉落......</p><p style="text-align: left;">传送门视频被作者发布到Twitter上以后，关注 AR 的和不关注 AR 的网友们都被惊到了：</p><p style="text-align: left;">太棒了！现在试一下跳进去。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/594/w518h76/20220810/1aa0-aae0c647e2f0cf7eeecd1f41c16826fc.png" id="9" referrerpolicy="no-referrer"></p><p style="text-align: left;">不仅概念上非常酷，而且实际做得也很漂亮！期待能把它实现到游戏里。</p><p style="text-align:center"><img src="https://n.sinaimg.cn/spider20220810/661/w588h73/20220810/9b35-11851522adb910f5b9199974a25330b1.png" id="10" referrerpolicy="no-referrer"></p><p style="text-align: left;">据了解，该传送门工具的作者 Max van Leeuwen 从荷兰电影学院毕业，他利用增强现实技术为许多电影做过视觉特效，现在为 snapchat 的 AR 平台提供各种视频特效。关于传送门背后的技术细节，可以期待一下他后续的详细说明。</p><p style="text-align: left;">参考链接：https://twitter.com/maksvanleeuwen/status/1556715819316412418</p>   
+</div>
+            
