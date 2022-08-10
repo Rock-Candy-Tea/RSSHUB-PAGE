@@ -1,0 +1,19 @@
+
+---
+title: 'HarmonyOS 3智慧体验加持 全新华为MatePad Pro正式开售'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0810/9126f2f5a15a69e.png'
+author: cnBeta
+comments: false
+date: Wed, 10 Aug 2022 05:55:44 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0810/9126f2f5a15a69e.png'
+---
+
+<div>   
+8月10日，广受关注的新品——全新华为MatePadPro正式在华为商城、天猫、京东等线上线下官方渠道开售，在天猫旗舰店购买新品可享200元优惠，在京东官方渠道参与预订活动可以立减200元，还加赠6个月碎屏险+一年延保，不同渠道还有不同的优惠活动。<br>
+<p><a href="https://static.cnbetacdn.com/article/2022/0810/9126f2f5a15a69e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0810/9126f2f5a15a69e.png" title alt="image001.png" referrerpolicy="no-referrer"></a></p><p>在首销当天，<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>还发布了【车轮上的音乐“家”】创意视频。在视频中，正经乐队在由一辆房车改造而成的移动音乐制作室里，体验使用华为MatePad Pro的三大黑科技联动不同设备，协同创作出一首态度歌曲。此外像王义博（摄影）、搞机少女（科技自媒体）、杨家成（音乐）、兽桃（绘画）等达人也分享了自己采用华为MatePad Pro在不同的移动场景下开展创作的视频，彰显了全新华为MatePadPro带来的更自由的创作方式。</p><p>全新华为MatePad Pro搭载了最新的HarmonyOS 3，支持多设备通信共享、远程操作PC、PC应用引擎三大黑科技，可以打破设备、空间和生态边界，综合不同设备的优势，使得自由创作成为可能。</p><p><a href="https://static.cnbetacdn.com/article/2022/0810/46b592a6f5ceaca.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0810/46b592a6f5ceaca.png" title alt="image003.png" referrerpolicy="no-referrer"></a></p><p>多设备通信共享功能能够让全新华为MatePad Pro自动共享华为<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>的移动通信能力。不同于传统的手机移动热点功能，多设备通信共享基于华为帐号以及HarmonyOS 3特性，可以无感连接，更加便捷。而且不仅仅是提供网络能力，更能同步电话、短信等内容到平板上，让大屏和手机结合更加紧密。</p><p>远程PC功能可以让平板远程操作电脑，可以跨越空间，控制电脑上的图片编辑、视频剪辑、<a data-link="1" href="https://microsoft.pvxt.net/P0JMe" target="_blank">Office</a>办公软件等等，出外办公无需额外携带电脑，一台平板就能提供超越想象的跨端同步能力。</p><p><a href="https://static.cnbetacdn.com/article/2022/0810/e8c99ca7e11e7f3.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0810/e8c99ca7e11e7f3.png" title alt="image005.png" referrerpolicy="no-referrer"></a></p><p>PC应用引擎更可以让用户在平板上直接使用PC专业应用。PC级WPS已经来到全新华为MatePad Pro上面，全功能、完整界面，让用户能使用完整的复杂功能，平板往电脑的体验靠得更近了。</p><p>基于HarmonyOS 3，用户还可以在全新华为MatePad Pro感受最新的系统体验，例如卡片堆叠、卡片组合、更多比例的桌面文件夹组合以及桌面APP自动分组排列等等，当然像平行视界、智慧多窗等独家体验也继续有所保留。此外全新华为MatePadPro也可以配备分体式智能磁吸键盘和全新华为M-Pencil（第二代），使用效率更加提升。</p><p><a href="https://static.cnbetacdn.com/article/2022/0810/66759735b6829fe.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0810/66759735b6829fe.png" title alt="image007.png" referrerpolicy="no-referrer"></a></p><p>配置方面，全新华为MatePad Pro采用11英寸屏幕，2560*1600<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C798%26ev%3D4155_88234%26sort%3Dsort_rank_asc%26trans%3D1%26JL%3D2_1_0%23J_crumbsBar" target="_blank">OLED</a> 120Hz屏幕，ΔE<1高色准，10.7亿色还有莱茵防蓝光认证，搭配6个扬声器，音画体验足够优秀；8300mAh电池搭配66W快充，续航体验有保证；449g重量，最低5.9mm厚度，携带使用都更轻盈。</p><p>全新华为MatePad Pro共有曜金黑、星河蓝、晶钻白、锦白（素皮版）四种配色可供选择，具体配置价格方面，8GB+128GB版本售价3499元、8GB+256GB版本售价3999元；性能版8GB+128GB版本售价3799元，8GB+256GB版本售价4299元，12GB+ 512GB版本售价5499元；性能版全网通8GB+256GB版本售价5299元，性能版全网通12GB+ 512GB版本（含手写笔+键盘）售价7699元。</p><p>全新华为MatePad Pro在8月10日正式开售，其中，性能版全网通512GB（含手写笔+键盘）配置将于8月26日正式开售。用户可登陆华为商城及各大授权电商平台或前往华为体验店、华为授权零售门店进行购买。华为<a data-link="1" href="https://c.duomai.com/track.php?k=nJ9QWa1VmJxYTPklWYmYDO5IDNy0DZp9VZ0l2cmYiJt92YuQmauc3d3ZkMlYkMlE0MlMHc0RHa9Q" target="_blank">京东</a>小魔方新品日现在付定立减200元，赠6个月碎屏险+一年延保；8月10日天猫大牌日活动期间，购买华为MatePadPro新品享200元优惠。如果你需要入手一款智慧体验满满的平板电脑，它值得你考虑。</p>   
+</div>
+            
