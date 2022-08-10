@@ -5,11 +5,11 @@ categories:
  - 编程
  - 技术头条
  - 最新分享
-headimg: 'https://picsum.photos/400/300?random=5133'
+headimg: 'https://picsum.photos/400/300?random=2592'
 author: 技术头条
 comments: false
-date: 2022-08-10 10:11:20
-thumbnail: 'https://picsum.photos/400/300?random=5133'
+date: 2022-08-10 11:09:26
+thumbnail: 'https://picsum.photos/400/300?random=2592'
 ---
 
 <div>   

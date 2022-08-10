@@ -8,7 +8,7 @@ categories:
 headimg: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.8/community/change/import-region-resource.png'
 author: 开源中国
 comments: false
-date: Wed, 10 Aug 2022 09:59:00 GMT
+date: Wed, 10 Aug 2022 17:59:00 GMT
 thumbnail: 'https://grstatic.oss-cn-shanghai.aliyuncs.com/docs/5.8/community/change/import-region-resource.png'
 ---
 
