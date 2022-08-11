@@ -32,7 +32,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220811/1660188436_7557
 <img src="https://img.3dmgame.com/uploads/images/news/20220811/1660188436_915848.png" alt="国人画师回应动视因COD皮肤抄袭致歉：敷衍了事" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-<strong><span style="color:#E56600;font-size:16px;">微博原文：</span></strong>
+<strong><span style="color:#E56600;font-size:16px;">微博原文：</span></strong> 
 </p>
 <p style="text-indent:2em;">
 跟动视法务来来回回开了几次会，我们的诉求需要一个正式的道歉，并通过官媒发布，没想到他们这个所谓的道歉是如此敷衍了事，连一个官方的名字都没带的，甚至只是让一个COD资讯的推特账号代发。
