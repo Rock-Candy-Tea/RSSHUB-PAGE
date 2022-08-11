@@ -1,0 +1,18 @@
+
+---
+title: '如何评价红米 8 月 11 日发布的 Redmi K50至尊版？有哪些亮点和不足？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pica.zhimg.com/v2-57b277eda2efa1ef359f197da2d6e895_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Thu, 11 Aug 2022 13:33:52 GMT
+thumbnail: 'https://pica.zhimg.com/v2-57b277eda2efa1ef359f197da2d6e895_1440w.jpg?source=b1748391'
+---
+
+<div>   
+长亭Time的回答<br><br><h3>2999元起售，目前最具性价比的骁龙8+ Gen1机型，绝对好评！</h3><p data-pid="sdwVcHYr">在此之前，价格最低的骁龙8+ Gen1机型是一加ACE Pro，12+256G版本起售3499元，而红米K50 至尊版则以8+128G/2999元起售，12+256G版本3399元相比一加ACE Pro也要更低100元，性价比更高。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-57b277eda2efa1ef359f197da2d6e895_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="783" data-default-watermark-src="https://pic1.zhimg.com/v2-7094ec3f1f05900e282e5f755c6433e4_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-57b277eda2efa1ef359f197da2d6e895_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="MCQXiVyX">红米K50 至尊版一共有4个存储版本，其中尤以8+256G/12+256G两个版本最值得入手。</p><hr><h3>相比上半年已发布的红米K50、K50 Pro、K50 电竞版三款机型，K50 至尊版的不同之处，主要有4个方面：</h3><p data-pid="4xO1xvCh">其一，搭载骁龙8+ Gen1芯片，性能更强，且能效表现不错（相比红米K50 Pro和红米K50 电竞版尤为明显），搭配超大面积VC散热，游戏表现应该是红米K50宇宙中表现最好的一款；</p><p data-pid="vZ_Xt-zy">其二，搭载了一块2712*1220分辨率的屏幕，屏幕素质极高，12bit色深、DCI-P3色域、Delta E 0.38/JNCD 0.28，支持：杜比视界、全视频场景HDR显示，也支持1920Hz高频PWM调光、硬件级低蓝光、SGS低视觉疲劳认证，可以说是兼顾显示清晰度、能效、护眼等多重体验于一体，堪称红米旗下屏幕素质最均衡的一款机型；</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-193a985bff5ffb23d7a6b76feb146012_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="709" data-qrcode-action="none" data-default-watermark-src="https://pic1.zhimg.com/v2-4bd43b18d409c60aa7634192130c4ede_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-193a985bff5ffb23d7a6b76feb146012_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="6owPk4BU">其三，支持屏下指纹，这应该是K40系列和K50系列里唯一的一款。</p><p data-pid="wp8IdH0d">其四，后置主摄搭载HM6一亿像素传感器，配合IOS光学防抖、1G+5P镜头、小米影像大脑等，拍照体验相比K50系列另外几款更强。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-f4b3f307a688784661c9bee424d157f8_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="777" data-default-watermark-src="https://pic2.zhimg.com/v2-6b35d36114c99da0463970a99b2c9dde_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-f4b3f307a688784661c9bee424d157f8_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="s2AqGw3d">除此之外，这款机型的续航表现同样极具优势，骁龙8+ Gen1优秀的能效表现、5000mAh大电池、2712*1220分辨率屏幕等等对续航均有不小加持，理论续航表现要比红米K50 Pro、K50 电竞版更强不少，比红米K50应该也弱不了太多，而120W快充也可以带来不错的充电体验。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b6c7fcccc21c6b98d4133506f6f4d96f_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="754" data-default-watermark-src="https://pic2.zhimg.com/v2-edbef1e30dbe00cc227d4bd4a921a0db_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b6c7fcccc21c6b98d4133506f6f4d96f_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><h3>最后的总结：</h3><p data-pid="LLo_mLZ3">整体来说，红米K50 至尊版这款机型应该是K50系列目前最能打的一款、也是3000元价格段性价比手机里最能打的一款，兼顾性能、性价比，且在屏幕、影像、续航、快充等各方面也比较均衡。</p><p data-pid="F3KQM_dW">至于这款机型的槽点，最大的槽点应该是塑料中框？但个人认为这个影响并不大，毕竟大家都是套壳使用。。。</p>  
+</div>
+            
