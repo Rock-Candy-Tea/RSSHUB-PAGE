@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547'
 author: 巴哈姆特
 comments: false
-date: 2022-08-11 06:12:37
+date: 2022-08-11 07:09:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547'
 ---
 
@@ -27,7 +27,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%BC%AB%E5%A8%81%E8%9C%98%E8%9B%9B%E4%BA%BA+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">漫威蜘蛛人 重製版</a>》是 2020 年 11 月在 PS5 推出的開放世界動作冒險遊戲，以 2018 年 9 月推出的 PS4 版為基礎，配合 PS5 硬體功能加以重製的版本。由 2019 年加入 PlayStation Studios 陣容的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%89%E6%8D%B7%E7%89%B9%E8%88%87%E5%85%8B%E6%8B%89%E5%85%8B" target="_blank">拉捷特與克拉克</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%90%BD%E6%97%A5%E9%A3%86%E7%A5%9E" target="_blank">落日飆神</a>》團隊 Insomniac Games 擔綱開發，改編自漫威旗下經典超級英雄漫畫《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%9C%98%E8%9B%9B%E4%BA%BA" target="_blank">蜘蛛人</a>》。採用開放世界舞台來呈現原作廣大的漫威紐約曼哈頓舞台，融合高速動作與電影式演出。讓玩家扮演經典超級英雄蜘蛛人，發射蛛絲施展飛簷走壁的蜘蛛異能，在現代叢林的紐約市中穿梭，打擊惡勢力維護市民安全。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%BC%AB%E5%A8%81%E8%9C%98%E8%9B%9B%E4%BA%BA+%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">漫威蜘蛛人 重製版</a>》是 2020 年 11 月在 PS5 推出的開放世界動作冒險遊戲，以 2018 年 9 月推出的 PS4 版為基礎，配合 PS5 硬體功能加以重製的版本。由 2019 年加入 PlayStation Studios 陣容的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%8B%89%E6%8D%B7%E7%89%B9%E8%88%87%E5%85%8B%E6%8B%89%E5%85%8B" target="_blank">拉捷特與克拉克</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%90%BD%E6%97%A5%E9%A3%86%E7%A5%9E" target="_blank">落日飆神</a>》團隊 Insomniac Games 擔綱開發，改編自漫威旗下經典超級英雄漫畫《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%9C%98%E8%9B%9B%E4%BA%BA" target="_blank">蜘蛛人</a>》。採用開放世界舞台來呈現原作廣大的漫威紐約曼哈頓舞台，融合高速動作與電影式演出。讓玩家扮演經典超級英雄蜘蛛人，發射蛛絲施展飛簷走壁的蜘蛛異能，穿梭在現代叢林紐約市，打擊惡勢力維護市民安全。</div>
 <div>
  </div>
 <div>
@@ -167,7 +167,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?v=1660196923107" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG 2x" style="max-width: unset;" title="光線追蹤反射項目的反射解析度、幾何細節與物件範圍都可以個別微調" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?v=1660196923107" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG 2x" style="max-width: unset;" title="光線追蹤反射項目的反射解析度、幾何細節與物件範圍都可以個別微調" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 光線追蹤反射項目的反射解析度、幾何細節與物件範圍都可以個別微調</figure>
 </li>

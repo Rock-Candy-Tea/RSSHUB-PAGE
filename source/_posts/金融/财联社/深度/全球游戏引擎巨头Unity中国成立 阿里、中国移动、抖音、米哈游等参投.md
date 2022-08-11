@@ -5,17 +5,18 @@ categories:
  - 金融
  - 财联社
  - 深度
-headimg: 'https://picsum.photos/400/300?random=7060'
+headimg: 'https://picsum.photos/400/300?random=4400'
 author: 财联社
 comments: false
 date: Thu, 11 Aug 2022 05:29:06 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7060'
+thumbnail: 'https://picsum.photos/400/300?random=4400'
 ---
 
 <div>   
 <div class="m-b-10"><p><strong>《科创板日报》8月11日讯（记者 张洋洋）</strong>8月9日晚间，全球游戏引擎开发商Unity宣布，在中国成立合资企业“Unity中国”，阿里巴巴、中国移动、吉比特、米哈游、OPPO、抖音集团、佳都科技等将参与投资该合资公司，Unity中国的投后估值为10亿美元。</p>
 <p><strong>Unity将保留Unity中国的多数股权和控制权，Unity中国将负责整个大中华地区的运营，同时Unity高管及主要投资方代表也将组成董事会对其进行监管。现任大中华区总经理张俊波，将担任Unity中国总裁兼首席执行官。</strong></p>
-<p>Unity2012年进入中国市场，其同名游戏开发软件为腾讯的《王者荣耀》、米哈游的《原神》等诸多热门游戏提供了支持。Unity中国总裁兼首席执行官张俊波在接受《科创板日报》记者采访时表示，<strong>Unity希望可以将本地化作为发展的战略，本地化包含核心技术和应用场景的本地化，建立起本土化的技术团队，这些都是Unity中国在未来几年间会逐步完成的。</strong></p>
+<p>Unity2012年进入中国市场，其同名游戏开发软件为腾讯的《王者荣耀》、米哈游的《原神》等诸多热门游戏提供了支持。</p>
+<p>Unity中国总裁兼首席执行官张俊波在接受《科创板日报》记者采访时表示，<strong>Unity希望可以将本地化作为发展的战略，本地化包含核心技术和应用场景的本地化，建立起本土化的技术团队，这些都是Unity中国在未来几年间会逐步完成的。</strong></p>
 <p><strong>Unity本地化</strong></p>
 <p>Unity是一家发端于丹麦的游戏引擎公司，于2004年成立，总部设在美国旧金山，业务是为全球开发者提供2D、3D、VR、AR和MR应用的创作工具。借助居家的游戏热潮，2020年9月18日，Unity在纽交所上市，当时市值一度超过200亿美元。</p>
 <p>在全球游戏开发引擎市场中，<strong>Unity市占率达超过七成，</strong>与虚幻引擎（Unreal）呈现出双寡头的格局。中国最为火爆的几款游戏，包括《王者荣耀》、《绝地求生》、《原神》等，均是采用Unity进行开发。</p>
