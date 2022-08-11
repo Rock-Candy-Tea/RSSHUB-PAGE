@@ -1,0 +1,18 @@
+
+---
+title: 'Riot 表态已为《英雄联盟》停止设计新角色做好规划，多年的英雄出新带来了哪些好处和坏处？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://pic3.zhimg.com/v2-75a7f72872feb23f08ad086e59aecb0c_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Thu, 11 Aug 2022 03:49:35 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-75a7f72872feb23f08ad086e59aecb0c_1440w.jpg?source=b1748391'
+---
+
+<div>   
+人来人往的回答<br><br><p data-pid="odTy2CL7">证明拳头的LOL分部员工已经无力维护英雄平衡与BUG，游戏寿命已经走到中后期</p><p data-pid="Qdl8JfMc">先说BUG</p><p data-pid="crvmvaco">塞拉斯、佛耶戈这两个超级大BUG产生机已经足够头疼</p><p data-pid="V9yTcD04">而近期最惹人注目的BUG，当属泉水原地复活</p><p data-pid="Lhw-887u">最近8月5日，LCK夏季赛DRX对阵NS</p><p data-pid="9gg2WaHM">DRX方的阿木木在团战死亡后，立马在泉水原地复活BUG</p><p data-pid="EweffVeM">此外，在这一场比赛，NS方的女坦也出现了同样的泉水复活BUG</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-75a7f72872feb23f08ad086e59aecb0c_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="600" data-rawheight="338" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-75a7f72872feb23f08ad086e59aecb0c_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="VITUMJqz">程序员都知道，写程序都是不停在原有的基础上堆叠</p><p data-pid="d7nmMy4x">然而修改BUG不只是上层的普通更改测试</p><p data-pid="tjKrPNM1">更麻烦的是新代码与旧代码兼容，而问题旧代码就是出现问题的一方</p><p data-pid="inxUu2tB">要命的是，你还不能乱改旧代码，不然原有的基础直接GG</p><p data-pid="_WpNSWaI">整个游戏崩溃，直接无法运行</p><p><br></p><p data-pid="muvfqfev">英雄平衡就不用说</p><p data-pid="e3nqQPmo">水多加面、面多加水</p><p data-pid="KiOkub24">设计师指定哪个英雄当野区答案，只需要给他加一个（对野怪造成双倍伤害）的数值</p><p data-pid="xeK5dmF7">100多个英雄不能面面俱到，难以平衡</p><p data-pid="QGE4dOsn">乌迪尔、蝎子、翠神、龙王等等冷门英雄设计师说是重做，搞半天乌迪尔重做了寂寞</p><p data-pid="y_jGJ_gS">蒙多这种重做完，机制一样落后靠数值堆叠的英雄</p><p data-pid="nhefXoSk">削弱数值后又没人玩进入下水道，然后你告诉我又要重做一遍</p><p data-pid="9vtPVzkb">大哥你们设计组是不是真的在搞笑的？</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-967a58180d4dd62ad605d5a9b69dd1aa_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="743" data-rawheight="350" data-default-watermark-src="https://pica.zhimg.com/v2-ddd6b5cb0e14f22e8179e38071507151_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-967a58180d4dd62ad605d5a9b69dd1aa_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><hr><p data-pid="BUypIOBZ">说这些，只是想表明一个问题</p><p data-pid="Y_D0IBZo">LOL于2011年09月22日上线，距今已经11年了</p><p data-pid="A3EpqKZr">这款游戏活了11年，我们仍然热衷于这款游戏，但它的寿命已经快枯萎了</p><p data-pid="i_j559NC">BUG修不完、英雄平衡做不好、设计师被骂烂的神话体系勉强算是新的创意，但看看下个版本野区又回退当初惩戒野怪的机制，设计师是不是真的没活了？</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-df17e65f050ef166a31271347bf47622_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="789" data-rawheight="408" data-default-watermark-src="https://pic1.zhimg.com/v2-eb29e7801eede39d250f379a601dcf5e_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-df17e65f050ef166a31271347bf47622_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="BVF6s3ls">新角色、新玩法这些都是证明游戏仍有活力，还在成长的现象</p><p data-pid="5ppegov1">以前的噩梦人机、星守PVE等等活动玩法多样，你们不是可以做新的模式吗？</p><p data-pid="etqbaVre">为什么现在只剩终极魔典和无限火力特殊模式两个轮换？</p><p data-pid="DzerfPZp">然后现在官方告诉我</p><p data-pid="fdUymVj-"><i><b>不好意思，我们现在不做新英雄、玩法思路直接炒冷饭</b></i></p><p><br></p><p data-pid="B-2Z36ne">只能说，拳头已经志不在此，将人员调动到FPS的瓦洛兰特项目、正在研发的MMORPG项目、已经做完的破败王外传等等</p><p data-pid="ZjSNRt-H">而LOL本部的项目，做的是越来越差</p><p data-pid="xDVJnLAg">有钱去拓展开发新项目大家都接受，动画双城之战就是最好的证明</p><p data-pid="XP3z00aO">但麻烦理清一下思路，拳头靠LOL发家，这是做大做强的根</p><p data-pid="ZScmpl9y">现在根腐烂坏掉了，上面长得花再好看，也不过昙花一现，很快也要随之而去</p><p data-pid="L6beq422">有点失望</p>  
+</div>
+            

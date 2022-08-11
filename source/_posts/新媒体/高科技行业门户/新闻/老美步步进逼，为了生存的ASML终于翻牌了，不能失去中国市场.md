@@ -1,0 +1,19 @@
+
+---
+title: '老美步步进逼，为了生存的ASML终于翻牌了，不能失去中国市场'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=8421'
+author: 高科技行业门户
+comments: false
+date: Thu, 11 Aug 2022 05:33:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8421'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">老美最近又对全球最大的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%89%E5%88%BB%E6%9C%BA.HTM" target="_blank" title="光刻机">光刻机</a></span>企业ASML提出新的要求，要求ASML不要对中国销售14nm以下的DUV光刻机，然而面对老美的无耻要求，生存压力巨大的ASML这次选择翻牌了。</p><p style="text-indent: 2em; text-align: left;"><strong><span style="text-indent: 2em;">一、ASML面临生存问题</span></strong></p><p style="text-indent: 2em; text-align: left;">今年一季度ASML的盈利腰斩，二季度虽然再次取得大幅度的增长，但是它却预期今年全年的营收增速将只有10％，为原来预计增长20％的一半，这主要是因为它对于全球芯片行业的发展有所担忧。</p><p style="text-indent: 2em; text-align: left;">全球芯片行业已从此前的火热迅速冷却，今年上半年诸多芯片行业包括美国射频、模拟芯片和韩国<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87.HTM" target="_blank" title="存储芯片">存储芯片</a></span>都表示库存高企，美国芯片企业甚至大幅降价九成求售，这足以证明全球芯片供给过剩已变成现实。</p><p style="text-indent: 2em; text-align: left;">芯片供给过剩，此前全球热烈展开的芯片产能竞赛将因此而停滞，如此一来提供光刻机的ASML将受重创，甚至光刻机需求下滑的幅度比ASML预期的更严重，毕竟芯片制造是高投资的行业，投资机构一旦看不到盈利的希望会迅速停止采购光刻机。</p><p style="text-indent: 2em; text-align: left;"><strong>二、中国市场的重要性</strong></p><p style="text-indent: 2em; text-align: left;">由于众所周知的原因，ASML至今未能对中国出售EUV光刻机，但是中国市场仍然成为ASML最大的市场，2021年和今年一季度，中国市场给ASML贡献的收入都达到三分之一，超过了韩国和中国台湾。</p><p style="text-indent: 2em; text-align: left;">在当下全球芯片制造项目可能停滞的情况下，中国市场可能成为唯一继续扩张芯片产能的市场，因为中国希望到2025年实现七成芯片自给率，而在芯片下行阶段，光刻机等设备的价格更便宜，逆周期扩张有助于中国低成本扩张芯片产能。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">如此情况下，中国市场对ASML的重要性毋庸置疑，寒冬下谁能给企业带来现金流就是雪中送炭，更何况中国市场还可以给ASML带来丰厚的利润，此前中国大举采购日本的二手光刻机，推动了日本二手光刻机翻倍上涨。</span></p><p style="text-indent: 2em; text-align: left;">事实上中国市场不仅对ASML这类光刻机企业非常重要，对于韩国存储芯片、美国芯片行业同样非常重要，它们的芯片企业都希冀中国企业能采购更多芯片，帮助它们消化库存，这些事实ASML当然都会看在眼里。</p><p style="text-indent: 2em; text-align: left;"><strong>三、ASML表态希望继续与<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E4%B8%AD%E5%9B%BD%E8%8A%AF.HTM" target="_blank" title="中国芯">中国芯</a></span>片合作</strong></p><p style="text-indent: 2em; text-align: left;">面对当前的市场现实，ASML高管已经表示DUV光刻机已经是成熟技术，限制对中国出售DUV光刻机无助于全球<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A.HTM" target="_blank" title="芯片产业">芯片产业</a></span>链的良性发展，它希望能给中国继续供应DUV光刻机，这可以说是ASML正式翻牌了。</p><p style="text-indent: 2em; text-align: left;">ASML当前也在大举扩张第一代EUV光刻机的产能，业界预期到2024年第一代EUV光刻机的产能将翻倍，然而<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>和<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>已完成3nm工艺的量产，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span>的Intel 4工厂也已完成建设争取今年下半年投产，它们的更先进工艺将需要第二代EUV光刻机，对第一代EUV光刻机的需求将逐渐减少。</p><p style="text-indent: 2em; text-align: left;">如此情况下ASML仍然大举扩张第一代EUV光刻机的产能，业界预期ASML就是希望在第二代EUV光刻机量产后，第一代EUV光刻机已不属于先进技术，而将第一代EUV光刻机供应给中国市场，因为需要EUV光刻机的只有三星、台积电、Intel和中国市场。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">如此也就不奇怪当老美再次要求ASML不要对中国出售14nm以下DUV光刻机之后，ASML方面表达拒绝的态度了，毕竟如今的环境对于ASML来说颇为艰难，中国市场可能对它的生存产生重要影响，为了生存ASML当然要争取自己的大客户，而不希望一味顺从老美的要求。</span></p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 老美步步进逼，为了生存的ASML终于翻牌了，不能失去中国市场</span></p> 
+  
+</div>
+            

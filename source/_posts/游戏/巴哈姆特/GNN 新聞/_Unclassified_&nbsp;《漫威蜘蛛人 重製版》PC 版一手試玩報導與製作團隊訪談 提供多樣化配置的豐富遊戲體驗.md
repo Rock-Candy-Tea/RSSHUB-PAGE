@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547'
 author: 巴哈姆特
 comments: false
-date: 2022-08-11 05:10:14
+date: 2022-08-11 06:12:37
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?v=1660193560547" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG?v=1660193585780" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG?v=1660193585780" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/1b11ad879230aebdabe8e290e41hqly5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -44,6 +44,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
  </div>
 <div>
 　　本次推出的 PC 版由 Insomniac Games 與具備豐富 PC 移植經驗的 Nixxes Software 團隊合作開發，完整收錄 PS5 版經過強化的內容，包含本篇與 3 個 DLC 章節。並針對 PC 進階硬體配備提供更豐富的圖像品質與效能設定，包括在 PS5 版首度導入的光線追蹤反射效果，支援從標準 16:9、超寬 21:9、全景 32:9 到三螢幕 48:9 的畫面比例與解析度，提供更豐富的客製化著色選項，讓玩家可以配合自己的 PC 硬體配備來調整。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/WK9fTOkAdK0?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
@@ -161,6 +167,17 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?v=1660196923107" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/39c305f5681593f57c876398551hqct5.JPG 2x" style="max-width: unset;" title="光線追蹤反射項目的反射解析度、幾何細節與物件範圍都可以個別微調" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figure class="pic-desc">
+光線追蹤反射項目的反射解析度、幾何細節與物件範圍都可以個別微調</figure>
+</li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/25b4a029de1519342664582e0d1hqde5.JPG?v=1660183367024" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/25b4a029de1519342664582e0d1hqde5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/25b4a029de1519342664582e0d1hqde5.JPG 2x" style="max-width: unset;" title="關閉光線追蹤反射的話，鏡面上就只會有 Cube Map Reflections 產生的虛假景物" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 關閉光線追蹤反射的話，鏡面上就只會有 Cube Map Reflections 產生的虛假景物</figure>
@@ -255,8 +272,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/603d36da4d71a1d88953eecee41hqlw5.
 <div>
  </div>
 <div>
-<div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/V5lD75gOM68?wmode=transparent" width="100%"></iframe></div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/5574c9dfe3683395bb780bb1dc1hqma5.WEBP?v=1660194941485" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/5574c9dfe3683395bb780bb1dc1hqma5.WEBP?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/5574c9dfe3683395bb780bb1dc1hqma5.WEBP 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
 </div>
 <div>
  </div>
@@ -271,12 +290,12 @@ PC 版開發團隊聯訪</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 133.59%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?v=1660193503683" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG 4x" style="max-width: unset;" title="Nixxes Software 創辦人暨開發總監 Jurjen Katsman" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 133.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?v=1660193503683" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/50/b7f80d7eec5ba2b34df22a05971hqlu5.JPG 4x" style="max-width: unset;" title="Nixxes Software 創辦人暨開發總監 Jurjen Katsman" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Nixxes Software 創辦人暨開發總監 Jurjen Katsman</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 133.59%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?v=1660193503683" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG 4x" style="max-width: unset;" title="Insomniac Games 核心技術總監 Mike Fitzgerald" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 133.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?v=1660193503683" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/4122d984ac29d60a45cea038241hqlv5.JPG 4x" style="max-width: unset;" title="Insomniac Games 核心技術總監 Mike Fitzgerald" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Insomniac Games 核心技術總監 Mike Fitzgerald</figure>
 </li>
@@ -299,7 +318,7 @@ Insomniac Games 核心技術總監 Mike Fitzgerald</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 28.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG?v=1660193429098" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG 2x" style="max-width: unset;" title="32:9 的畫面呈現效果" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 28.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG?v=1660193429098" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/49b3fe7aeb8e0644697a81d5f71hqlz5.JPG 2x" style="max-width: unset;" title="32:9 的畫面呈現效果" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 32:9 的畫面呈現效果</figure>
 </li>
@@ -326,7 +345,7 @@ Insomniac Games 核心技術總監 Mike Fitzgerald</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG?v=1660194220885" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG?v=1660194220885" data-srcset="https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/53/31d32c215dbffc5f5704c3f84d1hqlx5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -338,7 +357,15 @@ Insomniac Games 核心技術總監 Mike Fitzgerald</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG?v=1660194318255" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG 2x" style="max-width: unset;" title="PlayStation VR2" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/ae07f1e45439f84d68e0825f1b1hqm85.JPG?v=1660194991053" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/ae07f1e45439f84d68e0825f1b1hqm85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/ae07f1e45439f84d68e0825f1b1hqm85.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG?v=1660194318255" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/32/2ad700bdce4673085450dee06d1fdvc5.JPG 2x" style="max-width: unset;" title="PlayStation VR2" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 PlayStation VR2</figure>
 </li>
