@@ -1,0 +1,19 @@
+
+---
+title: '马斯克暗示或创办社交平台：X.com有望成推特竞争对手'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://n.sinaimg.cn/tech/transform/297/w630h467/20220414/e84f-575e12c5fbe97ec4a6875925b7ec9e53.jpg'
+author: cnBeta
+comments: false
+date: Thu, 11 Aug 2022 02:48:36 GMT
+thumbnail: 'https://n.sinaimg.cn/tech/transform/297/w630h467/20220414/e84f-575e12c5fbe97ec4a6875925b7ec9e53.jpg'
+---
+
+<div>   
+8月11日消息，美国当地时间周二，<strong>特斯拉首席执行官埃隆·马斯克（Elon Musk）暗示，如果他没有被迫完成斥资440亿美元收购推特的交易，他就会创办自己的社交平台。</strong><br>
+ <p style="text-align:center"><a href="https://n.sinaimg.cn/tech/transform/297/w630h467/20220414/e84f-575e12c5fbe97ec4a6875925b7ec9e53.jpg" target="_blank"><img src="https://n.sinaimg.cn/tech/transform/297/w630h467/20220414/e84f-575e12c5fbe97ec4a6875925b7ec9e53.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">周二，马斯克在推特上被问及是否会推出自己的社交网站，他只是简单地回复了“X.com”。此前，马斯克被披露出售了价值69亿美元的特斯拉股票，这可能是其为被迫收购推特做资金准备。</p><p style="text-align: left;">马斯克在推特上谈到此次出售特斯拉股票时表示：“如果推特请求法庭强制完成这笔交易，而有些股权合作伙伴又不能完成交易，那么避免紧急出售特斯拉股票至关重要。”</p><p style="text-align: left;">这并不是马斯克首次暗示要推出推特的直接竞争对手。在提出收购推特之前，马斯克就曾告诉该公司首席执行官帕拉格·阿格拉瓦尔（Parag Agrawal），他曾考虑创建自己的社交平台。</p><p style="text-align: left;">更重要的是，推特在对马斯克的诉讼中将这一想法列为令其担忧的原因，称他们认为马斯克可能是在汇编公司的内部数据，并试图复制其模式。</p><p style="text-align: left;">在上周的特斯拉年度股东大会上，马斯克在这家他2017年从<a target="_blank" href="https://news.163.com/news/search?keyword=PayPal">PayPal</a>手中回购的网站上发表了评论。他写道：“我确实有个更宏伟的愿景，那就是我认为X.com可能会恢复昔日荣光。这是个相当宏伟的愿景，当然可以从头开始，但我认为推特将把这一进程加快三到五年。”</p><p style="text-align: left;">X.com最初是一家由马斯克于1999年与人共同创立的在线银行。该公司最终与另一个支付系统Confinity合并，成为后来的PayPal，eBay在2002年斥资15亿美元将PayPal收购。</p><p style="text-align: left;">2017年，马斯克从PayPal手中购买了域名“X.com”，称该网站具有“巨大的情感价值”，并重新开通了该网站。当时，他说自己还没有相关计划。今天，如果你访问这个网站，上面只显示空白的页面，在网页的角落里有个小小的“X”标志。该网站在过去五年中基本没有变化。</p><p style="text-align: left;">如果X.com真的成为某种社交网络或推特的替代品，马斯克可能会专注于根除网站上的机器人，以及最大限度地减少审查。这位亿万富翁始终强烈批评推特上的机器人。</p><p style="text-align: left;">马斯克可能还没有决定是否建立自己的社交网络，因为他与推特的法庭之争将于10月份开始。推特表示，希望法庭强制马斯克按照商定协议收购该平台。最近几周，推特传唤了马斯克的许多亲密商业合作伙伴和朋友。</p><p style="text-align: left;">此案将在特拉华州衡平法院审理。上个月，当衡平法院法官凯瑟琳·麦考密克（Kathaleen St. J. McCormick）同意加快审判速度时，推特似乎赢得了与马斯克的第一场战斗。</p><p style="text-align: left;">多位专家此前表示，由于今年早些时候签署了收购合同，马斯克在努力摆脱这笔交易的努力中面临着一场艰苦的战斗。（小小）</p>   
+</div>
+            

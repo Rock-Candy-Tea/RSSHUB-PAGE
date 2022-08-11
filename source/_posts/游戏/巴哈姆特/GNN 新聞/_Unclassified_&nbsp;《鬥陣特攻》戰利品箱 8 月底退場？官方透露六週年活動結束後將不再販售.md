@@ -8,18 +8,18 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/52/41cebad640f6a902e1468b48e31hpu45.JPG?v=1660122075069'
 author: 巴哈姆特
 comments: false
-date: 2022-08-11 00:48:08
+date: 2022-08-11 02:53:17
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/41cebad640f6a902e1468b48e31hpu45.JPG?v=1660122075069'
 ---
 
 <div>   
 <div>
 <div>
-　　Blizzard 於今年 6 月已透露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》終將不會有戰利品箱的機制，而在今（10）日的《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》<a href="https://playoverwatch.com/zh-tw/news/23833172/vol-3/" target="_blank">六週年公告</a>中，官方提及「8 月 31 日結束後，戰利品箱將不再販售」，等於此機制將漸漸將從遊戲中退場。</div>
+　　Blizzard 於今年 6 月已透露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》終將不會有戰利品箱的機制，而在今（10）日的《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB" target="_blank">鬥陣特攻</a>》<a href="https://playoverwatch.com/zh-tw/news/23833172/vol-3/" target="_blank">六週年公告</a>中，官方提及「8 月 31 日結束後，戰利品箱將不再販售」，等於此機制將漸漸從遊戲中退場。</div>
 <div>
  </div>
 <div>
-　　在 2017 年底爆發的遊戲內微交易和戰利品箱事件後，該機制一直是遊戲產業中受到討論的話題。而今年 6 月的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》公告中，官方指出遊戲在 10 月 5 日推出時將以免費形式登場，屆時也將不會有戰利品的機制，取而代之的是持續推陳出新的遊戲服務，包含定期將定期推出賽季更新和戰鬥通行證等。對此，遊戲首席英雄設計師也曾在直播中表示，希望可以藉此讓玩家能在與遊戲互動和獲取新內容方面擁有更多控制權。</div>
+　　在 2017 年底爆發的遊戲內微交易和戰利品箱事件後，該機制一直是遊戲產業中受到討論的話題。而今年 6 月的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AC%A5%E9%99%A3%E7%89%B9%E6%94%BB+2" target="_blank">鬥陣特攻 2</a>》公告中，官方指出遊戲在 10 月 5 日推出時將以免費形式登場，屆時也將不會有戰利品的機制，取而代之的是持續推陳出新的遊戲服務，包含將定期推出賽季更新和戰鬥通行證等。對此，遊戲首席英雄設計師也曾在直播中表示，希望可以藉此讓玩家能在與遊戲互動和獲取新內容方面擁有更多控制權。</div>
 <div>
  </div>
 <div>
