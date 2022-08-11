@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/01/9fb13cb844ffe446a881814f6f1hqhp5.JPG?v=1660188170588'
 author: 巴哈姆特
 comments: false
-date: 2022-08-11 04:18:00
+date: 2022-08-11 05:10:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9fb13cb844ffe446a881814f6f1hqhp5.JPG?v=1660188170588'
 ---
 
@@ -156,14 +156,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9fb13cb844ffe446a881814f6f1hqhp5.
 <ul class="GN-thumbnails">
 <li class="line">
 <div class="GN-thumbnail">
-<a href="https://apps.apple.com/tw/app/id1579631419?at=1010l3Vj&ct=GNN" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/M/2KU/41/6a7b2fad765d268d66db15430a1hqit5.PNG?v=1660189021753" title="iOS 版下載連結" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://apps.apple.com/tw/app/id1579631419?at=1010l3Vj&ct=GNN" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/M/2KU/41/6a7b2fad765d268d66db15430a1hqit5.PNG?v=1660189021753" title="iOS 版下載連結" referrerpolicy="no-referrer"></a>
 <p class="pic-desc" style="width: 300px;">
 <a href="https://apps.apple.com/tw/app/id1579631419?at=1010l3Vj&ct=GNN" target="_blank">iOS 版下載連結</a></p>
 </div>
 </li>
 <li class="line">
 <div class="GN-thumbnail">
-<a href="https://play.google.com/store/apps/details?id=tw.com.iwplay.ht&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/M/2KU/42/599023c49d02e22806bf450a7e1hqiu5.PNG?v=1660189021753" title="Android 版下載連結" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://play.google.com/store/apps/details?id=tw.com.iwplay.ht&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/M/2KU/42/599023c49d02e22806bf450a7e1hqiu5.PNG?v=1660189021753" title="Android 版下載連結" referrerpolicy="no-referrer"></a>
 <p class="pic-desc" style="width: 300px;">
 <a href="https://play.google.com/store/apps/details?id=tw.com.iwplay.ht&referrer=utm_source%3Dgamer.com.tw%26utm_campaign%3Dgnn" target="_blank">Android 版下載連結</a></p>
 </div>
