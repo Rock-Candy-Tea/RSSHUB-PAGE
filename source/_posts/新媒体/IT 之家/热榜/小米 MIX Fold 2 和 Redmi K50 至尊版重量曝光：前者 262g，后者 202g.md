@@ -1,0 +1,19 @@
+
+---
+title: '小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/bba1d79c-4143-4115-8c04-5b139cb4adc5.jpeg'
+author: IT 之家
+comments: false
+date: Wed, 10 Aug 2022 04:12:41 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/bba1d79c-4143-4115-8c04-5b139cb4adc5.jpeg'
+---
+
+<div>   
+<p data-vmark="50d9"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a>8 月 10 日消息，小米 MIX Fold 2 和 Redmi K50 至尊版两款手机都将亮相于 8 月 11 日晚 19:00 的雷军年度演讲，两款手机的配置也是也是越来越清晰，现在有博主带来了两款手机的更多爆料。</p><p data-vmark="c17f"><img src="https://img.ithome.com/newsuploadfiles/2022/8/bba1d79c-4143-4115-8c04-5b139cb4adc5.jpeg" w="1080" h="1440" alt="IMG_256" title="小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g" width="1080" height="1093" referrerpolicy="no-referrer"></p><p data-vmark="2611">据博主 @熊猫很禿然 的爆料，<span class="accentTextColor">小米 MIX Fold 2 展开后的厚度为 5.4mm，折叠后的厚度为 11.4mm，整机重 262g</span>；Redmi K50 至尊版厚 8.6mm，整机重 202g 左右。</p><p data-vmark="1038">作为对比：</p><ul class=" list-paddingleft-2"><li><p data-vmark="720e">第一代小米 MIX Fold 展开后厚度为 7.62mm，折叠态为 17.2mm, 整机重 317g（黑色）；</p></li><li><p data-vmark="97fc">vivo X Fold 展开后厚度为 6.28mm，折叠态为 14.57mm，整机重 311g 左右；</p></li><li><p data-vmark="dfd8">荣耀 Magic V 展开后厚度为 6.7mm，折叠态为 14.3mm，整机重 288g（素皮版）；</p></li><li><p data-vmark="0f3a">华为 Mate Xs 2 展开后厚度为 5.4mm，折叠态为 11.1mm，整机重 255g；</p></li><li><p data-vmark="cc8d">三星 Galaxy Z Fold3 5G 展开以后的厚度为 6.4mm，折叠态为 14.4mm，整机重 271g。</p></li></ul><p data-vmark="fb74" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/636540d0-775e-40a8-bce7-71acc8926396.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzkyLnBuZw==,g_3,x_9,y_9,a_0,t_100" w="596" h="155" alt="lQLPJxaTtiyxvjXMm80CVLDKB8DPlR1aIALzE7gcwJYA_596_155" title="小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g" width="596" height="155" referrerpolicy="no-referrer"></p><p data-vmark="3a96">同时该博主此前还爆料过小米 MIX Fold 2 的电池容量为 4500mAh，支持 67W 快充。</p><p data-vmark="eedd" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/3b51ed9e-24fa-484a-a693-f930272f2cf2.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzkxLnBuZw==,g_3,x_9,y_9,a_0,t_100" w="592" h="151" alt="图片 1" title="小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g" width="592" height="151" referrerpolicy="no-referrer"></p><p data-vmark="f428">根据此前的爆料信息，小米 MIX Fold 2 折叠屏将搭载骁龙 8+ Gen 1 芯片，采用内外双 120Hz 屏幕，其中外屏为三星 E5 材质，内屏为三星 Eco² OLED（相较于传统功耗降低 25%），屏幕折痕控制更好。</p><p data-vmark="069a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/a132fb0e-a39c-4418-9a76-3c655f5769f8.png" w="820" h="1822" alt="图片 6" title="小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g" width="820" height="1822" referrerpolicy="no-referrer"></p><p data-vmark="3206">小米 MIX Fold 2 的外屏分辨率达到了 2520 x 1080，比例 21:9，回归主流屏幕比例，影像配置方面，新机搭载 5000 万像素主摄（索尼 IMX766 传感器，支持 OIS 光学防抖）、1300 万像素镜头（豪威 ov13b）、 2x 长焦镜头，支持徕卡影像和杜比视界 HDR 视频拍摄。</p><p data-vmark="859d">Redmi K50 至尊版将搭载骁龙 8+ Gen1 芯片，内置 5000mAh 电池，支持 120W 超级快充。拥有 8GB+128GB 以及 12GB+256GB 两种存储组合，出厂搭载基于 <a class="s_tag" href="https://android.ithome.com/" target="_blank">Android 12</a> 的 MIUI 13 操作系统。据微博博主 @数码闲聊站 称，顶配也有 12GB+512GB 存储版。目前官方已经公布了银迹配色的全身照，升级至金属相机 Deco，采用家族语言；升级至大深弯 AG 玻璃，超窄腰线。</p><p data-vmark="163b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/483c3057-28ae-4905-8fdb-47b01e3cebed.jpeg" w="690" h="518" alt="IMG_256" title="小米 MIX Fold 2 和 Redmi K50 至尊版重量曝光：前者 262g，后者 202g" width="690" height="518" referrerpolicy="no-referrer"></p><p data-vmark="d132">其它方面，Redmi K50 至尊版将搭载一块分辨率为 2712×1220 的 AMOLED 屏幕，支持屏下指纹解锁。前置 20MP 摄像头，后置主摄采用了 108MP 三星 ISOCELL HM6 主摄，其他镜头有 800 万像素超广角和 200 万像素微距镜头。</p>
+          
+</div>
+            

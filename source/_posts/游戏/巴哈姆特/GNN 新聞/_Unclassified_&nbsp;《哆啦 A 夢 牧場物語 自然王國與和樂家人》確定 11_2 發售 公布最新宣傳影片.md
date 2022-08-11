@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/34/fffe20061a9f9e70864edec8ff1hptm5.JPG?v=1660105278784'
 author: 巴哈姆特
 comments: false
-date: 2022-08-10 15:09:49
+date: 2022-08-11 00:48:08
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/fffe20061a9f9e70864edec8ff1hptm5.JPG?v=1660105278784'
 ---
 
@@ -84,7 +84,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/fffe20061a9f9e70864edec8ff1hptm5.
  </div>
 <div>
 <p class="caution">
-【以下內容為廠商提供資料原文】</p>
+【以下內容為日本新聞稿原文翻譯】</p>
 </div>
 <div>
  </div>
@@ -144,12 +144,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/34/fffe20061a9f9e70864edec8ff1hptm5.
  </div>
 <div>
 　　無論是閃耀著黃金光芒般的小麥田，或是美麗的夕陽斜照在海岬上，還有盛開在夜空中的煙花等，宛如身在繪本世界裡，充滿溫柔與祥和的世界觀也是本作的一大看點。</div>
-<div>
- </div>
-<div>
-<div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/pCjYJsc1nK0?wmode=transparent" width="100%"></iframe></div>
-</div>
 <div>
  </div>
 <h3>
