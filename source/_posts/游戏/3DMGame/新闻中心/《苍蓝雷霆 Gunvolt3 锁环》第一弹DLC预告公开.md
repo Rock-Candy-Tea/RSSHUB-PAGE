@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220812/1660283476_3676
 
 <div>   
 <p style="text-indent:2em;">
-横板动作游戏《苍蓝雷霆Gunvolt3锁环》官方公布了游戏第一弹DLC的预告，该DLC为“EX印象脉冲：史特拉托斯＆高利组合包”，现已登录Switch、Xbox One、Xbox Series X/S平台，售价12港币。自发售日起至2022年8月25日23:59止的2周内，该DLC将会作为「体验版开放下载宣传活动」免费发布。
+横板动作游戏《苍蓝雷霆Gunvolt3锁环》官方公布了游戏第一弹DLC的预告，该DLC为“EX印象脉冲：史特拉托斯＆高利组合包”，现已登录Switch、Xbox One、Xbox Series X/S平台，售价12港币。自发售日起至2022年8月25日23:59止的2周内，将会作为「体验版开放下载宣传活动」免费发布。
 </p>
 <p style="text-indent:2em;">
 此次预告介绍了《苍蓝雷霆GUNVOLT》中登场之七宝剑「史特拉托斯」的4种技能型印象脉冲，以及《苍蓝雷霆GUNVOLT 2》中登场之伊甸成员「高利」的4种技能型印象脉冲，再加上另外4种被动型印象脉冲的套装组合包。
