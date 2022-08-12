@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/5ea2476b045cd482f612ecd0511hqpu5.JPG?v=1660201947861'
 author: 巴哈姆特
 comments: false
-date: 2022-08-12 03:54:22
+date: 2022-08-12 04:23:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5ea2476b045cd482f612ecd0511hqpu5.JPG?v=1660201947861'
 ---
 
@@ -63,7 +63,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5ea2476b045cd482f612ecd0511hqpu5.
 <div>
  </div>
 <div>
-僧<b>侶：阿爾蒂（CV：彩瀬 Yuri）</b></div>
+<b>僧侶：阿爾蒂（CV：彩瀬 Yuri）</b></div>
 <div>
  </div>
 <div>
