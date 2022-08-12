@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?v=1660290361791'
 author: 巴哈姆特
 comments: false
-date: 2022-08-12 08:12:06
+date: 2022-08-12 09:09:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?v=1660290361791'
 ---
 
@@ -26,7 +26,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?v=1660290361791" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?v=1660290361791" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -51,7 +51,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/42/bf9ed242355e5c38d93f32a4001hrg65.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%80%B2%E6%93%8A%E7%BE%94%E7%BE%8A%E5%82%B3%E8%AA%AA" target="_blank">進擊羔羊傳說</a>》已於 PC、PS5、PS4、Xbox Series X|S、Xbox One、Nintendo Switch 等平台上市。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="49661" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
