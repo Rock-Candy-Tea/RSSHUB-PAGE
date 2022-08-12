@@ -1,0 +1,19 @@
+
+---
+title: '阳光能源参评_维科杯·OFweek 2022年度光伏行业技术创新奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/12/guanghua/1660298822000058671.png'
+author: 高科技行业门户
+comments: false
+date: Fri, 12 Aug 2022 10:18:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/12/guanghua/1660298822000058671.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2022<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2022年8月24日-8月31日进入网络投票环节，最终获奖结果将于9月27日在深圳举办的“OFweek2022（第十三届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>阳光能源控股有限公司参评“维科杯·OFweek 2022年度光伏行业技术创新奖”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/12/guanghua/1660298822000058671.png" width="500" height="144" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">阳光能源控股有限公司（股票代码：00757.HK）成立于2001年，是行业知名的光伏制造企业。公司集研发、生产、销售及光伏应用为一体，现有员工4000余人，在辽宁锦州、云南曲靖、江苏盐城等地设有生产基地，并在北京、上海、苏州、香港、日本设有办事处，业务足迹遍布国内及全球主要<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfushichang.html" target="_blank" title="光伏市场">光伏市场</a></span>。经过二十余年的发展，阳光能源形成硅棒、<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guipianjiage.html" target="_blank" title="硅片">硅片</a></span>、组件、光伏应用的垂直一体化经营模式，致力于为全球客户提供优质的光伏产品及服务，推动清洁能源行业发展。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek 2022年度光伏行业技术创新奖</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">阳光能源致力于产品研发与技术创新，平均每年约将营业收入约5%投入研发和创新，保证了企业持久的创新力和生命力，截至目前，累计获得 287项国家专利，48 项省市科学技术奖项。</p><p style="text-indent: 2em; text-align: left;">此外，阳光能源还注重产学研合作。阳光能源与大连理工大学联合建立了省级<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260018-dianchijishu.html" target="_blank" title="太阳能电池">太阳能电池</a></span>工程技术研究中心，下设拉晶研究室、切片研究室、<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>研究室、组件研究室和光伏检测室，与大连理工联合申报的“ 黑硅太阳电池项目” 被国家科技部列入 863 计划。</p><p style="text-indent: 2em; text-align: left;">光伏行业相关会议展会推荐：</p><p style="text-indent: 2em; text-align: left;">1、OFweek 2022(第十三届)太阳能光伏产业大会暨光伏行业年度颁奖典礼</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/pv/" target="_blank">https://www.ofweek.com/seminar/2022/pv/</a></p><p style="text-indent: 2em; text-align: left;">2、OFweek 2022智慧光伏与<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>大会暨展览会将于</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/PVES/" target="_blank">https://www.ofweek.com/seminar/2022/PVES/</a></p><p style="text-indent: 2em; text-align: left;">3、维科杯·OFweek 2022太阳能光伏行业年度评选</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">会议专题：<a href="https://www.ofweek.com/award/2022/solar/" target="_blank">https://www.ofweek.com/award/2022/solar/</a></p> 
+  
+</div>
+            
