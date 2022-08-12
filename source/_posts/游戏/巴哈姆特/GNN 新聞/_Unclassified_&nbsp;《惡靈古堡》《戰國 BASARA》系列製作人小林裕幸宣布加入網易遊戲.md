@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/f0bd51c9e88ca02d8a25adc6b21hr7i5.JPG?v=1660277587273'
 author: 巴哈姆特
 comments: false
-date: 2022-08-12 06:12:16
+date: 2022-08-12 07:09:07
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/f0bd51c9e88ca02d8a25adc6b21hr7i5.JPG?v=1660277587273'
 ---
 
 <div>   
 <div>
 <div>
-　　曾經手《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%AD%94%E7%8D%B5%E4%BA%BA" target="_blank">惡魔獵人</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%8B+BASARA" target="_blank">戰國 BASARA</a>》系列等眾多 CAPCOM 知名遊戲製作的遊戲創作者小林裕幸，今日（8/12）配合自己 50 歲生日的時機，在 Twitter 上宣布已經於 3 月底從任職長達 27 年的 CAPCOM 離職，並加入中國遊戲開發發行商網易遊戲（NerEase Game）。</div>
+　　曾經手《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%AD%94%E7%8D%B5%E4%BA%BA" target="_blank">惡魔獵人</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%8B+BASARA" target="_blank">戰國 BASARA</a>》系列等眾多 CAPCOM 知名遊戲製作的遊戲創作者小林裕幸，今日（8/12）配合自己 50 歲生日的時機，在 Twitter 上宣布已經於 3 月底從任職長達 27 年的 CAPCOM 離職，並加入中國遊戲開發發行商網易遊戲（NetEase Game）。</div>
 <div>
  </div>
 <div>
