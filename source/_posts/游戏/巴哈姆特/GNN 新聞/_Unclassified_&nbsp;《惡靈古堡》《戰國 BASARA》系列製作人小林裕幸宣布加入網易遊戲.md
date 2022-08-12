@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/f0bd51c9e88ca02d8a25adc6b21hr7i5.JPG?v=1660277587273'
 author: 巴哈姆特
 comments: false
-date: 2022-08-12 04:23:40
+date: 2022-08-12 05:12:18
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/f0bd51c9e88ca02d8a25adc6b21hr7i5.JPG?v=1660277587273'
 ---
 
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/f0bd51c9e88ca02d8a25adc6b21hr7i5.
 <div>
  </div>
 <div>
-　　1972 年生的小林裕幸出身名古屋，畢業於中京大學情報科學部情報科學科。1995 年以程式設計師的身分加入 CAPCOM。首款參與製作的作品為 1996 年在 PlayStation 主機推出的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》初代作，後於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E9%BE%8D%E5%8D%B1%E6%A9%9F+2" target="_blank">恐龍危機 2</a>》首次擔任製作人。曾經手過的作品包括《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E9%BE%8D%E5%8D%B1%E6%A9%9F" target="_blank">恐龍危機</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%AD%94%E7%8D%B5%E4%BA%BA" target="_blank">惡魔獵人</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%8B+BASARA" target="_blank">戰國 BASARA</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BE%8D%E6%97%8F%E6%95%99%E7%BE%A9" target="_blank">龍族教義</a>》等，並廣泛擔任相關遊戲改編影劇作品的顧問、監修與製片。</div>
+　　1972 年生的小林裕幸出身名古屋，畢業於中京大學情報科學部情報科學科。1995 年以程式設計師的身分加入 CAPCOM。首款參與製作的作品為 1996 年在 PlayStation 主機推出的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》初代作，後於《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E9%BE%8D%E5%8D%B1%E6%A9%9F+2" target="_blank">恐龍危機 2</a>》首次擔任製作人。曾經手過的作品包括《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E9%BE%8D%E5%8D%B1%E6%A9%9F" target="_blank">恐龍危機</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%AD%94%E7%8D%B5%E4%BA%BA" target="_blank">惡魔獵人</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E5%9C%8B+BASARA" target="_blank">戰國 BASARA</a>》系列、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BE%8D%E6%97%8F%E6%95%99%E7%BE%A9" target="_blank">龍族教義</a>》等。並廣泛擔任相關遊戲改編影劇作品的顧問、監修與製片。</div>
 <div>
  </div>
 <div>
