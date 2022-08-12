@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/19/8ad15a11527ab1fa3d393f045b1hqw35.JPG?v=1660212761398'
 author: 巴哈姆特
 comments: false
-date: 2022-08-12 05:12:18
+date: 2022-08-12 06:12:16
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/8ad15a11527ab1fa3d393f045b1hqw35.JPG?v=1660212761398'
 ---
 
@@ -39,7 +39,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/8ad15a11527ab1fa3d393f045b1hqw35.
 <div>
  </div>
 <div>
-　　官方表示，玩家在遊戲中需活用智慧，利用複製槍複製自己（一次最多四個複製體）來解決一路上遇到的危機和障礙，玩家可以把他們當成腳踏板跳上高處、用來觸發危險機關，或者變成自己的肉盾擋下雷射攻擊。</div>
+　　官方表示，玩家在遊戲中需活用智慧，利用複製槍複製自己（一次最多四個複製體）來解決一路上遇到的危機和障礙，玩家可以把他們當成腳踏板跳上高處、用來觸發危險機關，或者變成肉盾擋下雷射攻擊。</div>
 <div>
  </div>
 <div>
