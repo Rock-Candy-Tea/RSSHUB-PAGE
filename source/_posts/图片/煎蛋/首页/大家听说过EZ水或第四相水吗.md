@@ -5,15 +5,15 @@ categories:
  - 图片
  - 煎蛋
  - 首页
-headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2c8ce2cca3998643b5a5153d57390c6b.jpg!custom'
+headimg: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2d4a93fecfbd1ad71255c4352a3c67e8.jpg!custom'
 author: 煎蛋
 comments: false
 date: Fri, 12 Aug 2022 10:26:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2c8ce2cca3998643b5a5153d57390c6b.jpg!custom'
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2d4a93fecfbd1ad71255c4352a3c67e8.jpg!custom'
 ---
 
 <div>   
-<blockquote><p>它科学吗</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2c8ce2cca3998643b5a5153d57390c6b.jpg!custom" referrerpolicy="no-referrer"><p>EZ水，直译 排斥区水，也叫第四相水(区别于气液固三相的第四相)，有时也叫六角水、结构化水。</p>
+<blockquote><p>它科学吗</p></blockquote><img src="https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2d4a93fecfbd1ad71255c4352a3c67e8.jpg!custom" referrerpolicy="no-referrer"><p>EZ水，直译 排斥区水，也叫第四相水(区别于气液固三相的第四相)，有时也叫六角水、结构化水。</p>
 <p>在国内，或许很多人是通过著名的自我提升读物《大脑赋能术》一书，知道了“EZ水”这个概念。据该书作者、著名创业者、生物黑客戴夫·阿斯普雷的说法，EZ水带负电荷，神经元发送信号时需要负电荷，所以EZ水对脑健康非常重要。另外一提，不知诸位喝过防弹咖啡没有，那就是阿斯普雷的成名作。</p>
 <p>几周前，考特尼·卡戴珊 (Kourtney Kardashian) 的Poosh网站推出了一款售价 2500 美元的“结构化滤水器”。</p>
 <p>所以，这玩意科学吗？</p>
@@ -25,7 +25,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2019/01/2
 <p>人体细胞中存在亲水表面，因此有人认为EZ水比普通水“更健康”，我们细胞需要的是EZ水。</p>
 <p>现已删除的《悉尼先驱晨报》文章采访了一位名叫 Rob Gourlay 的水结构科学专家。</p>
 <p>他提出了许多结构化水的优点：更天然，带负电荷，比普通水更快地流入我们的细胞，并且具有许多其他所谓的健康益处。</p>
-<p>虽然文章没有提及，但快速搜索显示Rob Gourlay的是一家名为Phi'on的公司的“首席科学家”，该公司的业务是销售水结构设备。</p>
+<p>虽然文章没有提及，但快速搜索显示Rob Gourlay的是一家名为Phi'on的公司的“首席科学家”，该公司的业务是销售水结构化设备。</p>
 <p><strong>从合理到荒谬</strong></p>
 <p>让我们来看看这些说法。其中一些是合理的，而另一些则是荒谬的。</p>
 <p>我们知道水在与另一种物质的界面附近会表现出不同的行为，因为它不再只与其他水分子相互作用。表面张力是这种现象的一个常见例子。</p>
