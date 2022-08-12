@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14648/destiny2_witch_queen_axis_studios_10.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-08-12 09:09:14
+date: 2022-08-12 10:10:55
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14648/destiny2_witch_queen_axis_studios_10.-full.png'
 ---
 
@@ -17,7 +17,7 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14648/destiny2_witch_
             
                 
                     <h2 class="mb-0 c-name">
-                        <a href="https://axisstudiosgroup.com/clients/bungie-activision/">Bungie/ Activision</a>
+                        <a href="https://axisstudiosgroup.com/clients/bungie/">Bungie</a>
                     </h2>
                 
                 
