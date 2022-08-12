@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/web/topic/2022/08/11/220811223430252_u32595
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>是重制版。</p>
 </div>
 
                 

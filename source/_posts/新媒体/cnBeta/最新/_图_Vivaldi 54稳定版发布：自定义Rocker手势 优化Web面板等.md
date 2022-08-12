@@ -1,0 +1,19 @@
+
+---
+title: '_图_Vivaldi 5.4稳定版发布：自定义Rocker手势 优化Web面板等'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0812/0f0e87633078499.webp'
+author: cnBeta
+comments: false
+date: Fri, 12 Aug 2022 02:40:53 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0812/0f0e87633078499.webp'
+---
+
+<div>   
+<strong>Vivaldi 5.4 稳定版发布。新版本主要带来了一系列实用性改进，包括自定义 Rocker Gestures 手势，以及优化了 Web面板。</strong>现有用户可以通过选择 Vivaldi 菜单 > 帮助 > 检查更新来升级到新版本。选择该选项后，浏览器会自动下载并安装新版本的浏览器。新用户可以访问 Vivaldi 主网站进行下载。<br>
+ <p style="text-align: left;">下载：<a href="https://vivaldi.com/zh-hans/" target="_blank">Vivaldi 5.4 稳定版</a></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/0f0e87633078499.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/e7487abb06ba0cb.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/a710cb581f72fba.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Web 面板是 Vivaldi 浏览器的核心功能之一。它默认显示在左侧的小边栏中，可用于显示网站相关信息。侧边栏本身链接到其他功能，例如最近推出的电子邮件客户端、提要、注释、下载或书签。在 Vivaldi 5.4 中，用户现在可以将 Web 面板静音。只需右键单击图标并选择新的“静音面板”选项即可静音任何声音。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/b488434194fd351.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Vivaldi 5.4 中的另一个新选项是自定义 Rocker Gestures 的能力。Rocker Gestures 是浏览器鼠标手势系统的一部分。Rocker Gestures 默认启用，允许用户在仅使用鼠标的情况下对页面进行前进、后退等操作。</p><p style="text-align: left;">要前进，请按鼠标左键，然后按鼠标右键。要返回，请颠倒顺序并先按鼠标右键，然后再按左键。此前，Rocker Gestures 无法自定义。现在，随着 Vivaldi 5.4 的发布，提供了为动作分配不同动作的选项。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/5346c1b2a5c2ee7.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">转到 Vivaldi > 设置 > 鼠标开始。向下滚动到“摇杆手势”部分，然后使用任一操作旁边的菜单为其分配不同的操作。您可以映射诸如“将所有选项卡静音”、“翻译页面”或“创建书签”等操作。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/b4a72fd369911a2.webp" alt="rra7ipdz.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Vivaldi 5.4 包括其他几项改进：</p><blockquote style="text-align: left;"><p style="text-align: left;">● 复制链接以突出显示是一项新功能，可与其他基于 Chromium 的浏览器用户快速共享网页的特定突出显示部分。只需选择页面的一部分，右键单击并使用新的“复制链接以突出显示”选项将指向该部分的链接复制到剪贴板。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/ca15b90d8d2cd4f.webp" alt="obcxfqp3.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● 始终使用安全连接 (HTTPS) 位于设置 > 地址栏 > 安全功能下。为 HTTP 站点启用自动 HTTPS 升级，并在站点不支持 HTTPS 时显示警报。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/14669e605b9125c.webp" alt="mhalyzxs.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">● Vivaldi 邮件、日历和提要阅读器更新到 1.1。没有新功能，但有很多微调和引擎盖下的改进。 Vivaldi Technologies 特别提到了速度和性能改进。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/d4ff08bd37a4430.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/9a30480bd39b2b5.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/fd771d2b411d305.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/8ab52916ebec2ab.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/b9e75844ebcf555.webp" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0812/057652934d598d3.webp" referrerpolicy="no-referrer"></p></blockquote>   
+</div>
+            
