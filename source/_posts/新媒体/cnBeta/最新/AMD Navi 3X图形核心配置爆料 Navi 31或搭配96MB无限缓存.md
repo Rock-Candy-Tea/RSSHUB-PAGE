@@ -1,0 +1,19 @@
+
+---
+title: 'AMD Navi 3X图形核心配置爆料 Navi 31或搭配96MB无限缓存'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0813/83129b14195e08c.jpg'
+author: cnBeta
+comments: false
+date: Sat, 13 Aug 2022 06:19:55 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0813/83129b14195e08c.jpg'
+---
+
+<div>   
+随着发布日期的临近，我们对 AMD RDNA 3 GPU 的了解也日渐深入。<strong>比如在 Angstronomics 网站上，SkyJuice 就分享了与“Navi 3X”有关的芯片详情。</strong>尽管一些细节最早可追溯到 2019 - 2020 年，但我们还是可以借此机会再回顾一下。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0813/83129b14195e08c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0813/83129b14195e08c.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">旧 Navi 31 渲染图（Wild_C）</p><p><strong>首先是 Navi 31：</strong></p><blockquote><p>● 芯片代号：gfx1100 / Plum Bonito</p><p>● 小芯片设计：1 组 GCD + 6×16MB MCD（0-hi 或 1-hi）</p><p>● 48 个 WGP 计算集群，包含 96 个传统计算单元（CU）/ 12288 个 ALU 单元。</p><p>● 6 组着色器引擎（Shader Engines）/ 12 个着色器阵列（Shader Arrays）</p><p>● Infinity Cache 配置：96MB（0-hi）或 192MB（1-hi）无限缓存</p><p>● VRAM 规格：搭配 384-bit GDDR6 显存</p><p>● GCD 工艺：台积电 N5，面积约 308 m㎡ 。</p><p>● MCD 工艺：台积电 N6，面积约 37.5 m㎡ 。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0813/df9745be5c18b37.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0813/df9745be5c18b37.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">旧 Navi 32 渲染图</p><p><strong>其次是 Navi 32：</strong></p><blockquote><p>● 芯片代号：gfx1101 / Wheat Nas）</p><p>● 小芯片设计：1 组 GCD + 4x16MB MCD（0-hi）</p><p>● 30 组 WGP，包含 60 个传统 CU / 7680 个 ALU 单元。</p><p>● 3 组着色器引擎 / 6 个着色器阵列</p><p>● Infinity Cache 配置：64MB（0-hi）</p><p>● 显存规格：256-bit GDDR6</p><p>● GCD 工艺：台积电 N5，约 200 m㎡ 。</p><p>● MCD 工艺：台积电 N6，约 37.5 m㎡ 。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0813/92eb4b08c8dec8c.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0813/92eb4b08c8dec8c.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">旧 Navi 33 渲染图</p><p><strong>然后是 Navi 33：</strong></p><blockquote><p>● 芯片代号：gfx1102 / Hotpink Bonefish</p><p>● 单片式 / Monolithic 设计</p><p>● 16 组 WGP，包含 32 个传统 CU / 4096 个 ALU 单元。</p><p>● 2 个着色器引擎 / 4 个着色器阵列</p><p>● Infinity Cache：32MB</p><p>● 显存规格：128-bit GDDR6</p><p>● 制程工艺：台积电 N6，约 203 m㎡ 。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0813/802b68a288b4b0d.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0813/802b68a288b4b0d.jpg" alt="1.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（Navi 3X | Wild_C）</p><p><a href="https://www.angstronomics.com/p/amds-rdna-3-graphics" target="_self">Angstronomics</a> 声称，采用 Navi 32 GPU 的 Radeon RX 7000 系列显卡，或于 2023 年 1 季度到来。</p><p>此外 GCD 和 MCD 采用了不同的工艺节点制造，或有助于更好地节省 GPU 制造成本。</p><p>不过其 Infinity Cache 容量，可能从上一代 Navi 22 的 96MB、缩水到这一代的 64MB 。</p><p><img src="https://static.cnbetacdn.com/article/2022/0813/21fbd3579f7235f.jpg" alt="2.jpg" referrerpolicy="no-referrer"></p><p>至于采用 Navi 33 GPU 的入门型号（Radeon RX 7500 XT），不少人盼着它能够用一半的价格，将<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://intel.jd.com/" target="_blank">英特尔</a>高端锐炫（Arc）独显也给按在地上摩擦。</p><p><a href="https://static.cnbetacdn.com/article/2022/0813/2aa014ccb2523f0.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0813/2aa014ccb2523f0.png" alt="6.png" referrerpolicy="no-referrer"></a></p><p>鉴于英特尔宣称 Arc A770 与英伟达 GeForce RTX 3070 的跑分旗鼓相当，即使我们对上述传闻持保留态度，即将到来的新一代显卡大战，势必也会更加精彩。</p>   
+</div>
+            
