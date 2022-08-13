@@ -1,0 +1,18 @@
+
+---
+title: '腾讯_定时发送消息_专利获授权，微信QQ能用上了？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8ac_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 12 Aug 2022 16:05:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8ac_1024.jpg'
+---
+
+<div>   
+<p>每次提及期待微信新增的功能，除去老生常谈的朋友圈可编辑、语音进度条、双向好友删除等外，" 定时消息 " 也是很多用户希望有的功能。虽说这个功能使用率不高，但在关键的时刻，它就显得尤为重要。</p><p>特别是一些热恋中的情侣或者好友，有时想守时给对方发送节日或者生日祝福，但却止不住犯困的双眼皮或糟糕的记性，很可能让双方的感情产生间隙。</p><p>除了生活中，工作中也有类似的困境。比如说我们想要安排几天后的一项工作，现在就发送提醒担心对方到时候忘了，那等到时间再发吧，又怕自己忘了，并且很多时候我们也避免不了遭遇开会或网络不好等不方便甚至没法操作手机的场景，如果微信可以替自己发送消息就好了。</p><p>不过这样的情况，可能即将发生改变。因为腾讯的一项专利，正好可以解决上述问题。</p><p>去年 6 月份，腾讯就公开了一项名为【会话消息的定时发送方法、装置、计算机设备及存储介质】的专利。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8ac_1024.jpg" data-height="552" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8ac_1024.jpg" referrerpolicy="no-referrer"></div></div>总结下来其实就四个字：定时消息。<p></p><p>摘要显示，该方法包括：</p><p>获取待发送会话消息，以及对应的语意消息集合；</p><p>语意消息集合中包含与待发送会话消息的语意相匹配的会话消息，语意消息集合中各个会话消息为已发送的会话消息；</p><p>根据语意消息集合中各个会话消息的会话时间信息，确定待发送会话消息的推荐发送时间；按照推荐发送时间定时发送待发送会话消息。</p><p>上述技术方案，能自动推荐发送时间，并按照推荐时间发送会话消息，有效提高会话消息的发送效率。</p><p>这一大段字看下来可能不好理解，但是根据该专利的说明书和附图就能很清晰的知道这是怎么回事了。</p><p>首先，用户通过长按历史消息，随后点击 " 定时发送 "：</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202208/62f66a0ab15ec0792736b8ad_1024.jpg" data-height="1119" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f66a0ab15ec0792736b8ad_1024.jpg" referrerpolicy="no-referrer"></div></div>此时输入框右侧会出现 " 定时发送 " 按钮：<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202208/62f66a0ab15ec0792736b8ae_1024.jpg" data-height="1118" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/62f66a0ab15ec0792736b8ae_1024.jpg" referrerpolicy="no-referrer"></div></div>用户可以选择已发送的消息，或输入新消息进行定时发送。<p></p><p>输入消息后，点击 " 定时发送 " 按钮，界面会弹出 " 请选择消息发送模式 " 窗口。</p><p>用户可以选择 " 推荐时间发送模式 " 或 " 固定时间发送模式 "，前者可根据消息内容自动推荐发送时间，后者可选择指定发送时间。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8af_1024.jpg" data-height="557" data-width="640" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8af_1024.jpg" referrerpolicy="no-referrer"></div></div>总的来说，就是定时功能支持系统推荐时间，或者指定的具体时间，设置好要发送的消息后，就可以随意设定想要它发出的时间。时间一到，不用你再次动手，消息就会自动发出去。<p></p><p>现在，据天眼查 App 显示，8 月 12 日，这项专利已获授权。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8b0_1024.jpg" data-height="571" data-width="1043" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/62f66a0ab15ec0792736b8b0_1024.jpg" referrerpolicy="no-referrer"></div></div>不过要注意的是，腾讯申请定时发送消息的专利并不意味着未来一定会投入使用，即便该项专利已获授权也不代表着相关功能会上线，可能是腾讯出于保护目的，无论腾讯未来是否使用，别的厂商是一定不能用。<p></p><p>当然我们还是期待不久的未来，定时发送消息能在 QQ 和微信上线，今后我们在日常生活和工作中交流、安排任务时，才会更加方便。</p><p>编辑：崔崔</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
