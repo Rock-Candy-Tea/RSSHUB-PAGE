@@ -1,0 +1,89 @@
+
+---
+title: '第三人称射击游戏《Outcast 2》预告 支持简繁体中文'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220813/1660354276_408828.jpg'
+author: 3DMGame
+comments: false
+date: Sat, 13 Aug 2022 01:36:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220813/1660354276_408828.jpg'
+---
+
+<div>   
+<p style="text-indent:2em;">
+今日（8月13日），THQ Nordic官方公布第三人称射击游戏《Outcast 2》最新预告，该作支持简繁体中文，发售日期待定，感兴趣的玩家可以<a href="https://store.steampowered.com/app/1013140/Outcast_2__A_New_Beginning/" target="_blank">点击此处</a>进入商店页面。
+</p>
+<p style="text-indent:2em;">
+<strong>游戏宣传片：</strong> 
+</p>
+<p align="center">
+<iframe src="https://player.youku.com/embed/XNTg5NDUyOTUwNA
+==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
+</iframe>
+</p>
+<p style="text-indent:2em;">
+<strong>游戏介绍：</strong> 
+</p>
+<p style="text-indent:2em;">
+距离备受赞誉的动作冒险大作《Outcast》的发布已经过去了 20 年的时间，如今我们终于迎来了这款开创性非线性<a target="_blank" href="https://www.3dmgame.com/tag/kaifangshijie_1/">开放世界</a>游戏的续作。刀锋斯莱德的英姿也将重回那个壮美的外星世界，Adelpha。在强大 Yod 们的复活之力的帮助下，斯莱德回到了那个熟悉的外星世界，但却发现 Talan 人已经遭到了奴役，这个世界的自然资源也遭到了掠夺，斯莱德的过去也与入侵的机器人大军纠缠在了一起。他将再次踏上拯救这颗星球的艰难旅程。
+</p>
+<p style="text-indent:2em;">
+这款续作的奇幻世界由重聚而成的《Outcast 1》原始团队操刀制作，这个世界里充满了各种危险的生物，同时也是 Talan 人的家园——这是一个流传自上古的社会，而他们的命运从第一代游戏的各项事件开始便与地球结下了不解之缘。您将扮演刀锋斯莱德，一位前海豹突击队员。他保持着 90 年代那冷峻而又不失幽默性格特点——然而，其身处的世界已经彻底发生了变化，而他也将同样展现出不一样的面貌。
+</p>
+<p style="text-indent:2em;">
+<strong>游戏特点：</strong> 
+</p>
+<p style="text-indent:2em;">
+使用喷气背包进行跳跃、空中冲刺、滑行并快速穿行在游戏那奇幻的开放世界之中。
+</p>
+<p style="text-indent:2em;">
+组合各种不同的模组创造出独特武器从而击败那些机器人入侵者
+</p>
+<p style="text-indent:2em;">
+按您自己选择的角度和步伐，在这个非线性的游戏世界中影响整个故事的走向
+</p>
+<p style="text-indent:2em;">
+探索这个大无边际的游戏世界，发现隐藏的神庙和危险的野外生物
+</p>
+<p style="text-indent:2em;">
+了解并熟悉 Talan 社会，同时帮助他们解救村民并获得上古 Talan 之力，使用其所带来的自然之力摧毁您的敌人
+</p>
+<p style="text-indent:2em;">
+在由初代《Outcast》配乐作曲家，Lennie
+Moore 所制作的史诗原声音乐的陪伴下，探索这个精心制作的美丽世界
+</p>
+<p style="text-indent:2em;">
+<strong>游戏截图：</strong> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354276_408828.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354283_107167.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354290_503275.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354297_429131.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354267_597080.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354267_334506.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354267_824029.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354309_165791.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220813/1660354267_287521.jpg" alt="第三人称射击游戏《Outcast 2》预告 支持简繁体中文" referrerpolicy="no-referrer"> 
+</p>          
+</div>
+            
