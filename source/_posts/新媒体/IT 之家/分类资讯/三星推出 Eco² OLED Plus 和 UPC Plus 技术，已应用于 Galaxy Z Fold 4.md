@@ -1,0 +1,19 @@
+
+---
+title: '三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/f5abd056-6a4e-4ece-a554-dd00d2eb63eb.jpg'
+author: IT 之家
+comments: false
+date: Sat, 13 Aug 2022 08:16:05 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/f5abd056-6a4e-4ece-a554-dd00d2eb63eb.jpg'
+---
+
+<div>   
+<p data-vmark="aaca"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 13 日消息，三星去年在发布 Galaxy Z Fold3 的同时也为大家讲解了新一代的低功耗 OLED 屏幕 ——Eco<sup>2</sup> OLED，高效、节能，而且足够环保，相比前一代可将功耗再降低 25%，且透光率提升 33%。</p><p data-vmark="aa73">IT之家曾报道， 之前有数码博主爆料称，小米 MIX FOLD 2 折叠屏就是搭载了双 120Hz 屏幕，<span class="accentTextColor">其中内屏为三星 Eco² OLED。</span></p><p data-vmark="98b1">随着 三星 Galaxy Z  Fold 4 的到来，三星 Display 官方又拿出了最新的 Eco² OLED Plus 和 UPC Plus 技术，现在为大家讲解一下。</p><p data-vmark="fd46" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/f5abd056-6a4e-4ece-a554-dd00d2eb63eb.jpg" w="360" h="119" title="三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4" width="360" height="119" referrerpolicy="no-referrer"></p><p data-vmark="a680" style="text-align: left;">在韩国最大显示展“K-Display 2022”上，三星显示发布了下一代自发光显示产品，例如 Eco² OLED Plus、Life Style、中小 OLED、大 QD-OLED 等等。</p><p data-vmark="d2cc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/f831f5a8-60d9-4a8b-9189-c4e2e6c04563.jpg@s_2,w_820,h_431" w="1024" h="538" title="三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4" srcset="https://img.ithome.com/newsuploadfiles/2022/8/f831f5a8-60d9-4a8b-9189-c4e2e6c04563.jpg 2x" width="1024" height="431" referrerpolicy="no-referrer"></p><p data-vmark="e7cb" style="text-align: left;">据介绍，Eco² OLED 是一种通过改变面板堆叠结构而不是偏光片来防止外部光反射并增加光透射率的技术。</p><p data-vmark="9ea9" style="text-align: left;">Eco² OLED Plus 是与去年的 Eco² OLED 相比，主要是改进了非偏振低功耗技术。</p><p data-vmark="0a65" style="text-align: left;">与普通 OLED 相比，新的显示面板功耗可降低 37%，透光率提高 160%。此次升级为进一步降低功耗、提高清晰度的技术，已应用于 Galaxy Z Fold 4。</p><p data-vmark="1e58" style="text-align: left;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/02139716-095a-4a55-af43-7ba6199b8a01.jpg@s_2,w_820,h_461" w="900" h="506" title="三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4" srcset="https://img.ithome.com/newsuploadfiles/2022/8/02139716-095a-4a55-af43-7ba6199b8a01.jpg 2x" width="900" height="461" referrerpolicy="no-referrer"></p><p data-vmark="2a3a" style="text-align: left;">此外，UPC Plus 是一项创新性的技术。三星表示，这种技术可通过消除显示面板上的摄像头孔位，真正实现全面屏，感知分辨率相比之前的“Galaxy Z Fold 3”提升了 1.4 倍。</p><p data-vmark="1171" style="text-align: left;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/6ebbccda-958a-437c-a8e6-3884686419e2.jpg" w="800" h="596" title="三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4" width="800" height="596" referrerpolicy="no-referrer"></p><p data-vmark="e77b" style="text-align: left;">除此之外，三星还介绍了 Diamond Pixel Zone 技术 ，这是一种环保技术，可减少塑料零件的使用率并降低功耗。</p><p data-vmark="65e9" style="text-align: left;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/6b958793-e6a7-4a1f-9be0-47080fbf53a8.jpg@s_2,w_820,h_461" w="900" h="506" title="三星推出 Eco² OLED Plus 和 UPC Plus 技术，已应用于 Galaxy Z Fold 4" srcset="https://img.ithome.com/newsuploadfiles/2022/8/6b958793-e6a7-4a1f-9be0-47080fbf53a8.jpg 2x" width="900" height="461" referrerpolicy="no-referrer"></p><p data-vmark="3963" style="text-align: center;">《<a href="https://www.ithome.com/0/569/504.htm" target="_blank">三星推出全新 Eco²  OLED 屏，功耗再降低 25%：已用于 Z Fold 3</a>》</p><p data-vmark="e349" style="text-align: center;">《<a href="https://www.ithome.com/0/633/895.htm" target="_blank">小米 MIX FOLD 2 折叠屏搭载双 120Hz 屏幕：内屏为三星 Eco² OLED，功耗降低 25%</a>》</p>
+          
+</div>
+            
