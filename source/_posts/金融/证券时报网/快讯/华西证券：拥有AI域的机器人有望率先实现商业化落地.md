@@ -1,0 +1,20 @@
+
+---
+title: '华西证券：拥有AI域的机器人有望率先实现商业化落地'
+categories: 
+ - 金融
+ - 证券时报网
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=5416'
+author: 证券时报网
+comments: false
+date: Sat, 13 Aug 2022 19:06:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5416'
+---
+
+<div>   
+<p>证券时报网讯，<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ002926" code="002926">华西证券</a>指出，拥有AI域的<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>有望率先实现商业化落地，拥有AI域的<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>优势在于通过统一的算法合平台软件迭代可以进行快速版本升级，产品交付速度、迭代周期明显更快。同时统一的算法和平台架构可以快速吸引平台开发者，进而加快<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>应用版本功能升级、丰富应用场景。此外，AI域可以大幅提升用户的接受度和体验感，进而实现<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>真正意义上的智能化。因此积极的推荐以下四条投资主线：1）具备自研AI处理器的厂商，受益标的为<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS688256" code="688256">寒武纪</a>、商汤、海光信息；2）具备AI算法落地+<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>布局厂商，重点推荐<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ002230" code="002230">科大讯飞</a>，其他受益标的为<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ002236" code="002236">大华股份</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ002415" code="002415">海康威视</a>；3）<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>商业落地的厂商，受益标的为<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300024" code="300024">机器人</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300124" code="300124">汇川技术</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS688251" code="688251">井松智能</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ002063" code="002063">远光软件</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS603666" code="603666">亿嘉和</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300044" code="300044">赛为智能</a>；4）具备AI算法落地的厂商，受益标的为<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS688088" code="688088">虹软科技</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS688327" code="688327">云从科技</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SZ300229" code="300229">拓尔思</a>、<a class="trsHotWords" style="color: #2f67d1;text-decoration: none;" target="_blank" href="https://info.stcn.com/dc/stock/?stockcode=SS688787" code="688787">海天瑞声</a>。</p><p><br style="text-align: left;"></p>
+
+                  
+</div>
+            
