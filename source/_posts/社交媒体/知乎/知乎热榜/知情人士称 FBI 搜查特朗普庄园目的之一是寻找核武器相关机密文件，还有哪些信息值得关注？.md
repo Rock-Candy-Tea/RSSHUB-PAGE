@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-399b575718d7979a11e35be7fed87496_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=4430'
 author: 知乎
 comments: false
-date: Sat, 13 Aug 2022 11:50:49 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-399b575718d7979a11e35be7fed87496_1440w.jpg?source=b1748391'
+date: Sat, 13 Aug 2022 12:41:03 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4430'
 ---
 
 <div>   
-猴子的回答<br><br><p data-pid="uP-fY80C">图穷匕见，吃了几碗粉，还重要吗？</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-399b575718d7979a11e35be7fed87496_1440w.jpg?source=b1748391" data-rawwidth="500" data-rawheight="663" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-5efb725203b0d1cccc601544e13bfe47_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-399b575718d7979a11e35be7fed87496_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="6DmRf8x3">其实在100年前，同样在西方，同样有一个国家内忧外患物价飞涨，同样有人宣称要让自己的国家再次伟大，却同样被政敌以同样的罪名送上了审判庭。</p><a href="https://www.zhihu.com/zvideo/1541859306290450432" data-draft-node="block" data-draft-type="link-card"></a>  
+永乐大帝明成祖的回答<br><br><p data-pid="RZ4yqiGO">特朗普要核武器文件做什么？</p><p data-pid="bgs2TeoT">拿菊花想都想得出民主党的目标就是想说他要把国防安全机密，核武机密和普京交底。</p><p data-pid="G6c1-gnj">甚至可能要说就是靠着特朗普任期内的几年的情报输出，才让普小丁丁有了向乌克兰发动战争的底气。</p><p data-pid="ptOpdhUA">这特么都已经是秃子头上的虱子了，忽悠谁呢。</p><p data-pid="c2Mk6Rb2">拿核武资料来说最伟光正，最能显示出自己不是为党派斗争而是为国家利益的逻辑。</p><p data-pid="_3QIFuEh">正好前段时间阿普丁丁不是拿高超音速导弹匕首装战术核武器威胁北约不能援助乌纳泽圣嘛，这不是巧了吗？</p><p data-pid="TEMuFdOX">有什么意义。</p><p data-pid="Z28tqFNA">现在美帝就像荣宁府，外头架子还不甚倒，但是内囊也都尽上来了。</p><p data-pid="GzR-JTn_">抄检海湖庄园就等于是抄检大观园。</p><p data-pid="dG5spsUZ">美帝由盛转衰的标志性事件。</p><p data-pid="tP5fdlky">前几日我还说，多看看红楼梦有助于了解我们社会的一些现状，欲壑难填的地方财政是什么情况。</p><p data-pid="DAvo6lCp">哈，美帝倒是好家伙，比咱们先走一步。</p><p data-pid="NfMc0ayg">666666</p><p data-pid="Fq1LGi69">美帝是，安享富贵者多，筹谋划策者无一。</p><p data-pid="rOCjINkK">其实美帝能人特别多，但是权力结构不允许他们进行什么激进改革。</p><p data-pid="amN6vBEP">富豪和大企业在税基上的挖墙脚越狱，没人能办他们，只好将包袱丢给公共财政，丢给公共信用债务去透支，去抗。</p><p data-pid="SjAPD4xh">复杂的美墨边境无法管制，州权和联邦权力互相对抗，保守派大法官反堕胎自由权的背后不是保护保守宗教主义，实质上还是保护州权的自主裁决权而已。</p><p data-pid="ZqdQSx1s">控枪也是一个鸟样的问题。</p><p data-pid="Btw-FSRw">这样，源源不断的药物，黑金，枪支，人口贩卖和非法移民，在美墨边境上像大脓疮一样长满了美帝的屁股。</p><p data-pid="iNrjWq3_">两党没有谁可以解决这些困境，当然特朗普也不行，所以呢，解决不了正事儿，在囚徒博弈困境下，会选哪个方向？只能选加剧党争了不是？</p><p data-pid="HiGywk2O">如果说川普那些嘴上的施政纲领是贾探春整顿大观园和荣府家务，兴业治产，那拜登就是王夫人，司法部长就是宝钗来给探春搞事情了。</p><p data-pid="Fu0wysCS">以前中国的公知太高估美国国父了，我在北京的时候听他们扯淡扯得我头皮屑都挠了三五十吨。</p><p data-pid="oUnrnPPe">动不动就尼玛历史的终结，就尼玛人类文明的顶峰，就尼玛永恒的新世界。</p><p data-pid="yHRctJAM">知道个黑格尔放了个白皮的蠢屁，就拿来当圣旨供着。</p><p data-pid="Okc8xarx">什么“中国本质上没有历史，只是朝代轮回。”</p><p data-pid="u9OGQrQX"><b>其实这些人根本不知道，中国也诞生过和美帝政体非常相似的地方政权，比如六谷吐蕃，温末的凉州政权和曹氏归义军。</b></p><p data-pid="tzDxLNj8"><b>他们在残唐五代到北宋前期就实行过类似的共和体制加上类似议会的参议员模式。</b></p><p data-pid="hcFcaagI"><b>欧亚大陆很多城市和小国并不是没有过类似美帝这样的体制。</b></p><p data-pid="JXtKx_j3">只是没有左边一个太平洋，右边一个大西洋，来保护。也没有在隔壁有个文明程度低自己很多邻居让自己随时劫掠补充财富。</p><p data-pid="rESKAM0V">美帝的国父们，是人才，但放到同时代的欧亚大陆上，并不能说他们就是最顶尖的第一流人才。</p><p data-pid="16F92qBf">我曾经问过他们，知不知道英法在宪政革命上为何命运迥异？没人答得出来。</p><p data-pid="HG3k3EfZ">其实答案很简单，因为法妖在陆地上备受欧洲旧势力的牵连，欧洲老式封建贵族通过各种方式干预法国内部问题远比干预英国成本低很多。</p><p data-pid="MVOLlEfz">美国的国父们，是在国会没有钱，国家没有正规军的情况下，安安稳稳，舒舒服服，用自己的地方庄园财产来养活自己，慢慢扯皮了八个月才搭建出一个均衡系统。期间连午饭祷告都是议员各自捐款，没有公共财政的。</p><p data-pid="97qqi5cC">如果当时这么大一块不设防的肥肉放在欧洲，早被人打成猪头三了。只不过是欧陆强权互相牵制，又隔着大西洋，不便于投送可以重新征服北美的军事力量罢了。</p><p data-pid="4FGfBYbm">结果美粉还真以为是美国国父们智冠群伦，超越欧亚大陆的帝王将相了？</p><p data-pid="uKDjmHvb">不过是大洋的庇护罢了，就像一个人在一楼电梯里做深蹲，电梯上到三十楼，你特么真以为是深蹲蛙跳从一楼跳到三十楼了？</p><p data-pid="8WyQDYFP">这个事件具有重大意义，它证实了美利坚合众国系统的热力学第二定律壁垒的外在标志性形象。</p><p></p>  
 </div>
             
