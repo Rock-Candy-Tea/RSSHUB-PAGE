@@ -1,0 +1,18 @@
+
+---
+title: '你会介意你的猫不是品种猫吗？-IvanLiu的回答：谢邀。 不说，先上图 _图片_ _图片_ _图片_ _图片_ _图片_ 很多人会嫌弃狸花、三花、胖橘这种都是土猫，我只说一...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-783dabc7649235e72d5a97f1e78fd9d2_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sun, 14 Aug 2022 13:49:57 GMT
+thumbnail: 'https://pica.zhimg.com/v2-783dabc7649235e72d5a97f1e78fd9d2_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>你会介意你的猫不是品种猫吗？</strong><br>IvanLiu的回答<br><p data-pid="GO6eC0YS">谢邀。</p><p data-pid="ZQ48dsrq">不说，先上图</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-783dabc7649235e72d5a97f1e78fd9d2_1440w.jpg?source=1940ef5c" data-rawwidth="2089" data-rawheight="1470" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-0f744d048658fe3453320e026385892c_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-783dabc7649235e72d5a97f1e78fd9d2_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>刚从同事手上接过来</figcaption></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-98f03d99cf587a167eaf7b2d26bd3de1_1440w.jpg?source=1940ef5c" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-eb2db76e4b7988ba1d406e28db01c77b_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-98f03d99cf587a167eaf7b2d26bd3de1_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>在我鼠标垫上睡得不省猫事</figcaption></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-4873f0d568368b4f36b109acc64e2253_1440w.jpg?source=1940ef5c" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-7017e86407f5e77f16621411473c3859_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-4873f0d568368b4f36b109acc64e2253_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>半岁的大眼睛男孩纸</figcaption></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-0bd1c886e2c2d38d15217a551f46a6db_1440w.jpg?source=1940ef5c" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-f4292393691545fd7f69bdc1decfee4b_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-0bd1c886e2c2d38d15217a551f46a6db_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>笑容逐渐猥琐</figcaption></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-3637d9e5a6f3c2d51e495336f1ed3084_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="720" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-ca264df980f0414f3829ce1e2fa1cae8_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-3637d9e5a6f3c2d51e495336f1ed3084_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>家有黏人精的代价就是一身毛</figcaption></figure><p data-pid="Tp12wuu8">很多人会嫌弃狸花、三花、胖橘这种都是土猫，我只说一条——之前我在外面自己住，养了一对海豹重点色暹罗，结果换一次猫粮换了我2000块。</p><p data-pid="jaBYhaxh">如果说优点，聪明、勇敢、亲人、勤劳、健硕….这些该有的都有了。对于一只不拆家、不上桌、会握手、会开门、知迎主、明是非、能巡回、捕鼠抓鸟样样精通、出走一月也记得回家的猫，还能苛求什么？</p><p data-pid="XknwcNqv">如果说缺点，也有。</p><p data-pid="szRi8DbM">无非贪吃了一些，辣条薯片饼干白菜土豆面包蛋糕照单全收，牙口倍儿好，肠胃倍儿棒。</p>  
+</div>
+            
