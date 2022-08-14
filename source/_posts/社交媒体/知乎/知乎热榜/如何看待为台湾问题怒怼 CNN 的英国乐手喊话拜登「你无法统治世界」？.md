@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic4.zhimg.com/v2-280abc7f3300763814f26bf20dfed020_1440w.jpg?source=b1748391'
+headimg: 'https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Sun, 14 Aug 2022 04:36:25 GMT
-thumbnail: 'https://pic4.zhimg.com/v2-280abc7f3300763814f26bf20dfed020_1440w.jpg?source=b1748391'
+date: Sun, 14 Aug 2022 03:59:53 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-椰奶O的回答<br><br><p data-pid="KnOnH_zc">因为Waters是<b>经历过上世纪左翼浪潮</b>的左翼艺术家啊！</p><p data-pid="y9U-80dK">左翼的目标，为得就是摆脱帝国主义压迫，实现全人类的解放！</p><p data-pid="xbmZaD6e">所以他怎么可能会支持美西方的外交政策？！</p><hr><p data-pid="5lYA72Fh">现如今的西方世界，只有这些真正的左翼人士，能够在民粹浪潮里摆脱宣传机器的洗脑；</p><p data-pid="ZDnezMHo">也只有他们这一小撮人，敢于面对现实，勇于说真话。</p><p data-pid="8KhI_scL">可惜的是，随着时间流逝，这些脑筋清醒的人只会越来越少，</p><p data-pid="EbMFS4C9">不知道下一个世界范围内的左翼浪潮要何时才能兴起？！</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-280abc7f3300763814f26bf20dfed020_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="524" data-rawheight="798" data-default-watermark-src="https://pic2.zhimg.com/v2-a78bee61c8cac8bc8dbb5c61a19b98b0_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-280abc7f3300763814f26bf20dfed020_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+无心的回答<br><br><p data-pid="RPPqyEcX">还是有明白人：</p><p data-pid="mp0L3-bJ">1.2003年入侵阿富汗并杀死100万人的那个国家，可不是中国。</p><p data-pid="OIAYvvEu">2.你应该多读读书，但要读一些正确的。</p><p data-pid="6ZQc6L7P">3.台湾是中国的一部分！自1948年以来，整个国际社会都完全接受了这一点。如果你不知道，说明你的阅读量不够。看看书去吧。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391" data-rawwidth="959" data-rawheight="719" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-00400b66560a99ad496a7c5c8becee4d_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
