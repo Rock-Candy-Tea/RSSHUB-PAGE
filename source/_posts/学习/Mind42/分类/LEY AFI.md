@@ -1,19 +1,19 @@
 
 ---
-title: 'LEY AFI'
+title: 'LEY AFI.'
 categories: 
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=faafe531-01c6-422c-9766-1170ac9ab980&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=06e6f2cd-e6c0-4903-82dc-5db6a471344d&size=gallery'
 author: Mind42
 comments: false
-date: 2022-08-14 08:11:09
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=faafe531-01c6-422c-9766-1170ac9ab980&size=gallery'
+date: 2022-08-14 09:09:24
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=06e6f2cd-e6c0-4903-82dc-5db6a471344d&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=faafe531-01c6-422c-9766-1170ac9ab980&size=gallery" referrerpolicy="no-referrer"><p>
-                    Teoria relacionada con la ley AFI                </p>  
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=06e6f2cd-e6c0-4903-82dc-5db6a471344d&size=gallery" referrerpolicy="no-referrer"><p>
+                                    </p>  
 </div>
             

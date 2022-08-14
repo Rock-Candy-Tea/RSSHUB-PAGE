@@ -1,0 +1,18 @@
+
+---
+title: '美智光电折戟A股，母公司美的集团裁员过冬'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=2665'
+author: 36kr
+comments: false
+date: Sun, 14 Aug 2022 09:00:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2665'
+---
+
+<div>   
+美智光电折戟A股，母公司美的集团裁员过冬  
+</div>
+            
