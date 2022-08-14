@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391'
+headimg: 'https://pic3.zhimg.com/v2-9190818da6edc56fa4e2ca946b8ed1db.jpg?source=382ee89a'
 author: 知乎
 comments: false
-date: Sun, 14 Aug 2022 03:59:53 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391'
+date: Sun, 14 Aug 2022 04:13:57 GMT
+thumbnail: 'https://pic3.zhimg.com/v2-9190818da6edc56fa4e2ca946b8ed1db.jpg?source=382ee89a'
 ---
 
 <div>   
-无心的回答<br><br><p data-pid="RPPqyEcX">还是有明白人：</p><p data-pid="mp0L3-bJ">1.2003年入侵阿富汗并杀死100万人的那个国家，可不是中国。</p><p data-pid="OIAYvvEu">2.你应该多读读书，但要读一些正确的。</p><p data-pid="6ZQc6L7P">3.台湾是中国的一部分！自1948年以来，整个国际社会都完全接受了这一点。如果你不知道，说明你的阅读量不够。看看书去吧。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_1440w.jpg?source=b1748391" data-rawwidth="959" data-rawheight="719" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/v2-00400b66560a99ad496a7c5c8becee4d_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-4b7a8a8bf207b1406e32409d2c3c293f_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+观察者网的回答<br><br><p data-pid="B2xhKghE">“你无法统治世界，乔·拜登，你做不到的，兄弟，这是徒劳无功的差事（fool’s errand）。”</p><p data-pid="d7_P-mKo">据“今日俄罗斯（RT）”当地时间8月12日报道，此前<u><a href="http://link.zhihu.com/?target=https%3A//www.guancha.cn/internation/2022_08_07_652728.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">回怼CNN主持人</a></u>关于台湾问题错误言论的英国知名摇滚乐手、乐队“平克·弗洛伊德”（Pink Floyd）创始人罗杰·沃特斯（Roger Waters）当天接受采访时称，西方不希望俄乌冲突结束，他们为了出售武器赚大钱，要“战斗到最后一个乌克兰人”。</p><p data-pid="qLx6FOOG">谈及台湾问题时，沃特斯表示美国如此坚决地将其价值观强加于人，是因为美国精英妄图统治世界，但他们做不到，“这是徒劳无功的。”</p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1542121579484147712" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pic3.zhimg.com/v2-9190818da6edc56fa4e2ca946b8ed1db.jpg?source=382ee89a" data-lens-id="1542121579484147712">              <img class="thumbnail" src="https://pic3.zhimg.com/v2-9190818da6edc56fa4e2ca946b8ed1db.jpg?source=382ee89a" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1542121579484147712</span>              </span>            </span></span></span></a>            <p></p>  
 </div>
             
