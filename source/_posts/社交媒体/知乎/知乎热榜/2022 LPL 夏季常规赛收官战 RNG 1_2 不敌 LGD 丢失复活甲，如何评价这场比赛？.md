@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6983'
+headimg: 'https://pica.zhimg.com/v2-73fd1b20c3c8cd5cd5a28981ddbc15bf.jpg?source=382ee89a'
 author: 知乎
 comments: false
-date: Sun, 14 Aug 2022 14:08:43 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6983'
+date: Sun, 14 Aug 2022 14:49:43 GMT
+thumbnail: 'https://pica.zhimg.com/v2-73fd1b20c3c8cd5cd5a28981ddbc15bf.jpg?source=382ee89a'
 ---
 
 <div>   
-GriGriGriftah的回答<br><br><p data-pid="sAXems4x">-</p><p data-pid="0_DcZIYW">RNG最怕的两个东西，</p><p data-pid="M6VGBPqZ">搞心态的“水鬼”和冲后排的“剑姬”。</p><p data-pid="ibsT9t9T">-</p><p data-pid="zQbm0nXm">森明帮行动大失败，金角这两局把森森明读得太死了，</p><p data-pid="T_0uRhbJ">打完回去可以趁热写篇文《如何挑衅RNG致其主动求团》，</p><p data-pid="arvrsX7q">顺便请Hylissang批个注，都是教授级别的人物了。</p><p data-pid="R67B3sbO">-</p>  
+弦音若月的回答<br><br><p data-pid="tHuhEG0v">你们在乎RNG拿复活甲吗？</p><p data-pid="U6AUlQAh">不，你们不在乎，你们不能在乎</p><p><br></p><p data-pid="3PXZIEwG">你们应该在乎的是</p><p data-pid="gxiEyUv9"><b>Letme用鼻孔喝鲱鱼罐头</b></p><p data-pid="EFaEXaQ4"><b>AJ带皮吃榴莲</b></p><p data-pid="cue2GgM-"><b>姿态吃肥肠爆炒榴莲</b><br> <br></p><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1542276500052631553" target="_blank" data-video-id data-video-playable="true" data-name data-poster="https://pica.zhimg.com/v2-73fd1b20c3c8cd5cd5a28981ddbc15bf.jpg?source=382ee89a" data-lens-id="1542276500052631553">              <img class="thumbnail" src="https://pica.zhimg.com/v2-73fd1b20c3c8cd5cd5a28981ddbc15bf.jpg?source=382ee89a" referrerpolicy="no-referrer">              <span class="content">                <span class="title"><span class="z-ico-extern-gray"><span class="z-ico-extern-blue"></span>                <span class="url"><span class="z-ico-video">https://www.zhihu.com/video/1542276500052631553</span>              </span>            </span></span></span></a>            <p></p><p></p><p></p>  
 </div>
             
