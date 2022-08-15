@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=2684'
+headimg: 'https://picsum.photos/400/300?random=3589'
 author: 知乎
 comments: false
-date: Mon, 15 Aug 2022 03:37:01 GMT
-thumbnail: 'https://picsum.photos/400/300?random=2684'
+date: Mon, 15 Aug 2022 04:38:37 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3589'
 ---
 
 <div>   
-插班生付费咨询的回答<br><br><p data-pid="a5QymS4a">偷，偷原味？！</p>  
+不信邪大魔王的回答<br><br><p data-pid="a7QB32cv">很显然，FBI突袭懂王府邸事件，很可能弄巧成拙。</p><p data-pid="fYLRAztT">因为他们在懂王住所的“执法”过程中，懂王的律师并不在场。</p><p data-pid="wIg55RIY">现在FBI关闭摄像头搜索前第一夫人衣橱这说法一出，让懂王的支持者更坚定得支持懂王的2024大选。</p><hr><p data-pid="ybfr_Wk0"><b>美国舆论的焦点开始转换</b></p><p data-pid="d0GyVlU_">目前美国国内舆论的侧重点，已经不再是懂王的材料是否涉及国家机密材料，而是从根儿上推翻FBI的行动合法性，以及FBI栽赃懂王的可能性与合理性。</p><p data-pid="LfYprh8M">右派宣称，FBI已经沦被政治武器化，加上白宫声称在此次突袭前完全不知情。</p><p data-pid="gJOop9rV">因此，舆论的焦点开始转移到司法部门的政治立场偏向。右派开始攻击希拉里的邮件门，拜登儿子的电脑门都大事化小，小事化了。</p><p data-pid="BPp7P4o5">共和党完全有理由相信，懂王就是被恶意做局针对，目标就是要让懂王无法参与下届竞选，甚至彻底搞臭搞死懂王。</p><hr><p data-pid="hJNShqYO"><b>美国正沦为：香蕉共和国</b></p><p data-pid="gJxC2qKo">在这件事情发酵的过程中，越来越多的人提到这样一个词：香蕉共和国（Banana Republic），认为美国正在逐渐沦为一个香蕉共和国。</p><blockquote data-pid="RdWod1tY">香蕉共和国是<b>某一种政治及经济体系的贬称，特别指那些拥有广泛贪污和有强大外国势力介入及间接支配之傀儡国家</b>，名字的由来是这种国家通常是依赖出口如香蕉、可可、咖啡等的经济作物。 有关形容词也应用于具裙带资本主义色彩的资本主义国家，而在特定语境中，专指美国在中南美洲操控的被保护国和傀儡政权。</blockquote><p data-pid="kAKDp1h2">我们做为旁观者看待美国现在上演的宫廷夺权大戏，更多认为美国正在<b>韩国化</b>，因为美国统治阶层的内部的矛盾已经伴随着“制度化党争”的游戏越演越烈，<b>这种比湿疣还尖锐的矛盾，将会导致他们的内部斗争过程无法保持原来假惺惺的体面。</b></p><p data-pid="KpD-SqOo">懂王这边放话，如果2024当选，就要给拜登每个房间来个底朝天，越来越多的懂王支持者也呼吁对民主党采取“tit for tat”（以牙还牙）的行动。</p><hr><p data-pid="i3k-swwD"><b>吃瓜看戏的注意事项</b></p><p data-pid="XaqsYFX9">我一直坚持帝国迟早药丸的观点，但是，美国国内越乱，其将内乱输出的概率就越高，利用外部军事冒险行为来转移国内矛盾的冲动就越大。</p><p data-pid="cvduqenX">我们的解放军需要做好充分军事准备，防止民主党最后狗急跳墙乱咬人，跳动台海冲突来缓解他们自身的危局。</p><p data-pid="JBYNLpUM">帝国的崩溃，并非一朝一夕，不过已经有大厦将倾的趋势，让我们拭目以待。</p>  
 </div>
             
