@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/b13201ab3acf48f4ca9c196ae31hrqu5.JPG?v=1660297239457'
 author: 巴哈姆特
 comments: false
-date: 2022-08-15 00:49:05
+date: 2022-08-15 03:18:24
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/b13201ab3acf48f4ca9c196ae31hrqu5.JPG?v=1660297239457'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/b13201ab3acf48f4ca9c196ae31hrqu5.
 <div>
 <div>
 <div>
-　　第四屆「臺灣學生遊戲開發者論壇（TSGDF，Taiwan Student Game Developer Forum）」睽違三年回歸實體舉辦，將於 8 月 20 日（六）及 8 月 21 日（日）於國立中央大學登場。本活動由經濟部工業局、經濟部中小企業處、教育部、桃園市政府青年事務局指導，Digi + 數位經濟產業推動辦公室、財團法人資訊工業策進會及暴風數位等單位共同主辦。</div>
+　　第四屆「臺灣學生遊戲開發者論壇（TSGDF，Taiwan Student Game Developer Forum）」睽違三年回歸實體舉辦，將在 8 月 20 日（六）及 8 月 21 日（日）於國立中央大學登場。本活動由經濟部工業局、經濟部中小企業處、教育部、桃園市政府青年事務局指導，Digi + 數位經濟產業推動辦公室、財團法人資訊工業策進會及暴風數位等單位共同主辦。</div>
 <div>
  </div>
 <div>
