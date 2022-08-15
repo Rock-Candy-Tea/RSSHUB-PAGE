@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/Fr1Iap1DL0tWWz12vLn7BOK4CRBH'
 author: 探物
 comments: false
-date: 2022-08-15 07:09:54
+date: 2022-08-15 08:13:04
 thumbnail: 'https://resource.tanwuapp.com/Fr1Iap1DL0tWWz12vLn7BOK4CRBH'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/Fr1Iap1DL0tWWz12vLn7BOK4CRBH" referrerpolicy="no-referrer"><br>
           <strong>新款 Switch OLED 单主机</strong><br><br>
-          价格: ￥9.40 / 日<br>
+          价格: ￥7.52 / 日<br>
           评分: 0.0
           
 </div>
