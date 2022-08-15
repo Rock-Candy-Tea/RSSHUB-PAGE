@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?v=1660537361069'
 author: 巴哈姆特
 comments: false
-date: 2022-08-15 06:12:17
+date: 2022-08-15 07:09:16
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?v=1660537361069'
 ---
 
@@ -16,13 +16,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.
 <div>
 <div>
 <div>
-　　遊戲開發團隊 Nine Rocks Games 於THQ Nordic 2022 線上發表會中釋出新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8D%B5%E4%BA%BA%E5%BE%81%E9%80%94" target="_blank">獵人征途</a>（Way of the Hunter）》最新宣傳影片，宣布遊戲將於 8 月 16 日（台灣時間 8 月 17 日）登上 PC、PS5 和 Xbox Series S/X。</div>
+　　遊戲開發團隊 Nine Rocks Games 於 THQ Nordic 2022 線上發表會中釋出新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%8D%B5%E4%BA%BA%E5%BE%81%E9%80%94" target="_blank">獵人征途</a>（Way of the Hunter）》最新宣傳影片，宣布遊戲將於 8 月 16 日（台灣時間 8 月 17 日）登上 PC、PS5 和 Xbox Series S/X。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?v=1660537361069" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?v=1660537361069" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/70/72ba534c193a9ee63f5c5835671hs365.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
