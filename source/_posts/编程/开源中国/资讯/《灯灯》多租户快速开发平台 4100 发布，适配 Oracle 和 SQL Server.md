@@ -1,0 +1,147 @@
+
+---
+title: '《灯灯》多租户快速开发平台 4.10.0 发布，适配 Oracle 和 SQL Server'
+categories: 
+ - 编程
+ - 开源中国
+ - 资讯
+headimg: 'https://oscimg.oschina.net/oscnet/up-7f261718f81c0e9943894231d0fedf51bb6.png'
+author: 开源中国
+comments: false
+date: Tue, 16 Aug 2022 00:24:00 GMT
+thumbnail: 'https://oscimg.oschina.net/oscnet/up-7f261718f81c0e9943894231d0fedf51bb6.png'
+---
+
+<div>   
+<div class="content">
+                                                                                            <h2 style="margin-left:0; margin-right:0; text-align:left"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftangyh.top%2Fpages%2Flog_4%2F" target="_blank">4.10.0 - 正式版 更新详情:</a></h2> 
+<h2>build</h2> 
+<ul> 
+ <li>- lamp-databases 不在依赖数据库驱动，改到 lamp-database-mode 依赖</li> 
+</ul> 
+<h2>feat</h2> 
+<ul> 
+ <li>- 支持 Oracle</li> 
+ <li>- 支持 Sql Server</li> 
+ <li>- 调整 PDManer 源文件，支持导出三大数据库脚本</li> 
+ <li>- DefGenTableColumn 增加 digit（小数位）字段，用于转换时区分字段类型</li> 
+ <li>- 代码生成器转换字段类型时，根据数据库不同，选择不同的类型转换器</li> 
+ <li>- 代码生成器适配 Oracle 和 Sql Server</li> 
+ <li>- 去除表名和字段中的转义字符</li> 
+ <li>- 新增租户时，根据使用数据库读取不同数据库的脚本进行租户数据初始化</li> 
+ <li>- 去除代码中使用的 LIMIT 语法</li> 
+ <li>- XML 中的 SQL true 改成 1 ，false 改成 0</li> 
+ <li>- now()、sysdate() 等函数替换为 java 程序获取当前日期</li> 
+</ul> 
+<h2>refactor</h2> 
+<p> </p> 
+<ul> 
+ <li>- mysql.yml 重命名为 database.yml：因为同时支持三大数据库</li> 
+ <li>- 租户库前缀由 lamp_ds_c_base 重命名为 lamp_base：为了兼容Oracle的数据库名不能超过30字符！</li> 
+ <li>- def_tenant_datasource_config_rel 表更名为 def_tenant_ds_c_rel：为兼容Oracle表名不能超过30字符</li> 
+ <li>- size 字段换成 size_ （com_appendix、com_file、def_gen_table_column）</li> 
+ <li>- key 字段换成 key_ （def_interface_property）</li> 
+ <li>- level 字段换成 level_（def_area）</li> 
+ <li>- comment 字段换成 comment_（def_gen_table、def_gen_table_column）</li> 
+ <li>- 实体类中 LIKE 变量引用改为 Condition.LIKE：解决Oracle like查询不兼容问题</li> 
+ <li>- 原来遗留的 dao 包名 重构为 mapper，并调整prod环境记录mapper层记录日志</li> 
+</ul> 
+<h2>fix</h2> 
+<ul> 
+ <li>- 记录日志异常：log.level.dao 变更为 log.level.mapper</li> 
+ <li>- 记录日志异常：logging.level.sql 变更为 logging.level.mapper</li> 
+ <li>- 记录日志异常：DAO_APPENDER 变更为 MAPPER_APPENDER</li> 
+ <li>- 代码生成器模板 和 动态替换变量模板不能共用一个配置</li> 
+</ul> 
+<h2 style="margin-left:0; margin-right:0; text-align:left">更多功能，等你来体验：</h2> 
+<ol style="list-style-type:decimal; margin-left:0; margin-right:0"> 
+ <li>《灯灯》官网： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftangyh.top%2F">https://tangyh.top/</a></li> 
+ <li>4.x 数据源模式体验地址： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fdatasource.tangyh.top" target="_blank">https://datasource.tangyh.top/</a></li> 
+ <li>4.x 字段模式体验地址： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fcolumn.tangyh.top" target="_blank">https://column.tangyh.top/</a></li> 
+ <li>4.x 非租户模式体验地址： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fnone.tangyh.top" target="_blank">https://none.tangyh.top/</a></li> 
+ <li>3.x 体验地址 1： <a href="https://www.oschina.net/action/GoToLink?url=http%3A%2F%2Fboot.tangyh.top%2F">https://boot.tangyh.top/</a></li> 
+ <li>3.x 体验地址 2： <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fboot.tangyh.top%2Flamp-web%2F">https://boot.tangyh.top/lamp-web/</a></li> 
+</ol> 
+<h1 style="margin-left:0; margin-right:0; text-align:left">《灯灯》中后台快速开发平台</h1> 
+<blockquote> 
+ <p style="margin-left:0; margin-right:0">如果你非要说 lamp 是 Linux+Apache+MySQL+PHP，那就算是吧，毕竟 PHP 是世界上最好的语言，我也希望此项目成为世界上最好的后台框架！😈😈😈</p> 
+</blockquote> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><code>lamp-cloud</code><span> </span>基于 jdk11/jdk8 +<code>SpringCloud</code>+ SpringCloudAlibaba+<code>SpringBoot</code><span> </span>的微服务快速开发平台，专注于解决 SaaS 多租户体系问题， 具备 RBAC 功能、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框架使用。</p> 
+<p style="color:#333333; margin-left:0; margin-right:0; text-align:left">核心技术采用 Spring Cloud Alibaba、SpringBoot、Mybatis、Seata、Sentinel、RabbitMQ、FastDFS/MinIO、SkyWalking 等主要框架和中间件。 希望能努力打造一套从<span> </span><code>JavaWeb基础框架</code><span> </span>-<span> </span><code>分布式微服务架构</code><span> </span>-<span> </span><code>持续集成</code><span> </span>-<span> </span><code>系统监测</code>的解决方案。<code>本项目旨在实现基础能力，不涉及具体业务。</code></p> 
+<h2 style="margin-left:0; margin-right:0; text-align:start">技术栈</h2> 
+<ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
+ <li>开发方面： 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>JSON 序列化：Jackson</li> 
+   <li>消息队列：RabbitMQ</li> 
+   <li>缓存：Redis</li> 
+   <li>数据库： MySQL 5.7.9 或者 MySQL 8.0.19</li> 
+   <li>定时器：采用 xxl-job 项目进行二次改造</li> 
+   <li>前端 1 (后台管理)：vue2 + element-ui</li> 
+   <li>前端 2 (后台管理)：vue3 + ant-design-vue + vite + TypeScript</li> 
+   <li>持久层框架： Mybatis-plus</li> 
+   <li>代码生成器：基于 Mybatis-plus-generator 自定义</li> 
+   <li>API 网关：Gateway</li> 
+   <li>服务注册 & 发现和配置中心: Nacos</li> 
+   <li>服务消费：OpenFeign</li> 
+   <li>负载均衡：Ribbon</li> 
+   <li>服务熔断：Sentinel</li> 
+   <li>项目构建：Maven</li> 
+   <li>分布式事务： seata</li> 
+   <li>文件服务器：FastDFS 5.0.5 / 阿里云 OSS / 本地存储 / MinIO / 华为云 / 七牛云</li> 
+  </ul> </li> 
+ <li>监控方面： 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>监控： spring-boot-admin</li> 
+   <li>链路调用跟踪： SkyWalking</li> 
+   <li>分布式系统的流量防卫兵： Sentinel</li> 
+  </ul> </li> 
+ <li>部署方面： 
+  <ul style="list-style-type:circle; margin-left:0; margin-right:0"> 
+   <li>服务器：CentOS</li> 
+   <li>Nginx</li> 
+   <li>Jenkins</li> 
+   <li>Docker</li> 
+   <li>Kubernetes</li> 
+  </ul> </li> 
+</ul> 
+<h1 style="margin-left:0; margin-right:0; text-align:left">项目截图：</h1> 
+<table cellspacing="0" style="--darkreader-inline-bgcolor:#181a1b; --darkreader-inline-border-bottom:currentcolor; --darkreader-inline-border-left:currentcolor; --darkreader-inline-border-right:currentcolor; --darkreader-inline-border-top:currentcolor; --darkreader-inline-color:#bdb7af; -webkit-text-stroke-width:0px; background-color:#ffffff; border-collapse:collapse; border-spacing:1px; border:medium none; box-sizing:border-box; color:#444444; display:block; font-family:-apple-system,system-ui,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; line-height:inherit; margin:0px; max-width:100%; orphans:2; overflow:auto; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; white-space:normal; widows:2; width:776px; word-break:keep-all; word-spacing:0px"> 
+ <thead> 
+  <tr> 
+   <th>预览</th> 
+   <th>预览</th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt src="https://oscimg.oschina.net/oscnet/up-7f261718f81c0e9943894231d0fedf51bb6.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/99e21a50fe4cd8e644bc2a2c693b9b86.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/315afa0201968de0b20c1af42fb981c5.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/cdb488d0ed1c35613025613df6a36f96.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/c8d8936b144fe568ef394289ddbf0268.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt src="https://oscimg.oschina.net/oscnet/up-16787bac9c056bad7ff6538a0fa5f676234.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/58ae227c8b3e98129091dc86efb219c8.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/7e34b4c35c24445f72898c95fb2d6347.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/2f1bcc485ca1ff3ee22995b6b276cc6f.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/cbcafbcff1e2404f2fb466ab257de6de.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+  <tr> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/45111269e0acd9173e480e31505b04f3.png" referrerpolicy="no-referrer"></td> 
+   <td style="border-color:#dddddd; border-style:solid; border-width:1px"><img alt="预览.png" src="https://img-blog.csdnimg.cn/img_convert/67e0575c0c9acb0e787e17194e5fba0d.png" referrerpolicy="no-referrer"></td> 
+  </tr> 
+ </tbody> 
+</table> 
+<p> </p>
+                                        </div>
+                                      
+</div>
+            
