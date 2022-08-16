@@ -1,0 +1,18 @@
+
+---
+title: '财联社8月16日电，Coinbase跌幅扩大至7%。'
+categories: 
+ - 金融
+ - 财联社
+ - 电报
+headimg: 'https://picsum.photos/400/300?random=7140'
+author: 财联社
+comments: false
+date: Tue, 16 Aug 2022 14:05:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=7140'
+---
+
+<div>   
+财联社8月16日电，Coinbase跌幅扩大至7%。  
+</div>
+            
