@@ -1,0 +1,19 @@
+
+---
+title: '光伏EVA扩产潮刚开始，概念股却已翻倍'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member51320/202208/wx_article__4e00851871956d8118c592d55e74914b.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 16 Aug 2022 03:22:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member51320/202208/wx_article__4e00851871956d8118c592d55e74914b.jpg'
+---
+
+<div>   
+<p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member51320/202208/wx_article__4e00851871956d8118c592d55e74914b.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">市场逐渐从整体<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>板块的炒作，转向至光伏产业链的各细分板块，如<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfunibianqi.html" target="_blank" title="光伏逆变器">光伏逆变器</a></span>、HIT<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260018-dianchijishu.html" target="_blank" title="光伏电池">光伏电池</a></span>、钙钛矿<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>等细分板块，最近资金又盯上了光伏级EVA。</p><p style="text-indent: 2em; text-align: left;">随着全球央行的货币政策偏紧，国内央行连续低量的逆回购和美联储9月或将再次加息50－75个基点都表明流动性在持续收紧，然而流动性的收紧并不是最糟糕的，“后”新冠疫情对宏观的影响已经出现从社会层面向经济、政治等方向蔓延的情况。能源作为经济复苏之路的地基，也是局部冲突的内在诱因之一，而冲突带来的能源供应链异常也扩大了各国的能源供给缺口，进而也让原本各国达成一致发展绿色能源的计划短期被抑制。</p><p style="text-indent: 2em; text-align: left;">但无论全球能源局势如何变化，长期全球能源低碳转型路径基本“板上钉钉”，而短期局部冲突带来的能源供应链异常，增加了供给的不确定性。</p><p style="text-indent: 2em; text-align: left;"><strong>01光伏级EVA供需价格出现背离</strong></p><p style="text-indent: 2em; text-align: left;">这次全球能源转型中，光伏在能源消费结构中大放异彩，妥妥的“生力军”，各国光伏产业发展也进入了高速成长阶段。从国内A股市场来看，光伏产业近些年一直处于高景气度。</p><p style="text-indent: 2em; text-align: left;">随着前期热潮，板块也进入了高估值的状态，市场逐渐从整体光伏板块的炒作，转向至光伏产业链的各细分板块，如光伏<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260002-guangfuqijian.html" target="_blank" title="逆变器">逆变器</a></span>、HIT光伏电池、钙钛矿电池等细分板块，最近资金又盯上了光伏级EVA。</p><p style="text-indent: 2em; text-align: left;">作为直接拥有产能的联泓新科（003022．SZ）在近3个多月的时间里表现出色，公司股价在4月26日虽大盘触底后，隔天开始反弹，进入上升通道，截止8月10日收盘，公司股价已经创阶段新高，区间上涨超过240％，跑赢上证的12％的区间上涨幅度。</p><p style="text-indent: 2em; text-align: left;">EVA胶膜目前是光伏胶膜市场的主力，胶膜是在组件中将<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfuboli.html" target="_blank" title="光伏玻璃">光伏玻璃</a></span>、电池片、背板粘在一起，同时有保护电池片、隔绝空气的作用。虽然在组件中成本占比较低，仅3％－4％，但带来的优势在于下游组件厂商对价格敏感度不强，恰好给EVA厂商带来较稳定的盈利空间，2021年在大部分化学产品毛利率下跌的时候，光伏EVA的毛利率逆市上扬（2021年联泓新科的EVA毛利率达到50．52％）。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member51320/202208/wx_article__e5ea798cf0ec3f2d214a531dd1005d4a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">联泓新科产品毛利率情况（数据来源：choice）</p><p style="text-indent: 2em; text-align: left;">随着<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260008-zujianmokuai.html" target="_blank" title="光伏组件">光伏组件</a></span>装机量的增长，光伏级EVA处于供给偏紧的状态，但8月价格却出现了所回调。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member51320/202208/wx_article__f0f1c7f3f12ed03b393177dc7be4e8ab.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">首先看价格方面，8月首日国内EVA均价约2．5万元／吨，同比去年同期上涨约35％，但较6月的2．6万元／吨的高点出现小幅回调。7月初，光伏EVA价格确实有下调，推测其原因主要由于下游组件厂的排产不及预期，使得中上游的硅料产量环比下降，进而引起国内EVA粒子线缆料、光伏料价格出现回落，但整体看光伏EVA的价格依旧处于历史的高位。</p><p style="text-indent: 2em; text-align: left;">其次再从产能角度来看，全年缺口15万吨EVA是市场普遍共识。但个人认为实际光伏级EVA缺口可能会更大。第一，EVA≠光伏级EVA，光伏级具有更高的技术壁垒和更长的扩产周期，简单说属于高端版的EVA；第二，今年上半年，国内<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260012-guanfufadian.html" target="_blank" title="光伏发电">光伏发电</a></span>装机30．88GW，同比增长137．4％，虽然已超过去年前十个月装机之和，但相比今年预期的下限85GW还是不到50％，因此三、四季度“抢装潮”将使得光伏EVA的需求缺口有所扩大。</p><p style="text-indent: 2em; text-align: left;">而供需缺口，将对光伏级EVA的价格形成有效支撑。</p> 
+  
+</div>
+            
