@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picx.zhimg.com/v2-7457b2666951e9634b6e8c488b2e9833_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=4081'
 author: 知乎
 comments: false
-date: Tue, 16 Aug 2022 06:46:16 GMT
-thumbnail: 'https://picx.zhimg.com/v2-7457b2666951e9634b6e8c488b2e9833_1440w.jpg?source=b1748391'
+date: Tue, 16 Aug 2022 06:41:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4081'
 ---
 
 <div>   
-会编程的法师助理的回答<br><br><p data-pid="l7oaVkDy">川建国同志：</p><p data-pid="U02kFlZi">           敌人现在很疯狂，但是你不要怂，要积极发展好群众，运用好群众，走群众路线，从群众中来，到群众中去。要充分吸取上次国会山革命失败的惨痛教训，坚决克服小资产阶级的软弱性，用MAGA武装群众，要同敌人进行真刀真枪的斗争，万不可走右倾投降主义和机会主义路线。</p><p data-pid="vXO96RHL">星星之火，可以燎原！</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-7457b2666951e9634b6e8c488b2e9833_1440w.jpg?source=b1748391" data-rawwidth="499" data-rawheight="340" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-552f92e24210476775993419395f58e5_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-7457b2666951e9634b6e8c488b2e9833_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+财联社连线的回答<br><br><h2><b>遭FBI突袭后 特朗普首次专访：事态必须降温 否则将发生可怕事情！</b></h2><p data-pid="V200kqPc">美国前总统特朗普本周一参与电视媒体的访谈，这也是美国联邦调查局（FBI）突袭海湖庄园行动后他接受的首次专访。<br>在采访中他一反过去的激动，反而公开表示，必须给海湖庄园突袭事件降温，否则将有可怕的事情发生。<br>他还补充道，他的团队已经联系了美国司法部并愿意提供帮助，以避免民众对FBI突袭事件的愤怒升级。<br>他强调，美国现在处于一个非常危险的境地，人们表现出了前所未有的愤怒。如果需要他做什么来平息这股愤怒，他和支持者们愿意提供帮助。<br>不过特朗普在采访中也表示，目前他还未收到司法部的回复。<br><br><br><br></p><p data-pid="rFnNW_KY"><br><b>美国内战风险上升</b><br></p><p data-pid="2_e5deFL"><br>上周一（8月8日），FBI特工突袭特朗普佛罗里达州海湖庄园，搜查并带走了约20箱文件。此事后来被特朗普公开在其社交平台Truth Social上，引起美国舆论哗然。<br>这是美国历史上首次对前任总统的住所进行搜查。特朗普的支持者们为此感到十分愤怒，并将对美国执法部门的不满付诸行动。<br>8月11日，一名名叫Ricky Shiffer Jr.的人试图闯入FBI辛辛那提外地办事处，在与执法人员和FBI特工对峙了六个小时候被击毙。<br>周一，因在社交平台上公开表示：“如果你为FBI工作，你就该死”等屠杀言论，宾夕法尼亚州一名男子被捕。<br>而美国网络之中关于“内战”和“武装叛乱”的呼吁不断上升，例如“子弹已上膛”、“拿起武器”之类的言论层出不穷。<br>上周五，<b><a href="http://link.zhihu.com/?target=https%3A//www.cls.cn/detail/1100349" class=" wrap external" target="_blank" rel="nofollow noreferrer">美国FBI和国土安全部发布联合公告称</a></b> ，海湖庄园事件之后，针对FBI特工和其家人的暴力威胁已大大增加，其中包括针对性地杀害与海湖庄园搜查有关的司法、执法和政府官员，如签发搜查令的地方法官莱因哈特（Bruce Reinhart）。<br>根据FBI和国土安全部的说法，将于11月举行的美国中期选举很可能将成为又一个“爆发点”，或发生与2021年1月6日国会大厦遇袭相似的暴力事件。<br><br><br><br><br><br><br></p><p data-pid="6ZRqRBkt"><br><b>突袭正变成危害美国国家安全的事件</b><br></p><p data-pid="_rlF3IRi"><br>在特朗普表态呼吁外界情绪需要得到控制之后，美国前代理司法部长Matt Whitaker也表示，司法部应该提高透明度来给突袭事件降温。<br>他表示，公众需要了解FBI是如何行事的；司法部门如何合法地分析哪些属于特许保密文件，哪些有属于已经解密的文件；以及执法部门执行搜查令时，采取了何种措施来不让事态扩大化。<br>美国参议院情报委员会的两党领导人也在上周末致函司法部长加兰和美国情报局局长海恩斯，要求了解更多FBI突袭海湖庄园的详细信息。<br>该委员会发言人表示，委员会要求查看在突袭中收回的机密信息，并评估FBI和司法部是否因处理不当，而对美国国家安全造成潜在风险。<br>但司法部和国家情报局均未对此作出回应。<br>此外，针对特朗普和其他立法者要求公开搜查海湖庄园的宣誓书，<b><a href="http://link.zhihu.com/?target=https%3A//www.cls.cn/detail/1101024" class=" wrap external" target="_blank" rel="nofollow noreferrer">司法部周一回应</a></b> ，因涉及到调查的具体路线和可能方向，将无法披露宣誓书。<br><br><br><br><br><br></p>  
 </div>
             
