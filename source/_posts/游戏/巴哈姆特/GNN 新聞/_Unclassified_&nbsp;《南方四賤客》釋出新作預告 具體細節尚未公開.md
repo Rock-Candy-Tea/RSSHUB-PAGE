@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/57/ac4f17cd16326bf679d67e8e521hsdx5.JPG?v=1660557232414'
 author: 巴哈姆特
 comments: false
-date: 2022-08-16 00:56:17
+date: 2022-08-16 03:13:54
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/ac4f17cd16326bf679d67e8e521hsdx5.JPG?v=1660557232414'
 ---
 
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/ac4f17cd16326bf679d67e8e521hsdx5.
 <div>
  </div>
 <div>
-　　據了解，在上週末 THQ Nordic 2022 線上發表會尾聲，畫面字幕先是透露團隊還有 43 款遊戲正在開發，其中有 26 款尚未亮相。接著畫面一轉，數字 26 被潦草地畫掉，接續出現了動畫版權商 South Park Digital Studios 的標誌，並同時出現由角色「藍迪·馬什（Randy Marsh）」發出的「Hot hot hot hot！」喊叫聲。</div>
+　　據了解，在上週末 THQ Nordic 2022 線上發表會尾聲，畫面字幕先是透露團隊還有 43 款遊戲正在開發，其中有 26 款尚未亮相。接著畫面一轉，數字 26 被潦草地畫掉，接續出現了動畫版權商 South Park Digital Studios 的標誌，並同時出現由角色「藍迪·馬什（Randy Marsh）」發出「Hot hot hot hot！」的喊叫聲。</div>
 <div>
  </div>
 <div>
@@ -46,7 +46,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/57/ac4f17cd16326bf679d67e8e521hsdx5.
 <div>
  </div>
 <div>
-　　而後先前顯示的字幕則再次出現，字幕改為還有 25 款遊戲尚未公開，而不是 26 款。</div>
+　　而後先前顯示的字幕則再次出現，字幕改為還有 25 款遊戲尚未公開，而非 26 款。</div>
 <div>
  </div>
 <div>
