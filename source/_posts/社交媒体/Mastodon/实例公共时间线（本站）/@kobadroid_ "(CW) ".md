@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/832/919/401/362/400/original/62d2335b31348fd0.png'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/833/177/431/452/559/original/6993f224504c4a2d.jpeg'
 author: Mastodon
 comments: false
-date: Tue, 16 Aug 2022 14:03:33 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/832/919/401/362/400/original/62d2335b31348fd0.png'
+date: Tue, 16 Aug 2022 15:08:37 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/833/177/431/452/559/original/6993f224504c4a2d.jpeg'
 ---
 
 <div>   
-<hr><p>ひさびさSOXS少し入ってみた<br>金利爆上げ＆半導体めっさ下げそう</p><br><img src="https://img.pawoo.net/media_attachments/files/108/832/919/401/362/400/original/62d2335b31348fd0.png" alt="image " referrerpolicy="no-referrer">  
+<hr><p>ヴォミンヘイム島って追加エリアmodやってたんだけど探索し尽しちゃったなー</p><br><img src="https://img.pawoo.net/media_attachments/files/108/833/177/431/452/559/original/6993f224504c4a2d.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
