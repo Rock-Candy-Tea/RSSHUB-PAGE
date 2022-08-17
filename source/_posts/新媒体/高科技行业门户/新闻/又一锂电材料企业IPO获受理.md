@@ -1,0 +1,19 @@
+
+---
+title: '又一锂电材料企业IPO获受理'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/16/rongyi/1660642612395016832.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 16 Aug 2022 09:37:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/16/rongyi/1660642612395016832.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">来自深交所有消息显示，8月12日，上海西恩科技股份有限公司（简称“西恩科技”）的创业板IPO获受理。</p><p style="text-indent: 2em; text-align: left;">西恩科技预计融资金额8亿元，保荐机构为中信证券。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/16/rongyi/1660642612395016832.jpg" title="1660642612395016832.jpg" alt="e78581b9c8f6a7c3d4adee548e632a9.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图片来源：深交所</p><p style="text-indent: 2em; text-align: left;">招股说明书显示，西恩科技将根据发展计划，本次募集资金扣除发行费用后的净额将投资于20万t/a<span class="hrefStyle"><a href="https://libattery.ofweek.com/CAT-36001-lidianchi.html" target="_blank" title="锂电池">锂电池</a></span><span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E9%94%82%E7%94%B5%E6%B1%A0%E6%9D%90%E6%96%99.HTM" target="_blank" title="材料">材料</a></span>综合回收利用项目。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/16/rongyi/1660642619693037785.jpg" title="1660642619693037785.jpg" alt="cd8c03fe51320e484c732071f5118e2.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">图片来源：招股说明书</p><p style="text-indent: 2em; text-align: left;">资料显示，西恩科技成立于2004年，深耕有色金属资源回收利用领域，主要从事<span class="hrefStyle"><a href="https://libattery.ofweek.com/" target="_blank" title="锂电">锂电</a></span>池材料的研发、生产和销售业务，并提供危废处置服务。</p><p style="text-indent: 2em; text-align: left;">西恩科技基于资源综合利用技术，采用废旧锂<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>材料等作为原材料生产三元前驱体和碳酸锂，采用镍湿法冶炼中间品和含镍、钴废料作为原材料生产硫酸镍和氢氧化钴。</p><p style="text-indent: 2em; text-align: left;">上述产品可进一步用于生产锂电池所需的三元正极材料，并最终应用于<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>、电动工具、3C 电子以及电动两轮车等领域。</p><p style="text-indent: 2em; text-align: left;">西恩科技是符合《新能源汽车废旧动力蓄电池综合利用行业规范条件》的白名单企业之一。</p><p style="text-indent: 2em; text-align: left;">截至本招股说明书签署日，西恩科技拥有专利25项，其中发明专利11项。</p><p style="text-indent: 2em; text-align: left;">业绩方面，招股说明书显示，2019年-2022年上半年，西恩科技实现营业收入分别是4.85亿元、8.04亿元、15.5亿元、10.73亿元，同期实现归属于母公司所有者的净利润分别是-2058.06万元、-503.85万元、1.66亿元、1.48亿元。</p><p style="text-indent: 2em; text-align: left;">西恩科技表示，受下游锂电池市场需求持续上升的影响，公司金属镍、金属钴和碳酸锂的市场价格总体上呈震荡上升趋势，经营业绩相应震荡上行。</p><p style="text-indent: 2em; text-align: left;">产品方面，西恩科技主要产品包含硫酸镍、三元前驱体、碳酸锂、氢氧化钴、危废处置等。其中硫酸镍产品为营收和利润的主要来源，2019年至2022年上半年，硫酸镍占主营业务收入比例为80.19%、57.1%、49.22%和46.6%。</p><p style="text-indent: 2em; text-align: left;">需要注意的是，自2020年来，西恩科技硫酸镍的营收占比持续下降，三元前驱体和碳酸锂的营收持续升高，毛利润较为稳定。</p><p style="text-indent: 2em; text-align: left;">市场地位方面，2021年西恩科技硫酸镍产量为2.53万吨，其中通过资源回收利用生产的硫酸镍数量近5000吨。2021年国内硫酸镍产量为130.2万吨，根据 MySteel统计，2021年西恩科技硫酸镍产量排名全国第8名。</p><p style="text-indent: 2em; text-align: left;">2021年中国三元前驱体出货量为61.80万吨；西恩科技2021年三元前驱体产量为4904.05吨。</p><p style="text-indent: 2em; text-align: left;">西恩科技指出，目前公司生产的三元前驱体为5系三元前驱体，类型比较单一，尽管公司积极布局高镍产品产线，但三元高镍产品仍处于研发阶段，尚未产生收入。</p><p style="text-indent: 2em; text-align: left;">与西恩科技同行业的其他企业主要为中伟股份、邦普循环、格林美、华友钴业、科隆新能、芳源股份及优美科长信等公司。</p><p style="text-indent: 2em; text-align: left;">客户方面，西恩科技下游客户主要为<span class="hrefStyle"><a href="https://libattery.ofweek.com/tag-%E5%BD%93%E5%8D%87%E7%A7%91%E6%8A%80.HTM" target="_blank" title="当升科技">当升科技</a></span>、科隆新能、中伟股份、天力锂能、容百科技等业内知名生产企业，同时与当升科技针对三元前驱体的生产工艺及产品性能开展了研发合作。</p> 
+  
+</div>
+            

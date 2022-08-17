@@ -1,0 +1,19 @@
+
+---
+title: '海源复材资本市场表现活跃，加码HJT电池'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=202'
+author: 高科技行业门户
+comments: false
+date: Tue, 16 Aug 2022 10:34:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=202'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">8月16日，江西海源复合材料科技股份有限公司（以下简称“海源复材”）发布关于投资建设2.7GW N型高效<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260018-dianchijishu.html" target="_blank" title="光伏电池">光伏电池</a></span>项目的公告。</p><p style="text-indent: 2em; text-align: left;">公告称，海源复材以全资孙公司新余赛维能源科技有限公司（以下简称“赛维能源”）为投资主体，在江西省新余市国家级高新技术开发区投资建设2.7GW N型高效<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span><span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>项目。</p><p style="text-indent: 2em; text-align: left;"></p><section><section><section><section><p style="text-indent: 2em; text-align: left;"><strong>项目优势</strong></p></section></section></section></section><p></p><p style="text-indent: 2em; text-align: left;">项目总投资7亿元，其中固定资产投资为6.2亿元, 铺底流动资金为0.8亿元。预计分三期建置完成2.7GW N 型高效光伏电池生产线。项目达产后，可实现年销售额30.40亿元人民币, 年利润1.02亿元的经济效益。</p><p style="text-indent: 2em; text-align: left;">海源复材在公告中还详细分析了投建该项目的优势：海源复材选择N型高效电池作为主要技术路线，着眼于N型高效<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260018-dianchijishu.html" target="_blank" title="电池技术">电池技术</a></span>布局，并逐步结合微晶硅，铜制程及TCO导电玻璃等先进制程技术，发展复合式光伏电池，进一步降低光伏成本，提高光电转换效率。</p><p style="text-indent: 2em; text-align: left;">同时海源复材还表示，在完成2.7GW N型高效光伏电池项目建设后, 结合已有的高效<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260008-zujianmokuai.html" target="_blank" title="光伏组件">光伏组件</a></span>产能, 将可形成自光伏电池到光伏组件的垂直产能, 充份发挥产能及技术优势, 形成规模效益。</p><p style="text-indent: 2em; text-align: left;"></p><section><section><section><section><p style="text-indent: 2em; text-align: left;"><strong>新材料企业跨界光伏</strong></p></section></section></section></section><p></p><p style="text-indent: 2em; text-align: left;">资料显示，海源复材成立于1988年，1994年起以液压成型技术进行横向创新，2010年正式上市，一直专注高端装备制造行业。2020年3月，江西嘉维以5.5亿元的价格取得海源复材控股权。2020年9月，海源复材以0元价格收购赛维电源100%股权，进军光伏组件。</p><p style="text-indent: 2em; text-align: left;">2021年，光伏业务已占海源复材总营收的11.57%，成为公司第三大营收来源。虽然在利润表现上不及预期，但引入了光伏业务的海源复材，明显得到了更多投资者的关注。资料显示，近一年间海源复材共涨停27次，在二级市场表现活跃。</p><p style="text-indent: 2em; text-align: left;">进入2022年后，国内外<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfushichang.html" target="_blank" title="光伏市场">光伏市场</a></span>持续高速增长，大部分企业均取得“大丰收”。本就手握光伏业务的海源复材，自然不会浪费“大好机会”。</p><p style="text-indent: 2em; text-align: left;">近日，海源复材董事长甘胜泉在接受采访时表示，在注入光伏业务之后，今年光伏板块营收将超过原有主业新材料业务，未来公司将成为一家双主业公司。</p><p style="text-indent: 2em; text-align: left;">随后就有了本次关于投建2.7GW N 型高效光伏电池项目的公告，可见海源复材内部早已规划进一步扩大光伏业务。</p><p style="text-indent: 2em; text-align: left;"></p><section><section><section><section><p style="text-indent: 2em; text-align: left;"><strong>HJT电池机遇</strong></p></section></section></section></section><p></p><p style="text-indent: 2em; text-align: left;">N型电池较为清晰的技术路线主要是TOPCon电池和HJT电池。前者可与PERC产线兼容，是晶科能源、晶澳科技等组件巨头较为青睐的方向，且已发布相关组件产品。海源复材作为光伏“新秀”，自然不会选择跟巨头企业正面竞争。</p><p style="text-indent: 2em; text-align: left;">此前，海源复材已与捷得宝公司进行合作，后者为海源复材打造铜栅线金属化相关设备，可有效降低HJT电池银浆用量高的问题，已让海源复材成为国内第一家量产铜栅线HJT异质结电池的<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfuqiye.html" target="_blank" title="光伏企业">光伏企业</a></span>。</p><p style="text-indent: 2em; text-align: left;">今年6月，海源复材已宣布斥资3.548亿元投建600MW HJT高效异质结电池生产项目，预计会在三季度进行试生产。本次项目将进一步提高海源复材N型电池产能，提高其光伏业务营收，早日成为双主业公司。</p> 
+  
+</div>
+            
