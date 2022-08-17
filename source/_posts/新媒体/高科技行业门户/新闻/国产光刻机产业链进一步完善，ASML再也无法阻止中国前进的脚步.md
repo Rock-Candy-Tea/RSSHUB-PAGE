@@ -1,0 +1,19 @@
+
+---
+title: '国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202208/17123652814953.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 17 Aug 2022 05:36:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202208/17123652814953.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日国产<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%89%E5%88%BB%E6%9C%BA.HTM" target="_blank" title="光刻机">光刻机</a></span>产业链再获突破，上海传芯<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>公开了用于EUV光刻机的曝光成像结构、反射式光掩模版组及投影式光刻机专利，这对于国产光刻机产业链来说是又一个关键的技术突破。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202208/17123652814953.jpg" title="国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步" alt="国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">光刻机的生产之所以困难，在于它集中了全球科技行业的精华，需要德国、美国、日本等诸多国家的配套企业提供相关的组件，最终由荷兰的ASML将之整合成为一台光刻机，正是这种高度的配合才能生产出全球最先进的光刻机。</p><p style="text-indent: 2em; text-align: left;">中国近几年一直在努力实现光刻机的自主化，其中上海微电子在光刻机方面的进展较快，不过仅靠上海微电子是无法生产出先进的光刻机的，需要国内诸多产业链企业共同合作才能最终将之变成现实。</p><p style="text-indent: 2em; text-align: left;">此前清华大学机械工程系朱煜教授带队的清华大学研发团队就已研发出光刻机双工作台，由此中国成为全球第二个可以生产双工作台的国家；此外激光头、镜头等厂商也陆续生产出先进的组件，再到如今上海传芯半导体的突破，可以说国产光刻机的产业链正在加速完善。</p><p style="text-indent: 2em; text-align: left;">中国的光刻机产业链得以迅速完善，在于这20多年打下的制造业基础，这些基础让这些组件的研发和量产迅速推进，逐步完善，如此可以预期再过数年国产的先进光刻机终将会变成现实。</p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;">光刻机巨头ASML曾经表示即使给中国企业图纸，中国企业也无法生产出先进的光刻机，原因就在于光刻机的诸多组件都由非中国大陆的企业生产，然而如今中国的光刻机产业链在快速推进，显然出乎了它的意料。</span></p><p style="text-indent: 2em; text-align: left;">其实这也是ASML的自大吧，20多年前日本的光刻机可也是领先于ASML的，占有的市场份额与ASML相差不大，后来先进的光刻机成本越来越昂贵，于是ASML与光刻机客户<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-Intel.HTM" target="_blank" title="Intel">Intel</a></span>等结成联盟并由这些客户入股，在利益捆绑之下，这些芯片制造企业都优先采用ASML的光刻机，才造成了如今ASML的一家独大。</p><p style="text-indent: 2em; text-align: left;">这就说明光刻机的技术其实并非由ASML所独有，只不过ASML通过客户捆绑的方式击败了日本的光刻机产业，最终才变成了ASML的一家独大，然而如今日本也有意绕开ASML的光刻机，日本的铠侠存储就与日本企业研发了先机的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-NI.HTM" target="_blank" title="NI">NI</a></span>L工艺，已在芯片制造行业走出了一条新路。</p><p style="text-indent: 2em; text-align: left;">中国如今也是两条腿走路，一方面继续打通光刻机产业链，另一方面则是研发无需光刻机的芯片制造工艺，中国能如此做，在于中国庞大的市场，以及庞大的制造业基础，无论那一条路打通，中国的芯片制造产业都能支撑起一条芯片制造产业链。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202208/17123707141959.jpg" title="国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步" alt="国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">今年一季度ASML加紧对中国出货光刻机，可能也正是预感到<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E4%B8%AD%E5%9B%BD%E8%8A%AF.HTM" target="_blank" title="中国芯">中国芯</a></span>片制造产业链已取得新的突破，希望赶在中国量产自己的芯片制造设备之前再赚一笔，乃至以此压制中国<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A.HTM" target="_blank" title="芯片产业">芯片产业</a></span>链的发展，毕竟中国的成本优势太强了，就如中国已量产的芯片价格低至美国芯片的四分之一，只要中国量产的芯片，欧美芯片企业都只能大举降价抛售，近期欧美的芯片都传出降价九成的消息就印证了这一点。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 国产光刻机产业链进一步完善，ASML再也无法阻止中国前进的脚步</span></p> 
+  
+</div>
+            
