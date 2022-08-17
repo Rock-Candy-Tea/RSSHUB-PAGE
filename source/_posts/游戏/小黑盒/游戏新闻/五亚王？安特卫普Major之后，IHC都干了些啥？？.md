@@ -1,0 +1,18 @@
+
+---
+title: '五亚王？安特卫普Major之后，IHC都干了些啥？？'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/08/17/155da8a6595cbd2cc8e0bba09b267770/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Wed, 17 Aug 2022 18:25:04 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/08/17/155da8a6595cbd2cc8e0bba09b267770/thumb.jpeg'
+---
+
+<div>   
+<blockquote><p>前言:在上篇文章结尾作者挖了一个坑，发现很多人都不了解IHC的现状。于是借着RMR之前，来聊聊Major之后的IHC都干了些什么。</p></blockquote><h3><br></h3><blockquote><p>创造历史，人气高涨</p></blockquote><p>  作为蒙古CS首支打进Major的队伍，他们回国后办签名会，见面会，还有一些代言，ihc还给自己的俱乐部成员做了一套卡组，小小的宣传一下。</p><p><img class="lazy" data-height="1085" src="https://imgheybox.max-c.com/bbs/2022/08/17/155da8a6595cbd2cc8e0bba09b267770/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><blockquote><p>征战新赛季  心高气傲</p></blockquote><p>  随着衣锦还乡，MNCS热情高涨，ihc成功拿下蒙古国内举办的MESA夏季联赛的冠军，这无疑让他们一度认为自己已然成为亚洲NO.1。</p><p><img class="lazy" data-height="1078" src="https://imgheybox.max-c.com/bbs/2022/08/17/32278ecfc42b3ccafe606214b4f7cba2/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><blockquote><p>一波三折  辞旧添新</p></blockquote><p>  不过ihc估计自己也没想到，这将是他们这个暑假拿到的唯一的冠军。随着ESL亚太地区S41开赛，ihc一路势如破竹，一度打到赛季末期，遇见了留学回来的RA。<span data-emoji="cube_并不简单" class="hb-emoji"></span></p><p>  学习了一套欧洲思维的RA与ihc遇见的其他亚洲队伍都不一样，让ihc难寻破解之法，一度在胜者组决赛BO3输给RA，落入败者组之后，将Aravt斩于马下，但梅开二度3:1输给了RA。<b>（小知识:ihc拿下的那一分16-0，零封了RA。RA拿到瓦伦西亚站名额后拿到了esl前四的好成绩。）</b></p><p>‌  随后ihc进行了一波痛苦反思，进行了一番大换血。指挥blitz是亚洲数一数二的钢枪指挥，sk0r是队里的大哥，nin9时不时犯一些没必要的低级错误，rating打强队也很少上1，techno在major末期开始就梦游一样，经常打出0-11的战犯表现，kabal则是经常超神超鬼，很不稳定。于是ihc花钱买来了蒙古第一狙annihilation（这单词意思是灭绝，俗称灭绝哥），并下放了techno4k，把替补bart4k拿到了首发。<b><br></b></p><p><img class="lazy" data-height="853" src="https://imgheybox.max-c.com/bbs/2022/08/17/4a0005edbe08b10c225224bc9a0012d9/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><blockquote><p>痛苦变阵  千年老二</p></blockquote><p>  这里简单过一下吧<span data-emoji="cube_沧桑" class="hb-emoji"></span></p><p><b>MESA夏季联赛–第一名</b></p><p><b>ESL瓦伦西亚预选–第二名（输RA）</b></p><p><b>jigjug杯–第二名（输aravt）（蒙古国比赛）</b></p><p><b>ESL墨尔本预选–第二名（输Wings up）</b></p><p><b>PPL S2–第二名（输LVG）</b></p><p><b>Blast亚洲区预选–第二名（输TYLOO）</b></p><p><b>IEM里约Major亚洲公开赛–晋级封闭预选赛</b><br></p><p><b><br></b></p><p><img class="lazy" data-height="1107" src="https://imgheybox.max-c.com/bbs/2022/08/17/63bb09353f7313618647ba49b0c331e1/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p><b><br></b></p><p><img class="lazy" data-height="1200" src="https://imgheybox.max-c.com/bbs/2022/08/17/6dba633ca9e63c59e3ac09ffff2cae72/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><p><b>（这时你学会了一个新单词Runner up，陪跑者即亚军<span data-emoji="cube_感动" class="hb-emoji"></span><span data-emoji="cube_感动" class="hb-emoji"></span><span data-emoji="cube_感动" class="hb-emoji"></span>）</b></p><blockquote><p>‌里约Major在即  群雄逐鹿<b><br></b></p></blockquote><p>  现在的ihc已经把techno换回首发了，身为一个步枪手，他的状态有所回暖，小镇回到了强势，但沙二<span data-emoji="cube_感动" class="hb-emoji"></span>。还有一个细节，我发现ihc最近的比赛都在主动ban米垃圾，要知道他们之前的Major可是靠米垃圾赢了好几次，不知道是什么原因呢？</p><p>  这一次里约Major，不仅有天禄，还有ra，lvg都很强大，大洋洲那几支队，还有希望么？<span data-emoji="cube_doge" class="hb-emoji"></span>，通过亚洲公开赛的ihc，很快就会与我们再见面，看看下半年的RMR会是怎样的精彩吧<span data-emoji="cube_加油" class="hb-emoji"></span></p><p><img class="lazy" data-height="1094" src="https://imgheybox.max-c.com/bbs/2022/08/17/e5ac4cb3860d84962b942f39c646d7fe/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p>  
+</div>
+            
