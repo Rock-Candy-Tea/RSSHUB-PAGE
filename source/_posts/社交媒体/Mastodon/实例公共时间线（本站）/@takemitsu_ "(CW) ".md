@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/837/406/347/155/783/original/aa0fb60522fffc6e.jpg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/837/553/750/637/433/original/19650bde45011ad0.jpg'
 author: Mastodon
 comments: false
-date: Wed, 17 Aug 2022 09:04:35 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/837/406/347/155/783/original/aa0fb60522fffc6e.jpg'
+date: Wed, 17 Aug 2022 09:42:18 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/837/553/750/637/433/original/19650bde45011ad0.jpg'
 ---
 
 <div>   
-<hr><p>文字テキストめんどくさすぎる</p><br><img src="https://img.pawoo.net/media_attachments/files/108/837/406/347/155/783/original/aa0fb60522fffc6e.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/407/004/405/570/original/268a00f01fa865e2.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/407/533/044/037/original/e6a96972df8be8bb.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/408/025/758/399/original/5492f0cf4f3987a3.jpg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>続き。ちょうどいいところでくぎられたな・・・</p><br><img src="https://img.pawoo.net/media_attachments/files/108/837/553/750/637/433/original/19650bde45011ad0.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/554/457/141/259/original/4fe1ec8710671e8a.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/555/112/068/296/original/70dee2f2d35e1b48.jpg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/837/555/766/500/141/original/04ed2180d260f60e.jpg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
