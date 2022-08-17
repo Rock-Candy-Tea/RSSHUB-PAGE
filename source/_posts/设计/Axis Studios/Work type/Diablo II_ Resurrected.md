@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 author: Axis Studios
 comments: false
-date: 2022-08-17 14:16:34
+date: 2022-08-17 15:11:07
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14490/diablo_axisstudios_011.jpg'
 ---
 
