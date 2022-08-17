@@ -1,0 +1,19 @@
+
+---
+title: '美国断供EDA，国产工业软件如何应对？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=1934'
+author: 高科技行业门户
+comments: false
+date: Wed, 17 Aug 2022 05:51:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1934'
+---
+
+<div>   
+<p>       8月13日，美国商务部（工业和安全局）正式宣布最终规定，对设计GAAFET（全栅场效应晶体管）结构集成电路所必须的EDA软件；金刚石和氧化镓为代表的超宽带半导体材料；燃气涡轮发动机使用的压力增益燃烧(PGC)等四项技术实施新的出口管制！相关禁令生效日期为2022年8月15日！</p><p>       EDA是芯片IC设计不可或缺的重要部分，属于芯片制造上游产业，涵盖集成电路设计、布线、验证和仿真等所有流程，EDA被行业内称为“芯片之母”。</p><p>       广义上任何一种对于工业设计、生产、组织、流通环节的软件都可以称为“工业软件”。 因此，EDA软件本质是一种工业软件，其目的是为了提升设计能力、加快设计<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="自动化">自动化</a></span>程度的软件。EDA工具软件可大致可分为芯片设计辅助软件、可编程芯片辅助设计软件、系统设计辅助软件等三类。</p><p>       目前，全球的EDA软件主要由Cadence、Synopsys、Mentor等三家美国企业垄断。称霸EDA市场的美国三巨头，牢牢占据了全球超过70%的市场份额，能够提供完整的EDA工具，覆盖集成电路设计与制造全流程或大部分流程。</p><p>   <strong>   工业软件“卡脖子”现象越演越烈</strong></p><p>      中美摩擦这几年，工业软件和芯片成为同时击中中国制造的“软”“硬”两把利剑。</p><p>      今年3月12日，全球UI设计领域的“头部企业”Figma，封禁了大疆等被美国制裁的公司账号。这家美国设计厂商声明，在美国撤销制裁之前，相关企业账号在Figma上的所有文件将无法访问。除Figma外，目前全球还有两款较为主流的设计工具Sketch和AdobeXD，如果未来这两家美国企业也采取类似措施，将对国内互联网科技公司的产品设计造成影响。</p><p>       MATLAB是美国MathWorks公司研发的商业数学软件，2020年6月6日，哈工大的学生像往常那样打开常用软件MATLAB，准备编辑学术论文，却被软件突然告知使用权被封，无法使用该软件，同样遭遇的还有哈工程。2020年8月初，360和华为也中招Docker软件禁令，该软件在工作中也经常被使用，主要作为计算机工作者日常用到的开源应用。</p><p>       2019年5月，美国商务部将华为列入实体清单，导致其无法使用最新5nm的EDA软件设计海思麒麟芯片，让工业软件的自主性愈加受到重视。</p><p>       <strong>长久的积累才能一朝薄发</strong></p><p>       与部分行业靠砸钱就能跑马圈地的商业模式不同，工业体系有庞大而复杂的供应链，工业软件需要将工业细分领域的Know-How与工业机理有序地封装进软件，而不同的细分领域的Know-How又完全不同。因此纯资金砸不出工业软件，这个行业需要长时间的沉淀与积累。</p><p>       专家表示，只要能够称得上低端市场的很小的系统，即使应用系统，都需要500个人做一年才能做出一个雏形。再经过各个阶段的迭代、成熟，最后才能变成可量销的系统，所以软件行业的前期投入周期很长。</p><p>       软件的国产替代是可以预期的，经过两三年的孵化，软件慢慢也会进入一个兑现期。不过，细分来看，国内工业软件的市场规模不够大，还无法驱动更多的资本以及企业愿意投资。这也是国内暂未诞生全球领先工业软件的主要原因。</p><p>      <strong> 国产工业软件需逐个击破</strong></p><p><strong>       1.EDA</strong></p><p>       从国产EDA软件发展史来看，从上世纪80、90年代起，就不断地有中国企业进军EDA软件领域，直到1993年，华大九天发布了国内第一款EDA软件——熊猫ICCAD系统，实现了国产EDA从0到1的突破。</p><p>       近年来，华大九天结合自身在EDA技术积累和持续的技术开发，研发并掌握了多项核心技术，在EDA工具软件及相关服务领域形成了行业领先的技术优势。</p><p>       今年7月29日，华大九天正式登陆创业板。上市首日，华大九天大涨129.43%，成交额36.73亿元，振幅22.76%，换手率69.17%，截至收盘总市值突破407.21亿元。</p><p>       <strong>2.CAD</strong></p><p>       以研发设计类工业软件CAD为例，长久以来，CAD工业软件市场被欧美巨头垄断，法国达索系统、德国西门子、美国参数技术（PTC）、美国欧特克（Autodesk）等就占据了CAD软件行业绝大部分市场份额。</p><p>       艾瑞咨询数据显示，我国CAD市场规模增速高于全球市场，但较欧美等发达国家仍存在差距，2020年市场规模为35亿元，并预计2023年将达到67亿元。</p><p>       中望软件是国产CAD龙头，已具备完善的2D/3DCAD产品线，核心产品拥有自主知识产权。2019年，中望软件正式推动All-in-One CAx战略布局，在2D CAD和3D CAD/CAM的基础上，逐步完善CAE产品线，目前已在电磁核心算法EIT及Yee网格、FEM网格等技术上取得竞争优势。</p><p>    <strong>   3.其它工业软件</strong></p><p>       宝信软件系中国宝武实际控制、宝钢股份控股的软件企业，是中国钢铁领域的工业软件龙头，产品矩阵从最底层智能装备，到<span class="hrefStyle"><a href="https://gongkong.ofweek.com/" target="_blank" title="工业自动化">工业自动化</a></span>，到MES软件，到上层ERP管理软件，再到<span class="hrefStyle"><a href="http://gongkong.ofweek.com/KW-gongyehulianwang.html" target="_blank" title="工业互联网">工业互联网</a></span>平台全产业链产品。2021年7月26日 ，宝信软件发布了自主研发的<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E5%B7%A5%E4%B8%9A%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="工业控制系统">工业控制系统</a></span>的核心部件—大型<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310012-PLCAndPAC.html" target="_blank" title="PLC">PLC</a></span>（可编程逻辑控制器）产品，该PLC 主要面向冶金高端装备工艺需求，是宝信软件深耕钢铁行业又一个重大创新成果。</p><p>       中控技术则深耕工业自动化领域，其集散<span class="hrefStyle"><a href="http://gongkong.ofweek.com/tag-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="控制系统">控制系统</a></span>(<span class="hrefStyle"><a href="http://gongkong.ofweek.com/CAT-310013-DCS.html" target="_blank" title="DCS">DCS</a></span>)2021年市占率达33.8%，连续十一年蝉联国内DCS市占率第一，安全<span class="hrefStyle"><a href="http://instrument.ofweek.com/" target="_blank" title="仪表">仪表</a></span>系统(SIS)2021年市占率为25.7%，排名第二。</p><p>       国内EPR市场广阔，同时制造业细分领域繁多，目前并未形成寡头垄断格局。目前SAP、Oracle等国外头部厂商占据大量市场份额，金蝶、用友、鼎捷软件在本土厂商中位列第一梯队。</p> 
+  
+</div>
+            
