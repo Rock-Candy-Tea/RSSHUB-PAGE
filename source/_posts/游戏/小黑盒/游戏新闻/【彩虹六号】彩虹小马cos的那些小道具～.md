@@ -1,0 +1,18 @@
+
+---
+title: '【彩虹六号】彩虹小马cos的那些小道具～'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/08/17/a53032fe604c181421cf4d2cda6d758f/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Wed, 17 Aug 2022 15:58:34 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/08/17/a53032fe604c181421cf4d2cda6d758f/thumb.jpeg'
+---
+
+<div>   
+<p><a href="heybox://open_subject" target="_blank">#彩六创造营第五期#</a> <br></p><p>彩虹小马的正片Cos在愚人节的时候已经发出啦（有兴趣的可以翻翻我发布过的帖子）。这一次和大伙儿分享一下我的这些个粉粉嫩嫩的cos道具，重点是！！！除了服装之外的这些道具，都是我心灵手巧的好闺蜜给我亲手做的，真的一百万个感动<span data-emoji="cube_感动" class="hb-emoji"></span></p><p>第一次愚人节活动的时候就被粉色的萌男机枪哥打动到！没想到心灵手巧的好闺蜜直接把他变到现实中来了～<br></p><p><img class="lazy" data-height="3024" src="https://imgheybox.max-c.com/bbs/2022/08/17/a53032fe604c181421cf4d2cda6d758f/thumb.jpeg" data-width="4032" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2022/08/17/9d92ead40fc7758663049adaa1dd584a/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1279" src="https://imgheybox.max-c.com/bbs/2022/08/17/d650cf6e1fb4daec483c87ec9278859c/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>首先是最最可爱独特的独角兽头盔，材料都是很普通的小东西拼制而成（主要是她手巧hhh），做完之后我一整个哇塞住，甚至真的可以带着它骑上我心爱的小摩托～（但是还是得在没车的地方，安全第一）<br></p><p><img class="lazy" data-height="2736" src="https://imgheybox.max-c.com/bbs/2022/08/17/36d7465c3e5f320483495d15d98ece6a/thumb.jpeg" data-width="3648" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/bbs/2022/08/17/a5c3c17c39fe5860ea1a41ba1bbef3cf/thumb.jpeg" data-width="1440" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1440" src="https://imgheybox.max-c.com/bbs/2022/08/17/be1d029699d7d573a1d116a2485248eb/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="4032" src="https://imgheybox.max-c.com/bbs/2022/08/17/c318a629f2f42b7707742f1b3103bb23/thumb.jpeg" data-width="3024" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="4032" src="https://imgheybox.max-c.com/bbs/2022/08/17/b5bcd004f028579e8bf92260cf55a456/thumb.jpeg" data-width="3003" referrerpolicy="no-referrer"></p><p>然后就是这把超级无敌可爱大盘鸡～ 也是我闺蜜给它上的颜色，大体是粉紫色，彩虹部分是贴纸贴的，虽然只是个道具，但是真的萌化了我的心～<br></p><p><img class="lazy" data-height="2448" src="https://imgheybox.max-c.com/bbs/2022/08/17/e410ba3f1bbca6d78200ff1cb2c9f369/thumb.jpeg" data-width="3264" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="4096" src="https://imgheybox.max-c.com/bbs/2022/08/17/3751583b3a55af372fe7fb807d55a1af/thumb.jpeg" data-width="3360" referrerpolicy="no-referrer"></p><p>再然后就是身上的战术包，因为准备的时间很短，也找不到一模一样的粉色战术包，所以灵机一动，买了一堆化妆包然后她给我亲手加工缝制，人家上战场带的是战术包，我们女孩子上战场，带的是化妆包！（不要武装，要红妆hhh）<br></p><p><img class="lazy" data-height="2448" src="https://imgheybox.max-c.com/bbs/2022/08/17/3fa4d6e5b94da66adb3c32c90eceaac3/thumb.jpeg" data-width="3264" referrerpolicy="no-referrer"></p><p>最后就是这个很小个，几乎看不到的小项链，也是我闺蜜亲手给我定制，亲手一个一个字母弄好的 TACHANKA！ <br><span data-emoji="cube_哇" class="hb-emoji"></span></p><p><img class="lazy" data-height="1104" src="https://imgheybox.max-c.com/bbs/2022/08/17/e0d64a77e27b1fe0ba8aeac4a9b346e9/thumb.jpeg" data-width="2000" referrerpolicy="no-referrer"></p><p>还有特意去做了一个指甲配我的彩虹小马cos嘻嘻嘻～<br></p><p><img class="lazy" data-height="2000" src="https://imgheybox.max-c.com/bbs/2022/08/17/17f923047e5f2584e364d51eb92e2d5d/thumb.jpeg" data-width="2000" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#彩虹6号#</a>   <a href="heybox://open_subject" target="_blank">#彩虹六号#</a>  <a href="heybox://open_subject" target="_blank">#彩虹六号：围攻#</a> <br></p>  
+</div>
+            
