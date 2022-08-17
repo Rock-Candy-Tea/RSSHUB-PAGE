@@ -8,20 +8,20 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?v=1660704033574'
 author: 巴哈姆特
 comments: false
-date: 2022-08-17 03:24:59
+date: 2022-08-17 05:00:44
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?v=1660704033574'
 ---
 
 <div>   
 <div>
 <div>
-　　由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AB%98%E7%88%BE%E5%A4%AB%E4%B9%8B%E5%B7%94" target="_blank">高爾夫之巔</a>（Golf Peaks）》和《內飯盒（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=inbento" target="_blank">inbento</a>）》製作團隊 Afterburn 打造的全新鐵軌拼接益智遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Railbound" target="_blank">Railbound</a>》（PC / iOS / Android）宣布將在 2002 年 9 月 6 日於 Steam、App Store 以及 Google Play 商店推出。</div>
+　　由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AB%98%E7%88%BE%E5%A4%AB%E4%B9%8B%E5%B7%94" target="_blank">高爾夫之巔</a>（Golf Peaks）》和《內飯盒（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=inbento" target="_blank">inbento</a>）》製作團隊 Afterburn 打造的全新鐵軌拼接益智遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Railbound" target="_blank">Railbound</a>》（PC / iOS / Android）宣布將在 2022 年 9 月 6 日於 Steam、App Store 以及 Google Play 商店推出。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?v=1660704033574" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?v=1660704033574" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -89,7 +89,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/14/a7c6db93c278ec39a1ef6c399d1hta25.
 <div>
  </div>
 <div>
-　　在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Railbound" target="_blank">Railbound</a>》於 9 月正式推出以前，玩家目前可以透過 Steam 商店免費下載試玩，PC 版本的建議售價為 12.99 美元，手機版本則是 4.99 美元。現在已在 App Store 以及 Google Play 商店頁面開放預先註冊。</div>
+　　在《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Railbound" target="_blank">Railbound</a>》於 2022 年 9 月正式推出以前，玩家目前可以透過 Steam 商店免費下載試玩，PC 版本的建議售價為 12.99 美元，手機版本則是 4.99 美元。現在已在 App Store 以及 Google Play 商店頁面開放預先註冊。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55609" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
