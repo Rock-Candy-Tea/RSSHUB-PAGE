@@ -45,7 +45,10 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220818/1660804939_2222
 <img src="https://img.3dmgame.com/uploads/images/news/20220818/1660804940_810019.jpg" alt="原神提纳里角色PV——「书已尽言」" referrerpolicy="no-referrer"> 
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220818/1660804940_898158.jpg" alt="原神提纳里角色PV——「书已尽言」" referrerpolicy="no-referrer"> 
-</p>          
+<img src="https://img.3dmgame.com/uploads/images/news/20220818/1660804940_898158.jpg" alt="原神提纳里角色PV——「书已尽言」" referrerpolicy="no-referrer">
+</p><p style="text-align:center;">
+<img src="https://img.3dmgame.com/uploads/images/news/20220818/1660807666_393886.jpg" alt="原神提纳里角色PV——「书已尽言」" referrerpolicy="no-referrer">
+</p>
+<p></p>          
 </div>
             

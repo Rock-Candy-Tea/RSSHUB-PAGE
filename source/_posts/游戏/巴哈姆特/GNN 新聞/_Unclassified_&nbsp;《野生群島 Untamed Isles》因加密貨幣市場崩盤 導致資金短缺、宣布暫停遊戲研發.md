@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/08/4f8b5416e16bb79bd8a6cae12c1hu785.JPG?v=1660804683590'
 author: 巴哈姆特
 comments: false
-date: 2022-08-18 07:09:33
+date: 2022-08-18 08:12:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/08/4f8b5416e16bb79bd8a6cae12c1hu785.JPG?v=1660804683590'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/08/4f8b5416e16bb79bd8a6cae12c1hu785.
 <div>
 <div>
 <div>
-　　以馴服怪物為主題的 MMORPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%87%8E%E7%94%9F%E7%BE%A4%E5%B3%B6" target="_blank">野生群島</a>（暫譯，Untamed Isles）》原本透過 Kickstarter 募資網站募集了 52 萬美元的資金，但由於近期加密貨幣市場崩盤，導致投資者退出，影響遊戲搶先體驗時程。研發團隊 Phat Loot Studios 公告，目前遊戲暫停研發、團隊正在尋找拯救核心研發團隊與遊戲的方法，目前也無法退款給 Kickstarter 參與募資者。</div>
+　　以馴服怪物為主題的 MMORPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%87%8E%E7%94%9F%E7%BE%A4%E5%B3%B6" target="_blank">野生群島</a>（暫譯，Untamed Isles）》原本透過 Kickstarter 募資網站募集了 52 萬美元的資金，但由於近期加密貨幣市場崩盤，導致投資者退出，影響遊戲搶先體驗時程。研發團隊 Phat Loot Studios 公告，遊戲暫停研發、團隊正在尋找拯救核心研發團隊與遊戲的方法，目前也無法退款給 Kickstarter 參與募資者。</div>
 <div>
  </div>
 <div>
