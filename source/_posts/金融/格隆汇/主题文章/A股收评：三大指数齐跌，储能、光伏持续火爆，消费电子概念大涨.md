@@ -1,0 +1,18 @@
+
+---
+title: 'A股收评：三大指数齐跌，储能、光伏持续火爆，消费电子概念大涨'
+categories: 
+ - 金融
+ - 格隆汇
+ - 主题文章
+headimg: 'https://img3.gelonghui.com/88da1-66dfd5eb-03c3-4425-947e-287236f5e1e6.png'
+author: 格隆汇
+comments: false
+date: Thu, 18 Aug 2022 00:00:00 GMT
+thumbnail: 'https://img3.gelonghui.com/88da1-66dfd5eb-03c3-4425-947e-287236f5e1e6.png'
+---
+
+<div>   
+<p></p><p><span style="font-weight: 400;">8月18日，指数全天弱势震荡，沪指收跌0.46%报3277点，深成指跌0.62%，创业板指跌0.08%，科创50指数涨1.26%。两市2798股下跌，1975股上涨，成交额维持在万亿上方，北上资金净卖出46.13亿。</span><br></p><p><img src="https://img3.gelonghui.com/88da1-66dfd5eb-03c3-4425-947e-287236f5e1e6.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>盘面上，行业板块多数下跌，芯片、消费电子等科技类题材表现突出，三安光电盘中触及涨停；科技部等九部门印发《科技支撑碳达峰碳中和实施方案(2022—2030年)》，储能、光伏概念股批量涨停，热泵、钠电池、智能电网等概念表现活跃；培育钻石、汽配股强劲，强势股南方精工、祥鑫科技再度涨停创新高。消费股低迷，长春高新尾盘跳水跌停，舍得酒跌5.8%。</p><p>具体来看：</p><p>储能概念大爆发。英威腾、三维化学、海天股份、通宇通讯等多股涨停。消息面上，科技部等九部门印发《科技支撑碳达峰碳中和实施方案(2022—2030年)》。方案提出，研发压缩空气储能、飞轮储能、液态和固态锂离子电池储能、钠离子电池储能、液流电池储能等高效储能技术；研发梯级电站大型储能等新型储能应用技术以及相关储能安全技术。</p><p><img src="https://img3.gelonghui.com/66d1b-fc6c9803-b382-4bc7-9379-d738515ef1a7.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>光伏概念强势。激智科技、京山轻机、伊戈尔、川润股份等多股涨停。西南证券认为，硅料新增产能将开始逐步释放，下游需求将获得充分满足，环比增速提升。短期看，从二季度光伏业绩看，全行业（硅料至组件及相关辅件）基本实现环比增长，下半年硅料产能释放将带来装机增速上涨，长期看，各国新能源替代化石能源需求增大，强烈建议积极布局光伏板块。</p><p><img src="https://img3.gelonghui.com/c0d02-21d906be-4d90-419a-9d0c-b79f6a26fbf4.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消费电子集体大涨。传艺科技、东尼电子、国光电器、振邦智能等涨停。消息面上，苹果被曝计划于当地时间9月7日举行秋季发布会，将发布iPhone 14产品线和三款最新的Apple Watch，新产品预计将于9月16日上市。同时，华为Mate 50系列也被曝将在9月7日发布。国融证券发布研报称悲观预期已充分反映，行业估值处于低位，基本面或迎边际改善。消费电子为低预期板块，市场对手机消费疲软已充分反映，行业估值已处于低位。</p><p><img src="https://img3.gelonghui.com/086c3-9df46135-d5d5-4513-83cb-1a9b5cb42491.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>第三代半导体概念回暖。民德电子、天岳先进、东尼电子等涨停。湘财证券表示，2022年半导体产业下游需求保持结构性增长，新能源汽车、工控、中高端IOT领域需求保持平稳；三季度随着新能源汽车新品入市及各地稳增长促消费政策的发力，国内新能源车销量将延续上行趋势，驱动车规半导体市场需求保持平稳增长；恰逢Q3为消费电子产品新品发布密集期，新产品有望改善消费电子销售颓势。中长期，半导体产业的国产化替代的快速推进势在必行，利好国内半导体企业发展。</p><p><img src="https://img3.gelonghui.com/4ac39-f36a8cdc-5581-4763-b90b-54e9b847a795.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>汽配股涨幅居前。隆基机械、沪光股份、南方精工、瑞鹄模具、祥鑫科技、潍柴重机等多股涨停。据乘联会调查，近四成经销商看好下半年市场，普遍认为销量同比增幅在10-20%；近三成的经销商认为销量与去年持平，侧面反应当前车市景气度延续，汽车市场有望持续向好。</p><p><img src="https://img3.gelonghui.com/2f5d5-de73b5ea-cb1d-4caf-8d82-24d3be5816a1.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>白酒股回调。舍得就业跌超5%，中锐股份、洋河股份跌超3%。光大证券表示，短期将围绕正在推进双节备货的白酒以及休闲食品板块寻找相关投资机会。国海证券认为，当前与今年4月底行情类似，中秋低于预期即是符合预期，旺季竞争加剧，行业迎来渠道出清阶段，看好中秋预期降至低位后的板块行情，建议关注当下左侧布局机会。</p><p><img src="https://img3.gelonghui.com/2b61e-92b970a3-2fc9-49ae-b7b2-c46ba6c5051d.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>酒店及餐饮概念跌幅居前。君亭酒店跌超5%，首旅酒店跌超4%，锦江酒店、华天酒店、金陵饭店等集体跟跌。</p><p><img src="https://img3.gelonghui.com/cff62-4f234f66-f725-4520-b471-faaf524b9494.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>今日，北上资金净流入-18.28亿元，其中沪股通净流入-1.07亿元，深股通净流入-17.21亿元。</p><p><img src="https://img3.gelonghui.com/5053c-ac313513-8f2d-4fe6-aa2e-add299e5b98c.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>展望后市，国盛证券指出，当前指数突破了短期均线系统的压制，市场交投情绪相对较为活跃，后市在有成交量配合的前提下，指数有望进一步上行挑战上方缺口。操作上短期需注意资金可能存在高低切换，近期表现活跃的证券等大金融板块可能对资金存在一定的虹吸效应。当前处于市场高景气度的光伏、风电、储能等板块在利好不断的加持下仍可继续关注。此外随着苹果新品发布的临近短期可关注苹果产业链及消费电子板块的短期机会；芯片、半导体板块的本土替代逻辑长期存在，把握相关板块的中期布局机会。</p><p></p>  
+</div>
+            
