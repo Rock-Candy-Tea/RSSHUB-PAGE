@@ -1,0 +1,19 @@
+
+---
+title: '美国的_阳谋_：让中国芯设计卡死在3nm，制造卡死在10nm'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202208/18133244522958.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 18 Aug 2022 05:52:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202208/18133244522958.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">众所周知，这几年中国<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A.HTM" target="_blank" title="芯片产业">芯片产业</a></span>的不断崛起，特别是制造上，不断突破，产能急剧提升，在2020年的时候，晶圆产能占全球的16％，已经超过了美国12％。</p><p style="text-indent: 2em; text-align: left;">而按照机构的预测到2030年时，中国晶圆产能会高达24％，而美国会降为10％，不足中国大陆的二分之一，这让美国大为紧张，所以最近针对<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E4%B8%AD%E5%9B%BD%E8%8A%AF.HTM" target="_blank" title="中国芯">中国芯</a></span>片产业，美国又下死手了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/18133244522958.jpg" title="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" alt="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">中美晶圆产能对比<br></p><p style="text-indent: 2em; text-align: left;">从当前的情况来看，美国下手，分为三个方面。一是利用520亿美元的芯片补贴，拉拢芯片巨头，到美国设厂，并不准拿补贴的厂商，10年内到中国大陆投资高端芯片，以此锁死中国高端芯片10年。</p><p style="text-indent: 2em; text-align: left;">二是对EDA进行封禁，直接将开发GAAFET（全栅场效应晶体管）结构<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF.HTM" target="_blank" title="集成电路">集成电路</a></span>必须用到的EDA（电子<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%AE%A1%E7%AE%97%E6%9C%BA.HTM" target="_blank" title="计算机">计算机</a></span>辅助设计）软件，被列入管制范围。</p><p style="text-indent: 2em; text-align: left;">三是对14nm及以下的所有设备，都不准卖到中国大陆来，从<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2816-ProcessManufacturing.html" target="_blank" title="制造领域">制造领域</a></span>进行打压。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/18133246349273.jpg" title="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" alt="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而美国这三个举措背后，其实是美国当前的最大“阳谋”，也不遮着掩着，那就是“想让中国大陆的芯片设计卡死在 3nm，制造卡死在 10nm，然后拉开中美在高速运算、人工 AI 等方面的距离。”。</p><p style="text-indent: 2em; text-align: left;">先说设计卡死在3nm这一块，因为当芯片进入到3nm时，<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>已经使用了GAAFET晶体管，而<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>在2nm时也会使用GAAFET晶体管。</p><p style="text-indent: 2em; text-align: left;">一旦GAAFET晶体管设计使用的EDA不准中国大陆厂商使用，那么大家基本上芯片设计水平，差不多就卡在了3nm，很难进入到3nm所需的GAAFET技术上来了。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/18133253833479.jpg" title="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" alt="美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">再说制造方面，当前中国大陆最先进的工艺是FinFET技术，也就是中芯的14nm，早已实现了量产。但美国当前想要禁止14nm及以下的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8A%E5%AF%BC%E4%BD%93.HTM" target="_blank" title="半导体">半导体</a></span>设备禁运。</p><p style="text-indent: 2em; text-align: left;">那么我们就只能停留在14nm，很难再进前一步到10nm了，毕竟当前国产半导体设备能够支持的工艺，大多在28nm，少部分在14nm，只有刻蚀机到了3nm，要补的课还太多，短时间无法突破。</p><p style="text-indent: 2em; text-align: left;">可见，中国要发展高端芯片，不只是芯片制造环节要突破，还包括设计、制造、封测、设备及材料环节，以及芯片辅助设计工具（EDA）软件，只有芯片上下游的每一步都要走得扎实，才能够突破封测，路还很长。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 美国的“阳谋”：让中国芯设计卡死在3nm，制造卡死在10nm</span></p> 
+  
+</div>
+            
